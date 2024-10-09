@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 12:57:33**
+As of **2024-10-09 13:39:36**
 
 ## Newspaper Stats
 
-*Scraped **48,548** Articles*
+*Scraped **48,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,54 @@ dbsjeyarajcom | 399
 colombotelegraphcom | 480
 bbccomsinhala | 481
 islandlk | 2,870
-economynextcom | 2,974
+economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,499
+adalk | 4,500
 dailymirrorlk | 4,733
 adaderanalk | 5,725
 tamilmirrorlk | 6,581
 virakesarilk | 7,764
-adaderanasinhalalk | 8,396
+adaderanasinhalalk | 8,397
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,548 (100.0%) of 48,548 articles have been extended.
+48,553 (100.0%) of 48,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### A number of parties signing nominations
+
+*2024-10-09 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201987) · `si`
+
+Several major political parties who contest for the next general election have been signed nomination papers today (09).
+
+So 33 independent groups and 33 political parties have already been handed over.
+
+The national nomination signed its nomination papers at the party headquarters in Pelawatta.
+
+The UPFA signed the nomination papers at the UPFA's office at the same party.
+
+The new Democratic Front serves under the sign of the gas cylinder.
+
+Former President Ranil Wickremesinghe's Election Operations office located at the Colombo Flower Road.
+
+The Sri Lanka General Front also signed nominations for the next general election.
+
+Meanwhile, the period of postal votes related to the general election is due to end a midnight tomorrow.
+
+Meanwhile, the Elections Commission says that many foreign electorates have been invited to generaliality.
+
+...
+
+[Data](articles/34b6718c.json)
+
+[Extended Data](ext_articles/34b6718c.ext.json)
+
+---
 
 ### Political risks to Sri Lanka’s debt restructuring agreement recede – Fitch
 
@@ -43,6 +73,32 @@ The Sri Lankan authorities’ confirmation that they endorse the targets set und
 [Data](articles/63520b40.json)
 
 [Extended Data](ext_articles/63520b40.ext.json)
+
+---
+
+### Ceylon Workers Congress to contest election under elephant symbol
+
+*2024-10-09 12:20:00* · [`economynextcom`](https://economynext.com/ceylon-workers-congress-to-contest-election-under-elephant-symbol-182943/) · `en`
+
+ECONOMYNEXT – The Ceylon Workers Congress will contest the upcoming General Elections under the United National Party-led alliance of former President Ranil Wickremesinghe, its General Secretary said.
+
+“In Nuwara Eliya, the Ceylon Workers Congress will contest under the United National Party led alliance of former President @RW_SRILANKA. Our symbol will be the Elephant 🐘,” Jeevan Thondaman said.
+
+Thondaman signed the nomination papers on Tuesday (8) to contest from the Nuwara Eliya District.
+
+“I look forward to continue to serve the people of our country.”
+
+The Ceylon Workers’ Congress has traditionally represented Malaiyaga Tamils working in the plantation sector.
+
+But Thondaman, who last year was sworn in as the youngest Cabinet minister, was given a broader remit with the Ministry of Water Supply.
+
+Sri Lanka’s traditional party structure has been splintered with all major parties split or in coalitions.
+
+...
+
+[Data](articles/57d5c4d1.json)
+
+[Extended Data](ext_articles/57d5c4d1.ext.json)
 
 ---
 
@@ -67,6 +123,24 @@ The competition marks the sixtieth anniversary of Wildlife Photographer of the Y
 [Data](articles/9088d8a4.json)
 
 [Extended Data](ext_articles/9088d8a4.ext.json)
+
+---
+
+### A new political party from Ranjan
+
+*2024-10-09 12:02:13* · [`adalk`](https://www.ada.lk/breaking_news/රන්ජන්ගෙන්-නව-දේශපාලන-පක්ෂයක්/11-412390) · `si`
+
+Former Parliamentarian Ranjan Ramanayake has established a new political party.
+
+Former TMDilshan has been appointed as the national organizer of the party under the microphone sign.
+
+Former Parliamentarian Wadveyel Suresh has also joined the party.
+
+◼️
+
+[Data](articles/9ecb2ea0.json)
+
+[Extended Data](ext_articles/9ecb2ea0.ext.json)
 
 ---
 
@@ -145,6 +219,32 @@ This time, the people will clearly reject candidates with a political and corrup
 [Data](articles/67b32ec7.json)
 
 [Extended Data](ext_articles/67b32ec7.ext.json)
+
+---
+
+### Sri Lanka rupee trades stronger at 292.75/85 to US dollar, bond yields inch up
+
+*2024-10-09 11:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-292-75-85-to-us-dollar-bond-yields-inch-up-182931/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading at 292.75/85 to the US dollar on Wednesday, from 293.15/20 a day earlier, while bond yields were slightly up dealers said.
+
+An auction of 85,000 million rupees of Treasury bills was ongoing.
+
+A bond maturing on 15.12.2026 was quoted at 10.30/40 percent, down from 10.40/60 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.50/75 percent, up from 11.45/65 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.82/87 percent, up from 11.70/85 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.05/20 percent, up from 12.00/20 percent.
+
+In equities, Colombo’s All Share Price Index was trading 0.17 percent, or 20.46 points higher at 12,191, while the S&P SL20 of more liquid stocks was trading up 0.43 percent or 15.33 points higher at 3,611.
+
+◼️
+
+[Data](articles/53ddcbea.json)
+
+[Extended Data](ext_articles/53ddcbea.ext.json)
 
 ---
 
@@ -2241,103 +2341,5 @@ The price of imported potatoes can be sold from 160 to 234 rupees and dried chil
 [Data](articles/9d3b3150.json)
 
 [Extended Data](ext_articles/9d3b3150.ext.json)
-
----
-
-### Sri Lanka allows Chinese military training ship, yet to decide on research vessels
-
-*2024-10-08 19:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-allows-chinese-military-training-ship-yet-to-decide-on-research-vessels-182853/) · `en`
-
-ECONOMYNEXT – Sri Lanka has allowed a Chinese military training ship to enter the island nation’s main Colombo port as it is not a security threat to the country, Cabinet Spokesman Vijitha Herath said.
-
-The Chinese military ship will be the first foreign military vessel to Sri Lanka under the newly elected President Anura Kumara Dissanayake, the leader of Marxists Janatha Vimukthi Peremuna (JVP) which has maintained a strong anti-Indian sentiment in the past.
-
-Strong security concerns raised by India and the U.S. have already forced the Sri Lankan government last year to temporarily ban Chinese ships coming to Sri Lanka for research purposes.
-
-“Chinese military training ship has been granted permission to visit Sri Lanka. There is no security threat to Sri Lanka from it,” Hearth told the weekly Cabinet news briefing in Colombo on Tuesday (08).
-
-“Even in the past, war training ships from India, the United States, and Germany have visited Sri Lanka. We have given permission for a short period.
-
-...
-
-[Data](articles/9233b87e.json)
-
-[Extended Data](ext_articles/9233b87e.ext.json)
-
----
-
-### Rs.. 25000 fertilizer subsidy from Monday
-
-*2024-10-08 19:48:01* · [`adalk`](https://www.ada.lk/breaking_news/ගොවීන්ට-ලබාදෙන-රු--25000ක-පොහොර-සහනාධාරය-සඳුදා-සිට/11-412387) · `si`
-
-Fertilizer subsidy of Rs. 25,000 introduced in Ampara District. To benefit Polonnaruwa, Anuradhapura, Mahiyanganaya, and Mahaweli regions. Launches Monday.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath says that the fertilizer subsidy of Rs.. He said that it will be launched from the Ampara District.
-
-He further stated that this is scheduled to provide the production of the Polonnaruwa, Anuradhapura, Mahiyanganaya and Mahaweli regions.
-
-He was speaking at a press notice of Cabinet decisions yesterday (08).
-
-"This Maha Season begins. By Monday, the people of the Ampara district will be able to increase the fertilizer subsidy. Further, action will be taken to provide the production of Polonnaruwa, Anuradhapura and Mahiyanganaya. "And said:
-
-◼️
-
-[Data](articles/18c1bedc.json)
-
-[Extended Data](ext_articles/18c1bedc.ext.json)
-
----
-
-### Roshan is appointed as Kalutara district leader of the universality
-
-*2024-10-08 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201965) · `si`
-
-Here's a 200-character summary:
-
-
-
-Roshan Ranasinghe appointed Kalutara district leader. Dilith Jayaweera strengthens Motherland People's Party. Upali Jayasekara named Colombo district captain. Appointments made in various districts. Party emphasizes patriotism and entrepreneurship. Leaders express gratitude and confidence in their roles.
-
-🟩
-
-Mamalanda Janatha Janasinghe Chairman Roshan Ranasinghe was appointed as the Kalutara District Leader and Matugama electoral organizer of the exangeration.
-
-The letter was released on the letter of appointment.
-
-The leader of the Motherland People's Party Dilith Jayaweera said that his party would strengthen their party's Patriotic Nationalist Camp.
-
-Meanwhile, Entrepreneral Uplly Tetley Upali Jayasekara was the Colombo district captain of the Colombo district and AR Thawatndra John was appointed as the Ratnapura District Team leader today (08).
-
-Also, appointment letters were awarded to the organizers of many other seats in many other districts.
-
-"We have been asserting a victorious journey, further confirming whether we believe in the patriotic politics in Sri Lanka. So we believe only by ensuring our nationality to create the background of this country to make this country happy and the concept of an entrepreneurship state. "
-
-...
-
-[Data](articles/1b365359.json)
-
-[Extended Data](ext_articles/1b365359.ext.json)
-
----
-
-### Colombo Stock Exchange today
-
-*2024-10-08 19:44:06* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-කොටස්-වෙළඳපොළ-අදත්-ඉහළට/11-412386) · `si`
-
-Colombo Stock Exchange shows growth today. Overall index increases 6.46 points (0.05%) and S&P index rises 0.14% (4.93). Total trading value reaches Rs. 1.39 billion.
-
-🟩
-
-The Colombo Stock Exchange showed growth today. Accordingly, Rs. 1.39 billion on the date.
-
-Also, the overall stock price index has increased by 6.46 points, 0.05 percent and the S & P index by 0.14 percent, 4.93. ;
-
-◼️
-
-[Data](articles/32c2f2bc.json)
-
-[Extended Data](ext_articles/32c2f2bc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 08:58:34**
+As of **2024-10-09 09:12:26**
 
 ## Newspaper Stats
 
-*Scraped **48,505** Articles*
+*Scraped **48,507** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,970
 dailyftlk | 3,282
 adalk | 4,494
 dailymirrorlk | 4,733
-adaderanalk | 5,713
+adaderanalk | 5,715
 tamilmirrorlk | 6,574
 virakesarilk | 7,757
 adaderanasinhalalk | 8,390
@@ -26,11 +26,51 @@ adaderanasinhalalk | 8,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,505 (100.0%) of 48,505 articles have been extended.
+48,507 (100.0%) of 48,507 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Jaishankar’s visit was crucial in ending debt restructuring – Minister
+
+*2024-10-09 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102544/jaishankars-visit-was-crucial-in-ending-debt-restructuring-minister) · `en`
+
+Sri Lanka on Tuesday said the recent visit by Indian External Affairs Minister S Jaishankar was important in ending its debt restructuring with international sovereign bond holders.
+
+Jaishankar, who made a day-long trip to Sri Lanka on October 4, became the first foreign dignitary to visit the island nation after Anura Kumara Dissanayake assumed office as the new president on September 23.
+
+Cabinet spokesman and foreign affairs minister Vijitha Herath told reporters here that India’s signing up for the agreement as a bilateral creditor endorsing that the agreement was compatible with the comparative treatment principle in debt restructuring.
+
+Ahead of the presidential polls last month, cash-strapped Sri Lanka had on September 19 announced that it had reached an in principle agreement with the external commercial creditors for the restructuring of approximately USD 17.5 billion of external commercial debts.
+
+...
+
+[Data](articles/65814252.json)
+
+[Extended Data](ext_articles/65814252.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the country
+
+*2024-10-09 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102543/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department say showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
+
+Showers or thundershowers will occur elsewhere at several places in the island during the afternoon or night.
+
+Fairly heavy showers above 75mm are likely at some places in Western, Sabaragamuwa, Central, North-western, Uva and Eastern provinces and in Galle and Matara districts, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/1a6ada6a.json)
+
+[Extended Data](ext_articles/1a6ada6a.ext.json)
+
+---
 
 ### An increase in online financial fraud
 
@@ -2327,57 +2367,5 @@ The statements - and the Indian financial package - signal a significant improve
 [Data](articles/275e9db0.json)
 
 [Extended Data](ext_articles/275e9db0.ext.json)
-
----
-
-### President welcomes President of Bidain
-
-*2024-10-08 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201956) · `si`
-
-US President Joe Biden welcomed President Anura Kumara Dissanayake, praising Sri Lanka's peaceful transition. He emphasized strengthening US-Sri Lanka ties for stability, prosperity, and progress. The presidents discussed cooperation in economic growth, regional security, and democratic governance.
-
-🟩
-
-US President Joe Biden has commended the last presidential and post presidential and post presidential season in peace.
-
-Joe Biden has said this to the President Anura Kumara Dissanayake, who concludes the long-term relations between the US and Sri Lanka.
-
-US President Bideen has wrote to the greetings.
-
-"This election highlights the public commitment to conform to their future through the foundation of the energy and democracy in Sri Lanka."
-
-President Joe Biden has also emphasized the importance of enhancing cooperation between the United States and Sri Lanka to acquire stability, prosperity and progress to all Sri Lankan citizens.
-
-The US President also emphasized the importance of cooperation between the two countries to acquire stability, prosperity and progress to all Sri Lankan citizens.
-
-President Bideman has expressed optimism to strengthen bilateral relations under the leadership of President Anura Kumara Dissanayake, the leadership of President Anura Kumara Dissanayake.
-
-...
-
-[Data](articles/c6e9df70.json)
-
-[Extended Data](ext_articles/c6e9df70.ext.json)
-
----
-
-### Bharat Arulzamy joined Mano
-
-*2024-10-08 16:13:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோவுடன்-இணைந்தார்-பாரத்-அருள்சாமி/175-345098) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Bharat Arulsamy, Vice President of Ceylon Workers Congress, joins Tamil Progressive Alliance led by Mano Ganesan.
-
-🟩
-
-Vice President of the Ceylon Workers Congress Bharat Arulsamy has joined the Tamil Progressive Alliance led by former parliamentarian Mano Ganesan.
-
-◼️
-
-[Data](articles/035994e2.json)
-
-[Extended Data](ext_articles/035994e2.ext.json)
 
 ---

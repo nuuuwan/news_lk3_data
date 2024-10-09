@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 08:22:00**
+As of **2024-10-09 08:43:22**
 
 ## Newspaper Stats
 
-*Scraped **48,500** Articles*
+*Scraped **48,502** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,59 +18,93 @@ dailyftlk | 3,282
 adalk | 4,493
 dailymirrorlk | 4,733
 adaderanalk | 5,713
-tamilmirrorlk | 6,572
+tamilmirrorlk | 6,573
 virakesarilk | 7,757
-adaderanasinhalalk | 8,388
+adaderanasinhalalk | 8,389
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,495 (100.0%) of 48,500 articles have been extended.
+48,502 (100.0%) of 48,502 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
 
-### තරුණයෙකුගේ මළ සිරුරක් ළිඳකින් හමුවෙයි
+### Recreated eggs
+
+*2024-10-09 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201977) · `si`
+
+Egg prices surge despite drop to Rs. 30 due to bulk purchases and oversupply issues. President Ajith Gunasekera cites artificial fluctuations as main concern.
+
+🟩
+
+The price of an egg, which has been reduced to Rs. 30 has reached over Rs.
+
+President of the Sri Lanka Animal Manufacturers Association, Ajith Gunasekera said that several factors have been affected to rise again.
+
+"Large large quantities of bulk dealers take egg wikka. It got a great relief to customers. The excess of production has already left the market. Daily eggs currently produced by the daily eggs he comes to the market. But there is a large price fluctuation. It is a problem for us that it is artificially happens. "
+
+◼️
+
+[Data](articles/db0ddb69.json)
+
+[Extended Data](ext_articles/db0ddb69.ext.json)
+
+---
+
+### A dead body of a young man meets a well
 
 *2024-10-09 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201976) · `si`
 
-ඇල්පිටිය පොලිස් වසමේ ඇල්පිටිය මහජන ක්‍රීඩාංගණය අසල ඇති අතුරු මාර්ගයක ඇති ළිඳක් තුළ තිබී තරුණයෙකුගේ මළ සිරුරක් සොයාගෙන තිබේ.
+Body found in well at Elpitiya Police Stadium. Victim: 23-year-old from Mattechida. Attended concert at stadium. Body sent for post-mortem exam after investigation.
 
-පොලීසිය පැවසුවේ ඊයේ (08) දහවල් ඒ පිළිබ﻿ඳව පොලීසියට පණිවුඩයක් ලැබුණු බවය.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, අවුරුදු 23ක් වූ වැයිහේන, මත්තක ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A youth has found a body of a young man in a well on the Elpitiya Police Stadium.
 
-මියගිය තරුණයා ඊට පෙරදින ඇල්පිටිය මහජන ක්‍රීඩාංගණයේ පැවති සංගීත ප්‍රසංගයක් නැරඹීම සඳහා ගොස් ඇතැයි අනාවරණය වී තිබේ.
+Police said that the police had received a message from the afternoon yesterday.
 
-මෘත ශරීරය මහෙස්ත්‍රාත් පරීක්ෂණයෙන් පසු පශ්චාත් මරණ පරීක්ෂණය සඳහා ඇල්පිටිය රෝහලේ තැන්පත් කර ඇත.
+The victim is a 23 year old resident of Mattechida.
+
+The deceased has revealed that the deceased has visited a concert held at Elpitiya Public Stadium.
+
+The body has been placed at the Elpitiya Hospital for the post mortem examination after the magisterial inquiry.
 
 ◼️
 
 [Data](articles/267d0d2f.json)
 
+[Extended Data](ext_articles/267d0d2f.ext.json)
+
 ---
 
-### මහ ඡන්දෙට ස්වාධීන කණ්ඩායම් සහ දේශපාලන පක්ෂ 33ක්
+### Independent groups and 33 political parties for general election
 
 *2024-10-09 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201975) · `si`
 
-මෙවර මහ මැතිවරණය සඳහා ස්වාධීන කණ්ඩායම් සහ දේශපාලන පක්ෂ 33ක් නාමයෝජනා භාර දී තිබේ.
+General election: 17 parties, 16 independents submit nominations. No submissions in 5 districts. Nomination period ends Oct 11. Postal vote deadline extended to Oct 10.
 
-මැතිවරණ කොමිෂන් සභාව පවසන්නේ ඊයේ (08) දිනය අවසන් වන විට දේශපාලන පක්ෂ 17ක් සහ ස්වාධින කණ්ඩායම් 16ක් එලෙස නාම යෝජනා භාරදී තිබූ බවය.
+🟩
 
-මාතලේ, ගාල්ල, මාතර, කුරුණෑගල සහ බදුල්ල යන දිස්ත්‍රික්කවල මැතිවරණ කොට්ඨාස සඳහා ඊයේ දිනය අවසන් වනතෙක් කිසිදු දේශපාලන පක්ෂයක් හෝ ස්වාධීන කණ්ඩායමක් නාමයෝජනා භාර දී නොතිබු බව එම කොමිෂන් සභාව පවසයි.
+The nominations have been handed over to the general election this year.
 
-මහ මැතිවරණය සඳහා නාම යෝජනාභාර ගැනීම ඔක්තෝම්බර් මස 4 වනදා ආරම්භ වූ අතර ලබන 11 වනදා මධ්‍යාහ්න 12.00 දක්වා සිදුකිරීමට නියමිතය.
+The Election Commission says that 17 political parties and 16 independent groups had handed over the names of 16 political parties by the end of the day.
 
-මේ අතර මහ මැතිවරණයට අදාළ තැපැල් ජන්ද අයඳුම්පත් භාර ගැනීමේ කාලය ලබන 10 වනදා දක්වා දීර්ඝ කර තිබේ.
+According to the Commission, no nominations have been handed over to the Electorate in Matale, Galle, Matara, Kurunegala and Badulla districts.
 
-ඒ සඳහා අයඳුම්පත් භාරගැනීම ඊයේ මධ්‍යම රාත්‍රියෙන් අවසන් වීමට නියමිතිව තිබුණි.
+The nomination scheme for the general election began on October 4, and the 11th of this month will be held on the 11th.
+
+Meanwhile, the submission of the postal votes related to the general election has been extended until the 10th.
+
+Applications were to end up midnight yesterday.
 
 ◼️
 
 [Data](articles/f375f707.json)
+
+[Extended Data](ext_articles/f375f707.ext.json)
 
 ---
 
@@ -308,6 +342,32 @@ The manner in which the thinking about development banking has evolved, clearly 
 
 ---
 
+### Monday first fertilizer subsidy
+
+*2024-10-09 02:24:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கள்-முதல்-உர-மானியம்/175-345125) · `ta`
+
+Fertilizer subsidy increase for farmers starting Monday. Cabinet approves measure. Elections Commission gives permission. Subsidy details not specified.
+
+🟩
+
+Cabinet spokesman Minister Vijitha Herath said that steps will be taken to provide the increased fertilizer subsidy to the farmers from next Monday.
+
+He was speaking at a weekly press conference, announcing the Cabinet decisions at the Government Information Department yesterday.
+
+During the last Cabinet meeting to increase fertilizer subsidy to farmers, permission was granted.
+
+In the meantime, the Elections Commission has given permission to the Agrarian Service Department and several agricultural organizations.
+
+Accordingly, the fertilizer subsidy given to a hectares of Rs.. (A)
+
+◼️
+
+[Data](articles/7416b0ea.json)
+
+[Extended Data](ext_articles/7416b0ea.ext.json)
+
+---
+
 ### Call for nine provincial units of development
 
 *2024-10-09 02:22:12* · [`dailyftlk`](https://www.ft.lk/columns/Call-for-nine-provincial-units-of-development/4-767719) · `en`
@@ -324,19 +384,25 @@ This piece was prompted by the scaling back of ministries at the centre post the
 
 ---
 
-### மட்டுப்படுத்தப்படும் மலையக ரயில் சேவை
+### Limited mountain rail service
 
 *2024-10-09 02:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டுப்படுத்தப்படும்-மலையக-ரயில்-சேவை/175-345124) · `ta`
 
-இன்று முதல் எதிர்வரும் 15 ஆம் திகதி வரை மலையக மார்க்கத்திலான ரயில் போக்குவரத்து மட்டுப்படுத்தப்படவுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Railway service limited: Colombo to Ella only. Restricted until 15th due to shooting project.
 
-அதற்கமைய, குறித்த காலப்பகுதியில் கொழும்பு கோட்டையிலிருந்து எல்ல ரயில் நிலையம் வரையே ரயில் போக்குவரத்து முன்னெடுக்கப்படவுள்ளது.
+🟩
 
-படப்பிடிப்பு செயற்றிட்டம் காரணமாக இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் குறிப்பிட்டுள்ளது.  (a)
+The Railway Department said that the railway traffic on the hill country will be restricted from today to the 15th.
+
+Accordingly, rail transport will be carried out from Colombo Fort to Ella Railway Station during the period.
+
+The Railway Department said the decision was taken due to the shooting project.(a)
 
 ◼️
 
 [Data](articles/d0dbe3a9.json)
+
+[Extended Data](ext_articles/d0dbe3a9.ext.json)
 
 ---
 
@@ -390,21 +456,35 @@ The Ceylon Workers Congress announced the final decision yesterday as the Ceylon
 
 ---
 
-### 'මාස්ටර් බ්ලාස්ටර්': කලින් කලට පුවත් මවන සනත් ජයසූරියගේ අලුත් ම අභියෝගය
+### 'Master Blaster': Sanath Jayasuriya of Sanath Jayasuriya made earlier
 
 *2024-10-09 02:08:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgwjpvkllzo) · `si`
 
-'මාස්ටර් බ්ලාස්ටර්': කලින් කලට පුවත් මවන සනත් ජයසූරියගේ අලුත් ම අභියෝගය
+Here's a 200-character summary:
 
-කාලයෙන් කාලයට පුවත් මවන චරිතයක් වූ සනත් ජයසූරිය ගැන නැවත වරක් ක්‍රිකට් ලෝකයේ අවධානය යොමුව තිබේ. ඒ, ඔහු ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ නිත්‍ය පුහුණුකරු ලෙස පත් කිරීමත් සමග ය.
 
-ඔහුගේ එම පත්වීම 2026 වසරේ මාර්තු මස 31 වන දා දක්වා බලපැවැත්වෙන අතර ශ්‍රී ලංකාව සහ ඉන්දියාව සම සත්කාරකත්වය දරන පන්දු වාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ද ඔහුගේ රාජකාරී කාල සීමාව තුළ පැවැත්වීමට නියමිත ය.
 
-ශ්‍රී ලංකාවෙන් බිහිවූ ප්‍රවේගකාරී පිතිකරුවෙකු මෙන් ම ක්‍රිකට් නායකයෙකු ද වූ සනත් ජයසූරිය, ඉකුත් ජූලි මාසයේ සිට ජාතික ක්‍රිකට් කණ්ඩායමේ වැඩබලන පුහුණුකරු ලෙස කටයුතු කළේ ය.
+Sanath Jayasuriya, former Sri Lankan cricket star, appointed permanent coach of Sri Lankan cricket team. Aims to improve performance in Tests and ODIs. Focuses on discipline and player development. Confronts challenges in modern cricket landscape.
+
+🟩
+
+'Master Blaster': Sanath Jayasuriya of Sanath Jayasuriya made earlier
+
+Sanath Jayasuriya, a paradia, was once again focused on the cricket world. He was appointed as the permanent coach of the Sri Lankan cricket team.
+
+His appointment will be effective from March 31, 2026, and Sri Lanka and India will be held in his duties.
+
+Sanath Jayasuriya, a cricket batsman and a cricket leader, was the acting coach of the national cricket team from July.
+
+SKIP Twitter PostTwitter Can you agree to reach content? This article contains the content provided by Twitter. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Twitter cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The above is not responsible for the content of the END Twitter post.
+
+Born in Matara on June 30, 1969, Sanath Teran Jayasuriya was a player named a player who won the ultimate treasureman in Matara.
 
 ...
 
 [Data](articles/957ad606.json)
+
+[Extended Data](ext_articles/957ad606.ext.json)
 
 ---
 
@@ -1266,21 +1346,27 @@ It is noteworthy that the Department of Meteorology has requested the people to 
 
 ---
 
-### චීන යුද නැවකට ලංකාවට එන්න අවසර
+### A Chinese war ship to come to Sri Lanka
 
 *2024-10-08 19:26:02* · [`adalk`](https://www.ada.lk/breaking_news/චීන-යුද-නැවකට-ලංකාවට-එන්න-අවසර/11-412384) · `si`
 
-චීන යුද පුහුණු නෞකාවකට මෙරටට පැමිණීමට අවසර ලබාදුන් බව කැබිනට් මාධ්‍ය ප්‍රකාශක, අමාත්‍ය විජිත හේරත් මහතා පැවසීය. ඒ අනුව එම නෞකාව මේ මාසයේදී මෙරටට පැමිණීමට නියමිත බවද ඔහු සඳහන් කළේය.
+Chinese warship visit Sri Lanka: Cabinet approves entry for training purposes. Ship expected to arrive this month. Government emphasizes cooperation with international partners including India, USA, and China.
 
-අද (08දා) පැවති කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය හමුවේදී ඔහු මෙම අදහස් පළ කළේය.
+🟩
 
-එය මෙරට ආරක්ෂාවට හානියක් නොවන බවත්, මින් පෙරද යුද අභ්‍යාස සඳහා මෙවැනි නැව් මෙරටට පැමිණ ඇති බවත් ඔහු ප්‍රකාශ කළේය.
+Cabinet spokesman, Minister Vijitha Herath said he was permitted to reach Sri Lanka to a Chinese war training cruise ship. Accordingly, the ship is due to return to Sri Lanka this month.
 
-වත්මන් රජය ඉන්දියාව, ඇමරිකාව, චීනය යන සියලු රටවල් සමග සහයෝගයෙන් කටයුතු කිරීමට බලාපොරොත්තු වන බවත් ඔහු කීවේය.
+He made these comments at a press briefing to inform the Cabinet decisions today (08).
+
+He said that it would not harm the security of the country and that such ships had come to Sri Lanka for war exercises before.
+
+The present government is looking to cooperate with all countries in India, America, China.
 
 ◼️
 
 [Data](articles/8e7f27c6.json)
+
+[Extended Data](ext_articles/8e7f27c6.ext.json)
 
 ---
 
@@ -2295,45 +2381,5 @@ To strengthen the camaraderie between the two navies, crew members of the ship a
 [Data](articles/50d7c29e.json)
 
 [Extended Data](ext_articles/50d7c29e.ext.json)
-
----
-
-### Nobel Prize for Physics
-
-*2024-10-08 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201955) · `si`
-
-John Hopfield (Princeton) and Geoffrey Hinton (Toronto) won the Nobel Prize for Physics. Awarded by the Royal Swedish Academy of Sciences for work in statistical physics.
-
-🟩
-
-John Hopfield and Geoffrey Hinton have been able to win the Nobel Prize for Physics.
-
-Hopfield was conducted at Princeton University and Hinston works at the University of Toronto.
-
-The prize was awarded by the Nobel Committee of the Royal Academy of the Royal Academy of Sweden Science, the two scientists using statistical physics schedule.
-
-◼️
-
-[Data](articles/64212483.json)
-
-[Extended Data](ext_articles/64212483.ext.json)
-
----
-
-### Arrest warrant issued against Upul Tharanga for failure to appear at court
-
-*2024-10-08 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102532/arrest-warrant-issued-against-upul-tharanga-for-failure-to-appear-at-court) · `en`
-
-The Matale High Court has issued an arrest warrant against the Chairman of the Selection Committee at Sri Lanka Cricket (SLC), former Sri Lankan cricketer Upul Tharanga today (08).
-
-The arrest warrant has reportedly been issued over failure to appear before the court pertaining to a match-fixing case during the 2024 Legends Cricket Tournament.
-
-However, the relevant case has been filed by Tharanga himself and he has left the country for cricketing purposes without informing the court in that regard.
-
-◼️
-
-[Data](articles/36da46ba.json)
-
-[Extended Data](ext_articles/36da46ba.ext.json)
 
 ---

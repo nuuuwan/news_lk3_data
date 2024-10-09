@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 14:57:59**
+As of **2024-10-09 15:10:07**
 
 ## Newspaper Stats
 
-*Scraped **48,569** Articles*
+*Scraped **48,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 2,977
 dailyftlk | 3,283
 adalk | 4,503
 dailymirrorlk | 4,733
-adaderanalk | 5,726
+adaderanalk | 5,727
 tamilmirrorlk | 6,588
 virakesarilk | 7,766
-adaderanasinhalalk | 8,399
+adaderanasinhalalk | 8,401
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,569 (100.0%) of 48,569 articles have been extended.
+48,572 (100.0%) of 48,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Petition against Nilantha Jayawardena postponed
+
+*2024-10-09 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201991) · `si`
+
+The Court of Appeal today (09) the Court of Appeal was held today (09) to be summoned to the National Police Commission to issue disciplinary action against the former Director of State Intelligence.
+
+The petition has been filed against Nilantha Jayawardena against the pre-intelligence attack on the Easter intelligence.
+
+The petition filed by the Social and Peace Center, the petition was summoned before the Court of Appeal of Sobhitha Rajakaruna and Mahen Gopallawa today.
+
+President's Counsel Chandra Jayasundara appearing on behalf of Nilantha Jayawardene has said that the Supreme Court has initiated a new investigation against his client as the Police Commission has launched a new investigation against his client.
+
+Do you confirm the petition regarding the petition?Or do you withdrawal?The court ordered to be summoned on November 13 to consider.
+
+◼️
+
+[Data](articles/0d1cf7d5.json)
+
+[Extended Data](ext_articles/0d1cf7d5.ext.json)
+
+---
+
+### Inferior chemical that comes to the good name
+
+*2024-10-09 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201990) · `si`
+
+A racket that sells the fake agricultural inputhorator in the market is being operated by the fake agricultural deposits market as the brand of the country.
+
+A type of fake agricultural inputs was arrested by the raid at the Registrar's Registrar's Office of Pesticides in Thambuththegama.
+
+A racket of pesticides in the Registrar's Office of Registrar's Office, a racket is being implemented in the market.
+
+The maintenance of the main agricultural input companies in the country are illegal using the country's leading agricultural companies.
+
+The raid on the office of Registrar's Office in search of these fake agricultural inputs is wide raids.
+
+It is said that 960 agricultural applications used in the eggplant inputs that were placed in Thambuttegama yesterday.
+
+They were released to the market using a leading agricultural input manufacturing company in the country.
+
+The sealing of 960 packets of pseudo-agricultural input inputs will be sealing at the market.
+
+◼️
+
+[Data](articles/597ae5a3.json)
+
+[Extended Data](ext_articles/597ae5a3.ext.json)
+
+---
 
 ### We will not reduce the privileges: the Secretary of Defense
 
@@ -375,6 +425,30 @@ Sri Lanka’s traditional party structure has been splintered with all major par
 [Data](articles/57d5c4d1.json)
 
 [Extended Data](ext_articles/57d5c4d1.ext.json)
+
+---
+
+### Sri Lanka’s Prasantha Vinod wins prize at Wildlife Photographer of the Year Awards
+
+*2024-10-09 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102553/sri-lankas-prasantha-vinod-wins-prize-at-wildlife-photographer-of-the-year-awards) · `en`
+
+A Sri Lankan photographer has managed to win the prize in the “Behaviour: Mammals” category at the Wildlife Photographer of the Year Awards 2024 held in London’s Natural History Museum.
+
+After photographing birds and leopards, Hikkaduwa Liyanage Prasantha Vinod captured a young toque macaque peacefully sleeping in an adult’s arms to highlight the challenges these monkeys face amid habitat loss and farmer conflicts.
+
+His photograph - “A Tranquil Moment”, has secured him the prize in the “Behaviour: Mammals” category at the prestigious event.
+
+Meanwhile, a snapshot of wriggling toad tadpoles has earned Shane Gross the title of Wildlife Photographer of the Year.
+
+Shane Gross wins the grand prize - and the ‘Wetlands: The Bigger Picture’ category
+
+The competition marks the sixtieth anniversary of Wildlife Photographer of the Year. For decades this competition has revealed the beauty, wonder and vulnerability of the natural world.
+
+...
+
+[Data](articles/0827f231.json)
+
+[Extended Data](ext_articles/0827f231.ext.json)
 
 ---
 
@@ -2197,67 +2271,5 @@ The Chief Jailer and two other officers including a secondar jailor and a guard 
 [Data](articles/74bd0b94.json)
 
 [Extended Data](ext_articles/74bd0b94.ext.json)
-
----
-
-### Amnesty period for unregistered Sri Lankan migrant workers in Lebanon
-
-*2024-10-08 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102541/amnesty-period-for-unregistered-sri-lankan-migrant-workers-in-lebanon) · `en`
-
-Sri Lankans who have traveled to Lebanon for employment without registering with the Sri Lanka Bureau of Foreign Employment (SLBFE) have been granted an amnesty until January 8, 2025.
-
-Accordingly, this initiative allows unregistered migrant workers to rectify their status by registering at the Sri Lankan Embassy in Lebanon.
-
-◼️
-
-[Data](articles/43f6fb3f.json)
-
-[Extended Data](ext_articles/43f6fb3f.ext.json)
-
----
-
-### Special Relief for Sri Lankans
-
-*2024-10-08 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201970) · `si`
-
-Sri Lanka Bureau registration: Special relief for Sri Lankans. Concessions granted for obtaining registration.
-
-🟩
-
-The Registration of the Sri Lanka Bureau has been given special concessions for Sri Lankans to obtain the registration of the Sri Lanka Bureau.
-
-◼️
-
-[Data](articles/1df7d1c1.json)
-
-[Extended Data](ext_articles/1df7d1c1.ext.json)
-
----
-
-### What happened in the IMF talks?
-
-*2024-10-08 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201969) · `si`
-
-IMF talks summary: Conceptual discussion without structural changes. Officer-level talks needed for decisions. New government considers options, including DSA. Economy faces challenges; no immediate changes planned.
-
-🟩
-
-Cabinet Publisjaket says that only a conceptual discussion was held recently and had not been discussed with a structural change and did notice the decisions.
-
-He was speaking at the cabinet decision notification held today (08).
-
-Speaking further the Minister said that the officer's level discussion should be made in order to make decisions on such a structural change.
-
-Q. The IMF Representative recently held discussions. Despite the media, Professor is a professor. Just didn't generate. What did you consider?
-
-"This was a conviction of this IMF representatives and how the new government would deal with this. Otherwise, the decisions did not make decisions. It is tumbled on the officer at the officer at the official level. "
-
-Q. There was an alternative debt insisctious analysis of the policy expression of the national power. That DSA. Said it would create structural discussions. Are you trying to build the Options DSA and submit?
-
-...
-
-[Data](articles/498fd43e.json)
-
-[Extended Data](ext_articles/498fd43e.ext.json)
 
 ---

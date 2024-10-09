@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 16:23:33**
+As of **2024-10-09 16:39:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,591 (100.0%) of 48,592 articles have been extended.
+48,592 (100.0%) of 48,592 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -209,6 +209,8 @@ Dharmawickrama further emphasized that the new President and the Prime Minister,
 ...
 
 [Data](articles/7ce6ca57.json)
+
+[Extended Data](ext_articles/7ce6ca57.ext.json)
 
 ---
 
@@ -620,6 +622,10 @@ However, so far, only 14 apartments have been renovated, and the Ministry of Pub
 
 *2024-10-09 14:01:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அருச்சுனாவுக்கு-பிணை/175-345158) · `ta`
 
+Doctor Aruchuna released on bail, promises not to violate conditions. Case filed against him for threatening doctors and slander on social media. Previously detained for alleged violations. Bail granted after attorney general's application.
+
+🟩
+
 The Chavakachcheri Magistrate's Court has been released on bail after the doctor Aruchuna has promised not to violate the bail conditions.
 
 The Jaffna - Chavakachcheri Hospital has filed a case at the Chavakachcheri Hospital against crimes including the threat of fellow doctors on the telephone and slander on social media.
@@ -681,6 +687,10 @@ Actor and politician Ranjan Ramanayake and former Sri Lankan cricketer DM Dilsha
 ### Vadivel Suresh Competition in United Democratic Voice Party
 
 *2024-10-09 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/195835) · `ta`
+
+Vadivel Suresh contests United Democratic Voice Party election. Promises to address issues affecting rural communities. Criticizes previous leaders for deceiving hill country residents.
+
+🟩
 
 Former parliamentarian Vadivel Suresh has announced that he will contest the "United Democratic Voice" party today (09).
 

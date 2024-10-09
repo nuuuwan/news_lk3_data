@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 11:39:24**
+As of **2024-10-09 11:58:58**
 
 ## Newspaper Stats
 
-*Scraped **48,531** Articles*
+*Scraped **48,538** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,100 @@ dbsjeyarajcom | 398
 colombotelegraphcom | 480
 bbccomsinhala | 481
 islandlk | 2,870
-economynextcom | 2,970
+economynextcom | 2,974
 dailyftlk | 3,283
 adalk | 4,497
 dailymirrorlk | 4,733
-adaderanalk | 5,721
-tamilmirrorlk | 6,579
+adaderanalk | 5,722
+tamilmirrorlk | 6,580
 virakesarilk | 7,762
-adaderanasinhalalk | 8,394
+adaderanasinhalalk | 8,395
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,531 (100.0%) of 48,531 articles have been extended.
+48,536 (100.0%) of 48,538 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Is Ranjan changing the party?
+
+*2024-10-09 11:33:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-மாறுகிறாரா-ரஞ்சன்/175-345136) · `ta`
+
+Ranjan Ramanayake, former MP, may contest elections if citizenship restored. He considers joining new party, pending legal status resolution.
+
+🟩
+
+Former parliamentarian Ranjan Ramanayake's citizenship, who has been jailed for contempt of court, is likely to be able to contest the new party in the new party if the citizenship is recovered.
+
+Mr. Ramanayake told the Daily Mirror that he was considering contesting the general election from the new party.
+
+“I have met some experts and asked for civic rights. If I am given citizenship I will contest the general election. I was given a referendum card before the presidential election, but I could not vote because I had to go abroad. I will inquire with the Election Commission on whether I can contest and I will compete if the tattoo is shown. ”
+
+Some parties have invited me to contest the election and I will consider all these calls, ”he said.
+
+◼️
+
+[Data](articles/8354b746.json)
+
+[Extended Data](ext_articles/8354b746.ext.json)
+
+---
+
+### The fatal accident that lost his life
+
+*2024-10-09 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201985) · `si`
+
+Motorcycle crash kills 18-year-old, injures 49-year-old near Bandaragama. Police investigating. Post-mortem scheduled for tomorrow.
+
+🟩
+
+Two persons traveling to a motorcycle traveled by a Kumbuk tree near the UPKuputuwa Junction of Bandaragama.
+
+Bandaragama police said that one youth was killed and another injured were seriously injured.
+
+The deceased has been identified as an 18-year-old youth, a resident of Bandaragama and West Bandaragama.
+
+Police investigations have revealed that the motorbike was running out of the Kumbuk tree in the Bandarathtuwa Bandarawela on the Bandaragama-Kalutara road.
+
+The victim was a 49-year-old man who had been admitted to the Colombo National Hospital yesterday (08).
+
+The front wheel of the motorcyclist was severely damaged and the Kumbuk tree was damaged.
+
+The post mortem examination of the deceased youth will be held today (09) at the Horana District Hospital.
+
+◼️
+
+[Data](articles/b050857f.json)
+
+[Extended Data](ext_articles/b050857f.ext.json)
+
+---
+
+### Sri Lanka to seek BRICS membership at upcoming summit in Russia
+
+*2024-10-09 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102551/sri-lanka-to-seek-brics-membership-at-upcoming-summit-in-russia) · `en`
+
+Sri Lanka will pursue BRICS membership at a meeting in Russia later this month, cabinet spokesman Vijitha Herath told media on Tuesday.
+
+Herath said that Russia will host the BRICS Summit in Kazan from Oct. 22 to Oct. 24, 2024.
+
+Although President Anura Kumara Dissanayake was invited to attend the summit, he will be unable to participate due to domestic commitments, Herath explained.
+
+The country’s secretary to the Ministry of Foreign Affairs, along with a team of officials, will represent Sri Lanka at the summit, where the country will formally seek BRICS membership, Herath said.
+
+Sri Lanka plans to reach out to the foreign ministers of all BRICS nations for support soon, Herath said.
+
+◼️
+
+[Data](articles/5ed0c2a5.json)
+
+[Extended Data](ext_articles/5ed0c2a5.ext.json)
+
+---
 
 ### 2024 General Election: 33 independent groups and political parties complete nominations
 
@@ -71,6 +147,22 @@ His hard work eventually paid off and he was soon able to ditch his job at 7-Ele
 [Data](articles/7a9984c4.json)
 
 [Extended Data](ext_articles/7a9984c4.ext.json)
+
+---
+
+### Sri Lanka must not overly disturb current fiscal framework: IPS chief
+
+*2024-10-09 11:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-must-not-overly-disturb-current-fiscal-framework-ips-chief-182915/) · `en`
+
+ECONOMYNEXT – While austerity hurts, options are limited for a middle-income country in default, and the more prudent course of action now would be to introduce any changes without overly disturbing the current fiscal framework, Institute of Policy Studies (IPS) Executive Director Dushni Weerakoon said, also noting that debt forgiveness may be out of reach at present.
+
+Speaking at the launch of the IPS’s ‘Sri Lanka State of the Economy 2024’ report on Tuesday October 08, Weerakoon said the crisis-hit island nation has regained a degree of macroeconomic stability, with inflation averaging about one percent year-on-year over the past six months.
+
+...
+
+[Data](articles/c2b2705f.json)
+
+[Extended Data](ext_articles/c2b2705f.ext.json)
 
 ---
 
@@ -422,6 +514,24 @@ Police Inspector Hewage, Sub-Inspector Sirimal Police Constable at 94884 Charmin
 
 ---
 
+### US committed to Sri Lanka’s economic development, Biden writes to AKD
+
+*2024-10-09 09:08:00* · [`economynextcom`](https://economynext.com/us-committed-to-sri-lankas-economic-development-biden-writes-to-akd-182898/) · `en`
+
+ECONOMYNEXT — US President Joe Biden has written to Sri Lanka President Anura Kumar Dissanayake calling for enhanced cooperation between the two countries in promoting economic growth, regional security and democratic governance.
+
+The President’s Media Division (PMD) in Colombo said on Tuesday October 08 that Biden had written to Dissanayake to congratulate him on his recent election victory. The PMD called Biden’s letter a “significant gesture of diplomatic goodwill”.
+
+In a separate statement, the PMD said the US has also committed to providing essential support to strengthen Sri Lanka’s economy. According to the PMD, US Ambassador Julie Chung has said in a meeting on Tuesday that support would be focused on fostering an export-driven economy in the island nation.
+
+...
+
+[Data](articles/b975c48c.json)
+
+[Extended Data](ext_articles/b975c48c.ext.json)
+
+---
+
 ### A private elephant who damaged residential areas in Samanthurai
 
 *2024-10-09 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195811) · `ta`
@@ -589,6 +699,28 @@ Senior Information Security Engineers Warrankarapola said that there were over 3
 [Data](articles/7655e18c.json)
 
 [Extended Data](ext_articles/7655e18c.ext.json)
+
+---
+
+### Sri Lanka going ahead ISB deal to avoid bigger problems from delay: Foreign Minister
+
+*2024-10-09 08:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-going-ahead-isb-deal-to-avoid-bigger-problems-from-delay-foreign-minister-182883/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new administration decided to go ahead with a restructure deal reached with sovereign bondholders before the presidential election to avoid bigger economic problems from a delay, Foreign Minister Vijitha Herath said.
+
+“We as a government did not change the process especially on ISBs,” Foreign Minister Vijitha Herath told reporters after this week’s cabinet meeting.
+
+“We intervened to take the process forward without breaking it down.
+
+“If we stopped it and then checked whether it was correct or not, it will take a very long time, the economy would have to face big problems.”
+
+Sri Lanka reached an in-principle deal with sovereign bondholders which was in line with International Monetary Fund’s debt sustainability analysis.
+
+Sri Lanka is regarded as country in default until the debt is restructured. A court case has also been filed in the US by some bondholders.
+
+...
+
+[Data](articles/426a5de2.json)
 
 ---
 
@@ -1742,6 +1874,28 @@ The Election Commission started accepting nominations on October 04. The new par
 
 ---
 
+### Sri Lank parliamentary election: Nominations close on Oct 11
+
+*2024-10-08 20:53:00* · [`economynextcom`](https://economynext.com/sri-lank-parliamentary-election-nominations-close-on-oct-11-182875/) · `en`
+
+ECONOMYNEXT — Nominations for Sri Lanka’s parliamentary elections will be accepted until 12.30pm on Friday October 11, the Election Commission said.
+
+“Nominations close at noon Friday October 11. Objections will be accepted between 12.30pm to 1.30pm,” Election Commission Chairman R M A L Ratnayake said.
+
+“On this day, after nominations and objections are accepted, no march or gathering is allowed. Police has made special security arrangements,” he added.
+
+“We request supporters of parties and independent groups to refrain from illegal activities after nominations and not to create any problematic situation until the nominees have left the premises.”
+
+Sri Lanka President Anura Kumara Dissanayake has signed a gazette notice dissolving parliament, calling elections on November 14.
+
+The Election Commission started accepting nominations on October 04. The new parliament is to meet on November 21.
+
+...
+
+[Data](articles/2d297252.json)
+
+---
+
 ### Shawn Roldan's music will attract 'your sami my sami'
 
 *2024-10-08 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195769) · `ta`
@@ -2199,181 +2353,5 @@ The case was filed by the Attorney under the National Cricket Selection Committe
 [Data](articles/637fee8e.json)
 
 [Extended Data](ext_articles/637fee8e.ext.json)
-
----
-
-### A new Excise Commissioner General
-
-*2024-10-08 18:25:49* · [`adalk`](https://www.ada.lk/breaking_news/නව-සුරාබදු-කොමසාරිස්-ජනරාල්වරයෙක්/11-412378) · `si`
-
-Here's a 200-character summary:
-
-
-
-New Excise Commissioner: President Anura Kumara Dissanayake appoints JM as Commissioner General of Excise, replacing current contract holder. Appointment takes immediate effect.
-
-🟩
-
-President Anura Kumara Dissanayake has acted to appoint a new Excise Appointment for the Sri Lanka Excise Department.
-
-Accordingly, as the Commissioner General of Excise, JM, who is currently serving on contract basis. Office of the Inland Revenue Service (Institutional Coordinators) at the Presidential Secretariat (2 Establishment Coordinating). The Jathika has been appointed to see the Commissioner General of Excise with immediate effect.
-
-◼️
-
-[Data](articles/c8088d9e.json)
-
-[Extended Data](ext_articles/c8088d9e.ext.json)
-
----
-
-### Sri Lanka’s new government pledges review of Adani Wind Project
-
-*2024-10-08 18:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102538/sri-lankas-new-government-pledges-review-of-adani-wind-project) · `en`
-
-Sri Lanka’s new government said it will review a wind power deal with the Adani Group, throwing a fresh hurdle for the Indian conglomerate as it seeks to expand abroad.
-
-The previous administration’s approval of electricity prices for Adani Green Energy Ltd.’s projects “was a problem,” Foreign Minister Vijitha Herath told reporters after a meeting of the Cabinet ministers on Tuesday. The new government would give the deal a fresh look after parliamentary elections are held Nov. 14, he said.
-
-The move to reassess the Adani Green deal follows through on a campaign pledge by newly elected president Anura Kumara Dissanayake, who was swept into office last month after a closely contested three-way race. Dissanayake had called the project a threat to Sri Lanka’s energy sovereignty and vowed to cancel it.
-
-...
-
-[Data](articles/6e006776.json)
-
-[Extended Data](ext_articles/6e006776.ext.json)
-
----
-
-### President insists three government projects
-
-*2024-10-08 18:10:45* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-රජයේ-ව්‍යාපෘති-තුනක්-ජනපති-අනුර-අත්හිටුවයි/11-412377) · `si`
-
-Here's a 200-character summary:
-
-
-
-President suspends three govt projects: National JHD secretariat, Agriculture Aluth Settlement, citing need to strengthen Jana Sabha system. Project staff services suspended from 30th.
-
-🟩
-
-The cabinet paper presented by President Anura Kumara Dissanayake has approved the suspension of three projects carried out by the government.
-
-Accordingly, the National JHD secretariat office and the Agriculture Aluth Settlement program is to be suspended for strengthening the Jana Sabha system for strengthening the Jana Sabha.
-
-The programs have been stopped due to the potential to implement the work expected by the relevant Ministries by the relevant Ministries.
-
-The services of the officers and advisors who were recruited for the projects have also been suspended from the 30th of this month.
-
-◼️
-
-[Data](articles/26aee436.json)
-
-[Extended Data](ext_articles/26aee436.ext.json)
-
----
-
-### An announcement of the weather
-
-*2024-10-08 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201962) · `si`
-
-Weather alert: Lightning strikes expected in several provinces. Thunderstorms forecasted for Anuradhapura District. Strong winds possible during storms. Public advised to take precautions against lightning.
-
-🟩
-
-The Department of Meteorology has issued a warning of a powerful lightning strike.
-
-Accordingly, the Western, Southern, Sabaragamuwa, North Western, North and Uva provinces and thundershowers at night in the Anuradhapura District or night.
-
-There may be temporary localized strong winds during thundershowers.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce the dangers of lightning.
-
-◼️
-
-[Data](articles/257bf2c2.json)
-
-[Extended Data](ext_articles/257bf2c2.ext.json)
-
----
-
-### US support for economic growth in Sri Lanka
-
-*2024-10-08 17:55:51* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ආර්ථික-වර්ධනයට-ඇමෙරිකාවේ-සහාය/11-412376) · `si`
-
-US President Joe Biden supports Sri Lanka's economic growth, emphasizing cooperation for stability, prosperity, and progress. He expresses optimism about strengthening bilateral relations under President Anura Kumara Dissanayake's leadership.
-
-🟩
-
-US President Joe Biden has joined President Anura Kumara Dissanayake.
-
-Joe Biden, who contested the long-standing relationship between Sri Lanka, has given him a greeting President Anura Kumara Dissanayake to continue the democratic of Sri Lanka and maintain the last presidential and post presidential season.Available.
-
-US President Biden states:. "This election highlights the public commitment to conform to their future through the foundation of the energy and democracy in Sri Lanka.
-
-President Joe Biden has also emphasized the importance of enhancing cooperation between the United States and Sri Lanka to acquire stability, prosperity and progress to all Sri Lankan citizens.
-
-The US President has also emphasized the importance of cooperation between the two countries to acquire stability, prosperity and progress to all Sri Lankan citizens.. President Bideman expressed optimism on strengthening bilateral relations under the leadership of President Anura Kumara Dissanayake.
-
-...
-
-[Data](articles/c19c6a06.json)
-
-[Extended Data](ext_articles/c19c6a06.ext.json)
-
----
-
-### US assistance to strengthen the economy of Sri Lanka
-
-*2024-10-08 17:49:37* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ආර්ථිකය-ශක්තිමත්-කිරීමට-ඇමෙරිකාවේ-සහාය/11-412375) · `si`
-
-US aid strengthens Sri Lanka's economy through IMF cooperation, USAID support, and initiatives in renewable energy, agriculture, and anti-corruption efforts.
-
-🟩
-
-The United States has agreed to extend any support to strengthen the economy of Sri Lanka.
-
-Sri Lanka's Ambassador to Sri Lanka, July Chang, July Changa said Sri Lanka would be able to create an export market economy to Sri Lanka.
-
-The Presidential Secretary Dr. Nandika Sanath Sanath and Sri Lanka Ambassador to Sri Lanka
-
-Sri Lanka's Ambassador to Sri Lanka's Ambassador to Sri Lanka July Chang, July Chang was also presented to the President of US President Joe Biden to win President Anura Kumara Dissanayake.
-
-The US Ambassador also stated that the International Monetary Fund is ready to cooperate the financial support of the US International Development Agency (USAID) to enhance the economy of Sri Lanka.
-
-The United States of America also guarded the financial and technical contribution to the motion of President Anura Kumara Dissanayake to prevent fraud corruption and corruption.
-
-The United States has agreed to support any support for a good governance and to support Sri Lanka's security.
-
-...
-
-[Data](articles/1dc93a86.json)
-
-[Extended Data](ext_articles/1dc93a86.ext.json)
-
----
-
-### Mullaitivu - A shop in Chilawatte
-
-*2024-10-08 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/195797) · `ta`
-
-Shop burns in Mullaitivu; police investigate cause. State bus driver helps extinguish flames. Electricity Board and Forensic Police involved in investigation.
-
-🟩
-
-A shop in Mullaitivu, Chilawatte, was burnt in the early hours of Tuesday (08).
-
-A grocery store in front of the Mullaitivu Silawatta market and a reservoir that accompanied it was burnt.
-
-The state bus driver and the conductor observed this and brought the fire under the help of neighbors.
-
-However, the Mullaitivu police are conducting investigations at various angles, such as the planned operation or the fire that caused it.
-
-The police said that the Electricity Board and the Forensic Police will carry out further raids.
-
-◼️
-
-[Data](articles/667adf3c.json)
-
-[Extended Data](ext_articles/667adf3c.ext.json)
 
 ---

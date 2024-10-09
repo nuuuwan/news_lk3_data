@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 09:12:26**
+As of **2024-10-09 09:23:49**
 
 ## Newspaper Stats
 
-*Scraped **48,507** Articles*
+*Scraped **48,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,970
 dailyftlk | 3,282
 adalk | 4,494
 dailymirrorlk | 4,733
-adaderanalk | 5,715
-tamilmirrorlk | 6,574
+adaderanalk | 5,716
+tamilmirrorlk | 6,575
 virakesarilk | 7,757
 adaderanasinhalalk | 8,390
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,507 (100.0%) of 48,507 articles have been extended.
+48,509 (100.0%) of 48,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Israel says it has killed slain Hezbollah leader’s successors
+
+*2024-10-09 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102545/israel-says-it-has-killed-slain-hezbollah-leaders-successors) · `en`
+
+(Reuters) - Prime Minister Benjamin Netanyahu said on Tuesday Israeli airstrikes had killed two successors to Hezbollah’s slain leader, as Israel expanded its ground offensive against the Iran-backed group with a fourth army division deployed into south Lebanon.
+
+Netanyahu spoke in a video released by his office hours after the deputy leader of Hezbollah, which is reeling after a spate of killings of senior commanders in Israeli airstrikes, left the door open to a negotiated ceasefire.
+
+“We’ve degraded Hezbollah’s capabilities. We took out thousands of terrorists, including (Hassan) Nasrallah himself and Nasrallah’s replacement, and the replacement of the replacement,” Netanyahu said, without naming the latter two.
+
+Israeli Defence Minister Yoav Gallant said Hashem Safieddine, the man expected to succeed Nasrallah, had probably been “eliminated”. It was not immediately clear whom Netanyahu meant by the “replacement of the replacement”.
+
+...
+
+[Data](articles/ad0d5f86.json)
+
+[Extended Data](ext_articles/ad0d5f86.ext.json)
+
+---
 
 ### Jaishankar’s visit was crucial in ending debt restructuring – Minister
 
@@ -49,6 +69,42 @@ Ahead of the presidential polls last month, cash-strapped Sri Lanka had on Septe
 [Data](articles/65814252.json)
 
 [Extended Data](ext_articles/65814252.ext.json)
+
+---
+
+### Virus pigs sales - people are observation
+
+*2024-10-09 08:48:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைரஸ்-பன்றிகளின்-இறைச்சி-விற்பனை-மக்களே-அவதானம்/175-345127) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Pigs in Western Province spreading virus. Infected pork sold cheaply. 50 pigs die daily. Virus causes respiratory issues, fever. Veterinarians can test animal-to-animal transmission.
+
+🟩
+
+Pig farms in the Western Province are reportedly spreading rapidly.
+
+According to reports, the meat of the pigs that are infected with the virus are stored in the refrigerator for Rs 300 to Rs 400 per kg.
+
+At a meeting held at the JHU Pradeshiya Sabha, the death of pigs on pig farms in Dadugama area was also discussed.
+
+About 50 pigs die daily on pig farms in the area.
+
+It is also reported that the meat of the pigs is being sold for human consumption at a lower price.
+
+The President of the Government Veterinary Medical Officers Association, Sisira Piyasiri, said that the virus is spreading in the pigs on the pigs in the Colombo and Gampaha districts.
+
+He noted that the virus spreads to pigs through urine and saliva drops, and that the virus can cause difficulties in breathing, lung failure, fever, and appetite.
+
+The leader said that veterinarians have the ability to test whether the virus spreads from animals to animals. Remble
+
+◼️
+
+[Data](articles/21c2f2b5.json)
+
+[Extended Data](ext_articles/21c2f2b5.ext.json)
 
 ---
 
@@ -2313,59 +2369,5 @@ Prior to this appointment, Weerasooriya served as the Senior SIG in charge of th
 [Data](articles/c158675a.json)
 
 [Extended Data](ext_articles/c158675a.ext.json)
-
----
-
-### Moody will come to save the Maldives
-
-*2024-10-08 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201957) · `si`
-
-India supports Maldives' economy with $400m loan and $3bn currency swap. Moody's rating upgrade expected. Local currency use encouraged. Foreign reserves critical at $440m. Import cover only 1.5 months.
-
-🟩
-
-India has also been present to support the Maldives's economy, which is facing an economic crisis.
-
-Announced this after the discussions between the President Mohammed Mischu and Indian Prime Minister Narendra Moodi.
-
-The assistance is a $ 400 million financial transfer and an agreement with another financial exchange of Rs. 30 billion.
-
-It will make businesses using local fi- not dollars.
-
-After the President of the Maldives, the President was appointed as his post, critically.
-
-The foreign exchange reserved in the Maldives has fallen to $ 440 million, so they are facing a problem with a debt.
-
-The squad is sufficient for import work only for 1 1/2 months.
-
-◼️
-
-[Data](articles/162c6d63.json)
-
-[Extended Data](ext_articles/162c6d63.ext.json)
-
----
-
-### Indian financial aid opens ‘new chapter’ with Maldives
-
-*2024-10-08 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102534/indian-financial-aid-opens-new-chapter-with-maldives) · `en`
-
-India has agreed to extend hundreds of millions of dollars in financial support to the Maldives to help strengthen its struggling economy.
-
-The deal was announced after Maldives President Mohammed Muizzu held talks with Prime Minister Narendra Modi during his five-day visit to India.
-
-The support includes a $400m currency swap deal and an additional 30bn rupees ($357m; £273m) in another swap agreement which will allow companies to do business in local currencies rather than in US dollars.
-
-The Maldivian president was given red carpet treatment after relations soured in recent months. Modi called his visit a “new chapter” in ties.
-
-“India will always be there for the progress and prosperity of the people of Maldives,” he said.
-
-The statements - and the Indian financial package - signal a significant improvement in relations between Male and Delhi, which have been strained since Muizzu came to power in November 2023.
-
-...
-
-[Data](articles/275e9db0.json)
-
-[Extended Data](ext_articles/275e9db0.ext.json)
 
 ---

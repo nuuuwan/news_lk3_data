@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 11:23:05**
+As of **2024-10-09 11:39:24**
 
 ## Newspaper Stats
 
-*Scraped **48,527** Articles*
+*Scraped **48,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 481
 islandlk | 2,870
 economynextcom | 2,970
 dailyftlk | 3,283
-adalk | 4,495
+adalk | 4,497
 dailymirrorlk | 4,733
-adaderanalk | 5,719
+adaderanalk | 5,721
 tamilmirrorlk | 6,579
 virakesarilk | 7,762
 adaderanasinhalalk | 8,394
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,527 (100.0%) of 48,527 articles have been extended.
+48,531 (100.0%) of 48,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### 2024 General Election: 33 independent groups and political parties complete nominations
+
+*2024-10-09 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102550/2024-general-election-33-independent-groups-and-political-parties-complete-nominations-) · `en`
+
+A total of 33 independent groups and political parties have submitted nominations to contest the 2024 General Election, according to the Election Commission.
+
+The Election Commission says that as of yesterday (08), 17 political parties and 16 independent groups had completed their nominations.
+
+The commission further noted that no nominations have been submitted for the constituencies in the Matale, Galle, Matara, Kurunegala, and Badulla districts yet.
+
+Accepting nominations for the General Election commenced on October 4 and will continue until 12.00 noon on October 11.
+
+Meanwhile, the deadline for accepting postal vote applications for the General Election has been extended to October 10.
+
+◼️
+
+[Data](articles/558fc87c.json)
+
+[Extended Data](ext_articles/558fc87c.ext.json)
+
+---
+
+### ‘From rags to riches’: Sri Lankan worker becomes millionaire doing cleaning jobs in Australia
+
+*2024-10-09 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102549/from-rags-to-riches-sri-lankan-worker-becomes-millionaire-doing-cleaning-jobs-in-australia) · `en`
+
+The story of a Sri Lankan worker, who migrated to Australia less than a decade ago and has become a millionaire now, has taken the internet by storm. At the age of 25, Vinul Karunaratne has made enough money to quit and shift full-time to doing gig jobs.
+
+Karunaratne moved to Australia in 2015 and started working at 7-Eleven stores. But in 2019, he started taking on end-of-lease cleaning jobs on Airtasker. It’s a Sydney-based online marketplace that enables people to outsource everyday tasks - such as cleaning, assembling furniture, or yard work - for others to complete in exchange for cash.
+
+Karunaratne told local news channel 7News that he didn’t have much resources and equipment when he started. “When I started, I didn’t even have much equipment. I had a vacuum, mop, bucket, and some rags,” he said, adding, “That was the stuff I had at home.”
+
+His hard work eventually paid off and he was soon able to ditch his job at 7-Eleven to shift full-time to Airtasker.
+
+...
+
+[Data](articles/7a9984c4.json)
+
+[Extended Data](ext_articles/7a9984c4.ext.json)
+
+---
 
 ### 20 Chinese nationals arrested for visa overstay: 437 mobile phones and other devices seized
 
@@ -1824,6 +1866,30 @@ Strong security concerns raised by India and the U.S. have already forced the Sr
 
 ---
 
+### Rs.. 25000 fertilizer subsidy from Monday
+
+*2024-10-08 19:48:01* · [`adalk`](https://www.ada.lk/breaking_news/ගොවීන්ට-ලබාදෙන-රු--25000ක-පොහොර-සහනාධාරය-සඳුදා-සිට/11-412387) · `si`
+
+Fertilizer subsidy of Rs. 25,000 introduced in Ampara District. To benefit Polonnaruwa, Anuradhapura, Mahiyanganaya, and Mahaweli regions. Launches Monday.
+
+🟩
+
+Cabinet Spokesperson Vijitha Herath says that the fertilizer subsidy of Rs.. He said that it will be launched from the Ampara District.
+
+He further stated that this is scheduled to provide the production of the Polonnaruwa, Anuradhapura, Mahiyanganaya and Mahaweli regions.
+
+He was speaking at a press notice of Cabinet decisions yesterday (08).
+
+"This Maha Season begins. By Monday, the people of the Ampara district will be able to increase the fertilizer subsidy. Further, action will be taken to provide the production of Polonnaruwa, Anuradhapura and Mahiyanganaya. "And said:
+
+◼️
+
+[Data](articles/18c1bedc.json)
+
+[Extended Data](ext_articles/18c1bedc.ext.json)
+
+---
+
 ### Roshan is appointed as Kalutara district leader of the universality
 
 *2024-10-08 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201965) · `si`
@@ -1895,6 +1961,28 @@ It is noteworthy that the Department of Meteorology has requested the people to 
 [Data](articles/fdd0fad4.json)
 
 [Extended Data](ext_articles/fdd0fad4.ext.json)
+
+---
+
+### Despite the dissolution of the Provincial Council, former chairperson of the South paid the office allowance of Rs 18 lakhs
+
+*2024-10-08 19:31:03* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-සභාව-විසුරුවා-තිබියදී-දකුණේ-හිටපු-සභාපතිට-ලක්ෂ-18ක-කාර්යාල-දීමනා-ගෙවලා/11-412385) · `si`
+
+Former chairperson of South Provincial Council paid Rs 18 lakhs office allowance despite dissolution. Audit recommends recovering non-compliant payments. Chief Accounting Officer claims allowance approved by Chief Secretary but stopped in 2022 due to circular.
+
+🟩
+
+The Chairman of the Southern Provincial Council cannot be paid after the dissolution of the Provincial Council (January to October 2022) as an offices of Rs.A report states.
+
+The Audit report states that the rent of the Southern Provincial Council of Southern Provincial Councils for October 2020, Rs. 1,350,000 (1,350,000) has been paid to the Chairman of the Southern Provincial Council.
+
+Audit recommended by the audit that action should be taken to recover the non-compliance. The main account officer of the Southern Provincial Council has stated to the audit to the payment of this allowance from October 2022, from October 2022. After the dissolution of the PC, the Chief Accounting Officer of the Provincial Council has stated that there is no mention of the office allowance in terms of the office allowance.
+
+...
+
+[Data](articles/3a953ca6.json)
+
+[Extended Data](ext_articles/3a953ca6.ext.json)
 
 ---
 
@@ -2287,95 +2375,5 @@ The police said that the Electricity Board and the Forensic Police will carry ou
 [Data](articles/667adf3c.json)
 
 [Extended Data](ext_articles/667adf3c.ext.json)
-
----
-
-### Minority groups’ representation in Sri Lanka’s Parliament splintering: Research
-
-*2024-10-08 17:47:00* · [`economynextcom`](https://economynext.com/minority-groups-representation-in-sri-lankas-parliament-splintering-research-182821/) · `en`
-
-ECONOMYNEXT – Representation of minority groups in Sri Lanka’s Parliament is in danger of weakening in the upcoming November 14 elections, which could affect their rights, an European Commission funded study has revealed.
-
-Research by Oxford Brookes University as part of the Minority empowerment for democracy and pluralism programme revealed that major national parties have successively reduced the space within their parties for minorities to participate and raise their issues.
-
-Minority ethnic parties are also divided and their campaigning is shaped by the majority agenda rather than the needs and rights of their communities.
-
-“The main national parties in Sri Lanka have had a history of nominating representatives from minority communities who have gone on to take leadership positions. This is changing now with minority politicians in these parties often feeling isolated and finding fewer opportunities to raise minority rights issues,” lead researcher Dr Farah Mihlar said.
-
-...
-
-[Data](articles/e1514100.json)
-
-[Extended Data](ext_articles/e1514100.ext.json)
-
----
-
-### Balakrishnan Prasad Kumar appointed as the CWC's political and trade union organizer for the Kandy district
-
-*2024-10-08 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/195792) · `ta`
-
-Balakrishnan Prasad Kumar named CWC's political/trade union organizer for Kandy district. Appointed after discussions with party leaders. Previously served as senior organizer for CWC youth team. Event attended by CWC General Secretary Jeevan Thondaman, Chairman Senthil Thondaman, and Chairman Maruthapandi Rameswaran.
-
-🟩
-
-Balakrishnan Prasad Kumar has been appointed as the new political and trade union organizer of the CWC for the Kandy district on Tuesday (08).
-
-The status quo has been issued after a discussion with party high -ranking members today (08) at the CWC headquarters.
-
-It is also worth noting that the CWC leadership has completed the last 24 hours to meet the vacancy of the post of the top organizer in the Kandy district.
-
-It is noteworthy that Balakrishnan Prasad Kumar is a younger generation and has made his duty as a senior organizer of the CWC youth team for the Kandy district in the past.
-
-The event was presented by CWC General Secretary Jeevan Thondaman, Chairman Senthil Thondaman and Chairman Maruthapandi Rameswaran.
-
-◼️
-
-[Data](articles/a515ebc4.json)
-
-[Extended Data](ext_articles/a515ebc4.ext.json)
-
----
-
-### A man arrested with illegal liquor in Negombo
-
-*2024-10-08 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/195796) · `ta`
-
-Negombo police arrest 44-year-old local man with 57 liters of illegal liquor in Talapotha area.
-
-🟩
-
-Negombo police said that a suspect was arrested on Monday (07) with illegal liquor in Talapotha area belonging to the Negombo Police Division.
-
-The suspect has been arrested in connection with information received by the Negombo police.
-
-The suspect is 44 -year -old, a native of Negombo, Talapotha.
-
-57 liters of 750 ml of illegal liquor has been seized from the arrested suspect.
-
-◼️
-
-[Data](articles/d3b95ccd.json)
-
-[Extended Data](ext_articles/d3b95ccd.ext.json)
-
----
-
-### Amended postal voting applications for general election is amended
-
-*2024-10-08 17:32:18* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේ-තැපැල්-ඡන්ද-අයදුම්පත්-භාර-ගැනීමේ-කාලය-සංශෝදනය-කෙරේ/11-412374) · `si`
-
-Elections Commission extends deadline for postal voting applications from midnight today to 12 AM Thursday.
-
-🟩
-
-The Elections Commission states that the period of time of postal voting applications was extended.
-
-Accordingly, the applications to be completed in midnight today (08) have been extended to 12 midnight on Thursday.
-
-◼️
-
-[Data](articles/0d8bf3db.json)
-
-[Extended Data](ext_articles/0d8bf3db.ext.json)
 
 ---

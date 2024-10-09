@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 13:59:50**
+As of **2024-10-09 14:12:32**
 
 ## Newspaper Stats
 
-*Scraped **48,556** Articles*
+*Scraped **48,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 2,977
 dailyftlk | 3,283
 adalk | 4,501
 dailymirrorlk | 4,733
-adaderanalk | 5,725
-tamilmirrorlk | 6,582
-virakesarilk | 7,764
+adaderanalk | 5,726
+tamilmirrorlk | 6,583
+virakesarilk | 7,766
 adaderanasinhalalk | 8,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,556 (100.0%) of 48,556 articles have been extended.
+48,560 (100.0%) of 48,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Ranjan Ramanayake forms new political party
+
+*2024-10-09 13:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102556/ranjan-ramanayake-forms-new-political-party) · `en`
+
+Former Member of Parliament Ranjan Ramanayake has formed a new political party named the “United Democratic Voice” (Eksath Prajathanthravadi Handa).
+
+The ‘microphone’ was unveiled as the symbol of the United Democratic Voice.
+
+Former Sri Lankan cricketer Thilakarathne Dilshan, also known as TM Dilshan, has been appointed as the national organizer of the new party led by actor-turned-politician Ranjan Ramanayake.
+
+Meanwhile, former Samagi Jana Balawegaya (SJB) Parliamentarian Vadivel Suresh was also present at the occasion of unveiling the new political party.
+
+In 2010, Ranjan Ramanayake was first elected to the Parliament representing Ratnapura District from the United National Party (UNP).
+
+◼️
+
+[Data](articles/a0cca912.json)
+
+[Extended Data](ext_articles/a0cca912.ext.json)
+
+---
+
+### Ranjan, Dilshan started the new party
+
+*2024-10-09 13:44:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஞ்சன்-டில்ஷான்-புதிய-கட்சியை-துவங்கினர்/175-345156) · `ta`
+
+Actor and politician Ranjan Ramanayake and former Sri Lankan cricketer DM Dilshan have announced that they will launch a new political party called the United Democratic Voice (UDV).
+
+◼️
+
+[Data](articles/f13ab64c.json)
+
+[Extended Data](ext_articles/f13ab64c.ext.json)
+
+---
+
+### Vadivel Suresh Competition in United Democratic Voice Party
+
+*2024-10-09 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/195835) · `ta`
+
+Former parliamentarian Vadivel Suresh has announced that he will contest the "United Democratic Voice" party today (09).
+
+We will solve the basic problems of the upcountry people through the United Democratic Voice Party. People have punished state leaders who deceived the hill country. He said he could not deceive us anymore.
+
+◼️
+
+[Data](articles/a5287576.json)
+
+[Extended Data](ext_articles/a5287576.ext.json)
+
+---
 
 ### Vadivel Sureshum jumped
 
@@ -109,6 +161,28 @@ The Sri Lankan authorities’ confirmation that they endorse the targets set und
 [Data](articles/63520b40.json)
 
 [Extended Data](ext_articles/63520b40.ext.json)
+
+---
+
+### The party's decisions are severely dissatisfied;Maui report to Sridharan who met in person: participate in the election process
+
+*2024-10-09 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195824) · `ta`
+
+Sivagnanam Sridharan, who met them in person, said that he had severe dissatisfaction with the party's decisions in the parliamentary election.
+
+Sivagnanam has sent a written announcement that he will quit the party's leadership. B. He has also sent to Satyalingam.
+
+In this case, Sivagnanam Sirirathan visited the residence of Mavai Senathiraja's Mavitha Prakam on Monday.
+
+The first spoken about the issue of the Rajinaam. In the meantime, Sridharan has called for the restoration of the Rajinaam letter and continued to act in the headline.
+
+However, Maui Senathirajah is not acceptable that some of the party's decisions are based on personal interests, but that some of the party's decisions are based on personal interests.. Continuing conditions are causing great dissatisfaction and embarrassment. That is why I took the decision to quit the party leadership.
+
+...
+
+[Data](articles/682f4798.json)
+
+[Extended Data](ext_articles/682f4798.ext.json)
 
 ---
 
@@ -2225,105 +2299,5 @@ Commenting on the Internet series, Director Kamala Alkemis said, “Friends of K
 [Data](articles/863e5067.json)
 
 [Extended Data](ext_articles/863e5067.ext.json)
-
----
-
-### Application results for postal votingGo and hand over applications - Elections Commission
-
-*2024-10-08 21:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/195805) · `ta`
-
-Postal voting application deadline extended to Thursday. Handover applications to District Election Offices before midnight. Completed forms from 9th-10th September should be submitted promptly to avoid delays. No further extensions expected.
-
-🟩
-
-Application for postal voting will be accepted until Thursday (10). The Elections Commission has announced that the applications should be sent to the District Elections Office.
-
-The application date for the postal voting for the general election has been extended till Thursday (10), with the delay in the postal distribution and demands of the Commission.
-
-Accordingly, the eligible government officials who have not yet applied for the postal voting should hand over applications to the appropriate district election offices before midnight on Thursday (10).
-
-It is very good to hand over the postal voting applications that have been completed on the 09th and 10th day to avoid the time period when sending applications to the postage, but it will be very good to hand them over to the district elections office in the district of the district where the office is located in different correspondence.
-
-...
-
-[Data](articles/e61b9503.json)
-
-[Extended Data](ext_articles/e61b9503.ext.json)
-
----
-
-### Sri Lank parliamentary election: Nominations close on Oct 11
-
-*2024-10-08 20:53:00* · [`economynextcom`](https://economynext.com/sri-lank-parliamentary-election-nominations-close-on-oct-12-182875/) · `en`
-
-ECONOMYNEXT — Nominations for Sri Lanka’s parliamentary elections will be accepted until 12.30pm on Friday October 11, the Election Commission said.
-
-“Nominations close at noon Friday October 11. Objections will be accepted between 12.30pm to 1.30pm,” Election Commission Chairman R M A L Ratnayake said.
-
-“On this day, after nominations and objections are accepted, no march or gathering is allowed. Police has made special security arrangements,” he added.
-
-“We request supporters of parties and independent groups to refrain from illegal activities after nominations and not to create any problematic situation until the nominees have left the premises.”
-
-Sri Lanka President Anura Kumara Dissanayake has signed a gazette notice dissolving parliament, calling elections on November 14.
-
-The Election Commission started accepting nominations on October 04. The new parliament is to meet on November 21.
-
-...
-
-[Data](articles/039c7304.json)
-
-[Extended Data](ext_articles/039c7304.ext.json)
-
----
-
-### Sri Lank parliamentary election: Nominations close on Oct 11
-
-*2024-10-08 20:53:00* · [`economynextcom`](https://economynext.com/sri-lank-parliamentary-election-nominations-close-on-oct-11-182875/) · `en`
-
-ECONOMYNEXT — Nominations for Sri Lanka’s parliamentary elections will be accepted until 12.30pm on Friday October 11, the Election Commission said.
-
-“Nominations close at noon Friday October 11. Objections will be accepted between 12.30pm to 1.30pm,” Election Commission Chairman R M A L Ratnayake said.
-
-“On this day, after nominations and objections are accepted, no march or gathering is allowed. Police has made special security arrangements,” he added.
-
-“We request supporters of parties and independent groups to refrain from illegal activities after nominations and not to create any problematic situation until the nominees have left the premises.”
-
-Sri Lanka President Anura Kumara Dissanayake has signed a gazette notice dissolving parliament, calling elections on November 14.
-
-The Election Commission started accepting nominations on October 04. The new parliament is to meet on November 21.
-
-...
-
-[Data](articles/2d297252.json)
-
-[Extended Data](ext_articles/2d297252.ext.json)
-
----
-
-### Shawn Roldan's music will attract 'your sami my sami'
-
-*2024-10-08 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195769) · `ta`
-
-Shawn Roldan's 'Un Sami N Sami' attracts fans. Song from 'Parari' movie, featuring Hari Shankar, released with lyrical video. Composer's work praised by audience.
-
-🟩
-
-The second song, 'Un Sami N Sami', which is featured in the movie 'Parari' starring actor Hari Shankar, has been released.
-
-Hari Shankar, Sangeetha Kalyan, Guru Rajendran, Samrat Suresh, fame Mahendran, V. Many people including Premnath have acted.
-
-The film was produced by producer Hari Shankar on behalf of Kala Films Pvt.. The film is presented by director Rajamurugan.
-
-The second song in the film, 'Un Sami N Sami Vadiyappan ..', which will be released and the lyrical video for the song, has been released.
-
-This song is written by Umadevi, who is sung by composer Shaun Roldan.
-
-The lyrics and ideas that are featured in this song are attracted to the fans.
-
-◼️
-
-[Data](articles/29750c74.json)
-
-[Extended Data](ext_articles/29750c74.ext.json)
 
 ---

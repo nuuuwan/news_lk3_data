@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 16:12:40**
+As of **2024-10-09 16:23:33**
 
 ## Newspaper Stats
 
-*Scraped **48,584** Articles*
+*Scraped **48,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,200 @@ economynextcom | 2,977
 dailyftlk | 3,283
 adalk | 4,505
 dailymirrorlk | 4,733
-adaderanalk | 5,730
-tamilmirrorlk | 6,591
+adaderanalk | 5,735
+tamilmirrorlk | 6,592
 virakesarilk | 7,768
-adaderanasinhalalk | 8,402
+adaderanasinhalalk | 8,404
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,584 (100.0%) of 48,584 articles have been extended.
+48,591 (100.0%) of 48,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Human burial telephone number scan
+
+*2024-10-09 16:05:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனித-புதைகுழி-ஸ்கேன்-ஆரம்பம்-முழுத்தடைவிதிப்பு/175-345165) · `ta`
+
+Mannar Sathosa human burial excavation resumes after suspension. Military camp site excavated. Media denied access to photograph or scan activities. New judge blocks photography. Lawyers refuse voice records.
+
+🟩
+
+The long -term suspended Mannar Sathosa human burial excavation work is to be resumed this week.
+
+Excavation work took place on Wednesday (9) in the area where the military camp was located near the Mannar Sathosa complex.
+
+However, the Mannar district journalists have been denied permission to photograph and record the excavation work or scan activities.
+
+Earlier, the media was allowed to report the real answers to the excavation work through the Mannar Magistrate's Court as the police were banned from collecting news of the Sathosa human burial excavation work.
+
+Nevertheless, the new judge has now denied permission to take photographs of excavation work or other activities on the burial.
+
+It is also noteworthy that lawyers appearing on behalf of the affected parties have refused to issue voice records on the excavation and the process of burial case.
+
+◼️
+
+[Data](articles/906b4be2.json)
+
+[Extended Data](ext_articles/906b4be2.ext.json)
+
+---
+
+### Major political parties sign nominations for 2024 General Election
+
+*2024-10-09 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102565/major-political-parties-sign-nominations-for-2024-general-election) · `en`
+
+Several of the major political parties contesting in the upcoming general election have signed their nomination papers today (09).
+
+According to the Election Commission, a total of 33 independent groups and political parties have already submitted nominations to contest the 2024 General Election.
+
+The National People’s Power (NPP) alliance’s candidates signed their nomination papers at the Janatha Vimukthi Peramuna (JVP) party headquarters in Pelawatte, while the ‘Samagi Jana Sandanaya’ signed their nominations at its office in Colombo.
+
+The New Democratic Front (NDF) alliance, contesting under the symbol of the ‘Gas Cylinder,’ also signed their nomination papers today at the election operations office of former President Ranil Wickremesinghe, located on Flower Road in Colombo.
+
+The Sri Lanka Podujana Peramuna (SLPP) signed their nomination papers for the upcoming general election at their head office in Nelum Mawatha, Battaramulla.
+
+...
+
+[Data](articles/60f2c768.json)
+
+[Extended Data](ext_articles/60f2c768.ext.json)
+
+---
+
+### Japan-Sri Lanka explores avenues to enhance defence cooperation
+
+*2024-10-09 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102564/japan-sri-lanka-explores-avenues-to-enhance-defence-cooperation-) · `en`
+
+The Deputy Head of Mission at the Embassy of Japan in Colombo, Naoki Kamoshida, has paid a courtesy call on Defence Secretary Air Vice Marshal Sampath Thuyacontha (Retd), at the Defence Headquarters Complex in Sri Jayewardenepura, Kotte, today (Oct 09).
+
+Mr. Kamoshida was accompanied by the Defence Attaché of the Japanese Embassy, Captain Yuki Yokohari. Defence Secretary A.V.M. Thuyacontha (Retrd) warmly received the Japanese delegation and had a cordial discussion, the Ministry of Defence said in a statement.
+
+During their discussions, both officials explored avenues to enhance defence cooperation and bilateral relations. The meeting also highlighted the historical ties and shared values between the two countries, the statement added.
+
+Subsequently, the Defence Secretary and Mr. Kamoshida exchanged souvenirs to mark the occasion. Military Liaison Officer of the Ministry of Defence, Air Vice Marshal Padman De Costa was also present at the occasion, according to the Ministry of Defence.
+
+◼️
+
+[Data](articles/0938e7ce.json)
+
+[Extended Data](ext_articles/0938e7ce.ext.json)
+
+---
+
+### Nobel Prize for Chemistry
+
+*2024-10-09 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201994) · `si`
+
+Nobel Prize for Chemistry awarded to American David Baker and Britons Demis Hassabis and John Jumper.
+
+🟩
+
+The winners of the Nobel Prize for the Swedish Royal Academy won today (09).
+
+Accordingly, it has been owned by American National David Baker, British Demis Hassabis and John J. The Jumpers is to scientists.
+
+Demis Hassabis and John M.. The Jumpers is given to scientists.
+
+◼️
+
+[Data](articles/bdc7aacc.json)
+
+[Extended Data](ext_articles/bdc7aacc.ext.json)
+
+---
+
+### Nobel Prize in Chemistry 2024: Baker, Hassabis, Jumper win for work on proteins
+
+*2024-10-09 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102563/nobel-prize-in-chemistry-2024-baker-hassabis-jumper-win-for-work-on-proteins) · `en`
+
+Scientists David Baker, Demis Hassabis and John Jumper won the 2024 Nobel Prize in Chemistry, the award-giving body said on Wednesday, for their work on the structure of proteins.
+
+The prize, widely regarded as among the most prestigious in the scientific world, is awarded by the Royal Swedish Academy of Sciences and is worth 11 million Swedish crowns ($1.1 million).
+
+“One of the discoveries being recognised this year concerns the construction of spectacular proteins. The other is about fulfilling a 50-year-old dream: predicting protein structures from their amino acid sequences,” the academy said in a statement.
+
+Half the prize was awarded to Baker “for computational protein design” while the other half was shared by Hassabis and Jumper “for protein structure prediction”, the academy said.
+
+The third award to be handed out every year, the chemistry prize follows those for medicine and physics announced earlier this week.
+
+...
+
+[Data](articles/a6eb2da7.json)
+
+[Extended Data](ext_articles/a6eb2da7.ext.json)
+
+---
+
+### Special notice to Israel's job applicants
+
+*2024-10-09 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201993) · `si`
+
+Sri Lanka Foreign Employment Bureau: Israel job exam rescheduled. Online registration required. Failed candidates ineligible. Only for specific countries. Government recruitment ongoing.
+
+🟩
+
+The Sri Lanka Foreign Employment Bureau says that the preceding skills test for Israel has previously been propagated to sit the examination after six months.
+
+Registration of online method for employment in the Israeli construction work is conducted by the Sri Lanka Bureau of Foreign Employment.
+
+Only the candidates who have not been present for the professional test for the employment jobs of the construction of the construction of the land.
+
+Accordingly, after the registration of the online system, the date of the date and the Bureau of the Bureau should be informed of the name of the bureau of documents and the Bureau of Documents.
+
+However, the Bureau says that those who have previously offered to the test test and failed it will not have the opportunity to reappear for this examination.
+
+The announcement states that the examination can only apply for the examination from Israel's notification from Israel and that Israel has not yet been done by Israel.
+
+...
+
+[Data](articles/c26b8118.json)
+
+[Extended Data](ext_articles/c26b8118.ext.json)
+
+---
+
+### Expert says breakdown of human relationships and societal isolation contributing to rise in suicides
+
+*2024-10-09 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102561/expert-says-breakdown-of-human-relationships-and-societal-isolation-contributing-to-rise-in-suicides) · `en`
+
+The breakdown of human relationships and the increased isolation of individuals in modern society are significant contributors to rising suicide rates, says Prof. Mohamed Mahees of the Department of Sociology at the University of Colombo.
+
+Speaking during Ada Derana’s current affairs programme “Big Focus” on Wednesday (09), he highlighted the growing detachment of people from one another as a pressing concern.
+
+Prof. Mahees pointed out that modern humans often prioritize their interactions with technology over meaningful relationships with others, which he believes is a root cause of this growing disconnection.
+
+“We see that most suicides are reported in developed countries, but Sri Lanka is not one of those. Despite this, the breakdown of human relationships and the isolation of people in society are major factors here as well,” he explained.
+
+...
+
+[Data](articles/fb9377ae.json)
+
+[Extended Data](ext_articles/fb9377ae.ext.json)
+
+---
+
+### PM urged to investigate corruption within Health Ministry
+
+*2024-10-09 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102560/pm-urged-to-investigate-corruption-within-health-ministry-) · `en`
+
+The Society of Radiological Technologists Association Sri Lanka (SRTSL) says that they have requested Prime Minister Harini Amarasuriya to appoint a committee to investigate corruption and irregularities that have allegedly taken place within the Ministry of Health in the recent past.
+
+The association’s chairman Chanaka Dharmawickrama, stated that the association is prepared to provide information related to these issues to the said committee.
+
+“Currently, the Prime Minister is working as the Minister of Health. In particular, we say that in the past, a lot of fraud and corruption occurred in matters such as the procurement of large stocks of drugs,” he said.
+
+Dharmawickrama further emphasized that the new President and the Prime Minister, who is concurrently serving as the Minister of Health, should take immediate action on this matter.
+
+...
+
+[Data](articles/7ce6ca57.json)
+
+---
 
 ### Today's currency exchange rate
 
@@ -2193,173 +2373,5 @@ The Railway Department said the decision was taken due to the shooting project.(
 [Data](articles/d0dbe3a9.json)
 
 [Extended Data](ext_articles/d0dbe3a9.ext.json)
-
----
-
-### 145 families affected by random weather
-
-*2024-10-09 02:18:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலையால்-145-குடும்பங்கள்-பாதிப்பு/175-345123) · `ta`
-
-145 families impacted by heavy rain in Colombo and Kegalle districts. 716 people affected, 4 homes partially damaged. Water levels rise in Pulathsingha-Kutta Ganga due to meteorological predictions.
-
-🟩
-
-The Department of Meteorology has predicted more than 100 millimeters of rainfall in many parts of the country.
-
-Meanwhile, the Irrigation Department has said that the water level of the Pulathsingha -Kutta Ganga has increased.
-
-Due to inclement weather in the country, the Colombo and Kegalle districts are reportedly highly affected.
-
-Accordingly, 716 people from 145 families have been affected in the two districts.
-
-In addition, 4 houses have been partially damaged, the Disaster Management Center said. (A)
-
-◼️
-
-[Data](articles/348db096.json)
-
-[Extended Data](ext_articles/348db096.ext.json)
-
----
-
-### E.w.w.. Competition in the elephant symbol
-
-*2024-10-09 02:11:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-கா-யானை-சின்னத்தில்-போட்டி/175-345122) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Ceylon Workers Congress contests elephant symbol in Nuwara Eliya district for November elections. They've finalized plans for candidate allocation across coalitions and symbols.
-
-🟩
-
-The Ceylon Workers Congress has decided to contest the elephant symbol in the Nuwara Eliya district in the upcoming general election in November.
-
-The Ceylon Workers Congress announced the final decision yesterday as the Ceylon Workers Congress (Ceylon) has come up with a concept of how many candidates will contest in any coalition and in any symbol.. (A)
-
-◼️
-
-[Data](articles/27d2aad6.json)
-
-[Extended Data](ext_articles/27d2aad6.ext.json)
-
----
-
-### 'Master Blaster': Sanath Jayasuriya of Sanath Jayasuriya made earlier
-
-*2024-10-09 02:08:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgwjpvkllzo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sanath Jayasuriya, former Sri Lankan cricket star, appointed permanent coach of Sri Lankan cricket team. Aims to improve performance in Tests and ODIs. Focuses on discipline and player development. Confronts challenges in modern cricket landscape.
-
-🟩
-
-'Master Blaster': Sanath Jayasuriya of Sanath Jayasuriya made earlier
-
-Sanath Jayasuriya, a paradia, was once again focused on the cricket world. He was appointed as the permanent coach of the Sri Lankan cricket team.
-
-His appointment will be effective from March 31, 2026, and Sri Lanka and India will be held in his duties.
-
-Sanath Jayasuriya, a cricket batsman and a cricket leader, was the acting coach of the national cricket team from July.
-
-SKIP Twitter PostTwitter Can you agree to reach content? This article contains the content provided by Twitter. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Twitter cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The above is not responsible for the content of the END Twitter post.
-
-Born in Matara on June 30, 1969, Sanath Teran Jayasuriya was a player named a player who won the ultimate treasureman in Matara.
-
-...
-
-[Data](articles/957ad606.json)
-
-[Extended Data](ext_articles/957ad606.ext.json)
-
----
-
-### Foreign observers at polls: Evolution of the concept and practice of election observation
-
-*2024-10-09 02:01:43* · [`dailyftlk`](https://www.ft.lk/columns/Foreign-observers-at-polls-Evolution-of-the-concept-and-practice-of-election-observation/4-767718) · `en`
-
-Ideals and values of the organisation as well as the duty of transparency and communication appears to bear upon how elections are observed – Pic by Shehan Gunasekara
-
-The question then arises as to whether all this makes them independent observers or observers who are partial to the sending organisation. The answer is of a binary nature. They are independent in so far as their functioning in the receiving country is concerned. They are required to not take sides in a contest, but to diligently observe whether the conduct of the election was free and fair. The agreement or understanding reached with the national agency and the mandate or the terms of reference under which the organisation concerned nominates the election observers are applicable here. This notwithstanding, there is no denying the fact that the observers bear partiality towards the sending organisation, which means that they uphold the ideals and values of that organisation at all times during their mission
-
-...
-
-[Data](articles/35e18060.json)
-
-[Extended Data](ext_articles/35e18060.ext.json)
-
----
-
-### Anura   Kumara’s Ascendancy Inside the JVP and his  Political Rise  Within  Sri Lanka.
-
-*2024-10-09 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84866) · `en`
-
-Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka – Part Two
-
-Sri Lanka’s newly elected ninth executive president Anura Kumara Dissanayake (AKD) continues to be the focus of this column. In the first part of this article published last week, the early years of  Anura’s eventful life were delved into in some detail. In this week’s  second part,  AKD’s steady rise as a   political leader within the Janatha  Vimukthi  Peramuna (JVP) will be related to some extent.
-
-As stated in this column last week , the JVP’s second insurgency was ruthlessly suppressed by the Ranasinghe Premadasa regime. Tens of thousands of youths were killed or made to disappear. Thousands of youths were incarcerated for years. Hundreds of youths fled Sri Lanka for safety. Hundreds of youths avoided arrest  and possible execution while in Sri Lanka by changing identities and relocating elsewhere. Anura was among those who stayed in Lanka and evaded capture by going underground.
-
-...
-
-[Data](articles/2b0b9154.json)
-
-[Extended Data](ext_articles/2b0b9154.ext.json)
-
----
-
-### CCI to kick off Build SL Housing & Construction Expo 2025 on 30 May
-
-*2024-10-09 01:10:00* · [`dailyftlk`](https://www.ft.lk/business/CCI-to-kick-off-Build-SL-Housing-Construction-Expo-2025-on-30-May/34-767709) · `en`
-
-The Chamber of Construction Industry of Sri Lanka (CCI) has announced that the 20th edition of the premier Build SL Housing and Construction Expo 2025 will be held from 30, 31 May and 1 June at the Sirimavo Bandaranaike Convention Centre, BMICH.
-
-The announcement was made at a launch attended by the CCI President Arch President Jayantha Perera, members of the Board of Management and the Council members of the Chamber, longstanding exhibitors at the previous Build SL Expo’s, last year valued sponsors and industry leaders.
-
-Plaques of Appreciation were presented to all sponsors of the last Expo. In addition, pledges of support for the forthcoming Expo were made by the sponsors who have already decided by handing over sponsorship cheques to the CCI President.
-
-...
-
-[Data](articles/16b59aed.json)
-
-[Extended Data](ext_articles/16b59aed.ext.json)
-
----
-
-### Lankan envoy in Warsaw meets Polish Chamber of Commerce
-
-*2024-10-09 01:06:57* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-in-Warsaw-meets-Polish-Chamber-of-Commerce/34-767708) · `en`
-
-Ambassador of Sri Lanka to the Republic of Poland Priyangika Dharmasena engaged in discussions with Polish Chamber of Commerce Regional Director Katarzyna Kaniewska, on further promoting trade relations between Sri Lanka and Poland on 6 October 2024.
-
-Ambassador Dharmasena pointed out Sri Lanka’s potential to introduce a vast range of novel Sri Lankan products to the Polish market, in addition to tea and textiles which are the current main commodity items from Sri Lanka. She also suggested that a Polish trade delegation visit Sri Lanka to explore the trade environment in the country. An online seminar to educate the Polish businessmen and entities on Sri Lanka’s trading environment and potential products would also facilitate this further, Ambassador Dharmasena noted.
-
-Director Kaniewska welcomed the proposals and conveyed the Chamber’s willingness to cooperate in that regard.
-
-◼️
-
-[Data](articles/94d7ec27.json)
-
-[Extended Data](ext_articles/94d7ec27.ext.json)
-
----
-
-### ஜே.வி.பி . இயக்கத்தில் அநுர குமார திசாநாயக்கவின் வளர்ச்சியும் இலங்கை அரசியலில் துரித  எழுச்சியும்
-
-*2024-10-09 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84886) · `en`
-
-அநுர குமார திசாநாயக்க ; இலங்கை வானில் ‘ இடதுசாரி ‘ நட்சத்திரம் -2
-
-இலங்கையின் ஒன்பதாவது நிறைவேற்று அதிகார ஜனாதிபதி அநுரா குமார திசாநாயக்கவின் பரபரப்பான நிகழ்வுகள் பலப்பல நிறைந்த ஆரம்ப வாழ்க்கையைப் பற்றி  இந்த கட்டுரைத் தொடரின் முதல் பாகத்தில் கடந்தவாரம் எழுதியிருந்தேன். இந்த இரண்டாவது பாகத்தில் ஜனதா விமுக்தி பெரமுனவுக்குள் (ஜே.வி.பி.) ஒரு அரசியல் தலைவராக அவரின் படிப்படியான சீரான வளர்ச்சி குறித்து பாராப்போம்.
-
-...
-
-[Data](articles/9e9617de.json)
-
-[Extended Data](ext_articles/9e9617de.ext.json)
 
 ---

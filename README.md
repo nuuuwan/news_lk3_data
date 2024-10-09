@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 01:23:12**
+As of **2024-10-10 01:38:55**
 
 ## Newspaper Stats
 
-*Scraped **48,658** Articles*
+*Scraped **48,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,69 @@ colombotelegraphcom | 481
 bbccomsinhala | 483
 islandlk | 2,871
 economynextcom | 2,985
-dailyftlk | 3,285
+dailyftlk | 3,286
 adalk | 4,516
 dailymirrorlk | 4,733
 adaderanalk | 5,742
 tamilmirrorlk | 6,602
-virakesarilk | 7,782
+virakesarilk | 7,783
 adaderanasinhalalk | 8,416
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,658 (100.0%) of 48,658 articles have been extended.
+48,660 (100.0%) of 48,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Innovation in action: SLDF 2024 highlights why creative industries mean business
+
+*2024-10-10 01:17:14* · [`dailyftlk`](https://www.ft.lk/business/Innovation-in-action-SLDF-2024-highlights-why-creative-industries-mean-business/34-767756) · `en`
+
+Championing 15 years of design and design thinking, the SLDF 2024 theme ‘Innovation Island’, spotlights the enormous potential of the country’s creative economy
+
+SLDF 2024, presented by AOD and hosted by the city’s iconic new destination, Cinnamon Life at City of Dreams Sri Lanka, from 7 to 10 November: a key platform for business engagement with Sri Lanka’s creative industries
+
+Offers opportunities for business-focused networking, exhibitions, and knowledge forums, bringing together young graduates, entrepreneurs, industry leaders, and innovators to leverage creative capital and foster strategic collaborations
+
+As Sri Lanka charts its course toward revival and renewal, Sri Lanka Design Festival (SLDF) 2024 presents a unique platform to explore the intersection of creativity and commerce, providing direct access to the nation’s creative capital and opening doors for collaboration and new ventures.
+
+...
+
+[Data](articles/bc5cd87b.json)
+
+[Extended Data](ext_articles/bc5cd87b.ext.json)
+
+---
+
+### Famous businessman Ratan Tata has passed away
+
+*2024-10-10 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/195901) · `ta`
+
+Ratan Tata, former Tata Group chairman, dies aged 86 in Mumbai hospital after illness. Prime Minister Modi expresses deep condolences on social media.
+
+🟩
+
+Ratan Tata, former chairman of Tata Group, has died today due to his old age.
+
+Tata Sons, one of India's largest companies, Ratan Tata. Ratan Tata was admitted to a private hospital in Mumbai last Monday due to ill health. There he was treated in the ICU, an intensive surveillance unit.
+
+In this case, the famous businessman Ratan Tata passed away at the Mumbai Hospital at the age of 86.
+
+Ratan Tata, who is known for its intelligence, visionary vision and work, transformed his family business into an international empire.
+
+Many dignitaries express their deepest condolences to the demise of businessman Ratan Tata. இதுதொடர்பாக, பிரதமர் மோடி எக்ஸ் வலைதளத்திலும் தனது ஆழ்ந்த இரங்கல்களை தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b46a0c06.json)
+
+[Extended Data](ext_articles/b46a0c06.ext.json)
+
+---
 
 ### From Lebanon to Lanka: Evils of unipolarity, imperatives of resistance
 
@@ -2333,47 +2379,5 @@ At the same time, 64 -year -old PA Nandasena from Aluthgama, Bandarawela was und
 [Data](articles/78d93c76.json)
 
 [Extended Data](ext_articles/78d93c76.ext.json)
-
----
-
-### 12-year-old is Sri Lanka's youngest female invasional master
-
-*2024-10-09 12:52:24* · [`adalk`](https://www.ada.lk/sports/12-හැවිරිදි-ඔෂිනි-ලංකාවේ-ලාබාලතම-කාන්තා-ඉන්ටර්නැෂනල්-මාස්ටර්-වෙයි/9-412393) · `si`
-
-Vivvinda Osinya Osini Gunawardena, 12, becomes Sri Lanka's youngest female International Master in chess. Achieves title after 5 years, surpassing previous record holder. Currently national champion and school chess coach.
-
-🟩
-
-The rising 12-year-old, Vivvinda Osinya Osini Gunawardena, the 12-year-old school, Colombo, is the 12-year-old women's chess online.
-
-The Women International Master post was officially presented by the World Chess Federation (FIDE).
-
-It is awarded this position from the World Chez Conference, conspiring the target of 2000 rated points of chess games and the summary of the target marks and in international chess competitions.
-
-At the same time, three women chess players in Sri Lanka are currently three women's Masinghen.. After her, the Nelukana Medhieganiya. Five years later, Osini was able to obtain this position.
-
-Women and Male International Masters have a four-member fingers in Sri Lanka.. Eighteen -une Susal Lokuge is currently the youngest international master of Sri Lanka.
-
-As the youngest women's chess International Master of Sri Lanka, the most youngest female chess International Master is also the current national chess champion.
-
-...
-
-[Data](articles/2edc5584.json)
-
-[Extended Data](ext_articles/2edc5584.ext.json)
-
----
-
-### Political risks to Sri Lanka’s debt restructuring agreement recede – Fitch
-
-*2024-10-09 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102554/political-risks-to-sri-lankas-debt-restructuring-agreement-recede-fitch) · `en`
-
-The Sri Lankan authorities’ confirmation that they endorse the targets set under the country’s IMF programme, and intend to implement debt restructuring based on the terms agreed with international sovereign bondholders in September, reduces risks to the debt treatment process associated with the outcome of the presidential election on 21 September, says Fitch Ratings.
-
-...
-
-[Data](articles/63520b40.json)
-
-[Extended Data](ext_articles/63520b40.ext.json)
 
 ---

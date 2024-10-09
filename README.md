@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 21:39:17**
+As of **2024-10-09 22:12:50**
 
 ## Newspaper Stats
 
-*Scraped **48,631** Articles*
+*Scraped **48,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ bbccomsinhala | 483
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,513
+adalk | 4,514
 dailymirrorlk | 4,733
 adaderanalk | 5,739
-tamilmirrorlk | 6,599
-virakesarilk | 7,780
-adaderanasinhalalk | 8,411
+tamilmirrorlk | 6,600
+virakesarilk | 7,781
+adaderanasinhalalk | 8,412
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,631 (100.0%) of 48,631 articles have been extended.
+48,635 (100.0%) of 48,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### The student told her parents that she was committing suicide ....
+
+*2024-10-09 21:35:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தான்-தற்கொலை-செய்துகொள்வதாக-பெற்றோரிடம்-கூறிய-மாணவி/175-345188) · `ta`
+
+Student commits suicide, reveals depression to parents. Police investigates, appoints committee. Girl's relationship with family strained.
+
+🟩
+
+A student who committed suicide from a lotus tower in Colombo, told her parents that she would one day commit suicide.
+
+The police have issued a detailed investigation into the suicide incident.
+
+The girl, as the girl said so, revealed that the parents had sent the psychiatrists for consultation.
+
+Meanwhile, a student who committed suicide by jumping out of a high building in Colombo on July 2, told her father that her father was the best girlfriend.
+
+He also said that he had hugged their daughter several times before leaving school that day and that their daughter was severely depressed because they committed suicide.
+
+According to the police, she jumped out of the building and after her two friends died, she was alone in the classroom. Thus his education is also banned.
+
+Also, it is customary for him to continue to eat and throw his lunch in the trash can
+
+...
+
+[Data](articles/97f053bc.json)
+
+[Extended Data](ext_articles/97f053bc.ext.json)
+
+---
+
+### 7 girls hospitalized following an accident
+
+*2024-10-09 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202004) · `si`
+
+7 girls hospitalized after accident: ages 12 & 13. Minor injuries reported.
+
+🟩
+
+Seven students of the Panadura Base Hospital have been admitted to the Panadura Base Hospital.
+
+It is reported that the age of 12 and 13 years old have been admitted to the age of 12 and 13 years old.
+
+A spokesman for the hospital said that the students' situation is not serious, their face, head and arms have been injured.
+
+◼️
+
+[Data](articles/5aedee66.json)
+
+[Extended Data](ext_articles/5aedee66.ext.json)
+
+---
 
 ### India target 173 runs
 
@@ -104,6 +156,42 @@ On the morning of the incident, he had left the daughter's school gate and revea
 
 ---
 
+### Joe Root set the record for the highest Test runs on behalf of England
+
+*2024-10-09 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195896) · `ta`
+
+Joe Root breaks Alastair Cook's Test run record, scoring 12578 runs in 147 matches. He achieves this milestone in England vs Pakistan match, where he also scores a century. England reaches 492/3 in their first innings, while Pakistan loses all wickets for 556 runs.
+
+🟩
+
+Joe Root set the record for the highest number of runs in Test cricket history on Wednesday (09).
+
+Former England captain Alistaya Cook's leading record of 12472 runs in the first Test cricket match in Multan against Pakistan.
+
+Joe Root scored a century in the upcoming up -to -hand match.
+
+Joe Root, who played in his 147th Test match, completed the 35th century and scored 12578 runs.
+
+Harry Brook, who was a supportive bow, scored his 6th century.
+
+At the end of the 3rd day of the match, England scored 492 runs for the loss of 3 wickets in its first innings.
+
+Joe Root faced 277 balls with 176 runs, including 12 pounds, and Harry Brooke faced 173 balls with 12 pounds and 141 runs.
+
+Ben Docket scored 84 runs and Zuck Groovli 78 runs.
+
+Pakistan lost all wickets in its first innings and scored 556 runs.
+
+Team captain Shaun Masood scored 151 runs for Pakistan, Salman Aka scored 104 runs, Abdullah Shakib 102 and Saud Zakel 82 runs.
+
+...
+
+[Data](articles/f4e007a7.json)
+
+[Extended Data](ext_articles/f4e007a7.ext.json)
+
+---
+
 ### Sri Lanka adopts a proposal in Geneva
 
 *2024-10-09 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202000) · `si`
@@ -119,6 +207,28 @@ A draft proposal to promote reconciliation, accountability and human rights in S
 [Data](articles/9afc4309.json)
 
 [Extended Data](ext_articles/9afc4309.ext.json)
+
+---
+
+### Fulfillment in Sri Lanka's Reconciliation, Liability and Human Rights
+
+*2024-10-09 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195895) · `ta`
+
+UNHRC passes resolution on Sri Lanka's reconciliation, accountability, and human rights without referendum. Draft approved in 57th session, focusing on improving post-conflict healing and justice.
+
+🟩
+
+Draft resolution to improve reconciliation, accountability and human rights in Sri Lanka was passed without a referendum
+
+The A/HRC/57/L.1 resolution has been adopted without a referendum for reconciliation, accountability and human rights in Sri Lanka.
+
+It is noteworthy that the draft draft was passed in the 57th session of the United Nations Human Rights Council.
+
+◼️
+
+[Data](articles/2c1d3b2d.json)
+
+[Extended Data](ext_articles/2c1d3b2d.ext.json)
 
 ---
 
@@ -141,28 +251,6 @@ Adarachchi has confirmed that he will contest in Trincomalee district. It is not
 [Data](articles/c8e658a8.json)
 
 [Extended Data](ext_articles/c8e658a8.ext.json)
-
----
-
-### Fulfillment in Sri Lanka's Reconciliation, Liability and Human Rights
-
-*2024-10-09 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/195895) · `ta`
-
-UNHRC passes resolution on Sri Lanka's reconciliation, accountability, and human rights without referendum. Draft approved in 57th session, focusing on improving post-conflict healing and justice.
-
-🟩
-
-Draft resolution to improve reconciliation, accountability and human rights in Sri Lanka was passed without a referendum
-
-The A/HRC/57/L.1 resolution has been adopted without a referendum for reconciliation, accountability and human rights in Sri Lanka.
-
-It is noteworthy that the draft draft was passed in the 57th session of the United Nations Human Rights Council.
-
-◼️
-
-[Data](articles/2c1d3b2d.json)
-
-[Extended Data](ext_articles/2c1d3b2d.ext.json)
 
 ---
 
@@ -305,6 +393,28 @@ Head of the Western Province Road Bureau of the Western Provincial Road Passenge
 [Data](articles/8286a456.json)
 
 [Extended Data](ext_articles/8286a456.ext.json)
+
+---
+
+### An explanation from the Bureau of Israel
+
+*2024-10-09 18:54:29* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-රැකියා-ගැන-කාර්යාංශයෙන්-පැහැදිලි-කිරීමක්/11-412407) · `si`
+
+Sri Lanka Bureau of Foreign Employment registers Israelis for construction work. Online system requires certificates and documents. False claims about re-taking skills tests debunked. Government recruitment limited to 15 countries. Public warned against deception.
+
+🟩
+
+Registration of online system for employment in the Israeli construction work is conducted by the Sri Lanka Bureau of Foreign Employment.. After the registration of the online scheme, the date and the Bureau of Bureau is directed to submit the required certificates and documents to interview the mobile phone of the employment.
+
+Israeli construction work is registered for jobs before the previous Israeli construction work. Previously, those who failed the skills test and failed it spread to a mouth that it will be able to appear after 6 months of return to this examination, and it is false. These people can only apply for the reunion of the Israeli government only by informing. Such notice has not been done by Israel so far. The Israeli government recruits workers in 15 countries, and this decision is valid for the 15 countries.
+
+Therefore, the Sri Lanka Bureau of Foreign Employment has requested the public to be deceived by such falcement.
+
+◼️
+
+[Data](articles/2fb28fb6.json)
+
+[Extended Data](ext_articles/2fb28fb6.ext.json)
 
 ---
 
@@ -2309,113 +2419,5 @@ The arrested individuals were provided meals from the hotel, where they had been
 [Data](articles/c2242cf4.json)
 
 [Extended Data](ext_articles/c2242cf4.ext.json)
-
----
-
-### Increase in online financial fraud: Over 340 online banking scams reported in 2024
-
-*2024-10-09 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102547/increase-in-online-financial-fraud-over-340-online-banking-scams-reported-in-2024) · `en`
-
-Sri Lanka Computer Emergency Response Team (SL CERT) has reported a significant rise in complaints related to online financial fraud in 2024.
-
-According to SL CERT’s Senior Information Engineer Charuka Damunupola, over 340 complaints involving financial scams have been received so far this year.
-
-“Up to September, we’ve received 7,210 complaints regarding online scams, with the majority of these linked to social media platforms. When we focus specifically on online-based fraud, around 20% of the complaints involve financial scams. This highlights a growing trend of internet fraud targeting online banking users,” Damunupola stated.
-
-He further explained that many victims fall prey to scams due to a lack of attention to security measures, particularly with One-Time Passwords (OTPs).
-
-“Many users do not take proper care in safeguarding their OTPs or fail to recognize fraudulent websites. This often results in them being caught in these online banking scams,” Damunupola added.
-
-...
-
-[Data](articles/c381dc28.json)
-
-[Extended Data](ext_articles/c381dc28.ext.json)
-
----
-
-### Conversation on Douglas phone with President Anura
-
-*2024-10-09 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/195813) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura speaks with Douglas about Indian fishermen arrests. Public urges action against livelihood destruction. President promises to address issue soon.
-
-🟩
-
-A conversation between President Anura Kumara Dissanayake and Douglas Devananda, Secretary General of the Eelam Democratic Party and Douglas Devananda.
-
-At the moment Douglas Devananda visited the area to meet the public to the Velani area, the Indian dragons were on the rise that the Indian tracts were increasing in their areas.
-
-As such conditions continue, fifty Indian fishermen arrested on charges of violating the Sri Lankan waters during the visit of Indian Foreign Minister Subramaniam Jaishankar have been released without any conditions.
-
-Therefore, the public has urged Douglas to take appropriate action by the new rulers that their livelihood is being destroyed.
-
-Douglas, who was standing in the area, spoke to President Anura on the phone. He has also highlighted the public expressed.
-
-At the same time, the President said that he would focus on the issue of Anuragumara and that he would soon hold talks with Douglas.
-
-◼️
-
-[Data](articles/77145f1b.json)
-
-[Extended Data](ext_articles/77145f1b.ext.json)
-
----
-
-### He went to Australia empty-handed and went to Australia, a millpect
-
-*2024-10-09 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201983) · `si`
-
-Sri Lankan youth wins big in Australia: From student to millionaire through Airtasker success.
-
-🟩
-
-A Sri Lankan youth who went to Australia for his education around the year ago, a Sri Lankan youth has been a millionaire.
-
-Winzul Karunaratne, who is currently in Melbourne, is 25-year-old.
-
-While working in a temporary basis, the night was employed on a temporary basis while conducting his studies.
-
-He is also involved in housing cleaning activities during the rest.
-
-Since the income received was good, he later joined the site of airtasker.
-
-Vinul is among the top 10 and the highest number of income related to the site.
-
-It is said that the service of Vinul is more demand and his daily income is between $ 1,000 and 1,400 Australian income.
-
-He has also been able to buy a house to buy the car he was dreaming and in Sri Lanka.
-
-It plans to buy a house in full-time and to invest in other areas.
-
-◼️
-
-[Data](articles/66383f77.json)
-
-[Extended Data](ext_articles/66383f77.ext.json)
-
----
-
-### Prices of eggs spike again in local markets
-
-*2024-10-09 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102546/prices-of-eggs-spike-again-in-local-markets) · `en`
-
-The price of an egg has spiked again after the recent price drop.
-
-The price of an egg was seen reduced to Rs. 30 in local markets recently, however, it was reported that an egg is being sold at prices of over Rs. 40 this week.
-
-Chairman of Sri Lanka Livestock Producers Association Ajith Gunasekara stated that several factors have impacted the relevant price hike.
-
-“A large number of wholesalers have sold the eggs at lower price. It brought great relief to the customers. By now, the surplus products have left the market. Only the daily eggs that are currently produced come to the market. But there has been a huge price fluctuation. We have a question whether it happens artificially.”
-
-◼️
-
-[Data](articles/ea293625.json)
-
-[Extended Data](ext_articles/ea293625.ext.json)
 
 ---

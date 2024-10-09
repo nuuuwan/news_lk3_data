@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 19:39:10**
+As of **2024-10-09 19:57:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,408
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,616 (100.0%) of 48,618 articles have been extended.
+48,618 (100.0%) of 48,618 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,29 @@ Furthermore, the Cabinet of Ministers agreed that even though, the said proposal
 
 [Data](articles/f830bc83.json)
 
+[Extended Data](ext_articles/f830bc83.ext.json)
+
 ---
 
-### අද සිට ත්‍රිරෝද රථ ගාස්තු අඩුකරයි
+### Lack of three-wheeler charges from today
 
 *2024-10-09 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201999) · `si`
 
-ත්‍රිරෝද රථ සඳහා අය කරන ගාස්තුව අද (09) සිට රුපියල් 5කින් අඩු කිරීමට තීරණය කර තිබේ.
+Three-wheeler fares reduced in Western Province starting today. First km: 100 LKR, Second km: 85 LKR. Authorities request passengers pay fair rates.
 
-බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ ත්‍රිරෝද රථ කාර්යාංශයේ ප්‍රධානී ජීවින්ද කීර්තිරත්න මහතා ඒ බව පැවසීය.
+🟩
 
-"ඒ අනුව අද සිට දෙවන කිලෝමීටරය සඳහා රුපියල් 5 කින් ගාස්තු අඩුකරන්න තීරණය කළා. ඒ අනුව පළමු කිලෝමීටරය රුපියල් 100ක් සහ දෙවෙනි කිලෝමීටරය රුපියල් 85 බවට පත්වෙනවා. ඒ අනුව බස්නාහිර පළාත තුළ එලෙස ගාස්තු නියාමනය කෙරෙනවා. සියලුම ජනතාවගෙන් ඉල්ලා සිටිනවා නියමිත මුදලට වඩා ගෙවා සේවාවන් ලබාගන්න එපා කියලා."
+The charges for three wheelers has decided to reduce the charges from today (09).
+
+Head of the Western Province Road Bureau of the Western Provincial Road Passenger Transport Authority (Western Province) Teaching has said that.
+
+"According to the second kilometer to the second kilometer decided to reduce the fees. Accordingly, the first kilometer is Rs. 100 and the second kilometer is Rs. 85. Accordingly, the fees will be regulated in the Western Province. All people are asked to get paid more than the proper money. "
 
 ◼️
 
 [Data](articles/8286a456.json)
+
+[Extended Data](ext_articles/8286a456.ext.json)
 
 ---
 

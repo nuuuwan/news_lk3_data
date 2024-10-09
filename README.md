@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 12:25:00**
+As of **2024-10-09 12:39:01**
 
 ## Newspaper Stats
 
-*Scraped **48,544** Articles*
+*Scraped **48,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 481
 islandlk | 2,870
 economynextcom | 2,974
 dailyftlk | 3,283
-adalk | 4,497
+adalk | 4,499
 dailymirrorlk | 4,733
 adaderanalk | 5,723
 tamilmirrorlk | 6,581
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,544 (100.0%) of 48,544 articles have been extended.
+48,546 (100.0%) of 48,546 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -255,6 +255,24 @@ Meanwhile, the deadline for accepting postal vote applications for the General E
 [Data](articles/558fc87c.json)
 
 [Extended Data](ext_articles/558fc87c.ext.json)
+
+---
+
+### Damitha contest to parliament
+
+*2024-10-09 11:11:30* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-පාර්ලිමේන්තුවට-තරගකරයි/11-412389) · `si`
+
+Damitha Abeyratne contests general election 2023 in Ratnapura district, focusing on reconciliation.
+
+🟩
+
+Damitha Abeyratne has decided to contest the general election this year. She further stated that she will contest to the Ratnapura district with a reconciliation this year.. (I j)
+
+◼️
+
+[Data](articles/c1c3fcb3.json)
+
+[Extended Data](ext_articles/c1c3fcb3.ext.json)
 
 ---
 
@@ -919,6 +937,30 @@ The body has been placed at the Elpitiya Hospital for the post mortem examinatio
 [Data](articles/267d0d2f.json)
 
 [Extended Data](ext_articles/267d0d2f.ext.json)
+
+---
+
+### Have not stopped lunch offered to primary students
+
+*2024-10-09 07:39:52* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-සිසුන්ට-දෙන-දිවා-ආහාරය-නවතා-නෑ/11-412388) · `si`
+
+Lunch program for primary students continues despite rumors of suspension. Ministry denies claims, stating funding secured through 2024.
+
+🟩
+
+Reports say that it is false that the liege has been stopped at government schools in government schools has been suspended.
+
+The Ministry of Education, Thilaka Jayasundara said that there were many information in the past few days that the program has been stopped in schools.
+
+Thilaka Jayasundara said that all these accounts were false and the program of providing lunch for school children continues to implement the program.
+
+She added that there is also the funds necessary to implement the relevant program until next year.
+
+◼️
+
+[Data](articles/394638b7.json)
+
+[Extended Data](ext_articles/394638b7.ext.json)
 
 ---
 
@@ -2303,53 +2345,5 @@ Audit recommended by the audit that action should be taken to recover the non-co
 [Data](articles/3a953ca6.json)
 
 [Extended Data](ext_articles/3a953ca6.ext.json)
-
----
-
-### A Chinese war ship to come to Sri Lanka
-
-*2024-10-08 19:26:02* · [`adalk`](https://www.ada.lk/breaking_news/චීන-යුද-නැවකට-ලංකාවට-එන්න-අවසර/11-412384) · `si`
-
-Chinese warship visit Sri Lanka: Cabinet approves entry for training purposes. Ship expected to arrive this month. Government emphasizes cooperation with international partners including India, USA, and China.
-
-🟩
-
-Cabinet spokesman, Minister Vijitha Herath said he was permitted to reach Sri Lanka to a Chinese war training cruise ship. Accordingly, the ship is due to return to Sri Lanka this month.
-
-He made these comments at a press briefing to inform the Cabinet decisions today (08).
-
-He said that it would not harm the security of the country and that such ships had come to Sri Lanka for war exercises before.
-
-The present government is looking to cooperate with all countries in India, America, China.
-
-◼️
-
-[Data](articles/8e7f27c6.json)
-
-[Extended Data](ext_articles/8e7f27c6.ext.json)
-
----
-
-### No butter in cakes, eggs or margarine
-
-*2024-10-08 19:22:49* · [`adalk`](https://www.ada.lk/breaking_news/කේක්වල-බටර්--බිත්තර-හෝ-මාගරින්-නෑ/11-412383) · `si`
-
-Sri Lanka lacks regulations to check cake ingredients. Many bakeries use artificial flavors instead of real eggs, butter, or margarine. The outdated Food Act doesn't penalize non-compliance.
-
-🟩
-
-The public health inspector Sandun Ratnayake stressed that there is still no provision in Sri Lanka to check the contents of the cake.
-
-He points out that the majority of the companies are not using eggs or butter or margarine to produce corporate cake.
-
-Accordingly, the butter flavorful substances and artificial egg flavors have to be remembered that the cakes of the cake is available in the cake in the market.
-
-The Public Health Inspector added that the allocations of the Food Act, which was built over 44 years ago, has not yet been prepared to punish the Food Act No. 26 of 1980.
-
-◼️
-
-[Data](articles/0f1d6769.json)
-
-[Extended Data](ext_articles/0f1d6769.ext.json)
 
 ---

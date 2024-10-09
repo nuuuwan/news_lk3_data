@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 23:23:16**
+As of **2024-10-09 23:39:18**
 
 ## Newspaper Stats
 
-*Scraped **48,643** Articles*
+*Scraped **48,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 399
 colombotelegraphcom | 481
 bbccomsinhala | 483
-islandlk | 2,870
-economynextcom | 2,977
+islandlk | 2,871
+economynextcom | 2,985
 dailyftlk | 3,283
 adalk | 4,515
 dailymirrorlk | 4,733
-adaderanalk | 5,741
+adaderanalk | 5,742
 tamilmirrorlk | 6,601
 virakesarilk | 7,781
 adaderanasinhalalk | 8,416
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,416
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,643 (100.0%) of 48,643 articles have been extended.
+48,652 (100.0%) of 48,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Sarath Ganegoda appointed new chairman of SriLankan Airlines
+
+*2024-10-09 23:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102573/sarath-ganegoda-appointed-new-chairman-of-srilankan-airlines) · `en`
+
+Sarath Ganegoda has been appointed as the new Chairman of SriLankan Airlines effective from today (09).
+
+Meanwhile, a new Board of Directors has also been appointed to Sri Lanka’s national carrier, under the chairmanship of Mr. Ganegoda.
+
+◼️
+
+[Data](articles/072897d7.json)
+
+[Extended Data](ext_articles/072897d7.ext.json)
+
+---
 
 ### New Chairman of SriLankan Airlines
 
@@ -584,6 +600,26 @@ That means we have a number of names of the tradition. Because our organizers, o
 
 ---
 
+### Swiss envoy discusses peace, reconciliation with new Sri Lanka leader
+
+*2024-10-09 19:00:00* · [`economynextcom`](https://economynext.com/swiss-envoy-discusses-peace-reconciliation-with-new-sri-lanka-leader-183028/) · `en`
+
+ECONOMYNEXT – Switzerland Ambassador Siri Walt met Sri Lanka’s new President Anura Kumara Dissanayake and discussed the island nation’s efforts on peace and reconciliation among many other topics, the envoy said.
+
+Walt, Ambassador Extraordinary and Plenipotentiary of Switzerland to Sri Lanka, met Dissanayake on Wednesday and reaffirmed Switzerland’s commitment to supporting Sri Lanka, particularly through the ongoing IMF program, and expressed Switzerland’s readiness to assist in President Dissanayake’s efforts to combat corruption, President Media Division (PMD) said in a statement.
+
+“She also emphasized Switzerland’s expertise in foreign direct investments (FDI) and tourism, offering assistance to Sri Lanka in these sectors to promote economic growth,” the PMD said.
+
+Walt in a separate message said she also discussed peace and reconciliation with Dissanayake.
+
+...
+
+[Data](articles/06cf5370.json)
+
+[Extended Data](ext_articles/06cf5370.ext.json)
+
+---
+
 ### An explanation from the Bureau of Israel
 
 *2024-10-09 18:54:29* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-රැකියා-ගැන-කාර්යාංශයෙන්-පැහැදිලි-කිරීමක්/11-412407) · `si`
@@ -816,6 +852,64 @@ Commenting at the press briefing, leader of the party Uvindu Wijeweera said: “
 
 ---
 
+### Vatican lauds President’s Easter Sunday probe pledge
+
+*2024-10-09 17:52:00* · [`economynextcom`](https://economynext.com/vatican-lauds-presidents-easter-sunday-probe-pledge-183007/) · `en`
+
+ECONOMYNEXT – The Vatican’s diplomatic representative to Sri Lanka Reverend Brian Udaigwe, who conveyed greetings from Pope Francis during a meeting with newly elected President Anura Dissanayake, has also appreciated his pledge to conduct a credible investigation into the Easter Sunday bombings.
+
+Apostolic Nuncio Udaigwe congratulated Dissanayake on his recent election victory, conveying greetings from Pope Francis, a statement from the president’s media division said.
+
+He “lauded President Dissanayake’s initiative to conduct transparent and credible investigations into the tragic Easter Sunday bombings” and “assured the fullest cooperation of the Vatican in supporting the President’s ongoing efforts to bring justice and healing to the victims and their families,” the statement said.
+
+...
+
+[Data](articles/1d580413.json)
+
+[Extended Data](ext_articles/1d580413.ext.json)
+
+---
+
+### Top US Navy Commander visits Sri Lanka to discuss rising security challenges
+
+*2024-10-09 17:52:00* · [`economynextcom`](https://economynext.com/top-us-navy-commander-visits-sri-lanka-to-discuss-rising-security-challenges-183011/) · `en`
+
+ECONOMYNEXT – A top United States Navy Commander will visit Sri Lanka on Thursday (10) to discuss rising security challenges in the Indian Ocean region and strengthen bilateral defence cooperation between the two nations, the U.S. Embassy in Colombo said.
+
+The visit of Admiral Steve Koehler, a 4-star U.S. Navy Admiral and Commander of U.S. Pacific Fleet comes amid the docking of Chinese military training ship Po Lang in Colombo port after the new government under President Anura Kumara Dissanayake allowed it citing there was no security threats to Sri Lanka.
+
+“During the visit, Admiral Koehler will reaffirm the strong partnership between the United States and Sri Lanka for an enduring, resilient, free and open Indo-Pacific,” U. S. Embassy in Colombo said in a statement.
+
+...
+
+[Data](articles/74f2697c.json)
+
+[Extended Data](ext_articles/74f2697c.ext.json)
+
+---
+
+### Sri Lanka rupee closes flat at 293.00/20 to dollar, bond yields down
+
+*2024-10-09 17:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-293-00-20-to-dollar-bond-yields-down-183003/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed steady at 293.00/20 to the US dollar Wednesday from 293.15/20 a day earlier, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.30/50 percent, down from 10.40/60 percent.
+
+A bond maturing on 15.12.2027 closed at 11.40/55 percent, down from 11.45/65 percent.
+
+A bond maturing on 15.02.2028 closed at 11.70/80 percent, from 11.70/85 percent.
+
+A bond maturing on 15.09.2029 closed at 11.95/12.05 percent, down from 12.00/20 percent.
+
+◼️
+
+[Data](articles/5463e5bb.json)
+
+[Extended Data](ext_articles/5463e5bb.ext.json)
+
+---
+
 ### Charles left out again
 
 *2024-10-09 17:50:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-வெளியேறினார்-சாள்ஸ்/175-345172) · `ta`
@@ -1037,6 +1131,32 @@ The National Convention, which contested on behalf of the India coalition, has w
 [Data](articles/b83f64a8.json)
 
 [Extended Data](ext_articles/b83f64a8.ext.json)
+
+---
+
+### Sri Lanka stocks close down, foreign interest in John Keells
+
+*2024-10-09 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-foreign-interest-in-john-keells-182994/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
+
+The broader All Share Index closed down 0.16 percent, or 18.95 points, at 12,152; while the more liquid S&P SL20 Index closed updown 0.06 percent, or 2.18 points, at 3,593.
+
+Top turnover generators were John Keells Holdings (up at 198.25), Citizens Development Business Finance (flat at 202.75), Sampath Bank (down at 81.40), Commercial Bank (down at 106.50), and Dialog Axiata (up at 10.00).
+
+Crossings were recorded on Citizens Development Business Finance, John Keells Holdings, and Hatton National Bank (up at 214.00).
+
+Most banks closed down. DFCC was down at 80.60, NDB was down at 80.00.
+
+“There was a notable net foreign inflow because of John Keells Holdings,” Softlogic Holdings said.
+
+Top foreign buying was seen in John Keells Holdings, Commercial Bank, Sampath Bank, ACL Cables (down at 86.80), Melstacorp (up at 88.50), and Elpitiya Plantations (up at 104.00).
+
+...
+
+[Data](articles/ab420510.json)
+
+[Extended Data](ext_articles/ab420510.ext.json)
 
 ---
 
@@ -1378,6 +1498,24 @@ Dharmawickrama further emphasized that the new President and the Prime Minister,
 
 ---
 
+### Korea ambassador meets Sri Lanka president, discusses employment
+
+*2024-10-09 15:26:00* · [`economynextcom`](https://economynext.com/korea-ambassador-meets-sri-lanka-president-discusses-employment-182991/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has met South Korea’s ambassador Miyon Lee and discussed further support including job opportunities.
+
+“We discussed boosting employment opportunities for Sri Lankans in Korea and supporting our fight against poverty, corruption, and climate change,” Dissanayake said on X.
+
+“I’m looking forward to strengthening ties between the two countries.” (Colombo/Oct9/2024)
+
+◼️
+
+[Data](articles/8f042284.json)
+
+[Extended Data](ext_articles/8f042284.ext.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-10-09 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195843) · `ta`
@@ -1499,6 +1637,26 @@ Admiral Koehler will engage with senior Sri Lankan officials to discuss rising s
 [Data](articles/965b3a42.json)
 
 [Extended Data](ext_articles/965b3a42.ext.json)
+
+---
+
+### Sri Lanka treasury bill yields plunge across maturities
+
+*2024-10-09 15:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-plunge-across-maturities-182982/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction, with all 85 billion of offered bills sold, data from the debt office showed.
+
+The 3-month yield was down 37 basis points to 9.69 percent, with all offered 40 billion rupees of bills sold.
+
+The 6-month yield was down 42 basis points to 9.95 percent, with all 35 billion rupees of bills offered sold.
+
+The 12-month bill was down 4 basis point at 10.00 percent, with all 10 billion rupees of bills offered sold. (Colombo/Oct9/2024)
+
+◼️
+
+[Data](articles/c8127a33.json)
+
+[Extended Data](ext_articles/c8127a33.ext.json)
 
 ---
 
@@ -1805,6 +1963,30 @@ In the meantime, on Wednesday (09), a bail application was granted by the forum,
 [Data](articles/adb3d417.json)
 
 [Extended Data](ext_articles/adb3d417.ext.json)
+
+---
+
+### Sri Lanka default rating could be removed after commercial debt restructure: Fitch
+
+*2024-10-09 14:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-default-rating-could-be-removed-after-commercial-debt-restructure-fitch-182970/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s restricted default (RD) rating could be removed after debt restructuring is complete, and relations with commercial creditors are normalized, Fitch Ratings said.
+
+With the new administration endorsing a deal with sovereign bondholders, political risks have to debt restructure has receded, Fitch said.
+
+Foreign Minister Vijitha Herath said the administration decided to go ahead with the deal negotiated shortly before the Presidential elections because delays could lead to bigger problems for the economy.
+
+Sri Lanka going ahead ISB deal to avoid bigger problems from delay: Foreign Minister
+
+Sri Lanka going ahead ISB deal to avoid bigger problems from delay: Foreign MinisterSee more
+
+Fitch put Sri Lanka’s long term foreign currency rating (the Issuer Default Rating) at RD in May 2022 after coupon payment was missed.
+
+...
+
+[Data](articles/80ffc0c8.json)
+
+[Extended Data](ext_articles/80ffc0c8.ext.json)
 
 ---
 
@@ -2203,233 +2385,5 @@ The competition marks the sixtieth anniversary of Wildlife Photographer of the Y
 [Data](articles/9088d8a4.json)
 
 [Extended Data](ext_articles/9088d8a4.ext.json)
-
----
-
-### Sub-Inspector's performance in hand
-
-*2024-10-09 12:02:30* · [`adalk`](https://www.ada.lk/breaking_news/උප-පොලිස්-පරීක්ෂකවරයාගේ-රංගනය-අතේ-පත්තු-වෙයි/11-412391) · `si`
-
-Sub-Inspector's performance questioned after nightclub incident involving police officers. OIC misled about injuries. Constable suspended. Sub-Inspector accused of conflict with drug dealer. Motorcycle chase leads to officer's injury. High-ranking police officials involved in investigation.
-
-🟩
-
-Colombo South Senior Superintendent's Office, the OIC of the Kirulapone Police have misled the OIC of the Kirulapone Police who had been severely injured when he went to a nightclub and a large number of police officers had been severely injured when he went to a nightclub.Means the roads.
-
-The duties of a constable who covered the incident have been suspended.
-
-Sub Inspector who served as the OIC of the Anti-Corruption Unit has a drug dealer at Bambalapitiya last night with a drug dealer at the Bambalapitiya last night and a man was a conflict with the drug dealerSources say that the attack was attacked to the hand of the sub-inspector.
-
-The information book has fled from a motorcycle near the 4th Lane of Kirulapovul, which was in a motorcycle where the motorcycle was on the occasion when the police constable was dunishes on the same day.Sources said.
-
-The sub-Inspector remained in the single reed.
-
-...
-
-[Data](articles/1bb7a6a0.json)
-
-[Extended Data](ext_articles/1bb7a6a0.ext.json)
-
----
-
-### A new political party from Ranjan
-
-*2024-10-09 12:02:13* · [`adalk`](https://www.ada.lk/breaking_news/රන්ජන්ගෙන්-නව-දේශපාලන-පක්ෂයක්/11-412390) · `si`
-
-Ranjan Ramanayake launches new political party. Dilshan named national organizer. Wadveyel Suresh joins. Party symbol: Microphone.
-
-🟩
-
-Former Parliamentarian Ranjan Ramanayake has established a new political party.
-
-Former TMDilshan has been appointed as the national organizer of the party under the microphone sign.
-
-Former Parliamentarian Wadveyel Suresh has also joined the party.
-
-◼️
-
-[Data](articles/9ecb2ea0.json)
-
-[Extended Data](ext_articles/9ecb2ea0.ext.json)
-
----
-
-### The new party headed by Ranjan Ramanayake
-
-*2024-10-09 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195828) · `ta`
-
-Here's a 200-character summary:
-
-
-
-New party "United Democratic Voice" launched today (09) led by former MP Ranjan Ramanayake. Claims citizenship deleted but received ballot for presidential election, allowing voting and candidacy.
-
-🟩
-
-The "United Democratic Voice", led by former parliamentarian Ranjan Ramanayake, was launched today (09).
-
-Mentioned that my citizenship was deleted. But this time the ballot was received to vote in the presidential election. So I can vote and contest the election.
-
-◼️
-
-[Data](articles/cd3bfcf7.json)
-
-[Extended Data](ext_articles/cd3bfcf7.ext.json)
-
----
-
-### Netanyahu a threat to the Lebanonans
-
-*2024-10-09 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201986) · `si`
-
-Here's a 200-character summary:
-
-
-
-Israel launches airstrikes on Lebanon, targeting Hezbollah. Netanyahu warns against another Gaza-like situation. He threatens increased military presence in Lebanon. Claims Hashim Safieddine will lead Hezbollah soon.
-
-🟩
-
-Israel continues to launch air strikes at Lebanon targeting various places, including Hezbollah's heads.
-
-Israeli Prime Minister Benjamin Netanyahu informed the civilians who were released from such a background.
-
-He was threatening, not if the Lebanon was another Gaza.
-
-The Prime Minister also revealed that another land forces to Lebanon will be expanded.
-
-Meanwhile, Prime Minister Netanyau says that Hashim Shafyaden was supposed to be the next leader of the Hezhimullah Organization.
-
-◼️
-
-[Data](articles/6f3a9f62.json)
-
-[Extended Data](ext_articles/6f3a9f62.ext.json)
-
----
-
-### All the major parties that are destroying the telephone number
-
-*2024-10-09 11:44:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-பிரதான-கட்சிகளும்-அழிவைச்-சந்திக்கும்/175-345141) · `ta`
-
-Civil Collective Organization warns major political parties against corrupt candidates. Public demands clean leaders for upcoming election. 10-point criteria evaluate ideal candidates. Citizens urged to reject corrupt politicians. Organizations like YMBA, Sri Lanka National Peace Council, Paffrel support clean governance.
-
-🟩
-
-The Civil Collective Organization has said that almost all major political parties will be destroyed if they do not field the best candidates on their list to contest the upcoming general election, as the public is determined to vote against corrupt political culture.
-
-During the general election launched in Colombo yesterday, the civil collector's general election, which includes more than 40 civil society organizations, introduced 10 -point criteria to evaluate the 'profile for an ideal political candidate' during the general election.
-
-Political parties and its leaders need to be very careful in putting their candidates through lists, as people are very careful in choosing representatives with pure law in the future.
-
-This time, the people will clearly reject candidates with a political and corrupt political background, said its Executive Director, Rohana Hettiarachchi, representing the March 12 movement and PAffrel.
-
-...
-
-[Data](articles/67b32ec7.json)
-
-[Extended Data](ext_articles/67b32ec7.ext.json)
-
----
-
-### Indo-Sri Lanka Movie Project: What happens to the Upuran Train?
-
-*2024-10-09 11:40:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4g5jq87l7no) · `si`
-
-Sri Lanka Railways restricts train services for Indian film shoot. Public concerns raised about impact on daily commute. Film company pays compensation and provides alternative transport. Project aims to boost Sri Lanka's tourism industry.
-
-🟩
-
-Indo-Sri Lanka Movie Project: What happens to the Upuran Train?
-
-"The public is a question in the public regarding the decision taken by the Sri Lanka Railways, which promotes safe and efficient supply of goods to the transportation of passenger transportation and productive transportation.
-
-The main reason for the filing of the upcountry route to the filming in an Indian film has decided to limit a week from today (90).
-
-The film is done on the bridge of the Demodara Security Nine.
-
-According to the filming of the film, the Railway Department has issued a statement regarding the filing of the film to the Ella train station from 07.30 am to 5.30 pm.
-
-The railway operation will be restricted to 7 days from today (October) to date.
-
-Speaking to BBC Sinhala service (Transport) Deputy General Manager (Transportation) NJ. Venerable The Venerators said that the upcountry train service is that his department expresses the sadness of the inconvenience caused by the passenger people.
-
-...
-
-[Data](articles/d008e1b8.json)
-
-[Extended Data](ext_articles/d008e1b8.ext.json)
-
----
-
-### Sri Lanka rupee trades stronger at 292.75/85 to US dollar, bond yields inch up
-
-*2024-10-09 11:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-292-75-85-to-us-dollar-bond-yields-inch-up-182931/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading at 292.75/85 to the US dollar on Wednesday, from 293.15/20 a day earlier, while bond yields were slightly up dealers said.
-
-An auction of 85,000 million rupees of Treasury bills was ongoing.
-
-A bond maturing on 15.12.2026 was quoted at 10.30/40 percent, down from 10.40/60 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.50/75 percent, up from 11.45/65 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.82/87 percent, up from 11.70/85 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.05/20 percent, up from 12.00/20 percent.
-
-In equities, Colombo’s All Share Price Index was trading 0.17 percent, or 20.46 points higher at 12,191, while the S&P SL20 of more liquid stocks was trading up 0.43 percent or 15.33 points higher at 3,611.
-
-◼️
-
-[Data](articles/53ddcbea.json)
-
-[Extended Data](ext_articles/53ddcbea.ext.json)
-
----
-
-### Afghan man arrested in alleged US election day attack plot
-
-*2024-10-09 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102552/afghan-man-arrested-in-alleged-us-election-day-attack-plot) · `en`
-
-The US Department of Justice has arrested a man who allegedly planned an attack on Election Day in the name of the Islamic State group.
-
-The suspect, Nasir Ahmad Tawhedi, 27, is a citizen of Afghanistan residing in Oklahoma City, Oklahoma, according to prosecutors.
-
-“This defendant, motivated by ISIS, allegedly conspired to commit a violent attack, on Election Day, here on our homeland,” said FBI Director Christopher Wray in a statement on Tuesday.
-
-The FBI said he was attempting stockpile firearms, and had taken steps to liquidate his family’s assets and relocate members overseas.
-
-Mr Tawhedi is charged with providing, attempting to provide, and conspiracy to provide support or resources to a foreign terrorist organization; and with trying to procure firearms and ammunition to use to commit a felony or act of terrorism.
-
-...
-
-[Data](articles/7c77ff3f.json)
-
-[Extended Data](ext_articles/7c77ff3f.ext.json)
-
----
-
-### Is Ranjan changing the party?
-
-*2024-10-09 11:33:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-மாறுகிறாரா-ரஞ்சன்/175-345136) · `ta`
-
-Ranjan Ramanayake, former MP, may contest elections if citizenship restored. He considers joining new party, pending legal status resolution.
-
-🟩
-
-Former parliamentarian Ranjan Ramanayake's citizenship, who has been jailed for contempt of court, is likely to be able to contest the new party in the new party if the citizenship is recovered.
-
-Mr. Ramanayake told the Daily Mirror that he was considering contesting the general election from the new party.
-
-“I have met some experts and asked for civic rights. If I am given citizenship I will contest the general election. I was given a referendum card before the presidential election, but I could not vote because I had to go abroad. I will inquire with the Election Commission on whether I can contest and I will compete if the tattoo is shown. ”
-
-Some parties have invited me to contest the election and I will consider all these calls, ”he said.
-
-◼️
-
-[Data](articles/8354b746.json)
-
-[Extended Data](ext_articles/8354b746.ext.json)
 
 ---

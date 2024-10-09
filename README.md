@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 09:23:49**
+As of **2024-10-09 09:39:05**
 
 ## Newspaper Stats
 
-*Scraped **48,509** Articles*
+*Scraped **48,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 480
 bbccomsinhala | 481
 islandlk | 2,870
 economynextcom | 2,970
-dailyftlk | 3,282
+dailyftlk | 3,283
 adalk | 4,494
 dailymirrorlk | 4,733
 adaderanalk | 5,716
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,509 (100.0%) of 48,509 articles have been extended.
+48,509 (100.0%) of 48,510 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -463,6 +463,18 @@ At the Annual General Meeting of the Sri Lanka Gem and Jewellery Association (SL
 [Data](articles/81e29a68.json)
 
 [Extended Data](ext_articles/81e29a68.ext.json)
+
+---
+
+### Open letter to President: Do we need a new development bank?
+
+*2024-10-09 02:57:37* · [`dailyftlk`](https://www.ft.lk/columns/Open-letter-to-President-Do-we-need-a-new-development-bank/4-767720) · `en`
+
+The manner in which the thinking about development banking has evolved, clearly shows that more thought must be given to setting up an entirely new development bank. This is not to say that development banking is not required. What we need to think about is, can we not look at the existing banks with development banking competence before looking at reinventing the wheel?
+
+...
+
+[Data](articles/3774441c.json)
 
 ---
 
@@ -2345,29 +2357,5 @@ The Department of Meteorology has informed that there will be heavy at least 100
 [Data](articles/62b70d04.json)
 
 [Extended Data](ext_articles/62b70d04.ext.json)
-
----
-
-### Constitutional Council approves Acting IGP appointment
-
-*2024-10-08 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102535/constitutional-council-approves-acting-igp-appointment) · `en`
-
-The Constitutional Council has approved the appointment of Senior DIG Priyantha Weerasooriya as the Acting Inspector General of Police (IGP).
-
-The Constitutional Council convened a meeting at the parliamentary complex today (08) under the chairmanship of Speaker Mahinda Yapa Abeywardena to take a final decision on approving the appointment of the Acting IGP.
-
-Under existing regulations, any individual serving as Acting IGP for more than 14 days must receive the formal approval of the Constitutional Council.
-
-Weerasooriya was appointed as Acting IGP by President Anura Kumara Dissanayake on September 27, under the constitutional powers vested in the President.
-
-He had received his letter of appointment from the President’s Secretary Dr. Nandika Kumanayake at the Presidential Secretariat in Colombo on the same day.
-
-Prior to this appointment, Weerasooriya served as the Senior SIG in charge of the North Central Province, a position he held since March 2024.
-
-...
-
-[Data](articles/c158675a.json)
-
-[Extended Data](ext_articles/c158675a.ext.json)
 
 ---

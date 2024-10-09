@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 22:12:50**
+As of **2024-10-09 22:24:52**
 
 ## Newspaper Stats
 
-*Scraped **48,635** Articles*
+*Scraped **48,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ dailyftlk | 3,283
 adalk | 4,514
 dailymirrorlk | 4,733
 adaderanalk | 5,739
-tamilmirrorlk | 6,600
+tamilmirrorlk | 6,601
 virakesarilk | 7,781
-adaderanasinhalalk | 8,412
+adaderanasinhalalk | 8,413
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,635 (100.0%) of 48,635 articles have been extended.
+48,637 (100.0%) of 48,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Maithri who suddenly came for his son
+
+*2024-10-09 22:04:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகனுக்காக-திடீரென-வந்த-மைத்திரி/175-345190) · `ta`
+
+Former President Maithripala Sirisena unexpectedly visits Homeland People's Party office. He supports his son Taham, newly appointed district organizer. This move fuels speculation about Sirisena's potential election bid.
+
+🟩
+
+Former President Maithripala Sirisena, who has not yet announced his announcement on contesting the upcoming parliamentary elections, has suddenly visited the office of the Homeland People's Party.
+
+He said he had come to the office of the homeland People's Party to give her son full support.
+
+Taham Sirisena, son of former President Maithripala Sirisena, has been appointed as the organizer of the Polonnaruwa District Home People's Party. Remble
+
+◼️
+
+[Data](articles/23485ea7.json)
+
+[Extended Data](ext_articles/23485ea7.ext.json)
+
+---
+
+### 16 others join Dilith
+
+*2024-10-09 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202005) · `si`
+
+Dilith Jayaweera's party gains 16 members, vows to combat corruption in local governance. New appointees include district leaders and organizers from various regions. Party aims to create a clean political platform, distancing itself from corrupt practices.
+
+🟩
+
+The party leader Dilith Jayaweera said his party will take steps to remove the corrupt label that has been credited to local government representatives by the corrupt leaders of various parties.
+
+He was awarded appointment letters to a group of new organizers at the party headquarters today.
+
+Seven members, including the former senior church of the Mahara Pradeshiya Sabha, who represented the Sri Lanka General Front, joined the omangerage power today.
+
+The leader of the Motherland People's People's People's Party, Dilith Jayaweera presented the positions of electoral organizers of the Gampaha District.
+
+Dr. Prasad Manjula was appointed as the Hambantota District Leader of Angunakolapelessa and Katuwana Pradeshiya Sabhas.
+
+Meanwhile, the SLFP Medirigiriya and two Minneriya organizers joined the exangerage power this afternoon and they were organized in the universal power.
+
+...
+
+[Data](articles/94d1999f.json)
+
+[Extended Data](ext_articles/94d1999f.ext.json)
+
+---
 
 ### The student told her parents that she was committing suicide ....
 
@@ -2383,41 +2433,5 @@ His hard work eventually paid off and he was soon able to ditch his job at 7-Ele
 [Data](articles/7a9984c4.json)
 
 [Extended Data](ext_articles/7a9984c4.ext.json)
-
----
-
-### Sri Lanka must not overly disturb current fiscal framework: IPS chief
-
-*2024-10-09 11:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-must-not-overly-disturb-current-fiscal-framework-ips-chief-182915/) · `en`
-
-ECONOMYNEXT – While austerity hurts, options are limited for a middle-income country in default, and the more prudent course of action now would be to introduce any changes without overly disturbing the current fiscal framework, Institute of Policy Studies (IPS) Executive Director Dushni Weerakoon said, also noting that debt forgiveness may be out of reach at present.
-
-Speaking at the launch of the IPS’s ‘Sri Lanka State of the Economy 2024’ report on Tuesday October 08, Weerakoon said the crisis-hit island nation has regained a degree of macroeconomic stability, with inflation averaging about one percent year-on-year over the past six months.
-
-...
-
-[Data](articles/c2b2705f.json)
-
-[Extended Data](ext_articles/c2b2705f.ext.json)
-
----
-
-### 20 Chinese nationals arrested for visa overstay: 437 mobile phones and other devices seized
-
-*2024-10-09 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102548/20-chinese-nationals-arrested-for-visa-overstay-437-mobile-phones-and-other-devices-seized) · `en`
-
-Police have arrested 20 Chinese nationals who were staying at a hotel in the Gorakana area of Panadura without valid visas. The arrest has been made following a tip-off received from the officers of the Western Province Intelligence Division.
-
-The officers of Panadura Special Crimes Unit who carried out a raid in the hotel have discovered the group of Chinese nationals staying at the hotel on a monthly rent of Rs. 2 million.
-
-During the raid, the police have also seized a significant number of electronic devices, including 5 laptops, 437 mobile phones, 332 USB cables, 133 mobile phone chargers, 21 USB wire cords, 17 routers, 2 iPhones, and other accessories. The items are suspected to be linked to potential financial fraud and scams.
-
-The arrested individuals were provided meals from the hotel, where they had been residing for an extended period, the police said.
-
-...
-
-[Data](articles/c2242cf4.json)
-
-[Extended Data](ext_articles/c2242cf4.ext.json)
 
 ---

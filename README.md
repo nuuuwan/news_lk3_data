@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 11:23:19**
+As of **2024-10-10 11:39:39**
 
 ## Newspaper Stats
 
-*Scraped **48,718** Articles*
+*Scraped **48,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 2,985
 dailyftlk | 3,299
 adalk | 4,519
 dailymirrorlk | 4,733
-adaderanalk | 5,747
+adaderanalk | 5,750
 tamilmirrorlk | 6,608
 virakesarilk | 7,787
-adaderanasinhalalk | 8,428
+adaderanasinhalalk | 8,429
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,718 (100.0%) of 48,718 articles have been extended.
+48,722 (100.0%) of 48,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Murdhu Fernando appointed Acting Chief Justice
+
+*2024-10-10 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102581/murdhu-fernando-appointed-acting-chief-justice) · `en`
+
+Justice Murdhu Fernando has taken oath as the Acting Chief Justice before President Anura Kumara Dissanayake this morning (10), the President’s Media Division (PMD) reported.
+
+Justice Fernando is the second woman to hold the position of Chief Justice in Sri Lanka’s history, after Shirani Bandaranayake in 2011.
+
+Fernando joined the Attorney General’s Department as a state counsel, where she served for over 30 years having been promoted to senior state counsel, deputy solicitor general, additional solicitor general and senior additional solicitor general.
+
+She was appointed a President’s Counsel while serving as an additional solicitor general.
+
+She was later appointed as a Justice of the Supreme Court by then President Maithripala Sirisena in March 2018.
+
+◼️
+
+[Data](articles/dd3cb2ab.json)
+
+[Extended Data](ext_articles/dd3cb2ab.ext.json)
+
+---
+
+### Acting Chief Justice oaths
+
+*2024-10-10 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202023) · `si`
+
+Sri Lanka Supreme Court Judge Fernando sworn in as acting Chief Justice.
+
+🟩
+
+Supreme Court Judge Fernando has been sworn in as the acting Chief Justice of Sri Lanka.
+
+◼️
+
+[Data](articles/233aeda4.json)
+
+[Extended Data](ext_articles/233aeda4.ext.json)
+
+---
+
+### Wimal’s NFF decides not to contest 2024 General Election
+
+*2024-10-10 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102580/wimals-nff-decides-not-to-contest-2024-general-election) · `en`
+
+The National Freedom Front (NFF) led by former MP Wimal Weerawansa has announced that they will not contest in the upcoming General Elections either as an alliance or independently.
+
+Issuing a special statement, Weerawansa stated that there is no doubt that some opposition forces serve an “imperial agenda hostile to the country in order to make President Anura Kumara Dissanayake the second Gotabaya”.
+
+He has further highlighted that neither he nor his party will contribute to making the country more vulnerable to crisis by representing that desire.
+
+◼️
+
+[Data](articles/1e94bc8c.json)
+
+[Extended Data](ext_articles/1e94bc8c.ext.json)
+
+---
 
 ### Sri Lanka women's cricket out of World Cup
 
@@ -81,6 +139,28 @@ As a political movement that has the right to power of the JVP, as a political m
 [Data](articles/53d46ced.json)
 
 [Extended Data](ext_articles/53d46ced.ext.json)
+
+---
+
+### 2024 General Election: Accepting postal voting applications ends today
+
+*2024-10-10 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102579/2024-general-election-accepting-postal-voting-applications-ends-today) · `en`
+
+The accepting of postal voting applications for the 2024 General Election is set to conclude at midnight today (10).
+
+Accordingly, all the public service officials except those who have been exempted from election duties must submit their postal voting applications. The Election Commission emphasized that failure to apply for postal votes or submitting defective applications will not be considered a reason to exempt officials from election duties.
+
+Meanwhile, placing deposits for independent groups related to the upcoming General Election is scheduled to end at 12 noon today.
+
+Apart from the recognized political parties, all independent groups must place deposits for the General Election.
+
+Accordingly, the Election Commission stated that a total of 293 independent groups have placed deposits to contest the 2024 General Election as of yesterday (09) , with the highest number of 42 Independent groups from the Digamadulla Electoral District.
+
+...
+
+[Data](articles/4123a755.json)
+
+[Extended Data](ext_articles/4123a755.ext.json)
 
 ---
 
@@ -197,6 +277,12 @@ The Election Commission of Sri Lanka has announced the dates allocated for the m
 Accordingly, postal voting for parliamentary election will be held on October 20, November 01 and 04 at all District Secretariats and election offices.
 
 Meanwhile, those unable to mark postal votes on the aforementioned dates can do so on November 07 and 08, the Election Commission said.
+
+Meanwhile, the certification of postal voter lists will be done on 16 October, and the issuance and delivery of the lists to the post will be done on 23 October.
+
+The Election Commission also announced that the delivery of official ballot papers to the post offices will be carried out on October 26.
+
+Additionally, October 27, 31 and November 03 have been designated as special days for distribution of official polling cards. The final date for distribution of official ballot papers is 07 November 2024, according to the Election Commission.
 
 ◼️
 
@@ -2279,105 +2365,5 @@ The visit of Admiral Steve Koehler, a 4-star U.S. Navy Admiral and Commander of 
 [Data](articles/74f2697c.json)
 
 [Extended Data](ext_articles/74f2697c.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 293.00/20 to dollar, bond yields down
-
-*2024-10-09 17:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-293-00-20-to-dollar-bond-yields-down-183003/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed steady at 293.00/20 to the US dollar Wednesday from 293.15/20 a day earlier, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.30/50 percent, down from 10.40/60 percent.
-
-A bond maturing on 15.12.2027 closed at 11.40/55 percent, down from 11.45/65 percent.
-
-A bond maturing on 15.02.2028 closed at 11.70/80 percent, from 11.70/85 percent.
-
-A bond maturing on 15.09.2029 closed at 11.95/12.05 percent, down from 12.00/20 percent.
-
-◼️
-
-[Data](articles/5463e5bb.json)
-
-[Extended Data](ext_articles/5463e5bb.ext.json)
-
----
-
-### Charles left out again
-
-*2024-10-09 17:50:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-வெளியேறினார்-சாள்ஸ்/175-345172) · `ta`
-
-Charles Nirmalanathan leaves parliamentary race; Selvaraj Dinesen confirmed for Mannar constituency; TNA to finalize decision on Thursday.
-
-🟩
-
-Former parliamentarian Charles Nirmalanathan has left the list of parliamentary candidates.
-
-Attorney Selvaraj Dinesen has been confirmed only in the Mannar constituency as a candidate for the Vanni district field.
-
-Former MP Charles Nirmalanathan had initially announced that he would withdraw from the election. However, it was announced that he would contest the general election due to the insistence of supporters. However, he announced on Tuesday (08) that he would leave.
-
-In this case, the Mannar TNA branch has continued to negotiate various initiatives and two candidates from Mannar.
-
-However, although many have been nominated as a candidate by the Tamil Cattle, it is revealed that they have not yet expressed their wishes.
-
-It is reported that the TNA's decision will be finalized on Thursday (10) in the Vanni electorate.
-
-◼️
-
-[Data](articles/5de95b3d.json)
-
-[Extended Data](ext_articles/5de95b3d.ext.json)
-
----
-
-### The Sangu symbol, which was an independent symbol, has now been transformed into a symbol of the party - Sirinasan
-
-*2024-10-09 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/195860) · `ta`
-
-Sangu symbol transformed from independent to TNA symbol. PA Ariyanethran contested under Sangu symbol. Now TNA uses conch symbol. Candidates switch parties due to election timing issues. TNA emphasizes unity among Tamil parties for future elections.
-
-🟩
-
-PA Ariyanethran contested the presidential election for the unity of the Tamil people in the Sangu symbol. But now the Sangam symbol is the symbol of the Democratic Tamil National Alliance (TNA), said Gnanamuthu Sirinasan, a former MP of the Sri Lanka Tamil National Party.
-
-People are currently clearly understood. The Tamil Public Council is the independent symbol during the presidential election. Now the conch symbol has been transformed into a party's symbol.That is, the Tamil National Alliance (TNA) has left its punch lamp symbol and took the conch symbol.
-
-Part of the Tamil candidate, who was standing on behalf of this public council. In another area, the telephone symbol had been supported by the United People's Power.
-
-...
-
-[Data](articles/c383b354.json)
-
-[Extended Data](ext_articles/c383b354.ext.json)
-
----
-
-### Kamal Garachchi for general election
-
-*2024-10-09 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201997) · `si`
-
-Kamal Attaarachchi contests general election. Second Generation Party formed. Civil organizations support. Led by Rohana Wijeweera's son. Promises new leadership, development.
-
-🟩
-
-Veteran performer Kamal Attaarachchi is due to contest the second generation to the general election this year.
-
-The second Nurses, the party said at a press conference organized by the Talawatugoda area today (09).
-
-"To build a good parliament building. We break the tradition of the failed people to parliament again. Let us choose a new group you can work in collaboration and intelligently. Second generation can give that strength. I also strengthened them to them today with the second generation. "
-
-A few civil organizations joined the Second Regional Party and had signed a compromise.
-
-The son of the JVP Rohana Wijeweera, the son of the JVP Rohana Wijeweera, is headed by the Second Regime party.
-
-"If the opposition is sent to the old thieves, the country cannot be developed. Fill in the people who love this country. "
-
-◼️
-
-[Data](articles/819371c1.json)
-
-[Extended Data](ext_articles/819371c1.ext.json)
 
 ---

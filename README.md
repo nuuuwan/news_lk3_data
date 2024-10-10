@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 09:58:20**
+As of **2024-10-10 10:11:46**
 
 ## Newspaper Stats
 
-*Scraped **48,710** Articles*
+*Scraped **48,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,299
 adalk | 4,518
 dailymirrorlk | 4,733
 adaderanalk | 5,747
-tamilmirrorlk | 6,607
+tamilmirrorlk | 6,608
 virakesarilk | 7,785
 adaderanasinhalalk | 8,424
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,710 (100.0%) of 48,710 articles have been extended.
+48,711 (100.0%) of 48,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Ratan Tata has passed away
+
+*2024-10-10 09:40:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரத்தன்-டாடா-காலமானார்/175-345197) · `ta`
+
+Ratan Tata passes away at 86. Businessman's death shocks India. Industry leaders mourn loss. Cause: Adult health issues.
+
+🟩
+
+The demise of famous businessman Ratan Tata has disturbed the nation. Not only the industry but the people of all walks of life are saddened by the news of his demise.
+
+It was reported that 86 -year -old Ratan Tata was admitted to a private hospital in Mumbai.. Two days ago, he gave his health update as a regular medical examination. It was in this context that he died on Wednesday night. There have been reports that he is suffering from an adult health.
+
+◼️
+
+[Data](articles/1fd6fc38.json)
+
+[Extended Data](ext_articles/1fd6fc38.ext.json)
+
+---
 
 ### Postal voting dates announced for 2024 General Election
 
@@ -2345,27 +2365,5 @@ Top foreign buying was seen in John Keells Holdings, Commercial Bank, Sampath Ba
 [Data](articles/ab420510.json)
 
 [Extended Data](ext_articles/ab420510.ext.json)
-
----
-
-### Bharatiya Janata Party for the third time in Haryana
-
-*2024-10-09 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195861) · `ta`
-
-BJP wins 3rd term in Haryana assembly polls, securing 48 seats. Congress gets 37, others 5. BJP maintains majority rule despite Congress hopes.
-
-🟩
-
-The Bharatiya Janata Party (BJP) has won for the third time in the assembly elections in Haryana, one of the North Indian states.
-
-On the fifth of October, the state of Haryana was held for the same phase of the 90 constituencies.. It was reported that the Congress party would take over the poll in a poll released after the election voting was over.. Thus the Congress party was excited. But the election results were different.
-
-According to the official announcement, the Bharatiya Janata Party (BJP) has won 48 seats, the Indian National Congress 37, the National Lok Dal Party in two places and independents in three seats.. With this, the Bharatiya Janata Party has won the third consecutive year with the quarter -majority and seized the regime.
-
-...
-
-[Data](articles/a4b5358f.json)
-
-[Extended Data](ext_articles/a4b5358f.ext.json)
 
 ---

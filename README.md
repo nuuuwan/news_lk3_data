@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 12:57:30**
+As of **2024-10-10 13:08:30**
 
 ## Newspaper Stats
 
-*Scraped **48,743** Articles*
+*Scraped **48,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 2,989
 dailyftlk | 3,299
 adalk | 4,523
 dailymirrorlk | 4,733
-adaderanalk | 5,754
+adaderanalk | 5,755
 tamilmirrorlk | 6,615
-virakesarilk | 7,787
-adaderanasinhalalk | 8,431
+virakesarilk | 7,796
+adaderanasinhalalk | 8,432
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,743 (100.0%) of 48,743 articles have been extended.
+48,754 (100.0%) of 48,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Italian Naval ship ‘Ppa Montecuccoli’ arrives in Colombo
+
+*2024-10-10 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102586/italian-naval-ship-ppa-montecuccoli-arrives-in-colombo) · `en`
+
+Italian Naval ship ‘Ppa Montecuccoli’ has arrived at the port of Colombo on a formal visit this morning (10 October).
+
+The visiting ship was welcomed by the Sri Lanka Navy in compliance with naval traditions, Sri Lanka Navy said in a statement.
+
+‘Ppa Montecuccoli’ is a 143-metre-long Multi Purpose Combat Ship manned by a crew of 152. The ship is commanded by Commander Alessandro Troia. He is expected to call on the Commander Western Naval Area, Rear Admiral Chinthaka Kumarasinghe at the Western Naval Command Headquarters today, the statement added.
+
+During the ship’s stay in Colombo, its crew members will visit some of the tourist attractions of the country. Meanwhile, a briefing on the operational functions of the ship will be conducted aboard ‘Ppa Montecuccoli’ for Sri Lanka Navy personnel.
+
+On her departure on 13 October, ‘‘Ppa Montecuccoli’ is set to engage in a Passage Exercise (PASSEX) with a Sri Lanka Navy ship off the coast of Colombo, according to Sri Lanka Navy.
+
+◼️
+
+[Data](articles/62ca1a29.json)
+
+[Extended Data](ext_articles/62ca1a29.ext.json)
+
+---
+
+### Dilith fight in Gampaha
+
+*2024-10-10 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202026) · `si`
+
+Dilith Jayaweera signs nomination papers for Gampaha district. Prof. Channa Jayasumana and Milan Jayatilake also sign. Security forces transferred to Colombo district.
+
+🟩
+
+The nomination nomination signing of the universal power was held today (10) at the Head Office.
+
+Its leader Dilith Jayaweera signed a nomination papers for the Gampaha district today.
+
+In addition, Professor Channa Jayasumana and Gampaha District Leader Milan Jayatilake signed the nomination papers.
+
+In the meantime, the security force has been handed over to the Colombo district today.
+
+◼️
+
+[Data](articles/ed8cd113.json)
+
+[Extended Data](ext_articles/ed8cd113.ext.json)
+
+---
 
 ### Sri Lanka’s economy stabilized, reforms critical – World Bank
 
@@ -63,6 +109,76 @@ The order was issued in consideration of a request made by the Commission to Inv
 [Data](articles/3128760b.json)
 
 [Extended Data](ext_articles/3128760b.ext.json)
+
+---
+
+### Plan to carry out dengue control field test in Jaffna
+
+*2024-10-10 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195926) · `ta`
+
+Dengue control field test planned for Jaffna district from 13th to 15th. Public areas, schools, and private institutions involved. Government, NGOs, and private offices participating.
+
+🟩
+
+Dengue Control Field Examination is scheduled to be carried out from the 13th to the 15th of this month in the Jaffna district, Jaffna State President Mr.Pradeepan said.
+
+The project will be launched in all government, non -governmental organizations and private offices on the 14th of the 14th in the public residential areas, strengthening the village level organizations with the cooperation of the Grama Niladhari and Divisional Secretaries.
+
+In addition, all schools (morning) and private educational institutions (evening) will be carried out on the 15th of this month, he said.
+
+◼️
+
+[Data](articles/23a8b443.json)
+
+[Extended Data](ext_articles/23a8b443.ext.json)
+
+---
+
+### 21 Tamil Nadu fishermen arrested
+
+*2024-10-10 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195923) · `ta`
+
+Tamil Nadu fishermen arrested for entering Sri Lanka waters. 21 detained on Wednesday while fishing near Nedundevu sea. Navy took them to Kankesanthurai Naval Camp for court proceedings.
+
+🟩
+
+21 Tamil Nadu fishermen have been arrested on charges of crossing the Sri Lankan waters.
+
+21 persons were arrested on Wednesday (09), while they were fishing in four boats in the Nedundevu sea.
+
+The Navy and the 21 fishermen who took the arrested persons and the boats to the Kankesanthurai Naval Camp have taken steps to the Kayts Magistrate's Court through the Aquatic Resources Department after investigations.
+
+◼️
+
+[Data](articles/810aa594.json)
+
+[Extended Data](ext_articles/810aa594.ext.json)
+
+---
+
+### Film shooting;2 crore 30 lakhs to the train department
+
+*2024-10-10 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195919) · `ta`
+
+Sri Lanka Railway Department announces bridge closure for film shoot. Nine arches closed Oct 15-31. Trains rerouted. Tourist arrivals expected to increase.
+
+🟩
+
+2 crore 30 lakhs has been given to the Railway Department for the shooting of the Sri Lanka -Indian joint venture.
+
+The Sri Lanka Railways Department has announced that nine arches from Wednesday (09) from October 15 will be shut down from the Bridge, the hill station services from Colombo and Kandy.
+
+From 7:30 am to 5:30 pm. Similarly, the trains in the opposite direction will depart from Ella or Bandarawa instead of Badulla during this period. Travelers are advised to plan according to this announcement.
+
+The decision has been made for the film cinematographers in Sri Lanka -Indian joint venture at the 9 -Curved Bridge between Ella and Temodara in the hill country.
+
+The railway department said that the move would be carried out with the permission of the Ministry of Transport to increase the arrival of tourists.
+
+◼️
+
+[Data](articles/0a0ec11a.json)
+
+[Extended Data](ext_articles/0a0ec11a.ext.json)
 
 ---
 
@@ -208,6 +324,24 @@ The suspect has been handed over to the Colombo Police Bureau for further legal 
 
 ---
 
+### புதிய பதில் பிரதம நீதியரசர் நியமனம்
+
+*2024-10-10 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195922) · `ta`
+
+Sri Lanka appoints High Court Judge Murdi Nirupa Bidusini Fernando as Chief Justice on 10th.
+
+🟩
+
+High Court Judge Murdi Nirupa Bidusini Fernando has been appointed as the Chief Justice of Sri Lanka on Thursday (10).
+
+◼️
+
+[Data](articles/28faaf75.json)
+
+[Extended Data](ext_articles/28faaf75.ext.json)
+
+---
+
 ### Passenger bus gutted in fire at Madampe
 
 *2024-10-10 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102582/passenger-bus-gutted-in-fire-at-madampe) · `en`
@@ -329,6 +463,74 @@ Recently, the Court of Appeal has issued an interim order to suspend the impleme
 [Data](articles/45d0416e.json)
 
 [Extended Data](ext_articles/45d0416e.ext.json)
+
+---
+
+### There is no party in Sri Lanka to challenge national people's power - Lalgantha
+
+*2024-10-10 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195917) · `ta`
+
+Sri Lanka: No party challenges national power; SLFP weak, UNP limited. National People's Power successful in Kandy district. Nawalapitiya constituency targeted. Two ministers maintain essential services. Cabinet appointments post-election.
+
+🟩
+
+Lalgantha, a member of the National People's Power Executive Committee, said there was no party to challenge the national people's power and that the majority of the people of the country had joined the national people's power.
+
+Lalgantha was speaking to the media after a general election campaign meeting in Nawalapitiya on Wednesday (09).
+
+The Sri Lanka Freedom Party (SLFP) is now eight, the UNP has only been limited to the name of the Sri Lanka Freedom Alliance.
+
+He said that the national people's power in the Kandy district has been a huge success and that all the people of all parts of the country are moving around for the general election.
+
+As the Nawalapitiya constituency became the fortress of Mahindananda Aluthgama, the people of Nawalapitiya have taken steps to break the fort and win the Navalapitiya constituency in the presidential election.
+
+...
+
+[Data](articles/b862e99a.json)
+
+[Extended Data](ext_articles/b862e99a.ext.json)
+
+---
+
+### Suddenly burning bus in the month of month!
+
+*2024-10-10 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/195915) · `ta`
+
+Bus catches fire en route to Embilipitiya; over 50 passengers on board; incident occurs on Thursday morning; police investigation ongoing.
+
+🟩
+
+The bus, which was traveling to Embilipitiya with more than 50 passengers from Colombo, was set on fire on Thursday morning.
+
+Police said the area was controlled by the people with the help of the people. However, the bus was completely burnt, police said.
+
+◼️
+
+[Data](articles/b21f7777.json)
+
+[Extended Data](ext_articles/b21f7777.ext.json)
+
+---
+
+### My party will not contest the election to ensure that Anura gets a majority - Wimal Weerawansa Action announcement
+
+*2024-10-10 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195918) · `ta`
+
+Wimal Weerawansa's party won't contest election. Supports Anura Kumara for majority. Anti-imperialist stance. Respects JVP heritage. President aims for single-party rule.
+
+🟩
+
+Former parliamentarian Wimalweeravansa's party has announced that it will not contest the upcoming general election.
+
+In a statement, Wimalweeravansa said in a statement that we are a political movement with an anti -imperialist heritage and a party that respects the historical heritage of the JVP.
+
+He said that the president had decided not to contest the election to get a majority in parliament, and said that his aim was to make the Anura Kumaratisanayaka ruling without the support of the coalition parties.
+
+◼️
+
+[Data](articles/27d39142.json)
+
+[Extended Data](ext_articles/27d39142.ext.json)
 
 ---
 
@@ -502,6 +704,30 @@ As a political movement that has the right to power of the JVP, as a political m
 
 ---
 
+### Prime Minister Harini signed the nomination
+
+*2024-10-10 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/195913) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Prime Minister Harini Amarasuriya signed to contest parliamentary elections in Colombo district. She vowed to lead her team with dedication, talent, and vision to win the election nationwide from Colombo.
+
+🟩
+
+Prime Minister Harini Amarasuriya signed on Wednesday (09) to contest the upcoming parliamentary elections in the Colombo district.
+
+The Prime Minister said, "We are determined to win the elections in the entire country in the Colombo district, leading the team with dedication, talent and visionary."
+
+◼️
+
+[Data](articles/57a66f5d.json)
+
+[Extended Data](ext_articles/57a66f5d.ext.json)
+
+---
+
 ### 2024 General Election: Accepting postal voting applications ends today
 
 *2024-10-10 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102579/2024-general-election-accepting-postal-voting-applications-ends-today) · `en`
@@ -521,6 +747,32 @@ Accordingly, the Election Commission stated that a total of 293 independent grou
 [Data](articles/4123a755.json)
 
 [Extended Data](ext_articles/4123a755.ext.json)
+
+---
+
+### It is important to maintain good mental health from birth to death -Prime Minister's Mental Day News
+
+*2024-10-10 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195910) · `ta`
+
+Maintaining good mental health throughout life is crucial. Prime Minister Harini Amara Surya emphasizes this on World Mental Health Day. A healthy work environment, effective stress management, and social support are key. These factors help reduce employee stress, improve productivity, and foster a mentally free society from childhood to adulthood.
+
+🟩
+
+Prime Minister Harini Amara Surya said in a mental health day that it is important to maintain good mental health from birth to death.
+
+2024 World Mental Health Day illustrates the importance of the physical environment of the workplace, the implementation of stress management, the implementation of the social.
+
+Even healthy staff can suffer from physical and stress in poor work.
+
+If employees realize and focus on mental health, it will reduce the stress of the staff, decrease in work and increase their work.
+
+My intention is that you can create a good society by enjoying mental freedom from small children to adults.
+
+◼️
+
+[Data](articles/07a15df3.json)
+
+[Extended Data](ext_articles/07a15df3.ext.json)
 
 ---
 
@@ -2107,275 +2359,5 @@ A/HRC/57/L.1 resolution to promote reconciliation, accountability and human righ
 [Data](articles/a10f932a.json)
 
 [Extended Data](ext_articles/a10f932a.ext.json)
-
----
-
-### Lotus Tower is more information about the student
-
-*2024-10-09 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202002) · `si`
-
-Student commits suicide at Lotus Tower after ransom demand. Father reveals daughter struggled with mental health issues and medication. Police investigation ongoing. Ministry appoints committee to examine suicide.
-
-🟩
-
-Her father has revealed that she had committed the ransom from the Nelum Tale that he was educated in the international school.
-
-However, as soon as she committed suicide, she has not yet been revealed.
-
-A 17-year-old schoolgirl has committed suicide by jumping from the Lotus Talany on Monday.
-
-Her mortality was held at the Colombo Municipal Mortality Inspector at the Colombo Municipal Emergency Inspector, where her father was awarded before Mohamed Ashraf Rumi.
-
-The father of the student has said that he has two daughters and the deceased daughter's elder brother will be second year at Belarushe medical college.
-
-The father has said that the daughter of the deceased daughter in Colombo today to sit for the London Ordinary Level examination.
-
-On the morning of the incident, he had left the daughter's school gate and revealed his experience,
-
-...
-
-[Data](articles/4d81ad11.json)
-
-[Extended Data](ext_articles/4d81ad11.ext.json)
-
----
-
-### Joe Root set the record for the highest Test runs on behalf of England
-
-*2024-10-09 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195896) · `ta`
-
-Joe Root breaks Alastair Cook's Test run record, scoring 12578 runs in 147 matches. He achieves this milestone in England vs Pakistan match, where he also scores a century. England reaches 492/3 in their first innings, while Pakistan loses all wickets for 556 runs.
-
-🟩
-
-Joe Root set the record for the highest number of runs in Test cricket history on Wednesday (09).
-
-Former England captain Alistaya Cook's leading record of 12472 runs in the first Test cricket match in Multan against Pakistan.
-
-Joe Root scored a century in the upcoming up -to -hand match.
-
-Joe Root, who played in his 147th Test match, completed the 35th century and scored 12578 runs.
-
-Harry Brook, who was a supportive bow, scored his 6th century.
-
-At the end of the 3rd day of the match, England scored 492 runs for the loss of 3 wickets in its first innings.
-
-Joe Root faced 277 balls with 176 runs, including 12 pounds, and Harry Brooke faced 173 balls with 12 pounds and 141 runs.
-
-Ben Docket scored 84 runs and Zuck Groovli 78 runs.
-
-Pakistan lost all wickets in its first innings and scored 556 runs.
-
-Team captain Shaun Masood scored 151 runs for Pakistan, Salman Aka scored 104 runs, Abdullah Shakib 102 and Saud Zakel 82 runs.
-
-...
-
-[Data](articles/f4e007a7.json)
-
-[Extended Data](ext_articles/f4e007a7.ext.json)
-
----
-
-### Sri Lanka adopts a proposal in Geneva
-
-*2024-10-09 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202000) · `si`
-
-Sri Lanka adopts Geneva proposal promoting reconciliation, accountability, and human rights at UN Human Rights Council session.
-
-🟩
-
-A draft proposal to promote reconciliation, accountability and human rights in Sri Lanka have been adopted at the 57th Session of the UN Human Rights Council of Geneva today.
-
-◼️
-
-[Data](articles/9afc4309.json)
-
-[Extended Data](ext_articles/9afc4309.ext.json)
-
----
-
-### Fulfillment in Sri Lanka's Reconciliation, Liability and Human Rights
-
-*2024-10-09 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195895) · `ta`
-
-UNHRC passes resolution on Sri Lanka's reconciliation, accountability, and human rights without referendum. Draft approved in 57th session, focusing on improving post-conflict healing and justice.
-
-🟩
-
-Draft resolution to improve reconciliation, accountability and human rights in Sri Lanka was passed without a referendum
-
-The A/HRC/57/L.1 resolution has been adopted without a referendum for reconciliation, accountability and human rights in Sri Lanka.
-
-It is noteworthy that the draft draft was passed in the 57th session of the United Nations Human Rights Council.
-
-◼️
-
-[Data](articles/2c1d3b2d.json)
-
-[Extended Data](ext_articles/2c1d3b2d.ext.json)
-
----
-
-### Actor Kamal Adarachchi also resolves to contest
-
-*2024-10-09 19:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-கமல்-அதரராச்சியும்-போட்டியிட-தீர்மானம்/175-345175) · `ta`
-
-Kamal Atharachchi contests general election representing Devan Parapura party in Trincomalee district. Previously supported Anura Kumara Dissanayake in presidential election.
-
-🟩
-
-Sri Lankan senior actor Kamal Atharachchi has decided to contest the upcoming general election.
-
-He will represent the 'Devan Parapura' party headed by Uvindu Wijeweera, son of former Janatha Vimukthi Peramuna (JVP) leader Rohana Wijeweera.
-
-Adarachchi has confirmed that he will contest in Trincomalee district. It is noteworthy that he had previously supported President Anura Kumara Dissanayake during the last presidential election.
-
-◼️
-
-[Data](articles/c8e658a8.json)
-
-[Extended Data](ext_articles/c8e658a8.ext.json)
-
----
-
-### Three -wheeler charges
-
-*2024-10-09 19:44:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கரவண்டிக்-கட்டணங்கள்-திருத்தம்/175-345174) · `ta`
-
-Western Province Road Passenger Transport Authority announces revised three-wheeler fares effective Oct 7. First km: Rs. 100, second km: Rs. 85. New rates must be displayed prominently. Association president threatens legal action against non-compliance.
-
-🟩
-
-The Western Province Road Passenger Transport Authority has announced that the three -wheeler fares will be revised with effect from October 7.
-
-The decision has been taken following the decision to implement the tariff amendments after a meeting with the three -wheeler fare review committee on October 3.
-
-According to the new payment amendment, the first kilometer fee of Rs.. 100, and a second kilometer fee of Rs.. Has been reduced to 85.
-
-The new fees should be used for the meter taxi system, and the revised fees should be clearly shown to be visible to the passengers on the front of the three -wheeler.
-
-The President of the All Ceylon Three Wheeler Drivers Association, Lalith Dharmasekara, has urged legal action to take legal action against those who fail to follow the instructions.
-
-◼️
-
-[Data](articles/55c79428.json)
-
-[Extended Data](ext_articles/55c79428.ext.json)
-
----
-
-### India bats for Women's R20 World Cup with Sri Lanka
-
-*2024-10-09 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/195894) · `ta`
-
-India chose to bat first against Sri Lanka in the ICC Women's T20 World Cup A Group match at Dubai International Cricket Stadium. Both teams have strong lineups, with experienced players like Smriti Mandana for India and Samari Attapattu for Sri Lanka. The match promises to be exciting as both teams aim for victory.
-
-🟩
-
-India decided to bat first at the ICC Women's T20 World Cup A Group, which is currently being held at the Dubai International Cricket Stadium.
-
-Sri Lanka: Samari Attapattu (Head), Vishmi Gunaratne, Harshita Samarawickrama, Kavisha Tilhari, Nilakshika Silva, Anushka Sanjeevani, Sukandika Kumari, Inoshi Priyadhani, Udayshika Prabodhani, Ama Kanchana, Inka Ranavira.
-
-India: Hamanpreet Gore (Head), Smriti Mandana, Shabali Verma, Jemima Rodrigas, Richa Ghosh, Deepti Sharma, Sajana Sajivan, Arundhati Reddy, Sriyanka Battil, Asha Sobhana, Renuka Singh Tagore.
-
-◼️
-
-[Data](articles/25426b20.json)
-
-[Extended Data](ext_articles/25426b20.ext.json)
-
----
-
-### The purpose of Sri Lanka is the local mechanism
-
-*2024-10-09 19:26:43* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවේ-අරමුණ-දේශීය-යාන්ත්‍රණයයි/11-412412) · `si`
-
-Sri Lanka opposes foreign UN Human Rights Commission mechanisms, supports local solutions. New president rejects final resolution in Geneva.
-
-🟩
-
-Sri Lanka has once again said that the UN Human Rights Commission would not agree to a foreign mechanism for Sri Lanka on the resolution of the UN Human Rights Commission, according to the proposal to be held in Sri Lanka.
-
-The new President of Sri Lanka is also a local mechanism and in the Human Rights Council in Geneva.
-
-He also rejects the final resolution on Sri Lanka.
-
-◼️
-
-[Data](articles/a63107bf.json)
-
-[Extended Data](ext_articles/a63107bf.ext.json)
-
----
-
-### 'Big Boss' Darshan starrer 'pilgrimage'
-
-*2024-10-09 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195873) · `ta`
-
-"Pilgrimage" stars Darshan, Malavika, Kali Venkat, Rahul, Banu. Directed by Prem Nasir, music by Abhishek, cinematography by Santhanam Shekhar. Produced by Rajammal Media Pictures Productions and Dhanalakshmi Gopalan. First shoot completed, next phase soon.
-
-🟩
-
-The film crew has said that the shooting of the new movie, 'Pilgrimage', has been named 'Pilgrimage', which is the hero of the famous actor Darshan - Big Poss Darshan, who is the hero of the story of 'Google Kuttappa' and 'Nadam'.
-
-Darshan, Malavika, Kali Venkat, 'Frank Star' Rahul, Banu and many others are starring in the upcoming film 'Pilgrimage' directed by debutant director Prem Nasir.
-
-Abhishek is composing the film, which is being recorded by Santhanam Shekhar. The film was made by Rajammal Media Pictures Productions. G. Produced by Dhanalakshmi Gopalan.
-
-Commenting on the film, the director said, “This is a film, which is centered on the travels called Travel We Lock.. Two different people follow different ideologies.
-
-They both join the mysterious event. What is their journey after that?The film's screenplay. '' He said.
-
-The film crew has said that the first shooting of the film has been completed and the next phase of filming will be held soon.
-
-◼️
-
-[Data](articles/3711ad3e.json)
-
-[Extended Data](ext_articles/3711ad3e.ext.json)
-
----
-
-### Introduction to Sivakarthikeyan's 'Amaran' movie!?
-
-*2024-10-09 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/195876) · `ta`
-
-Sivakarthikeyan's 'Amaran' movie: Diwali release, starring Sai Pallavi, directed by Rajkumar Periyasamy. Based on Major Mukund Varadarajan's biography, patriotic theme. Budget ₹200 crore. Kamal Haasan produces. Two-part video introduction released. Moderate fan interest.
-
-🟩
-
-The film 'Amaran' will be introduced to the fans of the film 'Amaran', which will be released on Diwali on the upcoming Diwali day, starring Siva Karthikeyan, the leading star actor of Tamil cinema.Did this video attract the attention of fans?Or not?We will continue to see.
-
-Video to introduce 'Amaran' has been released as two chapters. The video is about the role of 'Lokayanagan' Kamal Haasan, the hero of the film Sivakarthikeyan, heroine Sai Pallavi and director Rajkumar Periyasamy.
-
-The film crew has said that the autobiography, which is preparing for the heroic death of late Indian soldier Major Mukund Varadarajan, has been made different and business, unlike the usual autobiography films.
-
-In addition, the paradigm of the soldiers for the Republic Day and the Independence Day celebration on television has been seen as a magnificent and a new experience for fans.They said they would attract fans because they were set up.
-
-...
-
-[Data](articles/6b95f598.json)
-
-[Extended Data](ext_articles/6b95f598.ext.json)
-
----
-
-### UNHRC adopts draft resolution on Sri Lanka without a vote
-
-*2024-10-09 19:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102570/unhrc-adopts-draft-resolution-on-sri-lanka-without-a-vote) · `en`
-
-The draft resolution A/HRC/57/L.1 on promoting reconciliation, accountability and human rights in Sri Lanka has been adopted without a vote during the ongoing 57th Regular Session of the United Nations Human Rights Council (UNHRC) in Geneva.
-
-The draft resolution is sponsored by countries including the United Kingdom of Great Britain and Northern Ireland, Canada, Malawi, Montenegro, North Macedonia and the United States of America.
-
-Guided by the purposes and principles of the Charter of the UN, the Universal Declaration of Human Rights and relevant international human rights treaties, the Human Rights Council has decided to:
-
-Recalling previous Human Rights Council resolutions on promoting reconciliation, accountability and human rights in Sri Lanka, the most recent of which being resolution 51/1 of 6 October 2022,
-
-...
-
-[Data](articles/f830bc83.json)
-
-[Extended Data](ext_articles/f830bc83.ext.json)
 
 ---

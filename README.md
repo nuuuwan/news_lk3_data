@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 10:38:59**
+As of **2024-10-10 11:11:06**
 
 ## Newspaper Stats
 
-*Scraped **48,715** Articles*
+*Scraped **48,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ bbccomsinhala | 484
 islandlk | 2,884
 economynextcom | 2,985
 dailyftlk | 3,299
-adalk | 4,518
+adalk | 4,519
 dailymirrorlk | 4,733
 adaderanalk | 5,747
 tamilmirrorlk | 6,608
 virakesarilk | 7,787
-adaderanasinhalalk | 8,426
+adaderanasinhalalk | 8,428
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,715 (100.0%) of 48,715 articles have been extended.
+48,718 (100.0%) of 48,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Sri Lanka women's cricket out of World Cup
+
+*2024-10-10 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202022) · `si`
+
+Sri Lanka women's cricket team eliminated from T20 World Cup after losing to India by 82 runs. Team scored 90/9 in 20 overs, while India reached 172/3. This defeat follows losses in first three matches of the tournament.
+
+🟩
+
+Sri Lanka women's group has to remove the Twenty20 Women Cup of Twenty20 Women's World Cricket.
+
+The match against the Indian women's group yesterday was defeated by 82 runs.
+
+The Indian women's group scored 172 runs for the loss of 03 wickets in the final 20 overs.
+
+Hermanpreet Correth Cor scored 52 runs and Smratha Mandana.
+
+Sri Lanka women's group to enter the field for their reputation were 90 runs for the loss of 90 runs.
+
+Accordingly, the first three matches of the tournament have been defeated and one of the first three matches of the tournament.
+
+◼️
+
+[Data](articles/fc5489a9.json)
+
+[Extended Data](ext_articles/fc5489a9.ext.json)
+
+---
+
+### Wimal's National Freedom Front decides to compete in the election
+
+*2024-10-10 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202021) · `si`
+
+Wimal Weerawansa's National Freedom Front enters 2024 election, opposing UNP's participation. Party aims to represent public interests and guide government against external threats. Decision made after internal discussions and consensus among members.
+
+🟩
+
+Former UNP MP Wimal Weerawansa says that the National Independence Party will not contest for the 2024 parliamentary election.
+
+He said a special announcement, Anura Dissanayake has no doubts that there is no doubt that the hostile forces serving in the hostile imperialist agenda to make the country second.
+
+However, Wimal Weerawansa said further that his party representing the needs of the needs of the needs of the needy and said that it is also responsible.
+
+As a political movement that has the right to power of the JVP, as a political movement that has the right to power of the JVP, is bound to preserve the president to protect the president and created the mandate.. In that case, the establishment of a general majority of the majority of the majority is a precondition to face the above crisis. It is limited to bargaining power with the government of separatist and religious extremist gangs.
+
+...
+
+[Data](articles/53d46ced.json)
+
+[Extended Data](ext_articles/53d46ced.ext.json)
+
+---
 
 ### Two suspects arrested for two murders
 
@@ -1940,6 +1992,28 @@ Therefore, the Sri Lanka Bureau of Foreign Employment has requested the public t
 
 ---
 
+### Sujeewa protests in Kandy and name to National list
+
+*2024-10-09 18:47:38* · [`adalk`](https://www.ada.lk/breaking_news/සුජීවට-මහනුවරින්-විරෝධතා--ජාතික-ලැයිස්තුවට-නම-දායි/11-412406) · `si`
+
+Sujeewa protests Kandy district election; party resolves crisis; names Senasinghe as leader; Tissa Attanayake leads campaign; controversy over Buddhist monk involvement.
+
+🟩
+
+The party leadership has led the party to resolve the crisis of the Kandy district to contest the general election of the Kandy district with regard to the Kandy district.
+
+Sujeewa Senasinghe has named the Kandy District Leader of the Mahagi organization, but it will lead the election campaign under the leadership of Tissa Attanayake.
+
+It was also planned to stick to a group of Buddhist monks claiming that the Kandy District Organizer of the United States was a protest saying that Kandy District electoral organizer was protested by Kandy.
+
+◼️
+
+[Data](articles/78893c6c.json)
+
+[Extended Data](ext_articles/78893c6c.ext.json)
+
+---
+
 ### Sabaragamuwa Revenue Department Rs. 1100 woo
 
 *2024-10-09 18:43:07* · [`adalk`](https://www.ada.lk/breaking_news/සබරගමුවේ-ආදායම්-දෙපාර්තමේන්තුව-රු-මි--1100ක්-හොයයි/11-412405) · `si`
@@ -2305,79 +2379,5 @@ The son of the JVP Rohana Wijeweera, the son of the JVP Rohana Wijeweera, is hea
 [Data](articles/819371c1.json)
 
 [Extended Data](ext_articles/819371c1.ext.json)
-
----
-
-### The reasons why Super Star's 'Vettayan' is going to the film House ...!?
-
-*2024-10-09 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195868) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Super Star Rajinikanth's 'Vettayan' releases tomorrow in Tamil, Telugu, Malayalam, Kannada, and Hindi. Fans and film enthusiasts eagerly await due to Rajinikanth's age-defying performance, unique acting style, and director Cm. Gnanvel's focus on community storytelling. The film features talented actors and actresses, including Rana Daggubati and Manju Warrier. With its special sound design and support from alternative filmmakers, 'Vettayan' promises to be a significant event in Tamil cinema.
-
-🟩
-
-Super Star Rajinikanth's upcoming film 'Vettayan' in Tamil, Telugu, Malayalam, Kannada and Hindi in the film mansions from tomorrow.. Not only the fans of Super Star, but also the film enthusiasts are interested in watching the film from the first day.. Below is the reason for this.
-
-Super Star Rajinikanth - Even though he is over 70 years old, even today, the hero of the story.. The first reason is that he has been showing the speed with his exclusive body language - the pronunciation and the pronunciation.
-
-Whatever the character he plays, he enjoys his unique style and enjoys the character. When he plays the role of a police officer, he is designed to attract the fans to the role of the character and the speed with the character.. This is one of the reasons why it can also be found in 'Vettayan'.
-
-...
-
-[Data](articles/b95819bf.json)
-
-[Extended Data](ext_articles/b95819bf.ext.json)
-
----
-
-### Will 'Alan' celebrate the writing and the writer win ...!?
-
-*2024-10-09 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195870) · `ta`
-
-"Alan" celebrates writing and writers. Successful Tamil film with comedic writer character. Mixed reviews before release. Preview underwhelming.
-
-🟩
-
-One of the many characters who attracted fans in the Tamil film industry. When the hero of the story as a writer, the peak scene is always set in a way that the audience is not easily guessed. Many films have been released and have been successful.
-
-There is also a failure. At the same time, the writer's character has been created for comedy and has over 90 percent of it.
-
-After a short break, the businessman from Singapore, R., is confirmed by the public that he has changed his life writings and books.. Siva - has made a movie called 'Alan' to celebrate writing and writers.
-
-Actor who plays the real hero and earns the reputation of fans has been released as the hero of the film.. It has been officially announced that the film will be released at the film House around the world on the 18th.
-
-Was the film ahead of the release of the film, and has been expected?Do you want to go to the film House?The results are negative.
-
-...
-
-[Data](articles/ec7e36bd.json)
-
-[Extended Data](ext_articles/ec7e36bd.ext.json)
-
----
-
-### Sri Lanka 20 Sri Lanka Twenty20 squad against West Indies
-
-*2024-10-09 17:19:01* · [`adalk`](https://www.ada.lk/sports/කොදෙව්වන්ට-එරෙහි-ශ්‍රී-ලංකා-විස්සයි-20-සංචිතය-නම්-කෙරේ/9-412399) · `si`
-
-Sri Lanka names 17-player T20 squad vs West Indies. Three-match series at Rangiri Dambulla International Cricket Stadium from March 13-17.
-
-🟩
-
-The Sri Lanka Twenty20 squad against the tourist West Indies has been named.
-
-Seventeen players have been included in the squad of Charith.
-
-The tournament includes three matches and will be held at the Rangiri Dambulla International Cricket Stadium, which is 13,15 and 17.
-
-◼️
-
-[Data](articles/fc805e25.json)
-
-[Extended Data](ext_articles/fc805e25.ext.json)
 
 ---

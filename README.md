@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 21:10:24**
+As of **2024-10-10 21:39:12**
 
 ## Newspaper Stats
 
-*Scraped **48,839** Articles*
+*Scraped **48,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 486
 islandlk | 2,884
 economynextcom | 2,997
 dailyftlk | 3,299
-adalk | 4,538
+adalk | 4,539
 dailymirrorlk | 4,733
-adaderanalk | 5,768
+adaderanalk | 5,769
 tamilmirrorlk | 6,629
 virakesarilk | 7,813
 adaderanasinhalalk | 8,444
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,839 (100.0%) of 48,839 articles have been extended.
+48,841 (100.0%) of 48,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Weather alert issued for heavy rainfall above 150mm
+
+*2024-10-10 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102601/weather-alert-issued-for-heavy-rainfall-above-150mm) · `en`
+
+The Department of Meteorology has issued a ‘Color: Red’ warning for heavy rainfall in the Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts, in the next 24 hours.
+
+Showery conditions are expected to enhance to some extent in the south-western part of the Island in the next few days starting from today (10), due to the development of atmospheric disturbance in the vicinity of Sri Lanka.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces, it said.
+
+Very heavy showers above 150mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers will occur elsewhere at several places in the island during the evening or night.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/0eede212.json)
+
+[Extended Data](ext_articles/0eede212.ext.json)
+
+---
 
 ### Another town in Haiti comes under attack a week after gangs killed at least 115 people
 
@@ -287,6 +311,26 @@ Ambassador Alkothani expressed his praise on the long-term support and continued
 [Data](articles/21a354f1.json)
 
 [Extended Data](ext_articles/21a354f1.ext.json)
+
+---
+
+### Navees don't have to go back to politics
+
+*2024-10-10 18:41:45* · [`adalk`](https://www.ada.lk/breaking_news/නවීන්-මැතිවරණයට-නෑ--දේශපාලනයෙනුත්-සමුගනියි/11-412432) · `si`
+
+Sri Lanka: Former Governor Sabaragamuwa Naveen Dissanayaka decides not to contest 2024 parliamentary election. He cites unfair treatment of UNP members and involvement in cricket and cultural trusts.
+
+🟩
+
+2024 පාර්ලිමේන්තු මැතිවරණය සඳහා තරග නොකිරීමට හා දේශපාලන කටයුතුවලින් සමු ගැනීමට තීරණය කළ බව සබරගමු පළාතේ හිටපු ආණ්ඩුකාර, එක්සත් ජාතික පක්ෂයේ කෑගලු දිස්ත්‍රික් නායක නවීන් දිසානායක මහතා සඳහන් කරයි. In a statement, he says he is unfair to UNP hostages by contesting gas cylindara marks.
+
+He is continually serving as the Chairman of the Sri Lankan Cricket Foundation and the Chairman of the Sri Lanka Cultural Trust in Gamini Dissanayake and Mahaweli Trust, which is continuously involved in the right to corruption or corrupt persons.He also states that the country is a lawyer and a people's servant.
+
+◼️
+
+[Data](articles/dac053d2.json)
+
+[Extended Data](ext_articles/dac053d2.ext.json)
 
 ---
 
@@ -2341,51 +2385,5 @@ Recently, the Court of Appeal has issued an interim order to suspend the impleme
 [Data](articles/45d0416e.json)
 
 [Extended Data](ext_articles/45d0416e.ext.json)
-
----
-
-### There is no party in Sri Lanka to challenge national people's power - Lalgantha
-
-*2024-10-10 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195917) · `ta`
-
-Sri Lanka: No party challenges national power; SLFP weak, UNP limited. National People's Power successful in Kandy district. Nawalapitiya constituency targeted. Two ministers maintain essential services. Cabinet appointments post-election.
-
-🟩
-
-Lalgantha, a member of the National People's Power Executive Committee, said there was no party to challenge the national people's power and that the majority of the people of the country had joined the national people's power.
-
-Lalgantha was speaking to the media after a general election campaign meeting in Nawalapitiya on Wednesday (09).
-
-The Sri Lanka Freedom Party (SLFP) is now eight, the UNP has only been limited to the name of the Sri Lanka Freedom Alliance.
-
-He said that the national people's power in the Kandy district has been a huge success and that all the people of all parts of the country are moving around for the general election.
-
-As the Nawalapitiya constituency became the fortress of Mahindananda Aluthgama, the people of Nawalapitiya have taken steps to break the fort and win the Navalapitiya constituency in the presidential election.
-
-...
-
-[Data](articles/b862e99a.json)
-
-[Extended Data](ext_articles/b862e99a.ext.json)
-
----
-
-### Suddenly burning bus in the month of month!
-
-*2024-10-10 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/195915) · `ta`
-
-Bus catches fire en route to Embilipitiya; over 50 passengers on board; incident occurs on Thursday morning; police investigation ongoing.
-
-🟩
-
-The bus, which was traveling to Embilipitiya with more than 50 passengers from Colombo, was set on fire on Thursday morning.
-
-Police said the area was controlled by the people with the help of the people. However, the bus was completely burnt, police said.
-
-◼️
-
-[Data](articles/b21f7777.json)
-
-[Extended Data](ext_articles/b21f7777.ext.json)
 
 ---

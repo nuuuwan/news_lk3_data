@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 22:24:46**
+As of **2024-10-10 22:38:58**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 8,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,846 (100.0%) of 48,847 articles have been extended.
+48,847 (100.0%) of 48,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
 
-### ශ්‍රීලංකන් ගුවන් යානයක කාර්මික දෝෂයක්
+### Technical error on a SriLankan Airlines
 
 *2024-10-10 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202042) · `si`
 
-ශ්‍රී ලංකා ගුවන් සේවයට අයත් UL 265 දරන ගුවන්යානය කොළඹ සිට රියාද් බලා පියාසර කරමින් තිබියදී ඇතිවූ කාර්මික දෝෂයක් හේතුවෙන් නැවත කටුනායක ගුවන්තොටුපොළට පැමිණි බව ශ්‍රීලංකන් ගුවන් සේවය නිවේදනය කරයි.
+SriLankan Airlines UL 265 technical issue resolved. Plane safely landed Katunayake airport. Passengers accommodated in hotels. Next flight scheduled.
 
-එම ගුවන් යානය අද (10) රාත්‍රී 7ට පමණ ආරක්ෂාකාරීව ගොඩබැස්වූ බව එම නිවේදනයේ දැක්වෙයි.
+🟩
 
-ශ්‍රීලංකන් ගුවන් සේවය පවසන්නේ සියලුම මගීන්ට හෝටල් නවාතැන් සපයා ඇති අතර ඊළඟට ඇති ගුවන් ගමන සඳහා නැවත ආසන වෙන්කරවා ඇති බවය.
+Sri Lankan Airlines's UL 265 airline arrived at the Katunayake airport again
+
+The aircraft has landed safe about 7 pm today.
+
+SriLankan Airlines says that all passengers have provided hotel accommodation and the next flight has been reserved for the next flight.
 
 ◼️
 
 [Data](articles/680c52a9.json)
+
+[Extended Data](ext_articles/680c52a9.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 21:58:36**
+As of **2024-10-10 22:12:44**
 
 ## Newspaper Stats
 
-*Scraped **48,845** Articles*
+*Scraped **48,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 400
 colombotelegraphcom | 485
 bbccomsinhala | 486
 islandlk | 2,884
-economynextcom | 2,997
+economynextcom | 2,998
 dailyftlk | 3,299
 adalk | 4,539
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,845 (100.0%) of 48,845 articles have been extended.
+48,846 (100.0%) of 48,846 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -387,6 +387,24 @@ Equipped with cutting-edge surveillance technology, the King Air will strengthen
 [Data](articles/ef9438c2.json)
 
 [Extended Data](ext_articles/ef9438c2.ext.json)
+
+---
+
+### Right groups urge global scrutiny on Sri Lanka’s HR violations
+
+*2024-10-10 18:49:00* · [`economynextcom`](https://economynext.com/right-groups-urge-global-scrutiny-on-sri-lankas-hr-violations-183147/) · `en`
+
+ECONOMYNEXT – International right groups have urged continuous global scrutiny over Sri Lanka’s human rights violations after a day after resolution was passed to extend the United Nations to collect evidence of past and current abuses violations and crimes under international law committed in Sri Lanka for use in future prosecutions.
+
+The United Nations Human Rights Council (UNHRC) on Wednesday (09) adopted the resolution to extend the term of the UN Office of the High Commissioner for Human Rights (OHCHR) to collect evidence for past human rights abuses by another year.
+
+The resolution was presented by a core group consisting of Canada, Malawi, Montenegro, North Macedonia, the United Kingdom, and the United States and is the first on human rights under the new president Anura Kumara Dissanayake who was elected as the president of the island nation last month.
+
+...
+
+[Data](articles/ad6232e6.json)
+
+[Extended Data](ext_articles/ad6232e6.ext.json)
 
 ---
 
@@ -2357,27 +2375,5 @@ The judiciary ordered the defendants who were banned to the defendants to be han
 [Data](articles/310a0508.json)
 
 [Extended Data](ext_articles/310a0508.ext.json)
-
----
-
-### Sri Lanka president meets chief revenue collectors
-
-*2024-10-10 11:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-chief-revenue-collectors-183062/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has met with officials of two major revenue collectors, the Customs and Inland Revenue departments, to discuss enhancing tax collection.
-
-Dissanayake met senior officials from both the Sri Lanka Customs Department and the Inland Revenue Department at the Presidential Secretariat on Wednesday (9) his media division said.
-
-“The discussions centered on strategies to enhance revenue generation and improve operational efficiency within both departments, in line with the government’s broader economic mandate,” the PMD said.
-
-The officials explained the challenges they face in managing revenue and tackling tax evasion, and “stressed the importance of strengthening coordination between the Inland Revenue Department (IRD) and Customs to effectively combat these issues.”
-
-Better collaboration would ensure more robust enforcement of tax laws and prevent tax leakage, further boosting the country’s revenue collection, they said.
-
-...
-
-[Data](articles/d9acc722.json)
-
-[Extended Data](ext_articles/d9acc722.ext.json)
 
 ---

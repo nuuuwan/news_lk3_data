@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 09:23:46**
+As of **2024-10-10 09:39:30**
 
 ## Newspaper Stats
 
-*Scraped **48,705** Articles*
+*Scraped **48,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,745
 tamilmirrorlk | 6,606
 virakesarilk | 7,785
-adaderanasinhalalk | 8,422
+adaderanasinhalalk | 8,423
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,705 (100.0%) of 48,705 articles have been extended.
+48,705 (100.0%) of 48,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### කෝටි 6කට ආසන්න නීතිවිරෝධී මත්කරල් තොගයක් අල්ලයි
+
+*2024-10-10 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202017) · `si`
+
+පාසල් ලමුන් සහ තරුණ ප්‍රජාව ඉලක්ක කර අලෙවි කිරීමට සූදානම් කළ නීතිවිරෝධි මත්කරල් තොගයක් සමග සැකකරුවෙකු පොලිස් විශේෂ කාර්ය බලකාය විසින් බොරැල්ල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට පත් අවස්ථාවේදී ඔහු සතුව මත් කරල් 599,000ක් ද මත්කරල් ප්‍රවාහනයට යොදාගත් ලොරි රථයක ද පොලිස් විශේෂ කාර්ය බලකාය විසින් සිය භාරයට ගෙන තිබේ.
+
+මත් කරල් තොගයේ වටිනාකම රුපියල් කෝටි 6කට ආසන්න බවද පොලීසිය පැවසීය.
+
+අත්අඩංගුවට ගත් සැකකරු සිදුකළ ප්‍රශ්න කිරීම් හමුවේ පවසා ඇත්තේ මන්නාරම ප්‍රදේශයේ පදිංචි සුජි නැමැති පුද්ගලයෙකු විසින් බෝට්ටුවකින් පැමිණ සිලාවතුර පාලම අසලදී මෙම මත්කරල් තොගය ලබාදුන් බවය.
+
+පසුව ඔහුගේ උපදෙස් මත එම මත්කරල් තොගය කොළඹ ප්‍රදේශවලට රැගෙන ආ බවත් ඔහු පොලීසිය හමුවේ අනාවරණය කර ඇත.
+
+◼️
+
+[Data](articles/81573eb7.json)
+
+---
 
 ### 139 officers and 1,273 other ranks promoted to mark 75th army anniversary
 
@@ -2343,25 +2363,5 @@ The North Korean army has said that these roads will be closed forever.
 [Data](articles/16dd1230.json)
 
 [Extended Data](ext_articles/16dd1230.ext.json)
-
----
-
-### Here is the decision of the Government of the Nuwara Eliya Post Office Building
-
-*2024-10-09 16:13:03* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළිය-තැපැල්-කාර්යාල-ගොඩනැගිල්ල-ගැන-රජය-ගත්-තීරණය-මෙන්න/11-412397) · `si`
-
-Nuwara Eliya Post Office Building decision: Minister Vijitha Herath announced the government will take over this 130-year-old building, previously used solely by the Postal Department. The announcement was made during a function at Temple Trees on September 9th.
-
-🟩
-
-Minister Vijitha Herath said the last government decided to take over 130 years old Nuwara Eliya Post Office Building.
-
-He said that he was only used under the Postal Department but participating at a function held at Temple Trees today (09).
-
-◼️
-
-[Data](articles/573c349a.json)
-
-[Extended Data](ext_articles/573c349a.ext.json)
 
 ---

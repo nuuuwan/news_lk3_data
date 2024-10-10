@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 12:39:18**
+As of **2024-10-10 12:57:30**
 
 ## Newspaper Stats
 
-*Scraped **48,740** Articles*
+*Scraped **48,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 484
 islandlk | 2,884
 economynextcom | 2,989
 dailyftlk | 3,299
-adalk | 4,522
+adalk | 4,523
 dailymirrorlk | 4,733
-adaderanalk | 5,752
+adaderanalk | 5,754
 tamilmirrorlk | 6,615
 virakesarilk | 7,787
 adaderanasinhalalk | 8,431
@@ -26,11 +26,45 @@ adaderanasinhalalk | 8,431
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,740 (100.0%) of 48,740 articles have been extended.
+48,743 (100.0%) of 48,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Sri Lanka’s economy stabilized, reforms critical – World Bank
+
+*2024-10-10 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102585/sri-lankas-economy-stabilized-reforms-critical-world-bank) · `en`
+
+Sri Lanka’s economy has stabilized, with growth expected to reach 4.4 percent in 2024, surpassing earlier forecasts. This positive outlook follows four consecutive quarters of growth driven by the industrial and tourism sectors and supported by critical structural and policy reforms, says the World Bank.
+
+Released today, the World Bank’s bi-annual Sri Lanka Development Update, titled Opening Up to the Future, cautions that the recovery remains fragile and hinges on maintaining macroeconomic stability, successfully restructuring debt, and continuing structural reforms to increase medium-term growth and reduce poverty. Key reforms aimed at boosting exports, attracting foreign investment, enhancing female labor force participation, improving productivity, and addressing challenges such as poverty, food insecurity, and vulnerabilities in the financial sector are crucial for achieving more inclusive and sustainable growth.
+
+...
+
+[Data](articles/9aa446d5.json)
+
+[Extended Data](ext_articles/9aa446d5.ext.json)
+
+---
+
+### Two bank accounts of former MP Anupa Pasqual ordered frozen
+
+*2024-10-10 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102584/two-bank-accounts-of-former-mp-anupa-pasqual-ordered-frozen) · `en`
+
+The Colombo High Court has ordered frozen several bank accounts owned by former MP Anupa Pasqual, in connection with an investigation being carried out under the Anti-Corruption Act.
+
+Accordingly, two bank accounts owned by the former MP in Koggala and Matugama branches of a bank have been ordered frozen for three months, Ada Derana reporter said.
+
+The order was issued in consideration of a request made by the Commission to Investigate Allegations of Bribery or Corruption in relation to the investigation carried out by the commission.
+
+◼️
+
+[Data](articles/3128760b.json)
+
+[Extended Data](ext_articles/3128760b.ext.json)
+
+---
 
 ### Films ban on five bank accounts
 
@@ -127,6 +161,26 @@ Later, the Colombo High Court, which also imposed an overseas travel ban against
 [Data](articles/f764c972.json)
 
 [Extended Data](ext_articles/f764c972.ext.json)
+
+---
+
+### Here is the decision of Wimal's party to contesting the general election
+
+*2024-10-10 11:45:11* · [`adalk`](https://www.ada.lk/breaking_news/විමල්ගේ-පක්ෂය-මහ-මැතිවරණයට-ඉදිරිපත්-වීම-ගැන-ගත්-තීරණය-මෙන්න/11-412418) · `si`
+
+Wimal Weerawansa's National Freedom Front decides not to contest the upcoming general election. The party will not participate in the continuous parliamentary election.
+
+🟩
+
+Former Leader of the Leader of the Leader of the UNP MP Wimal Weerawansa has issued a depth or independently not being held independently as a political party in the next general election.
+
+"The National Freedom Front as a political party, we are responsible for the public's responsibility to not compete in the continuous parliamentary election."
+
+◼️
+
+[Data](articles/d2d78732.json)
+
+[Extended Data](ext_articles/d2d78732.ext.json)
 
 ---
 
@@ -2323,73 +2377,5 @@ Recalling previous Human Rights Council resolutions on promoting reconciliation,
 [Data](articles/f830bc83.json)
 
 [Extended Data](ext_articles/f830bc83.ext.json)
-
----
-
-### Lack of three-wheeler charges from today
-
-*2024-10-09 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201999) · `si`
-
-Three-wheeler fares reduced in Western Province starting today. First km: 100 LKR, Second km: 85 LKR. Authorities request passengers pay fair rates.
-
-🟩
-
-The charges for three wheelers has decided to reduce the charges from today (09).
-
-Head of the Western Province Road Bureau of the Western Provincial Road Passenger Transport Authority (Western Province) Teaching has said that.
-
-"According to the second kilometer to the second kilometer decided to reduce the fees. Accordingly, the first kilometer is Rs. 100 and the second kilometer is Rs. 85. Accordingly, the fees will be regulated in the Western Province. All people are asked to get paid more than the proper money. "
-
-◼️
-
-[Data](articles/8286a456.json)
-
-[Extended Data](ext_articles/8286a456.ext.json)
-
----
-
-### Nominations launched signing nomination
-
-*2024-10-09 19:16:50* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-නාම-යෝජනා-අත්සන්-තැබීම-අරඹයි/11-412411) · `si`
-
-Sri Lanka Civil Front launches nominations for general election. Party leader Mahinda Rajapaksa signs nomination papers at party headquarters. Activities began today at Nelum Mawatha, Battaramulla.
-
-🟩
-
-The Nominations of the Sri Lanka Civil Front has commenced its signing of the Sri Lanka Promotion for the upcoming general election.
-
-Accordingly, these activities were commenced today (09) at the party headquarters at Nelum Mawatha, Battaramulla.
-
-The party leader, former President Mahinda Rajapaksa, was also present at the occasion.
-
-◼️
-
-[Data](articles/f0420c83.json)
-
-[Extended Data](ext_articles/f0420c83.ext.json)
-
----
-
-### Samagi CPC contests 22 electoral districts
-
-*2024-10-09 19:04:04* · [`adalk`](https://www.ada.lk/breaking_news/සමගි-ජන-සන්ධානය-මැතිවරණ-දිස්ත්‍රික්ක-22ටම-තරග-කරයි/11-412409) · `si`
-
-Samagi CPC contests 22 electoral districts. Nomination tomorrow. Party aims competitive lists with new faces, youth, women representation. Challenges: many candidates, competition for nominations.
-
-🟩
-
-The reconciliation districts will compete in the next general election and the nomination will be held tomorrow (10th) and the National Organizer of the Agreemental Unity (11) and the National Organizer of the Agreemental Reconciliation.
-
-He was speaking at a media briefing held in Colombo today (9).Speaking further Mr. Tissa Attanayake said:
-
-"All our nomination papers have been prepared for 22 districts with electoral elections for the Parliament elections. We hope to submit competitive lists at 22 districts. The biggest challenge we have at this time is that a large number of people are presenting for nominations, and a large number of competition is already in place to obtain nominations. However, the party's nomination papers decided to give our nominations a new look as much as possible.
-
-That means we have a number of names of the tradition. Because our organizers, our former MPs and a party are to be presented.
-
-...
-
-[Data](articles/ff4bc7d1.json)
-
-[Extended Data](ext_articles/ff4bc7d1.ext.json)
 
 ---

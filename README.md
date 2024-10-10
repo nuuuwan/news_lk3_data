@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 10:23:30**
+As of **2024-10-10 10:38:59**
 
 ## Newspaper Stats
 
-*Scraped **48,712** Articles*
+*Scraped **48,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,80 @@ adalk | 4,518
 dailymirrorlk | 4,733
 adaderanalk | 5,747
 tamilmirrorlk | 6,608
-virakesarilk | 7,785
-adaderanasinhalalk | 8,425
+virakesarilk | 7,787
+adaderanasinhalalk | 8,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,712 (100.0%) of 48,712 articles have been extended.
+48,715 (100.0%) of 48,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Two suspects arrested for two murders
+
+*2024-10-10 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202020) · `si`
+
+Two suspects arrested for murders in Biyagama and Ruwanwella. Police investigation reveals private dispute led to assault. Suspect arrested in Gonapinuwa area after returning from abroad. Further investigations ongoing.
+
+🟩
+
+Police have arrested two suspects who were in need of two murders.
+
+Two suspects were arrested by two suspects in Biyagama and Ruwanwella.
+
+In the Biyagama Malwana area, a man was assaulted by a sharp weapon on 23rd last month.
+
+The investigation was revealed at a private dispute between the deceased and the suspect.
+
+The suspect was arrested by the police stating that a person was killed and killed in April 20, 2021.
+
+Accordingly, the suspect has been arrested by the police in Gonapinuwa area in Galle yesterday (09).
+
+The murder and organized criminal investigation unit of the Criminal Investigations Department had begun.
+
+After the assassination, the suspect had been abroad and returned to Sri Lanka in 2022 and was hiding in Gonapinuwa area.
+
+The human assassination and organized criminal investigation unit in connection with the incident are conducting further investigations.
+
+◼️
+
+[Data](articles/b78f1eed.json)
+
+[Extended Data](ext_articles/b78f1eed.ext.json)
+
+---
+
+### Governor's work to take steps to prevent AIDS in the Eastern Province
+
+*2024-10-10 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195907) · `ta`
+
+New Governor Jayantalal Ratnasekara takes action against AIDS in Eastern Province. Seminar held in Batticaloa, health reports show 67 cases across districts. Ministry plans measures to eradicate disease, seeks cooperation from government departments.
+
+🟩
+
+The Ministry of Health has identified 67 AIDS in the Eastern Province Batticaloa and Trincomalee districts.
+
+The new Governor of the Eastern Province, Professor Jayantalal Ratnasekara has taken serious action to prevent AIDS in the province.
+
+Accordingly, a special seminar on AIDS Prevention in Batticaloa yesterday was held under the patronage of the new Governor Jayantalal Ratnasekera.
+
+Health reports have been submitted that 26 people in the Trincomalee district, 25 in Ampara district and 16 people in the Batticaloa district have been affected by AIDS.
+
+Accordingly, the Ministry of Health is in the Eastern Provincial Ministry of Health and plans to take serious measures to eradicate AIDS in the Eastern Province.
+
+At a special seminar held yesterday, it was decided that the Department of Health to control the AIDS No in the Eastern Province, with the cooperation of the other government departments and takes place in detail.
+
+...
+
+[Data](articles/84ebda80.json)
+
+[Extended Data](ext_articles/84ebda80.ext.json)
+
+---
 
 ### A sudden fire on a bus
 
@@ -207,6 +269,34 @@ Accordingly, 131 Lieutenants to the rank of Captain (Including Quarter Masters) 
 [Data](articles/d8a72ae1.json)
 
 [Extended Data](ext_articles/d8a72ae1.ext.json)
+
+---
+
+### The rainy weather may increase somewhat in the southwest of the country
+
+*2024-10-10 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195905) · `ta`
+
+Sri Lanka: Southwest rain increase forecasted. Heavy showers expected in Sabaragamuwa, Western Provinces, and Galle/Matara districts. Thunderstorms possible nationwide, especially evenings/night. Strong winds and lightning warnings issued. Sea regions face turbulence due to gusty winds.
+
+🟩
+
+Senior weather officer Dr. Mohamed Saliheen said the rainfall in the southwestern part of the country would have increased some days due to the atmospheric conditions in Sri Lanka.
+
+Rainfall or thunderstorms can occur frequently in the provinces of Sabaragamuwa, Upper and North Western, as well as in the Galle and Matara districts.
+
+Heavy rainfall is expected in some parts of the Sabaragamuwa and Western Provinces, as well as some of the Galle and Matara districts.
+
+Rain or thunderstorms may occur in the evening or night in many parts of the other parts of the country. Heavy rains are expected to occur in some places 75 millimeters.
+
+The public is asked to take care in the events of strong winds and lightning.
+
+Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
+
+...
+
+[Data](articles/65fafcec.json)
+
+[Extended Data](ext_articles/65fafcec.ext.json)
 
 ---
 
@@ -2289,77 +2379,5 @@ The tournament includes three matches and will be held at the Rangiri Dambulla I
 [Data](articles/fc805e25.json)
 
 [Extended Data](ext_articles/fc805e25.ext.json)
-
----
-
-### Sri Lanka is named Sri Lanka 20 squad
-
-*2024-10-09 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201995) · `si`
-
-Sri Lanka names 20-squad team for West Indies tour. Squad includes Charith Asalanka, Kusal Mendis, Niroshan Dickwella, Dasun Shanaka, and others.
-
-🟩
-
-The Sri Lankan squad has been named for the 20th tournament with the West Indies.
-
-Sri Lanka Cricket (SLC) announced that Minister of Sports, Prime Minister Dr. Weli Amarasuriya for the squad.
-
-Charith Sixty, Kusal Mendis, Kusel Mendis, Kuffel Janads, Gonuka Wins, Geoffrewissenu, Nuwan Wickrele, Vesara, Dinesh Tharula, Jayura Pathirana, Banura Pathirana, BuddhasFernando and Asapitha Fernando
-
-◼️
-
-[Data](articles/6f035be5.json)
-
-[Extended Data](ext_articles/6f035be5.ext.json)
-
----
-
-### Chinese remanded
-
-*2024-10-09 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201996) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-20 Chinese officers remanded until Oct 23 in Panadura. Arrested by Panadura police based on tip from Western Buddha officers. CID and Hanwella police also involved. Announcement made on Oct 6.
-
-🟩
-
-Twenty Chinese officers were remanded today (09) to be remanded until the 23rd of the Panadura Goekara.
-
-The suspects were arrested by the police officers of the Panadura on information received from the officers of the Western Buddha.
-
-The police media division has issued an announcement on the 6th of October and the Chinese men who were arrested by the CID and the Chinese arrested in the Hanwella Police Division.It is done.
-
-◼️
-
-[Data](articles/faa65be0.json)
-
-[Extended Data](ext_articles/faa65be0.ext.json)
-
----
-
-### India coalition wins election for Jammu and Kashmir Union Territory
-
-*2024-10-09 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195864) · `ta`
-
-India coalition wins Jammu & Kashmir UT election. National Conference leads with 42 seats, BJP second with 29. Congress wins 6 seats. Omar Abdullah likely to become Chief Minister. Aam Aadmi Party makes debut.
-
-🟩
-
-India is winning the coalition election for the Jammu & Kashmir Union Territory, which has 90 seats.
-
-Elections to the Jammu and Kashmir Union Territory were held in three phases. The process of counting the votes cast in the election was held on the eighth day of October. Following this, the election results were announced.
-
-The National Convention Party is in 42 seats, Bharatiya Janata Party (29), Indian National Congress Party in six seats, Jammu and Kashmir People's Democratic Party in three seats, Jammu and Kashmir People's Party in one seat, Indian Marxist Communist Party one seat, Aam Aadmi PartyMembers are also successful.
-
-The National Convention, which contested on behalf of the India coalition, has won 42 seats and the Congress party in six seats. Thus this alliance sets the regime. It has been reported that former Chief Minister Omar Abdullah will be appointed as the Chief Minister on behalf of the coalition.
-
-...
-
-[Data](articles/b83f64a8.json)
-
-[Extended Data](ext_articles/b83f64a8.ext.json)
 
 ---

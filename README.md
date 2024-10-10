@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 14:12:27**
+As of **2024-10-10 14:24:39**
 
 ## Newspaper Stats
 
-*Scraped **48,762** Articles*
+*Scraped **48,768** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 2,989
 dailyftlk | 3,299
 adalk | 4,524
 dailymirrorlk | 4,733
-adaderanalk | 5,755
+adaderanalk | 5,756
 tamilmirrorlk | 6,619
-virakesarilk | 7,796
-adaderanasinhalalk | 8,434
+virakesarilk | 7,800
+adaderanasinhalalk | 8,435
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,762 (100.0%) of 48,762 articles have been extended.
+48,768 (100.0%) of 48,768 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Special traffic plan for Narahenpita
+
+*2024-10-10 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202029) · `si`
+
+Narahenpita special traffic plan: Road closures, one-way routes, limited entrances.
+
+🟩
+
+The police said that a special traffic plan is being implemented in the District Secretariat, Narahenpita to hand over the nomination nominations.
+
+Tomorrow will be held tomorrow (09) at the District Secretariat in Narahenpita.
+
+Accordingly, the Baseline road from the Narahenpita junction to Park Road Junction to Park Road junction will be closed from Narahenpita (Park Road Junction).A special traffic plan is being implemented so that they can travel on both ways.
+
+Referring to Narahenpita towards Narahenpita on the Mahawatta Junction towards the Thimbirigasyaya road and Dabaruwa.
+
+- Restriction of traffic inserts from the Thimbirigasyaya Road Kirula Kirula Road Junction.
+
+- Limited vehicle entrance from High Level Road Junction to High Level Road Junction and directing vehicles from High level Thummulla and Kirulaponds.
+
+- Restrict inserts from the Baseline Road Junction to Baseline Road Junction to the Baseline Road towards Thummulla and Nugegoda.
+
+...
+
+[Data](articles/d530e865.json)
+
+[Extended Data](ext_articles/d530e865.ext.json)
+
+---
 
 ### Boy killed in fire
 
@@ -137,6 +167,130 @@ Jeevan Thondaman and Chairman Maruthappandi Rameswaran signed the nomination pap
 [Data](articles/93e234e1.json)
 
 [Extended Data](ext_articles/93e234e1.ext.json)
+
+---
+
+### Dilith Jayaweera to contest General Election from Gampaha District
+
+*2024-10-10 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102587/dilith-jayaweera-to-contest-general-election-from-gampaha-district) · `en`
+
+The ‘Sarvajana Balaya’ alliance signed nomination papers for the 2024 General Election at Mawbima Janatha Party (MJP) head office today (10).
+
+Accordingly, leader of the MJP, entrepreneur Dilith Jayaweera signed nominations to contest from Gampaha District.
+
+Additionally, Vice Chairman of the party Prof. Channa Jayasumana and Milan Jayathilake also signed the nomination papers.
+
+Meanwhile, the alliance also submitted nominations for the Colombo District today.
+
+◼️
+
+[Data](articles/02eb747d.json)
+
+[Extended Data](ext_articles/02eb747d.ext.json)
+
+---
+
+### Yall. Sri Lankan Tamil government party nomination
+
+*2024-10-10 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195930) · `ta`
+
+Sri Lankan Tamil State Party nominates candidates for Jaffna parliamentary election. Former MPs contest, pay tribute to Father Selva. TNA signs agreement; some leaders absent. Party officials attend event.
+
+🟩
+
+Sri Lanka Tamil State Party nomination to contest parliamentary elections Jaffna. They were handed over to the District Secretariat today (10).
+
+Jaffna includes Jaffna and Kilinochchi districts. Former MPs in the electoral district C. Siritharan, MA Sumanthiran, C. Sukirtan, K. Sayanthan, Emanuel Arnold and T.Prakash. Ilango, ch. Sureka and C. Krishnaveni will contest.
+
+At the same time, the candidates paid homage to the statue of Father Selva after the nomination.
+
+Earlier, the Tamil National Alliance (TNA) was signed with candidates, but former Sri Lanka Tamil National Alliance (TNA) leader Mawai Senathirasa and party treasurer Kanagasabapathy were not present.
+
+Also, the party's vice president CVK at the event.. Sivagnanam and Kulanayagam were also present.
+
+◼️
+
+[Data](articles/ccf8d2c9.json)
+
+[Extended Data](ext_articles/ccf8d2c9.ext.json)
+
+---
+
+### 1,412 soldiers rise
+
+*2024-10-10 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195933) · `ta`
+
+Sri Lankan military marks 75th anniversary. Army Commander recommends promotions for 1,412 soldiers, including 131 lieutenants to captain rank and 8 second lieutenants. Additionally, various officer ranks and series receive increases.
+
+🟩
+
+The Sri Lankan military celebrates its 75th anniversary (1949 - 2024) today (10).
+
+On the recommendation of Army Commander Lieutenant General Lieutenant General Liyanage, President of the Armed Forces President Anura Kumara Dissanayake has been given the next standard increase in 139 officers and 1,273 standards of the Sri Lanka Army (permanent and volunteer) forces.
+
+Accordingly, 131 Lieutenins have increased in the category of Captain (including equipment trustees) and 08 second Lieutenins (permanent and volunteer forces).
+
+In addition, 99 bureaucratic officers II, unimaginable authorities II, 185 working Service Series II, 380 Service Series, 346 Cobals Series, 111 Lance Cobals Cobols and Lance Cobolus Standards and Lance Cobolus.
+
+◼️
+
+[Data](articles/bc0515ec.json)
+
+[Extended Data](ext_articles/bc0515ec.ext.json)
+
+---
+
+### Two persons arrested for illegally smuggling cows from Kilinochchi
+
+*2024-10-10 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195932) · `ta`
+
+Two persons arrested for smuggling cows from Kilinochchi to Jaffna. 19 cows rescued, one died likely due to overcrowding. Driver and assistant detained. Case to be presented at Chavakachcheri Magistrate's Court.
+
+🟩
+
+Two persons have been arrested for illegally smuggling cows from Kilinochchi to Jaffna and rescued 19 cows alive and a cow.
+
+20 cows were transported from Kilinochchi to Jaffna on Wednesday (09).
+
+According to the confidential information available to the Chavakachcheri police on this issue, the lorry has been laid in the Meesala area.
+
+At the time, a cow died in 20 cows in the lorry. Police suspect that the cow may have died of congestion due to loading more cows.
+
+Subsequently, the police arrested the lorry driver and his assistant who had smuggled the cows and detained the cows and lorry at the police station.
+
+The police have taken steps to appear at the Chavakachcheri Magistrate's Court.
+
+◼️
+
+[Data](articles/3ec61218.json)
+
+[Extended Data](ext_articles/3ec61218.ext.json)
+
+---
+
+### 8 Bangladesh citizens arrested with fake passports
+
+*2024-10-10 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195929) · `ta`
+
+Bangladesh citizens arrested fake passports Serbia immigration crackdown
+
+🟩
+
+Eight Bangladeshi citizens who tried to flee to Serbia using a fake passport have been arrested by the Immigration Department Border Enforcement Division and Criminal Investigation Department officials on Thursday (10).
+
+One of the three arrested citizens of Bangladesh, using a fake passport to Serbia from Qatar to Serbia on Wednesday (09) at 08.20 pm.
+
+In the meantime, a raid carried out by the Criminal Investigation Department officials found that the documents from the suspect were fake.
+
+Subsequently, another Bangladeshi citizen has been arrested by the Criminal Investigation Department (CID) for allegedly assisting the suspect to make a fake passport at an inquiry into the arrested suspect.
+
+Further inquiries into the suspects have revealed that six more Bangladeshi nationals are waiting for Serbia to flee at a hostel in Negombo.
+
+...
+
+[Data](articles/44ff7f99.json)
+
+[Extended Data](ext_articles/44ff7f99.ext.json)
 
 ---
 
@@ -2257,121 +2411,5 @@ A memorandum of understanding (MoU) signed by the Bank with Preserving Land and 
 [Data](articles/63867f55.json)
 
 [Extended Data](ext_articles/63867f55.ext.json)
-
----
-
-### Browns’ Exide introduces Sri Lanka’s very first E-Care Battery warranty
-
-*2024-10-09 22:50:00* · [`islandlk`](http://island.lk/browns-exide-introduces-sri-lankas-very-first-e-care-battery-warranty/) · `en`
-
-In a ground-breaking move and for the first time in the automotive battery industry in Sri Lanka, Browns Battery & Tyre Strategic Business Unit recently launched the Browns E-Care Battery Warranty activation. This marks a milestone in the implementation of the first-ever paperless E-Warranty in the Sri Lankan automotive battery sector, thereby transforming customer experience from this point forward. With this new innovation, customers can now disregard traditional printed warranty cards by opting for a paperless solution. The warranty will be activated by Exide agents via the Browns E-Care App, an interface exclusively designed and developed in-house by Browns’ Digital Transformation Solutions (DTS).
-
-Norfolk Foods presents innovative ‘Lean Mean Green’ range at THAIFEX ANUGA ASIA 2024, eyeing international growth
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/ab3302e7.json)
-
-[Extended Data](ext_articles/ab3302e7.ext.json)
-
----
-
-### SLIIT hosts inaugural VogueFest 2024 celebrating creativity and talent
-
-*2024-10-09 22:49:00* · [`islandlk`](http://island.lk/sliit-hosts-inaugural-voguefest-2024-celebrating-creativity-and-talent/) · `en`
-
-SLIIT Business School successfully hosted its inaugural fashion event, VogueFest 2024, on August 16, 2024, at the SLIIT Auditorium. The groundbreaking event showcased emerging talent in fashion design and modelling providing a valuable platform to nurture individual creativity, business acumen, and future employability in the rapidly evolving fashion industry.
-
-For the initial round, VogueFest 2024 attracted over 100 contestants from diverse backgrounds, across the country. Competitors participated in the Designer category and Male/Female categories.
-
-The judging panel for the initial round to select the top designers consisted of luminaries from the industry including Ridma Samaranayake, Ruchira Karunarathna and Gayani Batz. Serving on the panel for the preliminary modelling round were, Nilmini Tennakoon, Amila Karunanayake, Meesha Gunawardana and Rozanne Diasz who was also the official choreographer for the entire event.
-
-...
-
-[Data](articles/1444f9c1.json)
-
-[Extended Data](ext_articles/1444f9c1.ext.json)
-
----
-
-### SDD Polymer marks 20 years of growth, innovation
-
-*2024-10-09 22:49:00* · [`islandlk`](http://island.lk/sdd-polymer-marks-20-years-of-growth-innovation/) · `en`
-
-SDD Polymer (Private) Limited, a leading distributor and supplier of plastic raw materials in Sri Lanka, recently celebrated its 20th anniversary with a grand event at the Shangri-La Hotel in Colombo. The gala affair hosted by the founders, Mr & Mrs Jeyaseelan brought together special guests, high-profile invitees, industry veterans, executives and staff to mark two decades of innovation, growth, and strong partnerships that have propelled the company to the forefront of Sri Lanka’s packaging and polymer industry.
-
-Founded in 2004, SDD Polymer has evolved from a small enterprise into a prominent player in the polymer industry. Specializing in petrochemical products, the company supplies a wide range of plastic raw materials, including Polypropylene (PP), High-density Polyethylene (HDPE), Low-density Polyethylene (LDPE), Linear Low-density Polyethylene (LLDPE), Polystyrene (PS), Masterbatches, Additives, Fillers, and Compounds, catering to various sectors of the plastics industry.
-
-...
-
-[Data](articles/61d13f96.json)
-
-[Extended Data](ext_articles/61d13f96.ext.json)
-
----
-
-### Share market’s sensitivity to debt-restructuring brings boons
-
-*2024-10-09 22:47:00* · [`islandlk`](http://island.lk/share-markets-sensitivity-to-debt-restructuring-brings-boons/) · `en`
-
-The stock market was yesterday somewhat volatile due to profit- takings in banking sector counters. But it is said that investor participation and turnover were quite satisfactory due to the market attracting external environmental developments, especially Sri Lanka’s external debt restructuring exercise, market analysts said.
-
-In this scenario both indices showed mixed reactions. The All Share Price Index went up by 18.9 points while S and P SL20 rose by 7.8 points. Turnover stood at Rs 2.14 billion with three crossings. Those crossings were reported in Citizens Development Business Finance, which crossed 1.49 million shares to the tune of Rs 305 million; its shares traded at Rs 205, JKH 460,000 shares crossed for Rs 91.4 million; its shares traded at Rs 198.25 and HNB 100,000 shares crossed for Rs 21.5 million; its shares sold at Rs 215.
-
-...
-
-[Data](articles/20a43e4b.json)
-
-[Extended Data](ext_articles/20a43e4b.ext.json)
-
----
-
-### A bitter defeat in the Tuth Competition
-
-*2024-10-09 22:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202007) · `si`
-
-India vs Sri Lanka: India scores 172/3 in 20 overs, sets record. Sri Lanka falls short chasing 173, bowled out for 90 in 19 overs. India wins World Cup match.
-
-🟩
-
-The third match of the World Cup was defeated by the Sri Lankan team in front of India today (09).
-
-The Indian captain won the toss and elected to bat first.
-
-Accordingly, India scored 172 runs for the loss of 3 wickets at the end of 20 overs.
-
-The number of marks was among the records of the 20 women's cricket tour.
-
-Chasing a target of 173 runs to win the match, Sri Lanka was bowled out for 90 runs in 19 overs.
-
-◼️
-
-[Data](articles/ff1c0a6c.json)
-
-[Extended Data](ext_articles/ff1c0a6c.ext.json)
-
----
-
-### Suspect held with 600,000 capsules of prescription drugs in Borella
-
-*2024-10-09 22:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102572/suspect-held-with-600000-capsules-of-prescription-drugs-in-borella) · `en`
-
-A search operation conducted by the Navy and Police Special Task Force (STF) has led to the arrest of a suspect with around 600,000 capsules of a prescription drug, commonly abused for intoxication, which were being transferred to sell.
-
-The coordinated operation, which also resulted in the seizure of a lorry used to peddle the drugs, was mounted in the Borella area on Wednesday (09), the navy said.
-
-Based on information received by naval intelligence, the search operation was mounted by Sri Lanka Navy in coordination with the Police STF.
-
-After having searched a suspicious lorry in the Borella area, these stock of prescription drugs were recovered from the possession of the suspect in the vehicles. Accordingly, the suspect together with drugs and the lorry were taken into custody, the navy said.
-
-The suspect held in this operation was identified as a resident of Mannar, aged 44.
-
-...
-
-[Data](articles/f7c5fced.json)
-
-[Extended Data](ext_articles/f7c5fced.ext.json)
 
 ---

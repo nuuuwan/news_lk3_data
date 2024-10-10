@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 20:58:16**
+As of **2024-10-10 21:10:24**
 
 ## Newspaper Stats
 
-*Scraped **48,835** Articles*
+*Scraped **48,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ bbccomsinhala | 486
 islandlk | 2,884
 economynextcom | 2,997
 dailyftlk | 3,299
-adalk | 4,537
+adalk | 4,538
 dailymirrorlk | 4,733
 adaderanalk | 5,768
 tamilmirrorlk | 6,629
-virakesarilk | 7,810
+virakesarilk | 7,813
 adaderanasinhalalk | 8,444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,835 (100.0%) of 48,835 articles have been extended.
+48,839 (100.0%) of 48,839 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,82 @@ Radio Télé Monopole reported that gunmen attacked the town before dawn, openin
 [Data](articles/47d3e551.json)
 
 [Extended Data](ext_articles/47d3e551.ext.json)
+
+---
+
+### Mannar Yuvati filed a nomination papers with the Tamil National Alliance (TNA)
+
+*2024-10-10 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195984) · `ta`
+
+Mannar Yuvati joins Tamil National Alliance (TNA) for Vanni electorate. Woman contests despite local opposition. Nomination papers filed on Thursday.
+
+🟩
+
+A woman from Talaimannar, who was on behalf of the Tamil National People's Front in the Vanni electorate, filed a nomination with the TNA on Thursday (10).
+
+The Vanni electoral constituency deputy and the Mannar district has been deployed to join the Tamil National People's Front and has taken all the steps for the parliamentary election.
+
+The woman is contesting the Vanni electoral constituency with the Tamil National Alliance (TNA) and the posters have been prepared with photos of the party's logo and the party's leader.
+
+On Thursday (10), the Tamil National Alliance (TNA) candidate, Thodu, went to Vavuniya and filed a nomination.
+
+When contacted by a leader in charge of the Mannar district of the Tamil National People's Front
+
+Yuvati joined the Tamil National People's Front with her willingness to contest the Vanni electorate.
+
+On Wednesday (9), the woman contacted us and said that she did not contest the party.
+
+In their village, another person has said that he should not compete.
+
+...
+
+[Data](articles/80903023.json)
+
+[Extended Data](ext_articles/80903023.ext.json)
+
+---
+
+### Not going to contest parliamentary elections
+
+*2024-10-10 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195975) · `ta`
+
+KR Guruswamy announces withdrawal from parliamentary election due to corruption concerns. He cites past experiences and hopes for change in political culture. Decision made at party meeting on Tuesday.
+
+🟩
+
+KR Guruswamy, who left the post of “Democratic People's Front” general secretary and the “Tamil Progressive Alliance” political committee, said he would not contest the parliamentary election as he was widely expected to contest the upcoming parliamentary election.
+
+He was speaking at a media briefing held at Sri Suryas Hotel, Colombo today (10).
+
+I have been doing Tamil social public services for the past 40 years. I have won the Colombo Municipal Council election three times during this period. I have been elected as a member of the Western Provincial Council in 2015 for four years.
+
+In particular, it is well known that politicians do not perform their duties honestly after being elected as MPs and ministers as ministers. I know this too. I have struggled as much as possible to change this mistake. It is because of this that I have left these party posts and the party.
+
+...
+
+[Data](articles/a025f5dc.json)
+
+[Extended Data](ext_articles/a025f5dc.ext.json)
+
+---
+
+### Sri Lanka PA filed nominations for Jaffna
+
+*2024-10-10 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195967) · `ta`
+
+Sri Lanka People's Alliance (PA) nominated candidates for Jaffna parliamentary seat. Organizers Thambichurai Rajeev and Keithnath Kasilingam submitted nomination papers on Thursday, October 10th.
+
+🟩
+
+The Sri Lanka PA filed a nomination for the Sri Lanka PA in the parliamentary election on Thursday (10).
+
+Sri Lanka PA's Jaffna Mawatha Organizer Thambichurai Rajeev and Keithnath Kasilingam filed their nomination papers.
+
+◼️
+
+[Data](articles/c9f5df2f.json)
+
+[Extended Data](ext_articles/c9f5df2f.ext.json)
 
 ---
 
@@ -235,6 +311,28 @@ He also focused on the tragedy or irritation that lasts more than two weeks, the
 [Data](articles/8728218c.json)
 
 [Extended Data](ext_articles/8728218c.ext.json)
+
+---
+
+### Cabraal charges to Greek bond case
+
+*2024-10-10 18:36:00* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රීක-බැඳුම්කර-නඩුවට-කබ්රාල්ට-අධි-චෝදනා/11-412431) · `si`
+
+Sri Lankan judge Ajith Nivard Cabraal faces bribery allegations over Greek bond purchases during economic crisis. He was released on bail after court objections regarding legality of charges. Case ongoing despite Supreme Court intervention.
+
+🟩
+
+Colombo High Court Judge of Colombo Ajith Nivard Cabraal has been transferred to the Government of Sri Lanka by purchasing Greek bonds, knowing that Greece is under severe economic crisis.S. Mr. Defendants decided to release the defendants on bonds of the guarantors worth Rs.
+
+The judge imposed on the courts according to the courts issued by the court, the judge was suspended and released on bail without the charges of the court.Silva, Chandrasiri Jayasinghe, Panditha Siriwardena and MA. Karunaratne is the gentlemen.
+
+Bribery Governor Ajith Nivard Cabraal, former Bribery Board of Bribery Commission, the Bribery Board of Bribery Board is in addition to purchasing Greek bonds by purchasing Greek bonds 2012.. Dharmasena Dheerasinghe, Wasantha Ananda Silva, Chandrasiri Jayasinghe, Panditha Siriwardena and HA. Karunaratne had sued the people.
+
+...
+
+[Data](articles/ea991595.json)
+
+[Extended Data](ext_articles/ea991595.ext.json)
 
 ---
 
@@ -2289,83 +2387,5 @@ Police said the area was controlled by the people with the help of the people. H
 [Data](articles/b21f7777.json)
 
 [Extended Data](ext_articles/b21f7777.ext.json)
-
----
-
-### My party will not contest the election to ensure that Anura gets a majority - Wimal Weerawansa Action announcement
-
-*2024-10-10 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195918) · `ta`
-
-Wimal Weerawansa's party won't contest election. Supports Anura Kumara for majority. Anti-imperialist stance. Respects JVP heritage. President aims for single-party rule.
-
-🟩
-
-Former parliamentarian Wimalweeravansa's party has announced that it will not contest the upcoming general election.
-
-In a statement, Wimalweeravansa said in a statement that we are a political movement with an anti -imperialist heritage and a party that respects the historical heritage of the JVP.
-
-He said that the president had decided not to contest the election to get a majority in parliament, and said that his aim was to make the Anura Kumaratisanayaka ruling without the support of the coalition parties.
-
-◼️
-
-[Data](articles/27d39142.json)
-
-[Extended Data](ext_articles/27d39142.ext.json)
-
----
-
-### SriLankan Airlines a new face
-
-*2024-10-10 11:14:11* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකන්-ගුවන්-සමාගමට-නව-මුහුනක්/11-412416) · `si`
-
-SriLankan Airlines appoints young business leader Sarath Ganegoda as new Chair. He holds a Master's degree from University of Sri Jayewardenepura and is a member of Sri Lanka Institute of Chartered Accountants and Chartered Management Accountant of Australia.
-
-🟩
-
-Young Business Sarath Ganegoda has been appointed as the new Chair of SriLankan Airlines.
-
-He has also obtained a Masters Degree from the Managing Institute of the University of Sri Jayewardenepura and a member of the Sri Lanka Institute of Chartered Accountants and a member of the Chartered Management Accountant of Australia.. (I J)
-
-◼️
-
-[Data](articles/7cb1dd91.json)
-
-[Extended Data](ext_articles/7cb1dd91.ext.json)
-
----
-
-### Murdhu Fernando appointed Acting Chief Justice
-
-*2024-10-10 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102581/murdhu-fernando-appointed-acting-chief-justice) · `en`
-
-Justice Murdhu Fernando has taken oath as the Acting Chief Justice before President Anura Kumara Dissanayake this morning (10), the President’s Media Division (PMD) reported.
-
-Justice Fernando is the second woman to hold the position of Chief Justice in Sri Lanka’s history, after Shirani Bandaranayake in 2011.
-
-Fernando joined the Attorney General’s Department as a state counsel, where she served for over 30 years having been promoted to senior state counsel, deputy solicitor general, additional solicitor general and senior additional solicitor general.
-
-She was appointed a President’s Counsel while serving as an additional solicitor general.
-
-She was later appointed as a Justice of the Supreme Court by then President Maithripala Sirisena in March 2018.
-
-◼️
-
-[Data](articles/dd3cb2ab.json)
-
-[Extended Data](ext_articles/dd3cb2ab.ext.json)
-
----
-
-### Revolutionary Roots, Democratic Dreams: The JVP’s Legacy
-
-*2024-10-10 11:07:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/revolutionary-roots-democratic-dreams-the-jvps-legacy/) · `en`
-
-“I will do my best to fully restore the people’s confidence in politicians. I am not a conjurer, I am not a magician. There are things I know and things I don’t know, but I will seek the best advice and do my best. For that, I need the support of everyone.”  – Anura Kumara Dissanayake
-
-...
-
-[Data](articles/51c7ece2.json)
-
-[Extended Data](ext_articles/51c7ece2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 13:08:30**
+As of **2024-10-10 13:23:18**
 
 ## Newspaper Stats
 
-*Scraped **48,754** Articles*
+*Scraped **48,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,299
 adalk | 4,523
 dailymirrorlk | 4,733
 adaderanalk | 5,755
-tamilmirrorlk | 6,615
+tamilmirrorlk | 6,616
 virakesarilk | 7,796
 adaderanasinhalalk | 8,432
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,754 (100.0%) of 48,754 articles have been extended.
+48,755 (100.0%) of 48,755 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,26 @@ In the meantime, the security force has been handed over to the Colombo district
 [Data](articles/ed8cd113.json)
 
 [Extended Data](ext_articles/ed8cd113.ext.json)
+
+---
+
+### Dilith Jayaweera signed the nomination
+
+*2024-10-10 12:41:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பு-மனுவில்-கையொப்பமிட்டார்-திலித்-ஜயவீர/175-345210) · `ta`
+
+Dilith Jayaweera and Milan Jayatilaka sign nomination papers for Sarvasana Power Coalition.
+
+🟩
+
+Homeland People's Party leader Dilith Jayaweera signed a nomination papers on Thursday (10) to contest the Sarvasana Power Coalition.
+
+Former parliamentarian and vice president of the motherland People's Party and former MP Milan Jayatilaka signed a nomination papers to contest on behalf of the Sarvasana Power Coalition.
+
+◼️
+
+[Data](articles/e4b8e052.json)
+
+[Extended Data](ext_articles/e4b8e052.ext.json)
 
 ---
 
@@ -2341,23 +2361,5 @@ Sri Lanka has scored 173 runs in winning the match.
 [Data](articles/a417db8f.json)
 
 [Extended Data](ext_articles/a417db8f.ext.json)
-
----
-
-### Sri Lanka -related resolution completion in UN
-
-*2024-10-09 20:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நாவில்-இலங்கை-தொடர்பான-தீர்மானம்-நிறைவேற்றம்/175-345176) · `ta`
-
-UN HRC 57/L.1 resolution promotes reconciliation, accountability, and human rights in Sri Lanka, passed without referendum during 57th session in Geneva.
-
-🟩
-
-A/HRC/57/L.1 resolution to promote reconciliation, accountability and human rights in Sri Lanka was passed without a referendum during the 57th session of the United Nations Human Rights Council in Geneva.. Remble
-
-◼️
-
-[Data](articles/a10f932a.json)
-
-[Extended Data](ext_articles/a10f932a.ext.json)
 
 ---

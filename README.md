@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 07:26:07**
+As of **2024-10-10 08:01:34**
 
 ## Newspaper Stats
 
-*Scraped **48,691** Articles*
+*Scraped **48,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,129 @@ newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 481
 bbccomsinhala | 483
-islandlk | 2,883
+islandlk | 2,884
 economynextcom | 2,985
 dailyftlk | 3,299
 adalk | 4,516
 dailymirrorlk | 4,733
 adaderanalk | 5,743
-tamilmirrorlk | 6,603
+tamilmirrorlk | 6,605
 virakesarilk | 7,785
-adaderanasinhalalk | 8,417
+adaderanasinhalalk | 8,419
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,684 (100.0%) of 48,691 articles have been extended.
+48,692 (100.0%) of 48,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### President's attention on a strategic plan for increasing income earnings
+
+*2024-10-10 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202012) · `si`
+
+President Anura Kumara Dissanayake addresses strategic plans for income increase and operational improvements. Meeting with customs and inland revenue officials discusses revenue enhancement, efficiency, and tax collection challenges. Emphasizes strong coordination between departments to prevent tax evasion and boost tax collection. Meets with foreign ambassadors to discuss economic growth, anti-corruption efforts, and development assistance from Switzerland, Germany, Thailand, and Vietnam. Focuses on improving trade and tourism cooperation with these nations.
+
+🟩
+
+President Anura Kumara Dissanayake has paid attention to the strategic plans for income and improvement of operations.
+
+Addressing a meeting with Senior Officers of the Department of Customs Department and the Inland Revenue Department, the President said the President said.
+
+It is said that the two departments of these two departments have discussed revenue and improvement of efficiency in these two departments in relation to expansion economic and regulatory reforms.
+
+The officers of both departments in both departments have informed the officers of the two departments regarding the challenges of income management and tax collection.
+
+The importance of establishing a strong coordination between the Department of Inland Revenue and the Customs Department has emphasized the importance of coordination of strong coordination between the Department of Inland Revenue and the Customs Department.
+
+...
+
+[Data](articles/97b92008.json)
+
+[Extended Data](ext_articles/97b92008.ext.json)
+
+---
+
+### Rain with heavy winds today
+
+*2024-10-10 07:07:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பலத்த-காற்றுடன்-கூடிய-மழை/175-345194) · `ta`
+
+Heavy rain and strong winds forecasted today. Thunderstorms possible in western regions, with 100mm rainfall predicted. Temporary gusts expected during storms.
+
+🟩
+
+The Department of Meteorology said that in many parts of the country, there is a possibility of rain or thunderstorms in the afternoon or at night.
+
+The department said that heavy rainfall is expected to be 100 millimeters in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
+
+It has also been reported that the thunderstorms may be temporarily blowing in the area during the thunderstorms.. (A)
+
+◼️
+
+[Data](articles/dbb15024.json)
+
+[Extended Data](ext_articles/dbb15024.ext.json)
+
+---
+
+### Ready to travel with the government of Anura
+
+*2024-10-10 06:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுர-அரசுடன்-சேர்ந்து-பயணிக்கத்-தயார்/175-345193) · `ta`
+
+Here's a 200-character summary:
+
+
+
+CV Wigneswaran offers Tamil People's Alliance support to Anura Kumara Dissanayake's government if it accepts Tamil self-determination. TNA members defecting due to internal issues. Campaigns focus on positive change without criticizing opponents.
+
+🟩
+
+The Secretary General of the Tamil People's Alliance and former Member of Parliament CV Wigneswaran told a media briefing on Wednesday that if the government headed by the Anurakumara Dissanayake -led government accepts the self -determination of Tamils, we are ready to join the government.
+
+People in the North and East lived historically. We are ready to join the government if they really accept that they have the right to self -determination.
+
+Many of the Tamil National Alliance (TNA) are now leaving the party due to the current events within the party. Many people are severely affected and are in a state of distress. Thus a few have joined different parties.
+
+We will bring about a strong change in the youth, just as the national people are in the world.
+
+We will carry out our campaigns, saying that we are going to do what we are going to do without criticizing other parties in this election. (A)
+
+◼️
+
+[Data](articles/007ec1d9.json)
+
+[Extended Data](ext_articles/007ec1d9.ext.json)
+
+---
+
+### Promotion to a number of officers in line with the 75th anniversary of the Army
+
+*2024-10-10 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202011) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Army promotes 139 officers, 1,273 soldiers on 75th anniversary. 131 officials, 8 lieutenants, 346 unauthorized officers, 111 corporals, 152 lance corporals receive promotions."
+
+🟩
+
+139 officers and 1,273 solders were given the official promotions in parallel to the 75th anniversary of the Army today (10).
+
+The Army has issued an announcement and the recommendation of the Commander of the Ministry of Defense and the Commander of the Army Commander President Anura Kumara Dissanayake has been given the promotions on the approval of President Anura Kumara Dissanayake.
+
+Accordingly, 131 officials and equipment governing officers were promoted to the official and eight officers of the Lieutenant officials of the Sri Lanka Army Regular and Volunteers.
+
+...
+
+[Data](articles/c7bbdc21.json)
+
+[Extended Data](ext_articles/c7bbdc21.ext.json)
+
+---
 
 ### Israel's knife attack: 6 people injured
 
@@ -664,6 +768,24 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 ---
 
+### SLIIT hosts inaugural VogueFest 2024 celebrating creativity and talent
+
+*2024-10-09 22:49:00* · [`islandlk`](http://island.lk/sliit-hosts-inaugural-voguefest-2024-celebrating-creativity-and-talent/) · `en`
+
+SLIIT Business School successfully hosted its inaugural fashion event, VogueFest 2024, on August 16, 2024, at the SLIIT Auditorium. The groundbreaking event showcased emerging talent in fashion design and modelling providing a valuable platform to nurture individual creativity, business acumen, and future employability in the rapidly evolving fashion industry.
+
+For the initial round, VogueFest 2024 attracted over 100 contestants from diverse backgrounds, across the country. Competitors participated in the Designer category and Male/Female categories.
+
+The judging panel for the initial round to select the top designers consisted of luminaries from the industry including Ridma Samaranayake, Ruchira Karunarathna and Gayani Batz. Serving on the panel for the preliminary modelling round were, Nilmini Tennakoon, Amila Karunanayake, Meesha Gunawardana and Rozanne Diasz who was also the official choreographer for the entire event.
+
+...
+
+[Data](articles/1444f9c1.json)
+
+[Extended Data](ext_articles/1444f9c1.ext.json)
+
+---
+
 ### SDD Polymer marks 20 years of growth, innovation
 
 *2024-10-09 22:49:00* · [`islandlk`](http://island.lk/sdd-polymer-marks-20-years-of-growth-innovation/) · `en`
@@ -675,6 +797,8 @@ Founded in 2004, SDD Polymer has evolved from a small enterprise into a prominen
 ...
 
 [Data](articles/61d13f96.json)
+
+[Extended Data](ext_articles/61d13f96.ext.json)
 
 ---
 
@@ -689,6 +813,8 @@ In this scenario both indices showed mixed reactions. The All Share Price Index 
 ...
 
 [Data](articles/20a43e4b.json)
+
+[Extended Data](ext_articles/20a43e4b.ext.json)
 
 ---
 
@@ -2143,109 +2269,5 @@ Dharmawickrama further emphasized that the new President and the Prime Minister,
 [Data](articles/7ce6ca57.json)
 
 [Extended Data](ext_articles/7ce6ca57.ext.json)
-
----
-
-### Korea ambassador meets Sri Lanka president, discusses employment
-
-*2024-10-09 15:26:00* · [`economynextcom`](https://economynext.com/korea-ambassador-meets-sri-lanka-president-discusses-employment-182991/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has met South Korea’s ambassador Miyon Lee and discussed further support including job opportunities.
-
-“We discussed boosting employment opportunities for Sri Lankans in Korea and supporting our fight against poverty, corruption, and climate change,” Dissanayake said on X.
-
-“I’m looking forward to strengthening ties between the two countries.” (Colombo/Oct9/2024)
-
-◼️
-
-[Data](articles/8f042284.json)
-
-[Extended Data](ext_articles/8f042284.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-10-09 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195843) · `ta`
-
-US Dollar: 288.58 INR buying, 297.62 INR selling. Central Bank rate update on 09/2023.
-
-🟩
-
-The US dollar purchasing price was 288.5806 rupees and the sales price were 297.6233 rupees based on a currency exchange rate released by the Central Bank on Wednesday (09).
-
-◼️
-
-[Data](articles/3719448f.json)
-
-[Extended Data](ext_articles/3719448f.ext.json)
-
----
-
-### Nuwara Eliya Post Office, led to controversy
-
-*2024-10-09 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201992) · `si`
-
-Controversy surrounds Nuwara Eliya Post Office building. Minister Vijitha Herath states it's solely for postal use, rejecting hotel plans. Decisions previously made were suspended.
-
-🟩
-
-Minister Vijitha Herath said that all decisions taken regarding the Nuwara Eliya Post Office Building for the Nuwara Eliya Post Office Building for the Nuwara Eliya Post Office Building with 130 years old said.
-
-The Minister made this observation at a function held at Temple Trees for the 150th World Days.
-
-The Minister further stated that the Nuwara Eliya Post Office, the building and its premises are used only for the post of Postal Department.
-
-"Nuwara Eliya Post Office Building took over the past to force. We divide the Nuwara Eliya Post Office Building and the post of Postal Department by the new President's new Presidential Policy. Doesn't give anybody else. We suspended all the decisions ever brought so far. "
-
-The Nuwara Eliya Post Office Building for a hotel project was held recently.
-
-◼️
-
-[Data](articles/03db3ee8.json)
-
-[Extended Data](ext_articles/03db3ee8.ext.json)
-
----
-
-### New govt scraps previous decisions on iconic N’Eliya post office building
-
-*2024-10-09 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102559/new-govt-scraps-previous-decisions-on-iconic-neliya-post-office-building) · `en`
-
-Minister Vijitha Herath has revealed that the 130-year-old iconic Nuwara Eliya Post Office building, along with its premises, will be used exclusively for postal department operations.
-
-Additionally, all previously decisions regarding the property will be suspended, he said, explaining the new government’s stance on the matter.
-
-Under the former government, it had been proposed to hand over the colonial-era building to the private sector for a hotel project which had drawn a string of protests from people, trade unions, and other organisations.
-
-The post office, located in the city of Nuwara Eliya, is renowned for its Tudor Revival architecture and is a landmark tourist point in the country.
-
-◼️
-
-[Data](articles/69a55e68.json)
-
-[Extended Data](ext_articles/69a55e68.ext.json)
-
----
-
-### Actress Tamita Competition
-
-*2024-10-09 15:10:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகை-தமிதா-போட்டி/175-345164) · `ta`
-
-Tamitha Abeyratne, famous actress, contests general election in Ratnapura district. She aims to help suffering people and understand artist issues.
-
-🟩
-
-Famous actress Tamitha Abeyratne has signed documents that she will contest the general election in the Ratnapura district.
-
-When asked by Tamita Abeyratna, he said that he decided to contest the next general election to perform some tasks for the suffering people.
-
-He also noted that he has a good understanding of the problems of people and especially artists.
-
-◼️
-
-[Data](articles/ccf62fde.json)
-
-[Extended Data](ext_articles/ccf62fde.ext.json)
 
 ---

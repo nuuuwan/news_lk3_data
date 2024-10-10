@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 12:24:53**
+As of **2024-10-10 12:39:18**
 
 ## Newspaper Stats
 
-*Scraped **48,739** Articles*
+*Scraped **48,740** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,299
 adalk | 4,522
 dailymirrorlk | 4,733
 adaderanalk | 5,752
-tamilmirrorlk | 6,614
+tamilmirrorlk | 6,615
 virakesarilk | 7,787
 adaderanasinhalalk | 8,431
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,431
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,739 (100.0%) of 48,739 articles have been extended.
+48,740 (100.0%) of 48,740 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,34 @@ The order has been issued by the Colombo High Court after considering the reques
 [Data](articles/e1cf2c89.json)
 
 [Extended Data](ext_articles/e1cf2c89.ext.json)
+
+---
+
+### Husband who attacked the wife, who met the boyfriend
+
+*2024-10-10 11:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதலனை-சந்தித்த-மனைவியை-ஆயுதத்தால்-தாக்கிய-கணவன்/76-345207) · `ta`
+
+Husband attacks wife over suspected affair. Wife hospitalized after stabbing. Police investigating family dispute in Diyagama West.
+
+🟩
+
+In the Diyagama West, the Diyagama police division, the incident was reported on Wednesday (10) due to a family dispute due to a family dispute.
+
+A mother of three children (26 years old) was thus injured and injured in the attack and was admitted to the Nuwara Eliya District General Hospital.
+
+The wife, who said she was going to Colombo after a dispute between husband and wife on Tuesday evening, left his house and went to her ex -boyfriend's house that night.
+
+However, the husband and wife who observed that the wife was in his house when the boy went to work in the same area when her husband suddenly went to his house on suspicion that her husband did not get a phone call from his wife from Wednesday (09) to Wednesday (09) morning.
+
+The injured woman has been admitted to the hospital by neighbors and surrendered to the police station with a knife used by the suspect.
+
+Further investigations are being carried out by Diagama police.
+
+◼️
+
+[Data](articles/09c45f2f.json)
+
+[Extended Data](ext_articles/09c45f2f.ext.json)
 
 ---
 
@@ -2363,29 +2391,5 @@ That means we have a number of names of the tradition. Because our organizers, o
 [Data](articles/ff4bc7d1.json)
 
 [Extended Data](ext_articles/ff4bc7d1.ext.json)
-
----
-
-### National folk force signaling nomination signing
-
-*2024-10-09 19:00:12* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගය-නාම-යෝජනා-අත්සන්-තැබීම-අවසන්/11-412408) · `si`
-
-Sri Lanka's national folk force completes nominations for 22 districts. Prime Minister Harini Amarasuriya contests Colombo district. Minister Vijitha Herath represents Gampaha District. National JVP establishes strong Parliament. Nominations handed over to District Referring Officers today and tomorrow.
-
-🟩
-
-The national folk force presented for the parliamentary election has been completed for 22 districts.
-
-Prime Minister Harini Amarasuriya has been contesting this year representing the Colombo district. At the general election, Harinini Amarasuriya was presented in the national list. Minister Vijitha Herath has been contesting this year representing Gampaha District.
-
-The National JVP National Executive Secretary of the National JVP can establish a strong Parliament of the National JVP and the National JVP has been established.
-
-He also said that the general election victory of the national government was established and the establishment of the Cabinet and qualified for the legislation of Parliament has been submitted to the election.
-
-...
-
-[Data](articles/c5aef3e3.json)
-
-[Extended Data](ext_articles/c5aef3e3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 09:39:30**
+As of **2024-10-10 09:58:20**
 
 ## Newspaper Stats
 
-*Scraped **48,706** Articles*
+*Scraped **48,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,136 @@ economynextcom | 2,985
 dailyftlk | 3,299
 adalk | 4,518
 dailymirrorlk | 4,733
-adaderanalk | 5,745
-tamilmirrorlk | 6,606
+adaderanalk | 5,747
+tamilmirrorlk | 6,607
 virakesarilk | 7,785
-adaderanasinhalalk | 8,423
+adaderanasinhalalk | 8,424
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,705 (100.0%) of 48,706 articles have been extended.
+48,710 (100.0%) of 48,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
 
-### කෝටි 6කට ආසන්න නීතිවිරෝධී මත්කරල් තොගයක් අල්ලයි
+### Postal voting dates announced for 2024 General Election
+
+*2024-10-10 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102578/postal-voting-dates-announced-for-2024-general-election) · `en`
+
+The Election Commission of Sri Lanka has announced the dates allocated for the marking of postal votes in the General Election 2024.
+
+Accordingly, postal voting for parliamentary election will be held on October 20, November 01 and 04 at all District Secretariats and election offices.
+
+Meanwhile, those unable to mark postal votes on the aforementioned dates can do so on November 07 and 08, the Election Commission said.
+
+◼️
+
+[Data](articles/5a147213.json)
+
+[Extended Data](ext_articles/5a147213.ext.json)
+
+---
+
+### Ratnapura - Colombo Road
+
+*2024-10-10 09:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரி-கொழும்பு-வீதியில்-பேருந்து-தீக்கிரை/175-345196) · `ta`
+
+Private bus burned on Ratnapura-Colombo road. Incident happened around 7:30 AM while traveling from Embilipitiya to Colombo. No casualties reported.
+
+🟩
+
+A private bus in the Madambe area on the Ratnapura -Colombo main road was burnt this morning.
+
+The disaster occurred at around 07.30 am while traveling from Embilipitiya to Colombo.
+
+However, it is also mentioned that no casualties or injuries were injured in the fire.
+
+◼️
+
+[Data](articles/74f354a2.json)
+
+[Extended Data](ext_articles/74f354a2.ext.json)
+
+---
+
+### President discusses enhancing revenue and efficiency with Customs and IRD officials
+
+*2024-10-10 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102577/president-discusses-enhancing-revenue-and-efficiency-with-customs-and-ird-officials) · `en`
+
+President Anura Kumara Dissanayake held a key meeting with senior officials from both the Sri Lanka Customs Department and the Inland Revenue Department (IRD) at the Presidential Secretariat yesterday (09), the President’s Media Division (PMD) stated.
+
+The discussions centered on strategies to enhance revenue generation and improve operational efficiency within both departments, in line with the government’s broader economic mandate.
+
+During the meeting, officials from both departments presented the challenges they face in managing revenue and tackling tax evasion.
+
+They stressed the importance of strengthening coordination between the Inland Revenue Department and Customs to effectively combat these issues. It was highlighted that better collaboration would ensure more robust enforcement of tax laws and prevent tax leakage, further boosting the country’s revenue collection, the PMD said.
+
+...
+
+[Data](articles/24e70927.json)
+
+[Extended Data](ext_articles/24e70927.ext.json)
+
+---
+
+### Commission issues on postal voting day
+
+*2024-10-10 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202018) · `si`
+
+Postal voting commission issues: Postal ballots issued on 01.11.2014. Voter list published on 26.10.2014. Official ballot papers posted on 24.10.2016. Special distribution days on 27, 31, and 03. Election Commissioner informs officials about organization.
+
+🟩
+
+The Elections Commission has also been announced to the issuance of postal votes and marking postal votes in the general election.
+
+Accordingly, the postal voting is due to be held on all offices, election offices and police officers and police at the District Secretariat premises.
+
+In addition, postal voting in other government institutions and military camps will be held on the day, 01.11.2014.
+
+The re-marked postal ballot papers has been named after two-07 and 2024, 2024 and 2024.
+
+Meanwhile, the listing of postal voters' list of postal voters will be held on 26.10.2014, the issue of postal votes and handing over the post.
+
+The official ballot papers were made to the post on 24.10.2016, and the official ballot papers have been named on 27,31 and 3 as special distribution days.
+
+The closing day of dividing official ballot papers is the closing date of dividing.
+
+...
+
+[Data](articles/7527552b.json)
+
+[Extended Data](ext_articles/7527552b.ext.json)
+
+---
+
+### Nearly 6 billion illicates arrested
 
 *2024-10-10 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202017) · `si`
 
-පාසල් ලමුන් සහ තරුණ ප්‍රජාව ඉලක්ක කර අලෙවි කිරීමට සූදානම් කළ නීතිවිරෝධි මත්කරල් තොගයක් සමග සැකකරුවෙකු පොලිස් විශේෂ කාර්ය බලකාය විසින් බොරැල්ල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+STF arrests suspect with 599k drugs worth 6Bn. Alcohol seized from lorry. Suspect transported goods via boat to Colombo.
 
-අත්අඩංගුවට පත් අවස්ථාවේදී ඔහු සතුව මත් කරල් 599,000ක් ද මත්කරල් ප්‍රවාහනයට යොදාගත් ලොරි රථයක ද පොලිස් විශේෂ කාර්ය බලකාය විසින් සිය භාරයට ගෙන තිබේ.
+🟩
 
-මත් කරල් තොගයේ වටිනාකම රුපියල් කෝටි 6කට ආසන්න බවද පොලීසිය පැවසීය.
+A suspect has been arrested by the STF in Borella
 
-අත්අඩංගුවට ගත් සැකකරු සිදුකළ ප්‍රශ්න කිරීම් හමුවේ පවසා ඇත්තේ මන්නාරම ප්‍රදේශයේ පදිංචි සුජි නැමැති පුද්ගලයෙකු විසින් බෝට්ටුවකින් පැමිණ සිලාවතුර පාලම අසලදී මෙම මත්කරල් තොගය ලබාදුන් බවය.
+The police STF said that he had 599,000 drugs at the time of his arrest.
 
-පසුව ඔහුගේ උපදෙස් මත එම මත්කරල් තොගය කොළඹ ප්‍රදේශවලට රැගෙන ආ බවත් ඔහු පොලීසිය හමුවේ අනාවරණය කර ඇත.
+The Special Task Force had also taken a lorry used for the suspect transporting the suspect.
+
+The stock of alcohol is close to Rs. 6 billion.
+
+The suspects were taken by a resident of Mannar, a resident of Mannar were given a boat and gave the stock near the Silawathura Bridge.
+
+He was later revealed to the police that the stock was brought to Colombo on his advice.
 
 ◼️
 
 [Data](articles/81573eb7.json)
+
+[Extended Data](ext_articles/81573eb7.ext.json)
 
 ---
 
@@ -2269,99 +2367,5 @@ According to the official announcement, the Bharatiya Janata Party (BJP) has won
 [Data](articles/a4b5358f.json)
 
 [Extended Data](ext_articles/a4b5358f.ext.json)
-
----
-
-### "The post office will not be delivered to anyone"
-
-*2024-10-09 16:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-நிலையம்-எவருக்கும்-வழங்கப்படாது/175-345167) · `ta`
-
-Nuwara Eliya post office saved from hotel project. Government suspends previous decision, allocates building solely to postal department. Minister Vijitha Herath ensures no other use.
-
-🟩
-
-Minister Vijitha Herath has said that the government has decided to suspend the decision taken by the last government to provide the colonial post office in Nuwara Eliya for the hotel project.
-
-Speaking at a function held on World Postal Day, he said that the building and its terrain will be allocated only to the postal department.
-
-“The previous government made decisions for forcibly acquisition of the Nuwara Eliya Post Office complex. We will be responsible that it does not include the policies of the new president and the new government.
-
-We will only allocate this special building and its premises to the Postal Department. This will not be given to anyone, we will stop all the decisions made on the proposed plan, ”he said.
-
-◼️
-
-[Data](articles/87582d8a.json)
-
-[Extended Data](ext_articles/87582d8a.ext.json)
-
----
-
-### International community should support Sri Lanka's hard journey - World Tamil Congress demand
-
-*2024-10-09 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195852) · `ta`
-
-Sri Lanka faces challenges in human rights and accountability. UN calls for reforms and international support. Tamil Nadu Council offers assistance.
-
-🟩
-
-The Tamil Nadu Council has said that we will provide a meaningful extension to fulfill Sri Lanka and send a report by the High Commission to all the UN organizations related to the matter for further measures.
-
-The 57th session of the Human Rights Council said in a media report issued on accountability, including a report issued by the High Commissioner.
-
-The World Tamil Council welcomes the statement issued by the UN Human Rights Commissioner Volcker Turk, titled "Human Rights Status in Sri Lanka". The report is calling for national and international measures to carry out accountability and reconciliation in Sri Lanka and highlights on the ongoing human rights violations.
-
-The High Commissioner's report has indicated a series of human rights violations, including spontaneous police activities such as the harassment, land grabbing and preventing victims of relatives of civil society activists, journalists and forcibly missing in the North and East.
-
-...
-
-[Data](articles/84b6c5a8.json)
-
-[Extended Data](ext_articles/84b6c5a8.ext.json)
-
----
-
-### Holy Pope greeting the President
-
-*2024-10-09 16:30:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரிசுத்த-பாப்பரசரும்-ஜனாதிபதிக்கு-வாழ்த்து/175-345166) · `ta`
-
-Pope greets Sri Lanka's new President Anura Kumara Dissanayake. Vatican rep Brian Udaigwe meets him, praising his vision and commitment to justice. Both agree to strengthen ties between Sri Lanka and the Vatican for mutual benefit.
-
-🟩
-
-The Vatican Apostolic Representative for Sri Lanka. Dr.brian Udaigwe met President Anura Kumara Dissanayake at the Presidential Office on Wednesday (09).
-
-The Vatican Representative, who congratulated Anuragumara Dissanayake, who was sworn in as the new president of Sri Lanka, handed over the President's President of the Catholic Church and the Holy Pope of the Sovereign Vatican Government, the first Francis.
-
-Vatican's representative Udaikve Andagai said that he would congratulate Sri Lanka under the leadership of the new President Anura Kumara Dissanayake.
-
-He expressed his favorable opinion on the future of Sri Lanka and that the people are already in the country to expect better development in the country.. He praised the president's vision and dedication to the President and said the Vatican would support all those efforts.
-
-...
-
-[Data](articles/7058ed73.json)
-
-[Extended Data](ext_articles/7058ed73.ext.json)
-
----
-
-### North Korea - South Korea be separated forever?Here is the decision that you have taken
-
-*2024-10-09 16:25:54* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-කොරියාව---දකුණු-කොරියාව-සදහටම-වෙන්-වෙයි--අද-ගත්ත-තීරණය-මෙන්න/11-412398) · `si`
-
-North Korea closes borders with South Korea permanently due to security concerns. KPA claims roads will remain closed indefinitely. This decision may impact future reunification efforts between the two nations.
-
-🟩
-
-North Korea has taken steps to close all roads and railways to South Korea from North Korea and South Korea.
-
-The Korean People's Army (KPA) has stated that this step has been taken as a self-security measure of preventing the war.
-
-The North Korean army has said that these roads will be closed forever.
-
-◼️
-
-[Data](articles/16dd1230.json)
-
-[Extended Data](ext_articles/16dd1230.ext.json)
 
 ---

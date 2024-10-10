@@ -1,124 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 08:43:18**
+As of **2024-10-10 08:01:34**
 
 ## Newspaper Stats
 
-*Scraped **48,701** Articles*
+*Scraped **48,696** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 481
-bbccomsinhala | 484
+bbccomsinhala | 483
 islandlk | 2,884
 economynextcom | 2,985
 dailyftlk | 3,299
-adalk | 4,517
+adalk | 4,516
 dailymirrorlk | 4,733
 adaderanalk | 5,743
 tamilmirrorlk | 6,605
 virakesarilk | 7,785
-adaderanasinhalalk | 8,422
+adaderanasinhalalk | 8,419
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,696 (100.0%) of 48,701 articles have been extended.
+48,692 (100.0%) of 48,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
-
-### Calling postal voting applications ended today
-
-*2024-10-10 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202015) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Postal voting applications end tonight at midnight. Election duties continue for public service officials. Independent group deposits due soon. 293 groups registered so far, most from Digamadulla district. Nominations submitted to 88 parties/groups. Protests allowed after submissions.
-
-🟩
-
-Postal voting applications for the general election is scheduled to end at 12 midnight today.
-
-Elections Commission that all other officers of the Public Service and Provincial Public Service should not be released from election duties, except those who have been released from election duties.The church said.
-
-Meanwhile, the deposits for independent groups in relation to the coming general election are expected to end the 12 menger.
-
-All independent groups should be deposited for all independent groups, except accepted political parties.
-
-According to the Elections Commission, 293 independent groups have backed up until yesterday.
-
-The highest number of independent groups have deposited on behalf of the Digamadulla district.
-
-Meanwhile, the Elections Commission states that nominations have been handed over to 88 political parties and independent groups.
-
-46 political parties and 42 independent groups have handed over nominations.
-
-...
-
-[Data](articles/74c746b5.json)
-
-[Extended Data](ext_articles/74c746b5.ext.json)
-
----
-
-### Three killed in fatal accidents
-
-*2024-10-10 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202014) · `si`
-
-Fatal accidents claim 3 lives: truck crash kills child, motorcyclist dies in Padukka.
-
-🟩
-
-Three people were killed in several fatal accidents throughout the country.
-
-A lorry that was hit by Kandy to Walapane, near the RDA junction of the Walapane road in the Walapane road, a lorry towards the road.
-
-The three-year-old boy's route collided with a 7 year old boy and a 15-year-old girl.
-
-The boy was killed of the two children who were seriously injured in the accident.
-
-Meanwhile, a motorcycle accident on the slopes of Tumba Padukka Thumphamodara, Padukka, has been in control of a motorcycle motorcycle.
-
-The deceased is 53 years, Delerating Police sergeant attached to the Padukka Police Station.
-
-A motorbike traveled from Avissawella to Colombo in the Padukka area in the Padukka area in Colombo.
-
-The next-day motorcycle motorcycle was taken seriously in hospital injuring he was seriously injured.
-
-◼️
-
-[Data](articles/bdcd9320.json)
-
-[Extended Data](ext_articles/bdcd9320.ext.json)
-
----
-
-### Rathan is prevailing to live
-
-*2024-10-10 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202013) · `si`
-
-Ratan Tata, former Chairman of Tata Group, passes away after being hospitalized in Mumbai due to poor health.
-
-🟩
-
-Indian media reports that Ratnata TATA passed away former Chairman of the Indian TATA Group
-
-He was admitted to a hospital in Mumbai due to the bad health conditions and was admitted to a hospital in Mumbai.
-
-◼️
-
-[Data](articles/cf7303fb.json)
-
-[Extended Data](ext_articles/cf7303fb.ext.json)
-
----
 
 ### President's attention on a strategic plan for increasing income earnings
 
@@ -483,108 +395,6 @@ They expressed optimism that his leadership will guide the country towards a mor
 [Data](articles/f0cb4d88.json)
 
 [Extended Data](ext_articles/f0cb4d88.ext.json)
-
----
-
-### Are you concerned about your adolescent child's mental condition?
-
-*2024-10-10 02:12:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy4d1lxnjg3o) · `si`
-
-Here's a summary of the key points from the article:
-
-
-
-1. Increasing mental health issues among adolescents:
-
-   - Suicide thoughts and self-harm tendencies have doubled in recent years
-
-   - Stress levels have increased compared to the past
-
-   - Factors contributing to mental health problems include economic crisis, social media, and electronic screens
-
-
-
-2. Impact of technology on children:
-
-   - Excessive screen time increases anxiety and vision problems
-
-   - Reduces interaction with real-world friends and deepens friendships online
-
-   - Parents busy with work and not listening to children's needs
-
-
-
-3. Parent-child communication:
-
-   - Children often prioritize entertainment over talking to parents
-
-   - Parents unaware of their child's mental health issues because children don't speak up
-
-   - Importance of maintaining open dialogue between parents and children
-
-
-
-4. Maintaining father-daughter relationships:
-
-   - Cultural differences can hinder relationship-building
-
-   - Suggestions for engaging in conversations about interests like astronomy or books
-
-
-
-5. Identifying stress in children:
-
-   - Signs include irritability, sleep disturbances, loss of appetite, and depression
-
-   - Immediate action required if these symptoms persist
-
-
-
-6. Seeking professional help:
-
-   - Consult government doctors or psychiatrists if concerned about a child's mental health
-
-   - National Mental Health Institute's 1926 hotline for advice
-
-
-
-7. Teacher's role in schools:
-
-   - Recognizing signs of depression in students
-
-   - Directing students to school counselors or mental health professionals
-
-
-
-8. Limitations in Sri Lanka:
-
-   - Lack of specialist psychiatrists compared to Western countries
-
-   - Need for increased awareness and education on mental health issues
-
-
-
-The article emphasizes the importance of addressing mental health concerns among adolescents and highlights the need for better communication between parents and children, as well as increased awareness and support systems in Sri Lanka.
-
-🟩
-
-During the nearly few months, suicides were events in the country.
-
-Police have confirmed that some of the events are connected together. Why do children tend to do so harmful to him in this way?
-
-How can you redeem your child or your school or student of your school or student?BBC is a search for the Sinhala in this regard.
-
-'The tendency to harm them has doubled'
-
-In recent years, the Ragama Medical College, Specialist and Professor of Children and Young People Ask (Psyya) and professor of Young People and Young Peoples pointed out that suicide thoughts have been increased in recent years.
-
-The professor said that the tendency to harm the body of adopt was doubled.
-
-...
-
-[Data](articles/7af59b2d.json)
-
-[Extended Data](ext_articles/7af59b2d.ext.json)
 
 ---
 
@@ -1424,22 +1234,6 @@ India: Hamanpreet Gore (Head), Smriti Mandana, Shabali Verma, Jemima Rodrigas, R
 
 ---
 
-### ශ්‍රී ලංකාවේ අරමුණ දේශීය යාන්ත්‍රණයයි
-
-*2024-10-09 19:26:43* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවේ-අරමුණ-දේශීය-යාන්ත්‍රණයයි/11-412412) · `si`
-
-ශ්‍රී ලංකාවේ සිදුවූවායැයි කියන මානව හිමිකම් කඩවීම් සම්බන්ධයෙන් එක්සත් ජාතීන්ගේ මානව හිමිකම් කොමිෂමට ඉදිරිපත් වූ යෝජනාව අනුව ශ්‍රී ලංකාව සම්බන්ධයෙන් කරන විදේශීය යාන්ත්‍රණයකට ලකංවා එකග නොවන බව මානව හිමිකම් කොමිසමට ශ්‍රී ලංකාව නැවත වරක් පවසා තිබේ.
-
-ශ්‍රී ලංකාවේ නව ජනපතිවරයාගේ නව අරමුණ වන්නේද දේශීය යාන්ත්‍රණයක් බවද ජිනීවා නුවර පැවැත්වෙන මානව හිමිකම් සැසිවාරයේදී ශ්‍රී ලංකාව සඳහන් කළේය.
-
-එසේම ශ්‍රී ලංකාව සම්බන්ධයෙන් ඉදිරිපත් කර ඇති අවසන් යෝජනාවද ශ්‍රී ලංකාව ප්‍රතික්ෂේප කරන බව මෙහිදී වැඩිදුරටත් සඳහන් කළේය.
-
-◼️
-
-[Data](articles/a63107bf.json)
-
----
-
 ### 'Big Boss' Darshan starrer 'pilgrimage'
 
 *2024-10-09 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195873) · `ta`
@@ -1850,7 +1644,7 @@ He “lauded President Dissanayake’s initiative to conduct transparent and cre
 
 ---
 
-### Top US admiral visits Sri Lanka to discuss rising security challenges
+### Top US Navy Commander visits Sri Lanka to discuss rising security challenges
 
 *2024-10-09 17:52:00* · [`economynextcom`](https://economynext.com/top-us-navy-commander-visits-sri-lanka-to-discuss-rising-security-challenges-183011/) · `en`
 
@@ -2363,5 +2157,117 @@ Subsequently, the Defence Secretary and Mr. Kamoshida exchanged souvenirs to mar
 [Data](articles/0938e7ce.json)
 
 [Extended Data](ext_articles/0938e7ce.ext.json)
+
+---
+
+### Nobel Prize for Chemistry
+
+*2024-10-09 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201994) · `si`
+
+Nobel Prize for Chemistry awarded to American David Baker and Britons Demis Hassabis and John Jumper.
+
+🟩
+
+The winners of the Nobel Prize for the Swedish Royal Academy won today (09).
+
+Accordingly, it has been owned by American National David Baker, British Demis Hassabis and John J. The Jumpers is to scientists.
+
+Demis Hassabis and John M.. The Jumpers is given to scientists.
+
+◼️
+
+[Data](articles/bdc7aacc.json)
+
+[Extended Data](ext_articles/bdc7aacc.ext.json)
+
+---
+
+### Nobel Prize in Chemistry 2024: Baker, Hassabis, Jumper win for work on proteins
+
+*2024-10-09 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102563/nobel-prize-in-chemistry-2024-baker-hassabis-jumper-win-for-work-on-proteins) · `en`
+
+Scientists David Baker, Demis Hassabis and John Jumper won the 2024 Nobel Prize in Chemistry, the award-giving body said on Wednesday, for their work on the structure of proteins.
+
+The prize, widely regarded as among the most prestigious in the scientific world, is awarded by the Royal Swedish Academy of Sciences and is worth 11 million Swedish crowns ($1.1 million).
+
+“One of the discoveries being recognised this year concerns the construction of spectacular proteins. The other is about fulfilling a 50-year-old dream: predicting protein structures from their amino acid sequences,” the academy said in a statement.
+
+Half the prize was awarded to Baker “for computational protein design” while the other half was shared by Hassabis and Jumper “for protein structure prediction”, the academy said.
+
+The third award to be handed out every year, the chemistry prize follows those for medicine and physics announced earlier this week.
+
+...
+
+[Data](articles/a6eb2da7.json)
+
+[Extended Data](ext_articles/a6eb2da7.ext.json)
+
+---
+
+### Special notice to Israel's job applicants
+
+*2024-10-09 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201993) · `si`
+
+Sri Lanka Foreign Employment Bureau: Israel job exam rescheduled. Online registration required. Failed candidates ineligible. Only for specific countries. Government recruitment ongoing.
+
+🟩
+
+The Sri Lanka Foreign Employment Bureau says that the preceding skills test for Israel has previously been propagated to sit the examination after six months.
+
+Registration of online method for employment in the Israeli construction work is conducted by the Sri Lanka Bureau of Foreign Employment.
+
+Only the candidates who have not been present for the professional test for the employment jobs of the construction of the construction of the land.
+
+Accordingly, after the registration of the online system, the date of the date and the Bureau of the Bureau should be informed of the name of the bureau of documents and the Bureau of Documents.
+
+However, the Bureau says that those who have previously offered to the test test and failed it will not have the opportunity to reappear for this examination.
+
+The announcement states that the examination can only apply for the examination from Israel's notification from Israel and that Israel has not yet been done by Israel.
+
+...
+
+[Data](articles/c26b8118.json)
+
+[Extended Data](ext_articles/c26b8118.ext.json)
+
+---
+
+### Expert says breakdown of human relationships and societal isolation contributing to rise in suicides
+
+*2024-10-09 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102561/expert-says-breakdown-of-human-relationships-and-societal-isolation-contributing-to-rise-in-suicides) · `en`
+
+The breakdown of human relationships and the increased isolation of individuals in modern society are significant contributors to rising suicide rates, says Prof. Mohamed Mahees of the Department of Sociology at the University of Colombo.
+
+Speaking during Ada Derana’s current affairs programme “Big Focus” on Wednesday (09), he highlighted the growing detachment of people from one another as a pressing concern.
+
+Prof. Mahees pointed out that modern humans often prioritize their interactions with technology over meaningful relationships with others, which he believes is a root cause of this growing disconnection.
+
+“We see that most suicides are reported in developed countries, but Sri Lanka is not one of those. Despite this, the breakdown of human relationships and the isolation of people in society are major factors here as well,” he explained.
+
+...
+
+[Data](articles/fb9377ae.json)
+
+[Extended Data](ext_articles/fb9377ae.ext.json)
+
+---
+
+### PM urged to investigate corruption within Health Ministry
+
+*2024-10-09 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102560/pm-urged-to-investigate-corruption-within-health-ministry-) · `en`
+
+The Society of Radiological Technologists Association Sri Lanka (SRTSL) says that they have requested Prime Minister Harini Amarasuriya to appoint a committee to investigate corruption and irregularities that have allegedly taken place within the Ministry of Health in the recent past.
+
+The association’s chairman Chanaka Dharmawickrama, stated that the association is prepared to provide information related to these issues to the said committee.
+
+“Currently, the Prime Minister is working as the Minister of Health. In particular, we say that in the past, a lot of fraud and corruption occurred in matters such as the procurement of large stocks of drugs,” he said.
+
+Dharmawickrama further emphasized that the new President and the Prime Minister, who is concurrently serving as the Minister of Health, should take immediate action on this matter.
+
+...
+
+[Data](articles/7ce6ca57.json)
+
+[Extended Data](ext_articles/7ce6ca57.ext.json)
 
 ---

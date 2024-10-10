@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 15:22:59**
+As of **2024-10-10 15:39:06**
 
 ## Newspaper Stats
 
-*Scraped **48,778** Articles*
+*Scraped **48,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,757
 tamilmirrorlk | 6,623
 virakesarilk | 7,800
-adaderanasinhalalk | 8,437
+adaderanasinhalalk | 8,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,778 (100.0%) of 48,778 articles have been extended.
+48,779 (100.0%) of 48,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Two lives will be saved due to the railway driver
+
+*2024-10-10 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202032) · `si`
+
+Train driver saves young mother and toddler near Avissawella. Incident occurred on Kelaniwalii railway line. Two survivors hospitalized, others slightly injured. Investigation ongoing regarding alleged personal motive behind incident.
+
+🟩
+
+The train driver has been able to save a young mother and a three-year-old daughter to save the survival of the railway line.
+
+The incident had taken place during the Kelaniwalii railway line Avissawella, Hinguralla and Miriswatta.
+
+The mother and daughter survived the survivor of the mother and daughter, two slightly injured.
+
+As a result, the two were rushed to the Avissawella Base Hospital in 1990 and they are currently receiving treatment at the hospital.
+
+Residents say that the railway stopped at Avissawella to Colombo Fort from the Higurawala to the Colombo Fort, due to the railway station, the residents said.
+
+Investigations have revealed that the railway line has been sleeping through the railway line with the objective of having a piercing the train with the daughter on a personal issue of the incident.
+
+◼️
+
+[Data](articles/c9b50d38.json)
+
+[Extended Data](ext_articles/c9b50d38.ext.json)
+
+---
 
 ### Former State Minister Shehan Semasinghe does not go to the general election
 
@@ -2423,31 +2451,5 @@ As Sri Lanka charts its course toward revival and renewal, Sri Lanka Design Fest
 [Data](articles/bc5cd87b.json)
 
 [Extended Data](ext_articles/bc5cd87b.ext.json)
-
----
-
-### Famous businessman Ratan Tata has passed away
-
-*2024-10-10 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/195901) · `ta`
-
-Ratan Tata, former Tata Group chairman, dies aged 86 in Mumbai hospital after illness. Prime Minister Modi expresses deep condolences on social media.
-
-🟩
-
-Ratan Tata, former chairman of Tata Group, has died today due to his old age.
-
-Tata Sons, one of India's largest companies, Ratan Tata. Ratan Tata was admitted to a private hospital in Mumbai last Monday due to ill health. There he was treated in the ICU, an intensive surveillance unit.
-
-In this case, the famous businessman Ratan Tata passed away at the Mumbai Hospital at the age of 86.
-
-Ratan Tata, who is known for its intelligence, visionary vision and work, transformed his family business into an international empire.
-
-Many dignitaries express their deepest condolences to the demise of businessman Ratan Tata. இதுதொடர்பாக, பிரதமர் மோடி எக்ஸ் வலைதளத்திலும் தனது ஆழ்ந்த இரங்கல்களை தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/b46a0c06.json)
-
-[Extended Data](ext_articles/b46a0c06.ext.json)
 
 ---

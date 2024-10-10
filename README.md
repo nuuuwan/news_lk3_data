@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 20:10:58**
+As of **2024-10-10 20:23:18**
 
 ## Newspaper Stats
 
-*Scraped **48,833** Articles*
+*Scraped **48,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 486
 islandlk | 2,884
 economynextcom | 2,997
 dailyftlk | 3,299
-adalk | 4,536
+adalk | 4,537
 dailymirrorlk | 4,733
 adaderanalk | 5,767
 tamilmirrorlk | 6,629
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,833 (100.0%) of 48,833 articles have been extended.
+48,834 (100.0%) of 48,834 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -251,6 +251,34 @@ Brown, who faced 322 balls, scored 317 runs in their Test cricket century.
 [Data](articles/f3871dba.json)
 
 [Extended Data](ext_articles/f3871dba.ext.json)
+
+---
+
+### The government caught is uncovered in the Homagama hospital
+
+*2024-10-10 18:26:51* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-කැබ්-රියක්-හෝමාගම-රෝහලේ-අත-හැර-දමා-තිබියදී-සොයා-ගනියි/11-412430) · `si`
+
+Government vehicle found at Homagama hospital. Vehicle with state logo entered premises, abandoned near morgue. Hospital staff blocked roads. Officials informed Ministry of Health and High Court.
+
+🟩
+
+Internal sources of the hospital say that a cab with state logo from Friday to the Homagama Base Hospital mortuary.
+
+It has been revealed that the vehicle entered the hospital premises to enter the hospital with the government logo and left the role of the hospital.
+
+It is said that the vehicle had been stopped near the morgue with a few days and had no possession of it and had a owner to the hospital premises and left the hospital.
+
+Later, after the hospital staff and the security division intervened, the officials have come to inform the Ministry of Health and High Court with the photographs of the vehicle.
+
+It is said that the hospital employees have blocked the road to the surrounding area so that the vehicle is unable to carry the vehicle.
+
+According to the new government, the government's vehicle has been suspected to bring the vehicle to the hospital premises and left the vehicle to the hospital premises.
+
+◼️
+
+[Data](articles/8a32e91a.json)
+
+[Extended Data](ext_articles/8a32e91a.ext.json)
 
 ---
 
@@ -2335,23 +2363,5 @@ Supreme Court Judge Fernando has been sworn in as the acting Chief Justice of Sr
 [Data](articles/233aeda4.json)
 
 [Extended Data](ext_articles/233aeda4.ext.json)
-
----
-
-### Wimal’s NFF decides not to contest 2024 General Election
-
-*2024-10-10 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102580/wimals-nff-decides-not-to-contest-2024-general-election) · `en`
-
-The National Freedom Front (NFF) led by former MP Wimal Weerawansa has announced that they will not contest in the upcoming General Elections either as an alliance or independently.
-
-Issuing a special statement, Weerawansa stated that there is no doubt that some opposition forces serve an “imperial agenda hostile to the country in order to make President Anura Kumara Dissanayake the second Gotabaya”.
-
-He has further highlighted that neither he nor his party will contribute to making the country more vulnerable to crisis by representing that desire.
-
-◼️
-
-[Data](articles/1e94bc8c.json)
-
-[Extended Data](ext_articles/1e94bc8c.ext.json)
 
 ---

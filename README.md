@@ -1,36 +1,188 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 18:20:14**
+As of **2024-10-10 18:59:32**
 
 ## Newspaper Stats
 
-*Scraped **48,808** Articles*
+*Scraped **48,823** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
-colombotelegraphcom | 484
+colombotelegraphcom | 485
 bbccomsinhala | 485
 islandlk | 2,884
-economynextcom | 2,989
+economynextcom | 2,997
 dailyftlk | 3,299
-adalk | 4,532
+adalk | 4,535
 dailymirrorlk | 4,733
-adaderanalk | 5,764
-tamilmirrorlk | 6,627
+adaderanalk | 5,765
+tamilmirrorlk | 6,628
 virakesarilk | 7,806
-adaderanasinhalalk | 8,442
+adaderanasinhalalk | 8,443
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,808 (100.0%) of 48,808 articles have been extended.
+48,819 (100.0%) of 48,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### தாமரைக் கோபுர சம்பவம்;பெற்றோருக்கு அறிவித்தல்
+
+*2024-10-10 18:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரைக்-கோபுர-சம்பவம்-பெற்றோருக்கு-அறிவித்தல்/175-345235) · `ta`
+
+தாமரை கோபுரத்தில் இருந்து 16 வயது சிறுமி ஒருவர் தவறி விழுந்து உயிரிழந்த சம்பவத்தை அடுத்து, மனநல நிபுணர்கள் பெற்றோர்கள் அவர்களின் பிள்ளைகளின் மனநலத்தில் அதிக கவனம் செலுத்துமாறு வலியுறுத்தியுள்ளனர்.
+
+டெய்லி மிரருடன் பேசிய ஆலோசகர் மனநல வைத்தியர் சமன் வீரவர்தன, பல இளம் பருவத்தினர் மன அழுத்திலிருக்கும் போது அது குறித்த அறிகுறியைக் காட்டாமல் தனிமையில் போராடுவதாகவும் அதன் அறிகுறிகளை முன்கூட்டியே அறிந்துகொள்வதன் முக்கியத்துவத்தையும் வலியுறுத்தினார்.
+
+"நண்பர்கள் மற்றும் குடும்பத்தினரிடம் இருந்து விலகிச் செல்வது, திடீர் மனநிலை மாறாட்டங்கள் போன்ற அவர்களின் நடத்தையில் ஏற்படும் மாற்றங்களை பெற்றோர்கள் அறிந்துகொள்வது முக்கியமானது” என்று வைத்தியர் வீரவர்தன சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/8728218c.json)
+
+---
+
+### Harry Bruk and Joe Root renews cricket records
+
+*2024-10-10 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202037) · `si`
+
+Harry Brook and Joe Root break cricket records: England scores 823/7, surpassing previous high against Pakistan. Brook hits triple century, Root achieves 35th Test century.
+
+🟩
+
+Pakistan scored 152 runs for the loss of 6 wickets in their second innings while stopping the fourth day of the first Test match between Pakistan and England.
+
+Accordingly, they are more than 115 runs than England's first innings.
+
+The first innings were playing the first innings when the match was started today and scored 492 runs for the loss of 03 wickets.
+
+Accordingly, they played 49 runs and scored 331 runs for 823 runs for their 7 wickets. England builds this innings in 150 overs.
+
+The massive marks built by England is the 4th highest score of the Test team.
+
+This is the highest school forces against Pakistan.
+
+Previously, the best Test innings had been recorded against Pakistan, bure.. West users.
+
+They scored 790 runs for the Test match in Kingston in 1958.
+
+Joe Root and Harry Brouqua and Harry Broot joined 454 off 552 balls for England.
+
+This is also the 4th highest score recorded for any wickets in the Test.
+
+Brown, who faced 322 balls, scored 317 runs in their Test cricket century.
+
+...
+
+[Data](articles/f3871dba.json)
+
+[Extended Data](ext_articles/f3871dba.ext.json)
+
+---
+
+### Court restrains Hasalaka Thushara from making defamatory statements on TV Derana
+
+*2024-10-10 18:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102597/court-restrains-hasalaka-thushara-from-making-defamatory-statements-on-tv-derana) · `en`
+
+The Colombo District Court issued an interim injunction against Hasalaka Thushara preventing him from issuing defamatory statements against TV Derana, until the final determination of the case.
+
+This order was issued by Colombo District Judge Sandun Vithana, when the relevant case filed by TV Derana was taken up today (10).
+
+◼️
+
+[Data](articles/64a073d7.json)
+
+---
+
+### හිටපු සුරාබදු කොමසාරිස් ඇතුළු 4ක් නොවැ. 10 තෙක් රට නොයන බව කියයි
+
+*2024-10-10 18:20:36* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-සුරාබදු-කොමසාරිස්-ඇතුළු-4ක්-නොවැ--10-තෙක්-රට-නොයන-බව-කියයි/11-412429) · `si`
+
+නොවැම්බර් මස 10 වැනිදා තෙක් තමන් විදේශගත නොවන බවට හිටපු සුරාබදු කොමසාරිස් ජනරාල් එම්.ජේ. ගුණසිරි මහතා ඇතුළු සුරාබදූ නිලධාරීන් සිව්දෙනකු සිය නීතීඥවරයා මාර්ගයෙන් ශ්‍රේෂ්ඨාධිකරණයට අද (10) පොරොන්දු වුහ.
+
+සුරාබදු කොමසාරිස් ජනරාල් එම්.ජේ. ගුණසිරි මහතා ඇතුළු සුරාබදූ නිලධාරීන් විදේශ ගතවීමේ සූදානමක් ඇති බවට තොරතුරු ලැබී ඇතැයි කියමින් ඔවුන්ට එරෙහිව විදෙස් ගමන් තහනමක් පනවන්නැයි ඉල්ලා ගොනු කර  තිබූ මෝෂම කැඳවූ අවස්ථාවේදී ඔවුන් වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා මේ බව දැනුම් දුන්නේය.
+
+වැඩබලන අගවිනිසුරු මුර්දු ප්‍රනාන්දු, ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් දිලීප් නවාස්, සහ ජනක් ද සිල්වා යන මහත්මමහත්මීන් ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ මෙම මෝසම සලකා බැලීණි.
+
+පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි නීතිඥ මනුජය ද සිල්වා මහතා කරුණු දක්වමින් කැබිනට් මණ්ඩල තීරණයකට අනුව වගඋත්තරකාර සුරාබදුන් කොමසාරිස් ජනරාල්වරයා අදාළ තනතුරෙන් මේ වන විට ඉවත් කර ඇතැයි කීය.
+
+...
+
+[Data](articles/f95fe410.json)
+
+---
+
+### Good news about the economy from the World Bank
+
+*2024-10-10 17:56:04* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බැංකුවෙන්-ආර්ථිකය-ගැන-සුබ-ආරංචියක්/11-412426) · `si`
+
+World Bank predicts Sri Lanka's economy will grow 4.4% in 2024, citing structural reforms and debt management strategies. This forecast surpasses initial predictions, indicating improved economic stability. The organization emphasizes continued reform efforts to sustain growth and reduce poverty.
+
+🟩
+
+The world's economy has been stabilized and in the year 2024, Sri Lanka's economic growth will reach 4.4%.
+
+The World Bank says that the value of pre-forecasts is a surpassing forecasts.
+
+However, this positive forward vision has been built on decisive structural and castic reforms, the World Bank added.
+
+The World Bank says Sri Lanka will rely on the continuous structural reform of the macroeconomic stabilization, maintenance of successful debts, increase medium economic growth and decrease in poverty.
+
+◼️
+
+[Data](articles/064281dc.json)
+
+[Extended Data](ext_articles/064281dc.ext.json)
+
+---
+
+### Shehan Semasinghe does not go to election
+
+*2024-10-10 17:46:25* · [`adalk`](https://www.ada.lk/breaking_news/ෂෙහාන්-සේමසිංහ-මැතිවරණයට-නොඑයි/11-412425) · `si`
+
+Shehan Semasinghe decides against contesting next general election. He issues statement saying he'll engage in political activities but won't run. Claims experience from previous parliament term relevant.
+
+🟩
+
+Former Finance State Minister Shehan Semasinghe has decided not to contest the next general election.
+
+Issuing a statement. However, he says he is engaged in political activities in the future.
+
+He is also present at the public statement that the MPs who had committed the past parliament had also represented the parliament.
+
+◼️
+
+[Data](articles/18fbf8f2.json)
+
+[Extended Data](ext_articles/18fbf8f2.ext.json)
+
+---
+
+### US Pacific fleet Commander meets Sri Lanka president
+
+*2024-10-10 17:46:00* · [`economynextcom`](https://economynext.com/us-pacific-fleet-commander-meets-sri-lanka-president-183138/) · `en`
+
+ECONOMYNEXT – Commander of the US Pacific Fleet Stephen Koehler has met Sri Lanka’s President Anura Dissanayake.
+
+“Had an important meeting with @stephenkoelher, Commander of the @USPacificFleet, today (10). The U.S. commitment to support Sri Lanka in combating transnational threats like drug smuggling and terrorism was discussed,” Dissanayake said on X.
+
+“@USPacificFleet Admiral Koehler and I met with President @AnuraDisanayake today to discuss how our U.S.-Sri Lanka security partnership can strengthen Sri Lanka’s sovereignty while ensuring regional stability in the Indo-Pacific,” Chung said on X.
+
+The US remains committed to enhancing the bilateral relationship with Sri Lanka, working together to promote security, prosperity, and shared values, the ambassador said.
+
+...
+
+[Data](articles/74fe3a5c.json)
+
+[Extended Data](ext_articles/74fe3a5c.ext.json)
+
+---
 
 ### Admiral Steve Kohler meets the president
 
@@ -118,6 +270,30 @@ He communicated this during a media briefing held today (10).
 
 ---
 
+### Sri Lanka rupee closes stronger at 292.85/293.00 to dollar, bond yields steady
+
+*2024-10-10 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-85-293-00-to-dollar-bond-yields-steady-183134/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 292.85/293.00 to the US dollar Thursday from 293.00/20 a day earlier, dealers said, while bond yields were steady ahead of an auction tomorrow.
+
+The central bank has announced it will issue 95,000 million rupees of Treasury Bonds at an auction to be held on Friday (11).
+
+A bond maturing on 15.12.2026 closed at 10.25/40 percent, down from 10.30/50 percent.
+
+A bond maturing on 15.12.2027 closed stable at 11.40/55 percent.
+
+A bond maturing on 15.02.2028 closed stable at 11.70/80 percent.
+
+A bond maturing on 15.09.2029 closed stable at 11.95/12.05 percent. (Colombo/Oct10/2024)
+
+◼️
+
+[Data](articles/06037e19.json)
+
+[Extended Data](ext_articles/06037e19.ext.json)
+
+---
+
 ### Parliamentarian is withdrawn - Patali
 
 *2024-10-10 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202035) · `si`
@@ -159,6 +335,30 @@ He has been accused of being accused of possessing a luxury vehicle that is asse
 [Data](articles/9da6ec50.json)
 
 [Extended Data](ext_articles/9da6ec50.ext.json)
+
+---
+
+### Sri Lanka stocks close up, interest in JKH continues
+
+*2024-10-10 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-interest-in-jkh-continues-183126/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 0.10 percent, or 12.24 points, at 12,164; while the more liquid S&P SL20 Index closed up 0.20 percent, or 7.33 points, at 3,600.
+
+Volatility was seen in the market with the indices dipping sharply during mid-day trade.
+
+Top turnover generators were John Keells Holdings (down at 197.50), Hayleys (up at 105.75), Commercial Bank (up at 107.00), Sampath Bank (up at 81.70), and Nations Trust Bank (up at 133.50).
+
+Crossings were recorded on conglomerates John Keells Holdings, and Hayleys.
+
+Top foreign buying was seen in John Keells Holdings, Commercial Bank, Vidullanka (up at 14.00), Sampath Bank, Seylan Bank (up at 51.90), and Ceylon Guardian Investment Trust (flat at 105.00).
+
+...
+
+[Data](articles/7e4299c8.json)
+
+[Extended Data](ext_articles/7e4299c8.ext.json)
 
 ---
 
@@ -517,6 +717,26 @@ The number of patients who are currently suffering from breast cancer is increas
 [Data](articles/4a5c7dc0.json)
 
 [Extended Data](ext_articles/4a5c7dc0.ext.json)
+
+---
+
+### Sri Lanka trade and banking groups team up to strengthen private sector financing
+
+*2024-10-10 15:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-and-banking-groups-team-up-to-strengthen-private-sector-financing-183080/) · `en`
+
+ECONOMYENXT – The Ceylon Chamber of Commerce and the Sri Lanka Banks’ Association (SLBA) have signed a memorandum of understanding to promote sustainable finance and financial inclusion for the private sector.
+
+“A key outcome aimed for through the MoU is to enable greater access for financing for Sri Lanka’s private sector, especially the export-oriented value chains and SME sector, to enable their sustainability transitions,” the chamber said in a statement.
+
+Through this partnership the two organisations aim to engage in building both demand-side and supply-side capacity and connectivity on sustainable finance.
+
+“With global trade, finance and investment regimes increasingly emphasising sustainability, Sri Lanka’s private sector and industry must rapidly transition and build capacity to remain competitive in international markets.”
+
+...
+
+[Data](articles/feb070c0.json)
+
+[Extended Data](ext_articles/feb070c0.ext.json)
 
 ---
 
@@ -1056,6 +1276,28 @@ Further inquiries into the suspects have revealed that six more Bangladeshi nati
 
 ---
 
+### Sri Lanka to grow 4.4-pct in 2024, 3.5-pct in 2024: World Bank
+
+*2024-10-10 13:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-grow-4-4-pct-in-2024-3-5-pct-in-2024-world-bank-183098/) · `en`
+
+ECONOMYNEXT – Sri Lanka is projected to grow 4.4 percent in 2024 as the country emerges from an economic crisis but the recovery hinges on maintaining macroeconomic stability and continuing reforms, the World Bank said.
+
+“Sri Lanka’s recent economic stabilization, market by four quarters of growth and a current account surplus in 2023 is a significant milestone,” David Sislen World Bank Regional Country Director said in a statement.
+
+“There is an opening for Sri Lanka to deepen its participation in global value chains and take advantage of its geography and an evolving global landscape to generate jobs and sustain growth.”
+
+The export potential included services like tourism and Sri Lanka had to reduce red tape and allow local and foreign investments to tap the potential, Country Manager Gevorg Sargsyan said.
+
+The World Bank said Sri Lanka has a potential to increase exports by an extra 10 billion US dollars a year (exports are now around a billion dollars a month), a year.
+
+...
+
+[Data](articles/8dc29c2c.json)
+
+[Extended Data](ext_articles/8dc29c2c.ext.json)
+
+---
+
 ### Holidays to vote for private sector
 
 *2024-10-10 13:04:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-துறையினருக்கும்-வாக்களிக்க-விடுமுறை/175-345212) · `ta`
@@ -1079,6 +1321,28 @@ In some cases, the Commission further stated that in case of employees to travel
 [Data](articles/d7f09f1e.json)
 
 [Extended Data](ext_articles/d7f09f1e.ext.json)
+
+---
+
+### Sarath Ganegoda appointed SriLankan Airlines Chairman
+
+*2024-10-10 12:57:00* · [`economynextcom`](https://economynext.com/sarath-ganegoda-appointed-srilankan-airlines-chairman-183084/) · `en`
+
+ECONOMYNEXT – Sarath Clement Ganegoda, a director of Hayleys Plc, has been appointed as chairman of SriLankan Airlines with effect from Wednesday (9).
+
+A new board of directors has also been appointed for the state-owned airline.
+
+The new board includes Buddhika Hewawasam (Chairman of Sri Lanka Tourism Development Authority (SLTDA) and Sri Lanka Tourism Promotion Bureau (SLTPB)), Sugath Rajapakse, Eranga Rohan Peiris Goonetilleke (Hayleys Fabric), D Arandara (Treasury representative), Ananda Athukorale, Lakmal Ratnayake, and Niranjan Arulpragasam.
+
+Hayleys Plc was among the bidders shortlisted when the previous government sought to divest the airline under its state-owned enterprise restructuring programme.
+
+Sri Lanka sought a buyer for a stake sale of SriLankan Airlines but nothing was finalized, and the sale process was dropped.
+
+...
+
+[Data](articles/0f67fead.json)
+
+[Extended Data](ext_articles/0f67fead.ext.json)
 
 ---
 
@@ -1244,6 +1508,20 @@ The Navy and the 21 fishermen who took the arrested persons and the boats to the
 
 ---
 
+### Workplace Mental Health: A Foundation For Growth & Inclusivity
+
+*2024-10-10 12:16:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/workplace-mental-health-a-foundation-for-growth-inclusivity/) · `en`
+
+Does mental health and well-being impact productivity, creativity, and absenteeism in the workplace? The answer is a resounding yes. Poor mental health can significantly hinder an employee’s ability to focus, innovate, and collaborate effectively, leading to decreased productivity. Depression and anxiety alone result in the loss of approximately 12 billion workdays each year, costing the global economy around US$1 trillion annually. On the other hand, when employees are mentally healthy, they tend to be more engaged, resilient, and creative, contributing to higher organizational performance.
+
+Recently, I was involved in a project with the World Health Organization (WHO) that reviewed scientific evidence on what works in improving the mental health of health and care workers—an area that was often neglected but gained significant attention during the COVID-19 pandemic.
+
+...
+
+[Data](articles/7ca45c43.json)
+
+---
+
 ### Film shooting;2 crore 30 lakhs to the train department
 
 *2024-10-10 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195919) · `ta`
@@ -1291,6 +1569,22 @@ Further, the 'PPA Montecuciccoli' war ship is due to leave the island on October
 [Data](articles/b760c15e.json)
 
 [Extended Data](ext_articles/b760c15e.ext.json)
+
+---
+
+### Murdu Fernando Sri Lanka’s new acting Chief Justice
+
+*2024-10-10 11:52:00* · [`economynextcom`](https://economynext.com/murdu-fernando-sri-lankas-new-acting-chief-justice-183069/) · `en`
+
+ECONOMYNEXT – Supreme Court Judge Murdu Nirupa Bidushinie Fernando has been sworn in as the Acting Chief Justice of Sri Lanka.
+
+Fernando was sworn in before President Anura Dissanayake on Thursday morning (10) at the Presidential Secretariat, Dissanayake said on X.
+
+◼️
+
+[Data](articles/534538f2.json)
+
+[Extended Data](ext_articles/534538f2.ext.json)
 
 ---
 
@@ -1495,6 +1789,28 @@ The judiciary ordered the defendants who were banned to the defendants to be han
 [Data](articles/310a0508.json)
 
 [Extended Data](ext_articles/310a0508.ext.json)
+
+---
+
+### Sri Lanka president meets chief revenue collectors
+
+*2024-10-10 11:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-chief-revenue-collectors-183062/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has met with officials of two major revenue collectors, the Customs and Inland Revenue departments, to discuss enhancing tax collection.
+
+Dissanayake met senior officials from both the Sri Lanka Customs Department and the Inland Revenue Department at the Presidential Secretariat on Wednesday (9) his media division said.
+
+“The discussions centered on strategies to enhance revenue generation and improve operational efficiency within both departments, in line with the government’s broader economic mandate,” the PMD said.
+
+The officials explained the challenges they face in managing revenue and tackling tax evasion, and “stressed the importance of strengthening coordination between the Inland Revenue Department (IRD) and Customs to effectively combat these issues.”
+
+Better collaboration would ensure more robust enforcement of tax laws and prevent tax leakage, further boosting the country’s revenue collection, they said.
+
+...
+
+[Data](articles/d9acc722.json)
+
+[Extended Data](ext_articles/d9acc722.ext.json)
 
 ---
 
@@ -2009,375 +2325,5 @@ With the help of the people of the area, the fire has been managed, but the bus 
 [Data](articles/50130f0e.json)
 
 [Extended Data](ext_articles/50130f0e.ext.json)
-
----
-
-### Ratan Tata has passed away
-
-*2024-10-10 09:40:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரத்தன்-டாடா-காலமானார்/175-345197) · `ta`
-
-Ratan Tata passes away at 86. Businessman's death shocks India. Industry leaders mourn loss. Cause: Adult health issues.
-
-🟩
-
-The demise of famous businessman Ratan Tata has disturbed the nation. Not only the industry but the people of all walks of life are saddened by the news of his demise.
-
-It was reported that 86 -year -old Ratan Tata was admitted to a private hospital in Mumbai.. Two days ago, he gave his health update as a regular medical examination. It was in this context that he died on Wednesday night. There have been reports that he is suffering from an adult health.
-
-◼️
-
-[Data](articles/1fd6fc38.json)
-
-[Extended Data](ext_articles/1fd6fc38.ext.json)
-
----
-
-### Postal voting dates announced for 2024 General Election
-
-*2024-10-10 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102578/postal-voting-dates-announced-for-2024-general-election) · `en`
-
-The Election Commission of Sri Lanka has announced the dates allocated for the marking of postal votes in the General Election 2024.
-
-Accordingly, postal voting for parliamentary election will be held on October 20, November 01 and 04 at all District Secretariats and election offices.
-
-Meanwhile, those unable to mark postal votes on the aforementioned dates can do so on November 07 and 08, the Election Commission said.
-
-Meanwhile, the certification of postal voter lists will be done on 16 October, and the issuance and delivery of the lists to the post will be done on 23 October.
-
-The Election Commission also announced that the delivery of official ballot papers to the post offices will be carried out on October 26.
-
-Additionally, October 27, 31 and November 03 have been designated as special days for distribution of official polling cards. The final date for distribution of official ballot papers is 07 November 2024, according to the Election Commission.
-
-◼️
-
-[Data](articles/5a147213.json)
-
-[Extended Data](ext_articles/5a147213.ext.json)
-
----
-
-### Ratnapura - Colombo Road
-
-*2024-10-10 09:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரி-கொழும்பு-வீதியில்-பேருந்து-தீக்கிரை/175-345196) · `ta`
-
-Private bus burned on Ratnapura-Colombo road. Incident happened around 7:30 AM while traveling from Embilipitiya to Colombo. No casualties reported.
-
-🟩
-
-A private bus in the Madambe area on the Ratnapura -Colombo main road was burnt this morning.
-
-The disaster occurred at around 07.30 am while traveling from Embilipitiya to Colombo.
-
-However, it is also mentioned that no casualties or injuries were injured in the fire.
-
-◼️
-
-[Data](articles/74f354a2.json)
-
-[Extended Data](ext_articles/74f354a2.ext.json)
-
----
-
-### President discusses enhancing revenue and efficiency with Customs and IRD officials
-
-*2024-10-10 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102577/president-discusses-enhancing-revenue-and-efficiency-with-customs-and-ird-officials) · `en`
-
-President Anura Kumara Dissanayake held a key meeting with senior officials from both the Sri Lanka Customs Department and the Inland Revenue Department (IRD) at the Presidential Secretariat yesterday (09), the President’s Media Division (PMD) stated.
-
-The discussions centered on strategies to enhance revenue generation and improve operational efficiency within both departments, in line with the government’s broader economic mandate.
-
-During the meeting, officials from both departments presented the challenges they face in managing revenue and tackling tax evasion.
-
-They stressed the importance of strengthening coordination between the Inland Revenue Department and Customs to effectively combat these issues. It was highlighted that better collaboration would ensure more robust enforcement of tax laws and prevent tax leakage, further boosting the country’s revenue collection, the PMD said.
-
-...
-
-[Data](articles/24e70927.json)
-
-[Extended Data](ext_articles/24e70927.ext.json)
-
----
-
-### Commission issues on postal voting day
-
-*2024-10-10 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202018) · `si`
-
-Postal voting commission issues: Postal ballots issued on 01.11.2014. Voter list published on 26.10.2014. Official ballot papers posted on 24.10.2016. Special distribution days on 27, 31, and 03. Election Commissioner informs officials about organization.
-
-🟩
-
-The Elections Commission has also been announced to the issuance of postal votes and marking postal votes in the general election.
-
-Accordingly, the postal voting is due to be held on all offices, election offices and police officers and police at the District Secretariat premises.
-
-In addition, postal voting in other government institutions and military camps will be held on the day, 01.11.2014.
-
-The re-marked postal ballot papers has been named after two-07 and 2024, 2024 and 2024.
-
-Meanwhile, the listing of postal voters' list of postal voters will be held on 26.10.2014, the issue of postal votes and handing over the post.
-
-The official ballot papers were made to the post on 24.10.2016, and the official ballot papers have been named on 27,31 and 3 as special distribution days.
-
-The closing day of dividing official ballot papers is the closing date of dividing.
-
-...
-
-[Data](articles/7527552b.json)
-
-[Extended Data](ext_articles/7527552b.ext.json)
-
----
-
-### Nearly 6 billion illicates arrested
-
-*2024-10-10 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202017) · `si`
-
-STF arrests suspect with 599k drugs worth 6Bn. Alcohol seized from lorry. Suspect transported goods via boat to Colombo.
-
-🟩
-
-A suspect has been arrested by the STF in Borella
-
-The police STF said that he had 599,000 drugs at the time of his arrest.
-
-The Special Task Force had also taken a lorry used for the suspect transporting the suspect.
-
-The stock of alcohol is close to Rs. 6 billion.
-
-The suspects were taken by a resident of Mannar, a resident of Mannar were given a boat and gave the stock near the Silawathura Bridge.
-
-He was later revealed to the police that the stock was brought to Colombo on his advice.
-
-◼️
-
-[Data](articles/81573eb7.json)
-
-[Extended Data](ext_articles/81573eb7.ext.json)
-
----
-
-### New Chairman of SriLankan
-
-*2024-10-10 09:15:09* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලන්කන්-වෙත-නව-සභාපතිවරයෙක්/11-412415) · `si`
-
-Sarath Ganegoda appointed new Chairman of SriLankan Airlines. Leading businessman, group executive director of Hitlis, chartered accountant, and University of Sri Jayewardenepura graduate. Appointed on October 9th.
-
-🟩
-
-SriLankanan Institutional Corporate Communications Division, SriLraban Institutional Corporate Communication Division (CSE), the head of the SriLraban Airlines Corporate Communications, stated that a new Chairman of Sri Lanka has appointed a new Chairman of SriLankan Airlines 10/09.
-
-Mr. Sarath Ganegoda is a leading businessman in Sri Lanka and he is as a group executive director of Hitlis.
-
-He is also a member of the Institute of Chartered Accountants of Sri Lanka, a graduate with the business administration of the University of Sri Jayewardenepura.
-
-◼️
-
-[Data](articles/1787ede5.json)
-
-[Extended Data](ext_articles/1787ede5.ext.json)
-
----
-
-### 139 officers and 1,273 other ranks promoted to mark 75th army anniversary
-
-*2024-10-10 09:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102576/139-officers-and-1273-other-ranks-promoted-to-mark-75th-army-anniversary) · `en`
-
-A total of 139 Officers of the Sri Lanka Army and 1,273 Other Ranks of the Army (Regular Force and Volunteer Force) have been promoted to their respective next ranks in view of the 75th anniversary of the Sri Lanka Army today (10).
-
-The promotions were made by President Anura Kumara Dissanayake, in his capacity as the Commander-in-Chief of the Armed Forces, on the recommendation of the Ministry of Defence and Lieutenant General Vikum Liyanage, Commander of the Army.
-
-Accordingly, 131 Lieutenants to the rank of Captain (Including Quarter Masters) and 08 Second Lieutenants to the rank of Lieutenant (Regular Force & Volunteer Force) have been thus promoted in the Officers’ category.
-
-...
-
-[Data](articles/d8a72ae1.json)
-
-[Extended Data](ext_articles/d8a72ae1.ext.json)
-
----
-
-### The rainy weather may increase somewhat in the southwest of the country
-
-*2024-10-10 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195905) · `ta`
-
-Sri Lanka: Southwest rain increase forecasted. Heavy showers expected in Sabaragamuwa, Western Provinces, and Galle/Matara districts. Thunderstorms possible nationwide, especially evenings/night. Strong winds and lightning warnings issued. Sea regions face turbulence due to gusty winds.
-
-🟩
-
-Senior weather officer Dr. Mohamed Saliheen said the rainfall in the southwestern part of the country would have increased some days due to the atmospheric conditions in Sri Lanka.
-
-Rainfall or thunderstorms can occur frequently in the provinces of Sabaragamuwa, Upper and North Western, as well as in the Galle and Matara districts.
-
-Heavy rainfall is expected in some parts of the Sabaragamuwa and Western Provinces, as well as some of the Galle and Matara districts.
-
-Rain or thunderstorms may occur in the evening or night in many parts of the other parts of the country. Heavy rains are expected to occur in some places 75 millimeters.
-
-The public is asked to take care in the events of strong winds and lightning.
-
-Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
-
-...
-
-[Data](articles/65fafcec.json)
-
-[Extended Data](ext_articles/65fafcec.ext.json)
-
----
-
-### Janaka Bandara too does not go to general election
-
-*2024-10-10 09:02:46* · [`adalk`](https://www.ada.lk/breaking_news/ජනක-බණ්ඩාරත්-මහ-මැතිවරණයට-නොඑයි/11-412414) · `si`
-
-Former Minister Janaka Bandara Tennakoon announces he won't run in 2023 general election due to changing political landscape. He represented Matale district since 1994, previously served under Mahinda Rajapaksa government.
-
-🟩
-
-Former minister Janaka Bandara Tennakoon said he said that the former Minister of State Praise Bandara Tennakoon said he will not contest the general election this year.
-
-Former State Minister of Praise Bandara Tennako, inquired about teams contesting with the Gas Cylinder of the Matale district, was speaking.
-
-Former Minister Janaka Bandara Tennakoon has been selected as the Matale District MP Janaka Bandara Tennakoon for three decades from 1994 representing the Matale district.
-
-Accordingly, Jamay Bandara Tennakoon, a Deputy Minister and several Ministers Minister of the Cabinet, had abandoned former President Mahinda Rajapaksa.
-
-As well as the Matale District representing the Matale District as well as his son Praise Bandara Tennakoon, his son Praise Bandara Tennakoon, was also the government Defense Minister of the Government.
-
-...
-
-[Data](articles/f5163ea8.json)
-
-[Extended Data](ext_articles/f5163ea8.ext.json)
-
----
-
-### Showery conditions to enhance in south-western part of the island
-
-*2024-10-10 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102575/showery-conditions-to-enhance-in-south-western-part-of-the-island) · `en`
-
-The Department of Meteorology says showery condition is expected to enhance to some extent in the south-western part of the Island in the next few days starting from today (10), due to the development of atmospheric disturbance in the vicinity of Sri Lanka.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces.
-
-Heavy showers above 100mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Meanwhile, showers or thundershowers will occur elsewhere at several places in the island during the evening or night.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/ae29ca83.json)
-
-[Extended Data](ext_articles/ae29ca83.ext.json)
-
----
-
-### Completed today
-
-*2024-10-10 08:36:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றுடன்-நிறைவு/175-345195) · `ta`
-
-Postal voting application deadline: Today at midnight. Government officials must apply. Independent group deposits due today at noon.
-
-🟩
-
-Applications for postal voting applications in the upcoming general election will end today (10) at 12 midnight.
-
-The Elections Commission said that all government officials and servants who could be appointed or appointed for parliamentary elections should apply to vote by mail.
-
-Meanwhile, the process of depositing for independent groups related to the upcoming general election will be completed today at 12 noon today.. Remble
-
-◼️
-
-[Data](articles/9e33a379.json)
-
-[Extended Data](ext_articles/9e33a379.ext.json)
-
----
-
-### Sri Lanka central bank tightens related party loans by banks
-
-*2024-10-10 07:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-tightens-related-party-loans-by-banks-183040/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has issued rules limiting loans that can be granted by commercial banks to directors, their relatives, partners, chief executives, senior executives, companies with connections such individuals and shareholders.
-
-Loans to individuals have been limited to 20 million rupees. Loans to related companies have been limited to 10 percent of equity or 15 percent in other cases.
-
-(c) a concern in which a director of a licensed bank has a substantial interest, being an
-
-interest acquired either before or after the appointment as a director of such licensed
-
-(d) a concern in which a close relation of a director of a licensed bank has a substantial
-
-(e) a chief executive officer or an officer performing executive functions of a licensed
-
-bank in respect of any accommodation granted other than an accommodation granted
-
-to such officer under a scheme applicable to the employees of such bank;
-
-...
-
-[Data](articles/44a4f694.json)
-
-[Extended Data](ext_articles/44a4f694.ext.json)
-
----
-
-### Attention to prevent tax evasives
-
-*2024-10-10 07:47:23* · [`adalk`](https://www.ada.lk/breaking_news/බදු-පැහැර-හැරීම්-වැළැක්විමට-අවධානය/11-412413) · `si`
-
-Sri Lanka President meets customs and revenue officials to discuss strategies for improving tax collection and preventing evasion. Focuses on strengthening collaboration between departments to address challenges in income and tax collection.
-
-🟩
-
-President Anura Kumara Dissanayake met with senior officers of the Sri Lanka Customs Department and the Central Revenue Department yesterday.
-
-The two departments were discussed with the strategic plans to earn income and improve operations in relation to the expanded economic and regulatory reforms of the government.
-
-The President was aware of the challenges of both departments on the challenges of income and tax collection. එම ගැටළුවලට ඵලදායී ලෙස මුහුණ දීම සඳහා දේශීය ආදායම් දෙපාර්තමේන්තුව සහ රේගු දෙපාර්තමේන්තුව අතර ශක්තිමත් සම්බන්ධීකරණයක් ඇති කර ගැනීමේ වැදගත්කම එහිදී අවධාරණය කරනු ලැබීය.
-
-It also focused on the need to further enhance the tax evasion and further enhance the addition of revenue.
-
-...
-
-[Data](articles/8cb06d16.json)
-
-[Extended Data](ext_articles/8cb06d16.ext.json)
-
----
-
-### Calling postal voting applications ended today
-
-*2024-10-10 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202015) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Postal voting applications end tonight at midnight. Election duties continue for public service officials. Independent group deposits due soon. 293 groups registered so far, most from Digamadulla district. Nominations submitted to 88 parties/groups. Protests allowed after submissions.
-
-🟩
-
-Postal voting applications for the general election is scheduled to end at 12 midnight today.
-
-Elections Commission that all other officers of the Public Service and Provincial Public Service should not be released from election duties, except those who have been released from election duties.The church said.
-
-Meanwhile, the deposits for independent groups in relation to the coming general election are expected to end the 12 menger.
-
-All independent groups should be deposited for all independent groups, except accepted political parties.
-
-According to the Elections Commission, 293 independent groups have backed up until yesterday.
-
-The highest number of independent groups have deposited on behalf of the Digamadulla district.
-
-Meanwhile, the Elections Commission states that nominations have been handed over to 88 political parties and independent groups.
-
-46 political parties and 42 independent groups have handed over nominations.
-
-...
-
-[Data](articles/74c746b5.json)
-
-[Extended Data](ext_articles/74c746b5.ext.json)
 
 ---

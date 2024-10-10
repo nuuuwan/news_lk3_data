@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 12:13:54**
+As of **2024-10-10 12:24:53**
 
 ## Newspaper Stats
 
-*Scraped **48,734** Articles*
+*Scraped **48,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ bbccomsinhala | 484
 islandlk | 2,884
 economynextcom | 2,989
 dailyftlk | 3,299
-adalk | 4,519
+adalk | 4,522
 dailymirrorlk | 4,733
 adaderanalk | 5,752
-tamilmirrorlk | 6,613
+tamilmirrorlk | 6,614
 virakesarilk | 7,787
-adaderanasinhalalk | 8,430
+adaderanasinhalalk | 8,431
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,734 (100.0%) of 48,734 articles have been extended.
+48,739 (100.0%) of 48,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Films ban on five bank accounts
+
+*2024-10-10 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202025) · `si`
+
+Colombo High Court bans 2 bank accounts of former State Minister Pasadaal due to bribery allegations.
+
+🟩
+
+The Colombo High Court has issued an order banning two bank accounts belonging to former State Minister and Pasadaal.
+
+The Bribery Commission has requested the Colombo High Court today to prohibit two bank accounts of the Indian State Minister under the anti-government state minister.
+
+The order has been issued by the Colombo High Court after considering the request.
+
+◼️
+
+[Data](articles/e1cf2c89.json)
+
+[Extended Data](ext_articles/e1cf2c89.ext.json)
+
+---
+
+### Husband who attacked the mother, who met her boyfriend
+
+*2024-10-10 11:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதலனை-சந்தித்த-தாயை-ஆயுதத்தால்-தாக்கிய-கணவன்/76-345207) · `ta`
+
+Husband attacks wife over suspected affair. Woman hospitalized after stabbing. Police investigating family dispute in Diyagama.
+
+🟩
+
+In the Diyagama West, the Diyagama police division, the incident was reported on Wednesday (10) due to a family dispute due to a family dispute.
+
+A mother of three children (26 years old) was thus injured and injured in the attack and was admitted to the Nuwara Eliya District General Hospital.
+
+The wife, who said she was going to Colombo after a dispute between husband and wife on Tuesday evening, left his house and went to her ex -boyfriend's house that night.
+
+However, the husband and wife who observed that the wife was in his house when the boy went to work in the same area when her husband suddenly went to his house on suspicion that her husband did not get a phone call from his wife from Wednesday (09) to Wednesday (09) morning.
+
+The injured woman has been admitted to the hospital by neighbors and surrendered to the police station with a knife used by the suspect.
+
+Further investigations are being carried out by Diyagama police.
+
+◼️
+
+[Data](articles/f3b2bf03.json)
+
+[Extended Data](ext_articles/f3b2bf03.ext.json)
+
+---
 
 ### 2012 Greek bonds case: Ex-CBSL chief Cabraal and 3 others granted bail
 
@@ -197,6 +247,26 @@ Recently, the Court of Appeal has issued an interim order to suspend the impleme
 [Data](articles/45d0416e.json)
 
 [Extended Data](ext_articles/45d0416e.ext.json)
+
+---
+
+### SriLankan Airlines a new face
+
+*2024-10-10 11:14:11* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකන්-ගුවන්-සමාගමට-නව-මුහුනක්/11-412416) · `si`
+
+SriLankan Airlines appoints young business leader Sarath Ganegoda as new Chair. He holds a Master's degree from University of Sri Jayewardenepura and is a member of Sri Lanka Institute of Chartered Accountants and Chartered Management Accountant of Australia.
+
+🟩
+
+Young Business Sarath Ganegoda has been appointed as the new Chair of SriLankan Airlines.
+
+He has also obtained a Masters Degree from the Managing Institute of the University of Sri Jayewardenepura and a member of the Sri Lanka Institute of Chartered Accountants and a member of the Chartered Management Accountant of Australia.. (I J)
+
+◼️
+
+[Data](articles/7cb1dd91.json)
+
+[Extended Data](ext_articles/7cb1dd91.ext.json)
 
 ---
 
@@ -715,6 +785,30 @@ to such officer under a scheme applicable to the employees of such bank;
 [Data](articles/44a4f694.json)
 
 [Extended Data](ext_articles/44a4f694.ext.json)
+
+---
+
+### Attention to prevent tax evasives
+
+*2024-10-10 07:47:23* · [`adalk`](https://www.ada.lk/breaking_news/බදු-පැහැර-හැරීම්-වැළැක්විමට-අවධානය/11-412413) · `si`
+
+Sri Lanka President meets customs and revenue officials to discuss strategies for improving tax collection and preventing evasion. Focuses on strengthening collaboration between departments to address challenges in income and tax collection.
+
+🟩
+
+President Anura Kumara Dissanayake met with senior officers of the Sri Lanka Customs Department and the Central Revenue Department yesterday.
+
+The two departments were discussed with the strategic plans to earn income and improve operations in relation to the expanded economic and regulatory reforms of the government.
+
+The President was aware of the challenges of both departments on the challenges of income and tax collection. එම ගැටළුවලට ඵලදායී ලෙස මුහුණ දීම සඳහා දේශීය ආදායම් දෙපාර්තමේන්තුව සහ රේගු දෙපාර්තමේන්තුව අතර ශක්තිමත් සම්බන්ධීකරණයක් ඇති කර ගැනීමේ වැදගත්කම එහිදී අවධාරණය කරනු ලැබීය.
+
+It also focused on the need to further enhance the tax evasion and further enhance the addition of revenue.
+
+...
+
+[Data](articles/8cb06d16.json)
+
+[Extended Data](ext_articles/8cb06d16.ext.json)
 
 ---
 
@@ -2272,112 +2366,26 @@ That means we have a number of names of the tradition. Because our organizers, o
 
 ---
 
-### Swiss envoy discusses peace, reconciliation with new Sri Lanka leader
+### National folk force signaling nomination signing
 
-*2024-10-09 19:00:00* · [`economynextcom`](https://economynext.com/swiss-envoy-discusses-peace-reconciliation-with-new-sri-lanka-leader-183028/) · `en`
+*2024-10-09 19:00:12* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගය-නාම-යෝජනා-අත්සන්-තැබීම-අවසන්/11-412408) · `si`
 
-ECONOMYNEXT – Switzerland Ambassador Siri Walt met Sri Lanka’s new President Anura Kumara Dissanayake and discussed the island nation’s efforts on peace and reconciliation among many other topics, the envoy said.
+Sri Lanka's national folk force completes nominations for 22 districts. Prime Minister Harini Amarasuriya contests Colombo district. Minister Vijitha Herath represents Gampaha District. National JVP establishes strong Parliament. Nominations handed over to District Referring Officers today and tomorrow.
 
-Walt, Ambassador Extraordinary and Plenipotentiary of Switzerland to Sri Lanka, met Dissanayake on Wednesday and reaffirmed Switzerland’s commitment to supporting Sri Lanka, particularly through the ongoing IMF program, and expressed Switzerland’s readiness to assist in President Dissanayake’s efforts to combat corruption, President Media Division (PMD) said in a statement.
+🟩
 
-“She also emphasized Switzerland’s expertise in foreign direct investments (FDI) and tourism, offering assistance to Sri Lanka in these sectors to promote economic growth,” the PMD said.
+The national folk force presented for the parliamentary election has been completed for 22 districts.
 
-Walt in a separate message said she also discussed peace and reconciliation with Dissanayake.
+Prime Minister Harini Amarasuriya has been contesting this year representing the Colombo district. At the general election, Harinini Amarasuriya was presented in the national list. Minister Vijitha Herath has been contesting this year representing Gampaha District.
+
+The National JVP National Executive Secretary of the National JVP can establish a strong Parliament of the National JVP and the National JVP has been established.
+
+He also said that the general election victory of the national government was established and the establishment of the Cabinet and qualified for the legislation of Parliament has been submitted to the election.
 
 ...
 
-[Data](articles/06cf5370.json)
+[Data](articles/c5aef3e3.json)
 
-[Extended Data](ext_articles/06cf5370.ext.json)
-
----
-
-### An explanation from the Bureau of Israel
-
-*2024-10-09 18:54:29* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-රැකියා-ගැන-කාර්යාංශයෙන්-පැහැදිලි-කිරීමක්/11-412407) · `si`
-
-Sri Lanka Bureau of Foreign Employment registers Israelis for construction work. Online system requires certificates and documents. False claims about re-taking skills tests debunked. Government recruitment limited to 15 countries. Public warned against deception.
-
-🟩
-
-Registration of online system for employment in the Israeli construction work is conducted by the Sri Lanka Bureau of Foreign Employment.. After the registration of the online scheme, the date and the Bureau of Bureau is directed to submit the required certificates and documents to interview the mobile phone of the employment.
-
-Israeli construction work is registered for jobs before the previous Israeli construction work. Previously, those who failed the skills test and failed it spread to a mouth that it will be able to appear after 6 months of return to this examination, and it is false. These people can only apply for the reunion of the Israeli government only by informing. Such notice has not been done by Israel so far. The Israeli government recruits workers in 15 countries, and this decision is valid for the 15 countries.
-
-Therefore, the Sri Lanka Bureau of Foreign Employment has requested the public to be deceived by such falcement.
-
-◼️
-
-[Data](articles/2fb28fb6.json)
-
-[Extended Data](ext_articles/2fb28fb6.ext.json)
-
----
-
-### Sujeewa protests in Kandy and name to National list
-
-*2024-10-09 18:47:38* · [`adalk`](https://www.ada.lk/breaking_news/සුජීවට-මහනුවරින්-විරෝධතා--ජාතික-ලැයිස්තුවට-නම-දායි/11-412406) · `si`
-
-Sujeewa protests Kandy district election; party resolves crisis; names Senasinghe as leader; Tissa Attanayake leads campaign; controversy over Buddhist monk involvement.
-
-🟩
-
-The party leadership has led the party to resolve the crisis of the Kandy district to contest the general election of the Kandy district with regard to the Kandy district.
-
-Sujeewa Senasinghe has named the Kandy District Leader of the Mahagi organization, but it will lead the election campaign under the leadership of Tissa Attanayake.
-
-It was also planned to stick to a group of Buddhist monks claiming that the Kandy District Organizer of the United States was a protest saying that Kandy District electoral organizer was protested by Kandy.
-
-◼️
-
-[Data](articles/78893c6c.json)
-
-[Extended Data](ext_articles/78893c6c.ext.json)
-
----
-
-### Sabaragamuwa Revenue Department Rs. 1100 woo
-
-*2024-10-09 18:43:07* · [`adalk`](https://www.ada.lk/breaking_news/සබරගමුවේ-ආදායම්-දෙපාර්තමේන්තුව-රු-මි--1100ක්-හොයයි/11-412405) · `si`
-
-Sabaragamuwa Revenue Department: 1,100 woos. Provincial Revenue Commissioner Nandani Gunawardena reports 112.4 million rupees generated this year.
-
-🟩
-
-Provincial Revenue Commissioner Nandani Gunawardena stated that one hundred thousand Rs.
-
-Provincial Revenue Commissioner of Revenue Commissioner Nandani Gunawardena was appointed to meet the progress review of the Provincial Revenue Drawne, headed by Governor of Sabaragamuwa.
-
-Speaking further, Mrs. Nandani Gunawardena said:1124 million rupees have been generated from this year, and the year Rs.
-
-◼️
-
-[Data](articles/58ed1836.json)
-
-[Extended Data](ext_articles/58ed1836.ext.json)
-
----
-
-### The tutor to the Kandalama reservoir is completely destroyed by the above order
-
-*2024-10-09 18:33:25* · [`adalk`](https://www.ada.lk/breaking_news/ඉහලින්-ලැබුණු-නියෝගයකට-කණ්ඩලම-ජලාශයේ-ලස්සනම-තුරු-ලතා-වදුල-සම්පුර්ණයෙන්-කපා-විනාශ-කරලා/11-412403) · `si`
-
-Kandalama reservoir tutor destroyed. Mahaweli Authority rebuilds tourist hotel. Farmers protest tree felling. Accusations against contractors. Police investigation ongoing.
-
-🟩
-
-Farmers' Organization alleges that a large number of beautiful festivals in the left bank of the condalam reservoir administered by the Mahaweli Authority administered by the Mahaweli Authority of the Sri Lanka Mahaweli Authority.. On the 9th, they said they had a complaint to the Dambulla Police.
-
-The Mahaweli Authority is rebuilt by a tourist hotel that has been banned by the Mahaweli Authority.Gold Left Bank Farmers' Organization of Kandee. Ranjith Upul Kumara accused.
-
-At the request of the Farmer Organization Officials, the farmers' demands were made to see that the farmers have been identified as a blend to the ground and have made a special request for the burning of the trees.The construction of a group of people in the hotel was bragged that the Great Crime was committed by the farmers' organization.
-
-The Mahaweli Authority of Sri Lanka has bordered the wewa of the Wewa, the tank is marked and marked with the prosperity.
-
-...
-
-[Data](articles/05bac329.json)
-
-[Extended Data](ext_articles/05bac329.ext.json)
+[Extended Data](ext_articles/c5aef3e3.ext.json)
 
 ---

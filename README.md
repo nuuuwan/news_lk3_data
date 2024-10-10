@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 17:40:18**
+As of **2024-10-10 18:00:33**
 
 ## Newspaper Stats
 
-*Scraped **48,804** Articles*
+*Scraped **48,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 2,989
 dailyftlk | 3,299
 adalk | 4,531
 dailymirrorlk | 4,733
-adaderanalk | 5,763
-tamilmirrorlk | 6,626
+adaderanalk | 5,764
+tamilmirrorlk | 6,627
 virakesarilk | 7,806
-adaderanasinhalalk | 8,441
+adaderanasinhalalk | 8,442
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,802 (100.0%) of 48,804 articles have been extended.
+48,807 (100.0%) of 48,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Admiral Steve Kohler meets the president
+
+*2024-10-10 17:28:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அட்மிரல்-ஸ்டீவ்-கோஹ்லர்-ஜனாதிபதியை-சந்தித்தார்/175-345233) · `ta`
+
+US Admiral Steve Kohler meets Sri Lankan President Anura Kumara Dissanayake. Discusses Indian Ocean security, maritime awareness, disaster preparedness. Praises Sri Lanka's anti-drug efforts, offers US support against threats. Promises ongoing US naval training assistance.
+
+🟩
+
+Admiral Steve Kohler, Commanding Officer of the US Pacific Navy, (Admiral Steve Koehler, A 4-Star U.S. யா யா யா யா யா யா யா யா யா யா யா. Pacific Fleet met President Anura Kumara Dissanayake on Thursday (10).
+
+The discussion was discussed on the increasing security challenges in the Indian Ocean, upgrading awareness on maritime regions and improving the ability to face disasters.
+
+Admiral Kohler praised Sri Lanka's continued efforts against drug trafficking, promising to support Sri Lanka in fighting international threats such as drug trafficking and terrorism.
+
+Admiral Steve Kohler assured the president that the US Pacific Navy's Commanding Officer of the United States will continue to support the US's human resources training for the Naval Division.
+
+◼️
+
+[Data](articles/fd184e6c.json)
+
+[Extended Data](ext_articles/fd184e6c.ext.json)
+
+---
+
+### Intercepted commandment against Hasalaka Thushara until the case is over
+
+*2024-10-10 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202036) · `si`
+
+Hasalaka Thushara case update: TV Derana reports court summons, judicial order issued, defendant and employees restricted from contacting plaintiff. Case adjourned, next hearing date not specified. Criticism of Natha Edisuriya's reporting mentioned.
+
+🟩
+
+Tv Derana Calling the case filed against Hasalaka Thushara summoned the case against Hasalaka Thushara in Colombo District Court today.
+
+The Colombo District Judicial Sandun Withana was launched to a banned command of the case against Hasalaka Thushara against Thushara against Thushara.
+
+The defendant's staff of the complainant and the complainant's staff was issued to be avoided by him and his employee agents, including the defendant and all those who work under him.
+
+The case has been filed by Adjourn owned by Derana, demanding a price of Rs.
+
+The news has been telecast on the occasion criticizing the news of Natha Edisuriya.
+
+◼️
+
+[Data](articles/abaea340.json)
+
+[Extended Data](ext_articles/abaea340.ext.json)
+
+---
+
+### Champika’s URF pulls out of election campaign, accuse SJB of violating deal
+
+*2024-10-10 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102595/champikas-urf-pulls-out-of-election-campaign-accuse-sjb-of-violating-deal) · `en`
+
+Former Member of Parliament Patali Champika Ranawaka says that his party - the United Republic Front (URF) will not contest the 2024 Parliamentary Election.
+
+He communicated this during a media briefing held today (10).
+
+“We decided to withdraw from this election campaign.We were hoping to contest the election representing Samagi Jana Sandhanaya from 11 districts. During the nomination process, we realized that there has been a violation of the agreement that we cannot justify, so that we decided to withdraw”, he added.
+
+◼️
+
+[Data](articles/2d53884b.json)
+
+[Extended Data](ext_articles/2d53884b.ext.json)
+
+---
 
 ### Patali’s URF withdraws from 2024 General Election campaign
 
@@ -45,6 +113,8 @@ He communicated this during a media briefing held today (10).
 ◼️
 
 [Data](articles/363676ef.json)
+
+[Extended Data](ext_articles/363676ef.ext.json)
 
 ---
 
@@ -153,6 +223,8 @@ Her major international breakthrough came with the novel “The Vegetarian”.
 ...
 
 [Data](articles/5a151548.json)
+
+[Extended Data](ext_articles/5a151548.ext.json)
 
 ---
 
@@ -2319,77 +2391,5 @@ The next-day motorcycle motorcycle was taken seriously in hospital injuring he w
 [Data](articles/bdcd9320.json)
 
 [Extended Data](ext_articles/bdcd9320.ext.json)
-
----
-
-### Rathan is prevailing to live
-
-*2024-10-10 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202013) · `si`
-
-Ratan Tata, former Chairman of Tata Group, passes away after being hospitalized in Mumbai due to poor health.
-
-🟩
-
-Indian media reports that Ratnata TATA passed away former Chairman of the Indian TATA Group
-
-He was admitted to a hospital in Mumbai due to the bad health conditions and was admitted to a hospital in Mumbai.
-
-◼️
-
-[Data](articles/cf7303fb.json)
-
-[Extended Data](ext_articles/cf7303fb.ext.json)
-
----
-
-### Why is the Pacific Army chief coming to Sri Lanka?
-
-*2024-10-10 07:14:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1m9kx1pk2go) · `si`
-
-Pacific Army chief visits Sri Lanka amid US-China diplomatic event. US admiral discusses strengthening ties, addressing Indian Ocean challenges. Chinese research ship arrives, sparking security concerns.
-
-🟩
-
-The US and China is a special event to come to Sri Lanka simultaneously.
-
-At a discussion of Cabinet Decision informs, Minister Vijitha Herath said that it is expected to have similar relations with every country.
-
-The US embassy, ​​Colombo Embassy, ​​Colombo embassy and the commanding officer of the American Navy visit Sri Lanka after the year 2021, the US Navy's commanding officer Admiral Steve Keller on Thursday (Oct: 10) says.
-
-In this visit, Admiral Kalar has issued the embassy said that the US and Sri Lanka will confirm the strong cooperation between America and Sri Lanka for a strong, sustainable and open Indus.
-
-"Thank you for your kind words": President respondents to the congratulations of Heads of Heads
-
-...
-
-[Data](articles/cd0a9c0b.json)
-
-[Extended Data](ext_articles/cd0a9c0b.ext.json)
-
----
-
-### President's attention on a strategic plan for increasing income earnings
-
-*2024-10-10 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202012) · `si`
-
-President Anura Kumara Dissanayake addresses strategic plans for income increase and operational improvements. Meeting with customs and inland revenue officials discusses revenue enhancement, efficiency, and tax collection challenges. Emphasizes strong coordination between departments to prevent tax evasion and boost tax collection. Meets with foreign ambassadors to discuss economic growth, anti-corruption efforts, and development assistance from Switzerland, Germany, Thailand, and Vietnam. Focuses on improving trade and tourism cooperation with these nations.
-
-🟩
-
-President Anura Kumara Dissanayake has paid attention to the strategic plans for income and improvement of operations.
-
-Addressing a meeting with Senior Officers of the Department of Customs Department and the Inland Revenue Department, the President said the President said.
-
-It is said that the two departments of these two departments have discussed revenue and improvement of efficiency in these two departments in relation to expansion economic and regulatory reforms.
-
-The officers of both departments in both departments have informed the officers of the two departments regarding the challenges of income management and tax collection.
-
-The importance of establishing a strong coordination between the Department of Inland Revenue and the Customs Department has emphasized the importance of coordination of strong coordination between the Department of Inland Revenue and the Customs Department.
-
-...
-
-[Data](articles/97b92008.json)
-
-[Extended Data](ext_articles/97b92008.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 16:23:17**
+As of **2024-10-10 16:39:02**
 
 ## Newspaper Stats
 
-*Scraped **48,784** Articles*
+*Scraped **48,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,96 @@ economynextcom | 2,989
 dailyftlk | 3,299
 adalk | 4,529
 dailymirrorlk | 4,733
-adaderanalk | 5,760
+adaderanalk | 5,761
 tamilmirrorlk | 6,623
-virakesarilk | 7,800
+virakesarilk | 7,805
 adaderanasinhalalk | 8,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,784 (100.0%) of 48,784 articles have been extended.
+48,787 (100.0%) of 48,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### US Pacific Fleet commander meets Commander of Sri Lanka Navy
+
+*2024-10-10 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102592/us-pacific-fleet-commander-meets-commander-of-sri-lanka-navy) · `en`
+
+The Commander of the U.S. Pacific Fleet, Admiral Stephen T. Koehler, who is on an official visit to Sri Lanka has met with the Commander of the Navy, Vice Admiral Priyantha Perera at the Navy Headquarters, Colombo today (10 October).
+
+The visiting delegates received a warm welcome upon their arrival at the Navy Headquarters where the 4-star U.S. Navy Admiral was accorded a Guard of Honour in compliance with naval traditions, Sri Lanka Navy said in a statement.
+
+Subsequent discussions between Admiral Stephen T. Koehler and Vice Admiral Priyantha Perera mainly focused on rising security challenges in the Indian Ocean region, strengthen collaboration on maritime domain awareness and disaster response, reaffirm U.S. commitment to supporting Sri Lanka in combating transnational threats, discussing the growing cooperation between U.S. and Sri Lanka Navy and promoting peace and stability in the Indo-Pacific region, the statement mentioned.
+
+...
+
+[Data](articles/eae05c10.json)
+
+[Extended Data](ext_articles/eae05c10.ext.json)
+
+---
+
+### Hunter - Movie Review
+
+*2024-10-10 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195954) · `ta`
+
+Here's a 200-character summary of the movie review:
+
+
+
+"Vettayan" stars Rajinikanth as a police officer battling drug gangs and corruption. Action-packed but lacks depth, with Rajinikanth overshadowing other actors. Director's vision not fully realized due to Rajinikanth's iconic status. Music and cinematography notable highlights. Overall, an average thriller with potential unfulfilled.
+
+🟩
+
+Actors: Super Star Rajinikanth, Amithappachan, Bhagat Basil, Rana Dagupati, Manju Warrior, Dushara Vijayan, Rithika Singh, Kishore and many others.
+
+'Jai Bhim', the director's film, 'Jai Bhim', the film 'Jai Bhim', the film 'Jai Bhim', the film 'Jaiyar'Did the movie meet the expectations of the fans?Or not?We will continue to see.
+
+Super Star Rajinikanth is working as a police officer in one of the southern part of Tamil Nadu.
+
+Her task and style is to find the guilty of anti -social activities and create witnesses necessary for the law and destroy them through the encounter.
+
+Teacher Tushara Vijayan complains that a gang of drugs at this moment are hiding drugs and not allowed to enter the classroom.
+
+Seeing this, Rajinikanth, a high -ranking police officer, ordered his professional loyalist Bhagat Basil to investigate the truth of the complaint.
+
+...
+
+[Data](articles/6ff97bb1.json)
+
+[Extended Data](ext_articles/6ff97bb1.ext.json)
+
+---
+
+### Mother and daughter who tried to save life rescue by train driver
+
+*2024-10-10 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195935) · `ta`
+
+Train driver saves mother-daughter duo from tracks near Avissawela. Driver spots them on rails, stops train, rescues pair. Both injured, hospitalized.
+
+🟩
+
+The driver of the train has rescued a young mother and a three -year -old daughter who tried to put his head on the rails between the Hikurala and Miriswatta railway stations, Avissawala.
+
+The young mother has tried to put her head on the railway track with her three -year -old daughter.
+
+The driver of the train traveling from Avissawella to Colombo Fort has observed the young mother and daughter on the rails.
+
+Following this, the driver of the train stopped the train under the speed control and saved the young mother and daughter.
+
+The young mother and daughter have been taken to the Avissawella Base Hospital with 119 Ambulance Service, while the young mother and daughter have been injured.
+
+◼️
+
+[Data](articles/e47be58d.json)
+
+[Extended Data](ext_articles/e47be58d.ext.json)
+
+---
 
 ### Overseas travel ban imposed on ex-MP Johnston Fernando
 
@@ -134,6 +210,24 @@ Investigations have revealed that the railway line has been sleeping through the
 
 ---
 
+### மட்டக்களப்பு மாவட்டத்தில் மார்பக புற்று நோயால் பாதிக்கப்படுகின்ற நோயாளர்களின் எண்ணிக்கை  அதிகரிப்பு - பிராந்திய சுகாதார சேவைகள் பணிப்பாளர்
+
+*2024-10-10 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/195946) · `ta`
+
+தற்போது மார்பக புற்று நோயால் பாதிக்கப்படுகின்ற நோயாளர்களின் எண்ணிக்கை மட்டக்களப்பு மாவட்டத்திலே மிகவும் அதிகரித்து காணப்படுகின்றன. இதனை நாங்கள் விழிப்புணர்வு வழங்குவது மாத்திரமில்லாமல் முதற்கட்டமாக பெண்கள் சுய மார்பு பரிசோதனைகளை மேற்கொள்ள வேண்டும் என மட்டக்களப்பு மாவட்ட பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய அதிகாரி ஆர்.முரளீஸ்வரன் தெரிவித்துள்ளார்.
+
+மார்பக புற்று நோய் தொடர்பான விழிப்புணர்வு ஊர்வலம் வியாழக்கிழமை (10) மட்டக்களப்பு களுவாஞ்சிகுடியில் நடைபெற்றது.  இதன்போது கலந்து கொண்டு கருத்துத் தெரிவிக்கையிலேயே இவ்வாறு அவர் தெரிவித்தார்.
+
+ஒவ்வொரு சுகாதார உத்தியோகஸ்தர்களும் ஒவ்வொரு சுகாதார தூதுவர்களாக விளங்கி பணிபுரிகின்ற அனைத்து அலுவலகங்களிலும் மக்களுக்கு மார்பக புற்றுநோய் தொடர்பான விழிப்புணர்வுகளை ஏற்படுத்த வேண்டும்.
+
+மேலும், உத்தியோகஸ்தர்கள் குடும்பங்களிலும் விழிப்புணர்வுகளை ஏற்படுத்த வேண்டும், அதுவே சமூகத்தில் விழிப்புணர்வை ஏற்படுத்தக் கூடியதாக அமையும்.
+
+...
+
+[Data](articles/4a5c7dc0.json)
+
+---
+
 ### Former State Minister Shehan Semasinghe does not go to the general election
 
 *2024-10-10 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202031) · `si`
@@ -234,6 +328,22 @@ The statement also emphasized that the Postal Department offers the public the o
 
 ---
 
+### வன்னியில் பொதுமக்கள் முன்னணி வேட்புமனுத் தாக்கல்
+
+*2024-10-10 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195940) · `ta`
+
+வன்னி மாவட்டத்தில் பாராளுமன்ற தேர்தலுக்கான  வேட்புமனுவினை பொதுமக்கள் முன்னணி இன்று வியாழக்கிழமை (10) தாக்கல் செய்தது.
+
+எதிர்வரும் நவம்பர் மாதம் இடம்பெறவுள்ள பாராளுமன்ற தேர்தலில் வன்னித்தேர்தல் மாவட்டத்தில் முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ச  தலைமையிலான பொதுமக்கள் முன்னணி மொட்டு சின்னத்தில் போட்டியிடுகின்றது.
+
+இந்நிலையில் வவுனியா மாவட்ட செயலகத்தில் அமைந்துள்ள தேர்தல் காரியாலத்தில் இன்றையதினம்  மதியம் வேட்புமனுவினை தாக்கல் செய்தனர்.
+
+◼️
+
+[Data](articles/50f6993d.json)
+
+---
+
 ### Will she come?Young man waiting with papa
 
 *2024-10-10 14:44:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவள்-வருவளா-பாப்பாவுடன்-காத்திருக்கும்-இளைஞன்/175-345222) · `ta`
@@ -261,6 +371,24 @@ Meanwhile, in a room, a child and young man are alone in the police emergency ca
 [Data](articles/c7268d0b.json)
 
 [Extended Data](ext_articles/c7268d0b.ext.json)
+
+---
+
+### நுவரெலியாவில் ஈரோஸ் ஜனநாயக முன்னணி வேட்பு மனு தாக்கல்
+
+*2024-10-10 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/195938) · `ta`
+
+எதிர்வரும் பாராளுமன்ற பொது தேர்தலில் நுவரெலியா மாவட்டத்தில் போட்டியிடுவதற்கான வேட்பு மனுவை ஈரோஸ் ஜனநாயக முன்னணி நேற்று புதன்கிழமை  (09) மாலை நுவரெலியா மாவட்ட செயலகத்தில் மாவட்ட தேர்தல் தெரிவத்தாட்சி அதிகாரியும் மாவட்ட செயலாளருமான நந்தன கலபடவிடம்  தாக்கல் செய்தது.
+
+ஈரோஸ் ஜனநாயக முன்னணியின் செயலாளர் இரா.ஜீவன் ராஜேந்திரன் மற்றும் முன்னணியின் சார்பில்  இணைந்து இம்முறை நுவரெலியா மாவட்டத்தில் வேட்பாளராக போட்டியிடும் சட்டத்தரணி சுப்பிரமணியம் காண்டீபன்  ஆகியோர் மாவட்ட செயலகத்திற்கு வருகை தந்து வேட்பு மனுவை தாக்கல் செய்தனர்.
+
+நுவரெலியா மாவட்டத்தில் ஈரோஸ் ஜனநாயக முன்னணி அரசியல் கட்சியாக நாடாளுமன்ற தேர்தலில்  முதல் முறையாக வேட்பு மனு தாக்கல் செய்துள்ளதாக தெரிவித்தார்.
+
+அதேநேரத்தில் இம்முறை நடைபெறவுள்ள நாடாளுமன்ற தேர்தலில் இலங்கையில் நான்கு மாவட்டங்களில் ஈரோஸ் ஜனநாயக முன்னணி போட்டியிடவுள்ளதாகவும் தேர்தலில் ஒலிபெருக்கி சின்னத்தில் போட்டியிடவுள்ளதாகவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/ed86ec0d.json)
 
 ---
 
@@ -2247,205 +2375,5 @@ Ambassador Neumann emphasised the longstanding partnership between Germany and S
 [Data](articles/12484c56.json)
 
 [Extended Data](ext_articles/12484c56.ext.json)
-
----
-
-### Swiss Ambassador pledges support to President on economic and anti-corruption efforts
-
-*2024-10-10 04:22:21* · [`dailyftlk`](https://www.ft.lk/news/Swiss-Ambassador-pledges-support-to-President-on-economic-and-anti-corruption-efforts/56-767775) · `en`
-
-Ambassador Extraordinary and Plenipotentiary of Switzerland to Sri Lanka Dr. Siri Walt yesterday held a meeting with President Anura Kumara Dissanayake.
-
-During the meeting, Ambassador Walt extended her congratulations to President Dissanayake on his recent election victory, conveying best wishes on behalf of the Government and people of Switzerland.
-
-Ambassador Walt reaffirmed Switzerland’s commitment to supporting Sri Lanka, particularly through the ongoing IMF program, and expressed Switzerland’s readiness to assist President Dissanayake’s efforts to combat corruption. She also emphasised Switzerland’s expertise in foreign direct investments (FDIs) and tourism, offering assistance to Sri Lanka in these sectors to promote economic growth.
-
-Further areas of collaboration discussed included constitutional reforms and labour migration, with Ambassador Walt noting Sri Lanka’s potential in these areas and pledging Switzerland’s support in facilitating progress.
-
-...
-
-[Data](articles/9ba54309.json)
-
-[Extended Data](ext_articles/9ba54309.ext.json)
-
----
-
-### US Admiral visits Sri Lanka today, strengthening bilateral security cooperation
-
-*2024-10-10 04:20:37* · [`dailyftlk`](https://www.ft.lk/news/US-Admiral-visits-Sri-Lanka-today-strengthening-bilateral-security-cooperation/56-767774) · `en`
-
-The US Embassy in Sri Lanka yesterday announced that Admiral Steve Koehler, a 4-star US Navy Admiral and Commander of US Pacific Fleet, will visit Sri Lanka today, marking the highest-level US military visit to the country since 2021.
-
-During the visit, Admiral Koehler will reaffirm the strong partnership between the United States and Sri Lanka for an enduring, resilient, free and open Indo-Pacific.
-
-Admiral Koehler will engage with senior Sri Lankan officials to discuss rising security challenges in the Indian Ocean region, strengthen collaboration on maritime domain awareness and disaster response, reaffirm US commitment to supporting Sri Lanka in combating transnational threats, and discuss the growing cooperation between US and Sri Lankan forces.
-
-This visit underscores the United States’ strong commitment to strengthening security ties with Sri Lanka, a key partner in promoting peace and stability in the Indo-Pacific region.
-
-◼️
-
-[Data](articles/bdf0fd16.json)
-
-[Extended Data](ext_articles/bdf0fd16.ext.json)
-
----
-
-### Institute of Policy Studies Chief advocates fiscal austerity measures
-
-*2024-10-10 03:47:00* · [`dailyftlk`](https://www.ft.lk/business/Institute-of-Policy-Studies-Chief-advocates-fiscal-austerity-measures/34-767769) · `en`
-
-Launches ‘Sri Lanka: State of the Economy 2024’ report with theme “Economic Scars of Multiple Crises: From Data to Policy”
-
-The Institute of Policy Studies (IPS) on Tuesday hosted a knowledge sharing and networking event to launch its annual flagship report ‘Sri Lanka: State of the Economy 2024: Economic Scars of Multiple Crises: From Data to Policy.’
-
-The report analyses the policies implemented to curb the fallout of the 2022 economic crisis-its varying impacts on stakeholders, and the measures taken to aid the financially vulnerable populations of the country through data driven evidence.
-
-IPS Executive Director Dr. Dushni Weerakoon reiterated that despite a 4% rise in GDP growth post the recent crisis, output levels still remain significantly lower than 2018 and 2019 levels.
-
-...
-
-[Data](articles/6f3c1432.json)
-
-[Extended Data](ext_articles/6f3c1432.ext.json)
-
----
-
-### Advocata Institute congratulates President Anura Kumara Dissanayake
-
-*2024-10-10 03:35:10* · [`dailyftlk`](https://www.ft.lk/business/Advocata-Institute-congratulates-President-Anura-Kumara-Dissanayake/34-767768) · `en`
-
-The Advocata Institute has extended its heartfelt congratulations to President Anura Kumara Dissanayake on his election as the ninth Executive President of the Democratic Socialist Republic of Sri Lanka.
-
-In a message addressed to the President, Advocata Institute Chairman Murtaza Jafferjee and CEO Dhananath Fernando acknowledged the trust and confidence placed in President Dissanayake by the people of Sri Lanka.
-
-They expressed optimism that his leadership will guide the country towards a more prosperous and equitable future.
-
-“As an independent policy think tank committed to advancing economic freedoms and improving the well-being of Sri Lankans through economic prosperity, we believe your tenure offers a unique opportunity to pursue meaningful reforms that will continue economic stability, promote sustainable growth, enhance governance, and uplift the living standards of all citizens,” Jafferjee said.
-
-...
-
-[Data](articles/f0cb4d88.json)
-
-[Extended Data](ext_articles/f0cb4d88.ext.json)
-
----
-
-### Are you concerned about your adolescent child's mental condition?
-
-*2024-10-10 02:12:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy4d1lxnjg3o) · `si`
-
-Here's a summary of the key points from the article:
-
-
-
-1. Increasing mental health issues among adolescents:
-
-   - Suicide thoughts and self-harm tendencies have doubled in recent years
-
-   - Stress levels have increased compared to the past
-
-   - Factors contributing to mental health problems include economic crisis, social media, and electronic screens
-
-
-
-2. Impact of technology on children:
-
-   - Excessive screen time increases anxiety and vision problems
-
-   - Reduces interaction with real-world friends and deepens friendships online
-
-   - Parents busy with work and not listening to children's needs
-
-
-
-3. Parent-child communication:
-
-   - Children often prioritize entertainment over talking to parents
-
-   - Parents unaware of their child's mental health issues because children don't speak up
-
-   - Importance of maintaining open dialogue between parents and children
-
-
-
-4. Maintaining father-daughter relationships:
-
-   - Cultural differences can hinder relationship-building
-
-   - Suggestions for engaging in conversations about interests like astronomy or books
-
-
-
-5. Identifying stress in children:
-
-   - Signs include irritability, sleep disturbances, loss of appetite, and depression
-
-   - Immediate action required if these symptoms persist
-
-
-
-6. Seeking professional help:
-
-   - Consult government doctors or psychiatrists if concerned about a child's mental health
-
-   - National Mental Health Institute's 1926 hotline for advice
-
-
-
-7. Teacher's role in schools:
-
-   - Recognizing signs of depression in students
-
-   - Directing students to school counselors or mental health professionals
-
-
-
-8. Limitations in Sri Lanka:
-
-   - Lack of specialist psychiatrists compared to Western countries
-
-   - Need for increased awareness and education on mental health issues
-
-
-
-The article emphasizes the importance of addressing mental health concerns among adolescents and highlights the need for better communication between parents and children, as well as increased awareness and support systems in Sri Lanka.
-
-🟩
-
-During the nearly few months, suicides were events in the country.
-
-Police have confirmed that some of the events are connected together. Why do children tend to do so harmful to him in this way?
-
-How can you redeem your child or your school or student of your school or student?BBC is a search for the Sinhala in this regard.
-
-'The tendency to harm them has doubled'
-
-In recent years, the Ragama Medical College, Specialist and Professor of Children and Young People Ask (Psyya) and professor of Young People and Young Peoples pointed out that suicide thoughts have been increased in recent years.
-
-The professor said that the tendency to harm the body of adopt was doubled.
-
-...
-
-[Data](articles/7af59b2d.json)
-
-[Extended Data](ext_articles/7af59b2d.ext.json)
-
----
-
-### Misinformation lovingly brought to you by Big Tech
-
-*2024-10-10 01:53:48* · [`dailyftlk`](https://www.ft.lk/columns/Misinformation-lovingly-brought-to-you-by-Big-Tech/4-767758) · `en`
-
-Teens spend on average five hours a day on social media, of their nine hours on screens
-
-Hiding under a lobby group called NetChoice, it’s anything but
-
-I keep tabs on misinformation, and its close cousin, disinformation for a simple reason. I teach a computer class. These topics are all part of an ecosystem that students didn’t have to worry about, say, a decade ago. I am talking about phenomena such as data harvesting, trolls, linkbait, sexting, two-factor authentication, ransomware and the whole nine yards of cyber security that IT administrators –and now the rest of us–lose sleep over.
-
-...
-
-[Data](articles/299779c3.json)
-
-[Extended Data](ext_articles/299779c3.ext.json)
 
 ---

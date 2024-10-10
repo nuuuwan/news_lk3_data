@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 18:59:32**
+As of **2024-10-10 19:11:53**
 
 ## Newspaper Stats
 
-*Scraped **48,823** Articles*
+*Scraped **48,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,997
 dailyftlk | 3,299
 adalk | 4,535
 dailymirrorlk | 4,733
-adaderanalk | 5,765
+adaderanalk | 5,766
 tamilmirrorlk | 6,628
 virakesarilk | 7,806
 adaderanasinhalalk | 8,443
@@ -26,25 +26,49 @@ adaderanasinhalalk | 8,443
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,819 (100.0%) of 48,823 articles have been extended.
+48,823 (100.0%) of 48,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
 
-### தாமரைக் கோபுர சம்பவம்;பெற்றோருக்கு அறிவித்தல்
+### US gifts advanced aircraft to bolster Sri Lanka’s maritime security
+
+*2024-10-10 18:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102598/us-gifts-advanced-aircraft-to-bolster-sri-lankas-maritime-security) · `en`
+
+At a ceremony held today at Sri Lanka Air Force Base in Katunayake, U.S. Navy Admiral Steve Koehler, commander of the U.S. Pacific Fleet, officially handed over a Beechcraft King Air 360ER aircraft, gifted by the United States, to the Sri Lanka Air Force (SLAF).
+
+The event, attended by U.S. Ambassador Julie Chung, Secretary to the Ministry of Defense Air Vice Marshal Sampath Thuyacontha (Retd), and Commander of the Sri Lanka Air Force Air Marshal Udeni Rajapaksa, marked the handover of this advanced aircraft—a symbol of the enduring U.S.-Sri Lanka partnership and a crucial step in strengthening Sri Lanka’s maritime security and sovereignty, the US Embassy in Colombo said in a statement.
+
+Equipped with cutting-edge surveillance technology, the King Air will strengthen Sri Lanka’s ability to patrol its waters, counter maritime threats, and secure vital trade routes in the Indian Ocean, the statement added.
+
+...
+
+[Data](articles/ef9438c2.json)
+
+---
+
+### Lotus Tower incident; notification to parents
 
 *2024-10-10 18:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரைக்-கோபுர-சம்பவம்-பெற்றோருக்கு-அறிவித்தல்/175-345235) · `ta`
 
-தாமரை கோபுரத்தில் இருந்து 16 வயது சிறுமி ஒருவர் தவறி விழுந்து உயிரிழந்த சம்பவத்தை அடுத்து, மனநல நிபுணர்கள் பெற்றோர்கள் அவர்களின் பிள்ளைகளின் மனநலத்தில் அதிக கவனம் செலுத்துமாறு வலியுறுத்தியுள்ளனர்.
+Lotus Tower incident: 16-year-old girl's death prompts mental health awareness. Parents urged to monitor children's behavior changes, mood swings, and prolonged irritability. Expert advises open communication and seeking professional help if symptoms persist.
 
-டெய்லி மிரருடன் பேசிய ஆலோசகர் மனநல வைத்தியர் சமன் வீரவர்தன, பல இளம் பருவத்தினர் மன அழுத்திலிருக்கும் போது அது குறித்த அறிகுறியைக் காட்டாமல் தனிமையில் போராடுவதாகவும் அதன் அறிகுறிகளை முன்கூட்டியே அறிந்துகொள்வதன் முக்கியத்துவத்தையும் வலியுறுத்தினார்.
+🟩
 
-"நண்பர்கள் மற்றும் குடும்பத்தினரிடம் இருந்து விலகிச் செல்வது, திடீர் மனநிலை மாறாட்டங்கள் போன்ற அவர்களின் நடத்தையில் ஏற்படும் மாற்றங்களை பெற்றோர்கள் அறிந்துகொள்வது முக்கியமானது” என்று வைத்தியர் வீரவர்தன சுட்டிக்காட்டினார்.
+In the wake of the death of a 16 -year -old girl from the Lotus Tower, mental health and parents have urged their parents to pay more attention to the mental health of their children.
+
+Speaking to the Daily Mirror, Advisor Psychiatrist Saman Veeravardhana emphasized that many adolescents are struggling in solitude without showing the sign of it and the importance of knowing its symptoms.
+
+"It is important for parents to know the changes in their behavior, such as moving away from friends and family and sudden mood change," the doctor Veeravardena pointed out.
+
+He also focused on the tragedy or irritation that lasts more than two weeks, the lack of interest in entertainment or others and the change in sleep systems, appetite or educational performance.. He also warned that speeches such as hopeless feeling or wanting to escape from life should not be ignored.
 
 ...
 
 [Data](articles/8728218c.json)
+
+[Extended Data](ext_articles/8728218c.ext.json)
 
 ---
 
@@ -98,23 +122,35 @@ This order was issued by Colombo District Judge Sandun Vithana, when the relevan
 
 [Data](articles/64a073d7.json)
 
+[Extended Data](ext_articles/64a073d7.ext.json)
+
 ---
 
-### හිටපු සුරාබදු කොමසාරිස් ඇතුළු 4ක් නොවැ. 10 තෙක් රට නොයන බව කියයි
+### Former Excise Commissioner and 4 others. Tells the country 10
 
 *2024-10-10 18:20:36* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-සුරාබදු-කොමසාරිස්-ඇතුළු-4ක්-නොවැ--10-තෙක්-රට-නොයන-බව-කියයි/11-412429) · `si`
 
-නොවැම්බර් මස 10 වැනිදා තෙක් තමන් විදේශගත නොවන බවට හිටපු සුරාබදු කොමසාරිස් ජනරාල් එම්.ජේ. ගුණසිරි මහතා ඇතුළු සුරාබදූ නිලධාරීන් සිව්දෙනකු සිය නීතීඥවරයා මාර්ගයෙන් ශ්‍රේෂ්ඨාධිකරණයට අද (10) පොරොන්දු වුහ.
+Former Excise Commissioner denies traveling abroad until Nov 10. Four family members promise Supreme Court. Case adjourned to Nov 6 after hearing arguments.
 
-සුරාබදු කොමසාරිස් ජනරාල් එම්.ජේ. ගුණසිරි මහතා ඇතුළු සුරාබදූ නිලධාරීන් විදේශ ගතවීමේ සූදානමක් ඇති බවට තොරතුරු ලැබී ඇතැයි කියමින් ඔවුන්ට එරෙහිව විදෙස් ගමන් තහනමක් පනවන්නැයි ඉල්ලා ගොනු කර  තිබූ මෝෂම කැඳවූ අවස්ථාවේදී ඔවුන් වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා මේ බව දැනුම් දුන්නේය.
+🟩
 
-වැඩබලන අගවිනිසුරු මුර්දු ප්‍රනාන්දු, ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් දිලීප් නවාස්, සහ ජනක් ද සිල්වා යන මහත්මමහත්මීන් ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ මෙම මෝසම සලකා බැලීණි.
+Former Excise Commissioner General MJ says he is not abroad until November 10. Four of four families including Mr. Gunasiri promised the Supreme Court today (10).
 
-පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි නීතිඥ මනුජය ද සිල්වා මහතා කරුණු දක්වමින් කැබිනට් මණ්ඩල තීරණයකට අනුව වගඋත්තරකාර සුරාබදුන් කොමසාරිස් ජනරාල්වරයා අදාළ තනතුරෙන් මේ වන විට ඉවත් කර ඇතැයි කීය.
+Commissioner General of Excise MG. Attorney-at-Law Romesh de Silva, who appeared to them to be taken up for a foreign travel ban against them, said that the mosque had been called for a foreign flight attempt to go abroad.
+
+Acting Chief Justice Mrsrum Fernando, Supreme Court Justice Dilipa De Silva, considers the monsoon in the face of a panel of judges.
+
+Attorney Man Manjaya de Silva, appearing on behalf of the petitioner, has been removed from the post of Cabinet decision.
+
+At the same post, he said he had been ordered to issue liquor license not to issue liquor licenses, but he is expected to be allegedly licensed in the courts, but he is expected to be allegedly permitted to contempt of it.Much, he said.
+
+President's Counsel Romesh de Silva, who appeared for the respondents, said that there is no need to apply for their clients.
 
 ...
 
 [Data](articles/f95fe410.json)
+
+[Extended Data](ext_articles/f95fe410.ext.json)
 
 ---
 
@@ -1520,6 +1556,8 @@ Recently, I was involved in a project with the World Health Organization (WHO) t
 
 [Data](articles/7ca45c43.json)
 
+[Extended Data](ext_articles/7ca45c43.ext.json)
+
 ---
 
 ### Film shooting;2 crore 30 lakhs to the train department
@@ -2303,27 +2341,5 @@ At a special seminar held yesterday, it was decided that the Department of Healt
 [Data](articles/84ebda80.json)
 
 [Extended Data](ext_articles/84ebda80.ext.json)
-
----
-
-### A sudden fire on a bus
-
-*2024-10-10 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202019) · `si`
-
-Bus fire destroys vehicle near Colombo; 50+ passengers evacuated safely. Local residents assist in extinguishing flames. Incident occurs en route to Embilipitiya.
-
-🟩
-
-A private bus from Colombo to Embilipitiya has been destroyed in the Madampe Kammpaya area.
-
-It is reported that nearly 1. fifty passengers have sat at the bus.
-
-With the help of the people of the area, the fire has been managed, but the bus has completely destroyed.
-
-◼️
-
-[Data](articles/50130f0e.json)
-
-[Extended Data](ext_articles/50130f0e.ext.json)
 
 ---

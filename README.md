@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 14:24:39**
+As of **2024-10-10 14:39:09**
 
 ## Newspaper Stats
 
-*Scraped **48,768** Articles*
+*Scraped **48,769** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 485
 islandlk | 2,884
 economynextcom | 2,989
 dailyftlk | 3,299
-adalk | 4,524
+adalk | 4,525
 dailymirrorlk | 4,733
 adaderanalk | 5,756
 tamilmirrorlk | 6,619
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,768 (100.0%) of 48,768 articles have been extended.
+48,769 (100.0%) of 48,769 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1312,6 +1312,28 @@ He was later revealed to the police that the stock was brought to Colombo on his
 
 ---
 
+### New Chairman of SriLankan
+
+*2024-10-10 09:15:09* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලන්කන්-වෙත-නව-සභාපතිවරයෙක්/11-412415) · `si`
+
+Sarath Ganegoda appointed new Chairman of SriLankan Airlines. Leading businessman, group executive director of Hitlis, chartered accountant, and University of Sri Jayewardenepura graduate. Appointed on October 9th.
+
+🟩
+
+SriLankanan Institutional Corporate Communications Division, SriLraban Institutional Corporate Communication Division (CSE), the head of the SriLraban Airlines Corporate Communications, stated that a new Chairman of Sri Lanka has appointed a new Chairman of SriLankan Airlines 10/09.
+
+Mr. Sarath Ganegoda is a leading businessman in Sri Lanka and he is as a group executive director of Hitlis.
+
+He is also a member of the Institute of Chartered Accountants of Sri Lanka, a graduate with the business administration of the University of Sri Jayewardenepura.
+
+◼️
+
+[Data](articles/1787ede5.json)
+
+[Extended Data](ext_articles/1787ede5.ext.json)
+
+---
+
 ### 139 officers and 1,273 other ranks promoted to mark 75th army anniversary
 
 *2024-10-10 09:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102576/139-officers-and-1273-other-ranks-promoted-to-mark-75th-army-anniversary) · `en`
@@ -2395,21 +2417,5 @@ As part of the Charoen Pokphand Foods Public Company Limited (CPF) Thailand, Nor
 [Data](articles/82b80cfa.json)
 
 [Extended Data](ext_articles/82b80cfa.ext.json)
-
----
-
-### ComBank supports WNPS PLANT project to reforest the banks of Maskeli Oya
-
-*2024-10-09 22:52:00* · [`islandlk`](http://island.lk/combank-supports-wnps-plant-project-to-reforest-the-banks-of-maskeli-oya/) · `en`
-
-The Commercial Bank of Ceylon has expanded its wide-ranging commitment to sustainability with a pledge of support to a project to reforest a part of a nine-kilometer stretch of the banks of the Maskeli Oya, a major upstream tributary of the Kelani river.
-
-A memorandum of understanding (MoU) signed by the Bank with Preserving Land and Nature (Guarantee) Ltd, or PLANT, an initiative of the Wildlife and Nature Protection Society (WNPS), envisages that Commercial Bank will fund the planting of 3,650 plants on land strips parallel to the Maskeli Oya waterway, contributing to environmental conservation, including carbon sequestration, forest corridor creation, soil erosion prevention, and the creation of a sustainable habitat for local fauna.
-
-...
-
-[Data](articles/63867f55.json)
-
-[Extended Data](ext_articles/63867f55.ext.json)
 
 ---

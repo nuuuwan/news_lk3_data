@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 19:57:27**
+As of **2024-10-10 20:10:58**
 
 ## Newspaper Stats
 
-*Scraped **48,832** Articles*
+*Scraped **48,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,299
 adalk | 4,536
 dailymirrorlk | 4,733
 adaderanalk | 5,767
-tamilmirrorlk | 6,628
+tamilmirrorlk | 6,629
 virakesarilk | 7,810
 adaderanasinhalalk | 8,444
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,832 (100.0%) of 48,832 articles have been extended.
+48,833 (100.0%) of 48,833 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -121,6 +121,32 @@ At the same time, he is the Bayng ball to Elvin Mo Ang (Lwin Moe Aung - No. 7) m
 [Data](articles/2848a3b5.json)
 
 [Extended Data](ext_articles/2848a3b5.ext.json)
+
+---
+
+### Peak
+
+*2024-10-10 19:08:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறைக்கு-அதி-உச்ச-பாதுகாப்பு/175-345237) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Kalutara District police prepare for election day: 1000 officers on duty, 350 in riot unit, roadblocks to disperse protests. Security measures at police division level.
+
+🟩
+
+Deputy Inspector General of Police Laksiri Wijesena, who is in charge of the Kalutara District, said that about 1000 police officers across the Kalutara district will be on duty for special protection tomorrow (11), the last day of the nomination for the parliamentary elections to be held on November 14.
+
+Accordingly, the Kalutara District Secretariat has taken steps to construct police roads and establish the riot unit, with a group of about 350 police officers.
+
+He added that there will be roadblocks throughout the day to dissolve the protest groups and security arrangements will be made at the level of the respective police divisions.. Remble
+
+◼️
+
+[Data](articles/b072d8f2.json)
+
+[Extended Data](ext_articles/b072d8f2.ext.json)
 
 ---
 
@@ -2327,27 +2353,5 @@ He has further highlighted that neither he nor his party will contribute to maki
 [Data](articles/1e94bc8c.json)
 
 [Extended Data](ext_articles/1e94bc8c.ext.json)
-
----
-
-### Sri Lanka rupee opens flat at 293.05/15 to US dollar, bond yields steady
-
-*2024-10-10 10:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-293-05-15-to-us-dollar-bond-yields-steady-183049/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading flat at 293.05/15 to the US dollar on Thursday, from 293.00/20 a day earlier, while bond yields were steady dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 11.45/50 percent, from 11.40/55 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.75/85 percent, down from 11.70/80 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.00/05 percent, up from 11.95/12.05 percent.
-
-In equities, Colombo’s All Share Price Index was trading 0.11 percent, or 12.96 points lower at 12,139, while the S&P SL20 of more liquid stocks was trading down 0.25 percent or 8.90 points lower at 3,584.
-
-◼️
-
-[Data](articles/5e70975d.json)
-
-[Extended Data](ext_articles/5e70975d.ext.json)
 
 ---

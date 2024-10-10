@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 23:39:13**
+As of **2024-10-10 23:59:14**
 
 ## Newspaper Stats
 
-*Scraped **48,855** Articles*
+*Scraped **48,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,82 @@ dbsjeyarajcom | 400
 colombotelegraphcom | 485
 bbccomsinhala | 486
 islandlk | 2,884
-economynextcom | 2,998
+economynextcom | 3,000
 dailyftlk | 3,299
-adalk | 4,539
+adalk | 4,540
 dailymirrorlk | 4,733
 adaderanalk | 5,770
 tamilmirrorlk | 6,631
-virakesarilk | 7,817
+virakesarilk | 7,818
 adaderanasinhalalk | 8,450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,855 (100.0%) of 48,855 articles have been extended.
+48,859 (100.0%) of 48,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### West Indies won by 8 wickets, but the semi -final chance is not sure
+
+*2024-10-10 23:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195987) · `ta`
+
+West Indies won by 8 wickets against Bangladesh. They scored 104/2 in 12.5 overs. Captain Hailie Methous and Stephanie Taylor shared 52 runs. Bangladesh scored 103/8 in 20 overs. Karishma Ramharak took 4/17. Semi-final chances uncertain.
+
+🟩
+
+The West Indies won the West Indies to win 43 balls in the Sharjah Cricket Stadium on Thursday night (10).
+
+The 4 wickets pile recorded by Karishma Ramharak and Haley Methouses have made the West Indies success easily.
+
+With this victory, the West Indies are in the first place in the team's teams, but its semi -final chance is still not sure.
+
+The West Indies lost only 2 wickets in 12.5 overs, scoring 104 runs in response to a good winning target of 104 runs for Bangladesh.
+
+Team captain Hailie Methous and Stephanie Taylor shared 52 runs off 45 balls.
+
+On the other hand, Stephanie Taylor, who was in trouble with the muscles, retired by the tribulation while scoring 27 runs.
+
+Diendra Dott's 19 runs and Sinell Henry did not lose the game.
+
+Both Varna Akhtar and Nahida Akhtar took one wicket each.
+
+Earlier, Bangladesh were bowled out for 103 runs for the loss of 8 wickets in 20 overs.
+
+Bangladesh lost 2 wickets in the 13th over and scored 73 runs.
+
+Tilara Akhtar scored 19 runs and Sohana Mostari 16 runs.
+
+...
+
+[Data](articles/74ac81e5.json)
+
+[Extended Data](ext_articles/74ac81e5.ext.json)
+
+---
+
+### Sri Lanka’s former ministers withdraw from upcoming elections
+
+*2024-10-10 22:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-former-ministers-withdraw-from-upcoming-elections-183156/) · `en`
+
+ECONOMYNEXT – Several prominent Sri Lankan politicians who previously held senior ministerial positions have announced they will not be contesting in the upcoming parliamentary elections, citing limited political opportunities.
+
+Among those stepping down are former Transport Minister Bandula Gunawardena, former Justice Minister Wijeyadasa Rajapakshe, former Speaker of the Parliament Mahinda Yapa Abeywardena, former State Finance Minister Shehan Semasinghe, former Chief Opposition Whip Lakshman Kiriella, National Freedom Alliance leader Wimal Weerawansa, former Megapolis Minister Champika Ranawaka, and former Transport Minister Gamini Lokuge.
+
+This decision comes after the National People’s Power (NPP), led by the Janatha Vimukthi Peramuna (JVP), secured victory in the recent presidential election, with Anura Kumara Dissanayake winning the presidency.
+
+Political analysts say NPP candidates are likely to succeed in the November 14 general elections against a fragmented opposition.
+
+...
+
+[Data](articles/58df5d40.json)
+
+[Extended Data](ext_articles/58df5d40.ext.json)
+
+---
 
 ### Brooke, root double century;Dominated with England achievements in Test match with Pakistan
 
@@ -187,6 +245,28 @@ The Police Commission has granted permission to re -appoint former Senior Superi
 [Data](articles/65b5b92a.json)
 
 [Extended Data](ext_articles/65b5b92a.ext.json)
+
+---
+
+### Riyad-bound Sri Lankan Airline returns after mid-air technical issue
+
+*2024-10-10 21:54:00* · [`economynextcom`](https://economynext.com/riyad-bound-sri-lankan-airline-returns-after-mid-air-technical-issue-183153/) · `en`
+
+ECONOMYNEXT – A Riyad-bound Sri Lankan Airlines flight returned to Colombo after it encountered a technical issue after taking off, the state-owned carrier said.
+
+“SriLankan Airlines confirms that Flight UL 265 from Colombo to Riyadh safely returned to Colombo as a precautionary measure after encountering a technical issue mid-flight,” the SriLankan Airlines said in a statement.
+
+“The aircraft landed without incident at approximately 19:00 hrs Sri Lanka time this evening (10 October 2024). All passengers have been provided with hotel accommodation and rebooked for the next available flight.”
+
+SriLankan Airlines’ restructuring process has been stopped after it failed to find an appropriate investor despite a tender process.
+
+The Airline, which once was profitable under Dubai-based Emirates management, has witnessed a raft of technical issues in Colombo as well as foreign airports recently. (Colombo/October 10/2024)
+
+◼️
+
+[Data](articles/db015101.json)
+
+[Extended Data](ext_articles/db015101.ext.json)
 
 ---
 
@@ -573,6 +653,30 @@ He added that there will be roadblocks throughout the day to dissolve the protes
 [Data](articles/b072d8f2.json)
 
 [Extended Data](ext_articles/b072d8f2.ext.json)
+
+---
+
+### 1412 Army promotions
+
+*2024-10-10 18:58:08* · [`adalk`](https://www.ada.lk/breaking_news/යුද-හමුදාවේ-1412කට-උසස්වීම්/11-412435) · `si`
+
+1412 Army promotions: 13 officers, 1273 corporals, 131 captains, 8 lieutenants, 99 staff sergeants, 111 lance corporals.
+
+🟩
+
+Thirteen Army officers and 1,273 were officially promoted to 1,273 corporations in parallel to the 75th anniversary of the Army.
+
+The recommendation of the President of the Ministry of Defense and the Commander of the Army Commander President Anura Kumara Dissanayake has been able to promote 1,412 permanent and voluntary arrangements.
+
+Accordingly, 131 officers and equipment governing officers were promoted to Captain Officers and eight officers of the second Lieutenant officials.
+
+Also, 99 senior officials of the staff II of the Staff Service, a senior official II of the staff of the staff, the official, officer of the staff, and the official officials of the staff sergeant was officially unzacked officials of the staff of the Sergeant, the official sector II of the Permanent and Voluntary Corporation.The company has promoted 111 non-commissioners officials from the official officials of the Lance Corporal.
+
+◼️
+
+[Data](articles/b070e338.json)
+
+[Extended Data](ext_articles/b070e338.ext.json)
 
 ---
 
@@ -2293,87 +2397,5 @@ The Navy and the 21 fishermen who took the arrested persons and the boats to the
 [Data](articles/810aa594.json)
 
 [Extended Data](ext_articles/810aa594.ext.json)
-
----
-
-### Workplace Mental Health: A Foundation For Growth & Inclusivity
-
-*2024-10-10 12:16:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/workplace-mental-health-a-foundation-for-growth-inclusivity/) · `en`
-
-Does mental health and well-being impact productivity, creativity, and absenteeism in the workplace? The answer is a resounding yes. Poor mental health can significantly hinder an employee’s ability to focus, innovate, and collaborate effectively, leading to decreased productivity. Depression and anxiety alone result in the loss of approximately 12 billion workdays each year, costing the global economy around US$1 trillion annually. On the other hand, when employees are mentally healthy, they tend to be more engaged, resilient, and creative, contributing to higher organizational performance.
-
-Recently, I was involved in a project with the World Health Organization (WHO) that reviewed scientific evidence on what works in improving the mental health of health and care workers—an area that was often neglected but gained significant attention during the COVID-19 pandemic.
-
-...
-
-[Data](articles/7ca45c43.json)
-
-[Extended Data](ext_articles/7ca45c43.ext.json)
-
----
-
-### Film shooting;2 crore 30 lakhs to the train department
-
-*2024-10-10 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195919) · `ta`
-
-Sri Lanka Railway Department announces bridge closure for film shoot. Nine arches closed Oct 15-31. Trains rerouted. Tourist arrivals expected to increase.
-
-🟩
-
-2 crore 30 lakhs has been given to the Railway Department for the shooting of the Sri Lanka -Indian joint venture.
-
-The Sri Lanka Railways Department has announced that nine arches from Wednesday (09) from October 15 will be shut down from the Bridge, the hill station services from Colombo and Kandy.
-
-From 7:30 am to 5:30 pm. Similarly, the trains in the opposite direction will depart from Ella or Bandarawa instead of Badulla during this period. Travelers are advised to plan according to this announcement.
-
-The decision has been made for the film cinematographers in Sri Lanka -Indian joint venture at the 9 -Curved Bridge between Ella and Temodara in the hill country.
-
-The railway department said that the move would be carried out with the permission of the Ministry of Transport to increase the arrival of tourists.
-
-◼️
-
-[Data](articles/0a0ec11a.json)
-
-[Extended Data](ext_articles/0a0ec11a.ext.json)
-
----
-
-### An Italian war ship arrives at the Port of Colombo
-
-*2024-10-10 12:07:40* · [`adalk`](https://www.ada.lk/picture_story/ඉතාලි-යුද-නැවක්-කොළඹ-වරායට-පැමිණෙයි/10-412419) · `si`
-
-Italian warship PPA Montecuccoli visits Colombo Port on official tour. Scheduled to meet Sri Lanka Navy officials and conduct training exercises before departing on October 13, 2024.
-
-🟩
-
-The 'PPA Montecuccoli' war came at the Port of Colombo on an official visit to the Colombo port this morning (October 10).
-
-Multi Purpese Combat Ship, which arrived at the Colombo Port, consists of one hundred and forty (152 fifty-two) and shipment (152). Commander of the Commander, Commander Assarro Troia and Western Naval Commander Rear Admiral Chinthaka Kumarasinghe is scheduled to be held at the commander (October 10).
-
-The 'PPA Montecucjori' warfare will visit several areas on the time of staying in Sri Lanka and is scheduled to visit Sri Lanka Navy personnel on the operation of the ship.
-
-Further, the 'PPA Montecuciccoli' war ship is due to leave the island on October 13, 2024 following a training exercise in the western naval ship.
-
-◼️
-
-[Data](articles/b760c15e.json)
-
-[Extended Data](ext_articles/b760c15e.ext.json)
-
----
-
-### Murdu Fernando Sri Lanka’s new acting Chief Justice
-
-*2024-10-10 11:52:00* · [`economynextcom`](https://economynext.com/murdu-fernando-sri-lankas-new-acting-chief-justice-183069/) · `en`
-
-ECONOMYNEXT – Supreme Court Judge Murdu Nirupa Bidushinie Fernando has been sworn in as the Acting Chief Justice of Sri Lanka.
-
-Fernando was sworn in before President Anura Dissanayake on Thursday morning (10) at the Presidential Secretariat, Dissanayake said on X.
-
-◼️
-
-[Data](articles/534538f2.json)
-
-[Extended Data](ext_articles/534538f2.ext.json)
 
 ---

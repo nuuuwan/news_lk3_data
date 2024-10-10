@@ -1,36 +1,148 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 16:56:48**
+As of **2024-10-10 17:23:04**
 
 ## Newspaper Stats
 
-*Scraped **48,795** Articles*
+*Scraped **48,802** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
-colombotelegraphcom | 483
+colombotelegraphcom | 484
 bbccomsinhala | 485
 islandlk | 2,884
 economynextcom | 2,989
 dailyftlk | 3,299
-adalk | 4,530
+adalk | 4,531
 dailymirrorlk | 4,733
 adaderanalk | 5,761
-tamilmirrorlk | 6,625
-virakesarilk | 7,805
-adaderanasinhalalk | 8,438
+tamilmirrorlk | 6,626
+virakesarilk | 7,806
+adaderanasinhalalk | 8,441
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,795 (100.0%) of 48,795 articles have been extended.
+48,802 (100.0%) of 48,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Parliamentarian is withdrawn - Patali
+
+*2024-10-10 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202035) · `si`
+
+UPF withdraws from Sri Lanka general election due to nomination issues. Patali Champika Ranawaka cites violation of rules as reason for withdrawal. Party was set to contest in 11 districts but decided to focus on reconciliation alliance instead.
+
+🟩
+
+Patali Champika Ranawaka says the UPF does not contest this year's general election.
+
+"We decided to leave this election campaign. We proceeded to compete in the reconciliation alliance. 11 districts were ready to present our candidates. But during the nomination process, we realized that we had violated how we could not justify. So we decided to quit the election campaign. "
+
+◼️
+
+[Data](articles/4446c5e7.json)
+
+[Extended Data](ext_articles/4446c5e7.ext.json)
+
+---
+
+### Johnston banned
+
+*2024-10-10 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202034) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former Minister Johnston Fernando banned from foreign travel due to accusations of owning a luxury vehicle.
+
+🟩
+
+Former Minister Johnston Fernando has banned a foreign travel ban.
+
+He has been accused of being accused of possessing a luxury vehicle that is assembled.
+
+◼️
+
+[Data](articles/9da6ec50.json)
+
+[Extended Data](ext_articles/9da6ec50.ext.json)
+
+---
+
+### Nobel Prize for Literature For Han Kang in South Korea
+
+*2024-10-10 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202033) · `si`
+
+Han Kang wins Nobel Literature Prize for exploring uncertainty in human life through poetic prose.
+
+🟩
+
+Nobel Prize for Literature has been awarded to Han Kang, South Korea.
+
+The Nobel Committee announced that the award was presented to the poetic design of 'uncertainty' of the uncertory of human life.
+
+◼️
+
+[Data](articles/9577213d.json)
+
+[Extended Data](ext_articles/9577213d.ext.json)
+
+---
+
+### “There is no one to compete with us”
+
+*2024-10-10 16:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்முடன்-போட்டியிட-யாரும்-இல்லை/175-345232) · `ta`
+
+NPP leader Lalgantha vows not to use state resources for upcoming election. Claims party doesn't need extensive campaign due to previous presidential win. States no other party can compete with NPP's current success.
+
+🟩
+
+NPP member Lalgantha said today that the National People's Power (NPP) government will not use state resources for the general election and will show it this time.
+
+“We will act as a precedent in all our political activities and electoral activities. We will not use state resources for election campaign. "We will show it this time," he said when he responded to a question after submitting the Kandy district nomination.
+
+Lalgantha said the National People's Party did not need to carry out a massive election campaign for the general election as the campaign for the presidential election was successful.
+
+People who do not vote for us in the presidential election work with us because of the successful activities we have done after the presidential election victory. After the victory, all parties, SLFP and UNP, have now split, there is no one to compete with us. Our success has certainly. ”
+
+◼️
+
+[Data](articles/e994ae11.json)
+
+[Extended Data](ext_articles/e994ae11.ext.json)
+
+---
+
+### Pakistan High Commissioner met President
+
+*2024-10-10 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195957) · `ta`
+
+Pakistan High Commissioner meets Sri Lankan President. Discusses strengthening bilateral relations, education cooperation, and rural development. Emphasizes democracy, rule of law, and mutual respect.
+
+🟩
+
+Pakistani High Commissioner to Sri Lanka Major General (Retired) Bahim -ul -Aziz Hi met with President Anurakumara Dissanayake at the Presidential Office today (10).
+
+The Pakistani High Commissioner also expressed his sincere congratulations to the president who won the last presidential election and urged Pakistan's commitment to strengthen relations with Sri Lanka.
+
+Pakistani High Commissioner, who recalled the long -standing relationship between Sri Lanka and Pakistan, also handed over a special congratulations to President Azib Ali Sardari to President Anura Kumara Dissanayake.
+
+In that greeting, “I greatly appreciate the close relationship between Sri Lanka and Pakistan. I expect to work closely with you to further strengthen bilateral relations between the two countries through our cooperation based on democracy, pluralism, rule of law, mutual understanding and respect. I believe this will cause good events to our two countries, ”the Pakistani president said.
+
+...
+
+[Data](articles/912d9aec.json)
+
+[Extended Data](ext_articles/912d9aec.ext.json)
+
+---
 
 ### “Frustration of rejection; does not contest the election”
 
@@ -583,6 +695,32 @@ The driver of the lorry, Nalusha Sampath Vidhanage, who was involved in the acci
 [Data](articles/ebf574db.json)
 
 [Extended Data](ext_articles/ebf574db.ext.json)
+
+---
+
+### Postal voting
+
+*2024-10-10 13:37:36* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-ඡන්දයට-දින-දෙයි/11-412421) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Postal voting: 2024 general election. Offices, election centers, police stations: October 1st. Government agencies, military camps: November 2nd. New postal ballot names: Two-07 and 2024."
+
+🟩
+
+Postal voting in the General Election of the 2024 general election is scheduled to be held on all offices, election offices and police officers and police at the District Secretariat premises.
+
+Postal voting in other government agencies and military camps will be held on 2nd November 13, 01.14.2014.
+
+The re-marked postal ballot papers has been named after two-07 and 2024, 2024 and 2024.
+
+◼️
+
+[Data](articles/f15c776f.json)
+
+[Extended Data](ext_articles/f15c776f.ext.json)
 
 ---
 
@@ -1448,6 +1586,20 @@ She was later appointed as a Justice of the Supreme Court by then President Mait
 
 ---
 
+### Revolutionary Roots, Democratic Dreams: The JVP’s Legacy
+
+*2024-10-10 11:07:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/revolutionary-roots-democratic-dreams-the-jvps-legacy/) · `en`
+
+“I will do my best to fully restore the people’s confidence in politicians. I am not a conjurer, I am not a magician. There are things I know and things I don’t know, but I will seek the best advice and do my best. For that, I need the support of everyone.”  – Anura Kumara Dissanayake
+
+...
+
+[Data](articles/51c7ece2.json)
+
+[Extended Data](ext_articles/51c7ece2.ext.json)
+
+---
+
 ### Acting Chief Justice oaths
 
 *2024-10-10 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202023) · `si`
@@ -2255,157 +2407,5 @@ We will carry out our campaigns, saying that we are going to do what we are goin
 [Data](articles/007ec1d9.json)
 
 [Extended Data](ext_articles/007ec1d9.ext.json)
-
----
-
-### Promotion to a number of officers in line with the 75th anniversary of the Army
-
-*2024-10-10 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202011) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Army promotes 139 officers, 1,273 soldiers on 75th anniversary. 131 officials, 8 lieutenants, 346 unauthorized officers, 111 corporals, 152 lance corporals receive promotions."
-
-🟩
-
-139 officers and 1,273 solders were given the official promotions in parallel to the 75th anniversary of the Army today (10).
-
-The Army has issued an announcement and the recommendation of the Commander of the Ministry of Defense and the Commander of the Army Commander President Anura Kumara Dissanayake has been given the promotions on the approval of President Anura Kumara Dissanayake.
-
-Accordingly, 131 officials and equipment governing officers were promoted to the official and eight officers of the Lieutenant officials of the Sri Lanka Army Regular and Volunteers.
-
-...
-
-[Data](articles/c7bbdc21.json)
-
-[Extended Data](ext_articles/c7bbdc21.ext.json)
-
----
-
-### Israel's knife attack: 6 people injured
-
-*2024-10-10 06:39:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலில்-கத்திக்குத்து-தாக்குதல்-6-பேர்-காயம்/50-345192) · `ta`
-
-Knife attack in Israel injures 6 civilians. Terrorist targets Hadira city. Security forces respond, rescue victims, shoot fleeing militant.
-
-🟩
-
-Six people were injured in a knife attack on civilians in Israel yesterday.
-
-A terrorist who entered the city of Israel's Hadira has attacked the civilians.
-
-The security forces rushed to the scene and rescued the injured in the attack and rushed to a nearby hospital.
-
-At the same time, security forces have shot dead a militant who fled after a knife attack.. (A)
-
-◼️
-
-[Data](articles/1015ad52.json)
-
-[Extended Data](ext_articles/1015ad52.ext.json)
-
----
-
-### Interest in atmosphere - Increase in rain
-
-*2024-10-10 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202010) · `si`
-
-Heavy rainfall warning issued for Western, Sabaragamuwa, Southern provinces. Thunderstorms possible with strong winds and lightning. Public advised to take precautions.
-
-🟩
-
-Due to the growing turmoil in the island, a rainy section of the island is expected in the next few days from today (10).
-
-The Department of Meteorology announced that showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern provinces.
-
-Meanwhile, some places in the Western and Sabaragamuwa Province and in the Galle and Matara districts.. Heavy rains may occur at more than 100.
-
-Showers or thundershowers at night during the rest of the island. Mm to certain places. Heavy rains can occur more than 75.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/9e2d91a9.json)
-
-[Extended Data](ext_articles/9e2d91a9.ext.json)
-
----
-
-### Ranjan Ramanayake launches new political party – United Democratic Voice
-
-*2024-10-10 04:41:44* · [`dailyftlk`](https://www.ft.lk/news/Ranjan-Ramanayake-launches-new-political-party-United-Democratic-Voice/56-767782) · `en`
-
-Says he has received mixed advice about continuing in politics, with some encouraging him to speak up for the people
-
-Notes shortage of genuine representatives in Parliament and expresses his determination to combat corruption
-
-Emphasises need for new, clean political party, believing it to be best solution for SL
-
-Former Member of Parliament and actor-turned-politician Ranjan Ramanayake has announced the formation of a new political party named the “United Democratic Voice” (Eksath Prajathanthravadi Handa). The launch event was held yesterday at the Taj Samudra Hotel in Colombo, where Ramanayake revealed the party’s symbol – a microphone – representing the party’s mission to be a voice for the voiceless.
-
-...
-
-[Data](articles/a3f95f40.json)
-
-[Extended Data](ext_articles/a3f95f40.ext.json)
-
----
-
-### Mavai quits ITAK interim leadership
-
-*2024-10-10 04:38:51* · [`dailyftlk`](https://www.ft.lk/news/Mavai-quits-ITAK-interim-leadership/56-767781) · `en`
-
-Writes to S. Shritharan requesting him to take over leadership responsibilities
-
-However, an injunction order against Shritharan continues barring him from functioning as ITAK leader
-
-ITAK General Secretary P. Sathiyalingam also says he has not received any formal communique from Senathiraja on resignation
-
-Mavai Senathiraja, who has served as the leader of the Ilankai Tamil Arasu Katchi (ITAK) for nearly a decade, officially announced his resignation this week.
-
-In a letter addressed to Former Jaffna District Parliamentarian S. Shritharan on 7 October 2024, Senathiraja confirmed that he would be stepping down from the leadership role and urged Shritharan to take over as the party’s leader.
-
-Senathiraja acknowledged that Shritharan had already been elected as the party leader during ITAK’s 17th National Convention held in January 2024. However, despite winning the leadership race, Shritharan had not yet assumed the position due to legal restrictions.
-
-...
-
-[Data](articles/57766756.json)
-
-[Extended Data](ext_articles/57766756.ext.json)
-
----
-
-### Dilith criticises Sajith for weak Opposition leadership
-
-*2024-10-10 04:36:38* · [`dailyftlk`](https://www.ft.lk/news/Dilith-criticises-Sajith-for-weak-Opposition-leadership/56-767780) · `en`
-
-Sarvajana Balaya Alliance leader Dilith Jayaweera criticised Opposition leader Sajith Premadasa for failing to effectively challenge the Government and offer robust leadership. At a press conference held yesterday, Jayaweera argued that Premadasa was “forced to remain in Opposition” because he has not fulfilled the responsibilities of the position with sufficient bravery and vision.
-
-According to Jayaweera, a true Opposition must not only criticise the Government but also guide it toward the correct path, offering constructive solutions while laying the groundwork for future political progress. “A brave Opposition must remain in Opposition but show the Government the correct path and provide guidance,” Jayaweera stated. “The Opposition should create the necessary circumstances for the future of politics to promote our political beliefs, our program, and our vision to realise the aspirations of the people.”
-
-...
-
-[Data](articles/9fcec275.json)
-
-[Extended Data](ext_articles/9fcec275.ext.json)
-
----
-
-### Cabinet decides to terminate services of contract-based officers and consultants
-
-*2024-10-10 04:33:00* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-decides-to-terminate-services-of-contract-based-officers-and-consultants/56-767779) · `en`
-
-The Cabinet of Ministers at their meeting on Monday approved terminating the services of officers and consultants appointed on contract basis, effective from 30 September 2024.
-
-These contract-based appointments were originally made to establish two key entities – the ‘Office for the Affairs of Sri Lankans Abroad’ under the President’s Office and the ‘National Peoples Council’ which was set up to enhance public participation in democracy alongside the implementation of the ‘Agriculture Modernisation Program’. “The Government now believes that the functions anticipated from these offices and programs can be successfully carried out by the respective Ministries and Provincial Councils. Therefore, it was decided to discontinue the contract-based appointments,” Cabinet Spokesman and Minister Vijitha Herath said at the post-Cabinet meeting media briefing on Tuesday.
-
-◼️
-
-[Data](articles/2768513c.json)
-
-[Extended Data](ext_articles/2768513c.ext.json)
 
 ---

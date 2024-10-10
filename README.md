@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 22:38:58**
+As of **2024-10-10 22:58:00**
 
 ## Newspaper Stats
 
-*Scraped **48,847** Articles*
+*Scraped **48,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,83 @@ dailyftlk | 3,299
 adalk | 4,539
 dailymirrorlk | 4,733
 adaderanalk | 5,770
-tamilmirrorlk | 6,629
+tamilmirrorlk | 6,631
 virakesarilk | 7,813
-adaderanasinhalalk | 8,448
+adaderanasinhalalk | 8,450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,847 (100.0%) of 48,847 articles have been extended.
+48,851 (100.0%) of 48,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Notice to all public institutions
+
+*2024-10-10 22:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202044) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Presidential Secretariat mandates: Obtain written permission for Commemorative Plant and Special Soorial Zones. Comply with government policy when organizing functions."
+
+🟩
+
+Secretary to the President Dr. Nandika Sanath has instructed all government to obtain a written permission from the Presidential Secretariat before the Commemorative Plant and Special Soorial Zones.
+
+The Secretary to the President has also informed state institutions that it is necessary to comply with the government policy and vision in organizing the functions of the government.
+
+The informed of the Presidential Secretary of the President and the Heads of State Corporations, Heads of Establishment Boards and State Corporations, including statutory boards and state-owned company heads have been made by the Presidential Secretary.
+
+◼️
+
+[Data](articles/30c89d57.json)
+
+[Extended Data](ext_articles/30c89d57.ext.json)
+
+---
+
+### The organizer of Passara has no chance
+
+*2024-10-10 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202043) · `si`
+
+Passara organizer Sanji Lekchen claims unfair treatment in general election. Accuses leaders of inconsistent behavior. Expresses frustration over lack of opportunities.
+
+🟩
+
+The electoral organizer Sanji Lekchen has been alleged that it was not the opportunity to contest the general election.
+
+"I'm the Passara Seats Organizer. මම ලොකු ප්‍රතිශතයකින් දිනලත් තියෙනවා. But you can't give. One of the leader and says one morning ... tells another one at night. He told her a disciple of her. That's why I see the brand of this party. The people are taught a good lesson. "
+
+◼️
+
+[Data](articles/4fcf7984.json)
+
+[Extended Data](ext_articles/4fcf7984.ext.json)
+
+---
+
+### If the information is provided
+
+*2024-10-10 22:14:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகவல்-தெரிவித்தால்-சன்மானம்-வழங்கப்படும்/175-345251) · `ta`
+
+Inspector General of Police states: If state vehicles/assets stolen/abused, notify new expedited number 1997.
+
+🟩
+
+The Inspector General of Police said that if state vehicles or assets are theft or abused, the new expeditious number of 1997 should be notified.
+
+◼️
+
+[Data](articles/dfcb040d.json)
+
+[Extended Data](ext_articles/dfcb040d.ext.json)
+
+---
 
 ### Technical error on a SriLankan Airlines
 
@@ -51,6 +115,28 @@ SriLankan Airlines says that all passengers have provided hotel accommodation an
 [Data](articles/680c52a9.json)
 
 [Extended Data](ext_articles/680c52a9.ext.json)
+
+---
+
+### Shani Abeesekera in the police service again
+
+*2024-10-10 22:09:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-பொலிஸ்-சேவையில்-ஷானி-அபேசேகர/175-345250) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former SSP Shani Abeysekara reappointed on contract by Police Commission for one year, effective October 10.
+
+🟩
+
+The Police Commission has granted permission to re -appoint former Senior Superintendent of Police Shani Abeysekara on a contract for one year from today (October 10).. Remble
+
+◼️
+
+[Data](articles/65b5b92a.json)
+
+[Extended Data](ext_articles/65b5b92a.ext.json)
 
 ---
 
@@ -2291,87 +2377,5 @@ Later, the Colombo High Court, which also imposed an overseas travel ban against
 [Data](articles/f764c972.json)
 
 [Extended Data](ext_articles/f764c972.ext.json)
-
----
-
-### Here is the decision of Wimal's party to contesting the general election
-
-*2024-10-10 11:45:11* · [`adalk`](https://www.ada.lk/breaking_news/විමල්ගේ-පක්ෂය-මහ-මැතිවරණයට-ඉදිරිපත්-වීම-ගැන-ගත්-තීරණය-මෙන්න/11-412418) · `si`
-
-Wimal Weerawansa's National Freedom Front decides not to contest the upcoming general election. The party will not participate in the continuous parliamentary election.
-
-🟩
-
-Former Leader of the Leader of the Leader of the UNP MP Wimal Weerawansa has issued a depth or independently not being held independently as a political party in the next general election.
-
-"The National Freedom Front as a political party, we are responsible for the public's responsibility to not compete in the continuous parliamentary election."
-
-◼️
-
-[Data](articles/d2d78732.json)
-
-[Extended Data](ext_articles/d2d78732.ext.json)
-
----
-
-### Arrested by one with 600,000 pills
-
-*2024-10-10 11:41:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/600-000-மாத்திரைகளுடன்-ஒருவர்-கைது/175-345206) · `ta`
-
-Sri Lanka: 44-year-old arrested with 600,000 pills targeting youth. Navy and STF seize drugs worth 60 million. Suspect handed to police for legal action.
-
-🟩
-
-A 44 -year -old person target youth and schoolchildren. The Sri Lanka Navy and the Police Special Task Force (STF) have been deployed on suspicion of selling 60,000 pharmaceutical pills worth 60 million.
-
-As a result of further investigations, a lorry used for drug trafficking has been seized in Borella area.
-
-The suspect has been arrested on the basis of information received by the Navy Intelligence Unit.
-
-The suspect has been handed over to the Colombo Police Bureau for further legal action with drug pills and lorry.
-
-◼️
-
-[Data](articles/fcf1d575.json)
-
-[Extended Data](ext_articles/fcf1d575.ext.json)
-
----
-
-### புதிய பதில் பிரதம நீதியரசர் நியமனம்
-
-*2024-10-10 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195922) · `ta`
-
-Sri Lanka appoints High Court Judge Murdi Nirupa Bidusini Fernando as Chief Justice on 10th.
-
-🟩
-
-High Court Judge Murdi Nirupa Bidusini Fernando has been appointed as the Chief Justice of Sri Lanka on Thursday (10).
-
-◼️
-
-[Data](articles/28faaf75.json)
-
-[Extended Data](ext_articles/28faaf75.ext.json)
-
----
-
-### Passenger bus gutted in fire at Madampe
-
-*2024-10-10 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102582/passenger-bus-gutted-in-fire-at-madampe) · `en`
-
-A private bus en route to Embilipitiya from Colombo was completely destroyed after catching fire in the Kawduwawa area of Madampe earlier today (10).
-
-The bus, which had nearly 50 passengers on board when it departed Colombo this morning, caught fire mid-journey. However, no injuries have been reported to any of the passengers of the bus.
-
-Local residents have helped bring the fire under control. Despite their efforts, the bus was entirely gutted by the flames, Ada Derana reporter said.
-
-Rakwana Police have launched an investigation into the cause of the fire and are continuing inquiries.
-
-◼️
-
-[Data](articles/189501a3.json)
-
-[Extended Data](ext_articles/189501a3.ext.json)
 
 ---

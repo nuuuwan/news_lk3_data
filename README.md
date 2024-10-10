@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 14:39:09**
+As of **2024-10-10 14:58:05**
 
 ## Newspaper Stats
 
-*Scraped **48,769** Articles*
+*Scraped **48,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,756
 tamilmirrorlk | 6,619
 virakesarilk | 7,800
-adaderanasinhalalk | 8,435
+adaderanasinhalalk | 8,436
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,769 (100.0%) of 48,769 articles have been extended.
+48,770 (100.0%) of 48,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Four boats with Indian fishermen
+
+*2024-10-10 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202030) · `si`
+
+Navy seizes 4 Indian fishing boats in North Sea; 21 fishermen arrested; vessels taken to Kankesanthurai port for legal proceedings.
+
+🟩
+
+The Navy has taken steps to take four Indian fishing vessels in the North Sea.
+
+The Department of Navy and the Coast Guard were conducting further investigations.
+
+Accordingly, 21 fishermen were arrested in connection with the four boats.
+
+The four Indian fishing vessels and the Indian fishermen were taken to the port of the Kankesanthurai for future legal action.
+
+◼️
+
+[Data](articles/ebceff63.json)
+
+[Extended Data](ext_articles/ebceff63.ext.json)
+
+---
 
 ### Special traffic plan for Narahenpita
 
@@ -2401,21 +2425,5 @@ During the meeting, officials from both departments presented the challenges the
 [Data](articles/ea32e540.json)
 
 [Extended Data](ext_articles/ea32e540.ext.json)
-
----
-
-### Norfolk Foods presents innovative ‘Lean Mean Green’ range at THAIFEX ANUGA ASIA 2024, eyeing international growth
-
-*2024-10-09 22:53:00* · [`islandlk`](http://island.lk/norfolk-foods-presents-innovative-lean-mean-green-range-at-thaifex-anuga-asia-2024-eyeing-international-growth/) · `en`
-
-Norfolk Foods (Pvt) Ltd, a pioneer in frozen food manufacturing in Sri Lanka, recently participated in THAIFEX ANUGA ASIA 2024, Asia’s leading food and beverage trade show, held in Bangkok, Thailand from May 28th to June 1st, 2024. The company showcased its innovative Sri Lankan-inspired vegan cuisine product range, ‘Lean Mean Green’ (LMG), aiming to expand its presence in the global market.
-
-As part of the Charoen Pokphand Foods Public Company Limited (CPF) Thailand, Norfolk Foods exhibited a wide variety of high quality, products made using authentic Sri Lankan ingredients including Polos Cutlets, Polos Burgers, Jackfruit Nuggets, and an assortment of gourmet pancakes. The LMG range, developed specifically for the export market, offers a unique fusion of Sri Lankan flavours and plant-based innovation.
-
-...
-
-[Data](articles/82b80cfa.json)
-
-[Extended Data](ext_articles/82b80cfa.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 08:58:33**
+As of **2024-10-10 09:12:26**
 
 ## Newspaper Stats
 
-*Scraped **48,702** Articles*
+*Scraped **48,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 484
 islandlk | 2,884
 economynextcom | 2,985
 dailyftlk | 3,299
-adalk | 4,517
+adalk | 4,518
 dailymirrorlk | 4,733
 adaderanalk | 5,743
 tamilmirrorlk | 6,606
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,422
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,702 (100.0%) of 48,702 articles have been extended.
+48,703 (100.0%) of 48,703 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1650,6 +1650,28 @@ Therefore, the Sri Lanka Bureau of Foreign Employment has requested the public t
 
 ---
 
+### Sabaragamuwa Revenue Department Rs. 1100 woo
+
+*2024-10-09 18:43:07* · [`adalk`](https://www.ada.lk/breaking_news/සබරගමුවේ-ආදායම්-දෙපාර්තමේන්තුව-රු-මි--1100ක්-හොයයි/11-412405) · `si`
+
+Sabaragamuwa Revenue Department: 1,100 woos. Provincial Revenue Commissioner Nandani Gunawardena reports 112.4 million rupees generated this year.
+
+🟩
+
+Provincial Revenue Commissioner Nandani Gunawardena stated that one hundred thousand Rs.
+
+Provincial Revenue Commissioner of Revenue Commissioner Nandani Gunawardena was appointed to meet the progress review of the Provincial Revenue Drawne, headed by Governor of Sabaragamuwa.
+
+Speaking further, Mrs. Nandani Gunawardena said:1124 million rupees have been generated from this year, and the year Rs.
+
+◼️
+
+[Data](articles/58ed1836.json)
+
+[Extended Data](ext_articles/58ed1836.ext.json)
+
+---
+
 ### The tutor to the Kandalama reservoir is completely destroyed by the above order
 
 *2024-10-09 18:33:25* · [`adalk`](https://www.ada.lk/breaking_news/ඉහලින්-ලැබුණු-නියෝගයකට-කණ්ඩලම-ජලාශයේ-ලස්සනම-තුරු-ලතා-වදුල-සම්පුර්ණයෙන්-කපා-විනාශ-කරලා/11-412403) · `si`
@@ -2349,27 +2371,5 @@ It is also noteworthy that lawyers appearing on behalf of the affected parties h
 [Data](articles/906b4be2.json)
 
 [Extended Data](ext_articles/906b4be2.ext.json)
-
----
-
-### Major political parties sign nominations for 2024 General Election
-
-*2024-10-09 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102565/major-political-parties-sign-nominations-for-2024-general-election) · `en`
-
-Several of the major political parties contesting in the upcoming general election have signed their nomination papers today (09).
-
-According to the Election Commission, a total of 33 independent groups and political parties have already submitted nominations to contest the 2024 General Election.
-
-The National People’s Power (NPP) alliance’s candidates signed their nomination papers at the Janatha Vimukthi Peramuna (JVP) party headquarters in Pelawatte, while the ‘Samagi Jana Sandanaya’ signed their nominations at its office in Colombo.
-
-The New Democratic Front (NDF) alliance, contesting under the symbol of the ‘Gas Cylinder,’ also signed their nomination papers today at the election operations office of former President Ranil Wickremesinghe, located on Flower Road in Colombo.
-
-The Sri Lanka Podujana Peramuna (SLPP) signed their nomination papers for the upcoming general election at their head office in Nelum Mawatha, Battaramulla.
-
-...
-
-[Data](articles/60f2c768.json)
-
-[Extended Data](ext_articles/60f2c768.ext.json)
 
 ---

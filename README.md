@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 11:39:39**
+As of **2024-10-10 11:59:06**
 
 ## Newspaper Stats
 
-*Scraped **48,722** Articles*
+*Scraped **48,728** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,68 @@ dbsjeyarajcom | 400
 colombotelegraphcom | 481
 bbccomsinhala | 484
 islandlk | 2,884
-economynextcom | 2,985
+economynextcom | 2,989
 dailyftlk | 3,299
 adalk | 4,519
 dailymirrorlk | 4,733
-adaderanalk | 5,750
+adaderanalk | 5,751
 tamilmirrorlk | 6,608
 virakesarilk | 7,787
-adaderanasinhalalk | 8,429
+adaderanasinhalalk | 8,430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,722 (100.0%) of 48,722 articles have been extended.
+48,728 (100.0%) of 48,728 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Passenger bus gutted in fire at Madampe
+
+*2024-10-10 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102582/passenger-bus-gutted-in-fire-at-madampe) · `en`
+
+A private bus en route to Embilipitiya from Colombo was completely destroyed after catching fire in the Kawduwawa area of Madampe earlier today (10).
+
+The bus, which had nearly 50 passengers on board when it departed Colombo this morning, caught fire mid-journey. However, no injuries have been reported to any of the passengers of the bus.
+
+Local residents have helped bring the fire under control. Despite their efforts, the bus was entirely gutted by the flames, Ada Derana reporter said.
+
+Rakwana Police have launched an investigation into the cause of the fire and are continuing inquiries.
+
+◼️
+
+[Data](articles/189501a3.json)
+
+[Extended Data](ext_articles/189501a3.ext.json)
+
+---
+
+### Four persons including Ajith Nubes
+
+*2024-10-10 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202024) · `si`
+
+Ajith Nivard Cabraal, former Central Bank Governor, along with four others, faces accusations of investing in government bonds during the 2012 financial crisis. The Bribery Commission filed charges, and one defendant was released on bail. The court ordered restrictions on travel licenses pending further investigation.
+
+🟩
+
+Former Central Bank Governor Ajith Nivard Cabraal, including former Ajith Nivard Cabraal, has been handed over to four accused.
+
+He and four others were accused of investing in the Government's financial crisis in 2012, the government's governance bonds.
+
+After handing over of the allegations filed by the Bribery Commission, the court ordered the release of one defendant on personal bail of Rs. 10 million.
+
+The judiciary ordered the defendants who were banned to the defendants to be handed over to their travel licenses to their traveling licenses and that the court should obtain permission.
+
+◼️
+
+[Data](articles/310a0508.json)
+
+[Extended Data](ext_articles/310a0508.ext.json)
+
+---
 
 ### Murdhu Fernando appointed Acting Chief Justice
 
@@ -87,6 +131,46 @@ He has further highlighted that neither he nor his party will contribute to maki
 [Data](articles/1e94bc8c.json)
 
 [Extended Data](ext_articles/1e94bc8c.ext.json)
+
+---
+
+### Sri Lanka rupee opens flat at 293.05/15 to US dollar, bond yields steady
+
+*2024-10-10 10:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-293-05-15-to-us-dollar-bond-yields-steady-183049/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading flat at 293.05/15 to the US dollar on Thursday, from 293.00/20 a day earlier, while bond yields were steady dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.45/50 percent, from 11.40/55 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.75/85 percent, down from 11.70/80 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.00/05 percent, up from 11.95/12.05 percent.
+
+In equities, Colombo’s All Share Price Index was trading 0.11 percent, or 12.96 points lower at 12,139, while the S&P SL20 of more liquid stocks was trading down 0.25 percent or 8.90 points lower at 3,584.
+
+◼️
+
+[Data](articles/5e70975d.json)
+
+[Extended Data](ext_articles/5e70975d.ext.json)
+
+---
+
+### Global business travel set to surpass pre-pandemic levels to USD 1.5 tn: WTTC
+
+*2024-10-10 10:42:00* · [`economynextcom`](https://economynext.com/global-business-travel-set-to-surpass-pre-pandemic-levels-to-usd-1-5-tn-wttc-183056/) · `en`
+
+ECONOMYNEXT — Business travel is set to surpass pre-pandemic levels in 2024, faster than previously predicted, to reach a record 1.5 trillion US dollars, the World Travel & Tourism Council (WTTC) said.
+
+The rise of remote working during the pandemic had a disproportionate effect on corporate travel, compared to leisure travel, with virtual platforms replacing face-to-face meetings, the WTTC said in a statement on Thursday October 10.
+
+“Last year, leisure travel was just 2.9 percent behind the 2019 peak, whilst business travel continued to struggle, remaining 5.4% percent behind. But as business leaders re-emphasised the importance of face-to-face interaction, business travel is now back and is set to exceed 2019 levels by an impressive 6.2 percent to reach the new 1.5 trillion US dollar record.”
+
+...
+
+[Data](articles/93050582.json)
+
+[Extended Data](ext_articles/93050582.ext.json)
 
 ---
 
@@ -479,6 +563,34 @@ Meanwhile, the process of depositing for independent groups related to the upcom
 [Data](articles/9e33a379.json)
 
 [Extended Data](ext_articles/9e33a379.ext.json)
+
+---
+
+### Sri Lanka central bank tightens related party loans by banks
+
+*2024-10-10 07:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-tightens-related-party-loans-by-banks-183040/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has issued rules limiting loans that can be granted by commercial banks to directors, their relatives, partners, chief executives, senior executives, companies with connections such individuals and shareholders.
+
+Loans to individuals have been limited to 20 million rupees. Loans to related companies have been limited to 10 percent of equity or 15 percent in other cases.
+
+(c) a concern in which a director of a licensed bank has a substantial interest, being an
+
+interest acquired either before or after the appointment as a director of such licensed
+
+(d) a concern in which a close relation of a director of a licensed bank has a substantial
+
+(e) a chief executive officer or an officer performing executive functions of a licensed
+
+bank in respect of any accommodation granted other than an accommodation granted
+
+to such officer under a scheme applicable to the employees of such bank;
+
+...
+
+[Data](articles/44a4f694.json)
+
+[Extended Data](ext_articles/44a4f694.ext.json)
 
 ---
 
@@ -2255,115 +2367,5 @@ These international monitoring groups include representatives of Russia, the Com
 [Data](articles/c7004755.json)
 
 [Extended Data](ext_articles/c7004755.ext.json)
-
----
-
-### Supports economic growth and anti-corruption efforts
-
-*2024-10-09 18:15:10* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථික-වර්ධනයට-සහ-දූෂණ-විරෝධී-ප්‍රයත්නයන්-සඳහා-සහාය-පළ-කරයි/11-412401) · `si`
-
-Siri Walt, Sri Lanka's ambassador to Switzerland, met President Dissanayake. She discussed supporting economic growth, anti-corruption efforts, IMF program, foreign investment, tourism, constitutional reforms, labor migration, and sustainable development cooperation between Sri Lanka and Switzerland.
-
-🟩
-
-Sri Lanka's Siri Walt (SIRI Walt), Siri Walt (SIRI WALL), met President Anura Kumara Dissanayake at the Presidential Secretariat today (09).
-
-Ambassador Siri Walt was also presented to President Anura Kumara Dissanayake regarding the presidential election.
-
-The Ambassador to Sri Lanka is ready to support Sri Lanka through the International Monetary Fund Program in Sri Lanka.. She also stated that she was also highlighted by the Switzerland expertise on the Foreign Investment and Tourism Experts.
-
-The fields of constitutional reforms and labor migration were also concerned with the ambassador Siri Walt, the support of Switzerland to further strengthen Sri Lanka's capabilities in these areas.
-
-The Ambassador continued to strengthen the continuous cooperation in Switzerland to promote strong diplomatic relations between Sri Lanka and Switzerland as well as the quality of sustainable development and control of Sri Lanka's sustainable development and control.
-
-◼️
-
-[Data](articles/93886c22.json)
-
-[Extended Data](ext_articles/93886c22.ext.json)
-
----
-
-### More employment opportunities for Sri Lankans in South Korea
-
-*2024-10-09 18:06:05* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-කොරියාවේ-සිටින-ලාංකිකයන්-සඳහා-වැඩි-රැකියා-අවස්ථා/11-412400) · `si`
-
-South Korean Ambassador Miyon Lee meets Sri Lankan President Anura Kumara Dissanayake. Discusses increasing employment opportunities for Sri Lankans in South Korea, promoting tourism, supporting healthcare, combating corruption, addressing climate change, and expanding Korean presence in Sri Lanka.
-
-🟩
-
-Sri Lanka's South Korean Ambassador to Sri Lanka's South Korea Ambassador to Sri Lanka's South Korea Ambassador Ms. Miyon LEE, Sri Lankan South Korean Ambassador Miyon Lee met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
-
-The Ambassador Mary was greeted by the Ambassador Mary Dissanayake and presented the greetings of the South Korean government.
-
-Ambassador Men Lind was also remembered by Ambassador to South Korea to strengthen bilateral relations between Sri Lanka and South Korea.. The Ambassador that South Korea was in the sixth place to provide foreign remittances to Sri Lanka, he promised to create more employment opportunities for Sri Lankans in South Korea and increase the remittances.
-
-In addition, it is said that Sri Lanka will promote Sri Lanka as an attractive country to travel among Korean tourists.
-
-The ambassador who was certified for Sri Lanka's economically supported and that South Korea was also facing such economic challenges.
-
-...
-
-[Data](articles/4909b3a1.json)
-
-[Extended Data](ext_articles/4909b3a1.ext.json)
-
----
-
-### Kamal Addararachchi announces candidacy in General Election
-
-*2024-10-09 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102567/kamal-addararachchi-announces-candidacy-in-general-election) · `en`
-
-Veteran Sri Lankan actor Kamal Addararachchi has announced his decision to contest in the upcoming General Election.
-
-He is expected to contest the election representing the ‘Devana Parapura’ party (Second Generation) led by Uvindu Wijeweera, the son of former leader of Janatha Vimukthi Peramuna (JVP) Rohana Wijeweera.
-
-Addressing a press briefing held today (09), Addararachchi said: “It is the responsibility of the people to form a good Parliament. Let’s break the culture of bringing unsuccessful people to the Parliament again and again. Let’s select a new team that can work cooperatively and intelligently.”
-
-“That strength can be given through the ‘Devana Parapura’. I also joined ‘Devana Parapura’ today to strengthen them.”
-
-Commenting at the press briefing, leader of the party Uvindu Wijeweera said: “The country cannot be developed if you send the same old thieves to the opposition. Let’s fill the entire Parliament with people who love this country.”
-
-◼️
-
-[Data](articles/10a77e16.json)
-
-[Extended Data](ext_articles/10a77e16.ext.json)
-
----
-
-### Vatican lauds President’s Easter Sunday probe pledge
-
-*2024-10-09 17:52:00* · [`economynextcom`](https://economynext.com/vatican-lauds-presidents-easter-sunday-probe-pledge-183007/) · `en`
-
-ECONOMYNEXT – The Vatican’s diplomatic representative to Sri Lanka Reverend Brian Udaigwe, who conveyed greetings from Pope Francis during a meeting with newly elected President Anura Dissanayake, has also appreciated his pledge to conduct a credible investigation into the Easter Sunday bombings.
-
-Apostolic Nuncio Udaigwe congratulated Dissanayake on his recent election victory, conveying greetings from Pope Francis, a statement from the president’s media division said.
-
-He “lauded President Dissanayake’s initiative to conduct transparent and credible investigations into the tragic Easter Sunday bombings” and “assured the fullest cooperation of the Vatican in supporting the President’s ongoing efforts to bring justice and healing to the victims and their families,” the statement said.
-
-...
-
-[Data](articles/1d580413.json)
-
-[Extended Data](ext_articles/1d580413.ext.json)
-
----
-
-### Top US admiral visits Sri Lanka to discuss rising security challenges
-
-*2024-10-09 17:52:00* · [`economynextcom`](https://economynext.com/top-us-navy-commander-visits-sri-lanka-to-discuss-rising-security-challenges-183011/) · `en`
-
-ECONOMYNEXT – A top United States Navy Commander will visit Sri Lanka on Thursday (10) to discuss rising security challenges in the Indian Ocean region and strengthen bilateral defence cooperation between the two nations, the U.S. Embassy in Colombo said.
-
-The visit of Admiral Steve Koehler, a 4-star U.S. Navy Admiral and Commander of U.S. Pacific Fleet comes amid the docking of Chinese military training ship Po Lang in Colombo port after the new government under President Anura Kumara Dissanayake allowed it citing there was no security threats to Sri Lanka.
-
-“During the visit, Admiral Koehler will reaffirm the strong partnership between the United States and Sri Lanka for an enduring, resilient, free and open Indo-Pacific,” U. S. Embassy in Colombo said in a statement.
-
-...
-
-[Data](articles/74f2697c.json)
-
-[Extended Data](ext_articles/74f2697c.ext.json)
 
 ---

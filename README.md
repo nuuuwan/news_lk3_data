@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 21:39:12**
+As of **2024-10-10 21:58:36**
 
 ## Newspaper Stats
 
-*Scraped **48,841** Articles*
+*Scraped **48,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 2,997
 dailyftlk | 3,299
 adalk | 4,539
 dailymirrorlk | 4,733
-adaderanalk | 5,769
+adaderanalk | 5,770
 tamilmirrorlk | 6,629
 virakesarilk | 7,813
-adaderanasinhalalk | 8,444
+adaderanasinhalalk | 8,447
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,841 (100.0%) of 48,841 articles have been extended.
+48,845 (100.0%) of 48,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Shani Abeysekera back to police service
+
+*2024-10-10 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202041) · `si`
+
+Former SSP Shani Abeysekera returns to police service on contract.
+
+🟩
+
+Former SSP Shani Abeysekera has approved the re-employment to the police service on contract basis.
+
+◼️
+
+[Data](articles/8d6d2fe4.json)
+
+[Extended Data](ext_articles/8d6d2fe4.ext.json)
+
+---
+
+### Police Commission approves reappointment of Shani Abeysekera
+
+*2024-10-10 21:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102602/police-commission-approves-reappointment-of-shani-abeysekera) · `en`
+
+The National Police Commission has approved the reappointment of former Senior Superintendent of Police (SSP) Shani Abeysekera in the Police Service on a contract basis for one year, with effect from today (10).
+
+Speculation has been rife that Abeysekara, who retired from the service 3 years ago, is expected to lead a new assets recovery unit of the police department.
+
+◼️
+
+[Data](articles/89c82473.json)
+
+[Extended Data](ext_articles/89c82473.ext.json)
+
+---
 
 ### Weather alert issued for heavy rainfall above 150mm
 
@@ -53,6 +87,72 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/0eede212.json)
 
 [Extended Data](ext_articles/0eede212.ext.json)
+
+---
+
+### Power in Colombo-Gampaha-Gampaha and Matara and Galle
+
+*2024-10-10 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202040) · `si`
+
+Here's a 200-character summary:
+
+
+
+Universal Power nominates candidates in Colombo, Gampaha, Matara, and Galle districts. Dilith Jayaweera signs for Gampaha. Professor Channa Jayatana and Milan Jayatilleka also sign for Gampaha. Universal Power emphasizes importance of winning Matara district. Entrepreneur Chandralal Abeygunawardena joins Galle district candidate team.
+
+🟩
+
+The universal power handed over nominations for several districts including the Colombo district today.
+
+Dilith Jayaweera signed a nomination papers for the Gampaha District for the Gampaha District.
+
+In addition, Professor Channa Jayatana and Gampaha District Leader Milan Jayatilleka and Gampaha District Leader Milan Jayatilleka were also signed the Gampaha District.
+
+The universal power of the Matara district was signed today for the nominations of the Matara district.
+
+Speaking to the media, Motherland People's Party Leader Dilith Jayaweera said,
+
+"The Norrage Power has a responsibility to the leadership of the. Because Matara is a decisive district. We are all eager to you.. Devote in Matara to win Matara in the election. "
+
+Entreprenerian Chandralal Abeygunawardena has also joined the Normor Power Galle District candidate team.
+
+◼️
+
+[Data](articles/22bce6dc.json)
+
+[Extended Data](ext_articles/22bce6dc.ext.json)
+
+---
+
+### PSL too
+
+*2024-10-10 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202039) · `si`
+
+Several former MPs announce non-participation in upcoming elections. Key figures include Wimal Weerawansa, Bandula Gunawardena, and Lakshman Kiriella. Some notable absences: Sabaragamuwa District Former Governor Navin Dissanayake, Gamini Lokuge. Notable participants: Namal Rajapaksa, Champika Ranawaka's decision pending.
+
+🟩
+
+The officially announced that several representatives representing the last parliament will not contest the parliamentary election this year.
+
+National Freedom Front Leader Wimal Weerawansa issued a statement today
+
+Dr. Bandula Gunawardena, also known as the General Transport, Highways and Mass Media, the Ada Derana said:
+
+The Minister of Justice Wijayadasa Rajapaksa was also present at the end of the presidential election.
+
+She also stated that he was also announced as a State Minister as the State Minister.
+
+මේ අතර සබරගමුව පළාත් හිටපු ආණ්ඩුකාර නවීන් දිසානායක මහතාද මෙවර මහ මැතිවරණයට ඉදිරිපත් නොවන බව ෆේස්බුක් සටහනක් මගින් පවසා තිබේ.
+
+Lakshman Kiriella, who was the chief organizer of the Opposition in Parliament, is also presented to the general election.
+
+However, his daughter Chamindraini Bandara Kiriella is due to contest the UPFA for the general election this year.
+
+...
+
+[Data](articles/948b19a5.json)
+
+[Extended Data](ext_articles/948b19a5.ext.json)
 
 ---
 
@@ -2279,111 +2379,5 @@ Better collaboration would ensure more robust enforcement of tax laws and preven
 [Data](articles/d9acc722.json)
 
 [Extended Data](ext_articles/d9acc722.ext.json)
-
----
-
-### Response Chief Justice
-
-*2024-10-10 11:26:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-பிரதம-நீதியரசர்-பதவிப்பிரமாணம்/175-345205) · `ta`
-
-High Court Judge Murali Murda Pitshini Fernando was sworn in before President Anura Kumara Dissanayake on Thursday (10).
-
-🟩
-
-Responding to the Chief Justice, High Court Judge Murali Murda Pitshini Fernando was sworn in in the presence of President Anura Kumara Dissanayake on Thursday (10).
-
-◼️
-
-[Data](articles/7c023345.json)
-
-[Extended Data](ext_articles/7c023345.ext.json)
-
----
-
-### 10 Uthwaka quotes for Ratan Tata
-
-*2024-10-10 11:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரத்தன்-டாட்டா-உதிர்த்த-10-உத்வேக-மேற்கோள்கள்/175-345204) · `ta`
-
-Here's a summary of 10 key quotes from Ratan Tata in approximately 200 characters:
-
-
-
-"Walk together for a long distance; alone for a short one." "Rise above challenges." "Success isn't ruthless." "Life moves us forward." "Welfare of loved ones matters." "Work-life coordination, not balance." "Great leaders empower others." "Challenges build success." "Mercy, empathy, compassion matter." "Never underestimate kindness."
-
-🟩
-
-India's enormous businessman Ratan Tata Age - Due to his illness, he disappeared at the age of 86.
-
-His contribution in the Indian industry is huge. In particular, his career attitude, which is important to social welfare, is no doubt forever paradigm. 10 main quotes of such a valuable person.
-
-“If you want to walk fast, you will walk alone;But if you want to walk a long distance, walk together. ”
-
-“Rise up a monument with stones thrown over you.”
-
-“The winners will attract me. But if the path to their success is ruthless, I will not find them. ”
-
-“Life is important. They are the one who moves us ahead of. இசிஜி-யில் கோடுகள் நேராக இருந்தால் நாம் உயிருடன் இல்லை என்று அர்த்தம்.”
-
-“Life is not important in material matters. The welfare of those who love you is important. Someday you will feel it. ”
-
-“Work - I don't believe in life balance. I work - believe in life coordination. Make your work and life meaningful. ”
-
-...
-
-[Data](articles/a0ccaa42.json)
-
-[Extended Data](ext_articles/a0ccaa42.ext.json)
-
----
-
-### West Indies come
-
-*2024-10-10 11:23:13* · [`adalk`](https://www.ada.lk/uncategorized/කොදෙව්වෝ--පැමිණෙති/1-412417) · `si`
-
-West Indies cricket team arrives in Sri Lanka for tour. They'll play 3 T20s at Dambulla and 1-day matches at Pallekele. Team lands at Katunayake airport on October 10th.
-
-🟩
-
-The West Indies islands arrived at the Katunayake airport on 10/10 pm for a tour of Sri Lanka.
-
-Sri Lanka Cricket's spokesman Prasanna Rodrigo said that they would participate in three Twenty20 matches with Sri Lankan cricket team and three-day matches.
-
-The Twenty20 match will be held at the Rangiri Dambulla International Cricket Stadium at 10/13, 10/15 and 10/17.
-
-In addition, one day competitions will be held at the Pallekele International Cricket at the Pallekele International Cricket at the Pallekele International Cricket Tournament at the Pallekele International Cricket Tournament.
-
-West Indies Islands cricket team from Dubai to Emirates Airport on Nost 08:30 am at Dubai to Katunayake Airport and a group of SLC officials were also present at the Katunayake Airport.
-
-◼️
-
-[Data](articles/43e87c20.json)
-
-[Extended Data](ext_articles/43e87c20.ext.json)
-
----
-
-### Change in passports
-
-*2024-10-10 11:21:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டுக்களில்-மாற்றம்/175-345202) · `ta`
-
-Court of Appeal approves conversion of 64-page Sadarana Passport to 48-page J-Series passports. Decision made after considering proposals from Additional Solicitor General. Order issued to address shortage of facilities for foreign companies producing N-Series passports.
-
-🟩
-
-The Court of Appeal has granted permission to the Immigration Department's Executive Committee General to convert the 64-page N-Series Passport (Sadarana Passport) into 48-page J-Series passports.
-
-The order was issued after considering the proposals of Additional Solicitor General Sumathi Dharmawardena, who appeared on behalf of the Attorney General and the Immigration Controller.
-
-Mohammed Lafar Tahir and B. The announcement was made on Wednesday (10) when Kumaran Ratnam was summoned in the presence of the Court of Appeal.
-
-The Additional Solicitor General has informed the court that there is a need to transfer the passport to Z-Series due to the lack of facilities for 02 foreign companies that provide seven lakhs 50,000 N-Series passports.
-
-Recently, the Court of Appeal has issued an interim order to suspend the implementation of the Cabinet resolution for the purchase of seven million fifty thousand (750,000) N-Series passports from two companies.
-
-...
-
-[Data](articles/45d0416e.json)
-
-[Extended Data](ext_articles/45d0416e.ext.json)
 
 ---

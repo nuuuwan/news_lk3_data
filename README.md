@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 20:39:23**
+As of **2024-10-10 20:58:16**
 
 ## Newspaper Stats
 
-*Scraped **48,834** Articles*
+*Scraped **48,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,997
 dailyftlk | 3,299
 adalk | 4,537
 dailymirrorlk | 4,733
-adaderanalk | 5,767
+adaderanalk | 5,768
 tamilmirrorlk | 6,629
 virakesarilk | 7,810
 adaderanasinhalalk | 8,444
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,834 (100.0%) of 48,834 articles have been extended.
+48,835 (100.0%) of 48,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Another town in Haiti comes under attack a week after gangs killed at least 115 people
+
+*2024-10-10 20:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102600/another-town-in-haiti-comes-under-attack-a-week-after-gangs-killed-at-least-115-people) · `en`
+
+Gunmen invaded another town north of Haiti’s capital on Thursday, shooting at people and setting homes on fire, just a week after a massacre killed at least 115 people in the country’s central region. The number of casualties was not immediately known.
+
+Residents in the coastal town of Arcahaie called radio stations pleading for help and asking that police come and save them.
+
+Lionel Lazarre, deputy police spokesman, told Radio Caraïbes that officers were on site and that authorities were taking several measures to strengthen their presence.
+
+“The police heard the people of Arcahaie shouting for help,” he said.
+
+Radio Télé Monopole reported that gunmen attacked the town before dawn, opening fire and wounding multiple people as they set fire to homes, especially those in the Vigner and Bercy communities.
+
+...
+
+[Data](articles/47d3e551.json)
+
+[Extended Data](ext_articles/47d3e551.ext.json)
+
+---
 
 ### 11,000 acres of Kantale
 
@@ -2345,23 +2367,5 @@ She was later appointed as a Justice of the Supreme Court by then President Mait
 [Data](articles/51c7ece2.json)
 
 [Extended Data](ext_articles/51c7ece2.ext.json)
-
----
-
-### Acting Chief Justice oaths
-
-*2024-10-10 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202023) · `si`
-
-Sri Lanka Supreme Court Judge Fernando sworn in as acting Chief Justice.
-
-🟩
-
-Supreme Court Judge Fernando has been sworn in as the acting Chief Justice of Sri Lanka.
-
-◼️
-
-[Data](articles/233aeda4.json)
-
-[Extended Data](ext_articles/233aeda4.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 02:39:07**
+As of **2024-10-11 02:57:47**
 
 ## Newspaper Stats
 
-*Scraped **48,859** Articles*
+*Scraped **48,860** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
-colombotelegraphcom | 485
+colombotelegraphcom | 486
 bbccomsinhala | 486
 islandlk | 2,884
 economynextcom | 3,000
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,450
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,859 (100.0%) of 48,859 articles have been extended.
+48,860 (100.0%) of 48,860 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -405,6 +405,24 @@ Entreprenerian Chandralal Abeygunawardena has also joined the Normor Power Galle
 [Data](articles/22bce6dc.json)
 
 [Extended Data](ext_articles/22bce6dc.ext.json)
+
+---
+
+### Optics Mr. President – Optics!
+
+*2024-10-10 20:56:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/optics-mr-president-optics/) · `en`
+
+An unsolicited advice to the newly elected president, Anura Kumara Dissanayake.
+
+Mr. President – first, let us get some things out of the way. I am your ardent supporter. I have done my very best to reach out to my family and friends to spread the message of hope and promise for the future of Sri Lanka lies in the ideology that you and your party have been hammering out in all your rallies, forums, press conferences and gatherings of the masses in the four corners of the island.
+
+I believed in you, and I had no iota of doubt about your honesty, integrity, and the seriousness of your words on every single occasion you addressed the citizens of Sri Lanka when you asked them to choose you as their leader.
+
+...
+
+[Data](articles/0d82ebd0.json)
+
+[Extended Data](ext_articles/0d82ebd0.ext.json)
 
 ---
 
@@ -2375,27 +2393,5 @@ In addition, all schools (morning) and private educational institutions (evening
 [Data](articles/23a8b443.json)
 
 [Extended Data](ext_articles/23a8b443.ext.json)
-
----
-
-### 21 Tamil Nadu fishermen arrested
-
-*2024-10-10 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195923) · `ta`
-
-Tamil Nadu fishermen arrested for entering Sri Lanka waters. 21 detained on Wednesday while fishing near Nedundevu sea. Navy took them to Kankesanthurai Naval Camp for court proceedings.
-
-🟩
-
-21 Tamil Nadu fishermen have been arrested on charges of crossing the Sri Lankan waters.
-
-21 persons were arrested on Wednesday (09), while they were fishing in four boats in the Nedundevu sea.
-
-The Navy and the 21 fishermen who took the arrested persons and the boats to the Kankesanthurai Naval Camp have taken steps to the Kayts Magistrate's Court through the Aquatic Resources Department after investigations.
-
-◼️
-
-[Data](articles/810aa594.json)
-
-[Extended Data](ext_articles/810aa594.ext.json)
 
 ---

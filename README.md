@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 15:10:08**
+As of **2024-10-10 15:22:59**
 
 ## Newspaper Stats
 
-*Scraped **48,772** Articles*
+*Scraped **48,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,104 @@ bbccomsinhala | 485
 islandlk | 2,884
 economynextcom | 2,989
 dailyftlk | 3,299
-adalk | 4,526
+adalk | 4,527
 dailymirrorlk | 4,733
 adaderanalk | 5,757
-tamilmirrorlk | 6,619
+tamilmirrorlk | 6,623
 virakesarilk | 7,800
-adaderanasinhalalk | 8,436
+adaderanasinhalalk | 8,437
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,772 (100.0%) of 48,772 articles have been extended.
+48,778 (100.0%) of 48,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Former State Minister Shehan Semasinghe does not go to the general election
+
+*2024-10-10 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202031) · `si`
+
+Shehan Semasinghe announces he won't run in upcoming Sri Lanka parliamentary election, citing economic challenges and public misunderstanding of achievements.
+
+🟩
+
+Former Finance State Minister Shehan Semasinghe has announced that he will not contest for the forward parliamentary election.
+
+The announcement stated that the country was economically influenced by the country in the past year and that Ranil Wickremesinghe has been able to work with the former President to build the country's economy.
+
+He said that when the country and the economy would be stabilized, he believed that he believed that the people would be able to understand it.
+
+However, he stated that he believed that the masses have had no proper understanding of their victories and achievements as a country.
+
+As a result, the letter had decided not to offer himself to the coming parliamentary election, and he decided not to offer himself for the coming parliamentary election as the government had been disappointed by the government.
+
+ශෙහාන් සේමසිංහ මහතා 2020 මහ මැතිවරණයේදී අනුරාධපුර දිස්ත්‍රික්කය නියෝජනය කරමින් ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් පාර්ලිමේන්තුවට පත් වූ මන්ත්‍රීවරයෙකි.
+
+...
+
+[Data](articles/5d48e54b.json)
+
+[Extended Data](ext_articles/5d48e54b.ext.json)
+
+---
+
+### Former minister's account freeze
+
+*2024-10-10 14:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சரின்-கணக்கு-முடக்கம்/175-345225) · `ta`
+
+Colombo High Court freezes former State Minister Anuba Paskwal's bank accounts for 3 months due to bribery investigation.
+
+🟩
+
+The Colombo High Court has ordered the two bank accounts belonging to former State Minister Anuba Paskwal for three months.
+
+The Colombo High Court judge has issued the order on the request of the Commission to Investigate Bribery or Corruption.
+
+Accordingly, two bank accounts of the former Minister of State have been frozen for three months.
+
+As part of the investigation by the Commission, the Commission has received the Commission under Section 53 (1) of the Corruption Act No. 09, 2023.
+
+◼️
+
+[Data](articles/02701e9b.json)
+
+[Extended Data](ext_articles/02701e9b.ext.json)
+
+---
+
+### Consequent assistribs against Pakistan who made the hearts of Sri Lankans
+
+*2024-10-10 14:54:45* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලාංකිකයන්ගෙත්-හදවත්-සලිත-කළ-පාකිස්තානයට-එරෙහි-එංගලන්තයේ-ප්‍රති-ප්‍රහාරය/9-412422) · `si`
+
+Sri Lanka vs Pakistan: England wins 3rd Test match. Harry Brook scores 317, Joe Root 262. Pakistan batsmen struggle, scoring only 556 runs. England leads by 267 runs.
+
+🟩
+
+The contest for the fourth day of the third Test match between the Tourism England and the Pakistan team will be held in Pakistan's electoral.
+
+England won 823 runs for the loss of 07 wickets in their first innings.
+
+Harry Break recovered 317 runs and the Joor Root scored 262.
+
+The highest scorers in the history of Test cricket Sri Lanka has crashes 952 runs in the three wickets.
+
+However, the fourth highest scorer of Test cricket scored as England reported as the fourth scoreboard scored by a group of 823 runs.
+
+Pakistan scored 556 runs in their first innings to bat first.
+
+Accordingly, they are now on the first innings of England.
+
+◼️
+
+[Data](articles/89d96033.json)
+
+[Extended Data](ext_articles/89d96033.ext.json)
+
+---
 
 ### Postal Department clarifies issuance of stamps featuring PM and Minister
 
@@ -47,6 +129,36 @@ The statement also emphasized that the Postal Department offers the public the o
 [Data](articles/25f5acfa.json)
 
 [Extended Data](ext_articles/25f5acfa.ext.json)
+
+---
+
+### Will she come?Young man waiting with papa
+
+*2024-10-10 14:44:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவள்-வருவளா-பாப்பாவுடன்-காத்திருக்கும்-இளைஞன்/175-345222) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Woman leaves toddler, takes man's phone; man waits for her return. Police investigate after receiving emergency call about abandoned child. Woman's phone inactive since incident. Man works at Alawa factory, lives in Vadapitivala.
+
+🟩
+
+A young woman with a three -year -old child, who went to the young man's room, stayed with the young man for three days, leaving the baby and a young man's mobile phone.
+
+A young man who rented a room in Nitambuwa area has come to Colombo for personal needs. By then, a woman had met in the Grandpass area. Both exchanged cell phone digits. Both have been in love for a few days.
+
+In this case, Nitambuwa went to the room of the youth in Vatupitivala area with his child on the 8th of last month..  இரண்டு நாட்கள் அவ்விளைஞனுடன் தங்கியிருந்துள்ளார். Two days later, she left the baby near the young man and took the young man's phone and became ill.
+
+The young man, who was waiting for the woman to come to take the baby, was in the room without going to work.
+
+Meanwhile, in a room, a child and young man are alone in the police emergency call unit, according to the telephone number 119, the police are conducting investigations to the young man's room.. Only then did the matter exposed.
+
+...
+
+[Data](articles/c7268d0b.json)
+
+[Extended Data](ext_articles/c7268d0b.ext.json)
 
 ---
 
@@ -71,6 +183,48 @@ The four Indian fishing vessels and the Indian fishermen were taken to the port 
 [Data](articles/ebceff63.json)
 
 [Extended Data](ext_articles/ebceff63.ext.json)
+
+---
+
+### Aruchuna paid the paid
+
+*2024-10-10 14:23:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்-பணம்-செலுத்தினார்-அருச்சுனா/175-345219) · `ta`
+
+Here's a summary of "Aruchuna paid the paid" in 200 characters:
+
+
+
+Aruchuna, likely a person's name, made a payment to another party referred to as "paid." This phrase seems incomplete and lacks context about the nature of the payment, the amount, or the purpose behind it. Without additional information, it's difficult to determine the full meaning or significance of this statement.
+
+🟩
+
+◼️
+
+[Data](articles/4b533ea2.json)
+
+[Extended Data](ext_articles/4b533ea2.ext.json)
+
+---
+
+### “Sri Lanka's economy will reach 4.4 % growth”
+
+*2024-10-10 14:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-பொருளாதாரம்-4-4-வளர்ச்சியை-எட்டும்/175-345218) · `ta`
+
+Sri Lanka's economy projected to grow 4.4% by 2024, surpassing previous forecasts. Recovery remains weak, dependent on economic stability, debt restructuring, and poverty reduction efforts.
+
+🟩
+
+The World Bank (WB) said on Thursday (10) that Sri Lanka's economy is expected to grow by 4.4 per cent by 2024, which will surpass previous forecasts.
+
+Sri Lanka's two -year update, titled 'Opening for the Future' of the World Bank, has warned that the recovery is weak, and that the continued structure depends on the construction of economic stability, successful reconstruction of debt and increasing the middle -term growth and reducing poverty.
+
+The World Bank's representatives made this statement while participating in a media briefing held in Colombo on Thursday (10).
+
+◼️
+
+[Data](articles/ff4ae53a.json)
+
+[Extended Data](ext_articles/ff4ae53a.ext.json)
 
 ---
 
@@ -2295,145 +2449,5 @@ Many dignitaries express their deepest condolences to the demise of businessman 
 [Data](articles/b46a0c06.json)
 
 [Extended Data](ext_articles/b46a0c06.ext.json)
-
----
-
-### From Lebanon to Lanka: Evils of unipolarity, imperatives of resistance
-
-*2024-10-10 00:30:10* · [`dailyftlk`](https://www.ft.lk/columns/From-Lebanon-to-Lanka-Evils-of-unipolarity-imperatives-of-resistance/4-767755) · `en`
-
-Somewhere in 2011, jazz genius Herbie Hancock made a generous reference to my familiarity with jazz and blues in the LA Times, due to my inputs into International Jazz Day which he initiated at the UNESCO, Paris. This American initiative was unanimously supported by the enthusiastic membership, with every ambassador testifying about his/her indelible first encounter with jazz, a cumulative testament to its unique universality.
-
-Mere months later, the US was isolated at UNESCO when Palestine was admitted as a member by over the mandatory two-thirds vote, despite a stern warning delivered in person by US Secretary of State Hillary Clinton who flew in for the purpose. I figured in this battle for Palestine too with photos appearing in Liberation (founded by Sartre) and the international press.
-
-Several months afterwards, all of us reconverged warmly at the first ever International Jazz Day Concert by Herbie Hancock and Friends at the UNESCO auditorium in Paris.
-
-...
-
-[Data](articles/74eced04.json)
-
-[Extended Data](ext_articles/74eced04.ext.json)
-
----
-
-### 2024-10-09 (Wednesday)
-
-### Asian Champion, who surrendered to India, leaves Sri Lanka's first round;India's semi -final chance swing
-
-*2024-10-09 23:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/195900) · `ta`
-
-India beats Sri Lanka in ICC Women's T20 World Cup, advancing to semis. India scores 
-
-🟩
-
-The Asian Champion Sri Lanka surrendered to India at the ICC Women's T20 World Cup A group held at the Dubai International Cricket Stadium on Wednesday night.
-
-India won by 82 runs in all sectors to surpass Sri Lanka in this competition, but its semi -final chance.
-
-India's last match is against Australia with 4 points. Meanwhile, New Zealand, with 2 points in Sri Lanka and Pakistan. With today's victory, India has advanced to second place with 4 points.
-
-India decided to bat first in today's match against Sri Lanka and scored 172 runs for the loss of only 3 wickets in 20 overs.
-
-All India's leading heroes made the best contribution and strengthened the total number.
-
-Shabali Verma and Smrithi Mandana played a stunning bats and shared 98 runs off 76 balls.
-
-Smrithi Mandana scored 50 runs off 38 balls while Shabali Verma scored 43 off 40 balls.
-
-Rotrix was out with 16 runs while both team captain Hamanpreet Gor and Jemima Rotrix shared 30 runs in the 3rd wicket.
-
-...
-
-[Data](articles/dbec06af.json)
-
-[Extended Data](ext_articles/dbec06af.ext.json)
-
----
-
-### New leader for SriLankan Airlines
-
-*2024-10-09 23:32:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீலங்கன்-எயார்லைன்ஸிற்கு-புதிய-தலைவர்/175-345191) · `ta`
-
-SriLankan Airlines appoints new CEO. The airline aims to improve its financial performance and expand its route network. The new leader brings experience from other airlines and promises to enhance customer service.
-
-🟩
-
-◼️
-
-[Data](articles/a8882365.json)
-
-[Extended Data](ext_articles/a8882365.ext.json)
-
----
-
-### Banana magic…
-
-*2024-10-09 23:18:00* · [`islandlk`](http://island.lk/banana-magic/) · `en`
-
-Bananas are freely available in the market so I thought it would be quite appropriate to try out some banana magic this week.
-
-You will need ½ banana, 01 tablespoon honey and 01tablespoon milk.
-
-Smash the banana till it becomes a smooth fine paste. Then add the honey and milk and mix well.
-
-Apply this mixture on your face and neck and leave it for 15 minutes, and then wash off with cool water.
-
-You will need 01 ripe banana, 02 tablespoons oats and 01 tablespoon of honey,
-
-Peel the banana and smash it to a smooth fine paste. Add the oats and honey and mix them well.
-
-Apply this mixture on your face by massaging and exfoliating and leave it for 15 minutes and then wash it off with cool water and pat dry your skin.
-
-Mash up a medium-sized ripe banana into a smooth paste, and then gently apply it to your face and neck. Let it set for 10 to 20 minutes and then wash it off with cool water.
-
-...
-
-[Data](articles/f9eb478d.json)
-
-[Extended Data](ext_articles/f9eb478d.ext.json)
-
----
-
-### Sarath Ganegoda appointed new chairman of SriLankan Airlines
-
-*2024-10-09 23:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102573/sarath-ganegoda-appointed-new-chairman-of-srilankan-airlines) · `en`
-
-Sarath Ganegoda has been appointed as the new Chairman of SriLankan Airlines effective from today (09).
-
-Meanwhile, a new Board of Directors has also been appointed to Sri Lanka’s national carrier, under the chairmanship of Mr. Ganegoda.
-
-A prominent business leader, Mr Ganegoda currently serves as the Group Executive Director of Sri Lankan multinational Hayleys PLC and Deputy Chairman of Alumex PLC.
-
-He joined the Hayleys Group in 2007 and was appointed to the Group Management Committee in July 2007.
-
-He was appointed to the Board of Hayleys PLC in September 2009 and to the Board of Alumex PLC in November 2010.
-
-He is a Fellow Member of CA Sri Lanka and a Member of the Institute of Chartered Management Accountants of Australia. He holds an MBA from the Post Graduate Institute of Management, University of Sri Jayewardenepura.
-
-He held several senior management positions in large private entities in Sri Lanka and overseas.
-
-◼️
-
-[Data](articles/072897d7.json)
-
-[Extended Data](ext_articles/072897d7.ext.json)
-
----
-
-### India and China key for Sri Lanka’s full recovery
-
-*2024-10-09 23:15:48* · [`dailyftlk`](https://www.ft.lk/columns/India-and-China-key-for-Sri-Lanka-s-full-recovery/4-767754) · `en`
-
-Ambassador of the People’s Republic of China Qi Zhenhong, a great supporter of Sri Lanka’s progress, met with President Anura Kumara Dissanayake
-
-Indian External Affairs Minister Dr. S. Jaishankar met Sri Lankan President Anura Kumara Dissanayake in Colombo on Friday. Dr. Jaishankar recently urged for all Indians to visit Sri Lanka for holiday
-
-With a new president in office, Sri Lanka is grappling with the aftermath of one of the worst economic crises in its history, which came to a head in 2022. While the former president bore the brunt of public dissatisfaction for enforcing painful austerity measures, many Sri Lankans have since underestimated and largely forgotten the precariousness of the country’s situation at that time.
-
-...
-
-[Data](articles/15cc1d08.json)
-
-[Extended Data](ext_articles/15cc1d08.ext.json)
 
 ---

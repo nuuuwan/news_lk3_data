@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 23:23:14**
+As of **2024-10-10 23:39:13**
 
 ## Newspaper Stats
 
-*Scraped **48,851** Articles*
+*Scraped **48,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ adalk | 4,539
 dailymirrorlk | 4,733
 adaderanalk | 5,770
 tamilmirrorlk | 6,631
-virakesarilk | 7,813
+virakesarilk | 7,817
 adaderanasinhalalk | 8,450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,851 (100.0%) of 48,851 articles have been extended.
+48,855 (100.0%) of 48,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Brooke, root double century;Dominated with England achievements in Test match with Pakistan
+
+*2024-10-10 22:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195986) · `ta`
+
+England dominates Pakistan in Test match, Harry Brook scores 317, Joe Root 262. England breaks 66-year record, highest Test score in Pakistan. Joe Root surpasses 13,000 Test runs. England wins match, Pakistan struggles in second innings.
+
+🟩
+
+With the help of Herry Brooke and Joe Root in the first Test cricket match at Multan Cricket Stadium, Pakistan has been pushed to the brink of defeat.
+
+Pakistan are on the brink of losing 152 runs for the loss of 6 wickets in its second innings, at the end of today's match, in the fourth day of the Test match, which won a considerable number of total number in the first innings.
+
+Pakistan has to score a further 115 runs to remain only 4 wickets to recover from the inning defeat.
+
+In its first innings, Pakistan scored 556 runs with the help of Abdullah Shafiq (102), team captain Shaun Masood (151) and Salman Aga (104) in its first innings.
+
+On the fourth day of the England match in the first innings, Harry Brook's concentration, with the help of the double centuries of Joe Root, felt the grip of the game.
+
+The Yorkshire regional team was the result of 454 runs in the 4th wicket and England stopped their first innings with 7 wickets and scored 823 runs.
+
+...
+
+[Data](articles/8f6493e2.json)
+
+[Extended Data](ext_articles/8f6493e2.ext.json)
+
+---
 
 ### Notice to all public institutions
 
@@ -93,6 +121,28 @@ The Inspector General of Police said that if state vehicles or assets are theft 
 [Data](articles/dfcb040d.json)
 
 [Extended Data](ext_articles/dfcb040d.ext.json)
+
+---
+
+### Get permission to get the president's photos!
+
+*2024-10-10 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/195985) · `ta`
+
+President's Secretary mandates written permission for publishing presidential photos and greetings. Applies to state institutions for official events and souvenirs. Ensures alignment with government policies and budget management.
+
+🟩
+
+President's Secretary Dr. Nandika Sanath Kumanayake has advised all state institutions to obtain the written permission of the President's Secretariat before publishing the President's photos and greetings for name boards and special souvenirs for various events.
+
+The President's Secretary has further informed the state institutions that it is necessary to act in accordance with the policy and vision of the government in the process of arranging state funds.
+
+The announcement has been made by the President's Secretary to the Secretaries of the Ministry, all Provincial Chief Secretaries, Department Heads, Leaders of the Legal Institutions and Leaders of State Corporations, including state corporations.
+
+◼️
+
+[Data](articles/2776613e.json)
+
+[Extended Data](ext_articles/2776613e.ext.json)
 
 ---
 
@@ -174,6 +224,28 @@ Speculation has been rife that Abeysekara, who retired from the service 3 years 
 
 ---
 
+### Motorcycles collide
+
+*2024-10-10 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195973) · `ta`
+
+Motorcycle collision kills woman, injures driver. Two bikes crash on Avissawella-Colombo road. Victim's body at Padukka hospital.
+
+🟩
+
+A woman who was sitting in the back of a motorcycle was killed when two motorcycles collided with a motorcycle near Kodikahakanda Mawatha on the Avissawella -Colombo road, Padukka police said today (10).
+
+Two motorcycles were traveling from Bahadkama to Meeb and collided with another motorcycle in the same direction, police said.
+
+The woman who died in the accident and the driver of the other motorcycle has been admitted to the Padukku District Hospital with minor injuries and the body of the deceased has been placed in the funeral room of the hospital.
+
+◼️
+
+[Data](articles/d588e244.json)
+
+[Extended Data](ext_articles/d588e244.ext.json)
+
+---
+
 ### Weather alert issued for heavy rainfall above 150mm
 
 *2024-10-10 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102601/weather-alert-issued-for-heavy-rainfall-above-150mm) · `en`
@@ -195,6 +267,30 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/0eede212.json)
 
 [Extended Data](ext_articles/0eede212.ext.json)
+
+---
+
+### National People's Power
+
+*2024-10-10 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/195969) · `ta`
+
+National People's Power nominates candidates for Kandy district parliamentary election. Three minorities contest: two Muslims and one Tamil. Chief candidate Gurugamage Don Lalgantha leads team.
+
+🟩
+
+The National People's Power today (10) filed a nomination for parliamentary elections in Kandy district.
+
+There are three minority candidates contesting. It is noteworthy that two Muslim candidates and a Tamil candidate are contesting.
+
+On behalf of the National People's Power in the Kandy District, the chief candidate Gurugamage Don Lalgantha, Dissanayake Elderly, Dhanura Harna Dissanayake.
+
+Jayanti Koralalala, Kodhidu Arachchi Jagath Manuwakku, Yapa Elderly Kumara Muhammad Basmin, HerathNimal Herath Banda and Ekanayaka Mudiyanzalake Ketha Kumbure Ketha Basnayaka will compete in the national popular power.
+
+◼️
+
+[Data](articles/380a836f.json)
+
+[Extended Data](ext_articles/380a836f.ext.json)
 
 ---
 
@@ -2279,103 +2375,5 @@ Fernando was sworn in before President Anura Dissanayake on Thursday morning (10
 [Data](articles/534538f2.json)
 
 [Extended Data](ext_articles/534538f2.ext.json)
-
----
-
-### Films ban on five bank accounts
-
-*2024-10-10 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202025) · `si`
-
-Colombo High Court bans 2 bank accounts of former State Minister Pasadaal due to bribery allegations.
-
-🟩
-
-The Colombo High Court has issued an order banning two bank accounts belonging to former State Minister and Pasadaal.
-
-The Bribery Commission has requested the Colombo High Court today to prohibit two bank accounts of the Indian State Minister under the anti-government state minister.
-
-The order has been issued by the Colombo High Court after considering the request.
-
-◼️
-
-[Data](articles/e1cf2c89.json)
-
-[Extended Data](ext_articles/e1cf2c89.ext.json)
-
----
-
-### Husband who attacked the wife, who met the boyfriend
-
-*2024-10-10 11:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதலனை-சந்தித்த-மனைவியை-ஆயுதத்தால்-தாக்கிய-கணவன்/76-345207) · `ta`
-
-Husband attacks wife over suspected affair. Wife hospitalized after stabbing. Police investigating family dispute in Diyagama West.
-
-🟩
-
-In the Diyagama West, the Diyagama police division, the incident was reported on Wednesday (10) due to a family dispute due to a family dispute.
-
-A mother of three children (26 years old) was thus injured and injured in the attack and was admitted to the Nuwara Eliya District General Hospital.
-
-The wife, who said she was going to Colombo after a dispute between husband and wife on Tuesday evening, left his house and went to her ex -boyfriend's house that night.
-
-However, the husband and wife who observed that the wife was in his house when the boy went to work in the same area when her husband suddenly went to his house on suspicion that her husband did not get a phone call from his wife from Wednesday (09) to Wednesday (09) morning.
-
-The injured woman has been admitted to the hospital by neighbors and surrendered to the police station with a knife used by the suspect.
-
-Further investigations are being carried out by Diagama police.
-
-◼️
-
-[Data](articles/09c45f2f.json)
-
-[Extended Data](ext_articles/09c45f2f.ext.json)
-
----
-
-### Husband who attacked the mother, who met her boyfriend
-
-*2024-10-10 11:50:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதலனை-சந்தித்த-தாயை-ஆயுதத்தால்-தாக்கிய-கணவன்/76-345207) · `ta`
-
-Husband attacks wife over suspected affair. Woman hospitalized after stabbing. Police investigating family dispute in Diyagama.
-
-🟩
-
-In the Diyagama West, the Diyagama police division, the incident was reported on Wednesday (10) due to a family dispute due to a family dispute.
-
-A mother of three children (26 years old) was thus injured and injured in the attack and was admitted to the Nuwara Eliya District General Hospital.
-
-The wife, who said she was going to Colombo after a dispute between husband and wife on Tuesday evening, left his house and went to her ex -boyfriend's house that night.
-
-However, the husband and wife who observed that the wife was in his house when the boy went to work in the same area when her husband suddenly went to his house on suspicion that her husband did not get a phone call from his wife from Wednesday (09) to Wednesday (09) morning.
-
-The injured woman has been admitted to the hospital by neighbors and surrendered to the police station with a knife used by the suspect.
-
-Further investigations are being carried out by Diyagama police.
-
-◼️
-
-[Data](articles/f3b2bf03.json)
-
-[Extended Data](ext_articles/f3b2bf03.ext.json)
-
----
-
-### 2012 Greek bonds case: Ex-CBSL chief Cabraal and 3 others granted bail
-
-*2024-10-10 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102583/2012-greek-bonds-case-ex-cbsl-chief-cabraal-and-3-others-granted-bail-) · `en`
-
-Indictments have been filed against former Governor of the Central Bank of Sri Lanka (CBSL) Ajith Nivard Cabraal and three other defendants in a case filed against them alleging financial losses caused to the government of Sri Lanka through investments in Greek treasury bonds in 2012.
-
-The defendants were accused of causing a loss of over Rs. 1.8 billion to the Sri Lankan government through the Greek T-bond investments in 2012.
-
-However, following the submission of indictments filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), the Colombo High Court has ordered the four defendants be released on surety bail of Rs. 10 million each.
-
-Later, the Colombo High Court, which also imposed an overseas travel ban against the four defendants, ordered that they should hand over their passports to the court and obtain permission if they leave the country.
-
-◼️
-
-[Data](articles/f764c972.json)
-
-[Extended Data](ext_articles/f764c972.ext.json)
 
 ---

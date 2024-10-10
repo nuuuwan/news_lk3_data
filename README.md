@@ -1,36 +1,128 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 19:39:04**
+As of **2024-10-10 19:57:27**
 
 ## Newspaper Stats
 
-*Scraped **48,825** Articles*
+*Scraped **48,832** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 485
-bbccomsinhala | 485
+bbccomsinhala | 486
 islandlk | 2,884
 economynextcom | 2,997
 dailyftlk | 3,299
 adalk | 4,536
 dailymirrorlk | 4,733
-adaderanalk | 5,766
+adaderanalk | 5,767
 tamilmirrorlk | 6,628
-virakesarilk | 7,806
-adaderanasinhalalk | 8,443
+virakesarilk | 7,810
+adaderanasinhalalk | 8,444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,825 (100.0%) of 48,825 articles have been extended.
+48,832 (100.0%) of 48,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### 11,000 acres of Kantale
+
+*2024-10-10 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202038) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka: President allocates 11,000 acres from Kantale Sugar Company for short-term crops.
+
+🟩
+
+President Anura Kumara Dissanayake has instructed to allocate 11,000 acres of land from the land belonging to the Kantale Sugar Company for short term crops.
+
+The Presidential Media Unit said that the President was given the counsel to the relevant ministry officials.
+
+◼️
+
+[Data](articles/95aed471.json)
+
+[Extended Data](ext_articles/95aed471.ext.json)
+
+---
+
+### Provide the land of the Kantalai Sr. Factory for short -term cultivation - President
+
+*2024-10-10 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/195983) · `ta`
+
+President Anura Kumara Dissanayake directs allocation of 11,000 acres from Kandalai Srinipa Factory for short-term cultivation. Establishes mechanism for regular land distribution under five acres. Discusses future plans with agriculture ministry officials.
+
+🟩
+
+President Anura Kumara Dissanayake on Thursday (10) issued a directive to the authorities to provide 11,000 acres of land belonging to the Kandalai Srinipa Factory for short -term cultivation.
+
+The President also advised to prepare a regular mechanism for the land and less than five acres.
+
+The President gave these instructions when he met officials of the Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources at the Presidential Office this afternoon.
+
+As the Minister in charge of the matter, the President asked the activities and improvements of the relevant ministries and discussed the future plans.
+
+MPNM, Secretary to the Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources. Wickremesinghe, Director General of the Land Commission Hemasiri Liyanage and senior officials of the relevant ministries were present at the meeting.
+
+◼️
+
+[Data](articles/a0138e98.json)
+
+[Extended Data](ext_articles/a0138e98.ext.json)
+
+---
+
+### 11,000 acres of land from Kantale Sugar Company allocated to farmers
+
+*2024-10-10 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102599/11000-acres-of-land-from-kantale-sugar-company-allocated-to-farmers) · `en`
+
+President Anura Kumara Dissanayake has advised relevant Ministry officials to allocate 11,000 acres of land belonging to the Kantale Sugar Company to farmers for the cultivation of short-term crops, the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/8ca6e935.json)
+
+[Extended Data](ext_articles/8ca6e935.ext.json)
+
+---
+
+### Sri Lanka fails to Myanmar due to the mistakes of the players and the negligence of the goalkeeper
+
+*2024-10-10 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195981) · `ta`
+
+Sri Lanka loses 0-2 to Myanmar in football tournament. Mistakes by players Jude Suban and Salana Sameera, goalkeeper Sujan Perera's negligence key factors. Slow gameplay, poor ball exchanges hindered team's chances.
+
+🟩
+
+Sri Lanka lost to Myanmar by 0 - 2 at the Sunnar International Football Tournament held at the Myanmar, Yangon Stadium on Thursday afternoon.
+
+Sri Lanka failed due to the mistakes of the players Jude Suban and Salana Sameera and the negligence of goalkeeper Sujan Perera.
+
+A month ago, Sri Lankan players who played with the best understanding and technique in Sri Lanka and later Cambodia were not exposed to the Yangoon match.
+
+In the 16th minute of the match, the Myanmar player was moving to the right of Payng - No.9, when he was unable to stop him by Pinnala player Jude Suban.
+
+On that occasion, goalkeeper Sujan Perera moved forward and tried to stop the ball.
+
+At the same time, he is the Bayng ball to Elvin Mo Ang (Lwin Moe Aung - No. 7) moved. Immediately, Elvin Mo Aung, who was in the 18th phase, put the ball into the ground and put it in the presence of Myanmar.
+
+...
+
+[Data](articles/2848a3b5.json)
+
+[Extended Data](ext_articles/2848a3b5.ext.json)
+
+---
 
 ### US gifts advanced aircraft to bolster Sri Lanka’s maritime security
 
@@ -243,6 +335,32 @@ The US remains committed to enhancing the bilateral relationship with Sri Lanka,
 [Data](articles/74fe3a5c.json)
 
 [Extended Data](ext_articles/74fe3a5c.ext.json)
+
+---
+
+### TNA nomination in Vanni
+
+*2024-10-10 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195970) · `ta`
+
+TNA candidates nominated in Vanni: Selvaraj, Dinason, Anthony Dalemahalisra file papers at Vavuniya District Secretariat.
+
+🟩
+
+The nominations of the Sri Lanka Tamil National Party (TNA) election constituency were filed at the Vavuniya District Secretariat today at 03.00 pm.
+
+The candidates signed the candidates at the Vavuniya District Tamil National Party office at 01.00 pm - 01.30 pm.
+
+Subsequently, after the candidates were worshiping, the district secretariat was in the party office and the nominations were filed.
+
+In particular, the Mullaitivu Administrative District, four, on behalf of the Vavuniya Administrative District, have filed their nominations to contest the parliamentary elections in the Vanni election, which includes the three administrative districts of Mullaitivu, Vavuniya and Mannar.
+
+Former Northern Provincial Council Member of the Mullaitivu Administration Attorney -at -Law Selvaraj represents Mannar districtDinason and legal student Anthony Dalemahalisra have thus filed their nomination papers to contest the parliamentary elections as a Sri Lankan Tamil party.
+
+◼️
+
+[Data](articles/0cd10a1c.json)
+
+[Extended Data](ext_articles/0cd10a1c.ext.json)
 
 ---
 
@@ -465,6 +583,30 @@ People who do not vote for us in the presidential election work with us because 
 [Data](articles/e994ae11.json)
 
 [Extended Data](ext_articles/e994ae11.ext.json)
+
+---
+
+### Democratic Tamil National Alliance nominated in Vanni!
+
+*2024-10-10 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195962) · `ta`
+
+TNA nominates candidates for parliamentary elections in Vanni district. Former MPs and provincial council members selected. Election filing completed at Vavuniya District Secretariat.
+
+🟩
+
+The Democratic Tamil National Alliance (TNA) filed a nomination for parliamentary elections in the Vanni district on Thursday (10).
+
+The Democratic Tamil National Alliance (TNA) is contesting the upcoming parliamentary elections in the upcoming parliamentary elections in the Wanni Election District.
+
+In this case, the election was filed at the Vavuniya District Secretariat today afternoon.
+
+Former MPs Selvam Adakkalanathan, Sivasakthi Anandan, former Northern Provincial Council Member Senthilnathan Mayuran, Former Northern Provincial Council Minister Kandaya SivanesanThe businessman A. Royan has been named as the candidates.
+
+◼️
+
+[Data](articles/81ac77f7.json)
+
+[Extended Data](ext_articles/81ac77f7.ext.json)
 
 ---
 
@@ -1430,6 +1572,50 @@ On her departure on 13 October, ‘‘Ppa Montecuccoli’ is set to engage in a 
 
 ---
 
+### Vinul Karunaratne: In the 25 years, Sri Lankans, a Sri Lankan, speaks of Australian
+
+*2024-10-10 12:50:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cr75137nlejo) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan Vinul Karunaratne, 26, became millionaire cleaning business. Started in Australia, now employs 40 staff. Entrepreneurial journey from cleaner to CEO. Plans to invest in Sri Lanka.
+
+🟩
+
+Vinul Karunaratne: In the 25 years, Sri Lankans, a Sri Lankan, speaks of Australian
+
+A Sri Lankan youth aged 26, Australia, has been more conversations from the media.
+
+According to the reports, a Sri Lankan youth who served as a cleanse employee had become a millionaire.
+
+The BBC Sinhala, Vinil Karunaratne, was able to connect the youthful man vin Karunaratne through the investigations carried out.
+
+There he said, "Some media published in the media is not true."
+
+Let us know what is the truth about him.
+
+Winzul Karunaratne aged 26, 1998, was born on October 2, 1998.
+
+He lived with his parents and the two sisters in their home in Kotte.
+
+He has been studying in Nugegoda and Lycemp International School, and the Cambridge has appeared for the Ordinary Level examination.
+
+How can be a graduate by 19 years of age without the age of 19?
+
+He was 17 years old when he finished the GCE O / L examination.
+
+"Dad sent me to Australia because the Cambridge was expedited. Then I graduated from ICT Business Alatics. "
+
+...
+
+[Data](articles/330e75e3.json)
+
+[Extended Data](ext_articles/330e75e3.ext.json)
+
+---
+
 ### Acting Chief Justice sworn in before President
 
 *2024-10-10 12:47:32* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-අගවිනිසුරු-ජනපති-ඉදිරියේ-දිවුරුම්-දෙයි/11-412420) · `si`
@@ -2163,181 +2349,5 @@ In equities, Colombo’s All Share Price Index was trading 0.11 percent, or 12.9
 [Data](articles/5e70975d.json)
 
 [Extended Data](ext_articles/5e70975d.ext.json)
-
----
-
-### Global business travel set to surpass pre-pandemic levels to USD 1.5 tn: WTTC
-
-*2024-10-10 10:42:00* · [`economynextcom`](https://economynext.com/global-business-travel-set-to-surpass-pre-pandemic-levels-to-usd-1-5-tn-wttc-183056/) · `en`
-
-ECONOMYNEXT — Business travel is set to surpass pre-pandemic levels in 2024, faster than previously predicted, to reach a record 1.5 trillion US dollars, the World Travel & Tourism Council (WTTC) said.
-
-The rise of remote working during the pandemic had a disproportionate effect on corporate travel, compared to leisure travel, with virtual platforms replacing face-to-face meetings, the WTTC said in a statement on Thursday October 10.
-
-“Last year, leisure travel was just 2.9 percent behind the 2019 peak, whilst business travel continued to struggle, remaining 5.4% percent behind. But as business leaders re-emphasised the importance of face-to-face interaction, business travel is now back and is set to exceed 2019 levels by an impressive 6.2 percent to reach the new 1.5 trillion US dollar record.”
-
-...
-
-[Data](articles/93050582.json)
-
-[Extended Data](ext_articles/93050582.ext.json)
-
----
-
-### Sri Lanka women's cricket out of World Cup
-
-*2024-10-10 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202022) · `si`
-
-Sri Lanka women's cricket team eliminated from T20 World Cup after losing to India by 82 runs. Team scored 90/9 in 20 overs, while India reached 172/3. This defeat follows losses in first three matches of the tournament.
-
-🟩
-
-Sri Lanka women's group has to remove the Twenty20 Women Cup of Twenty20 Women's World Cricket.
-
-The match against the Indian women's group yesterday was defeated by 82 runs.
-
-The Indian women's group scored 172 runs for the loss of 03 wickets in the final 20 overs.
-
-Hermanpreet Correth Cor scored 52 runs and Smratha Mandana.
-
-Sri Lanka women's group to enter the field for their reputation were 90 runs for the loss of 90 runs.
-
-Accordingly, the first three matches of the tournament have been defeated and one of the first three matches of the tournament.
-
-◼️
-
-[Data](articles/fc5489a9.json)
-
-[Extended Data](ext_articles/fc5489a9.ext.json)
-
----
-
-### Wimal's National Freedom Front decides to compete in the election
-
-*2024-10-10 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202021) · `si`
-
-Wimal Weerawansa's National Freedom Front enters 2024 election, opposing UNP's participation. Party aims to represent public interests and guide government against external threats. Decision made after internal discussions and consensus among members.
-
-🟩
-
-Former UNP MP Wimal Weerawansa says that the National Independence Party will not contest for the 2024 parliamentary election.
-
-He said a special announcement, Anura Dissanayake has no doubts that there is no doubt that the hostile forces serving in the hostile imperialist agenda to make the country second.
-
-However, Wimal Weerawansa said further that his party representing the needs of the needs of the needs of the needy and said that it is also responsible.
-
-As a political movement that has the right to power of the JVP, as a political movement that has the right to power of the JVP, is bound to preserve the president to protect the president and created the mandate.. In that case, the establishment of a general majority of the majority of the majority is a precondition to face the above crisis. It is limited to bargaining power with the government of separatist and religious extremist gangs.
-
-...
-
-[Data](articles/53d46ced.json)
-
-[Extended Data](ext_articles/53d46ced.ext.json)
-
----
-
-### Prime Minister Harini signed the nomination
-
-*2024-10-10 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/195913) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Prime Minister Harini Amarasuriya signed to contest parliamentary elections in Colombo district. She vowed to lead her team with dedication, talent, and vision to win the election nationwide from Colombo.
-
-🟩
-
-Prime Minister Harini Amarasuriya signed on Wednesday (09) to contest the upcoming parliamentary elections in the Colombo district.
-
-The Prime Minister said, "We are determined to win the elections in the entire country in the Colombo district, leading the team with dedication, talent and visionary."
-
-◼️
-
-[Data](articles/57a66f5d.json)
-
-[Extended Data](ext_articles/57a66f5d.ext.json)
-
----
-
-### 2024 General Election: Accepting postal voting applications ends today
-
-*2024-10-10 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102579/2024-general-election-accepting-postal-voting-applications-ends-today) · `en`
-
-The accepting of postal voting applications for the 2024 General Election is set to conclude at midnight today (10).
-
-Accordingly, all the public service officials except those who have been exempted from election duties must submit their postal voting applications. The Election Commission emphasized that failure to apply for postal votes or submitting defective applications will not be considered a reason to exempt officials from election duties.
-
-Meanwhile, placing deposits for independent groups related to the upcoming General Election is scheduled to end at 12 noon today.
-
-Apart from the recognized political parties, all independent groups must place deposits for the General Election.
-
-Accordingly, the Election Commission stated that a total of 293 independent groups have placed deposits to contest the 2024 General Election as of yesterday (09) , with the highest number of 42 Independent groups from the Digamadulla Electoral District.
-
-...
-
-[Data](articles/4123a755.json)
-
-[Extended Data](ext_articles/4123a755.ext.json)
-
----
-
-### It is important to maintain good mental health from birth to death -Prime Minister's Mental Day News
-
-*2024-10-10 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195910) · `ta`
-
-Maintaining good mental health throughout life is crucial. Prime Minister Harini Amara Surya emphasizes this on World Mental Health Day. A healthy work environment, effective stress management, and social support are key. These factors help reduce employee stress, improve productivity, and foster a mentally free society from childhood to adulthood.
-
-🟩
-
-Prime Minister Harini Amara Surya said in a mental health day that it is important to maintain good mental health from birth to death.
-
-2024 World Mental Health Day illustrates the importance of the physical environment of the workplace, the implementation of stress management, the implementation of the social.
-
-Even healthy staff can suffer from physical and stress in poor work.
-
-If employees realize and focus on mental health, it will reduce the stress of the staff, decrease in work and increase their work.
-
-My intention is that you can create a good society by enjoying mental freedom from small children to adults.
-
-◼️
-
-[Data](articles/07a15df3.json)
-
-[Extended Data](ext_articles/07a15df3.ext.json)
-
----
-
-### Two suspects arrested for two murders
-
-*2024-10-10 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202020) · `si`
-
-Two suspects arrested for murders in Biyagama and Ruwanwella. Police investigation reveals private dispute led to assault. Suspect arrested in Gonapinuwa area after returning from abroad. Further investigations ongoing.
-
-🟩
-
-Police have arrested two suspects who were in need of two murders.
-
-Two suspects were arrested by two suspects in Biyagama and Ruwanwella.
-
-In the Biyagama Malwana area, a man was assaulted by a sharp weapon on 23rd last month.
-
-The investigation was revealed at a private dispute between the deceased and the suspect.
-
-The suspect was arrested by the police stating that a person was killed and killed in April 20, 2021.
-
-Accordingly, the suspect has been arrested by the police in Gonapinuwa area in Galle yesterday (09).
-
-The murder and organized criminal investigation unit of the Criminal Investigations Department had begun.
-
-After the assassination, the suspect had been abroad and returned to Sri Lanka in 2022 and was hiding in Gonapinuwa area.
-
-The human assassination and organized criminal investigation unit in connection with the incident are conducting further investigations.
-
-◼️
-
-[Data](articles/b78f1eed.json)
-
-[Extended Data](ext_articles/b78f1eed.ext.json)
 
 ---

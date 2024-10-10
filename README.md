@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 19:23:28**
+As of **2024-10-10 19:39:04**
 
 ## Newspaper Stats
 
-*Scraped **48,824** Articles*
+*Scraped **48,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 485
 islandlk | 2,884
 economynextcom | 2,997
 dailyftlk | 3,299
-adalk | 4,535
+adalk | 4,536
 dailymirrorlk | 4,733
 adaderanalk | 5,766
 tamilmirrorlk | 6,628
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,443
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,824 (100.0%) of 48,824 articles have been extended.
+48,825 (100.0%) of 48,825 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,30 @@ Equipped with cutting-edge surveillance technology, the King Air will strengthen
 [Data](articles/ef9438c2.json)
 
 [Extended Data](ext_articles/ef9438c2.ext.json)
+
+---
+
+### Tea exports to Saudi
+
+*2024-10-10 18:45:59* · [`adalk`](https://www.ada.lk/breaking_news/සෞදියට-තේ-අපනයනය-වැඩි-කරන්න-යයි/11-412433) · `si`
+
+Saudi Arabia's ambassador met Sri Lanka's president to discuss trade, particularly tea exports. They discussed strengthening bilateral relations and attracting investors.
+
+🟩
+
+Saudi Arabian Ambassador to Sri Lanka's Zudy Arabian Ambassador Khaded Nasser AlkAtani (Khalid Hamuud Nasser alkahatani) met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
+
+Ambassador Alkothani was presented to the President of King Salman Bin Abithani in Saudi Arabia for Anura Kumara Dissanayake.
+
+Discussions were made regarding the current status of the region and the friendship and cooperation between Saudi Arabia and Sri Lanka.
+
+Ambassador Alkothani expressed his praise on the long-term support and continued cooperation between the Long Term Assistance and the two nations. The President and Ambassador also focused on the increase in the export of tea in Sri Lanka to Saudi Arabia.
+
+...
+
+[Data](articles/21a354f1.json)
+
+[Extended Data](ext_articles/21a354f1.ext.json)
 
 ---
 
@@ -2315,33 +2339,5 @@ The human assassination and organized criminal investigation unit in connection 
 [Data](articles/b78f1eed.json)
 
 [Extended Data](ext_articles/b78f1eed.ext.json)
-
----
-
-### Governor's work to take steps to prevent AIDS in the Eastern Province
-
-*2024-10-10 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195907) · `ta`
-
-New Governor Jayantalal Ratnasekara takes action against AIDS in Eastern Province. Seminar held in Batticaloa, health reports show 67 cases across districts. Ministry plans measures to eradicate disease, seeks cooperation from government departments.
-
-🟩
-
-The Ministry of Health has identified 67 AIDS in the Eastern Province Batticaloa and Trincomalee districts.
-
-The new Governor of the Eastern Province, Professor Jayantalal Ratnasekara has taken serious action to prevent AIDS in the province.
-
-Accordingly, a special seminar on AIDS Prevention in Batticaloa yesterday was held under the patronage of the new Governor Jayantalal Ratnasekera.
-
-Health reports have been submitted that 26 people in the Trincomalee district, 25 in Ampara district and 16 people in the Batticaloa district have been affected by AIDS.
-
-Accordingly, the Ministry of Health is in the Eastern Provincial Ministry of Health and plans to take serious measures to eradicate AIDS in the Eastern Province.
-
-At a special seminar held yesterday, it was decided that the Department of Health to control the AIDS No in the Eastern Province, with the cooperation of the other government departments and takes place in detail.
-
-...
-
-[Data](articles/84ebda80.json)
-
-[Extended Data](ext_articles/84ebda80.ext.json)
 
 ---

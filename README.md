@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 11:59:06**
+As of **2024-10-10 12:13:54**
 
 ## Newspaper Stats
 
-*Scraped **48,728** Articles*
+*Scraped **48,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,989
 dailyftlk | 3,299
 adalk | 4,519
 dailymirrorlk | 4,733
-adaderanalk | 5,751
-tamilmirrorlk | 6,608
+adaderanalk | 5,752
+tamilmirrorlk | 6,613
 virakesarilk | 7,787
 adaderanasinhalalk | 8,430
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 8,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,728 (100.0%) of 48,728 articles have been extended.
+48,734 (100.0%) of 48,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### 2012 Greek bonds case: Ex-CBSL chief Cabraal and 3 others granted bail
+
+*2024-10-10 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102583/2012-greek-bonds-case-ex-cbsl-chief-cabraal-and-3-others-granted-bail-) · `en`
+
+Indictments have been filed against former Governor of the Central Bank of Sri Lanka (CBSL) Ajith Nivard Cabraal and three other defendants in a case filed against them alleging financial losses caused to the government of Sri Lanka through investments in Greek treasury bonds in 2012.
+
+The defendants were accused of causing a loss of over Rs. 1.8 billion to the Sri Lankan government through the Greek T-bond investments in 2012.
+
+However, following the submission of indictments filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), the Colombo High Court has ordered the four defendants be released on surety bail of Rs. 10 million each.
+
+Later, the Colombo High Court, which also imposed an overseas travel ban against the four defendants, ordered that they should hand over their passports to the court and obtain permission if they leave the country.
+
+◼️
+
+[Data](articles/f764c972.json)
+
+[Extended Data](ext_articles/f764c972.ext.json)
+
+---
+
+### Arrested by one with 600,000 pills
+
+*2024-10-10 11:41:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/600-000-மாத்திரைகளுடன்-ஒருவர்-கைது/175-345206) · `ta`
+
+Sri Lanka: 44-year-old arrested with 600,000 pills targeting youth. Navy and STF seize drugs worth 60 million. Suspect handed to police for legal action.
+
+🟩
+
+A 44 -year -old person target youth and schoolchildren. The Sri Lanka Navy and the Police Special Task Force (STF) have been deployed on suspicion of selling 60,000 pharmaceutical pills worth 60 million.
+
+As a result of further investigations, a lorry used for drug trafficking has been seized in Borella area.
+
+The suspect has been arrested on the basis of information received by the Navy Intelligence Unit.
+
+The suspect has been handed over to the Colombo Police Bureau for further legal action with drug pills and lorry.
+
+◼️
+
+[Data](articles/fcf1d575.json)
+
+[Extended Data](ext_articles/fcf1d575.ext.json)
+
+---
 
 ### Passenger bus gutted in fire at Madampe
 
@@ -73,6 +117,86 @@ The judiciary ordered the defendants who were banned to the defendants to be han
 [Data](articles/310a0508.json)
 
 [Extended Data](ext_articles/310a0508.ext.json)
+
+---
+
+### Response Chief Justice
+
+*2024-10-10 11:26:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-பிரதம-நீதியரசர்-பதவிப்பிரமாணம்/175-345205) · `ta`
+
+High Court Judge Murali Murda Pitshini Fernando was sworn in before President Anura Kumara Dissanayake on Thursday (10).
+
+🟩
+
+Responding to the Chief Justice, High Court Judge Murali Murda Pitshini Fernando was sworn in in the presence of President Anura Kumara Dissanayake on Thursday (10).
+
+◼️
+
+[Data](articles/7c023345.json)
+
+[Extended Data](ext_articles/7c023345.ext.json)
+
+---
+
+### 10 Uthwaka quotes for Ratan Tata
+
+*2024-10-10 11:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரத்தன்-டாட்டா-உதிர்த்த-10-உத்வேக-மேற்கோள்கள்/175-345204) · `ta`
+
+Here's a summary of 10 key quotes from Ratan Tata in approximately 200 characters:
+
+
+
+"Walk together for a long distance; alone for a short one." "Rise above challenges." "Success isn't ruthless." "Life moves us forward." "Welfare of loved ones matters." "Work-life coordination, not balance." "Great leaders empower others." "Challenges build success." "Mercy, empathy, compassion matter." "Never underestimate kindness."
+
+🟩
+
+India's enormous businessman Ratan Tata Age - Due to his illness, he disappeared at the age of 86.
+
+His contribution in the Indian industry is huge. In particular, his career attitude, which is important to social welfare, is no doubt forever paradigm. 10 main quotes of such a valuable person.
+
+“If you want to walk fast, you will walk alone;But if you want to walk a long distance, walk together. ”
+
+“Rise up a monument with stones thrown over you.”
+
+“The winners will attract me. But if the path to their success is ruthless, I will not find them. ”
+
+“Life is important. They are the one who moves us ahead of. இசிஜி-யில் கோடுகள் நேராக இருந்தால் நாம் உயிருடன் இல்லை என்று அர்த்தம்.”
+
+“Life is not important in material matters. The welfare of those who love you is important. Someday you will feel it. ”
+
+“Work - I don't believe in life balance. I work - believe in life coordination. Make your work and life meaningful. ”
+
+...
+
+[Data](articles/a0ccaa42.json)
+
+[Extended Data](ext_articles/a0ccaa42.ext.json)
+
+---
+
+### Change in passports
+
+*2024-10-10 11:21:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டுக்களில்-மாற்றம்/175-345202) · `ta`
+
+Court of Appeal approves conversion of 64-page Sadarana Passport to 48-page J-Series passports. Decision made after considering proposals from Additional Solicitor General. Order issued to address shortage of facilities for foreign companies producing N-Series passports.
+
+🟩
+
+The Court of Appeal has granted permission to the Immigration Department's Executive Committee General to convert the 64-page N-Series Passport (Sadarana Passport) into 48-page J-Series passports.
+
+The order was issued after considering the proposals of Additional Solicitor General Sumathi Dharmawardena, who appeared on behalf of the Attorney General and the Immigration Controller.
+
+Mohammed Lafar Tahir and B. The announcement was made on Wednesday (10) when Kumaran Ratnam was summoned in the presence of the Court of Appeal.
+
+The Additional Solicitor General has informed the court that there is a need to transfer the passport to Z-Series due to the lack of facilities for 02 foreign companies that provide seven lakhs 50,000 N-Series passports.
+
+Recently, the Court of Appeal has issued an interim order to suspend the implementation of the Cabinet resolution for the purchase of seven million fifty thousand (750,000) N-Series passports from two companies.
+
+...
+
+[Data](articles/45d0416e.json)
+
+[Extended Data](ext_articles/45d0416e.ext.json)
 
 ---
 
@@ -2255,117 +2379,5 @@ The Mahaweli Authority of Sri Lanka has bordered the wewa of the Wewa, the tank 
 [Data](articles/05bac329.json)
 
 [Extended Data](ext_articles/05bac329.ext.json)
-
----
-
-### 20 Chinese nationals arrested in Panadura remanded
-
-*2024-10-09 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102569/20-chinese-nationals-arrested-in-panadura-remanded) · `en`
-
-The Panadura Magistrate today ordered (09) to remand the 20 Chinese nationals, who were arrested while staying at a hotel in the Gorakana area of Panadura for overstaying their visas, until October 23.
-
-The arrest was made following a tip-off received by officers of the Western Province Intelligence Division.
-
-In a statement, the Police Media Division indicated that investigations are underway to determine whether there is a connection between the Chinese nationals arrested today and those apprehended by the Criminal Investigation Department (CID) on October 6 in the Hanwella police area, on suspicion of engaging in organized online financial scams.
-
-Officers from the Panadura Special Crimes Unit, who carried out a raid on the hotel, have discovered that the group of Chinese nationals had been staying at the hotel on a monthly rent of Rs. 2 million.
-
-...
-
-[Data](articles/43ba8737.json)
-
-[Extended Data](ext_articles/43ba8737.ext.json)
-
----
-
-### Petition against former SIS chief deferred
-
-*2024-10-09 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102568/petition-against-former-sis-chief-deferred) · `en`
-
-The Court of Appeal has ordered that a petition filed seeking an order be issued to the National Police Commission to take disciplinary actions against the former Director of the State Intelligence Service (SIS) Nilantha Jayawardena, to be taken up on November 13.
-
-This petition has been filed against the former SIS chief over his failure to take action to prevent the Easter Sunday terror attack despite receiving intelligence in advance.
-
-The petition filed by the Centre for Society and Religion (CSR) was taken up before a two-member Appeals Court judge bench consisting of Justices Sobhitha Rajakaruna and Mahen Gopallawa today.
-
-During the hearing, President’s Counsel Chandaka Jayasundara, who appeared for the defendant, stated before the court that the relevant petition filed against his client should be dismissed since the National Police Commission has already initiated a new investigation regarding the matter following a Supreme Court order.
-
-...
-
-[Data](articles/7495f766.json)
-
-[Extended Data](ext_articles/7495f766.ext.json)
-
----
-
-### Vatican Ambassador to the Vatican Ambassador to the President
-
-*2024-10-09 18:23:12* · [`adalk`](https://www.ada.lk/breaking_news/පාප්වහන්සේගේ-සුබ-පැතුම්-වතිකාන-තානාපතිවරයා-ජනපතිට-පිළිගන්වයි/11-412402) · `si`
-
-Vatican Ambassador meets Sri Lanka's President Anura Kumara Dissanayake. Discusses mutual cooperation, development, and justice.
-
-🟩
-
-Vatican Apostolic Ambassador in Sri Lanka Most High Isar Brian Upurgewaya (Rev. Dr.bribrian Udaigwe The monk called for President Anura Kumara Dissanayake at the President's Office (09).
-
-The Vatican Ambassador who accepted its warm greetings to mark the new president of Sri Lanka to mark the new president of Sri Lanka.
-
-The Vatican Ambassador, said that under the leadership of the new President Anura Kumara Dissanayake, Udirigawe is said that he had the best of his heart.
-
-The Most High Udeigwaya Thero, who has commented on the future of Sri Lanka, is already undergoing development in the country.. The Ambassador who evaluated the President's vision and commitment to the President also provides assistance to all these efforts.
-
-The Most High Courts, who had expressed the sadness of the Passover and Sunday, was also commended by President Anura Kumara Dissanayake to investigate the gathering of the Passover experienced.
-
-...
-
-[Data](articles/1d83a71d.json)
-
-[Extended Data](ext_articles/1d83a71d.ext.json)
-
----
-
-### The letters are not available in hand;Disciplinary action to Sasikala- Satyalingam
-
-*2024-10-09 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195885) · `ta`
-
-TNA leader resignations pending, party denies receiving letters. Disciplinary action threatened against Sasikala for leaving via media. Candidate lists finalized, no changes possible. TNA to skip Colombo elections.
-
-🟩
-
-The party's reply secretary P. Satyalingam on Wednesday said that I have not received any letters of the resignation letters of the TNA leader Mawai Senathirajah and others.
-
-The appointment committee to deal with the TNA candidate met on Wednesday (09) in Vavuniya. He then commented on this.
-
-The list of candidates for Vanni. The final details will be announced tomorrow morning. I have not yet received any letter of resignation of the leader of the Tamil National Party Mawai Senathirajah.
-
-Similarly, Sasikala and Tavarasa have left the party through the media.. Their letter is not yet available. It is said that newspapers have been sent. So I cannot comment on this.
-
-As well as there are no chances of changing the candidate lists already announced. The party's central committee appointed the Election Appointment Committee. The committee has made appointments on the basis of the decision on what kind of candidates should be known.
-
-...
-
-[Data](articles/ba421a05.json)
-
-[Extended Data](ext_articles/ba421a05.ext.json)
-
----
-
-### Foreign monitors invading Sri Lanka
-
-*2024-10-09 18:15:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-படையெடுக்கும்-வெளிநாட்டு-கண்காணிப்பாளர்கள்/175-345173) · `ta`
-
-International monitors invade Sri Lanka for elections. Eight groups from Russia, Commonwealth, EU, and others confirmed to observe general election process.
-
-🟩
-
-The Election Commission has confirmed that eight international monitors will come to Sri Lanka to monitor the upcoming general election.
-
-These international monitoring groups include representatives of Russia, the Commonwealth, the European Union and other countries.. Remble
-
-◼️
-
-[Data](articles/c7004755.json)
-
-[Extended Data](ext_articles/c7004755.ext.json)
 
 ---

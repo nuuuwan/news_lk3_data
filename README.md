@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 13:39:48**
+As of **2024-10-10 13:58:43**
 
 ## Newspaper Stats
 
-*Scraped **48,758** Articles*
+*Scraped **48,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,299
 adalk | 4,524
 dailymirrorlk | 4,733
 adaderanalk | 5,755
-tamilmirrorlk | 6,617
+tamilmirrorlk | 6,619
 virakesarilk | 7,796
 adaderanasinhalalk | 8,432
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 8,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,758 (100.0%) of 48,758 articles have been extended.
+48,760 (100.0%) of 48,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Boy killed in fire
+
+*2024-10-10 13:38:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விறகு-லொறி-மோதியதில்-சிறுவன்-பலி-சிறுமிக்கு-காயம்/76-345216) · `ta`
+
+Boy killed in fire: 8-year-old student dies after lorry crash near school. Driver arrested; investigation ongoing.
+
+🟩
+
+Valappanai police said that the vehicle accident occurred at 6 pm at the "Vishnu Mother" Primary School in the Valappanai-Kandi main road.
+
+A lorry that was traveling from Kandy to the Walappanam, a lorry, crashed into two otos, and two school children traveled on the same road collided.
+
+An 8 -year -old boy who was injured in the accident dies when he was taken to Walapane Hospital.  14 வயதுடைய  சிறுமி,நுவரெலியா மாவட்ட வைத்தியசாலையில் அதி தீவிர சிகிச்சை பிரிவில் அனுமதிக்கப்பட்டுள்ளார்.இவர்கள் ஒரே குடும்பத்தைச் சேர்ந்த இரண்டு பிள்ளைகள் என  பொலிஸார் தெரிவித்தனர்.
+
+Nirmala Nayanakantha, a boy who is studying in Grade 1 at Pussadeva College, Valappanai, has died.
+
+At the same time, the police said that the investigation has been revealed from a leader in front of the Pradeshiya Sabha in front of the Pradeshiya Sabha.
+
+The driver of the lorry, Nalusha Sampath Vidhanage, who was involved in the accident, has been arrested by the police and said that further investigations are being carried out.
+
+◼️
+
+[Data](articles/ebf574db.json)
+
+[Extended Data](ext_articles/ebf574db.ext.json)
+
+---
+
+### Have signed the nomination
+
+*2024-10-10 13:35:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்புமனுவில்-கையொப்பமிட்டனர்/175-345213) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Jeevan Thondaman and Chairman Maruthappandi Rameswaran signed nomination papers in Nuwara Eliya district for the upcoming general election on Thursday (10).
+
+🟩
+
+Jeevan Thondaman and Chairman Maruthappandi Rameswaran signed the nomination papers on Thursday (10) at the Nuwara Eliya district in the upcoming general election.
+
+◼️
+
+[Data](articles/93e234e1.json)
+
+[Extended Data](ext_articles/93e234e1.ext.json)
+
+---
 
 ### Holidays to vote for private sector
 
@@ -2315,53 +2365,5 @@ Taham Sirisena, son of former President Maithripala Sirisena, has been appointed
 [Data](articles/23485ea7.json)
 
 [Extended Data](ext_articles/23485ea7.ext.json)
-
----
-
-### Sri Lanka rejects draft resolution adopted at UNHRC, decries external mechanism
-
-*2024-10-09 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102571/sri-lanka-rejects-draft-resolution-adopted-at-unhrc-decries-external-mechanism) · `en`
-
-Sri Lanka today rejected the draft resolution which was tabled before the United Nations Human Rights Council (UNHRC) seeking to extend the mandate of Resolution 51/1 on promoting reconciliation, accountability and human rights in Sri Lanka.
-
-Earlier today (09), the draft resolution A/HRC/57/L.1 on promoting reconciliation, accountability and human rights in Sri Lanka was adopted without a vote during the ongoing 57th Regular Session of the UNHRC in Geneva.
-
-However, delivering the government’s statement prior to the adoption of the draft proposal, Sri Lanka’s Permanent Representative to the UN Himalee Arunatilaka said the draft resolution 57/L.1 extends the mandates contained in Human Rights Council resolution 51/1.
-
-She said Sri Lanka has opposed HRC resolution 51/1 and the preceding HRC resolution 46/1 under which an external evidence gathering mechanism has been established within the OHCHR.
-
-...
-
-[Data](articles/3e5363fd.json)
-
-[Extended Data](ext_articles/3e5363fd.ext.json)
-
----
-
-### 16 others join Dilith
-
-*2024-10-09 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202005) · `si`
-
-Dilith Jayaweera's party gains 16 members, vows to combat corruption in local governance. New appointees include district leaders and organizers from various regions. Party aims to create a clean political platform, distancing itself from corrupt practices.
-
-🟩
-
-The party leader Dilith Jayaweera said his party will take steps to remove the corrupt label that has been credited to local government representatives by the corrupt leaders of various parties.
-
-He was awarded appointment letters to a group of new organizers at the party headquarters today.
-
-Seven members, including the former senior church of the Mahara Pradeshiya Sabha, who represented the Sri Lanka General Front, joined the omangerage power today.
-
-The leader of the Motherland People's People's People's Party, Dilith Jayaweera presented the positions of electoral organizers of the Gampaha District.
-
-Dr. Prasad Manjula was appointed as the Hambantota District Leader of Angunakolapelessa and Katuwana Pradeshiya Sabhas.
-
-Meanwhile, the SLFP Medirigiriya and two Minneriya organizers joined the exangerage power this afternoon and they were organized in the universal power.
-
-...
-
-[Data](articles/94d1999f.json)
-
-[Extended Data](ext_articles/94d1999f.ext.json)
 
 ---

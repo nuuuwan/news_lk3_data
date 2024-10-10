@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 13:23:18**
+As of **2024-10-10 13:39:48**
 
 ## Newspaper Stats
 
-*Scraped **48,755** Articles*
+*Scraped **48,758** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 481
-bbccomsinhala | 484
+bbccomsinhala | 485
 islandlk | 2,884
 economynextcom | 2,989
 dailyftlk | 3,299
-adalk | 4,523
+adalk | 4,524
 dailymirrorlk | 4,733
 adaderanalk | 5,755
-tamilmirrorlk | 6,616
+tamilmirrorlk | 6,617
 virakesarilk | 7,796
 adaderanasinhalalk | 8,432
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,755 (100.0%) of 48,755 articles have been extended.
+48,758 (100.0%) of 48,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Holidays to vote for private sector
+
+*2024-10-10 13:04:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-துறையினருக்கும்-வாக்களிக்க-விடுமுறை/175-345212) · `ta`
+
+Election Commission announces special holidays for private sector employees to vote in Elpitiya Pradeshiya Sabha elections on October 26. Leave duration based on travel distance to polling booth. Three-day leave granted for distant locations. Decision aims to ensure all employees can cast ballots without using personal leave.
+
+🟩
+
+The Election Commission has announced that special holidays will be given to private sector employees to vote in the Elpitiya Pradeshiya Sabha elections to be held on October 26.
+
+This decision has been made on the basis of the Elections Act of the Local Authority, ensuring that all employees are given time to vote or not to use their personal leave.
+
+Public servants already have the right to vacation. However, due to complaints from private sector employees during the last elections, the Commission has decided to provide similar arrangements to private sector employees.
+
+According to the guidelines, the duration of the leave given depends on the distance the employee should travel to his ballot:
+
+In some cases, the Commission further stated that in case of employees to travel long distances, they may need a three -day leave to ensure that they reach their polling booths and return to work.
+
+◼️
+
+[Data](articles/d7f09f1e.json)
+
+[Extended Data](ext_articles/d7f09f1e.ext.json)
+
+---
 
 ### Italian Naval ship ‘Ppa Montecuccoli’ arrives in Colombo
 
@@ -1070,6 +1096,32 @@ Rain or thunderstorms are likely to occur in many parts of the sea regions aroun
 
 ---
 
+### Janaka Bandara too does not go to general election
+
+*2024-10-10 09:02:46* · [`adalk`](https://www.ada.lk/breaking_news/ජනක-බණ්ඩාරත්-මහ-මැතිවරණයට-නොඑයි/11-412414) · `si`
+
+Former Minister Janaka Bandara Tennakoon announces he won't run in 2023 general election due to changing political landscape. He represented Matale district since 1994, previously served under Mahinda Rajapaksa government.
+
+🟩
+
+Former minister Janaka Bandara Tennakoon said he said that the former Minister of State Praise Bandara Tennakoon said he will not contest the general election this year.
+
+Former State Minister of Praise Bandara Tennako, inquired about teams contesting with the Gas Cylinder of the Matale district, was speaking.
+
+Former Minister Janaka Bandara Tennakoon has been selected as the Matale District MP Janaka Bandara Tennakoon for three decades from 1994 representing the Matale district.
+
+Accordingly, Jamay Bandara Tennakoon, a Deputy Minister and several Ministers Minister of the Cabinet, had abandoned former President Mahinda Rajapaksa.
+
+As well as the Matale District representing the Matale District as well as his son Praise Bandara Tennakoon, his son Praise Bandara Tennakoon, was also the government Defense Minister of the Government.
+
+...
+
+[Data](articles/f5163ea8.json)
+
+[Extended Data](ext_articles/f5163ea8.ext.json)
+
+---
+
 ### Showery conditions to enhance in south-western part of the island
 
 *2024-10-10 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102575/showery-conditions-to-enhance-in-south-western-part-of-the-island) · `en`
@@ -1251,6 +1303,32 @@ He was admitted to a hospital in Mumbai due to the bad health conditions and was
 [Data](articles/cf7303fb.json)
 
 [Extended Data](ext_articles/cf7303fb.ext.json)
+
+---
+
+### Why is the Pacific Army chief coming to Sri Lanka?
+
+*2024-10-10 07:14:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1m9kx1pk2go) · `si`
+
+Pacific Army chief visits Sri Lanka amid US-China diplomatic event. US admiral discusses strengthening ties, addressing Indian Ocean challenges. Chinese research ship arrives, sparking security concerns.
+
+🟩
+
+The US and China is a special event to come to Sri Lanka simultaneously.
+
+At a discussion of Cabinet Decision informs, Minister Vijitha Herath said that it is expected to have similar relations with every country.
+
+The US embassy, ​​Colombo Embassy, ​​Colombo embassy and the commanding officer of the American Navy visit Sri Lanka after the year 2021, the US Navy's commanding officer Admiral Steve Keller on Thursday (Oct: 10) says.
+
+In this visit, Admiral Kalar has issued the embassy said that the US and Sri Lanka will confirm the strong cooperation between America and Sri Lanka for a strong, sustainable and open Indus.
+
+"Thank you for your kind words": President respondents to the congratulations of Heads of Heads
+
+...
+
+[Data](articles/cd0a9c0b.json)
+
+[Extended Data](ext_articles/cd0a9c0b.ext.json)
 
 ---
 
@@ -2285,81 +2363,5 @@ Meanwhile, the SLFP Medirigiriya and two Minneriya organizers joined the exanger
 [Data](articles/94d1999f.json)
 
 [Extended Data](ext_articles/94d1999f.ext.json)
-
----
-
-### The student told her parents that she was committing suicide ....
-
-*2024-10-09 21:35:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தான்-தற்கொலை-செய்துகொள்வதாக-பெற்றோரிடம்-கூறிய-மாணவி/175-345188) · `ta`
-
-Student commits suicide, reveals depression to parents. Police investigates, appoints committee. Girl's relationship with family strained.
-
-🟩
-
-A student who committed suicide from a lotus tower in Colombo, told her parents that she would one day commit suicide.
-
-The police have issued a detailed investigation into the suicide incident.
-
-The girl, as the girl said so, revealed that the parents had sent the psychiatrists for consultation.
-
-Meanwhile, a student who committed suicide by jumping out of a high building in Colombo on July 2, told her father that her father was the best girlfriend.
-
-He also said that he had hugged their daughter several times before leaving school that day and that their daughter was severely depressed because they committed suicide.
-
-According to the police, she jumped out of the building and after her two friends died, she was alone in the classroom. Thus his education is also banned.
-
-Also, it is customary for him to continue to eat and throw his lunch in the trash can
-
-...
-
-[Data](articles/97f053bc.json)
-
-[Extended Data](ext_articles/97f053bc.ext.json)
-
----
-
-### 7 girls hospitalized following an accident
-
-*2024-10-09 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202004) · `si`
-
-7 girls hospitalized after accident: ages 12 & 13. Minor injuries reported.
-
-🟩
-
-Seven students of the Panadura Base Hospital have been admitted to the Panadura Base Hospital.
-
-It is reported that the age of 12 and 13 years old have been admitted to the age of 12 and 13 years old.
-
-A spokesman for the hospital said that the students' situation is not serious, their face, head and arms have been injured.
-
-◼️
-
-[Data](articles/5aedee66.json)
-
-[Extended Data](ext_articles/5aedee66.ext.json)
-
----
-
-### India target 173 runs
-
-*2024-10-09 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202003) · `si`
-
-India set 173-run target vs Sri Lanka in T20 World Cup. India batsmen score 172/3 in 20 overs. Sri Lanka wins by chasing down the total.
-
-🟩
-
-Sri Lanka are currently participating in the participation of Sri Lanka under the participation of the 20 World Cup.
-
-The Indian captain won the toss and elected to bat first.
-
-Accordingly, India scored 172 runs for the loss of 3 wickets at the end of 20 overs.
-
-Sri Lanka has scored 173 runs in winning the match.
-
-◼️
-
-[Data](articles/a417db8f.json)
-
-[Extended Data](ext_articles/a417db8f.ext.json)
 
 ---

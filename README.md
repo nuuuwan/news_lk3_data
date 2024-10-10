@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 14:58:05**
+As of **2024-10-10 15:10:08**
 
 ## Newspaper Stats
 
-*Scraped **48,770** Articles*
+*Scraped **48,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 485
 islandlk | 2,884
 economynextcom | 2,989
 dailyftlk | 3,299
-adalk | 4,525
+adalk | 4,526
 dailymirrorlk | 4,733
-adaderanalk | 5,756
+adaderanalk | 5,757
 tamilmirrorlk | 6,619
 virakesarilk | 7,800
 adaderanasinhalalk | 8,436
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,770 (100.0%) of 48,770 articles have been extended.
+48,772 (100.0%) of 48,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Postal Department clarifies issuance of stamps featuring PM and Minister
+
+*2024-10-10 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102588/postal-department-clarifies-issuance-of-stamps-featuring-pm-and-minister) · `en`
+
+The Department of Posts has issued a clarification regarding the recent release of stamps featuring Prime Minister Dr. Harini Amarasuriya and Minister Vijitha Herath.
+
+The Postal Department clarified that the stamps bearing the images of the Prime Minister and Minister Herath are exclusively commemorative gifts and were not part of the official stamp releases for this year’s World Postal Day. The department further explained that no stamps featuring the two dignitaries were issued in connection with the global event.
+
+The statement also emphasized that the Postal Department offers the public the opportunity to create personalized stamps with their preferred images, a service traditionally provided as souvenirs for special occasions.
+
+...
+
+[Data](articles/25f5acfa.json)
+
+[Extended Data](ext_articles/25f5acfa.ext.json)
+
+---
 
 ### Four boats with Indian fishermen
 
@@ -769,6 +787,32 @@ His contribution in the Indian industry is huge. In particular, his career attit
 [Data](articles/a0ccaa42.json)
 
 [Extended Data](ext_articles/a0ccaa42.ext.json)
+
+---
+
+### West Indies come
+
+*2024-10-10 11:23:13* · [`adalk`](https://www.ada.lk/uncategorized/කොදෙව්වෝ--පැමිණෙති/1-412417) · `si`
+
+West Indies cricket team arrives in Sri Lanka for tour. They'll play 3 T20s at Dambulla and 1-day matches at Pallekele. Team lands at Katunayake airport on October 10th.
+
+🟩
+
+The West Indies islands arrived at the Katunayake airport on 10/10 pm for a tour of Sri Lanka.
+
+Sri Lanka Cricket's spokesman Prasanna Rodrigo said that they would participate in three Twenty20 matches with Sri Lankan cricket team and three-day matches.
+
+The Twenty20 match will be held at the Rangiri Dambulla International Cricket Stadium at 10/13, 10/15 and 10/17.
+
+In addition, one day competitions will be held at the Pallekele International Cricket at the Pallekele International Cricket at the Pallekele International Cricket Tournament at the Pallekele International Cricket Tournament.
+
+West Indies Islands cricket team from Dubai to Emirates Airport on Nost 08:30 am at Dubai to Katunayake Airport and a group of SLC officials were also present at the Katunayake Airport.
+
+◼️
+
+[Data](articles/43e87c20.json)
+
+[Extended Data](ext_articles/43e87c20.ext.json)
 
 ---
 
@@ -2391,39 +2435,5 @@ With a new president in office, Sri Lanka is grappling with the aftermath of one
 [Data](articles/15cc1d08.json)
 
 [Extended Data](ext_articles/15cc1d08.ext.json)
-
----
-
-### New Chairman of SriLankan Airlines
-
-*2024-10-09 23:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202008) · `si`
-
-SriLankan Airlines appoints Mr. Sarath Kamagoda as new Chairman.
-
-🟩
-
-Mr. Sarath Kamagoda has been appointed as the new Chairman of SriLankan Airlines.
-
-◼️
-
-[Data](articles/5a943e31.json)
-
-[Extended Data](ext_articles/5a943e31.ext.json)
-
----
-
-### President discusses enhancing revenue and efficiency with Sri Lanka Customs and Inland Revenue officials
-
-*2024-10-09 22:57:00* · [`islandlk`](http://island.lk/president-discusses-enhancing-revenue-and-efficiency-with-sri-lanka-customs-and-inland-revenue-officials/) · `en`
-
-President Anura Kumara Dissanayake held a key meeting with senior officials from both the Sri Lanka Customs Department and the Inland Revenue Department at the Presidential Secretariat today (09). The discussions centered on strategies to enhance revenue generation and improve operational efficiency within both departments, in line with the government’s broader economic mandate.
-
-During the meeting, officials from both departments presented the challenges they face in managing revenue and tackling tax evasion. They stressed the importance of strengthening coordination between the Inland Revenue Department (IRD) and Customs to effectively combat these issues. It was highlighted that better collaboration would ensure more robust enforcement of tax laws and prevent tax leakage, further boosting the country’s revenue collection.
-
-...
-
-[Data](articles/ea32e540.json)
-
-[Extended Data](ext_articles/ea32e540.ext.json)
 
 ---

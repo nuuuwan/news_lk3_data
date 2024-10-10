@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 19:11:53**
+As of **2024-10-10 19:23:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,443
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,823 (100.0%) of 48,824 articles have been extended.
+48,824 (100.0%) of 48,824 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Equipped with cutting-edge surveillance technology, the King Air will strengthen
 ...
 
 [Data](articles/ef9438c2.json)
+
+[Extended Data](ext_articles/ef9438c2.ext.json)
 
 ---
 

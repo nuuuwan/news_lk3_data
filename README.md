@@ -1,36 +1,98 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 08:01:34**
+As of **2024-10-10 08:22:17**
 
 ## Newspaper Stats
 
-*Scraped **48,696** Articles*
+*Scraped **48,701** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 481
-bbccomsinhala | 483
+bbccomsinhala | 484
 islandlk | 2,884
 economynextcom | 2,985
 dailyftlk | 3,299
-adalk | 4,516
+adalk | 4,517
 dailymirrorlk | 4,733
 adaderanalk | 5,743
 tamilmirrorlk | 6,605
 virakesarilk | 7,785
-adaderanasinhalalk | 8,419
+adaderanasinhalalk | 8,422
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,692 (100.0%) of 48,696 articles have been extended.
+48,692 (100.0%) of 48,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### තැපැල් ඡන්ද අයදුම්පත් කැඳවීම අද මධ්‍යම රාත්‍රියෙන් අවසන්
+
+*2024-10-10 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202015) · `si`
+
+මහ මැතිවරණය සඳහා තැපැල් ඡන්ද අයදුම්පත් භාරගැනීම අද (10) මධ්‍යම රාත්‍රී 12ට අවසන් වීමට නියමිතව තිබේ.
+
+ඒ අනුව මැතිවරණ රාජකාරීවලින් නිදහස් කර ඇති අය හැර රාජ්‍ය සේවයේ හා පළාත් රාජ්‍ය සේවයේ අනෙකුත් සියලුම නිලධාරින් තැපැල් ඡන්ද ඉල්ලුම් කළ යුතු අතර, තැපැල් ඡන්ද අයදුම් කර නොතිබීම මෙන්ම අඩුපාඩු සහිතව ඉදිරිපත් කරන ලද අයදුම්පත් ප්‍රතික්ෂේප කර තිබීම ද මැතිවරණ රාජකාරීවලින් නිදහස් කිරීමට හේතුවක් නොවන බව මැතිවරණ කොමිෂන් සභාව පැවසුවේය.
+
+මේ අතර එළැඹෙන මහමැතිවරණයට අදාළව ස්වාධීන කණ්ඩායම් සඳහා ඇප මුදල් තැන්පත් කිරීමේ කටයුතු අද මධ්‍යහන 12න් අවසන් වීමට තිබේ.
+
+පිළිගත් දේශපාලන පක්ෂ හැර සියලු ස්වාධීන කණ්ඩායම් මහ මැතිවරණය සඳහා ඇප මුදල් තැන්පත් කළ යුතු වේ.
+
+ඒ අනුව ඊයේ (09) දිනය දක්වා ස්වාධීන කණ්ඩායම් 293ක් ඇප මුදල් තැම්පත් කර ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+මේ දක්වා දිගාමඩුල්ල දිස්ත්‍රික්කය වෙනුවෙන් වැඩිම ස්වාධීන කණ්ඩායම් සංඛ්‍යාවක් ඇප මුදල් තැන්පත් කර ඇති අතර එම සංඛ්‍යාව 42කි.
+
+මේ අතර දේශපාලන පක්ෂ සහ ස්වාධීන කණ්ඩායම් 88ක් එළැඹෙන මහමැතිවරණය වෙනුවෙන් නාමයෝජනා භාර දී ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+...
+
+[Data](articles/74c746b5.json)
+
+---
+
+### මාරක අනතුරු කිහිපයකින් තිදෙනෙක් මරුට
+
+*2024-10-10 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202014) · `si`
+
+දිවයින පුරා සිදුවූ මාරක රිය අනතුරු කිහිපයකින් පුද්ගලයන් තිදෙනෙකු මියගොස් තිබේ.
+
+වලපනේ පොලිස් වසමේ මහනුවර වලපනේ මාර්ගයේ ආර්.ඩී.ඒ හන්දිය අසලදී මහනුවර දෙස සිට වලපනේ දෙසට ධාවනය වූ ලොරි රථයක් මාර්ගය අයිනේ නවතා තිබූ ත්‍රීරෝද රථයක ගැටී අනතුරක් සිදුව තිබේ.
+
+අනතුරින් ත්‍රීරෝද රථය මාර්ගයේ ගමන් ගත් අවුරුදු 7ක පිරිමි දරුවෙකුගේ හා අවුරුදු 15ක ගැහැණු දරුවෙකුගේ ගැටී අනතුරුව මාර්ගයේ නවතා තිබූ තවත් ත්‍රීරෝද රථයක ගැටී ඇත.
+
+අනතුරින් බරපතළ තුවාල ලැබූ ළමුන් දෙදෙනාගෙන් පිරිමි ළමයා ජීවිතක්ෂයට පත්ව තිබේ.
+
+මේ අතර පාදුක්ක තුම්මෝදර ඉහළ බෝපේ මාර්ගයේ පෙට්ටිගල බෑවුම් ප්‍රදේශයේදී තුම්මෝදර දෙස සිට ඉහළ බෝපේ දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයේ පෙරලීගොස් අනතුරක් සිදුව තිබේ.
+
+මරණකරු අවුරුදු 53ක් වූ දබෝර තුන්මෝදර ප්‍රදේශයේ පදිංචි පාදුක්ක පොලිස් ස්ථානයට අනුයුක්තව සේවය කරන ලද පොලිස් සැරයන්වරයෙකි.
+
+තවද පාදුක්ක පොලිස් වසමේ කොළඹ අවිස්සාවේල්ල මාර්ගයේ තුන්නාන ප්‍රදේශයේදී අවිස්සාවේල්ල දෙස සිට කොළඹ දෙසට ධාවනය වූ යතුරුපැදියක් එම දිසාවටම ඉදිරියෙන් ගමන් ගත් තවත් යතුරුපැදියක ගැටී අනතුරක් සිදුව තිබේ.
+
+...
+
+[Data](articles/bdcd9320.json)
+
+---
+
+### රතන් ටාටා දිවි ගමට සමුදෙයි
+
+*2024-10-10 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202013) · `si`
+
+ඉන්දීය ටාටා සමූහ ව්‍යාපාරයේ හිටපු සභාපති රතන් ටාටා අභාවප්‍රාප්ත වූ බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+අයහපත් සෞඛ්‍ය තත්ත්වය හේතුවෙන් පසුගියදා ඔහුව මුම්බායි නුවර රෝහලකට ඇතුළත් කර තිබුණු අතර එහි ප්‍රතිකාර ලබමින් සිටියදී ඔහු මෙලෙස මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/cf7303fb.json)
+
+---
 
 ### President's attention on a strategic plan for increasing income earnings
 
@@ -395,6 +457,28 @@ They expressed optimism that his leadership will guide the country towards a mor
 [Data](articles/f0cb4d88.json)
 
 [Extended Data](ext_articles/f0cb4d88.ext.json)
+
+---
+
+### ඔබේ නව යොවුන් දරුවාගේ මානසික තත්ත්වය ගැන ඔබ සැලකිලිමත් ද?
+
+*2024-10-10 02:12:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy4d1lxnjg3o) · `si`
+
+ආසන්න මාස කිහිපය තුළ නව යොවුන් වියේ දරුවන් කිහිප දෙනෙකුගේ සියදිවි නසා ගැනීම් රට තුළ මහත් කම්පනයක් ඇති කළ සිදුවීම් විය.
+
+එයින් ඇතැම් සිදුවීම් එකින් එකට සම්බන්ධ බව ද පොලිසිය විසින් මේ වන විට තහවුරු කරනු ලැබ තිබේ. නවයොවුන් වයසේ සිටින දරුවන් මේ ආකාරයෙන් තමාට හානිදායක දේ සිදුකරගැනීමට පෙළඹෙන්නේ ඇයි?
+
+නවයොවුන් වියේ සිටින ඔබේ දරුවා හෝ ඔබේ පාසලේ ශිෂ්‍යයා හෝ ශිෂ්‍යයාව එම තත්ත්වයෙන් මුදවා ගතහැකි වන්නේ කෙසේ ද? මේ ඒ සම්බන්ධයෙන් බීබීසී සිංහල කළ සොයා බැලීමකි.
+
+'දරුවන් තමන්ට ම හානි කර ගැනීමේ ප්‍රවණතාව දෙගුණයකින් වැඩි වෙලා'
+
+මෑත කාලීනව ලොව පුරා ම නවයොවුන් වියේ දරුවන් තුළ සියදිවි නසාගැනීමේ සිතිවිලි හෝ තමාට ම හානිකරගැනීමේ අවස්ථාවල වැඩිවීමක් තිබෙන බව බීබීසී සිංහල කළ විමසීමක දී රාගම වෛද්‍ය පීඨයේ මනෝ වෛද්‍ය අධ්‍යනාංශයේ අංශාධිපති හා ළමා සහ යොවුන් මනස පිළිබඳ විශේෂඥ වෛද්‍ය, මහාචාර්ය මියුරු චන්ද්‍රදාස පෙන්වා දුන්නේ ය.
+
+මහාචාර්යවරයා පැවසුවේ නවයොවුන් වයසේ දරුවන් තම සිරුරට හානි කරගැනීමේ ප්‍රවණතාවය දෙගුණ වී ඇති බවයි.
+
+...
+
+[Data](articles/7af59b2d.json)
 
 ---
 
@@ -1231,6 +1315,22 @@ India: Hamanpreet Gore (Head), Smriti Mandana, Shabali Verma, Jemima Rodrigas, R
 [Data](articles/25426b20.json)
 
 [Extended Data](ext_articles/25426b20.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවේ අරමුණ දේශීය යාන්ත්‍රණයයි
+
+*2024-10-09 19:26:43* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවේ-අරමුණ-දේශීය-යාන්ත්‍රණයයි/11-412412) · `si`
+
+ශ්‍රී ලංකාවේ සිදුවූවායැයි කියන මානව හිමිකම් කඩවීම් සම්බන්ධයෙන් එක්සත් ජාතීන්ගේ මානව හිමිකම් කොමිෂමට ඉදිරිපත් වූ යෝජනාව අනුව ශ්‍රී ලංකාව සම්බන්ධයෙන් කරන විදේශීය යාන්ත්‍රණයකට ලකංවා එකග නොවන බව මානව හිමිකම් කොමිසමට ශ්‍රී ලංකාව නැවත වරක් පවසා තිබේ.
+
+ශ්‍රී ලංකාවේ නව ජනපතිවරයාගේ නව අරමුණ වන්නේද දේශීය යාන්ත්‍රණයක් බවද ජිනීවා නුවර පැවැත්වෙන මානව හිමිකම් සැසිවාරයේදී ශ්‍රී ලංකාව සඳහන් කළේය.
+
+එසේම ශ්‍රී ලංකාව සම්බන්ධයෙන් ඉදිරිපත් කර ඇති අවසන් යෝජනාවද ශ්‍රී ලංකාව ප්‍රතික්ෂේප කරන බව මෙහිදී වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/a63107bf.json)
 
 ---
 
@@ -2157,117 +2257,5 @@ Subsequently, the Defence Secretary and Mr. Kamoshida exchanged souvenirs to mar
 [Data](articles/0938e7ce.json)
 
 [Extended Data](ext_articles/0938e7ce.ext.json)
-
----
-
-### Nobel Prize for Chemistry
-
-*2024-10-09 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201994) · `si`
-
-Nobel Prize for Chemistry awarded to American David Baker and Britons Demis Hassabis and John Jumper.
-
-🟩
-
-The winners of the Nobel Prize for the Swedish Royal Academy won today (09).
-
-Accordingly, it has been owned by American National David Baker, British Demis Hassabis and John J. The Jumpers is to scientists.
-
-Demis Hassabis and John M.. The Jumpers is given to scientists.
-
-◼️
-
-[Data](articles/bdc7aacc.json)
-
-[Extended Data](ext_articles/bdc7aacc.ext.json)
-
----
-
-### Nobel Prize in Chemistry 2024: Baker, Hassabis, Jumper win for work on proteins
-
-*2024-10-09 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102563/nobel-prize-in-chemistry-2024-baker-hassabis-jumper-win-for-work-on-proteins) · `en`
-
-Scientists David Baker, Demis Hassabis and John Jumper won the 2024 Nobel Prize in Chemistry, the award-giving body said on Wednesday, for their work on the structure of proteins.
-
-The prize, widely regarded as among the most prestigious in the scientific world, is awarded by the Royal Swedish Academy of Sciences and is worth 11 million Swedish crowns ($1.1 million).
-
-“One of the discoveries being recognised this year concerns the construction of spectacular proteins. The other is about fulfilling a 50-year-old dream: predicting protein structures from their amino acid sequences,” the academy said in a statement.
-
-Half the prize was awarded to Baker “for computational protein design” while the other half was shared by Hassabis and Jumper “for protein structure prediction”, the academy said.
-
-The third award to be handed out every year, the chemistry prize follows those for medicine and physics announced earlier this week.
-
-...
-
-[Data](articles/a6eb2da7.json)
-
-[Extended Data](ext_articles/a6eb2da7.ext.json)
-
----
-
-### Special notice to Israel's job applicants
-
-*2024-10-09 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201993) · `si`
-
-Sri Lanka Foreign Employment Bureau: Israel job exam rescheduled. Online registration required. Failed candidates ineligible. Only for specific countries. Government recruitment ongoing.
-
-🟩
-
-The Sri Lanka Foreign Employment Bureau says that the preceding skills test for Israel has previously been propagated to sit the examination after six months.
-
-Registration of online method for employment in the Israeli construction work is conducted by the Sri Lanka Bureau of Foreign Employment.
-
-Only the candidates who have not been present for the professional test for the employment jobs of the construction of the construction of the land.
-
-Accordingly, after the registration of the online system, the date of the date and the Bureau of the Bureau should be informed of the name of the bureau of documents and the Bureau of Documents.
-
-However, the Bureau says that those who have previously offered to the test test and failed it will not have the opportunity to reappear for this examination.
-
-The announcement states that the examination can only apply for the examination from Israel's notification from Israel and that Israel has not yet been done by Israel.
-
-...
-
-[Data](articles/c26b8118.json)
-
-[Extended Data](ext_articles/c26b8118.ext.json)
-
----
-
-### Expert says breakdown of human relationships and societal isolation contributing to rise in suicides
-
-*2024-10-09 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102561/expert-says-breakdown-of-human-relationships-and-societal-isolation-contributing-to-rise-in-suicides) · `en`
-
-The breakdown of human relationships and the increased isolation of individuals in modern society are significant contributors to rising suicide rates, says Prof. Mohamed Mahees of the Department of Sociology at the University of Colombo.
-
-Speaking during Ada Derana’s current affairs programme “Big Focus” on Wednesday (09), he highlighted the growing detachment of people from one another as a pressing concern.
-
-Prof. Mahees pointed out that modern humans often prioritize their interactions with technology over meaningful relationships with others, which he believes is a root cause of this growing disconnection.
-
-“We see that most suicides are reported in developed countries, but Sri Lanka is not one of those. Despite this, the breakdown of human relationships and the isolation of people in society are major factors here as well,” he explained.
-
-...
-
-[Data](articles/fb9377ae.json)
-
-[Extended Data](ext_articles/fb9377ae.ext.json)
-
----
-
-### PM urged to investigate corruption within Health Ministry
-
-*2024-10-09 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102560/pm-urged-to-investigate-corruption-within-health-ministry-) · `en`
-
-The Society of Radiological Technologists Association Sri Lanka (SRTSL) says that they have requested Prime Minister Harini Amarasuriya to appoint a committee to investigate corruption and irregularities that have allegedly taken place within the Ministry of Health in the recent past.
-
-The association’s chairman Chanaka Dharmawickrama, stated that the association is prepared to provide information related to these issues to the said committee.
-
-“Currently, the Prime Minister is working as the Minister of Health. In particular, we say that in the past, a lot of fraud and corruption occurred in matters such as the procurement of large stocks of drugs,” he said.
-
-Dharmawickrama further emphasized that the new President and the Prime Minister, who is concurrently serving as the Minister of Health, should take immediate action on this matter.
-
-...
-
-[Data](articles/7ce6ca57.json)
-
-[Extended Data](ext_articles/7ce6ca57.ext.json)
 
 ---

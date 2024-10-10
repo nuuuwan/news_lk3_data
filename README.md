@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 09:12:26**
+As of **2024-10-10 09:23:46**
 
 ## Newspaper Stats
 
-*Scraped **48,703** Articles*
+*Scraped **48,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,985
 dailyftlk | 3,299
 adalk | 4,518
 dailymirrorlk | 4,733
-adaderanalk | 5,743
+adaderanalk | 5,745
 tamilmirrorlk | 6,606
 virakesarilk | 7,785
 adaderanasinhalalk | 8,422
@@ -26,11 +26,51 @@ adaderanasinhalalk | 8,422
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,703 (100.0%) of 48,703 articles have been extended.
+48,705 (100.0%) of 48,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### 139 officers and 1,273 other ranks promoted to mark 75th army anniversary
+
+*2024-10-10 09:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102576/139-officers-and-1273-other-ranks-promoted-to-mark-75th-army-anniversary) · `en`
+
+A total of 139 Officers of the Sri Lanka Army and 1,273 Other Ranks of the Army (Regular Force and Volunteer Force) have been promoted to their respective next ranks in view of the 75th anniversary of the Sri Lanka Army today (10).
+
+The promotions were made by President Anura Kumara Dissanayake, in his capacity as the Commander-in-Chief of the Armed Forces, on the recommendation of the Ministry of Defence and Lieutenant General Vikum Liyanage, Commander of the Army.
+
+Accordingly, 131 Lieutenants to the rank of Captain (Including Quarter Masters) and 08 Second Lieutenants to the rank of Lieutenant (Regular Force & Volunteer Force) have been thus promoted in the Officers’ category.
+
+...
+
+[Data](articles/d8a72ae1.json)
+
+[Extended Data](ext_articles/d8a72ae1.ext.json)
+
+---
+
+### Showery conditions to enhance in south-western part of the island
+
+*2024-10-10 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102575/showery-conditions-to-enhance-in-south-western-part-of-the-island) · `en`
+
+The Department of Meteorology says showery condition is expected to enhance to some extent in the south-western part of the Island in the next few days starting from today (10), due to the development of atmospheric disturbance in the vicinity of Sri Lanka.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces.
+
+Heavy showers above 100mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Meanwhile, showers or thundershowers will occur elsewhere at several places in the island during the evening or night.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/ae29ca83.json)
+
+[Extended Data](ext_articles/ae29ca83.ext.json)
+
+---
 
 ### Completed today
 
@@ -2323,53 +2363,5 @@ He said that he was only used under the Postal Department but participating at a
 [Data](articles/573c349a.json)
 
 [Extended Data](ext_articles/573c349a.ext.json)
-
----
-
-### Kasilingam is in Jaffna
-
-*2024-10-09 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195857) · `ta`
-
-Kasilingam running in Jaffna election. Former President Mahinda Rajapaksa supports Kasilingam's nomination.
-
-🟩
-
-In the upcoming general election. Kaslingam is competing.
-
-G. Former President Mahinda Rajapaksa signed a signed on Wednesday (09) at Kasilingam's nomination.
-
-◼️
-
-[Data](articles/bb0a059e.json)
-
-[Extended Data](ext_articles/bb0a059e.ext.json)
-
----
-
-### Human burial telephone number scan
-
-*2024-10-09 16:05:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனித-புதைகுழி-ஸ்கேன்-ஆரம்பம்-முழுத்தடைவிதிப்பு/175-345165) · `ta`
-
-Mannar Sathosa human burial excavation resumes after suspension. Military camp site excavated. Media denied access to photograph or scan activities. New judge blocks photography. Lawyers refuse voice records.
-
-🟩
-
-The long -term suspended Mannar Sathosa human burial excavation work is to be resumed this week.
-
-Excavation work took place on Wednesday (9) in the area where the military camp was located near the Mannar Sathosa complex.
-
-However, the Mannar district journalists have been denied permission to photograph and record the excavation work or scan activities.
-
-Earlier, the media was allowed to report the real answers to the excavation work through the Mannar Magistrate's Court as the police were banned from collecting news of the Sathosa human burial excavation work.
-
-Nevertheless, the new judge has now denied permission to take photographs of excavation work or other activities on the burial.
-
-It is also noteworthy that lawyers appearing on behalf of the affected parties have refused to issue voice records on the excavation and the process of burial case.
-
-◼️
-
-[Data](articles/906b4be2.json)
-
-[Extended Data](ext_articles/906b4be2.ext.json)
 
 ---

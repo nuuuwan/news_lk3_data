@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 22:12:44**
+As of **2024-10-10 22:24:46**
 
 ## Newspaper Stats
 
-*Scraped **48,846** Articles*
+*Scraped **48,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 5,770
 tamilmirrorlk | 6,629
 virakesarilk | 7,813
-adaderanasinhalalk | 8,447
+adaderanasinhalalk | 8,448
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,846 (100.0%) of 48,846 articles have been extended.
+48,846 (100.0%) of 48,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### ශ්‍රීලංකන් ගුවන් යානයක කාර්මික දෝෂයක්
+
+*2024-10-10 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202042) · `si`
+
+ශ්‍රී ලංකා ගුවන් සේවයට අයත් UL 265 දරන ගුවන්යානය කොළඹ සිට රියාද් බලා පියාසර කරමින් තිබියදී ඇතිවූ කාර්මික දෝෂයක් හේතුවෙන් නැවත කටුනායක ගුවන්තොටුපොළට පැමිණි බව ශ්‍රීලංකන් ගුවන් සේවය නිවේදනය කරයි.
+
+එම ගුවන් යානය අද (10) රාත්‍රී 7ට පමණ ආරක්ෂාකාරීව ගොඩබැස්වූ බව එම නිවේදනයේ දැක්වෙයි.
+
+ශ්‍රීලංකන් ගුවන් සේවය පවසන්නේ සියලුම මගීන්ට හෝටල් නවාතැන් සපයා ඇති අතර ඊළඟට ඇති ගුවන් ගමන සඳහා නැවත ආසන වෙන්කරවා ඇති බවය.
+
+◼️
+
+[Data](articles/680c52a9.json)
+
+---
 
 ### Shani Abeysekera back to police service
 
@@ -2351,29 +2367,5 @@ Rakwana Police have launched an investigation into the cause of the fire and are
 [Data](articles/189501a3.json)
 
 [Extended Data](ext_articles/189501a3.ext.json)
-
----
-
-### Four persons including Ajith Nubes
-
-*2024-10-10 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202024) · `si`
-
-Ajith Nivard Cabraal, former Central Bank Governor, along with four others, faces accusations of investing in government bonds during the 2012 financial crisis. The Bribery Commission filed charges, and one defendant was released on bail. The court ordered restrictions on travel licenses pending further investigation.
-
-🟩
-
-Former Central Bank Governor Ajith Nivard Cabraal, including former Ajith Nivard Cabraal, has been handed over to four accused.
-
-He and four others were accused of investing in the Government's financial crisis in 2012, the government's governance bonds.
-
-After handing over of the allegations filed by the Bribery Commission, the court ordered the release of one defendant on personal bail of Rs. 10 million.
-
-The judiciary ordered the defendants who were banned to the defendants to be handed over to their travel licenses to their traveling licenses and that the court should obtain permission.
-
-◼️
-
-[Data](articles/310a0508.json)
-
-[Extended Data](ext_articles/310a0508.ext.json)
 
 ---

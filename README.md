@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 10:11:46**
+As of **2024-10-10 10:23:30**
 
 ## Newspaper Stats
 
-*Scraped **48,711** Articles*
+*Scraped **48,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,747
 tamilmirrorlk | 6,608
 virakesarilk | 7,785
-adaderanasinhalalk | 8,424
+adaderanasinhalalk | 8,425
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,711 (100.0%) of 48,711 articles have been extended.
+48,712 (100.0%) of 48,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### A sudden fire on a bus
+
+*2024-10-10 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202019) · `si`
+
+Bus fire destroys vehicle near Colombo; 50+ passengers evacuated safely. Local residents assist in extinguishing flames. Incident occurs en route to Embilipitiya.
+
+🟩
+
+A private bus from Colombo to Embilipitiya has been destroyed in the Madampe Kammpaya area.
+
+It is reported that nearly 1. fifty passengers have sat at the bus.
+
+With the help of the people of the area, the fire has been managed, but the bus has completely destroyed.
+
+◼️
+
+[Data](articles/50130f0e.json)
+
+[Extended Data](ext_articles/50130f0e.ext.json)
+
+---
 
 ### Ratan Tata has passed away
 
@@ -2339,31 +2361,5 @@ The National Convention, which contested on behalf of the India coalition, has w
 [Data](articles/b83f64a8.json)
 
 [Extended Data](ext_articles/b83f64a8.ext.json)
-
----
-
-### Sri Lanka stocks close down, foreign interest in John Keells
-
-*2024-10-09 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-foreign-interest-in-john-keells-182994/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 0.16 percent, or 18.95 points, at 12,152; while the more liquid S&P SL20 Index closed updown 0.06 percent, or 2.18 points, at 3,593.
-
-Top turnover generators were John Keells Holdings (up at 198.25), Citizens Development Business Finance (flat at 202.75), Sampath Bank (down at 81.40), Commercial Bank (down at 106.50), and Dialog Axiata (up at 10.00).
-
-Crossings were recorded on Citizens Development Business Finance, John Keells Holdings, and Hatton National Bank (up at 214.00).
-
-Most banks closed down. DFCC was down at 80.60, NDB was down at 80.00.
-
-“There was a notable net foreign inflow because of John Keells Holdings,” Softlogic Holdings said.
-
-Top foreign buying was seen in John Keells Holdings, Commercial Bank, Sampath Bank, ACL Cables (down at 86.80), Melstacorp (up at 88.50), and Elpitiya Plantations (up at 104.00).
-
-...
-
-[Data](articles/ab420510.json)
-
-[Extended Data](ext_articles/ab420510.ext.json)
 
 ---

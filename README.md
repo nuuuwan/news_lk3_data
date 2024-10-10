@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 16:39:02**
+As of **2024-10-10 16:56:48**
 
 ## Newspaper Stats
 
-*Scraped **48,790** Articles*
+*Scraped **48,795** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
-colombotelegraphcom | 481
+colombotelegraphcom | 483
 bbccomsinhala | 485
 islandlk | 2,884
 economynextcom | 2,989
 dailyftlk | 3,299
-adalk | 4,529
+adalk | 4,530
 dailymirrorlk | 4,733
 adaderanalk | 5,761
-tamilmirrorlk | 6,623
+tamilmirrorlk | 6,625
 virakesarilk | 7,805
 adaderanasinhalalk | 8,438
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 8,438
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,787 (100.0%) of 48,790 articles have been extended.
+48,795 (100.0%) of 48,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### “Frustration of rejection; does not contest the election”
+
+*2024-10-10 16:32:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிராகரித்தமையால்-விரக்தி-தேர்தலில்-போட்டியிடவில்லை/175-345231) · `ta`
+
+Shehan Semasinghe won't run in upcoming elections due to frustration over rejected policies and lack of public understanding of economic efforts.
+
+🟩
+
+Former Finance Minister Shehan Semasinghe has announced that he will not contest the upcoming parliamentary elections.
+
+He said that the country suffered various economic impacts last year and then dedicated himself to the country's economy to build the country's economy.
+
+When the country and the economy are in a position, the benefits are available to the people, he said.
+
+But as a nation, he believed that people have no proper understanding of the sacrifices and achievements committed and that it is showing the presidential results this year.
+
+In his letter, he said he would not contest the upcoming parliamentary elections as people were frustrated by the rejection of the policy political path that was built by the last government.
+
+◼️
+
+[Data](articles/a4dbe85a.json)
+
+[Extended Data](ext_articles/a4dbe85a.ext.json)
+
+---
+
+### He will not contest
+
+*2024-10-10 16:31:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பிக்கவும்-போட்டியிடமாட்டார்/175-345230) · `ta`
+
+Patali Champika Ranawaka quits general election due to party contract violation. United People's Front won't field candidates. Decision made by United Republican Front leader.
+
+🟩
+
+United Republican Front leader Patali Champika Ranawaka says he will quit the general election. He said that the decision was taken because of the violation of the contract with the Samaki Jana Santanaya Party, and that the United People's Front would not field any candidate in the general election.
+
+◼️
+
+[Data](articles/e449c765.json)
+
+[Extended Data](ext_articles/e449c765.ext.json)
+
+---
 
 ### US Pacific Fleet commander meets Commander of Sri Lanka Navy
 
@@ -210,21 +254,29 @@ Investigations have revealed that the railway line has been sleeping through the
 
 ---
 
-### மட்டக்களப்பு மாவட்டத்தில் மார்பக புற்று நோயால் பாதிக்கப்படுகின்ற நோயாளர்களின் எண்ணிக்கை  அதிகரிப்பு - பிராந்திய சுகாதார சேவைகள் பணிப்பாளர்
+### Increase in the number of patients with breast cancer in Batticaloa district - Director of Regional Health Services
 
 *2024-10-10 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/195946) · `ta`
 
-தற்போது மார்பக புற்று நோயால் பாதிக்கப்படுகின்ற நோயாளர்களின் எண்ணிக்கை மட்டக்களப்பு மாவட்டத்திலே மிகவும் அதிகரித்து காணப்படுகின்றன. இதனை நாங்கள் விழிப்புணர்வு வழங்குவது மாத்திரமில்லாமல் முதற்கட்டமாக பெண்கள் சுய மார்பு பரிசோதனைகளை மேற்கொள்ள வேண்டும் என மட்டக்களப்பு மாவட்ட பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய அதிகாரி ஆர்.முரளீஸ்வரன் தெரிவித்துள்ளார்.
+Breast cancer cases rising in Batticaloa. Director urges self-checks from age 20. Awareness rally promotes early detection.
 
-மார்பக புற்று நோய் தொடர்பான விழிப்புணர்வு ஊர்வலம் வியாழக்கிழமை (10) மட்டக்களப்பு களுவாஞ்சிகுடியில் நடைபெற்றது.  இதன்போது கலந்து கொண்டு கருத்துத் தெரிவிக்கையிலேயே இவ்வாறு அவர் தெரிவித்தார்.
+🟩
 
-ஒவ்வொரு சுகாதார உத்தியோகஸ்தர்களும் ஒவ்வொரு சுகாதார தூதுவர்களாக விளங்கி பணிபுரிகின்ற அனைத்து அலுவலகங்களிலும் மக்களுக்கு மார்பக புற்றுநோய் தொடர்பான விழிப்புணர்வுகளை ஏற்படுத்த வேண்டும்.
+The number of patients who are currently suffering from breast cancer is increasing in the Batticaloa district. The Director of Regional Health Services, Batticaloa District, R. Muraliswaran said that women should undergo self -chest testing for the first time.
 
-மேலும், உத்தியோகஸ்தர்கள் குடும்பங்களிலும் விழிப்புணர்வுகளை ஏற்படுத்த வேண்டும், அதுவே சமூகத்தில் விழிப்புணர்வை ஏற்படுத்தக் கூடியதாக அமையும்.
+Awareness procession on breast cancer was held on Thursday (10) at Kaluwanchikudi, Batticaloa.He said this while addressing the gathering.
+
+In all offices where every health officer is every health ambassador, people should raise awareness on breast cancer.
+
+Moreover, the officers need to raise awareness in families, which can raise awareness in the community.
+
+The number of patients who are currently suffering from breast cancer is increasing in the Batticaloa district. We should not only provide awareness of this, but for the first time women need to carry out self -chest tests. Especially women should be carried out from the age of 20, and then from the age of 35. Public health will provide advice for that.
 
 ...
 
 [Data](articles/4a5c7dc0.json)
+
+[Extended Data](ext_articles/4a5c7dc0.ext.json)
 
 ---
 
@@ -328,19 +380,29 @@ The statement also emphasized that the Postal Department offers the public the o
 
 ---
 
-### வன்னியில் பொதுமக்கள் முன்னணி வேட்புமனுத் தாக்கல்
+### Public leading nominations in Vanni
 
 *2024-10-10 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195940) · `ta`
 
-வன்னி மாவட்டத்தில் பாராளுமன்ற தேர்தலுக்கான  வேட்புமனுவினை பொதுமக்கள் முன்னணி இன்று வியாழக்கிழமை (10) தாக்கல் செய்தது.
+Here's a summary of the text in approximately 200 characters:
 
-எதிர்வரும் நவம்பர் மாதம் இடம்பெறவுள்ள பாராளுமன்ற தேர்தலில் வன்னித்தேர்தல் மாவட்டத்தில் முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ச  தலைமையிலான பொதுமக்கள் முன்னணி மொட்டு சின்னத்தில் போட்டியிடுகின்றது.
 
-இந்நிலையில் வவுனியா மாவட்ட செயலகத்தில் அமைந்துள்ள தேர்தல் காரியாலத்தில் இன்றையதினம்  மதியம் வேட்புமனுவினை தாக்கல் செய்தனர்.
+
+"Former President Mahinda Rajapaksa's leadership contests parliamentary elections in Vanni district. The Public Front filed nominations at Vavuniya District Secretariat."
+
+🟩
+
+The Public Front filed a nomination for parliamentary elections in the Vanni district on Thursday (10).
+
+Former President Mahinda Rajapaksa's leadership is contesting the upcoming parliamentary elections in the upcoming parliamentary election in the Vanni -election district.
+
+In this case, the election was filed at the Vavuniya District Secretariat today afternoon.
 
 ◼️
 
 [Data](articles/50f6993d.json)
+
+[Extended Data](ext_articles/50f6993d.ext.json)
 
 ---
 
@@ -374,21 +436,29 @@ Meanwhile, in a room, a child and young man are alone in the police emergency ca
 
 ---
 
-### நுவரெலியாவில் ஈரோஸ் ஜனநாயக முன்னணி வேட்பு மனு தாக்கல்
+### Eros Democratic Front filed nominations in Nuwara Eliya
 
 *2024-10-10 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/195938) · `ta`
 
-எதிர்வரும் பாராளுமன்ற பொது தேர்தலில் நுவரெலியா மாவட்டத்தில் போட்டியிடுவதற்கான வேட்பு மனுவை ஈரோஸ் ஜனநாயக முன்னணி நேற்று புதன்கிழமை  (09) மாலை நுவரெலியா மாவட்ட செயலகத்தில் மாவட்ட தேர்தல் தெரிவத்தாட்சி அதிகாரியும் மாவட்ட செயலாளருமான நந்தன கலபடவிடம்  தாக்கல் செய்தது.
+Eros Democratic Front filed nominations in Nuwara Eliya for parliamentary election. Party contests in four districts. Candidates include Secretary R. Zevan Rajendran and Attorney Subramaniam Kandiban. Focuses on youth, education, and plantation community representation.
 
-ஈரோஸ் ஜனநாயக முன்னணியின் செயலாளர் இரா.ஜீவன் ராஜேந்திரன் மற்றும் முன்னணியின் சார்பில்  இணைந்து இம்முறை நுவரெலியா மாவட்டத்தில் வேட்பாளராக போட்டியிடும் சட்டத்தரணி சுப்பிரமணியம் காண்டீபன்  ஆகியோர் மாவட்ட செயலகத்திற்கு வருகை தந்து வேட்பு மனுவை தாக்கல் செய்தனர்.
+🟩
 
-நுவரெலியா மாவட்டத்தில் ஈரோஸ் ஜனநாயக முன்னணி அரசியல் கட்சியாக நாடாளுமன்ற தேர்தலில்  முதல் முறையாக வேட்பு மனு தாக்கல் செய்துள்ளதாக தெரிவித்தார்.
+The Eros Democratic Front filed a nomination papers to contest the upcoming parliamentary general election in the Nuwara Eliya district on Wednesday evening.
 
-அதேநேரத்தில் இம்முறை நடைபெறவுள்ள நாடாளுமன்ற தேர்தலில் இலங்கையில் நான்கு மாவட்டங்களில் ஈரோஸ் ஜனநாயக முன்னணி போட்டியிடவுள்ளதாகவும் தேர்தலில் ஒலிபெருக்கி சின்னத்தில் போட்டியிடவுள்ளதாகவும் தெரிவித்தார்.
+Eros Democratic Front Secretary R. Zevan Rajendran and Attorney -at -Law Subramaniam Kandiban, who are contesting as a candidate in the Nuwara Eliya district this time, filed a nomination papers.
 
-...
+He said that the Eros Democratic Front political party in Nuwara Eliya has filed nominations for the first time in the parliamentary election.
+
+At the same time, the Eros Democratic Front will contest in four districts of Sri Lanka this year's parliamentary elections and that he will contest the loudspeaker symbol in the election.
+
+He also said that we have been given the election in the Nuwara Eliya district and said that this time, we have been given the opportunity to compete for young people and party senior members who are educated from the big plantation community, teachers and social activists.
+
+◼️
 
 [Data](articles/ed86ec0d.json)
+
+[Extended Data](ext_articles/ed86ec0d.ext.json)
 
 ---
 
@@ -765,6 +835,24 @@ On her departure on 13 October, ‘‘Ppa Montecuccoli’ is set to engage in a 
 [Data](articles/62ca1a29.json)
 
 [Extended Data](ext_articles/62ca1a29.ext.json)
+
+---
+
+### Acting Chief Justice sworn in before President
+
+*2024-10-10 12:47:32* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-අගවිනිසුරු-ජනපති-ඉදිරියේ-දිවුරුම්-දෙයි/11-412420) · `si`
+
+Sri Lanka: Supreme Court Judge Nippini Fernando sworn in as Acting Chief Justice by President Anura Kumara Dissanayake at Presidential Secretariat.
+
+🟩
+
+Supreme Court Judge Nippini Fernando was sworn in before President Anura Kumara Dissanayake in the Presidential Secretariat as Acting Chief Justice in Sri Lanka.
+
+◼️
+
+[Data](articles/aa8afe18.json)
+
+[Extended Data](ext_articles/aa8afe18.ext.json)
 
 ---
 
@@ -2319,61 +2407,5 @@ These contract-based appointments were originally made to establish two key enti
 [Data](articles/2768513c.json)
 
 [Extended Data](ext_articles/2768513c.ext.json)
-
----
-
-### Sri Lanka rejects draft resolution adopted at UNHRC, decries external mechanism
-
-*2024-10-10 04:28:29* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-rejects-draft-resolution-adopted-at-UNHRC-decries-external-mechanism/56-767778) · `en`
-
-Draft resolution A/HRC/57/L.1 on promoting reconciliation, accountability and human rights in Sri Lanka adopted without a vote at 57th Regular Session of the UNHRC in Geneva
-
-Sri Lanka yesterday rejected the draft resolution which was tabled before the United Nations Human Rights Council (UNHRC) seeking to extend the mandate of Resolution 51/1 on promoting reconciliation, accountability and human rights in Sri Lanka.
-
-Earlier the draft resolution A/HRC/57/L.1 on promoting reconciliation, accountability and human rights in Sri Lanka was adopted without a vote during the ongoing 57th Regular Session of the UNHRC in Geneva.
-
-However, delivering the government’s statement prior to the adoption of the draft proposal, Sri Lanka’s Permanent Representative to the UN Himalee Arunatilaka said the draft resolution 57/L.1 extends the mandates contained in Human Rights Council resolution 51/1.
-
-...
-
-[Data](articles/5d249f19.json)
-
-[Extended Data](ext_articles/5d249f19.ext.json)
-
----
-
-### Korean Ambassador calls on President Dissanayake
-
-*2024-10-10 04:26:12* · [`dailyftlk`](https://www.ft.lk/news/Korean-Ambassador-calls-on-President-Dissanayake/56-767777) · `en`
-
-The Ambassador of the Republic of Korea Miyon Lee made a courtesy call on President Anura Kumara Dissanayake yesterday.
-
-The visit marked an important juncture in strengthening bilateral ties between Korea and Sri Lanka.
-
-During the meeting, Ambassador Lee congratulated President Dissanayake on his inauguration and also conveyed best wishes from President Yoon Suk Yeol and his expectations to bolster the relationship between the two countries under the new leadership.
-
-...
-
-[Data](articles/d8c96ade.json)
-
-[Extended Data](ext_articles/d8c96ade.ext.json)
-
----
-
-### German Ambassador assures President continued support for development and trade
-
-*2024-10-10 04:24:08* · [`dailyftlk`](https://www.ft.lk/news/German-Ambassador-assures-President-continued-support-for-development-and-trade/56-767776) · `en`
-
-German Ambassador Felix Neumann yesterday met with President Anura Kumara Dissanayake.
-
-Ambassador Neumann congratulated President Dissanayake on his recent election victory and conveyed Germany’s commitment to standing by Sri Lanka as a steadfast partner. The Ambassador also passed on the warm greetings and best wishes of German Chancellor Olaf Scholz.
-
-Ambassador Neumann emphasised the longstanding partnership between Germany and Sri Lanka and expressed Germany’s eagerness to continue cooperation on mutual interests. He highlighted Germany’s 70 years of experience in human resource development and pledged support to Sri Lanka in strengthening this sector.
-
-...
-
-[Data](articles/12484c56.json)
-
-[Extended Data](ext_articles/12484c56.ext.json)
 
 ---

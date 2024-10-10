@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 06:44:29**
+As of **2024-10-10 07:26:07**
 
 ## Newspaper Stats
 
-*Scraped **48,677** Articles*
+*Scraped **48,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,75 @@ newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 481
 bbccomsinhala | 483
-islandlk | 2,871
+islandlk | 2,883
 economynextcom | 2,985
 dailyftlk | 3,299
 adalk | 4,516
 dailymirrorlk | 4,733
 adaderanalk | 5,743
-tamilmirrorlk | 6,602
+tamilmirrorlk | 6,603
 virakesarilk | 7,785
-adaderanasinhalalk | 8,416
+adaderanasinhalalk | 8,417
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,677 (100.0%) of 48,677 articles have been extended.
+48,684 (100.0%) of 48,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Israel's knife attack: 6 people injured
+
+*2024-10-10 06:39:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலில்-கத்திக்குத்து-தாக்குதல்-6-பேர்-காயம்/50-345192) · `ta`
+
+Knife attack in Israel injures 6 civilians. Terrorist targets Hadira city. Security forces respond, rescue victims, shoot fleeing militant.
+
+🟩
+
+Six people were injured in a knife attack on civilians in Israel yesterday.
+
+A terrorist who entered the city of Israel's Hadira has attacked the civilians.
+
+The security forces rushed to the scene and rescued the injured in the attack and rushed to a nearby hospital.
+
+At the same time, security forces have shot dead a militant who fled after a knife attack.. (A)
+
+◼️
+
+[Data](articles/1015ad52.json)
+
+[Extended Data](ext_articles/1015ad52.ext.json)
+
+---
+
+### Interest in atmosphere - Increase in rain
+
+*2024-10-10 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202010) · `si`
+
+Heavy rainfall warning issued for Western, Sabaragamuwa, Southern provinces. Thunderstorms possible with strong winds and lightning. Public advised to take precautions.
+
+🟩
+
+Due to the growing turmoil in the island, a rainy section of the island is expected in the next few days from today (10).
+
+The Department of Meteorology announced that showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern provinces.
+
+Meanwhile, some places in the Western and Sabaragamuwa Province and in the Galle and Matara districts.. Heavy rains may occur at more than 100.
+
+Showers or thundershowers at night during the rest of the island. Mm to certain places. Heavy rains can occur more than 75.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/9e2d91a9.json)
+
+[Extended Data](ext_articles/9e2d91a9.ext.json)
+
+---
 
 ### Ranjan Ramanayake launches new political party – United Democratic Voice
 
@@ -458,6 +508,34 @@ SriLankan Airlines appoints new CEO. The airline aims to improve its financial p
 
 ---
 
+### Banana magic…
+
+*2024-10-09 23:18:00* · [`islandlk`](http://island.lk/banana-magic/) · `en`
+
+Bananas are freely available in the market so I thought it would be quite appropriate to try out some banana magic this week.
+
+You will need ½ banana, 01 tablespoon honey and 01tablespoon milk.
+
+Smash the banana till it becomes a smooth fine paste. Then add the honey and milk and mix well.
+
+Apply this mixture on your face and neck and leave it for 15 minutes, and then wash off with cool water.
+
+You will need 01 ripe banana, 02 tablespoons oats and 01 tablespoon of honey,
+
+Peel the banana and smash it to a smooth fine paste. Add the oats and honey and mix them well.
+
+Apply this mixture on your face by massaging and exfoliating and leave it for 15 minutes and then wash it off with cool water and pat dry your skin.
+
+Mash up a medium-sized ripe banana into a smooth paste, and then gently apply it to your face and neck. Let it set for 10 to 20 minutes and then wash it off with cool water.
+
+...
+
+[Data](articles/f9eb478d.json)
+
+[Extended Data](ext_articles/f9eb478d.ext.json)
+
+---
+
 ### Sarath Ganegoda appointed new chairman of SriLankan Airlines
 
 *2024-10-09 23:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102573/sarath-ganegoda-appointed-new-chairman-of-srilankan-airlines) · `en`
@@ -517,6 +595,100 @@ Mr. Sarath Kamagoda has been appointed as the new Chairman of SriLankan Airlines
 [Data](articles/5a943e31.json)
 
 [Extended Data](ext_articles/5a943e31.ext.json)
+
+---
+
+### President discusses enhancing revenue and efficiency with Sri Lanka Customs and Inland Revenue officials
+
+*2024-10-09 22:57:00* · [`islandlk`](http://island.lk/president-discusses-enhancing-revenue-and-efficiency-with-sri-lanka-customs-and-inland-revenue-officials/) · `en`
+
+President Anura Kumara Dissanayake held a key meeting with senior officials from both the Sri Lanka Customs Department and the Inland Revenue Department at the Presidential Secretariat today (09). The discussions centered on strategies to enhance revenue generation and improve operational efficiency within both departments, in line with the government’s broader economic mandate.
+
+During the meeting, officials from both departments presented the challenges they face in managing revenue and tackling tax evasion. They stressed the importance of strengthening coordination between the Inland Revenue Department (IRD) and Customs to effectively combat these issues. It was highlighted that better collaboration would ensure more robust enforcement of tax laws and prevent tax leakage, further boosting the country’s revenue collection.
+
+...
+
+[Data](articles/ea32e540.json)
+
+[Extended Data](ext_articles/ea32e540.ext.json)
+
+---
+
+### Norfolk Foods presents innovative ‘Lean Mean Green’ range at THAIFEX ANUGA ASIA 2024, eyeing international growth
+
+*2024-10-09 22:53:00* · [`islandlk`](http://island.lk/norfolk-foods-presents-innovative-lean-mean-green-range-at-thaifex-anuga-asia-2024-eyeing-international-growth/) · `en`
+
+Norfolk Foods (Pvt) Ltd, a pioneer in frozen food manufacturing in Sri Lanka, recently participated in THAIFEX ANUGA ASIA 2024, Asia’s leading food and beverage trade show, held in Bangkok, Thailand from May 28th to June 1st, 2024. The company showcased its innovative Sri Lankan-inspired vegan cuisine product range, ‘Lean Mean Green’ (LMG), aiming to expand its presence in the global market.
+
+As part of the Charoen Pokphand Foods Public Company Limited (CPF) Thailand, Norfolk Foods exhibited a wide variety of high quality, products made using authentic Sri Lankan ingredients including Polos Cutlets, Polos Burgers, Jackfruit Nuggets, and an assortment of gourmet pancakes. The LMG range, developed specifically for the export market, offers a unique fusion of Sri Lankan flavours and plant-based innovation.
+
+...
+
+[Data](articles/82b80cfa.json)
+
+[Extended Data](ext_articles/82b80cfa.ext.json)
+
+---
+
+### ComBank supports WNPS PLANT project to reforest the banks of Maskeli Oya
+
+*2024-10-09 22:52:00* · [`islandlk`](http://island.lk/combank-supports-wnps-plant-project-to-reforest-the-banks-of-maskeli-oya/) · `en`
+
+The Commercial Bank of Ceylon has expanded its wide-ranging commitment to sustainability with a pledge of support to a project to reforest a part of a nine-kilometer stretch of the banks of the Maskeli Oya, a major upstream tributary of the Kelani river.
+
+A memorandum of understanding (MoU) signed by the Bank with Preserving Land and Nature (Guarantee) Ltd, or PLANT, an initiative of the Wildlife and Nature Protection Society (WNPS), envisages that Commercial Bank will fund the planting of 3,650 plants on land strips parallel to the Maskeli Oya waterway, contributing to environmental conservation, including carbon sequestration, forest corridor creation, soil erosion prevention, and the creation of a sustainable habitat for local fauna.
+
+...
+
+[Data](articles/63867f55.json)
+
+[Extended Data](ext_articles/63867f55.ext.json)
+
+---
+
+### Browns’ Exide introduces Sri Lanka’s very first E-Care Battery warranty
+
+*2024-10-09 22:50:00* · [`islandlk`](http://island.lk/browns-exide-introduces-sri-lankas-very-first-e-care-battery-warranty/) · `en`
+
+In a ground-breaking move and for the first time in the automotive battery industry in Sri Lanka, Browns Battery & Tyre Strategic Business Unit recently launched the Browns E-Care Battery Warranty activation. This marks a milestone in the implementation of the first-ever paperless E-Warranty in the Sri Lankan automotive battery sector, thereby transforming customer experience from this point forward. With this new innovation, customers can now disregard traditional printed warranty cards by opting for a paperless solution. The warranty will be activated by Exide agents via the Browns E-Care App, an interface exclusively designed and developed in-house by Browns’ Digital Transformation Solutions (DTS).
+
+Norfolk Foods presents innovative ‘Lean Mean Green’ range at THAIFEX ANUGA ASIA 2024, eyeing international growth
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/ab3302e7.json)
+
+[Extended Data](ext_articles/ab3302e7.ext.json)
+
+---
+
+### SDD Polymer marks 20 years of growth, innovation
+
+*2024-10-09 22:49:00* · [`islandlk`](http://island.lk/sdd-polymer-marks-20-years-of-growth-innovation/) · `en`
+
+SDD Polymer (Private) Limited, a leading distributor and supplier of plastic raw materials in Sri Lanka, recently celebrated its 20th anniversary with a grand event at the Shangri-La Hotel in Colombo. The gala affair hosted by the founders, Mr & Mrs Jeyaseelan brought together special guests, high-profile invitees, industry veterans, executives and staff to mark two decades of innovation, growth, and strong partnerships that have propelled the company to the forefront of Sri Lanka’s packaging and polymer industry.
+
+Founded in 2004, SDD Polymer has evolved from a small enterprise into a prominent player in the polymer industry. Specializing in petrochemical products, the company supplies a wide range of plastic raw materials, including Polypropylene (PP), High-density Polyethylene (HDPE), Low-density Polyethylene (LDPE), Linear Low-density Polyethylene (LLDPE), Polystyrene (PS), Masterbatches, Additives, Fillers, and Compounds, catering to various sectors of the plastics industry.
+
+...
+
+[Data](articles/61d13f96.json)
+
+---
+
+### Share market’s sensitivity to debt-restructuring brings boons
+
+*2024-10-09 22:47:00* · [`islandlk`](http://island.lk/share-markets-sensitivity-to-debt-restructuring-brings-boons/) · `en`
+
+The stock market was yesterday somewhat volatile due to profit- takings in banking sector counters. But it is said that investor participation and turnover were quite satisfactory due to the market attracting external environmental developments, especially Sri Lanka’s external debt restructuring exercise, market analysts said.
+
+In this scenario both indices showed mixed reactions. The All Share Price Index went up by 18.9 points while S and P SL20 rose by 7.8 points. Turnover stood at Rs 2.14 billion with three crossings. Those crossings were reported in Citizens Development Business Finance, which crossed 1.49 million shares to the tune of Rs 305 million; its shares traded at Rs 205, JKH 460,000 shares crossed for Rs 91.4 million; its shares traded at Rs 198.25 and HNB 100,000 shares crossed for Rs 21.5 million; its shares sold at Rs 215.
+
+...
+
+[Data](articles/20a43e4b.json)
 
 ---
 
@@ -2075,215 +2247,5 @@ He also noted that he has a good understanding of the problems of people and esp
 [Data](articles/ccf62fde.json)
 
 [Extended Data](ext_articles/ccf62fde.ext.json)
-
----
-
-### Global watchdogs to monitor Sri Lanka’s General Election
-
-*2024-10-09 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102558/global-watchdogs-to-monitor-sri-lankas-general-election) · `en`
-
-The Election Commission of Sri Lanka has confirmed the participation of observers from eight nations to ensure the integrity of the upcoming general election scheduled for November 14.
-
-This international presence includes representatives from Russia, the Commonwealth, the European Union, and other regional countries, foreign media reported.
-
-According to R M A L Ratnayake, the commission’s chairman, these observers will provide vital oversight during the election proceedings.
-
-Simultaneously, major political parties are in the process of candidate selection and coalition-building, as the deadline for filing nominations looms on October 11.
-
-◼️
-
-[Data](articles/211bfcf2.json)
-
-[Extended Data](ext_articles/211bfcf2.ext.json)
-
----
-
-### US Pacific Fleet commander to visit Sri Lanka
-
-*2024-10-09 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102557/us-pacific-fleet-commander-to-visit-sri-lanka-) · `en`
-
-The U.S. Embassy in Sri Lanka announced that Admiral Steve Koehler, a 4-star U.S. Navy Admiral and Commander of U.S. Pacific Fleet will visit Sri Lanka on October 10, marking the highest-level U.S. military visit to the country since 2021.
-
-During the visit, Admiral Koehler will reaffirm the strong partnership between the United States and Sri Lanka for an enduring, resilient, free and open Indo-Pacific, the U.S. Embassy said in a statement.
-
-Admiral Koehler will engage with senior Sri Lankan officials to discuss rising security challenges in the Indian Ocean region, strengthen collaboration on maritime domain awareness and disaster response, reaffirm U.S. commitment to supporting Sri Lanka in combating transnational threats, and discuss the growing cooperation between U.S. and Sri Lankan forces, it said.
-
-...
-
-[Data](articles/965b3a42.json)
-
-[Extended Data](ext_articles/965b3a42.ext.json)
-
----
-
-### Sri Lanka treasury bill yields plunge across maturities
-
-*2024-10-09 15:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-plunge-across-maturities-182982/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction, with all 85 billion of offered bills sold, data from the debt office showed.
-
-The 3-month yield was down 37 basis points to 9.69 percent, with all offered 40 billion rupees of bills sold.
-
-The 6-month yield was down 42 basis points to 9.95 percent, with all 35 billion rupees of bills offered sold.
-
-The 12-month bill was down 4 basis point at 10.00 percent, with all 10 billion rupees of bills offered sold. (Colombo/Oct9/2024)
-
-◼️
-
-[Data](articles/c8127a33.json)
-
-[Extended Data](ext_articles/c8127a33.ext.json)
-
----
-
-### Anandakumar lifted the inch
-
-*2024-10-09 14:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அங்குசத்தை-தூக்கி-எறிந்தார்-ஆனந்தகுமார்/76-345163) · `ta`
-
-Subbaiah Anandakumar quits UNP Ratnapura district organizer role due to dissatisfaction with party leadership and accommodation of rejected politicians.
-
-🟩
-
-Subbaiah Anandakumar, organizer of the United National Party's Ratnapura district, has decided to quit the party.
-
-He will inform the party leader Ranil Wickremesinghe and the party's general secretary in this regard.
-
-“After the defeat of the United National Party in the 2020 general election, many left the party. However, we were the only one who went down the field for the development of the party.
-
-Even after party leader Ranil Wickremesinghe was elected president, we were carrying out the tasks without getting any allowances. There is no use of state vehicles. There is no state resources.
-
-However, the activities of a few of the party are not satisfactory. Moreover, the politicians who have been rejected by the people and the Rajapaksas have been accommodated in the Ratnapura district.
-
-UNP supporters are very dissatisfied with this.. In that case, I am rescuing the post of Ratnapura District Organizer. I am leaving the party. ”- That is mentioned in the report.
-
-◼️
-
-[Data](articles/c7a8516a.json)
-
-[Extended Data](ext_articles/c7a8516a.ext.json)
-
----
-
-### Petition against Nilantha Jayawardena postponed
-
-*2024-10-09 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201991) · `si`
-
-Petition against Nilantha Jayawardena postponed. Court of Appeal summons National Police Commission for disciplinary action. New Supreme Court investigation initiated. Next hearing on November 13.
-
-🟩
-
-The Court of Appeal today (09) the Court of Appeal was held today (09) to be summoned to the National Police Commission to issue disciplinary action against the former Director of State Intelligence.
-
-The petition has been filed against Nilantha Jayawardena against the pre-intelligence attack on the Easter intelligence.
-
-The petition filed by the Social and Peace Center, the petition was summoned before the Court of Appeal of Sobhitha Rajakaruna and Mahen Gopallawa today.
-
-President's Counsel Chandra Jayasundara appearing on behalf of Nilantha Jayawardene has said that the Supreme Court has initiated a new investigation against his client as the Police Commission has launched a new investigation against his client.
-
-Do you confirm the petition regarding the petition?Or do you withdrawal?The court ordered to be summoned on November 13 to consider.
-
-◼️
-
-[Data](articles/0d1cf7d5.json)
-
-[Extended Data](ext_articles/0d1cf7d5.ext.json)
-
----
-
-### Inferior chemical that comes to the good name
-
-*2024-10-09 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201990) · `si`
-
-Fake agricultural inputs racket busted in Thambuththegama, 960 packets seized from leading manufacturer.
-
-🟩
-
-A racket that sells the fake agricultural inputhorator in the market is being operated by the fake agricultural deposits market as the brand of the country.
-
-A type of fake agricultural inputs was arrested by the raid at the Registrar's Registrar's Office of Pesticides in Thambuththegama.
-
-A racket of pesticides in the Registrar's Office of Registrar's Office, a racket is being implemented in the market.
-
-The maintenance of the main agricultural input companies in the country are illegal using the country's leading agricultural companies.
-
-The raid on the office of Registrar's Office in search of these fake agricultural inputs is wide raids.
-
-It is said that 960 agricultural applications used in the eggplant inputs that were placed in Thambuttegama yesterday.
-
-They were released to the market using a leading agricultural input manufacturing company in the country.
-
-The sealing of 960 packets of pseudo-agricultural input inputs will be sealing at the market.
-
-◼️
-
-[Data](articles/597ae5a3.json)
-
-[Extended Data](ext_articles/597ae5a3.ext.json)
-
----
-
-### Casilingam competition in Jaffna
-
-*2024-10-09 14:40:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காசிலிங்கம்-யாழில்-போட்டி/175-345162) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Kasilingam competes in Jaffna election, backed by Mahinda Rajapaksa. Represents Sri Lanka PA party.
-
-🟩
-
-Ge in the upcoming general election representing Sri Lanka PA. Kasilingam signed the presence of former President Mahinda Rajapaksa.
-
-◼️
-
-[Data](articles/f15bb5e9.json)
-
-[Extended Data](ext_articles/f15bb5e9.ext.json)
-
----
-
-### We will not reduce the privileges: the Secretary of Defense
-
-*2024-10-09 14:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைகளை-குறைக்கமாட்டோம்-பாதுகாப்பு-செயலாளர்/175-345160) · `ta`
-
-Sri Lanka Defense Secretary denies rumors of soldier concession cuts, reaffirms government support during visit to Air Force Headquarters.
-
-🟩
-
-“I learned that there are false rumors in the media regarding the reduction of the concessions offered to the soldiers by the government. However, I will report that the current government has no intention of reducing the concessions offered to the soldiers. ”
-
-Defense Secretary Air Vice Marshall Sampath Dihakonda (Retired) said this while addressing the Air Force personnel during his first visit to the Sri Lanka Air Force Headquarters in Sri Jayawardenapura Kotte.
-
-Air Force Commander Air Marshal Udayani visited several sections of the Air Force Headquarters with Rajapakse and other senior officials.
-
-◼️
-
-[Data](articles/60e9092f.json)
-
-[Extended Data](ext_articles/60e9092f.ext.json)
-
----
-
-### Do not reduce the concessions of the telephone number
-
-*2024-10-09 14:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைகளை-குறைக்கமாட்டோம்/175-345160) · `ta`
-
-Sri Lanka Defense Secretary denies rumors about soldier concessions. Government committed to maintaining current benefits, says Air Vice Marshall Sampath Dihakonda during visit to Air Force Headquarters.
-
-🟩
-
-“I learned that there are false rumors in the media regarding the reduction of the concessions offered to the soldiers by the government. However, I am saying that the current government has no intention of reducing the concessions offered to the soldiers. ”
-
-Defense Secretary Air Vice Marshall Sampath Dihakonda (Retired) said this while addressing the Air Force personnel during his first visit to the Sri Lanka Air Force Headquarters in Sri Jayawardenapura Kotte.
-
-Air Force Commander Air Marshal Udayani visited several sections of the Air Force Headquarters with Rajapakse and other senior officials.
-
-◼️
-
-[Data](articles/74e6f25d.json)
-
-[Extended Data](ext_articles/74e6f25d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 15:39:06**
+As of **2024-10-10 15:58:01**
 
 ## Newspaper Stats
 
-*Scraped **48,779** Articles*
+*Scraped **48,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 485
 islandlk | 2,884
 economynextcom | 2,989
 dailyftlk | 3,299
-adalk | 4,527
+adalk | 4,529
 dailymirrorlk | 4,733
-adaderanalk | 5,757
+adaderanalk | 5,760
 tamilmirrorlk | 6,623
 virakesarilk | 7,800
 adaderanasinhalalk | 8,438
@@ -26,11 +26,85 @@ adaderanasinhalalk | 8,438
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,779 (100.0%) of 48,779 articles have been extended.
+48,784 (100.0%) of 48,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Overseas travel ban imposed on ex-MP Johnston Fernando
+
+*2024-10-10 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102591/overseas-travel-ban-imposed-on-ex-mp-johnston-fernando) · `en`
+
+The Colombo Fort Magistrate’s Court has imposed an overseas travel ban on former Member of Parliament Johnston Fernando today (10).
+
+The travel ban has been imposed over allegations of possessing an illegally assembled luxury vehicle, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/e6163d90.json)
+
+[Extended Data](ext_articles/e6163d90.ext.json)
+
+---
+
+### Semasinghe ‘dissapointed’ by Prez Poll result; decides not to contest Parliamentary Election
+
+*2024-10-10 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102590/semasinghe-dissapointed-by-prez-poll-result-decides-not-to-contest-parliamentary-election) · `en`
+
+Former Minister of State for Finance Shehan Semasinghe has announced that he will not be contesting in the upcoming parliamentary elections.
+
+Issuing a statement, Semasinghe reflected on the country’s economic challenges over the past year and his dedication to rebuilding the economy alongside former President Ranil Wickremesinghe, following the economic collapse.
+
+Semasinghe expressed his belief that once the country and its economy stabilize, the public would begin to appreciate the efforts and sacrifices made during the recovery process. He stated that the benefits of these efforts would ultimately reach the people, allowing them to better understand the trajectory of the country’s economic recovery.
+
+...
+
+[Data](articles/c6089c38.json)
+
+[Extended Data](ext_articles/c6089c38.ext.json)
+
+---
+
+### Prime Minister stamps to Minister Vijitha
+
+*2024-10-10 15:22:46* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිනිට--ඇමති-විජිතට-මුද්දර-ගහලද--/11-412423) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Department of Posts clarifies: Souvenir gifts from PM Harini Amarasuriya & Minister Vijitha Herath for World Post-Day celebrations are not official stamps."
+
+🟩
+
+The Department of Posts has issued a statement regarding the souvenirs given by Prime Minister Harini Amarasuriya and Minister Vijitha Herath at the World Post-Days National Celebrations yesterday.
+
+This is just a souvenir gift and has not been issued by the Minister of Prime Minister or Vijitha Herath for the World Post Day.
+
+◼️
+
+[Data](articles/490fc513.json)
+
+[Extended Data](ext_articles/490fc513.ext.json)
+
+---
+
+### More than 3 million without power as Hurricane Milton slams Florida, causes deaths and flooding
+
+*2024-10-10 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102589/more-than-3-million-without-power-as-hurricane-milton-slams-florida-causes-deaths-and-flooding) · `en`
+
+Hurricane Milton churned across Florida on Thursday after plowing into the state as a Category 3 storm, bringing misery to a coast still ravaged by Helene, pounding cities with winds of over 100 mph (160 kph) after producing a barrage of tornadoes, but sparing Tampa a direct hit.
+
+The storm tracked to the south in the final hours and made landfall Wednesday night in Siesta Key near Sarasota, about 70 miles (112 kilometers) south of Tampa. The situation in the Tampa area was still a major emergency as St. Petersburg recorded over 16 inches (41 centimeters) of rain, prompting the National Weather Service to warn of flash flooding there as well as other parts of western and central Florida.
+
+...
+
+[Data](articles/eefac084.json)
+
+[Extended Data](ext_articles/eefac084.ext.json)
+
+---
 
 ### Two lives will be saved due to the railway driver
 
@@ -711,6 +785,30 @@ The railway department said that the move would be carried out with the permissi
 [Data](articles/0a0ec11a.json)
 
 [Extended Data](ext_articles/0a0ec11a.ext.json)
+
+---
+
+### An Italian war ship arrives at the Port of Colombo
+
+*2024-10-10 12:07:40* · [`adalk`](https://www.ada.lk/picture_story/ඉතාලි-යුද-නැවක්-කොළඹ-වරායට-පැමිණෙයි/10-412419) · `si`
+
+Italian warship PPA Montecuccoli visits Colombo Port on official tour. Scheduled to meet Sri Lanka Navy officials and conduct training exercises before departing on October 13, 2024.
+
+🟩
+
+The 'PPA Montecuccoli' war came at the Port of Colombo on an official visit to the Colombo port this morning (October 10).
+
+Multi Purpese Combat Ship, which arrived at the Colombo Port, consists of one hundred and forty (152 fifty-two) and shipment (152). Commander of the Commander, Commander Assarro Troia and Western Naval Commander Rear Admiral Chinthaka Kumarasinghe is scheduled to be held at the commander (October 10).
+
+The 'PPA Montecucjori' warfare will visit several areas on the time of staying in Sri Lanka and is scheduled to visit Sri Lanka Navy personnel on the operation of the ship.
+
+Further, the 'PPA Montecuciccoli' war ship is due to leave the island on October 13, 2024 following a training exercise in the western naval ship.
+
+◼️
+
+[Data](articles/b760c15e.json)
+
+[Extended Data](ext_articles/b760c15e.ext.json)
 
 ---
 
@@ -2349,107 +2447,5 @@ I keep tabs on misinformation, and its close cousin, disinformation for a simple
 [Data](articles/299779c3.json)
 
 [Extended Data](ext_articles/299779c3.ext.json)
-
----
-
-### Overcoming common mistakes in customer experience
-
-*2024-10-10 01:47:17* · [`dailyftlk`](https://www.ft.lk/columns/Overcoming-common-mistakes-in-customer-experience/4-767757) · `en`
-
-The customer is the primary focus of any business. Even with the best intentions, companies sometimes fail to meet customer expectations, leading to dissatisfaction. This often occurs owing to the following issues:
-
-When a problem arises, customers usually contact the company right away, expecting an immediate response. Responsiveness plays a crucial role in shaping the customer experience. Customers expect their issues to be resolved on the first contact or at least within the shortest possible time. Therefore, decision-making power should be as close to the customer as possible.
-
-...
-
-[Data](articles/4601c0a5.json)
-
-[Extended Data](ext_articles/4601c0a5.ext.json)
-
----
-
-### Ratan Tata, former Tata Group chairman, dies at age 86
-
-*2024-10-10 01:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102574/ratan-tata-former-tata-group-chairman-dies-at-age-86) · `en`
-
-(Reuters) - Ratan Tata, the former Tata Group chairman who put a staid and sprawling Indian conglomerate on the global stage with a string of high-profile acquisitions, has died, the Tata Group said in a statement late on Wednesday. He was 86.
-
-Tata, who ran the conglomerate for more than 20 years as chairman, had been undergoing intensive care in a Mumbai hospital, two sources with direct knowledge of his medical situation told Reuters earlier on Wednesday.
-
-After graduating with a degree in architecture at Cornell University, he returned to India and in 1962 began working for the group his great-grandfather had founded nearly a century earlier.
-
-He worked in several Tata companies, including Telco, now Tata Motors Ltd, as well as Tata Steel Ltd, later making his mark by erasing losses and increasing market share at group unit National Radio & Electronics Company.
-
-...
-
-[Data](articles/8b9e0a1a.json)
-
-[Extended Data](ext_articles/8b9e0a1a.ext.json)
-
----
-
-### The new Director of the SriLankan Airlines Service
-
-*2024-10-10 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/195903) · `ta`
-
-SriLankan Airlines appoints new directorate on Wednesday, September 9. National Airlines Company names new leadership team.
-
-🟩
-
-A new Directorate has been appointed by the National Airlines Company, SriLankan Airlines on Wednesday (09).
-
-◼️
-
-[Data](articles/5a39e24d.json)
-
-[Extended Data](ext_articles/5a39e24d.ext.json)
-
----
-
-### Dasun Shanaka is not in the Sri Lankan group named for the T20 series against the West Indies
-
-*2024-10-10 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195902) · `ta`
-
-Dasun Shanaka excluded from Sri Lanka's T20 squad vs West Indies. Sarith Asalanka named captain. Young player Samindu Wickremesinghe debuts. Fast bowlers Madisha Pathirana, Nuwan Dushara included. Sanath Jayasuriya appointed full-time coach. Matches scheduled October 13-17 at Rangiri Dambulla International Cricket Stadium.
-
-🟩
-
-The Sri Lankan group, which has 17 players, has been named after the three -match international T20 cricket series against the West Indies.
-
-Former Sri Lankan captain Dasun Shanaka and Dushmantha Sameera have not been given the opportunity to lose a 0 -3 match in the International T20 series against India in July against India.
-
-Sarid Asalan has been appointed as the captain of the Sri Lankan team and the young player Samindu Wickremesinghe has been given the opportunity to quit.
-
-Samindu Wickremasinghe, who made his debut in the last T20 against India, took 4 overs and took only 17 runs.
-
-Meanwhile, fast bowlers Madisha Pathirana, Nuwan Dushara and batsman Avishka Fernando have also been included in the group.
-
-In the meantime, Sanath Jayasuriya, who led the Sri Lankan team as an interim coach in the series against India, England and New Zealand, will begin his work with the series against the West Indies as a full -time instructor.
-
-...
-
-[Data](articles/ef7e7c7d.json)
-
-[Extended Data](ext_articles/ef7e7c7d.ext.json)
-
----
-
-### Innovation in action: SLDF 2024 highlights why creative industries mean business
-
-*2024-10-10 01:17:14* · [`dailyftlk`](https://www.ft.lk/business/Innovation-in-action-SLDF-2024-highlights-why-creative-industries-mean-business/34-767756) · `en`
-
-Championing 15 years of design and design thinking, the SLDF 2024 theme ‘Innovation Island’, spotlights the enormous potential of the country’s creative economy
-
-SLDF 2024, presented by AOD and hosted by the city’s iconic new destination, Cinnamon Life at City of Dreams Sri Lanka, from 7 to 10 November: a key platform for business engagement with Sri Lanka’s creative industries
-
-Offers opportunities for business-focused networking, exhibitions, and knowledge forums, bringing together young graduates, entrepreneurs, industry leaders, and innovators to leverage creative capital and foster strategic collaborations
-
-As Sri Lanka charts its course toward revival and renewal, Sri Lanka Design Festival (SLDF) 2024 presents a unique platform to explore the intersection of creativity and commerce, providing direct access to the nation’s creative capital and opening doors for collaboration and new ventures.
-
-...
-
-[Data](articles/bc5cd87b.json)
-
-[Extended Data](ext_articles/bc5cd87b.ext.json)
 
 ---

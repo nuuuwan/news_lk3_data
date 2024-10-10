@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 17:23:04**
+As of **2024-10-10 17:40:18**
 
 ## Newspaper Stats
 
-*Scraped **48,802** Articles*
+*Scraped **48,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,989
 dailyftlk | 3,299
 adalk | 4,531
 dailymirrorlk | 4,733
-adaderanalk | 5,761
+adaderanalk | 5,763
 tamilmirrorlk | 6,626
 virakesarilk | 7,806
 adaderanasinhalalk | 8,441
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,802 (100.0%) of 48,802 articles have been extended.
+48,802 (100.0%) of 48,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Patali’s URF withdraws from 2024 General Election campaign
+
+*2024-10-10 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102595/patalis-urf-withdraws-from-2024-general-election-campaign) · `en`
+
+Former Member of Parliament Patali Champika Ranawaka says that the United Republic Front (URF) will not contest the 2024 Parliamentary Election.
+
+He communicated this during a media briefing held today (10).
+
+“We decided to withdraw from this election campaign.We were hoping to contest the election representing Samagi Jana Sandhanaya from 11 districts. During the nomination process, we realized that there has been a violation of the agreement that we cannot justify, so that we decided to withdraw.”
+
+◼️
+
+[Data](articles/363676ef.json)
+
+---
 
 ### Parliamentarian is withdrawn - Patali
 
@@ -117,6 +133,26 @@ People who do not vote for us in the presidential election work with us because 
 [Data](articles/e994ae11.json)
 
 [Extended Data](ext_articles/e994ae11.ext.json)
+
+---
+
+### South Korea’s Han Kang wins 2024 Nobel literature prize
+
+*2024-10-10 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102593/south-koreas-han-kang-wins-2024-nobel-literature-prize) · `en`
+
+South Korean author Han Kang won the 2024 Nobel Prize in Literature for “her intense poetic prose that confronts historical traumas and exposes the fragility of human life,” the award-giving body said on Thursday.
+
+The prize is awarded by the Swedish Academy and is worth 11 million Swedish crowns ($1.1 million).
+
+“She has a unique awareness of the connections between body and soul, the living and the dead, and in her poetic and experimental style has become an innovator in contemporary prose,” Anders Olsson, chairman of the academy’s Nobel Committee, said in a statement.
+
+Han Kang, opens new tab, the first South Korean to win the literature prize, began her career in 1993 with the publication of a number of poems in the magazine Literature and Society, while her prose debut came in 1995 with the short story collection “Love of Yeosu”.
+
+Her major international breakthrough came with the novel “The Vegetarian”.
+
+...
+
+[Data](articles/5a151548.json)
 
 ---
 
@@ -2355,57 +2391,5 @@ The importance of establishing a strong coordination between the Department of I
 [Data](articles/97b92008.json)
 
 [Extended Data](ext_articles/97b92008.ext.json)
-
----
-
-### Rain with heavy winds today
-
-*2024-10-10 07:07:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பலத்த-காற்றுடன்-கூடிய-மழை/175-345194) · `ta`
-
-Heavy rain and strong winds forecasted today. Thunderstorms possible in western regions, with 100mm rainfall predicted. Temporary gusts expected during storms.
-
-🟩
-
-The Department of Meteorology said that in many parts of the country, there is a possibility of rain or thunderstorms in the afternoon or at night.
-
-The department said that heavy rainfall is expected to be 100 millimeters in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-It has also been reported that the thunderstorms may be temporarily blowing in the area during the thunderstorms.. (A)
-
-◼️
-
-[Data](articles/dbb15024.json)
-
-[Extended Data](ext_articles/dbb15024.ext.json)
-
----
-
-### Ready to travel with the government of Anura
-
-*2024-10-10 06:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுர-அரசுடன்-சேர்ந்து-பயணிக்கத்-தயார்/175-345193) · `ta`
-
-Here's a 200-character summary:
-
-
-
-CV Wigneswaran offers Tamil People's Alliance support to Anura Kumara Dissanayake's government if it accepts Tamil self-determination. TNA members defecting due to internal issues. Campaigns focus on positive change without criticizing opponents.
-
-🟩
-
-The Secretary General of the Tamil People's Alliance and former Member of Parliament CV Wigneswaran told a media briefing on Wednesday that if the government headed by the Anurakumara Dissanayake -led government accepts the self -determination of Tamils, we are ready to join the government.
-
-People in the North and East lived historically. We are ready to join the government if they really accept that they have the right to self -determination.
-
-Many of the Tamil National Alliance (TNA) are now leaving the party due to the current events within the party. Many people are severely affected and are in a state of distress. Thus a few have joined different parties.
-
-We will bring about a strong change in the youth, just as the national people are in the world.
-
-We will carry out our campaigns, saying that we are going to do what we are going to do without criticizing other parties in this election. (A)
-
-◼️
-
-[Data](articles/007ec1d9.json)
-
-[Extended Data](ext_articles/007ec1d9.ext.json)
 
 ---

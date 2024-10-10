@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 18:00:33**
+As of **2024-10-10 18:20:14**
 
 ## Newspaper Stats
 
-*Scraped **48,807** Articles*
+*Scraped **48,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 485
 islandlk | 2,884
 economynextcom | 2,989
 dailyftlk | 3,299
-adalk | 4,531
+adalk | 4,532
 dailymirrorlk | 4,733
 adaderanalk | 5,764
 tamilmirrorlk | 6,627
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,442
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,807 (100.0%) of 48,807 articles have been extended.
+48,808 (100.0%) of 48,808 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -225,6 +225,26 @@ Her major international breakthrough came with the novel “The Vegetarian”.
 [Data](articles/5a151548.json)
 
 [Extended Data](ext_articles/5a151548.ext.json)
+
+---
+
+### Patali makes a strong decision
+
+*2024-10-10 16:35:58* · [`adalk`](https://www.ada.lk/breaking_news/පාඨලී-දැඩි-තීරණයක්-ගනියි/11-412424) · `si`
+
+Former MP Phapaya Champika Ranawaka states UDA won't contest next election, citing violation of agreements.
+
+🟩
+
+Former parliamentarian Phapaya Champika Ranawaka said that no one representing the United Republic of the UDA will contest the next general election.
+
+He was speaking at a media briefing held at a media briefing held in Colombo today due to violating the Understanding TNA and the Undahaka Covenant that his party arrived.
+
+◼️
+
+[Data](articles/45e039ec.json)
+
+[Extended Data](ext_articles/45e039ec.ext.json)
 
 ---
 
@@ -2359,37 +2379,5 @@ Meanwhile, the Elections Commission states that nominations have been handed ove
 [Data](articles/74c746b5.json)
 
 [Extended Data](ext_articles/74c746b5.ext.json)
-
----
-
-### Three killed in fatal accidents
-
-*2024-10-10 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202014) · `si`
-
-Fatal accidents claim 3 lives: truck crash kills child, motorcyclist dies in Padukka.
-
-🟩
-
-Three people were killed in several fatal accidents throughout the country.
-
-A lorry that was hit by Kandy to Walapane, near the RDA junction of the Walapane road in the Walapane road, a lorry towards the road.
-
-The three-year-old boy's route collided with a 7 year old boy and a 15-year-old girl.
-
-The boy was killed of the two children who were seriously injured in the accident.
-
-Meanwhile, a motorcycle accident on the slopes of Tumba Padukka Thumphamodara, Padukka, has been in control of a motorcycle motorcycle.
-
-The deceased is 53 years, Delerating Police sergeant attached to the Padukka Police Station.
-
-A motorbike traveled from Avissawella to Colombo in the Padukka area in the Padukka area in Colombo.
-
-The next-day motorcycle motorcycle was taken seriously in hospital injuring he was seriously injured.
-
-◼️
-
-[Data](articles/bdcd9320.json)
-
-[Extended Data](ext_articles/bdcd9320.ext.json)
 
 ---

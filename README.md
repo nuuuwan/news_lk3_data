@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 13:58:43**
+As of **2024-10-10 14:12:27**
 
 ## Newspaper Stats
 
-*Scraped **48,760** Articles*
+*Scraped **48,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,755
 tamilmirrorlk | 6,619
 virakesarilk | 7,796
-adaderanasinhalalk | 8,432
+adaderanasinhalalk | 8,434
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,760 (100.0%) of 48,760 articles have been extended.
+48,762 (100.0%) of 48,762 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,64 @@ The driver of the lorry, Nalusha Sampath Vidhanage, who was involved in the acci
 [Data](articles/ebf574db.json)
 
 [Extended Data](ext_articles/ebf574db.ext.json)
+
+---
+
+### World Bank has a good news of Sri Lanka's economy
+
+*2024-10-10 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202027) · `si`
+
+World Bank predicts Sri Lanka's economy will grow 4.4% in 2024, driven by strong quarterly performance and ongoing reforms. This positive outlook depends on successful debt restructuring and continued structural changes.
+
+🟩
+
+According to the World Bank, the economic growth expected to reach 4.4% in 2024 and that the forecast is overcome.
+
+The World Bank says that this positive outlook has been built on the continuous growth of the four quarterly economy, as well as the continued structural and policy reforms.
+
+The report of the World Bank's half-year-old Sri Lanka's developmental assessment (Sri Lanka Development UPDate), the opening up to The Future is said.
+
+The World Bank shows that the maintenance of the macroeconomic stabilization of the country's vulnerable limit depends on the restructuring of successful debts, increasing medium economic growth and continuous structural reforms.
+
+"Sri Lanka's recent economic stabest has a milestone, the Maldives, Nepal and Sri Lanka in 2023.
+
+◼️
+
+[Data](articles/3d78ac38.json)
+
+[Extended Data](ext_articles/3d78ac38.ext.json)
+
+---
+
+### Prime Minister - Minister Ruwana
+
+*2024-10-10 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202028) · `si`
+
+Department of Posts issues stamps featuring Prime Minister Harini Amarasuriya and Minister Vijitha Herath. Stamps serve as souvenirs, available for public use. Issued for national celebrations and university anniversaries. Social media discussions surround the stamp releases.
+
+🟩
+
+The Department of Posts has issued a statement on issuing stamps with Prime Minister Dr. Harini Amarasuriya and Minister Vijitha Herath.
+
+It states that the Prime Minister Vijitha Herath, Minister Vijitha Herath.
+
+Accordingly, it is just a source of souvenir, the postal department has issued the post.
+
+The announcement also provided that the Prime Minister's or Vijitha Herath was not issued with the image of the Prime Minister or Vijitha Herath.
+
+The announcement states that any person is capable of printing quality stamps using herself.
+
+The Department of Posts will also be provided with the useful stamp monuments at special occasions as a tradition.
+
+The World Day National Celebration was held at Temple Trees yesterday (10), Prime Minister Harini Amarasuriya and Minister of Prime Minister Vijitha Herath participated.
+
+The 140th Anniversary of the University Union was issued by the Prime Minister Harinini Amarasuriya and Minister Vijitha Herath.
+
+...
+
+[Data](articles/476e191b.json)
+
+[Extended Data](ext_articles/476e191b.ext.json)
 
 ---
 
@@ -2315,55 +2373,5 @@ The suspect held in this operation was identified as a resident of Mannar, aged 
 [Data](articles/f7c5fced.json)
 
 [Extended Data](ext_articles/f7c5fced.ext.json)
-
----
-
-### Sri Lanka's response to proposal adopted in Geneva
-
-*2024-10-09 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202006) · `si`
-
-Sri Lanka rejects UN draft proposal extending 51/1 Mechanism, citing sovereignty concerns. Government commits to human rights, accountability, and reconciliation efforts domestically.
-
-🟩
-
-A draft proposal to promote reconciliation, accountability and human rights in Sri Lanka have been adopted at the 57th Session of the UN Human Rights Council of Geneva today.
-
-The statement made by the Sri Lanka Permanent Representative for the United Nations at the 57th session of the UN Human Rights Council in Geneva.
-
-It states that Sri Lanka rejects the draft proposal presented before the Council today to extend the 51/1 Solution's proposal.
-
-Below is the full statement made by the Sri Lanka Permanent Representative at the session,
-
-As the country's newly elected Sri Lankan government, I would like to educate the Council on the latest developments in the country.
-
-After decades of exemplary behavior for decades, President of the President Anura Kumara Dissanayake was sworn in as the new Executive President of Sri Lanka.
-
-...
-
-[Data](articles/66c32dae.json)
-
-[Extended Data](ext_articles/66c32dae.ext.json)
-
----
-
-### Maithri who suddenly came for his son
-
-*2024-10-09 22:04:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகனுக்காக-திடீரென-வந்த-மைத்திரி/175-345190) · `ta`
-
-Former President Maithripala Sirisena unexpectedly visits Homeland People's Party office. He supports his son Taham, newly appointed district organizer. This move fuels speculation about Sirisena's potential election bid.
-
-🟩
-
-Former President Maithripala Sirisena, who has not yet announced his announcement on contesting the upcoming parliamentary elections, has suddenly visited the office of the Homeland People's Party.
-
-He said he had come to the office of the homeland People's Party to give her son full support.
-
-Taham Sirisena, son of former President Maithripala Sirisena, has been appointed as the organizer of the Polonnaruwa District Home People's Party. Remble
-
-◼️
-
-[Data](articles/23485ea7.json)
-
-[Extended Data](ext_articles/23485ea7.ext.json)
 
 ---

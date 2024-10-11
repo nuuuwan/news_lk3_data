@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 15:57:45**
+As of **2024-10-11 16:12:00**
 
 ## Newspaper Stats
 
-*Scraped **48,979** Articles*
+*Scraped **48,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,91 @@ dailyftlk | 3,323
 adalk | 4,551
 dailymirrorlk | 4,733
 adaderanalk | 5,785
-tamilmirrorlk | 6,652
+tamilmirrorlk | 6,653
 virakesarilk | 7,828
-adaderanasinhalalk | 8,469
+adaderanasinhalalk | 8,471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,979 (100.0%) of 48,979 articles have been extended.
+48,982 (100.0%) of 48,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Nobel Peace Prize for survivors from nuclear bomb
+
+*2024-10-11 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202068) · `si`
+
+Nobel Peace Prize 2024 awarded to Japanese nuclear bomb survivors. The Nobel Committee honored them for their efforts to prevent global nuclear proliferation, specifically referencing the devastating effects of Hiroshima and Nagasaki. This recognition aims to promote peace and disarmament worldwide.
+
+🟩
+
+A group survived of nuclear bombs in Japan was awarded the Nobel Peace Prize for 2024.
+
+The Nobel Committee said that the Nobel Peace Prize was awarded this year for the world's nuclear boss for the nuclear bombs of the world, Hiroshima and Nagasaki.
+
+◼️
+
+[Data](articles/15a4d226.json)
+
+[Extended Data](ext_articles/15a4d226.ext.json)
+
+---
+
+### The allowance for pensioners will come from the next week
+
+*2024-10-11 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202067) · `si`
+
+Pensioners to receive Rs. 3,000 allowance starting next week, as per President Anura Kumara Dissanayake's instructions.
+
+🟩
+
+President Anura Kumara Dissanayake has instructed the officials of the Finance Ministry to be given the monthly allowance of Rs. 3,000 from next week.
+
+The President has instructed the officials to credit the money to the accounts of pensioners within Rs. 3,000.
+
+President Anura Kumara Dissanayake and the top officials of the Ministry of Finance yesterday (10), the Presidential Media Unit announced.
+
+The President has already been sent to the pensioners' account to the pensioners in October, and the President has instructed the officials from next week to their accounts to their accounts.
+
+◼️
+
+[Data](articles/cee66a77.json)
+
+[Extended Data](ext_articles/cee66a77.ext.json)
+
+---
+
+### A monthly payment of Rs. 3,000 to pensioners
+
+*2024-10-11 15:32:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வூதியதாரர்களுக்கு-ரூ-3-000-மாதாந்தக்-கொடுப்பனவு/175-345280) · `ta`
+
+Sri Lanka's President Anura Kumara Dissanayake orders Rs. 3000 monthly payment for pensioners. Finance Ministry officials directed to allocate funds. Payment to be made within a week.
+
+🟩
+
+President Anura Kumara Dissanayake has issued a directive to the Finance Ministry officials to pay Rs 3,000 as a monthly interim allowance to all pensioners.
+
+இடைக்கால கொடுப்பனவான 3,000 ரூபாய் ஒக்டோபர் மாத ஓய்வூதியத்துடன் சேர்க்கப்படாமை தொடர்பில் ஆராய்ந்த ஜனாதிபதி, அதே தொகையை அடுத்த வாரத்துக்குள் ஓய்வூதியதாரர்களின் வங்கி கணக்கில் வைப்பிலிடுமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
+
+These instructions were issued during a discussion held at the Presidential Office yesterday afternoon with President Anura Kumara Dissanayake and top officials of the Finance Ministry.
+
+Although the State Administrative Circle, which dated 24/08/2024, has been issued a monthly interim allowance for all pensioners, but no funds have been allocated.
+
+President Anura Kumara Dissanayake, who examined the matter, informed the Finance Ministry officials to provide funds.
+
+Considering the difficulties and demands of pensioners faced by the interim payments of Rs.
+
+...
+
+[Data](articles/c19ff3de.json)
+
+[Extended Data](ext_articles/c19ff3de.ext.json)
+
+---
 
 ### Japanese atomic bomb survivor group Nihon Hidankyo awarded Nobel Peace Prize
 
@@ -2145,69 +2217,5 @@ Designed to enhance the overall customer proposition, these forums focused on en
 [Data](articles/20ef9ed2.json)
 
 [Extended Data](ext_articles/20ef9ed2.ext.json)
-
----
-
-### Pan Asia Bank expands digital banking with new zones in Piliyandala and Kaduwela
-
-*2024-10-11 05:51:00* · [`islandlk`](http://island.lk/pan-asia-bank-expands-digital-banking-with-new-zones-in-piliyandala-and-kaduwela/) · `en`
-
-Pan Asia Bank is excited to announce the opening of two new Digital Zones in Piliyandala and Kaduwela, aimed at enhancing the banking experience for customers in these bustling communities. This expansion is part of the bank’s commitment to providing modern banking solutions and making financial services more accessible to everyone.
-
-The Digital Zones are designed with the latest technology to allow customers to conduct a wide range of banking transactions with ease. With 24/7 ATM access, smart banking kiosks for account management, and customers can expect a smooth and efficient banking experience in both locations.
-
-“Our new Digital Zones in Piliyandala and Kaduwela demonstrate our commitment to bringing banking closer to our customers island-wide. We aim to utilize cutting-edge technology to offer our customers a secure and convenient way to manage their banking requirements,” said Naleen Edirisinghe, Director/CEO of Pan Asia Bank.
-
-...
-
-[Data](articles/45d99c33.json)
-
-[Extended Data](ext_articles/45d99c33.ext.json)
-
----
-
-### Attack on school in Gaza: 28 killed
-
-*2024-10-11 05:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-பாடசாலை-மீது-தாக்குதல்-28-பேர்-பலி/50-345253) · `ta`
-
-Israeli attack on Gaza school kills 28, injures 54
-
-🟩
-
-28 Palestinians have been killed in an Israeli attack on a school in Gaza.
-
-More than 54 people were injured in the attack, foreign media reports.
-
-◼️
-
-[Data](articles/ec30d408.json)
-
-[Extended Data](ext_articles/ec30d408.ext.json)
-
----
-
-### High rainfall in Colombo
-
-*2024-10-11 05:37:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-அதிக-மழைவீழ்ச்சி/175-345252) · `ta`
-
-Heavy rainfall reported in Colombo district over past 12 hours. 141.5mm recorded in Hangwella, 105.5mm in Vagan estate. More than 150mm predicted in some areas.
-
-🟩
-
-The Department of Meteorology said last night that heavy rainfall in the Colombo district has been reported in the last 12 hours.
-
-Accordingly, 141.5 millimeters of rainfall has been recorded in the Hangwella area of ​​the Colombo district.
-
-In addition, rainfall of up to 105.5 millimeters of rain has been recorded in the Vagan estate in the Kalutara district.
-
-The Department of Meteorology said that 100 millimeters of rainfall and 98 millimeters of rainfall in Horana have been reported in the Halvathura estate in the Kalutara district.
-
-Meanwhile, the Department of Meteorology has predicted more than 150 mm of rainfall in some parts of the country.. (A)
-
-◼️
-
-[Data](articles/a7e171ae.json)
-
-[Extended Data](ext_articles/a7e171ae.ext.json)
 
 ---

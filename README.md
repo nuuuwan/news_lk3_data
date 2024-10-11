@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 11:10:49**
+As of **2024-10-11 11:23:14**
 
 ## Newspaper Stats
 
-*Scraped **48,944** Articles*
+*Scraped **48,947** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
-colombotelegraphcom | 486
+colombotelegraphcom | 487
 bbccomsinhala | 487
 islandlk | 2,895
 economynextcom | 3,000
 dailyftlk | 3,323
-adalk | 4,544
+adalk | 4,545
 dailymirrorlk | 4,733
-adaderanalk | 5,778
+adaderanalk | 5,779
 tamilmirrorlk | 6,646
 virakesarilk | 7,828
 adaderanasinhalalk | 8,461
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,944 (100.0%) of 48,944 articles have been extended.
+48,944 (100.0%) of 48,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Flood warnings issued for low-lying areas of Attanagalu Oya Basin
+
+*2024-10-11 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102611/flood-warnings-issued-for-low-lying-areas-of-attanagalu-oya-basin) · `en`
+
+The Irrigation Department has issued flood warnings for several of low-lying areas of Attanagalu Oya and Uruwal Oya river basins, effective until 9.45 a.m. on October 13.
+
+It states that a considerable rainfall has occurred in most of the catchment areas of Attanagalu Oya Basin as of 9.00 a.m. today (11).
+
+By analyzing the current rainfall situation and river water levels of Hydrological Stations in Attanagalu Oya, it is warned that there is a possibility of a flood situation occurring in some of low-lying areas of Attanagalu Oya and Uruwal Oya river basins situated in Diwulapitiya, Mirigama, Attanagalla, Mahara, Gampaha, Minuwangoda, Ja-Ela, Katana and Wattala divisional secretariat (DS) divisions within the next 48 hours.
+
+As a result, there is high possibility of inundating some of the roads running through these low-lying areas at some places, the department warned.
+
+...
+
+[Data](articles/91d0f899.json)
+
+---
 
 ### People ask for information about government vehicles
 
@@ -1470,6 +1488,20 @@ Meanwhile, the Department of Meteorology has predicted more than 150 mm of rainf
 
 ---
 
+### Is Intelligence In The Right Place?
+
+*2024-10-11 05:30:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-intelligence-in-the-right-place/) · `en`
+
+What is to be done with millions of facts that bear witness that men, consciously—that is, fully understanding their real interests—have left them in the background and rushed headlong on another path, to meet peril and danger, compelled to this course by nobody and nothing, but, as it were, simply disliking the beaten track, and have obstinately, willfully, struck out another difficult, absurd way, seeking it almost in the darkness. ― Fyodor Dostoyevsky, Notes from Underground (1864)
+
+Given the recent political changes the country has experienced, the writer senses a need to reproduce this article (which was published previously). At a time when the track record and performance of the country’s intelligence services and law enforcement agencies have been debated in the public sphere, and with the appointment of a new Chief of State Intelligence, the writer feels it is pertinent to re-examine this interesting, albeit somewhat “murky,” subject.
+
+...
+
+[Data](articles/4b347d97.json)
+
+---
+
 ### Vadivel Suresh filed nominations in Badulla
 
 *2024-10-11 04:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195993) · `ta`
@@ -2203,55 +2235,5 @@ Sri Lanka PA's Jaffna Mawatha Organizer Thambichurai Rajeev and Keithnath Kasili
 [Data](articles/c9f5df2f.json)
 
 [Extended Data](ext_articles/c9f5df2f.ext.json)
-
----
-
-### 11,000 acres of Kantale
-
-*2024-10-10 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202038) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka: President allocates 11,000 acres from Kantale Sugar Company for short-term crops.
-
-🟩
-
-President Anura Kumara Dissanayake has instructed to allocate 11,000 acres of land from the land belonging to the Kantale Sugar Company for short term crops.
-
-The Presidential Media Unit said that the President was given the counsel to the relevant ministry officials.
-
-◼️
-
-[Data](articles/95aed471.json)
-
-[Extended Data](ext_articles/95aed471.ext.json)
-
----
-
-### Provide the land of the Kantalai Sr. Factory for short -term cultivation - President
-
-*2024-10-10 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/195983) · `ta`
-
-President Anura Kumara Dissanayake directs allocation of 11,000 acres from Kandalai Srinipa Factory for short-term cultivation. Establishes mechanism for regular land distribution under five acres. Discusses future plans with agriculture ministry officials.
-
-🟩
-
-President Anura Kumara Dissanayake on Thursday (10) issued a directive to the authorities to provide 11,000 acres of land belonging to the Kandalai Srinipa Factory for short -term cultivation.
-
-The President also advised to prepare a regular mechanism for the land and less than five acres.
-
-The President gave these instructions when he met officials of the Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources at the Presidential Office this afternoon.
-
-As the Minister in charge of the matter, the President asked the activities and improvements of the relevant ministries and discussed the future plans.
-
-MPNM, Secretary to the Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources. Wickremesinghe, Director General of the Land Commission Hemasiri Liyanage and senior officials of the relevant ministries were present at the meeting.
-
-◼️
-
-[Data](articles/a0138e98.json)
-
-[Extended Data](ext_articles/a0138e98.ext.json)
 
 ---

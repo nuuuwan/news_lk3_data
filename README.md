@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 18:00:02**
+As of **2024-10-11 18:20:06**
 
 ## Newspaper Stats
 
-*Scraped **49,001** Articles*
+*Scraped **49,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,789
 tamilmirrorlk | 6,654
 virakesarilk | 7,836
-adaderanasinhalalk | 8,474
+adaderanasinhalalk | 8,475
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,001 (100.0%) of 49,001 articles have been extended.
+49,002 (100.0%) of 49,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### මැතිවරණ දිස්ත්‍රික්ක 22කට කණ්ඩායම් 690ක් තරගයට
+
+*2024-10-11 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202072) · `si`
+
+Sri Lanka: 690 teams contesting 22 districts for 2024 general election. Lowest number of candidates in Monaragala and Polonnaruwa districts. 74 nominations rejected. Highest competition in Digamadulla electorate.
+
+🟩
+
+2024 මහ මැතිවරණය සඳහා මැතිවරණ දිස්ත්‍රික්ක 22 සඳහා කණ්ඩායම 690ක් තරග කිරීමට නියමිත බව මැතිවරණ කොමිසම පවසයි.
+
+Addressing the media, Elections Commissioner General Saman Sri Ratnayake said that 74 nominations have been rejected.
+
+Mr. Ratnayake said that if there is an injustice, the teams could go to court.
+
+The highest number of political groups compete for Digamadulla Electorate. It is 64.
+
+අවම කණ්ඩායම් ගණනක් තරග කරනු ලබන්නේ මොනරාගල සහ පොළොන්නරුව මැතිවරණ දිස්ත්‍රික්ක සඳහා වන අතර ඒ සඳහා කණ්ඩායම් 15 බැගින් තරග කරයි.
+
+Delivery of nominations for the 2124 general election was completed today (11).
+
+◼️
+
+[Data](articles/a15a099a.json)
+
+[Extended Data](ext_articles/a15a099a.ext.json)
+
+---
 
 ### Jupiter's nomination rejection
 
@@ -1043,6 +1071,8 @@ ECONOMYNEXT –Sri Lanka’s lower-income households spend 10 percent of their i
 Speaking at an event on Tuesday October IPS Research Economist Priyanka Jayawardena noted, however, that tax evasion remains a problem.
 
 While PIT revenue for 2023 was estimated at 131 billion rupees, only 48 billion appears to have been collected in 2023, a statement from the IPS quoted her as saying.
+
+Jayawardena pointed out that VAT revisions – from 15 percent to 18 percent – along with removing exemptions have hit the poorest hardest, with the bottom 10 percent of households paying around 10 percent of their income in VAT compared to 6 percent for wealthier households.
 
 ...
 
@@ -2319,31 +2349,5 @@ Admiral Koehler pledged the US commitment to supporting Sri Lanka in combating t
 [Data](articles/ff321684.json)
 
 [Extended Data](ext_articles/ff321684.ext.json)
-
----
-
-### Special revelations on government vehicles
-
-*2024-10-11 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202047) · `si`
-
-Here's a 200-character summary:
-
-
-
-Former Auditor General Gamini Wijesinghe criticizes government vehicle policies. He suggests implementing a vehicle transfer program within five years instead of current practices. Over 4,000 government officials misuse vehicles, according to Derana Rebuild Sri Lanka.
-
-🟩
-
-Former Auditor General Gamini Wijesinghe says that there are many issues regarding the official vehicles that use government officials.
-
-He points out that instead of transfer of vehicles in five years, a program should be prepared.
-
-Derana Rebuild Sri Lanka The program was revealed that over four thousand persons belonging to the government is inappropriate.
-
-◼️
-
-[Data](articles/a7835551.json)
-
-[Extended Data](ext_articles/a7835551.ext.json)
 
 ---

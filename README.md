@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 17:23:03**
+As of **2024-10-11 17:40:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,473
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,998 (100.0%) of 48,999 articles have been extended.
+48,999 (100.0%) of 48,999 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -852,19 +852,25 @@ Damita Abeyratne had announced yesterday (10) that she will contest the General 
 
 ---
 
-### முன்னாள் பிரதி அமைச்சர் டபிள்யூ.பி. ஏக்கநாயக்க காலமானார்
+### Former Deputy Minister WP. Ekanayake has passed away
 
 *2024-10-11 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196017) · `ta`
 
-அநுராதபுரம் மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினரும் பிரதி அமைச்சருமான டபிள்யூ.பி. ஏக்கநாயக்க தனது 76வது வயதில் காலமானார்.
+Former Deputy Minister WP. Ekanayake passes away at 76. Body found in bathroom. Died of heart attack while living alone.
 
-நேற்று வியாழக்கிழமை (10) ஏக்கநாயக்க  அவரது  வீட்டின் குளியலறையில் சடலமாக மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-முதற்கட்ட விசாரணையில், அவர் வீட்டில் தனியாக வசித்து வந்ததாகவும், மாரடைப்பு ஏற்பட்டு உயிரிழந்துள்ளதாகவும் தெரியவந்துள்ளது.
+Former Parliamentarian and Deputy Minister of Anuradhapura District. Ekanayake passed away at the age of 76.
+
+The body was recovered in the bathroom of his house yesterday (10), police said.
+
+Preliminary inquiries revealed that he was living alone in the house and died of a heart attack.
 
 ◼️
 
 [Data](articles/ea4e7236.json)
+
+[Extended Data](ext_articles/ea4e7236.ext.json)
 
 ---
 

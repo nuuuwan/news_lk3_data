@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 14:24:27**
+As of **2024-10-11 14:39:11**
 
 ## Newspaper Stats
 
-*Scraped **48,967** Articles*
+*Scraped **48,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 3,006
 dailyftlk | 3,323
 adalk | 4,549
 dailymirrorlk | 4,733
-adaderanalk | 5,782
+adaderanalk | 5,783
 tamilmirrorlk | 6,650
 virakesarilk | 7,828
-adaderanasinhalalk | 8,464
+adaderanasinhalalk | 8,466
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,967 (100.0%) of 48,967 articles have been extended.
+48,967 (100.0%) of 48,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### දමිතා අධිකරණයේ පිහිට පතන්න යයි
+
+*2024-10-11 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202063) · `si`
+
+තමාගේ නම රත්නපුර නාමයෝජනා ලැයිස්තුවෙන් ඉවත් කිරීම හේතුවෙන් තමාගේ මූලික මිනිස් අයිතිවාසිකම් කඩවී ඇතැයි රංගන ශිල්පිනී දමිතා අබේරත්න මහත්මිය පවසයි.
+
+අද (11) රත්නපුර දිස්ත්‍රික් ලේකම් කාර්යාලය අසලදී මාධ්‍ය අමතමින් ඇය පැවසුවේ මැතිවරණයට තරගකිරීම සඳහා තමන්ව යෝජනා කළ පුද්ගලයාම තමාට එරෙහිව කටයුතු කර ඇති බවයි.
+
+"හේෂා විතානගේ සහෝදරයා මගෙන් ඉල්ලීමක් කළා දමිතා අක්කේ ඇයි ඔයා රත්නපුරයෙන් ඉල්ලන්නේ නැත්තේ. මම කොහෙන්හරි ඉල්ලනවද කියලවත් හිතලා තිබුණේ නැහැ. මට කිව්වා... නෑ අක්කේ මං ඔයාව මෙහෙන් දාන්නම්, මෙහෙ කාන්තා නියෝජනයක් නැහැ කියලා. මං කිව්වා මල්ලි යෝජනා කරනවනම් මම එන්නම් කියලා. ඒ විදියට තමයි මගේ නම ආවේ. ඒක නෑ කියනවනන් මගේ ලග සාක්ෂි තියෙනවා. ඊයේ මට ආරංචියක් ආව මගේ නම නෑ කියලා. මගේ නම වෙනස් කරා කියලා. මං මේ සාක්ෂි ඇතුව කථා කරන්නේ. මේ සාක්ෂි සියල්ල මාධ්‍ය ඉදිරියේ පෙන්වන්න ලෑස්තියි.
+
+මං දන්නෑ හේෂා මේ වගේ පහත් තැනකට වැටුණේ ඇයි කියලා. මාව යෝජනා කරපු කෙනාම මාගේ කකුලෙන් අදින්න පටන්ගත්තා.  අධිකරණ ක්‍රියාමාර්ගයකට මම යනවා. මගේ මූලික අයිතිවාසිකම් කඩවීමක් පැහැදිලිවම සිදුවෙලා තියෙනවා".
+
+...
+
+[Data](articles/c8eb29b5.json)
+
+---
+
+### Major reshuffle in Sri Lanka Police: New DIG in charge of CID
+
+*2024-10-11 14:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102616/major-reshuffle-in-sri-lanka-police-new-dig-in-charge-of-cid) · `en`
+
+The Deputy Inspector General of Police (DIG) in charge of the Criminal Investigations Department (CID), DIG Rohan Premaratne has been transferred to serve as the DIG of Western Province (North).
+
+Meanwhile, DIG P. Ampavila has been transferred to the CID Range to serve as its new DIG.
+
+◼️
+
+[Data](articles/e77fce03.json)
+
+---
+
+### පොලීසියේ ලොකු පුටුවල වෙනස්කම් කිහිපයක්
+
+*2024-10-11 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202062) · `si`
+
+නියෝජ්‍ය පොලිස්පති එම්.ඒ.ඒ.ආර්. ප්‍රේමරත්න මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු දිසාවේ සිට බස්නාහිර පළාත (උතුරු දිසාව) භාර නියෝජ්‍ය පොලිස්පති තනතුරේ රාජකාරි ඉටුකිරීම සඳහා ස්ථාන මාරුකර තිබේ.
+
+නියෝජ්‍ය පොලිස්පති පී. අම්පාවිල මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දිසාව භාර නියෝජ්‍ය පොලිස්පති තනතුරේ රාජකාරි ඉටු කිරීම සඳහා ස්ථාන මාරුකර ඇත.
+
+ඒ මහතා ඊට පෙර පොලිස් මූලස්ථානයට අනුයුක්තව මුදල් විශුද්ධිකරණ හා සම්බන්ධ විමර්ශන කටයුතු සිදු කිරීම සඳහා මුල්‍ය බුද්ධි ඒකකය 02 සහ පිරමීඩ ආකාරයේ තහනම් යෝජනා ක්‍රම සහ අතත්‍ය මුදල් පිළිබඳව විමර්ශනය කිරීම පිණිස මහ බැංකුවේ ස්ථාපිත කර ඇති විශේෂ විමර්ශන ඒකකයන්හි රාජකාරි අධීක්ෂණ තනතුරේ කටයුතු කළේය.
+
+ඊට අමතරව පහත සඳහන් නියෝජ්‍ය පොලිස්පතිවරුන් සහ කාන්තා නියෝජ්‍ය පොලිස්පතිවරියක ස්ථාන මාරු කිරීමද මැතිවරණ කොමිෂන් සභාවේ අනුමැතියට යටත්ව ජාතික පොලිස් කොමිෂන් සභාව අනුමැතිය ලබාදී ඇත.
+
+නියෝජ්‍ය පොලිස්පති ඩී.පී. චන්ද්‍රසිරි මහතා ගාල්ල දිසාව භාර නියෝජ්‍ය පොලිස්පති තනතුරේ සිට ප්‍රවර්ථන දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස ස්ථාන මාරුකර තිබේ.
+
+...
+
+[Data](articles/0f91f75f.json)
+
+---
 
 ### Tamitha's name is not on the list of Ratnapura
 
@@ -2157,91 +2209,5 @@ On the 5th of this month, a person calling the plaintiff's mobile on the 5th of 
 [Data](articles/2c456531.json)
 
 [Extended Data](ext_articles/2c456531.ext.json)
-
----
-
-### West Indies won by 8 wickets, but the semi -final chance is not sure
-
-*2024-10-10 23:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195987) · `ta`
-
-West Indies won by 8 wickets against Bangladesh. They scored 104/2 in 12.5 overs. Captain Hailie Methous and Stephanie Taylor shared 52 runs. Bangladesh scored 103/8 in 20 overs. Karishma Ramharak took 4/17. Semi-final chances uncertain.
-
-🟩
-
-The West Indies won the West Indies to win 43 balls in the Sharjah Cricket Stadium on Thursday night (10).
-
-The 4 wickets pile recorded by Karishma Ramharak and Haley Methouses have made the West Indies success easily.
-
-With this victory, the West Indies are in the first place in the team's teams, but its semi -final chance is still not sure.
-
-The West Indies lost only 2 wickets in 12.5 overs, scoring 104 runs in response to a good winning target of 104 runs for Bangladesh.
-
-Team captain Hailie Methous and Stephanie Taylor shared 52 runs off 45 balls.
-
-On the other hand, Stephanie Taylor, who was in trouble with the muscles, retired by the tribulation while scoring 27 runs.
-
-Diendra Dott's 19 runs and Sinell Henry did not lose the game.
-
-Both Varna Akhtar and Nahida Akhtar took one wicket each.
-
-Earlier, Bangladesh were bowled out for 103 runs for the loss of 8 wickets in 20 overs.
-
-Bangladesh lost 2 wickets in the 13th over and scored 73 runs.
-
-Tilara Akhtar scored 19 runs and Sohana Mostari 16 runs.
-
-...
-
-[Data](articles/74ac81e5.json)
-
-[Extended Data](ext_articles/74ac81e5.ext.json)
-
----
-
-### Sri Lanka’s former ministers withdraw from upcoming elections
-
-*2024-10-10 22:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-former-ministers-withdraw-from-upcoming-elections-183156/) · `en`
-
-ECONOMYNEXT – Several prominent Sri Lankan politicians who previously held senior ministerial positions have announced they will not be contesting in the upcoming parliamentary elections, citing limited political opportunities.
-
-Among those stepping down are former Transport Minister Bandula Gunawardena, former Justice Minister Wijeyadasa Rajapakshe, former Speaker of the Parliament Mahinda Yapa Abeywardena, former State Finance Minister Shehan Semasinghe, former Chief Opposition Whip Lakshman Kiriella, National Freedom Alliance leader Wimal Weerawansa, former Megapolis Minister Champika Ranawaka, and former Transport Minister Gamini Lokuge.
-
-This decision comes after the National People’s Power (NPP), led by the Janatha Vimukthi Peramuna (JVP), secured victory in the recent presidential election, with Anura Kumara Dissanayake winning the presidency.
-
-Political analysts say NPP candidates are likely to succeed in the November 14 general elections against a fragmented opposition.
-
-...
-
-[Data](articles/58df5d40.json)
-
-[Extended Data](ext_articles/58df5d40.ext.json)
-
----
-
-### Brooke, root double century;Dominated with England achievements in Test match with Pakistan
-
-*2024-10-10 22:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195986) · `ta`
-
-England dominates Pakistan in Test match, Harry Brook scores 317, Joe Root 262. England breaks 66-year record, highest Test score in Pakistan. Joe Root surpasses 13,000 Test runs. England wins match, Pakistan struggles in second innings.
-
-🟩
-
-With the help of Herry Brooke and Joe Root in the first Test cricket match at Multan Cricket Stadium, Pakistan has been pushed to the brink of defeat.
-
-Pakistan are on the brink of losing 152 runs for the loss of 6 wickets in its second innings, at the end of today's match, in the fourth day of the Test match, which won a considerable number of total number in the first innings.
-
-Pakistan has to score a further 115 runs to remain only 4 wickets to recover from the inning defeat.
-
-In its first innings, Pakistan scored 556 runs with the help of Abdullah Shafiq (102), team captain Shaun Masood (151) and Salman Aga (104) in its first innings.
-
-On the fourth day of the England match in the first innings, Harry Brook's concentration, with the help of the double centuries of Joe Root, felt the grip of the game.
-
-The Yorkshire regional team was the result of 454 runs in the 4th wicket and England stopped their first innings with 7 wickets and scored 823 runs.
-
-...
-
-[Data](articles/8f6493e2.json)
-
-[Extended Data](ext_articles/8f6493e2.ext.json)
 
 ---

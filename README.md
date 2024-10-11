@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 10:39:14**
+As of **2024-10-11 10:57:41**
 
 ## Newspaper Stats
 
-*Scraped **48,938** Articles*
+*Scraped **48,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,116 @@ bbccomsinhala | 487
 islandlk | 2,895
 economynextcom | 3,000
 dailyftlk | 3,323
-adalk | 4,543
+adalk | 4,544
 dailymirrorlk | 4,733
-adaderanalk | 5,777
-tamilmirrorlk | 6,644
+adaderanalk | 5,778
+tamilmirrorlk | 6,646
 virakesarilk | 7,828
-adaderanasinhalalk | 8,459
+adaderanasinhalalk | 8,460
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,938 (100.0%) of 48,938 articles have been extended.
+48,943 (100.0%) of 48,943 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Flood risk
+
+*2024-10-11 10:31:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-வெள்ள-அபாயம்/175-345270) · `ta`
+
+Heavy rainfall causes water levels to rise in Attanagalu Oya. Flood warning issued for several districts including Divulapitiya, Mirigama, and Gampaha.
+
+🟩
+
+The water level of Attanagalu Oya has risen due to heavy rains across the country.
+
+Due to this, the Department of Irrigation has issued a flood warning to Divulapitiya, Mirigama, Attanagalla, Mahara, Gampaha, Minuwangoda, Ja-Ala, Katana and Wattala areas. Remble
+
+◼️
+
+[Data](articles/79f20a43.json)
+
+[Extended Data](ext_articles/79f20a43.ext.json)
+
+---
+
+### Flood at several places in Gampaha
+
+*2024-10-11 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202055) · `si`
+
+Gampaha floods: Heavy rain causes overflow in Attanagalu Oya, affecting areas like Minuwangoda, Ja-Ela, Katana, Wattala. Water levels expected to rise in next 48 hours.
+
+🟩
+
+The Department of Irrigation has informed that the current rainfall of the Attanagalu Vandini has received significant rainfall over the past few hours.
+
+According to the announcement, the water levels maintained in the Attanagalu Oya basin have been analyzed that the water level is analyzed to the next 48 hours.
+
+Accordingly, the Department of Irrigation is informed that there is a flood in the Attanagalu Oya, Minuwangoda, Ja-Ela, Minuwangoda, Katana and Wattala Divisional Secretariats belonging to Divulapitiya, Mirigama, Attanagalla, Gampaha, Minuwangoda.
+
+◼️
+
+[Data](articles/6bd9ef6f.json)
+
+[Extended Data](ext_articles/6bd9ef6f.ext.json)
+
+---
+
+### Women abused by girls who went to a massage station
+
+*2024-10-11 10:26:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்-நிலையம்-சென்ற-சிறுமி-பெண்களால்-துஷ்பிரயோகம்/175-345269) · `ta`
+
+Two women arrested for alleged abuse of 15-year-old girl at unlicensed massage station in Kurunegala. Police investigating illegal massage operations. Case pending against officer for failing to regulate.
+
+🟩
+
+Kurunegala headquarters police have arrested two women for allegedly sexually abusing a 15 -year -old girl at a massage station in Kurunegala.
+
+The girls have been arrested following a complaint lodged by the parents of the student who was abused.
+
+The girl, who is studying in a mixed school in Kurunegala, has taken the girl to the massage station on the afternoon of the 9th.
+
+Police said the massage was not properly operated and that such massage companies were operating to provide sexual activities.
+
+There are more than 60 massage companies registered under the Company Act, not registered with the Ayurvedic Medical Council in Kurunegala.
+
+In addition, the case is pending in court against the Chief Inspector of Kurunegala Headquarters Tamma Sannak Koppe for taking steps to check such massage stations.. Remble
+
+◼️
+
+[Data](articles/01441ca4.json)
+
+[Extended Data](ext_articles/01441ca4.ext.json)
+
+---
+
+### 18 injured after two buses collide on Colombo-Kandy road
+
+*2024-10-11 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102610/18-injured-after-two-buses-collide-on-colombo-kandy-road) · `en`
+
+Two buses have reportedly collided along the Colombo – Kandy main road this morning (11) resulting in injuries to at least 18 passengers.
+
+Accordingly, the accident had reportedly taken place at around 8.15 a.m. today in the Walakadayawa area in Uthuwankanda along the Colombo–Kandy road today.
+
+Both buses involved in the accident belong to the Sri Lanka Transport Board (SLTB).
+
+Kegalle Police stated that around 18 people were admitted to the Kegalle and Mawanella hospitals due to sustaining injuries from the accident.
+
+The incident occurred when a bus travelling from Panadura to Kandy crashed into the rear of another bus that was heading from Kegalle to Mawanella.
+
+Police suspect that the accident was caused by a technical fault with the bus arriving from Panadura which led to the driver losing control of the vehicle.
+
+◼️
+
+[Data](articles/7f65e2c8.json)
+
+[Extended Data](ext_articles/7f65e2c8.ext.json)
+
+---
 
 ### PM requests Thai govt’s support to rescue Sri Lankans in cybercrime camps in Myanmar
 
@@ -192,7 +286,7 @@ The Department of Meteorology has issued a ‘Red’ alert for the sea areas off
 
 The advisory, issued at 07.00 a.m. this morning (11), will be effective for the next 24 hours until 07.00 a.m. on Saturday (12).
 
-The sea areas off the coasts extending from Puttalam to Hambantota via Colombo and Galle will be very rough at times with very strong gusty winds up to 60-70 kmph, it added.
+The sea areas off the coast extending from Puttalam to Hambantota via Colombo and Galle will be very rough at times with very strong gusty winds up to 60-70 kmph, it added.
 
 Meanwhile, the wave heights may increase about 2.5–3.0 m in the sea areas off the coast extending Colombo to Hambantota via Galle and Matara, according to the Met. Department.
 
@@ -623,6 +717,32 @@ The Department of Meteorology has also warned that rainfall with temporary stron
 [Data](articles/9f63a58a.json)
 
 [Extended Data](ext_articles/9f63a58a.ext.json)
+
+---
+
+### Farmers for short term crop cultivation of 11,000 acres of land belonging to Kantale Sugar Company
+
+*2024-10-11 07:38:36* · [`adalk`](https://www.ada.lk/breaking_news/කන්තලේ-සීනි-සමාගමට-අයත්-ඉඩම්--අක්කර-11-000ක්-කෙටිකාලීන-බෝග--වගාවන්--සඳහා-ගොවීන්ට/11-412437) · `si`
+
+President Anura Kumara Dissanayake instructs allocation of 5 acres from Kantale Sugar Company land for short-term farming. Meeting discusses ministry functions, livestock, irrigation, fisheries, and aquatic resources.
+
+🟩
+
+President Anura Kumara Dissanayake instructed the officials to provide 11,000 acres of land cultivations from the Land of Kantale Sugar Company.
+
+Accordingly, five acres are to be provided with lands and the President also instructed the formulation of a systematic procedure.
+
+President Anura Kumara Dissanayake was instructed when met officials, land, livestoros, irrigation, fisheries, fisheries and aquatic resources at the Presidential Secretariat yesterday.
+
+The President also discussed the functioning and progress of the respective ministries as the Minister of Subject.
+
+Secretary, Ministry of Livestock, Irrigation, Fisheries and Aquatic Resources MPs. Senior officials of the Ministries, Director General of Land Commission, Hemasiri Liyanage were present.
+
+◼️
+
+[Data](articles/1e4302ac.json)
+
+[Extended Data](ext_articles/1e4302ac.ext.json)
 
 ---
 
@@ -2123,127 +2243,5 @@ President Anura Kumara Dissanayake has advised relevant Ministry officials to al
 [Data](articles/8ca6e935.json)
 
 [Extended Data](ext_articles/8ca6e935.ext.json)
-
----
-
-### Sri Lanka fails to Myanmar due to the mistakes of the players and the negligence of the goalkeeper
-
-*2024-10-10 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195981) · `ta`
-
-Sri Lanka loses 0-2 to Myanmar in football tournament. Mistakes by players Jude Suban and Salana Sameera, goalkeeper Sujan Perera's negligence key factors. Slow gameplay, poor ball exchanges hindered team's chances.
-
-🟩
-
-Sri Lanka lost to Myanmar by 0 - 2 at the Sunnar International Football Tournament held at the Myanmar, Yangon Stadium on Thursday afternoon.
-
-Sri Lanka failed due to the mistakes of the players Jude Suban and Salana Sameera and the negligence of goalkeeper Sujan Perera.
-
-A month ago, Sri Lankan players who played with the best understanding and technique in Sri Lanka and later Cambodia were not exposed to the Yangoon match.
-
-In the 16th minute of the match, the Myanmar player was moving to the right of Payng - No.9, when he was unable to stop him by Pinnala player Jude Suban.
-
-On that occasion, goalkeeper Sujan Perera moved forward and tried to stop the ball.
-
-At the same time, he is the Bayng ball to Elvin Mo Ang (Lwin Moe Aung - No. 7) moved. Immediately, Elvin Mo Aung, who was in the 18th phase, put the ball into the ground and put it in the presence of Myanmar.
-
-...
-
-[Data](articles/2848a3b5.json)
-
-[Extended Data](ext_articles/2848a3b5.ext.json)
-
----
-
-### Peak
-
-*2024-10-10 19:08:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறைக்கு-அதி-உச்ச-பாதுகாப்பு/175-345237) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Kalutara District police prepare for election day: 1000 officers on duty, 350 in riot unit, roadblocks to disperse protests. Security measures at police division level.
-
-🟩
-
-Deputy Inspector General of Police Laksiri Wijesena, who is in charge of the Kalutara District, said that about 1000 police officers across the Kalutara district will be on duty for special protection tomorrow (11), the last day of the nomination for the parliamentary elections to be held on November 14.
-
-Accordingly, the Kalutara District Secretariat has taken steps to construct police roads and establish the riot unit, with a group of about 350 police officers.
-
-He added that there will be roadblocks throughout the day to dissolve the protest groups and security arrangements will be made at the level of the respective police divisions.. Remble
-
-◼️
-
-[Data](articles/b072d8f2.json)
-
-[Extended Data](ext_articles/b072d8f2.ext.json)
-
----
-
-### 1412 Army promotions
-
-*2024-10-10 18:58:08* · [`adalk`](https://www.ada.lk/breaking_news/යුද-හමුදාවේ-1412කට-උසස්වීම්/11-412435) · `si`
-
-1412 Army promotions: 13 officers, 1273 corporals, 131 captains, 8 lieutenants, 99 staff sergeants, 111 lance corporals.
-
-🟩
-
-Thirteen Army officers and 1,273 were officially promoted to 1,273 corporations in parallel to the 75th anniversary of the Army.
-
-The recommendation of the President of the Ministry of Defense and the Commander of the Army Commander President Anura Kumara Dissanayake has been able to promote 1,412 permanent and voluntary arrangements.
-
-Accordingly, 131 officers and equipment governing officers were promoted to Captain Officers and eight officers of the second Lieutenant officials.
-
-Also, 99 senior officials of the staff II of the Staff Service, a senior official II of the staff of the staff, the official, officer of the staff, and the official officials of the staff sergeant was officially unzacked officials of the staff of the Sergeant, the official sector II of the Permanent and Voluntary Corporation.The company has promoted 111 non-commissioners officials from the official officials of the Lance Corporal.
-
-◼️
-
-[Data](articles/b070e338.json)
-
-[Extended Data](ext_articles/b070e338.ext.json)
-
----
-
-### US gifts advanced aircraft to bolster Sri Lanka’s maritime security
-
-*2024-10-10 18:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102598/us-gifts-advanced-aircraft-to-bolster-sri-lankas-maritime-security) · `en`
-
-At a ceremony held today at Sri Lanka Air Force Base in Katunayake, U.S. Navy Admiral Steve Koehler, commander of the U.S. Pacific Fleet, officially handed over a Beechcraft King Air 360ER aircraft, gifted by the United States, to the Sri Lanka Air Force (SLAF).
-
-The event, attended by U.S. Ambassador Julie Chung, Secretary to the Ministry of Defense Air Vice Marshal Sampath Thuyacontha (Retd), and Commander of the Sri Lanka Air Force Air Marshal Udeni Rajapaksa, marked the handover of this advanced aircraft—a symbol of the enduring U.S.-Sri Lanka partnership and a crucial step in strengthening Sri Lanka’s maritime security and sovereignty, the US Embassy in Colombo said in a statement.
-
-Equipped with cutting-edge surveillance technology, the King Air will strengthen Sri Lanka’s ability to patrol its waters, counter maritime threats, and secure vital trade routes in the Indian Ocean, the statement added.
-
-...
-
-[Data](articles/ef9438c2.json)
-
-[Extended Data](ext_articles/ef9438c2.ext.json)
-
----
-
-### Nominations take over at 12 noon
-
-*2024-10-10 18:53:38* · [`adalk`](https://www.ada.lk/breaking_news/නාම-යෝජනා-භාර-ගැනීම-අද-දහවල්-12ට-අවසන්/11-412434) · `si`
-
-Elections Commission deadline: Nominations due by 12 noon. Political parties and independents must submit lists. National List compliance required. Representation aims for gender balance and proportional distribution.
-
-🟩
-
-The Elections Commission states that nominations pertaining to the parliamentary election will be completed today (11).
-
-Concurrently, each political party and a group of independent group should be handed over to the Elections Commission before 12 noon.
-
-The National List of National List should be handed over to the Elections Commission as well as in terms of the anti-corruption Act No. 9 of the Policy Liability of the National List.
-
-The Elections Commission states that the names of the Names referred to as the Names or parliamentary election in the parliamentary election.
-
-It is also said that the representation of national lists should be taken as possible to ensure that it is in accordance with the ratio of the national folk figures and requires adequate women's representation.
-
-◼️
-
-[Data](articles/318d5fef.json)
-
-[Extended Data](ext_articles/318d5fef.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 15:39:04**
+As of **2024-10-11 15:57:45**
 
 ## Newspaper Stats
 
-*Scraped **48,977** Articles*
+*Scraped **48,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 487
 islandlk | 2,895
 economynextcom | 3,006
 dailyftlk | 3,323
-adalk | 4,549
+adalk | 4,551
 dailymirrorlk | 4,733
 adaderanalk | 5,785
 tamilmirrorlk | 6,652
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,977 (100.0%) of 48,977 articles have been extended.
+48,979 (100.0%) of 48,979 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -318,6 +318,24 @@ The Department of Indus demand is also requested to take necessary steps to take
 
 ---
 
+### Sajabin Damitha's name on Ratnapura
+
+*2024-10-11 13:16:57* · [`adalk`](https://www.ada.lk/breaking_news/සජබෙන්-රත්නපුරට-දමිතාගේ-නම-නෑ/11-412443) · `si`
+
+Sajabin Damitha: Ratnapura district election candidate. Damitha Abeyratne, a senior official, will not run in Ratnapura. Reconciliation not part of nominations submitted.
+
+🟩
+
+Damitha Abeyratne, a veteran ranking force to contest the coming general election, is not contesting to the Ratnapura District, the reconciliation is not included in the nominations handed over to Ratnapura.
+
+◼️
+
+[Data](articles/bb4d19a4.json)
+
+[Extended Data](ext_articles/bb4d19a4.ext.json)
+
+---
+
 ### Another group of probe not to elected to the general election
 
 *2024-10-11 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202060) · `si`
@@ -381,6 +399,28 @@ Damita Abeyratne had announced yesterday (10) that she will contest the General 
 [Data](articles/c5121790.json)
 
 [Extended Data](ext_articles/c5121790.ext.json)
+
+---
+
+### Ek is not available for election
+
+*2024-10-11 12:33:42* · [`adalk`](https://www.ada.lk/breaking_news/කනකත්-මැතිවරණයට-නෑ/11-412442) · `si`
+
+Former State Minister Kanaka Herath announces he won't run in this year's election. He cites need for change, plans to focus on career and family. Will continue supporting his district politically.
+
+🟩
+
+A former State Minister as well as former Kegalle District MP Kanaka Herath, a former Minister of Kegalle, has issued a statement that this year is not contesting this year's general election.
+
+"මේ අවස්ථාවේදී රටේ ජනතාවට වෙනසක් අවශ්‍ය විය. Therefore, I intend to use the shorterness of the change and to complete my engineering profession and complete the Dr. Degree of the University of Moratuwa and to spend with the family.
+
+And I am still standing for the people of my district. I will take a jointly with the political ideology I believe. "
+
+◼️
+
+[Data](articles/6d163342.json)
+
+[Extended Data](ext_articles/6d163342.ext.json)
 
 ---
 
@@ -2169,43 +2209,5 @@ Meanwhile, the Department of Meteorology has predicted more than 150 mm of rainf
 [Data](articles/a7e171ae.json)
 
 [Extended Data](ext_articles/a7e171ae.ext.json)
-
----
-
-### Is Intelligence In The Right Place?
-
-*2024-10-11 05:30:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-intelligence-in-the-right-place/) · `en`
-
-What is to be done with millions of facts that bear witness that men, consciously—that is, fully understanding their real interests—have left them in the background and rushed headlong on another path, to meet peril and danger, compelled to this course by nobody and nothing, but, as it were, simply disliking the beaten track, and have obstinately, willfully, struck out another difficult, absurd way, seeking it almost in the darkness. ― Fyodor Dostoyevsky, Notes from Underground (1864)
-
-Given the recent political changes the country has experienced, the writer senses a need to reproduce this article (which was published previously). At a time when the track record and performance of the country’s intelligence services and law enforcement agencies have been debated in the public sphere, and with the appointment of a new Chief of State Intelligence, the writer feels it is pertinent to re-examine this interesting, albeit somewhat “murky,” subject.
-
-...
-
-[Data](articles/4b347d97.json)
-
-[Extended Data](ext_articles/4b347d97.ext.json)
-
----
-
-### Vadivel Suresh filed nominations in Badulla
-
-*2024-10-11 04:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195993) · `ta`
-
-Vadivel Suresh filed nomination in Badulla. New party "United Democratic Voice" launched by Ranjan Ramanayake. Party's microphone logo approved by Election Commission.
-
-🟩
-
-Former parliamentarian Vadivel Suresh filed his nomination papers at the Badulla District Secretariat on Thursday morning.
-
-The United Democratic Voice of the United Democratic Voice was launched as a new party headed by Ranjan Ramanayake at the TajSamudra Hotel in Colombo on Thursday (10).
-
-Former parliamentarian Vadivel Suresh made comments to the media after the filing of the nomination papers this morning as the party's microphone logo was approved by the Election Commission.
-
-◼️
-
-[Data](articles/90ae6264.json)
-
-[Extended Data](ext_articles/90ae6264.ext.json)
 
 ---

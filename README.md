@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 08:01:13**
+As of **2024-10-11 08:22:04**
 
 ## Newspaper Stats
 
-*Scraped **48,885** Articles*
+*Scraped **48,900** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 486
 bbccomsinhala | 486
-islandlk | 2,894
+islandlk | 2,895
 economynextcom | 3,000
-dailyftlk | 3,311
+dailyftlk | 3,317
 adalk | 4,541
 dailymirrorlk | 4,733
-adaderanalk | 5,770
-tamilmirrorlk | 6,632
+adaderanalk | 5,772
+tamilmirrorlk | 6,638
 virakesarilk | 7,818
 adaderanasinhalalk | 8,451
 
@@ -26,11 +26,229 @@ adaderanasinhalalk | 8,451
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,874 (100.0%) of 48,885 articles have been extended.
+48,885 (100.0%) of 48,900 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### The nomination process is completed today
+
+*2024-10-11 07:52:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பு-மனு-கையேற்பு-இன்றுடன்-நிறைவு/175-345258) · `ta`
+
+Nomination process finished today. Parties and independent groups signed yesterday. Postal voting application deadline was last night at midnight.
+
+🟩
+
+Authorized political parties and independent groups were involved in the signing of nominations yesterday.
+
+Meanwhile, action to accept applications for postal voting of the general election ended yesterday at 12 midnight. (A)
+
+◼️
+
+[Data](articles/5c063eb1.json)
+
+[Extended Data](ext_articles/5c063eb1.ext.json)
+
+---
+
+### Saudi Arabian Ambassador meets President
+
+*2024-10-11 07:45:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவூதி-அரேபிய-தூதுவர்-ஜனாதிபதியுடன்-சந்திப்பு/175-345257) · `ta`
+
+Saudi Arabia's King Salman congratulates Sri Lanka's President on his victory. Ambassador discusses regional situation, bilateral cooperation, and increasing tea exports.
+
+🟩
+
+Saudi Arabian Ambassador to Sri Lanka Khalid Hamood Nasar Altasam Al -Qahdani met President Anurakumara Dissanayake at the Presidential Office yesterday.
+
+Saudi Arabia's king Salman bin Abdul Aziz has congratulated the President of the President Al Qahdani, to the president's victory in the presidential election. The current situation of the region was discussed on the prevailing friendship and cooperation between Saudi Arabia and Sri Lanka.
+
+Ambassador Alkadani congratulated Sri Lanka's long -term support and continuous cooperation between the two countries.
+
+The President and Ambassador were focused on increasing Sri Lankan tea exports to Saudi Arabia and strengthening economic ties between the two countries.. (A)
+
+◼️
+
+[Data](articles/b5417b10.json)
+
+[Extended Data](ext_articles/b5417b10.ext.json)
+
+---
+
+### Welipenna Interchange of Expressway temporarily closed
+
+*2024-10-11 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102604/welipenna-interchange-of-expressway-temporarily-closed) · `en`
+
+The Welipenna Interchange of the Southern Expressway has been temporarily closed due to a minor flood, the Road Development Authority (RDA) said.
+
+◼️
+
+[Data](articles/f60af15d.json)
+
+[Extended Data](ext_articles/f60af15d.ext.json)
+
+---
+
+### The first rain will increase from today
+
+*2024-10-11 07:40:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-மழை-அதிகரிக்கும்/175-345256) · `ta`
+
+Rainfall warning: Increased precipitation expected nationwide, especially in Western, Sabaragamuwa, Galle, and Matara areas. Strong winds and lightning possible.
+
+🟩
+
+The Department of Meteorology has said that the atmospheric situation around the country is on the rise, and the current rainfall weather will continue and the situation may increase slightly from today.
+
+It has also been mentioned in the upper, Sabaragamuwa, south and northwestern provinces.
+
+In addition, 200mm of rainfall has been reported in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
+
+The Department of Meteorology has also warned that rainfall with temporary strong winds and lightning is likely.
+
+◼️
+
+[Data](articles/9f63a58a.json)
+
+[Extended Data](ext_articles/9f63a58a.ext.json)
+
+---
+
+### Very heavy rainfall of over 200 mm expected - Met Dept.
+
+*2024-10-11 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102603/very-heavy-rainfall-of-over-200-mm-expected-met-dept) · `en`
+
+The Meteorology Department says the prevailing showery conditions are expected to continue further due to the development of an atmospheric disturbance in the vicinity of Sri Lanka.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and Northwestern provinces, it said issuing a warning for heavy rainfall.
+
+Very heavy showers of above 200 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/8cca9244.json)
+
+[Extended Data](ext_articles/8cca9244.ext.json)
+
+---
+
+### Vietnamese Ambassador and President Dissanayake discuss measures to boost ties
+
+*2024-10-11 07:31:07* · [`dailyftlk`](https://www.ft.lk/news/Vietnamese-Ambassador-and-President-Dissanayake-discuss-measures-to-boost-ties/56-767846) · `en`
+
+Vietnam Ambassador Trinh Thi Tam on Wednesday paid a courtesy call on President Anura Kumara Dissanayake.
+
+During the meeting, Ambassador Tam conveyed her congratulations on behalf of the Government of Vietnam and expressed optimism for continued cooperation between the two nations.
+
+The Vietnamese Ambassador also extended the greetings of the Vietnamese Head of State, congratulating President Dissanayake on his recent election victory. Highlighting Vietnam’s achievements in foreign direct investment (FDI) and trade, President Dissanayake requested Vietnam’s assistance in fostering these sectors in Sri Lanka.
+
+The discussion also explored the possibility of enhancing direct flights between Vietnam and Sri Lanka, with a focus on strengthening Buddhist ties and cultural connections. Ambassador Tam further pledged to explore opportunities to promote Sri Lanka as a key destination for Vietnamese tourists, thereby expanding people-to-people connections and boosting tourism.
+
+...
+
+[Data](articles/ea85a5f8.json)
+
+[Extended Data](ext_articles/ea85a5f8.ext.json)
+
+---
+
+### Thai Ambassador pledges to boost trade, tourism with President Dissanayake
+
+*2024-10-11 07:30:19* · [`dailyftlk`](https://www.ft.lk/news/Thai-Ambassador-pledges-to-boost-trade-tourism-with-President-Dissanayake/56-767845) · `en`
+
+Thailand Ambassador Paitoon Mahapannaporn on Wednesday paid a courtesy call on President Anura Kumara Dissanayake.
+
+During the meeting, the Thai Ambassador extended congratulations on the President’s recent election victory and conveyed the best wishes of the Government of Thailand.
+
+Mahapannaporn also delivered a special message from the King of Thailand, Maha Vajiralongkorn, congratulating President Dissanayake and expressing goodwill towards his administration.
+
+In the discussion, the Ambassador noted the high expectations that the people of Sri Lanka have for the newly elected Government and offered Thailand’s support in helping to meet these aspirations. He highlighted the benefits of the recently signed Free Trade Agreement (FTA) between the two nations, emphasising the mutual economic gains and offering to boost Thai investments in Sri Lanka, particularly in the processing and export of local fruits and produce.
+
+...
+
+[Data](articles/d3d59d87.json)
+
+[Extended Data](ext_articles/d3d59d87.ext.json)
+
+---
+
+### Bangladesh envoy discusses boosting economic ties with President Dissanayake
+
+*2024-10-11 07:29:25* · [`dailyftlk`](https://www.ft.lk/news/Bangladesh-envoy-discusses-boosting-economic-ties-with-President-Dissanayake/56-767844) · `en`
+
+Bangladesh High Commissioner Andalib Elias yesterday paid a courtesy call on President Anura Kumara Dissanayake and discussed measures to boost economic ties.
+
+During the meeting, High Commissioner Elias extended his congratulations to President Dissanayake on his recent election victory and conveyed the best wishes of Bangladesh’s Interim Government Head Muhammad Yunus.
+
+The two leaders discussed the current situation in both countries. Sri Lankan investments in Bangladesh and the significant Sri Lankan workforce employed there was also discussed, underscoring the strong economic ties between the two nations.
+
+Both countries pledged to strengthen the Preferential Trade Agreement (PTA) between Sri Lanka and Bangladesh, aiming to bolster trade and economic relations. The meeting highlighted the continued commitment of both countries to fostering closer bilateral ties and expanding cooperation across various sectors.
+
+◼️
+
+[Data](articles/029a12dc.json)
+
+[Extended Data](ext_articles/029a12dc.ext.json)
+
+---
+
+### Saudi Arabian Ambassador calls on President Dissanayake
+
+*2024-10-11 07:28:40* · [`dailyftlk`](https://www.ft.lk/news/Saudi-Arabian-Ambassador-calls-on-President-Dissanayake/56-767843) · `en`
+
+Talks focus on strengthening economic ties, with particular attention to enhancing tea exports to Saudi Arabia
+
+Saudi Arabia Ambassador Khalid Hamoud Nasser Aldasam Alkahtani yesterday called on President Anura Kumara Dissanayake.
+
+Ambassador Alkahtani conveyed the best wishes of Saudi Arabia’s King Salman bin Abdulaziz to President Dissanayake on his recent election victory.
+
+The discussion covered various topics, including the current regional situation and Sri Lanka’s support to Saudi Arabia. Ambassador Alkahtani praised Sri Lanka’s longstanding assistance and the continued cooperation between the two nations. The leaders also focused on strengthening economic ties, with particular attention to enhancing Sri Lanka’s tea exports to Saudi Arabia.
+
+...
+
+[Data](articles/94cafe6a.json)
+
+[Extended Data](ext_articles/94cafe6a.ext.json)
+
+---
+
+### UAE’s Foreign Affairs Ministry hosts study tour for 35-member Sri Lankan defence delegation
+
+*2024-10-11 07:27:21* · [`dailyftlk`](https://www.ft.lk/news/UAE-s-Foreign-Affairs-Ministry-hosts-study-tour-for-35-member-Sri-Lankan-defence-delegation/56-767842) · `en`
+
+Underscoring the robust diplomatic ties between Sri Lanka and the United Arab Emirates (UAE), the UAE Ministry of Foreign Affairs and the Ministry of Defence recently hosted a study tour for a 35-member delegation from Sri Lanka’s Defence Service Command and Staff College (DSCSC).
+
+The delegation engaged in an extensive tour, gaining key insights into the UAE’s approaches to military cooperation, military education, and cooperation in security.
+
+Organised in collaboration with the UAE’s Foreign Affairs Ministry and Defence Ministry, together with the Sri Lankan Embassy in the UAE, the initiative provided the delegation with a unique opportunity to visit key sites such as the Emirates Centre for Strategic Studies and Research, the Joint Command & Staff College, the International Centre of Excellence for Countering Extremism and Violent Extremism, and Tawazun Industrial Park.
+
+...
+
+[Data](articles/223dcbc7.json)
+
+[Extended Data](ext_articles/223dcbc7.ext.json)
+
+---
+
+### Turkiye Ambassador and President Dissanayake discuss boosting bilateral ties
+
+*2024-10-11 07:26:02* · [`dailyftlk`](https://www.ft.lk/news/Turkiye-Ambassador-and-President-Dissanayake-discuss-boosting-bilateral-ties/56-767841) · `en`
+
+Turkiye Ambassador Semith Lutfu Turgut yesterday paid a courtesy call on President Anura Kumara Dissanayake.
+
+During the meeting, Ambassador Turgut extended heartfelt congratulations on behalf of Turkish President Recep Tayyip Erdoğan and the people of Turkiye on President Dissanayake’s recent election victory.
+
+In a message of support from President Erdoğan, it stated: “On behalf of myself and my nation, I extend my congratulations to Your Excellency on the occasion of your election as the President of Sri Lanka and wish you success in your high office. It is my sincere hope that the work to be carried out under your leadership will be instrumental in strengthening the peace and prosperity of all segments of the Sri Lankan people.”
+
+...
+
+[Data](articles/25db44b2.json)
+
+[Extended Data](ext_articles/25db44b2.ext.json)
+
+---
 
 ### Patali’s URF steps back from 2024 election amid dispute with SJB
 
@@ -162,6 +380,22 @@ The SLCBC delegation provided a comprehensive overview of their objectives, focu
 
 ---
 
+### பாகிஸ்தான் உயர்ஸ்தானிகர் - ஜனாதிபதி சந்திப்பு
+
+*2024-10-11 06:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாகிஸ்தான்-உயர்ஸ்தானிகர்-ஜனாதிபதி-சந்திப்பு/175-345255) · `ta`
+
+இலங்கைக்கான பாகிஸ்தான் உயர்ஸ்தானிகர் மேஜர் ஜெனரல் (ஓய்வு) பஹீம் உல் அஸீஸ் ஹி நேற்று ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவை சந்தித்தார்.
+
+கடந்த ஜனாதிபதித் தேர்தலில் வெற்றியீட்டிய ஜனாதிபதிக்கு தனது மனமார்ந்த வாழ்த்துக்களைத் தெரிவித்த பாகிஸ்தான் உயர்ஸ்தானிகர், இலங்கையுடனான உறவுகளை வலுப்படுத்துவதற்கு பாகிஸ்தானின் அர்ப்பணிப்பையும் வலியுறுத்தினார்.
+
+இலங்கைக்கும் பாகிஸ்தானுக்கும் இடையிலான நீண்டகால உறவை நினைவுகூர்ந்த பாகிஸ்தான் உயர்ஸ்தானிகர், பாகிஸ்தான் ஜனாதிபதி அஸீப் அலி சர்தாரியின் விசேட வாழ்த்துச் செய்தியையும் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவிடம் கையளித்தார். (a)
+
+◼️
+
+[Data](articles/1526bc67.json)
+
+---
+
 ### Today is 150 mm of big rain
 
 *2024-10-11 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202046) · `si`
@@ -241,6 +475,24 @@ Given the recent political changes the country has experienced, the writer sense
 [Data](articles/9ab668bc.json)
 
 [Extended Data](ext_articles/9ab668bc.ext.json)
+
+---
+
+### தனிமையில் வாழ்ந்த மூதாட்டி சடலமாக மீட்பு
+
+*2024-10-11 06:12:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிமையில்-வாழ்ந்த-மூதாட்டி-சடலமாக-மீட்பு/175-345254) · `ta`
+
+வீட்டில் தனிமையில் வசித்து வந்த மூதாட்டி ஒருவர் தீயில் எரிந்த நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்.
+
+மாந்தோப்பு, கரணவாய் தெற்கைச்  சேர்ந்த குணாராஜலிங்கம் ஞானேஸ்வரி (வயது70) என்ற மூதாட்டியே சடலமாக மீட்கப்பட்டவராவார்.
+
+அவர் உறவினர்கள் ஒருவரின் வீட்டுக்குச் சென்று விட்டு நேற்று முன்தினம் தனது வீட்டுக்குச் சென்றிருந்தார். இந்நிலையில், நேற்று வியாழக் கிழமை முற்பகல் அவர் தீயில் எரிந்த நிலையில் சடலமாகக் காணப்பட்டார்.
+
+சடலத்தை பருத்தித்துறை ஆதார வைத்தியசாலையில் பிரேத பரிசோதனை மேற்கொண்டு அறிக்கை சமர்ப்பிக்குமாறு நெல்லியடிப்  பொலிஸாருக்குத்  திடீர் மரண விசாரணை அதிகாரி  உத்தரவிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/f876b1aa.json)
 
 ---
 
@@ -343,6 +595,20 @@ The Digital Zones are designed with the latest technology to allow customers to 
 ...
 
 [Data](articles/45d99c33.json)
+
+---
+
+### காசாவில் பாடசாலை மீது தாக்குதல்: 28 பேர் பலி
+
+*2024-10-11 05:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-பாடசாலை-மீது-தாக்குதல்-28-பேர்-பலி/50-345253) · `ta`
+
+காசாவில் உள்ள பாடசாலை ஒன்றின் மீது இஸ்ரேல் நடத்திய தாக்குதலில் 28 பாலஸ்தீனியர்கள் கொல்லப்பட்டுள்ளனர்.
+
+மேலும் அந்தத் தாக்குதலில் 54 இற்கும் அதிகமானோர் காயமடைந்துள்ளனர் என வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/ec30d408.json)
 
 ---
 
@@ -1915,357 +2181,5 @@ Investigations have revealed that the railway line has been sleeping through the
 [Data](articles/c9b50d38.json)
 
 [Extended Data](ext_articles/c9b50d38.ext.json)
-
----
-
-### Increase in the number of patients with breast cancer in Batticaloa district - Director of Regional Health Services
-
-*2024-10-10 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/195946) · `ta`
-
-Breast cancer cases rising in Batticaloa. Director urges self-checks from age 20. Awareness rally promotes early detection.
-
-🟩
-
-The number of patients who are currently suffering from breast cancer is increasing in the Batticaloa district. The Director of Regional Health Services, Batticaloa District, R. Muraliswaran said that women should undergo self -chest testing for the first time.
-
-Awareness procession on breast cancer was held on Thursday (10) at Kaluwanchikudi, Batticaloa.He said this while addressing the gathering.
-
-In all offices where every health officer is every health ambassador, people should raise awareness on breast cancer.
-
-Moreover, the officers need to raise awareness in families, which can raise awareness in the community.
-
-The number of patients who are currently suffering from breast cancer is increasing in the Batticaloa district. We should not only provide awareness of this, but for the first time women need to carry out self -chest tests. Especially women should be carried out from the age of 20, and then from the age of 35. Public health will provide advice for that.
-
-...
-
-[Data](articles/4a5c7dc0.json)
-
-[Extended Data](ext_articles/4a5c7dc0.ext.json)
-
----
-
-### Sri Lanka trade and banking groups team up to strengthen private sector financing
-
-*2024-10-10 15:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-and-banking-groups-team-up-to-strengthen-private-sector-financing-183080/) · `en`
-
-ECONOMYENXT – The Ceylon Chamber of Commerce and the Sri Lanka Banks’ Association (SLBA) have signed a memorandum of understanding to promote sustainable finance and financial inclusion for the private sector.
-
-“A key outcome aimed for through the MoU is to enable greater access for financing for Sri Lanka’s private sector, especially the export-oriented value chains and SME sector, to enable their sustainability transitions,” the chamber said in a statement.
-
-Through this partnership the two organisations aim to engage in building both demand-side and supply-side capacity and connectivity on sustainable finance.
-
-“With global trade, finance and investment regimes increasingly emphasising sustainability, Sri Lanka’s private sector and industry must rapidly transition and build capacity to remain competitive in international markets.”
-
-...
-
-[Data](articles/feb070c0.json)
-
-[Extended Data](ext_articles/feb070c0.ext.json)
-
----
-
-### Former State Minister Shehan Semasinghe does not go to the general election
-
-*2024-10-10 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202031) · `si`
-
-Shehan Semasinghe announces he won't run in upcoming Sri Lanka parliamentary election, citing economic challenges and public misunderstanding of achievements.
-
-🟩
-
-Former Finance State Minister Shehan Semasinghe has announced that he will not contest for the forward parliamentary election.
-
-The announcement stated that the country was economically influenced by the country in the past year and that Ranil Wickremesinghe has been able to work with the former President to build the country's economy.
-
-He said that when the country and the economy would be stabilized, he believed that he believed that the people would be able to understand it.
-
-However, he stated that he believed that the masses have had no proper understanding of their victories and achievements as a country.
-
-As a result, the letter had decided not to offer himself to the coming parliamentary election, and he decided not to offer himself for the coming parliamentary election as the government had been disappointed by the government.
-
-ශෙහාන් සේමසිංහ මහතා 2020 මහ මැතිවරණයේදී අනුරාධපුර දිස්ත්‍රික්කය නියෝජනය කරමින් ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් පාර්ලිමේන්තුවට පත් වූ මන්ත්‍රීවරයෙකි.
-
-...
-
-[Data](articles/5d48e54b.json)
-
-[Extended Data](ext_articles/5d48e54b.ext.json)
-
----
-
-### Former minister's account freeze
-
-*2024-10-10 14:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சரின்-கணக்கு-முடக்கம்/175-345225) · `ta`
-
-Colombo High Court freezes former State Minister Anuba Paskwal's bank accounts for 3 months due to bribery investigation.
-
-🟩
-
-The Colombo High Court has ordered the two bank accounts belonging to former State Minister Anuba Paskwal for three months.
-
-The Colombo High Court judge has issued the order on the request of the Commission to Investigate Bribery or Corruption.
-
-Accordingly, two bank accounts of the former Minister of State have been frozen for three months.
-
-As part of the investigation by the Commission, the Commission has received the Commission under Section 53 (1) of the Corruption Act No. 09, 2023.
-
-◼️
-
-[Data](articles/02701e9b.json)
-
-[Extended Data](ext_articles/02701e9b.ext.json)
-
----
-
-### Consequent assistribs against Pakistan who made the hearts of Sri Lankans
-
-*2024-10-10 14:54:45* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලාංකිකයන්ගෙත්-හදවත්-සලිත-කළ-පාකිස්තානයට-එරෙහි-එංගලන්තයේ-ප්‍රති-ප්‍රහාරය/9-412422) · `si`
-
-Sri Lanka vs Pakistan: England wins 3rd Test match. Harry Brook scores 317, Joe Root 262. Pakistan batsmen struggle, scoring only 556 runs. England leads by 267 runs.
-
-🟩
-
-The contest for the fourth day of the third Test match between the Tourism England and the Pakistan team will be held in Pakistan's electoral.
-
-England won 823 runs for the loss of 07 wickets in their first innings.
-
-Harry Break recovered 317 runs and the Joor Root scored 262.
-
-The highest scorers in the history of Test cricket Sri Lanka has crashes 952 runs in the three wickets.
-
-However, the fourth highest scorer of Test cricket scored as England reported as the fourth scoreboard scored by a group of 823 runs.
-
-Pakistan scored 556 runs in their first innings to bat first.
-
-Accordingly, they are now on the first innings of England.
-
-◼️
-
-[Data](articles/89d96033.json)
-
-[Extended Data](ext_articles/89d96033.ext.json)
-
----
-
-### Postal Department clarifies issuance of stamps featuring PM and Minister
-
-*2024-10-10 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102588/postal-department-clarifies-issuance-of-stamps-featuring-pm-and-minister) · `en`
-
-The Department of Posts has issued a clarification regarding the recent release of stamps featuring Prime Minister Dr. Harini Amarasuriya and Minister Vijitha Herath.
-
-The Postal Department clarified that the stamps bearing the images of the Prime Minister and Minister Herath are exclusively commemorative gifts and were not part of the official stamp releases for this year’s World Postal Day. The department further explained that no stamps featuring the two dignitaries were issued in connection with the global event.
-
-The statement also emphasized that the Postal Department offers the public the opportunity to create personalized stamps with their preferred images, a service traditionally provided as souvenirs for special occasions.
-
-...
-
-[Data](articles/25f5acfa.json)
-
-[Extended Data](ext_articles/25f5acfa.ext.json)
-
----
-
-### Public leading nominations in Vanni
-
-*2024-10-10 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195940) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Former President Mahinda Rajapaksa's leadership contests parliamentary elections in Vanni district. The Public Front filed nominations at Vavuniya District Secretariat."
-
-🟩
-
-The Public Front filed a nomination for parliamentary elections in the Vanni district on Thursday (10).
-
-Former President Mahinda Rajapaksa's leadership is contesting the upcoming parliamentary elections in the upcoming parliamentary election in the Vanni -election district.
-
-In this case, the election was filed at the Vavuniya District Secretariat today afternoon.
-
-◼️
-
-[Data](articles/50f6993d.json)
-
-[Extended Data](ext_articles/50f6993d.ext.json)
-
----
-
-### Will she come?Young man waiting with papa
-
-*2024-10-10 14:44:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவள்-வருவளா-பாப்பாவுடன்-காத்திருக்கும்-இளைஞன்/175-345222) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Woman leaves toddler, takes man's phone; man waits for her return. Police investigate after receiving emergency call about abandoned child. Woman's phone inactive since incident. Man works at Alawa factory, lives in Vadapitivala.
-
-🟩
-
-A young woman with a three -year -old child, who went to the young man's room, stayed with the young man for three days, leaving the baby and a young man's mobile phone.
-
-A young man who rented a room in Nitambuwa area has come to Colombo for personal needs. By then, a woman had met in the Grandpass area. Both exchanged cell phone digits. Both have been in love for a few days.
-
-In this case, Nitambuwa went to the room of the youth in Vatupitivala area with his child on the 8th of last month..  இரண்டு நாட்கள் அவ்விளைஞனுடன் தங்கியிருந்துள்ளார். Two days later, she left the baby near the young man and took the young man's phone and became ill.
-
-The young man, who was waiting for the woman to come to take the baby, was in the room without going to work.
-
-Meanwhile, in a room, a child and young man are alone in the police emergency call unit, according to the telephone number 119, the police are conducting investigations to the young man's room.. Only then did the matter exposed.
-
-...
-
-[Data](articles/c7268d0b.json)
-
-[Extended Data](ext_articles/c7268d0b.ext.json)
-
----
-
-### Eros Democratic Front filed nominations in Nuwara Eliya
-
-*2024-10-10 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/195938) · `ta`
-
-Eros Democratic Front filed nominations in Nuwara Eliya for parliamentary election. Party contests in four districts. Candidates include Secretary R. Zevan Rajendran and Attorney Subramaniam Kandiban. Focuses on youth, education, and plantation community representation.
-
-🟩
-
-The Eros Democratic Front filed a nomination papers to contest the upcoming parliamentary general election in the Nuwara Eliya district on Wednesday evening.
-
-Eros Democratic Front Secretary R. Zevan Rajendran and Attorney -at -Law Subramaniam Kandiban, who are contesting as a candidate in the Nuwara Eliya district this time, filed a nomination papers.
-
-He said that the Eros Democratic Front political party in Nuwara Eliya has filed nominations for the first time in the parliamentary election.
-
-At the same time, the Eros Democratic Front will contest in four districts of Sri Lanka this year's parliamentary elections and that he will contest the loudspeaker symbol in the election.
-
-He also said that we have been given the election in the Nuwara Eliya district and said that this time, we have been given the opportunity to compete for young people and party senior members who are educated from the big plantation community, teachers and social activists.
-
-◼️
-
-[Data](articles/ed86ec0d.json)
-
-[Extended Data](ext_articles/ed86ec0d.ext.json)
-
----
-
-### Four boats with Indian fishermen
-
-*2024-10-10 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202030) · `si`
-
-Navy seizes 4 Indian fishing boats in North Sea; 21 fishermen arrested; vessels taken to Kankesanthurai port for legal proceedings.
-
-🟩
-
-The Navy has taken steps to take four Indian fishing vessels in the North Sea.
-
-The Department of Navy and the Coast Guard were conducting further investigations.
-
-Accordingly, 21 fishermen were arrested in connection with the four boats.
-
-The four Indian fishing vessels and the Indian fishermen were taken to the port of the Kankesanthurai for future legal action.
-
-◼️
-
-[Data](articles/ebceff63.json)
-
-[Extended Data](ext_articles/ebceff63.ext.json)
-
----
-
-### Aruchuna paid the paid
-
-*2024-10-10 14:23:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுப்-பணம்-செலுத்தினார்-அருச்சுனா/175-345219) · `ta`
-
-Here's a summary of "Aruchuna paid the paid" in 200 characters:
-
-
-
-Aruchuna, likely a person's name, made a payment to another party referred to as "paid." This phrase seems incomplete and lacks context about the nature of the payment, the amount, or the purpose behind it. Without additional information, it's difficult to determine the full meaning or significance of this statement.
-
-🟩
-
-◼️
-
-[Data](articles/4b533ea2.json)
-
-[Extended Data](ext_articles/4b533ea2.ext.json)
-
----
-
-### “Sri Lanka's economy will reach 4.4 % growth”
-
-*2024-10-10 14:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-பொருளாதாரம்-4-4-வளர்ச்சியை-எட்டும்/175-345218) · `ta`
-
-Sri Lanka's economy projected to grow 4.4% by 2024, surpassing previous forecasts. Recovery remains weak, dependent on economic stability, debt restructuring, and poverty reduction efforts.
-
-🟩
-
-The World Bank (WB) said on Thursday (10) that Sri Lanka's economy is expected to grow by 4.4 per cent by 2024, which will surpass previous forecasts.
-
-Sri Lanka's two -year update, titled 'Opening for the Future' of the World Bank, has warned that the recovery is weak, and that the continued structure depends on the construction of economic stability, successful reconstruction of debt and increasing the middle -term growth and reducing poverty.
-
-The World Bank's representatives made this statement while participating in a media briefing held in Colombo on Thursday (10).
-
-◼️
-
-[Data](articles/ff4ae53a.json)
-
-[Extended Data](ext_articles/ff4ae53a.ext.json)
-
----
-
-### Special traffic plan for Narahenpita
-
-*2024-10-10 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202029) · `si`
-
-Narahenpita special traffic plan: Road closures, one-way routes, limited entrances.
-
-🟩
-
-The police said that a special traffic plan is being implemented in the District Secretariat, Narahenpita to hand over the nomination nominations.
-
-Tomorrow will be held tomorrow (09) at the District Secretariat in Narahenpita.
-
-Accordingly, the Baseline road from the Narahenpita junction to Park Road Junction to Park Road junction will be closed from Narahenpita (Park Road Junction).A special traffic plan is being implemented so that they can travel on both ways.
-
-Referring to Narahenpita towards Narahenpita on the Mahawatta Junction towards the Thimbirigasyaya road and Dabaruwa.
-
-- Restriction of traffic inserts from the Thimbirigasyaya Road Kirula Kirula Road Junction.
-
-- Limited vehicle entrance from High Level Road Junction to High Level Road Junction and directing vehicles from High level Thummulla and Kirulaponds.
-
-- Restrict inserts from the Baseline Road Junction to Baseline Road Junction to the Baseline Road towards Thummulla and Nugegoda.
-
-...
-
-[Data](articles/d530e865.json)
-
-[Extended Data](ext_articles/d530e865.ext.json)
-
----
-
-### Boy killed in fire
-
-*2024-10-10 13:38:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விறகு-லொறி-மோதியதில்-சிறுவன்-பலி-சிறுமிக்கு-காயம்/76-345216) · `ta`
-
-Boy killed in fire: 8-year-old student dies after lorry crash near school. Driver arrested; investigation ongoing.
-
-🟩
-
-Valappanai police said that the vehicle accident occurred at 6 pm at the "Vishnu Mother" Primary School in the Valappanai-Kandi main road.
-
-A lorry that was traveling from Kandy to the Walappanam, a lorry, crashed into two otos, and two school children traveled on the same road collided.
-
-An 8 -year -old boy who was injured in the accident dies when he was taken to Walapane Hospital.  14 வயதுடைய  சிறுமி,நுவரெலியா மாவட்ட வைத்தியசாலையில் அதி தீவிர சிகிச்சை பிரிவில் அனுமதிக்கப்பட்டுள்ளார்.இவர்கள் ஒரே குடும்பத்தைச் சேர்ந்த இரண்டு பிள்ளைகள் என  பொலிஸார் தெரிவித்தனர்.
-
-Nirmala Nayanakantha, a boy who is studying in Grade 1 at Pussadeva College, Valappanai, has died.
-
-At the same time, the police said that the investigation has been revealed from a leader in front of the Pradeshiya Sabha in front of the Pradeshiya Sabha.
-
-The driver of the lorry, Nalusha Sampath Vidhanage, who was involved in the accident, has been arrested by the police and said that further investigations are being carried out.
-
-◼️
-
-[Data](articles/ebf574db.json)
-
-[Extended Data](ext_articles/ebf574db.ext.json)
 
 ---

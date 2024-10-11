@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 07:26:07**
+As of **2024-10-11 08:01:13**
 
 ## Newspaper Stats
 
-*Scraped **48,881** Articles*
+*Scraped **48,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 486
 bbccomsinhala | 486
 islandlk | 2,894
 economynextcom | 3,000
-dailyftlk | 3,307
+dailyftlk | 3,311
 adalk | 4,541
 dailymirrorlk | 4,733
 adaderanalk | 5,770
@@ -26,11 +26,89 @@ adaderanasinhalalk | 8,451
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,869 (100.0%) of 48,881 articles have been extended.
+48,874 (100.0%) of 48,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Patali’s URF steps back from 2024 election amid dispute with SJB
+
+*2024-10-11 07:11:51* · [`dailyftlk`](https://www.ft.lk/news/Patali-s-URF-steps-back-from-2024-election-amid-dispute-with-SJB/56-767828) · `en`
+
+Says URF’s decision follows a unilateral breach of the MoU by the SJB
+
+Makes it clear URF will not contest the election alone, in alliance with the SJB, or with any other party
+
+Claims dispute centres around violation of the MoU concerning district candidates and not national list slots
+
+Former Member of Parliament Patali Champika Ranawaka announced yesterday that his party, the United Republic Front (URF), will not contest the 2024 Parliamentary Election. Ranawaka shared this decision during a press briefing held at the URF headquarters citing a breach of agreement with the Samagi Jana Balawegaya (SJB) as the reason for withdrawal.
+
+According to Ranawaka, the URF entered into a Memorandum of Understanding (MoU) with the SJB in August 2023, with the expectation that URF candidates would be fielded in 11 districts in the upcoming general election. However, he claimed that the SJB had unilaterally violated the MoU, prompting his party to withdraw from the election process altogether.
+
+...
+
+[Data](articles/884f4319.json)
+
+[Extended Data](ext_articles/884f4319.ext.json)
+
+---
+
+### NFF will not contest in upcoming poll to safeguard national interests – Wimal Weerawansa
+
+*2024-10-11 07:10:40* · [`dailyftlk`](https://www.ft.lk/news/NFF-will-not-contest-in-upcoming-poll-to-safeguard-national-interests-Wimal-Weerawansa/56-767827) · `en`
+
+Claims some opposition forces are serving an imperial agenda aimed at sabotaging President Anura Kumara Dissanayake
+
+Says NFF is committed to safeguarding the mandate that brought President Dissanayake to power and fulfilling expectations of the people
+
+Stresses decision not to participate in upcoming poll was made after consultations with all levels of the NFF
+
+National Freedom Front (NFF), led by former MP Wimal Weerawansa, has recently announced that it will not contest the upcoming General Elections, either independently or as part of an alliance. In a statement issued yesterday, Weerawansa emphasised that the decision is rooted in the party’s commitment to safeguarding the country from political instability and crisis.
+
+...
+
+[Data](articles/8e52c35c.json)
+
+[Extended Data](ext_articles/8e52c35c.ext.json)
+
+---
+
+### Acting CJ takes oath
+
+*2024-10-11 07:09:30* · [`dailyftlk`](https://www.ft.lk/news/Acting-CJ-takes-oath/56-767826) · `en`
+
+Supreme Court Judge Murdu Nirupa Bidushinie Fernando yesterday took the oath of office as Acting Chief Justice before President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/eaa74170.json)
+
+[Extended Data](ext_articles/eaa74170.ext.json)
+
+---
+
+### US Pacific Fleet Commander meets President Dissanayake
+
+*2024-10-11 07:08:38* · [`dailyftlk`](https://www.ft.lk/news/US-Pacific-Fleet-Commander-meets-President-Dissanayake/56-767825) · `en`
+
+Admiral Steve Koehler, a four-star US Navy Admiral and Commander of the US Pacific Fleet, paid a courtesy call on President Anura Kumara Dissanayake yesterday.
+
+This visit marks the highest-level US military engagement with Sri Lanka since 2021.
+
+During the meeting, Admiral Koehler reaffirmed the strong partnership between the United States and Sri Lanka, emphasising a shared commitment to promoting an enduring, resilient, free, and open Indo-Pacific region.
+
+Discussions focused on addressing rising security challenges in the Indian Ocean, enhancing maritime domain awareness, and improving disaster response capabilities.
+
+Admiral Koehler pledged the US commitment to supporting Sri Lanka in combating transnational threats such as drug smuggling and terrorism. He praised Sri Lanka’s ongoing efforts in combating drug smuggling and assured continued US assistance in manpower training in the naval sector.
+
+◼️
+
+[Data](articles/ff321684.json)
+
+[Extended Data](ext_articles/ff321684.ext.json)
+
+---
 
 ### Sri Lanka explores trade and investment opportunities in Gothenburg
 
@@ -161,6 +239,8 @@ Given the recent political changes the country has experienced, the writer sense
 ...
 
 [Data](articles/9ab668bc.json)
+
+[Extended Data](ext_articles/9ab668bc.ext.json)
 
 ---
 
@@ -2187,111 +2267,5 @@ The driver of the lorry, Nalusha Sampath Vidhanage, who was involved in the acci
 [Data](articles/ebf574db.json)
 
 [Extended Data](ext_articles/ebf574db.ext.json)
-
----
-
-### Postal voting
-
-*2024-10-10 13:37:36* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-ඡන්දයට-දින-දෙයි/11-412421) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Postal voting: 2024 general election. Offices, election centers, police stations: October 1st. Government agencies, military camps: November 2nd. New postal ballot names: Two-07 and 2024."
-
-🟩
-
-Postal voting in the General Election of the 2024 general election is scheduled to be held on all offices, election offices and police officers and police at the District Secretariat premises.
-
-Postal voting in other government agencies and military camps will be held on 2nd November 13, 01.14.2014.
-
-The re-marked postal ballot papers has been named after two-07 and 2024, 2024 and 2024.
-
-◼️
-
-[Data](articles/f15c776f.json)
-
-[Extended Data](ext_articles/f15c776f.ext.json)
-
----
-
-### World Bank has a good news of Sri Lanka's economy
-
-*2024-10-10 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202027) · `si`
-
-World Bank predicts Sri Lanka's economy will grow 4.4% in 2024, driven by strong quarterly performance and ongoing reforms. This positive outlook depends on successful debt restructuring and continued structural changes.
-
-🟩
-
-According to the World Bank, the economic growth expected to reach 4.4% in 2024 and that the forecast is overcome.
-
-The World Bank says that this positive outlook has been built on the continuous growth of the four quarterly economy, as well as the continued structural and policy reforms.
-
-The report of the World Bank's half-year-old Sri Lanka's developmental assessment (Sri Lanka Development UPDate), the opening up to The Future is said.
-
-The World Bank shows that the maintenance of the macroeconomic stabilization of the country's vulnerable limit depends on the restructuring of successful debts, increasing medium economic growth and continuous structural reforms.
-
-"Sri Lanka's recent economic stabest has a milestone, the Maldives, Nepal and Sri Lanka in 2023.
-
-◼️
-
-[Data](articles/3d78ac38.json)
-
-[Extended Data](ext_articles/3d78ac38.ext.json)
-
----
-
-### Prime Minister - Minister Ruwana
-
-*2024-10-10 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202028) · `si`
-
-Department of Posts issues stamps featuring Prime Minister Harini Amarasuriya and Minister Vijitha Herath. Stamps serve as souvenirs, available for public use. Issued for national celebrations and university anniversaries. Social media discussions surround the stamp releases.
-
-🟩
-
-The Department of Posts has issued a statement on issuing stamps with Prime Minister Dr. Harini Amarasuriya and Minister Vijitha Herath.
-
-It states that the Prime Minister Vijitha Herath, Minister Vijitha Herath.
-
-Accordingly, it is just a source of souvenir, the postal department has issued the post.
-
-The announcement also provided that the Prime Minister's or Vijitha Herath was not issued with the image of the Prime Minister or Vijitha Herath.
-
-The announcement states that any person is capable of printing quality stamps using herself.
-
-The Department of Posts will also be provided with the useful stamp monuments at special occasions as a tradition.
-
-The World Day National Celebration was held at Temple Trees yesterday (10), Prime Minister Harini Amarasuriya and Minister of Prime Minister Vijitha Herath participated.
-
-The 140th Anniversary of the University Union was issued by the Prime Minister Harinini Amarasuriya and Minister Vijitha Herath.
-
-...
-
-[Data](articles/476e191b.json)
-
-[Extended Data](ext_articles/476e191b.ext.json)
-
----
-
-### Have signed the nomination
-
-*2024-10-10 13:35:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்புமனுவில்-கையொப்பமிட்டனர்/175-345213) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Jeevan Thondaman and Chairman Maruthappandi Rameswaran signed nomination papers in Nuwara Eliya district for the upcoming general election on Thursday (10).
-
-🟩
-
-Jeevan Thondaman and Chairman Maruthappandi Rameswaran signed the nomination papers on Thursday (10) at the Nuwara Eliya district in the upcoming general election.
-
-◼️
-
-[Data](articles/93e234e1.json)
-
-[Extended Data](ext_articles/93e234e1.ext.json)
 
 ---

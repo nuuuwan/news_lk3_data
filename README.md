@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 19:39:04**
+As of **2024-10-11 19:57:33**
 
 ## Newspaper Stats
 
-*Scraped **49,010** Articles*
+*Scraped **49,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 489
 islandlk | 2,895
 economynextcom | 3,006
 dailyftlk | 3,323
-adalk | 4,554
+adalk | 4,555
 dailymirrorlk | 4,733
-adaderanalk | 5,791
-tamilmirrorlk | 6,656
+adaderanalk | 5,792
+tamilmirrorlk | 6,658
 virakesarilk | 7,836
 adaderanasinhalalk | 8,477
 
@@ -26,11 +26,119 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,010 (100.0%) of 49,010 articles have been extended.
+49,014 (100.0%) of 49,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### 429 candidates in the Puttalam district
+
+*2024-10-11 19:30:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-மாவட்டத்தில்-429-வேட்பாளர்கள்-களத்தில்/175-345288) · `ta`
+
+Puttalam district election summary: 429 candidates, 39 parties contesting, nominations accepted/rejected, security measures in place.
+
+🟩
+
+Puttala District Secretary and Puttalam District Election Officer HMSP. Said Herath.
+
+In addition, 24 registered political parties and 15 independent groups are contesting in the Puttalam district.
+
+The Department of Elections has given time to hold nominations for the parliamentary general election to be held on November 14 from October 4 to October 11.
+
+Accordingly, the nomination papers at the Puttalam District Secretariat till 12 noon today (11). The thas were accepted.
+
+Thereafter, from 12 noon to 1.30 pm, the deadline for objections was given.
+
+In the general election, a total of 44 political parties have filed nominations in Puttalam district, 26 political parties and 18 independent groups.
+
+In the meantime, the nominations of 2 political parties and 3 self -sufficiency groups have been rejected.
+
+The Sinhala Deepa Jathika Peramuna and the Samapima Party have been rejected by the Puttalam district election officer. Said Herath.
+
+...
+
+[Data](articles/2c4f2d39.json)
+
+[Extended Data](ext_articles/2c4f2d39.ext.json)
+
+---
+
+### New Democratic Front’s National List released
+
+*2024-10-11 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102625/new-democratic-fronts-national-list-released) · `en`
+
+The New Democratic Front (NDF) has released its National List for the 2024 General Election.
+
+Former Prime Minister Dinesh Gunawardena tops the National List which also includes former Speaker Mahinda Yapa Abeywardena, former Ministers Faiszer Musthapha, Tiran Alles, Ravi Karunanayake and Thalatha Athukorale.
+
+The political parties that supported former President Ranil Wickremesinghe at the recent Presidential Election decided to contest the upcoming General Election under the New Democratic Front (NDF), with the ‘Gas Cylinder’ as their symbol.
+
+◼️
+
+[Data](articles/4648839b.json)
+
+[Extended Data](ext_articles/4648839b.ext.json)
+
+---
+
+### Teacher who brutally assaulted 12 students
+
+*2024-10-11 19:18:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/12-மாணவிகளை-மிக-கொடூரமாக-தாக்கிய-ஆசிரியை/76-345287) · `ta`
+
+Teacher assaults 12 students in Nuwara Eliya. Parents appeal for justice. One student hospitalized. Police investigating.
+
+🟩
+
+Parents have appealed to the Nuwara Eliya Police Station and Education Department to provide justice for the inhumane attack by a headmaster by a headmaster at Grade 11 in Nuwara Eliya.
+
+One of the 12 students who were attacked in the incident has been admitted to the Nuwara Eliya District Hospital for treatment.
+
+After completing the school for the students, the evening's higher classes are held.
+
+The complaint states that the students who participated in these classes have been punished and punished by the teacher due to delay in going to the classroom after going to the classroom after the daytime meals.
+
+At the same time, a student has been admitted to the Nuwara Eliya District General Hospital as a student has been attacked by his back and legs.
+
+Furious parents have lodged a complaint at the police station seeking justice for the child.
+
+At the same time, after lodging a complaint with the police, the Nuwara Eliya Education Office has also appealed to the officials of the Education Office.
+
+...
+
+[Data](articles/04f2a290.json)
+
+[Extended Data](ext_articles/04f2a290.ext.json)
+
+---
+
+### For all pensioners. 3000 AM DM
+
+*2024-10-11 18:49:11* · [`adalk`](https://www.ada.lk/breaking_news/සියලු-විශ්‍රාමිකයන්-සඳහා-රු--3000-දිමනාව-ලබන-සති‍යේ-සිට/11-412447) · `si`
+
+Pensioners to receive Rs. 3,000 monthly allowance starting next week. President Anura Kumara Dissanayake instructs Finance Ministry officials to credit funds directly. Action taken to address financial hardship and delayed pensions.
+
+🟩
+
+President Anura Kumara Dissanayake instructed the officials of the Finance Ministry to be given the monthly allowance of Rs. 3,000 from next week.
+
+The President also instructed the officials to credit the money to the accounts of pensioners within Rs. 3,000.
+
+President Anura Kumara Dissanayake and the top officials of the Ministry of Finance at the Presidential Secretariat were given this advice at the Presidential Secretariat yesterday (10).
+
+Although all pensioners had issued a monthly allowance of Rs. 3,000, a monthly allowance of Rs.
+
+President Anura Kumara Dissanayake informed the officials of the Ministry to provide the money.
+
+The President took action to provide the amount of financial hardships, whether he was not receiving the pension and their request of the pensions of the pensions of October 2024 due to non-retirement of pensions.
+
+...
+
+[Data](articles/83e2d947.json)
+
+[Extended Data](ext_articles/83e2d947.ext.json)
+
+---
 
 ### Temporarily canceled the State Literature Festival
 
@@ -2301,85 +2409,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/8cca9244.json)
 
 [Extended Data](ext_articles/8cca9244.ext.json)
-
----
-
-### Vietnamese Ambassador and President Dissanayake discuss measures to boost ties
-
-*2024-10-11 07:31:07* · [`dailyftlk`](https://www.ft.lk/news/Vietnamese-Ambassador-and-President-Dissanayake-discuss-measures-to-boost-ties/56-767846) · `en`
-
-Vietnam Ambassador Trinh Thi Tam on Wednesday paid a courtesy call on President Anura Kumara Dissanayake.
-
-During the meeting, Ambassador Tam conveyed her congratulations on behalf of the Government of Vietnam and expressed optimism for continued cooperation between the two nations.
-
-The Vietnamese Ambassador also extended the greetings of the Vietnamese Head of State, congratulating President Dissanayake on his recent election victory. Highlighting Vietnam’s achievements in foreign direct investment (FDI) and trade, President Dissanayake requested Vietnam’s assistance in fostering these sectors in Sri Lanka.
-
-The discussion also explored the possibility of enhancing direct flights between Vietnam and Sri Lanka, with a focus on strengthening Buddhist ties and cultural connections. Ambassador Tam further pledged to explore opportunities to promote Sri Lanka as a key destination for Vietnamese tourists, thereby expanding people-to-people connections and boosting tourism.
-
-...
-
-[Data](articles/ea85a5f8.json)
-
-[Extended Data](ext_articles/ea85a5f8.ext.json)
-
----
-
-### Thai Ambassador pledges to boost trade, tourism with President Dissanayake
-
-*2024-10-11 07:30:19* · [`dailyftlk`](https://www.ft.lk/news/Thai-Ambassador-pledges-to-boost-trade-tourism-with-President-Dissanayake/56-767845) · `en`
-
-Thailand Ambassador Paitoon Mahapannaporn on Wednesday paid a courtesy call on President Anura Kumara Dissanayake.
-
-During the meeting, the Thai Ambassador extended congratulations on the President’s recent election victory and conveyed the best wishes of the Government of Thailand.
-
-Mahapannaporn also delivered a special message from the King of Thailand, Maha Vajiralongkorn, congratulating President Dissanayake and expressing goodwill towards his administration.
-
-In the discussion, the Ambassador noted the high expectations that the people of Sri Lanka have for the newly elected Government and offered Thailand’s support in helping to meet these aspirations. He highlighted the benefits of the recently signed Free Trade Agreement (FTA) between the two nations, emphasising the mutual economic gains and offering to boost Thai investments in Sri Lanka, particularly in the processing and export of local fruits and produce.
-
-...
-
-[Data](articles/d3d59d87.json)
-
-[Extended Data](ext_articles/d3d59d87.ext.json)
-
----
-
-### Bangladesh envoy discusses boosting economic ties with President Dissanayake
-
-*2024-10-11 07:29:25* · [`dailyftlk`](https://www.ft.lk/news/Bangladesh-envoy-discusses-boosting-economic-ties-with-President-Dissanayake/56-767844) · `en`
-
-Bangladesh High Commissioner Andalib Elias yesterday paid a courtesy call on President Anura Kumara Dissanayake and discussed measures to boost economic ties.
-
-During the meeting, High Commissioner Elias extended his congratulations to President Dissanayake on his recent election victory and conveyed the best wishes of Bangladesh’s Interim Government Head Muhammad Yunus.
-
-The two leaders discussed the current situation in both countries. Sri Lankan investments in Bangladesh and the significant Sri Lankan workforce employed there was also discussed, underscoring the strong economic ties between the two nations.
-
-Both countries pledged to strengthen the Preferential Trade Agreement (PTA) between Sri Lanka and Bangladesh, aiming to bolster trade and economic relations. The meeting highlighted the continued commitment of both countries to fostering closer bilateral ties and expanding cooperation across various sectors.
-
-◼️
-
-[Data](articles/029a12dc.json)
-
-[Extended Data](ext_articles/029a12dc.ext.json)
-
----
-
-### Saudi Arabian Ambassador calls on President Dissanayake
-
-*2024-10-11 07:28:40* · [`dailyftlk`](https://www.ft.lk/news/Saudi-Arabian-Ambassador-calls-on-President-Dissanayake/56-767843) · `en`
-
-Talks focus on strengthening economic ties, with particular attention to enhancing tea exports to Saudi Arabia
-
-Saudi Arabia Ambassador Khalid Hamoud Nasser Aldasam Alkahtani yesterday called on President Anura Kumara Dissanayake.
-
-Ambassador Alkahtani conveyed the best wishes of Saudi Arabia’s King Salman bin Abdulaziz to President Dissanayake on his recent election victory.
-
-The discussion covered various topics, including the current regional situation and Sri Lanka’s support to Saudi Arabia. Ambassador Alkahtani praised Sri Lanka’s longstanding assistance and the continued cooperation between the two nations. The leaders also focused on strengthening economic ties, with particular attention to enhancing Sri Lanka’s tea exports to Saudi Arabia.
-
-...
-
-[Data](articles/94cafe6a.json)
-
-[Extended Data](ext_articles/94cafe6a.ext.json)
 
 ---

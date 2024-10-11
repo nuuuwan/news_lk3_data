@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 09:12:17**
+As of **2024-10-11 09:39:10**
 
 ## Newspaper Stats
 
-*Scraped **48,911** Articles*
+*Scraped **48,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,177 @@ colombotelegraphcom | 486
 bbccomsinhala | 487
 islandlk | 2,895
 economynextcom | 3,000
-dailyftlk | 3,319
+dailyftlk | 3,323
 adalk | 4,542
 dailymirrorlk | 4,733
-adaderanalk | 5,773
-tamilmirrorlk | 6,639
+adaderanalk | 5,776
+tamilmirrorlk | 6,641
 virakesarilk | 7,818
-adaderanasinhalalk | 8,456
+adaderanasinhalalk | 8,457
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,905 (100.0%) of 48,911 articles have been extended.
+48,919 (100.0%) of 48,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Met. Dept. issues ‘red alert’ for strong winds and rough seas
+
+*2024-10-11 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102607/met-dept-issues-red-alert-for-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued a ‘Red’ alert for the sea areas off the coasts extending from Puttalam to Hambantota via Colombo and Galle.
+
+The advisory, issued at 07.00 a.m. this morning (11), will be effective for the next 24 hours until 07.00 a.m. on Saturday (12).
+
+The sea areas off the coasts extending from Puttalam to Hambantota via Colombo and Galle will be very rough at times with very strong gusty winds up to 60-70 kmph, it added.
+
+Meanwhile, the wave heights may increase about 2.5–3.0 m in the sea areas off the coast extending Colombo to Hambantota via Galle and Matara, according to the Met. Department.
+
+Thus, naval and fishing communities are requested to be attentive in this regard.
+
+◼️
+
+[Data](articles/1890561d.json)
+
+[Extended Data](ext_articles/1890561d.ext.json)
+
+---
+
+### 2024 General Election: Accepting nominations ends today
+
+*2024-10-11 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102608/2024-general-election-accepting-nominations-ends-today) · `en`
+
+The accepting of nominations for the 2024 General Election is set to conclude at 12 noon today (11).
+
+The Election Commission has allocated time until 1.30 p.m. to file any objections related to the nominations.
+
+A total of 349 independent groups have thus far placed deposits for the upcoming General Election.
+
+Accordingly, 147 political parties and 94 independent groups have placed their nominations as of yesterday.
+
+The Commissioner General of Elections, Saman Sri Ratnayake stated that as per the Election Expenses Regulation Act, details regarding the expenditure limits for candidates will be provided in due course.
+
+Meanwhile, the Police Spokesman DIG Nihal Thalduwa said that a special security arrangements have been deployed at all the district secretariats around the island and the Election Commission office in Rajagiriya during the nomination submission period.
+
+DIG Talduwa further stated that instructions have been given to coordinate the General Election through the District DIGs.
+
+◼️
+
+[Data](articles/da4db525.json)
+
+[Extended Data](ext_articles/da4db525.ext.json)
+
+---
+
+### Landslide early warnings issued for several districts
+
+*2024-10-11 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102606/landslide-early-warnings-issued-for-several-districts) · `en`
+
+The National Building and Research Organisation (NBRO) has issued landslide warnings to multiple areas in several districts, as heavy rainfall continues in parts of the island.
+
+Accordingly, a Level 2 (Amber) warning has been issued for several Divisional Secretariat areas in Galle, Kalutara, Colombo, Kegalle, Ratnapura and Gampaha districts as follows:
+
+Galle District: Elpitiya,Neluwa,Baddagama and Nagoda Divisional Secretariat Divisions (DSD) and surrounding areas
+
+Kaluthara District: Bulathsinhala, Walallawita, Matugama, Dodangoda, Ingiriya, Horana DSD and surrounding areas
+
+Kegalle District: Ruwanwella, Warakapola, Dehiovita, Yatiyanthota Bulathkohupitiya DSD and surrounding areas
+
+Meanwhile, a Level 1 (Yellow) warning was issued for several areas in the following districts:
+
+◼️
+
+[Data](articles/ef313558.json)
+
+[Extended Data](ext_articles/ef313558.ext.json)
+
+---
+
+### A new announcement on train service for the North
+
+*2024-10-11 09:08:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கிற்கான-ரயில்-சேவை-குறித்த-புதிய-அறிவிப்பு/175-345261) · `ta`
+
+New train service announcement: North route to open on 22nd, trains to run at reduced speeds due to ongoing repairs. Construction delay causes acquisition of railway line at Rs 3,000 crore.
+
+🟩
+
+Since the area from the Mahawa to Anuradhapura of the modernized Northern Railway, which is aimed at running at a speed of 100 kilometers per hour, the area has been decided to operate less than forty kilometers at the speed of the trains.
+
+The decisions were taken at a discussion held at the Railway Headquarters headed by Railway General Manager SS Mudali and Railway Drivers, Controllers and Station Principals.
+
+The General Manager advised the opening of the railway line on the 22nd and to run the train at a minimum speed of six months to repair the incomplete repairs.
+
+As a result, the attempt to cross 64 kilometers in one hour has been extended for two and a half hours.
+
+The Railway Department has officially acquired the railway line from the company due to a delay in the construction of the Mahawa to Anuradhapura area at a cost of Rs 3,000 crore.. Remble
+
+◼️
+
+[Data](articles/42e577cb.json)
+
+[Extended Data](ext_articles/42e577cb.ext.json)
+
+---
+
+### Exceptional brand on India - TATA
+
+*2024-10-11 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202052) · `si`
+
+Here's a 200-character summary of Tata:
+
+
+
+Tata: India's iconic global company founded by Jamsetji Tata. Known for ethics, diversity, and innovation. Owns Jaguar Land Rover and Tata Motors. Founded Taj Hotel, India's first luxury hotel. Pioneered India's steel industry. Focuses on employee welfare and social responsibility.
+
+🟩
+
+TATA, India, is one of the world's special companies. Its corporate ethics is not only employee but also the Indian people to the company but also Indian people.
+
+TATA is the world's largest two business businesses, TATA TATA, and Jaguar Land Rover.
+
+TATA is the fact that there is charity institutions that have 66% of its sections.
+
+It is important to evaluate the contribution to all the TATA generation of TATA Jamestji and later that the company had taken the company to such a place.
+
+Jamsetji TATA had gone to an Indian businessman in the late 19th century.
+
+But as reported, he was not allowed to enter the hotel due to the color of his skin.
+
+The viciously distressed and anger, he decided to build even better hotel to build himself. His intent was to open it for the Indian visitors.
+
+The Taj, opened in 1903 in Mumbai, is the hotel. This was the first power of the buildings of the city. Moreover, the manufactured fans in the United States, Germany, and English national support.
+
+...
+
+[Data](articles/c5c88b93.json)
+
+[Extended Data](ext_articles/c5c88b93.ext.json)
+
+---
+
+### Lock for a portion of the southern highway
+
+*2024-10-11 08:45:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்கு-அதிவேக-நெடுஞ்சாலையின்-ஒரு-பகுதிக்கு-பூட்டு/175-345260) · `ta`
+
+Temporary closure of Velipanna section on Southern Expressway due to minor flooding. Steps taken to ensure safety.
+
+🟩
+
+Steps have been taken to temporarily close the Velipanna area on the Southern Expressway.
+
+The decision was taken due to the minor floods in the area. Remble
+
+◼️
+
+[Data](articles/77cf7c95.json)
+
+[Extended Data](ext_articles/77cf7c95.ext.json)
+
+---
 
 ### Colorado tourist mine accident leaves one person dead; 23 people rescued
 
@@ -550,6 +704,22 @@ The Ambassador’s agenda included high-level meetings with the Västra Götalan
 
 ---
 
+### Sri Lanka explores trade and investment opportunities in Gothenburg
+
+*2024-10-11 06:36:50* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-explores-trade-and-investment-opportunities-in-Gothenburg/34-767824) · `en`
+
+Ambassador of Sri Lanka to Sweden Kapila Fonseka successfully concluded a two-day official visit to Gothenburg, the second largest city of Sweden, last week. The purpose of the visit was to engage with key stakeholders including Swedish Government officials and business leaders to strengthen economic and trade relations between Sri Lanka and Gothenburg, and to meet with the members of the Sri Lankan community in Sweden.
+
+The Ambassador’s agenda included high-level meetings with the Västra Götaland County of Sweden Governor Sten Tolgfors, Gothenburg Lord Mayor Aslan Akbas, and Regional Parliament Chair Renee Bengtsson. During these meetings the Ambassador conveyed Sri Lanka’s strong commitment to enhance the already existing connections with the city of Gothenburg and the Västra Götaland, which is the second most populous county in Sweden.
+
+...
+
+[Data](articles/ecf54716.json)
+
+[Extended Data](ext_articles/ecf54716.ext.json)
+
+---
+
 ### Harsha Jayatunga appointed Executive Director/CEO at Sierra Cables
 
 *2024-10-11 06:35:34* · [`dailyftlk`](https://www.ft.lk/news/Harsha-Jayatunga-appointed-Executive-Director-CEO-at-Sierra-Cables/56-767823) · `en`
@@ -565,6 +735,42 @@ Having served as the Chief Executive Officer since July 2020, Jayatunga has led 
 [Data](articles/0efeea88.json)
 
 [Extended Data](ext_articles/0efeea88.ext.json)
+
+---
+
+### Harsha Jayatunga appointed Executive Director/CEO at Sierra Cables
+
+*2024-10-11 06:35:34* · [`dailyftlk`](https://www.ft.lk/business/Harsha-Jayatunga-appointed-Executive-Director-CEO-at-Sierra-Cables/34-767823) · `en`
+
+Sierra Cables PLC has recently announced the appointment of Harsha Jayatunga as Executive Director/CEO.
+
+This significant milestone recognises his instrumental role in the company’s growth and continued success since he first joined Sierra Cables in 2019.
+
+Having served as the Chief Executive Officer since July 2020, Jayatunga has led the company through an era of rapid transformation, driving significant advancements in both local and international markets. Under his leadership, Sierra Cables has not only enhanced its operational efficiency but also expanded its market presence in strategic international markets.
+
+...
+
+[Data](articles/64142834.json)
+
+[Extended Data](ext_articles/64142834.ext.json)
+
+---
+
+### Sri Lanka-Canada Business Council calls on PM Dr. Harini
+
+*2024-10-11 06:34:25* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Canada-Business-Council-calls-on-PM-Dr-Harini/34-767822) · `en`
+
+The Sri Lanka-Canada Business Council (SLCBC) delegates recently held a pivotal briefing session with the Prime Minister Harini Amarasuriya, ahead of their official mission to Canada.
+
+This strategic meeting, which took place in Colombo, was centred around the Council’s upcoming efforts to foster stronger economic, trade, and investment relations between Sri Lanka and Canada.
+
+The SLCBC delegation provided a comprehensive overview of their objectives, focusing on promoting sustainable growth, identifying new trade opportunities, and encouraging foreign direct investment. They also shared insights into planned meetings with Canadian business leaders, government officials, and key stakeholders during their visit.
+
+...
+
+[Data](articles/1eac277f.json)
+
+[Extended Data](ext_articles/1eac277f.ext.json)
 
 ---
 
@@ -651,6 +857,24 @@ During the meeting, Ambassador Edirisinghe highlighted the existing strong bilat
 [Data](articles/789f07a8.json)
 
 [Extended Data](ext_articles/789f07a8.ext.json)
+
+---
+
+### Lankan envoy holds talks with Thai Chamber of Commerce and Board of Trade of Thailand
+
+*2024-10-11 06:30:53* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-holds-talks-with-Thai-Chamber-of-Commerce-and-Board-of-Trade-of-Thailand/34-767821) · `en`
+
+Ambassador of Sri Lanka to Thailand Wijayanthi Edirisinghe held a productive discussion with the Chairman of the Thai Chamber of Commerce and Board of Trade of Thailand Sanan Angubolkul, on 1 October 2024.
+
+The discussion focused on enhancing the long-standing relationship between Sri Lanka and Thailand, particularly in the areas of trade, investment and tourism.
+
+During the meeting, Ambassador Edirisinghe highlighted the existing strong bilateral relationships and emphasized the importance of the Sri Lanka-Thailand Free Trade Agreement, set to take effect from 1 January 2025, as a key initiative to further strengthen economic cooperation. She invited Chairman Angubolkul to lead an investment delegation to Sri Lanka to explore the abundant opportunities available in the country.
+
+...
+
+[Data](articles/7dd616de.json)
+
+[Extended Data](ext_articles/7dd616de.ext.json)
 
 ---
 
@@ -880,6 +1104,14 @@ Meanwhile, the Department of Meteorology has predicted more than 150 mm of rainf
 
 *2024-10-11 01:42:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd6qllxeq9wo) · `si`
 
+Here's a 200-character summary:
+
+
+
+New President Anura Dissanayake's cabinet hasn't announced vehicle import changes. Previous government phased out vehicle imports due to economic crisis. Resumption planned for Oct 1, 2024, with buses and trucks first, then light vehicles in Q1 2025. No immediate price drop expected despite import resumption.
+
+🟩
+
 The main cabinet of the new President Anura Dissanayake has not yet been announced what he is on imports of vehicles.
 
 The last government has been submitted to the importation of vehicle imports gradually.
@@ -904,19 +1136,31 @@ Due to the economic crisis of the economic crisis, the importation of vehicles f
 
 ### 2024-10-10 (Thursday)
 
-### අරුණ නි. ප්‍රවෘත්ති කර්තෘට එල්ල වූ මරණ තර්ජන විමර්ශනයට නියෝග
+### Aruna Nice. Death threats to the news editor
 
 *2024-10-10 23:36:13* · [`adalk`](https://www.ada.lk/breaking_news/අරුණ-නි--ප්‍රවෘත්ති-කර්තෘට-එල්ල-වූ-මරණ-තර්ජන-විමර්ශනයට-නියෝග/11-412436) · `si`
 
-අරුණ පුවත්පතේ නියෝජ්‍ය ප්‍රවෘත්ති කර්තෘ තිස්ස රවීන්ද්‍ර පෙරේරාට දුරකථනයෙන් එල්ල වී ඇතැයි කියන මරණ තර්ජන සම්බන්ධයෙන් වහාම පුළුල් විමර්ශනයක් පවත්වන ලෙස කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවෙල  (9 වැනිදා) පොලිසියට නියෝග කළේය.
+Death threats against news editor Tissa Ravindra Perera. Police investigation ordered after court summons. Threats related to national security news and criminal gangs. Caller identified as "Lal brother." Court orders mobile call records analysis.
 
-තමාට එල්ල වී ඇති තර්ජනයන් පිළිබඳව සඳහන් කරමින් කෝරළේ ආරච්චිගේ තිස්ස රවීන්ද්‍ර පෙරේරා විසින් මෙම මස 7 වැනිදා කුරුඳුවත්ත පොලිසියේ වැඩබලන ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක තිලක් බණ්ඩාර වෙත කරන ලද පැමිණිල්ලක් පිළිබඳ අධිකරණය වෙත පෙරේදා  කරුණු වාර්තා කළ අවස්ථාවේදී අතිරේක මහෙස්ත්‍රාත්වරයා එම නියෝගය කළේය.
+🟩
 
-පැමිණිලිකරු ජාතික ආරක්ෂාව සම්බන්ධයෙන් පුවත්, සංවිධානාත්මක අපරාධ කල්ලි, රාජ්‍ය ආයතන හා අමාත්‍යාංශවල දූෂණ වංචා පිළිබඳ පුවත් පළකරන බවත් පොලිසිය අධිකරණය වෙත දන්වා සිටියේය.
+Tissa Ravindra Perera has ordered the police to conduct a wider investigation into the death threats that he had telephoned the death threats.
+
+The Additional Magistrate made the Court when he was reported on the 7th of this month.
+
+The complainant informed the court that the complainant would publish news about national security newspapers, organized criminal gangs, government agencies and ministries.
+
+Recently arrested beefThe complainant told the court that a search of telephone threats were investigated by the former IGP in the 2020s, the former IGP in 2020.
+
+The complainant was told that the complainant had stated that the complainant had been threatened by the complainant on a tile tender in the Colombo Port.
+
+On the 5th of this month, a person calling the plaintiff's mobile on the 5th of this month, a person calling TissaBecause we won't let our lal beSince it was eaten, "the police said.
 
 ...
 
 [Data](articles/2c456531.json)
+
+[Extended Data](ext_articles/2c456531.ext.json)
 
 ---
 
@@ -1822,19 +2066,31 @@ President's Counsel Romesh de Silva, who appeared for the respondents, said that
 
 ---
 
-### රු. කෝටි ගණනක පොහොර වංචාවක් ගැන තොරතුරු එළියට
+### Rs. Billions of fertilizer is out
 
 *2024-10-10 18:11:20* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-ගණනක-පොහොර-වංචාවක්-ගැන-තොරතුරු-එළියට/11-412427) · `si`
 
-ගොවි ජනතාවට අඩු මුදලට ලබාදීම සඳහා වසර හයකට පෙර ආනයනය කළ පොහොර තොගයක් හොර රහසේ කර්මාන්තකරුවන්ට ලබා දී රුපියල් කෝටි ගණනින් මුදල් වංචාකර රජයට පාඩු කළැයි කියන මෙරට පොහොර සමාගම් 05ක හා තැරැව්කාර ආයතන 08ක සැකකරුවන් වහාම අත්අඩංගුවට ගන්නා ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා රහස් පොලිසියට ඊයේ (10) නියම කළේය.
+Fertilizer scandal: Colombo Magistrate orders arrests, probes financial crimes involving billions of rupees.
 
-අදාළ පොහොර සමාගම් 05යේ හා තැරැව්කාර ආයතන 08යේ සැකකරුවන්ගේ බැංකු ගිණුම් විස්තර දැක්වෙන වාර්තා කැඳවීමට නියෝග කළ මහෙස්ත්‍රාත්වරයා සැකකරුවන් අත්අඩංගුවට ගත් පසු වහාම අධිකරණයට ඉදිරිපත් කිරීමටද රහස් පොලිසියට නියම කළේය.
+🟩
 
-කෘෂිකර්ම අමාත්‍යාංශයේ ලේකම්වරුන් ලෙස කටයුතු කළ සුමේධ පෙරේරා හා රුවන් චන්ද්‍ර යන මහත්වරු කළ පැමිණිල්ලකට අනුව රහස් පොලිසියේ මූල්‍ය අපරාධ විමර්ශන අංශය මෙම විමර්ශන ආරම්භ කර ඇත.
+Colombo Chief Magistrate Thilina Gamage to immediately arrest the suspects of Rs.10) fixed.
+
+The Magistrate ordered the bank account account details of the three fertilizer companies and two brokerage companies in 08 fertilizers.
+
+The CID Financial Criminal Investigation Division has commenced investigations into a complaint lodged by the Secretaries of the Ministry of Agriculture.
+
+Sub Inspector of the Financial Criminal Investigation Division (Crime Criminal Investigation Division)Said it was imported.
+
+The private industrialmentors have sold 3500 / - to sell fertilizer fertilizers at Rs.He said to the government, he said he would investigate the government and fraudulently to the government and fraudulently to the government.
+
+Mr. Anura Gamage was revealed to be arrested in connection with the persons with five fertilizer companies and eight brokerage companies in the incident.
 
 ...
 
 [Data](articles/4e6dd582.json)
+
+[Extended Data](ext_articles/4e6dd582.ext.json)
 
 ---
 
@@ -1995,225 +2251,5 @@ He communicated this during a media briefing held today (10).
 [Data](articles/2d53884b.json)
 
 [Extended Data](ext_articles/2d53884b.ext.json)
-
----
-
-### Patali’s URF withdraws from 2024 General Election campaign
-
-*2024-10-10 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102595/patalis-urf-withdraws-from-2024-general-election-campaign) · `en`
-
-Former Member of Parliament Patali Champika Ranawaka says that the United Republic Front (URF) will not contest the 2024 Parliamentary Election.
-
-He communicated this during a media briefing held today (10).
-
-“We decided to withdraw from this election campaign.We were hoping to contest the election representing Samagi Jana Sandhanaya from 11 districts. During the nomination process, we realized that there has been a violation of the agreement that we cannot justify, so that we decided to withdraw.”
-
-◼️
-
-[Data](articles/363676ef.json)
-
-[Extended Data](ext_articles/363676ef.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 292.85/293.00 to dollar, bond yields steady
-
-*2024-10-10 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-85-293-00-to-dollar-bond-yields-steady-183134/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 292.85/293.00 to the US dollar Thursday from 293.00/20 a day earlier, dealers said, while bond yields were steady ahead of an auction tomorrow.
-
-The central bank has announced it will issue 95,000 million rupees of Treasury Bonds at an auction to be held on Friday (11).
-
-A bond maturing on 15.12.2026 closed at 10.25/40 percent, down from 10.30/50 percent.
-
-A bond maturing on 15.12.2027 closed stable at 11.40/55 percent.
-
-A bond maturing on 15.02.2028 closed stable at 11.70/80 percent.
-
-A bond maturing on 15.09.2029 closed stable at 11.95/12.05 percent. (Colombo/Oct10/2024)
-
-◼️
-
-[Data](articles/06037e19.json)
-
-[Extended Data](ext_articles/06037e19.ext.json)
-
----
-
-### Parliamentarian is withdrawn - Patali
-
-*2024-10-10 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202035) · `si`
-
-UPF withdraws from Sri Lanka general election due to nomination issues. Patali Champika Ranawaka cites violation of rules as reason for withdrawal. Party was set to contest in 11 districts but decided to focus on reconciliation alliance instead.
-
-🟩
-
-Patali Champika Ranawaka says the UPF does not contest this year's general election.
-
-"We decided to leave this election campaign. We proceeded to compete in the reconciliation alliance. 11 districts were ready to present our candidates. But during the nomination process, we realized that we had violated how we could not justify. So we decided to quit the election campaign. "
-
-◼️
-
-[Data](articles/4446c5e7.json)
-
-[Extended Data](ext_articles/4446c5e7.ext.json)
-
----
-
-### Johnston banned
-
-*2024-10-10 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202034) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Former Minister Johnston Fernando banned from foreign travel due to accusations of owning a luxury vehicle.
-
-🟩
-
-Former Minister Johnston Fernando has banned a foreign travel ban.
-
-He has been accused of being accused of possessing a luxury vehicle that is assembled.
-
-◼️
-
-[Data](articles/9da6ec50.json)
-
-[Extended Data](ext_articles/9da6ec50.ext.json)
-
----
-
-### Sri Lanka stocks close up, interest in JKH continues
-
-*2024-10-10 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-interest-in-jkh-continues-183126/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 0.10 percent, or 12.24 points, at 12,164; while the more liquid S&P SL20 Index closed up 0.20 percent, or 7.33 points, at 3,600.
-
-Volatility was seen in the market with the indices dipping sharply during mid-day trade.
-
-Top turnover generators were John Keells Holdings (down at 197.50), Hayleys (up at 105.75), Commercial Bank (up at 107.00), Sampath Bank (up at 81.70), and Nations Trust Bank (up at 133.50).
-
-Crossings were recorded on conglomerates John Keells Holdings, and Hayleys.
-
-Top foreign buying was seen in John Keells Holdings, Commercial Bank, Vidullanka (up at 14.00), Sampath Bank, Seylan Bank (up at 51.90), and Ceylon Guardian Investment Trust (flat at 105.00).
-
-...
-
-[Data](articles/7e4299c8.json)
-
-[Extended Data](ext_articles/7e4299c8.ext.json)
-
----
-
-### Nobel Prize for Literature For Han Kang in South Korea
-
-*2024-10-10 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202033) · `si`
-
-Han Kang wins Nobel Literature Prize for exploring uncertainty in human life through poetic prose.
-
-🟩
-
-Nobel Prize for Literature has been awarded to Han Kang, South Korea.
-
-The Nobel Committee announced that the award was presented to the poetic design of 'uncertainty' of the uncertory of human life.
-
-◼️
-
-[Data](articles/9577213d.json)
-
-[Extended Data](ext_articles/9577213d.ext.json)
-
----
-
-### “There is no one to compete with us”
-
-*2024-10-10 16:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்முடன்-போட்டியிட-யாரும்-இல்லை/175-345232) · `ta`
-
-NPP leader Lalgantha vows not to use state resources for upcoming election. Claims party doesn't need extensive campaign due to previous presidential win. States no other party can compete with NPP's current success.
-
-🟩
-
-NPP member Lalgantha said today that the National People's Power (NPP) government will not use state resources for the general election and will show it this time.
-
-“We will act as a precedent in all our political activities and electoral activities. We will not use state resources for election campaign. "We will show it this time," he said when he responded to a question after submitting the Kandy district nomination.
-
-Lalgantha said the National People's Party did not need to carry out a massive election campaign for the general election as the campaign for the presidential election was successful.
-
-People who do not vote for us in the presidential election work with us because of the successful activities we have done after the presidential election victory. After the victory, all parties, SLFP and UNP, have now split, there is no one to compete with us. Our success has certainly. ”
-
-◼️
-
-[Data](articles/e994ae11.json)
-
-[Extended Data](ext_articles/e994ae11.ext.json)
-
----
-
-### Democratic Tamil National Alliance nominated in Vanni!
-
-*2024-10-10 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195962) · `ta`
-
-TNA nominates candidates for parliamentary elections in Vanni district. Former MPs and provincial council members selected. Election filing completed at Vavuniya District Secretariat.
-
-🟩
-
-The Democratic Tamil National Alliance (TNA) filed a nomination for parliamentary elections in the Vanni district on Thursday (10).
-
-The Democratic Tamil National Alliance (TNA) is contesting the upcoming parliamentary elections in the upcoming parliamentary elections in the Wanni Election District.
-
-In this case, the election was filed at the Vavuniya District Secretariat today afternoon.
-
-Former MPs Selvam Adakkalanathan, Sivasakthi Anandan, former Northern Provincial Council Member Senthilnathan Mayuran, Former Northern Provincial Council Minister Kandaya SivanesanThe businessman A. Royan has been named as the candidates.
-
-◼️
-
-[Data](articles/81ac77f7.json)
-
-[Extended Data](ext_articles/81ac77f7.ext.json)
-
----
-
-### South Korea’s Han Kang wins 2024 Nobel literature prize
-
-*2024-10-10 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102593/south-koreas-han-kang-wins-2024-nobel-literature-prize) · `en`
-
-South Korean author Han Kang won the 2024 Nobel Prize in Literature for “her intense poetic prose that confronts historical traumas and exposes the fragility of human life,” the award-giving body said on Thursday.
-
-The prize is awarded by the Swedish Academy and is worth 11 million Swedish crowns ($1.1 million).
-
-“She has a unique awareness of the connections between body and soul, the living and the dead, and in her poetic and experimental style has become an innovator in contemporary prose,” Anders Olsson, chairman of the academy’s Nobel Committee, said in a statement.
-
-Han Kang, opens new tab, the first South Korean to win the literature prize, began her career in 1993 with the publication of a number of poems in the magazine Literature and Society, while her prose debut came in 1995 with the short story collection “Love of Yeosu”.
-
-Her major international breakthrough came with the novel “The Vegetarian”.
-
-...
-
-[Data](articles/5a151548.json)
-
-[Extended Data](ext_articles/5a151548.ext.json)
-
----
-
-### Patali makes a strong decision
-
-*2024-10-10 16:35:58* · [`adalk`](https://www.ada.lk/breaking_news/පාඨලී-දැඩි-තීරණයක්-ගනියි/11-412424) · `si`
-
-Former MP Phapaya Champika Ranawaka states UDA won't contest next election, citing violation of agreements.
-
-🟩
-
-Former parliamentarian Phapaya Champika Ranawaka said that no one representing the United Republic of the UDA will contest the next general election.
-
-He was speaking at a media briefing held at a media briefing held in Colombo today due to violating the Understanding TNA and the Undahaka Covenant that his party arrived.
-
-◼️
-
-[Data](articles/45e039ec.json)
-
-[Extended Data](ext_articles/45e039ec.ext.json)
 
 ---

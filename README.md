@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 14:58:06**
+As of **2024-10-11 15:09:58**
 
 ## Newspaper Stats
 
-*Scraped **48,970** Articles*
+*Scraped **48,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,67 @@ dailymirrorlk | 4,733
 adaderanalk | 5,783
 tamilmirrorlk | 6,650
 virakesarilk | 7,828
-adaderanasinhalalk | 8,466
+adaderanasinhalalk | 8,468
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,970 (100.0%) of 48,970 articles have been extended.
+48,972 (100.0%) of 48,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Here is the national list of the compass
+
+*2024-10-11 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202065) · `si`
+
+Here's a 200-character summary:
+
+
+
+National lists for 2023 general election: Former Dean of Humanities & Social Sciences (University of Ruhuna), National Executive Council member, National Power organizer, and Melbourne City coordinator in veterinary medicine.
+
+🟩
+
+The following are the names of the national lists of the National Longer's electorate for this year's general election.
+
+Former December of the Faculty of Humanities and Social Sciences of the University of Ruhuna
+
+National Executive Council of the National Power and Sri Lanka Organizer
+
+Coordinator and Melbourne City organizer in veterinary medicine, national power
+
+◼️
+
+[Data](articles/16946e10.json)
+
+[Extended Data](ext_articles/16946e10.ext.json)
+
+---
+
+### National List of the Pohost
+
+*2024-10-11 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202064) · `si`
+
+Here's a summary of the National List of the Pohost in 200 characters:
+
+
+
+Sri Lanka General Election National List MPs names.
+
+🟩
+
+The following are the names of the national lists of the National List MPs in the Sri Lanka General Election.
+
+◼️
+
+[Data](articles/4cfadfb3.json)
+
+[Extended Data](ext_articles/4cfadfb3.ext.json)
+
+---
 
 ### Damitha courts to seek
 
@@ -2169,69 +2219,5 @@ The injured has been admitted to the emergency department. The body of the decea
 [Data](articles/247f16e8.json)
 
 [Extended Data](ext_articles/247f16e8.ext.json)
-
----
-
-### Shouldn't the previous time frame be imported?
-
-*2024-10-11 01:42:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd6qllxeq9wo) · `si`
-
-Here's a 200-character summary:
-
-
-
-New President Anura Dissanayake's cabinet hasn't announced vehicle import changes. Previous government phased out vehicle imports due to economic crisis. Resumption planned for Oct 1, 2024, with buses and trucks first, then light vehicles in Q1 2025. No immediate price drop expected despite import resumption.
-
-🟩
-
-The main cabinet of the new President Anura Dissanayake has not yet been announced what he is on imports of vehicles.
-
-The last government has been submitted to the importation of vehicle imports gradually.
-
-However, many people who are expecting to buy a new vehicle have been prompted to buy a new vehicle on the plan as per the plan.
-
-A senior official of the Ministry of Finance told Sinhala, who refused to reveal the name, he would not change the plan.
-
-Accordingly, as planned, the importation of vehicles will be allowed.
-
-However, President of the Sri Lanka Vehicle Imports, Prasad said that no government institution has been issued to any government agency.
-
-Due to the economic crisis of the economic crisis, the importation of vehicles from the country had been stopped since March 2020 and the government decided to remove the ban on vehicle imports in phases.
-
-...
-
-[Data](articles/701d9b5e.json)
-
-[Extended Data](ext_articles/701d9b5e.ext.json)
-
----
-
-### 2024-10-10 (Thursday)
-
-### Aruna Nice. Death threats to the news editor
-
-*2024-10-10 23:36:13* · [`adalk`](https://www.ada.lk/breaking_news/අරුණ-නි--ප්‍රවෘත්ති-කර්තෘට-එල්ල-වූ-මරණ-තර්ජන-විමර්ශනයට-නියෝග/11-412436) · `si`
-
-Death threats against news editor Tissa Ravindra Perera. Police investigation ordered after court summons. Threats related to national security news and criminal gangs. Caller identified as "Lal brother." Court orders mobile call records analysis.
-
-🟩
-
-Tissa Ravindra Perera has ordered the police to conduct a wider investigation into the death threats that he had telephoned the death threats.
-
-The Additional Magistrate made the Court when he was reported on the 7th of this month.
-
-The complainant informed the court that the complainant would publish news about national security newspapers, organized criminal gangs, government agencies and ministries.
-
-Recently arrested beefThe complainant told the court that a search of telephone threats were investigated by the former IGP in the 2020s, the former IGP in 2020.
-
-The complainant was told that the complainant had stated that the complainant had been threatened by the complainant on a tile tender in the Colombo Port.
-
-On the 5th of this month, a person calling the plaintiff's mobile on the 5th of this month, a person calling TissaBecause we won't let our lal beSince it was eaten, "the police said.
-
-...
-
-[Data](articles/2c456531.json)
-
-[Extended Data](ext_articles/2c456531.ext.json)
 
 ---

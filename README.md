@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 16:12:00**
+As of **2024-10-11 16:23:06**
 
 ## Newspaper Stats
 
-*Scraped **48,982** Articles*
+*Scraped **48,983** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 487
-bbccomsinhala | 487
+bbccomsinhala | 488
 islandlk | 2,895
 economynextcom | 3,006
 dailyftlk | 3,323
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,471
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,982 (100.0%) of 48,982 articles have been extended.
+48,983 (100.0%) of 48,983 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -500,7 +500,7 @@ And I am still standing for the people of my district. I will take a jointly wit
 
 *2024-10-11 12:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-awesuma-scheme-could-benefit-from-better-targeting-ips-183175/) · `en`
 
-ECONOMYNEXT — While it takes a holistic approach to poverty, there are clear gaps in Sri Lanka’s Aswesuma welfare benefits programme, the Institute of Policy Studies (IPS) said, calling for improved targeting, revising criteria and additional indicators.
+ECONOMYNEXT — While it takes a holistic approach to poverty, there are clear gaps in Sri Lanka’s Aswesuma welfare benefits programme, the Institute of Policy Studies (IPS) said, calling for improved targeting, revised criteria and additional indicators.
 
 At a discussion held on Tuesday October 08, IPS Research Economist Pulasthi Amarasinghe offered insights into the effectiveness of the Aswesuma Programme. Introduced to replace the Samurdhi programme, Aswesuma uses 22 indicators across six dimensions to determine eligibility for cash transfers.
 
@@ -923,6 +923,38 @@ Police suspect that the driver cannot control the vehicle due to a technical fau
 [Data](articles/b8f5b278.json)
 
 [Extended Data](ext_articles/b8f5b278.ext.json)
+
+---
+
+### General Election 2024: Who are the former MPs who are not contesting the Diyawanna?
+
+*2024-10-11 09:47:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cnvdp33jnpeo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former MPs not contesting 2024 Sri Lankan general election: Mahinda Rajapaksa, Maithripala Sirisena, Ranil Wickremesinghe, Dinesh Gunawardena, Mahinda Yapa Abeywardena, Bandula Gunawardena, Prasanna Ranatunga, Ali Sabri, Shehan Semasinghe, Chamal Rajapaksa, Basil Rajapaksa, Patali Champika Ranawaka, Nalaka Godahewa, Mahe Seneviratha, Mahei Senadhirajah, PV Vigneswaran, Wimalaweera Dissanayake, SB Dissanayake, Kanakayaka Nanayakkara, Janaka Bandara Tennakkara.
+
+🟩
+
+One of the most popular tendencies in the country was a slogan of the people who were constantly heard in the face of the economic collapse of the country.
+
+The nominations for the Parliamentary General Elections on November 14, including the economic issues and the lack of the essential commodities, including the economic problems and the power cuts, ended today (Oct: 11).
+
+The last few weeks have decided not to contest a number of MPs representing the 9th Parliament for the general election.
+
+Former President Mahinda Rajapaksa, Maithripala Sirisena and Ranil Wickremesinghe have decided not to contest the general election this year.
+
+අවස්ථා දෙකක දී විධායක ජනාධිපති ධුරය හොඹ වනු ලැබූ මහින්ද රාජපක්ෂ පළමු වරට පාර්ලිමේන්තුවට පිවිසියේ 1970 වර්ෂයේදී යි.
+
+He won the Kurunegala District at the General Elections in the 2020 and won the highest number of preferential votes with 527,364 preferential votes.
+
+...
+
+[Data](articles/dd2ea55b.json)
+
+[Extended Data](ext_articles/dd2ea55b.ext.json)
 
 ---
 
@@ -2201,21 +2233,5 @@ The stock market yesterday got off to a negative start and lost up to 120 points
 [Data](articles/bd4842fd.json)
 
 [Extended Data](ext_articles/bd4842fd.ext.json)
-
----
-
-### Union Assurance hosts exclusive forums for Union Bank customers
-
-*2024-10-11 05:52:00* · [`islandlk`](http://island.lk/union-assurance-hosts-exclusive-forums-for-union-bank-customers/) · `en`
-
-Union Assurance, Sri Lanka’s premier Life Insurer, continues to strengthen its Bancassurance partnership with Union Bank through a series of exclusive customer forums. The latest forums held in Jaffna and Matara brought together over 100 Union Assurance customers within the Union Bank Bancassurance Channel along with new-to-bank customers.
-
-Designed to enhance the overall customer proposition, these forums focused on enriching customer financial well-being through valuable insights. With the delivery of practical knowledge and actionable strategies, Union Assurance aimed at educating customers to make informed financial decisions, thereby empowering their unique journeys of progress. In addition, these forums offered customers the opportunity to engage directly with the senior management from both Union Assurance and Union Bank, facilitating meaningful networking while strengthening relationships between the organisations.
-
-...
-
-[Data](articles/20ef9ed2.json)
-
-[Extended Data](ext_articles/20ef9ed2.ext.json)
 
 ---

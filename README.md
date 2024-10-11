@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 17:08:19**
+As of **2024-10-11 17:23:03**
 
 ## Newspaper Stats
 
-*Scraped **48,991** Articles*
+*Scraped **48,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,144 @@ adalk | 4,553
 dailymirrorlk | 4,733
 adaderanalk | 5,789
 tamilmirrorlk | 6,653
-virakesarilk | 7,828
+virakesarilk | 7,836
 adaderanasinhalalk | 8,473
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,991 (100.0%) of 48,991 articles have been extended.
+48,998 (100.0%) of 48,999 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### People Selvan 'Vijay Sethupathi's first look of' Extreme '
+
+*2024-10-11 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/196054) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Vijay Sethupathi's "Extreme" first look released. Starring Rakshitha Mahalakshmi, directed by Rajavel Krishna. Music by S. Raj Pratap. Shooting completed, post-production ongoing. Fans praise Rakshitha's appearance and Abhi Star's meaningful view.
+
+🟩
+
+The first look of 'Extreme', starring actress Rakshitha Mahalakshmi, has been released by the film 'Extreme'.
+
+Vijay Sethupathi posted this on his web page and congratulated the film crew.
+
+Rakshita Mahalakshmi, Anand Nak, Abhi Star, Shivam and many others have starred in the film 'Extreme' directed by director Rajavel Krishna.
+
+DJ Bala has recorded the film. S.. Raj Pratap has composed the music.
+
+The film was made on behalf of Seiger Pictures Company. Kamala Kumari and my. Rajkumar has co -produced.
+
+The shooting of the film is completed and the post -shooting technical work is currently underway.
+
+In this case, the first look of the film has been released. The appearance of actress Rakshitha Mahalakshmi and the meaningful view of Abhi star attracted fans.
+
+◼️
+
+[Data](articles/5e9390c1.json)
+
+[Extended Data](ext_articles/5e9390c1.ext.json)
+
+---
+
+### Ban is an Indian film 'Maha Kali'
+
+*2024-10-11 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196047) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Indian film "Maha Kali" announced by director Prashant Verma. Starring Sri Nagendra Thangala, produced by RKT Studios and Rizwan Ramesh Dukkal. Poster features young woman with tiger, attracting millions online. Story set in Bengal state, comparing woman's mental strength to tiger's heroism.
+
+🟩
+
+Director Prashant Verma, who directed the film 'Hanu-Man', has been a hugely successful film in India, and has published an official announcement that the story of the heroine of the heroic story is titled 'Maha Kali'.
+
+The film crew has said that the details of the actors and actresses who are starring in the upcoming film 'Maha Kali' will be released soon.
+
+Sri Nagendra Thangala is working as a producer for the film for the film Smaran Sai.
+
+The film is being produced by RKT Studios, producer Rizwan Ramesh Dukkal. RK Tuluk offers this film.
+
+படத்தை பற்றிய அதிகாரப்பூர்வமான அறிவிப்புடன் வெளியாகி இருக்கும் பிரத்யேக போஸ்டரில் இளம் பெண் ஒருவர் புலியுடன் சினேகம் பாராட்டுவது போல் வடிவமைக்கப்பட்டிருப்பது பார்வையாளர்களை வெகுவாக கவர்ந்திருக்கிறது.
+
+The film's story has been created in the context of the film 'Bengal state of India.
+
+...
+
+[Data](articles/9306fc33.json)
+
+[Extended Data](ext_articles/9306fc33.ext.json)
+
+---
+
+### The first song of 'Laven' released by Kamal Haasan
+
+*2024-10-11 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196053) · `ta`
+
+Kamal Haasan releases first song from 'Laven'. Directed by Lokesh Ajils, featuring Naveen Chandra and Riya Hari. Music by Iman, lyrics by Lokesh Ajils and Sruthihasan.
+
+🟩
+
+Telugu star Naveen Chandra, the first song, has been released in the film 'Eleven', which is the leading star starring Telugu fans and the lyrical video for the song.
+
+Kamal Haasan posted this on his web page and congratulated the film crew.
+
+Directed by debutant director Lokesh Ajils, Naveen Chandra, Riya Hari, Shasang, Ravi Verma, Keerthi Tama Raju, Abirami, 'Aadukalam' Narain, Dileepan, Rithvika, Arjay and many others.
+
+Karthik Asokan has recorded the cinematography. Iman has composed music.
+
+The film is co -produced by producers Ajmal Khan and Riya Hari on behalf of AR Entertainment film company.
+
+All the tasks of the film are completed and waiting for the release. In this case, the first song, which is titled 'The Devil Is Waiting', has been released in the English language and the lyrical video for the song.
+
+The song is written by director and songwriter Lokesh Ajils, actress and playback singer Sruthihasan.
+
+...
+
+[Data](articles/bf85c193.json)
+
+[Extended Data](ext_articles/bf85c193.ext.json)
+
+---
+
+### Ashok Selvan starrer 'I Naiyam Nayan's Romance'
+
+*2024-10-11 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196050) · `ta`
+
+"I Naiyam Nayan's Romance" starring Ashok Selvan releases Nov 15. Directed by Ganesh Chandra, music by Prasanna. Cast includes Avantika Mishra, Urvasi, Bhaskar. Produced by Tirumala. Comedy romance genre.
+
+🟩
+
+Ashok Selvan, the star actor who raises his business in the film industry, digital site, television, and television, has been officially announced on the release date of the film 'I'
+
+Ashok Selvan, Avantika Mishra, Urvasi, beauty Perumal M. S.. Bhaskar, Baks Bhagwati Perumal, Badawa Gopi, Vijay Varadaraj and many others have been cast.
+
+Ganesh Chandra has recorded the film for this movie. Prasanna has composed the music.
+
+Producer M.. He has produced Tirumala.
+
+The film, which is being completed and waiting for the release of all the work, has been released by over a million visitors.
+
+As a result of this, the film is expected to be released at the film palace worldwide on November 15.
+
+Meanwhile, the film has a critical and grossing film 'Blue Star', which was released earlier this year, and the film has supported the filmmakers and the film has been in love and comedy.
+
+◼️
+
+[Data](articles/b32e6d43.json)
+
+[Extended Data](ext_articles/b32e6d43.ext.json)
+
+---
 
 ### National List of New Democratic Front
 
@@ -102,6 +228,10 @@ Company CEO, IT Engineer, Member of Policy Making Committee on IT
 
 Former Member of Parliament, NPP National Executive Member, Jaffna District Organiser
 
+Former Member of Parliament, Convener of the National Center for Free Trade Zone Workers
+
+General Secretary of CEB Workers Union, National Trade Union Centre – National Committee Member
+
 ◼️
 
 [Data](articles/51137954.json)
@@ -136,6 +266,14 @@ Samaagi Janabala Jathika Layistu: List includes former MPs, university professor
 
 *2024-10-11 16:10:12* · [`adalk`](https://www.ada.lk/breaking_news/ආරංචිය-සුභයි-අනුර-විශ්‍රාමිකයන්ට-දුන්නු/11-412445) · `si`
 
+Here's a summary of the text in approximately 200 characters:
+
+
+
+President Anura Kumara Dissanayake announces increased monthly allowances for pensioners, starting next week. The amount will be Rs. 3,000 per month.
+
+🟩
+
 President Anura Kumara Dissanayake has instructed the money for all pensioners to be given the monthly allowance of Rs. 3,000 from the next week.
 
 The interim allowance of Rs.
@@ -168,6 +306,32 @@ Despite the circular No. 02/2024 dated 2024/08/24 issued by the Public Administr
 
 ---
 
+### Bicycle - Motorcycle collided face -to -face;One kills!
+
+*2024-10-11 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196044) · `ta`
+
+Bicycle-Motorcycle collision: 96-year-old killed. Police investigation ongoing. Driver arrested.
+
+🟩
+
+Police said the driver of the bicycle and a motorcycle collided head -on, police said yesterday (10).
+
+The deceased is a 96 -year -old resident of Pandukapayapura, Anuradhapura.
+
+The accident occurred in the opposite direction of a motorcycle that was traveling in the opposite direction of the bicycle traveling from Anuradhapura to Pandukabayapura area on the left side of the Koneva junction on the Anuradhapura - Jaffna main road.
+
+The driver of the bicycle and motorcycle drivers who were injured in the accident were admitted to the Rambawewa Hospital, police said.
+
+The body has been placed in the Rambewa Hospital in the funeral room and the motorcycle driver has been arrested in connection with the accident.
+
+◼️
+
+[Data](articles/421b3e6e.json)
+
+[Extended Data](ext_articles/421b3e6e.ext.json)
+
+---
+
 ### Nobel Peace Prize for survivors from nuclear bomb
 
 *2024-10-11 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202068) · `si`
@@ -185,6 +349,32 @@ The Nobel Committee said that the Nobel Peace Prize was awarded this year for th
 [Data](articles/15a4d226.json)
 
 [Extended Data](ext_articles/15a4d226.ext.json)
+
+---
+
+### It is disappointing that the Sri Lankan government has decided to continue the policies of the past and to oppose the mechanism of collecting evidence-
+
+*2024-10-11 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196045) · `ta`
+
+Sri Lankan government continues past policies, opposes evidence collection. UN Human Rights Council passes resolution focusing on Sri Lanka's human rights concerns. Civil society and international organizations request continued engagement. New government's stance raises doubts about addressing human rights violations. Resolution emphasizes need for meaningful improvements in justice and cooperation with UN mechanisms.
+
+🟩
+
+Babu Ram Bund, Deputy Regional Director of the Amnesty International, said that the new government of Sri Lanka is disappointed that the decision to continue the policies of the past and to oppose the evidence of evidence is disappointing.
+
+The United Nations Human Rights Council has passed the resolution on Sri Lanka, emphasizing the need for the international community to continue to focus on human rights concern in Sri Lanka.
+
+It is frustrating to support the support of the new resolution to support the responsibility of the new resolution.
+
+The civil society and international organizations have requested the decree for two years.
+
+As a country that will be held in the next month of the presidential election, it is necessary to liberate Sri Lanka from the past and maintain the best involvement with the United Nations Human Rights Council and the United Nations Human Rights Commissioner's Office.
+
+...
+
+[Data](articles/a1ae3d13.json)
+
+[Extended Data](ext_articles/a1ae3d13.ext.json)
 
 ---
 
@@ -327,6 +517,38 @@ António Guterres, Secretary-General of the United Nations, called the attack �
 [Data](articles/3e9887d7.json)
 
 [Extended Data](ext_articles/3e9887d7.ext.json)
+
+---
+
+### The new government should carry out investigations into war allegations;Even political leaders are unable to go abroad - the President of the Sri Lanka Attorney General
+
+*2024-10-11 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/196031) · `ta`
+
+Here's a 200-character summary:
+
+
+
+New Sri Lankan government urged to investigate war allegations. Political leaders restricted from foreign travel due to unresolved UN tribunal issues. Experts recommend local courts handle cases to boost international credibility.
+
+🟩
+
+President of the Sri Lanka Lawyers Association, President's Attorney General Anumathegoda says that political leaders will be unable to make foreign trips if they are not investigating war crimes.
+
+Question;Sri Lanka faces war allegations in Geneva every year-where do you think we failed by finding a fully solution to the problem on the basis of the Hack Tribunal of the United Nations?What should we do?
+
+Answer;After working at the Attorney General's Department of Sri Lanka, I joined the United Nations International Criminal Tribunal in the Hague.
+
+The Tribunal was established to investigate those responsible for the war crimes in the previous Yugoslovia and international law.
+
+Many of you know that the war broke out in 1990 - 91 during the President Sloopatan Milosevic during Yogosovia.
+
+After the death of President Tito, the Icosolovian Federation scattered many pieces and clashes between them.
+
+...
+
+[Data](articles/618e6240.json)
+
+[Extended Data](ext_articles/618e6240.ext.json)
 
 ---
 
@@ -627,6 +849,22 @@ Damita Abeyratne had announced yesterday (10) that she will contest the General 
 [Data](articles/c5121790.json)
 
 [Extended Data](ext_articles/c5121790.ext.json)
+
+---
+
+### முன்னாள் பிரதி அமைச்சர் டபிள்யூ.பி. ஏக்கநாயக்க காலமானார்
+
+*2024-10-11 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196017) · `ta`
+
+அநுராதபுரம் மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினரும் பிரதி அமைச்சருமான டபிள்யூ.பி. ஏக்கநாயக்க தனது 76வது வயதில் காலமானார்.
+
+நேற்று வியாழக்கிழமை (10) ஏக்கநாயக்க  அவரது  வீட்டின் குளியலறையில் சடலமாக மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+முதற்கட்ட விசாரணையில், அவர் வீட்டில் தனியாக வசித்து வந்ததாகவும், மாரடைப்பு ஏற்பட்டு உயிரிழந்துள்ளதாகவும் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/ea4e7236.json)
 
 ---
 
@@ -2089,163 +2327,5 @@ The Ambassador’s agenda included high-level meetings with the Västra Götalan
 [Data](articles/ecf54716.json)
 
 [Extended Data](ext_articles/ecf54716.ext.json)
-
----
-
-### Harsha Jayatunga appointed Executive Director/CEO at Sierra Cables
-
-*2024-10-11 06:35:34* · [`dailyftlk`](https://www.ft.lk/news/Harsha-Jayatunga-appointed-Executive-Director-CEO-at-Sierra-Cables/56-767823) · `en`
-
-Sierra Cables PLC has recently announced the appointment of Harsha Jayatunga as Executive Director/CEO.
-
-This significant milestone recognises his instrumental role in the company’s growth and continued success since he first joined Sierra Cables in 2019.
-
-Having served as the Chief Executive Officer since July 2020, Jayatunga has led the company through an era of rapid transformation, driving significant advancements in both local and international markets. Under his leadership, Sierra Cables has not only enhanced its operational efficiency but also expanded its market presence in strategic international markets.
-
-...
-
-[Data](articles/0efeea88.json)
-
-[Extended Data](ext_articles/0efeea88.ext.json)
-
----
-
-### Harsha Jayatunga appointed Executive Director/CEO at Sierra Cables
-
-*2024-10-11 06:35:34* · [`dailyftlk`](https://www.ft.lk/business/Harsha-Jayatunga-appointed-Executive-Director-CEO-at-Sierra-Cables/34-767823) · `en`
-
-Sierra Cables PLC has recently announced the appointment of Harsha Jayatunga as Executive Director/CEO.
-
-This significant milestone recognises his instrumental role in the company’s growth and continued success since he first joined Sierra Cables in 2019.
-
-Having served as the Chief Executive Officer since July 2020, Jayatunga has led the company through an era of rapid transformation, driving significant advancements in both local and international markets. Under his leadership, Sierra Cables has not only enhanced its operational efficiency but also expanded its market presence in strategic international markets.
-
-...
-
-[Data](articles/64142834.json)
-
-[Extended Data](ext_articles/64142834.ext.json)
-
----
-
-### Sri Lanka-Canada Business Council calls on PM Dr. Harini
-
-*2024-10-11 06:34:25* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Canada-Business-Council-calls-on-PM-Dr-Harini/34-767822) · `en`
-
-The Sri Lanka-Canada Business Council (SLCBC) delegates recently held a pivotal briefing session with the Prime Minister Harini Amarasuriya, ahead of their official mission to Canada.
-
-This strategic meeting, which took place in Colombo, was centred around the Council’s upcoming efforts to foster stronger economic, trade, and investment relations between Sri Lanka and Canada.
-
-The SLCBC delegation provided a comprehensive overview of their objectives, focusing on promoting sustainable growth, identifying new trade opportunities, and encouraging foreign direct investment. They also shared insights into planned meetings with Canadian business leaders, government officials, and key stakeholders during their visit.
-
-...
-
-[Data](articles/1eac277f.json)
-
-[Extended Data](ext_articles/1eac277f.ext.json)
-
----
-
-### Sri Lanka-Canada Business Council calls on PM Dr. Harini
-
-*2024-10-11 06:34:25* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Canada-Business-Council-calls-on-PM-Dr-Harini/56-767822) · `en`
-
-The Sri Lanka-Canada Business Council (SLCBC) delegates recently held a pivotal briefing session with the Prime Minister Harini Amarasuriya, ahead of their official mission to Canada.
-
-This strategic meeting, which took place in Colombo, was centred around the Council’s upcoming efforts to foster stronger economic, trade, and investment relations between Sri Lanka and Canada.
-
-The SLCBC delegation provided a comprehensive overview of their objectives, focusing on promoting sustainable growth, identifying new trade opportunities, and encouraging foreign direct investment. They also shared insights into planned meetings with Canadian business leaders, government officials, and key stakeholders during their visit.
-
-...
-
-[Data](articles/bd632555.json)
-
-[Extended Data](ext_articles/bd632555.ext.json)
-
----
-
-### Pakistan High Commissioner - President Meeting
-
-*2024-10-11 06:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாகிஸ்தான்-உயர்ஸ்தானிகர்-ஜனாதிபதி-சந்திப்பு/175-345255) · `ta`
-
-Pakistan High Commissioner meets Sri Lankan President. Expresses congratulations and commitment to strengthening bilateral ties. Recalls long-standing friendship between countries. Hands over special congratulatory message.
-
-🟩
-
-Pakistani High Commissioner to Sri Lanka Major General (Retired) Bahim -ul -Aziz Hi met with President Anurakumara Dissanayake at the Presidential Office yesterday.
-
-The Pakistani High Commissioner also expressed his sincere congratulations to the president who won the last presidential election and urged Pakistan's commitment to strengthen relations with Sri Lanka.
-
-Pakistani High Commissioner, who recalled the long -term relationship between Sri Lanka and Pakistan, handed over a special congratulations to President Azib Ali Sardari to President Anura Kumara Dissanayake.. (A)
-
-◼️
-
-[Data](articles/1526bc67.json)
-
-[Extended Data](ext_articles/1526bc67.ext.json)
-
----
-
-### Today is 150 mm of big rain
-
-*2024-10-11 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202046) · `si`
-
-Heavy rain warning: 150mm expected in SW sections. Thunderstorms forecasted in Western, Sabaragamuwa, Southern, NW & Central provinces. Strong winds possible. Public advised to prepare for potential damage from lightning and wind.
-
-🟩
-
-Due to the prevailing atmosphere in the island, the existing rain condition is still expected of the island's southwest section.
-
-According to the latest announcement that had been issued at times of Western, Sabaragamuwa, Southern, Southern, Southern, Southern, North Western and Central provinces.
-
-Mm in the Western and Sabaragamuwa Province and in the Galle and Matara districts. Showers may occur at more than 150.
-
-Thundershowers will develop at several places in the evening or night in the evening of the island.
-
-Western, Sabaragamuwa, Southern, Southern, North Western and Central provinces. Strong winds can also cause over 40,000.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/f51b0943.json)
-
-[Extended Data](ext_articles/f51b0943.ext.json)
-
----
-
-### Lankan envoy holds talks with Thai Chamber of Commerce and Board of Trade of Thailand
-
-*2024-10-11 06:30:53* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-holds-talks-with-Thai-Chamber-of-Commerce-and-Board-of-Trade-of-Thailand/56-767821) · `en`
-
-Ambassador of Sri Lanka to Thailand Wijayanthi Edirisinghe held a productive discussion with the Chairman of the Thai Chamber of Commerce and Board of Trade of Thailand Sanan Angubolkul, on 1 October 2024.
-
-The discussion focused on enhancing the long-standing relationship between Sri Lanka and Thailand, particularly in the areas of trade, investment and tourism.
-
-During the meeting, Ambassador Edirisinghe highlighted the existing strong bilateral relationships and emphasized the importance of the Sri Lanka-Thailand Free Trade Agreement, set to take effect from 1 January 2025, as a key initiative to further strengthen economic cooperation. She invited Chairman Angubolkul to lead an investment delegation to Sri Lanka to explore the abundant opportunities available in the country.
-
-...
-
-[Data](articles/789f07a8.json)
-
-[Extended Data](ext_articles/789f07a8.ext.json)
-
----
-
-### Lankan envoy holds talks with Thai Chamber of Commerce and Board of Trade of Thailand
-
-*2024-10-11 06:30:53* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-holds-talks-with-Thai-Chamber-of-Commerce-and-Board-of-Trade-of-Thailand/34-767821) · `en`
-
-Ambassador of Sri Lanka to Thailand Wijayanthi Edirisinghe held a productive discussion with the Chairman of the Thai Chamber of Commerce and Board of Trade of Thailand Sanan Angubolkul, on 1 October 2024.
-
-The discussion focused on enhancing the long-standing relationship between Sri Lanka and Thailand, particularly in the areas of trade, investment and tourism.
-
-During the meeting, Ambassador Edirisinghe highlighted the existing strong bilateral relationships and emphasized the importance of the Sri Lanka-Thailand Free Trade Agreement, set to take effect from 1 January 2025, as a key initiative to further strengthen economic cooperation. She invited Chairman Angubolkul to lead an investment delegation to Sri Lanka to explore the abundant opportunities available in the country.
-
-...
-
-[Data](articles/7dd616de.json)
-
-[Extended Data](ext_articles/7dd616de.ext.json)
 
 ---

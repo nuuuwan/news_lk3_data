@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 08:22:04**
+As of **2024-10-11 08:37:06**
 
 ## Newspaper Stats
 
-*Scraped **48,900** Articles*
+*Scraped **48,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,91 @@ colombotelegraphcom | 486
 bbccomsinhala | 486
 islandlk | 2,895
 economynextcom | 3,000
-dailyftlk | 3,317
+dailyftlk | 3,319
 adalk | 4,541
 dailymirrorlk | 4,733
 adaderanalk | 5,772
 tamilmirrorlk | 6,638
 virakesarilk | 7,818
-adaderanasinhalalk | 8,451
+adaderanasinhalalk | 8,456
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,885 (100.0%) of 48,900 articles have been extended.
+48,885 (100.0%) of 48,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### හයිලෙවල් මාර්ගයේ කොටසක් ජලයෙන් යටවෙයි
+
+*2024-10-11 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202051) · `si`
+
+මේ වනවිට පවතින වැසි තත්ත්වය හේතුවෙන් කොළඹ අවිස්සාවේල්ල හයිලෙවල් මාර්ගය ඇස්වත්ත හංදිය සිට හිගුරල හංදිය දක්වා ප්‍රදේශය ජලයෙන් යටවී ඇත.
+
+පොලීසිය සඳහන් කරන්නේ ඒ හේතුවෙන් එම මාර්ගයේ ගමනාගමනයට බාධා එල්ලවී ඇති බවය.
+
+◼️
+
+[Data](articles/c8f93b9f.json)
+
+---
+
+### මහ ඡන්දෙට නාමයෝජනා භාරගැනීම අදින් අවසන්
+
+*2024-10-11 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202050) · `si`
+
+2024 මහ මැතිවරණයට අදාළව නාමයෝජනා භාරගැනීමේ කටයුතු අද මධ්‍යහන 12න් අවසන් වීමට නියමිතව තිබේ.
+
+ඊට අදාළ විරෝධතා ගොනුකිරීම සඳහා පස්වරු 1:30 දක්වා කාලය ලබාදී ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+මෙවර මහ මැතිවරණය සඳහා ස්වාධීන කණ්ඩායම් 349ක් ඇප මුදල් තැන්පත් කර තිබේ.
+
+එමෙන්ම, දේශපාලන පක්ෂ 147ක් සහ ස්වාධීන කණ්ඩායම් 94ක් ඊයේ දිනය වනවිට නාමයෝජනා භාරදී ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+මැතිවරණ වියදම් නියාමන පනතට අනුව මහ මැතිවරණයට අදාළව එක් එක් අපේක්ෂකයින් විසින් වියදම් කළ යුතු මුදල් ප්‍රමාණය පිළිබඳව ඉදිරියේදී දැනුම්වත් කරන බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පැවසීය.
+
+නාමයෝජනා භාරදීම සිදුකරනු ලබන කාලසීමාව තුළ දිවයින පුරා පිහිටි සියලු දිස්ත්‍රික් ලේකම් කාර්යාල ආශ්‍රිතව සහ රාජගිරියේ පිහිටි මැතිවරණ කොමිෂන් සභා කාර්යාලය අවට විශේෂ ආරක්ෂක වැඩපිළිවෙලක් යොදවා ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා පැවසීය.
+
+...
+
+[Data](articles/daa682fd.json)
+
+---
+
+### US gifts advanced aircraft to strengthen SL’s maritime security
+
+*2024-10-11 08:01:42* · [`dailyftlk`](https://www.ft.lk/news/US-gifts-advanced-aircraft-to-strengthen-SL-s-maritime-security/56-767848) · `en`
+
+Beechcraft King Air 360ER receives water salute at official handover ceremony to the Sri Lanka Air Force
+
+US Navy Admiral Steve Koehler and Sri Lanka Air Force Commander Air Marshal Udeni Rajapaksa sign the ceremonial handover document as US Ambassador Julie Chung looks on
+
+US Navy Admiral Steve Koehler, Commander, US Pacific Fleet yesterday officially handed over a Beechcraft King Air 360ER aircraft, gifted by the United States, to the Sri Lanka Air Force (SLAF).
+
+...
+
+[Data](articles/e922fefc.json)
+
+---
+
+### Pakistan High Commissioner discusses deeply valued ties with President Dissanayake
+
+*2024-10-11 07:59:21* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-High-Commissioner-discusses-deeply-valued-ties-with-President-Dissanayake/56-767847) · `en`
+
+Pakistan’s High Commissioner Maj. Gen. Faheem Ul Aziz yesterday met with President Anura Kumara Dissanayake.
+
+High Commissioner Aziz extended his congratulations to President Dissanayake on his recent election victory and conveyed Pakistan’s commitment to strengthening its partnership with Sri Lanka.
+
+As part of the meeting, High Commissioner Aziz delivered a letter of congratulations from Pakistani President Asif Ali Zardari, who emphasised the deep ties between the two nations. “Pakistan deeply values its close relations with Sri Lanka. Our bilateral cooperation is rooted in shared values of democracy, pluralism, rule of law, mutual understanding, and respect. I look forward to working closely with you for further strengthening the bilateral relations for the mutual benefit of our two peoples,” President Zardari stated.
+
+...
+
+[Data](articles/648bc4c0.json)
+
+---
 
 ### The nomination process is completed today
 
@@ -111,6 +179,26 @@ The Department of Meteorology has also warned that rainfall with temporary stron
 [Data](articles/9f63a58a.json)
 
 [Extended Data](ext_articles/9f63a58a.ext.json)
+
+---
+
+### වැඩිම වැස්ස හංවැල්ලට - දිස්ත්‍රික්ක 9කට නායයෑම් අනතුරු ඇඟවීමක්
+
+*2024-10-11 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202049) · `si`
+
+දිවයින ආශ්‍රිත වායුගොලයේ වර්ධනය වන කැලඹිලි ස්වභාවයක් හේතුවෙන් දැනට පවතින වැසි තත්ත්වය තවදුරටත් බලාපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පැවසීය.
+
+ඒ අනුව, ඊයේ (10) පෙරවරු 8.30 සිට අද (11) අළුයම 2.30 දක්වා කාලය තුළ වැඩිම වර්ෂාපතනය කොළඹ දිස්ත්‍රික්කයේ හංවැල්ල ප්‍රදේශයෙන් වාර්තාවී ඇති අතර එය මිලිමීටර 196.5කි.
+
+ගම්පහ දිවුලපිටිය ප්‍රදේශයට මිලිමීටර් 173.5ක වර්ෂාපතනයක්ද, කළුතර වොගන් වතුයාය ප්‍රදේශයට මීලිමීටර් 163.5ක වර්ෂාපතනයක් ද ලැබී තිබේ.
+
+මේ අතර, ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් දිස්ත්‍රික්ක 9ක් සඳහා නායයැමේ අනතුරු ඇඟවීමේ නිවේදන නිකුත්කර තිබේ.
+
+ගාල්ල, කළුතර, කෑගල්ල යන දිස්ත්‍රික්ක සඳහා අදියර 2 යටතේ අනතුරු ඇඟවීමේ නිවේදන නිකුත්කර ඇති අතර, බදුල්ල, කොළඹ, ගම්පහ, මාතර, නුවරඑළිය සහ රත්නපුර, යන දිස්ත්‍රික්ක සඳහා අදියර 01 යටතේ අනතුරු ඇඟවීමේ නිවේදන නිකුත් කර ඇති බව වාර්තා විය.
+
+◼️
+
+[Data](articles/87e6140e.json)
 
 ---
 
@@ -250,6 +338,22 @@ In a message of support from President Erdoğan, it stated: “On behalf of myse
 
 ---
 
+### වැලිපැන්න අන්තර් හුවමාරුව තාවකාලිකව වසා දමයි
+
+*2024-10-11 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202048) · `si`
+
+සුළු ගංවතුර තත්ත්වයක් හේතුවෙන් දක්ෂිණ අධිවේගී මාර්ගයේ වැලිපැන්න අන්තර් හුවමාරුව තාවකාලිකව වසා දැමීමට පියවර ගෙන තිබේ.
+
+මාර්ග සංවර්ධන අධිකාරිය සඳහන් කළේ වැලිපැන්න අන්තර් හුවමාරුවේ පිටවීමේ සහ ඇතුල්වීමේ මාර්ග මේ වනවිට සම්පූර්ණයෙන් ජලයෙන් යටවී ඇති බවය.
+
+ඒ අනුව අදාළ අන්තර් හුවමාරුවෙන් දක්ෂිණ අධිවේගී මාර්ගයට රථවාහන ඇතුල්කිරීම සහ පිටවීම නතර කර තිබේ.
+
+◼️
+
+[Data](articles/171908de.json)
+
+---
+
 ### Patali’s URF steps back from 2024 election amid dispute with SJB
 
 *2024-10-11 07:11:51* · [`dailyftlk`](https://www.ft.lk/news/Patali-s-URF-steps-back-from-2024-election-amid-dispute-with-SJB/56-767828) · `en`
@@ -325,6 +429,22 @@ Admiral Koehler pledged the US commitment to supporting Sri Lanka in combating t
 [Data](articles/ff321684.json)
 
 [Extended Data](ext_articles/ff321684.ext.json)
+
+---
+
+### රජයේ වාහන ගැන විශේෂ හෙළිදරව්වක්
+
+*2024-10-11 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202047) · `si`
+
+රජයේ නිලධාරීන් පරිහරණය කරන නිල වාහන නිසියාකාරව නඩත්තු කිරීම සම්බන්ධයෙන් ගැටලු රැසක් පවතින බව හිටපු විගණකාධිපති ගාමිණී විජේසිංහ මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ වසර පහකින් වාහන මාරු කිරීම වෙනුවට ඒවා නඩත්තුව සම්බන්ධයෙන් වැඩපිළිවෙළක් සකස් කළ යුතු බවය.
+
+දෙරණ REBUILD SRI LANKA වැඩසටහනේදී අනාවරණ වූයේ රජයට අයත් සමස්ත වාහන අනූදහසකින් හාරදහසකට අධික ප්‍රමාණයක් ධාවනයට නුසුදුසු තත්ත්වයේ පවතින බවය.
+
+◼️
+
+[Data](articles/a7835551.json)
 
 ---
 
@@ -2021,165 +2141,5 @@ Subsequent discussions between Admiral Stephen T. Koehler and Vice Admiral Priya
 [Data](articles/eae05c10.json)
 
 [Extended Data](ext_articles/eae05c10.ext.json)
-
----
-
-### Hunter - Movie Review
-
-*2024-10-10 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195954) · `ta`
-
-Here's a 200-character summary of the movie review:
-
-
-
-"Vettayan" stars Rajinikanth as a police officer battling drug gangs and corruption. Action-packed but lacks depth, with Rajinikanth overshadowing other actors. Director's vision not fully realized due to Rajinikanth's iconic status. Music and cinematography notable highlights. Overall, an average thriller with potential unfulfilled.
-
-🟩
-
-Actors: Super Star Rajinikanth, Amithappachan, Bhagat Basil, Rana Dagupati, Manju Warrior, Dushara Vijayan, Rithika Singh, Kishore and many others.
-
-'Jai Bhim', the director's film, 'Jai Bhim', the film 'Jai Bhim', the film 'Jai Bhim', the film 'Jaiyar'Did the movie meet the expectations of the fans?Or not?We will continue to see.
-
-Super Star Rajinikanth is working as a police officer in one of the southern part of Tamil Nadu.
-
-Her task and style is to find the guilty of anti -social activities and create witnesses necessary for the law and destroy them through the encounter.
-
-Teacher Tushara Vijayan complains that a gang of drugs at this moment are hiding drugs and not allowed to enter the classroom.
-
-Seeing this, Rajinikanth, a high -ranking police officer, ordered his professional loyalist Bhagat Basil to investigate the truth of the complaint.
-
-...
-
-[Data](articles/6ff97bb1.json)
-
-[Extended Data](ext_articles/6ff97bb1.ext.json)
-
----
-
-### Mother and daughter who tried to save life rescue by train driver
-
-*2024-10-10 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195935) · `ta`
-
-Train driver saves mother-daughter duo from tracks near Avissawela. Driver spots them on rails, stops train, rescues pair. Both injured, hospitalized.
-
-🟩
-
-The driver of the train has rescued a young mother and a three -year -old daughter who tried to put his head on the rails between the Hikurala and Miriswatta railway stations, Avissawala.
-
-The young mother has tried to put her head on the railway track with her three -year -old daughter.
-
-The driver of the train traveling from Avissawella to Colombo Fort has observed the young mother and daughter on the rails.
-
-Following this, the driver of the train stopped the train under the speed control and saved the young mother and daughter.
-
-The young mother and daughter have been taken to the Avissawella Base Hospital with 119 Ambulance Service, while the young mother and daughter have been injured.
-
-◼️
-
-[Data](articles/e47be58d.json)
-
-[Extended Data](ext_articles/e47be58d.ext.json)
-
----
-
-### Overseas travel ban imposed on ex-MP Johnston Fernando
-
-*2024-10-10 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102591/overseas-travel-ban-imposed-on-ex-mp-johnston-fernando) · `en`
-
-The Colombo Fort Magistrate’s Court has imposed an overseas travel ban on former Member of Parliament Johnston Fernando today (10).
-
-The travel ban has been imposed over allegations of possessing an illegally assembled luxury vehicle, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/e6163d90.json)
-
-[Extended Data](ext_articles/e6163d90.ext.json)
-
----
-
-### Semasinghe ‘dissapointed’ by Prez Poll result; decides not to contest Parliamentary Election
-
-*2024-10-10 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102590/semasinghe-dissapointed-by-prez-poll-result-decides-not-to-contest-parliamentary-election) · `en`
-
-Former Minister of State for Finance Shehan Semasinghe has announced that he will not be contesting in the upcoming parliamentary elections.
-
-Issuing a statement, Semasinghe reflected on the country’s economic challenges over the past year and his dedication to rebuilding the economy alongside former President Ranil Wickremesinghe, following the economic collapse.
-
-Semasinghe expressed his belief that once the country and its economy stabilize, the public would begin to appreciate the efforts and sacrifices made during the recovery process. He stated that the benefits of these efforts would ultimately reach the people, allowing them to better understand the trajectory of the country’s economic recovery.
-
-...
-
-[Data](articles/c6089c38.json)
-
-[Extended Data](ext_articles/c6089c38.ext.json)
-
----
-
-### Prime Minister stamps to Minister Vijitha
-
-*2024-10-10 15:22:46* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිනිට--ඇමති-විජිතට-මුද්දර-ගහලද--/11-412423) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Department of Posts clarifies: Souvenir gifts from PM Harini Amarasuriya & Minister Vijitha Herath for World Post-Day celebrations are not official stamps."
-
-🟩
-
-The Department of Posts has issued a statement regarding the souvenirs given by Prime Minister Harini Amarasuriya and Minister Vijitha Herath at the World Post-Days National Celebrations yesterday.
-
-This is just a souvenir gift and has not been issued by the Minister of Prime Minister or Vijitha Herath for the World Post Day.
-
-◼️
-
-[Data](articles/490fc513.json)
-
-[Extended Data](ext_articles/490fc513.ext.json)
-
----
-
-### More than 3 million without power as Hurricane Milton slams Florida, causes deaths and flooding
-
-*2024-10-10 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102589/more-than-3-million-without-power-as-hurricane-milton-slams-florida-causes-deaths-and-flooding) · `en`
-
-Hurricane Milton churned across Florida on Thursday after plowing into the state as a Category 3 storm, bringing misery to a coast still ravaged by Helene, pounding cities with winds of over 100 mph (160 kph) after producing a barrage of tornadoes, but sparing Tampa a direct hit.
-
-The storm tracked to the south in the final hours and made landfall Wednesday night in Siesta Key near Sarasota, about 70 miles (112 kilometers) south of Tampa. The situation in the Tampa area was still a major emergency as St. Petersburg recorded over 16 inches (41 centimeters) of rain, prompting the National Weather Service to warn of flash flooding there as well as other parts of western and central Florida.
-
-...
-
-[Data](articles/eefac084.json)
-
-[Extended Data](ext_articles/eefac084.ext.json)
-
----
-
-### Two lives will be saved due to the railway driver
-
-*2024-10-10 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202032) · `si`
-
-Train driver saves young mother and toddler near Avissawella. Incident occurred on Kelaniwalii railway line. Two survivors hospitalized, others slightly injured. Investigation ongoing regarding alleged personal motive behind incident.
-
-🟩
-
-The train driver has been able to save a young mother and a three-year-old daughter to save the survival of the railway line.
-
-The incident had taken place during the Kelaniwalii railway line Avissawella, Hinguralla and Miriswatta.
-
-The mother and daughter survived the survivor of the mother and daughter, two slightly injured.
-
-As a result, the two were rushed to the Avissawella Base Hospital in 1990 and they are currently receiving treatment at the hospital.
-
-Residents say that the railway stopped at Avissawella to Colombo Fort from the Higurawala to the Colombo Fort, due to the railway station, the residents said.
-
-Investigations have revealed that the railway line has been sleeping through the railway line with the objective of having a piercing the train with the daughter on a personal issue of the incident.
-
-◼️
-
-[Data](articles/c9b50d38.json)
-
-[Extended Data](ext_articles/c9b50d38.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 03:38:56**
+As of **2024-10-12 04:11:47**
 
 ## Newspaper Stats
 
-*Scraped **49,047** Articles*
+*Scraped **49,050** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
-colombotelegraphcom | 487
+colombotelegraphcom | 488
 bbccomsinhala | 489
 islandlk | 2,895
 economynextcom | 3,016
@@ -19,18 +19,70 @@ adalk | 4,556
 dailymirrorlk | 4,733
 adaderanalk | 5,793
 tamilmirrorlk | 6,662
-virakesarilk | 7,842
+virakesarilk | 7,844
 adaderanasinhalalk | 8,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,047 (100.0%) of 49,047 articles have been extended.
+49,050 (100.0%) of 49,050 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### It is wrong to think that the presidential election victory can be won in other elections - Eran Wickremaratne
+
+*2024-10-12 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196076) · `ta`
+
+Eran Wickremaratne: Presidential election victory doesn't guarantee future election wins. Party control of Parliament determines governance. Candidates must be chosen democratically, not imposed. Cooperation with proper government decisions is crucial.
+
+🟩
+
+It is wrong to think that if he wins the presidential election, you can win every election in the next election. Former parliamentarian Eran Wickramaratne said that this is not to choose the leadership faculty of whom to send parliament after the election results were released.
+
+He further stated at a press conference held at the United People's Power Office in Colombo on Friday (11).
+
+Most of the people are in the position that if they win the presidential election, the general election and the provincial council election can be won. This is a completely wrong position. The party that seizes the most seats in Parliament will rule. The majority of the parliament should be implemented to implement the budget.
+
+We hope that such a government can be formed by the United People's Alliance. In democratic countries, the president is elected from a party and a prime minister's party. This is often taken in the United States. Some parties tell the party to vote. Not talking about optional.
+
+...
+
+[Data](articles/955fd010.json)
+
+[Extended Data](ext_articles/955fd010.ext.json)
+
+---
+
+### 22 political parties and 27 independent groups competition in Batticaloa district
+
+*2024-10-12 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196075) · `ta`
+
+Batticaloa district election summary: 22 parties, 27 independent groups, 56 candidates nominated. 49 nominations accepted. 400,000+ voters, 442 polling stations. Election on Nov 14.
+
+🟩
+
+56 candidates, including independent committees in the Batticaloa district, have filed 56 nominations, including 7 independents, and 49 candidates, including 22 parties, 27 independents, and 392 candidates will contest.
+
+He was speaking at a press conference held on Friday (11) at the Old Concert Hall in Batticaloa.
+
+Four hundred and 49 thousand 686 people in the Batticaloa district are eligible to vote and 442 voting centers will be voted for the upcoming parliamentary elections on November 14.
+
+The nomination papers for the election were taken from October 4 to 11 pm.. Of these, 23 parties, 33 independent groups, were filed with 56 nominations
+
+One of these party, including a six independent committee, was rejected and 49 nominations were accepted, including 22 parties, 27 independent groups.
+
+Meanwhile, the district in the 2020 election;It is noteworthy that 16 parties and 304 candidates from 22 independents have contested for 5 representatives.
+
+◼️
+
+[Data](articles/8328a87e.json)
+
+[Extended Data](ext_articles/8328a87e.ext.json)
+
+---
 
 ### President directs officials to provide Rs. 3,000 monthly allowance to pensioners immediately
 
@@ -343,6 +395,26 @@ Former President Gotabhaya Rajapakse, former President Mahinda Rajapaksa, former
 [Data](articles/b84cd922.json)
 
 [Extended Data](ext_articles/b84cd922.ext.json)
+
+---
+
+### Can The NPP Ignite The Road To Prosperity In Sri Lanka?
+
+*2024-10-11 21:50:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/can-the-npp-ignite-the-road-to-prosperity-in-sri-lanka/) · `en`
+
+As Sri Lanka embarks on a transformative journey under the inspiring leadership of President Anura Kumara Dissanayake and the National People’s Power (NPP), a powerful wave of optimism sweeps across the nation. President Dissanayake’s inaugural address painted a compelling vision for a cleaner political landscape, robust democratic rights, and a strategic response to the country’s most pressing challenges. Acknowledging the complexities ahead, he called for collaboration with the business community and international partners to forge a brighter future.
+
+The new government steps into a landscape rife with challenges, yet these obstacles present fertile ground for meaningful reform. President Dissanayake has outlined vital priorities:
+
+* Economic Revitalisation: A commitment to address poverty and stimulate economic growth.
+
+* Political Reform: A fresh approach to fostering a new political culture transcending historical grievances.
+
+...
+
+[Data](articles/d2b7a5e8.json)
+
+[Extended Data](ext_articles/d2b7a5e8.ext.json)
 
 ---
 
@@ -2285,83 +2357,5 @@ Accordingly, the Department of Irrigation is informed that there is a flood in t
 [Data](articles/6bd9ef6f.json)
 
 [Extended Data](ext_articles/6bd9ef6f.ext.json)
-
----
-
-### Women abused by girls who went to a massage station
-
-*2024-10-11 10:26:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்-நிலையம்-சென்ற-சிறுமி-பெண்களால்-துஷ்பிரயோகம்/175-345269) · `ta`
-
-Two women arrested for alleged abuse of 15-year-old girl at unlicensed massage station in Kurunegala. Police investigating illegal massage operations. Case pending against officer for failing to regulate.
-
-🟩
-
-Kurunegala headquarters police have arrested two women for allegedly sexually abusing a 15 -year -old girl at a massage station in Kurunegala.
-
-The girls have been arrested following a complaint lodged by the parents of the student who was abused.
-
-The girl, who is studying in a mixed school in Kurunegala, has taken the girl to the massage station on the afternoon of the 9th.
-
-Police said the massage was not properly operated and that such massage companies were operating to provide sexual activities.
-
-There are more than 60 massage companies registered under the Company Act, not registered with the Ayurvedic Medical Council in Kurunegala.
-
-In addition, the case is pending in court against the Chief Inspector of Kurunegala Headquarters Tamma Sannak Koppe for taking steps to check such massage stations.. Remble
-
-◼️
-
-[Data](articles/01441ca4.json)
-
-[Extended Data](ext_articles/01441ca4.ext.json)
-
----
-
-### 18 injured after two buses collide on Colombo-Kandy road
-
-*2024-10-11 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102610/18-injured-after-two-buses-collide-on-colombo-kandy-road) · `en`
-
-Two buses have reportedly collided along the Colombo – Kandy main road this morning (11) resulting in injuries to at least 18 passengers.
-
-Accordingly, the accident had reportedly taken place at around 8.15 a.m. today in the Walakadayawa area in Uthuwankanda along the Colombo–Kandy road today.
-
-Both buses involved in the accident belong to the Sri Lanka Transport Board (SLTB).
-
-Kegalle Police stated that around 18 people were admitted to the Kegalle and Mawanella hospitals due to sustaining injuries from the accident.
-
-The incident occurred when a bus travelling from Panadura to Kandy crashed into the rear of another bus that was heading from Kegalle to Mawanella.
-
-Police suspect that the accident was caused by a technical fault with the bus arriving from Panadura which led to the driver losing control of the vehicle.
-
-◼️
-
-[Data](articles/7f65e2c8.json)
-
-[Extended Data](ext_articles/7f65e2c8.ext.json)
-
----
-
-### Rohini and Aluvihare clash in Matale nominations
-
-*2024-10-11 10:16:01* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-මාතලේ-නාම-යෝජනාවලට-රෝහිනී හා-අලුවිහාරේ-ගැටෙති/11-412441) · `si`
-
-Ranjanth Aluvihare accuses Rohini Wijeratne of blocking his nomination in Matale. He claims she refused to sign papers. Rohini denies influencing decisions, saying she only represents the main committee. Both sides express disappointment over candidate selection process.
-
-🟩
-
-Former State Minister Ranjith Aluviharare said that the nomination was signed as a nomination decision as the decision of the 11 days.
-
-Upon inquiry into the public minister that Ranjith Aluvihare is not contesting this year's general election, he said that the process of Mrs. Rohini Wijeratne was in refusing to sign the nomination.Signed.
-
-However, she said that he had not had any influence on the matter, but she represented the main committee to set up candidate lists in the Matale district.Mentioned.
-
-Mr. Ranjith Aluviore said that he was disappointed in the appointment of the candidates when setting up the names of the lists, however, they had now settled in the Matale district.He also noted that the proposals were ready to be delivered.
-
-Ms. Rohnani Wijeratne said that the brother of the Wasantha Wijeratne, who is in the area, is admitted to the Javi Wijeratne of the Vasantha Wijeratne in the Matale district.Mentioned.
-
-...
-
-[Data](articles/9d56df45.json)
-
-[Extended Data](ext_articles/9d56df45.ext.json)
 
 ---

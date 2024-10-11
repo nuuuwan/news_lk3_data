@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 13:23:14**
+As of **2024-10-11 13:39:37**
 
 ## Newspaper Stats
 
-*Scraped **48,962** Articles*
+*Scraped **48,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,71 @@ dailymirrorlk | 4,733
 adaderanalk | 5,782
 tamilmirrorlk | 6,649
 virakesarilk | 7,828
-adaderanasinhalalk | 8,462
+adaderanasinhalalk | 8,464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,962 (100.0%) of 48,962 articles have been extended.
+48,964 (100.0%) of 48,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### ගංවතුර ගැන අනතුරු ඇඟවීමක්
+
+*2024-10-11 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202061) · `si`
+
+Sri Lanka: Heavy rain warning issued for Kelani River basin areas. Flood risk predicted for next 48 hours in Colombo, Wattala, and surrounding regions. Residents advised to stay alert and avoid travel during this period.
+
+🟩
+
+The high and central current areas of the Kelani River have received a significant rainfall in several areas.
+
+එම වර්ෂා තත්ත්වය සහ වාරිමාර්ග දෙපාර්තමේන්තුව මඟින් කැළණි ගඟ ද්‍රෝණිය තුළ නඩත්තු කරනු ලබන ගංඟා ජල මාපකවල ජල මට්ටම් විශ්ලේෂණය අනුව මෙතැන් සිට ඉදිරි පැය 48 ක කාලය තුළ දෙහිඕවිට, රුවන්වැල්ල, සීතාවක, දොම්පේ, හෝමාගම, කඩුවෙල, බියගම, කොලොන්නාව, කොළඹ සහ වත්තල ප්‍රාදේශීය ලේකම් කොට්ඨාසවලට අයත් කැළණි ගංඟා නිම්නයේ පහත්බිම් ප්‍රදේශවලට ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බවට අනතුරු අඟවනු ලැබේ.
+
+මේ තත්ත්වය සම්බන්ධයෙන් දැඩි සැලකිල්ලකින් කටයුතු කරන ලෙස එම ප්‍රදේශවල පදිංචි මහජනතාවගෙන් සහ ප්‍රදේශ හරහා ගමන් ගන්නා වාහන පදවන්නන්ගෙන් ඉල්ලා සිටිනු ලැබේ.
+
+The Department of Indus demand is also requested to take necessary steps to take necessary action.
+
+◼️
+
+[Data](articles/b30ed7ee.json)
+
+[Extended Data](ext_articles/b30ed7ee.ext.json)
+
+---
+
+### Another group of probe not to elected to the general election
+
+*2024-10-11 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202060) · `si`
+
+Several former politicians have announced they will not run in the upcoming general election. This includes former ministers, parliamentarians, and party leaders from major political parties. The decision not to contest is attributed to various reasons such as personal preferences, health issues, or strategic considerations.
+
+🟩
+
+හිටපු මැතිඇමතිවරුන්ගෙන් තවත් පිරිසක් මෙවර මහ මැතිවරණයට ඉදිරිපත් නොවන බවට ප්‍රකාශ කර තිබේ.
+
+පසුගිය‍ ආණ්ඩුවේ නාගරික සංවර්ධන හා නිවාස අමාත්‍යවරයා ලෙස කටයුතු කළ ප්‍රසන්න රණතුංග මහතා මෙවර මහ මැතිවරණයට තරඟ නොකරන බව තහවුරු කර තිබේ.
+
+Kanakara Herath, the State Minister of Technology and Technology, is not present at the general election.
+
+Former Parliamentarian Chamal Rajapaksa, Hambantota District Chamal Rajapaksa, is also not contesting this year's general election.
+
+Former UNP MP WDJ Ratnapura, Ratnapura District MP. Seneviratne has also decided not to present this year's general election.
+
+අම්පාර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී විමලවීර දිසානායක මහතා ද මෙවර මහ මැතිවරණයට ඉදිරිපත් නොවන බව අද සඳහන් කළේය.
+
+United National Party Advanced Viraj Kariyawasam has also decided not to contest the general election.
+
+◼️
+
+[Data](articles/108eaef9.json)
+
+[Extended Data](ext_articles/108eaef9.ext.json)
+
+---
 
 ### Sri Lanka household healthcare costs rise, access to primary healthcare declines: IPS
 
@@ -2169,49 +2223,5 @@ The Inspector General of Police said that if state vehicles or assets are theft 
 [Data](articles/dfcb040d.json)
 
 [Extended Data](ext_articles/dfcb040d.ext.json)
-
----
-
-### Get permission to get the president's photos!
-
-*2024-10-10 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/195985) · `ta`
-
-President's Secretary mandates written permission for publishing presidential photos and greetings. Applies to state institutions for official events and souvenirs. Ensures alignment with government policies and budget management.
-
-🟩
-
-President's Secretary Dr. Nandika Sanath Kumanayake has advised all state institutions to obtain the written permission of the President's Secretariat before publishing the President's photos and greetings for name boards and special souvenirs for various events.
-
-The President's Secretary has further informed the state institutions that it is necessary to act in accordance with the policy and vision of the government in the process of arranging state funds.
-
-The announcement has been made by the President's Secretary to the Secretaries of the Ministry, all Provincial Chief Secretaries, Department Heads, Leaders of the Legal Institutions and Leaders of State Corporations, including state corporations.
-
-◼️
-
-[Data](articles/2776613e.json)
-
-[Extended Data](ext_articles/2776613e.ext.json)
-
----
-
-### Technical error on a SriLankan Airlines
-
-*2024-10-10 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202042) · `si`
-
-SriLankan Airlines UL 265 technical issue resolved. Plane safely landed Katunayake airport. Passengers accommodated in hotels. Next flight scheduled.
-
-🟩
-
-Sri Lankan Airlines's UL 265 airline arrived at the Katunayake airport again
-
-The aircraft has landed safe about 7 pm today.
-
-SriLankan Airlines says that all passengers have provided hotel accommodation and the next flight has been reserved for the next flight.
-
-◼️
-
-[Data](articles/680c52a9.json)
-
-[Extended Data](ext_articles/680c52a9.ext.json)
 
 ---

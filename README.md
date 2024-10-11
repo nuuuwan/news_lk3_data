@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 12:13:44**
+As of **2024-10-11 12:38:53**
 
 ## Newspaper Stats
 
-*Scraped **48,953** Articles*
+*Scraped **48,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 3,002
 dailyftlk | 3,323
 adalk | 4,546
 dailymirrorlk | 4,733
-adaderanalk | 5,780
-tamilmirrorlk | 6,648
+adaderanalk | 5,781
+tamilmirrorlk | 6,649
 virakesarilk | 7,828
-adaderanasinhalalk | 8,461
+adaderanasinhalalk | 8,462
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,953 (100.0%) of 48,953 articles have been extended.
+48,956 (100.0%) of 48,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Damitha gets caught from the list
+
+*2024-10-11 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202057) · `si`
+
+Mrs. Damitha Abeyratne removed from Ratnapura District nomination list despite announcing candidacy. She visited District Secretariat to sign election papers.
+
+🟩
+
+It is reported that Mrs. Damitha Abeyratne is not mentioned in the nomination list of the Ratnapura District.
+
+She had reached the District Secretariat in Ratnapura today (11) to sign the nominations of the general election in the general election today (11).
+
+Damitha Abeyratne told the media yesterday (10) that he would contest the general election representing the Ratnapura District.
+
+◼️
+
+[Data](articles/0fd7c34e.json)
+
+[Extended Data](ext_articles/0fd7c34e.ext.json)
+
+---
+
+### Crown of Goddess Kali, Gifted by PM Modi, Stolen from Bangladesh Temple
+
+*2024-10-11 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102614/crown-of-goddess-kali-gifted-by-pm-modi-stolen-from-bangladesh-temple) · `en`
+
+A crown of goddess Kali has been stolen from the Jeshoreshwari temple in Satkhira’s Shyamnagar. This crown was gifted by Prime Minister Narendra Modi during his visit to the temple in March, 2021, as reported by The Daily Star.
+
+The theft occurred on Thursday between 2.00 pm and 2.30 pm, after Temple Priest Dilip Mukherjee left following the day’s worship. The cleaning staff later found that the crown was missing from the deity’s head, as reported by The Daily Star.
+
+“We are reviewing the temple’s CCTV footage to identify the thief,” said Inspector Taizul Islam of Shyamnagar Police Station.
+
+The stolen crown, made of silver and gold-plated, holds significant cultural and religious importance.
+
+According to Hindu mythology, the Jeshoreshwari Temple is one of the 51 Shakti Peeths scattered across India and neighboring countries. The name “Jeshoreshwari” means “Goddess of Jeshore.”
+
+PM Modi visited the Jeshoreshwari Temple on March 27, 2021, during his trip to Bangladesh.
+
+...
+
+[Data](articles/bd9830bc.json)
+
+[Extended Data](ext_articles/bd9830bc.ext.json)
+
+---
+
+### 16 people killed in storm
+
+*2024-10-11 12:01:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மில்டன்-புயலால்-16-பேர்-பலி/50-345273) · `ta`
+
+Storm Milton kills 16 in Florida, causes destruction and flooding. Winds reach 270km/h, sea waves rise 15ft. Construction crane collapses, apartments severely damaged. Similar to Hurricane Heleen which struck Florida on August 26.
+
+🟩
+
+The death toll from the Milton Storm in the US -Florida province has increased to 16.
+
+In the Atlantic Ocean, the extreme storm was created in the area of ​​Mexico's Ucaton Peninsula.
+
+The storm, dubbed Milton, is to cross the shore in Florida, USA. Thus, with high -speed winds, it was raining.
+
+Maximum, at maximum, 270 km. May blow at the speed at the speed. Sea waves rose up to 15 feet high when the storm crossed the storm in the Gulf of Tampa.
+
+The storm was stopped for construction work and a giant crane collapsed. The apartments were severely damaged.
+
+The Heleen Storm hit the province of Florida on the 26th of last month.
+
+◼️
+
+[Data](articles/f16e7894.json)
+
+[Extended Data](ext_articles/f16e7894.ext.json)
+
+---
 
 ### Shani joined the service again
 
@@ -2139,87 +2213,5 @@ The woman who died in the accident and the driver of the other motorcycle has be
 [Data](articles/d588e244.json)
 
 [Extended Data](ext_articles/d588e244.ext.json)
-
----
-
-### Weather alert issued for heavy rainfall above 150mm
-
-*2024-10-10 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102601/weather-alert-issued-for-heavy-rainfall-above-150mm) · `en`
-
-The Department of Meteorology has issued a ‘Color: Red’ warning for heavy rainfall in the Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts, in the next 24 hours.
-
-Showery conditions are expected to enhance to some extent in the south-western part of the Island in the next few days starting from today (10), due to the development of atmospheric disturbance in the vicinity of Sri Lanka.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces, it said.
-
-Very heavy showers above 150mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur elsewhere at several places in the island during the evening or night.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/0eede212.json)
-
-[Extended Data](ext_articles/0eede212.ext.json)
-
----
-
-### National People's Power
-
-*2024-10-10 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/195969) · `ta`
-
-National People's Power nominates candidates for Kandy district parliamentary election. Three minorities contest: two Muslims and one Tamil. Chief candidate Gurugamage Don Lalgantha leads team.
-
-🟩
-
-The National People's Power today (10) filed a nomination for parliamentary elections in Kandy district.
-
-There are three minority candidates contesting. It is noteworthy that two Muslim candidates and a Tamil candidate are contesting.
-
-On behalf of the National People's Power in the Kandy District, the chief candidate Gurugamage Don Lalgantha, Dissanayake Elderly, Dhanura Harna Dissanayake.
-
-Jayanti Koralalala, Kodhidu Arachchi Jagath Manuwakku, Yapa Elderly Kumara Muhammad Basmin, HerathNimal Herath Banda and Ekanayaka Mudiyanzalake Ketha Kumbure Ketha Basnayaka will compete in the national popular power.
-
-◼️
-
-[Data](articles/380a836f.json)
-
-[Extended Data](ext_articles/380a836f.ext.json)
-
----
-
-### Power in Colombo-Gampaha-Gampaha and Matara and Galle
-
-*2024-10-10 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202040) · `si`
-
-Here's a 200-character summary:
-
-
-
-Universal Power nominates candidates in Colombo, Gampaha, Matara, and Galle districts. Dilith Jayaweera signs for Gampaha. Professor Channa Jayatana and Milan Jayatilleka also sign for Gampaha. Universal Power emphasizes importance of winning Matara district. Entrepreneur Chandralal Abeygunawardena joins Galle district candidate team.
-
-🟩
-
-The universal power handed over nominations for several districts including the Colombo district today.
-
-Dilith Jayaweera signed a nomination papers for the Gampaha District for the Gampaha District.
-
-In addition, Professor Channa Jayatana and Gampaha District Leader Milan Jayatilleka and Gampaha District Leader Milan Jayatilleka were also signed the Gampaha District.
-
-The universal power of the Matara district was signed today for the nominations of the Matara district.
-
-Speaking to the media, Motherland People's Party Leader Dilith Jayaweera said,
-
-"The Norrage Power has a responsibility to the leadership of the. Because Matara is a decisive district. We are all eager to you.. Devote in Matara to win Matara in the election. "
-
-Entreprenerian Chandralal Abeygunawardena has also joined the Normor Power Galle District candidate team.
-
-◼️
-
-[Data](articles/22bce6dc.json)
-
-[Extended Data](ext_articles/22bce6dc.ext.json)
 
 ---

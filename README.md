@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 13:39:37**
+As of **2024-10-11 14:12:34**
 
 ## Newspaper Stats
 
-*Scraped **48,964** Articles*
+*Scraped **48,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 487
 islandlk | 2,895
 economynextcom | 3,006
 dailyftlk | 3,323
-adalk | 4,547
+adalk | 4,549
 dailymirrorlk | 4,733
 adaderanalk | 5,782
-tamilmirrorlk | 6,649
+tamilmirrorlk | 6,650
 virakesarilk | 7,828
 adaderanasinhalalk | 8,464
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,964 (100.0%) of 48,964 articles have been extended.
+48,967 (100.0%) of 48,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Tamitha's name is not on the list of Ratnapura
+
+*2024-10-11 13:48:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரி-பட்டியலில்-தமிதாவின்-பெயர்-இல்லை/175-345275) · `ta`
+
+Tamitha Abeyratne contests Ratnapura election; name missing from Samaki Jana Balavegaya list. Former MP Ankuwa Arachchige Hashan Vidana Kegalle named in nomination. List posted publicly by Election Officer Vasantha Gunaratne.
+
+🟩
+
+Mrs. Tamitha Abeyratne, who said she would contest the general election in the Ratnapura district, alleged that her name was not included in the general election of Samaki Jana Balavegaya, who was handed over to the Ratnapura district.
+
+குறித்த வேட்புமனுவில், முதலில்  முன்னாள் நாடாளுமன்ற உறுப்பினர் அங்கும்புர ஆராச்சிகே ஹேஷான் விஜய விதானகேவின் பெயர் குறிப்பிடப்பட்டுள்ளது.
+
+It is noteworthy that after handing over the nomination to the Ratnapura District Election Officer, Vasantha Gunaratne, a copy of this has been placed for public viewing, like other nomination lists.
+
+◼️
+
+[Data](articles/34c0da3c.json)
+
+[Extended Data](ext_articles/34c0da3c.ext.json)
+
+---
 
 ### ගංවතුර ගැන අනතුරු ඇඟවීමක්
 
@@ -460,6 +482,32 @@ Police suspect that the accident was caused by a technical fault with the bus ar
 
 ---
 
+### Rohini and Aluvihare clash in Matale nominations
+
+*2024-10-11 10:16:01* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-මාතලේ-නාම-යෝජනාවලට-රෝහිනී හා-අලුවිහාරේ-ගැටෙති/11-412441) · `si`
+
+Ranjanth Aluvihare accuses Rohini Wijeratne of blocking his nomination in Matale. He claims she refused to sign papers. Rohini denies influencing decisions, saying she only represents the main committee. Both sides express disappointment over candidate selection process.
+
+🟩
+
+Former State Minister Ranjith Aluviharare said that the nomination was signed as a nomination decision as the decision of the 11 days.
+
+Upon inquiry into the public minister that Ranjith Aluvihare is not contesting this year's general election, he said that the process of Mrs. Rohini Wijeratne was in refusing to sign the nomination.Signed.
+
+However, she said that he had not had any influence on the matter, but she represented the main committee to set up candidate lists in the Matale district.Mentioned.
+
+Mr. Ranjith Aluviore said that he was disappointed in the appointment of the candidates when setting up the names of the lists, however, they had now settled in the Matale district.He also noted that the proposals were ready to be delivered.
+
+Ms. Rohnani Wijeratne said that the brother of the Wasantha Wijeratne, who is in the area, is admitted to the Javi Wijeratne of the Vasantha Wijeratne in the Matale district.Mentioned.
+
+...
+
+[Data](articles/9d56df45.json)
+
+[Extended Data](ext_articles/9d56df45.ext.json)
+
+---
+
 ### PM requests Thai govt’s support to rescue Sri Lankans in cybercrime camps in Myanmar
 
 *2024-10-11 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102609/pm-requests-thai-govts-support-to-rescue-sri-lankans-in-cybercrime-camps-in-myanmar) · `en`
@@ -567,6 +615,42 @@ Sri Lankan engineers say that the A330 aircraft, which was caught in a technical
 [Data](articles/14afe64c.json)
 
 [Extended Data](ext_articles/14afe64c.ext.json)
+
+---
+
+### Nalaka in Pohoth no
+
+*2024-10-11 09:29:15* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-නාලකත්-මෙවර-මැතිවරණයට-නෑ/11-412440) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+SLFP leader Nalaka Bandara announces resignation as Matale District Secretary. Cites ideological struggles against traditional politicians. Credits nationalist support for 2019 & 2020 election victories. Promises continued anti-corruption stance. Resigns citing unfair treatment but pledges election-free path forward.
+
+🟩
+
+The SLFP General Piliyad Secretary Nalaka Bandara, Nalaka Bandara, Nalaka Bandara, Nalaka Bandara says that he will resign from the Matale District Leaders of Matale District.
+
+After the nationalist base of 2015, the Matale district was also political.
+
+When we did not have anyone to give leadership to the leftist and nationalist people of the camp, I initiated politics for ideology.
+
+The majority of traditional politicians in Matale was attended by the government at the time.
+
+In contrast we have engaged in a hackful struggle with the nationalist people.
+
+The result was the massive political victory of the 2019 presidential election and the 2020 general election.
+
+In the midst of many cuts and oppresses, we have always kept politics and for the ideology and people of people. For our policies,
+
+We will never act in a place where we can change. As a result, I would like to proclaim you to promote the Matale District Civil Appointing Leader of Matale.
+
+...
+
+[Data](articles/9e5eef42.json)
+
+[Extended Data](ext_articles/9e5eef42.ext.json)
 
 ---
 
@@ -2159,69 +2243,5 @@ The Yorkshire regional team was the result of 454 runs in the 4th wicket and Eng
 [Data](articles/8f6493e2.json)
 
 [Extended Data](ext_articles/8f6493e2.ext.json)
-
----
-
-### Notice to all public institutions
-
-*2024-10-10 22:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202044) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Presidential Secretariat mandates: Obtain written permission for Commemorative Plant and Special Soorial Zones. Comply with government policy when organizing functions."
-
-🟩
-
-Secretary to the President Dr. Nandika Sanath has instructed all government to obtain a written permission from the Presidential Secretariat before the Commemorative Plant and Special Soorial Zones.
-
-The Secretary to the President has also informed state institutions that it is necessary to comply with the government policy and vision in organizing the functions of the government.
-
-The informed of the Presidential Secretary of the President and the Heads of State Corporations, Heads of Establishment Boards and State Corporations, including statutory boards and state-owned company heads have been made by the Presidential Secretary.
-
-◼️
-
-[Data](articles/30c89d57.json)
-
-[Extended Data](ext_articles/30c89d57.ext.json)
-
----
-
-### The organizer of Passara has no chance
-
-*2024-10-10 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202043) · `si`
-
-Passara organizer Sanji Lekchen claims unfair treatment in general election. Accuses leaders of inconsistent behavior. Expresses frustration over lack of opportunities.
-
-🟩
-
-The electoral organizer Sanji Lekchen has been alleged that it was not the opportunity to contest the general election.
-
-"I'm the Passara Seats Organizer. මම ලොකු ප්‍රතිශතයකින් දිනලත් තියෙනවා. But you can't give. One of the leader and says one morning ... tells another one at night. He told her a disciple of her. That's why I see the brand of this party. The people are taught a good lesson. "
-
-◼️
-
-[Data](articles/4fcf7984.json)
-
-[Extended Data](ext_articles/4fcf7984.ext.json)
-
----
-
-### If the information is provided
-
-*2024-10-10 22:14:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகவல்-தெரிவித்தால்-சன்மானம்-வழங்கப்படும்/175-345251) · `ta`
-
-Inspector General of Police states: If state vehicles/assets stolen/abused, notify new expedited number 1997.
-
-🟩
-
-The Inspector General of Police said that if state vehicles or assets are theft or abused, the new expeditious number of 1997 should be notified.
-
-◼️
-
-[Data](articles/dfcb040d.json)
-
-[Extended Data](ext_articles/dfcb040d.ext.json)
 
 ---

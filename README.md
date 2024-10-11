@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 19:23:22**
+As of **2024-10-11 19:39:04**
 
 ## Newspaper Stats
 
-*Scraped **49,009** Articles*
+*Scraped **49,010** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 487
-bbccomsinhala | 488
+bbccomsinhala | 489
 islandlk | 2,895
 economynextcom | 3,006
 dailyftlk | 3,323
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,009 (100.0%) of 49,009 articles have been extended.
+49,010 (100.0%) of 49,010 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1095,6 +1095,42 @@ Preliminary inquiries revealed that he was living alone in the house and died of
 [Data](articles/ea4e7236.json)
 
 [Extended Data](ext_articles/ea4e7236.ext.json)
+
+---
+
+### Bials after the Rajapaksa family.Why doesn't the Rajapaksas come to the general election?
+
+*2024-10-11 12:36:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20p2kw309yo) · `si`
+
+Here's a 200-character summary:
+
+
+
+Rajapaksa family absent from Sri Lanka's 2023 general election due to economic crisis, corruption allegations, and public discontent. Former leaders face legal challenges and loss of public support.
+
+🟩
+
+Bials after the Rajapaksa family.Why doesn't the Rajapaksas come to the general election?
+
+"Do you think another Rajapaksa man will come to him?"It is a statement made by Ranil Wickremesinghe in an interview with BBC Sinhala after he accepted the post of Prime Minister in 2022.
+
+Before 3 years, the Rajapaksas' political trajectory has been undermined.
+
+Sri Lankan Citizens acquired the Presidential Pathship
+
+However, Ranil Wickremesinghe, who made the statement, was also held recently to defeat my continued presidential election campaign.
+
+It is noteworthy that the founders of the Sri Lanka General Front, the founders of the Sri Lanka General Front, will not be admitted to the list and nomination list.
+
+How did the Rajapaksas who had been dominated in Sri Lankan politics from 2005 to 2019 had such political fate?
+
+For many years, the Rajapaksa family has been a significant force in Sri Lanka and the Rajapaksas, Governor and Member of the Hon.
+
+...
+
+[Data](articles/afbd487f.json)
+
+[Extended Data](ext_articles/afbd487f.ext.json)
 
 ---
 
@@ -2345,25 +2381,5 @@ The discussion covered various topics, including the current regional situation 
 [Data](articles/94cafe6a.json)
 
 [Extended Data](ext_articles/94cafe6a.ext.json)
-
----
-
-### Sri Lanka central bank issues directions on corporate governance
-
-*2024-10-11 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-issues-directions-on-corporate-governance-183166/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has issued directions on corporate governance of licensed commercial banks and specialized banks.
-
-“These Directions were issued with a view to strengthening the corporate governance processes and practices of the licensed commercial banks and licensed specialised banks thus facilitating the conduct of banking business in a responsible and accountable manner in order to promote safety and soundness of the banking sector and the financial system as a whole,” the regulator said.
-
-The directions cover the appointment of directors and the chairperson, the responsibilities of the board.
-
-A chief executive who leaves one bank has to wait for a six-month cooling off period before working at another bank.
-
-◼️
-
-[Data](articles/0b98c102.json)
-
-[Extended Data](ext_articles/0b98c102.ext.json)
 
 ---

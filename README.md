@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 11:59:04**
+As of **2024-10-11 12:13:44**
 
 ## Newspaper Stats
 
-*Scraped **48,950** Articles*
+*Scraped **48,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 400
 colombotelegraphcom | 487
 bbccomsinhala | 487
 islandlk | 2,895
-economynextcom | 3,000
+economynextcom | 3,002
 dailyftlk | 3,323
-adalk | 4,545
+adalk | 4,546
 dailymirrorlk | 4,733
 adaderanalk | 5,780
 tamilmirrorlk | 6,648
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,950 (100.0%) of 48,950 articles have been extended.
+48,953 (100.0%) of 48,953 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -95,6 +95,28 @@ He added that the initiative aims to improve accountability and ensure proper us
 [Data](articles/5293775a.json)
 
 [Extended Data](ext_articles/5293775a.ext.json)
+
+---
+
+### Sri Lanka rupee trades flat at 292.90/293.05 to US dollar, bond yields steady
+
+*2024-10-11 11:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-flat-at-292-90-293-05-to-us-dollar-bond-yields-steady-183170/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading flat at 292.90/293.05 to the US dollar on Friday, from 292.85/293.00 a day earlier, while bond yields were steady during the ongoing auction dealers said.
+
+An issue of 95,000 million rupees in Treasury Bonds was ongoing.
+
+A bond maturing on 15.02.2028 was quoted stable at 11.70/80 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.95/12.00 percent, up from 11.95/12.05 percent.
+
+In equities, Colombo’s All Share Price Index was trading 0.90 percent, or 109.89 points higher at 12,274, while the S&P SL20 of more liquid stocks was trading up 1.12 percent or 40.27 points higher at 3,641.
+
+◼️
+
+[Data](articles/ce9b0582.json)
+
+[Extended Data](ext_articles/ce9b0582.ext.json)
 
 ---
 
@@ -792,6 +814,28 @@ The President and Ambassador were focused on increasing Sri Lankan tea exports t
 
 ---
 
+### The Presidential Office needs a written permission from the President's posts before posting photos and messages
+
+*2024-10-11 07:44:18* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයාගේ-ඡායාරූප-හා-පණිවිඩ-පළ-කිරීමට-පෙර-ජනාධිපති-කාර්යාලයෙන්--ලිඛිත-අවසරයක්-ඕන/11-412438) · `si`
+
+Presidential Office requires written permission for posts, photos, and ceremonies. Secretary instructs compliance with government policies. Heads of state institutions notified about new protocol.
+
+🟩
+
+Secretary to the President Dr. Nandika Sanath has instructed all government to obtain a written permission from the Presidential Secretariat and the Presidential photographs for various ceremonies.
+
+The Secretary to the President has also informed state institutions that it is necessary to comply with the government policy and vision in organizing the functions of the government.
+
+The informed of the Presidential Secretary of the President and the Heads of State Corporations, Heads of Establishment Boards and State Corporations, including statutory boards and state-owned company heads have been made by the Presidential Secretary.
+
+◼️
+
+[Data](articles/4b39338d.json)
+
+[Extended Data](ext_articles/4b39338d.ext.json)
+
+---
+
 ### Welipenna Interchange of Expressway temporarily closed
 
 *2024-10-11 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102604/welipenna-interchange-of-expressway-temporarily-closed) · `en`
@@ -979,6 +1023,26 @@ The discussion covered various topics, including the current regional situation 
 [Data](articles/94cafe6a.json)
 
 [Extended Data](ext_articles/94cafe6a.ext.json)
+
+---
+
+### Sri Lanka central bank issues directions on corporate governance
+
+*2024-10-11 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-issues-directions-on-corporate-governance-183166/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has issued directions on corporate governance of licensed commercial banks and specialized banks.
+
+“These Directions were issued with a view to strengthening the corporate governance processes and practices of the licensed commercial banks and licensed specialised banks thus facilitating the conduct of banking business in a responsible and accountable manner in order to promote safety and soundness of the banking sector and the financial system as a whole,” the regulator said.
+
+The directions cover the appointment of directors and the chairperson, the responsibilities of the board.
+
+A chief executive who leaves one bank has to wait for a six-month cooling off period before working at another bank.
+
+◼️
+
+[Data](articles/0b98c102.json)
+
+[Extended Data](ext_articles/0b98c102.ext.json)
 
 ---
 
@@ -2157,77 +2221,5 @@ Entreprenerian Chandralal Abeygunawardena has also joined the Normor Power Galle
 [Data](articles/22bce6dc.json)
 
 [Extended Data](ext_articles/22bce6dc.ext.json)
-
----
-
-### Optics Mr. President – Optics!
-
-*2024-10-10 20:56:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/optics-mr-president-optics/) · `en`
-
-An unsolicited advice to the newly elected president, Anura Kumara Dissanayake.
-
-Mr. President – first, let us get some things out of the way. I am your ardent supporter. I have done my very best to reach out to my family and friends to spread the message of hope and promise for the future of Sri Lanka lies in the ideology that you and your party have been hammering out in all your rallies, forums, press conferences and gatherings of the masses in the four corners of the island.
-
-I believed in you, and I had no iota of doubt about your honesty, integrity, and the seriousness of your words on every single occasion you addressed the citizens of Sri Lanka when you asked them to choose you as their leader.
-
-...
-
-[Data](articles/0d82ebd0.json)
-
-[Extended Data](ext_articles/0d82ebd0.ext.json)
-
----
-
-### PSL too
-
-*2024-10-10 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202039) · `si`
-
-Several former MPs announce non-participation in upcoming elections. Key figures include Wimal Weerawansa, Bandula Gunawardena, and Lakshman Kiriella. Some notable absences: Sabaragamuwa District Former Governor Navin Dissanayake, Gamini Lokuge. Notable participants: Namal Rajapaksa, Champika Ranawaka's decision pending.
-
-🟩
-
-The officially announced that several representatives representing the last parliament will not contest the parliamentary election this year.
-
-National Freedom Front Leader Wimal Weerawansa issued a statement today
-
-Dr. Bandula Gunawardena, also known as the General Transport, Highways and Mass Media, the Ada Derana said:
-
-The Minister of Justice Wijayadasa Rajapaksa was also present at the end of the presidential election.
-
-She also stated that he was also announced as a State Minister as the State Minister.
-
-මේ අතර සබරගමුව පළාත් හිටපු ආණ්ඩුකාර නවීන් දිසානායක මහතාද මෙවර මහ මැතිවරණයට ඉදිරිපත් නොවන බව ෆේස්බුක් සටහනක් මගින් පවසා තිබේ.
-
-Lakshman Kiriella, who was the chief organizer of the Opposition in Parliament, is also presented to the general election.
-
-However, his daughter Chamindraini Bandara Kiriella is due to contest the UPFA for the general election this year.
-
-...
-
-[Data](articles/948b19a5.json)
-
-[Extended Data](ext_articles/948b19a5.ext.json)
-
----
-
-### Another town in Haiti comes under attack a week after gangs killed at least 115 people
-
-*2024-10-10 20:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102600/another-town-in-haiti-comes-under-attack-a-week-after-gangs-killed-at-least-115-people) · `en`
-
-Gunmen invaded another town north of Haiti’s capital on Thursday, shooting at people and setting homes on fire, just a week after a massacre killed at least 115 people in the country’s central region. The number of casualties was not immediately known.
-
-Residents in the coastal town of Arcahaie called radio stations pleading for help and asking that police come and save them.
-
-Lionel Lazarre, deputy police spokesman, told Radio Caraïbes that officers were on site and that authorities were taking several measures to strengthen their presence.
-
-“The police heard the people of Arcahaie shouting for help,” he said.
-
-Radio Télé Monopole reported that gunmen attacked the town before dawn, opening fire and wounding multiple people as they set fire to homes, especially those in the Vigner and Bercy communities.
-
-...
-
-[Data](articles/47d3e551.json)
-
-[Extended Data](ext_articles/47d3e551.ext.json)
 
 ---

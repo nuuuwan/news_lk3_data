@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 16:23:06**
+As of **2024-10-11 16:57:14**
 
 ## Newspaper Stats
 
-*Scraped **48,983** Articles*
+*Scraped **48,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,136 @@ bbccomsinhala | 488
 islandlk | 2,895
 economynextcom | 3,006
 dailyftlk | 3,323
-adalk | 4,551
+adalk | 4,553
 dailymirrorlk | 4,733
-adaderanalk | 5,785
+adaderanalk | 5,789
 tamilmirrorlk | 6,653
 virakesarilk | 7,828
-adaderanasinhalalk | 8,471
+adaderanasinhalalk | 8,472
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,983 (100.0%) of 48,983 articles have been extended.
+48,990 (100.0%) of 48,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### SLPP’s National List for 2024 General Election
+
+*2024-10-11 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102622/slpps-national-list-for-2024-general-election) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) has released its list of candidates nominated as national list members of parliament (National List MPs) for the 2024 General Election.
+
+◼️
+
+[Data](articles/e642838c.json)
+
+[Extended Data](ext_articles/e642838c.ext.json)
+
+---
+
+### SJB reveals 29-member National List
+
+*2024-10-11 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102621/sjb-reveals-29-member-national-list) · `en`
+
+Samagi Jana Balawegaya (SJB) has released its list of candidates nominated as national list members of parliament (National List MPs) for the 2024 General Election.
+
+◼️
+
+[Data](articles/76bd742b.json)
+
+[Extended Data](ext_articles/76bd742b.ext.json)
+
+---
+
+### NPP’s National List released
+
+*2024-10-11 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102620/npps-national-list-released) · `en`
+
+The National People’s Power (NPP) has released its list of candidates nominated as national list members of parliament (National List MPs) for the 2024 General Election.
+
+JVP Politburo Member, National Executive Member of NPP, Former Member of Parliament
+
+National Executive Member of the NPP, Member of the Policy Making Committee on Social Empowerment
+
+National Executive Member of NPP, Member of the Policy Making Committee
+
+Former Dean at the Faculty of Humanities and Social Sciences, University of Ruhuna.
+
+National Executive Member of NPP, Member of Policy Making Committee
+
+Company CEO, IT Engineer, Member of Policy Making Committee on IT
+
+Former Member of Parliament, NPP National Executive Member, Jaffna District Organiser
+
+◼️
+
+[Data](articles/51137954.json)
+
+[Extended Data](ext_articles/51137954.ext.json)
+
+---
+
+### සමගි ජනබලවේගය ජාතික ලැයිස්තුව
+
+*2024-10-11 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202069) · `si`
+
+Here's a 200-character summary:
+
+
+
+Samaagi Janabala Jathika Layistu: List includes former MPs, university professors, and ex-leaders.
+
+🟩
+
+එම ලැයිතුවට හිටපු මන්ත්‍රීවරුන් කිහිප දෙනෙක්, විශ්ව විද්‍යාල ආචාර්යරු සහ හිටපු ප්‍රධානියෙක්ද ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/561c75e7.json)
+
+[Extended Data](ext_articles/561c75e7.ext.json)
+
+---
+
+### I was given the news to Anura Pensioners
+
+*2024-10-11 16:10:12* · [`adalk`](https://www.ada.lk/breaking_news/ආරංචිය-සුභයි-අනුර-විශ්‍රාමිකයන්ට-දුන්නු/11-412445) · `si`
+
+President Anura Kumara Dissanayake has instructed the money for all pensioners to be given the monthly allowance of Rs. 3,000 from the next week.
+
+The interim allowance of Rs.
+
+◼️
+
+[Data](articles/822841c2.json)
+
+[Extended Data](ext_articles/822841c2.ext.json)
+
+---
+
+### Rs. 3,000 monthly allowance for pensioners from next week
+
+*2024-10-11 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102619/rs-3000-monthly-allowance-for-pensioners-from-next-week) · `en`
+
+President Anura Kumara Dissanayake has instructed officials of the Ministry of Finance to take necessary action to provide a monthly interim allowance of Rs. 3,000 to all pensioners, from next week, the President’s Media Division (PMD) said.
+
+After reviewing the delay in adding the Rs. 3,000 allowance to the October pension, the President directed that this amount be credited to the pensioners’ accounts within the next week.
+
+These instructions were given during a meeting held yesterday (10) afternoon at the Presidential Secretariat with senior officials of the Ministry of Finance, chaired by President Anura Kumara Dissanayake, the PMD reported.
+
+Despite the circular No. 02/2024 dated 2024/08/24 issued by the Public Administration Department to grant a monthly interim allowance of Rs. 3,000 to all pensioners, funds were not allocated for this purpose.
+
+...
+
+[Data](articles/de414bae.json)
+
+[Extended Data](ext_articles/de414bae.ext.json)
+
+---
 
 ### Nobel Peace Prize for survivors from nuclear bomb
 
@@ -147,6 +261,26 @@ About 10,000 UN peacekeeping troops are currently in the South Leban.
 [Data](articles/63ad1afa.json)
 
 [Extended Data](ext_articles/63ad1afa.ext.json)
+
+---
+
+### Those in these areas carefully driving the vehicles with a close watch!
+
+*2024-10-11 15:04:10* · [`adalk`](https://www.ada.lk/breaking_news/මේ-ප්‍රදේශවල-ඉන්න-අය-දැඩි-අවධානයෙන්--වාහන-පදවන්නෙත්-ප්‍රවේශමෙන්--/11-412444) · `si`
+
+Flooding alert: Kelani River areas (Biyagama, Kaduwela, Colombo, Wattala) may cause vehicle disruptions next 48 hours due to water levels. Residents advised to exercise caution when driving.
+
+🟩
+
+During the next 48 hours, the Kelani River, Biyagama, Kaduwela, Colombo and Wattala Divisional Secretariat areas can cause flooding.
+
+As a result, vehicles traveling through the public and region of residents of the area are disturbed by the Irrigation Department further.
+
+◼️
+
+[Data](articles/0b537ddb.json)
+
+[Extended Data](ext_articles/0b537ddb.ext.json)
 
 ---
 
@@ -2109,129 +2243,5 @@ The choice before the voters will be whether the National People’s Power (NPP)
 [Data](articles/78299a9a.json)
 
 [Extended Data](ext_articles/78299a9a.ext.json)
-
----
-
-### Is intelligence in the right place?
-
-*2024-10-11 06:16:31* · [`dailyftlk`](https://www.ft.lk/columns/Is-intelligence-in-the-right-place/4-767811) · `en`
-
-The need for proactive intelligence to prevent incidents like the Easter Sunday attacks cannot be overstated
-
-witness that men, consciously—that is, fully understanding their real interests—have left them in the background and rushed headlong on another path, to meet peril and danger, compelled to this course by nobody and nothing, but, as it were, simply disliking the beaten track, and have obstinately, wilfully, struck out another difficult, absurd way, seeking it almost in the darkness.
-
-Given the recent political changes the country has experienced, the writer senses a need to reproduce this article (which was published previously). At a time when the track record and performance of the country’s intelligence services and law enforcement agencies have been debated in the public sphere, and with the appointment of a new Chief of State Intelligence, the writer feels it is pertinent to re-examine this interesting, albeit somewhat “murky,” subject.
-
-...
-
-[Data](articles/9ab668bc.json)
-
-[Extended Data](ext_articles/9ab668bc.ext.json)
-
----
-
-### Rescue
-
-*2024-10-11 06:12:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிமையில்-வாழ்ந்த-மூதாட்டி-சடலமாக-மீட்பு/175-345254) · `ta`
-
-Grandmother Gunarajalingam Gnanneswari (70) found dead in fire at her home in Karanavai. Police investigating cause of death. Autopsy ordered at Point Pedro Hospital.
-
-🟩
-
-A grandmother who lives alone in the house has been found dead in a fire.
-
-Gunarajalingam Gnanneswari (age 70) from Karanavai south, Karanavai, is the body of the body.
-
-He left his relatives's house and went to his house yesterday. In this case, he was found dead in the fire yesterday morning.
-
-A sudden death officer has ordered the Nelliyadi police to submit an autopsy at the Point Pedro Hospital. (A)
-
-◼️
-
-[Data](articles/f876b1aa.json)
-
-[Extended Data](ext_articles/f876b1aa.ext.json)
-
----
-
-### Economics of IMF-AKD negotiations
-
-*2024-10-11 06:12:02* · [`dailyftlk`](https://www.ft.lk/columns/Economics-of-IMF-AKD-negotiations/4-767810) · `en`
-
-Renegotiating parts of IMF’s economic recovery program underlined the campaign platforms of AKD and his NPP teammates right from the beginning. While RW was bragging about his record of stabilising the economy and restarting growth, AKD was questioning the benefits of that growth to the citizenry. RW’s answer was that they may have to wait until 2048 to enjoy the splendour of his high-tech export miracle. In other words, their debate was about one of the fundamental controversies in economics of development between growth and equity.
-
-...
-
-[Data](articles/fa73adb1.json)
-
-[Extended Data](ext_articles/fa73adb1.ext.json)
-
----
-
-### Eight ‘ULTIMATE’ challenges in setting up a customer experience culture
-
-*2024-10-11 06:05:34* · [`dailyftlk`](https://www.ft.lk/columns/Eight-ULTIMATE-challenges-in-setting-up-a-customer-experience-culture/4-767809) · `en`
-
-Establishing any culture comes with challenges and setting up a customer experience culture is no exception. The challenges can be summarised using the mnemonic ‘ULTIMATE,’ which stands for Understanding, Leading, Teaming-up, Initiating, Mechanising, Aligning, Training, and Empowering. Each of these aspects is explained below:
-
-First, understand the customer and then their needs and expectations. Creating a ‘Buyer Persona,’ which is an ideal description of your customer, helps in defining the purpose for which the business exists. This can be done by researching the current customer base to gather demographic information such as gender, age, location, preferences, and behavioural traits.
-
-...
-
-[Data](articles/feabb0b2.json)
-
-[Extended Data](ext_articles/feabb0b2.ext.json)
-
----
-
-### Justice Thurairaja makes impassioned plea on behalf of SL’s plantation community
-
-*2024-10-11 05:57:00* · [`islandlk`](http://island.lk/justice-thurairaja-makes-impassioned-plea-on-behalf-of-sls-plantation-community/) · `en`
-
-‘Unveiling the hidden struggles of Sri Lanka’s plantation workers: A Call for Action’, in other words improving living conditions, providing fair wages, enhancing access to social services and ensuring that the rights of plantation workers are respected and protected under the law. This is the belief of Justice S. Thurairaja; judge of the Supreme Court of Sri Lanka.
-
-Justice Thurairaja made an impassioned speech last week at a Caritas Sri Lanka event in Colombo, during the launch of two significant research reports: ‘Right for Education: For the Children of the Plantation Community in Sri Lanka – Issues, Challenges and Future Directions’ and ‘Culture and Identity of the Plantation Communities in Sri Lanka’. His heartfelt words resonated deeply with those present as he highlighted the hidden struggles of the plantation community.
-
-Justice Thurairaja is the first person of Indian origin in Sri Lanka to become a Court of Appeal judge and a Supreme Court judge.
-
-...
-
-[Data](articles/cb3cc7bb.json)
-
-[Extended Data](ext_articles/cb3cc7bb.ext.json)
-
----
-
-### Harsha Jayatunga appointed Executive Director of Sierra Cables
-
-*2024-10-11 05:57:00* · [`islandlk`](http://island.lk/harsha-jayatunga-appointed-executive-director-of-sierra-cables/) · `en`
-
-Sierra Cables PLC announces the appointment of Harsha Jayatunga as Executive Director/CEO. This significant milestone recognises his instrumental role in the company’s growth and continued success since he first joined Sierra Cables in 2019.
-
-Having served as the Chief Executive Officer since July 2020, Jayatunga has led the company through an era of rapid transformation, driving significant advancements in both local and international markets. Under his leadership, Sierra Cables has not only enhanced its operational efficiency but also expanded its market presence in strategic international markets.
-
-...
-
-[Data](articles/da99b288.json)
-
-[Extended Data](ext_articles/da99b288.ext.json)
-
----
-
-### CSE picks up in the wake of World Bank’s positive assessment of economy
-
-*2024-10-11 05:55:00* · [`islandlk`](http://island.lk/cse-picks-up-in-the-wake-of-world-banks-positive-assessment-of-economy/) · `en`
-
-The stock market yesterday got off to a negative start and lost up to 120 points initially but later recovered following a World Bank report on positive growth prospects this year, market analysts said. According to the World Bank, Sri Lanka is projected to grow 4.4 percent in 2024 as the country emerges from an economic crisis but the recovery hinges on maintaining macroeconomic stability and continuing reforms.
-
-“Sri Lanka’s recent economic stabilization, marked by four quarters of growth and a current account surplus in 2023 mark significant milestones, David Sislen, World Bank Regional Country Director said in a statement.
-
-“There is an opening for Sri Lanka to deepen its participation in global value chains and take advantage of its geography and an evolving global landscape to generate jobs and sustain growth, the statement said.
-
-...
-
-[Data](articles/bd4842fd.json)
-
-[Extended Data](ext_articles/bd4842fd.ext.json)
 
 ---

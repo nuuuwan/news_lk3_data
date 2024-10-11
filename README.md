@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 06:44:23**
+As of **2024-10-11 07:26:07**
 
 ## Newspaper Stats
 
-*Scraped **48,864** Articles*
+*Scraped **48,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,259 @@ newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 486
 bbccomsinhala | 486
-islandlk | 2,887
+islandlk | 2,894
 economynextcom | 3,000
-dailyftlk | 3,299
-adalk | 4,540
+dailyftlk | 3,307
+adalk | 4,541
 dailymirrorlk | 4,733
 adaderanalk | 5,770
 tamilmirrorlk | 6,632
 virakesarilk | 7,818
-adaderanasinhalalk | 8,450
+adaderanasinhalalk | 8,451
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,863 (100.0%) of 48,864 articles have been extended.
+48,869 (100.0%) of 48,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Sri Lanka explores trade and investment opportunities in Gothenburg
+
+*2024-10-11 06:36:50* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-explores-trade-and-investment-opportunities-in-Gothenburg/56-767824) · `en`
+
+Ambassador of Sri Lanka to Sweden Kapila Fonseka successfully concluded a two-day official visit to Gothenburg, the second largest city of Sweden, last week. The purpose of the visit was to engage with key stakeholders including Swedish Government officials and business leaders to strengthen economic and trade relations between Sri Lanka and Gothenburg, and to meet with the members of the Sri Lankan community in Sweden.
+
+The Ambassador’s agenda included high-level meetings with the Västra Götaland County of Sweden Governor Sten Tolgfors, Gothenburg Lord Mayor Aslan Akbas, and Regional Parliament Chair Renee Bengtsson. During these meetings the Ambassador conveyed Sri Lanka’s strong commitment to enhance the already existing connections with the city of Gothenburg and the Västra Götaland, which is the second most populous county in Sweden.
+
+...
+
+[Data](articles/bc4c2d4e.json)
+
+[Extended Data](ext_articles/bc4c2d4e.ext.json)
+
+---
+
+### Harsha Jayatunga appointed Executive Director/CEO at Sierra Cables
+
+*2024-10-11 06:35:34* · [`dailyftlk`](https://www.ft.lk/news/Harsha-Jayatunga-appointed-Executive-Director-CEO-at-Sierra-Cables/56-767823) · `en`
+
+Sierra Cables PLC has recently announced the appointment of Harsha Jayatunga as Executive Director/CEO.
+
+This significant milestone recognises his instrumental role in the company’s growth and continued success since he first joined Sierra Cables in 2019.
+
+Having served as the Chief Executive Officer since July 2020, Jayatunga has led the company through an era of rapid transformation, driving significant advancements in both local and international markets. Under his leadership, Sierra Cables has not only enhanced its operational efficiency but also expanded its market presence in strategic international markets.
+
+...
+
+[Data](articles/0efeea88.json)
+
+[Extended Data](ext_articles/0efeea88.ext.json)
+
+---
+
+### Sri Lanka-Canada Business Council calls on PM Dr. Harini
+
+*2024-10-11 06:34:25* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Canada-Business-Council-calls-on-PM-Dr-Harini/56-767822) · `en`
+
+The Sri Lanka-Canada Business Council (SLCBC) delegates recently held a pivotal briefing session with the Prime Minister Harini Amarasuriya, ahead of their official mission to Canada.
+
+This strategic meeting, which took place in Colombo, was centred around the Council’s upcoming efforts to foster stronger economic, trade, and investment relations between Sri Lanka and Canada.
+
+The SLCBC delegation provided a comprehensive overview of their objectives, focusing on promoting sustainable growth, identifying new trade opportunities, and encouraging foreign direct investment. They also shared insights into planned meetings with Canadian business leaders, government officials, and key stakeholders during their visit.
+
+...
+
+[Data](articles/bd632555.json)
+
+[Extended Data](ext_articles/bd632555.ext.json)
+
+---
+
+### Today is 150 mm of big rain
+
+*2024-10-11 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202046) · `si`
+
+Heavy rain warning: 150mm expected in SW sections. Thunderstorms forecasted in Western, Sabaragamuwa, Southern, NW & Central provinces. Strong winds possible. Public advised to prepare for potential damage from lightning and wind.
+
+🟩
+
+Due to the prevailing atmosphere in the island, the existing rain condition is still expected of the island's southwest section.
+
+According to the latest announcement that had been issued at times of Western, Sabaragamuwa, Southern, Southern, Southern, Southern, North Western and Central provinces.
+
+Mm in the Western and Sabaragamuwa Province and in the Galle and Matara districts. Showers may occur at more than 150.
+
+Thundershowers will develop at several places in the evening or night in the evening of the island.
+
+Western, Sabaragamuwa, Southern, Southern, North Western and Central provinces. Strong winds can also cause over 40,000.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/f51b0943.json)
+
+[Extended Data](ext_articles/f51b0943.ext.json)
+
+---
+
+### Lankan envoy holds talks with Thai Chamber of Commerce and Board of Trade of Thailand
+
+*2024-10-11 06:30:53* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-holds-talks-with-Thai-Chamber-of-Commerce-and-Board-of-Trade-of-Thailand/56-767821) · `en`
+
+Ambassador of Sri Lanka to Thailand Wijayanthi Edirisinghe held a productive discussion with the Chairman of the Thai Chamber of Commerce and Board of Trade of Thailand Sanan Angubolkul, on 1 October 2024.
+
+The discussion focused on enhancing the long-standing relationship between Sri Lanka and Thailand, particularly in the areas of trade, investment and tourism.
+
+During the meeting, Ambassador Edirisinghe highlighted the existing strong bilateral relationships and emphasized the importance of the Sri Lanka-Thailand Free Trade Agreement, set to take effect from 1 January 2025, as a key initiative to further strengthen economic cooperation. She invited Chairman Angubolkul to lead an investment delegation to Sri Lanka to explore the abundant opportunities available in the country.
+
+...
+
+[Data](articles/789f07a8.json)
+
+[Extended Data](ext_articles/789f07a8.ext.json)
+
+---
+
+### Constitutional supremacy versus Parliamentary supremacy: Which way for Sri Lanka?
+
+*2024-10-11 06:29:24* · [`dailyftlk`](https://www.ft.lk/columns/Constitutional-supremacy-versus-Parliamentary-supremacy-Which-way-for-Sri-Lanka/4-767820) · `en`
+
+Sri Lankan Parliament: A symbol of legislative authority, at the crossroads between constitutional supremacy and Parliamentary sovereignty as the nation debates a new constitutional framework
+
+Sri Lanka has a new President, and a fresh general election will be held on 14 November to elect members to its Parliament and for a new Government to be formed thereafter.
+
+The choice before the voters will be whether the National People’s Power (NPP) should be given a Parliamentary majority for them to form the next Government or those opposed to the NPP should be given a majority for them to form the next Government. This article will not analyse and discuss this issue as it is a topic that is already being widely discussed.
+
+...
+
+[Data](articles/78299a9a.json)
+
+[Extended Data](ext_articles/78299a9a.ext.json)
+
+---
+
+### Is intelligence in the right place?
+
+*2024-10-11 06:16:31* · [`dailyftlk`](https://www.ft.lk/columns/Is-intelligence-in-the-right-place/4-767811) · `en`
+
+The need for proactive intelligence to prevent incidents like the Easter Sunday attacks cannot be overstated
+
+witness that men, consciously—that is, fully understanding their real interests—have left them in the background and rushed headlong on another path, to meet peril and danger, compelled to this course by nobody and nothing, but, as it were, simply disliking the beaten track, and have obstinately, wilfully, struck out another difficult, absurd way, seeking it almost in the darkness.
+
+Given the recent political changes the country has experienced, the writer senses a need to reproduce this article (which was published previously). At a time when the track record and performance of the country’s intelligence services and law enforcement agencies have been debated in the public sphere, and with the appointment of a new Chief of State Intelligence, the writer feels it is pertinent to re-examine this interesting, albeit somewhat “murky,” subject.
+
+...
+
+[Data](articles/9ab668bc.json)
+
+---
+
+### Economics of IMF-AKD negotiations
+
+*2024-10-11 06:12:02* · [`dailyftlk`](https://www.ft.lk/columns/Economics-of-IMF-AKD-negotiations/4-767810) · `en`
+
+Renegotiating parts of IMF’s economic recovery program underlined the campaign platforms of AKD and his NPP teammates right from the beginning. While RW was bragging about his record of stabilising the economy and restarting growth, AKD was questioning the benefits of that growth to the citizenry. RW’s answer was that they may have to wait until 2048 to enjoy the splendour of his high-tech export miracle. In other words, their debate was about one of the fundamental controversies in economics of development between growth and equity.
+
+...
+
+[Data](articles/fa73adb1.json)
+
+---
+
+### Eight ‘ULTIMATE’ challenges in setting up a customer experience culture
+
+*2024-10-11 06:05:34* · [`dailyftlk`](https://www.ft.lk/columns/Eight-ULTIMATE-challenges-in-setting-up-a-customer-experience-culture/4-767809) · `en`
+
+Establishing any culture comes with challenges and setting up a customer experience culture is no exception. The challenges can be summarised using the mnemonic ‘ULTIMATE,’ which stands for Understanding, Leading, Teaming-up, Initiating, Mechanising, Aligning, Training, and Empowering. Each of these aspects is explained below:
+
+First, understand the customer and then their needs and expectations. Creating a ‘Buyer Persona,’ which is an ideal description of your customer, helps in defining the purpose for which the business exists. This can be done by researching the current customer base to gather demographic information such as gender, age, location, preferences, and behavioural traits.
+
+...
+
+[Data](articles/feabb0b2.json)
+
+---
+
+### Justice Thurairaja makes impassioned plea on behalf of SL’s plantation community
+
+*2024-10-11 05:57:00* · [`islandlk`](http://island.lk/justice-thurairaja-makes-impassioned-plea-on-behalf-of-sls-plantation-community/) · `en`
+
+‘Unveiling the hidden struggles of Sri Lanka’s plantation workers: A Call for Action’, in other words improving living conditions, providing fair wages, enhancing access to social services and ensuring that the rights of plantation workers are respected and protected under the law. This is the belief of Justice S. Thurairaja; judge of the Supreme Court of Sri Lanka.
+
+Justice Thurairaja made an impassioned speech last week at a Caritas Sri Lanka event in Colombo, during the launch of two significant research reports: ‘Right for Education: For the Children of the Plantation Community in Sri Lanka – Issues, Challenges and Future Directions’ and ‘Culture and Identity of the Plantation Communities in Sri Lanka’. His heartfelt words resonated deeply with those present as he highlighted the hidden struggles of the plantation community.
+
+Justice Thurairaja is the first person of Indian origin in Sri Lanka to become a Court of Appeal judge and a Supreme Court judge.
+
+...
+
+[Data](articles/cb3cc7bb.json)
+
+---
+
+### Harsha Jayatunga appointed Executive Director of Sierra Cables
+
+*2024-10-11 05:57:00* · [`islandlk`](http://island.lk/harsha-jayatunga-appointed-executive-director-of-sierra-cables/) · `en`
+
+Sierra Cables PLC announces the appointment of Harsha Jayatunga as Executive Director/CEO. This significant milestone recognises his instrumental role in the company’s growth and continued success since he first joined Sierra Cables in 2019.
+
+Having served as the Chief Executive Officer since July 2020, Jayatunga has led the company through an era of rapid transformation, driving significant advancements in both local and international markets. Under his leadership, Sierra Cables has not only enhanced its operational efficiency but also expanded its market presence in strategic international markets.
+
+...
+
+[Data](articles/da99b288.json)
+
+---
+
+### CSE picks up in the wake of World Bank’s positive assessment of economy
+
+*2024-10-11 05:55:00* · [`islandlk`](http://island.lk/cse-picks-up-in-the-wake-of-world-banks-positive-assessment-of-economy/) · `en`
+
+The stock market yesterday got off to a negative start and lost up to 120 points initially but later recovered following a World Bank report on positive growth prospects this year, market analysts said. According to the World Bank, Sri Lanka is projected to grow 4.4 percent in 2024 as the country emerges from an economic crisis but the recovery hinges on maintaining macroeconomic stability and continuing reforms.
+
+“Sri Lanka’s recent economic stabilization, marked by four quarters of growth and a current account surplus in 2023 mark significant milestones, David Sislen, World Bank Regional Country Director said in a statement.
+
+“There is an opening for Sri Lanka to deepen its participation in global value chains and take advantage of its geography and an evolving global landscape to generate jobs and sustain growth, the statement said.
+
+...
+
+[Data](articles/bd4842fd.json)
+
+---
+
+### Union Assurance hosts exclusive forums for Union Bank customers
+
+*2024-10-11 05:52:00* · [`islandlk`](http://island.lk/union-assurance-hosts-exclusive-forums-for-union-bank-customers/) · `en`
+
+Union Assurance, Sri Lanka’s premier Life Insurer, continues to strengthen its Bancassurance partnership with Union Bank through a series of exclusive customer forums. The latest forums held in Jaffna and Matara brought together over 100 Union Assurance customers within the Union Bank Bancassurance Channel along with new-to-bank customers.
+
+Designed to enhance the overall customer proposition, these forums focused on enriching customer financial well-being through valuable insights. With the delivery of practical knowledge and actionable strategies, Union Assurance aimed at educating customers to make informed financial decisions, thereby empowering their unique journeys of progress. In addition, these forums offered customers the opportunity to engage directly with the senior management from both Union Assurance and Union Bank, facilitating meaningful networking while strengthening relationships between the organisations.
+
+...
+
+[Data](articles/20ef9ed2.json)
+
+---
+
+### Pan Asia Bank expands digital banking with new zones in Piliyandala and Kaduwela
+
+*2024-10-11 05:51:00* · [`islandlk`](http://island.lk/pan-asia-bank-expands-digital-banking-with-new-zones-in-piliyandala-and-kaduwela/) · `en`
+
+Pan Asia Bank is excited to announce the opening of two new Digital Zones in Piliyandala and Kaduwela, aimed at enhancing the banking experience for customers in these bustling communities. This expansion is part of the bank’s commitment to providing modern banking solutions and making financial services more accessible to everyone.
+
+The Digital Zones are designed with the latest technology to allow customers to conduct a wide range of banking transactions with ease. With 24/7 ATM access, smart banking kiosks for account management, and customers can expect a smooth and efficient banking experience in both locations.
+
+“Our new Digital Zones in Piliyandala and Kaduwela demonstrate our commitment to bringing banking closer to our customers island-wide. We aim to utilize cutting-edge technology to offer our customers a secure and convenient way to manage their banking requirements,” said Naleen Edirisinghe, Director/CEO of Pan Asia Bank.
+
+...
+
+[Data](articles/45d99c33.json)
+
+---
 
 ### High rainfall in Colombo
 
@@ -59,6 +293,22 @@ Meanwhile, the Department of Meteorology has predicted more than 150 mm of rainf
 ---
 
 ### 2024-10-10 (Thursday)
+
+### අරුණ නි. ප්‍රවෘත්ති කර්තෘට එල්ල වූ මරණ තර්ජන විමර්ශනයට නියෝග
+
+*2024-10-10 23:36:13* · [`adalk`](https://www.ada.lk/breaking_news/අරුණ-නි--ප්‍රවෘත්ති-කර්තෘට-එල්ල-වූ-මරණ-තර්ජන-විමර්ශනයට-නියෝග/11-412436) · `si`
+
+අරුණ පුවත්පතේ නියෝජ්‍ය ප්‍රවෘත්ති කර්තෘ තිස්ස රවීන්ද්‍ර පෙරේරාට දුරකථනයෙන් එල්ල වී ඇතැයි කියන මරණ තර්ජන සම්බන්ධයෙන් වහාම පුළුල් විමර්ශනයක් පවත්වන ලෙස කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවෙල  (9 වැනිදා) පොලිසියට නියෝග කළේය.
+
+තමාට එල්ල වී ඇති තර්ජනයන් පිළිබඳව සඳහන් කරමින් කෝරළේ ආරච්චිගේ තිස්ස රවීන්ද්‍ර පෙරේරා විසින් මෙම මස 7 වැනිදා කුරුඳුවත්ත පොලිසියේ වැඩබලන ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක තිලක් බණ්ඩාර වෙත කරන ලද පැමිණිල්ලක් පිළිබඳ අධිකරණය වෙත පෙරේදා  කරුණු වාර්තා කළ අවස්ථාවේදී අතිරේක මහෙස්ත්‍රාත්වරයා එම නියෝගය කළේය.
+
+පැමිණිලිකරු ජාතික ආරක්ෂාව සම්බන්ධයෙන් පුවත්, සංවිධානාත්මක අපරාධ කල්ලි, රාජ්‍ය ආයතන හා අමාත්‍යාංශවල දූෂණ වංචා පිළිබඳ පුවත් පළකරන බවත් පොලිසිය අධිකරණය වෙත දන්වා සිටියේය.
+
+...
+
+[Data](articles/2c456531.json)
+
+---
 
 ### West Indies won by 8 wickets, but the semi -final chance is not sure
 
@@ -2043,361 +2293,5 @@ Jeevan Thondaman and Chairman Maruthappandi Rameswaran signed the nomination pap
 [Data](articles/93e234e1.json)
 
 [Extended Data](ext_articles/93e234e1.ext.json)
-
----
-
-### Dilith Jayaweera to contest General Election from Gampaha District
-
-*2024-10-10 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102587/dilith-jayaweera-to-contest-general-election-from-gampaha-district) · `en`
-
-The ‘Sarvajana Balaya’ alliance signed nomination papers for the 2024 General Election at Mawbima Janatha Party (MJP) head office today (10).
-
-Accordingly, leader of the MJP, entrepreneur Dilith Jayaweera signed nominations to contest from Gampaha District.
-
-Additionally, Vice Chairman of the party Prof. Channa Jayasumana and Milan Jayathilake also signed the nomination papers.
-
-Meanwhile, the alliance also submitted nominations for the Colombo District today.
-
-◼️
-
-[Data](articles/02eb747d.json)
-
-[Extended Data](ext_articles/02eb747d.ext.json)
-
----
-
-### Yall. Sri Lankan Tamil government party nomination
-
-*2024-10-10 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195930) · `ta`
-
-Sri Lankan Tamil State Party nominates candidates for Jaffna parliamentary election. Former MPs contest, pay tribute to Father Selva. TNA signs agreement; some leaders absent. Party officials attend event.
-
-🟩
-
-Sri Lanka Tamil State Party nomination to contest parliamentary elections Jaffna. They were handed over to the District Secretariat today (10).
-
-Jaffna includes Jaffna and Kilinochchi districts. Former MPs in the electoral district C. Siritharan, MA Sumanthiran, C. Sukirtan, K. Sayanthan, Emanuel Arnold and T.Prakash. Ilango, ch. Sureka and C. Krishnaveni will contest.
-
-At the same time, the candidates paid homage to the statue of Father Selva after the nomination.
-
-Earlier, the Tamil National Alliance (TNA) was signed with candidates, but former Sri Lanka Tamil National Alliance (TNA) leader Mawai Senathirasa and party treasurer Kanagasabapathy were not present.
-
-Also, the party's vice president CVK at the event.. Sivagnanam and Kulanayagam were also present.
-
-◼️
-
-[Data](articles/ccf8d2c9.json)
-
-[Extended Data](ext_articles/ccf8d2c9.ext.json)
-
----
-
-### 1,412 soldiers rise
-
-*2024-10-10 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195933) · `ta`
-
-Sri Lankan military marks 75th anniversary. Army Commander recommends promotions for 1,412 soldiers, including 131 lieutenants to captain rank and 8 second lieutenants. Additionally, various officer ranks and series receive increases.
-
-🟩
-
-The Sri Lankan military celebrates its 75th anniversary (1949 - 2024) today (10).
-
-On the recommendation of Army Commander Lieutenant General Lieutenant General Liyanage, President of the Armed Forces President Anura Kumara Dissanayake has been given the next standard increase in 139 officers and 1,273 standards of the Sri Lanka Army (permanent and volunteer) forces.
-
-Accordingly, 131 Lieutenins have increased in the category of Captain (including equipment trustees) and 08 second Lieutenins (permanent and volunteer forces).
-
-In addition, 99 bureaucratic officers II, unimaginable authorities II, 185 working Service Series II, 380 Service Series, 346 Cobals Series, 111 Lance Cobals Cobols and Lance Cobolus Standards and Lance Cobolus.
-
-◼️
-
-[Data](articles/bc0515ec.json)
-
-[Extended Data](ext_articles/bc0515ec.ext.json)
-
----
-
-### Two persons arrested for illegally smuggling cows from Kilinochchi
-
-*2024-10-10 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195932) · `ta`
-
-Two persons arrested for smuggling cows from Kilinochchi to Jaffna. 19 cows rescued, one died likely due to overcrowding. Driver and assistant detained. Case to be presented at Chavakachcheri Magistrate's Court.
-
-🟩
-
-Two persons have been arrested for illegally smuggling cows from Kilinochchi to Jaffna and rescued 19 cows alive and a cow.
-
-20 cows were transported from Kilinochchi to Jaffna on Wednesday (09).
-
-According to the confidential information available to the Chavakachcheri police on this issue, the lorry has been laid in the Meesala area.
-
-At the time, a cow died in 20 cows in the lorry. Police suspect that the cow may have died of congestion due to loading more cows.
-
-Subsequently, the police arrested the lorry driver and his assistant who had smuggled the cows and detained the cows and lorry at the police station.
-
-The police have taken steps to appear at the Chavakachcheri Magistrate's Court.
-
-◼️
-
-[Data](articles/3ec61218.json)
-
-[Extended Data](ext_articles/3ec61218.ext.json)
-
----
-
-### 8 Bangladesh citizens arrested with fake passports
-
-*2024-10-10 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195929) · `ta`
-
-Bangladesh citizens arrested fake passports Serbia immigration crackdown
-
-🟩
-
-Eight Bangladeshi citizens who tried to flee to Serbia using a fake passport have been arrested by the Immigration Department Border Enforcement Division and Criminal Investigation Department officials on Thursday (10).
-
-One of the three arrested citizens of Bangladesh, using a fake passport to Serbia from Qatar to Serbia on Wednesday (09) at 08.20 pm.
-
-In the meantime, a raid carried out by the Criminal Investigation Department officials found that the documents from the suspect were fake.
-
-Subsequently, another Bangladeshi citizen has been arrested by the Criminal Investigation Department (CID) for allegedly assisting the suspect to make a fake passport at an inquiry into the arrested suspect.
-
-Further inquiries into the suspects have revealed that six more Bangladeshi nationals are waiting for Serbia to flee at a hostel in Negombo.
-
-...
-
-[Data](articles/44ff7f99.json)
-
-[Extended Data](ext_articles/44ff7f99.ext.json)
-
----
-
-### Sri Lanka to grow 4.4-pct in 2024, 3.5-pct in 2024: World Bank
-
-*2024-10-10 13:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-grow-4-4-pct-in-2024-3-5-pct-in-2024-world-bank-183098/) · `en`
-
-ECONOMYNEXT – Sri Lanka is projected to grow 4.4 percent in 2024 as the country emerges from an economic crisis but the recovery hinges on maintaining macroeconomic stability and continuing reforms, the World Bank said.
-
-“Sri Lanka’s recent economic stabilization, market by four quarters of growth and a current account surplus in 2023 is a significant milestone,” David Sislen World Bank Regional Country Director said in a statement.
-
-“There is an opening for Sri Lanka to deepen its participation in global value chains and take advantage of its geography and an evolving global landscape to generate jobs and sustain growth.”
-
-The export potential included services like tourism and Sri Lanka had to reduce red tape and allow local and foreign investments to tap the potential, Country Manager Gevorg Sargsyan said.
-
-The World Bank said Sri Lanka has a potential to increase exports by an extra 10 billion US dollars a year (exports are now around a billion dollars a month), a year.
-
-...
-
-[Data](articles/8dc29c2c.json)
-
-[Extended Data](ext_articles/8dc29c2c.ext.json)
-
----
-
-### Holidays to vote for private sector
-
-*2024-10-10 13:04:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-துறையினருக்கும்-வாக்களிக்க-விடுமுறை/175-345212) · `ta`
-
-Election Commission announces special holidays for private sector employees to vote in Elpitiya Pradeshiya Sabha elections on October 26. Leave duration based on travel distance to polling booth. Three-day leave granted for distant locations. Decision aims to ensure all employees can cast ballots without using personal leave.
-
-🟩
-
-The Election Commission has announced that special holidays will be given to private sector employees to vote in the Elpitiya Pradeshiya Sabha elections to be held on October 26.
-
-This decision has been made on the basis of the Elections Act of the Local Authority, ensuring that all employees are given time to vote or not to use their personal leave.
-
-Public servants already have the right to vacation. However, due to complaints from private sector employees during the last elections, the Commission has decided to provide similar arrangements to private sector employees.
-
-According to the guidelines, the duration of the leave given depends on the distance the employee should travel to his ballot:
-
-In some cases, the Commission further stated that in case of employees to travel long distances, they may need a three -day leave to ensure that they reach their polling booths and return to work.
-
-◼️
-
-[Data](articles/d7f09f1e.json)
-
-[Extended Data](ext_articles/d7f09f1e.ext.json)
-
----
-
-### Sarath Ganegoda appointed SriLankan Airlines Chairman
-
-*2024-10-10 12:57:00* · [`economynextcom`](https://economynext.com/sarath-ganegoda-appointed-srilankan-airlines-chairman-183084/) · `en`
-
-ECONOMYNEXT – Sarath Clement Ganegoda, a director of Hayleys Plc, has been appointed as chairman of SriLankan Airlines with effect from Wednesday (9).
-
-A new board of directors has also been appointed for the state-owned airline.
-
-The new board includes Buddhika Hewawasam (Chairman of Sri Lanka Tourism Development Authority (SLTDA) and Sri Lanka Tourism Promotion Bureau (SLTPB)), Sugath Rajapakse, Eranga Rohan Peiris Goonetilleke (Hayleys Fabric), D Arandara (Treasury representative), Ananda Athukorale, Lakmal Ratnayake, and Niranjan Arulpragasam.
-
-Hayleys Plc was among the bidders shortlisted when the previous government sought to divest the airline under its state-owned enterprise restructuring programme.
-
-Sri Lanka sought a buyer for a stake sale of SriLankan Airlines but nothing was finalized, and the sale process was dropped.
-
-...
-
-[Data](articles/0f67fead.json)
-
-[Extended Data](ext_articles/0f67fead.ext.json)
-
----
-
-### Italian Naval ship ‘Ppa Montecuccoli’ arrives in Colombo
-
-*2024-10-10 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102586/italian-naval-ship-ppa-montecuccoli-arrives-in-colombo) · `en`
-
-Italian Naval ship ‘Ppa Montecuccoli’ has arrived at the port of Colombo on a formal visit this morning (10 October).
-
-The visiting ship was welcomed by the Sri Lanka Navy in compliance with naval traditions, Sri Lanka Navy said in a statement.
-
-‘Ppa Montecuccoli’ is a 143-metre-long Multi Purpose Combat Ship manned by a crew of 152. The ship is commanded by Commander Alessandro Troia. He is expected to call on the Commander Western Naval Area, Rear Admiral Chinthaka Kumarasinghe at the Western Naval Command Headquarters today, the statement added.
-
-During the ship’s stay in Colombo, its crew members will visit some of the tourist attractions of the country. Meanwhile, a briefing on the operational functions of the ship will be conducted aboard ‘Ppa Montecuccoli’ for Sri Lanka Navy personnel.
-
-On her departure on 13 October, ‘‘Ppa Montecuccoli’ is set to engage in a Passage Exercise (PASSEX) with a Sri Lanka Navy ship off the coast of Colombo, according to Sri Lanka Navy.
-
-◼️
-
-[Data](articles/62ca1a29.json)
-
-[Extended Data](ext_articles/62ca1a29.ext.json)
-
----
-
-### Vinul Karunaratne: In the 25 years, Sri Lankans, a Sri Lankan, speaks of Australian
-
-*2024-10-10 12:50:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cr75137nlejo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan Vinul Karunaratne, 26, became millionaire cleaning business. Started in Australia, now employs 40 staff. Entrepreneurial journey from cleaner to CEO. Plans to invest in Sri Lanka.
-
-🟩
-
-Vinul Karunaratne: In the 25 years, Sri Lankans, a Sri Lankan, speaks of Australian
-
-A Sri Lankan youth aged 26, Australia, has been more conversations from the media.
-
-According to the reports, a Sri Lankan youth who served as a cleanse employee had become a millionaire.
-
-The BBC Sinhala, Vinil Karunaratne, was able to connect the youthful man vin Karunaratne through the investigations carried out.
-
-There he said, "Some media published in the media is not true."
-
-Let us know what is the truth about him.
-
-Winzul Karunaratne aged 26, 1998, was born on October 2, 1998.
-
-He lived with his parents and the two sisters in their home in Kotte.
-
-He has been studying in Nugegoda and Lycemp International School, and the Cambridge has appeared for the Ordinary Level examination.
-
-How can be a graduate by 19 years of age without the age of 19?
-
-He was 17 years old when he finished the GCE O / L examination.
-
-"Dad sent me to Australia because the Cambridge was expedited. Then I graduated from ICT Business Alatics. "
-
-...
-
-[Data](articles/330e75e3.json)
-
-[Extended Data](ext_articles/330e75e3.ext.json)
-
----
-
-### Acting Chief Justice sworn in before President
-
-*2024-10-10 12:47:32* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-අගවිනිසුරු-ජනපති-ඉදිරියේ-දිවුරුම්-දෙයි/11-412420) · `si`
-
-Sri Lanka: Supreme Court Judge Nippini Fernando sworn in as Acting Chief Justice by President Anura Kumara Dissanayake at Presidential Secretariat.
-
-🟩
-
-Supreme Court Judge Nippini Fernando was sworn in before President Anura Kumara Dissanayake in the Presidential Secretariat as Acting Chief Justice in Sri Lanka.
-
-◼️
-
-[Data](articles/aa8afe18.json)
-
-[Extended Data](ext_articles/aa8afe18.ext.json)
-
----
-
-### Dilith fight in Gampaha
-
-*2024-10-10 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202026) · `si`
-
-Dilith Jayaweera signs nomination papers for Gampaha district. Prof. Channa Jayasumana and Milan Jayatilake also sign. Security forces transferred to Colombo district.
-
-🟩
-
-The nomination nomination signing of the universal power was held today (10) at the Head Office.
-
-Its leader Dilith Jayaweera signed a nomination papers for the Gampaha district today.
-
-In addition, Professor Channa Jayasumana and Gampaha District Leader Milan Jayatilake signed the nomination papers.
-
-In the meantime, the security force has been handed over to the Colombo district today.
-
-◼️
-
-[Data](articles/ed8cd113.json)
-
-[Extended Data](ext_articles/ed8cd113.ext.json)
-
----
-
-### Dilith Jayaweera signed the nomination
-
-*2024-10-10 12:41:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பு-மனுவில்-கையொப்பமிட்டார்-திலித்-ஜயவீர/175-345210) · `ta`
-
-Dilith Jayaweera and Milan Jayatilaka sign nomination papers for Sarvasana Power Coalition.
-
-🟩
-
-Homeland People's Party leader Dilith Jayaweera signed a nomination papers on Thursday (10) to contest the Sarvasana Power Coalition.
-
-Former parliamentarian and vice president of the motherland People's Party and former MP Milan Jayatilaka signed a nomination papers to contest on behalf of the Sarvasana Power Coalition.
-
-◼️
-
-[Data](articles/e4b8e052.json)
-
-[Extended Data](ext_articles/e4b8e052.ext.json)
-
----
-
-### Sri Lanka’s economy stabilized, reforms critical – World Bank
-
-*2024-10-10 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102585/sri-lankas-economy-stabilized-reforms-critical-world-bank) · `en`
-
-Sri Lanka’s economy has stabilized, with growth expected to reach 4.4 percent in 2024, surpassing earlier forecasts. This positive outlook follows four consecutive quarters of growth driven by the industrial and tourism sectors and supported by critical structural and policy reforms, says the World Bank.
-
-Released today, the World Bank’s bi-annual Sri Lanka Development Update, titled Opening Up to the Future, cautions that the recovery remains fragile and hinges on maintaining macroeconomic stability, successfully restructuring debt, and continuing structural reforms to increase medium-term growth and reduce poverty. Key reforms aimed at boosting exports, attracting foreign investment, enhancing female labor force participation, improving productivity, and addressing challenges such as poverty, food insecurity, and vulnerabilities in the financial sector are crucial for achieving more inclusive and sustainable growth.
-
-...
-
-[Data](articles/9aa446d5.json)
-
-[Extended Data](ext_articles/9aa446d5.ext.json)
-
----
-
-### Two bank accounts of former MP Anupa Pasqual ordered frozen
-
-*2024-10-10 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102584/two-bank-accounts-of-former-mp-anupa-pasqual-ordered-frozen) · `en`
-
-The Colombo High Court has ordered frozen several bank accounts owned by former MP Anupa Pasqual, in connection with an investigation being carried out under the Anti-Corruption Act.
-
-Accordingly, two bank accounts owned by the former MP in Koggala and Matugama branches of a bank have been ordered frozen for three months, Ada Derana reporter said.
-
-The order was issued in consideration of a request made by the Commission to Investigate Allegations of Bribery or Corruption in relation to the investigation carried out by the commission.
-
-◼️
-
-[Data](articles/3128760b.json)
-
-[Extended Data](ext_articles/3128760b.ext.json)
 
 ---

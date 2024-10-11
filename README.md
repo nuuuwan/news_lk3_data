@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 13:08:44**
+As of **2024-10-11 13:23:14**
 
 ## Newspaper Stats
 
-*Scraped **48,960** Articles*
+*Scraped **48,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 400
 colombotelegraphcom | 487
 bbccomsinhala | 487
 islandlk | 2,895
-economynextcom | 3,004
+economynextcom | 3,006
 dailyftlk | 3,323
 adalk | 4,547
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,958 (100.0%) of 48,960 articles have been extended.
+48,962 (100.0%) of 48,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Sri Lanka household healthcare costs rise, access to primary healthcare declines: IPS
+
+*2024-10-11 12:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-household-healthcare-costs-rise-access-to-primary-healthcare-declines-ips-183187/) · `en`
+
+ECONOMYNEXT — Household healthcare costs in Sri Lanka have risen 48 percent within a year from 2020 to 2021 and access to primary healthcare has declined from 95 percent in 2019 to 82 percent in 2022/2023, the Institute for Policy Studies (IPS) said.
+
+Speaking at an event on Tuesday October 08, IPS Economist Sunimalee Madurawala said that, though the country once prided itself on achieving remarkable health outcomes with minimal spending, recent crises have exposed significant weaknesses in the system.
+
+“Sri Lanka allocates only 8-9% of its total public spending to healthcare, far below the global average,” Madurawala said, noting that household healthcare costs have skyrocketed – rising by 48 percent within just one year from 2020 to 2021.
+
+...
+
+[Data](articles/6d071c1e.json)
+
+[Extended Data](ext_articles/6d071c1e.ext.json)
+
+---
 
 ### Damitha’s name not included in SJB nominations list?
 
@@ -45,6 +63,8 @@ Damita Abeyratne had announced yesterday (10) that she will contest the General 
 ◼️
 
 [Data](articles/c5121790.json)
+
+[Extended Data](ext_articles/c5121790.ext.json)
 
 ---
 
@@ -88,11 +108,13 @@ Damitha Abeyratne told the media yesterday (10) that he would contest the genera
 
 ---
 
-### Crown of Goddess Kali, Gifted by PM Modi, Stolen from Bangladesh Temple
+### Crown of Goddess Kali, gifted by PM Modi, stolen from Bangladesh temple
 
 *2024-10-11 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102614/crown-of-goddess-kali-gifted-by-pm-modi-stolen-from-bangladesh-temple) · `en`
 
-A crown of goddess Kali has been stolen from the Jeshoreshwari temple in Satkhira’s Shyamnagar. This crown was gifted by Prime Minister Narendra Modi during his visit to the temple in March, 2021, as reported by The Daily Star.
+A crown of goddess Kali has been stolen from the Jeshoreshwari temple in Satkhira’s Shyamnagar.
+
+This crown was gifted by Prime Minister Narendra Modi during his visit to the temple in March, 2021, as reported by The Daily Star.
 
 The theft occurred on Thursday between 2.00 pm and 2.30 pm, after Temple Priest Dilip Mukherjee left following the day’s worship. The cleaning staff later found that the crown was missing from the deity’s head, as reported by The Daily Star.
 
@@ -536,21 +558,29 @@ The Meteorological Department states that it is a rainfall of 239mm.
 
 ---
 
-### සෞදි යන්න ගිය ගුවන් යානය විනාඩි 95කට පසු යළිත් කටුනායකට ගොඩ බස්සවයි
+### The flight to Saudi to go to Katunayake again 95 minutes after
 
 *2024-10-11 09:15:00* · [`adalk`](https://www.ada.lk/breaking_news/සෞදි-යන්න-ගිය-ගුවන්-යානය-විනාඩි-95කට-පසු-යළිත්-කටුනායකට-ගොඩ-බස්සවයි/11-412439) · `si`
 
-සෞදි අරාබියේ රියාද් නුවර බලා 10/10 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගිය ශ්‍රී ලන්කන් ගුවන් යානය පැය 01 යි විනාඩි 35 ක ගුවන් ගමනකින් පසු , ගුවන් යානය කාර්මික දෝශයකට ලක් වීම නිසා  යළිත් කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට , එම යානයේ ගුවන් නියමුවා විසින්  පියවර ගෙන ඇති බව ශ්‍රී ලන්කන් ගුවන් සේවයේ ආයතනික සන්නිවේදන අංශය නිකුත් කළ නිවේදනයක සදහන් වේ.
+SriLankan Airlines ULF265 diverted to Katunayake after taking off for Saudi Arabia. Aircraft returned due to mechanical issues. Passengers re-routed to Riyadh. Repair work ongoing.
 
-ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 265 දරන ගුවන් යානය ගුවන් මගීන් 215 දෙනෙකු රැගෙන 10/10 දින රාත්‍රී 06.15 ට කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගොස් තිබේ .
+🟩
 
-මෙම ගුවන් යානය කාර්මික දෝශයකට ලක් වීම නිසා යළිත් මෙම ගුවන් යානය 10/10 දින රාත්‍රී 07.50 ට කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට පියවර ගෙන ඇති බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා පැවසීය .
+SriLankan Airplane left Katunayake airport on Naduna Arabia on Nadiyadana Arabia on night, the airplane to landed back to Katunayake airport, to landed back to Katunayake airport.The SriLankan Airlines Corporate Communication Division is issued in a statement issued by the SriLankan Airlines Corporate Communication Division.
 
-මෙහිදී සෞදි අරාබියේ රියාද් නුවර වෙත කඩිනමින් යාමට අවශ්‍යතා ඇති ගුවන් මගීන් වෙනත් , විකල්ප ගුවන් යානා මගින් පිටත් කර හැරීමට ශ්‍රී ලන්කන් ගුවන් සේවය පියවර ගෙන තිබූ අතර ඉතිරි ගුවන් මගීන් පිරිස ගුවන් තොටුපොළ අසළ හෝටල් වෙත යොමු කිරීමට ද පියවර ගෙන තිබුණි .
+SriLankan Airlines ULF, 265 aircraft, leaving the Katunayake airport at 06/10 pm on the 15th night.
 
-...
+The airport has taken steps to landed at the Katunayake airport at 07.50 pm due to the fact that the airplane was industrious.
+
+The SriLankan Airlines had taken steps to send passengers from the Saudi Arabia to go to Riyadh to go to Riyadh.
+
+Sri Lankan engineers are doing that the aircraft in the same aircraft have been referred to repair work
+
+◼️
 
 [Data](articles/3b184971.json)
+
+[Extended Data](ext_articles/3b184971.ext.json)
 
 ---
 
@@ -2183,27 +2213,5 @@ SriLankan Airlines says that all passengers have provided hotel accommodation an
 [Data](articles/680c52a9.json)
 
 [Extended Data](ext_articles/680c52a9.ext.json)
-
----
-
-### Shani Abeesekera in the police service again
-
-*2024-10-10 22:09:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-பொலிஸ்-சேவையில்-ஷானி-அபேசேகர/175-345250) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former SSP Shani Abeysekara reappointed on contract by Police Commission for one year, effective October 10.
-
-🟩
-
-The Police Commission has granted permission to re -appoint former Senior Superintendent of Police Shani Abeysekara on a contract for one year from today (October 10).. Remble
-
-◼️
-
-[Data](articles/65b5b92a.json)
-
-[Extended Data](ext_articles/65b5b92a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 01:40:01**
+As of **2024-10-12 01:58:21**
 
 ## Newspaper Stats
 
-*Scraped **49,041** Articles*
+*Scraped **49,047** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 487
 bbccomsinhala | 489
 islandlk | 2,895
 economynextcom | 3,016
-dailyftlk | 3,328
+dailyftlk | 3,334
 adalk | 4,556
 dailymirrorlk | 4,733
 adaderanalk | 5,793
@@ -26,11 +26,129 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,039 (100.0%) of 49,041 articles have been extended.
+49,047 (100.0%) of 49,047 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### President directs officials to provide Rs. 3,000 monthly allowance to pensioners immediately
+
+*2024-10-12 01:29:08* · [`dailyftlk`](https://www.ft.lk/news/President-directs-officials-to-provide-Rs-3-000-monthly-allowance-to-pensioners-immediately/56-767895) · `en`
+
+President Anura Kumara Dissanayake has instructed officials of the Ministry of Finance to take necessary action to provide a monthly interim allowance of Rs. 3000 to all pensioners, from next week.
+
+After reviewing the delay in adding the Rs. 3000 allowance to the October pension, the President directed that this amount be credited to the pensioners’ accounts within the next week.
+
+These instructions were given during a meeting held on Thursday with senior officials of the Ministry of Finance, chaired by President Anura Kumara Dissanayake.
+
+Despite the circular No. 02/2024 dated 2024/08/24 issued by the Public Administration Department to grant a monthly interim allowance of Rs. 3000 to all pensioners, funds were not allocated for this purpose.
+
+Upon reviewing the matter, President Anura Kumara Dissanayake informed the officials of the Ministry of Finance to ensure that the required funds are provided.
+
+...
+
+[Data](articles/ce4e119e.json)
+
+[Extended Data](ext_articles/ce4e119e.ext.json)
+
+---
+
+### Transport Minister orders unrestricted use of student bus season tickets on holidays
+
+*2024-10-12 01:28:26* · [`dailyftlk`](https://www.ft.lk/news/Transport-Minister-orders-unrestricted-use-of-student-bus-season-tickets-on-holidays/56-767894) · `en`
+
+Transport Minister Vijitha Herath yesterday directed the National Transport Commission (NTC) to ensure that student season bus tickets issued to school, technical college and university students are valid for travel on Saturdays, Sundays and all public holidays.
+
+This decision comes in response to numerous complaints from students who have faced significant inconveniences when travelling on holidays using their season bus tickets.
+
+Herath emphasised the need for an immediate solution, instructing the NTC Chairman to make the necessary arrangements to allow students to travel freely on Sri Lanka Transport Board (SLTB) buses throughout the entire month.
+
+The directive aims to ease the financial burden on students, ensure their mobility and improving access to education and other essential services on non-academic days.
+
+◼️
+
+[Data](articles/aa64b025.json)
+
+[Extended Data](ext_articles/aa64b025.ext.json)
+
+---
+
+### World Food Program assures continuous support to Sri Lanka
+
+*2024-10-12 01:27:46* · [`dailyftlk`](https://www.ft.lk/news/World-Food-Program-assures-continuous-support-to-Sri-Lanka/56-767893) · `en`
+
+The World Food Program (WFP) yesterday assured continuous support to Sri Lanka.
+
+This was conveyed by a WFP delegation to Secretary to the President, Dr. Nandika Sanath Kumanayake.
+
+During the meeting, the WFP representatives agreed to continue their on-going programs in Sri Lanka through the World Food Program, ensuring no disruptions.
+
+Although the food crisis in Sri Lanka has eased to some extent, the WFP officials expressed their willingness to extend further support through new programs whenever additional needs arise.
+
+The WFP delegation included WFP Country Director Abdur Rahim Siddiqui, the Government Partnerships Officer Musthafa Nihmath and the WFP Sri Lanka’s Deputy Country Director Gerard Rebello.  Additional Secretary to the President Roshan Gamage also attended the meeting.
+
+◼️
+
+[Data](articles/1cad5a79.json)
+
+[Extended Data](ext_articles/1cad5a79.ext.json)
+
+---
+
+### UN renews human rights mandate on Sri Lanka
+
+*2024-10-12 01:27:09* · [`dailyftlk`](https://www.ft.lk/news/UN-renews-human-rights-mandate-on-Sri-Lanka/56-767892) · `en`
+
+International role remains crucial for pursuing accountability, addressing ongoing violations
+
+The United Nations Human Rights Council adopted by consensus a resolution on the human rights situation in Sri Lanka on 9 October.
+
+This follows the election of a new President, Anura Kumara Dissanayake, on 21 September.
+
+The resolution extends the mandate of the UN Office of the High Commissioner for Human Rights (OHCHR) for another year, allowing it to report on ongoing violations and collect evidence of past and current rights violations and crimes under international law committed in Sri Lanka for use in future prosecutions, including those committed in the 1983-2009 civil war. The resolution was presented by a core group consisting of Canada, Malawi, Montenegro, North Macedonia, the United Kingdom, and the United States.
+
+...
+
+[Data](articles/a4834a6b.json)
+
+[Extended Data](ext_articles/a4834a6b.ext.json)
+
+---
+
+### SL condemns attack in Lebanon; 2 Lankan UN peacekeepers injured
+
+*2024-10-12 01:26:56* · [`dailyftlk`](https://www.ft.lk/news/SL-condemns-attack-in-Lebanon-2-Lankan-UN-peacekeepers-injured/56-767891) · `en`
+
+Sri Lanka yesterday strongly condemned the attack at UNIFIL’s headquarters in Naqoura, South Lebanon injuring two Sri Lankan UN peacekeepers.
+
+“Sri Lanka upholds the obligations to ensure the safety and security of UN personnel and inviolability of UN premises at all times,” Foreign Affairs Ministry said in a statement.
+
+“Sri Lanka Embassy in Beirut is in contact with UNIFIL regarding the medical attention and speedy recovery of the Sri Lankan peacekeepers.  Sri Lanka values the brave contribution of its UN peacekeepers worldwide,” it added.
+
+◼️
+
+[Data](articles/a3916f98.json)
+
+[Extended Data](ext_articles/a3916f98.ext.json)
+
+---
+
+### News 1st Sonali Wanigabaduge wins prestigious South Asia Laadli Media award for Gender Sensitivity 2024
+
+*2024-10-12 01:26:39* · [`dailyftlk`](https://www.ft.lk/news/News-1st-Sonali-Wanigabaduge-wins-prestigious-South-Asia-Laadli-Media-award-for-Gender-Sensitivity-2024/56-767890) · `en`
+
+News 1st Sonali Wanigabaduge won the prestigious South Asia Laadli Media and Advertising award for Gender Sensitivity 2024, representing Sri Lanka, at a star-studded award ceremony at the Tata Theatre, NCPA, Mumbai, on 9 October.
+
+The awards, organised by Population First, a Mumbai-based social impact organisation that has been working for over two decades to promote gender sensitivity in media, recognised 14 gender-sensitivity awardees from seven South Asian countries at the fourth edition of the South Asia Laadli Media and Advertising Awards for Gender Sensitivity 2024. Apart from Sri Lanka, the award winners cover Pakistan, Afghanistan, Nepal, Bhutan, Bangladesh and the Maldives.
+
+...
+
+[Data](articles/25c93f38.json)
+
+[Extended Data](ext_articles/25c93f38.ext.json)
+
+---
 
 ### Alsonic introduces eco-Friendly ODO Plus odour neutraliser
 
@@ -1356,6 +1474,8 @@ All offered 25 billion rupees of 01 October 2032 bonds were sold at an average y
 
 [Data](articles/8500da5e.json)
 
+[Extended Data](ext_articles/8500da5e.ext.json)
+
 ---
 
 ### Japanese atomic bomb survivor group Nihon Hidankyo awarded Nobel Peace Prize
@@ -1687,6 +1807,8 @@ Interest rates are easing, with deposit rates falling ahead of lending and econo
 ...
 
 [Data](articles/a1bf41f5.json)
+
+[Extended Data](ext_articles/a1bf41f5.ext.json)
 
 ---
 
@@ -2241,147 +2363,5 @@ Ms. Rohnani Wijeratne said that the brother of the Wasantha Wijeratne, who is in
 [Data](articles/9d56df45.json)
 
 [Extended Data](ext_articles/9d56df45.ext.json)
-
----
-
-### PM requests Thai govt’s support to rescue Sri Lankans in cybercrime camps in Myanmar
-
-*2024-10-11 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102609/pm-requests-thai-govts-support-to-rescue-sri-lankans-in-cybercrime-camps-in-myanmar) · `en`
-
-Prime Minister Dr. Harini Amarasuriya requested the Thai government’s assistance in rescuing Sri Lankans still detained in cybercrime camps in Myanmar’s Myawaddy region, facilitated by the Myanmar government and the International Organization for Migration (IOM).
-
-The Prime Minister made this request during a discussion held with the Thai Ambassador, Paitoon Mahapannaporn, at the Prime Minister’s Office yesterday (10), according to a statement.
-
-The Prime Minister expressed her gratitude for the assistance provided by the Government of Thailand in rescuing 28 Sri Lankans from cybercrime camps and asked for continued support to rescue the 40 Sri Lankans still detained in the said camps.
-
-...
-
-[Data](articles/4cd09fde.json)
-
-[Extended Data](ext_articles/4cd09fde.ext.json)
-
----
-
-### Flood on the southern highway
-
-*2024-10-11 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195998) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Floods hit southern highway. Road Development Authority closes Velipanna area temporarily."
-
-🟩
-
-The Road Development Authority said that steps have been taken to temporarily close the area of ​​Velipanna.
-
-◼️
-
-[Data](articles/87dd6d6c.json)
-
-[Extended Data](ext_articles/87dd6d6c.ext.json)
-
----
-
-### Two passenger bus collides
-
-*2024-10-11 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202054) · `si`
-
-Two buses collide in Sri Lanka. Accident occurs near Kegalle. 18 injured sent to hospitals. Driver suspected of losing control due to technical issue.
-
-🟩
-
-Two buses have collided with two busy buses this morning (11).
-
-The accident occurred at Utuwanakanda Walakadawa, Utuwankanda Walakadawela this morning.
-
-The Kegalle Police said that 18 persons were admitted to Kegalle and Mawanella hospitals.
-
-The bus was on the back of the bus traveling from Kegalle to Mawanella, the bus was gone to Kandy.
-
-Police suspect that the driver cannot control the vehicle due to a technical fault from the bus which was in Panadura.
-
-◼️
-
-[Data](articles/b8f5b278.json)
-
-[Extended Data](ext_articles/b8f5b278.ext.json)
-
----
-
-### General Election 2024: Who are the former MPs who are not contesting the Diyawanna?
-
-*2024-10-11 09:47:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cnvdp33jnpeo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former MPs not contesting 2024 Sri Lankan general election: Mahinda Rajapaksa, Maithripala Sirisena, Ranil Wickremesinghe, Dinesh Gunawardena, Mahinda Yapa Abeywardena, Bandula Gunawardena, Prasanna Ranatunga, Ali Sabri, Shehan Semasinghe, Chamal Rajapaksa, Basil Rajapaksa, Patali Champika Ranawaka, Nalaka Godahewa, Mahe Seneviratha, Mahei Senadhirajah, PV Vigneswaran, Wimalaweera Dissanayake, SB Dissanayake, Kanakayaka Nanayakkara, Janaka Bandara Tennakkara.
-
-🟩
-
-One of the most popular tendencies in the country was a slogan of the people who were constantly heard in the face of the economic collapse of the country.
-
-The nominations for the Parliamentary General Elections on November 14, including the economic issues and the lack of the essential commodities, including the economic problems and the power cuts, ended today (Oct: 11).
-
-The last few weeks have decided not to contest a number of MPs representing the 9th Parliament for the general election.
-
-Former President Mahinda Rajapaksa, Maithripala Sirisena and Ranil Wickremesinghe have decided not to contest the general election this year.
-
-අවස්ථා දෙකක දී විධායක ජනාධිපති ධුරය හොඹ වනු ලැබූ මහින්ද රාජපක්ෂ පළමු වරට පාර්ලිමේන්තුවට පිවිසියේ 1970 වර්ෂයේදී යි.
-
-He won the Kurunegala District at the General Elections in the 2020 and won the highest number of preferential votes with 527,364 preferential votes.
-
-...
-
-[Data](articles/dd2ea55b.json)
-
-[Extended Data](ext_articles/dd2ea55b.ext.json)
-
----
-
-### Former MP has passed away
-
-*2024-10-11 09:47:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பி-காலமானார்/175-345265) · `ta`
-
-Former MP from Anuradhapura District passes away at 76.
-
-🟩
-
-Former Parliamentarian of Anuradhapura District WB Aakanayake passed away on Thursday (11). He is 76 years old when he dies.
-
-◼️
-
-[Data](articles/1410ef39.json)
-
-[Extended Data](ext_articles/1410ef39.ext.json)
-
----
-
-### The aircraft departed for Saudi has returned to Katunayake
-
-*2024-10-11 09:33:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவுதிக்கு-புறப்பட்ட-விமானம்-கட்டுநாயக்க-திரும்பியது/175-345264) · `ta`
-
-SriLankan Airlines flight UL-265 returned to Katunayake after 35-minute journey due to technical issues. Passengers re-routed to hotels while aircraft undergoes repairs.
-
-🟩
-
-The Sri Lankan flight departed from Katunayake airport to Saudi Arabia on Thursday night (10) and landed at Katunayake airport after a 35 -minute trip due to technical failure
-
-The SriLankan Airlines flight departed from Katunayake airport at 10/10 pm with UL-265 215 passengers.
-
-The airport official said that action has been taken to land at Katunayake airport at 10/10 pm due to the technical failure of the aircraft.
-
-SriLankan Airlines has taken steps to send air passengers to Riyadh, Saudi Arabia, and take steps to send the remaining air passengers to hotels near the airport.
-
-Sri Lankan engineers say that the A330 aircraft, which was caught in a technical disorder, has now been sent to repair work.
-
-◼️
-
-[Data](articles/14afe64c.json)
-
-[Extended Data](ext_articles/14afe64c.ext.json)
 
 ---

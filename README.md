@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 12:38:53**
+As of **2024-10-11 12:57:29**
 
 ## Newspaper Stats
 
-*Scraped **48,956** Articles*
+*Scraped **48,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 400
 colombotelegraphcom | 487
 bbccomsinhala | 487
 islandlk | 2,895
-economynextcom | 3,002
+economynextcom | 3,004
 dailyftlk | 3,323
 adalk | 4,546
 dailymirrorlk | 4,733
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,956 (100.0%) of 48,956 articles have been extended.
+48,958 (100.0%) of 48,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Sri Lanka’s Awesuma scheme could benefit from better targeting: IPS
+
+*2024-10-11 12:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-awesuma-scheme-could-benefit-from-better-targeting-ips-183175/) · `en`
+
+ECONOMYNEXT — While it takes a holistic approach to poverty, there are clear gaps in Sri Lanka’s Aswesuma welfare benefits programme, the Institute of Policy Studies (IPS) said, calling for improved targeting, revising criteria and additional indicators.
+
+At a discussion held on Tuesday October 08, IPS Research Economist Pulasthi Amarasinghe offered insights into the effectiveness of the Aswesuma Programme. Introduced to replace the Samurdhi programme, Aswesuma uses 22 indicators across six dimensions to determine eligibility for cash transfers.
+
+“According to a forthcoming IPS study, while the programme aims to improve the targeting of welfare benefits, only 53.51 percent of previous Samurdhi recipients are eligible for Aswesuma,” he said, noting that the programme should research previously unassisted groups.
+
+...
+
+[Data](articles/0a4415c0.json)
+
+[Extended Data](ext_articles/0a4415c0.ext.json)
+
+---
 
 ### Damitha gets caught from the list
 
@@ -103,6 +121,24 @@ The Heleen Storm hit the province of Florida on the 26th of last month.
 [Data](articles/f16e7894.json)
 
 [Extended Data](ext_articles/f16e7894.ext.json)
+
+---
+
+### Sri Lanka’s lower-income households pay 10 pct of income on VAT: IPS
+
+*2024-10-11 11:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-lower-income-households-pay-10-pct-of-income-on-vat-ips-183174/) · `en`
+
+ECONOMYNEXT –Sri Lanka’s lower-income households spend 10 percent of their income on value added tax (VAT), while the richest households contribute some 95 percent of pay-as-you-earn (PAYE) and personal income tax (PIT), the Institute of Policy Studies (IPS) said.
+
+Speaking at an event on Tuesday October IPS Research Economist Priyanka Jayawardena noted, however, that tax evasion remains a problem.
+
+While PIT revenue for 2023 was estimated at 131 billion rupees, only 48 billion appears to have been collected in 2023, a statement from the IPS quoted her as saying.
+
+...
+
+[Data](articles/604b8cbc.json)
+
+[Extended Data](ext_articles/604b8cbc.ext.json)
 
 ---
 
@@ -2175,43 +2211,5 @@ Former SSP Shani Abeysekera has approved the re-employment to the police service
 [Data](articles/8d6d2fe4.json)
 
 [Extended Data](ext_articles/8d6d2fe4.ext.json)
-
----
-
-### Police Commission approves reappointment of Shani Abeysekera
-
-*2024-10-10 21:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102602/police-commission-approves-reappointment-of-shani-abeysekera) · `en`
-
-The National Police Commission has approved the reappointment of former Senior Superintendent of Police (SSP) Shani Abeysekera in the Police Service on a contract basis for one year, with effect from today (10).
-
-Speculation has been rife that Abeysekara, who retired from the service 3 years ago, is expected to lead a new assets recovery unit of the police department.
-
-◼️
-
-[Data](articles/89c82473.json)
-
-[Extended Data](ext_articles/89c82473.ext.json)
-
----
-
-### Motorcycles collide
-
-*2024-10-10 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195973) · `ta`
-
-Motorcycle collision kills woman, injures driver. Two bikes crash on Avissawella-Colombo road. Victim's body at Padukka hospital.
-
-🟩
-
-A woman who was sitting in the back of a motorcycle was killed when two motorcycles collided with a motorcycle near Kodikahakanda Mawatha on the Avissawella -Colombo road, Padukka police said today (10).
-
-Two motorcycles were traveling from Bahadkama to Meeb and collided with another motorcycle in the same direction, police said.
-
-The woman who died in the accident and the driver of the other motorcycle has been admitted to the Padukku District Hospital with minor injuries and the body of the deceased has been placed in the funeral room of the hospital.
-
-◼️
-
-[Data](articles/d588e244.json)
-
-[Extended Data](ext_articles/d588e244.ext.json)
 
 ---

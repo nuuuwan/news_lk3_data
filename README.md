@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 10:11:47**
+As of **2024-10-11 10:24:20**
 
 ## Newspaper Stats
 
-*Scraped **48,935** Articles*
+*Scraped **48,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 3,000
 dailyftlk | 3,323
 adalk | 4,543
 dailymirrorlk | 4,733
-adaderanalk | 5,776
-tamilmirrorlk | 6,643
+adaderanalk | 5,777
+tamilmirrorlk | 6,644
 virakesarilk | 7,828
-adaderanasinhalalk | 8,458
+adaderanasinhalalk | 8,459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,934 (100.0%) of 48,935 articles have been extended.
+48,938 (100.0%) of 48,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### PM requests Thai govt’s support to rescue Sri Lankans in cybercrime camps in Myanmar
+
+*2024-10-11 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102609/pm-requests-thai-govts-support-to-rescue-sri-lankans-in-cybercrime-camps-in-myanmar) · `en`
+
+Prime Minister Dr. Harini Amarasuriya requested the Thai government’s assistance in rescuing Sri Lankans still detained in cybercrime camps in Myanmar’s Myawaddy region, facilitated by the Myanmar government and the International Organization for Migration (IOM).
+
+The Prime Minister made this request during a discussion held with the Thai Ambassador, Paitoon Mahapannaporn, at the Prime Minister’s Office yesterday (10), according to a statement.
+
+The Prime Minister expressed her gratitude for the assistance provided by the Government of Thailand in rescuing 28 Sri Lankans from cybercrime camps and asked for continued support to rescue the 40 Sri Lankans still detained in the said camps.
+
+...
+
+[Data](articles/4cd09fde.json)
+
+[Extended Data](ext_articles/4cd09fde.ext.json)
+
+---
 
 ### Flood on the southern highway
 
@@ -51,6 +69,50 @@ The Road Development Authority said that steps have been taken to temporarily cl
 [Data](articles/87dd6d6c.json)
 
 [Extended Data](ext_articles/87dd6d6c.ext.json)
+
+---
+
+### Two passenger bus collides
+
+*2024-10-11 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202054) · `si`
+
+Two buses collide in Sri Lanka. Accident occurs near Kegalle. 18 injured sent to hospitals. Driver suspected of losing control due to technical issue.
+
+🟩
+
+Two buses have collided with two busy buses this morning (11).
+
+The accident occurred at Utuwanakanda Walakadawa, Utuwankanda Walakadawela this morning.
+
+The Kegalle Police said that 18 persons were admitted to Kegalle and Mawanella hospitals.
+
+The bus was on the back of the bus traveling from Kegalle to Mawanella, the bus was gone to Kandy.
+
+Police suspect that the driver cannot control the vehicle due to a technical fault from the bus which was in Panadura.
+
+◼️
+
+[Data](articles/b8f5b278.json)
+
+[Extended Data](ext_articles/b8f5b278.ext.json)
+
+---
+
+### Former MP has passed away
+
+*2024-10-11 09:47:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பி-காலமானார்/175-345265) · `ta`
+
+Former MP from Anuradhapura District passes away at 76.
+
+🟩
+
+Former Parliamentarian of Anuradhapura District WB Aakanayake passed away on Thursday (11). He is 76 years old when he dies.
+
+◼️
+
+[Data](articles/1410ef39.json)
+
+[Extended Data](ext_articles/1410ef39.ext.json)
 
 ---
 
@@ -174,6 +236,10 @@ DIG Talduwa further stated that instructions have been given to coordinate the G
 
 *2024-10-11 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102606/landslide-early-warnings-issued-for-several-districts) · `en`
 
+UPDATE: The highest rainfall of 239 mm was recorded from Horana in the Kalutara District within the last 24 hours, as of 6.00 a.m. today.
+
+Elpitiya recorded 194.75 mm, Bulathsinhala 187 mm, Matugama 186.5 mm, and Seethawaka 184.5 mm of rainfall, according to the Meteorology Department.
+
 The National Building and Research Organisation (NBRO) has issued landslide warnings to multiple areas in several districts, as heavy rainfall continues in parts of the island.
 
 Accordingly, a Level 2 (Amber) warning has been issued for several Divisional Secretariat areas in Galle, Kalutara, Colombo, Kegalle, Ratnapura and Gampaha districts as follows:
@@ -184,9 +250,7 @@ Kaluthara District: Bulathsinhala, Walallawita, Matugama, Dodangoda, Ingiriya, H
 
 Kegalle District: Ruwanwella, Warakapola, Dehiovita, Yatiyanthota Bulathkohupitiya DSD and surrounding areas
 
-Meanwhile, a Level 1 (Yellow) warning was issued for several areas in the following districts:
-
-◼️
+...
 
 [Data](articles/ef313558.json)
 
@@ -1386,21 +1450,27 @@ Meanwhile, the Tamil National Alliance (TNA) handed over the nomination papers f
 
 ---
 
-### ஓமந்தையில் காணி பிணக்கு காரணமாக வாள்வெட்டு: ஒருவர் மரணம்- மேலும் ஒருவர் படுகாயம்
+### Swords in Omanthai
 
 *2024-10-11 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195988) · `ta`
 
-ஓமந்தை, கதிரவேலு பூவரசன்குளம் பகுதியில் காணி பிணக்கு காரணமாக இடம்பெற்ற வாள்வெட்டில் ஒருவர் மரணமடைந்துள்ளதுடன், ஒருவர் படுகாயமடைந்து வவுனியா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+A man was killed and another injured in a sword fight in Omanthai, Sri Lanka. The incident occurred during a dispute between neighbors. Both victims were rushed to Vavuniya Hospital.
 
-வவுனியா, ஓமந்தை, கதிரவேலுபூவரசன்குளம் பகுதியில் வசிக்கும் இரு குடும்பங்களுக்கிடையில் காணி தொடர்பாகச் சிறிய பிணக்கு ஒன்று இருந்து வந்துள்ளது. இந்நிலையில் குறித்த காணியில் மாமன் மற்றும் மருகன் ஆகிய இருவரும் வேலை செய்து கொண்டிருந்த போது அங்கு வந்த நபர்கள் குறித்த இருவர் மீதும் மிளகாய்த் தூளை அள்ளி வீசிவிட்டு அவர்களை விரட்டி வாள் வெட்டு தாக்குதலை மேற்கொண்டதாக ஊர்மக்கள் தெரிவிக்கின்றனர்.
+🟩
 
-இதன்போது இரண்டு பிள்ளைகளின் தந்தையான இளங்கோ (வயது 38) என்பவர் சம்பவ இடத்திலேயே மரணமடைந்துள்ளதுடன், 42 வயதுடைய மூன்று பிள்ளைகளின் தந்தையான ரூ.திலீபன் படுகாயமடைந்த நிலையில் உறவினர்கள் மற்றும் ஊர் மக்களால் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+One person has died in a sword in the Poovarasankulam area of ​​Omanthai, Omanthai, and one has been injured and has been admitted to the Vavuniya Hospital for treatment.
 
-படுகாயமடைந்தவர் அவசர சிகிச்சைப்  பிரிவில் அனுமதிக்கப்பட்டுள்ளார். இறந்தவரின் உடல் வவுனியா வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ளது.
+There has been a small number of families living in the Vavuniya, Omanthai and Kathiravelupuvaravarasankulam area.. When both Maman and Marugan were working on the land, the people who came there were throwing a chilli powder on the two men and chasing them.
+
+The father of two children, Ilango (age 38), has died on the spot and has been admitted to the Vavuniya Hospital by relatives and people of the town after the death of three children aged 42.
+
+The injured has been admitted to the emergency department. The body of the deceased has been handed over to the Vavuniya Hospital.
 
 ◼️
 
 [Data](articles/247f16e8.json)
+
+[Extended Data](ext_articles/247f16e8.ext.json)
 
 ---
 
@@ -2175,67 +2245,5 @@ It is also said that the representation of national lists should be taken as pos
 [Data](articles/318d5fef.json)
 
 [Extended Data](ext_articles/318d5fef.ext.json)
-
----
-
-### Right groups urge global scrutiny on Sri Lanka’s HR violations
-
-*2024-10-10 18:49:00* · [`economynextcom`](https://economynext.com/right-groups-urge-global-scrutiny-on-sri-lankas-hr-violations-183147/) · `en`
-
-ECONOMYNEXT – International right groups have urged continuous global scrutiny over Sri Lanka’s human rights violations after a day after resolution was passed to extend the United Nations to collect evidence of past and current abuses violations and crimes under international law committed in Sri Lanka for use in future prosecutions.
-
-The United Nations Human Rights Council (UNHRC) on Wednesday (09) adopted the resolution to extend the term of the UN Office of the High Commissioner for Human Rights (OHCHR) to collect evidence for past human rights abuses by another year.
-
-The resolution was presented by a core group consisting of Canada, Malawi, Montenegro, North Macedonia, the United Kingdom, and the United States and is the first on human rights under the new president Anura Kumara Dissanayake who was elected as the president of the island nation last month.
-
-...
-
-[Data](articles/ad6232e6.json)
-
-[Extended Data](ext_articles/ad6232e6.ext.json)
-
----
-
-### Tea exports to Saudi
-
-*2024-10-10 18:45:59* · [`adalk`](https://www.ada.lk/breaking_news/සෞදියට-තේ-අපනයනය-වැඩි-කරන්න-යයි/11-412433) · `si`
-
-Saudi Arabia's ambassador met Sri Lanka's president to discuss trade, particularly tea exports. They discussed strengthening bilateral relations and attracting investors.
-
-🟩
-
-Saudi Arabian Ambassador to Sri Lanka's Zudy Arabian Ambassador Khaded Nasser AlkAtani (Khalid Hamuud Nasser alkahatani) met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
-
-Ambassador Alkothani was presented to the President of King Salman Bin Abithani in Saudi Arabia for Anura Kumara Dissanayake.
-
-Discussions were made regarding the current status of the region and the friendship and cooperation between Saudi Arabia and Sri Lanka.
-
-Ambassador Alkothani expressed his praise on the long-term support and continued cooperation between the Long Term Assistance and the two nations. The President and Ambassador also focused on the increase in the export of tea in Sri Lanka to Saudi Arabia.
-
-...
-
-[Data](articles/21a354f1.json)
-
-[Extended Data](ext_articles/21a354f1.ext.json)
-
----
-
-### Navees don't have to go back to politics
-
-*2024-10-10 18:41:45* · [`adalk`](https://www.ada.lk/breaking_news/නවීන්-මැතිවරණයට-නෑ--දේශපාලනයෙනුත්-සමුගනියි/11-412432) · `si`
-
-Sri Lanka: Former Governor Sabaragamuwa Naveen Dissanayaka decides not to contest 2024 parliamentary election. He cites unfair treatment of UNP members and involvement in cricket and cultural trusts.
-
-🟩
-
-2024 පාර්ලිමේන්තු මැතිවරණය සඳහා තරග නොකිරීමට හා දේශපාලන කටයුතුවලින් සමු ගැනීමට තීරණය කළ බව සබරගමු පළාතේ හිටපු ආණ්ඩුකාර, එක්සත් ජාතික පක්ෂයේ කෑගලු දිස්ත්‍රික් නායක නවීන් දිසානායක මහතා සඳහන් කරයි. In a statement, he says he is unfair to UNP hostages by contesting gas cylindara marks.
-
-He is continually serving as the Chairman of the Sri Lankan Cricket Foundation and the Chairman of the Sri Lanka Cultural Trust in Gamini Dissanayake and Mahaweli Trust, which is continuously involved in the right to corruption or corrupt persons.He also states that the country is a lawyer and a people's servant.
-
-◼️
-
-[Data](articles/dac053d2.json)
-
-[Extended Data](ext_articles/dac053d2.ext.json)
 
 ---

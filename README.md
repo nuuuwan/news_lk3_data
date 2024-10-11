@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 10:57:41**
+As of **2024-10-11 11:10:49**
 
 ## Newspaper Stats
 
-*Scraped **48,943** Articles*
+*Scraped **48,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,778
 tamilmirrorlk | 6,646
 virakesarilk | 7,828
-adaderanasinhalalk | 8,460
+adaderanasinhalalk | 8,461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,943 (100.0%) of 48,943 articles have been extended.
+48,944 (100.0%) of 48,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### People ask for information about government vehicles
+
+*2024-10-11 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202056) · `si`
+
+Sri Lankan Police requests information about government vehicles through 1997 Special Telephone Number. They warn against providing false information and emphasize the importance of accuracy.
+
+🟩
+
+The Sri Lankan Police calls for the 1997 Special tele number of the Sri Lankan Police to inform the 1997 Special Telephone Number of Government Vehicles.
+
+In a statement, the government knows that the vehicles issued for various purposes are hidden in a particular site or to be hidden in some places or to be ordered to be ordered to be ordered to die.To immediately notify.
+
+Police say that the identity of the provinces fully preserves the identity of the information.
+
+However, the police emphasize that only true information should be given and legal against those who provide false information.
+
+◼️
+
+[Data](articles/1f2da760.json)
+
+[Extended Data](ext_articles/1f2da760.ext.json)
+
+---
 
 ### Flood risk
 
@@ -2229,19 +2253,5 @@ MPNM, Secretary to the Ministry of Agriculture, Land, Livestock, Irrigation, Fis
 [Data](articles/a0138e98.json)
 
 [Extended Data](ext_articles/a0138e98.ext.json)
-
----
-
-### 11,000 acres of land from Kantale Sugar Company allocated to farmers
-
-*2024-10-10 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102599/11000-acres-of-land-from-kantale-sugar-company-allocated-to-farmers) · `en`
-
-President Anura Kumara Dissanayake has advised relevant Ministry officials to allocate 11,000 acres of land belonging to the Kantale Sugar Company to farmers for the cultivation of short-term crops, the President’s Media Division (PMD) said.
-
-◼️
-
-[Data](articles/8ca6e935.json)
-
-[Extended Data](ext_articles/8ca6e935.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 22:39:13**
+As of **2024-10-11 22:57:18**
 
 ## Newspaper Stats
 
-*Scraped **49,023** Articles*
+*Scraped **49,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 4,556
 dailymirrorlk | 4,733
 adaderanalk | 5,793
 tamilmirrorlk | 6,661
-virakesarilk | 7,840
+virakesarilk | 7,841
 adaderanasinhalalk | 8,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,023 (100.0%) of 49,023 articles have been extended.
+49,024 (100.0%) of 49,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Death of death
+
+*2024-10-11 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196073) · `ta`
+
+Vavuniya: One man killed, another hospitalized after sword attack during land dispute. Police investigating incident.
+
+🟩
+
+One person was killed and another was admitted to the Vavuniya Hospital for injuries in the sword.. He died today without treatment.
+
+Land -related discipline in Vavuniya, Omanthai, Kathiravelupuravarasankulam area ended on Thursday (10).
+
+When both Maman and Marugan were working on the land, the people who came there were throwing a sword and cutting a sword.
+
+The father of two children, Ilango (age 38), died on the spot and was admitted to the Vavuniya Hospital after the father of three children aged 42 years old.
+
+He died today without treatment.Omanthai police are investigating the incident.
+
+◼️
+
+[Data](articles/5f6acbca.json)
+
+[Extended Data](ext_articles/5f6acbca.ext.json)
+
+---
 
 ### Rajapaksa brothers not contesting ...
 
@@ -2423,23 +2449,5 @@ Meanwhile, DIG Nihal Talduuwa added that the General Elections have been instruc
 [Data](articles/daa682fd.json)
 
 [Extended Data](ext_articles/daa682fd.ext.json)
-
----
-
-### US gifts advanced aircraft to strengthen SL’s maritime security
-
-*2024-10-11 08:01:42* · [`dailyftlk`](https://www.ft.lk/news/US-gifts-advanced-aircraft-to-strengthen-SL-s-maritime-security/56-767848) · `en`
-
-Beechcraft King Air 360ER receives water salute at official handover ceremony to the Sri Lanka Air Force
-
-US Navy Admiral Steve Koehler and Sri Lanka Air Force Commander Air Marshal Udeni Rajapaksa sign the ceremonial handover document as US Ambassador Julie Chung looks on
-
-US Navy Admiral Steve Koehler, Commander, US Pacific Fleet yesterday officially handed over a Beechcraft King Air 360ER aircraft, gifted by the United States, to the Sri Lanka Air Force (SLAF).
-
-...
-
-[Data](articles/e922fefc.json)
-
-[Extended Data](ext_articles/e922fefc.ext.json)
 
 ---

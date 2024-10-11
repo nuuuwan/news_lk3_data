@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 11:39:45**
+As of **2024-10-11 11:59:04**
 
 ## Newspaper Stats
 
-*Scraped **48,947** Articles*
+*Scraped **48,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,000
 dailyftlk | 3,323
 adalk | 4,545
 dailymirrorlk | 4,733
-adaderanalk | 5,779
-tamilmirrorlk | 6,646
+adaderanalk | 5,780
+tamilmirrorlk | 6,648
 virakesarilk | 7,828
 adaderanasinhalalk | 8,461
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 8,461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,947 (100.0%) of 48,947 articles have been extended.
+48,950 (100.0%) of 48,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Shani joined the service again
+
+*2024-10-11 11:38:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-சேவையில்-இணைந்தார்-ஷானி/175-345272) · `ta`
+
+Retired Senior Superintendent of Police Shani Abeysekera reinstated on contract for one year. Previously served as CID Director. National Police Commission approval.
+
+🟩
+
+Retired Senior Superintendent of Police, Shani Abeysekera, has been re -incorporated on a contract basis with the permission of the National Police Commission.
+
+He will serve for a year, police media spokesman and Deputy Inspector General of Police Nihal Talduwa said.
+
+Earlier, Shani Abeesekera had served as the Director of the Criminal Investigation Department (CID).
+
+◼️
+
+[Data](articles/d3723980.json)
+
+[Extended Data](ext_articles/d3723980.ext.json)
+
+---
+
+### Public urged to report information on misuse of govt-owned vehicles
+
+*2024-10-11 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102613/public-urged-to-report-information-on-misuse-of-govt-owned-vehicles-) · `en`
+
+Sri Lanka Police are requesting the public to call the special hotline ‘1997’ to provide any information regarding the misuse of the government-owned vehicles.
+
+Issuing a communiqué, the police headquarters requests the public to report any information related to the vehicles issued by the government for various official purposes that may have been unlawfully concealed in certain locations or have been neglected after being parked in certain places and left to dilapidate.
+
+This hotline is available around the clock, and the police assure that the identities of those who provide information will be kept confidential and that information can be provided anonymously.
+
+However, the police stress that only accurate information should be given, as legal action will be taken against anyone who provides false information.
+
+◼️
+
+[Data](articles/aeb8391a.json)
+
+[Extended Data](ext_articles/aeb8391a.ext.json)
+
+---
+
+### புதிய அவசர இலக்கம் அறிமுகம்
+
+*2024-10-11 11:30:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அவசர-இலக்கம்-அறிமுகம்/175-345271) · `ta`
+
+New emergency number 1997 introduced for reporting misuse/stolen state vehicles/assets. Cash rewards for accurate tips. Aims to enhance accountability and proper asset utilization.
+
+🟩
+
+The new emergency number has been introduced to complain about state vehicles and assets if it is misused or stolen.
+
+The public can contact the telephone number 1997 regarding these incidents, the Inspector General of Police Priyantha Weerasuriya said.
+
+He said the cash incentives would be given to those who provide accurate information.
+
+He added that the initiative aims to improve accountability and ensure proper use of state assets.
+
+◼️
+
+[Data](articles/5293775a.json)
+
+[Extended Data](ext_articles/5293775a.ext.json)
+
+---
 
 ### Flood warnings issued for low-lying areas of Attanagalu Oya Basin
 
@@ -2163,81 +2229,5 @@ Radio Télé Monopole reported that gunmen attacked the town before dawn, openin
 [Data](articles/47d3e551.json)
 
 [Extended Data](ext_articles/47d3e551.ext.json)
-
----
-
-### Mannar Yuvati filed a nomination papers with the Tamil National Alliance (TNA)
-
-*2024-10-10 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195984) · `ta`
-
-Mannar Yuvati joins Tamil National Alliance (TNA) for Vanni electorate. Woman contests despite local opposition. Nomination papers filed on Thursday.
-
-🟩
-
-A woman from Talaimannar, who was on behalf of the Tamil National People's Front in the Vanni electorate, filed a nomination with the TNA on Thursday (10).
-
-The Vanni electoral constituency deputy and the Mannar district has been deployed to join the Tamil National People's Front and has taken all the steps for the parliamentary election.
-
-The woman is contesting the Vanni electoral constituency with the Tamil National Alliance (TNA) and the posters have been prepared with photos of the party's logo and the party's leader.
-
-On Thursday (10), the Tamil National Alliance (TNA) candidate, Thodu, went to Vavuniya and filed a nomination.
-
-When contacted by a leader in charge of the Mannar district of the Tamil National People's Front
-
-Yuvati joined the Tamil National People's Front with her willingness to contest the Vanni electorate.
-
-On Wednesday (9), the woman contacted us and said that she did not contest the party.
-
-In their village, another person has said that he should not compete.
-
-...
-
-[Data](articles/80903023.json)
-
-[Extended Data](ext_articles/80903023.ext.json)
-
----
-
-### Not going to contest parliamentary elections
-
-*2024-10-10 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195975) · `ta`
-
-KR Guruswamy announces withdrawal from parliamentary election due to corruption concerns. He cites past experiences and hopes for change in political culture. Decision made at party meeting on Tuesday.
-
-🟩
-
-KR Guruswamy, who left the post of “Democratic People's Front” general secretary and the “Tamil Progressive Alliance” political committee, said he would not contest the parliamentary election as he was widely expected to contest the upcoming parliamentary election.
-
-He was speaking at a media briefing held at Sri Suryas Hotel, Colombo today (10).
-
-I have been doing Tamil social public services for the past 40 years. I have won the Colombo Municipal Council election three times during this period. I have been elected as a member of the Western Provincial Council in 2015 for four years.
-
-In particular, it is well known that politicians do not perform their duties honestly after being elected as MPs and ministers as ministers. I know this too. I have struggled as much as possible to change this mistake. It is because of this that I have left these party posts and the party.
-
-...
-
-[Data](articles/a025f5dc.json)
-
-[Extended Data](ext_articles/a025f5dc.ext.json)
-
----
-
-### Sri Lanka PA filed nominations for Jaffna
-
-*2024-10-10 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195967) · `ta`
-
-Sri Lanka People's Alliance (PA) nominated candidates for Jaffna parliamentary seat. Organizers Thambichurai Rajeev and Keithnath Kasilingam submitted nomination papers on Thursday, October 10th.
-
-🟩
-
-The Sri Lanka PA filed a nomination for the Sri Lanka PA in the parliamentary election on Thursday (10).
-
-Sri Lanka PA's Jaffna Mawatha Organizer Thambichurai Rajeev and Keithnath Kasilingam filed their nomination papers.
-
-◼️
-
-[Data](articles/c9f5df2f.json)
-
-[Extended Data](ext_articles/c9f5df2f.ext.json)
 
 ---

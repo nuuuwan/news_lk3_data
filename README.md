@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 14:39:11**
+As of **2024-10-11 14:58:06**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 8,466
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,967 (100.0%) of 48,970 articles have been extended.
+48,970 (100.0%) of 48,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
 
-### දමිතා අධිකරණයේ පිහිට පතන්න යයි
+### Damitha courts to seek
 
 *2024-10-11 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202063) · `si`
 
-තමාගේ නම රත්නපුර නාමයෝජනා ලැයිස්තුවෙන් ඉවත් කිරීම හේතුවෙන් තමාගේ මූලික මිනිස් අයිතිවාසිකම් කඩවී ඇතැයි රංගන ශිල්පිනී දමිතා අබේරත්න මහත්මිය පවසයි.
+Damitha Abeyratne claims her rights were violated due to nomination issues. She accuses Hesha Vithanage of manipulating her candidacy. Both parties hold separate press conferences, each presenting conflicting narratives about the situation.
 
-අද (11) රත්නපුර දිස්ත්‍රික් ලේකම් කාර්යාලය අසලදී මාධ්‍ය අමතමින් ඇය පැවසුවේ මැතිවරණයට තරගකිරීම සඳහා තමන්ව යෝජනා කළ පුද්ගලයාම තමාට එරෙහිව කටයුතු කර ඇති බවයි.
+🟩
 
-"හේෂා විතානගේ සහෝදරයා මගෙන් ඉල්ලීමක් කළා දමිතා අක්කේ ඇයි ඔයා රත්නපුරයෙන් ඉල්ලන්නේ නැත්තේ. මම කොහෙන්හරි ඉල්ලනවද කියලවත් හිතලා තිබුණේ නැහැ. මට කිව්වා... නෑ අක්කේ මං ඔයාව මෙහෙන් දාන්නම්, මෙහෙ කාන්තා නියෝජනයක් නැහැ කියලා. මං කිව්වා මල්ලි යෝජනා කරනවනම් මම එන්නම් කියලා. ඒ විදියට තමයි මගේ නම ආවේ. ඒක නෑ කියනවනන් මගේ ලග සාක්ෂි තියෙනවා. ඊයේ මට ආරංචියක් ආව මගේ නම නෑ කියලා. මගේ නම වෙනස් කරා කියලා. මං මේ සාක්ෂි ඇතුව කථා කරන්නේ. මේ සාක්ෂි සියල්ල මාධ්‍ය ඉදිරියේ පෙන්වන්න ලෑස්තියි.
+Ranitan Damitha Abeyratne says that his fundamental human rights has been violated by the Ratnapura nomination list.
 
-මං දන්නෑ හේෂා මේ වගේ පහත් තැනකට වැටුණේ ඇයි කියලා. මාව යෝජනා කරපු කෙනාම මාගේ කකුලෙන් අදින්න පටන්ගත්තා.  අධිකරණ ක්‍රියාමාර්ගයකට මම යනවා. මගේ මූලික අයිතිවාසිකම් කඩවීමක් පැහැදිලිවම සිදුවෙලා තියෙනවා".
+Addressing the media at the Ratnapura District Secretariat today (11), she said that the person who proposed him to contest the election was against him.
+
+"Comrade Hesha Vithanage requested me why Damitha is not asking for from Ratnapura. I hadn't even considered anywhere. Told me ... No, my sister will get you from here, there is no female representation here. I said that if my brother suggested, I'll come. That's how my name came. That's not that I have proofs me. Yesterday, I didn't have my name. That my name is different. I speak with this evidence. All the evidence is ready to show all the evidence before the media.
+
+I don't know why Hesha fell down like this. The guy proposed me began to pull my leg.  අධිකරණ ක්‍රියාමාර්ගයකට මම යනවා. My fundamental rights violated is clearly. "
 
 ...
 
 [Data](articles/c8eb29b5.json)
+
+[Extended Data](ext_articles/c8eb29b5.ext.json)
 
 ---
 
@@ -56,31 +62,49 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Deputy Inspector General of Police (DIG) in charge of the Criminal Investigations Department (CID), DIG Rohan Premaratne has been transferred to serve as the DIG of Western Province (North).
 
-Meanwhile, DIG P. Ampavila has been transferred to the CID Range to serve as its new DIG.
+At the same time, DIG P. Ampavila has been transferred to the CID Range to serve as its new DIG.
 
-◼️
+Prior to that, he had served in the position of supervising the duties of the Financial Intelligence Unit 02 attached to the Police Headquarters to conduct investigations related to money laundering and the Special Investigation Units established at the Central Bank to investigate prohibited pyramid schemes and virtual currencies.
 
-[Data](articles/e77fce03.json)
+Meanwhile, DIG D.P. Chandrasiri has been transferred from the post of DIG in charge of Galle Range to serve as DIG of Range.
 
----
-
-### පොලීසියේ ලොකු පුටුවල වෙනස්කම් කිහිපයක්
-
-*2024-10-11 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202062) · `si`
-
-නියෝජ්‍ය පොලිස්පති එම්.ඒ.ඒ.ආර්. ප්‍රේමරත්න මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු දිසාවේ සිට බස්නාහිර පළාත (උතුරු දිසාව) භාර නියෝජ්‍ය පොලිස්පති තනතුරේ රාජකාරි ඉටුකිරීම සඳහා ස්ථාන මාරුකර තිබේ.
-
-නියෝජ්‍ය පොලිස්පති පී. අම්පාවිල මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දිසාව භාර නියෝජ්‍ය පොලිස්පති තනතුරේ රාජකාරි ඉටු කිරීම සඳහා ස්ථාන මාරුකර ඇත.
-
-ඒ මහතා ඊට පෙර පොලිස් මූලස්ථානයට අනුයුක්තව මුදල් විශුද්ධිකරණ හා සම්බන්ධ විමර්ශන කටයුතු සිදු කිරීම සඳහා මුල්‍ය බුද්ධි ඒකකය 02 සහ පිරමීඩ ආකාරයේ තහනම් යෝජනා ක්‍රම සහ අතත්‍ය මුදල් පිළිබඳව විමර්ශනය කිරීම පිණිස මහ බැංකුවේ ස්ථාපිත කර ඇති විශේෂ විමර්ශන ඒකකයන්හි රාජකාරි අධීක්ෂණ තනතුරේ කටයුතු කළේය.
-
-ඊට අමතරව පහත සඳහන් නියෝජ්‍ය පොලිස්පතිවරුන් සහ කාන්තා නියෝජ්‍ය පොලිස්පතිවරියක ස්ථාන මාරු කිරීමද මැතිවරණ කොමිෂන් සභාවේ අනුමැතියට යටත්ව ජාතික පොලිස් කොමිෂන් සභාව අනුමැතිය ලබාදී ඇත.
-
-නියෝජ්‍ය පොලිස්පති ඩී.පී. චන්ද්‍රසිරි මහතා ගාල්ල දිසාව භාර නියෝජ්‍ය පොලිස්පති තනතුරේ සිට ප්‍රවර්ථන දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස ස්ථාන මාරුකර තිබේ.
+DIG E.M.G.J. Seram has been transferred from the Community Police and Environment Protection Range to serve as DIG Galle Range.
 
 ...
 
+[Data](articles/e77fce03.json)
+
+[Extended Data](ext_articles/e77fce03.ext.json)
+
+---
+
+### Some changes in the big chairs of the police
+
+*2024-10-11 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202062) · `si`
+
+Police leadership changes: DIG Premaratne moves to Western Province, Ampevila takes Criminal Investigation Department role. National Police Commission approves transfers, including Chandrasiri to Galle and Seream to Community Police.
+
+🟩
+
+DIG. Mr. Premaratne has been transferred from the Criminal Investigation Department to the Western Province (Northern).
+
+DIG. Mr. Ampevila has been transferred to perform the duties of the DIG in charge of the Criminal Investigation Department.
+
+He was the duties supervising of the Special Investigation Unit (Special Investigation Unit) to investigate the investigation into the police headquarters before the police headquarters.
+
+The National Police Commission has approved the transfer of the following DIGs and women's deployment.
+
+DIG DP DP. Chandrasiri has been transferred to the DIG in charge of Galle, DIG to the Promoctory District.
+
+DIG (performing duties) EMGJ. The Seream has been transferred to the duties of the Deputy Inspector General of Police from Badulla to the Community Police and Environment Safety Assembly.
+
+The DIG of the Women's DIG (duties) has been transferred to the duties of the Deputy Inspector General of Police and Enjoya in the Police Headquarters (Recruitment & Training).
+
+◼️
+
 [Data](articles/0f91f75f.json)
+
+[Extended Data](ext_articles/0f91f75f.ext.json)
 
 ---
 

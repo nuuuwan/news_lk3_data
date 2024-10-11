@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 00:56:03**
+As of **2024-10-12 01:08:36**
 
 ## Newspaper Stats
 
-*Scraped **49,024** Articles*
+*Scraped **49,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ dbsjeyarajcom | 400
 colombotelegraphcom | 487
 bbccomsinhala | 489
 islandlk | 2,895
-economynextcom | 3,006
-dailyftlk | 3,323
+economynextcom | 3,016
+dailyftlk | 3,325
 adalk | 4,556
 dailymirrorlk | 4,733
 adaderanalk | 5,793
@@ -26,11 +26,41 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,024 (100.0%) of 49,024 articles have been extended.
+49,025 (100.0%) of 49,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Before the music fades away
+
+*2024-10-11 23:22:37* · [`dailyftlk`](https://www.ft.lk/columns/Before-the-music-fades-away/4-767876) · `en`
+
+If President Dissanayake and the NPP can navigate this political landscape with transparency, integrity, and a commitment to justice, they may very well lead Sri Lanka into a new era of hope and progress
+
+Now that the JVP/NPP has gained significant political power, the focus shifts from criticism to governance. They will need to prove to the electorate that they can deliver on their promises. The anticipation surrounding their leadership is heightened by public expectations for reforms, especially regarding corruption. President Anura Kumara Dissanayake, the leader of the JVP/NPP, has famously displayed files of alleged corruption and malpractice by previous administrations. There is great interest in seeing whether these accusations lead to real accountability and justice
+
+...
+
+[Data](articles/84330233.json)
+
+[Extended Data](ext_articles/84330233.ext.json)
+
+---
+
+### After the Summit of the Future: Charting a path for global climate action
+
+*2024-10-11 23:17:57* · [`dailyftlk`](https://www.ft.lk/columns/After-the-Summit-of-the-Future-Charting-a-path-for-global-climate-action/4-767875) · `en`
+
+Opening of the Summit of the Future by the UN Secretary-General – Credits: UN Photo/Loey Felipe
+
+The global community stands at a critical juncture, as countries around the world are facing escalating climate impacts, environmental challenges, economic disparities, and the need for sustainable development. After the first overarching progress assessment under the Paris Agreement and the recent Summit of the Future, are we steering the correct course? With the end of this decade rapidly approaching, there is an urgent need to develop a vision for the future that goes beyond 2030 and unifies climate action, sustainable development, and a reconfiguration of the global financial architecture.
+
+...
+
+[Data](articles/42ce5a7f.json)
+
+---
 
 ### Death of death
 
@@ -104,6 +134,26 @@ Meanwhile, the public is asked by the Department of Meteorology to protect thems
 
 ---
 
+### Sri Lanka President discusses future cooperation with top USAID official
+
+*2024-10-11 21:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-discusses-future-cooperation-with-top-usaid-official-183289/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake held a virtual discussion with the Administrator of the United States Agency for International Development (USAID) Samantha Power on future cooperation, the President’s Media Division said.
+
+It is the first meeting between Power and Dissanayake since the Presidential elections on September 21.
+
+“During the meeting, the two leaders exchanged views on matters of mutual interest and explored avenues for future cooperation,” the PMD said in a statement.
+
+Power stated that USAID is willing to support the government aligning with the manifesto presented to the people; the PMD said referring to Dissanayake’s policy framework focused on strong anti-corruption actions.
+
+“Samantha Power also assured President Dissanayake that USAID is prepared to support Sri Lanka in any way needed. This commitment reflects a shared vision for enhancing development and cooperation with the USAID agency,” PMD said.
+
+...
+
+[Data](articles/06188149.json)
+
+---
+
 ### Sri Lanka and USAID discuss future cooperation
 
 *2024-10-11 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102626/sri-lanka-and-usaid-discuss-future-cooperation) · `en`
@@ -142,6 +192,28 @@ In addition, 74 nominations have been rejected in the nomination papers, said th
 
 ---
 
+### Two Sri Lanka UN peacekeepers injured in Israeli attack – FM
+
+*2024-10-11 21:09:00* · [`economynextcom`](https://economynext.com/two-sri-lanka-un-peacekeepers-injured-in-israeli-attack-fm-183283/) · `en`
+
+ECONOMYNEXT – Sri Lanka has condemned an Israeli attack at the headquarters of United Nations Interim Force in Lebanon (UNIFIL) which injured two Sri Lankan UN peacekeepers, the island nation’s Foreign Ministry said.
+
+“Sri Lanka strongly condemns the attack at UNIFIL’s headquarters in Naqoura, South Lebanon injuring two Sri Lankan UN peacekeepers,” the Ministry said in a statement.
+
+“Sri Lanka upholds the obligations to ensure the safety and security of UN personnel and inviolability of UN premises at all times.”
+
+The Foreign Ministry said the Sri Lanka Embassy in Beirut is in contact with UNIFIL regarding the medical attention and speedy recovery of the Sri Lankan peacekeepers.
+
+“Sri Lanka values the brave contribution of its UN peacekeepers worldwide.”
+
+The attack is the second on the same location in the last 48 hours, Al Jazeera reported.
+
+...
+
+[Data](articles/16c15bb5.json)
+
+---
+
 ### 17 political parties and 11 independent groups competition in Nuwara Eliya district
 
 *2024-10-11 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/196072) · `ta`
@@ -167,6 +239,28 @@ The United Socialist Party is contesting and 11 independent groups are eligible 
 [Data](articles/2ca3566f.json)
 
 [Extended Data](ext_articles/2ca3566f.ext.json)
+
+---
+
+### Sri Lanka condemns Israeli attack on UN peacekeepers as nationals hit
+
+*2024-10-11 20:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-condemns-israeli-attack-on-un-peacekeepers-as-nationals-hit-183275/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s has condemned an attack by Isarel on UN peacekeepers in Lebanon in which two of the island’s soldiers were hit.
+
+“Sri Lanka strongly condemns the attack at UNIFIL’s headquarters in Naqoura, South Lebanon injuring two Sri Lankan UN peacekeepers,” the island’s Foreign Ministry said in a statement.
+
+“Sri Lanka Embassy in Beirut is in contact with UNIFIL regarding the medical attention and speedy recovery of the Sri Lankan peacekeepers.
+
+UNIFIL (UN Interim Force in Lebanon) went the area originally in 1978 to oversee an Isreali withdrawal.
+
+UNIFIL said an Israeli Defence Force Merkava tank fired at an observation at its headquarters Naqoura.
+
+IDF soldiers also fired on UN position (UNP) 1-31 in Labbouneh, hitting the entrance to the bunker where peacekeepers were sheltering, and damaging vehicles and a communications system. An IDF drone was observed flying inside the UN position up to the bunker entrance.
+
+...
+
+[Data](articles/d8646e46.json)
 
 ---
 
@@ -329,6 +423,24 @@ Also, if anyone is involved in providing false information, he is acting legally
 [Data](articles/4ba939ee.json)
 
 [Extended Data](ext_articles/4ba939ee.ext.json)
+
+---
+
+### Sri Lanka’s former junior tech minister joins ‘not contesting’ list; decides to pursue doctorate
+
+*2024-10-11 19:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-former-junior-tech-minister-joins-not-contesting-list-decides-to-pursue-doctorate-183271/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s former State Technology Minister Kanaka Herath has decided to take a break from politics similar to dozens of seniors and pursue a doctorate in engineering, citing that he wanted to take a step back as “people wanted change at any cost”.
+
+Herath’s decision comes after several prominent Sri Lankan politicians who previously held senior ministerial positions have announced they will not be contesting in the upcoming parliamentary elections, citing limited political opportunities.
+
+Herath under former president Ranil Wickremesinghe’s administration headed expansion of the digital economy. Some of the projects under his ministry were implemented slower than expected.
+
+“I am happy that I was able to be a part of the economic resurgence of the country. As the state minister of Technology, I was able to formulate the digital roadmap for the country till 2030,” the 48-year old former legislator said.
+
+...
+
+[Data](articles/556efb72.json)
 
 ---
 
@@ -596,6 +708,30 @@ Several MPs and professionals consists of many scholars.
 
 ---
 
+### Sri Lanka rupee closes stronger at 292.75/95 to dollar, bond yields down
+
+*2024-10-11 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-75-95-to-dollar-bond-yields-down-183239/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 292.75/95 to the US dollar Friday from 292.85/293.00 a day earlier, dealers said, while bond yields were down after the auction.
+
+The central bank sold all 95,000 million rupees of offered Treasury Bonds at the auction on Friday (11).
+
+A bond maturing on 15.12.2026 closed at 10.25/40 percent, down from 10.25/40 percent.
+
+A bond maturing on 15.12.2027 closed at 11.30/45 percent, down from 11.40/55 percent.
+
+A bond maturing on 15.02.2028 closed at 11.50/60 percent, down from 11.70/80 percent.
+
+A bond maturing on 15.09.2029 closed at 11.80/95 percent, down from 11.95/12.05 percent.
+
+A bond maturing on 15.10.2032 closed at 12.15/40 percent. (Colombo/Oct11/2024)
+
+◼️
+
+[Data](articles/709674e7.json)
+
+---
+
 ### People Selvan 'Vijay Sethupathi's first look of' Extreme '
 
 *2024-10-11 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/196054) · `ta`
@@ -741,6 +877,28 @@ Also, the name of former Speaker Mahinda Yapa Abeywardena Yapa includes the lous
 [Data](articles/32e0faed.json)
 
 [Extended Data](ext_articles/32e0faed.ext.json)
+
+---
+
+### Sri Lanka stocks close up, led by banks
+
+*2024-10-11 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-led-by-banks-183230/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 1.07 percent, or 129.64 points, at 12,294; while the more liquid S&P SL20 Index closed up 1.10 percent, or 39.77 points, at 3,640.
+
+Turnover was 2.3 billion. Most of this came from banks (Rs563mn) and capital goods (Rs521mn).
+
+Top positive contributors to the ASPI were Hatton National Bank (up at 217.75), Commercial Bank (up at 109.00), Sampath Bank (up at 82.80), Lanka IOC (up at 117.75), and Browns Investments (up at 5.80).
+
+Top foreign buying was seen in John Keells Holdings (down at 197.00), Commercial Bank, Sampath Bank, Chevron Lubricants (up at 124.75), Ceylon Guardian Investment Trust (flat at 105.00), and First Capital Holdings (up at 32.40).
+
+Top foreign selling was seen in Melstacorp (up at 89.00), Balangoda Plantations (up at 54.80), Digital Mobility Solutions (down at 38.70), Bogawantalawa Tea Estates (up at 41.20), LIOC and Lanka Milk Foods (up at 30.80).
+
+...
+
+[Data](articles/f83e286c.json)
 
 ---
 
@@ -936,6 +1094,28 @@ The Nobel Committee said that the Nobel Peace Prize was awarded this year for th
 
 ---
 
+### Sri Lanka president orders pension allowance ahead of elections
+
+*2024-10-11 15:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-orders-pension-allowance-ahead-of-elections-183209/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has directed officials to pay pensioners an allowance of 3,000 within next week, ahead of a general election.
+
+“Directed officials from the Ministry of Finance to ensure that all pensioners receive a monthly interim allowance of Rs. 3,000 starting next week,” Dissanayake said on X.
+
+“After reviewing delays in adding the allowance to the October pension, I’ve instructed that the funds be credited within the week.”
+
+President @anuradisanayake has instructed Ministry of Finance officials to provide a monthly interim allowance of Rs. 3,000 to all pensioners starting next week. (1/2) pic.twitter.com/yvWNCPlu5Y
+
+— President's Media Division of Sri Lanka – PMD (@PMDNewsGov) October 11, 2024
+
+On Thursday (10) Dissanayake directed officials to allocate 11,000 acres of land, owned by the Kantale Sugar Company, to farmers for short-term crop cultivation.
+
+...
+
+[Data](articles/88548478.json)
+
+---
+
 ### It is disappointing that the Sri Lankan government has decided to continue the policies of the past and to oppose the mechanism of collecting evidence-
 
 *2024-10-11 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196045) · `ta`
@@ -959,6 +1139,22 @@ As a country that will be held in the next month of the presidential election, i
 [Data](articles/a1ae3d13.json)
 
 [Extended Data](ext_articles/a1ae3d13.ext.json)
+
+---
+
+### Sri Lanka’s IHP says Harini popular PM choice, Sabry exit may be loss for party
+
+*2024-10-11 15:38:00* · [`economynextcom`](https://economynext.com/sri-lankas-ihp-says-harini-popular-pm-choice-sabry-exit-may-be-loss-for-party-183208/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s Institute for Health Policy (IHP) has released new polling data showing that the ruling National People’s Power (NPP)’s Harini Amarasuriya is a popular choice for the post of prime minister and that former minister Ali Sabry’s exit may be premature.
+
+In IHP Sri Lanka Opinion Tracker Survey (SLOTS) polling through 2024 prior to the presidential election, NPP leader Anura Kumara Dissanayake and MPs Amarasuriya, and Ali Sabry were consistently the most popular politicians tracked, IHP said in a statement on Friday October 11.
+
+After Dissanayake, Amarasuriya was the next most popular, suggesting she will be a popular choice for the PM post, the institute said.
+
+...
+
+[Data](articles/497cf224.json)
 
 ---
 
@@ -1011,6 +1207,22 @@ Considering the difficulties and demands of pensioners faced by the interim paym
 [Data](articles/c19ff3de.json)
 
 [Extended Data](ext_articles/c19ff3de.ext.json)
+
+---
+
+### Sri Lanka sells Rs95bn in 2028 and 2032 bonds
+
+*2024-10-11 15:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs95bn-in-2028-and-2032-bonds-183199/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 95 billion rupees in 2028 and 2032 bonds, data from the state debt office showed.
+
+All offered 70 billion rupees of 15 March 2028 bonds were sold at an average yield of 11.79 percent.
+
+All offered 25 billion rupees of 01 October 2032 bonds were sold at an average yield of 12.36 percent. (Colombo/Oct11/2024)
+
+◼️
+
+[Data](articles/8500da5e.json)
 
 ---
 
@@ -1325,6 +1537,24 @@ It is noteworthy that after handing over the nomination to the Ratnapura Distric
 [Data](articles/34c0da3c.json)
 
 [Extended Data](ext_articles/34c0da3c.ext.json)
+
+---
+
+### Sri Lanka bank health improving, but NPLs rising in smaller banks: CB report
+
+*2024-10-11 13:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-health-improving-but-npls-rising-in-smaller-banks-cb-report-183194/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s banks are becoming more sound as interest rates fall and economic conditions improve, but non-performing loans in domestic banks which are not systematically important are still rising, a central bank report said.
+
+Interest rates are easing, with deposit rates falling ahead of lending and economic environment was improving.
+
+“Resilience of financial institutions gradually improved during the first half of 2024 amidst easing macroeconomic conditions as reflected by key financial soundness indicators of the Banking sector, such as credit quality, liquidity and capital adequacy,” the central bank said in a financial stability review.]
+
+“However, the Non-Performing Loans (NPL) ratio remained elevated highlighting continued challenges while the provision coverage ratio improved.”
+
+...
+
+[Data](articles/a1bf41f5.json)
 
 ---
 
@@ -2147,307 +2377,5 @@ Thus, naval and fishing communities are requested to be attentive in this regard
 [Data](articles/1890561d.json)
 
 [Extended Data](ext_articles/1890561d.ext.json)
-
----
-
-### 2024 General Election: Accepting nominations ends today
-
-*2024-10-11 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102608/2024-general-election-accepting-nominations-ends-today) · `en`
-
-The accepting of nominations for the 2024 General Election is set to conclude at 12 noon today (11).
-
-The Election Commission has allocated time until 1.30 p.m. to file any objections related to the nominations.
-
-A total of 349 independent groups have thus far placed deposits for the upcoming General Election.
-
-Accordingly, 147 political parties and 94 independent groups have placed their nominations as of yesterday.
-
-The Commissioner General of Elections, Saman Sri Ratnayake stated that as per the Election Expenses Regulation Act, details regarding the expenditure limits for candidates will be provided in due course.
-
-Meanwhile, the Police Spokesman DIG Nihal Thalduwa said that a special security arrangements have been deployed at all the district secretariats around the island and the Election Commission office in Rajagiriya during the nomination submission period.
-
-DIG Talduwa further stated that instructions have been given to coordinate the General Election through the District DIGs.
-
-◼️
-
-[Data](articles/da4db525.json)
-
-[Extended Data](ext_articles/da4db525.ext.json)
-
----
-
-### Landslide early warnings issued for several districts
-
-*2024-10-11 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102606/landslide-early-warnings-issued-for-several-districts) · `en`
-
-UPDATE: The highest rainfall of 239 mm was recorded from Horana in the Kalutara District within the last 24 hours, as of 6.00 a.m. today.
-
-Elpitiya recorded 194.75 mm, Bulathsinhala 187 mm, Matugama 186.5 mm, and Seethawaka 184.5 mm of rainfall, according to the Meteorology Department.
-
-The National Building and Research Organisation (NBRO) has issued landslide warnings to multiple areas in several districts, as heavy rainfall continues in parts of the island.
-
-Accordingly, a Level 2 (Amber) warning has been issued for several Divisional Secretariat areas in Galle, Kalutara, Colombo, Kegalle, Ratnapura and Gampaha districts as follows:
-
-Galle District: Elpitiya,Neluwa,Baddagama and Nagoda Divisional Secretariat Divisions (DSD) and surrounding areas
-
-Kaluthara District: Bulathsinhala, Walallawita, Matugama, Dodangoda, Ingiriya, Horana DSD and surrounding areas
-
-Kegalle District: Ruwanwella, Warakapola, Dehiovita, Yatiyanthota Bulathkohupitiya DSD and surrounding areas
-
-...
-
-[Data](articles/ef313558.json)
-
-[Extended Data](ext_articles/ef313558.ext.json)
-
----
-
-### A new announcement on train service for the North
-
-*2024-10-11 09:08:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கிற்கான-ரயில்-சேவை-குறித்த-புதிய-அறிவிப்பு/175-345261) · `ta`
-
-New train service announcement: North route to open on 22nd, trains to run at reduced speeds due to ongoing repairs. Construction delay causes acquisition of railway line at Rs 3,000 crore.
-
-🟩
-
-Since the area from the Mahawa to Anuradhapura of the modernized Northern Railway, which is aimed at running at a speed of 100 kilometers per hour, the area has been decided to operate less than forty kilometers at the speed of the trains.
-
-The decisions were taken at a discussion held at the Railway Headquarters headed by Railway General Manager SS Mudali and Railway Drivers, Controllers and Station Principals.
-
-The General Manager advised the opening of the railway line on the 22nd and to run the train at a minimum speed of six months to repair the incomplete repairs.
-
-As a result, the attempt to cross 64 kilometers in one hour has been extended for two and a half hours.
-
-The Railway Department has officially acquired the railway line from the company due to a delay in the construction of the Mahawa to Anuradhapura area at a cost of Rs 3,000 crore.. Remble
-
-◼️
-
-[Data](articles/42e577cb.json)
-
-[Extended Data](ext_articles/42e577cb.ext.json)
-
----
-
-### Exceptional brand on India - TATA
-
-*2024-10-11 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202052) · `si`
-
-Here's a 200-character summary of Tata:
-
-
-
-Tata: India's iconic global company founded by Jamsetji Tata. Known for ethics, diversity, and innovation. Owns Jaguar Land Rover and Tata Motors. Founded Taj Hotel, India's first luxury hotel. Pioneered India's steel industry. Focuses on employee welfare and social responsibility.
-
-🟩
-
-TATA, India, is one of the world's special companies. Its corporate ethics is not only employee but also the Indian people to the company but also Indian people.
-
-TATA is the world's largest two business businesses, TATA TATA, and Jaguar Land Rover.
-
-TATA is the fact that there is charity institutions that have 66% of its sections.
-
-It is important to evaluate the contribution to all the TATA generation of TATA Jamestji and later that the company had taken the company to such a place.
-
-Jamsetji TATA had gone to an Indian businessman in the late 19th century.
-
-But as reported, he was not allowed to enter the hotel due to the color of his skin.
-
-The viciously distressed and anger, he decided to build even better hotel to build himself. His intent was to open it for the Indian visitors.
-
-The Taj, opened in 1903 in Mumbai, is the hotel. This was the first power of the buildings of the city. Moreover, the manufactured fans in the United States, Germany, and English national support.
-
-...
-
-[Data](articles/c5c88b93.json)
-
-[Extended Data](ext_articles/c5c88b93.ext.json)
-
----
-
-### Flood;Avissawella - Colombo main road traffic impact
-
-*2024-10-11 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/195996) · `ta`
-
-Heavy rainfall forecasted for Sabaragamuwa, Western Provinces, Galle, and Matara districts. Floods may impact Avissawella-Colombo main road traffic.
-
-🟩
-
-Heavy rainfall is expected in some parts of the Sabaragamuwa and Western Provinces as well as some areas of Galle and Matara districts, the Department of Meteorology said.
-
-◼️
-
-[Data](articles/75b83b48.json)
-
-[Extended Data](ext_articles/75b83b48.ext.json)
-
----
-
-### May record more than 150 mm of rainfall
-
-*2024-10-11 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195994) · `ta`
-
-Sri Lanka faces heavy rainfall, thunderstorms, and strong winds. Rainfall exceeding 150mm predicted in southern provinces. Thunderstorms possible in central, western areas. Strong gusts up to 50km/h reported. Sea regions face turbulent conditions with waves over 2.5m. Public advised to exercise caution during storms.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said the weather is likely to continue with the prevailing rainfall in the southwestern region of the country due to the atmospheric conditions in Sri Lanka.
-
-Rainfall or thunderstorms are expected in the Central, Sabaragamuwa, Upper, North Western and Southern Provinces.
-
-Heavy rains are likely to experience more than 150 mm in some parts of the Sabaragamuwa and Western Provinces as well as some of the Galle and Matara districts.
-
-Rain or thunderstorms may occur in the evening or night in many parts of the other parts of the country. Heavy rains are expected to occur in some places 75 millimeters.
-
-In the Central, Sabaragamuwa, Upper, North Western and Southern Provinces, strong winds can be frequent at speeds of 40 to 50 millimeters per hour.
-
-The public is asked to take care in the events of strong winds and lightning.
-
-Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
-
-...
-
-[Data](articles/f72326f9.json)
-
-[Extended Data](ext_articles/f72326f9.ext.json)
-
----
-
-### Ramgirish is contesting in Nuwara Eliya district
-
-*2024-10-11 08:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195995) · `ta`
-
-Karupaya Ramakrishnan, sports journalist, contests Nuwara Eliya district under Sri Lanka PA. Raveendran Harin also runs as Tamil candidate. Both aim to promote Sri Lanka's sports globally.
-
-🟩
-
-Karupaya Ramakrishnan, a sports journalist and president of the Sri Lanka Professional Sports Journalists Association, has officially signed the nomination papers to contest the upcoming general election.
-
-He will contest under the Sri Lanka PA. He has worked on the Sunday Observer, Capital Maharaja, Ceylon Today and Carlton Sports Network.
-
-Sports journalist and the founder of the Lion Nation Sports Network and Managing Director, Karupaya Ramakrishnan, who worked extensively to promote Sri Lanka's game at home and internationally, has drawn up the introduction of the processor and the web site nearly two years ago.
-
-Raveendran Harin is contesting with another Tamils ​​in the Sri Lanka PA.
-
-◼️
-
-[Data](articles/c810b761.json)
-
-[Extended Data](ext_articles/c810b761.ext.json)
-
----
-
-### Lock for a portion of the southern highway
-
-*2024-10-11 08:45:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்கு-அதிவேக-நெடுஞ்சாலையின்-ஒரு-பகுதிக்கு-பூட்டு/175-345260) · `ta`
-
-Temporary closure of Velipanna section on Southern Expressway due to minor flooding. Steps taken to ensure safety.
-
-🟩
-
-Steps have been taken to temporarily close the Velipanna area on the Southern Expressway.
-
-The decision was taken due to the minor floods in the area. Remble
-
-◼️
-
-[Data](articles/77cf7c95.json)
-
-[Extended Data](ext_articles/77cf7c95.ext.json)
-
----
-
-### Colorado tourist mine accident leaves one person dead; 23 people rescued
-
-*2024-10-11 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102605/colorado-tourist-mine-accident-leaves-one-person-dead-23-people-rescued) · `en`
-
-One person has died and 23 people have been rescued after they were trapped hundreds of feet underground at the Mollie Kathleen Gold Mine, a tourist mine in Cripple Creek, Colorado, officials said Thursday.
-
-Eleven people were rescued earlier Thursday and a dozen more people were trapped at the bottom of the 1,000-foot-deep mine for several hours before being rescued Thursday night.
-
-“I am relieved that 12 of the people trapped in the Mollie Kathleen Mine have been safely rescued. Our deepest condolences to the family and friends of the individual lost in this incident,” Colorado Gov. Jared Polis said in a statement Thursday night.
-
-Among those rescued, two were children and four were seen by medical personnel for minor injuries, according to Teller County Sheriff Jason Mikesell, who did not provide details on the fatality.
-
-...
-
-[Data](articles/d7ca20f2.json)
-
-[Extended Data](ext_articles/d7ca20f2.ext.json)
-
----
-
-### To obtain permission to publish pictures of the president
-
-*2024-10-11 08:26:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-படங்களை-வெளியிட-அனுமதி-பெற-வேண்டும்/175-345259) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Publishing photos of the president requires obtaining permission from the Presidential Secretariat beforehand. The President's Secretary advises state institutions to align with government policies when creating name boards and souvenirs."
-
-🟩
-
-It has been announced that the president's images and greetings should be obtained before publishing the name boards and special souvenirs of the event.
-
-The President's Secretary Dr. Nandika Sanath Kumanayake said that it is necessary to obtain the written permission of the Presidential Secretariat in advance.
-
-He also advised state institutions that it is necessary to act in accordance with the policy and vision of the government when it comes to government funding.. (A)
-
-◼️
-
-[Data](articles/2cf0acc5.json)
-
-[Extended Data](ext_articles/2cf0acc5.ext.json)
-
----
-
-### The High Level Road is flooded with water
-
-*2024-10-11 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202051) · `si`
-
-Avissawella High Level Road flooding due to heavy rain causes traffic disruption from Colombo to Higurai Junction. Police report hindrance in traffic flow.
-
-🟩
-
-Due to the prevailing rainy, the Avissawella High Level road in Colombo to Higurai Junction to Higurai Junction.
-
-Police said that the traffic on the road had been hindered.
-
-◼️
-
-[Data](articles/c8f93b9f.json)
-
-[Extended Data](ext_articles/c8f93b9f.ext.json)
-
----
-
-### Nominations are overcome today
-
-*2024-10-11 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202050) · `si`
-
-Nomination deadline extended to 12th month. 147 parties, 94 independents submitted. Security measures implemented.
-
-🟩
-
-The acceptance of nominations regarding the general election is scheduled to end the 12 menger.
-
-The Elections Commission stated that the following objections have been given to the filing of it.
-
-349 independent groups have deposited for this year's general election.
-
-The Elections Commission states that 147 political parties and 94 independent groups have handed over nominations by yesterday.
-
-The Commissioner General of Elections Saman Sri Ratnayake said that according to the Election Cost Regulatory Act, the Commissioner General of Elections Saman Sri Ratnayake said.
-
-Police Media Spokesperson DIG Nihal Thaluduwa said that a special security program has been deployed in all District Secretariats and the Elections Office of the Elections Commission in Rajagiriya during the period of nomination.
-
-Meanwhile, DIG Nihal Talduuwa added that the General Elections have been instructed to conduct the General DIGs across the district DIG.
-
-◼️
-
-[Data](articles/daa682fd.json)
-
-[Extended Data](ext_articles/daa682fd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 01:23:08**
+As of **2024-10-12 01:40:01**
 
 ## Newspaper Stats
 
-*Scraped **49,036** Articles*
+*Scraped **49,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,135 @@ colombotelegraphcom | 487
 bbccomsinhala | 489
 islandlk | 2,895
 economynextcom | 3,016
-dailyftlk | 3,325
+dailyftlk | 3,328
 adalk | 4,556
 dailymirrorlk | 4,733
 adaderanalk | 5,793
-tamilmirrorlk | 6,661
-virakesarilk | 7,841
+tamilmirrorlk | 6,662
+virakesarilk | 7,842
 adaderanasinhalalk | 8,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,031 (100.0%) of 49,036 articles have been extended.
+49,039 (100.0%) of 49,041 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-12 (Saturday)
+
+### Alsonic introduces eco-Friendly ODO Plus odour neutraliser
+
+*2024-10-12 01:10:08* · [`dailyftlk`](https://www.ft.lk/news/Alsonic-introduces-eco-Friendly-ODO-Plus-odour-neutraliser/56-767889) · `en`
+
+Alsonic Ltd., a leading provider of products and services in industries such as healthcare, automotive after-market solutions, interactive communication, logistics, and export businesses, has launched its latest innovation — ODO Plus, a natural odour neutraliser.
+
+Established in 2020, Alsonic is committed to eco-friendly solutions, and ODO Plus is a testament to that dedication.
+
+ODO Plus is a 100% organic, eco-friendly product designed to eliminate even the most stubborn odours in minutes. It does not mask unpleasant smells but effectively absorbs and neutralises them, making it a powerful solution for both domestic and industrial use. The product is safe for use around children and pets, further enhancing its appeal for households.
+
+ODO Plus Odour Neutraliser 500 ml sprayer, designed for everyday domestic use in homes and smaller spaces.
+
+...
+
+[Data](articles/60656249.json)
+
+[Extended Data](ext_articles/60656249.ext.json)
+
+---
+
+### 53rd Intl. Seminar on Cardiovascular Disease Epidemiology and Prevention kicks off tomorrow in Colombo
+
+*2024-10-12 01:08:42* · [`dailyftlk`](https://www.ft.lk/news/53rd-Intl-Seminar-on-Cardiovascular-Disease-Epidemiology-and-Prevention-kicks-off-tomorrow-in-Colombo/56-767888) · `en`
+
+Sri Lanka is set to host the 53rd International Seminar on Cardiovascular Disease Epidemiology and Prevention (ISCEP) from 13 to 24 October 2024 in Colombo.
+
+Co-hosted by RemediumOne and the University of Kelaniya, this prestigious 10 day seminar will gather 36 global fellows and 10 internationally recognised experts in cardiovascular research and prevention, offering an immersive learning experience aimed at combating the global burden of cardiovascular diseases (CVDs).
+
+RemediumOne, a pioneering clinical research organisation in Sri Lanka, and the University of Kelaniya bring their extensive expertise in cardiovascular research to the forefront of this global event. RemediumOne has contributed to international studies in heart disease and stroke, while also championing decentralised clinical trials during the COVID-19 pandemic. Hosting ISCEP 2024 strengthens their commitment to advancing cardiovascular research, particularly in low- and middle-income countries (LMICs).
+
+...
+
+[Data](articles/fec9b575.json)
+
+[Extended Data](ext_articles/fec9b575.ext.json)
+
+---
+
+### Marriott International’s annual charity “Road to give” today
+
+*2024-10-12 01:08:34* · [`dailyftlk`](https://www.ft.lk/news/Marriott-International-s-annual-charity-Road-to-give-today/56-767887) · `en`
+
+The Marriott International’s annual charity “Road to give” will be held today from 6.00 a.m. to 11.00 a.m.
+
+With the participation of 4 hotels and resorts under the Marriott Business Council which includes Sheraton Colombo, ITC Ratnadipa, Sheraton Kosgoda Turtle Beach Resort and Courtyard by Marriott Colombo, this walk will support the Indira Cancer Trust with the aim of generating further awareness and recognising the inequities in cancer care.
+
+This walk also encourages Marriott International associates to support meaningful local causes while engaging in different types of movement for their physical and mental well-being. “Road to give” will be open to all Associates and the public who wish to be a part of this initiative. The walk will commence at the Sheraton Colombo inviting participants to walk approximately 4.5 km, leading up to the Bank of Ceylon Tower with the finish point being ITC Ratnadipa.
+
+...
+
+[Data](articles/53ebce59.json)
+
+[Extended Data](ext_articles/53ebce59.ext.json)
+
+---
+
+### Australia reached the semi -final gate that beat Pakistan by 9 wickets
+
+*2024-10-12 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/196074) · `ta`
+
+Australia beats Pakistan 9 wickets in ICC Women's T20 World Cup. Alyssa Heely scores 37, Elis Perry 22. Megan Suite takes 1 wicket for 7 runs, breaking record. New Zealand faces Pakistan next.
+
+🟩
+
+The current Champion Australia won by 9 wickets at the ICC Women's T20 World Cup A group at the Sharjah Cricket Stadium on Friday night.
+
+Australia, who were bowled out for 83 runs by Pakistan, lost by 83 wickets in 11 overs and scored 83 runs.
+
+Australia's net running speed is positive 2.786, with a 7.54 runs per over in this match and the A team is ranked first with 6 points in teams.. Australia are in the forefront of 2.210 than India in the second place with 4 points.
+
+Australia captain Alyssa Heeli, who scored 37 runs for Australia, was hit by muscle spasm.
+
+Elis Perry scored 22 runs and Beth Mooni 15 runs.
+
+Earlier, Pakistan, who had previously been invited to bat in the match, lost all wickets in 19.5 overs and scored 82 runs.
+
+The middle -line hero Aaliya Riaz scored only 26 runs and scored 26 runs.
+
+Chitra Amin and Iram Javid scored 12 runs each and Nita Tar 10 runs. No one else has reached a double number.
+
+...
+
+[Data](articles/767fa35a.json)
+
+[Extended Data](ext_articles/767fa35a.ext.json)
+
+---
+
+### ஜனாதிபதி - சமந்தா பவர் கலந்துரையாடல்
+
+*2024-10-12 00:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-சமந்தா-பவர்-கலந்துரையாடல்/175-345293) · `ta`
+
+President Anura Kumara Dissanayake met Samantha Power from US Agency for International Development. They discussed cooperation between Sri Lanka and USAID, emphasizing unity in policies and USAID's support for Sri Lankan welfare development activities.
+
+🟩
+
+A discussion between President Anura Kumara Dissanayake and Samantha Power of the United States Agency for International Development was held yesterday (11) through internet technology.
+
+The President and Samantha Power were discussed on a variety of mutual issues and discussed the opportunity to increase the cooperation between Sri Lanka and the United States Agency for International Development in the future.
+
+He pointed out the unity between the government's policy report and the policies of the United States Agency for International Development, and said to the President that the United States Agency would be fully supportive of the US Agency for the welfare of the people.
+
+Samantha Power further pointed out that these activities will help to expand Sri Lanka's development activities and increase the cooperation between the United States Agency for International Development and Sri Lanka.. (A)
+
+◼️
+
+[Data](articles/34321bba.json)
+
+[Extended Data](ext_articles/34321bba.ext.json)
+
+---
 
 ### 2024-10-11 (Friday)
 
@@ -912,6 +1026,8 @@ Top foreign selling was seen in Melstacorp (up at 89.00), Balangoda Plantations 
 
 [Data](articles/f83e286c.json)
 
+[Extended Data](ext_articles/f83e286c.ext.json)
+
 ---
 
 ### SLPP’s National List for 2024 General Election
@@ -1126,6 +1242,8 @@ On Thursday (10) Dissanayake directed officials to allocate 11,000 acres of land
 
 [Data](articles/88548478.json)
 
+[Extended Data](ext_articles/88548478.ext.json)
+
 ---
 
 ### It is disappointing that the Sri Lankan government has decided to continue the policies of the past and to oppose the mechanism of collecting evidence-
@@ -1167,6 +1285,8 @@ After Dissanayake, Amarasuriya was the next most popular, suggesting she will be
 ...
 
 [Data](articles/497cf224.json)
+
+[Extended Data](ext_articles/497cf224.ext.json)
 
 ---
 
@@ -2263,131 +2383,5 @@ Sri Lankan engineers say that the A330 aircraft, which was caught in a technical
 [Data](articles/14afe64c.json)
 
 [Extended Data](ext_articles/14afe64c.ext.json)
-
----
-
-### Nalaka in Pohoth no
-
-*2024-10-11 09:29:15* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-නාලකත්-මෙවර-මැතිවරණයට-නෑ/11-412440) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-SLFP leader Nalaka Bandara announces resignation as Matale District Secretary. Cites ideological struggles against traditional politicians. Credits nationalist support for 2019 & 2020 election victories. Promises continued anti-corruption stance. Resigns citing unfair treatment but pledges election-free path forward.
-
-🟩
-
-The SLFP General Piliyad Secretary Nalaka Bandara, Nalaka Bandara, Nalaka Bandara, Nalaka Bandara says that he will resign from the Matale District Leaders of Matale District.
-
-After the nationalist base of 2015, the Matale district was also political.
-
-When we did not have anyone to give leadership to the leftist and nationalist people of the camp, I initiated politics for ideology.
-
-The majority of traditional politicians in Matale was attended by the government at the time.
-
-In contrast we have engaged in a hackful struggle with the nationalist people.
-
-The result was the massive political victory of the 2019 presidential election and the 2020 general election.
-
-In the midst of many cuts and oppresses, we have always kept politics and for the ideology and people of people. For our policies,
-
-We will never act in a place where we can change. As a result, I would like to proclaim you to promote the Matale District Civil Appointing Leader of Matale.
-
-...
-
-[Data](articles/9e5eef42.json)
-
-[Extended Data](ext_articles/9e5eef42.ext.json)
-
----
-
-### Special Security Program Today
-
-*2024-10-11 09:27:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-விசேட-பாதுகாப்பு-திட்டம்-அமுல்/175-345262) · `ta`
-
-Security measures implemented at District Secretariats due to nomination filings. Traffic program put in place. Rally banned after nomination deadline.
-
-🟩
-
-With the filing of nominations for the general election, a special traffic program and security arrangements have been implemented in all the District Secretariats today (11), police said.
-
-In addition, police media spokesman and Deputy Inspector General of Police Nihal Dalduwa said that the rally was banned after the deadline for submitting nominations.. (An)
-
-◼️
-
-[Data](articles/c49d06c8.json)
-
-[Extended Data](ext_articles/c49d06c8.ext.json)
-
----
-
-### 239 millimeters in Horana
-
-*2024-10-11 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202053) · `si`
-
-Horana reports 239mm rainfall in 24 hours, exceeding Elpitiya (187mm) and Matugama (186.5mm).
-
-🟩
-
-The highest rainfall was reported from the Horana in Horana during the 24 hours ended at 6:00 am today.
-
-The Meteorological Department states that it is a rainfall of 239mm.
-
-187mm millimeters from Elpitiya and 187mm in Matugama area have been reported from 186.5 mm.
-
-◼️
-
-[Data](articles/f8628f4f.json)
-
-[Extended Data](ext_articles/f8628f4f.ext.json)
-
----
-
-### The flight to Saudi to go to Katunayake again 95 minutes after
-
-*2024-10-11 09:15:00* · [`adalk`](https://www.ada.lk/breaking_news/සෞදි-යන්න-ගිය-ගුවන්-යානය-විනාඩි-95කට-පසු-යළිත්-කටුනායකට-ගොඩ-බස්සවයි/11-412439) · `si`
-
-SriLankan Airlines ULF265 diverted to Katunayake after taking off for Saudi Arabia. Aircraft returned due to mechanical issues. Passengers re-routed to Riyadh. Repair work ongoing.
-
-🟩
-
-SriLankan Airplane left Katunayake airport on Naduna Arabia on Nadiyadana Arabia on night, the airplane to landed back to Katunayake airport, to landed back to Katunayake airport.The SriLankan Airlines Corporate Communication Division is issued in a statement issued by the SriLankan Airlines Corporate Communication Division.
-
-SriLankan Airlines ULF, 265 aircraft, leaving the Katunayake airport at 06/10 pm on the 15th night.
-
-The airport has taken steps to landed at the Katunayake airport at 07.50 pm due to the fact that the airplane was industrious.
-
-The SriLankan Airlines had taken steps to send passengers from the Saudi Arabia to go to Riyadh to go to Riyadh.
-
-Sri Lankan engineers are doing that the aircraft in the same aircraft have been referred to repair work
-
-◼️
-
-[Data](articles/3b184971.json)
-
-[Extended Data](ext_articles/3b184971.ext.json)
-
----
-
-### Met. Dept. issues ‘red alert’ for strong winds and rough seas
-
-*2024-10-11 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102607/met-dept-issues-red-alert-for-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued a ‘Red’ alert for the sea areas off the coasts extending from Puttalam to Hambantota via Colombo and Galle.
-
-The advisory, issued at 07.00 a.m. this morning (11), will be effective for the next 24 hours until 07.00 a.m. on Saturday (12).
-
-The sea areas off the coast extending from Puttalam to Hambantota via Colombo and Galle will be very rough at times with very strong gusty winds up to 60-70 kmph, it added.
-
-Meanwhile, the wave heights may increase about 2.5–3.0 m in the sea areas off the coast extending Colombo to Hambantota via Galle and Matara, according to the Met. Department.
-
-Thus, naval and fishing communities are requested to be attentive in this regard.
-
-◼️
-
-[Data](articles/1890561d.json)
-
-[Extended Data](ext_articles/1890561d.ext.json)
 
 ---

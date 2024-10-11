@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 21:23:25**
+As of **2024-10-11 21:39:12**
 
 ## Newspaper Stats
 
-*Scraped **49,015** Articles*
+*Scraped **49,016** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,006
 dailyftlk | 3,323
 adalk | 4,556
 dailymirrorlk | 4,733
-adaderanalk | 5,792
+adaderanalk | 5,793
 tamilmirrorlk | 6,658
 virakesarilk | 7,836
 adaderanasinhalalk | 8,477
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,015 (100.0%) of 49,015 articles have been extended.
+49,016 (100.0%) of 49,016 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Sri Lanka and USAID discuss future cooperation
+
+*2024-10-11 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102626/sri-lanka-and-usaid-discuss-future-cooperation) · `en`
+
+President Anura Kumara Dissanayake said that he had a productive virtual discussion today with USAID Administrator Samantha Power, exploring future cooperation and how USAID can support Sri Lanka’s development initiatives.
+
+◼️
+
+[Data](articles/831c08d8.json)
+
+[Extended Data](ext_articles/831c08d8.ext.json)
+
+---
 
 ### 429 candidates in the Puttalam district
 
@@ -2387,31 +2401,5 @@ Secretary, Ministry of Livestock, Irrigation, Fisheries and Aquatic Resources MP
 [Data](articles/1e4302ac.json)
 
 [Extended Data](ext_articles/1e4302ac.ext.json)
-
----
-
-### Laddance warning for 9 districts to Hanwella to 9 districts
-
-*2024-10-11 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202049) · `si`
-
-Heavy rains hit Sri Lanka, especially Hanwella (196.5mm). Landslide warnings issued for 9 districts.
-
-🟩
-
-The extent of the rain condition of the island is further hoped that the existing rain condition is expected due to the growing display of the island.
-
-Accordingly, the highest rainfall was reported from the Hanwella, the Hanwella of 196.5 millimeters from 8.30 am today.
-
-A 173.5 million rainfall in the Divulapitiya area in Gampaha has also received 163.5 rainfall of 163.5 rainfall.
-
-Meanwhile, the National Building Research Organization has issued landslide warning announcement for nine districts.
-
-It has been reported that warning announcements have been issued under Phase 2, Badulla, Colombo, Gampaha, Matara, Nuwara Eliya and Ratnapura.
-
-◼️
-
-[Data](articles/87e6140e.json)
-
-[Extended Data](ext_articles/87e6140e.ext.json)
 
 ---

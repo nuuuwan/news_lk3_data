@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 01:08:36**
+As of **2024-10-12 01:23:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,025 (100.0%) of 49,036 articles have been extended.
+49,031 (100.0%) of 49,036 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,8 @@ The global community stands at a critical juncture, as countries around the worl
 ...
 
 [Data](articles/42ce5a7f.json)
+
+[Extended Data](ext_articles/42ce5a7f.ext.json)
 
 ---
 
@@ -152,6 +154,8 @@ Power stated that USAID is willing to support the government aligning with the m
 
 [Data](articles/06188149.json)
 
+[Extended Data](ext_articles/06188149.ext.json)
+
 ---
 
 ### Sri Lanka and USAID discuss future cooperation
@@ -212,6 +216,8 @@ The attack is the second on the same location in the last 48 hours, Al Jazeera r
 
 [Data](articles/16c15bb5.json)
 
+[Extended Data](ext_articles/16c15bb5.ext.json)
+
 ---
 
 ### 17 political parties and 11 independent groups competition in Nuwara Eliya district
@@ -261,6 +267,8 @@ IDF soldiers also fired on UN position (UNP) 1-31 in Labbouneh, hitting the entr
 ...
 
 [Data](articles/d8646e46.json)
+
+[Extended Data](ext_articles/d8646e46.ext.json)
 
 ---
 
@@ -441,6 +449,8 @@ Herath under former president Ranil Wickremesinghe’s administration headed exp
 ...
 
 [Data](articles/556efb72.json)
+
+[Extended Data](ext_articles/556efb72.ext.json)
 
 ---
 
@@ -729,6 +739,8 @@ A bond maturing on 15.10.2032 closed at 12.15/40 percent. (Colombo/Oct11/2024)
 ◼️
 
 [Data](articles/709674e7.json)
+
+[Extended Data](ext_articles/709674e7.ext.json)
 
 ---
 

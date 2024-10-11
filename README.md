@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 12:57:29**
+As of **2024-10-11 13:08:44**
 
 ## Newspaper Stats
 
-*Scraped **48,958** Articles*
+*Scraped **48,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 487
 islandlk | 2,895
 economynextcom | 3,004
 dailyftlk | 3,323
-adalk | 4,546
+adalk | 4,547
 dailymirrorlk | 4,733
-adaderanalk | 5,781
+adaderanalk | 5,782
 tamilmirrorlk | 6,649
 virakesarilk | 7,828
 adaderanasinhalalk | 8,462
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,958 (100.0%) of 48,958 articles have been extended.
+48,958 (100.0%) of 48,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Damitha’s name not included in SJB nominations list?
+
+*2024-10-11 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102615/damithas-name-not-included-in-sjb-nominations-list) · `en`
+
+The name of actress Damitha Abeyratne has reportedly not been included in the nominations list of the Samagi Jana Balawegaya (SJB) for the Ratnapura District.
+
+When she had arrived at the Ratnapura District Secretariat today (11) to sign her nomination for the Samagi Jana Balawegaya (SJB) in the upcoming General Election, she was informed that her name was not included on the list.
+
+Damita Abeyratne had announced yesterday (10) that she will contest the General Election representing SJB from the Ratnapura District.
+
+◼️
+
+[Data](articles/c5121790.json)
+
+---
 
 ### Sri Lanka’s Awesuma scheme could benefit from better targeting: IPS
 
@@ -517,6 +533,24 @@ The Meteorological Department states that it is a rainfall of 239mm.
 [Data](articles/f8628f4f.json)
 
 [Extended Data](ext_articles/f8628f4f.ext.json)
+
+---
+
+### සෞදි යන්න ගිය ගුවන් යානය විනාඩි 95කට පසු යළිත් කටුනායකට ගොඩ බස්සවයි
+
+*2024-10-11 09:15:00* · [`adalk`](https://www.ada.lk/breaking_news/සෞදි-යන්න-ගිය-ගුවන්-යානය-විනාඩි-95කට-පසු-යළිත්-කටුනායකට-ගොඩ-බස්සවයි/11-412439) · `si`
+
+සෞදි අරාබියේ රියාද් නුවර බලා 10/10 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගිය ශ්‍රී ලන්කන් ගුවන් යානය පැය 01 යි විනාඩි 35 ක ගුවන් ගමනකින් පසු , ගුවන් යානය කාර්මික දෝශයකට ලක් වීම නිසා  යළිත් කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට , එම යානයේ ගුවන් නියමුවා විසින්  පියවර ගෙන ඇති බව ශ්‍රී ලන්කන් ගුවන් සේවයේ ආයතනික සන්නිවේදන අංශය නිකුත් කළ නිවේදනයක සදහන් වේ.
+
+ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 265 දරන ගුවන් යානය ගුවන් මගීන් 215 දෙනෙකු රැගෙන 10/10 දින රාත්‍රී 06.15 ට කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගොස් තිබේ .
+
+මෙම ගුවන් යානය කාර්මික දෝශයකට ලක් වීම නිසා යළිත් මෙම ගුවන් යානය 10/10 දින රාත්‍රී 07.50 ට කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට පියවර ගෙන ඇති බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා පැවසීය .
+
+මෙහිදී සෞදි අරාබියේ රියාද් නුවර වෙත කඩිනමින් යාමට අවශ්‍යතා ඇති ගුවන් මගීන් වෙනත් , විකල්ප ගුවන් යානා මගින් පිටත් කර හැරීමට ශ්‍රී ලන්කන් ගුවන් සේවය පියවර ගෙන තිබූ අතර ඉතිරි ගුවන් මගීන් පිරිස ගුවන් තොටුපොළ අසළ හෝටල් වෙත යොමු කිරීමට ද පියවර ගෙන තිබුණි .
+
+...
+
+[Data](articles/3b184971.json)
 
 ---
 
@@ -2171,45 +2205,5 @@ The Police Commission has granted permission to re -appoint former Senior Superi
 [Data](articles/65b5b92a.json)
 
 [Extended Data](ext_articles/65b5b92a.ext.json)
-
----
-
-### Riyad-bound Sri Lankan Airline returns after mid-air technical issue
-
-*2024-10-10 21:54:00* · [`economynextcom`](https://economynext.com/riyad-bound-sri-lankan-airline-returns-after-mid-air-technical-issue-183153/) · `en`
-
-ECONOMYNEXT – A Riyad-bound Sri Lankan Airlines flight returned to Colombo after it encountered a technical issue after taking off, the state-owned carrier said.
-
-“SriLankan Airlines confirms that Flight UL 265 from Colombo to Riyadh safely returned to Colombo as a precautionary measure after encountering a technical issue mid-flight,” the SriLankan Airlines said in a statement.
-
-“The aircraft landed without incident at approximately 19:00 hrs Sri Lanka time this evening (10 October 2024). All passengers have been provided with hotel accommodation and rebooked for the next available flight.”
-
-SriLankan Airlines’ restructuring process has been stopped after it failed to find an appropriate investor despite a tender process.
-
-The Airline, which once was profitable under Dubai-based Emirates management, has witnessed a raft of technical issues in Colombo as well as foreign airports recently. (Colombo/October 10/2024)
-
-◼️
-
-[Data](articles/db015101.json)
-
-[Extended Data](ext_articles/db015101.ext.json)
-
----
-
-### Shani Abeysekera back to police service
-
-*2024-10-10 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202041) · `si`
-
-Former SSP Shani Abeysekera returns to police service on contract.
-
-🟩
-
-Former SSP Shani Abeysekera has approved the re-employment to the police service on contract basis.
-
-◼️
-
-[Data](articles/8d6d2fe4.json)
-
-[Extended Data](ext_articles/8d6d2fe4.ext.json)
 
 ---

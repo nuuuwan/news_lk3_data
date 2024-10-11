@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 09:58:43**
+As of **2024-10-11 10:11:47**
 
 ## Newspaper Stats
 
-*Scraped **48,923** Articles*
+*Scraped **48,935** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ dailyftlk | 3,323
 adalk | 4,543
 dailymirrorlk | 4,733
 adaderanalk | 5,776
-tamilmirrorlk | 6,641
-virakesarilk | 7,818
+tamilmirrorlk | 6,643
+virakesarilk | 7,828
 adaderanasinhalalk | 8,458
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,923 (100.0%) of 48,923 articles have been extended.
+48,934 (100.0%) of 48,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Flood on the southern highway
+
+*2024-10-11 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195998) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Floods hit southern highway. Road Development Authority closes Velipanna area temporarily."
+
+🟩
+
+The Road Development Authority said that steps have been taken to temporarily close the area of ​​Velipanna.
+
+◼️
+
+[Data](articles/87dd6d6c.json)
+
+[Extended Data](ext_articles/87dd6d6c.ext.json)
+
+---
+
+### The aircraft departed for Saudi has returned to Katunayake
+
+*2024-10-11 09:33:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவுதிக்கு-புறப்பட்ட-விமானம்-கட்டுநாயக்க-திரும்பியது/175-345264) · `ta`
+
+SriLankan Airlines flight UL-265 returned to Katunayake after 35-minute journey due to technical issues. Passengers re-routed to hotels while aircraft undergoes repairs.
+
+🟩
+
+The Sri Lankan flight departed from Katunayake airport to Saudi Arabia on Thursday night (10) and landed at Katunayake airport after a 35 -minute trip due to technical failure
+
+The SriLankan Airlines flight departed from Katunayake airport at 10/10 pm with UL-265 215 passengers.
+
+The airport official said that action has been taken to land at Katunayake airport at 10/10 pm due to the technical failure of the aircraft.
+
+SriLankan Airlines has taken steps to send air passengers to Riyadh, Saudi Arabia, and take steps to send the remaining air passengers to hotels near the airport.
+
+Sri Lankan engineers say that the A330 aircraft, which was caught in a technical disorder, has now been sent to repair work.
+
+◼️
+
+[Data](articles/14afe64c.json)
+
+[Extended Data](ext_articles/14afe64c.ext.json)
+
+---
+
+### Special Security Program Today
+
+*2024-10-11 09:27:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-விசேட-பாதுகாப்பு-திட்டம்-அமுல்/175-345262) · `ta`
+
+Security measures implemented at District Secretariats due to nomination filings. Traffic program put in place. Rally banned after nomination deadline.
+
+🟩
+
+With the filing of nominations for the general election, a special traffic program and security arrangements have been implemented in all the District Secretariats today (11), police said.
+
+In addition, police media spokesman and Deputy Inspector General of Police Nihal Dalduwa said that the rally was banned after the deadline for submitting nominations.. (An)
+
+◼️
+
+[Data](articles/c49d06c8.json)
+
+[Extended Data](ext_articles/c49d06c8.ext.json)
+
+---
 
 ### 239 millimeters in Horana
 
@@ -185,6 +253,78 @@ The Taj, opened in 1903 in Mumbai, is the hotel. This was the first power of the
 [Data](articles/c5c88b93.json)
 
 [Extended Data](ext_articles/c5c88b93.ext.json)
+
+---
+
+### Flood;Avissawella - Colombo main road traffic impact
+
+*2024-10-11 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/195996) · `ta`
+
+Heavy rainfall forecasted for Sabaragamuwa, Western Provinces, Galle, and Matara districts. Floods may impact Avissawella-Colombo main road traffic.
+
+🟩
+
+Heavy rainfall is expected in some parts of the Sabaragamuwa and Western Provinces as well as some areas of Galle and Matara districts, the Department of Meteorology said.
+
+◼️
+
+[Data](articles/75b83b48.json)
+
+[Extended Data](ext_articles/75b83b48.ext.json)
+
+---
+
+### May record more than 150 mm of rainfall
+
+*2024-10-11 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195994) · `ta`
+
+Sri Lanka faces heavy rainfall, thunderstorms, and strong winds. Rainfall exceeding 150mm predicted in southern provinces. Thunderstorms possible in central, western areas. Strong gusts up to 50km/h reported. Sea regions face turbulent conditions with waves over 2.5m. Public advised to exercise caution during storms.
+
+🟩
+
+Senior Weather Officer Dr. Mohamed Saliheen said the weather is likely to continue with the prevailing rainfall in the southwestern region of the country due to the atmospheric conditions in Sri Lanka.
+
+Rainfall or thunderstorms are expected in the Central, Sabaragamuwa, Upper, North Western and Southern Provinces.
+
+Heavy rains are likely to experience more than 150 mm in some parts of the Sabaragamuwa and Western Provinces as well as some of the Galle and Matara districts.
+
+Rain or thunderstorms may occur in the evening or night in many parts of the other parts of the country. Heavy rains are expected to occur in some places 75 millimeters.
+
+In the Central, Sabaragamuwa, Upper, North Western and Southern Provinces, strong winds can be frequent at speeds of 40 to 50 millimeters per hour.
+
+The public is asked to take care in the events of strong winds and lightning.
+
+Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
+
+...
+
+[Data](articles/f72326f9.json)
+
+[Extended Data](ext_articles/f72326f9.ext.json)
+
+---
+
+### Ramgirish is contesting in Nuwara Eliya district
+
+*2024-10-11 08:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195995) · `ta`
+
+Karupaya Ramakrishnan, sports journalist, contests Nuwara Eliya district under Sri Lanka PA. Raveendran Harin also runs as Tamil candidate. Both aim to promote Sri Lanka's sports globally.
+
+🟩
+
+Karupaya Ramakrishnan, a sports journalist and president of the Sri Lanka Professional Sports Journalists Association, has officially signed the nomination papers to contest the upcoming general election.
+
+He will contest under the Sri Lanka PA. He has worked on the Sunday Observer, Capital Maharaja, Ceylon Today and Carlton Sports Network.
+
+Sports journalist and the founder of the Lion Nation Sports Network and Managing Director, Karupaya Ramakrishnan, who worked extensively to promote Sri Lanka's game at home and internationally, has drawn up the introduction of the processor and the web site nearly two years ago.
+
+Raveendran Harin is contesting with another Tamils ​​in the Sri Lanka PA.
+
+◼️
+
+[Data](articles/c810b761.json)
+
+[Extended Data](ext_articles/c810b761.ext.json)
 
 ---
 
@@ -1122,6 +1262,148 @@ Meanwhile, the Department of Meteorology has predicted more than 150 mm of rainf
 
 ---
 
+### Vadivel Suresh filed nominations in Badulla
+
+*2024-10-11 04:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195993) · `ta`
+
+Vadivel Suresh filed nomination in Badulla. New party "United Democratic Voice" launched by Ranjan Ramanayake. Party's microphone logo approved by Election Commission.
+
+🟩
+
+Former parliamentarian Vadivel Suresh filed his nomination papers at the Badulla District Secretariat on Thursday morning.
+
+The United Democratic Voice of the United Democratic Voice was launched as a new party headed by Ranjan Ramanayake at the TajSamudra Hotel in Colombo on Thursday (10).
+
+Former parliamentarian Vadivel Suresh made comments to the media after the filing of the nomination papers this morning as the party's microphone logo was approved by the Election Commission.
+
+◼️
+
+[Data](articles/90ae6264.json)
+
+[Extended Data](ext_articles/90ae6264.ext.json)
+
+---
+
+### Sri Lanka Tamil National Party in Trincomalee District. A. Sumanthiran
+
+*2024-10-11 04:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195992) · `ta`
+
+Sri Lanka Tamil National Party fields 7 candidates in Trincomalee district. A.Sumanthiran announces alliance with Public Organization. Meeting discusses strategy against criticism.
+
+🟩
+
+Former Member of Parliament as the primary candidate in Trincomalee district. Former Member of Parliament. A. Sumanthiran said.
+
+He said this during a meeting held at the Tirukkonamalai District Workshop on Thursday evening (10) evening.
+
+A total of 7 candidates will be fielded by four other parties on behalf of the Sri Lanka Tamil Nadu Party.. We also decided to negotiate with the Archbishop of the Public Organization.
+
+Shanmugam Kukadasan, Kandaswamy Jeevarupan, Kadirgamath Thambi Sundaralingam and Galle Raja Gokul Raj. He said the decision was made after a discussion with various criticisms.
+
+◼️
+
+[Data](articles/e6102da9.json)
+
+[Extended Data](ext_articles/e6102da9.ext.json)
+
+---
+
+### TNA candidates signing nominations
+
+*2024-10-11 03:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195991) · `ta`
+
+Sri Lanka Tamil Nadu Party candidates file nominations in Ampara district under former MP Tavarasa Kalaiyaran. Key figures include Kavindran Koteeswaran, Krishnapillai Jayasiril, and others. Deadline was Friday noon.
+
+🟩
+
+Candidates of the Sri Lanka Tamil Nadu Party, which are contesting the house symbol in the Ampara district, filed their nominations on Thursday (10) under the leadership of former MP Tavarasa Kalaiyaran.
+
+The party's candidates have filed nominations at the Ampara District Government Agent's office.
+
+Former parliamentarian Kavindran Koteeswaran (Akkaraipattu), led by former parliamentarian Tavarasa Kalaiyarasan (Akkaraipattu), Krishnapillai Jayasiril (Karativu) Kubendrarajah Jekasudhan (Tirukovil)
+
+Kandaswamy Indehnesh (Tirukovil) Arulnagam Murthy Nithanjan (Kalmunai) Barinayagam Jeevaraj (Thambiluvil)
+
+Pakiyam Manjula (Periyaka Nilavana) Jayakumar Yasodharan (Valathapitiya) Kanagaratnam Janardhanan (Alayadivembu) filed the nomination.
+
+It is noteworthy that the deadline for filing nominations ended on Friday (11) at noon.
+
+◼️
+
+[Data](articles/aea27796.json)
+
+[Extended Data](ext_articles/aea27796.ext.json)
+
+---
+
+### Leading nominations in Vanni
+
+*2024-10-11 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/195990) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Vanni: New Democratic Maxislieninni Sakshi, Socialist Forum, Galle Functional Struggle Group lead opposition in upcoming parliamentary elections. Election office opened at Vavuniya District Secretariat."
+
+🟩
+
+The leading parliamentary elections will be held in the upcoming parliamentary elections, the New Democratic Maxislieninni Sakshi, the Socialist Forum and the Galle Functional Struggle Group are contesting the country as the leading of the people's struggle.
+
+In this backdrop, the election office located at the Vavuniya District Secretariat was filed on Thursday evening.
+
+◼️
+
+[Data](articles/2a58f85f.json)
+
+[Extended Data](ext_articles/2a58f85f.ext.json)
+
+---
+
+### Tamil National People's Front candidates in Ampara
+
+*2024-10-11 03:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195989) · `ta`
+
+Tamil National People's Front and Tamil National Alliance candidates submitted nominations for Ampara's Digamadulla electoral district. Both parties fielded candidates for upcoming parliamentary elections. The deadline for nominations ends tomorrow afternoon.
+
+🟩
+
+The Tamil National People's Front or the All Ceylon Tamil Congress Party handed over the nomination papers for the Digamadulla electoral district today at the Ampara District Secretariat.
+
+In Ampara, many independent groups, including the Tamil national parties, were in the process of handing over nominations today.
+
+District organizer Pusparaj Tushanandan, led by former PP Selvarajah Gajendran, and members of the candidates participated in the Ampara election district today to contest the upcoming parliamentary elections.
+
+It is also worth noting that the All Ceylon Tamil Congress team is in the bicycle symbol.
+
+Meanwhile, the Tamil National Alliance (TNA) handed over the nomination papers for the Digamadulla electoral district on Thursday (10) at the Ampara District Secretariat.
+
+...
+
+[Data](articles/5b613326.json)
+
+[Extended Data](ext_articles/5b613326.ext.json)
+
+---
+
+### ஓமந்தையில் காணி பிணக்கு காரணமாக வாள்வெட்டு: ஒருவர் மரணம்- மேலும் ஒருவர் படுகாயம்
+
+*2024-10-11 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195988) · `ta`
+
+ஓமந்தை, கதிரவேலு பூவரசன்குளம் பகுதியில் காணி பிணக்கு காரணமாக இடம்பெற்ற வாள்வெட்டில் ஒருவர் மரணமடைந்துள்ளதுடன், ஒருவர் படுகாயமடைந்து வவுனியா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+
+வவுனியா, ஓமந்தை, கதிரவேலுபூவரசன்குளம் பகுதியில் வசிக்கும் இரு குடும்பங்களுக்கிடையில் காணி தொடர்பாகச் சிறிய பிணக்கு ஒன்று இருந்து வந்துள்ளது. இந்நிலையில் குறித்த காணியில் மாமன் மற்றும் மருகன் ஆகிய இருவரும் வேலை செய்து கொண்டிருந்த போது அங்கு வந்த நபர்கள் குறித்த இருவர் மீதும் மிளகாய்த் தூளை அள்ளி வீசிவிட்டு அவர்களை விரட்டி வாள் வெட்டு தாக்குதலை மேற்கொண்டதாக ஊர்மக்கள் தெரிவிக்கின்றனர்.
+
+இதன்போது இரண்டு பிள்ளைகளின் தந்தையான இளங்கோ (வயது 38) என்பவர் சம்பவ இடத்திலேயே மரணமடைந்துள்ளதுடன், 42 வயதுடைய மூன்று பிள்ளைகளின் தந்தையான ரூ.திலீபன் படுகாயமடைந்த நிலையில் உறவினர்கள் மற்றும் ஊர் மக்களால் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+படுகாயமடைந்தவர் அவசர சிகிச்சைப்  பிரிவில் அனுமதிக்கப்பட்டுள்ளார். இறந்தவரின் உடல் வவுனியா வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/247f16e8.json)
+
+---
+
 ### Shouldn't the previous time frame be imported?
 
 *2024-10-11 01:42:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd6qllxeq9wo) · `si`
@@ -1955,305 +2237,5 @@ He is continually serving as the Chairman of the Sri Lankan Cricket Foundation a
 [Data](articles/dac053d2.json)
 
 [Extended Data](ext_articles/dac053d2.ext.json)
-
----
-
-### Lotus Tower incident; notification to parents
-
-*2024-10-10 18:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரைக்-கோபுர-சம்பவம்-பெற்றோருக்கு-அறிவித்தல்/175-345235) · `ta`
-
-Lotus Tower incident: 16-year-old girl's death prompts mental health awareness. Parents urged to monitor children's behavior changes, mood swings, and prolonged irritability. Expert advises open communication and seeking professional help if symptoms persist.
-
-🟩
-
-In the wake of the death of a 16 -year -old girl from the Lotus Tower, mental health and parents have urged their parents to pay more attention to the mental health of their children.
-
-Speaking to the Daily Mirror, Advisor Psychiatrist Saman Veeravardhana emphasized that many adolescents are struggling in solitude without showing the sign of it and the importance of knowing its symptoms.
-
-"It is important for parents to know the changes in their behavior, such as moving away from friends and family and sudden mood change," the doctor Veeravardena pointed out.
-
-He also focused on the tragedy or irritation that lasts more than two weeks, the lack of interest in entertainment or others and the change in sleep systems, appetite or educational performance.. He also warned that speeches such as hopeless feeling or wanting to escape from life should not be ignored.
-
-...
-
-[Data](articles/8728218c.json)
-
-[Extended Data](ext_articles/8728218c.ext.json)
-
----
-
-### Cabraal charges to Greek bond case
-
-*2024-10-10 18:36:00* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රීක-බැඳුම්කර-නඩුවට-කබ්රාල්ට-අධි-චෝදනා/11-412431) · `si`
-
-Sri Lankan judge Ajith Nivard Cabraal faces bribery allegations over Greek bond purchases during economic crisis. He was released on bail after court objections regarding legality of charges. Case ongoing despite Supreme Court intervention.
-
-🟩
-
-Colombo High Court Judge of Colombo Ajith Nivard Cabraal has been transferred to the Government of Sri Lanka by purchasing Greek bonds, knowing that Greece is under severe economic crisis.S. Mr. Defendants decided to release the defendants on bonds of the guarantors worth Rs.
-
-The judge imposed on the courts according to the courts issued by the court, the judge was suspended and released on bail without the charges of the court.Silva, Chandrasiri Jayasinghe, Panditha Siriwardena and MA. Karunaratne is the gentlemen.
-
-Bribery Governor Ajith Nivard Cabraal, former Bribery Board of Bribery Commission, the Bribery Board of Bribery Board is in addition to purchasing Greek bonds by purchasing Greek bonds 2012.. Dharmasena Dheerasinghe, Wasantha Ananda Silva, Chandrasiri Jayasinghe, Panditha Siriwardena and HA. Karunaratne had sued the people.
-
-...
-
-[Data](articles/ea991595.json)
-
-[Extended Data](ext_articles/ea991595.ext.json)
-
----
-
-### Harry Bruk and Joe Root renews cricket records
-
-*2024-10-10 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202037) · `si`
-
-Harry Brook and Joe Root break cricket records: England scores 823/7, surpassing previous high against Pakistan. Brook hits triple century, Root achieves 35th Test century.
-
-🟩
-
-Pakistan scored 152 runs for the loss of 6 wickets in their second innings while stopping the fourth day of the first Test match between Pakistan and England.
-
-Accordingly, they are more than 115 runs than England's first innings.
-
-The first innings were playing the first innings when the match was started today and scored 492 runs for the loss of 03 wickets.
-
-Accordingly, they played 49 runs and scored 331 runs for 823 runs for their 7 wickets. England builds this innings in 150 overs.
-
-The massive marks built by England is the 4th highest score of the Test team.
-
-This is the highest school forces against Pakistan.
-
-Previously, the best Test innings had been recorded against Pakistan, bure.. West users.
-
-They scored 790 runs for the Test match in Kingston in 1958.
-
-Joe Root and Harry Brouqua and Harry Broot joined 454 off 552 balls for England.
-
-This is also the 4th highest score recorded for any wickets in the Test.
-
-Brown, who faced 322 balls, scored 317 runs in their Test cricket century.
-
-...
-
-[Data](articles/f3871dba.json)
-
-[Extended Data](ext_articles/f3871dba.ext.json)
-
----
-
-### The government caught is uncovered in the Homagama hospital
-
-*2024-10-10 18:26:51* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-කැබ්-රියක්-හෝමාගම-රෝහලේ-අත-හැර-දමා-තිබියදී-සොයා-ගනියි/11-412430) · `si`
-
-Government vehicle found at Homagama hospital. Vehicle with state logo entered premises, abandoned near morgue. Hospital staff blocked roads. Officials informed Ministry of Health and High Court.
-
-🟩
-
-Internal sources of the hospital say that a cab with state logo from Friday to the Homagama Base Hospital mortuary.
-
-It has been revealed that the vehicle entered the hospital premises to enter the hospital with the government logo and left the role of the hospital.
-
-It is said that the vehicle had been stopped near the morgue with a few days and had no possession of it and had a owner to the hospital premises and left the hospital.
-
-Later, after the hospital staff and the security division intervened, the officials have come to inform the Ministry of Health and High Court with the photographs of the vehicle.
-
-It is said that the hospital employees have blocked the road to the surrounding area so that the vehicle is unable to carry the vehicle.
-
-According to the new government, the government's vehicle has been suspected to bring the vehicle to the hospital premises and left the vehicle to the hospital premises.
-
-◼️
-
-[Data](articles/8a32e91a.json)
-
-[Extended Data](ext_articles/8a32e91a.ext.json)
-
----
-
-### Court restrains Hasalaka Thushara from making defamatory statements on TV Derana
-
-*2024-10-10 18:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102597/court-restrains-hasalaka-thushara-from-making-defamatory-statements-on-tv-derana) · `en`
-
-The Colombo District Court issued an interim injunction against Hasalaka Thushara preventing him from issuing defamatory statements against TV Derana, until the final determination of the case.
-
-This order was issued by Colombo District Judge Sandun Vithana, when the relevant case filed by TV Derana was taken up today (10).
-
-◼️
-
-[Data](articles/64a073d7.json)
-
-[Extended Data](ext_articles/64a073d7.ext.json)
-
----
-
-### Former Excise Commissioner and 4 others. Tells the country 10
-
-*2024-10-10 18:20:36* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-සුරාබදු-කොමසාරිස්-ඇතුළු-4ක්-නොවැ--10-තෙක්-රට-නොයන-බව-කියයි/11-412429) · `si`
-
-Former Excise Commissioner denies traveling abroad until Nov 10. Four family members promise Supreme Court. Case adjourned to Nov 6 after hearing arguments.
-
-🟩
-
-Former Excise Commissioner General MJ says he is not abroad until November 10. Four of four families including Mr. Gunasiri promised the Supreme Court today (10).
-
-Commissioner General of Excise MG. Attorney-at-Law Romesh de Silva, who appeared to them to be taken up for a foreign travel ban against them, said that the mosque had been called for a foreign flight attempt to go abroad.
-
-Acting Chief Justice Mrsrum Fernando, Supreme Court Justice Dilipa De Silva, considers the monsoon in the face of a panel of judges.
-
-Attorney Man Manjaya de Silva, appearing on behalf of the petitioner, has been removed from the post of Cabinet decision.
-
-At the same post, he said he had been ordered to issue liquor license not to issue liquor licenses, but he is expected to be allegedly licensed in the courts, but he is expected to be allegedly permitted to contempt of it.Much, he said.
-
-President's Counsel Romesh de Silva, who appeared for the respondents, said that there is no need to apply for their clients.
-
-...
-
-[Data](articles/f95fe410.json)
-
-[Extended Data](ext_articles/f95fe410.ext.json)
-
----
-
-### Rs. Billions of fertilizer is out
-
-*2024-10-10 18:11:20* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-ගණනක-පොහොර-වංචාවක්-ගැන-තොරතුරු-එළියට/11-412427) · `si`
-
-Fertilizer scandal: Colombo Magistrate orders arrests, probes financial crimes involving billions of rupees.
-
-🟩
-
-Colombo Chief Magistrate Thilina Gamage to immediately arrest the suspects of Rs.10) fixed.
-
-The Magistrate ordered the bank account account details of the three fertilizer companies and two brokerage companies in 08 fertilizers.
-
-The CID Financial Criminal Investigation Division has commenced investigations into a complaint lodged by the Secretaries of the Ministry of Agriculture.
-
-Sub Inspector of the Financial Criminal Investigation Division (Crime Criminal Investigation Division)Said it was imported.
-
-The private industrialmentors have sold 3500 / - to sell fertilizer fertilizers at Rs.He said to the government, he said he would investigate the government and fraudulently to the government and fraudulently to the government.
-
-Mr. Anura Gamage was revealed to be arrested in connection with the persons with five fertilizer companies and eight brokerage companies in the incident.
-
-...
-
-[Data](articles/4e6dd582.json)
-
-[Extended Data](ext_articles/4e6dd582.ext.json)
-
----
-
-### Good news about the economy from the World Bank
-
-*2024-10-10 17:56:04* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බැංකුවෙන්-ආර්ථිකය-ගැන-සුබ-ආරංචියක්/11-412426) · `si`
-
-World Bank predicts Sri Lanka's economy will grow 4.4% in 2024, citing structural reforms and debt management strategies. This forecast surpasses initial predictions, indicating improved economic stability. The organization emphasizes continued reform efforts to sustain growth and reduce poverty.
-
-🟩
-
-The world's economy has been stabilized and in the year 2024, Sri Lanka's economic growth will reach 4.4%.
-
-The World Bank says that the value of pre-forecasts is a surpassing forecasts.
-
-However, this positive forward vision has been built on decisive structural and castic reforms, the World Bank added.
-
-The World Bank says Sri Lanka will rely on the continuous structural reform of the macroeconomic stabilization, maintenance of successful debts, increase medium economic growth and decrease in poverty.
-
-◼️
-
-[Data](articles/064281dc.json)
-
-[Extended Data](ext_articles/064281dc.ext.json)
-
----
-
-### Shehan Semasinghe does not go to election
-
-*2024-10-10 17:46:25* · [`adalk`](https://www.ada.lk/breaking_news/ෂෙහාන්-සේමසිංහ-මැතිවරණයට-නොඑයි/11-412425) · `si`
-
-Shehan Semasinghe decides against contesting next general election. He issues statement saying he'll engage in political activities but won't run. Claims experience from previous parliament term relevant.
-
-🟩
-
-Former Finance State Minister Shehan Semasinghe has decided not to contest the next general election.
-
-Issuing a statement. However, he says he is engaged in political activities in the future.
-
-He is also present at the public statement that the MPs who had committed the past parliament had also represented the parliament.
-
-◼️
-
-[Data](articles/18fbf8f2.json)
-
-[Extended Data](ext_articles/18fbf8f2.ext.json)
-
----
-
-### US Pacific fleet Commander meets Sri Lanka president
-
-*2024-10-10 17:46:00* · [`economynextcom`](https://economynext.com/us-pacific-fleet-commander-meets-sri-lanka-president-183138/) · `en`
-
-ECONOMYNEXT – Commander of the US Pacific Fleet Stephen Koehler has met Sri Lanka’s President Anura Dissanayake.
-
-“Had an important meeting with @stephenkoelher, Commander of the @USPacificFleet, today (10). The U.S. commitment to support Sri Lanka in combating transnational threats like drug smuggling and terrorism was discussed,” Dissanayake said on X.
-
-“@USPacificFleet Admiral Koehler and I met with President @AnuraDisanayake today to discuss how our U.S.-Sri Lanka security partnership can strengthen Sri Lanka’s sovereignty while ensuring regional stability in the Indo-Pacific,” Chung said on X.
-
-The US remains committed to enhancing the bilateral relationship with Sri Lanka, working together to promote security, prosperity, and shared values, the ambassador said.
-
-...
-
-[Data](articles/74fe3a5c.json)
-
-[Extended Data](ext_articles/74fe3a5c.ext.json)
-
----
-
-### TNA nomination in Vanni
-
-*2024-10-10 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195970) · `ta`
-
-TNA candidates nominated in Vanni: Selvaraj, Dinason, Anthony Dalemahalisra file papers at Vavuniya District Secretariat.
-
-🟩
-
-The nominations of the Sri Lanka Tamil National Party (TNA) election constituency were filed at the Vavuniya District Secretariat today at 03.00 pm.
-
-The candidates signed the candidates at the Vavuniya District Tamil National Party office at 01.00 pm - 01.30 pm.
-
-Subsequently, after the candidates were worshiping, the district secretariat was in the party office and the nominations were filed.
-
-In particular, the Mullaitivu Administrative District, four, on behalf of the Vavuniya Administrative District, have filed their nominations to contest the parliamentary elections in the Vanni election, which includes the three administrative districts of Mullaitivu, Vavuniya and Mannar.
-
-Former Northern Provincial Council Member of the Mullaitivu Administration Attorney -at -Law Selvaraj represents Mannar districtDinason and legal student Anthony Dalemahalisra have thus filed their nomination papers to contest the parliamentary elections as a Sri Lankan Tamil party.
-
-◼️
-
-[Data](articles/0cd10a1c.json)
-
-[Extended Data](ext_articles/0cd10a1c.ext.json)
-
----
-
-### Admiral Steve Kohler meets the president
-
-*2024-10-10 17:28:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அட்மிரல்-ஸ்டீவ்-கோஹ்லர்-ஜனாதிபதியை-சந்தித்தார்/175-345233) · `ta`
-
-US Admiral Steve Kohler meets Sri Lankan President Anura Kumara Dissanayake. Discusses Indian Ocean security, maritime awareness, disaster preparedness. Praises Sri Lanka's anti-drug efforts, offers US support against threats. Promises ongoing US naval training assistance.
-
-🟩
-
-Admiral Steve Kohler, Commanding Officer of the US Pacific Navy, (Admiral Steve Koehler, A 4-Star U.S. யா யா யா யா யா யா யா யா யா யா யா. Pacific Fleet met President Anura Kumara Dissanayake on Thursday (10).
-
-The discussion was discussed on the increasing security challenges in the Indian Ocean, upgrading awareness on maritime regions and improving the ability to face disasters.
-
-Admiral Kohler praised Sri Lanka's continued efforts against drug trafficking, promising to support Sri Lanka in fighting international threats such as drug trafficking and terrorism.
-
-Admiral Steve Kohler assured the president that the US Pacific Navy's Commanding Officer of the United States will continue to support the US's human resources training for the Naval Division.
-
-◼️
-
-[Data](articles/fd184e6c.json)
-
-[Extended Data](ext_articles/fd184e6c.ext.json)
 
 ---

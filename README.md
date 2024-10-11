@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 16:57:14**
+As of **2024-10-11 17:08:19**
 
 ## Newspaper Stats
 
-*Scraped **48,990** Articles*
+*Scraped **48,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,789
 tamilmirrorlk | 6,653
 virakesarilk | 7,828
-adaderanasinhalalk | 8,472
+adaderanasinhalalk | 8,473
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,990 (100.0%) of 48,990 articles have been extended.
+48,991 (100.0%) of 48,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### National List of New Democratic Front
+
+*2024-10-11 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202070) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National List of New Democratic Front: Political alliance formed in Sri Lanka. Includes former Speaker Mahinda Yapa Abeywardena. Controversy surrounding his name, allegedly containing "louse". Political implications and public perception of the alliance and its leaders.
+
+🟩
+
+Also, the name of former Speaker Mahinda Yapa Abeywardena Yapa includes the louse
+
+◼️
+
+[Data](articles/32e0faed.json)
+
+[Extended Data](ext_articles/32e0faed.ext.json)
+
+---
 
 ### SLPP’s National List for 2024 General Election
 
@@ -2225,23 +2247,5 @@ During the meeting, Ambassador Edirisinghe highlighted the existing strong bilat
 [Data](articles/7dd616de.json)
 
 [Extended Data](ext_articles/7dd616de.ext.json)
-
----
-
-### Constitutional supremacy versus Parliamentary supremacy: Which way for Sri Lanka?
-
-*2024-10-11 06:29:24* · [`dailyftlk`](https://www.ft.lk/columns/Constitutional-supremacy-versus-Parliamentary-supremacy-Which-way-for-Sri-Lanka/4-767820) · `en`
-
-Sri Lankan Parliament: A symbol of legislative authority, at the crossroads between constitutional supremacy and Parliamentary sovereignty as the nation debates a new constitutional framework
-
-Sri Lanka has a new President, and a fresh general election will be held on 14 November to elect members to its Parliament and for a new Government to be formed thereafter.
-
-The choice before the voters will be whether the National People’s Power (NPP) should be given a Parliamentary majority for them to form the next Government or those opposed to the NPP should be given a majority for them to form the next Government. This article will not analyse and discuss this issue as it is a topic that is already being widely discussed.
-
-...
-
-[Data](articles/78299a9a.json)
-
-[Extended Data](ext_articles/78299a9a.ext.json)
 
 ---

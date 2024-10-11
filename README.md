@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 05:44:49**
+As of **2024-10-11 06:08:23**
 
 ## Newspaper Stats
 
-*Scraped **48,860** Articles*
+*Scraped **48,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 486
 bbccomsinhala | 486
-islandlk | 2,884
+islandlk | 2,887
 economynextcom | 3,000
 dailyftlk | 3,299
 adalk | 4,540
 dailymirrorlk | 4,733
 adaderanalk | 5,770
-tamilmirrorlk | 6,631
+tamilmirrorlk | 6,632
 virakesarilk | 7,818
 adaderanasinhalalk | 8,450
 
@@ -26,9 +26,31 @@ adaderanasinhalalk | 8,450
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,860 (100.0%) of 48,860 articles have been extended.
+48,860 (100.0%) of 48,864 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-11 (Friday)
+
+### கொழும்பில் அதிக மழைவீழ்ச்சி
+
+*2024-10-11 05:37:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-அதிக-மழைவீழ்ச்சி/175-345252) · `ta`
+
+கடந்த 12 மணித்தியாலங்களில் கொழும்பு மாவட்டத்தில் அதிகளவிலான மழைவீழ்ச்சி பதிவாகியுள்ளதாக வளிமண்டவியல் திணைக்களம் நேற்று இரவு தெரிவித்தது.
+
+அதன்படி, கொழும்பு மாவட்டத்தின் ஹங்வெல்ல பகுதியில் 141.5 மில்லி மீற்றர் வரையிலான மழைவீழ்ச்சி பதிவாகியுள்ளது.
+
+அத்துடன், களுத்துறை மாவட்டத்தின் வொகன் தோட்டத்தில் 105.5 மில்லி மீற்றர் வரையான மழைவீழ்ச்சி பதிவாகியுள்ளது.
+
+களுத்துறை மாவட்டத்தின் ஹல்வத்துர தோட்டத்தில் 100 மில்லிமீற்றர் மழை வீழ்ச்சியும், ஹொரணையில் 98 மில்லிமீற்றர் மழை வீழ்ச்சியும் பதிவாகியுள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இதேவேளை, நாட்டின் சில பகுதிகளில் 150 மில்லி மீற்றருக்கும் அதிக மழைவீழ்ச்சி பதிவாகக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. (a)
+
+◼️
+
+[Data](articles/a7e171ae.json)
+
+---
 
 ### 2024-10-10 (Thursday)
 
@@ -2371,27 +2393,5 @@ The order was issued in consideration of a request made by the Commission to Inv
 [Data](articles/3128760b.json)
 
 [Extended Data](ext_articles/3128760b.ext.json)
-
----
-
-### Plan to carry out dengue control field test in Jaffna
-
-*2024-10-10 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195926) · `ta`
-
-Dengue control field test planned for Jaffna district from 13th to 15th. Public areas, schools, and private institutions involved. Government, NGOs, and private offices participating.
-
-🟩
-
-Dengue Control Field Examination is scheduled to be carried out from the 13th to the 15th of this month in the Jaffna district, Jaffna State President Mr.Pradeepan said.
-
-The project will be launched in all government, non -governmental organizations and private offices on the 14th of the 14th in the public residential areas, strengthening the village level organizations with the cooperation of the Grama Niladhari and Divisional Secretaries.
-
-In addition, all schools (morning) and private educational institutions (evening) will be carried out on the 15th of this month, he said.
-
-◼️
-
-[Data](articles/23a8b443.json)
-
-[Extended Data](ext_articles/23a8b443.ext.json)
 
 ---

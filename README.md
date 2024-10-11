@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 18:34:08**
+As of **2024-10-11 18:45:59**
 
 ## Newspaper Stats
 
-*Scraped **49,004** Articles*
+*Scraped **49,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,789
 tamilmirrorlk | 6,656
 virakesarilk | 7,836
-adaderanasinhalalk | 8,475
+adaderanasinhalalk | 8,476
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,004 (100.0%) of 49,004 articles have been extended.
+49,004 (100.0%) of 49,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### නායයෑමේ අනතුරු ඇඟවීම් දීර්ඝ කෙරේ
+
+*2024-10-11 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202073) · `si`
+
+ප්‍රදේශ කිහිපයක් සඳහා නාය යෑමේ අනතුරු ඇඟවීම්  තවදුරටත් දීර්ඝ කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
+
+මෙම අනතුරු ඇඟවීමේ නිවේදනය අද (11) පස්වරු 4.00 සිට හෙට (12) පස්වරු 04.00 දක්වා ක්‍රියාත්මක බව ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥ වසන්ත සේනාධිර මහතා පැවසීය.
+
+ඒ අනුව පහත සඳහන් දිස්ත්‍රික්කවලට අයත් ප්‍රාදේශීය ලේකම් කොට්ඨාස සඳහා අදියර 2 යටතේ මෙන්ම අදිරය 1 යටතේ අනතුරු ඇඟවීම් නිවේදනය නිකුත් කර ඇත.
+
+කළුතර දිස්ත්‍රික්කය- වලල්ලාවිට, හොරණ, ⁠ඉංගිරිය, මතුගම, දොඩංගොඩ, බුලත්සිංහල, පාලින්දනුවර, අගලවත්ත
+
+කෑගල්ල දිස්ත්‍රික්කය - රුවන්වැල්ල, යටියන්තොට, දෙහිඕවිට, වරකාපොළ, බුලත්කොහුපිටිය, කෑගල්ල, මාවනැල්ල, අරණායක
+
+රත්නපුර දිස්ත්‍රික්කය - ඇහැළියගොඩ, කිරිඇල්ල , ⁠අයගම, ⁠ඇලපාත, කලවාන, රත්නපුර, කුරුවිට
+
+◼️
+
+[Data](articles/9c9e92f3.json)
+
+---
 
 ### Seizure
 
@@ -2335,25 +2357,5 @@ According to Ranawaka, the URF entered into a Memorandum of Understanding (MoU) 
 [Data](articles/884f4319.json)
 
 [Extended Data](ext_articles/884f4319.ext.json)
-
----
-
-### NFF will not contest in upcoming poll to safeguard national interests – Wimal Weerawansa
-
-*2024-10-11 07:10:40* · [`dailyftlk`](https://www.ft.lk/news/NFF-will-not-contest-in-upcoming-poll-to-safeguard-national-interests-Wimal-Weerawansa/56-767827) · `en`
-
-Claims some opposition forces are serving an imperial agenda aimed at sabotaging President Anura Kumara Dissanayake
-
-Says NFF is committed to safeguarding the mandate that brought President Dissanayake to power and fulfilling expectations of the people
-
-Stresses decision not to participate in upcoming poll was made after consultations with all levels of the NFF
-
-National Freedom Front (NFF), led by former MP Wimal Weerawansa, has recently announced that it will not contest the upcoming General Elections, either independently or as part of an alliance. In a statement issued yesterday, Weerawansa emphasised that the decision is rooted in the party’s commitment to safeguarding the country from political instability and crisis.
-
-...
-
-[Data](articles/8e52c35c.json)
-
-[Extended Data](ext_articles/8e52c35c.ext.json)
 
 ---

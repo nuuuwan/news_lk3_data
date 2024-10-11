@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 18:34:08**
+As of **2024-10-11 18:58:56**
 
 ## Newspaper Stats
 
-*Scraped **49,004** Articles*
+*Scraped **49,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 3,006
 dailyftlk | 3,323
 adalk | 4,553
 dailymirrorlk | 4,733
-adaderanalk | 5,789
+adaderanalk | 5,791
 tamilmirrorlk | 6,656
 virakesarilk | 7,836
-adaderanasinhalalk | 8,475
+adaderanasinhalalk | 8,476
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,004 (100.0%) of 49,004 articles have been extended.
+49,005 (100.0%) of 49,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Landslide warnings extended
+
+*2024-10-11 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202073) · `si`
+
+National Building Research Organization extends landslide warnings for specific areas. Alerts issued from 4pm today to 4pm tomorrow for selected districts including Kalutara, Kegalle, and Ratnapura.
+
+🟩
+
+The National Building Research Organization has taken steps to further extend the alerts of landslides for several areas.
+
+The National Building Research Institute, Senior Geologist Wasantha Senadhira said that this warning notification is operating at 4.00 pm to 4:00 pm tomorrow (12).
+
+Accordingly, under phase 2 to Divisional Secretariats in the following districts, as well as the alert will be issued under the following districts.
+
+Kalutara District - Kallavita, Horana, Horana, Matugama, Dodangoda, Bulathsinhala, Palindhan, Agalawatta
+
+Kegalle District - Ruwanwella, Yatiyantota, Dehiowita, Dehiowita, Bandaranawa, Kegalle, Mawanella, Aranayaka
+
+Ratnapura District - Eheliyagoda, Kiriella, ⁠ Ayalla, Kalawana, Ratnapura, Kuruwita
+
+◼️
+
+[Data](articles/9c9e92f3.json)
+
+[Extended Data](ext_articles/9c9e92f3.ext.json)
+
+---
+
+### National List of ‘Sarvajana Balaya’ revealed
+
+*2024-10-11 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102624/national-list-of-sarvajana-balaya-revealed) · `en`
+
+The “Sarvajana Balaya” alliance has released its list of candidates nominated to be appointed as national list members of parliament (National List MPs) in the 2024 General Election.
+
+◼️
+
+[Data](articles/8a297e0a.json)
+
+---
 
 ### Seizure
 
@@ -53,6 +93,28 @@ Preliminary investigations have revealed that the vehicle was used by a former d
 [Data](articles/966a684d.json)
 
 [Extended Data](ext_articles/966a684d.ext.json)
+
+---
+
+### General Election: 690 nominations accepted, 74 rejected
+
+*2024-10-11 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102623/general-election-690-nominations-accepted-74-rejected) · `en`
+
+The Commissioner General of Elections, Saman Sri Ratnayake, announced that a total of 764 nomination papers were submitted by political parties and independent groups for the 2024 General Election, from the 22 electoral districts across the island.
+
+However, he stated that only 690 nomination papers were accepted from political parties and independent groups for the election and that 74 nomination papers were rejected.
+
+Speaking to reporters this evening (11) after the nomination period ended, he stated that the highest number of nominations were received for the Digamadulla electoral district with 72.
+
+He said that 64 of these were accepted as 08 nomination papers were rejected.
+
+The Commissioner General added that the lowest number of nominations were received jointly from the Polonnaruwa and Monaragala districts with 15 each.
+
+He revealed that preference numbers will be announced in the near future.
+
+...
+
+[Data](articles/89dca552.json)
 
 ---
 
@@ -2291,69 +2353,5 @@ In a message of support from President Erdoğan, it stated: “On behalf of myse
 [Data](articles/25db44b2.json)
 
 [Extended Data](ext_articles/25db44b2.ext.json)
-
----
-
-### Welipenna Interchange Interchange Temporary
-
-*2024-10-11 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202048) · `si`
-
-Welipenna Interchange on Southern Expressway temporarily closed due to flooding. Exit and entry roads affected, causing traffic stoppage.
-
-🟩
-
-The Welipenna Interchange on the Southern Expressway has been temporarily closed due to a small flood.
-
-The Road Development Authority stated that the exit and entry roads in the Welipenna interchange have been flooded.
-
-Accordingly, traffic engage in the Southern Expressway has been stopped and exit.
-
-◼️
-
-[Data](articles/171908de.json)
-
-[Extended Data](ext_articles/171908de.ext.json)
-
----
-
-### Patali’s URF steps back from 2024 election amid dispute with SJB
-
-*2024-10-11 07:11:51* · [`dailyftlk`](https://www.ft.lk/news/Patali-s-URF-steps-back-from-2024-election-amid-dispute-with-SJB/56-767828) · `en`
-
-Says URF’s decision follows a unilateral breach of the MoU by the SJB
-
-Makes it clear URF will not contest the election alone, in alliance with the SJB, or with any other party
-
-Claims dispute centres around violation of the MoU concerning district candidates and not national list slots
-
-Former Member of Parliament Patali Champika Ranawaka announced yesterday that his party, the United Republic Front (URF), will not contest the 2024 Parliamentary Election. Ranawaka shared this decision during a press briefing held at the URF headquarters citing a breach of agreement with the Samagi Jana Balawegaya (SJB) as the reason for withdrawal.
-
-According to Ranawaka, the URF entered into a Memorandum of Understanding (MoU) with the SJB in August 2023, with the expectation that URF candidates would be fielded in 11 districts in the upcoming general election. However, he claimed that the SJB had unilaterally violated the MoU, prompting his party to withdraw from the election process altogether.
-
-...
-
-[Data](articles/884f4319.json)
-
-[Extended Data](ext_articles/884f4319.ext.json)
-
----
-
-### NFF will not contest in upcoming poll to safeguard national interests – Wimal Weerawansa
-
-*2024-10-11 07:10:40* · [`dailyftlk`](https://www.ft.lk/news/NFF-will-not-contest-in-upcoming-poll-to-safeguard-national-interests-Wimal-Weerawansa/56-767827) · `en`
-
-Claims some opposition forces are serving an imperial agenda aimed at sabotaging President Anura Kumara Dissanayake
-
-Says NFF is committed to safeguarding the mandate that brought President Dissanayake to power and fulfilling expectations of the people
-
-Stresses decision not to participate in upcoming poll was made after consultations with all levels of the NFF
-
-National Freedom Front (NFF), led by former MP Wimal Weerawansa, has recently announced that it will not contest the upcoming General Elections, either independently or as part of an alliance. In a statement issued yesterday, Weerawansa emphasised that the decision is rooted in the party’s commitment to safeguarding the country from political instability and crisis.
-
-...
-
-[Data](articles/8e52c35c.json)
-
-[Extended Data](ext_articles/8e52c35c.ext.json)
 
 ---

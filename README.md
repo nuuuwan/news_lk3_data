@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 15:09:58**
+As of **2024-10-11 15:23:21**
 
 ## Newspaper Stats
 
-*Scraped **48,972** Articles*
+*Scraped **48,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,006
 dailyftlk | 3,323
 adalk | 4,549
 dailymirrorlk | 4,733
-adaderanalk | 5,783
+adaderanalk | 5,784
 tamilmirrorlk | 6,650
 virakesarilk | 7,828
 adaderanasinhalalk | 8,468
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,468
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,972 (100.0%) of 48,972 articles have been extended.
+48,973 (100.0%) of 48,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Two Sri Lankan peacekeepers in Lebanon injured in Israeli attack
+
+*2024-10-11 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102617/two-sri-lankan-peacekeepers-in-lebanon-injured-in-israeli-attack) · `en`
+
+Two Sri Lankan peacekeepers stationed with the UN peacekeeping force in Lebanon have been injured after a nearby village was targeted by an Israeli airstrike, Sri Lanka’s Military Spokesperson confirmed.
+
+He stated that the two Sri Lankan Army personnel attached to the UN peacekeeping mission in Lebanon sustained minor injuries when Israeli tanks fired at a watchtower in Naqoura, Lebanon, yesterday.
+
+The soldiers were reportedly hit by fragments from a tank shell that was fired at one of UNIFIL’s observation towers in Naqoura.
+
+Sri Lankan soldiers were reportedly injured when Israeli artillery struck UN peacekeeping forces (UNIFIL) in Naqoura, southern Lebanon, as reported by the Lebanese News Agency on Friday.
+
+The incident occurred when a tank shell struck near one of the UNIFIL towers in Naqoura, resulting in shrapnel injuries to the soldiers.
+
+António Guterres, Secretary-General of the United Nations, called the attack “a violation of international humanitarian law”.
+
+...
+
+[Data](articles/3e9887d7.json)
+
+[Extended Data](ext_articles/3e9887d7.ext.json)
+
+---
 
 ### Here is the national list of the compass
 
@@ -2195,29 +2219,5 @@ Meanwhile, the Tamil National Alliance (TNA) handed over the nomination papers f
 [Data](articles/5b613326.json)
 
 [Extended Data](ext_articles/5b613326.ext.json)
-
----
-
-### Swords in Omanthai
-
-*2024-10-11 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195988) · `ta`
-
-A man was killed and another injured in a sword fight in Omanthai, Sri Lanka. The incident occurred during a dispute between neighbors. Both victims were rushed to Vavuniya Hospital.
-
-🟩
-
-One person has died in a sword in the Poovarasankulam area of ​​Omanthai, Omanthai, and one has been injured and has been admitted to the Vavuniya Hospital for treatment.
-
-There has been a small number of families living in the Vavuniya, Omanthai and Kathiravelupuvaravarasankulam area.. When both Maman and Marugan were working on the land, the people who came there were throwing a chilli powder on the two men and chasing them.
-
-The father of two children, Ilango (age 38), has died on the spot and has been admitted to the Vavuniya Hospital by relatives and people of the town after the death of three children aged 42.
-
-The injured has been admitted to the emergency department. The body of the deceased has been handed over to the Vavuniya Hospital.
-
-◼️
-
-[Data](articles/247f16e8.json)
-
-[Extended Data](ext_articles/247f16e8.ext.json)
 
 ---

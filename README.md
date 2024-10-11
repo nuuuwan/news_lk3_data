@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 18:20:06**
+As of **2024-10-11 18:34:08**
 
 ## Newspaper Stats
 
-*Scraped **49,002** Articles*
+*Scraped **49,004** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,323
 adalk | 4,553
 dailymirrorlk | 4,733
 adaderanalk | 5,789
-tamilmirrorlk | 6,654
+tamilmirrorlk | 6,656
 virakesarilk | 7,836
 adaderanasinhalalk | 8,475
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,475
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,002 (100.0%) of 49,002 articles have been extended.
+49,004 (100.0%) of 49,004 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Seizure
+
+*2024-10-11 18:12:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-அரச-வாகனம்-கைப்பற்றல்/175-345283) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Tangalle CID office seized after government vehicle found near suspect's home. Vehicle linked to former local council deputy chairman. Police conducting preliminary investigation."
+
+🟩
+
+The Tangalle Division Criminal Investigation Division (Tangalle) was seized this afternoon after a government -owned vehicle was parked near a house in Weerasinghe Mawatha, Baliyatta - Bukkantanda.
+
+Preliminary investigations have revealed that the vehicle was used by a former deputy chairman of the Tangalle Local Government Council, police said.(An)
+
+◼️
+
+[Data](articles/966a684d.json)
+
+[Extended Data](ext_articles/966a684d.ext.json)
+
+---
 
 ### මැතිවරණ දිස්ත්‍රික්ක 22කට කණ්ඩායම් 690ක් තරගයට
 
@@ -57,6 +81,24 @@ Delivery of nominations for the 2124 general election was completed today (11).
 [Data](articles/a15a099a.json)
 
 [Extended Data](ext_articles/a15a099a.ext.json)
+
+---
+
+### Names of National People's Power Candidates
+
+*2024-10-11 17:41:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தி-வேட்பாளர்களின்-பெயர்கள்/175-345282) · `ta`
+
+National People's Power candidates list released for parliamentary elections. Nominations completed at noon today.
+
+🟩
+
+The National List of the National People's Power has been released as the nominations for the parliamentary elections have been completed at 12 noon today.
+
+◼️
+
+[Data](articles/a922cfb6.json)
+
+[Extended Data](ext_articles/a922cfb6.ext.json)
 
 ---
 
@@ -2313,41 +2355,5 @@ National Freedom Front (NFF), led by former MP Wimal Weerawansa, has recently an
 [Data](articles/8e52c35c.json)
 
 [Extended Data](ext_articles/8e52c35c.ext.json)
-
----
-
-### Acting CJ takes oath
-
-*2024-10-11 07:09:30* · [`dailyftlk`](https://www.ft.lk/news/Acting-CJ-takes-oath/56-767826) · `en`
-
-Supreme Court Judge Murdu Nirupa Bidushinie Fernando yesterday took the oath of office as Acting Chief Justice before President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/eaa74170.json)
-
-[Extended Data](ext_articles/eaa74170.ext.json)
-
----
-
-### US Pacific Fleet Commander meets President Dissanayake
-
-*2024-10-11 07:08:38* · [`dailyftlk`](https://www.ft.lk/news/US-Pacific-Fleet-Commander-meets-President-Dissanayake/56-767825) · `en`
-
-Admiral Steve Koehler, a four-star US Navy Admiral and Commander of the US Pacific Fleet, paid a courtesy call on President Anura Kumara Dissanayake yesterday.
-
-This visit marks the highest-level US military engagement with Sri Lanka since 2021.
-
-During the meeting, Admiral Koehler reaffirmed the strong partnership between the United States and Sri Lanka, emphasising a shared commitment to promoting an enduring, resilient, free, and open Indo-Pacific region.
-
-Discussions focused on addressing rising security challenges in the Indian Ocean, enhancing maritime domain awareness, and improving disaster response capabilities.
-
-Admiral Koehler pledged the US commitment to supporting Sri Lanka in combating transnational threats such as drug smuggling and terrorism. He praised Sri Lanka’s ongoing efforts in combating drug smuggling and assured continued US assistance in manpower training in the naval sector.
-
-◼️
-
-[Data](articles/ff321684.json)
-
-[Extended Data](ext_articles/ff321684.ext.json)
 
 ---

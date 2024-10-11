@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 09:39:10**
+As of **2024-10-11 09:58:43**
 
 ## Newspaper Stats
 
-*Scraped **48,921** Articles*
+*Scraped **48,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ bbccomsinhala | 487
 islandlk | 2,895
 economynextcom | 3,000
 dailyftlk | 3,323
-adalk | 4,542
+adalk | 4,543
 dailymirrorlk | 4,733
 adaderanalk | 5,776
 tamilmirrorlk | 6,641
 virakesarilk | 7,818
-adaderanasinhalalk | 8,457
+adaderanasinhalalk | 8,458
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,919 (100.0%) of 48,921 articles have been extended.
+48,923 (100.0%) of 48,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### 239 millimeters in Horana
+
+*2024-10-11 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202053) · `si`
+
+Horana reports 239mm rainfall in 24 hours, exceeding Elpitiya (187mm) and Matugama (186.5mm).
+
+🟩
+
+The highest rainfall was reported from the Horana in Horana during the 24 hours ended at 6:00 am today.
+
+The Meteorological Department states that it is a rainfall of 239mm.
+
+187mm millimeters from Elpitiya and 187mm in Matugama area have been reported from 186.5 mm.
+
+◼️
+
+[Data](articles/f8628f4f.json)
+
+[Extended Data](ext_articles/f8628f4f.ext.json)
+
+---
 
 ### Met. Dept. issues ‘red alert’ for strong winds and rough seas
 
@@ -1848,6 +1870,32 @@ Equipped with cutting-edge surveillance technology, the King Air will strengthen
 
 ---
 
+### Nominations take over at 12 noon
+
+*2024-10-10 18:53:38* · [`adalk`](https://www.ada.lk/breaking_news/නාම-යෝජනා-භාර-ගැනීම-අද-දහවල්-12ට-අවසන්/11-412434) · `si`
+
+Elections Commission deadline: Nominations due by 12 noon. Political parties and independents must submit lists. National List compliance required. Representation aims for gender balance and proportional distribution.
+
+🟩
+
+The Elections Commission states that nominations pertaining to the parliamentary election will be completed today (11).
+
+Concurrently, each political party and a group of independent group should be handed over to the Elections Commission before 12 noon.
+
+The National List of National List should be handed over to the Elections Commission as well as in terms of the anti-corruption Act No. 9 of the Policy Liability of the National List.
+
+The Elections Commission states that the names of the Names referred to as the Names or parliamentary election in the parliamentary election.
+
+It is also said that the representation of national lists should be taken as possible to ensure that it is in accordance with the ratio of the national folk figures and requires adequate women's representation.
+
+◼️
+
+[Data](articles/318d5fef.json)
+
+[Extended Data](ext_articles/318d5fef.ext.json)
+
+---
+
 ### Right groups urge global scrutiny on Sri Lanka’s HR violations
 
 *2024-10-10 18:49:00* · [`economynextcom`](https://economynext.com/right-groups-urge-global-scrutiny-on-sri-lankas-hr-violations-183147/) · `en`
@@ -2207,49 +2255,5 @@ Admiral Steve Kohler assured the president that the US Pacific Navy's Commanding
 [Data](articles/fd184e6c.json)
 
 [Extended Data](ext_articles/fd184e6c.ext.json)
-
----
-
-### Intercepted commandment against Hasalaka Thushara until the case is over
-
-*2024-10-10 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202036) · `si`
-
-Hasalaka Thushara case update: TV Derana reports court summons, judicial order issued, defendant and employees restricted from contacting plaintiff. Case adjourned, next hearing date not specified. Criticism of Natha Edisuriya's reporting mentioned.
-
-🟩
-
-Tv Derana Calling the case filed against Hasalaka Thushara summoned the case against Hasalaka Thushara in Colombo District Court today.
-
-The Colombo District Judicial Sandun Withana was launched to a banned command of the case against Hasalaka Thushara against Thushara against Thushara.
-
-The defendant's staff of the complainant and the complainant's staff was issued to be avoided by him and his employee agents, including the defendant and all those who work under him.
-
-The case has been filed by Adjourn owned by Derana, demanding a price of Rs.
-
-The news has been telecast on the occasion criticizing the news of Natha Edisuriya.
-
-◼️
-
-[Data](articles/abaea340.json)
-
-[Extended Data](ext_articles/abaea340.ext.json)
-
----
-
-### Champika’s URF pulls out of election campaign, accuse SJB of violating deal
-
-*2024-10-10 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102595/champikas-urf-pulls-out-of-election-campaign-accuse-sjb-of-violating-deal) · `en`
-
-Former Member of Parliament Patali Champika Ranawaka says that his party - the United Republic Front (URF) will not contest the 2024 Parliamentary Election.
-
-He communicated this during a media briefing held today (10).
-
-“We decided to withdraw from this election campaign.We were hoping to contest the election representing Samagi Jana Sandhanaya from 11 districts. During the nomination process, we realized that there has been a violation of the agreement that we cannot justify, so that we decided to withdraw”, he added.
-
-◼️
-
-[Data](articles/2d53884b.json)
-
-[Extended Data](ext_articles/2d53884b.ext.json)
 
 ---

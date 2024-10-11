@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 21:58:34**
+As of **2024-10-11 22:12:45**
 
 ## Newspaper Stats
 
-*Scraped **49,017** Articles*
+*Scraped **49,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailyftlk | 3,323
 adalk | 4,556
 dailymirrorlk | 4,733
 adaderanalk | 5,793
-tamilmirrorlk | 6,659
-virakesarilk | 7,836
+tamilmirrorlk | 6,661
+virakesarilk | 7,840
 adaderanasinhalalk | 8,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,017 (100.0%) of 49,017 articles have been extended.
+49,023 (100.0%) of 49,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Rajapaksa brothers not contesting ...
+
+*2024-10-11 21:53:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்ஸ-சகோதரர்கள்-போட்டியிடாத-தேர்தல்/175-345292) · `ta`
+
+Rajapaksa brothers skip general election for first time in decades. Former presidents and ministers decide not to run, marking significant change in political landscape.
+
+🟩
+
+The brothers of the Rajapaksa family, who have been ruling the country for decades for decades, have decided not to contest the general election this year.
+
+Accordingly, it is a special feature that the Rajapaksa brothers did not contest the election for the first time after decades.
+
+Namal Rajapaksa has been named the national list and contested the last presidential election as the candidate of the PA.
+
+Former President Gotabhaya Rajapakse, former President Mahinda Rajapaksa, former Finance Minister Basil Rajapaksa, former minister Samal Rajapaksa and former minister Namal Rajapaksa have not contested the general election this year.. Remble
+
+◼️
+
+[Data](articles/b84cd922.json)
+
+[Extended Data](ext_articles/b84cd922.ext.json)
+
+---
+
+### Change in the next 24 hours
+
+*2024-10-11 21:48:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணித்தியாலங்களில்-மாற்றம்/175-345291) · `ta`
+
+Widespread rains forecasted nationwide within 24 hours. Heavy downpours predicted in Western, Sabaragamuwa, Central Provinces and Galle, Matara districts. Public advised to take precautions against lightning and strong winds.
+
+🟩
+
+The Department of Meteorology has announced that there will be widespread rains in the country over the next 24 hours.
+
+Heavy rains are expected in some areas in the Western, Sabaragamuwa and Central Provinces and Galle and Matara districts, the department said.
+
+Meanwhile, the public is asked by the Department of Meteorology to protect themselves from lightning and winds during the rainy season.. Remble
+
+◼️
+
+[Data](articles/0bf2f87b.json)
+
+[Extended Data](ext_articles/0bf2f87b.ext.json)
+
+---
 
 ### Sri Lanka and USAID discuss future cooperation
 
@@ -67,6 +113,92 @@ In addition, 74 nominations have been rejected in the nomination papers, said th
 [Data](articles/2d363a5a.json)
 
 [Extended Data](ext_articles/2d363a5a.ext.json)
+
+---
+
+### 17 political parties and 11 independent groups competition in Nuwara Eliya district
+
+*2024-10-11 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/196072) · `ta`
+
+17 political parties and 11 independent groups contesting in Nuwara Eliya district for 2024 general election.
+
+🟩
+
+17 recognized political parties and 11 independent groups in Nuwara Eliya district are eligible to contest the election.
+
+Nuwara Eliya District Election Officer and District Secretary Nandana Kalada said that the nominations for 17 recognized political parties and 11 independent groups have been received for the 2024 general election.
+
+15 independent groups and 20 recognized political parties filed nominations for the Nuwara Eliya district at 12 noon today.
+
+04 Independent Committees and Eros Democratic Front, National People's Party and Arunalu People's Front have been rejected.
+
+Authorized political parties in the Nuwara Eliya district for the upcoming parliamentary election on November 14;
+
+The United Socialist Party is contesting and 11 independent groups are eligible to contest the election.
+
+◼️
+
+[Data](articles/2ca3566f.json)
+
+[Extended Data](ext_articles/2ca3566f.ext.json)
+
+---
+
+### Discussion between President and Samantha Power
+
+*2024-10-11 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196069) · `ta`
+
+President Anura Kumara Dissanayake met USAID's Samantha Power via internet. They discussed increasing cooperation between Sri Lanka and USAID. The President highlighted alignment between Sri Lanka's policies and USAID's goals. Samantha Power emphasized USAID's support for Sri Lanka's development activities and expanding cooperation.
+
+🟩
+
+A discussion between President Anura Kumara Dissanayake and Samantha Power of the United States Agency for International Development (USAID) took place on Friday (11) through Internet technology.
+
+The President and Samantha Power were discussed on a variety of mutual issues and discussed the opportunity to increase the cooperation between Sri Lanka and the United States Agency for International Development in the future.
+
+He pointed out the unity between the government's policy report and the policies of the United States Agency for International Development, and said to the President that the United States Agency would be fully supportive of the US Agency for the welfare of the people.
+
+Samantha Power further pointed out that these activities will help to expand Sri Lanka's development activities and increase the cooperation between the United States Agency for International Development and Sri Lanka.
+
+◼️
+
+[Data](articles/69b7e46c.json)
+
+[Extended Data](ext_articles/69b7e46c.ext.json)
+
+---
+
+### Fourth defeat to Sri Lanka in Central Asian Carbal for men under 20 years of age
+
+*2024-10-11 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196068) · `ta`
+
+Sri Lanka loses 4th match in Central Asian Ceylon Tournament. Defeated by Uzbekistan 3-1. Earlier losses to Turkmenistan, Maldives, Nepal. Next match vs Maldives for 5th/6th place.
+
+🟩
+
+Sri Lanka lost the fourth defeat at the Central Asian Ceylon Tournament for men under the age of 20 between the six countries at the Sugathadasa Stadium in Colombo.
+
+Sri Lanka lost 1 - 3 in a match against Uzbekistan this afternoon.
+
+Uzbekistan won by 25 - 17, 25 - 18, respectively using the Sri Lankan players' stumbling block in the first two sets.
+
+Sri Lanka won the third set and won 25 - 21.
+
+In the fourth set, the two teams clashed hard, changing the points.
+
+However, Uzbekistan won the last 2 points and won the fourth set 3 - 1.
+
+Meanwhile, Sri Lanka lost 1 - 3 (22 - 25, 18 - 25, 25 - 22, 16 - 25) in the tournament with Turkmenistan on Thursday.
+
+Sri Lanka lost the Maldives in 3 straight sets in the 2nd match, which lost to Nepal in his opening match.
+
+Sri Lanka will oppose the Maldives tomorrow afternoon in the program of deciding the 5th and 6th place on the basis of these competition results.
+
+◼️
+
+[Data](articles/27eff5a5.json)
+
+[Extended Data](ext_articles/27eff5a5.ext.json)
 
 ---
 
@@ -223,6 +355,38 @@ The following will be taken to be notified.
 [Data](articles/3eb8c499.json)
 
 [Extended Data](ext_articles/3eb8c499.ext.json)
+
+---
+
+### 690 groups in 22 districts in 2024 general election - Elections Commission
+
+*2024-10-11 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196067) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"690 groups contesting 22 districts in 2024 election. 74 nominations rejected. Largest group count: 64 in Digamadulla. Fewest: 15 in Moneragala & Polonnaruwa. Nominations closed on Friday."
+
+🟩
+
+The Elections Commission has said that 690 groups will contest in 22 election districts in the 2024 general election.
+
+Elections Commissioner Saman Sri Ratnayake told the media that 74 nominations have been rejected.
+
+Ratnayake also pointed out that the groups can go to court if they feel injustice.
+
+The largest number of political groups contests in the Digamadulla electoral district and the number is 64.
+
+In Moneragala and Polonnaruwa electoral districts, there are fewer teams and 15 teams each.
+
+The filing of nominations for the general election in 2024 ended on Friday (11) at 12 noon.
+
+◼️
+
+[Data](articles/b6e51abe.json)
+
+[Extended Data](ext_articles/b6e51abe.ext.json)
 
 ---
 
@@ -2277,127 +2441,5 @@ US Navy Admiral Steve Koehler, Commander, US Pacific Fleet yesterday officially 
 [Data](articles/e922fefc.json)
 
 [Extended Data](ext_articles/e922fefc.ext.json)
-
----
-
-### Pakistan High Commissioner discusses deeply valued ties with President Dissanayake
-
-*2024-10-11 07:59:21* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-High-Commissioner-discusses-deeply-valued-ties-with-President-Dissanayake/56-767847) · `en`
-
-Pakistan’s High Commissioner Maj. Gen. Faheem Ul Aziz yesterday met with President Anura Kumara Dissanayake.
-
-High Commissioner Aziz extended his congratulations to President Dissanayake on his recent election victory and conveyed Pakistan’s commitment to strengthening its partnership with Sri Lanka.
-
-As part of the meeting, High Commissioner Aziz delivered a letter of congratulations from Pakistani President Asif Ali Zardari, who emphasised the deep ties between the two nations. “Pakistan deeply values its close relations with Sri Lanka. Our bilateral cooperation is rooted in shared values of democracy, pluralism, rule of law, mutual understanding, and respect. I look forward to working closely with you for further strengthening the bilateral relations for the mutual benefit of our two peoples,” President Zardari stated.
-
-...
-
-[Data](articles/648bc4c0.json)
-
-[Extended Data](ext_articles/648bc4c0.ext.json)
-
----
-
-### The nomination process is completed today
-
-*2024-10-11 07:52:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பு-மனு-கையேற்பு-இன்றுடன்-நிறைவு/175-345258) · `ta`
-
-Nomination process finished today. Parties and independent groups signed yesterday. Postal voting application deadline was last night at midnight.
-
-🟩
-
-Authorized political parties and independent groups were involved in the signing of nominations yesterday.
-
-Meanwhile, action to accept applications for postal voting of the general election ended yesterday at 12 midnight. (A)
-
-◼️
-
-[Data](articles/5c063eb1.json)
-
-[Extended Data](ext_articles/5c063eb1.ext.json)
-
----
-
-### Saudi Arabian Ambassador meets President
-
-*2024-10-11 07:45:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவூதி-அரேபிய-தூதுவர்-ஜனாதிபதியுடன்-சந்திப்பு/175-345257) · `ta`
-
-Saudi Arabia's King Salman congratulates Sri Lanka's President on his victory. Ambassador discusses regional situation, bilateral cooperation, and increasing tea exports.
-
-🟩
-
-Saudi Arabian Ambassador to Sri Lanka Khalid Hamood Nasar Altasam Al -Qahdani met President Anurakumara Dissanayake at the Presidential Office yesterday.
-
-Saudi Arabia's king Salman bin Abdul Aziz has congratulated the President of the President Al Qahdani, to the president's victory in the presidential election. The current situation of the region was discussed on the prevailing friendship and cooperation between Saudi Arabia and Sri Lanka.
-
-Ambassador Alkadani congratulated Sri Lanka's long -term support and continuous cooperation between the two countries.
-
-The President and Ambassador were focused on increasing Sri Lankan tea exports to Saudi Arabia and strengthening economic ties between the two countries.. (A)
-
-◼️
-
-[Data](articles/b5417b10.json)
-
-[Extended Data](ext_articles/b5417b10.ext.json)
-
----
-
-### The Presidential Office needs a written permission from the President's posts before posting photos and messages
-
-*2024-10-11 07:44:18* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරයාගේ-ඡායාරූප-හා-පණිවිඩ-පළ-කිරීමට-පෙර-ජනාධිපති-කාර්යාලයෙන්--ලිඛිත-අවසරයක්-ඕන/11-412438) · `si`
-
-Presidential Office requires written permission for posts, photos, and ceremonies. Secretary instructs compliance with government policies. Heads of state institutions notified about new protocol.
-
-🟩
-
-Secretary to the President Dr. Nandika Sanath has instructed all government to obtain a written permission from the Presidential Secretariat and the Presidential photographs for various ceremonies.
-
-The Secretary to the President has also informed state institutions that it is necessary to comply with the government policy and vision in organizing the functions of the government.
-
-The informed of the Presidential Secretary of the President and the Heads of State Corporations, Heads of Establishment Boards and State Corporations, including statutory boards and state-owned company heads have been made by the Presidential Secretary.
-
-◼️
-
-[Data](articles/4b39338d.json)
-
-[Extended Data](ext_articles/4b39338d.ext.json)
-
----
-
-### Welipenna Interchange of Expressway temporarily closed
-
-*2024-10-11 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102604/welipenna-interchange-of-expressway-temporarily-closed) · `en`
-
-The Welipenna Interchange of the Southern Expressway has been temporarily closed due to a minor flood, the Road Development Authority (RDA) said.
-
-◼️
-
-[Data](articles/f60af15d.json)
-
-[Extended Data](ext_articles/f60af15d.ext.json)
-
----
-
-### The first rain will increase from today
-
-*2024-10-11 07:40:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-மழை-அதிகரிக்கும்/175-345256) · `ta`
-
-Rainfall warning: Increased precipitation expected nationwide, especially in Western, Sabaragamuwa, Galle, and Matara areas. Strong winds and lightning possible.
-
-🟩
-
-The Department of Meteorology has said that the atmospheric situation around the country is on the rise, and the current rainfall weather will continue and the situation may increase slightly from today.
-
-It has also been mentioned in the upper, Sabaragamuwa, south and northwestern provinces.
-
-In addition, 200mm of rainfall has been reported in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-The Department of Meteorology has also warned that rainfall with temporary strong winds and lightning is likely.
-
-◼️
-
-[Data](articles/9f63a58a.json)
-
-[Extended Data](ext_articles/9f63a58a.ext.json)
 
 ---

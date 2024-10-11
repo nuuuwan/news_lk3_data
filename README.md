@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 19:57:33**
+As of **2024-10-11 20:10:54**
 
 ## Newspaper Stats
 
-*Scraped **49,014** Articles*
+*Scraped **49,015** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 489
 islandlk | 2,895
 economynextcom | 3,006
 dailyftlk | 3,323
-adalk | 4,555
+adalk | 4,556
 dailymirrorlk | 4,733
 adaderanalk | 5,792
 tamilmirrorlk | 6,658
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,014 (100.0%) of 49,014 articles have been extended.
+49,015 (100.0%) of 49,015 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -109,6 +109,30 @@ At the same time, after lodging a complaint with the police, the Nuwara Eliya Ed
 [Data](articles/04f2a290.json)
 
 [Extended Data](ext_articles/04f2a290.ext.json)
+
+---
+
+### Special Telephone number to tell about government vehicles
+
+*2024-10-11 19:12:18* · [`adalk`](https://www.ada.lk/breaking_news/සඟවා-ඇති-රජයේ-වාහන-ගැන-කියන්න-විශේෂ-දුරකතන-අංකයක්/11-412448) · `si`
+
+Sri Lanka Police introduces 1997 hotline for reporting stolen government vehicles. Public can call 24/7 anonymously. False reports are legal.
+
+🟩
+
+The government has introduced the 1997 telephone number by the Sri Lanka Police to inform the government if the vehicles issued for various purposes have been hinded or uncovered.
+
+Accordingly, the Police Headquarters calls for the public to inform the telephone number 24 hours.
+
+The identity of the identity of those who provide this information is not necessary to be fully secured.
+
+Also, if anyone is involved in providing false information, he is acting legally.
+
+◼️
+
+[Data](articles/4ba939ee.json)
+
+[Extended Data](ext_articles/4ba939ee.ext.json)
 
 ---
 
@@ -2389,25 +2413,5 @@ It has been reported that warning announcements have been issued under Phase 2, 
 [Data](articles/87e6140e.json)
 
 [Extended Data](ext_articles/87e6140e.ext.json)
-
----
-
-### Very heavy rainfall of over 200 mm expected - Met Dept.
-
-*2024-10-11 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102603/very-heavy-rainfall-of-over-200-mm-expected-met-dept) · `en`
-
-The Meteorology Department says the prevailing showery conditions are expected to continue further due to the development of an atmospheric disturbance in the vicinity of Sri Lanka.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and Northwestern provinces, it said issuing a warning for heavy rainfall.
-
-Very heavy showers of above 200 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/8cca9244.json)
-
-[Extended Data](ext_articles/8cca9244.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 08:58:30**
+As of **2024-10-11 09:12:17**
 
 ## Newspaper Stats
 
-*Scraped **48,910** Articles*
+*Scraped **48,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,000
 dailyftlk | 3,319
 adalk | 4,542
 dailymirrorlk | 4,733
-adaderanalk | 5,772
+adaderanalk | 5,773
 tamilmirrorlk | 6,639
 virakesarilk | 7,818
 adaderanasinhalalk | 8,456
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,456
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,898 (100.0%) of 48,910 articles have been extended.
+48,905 (100.0%) of 48,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Colorado tourist mine accident leaves one person dead; 23 people rescued
+
+*2024-10-11 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102605/colorado-tourist-mine-accident-leaves-one-person-dead-23-people-rescued) · `en`
+
+One person has died and 23 people have been rescued after they were trapped hundreds of feet underground at the Mollie Kathleen Gold Mine, a tourist mine in Cripple Creek, Colorado, officials said Thursday.
+
+Eleven people were rescued earlier Thursday and a dozen more people were trapped at the bottom of the 1,000-foot-deep mine for several hours before being rescued Thursday night.
+
+“I am relieved that 12 of the people trapped in the Mollie Kathleen Mine have been safely rescued. Our deepest condolences to the family and friends of the individual lost in this incident,” Colorado Gov. Jared Polis said in a statement Thursday night.
+
+Among those rescued, two were children and four were seen by medical personnel for minor injuries, according to Teller County Sheriff Jason Mikesell, who did not provide details on the fatality.
+
+...
+
+[Data](articles/d7ca20f2.json)
+
+[Extended Data](ext_articles/d7ca20f2.ext.json)
+
+---
 
 ### To obtain permission to publish pictures of the president
 
@@ -754,6 +774,8 @@ Having served as the Chief Executive Officer since July 2020, Jayatunga has led 
 
 [Data](articles/da99b288.json)
 
+[Extended Data](ext_articles/da99b288.ext.json)
+
 ---
 
 ### CSE picks up in the wake of World Bank’s positive assessment of economy
@@ -770,6 +792,8 @@ The stock market yesterday got off to a negative start and lost up to 120 points
 
 [Data](articles/bd4842fd.json)
 
+[Extended Data](ext_articles/bd4842fd.ext.json)
+
 ---
 
 ### Union Assurance hosts exclusive forums for Union Bank customers
@@ -783,6 +807,8 @@ Designed to enhance the overall customer proposition, these forums focused on en
 ...
 
 [Data](articles/20ef9ed2.json)
+
+[Extended Data](ext_articles/20ef9ed2.ext.json)
 
 ---
 
@@ -800,19 +826,27 @@ The Digital Zones are designed with the latest technology to allow customers to 
 
 [Data](articles/45d99c33.json)
 
+[Extended Data](ext_articles/45d99c33.ext.json)
+
 ---
 
-### காசாவில் பாடசாலை மீது தாக்குதல்: 28 பேர் பலி
+### Attack on school in Gaza: 28 killed
 
 *2024-10-11 05:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-பாடசாலை-மீது-தாக்குதல்-28-பேர்-பலி/50-345253) · `ta`
 
-காசாவில் உள்ள பாடசாலை ஒன்றின் மீது இஸ்ரேல் நடத்திய தாக்குதலில் 28 பாலஸ்தீனியர்கள் கொல்லப்பட்டுள்ளனர்.
+Israeli attack on Gaza school kills 28, injures 54
 
-மேலும் அந்தத் தாக்குதலில் 54 இற்கும் அதிகமானோர் காயமடைந்துள்ளனர் என வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+🟩
+
+28 Palestinians have been killed in an Israeli attack on a school in Gaza.
+
+More than 54 people were injured in the attack, foreign media reports.
 
 ◼️
 
 [Data](articles/ec30d408.json)
+
+[Extended Data](ext_articles/ec30d408.ext.json)
 
 ---
 
@@ -842,27 +876,29 @@ Meanwhile, the Department of Meteorology has predicted more than 150 mm of rainf
 
 ---
 
-### කලින් නියම කළ කාල රාමුවට ම වාහන ආනයනය කරන්න බැරි වෙයි ද?
+### Shouldn't the previous time frame be imported?
 
 *2024-10-11 01:42:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd6qllxeq9wo) · `si`
 
-වාහන ආනයනය සම්බන්ධයෙන් සිය ස්ථාවරය කුමක්දැයි නව ජනාධිපති අනුර දිසානායක ප්‍රමුඛ කැබිනට්ටුව තවම ප්‍රකාශයට පත් කොට නැත.
+The main cabinet of the new President Anura Dissanayake has not yet been announced what he is on imports of vehicles.
 
-වාහන ආනයනයට ක්‍රමිකව අවසර දීමට පසුගිය ආණ්ඩුව විසින් සැලසුමක් ඉදිරිපත් කර තිබු අතර ඒ අනුව බස් රථ ඇතුළු වාහන ආනයනය 2024 ඔක්තෝම්බර් මස 01 වනදා සිට නැවත ආරම්භ කිරීමට නියමිතව තිබිණි.
+The last government has been submitted to the importation of vehicle imports gradually.
 
-කෙසේ වෙතත් ඒ සැලැස්මට අනුව මෙරටට වාහන ආනයනය ආරම්භ කර තිබේ ද යන්න පිළිබඳව නව වාහනයක් මිලදී ගැනීමට අපේක්ෂාවෙන් පසුවන බොහෝ දෙනෙකු  නිරන්තරයෙන් විමසමින් තිබේ.
+However, many people who are expecting to buy a new vehicle have been prompted to buy a new vehicle on the plan as per the plan.
 
-නම හෙළි කිරීමට අකමැති වූ මුදල් අමාත්‍යංශයේ ජ්‍යෙෂ්ඨ නිලධාරියෙකු බීබීසී සිංහල වෙත පැවසුවේ, අදාළ සැලැස්මේ වෙනසක් නොවන බව ය.
+A senior official of the Ministry of Finance told Sinhala, who refused to reveal the name, he would not change the plan.
 
-ඒ අනුව සැලසුම් කළ පරිදි ම ක්‍රමිකව වාහන ආනයනය සඳහා අවසර හිමිවනු ඇතැයි ඔහු සඳහන් කළේය.
+Accordingly, as planned, the importation of vehicles will be allowed.
 
-එහෙත් මේ දක්වා ඒ සම්බන්ධයෙන් කිසිදු රාජ්‍ය ආයතනයකින් චක්‍රලේඛයක් හෝ නිකුත් වී නැතැයි ශ්‍රී ලංකා වාහන ආනයනකරුවන්ගේ සංගමයේ සභාපති ප්‍රසාද් මාන්නගේ සඳහන් කළේය.
+However, President of the Sri Lanka Vehicle Imports, Prasad said that no government institution has been issued to any government agency.
 
-පැවති ආර්ථික අර්බුදය නිසා මෙරට ට වාහන ආනයනය කිරීම 2020 වසරේ මාර්තු මස සිට නවතා තිබූ අතර ක්‍රමානුකුලව ආර්ථිකය ස්ථාවර වීමත් සමග ම වාහන ආනයන තහනම අදියර වශයෙන් ඉවත් කිරීමට ඉකුත් රජය තීරණය කළේය.
+Due to the economic crisis of the economic crisis, the importation of vehicles from the country had been stopped since March 2020 and the government decided to remove the ban on vehicle imports in phases.
 
 ...
 
 [Data](articles/701d9b5e.json)
+
+[Extended Data](ext_articles/701d9b5e.ext.json)
 
 ---
 
@@ -2179,29 +2215,5 @@ He was speaking at a media briefing held at a media briefing held in Colombo tod
 [Data](articles/45e039ec.json)
 
 [Extended Data](ext_articles/45e039ec.ext.json)
-
----
-
-### Pakistan High Commissioner met President
-
-*2024-10-10 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195957) · `ta`
-
-Pakistan High Commissioner meets Sri Lankan President. Discusses strengthening bilateral relations, education cooperation, and rural development. Emphasizes democracy, rule of law, and mutual respect.
-
-🟩
-
-Pakistani High Commissioner to Sri Lanka Major General (Retired) Bahim -ul -Aziz Hi met with President Anurakumara Dissanayake at the Presidential Office today (10).
-
-The Pakistani High Commissioner also expressed his sincere congratulations to the president who won the last presidential election and urged Pakistan's commitment to strengthen relations with Sri Lanka.
-
-Pakistani High Commissioner, who recalled the long -standing relationship between Sri Lanka and Pakistan, also handed over a special congratulations to President Azib Ali Sardari to President Anura Kumara Dissanayake.
-
-In that greeting, “I greatly appreciate the close relationship between Sri Lanka and Pakistan. I expect to work closely with you to further strengthen bilateral relations between the two countries through our cooperation based on democracy, pluralism, rule of law, mutual understanding and respect. I believe this will cause good events to our two countries, ”the Pakistani president said.
-
-...
-
-[Data](articles/912d9aec.json)
-
-[Extended Data](ext_articles/912d9aec.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 15:23:21**
+As of **2024-10-11 15:39:04**
 
 ## Newspaper Stats
 
-*Scraped **48,973** Articles*
+*Scraped **48,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 3,006
 dailyftlk | 3,323
 adalk | 4,549
 dailymirrorlk | 4,733
-adaderanalk | 5,784
-tamilmirrorlk | 6,650
+adaderanalk | 5,785
+tamilmirrorlk | 6,652
 virakesarilk | 7,828
-adaderanasinhalalk | 8,468
+adaderanasinhalalk | 8,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,973 (100.0%) of 48,973 articles have been extended.
+48,977 (100.0%) of 48,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Japanese atomic bomb survivor group Nihon Hidankyo awarded Nobel Peace Prize
+
+*2024-10-11 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102618/japanese-atomic-bomb-survivor-group-nihon-hidankyo-awarded-nobel-peace-prize) · `en`
+
+(Reuters) - Japanese organisation Nihon Hidankyo, a grassroots movement of atomic bomb survivors from Hiroshima and Nagasaki also known as Hibakusha, won the Nobel Peace Prize on Friday.
+
+“Hibakusha is receiving the Peace Prize for its efforts to achieve a world free of nuclear weapons and for demonstrating through witness testimony that nuclear weapons must never be used again,” the Norwegian Nobel Committee said in its citation.
+
+Witnesses to the only two nuclear bombs ever to be used in conflict have dedicated their lives to the struggle for a nuclear-free world.
+
+“The Hibakusha help us to describe the indescribable, to think the unthinkable, and to somehow grasp the incomprehensible pain and suffering caused by nuclear weapons,” the committee said.
+
+The Norwegian Nobel Committee has regularly put focus on the issue of nuclear weapons, most recently with its award to the ICAN, the International Campaign to Abolish Nuclear Weapons, who won the award in 2017.
+
+...
+
+[Data](articles/3f694598.json)
+
+[Extended Data](ext_articles/3f694598.ext.json)
+
+---
+
+### Two Sri Lankan peaceers injured in Lebanon
+
+*2024-10-11 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202066) · `si`
+
+Sri Lankan peacekeepers hurt in Lebanon Israeli artillery attack South Lebanon UN forces
+
+🟩
+
+The International Media reports that two Sri Lankan soldiers who are working in the peacekeeping army of Lebanon have been injured due to an Israeli artillery.
+
+The attack was launched in the South Lebanon of South Lebanon, which is located in the United Nations Level.
+
+The international media has reported that the astrology of a peacekeeping person is a wetry of artillery fire.
+
+About 10,000 UN peacekeeping troops are currently in the South Leban.
+
+◼️
+
+[Data](articles/63ad1afa.json)
+
+[Extended Data](ext_articles/63ad1afa.ext.json)
+
+---
 
 ### Two Sri Lankan peacekeepers in Lebanon injured in Israeli attack
 
@@ -103,6 +149,50 @@ The following are the names of the national lists of the National List MPs in th
 [Data](articles/4cfadfb3.json)
 
 [Extended Data](ext_articles/4cfadfb3.ext.json)
+
+---
+
+### To the attention of the fishermen
+
+*2024-10-11 14:33:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களின்-கவனத்துக்கு/175-345278) · `ta`
+
+Fishermen: All boats from Puttalam to Colombo, Galle, Matara, Hambantota must stay ashore due to bad weather.
+
+🟩
+
+The Department of Fisheries and Aquatic Resources has announced that all fishing boats traveling from Puttalam to Colombo, Galle, Matara and Hambantota should not go to sea until re -notice.
+
+The Department of Fisheries and Aquatic Resources has requested that all fishing boats be cared for on the current inclement weather.. (That)
+
+◼️
+
+[Data](articles/9c02f8b8.json)
+
+[Extended Data](ext_articles/9c02f8b8.ext.json)
+
+---
+
+### Liquor School Permit;Obviously confessed
+
+*2024-10-11 14:23:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மதுபானசாலை-அனுமதி-விவகாரம்-வெளிப்படையாக-வாக்குமூலம்-வழங்கவும்/71-345277) · `ta`
+
+Sri Lanka PA candidate Geetnath Kasilingam confesses no liquor permits granted. Challenges fellow Jaffna MP candidates to make similar statements. Liquor shops impact livelihoods and schools in North.
+
+🟩
+
+Sri Lanka PA has to make a statement openly confessed that no one has granted permission to liquor.. District candidate Geetnath Kasilingam said.
+
+“I have filed my nomination. And I am openly making a confession, confirming that I do not require me, my family, relatives or friends, or for anyone I know, or not to meditate. ”
+
+Moreover, “I challenge whether my fellow candidates of the Jaffna MP can make such a confession.
+
+"The emergence of many liquor shops in the North in recent months has affected the livelihood of the daily wage laborers and threatened schools and children in those areas.". (That)
+
+◼️
+
+[Data](articles/01387ad1.json)
+
+[Extended Data](ext_articles/01387ad1.ext.json)
 
 ---
 
@@ -2117,107 +2207,5 @@ Former parliamentarian Vadivel Suresh made comments to the media after the filin
 [Data](articles/90ae6264.json)
 
 [Extended Data](ext_articles/90ae6264.ext.json)
-
----
-
-### Sri Lanka Tamil National Party in Trincomalee District. A. Sumanthiran
-
-*2024-10-11 04:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195992) · `ta`
-
-Sri Lanka Tamil National Party fields 7 candidates in Trincomalee district. A.Sumanthiran announces alliance with Public Organization. Meeting discusses strategy against criticism.
-
-🟩
-
-Former Member of Parliament as the primary candidate in Trincomalee district. Former Member of Parliament. A. Sumanthiran said.
-
-He said this during a meeting held at the Tirukkonamalai District Workshop on Thursday evening (10) evening.
-
-A total of 7 candidates will be fielded by four other parties on behalf of the Sri Lanka Tamil Nadu Party.. We also decided to negotiate with the Archbishop of the Public Organization.
-
-Shanmugam Kukadasan, Kandaswamy Jeevarupan, Kadirgamath Thambi Sundaralingam and Galle Raja Gokul Raj. He said the decision was made after a discussion with various criticisms.
-
-◼️
-
-[Data](articles/e6102da9.json)
-
-[Extended Data](ext_articles/e6102da9.ext.json)
-
----
-
-### TNA candidates signing nominations
-
-*2024-10-11 03:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195991) · `ta`
-
-Sri Lanka Tamil Nadu Party candidates file nominations in Ampara district under former MP Tavarasa Kalaiyaran. Key figures include Kavindran Koteeswaran, Krishnapillai Jayasiril, and others. Deadline was Friday noon.
-
-🟩
-
-Candidates of the Sri Lanka Tamil Nadu Party, which are contesting the house symbol in the Ampara district, filed their nominations on Thursday (10) under the leadership of former MP Tavarasa Kalaiyaran.
-
-The party's candidates have filed nominations at the Ampara District Government Agent's office.
-
-Former parliamentarian Kavindran Koteeswaran (Akkaraipattu), led by former parliamentarian Tavarasa Kalaiyarasan (Akkaraipattu), Krishnapillai Jayasiril (Karativu) Kubendrarajah Jekasudhan (Tirukovil)
-
-Kandaswamy Indehnesh (Tirukovil) Arulnagam Murthy Nithanjan (Kalmunai) Barinayagam Jeevaraj (Thambiluvil)
-
-Pakiyam Manjula (Periyaka Nilavana) Jayakumar Yasodharan (Valathapitiya) Kanagaratnam Janardhanan (Alayadivembu) filed the nomination.
-
-It is noteworthy that the deadline for filing nominations ended on Friday (11) at noon.
-
-◼️
-
-[Data](articles/aea27796.json)
-
-[Extended Data](ext_articles/aea27796.ext.json)
-
----
-
-### Leading nominations in Vanni
-
-*2024-10-11 03:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/195990) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Vanni: New Democratic Maxislieninni Sakshi, Socialist Forum, Galle Functional Struggle Group lead opposition in upcoming parliamentary elections. Election office opened at Vavuniya District Secretariat."
-
-🟩
-
-The leading parliamentary elections will be held in the upcoming parliamentary elections, the New Democratic Maxislieninni Sakshi, the Socialist Forum and the Galle Functional Struggle Group are contesting the country as the leading of the people's struggle.
-
-In this backdrop, the election office located at the Vavuniya District Secretariat was filed on Thursday evening.
-
-◼️
-
-[Data](articles/2a58f85f.json)
-
-[Extended Data](ext_articles/2a58f85f.ext.json)
-
----
-
-### Tamil National People's Front candidates in Ampara
-
-*2024-10-11 03:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195989) · `ta`
-
-Tamil National People's Front and Tamil National Alliance candidates submitted nominations for Ampara's Digamadulla electoral district. Both parties fielded candidates for upcoming parliamentary elections. The deadline for nominations ends tomorrow afternoon.
-
-🟩
-
-The Tamil National People's Front or the All Ceylon Tamil Congress Party handed over the nomination papers for the Digamadulla electoral district today at the Ampara District Secretariat.
-
-In Ampara, many independent groups, including the Tamil national parties, were in the process of handing over nominations today.
-
-District organizer Pusparaj Tushanandan, led by former PP Selvarajah Gajendran, and members of the candidates participated in the Ampara election district today to contest the upcoming parliamentary elections.
-
-It is also worth noting that the All Ceylon Tamil Congress team is in the bicycle symbol.
-
-Meanwhile, the Tamil National Alliance (TNA) handed over the nomination papers for the Digamadulla electoral district on Thursday (10) at the Ampara District Secretariat.
-
-...
-
-[Data](articles/5b613326.json)
-
-[Extended Data](ext_articles/5b613326.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 18:58:56**
+As of **2024-10-11 19:23:22**
 
 ## Newspaper Stats
 
-*Scraped **49,007** Articles*
+*Scraped **49,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ bbccomsinhala | 488
 islandlk | 2,895
 economynextcom | 3,006
 dailyftlk | 3,323
-adalk | 4,553
+adalk | 4,554
 dailymirrorlk | 4,733
 adaderanalk | 5,791
 tamilmirrorlk | 6,656
 virakesarilk | 7,836
-adaderanasinhalalk | 8,476
+adaderanasinhalalk | 8,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,005 (100.0%) of 49,007 articles have been extended.
+49,009 (100.0%) of 49,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Temporarily canceled the State Literature Festival
+
+*2024-10-11 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202074) · `si`
+
+State Literature Festival canceled due to election. Ministry cites Election Commission instruction. Children's Drama Festival rescheduled.
+
+🟩
+
+The Ministry of Buddha Integration, Religious and Cultural Affairs, National Integration, Social Security, Social Security and Mass Media has taken steps to cancel the State Literary Awards.
+
+The Ministry has issued a statement and said that this was temporarily canceled on the instructions of the Election Commission due to the general election.
+
+The State Children's Drama Festival was scheduled to be held on November 09 on the 14th.
+
+The following will be taken to be notified.
+
+◼️
+
+[Data](articles/3eb8c499.json)
+
+[Extended Data](ext_articles/3eb8c499.ext.json)
+
+---
 
 ### Landslide warnings extended
 
@@ -69,6 +93,8 @@ The “Sarvajana Balaya” alliance has released its list of candidates nominate
 ◼️
 
 [Data](articles/8a297e0a.json)
+
+[Extended Data](ext_articles/8a297e0a.ext.json)
 
 ---
 
@@ -115,6 +141,8 @@ He revealed that preference numbers will be announced in the near future.
 ...
 
 [Data](articles/89dca552.json)
+
+[Extended Data](ext_articles/89dca552.ext.json)
 
 ---
 
@@ -413,6 +441,26 @@ General Secretary of CEB Workers Union, National Trade Union Centre – National
 [Data](articles/51137954.json)
 
 [Extended Data](ext_articles/51137954.ext.json)
+
+---
+
+### Find out to bring about toxic sale in Sri Lanka
+
+*2024-10-11 16:24:56* · [`adalk`](https://www.ada.lk/breaking_news/විෂ-සැමන්-තොගයක්-ලංකාවට-ගෙනවිත්-තිබියදි-‍සොයා-ගනියි/11-412446) · `si`
+
+Toxic arsenic-laced salmon worth $215,000 seized at Sri Lanka's Orughetawatta customs yard. Authorities plan to return the contaminated fish to its origin country.
+
+🟩
+
+Arsenic toxic salmon was found to be brought to Sri Lanka. The salmon has been found in a container container in the Orughetawatta customs yard.
+
+The value of this salmon is about $ 215,000 is US $ 215,000. The salmon is decided to restore the country back in Sri Lanka without the way in Sri Lanka.
+
+◼️
+
+[Data](articles/e2532ca9.json)
+
+[Extended Data](ext_articles/e2532ca9.ext.json)
 
 ---
 
@@ -2317,41 +2365,5 @@ A chief executive who leaves one bank has to wait for a six-month cooling off pe
 [Data](articles/0b98c102.json)
 
 [Extended Data](ext_articles/0b98c102.ext.json)
-
----
-
-### UAE’s Foreign Affairs Ministry hosts study tour for 35-member Sri Lankan defence delegation
-
-*2024-10-11 07:27:21* · [`dailyftlk`](https://www.ft.lk/news/UAE-s-Foreign-Affairs-Ministry-hosts-study-tour-for-35-member-Sri-Lankan-defence-delegation/56-767842) · `en`
-
-Underscoring the robust diplomatic ties between Sri Lanka and the United Arab Emirates (UAE), the UAE Ministry of Foreign Affairs and the Ministry of Defence recently hosted a study tour for a 35-member delegation from Sri Lanka’s Defence Service Command and Staff College (DSCSC).
-
-The delegation engaged in an extensive tour, gaining key insights into the UAE’s approaches to military cooperation, military education, and cooperation in security.
-
-Organised in collaboration with the UAE’s Foreign Affairs Ministry and Defence Ministry, together with the Sri Lankan Embassy in the UAE, the initiative provided the delegation with a unique opportunity to visit key sites such as the Emirates Centre for Strategic Studies and Research, the Joint Command & Staff College, the International Centre of Excellence for Countering Extremism and Violent Extremism, and Tawazun Industrial Park.
-
-...
-
-[Data](articles/223dcbc7.json)
-
-[Extended Data](ext_articles/223dcbc7.ext.json)
-
----
-
-### Turkiye Ambassador and President Dissanayake discuss boosting bilateral ties
-
-*2024-10-11 07:26:02* · [`dailyftlk`](https://www.ft.lk/news/Turkiye-Ambassador-and-President-Dissanayake-discuss-boosting-bilateral-ties/56-767841) · `en`
-
-Turkiye Ambassador Semith Lutfu Turgut yesterday paid a courtesy call on President Anura Kumara Dissanayake.
-
-During the meeting, Ambassador Turgut extended heartfelt congratulations on behalf of Turkish President Recep Tayyip Erdoğan and the people of Turkiye on President Dissanayake’s recent election victory.
-
-In a message of support from President Erdoğan, it stated: “On behalf of myself and my nation, I extend my congratulations to Your Excellency on the occasion of your election as the President of Sri Lanka and wish you success in your high office. It is my sincere hope that the work to be carried out under your leadership will be instrumental in strengthening the peace and prosperity of all segments of the Sri Lankan people.”
-
-...
-
-[Data](articles/25db44b2.json)
-
-[Extended Data](ext_articles/25db44b2.ext.json)
 
 ---

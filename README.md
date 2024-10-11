@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 21:39:12**
+As of **2024-10-11 21:58:34**
 
 ## Newspaper Stats
 
-*Scraped **49,016** Articles*
+*Scraped **49,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,323
 adalk | 4,556
 dailymirrorlk | 4,733
 adaderanalk | 5,793
-tamilmirrorlk | 6,658
+tamilmirrorlk | 6,659
 virakesarilk | 7,836
 adaderanasinhalalk | 8,477
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,016 (100.0%) of 49,016 articles have been extended.
+49,017 (100.0%) of 49,017 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,30 @@ President Anura Kumara Dissanayake said that he had a productive virtual discuss
 [Data](articles/831c08d8.json)
 
 [Extended Data](ext_articles/831c08d8.ext.json)
+
+---
+
+### 690 nomination filing for general election
+
+*2024-10-11 21:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-தேர்தலுக்காக-690-வேட்புமனு-தாக்கல்/175-345290) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"690 nominations filed, 74 rejected for Nov 14 general election."
+
+🟩
+
+The Elections Commission said that 690 nominations have been filed across the country for the general election on November 14.
+
+In addition, 74 nominations have been rejected in the nomination papers, said the Commissioner General of Elections Sri Ratnayake.
+
+◼️
+
+[Data](articles/2d363a5a.json)
+
+[Extended Data](ext_articles/2d363a5a.ext.json)
 
 ---
 
@@ -2375,31 +2399,5 @@ The Department of Meteorology has also warned that rainfall with temporary stron
 [Data](articles/9f63a58a.json)
 
 [Extended Data](ext_articles/9f63a58a.ext.json)
-
----
-
-### Farmers for short term crop cultivation of 11,000 acres of land belonging to Kantale Sugar Company
-
-*2024-10-11 07:38:36* · [`adalk`](https://www.ada.lk/breaking_news/කන්තලේ-සීනි-සමාගමට-අයත්-ඉඩම්--අක්කර-11-000ක්-කෙටිකාලීන-බෝග--වගාවන්--සඳහා-ගොවීන්ට/11-412437) · `si`
-
-President Anura Kumara Dissanayake instructs allocation of 5 acres from Kantale Sugar Company land for short-term farming. Meeting discusses ministry functions, livestock, irrigation, fisheries, and aquatic resources.
-
-🟩
-
-President Anura Kumara Dissanayake instructed the officials to provide 11,000 acres of land cultivations from the Land of Kantale Sugar Company.
-
-Accordingly, five acres are to be provided with lands and the President also instructed the formulation of a systematic procedure.
-
-President Anura Kumara Dissanayake was instructed when met officials, land, livestoros, irrigation, fisheries, fisheries and aquatic resources at the Presidential Secretariat yesterday.
-
-The President also discussed the functioning and progress of the respective ministries as the Minister of Subject.
-
-Secretary, Ministry of Livestock, Irrigation, Fisheries and Aquatic Resources MPs. Senior officials of the Ministries, Director General of Land Commission, Hemasiri Liyanage were present.
-
-◼️
-
-[Data](articles/1e4302ac.json)
-
-[Extended Data](ext_articles/1e4302ac.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-11 17:40:01**
+As of **2024-10-11 18:00:02**
 
 ## Newspaper Stats
 
-*Scraped **48,999** Articles*
+*Scraped **49,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ dailyftlk | 3,323
 adalk | 4,553
 dailymirrorlk | 4,733
 adaderanalk | 5,789
-tamilmirrorlk | 6,653
+tamilmirrorlk | 6,654
 virakesarilk | 7,836
-adaderanasinhalalk | 8,473
+adaderanasinhalalk | 8,474
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,999 (100.0%) of 48,999 articles have been extended.
+49,001 (100.0%) of 49,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-11 (Friday)
+
+### Jupiter's nomination rejection
+
+*2024-10-11 17:29:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வியாழேந்திரனின்-வேட்பு-மனு-நிராகரிப்பு/175-345281) · `ta`
+
+Jupiter's nomination rejected due to false information submission. Former State Minister and MP disqualified from upcoming parliamentary elections.
+
+🟩
+
+Former State Minister and former Member of Parliament Jupiter's nomination has been rejected.
+
+It is reported that the nomination papers filed on behalf of the Democratic National Front Party for the upcoming parliamentary elections have been rejected.
+
+It is reported that Jupiter's nomination has been rejected as he failed to submit the truth.
+
+◼️
+
+[Data](articles/e6f6c903.json)
+
+[Extended Data](ext_articles/e6f6c903.ext.json)
+
+---
+
+### National list of the universal power
+
+*2024-10-11 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202071) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"National list of universal power: A comprehensive compilation featuring contributions from numerous experts, including politicians and academics."
+
+🟩
+
+Several MPs and professionals consists of many scholars.
+
+◼️
+
+[Data](articles/a3c7ed9e.json)
+
+[Extended Data](ext_articles/a3c7ed9e.ext.json)
+
+---
 
 ### People Selvan 'Vijay Sethupathi's first look of' Extreme '
 
@@ -2301,37 +2345,5 @@ Derana Rebuild Sri Lanka The program was revealed that over four thousand person
 [Data](articles/a7835551.json)
 
 [Extended Data](ext_articles/a7835551.ext.json)
-
----
-
-### Sri Lanka explores trade and investment opportunities in Gothenburg
-
-*2024-10-11 06:36:50* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-explores-trade-and-investment-opportunities-in-Gothenburg/56-767824) · `en`
-
-Ambassador of Sri Lanka to Sweden Kapila Fonseka successfully concluded a two-day official visit to Gothenburg, the second largest city of Sweden, last week. The purpose of the visit was to engage with key stakeholders including Swedish Government officials and business leaders to strengthen economic and trade relations between Sri Lanka and Gothenburg, and to meet with the members of the Sri Lankan community in Sweden.
-
-The Ambassador’s agenda included high-level meetings with the Västra Götaland County of Sweden Governor Sten Tolgfors, Gothenburg Lord Mayor Aslan Akbas, and Regional Parliament Chair Renee Bengtsson. During these meetings the Ambassador conveyed Sri Lanka’s strong commitment to enhance the already existing connections with the city of Gothenburg and the Västra Götaland, which is the second most populous county in Sweden.
-
-...
-
-[Data](articles/bc4c2d4e.json)
-
-[Extended Data](ext_articles/bc4c2d4e.ext.json)
-
----
-
-### Sri Lanka explores trade and investment opportunities in Gothenburg
-
-*2024-10-11 06:36:50* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-explores-trade-and-investment-opportunities-in-Gothenburg/34-767824) · `en`
-
-Ambassador of Sri Lanka to Sweden Kapila Fonseka successfully concluded a two-day official visit to Gothenburg, the second largest city of Sweden, last week. The purpose of the visit was to engage with key stakeholders including Swedish Government officials and business leaders to strengthen economic and trade relations between Sri Lanka and Gothenburg, and to meet with the members of the Sri Lankan community in Sweden.
-
-The Ambassador’s agenda included high-level meetings with the Västra Götaland County of Sweden Governor Sten Tolgfors, Gothenburg Lord Mayor Aslan Akbas, and Regional Parliament Chair Renee Bengtsson. During these meetings the Ambassador conveyed Sri Lanka’s strong commitment to enhance the already existing connections with the city of Gothenburg and the Västra Götaland, which is the second most populous county in Sweden.
-
-...
-
-[Data](articles/ecf54716.json)
-
-[Extended Data](ext_articles/ecf54716.ext.json)
 
 ---

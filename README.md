@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 07:25:01**
+As of **2024-10-12 07:59:18**
 
 ## Newspaper Stats
 
-*Scraped **49,059** Articles*
+*Scraped **49,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,334
 adalk | 4,556
 dailymirrorlk | 4,733
 adaderanalk | 5,793
-tamilmirrorlk | 6,663
+tamilmirrorlk | 6,667
 virakesarilk | 7,844
 adaderanasinhalalk | 8,477
 
@@ -26,11 +26,117 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,059 (100.0%) of 49,059 articles have been extended.
+49,063 (100.0%) of 49,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Democratic Tamil Nadu met Mawa
+
+*2024-10-12 07:10:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனநாயகத்-தமிழரசு-மாவையைச்-சந்தித்தது/175-345298) · `ta`
+
+Democratic Tamil Nadu candidates met TNA leader Mawai Senathirajah in Jaffna. Candidates contesting under 'Mangalam' symbol received mangoes from Senathirajah at his residence.
+
+🟩
+
+In the Jaffna election district, some candidates of the Democratic Tamil National Alliance (TNA), which are contesting as an independent committee at the 'Mangalam' symbol under the leadership of President KV Dawarasa, met with the President of the Sri Lanka Tamil National Alliance (TNA) leader Mawai Senathirajah.
+
+Jaffna on Friday evening. The meeting took place at the Mavai Senathiraja's residence in Mavitapuram.
+
+During this time, the candidates contesting the 'mango' symbol were given mangoes to Maui Senathiraja.
+
+President Attorney KV Dawarasa, Former Parliamentarian E. Saravanapavan. (A)
+
+◼️
+
+[Data](articles/fbcac56a.json)
+
+[Extended Data](ext_articles/fbcac56a.ext.json)
+
+---
+
+### Students and people should organize Independence Day
+
+*2024-10-12 06:56:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களும்-மக்களும்-ஒடுக்கப்படாத-வகையில்-சுதந்திர-தினத்தை-ஏற்பாடு-செய்ய-வேண்டும்/175-345297) · `ta`
+
+Here's a 200-character summary:
+
+
+
+PM Harini Amarasuriya urges state officials to manage development projects responsibly. She expects a national independence ceremony from 2025. Students and citizens should organize Independence Day celebrations without oppression.
+
+🟩
+
+Prime Minister Harini Amarasuriya has said that state officials should take responsibility for the proper character and benefits of the development projects implemented in the country.
+
+The Prime Minister said this during a discussion with a panel of officials of the State Administration, Home Affairs, Provincial Councils and Local Government Ministry officials.
+
+The Prime Minister stressed that many of the existing projects are based on the debt and that the people are responsible for the authorities as they have to pay the loans.
+
+He added that the current government will support such officials at any time.
+
+The Prime Minister also stated that the government is expecting a national independence ceremony for the people of the country since 2025.
+
+He pointed out that the school students and the public should be organized to organize Independence Day so as not to oppress. (An)
+
+◼️
+
+[Data](articles/70369817.json)
+
+[Extended Data](ext_articles/70369817.ext.json)
+
+---
+
+### Dies
+
+*2024-10-12 06:39:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாள்வெட்டில்-காயமடைந்தவர்-உயிரிழப்பு/175-345296) · `ta`
+
+Man killed by sword attack; total victims now 2. Father of 3 dies from injuries sustained during land dispute. Chilli powder thrown during altercation. Nephew also injured but survives.
+
+🟩
+
+A man who was injured in a sword in a landlord died yesterday. As a result, the number of victims of the incident increased to two.
+
+The deceased is the father of three children, Rs.
+
+It is said that some people who came there were throwing chilli powder on them while the dead man and his nephew were cleaning the land on Thursday.
+
+The father of two children, Ilango (age 38), died on the spot.. The other person, Dileepan, was rescued by the townspeople and admitted to the Vavuniya General Hospital. He died yesterday after he was receiving treatment.
+
+◼️
+
+[Data](articles/9acdd41f.json)
+
+[Extended Data](ext_articles/9acdd41f.ext.json)
+
+---
+
+### Jeep telephone seizure that caused a loss to the government
+
+*2024-10-12 02:17:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்துக்கு-நட்டத்தை-ஏற்படுத்திய-ஜீப்-பறிமுதல்/175-345295) · `ta`
+
+Jeep seizure causes government loss: Colombo Magistrate orders customs to confiscate Mitsubishi Montero, citing tax evasion. Vehicle owned by prominent businessman in Badulla. Case part of larger investigation involving hundreds of vehicles seized since 2015.
+
+🟩
+
+Colombo Chief Magistrate Thilina Kamage yesterday ordered the customs department to confiscate the luxury Mitsubishi Montero jeep, who was reported to have been abducted to customs to lose a tax on the government.
+
+The GZ 9630 jeep, which was produced before the Bribery or Corruption Commission, has been ordered to be confiscated.
+
+The vehicle was seized when the vehicle was in the possession of a famous businessman in Badulla, the Commission stated in court.
+
+After 2015, a court order has been ordered to hand over two hundred cars to the Customs Department, which lost several crores of rupees.
+
+Following this, the Corruption Commission said in court that the car was seized and investigated.. (That)
+
+◼️
+
+[Data](articles/1a22e25d.json)
+
+[Extended Data](ext_articles/1a22e25d.ext.json)
+
+---
 
 ### It is wrong to think that the presidential election victory can be won in other elections - Eran Wickremaratne
 
@@ -2251,91 +2357,5 @@ The Heleen Storm hit the province of Florida on the 26th of last month.
 [Data](articles/f16e7894.json)
 
 [Extended Data](ext_articles/f16e7894.ext.json)
-
----
-
-### Sri Lanka’s lower-income households pay 10 pct of income on VAT: IPS
-
-*2024-10-11 11:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-lower-income-households-pay-10-pct-of-income-on-vat-ips-183174/) · `en`
-
-ECONOMYNEXT –Sri Lanka’s lower-income households spend 10 percent of their income on value added tax (VAT), while the richest households contribute some 95 percent of pay-as-you-earn (PAYE) and personal income tax (PIT), the Institute of Policy Studies (IPS) said.
-
-Speaking at an event on Tuesday October IPS Research Economist Priyanka Jayawardena noted, however, that tax evasion remains a problem.
-
-While PIT revenue for 2023 was estimated at 131 billion rupees, only 48 billion appears to have been collected in 2023, a statement from the IPS quoted her as saying.
-
-Jayawardena pointed out that VAT revisions – from 15 percent to 18 percent – along with removing exemptions have hit the poorest hardest, with the bottom 10 percent of households paying around 10 percent of their income in VAT compared to 6 percent for wealthier households.
-
-...
-
-[Data](articles/604b8cbc.json)
-
-[Extended Data](ext_articles/604b8cbc.ext.json)
-
----
-
-### Shani joined the service again
-
-*2024-10-11 11:38:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-சேவையில்-இணைந்தார்-ஷானி/175-345272) · `ta`
-
-Retired Senior Superintendent of Police Shani Abeysekera reinstated on contract for one year. Previously served as CID Director. National Police Commission approval.
-
-🟩
-
-Retired Senior Superintendent of Police, Shani Abeysekera, has been re -incorporated on a contract basis with the permission of the National Police Commission.
-
-He will serve for a year, police media spokesman and Deputy Inspector General of Police Nihal Talduwa said.
-
-Earlier, Shani Abeesekera had served as the Director of the Criminal Investigation Department (CID).
-
-◼️
-
-[Data](articles/d3723980.json)
-
-[Extended Data](ext_articles/d3723980.ext.json)
-
----
-
-### Public urged to report information on misuse of govt-owned vehicles
-
-*2024-10-11 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102613/public-urged-to-report-information-on-misuse-of-govt-owned-vehicles-) · `en`
-
-Sri Lanka Police are requesting the public to call the special hotline ‘1997’ to provide any information regarding the misuse of the government-owned vehicles.
-
-Issuing a communiqué, the police headquarters requests the public to report any information related to the vehicles issued by the government for various official purposes that may have been unlawfully concealed in certain locations or have been neglected after being parked in certain places and left to dilapidate.
-
-This hotline is available around the clock, and the police assure that the identities of those who provide information will be kept confidential and that information can be provided anonymously.
-
-However, the police stress that only accurate information should be given, as legal action will be taken against anyone who provides false information.
-
-◼️
-
-[Data](articles/aeb8391a.json)
-
-[Extended Data](ext_articles/aeb8391a.ext.json)
-
----
-
-### புதிய அவசர இலக்கம் அறிமுகம்
-
-*2024-10-11 11:30:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அவசர-இலக்கம்-அறிமுகம்/175-345271) · `ta`
-
-New emergency number 1997 introduced for reporting misuse/stolen state vehicles/assets. Cash rewards for accurate tips. Aims to enhance accountability and proper asset utilization.
-
-🟩
-
-The new emergency number has been introduced to complain about state vehicles and assets if it is misused or stolen.
-
-The public can contact the telephone number 1997 regarding these incidents, the Inspector General of Police Priyantha Weerasuriya said.
-
-He said the cash incentives would be given to those who provide accurate information.
-
-He added that the initiative aims to improve accountability and ensure proper use of state assets.
-
-◼️
-
-[Data](articles/5293775a.json)
-
-[Extended Data](ext_articles/5293775a.ext.json)
 
 ---

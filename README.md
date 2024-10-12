@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 16:10:56**
+As of **2024-10-12 16:23:34**
 
 ## Newspaper Stats
 
-*Scraped **49,120** Articles*
+*Scraped **49,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 5,803
 tamilmirrorlk | 6,686
 virakesarilk | 7,853
-adaderanasinhalalk | 8,489
+adaderanasinhalalk | 8,490
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,120 (100.0%) of 49,120 articles have been extended.
+49,120 (100.0%) of 49,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### වර්ෂාවෙන් දුම්රිය ධාවනයට බාධා
+
+*2024-10-12 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202089) · `si`
+
+වර්ෂාව හේතුවෙන් පුත්තලම දුම්රිය මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවී තිබේ.
+
+ඒ අනුව එම මාර්ගයේ දුම්රිය ගමනාගමන කටයුතු ලුනුවිල දක්වා පමණක් සිදුකෙරෙන බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+අද (12) දහවල් 01 සිට යළි දැනුම්දෙන තුරු දුම්රිය ධාවන කටයුතු ලුනුවිල දක්වා සිදුකරන බව වැඩිදුරටත් වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/b4764809.json)
+
+---
 
 ### Warns a big flood
 
@@ -2331,29 +2347,5 @@ The President took action to provide the amount of financial hardships, whether 
 [Data](articles/83e2d947.json)
 
 [Extended Data](ext_articles/83e2d947.ext.json)
-
----
-
-### Temporarily canceled the State Literature Festival
-
-*2024-10-11 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202074) · `si`
-
-State Literature Festival canceled due to election. Ministry cites Election Commission instruction. Children's Drama Festival rescheduled.
-
-🟩
-
-The Ministry of Buddha Integration, Religious and Cultural Affairs, National Integration, Social Security, Social Security and Mass Media has taken steps to cancel the State Literary Awards.
-
-The Ministry has issued a statement and said that this was temporarily canceled on the instructions of the Election Commission due to the general election.
-
-The State Children's Drama Festival was scheduled to be held on November 09 on the 14th.
-
-The following will be taken to be notified.
-
-◼️
-
-[Data](articles/3eb8c499.json)
-
-[Extended Data](ext_articles/3eb8c499.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 22:38:56**
+As of **2024-10-12 23:08:47**
 
 ## Newspaper Stats
 
-*Scraped **49,154** Articles*
+*Scraped **49,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 3,018
 dailyftlk | 3,334
 adalk | 4,560
 dailymirrorlk | 4,733
-adaderanalk | 5,808
+adaderanalk | 5,809
 tamilmirrorlk | 6,695
 virakesarilk | 7,858
-adaderanasinhalalk | 8,502
+adaderanasinhalalk | 8,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,154 (100.0%) of 49,154 articles have been extended.
+49,156 (100.0%) of 49,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Sarath Fonseka not to elections
+
+*2024-10-12 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202103) · `si`
+
+Sarath Fonseka decides not to contest general election due to unsuccessful negotiations and lack of support from former allies.
+
+🟩
+
+Former Parliamentarian Field Sarath Fonseka says he has decided not to contest this year's general election.
+
+He referred to the general election this year's general election failed by the negotiations to contest with the cylinder.
+
+"I believe that the leader in the presidential election eventually put the people right away. I'm glad about that. මහ මැතිවරණය ගැන අනුර කුමාර දිසානායක මහතා සමග මම ඉතාම කෙටි... Took about 10 minutes. The view that they were expressed was that the nominations opposed to those who were not with them in the presidential election.. Next, with the former Prime Minister, I was discussing the political journey with the gas cylinder who discussed with former ministers.. Did not attract attractive. As a result, I decided not to compete in this election. "
+
+◼️
+
+[Data](articles/b6291a9c.json)
+
+[Extended Data](ext_articles/b6291a9c.ext.json)
+
+---
+
+### ‘A noble opposition can do more work than a govt’ – Dilith Jayaweera
+
+*2024-10-12 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102641/a-noble-opposition-can-do-more-work-than-a-govt-dilith-jayaweera) · `en`
+
+Leader of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera says that if a noble opposition is created, it can do more work than a government.
+
+He further points out that a courageous opposition will not have to remain in the opposition forever.
+
+He made these comments during a special meeting held today (12) in Waskaduwa with the candidates contesting this year’s parliamentary elections from the ‘Sarvajana Balaya’ under the symbol of the ‘medal’.
+
+“We are talking about nationalism, not racism. Many people are afraid to say that Sri Lanka’s nationalism is based on Sinhala Buddhist civilization. They think that people will get angry if they say this.”
+
+He stated that the issue is that politicians choose the racist part of nationalism and engage in politics. “It’s done in the south... even in the north. We are against that.”
+
+Jayaweera stated that this country can be guided towards economic development if everyone in the country is brought to an entrepreneurial mindset.
+
+...
+
+[Data](articles/6303085c.json)
+
+[Extended Data](ext_articles/6303085c.ext.json)
+
+---
 
 ### Two trains collide in India
 
@@ -2413,37 +2459,5 @@ Aitken Spence Hotels has made a remarkable impact at the South Asian Travel Awar
 [Data](articles/bb8ce1c3.json)
 
 [Extended Data](ext_articles/bb8ce1c3.ext.json)
-
----
-
-### Standard Chartered appoints Tamani Dias as Head of Corporate Coverage
-
-*2024-10-12 01:31:00* · [`islandlk`](http://island.lk/standard-chartered-appoints-tamani-dias-as-head-of-corporate-coverage/) · `en`
-
-Standard Chartered Sri Lanka has appointed Tamani Dias as Executive Director / Head of Corporate Coverage, effective September 30, 2024. Tamani will oversee Sri Lanka’s Global Subsidiaries business, in addition to her existing responsibilities leading the Local & International Corporates business.
-
-Standard Chartered Sri Lanka CEO, Bingumal Thewarathanthri, stated, “We are pleased to announce the appointment of Tamani Dias as Head of Corporate Coverage for Sri Lanka. We are confident in her leadership and ability to drive business priorities, cultivating synergies that support the Bank’s network-focused business initiatives. Tamani’s extensive experience and commitment to empowering women in leadership roles also reflect Standard Chartered’s dedication to creating a diverse and inclusive workplace.”
-
-...
-
-[Data](articles/c52e7c4b.json)
-
-[Extended Data](ext_articles/c52e7c4b.ext.json)
-
----
-
-### World Bank-inspired buoyancy continues in stock market
-
-*2024-10-12 01:30:00* · [`islandlk`](http://island.lk/world-bank-inspired-buoyancy-continues-in-stock-market/) · `en`
-
-The stock market bounced back yesterday after witnessing profit- takings over the last few days. A favourable growth forecast of 4.4 percent for 2024 by the World Bank helped the bourse to move up, market analysts said.The All Share Price Index went up by 130.5 points, while S and P SL20 rose by 34.48 points.
-
-Turnover stood at Rs 2.3 billion with five crossings. Those crossings were reported in JKH, which crossed 1.1 million shares to the tune of Rs 616 million; its shares traded at Rs 196, Digital Mobile Solutions Limited 2.3 million shares crossed for Rs 88.5 million; its shares traded at Rs 38.50, Royal Ceramic 805,000 shares crossed for Rs 26.5 million; its shares traded at Rs 33, Chevron Lubricants 185,000 shares crossed for Rs 23.2 million; its shares sold at Rs 125.75 and CIC 300,000 shares crossed to the tune of Rs 22.7 million; it’s shares fetched Rs 75.8.
-
-...
-
-[Data](articles/3984c319.json)
-
-[Extended Data](ext_articles/3984c319.ext.json)
 
 ---

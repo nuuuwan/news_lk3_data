@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 14:57:59**
+As of **2024-10-12 15:08:58**
 
 ## Newspaper Stats
 
-*Scraped **49,114** Articles*
+*Scraped **49,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 3,018
 dailyftlk | 3,334
 adalk | 4,558
 dailymirrorlk | 4,733
-adaderanalk | 5,802
+adaderanalk | 5,803
 tamilmirrorlk | 6,685
-virakesarilk | 7,852
+virakesarilk | 7,853
 adaderanasinhalalk | 8,486
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,114 (100.0%) of 49,114 articles have been extended.
+49,114 (100.0%) of 49,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Gunmen kill 21 coal miners in troubled southwestern Pakistan
+
+*2024-10-12 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102635/gunmen-kill-21-coal-miners-in-troubled-southwestern-pakistan) · `en`
+
+Dozens of attackers armed with guns, rockets and hand grenades stormed a cluster of small private coal mines in southwestern Pakistan on Friday, slaying some miners in their sleep and shooting others after lining them up, killing at least 21 in the restive region, police said.
+
+The attack by around 40 armed men days before Pakistan hosts a summit of the Shanghai Co-operation Organization grouping is the worst in weeks in the mineral-rich province of Balochistan bordering Afghanistan and Iran.
+
+“The armed terrorists remained for around 1-1/2 hours in the mining area,” regional police official Asif Shafi told Reuters. “They fired rockets and hurled grenades at the mines and miners’ quarters.”
+
+There was no immediate claim of responsibility for the attack on the mines of the Junaid Coal Co in the Duki area, which also injured six.
+
+Among the dead were four Afghan nationals; another four were injured.
+
+...
+
+[Data](articles/f65b2a7c.json)
+
+---
+
+### மரக்கறிகளின் விலையில் பாரிய வீழ்ச்சி
+
+*2024-10-12 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196104) · `ta`
+
+கடும் மழையுடனான வானிலையால் மரக்கறிகளின் விலையில் பாரிய வீழ்ச்சி ஏற்பட்டுள்ளதாக பேலியகொடை மெனிங் சந்தையின் பொது வர்த்தக சங்கத்தின் உப தலைவர் தெரிவித்துள்ளார்.
+
+ஒரு கிலோ கரட் 100 ரூபாவாகவும், ஒரு கிலோ பச்சை மிளகாய் 200 ரூபாவாகவும், ஒரு கிலோ கறி மிளகாய்  400 ரூபாவாகவும், ஒரு கிலோ போஞ்சி  280 ரூபாவாகவும், ஒரு கிலோ லீக்ஸ் 160 ரூபாவாகவும், ஒரு கிலோ கோவா 100 ரூபாவாகவும், ஒரு கிலோ தக்காளி 250 ரூபாவாகவும் விற்பனை செய்யப்படுகிறது.
+
+இதேவேளை, ஒரு கிலோ பாகற்காய் 350 ரூபாவாகவும் , ஒரு கிலோ முள்ளங்கி  50 ரூபாவாகவும், ஒரு கிலோ புடலங்காய்  200 ரூபாவாகவும், ஒரு கிலோ  வெண்டைக்காய்  100 ரூபாவாகவும், ஒரு கிலோ பூசணி  100 ரூபாவாகவும், ஒரு கிலோ பீர்க்கங்காய்  150 ரூபாவாகவும் விற்பனை செய்யப்படுகிறது.
+
+...
+
+[Data](articles/abec5f6c.json)
+
+---
 
 ### Ajith Mannapperuma quit the general election
 
@@ -2309,57 +2345,5 @@ Preliminary investigations have revealed that the vehicle was used by a former d
 [Data](articles/966a684d.json)
 
 [Extended Data](ext_articles/966a684d.ext.json)
-
----
-
-### General Election: 690 nominations accepted, 74 rejected
-
-*2024-10-11 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102623/general-election-690-nominations-accepted-74-rejected) · `en`
-
-The Commissioner General of Elections, Saman Sri Ratnayake, announced that a total of 764 nomination papers were submitted by political parties and independent groups for the 2024 General Election, from the 22 electoral districts across the island.
-
-However, he stated that only 690 nomination papers were accepted from political parties and independent groups for the election and that 74 nomination papers were rejected.
-
-Speaking to reporters this evening (11) after the nomination period ended, he stated that the highest number of nominations were received for the Digamadulla electoral district with 72.
-
-He said that 64 of these were accepted as 08 nomination papers were rejected.
-
-The Commissioner General added that the lowest number of nominations were received jointly from the Polonnaruwa and Monaragala districts with 15 each.
-
-He revealed that preference numbers will be announced in the near future.
-
-...
-
-[Data](articles/89dca552.json)
-
-[Extended Data](ext_articles/89dca552.ext.json)
-
----
-
-### මැතිවරණ දිස්ත්‍රික්ක 22කට කණ්ඩායම් 690ක් තරගයට
-
-*2024-10-11 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202072) · `si`
-
-Sri Lanka: 690 teams contesting 22 districts for 2024 general election. Lowest number of candidates in Monaragala and Polonnaruwa districts. 74 nominations rejected. Highest competition in Digamadulla electorate.
-
-🟩
-
-2024 මහ මැතිවරණය සඳහා මැතිවරණ දිස්ත්‍රික්ක 22 සඳහා කණ්ඩායම 690ක් තරග කිරීමට නියමිත බව මැතිවරණ කොමිසම පවසයි.
-
-Addressing the media, Elections Commissioner General Saman Sri Ratnayake said that 74 nominations have been rejected.
-
-Mr. Ratnayake said that if there is an injustice, the teams could go to court.
-
-The highest number of political groups compete for Digamadulla Electorate. It is 64.
-
-අවම කණ්ඩායම් ගණනක් තරග කරනු ලබන්නේ මොනරාගල සහ පොළොන්නරුව මැතිවරණ දිස්ත්‍රික්ක සඳහා වන අතර ඒ සඳහා කණ්ඩායම් 15 බැගින් තරග කරයි.
-
-Delivery of nominations for the 2124 general election was completed today (11).
-
-◼️
-
-[Data](articles/a15a099a.json)
-
-[Extended Data](ext_articles/a15a099a.ext.json)
 
 ---

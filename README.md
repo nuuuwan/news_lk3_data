@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 15:57:41**
+As of **2024-10-12 16:10:56**
 
 ## Newspaper Stats
 
-*Scraped **49,118** Articles*
+*Scraped **49,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,45 @@ dailyftlk | 3,334
 adalk | 4,558
 dailymirrorlk | 4,733
 adaderanalk | 5,803
-tamilmirrorlk | 6,685
+tamilmirrorlk | 6,686
 virakesarilk | 7,853
-adaderanasinhalalk | 8,488
+adaderanasinhalalk | 8,489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,118 (100.0%) of 49,118 articles have been extended.
+49,120 (100.0%) of 49,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Warns a big flood
+
+*2024-10-12 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202088) · `si`
+
+Flood warning: Attanagalu Oya area affected. Low-lying areas in Gampaha District threatened. Floods expected in Minuwangoda, Katana, and Wattala. Residents advised to stay alert.
+
+🟩
+
+It is reported that there is a flood in the Attanagalu Oya area in Attanagalu Oya.
+
+Irrigation Director (Hydrology and Disaster Management) Engineering. P. Mr. Cirih Sushingwara said that the people should be more inquiries.
+
+The Irrigation Department has already issued warnings for a tremendous utterance to the Attanagalu Oya Basin, "the Gampaha District.. In slowabows in the Gampaha district are further threat. "
+
+"The floods in lowland areas in Minuwangoda, Minuwangoda, Gampaha, Gampaha, Katana and Wattala will continue throughout the day."
+
+"It is advisable to say that floods in the lower areas can further develop."
+
+◼️
+
+[Data](articles/60810c95.json)
+
+[Extended Data](ext_articles/60810c95.ext.json)
+
+---
 
 ### Two jeeps found
 
@@ -51,6 +77,28 @@ Meanwhile, the Beliatta Police have also seized a black-owned workspiration of t
 [Data](articles/50d068d5.json)
 
 [Extended Data](ext_articles/50d068d5.ext.json)
+
+---
+
+### Red warning on flood risk
+
+*2024-10-12 15:07:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அபாயம்-குறித்து-சிவப்பு-எச்சரிக்கை/175-345318) · `ta`
+
+Flood warnings issued: rising river levels, potential flooding near Kelani Ganga, Kalukanga, Kuda Oya, and Attanagalu Oya. Low-lying areas at risk.
+
+🟩
+
+The water level of rivers is increasing due to inclement weather, and the Department of Irrigation has said that there is a possibility of flooding in the nearby areas of Kelani Ganga.
+
+It is also reported that the water level of the Kalukanga is also increasing. The water level of Kuda Oya is increasing and the flood hazard has been issued for the recent low -lying areas.
+
+In addition, a red warning has been issued on the risk of floods to the nearby areas of Attanagalu Oya.R
+
+◼️
+
+[Data](articles/09ccafc0.json)
+
+[Extended Data](ext_articles/09ccafc0.ext.json)
 
 ---
 
@@ -2307,65 +2355,5 @@ The following will be taken to be notified.
 [Data](articles/3eb8c499.json)
 
 [Extended Data](ext_articles/3eb8c499.ext.json)
-
----
-
-### 690 groups in 22 districts in 2024 general election - Elections Commission
-
-*2024-10-11 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196067) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"690 groups contesting 22 districts in 2024 election. 74 nominations rejected. Largest group count: 64 in Digamadulla. Fewest: 15 in Moneragala & Polonnaruwa. Nominations closed on Friday."
-
-🟩
-
-The Elections Commission has said that 690 groups will contest in 22 election districts in the 2024 general election.
-
-Elections Commissioner Saman Sri Ratnayake told the media that 74 nominations have been rejected.
-
-Ratnayake also pointed out that the groups can go to court if they feel injustice.
-
-The largest number of political groups contests in the Digamadulla electoral district and the number is 64.
-
-In Moneragala and Polonnaruwa electoral districts, there are fewer teams and 15 teams each.
-
-The filing of nominations for the general election in 2024 ended on Friday (11) at 12 noon.
-
-◼️
-
-[Data](articles/b6e51abe.json)
-
-[Extended Data](ext_articles/b6e51abe.ext.json)
-
----
-
-### Landslide warnings extended
-
-*2024-10-11 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202073) · `si`
-
-National Building Research Organization extends landslide warnings for specific areas. Alerts issued from 4pm today to 4pm tomorrow for selected districts including Kalutara, Kegalle, and Ratnapura.
-
-🟩
-
-The National Building Research Organization has taken steps to further extend the alerts of landslides for several areas.
-
-The National Building Research Institute, Senior Geologist Wasantha Senadhira said that this warning notification is operating at 4.00 pm to 4:00 pm tomorrow (12).
-
-Accordingly, under phase 2 to Divisional Secretariats in the following districts, as well as the alert will be issued under the following districts.
-
-Kalutara District - Kallavita, Horana, Horana, Matugama, Dodangoda, Bulathsinhala, Palindhan, Agalawatta
-
-Kegalle District - Ruwanwella, Yatiyantota, Dehiowita, Dehiowita, Bandaranawa, Kegalle, Mawanella, Aranayaka
-
-Ratnapura District - Eheliyagoda, Kiriella, ⁠ Ayalla, Kalawana, Ratnapura, Kuruwita
-
-◼️
-
-[Data](articles/9c9e92f3.json)
-
-[Extended Data](ext_articles/9c9e92f3.ext.json)
 
 ---

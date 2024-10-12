@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 21:08:46**
+As of **2024-10-12 21:23:25**
 
 ## Newspaper Stats
 
@@ -62,9 +62,9 @@ The Defense Ministry has ordered the death of a police officer in the shooting n
 
 Three persons including a three-year-old boy have reportedly died after being hit by a train near the Katukurunda railway station this evening (12).
 
-They had died after a collision with a train plying from Matara to Colombo, Ada Derana reporter said.
+They had died after a collision with an express train plying from Beliatta to Maradana, according to the Railway Department.
 
-Two males including the boy’s 22-year-old father were killed on the spot while three-year-old had succumbed to critical injuries after being admitted to the Kalutara Teaching Hospital.
+Two males including the child’s 22-year-old father were killed on the spot while three-year-old had succumbed to critical injuries after being admitted to the Kalutara Teaching Hospital.
 
 The deceased are reportedly residents of the Rajawatta area in Kalutara South.
 

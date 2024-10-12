@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 07:59:18**
+As of **2024-10-12 08:21:20**
 
 ## Newspaper Stats
 
-*Scraped **49,063** Articles*
+*Scraped **49,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 400
 colombotelegraphcom | 488
 bbccomsinhala | 489
 islandlk | 2,903
-economynextcom | 3,016
+economynextcom | 3,017
 dailyftlk | 3,334
 adalk | 4,556
 dailymirrorlk | 4,733
-adaderanalk | 5,793
-tamilmirrorlk | 6,667
+adaderanalk | 5,794
+tamilmirrorlk | 6,668
 virakesarilk | 7,844
 adaderanasinhalalk | 8,477
 
@@ -26,11 +26,83 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,063 (100.0%) of 49,063 articles have been extended.
+49,066 (100.0%) of 49,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Heavy showers above 100 mm expected today
+
+*2024-10-12 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102627/heavy-showers-above-100-mm-expected-today) · `en`
+
+The Meteorology Department says the prevailing showery condition is expected to continue further in the south-western part of the Island, due to the atmospheric disturbance in the vicinity of Sri Lanka.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern, North-western and Central provinces.
+
+Heavy showers of about 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers will occur elsewhere at several places in the island during the evening or night.Fairly heavy showers above 75mm are likely at some places, it added.
+
+Strong winds of about 30-40 kmph can be expected at times over Western, Sabaragamuwa, Southern, North-western and Central provinces.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/335cc8af.json)
+
+[Extended Data](ext_articles/335cc8af.ext.json)
+
+---
+
+### Sri Lanka September remittances up 15.2-pct to $555.6mn, $4.8 bn to date
+
+*2024-10-12 07:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-september-remittances-up-15-2-pct-to-555-6mn-4-8-bn-to-date-183302/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s remittances coming from its overseas expatriate workers gained 15.2 percent to $555.6 million in September 2024 compared to the same month last year, helped by more expatriates using the official banking channels.
+
+The total remittances also crossed $4.8 billion in the first nine months of 2024 through end September, the latest Central Bank data showed.
+
+The remittances in the first nine months gained 11.5 percent to $4.84 billion compared to $4.35 billion in the same period last year.
+
+Worker remittances are one of the top foreign exchange revenue earners for the island nation which is still recovering from an unprecedented economic crisis hit in 2022.
+
+The remittances have risen continuously after the central bank gave up a parallel exchange rate regime, which compelled most expatriates to switch informal Undiyal and Hawala money transfer methods.
+
+...
+
+[Data](articles/916d8f81.json)
+
+[Extended Data](ext_articles/916d8f81.ext.json)
+
+---
+
+### Heavy rain today
+
+*2024-10-12 07:21:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பலத்த-மழை/175-345299) · `ta`
+
+Heavy rain expected today across several provinces. Intermittent showers possible in central regions. Up to 100mm in western areas, 75mm elsewhere. Strong winds predicted in coastal waters.
+
+🟩
+
+The Department of Meteorology has forecast heavy rainfall in many parts of the country today.
+
+In the middle of the top, Sabaragamuwa, South, North Western and Central Provinces, intermittent rainfall may be recorded.
+
+Heavy rainfall is likely to record up to 100 millimeters in some parts of the Western and Sabaragamuwa Provinces and Galle and Matara districts.
+
+In other parts of the country, up to 75 millimeters of rain can be recorded in the evening or night.
+
+Meanwhile, the Department of Meteorology has forecast strong winds in the seas surrounding the country.. (A)
+
+◼️
+
+[Data](articles/ac340d2b.json)
+
+[Extended Data](ext_articles/ac340d2b.ext.json)
+
+---
 
 ### Democratic Tamil Nadu met Mawa
 
@@ -2281,81 +2353,5 @@ At a discussion held on Tuesday October 08, IPS Research Economist Pulasthi Amar
 [Data](articles/0a4415c0.json)
 
 [Extended Data](ext_articles/0a4415c0.ext.json)
-
----
-
-### Damitha gets caught from the list
-
-*2024-10-11 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202057) · `si`
-
-Mrs. Damitha Abeyratne removed from Ratnapura District nomination list despite announcing candidacy. She visited District Secretariat to sign election papers.
-
-🟩
-
-It is reported that Mrs. Damitha Abeyratne is not mentioned in the nomination list of the Ratnapura District.
-
-She had reached the District Secretariat in Ratnapura today (11) to sign the nominations of the general election in the general election today (11).
-
-Damitha Abeyratne told the media yesterday (10) that he would contest the general election representing the Ratnapura District.
-
-◼️
-
-[Data](articles/0fd7c34e.json)
-
-[Extended Data](ext_articles/0fd7c34e.ext.json)
-
----
-
-### Crown of Goddess Kali, gifted by PM Modi, stolen from Bangladesh temple
-
-*2024-10-11 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102614/crown-of-goddess-kali-gifted-by-pm-modi-stolen-from-bangladesh-temple) · `en`
-
-A crown of goddess Kali has been stolen from the Jeshoreshwari temple in Satkhira’s Shyamnagar.
-
-This crown was gifted by Prime Minister Narendra Modi during his visit to the temple in March, 2021, as reported by The Daily Star.
-
-The theft occurred on Thursday between 2.00 pm and 2.30 pm, after Temple Priest Dilip Mukherjee left following the day’s worship. The cleaning staff later found that the crown was missing from the deity’s head, as reported by The Daily Star.
-
-“We are reviewing the temple’s CCTV footage to identify the thief,” said Inspector Taizul Islam of Shyamnagar Police Station.
-
-The stolen crown, made of silver and gold-plated, holds significant cultural and religious importance.
-
-According to Hindu mythology, the Jeshoreshwari Temple is one of the 51 Shakti Peeths scattered across India and neighboring countries. The name “Jeshoreshwari” means “Goddess of Jeshore.”
-
-PM Modi visited the Jeshoreshwari Temple on March 27, 2021, during his trip to Bangladesh.
-
-...
-
-[Data](articles/bd9830bc.json)
-
-[Extended Data](ext_articles/bd9830bc.ext.json)
-
----
-
-### 16 people killed in storm
-
-*2024-10-11 12:01:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மில்டன்-புயலால்-16-பேர்-பலி/50-345273) · `ta`
-
-Storm Milton kills 16 in Florida, causes destruction and flooding. Winds reach 270km/h, sea waves rise 15ft. Construction crane collapses, apartments severely damaged. Similar to Hurricane Heleen which struck Florida on August 26.
-
-🟩
-
-The death toll from the Milton Storm in the US -Florida province has increased to 16.
-
-In the Atlantic Ocean, the extreme storm was created in the area of ​​Mexico's Ucaton Peninsula.
-
-The storm, dubbed Milton, is to cross the shore in Florida, USA. Thus, with high -speed winds, it was raining.
-
-Maximum, at maximum, 270 km. May blow at the speed at the speed. Sea waves rose up to 15 feet high when the storm crossed the storm in the Gulf of Tampa.
-
-The storm was stopped for construction work and a giant crane collapsed. The apartments were severely damaged.
-
-The Heleen Storm hit the province of Florida on the 26th of last month.
-
-◼️
-
-[Data](articles/f16e7894.json)
-
-[Extended Data](ext_articles/f16e7894.ext.json)
 
 ---

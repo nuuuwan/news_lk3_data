@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 12:56:39**
+As of **2024-10-12 13:08:34**
 
 ## Newspaper Stats
 
-*Scraped **49,098** Articles*
+*Scraped **49,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 4,558
 dailymirrorlk | 4,733
 adaderanalk | 5,800
 tamilmirrorlk | 6,682
-virakesarilk | 7,844
-adaderanasinhalalk | 8,483
+virakesarilk | 7,850
+adaderanasinhalalk | 8,484
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,098 (100.0%) of 49,098 articles have been extended.
+49,105 (100.0%) of 49,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Ajith is going to flee with Sajith
+
+*2024-10-12 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202081) · `si`
+
+Former UNP MP Ajith Mannapperuma announces withdrawal from Gampaha District election due to removal as organizer. Cites frustration over alleged secret deal between party leader Ranil Wickremasinghe and Sajith Premadasa.
+
+🟩
+
+Former UNP MP Ajith Mannapperuma said he would not contest this year, even though the Gampaha District Nominations List was named in the Gampaha District nomination list.
+
+He held a news conference, he said that this decision was taken as a result of his removal of the Gampaha District Organizer.
+
+"I am a candidate list in the Gampaha District of the Gampaha district in this year's election. Also, the Gampaha seat is the organizer for the. But even if I submit nominations from the proposal as a candidate this time, I intended to avoid votes.
+
+I especially say that I request not to use that vote for me because it does not want to be working with unique folk force.. Because Sajith Premadasa speaks to our party's leader. When I signed a Nomination and 24-hour, Ranil Wickremarasi has been secretly given to a person who worked for the government for the Colon National Party. It caused me to frustrate.
+
+◼️
+
+[Data](articles/9af69a09.json)
+
+[Extended Data](ext_articles/9af69a09.ext.json)
+
+---
 
 ### Western, Southern Province Roads Freeze
 
@@ -53,6 +77,32 @@ Many areas including Minuwangoda, Katana, Hanwella, Kaduwela, Kolonnawa, Pannala
 [Data](articles/50bceee1.json)
 
 [Extended Data](ext_articles/50bceee1.ext.json)
+
+---
+
+### Two arrested with heroin in Kalkisa
+
+*2024-10-12 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/196088) · `ta`
+
+Two men, ages 41 and 45, arrested with heroin near Batovita-Obian junction. 60g and 12g of heroin seized. Handed over to Mount Lavinia Police for investigation.
+
+🟩
+
+Two suspects have been arrested yesterday (11) with heroin near the Batovita and Obian junction under the Mount Lavinia Police, according to the Criminal Investigation Department of the Malkisa Police.
+
+The suspects were arrested during two rounds carried out on information received by the Malkisa Police Criminal Investigation Division.
+
+Two persons, aged 41 and 45, have been arrested from Ratmalana and Malkisai.
+
+One of the arrested was seized by 60 grams of 120 milligrams of heroin and 12 grams of 750 milligrams of heroin from the other.
+
+Subsequently, the two suspects have been handed over to the Mount Lavinia Police Station for further investigations.
+
+◼️
+
+[Data](articles/e0ff2e99.json)
+
+[Extended Data](ext_articles/e0ff2e99.ext.json)
 
 ---
 
@@ -128,6 +178,32 @@ The Prime Minister's Secretary also said that the Ministry should obtain permiss
 
 ---
 
+### Fishermen don't go to sea - the Department of Meteorology
+
+*2024-10-12 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196085) · `ta`
+
+Department of Meteorology issues red alert for coastal areas. Strong winds and high waves expected. Fishermen and sailors advised to stay off seas until further notice. Warning effective for 24 hours starting 8:30 AM today.
+
+🟩
+
+The Department of Meteorology has issued a red telephone warning to the seas from Puttalam to Colombo and Galle.
+
+The instruction, which was issued today (12) at 08.30 am, will be in effect for the next 24 hours until 08.30 am tomorrow (13).
+
+Therefore, the Department of Meteorology has advised the naval and fishermen community not to go to the sea until the re -notice is arrived.
+
+The Department of Meteorology has announced that the wind speeds from Puttala to Colombo and Galle via Hambantota will grow at speeds of up to 100 km / h from time to time.
+
+The report states that the seas are from time to time, and the height of the sea waves in the seas from Colombo to Galle and Matara to Hambantota is likely to rise from 2.5 to 3.0 meters.
+
+◼️
+
+[Data](articles/017f3295.json)
+
+[Extended Data](ext_articles/017f3295.ext.json)
+
+---
+
 ### Luxury car confiscated following bribery commission investigation
 
 *2024-10-12 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102632/luxury-car-confiscated-following-bribery-commission-investigation) · `en`
@@ -165,6 +241,26 @@ The confiscated vehicle, a Mitsubishi Montero jeep, belongs to a businessman fro
 [Data](articles/d952fa0b.json)
 
 [Extended Data](ext_articles/d952fa0b.ext.json)
+
+---
+
+### Murder of a nephew;Arrests
+
+*2024-10-12 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/196082) · `ta`
+
+Father-in-law arrested after assaulting son-in-law over argument in Balangoda. Son-in-law killed during altercation. Police investigation ongoing.
+
+🟩
+
+Balangoda police said that the father -in -law was assaulted by his son -in -law in a house in Dahamana, Balangoda.
+
+Police said that when the son -in -law, who was murdered in a violation of the argument, was assaulted by his father -in -law and his son -in -law when he tried to attack his wife.
+
+◼️
+
+[Data](articles/32dcd441.json)
+
+[Extended Data](ext_articles/32dcd441.ext.json)
 
 ---
 
@@ -336,6 +432,24 @@ Chinese police are conducting further investigations into the incident. Remble
 
 ---
 
+### Re -opening the covered area on southern high -speed road
+
+*2024-10-12 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196081) · `ta`
+
+Southern High-Speed Road: Welipanna Transfer area reopens on Saturday after temporary closure.
+
+🟩
+
+The Welipanna Transfer area on the temporary closed Southern Expressway has been reopened on Saturday.
+
+◼️
+
+[Data](articles/03fad612.json)
+
+[Extended Data](ext_articles/03fad612.ext.json)
+
+---
+
 ### Nephew killed in father -in -law's attack
 
 *2024-10-12 09:38:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமனாரின்-தாக்குதலில்-மருமகன்-பலி/175-345306) · `ta`
@@ -462,6 +576,34 @@ Former Minister Mr. Prasanna Ranatunga said that even if he does not contest the
 
 ---
 
+### Arrested for selling drugs at a grocery store
+
+*2024-10-12 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196080) · `ta`
+
+Jaffna grocery store owner arrested for selling drugs. Police found 50 tablets during search. Owner claims selling only to known customers. Further investigation ongoing.
+
+🟩
+
+The shop owner who was selling drugs in a grocery store in Jaffna was arrested by the police yesterday (11).
+
+Based on the confidential information available to the police, the shop was searched by the police that drug pills were being sold at a grocery store at Manipayil Manipayil.
+
+During the test, 50 tablets were found from the back of the store and a sum of one blank pill card.
+
+When the police arrested the owner and investigated the investigation, he said that he was taking drug pills and selling them only to those who knew.
+
+He also said that he had bought 150 pills three days ago and had sold some of them and consumed himself.
+
+Further investigations are being carried out by the police detained at the police station.
+
+◼️
+
+[Data](articles/7c63ddea.json)
+
+[Extended Data](ext_articles/7c63ddea.ext.json)
+
+---
+
 ### Instructions to fishermen that they don't go
 
 *2024-10-12 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202078) · `si`
@@ -545,6 +687,36 @@ The State Literary Awards Ceremony and the State Children's Drama Festival will 
 [Data](articles/ebfa96c5.json)
 
 [Extended Data](ext_articles/ebfa96c5.ext.json)
+
+---
+
+### Rainfall in Central, Sabaragamuwa, Upper, North Western and Southern Provinces
+
+*2024-10-12 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196079) · `ta`
+
+Sri Lanka: Heavy rainfall, thunderstorms forecasted in Central, Sabaragamuwa, Upper, North Western and Southern Provinces. Strong winds (30-40 km/h) expected. Fishermen warned against sea travel. Sea waves may reach 2.5-3.0 meters height. Public advised to remain vigilant during storms.
+
+🟩
+
+Senior Weather Officer Dr. Mohamed Saliheen said that due to the prevailing rainy weather in the country's southwestern region due to the atmospheric conditions in Sri Lanka.
+
+Rainfall or thunderstorms are expected in the Central, Sabaragamuwa, Upper, North Western and Southern Provinces.
+
+Heavy rainfall is likely to occur in some parts of the Sabaragamuwa and Western Provinces as well as some places in the Galle and Matara districts.
+
+Rain or thunderstorms may occur in the evening or night in many parts of the other parts of the country. In some places, 75 millimeters are expected to occur.
+
+In the Central, Sabaragamuwa, Upper, North Western and Southern Provinces, strong winds can be frequent at speeds of 30 to 40 km / h.
+
+The public is asked to act with vigilance in the events of strong winds and lightning.
+
+Fishermen and maritime workers are advised not to go to the sea regions beyond Puttalam to Colombo and Galle via Hambantota.
+
+...
+
+[Data](articles/4c78b968.json)
+
+[Extended Data](ext_articles/4c78b968.ext.json)
 
 ---
 
@@ -2213,155 +2385,5 @@ Also, the name of former Speaker Mahinda Yapa Abeywardena Yapa includes the lous
 [Data](articles/32e0faed.json)
 
 [Extended Data](ext_articles/32e0faed.ext.json)
-
----
-
-### Sri Lanka stocks close up, led by banks
-
-*2024-10-11 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-led-by-banks-183230/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 1.07 percent, or 129.64 points, at 12,294; while the more liquid S&P SL20 Index closed up 1.10 percent, or 39.77 points, at 3,640.
-
-Turnover was 2.3 billion. Most of this came from banks (Rs563mn) and capital goods (Rs521mn).
-
-Top positive contributors to the ASPI were Hatton National Bank (up at 217.75), Commercial Bank (up at 109.00), Sampath Bank (up at 82.80), Lanka IOC (up at 117.75), and Browns Investments (up at 5.80).
-
-Top foreign buying was seen in John Keells Holdings (down at 197.00), Commercial Bank, Sampath Bank, Chevron Lubricants (up at 124.75), Ceylon Guardian Investment Trust (flat at 105.00), and First Capital Holdings (up at 32.40).
-
-Top foreign selling was seen in Melstacorp (up at 89.00), Balangoda Plantations (up at 54.80), Digital Mobility Solutions (down at 38.70), Bogawantalawa Tea Estates (up at 41.20), LIOC and Lanka Milk Foods (up at 30.80).
-
-...
-
-[Data](articles/f83e286c.json)
-
-[Extended Data](ext_articles/f83e286c.ext.json)
-
----
-
-### SLPP’s National List for 2024 General Election
-
-*2024-10-11 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102622/slpps-national-list-for-2024-general-election) · `en`
-
-The Sri Lanka Podujana Peramuna (SLPP) has released its list of candidates nominated as national list members of parliament (National List MPs) for the 2024 General Election.
-
-◼️
-
-[Data](articles/e642838c.json)
-
-[Extended Data](ext_articles/e642838c.ext.json)
-
----
-
-### SJB reveals 29-member National List
-
-*2024-10-11 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102621/sjb-reveals-29-member-national-list) · `en`
-
-Samagi Jana Balawegaya (SJB) has released its list of candidates nominated as national list members of parliament (National List MPs) for the 2024 General Election.
-
-◼️
-
-[Data](articles/76bd742b.json)
-
-[Extended Data](ext_articles/76bd742b.ext.json)
-
----
-
-### NPP’s National List released
-
-*2024-10-11 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102620/npps-national-list-released) · `en`
-
-The National People’s Power (NPP) has released its list of candidates nominated as national list members of parliament (National List MPs) for the 2024 General Election.
-
-JVP Politburo Member, National Executive Member of NPP, Former Member of Parliament
-
-National Executive Member of the NPP, Member of the Policy Making Committee on Social Empowerment
-
-National Executive Member of NPP, Member of the Policy Making Committee
-
-Former Dean at the Faculty of Humanities and Social Sciences, University of Ruhuna.
-
-National Executive Member of NPP, Member of Policy Making Committee
-
-Company CEO, IT Engineer, Member of Policy Making Committee on IT
-
-Former Member of Parliament, NPP National Executive Member, Jaffna District Organiser
-
-Former Member of Parliament, Convener of the National Center for Free Trade Zone Workers
-
-General Secretary of CEB Workers Union, National Trade Union Centre – National Committee Member
-
-◼️
-
-[Data](articles/51137954.json)
-
-[Extended Data](ext_articles/51137954.ext.json)
-
----
-
-### Find out to bring about toxic sale in Sri Lanka
-
-*2024-10-11 16:24:56* · [`adalk`](https://www.ada.lk/breaking_news/විෂ-සැමන්-තොගයක්-ලංකාවට-ගෙනවිත්-තිබියදි-‍සොයා-ගනියි/11-412446) · `si`
-
-Toxic arsenic-laced salmon worth $215,000 seized at Sri Lanka's Orughetawatta customs yard. Authorities plan to return the contaminated fish to its origin country.
-
-🟩
-
-Arsenic toxic salmon was found to be brought to Sri Lanka. The salmon has been found in a container container in the Orughetawatta customs yard.
-
-The value of this salmon is about $ 215,000 is US $ 215,000. The salmon is decided to restore the country back in Sri Lanka without the way in Sri Lanka.
-
-◼️
-
-[Data](articles/e2532ca9.json)
-
-[Extended Data](ext_articles/e2532ca9.ext.json)
-
----
-
-### සමගි ජනබලවේගය ජාතික ලැයිස්තුව
-
-*2024-10-11 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202069) · `si`
-
-Here's a 200-character summary:
-
-
-
-Samaagi Janabala Jathika Layistu: List includes former MPs, university professors, and ex-leaders.
-
-🟩
-
-එම ලැයිතුවට හිටපු මන්ත්‍රීවරුන් කිහිප දෙනෙක්, විශ්ව විද්‍යාල ආචාර්යරු සහ හිටපු ප්‍රධානියෙක්ද ඇතුළත් කර තිබේ.
-
-◼️
-
-[Data](articles/561c75e7.json)
-
-[Extended Data](ext_articles/561c75e7.ext.json)
-
----
-
-### I was given the news to Anura Pensioners
-
-*2024-10-11 16:10:12* · [`adalk`](https://www.ada.lk/breaking_news/ආරංචිය-සුභයි-අනුර-විශ්‍රාමිකයන්ට-දුන්නු/11-412445) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-President Anura Kumara Dissanayake announces increased monthly allowances for pensioners, starting next week. The amount will be Rs. 3,000 per month.
-
-🟩
-
-President Anura Kumara Dissanayake has instructed the money for all pensioners to be given the monthly allowance of Rs. 3,000 from the next week.
-
-The interim allowance of Rs.
-
-◼️
-
-[Data](articles/822841c2.json)
-
-[Extended Data](ext_articles/822841c2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 11:39:26**
+As of **2024-10-12 12:12:16**
 
 ## Newspaper Stats
 
-*Scraped **49,091** Articles*
+*Scraped **49,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 3,017
 dailyftlk | 3,334
 adalk | 4,557
 dailymirrorlk | 4,733
-adaderanalk | 5,799
-tamilmirrorlk | 6,680
+adaderanalk | 5,800
+tamilmirrorlk | 6,681
 virakesarilk | 7,844
-adaderanasinhalalk | 8,482
+adaderanasinhalalk | 8,483
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,091 (100.0%) of 49,091 articles have been extended.
+49,094 (100.0%) of 49,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Removes security stalls near Temple Trees
+
+*2024-10-12 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202080) · `si`
+
+Colombo Municipal Council removes security barriers near Temple Trees. Road reopened after 19-year closure due to security concerns. New government advice leads to reopening.
+
+🟩
+
+With the opening of the road from Kollupitiya mosque from Kollupitiya mosque to the House, the Colombo Municipal Council has been removed today (11).
+
+The road was closed for 19 years in 2005 due to security reasons.
+
+ඒ අනුව දීර්ඝ කාලයක් තිස්සේ ප්‍රවේශ වීමට නොහැකිව තිබූ මෙම මාර්ගය වත්මන් ආරක්ෂක තත්ත්වය සමාලෝචනය කිරීමෙන් අනතුරුව යළි විවෘත කරන ලෙස නව රජය උපදෙස් ලබා දුන්නේය.
+
+◼️
+
+[Data](articles/e3def0c3.json)
+
+[Extended Data](ext_articles/e3def0c3.ext.json)
+
+---
+
+### The Prime Minister's images are required before permission
+
+*2024-10-12 11:32:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமரின்-படங்களுக்கும்-முன்-அனுமதி-தேவை/175-345312) · `ta`
+
+Prime Minister's image use requires permission. State institutions must seek approval for PM and Minister photos/messages. Decision aims to optimize public funds. Written permission needed from PM's office. Ministers' consent required through Ministry.
+
+🟩
+
+It has been stated that the prior permission should be obtained for the use of photos and messages of the Prime Minister and Ministers for events organized by state institutions.
+
+The Prime Minister's Secretary Pradeep Saputhandri has sent a letter to the leaders of state institutions.
+
+The decision has been made to optimize public funds in accordance with the policies and vision of the government.
+
+Accordingly, when using photos and messages of the Prime Minister, the Prime Minister's Office must obtain written permission.
+
+The Prime Minister's Secretary also said that the Ministry should obtain permission from the Ministers on behalf of the Ministers.. (That)
+
+◼️
+
+[Data](articles/8a0e1c49.json)
+
+[Extended Data](ext_articles/8a0e1c49.ext.json)
+
+---
 
 ### Luxury car confiscated following bribery commission investigation
 
@@ -49,6 +97,26 @@ The confiscated vehicle, a Mitsubishi Montero jeep, belongs to a businessman fro
 [Data](articles/8280ff54.json)
 
 [Extended Data](ext_articles/8280ff54.ext.json)
+
+---
+
+### Luxury vehicle confiscated following bribery commission investigation
+
+*2024-10-12 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102632/luxury-vehicle-confiscated-following-bribery-commission-investigation) · `en`
+
+The Colombo Magistrate’s Court has ordered the confiscation of a luxury vehicle seized by the Bribery Commission.
+
+Colombo Chief Magistrate Thilina Gamage issued the order following a request made by the Bribery Commission.
+
+Investigations uncovered that the vehicle was imported using falsified information provided to customs, resulting in the government being defrauded of more than Rs. 55 million in taxes.
+
+The confiscated vehicle, a Mitsubishi Montero jeep, belongs to a businessman from the Badulla area.
+
+◼️
+
+[Data](articles/d952fa0b.json)
+
+[Extended Data](ext_articles/d952fa0b.ext.json)
 
 ---
 
@@ -2293,73 +2361,5 @@ On Thursday (10) Dissanayake directed officials to allocate 11,000 acres of land
 [Data](articles/88548478.json)
 
 [Extended Data](ext_articles/88548478.ext.json)
-
----
-
-### It is disappointing that the Sri Lankan government has decided to continue the policies of the past and to oppose the mechanism of collecting evidence-
-
-*2024-10-11 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196045) · `ta`
-
-Sri Lankan government continues past policies, opposes evidence collection. UN Human Rights Council passes resolution focusing on Sri Lanka's human rights concerns. Civil society and international organizations request continued engagement. New government's stance raises doubts about addressing human rights violations. Resolution emphasizes need for meaningful improvements in justice and cooperation with UN mechanisms.
-
-🟩
-
-Babu Ram Bund, Deputy Regional Director of the Amnesty International, said that the new government of Sri Lanka is disappointed that the decision to continue the policies of the past and to oppose the evidence of evidence is disappointing.
-
-The United Nations Human Rights Council has passed the resolution on Sri Lanka, emphasizing the need for the international community to continue to focus on human rights concern in Sri Lanka.
-
-It is frustrating to support the support of the new resolution to support the responsibility of the new resolution.
-
-The civil society and international organizations have requested the decree for two years.
-
-As a country that will be held in the next month of the presidential election, it is necessary to liberate Sri Lanka from the past and maintain the best involvement with the United Nations Human Rights Council and the United Nations Human Rights Commissioner's Office.
-
-...
-
-[Data](articles/a1ae3d13.json)
-
-[Extended Data](ext_articles/a1ae3d13.ext.json)
-
----
-
-### Sri Lanka’s IHP says Harini popular PM choice, Sabry exit may be loss for party
-
-*2024-10-11 15:38:00* · [`economynextcom`](https://economynext.com/sri-lankas-ihp-says-harini-popular-pm-choice-sabry-exit-may-be-loss-for-party-183208/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s Institute for Health Policy (IHP) has released new polling data showing that the ruling National People’s Power (NPP)’s Harini Amarasuriya is a popular choice for the post of prime minister and that former minister Ali Sabry’s exit may be premature.
-
-In IHP Sri Lanka Opinion Tracker Survey (SLOTS) polling through 2024 prior to the presidential election, NPP leader Anura Kumara Dissanayake and MPs Amarasuriya, and Ali Sabry were consistently the most popular politicians tracked, IHP said in a statement on Friday October 11.
-
-After Dissanayake, Amarasuriya was the next most popular, suggesting she will be a popular choice for the PM post, the institute said.
-
-...
-
-[Data](articles/497cf224.json)
-
-[Extended Data](ext_articles/497cf224.ext.json)
-
----
-
-### The allowance for pensioners will come from the next week
-
-*2024-10-11 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202067) · `si`
-
-Pensioners to receive Rs. 3,000 allowance starting next week, as per President Anura Kumara Dissanayake's instructions.
-
-🟩
-
-President Anura Kumara Dissanayake has instructed the officials of the Finance Ministry to be given the monthly allowance of Rs. 3,000 from next week.
-
-The President has instructed the officials to credit the money to the accounts of pensioners within Rs. 3,000.
-
-President Anura Kumara Dissanayake and the top officials of the Ministry of Finance yesterday (10), the Presidential Media Unit announced.
-
-The President has already been sent to the pensioners' account to the pensioners in October, and the President has instructed the officials from next week to their accounts to their accounts.
-
-◼️
-
-[Data](articles/cee66a77.json)
-
-[Extended Data](ext_articles/cee66a77.ext.json)
 
 ---

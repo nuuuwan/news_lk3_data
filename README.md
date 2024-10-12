@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 22:12:53**
+As of **2024-10-12 22:24:20**
 
 ## Newspaper Stats
 
-*Scraped **49,151** Articles*
+*Scraped **49,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,95 @@ dailyftlk | 3,334
 adalk | 4,560
 dailymirrorlk | 4,733
 adaderanalk | 5,808
-tamilmirrorlk | 6,693
+tamilmirrorlk | 6,695
 virakesarilk | 7,858
-adaderanasinhalalk | 8,501
+adaderanasinhalalk | 8,502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,151 (100.0%) of 49,151 articles have been extended.
+49,154 (100.0%) of 49,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Two trains collide in India
+
+*2024-10-12 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202102) · `si`
+
+Train collision in Tamil Nadu, India: 19 injured, 4 critical. Investigation underway.
+
+🟩
+
+19 persons were injured when a passenger transport train in Tamil Nadu in India.
+
+The train accident occurred in the Vidyalaya in general central general general Thirumani, India at 8.30 pm yesterday.
+
+Evil - Durbanga Bagamathi Railway train was entered by the main railway after the main railway train and collided with a parked train.
+
+Indian media reported how the train boxes had toppled over 12 boxes on the passenger transport train.
+
+At the time of the accident, 1,360 persons were injured in the passenger train.
+
+Although no person has been reported so far in crash, the condition of four are in serious.
+
+An investigation into the accident has been launched and a special committee has been appointed.
+
+◼️
+
+[Data](articles/fffdb62f.json)
+
+[Extended Data](ext_articles/fffdb62f.ext.json)
+
+---
+
+### Timeline until tomorrow for presidential candidates
+
+*2024-10-12 21:28:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்களுக்கு-நாளை-வரை-காலக்கெடு/175-345327) · `ta`
+
+Presidential candidates deadline: Submit propaganda reports by 3 PM tomorrow. Only 13 out of 38 candidates have filed so far. Field Marshal Sarath Fonseka, Vijayadasa Rajapaksa, and Janaka Ratnayake have complied.
+
+🟩
+
+The presidential candidates have been granted time to submit their propaganda income and cost reports till 3 pm tomorrow (13).
+
+Of the 38 candidates who contested the presidential election, only 13 have submitted reports to the rules of the Commission.
+
+Field Marshal Sarath Fonseka, Vijayadasa Rajapaksa, and Janaka Ratnayake have submitted reports. (That)
+
+◼️
+
+[Data](articles/217a3491.json)
+
+[Extended Data](ext_articles/217a3491.ext.json)
+
+---
+
+### Initiative to improve national security awareness
+
+*2024-10-12 21:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பாதுகாப்பு-விழிப்புணர்வை-மேம்படுத்த-புதிய-திட்டம்-ஆரம்பம்/175-345326) · `ta`
+
+National security alert system: Defense Ministry launches direct mobile notifications for emergencies and human trafficking updates, collaborating with telcos and TRA.
+
+🟩
+
+A plan to send important information on national security directly to the mobile phones will be launched.
+
+Defense Ministry spokesman Colonel Nalin Herath said the scheme would provide immediate notifications during emergency circumstances.
+
+In addition, the scheme will be implemented in order to obtain information on human trafficking.
+
+It is noteworthy that the initiative will be implemented with the cooperation of the telephone service providers and the Telecommunication Regulatory Authority.. (That)
+
+◼️
+
+[Data](articles/f6edea41.json)
+
+[Extended Data](ext_articles/f6edea41.ext.json)
+
+---
 
 ### Thiefs of fear in areas
 
@@ -2369,69 +2445,5 @@ Turnover stood at Rs 2.3 billion with five crossings. Those crossings were repor
 [Data](articles/3984c319.json)
 
 [Extended Data](ext_articles/3984c319.ext.json)
-
----
-
-### President directs officials to provide Rs. 3,000 monthly allowance to pensioners immediately
-
-*2024-10-12 01:29:08* · [`dailyftlk`](https://www.ft.lk/news/President-directs-officials-to-provide-Rs-3-000-monthly-allowance-to-pensioners-immediately/56-767895) · `en`
-
-President Anura Kumara Dissanayake has instructed officials of the Ministry of Finance to take necessary action to provide a monthly interim allowance of Rs. 3000 to all pensioners, from next week.
-
-After reviewing the delay in adding the Rs. 3000 allowance to the October pension, the President directed that this amount be credited to the pensioners’ accounts within the next week.
-
-These instructions were given during a meeting held on Thursday with senior officials of the Ministry of Finance, chaired by President Anura Kumara Dissanayake.
-
-Despite the circular No. 02/2024 dated 2024/08/24 issued by the Public Administration Department to grant a monthly interim allowance of Rs. 3000 to all pensioners, funds were not allocated for this purpose.
-
-Upon reviewing the matter, President Anura Kumara Dissanayake informed the officials of the Ministry of Finance to ensure that the required funds are provided.
-
-...
-
-[Data](articles/ce4e119e.json)
-
-[Extended Data](ext_articles/ce4e119e.ext.json)
-
----
-
-### Transport Minister orders unrestricted use of student bus season tickets on holidays
-
-*2024-10-12 01:28:26* · [`dailyftlk`](https://www.ft.lk/news/Transport-Minister-orders-unrestricted-use-of-student-bus-season-tickets-on-holidays/56-767894) · `en`
-
-Transport Minister Vijitha Herath yesterday directed the National Transport Commission (NTC) to ensure that student season bus tickets issued to school, technical college and university students are valid for travel on Saturdays, Sundays and all public holidays.
-
-This decision comes in response to numerous complaints from students who have faced significant inconveniences when travelling on holidays using their season bus tickets.
-
-Herath emphasised the need for an immediate solution, instructing the NTC Chairman to make the necessary arrangements to allow students to travel freely on Sri Lanka Transport Board (SLTB) buses throughout the entire month.
-
-The directive aims to ease the financial burden on students, ensure their mobility and improving access to education and other essential services on non-academic days.
-
-◼️
-
-[Data](articles/aa64b025.json)
-
-[Extended Data](ext_articles/aa64b025.ext.json)
-
----
-
-### World Food Program assures continuous support to Sri Lanka
-
-*2024-10-12 01:27:46* · [`dailyftlk`](https://www.ft.lk/news/World-Food-Program-assures-continuous-support-to-Sri-Lanka/56-767893) · `en`
-
-The World Food Program (WFP) yesterday assured continuous support to Sri Lanka.
-
-This was conveyed by a WFP delegation to Secretary to the President, Dr. Nandika Sanath Kumanayake.
-
-During the meeting, the WFP representatives agreed to continue their on-going programs in Sri Lanka through the World Food Program, ensuring no disruptions.
-
-Although the food crisis in Sri Lanka has eased to some extent, the WFP officials expressed their willingness to extend further support through new programs whenever additional needs arise.
-
-The WFP delegation included WFP Country Director Abdur Rahim Siddiqui, the Government Partnerships Officer Musthafa Nihmath and the WFP Sri Lanka’s Deputy Country Director Gerard Rebello.  Additional Secretary to the President Roshan Gamage also attended the meeting.
-
-◼️
-
-[Data](articles/1cad5a79.json)
-
-[Extended Data](ext_articles/1cad5a79.ext.json)
 
 ---

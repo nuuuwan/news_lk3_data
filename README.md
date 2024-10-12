@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 18:58:10**
+As of **2024-10-12 19:08:59**
 
 ## Newspaper Stats
 
-*Scraped **49,132** Articles*
+*Scraped **49,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 3,018
 dailyftlk | 3,334
 adalk | 4,559
 dailymirrorlk | 4,733
-adaderanalk | 5,805
+adaderanalk | 5,806
 tamilmirrorlk | 6,689
 virakesarilk | 7,853
-adaderanasinhalalk | 8,495
+adaderanasinhalalk | 8,496
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,132 (100.0%) of 49,132 articles have been extended.
+49,134 (100.0%) of 49,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### President instructs to provide immediate relief to those affected by adverse weather
+
+*2024-10-12 18:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102638/president-instructs-to-provide-immediate-relief-to-those-affected-by-adverse-weather) · `en`
+
+President Anura Kumara Dissanayake has instructed officials to provide immediate relief to the people affected by the recent adverse weather conditions across the country.
+
+He also instructed the Secretary to the Ministry of Defence to ensure special attention is given to the safety of people in districts impacted by floods and landslides and to provide necessary support for effective relief operations, according to the President’s Media Division (PMD).
+
+The President emphasized that the government will take action to provide necessary assistance to all affected citizens and that local government officials in the affected areas will be engaged to ensure the people receive the required aid. Until such time, the President requested the public to act cautiously.
+
+Additionally, the President has instructed the Ministry of Finance to allocate Rs. 50 million for relief services and urged state officials to ensure proper coordination in delivering the relief to those in need.
+
+...
+
+[Data](articles/4fe1c685.json)
+
+[Extended Data](ext_articles/4fe1c685.ext.json)
+
+---
+
+### The definite defeat is also the usual defeat
+
+*2024-10-12 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202096) · `si`
+
+Sri Lanka Women's cricket team lost to New Zealand Women's team in a 20-over match. Chamari Atapattu led Sri Lanka, scoring 35 runs. New Zealand reached 116/7 in 17 overs, winning the game.
+
+🟩
+
+The Sri Lanka Women's Guneka Sri Lanka Women's Ground 20 cricket cricket cricket tournament was defeated today (12).
+
+Sri Lanka Leader Chamari Atapattu first, won the toss and elected to bat.
+
+Simali Gunaratne began with Sri Lanka innings Chamari Atapattu, and the first wicket was lost as the first wicket of the innings.
+
+Chamari Atapattu scored 35 runs and Hersha Samarawickrama scored 18 runs.
+
+Accordingly, the Sri Lanka women's group scored 115 runs for the loss of 5 wickets at the end of 20 overs.
+
+Chasing a target of 116, New Zealand Women's target passed its target for 7 wickets at last 17 overs.
+
+◼️
+
+[Data](articles/fbfbdadd.json)
+
+[Extended Data](ext_articles/fbfbdadd.ext.json)
+
+---
 
 ### Ajith Manapperuma quit the election
 
@@ -2293,53 +2341,5 @@ President Anura Kumara Dissanayake said that he had a productive virtual discuss
 [Data](articles/831c08d8.json)
 
 [Extended Data](ext_articles/831c08d8.ext.json)
-
----
-
-### 690 nomination filing for general election
-
-*2024-10-11 21:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-தேர்தலுக்காக-690-வேட்புமனு-தாக்கல்/175-345290) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"690 nominations filed, 74 rejected for Nov 14 general election."
-
-🟩
-
-The Elections Commission said that 690 nominations have been filed across the country for the general election on November 14.
-
-In addition, 74 nominations have been rejected in the nomination papers, said the Commissioner General of Elections Sri Ratnayake.
-
-◼️
-
-[Data](articles/2d363a5a.json)
-
-[Extended Data](ext_articles/2d363a5a.ext.json)
-
----
-
-### Two Sri Lanka UN peacekeepers injured in Israeli attack – FM
-
-*2024-10-11 21:09:00* · [`economynextcom`](https://economynext.com/two-sri-lanka-un-peacekeepers-injured-in-israeli-attack-fm-183283/) · `en`
-
-ECONOMYNEXT – Sri Lanka has condemned an Israeli attack at the headquarters of United Nations Interim Force in Lebanon (UNIFIL) which injured two Sri Lankan UN peacekeepers, the island nation’s Foreign Ministry said.
-
-“Sri Lanka strongly condemns the attack at UNIFIL’s headquarters in Naqoura, South Lebanon injuring two Sri Lankan UN peacekeepers,” the Ministry said in a statement.
-
-“Sri Lanka upholds the obligations to ensure the safety and security of UN personnel and inviolability of UN premises at all times.”
-
-The Foreign Ministry said the Sri Lanka Embassy in Beirut is in contact with UNIFIL regarding the medical attention and speedy recovery of the Sri Lankan peacekeepers.
-
-“Sri Lanka values the brave contribution of its UN peacekeepers worldwide.”
-
-The attack is the second on the same location in the last 48 hours, Al Jazeera reported.
-
-...
-
-[Data](articles/16c15bb5.json)
-
-[Extended Data](ext_articles/16c15bb5.ext.json)
 
 ---

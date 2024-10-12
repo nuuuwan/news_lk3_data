@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 00:55:29**
+As of **2024-10-13 00:38:40**
 
 ## Newspaper Stats
 
-*Scraped **49,163** Articles*
+*Scraped **49,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,334
 adalk | 4,560
 dailymirrorlk | 4,733
 adaderanalk | 5,809
-tamilmirrorlk | 6,698
+tamilmirrorlk | 6,697
 virakesarilk | 7,858
 adaderanasinhalalk | 8,504
 
@@ -26,29 +26,9 @@ adaderanasinhalalk | 8,504
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,162 (100.0%) of 49,163 articles have been extended.
+49,162 (100.0%) of 49,162 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-10-13 (Sunday)
-
-### வெள்ளத்தால் 22,064 பேர் பாதிப்பு
-
-*2024-10-13 00:42:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்தால்-22-064-பேர்-பாதிப்பு/175-345342) · `ta`
-
-பலத்த மழை மற்றும் வெள்ளத்தால் 22,064 பேர் பாதிக்கப்பட்டுள்ளதாக இடர் முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
-
-களனி கங்கை கொழும்பு நாகலகம்வீதி, ஹங்வெல்ல மற்றும் க்ளன்கோஸ் பகுதிகளில் சிறிய அளவிலான வௌ்ள மட்டத்தை அண்மித்துள்ளதுடன் கிங் கங்கை பத்தேகம பகுதியில் சிறிய அளவிலான வௌ்ள மட்டத்தை அண்மித்துள்ளதாக நீர்ப்பாசன திணைக்களம் தெரிவித்துள்ளது.
-
-குறித்த பகுதிகளை அண்மித்து தாழ்நிலப் பகுதிகளில் வாழும் மக்களை எச்சரிக்கையுடன் இருக்குமாறு நீர்ப்பாசன திணைக்களம் அறிவுறுத்தியுள்ளது.
-
-நீர் மட்டம் உயர்ந்துள்ளதால் களனி கங்கையின் பல இடங்களில் முப்படையினரின் உதவியுடன் மணல் மூடைகளை பயன்படுத்தி தற்காலிக வெள்ளத்தடுப்பு அணைகளை அமைக்கும் ஏற்பாடுகள் நேற்றிரவு முன்னெடுக்கப்பட்டதாக இடர் முகாமைத்துவ நிலையம் குறிப்பிட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/ce3ab551.json)
-
----
 
 ### 2024-10-12 (Saturday)
 
@@ -2453,5 +2433,35 @@ Even during the Korea Epidemiology, many women worked for the economy of the cou
 [Data](articles/c69a67c9.json)
 
 [Extended Data](ext_articles/c69a67c9.ext.json)
+
+---
+
+### The General Election 2024: Who is in the national lists of the major parties?
+
+*2024-10-12 03:17:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crl8px80j32o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Major parties' national list nominees for Sri Lanka's 2024 General Election include politicians, academics, journalists, and professionals. Notable names include Bimal Ratnayake, Mahinda Yapa Abeywardena, Namal Rajapaksa, and others from various fields. The system allows parties to select candidates based on vote share rather than district representation.
+
+🟩
+
+The General Election 2024: Who is in the national lists of the major parties?
+
+The nominations of political parties and independent candidates contesting for the general election were completed on Friday (Oct: 11).
+
+The total number of seats in the Parliament of Sri Lanka is 225, of which they are selected for 196 people.
+
+The aim of implementing the National List Methodology is to provide pre-established community relations and connection networks, which are not professionally established in politics, "providing the opportunity to join parliamentary functions including professionals, scholars and scholars, which are important professionals, which are important professionals, professionals and scholars of social support. '"The Verita Research Agency says.
+
+Through it, "the popular political figures are not acceptable, but in education and professional."
+
+...
+
+[Data](articles/a12e77a4.json)
+
+[Extended Data](ext_articles/a12e77a4.ext.json)
 
 ---

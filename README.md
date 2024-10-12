@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 20:57:50**
+As of **2024-10-12 21:08:46**
 
 ## Newspaper Stats
 
-*Scraped **49,145** Articles*
+*Scraped **49,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ bbccomsinhala | 491
 islandlk | 2,904
 economynextcom | 3,018
 dailyftlk | 3,334
-adalk | 4,559
+adalk | 4,560
 dailymirrorlk | 4,733
-adaderanalk | 5,807
+adaderanalk | 5,808
 tamilmirrorlk | 6,691
-virakesarilk | 7,857
+virakesarilk | 7,858
 adaderanasinhalalk | 8,500
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,145 (100.0%) of 49,145 articles have been extended.
+49,148 (100.0%) of 49,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Sivaram assassination - Lalit Kugan missing
+
+*2024-10-12 20:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/196135) · `ta`
+
+Sivaram assassination: Police investigate Lalith Kugan's disappearance. Public Security Ministry orders probe into Central Bank bailout. Death of police officer reported near Dabiley 15 Hotel in Weligama.
+
+🟩
+
+The Ministry of Public Security has ordered the police to expedite investigations into the disappearance of Lalith Kugan Lalit Kugan, the Mass of Dharmaratnam.
+
+The Public Security Ministry has requested the Central Bank to intensify investigations into the Central Bank bailout.
+
+The police spokesman said that the Public Security Response Chancellor has been asked to work with the CIT and the appropriate police on these incidents.
+
+The Defense Ministry has ordered the death of a police officer in the shooting near Dabiley 15 Hotel in Weligama
+
+◼️
+
+[Data](articles/c96a8165.json)
+
+[Extended Data](ext_articles/c96a8165.ext.json)
+
+---
+
+### Three including 3-yr-old boy killed after being hit by train
+
+*2024-10-12 20:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102640/three-including-3-yr-old-boy-killed-after-being-hit-by-train) · `en`
+
+Three persons including a three-year-old boy have reportedly died after being hit by a train near the Katukurunda railway station this evening (12).
+
+They had died after a collision with a train plying from Matara to Colombo, Ada Derana reporter said.
+
+Two males including the boy’s 22-year-old father were killed on the spot while three-year-old had succumbed to critical injuries after being admitted to the Kalutara Teaching Hospital.
+
+The deceased are reportedly residents of the Rajawatta area in Kalutara South.
+
+◼️
+
+[Data](articles/8fa11a36.json)
+
+[Extended Data](ext_articles/8fa11a36.ext.json)
+
+---
 
 ### Hesha - Lets are leaks
 
@@ -1045,6 +1089,32 @@ Many areas including Minuwangoda, Katana, Hanwella, Kaduwela, Kolonnawa, Pannala
 [Data](articles/50bceee1.json)
 
 [Extended Data](ext_articles/50bceee1.ext.json)
+
+---
+
+### Man dies after a clash due to land dispute
+
+*2024-10-12 12:13:35* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩම්-ආරවුලක්-නිසා-ඇති-වූ-ගැටුමකින්-පුද්ගලයෙකු-මරුට/11-412452) · `si`
+
+Land dispute leads to fatal clash: 3 injured, 1 dead. Two suspects arrested. Post-mortem scheduled. Investigation ongoing.
+
+🟩
+
+The three people who had been speaking to a chat with a person who was traveling from the Beliatta Police Station, owned by the Beliatta Police Station, had a dispute with him.
+
+Two of the three drunken of drinking were near the house near the land and had a clash. A 62-year-old woman, a 65-year-old man, and 18 years of injuries were injured in the hospital. The 65 year old injuries was reported at the Tangalle Base Hospital yesterday (11), Beliatta Police said.
+
+Beliatta Police say that the deceased has been boring in the area of ​​cutting abroad
+
+The post mortem will be taken to the Matara Hospital today (12), and the two suspects were taken into custody.He was spent.
+
+The reason for the incident is a land dispute and the Beliatta Police are conducting further investigations.
+
+◼️
+
+[Data](articles/86be6c02.json)
+
+[Extended Data](ext_articles/86be6c02.ext.json)
 
 ---
 
@@ -2333,61 +2403,5 @@ The awards, organised by Population First, a Mumbai-based social impact organisa
 [Data](articles/25c93f38.json)
 
 [Extended Data](ext_articles/25c93f38.ext.json)
-
----
-
-### Alsonic introduces eco-Friendly ODO Plus odour neutraliser
-
-*2024-10-12 01:10:08* · [`dailyftlk`](https://www.ft.lk/news/Alsonic-introduces-eco-Friendly-ODO-Plus-odour-neutraliser/56-767889) · `en`
-
-Alsonic Ltd., a leading provider of products and services in industries such as healthcare, automotive after-market solutions, interactive communication, logistics, and export businesses, has launched its latest innovation — ODO Plus, a natural odour neutraliser.
-
-Established in 2020, Alsonic is committed to eco-friendly solutions, and ODO Plus is a testament to that dedication.
-
-ODO Plus is a 100% organic, eco-friendly product designed to eliminate even the most stubborn odours in minutes. It does not mask unpleasant smells but effectively absorbs and neutralises them, making it a powerful solution for both domestic and industrial use. The product is safe for use around children and pets, further enhancing its appeal for households.
-
-ODO Plus Odour Neutraliser 500 ml sprayer, designed for everyday domestic use in homes and smaller spaces.
-
-...
-
-[Data](articles/60656249.json)
-
-[Extended Data](ext_articles/60656249.ext.json)
-
----
-
-### 53rd Intl. Seminar on Cardiovascular Disease Epidemiology and Prevention kicks off tomorrow in Colombo
-
-*2024-10-12 01:08:42* · [`dailyftlk`](https://www.ft.lk/news/53rd-Intl-Seminar-on-Cardiovascular-Disease-Epidemiology-and-Prevention-kicks-off-tomorrow-in-Colombo/56-767888) · `en`
-
-Sri Lanka is set to host the 53rd International Seminar on Cardiovascular Disease Epidemiology and Prevention (ISCEP) from 13 to 24 October 2024 in Colombo.
-
-Co-hosted by RemediumOne and the University of Kelaniya, this prestigious 10 day seminar will gather 36 global fellows and 10 internationally recognised experts in cardiovascular research and prevention, offering an immersive learning experience aimed at combating the global burden of cardiovascular diseases (CVDs).
-
-RemediumOne, a pioneering clinical research organisation in Sri Lanka, and the University of Kelaniya bring their extensive expertise in cardiovascular research to the forefront of this global event. RemediumOne has contributed to international studies in heart disease and stroke, while also championing decentralised clinical trials during the COVID-19 pandemic. Hosting ISCEP 2024 strengthens their commitment to advancing cardiovascular research, particularly in low- and middle-income countries (LMICs).
-
-...
-
-[Data](articles/fec9b575.json)
-
-[Extended Data](ext_articles/fec9b575.ext.json)
-
----
-
-### Marriott International’s annual charity “Road to give” today
-
-*2024-10-12 01:08:34* · [`dailyftlk`](https://www.ft.lk/news/Marriott-International-s-annual-charity-Road-to-give-today/56-767887) · `en`
-
-The Marriott International’s annual charity “Road to give” will be held today from 6.00 a.m. to 11.00 a.m.
-
-With the participation of 4 hotels and resorts under the Marriott Business Council which includes Sheraton Colombo, ITC Ratnadipa, Sheraton Kosgoda Turtle Beach Resort and Courtyard by Marriott Colombo, this walk will support the Indira Cancer Trust with the aim of generating further awareness and recognising the inequities in cancer care.
-
-This walk also encourages Marriott International associates to support meaningful local causes while engaging in different types of movement for their physical and mental well-being. “Road to give” will be open to all Associates and the public who wish to be a part of this initiative. The walk will commence at the Sheraton Colombo inviting participants to walk approximately 4.5 km, leading up to the Bank of Ceylon Tower with the finish point being ITC Ratnadipa.
-
-...
-
-[Data](articles/53ebce59.json)
-
-[Extended Data](ext_articles/53ebce59.ext.json)
 
 ---

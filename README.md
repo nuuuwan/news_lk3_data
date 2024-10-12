@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 16:23:34**
+As of **2024-10-12 16:38:52**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 8,490
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,120 (100.0%) of 49,121 articles have been extended.
+49,121 (100.0%) of 49,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
 
-### වර්ෂාවෙන් දුම්රිය ධාවනයට බාධා
+### Railway operation obstructed
 
 *2024-10-12 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202089) · `si`
 
-වර්ෂාව හේතුවෙන් පුත්තලම දුම්රිය මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවී තිබේ.
+Puttalam railway line train service disrupted due to rain. Limited transport to Lunuwila. Operations resume at 1 pm today.
 
-ඒ අනුව එම මාර්ගයේ දුම්රිය ගමනාගමන කටයුතු ලුනුවිල දක්වා පමණක් සිදුකෙරෙන බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-අද (12) දහවල් 01 සිට යළි දැනුම්දෙන තුරු දුම්රිය ධාවන කටයුතු ලුනුවිල දක්වා සිදුකරන බව වැඩිදුරටත් වාර්තා වෙයි.
+The train on the Puttalam railway line has been interrupted due to the rain.
+
+According to the Railway Department, Railway Transport will be done only to Lunuwila.
+
+It is also reported that the railway operations will be implemented from 1 noon to be resumed today (12).
 
 ◼️
 
 [Data](articles/b4764809.json)
+
+[Extended Data](ext_articles/b4764809.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 05:44:30**
+As of **2024-10-12 06:07:58**
 
 ## Newspaper Stats
 
-*Scraped **49,050** Articles*
+*Scraped **49,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 488
 bbccomsinhala | 489
-islandlk | 2,895
+islandlk | 2,903
 economynextcom | 3,016
 dailyftlk | 3,334
 adalk | 4,556
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,050 (100.0%) of 49,050 articles have been extended.
+49,055 (100.0%) of 49,058 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -81,6 +81,72 @@ Meanwhile, the district in the 2020 election;It is noteworthy that 16 parties an
 [Data](articles/8328a87e.json)
 
 [Extended Data](ext_articles/8328a87e.ext.json)
+
+---
+
+### SLT-MOBITEL shines as Runners-Up at 39th Annual Mercantile Athletics Championship 2024
+
+*2024-10-12 01:37:00* · [`islandlk`](http://island.lk/slt-mobitel-shines-as-runners-up-at-39th-annual-mercantile-athletics-championship-2024/) · `en`
+
+SLT-MOBITEL’s performance at the 39th Annual Mercantile Athletics Championships 2024 was met with acclaim as it secured the prestigious ‘39th Annual Mercantile Athletics Championships Runners-Up’ position at the three-day event, held recently, at the Sugathadasa Stadium, Colombo.
+
+During the highly competitive championship, SLT-MOBITEL’s athletics team competed against approximately 2,500 athletes from around 50 corporates. SLT-MOBITEL’s team emerged among the top performers, demonstrating exceptional skill, dedication, and teamwork to bring home multiple Challenge Trophies and accolades.
+
+The team’s exceptional performance also resulted in them winning the awards for Overall Runners-up Men, Best Athlete Novices Men and Best Athlete Over 40 Men. These accomplishments highlight the hard work, sporting spirit, and commitment of SLT-MOBITEL’s athletes, reflecting their motto, ‘Together, we can win.’
+
+...
+
+[Data](articles/6e2bd895.json)
+
+[Extended Data](ext_articles/6e2bd895.ext.json)
+
+---
+
+### Cutting-edge advancements unveiled in spine surgery
+
+*2024-10-12 01:33:00* · [`islandlk`](http://island.lk/cutting-edge-advancements-unveiled-in-spine-surgery/) · `en`
+
+Dr. S. Karunakaran, Director and Senior Consultant at Advanced Spine Specialty Centre MGM Healthcare Private Limited, Chennai, sheds light on cutting-edge advancements in spine surgery, emphasizing a monumental shift in surgical tools.
+
+Speaking to The Island Financial Review, Dr. Karunakaran explained how traditional methods are being replaced by innovative technology to increase precision and safety in spinal operations, especially for conditions like scoliosis.
+
+“Previously, we used the osteotome, a cutting tool that often caused unwanted neural damage due to slippage. Later, we advanced to high-speed burrs, which, despite their effectiveness, had to be continuously irrigated to prevent thermal damage to the bone and surrounding tissues. Even then, accidental contact with neural structures could result in permanent damage, Dr. Karunakaran explained.
+
+...
+
+[Data](articles/619de38a.json)
+
+[Extended Data](ext_articles/619de38a.ext.json)
+
+---
+
+### Aitken Spence Hotels sets new benchmark with highest regional awards at SATA 2024
+
+*2024-10-12 01:32:00* · [`islandlk`](http://island.lk/aitken-spence-hotels-sets-new-benchmark-with-highest-regional-awards-at-sata-2024/) · `en`
+
+Aitken Spence Hotels has made a remarkable impact at the South Asian Travel Awards 2024 (SATA), securing multiple prestigious awards for its exceptional properties in Sri Lanka, the Maldives, and India. This impressive performance not only positions Aitken Spence Hotels as a leader in the hospitality industry but also highlights its unwavering commitment to excellence and innovation. With the highest number of regional awards, the brand underscores its dedication to delivering outstanding experiences that celebrate the rich cultural and natural beauty of each destination.
+
+...
+
+[Data](articles/bb8ce1c3.json)
+
+[Extended Data](ext_articles/bb8ce1c3.ext.json)
+
+---
+
+### Standard Chartered appoints Tamani Dias as Head of Corporate Coverage
+
+*2024-10-12 01:31:00* · [`islandlk`](http://island.lk/standard-chartered-appoints-tamani-dias-as-head-of-corporate-coverage/) · `en`
+
+Standard Chartered Sri Lanka has appointed Tamani Dias as Executive Director / Head of Corporate Coverage, effective September 30, 2024. Tamani will oversee Sri Lanka’s Global Subsidiaries business, in addition to her existing responsibilities leading the Local & International Corporates business.
+
+Standard Chartered Sri Lanka CEO, Bingumal Thewarathanthri, stated, “We are pleased to announce the appointment of Tamani Dias as Head of Corporate Coverage for Sri Lanka. We are confident in her leadership and ability to drive business priorities, cultivating synergies that support the Bank’s network-focused business initiatives. Tamani’s extensive experience and commitment to empowering women in leadership roles also reflect Standard Chartered’s dedication to creating a diverse and inclusive workplace.”
+
+...
+
+[Data](articles/c52e7c4b.json)
+
+[Extended Data](ext_articles/c52e7c4b.ext.json)
 
 ---
 
@@ -2271,91 +2337,5 @@ In equities, Colombo’s All Share Price Index was trading 0.90 percent, or 109.
 [Data](articles/ce9b0582.json)
 
 [Extended Data](ext_articles/ce9b0582.ext.json)
-
----
-
-### Flood warnings issued for low-lying areas of Attanagalu Oya Basin
-
-*2024-10-11 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102611/flood-warnings-issued-for-low-lying-areas-of-attanagalu-oya-basin) · `en`
-
-The Irrigation Department has issued flood warnings for several of low-lying areas of Attanagalu Oya and Uruwal Oya river basins, effective until 9.45 a.m. on October 13.
-
-It states that a considerable rainfall has occurred in most of the catchment areas of Attanagalu Oya Basin as of 9.00 a.m. today (11).
-
-By analyzing the current rainfall situation and river water levels of Hydrological Stations in Attanagalu Oya, it is warned that there is a possibility of a flood situation occurring in some of low-lying areas of Attanagalu Oya and Uruwal Oya river basins situated in Diwulapitiya, Mirigama, Attanagalla, Mahara, Gampaha, Minuwangoda, Ja-Ela, Katana and Wattala divisional secretariat (DS) divisions within the next 48 hours.
-
-As a result, there is high possibility of inundating some of the roads running through these low-lying areas at some places, the department warned.
-
-...
-
-[Data](articles/91d0f899.json)
-
-[Extended Data](ext_articles/91d0f899.ext.json)
-
----
-
-### People ask for information about government vehicles
-
-*2024-10-11 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202056) · `si`
-
-Sri Lankan Police requests information about government vehicles through 1997 Special Telephone Number. They warn against providing false information and emphasize the importance of accuracy.
-
-🟩
-
-The Sri Lankan Police calls for the 1997 Special tele number of the Sri Lankan Police to inform the 1997 Special Telephone Number of Government Vehicles.
-
-In a statement, the government knows that the vehicles issued for various purposes are hidden in a particular site or to be hidden in some places or to be ordered to be ordered to be ordered to die.To immediately notify.
-
-Police say that the identity of the provinces fully preserves the identity of the information.
-
-However, the police emphasize that only true information should be given and legal against those who provide false information.
-
-◼️
-
-[Data](articles/1f2da760.json)
-
-[Extended Data](ext_articles/1f2da760.ext.json)
-
----
-
-### Flood risk
-
-*2024-10-11 10:31:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-வெள்ள-அபாயம்/175-345270) · `ta`
-
-Heavy rainfall causes water levels to rise in Attanagalu Oya. Flood warning issued for several districts including Divulapitiya, Mirigama, and Gampaha.
-
-🟩
-
-The water level of Attanagalu Oya has risen due to heavy rains across the country.
-
-Due to this, the Department of Irrigation has issued a flood warning to Divulapitiya, Mirigama, Attanagalla, Mahara, Gampaha, Minuwangoda, Ja-Ala, Katana and Wattala areas. Remble
-
-◼️
-
-[Data](articles/79f20a43.json)
-
-[Extended Data](ext_articles/79f20a43.ext.json)
-
----
-
-### Flood at several places in Gampaha
-
-*2024-10-11 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202055) · `si`
-
-Gampaha floods: Heavy rain causes overflow in Attanagalu Oya, affecting areas like Minuwangoda, Ja-Ela, Katana, Wattala. Water levels expected to rise in next 48 hours.
-
-🟩
-
-The Department of Irrigation has informed that the current rainfall of the Attanagalu Vandini has received significant rainfall over the past few hours.
-
-According to the announcement, the water levels maintained in the Attanagalu Oya basin have been analyzed that the water level is analyzed to the next 48 hours.
-
-Accordingly, the Department of Irrigation is informed that there is a flood in the Attanagalu Oya, Minuwangoda, Ja-Ela, Minuwangoda, Katana and Wattala Divisional Secretariats belonging to Divulapitiya, Mirigama, Attanagalla, Gampaha, Minuwangoda.
-
-◼️
-
-[Data](articles/6bd9ef6f.json)
-
-[Extended Data](ext_articles/6bd9ef6f.ext.json)
 
 ---

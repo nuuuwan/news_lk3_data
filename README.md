@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 20:09:26**
+As of **2024-10-12 20:23:25**
 
 ## Newspaper Stats
 
-*Scraped **49,142** Articles*
+*Scraped **49,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,807
 tamilmirrorlk | 6,691
 virakesarilk | 7,857
-adaderanasinhalalk | 8,497
+adaderanasinhalalk | 8,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,142 (100.0%) of 49,142 articles have been extended.
+49,143 (100.0%) of 49,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Two killed and child killed in train
+
+*2024-10-12 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202098) · `si`
+
+Train collision kills two adults, injures one; child dies later. Three pedestrians struck near Matara-Colombo route. Incident occurred evening of December 12th. Victims from South Rajawatta, Kalutara area.
+
+🟩
+
+Three persons collided with a train from Matara to Colombo.
+
+The three persons were hit by the train evening today (12).
+
+The two men were killed in the accident and was admitted to the Kalutara Teaching Hospital with injuries.
+
+Our correspondent said that the child had died after being admitted to the hospital.
+
+The victims were residents of South Rajawatta, Kalutara.
+
+◼️
+
+[Data](articles/410613bb.json)
+
+[Extended Data](ext_articles/410613bb.ext.json)
+
+---
 
 ### Acting IGP instructed to expedite investigations into seven high-profile cases
 
@@ -38,7 +64,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Ministry of Public Security has instructed the Acting IGP to expedite the police investigations into seven high-profile cases including the Easter Sunday bombings and the controversial Treasury Bond auction in 2015.
 
-Instructions have also been given to expedite investigations into the death of businessman Dinesh Schaffter death and the death of a police officer during the shooting incident at the “W15 Hotel” in Weligama in 2023, according to the Police Spokesman.
+Instructions have also been given to expedite investigations into the death of businessman Dinesh Schaffter death and the death of a police officer during the shooting incident near the “W15” Hotel in Weligama in 2023, according to the Police Spokesman.
 
 Police Spokesman DIG Nihal Thalduwa said the Ministry of Public Security has instructed the Acting IGP to direct special attention and to expedite several special investigations being carried out by the Criminal Investigations Department (CID) and other agencies as the progress of these investigations have been observed to be somewhat insufficient.
 
@@ -2355,29 +2381,5 @@ Representatives of the World Food Scheme have told the president's secretary tha
 [Data](articles/493965d8.json)
 
 [Extended Data](ext_articles/493965d8.ext.json)
-
----
-
-### ஜனாதிபதி - சமந்தா பவர் கலந்துரையாடல்
-
-*2024-10-12 00:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-சமந்தா-பவர்-கலந்துரையாடல்/175-345293) · `ta`
-
-President Anura Kumara Dissanayake met Samantha Power from US Agency for International Development. They discussed cooperation between Sri Lanka and USAID, emphasizing unity in policies and USAID's support for Sri Lankan welfare development activities.
-
-🟩
-
-A discussion between President Anura Kumara Dissanayake and Samantha Power of the United States Agency for International Development was held yesterday (11) through internet technology.
-
-The President and Samantha Power were discussed on a variety of mutual issues and discussed the opportunity to increase the cooperation between Sri Lanka and the United States Agency for International Development in the future.
-
-He pointed out the unity between the government's policy report and the policies of the United States Agency for International Development, and said to the President that the United States Agency would be fully supportive of the US Agency for the welfare of the people.
-
-Samantha Power further pointed out that these activities will help to expand Sri Lanka's development activities and increase the cooperation between the United States Agency for International Development and Sri Lanka.. (A)
-
-◼️
-
-[Data](articles/34321bba.json)
-
-[Extended Data](ext_articles/34321bba.ext.json)
 
 ---

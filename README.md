@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 09:11:23**
+As of **2024-10-12 09:23:26**
 
 ## Newspaper Stats
 
-*Scraped **49,072** Articles*
+*Scraped **49,073** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,334
 adalk | 4,556
 dailymirrorlk | 4,733
 adaderanalk | 5,797
-tamilmirrorlk | 6,668
+tamilmirrorlk | 6,669
 virakesarilk | 7,844
 adaderanasinhalalk | 8,480
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,480
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,072 (100.0%) of 49,072 articles have been extended.
+49,073 (100.0%) of 49,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Sahitya Awards Ceremony temporarily cancel
+
+*2024-10-12 09:04:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாகித்ய-விருது-விழா-தற்காலிகமாக-இரத்து/175-345300) · `ta`
+
+Sahitya Awards Ceremony cancelled due to Election Commission orders. Scheduled for Nov 14th. Ministry of Buddha Sasana announces postponement.
+
+🟩
+
+According to the instructions of the Elections Commission, the State Literary Award and the State Children's Drama Festival has been temporarily canceled, the Ministry of Buddha Sasana, Religious Cultural Affairs, National Integration, Social Security and Mass Media said.
+
+The State Literary Awards Ceremony and the State Children's Drama Festival will be held on the 14th of November.
+
+◼️
+
+[Data](articles/ebfa96c5.json)
+
+[Extended Data](ext_articles/ebfa96c5.ext.json)
+
+---
 
 ### President holds virtual discussion with USAID Administrator on future cooperation
 
@@ -2317,35 +2337,5 @@ Damitha Abeyratne, a veteran ranking force to contest the coming general electio
 [Data](articles/bb4d19a4.json)
 
 [Extended Data](ext_articles/bb4d19a4.ext.json)
-
----
-
-### Another group of probe not to elected to the general election
-
-*2024-10-11 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202060) · `si`
-
-Several former politicians have announced they will not run in the upcoming general election. This includes former ministers, parliamentarians, and party leaders from major political parties. The decision not to contest is attributed to various reasons such as personal preferences, health issues, or strategic considerations.
-
-🟩
-
-හිටපු මැතිඇමතිවරුන්ගෙන් තවත් පිරිසක් මෙවර මහ මැතිවරණයට ඉදිරිපත් නොවන බවට ප්‍රකාශ කර තිබේ.
-
-පසුගිය‍ ආණ්ඩුවේ නාගරික සංවර්ධන හා නිවාස අමාත්‍යවරයා ලෙස කටයුතු කළ ප්‍රසන්න රණතුංග මහතා මෙවර මහ මැතිවරණයට තරඟ නොකරන බව තහවුරු කර තිබේ.
-
-Kanakara Herath, the State Minister of Technology and Technology, is not present at the general election.
-
-Former Parliamentarian Chamal Rajapaksa, Hambantota District Chamal Rajapaksa, is also not contesting this year's general election.
-
-Former UNP MP WDJ Ratnapura, Ratnapura District MP. Seneviratne has also decided not to present this year's general election.
-
-අම්පාර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී විමලවීර දිසානායක මහතා ද මෙවර මහ මැතිවරණයට ඉදිරිපත් නොවන බව අද සඳහන් කළේය.
-
-United National Party Advanced Viraj Kariyawasam has also decided not to contest the general election.
-
-◼️
-
-[Data](articles/108eaef9.json)
-
-[Extended Data](ext_articles/108eaef9.ext.json)
 
 ---

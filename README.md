@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 18:41:58**
+As of **2024-10-12 18:58:10**
 
 ## Newspaper Stats
 
-*Scraped **49,131** Articles*
+*Scraped **49,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 491
 islandlk | 2,904
 economynextcom | 3,018
 dailyftlk | 3,334
-adalk | 4,558
+adalk | 4,559
 dailymirrorlk | 4,733
 adaderanalk | 5,805
 tamilmirrorlk | 6,689
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,495
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,131 (100.0%) of 49,131 articles have been extended.
+49,132 (100.0%) of 49,132 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -709,6 +709,28 @@ Many areas including Minuwangoda, Katana, Hanwella, Kaduwela, Kolonnawa, Pannala
 [Data](articles/50bceee1.json)
 
 [Extended Data](ext_articles/50bceee1.ext.json)
+
+---
+
+### The Prime Minister also corrects
+
+*2024-10-12 12:06:22* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිනියත්-වරද-නිවරදි-කරයි/11-412451) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Prime Minister's Office clarifies: All requests for information should go through the Prime Minister's Office and Cabinet first. This applies to all government programs and initiatives.
+
+🟩
+
+The Prime Ministerial Secretariat says the Prime Minister's Office should be obtained from the Prime Minister's Office and the Cabinet for the Prime Minister before the government was propagated for various programs.
+
+◼️
+
+[Data](articles/0714607c.json)
+
+[Extended Data](ext_articles/0714607c.ext.json)
 
 ---
 
@@ -2319,33 +2341,5 @@ The attack is the second on the same location in the last 48 hours, Al Jazeera r
 [Data](articles/16c15bb5.json)
 
 [Extended Data](ext_articles/16c15bb5.ext.json)
-
----
-
-### 17 political parties and 11 independent groups competition in Nuwara Eliya district
-
-*2024-10-11 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/196072) · `ta`
-
-17 political parties and 11 independent groups contesting in Nuwara Eliya district for 2024 general election.
-
-🟩
-
-17 recognized political parties and 11 independent groups in Nuwara Eliya district are eligible to contest the election.
-
-Nuwara Eliya District Election Officer and District Secretary Nandana Kalada said that the nominations for 17 recognized political parties and 11 independent groups have been received for the 2024 general election.
-
-15 independent groups and 20 recognized political parties filed nominations for the Nuwara Eliya district at 12 noon today.
-
-04 Independent Committees and Eros Democratic Front, National People's Party and Arunalu People's Front have been rejected.
-
-Authorized political parties in the Nuwara Eliya district for the upcoming parliamentary election on November 14;
-
-The United Socialist Party is contesting and 11 independent groups are eligible to contest the election.
-
-◼️
-
-[Data](articles/2ca3566f.json)
-
-[Extended Data](ext_articles/2ca3566f.ext.json)
 
 ---

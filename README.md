@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 15:39:05**
+As of **2024-10-12 15:57:41**
 
 ## Newspaper Stats
 
-*Scraped **49,117** Articles*
+*Scraped **49,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,803
 tamilmirrorlk | 6,685
 virakesarilk | 7,853
-adaderanasinhalalk | 8,487
+adaderanasinhalalk | 8,488
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,117 (100.0%) of 49,117 articles have been extended.
+49,118 (100.0%) of 49,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Two jeeps found
+
+*2024-10-12 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202086) · `si`
+
+Tangalle police seize two vehicles: a white pick-up truck hidden in a house and a black workshop owned by Kozgaslanda Engineering Company. Former Deputy Chairman Amila Abeysekera involved in investigation.
+
+🟩
+
+Former Deputy Chairman of Tangalle Pradeshiya Sabha, Amila Abeysekera has taken steps to suspect a pierger jeep that was hidden in a house on Weerasinghe Road, Beliatta.
+
+The raid was carried out by the Tangalle Police Crime Division.
+
+Meanwhile, the Beliatta Police have also seized a black-owned workspiration of the Kozgaslanda Engineering Company in the Kosgaslanda area in Kosgaslanda area.
+
+◼️
+
+[Data](articles/50d068d5.json)
+
+[Extended Data](ext_articles/50d068d5.ext.json)
+
+---
 
 ### Gunmen kill 21 coal miners in troubled southwestern Pakistan
 
@@ -2345,19 +2367,5 @@ Ratnapura District - Eheliyagoda, Kiriella, ⁠ Ayalla, Kalawana, Ratnapura, Kur
 [Data](articles/9c9e92f3.json)
 
 [Extended Data](ext_articles/9c9e92f3.ext.json)
-
----
-
-### National List of ‘Sarvajana Balaya’ revealed
-
-*2024-10-11 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102624/national-list-of-sarvajana-balaya-revealed) · `en`
-
-The “Sarvajana Balaya” alliance has released its list of candidates nominated to be appointed as national list members of parliament (National List MPs) in the 2024 General Election.
-
-◼️
-
-[Data](articles/8a297e0a.json)
-
-[Extended Data](ext_articles/8a297e0a.ext.json)
 
 ---

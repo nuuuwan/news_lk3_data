@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 12:12:16**
+As of **2024-10-12 12:56:39**
 
 ## Newspaper Stats
 
-*Scraped **49,094** Articles*
+*Scraped **49,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 488
 bbccomsinhala | 491
-islandlk | 2,903
-economynextcom | 3,017
+islandlk | 2,904
+economynextcom | 3,018
 dailyftlk | 3,334
-adalk | 4,557
+adalk | 4,558
 dailymirrorlk | 4,733
 adaderanalk | 5,800
-tamilmirrorlk | 6,681
+tamilmirrorlk | 6,682
 virakesarilk | 7,844
 adaderanasinhalalk | 8,483
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 8,483
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,094 (100.0%) of 49,094 articles have been extended.
+49,098 (100.0%) of 49,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Western, Southern Province Roads Freeze
+
+*2024-10-12 12:14:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேல்-தென்-மாகாண-வீதிகள்-முடக்கம்/175-345313) · `ta`
+
+Flooding affects roads in Western and Southern Provinces. Multiple routes blocked, especially in Kalutara district. Areas like Minuwangoda, Katana, and Homagama also impacted.
+
+🟩
+
+In the upper and Southern provinces, traffic on many streets has been cut off due to floods.
+
+The Most of the roads have been affected in the Kalutara district, the Disaster Management Center said.
+
+Accordingly, the roads of Bandaragama - Kolamiriya, Balindanuwara - Baduraliya, Paralavitta - Avittawa, Kalutara - Matugama, Pulathsingha - Molca have been flooded.
+
+Many areas including Minuwangoda, Katana, Hanwella, Kaduwela, Kolonnawa, Pannala, Homagama have been flooded. (An)
+
+◼️
+
+[Data](articles/50bceee1.json)
+
+[Extended Data](ext_articles/50bceee1.ext.json)
+
+---
+
+### Sri Lanka sees slight increase in active credit cards this year
+
+*2024-10-12 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-slight-increase-in-active-credit-cards-this-year-183307/) · `en`
+
+ECONOMYNEXT – Active credit cards in Sri Lanka have edged up by 0.5 percent or 11,293 in the first eight months of this year, while the outstanding balance in credit cards saw a marginal drop in the same period, the latest Central Bank data showed.
+
+The number of active credit cards rose to 1,928,378 by the end August this year from 1,917,085 by the end of last year.
+
+Active credit cards in Sri Lanka have fell nearly 2 percent or 35,655 in the first eight months of last year.
+
+Analysts said Sri Lanka’s economic recovery and stability have helped customers to use more credit cards than last year.
+
+The number of active credit cards fell to 1,917,336 by the end August 2023 from 1,952,991 by the end of 2022, the central bank data showed.
+
+Some analysts said higher interest (penalty) rates on credit cards also would have prompted some users to cancel their cards in the last year and the same customers might be actively using the cards now.
+
+...
+
+[Data](articles/93647679.json)
+
+[Extended Data](ext_articles/93647679.ext.json)
+
+---
 
 ### Removes security stalls near Temple Trees
 
@@ -357,6 +405,34 @@ More than 50 politicians have quit the election this year, said Manjula Gajanaya
 [Data](articles/7a9351b3.json)
 
 [Extended Data](ext_articles/7a9351b3.ext.json)
+
+---
+
+### President and Samantha Power talks
+
+*2024-10-12 09:17:49* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-සමන්තා-පවර්-සාකච්ඡා/11-412450) · `si`
+
+Here's a 200-character summary:
+
+
+
+"President Anura Kumara Dissanayake met Samantha Power via video conference. They discussed key issues, including US aid for Sri Lanka and international development cooperation. Power emphasized alignment between US policies and Sri Lankan government goals, noting strong public support for USAID efforts."
+
+🟩
+
+A meeting between President Anura Kumara Dissanayake and the United States Agency of US Agency (USAID) was through online technology.
+
+The President and Samantha Power had commented on several mutual important points, and cooperation between US agency for Sri Lanka and international development in Sri Lanka and international development
+
+Samantha Power, which pointed out the equivalent of the policies of the government's policy statement and the principles of the US agency's policies, the US Agency is fully supported by the people.
+
+Samana Power, the US Agency of Sri Lanka and the US Agency of Sri Lanka and the US Agency for International Development will further further strengthen.
+
+◼️
+
+[Data](articles/858f3cc6.json)
+
+[Extended Data](ext_articles/858f3cc6.ext.json)
 
 ---
 
@@ -961,6 +1037,22 @@ Standard Chartered Sri Lanka CEO, Bingumal Thewarathanthri, stated, “We are pl
 [Data](articles/c52e7c4b.json)
 
 [Extended Data](ext_articles/c52e7c4b.ext.json)
+
+---
+
+### World Bank-inspired buoyancy continues in stock market
+
+*2024-10-12 01:30:00* · [`islandlk`](http://island.lk/world-bank-inspired-buoyancy-continues-in-stock-market/) · `en`
+
+The stock market bounced back yesterday after witnessing profit- takings over the last few days. A favourable growth forecast of 4.4 percent for 2024 by the World Bank helped the bourse to move up, market analysts said.The All Share Price Index went up by 130.5 points, while S and P SL20 rose by 34.48 points.
+
+Turnover stood at Rs 2.3 billion with five crossings. Those crossings were reported in JKH, which crossed 1.1 million shares to the tune of Rs 616 million; its shares traded at Rs 196, Digital Mobile Solutions Limited 2.3 million shares crossed for Rs 88.5 million; its shares traded at Rs 38.50, Royal Ceramic 805,000 shares crossed for Rs 26.5 million; its shares traded at Rs 33, Chevron Lubricants 185,000 shares crossed for Rs 23.2 million; its shares sold at Rs 125.75 and CIC 300,000 shares crossed to the tune of Rs 22.7 million; it’s shares fetched Rs 75.8.
+
+...
+
+[Data](articles/3984c319.json)
+
+[Extended Data](ext_articles/3984c319.ext.json)
 
 ---
 
@@ -2271,95 +2363,5 @@ The interim allowance of Rs.
 [Data](articles/822841c2.json)
 
 [Extended Data](ext_articles/822841c2.ext.json)
-
----
-
-### Rs. 3,000 monthly allowance for pensioners from next week
-
-*2024-10-11 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102619/rs-3000-monthly-allowance-for-pensioners-from-next-week) · `en`
-
-President Anura Kumara Dissanayake has instructed officials of the Ministry of Finance to take necessary action to provide a monthly interim allowance of Rs. 3,000 to all pensioners, from next week, the President’s Media Division (PMD) said.
-
-After reviewing the delay in adding the Rs. 3,000 allowance to the October pension, the President directed that this amount be credited to the pensioners’ accounts within the next week.
-
-These instructions were given during a meeting held yesterday (10) afternoon at the Presidential Secretariat with senior officials of the Ministry of Finance, chaired by President Anura Kumara Dissanayake, the PMD reported.
-
-Despite the circular No. 02/2024 dated 2024/08/24 issued by the Public Administration Department to grant a monthly interim allowance of Rs. 3,000 to all pensioners, funds were not allocated for this purpose.
-
-...
-
-[Data](articles/de414bae.json)
-
-[Extended Data](ext_articles/de414bae.ext.json)
-
----
-
-### Bicycle - Motorcycle collided face -to -face;One kills!
-
-*2024-10-11 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196044) · `ta`
-
-Bicycle-Motorcycle collision: 96-year-old killed. Police investigation ongoing. Driver arrested.
-
-🟩
-
-Police said the driver of the bicycle and a motorcycle collided head -on, police said yesterday (10).
-
-The deceased is a 96 -year -old resident of Pandukapayapura, Anuradhapura.
-
-The accident occurred in the opposite direction of a motorcycle that was traveling in the opposite direction of the bicycle traveling from Anuradhapura to Pandukabayapura area on the left side of the Koneva junction on the Anuradhapura - Jaffna main road.
-
-The driver of the bicycle and motorcycle drivers who were injured in the accident were admitted to the Rambawewa Hospital, police said.
-
-The body has been placed in the Rambewa Hospital in the funeral room and the motorcycle driver has been arrested in connection with the accident.
-
-◼️
-
-[Data](articles/421b3e6e.json)
-
-[Extended Data](ext_articles/421b3e6e.ext.json)
-
----
-
-### Nobel Peace Prize for survivors from nuclear bomb
-
-*2024-10-11 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202068) · `si`
-
-Nobel Peace Prize 2024 awarded to Japanese nuclear bomb survivors. The Nobel Committee honored them for their efforts to prevent global nuclear proliferation, specifically referencing the devastating effects of Hiroshima and Nagasaki. This recognition aims to promote peace and disarmament worldwide.
-
-🟩
-
-A group survived of nuclear bombs in Japan was awarded the Nobel Peace Prize for 2024.
-
-The Nobel Committee said that the Nobel Peace Prize was awarded this year for the world's nuclear boss for the nuclear bombs of the world, Hiroshima and Nagasaki.
-
-◼️
-
-[Data](articles/15a4d226.json)
-
-[Extended Data](ext_articles/15a4d226.ext.json)
-
----
-
-### Sri Lanka president orders pension allowance ahead of elections
-
-*2024-10-11 15:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-orders-pension-allowance-ahead-of-elections-183209/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has directed officials to pay pensioners an allowance of 3,000 within next week, ahead of a general election.
-
-“Directed officials from the Ministry of Finance to ensure that all pensioners receive a monthly interim allowance of Rs. 3,000 starting next week,” Dissanayake said on X.
-
-“After reviewing delays in adding the allowance to the October pension, I’ve instructed that the funds be credited within the week.”
-
-President @anuradisanayake has instructed Ministry of Finance officials to provide a monthly interim allowance of Rs. 3,000 to all pensioners starting next week. (1/2) pic.twitter.com/yvWNCPlu5Y
-
-— President's Media Division of Sri Lanka – PMD (@PMDNewsGov) October 11, 2024
-
-On Thursday (10) Dissanayake directed officials to allocate 11,000 acres of land, owned by the Kantale Sugar Company, to farmers for short-term crop cultivation.
-
-...
-
-[Data](articles/88548478.json)
-
-[Extended Data](ext_articles/88548478.ext.json)
 
 ---

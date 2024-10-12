@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 15:08:58**
+As of **2024-10-12 15:23:16**
 
 ## Newspaper Stats
 
-*Scraped **49,116** Articles*
+*Scraped **49,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,803
 tamilmirrorlk | 6,685
 virakesarilk | 7,853
-adaderanasinhalalk | 8,486
+adaderanasinhalalk | 8,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,114 (100.0%) of 49,116 articles have been extended.
+49,117 (100.0%) of 49,117 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,59 @@ Among the dead were four Afghan nationals; another four were injured.
 
 [Data](articles/f65b2a7c.json)
 
+[Extended Data](ext_articles/f65b2a7c.ext.json)
+
 ---
 
-### மரக்கறிகளின் விலையில் பாரிய வீழ்ச்சி
+### 8 suicide events a day in Sri Lanka
+
+*2024-10-12 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202085) · `si`
+
+Sri Lanka: 8 daily suicides. Psychiatrist warns parents about behavioral changes. Suicide rate ranks 21 globally. Support hotline: 1926 or 1333.
+
+🟩
+
+The Sri Lanka Medical Association revealed that there are about eight suicide events in the country.
+
+He held a news conference, psychiatrist said, parents should be careful to send a child to doctors immediately if there is a change in the behavior of a child.
+
+The Chairman of the Psychiaturi Medical Association, Dr. Sampan Amarasinghe said that Sri Lanka is in the 21st of the world with suicide events.
+
+However, the suicide tendency is still high in Sri Lanka, he said.
+
+Anuradha Herath, child and youthful child in Kalubowila Teaching Hospital speaking,
+
+"If suicide thoughts are down, 1926 or 1333 can speak to support services. Most important, give the advice to the child. "
+
+◼️
+
+[Data](articles/50c7fb63.json)
+
+[Extended Data](ext_articles/50c7fb63.ext.json)
+
+---
+
+### Massive fall in the price of vegetables
 
 *2024-10-12 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196104) · `ta`
 
-கடும் மழையுடனான வானிலையால் மரக்கறிகளின் விலையில் பாரிய வீழ்ச்சி ஏற்பட்டுள்ளதாக பேலியகொடை மெனிங் சந்தையின் பொது வர்த்தக சங்கத்தின் உப தலைவர் தெரிவித்துள்ளார்.
+Heavy rains cause vegetable prices to plummet. Green chilies: 400rs/kg, onions: 250rs/kg, potatoes: 160rs/kg. Other veggies also see significant drops.
 
-ஒரு கிலோ கரட் 100 ரூபாவாகவும், ஒரு கிலோ பச்சை மிளகாய் 200 ரூபாவாகவும், ஒரு கிலோ கறி மிளகாய்  400 ரூபாவாகவும், ஒரு கிலோ போஞ்சி  280 ரூபாவாகவும், ஒரு கிலோ லீக்ஸ் 160 ரூபாவாகவும், ஒரு கிலோ கோவா 100 ரூபாவாகவும், ஒரு கிலோ தக்காளி 250 ரூபாவாகவும் விற்பனை செய்யப்படுகிறது.
+🟩
 
-இதேவேளை, ஒரு கிலோ பாகற்காய் 350 ரூபாவாகவும் , ஒரு கிலோ முள்ளங்கி  50 ரூபாவாகவும், ஒரு கிலோ புடலங்காய்  200 ரூபாவாகவும், ஒரு கிலோ  வெண்டைக்காய்  100 ரூபாவாகவும், ஒரு கிலோ பூசணி  100 ரூபாவாகவும், ஒரு கிலோ பீர்க்கங்காய்  150 ரூபாவாகவும் விற்பனை செய்யப்படுகிறது.
+The Vice President of the General Trade Association of the Peliyagoda Menning Market said that heavy rains have caused a massive drop in the price of vegetables.
 
-...
+One kilogram is sold at 100 rupees, one kilogram of green chillies, one kilogram of curry chilli at 400 rupees, one kg pony 280 rupees, one kilogram of leaks 160 rupees, a kilo of Goa at 100 rupees and a kilo of tomatoes at 250 rupees.
+
+Meanwhile, one kilogram is sold at 350 rupees, one kilogram of radish 50 rupees, one kilogram of pudding at Rs.
+
+In addition, one kilogram of onion is Rs.He added that one kilogram of onion is sold at 250 rupees and a kilo of potatoes at 160 rupees.
+
+◼️
 
 [Data](articles/abec5f6c.json)
+
+[Extended Data](ext_articles/abec5f6c.ext.json)
 
 ---
 
@@ -2321,29 +2359,5 @@ The “Sarvajana Balaya” alliance has released its list of candidates nominate
 [Data](articles/8a297e0a.json)
 
 [Extended Data](ext_articles/8a297e0a.ext.json)
-
----
-
-### Seizure
-
-*2024-10-11 18:12:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-அரச-வாகனம்-கைப்பற்றல்/175-345283) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Tangalle CID office seized after government vehicle found near suspect's home. Vehicle linked to former local council deputy chairman. Police conducting preliminary investigation."
-
-🟩
-
-The Tangalle Division Criminal Investigation Division (Tangalle) was seized this afternoon after a government -owned vehicle was parked near a house in Weerasinghe Mawatha, Baliyatta - Bukkantanda.
-
-Preliminary investigations have revealed that the vehicle was used by a former deputy chairman of the Tangalle Local Government Council, police said.(An)
-
-◼️
-
-[Data](articles/966a684d.json)
-
-[Extended Data](ext_articles/966a684d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 17:59:53**
+As of **2024-10-12 18:18:58**
 
 ## Newspaper Stats
 
-*Scraped **49,126** Articles*
+*Scraped **49,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,805
 tamilmirrorlk | 6,687
 virakesarilk | 7,853
-adaderanasinhalalk | 8,492
+adaderanasinhalalk | 8,493
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,126 (100.0%) of 49,126 articles have been extended.
+49,127 (100.0%) of 49,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### There is no courageous opposition to be in the opposition everyday - Dilith
+
+*2024-10-12 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202093) · `si`
+
+Dilith Jayaweera emphasizes courageous opposition, not constant criticism. He advocates for strategic planning and entrepreneurship to drive economic growth. The opposition should focus on meaningful change rather than petty squabbles.
+
+🟩
+
+The Normor power leader Dilith Jayaweera says he can do more than a government can do more than a government can do more.
+
+He further stated that the opposition is not always in the opposition everyday.
+
+He was speaking at a special meeting of candidates contesting the parliamentary election this year (12) under the leadership of Mr. Dilith Jayaweera.
+
+"We're talking about nationality. Not racism. Many people are afraid to say that nationality in Sri Lanka is based on Sinhala Buddhist meeting. They think that people are angry. "
+
+"Politicians have politicians to choose the racist's racist's racist. It's guys in the South.. Do the one in the North. We are against it. "
+
+"If you can bring all the country to an entrepreneurial mind that can be taken to economic advancement."
+
+"After the flood, we look at the floods.. Can't do this. There should be a strategic plan. The countries have improved. "
+
+...
+
+[Data](articles/b058ee9d.json)
+
+[Extended Data](ext_articles/b058ee9d.ext.json)
+
+---
 
 ### Death on the spot
 
@@ -2315,37 +2345,5 @@ Sri Lankans are employed in the Nurses Service Division of Israel and Sri Lankan
 [Data](articles/0fdb3fe7.json)
 
 [Extended Data](ext_articles/0fdb3fe7.ext.json)
-
----
-
-### 429 candidates in the Puttalam district
-
-*2024-10-11 19:30:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-மாவட்டத்தில்-429-வேட்பாளர்கள்-களத்தில்/175-345288) · `ta`
-
-Puttalam district election summary: 429 candidates, 39 parties contesting, nominations accepted/rejected, security measures in place.
-
-🟩
-
-Puttala District Secretary and Puttalam District Election Officer HMSP. Said Herath.
-
-In addition, 24 registered political parties and 15 independent groups are contesting in the Puttalam district.
-
-The Department of Elections has given time to hold nominations for the parliamentary general election to be held on November 14 from October 4 to October 11.
-
-Accordingly, the nomination papers at the Puttalam District Secretariat till 12 noon today (11). The thas were accepted.
-
-Thereafter, from 12 noon to 1.30 pm, the deadline for objections was given.
-
-In the general election, a total of 44 political parties have filed nominations in Puttalam district, 26 political parties and 18 independent groups.
-
-In the meantime, the nominations of 2 political parties and 3 self -sufficiency groups have been rejected.
-
-The Sinhala Deepa Jathika Peramuna and the Samapima Party have been rejected by the Puttalam district election officer. Said Herath.
-
-...
-
-[Data](articles/2c4f2d39.json)
-
-[Extended Data](ext_articles/2c4f2d39.ext.json)
 
 ---

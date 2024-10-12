@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 10:11:40**
+As of **2024-10-12 10:39:07**
 
 ## Newspaper Stats
 
-*Scraped **49,079** Articles*
+*Scraped **49,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,017
 dailyftlk | 3,334
 adalk | 4,557
 dailymirrorlk | 4,733
-adaderanalk | 5,797
+adaderanalk | 5,798
 tamilmirrorlk | 6,671
 virakesarilk | 7,844
 adaderanasinhalalk | 8,482
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,079 (100.0%) of 49,079 articles have been extended.
+49,080 (100.0%) of 49,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Met. Dept. issues ‘red alert’ for strong winds and rough seas
+
+*2024-10-12 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102631/met-dept-issues-red-alert-for-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued a ‘Red’ alert for the sea areas off the coasts extending from Puttalam to Hambantota via Colombo and Galle.
+
+The advisory, issued at 08.30 a.m. this morning (12), will be effective for the next 24 hours until 08.30 a.m. on Sunday (13).
+
+The sea areas off the coast extending from Puttalam to Hambantota via Colombo and Galle will be very rough at times with very strong gusty winds up to 60-70 kmph, it added.
+
+Meanwhile, the wave heights may increase about 2.5–3.0 m in the sea areas off the coast extending Colombo to Hambantota via Galle and Matara, according to the Met. Department.
+
+Thus, naval and fishing communities are requested to be attentive in this regard.
+
+◼️
+
+[Data](articles/76c963a9.json)
+
+[Extended Data](ext_articles/76c963a9.ext.json)
+
+---
 
 ### Customs confises a car of a misguided
 
@@ -2323,29 +2345,5 @@ Moreover, “I challenge whether my fellow candidates of the Jaffna MP can make 
 [Data](articles/01387ad1.json)
 
 [Extended Data](ext_articles/01387ad1.ext.json)
-
----
-
-### Damitha courts to seek
-
-*2024-10-11 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202063) · `si`
-
-Damitha Abeyratne claims her rights were violated due to nomination issues. She accuses Hesha Vithanage of manipulating her candidacy. Both parties hold separate press conferences, each presenting conflicting narratives about the situation.
-
-🟩
-
-Ranitan Damitha Abeyratne says that his fundamental human rights has been violated by the Ratnapura nomination list.
-
-Addressing the media at the Ratnapura District Secretariat today (11), she said that the person who proposed him to contest the election was against him.
-
-"Comrade Hesha Vithanage requested me why Damitha is not asking for from Ratnapura. I hadn't even considered anywhere. Told me ... No, my sister will get you from here, there is no female representation here. I said that if my brother suggested, I'll come. That's how my name came. That's not that I have proofs me. Yesterday, I didn't have my name. That my name is different. I speak with this evidence. All the evidence is ready to show all the evidence before the media.
-
-I don't know why Hesha fell down like this. The guy proposed me began to pull my leg.  අධිකරණ ක්‍රියාමාර්ගයකට මම යනවා. My fundamental rights violated is clearly. "
-
-...
-
-[Data](articles/c8eb29b5.json)
-
-[Extended Data](ext_articles/c8eb29b5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 21:23:25**
+As of **2024-10-12 21:38:59**
 
 ## Newspaper Stats
 
-*Scraped **49,148** Articles*
+*Scraped **49,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailyftlk | 3,334
 adalk | 4,560
 dailymirrorlk | 4,733
 adaderanalk | 5,808
-tamilmirrorlk | 6,691
+tamilmirrorlk | 6,693
 virakesarilk | 7,858
-adaderanasinhalalk | 8,500
+adaderanasinhalalk | 8,501
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,148 (100.0%) of 49,148 articles have been extended.
+49,151 (100.0%) of 49,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Thiefs of fear in areas
+
+*2024-10-12 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202101) · `si`
+
+Robbery gang active in Dompe, Weliweriya, Malwwwala Hiripitiya. Police investigating after residents report thefts and abuse. Thieves armed, face covered, CCTV footage released. Public urged to report sightings.
+
+🟩
+
+The police have received complaints that a robbery gang is roaming in Dompe, Weliweriya and Malwwwala Hiripitiya.
+
+The nearest incident has been reported from Weliweriya yesterday (11), the robbers entered a house and the woman abused her child and her husband.
+
+Two thieves were included in the Weliweriya area around 2 am yesterday.
+
+The two thieves showed sharp weapons, the police said that the police said.
+
+The wife was then abused to be abandoned.
+
+The two thieves have left the house from 2 to 4 am, stealing valuable items at home.
+
+Residents have lodged a complaint with the police and the police have begun an investigation into the matter.
+
+The two thieves had been carried out in the premises of the two thighs, Domipola, Tompens and Malwathuhipitiya.
+
+A CCTV display of CCTV had issued a list of CCTV visits to the two thieves.
+
+Reports say that the two thieves have been rose in the same houses.
+
+The reason is that the two thighs cover completely their faces, cannot find any information.
+
+...
+
+[Data](articles/4925ba0f.json)
+
+[Extended Data](ext_articles/4925ba0f.ext.json)
+
+---
 
 ### Sivaram assassination - Lalit Kugan missing
 
@@ -56,6 +94,30 @@ The Defense Ministry has ordered the death of a police officer in the shooting n
 
 ---
 
+### Rain decreased with the day
+
+*2024-10-12 20:41:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளையுடன்-மழை-குறையும்/175-345325) · `ta`
+
+Rainfall decrease expected tomorrow. Heavy rain forecasted in western regions. Thunderstorms possible in southern, northern, and central areas. Department advises caution against lightning threats.
+
+🟩
+
+The current rainfall weather will be reduced tomorrow (13), the Department of Meteorology said.
+
+The department has also forecast heavy rainfall in the Western and Sabaragamuwa Provinces and Galle and Matara districts tomorrow.
+
+Thunderstorms may occur in the southern, northwest and central provinces from time to time. The department has also forecast rain or thunderstorms in the evening or night.
+
+The Department of Meteorology has advised people to take steps to reduce the risks of thunderstorms and lightning impacts. (That)
+
+◼️
+
+[Data](articles/54d493d9.json)
+
+[Extended Data](ext_articles/54d493d9.ext.json)
+
+---
+
 ### Three including 3-yr-old boy killed after being hit by train
 
 *2024-10-12 20:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102640/three-including-3-yr-old-boy-killed-after-being-hit-by-train) · `en`
@@ -73,6 +135,28 @@ The deceased are reportedly residents of the Rajawatta area in Kalutara South.
 [Data](articles/8fa11a36.json)
 
 [Extended Data](ext_articles/8fa11a36.ext.json)
+
+---
+
+### Financial fraud;114 Chinese citizens arrested
+
+*2024-10-12 20:30:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நிதி-மோசடி-114-சீன-பிரஜைகள்-கைது/76-345324) · `ta`
+
+Chinese citizens arrested online fraud Kundasalai police seize devices
+
+🟩
+
+114 Chinese citizens have been arrested in the Kundasalai area on suspicion of online financial fraud.
+
+In the meantime, the police have seized 120 laptops, 15 desktops and 300 mobile phones used by the suspects.
+
+The suspects said that they rented 47 rooms in a hostel in Kundasalai area.. (That)
+
+◼️
+
+[Data](articles/7e76e143.json)
+
+[Extended Data](ext_articles/7e76e143.ext.json)
 
 ---
 
@@ -2349,59 +2433,5 @@ The WFP delegation included WFP Country Director Abdur Rahim Siddiqui, the Gover
 [Data](articles/1cad5a79.json)
 
 [Extended Data](ext_articles/1cad5a79.ext.json)
-
----
-
-### UN renews human rights mandate on Sri Lanka
-
-*2024-10-12 01:27:09* · [`dailyftlk`](https://www.ft.lk/news/UN-renews-human-rights-mandate-on-Sri-Lanka/56-767892) · `en`
-
-International role remains crucial for pursuing accountability, addressing ongoing violations
-
-The United Nations Human Rights Council adopted by consensus a resolution on the human rights situation in Sri Lanka on 9 October.
-
-This follows the election of a new President, Anura Kumara Dissanayake, on 21 September.
-
-The resolution extends the mandate of the UN Office of the High Commissioner for Human Rights (OHCHR) for another year, allowing it to report on ongoing violations and collect evidence of past and current rights violations and crimes under international law committed in Sri Lanka for use in future prosecutions, including those committed in the 1983-2009 civil war. The resolution was presented by a core group consisting of Canada, Malawi, Montenegro, North Macedonia, the United Kingdom, and the United States.
-
-...
-
-[Data](articles/a4834a6b.json)
-
-[Extended Data](ext_articles/a4834a6b.ext.json)
-
----
-
-### SL condemns attack in Lebanon; 2 Lankan UN peacekeepers injured
-
-*2024-10-12 01:26:56* · [`dailyftlk`](https://www.ft.lk/news/SL-condemns-attack-in-Lebanon-2-Lankan-UN-peacekeepers-injured/56-767891) · `en`
-
-Sri Lanka yesterday strongly condemned the attack at UNIFIL’s headquarters in Naqoura, South Lebanon injuring two Sri Lankan UN peacekeepers.
-
-“Sri Lanka upholds the obligations to ensure the safety and security of UN personnel and inviolability of UN premises at all times,” Foreign Affairs Ministry said in a statement.
-
-“Sri Lanka Embassy in Beirut is in contact with UNIFIL regarding the medical attention and speedy recovery of the Sri Lankan peacekeepers.  Sri Lanka values the brave contribution of its UN peacekeepers worldwide,” it added.
-
-◼️
-
-[Data](articles/a3916f98.json)
-
-[Extended Data](ext_articles/a3916f98.ext.json)
-
----
-
-### News 1st Sonali Wanigabaduge wins prestigious South Asia Laadli Media award for Gender Sensitivity 2024
-
-*2024-10-12 01:26:39* · [`dailyftlk`](https://www.ft.lk/news/News-1st-Sonali-Wanigabaduge-wins-prestigious-South-Asia-Laadli-Media-award-for-Gender-Sensitivity-2024/56-767890) · `en`
-
-News 1st Sonali Wanigabaduge won the prestigious South Asia Laadli Media and Advertising award for Gender Sensitivity 2024, representing Sri Lanka, at a star-studded award ceremony at the Tata Theatre, NCPA, Mumbai, on 9 October.
-
-The awards, organised by Population First, a Mumbai-based social impact organisation that has been working for over two decades to promote gender sensitivity in media, recognised 14 gender-sensitivity awardees from seven South Asian countries at the fourth edition of the South Asia Laadli Media and Advertising Awards for Gender Sensitivity 2024. Apart from Sri Lanka, the award winners cover Pakistan, Afghanistan, Nepal, Bhutan, Bangladesh and the Maldives.
-
-...
-
-[Data](articles/25c93f38.json)
-
-[Extended Data](ext_articles/25c93f38.ext.json)
 
 ---

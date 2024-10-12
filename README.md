@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 18:18:58**
+As of **2024-10-12 18:31:42**
 
 ## Newspaper Stats
 
-*Scraped **49,127** Articles*
+*Scraped **49,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,107 @@ dailyftlk | 3,334
 adalk | 4,558
 dailymirrorlk | 4,733
 adaderanalk | 5,805
-tamilmirrorlk | 6,687
+tamilmirrorlk | 6,688
 virakesarilk | 7,853
-adaderanasinhalalk | 8,493
+adaderanasinhalalk | 8,495
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,127 (100.0%) of 49,127 articles have been extended.
+49,130 (100.0%) of 49,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Promote relief to the affected people - President
+
+*2024-10-12 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202095) · `si`
+
+President Anura Kumara Dissanayake instructs relief efforts for flood victims. Allocates Rs. 50 million from Ministry of Finance. 24,018 affected, 2,200 safe in 23 relief centers.
+
+🟩
+
+President Anura Kumara Dissanayake has instructed the officials to provide immediate relief to the affected people due to inclement weather conditions.
+
+President Anura Kumara Dissanayake has also asked the Secretary to the Ministry of Defense to support the protection of the people in distinguished districts and the development of the districts of the districts of districts.
+
+The President said that the government is working to provide relief to all people affected by the disaster due to the disaster.. The President is also requested to be inspected.
+
+The President has instructed the Ministry of Finance to allocate Rs. 50 million for this relief work.
+
+The Disaster Management Center (DMC) informs that 24,018 persons have been affected by the floods and leaders of 11 districts due to the adverse weather conditions that were affected by the island in the past few days.
+
+At least 2,200 people in 584 families have been held safely in 23 relief centers.
+
+...
+
+[Data](articles/fdcc2a9d.json)
+
+[Extended Data](ext_articles/fdcc2a9d.ext.json)
+
+---
+
+### Landslide warnings extend
+
+*2024-10-12 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202094) · `si`
+
+National Building Research Organization extends landslide warnings for several areas. Alerts valid from 4:00 PM to 24 hours. Showers/thundershowers expected in Western, Sabaragamuwa, Southern, North Western, and Central provinces. Heavy rains possible in Western and Sabaragamuwa provinces. Strong winds and lightning risks advised. Public urged to take precautions against damage from temporary strong winds and lightning accidents.
+
+🟩
+
+The National Building Research Organization has taken steps to extend the alerts of landslide for several areas.
+
+The National Building Research Institute said that the warning notification is valid from 4.00 pm to 24 hours.
+
+Accordingly, under phases of Divisional Secretariats belonging to the Divisional Secretariats belonging to the following districts, as well as warning announcements have been issued under the 1 stage of 1.
+
+Kalutara District - Kallavita, Horana, Urana, Matugama, Matugama, Dodangoda, Bulathsinhala and Palindhan, Agalawatta
+
+Kegalle District - Ruwanwella, Yatiyantota, Dehiowita, Dehiowita, Bandaranawa, Kegalle, Mawanella, Aranayaka
+
+Ratnapura District - Eheliyagoda, Kiriella, ⁠ Ayalla, Kalawana, Ratnapura, Kuruwita
+
+Meanwhile, showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern, Southern, North Western and Central provinces.
+
+The Meteorological Department is valid for the next 36 hours.
+
+...
+
+[Data](articles/8513ee5f.json)
+
+[Extended Data](ext_articles/8513ee5f.ext.json)
+
+---
+
+### The sinks in the water of the Sahara desert
+
+*2024-10-12 17:57:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நீரில்-மூழ்கியது-சஹாரா-பாலைவனம்/50-345320) · `ta`
+
+Sahara Desert flooding: Heavy rainfall after 50 years causes severe flooding. Tropical hurricane blamed for unprecedented downpour. Water levels overflow, affecting nearby villages.
+
+🟩
+
+The Sahara Desert has been raining in the last 50 years. This has caused severe flooding.
+
+The Moroccan Meteorological Department said that the floods were the cause of the rainfall in a year.. Meteorologists said the rainfall was caused by a tropical hurricane.
+
+If this is the largest desert in this world, it is the Sahara desert. It reflects the African culture, which is the largest heat desert of the earth.
+
+சஹாரா பாலைவனம் பூமியில் மிகவும் வெப்பமான இடங்களில் ஒன்றாகும். The average temperature in the summer is 100.4 ° F (38 ° C) - up to 114.8 ° F (46 ° C).
+
+It is difficult for a creature to live there because of the temperature of Sahara. At the same time, even though the heat is high during the day, the temperature at night is rapidly decreasing. Some time found below the frost. Rarely rain in Sahara. Some areas have to wait for years to rain.
+
+In this case, the sudden rainfall in the Sahara Desert has caused flooding. The Sahara Desert has been flooded due to the rain in a year.
+
+...
+
+[Data](articles/62429142.json)
+
+[Extended Data](ext_articles/62429142.ext.json)
+
+---
 
 ### There is no courageous opposition to be in the opposition everyday - Dilith
 
@@ -2261,89 +2349,5 @@ IDF soldiers also fired on UN position (UNP) 1-31 in Labbouneh, hitting the entr
 [Data](articles/d8646e46.json)
 
 [Extended Data](ext_articles/d8646e46.ext.json)
-
----
-
-### Discussion between President and Samantha Power
-
-*2024-10-11 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196069) · `ta`
-
-President Anura Kumara Dissanayake met USAID's Samantha Power via internet. They discussed increasing cooperation between Sri Lanka and USAID. The President highlighted alignment between Sri Lanka's policies and USAID's goals. Samantha Power emphasized USAID's support for Sri Lanka's development activities and expanding cooperation.
-
-🟩
-
-A discussion between President Anura Kumara Dissanayake and Samantha Power of the United States Agency for International Development (USAID) took place on Friday (11) through Internet technology.
-
-The President and Samantha Power were discussed on a variety of mutual issues and discussed the opportunity to increase the cooperation between Sri Lanka and the United States Agency for International Development in the future.
-
-He pointed out the unity between the government's policy report and the policies of the United States Agency for International Development, and said to the President that the United States Agency would be fully supportive of the US Agency for the welfare of the people.
-
-Samantha Power further pointed out that these activities will help to expand Sri Lanka's development activities and increase the cooperation between the United States Agency for International Development and Sri Lanka.
-
-◼️
-
-[Data](articles/69b7e46c.json)
-
-[Extended Data](ext_articles/69b7e46c.ext.json)
-
----
-
-### Fourth defeat to Sri Lanka in Central Asian Carbal for men under 20 years of age
-
-*2024-10-11 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196068) · `ta`
-
-Sri Lanka loses 4th match in Central Asian Ceylon Tournament. Defeated by Uzbekistan 3-1. Earlier losses to Turkmenistan, Maldives, Nepal. Next match vs Maldives for 5th/6th place.
-
-🟩
-
-Sri Lanka lost the fourth defeat at the Central Asian Ceylon Tournament for men under the age of 20 between the six countries at the Sugathadasa Stadium in Colombo.
-
-Sri Lanka lost 1 - 3 in a match against Uzbekistan this afternoon.
-
-Uzbekistan won by 25 - 17, 25 - 18, respectively using the Sri Lankan players' stumbling block in the first two sets.
-
-Sri Lanka won the third set and won 25 - 21.
-
-In the fourth set, the two teams clashed hard, changing the points.
-
-However, Uzbekistan won the last 2 points and won the fourth set 3 - 1.
-
-Meanwhile, Sri Lanka lost 1 - 3 (22 - 25, 18 - 25, 25 - 22, 16 - 25) in the tournament with Turkmenistan on Thursday.
-
-Sri Lanka lost the Maldives in 3 straight sets in the 2nd match, which lost to Nepal in his opening match.
-
-Sri Lanka will oppose the Maldives tomorrow afternoon in the program of deciding the 5th and 6th place on the basis of these competition results.
-
-◼️
-
-[Data](articles/27eff5a5.json)
-
-[Extended Data](ext_articles/27eff5a5.ext.json)
-
----
-
-### Israel's nurses employment opportunities to 36 Sri Lankans
-
-*2024-10-11 19:38:46* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකිකයින්-36ට-ඊශ්‍රායලයේ-සාත්තු-සේවා-රැකියා-අවස්ථා/11-412449) · `si`
-
-Sri Lankan nurses receive job offers in Israel. 898 have been hired since Jan 2024. 136th & 137th groups of 137 workers, including 29 women, to depart Oct 14. SLBFE facilitates employment opportunities under MoU.
-
-🟩
-
-Sri Lanka Bureau of Foreign Employment (SLBFE) was conducted at the Sri Lanka Foreign Employment Bureau today (10/11).
-
-The 136th and 137st groups in Israel and 137 people who have jobs are expected to leave the island on 14th October. The group belongs to 29 women and seven male workers.
-
-Since January, 2024, 898 Sri Lankans have received Israel nurses employment opportunities.
-
-Sri Lankans with Israel's nursing work opportunities, including the Understanding Agreement, which was in the Understanding Agreement and the Understanding (MoU) has provided Israeli nurses at the MoU.
-
-Sri Lankans are employed in the Nurses Service Division of Israel and Sri Lankans are demanding the public to prevent money from providing money in the nursing field between the two countries.
-
-◼️
-
-[Data](articles/0fdb3fe7.json)
-
-[Extended Data](ext_articles/0fdb3fe7.ext.json)
 
 ---

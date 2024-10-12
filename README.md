@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 08:21:20**
+As of **2024-10-12 08:35:41**
 
 ## Newspaper Stats
 
-*Scraped **49,066** Articles*
+*Scraped **49,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,017
 dailyftlk | 3,334
 adalk | 4,556
 dailymirrorlk | 4,733
-adaderanalk | 5,794
+adaderanalk | 5,795
 tamilmirrorlk | 6,668
 virakesarilk | 7,844
 adaderanasinhalalk | 8,477
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,066 (100.0%) of 49,066 articles have been extended.
+49,066 (100.0%) of 49,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers in separate strikes
+
+*2024-10-12 08:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102628/israeli-forces-kill-2-lebanese-soldiers-and-injure-2-un-peacekeepers-in-separate-strikes) · `en`
+
+An Israeli airstrike killed two Lebanese soldiers and wounded three on Friday, Lebanon’s military said, just hours after the Israeli military fired on the headquarters of U.N. peacekeepers in southern Lebanon, injuring two of them for the second day in a row.
+
+The incidents entangling both Lebanon’s official army which has largely stayed on the sidelines of the conflict between Israel and Iran-backed Hezbollah and the U.N. peacekeeping mission in Lebanon raised alarm as Israel broadens its campaign against Hezbollah with waves of heavy airstrikes across the country and a ground invasion at the border.
+
+In central Beirut, rescue workers combed Friday through the rubble of a collapsed building, searching for survivors of an Israeli airstrike that killed at least 22 people and wounded dozens in the Lebanese capital the night before.
+
+...
+
+[Data](articles/0518a0f6.json)
+
+---
 
 ### Heavy showers above 100 mm expected today
 
@@ -2335,23 +2351,5 @@ And I am still standing for the people of my district. I will take a jointly wit
 [Data](articles/6d163342.json)
 
 [Extended Data](ext_articles/6d163342.ext.json)
-
----
-
-### Sri Lanka’s Awesuma scheme could benefit from better targeting: IPS
-
-*2024-10-11 12:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-awesuma-scheme-could-benefit-from-better-targeting-ips-183175/) · `en`
-
-ECONOMYNEXT — While it takes a holistic approach to poverty, there are clear gaps in Sri Lanka’s Aswesuma welfare benefits programme, the Institute of Policy Studies (IPS) said, calling for improved targeting, revised criteria and additional indicators.
-
-At a discussion held on Tuesday October 08, IPS Research Economist Pulasthi Amarasinghe offered insights into the effectiveness of the Aswesuma Programme. Introduced to replace the Samurdhi programme, Aswesuma uses 22 indicators across six dimensions to determine eligibility for cash transfers.
-
-“According to a forthcoming IPS study, while the programme aims to improve the targeting of welfare benefits, only 53.51 percent of previous Samurdhi recipients are eligible for Aswesuma,” he said, noting that the programme should research previously unassisted groups.
-
-...
-
-[Data](articles/0a4415c0.json)
-
-[Extended Data](ext_articles/0a4415c0.ext.json)
 
 ---

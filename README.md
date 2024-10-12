@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 20:38:51**
+As of **2024-10-12 20:57:50**
 
 ## Newspaper Stats
 
-*Scraped **49,144** Articles*
+*Scraped **49,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,807
 tamilmirrorlk | 6,691
 virakesarilk | 7,857
-adaderanasinhalalk | 8,499
+adaderanasinhalalk | 8,500
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,144 (100.0%) of 49,144 articles have been extended.
+49,145 (100.0%) of 49,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Hesha - Lets are leaks
+
+*2024-10-12 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202100) · `si`
+
+Here's a 200-character summary:
+
+
+
+Politician Hesha Vithanage accuses Damitha Abeyratne of leaking phone conversations about nominations. Vithanage claims he controls nominations, while Abeyratne denies being decisive. The exchange reveals political intrigue and potential corruption in Sri Lanka's electoral process.
+
+🟩
+
+The telephone conversation that Mr. Damitha Abeyene, who was not nominated by the Ratnapura district with a reconciliation district, is now circulating the telecommunication conversation promised to nomination.
+
+හේෂා විතානගේ  - ඔයාගේ නම ලොක්කට යැව්වා. I made the list and sent me.. I'll send you the list I've made.
+
+Hesha Vithanage - Nothing, nothing, I was hitting you where you had one. You want to do it with the bosses.
+
+Damitha Abeyratne - A.. Then you're not a dicide.
+
+Hesha Withanage - No.. .Leare is the Final Dizzition. Leader decides to give a seat. But asking me. I ask me to give this this.
+
+◼️
+
+[Data](articles/4cb9d3c8.json)
+
+[Extended Data](ext_articles/4cb9d3c8.ext.json)
+
+---
 
 ### More information about the Chinese racketeering in Sri Lanka
 
@@ -2359,37 +2389,5 @@ This walk also encourages Marriott International associates to support meaningfu
 [Data](articles/53ebce59.json)
 
 [Extended Data](ext_articles/53ebce59.ext.json)
-
----
-
-### Australia reached the semi -final gate that beat Pakistan by 9 wickets
-
-*2024-10-12 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/196074) · `ta`
-
-Australia beats Pakistan 9 wickets in ICC Women's T20 World Cup. Alyssa Heely scores 37, Elis Perry 22. Megan Suite takes 1 wicket for 7 runs, breaking record. New Zealand faces Pakistan next.
-
-🟩
-
-The current Champion Australia won by 9 wickets at the ICC Women's T20 World Cup A group at the Sharjah Cricket Stadium on Friday night.
-
-Australia, who were bowled out for 83 runs by Pakistan, lost by 83 wickets in 11 overs and scored 83 runs.
-
-Australia's net running speed is positive 2.786, with a 7.54 runs per over in this match and the A team is ranked first with 6 points in teams.. Australia are in the forefront of 2.210 than India in the second place with 4 points.
-
-Australia captain Alyssa Heeli, who scored 37 runs for Australia, was hit by muscle spasm.
-
-Elis Perry scored 22 runs and Beth Mooni 15 runs.
-
-Earlier, Pakistan, who had previously been invited to bat in the match, lost all wickets in 19.5 overs and scored 82 runs.
-
-The middle -line hero Aaliya Riaz scored only 26 runs and scored 26 runs.
-
-Chitra Amin and Iram Javid scored 12 runs each and Nita Tar 10 runs. No one else has reached a double number.
-
-...
-
-[Data](articles/767fa35a.json)
-
-[Extended Data](ext_articles/767fa35a.ext.json)
 
 ---

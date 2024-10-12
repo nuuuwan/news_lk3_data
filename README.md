@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 19:38:41**
+As of **2024-10-12 19:56:59**
 
 ## Newspaper Stats
 
-*Scraped **49,141** Articles*
+*Scraped **49,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,018
 dailyftlk | 3,334
 adalk | 4,559
 dailymirrorlk | 4,733
-adaderanalk | 5,806
+adaderanalk | 5,807
 tamilmirrorlk | 6,691
 virakesarilk | 7,857
 adaderanasinhalalk | 8,497
@@ -26,61 +26,103 @@ adaderanasinhalalk | 8,497
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,138 (100.0%) of 49,141 articles have been extended.
+49,142 (100.0%) of 49,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
 
-### නඩු 7කට අදාළ පරීක්ෂණ කඩිනම් කෙරේ
+### Acting IGP instructed to expedite investigations into seven high-profile cases
+
+*2024-10-12 19:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102639/acting-igp-instructed-to-expedite-investigations-into-seven-high-profile-cases) · `en`
+
+The Ministry of Public Security has instructed the Acting IGP to expedite the police investigations into seven high-profile cases including the Easter Sunday bombings and the controversial Treasury Bond auction in 2015.
+
+Instructions have also been given to expedite investigations into the death of businessman Dinesh Schaffter death and the death of a police officer during the shooting incident at the “W15 Hotel” in Weligama in 2023, according to the Police Spokesman.
+
+Police Spokesman DIG Nihal Thalduwa said the Ministry of Public Security has instructed the Acting IGP to direct special attention and to expedite several special investigations being carried out by the Criminal Investigations Department (CID) and other agencies as the progress of these investigations have been observed to be somewhat insufficient.
+
+...
+
+[Data](articles/3d677f7e.json)
+
+[Extended Data](ext_articles/3d677f7e.ext.json)
+
+---
+
+### Separate investigations will be expedited for seven cases
 
 *2024-10-12 19:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202097) · `si`
 
-2015 ආන්දෝලනාත්මක බැඳුම්කර ගනුදෙනුව, පාස්කු ප්‍රහාරය ඇතුළු නඩු 7කට අදාළ පරීක්ෂණ කඩිනම් කරන ලෙසට මහජන ආරක්ෂක අමාත්‍යාංශය වැඩබලන පොලිස්පතිවරයාට උපදෙස් දී ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා පවසයි.
+Government orders expedited probes for 7 cases: 2015 bond deal, Passover attack, police spokesperson Nihal Talduuwa.
+
+🟩
+
+The Government Defense Ministry lawyer says that the project is instructed to expedite investigations into the 2015 controversial bond deal, the Passover attack, police spokesman Nihal Talduuwa.
 
 ◼️
 
 [Data](articles/efd7349d.json)
 
+[Extended Data](ext_articles/efd7349d.ext.json)
+
 ---
 
-### ஜனாதிபதி பிறப்பித்துள்ள அதிரடி உத்தரவு
+### An action order issued by the President
 
 *2024-10-12 19:11:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பிறப்பித்துள்ள-அதிரடி-உத்தரவு/175-345323) · `ta`
 
-நாட்டில் நிலவும் சீரற்ற காலநிலையினால் பாதிக்கப்பட்ட மக்களுக்கு உடனடியாக நிவாரணம் வழங்குமாறு ஜனாதிபதி அனுரகுமார திஸாநாயக்க அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+President Anura Kumara Dissanayake issues directive for flood relief, allocates 50 million rupees, coordinates efforts across ministries and districts.
 
-அத்துடன், வெள்ளம் மற்றும் மண்சரிவினால் பாதிக்கப்பட்ட மாவட்டங்களில் உள்ள மக்களின் பாதுகாப்பு தொடர்பில் விசேட கவனம் செலுத்தி, நிவாரண சேவைகளை வினைத்திறனாக அமுல்படுத்துவதற்கு தேவையான உதவியை வழங்குமாறும் ஜனாதிபதி அனுரகுமார திஸாநாயக்க, பாதுகாப்பு அமைச்சின் செயலாளருக்கு அறிவித்துள்ளார்.
+🟩
 
-அனர்த்தங்களால் மக்களுக்கும் தேவையான நிவாரணங்களை வழங்க அரசாங்கம் செயற்பட்டு வருவதாக தெரிவித்த ஜனாதிபதி, இந்த நிவாரண சேவைகளுக்காக 50 மில்லியன் ரூபாவை ஒதுக்குமாறு நிதியமைச்சிற்கு பணிப்புரை விடுத்துள்ளார்.
+President Anura Kumara Dissanayake has issued a directive to the authorities to provide immediate relief to the people affected by the inclement weather in the country.
 
-உரிய நிவாரணங்களை மக்களுக்கு வழங்குவதற்கு நன்கு ஒருங்கிணைந்து செயற்படுமாறு அரசாங்க அதிகாரிகளுக்கு மேலும் தெரிவித்தார்.
+President Anura Kumara Dissanayake has informed the Secretary of the Ministry of Defense to pay special attention to the safety of the people in the districts affected by the floods and landslides.
 
-கடந்த சில நாட்களாக நாட்டில் ஏற்பட்டுள்ள மோசமான காலநிலை காரணமாக 11 மாவட்டங்களில் ஏற்பட்ட வெள்ளம் மற்றும் மண்சரிவினால் 6,018 குடும்பங்களைச் சேர்ந்த 24,492 பேர் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+The President said that the government is working to provide relief to the people due to disasters and has directed the Finance Ministry to allocate 50 million rupees for these relief services.
+
+He added to government officials to work well to provide people with appropriate relief.
+
+The Disaster Management Center said that 24,492 people from 6,018 families have been affected by floods and landslides in 11 districts over the past few days.
+
+2,200 people from 584 families have been safely housed in 23 relief centers.
 
 ...
 
 [Data](articles/0cdd6a31.json)
 
+[Extended Data](ext_articles/0cdd6a31.ext.json)
+
 ---
 
-### வெளிநாடுகளில் பணம் வைப்பிலிட்டோர் குறித்து விசாரணை
+### Investigation into money deposits abroad
 
 *2024-10-12 18:43:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடுகளில்-பணம்-வைப்பிலிட்டோர்-குறித்து-விசாரணை/175-345322) · `ta`
 
-வெளிநாடுகளில் உள்ள வங்கிகள் மற்றும் நிதி நிறுவனங்களில் கோடிக்கணக்கில் பணம் வைப்பிலிடப்படுள்ளதாக கூறப்படும் 13 அரசியல்வாதிகள் மற்றும் அரச அதிகாரிகள் ஆகியோர் குறித்து அரசாங்கத்தின் புலனாய்வு அமைப்புகள் விசாரணையை தொடங்கியுள்ளன.
+Here's a 200-character summary:
 
-இதற்கமைய, அந்த நிதி நிறுவனங்களிடம் இருந்து அது பற்றிய தகவல் அறிக்கைகளை பெறுவதுதான் முதல் நடவடிக்கை என்று, உளவுத்துறை வட்டாரங்கள் தெரிவித்தன.
 
-வெளிநாடுகளில் பணத்தை வைப்பிலிடும் முறைகள் குறித்து இந்த நாட்களில் சிறப்பு விசாரணை நடத்தப்பட்டு வருவதாகவும், புலனாய்வு அமைப்புகள் குறிப்பிடுகின்றன.
 
-இது மிகவும் கடினமான பணியாக இருந்தாலும், அதற்காக உன்னிப்பாக செயற்படுவதாக கூறும் அந்த வட்டாரங்கள், இதுபற்றிய தகவல் யாருக்கேனும் தெரிந்தால், சமர்ப்பிக்கலாம் என்றும் தெரிவித்துள்ளது.
+"Government probes 13 politicians over alleged foreign bank deposits. Intelligence agencies gather data from financial institutions. Investigation ongoing despite challenges. Public encouraged to report suspicious transactions."
 
-கடந்த ஜனாதிபதி தேர்தலின் போது வெளிநாடுகளில் மறைத்து வைக்கப்பட்டுள்ள பணத்தை இலங்கைக்கு கொண்டு வர அரசியல்வாதிகள் உட்பட பல்வேறு நபர்கள் செயற்படுவதாக  சில மேடைகளில் அடிக்கடி பிரசாரம் செய்யப்பட்டு வந்தமை குறிப்பிடத்தக்கது. (AN)
+🟩
+
+Government intelligence agencies have launched an investigation into 13 politicians and state officials allegedly depositing millions of banks and financial institutions abroad.
+
+According to intelligence sources, the first step is to get information reports from the financial institutions.
+
+Investigators say that a special investigation is being conducted these days on the process of depositing overseas.
+
+Although this is a very difficult task, the sources, which claim that it is working closely, said that if anyone knows the information, you can submit.
+
+It is noteworthy that various people, including politicians, have been campaigning on some platforms to bring money being hidden abroad during the last presidential election.. (That)
 
 ◼️
 
 [Data](articles/9bfaa980.json)
+
+[Extended Data](ext_articles/9bfaa980.ext.json)
 
 ---
 
@@ -2337,23 +2379,5 @@ Samantha Power further pointed out that these activities will help to expand Sri
 [Data](articles/34321bba.json)
 
 [Extended Data](ext_articles/34321bba.ext.json)
-
----
-
-### 2024-10-11 (Friday)
-
-### Before the music fades away
-
-*2024-10-11 23:22:37* · [`dailyftlk`](https://www.ft.lk/columns/Before-the-music-fades-away/4-767876) · `en`
-
-If President Dissanayake and the NPP can navigate this political landscape with transparency, integrity, and a commitment to justice, they may very well lead Sri Lanka into a new era of hope and progress
-
-Now that the JVP/NPP has gained significant political power, the focus shifts from criticism to governance. They will need to prove to the electorate that they can deliver on their promises. The anticipation surrounding their leadership is heightened by public expectations for reforms, especially regarding corruption. President Anura Kumara Dissanayake, the leader of the JVP/NPP, has famously displayed files of alleged corruption and malpractice by previous administrations. There is great interest in seeing whether these accusations lead to real accountability and justice
-
-...
-
-[Data](articles/84330233.json)
-
-[Extended Data](ext_articles/84330233.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 11:10:26**
+As of **2024-10-12 11:23:27**
 
 ## Newspaper Stats
 
-*Scraped **49,090** Articles*
+*Scraped **49,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,017
 dailyftlk | 3,334
 adalk | 4,557
 dailymirrorlk | 4,733
-adaderanalk | 5,798
+adaderanalk | 5,799
 tamilmirrorlk | 6,680
 virakesarilk | 7,844
 adaderanasinhalalk | 8,482
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,090 (100.0%) of 49,090 articles have been extended.
+49,091 (100.0%) of 49,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Luxury car confiscated following bribery commission investigation
+
+*2024-10-12 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102632/luxury-car-confiscated-following-bribery-commission-investigation) · `en`
+
+The Colombo Magistrate’s Court has ordered the confiscation of a luxury car seized by the Bribery Commission.
+
+Colombo Chief Magistrate Thilina Gamage issued the order following a request made by the Bribery Commission.
+
+Investigations uncovered that the vehicle was imported using falsified information provided to customs, resulting in the government being defrauded of more than Rs. 55 million in taxes.
+
+The confiscated vehicle, a Mitsubishi Montero jeep, belongs to a businessman from the Badulla area.
+
+◼️
+
+[Data](articles/8280ff54.json)
+
+[Extended Data](ext_articles/8280ff54.ext.json)
+
+---
 
 ### Only 11 houses in 31 houses
 
@@ -2341,33 +2361,5 @@ The President has already been sent to the pensioners' account to the pensioners
 [Data](articles/cee66a77.json)
 
 [Extended Data](ext_articles/cee66a77.ext.json)
-
----
-
-### A monthly payment of Rs. 3,000 to pensioners
-
-*2024-10-11 15:32:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வூதியதாரர்களுக்கு-ரூ-3-000-மாதாந்தக்-கொடுப்பனவு/175-345280) · `ta`
-
-Sri Lanka's President Anura Kumara Dissanayake orders Rs. 3000 monthly payment for pensioners. Finance Ministry officials directed to allocate funds. Payment to be made within a week.
-
-🟩
-
-President Anura Kumara Dissanayake has issued a directive to the Finance Ministry officials to pay Rs 3,000 as a monthly interim allowance to all pensioners.
-
-இடைக்கால கொடுப்பனவான 3,000 ரூபாய் ஒக்டோபர் மாத ஓய்வூதியத்துடன் சேர்க்கப்படாமை தொடர்பில் ஆராய்ந்த ஜனாதிபதி, அதே தொகையை அடுத்த வாரத்துக்குள் ஓய்வூதியதாரர்களின் வங்கி கணக்கில் வைப்பிலிடுமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
-
-These instructions were issued during a discussion held at the Presidential Office yesterday afternoon with President Anura Kumara Dissanayake and top officials of the Finance Ministry.
-
-Although the State Administrative Circle, which dated 24/08/2024, has been issued a monthly interim allowance for all pensioners, but no funds have been allocated.
-
-President Anura Kumara Dissanayake, who examined the matter, informed the Finance Ministry officials to provide funds.
-
-Considering the difficulties and demands of pensioners faced by the interim payments of Rs.
-
-...
-
-[Data](articles/c19ff3de.json)
-
-[Extended Data](ext_articles/c19ff3de.ext.json)
 
 ---

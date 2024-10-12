@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 12:12:16**
+As of **2024-10-12 12:25:10**
 
 ## Newspaper Stats
 
-*Scraped **49,094** Articles*
+*Scraped **49,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 488
 bbccomsinhala | 491
-islandlk | 2,903
-economynextcom | 3,017
+islandlk | 2,904
+economynextcom | 3,018
 dailyftlk | 3,334
 adalk | 4,557
 dailymirrorlk | 4,733
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,483
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,094 (100.0%) of 49,094 articles have been extended.
+49,096 (100.0%) of 49,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Sri Lanka sees slight increase in active credit cards this year
+
+*2024-10-12 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-slight-increase-in-active-credit-cards-this-year-183307/) · `en`
+
+ECONOMYNEXT – Active credit cards in Sri Lanka have edged up by 0.5 percent or 11,293 in the first eight months of this year, while the outstanding balance in credit cards saw a marginal drop in the same period, the latest Central Bank data showed.
+
+The number of active credit cards rose to 1,928,378 by the end August this year from 1,917,085 by the end of last year.
+
+Active credit cards in Sri Lanka have fell nearly 2 percent or 35,655 in the first eight months of last year.
+
+Analysts said Sri Lanka’s economic recovery and stability have helped customers to use more credit cards than last year.
+
+The number of active credit cards fell to 1,917,336 by the end August 2023 from 1,952,991 by the end of 2022, the central bank data showed.
+
+Some analysts said higher interest (penalty) rates on credit cards also would have prompted some users to cancel their cards in the last year and the same customers might be actively using the cards now.
+
+...
+
+[Data](articles/93647679.json)
+
+[Extended Data](ext_articles/93647679.ext.json)
+
+---
 
 ### Removes security stalls near Temple Trees
 
@@ -961,6 +985,22 @@ Standard Chartered Sri Lanka CEO, Bingumal Thewarathanthri, stated, “We are pl
 [Data](articles/c52e7c4b.json)
 
 [Extended Data](ext_articles/c52e7c4b.ext.json)
+
+---
+
+### World Bank-inspired buoyancy continues in stock market
+
+*2024-10-12 01:30:00* · [`islandlk`](http://island.lk/world-bank-inspired-buoyancy-continues-in-stock-market/) · `en`
+
+The stock market bounced back yesterday after witnessing profit- takings over the last few days. A favourable growth forecast of 4.4 percent for 2024 by the World Bank helped the bourse to move up, market analysts said.The All Share Price Index went up by 130.5 points, while S and P SL20 rose by 34.48 points.
+
+Turnover stood at Rs 2.3 billion with five crossings. Those crossings were reported in JKH, which crossed 1.1 million shares to the tune of Rs 616 million; its shares traded at Rs 196, Digital Mobile Solutions Limited 2.3 million shares crossed for Rs 88.5 million; its shares traded at Rs 38.50, Royal Ceramic 805,000 shares crossed for Rs 26.5 million; its shares traded at Rs 33, Chevron Lubricants 185,000 shares crossed for Rs 23.2 million; its shares sold at Rs 125.75 and CIC 300,000 shares crossed to the tune of Rs 22.7 million; it’s shares fetched Rs 75.8.
+
+...
+
+[Data](articles/3984c319.json)
+
+[Extended Data](ext_articles/3984c319.ext.json)
 
 ---
 
@@ -2317,49 +2357,5 @@ The body has been placed in the Rambewa Hospital in the funeral room and the mot
 [Data](articles/421b3e6e.json)
 
 [Extended Data](ext_articles/421b3e6e.ext.json)
-
----
-
-### Nobel Peace Prize for survivors from nuclear bomb
-
-*2024-10-11 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202068) · `si`
-
-Nobel Peace Prize 2024 awarded to Japanese nuclear bomb survivors. The Nobel Committee honored them for their efforts to prevent global nuclear proliferation, specifically referencing the devastating effects of Hiroshima and Nagasaki. This recognition aims to promote peace and disarmament worldwide.
-
-🟩
-
-A group survived of nuclear bombs in Japan was awarded the Nobel Peace Prize for 2024.
-
-The Nobel Committee said that the Nobel Peace Prize was awarded this year for the world's nuclear boss for the nuclear bombs of the world, Hiroshima and Nagasaki.
-
-◼️
-
-[Data](articles/15a4d226.json)
-
-[Extended Data](ext_articles/15a4d226.ext.json)
-
----
-
-### Sri Lanka president orders pension allowance ahead of elections
-
-*2024-10-11 15:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-orders-pension-allowance-ahead-of-elections-183209/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has directed officials to pay pensioners an allowance of 3,000 within next week, ahead of a general election.
-
-“Directed officials from the Ministry of Finance to ensure that all pensioners receive a monthly interim allowance of Rs. 3,000 starting next week,” Dissanayake said on X.
-
-“After reviewing delays in adding the allowance to the October pension, I’ve instructed that the funds be credited within the week.”
-
-President @anuradisanayake has instructed Ministry of Finance officials to provide a monthly interim allowance of Rs. 3,000 to all pensioners starting next week. (1/2) pic.twitter.com/yvWNCPlu5Y
-
-— President's Media Division of Sri Lanka – PMD (@PMDNewsGov) October 11, 2024
-
-On Thursday (10) Dissanayake directed officials to allocate 11,000 acres of land, owned by the Kantale Sugar Company, to farmers for short-term crop cultivation.
-
-...
-
-[Data](articles/88548478.json)
-
-[Extended Data](ext_articles/88548478.ext.json)
 
 ---

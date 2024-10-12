@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 10:39:07**
+As of **2024-10-12 10:57:37**
 
 ## Newspaper Stats
 
-*Scraped **49,080** Articles*
+*Scraped **49,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,334
 adalk | 4,557
 dailymirrorlk | 4,733
 adaderanalk | 5,798
-tamilmirrorlk | 6,671
+tamilmirrorlk | 6,680
 virakesarilk | 7,844
 adaderanasinhalalk | 8,482
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,080 (100.0%) of 49,080 articles have been extended.
+49,089 (100.0%) of 49,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Only 11 houses in 31 houses
+
+*2024-10-12 10:18:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/31-வீடுகளில்-11-வீடுகள்-மட்டுமே-கையளிப்பு/175-345311) · `ta`
+
+11 out of 31 government officials returned homes after leaving office. Handover delayed due to customs procedures.
+
+🟩
+
+In the last government, only 11 of the 31 politicians who lived in government homes have handed over the houses, the Ministry of Public Administration said.
+
+It is reported that there is a delay in handing over the houses as many customs have to be completed.
+
+◼️
+
+[Data](articles/8fe49dac.json)
+
+[Extended Data](ext_articles/8fe49dac.ext.json)
+
+---
 
 ### Met. Dept. issues ‘red alert’ for strong winds and rough seas
 
@@ -51,6 +71,84 @@ Thus, naval and fishing communities are requested to be attentive in this regard
 [Data](articles/76c963a9.json)
 
 [Extended Data](ext_articles/76c963a9.ext.json)
+
+---
+
+### Hizbullah warns to leave Israel people
+
+*2024-10-12 10:04:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-மக்களை-வெளியேறுமாறு-ஹிஸ்புல்லா-எச்சரிக்கை/50-345310) · `ta`
+
+Hezbollah warns Israelis to evacuate northern areas due to increased Israeli military presence. Clashes between Israel and Lebanon continue, causing over 1,200 deaths and displacing about 1 million. Remote-controlled explosives are reportedly being used by both sides.
+
+🟩
+
+Hisbullah organization has warned the people of the country to leave the military positions in Northern Israel.
+
+Foreign media reports that Israeli forces are using the homes of people in Northern Israel as military bases.
+
+Despite the Israeli -Lebanon border clashes for some time, Israel has intensified attacks on the sites of the Hezbollah organization since last 23rd.
+
+More than 1,200 people have died in the clash in Lebanon. About one million people were displaced.
+
+Foreign media reports that Israel's sophisticated remote explosion is one of the main reasons for these conflicts, including pagans widely used by Hizbullah militants.
+
+◼️
+
+[Data](articles/2eb55274.json)
+
+[Extended Data](ext_articles/2eb55274.ext.json)
+
+---
+
+### 19 people injured in train accident
+
+*2024-10-12 09:55:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-விபத்தில்-19-பேர்-படுகாயம்/175-345309) · `ta`
+
+High-speed express train crashes into freight train near Kavarapet railway station, injuring 19. Investigation reveals driver received green signal before impact.
+
+🟩
+
+19 people were injured when a high -speed express train crash from India - Mysore to Darbhanga.
+
+The train crashed into a freight train as he was traveling near the Kavarapet railway station next to Ponneri last night.
+
+In this accident, the cabinets of the two trains are obscuring the other rails. Employees are actively involved in removing the barriers.
+
+Investigations carried out by the railway line police revealed that the train accident was responsible for the train accident.
+
+In this investigation, the Logo Pilot Subramani, who drove the Baghmati fast train, said that the train was only run by the Green Signal.. (That)
+
+◼️
+
+[Data](articles/b0760a6f.json)
+
+[Extended Data](ext_articles/b0760a6f.ext.json)
+
+---
+
+### 10,000 candidates are in the field
+
+*2024-10-12 09:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-000-வேட்பாளர்கள்-களமிறங்குகின்றனர்/175-345308) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"10,000 candidates contesting parliamentary elections on Nov 14. 764 political parties/independent groups filed nominations. 690 groups competing in 22 election districts."
+
+🟩
+
+About 10,000 candidates are contesting the parliamentary elections on November 14 to elect MPs.
+
+Elections Commissioner Saman Sri Ratnayake says 764 political parties and independent groups have filed nominations for the parliamentary elections to be held this year.
+
+Accordingly, 690 groups belonging to political parties and independent groups will contest for 22 election districts for this year's election.. Remble
+
+◼️
+
+[Data](articles/b39afde6.json)
+
+[Extended Data](ext_articles/b39afde6.ext.json)
 
 ---
 
@@ -75,6 +173,128 @@ A mitzubyi jeep, a businessman in Badulla, has been confiscated.
 [Data](articles/cf061045.json)
 
 [Extended Data](ext_articles/cf061045.ext.json)
+
+---
+
+### Mother and son killed in train
+
+*2024-10-12 09:45:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ரயிலில்-மோதி-தாயும்-மகனும்-ஸ்தலத்திலேயே-பலி/75-345307) · `ta`
+
+Train collision kills mother and son in Trincomalee - China area. Ranmadu Hewage Nishanthi (47) and Shehan Jayampathi Perera (10) died instantly. Chinese police investigating.
+
+🟩
+
+Mother and son died on the spot when a train collided with a train yesterday afternoon in the Trincomalee - China area.
+
+Ranmadu Hewage Nishanthi (47 years old) and his son Shehan Jayampathi Perera (10) of China were killed.
+
+Police said the accident was not the case when the father had bought the food package and crossed the railway line.
+
+Chinese police are conducting further investigations into the incident. Remble
+
+◼️
+
+[Data](articles/cd7d3d19.json)
+
+[Extended Data](ext_articles/cd7d3d19.ext.json)
+
+---
+
+### Nephew killed in father -in -law's attack
+
+*2024-10-12 09:38:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமனாரின்-தாக்குதலில்-மருமகன்-பலி/175-345306) · `ta`
+
+Son-in-law killed in family dispute: Police arrest 65-year-old father-in-law after fatal assault in Balangoda.
+
+🟩
+
+Balangoda police said that the son -in -law died in a dispute between father -in -law and son -in -law in a house in Balangoda -Dahamana area.
+
+Balangoda police added that he died due to the head of the son -in -law.
+
+The deceased is the father of three children, 44 -year -old Muhawela Legilage Wijekumara, a 44 -year -old man from Balangoda.
+
+His wife's mother and father came to the deceased's house. There was an argument between the wife and the person.
+
+Subsequently, the police suspect that he may have died because of his wife's father in the reception of the house.
+
+The 65 -year -old suspect who assaulted him has been arrested by the Balangoda police.
+
+◼️
+
+[Data](articles/63a5dcaa.json)
+
+[Extended Data](ext_articles/63a5dcaa.ext.json)
+
+---
+
+### UNP's nomination rejection
+
+*2024-10-12 09:31:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-சு-முவின்-வேட்பு-மனு-நிராகரிப்பு/175-345305) · `ta`
+
+UNP nomination rejected; 24 total nominations accepted from 16 parties and 7 independents in Matale district for general election.
+
+🟩
+
+Matale District Election Officer Tejani Tilakaratne said that 24 nominations were received from 17 political parties and 7 independent groups recognized from the Matale district for this year's general election.
+
+Tejani Tilakaratne said that a recognized political party's nomination has been rejected.
+
+“UNP. Accordingly, 16 political parties and 7 independent organizations have been accepted. ”(An)
+
+◼️
+
+[Data](articles/18942465.json)
+
+[Extended Data](ext_articles/18942465.ext.json)
+
+---
+
+### This year's election is very important
+
+*2024-10-12 09:20:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவ்வருட-தேர்தல்-மிகவும்-முக்கியமானது/175-345304) · `ta`
+
+This year's election is crucial as many politicians abstain from contesting. Over 50 candidates have withdrawn, making it historically significant according to election monitors and reform advocates.
+
+🟩
+
+This is the first time that most politicians across the country have not contested parliamentary elections, election monitoring organizations say.
+
+Due to this, the Executive Director of the People's Movement for the Independent and Justice Elections, Rohana Hettiarachchi said that this year's election is very important.
+
+More than 50 politicians have quit the election this year, said Manjula Gajanayake, Executive Director of Democratic Reforms and Election Studies.
+
+◼️
+
+[Data](articles/7a9351b3.json)
+
+[Extended Data](ext_articles/7a9351b3.ext.json)
+
+---
+
+### An increase in the number of neglecting elections
+
+*2024-10-12 09:17:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-புறக்கணித்தோர்-எண்ணிக்கை-அதிகரிப்பு/175-345303) · `ta`
+
+More politicians opting out of elections. 17 ministers won't run, total non-contesting candidates now 37. Former ministers express disappointment, one calls politics "thievery."
+
+🟩
+
+It is reported that 17 other ministers will not contest in the upcoming general election.
+
+Accordingly, the number of those who decided not to field in the election has risen to 37.
+
+Former Minister of State Mrs. Geeta Kumarasinghe has said that he has long decided not to contest the general election this year and that I am not eligible to do politics with thieves.
+
+Former Minister of State DP Herath has said that he is very disappointed in politics.
+
+Former Minister Mr. Prasanna Ranatunga said that even if he does not contest the upcoming general election, the country will be fielded across the country for the purpose of the election.
+
+◼️
+
+[Data](articles/bab78a8a.json)
+
+[Extended Data](ext_articles/bab78a8a.ext.json)
 
 ---
 
@@ -2129,221 +2349,5 @@ All offered 25 billion rupees of 01 October 2032 bonds were sold at an average y
 [Data](articles/8500da5e.json)
 
 [Extended Data](ext_articles/8500da5e.ext.json)
-
----
-
-### Japanese atomic bomb survivor group Nihon Hidankyo awarded Nobel Peace Prize
-
-*2024-10-11 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102618/japanese-atomic-bomb-survivor-group-nihon-hidankyo-awarded-nobel-peace-prize) · `en`
-
-(Reuters) - Japanese organisation Nihon Hidankyo, a grassroots movement of atomic bomb survivors from Hiroshima and Nagasaki also known as Hibakusha, won the Nobel Peace Prize on Friday.
-
-“Hibakusha is receiving the Peace Prize for its efforts to achieve a world free of nuclear weapons and for demonstrating through witness testimony that nuclear weapons must never be used again,” the Norwegian Nobel Committee said in its citation.
-
-Witnesses to the only two nuclear bombs ever to be used in conflict have dedicated their lives to the struggle for a nuclear-free world.
-
-“The Hibakusha help us to describe the indescribable, to think the unthinkable, and to somehow grasp the incomprehensible pain and suffering caused by nuclear weapons,” the committee said.
-
-The Norwegian Nobel Committee has regularly put focus on the issue of nuclear weapons, most recently with its award to the ICAN, the International Campaign to Abolish Nuclear Weapons, who won the award in 2017.
-
-...
-
-[Data](articles/3f694598.json)
-
-[Extended Data](ext_articles/3f694598.ext.json)
-
----
-
-### Two Sri Lankan peaceers injured in Lebanon
-
-*2024-10-11 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202066) · `si`
-
-Sri Lankan peacekeepers hurt in Lebanon Israeli artillery attack South Lebanon UN forces
-
-🟩
-
-The International Media reports that two Sri Lankan soldiers who are working in the peacekeeping army of Lebanon have been injured due to an Israeli artillery.
-
-The attack was launched in the South Lebanon of South Lebanon, which is located in the United Nations Level.
-
-The international media has reported that the astrology of a peacekeeping person is a wetry of artillery fire.
-
-About 10,000 UN peacekeeping troops are currently in the South Leban.
-
-◼️
-
-[Data](articles/63ad1afa.json)
-
-[Extended Data](ext_articles/63ad1afa.ext.json)
-
----
-
-### Those in these areas carefully driving the vehicles with a close watch!
-
-*2024-10-11 15:04:10* · [`adalk`](https://www.ada.lk/breaking_news/මේ-ප්‍රදේශවල-ඉන්න-අය-දැඩි-අවධානයෙන්--වාහන-පදවන්නෙත්-ප්‍රවේශමෙන්--/11-412444) · `si`
-
-Flooding alert: Kelani River areas (Biyagama, Kaduwela, Colombo, Wattala) may cause vehicle disruptions next 48 hours due to water levels. Residents advised to exercise caution when driving.
-
-🟩
-
-During the next 48 hours, the Kelani River, Biyagama, Kaduwela, Colombo and Wattala Divisional Secretariat areas can cause flooding.
-
-As a result, vehicles traveling through the public and region of residents of the area are disturbed by the Irrigation Department further.
-
-◼️
-
-[Data](articles/0b537ddb.json)
-
-[Extended Data](ext_articles/0b537ddb.ext.json)
-
----
-
-### Two Sri Lankan peacekeepers in Lebanon injured in Israeli attack
-
-*2024-10-11 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102617/two-sri-lankan-peacekeepers-in-lebanon-injured-in-israeli-attack) · `en`
-
-Two Sri Lankan peacekeepers stationed with the UN peacekeeping force in Lebanon have been injured after a nearby village was targeted by an Israeli airstrike, Sri Lanka’s Military Spokesperson confirmed.
-
-He stated that the two Sri Lankan Army personnel attached to the UN peacekeeping mission in Lebanon sustained minor injuries when Israeli tanks fired at a watchtower in Naqoura, Lebanon, yesterday.
-
-The soldiers were reportedly hit by fragments from a tank shell that was fired at one of UNIFIL’s observation towers in Naqoura.
-
-Sri Lankan soldiers were reportedly injured when Israeli artillery struck UN peacekeeping forces (UNIFIL) in Naqoura, southern Lebanon, as reported by the Lebanese News Agency on Friday.
-
-The incident occurred when a tank shell struck near one of the UNIFIL towers in Naqoura, resulting in shrapnel injuries to the soldiers.
-
-António Guterres, Secretary-General of the United Nations, called the attack “a violation of international humanitarian law”.
-
-...
-
-[Data](articles/3e9887d7.json)
-
-[Extended Data](ext_articles/3e9887d7.ext.json)
-
----
-
-### The new government should carry out investigations into war allegations;Even political leaders are unable to go abroad - the President of the Sri Lanka Attorney General
-
-*2024-10-11 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/196031) · `ta`
-
-Here's a 200-character summary:
-
-
-
-New Sri Lankan government urged to investigate war allegations. Political leaders restricted from foreign travel due to unresolved UN tribunal issues. Experts recommend local courts handle cases to boost international credibility.
-
-🟩
-
-President of the Sri Lanka Lawyers Association, President's Attorney General Anumathegoda says that political leaders will be unable to make foreign trips if they are not investigating war crimes.
-
-Question;Sri Lanka faces war allegations in Geneva every year-where do you think we failed by finding a fully solution to the problem on the basis of the Hack Tribunal of the United Nations?What should we do?
-
-Answer;After working at the Attorney General's Department of Sri Lanka, I joined the United Nations International Criminal Tribunal in the Hague.
-
-The Tribunal was established to investigate those responsible for the war crimes in the previous Yugoslovia and international law.
-
-Many of you know that the war broke out in 1990 - 91 during the President Sloopatan Milosevic during Yogosovia.
-
-After the death of President Tito, the Icosolovian Federation scattered many pieces and clashes between them.
-
-...
-
-[Data](articles/618e6240.json)
-
-[Extended Data](ext_articles/618e6240.ext.json)
-
----
-
-### Here is the national list of the compass
-
-*2024-10-11 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202065) · `si`
-
-Here's a 200-character summary:
-
-
-
-National lists for 2023 general election: Former Dean of Humanities & Social Sciences (University of Ruhuna), National Executive Council member, National Power organizer, and Melbourne City coordinator in veterinary medicine.
-
-🟩
-
-The following are the names of the national lists of the National Longer's electorate for this year's general election.
-
-Former December of the Faculty of Humanities and Social Sciences of the University of Ruhuna
-
-National Executive Council of the National Power and Sri Lanka Organizer
-
-Coordinator and Melbourne City organizer in veterinary medicine, national power
-
-◼️
-
-[Data](articles/16946e10.json)
-
-[Extended Data](ext_articles/16946e10.ext.json)
-
----
-
-### National List of the Pohost
-
-*2024-10-11 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202064) · `si`
-
-Here's a summary of the National List of the Pohost in 200 characters:
-
-
-
-Sri Lanka General Election National List MPs names.
-
-🟩
-
-The following are the names of the national lists of the National List MPs in the Sri Lanka General Election.
-
-◼️
-
-[Data](articles/4cfadfb3.json)
-
-[Extended Data](ext_articles/4cfadfb3.ext.json)
-
----
-
-### To the attention of the fishermen
-
-*2024-10-11 14:33:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்களின்-கவனத்துக்கு/175-345278) · `ta`
-
-Fishermen: All boats from Puttalam to Colombo, Galle, Matara, Hambantota must stay ashore due to bad weather.
-
-🟩
-
-The Department of Fisheries and Aquatic Resources has announced that all fishing boats traveling from Puttalam to Colombo, Galle, Matara and Hambantota should not go to sea until re -notice.
-
-The Department of Fisheries and Aquatic Resources has requested that all fishing boats be cared for on the current inclement weather.. (That)
-
-◼️
-
-[Data](articles/9c02f8b8.json)
-
-[Extended Data](ext_articles/9c02f8b8.ext.json)
-
----
-
-### Liquor School Permit;Obviously confessed
-
-*2024-10-11 14:23:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மதுபானசாலை-அனுமதி-விவகாரம்-வெளிப்படையாக-வாக்குமூலம்-வழங்கவும்/71-345277) · `ta`
-
-Sri Lanka PA candidate Geetnath Kasilingam confesses no liquor permits granted. Challenges fellow Jaffna MP candidates to make similar statements. Liquor shops impact livelihoods and schools in North.
-
-🟩
-
-Sri Lanka PA has to make a statement openly confessed that no one has granted permission to liquor.. District candidate Geetnath Kasilingam said.
-
-“I have filed my nomination. And I am openly making a confession, confirming that I do not require me, my family, relatives or friends, or for anyone I know, or not to meditate. ”
-
-Moreover, “I challenge whether my fellow candidates of the Jaffna MP can make such a confession.
-
-"The emergence of many liquor shops in the North in recent months has affected the livelihood of the daily wage laborers and threatened schools and children in those areas.". (That)
-
-◼️
-
-[Data](articles/01387ad1.json)
-
-[Extended Data](ext_articles/01387ad1.ext.json)
 
 ---

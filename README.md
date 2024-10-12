@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 09:39:16**
+As of **2024-10-12 09:58:20**
 
 ## Newspaper Stats
 
@@ -26,57 +26,75 @@ adaderanasinhalalk | 8,481
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,073 (100.0%) of 49,078 articles have been extended.
+49,078 (100.0%) of 49,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
 
-### මුහුදු නොයන්න යැයි ධීවරයන්ට උපදෙස්
+### Instructions to fishermen that they don't go
 
 *2024-10-12 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202078) · `si`
 
-පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය විටින් විට පැ.කි.මී. 60-70ත් දක්වා වැඩිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Fishermen advised against sailing due to strong winds (60-70 km/h) and rough seas from Colombo to Hambantota. Department of Meteorology warns increased wave activity in coastal areas.
 
-එම මුහුදු ප්‍රදේශ විටින් විට ඉතා රළු විය හැකි බවත්, කොළඹ සිට ගාල්ල සහ මාතර හරහා හම්බන්තොට දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 – 3.0ක් පමණ ඉහළ යාමේ හැකියාවක් පවතින බව එම නිවේදනයේ දැක්වේ.
+🟩
 
-කෙසේ නමුත් මෙම මුහුදු ප්‍රදේශවල නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නාවික සහ ධීවර ප්‍රජාවන්ට දැනුම් දෙයි.
+Winds from Puttalam to Hambantota via Hambantota via Hambantota via Hambantota. The Department of Meteorology announces that it will increase to 60-70.
+
+The release states that the sea areas can be very rough at times and increase the sea waves in the sea areas off the coast extending from Colombo to Hambantota via Galle.
+
+However, the Department of Meteorological Department informs the Navy and the fishing communities not to be restored until the re-incurred in these areas.
 
 ◼️
 
 [Data](articles/8c5dabac.json)
 
+[Extended Data](ext_articles/8c5dabac.ext.json)
+
 ---
 
-### கம்பஹாவில் வெள்ள அபாயம்
+### Flood risk in Gampaha
 
 *2024-10-12 09:09:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹாவில்-வெள்ள-அபாயம்/175-345302) · `ta`
 
-நிலவி வரும் கடும் மழை காரணமாக அத்தனகலு ஓயாவின் நீர் மட்டம் வெள்ள மட்டத்தை எட்டியுள்ளதாக, கம்பஹா மாவட்ட அனர்த்த முகாமைத்துவ பிரதி பணிப்பாளர் அஜித் நிஷாந்த தெரிவித்தார்.
+Gampaha floods: Attanagalu Oya water level reaches flood point due to heavy rains. Nirmini water level at 5.54m, lowland residents advised to monitor. Many roads submerged.
 
-நேற்று (11) இரவு 9 மணி நிலவரப்படி, நீர்மானியின் நீர்மட்டம் 5.54 மீற்றராக காணப்படுவதாகவும், இதனால், தாழ்வான பகுதிகளில் வசிக்கும் மக்கள் அவதானத்துடன் இருக்குமாறும் பிரதிப் பணிப்பாளர் எச்சரித்துள்ளார்.
+🟩
 
-கம்பஹா மாவட்டத்தின் பல பகுதிகளில் உள்ள வீதிகள் நீரில் மூழ்கியுள்ளதாகவும், அவர் குறிப்பிட்டுள்ளார்.(AN)
+Deputy Director of Gampaha District Disaster Management Ajith Nishantha said that the water level of Attanagalu Oya has reached the flood level due to heavy rains.
+
+As of 9 pm yesterday (11), the Deputy Director has warned that the water level of the Nirmani is 5.54 meters and the residents of the lowlands will be observed.
+
+He noted that the roads in many parts of the Gampaha district have been submerged.
 
 ◼️
 
 [Data](articles/c3be3316.json)
 
+[Extended Data](ext_articles/c3be3316.ext.json)
+
 ---
 
-### மஹிந்தவின் இல்லத்தை இடம் மாற்றுமாறு பணிப்புரை
+### Directorate to relocate Mahinda's residence
 
 *2024-10-12 09:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-இல்லத்தை-இடம்-மாற்றுமாறு-பணிப்புரை/175-345301) · `ta`
 
-இதுவரை தமது உத்தியோகபூர்வ இல்லங்களை ஒப்படைக்காத முன்னாள் அமைச்சர்களுக்கு நினைவூட்டல் ஒன்றை வழங்குமாறு, பிரதமர் கலாநிதி ஹரினி அமரசூரிய பணிப்புரை விடுத்துள்ளார்.
+Prime Minister Harini Amarasuriya orders relocation of Mahinda Amaraweera's official residence to Sirimavo Bandaranaike College, Colombo. Former ministers reminded to hand over official homes.
 
-அத்துடன், முன்னாள் அமைச்சர் மஹிந்த அமரவீர பயன்படுத்திய உத்தியோகபூர்வ இல்லத்தை கொழும்பு சிறிமாவோ பண்டாரநாயக்க கல்லூரிக்கு மாற்றுமாறும் பிரதமரால் அறிவுறுத்தல் வழங்கப்பட்டுள்ளது.
+🟩
 
-பொது நிர்வாகம், உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சின் அதிகாரிகள் குழுவுடனான கலந்துரையாடலின் போதே, பிரதமர் இந்த அறிவுறுத்தல்களை வழங்கியுள்ளார்.(AN)
+Prime Minister Harini Amarasuriya has issued a directive to give a reminder to former ministers who have not yet handed over their official homes.
+
+The Prime Minister has also been advised to relocate the official residence used by former Minister Mahinda Amaraweera to the Sirimavo Bandaranaike College, Colombo.
+
+During a discussion with a panel of officials of the Public Administration, Home Affairs, Provincial Councils and Local Government Ministry officials, the Prime Minister gave these instructions. (An)
 
 ◼️
 
 [Data](articles/de4d2d61.json)
+
+[Extended Data](ext_articles/de4d2d61.ext.json)
 
 ---
 
@@ -380,25 +398,33 @@ The father of two children, Ilango (age 38), died on the spot.. The other person
 
 ---
 
-### මහ මැතිවරණය 2024: ප්‍රධාන පක්ෂ කිහිපයේ ජාතික ලැයිස්තුවල ඉන්නේ කවුද?
+### The General Election 2024: Who is in the national lists of the major parties?
 
 *2024-10-12 03:17:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crl8px80j32o) · `si`
 
-මහ මැතිවරණය 2024: ප්‍රධාන පක්ෂ කිහිපයේ ජාතික ලැයිස්තුවල ඉන්නේ කවුද?
+Here's a summary of the text in approximately 200 characters:
 
-2024 මහ මැතිවරණය සඳහා තරග කරන දේශපාලන පක්ෂ සහ ස්වාධීන අපේක්ෂකයින්ගේ නාම යෝජනා භාර ගැනීම සිකුරාදා (ඔක්: 11) අවසන් විය.
 
-ශ්‍රී ලංකා පාර්ලිමේන්තුවේ සමස්ත ආසන සංඛ්‍යාව 225ක් වන අතර ඉන් 196ක් සඳහා මන්ත්‍රීවරුන් තෝරා ගනු ලබන්නේ, මහජන ඡන්දයෙනි.
 
-ජාතික ලැයිස්තු ක්‍ර‍මවේදය ක්‍රියාත්මක කිරීමේ අරමුණ වන්නේ, ‘වෘත්තීය වශයෙන් දේශපාලනයේ නිරත නොවීම හමුවේ වන පූර්ව ස්ථාපිත ප්‍ර‍ජා සබඳතා සහ සම්බන්ධතා ජාල නොමැති, නමුත් පාර්ලිමේන්තුව සඳහා දායකත්වය ලබා දීම වැදගත් වන වෘත්තිකයින්, විද්වතුන් ඇතුළු සමාජයේ ප්‍ර‍මුඛ පුද්ගලයින්ට පාර්ලිමේන්තු ක්‍රියාකාරීත්වය හා එක් වීමට අවස්ථාවක් උදා කර දීම’ බව වෙරිටේ රිසර්ච් ආයතනය පවසයි.
+Major parties' national list nominees for Sri Lanka's 2024 General Election include politicians, academics, journalists, and professionals. Notable names include Bimal Ratnayake, Mahinda Yapa Abeywardena, Namal Rajapaksa, and others from various fields. The system allows parties to select candidates based on vote share rather than district representation.
 
-ඒ හරහා, ‘ජනප්‍රිය දේශපාලන චරිත ලෙස පිළිගැනීමක් නැති, එහෙත්, අධ්‍යාපනය හා වෘත්තීය වශයෙන් පාර්ලිමේන්තුව තුළට අගයක් එක් කළ හැකි පුද්ගලයින්ට ඉඩ ලබා දීම’ සිදු කෙරේ.
+🟩
 
-කෙසේ වෙතත්, මහජන ඡන්දයෙන් පරාජය ලැබූවන්, දේශපාලන පක්ෂවල හිතවතුන් ආදී පුද්ගලයින් ද ජාතික ලැයිස්තු ක්‍රමවේදය හරහා පාර්ලිමේන්තු මන්ත්‍රී ධූර ලබා ගත් අවස්ථා බහුල ය.
+The General Election 2024: Who is in the national lists of the major parties?
+
+The nominations of political parties and independent candidates contesting for the general election were completed on Friday (Oct: 11).
+
+The total number of seats in the Parliament of Sri Lanka is 225, of which they are selected for 196 people.
+
+The aim of implementing the National List Methodology is to provide pre-established community relations and connection networks, which are not professionally established in politics, "providing the opportunity to join parliamentary functions including professionals, scholars and scholars, which are important professionals, which are important professionals, professionals and scholars of social support. '"The Verita Research Agency says.
+
+Through it, "the popular political figures are not acceptable, but in education and professional."
 
 ...
 
 [Data](articles/a12e77a4.json)
+
+[Extended Data](ext_articles/a12e77a4.ext.json)
 
 ---
 
@@ -1118,21 +1144,29 @@ Sri Lanka will oppose the Maldives tomorrow afternoon in the program of deciding
 
 ---
 
-### ලාංකිකයින් 36ට ඊශ්‍රායලයේ සාත්තු සේවා රැකියා අවස්ථා
+### Israel's nurses employment opportunities to 36 Sri Lankans
 
 *2024-10-11 19:38:46* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකිකයින්-36ට-ඊශ්‍රායලයේ-සාත්තු-සේවා-රැකියා-අවස්ථා/11-412449) · `si`
 
-ඊශ්‍රායලයේ නිවාස පාදක සාත්තු සේවා රැකියා සඳහා සුදුසුකම් ලැබූ තවත් ශ්‍රි ලාංකිකයින් 36 දෙනෙකු වෙත ගුවන් ටිකට්පත් ලබාදිම අද දින (10/11) ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේදී සිදුකරන ලදී.
+Sri Lankan nurses receive job offers in Israel. 898 have been hired since Jan 2024. 136th & 137th groups of 137 workers, including 29 women, to depart Oct 14. SLBFE facilitates employment opportunities under MoU.
 
-ඊශ්‍රායලයේ සාත්තු සේවා රැකියා හිමිවූ 136 හා 137 වන කණ්ඩායම්වලට අයත් මෙම පිරිස ඔක්තෝම්බර් මස 14 දින දිවයිනෙන් පිටත්ව යාමට නියමිතයි. මෙම කණ්ඩායමට කාන්තාවන් 29 දෙනෙකු හා පිරිමි ශ්‍රමිකයින් 07 දෙනෙකු අයත් වේ.
+🟩
 
-2024 ජනවාරි සිට මේ දක්වා ගතවූ කාලය තුළ ශ්‍රි ලාංකිකයින් 898 දෙනෙකු සඳහා ඊශ්‍රායලයේ සාත්තු සේවා රැකියා අවස්ථා හිමිවී තිබේ.
+Sri Lanka Bureau of Foreign Employment (SLBFE) was conducted at the Sri Lanka Foreign Employment Bureau today (10/11).
 
-ශ්‍රි ලංකා රජය හා ඊශ්‍රායල් රජය අතර ඇතිකර ගත් අවබෝධතා ගිවිසුම අනුව ශ්‍රි ලාංකිකයින්ට ඊශ්‍රායලයේ සාත්තු සේවා රැකියා අවස්ථා හිමිවන අතර, එම අවබෝධතා ගිවිසුම අනුව මේ වන විට ලාංකිකයින් 1732 දෙනෙකු සඳහා ඊශ්‍රායලයේ සාත්තු සේවා රැකියා අවස්ථා හිමිව තිබේ.
+The 136th and 137st groups in Israel and 137 people who have jobs are expected to leave the island on 14th October. The group belongs to 29 women and seven male workers.
 
-...
+Since January, 2024, 898 Sri Lankans have received Israel nurses employment opportunities.
+
+Sri Lankans with Israel's nursing work opportunities, including the Understanding Agreement, which was in the Understanding Agreement and the Understanding (MoU) has provided Israeli nurses at the MoU.
+
+Sri Lankans are employed in the Nurses Service Division of Israel and Sri Lankans are demanding the public to prevent money from providing money in the nursing field between the two countries.
+
+◼️
 
 [Data](articles/0fdb3fe7.json)
+
+[Extended Data](ext_articles/0fdb3fe7.ext.json)
 
 ---
 

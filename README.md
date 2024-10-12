@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 06:44:44**
+As of **2024-10-12 07:25:01**
 
 ## Newspaper Stats
 
-*Scraped **49,058** Articles*
+*Scraped **49,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,334
 adalk | 4,556
 dailymirrorlk | 4,733
 adaderanalk | 5,793
-tamilmirrorlk | 6,662
+tamilmirrorlk | 6,663
 virakesarilk | 7,844
 adaderanasinhalalk | 8,477
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,058 (100.0%) of 49,058 articles have been extended.
+49,059 (100.0%) of 49,059 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -353,6 +353,28 @@ Chitra Amin and Iram Javid scored 12 runs each and Nita Tar 10 runs. No one else
 [Data](articles/767fa35a.json)
 
 [Extended Data](ext_articles/767fa35a.ext.json)
+
+---
+
+### World Food Plan Support for Sri Lanka
+
+*2024-10-12 01:06:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-உலக-உணவுத்-திட்டம்-ஆதரவு/175-345294) · `ta`
+
+Sri Lanka: World Food Program support meeting. President's Secretary Nandika Sanath Kumanayake met with reps. Agreed to continue current program. Crisis level low, new initiatives ready when needed.
+
+🟩
+
+A meeting between the President's Secretary Nandika Sanath Kumanayake and the Representatives of the World Food Scheme took place at the Presidential Secretariat yesterday morning.
+
+Its representatives have agreed to continue the implementation of a program that is currently being implemented in Sri Lanka through the World Food Scheme.
+
+Representatives of the World Food Scheme have told the president's secretary that the food crisis in Sri Lanka is currently low, but the new programs are supported by new programs when needed.. (A)
+
+◼️
+
+[Data](articles/493965d8.json)
+
+[Extended Data](ext_articles/493965d8.ext.json)
 
 ---
 
@@ -2315,27 +2337,5 @@ He added that the initiative aims to improve accountability and ensure proper us
 [Data](articles/5293775a.json)
 
 [Extended Data](ext_articles/5293775a.ext.json)
-
----
-
-### Sri Lanka rupee trades flat at 292.90/293.05 to US dollar, bond yields steady
-
-*2024-10-11 11:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-flat-at-292-90-293-05-to-us-dollar-bond-yields-steady-183170/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading flat at 292.90/293.05 to the US dollar on Friday, from 292.85/293.00 a day earlier, while bond yields were steady during the ongoing auction dealers said.
-
-An issue of 95,000 million rupees in Treasury Bonds was ongoing.
-
-A bond maturing on 15.02.2028 was quoted stable at 11.70/80 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.95/12.00 percent, up from 11.95/12.05 percent.
-
-In equities, Colombo’s All Share Price Index was trading 0.90 percent, or 109.89 points higher at 12,274, while the S&P SL20 of more liquid stocks was trading up 1.12 percent or 40.27 points higher at 3,641.
-
-◼️
-
-[Data](articles/ce9b0582.json)
-
-[Extended Data](ext_articles/ce9b0582.ext.json)
 
 ---

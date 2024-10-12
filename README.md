@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 08:58:29**
+As of **2024-10-12 09:11:23**
 
 ## Newspaper Stats
 
-*Scraped **49,067** Articles*
+*Scraped **49,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 3,017
 dailyftlk | 3,334
 adalk | 4,556
 dailymirrorlk | 4,733
-adaderanalk | 5,795
+adaderanalk | 5,797
 tamilmirrorlk | 6,668
 virakesarilk | 7,844
-adaderanasinhalalk | 8,477
+adaderanasinhalalk | 8,480
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,067 (100.0%) of 49,067 articles have been extended.
+49,072 (100.0%) of 49,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### President holds virtual discussion with USAID Administrator on future cooperation
+
+*2024-10-12 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102630/president-holds-virtual-discussion-with-usaid-administrator-on-future-cooperation) · `en`
+
+President Anura Kumara Dissanayake conducted a virtual discussion yesterday (11) with the Administrator of the United States Agency for International Development (USAID) Ms Samantha Power.
+
+During the meeting, the two leaders exchanged views on matters of mutual interest and explored avenues for future cooperation, the President’s Media Division (PMD) stated.
+
+Notably, Ms. Samantha Power, the USAID Administrator, stated that USAID is willing to support the government aligning with the manifesto presented to the people.
+
+Ms. Samantha Power also assured President Dissanayake that USAID is prepared to support Sri Lanka in any way needed. This commitment reflects a shared vision for enhancing development and cooperation with the USAID agency, the PMD reported.
+
+◼️
+
+[Data](articles/a0d9bbe0.json)
+
+[Extended Data](ext_articles/a0d9bbe0.ext.json)
+
+---
+
+### Welipenna Interchange on Expressway reopens for vehicles
+
+*2024-10-12 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102629/welipenna-interchange-on-expressway-reopens-for-vehicles-) · `en`
+
+The Welipenna Interchange on the Southern Expressway, which was closed due to a minor flood situation, has now reopened for traffic, according to the Road Development Authority (RDA).
+
+◼️
+
+[Data](articles/7a2127f5.json)
+
+[Extended Data](ext_articles/7a2127f5.ext.json)
+
+---
+
+### Discussion between President and Samantha Power
+
+*2024-10-12 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202077) · `si`
+
+President Anura Kumara Dissanayake discusses US aid with Samantha Power via video conference. They agree on supporting development projects in Sri Lanka. The meeting aims to strengthen bilateral relations and promote economic growth.
+
+🟩
+
+A discussion was held between President Anura Kumara Dissanayake and the US Agency of the United States Agency of the United States Agency of the United States Agency.
+
+The Presidential Media Unit announced that this discussion was held through online technology.
+
+The US Agency for Sri Lanka and the United States agency for international development has been discussed.
+
+Samantha Power has said that the government's policy statement and the policies of the US agency are similar.
+
+The Presidential Media Unit said that he was fully supported by the President, Banda Power, who is fully supported for the benefit of the people.
+
+Samanarha Power has been committed to expand the development process and the US agency for international development and the US agency for international development and the US agency and Sri Lanka.
+
+◼️
+
+[Data](articles/f6bb5037.json)
+
+[Extended Data](ext_articles/f6bb5037.ext.json)
+
+---
 
 ### Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers in separate strikes
 
@@ -47,6 +109,26 @@ In central Beirut, rescue workers combed Friday through the rubble of a collapse
 [Data](articles/0518a0f6.json)
 
 [Extended Data](ext_articles/0518a0f6.ext.json)
+
+---
+
+### Closing Welipenna login reopens
+
+*2024-10-12 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202076) · `si`
+
+Welipenna entrance reopened after flooding closes it temporarily due to heavy rainfall in Kalutara district.
+
+🟩
+
+With the decrease in the Kalutara district, the Welipenna entrance on the Southern Expressway was re-opened today (12).
+
+The Welipenna entrance was inundated yesterday morning with the shaped rain, resulting in a temporary closed.
+
+◼️
+
+[Data](articles/cfa0ef60.json)
+
+[Extended Data](ext_articles/cfa0ef60.ext.json)
 
 ---
 
@@ -175,6 +257,34 @@ He pointed out that the school students and the public should be organized to or
 [Data](articles/70369817.json)
 
 [Extended Data](ext_articles/70369817.ext.json)
+
+---
+
+### MM. Heavy rains around 100
+
+*2024-10-12 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202075) · `si`
+
+Heavy rains expected in SW Sri Lanka. Thundershowers forecasted for Western, Sabaragamuwa, Southern, North Western and Central provinces. Strong winds predicted. Public advised to be cautious due to potential lightning and wind-related hazards.
+
+🟩
+
+Due to the prevailing atmosphere in the island, the existing showers in the southwest of the island can further expect the existing rain condition.
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern, Southern, North Western and Central provinces.
+
+Mm in the Western and Sabaragamuwa Province and in the Galle and Matara districts. Heavy rains will occur at around 100.
+
+Thundershowers will develop at several places in the evening or night during the evening or night.
+
+From time to time in Western, Sabaragamuwa, Southern, Southern, North Western and Central provinces. The Department of Meteorology says that about 30-40 times there is strong winds.
+
+The public is kindly requested to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/2c01ee19.json)
+
+[Extended Data](ext_articles/2c01ee19.ext.json)
 
 ---
 
@@ -2237,121 +2347,5 @@ United National Party Advanced Viraj Kariyawasam has also decided not to contest
 [Data](articles/108eaef9.json)
 
 [Extended Data](ext_articles/108eaef9.ext.json)
-
----
-
-### Sri Lanka household healthcare costs rise, access to primary healthcare declines: IPS
-
-*2024-10-11 12:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-household-healthcare-costs-rise-access-to-primary-healthcare-declines-ips-183187/) · `en`
-
-ECONOMYNEXT — Household healthcare costs in Sri Lanka have risen 48 percent within a year from 2020 to 2021 and access to primary healthcare has declined from 95 percent in 2019 to 82 percent in 2022/2023, the Institute for Policy Studies (IPS) said.
-
-Speaking at an event on Tuesday October 08, IPS Economist Sunimalee Madurawala said that, though the country once prided itself on achieving remarkable health outcomes with minimal spending, recent crises have exposed significant weaknesses in the system.
-
-“Sri Lanka allocates only 8-9% of its total public spending to healthcare, far below the global average,” Madurawala said, noting that household healthcare costs have skyrocketed – rising by 48 percent within just one year from 2020 to 2021.
-
-...
-
-[Data](articles/6d071c1e.json)
-
-[Extended Data](ext_articles/6d071c1e.ext.json)
-
----
-
-### Damitha’s name not included in SJB nominations list?
-
-*2024-10-11 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102615/damithas-name-not-included-in-sjb-nominations-list) · `en`
-
-The name of actress Damitha Abeyratne has reportedly not been included in the nominations list of the Samagi Jana Balawegaya (SJB) for the Ratnapura District.
-
-When she had arrived at the Ratnapura District Secretariat today (11) to sign her nomination for the Samagi Jana Balawegaya (SJB) in the upcoming General Election, she was informed that her name was not included on the list.
-
-Damita Abeyratne had announced yesterday (10) that she will contest the General Election representing SJB from the Ratnapura District.
-
-◼️
-
-[Data](articles/c5121790.json)
-
-[Extended Data](ext_articles/c5121790.ext.json)
-
----
-
-### Former Deputy Minister WP. Ekanayake has passed away
-
-*2024-10-11 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196017) · `ta`
-
-Former Deputy Minister WP. Ekanayake passes away at 76. Body found in bathroom. Died of heart attack while living alone.
-
-🟩
-
-Former Parliamentarian and Deputy Minister of Anuradhapura District. Ekanayake passed away at the age of 76.
-
-The body was recovered in the bathroom of his house yesterday (10), police said.
-
-Preliminary inquiries revealed that he was living alone in the house and died of a heart attack.
-
-◼️
-
-[Data](articles/ea4e7236.json)
-
-[Extended Data](ext_articles/ea4e7236.ext.json)
-
----
-
-### Bials after the Rajapaksa family.Why doesn't the Rajapaksas come to the general election?
-
-*2024-10-11 12:36:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20p2kw309yo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Rajapaksa family absent from Sri Lanka's 2023 general election due to economic crisis, corruption allegations, and public discontent. Former leaders face legal challenges and loss of public support.
-
-🟩
-
-Bials after the Rajapaksa family.Why doesn't the Rajapaksas come to the general election?
-
-"Do you think another Rajapaksa man will come to him?"It is a statement made by Ranil Wickremesinghe in an interview with BBC Sinhala after he accepted the post of Prime Minister in 2022.
-
-Before 3 years, the Rajapaksas' political trajectory has been undermined.
-
-Sri Lankan Citizens acquired the Presidential Pathship
-
-However, Ranil Wickremesinghe, who made the statement, was also held recently to defeat my continued presidential election campaign.
-
-It is noteworthy that the founders of the Sri Lanka General Front, the founders of the Sri Lanka General Front, will not be admitted to the list and nomination list.
-
-How did the Rajapaksas who had been dominated in Sri Lankan politics from 2005 to 2019 had such political fate?
-
-For many years, the Rajapaksa family has been a significant force in Sri Lanka and the Rajapaksas, Governor and Member of the Hon.
-
-...
-
-[Data](articles/afbd487f.json)
-
-[Extended Data](ext_articles/afbd487f.ext.json)
-
----
-
-### Ek is not available for election
-
-*2024-10-11 12:33:42* · [`adalk`](https://www.ada.lk/breaking_news/කනකත්-මැතිවරණයට-නෑ/11-412442) · `si`
-
-Former State Minister Kanaka Herath announces he won't run in this year's election. He cites need for change, plans to focus on career and family. Will continue supporting his district politically.
-
-🟩
-
-A former State Minister as well as former Kegalle District MP Kanaka Herath, a former Minister of Kegalle, has issued a statement that this year is not contesting this year's general election.
-
-"මේ අවස්ථාවේදී රටේ ජනතාවට වෙනසක් අවශ්‍ය විය. Therefore, I intend to use the shorterness of the change and to complete my engineering profession and complete the Dr. Degree of the University of Moratuwa and to spend with the family.
-
-And I am still standing for the people of my district. I will take a jointly with the political ideology I believe. "
-
-◼️
-
-[Data](articles/6d163342.json)
-
-[Extended Data](ext_articles/6d163342.ext.json)
 
 ---

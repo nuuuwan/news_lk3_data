@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 20:23:25**
+As of **2024-10-12 20:38:51**
 
 ## Newspaper Stats
 
-*Scraped **49,143** Articles*
+*Scraped **49,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 5,807
 tamilmirrorlk | 6,691
 virakesarilk | 7,857
-adaderanasinhalalk | 8,498
+adaderanasinhalalk | 8,499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,143 (100.0%) of 49,143 articles have been extended.
+49,144 (100.0%) of 49,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### More information about the Chinese racketeering in Sri Lanka
+
+*2024-10-12 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202099) · `si`
+
+Chinese racketeering arrests in Sri Lanka: 126 nationals detained for online fraud. Police seized 120 laptops, 14 computers, and 300+ mobile phones. 17 Chinese women among those arrested. Some suspects escaped via Mahaweli River.
+
+🟩
+
+The police have arrested 126 Chinese nationals to arrest online financial fraud.
+
+Police said that the Hotel Managingt knew that the Internet fiscal fraud was made.
+
+There were many information regarding the recently large-scale public money on the Internet.
+
+The Criminal Investigations Department (CID) was raided at the recent past many foreign investigations to capture many foreign nationals from social media and telephone calls.
+
+In this backdrop, 126 Chinese nationals were taken into custody at a tourist hotel in Kundasale, Kandy.
+
+The OIC Aruna Jayasinghe of the Special Investigation Unit at the Central Province Senior DIG's office was in a missionary operation to conduct a few policemen including Kandy.
+
+Among the arrested were 17 Chinese women.
+
+However, when several other Chinese were raided, however, some other Chinese had fled the Mahaweli River from the area.
+
+...
+
+[Data](articles/20f93df1.json)
+
+[Extended Data](ext_articles/20f93df1.ext.json)
+
+---
 
 ### Two killed and child killed in train
 
@@ -2359,27 +2391,5 @@ Chitra Amin and Iram Javid scored 12 runs each and Nita Tar 10 runs. No one else
 [Data](articles/767fa35a.json)
 
 [Extended Data](ext_articles/767fa35a.ext.json)
-
----
-
-### World Food Plan Support for Sri Lanka
-
-*2024-10-12 01:06:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-உலக-உணவுத்-திட்டம்-ஆதரவு/175-345294) · `ta`
-
-Sri Lanka: World Food Program support meeting. President's Secretary Nandika Sanath Kumanayake met with reps. Agreed to continue current program. Crisis level low, new initiatives ready when needed.
-
-🟩
-
-A meeting between the President's Secretary Nandika Sanath Kumanayake and the Representatives of the World Food Scheme took place at the Presidential Secretariat yesterday morning.
-
-Its representatives have agreed to continue the implementation of a program that is currently being implemented in Sri Lanka through the World Food Scheme.
-
-Representatives of the World Food Scheme have told the president's secretary that the food crisis in Sri Lanka is currently low, but the new programs are supported by new programs when needed.. (A)
-
-◼️
-
-[Data](articles/493965d8.json)
-
-[Extended Data](ext_articles/493965d8.ext.json)
 
 ---

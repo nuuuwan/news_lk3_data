@@ -1,19 +1,19 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 23:58:44**
+As of **2024-10-13 00:12:20**
 
 ## Newspaper Stats
 
-*Scraped **49,159** Articles*
+*Scraped **49,162** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
-colombotelegraphcom | 488
+colombotelegraphcom | 490
 bbccomsinhala | 491
 islandlk | 2,904
-economynextcom | 3,018
+economynextcom | 3,019
 dailyftlk | 3,334
 adalk | 4,560
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,504
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,159 (100.0%) of 49,159 articles have been extended.
+49,162 (100.0%) of 49,162 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -208,6 +208,30 @@ Field Marshal Sarath Fonseka, Vijayadasa Rajapaksa, and Janaka Ratnayake have su
 
 ---
 
+### Sivaram assassination - Lalit Kugan missing
+
+*2024-10-12 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196135) · `ta`
+
+Sivaram assassination: Police investigate Lalith Kugan's disappearance. Public Security Ministry orders probe into Central Bank bailout. Death of police officer reported near Dabiley 15 Hotel in Weligama.
+
+🟩
+
+The Ministry of Public Security has ordered the police to expedite investigations into the disappearance of Lalith Kugan Lalit Kugan, the Mass of Dharmaratnam.
+
+The Public Security Ministry has requested the Central Bank to intensify investigations into the Central Bank bailout.
+
+The police spokesman said that the Public Security Response Chancellor has been asked to work with the CIT and the appropriate police on these incidents.
+
+The Defense Ministry has ordered the death of a police officer in the shooting near Dabiley 15 Hotel in Weligama
+
+◼️
+
+[Data](articles/c96a8165.json)
+
+[Extended Data](ext_articles/c96a8165.ext.json)
+
+---
+
 ### Initiative to improve national security awareness
 
 *2024-10-12 21:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பாதுகாப்பு-விழிப்புணர்வை-மேம்படுத்த-புதிய-திட்டம்-ஆரம்பம்/175-345326) · `ta`
@@ -267,30 +291,6 @@ The reason is that the two thighs cover completely their faces, cannot find any 
 [Data](articles/4925ba0f.json)
 
 [Extended Data](ext_articles/4925ba0f.ext.json)
-
----
-
-### Sivaram assassination - Lalit Kugan missing
-
-*2024-10-12 20:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/196135) · `ta`
-
-Sivaram assassination: Police investigate Lalith Kugan's disappearance. Public Security Ministry orders probe into Central Bank bailout. Death of police officer reported near Dabiley 15 Hotel in Weligama.
-
-🟩
-
-The Ministry of Public Security has ordered the police to expedite investigations into the disappearance of Lalith Kugan Lalit Kugan, the Mass of Dharmaratnam.
-
-The Public Security Ministry has requested the Central Bank to intensify investigations into the Central Bank bailout.
-
-The police spokesman said that the Public Security Response Chancellor has been asked to work with the CIT and the appropriate police on these incidents.
-
-The Defense Ministry has ordered the death of a police officer in the shooting near Dabiley 15 Hotel in Weligama
-
-◼️
-
-[Data](articles/c96a8165.json)
-
-[Extended Data](ext_articles/c96a8165.ext.json)
 
 ---
 
@@ -612,6 +612,20 @@ However, the decision has been made because he has suddenly dismissed the post o
 
 ---
 
+### Is Joker: Folie à Deux An Actual Failure?
+
+*2024-10-12 18:20:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-joker-folie-a-deux-an-actual-failure/) · `en`
+
+When I first heard of the movie release I was counting days and when it was finally out in cinemas, the first thing I did was check the reviews and ratings expecting exceptional reviews to have bombarded. No sooner did I realize that I was wrong; it was disheartening to witness negative reviews and such low ratings for a movie and especially a character most of us spoke highly of. At the same time, I was curious to understand the reason for its flop.
+
+...
+
+[Data](articles/35e2b83a.json)
+
+[Extended Data](ext_articles/35e2b83a.ext.json)
+
+---
+
 ### Promote relief to the affected people - President
 
 *2024-10-12 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202095) · `si`
@@ -637,6 +651,46 @@ At least 2,200 people in 584 families have been held safely in 23 relief centers
 [Data](articles/fdcc2a9d.json)
 
 [Extended Data](ext_articles/fdcc2a9d.ext.json)
+
+---
+
+### Sri Lanka CSE to list riskier bonds targeting qualified investors
+
+*2024-10-12 18:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-cse-to-list-riskier-bonds-targeting-qualified-investors-183316/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Colombo Stock Exchange said it will allow companies with below investment grade rating to sell and list stocks to qualified investor who are able to manager riskier assets.
+
+“Only specific types of companies, such as those regulated by the Central Bank of Sri Lanka or the Insurance Regulatory Commission of Sri Lanka, are eligible to issue these High-Yield Bonds,” the CSE said in a statement.
+
+“This ensures that regulated entities, including banks, non-banking financial institutions, and insurance companies, can participate in this new financing opportunity.”
+
+Trading will occur on the high-yield debt will be allowed on an Over-the-Counter (OTC) Platform, and will be restricted “qualified investors”.
+
+“These investors, similar to those in Basel III-compliant securities, are typically more experienced in managing risks,” the CSE said.
+
+...
+
+[Data](articles/6140a85b.json)
+
+[Extended Data](ext_articles/6140a85b.ext.json)
+
+---
+
+### Ensure Freedom Of Expression: Jaffna University Teachers’ Association
+
+*2024-10-12 18:04:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ensure-freedom-of-expression-jaffna-university-teachers-association/) · `en`
+
+The University of Jaffna Teachers’ Association, in a statement condemning the recent smear campaign against fifteen academics of the University, has demanded the administration of the University to ensure freedom of expression within the University of Jaffna.
+
+On the 17th of October 2024, fifteen academics of the University of Jaffna put out a statement on the Presidential Elections 2024. The statement urged the Tamils and other minority communities to evaluate in a holistic manner the challenges facing the country and their communities following the economic crisis that started in 2022 and vote in the elections in an appropriate manner without isolating themselves from mainstream politics.
+
+The signatories of the statement underlined that voting or not voting in the presidential elections on the basis of Tamil nationalist aspirations may not be very helpful, while urging the people to reject the government at the time.
+
+...
+
+[Data](articles/88854a09.json)
+
+[Extended Data](ext_articles/88854a09.ext.json)
 
 ---
 
@@ -2409,83 +2463,5 @@ Through it, "the popular political figures are not acceptable, but in education 
 [Data](articles/a12e77a4.json)
 
 [Extended Data](ext_articles/a12e77a4.ext.json)
-
----
-
-### Jeep telephone seizure that caused a loss to the government
-
-*2024-10-12 02:17:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்துக்கு-நட்டத்தை-ஏற்படுத்திய-ஜீப்-பறிமுதல்/175-345295) · `ta`
-
-Jeep seizure causes government loss: Colombo Magistrate orders customs to confiscate Mitsubishi Montero, citing tax evasion. Vehicle owned by prominent businessman in Badulla. Case part of larger investigation involving hundreds of vehicles seized since 2015.
-
-🟩
-
-Colombo Chief Magistrate Thilina Kamage yesterday ordered the customs department to confiscate the luxury Mitsubishi Montero jeep, who was reported to have been abducted to customs to lose a tax on the government.
-
-The GZ 9630 jeep, which was produced before the Bribery or Corruption Commission, has been ordered to be confiscated.
-
-The vehicle was seized when the vehicle was in the possession of a famous businessman in Badulla, the Commission stated in court.
-
-After 2015, a court order has been ordered to hand over two hundred cars to the Customs Department, which lost several crores of rupees.
-
-Following this, the Corruption Commission said in court that the car was seized and investigated.. (That)
-
-◼️
-
-[Data](articles/1a22e25d.json)
-
-[Extended Data](ext_articles/1a22e25d.ext.json)
-
----
-
-### It is wrong to think that the presidential election victory can be won in other elections - Eran Wickremaratne
-
-*2024-10-12 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196076) · `ta`
-
-Eran Wickremaratne: Presidential election victory doesn't guarantee future election wins. Party control of Parliament determines governance. Candidates must be chosen democratically, not imposed. Cooperation with proper government decisions is crucial.
-
-🟩
-
-It is wrong to think that if he wins the presidential election, you can win every election in the next election. Former parliamentarian Eran Wickramaratne said that this is not to choose the leadership faculty of whom to send parliament after the election results were released.
-
-He further stated at a press conference held at the United People's Power Office in Colombo on Friday (11).
-
-Most of the people are in the position that if they win the presidential election, the general election and the provincial council election can be won. This is a completely wrong position. The party that seizes the most seats in Parliament will rule. The majority of the parliament should be implemented to implement the budget.
-
-We hope that such a government can be formed by the United People's Alliance. In democratic countries, the president is elected from a party and a prime minister's party. This is often taken in the United States. Some parties tell the party to vote. Not talking about optional.
-
-...
-
-[Data](articles/955fd010.json)
-
-[Extended Data](ext_articles/955fd010.ext.json)
-
----
-
-### 22 political parties and 27 independent groups competition in Batticaloa district
-
-*2024-10-12 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196075) · `ta`
-
-Batticaloa district election summary: 22 parties, 27 independent groups, 56 candidates nominated. 49 nominations accepted. 400,000+ voters, 442 polling stations. Election on Nov 14.
-
-🟩
-
-56 candidates, including independent committees in the Batticaloa district, have filed 56 nominations, including 7 independents, and 49 candidates, including 22 parties, 27 independents, and 392 candidates will contest.
-
-He was speaking at a press conference held on Friday (11) at the Old Concert Hall in Batticaloa.
-
-Four hundred and 49 thousand 686 people in the Batticaloa district are eligible to vote and 442 voting centers will be voted for the upcoming parliamentary elections on November 14.
-
-The nomination papers for the election were taken from October 4 to 11 pm.. Of these, 23 parties, 33 independent groups, were filed with 56 nominations
-
-One of these party, including a six independent committee, was rejected and 49 nominations were accepted, including 22 parties, 27 independent groups.
-
-Meanwhile, the district in the 2020 election;It is noteworthy that 16 parties and 304 candidates from 22 independents have contested for 5 representatives.
-
-◼️
-
-[Data](articles/8328a87e.json)
-
-[Extended Data](ext_articles/8328a87e.ext.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 10:57:37**
+As of **2024-10-12 11:10:26**
 
 ## Newspaper Stats
 
-*Scraped **49,089** Articles*
+*Scraped **49,090** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 488
-bbccomsinhala | 490
+bbccomsinhala | 491
 islandlk | 2,903
 economynextcom | 3,017
 dailyftlk | 3,334
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,089 (100.0%) of 49,089 articles have been extended.
+49,090 (100.0%) of 49,090 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -661,6 +661,44 @@ The father of two children, Ilango (age 38), died on the spot.. The other person
 [Data](articles/9acdd41f.json)
 
 [Extended Data](ext_articles/9acdd41f.ext.json)
+
+---
+
+### Employment: 'Even at the weekend, we work in our oils about this targat'
+
+*2024-10-12 04:51:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjd5858x345o) · `si`
+
+Here's a 200-character summary:
+
+
+
+Workplace pressures impact mental health globally. Long hours, lack of support, and blurred boundaries between work and personal life cause stress. Employees struggle balancing professional demands and family responsibilities. Mental health initiatives are needed to address these issues.
+
+🟩
+
+Employment: 'Even at the weekend, we work in our oils about this targat'
+
+It is problematic whether the concern for many people in their physical health.
+
+Due to the importance of the mental health, the World Health Organization has even reserved a date on October 10 every year.
+
+This year was that theme was to "place the employment in the workplace".
+
+Workplace pressure: How do you detect that you are a victim?
+
+With the commitment of suicide in the private company of India, a employee has been able to bother over the job in the job.
+
+The majority of the people who have paid their lives in the job have been a Sinhala conversation with a few selected people.
+
+"If you take 50 women with me, 25 people who take medicine to diption do not have medicine."The garment workers in the Katunayaka Free Trade Zone began with our talk.
+
+Even during the Korea Epidemiology, many women worked for the economy of the country, and many women worked in the country, and our speech is also one of them.
+
+...
+
+[Data](articles/c69a67c9.json)
+
+[Extended Data](ext_articles/c69a67c9.ext.json)
 
 ---
 
@@ -2331,23 +2369,5 @@ Considering the difficulties and demands of pensioners faced by the interim paym
 [Data](articles/c19ff3de.json)
 
 [Extended Data](ext_articles/c19ff3de.ext.json)
-
----
-
-### Sri Lanka sells Rs95bn in 2028 and 2032 bonds
-
-*2024-10-11 15:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs95bn-in-2028-and-2032-bonds-183199/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 95 billion rupees in 2028 and 2032 bonds, data from the state debt office showed.
-
-All offered 70 billion rupees of 15 March 2028 bonds were sold at an average yield of 11.79 percent.
-
-All offered 25 billion rupees of 01 October 2032 bonds were sold at an average yield of 12.36 percent. (Colombo/Oct11/2024)
-
-◼️
-
-[Data](articles/8500da5e.json)
-
-[Extended Data](ext_articles/8500da5e.ext.json)
 
 ---

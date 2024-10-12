@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 19:08:59**
+As of **2024-10-12 19:23:24**
 
 ## Newspaper Stats
 
-*Scraped **49,134** Articles*
+*Scraped **49,138** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,559
 dailymirrorlk | 4,733
 adaderanalk | 5,806
 tamilmirrorlk | 6,689
-virakesarilk | 7,853
+virakesarilk | 7,857
 adaderanasinhalalk | 8,496
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,134 (100.0%) of 49,134 articles have been extended.
+49,138 (100.0%) of 49,138 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -292,6 +292,84 @@ This is the final of the tournament in the first round of the tournament.
 
 ---
 
+### Sarathkumar - Shanmukha Pandian co -starring 'Kombu Sevi'
+
+*2024-10-12 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196118) · `ta`
+
+Sarathkumar, Shanmukha Pandian star in "Kombu Sevi". Directed by Gold, music by Yuvan Shankar Raja. Produced by Mukesh Da, produced by Chelliah. Released in Tamil Nadu.
+
+🟩
+
+The new film, which has played the lead roles as the heroes of 'Supreme Star' Sarathkumar and 'Young Captain' Shanmukha Pandiyan as the heroes of the story, has been named 'Kombu Sevi' and has been released.
+
+Star director gold. Sarathkumar, Shanmukha Pandiyan, Kali Venkat, Tamika, 'Kalki' Raja and many others star in the film 'Kombu Sevi'.
+
+Yuvan Shankar Raja is composing the film, which is being recorded by Balasubramaniam.
+
+Mukesh Da, producer of the film, is being made as an existing entertainer in the 1996 truth event in Usilampatti and Andipatti, near Madurai, the southern part of Tamil Nadu.. Chelliah produces.
+
+Sarathkumar and Shanmukha Pandian appear in a different look and the presence of the police station and the police in the background has kept the expectation of the image.
+
+◼️
+
+[Data](articles/6bf3e5d2.json)
+
+[Extended Data](ext_articles/6bf3e5d2.ext.json)
+
+---
+
+### 'Mega Star' starring Chiranjeevi 'Viswambara'
+
+*2024-10-12 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196115) · `ta`
+
+"Viswambara: Chiranjeevi stars in epic Hindu mythological film. Directed by Vashishta, featuring Trisha, Ashika Ranganath, Kunal Kapoor. Cinematography by Chota K. Naidu, music by M. Kiravani. Produced by UV Creations. Released Jan 10, 2024."
+
+🟩
+
+The film 'Viswambara' starring Mega Star Chiranjeevi has been released.
+
+Chiranjeevi, Trisha, Ashika Ranganath and Kunal Kapoor have starred in the upcoming film 'Viswambara' directed by director Vashishta.
+
+Chota K. Naidu is a cinematography.. M.. Kiravani has composed music.
+
+The film is being produced by Vamsi, Pramod and Vikram Reddy on behalf of UV Creations.
+
+The film has been released on January 10 next year at the film House.
+
+Fans are expecting the fans of the Hindu mythical mythology and the magnificent visuals of the Hindu mythology.
+
+◼️
+
+[Data](articles/cc41c69b.json)
+
+[Extended Data](ext_articles/cc41c69b.ext.json)
+
+---
+
+### The Release of the movie 'Mr. House Keeping' produced by Tenandal Films
+
+*2024-10-12 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196113) · `ta`
+
+"Mr. House Keeping" released by Tenandal Films stars newcomer Haripaskar. Directed by Arun Ravichandran, it features Hari Bhaskar, Losia, Princess, Shah Ra, Rayan. Comedy film co-produced by Ramaswamy and Nithin Manohar. Heroine joins hero's office, their relationship popular with fans.
+
+🟩
+
+The film 'Mr. House Keeping' has been released as the hero of the story of newcomer Haripaskar.
+
+The film 'Mr. House Keeping', directed by debutant director Arun Ravichandran, has starred in Hari Bhaskar, Losia, Princess, Shah Ra, Rayan.
+
+The film, which is centered on the comedy, has co -produced the producer Ramaswamy and Nithin Manohar on behalf of Tenandal Films.
+
+In this, the heroine joins the office of the office of the heroine. The relationship between him and the hero and the relationship of the hero and the love of the relationship has been greatly welcomed by the fans.
+
+◼️
+
+[Data](articles/ae9c1e86.json)
+
+[Extended Data](ext_articles/ae9c1e86.ext.json)
+
+---
+
 ### Boeing company in crisis
 
 *2024-10-12 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202090) · `si`
@@ -313,6 +391,34 @@ Meanwhile, Boeing's market sections have also fallen by 2.12 percent.
 [Data](articles/1b93e410.json)
 
 [Extended Data](ext_articles/1b93e410.ext.json)
+
+---
+
+### Vijay Sethupathi - Suri's update movie 'Liberation Part 2'
+
+*2024-10-12 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196112) · `ta`
+
+"Liberation Part 2" update: Vijay Sethupathi directs alongside Suri, Anurag Kashyap. Shooting ongoing; first dubbing complete. Expected worldwide release Dec 20. Successor to critically acclaimed "Liberation".
+
+🟩
+
+The film crew has released a special photo of the second part of the release of the film, which is playing the heroes of the story.
+
+Directed by Vijay Sethupathi, Suri, Anurag Kashyap, Manju Warrior, Bose Venkat, Kishore, Ken Karunas, Rajiv Menon, Gautam Vasudev Menon, Bhavani Sri, Vincent Asokan, Sethhan.
+
+The film is being produced by producer Elrett Kumar on behalf of RS Infotainment film company.
+
+The shooting of the film Liberation Part 2 is currently underway and the first dubbing of the post -shooting technology work is underway.
+
+The film is expected to be released at the film House around the world on the twenty of December.
+
+Vijay Sethupathi, Suri, Vijayamaran, Ilayaraja, the first part of the film 'Liberation' released in the alliance has been critically and grossly successful, has increased the expectation of the second part of the film.
+
+◼️
+
+[Data](articles/8eeb04af.json)
+
+[Extended Data](ext_articles/8eeb04af.ext.json)
 
 ---
 
@@ -2263,83 +2369,5 @@ Former President Gotabhaya Rajapakse, former President Mahinda Rajapaksa, former
 [Data](articles/b84cd922.json)
 
 [Extended Data](ext_articles/b84cd922.ext.json)
-
----
-
-### Can The NPP Ignite The Road To Prosperity In Sri Lanka?
-
-*2024-10-11 21:50:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/can-the-npp-ignite-the-road-to-prosperity-in-sri-lanka/) · `en`
-
-As Sri Lanka embarks on a transformative journey under the inspiring leadership of President Anura Kumara Dissanayake and the National People’s Power (NPP), a powerful wave of optimism sweeps across the nation. President Dissanayake’s inaugural address painted a compelling vision for a cleaner political landscape, robust democratic rights, and a strategic response to the country’s most pressing challenges. Acknowledging the complexities ahead, he called for collaboration with the business community and international partners to forge a brighter future.
-
-The new government steps into a landscape rife with challenges, yet these obstacles present fertile ground for meaningful reform. President Dissanayake has outlined vital priorities:
-
-* Economic Revitalisation: A commitment to address poverty and stimulate economic growth.
-
-* Political Reform: A fresh approach to fostering a new political culture transcending historical grievances.
-
-...
-
-[Data](articles/d2b7a5e8.json)
-
-[Extended Data](ext_articles/d2b7a5e8.ext.json)
-
----
-
-### Change in the next 24 hours
-
-*2024-10-11 21:48:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணித்தியாலங்களில்-மாற்றம்/175-345291) · `ta`
-
-Widespread rains forecasted nationwide within 24 hours. Heavy downpours predicted in Western, Sabaragamuwa, Central Provinces and Galle, Matara districts. Public advised to take precautions against lightning and strong winds.
-
-🟩
-
-The Department of Meteorology has announced that there will be widespread rains in the country over the next 24 hours.
-
-Heavy rains are expected in some areas in the Western, Sabaragamuwa and Central Provinces and Galle and Matara districts, the department said.
-
-Meanwhile, the public is asked by the Department of Meteorology to protect themselves from lightning and winds during the rainy season.. Remble
-
-◼️
-
-[Data](articles/0bf2f87b.json)
-
-[Extended Data](ext_articles/0bf2f87b.ext.json)
-
----
-
-### Sri Lanka President discusses future cooperation with top USAID official
-
-*2024-10-11 21:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-discusses-future-cooperation-with-top-usaid-official-183289/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake held a virtual discussion with the Administrator of the United States Agency for International Development (USAID) Samantha Power on future cooperation, the President’s Media Division said.
-
-It is the first meeting between Power and Dissanayake since the Presidential elections on September 21.
-
-“During the meeting, the two leaders exchanged views on matters of mutual interest and explored avenues for future cooperation,” the PMD said in a statement.
-
-Power stated that USAID is willing to support the government aligning with the manifesto presented to the people; the PMD said referring to Dissanayake’s policy framework focused on strong anti-corruption actions.
-
-“Samantha Power also assured President Dissanayake that USAID is prepared to support Sri Lanka in any way needed. This commitment reflects a shared vision for enhancing development and cooperation with the USAID agency,” PMD said.
-
-...
-
-[Data](articles/06188149.json)
-
-[Extended Data](ext_articles/06188149.ext.json)
-
----
-
-### Sri Lanka and USAID discuss future cooperation
-
-*2024-10-11 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102626/sri-lanka-and-usaid-discuss-future-cooperation) · `en`
-
-President Anura Kumara Dissanayake said that he had a productive virtual discussion today with USAID Administrator Samantha Power, exploring future cooperation and how USAID can support Sri Lanka’s development initiatives.
-
-◼️
-
-[Data](articles/831c08d8.json)
-
-[Extended Data](ext_articles/831c08d8.ext.json)
 
 ---

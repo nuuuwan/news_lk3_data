@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 17:08:37**
+As of **2024-10-12 17:39:46**
 
 ## Newspaper Stats
 
-*Scraped **49,121** Articles*
+*Scraped **49,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,112 @@ economynextcom | 3,018
 dailyftlk | 3,334
 adalk | 4,558
 dailymirrorlk | 4,733
-adaderanalk | 5,803
+adaderanalk | 5,805
 tamilmirrorlk | 6,686
 virakesarilk | 7,853
-adaderanasinhalalk | 8,490
+adaderanasinhalalk | 8,492
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,121 (100.0%) of 49,121 articles have been extended.
+49,125 (100.0%) of 49,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Boeing to lay off 17,000 staff to recoup finances during ongoing strike
+
+*2024-10-12 17:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102637/boeing-to-lay-off-17000-staff-to-recoup-finances-during-ongoing-strike) · `en`
+
+Boeing plans to lay off about 10% of its workers in the coming months, about 17,000 people, as it continues to lose money and tries to deal with a strike that is crippling production of the company’s best-selling airline planes.
+
+New CEO Kelly Ortberg told staff in a memo Friday that the job cuts will include executives, managers and employees.
+
+The company has about 170,000 employees worldwide, many of them working in manufacturing facilities in the states of Washington and South Carolina.
+
+Boeing had already imposed rolling temporary furloughs, but Ortberg said those will be suspended because of the impending layoffs.
+
+The company will further delay the rollout of a new plane, the 777X, to 2026 instead of 2025. It will also stop building the cargo version of its 767 jet in 2027 after finishing current orders.
+
+Boeing has lost more than $25 billion since the start of 2019.
+
+...
+
+[Data](articles/84732103.json)
+
+[Extended Data](ext_articles/84732103.ext.json)
+
+---
+
+### Sri Lanka target 116 runs
+
+*2024-10-12 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202091) · `si`
+
+Sri Lanka targets 116 vs NZ women's team in World Cup final. SL batted first, scoring 115/5 in 20 overs. NZ wins by 1 run.
+
+🟩
+
+The match between Sri Lanka and the New Zealand women's team will play the women's World Cup.
+
+Sri Lanka women's group decided to bat first, winning the coin.
+
+Accordingly, the Sri Lanka women's group scored 115 runs for the loss of 5 wickets in the end of 20 overs.
+
+The New Zealand Women's Team won 116 runs.
+
+This is the final of the tournament in the first round of the tournament.
+
+◼️
+
+[Data](articles/d337ae92.json)
+
+[Extended Data](ext_articles/d337ae92.ext.json)
+
+---
+
+### Boeing company in crisis
+
+*2024-10-12 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202090) · `si`
+
+Boeing faces crisis: cuts 10% workforce (17,000 jobs), reduces production of flagship jet, sees market share drop 2.12%.
+
+🟩
+
+The company's authorities have decided to cut 10 percent of their workforce as a remedy for the financial problems of Boeing, an American multinational company.
+
+The company's executive grade officials, managers, including managers, and the risk of loss of about 17,000.
+
+Meanwhile, the company has also prompted the company's largest and most effective jet, which is the largest product of the company, the largest and most effective jet, which is the latest product of the company.
+
+Meanwhile, Boeing's market sections have also fallen by 2.12 percent.
+
+◼️
+
+[Data](articles/1b93e410.json)
+
+[Extended Data](ext_articles/1b93e410.ext.json)
+
+---
+
+### Train services on Puttalam line disrupted due to flooding
+
+*2024-10-12 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102636/train-services-on-puttalam-line-disrupted-due-to-flooding-) · `en`
+
+Train services on the Puttalam railway line have been disrupted due to flooding.
+
+Accordingly, the Railway Department stated that train services on this route will operate only up to Lunuwila.
+
+It has been further reported that trains on the line will be terminated at Lunuwila from 1.00 p.m.  today (12) until further notice.
+
+◼️
+
+[Data](articles/77614a11.json)
+
+[Extended Data](ext_articles/77614a11.ext.json)
+
+---
 
 ### Railway operation obstructed
 
@@ -2251,107 +2343,5 @@ The political parties that supported former President Ranil Wickremesinghe at th
 [Data](articles/4648839b.json)
 
 [Extended Data](ext_articles/4648839b.ext.json)
-
----
-
-### Teacher who brutally assaulted 12 students
-
-*2024-10-11 19:18:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/12-மாணவிகளை-மிக-கொடூரமாக-தாக்கிய-ஆசிரியை/76-345287) · `ta`
-
-Teacher assaults 12 students in Nuwara Eliya. Parents appeal for justice. One student hospitalized. Police investigating.
-
-🟩
-
-Parents have appealed to the Nuwara Eliya Police Station and Education Department to provide justice for the inhumane attack by a headmaster by a headmaster at Grade 11 in Nuwara Eliya.
-
-One of the 12 students who were attacked in the incident has been admitted to the Nuwara Eliya District Hospital for treatment.
-
-After completing the school for the students, the evening's higher classes are held.
-
-The complaint states that the students who participated in these classes have been punished and punished by the teacher due to delay in going to the classroom after going to the classroom after the daytime meals.
-
-At the same time, a student has been admitted to the Nuwara Eliya District General Hospital as a student has been attacked by his back and legs.
-
-Furious parents have lodged a complaint at the police station seeking justice for the child.
-
-At the same time, after lodging a complaint with the police, the Nuwara Eliya Education Office has also appealed to the officials of the Education Office.
-
-...
-
-[Data](articles/04f2a290.json)
-
-[Extended Data](ext_articles/04f2a290.ext.json)
-
----
-
-### Special Telephone number to tell about government vehicles
-
-*2024-10-11 19:12:18* · [`adalk`](https://www.ada.lk/breaking_news/සඟවා-ඇති-රජයේ-වාහන-ගැන-කියන්න-විශේෂ-දුරකතන-අංකයක්/11-412448) · `si`
-
-Sri Lanka Police introduces 1997 hotline for reporting stolen government vehicles. Public can call 24/7 anonymously. False reports are legal.
-
-🟩
-
-The government has introduced the 1997 telephone number by the Sri Lanka Police to inform the government if the vehicles issued for various purposes have been hinded or uncovered.
-
-Accordingly, the Police Headquarters calls for the public to inform the telephone number 24 hours.
-
-The identity of the identity of those who provide this information is not necessary to be fully secured.
-
-Also, if anyone is involved in providing false information, he is acting legally.
-
-◼️
-
-[Data](articles/4ba939ee.json)
-
-[Extended Data](ext_articles/4ba939ee.ext.json)
-
----
-
-### Sri Lanka’s former junior tech minister joins ‘not contesting’ list; decides to pursue doctorate
-
-*2024-10-11 19:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-former-junior-tech-minister-joins-not-contesting-list-decides-to-pursue-doctorate-183271/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s former State Technology Minister Kanaka Herath has decided to take a break from politics similar to dozens of seniors and pursue a doctorate in engineering, citing that he wanted to take a step back as “people wanted change at any cost”.
-
-Herath’s decision comes after several prominent Sri Lankan politicians who previously held senior ministerial positions have announced they will not be contesting in the upcoming parliamentary elections, citing limited political opportunities.
-
-Herath under former president Ranil Wickremesinghe’s administration headed expansion of the digital economy. Some of the projects under his ministry were implemented slower than expected.
-
-“I am happy that I was able to be a part of the economic resurgence of the country. As the state minister of Technology, I was able to formulate the digital roadmap for the country till 2030,” the 48-year old former legislator said.
-
-...
-
-[Data](articles/556efb72.json)
-
-[Extended Data](ext_articles/556efb72.ext.json)
-
----
-
-### For all pensioners. 3000 AM DM
-
-*2024-10-11 18:49:11* · [`adalk`](https://www.ada.lk/breaking_news/සියලු-විශ්‍රාමිකයන්-සඳහා-රු--3000-දිමනාව-ලබන-සති‍යේ-සිට/11-412447) · `si`
-
-Pensioners to receive Rs. 3,000 monthly allowance starting next week. President Anura Kumara Dissanayake instructs Finance Ministry officials to credit funds directly. Action taken to address financial hardship and delayed pensions.
-
-🟩
-
-President Anura Kumara Dissanayake instructed the officials of the Finance Ministry to be given the monthly allowance of Rs. 3,000 from next week.
-
-The President also instructed the officials to credit the money to the accounts of pensioners within Rs. 3,000.
-
-President Anura Kumara Dissanayake and the top officials of the Ministry of Finance at the Presidential Secretariat were given this advice at the Presidential Secretariat yesterday (10).
-
-Although all pensioners had issued a monthly allowance of Rs. 3,000, a monthly allowance of Rs.
-
-President Anura Kumara Dissanayake informed the officials of the Ministry to provide the money.
-
-The President took action to provide the amount of financial hardships, whether he was not receiving the pension and their request of the pensions of the pensions of October 2024 due to non-retirement of pensions.
-
-...
-
-[Data](articles/83e2d947.json)
-
-[Extended Data](ext_articles/83e2d947.ext.json)
 
 ---

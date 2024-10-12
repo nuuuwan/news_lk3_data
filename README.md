@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 23:23:18**
+As of **2024-10-12 23:39:02**
 
 ## Newspaper Stats
 
-*Scraped **49,156** Articles*
+*Scraped **49,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,97 @@ dailyftlk | 3,334
 adalk | 4,560
 dailymirrorlk | 4,733
 adaderanalk | 5,809
-tamilmirrorlk | 6,695
+tamilmirrorlk | 6,697
 virakesarilk | 7,858
-adaderanasinhalalk | 8,503
+adaderanasinhalalk | 8,504
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,156 (100.0%) of 49,156 articles have been extended.
+49,159 (100.0%) of 49,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Sarath Fonseka's decision on the election
+
+*2024-10-12 23:16:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-குறித்து-சரத்-பொன்சேகா-எடுத்துள்ள-தீர்மானம்/175-345341) · `ta`
+
+Field Marshal Sarath Fonseka decides not to contest general election due to failed negotiations.
+
+🟩
+
+Former parliamentarian Field Marshal Sarath Fonseka has said that he has decided not to contest the general election this year.
+
+He noted that he made the decision due to the failure of negotiations to contest with a compass and a gas cylinder this year in the general election.. Remble
+
+◼️
+
+[Data](articles/186e46fb.json)
+
+[Extended Data](ext_articles/186e46fb.ext.json)
+
+---
+
+### Three persons, including a child, were killed in a train collision
+
+*2024-10-12 23:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மோதியதில்-குழந்தை-உட்பட-மூவர்-பலி/175-345340) · `ta`
+
+Train collision kills 3, injures child near Matara-Colombo route. Two died instantly, one child hospitalized. Incident occurred on 12th day.
+
+🟩
+
+Three people were killed when a train traveling from Matara to Colombo today (12), police said.
+
+Two people died on the spot and a three -year -old child was injured and admitted to the Kalutara Teaching Hospital.
+
+The three deceased are said to be from Kalutara South Rajavatta area. Remble
+
+◼️
+
+[Data](articles/0262d947.json)
+
+[Extended Data](ext_articles/0262d947.ext.json)
+
+---
+
+### Report from India
+
+*2024-10-12 23:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202104) · `si`
+
+India vs Bangladesh cricket match summary: India won by 133 runs, scoring 296/6 in 20 overs. Yadv scored 75, Hardik 47.
+
+🟩
+
+The third and last 20th group between the Bangladesh team and the third and final 20th match was held today (12) at the Rajiv Gandhi International Stadium, India.
+
+India to acquire the highest number of runs in the 20th match in the match.
+
+They were able to score 296 runs in the 20 overs.
+
+Chasing a target of 297 in this match, Bangladesh was killed by 133 runs.
+
+The Indian team scored 296 runs for the loss of 6 wickets at the end of 20 overs.
+
+The Indian team scored 82 runs in the Power Cardle (8 overs).
+
+It was a fastest score of the fastest score at the Powerplate of the Powerplate in the Powerplate of 20 Indian team.
+
+A merciless innings played a merciless innings in 40 balls with his milestone in 40 balls.
+
+That century was 20th the second fastest reported for India.
+
+Leader Superkumar Yadv scored 75 runs while Hardk scored 47 runs.
+
+◼️
+
+[Data](articles/bb232982.json)
+
+[Extended Data](ext_articles/bb232982.ext.json)
+
+---
 
 ### Sarath Fonseka not to elections
 
@@ -2409,55 +2487,5 @@ Meanwhile, the district in the 2020 election;It is noteworthy that 16 parties an
 [Data](articles/8328a87e.json)
 
 [Extended Data](ext_articles/8328a87e.ext.json)
-
----
-
-### SLT-MOBITEL shines as Runners-Up at 39th Annual Mercantile Athletics Championship 2024
-
-*2024-10-12 01:37:00* · [`islandlk`](http://island.lk/slt-mobitel-shines-as-runners-up-at-39th-annual-mercantile-athletics-championship-2024/) · `en`
-
-SLT-MOBITEL’s performance at the 39th Annual Mercantile Athletics Championships 2024 was met with acclaim as it secured the prestigious ‘39th Annual Mercantile Athletics Championships Runners-Up’ position at the three-day event, held recently, at the Sugathadasa Stadium, Colombo.
-
-During the highly competitive championship, SLT-MOBITEL’s athletics team competed against approximately 2,500 athletes from around 50 corporates. SLT-MOBITEL’s team emerged among the top performers, demonstrating exceptional skill, dedication, and teamwork to bring home multiple Challenge Trophies and accolades.
-
-The team’s exceptional performance also resulted in them winning the awards for Overall Runners-up Men, Best Athlete Novices Men and Best Athlete Over 40 Men. These accomplishments highlight the hard work, sporting spirit, and commitment of SLT-MOBITEL’s athletes, reflecting their motto, ‘Together, we can win.’
-
-...
-
-[Data](articles/6e2bd895.json)
-
-[Extended Data](ext_articles/6e2bd895.ext.json)
-
----
-
-### Cutting-edge advancements unveiled in spine surgery
-
-*2024-10-12 01:33:00* · [`islandlk`](http://island.lk/cutting-edge-advancements-unveiled-in-spine-surgery/) · `en`
-
-Dr. S. Karunakaran, Director and Senior Consultant at Advanced Spine Specialty Centre MGM Healthcare Private Limited, Chennai, sheds light on cutting-edge advancements in spine surgery, emphasizing a monumental shift in surgical tools.
-
-Speaking to The Island Financial Review, Dr. Karunakaran explained how traditional methods are being replaced by innovative technology to increase precision and safety in spinal operations, especially for conditions like scoliosis.
-
-“Previously, we used the osteotome, a cutting tool that often caused unwanted neural damage due to slippage. Later, we advanced to high-speed burrs, which, despite their effectiveness, had to be continuously irrigated to prevent thermal damage to the bone and surrounding tissues. Even then, accidental contact with neural structures could result in permanent damage, Dr. Karunakaran explained.
-
-...
-
-[Data](articles/619de38a.json)
-
-[Extended Data](ext_articles/619de38a.ext.json)
-
----
-
-### Aitken Spence Hotels sets new benchmark with highest regional awards at SATA 2024
-
-*2024-10-12 01:32:00* · [`islandlk`](http://island.lk/aitken-spence-hotels-sets-new-benchmark-with-highest-regional-awards-at-sata-2024/) · `en`
-
-Aitken Spence Hotels has made a remarkable impact at the South Asian Travel Awards 2024 (SATA), securing multiple prestigious awards for its exceptional properties in Sri Lanka, the Maldives, and India. This impressive performance not only positions Aitken Spence Hotels as a leader in the hospitality industry but also highlights its unwavering commitment to excellence and innovation. With the highest number of regional awards, the brand underscores its dedication to delivering outstanding experiences that celebrate the rich cultural and natural beauty of each destination.
-
-...
-
-[Data](articles/bb8ce1c3.json)
-
-[Extended Data](ext_articles/bb8ce1c3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 14:11:06**
+As of **2024-10-12 14:23:33**
 
 ## Newspaper Stats
 
-*Scraped **49,105** Articles*
+*Scraped **49,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,018
 dailyftlk | 3,334
 adalk | 4,558
 dailymirrorlk | 4,733
-adaderanalk | 5,800
+adaderanalk | 5,802
 tamilmirrorlk | 6,682
 virakesarilk | 7,850
 adaderanasinhalalk | 8,484
@@ -26,11 +26,43 @@ adaderanasinhalalk | 8,484
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,105 (100.0%) of 49,105 articles have been extended.
+49,105 (100.0%) of 49,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### 120 Chinese nationals arrested over online scams at luxury bungalow in Kundasale
+
+*2024-10-12 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102634/120-chinese-nationals-arrested-over-online-scams-at-luxury-bungalow-in-kundasale-) · `en`
+
+A group of 120 Chinese nationals allegedly involved in online financial scams has been arrested in the Kundasale area.
+
+Police have seized 15 desktop computers and 300 mobile phones which were taken into custody from 47 rooms in a luxury bungalow in Kundasale, according to the police spokesman.
+
+◼️
+
+[Data](articles/872229e2.json)
+
+---
+
+### Ajith Mannapperuma withdraws from contesting election and quits SJB
+
+*2024-10-12 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102633/ajith-mannapperuma-withdraws-from-contesting-election-and-quits-sjb) · `en`
+
+Former MP Ajith Mannapperuma, who submitted his nomination to contest the general elections from the Gampaha District under the Samagi Jana Balawegaya (SJB), has announced his withdrawal from the election and his resignation from the party.
+
+During a press conference today (12), he stated that this decision was made due to his removal from the position of SJB chief organiser for Gampaha electorate.
+
+“I am a candidate on the SJB list for the Gampaha District in this election. I have also served as the organiser for the Gampaha constituency for 20 years. However, even though I submitted my nomination as a candidate for the SJB this time, I intended to refrain from asking for votes,” he said.
+
+He emphasized that he no longer wishes to work with the SJB and requested that people not vote for him.
+
+...
+
+[Data](articles/d252bbc2.json)
+
+---
 
 ### Ajith is going to flee with Sajith
 
@@ -2333,57 +2365,5 @@ The song is written by director and songwriter Lokesh Ajils, actress and playbac
 [Data](articles/bf85c193.json)
 
 [Extended Data](ext_articles/bf85c193.ext.json)
-
----
-
-### Ashok Selvan starrer 'I Naiyam Nayan's Romance'
-
-*2024-10-11 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196050) · `ta`
-
-"I Naiyam Nayan's Romance" starring Ashok Selvan releases Nov 15. Directed by Ganesh Chandra, music by Prasanna. Cast includes Avantika Mishra, Urvasi, Bhaskar. Produced by Tirumala. Comedy romance genre.
-
-🟩
-
-Ashok Selvan, the star actor who raises his business in the film industry, digital site, television, and television, has been officially announced on the release date of the film 'I'
-
-Ashok Selvan, Avantika Mishra, Urvasi, beauty Perumal M. S.. Bhaskar, Baks Bhagwati Perumal, Badawa Gopi, Vijay Varadaraj and many others have been cast.
-
-Ganesh Chandra has recorded the film for this movie. Prasanna has composed the music.
-
-Producer M.. He has produced Tirumala.
-
-The film, which is being completed and waiting for the release of all the work, has been released by over a million visitors.
-
-As a result of this, the film is expected to be released at the film palace worldwide on November 15.
-
-Meanwhile, the film has a critical and grossing film 'Blue Star', which was released earlier this year, and the film has supported the filmmakers and the film has been in love and comedy.
-
-◼️
-
-[Data](articles/b32e6d43.json)
-
-[Extended Data](ext_articles/b32e6d43.ext.json)
-
----
-
-### National List of New Democratic Front
-
-*2024-10-11 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202070) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National List of New Democratic Front: Political alliance formed in Sri Lanka. Includes former Speaker Mahinda Yapa Abeywardena. Controversy surrounding his name, allegedly containing "louse". Political implications and public perception of the alliance and its leaders.
-
-🟩
-
-Also, the name of former Speaker Mahinda Yapa Abeywardena Yapa includes the louse
-
-◼️
-
-[Data](articles/32e0faed.json)
-
-[Extended Data](ext_articles/32e0faed.ext.json)
 
 ---

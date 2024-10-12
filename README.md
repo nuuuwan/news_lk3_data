@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 18:31:42**
+As of **2024-10-12 18:41:58**
 
 ## Newspaper Stats
 
-*Scraped **49,130** Articles*
+*Scraped **49,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,334
 adalk | 4,558
 dailymirrorlk | 4,733
 adaderanalk | 5,805
-tamilmirrorlk | 6,688
+tamilmirrorlk | 6,689
 virakesarilk | 7,853
 adaderanasinhalalk | 8,495
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,495
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,130 (100.0%) of 49,130 articles have been extended.
+49,131 (100.0%) of 49,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Ajith Manapperuma quit the election
+
+*2024-10-12 18:24:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலில்-இருந்து-விலகினார்-அஜித்-மானப்பெரும/175-345321) · `ta`
+
+Former MP Ajith Manapperuma quits election due to sudden dismissal as Chief Organizer of Samaki Jana Balavegaya's Gampaha district. His name was listed in nominations but he stepped down before contesting.
+
+🟩
+
+Former MP Ajith Manapperuma, a former MP of the Gampaha district of Samaki Jana Balavegaya, has decided to quit the general election.
+
+The name of Ajith Manaparuma was also included in the nomination papers filed by Samaki Jan.
+
+However, the decision has been made because he has suddenly dismissed the post of Chief Organizer of the Gampaha District of Samaki Jana Balavega.
+
+◼️
+
+[Data](articles/cdac3a78.json)
+
+[Extended Data](ext_articles/cdac3a78.ext.json)
+
+---
 
 ### Promote relief to the affected people - President
 
@@ -2325,29 +2347,5 @@ The United Socialist Party is contesting and 11 independent groups are eligible 
 [Data](articles/2ca3566f.json)
 
 [Extended Data](ext_articles/2ca3566f.ext.json)
-
----
-
-### Sri Lanka condemns Israeli attack on UN peacekeepers as nationals hit
-
-*2024-10-11 20:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-condemns-israeli-attack-on-un-peacekeepers-as-nationals-hit-183275/) · `en`
-
-ECONOMYNEXT  – Sri Lanka’s has condemned an attack by Isarel on UN peacekeepers in Lebanon in which two of the island’s soldiers were hit.
-
-“Sri Lanka strongly condemns the attack at UNIFIL’s headquarters in Naqoura, South Lebanon injuring two Sri Lankan UN peacekeepers,” the island’s Foreign Ministry said in a statement.
-
-“Sri Lanka Embassy in Beirut is in contact with UNIFIL regarding the medical attention and speedy recovery of the Sri Lankan peacekeepers.
-
-UNIFIL (UN Interim Force in Lebanon) went the area originally in 1978 to oversee an Isreali withdrawal.
-
-UNIFIL said an Israeli Defence Force Merkava tank fired at an observation at its headquarters Naqoura.
-
-IDF soldiers also fired on UN position (UNP) 1-31 in Labbouneh, hitting the entrance to the bunker where peacekeepers were sheltering, and damaging vehicles and a communications system. An IDF drone was observed flying inside the UN position up to the bunker entrance.
-
-...
-
-[Data](articles/d8646e46.json)
-
-[Extended Data](ext_articles/d8646e46.ext.json)
 
 ---

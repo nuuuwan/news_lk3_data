@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 09:58:20**
+As of **2024-10-12 10:11:40**
 
 ## Newspaper Stats
 
-*Scraped **49,078** Articles*
+*Scraped **49,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,797
 tamilmirrorlk | 6,671
 virakesarilk | 7,844
-adaderanasinhalalk | 8,481
+adaderanasinhalalk | 8,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,078 (100.0%) of 49,078 articles have been extended.
+49,079 (100.0%) of 49,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Customs confises a car of a misguided
+
+*2024-10-12 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202079) · `si`
+
+Colombo Magistrate's Court orders confiscation of luxury car. Bribery Commission investigation reveals fraud. Mitzubishi Jeep seized from businessman in Badulla.
+
+🟩
+
+The Colombo Magistrate's Court has ordered the confiscation of a luxury car taken by the Bribery Commission.
+
+The decision was issued by the Colombo Chief Magistrate Thilina Gamage, who consumed the request made by the Bribery Commission.
+
+Investigations have revealed that the car had been imported by defrauding over Rs.
+
+A mitzubyi jeep, a businessman in Badulla, has been confiscated.
+
+◼️
+
+[Data](articles/cf061045.json)
+
+[Extended Data](ext_articles/cf061045.ext.json)
+
+---
 
 ### Instructions to fishermen that they don't go
 
@@ -2323,27 +2347,5 @@ I don't know why Hesha fell down like this. The guy proposed me began to pull my
 [Data](articles/c8eb29b5.json)
 
 [Extended Data](ext_articles/c8eb29b5.ext.json)
-
----
-
-### Major reshuffle in Sri Lanka Police: New DIG in charge of CID
-
-*2024-10-11 14:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102616/major-reshuffle-in-sri-lanka-police-new-dig-in-charge-of-cid) · `en`
-
-The Deputy Inspector General of Police (DIG) in charge of the Criminal Investigations Department (CID), DIG Rohan Premaratne has been transferred to serve as the DIG of Western Province (North).
-
-At the same time, DIG P. Ampavila has been transferred to the CID Range to serve as its new DIG.
-
-Prior to that, he had served in the position of supervising the duties of the Financial Intelligence Unit 02 attached to the Police Headquarters to conduct investigations related to money laundering and the Special Investigation Units established at the Central Bank to investigate prohibited pyramid schemes and virtual currencies.
-
-Meanwhile, DIG D.P. Chandrasiri has been transferred from the post of DIG in charge of Galle Range to serve as DIG of Range.
-
-DIG E.M.G.J. Seram has been transferred from the Community Police and Environment Protection Range to serve as DIG Galle Range.
-
-...
-
-[Data](articles/e77fce03.json)
-
-[Extended Data](ext_articles/e77fce03.ext.json)
 
 ---

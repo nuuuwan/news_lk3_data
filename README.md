@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-12 17:39:46**
+As of **2024-10-12 17:59:53**
 
 ## Newspaper Stats
 
-*Scraped **49,125** Articles*
+*Scraped **49,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,334
 adalk | 4,558
 dailymirrorlk | 4,733
 adaderanalk | 5,805
-tamilmirrorlk | 6,686
+tamilmirrorlk | 6,687
 virakesarilk | 7,853
 adaderanasinhalalk | 8,492
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,492
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,125 (100.0%) of 49,125 articles have been extended.
+49,126 (100.0%) of 49,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-12 (Saturday)
+
+### Death on the spot
+
+*2024-10-12 17:29:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சம்பவ-இடத்திலேயே-ஒருவர்-மரணம்/71-345319) · `ta`
+
+Vehicle accident near Jaffna-Valvai Bridge: One man killed instantly when motorcycle collides with three-wheeler. Driver of three-wheeler arrested.
+
+🟩
+
+One person died on the spot in a vehicle accident near the Jaffna -Valvai Bridge today.
+
+மோட்டார் சைக்கிள் மற்றும் பட்டா வாகனம் முச்சக்கரவண்டி என்பன மோதுண்டு ஏற்பட்ட விபத்தில் மோட்டார் சைக்கிளில் பயணித்த ஆண் உயிரிழந்தார்.
+
+Meanwhile, the driver of the Patta motorist was arrested by the driver of the three -wheeler driver.
+
+◼️
+
+[Data](articles/82ff8c7c.json)
+
+[Extended Data](ext_articles/82ff8c7c.ext.json)
+
+---
 
 ### Boeing to lay off 17,000 staff to recoup finances during ongoing strike
 
@@ -2325,23 +2347,5 @@ The Sinhala Deepa Jathika Peramuna and the Samapima Party have been rejected by 
 [Data](articles/2c4f2d39.json)
 
 [Extended Data](ext_articles/2c4f2d39.ext.json)
-
----
-
-### New Democratic Front’s National List released
-
-*2024-10-11 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102625/new-democratic-fronts-national-list-released) · `en`
-
-The New Democratic Front (NDF) has released its National List for the 2024 General Election.
-
-Former Prime Minister Dinesh Gunawardena tops the National List which also includes former Speaker Mahinda Yapa Abeywardena, former Ministers Faiszer Musthapha, Tiran Alles, Ravi Karunanayake and Thalatha Athukorale.
-
-The political parties that supported former President Ranil Wickremesinghe at the recent Presidential Election decided to contest the upcoming General Election under the New Democratic Front (NDF), with the ‘Gas Cylinder’ as their symbol.
-
-◼️
-
-[Data](articles/4648839b.json)
-
-[Extended Data](ext_articles/4648839b.ext.json)
 
 ---

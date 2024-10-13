@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 01:08:52**
+As of **2024-10-14 01:38:53**
 
 ## Newspaper Stats
 
-*Scraped **49,314** Articles*
+*Scraped **49,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,576
 dailymirrorlk | 4,733
 adaderanalk | 5,825
 tamilmirrorlk | 6,724
-virakesarilk | 7,895
+virakesarilk | 7,899
 adaderanasinhalalk | 8,534
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,310 (100.0%) of 49,314 articles have been extended.
+49,318 (100.0%) of 49,318 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ We wish to express our deep concern regarding the reputational damage caused by 
 
 [Data](articles/3438073f.json)
 
+[Extended Data](ext_articles/3438073f.ext.json)
+
 ---
 
 ### Top corporates onboard to power CA Sri Lanka’s 45th National Conference
@@ -63,6 +65,8 @@ Hayleys PLC, John Keells Group and Sanasa Life will power this year’s national
 ...
 
 [Data](articles/49c2bf91.json)
+
+[Extended Data](ext_articles/49c2bf91.ext.json)
 
 ---
 
@@ -86,6 +90,8 @@ Making his first political speech since taking office, Dissanayake addressed the
 
 [Data](articles/b22e1319.json)
 
+[Extended Data](ext_articles/b22e1319.ext.json)
+
 ---
 
 ### IGP introduces transparent selection process for police foreign training programs
@@ -103,6 +109,8 @@ The previous system had long been criticised for favouring officers close to the
 ...
 
 [Data](articles/62021149.json)
+
+[Extended Data](ext_articles/62021149.ext.json)
 
 ---
 
@@ -184,7 +192,99 @@ This unique approach combines a diverse range of tools, devices, components, and
 
 ---
 
+### West Indies won Sri Lanka in the first international T20 cricket match
+
+*2024-10-14 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/196217) · `ta`
+
+Here's a 200-character summary:
+
+
+
+West Indies won 1st intl T20 vs Sri Lanka by 5 wkts. Brendon King (63*) & Evin Louis (50*) led WI to victory. Sri Lanka scored 179/7. Kamindu Mendis (51*) & Sarith Asalanka shared 82 runs partnership. WI leads 3-match series 1-0.
+
+🟩
+
+West Indies won by 5 wickets in the first international T20 cricket match at the Rangiri, Dambulla International Cricket Stadium on Sunday night.
+
+With this victory, the West Indies are leading the 3 -match international T20 cricket series 1 - 0.
+
+Half a century of action by Brendak King and Evin Louis helped to win the West Indies.
+
+Sri Lanka, who was first invited to bat in the upting match, scored 179 runs for the loss of 7 wickets in their 20 overs.
+
+Half a century accumulated by Kamindu Mendis and team captain Sarid Asalanka reinforced the total number of Sri Lanka.
+
+When Sri Lanka's first 3 wickets fell, the total number was 58 runs in the 8th over.
+
+Betham Nissank (11), Kusal Perera (6) and Kusal Mendis (19) were all lost.
+
+The pair, Kamindu Mendis and Sarit Asalanga, were effectively bowled out and strengthened the team by sharing 82 runs in the 4th wicket.
+
+Kamundu Mendis scored 51 runs with 5 pounds, 2 sixes and 59 runs with 9 pounds.
+
+...
+
+[Data](articles/a0db4f16.json)
+
+[Extended Data](ext_articles/a0db4f16.ext.json)
+
+---
+
+### Competition in gas cylinder in Colombo
+
+*2024-10-14 00:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196220) · `ta`
+
+Ranil Vilatharake, GFLOC president, contests Colombo election under UNP banner, backed by Susil Premjayantha.
+
+🟩
+
+Ranil Vilatharake, president of Sri Lanka's leading garment business, GFLOC, will contest the general election in the Colombo district in the cylinder symbol.
+
+Ranil Villattarake is a famous entrepreneurs who introduced a business model for social welfare under the name of Gflock.
+
+He will contest as the head of the Colombo district under the leadership of former Minister Susil Premjayantha as the head of the Colombo District.
+
+It is noteworthy that Ranil Villattarake Kespewa, who joined the United National Party (UNP) supporting the economic program of former President Ranil Wickremesinghe during the presidential election.
+
+◼️
+
+[Data](articles/717b617e.json)
+
+[Extended Data](ext_articles/717b617e.ext.json)
+
+---
+
 ### 2024-10-13 (Sunday)
+
+### Australia qualifies the first team to play women's R20 World Cup semi -final;India lost by 9 runs in the main match
+
+*2024-10-13 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196219) · `ta`
+
+Australia qualifies for women's R20 World Cup semi-finals after beating India by 9 runs. India needs Pakistan to win against New Zealand for a semi-final spot.
+
+🟩
+
+The Ninth ICC Women's R20 World Cup qualified to play the first team in the Australian World Champion Australia, who won India by 9 runs at the Dubai International Cricket Stadium on Sunday night.
+
+Australia, who won the 4 matches she played in the A group, qualified for the Women's R20 World Cup at the 9th.
+
+India's semi -final chance to lose the match is in the hands of Pakistan.
+
+India will qualify for the semi -finals if Pakistan achieves reverse victory in the last match for tomorrow's A group between Pakistan and New Zealand.. If Pakistan fails, New Zealand will advance to the semi -finals.
+
+After winning the currency cycle today, Australia decided to bat first and scored 151 runs for the loss of 8 wickets in 20 overs.
+
+The usual team captain Alyssa Helli is not playing in today's match due. Tahila Macra was replaced by him.
+
+Crease Heris, who played as an early player instead of Alyssa Heli, was effectively bowled out.
+
+...
+
+[Data](articles/7612cb4d.json)
+
+[Extended Data](ext_articles/7612cb4d.ext.json)
+
+---
 
 ### Time to drain the swamp
 
@@ -199,6 +299,28 @@ The opportunity to make significant change in Sri Lanka’s political, economic 
 [Data](articles/96d716c5.json)
 
 [Extended Data](ext_articles/96d716c5.ext.json)
+
+---
+
+### Legal action should be taken against presidential candidates who do not hand over the election cost
+
+*2024-10-13 23:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196218) · `ta`
+
+Election Commission threatens legal action against presidential candidates who fail to submit election cost reports within deadline. Candidates must disclose expenses within 21 days after election. Bribery Commission can investigate improper spending.
+
+🟩
+
+The Executive Director of the Election Commission should take legal action against candidates who did not present the cost report on the presidential election.
+
+The time period was completed yesterday by the Election Commission to give the Presidential candidates a spending list for their election activities. He said this in a comment on the candidates who have not yet issued this cost report.
+
+The Election Commission has issued a gazette with a candidate in the presidential election, setting up the amount of Rs.. The presidential election has also been said to be handed over to the Election Commission in 21 days after the election.. Accordingly, the time limit ended on Sunday.
+
+...
+
+[Data](articles/5dcb3318.json)
+
+[Extended Data](ext_articles/5dcb3318.ext.json)
 
 ---
 
@@ -2187,101 +2309,5 @@ The total number of voters registered in the Kalutara district is 1024,244. The 
 [Data](articles/bc06d4d2.json)
 
 [Extended Data](ext_articles/bc06d4d2.ext.json)
-
----
-
-### Arrested with heroin in Kalkisa
-
-*2024-10-13 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196159) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Heroin arrest: Man caught near Mount Lavinia Railway Station. Police action based on CI division tip.
-
-🟩
-
-A man with heroin was arrested by the police on Saturday (12) near the Mount Lavinia Railway Station in the Malkisa Police Division.
-
-The man has been arrested on the basis of information received by officials of the Mount Lavinia Criminal Investigation Division.
-
-He was seized by the police by the police.
-
-◼️
-
-[Data](articles/782b4205.json)
-
-[Extended Data](ext_articles/782b4205.ext.json)
-
----
-
-### Rajapaksa brothers opt out of Sri Lanka’s November 14 general elections
-
-*2024-10-13 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102647/rajapaksa-brothers-opt-out-of-sri-lankas-november-14-general-elections) · `en`
-
-None of the Rajapaksa brothers, who dominated Sri Lankan politics for decades until they were booted out of office in 2022, will contest in the island nation’s general elections next month.
-
-As nominations for the November 14 parliamentary polls closed on Friday (October 11, 2024), the list of candidates fielded by the Rajapaksas’ Sri Lanka Podujana Peramuna (SLPP or People’s Front) showed former President and former Prime Minister Mahinda Rajapaksa, 78, former President Gotabaya Rajapaksa, 75, former Irrigation Minister Chamal Rajapaksa, 81, former Finance Minister Basil Rajapaksa, 73, are not running.
-
-Further, Mr. Mahinda’s son Namal Rajapaksa, who was a Cabinet Minister in Mr. Gotabaya’s ousted administration, is not contesting but is on the party’s “national list”, which includes names of members to be nominated for extra seats the party may secure, based on its share of votes polled.
-
-...
-
-[Data](articles/dbf29465.json)
-
-[Extended Data](ext_articles/dbf29465.ext.json)
-
----
-
-### Attempting to distribute tin fish
-
-*2024-10-13 12:38:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டின்-மீன்களை-விநியோகிக்கும்-முயற்சி-முறியடிப்பு/175-345356) · `ta`
-
-Sri Lanka Ministry of Environment halts distribution of tainted tin fish due to excessive arsenic levels. Products worth $215,000 imported in 2021 were not released after arsenic detection. Arsenic limit for tin fish set at 1mg/kg, exceeding safety standards for livestock fodder and fertilizer use. Country aims to protect citizens from heavy metal pollution-related health risks.
-
-🟩
-
-An official said that the Ministry of Environment has thwarted an attempt to distribute tin fish mixed with tin fish mixed with tin fish to the market more than the amount allowed to produce fertilizer or livestock fodder.
-
-The products worth US $ 215,000 were imported in 2021, but they were not released to the market after the Arsenic was found.
-
-Secretary to the Ministry Prabhat Chandrakirthi told the Daily Mirror that he had instructed them to return the stockpile for any purpose.
-
-While the arsenic content in the stockpile is found at 1.3 milligrams per kg, the permitted limit is one milligram per kilogram.
-
-"Such contaminated fish cannot be allowed to use for livestock fodder or manure," he said.
-
-According to an official of the Food Control and Health Unit, the amount of arsenic allowed in accordance with the types of food products varies.
-
-Total Arsenic - Organic and Mineral Size - one milligram per kg has been declared for tin fish in Sri Lanka, said an official.
-
-...
-
-[Data](articles/a40f41e0.json)
-
-[Extended Data](ext_articles/a40f41e0.ext.json)
-
----
-
-### Sapphire
-
-*2024-10-13 12:33:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புடவை-வாங்கி-தராததால்-உயிர்-மாய்ப்பு/175-345355) · `ta`
-
-Jharkhand: Young wife Sentho Devi (26) booked after argument over husband's refusal to buy new sari. Incident occurred in Bakjoba village, Tumka district.
-
-🟩
-
-The shocking incident in Jharkhand has shocked a young woman who was dissatisfied with her husband's not buying a new sari.
-
-Sentho Devi (26 years old) hails from Bakjoba village in Tumka district. Her husband is a tractor driver. They have two children. In this case, Sentho Devi asked her husband to buy a new sari. But he could not buy the saree.
-
-Disgusted by her husband, Sentho Devi, who was dissatisfied with the lack of saree, was booked in front of the train on Saturday (12).
-
-◼️
-
-[Data](articles/cd840acf.json)
-
-[Extended Data](ext_articles/cd840acf.ext.json)
 
 ---

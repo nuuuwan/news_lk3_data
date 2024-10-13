@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 05:45:26**
+As of **2024-10-13 06:44:57**
 
 ## Newspaper Stats
 
-*Scraped **49,170** Articles*
+*Scraped **49,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 490
 bbccomsinhala | 491
-islandlk | 2,911
+islandlk | 2,916
 economynextcom | 3,019
 dailyftlk | 3,334
 adalk | 4,560
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,504
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,163 (100.0%) of 49,170 articles have been extended.
+49,167 (100.0%) of 49,175 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The hotel industry is all about creating unique experiences, and I made it my mi
 ...
 
 [Data](articles/38034685.json)
+
+[Extended Data](ext_articles/38034685.ext.json)
 
 ---
 
@@ -71,6 +73,26 @@ Due to the rise of water levels, the Risk Management Center said that with the h
 ---
 
 ### 2024-10-12 (Saturday)
+
+### The Residencies in Kotte: ICC achieves key milestone ahead of schedule
+
+*2024-10-12 23:57:00* · [`islandlk`](http://island.lk/the-residencies-in-kotte-icc-achieves-key-milestone-ahead-of-schedule/) · `en`
+
+The Residencies in Kotte, developed by ICC, is on track for completion by the end of 2025, reflecting ICC’s commitment to its Construction Master Schedule, said a press release.
+
+It said that the recent topping of the second tower marks a significant milestone, with both towers reaching structural completion ahead of schedule. This rapid progress highlights ICC’s expertise in delivering large-scale projects while maintaining quality, reassuring apartment owners of their investment. The development features 234 apartment units in a lush landscape and has already sold out all two-bedroom apartments, indicating strong demand. As the project moves towards completion, it promises to redefine luxury living in the city with modern design and convenience.
+
+Ceylinco Life delegation completes 7-day training in Agency Management in Malaysia
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/1e676d8e.json)
+
+[Extended Data](ext_articles/1e676d8e.ext.json)
+
+---
 
 ### Sarath Fonseka's decision on the election
 
@@ -103,6 +125,8 @@ The DAI was a good employer, and it gave me a well-furnished bungalow at Aralaga
 ...
 
 [Data](articles/b4857543.json)
+
+[Extended Data](ext_articles/b4857543.ext.json)
 
 ---
 
@@ -139,6 +163,8 @@ I had no place to go, because I was wedded to the agriculture sector – by my o
 ...
 
 [Data](articles/16900968.json)
+
+[Extended Data](ext_articles/16900968.ext.json)
 
 ---
 
@@ -1654,6 +1680,30 @@ Some analysts said higher interest (penalty) rates on credit cards also would ha
 
 ---
 
+### Boeing to axe 17,000 jobs amid strike and quality concerns
+
+*2024-10-12 11:40:00* · [`islandlk`](http://island.lk/boeing-to-axe-17000-jobs-amid-strike-and-quality-concerns/) · `en`
+
+Boeing will axe its workforce by a tenth – cutting 17,000 jobs – and delay production as the aeroplane maker deals with issues across its business.
+
+Chief executive Kelly Ortberg said in an email to staff that “executives, managers, and employees'” jobs are all at risk.
+
+The business also warned of losses in its weapons and military equipment manufacturing arm, and pushed back the delivery date of its 777X plane.
+
+The news comes as the business grapples with staff striking and mounting concerns around the quality of its planes.
+
+Mr Ortberg said in the email that the company will reduce its headcount “over the coming months”.
+
+“Next week, your leadership team will share more tailored information about what this means for your organization,” he said, adding that it will not proceed with the next cycle of furloughs.
+
+“The state of our business and our future recovery require tough actions,” said Mr Ortberg.
+
+...
+
+[Data](articles/6e9a3419.json)
+
+---
+
 ### Removes security stalls near Temple Trees
 
 *2024-10-12 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202080) · `si`
@@ -2321,49 +2371,5 @@ In central Beirut, rescue workers combed Friday through the rubble of a collapse
 [Data](articles/0518a0f6.json)
 
 [Extended Data](ext_articles/0518a0f6.ext.json)
-
----
-
-### Closing Welipenna login reopens
-
-*2024-10-12 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202076) · `si`
-
-Welipenna entrance reopened after flooding closes it temporarily due to heavy rainfall in Kalutara district.
-
-🟩
-
-With the decrease in the Kalutara district, the Welipenna entrance on the Southern Expressway was re-opened today (12).
-
-The Welipenna entrance was inundated yesterday morning with the shaped rain, resulting in a temporary closed.
-
-◼️
-
-[Data](articles/cfa0ef60.json)
-
-[Extended Data](ext_articles/cfa0ef60.ext.json)
-
----
-
-### Heavy showers above 100 mm expected today
-
-*2024-10-12 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102627/heavy-showers-above-100-mm-expected-today) · `en`
-
-The Meteorology Department says the prevailing showery condition is expected to continue further in the south-western part of the Island, due to the atmospheric disturbance in the vicinity of Sri Lanka.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern, North-western and Central provinces.
-
-Heavy showers of about 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur elsewhere at several places in the island during the evening or night.Fairly heavy showers above 75mm are likely at some places, it added.
-
-Strong winds of about 30-40 kmph can be expected at times over Western, Sabaragamuwa, Southern, North-western and Central provinces.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/335cc8af.json)
-
-[Extended Data](ext_articles/335cc8af.ext.json)
 
 ---

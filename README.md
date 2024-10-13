@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 09:39:36**
+As of **2024-10-13 10:23:53**
 
 ## Newspaper Stats
 
-*Scraped **49,187** Articles*
+*Scraped **49,192** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,150 @@ economynextcom | 3,019
 dailyftlk | 3,334
 adalk | 4,563
 dailymirrorlk | 4,733
-adaderanalk | 5,811
+adaderanalk | 5,812
 tamilmirrorlk | 6,702
-virakesarilk | 7,858
-adaderanasinhalalk | 8,507
+virakesarilk | 7,859
+adaderanasinhalalk | 8,510
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,187 (100.0%) of 49,187 articles have been extended.
+49,192 (100.0%) of 49,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Only 18 presidential candidates submit expenses reports as deadline nears
+
+*2024-10-13 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102644/only-18-presidential-candidates-submit-expenses-reports-as-deadline-nears) · `en`
+
+The deadline for the candidates who contested for the presidential election to submit their expense reports is scheduled to end, today (13) at 3.00 p.m.
+
+According to the Regulation of Election Expenditure Act, expense reports must be provided within 21 days following the end of the election.
+
+However, the Election Commission stated that out of the 38 candidates who contested in the recently concluded presidential election, only 18 have submitted their expenditure reports.
+
+The Election Commission further stated that they are optimistic that the other candidates will submit their expenditure reports within the day.
+
+They also indicated that legal action will be pursued against any candidates who fail to comply with the reporting requirements as per the Election Expenditure Regulation Act.
+
+◼️
+
+[Data](articles/5b75e6a4.json)
+
+[Extended Data](ext_articles/5b75e6a4.ext.json)
+
+---
+
+### Awareness on skin whiting coatings
+
+*2024-10-13 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202110) · `si`
+
+Here's a 200-character summary:
+
+
+
+Consumer Affairs Authority warns against skin whitening creams. Director Asela Bandara states health issues arise from unregulated products. Social media ads lack proper contact details, raising concerns about safety and legality.
+
+🟩
+
+The Consumer Affairs Authority (CAA) says that it should be more concerned with the use of peeling peers and liquid.
+
+The Consumer and Information Director Asela Bandara said that the use of health problems have been caused by the use of healthy skin online.
+
+Consumer and Information Director Asela Bandara stated that there is problems regarding the regulations of the coatings of coatings.
+
+"If you go to social media, the commercials come from a very beautiful woman, he can offer a creamy type of cream. We see it as a commercial.
+
+There may be chances of the fact that you only have only a phone number that you admit that. Sometimes no phone number, no address. Especially if we use such problems, we use any problem, we have sold this product.
+
+Our women are particularly concerned about the fact that this kind of order is available in the social media. We should quit using the type of cream coatings, especially the cream. "
+
+◼️
+
+[Data](articles/73c56030.json)
+
+[Extended Data](ext_articles/73c56030.ext.json)
+
+---
+
+### May be raining or thunderstorm in some areas
+
+*2024-10-13 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196138) · `ta`
+
+Heavy rain/thunderstorms forecasted in central, western provinces and coastal areas. Strong winds and rough seas expected. Public advised to remain vigilant.
+
+🟩
+
+Senior Weather Officer Dr. Mohamed Saliheen said that frequent rainfall or thunderstorms are expected in the Central, Sabaragamuwa, Upper, North Western and Northern Provinces, as well as in the Galle and Matara districts.
+
+Showers or thunderstorms can occur in the evening or night in many parts of the country.
+
+The public is asked to act with vigilance in the events of strong winds and lightning.
+
+Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
+
+The sea will blow from the west to the southwest at 25 - 35 km / h in the sea regions from Mannar to Colombo, Galle and Hambantota.
+
+Frequent winds may increase at 50 - 60 km / h in the sea regions from Galle to Matara to Matara.. In these cases, these sea regions are turbulent.
+
+The winds may increase at 45 km / h in the sea regions from Mannar to Colombo to Colombo.. In these cases, these sea regions are somewhat turbulent.
+
+...
+
+[Data](articles/1eb1aa5e.json)
+
+[Extended Data](ext_articles/1eb1aa5e.ext.json)
+
+---
+
+### Sri Lanka - West Indies first T20 match today
+
+*2024-10-13 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202109) · `si`
+
+Sri Lanka vs West Indies T20 series: First match today at Rangiri Dambulla Stadium. Sri Lanka leads 8-7, but hasn't won a 20-run match. Key players: Charan Weththasinghe, Pathum Nissanka, Kusal Mendis, Bhanuka Rajapaksa, Asitha Fernando.
+
+🟩
+
+Sri Lanka and the West Indies team consisting of three matches with the West Indies and the first match will be held today at Rangiri Dambulla Stadium today.
+
+The two countries have operated 20 and 15 runs, while Sri Lanka won eight matches won the West Indies win over 7 matches.
+
+However, a group of Sri Lankan team has not yet won 20 and 20 tournaments.
+
+Meanwhile, the Sri Lankan team who played the match against today was declared.
+
+The group is the leader Charath, Welhika Mendis, Kusal Mendis, Bhanuka Rajapaksa, Mehirin Wickremasinghe, Mehirin Wickraman, Mehikin Wickremasinghe, Mehirin Wickraman, and Asitha Fernando.
+
+◼️
+
+[Data](articles/182055f4.json)
+
+[Extended Data](ext_articles/182055f4.ext.json)
+
+---
+
+### French program begins
+
+*2024-10-13 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202108) · `si`
+
+French program starts. Blood donation event marks Derana Media Network's 19th anniversary. Live broadcast from 9 AM to 12 PM educates public about cell generation process.
+
+🟩
+
+Another national requirement performed on behalf of the 19th anniversary of the Derana Media Network, the "Kingdom" program to donate blood generating cells will be held today (13).
+
+Steps have been taken to telecast live a three-hour growth of the three-hour growth of the nation to educate the nation this morning from 9 am to 12 noon.
+
+◼️
+
+[Data](articles/d87855ce.json)
+
+[Extended Data](ext_articles/d87855ce.ext.json)
+
+---
 
 ### Heavy Israeli bombardment in northern Gaza as UN peacekeepers in Lebanon are hit again
 
@@ -2275,119 +2405,5 @@ A mitzubyi jeep, a businessman in Badulla, has been confiscated.
 [Data](articles/cf061045.json)
 
 [Extended Data](ext_articles/cf061045.ext.json)
-
----
-
-### Mother and son killed in train
-
-*2024-10-12 09:45:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ரயிலில்-மோதி-தாயும்-மகனும்-ஸ்தலத்திலேயே-பலி/75-345307) · `ta`
-
-Train collision kills mother and son in Trincomalee - China area. Ranmadu Hewage Nishanthi (47) and Shehan Jayampathi Perera (10) died instantly. Chinese police investigating.
-
-🟩
-
-Mother and son died on the spot when a train collided with a train yesterday afternoon in the Trincomalee - China area.
-
-Ranmadu Hewage Nishanthi (47 years old) and his son Shehan Jayampathi Perera (10) of China were killed.
-
-Police said the accident was not the case when the father had bought the food package and crossed the railway line.
-
-Chinese police are conducting further investigations into the incident. Remble
-
-◼️
-
-[Data](articles/cd7d3d19.json)
-
-[Extended Data](ext_articles/cd7d3d19.ext.json)
-
----
-
-### Re -opening the covered area on southern high -speed road
-
-*2024-10-12 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196081) · `ta`
-
-Southern High-Speed Road: Welipanna Transfer area reopens on Saturday after temporary closure.
-
-🟩
-
-The Welipanna Transfer area on the temporary closed Southern Expressway has been reopened on Saturday.
-
-◼️
-
-[Data](articles/03fad612.json)
-
-[Extended Data](ext_articles/03fad612.ext.json)
-
----
-
-### Nephew killed in father -in -law's attack
-
-*2024-10-12 09:38:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமனாரின்-தாக்குதலில்-மருமகன்-பலி/175-345306) · `ta`
-
-Son-in-law killed in family dispute: Police arrest 65-year-old father-in-law after fatal assault in Balangoda.
-
-🟩
-
-Balangoda police said that the son -in -law died in a dispute between father -in -law and son -in -law in a house in Balangoda -Dahamana area.
-
-Balangoda police added that he died due to the head of the son -in -law.
-
-The deceased is the father of three children, 44 -year -old Muhawela Legilage Wijekumara, a 44 -year -old man from Balangoda.
-
-His wife's mother and father came to the deceased's house. There was an argument between the wife and the person.
-
-Subsequently, the police suspect that he may have died because of his wife's father in the reception of the house.
-
-The 65 -year -old suspect who assaulted him has been arrested by the Balangoda police.
-
-◼️
-
-[Data](articles/63a5dcaa.json)
-
-[Extended Data](ext_articles/63a5dcaa.ext.json)
-
----
-
-### UNP's nomination rejection
-
-*2024-10-12 09:31:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-சு-முவின்-வேட்பு-மனு-நிராகரிப்பு/175-345305) · `ta`
-
-UNP nomination rejected; 24 total nominations accepted from 16 parties and 7 independents in Matale district for general election.
-
-🟩
-
-Matale District Election Officer Tejani Tilakaratne said that 24 nominations were received from 17 political parties and 7 independent groups recognized from the Matale district for this year's general election.
-
-Tejani Tilakaratne said that a recognized political party's nomination has been rejected.
-
-“UNP. Accordingly, 16 political parties and 7 independent organizations have been accepted. ”(An)
-
-◼️
-
-[Data](articles/18942465.json)
-
-[Extended Data](ext_articles/18942465.ext.json)
-
----
-
-### This year's election is very important
-
-*2024-10-12 09:20:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவ்வருட-தேர்தல்-மிகவும்-முக்கியமானது/175-345304) · `ta`
-
-This year's election is crucial as many politicians abstain from contesting. Over 50 candidates have withdrawn, making it historically significant according to election monitors and reform advocates.
-
-🟩
-
-This is the first time that most politicians across the country have not contested parliamentary elections, election monitoring organizations say.
-
-Due to this, the Executive Director of the People's Movement for the Independent and Justice Elections, Rohana Hettiarachchi said that this year's election is very important.
-
-More than 50 politicians have quit the election this year, said Manjula Gajanayake, Executive Director of Democratic Reforms and Election Studies.
-
-◼️
-
-[Data](articles/7a9351b3.json)
-
-[Extended Data](ext_articles/7a9351b3.ext.json)
 
 ---

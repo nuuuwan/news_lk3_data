@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 23:39:17**
+As of **2024-10-13 23:58:44**
 
 ## Newspaper Stats
 
-*Scraped **49,303** Articles*
+*Scraped **49,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 400
 colombotelegraphcom | 491
 bbccomsinhala | 491
 islandlk | 2,916
-economynextcom | 3,021
+economynextcom | 3,023
 dailyftlk | 3,334
 adalk | 4,576
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,303 (100.0%) of 49,303 articles have been extended.
+49,305 (100.0%) of 49,305 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -581,6 +581,28 @@ India and the United States do not want to carry out Chinese research ships to S
 [Data](articles/14f66f0e.json)
 
 [Extended Data](ext_articles/14f66f0e.ext.json)
+
+---
+
+### World Bank has to discuss new Sri Lanka lending as policy loans end
+
+*2024-10-13 19:08:00* · [`economynextcom`](https://economynext.com/world-bank-has-to-discuss-new-sri-lanka-lending-as-policy-loans-end-183338/) · `en`
+
+ECONOMYNEXT – Washington based World Bank has to start discussions to resume policy loans or other funding for Sri Lanka with existing budget support lined up along with an International Monetary Fund program having come to an end, an official said.
+
+Budget support loans have no import or spending component allowing proceeds to be used for general expenditure or to settle maturing short-term debt.
+
+“In terms of budget support plans, we’ve got no firm plans at the moment,” Gevorg Sargsyan, World Bank Country Manager for Sri Lanka said.
+
+“We need to have a conversation with the new government, understand their reform plans, what they’re thinking. And then on our side, we can also formulate the kind of support that we can provide, whether it’s budget support or other kind of operations.
+
+The World Bank, Asian Development Bank and other lending agencies have indicated their readiness to support Sri Lanka at meetings with newly elected President Anura Dissanayake.
+
+...
+
+[Data](articles/a37c1bae.json)
+
+[Extended Data](ext_articles/a37c1bae.ext.json)
 
 ---
 
@@ -2293,35 +2315,5 @@ Accordingly, 48 hours for the next 48 hours, the people of the Kelaniya, Biyagam
 [Data](articles/99821c6d.json)
 
 [Extended Data](ext_articles/99821c6d.ext.json)
-
----
-
-### Public Security Ministry's order on seven major incidents, including Sivaram massacre - Eran welcomes
-
-*2024-10-13 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196149) · `ta`
-
-Sri Lanka Public Security Ministry orders investigations into seven major incidents including Sivaram assassination. Former MP Eran Wickramaratne welcomes move, calls for justice. Police to expedite probes, increase public confidence in rule of law.
-
-🟩
-
-Former United People's Power MP Eran Wickramaratne has welcomed the public's security ministry to expedite investigations into the seven major incidents, including the assassination of journalist Sivaram, the lifeblood.
-
-This is a great effort to address these events in Parliament and I have demanded justice for the victims.
-
-I am worried that there will be a full -fledged investigation.
-
-This will increase the popular confidence in the rule of the law that is essential for the development of Sri Lanka.
-
-The Public Security Ministry has ordered the police to expedite investigations into the seven major incidents, including the disappearance of Lalit Kugan, the Mass of Journalist Dharmaratnam Sivaram.
-
-The Ministry of Public Security has requested the Central Bank to intensify investigations into the Central Bank bailout.
-
-The police spokesman said that the Public Security Response Chancellor has been asked to work with the CIT and the appropriate police on these incidents.
-
-...
-
-[Data](articles/548e7112.json)
-
-[Extended Data](ext_articles/548e7112.ext.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 02:09:02**
+As of **2024-10-14 02:23:20**
 
 ## Newspaper Stats
 
-*Scraped **49,322** Articles*
+*Scraped **49,323** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
 bbccomsinhala | 491
-colombotelegraphcom | 492
+colombotelegraphcom | 493
 islandlk | 2,916
 economynextcom | 3,023
 dailyftlk | 3,346
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,322 (100.0%) of 49,322 articles have been extended.
+49,323 (100.0%) of 49,323 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -835,6 +835,22 @@ Initial investigations revealed that the youth was working on a field in Kodikam
 [Data](articles/39685e06.json)
 
 [Extended Data](ext_articles/39685e06.ext.json)
+
+---
+
+### Kaithady’s Nuffield School For The Deaf & Blind : Will The New President Save Its Children From The Church?
+
+*2024-10-13 19:14:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kaithadys-nuffield-school-for-the-deaf-blind-will-the-new-president-save-its-children-from-the-church/) · `en`
+
+The Anglican Church’s Colombo Diocese has three schools for the visually handicapped and hearing impaired: 1) The Nuffield School in Kaithady (or The Deaf and Blind School, as we used to call it), 2) The School for the Blind in Ratmalana and 3) The School for the Deaf, also in Ratmalana. The Kaithady school  was part of my life as a boy. We always attended their Christmas service and were amazed by how well the handicapped children could sing. They would occasionally come to our services at St. James’ Nallur.
+
+The Nuffield School was established in 1956 with 18 students and 4 staff members. By 1961 there were 60 students, with many students residing within.
+
+...
+
+[Data](articles/003b3b31.json)
+
+[Extended Data](ext_articles/003b3b31.ext.json)
 
 ---
 
@@ -2255,27 +2271,5 @@ The Parliamentary Administration has taken action by the Parliament, Parliamenta
 [Data](articles/6dd89957.json)
 
 [Extended Data](ext_articles/6dd89957.ext.json)
-
----
-
-### Uncle killed in uncle's mill trees
-
-*2024-10-13 13:48:42* · [`adalk`](https://www.ada.lk/breaking_news/මාමාගේ-මෝල්-ගස්-පහරින්-බැනා-මරුට/11-412461) · `si`
-
-Son-in-law killed in family dispute at uncle's sawmill. 44-year-old father of Wijay Kumara from Meegahawela. Attack occurred on Friday. Suspects arrested. Police investigation ongoing.
-
-🟩
-
-The son-in-law was killed by uncle as a dispute injuries.
-
-The attack was held on Friday on Friday on Friday on Friday.The deceased is the 44 year old father of the Wijay Kumara of Meegahawela.
-
-The death inspection has been arrested by the death of the death by the suspects of the assault of the scalp and base.Quote SLC Inspector General Inspector Chief Inspector Chief Inspector General of Police Jayakody.
-
-◼️
-
-[Data](articles/426e6422.json)
-
-[Extended Data](ext_articles/426e6422.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 08:45:48**
+As of **2024-10-13 08:59:11**
 
 ## Newspaper Stats
 
-*Scraped **49,182** Articles*
+*Scraped **49,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,019
 dailyftlk | 3,334
 adalk | 4,562
 dailymirrorlk | 4,733
-adaderanalk | 5,809
+adaderanalk | 5,810
 tamilmirrorlk | 6,700
 virakesarilk | 7,858
 adaderanasinhalalk | 8,507
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,507
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,178 (100.0%) of 49,182 articles have been extended.
+49,182 (100.0%) of 49,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Showers expected in parts of the country
+
+*2024-10-13 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102642/showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, North-western, Central and Northern provinces and in Galle and Matara districts.
+
+Showers or thundershowers will occur at several places elsewhere during the evening or night.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/783f64d5.json)
+
+---
 
 ### A person who has been shot dead
 
@@ -1888,6 +1904,8 @@ Mr Ortberg said in the email that the company will reduce its headcount “over 
 
 [Data](articles/6e9a3419.json)
 
+[Extended Data](ext_articles/6e9a3419.ext.json)
+
 ---
 
 ### Removes security stalls near Temple Trees
@@ -2383,27 +2401,5 @@ However, the Department of Meteorological Department informs the Navy and the fi
 [Data](articles/8c5dabac.json)
 
 [Extended Data](ext_articles/8c5dabac.ext.json)
-
----
-
-### Flood risk in Gampaha
-
-*2024-10-12 09:09:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹாவில்-வெள்ள-அபாயம்/175-345302) · `ta`
-
-Gampaha floods: Attanagalu Oya water level reaches flood point due to heavy rains. Nirmini water level at 5.54m, lowland residents advised to monitor. Many roads submerged.
-
-🟩
-
-Deputy Director of Gampaha District Disaster Management Ajith Nishantha said that the water level of Attanagalu Oya has reached the flood level due to heavy rains.
-
-As of 9 pm yesterday (11), the Deputy Director has warned that the water level of the Nirmani is 5.54 meters and the residents of the lowlands will be observed.
-
-He noted that the roads in many parts of the Gampaha district have been submerged.
-
-◼️
-
-[Data](articles/c3be3316.json)
-
-[Extended Data](ext_articles/c3be3316.ext.json)
 
 ---

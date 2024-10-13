@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 05:23:14**
+As of **2024-10-13 05:45:26**
 
 ## Newspaper Stats
 
-*Scraped **49,163** Articles*
+*Scraped **49,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 400
 colombotelegraphcom | 490
 bbccomsinhala | 491
-islandlk | 2,904
+islandlk | 2,911
 economynextcom | 3,019
 dailyftlk | 3,334
 adalk | 4,560
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,504
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,163 (100.0%) of 49,163 articles have been extended.
+49,163 (100.0%) of 49,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Selling, Global Connections & Travelling
+
+*2024-10-13 01:03:00* · [`islandlk`](http://island.lk/selling-global-connections-travelling/) · `en`
+
+In the early 1990s, as the General Manager of Mount Lavinia Hotel (MLH) and its Catering Company, which handled all event catering at Sri Lanka’s national convention centre, the BMICH, I found myself deeply immersed in sales and promotion. I worked closely the sales team to drive the hotel’s success. Together, we developed strategies to boost room sales, group bookings, and special events, ensuring that MLH remained a top destination in the country.
+
+The hotel industry is all about creating unique experiences, and I made it my mission to promote MLH’s food festivals, stage productions, and other special events. I took the lead in media briefings and public relations campaigns, forming close working relationships with advertising agents to get the message out. My efforts extended to reimagining the iconic “Little Hut” nightclub, which quickly became the most popular night club in Sri Lanka during the early ’90s.
+
+...
+
+[Data](articles/38034685.json)
+
+---
 
 ### 22,064 people are affected by floods
 
@@ -78,6 +92,20 @@ He noted that he made the decision due to the failure of negotiations to contest
 
 ---
 
+### Possession is Nine-Tenths of the Law – Land Disputes in the Mahaweli
+
+*2024-10-12 23:12:00* · [`islandlk`](http://island.lk/possession-is-nine-tenths-of-the-law-land-disputes-in-the-mahaweli/) · `en`
+
+I joined Development Alternatives Inc. (DAI), a US development agency, in 1988 after serving the Sri Lankan government for 15 years. I left the government service because of political and bureaucratic meddling in research administration. The DAI recruited me as the resident water-user organisation specialist of the Mahaweli Agricultural Rural Development (MARD) Project, funded by USAID, in the Mahaweli System B Region.
+
+The DAI was a good employer, and it gave me a well-furnished bungalow at Aralagawila (four miles from Dimbulagala) and a brand-new Pajero Jeep. I was happy to be away from Colombo after the difficult times with politicians and bureaucrats. Also, I was excited to move from doing research to project planning and implementation.
+
+...
+
+[Data](articles/b4857543.json)
+
+---
+
 ### Three persons, including a child, were killed in a train collision
 
 *2024-10-12 23:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மோதியதில்-குழந்தை-உட்பட-மூவர்-பலி/175-345340) · `ta`
@@ -97,6 +125,20 @@ The three deceased are said to be from Kalutara South Rajavatta area. Remble
 [Data](articles/0262d947.json)
 
 [Extended Data](ext_articles/0262d947.ext.json)
+
+---
+
+### I OPPOSE THE PRIME MINISTER, THE MINISTER OF PLANNING AND THE MINISTER OF AGRICULTURE
+
+*2024-10-12 23:08:00* · [`islandlk`](http://island.lk/i-oppose-the-prime-minister-the-minister-of-planning-and-the-minister-of-agriculture/) · `en`
+
+(Excerpted from Falling leaves, an autobiographical memoir of LC Arulpragasam)
+
+I had no place to go, because I was wedded to the agriculture sector – by my own choosing. Therefore, I was lucky to find a berth as Head of the Agriculture Sector in the Department of National Planning. But I had to pay a career-price for doing this, because it involved my working under a non-civil servant and under someone whom I outranked in the Civil List – which was simply not done in those days.
+
+...
+
+[Data](articles/16900968.json)
 
 ---
 
@@ -133,6 +175,52 @@ Leader Superkumar Yadv scored 75 runs while Hardk scored 47 runs.
 [Data](articles/bb232982.json)
 
 [Extended Data](ext_articles/bb232982.ext.json)
+
+---
+
+### Brands … and brand names
+
+*2024-10-12 23:06:00* · [`islandlk`](http://island.lk/brands-and-brand-names/) · `en`
+
+I’m at the age where parties have become a chore rather than an outright pleasure.That is not quite true. There are some which I look forward to of course, but they tend to be small affairs with just close friends around, entailing minimal ‘fashion dressing’ with the accent on comfort rather than haute couture.
+
+The ‘in crowd’ today, throw around brand names for every garment they wear, and it would not be an exaggeration to say most of my generation have not heard of them. We know of Christian Dior, Prada, and maybe Oscar de la Renta. but the ‘in crowd’ think very little of my clothes sense. In fact, they assume (quite rightly) that I have none at all as far as name brands go. Last year my USA living grand offspring, KitKat, viewed my six year old wallet with distaste.
+
+“Rubbish. I paid Rs. 6000 for this and it is perfect. It was expensive five years ago and it looks new. Everyone wants to know where I bought it,” I bristled at her disbelieving look.
+
+...
+
+[Data](articles/636ec6f0.json)
+
+---
+
+### We deserve a bright future
+
+*2024-10-12 22:56:00* · [`islandlk`](http://island.lk/we-deserve-a-bright-future/) · `en`
+
+Anura Kumara Dissanayake , though not securing a 50%+1 vote, won the recently concluded presidential election and has become the ninth executive president of the country. In this election as in the previous one, the vote of the Tamil people went to the unsuccessful candidates.
+
+AKD did not win in any of the Tamils dominated districts. There are many comments and criticisms on this issue in especially the social media. These commentators often do not have deep understanding of politics and express knee jerk reactions towards this sensitive issue.
+
+...
+
+[Data](articles/a88f0efa.json)
+
+---
+
+### Tissa Wijeyaratne at the foreign office and briefing on the KGB in London
+
+*2024-10-12 22:54:00* · [`islandlk`](http://island.lk/tissa-wijeyaratne-at-the-foreign-office-and-briefing-on-the-kgb-in-london/) · `en`
+
+(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
+
+The Prime Minister had brought in Mr. Tissa Wijeyaratne, a lawyer, and one who had long antecedents in the Communist Party as the Additional Secretary Foreign Affairs, in the Ministry of Defence and Foreign Affairs. Tissa had a good mind and was a witty speaker. I remember once. when I was an undergraduate at Peradeniya University, Tissa addressing a packed “Room A”, the largest hall in the University on some political topic.
+
+Most of the undergraduates were almost equally divided between Communists and Trotskyites during this time, so that Tissa was well aware that his audience consisted of a large number of Trotskyites. His opening sentence was “Trotskyites of the world unite. You have nothing to lose but your brains!” This was of course an invitation to pandemonium, which duly reigned for quite sometime, until a harassed presiding officer restored some degree of order and silence. That was Tissa.
+
+...
+
+[Data](articles/359e211f.json)
 
 ---
 
@@ -879,6 +967,18 @@ This is the final of the tournament in the first round of the tournament.
 [Data](articles/d337ae92.json)
 
 [Extended Data](ext_articles/d337ae92.ext.json)
+
+---
+
+### Understanding Russia’s Perspective: My Talk with Ambassador Levan S. Dzhagaryan
+
+*2024-10-12 17:03:00* · [`islandlk`](http://island.lk/understanding-russias-perspective-my-talk-with-ambassador-levan-s-dzhagaryan/) · `en`
+
+In this engaging and thought-provoking interview with Levan S. Dzhagaryan, the Russian Ambassador to Sri Lanka and the Republic of Maldives, the seasoned diplomat shared his country’s perspectives on recent political developments in Sri Lanka and the intricate geopolitical dynamics surrounding the situation in Ukraine. With a diplomatic career spanning decades, Dzhagaryan’s insights reveal the nuanced layers of Russia’s foreign policy and its implications for global relations.
+
+...
+
+[Data](articles/a4fef8e9.json)
 
 ---
 
@@ -2265,199 +2365,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/335cc8af.json)
 
 [Extended Data](ext_articles/335cc8af.ext.json)
-
----
-
-### Sri Lanka September remittances up 15.2-pct to $555.6mn, $4.8 bn to date
-
-*2024-10-12 07:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-september-remittances-up-15-2-pct-to-555-6mn-4-8-bn-to-date-183302/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s remittances coming from its overseas expatriate workers gained 15.2 percent to $555.6 million in September 2024 compared to the same month last year, helped by more expatriates using the official banking channels.
-
-The total remittances also crossed $4.8 billion in the first nine months of 2024 through end September, the latest Central Bank data showed.
-
-The remittances in the first nine months gained 11.5 percent to $4.84 billion compared to $4.35 billion in the same period last year.
-
-Worker remittances are one of the top foreign exchange revenue earners for the island nation which is still recovering from an unprecedented economic crisis hit in 2022.
-
-The remittances have risen continuously after the central bank gave up a parallel exchange rate regime, which compelled most expatriates to switch informal Undiyal and Hawala money transfer methods.
-
-...
-
-[Data](articles/916d8f81.json)
-
-[Extended Data](ext_articles/916d8f81.ext.json)
-
----
-
-### Heavy rain today
-
-*2024-10-12 07:21:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பலத்த-மழை/175-345299) · `ta`
-
-Heavy rain expected today across several provinces. Intermittent showers possible in central regions. Up to 100mm in western areas, 75mm elsewhere. Strong winds predicted in coastal waters.
-
-🟩
-
-The Department of Meteorology has forecast heavy rainfall in many parts of the country today.
-
-In the middle of the top, Sabaragamuwa, South, North Western and Central Provinces, intermittent rainfall may be recorded.
-
-Heavy rainfall is likely to record up to 100 millimeters in some parts of the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-In other parts of the country, up to 75 millimeters of rain can be recorded in the evening or night.
-
-Meanwhile, the Department of Meteorology has forecast strong winds in the seas surrounding the country.. (A)
-
-◼️
-
-[Data](articles/ac340d2b.json)
-
-[Extended Data](ext_articles/ac340d2b.ext.json)
-
----
-
-### Democratic Tamil Nadu met Mawa
-
-*2024-10-12 07:10:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனநாயகத்-தமிழரசு-மாவையைச்-சந்தித்தது/175-345298) · `ta`
-
-Democratic Tamil Nadu candidates met TNA leader Mawai Senathirajah in Jaffna. Candidates contesting under 'Mangalam' symbol received mangoes from Senathirajah at his residence.
-
-🟩
-
-In the Jaffna election district, some candidates of the Democratic Tamil National Alliance (TNA), which are contesting as an independent committee at the 'Mangalam' symbol under the leadership of President KV Dawarasa, met with the President of the Sri Lanka Tamil National Alliance (TNA) leader Mawai Senathirajah.
-
-Jaffna on Friday evening. The meeting took place at the Mavai Senathiraja's residence in Mavitapuram.
-
-During this time, the candidates contesting the 'mango' symbol were given mangoes to Maui Senathiraja.
-
-President Attorney KV Dawarasa, Former Parliamentarian E. Saravanapavan. (A)
-
-◼️
-
-[Data](articles/fbcac56a.json)
-
-[Extended Data](ext_articles/fbcac56a.ext.json)
-
----
-
-### Students and people should organize Independence Day
-
-*2024-10-12 06:56:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களும்-மக்களும்-ஒடுக்கப்படாத-வகையில்-சுதந்திர-தினத்தை-ஏற்பாடு-செய்ய-வேண்டும்/175-345297) · `ta`
-
-Here's a 200-character summary:
-
-
-
-PM Harini Amarasuriya urges state officials to manage development projects responsibly. She expects a national independence ceremony from 2025. Students and citizens should organize Independence Day celebrations without oppression.
-
-🟩
-
-Prime Minister Harini Amarasuriya has said that state officials should take responsibility for the proper character and benefits of the development projects implemented in the country.
-
-The Prime Minister said this during a discussion with a panel of officials of the State Administration, Home Affairs, Provincial Councils and Local Government Ministry officials.
-
-The Prime Minister stressed that many of the existing projects are based on the debt and that the people are responsible for the authorities as they have to pay the loans.
-
-He added that the current government will support such officials at any time.
-
-The Prime Minister also stated that the government is expecting a national independence ceremony for the people of the country since 2025.
-
-He pointed out that the school students and the public should be organized to organize Independence Day so as not to oppress. (An)
-
-◼️
-
-[Data](articles/70369817.json)
-
-[Extended Data](ext_articles/70369817.ext.json)
-
----
-
-### MM. Heavy rains around 100
-
-*2024-10-12 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202075) · `si`
-
-Heavy rains expected in SW Sri Lanka. Thundershowers forecasted for Western, Sabaragamuwa, Southern, North Western and Central provinces. Strong winds predicted. Public advised to be cautious due to potential lightning and wind-related hazards.
-
-🟩
-
-Due to the prevailing atmosphere in the island, the existing showers in the southwest of the island can further expect the existing rain condition.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern, Southern, North Western and Central provinces.
-
-Mm in the Western and Sabaragamuwa Province and in the Galle and Matara districts. Heavy rains will occur at around 100.
-
-Thundershowers will develop at several places in the evening or night during the evening or night.
-
-From time to time in Western, Sabaragamuwa, Southern, Southern, North Western and Central provinces. The Department of Meteorology says that about 30-40 times there is strong winds.
-
-The public is kindly requested to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/2c01ee19.json)
-
-[Extended Data](ext_articles/2c01ee19.ext.json)
-
----
-
-### Dies
-
-*2024-10-12 06:39:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாள்வெட்டில்-காயமடைந்தவர்-உயிரிழப்பு/175-345296) · `ta`
-
-Man killed by sword attack; total victims now 2. Father of 3 dies from injuries sustained during land dispute. Chilli powder thrown during altercation. Nephew also injured but survives.
-
-🟩
-
-A man who was injured in a sword in a landlord died yesterday. As a result, the number of victims of the incident increased to two.
-
-The deceased is the father of three children, Rs.
-
-It is said that some people who came there were throwing chilli powder on them while the dead man and his nephew were cleaning the land on Thursday.
-
-The father of two children, Ilango (age 38), died on the spot.. The other person, Dileepan, was rescued by the townspeople and admitted to the Vavuniya General Hospital. He died yesterday after he was receiving treatment.
-
-◼️
-
-[Data](articles/9acdd41f.json)
-
-[Extended Data](ext_articles/9acdd41f.ext.json)
-
----
-
-### Employment: 'Even at the weekend, we work in our oils about this targat'
-
-*2024-10-12 04:51:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjd5858x345o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Workplace pressures impact mental health globally. Long hours, lack of support, and blurred boundaries between work and personal life cause stress. Employees struggle balancing professional demands and family responsibilities. Mental health initiatives are needed to address these issues.
-
-🟩
-
-Employment: 'Even at the weekend, we work in our oils about this targat'
-
-It is problematic whether the concern for many people in their physical health.
-
-Due to the importance of the mental health, the World Health Organization has even reserved a date on October 10 every year.
-
-This year was that theme was to "place the employment in the workplace".
-
-Workplace pressure: How do you detect that you are a victim?
-
-With the commitment of suicide in the private company of India, a employee has been able to bother over the job in the job.
-
-The majority of the people who have paid their lives in the job have been a Sinhala conversation with a few selected people.
-
-"If you take 50 women with me, 25 people who take medicine to diption do not have medicine."The garment workers in the Katunayaka Free Trade Zone began with our talk.
-
-Even during the Korea Epidemiology, many women worked for the economy of the country, and many women worked in the country, and our speech is also one of them.
-
-...
-
-[Data](articles/c69a67c9.json)
-
-[Extended Data](ext_articles/c69a67c9.ext.json)
 
 ---

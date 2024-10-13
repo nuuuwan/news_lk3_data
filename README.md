@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 16:38:45**
+As of **2024-10-13 16:55:35**
 
 ## Newspaper Stats
 
-*Scraped **49,236** Articles*
+*Scraped **49,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,021
 dailyftlk | 3,334
 adalk | 4,570
 dailymirrorlk | 4,733
-adaderanalk | 5,818
+adaderanalk | 5,819
 tamilmirrorlk | 6,715
 virakesarilk | 7,867
 adaderanasinhalalk | 8,518
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,236 (100.0%) of 49,236 articles have been extended.
+49,237 (100.0%) of 49,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Baba Siddique: Mumbai politician shot dead months before state elections
+
+*2024-10-13 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102652/baba-siddique-mumbai-politician-shot-dead-months-before-state-elections) · `en`
+
+A prominent Indian politician known for his strong connections to Bollywood was shot dead in Mumbai on Saturday by unknown assailants, just months before state elections.
+
+Baba Siddique, a three-time member of the state legislative assembly, was attacked near his son’s office in the upscale Bandra East area of Mumbai.
+
+The 66-year-old former Maharashtra state minister was shot in the chest by three men who fired a volley of bullets on Saturday, when the country was celebrating the Hindu festival of Dussehra.
+
+Siddique was rushed to Lilavati Hospital, but succumbed to his injuries. An aide accompanying him was also injured.
+
+Maharashtra’s deputy chief minister Ajit Pawar, who is from the same political party as Siddique, said he was shocked by the killing. “The incident will be thoroughly investigated and strict action will be taken against the attackers. The mastermind behind the attack will also be traced,” Pawar said in a statement.
+
+...
+
+[Data](articles/ed649ad5.json)
+
+[Extended Data](ext_articles/ed649ad5.ext.json)
+
+---
 
 ### The oral and breast cancer is up
 
@@ -2363,27 +2385,5 @@ He was speaking at a special meeting of candidates contesting the parliamentary 
 [Data](articles/b058ee9d.json)
 
 [Extended Data](ext_articles/b058ee9d.ext.json)
-
----
-
-### Death on the spot
-
-*2024-10-12 17:29:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சம்பவ-இடத்திலேயே-ஒருவர்-மரணம்/71-345319) · `ta`
-
-Vehicle accident near Jaffna-Valvai Bridge: One man killed instantly when motorcycle collides with three-wheeler. Driver of three-wheeler arrested.
-
-🟩
-
-One person died on the spot in a vehicle accident near the Jaffna -Valvai Bridge today.
-
-மோட்டார் சைக்கிள் மற்றும் பட்டா வாகனம் முச்சக்கரவண்டி என்பன மோதுண்டு ஏற்பட்ட விபத்தில் மோட்டார் சைக்கிளில் பயணித்த ஆண் உயிரிழந்தார்.
-
-Meanwhile, the driver of the Patta motorist was arrested by the driver of the three -wheeler driver.
-
-◼️
-
-[Data](articles/82ff8c7c.json)
-
-[Extended Data](ext_articles/82ff8c7c.ext.json)
 
 ---

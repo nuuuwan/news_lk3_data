@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 19:39:18**
+As of **2024-10-13 19:56:58**
 
 ## Newspaper Stats
 
-*Scraped **49,266** Articles*
+*Scraped **49,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,021
 dailyftlk | 3,334
-adalk | 4,573
+adalk | 4,574
 dailymirrorlk | 4,733
 adaderanalk | 5,823
 tamilmirrorlk | 6,723
 virakesarilk | 7,875
-adaderanasinhalalk | 8,524
+adaderanasinhalalk | 8,526
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,266 (100.0%) of 49,266 articles have been extended.
+49,269 (100.0%) of 49,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Another Chinese nationals arrested
+
+*2024-10-13 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202126) · `si`
+
+Chinese nationals arrested in Kotte for financial frauds. Police seized 15 computers and phones.
+
+🟩
+
+A group of 15 Chinese suspects to be involved in financial frauds have been arrested in the Kotte area in Kotte, Welikada.
+
+Police Media Spokesperson DIG's Court Attorney Nihal Talduuwa said that 15 desktop computers and 15 mobile phones have been taken into police custody.
+
+◼️
+
+[Data](articles/89c812e7.json)
+
+[Extended Data](ext_articles/89c812e7.ext.json)
+
+---
+
+### West Indies
+
+*2024-10-13 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202125) · `si`
+
+Sri Lanka vs West Indies cricket match summary: West Indies bowled first after winning toss, Chari leads Sri Lanka team.
+
+🟩
+
+The 20 runs between the Sri Lanka team and the West Indies will commence today.
+
+West Indies, who won the coin, decided to bowl first.
+
+The Sri Lankan team led by Chari as the leadership of the West Indies.
+
+◼️
+
+[Data](articles/2a78cc4e.json)
+
+[Extended Data](ext_articles/2a78cc4e.ext.json)
+
+---
 
 ### Mumbai Indians decimilly trainer
 
@@ -68,7 +110,11 @@ Another group of 15 Chinese nationals allegedly involved in online financial sca
 
 Police spokesman DIG Nihal Thalduwa said that the police have also taken custody of 15 desktop computers and 15 mobile phones which were in the possession of the arrested individuals.
 
-◼️
+Sri Lanka Police have so far arrested around 180 Chinese nationals, who were allegedly involved in online financial scams, from various parts of the island within the month of October.
+
+On Saturday (12), a group of 129 Chinese nationals were arrested in the Kundasale area, where the police had also seized over 100 laptops and a large number of mobile phones which were taken into custody from 47 rooms in a luxury bungalow in Kundasale.
+
+...
 
 [Data](articles/5a58f9fe.json)
 
@@ -255,6 +301,26 @@ Subsequently, the body was placed in the funeral room of the hospital and the dr
 [Data](articles/c46484e0.json)
 
 [Extended Data](ext_articles/c46484e0.ext.json)
+
+---
+
+### Acimulation of landslides extended
+
+*2024-10-13 18:00:34* · [`adalk`](https://www.ada.lk/breaking_news/නාය-යෑමේ-අනතුරු-ඇගවීම-දීර්ඝ-කරයි/11-412466) · `si`
+
+Landslide warnings extended: NBRO announces second-level alerts for multiple districts due to inclement weather. Residents advised to check updates before 4 PM today.
+
+🟩
+
+The National Building Research Organization (NBRO) has continued to extend the landslide warning announcements that had been imposed in eight Divisional Secretariat Divisions in eight districts in eight districts due to the prevailing inclement weather.
+
+Elpitiya, Neluwa, Badumba, Palindhala, Bulathsin Kandagala, Dodandara, Dodangoda, Bulathgala, Dodangoda, Kegalle, Bulathgoda, Wadduwa, Warambipitiya, Warambipola, Warambipuwa, Warambipola, Kegalle, Kegalle, Kegalle, Kegalle, KegalleThe second level announcement of knowing the intention of the Eheliyagoda, Udaya, Kiriella, Ayagama, Alapatha, Analhela, Ratnapura, Kuruwita, Ratnapura, Kuruwita, Ratnapura, Kuruwita, Ratnapura, Kuruwita, Ratnapura and Attanagalla District Secretariat.
+
+...
+
+[Data](articles/5c283956.json)
+
+[Extended Data](ext_articles/5c283956.ext.json)
 
 ---
 
@@ -2263,75 +2329,5 @@ I had no place to go, because I was wedded to the agriculture sector – by my o
 [Data](articles/16900968.json)
 
 [Extended Data](ext_articles/16900968.ext.json)
-
----
-
-### Report from India
-
-*2024-10-12 23:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202104) · `si`
-
-India vs Bangladesh cricket match summary: India won by 133 runs, scoring 296/6 in 20 overs. Yadv scored 75, Hardik 47.
-
-🟩
-
-The third and last 20th group between the Bangladesh team and the third and final 20th match was held today (12) at the Rajiv Gandhi International Stadium, India.
-
-India to acquire the highest number of runs in the 20th match in the match.
-
-They were able to score 296 runs in the 20 overs.
-
-Chasing a target of 297 in this match, Bangladesh was killed by 133 runs.
-
-The Indian team scored 296 runs for the loss of 6 wickets at the end of 20 overs.
-
-The Indian team scored 82 runs in the Power Cardle (8 overs).
-
-It was a fastest score of the fastest score at the Powerplate of the Powerplate in the Powerplate of 20 Indian team.
-
-A merciless innings played a merciless innings in 40 balls with his milestone in 40 balls.
-
-That century was 20th the second fastest reported for India.
-
-Leader Superkumar Yadv scored 75 runs while Hardk scored 47 runs.
-
-◼️
-
-[Data](articles/bb232982.json)
-
-[Extended Data](ext_articles/bb232982.ext.json)
-
----
-
-### Brands … and brand names
-
-*2024-10-12 23:06:00* · [`islandlk`](http://island.lk/brands-and-brand-names/) · `en`
-
-I’m at the age where parties have become a chore rather than an outright pleasure.That is not quite true. There are some which I look forward to of course, but they tend to be small affairs with just close friends around, entailing minimal ‘fashion dressing’ with the accent on comfort rather than haute couture.
-
-The ‘in crowd’ today, throw around brand names for every garment they wear, and it would not be an exaggeration to say most of my generation have not heard of them. We know of Christian Dior, Prada, and maybe Oscar de la Renta. but the ‘in crowd’ think very little of my clothes sense. In fact, they assume (quite rightly) that I have none at all as far as name brands go. Last year my USA living grand offspring, KitKat, viewed my six year old wallet with distaste.
-
-“Rubbish. I paid Rs. 6000 for this and it is perfect. It was expensive five years ago and it looks new. Everyone wants to know where I bought it,” I bristled at her disbelieving look.
-
-...
-
-[Data](articles/636ec6f0.json)
-
-[Extended Data](ext_articles/636ec6f0.ext.json)
-
----
-
-### We deserve a bright future
-
-*2024-10-12 22:56:00* · [`islandlk`](http://island.lk/we-deserve-a-bright-future/) · `en`
-
-Anura Kumara Dissanayake , though not securing a 50%+1 vote, won the recently concluded presidential election and has become the ninth executive president of the country. In this election as in the previous one, the vote of the Tamil people went to the unsuccessful candidates.
-
-AKD did not win in any of the Tamils dominated districts. There are many comments and criticisms on this issue in especially the social media. These commentators often do not have deep understanding of politics and express knee jerk reactions towards this sensitive issue.
-
-...
-
-[Data](articles/a88f0efa.json)
-
-[Extended Data](ext_articles/a88f0efa.ext.json)
 
 ---

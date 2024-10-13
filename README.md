@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 09:24:17**
+As of **2024-10-13 09:39:36**
 
 ## Newspaper Stats
 
-*Scraped **49,185** Articles*
+*Scraped **49,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,334
 adalk | 4,563
 dailymirrorlk | 4,733
 adaderanalk | 5,811
-tamilmirrorlk | 6,700
+tamilmirrorlk | 6,702
 virakesarilk | 7,858
 adaderanasinhalalk | 8,507
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,507
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,184 (100.0%) of 49,185 articles have been extended.
+49,187 (100.0%) of 49,187 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,58 @@ Hunger warnings emerged again in northern Gaza as residents said they hadn’t r
 ...
 
 [Data](articles/7bbb4897.json)
+
+[Extended Data](ext_articles/7bbb4897.ext.json)
+
+---
+
+### Immediate Relief: Presidential Workplace
+
+*2024-10-13 08:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடனடி-நிவாரணம்-ஜனாதிபதி-பணிப்புரை/175-345346) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Presidential relief efforts underway for flood/landslide victims. 50m rupees allocated. 24k affected. 23 relief centers operating. Emergency hotline: 117, 0112136222, 0112670002.
+
+🟩
+
+President Anura Kumara Dissanayake has directed the officials to provide immediate relief to the people affected by the inclement weather in the country.
+
+In addition, President Anura Kumara Dissanayake has informed the Secretary of the Ministry of Defense to provide special care on the safety of the people in the districts affected by the floods and landslides due to inclement weather.
+
+The President said that the government is working to provide relief to all the people affected by the emergency situation and that the people can get the relief in the future by contacting the state officials of the respective provinces.. Until then, the president also asked for people to be careful.
+
+...
+
+[Data](articles/9badecc9.json)
+
+[Extended Data](ext_articles/9badecc9.ext.json)
+
+---
+
+### Thundershowers still
+
+*2024-10-13 08:31:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-இடியுடன்-கூடிய-மழை/175-345345) · `ta`
+
+Here's a summary of the text in 200 characters:
+
+
+
+"Rainfall/thunderstorms possible in Western & Sabaragamuwa provinces, Galle & Matara districts."
+
+🟩
+
+The Department of Meteorology said that in many parts of the country, there is a possibility of rainfall or thunderstorms.
+
+Thundershowers are likely to occur in the Western and Sabaragamuwa Provinces and Galle and Matara districts, the department said.
+
+◼️
+
+[Data](articles/b8ad77bc.json)
+
+[Extended Data](ext_articles/b8ad77bc.ext.json)
 
 ---
 
@@ -2337,59 +2389,5 @@ More than 50 politicians have quit the election this year, said Manjula Gajanaya
 [Data](articles/7a9351b3.json)
 
 [Extended Data](ext_articles/7a9351b3.ext.json)
-
----
-
-### President and Samantha Power talks
-
-*2024-10-12 09:17:49* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හා-සමන්තා-පවර්-සාකච්ඡා/11-412450) · `si`
-
-Here's a 200-character summary:
-
-
-
-"President Anura Kumara Dissanayake met Samantha Power via video conference. They discussed key issues, including US aid for Sri Lanka and international development cooperation. Power emphasized alignment between US policies and Sri Lankan government goals, noting strong public support for USAID efforts."
-
-🟩
-
-A meeting between President Anura Kumara Dissanayake and the United States Agency of US Agency (USAID) was through online technology.
-
-The President and Samantha Power had commented on several mutual important points, and cooperation between US agency for Sri Lanka and international development in Sri Lanka and international development
-
-Samantha Power, which pointed out the equivalent of the policies of the government's policy statement and the principles of the US agency's policies, the US Agency is fully supported by the people.
-
-Samana Power, the US Agency of Sri Lanka and the US Agency of Sri Lanka and the US Agency for International Development will further further strengthen.
-
-◼️
-
-[Data](articles/858f3cc6.json)
-
-[Extended Data](ext_articles/858f3cc6.ext.json)
-
----
-
-### An increase in the number of neglecting elections
-
-*2024-10-12 09:17:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-புறக்கணித்தோர்-எண்ணிக்கை-அதிகரிப்பு/175-345303) · `ta`
-
-More politicians opting out of elections. 17 ministers won't run, total non-contesting candidates now 37. Former ministers express disappointment, one calls politics "thievery."
-
-🟩
-
-It is reported that 17 other ministers will not contest in the upcoming general election.
-
-Accordingly, the number of those who decided not to field in the election has risen to 37.
-
-Former Minister of State Mrs. Geeta Kumarasinghe has said that he has long decided not to contest the general election this year and that I am not eligible to do politics with thieves.
-
-Former Minister of State DP Herath has said that he is very disappointed in politics.
-
-Former Minister Mr. Prasanna Ranatunga said that even if he does not contest the upcoming general election, the country will be fielded across the country for the purpose of the election.
-
-◼️
-
-[Data](articles/bab78a8a.json)
-
-[Extended Data](ext_articles/bab78a8a.ext.json)
 
 ---

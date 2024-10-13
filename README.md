@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 20:09:23**
+As of **2024-10-13 20:23:23**
 
 ## Newspaper Stats
 
-*Scraped **49,269** Articles*
+*Scraped **49,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,574
 dailymirrorlk | 4,733
 adaderanalk | 5,823
 tamilmirrorlk | 6,723
-virakesarilk | 7,875
+virakesarilk | 7,895
 adaderanasinhalalk | 8,526
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,269 (100.0%) of 49,269 articles have been extended.
+49,281 (100.0%) of 49,289 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,92 @@ Police Media Spokesperson DIG's Court Attorney Nihal Talduuwa said that 15 deskt
 
 ---
 
+### Driver killed in plowing machine in Medirigiriya
+
+*2024-10-13 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196192) · `ta`
+
+Driver killed in plowing machine accident in Medirigiriya. Vehicle overturned, driver lost control and died. Incident occurred near Kusum Pokuna area. Driver hospitalized and later transferred to Polonnaruwa Hospital.
+
+🟩
+
+A small plowing machine in the Kusum Pokuna area belonging to the Medirigiriya Police Division toppled the driver of the road, the driver of the police said.
+
+The driver lost control and collapsed on the street as the plowing machine was heading towards Kusum Pokuna from the Bingbara area.
+
+The driver, who was severely injured in the incident, was admitted to the Medirigiriya Hospital and was transferred to the Polonnaruwa Hospital for further treatment.
+
+◼️
+
+[Data](articles/fa2f61da.json)
+
+[Extended Data](ext_articles/fa2f61da.ext.json)
+
+---
+
+### Diplomacy towards the existence of the Maldives
+
+*2024-10-13 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196191) · `ta`
+
+On the one hand, India has a peaceful economic agreement among the countries of the Born, and is trying to maintain domination in its region.. Not only China but also the United States in this regional leadership and strategic security affairs is increasingly pursuing the influence of Indian interests.
+
+◼️
+
+[Data](articles/f91781fb.json)
+
+[Extended Data](ext_articles/f91781fb.ext.json)
+
+---
+
+### Will the representation of Muslims be protected?
+
+*2024-10-13 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196190) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Muslims' representation debated: Faisal Qasim and Haris opposed due to supporting 20th Amendment. Former MP Tafeek agrees to run for Muslim Congress in Trincomalee District despite opposition.
+
+🟩
+
+Those who have said that Faisal Qasim and Haris, who supported the 20th Amendment, should not be nominated as candidates, did not oppose the former MP Tafeek, who supported the 20th Amendment as a candidate.. While they were protesting, Taufeek agreed to contest on behalf of the Muslim Congress in the Trincomalee District.
+
+◼️
+
+[Data](articles/67fa09d1.json)
+
+[Extended Data](ext_articles/67fa09d1.ext.json)
+
+---
+
+### The Tamil people should reject the politics and the drug traders in the election. Anyngaranesan
+
+*2024-10-13 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196215) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil nationalists diverting post-war politics. Rejecting Tamil candidates, supporting Sinhalese. Tamil politicians selling liquor deals. Tamil National Green Movement urges rejecting fake nationalists and drug traders in upcoming elections.
+
+🟩
+
+Mullivaikkal's post -war Tamil politics is being diverted by Tamil nationalists. The agenda of the Tamil nationalism into the Sinhalese nationalism is being systematically carried out as a very nasuk.
+
+These are the ones who rejected the Tamil general candidate in the presidential election and demanded the vote for Sajith Premadasa. On the other hand, Tamil -speaking politicians are selling liquor bargains and selling them.
+
+The leader of the Tamil National Green Movement, Poor, said that the Tamil people should reject the parliamentary elections in the upcoming parliamentary elections to be held in this fake Tamil nationalists and drug traders.. Aingeranesan has appealed.
+
+The Tamil National Green Movement and the Democratic TNA are contesting the parliamentary election this time as the Democratic Tamil State Alliance. At a media briefing held at the office of the Tamil National Green Movement, P.Ingaranesan appealed for this.
+
+...
+
+[Data](articles/d97e4e25.json)
+
+[Extended Data](ext_articles/d97e4e25.ext.json)
+
+---
+
 ### West Indies
 
 *2024-10-13 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202125) · `si`
@@ -71,6 +157,248 @@ The Sri Lankan team led by Chari as the leadership of the West Indies.
 [Data](articles/2a78cc4e.json)
 
 [Extended Data](ext_articles/2a78cc4e.ext.json)
+
+---
+
+### Bomb blast in Kodikam;Youth injured
+
+*2024-10-13 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196213) · `ta`
+
+Bomb blast injures youth in Kodikamam, Jaffna. Victim hospitalized. Initial investigation ongoing.
+
+🟩
+
+A youth has been admitted to Jaffna Bodhana Hospital after a youth was injured in a bomb blast in Kodikamam, Jaffna.
+
+Initial investigations revealed that the youth was working on a field in Kodikamam area on Sunday.
+
+◼️
+
+[Data](articles/39685e06.json)
+
+[Extended Data](ext_articles/39685e06.ext.json)
+
+---
+
+### Elephant in Nuwara Eliya
+
+*2024-10-13 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196194) · `ta`
+
+Nuwara Eliya district faces challenge commemorating UNP elephant symbol after Sri Lankan rejection. CWC removes party symbol, unable to compete independently.
+
+🟩
+
+Together with national parties, the CWC has removed the party's symbol from the people today. That is, the CWC is unable to compete on its own soil on its own soil. In the meantime, what challenging task is the people of the Nuwara Eliya district to commemorate the elephant symbol of the UNP, which the Sri Lankan people have rejected?
+
+◼️
+
+[Data](articles/257b9d42.json)
+
+[Extended Data](ext_articles/257b9d42.ext.json)
+
+---
+
+### Wimal Weerawansa's precedent
+
+*2024-10-13 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196200) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Wimal Weerawansa's political strategy: Tamil parties contest risky seats (Ampara, Trincomalee) rather than quit, setting precedent for national populist movements.
+
+🟩
+
+The Tamil parties are not ready to quit, despite the risk of losing the representation of the Tamils ​​as they are contesting in Ampara and Trincomalee in Ampara and Trincomalee.. But Wimal Weerawansa's party is a paradigm in politics that has been given to the national people's power
+
+◼️
+
+[Data](articles/85228d8c.json)
+
+[Extended Data](ext_articles/85228d8c.ext.json)
+
+---
+
+### Unexpected justice
+
+*2024-10-13 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196202) · `ta`
+
+"Government rejects Geneva resolution, opposing international accountability."
+
+🟩
+
+It is certain that the government will oppose international accountability efforts by rejecting the Geneva resolution. ”
+
+◼️
+
+[Data](articles/20dfe266.json)
+
+[Extended Data](ext_articles/20dfe266.ext.json)
+
+---
+
+### Tamil National Removal Politics
+
+*2024-10-13 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196203) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil National Party dissolved, transformed into LTTE without identities. Sumanthiran acted alone in this political maneuver.
+
+🟩
+
+The Tamil National Party has been removed and has been converted into a LTTE with no identities. Sumanthiran has done it as a single person
+
+◼️
+
+[Data](articles/d570a520.json)
+
+[Extended Data](ext_articles/d570a520.ext.json)
+
+---
+
+### Will the equal handle come up?
+
+*2024-10-13 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196205) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+India and US oppose China's research vessels in Sri Lanka. This move aims to counterbalance China's growing influence in the region. The decision reflects strategic concerns about maritime security and economic interests.
+
+🟩
+
+India and the United States do not want to carry out Chinese research ships to Sri Lanka
+
+◼️
+
+[Data](articles/14f66f0e.json)
+
+[Extended Data](ext_articles/14f66f0e.ext.json)
+
+---
+
+### Public Media Unit to arrest the searched suspect
+
+*2024-10-13 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/196195) · `ta`
+
+Police investigating murder on Reclameasan Road. Suspect sought. Public urged to report tips to specified phone numbers.
+
+🟩
+
+The police are conducting investigations to arrest the suspect in connection with the incident of the killing of a man with a sharp weapon on the Reclamesan Road, which belongs to the police division.
+
+The crime is about to wander around the area and engage in crime. C. D. Wheelets have been found by the police.
+
+Video, footage and photos have been sent to the media and the police have asked the public to contact the following telephone numbers if you find any information on this issue.
+
+◼️
+
+[Data](articles/f856cb4e.json)
+
+[Extended Data](ext_articles/f856cb4e.ext.json)
+
+---
+
+### The General Building is not present - we apologize to the people - Nilanthan announces!
+
+*2024-10-13 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196196) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Nilanthan apologizes for missing General Building. Urges voting for untainted currency and national workers. Resigned Tamil People's General Assembly cites inability to handle other elections. Demands not to use conch symbol in presidential election. Claims no connection between Sangu symbol, Tamil People's Council, and public structure. Apologizes for scattered campaign efforts and lack of public confidence.
+
+🟩
+
+Nilanthan said that the people should vote for the currency, those who are not tainted and the workers who work for the nationality.
+
+Yall. He said this during a media briefing held at the Media Center today (13).
+
+The Tamil People's General Assembly has resigned in the parliamentary election as it is unable to handle other elections.
+
+We have demanded not to use the conch symbol used in the presidential election. The parties may not have taken the symbol if they wanted. They have taken it.
+
+There is no connection between the Sangu symbol, the Tamil people's general council and the public structure.
+
+The Tamil People's Council is the Tamil People's Council. The elections can be confronted only after the General Assembly goes to the next.
+
+The Tamil People's General Assembly won the presidential election and won the country. It has recovered with the announcement of the parliamentary election in a few days.
+
+...
+
+[Data](articles/fe51693f.json)
+
+[Extended Data](ext_articles/fe51693f.ext.json)
+
+---
+
+### நாங்கள் வாக்கு கேட்பது மற்றவர்களை போல பலமான எதிர்கட்சியை அமைப்பதற்கு அல்ல பலமான அரசாங்கத்தை அமைப்பதற்கே -  இராதாகிருஷ்ணன்
+
+*2024-10-13 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196199) · `ta`
+
+இந்த தேர்தலில் அநேகமானவர்கள் பலமான எதிர்கட்சியை அமைப்பதற்காக வாக்கு கேட்கின்றார்கள் ஆனால் ஜக்கிய மக்கள் சக்தி வாக்கு கேட்பது பலமான ஒரு அரசாங்கத்தை அமைப்பதற்காகவும் சஜித் பிரேமதாசவை பிரதராக கொண்டு வருவதற்குமே அதனை நாங்கள் வெற்றி கொண்டே தீருவோம் என மலையக மக்கள் முன்னணியின் தலைவரும் நுவரெலியா மாவட்ட தமிழ் முற்போக்கு கூட்டணியின் வேட்பாளருமான வேலுசாமி இராதாகிருஷ்ணன் தெரிவித்துள்ளார்.
+
+தமிழ் முற்போக்கு கூட்டணியின் முதலாவது தேர்தல் பிரசார கூட்டம் இன்று (13) ஹட்டன் கோல்டன் மஹால் மண்டபத்தில் நடைபெற்றது.
+
+இந்த கூட்டத்தில் நுவரெலியா மாவட்டத்தில் ஜக்கிய மக்கள் சக்தி சார்பில் போட்டியிடுகின்ற தமிழ் முற்போக்கு கூட்டணியின் வேட்பாளர்களான வேலுசாமி இராதாகிருஸ்ணன் பழனி திகாம்பரம் மயில்வாகனம் உதயகுமார் உட்பட பொதுமக்களும் கலந்து கொண்டனர். இதற்கான ஏற்பாடுகளை மலையக மக்கள் முன்னணி ஏற்பாடு செய்திருந்தது.
+
+...
+
+[Data](articles/e6ab0029.json)
+
+---
+
+### கடும் மழை காரணமாக கட்டான பிரதேச செயலகத்தில் அவசர நிலை - பிரதேச செயலாளர்  சுமுது அத்துகோரள
+
+*2024-10-13 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196201) · `ta`
+
+நாடு முழுவதும் பெய்து வரும் அடை மழை காரணமாக கட்டானை ஊடாக பாயும் தடுகம் ஓயா பெருக்கெடுத்து ஓடுவதால் 4000 ற்கும் மேற்பட்டவர்கள்  பாதிக்கப்பட்டுள்ளதாக கட்டான பிரதேச செயலாளர்  சுமுது அத்துகோரள இன்று ஞாயிற்றுக்கிழமை (13) தெரிவித்தார்.
+
+சுமார் , 17 கிராம சேவையாளர்  பிரிவுகளில் 1385 குடும்பங்களைச் சேர்ந்த சுமார் 4800 பேர் பாதிக்கப்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+இதேவேளை , இந்த அனர்த்தம் காரணமாக கட்டுநாயக்க விமான நிலையத்திற்கு செல்லும் கட்டுநாயக்க – நிட்டம்புவ வீதி வெள்ளத்தில் மூழ்கியுள்ளதுடன், போக்குவரத்தும் தடைப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+நீர்கொழும்பில் இருந்து கிபுலபிடிய மற்றும் படபதுர கல்மங்கட புகையிரத ஊடாக கட்டுநாயக்க விமான நிலையத்திற்கு செல்லும் வீதியும் வெள்ள நிலைமை காரணமாக போக்குவரத்து நிறுத்தப்பட்டுள்ளது.
+
+மேலும் , கொடுகொட ரோமன் கத்தோலிக்க கல்லூரி, வெள்ளம் காரணமாக இடம்பெயர்ந்தவர்களின் முகாமாக பயன்படுத்தப்பட்டுள்ளதாகவும் கட்டான பிரதேச செயலாளர் தெரிவித்தார்.
+
+...
+
+[Data](articles/a149d2a0.json)
+
+---
+
+### மாதம்பையில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர்  பலி
+
+*2024-10-13 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196204) · `ta`
+
+மாதம்பை பொலிஸ் பிரிவிற்குட்பட்ட சுதுவெல்ல பிரதேசத்தில் உள்ள வீடொன்றில் ,ஒருவர் படுகொலை செய்யப்பட்டுள்ளதாக மாதம்பை பொலிஸ் நிலையத்திற்கு கிடைத்த தகவலின் அடிப்படையில் விசாரணைகள் இன்று ஞாயிற்றுக்கிழமை (13) ஆரம்பிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இறந்தவர் வீட்டின் அறையொன்றில் தரையில் உறங்கிக் கொண்டிருந்த போது கூரிய ஆயுதத்தால் தாக்கப்பட்டுள்ளதாக  தற்போதைய விசாரணையில் தெரியவந்துள்ளது.
+
+சந்தேக நபர்களை கைது செய்வதற்கான மேலதிக விசாரணைகளை மாதம்பை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/e67c60d4.json)
+
+---
+
+### நெருங்கும் உறவு
+
+*2024-10-13 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196188) · `ta`
+
+அநுரகுமார திசாநாயக்க ஜனாதிபதியாக பதவியேற்ற பின்னர் வெளிநாடு ஒன்றிடமிருந்து இருந்து, பாதுகாப்பு கொடை ஒன்றை அதிகாரபூர்வமாக பெற்றுக் கொள்வது இதுவே முதல் முறை.
+
+◼️
+
+[Data](articles/62aa7595.json)
 
 ---
 
@@ -102,6 +430,30 @@ Mahela Jayawardene won the Championship on three occasions as the Chief Coach.
 
 ---
 
+### ஆட்டமிழக்கப்போவது யார்?
+
+*2024-10-13 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196185) · `ta`
+
+ஜனாதிபதி தேர்தலில் சுமந்திரன் தொடங்கி வைத்த ஆட்டம்,  பாராளுமன்ற தேர்தல் முடிகின்ற போது, எத்தகைய திருப்பங்களையும் ஏற்படுத்தக் கூடும்.
+
+◼️
+
+[Data](articles/743e382f.json)
+
+---
+
+### நீரின்றி அமையாது உலகு
+
+*2024-10-13 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/196182) · `ta`
+
+உலகில் கடந்த வருடம் நிலவிய அதிகரித்த வெப்பநிலை காரணமாக கடந்த 50 வருடங்களில் காணாத அளவில் பனிமலைகள் வேகமாக உருகியுள்ளதாக அறிக்கைகள் கூறுகின்றன. இவ்வாறு பனிமலைகள் உருகியதால் கடந்த வருடத்தில் மாத்திரம் 600 கிகா தொன் நீர் வழிந்தோடியுள்ளது. ஐரோப்பா மற்றும் ஸ்கன்டிநேவியா பிராந்தியங்களில் இவ்வாறு வழிந்தோடிய நீரினால் ஆறுகளில் வெள்ளப்பெருக்கு உருவாகி அதனாலும் மனிதர்கள் பாதிக்கப்படும் நிலை உருவானது.
+
+◼️
+
+[Data](articles/542ee137.json)
+
+---
+
 ### 15 Chinese nationals arrested in Kotte over online scams
 
 *2024-10-13 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102656/15-chinese-nationals-arrested-in-kotte-over-online-scams) · `en`
@@ -119,6 +471,30 @@ On Saturday (12), a group of 129 Chinese nationals were arrested in the Kundasal
 [Data](articles/5a58f9fe.json)
 
 [Extended Data](ext_articles/5a58f9fe.ext.json)
+
+---
+
+### வேட்பாளர் பட்டியலும் அப்பச் சண்டையும்
+
+*2024-10-13 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/196180) · `ta`
+
+முஸ்லிம் காங்கிரஸைப் பொறுத்தமட்டில், வேட்பாளர் தெரிவில் பழையவர்கள், புதியவர்களுக்கு இடையிலேயே போட்டி நிலவியது. ஆனால் புதியவர்களை நம்பி பழையவர்களை கழற்றிவிடுவது ஆபத்தாக அமையுமோ என்ற எண்ணமும் மு.கா. தலைவர் ஹக்கீமுக்கு ஏற்பட்டிருக்கும். கடைசியாக ஒரிருவரை கழற்றி விட்டு, வேட்புமனு தயாரிக்கப்பட்டது. தேசிய காங்கிரஸ் தலைவர் அதாவுல்லா இந்தத் தேர்தலில் அவருக்குள்ள சவாலை அறிவார் என்றாலும் அதுகுறித்து பெரிதாக அலட்டிக் கொள்ளவில்லை என்றே தெரிகின்றது. தனித்து போட்டியிட்டாலும் சேர்ந்து போட்டியிட்டாலும் ஒரு ஆசனம் தான் சாத்தியமான இலக்காக இருக்க முடியும் என்ற அடிப்படையில் நோக்கினால் தீர்மானமொன்றை எடுப்பது அவருக்கு அவ்வளவு சிக்கலானதாக இருந்திருக்காது.
+
+◼️
+
+[Data](articles/9ee0a41f.json)
+
+---
+
+### தீர்வு எட்டாக்கனியா? : ‘ஓராண்டு கடந்தும் மத்திய கிழக்கில் தொடரும் நெருக்கடி’
+
+*2024-10-13 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196179) · `ta`
+
+ஒரு ஈரானிய - இஸ்ரேலிய யுத்தம் பல அரேபிய நாடுகளை இக்கட்டான நிலைக்கு தள்ளிவிடும். குறிப்பாக ஜோர்தான் கஷ்டப்படட நேரிடும். இத்தகைய சூழ்நிலையில், சகல முனைகளிலும் நெருக்கடி தீவிரம் பெறுவதைத் தடுப்பதற்குரிய உடன்படிக்கையொன்றை ஏற்படுத்துவதற்காக அமெரிக்காவுடன் சேர்ந்து பல அரேபிய நாடுகள் ஈரானுடன் பேச்சவார்ததை நடத்தி வருவதாக செய்திகள் வெளியாகி வருகின்றன.
+
+◼️
+
+[Data](articles/cb562c29.json)
 
 ---
 
@@ -1889,445 +2265,5 @@ Steps have been taken to telecast live a three-hour growth of the three-hour gro
 [Data](articles/d87855ce.json)
 
 [Extended Data](ext_articles/d87855ce.ext.json)
-
----
-
-### Heavy Israeli bombardment in northern Gaza as UN peacekeepers in Lebanon are hit again
-
-*2024-10-13 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102643/heavy-israeli-bombardment-in-northern-gaza-as-un-peacekeepers-in-lebanon-are-hit-again) · `en`
-
-Palestinians in northern Gaza described heavy Israeli bombardment Saturday in the hours after airstrikes killed at least 22 people, as Israel warned people there and in southern Lebanon to get out of the way of offensives against the Hamas and Hezbollah militant groups.
-
-In Lebanon, the U.N. peacekeeping force said its headquarters in Naqoura was hit again, with a peacekeeper struck by gunfire late Friday and in stable condition. It wasn’t clear who fired. It occurred a day after Israel’s military fired on the headquarters for a second straight day. Israel, which has warned peacekeepers to leave their positions, didn’t immediately respond to questions.
-
-Hunger warnings emerged again in northern Gaza as residents said they hadn’t received aid since the beginning of the month. The U.N. World Food Program said no food aid had entered the north since Oct. 1. An estimated 400,000 people remain there.
-
-...
-
-[Data](articles/7bbb4897.json)
-
-[Extended Data](ext_articles/7bbb4897.ext.json)
-
----
-
-### Sri Lanka gets Rs. Rs. 150th income
-
-*2024-10-13 08:40:40* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-චිත්‍රපටයෙන්-ලංකාවට-රු--මි--150ක-ආදායමක්/11-412456) · `si`
-
-Sri Lanka receives Rs. 150m funding for tourism projects. The funds will be used for lighting the Ella-Sri Lanka railway bridge and promoting local artists like Kaushiki Last and Tanja Star. Upcountry train services operate between 7am and 5:30pm daily. This initiative aims to boost tourism and showcase Sri Lanka's beauty.
-
-🟩
-
-Ella-Sri Lanka Easquadadda RC Lights (150) of Rs.
-
-Mirai (MIRAI), the attackers and songs of the painties included in the Turkey of Turkey have been chosen on the bridge of the Turkey in Sri Lanka because it is beautiful and beautiful.
-
-The Galle, Mirai, Kananda, Bangali, Malaysu, Bangawanu, is the director of the world and is the director.Kaushiki Last, Tanja Star, Tanja Star, Saram Reddy, ache have been acting.
-
-Upcountry train operations have been operated from 7am to 15th to 15th to 15th and 5.30 pm to Ella-Badulla -Bandarawela roads.Deputy General Orphanage, Department of Departure (05) said he said.
-
-After the production of this painting, the world will attract tourist attractions in Sri Lanka and over the bridge of the Demodara Arch Bridge.
-
-◼️
-
-[Data](articles/b983d04b.json)
-
-[Extended Data](ext_articles/b983d04b.ext.json)
-
----
-
-### Immediate Relief: Presidential Workplace
-
-*2024-10-13 08:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடனடி-நிவாரணம்-ஜனாதிபதி-பணிப்புரை/175-345346) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Presidential relief efforts underway for flood/landslide victims. 50m rupees allocated. 24k affected. 23 relief centers operating. Emergency hotline: 117, 0112136222, 0112670002.
-
-🟩
-
-President Anura Kumara Dissanayake has directed the officials to provide immediate relief to the people affected by the inclement weather in the country.
-
-In addition, President Anura Kumara Dissanayake has informed the Secretary of the Ministry of Defense to provide special care on the safety of the people in the districts affected by the floods and landslides due to inclement weather.
-
-The President said that the government is working to provide relief to all the people affected by the emergency situation and that the people can get the relief in the future by contacting the state officials of the respective provinces.. Until then, the president also asked for people to be careful.
-
-...
-
-[Data](articles/9badecc9.json)
-
-[Extended Data](ext_articles/9badecc9.ext.json)
-
----
-
-### Sri Lanka central bank buys US$108mn from banks in Sept, reserves US$5.9bn
-
-*2024-10-13 08:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-buys-us108mn-from-banks-in-sept-reserves-us5-9bn-183319/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross official reserves rose by 38 million US dollars to 5,992 million US dollars in September 2024 from a month earlier, with the central bank a net buyer in interbank foreign exchange markets.
-
-The central bank bought 108.5 million US dollars and sold 12.5 million dollars to manage its soft-peg.
-
-The central bank is broadly running deflationary policy since around September 2022, killing liquidity from dollar purchases by selling its domestic assets to the banking system (or getting coupon interest on bonds), triggering balance of payments surpluses.
-
-Gross official reserves are made up of central bank’s monetary reserves (collected with deflationary policy or sterilizing dollar purchases) and fiscal reserves of the Treasury built temporarily with foreign borrowings.
-
-Sri Lanka has built reserves with deflationary policy, and has repaid debt on a net basis.
-
-...
-
-[Data](articles/58fe9031.json)
-
-[Extended Data](ext_articles/58fe9031.ext.json)
-
----
-
-### Thundershowers still
-
-*2024-10-13 08:31:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-இடியுடன்-கூடிய-மழை/175-345345) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"Rainfall/thunderstorms possible in Western & Sabaragamuwa provinces, Galle & Matara districts."
-
-🟩
-
-The Department of Meteorology said that in many parts of the country, there is a possibility of rainfall or thunderstorms.
-
-Thundershowers are likely to occur in the Western and Sabaragamuwa Provinces and Galle and Matara districts, the department said.
-
-◼️
-
-[Data](articles/b8ad77bc.json)
-
-[Extended Data](ext_articles/b8ad77bc.ext.json)
-
----
-
-### Showers expected in parts of the country
-
-*2024-10-13 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102642/showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, North-western, Central and Northern provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur at several places elsewhere during the evening or night.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/783f64d5.json)
-
-[Extended Data](ext_articles/783f64d5.ext.json)
-
----
-
-### Three killed in train accident
-
-*2024-10-13 07:55:27* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියේ-ගැටී-පුද්ගලයන්-තිදෙනෙක්-ජීවිතක්ෂයට/11-412455) · `si`
-
-Train accident kills three: Two men and one child struck on pavement near Katukurunda Station. Incident occurred last night. Victims identified as 21-year-old man, 47-year-old man, and child whose father is 21 years old.
-
-🟩
-
-Two males and a small kid killed in a pavement from the Katukurunda Station in Kalutara South police Division, police said.
-
-The accident had occurred last night.The two men were killed in the accident and hospitalized.
-
-Deathters are residents of Kalutara, 21 and 47 years old. The father of the child who died among the deceased is a 21 year old person.
-
-◼️
-
-[Data](articles/771999f1.json)
-
-[Extended Data](ext_articles/771999f1.ext.json)
-
----
-
-### A person who has been shot dead
-
-*2024-10-13 07:29:07* · [`adalk`](https://www.ada.lk/breaking_news/සැඩ-පහරට-ගසාගෙන-ගිය-පුද්ගලයකු-මිය-යයි/11-412454) · `si`
-
-Welikada Wasantha Kumara, 48, shot dead on Haltota Bodhi road. Local residents rushed him to hospital. Post-mortem at Horana Base Hospital. Investigations ongoing under Millaniya Police OIC.
-
-🟩
-
-The Millennium Police say that a person has been killed in a few sides of Haltota Bodhi road on Rigama main road.
-
-The deceased has been identified as Welikada Wasantha Kumara, a 48 year old resident of Haltota, Haltota.
-
-The locals had taken immediate action and taken to the Government Hospital in the Haltota from a tractor when he was drowning through the path of the deceased.
-
-Post mortem will be conducted at the Horana Base Hospital. Investigations are conducting investigations on the instructions of the OIC of Millaniya Police.
-
-◼️
-
-[Data](articles/dff70b23.json)
-
-[Extended Data](ext_articles/dff70b23.ext.json)
-
----
-
-### A large number of people suffer from inclement weather
-
-*2024-10-13 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202107) · `si`
-
-Inclement weather affects 18,795 individuals, mostly in Gampaha district. Floods, strong winds, and fallen trees caused damage. Two deaths and injuries reported. Water levels decreasing in major rivers. Landslide warnings issued for 47 Divisional Secretariat divisions.
-
-🟩
-
-Due to the prevailing bad weather conditions, 18,795 persons belonging to 18,795 families have been affected by the inclement weather.
-
-The Disaster Management Center stated that the situation was created due to floods, heavy winds and trees.
-
-The highest impact on Gampaha district, 68,672 persons belonging to 16,707 families have been affected.
-
-Two persons were killed and two others were injured and two others were injured in disasters.
-
-The water levels in the Attanagalu Oya and Kelani, Ganga, Nilwala and Black are on the decrease due to lack of significant rainfall during the past 24 hours.
-
-Water Science and Disaster Management Division of the Irrigation Engineer of the Irrigation Department of Irrigation. Mrs. Sakura Diltota.
-
-...
-
-[Data](articles/3e0d0a20.json)
-
-[Extended Data](ext_articles/3e0d0a20.ext.json)
-
----
-
-### Time to issue expenses to be given the expenditure reports of presidential election campaign
-
-*2024-10-13 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202106) · `si`
-
-Presidential election campaign expense reports deadline: Candidates must submit reports within 21 days after election. Election Commission expects all candidates to receive spending details today.
-
-🟩
-
-Candidates who contested for the presidential election this year are due to end today.
-
-The Election Commission said that this will be over 3 pm today (13).
-
-According to the Elections Registration Act, cost reports should be provided within 21 days of the end of the presidential election.
-
-However, the Election Commission states that the 38 candidates who had been served to the previous presidential election have been submitted to this recent number of candidates.
-
-The Elections Commission said that other candidates will be given their spending reports today.
-
-The Elections Commission said that the Elections Registration Act is under the Regulatory Act.
-
-◼️
-
-[Data](articles/7b449e8a.json)
-
-[Extended Data](ext_articles/7b449e8a.ext.json)
-
----
-
-### The Canada Ambassador met the fisheries organizations
-
-*2024-10-13 06:23:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்றொழில்-அமைப்புக்களை-சந்தித்தார்-கனடா-தூதர்/175-345344) · `ta`
-
-Canada Ambassador Eric Walsh met with Sri Lankan fisheries groups and women's network at St. Francis Savior Community Center Hall in Punguduthivu. Meeting focused on marine issues and sustainable fishing practices.
-
-🟩
-
-Canadian Ambassador to Sri Lanka, Eric Walsh, met with representatives of the Fisheries Organizations and the Island Women's Network yesterday.
-
-Yall. The meeting was held at St. Francis Savior Community Center Hall, Punguduthivu.
-
-Media Spokesperson of the Northern Province Fisheries Internet Annalingam Annarasa. (A)
-
-◼️
-
-[Data](articles/108691b5.json)
-
-[Extended Data](ext_articles/108691b5.ext.json)
-
----
-
-### Showers in many areas today
-
-*2024-10-13 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202105) · `si`
-
-Showers expected in Western, Sabaragamuwa, Central, North, Galle, and Matara districts today. Thunderstorms possible in the evening or night. Heavy rain forecasted in Eastern Province. Public advised to be cautious due to strong winds and lightning.
-
-🟩
-
-බස්නාහිර, සබරගමුව, වයඹ, මධ්‍යම සහ උතුරු පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (13) දිනයේ විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-The department states that showers or night thundershowers will occur at the evening or night in the rest of the island.
-
-The Department of Meteorology announces that the sky walakulas in the Eastern Province is heavy.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/e12f2a85.json)
-
-[Extended Data](ext_articles/e12f2a85.ext.json)
-
----
-
-### Theft of police officer's house
-
-*2024-10-13 01:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தர்-வீட்டில்-திருட்டு/175-345343) · `ta`
-
-Police officer's home burgled in Nawali, Jaffna. Thieves stole jewelry worth 6.5 pounds and 29,000 rupees. Case filed at Manipay police station. Investigation ongoing.
-
-🟩
-
-Jewelry and a sum of money have been stolen at the house of a police officer in Nawali, Jaffna, police said.
-
-The thieves who logged in through the bathroom of the house have stolen six and a half pound jewelery and 29 thousand rupees.
-
-A complaint has been lodged at the Manipay police station and the police are investigating the incident.. (A)
-
-◼️
-
-[Data](articles/ac4d03b3.json)
-
-[Extended Data](ext_articles/ac4d03b3.ext.json)
-
----
-
-### Selling, Global Connections & Travelling
-
-*2024-10-13 01:03:00* · [`islandlk`](http://island.lk/selling-global-connections-travelling/) · `en`
-
-In the early 1990s, as the General Manager of Mount Lavinia Hotel (MLH) and its Catering Company, which handled all event catering at Sri Lanka’s national convention centre, the BMICH, I found myself deeply immersed in sales and promotion. I worked closely the sales team to drive the hotel’s success. Together, we developed strategies to boost room sales, group bookings, and special events, ensuring that MLH remained a top destination in the country.
-
-The hotel industry is all about creating unique experiences, and I made it my mission to promote MLH’s food festivals, stage productions, and other special events. I took the lead in media briefings and public relations campaigns, forming close working relationships with advertising agents to get the message out. My efforts extended to reimagining the iconic “Little Hut” nightclub, which quickly became the most popular night club in Sri Lanka during the early ’90s.
-
-...
-
-[Data](articles/38034685.json)
-
-[Extended Data](ext_articles/38034685.ext.json)
-
----
-
-### 22,064 people are affected by floods
-
-*2024-10-13 00:42:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்தால்-22-064-பேர்-பாதிப்பு/175-345342) · `ta`
-
-Heavy rains and floods affect 22,064 people. Water levels rise in Kelaniya Ganges areas. Temporary flood dams constructed overnight. Lowland residents advised caution.
-
-🟩
-
-22,064 people have been affected by heavy rains and floods, the Risk Management Center said.
-
-களனி கங்கை கொழும்பு நாகலகம்வீதி, ஹங்வெல்ல மற்றும் க்ளன்கோஸ் பகுதிகளில் சிறிய அளவிலான வௌ்ள மட்டத்தை அண்மித்துள்ளதுடன் கிங் கங்கை பத்தேகம பகுதியில் சிறிய அளவிலான வௌ்ள மட்டத்தை அண்மித்துள்ளதாக நீர்ப்பாசன திணைக்களம் தெரிவித்துள்ளது.
-
-The Department of Irrigation has advised the people living in the lowlands and be cautious.
-
-Due to the rise of water levels, the Risk Management Center said that with the help of the armed forces in many parts of the Kelaniya Ganges, the arrangements were made to construct temporary flood dams last night.. (A)
-
-◼️
-
-[Data](articles/ce3ab551.json)
-
-[Extended Data](ext_articles/ce3ab551.ext.json)
-
----
-
-### 2024-10-12 (Saturday)
-
-### The Residencies in Kotte: ICC achieves key milestone ahead of schedule
-
-*2024-10-12 23:57:00* · [`islandlk`](http://island.lk/the-residencies-in-kotte-icc-achieves-key-milestone-ahead-of-schedule/) · `en`
-
-The Residencies in Kotte, developed by ICC, is on track for completion by the end of 2025, reflecting ICC’s commitment to its Construction Master Schedule, said a press release.
-
-It said that the recent topping of the second tower marks a significant milestone, with both towers reaching structural completion ahead of schedule. This rapid progress highlights ICC’s expertise in delivering large-scale projects while maintaining quality, reassuring apartment owners of their investment. The development features 234 apartment units in a lush landscape and has already sold out all two-bedroom apartments, indicating strong demand. As the project moves towards completion, it promises to redefine luxury living in the city with modern design and convenience.
-
-Ceylinco Life delegation completes 7-day training in Agency Management in Malaysia
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/1e676d8e.json)
-
-[Extended Data](ext_articles/1e676d8e.ext.json)
-
----
-
-### Sarath Fonseka's decision on the election
-
-*2024-10-12 23:16:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-குறித்து-சரத்-பொன்சேகா-எடுத்துள்ள-தீர்மானம்/175-345341) · `ta`
-
-Field Marshal Sarath Fonseka decides not to contest general election due to failed negotiations.
-
-🟩
-
-Former parliamentarian Field Marshal Sarath Fonseka has said that he has decided not to contest the general election this year.
-
-He noted that he made the decision due to the failure of negotiations to contest with a compass and a gas cylinder this year in the general election.. Remble
-
-◼️
-
-[Data](articles/186e46fb.json)
-
-[Extended Data](ext_articles/186e46fb.ext.json)
-
----
-
-### Possession is Nine-Tenths of the Law – Land Disputes in the Mahaweli
-
-*2024-10-12 23:12:00* · [`islandlk`](http://island.lk/possession-is-nine-tenths-of-the-law-land-disputes-in-the-mahaweli/) · `en`
-
-I joined Development Alternatives Inc. (DAI), a US development agency, in 1988 after serving the Sri Lankan government for 15 years. I left the government service because of political and bureaucratic meddling in research administration. The DAI recruited me as the resident water-user organisation specialist of the Mahaweli Agricultural Rural Development (MARD) Project, funded by USAID, in the Mahaweli System B Region.
-
-The DAI was a good employer, and it gave me a well-furnished bungalow at Aralagawila (four miles from Dimbulagala) and a brand-new Pajero Jeep. I was happy to be away from Colombo after the difficult times with politicians and bureaucrats. Also, I was excited to move from doing research to project planning and implementation.
-
-...
-
-[Data](articles/b4857543.json)
-
-[Extended Data](ext_articles/b4857543.ext.json)
-
----
-
-### Three persons, including a child, were killed in a train collision
-
-*2024-10-12 23:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மோதியதில்-குழந்தை-உட்பட-மூவர்-பலி/175-345340) · `ta`
-
-Train collision kills 3, injures child near Matara-Colombo route. Two died instantly, one child hospitalized. Incident occurred on 12th day.
-
-🟩
-
-Three people were killed when a train traveling from Matara to Colombo today (12), police said.
-
-Two people died on the spot and a three -year -old child was injured and admitted to the Kalutara Teaching Hospital.
-
-The three deceased are said to be from Kalutara South Rajavatta area. Remble
-
-◼️
-
-[Data](articles/0262d947.json)
-
-[Extended Data](ext_articles/0262d947.ext.json)
-
----
-
-### I OPPOSE THE PRIME MINISTER, THE MINISTER OF PLANNING AND THE MINISTER OF AGRICULTURE
-
-*2024-10-12 23:08:00* · [`islandlk`](http://island.lk/i-oppose-the-prime-minister-the-minister-of-planning-and-the-minister-of-agriculture/) · `en`
-
-(Excerpted from Falling leaves, an autobiographical memoir of LC Arulpragasam)
-
-I had no place to go, because I was wedded to the agriculture sector – by my own choosing. Therefore, I was lucky to find a berth as Head of the Agriculture Sector in the Department of National Planning. But I had to pay a career-price for doing this, because it involved my working under a non-civil servant and under someone whom I outranked in the Civil List – which was simply not done in those days.
-
-...
-
-[Data](articles/16900968.json)
-
-[Extended Data](ext_articles/16900968.ext.json)
 
 ---

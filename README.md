@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 00:57:12**
+As of **2024-10-14 01:08:52**
 
 ## Newspaper Stats
 
-*Scraped **49,310** Articles*
+*Scraped **49,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 491
 bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,023
-dailyftlk | 3,339
+dailyftlk | 3,343
 adalk | 4,576
 dailymirrorlk | 4,733
 adaderanalk | 5,825
@@ -26,11 +26,85 @@ adaderanasinhalalk | 8,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,310 (100.0%) of 49,310 articles have been extended.
+49,310 (100.0%) of 49,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Magistrate’s Court dismisses case against Asia Capital; upholds company’s, directors’ and employees’ integrity
+
+*2024-10-14 00:48:09* · [`dailyftlk`](https://www.ft.lk/business/Magistrate-s-Court-dismisses-case-against-Asia-Capital-upholds-company-s-directors-and-employees-integrity/34-767932) · `en`
+
+We are pleased to announce that the criminal case brought against Asia Capital PLC and some former employees by a Japanese investor, CC Trust Pte Ltd., has been summarily dismissed by the Magistrate’s Court on 2 October 2024. This authoritative ruling confirms what we have maintained from the outset: that the allegations were unfounded, misleading and without merit in fact or law. The expert legal team consisted of Attorney Uchitha Wickremesinghe, Thilak Maparapana PC and Naveen Marapana PC.
+
+Filing a criminal case in what is clearly a commercial transaction reflects malicious intent by the complainant. This positive ruling in our favour underscores not only our innocence but also the harmful nature of the claims that have been made against us.
+
+We wish to express our deep concern regarding the reputational damage caused by these unfounded accusations and the significant loss and distress this matter has caused to our company, our employees, and our stakeholders.
+
+...
+
+[Data](articles/3438073f.json)
+
+---
+
+### Top corporates onboard to power CA Sri Lanka’s 45th National Conference
+
+*2024-10-14 00:47:12* · [`dailyftlk`](https://www.ft.lk/business/Top-corporates-onboard-to-power-CA-Sri-Lanka-s-45th-National-Conference/34-767931) · `en`
+
+Some of Sri Lanka’s well-known corporates, including leading conglomerates, have come on board to sponsor the 45th National Conference of Chartered Accountants of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), which will be ceremoniously inaugurated today (14) at the Monarch Imperial, Sri Jayawardenepura, Kotte.
+
+Indian High Commissioner Santosh Jha is the Chief Guest and will deliver the keynote speech at the inauguration ceremony.
+
+The three-day event which will conclude on 16 October, will deliberate and delve on the timely and relevant theme “Marching Beyond Margins”, and is aimed at helping Sri Lanka embrace future-forward transformation on its journey to rebuild the country and its economy.
+
+Hayleys PLC, John Keells Group and Sanasa Life will power this year’s national conference as platinum sponsors.
+
+...
+
+[Data](articles/49c2bf91.json)
+
+---
+
+### President calls on NPP for unified effort to secure political power in Nov. election
+
+*2024-10-14 00:43:48* · [`dailyftlk`](https://www.ft.lk/news/President-calls-on-NPP-for-unified-effort-to-secure-political-power-in-Nov-election/56-767930) · `en`
+
+Stresses importance of acquiring strong political power to implement transformative policies and ideologies championed by NPP
+
+Says three-member Cabinet, including the President, is by no means sufficient to make their program reality
+
+Emphasises that true political power goes beyond mere numbers in Parliament and stresses importance of quantity and quality in political representation
+
+Urges NPP candidates to commit to task of restoring trust in Parliament by providing both strong representation and integrity
+
+President Anura Kumara Dissanayake yesterday stressed the critical importance of acquiring strong political power and leadership to implement the transformative policies and ideologies championed by the National People’s Party (NPP).
+
+Making his first political speech since taking office, Dissanayake addressed the NPP’s Parliamentary election candidates at an event held yesterday at the Grand Monarch, Thalawathugoda.
+
+...
+
+[Data](articles/b22e1319.json)
+
+---
+
+### IGP introduces transparent selection process for police foreign training programs
+
+*2024-10-14 00:40:33* · [`dailyftlk`](https://www.ft.lk/news/IGP-introduces-transparent-selection-process-for-police-foreign-training-programs/56-767929) · `en`
+
+For the first time in recent history, the newly appointed Acting Inspector General of Police (IGP) Priyantha Weerasooriya has announced a transparent selection process for Sri Lanka Police officers applying for foreign training courses and workshops.
+
+In an official communique last week, Weerasooriya called for applications from police officers for foreign training programs to be held soon.
+
+Moving away from the traditional method where officers were handpicked by the IGP or nominated by senior officers, Weerasooriya has introduced a mandatory interview process to select officers based on merit and qualifications.
+
+The previous system had long been criticised for favouring officers close to the police top brass, sidelining others who might have been more deserving. Officers have often complained about the lack of clear criteria in the selection process, which undermined fairness and opportunities for growth within the force.
+
+...
+
+[Data](articles/62021149.json)
+
+---
 
 ### People’s Struggle Alliance submits national list featuring activists from 2022 Aragalaya movement
 
@@ -2209,99 +2283,5 @@ Disgusted by her husband, Sentho Devi, who was dissatisfied with the lack of sar
 [Data](articles/cd840acf.json)
 
 [Extended Data](ext_articles/cd840acf.ext.json)
-
----
-
-### Vehicle recovery from Sada's brother's house
-
-*2024-10-13 12:14:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சதாவின்-சகோதரர்-வீட்டில்-இருந்து-வாகனம்-மீட்பு/76-345354) · `ta`
-
-Vehicle recovered from Sada's brother's house. Brother, ex-Nuwara Eliya MP, found. Police claim illegal hiding. Public urged to report. Vehicle at Nuwara Eliya Police Station.
-
-🟩
-
-Subbaiah Sadasivam's brother, General Secretary of the Ceylon Workers United Front and former Nuwara Eliya district parliamentarian, has been recovered on Saturday evening.
-
-The public has been asked to report on the matter if the government has been fraudulently or illegally hidden in any place.
-
-According to the police said that the vehicle was recovered and the vehicle was kept at the Nuwara Eliya Police Station as the Nuwara Eliya police were illegally hidden.
-
-◼️
-
-[Data](articles/d3f55c76.json)
-
-[Extended Data](ext_articles/d3f55c76.ext.json)
-
----
-
-### Police seized a jew rap in MP's cousin
-
-*2024-10-13 12:08:45* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රිගේ-ඥාති-නිවසක-ගාල්කර-තිබූ-ජිප්-රියක්-පොලිස්-භාරයට/11-412460) · `si`
-
-Nuwara Eliya Police seize suspicious petroleum jeep from former MP's cousin. Documents to be submitted to police station 13.
-
-🟩
-
-The Nuwara Eliya Police have seized a suspicious petroleum jeep that was parked in front of a house in Nuwara Eliya.
-
-The Nuwara Eliya Police stated that the jeep was held at a relative of a former member of the former MP and the Central Provincial Council.
-
-A senior official of the Nuwara Eliya police stated that all the documents related to the jeep will be submitted to the police (13) to the police.
-
-◼️
-
-[Data](articles/d268db49.json)
-
-[Extended Data](ext_articles/d268db49.ext.json)
-
----
-
-### Domestic mechanism for accountability - resurrection Sunday attack - new committees to investigate financial crimes
-
-*2024-10-13 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196153) · `ta`
-
-Government forms 3 committees: 1) Investigate financial crimes related to "lifeblood Sunday" attacks, 2) Recover stolen tax money, 3) Probe "resurrection Sunday" attack. Domestic mechanism aims for accountability and justice for victims.
-
-🟩
-
-The government will appoint three high -level committees to investigate financial crimes of the lifeblood Sunday attacks.
-
-According to government sources, the government will appoint these groups based on the presidential election promises, such as disciplinary regime corruption.
-
-The sources said that we have a talented person who can find a solution to the issue of accountability, which will be solved by domestic mechanism.
-
-We are aware of the tragedies of the affected people and that we will provide justice to them, said government sources.
-
-They have also stated that investigators have accelerated the measures to know the number of cases of accountability that has not yet been resolved.
-
-Meanwhile, government sources said that a group would make recommendations to recover the tax money of the lost public about corrupt stolen assets.
-
-...
-
-[Data](articles/bfd9ab34.json)
-
-[Extended Data](ext_articles/bfd9ab34.ext.json)
-
----
-
-### Hostel guard arrested for torture of boys with special needs
-
-*2024-10-13 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196147) · `ta`
-
-Hostel guard arrested for torturing boys with special needs in Anuradhapura. Police acted on parent complaints about guardian being assaulted by children aged 10-15.
-
-🟩
-
-Anuradhapura police said that the guardian who was allegedly tortured by the boys living in a special needy school in Anuradhapura was arrested on Saturday (12).
-
-She has been arrested by a group of police officers Anuradhapura police officers according to the complaint received by the Women and Children Bureau.
-
-The Anuradhapura Headquarters Police Inspector Jayaweera said that he was arrested on the basis of complaints received from their parents that the guardian was attacked by the stick of seven children from the age of 10 to 15 years.
-
-◼️
-
-[Data](articles/2fc10605.json)
-
-[Extended Data](ext_articles/2fc10605.ext.json)
 
 ---

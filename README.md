@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 16:10:48**
+As of **2024-10-13 16:23:26**
 
 ## Newspaper Stats
 
-*Scraped **49,233** Articles*
+*Scraped **49,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,021
 dailyftlk | 3,334
-adalk | 4,569
+adalk | 4,570
 dailymirrorlk | 4,733
 adaderanalk | 5,818
 tamilmirrorlk | 6,715
-virakesarilk | 7,865
+virakesarilk | 7,867
 adaderanasinhalalk | 8,518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,233 (100.0%) of 49,233 articles have been extended.
+49,236 (100.0%) of 49,236 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -137,6 +137,28 @@ Police have requested the public to contact the following telephone numbers if t
 [Data](articles/95b0bc71.json)
 
 [Extended Data](ext_articles/95b0bc71.ext.json)
+
+---
+
+### Lorry - motorcycle collided face -to -face
+
+*2024-10-13 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196162) · `ta`
+
+Motorcycle crash kills one near bridge. Lorry hits bike head-on on Jaffna-Pedro road. Driver dies in hospital.
+
+🟩
+
+One person was killed when a lorry collided head -on a motorcycle near the Vallai Bridge, which belongs to the Nelliyadi police division.
+
+Police said that a small lorry from Jaffna to Point Pedro on the Jaffna -Point Pedro road crashed into a motorcycle.
+
+The driver of the motorcycle driver, who was injured in the accident, died after being admitted to the hospital, police said.
+
+◼️
+
+[Data](articles/d41df0fe.json)
+
+[Extended Data](ext_articles/d41df0fe.ext.json)
 
 ---
 
@@ -284,6 +306,26 @@ The Ministry of Education stated that the authorities are advised to discuss wit
 
 ---
 
+### Sand pillows tree to protect parliament
+
+*2024-10-13 13:55:45* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-ආරක්ෂා-කර-ගැනීමට-වැලි-කොට්ට-ගසයි/11-412462) · `si`
+
+Diyawanna Oya used as sandbags to protect Parliament entrance during heavy rain. Action taken by Parliament, MP, and Packaging Development Board.
+
+🟩
+
+With the prevailing inclement weather, the Diyawanna Oya is carried out to cover the entry gates to prevent water from the Parliamentary Complex.
+
+The Parliamentary Administration has taken action by the Parliament, Parliamentarian and Lowbrim and Packaging Development Board.
+
+◼️
+
+[Data](articles/6dd89957.json)
+
+[Extended Data](ext_articles/6dd89957.ext.json)
+
+---
+
 ### Uncle killed in uncle's mill trees
 
 *2024-10-13 13:48:42* · [`adalk`](https://www.ada.lk/breaking_news/මාමාගේ-මෝල්-ගස්-පහරින්-බැනා-මරුට/11-412461) · `si`
@@ -331,6 +373,24 @@ He is a drug addict and his wife is a mental disorder, police said.
 [Data](articles/0587976e.json)
 
 [Extended Data](ext_articles/0587976e.ext.json)
+
+---
+
+### US expectations in the left -wing regime of Sri Lanka
+
+*2024-10-13 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196155) · `ta`
+
+US-Sri Lanka ties raise concerns about India-China rivalry. Left-wing government faces challenges implementing 13th Amendment, fueling Tamil community skepticism.
+
+🟩
+
+“In the view of the strategic competition with China, if the US creates security cooperation with Sri Lanka, it may create fears that the Indian Ocean will be transformed into a battlefield for a major power.. The regime of Anuragumara Dissanayake expresses uncertainty in implementing the 13th Amendment to the Share of Power in the North and East of the post -war North and East.. Such manifestations increase the doubts of the Tamil people
+
+◼️
+
+[Data](articles/ad04a42e.json)
+
+[Extended Data](ext_articles/ad04a42e.ext.json)
 
 ---
 
@@ -2325,69 +2385,5 @@ Meanwhile, the driver of the Patta motorist was arrested by the driver of the th
 [Data](articles/82ff8c7c.json)
 
 [Extended Data](ext_articles/82ff8c7c.ext.json)
-
----
-
-### Boeing to lay off 17,000 staff to recoup finances during ongoing strike
-
-*2024-10-12 17:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102637/boeing-to-lay-off-17000-staff-to-recoup-finances-during-ongoing-strike) · `en`
-
-Boeing plans to lay off about 10% of its workers in the coming months, about 17,000 people, as it continues to lose money and tries to deal with a strike that is crippling production of the company’s best-selling airline planes.
-
-New CEO Kelly Ortberg told staff in a memo Friday that the job cuts will include executives, managers and employees.
-
-The company has about 170,000 employees worldwide, many of them working in manufacturing facilities in the states of Washington and South Carolina.
-
-Boeing had already imposed rolling temporary furloughs, but Ortberg said those will be suspended because of the impending layoffs.
-
-The company will further delay the rollout of a new plane, the 777X, to 2026 instead of 2025. It will also stop building the cargo version of its 767 jet in 2027 after finishing current orders.
-
-Boeing has lost more than $25 billion since the start of 2019.
-
-...
-
-[Data](articles/84732103.json)
-
-[Extended Data](ext_articles/84732103.ext.json)
-
----
-
-### Sri Lanka target 116 runs
-
-*2024-10-12 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202091) · `si`
-
-Sri Lanka targets 116 vs NZ women's team in World Cup final. SL batted first, scoring 115/5 in 20 overs. NZ wins by 1 run.
-
-🟩
-
-The match between Sri Lanka and the New Zealand women's team will play the women's World Cup.
-
-Sri Lanka women's group decided to bat first, winning the coin.
-
-Accordingly, the Sri Lanka women's group scored 115 runs for the loss of 5 wickets in the end of 20 overs.
-
-The New Zealand Women's Team won 116 runs.
-
-This is the final of the tournament in the first round of the tournament.
-
-◼️
-
-[Data](articles/d337ae92.json)
-
-[Extended Data](ext_articles/d337ae92.ext.json)
-
----
-
-### Understanding Russia’s Perspective: My Talk with Ambassador Levan S. Dzhagaryan
-
-*2024-10-12 17:03:00* · [`islandlk`](http://island.lk/understanding-russias-perspective-my-talk-with-ambassador-levan-s-dzhagaryan/) · `en`
-
-In this engaging and thought-provoking interview with Levan S. Dzhagaryan, the Russian Ambassador to Sri Lanka and the Republic of Maldives, the seasoned diplomat shared his country’s perspectives on recent political developments in Sri Lanka and the intricate geopolitical dynamics surrounding the situation in Ukraine. With a diplomatic career spanning decades, Dzhagaryan’s insights reveal the nuanced layers of Russia’s foreign policy and its implications for global relations.
-
-...
-
-[Data](articles/a4fef8e9.json)
-
-[Extended Data](ext_articles/a4fef8e9.ext.json)
 
 ---

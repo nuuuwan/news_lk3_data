@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 06:44:57**
+As of **2024-10-13 07:27:49**
 
 ## Newspaper Stats
 
-*Scraped **49,175** Articles*
+*Scraped **49,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,809
 tamilmirrorlk | 6,698
 virakesarilk | 7,858
-adaderanasinhalalk | 8,504
+adaderanasinhalalk | 8,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,167 (100.0%) of 49,175 articles have been extended.
+49,170 (100.0%) of 49,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Showers in many areas today
+
+*2024-10-13 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202105) · `si`
+
+Showers expected in Western, Sabaragamuwa, Central, North, Galle, and Matara districts today. Thunderstorms possible in the evening or night. Heavy rain forecasted in Eastern Province. Public advised to be cautious due to strong winds and lightning.
+
+🟩
+
+බස්නාහිර, සබරගමුව, වයඹ, මධ්‍යම සහ උතුරු පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (13) දිනයේ විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+The department states that showers or night thundershowers will occur at the evening or night in the rest of the island.
+
+The Department of Meteorology announces that the sky walakulas in the Eastern Province is heavy.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/e12f2a85.json)
+
+[Extended Data](ext_articles/e12f2a85.ext.json)
+
+---
 
 ### Selling, Global Connections & Travelling
 
@@ -218,6 +242,8 @@ The ‘in crowd’ today, throw around brand names for every garment they wear, 
 
 [Data](articles/636ec6f0.json)
 
+[Extended Data](ext_articles/636ec6f0.ext.json)
+
 ---
 
 ### We deserve a bright future
@@ -231,6 +257,8 @@ AKD did not win in any of the Tamils dominated districts. There are many comment
 ...
 
 [Data](articles/a88f0efa.json)
+
+[Extended Data](ext_articles/a88f0efa.ext.json)
 
 ---
 
@@ -2353,23 +2381,5 @@ Samanarha Power has been committed to expand the development process and the US 
 [Data](articles/f6bb5037.json)
 
 [Extended Data](ext_articles/f6bb5037.ext.json)
-
----
-
-### Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers in separate strikes
-
-*2024-10-12 08:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102628/israeli-forces-kill-2-lebanese-soldiers-and-injure-2-un-peacekeepers-in-separate-strikes) · `en`
-
-An Israeli airstrike killed two Lebanese soldiers and wounded three on Friday, Lebanon’s military said, just hours after the Israeli military fired on the headquarters of U.N. peacekeepers in southern Lebanon, injuring two of them for the second day in a row.
-
-The incidents entangling both Lebanon’s official army which has largely stayed on the sidelines of the conflict between Israel and Iran-backed Hezbollah and the U.N. peacekeeping mission in Lebanon raised alarm as Israel broadens its campaign against Hezbollah with waves of heavy airstrikes across the country and a ground invasion at the border.
-
-In central Beirut, rescue workers combed Friday through the rubble of a collapsed building, searching for survivors of an Israeli airstrike that killed at least 22 people and wounded dozens in the Lebanese capital the night before.
-
-...
-
-[Data](articles/0518a0f6.json)
-
-[Extended Data](ext_articles/0518a0f6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 14:23:16**
+As of **2024-10-13 14:39:08**
 
 ## Newspaper Stats
 
-*Scraped **49,223** Articles*
+*Scraped **49,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,021
 dailyftlk | 3,334
 adalk | 4,568
 dailymirrorlk | 4,733
-adaderanalk | 5,815
+adaderanalk | 5,817
 tamilmirrorlk | 6,711
 virakesarilk | 7,865
 adaderanasinhalalk | 8,516
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,223 (100.0%) of 49,223 articles have been extended.
+49,225 (100.0%) of 49,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Flood warning issued to low-lying areas of Kelani River extended
+
+*2024-10-13 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102650/flood-warning-issued-to-low-lying-areas-of-kelani-river-extended) · `en`
+
+The flood warning issued for low-lying areas along Kelani River has been extended for 48 hours, the Department of Irrigation announced.
+
+Furthermore, the department urged the residents in affected regions to stay alert and heed all safety precautions as weather conditions continue to pose risks.
+
+◼️
+
+[Data](articles/2a88c3b1.json)
+
+[Extended Data](ext_articles/2a88c3b1.ext.json)
+
+---
 
 ### Floods released to lowlands around Kelani River risk extended
 
@@ -97,6 +113,22 @@ Special Task Force (STF) in the 44, 38 and 37 rooms in the Prison Special Divisi
 [Data](articles/bb7515d8.json)
 
 [Extended Data](ext_articles/bb7515d8.ext.json)
+
+---
+
+### Decision on opening schools in Western Province tomorrow amid adverse weather
+
+*2024-10-13 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102649/decision-on-opening-schools-in-western-province-tomorrow-amid-adverse-weather-) · `en`
+
+Western Provincial education authorities have been empowered to decide whether or not to open schools tomorrow (11) due to inclement weather conditions.
+
+The Ministry of Education stated that the authorities are advised to discuss with Zonal Education Directors in deciding whether or not to open schools in the Western Province tomorrow.
+
+◼️
+
+[Data](articles/a2d26678.json)
+
+[Extended Data](ext_articles/a2d26678.ext.json)
 
 ---
 
@@ -2379,49 +2411,5 @@ The Irrigation Department has already issued warnings for a tremendous utterance
 [Data](articles/60810c95.json)
 
 [Extended Data](ext_articles/60810c95.ext.json)
-
----
-
-### Two jeeps found
-
-*2024-10-12 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202086) · `si`
-
-Tangalle police seize two vehicles: a white pick-up truck hidden in a house and a black workshop owned by Kozgaslanda Engineering Company. Former Deputy Chairman Amila Abeysekera involved in investigation.
-
-🟩
-
-Former Deputy Chairman of Tangalle Pradeshiya Sabha, Amila Abeysekera has taken steps to suspect a pierger jeep that was hidden in a house on Weerasinghe Road, Beliatta.
-
-The raid was carried out by the Tangalle Police Crime Division.
-
-Meanwhile, the Beliatta Police have also seized a black-owned workspiration of the Kozgaslanda Engineering Company in the Kosgaslanda area in Kosgaslanda area.
-
-◼️
-
-[Data](articles/50d068d5.json)
-
-[Extended Data](ext_articles/50d068d5.ext.json)
-
----
-
-### Red warning on flood risk
-
-*2024-10-12 15:07:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அபாயம்-குறித்து-சிவப்பு-எச்சரிக்கை/175-345318) · `ta`
-
-Flood warnings issued: rising river levels, potential flooding near Kelani Ganga, Kalukanga, Kuda Oya, and Attanagalu Oya. Low-lying areas at risk.
-
-🟩
-
-The water level of rivers is increasing due to inclement weather, and the Department of Irrigation has said that there is a possibility of flooding in the nearby areas of Kelani Ganga.
-
-It is also reported that the water level of the Kalukanga is also increasing. The water level of Kuda Oya is increasing and the flood hazard has been issued for the recent low -lying areas.
-
-In addition, a red warning has been issued on the risk of floods to the nearby areas of Attanagalu Oya.R
-
-◼️
-
-[Data](articles/09ccafc0.json)
-
-[Extended Data](ext_articles/09ccafc0.ext.json)
 
 ---

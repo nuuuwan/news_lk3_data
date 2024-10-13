@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 04:10:12**
+As of **2024-10-14 04:23:23**
 
 ## Newspaper Stats
 
-*Scraped **49,327** Articles*
+*Scraped **49,328** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 400
+dbsjeyarajcom | 401
 bbccomsinhala | 491
 colombotelegraphcom | 493
 islandlk | 2,916
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,327 (100.0%) of 49,327 articles have been extended.
+49,328 (100.0%) of 49,328 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1536,6 +1536,20 @@ In addition, all schools in Kolonnawa and Kaduwela education areas will also be 
 
 ---
 
+### “Comrade”Anura Began Historic Journey After Becoming  the Fifth  Leader  of JVP  in 2014.
+
+*2024-10-13 18:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84899) · `en`
+
+The year was 1969.  A 31 year old mother sought the services of a prominent astrologer to draw up the horoscope of her six month old son. The astrologer made some calculations based on planetary movements that prevailed at the time of the boy’s birth the previous year. He looked up with amazement and told the mother “your son has a “Rajayoga” in his destiny. He is born to rule. One day he will rule this country”.The mother was pleased but puzzled. She  was from a low-income farming family.How could my son be a ruler? She wondered.
+
+...
+
+[Data](articles/19c2757d.json)
+
+[Extended Data](ext_articles/19c2757d.ext.json)
+
+---
+
 ### Thiruketheeswaram Children's Home
 
 *2024-10-13 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196167) · `ta`
@@ -2257,37 +2271,5 @@ Accordingly, the department calls on the public and regional drivers from the Ke
 [Data](articles/2891440d.json)
 
 [Extended Data](ext_articles/2891440d.ext.json)
-
----
-
-### 130 Chinese arrested in connection with Internet currencies
-
-*2024-10-13 14:03:45* · [`adalk`](https://www.ada.lk/breaking_news/අන්තර්ජාල-මුදල්-වංචාවලට-සම්බන්ධ-චීන්නු-130ක්-අල්ලයි/11-412463) · `si`
-
-Chinese nationals arrested in Kandy for cheating billions. 130 detained, including 17 women. Police seized laptops, desktops, routers. Investigation ongoing.
-
-🟩
-
-The Kandy police were arrested by the Kandy Police at a hotel in Kundasale yesterday (12) at a hotel in the area.
-
-Investigations have revealed that the Chinese nationals cheated on billions of rupees at the international level.
-
-According to information received by the police, a large number of Chinese are in the hotel as a large number of Chinese are in the hotel, several police teams have taken steps to raided the site.
-
-It is also reported that there are 17 women among the twenty-six women, police said.
-
-The police suspect that the accounts of the Rs.
-
-Police have seized 120 state-of-the-art laptops in the possession of the suspects, three hundred and 15 destotops, a consignment of technology with 100 routors.
-
-The suspects have been arrested in the Habarana area recently, and there were 26 Chinese nationals who fled.
-
-Police investigations have revealed that the Chinese nationals have paid Rs.
-
-...
-
-[Data](articles/f6396fd4.json)
-
-[Extended Data](ext_articles/f6396fd4.ext.json)
 
 ---

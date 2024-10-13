@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 08:59:11**
+As of **2024-10-13 09:13:19**
 
 ## Newspaper Stats
 
-*Scraped **49,183** Articles*
+*Scraped **49,184** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,019
 dailyftlk | 3,334
-adalk | 4,562
+adalk | 4,563
 dailymirrorlk | 4,733
 adaderanalk | 5,810
 tamilmirrorlk | 6,700
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,507
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,182 (100.0%) of 49,183 articles have been extended.
+49,184 (100.0%) of 49,184 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,30 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/783f64d5.json)
+
+[Extended Data](ext_articles/783f64d5.ext.json)
+
+---
+
+### Three killed in train accident
+
+*2024-10-13 07:55:27* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියේ-ගැටී-පුද්ගලයන්-තිදෙනෙක්-ජීවිතක්ෂයට/11-412455) · `si`
+
+Train accident kills three: Two men and one child struck on pavement near Katukurunda Station. Incident occurred last night. Victims identified as 21-year-old man, 47-year-old man, and child whose father is 21 years old.
+
+🟩
+
+Two males and a small kid killed in a pavement from the Katukurunda Station in Kalutara South police Division, police said.
+
+The accident had occurred last night.The two men were killed in the accident and hospitalized.
+
+Deathters are residents of Kalutara, 21 and 47 years old. The father of the child who died among the deceased is a 21 year old person.
+
+◼️
+
+[Data](articles/771999f1.json)
+
+[Extended Data](ext_articles/771999f1.ext.json)
 
 ---
 
@@ -2379,27 +2403,5 @@ Further investigations are being carried out by the police detained at the polic
 [Data](articles/7c63ddea.json)
 
 [Extended Data](ext_articles/7c63ddea.ext.json)
-
----
-
-### Instructions to fishermen that they don't go
-
-*2024-10-12 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202078) · `si`
-
-Fishermen advised against sailing due to strong winds (60-70 km/h) and rough seas from Colombo to Hambantota. Department of Meteorology warns increased wave activity in coastal areas.
-
-🟩
-
-Winds from Puttalam to Hambantota via Hambantota via Hambantota via Hambantota. The Department of Meteorology announces that it will increase to 60-70.
-
-The release states that the sea areas can be very rough at times and increase the sea waves in the sea areas off the coast extending from Colombo to Hambantota via Galle.
-
-However, the Department of Meteorological Department informs the Navy and the fishing communities not to be restored until the re-incurred in these areas.
-
-◼️
-
-[Data](articles/8c5dabac.json)
-
-[Extended Data](ext_articles/8c5dabac.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 17:39:47**
+As of **2024-10-13 18:19:57**
 
 ## Newspaper Stats
 
-*Scraped **49,243** Articles*
+*Scraped **49,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,208 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,021
 dailyftlk | 3,334
-adalk | 4,571
+adalk | 4,572
 dailymirrorlk | 4,733
 adaderanalk | 5,821
-tamilmirrorlk | 6,716
-virakesarilk | 7,867
-adaderanasinhalalk | 8,520
+tamilmirrorlk | 6,722
+virakesarilk | 7,873
+adaderanasinhalalk | 8,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,243 (100.0%) of 49,243 articles have been extended.
+49,249 (100.0%) of 49,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### கொழும்பு, கம்பஹா பாடசாலைகளுக்கு விடுமுறை
+
+*2024-10-13 18:12:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-கம்பஹா-பாடசாலைகளுக்கு-விடுமுறை/175-345383) · `ta`
+
+நாட்டில் பல பிரதேசங்களில் தற்போது நிலவும் மோசமான வானிலையை அடுத்து, கொழும்பு மற்றும் கம்பஹா மாவட்டங்களில் பல பாடசாலைகளை திங்கட்கிழமை (14) மூடுவதற்கு கல்வி அதிகாரிகள் நடவடிக்கை எடுத்துள்ளனர்.
+
+அதன்படி, கொழும்பு மாவட்டத்தில் கொலன்னாவ மற்றும் கடுவெல மற்றும் கம்பஹா மாவட்டத்தில் களனி மற்றும் வத்தளை ஆகிய பகுதிகளில் உள்ள அனைத்து பாடசாலைகளும் நாளை திங்கட்கிழமை (14) மூடப்படும் என மேல்மாகாண பணிப்பாளர் பிரேம ரஞ்சித் தேவபந்து தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/b74eb004.json)
+
+---
+
+### පාසල් වැසීම පිළිබඳ විශේෂ නිවේදනයක්
+
+*2024-10-13 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202123) · `si`
+
+පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් අධ්‍යාපන කොට්ඨාස සහ අධ්‍යාපන කලාප කිහිපයක පාසල් හෙට (14) සහ අනිද්දා (15) වසා දැමීමට අධ්‍යාපන බලධාරීන් තීරණය කර තිබේ.
+
+ඒ අනුව ගම්පහ සහ කැලණිය අධ්‍යාපන කලාපවල පාසල් හෙට සහ අනිද්දා දිනයන්හි වසා දැමෙනු ඇත.
+
+එමෙන්ම බස්නාහිර පළාත් අධ්‍යාපන අධ්‍යක්ෂවරයා සඳහන් කළේ කොළඹ අධ්‍යාපන කලාපයේ සියලුම පාසල් හෙට දිනයේ පමණක් වසා තැබෙන බවය.
+
+ඊට අමතරව කොළොන්නාව සහ කඩුවෙල අධ්‍යාපන කොට්ඨාසවල සියලුම පාසල් ද හෙට සහ අනිද්දා වසා තැබෙනු ඇත.
+
+◼️
+
+[Data](articles/bab94b0e.json)
+
+---
+
+### திருக்கேதீஸ்வரம் சிறுவர் இல்லத்தின் களஞ்சியசாலையில் தீ விபத்து
+
+*2024-10-13 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196167) · `ta`
+
+உயிலங்குளம் பொலிஸ் பிரிவுக்குட்பட்ட திருக்கேதீஸ்வரம் பகுதியில் அமைந்துள்ள சிறுவர் இல்லத்தின் களஞ்சியசாலையில் சனிக்கிழமை (12) தீ விபத்து ஏற்பட்டுள்ளதாக உயிலங்குளம் பொலிஸார் தெரிவித்தனர்.
+
+உயிலங்குளம் பொலிஸாருக்கு கிடைத்த தகவலையடுத்து, பொலிஸ் உத்தியோகத்தர்கள் மற்றும் பிரதேசவாசிகள் இணைந்து தீயை அணைத்ததாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+தீயினால் உயிர்சேதம் எதுவும் ஏற்படவில்லை எனவும் பொருள் சேதம் இன்னும் மதிப்பிடப்படவில்லை எனவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/977f83cf.json)
+
+---
+
+### மோட்டார் சைக்கிள் இராணுவ லொறியுடன் மோதியதில் ஒருவர் பலி
+
+*2024-10-13 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196165) · `ta`
+
+கிரிந்திவெல பொலிஸ் பிரிவுக்குட்பட்ட நெதுங்கொல்ல பிரதேசத்தில் உள்ள பெபிலியவல வீதியில் மோட்டார் சைக்கிளொன்று இராணுவ லொறியுடன் மோதி விபத்துக்குள்ளானதில் மோட்டார் சைக்கிள் ஓட்டுநர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+ரதாவான பகுதியிலிருந்து பெபிலியவல நோக்கிப் பயணித்த மோட்டார் சைக்கிள் அதன் கட்டுப்பாட்டை இழந்து வீதியில் கவிழ்ந்து முன்னால் வந்த இராணுவ லொறியுடன் மோதியுள்ளது.
+
+இவ்விபத்தில் படுகாயமடைந்த மோட்டார் சைக்கிள் ஓட்டுநர் ரதாவான வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்துள்ளார்.
+
+இதனையடுத்து, சடலம் ரதாவான வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன் இவ்விபத்து தொடர்பில் இராணுவ லொறியின் சாரதி கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/c46484e0.json)
+
+---
+
+### லெபனானில் நிகழும் படுகொலைகள்
+
+*2024-10-13 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196163) · `ta`
+
+‘இஸ்ரேல் முடிவுக்கு வர முடியாத ஒரு போரில் லெபனானில் ஒரு புதிய முனையைத் திறந்துள்ளது’ என்ற தலைப்பில் பத்தி எழுத்தாளர்  ஹிக்கம் சபீயிடின் எழுதியுள்ள குறிப்பில் ‘இஸ்ரேலின் முதன்மை குறிக்கோள்களில் ஒன்று காசாவிலிருந்து வடக்கு முன்னணியை பிரித்து, இடம்பெயர்ந்த பல்லாயிரக்கணக்கான குடியேறியவர்களை வடக்கே திருப்பி அனுப்புவதாகும’ என்று எழுதி உள்ளார். ஆனால் எந்த முடிவும் நிச்சயமாகத் தெரியவில்லை.
+
+◼️
+
+[Data](articles/b3d9e2c8.json)
+
+---
+
+### திருகோணமலையின் தமிழ் பிரதிநிதித்துவத்துக்கு ஆபத்தா?
+
+*2024-10-13 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196152) · `ta`
+
+காணிப்பிரச்சினை விவசாய நிலப்பறிப்புக்கள் மேய்ச்சல் தரை விவகாரம் தொல் பொருள் அடாவடித்தனங்கள், வேலையில்லாப் பிரச்சினை, மீன்பிடி கிராமங்கள் மீதான சுவீகரிப்புக்கள், முன்னாள் போராளிகளின் வாழ்வாதாரப்பிரச்சனை விதவைகள் வாழ்வாதாரம் காணமல் ஆக்கப்பட்டோர் விவகாரம் படுகொலை சம்பவங்கள் மண் கொள்ளை என்று ஏகப்பட்ட பிரச்சினைகளுக்கும் சவால்களுக்கும் தமிழ் மக்கள் முகங்கொடுக்கும் ஒரு மாவட்டமாக திருகோணமலை மாவட்டம் காணப்படுகிற நிலையில் அரசியல் தீர்வு என்றமாயையின்பால் ஏமாற்றப்பட்ட தோற்றுப்போன சமூகமாக தாங்கள் ஆகிவிட்டோம் என்ற ஏமாற்றங்கள்.
+
+◼️
+
+[Data](articles/38402343.json)
+
+---
+
+### හදිසි ආපදා තත්ත්වයට ගුවන් හමුදාව සුදානම් වෙයි
+
+*2024-10-13 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202122) · `si`
+
+අයහපත් කලගුණය නිසා ඉදිරියේදී හදිසි ආපදා තත්ත්වයක් ඇතිවුවහොත් ඒ සඳහා සහන සැලසීම හා මුදවාගැනීමේ කටයුතු සඳහා ගුවන් යානා හා ඊට අදාළ භට පිරිස් ස්ථානගත කර තැබීමට ගුවන් හමුදාව පියවරගෙන ඇත.
+
+ඒ අනුව ඇතිවිය හැකි ආපදා පිළිබඳ නිරතුරු ගුවනින් නිරීක්ෂණය කිරීම සඳහා ගුවන් හමුදා නිරීක්ෂණ ගුවන් යානා මෙන්ම ආපදා තත්ත්වයක් ඇති වුවහොත් ජනතාව හට සහන සැලසීමට හා මුදවාගැනීමේ මෙහෙයුම් සඳහා හෙලිකොප්ටර් යානා තුනක් ස්ථානගත කර ඇත.
+
+ඉන් ‘Bell- 412’ වර්ගයේ හෙලිකොප්ටර් යානාවක් රත්මලාන ගුවන් හමුදා කඳවුරේද, ‘Bell- 212’ වර්ගයේ හෙලිකොප්ටර් යානා දෙකක් හිඟුරක්ගොඩ ගුවන් හමුදා කඳවුරේ සහ පලාලි ගුවන් හමුදා කඳවුරේද ස්ථානගත කළ බව ගුවන් හමුදාව පවසයි.
+
+එමෙන්ම මුදවාගැනීම් සඳහා සුවිශේෂි පුහුණුවක් ලබා ඇති ගුවන් හමුදා රෙජිමේන්තු විශේෂ බලකා භට පිරිස්ද එම කඳවුරු තුළ සුදානම් කර ඇත.
+
+◼️
+
+[Data](articles/42259e23.json)
+
+---
+
+### Mahela's re -appointment
+
+*2024-10-13 17:51:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மஹேல-மீண்டும்-நியமனம்/44-345382) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Mahela Jayawardena re-appointed as Mumbai Indians' head coach. The former Sri Lanka captain will lead the team again, bringing his expertise to the IPL franchise.
+
+🟩
+
+Mahela Jayawardena has been re -appointed as the chief coach of the Mumbai Indian Cricket Team.
+
+◼️
+
+[Data](articles/c0d2344b.json)
+
+[Extended Data](ext_articles/c0d2344b.ext.json)
+
+---
+
+### மகுலுகஸ்வெவயில் உள்நாட்டுத் துப்பாக்கியுடன் ஒருவர் கைது
+
+*2024-10-13 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196189) · `ta`
+
+மகுலுகஸ்வெவ பொலிஸ் பிரிவுக்குட்பட்ட தேவஹூவ பிரதேசத்தில் உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியை சட்டவிரோதமாக வைத்திருந்த சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (12) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+மகுலுகஸ்வெவ பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/f0652429.json)
+
+---
+
+### மது போதையில் மட்டு. பாசிக்குடா கடலில் நீராடச் சென்றவர்கள் பொலிஸார் மீது தாக்குதல் - ஒருவர் கைது
+
+*2024-10-13 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196198) · `ta`
+
+வாழைச்சேனை பாசிக்குடா கடற்கரையில் மதுபோதையில் கடலில் நீராடச் சென்ற குழுவினரை தடுத்து நிறுத்திய பொலிஸார் மீது தாக்குதல் நடத்தியதில் இரு பொலிஸார் காயமடைந்து  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+நேற்று சனிக்கிழமை (12) மாலை இடம்பெற்ற இத்தாக்குதல் சம்பவத்தில் ஒருவர் கைது செய்யப்பட்டுள்ளதாக கல்குடா பொலிஸார் தெரிவித்தனர்.
+
+பொலன்னறுவை செவனபிட்டியவைச் சேர்ந்த குழுவினர் நேற்று பகல்  உல்லாச பயணம் மேற்கொண்டு பாசிக்குடா கடற்கரையில் பொழுதை போக்கியதுடன், அங்கு மதுபானம் அருந்திய பின்னர் கடலில் நீராட முயற்சித்துள்ளனர்.
+
+இந்த தாக்குதலில் இரு பொலிஸார் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டதையடுத்து, தாக்கிய நபரொருவரை பொலிஸார் கைது செய்துள்ளனர்.
+
+மேலும், பொலிஸாரின் கடமைக்கு பங்கம் விளைவித்த குற்றச்சாட்டில் கைது செய்யப்பட்டவரை நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/48ad38c2.json)
+
+---
+
+### Vadivel was bathed in water
+
+*2024-10-13 17:30:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கும்ப-நீரில்-குளித்தார்-வடிவேல்/76-345381) · `ta`
+
+Vadivel Suresh joins United Democratic Voice Party, becomes Badulla district organizer. He opens party office in Hali Ella estate, participates in Hindu pooja and swimming event.
+
+🟩
+
+Parliamentarian Vadivel Suresh joined the United Democratic Voice Party, led by famous actor and former parliamentarian Ranjan Ramanayake.
+
+He has joined his political activities as the party's Badulla district organizer and is also the leader of the team that is contesting the Mike symbol in the Badulla district in the general election.
+
+Prior to the launch of the election campaign in the plantations, Vadivel Suresh opened his party office in the Hali Ella estate and participated in the Hindu pooja and swimmed at the water of the Kumbha.
+
+◼️
+
+[Data](articles/b5f44b10.json)
+
+[Extended Data](ext_articles/b5f44b10.ext.json)
+
+---
 
 ### Special protection to the capital of Pakistan
 
@@ -58,6 +244,30 @@ In Pakistan, there were many political crises and violence in Pakistan, and some
 
 ---
 
+### Air Force Alert
+
+*2024-10-13 17:03:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-படையினர்-உஷார்/175-345376) · `ta`
+
+Sri Lanka Air Force prepares for emergencies due to bad weather. Air Marshal Udhani Rajapakse orders readiness for relief and rescue. Surveillance planes and helicopters stationed at bases. Special forces deployed for assistance.
+
+🟩
+
+Due to the current adverse weather, the Sri Lanka Air Force has been advised to keep air and troops in anticipation of emergency.
+
+Air Force Commander Air Marshal Udhani Rajapakse has advised the Air Force spokesman Eranda Keeganage to be prepared for relief and rescue operations.
+
+He advised the Air Force to monitor the disaster conditions from the sky and to ensure that surveillance planes are ready.
+
+In addition, Bell-412 has been placed on the Ratmalana Air Force Base, while two Bell-212 Ungaurds have been placed on Hingurangoda and Palali Air Force Base.. Specially trained Air Force Regiment Special Forces are also ready on these sites and are helping in rescue operations when needed.
+
+◼️
+
+[Data](articles/87335ef9.json)
+
+[Extended Data](ext_articles/87335ef9.ext.json)
+
+---
+
 ### Hirunika resigns as national organiser of SJB women’s wing
 
 *2024-10-13 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102654/hirunika-resigns-as-national-organiser-of-sjb-womens-wing) · `en`
@@ -75,6 +285,28 @@ However, Premachandra expressed confidence in her political future, stating her 
 [Data](articles/50717117.json)
 
 [Extended Data](ext_articles/50717117.ext.json)
+
+---
+
+### I am quitting
+
+*2024-10-13 16:56:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவியிலிருந்து-விலகுகிறேன்/175-345373) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Hirunika Premachandra resigns as national organizer of United Women's Power. She made this announcement recently.
+
+🟩
+
+Hirunika Premachandra has announced that he will step down as the national organizer of the United Women's Power.
+
+◼️
+
+[Data](articles/7b94cadc.json)
+
+[Extended Data](ext_articles/7b94cadc.ext.json)
 
 ---
 
@@ -105,6 +337,28 @@ He also hopes that there is a confidence that he will have justice from the judi
 [Data](articles/2799e808.json)
 
 [Extended Data](ext_articles/2799e808.ext.json)
+
+---
+
+### Action Notification of the Ministry of Education
+
+*2024-10-13 16:42:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கல்வி-அமைச்சின்-அதிரடி-அறிவிப்பு/150-345369) · `ta`
+
+Ministry of Education grants authority to cancel school holidays during natural disasters after consulting District Disaster Management Committee.
+
+🟩
+
+The Ministry of Education has given the power to take stunning action in the event of natural disasters due to inclement weather in the country.
+
+Accordingly, the Ministry of Education has announced that the authority to provide holidays to schools, provincial secretaries, provincial education secretaries and provincial education directors, if there are floods and other natural disasters.
+
+The Ministry of Education has announced that the decision has been taken only after discussing with the District Disaster Management Committee on the inclement weather in the country.
+
+◼️
+
+[Data](articles/6dc76a4d.json)
+
+[Extended Data](ext_articles/6dc76a4d.ext.json)
 
 ---
 
@@ -303,6 +557,30 @@ The driver of the motorcycle driver, who was injured in the accident, died after
 [Data](articles/d41df0fe.json)
 
 [Extended Data](ext_articles/d41df0fe.ext.json)
+
+---
+
+### On top of the crimes under which the Sri Lankan rave was shown
+
+*2024-10-13 14:48:01* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-රැව්-පිළිරැව්-දුන්-යට-ගිය-අපරාධ--උඩට/11-412464) · `si`
+
+Sri Lanka: Rave case, Treasury Bond scandal, journalist murder, disappearances, defense ministry orders.
+
+🟩
+
+Attorney at the Hon.
+
+Accordingly, the Treasury Bond issue of the Eastern Association, Vice Chancellor of the University of Eastern University in 2007, the disappearance of Hon. Vice Chancellor of the University of Eastern University
+
+In addition to the fact that the journalist was abducted and killed by the journalist, the journalist named the journalist named Still Shiva Ram in 2005, he was instructed to end the investigation into the disappearance of the two Lalith Kumara and Kuguruwitan in Jaffna.
+
+Working IGP Priyantha Weerasuriya has instructed to expedit these special investigations on the instructions of the Defense Ministry on the advice of the Ministry of Defense.
+
+◼️
+
+[Data](articles/32f39849.json)
+
+[Extended Data](ext_articles/32f39849.ext.json)
 
 ---
 
@@ -2019,367 +2297,5 @@ The reason is that the two thighs cover completely their faces, cannot find any 
 [Data](articles/4925ba0f.json)
 
 [Extended Data](ext_articles/4925ba0f.ext.json)
-
----
-
-### President instructs to provide relief to the people affected by the disaster
-
-*2024-10-12 20:46:02* · [`adalk`](https://www.ada.lk/breaking_news/ආපදා-නිසා-විපතට-පත්-ජනතාවට-සහන-සැලසීමට-ජනපතිගෙන්-උපදෙස්/11-412453) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake orders relief for disaster victims. Allocates Rs. 50 million. 24,018 families affected. 2,200 people in 584 families safe in 23 relief centers. Emergency services activated in affected areas. Contact Disaster Management Center for updates: 117, 0112136136, 0112136222, 0112670002.
-
-🟩
-
-President Anura Kumara Dissanayake has instructed officials to provide immediate relief to the affected people due to the inclement weather affected by the island.
-
-President Anura Kumara Dissanayake informed the Secretary to the Ministry of Defense to support the protection of the people in the distribution of the people of the districts and landslides before the inclement weather.
-
-The President said that the government is working to provide relief to all people who were affected by the disaster due to the emergency disaster.
-
-The President requests the people to be inspected. State officials further stated that the President instructed the Ministry of Finance to allocate Rs. 50 million for this relief work.
-
-The Disaster Management Center (DMC) informs that 24,018 families have been affected by the floods and landslides caused by the inclement weather in the past few days.
-
-...
-
-[Data](articles/b073f14a.json)
-
-[Extended Data](ext_articles/b073f14a.ext.json)
-
----
-
-### Rain decreased with the day
-
-*2024-10-12 20:41:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளையுடன்-மழை-குறையும்/175-345325) · `ta`
-
-Rainfall decrease expected tomorrow. Heavy rain forecasted in western regions. Thunderstorms possible in southern, northern, and central areas. Department advises caution against lightning threats.
-
-🟩
-
-The current rainfall weather will be reduced tomorrow (13), the Department of Meteorology said.
-
-The department has also forecast heavy rainfall in the Western and Sabaragamuwa Provinces and Galle and Matara districts tomorrow.
-
-Thunderstorms may occur in the southern, northwest and central provinces from time to time. The department has also forecast rain or thunderstorms in the evening or night.
-
-The Department of Meteorology has advised people to take steps to reduce the risks of thunderstorms and lightning impacts. (That)
-
-◼️
-
-[Data](articles/54d493d9.json)
-
-[Extended Data](ext_articles/54d493d9.ext.json)
-
----
-
-### Three including 3-yr-old boy killed after being hit by train
-
-*2024-10-12 20:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102640/three-including-3-yr-old-boy-killed-after-being-hit-by-train) · `en`
-
-Three persons including a three-year-old boy have reportedly died after being hit by a train near the Katukurunda railway station this evening (12).
-
-They had died after a collision with an express train plying from Beliatta to Maradana, according to the Railway Department.
-
-Two males including the child’s 22-year-old father were killed on the spot while three-year-old had succumbed to critical injuries after being admitted to the Kalutara Teaching Hospital.
-
-The deceased are reportedly residents of the Rajawatta area in Kalutara South.
-
-◼️
-
-[Data](articles/8fa11a36.json)
-
-[Extended Data](ext_articles/8fa11a36.ext.json)
-
----
-
-### Financial fraud;114 Chinese citizens arrested
-
-*2024-10-12 20:30:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நிதி-மோசடி-114-சீன-பிரஜைகள்-கைது/76-345324) · `ta`
-
-Chinese citizens arrested online fraud Kundasalai police seize devices
-
-🟩
-
-114 Chinese citizens have been arrested in the Kundasalai area on suspicion of online financial fraud.
-
-In the meantime, the police have seized 120 laptops, 15 desktops and 300 mobile phones used by the suspects.
-
-The suspects said that they rented 47 rooms in a hostel in Kundasalai area.. (That)
-
-◼️
-
-[Data](articles/7e76e143.json)
-
-[Extended Data](ext_articles/7e76e143.ext.json)
-
----
-
-### Hesha - Lets are leaks
-
-*2024-10-12 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202100) · `si`
-
-Here's a 200-character summary:
-
-
-
-Politician Hesha Vithanage accuses Damitha Abeyratne of leaking phone conversations about nominations. Vithanage claims he controls nominations, while Abeyratne denies being decisive. The exchange reveals political intrigue and potential corruption in Sri Lanka's electoral process.
-
-🟩
-
-The telephone conversation that Mr. Damitha Abeyene, who was not nominated by the Ratnapura district with a reconciliation district, is now circulating the telecommunication conversation promised to nomination.
-
-හේෂා විතානගේ  - ඔයාගේ නම ලොක්කට යැව්වා. I made the list and sent me.. I'll send you the list I've made.
-
-Hesha Vithanage - Nothing, nothing, I was hitting you where you had one. You want to do it with the bosses.
-
-Damitha Abeyratne - A.. Then you're not a dicide.
-
-Hesha Withanage - No.. .Leare is the Final Dizzition. Leader decides to give a seat. But asking me. I ask me to give this this.
-
-◼️
-
-[Data](articles/4cb9d3c8.json)
-
-[Extended Data](ext_articles/4cb9d3c8.ext.json)
-
----
-
-### More information about the Chinese racketeering in Sri Lanka
-
-*2024-10-12 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202099) · `si`
-
-Chinese racketeering arrests in Sri Lanka: 126 nationals detained for online fraud. Police seized 120 laptops, 14 computers, and 300+ mobile phones. 17 Chinese women among those arrested. Some suspects escaped via Mahaweli River.
-
-🟩
-
-The police have arrested 126 Chinese nationals to arrest online financial fraud.
-
-Police said that the Hotel Managingt knew that the Internet fiscal fraud was made.
-
-There were many information regarding the recently large-scale public money on the Internet.
-
-The Criminal Investigations Department (CID) was raided at the recent past many foreign investigations to capture many foreign nationals from social media and telephone calls.
-
-In this backdrop, 126 Chinese nationals were taken into custody at a tourist hotel in Kundasale, Kandy.
-
-The OIC Aruna Jayasinghe of the Special Investigation Unit at the Central Province Senior DIG's office was in a missionary operation to conduct a few policemen including Kandy.
-
-Among the arrested were 17 Chinese women.
-
-However, when several other Chinese were raided, however, some other Chinese had fled the Mahaweli River from the area.
-
-...
-
-[Data](articles/20f93df1.json)
-
-[Extended Data](ext_articles/20f93df1.ext.json)
-
----
-
-### Two killed and child killed in train
-
-*2024-10-12 19:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202098) · `si`
-
-Train collision kills two adults, injures one; child dies later. Three pedestrians struck near Matara-Colombo route. Incident occurred evening of December 12th. Victims from South Rajawatta, Kalutara area.
-
-🟩
-
-Three persons collided with a train from Matara to Colombo.
-
-The three persons were hit by the train evening today (12).
-
-The two men were killed in the accident and was admitted to the Kalutara Teaching Hospital with injuries.
-
-Our correspondent said that the child had died after being admitted to the hospital.
-
-The victims were residents of South Rajawatta, Kalutara.
-
-◼️
-
-[Data](articles/410613bb.json)
-
-[Extended Data](ext_articles/410613bb.ext.json)
-
----
-
-### Acting IGP instructed to expedite investigations into seven high-profile cases
-
-*2024-10-12 19:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102639/acting-igp-instructed-to-expedite-investigations-into-seven-high-profile-cases) · `en`
-
-The Ministry of Public Security has instructed the Acting IGP to expedite the police investigations into seven high-profile cases including the Easter Sunday bombings and the controversial Treasury Bond auction in 2015.
-
-Instructions have also been given to expedite investigations into the death of businessman Dinesh Schaffter death and the death of a police officer during the shooting incident near the “W15” Hotel in Weligama in 2023, according to the Police Spokesman.
-
-Police Spokesman DIG Nihal Thalduwa said the Ministry of Public Security has instructed the Acting IGP to direct special attention and to expedite several special investigations being carried out by the Criminal Investigations Department (CID) and other agencies as the progress of these investigations have been observed to be somewhat insufficient.
-
-...
-
-[Data](articles/3d677f7e.json)
-
-[Extended Data](ext_articles/3d677f7e.ext.json)
-
----
-
-### Separate investigations will be expedited for seven cases
-
-*2024-10-12 19:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202097) · `si`
-
-Government orders expedited probes for 7 cases: 2015 bond deal, Passover attack, police spokesperson Nihal Talduuwa.
-
-🟩
-
-The Government Defense Ministry lawyer says that the project is instructed to expedite investigations into the 2015 controversial bond deal, the Passover attack, police spokesman Nihal Talduuwa.
-
-◼️
-
-[Data](articles/efd7349d.json)
-
-[Extended Data](ext_articles/efd7349d.ext.json)
-
----
-
-### An action order issued by the President
-
-*2024-10-12 19:11:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பிறப்பித்துள்ள-அதிரடி-உத்தரவு/175-345323) · `ta`
-
-President Anura Kumara Dissanayake issues directive for flood relief, allocates 50 million rupees, coordinates efforts across ministries and districts.
-
-🟩
-
-President Anura Kumara Dissanayake has issued a directive to the authorities to provide immediate relief to the people affected by the inclement weather in the country.
-
-President Anura Kumara Dissanayake has informed the Secretary of the Ministry of Defense to pay special attention to the safety of the people in the districts affected by the floods and landslides.
-
-The President said that the government is working to provide relief to the people due to disasters and has directed the Finance Ministry to allocate 50 million rupees for these relief services.
-
-He added to government officials to work well to provide people with appropriate relief.
-
-The Disaster Management Center said that 24,492 people from 6,018 families have been affected by floods and landslides in 11 districts over the past few days.
-
-2,200 people from 584 families have been safely housed in 23 relief centers.
-
-...
-
-[Data](articles/0cdd6a31.json)
-
-[Extended Data](ext_articles/0cdd6a31.ext.json)
-
----
-
-### Investigation into money deposits abroad
-
-*2024-10-12 18:43:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடுகளில்-பணம்-வைப்பிலிட்டோர்-குறித்து-விசாரணை/175-345322) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Government probes 13 politicians over alleged foreign bank deposits. Intelligence agencies gather data from financial institutions. Investigation ongoing despite challenges. Public encouraged to report suspicious transactions."
-
-🟩
-
-Government intelligence agencies have launched an investigation into 13 politicians and state officials allegedly depositing millions of banks and financial institutions abroad.
-
-According to intelligence sources, the first step is to get information reports from the financial institutions.
-
-Investigators say that a special investigation is being conducted these days on the process of depositing overseas.
-
-Although this is a very difficult task, the sources, which claim that it is working closely, said that if anyone knows the information, you can submit.
-
-It is noteworthy that various people, including politicians, have been campaigning on some platforms to bring money being hidden abroad during the last presidential election.. (That)
-
-◼️
-
-[Data](articles/9bfaa980.json)
-
-[Extended Data](ext_articles/9bfaa980.ext.json)
-
----
-
-### President instructs to provide immediate relief to those affected by adverse weather
-
-*2024-10-12 18:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102638/president-instructs-to-provide-immediate-relief-to-those-affected-by-adverse-weather) · `en`
-
-President Anura Kumara Dissanayake has instructed officials to provide immediate relief to the people affected by the recent adverse weather conditions across the country.
-
-He also instructed the Secretary to the Ministry of Defence to ensure special attention is given to the safety of people in districts impacted by floods and landslides and to provide necessary support for effective relief operations, according to the President’s Media Division (PMD).
-
-The President emphasized that the government will take action to provide necessary assistance to all affected citizens and that local government officials in the affected areas will be engaged to ensure the people receive the required aid. Until such time, the President requested the public to act cautiously.
-
-Additionally, the President has instructed the Ministry of Finance to allocate Rs. 50 million for relief services and urged state officials to ensure proper coordination in delivering the relief to those in need.
-
-...
-
-[Data](articles/4fe1c685.json)
-
-[Extended Data](ext_articles/4fe1c685.ext.json)
-
----
-
-### The definite defeat is also the usual defeat
-
-*2024-10-12 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202096) · `si`
-
-Sri Lanka Women's cricket team lost to New Zealand Women's team in a 20-over match. Chamari Atapattu led Sri Lanka, scoring 35 runs. New Zealand reached 116/7 in 17 overs, winning the game.
-
-🟩
-
-The Sri Lanka Women's Guneka Sri Lanka Women's Ground 20 cricket cricket cricket tournament was defeated today (12).
-
-Sri Lanka Leader Chamari Atapattu first, won the toss and elected to bat.
-
-Simali Gunaratne began with Sri Lanka innings Chamari Atapattu, and the first wicket was lost as the first wicket of the innings.
-
-Chamari Atapattu scored 35 runs and Hersha Samarawickrama scored 18 runs.
-
-Accordingly, the Sri Lanka women's group scored 115 runs for the loss of 5 wickets at the end of 20 overs.
-
-Chasing a target of 116, New Zealand Women's target passed its target for 7 wickets at last 17 overs.
-
-◼️
-
-[Data](articles/fbfbdadd.json)
-
-[Extended Data](ext_articles/fbfbdadd.ext.json)
-
----
-
-### Ajith Manapperuma quit the election
-
-*2024-10-12 18:24:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலில்-இருந்து-விலகினார்-அஜித்-மானப்பெரும/175-345321) · `ta`
-
-Former MP Ajith Manapperuma quits election due to sudden dismissal as Chief Organizer of Samaki Jana Balavegaya's Gampaha district. His name was listed in nominations but he stepped down before contesting.
-
-🟩
-
-Former MP Ajith Manapperuma, a former MP of the Gampaha district of Samaki Jana Balavegaya, has decided to quit the general election.
-
-The name of Ajith Manaparuma was also included in the nomination papers filed by Samaki Jan.
-
-However, the decision has been made because he has suddenly dismissed the post of Chief Organizer of the Gampaha District of Samaki Jana Balavega.
-
-◼️
-
-[Data](articles/cdac3a78.json)
-
-[Extended Data](ext_articles/cdac3a78.ext.json)
-
----
-
-### Is Joker: Folie à Deux An Actual Failure?
-
-*2024-10-12 18:20:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-joker-folie-a-deux-an-actual-failure/) · `en`
-
-When I first heard of the movie release I was counting days and when it was finally out in cinemas, the first thing I did was check the reviews and ratings expecting exceptional reviews to have bombarded. No sooner did I realize that I was wrong; it was disheartening to witness negative reviews and such low ratings for a movie and especially a character most of us spoke highly of. At the same time, I was curious to understand the reason for its flop.
-
-...
-
-[Data](articles/35e2b83a.json)
-
-[Extended Data](ext_articles/35e2b83a.ext.json)
 
 ---

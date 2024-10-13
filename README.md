@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 15:57:51**
+As of **2024-10-13 16:10:48**
 
 ## Newspaper Stats
 
-*Scraped **49,231** Articles*
+*Scraped **49,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ economynextcom | 3,021
 dailyftlk | 3,334
 adalk | 4,569
 dailymirrorlk | 4,733
-adaderanalk | 5,817
+adaderanalk | 5,818
 tamilmirrorlk | 6,715
 virakesarilk | 7,865
-adaderanasinhalalk | 8,517
+adaderanasinhalalk | 8,518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,231 (100.0%) of 49,231 articles have been extended.
+49,233 (100.0%) of 49,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### The oral and breast cancer is up
+
+*2024-10-13 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202118) · `si`
+
+Sri Lanka sees rise in oral and breast cancer cases. Over 33,000 new cancer patients reported last year, with many deaths attributed to these cancers. Ministry of Health aims to reduce incidence through improved treatment standards and promotion of healthy lifestyles.
+
+🟩
+
+The Ministry of Health states that the record of oral cancer and breast cancer in Sri Lanka has increased.
+
+Medical Palitha Mahipala said that over 33,000 new cancer patients were reported last year.
+
+It is also said that several deaths have occurred last year due to cancer.
+
+The Ministry of Health states that breast cancer, lung cancer, has mainly due to breast cancer, lung cancer, and courses.
+
+Oral cancer develops among men is revealed that 1,990 oral cancer patients have been reported from the country's population.
+
+Dr. Palitha Mahipala said that he will reduce the number of cancer patients by promoting a healthy lifestyle and increase the standards of cancer treatment.
+
+◼️
+
+[Data](articles/55aac292.json)
+
+[Extended Data](ext_articles/55aac292.ext.json)
+
+---
 
 ### Reoperation
 
@@ -47,6 +75,20 @@ The Railway Department has said that the area between the Lunuvila and Natandia 
 [Data](articles/05c19a17.json)
 
 [Extended Data](ext_articles/05c19a17.ext.json)
+
+---
+
+### Schools closed in several education zones tomorrow
+
+*2024-10-13 15:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102651/schools-closed-in-several-education-zones-tomorrow) · `en`
+
+All government schools in Kaduwela and Kolonnawa Education Zonal Divisions in Colombo District and the Wattala Zonal Division in Gampaha District will be closed tomorrow (14), in view of the prevailing adverse weather condition.
+
+◼️
+
+[Data](articles/da741324.json)
+
+[Extended Data](ext_articles/da741324.ext.json)
 
 ---
 
@@ -2347,59 +2389,5 @@ In this engaging and thought-provoking interview with Levan S. Dzhagaryan, the R
 [Data](articles/a4fef8e9.json)
 
 [Extended Data](ext_articles/a4fef8e9.ext.json)
-
----
-
-### Sarathkumar - Shanmukha Pandian co -starring 'Kombu Sevi'
-
-*2024-10-12 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196118) · `ta`
-
-Sarathkumar, Shanmukha Pandian star in "Kombu Sevi". Directed by Gold, music by Yuvan Shankar Raja. Produced by Mukesh Da, produced by Chelliah. Released in Tamil Nadu.
-
-🟩
-
-The new film, which has played the lead roles as the heroes of 'Supreme Star' Sarathkumar and 'Young Captain' Shanmukha Pandiyan as the heroes of the story, has been named 'Kombu Sevi' and has been released.
-
-Star director gold. Sarathkumar, Shanmukha Pandiyan, Kali Venkat, Tamika, 'Kalki' Raja and many others star in the film 'Kombu Sevi'.
-
-Yuvan Shankar Raja is composing the film, which is being recorded by Balasubramaniam.
-
-Mukesh Da, producer of the film, is being made as an existing entertainer in the 1996 truth event in Usilampatti and Andipatti, near Madurai, the southern part of Tamil Nadu.. Chelliah produces.
-
-Sarathkumar and Shanmukha Pandian appear in a different look and the presence of the police station and the police in the background has kept the expectation of the image.
-
-◼️
-
-[Data](articles/6bf3e5d2.json)
-
-[Extended Data](ext_articles/6bf3e5d2.ext.json)
-
----
-
-### 'Mega Star' starring Chiranjeevi 'Viswambara'
-
-*2024-10-12 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196115) · `ta`
-
-"Viswambara: Chiranjeevi stars in epic Hindu mythological film. Directed by Vashishta, featuring Trisha, Ashika Ranganath, Kunal Kapoor. Cinematography by Chota K. Naidu, music by M. Kiravani. Produced by UV Creations. Released Jan 10, 2024."
-
-🟩
-
-The film 'Viswambara' starring Mega Star Chiranjeevi has been released.
-
-Chiranjeevi, Trisha, Ashika Ranganath and Kunal Kapoor have starred in the upcoming film 'Viswambara' directed by director Vashishta.
-
-Chota K. Naidu is a cinematography.. M.. Kiravani has composed music.
-
-The film is being produced by Vamsi, Pramod and Vikram Reddy on behalf of UV Creations.
-
-The film has been released on January 10 next year at the film House.
-
-Fans are expecting the fans of the Hindu mythical mythology and the magnificent visuals of the Hindu mythology.
-
-◼️
-
-[Data](articles/cc41c69b.json)
-
-[Extended Data](ext_articles/cc41c69b.ext.json)
 
 ---

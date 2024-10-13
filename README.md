@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 13:23:06**
+As of **2024-10-13 13:39:32**
 
 ## Newspaper Stats
 
-*Scraped **49,215** Articles*
+*Scraped **49,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,95 @@ dailyftlk | 3,334
 adalk | 4,567
 dailymirrorlk | 4,733
 adaderanalk | 5,815
-tamilmirrorlk | 6,709
-virakesarilk | 7,864
-adaderanasinhalalk | 8,512
+tamilmirrorlk | 6,710
+virakesarilk | 7,865
+adaderanasinhalalk | 8,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,215 (100.0%) of 49,215 articles have been extended.
+49,218 (100.0%) of 49,218 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Give jobs not to find work jobs - Dilith
+
+*2024-10-13 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202113) · `si`
+
+Here's a 200-character summary:
+
+
+
+Dilith emphasizes entrepreneurship in education, urging students to create jobs rather than seek them. He advocates including entrepreneurship in school curricula to foster creativity and innovation, believing this approach will benefit society more than traditional job-seeking methods.
+
+🟩
+
+Entrepreneurship should be included in the syllabus of education in Sri Lanka.
+
+He was speaking at a Diploma in Colombo during a speech.
+
+"I'm trying to society for nearly 30 years, this entrepreneurial concept to socialize. How do you think tradition?Creative?Think differently?That is how it will serve the purpose. I have been socialized to have a social ability to get a social ability. Unfortunately, we do not get the same chance to educate the entrepreneurship. There is no entrepreneurial of the syllabus. Wherever they teach creativity. Think of our wealth. Imagined, the man who was not thinking didn't think. This is why this society is not going on. Make jobs, not to find jobs, not to find jobs. This is the country wants to talk about this.. Think to be a creative entrepreneur or an enterprise. Don't think about. If so, I'm not here today. "
+
+◼️
+
+[Data](articles/d8f7796e.json)
+
+[Extended Data](ext_articles/d8f7796e.ext.json)
+
+---
+
+### Tamil Independent Group
+
+*2024-10-13 12:56:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோடரியில்-தமிழ்-சுயேட்சை-குழு/175-345357) · `ta`
+
+Tamil Independent Group contests Kalutara district election, focusing on minority rights and basic needs. 40,000+ Tamil voters eligible, aiming for parliamentary representation.
+
+🟩
+
+In the history of the Kalutara district, an independent committee comprising 14 Tamil candidates for the upcoming general election has filed nominations for the first time in the "ax" symbol.
+
+11 MPs from the Kalutara district will be elected to parliament from 8 electoral constituencies including Bandaragama, Horana, Bulathsingha, Adalawattai Matugama, Panadura, Beruwala and Kalutara.
+
+It is noteworthy that the Independent Committee has come down to this general election to get a resort to the issue of the minority Tamil people who have been enriched in the Kalutara district plantation areas so far, as they are ignoring their basic amenities and livelihood issues.
+
+The total number of voters registered in the Kalutara district is 1024,244. The committee chairman said that about forty thousand or forty -five thousand Tamil voters are qualified to vote in the general election, and that if all the Tamils ​​vote together, a Tamil member has the potential for the parliament.
+
+...
+
+[Data](articles/bc06d4d2.json)
+
+[Extended Data](ext_articles/bc06d4d2.ext.json)
+
+---
+
+### Arrested with heroin in Kalkisa
+
+*2024-10-13 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196159) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Heroin arrest: Man caught near Mount Lavinia Railway Station. Police action based on CI division tip.
+
+🟩
+
+A man with heroin was arrested by the police on Saturday (12) near the Mount Lavinia Railway Station in the Malkisa Police Division.
+
+The man has been arrested on the basis of information received by officials of the Mount Lavinia Criminal Investigation Division.
+
+He was seized by the police by the police.
+
+◼️
+
+[Data](articles/782b4205.json)
+
+[Extended Data](ext_articles/782b4205.ext.json)
+
+---
 
 ### Rajapaksa brothers opt out of Sri Lanka’s November 14 general elections
 
@@ -2349,67 +2425,5 @@ Political sources say that the reason for not contesting the general election is
 [Data](articles/673c6f7a.json)
 
 [Extended Data](ext_articles/673c6f7a.ext.json)
-
----
-
-### 120 Chinese nationals arrested over online scams at luxury bungalow in Kundasale
-
-*2024-10-12 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102634/120-chinese-nationals-arrested-over-online-scams-at-luxury-bungalow-in-kundasale-) · `en`
-
-A group of 120 Chinese nationals allegedly involved in online financial scams has been arrested in the Kundasale area.
-
-Police have seized 15 desktop computers and 300 mobile phones which were taken into custody from 47 rooms in a luxury bungalow in Kundasale, according to the police spokesman.
-
-◼️
-
-[Data](articles/872229e2.json)
-
-[Extended Data](ext_articles/872229e2.ext.json)
-
----
-
-### Introduction to telephone number to provide information on state vehicles
-
-*2024-10-12 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196100) · `ta`
-
-Report fraudulent use of government vehicles to 1997. Anonymous tips protected. Only provide accurate information. False reports punished. 24/7 hotline.
-
-🟩
-
-The police have requested the public to report to the emergency telephone number 1997 if the vehicles provided by the government have been used for fraud or illegal or illegal.
-
-The emergency telephone telephone will be used for number 24 hours, police said.
-
-Police said the identity and personal details of the informants would be fully protected.
-
-Police said that only true information should be provided and legal action will be taken against those who are false.
-
-◼️
-
-[Data](articles/a2d51624.json)
-
-[Extended Data](ext_articles/a2d51624.ext.json)
-
----
-
-### 120 Chinese arrested in Kundawala
-
-*2024-10-12 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202083) · `si`
-
-Chinese nationals arrested in Kundawala for online financial fraud. Police seized computers and phones from luxury hotel.
-
-🟩
-
-Police have arrested a team of 120 Chinese suspects to be involved in financial frauds online.
-
-The arrest was taken to be arrested while in a 47-room luxury in Kundasale, Kandy.
-
-Fifteen computers and 300 mobile phones have been handed over by the police.
-
-◼️
-
-[Data](articles/93a447c3.json)
-
-[Extended Data](ext_articles/93a447c3.ext.json)
 
 ---

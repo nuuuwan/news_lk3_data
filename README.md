@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 09:13:19**
+As of **2024-10-13 09:24:17**
 
 ## Newspaper Stats
 
-*Scraped **49,184** Articles*
+*Scraped **49,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,019
 dailyftlk | 3,334
 adalk | 4,563
 dailymirrorlk | 4,733
-adaderanalk | 5,810
+adaderanalk | 5,811
 tamilmirrorlk | 6,700
 virakesarilk | 7,858
 adaderanasinhalalk | 8,507
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,507
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,184 (100.0%) of 49,184 articles have been extended.
+49,184 (100.0%) of 49,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Heavy Israeli bombardment in northern Gaza as UN peacekeepers in Lebanon are hit again
+
+*2024-10-13 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102643/heavy-israeli-bombardment-in-northern-gaza-as-un-peacekeepers-in-lebanon-are-hit-again) · `en`
+
+Palestinians in northern Gaza described heavy Israeli bombardment Saturday in the hours after airstrikes killed at least 22 people, as Israel warned people there and in southern Lebanon to get out of the way of offensives against the Hamas and Hezbollah militant groups.
+
+In Lebanon, the U.N. peacekeeping force said its headquarters in Naqoura was hit again, with a peacekeeper struck by gunfire late Friday and in stable condition. It wasn’t clear who fired. It occurred a day after Israel’s military fired on the headquarters for a second straight day. Israel, which has warned peacekeepers to leave their positions, didn’t immediately respond to questions.
+
+Hunger warnings emerged again in northern Gaza as residents said they hadn’t received aid since the beginning of the month. The U.N. World Food Program said no food aid had entered the north since Oct. 1. An estimated 400,000 people remain there.
+
+...
+
+[Data](articles/7bbb4897.json)
+
+---
 
 ### Showers expected in parts of the country
 
@@ -2375,33 +2391,5 @@ Former Minister Mr. Prasanna Ranatunga said that even if he does not contest the
 [Data](articles/bab78a8a.json)
 
 [Extended Data](ext_articles/bab78a8a.ext.json)
-
----
-
-### Arrested for selling drugs at a grocery store
-
-*2024-10-12 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196080) · `ta`
-
-Jaffna grocery store owner arrested for selling drugs. Police found 50 tablets during search. Owner claims selling only to known customers. Further investigation ongoing.
-
-🟩
-
-The shop owner who was selling drugs in a grocery store in Jaffna was arrested by the police yesterday (11).
-
-Based on the confidential information available to the police, the shop was searched by the police that drug pills were being sold at a grocery store at Manipayil Manipayil.
-
-During the test, 50 tablets were found from the back of the store and a sum of one blank pill card.
-
-When the police arrested the owner and investigated the investigation, he said that he was taking drug pills and selling them only to those who knew.
-
-He also said that he had bought 150 pills three days ago and had sold some of them and consumed himself.
-
-Further investigations are being carried out by the police detained at the police station.
-
-◼️
-
-[Data](articles/7c63ddea.json)
-
-[Extended Data](ext_articles/7c63ddea.ext.json)
 
 ---

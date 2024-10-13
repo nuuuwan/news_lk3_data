@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 11:23:36**
+As of **2024-10-13 12:13:00**
 
 ## Newspaper Stats
 
-*Scraped **49,195** Articles*
+*Scraped **49,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,230 @@ dbsjeyarajcom | 400
 colombotelegraphcom | 490
 bbccomsinhala | 491
 islandlk | 2,916
-economynextcom | 3,019
+economynextcom | 3,021
 dailyftlk | 3,334
 adalk | 4,565
 dailymirrorlk | 4,733
 adaderanalk | 5,812
-tamilmirrorlk | 6,703
-virakesarilk | 7,859
-adaderanasinhalalk | 8,510
+tamilmirrorlk | 6,706
+virakesarilk | 7,862
+adaderanasinhalalk | 8,512
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,195 (100.0%) of 49,195 articles have been extended.
+49,205 (100.0%) of 49,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Most competitors in Colombo district
+
+*2024-10-13 11:37:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்டத்தில்-அதிக-போட்டியாளர்கள்/175-345352) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Colombo district: 8,352 candidates contesting general election. Most compete here, according to Election Commission Director General Saman Sri Ratnayake.
+
+🟩
+
+The Election Commission said that 8,352 candidates are contesting this year's general election.
+
+Most of them are contesting from the Colombo district that its Director General Saman Sri Ratnayake said. Remble
+
+◼️
+
+[Data](articles/5e0e54ef.json)
+
+[Extended Data](ext_articles/5e0e54ef.ext.json)
+
+---
+
+### Flood released on Attanagalu Oya is extended
+
+*2024-10-13 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202112) · `si`
+
+Flood warning extended: Attanagalu Oya basin alert until 11th morning. Irrigation Department extends warning for 48 hours. Affected areas: Kelaniya, Biyagama, Colombo, Wattala.
+
+🟩
+
+The flood warning notification issued for the Attanagalu Oya basin has been extended to the 11th morning.
+
+Accordingly, the Irrigation Department has taken steps to extend the warning for the next 48 hours.
+
+Accordingly, 48 hours for the next 48 hours, the people of the Kelaniya, Biyagama, Colombo and Wattala Divisional Secretariats belonging to the Kelani River Valley, Colombo and WattalaDemand the department.
+
+◼️
+
+[Data](articles/99821c6d.json)
+
+[Extended Data](ext_articles/99821c6d.ext.json)
+
+---
+
+### Public Security Ministry's order on seven major incidents, including Sivaram massacre - Eran welcomes
+
+*2024-10-13 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196149) · `ta`
+
+Sri Lanka Public Security Ministry orders investigations into seven major incidents including Sivaram assassination. Former MP Eran Wickramaratne welcomes move, calls for justice. Police to expedite probes, increase public confidence in rule of law.
+
+🟩
+
+Former United People's Power MP Eran Wickramaratne has welcomed the public's security ministry to expedite investigations into the seven major incidents, including the assassination of journalist Sivaram, the lifeblood.
+
+This is a great effort to address these events in Parliament and I have demanded justice for the victims.
+
+I am worried that there will be a full -fledged investigation.
+
+This will increase the popular confidence in the rule of the law that is essential for the development of Sri Lanka.
+
+The Public Security Ministry has ordered the police to expedite investigations into the seven major incidents, including the disappearance of Lalit Kugan, the Mass of Journalist Dharmaratnam Sivaram.
+
+The Ministry of Public Security has requested the Central Bank to intensify investigations into the Central Bank bailout.
+
+The police spokesman said that the Public Security Response Chancellor has been asked to work with the CIT and the appropriate police on these incidents.
+
+...
+
+[Data](articles/548e7112.json)
+
+[Extended Data](ext_articles/548e7112.ext.json)
+
+---
+
+### One person dies after falling under a glass pile in Hungama
+
+*2024-10-13 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/196142) · `ta`
+
+Worker killed by falling glass during construction in Hungama. A 45-year-old man died after being crushed by shattered mirrors while driving a container truck near a tourist hotel. The incident occurred during new building work.
+
+🟩
+
+Hungama police said that a worker who was working on a mirror died from a vehicle carrying containers at a tourist hotel workplace in Hungama, fell under a glass pile.
+
+A 45 -year -old from Hungama West has died, police said.
+
+The accident occurred when the new construction was underway, the accident occurred when seven mirrors crashed into a man who was involved in the death of seven glasses in a car carrying containers.
+
+A worker, who was seriously injured in the collapse of the mirrors, died after being admitted to the Tangalle Hospital.
+
+◼️
+
+[Data](articles/d5bc4aa6.json)
+
+[Extended Data](ext_articles/d5bc4aa6.ext.json)
+
+---
+
+### Cinnamon Air cross-connects Sri Lanka tourist hot spots
+
+*2024-10-13 11:14:00* · [`economynextcom`](https://economynext.com/cinnamon-air-cross-connects-sri-lanka-tourist-hotspots-ahead-of-season-183322/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cinnamon Air said it was widening its scheduled network from November 01, linking top tourist destinations with each other as the winter season starts, slashing cross country travel times.
+
+From November 01, new flights will connect Koggala and Hambantota with Kandy and Sigiriya in central Sri Lanka.
+
+“These cross-country flights are designed to enhance convenience and reduce travel time while ensuring an unparalleled experience for those who wish to explore Sri Lanka’s South Coast after visiting the Cultural Triangle or the Central Hill Country,” Cinnamon Air said in a statement.
+
+Passengers can now cross from the Cultural Triangle (through Sigiriya) or the Central Hill Country (through Kandy) to the South Coast in 40 to 50 minutes, compared to 6 to 7 hours on the road, Cinnamon Air said, giving more time to spend on leisure activities.
+
+...
+
+[Data](articles/963ec091.json)
+
+[Extended Data](ext_articles/963ec091.ext.json)
+
+---
+
+### Shocking news about white creams
+
+*2024-10-13 11:10:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளையாக்கும்-கிரீம்கள்-குறித்து-அதிர்ச்சி-செய்தி/175-345350) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Warning: Online creams cause health issues. CAA advises caution against buying skincare products online due to lack of regulation and safety concerns."
+
+🟩
+
+The Consumer Affairs Authority (CAA) has said that more attention should be paid to when using creams and lotions that are sold on the Internet.
+
+The use of creams that make the skin on the Internet has caused many health problems.
+
+Consumer and Information Director of the Consumer Affairs Authority Asela Bandara also said that there is a problem with the rules imposed on the cosmetics trade.
+
+“Going to social media you see many ads come. A beautiful girl will come and say that this cream is used. We see this as an ad.
+
+There are occasions that are only the telephone number of the publisher of this ad. Sometimes the phone number, and the address is nothing.
+
+Especially if you use cream -like ingredients for the skin, if any problem is, nothing can be known.
+
+As far as the matter is concerned, women should be careful in ordering such things through social media, especially women. Said that we should have been away from using creams. Remble
+
+◼️
+
+[Data](articles/d335aeac.json)
+
+[Extended Data](ext_articles/d335aeac.ext.json)
+
+---
+
+### Sanjeewa and Wele Suda have been found in the cell
+
+*2024-10-13 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202111) · `si`
+
+Police Special Task Force discovered phones and devices hidden in cells during raid on Colombo High Security Prison. Organized criminals and drug dealers arrested, including Sanjeewa Kumara Sanjeeratne and Samantha Kumara alias Wele Suda. Devices seized for further investigation.
+
+🟩
+
+The Police Special Task Force has found a telephone and telephone segment hidden behind the pride of organized criminals and drug dealers.
+
+The Special Task Force (STF) was conducted in several prison in the Colombo High Security Prison yesterday (13).
+
+The STF said that organized criminals and drug dealers, Sanjeewa Kumara Sanjeeratne, alias Ganemulla, is hidden in the back of Sanjeera, Ganemulla.
+
+Samantha Kumara aliado the Weell Suda has been hidden in the back of the prison.
+
+The selected telephones and devices were handed over to the prison manager for further investigations.
+
+◼️
+
+[Data](articles/c18aa085.json)
+
+[Extended Data](ext_articles/c18aa085.ext.json)
+
+---
+
+### "I can work even if you sit down"
+
+*2024-10-13 10:57:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமர்ந்திருந்தும்-என்னால்-பணியாற்ற-முடியும்/175-345349) · `ta`
+
+Sri Lanka SLPP includes Gamini Lokuke in National List despite health issues. She says "I can work even if you sit down" emphasizing ability to perform duties from any position. Party focuses on organizational tasks rather than direct election campaigning.
+
+🟩
+
+Senior politician and former parliamentarian Gamini Lokuke said she did not contest because her body did not allow her to contest the general election this time.
+
+However, Lokuke's name is added to the party's national organizer Namal Rajapaksa on the National List of the Sri Lanka PA (SLPP).
+
+உடல் குறைபாடுகள் இருந்தபோதிலும் தேசியப்பட்டியலில் சேர்க்கப்பட்டுள்ளமை தொடர்பில் ஊடகவியலாளர்கள் கேள்வி எழுப்பிய போது, ​​லொகுகே, அமர்ந்திருந்தும் தன்னால் பணியாற்ற முடியும் என பதிலளித்தார்.
+
+He further explained that the party's decision was to include Namal Rajapaksa on the national list and that he should not contest the election.
+
+He added that Rajapakse was responsible for organizing the tasks in the 224 constituencies, and that the party members were asked to focus on those responsibilities instead of contesting.
+
+◼️
+
+[Data](articles/65045403.json)
+
+[Extended Data](ext_articles/65045403.ext.json)
+
+---
 
 ### YouTube's nomination rejection; Ali Sabri
 
@@ -57,6 +263,28 @@ Senaratne announced that he was planning to take legal action against the decisi
 [Data](articles/b108e5e9.json)
 
 [Extended Data](ext_articles/b108e5e9.ext.json)
+
+---
+
+### Three people, including a 3 -year -old child collided with a train
+
+*2024-10-13 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/196139) · `ta`
+
+Train collision kills 3, including toddler, near Katukurunda station. High-speed train from Beliyatha to Maradana involved. One victim dies at hospital.
+
+🟩
+
+Three people, including a 3 -year -old child, were killed when a train collided with a train on Saturday (12) near the Katukurunda railway station, police said.
+
+The Railway Department said that they were killed in a high -speed train traveling from Beliyatha to Maradana.
+
+Meanwhile, the 33 -year -old child of the accident has died after being admitted to the Kalutara Teaching Hospital.
+
+◼️
+
+[Data](articles/c85e34d3.json)
+
+[Extended Data](ext_articles/c85e34d3.ext.json)
 
 ---
 
@@ -110,6 +338,36 @@ They also indicated that legal action will be pursued against any candidates who
 
 ---
 
+### May be raining or thunderstorm in some areas
+
+*2024-10-13 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196138) · `ta`
+
+Heavy rain/thunderstorms forecasted in central, western provinces and coastal areas. Strong winds and rough seas expected. Public advised to remain vigilant.
+
+🟩
+
+Senior Weather Officer Dr. Mohamed Saliheen said that frequent rainfall or thunderstorms are expected in the Central, Sabaragamuwa, Upper, North Western and Northern Provinces, as well as in the Galle and Matara districts.
+
+Showers or thunderstorms can occur in the evening or night in many parts of the country.
+
+The public is asked to act with vigilance in the events of strong winds and lightning.
+
+Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
+
+The sea will blow from the west to the southwest at 25 - 35 km / h in the sea regions from Mannar to Colombo, Galle and Hambantota.
+
+Frequent winds may increase at 50 - 60 km / h in the sea regions from Galle to Matara to Matara.. In these cases, these sea regions are turbulent.
+
+The winds may increase at 45 km / h in the sea regions from Mannar to Colombo to Colombo.. In these cases, these sea regions are somewhat turbulent.
+
+...
+
+[Data](articles/1eb1aa5e.json)
+
+[Extended Data](ext_articles/1eb1aa5e.ext.json)
+
+---
+
 ### Awareness on skin whiting coatings
 
 *2024-10-13 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202110) · `si`
@@ -139,36 +397,6 @@ Our women are particularly concerned about the fact that this kind of order is a
 [Data](articles/73c56030.json)
 
 [Extended Data](ext_articles/73c56030.ext.json)
-
----
-
-### May be raining or thunderstorm in some areas
-
-*2024-10-13 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196138) · `ta`
-
-Heavy rain/thunderstorms forecasted in central, western provinces and coastal areas. Strong winds and rough seas expected. Public advised to remain vigilant.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that frequent rainfall or thunderstorms are expected in the Central, Sabaragamuwa, Upper, North Western and Northern Provinces, as well as in the Galle and Matara districts.
-
-Showers or thunderstorms can occur in the evening or night in many parts of the country.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
-
-The sea will blow from the west to the southwest at 25 - 35 km / h in the sea regions from Mannar to Colombo, Galle and Hambantota.
-
-Frequent winds may increase at 50 - 60 km / h in the sea regions from Galle to Matara to Matara.. In these cases, these sea regions are turbulent.
-
-The winds may increase at 45 km / h in the sea regions from Mannar to Colombo to Colombo.. In these cases, these sea regions are somewhat turbulent.
-
-...
-
-[Data](articles/1eb1aa5e.json)
-
-[Extended Data](ext_articles/1eb1aa5e.ext.json)
 
 ---
 
@@ -285,6 +513,28 @@ The President said that the government is working to provide relief to all the p
 [Data](articles/9badecc9.json)
 
 [Extended Data](ext_articles/9badecc9.ext.json)
+
+---
+
+### Sri Lanka central bank buys US$108mn from banks in Sept, reserves US$5.9bn
+
+*2024-10-13 08:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-buys-us108mn-from-banks-in-sept-reserves-us5-9bn-183319/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross official reserves rose by 38 million US dollars to 5,992 million US dollars in September 2024 from a month earlier, with the central bank a net buyer in interbank foreign exchange markets.
+
+The central bank bought 108.5 million US dollars and sold 12.5 million dollars to manage its soft-peg.
+
+The central bank is broadly running deflationary policy since around September 2022, killing liquidity from dollar purchases by selling its domestic assets to the banking system (or getting coupon interest on bonds), triggering balance of payments surpluses.
+
+Gross official reserves are made up of central bank’s monetary reserves (collected with deflationary policy or sterilizing dollar purchases) and fiscal reserves of the Treasury built temporarily with foreign borrowings.
+
+Sri Lanka has built reserves with deflationary policy, and has repaid debt on a net basis.
+
+...
+
+[Data](articles/58fe9031.json)
+
+[Extended Data](ext_articles/58fe9031.ext.json)
 
 ---
 
@@ -2183,233 +2433,5 @@ Some analysts said higher interest (penalty) rates on credit cards also would ha
 [Data](articles/93647679.json)
 
 [Extended Data](ext_articles/93647679.ext.json)
-
----
-
-### Boeing to axe 17,000 jobs amid strike and quality concerns
-
-*2024-10-12 11:40:00* · [`islandlk`](http://island.lk/boeing-to-axe-17000-jobs-amid-strike-and-quality-concerns/) · `en`
-
-Boeing will axe its workforce by a tenth – cutting 17,000 jobs – and delay production as the aeroplane maker deals with issues across its business.
-
-Chief executive Kelly Ortberg said in an email to staff that “executives, managers, and employees'” jobs are all at risk.
-
-The business also warned of losses in its weapons and military equipment manufacturing arm, and pushed back the delivery date of its 777X plane.
-
-The news comes as the business grapples with staff striking and mounting concerns around the quality of its planes.
-
-Mr Ortberg said in the email that the company will reduce its headcount “over the coming months”.
-
-“Next week, your leadership team will share more tailored information about what this means for your organization,” he said, adding that it will not proceed with the next cycle of furloughs.
-
-“The state of our business and our future recovery require tough actions,” said Mr Ortberg.
-
-...
-
-[Data](articles/6e9a3419.json)
-
-[Extended Data](ext_articles/6e9a3419.ext.json)
-
----
-
-### Removes security stalls near Temple Trees
-
-*2024-10-12 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202080) · `si`
-
-Colombo Municipal Council removes security barriers near Temple Trees. Road reopened after 19-year closure due to security concerns. New government advice leads to reopening.
-
-🟩
-
-With the opening of the road from Kollupitiya mosque from Kollupitiya mosque to the House, the Colombo Municipal Council has been removed today (11).
-
-The road was closed for 19 years in 2005 due to security reasons.
-
-ඒ අනුව දීර්ඝ කාලයක් තිස්සේ ප්‍රවේශ වීමට නොහැකිව තිබූ මෙම මාර්ගය වත්මන් ආරක්ෂක තත්ත්වය සමාලෝචනය කිරීමෙන් අනතුරුව යළි විවෘත කරන ලෙස නව රජය උපදෙස් ලබා දුන්නේය.
-
-◼️
-
-[Data](articles/e3def0c3.json)
-
-[Extended Data](ext_articles/e3def0c3.ext.json)
-
----
-
-### The Prime Minister's images are required before permission
-
-*2024-10-12 11:32:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமரின்-படங்களுக்கும்-முன்-அனுமதி-தேவை/175-345312) · `ta`
-
-Prime Minister's image use requires permission. State institutions must seek approval for PM and Minister photos/messages. Decision aims to optimize public funds. Written permission needed from PM's office. Ministers' consent required through Ministry.
-
-🟩
-
-It has been stated that the prior permission should be obtained for the use of photos and messages of the Prime Minister and Ministers for events organized by state institutions.
-
-The Prime Minister's Secretary Pradeep Saputhandri has sent a letter to the leaders of state institutions.
-
-The decision has been made to optimize public funds in accordance with the policies and vision of the government.
-
-Accordingly, when using photos and messages of the Prime Minister, the Prime Minister's Office must obtain written permission.
-
-The Prime Minister's Secretary also said that the Ministry should obtain permission from the Ministers on behalf of the Ministers.. (That)
-
-◼️
-
-[Data](articles/8a0e1c49.json)
-
-[Extended Data](ext_articles/8a0e1c49.ext.json)
-
----
-
-### Fishermen don't go to sea - the Department of Meteorology
-
-*2024-10-12 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196085) · `ta`
-
-Department of Meteorology issues red alert for coastal areas. Strong winds and high waves expected. Fishermen and sailors advised to stay off seas until further notice. Warning effective for 24 hours starting 8:30 AM today.
-
-🟩
-
-The Department of Meteorology has issued a red telephone warning to the seas from Puttalam to Colombo and Galle.
-
-The instruction, which was issued today (12) at 08.30 am, will be in effect for the next 24 hours until 08.30 am tomorrow (13).
-
-Therefore, the Department of Meteorology has advised the naval and fishermen community not to go to the sea until the re -notice is arrived.
-
-The Department of Meteorology has announced that the wind speeds from Puttala to Colombo and Galle via Hambantota will grow at speeds of up to 100 km / h from time to time.
-
-The report states that the seas are from time to time, and the height of the sea waves in the seas from Colombo to Galle and Matara to Hambantota is likely to rise from 2.5 to 3.0 meters.
-
-◼️
-
-[Data](articles/017f3295.json)
-
-[Extended Data](ext_articles/017f3295.ext.json)
-
----
-
-### Luxury car confiscated following bribery commission investigation
-
-*2024-10-12 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102632/luxury-car-confiscated-following-bribery-commission-investigation) · `en`
-
-The Colombo Magistrate’s Court has ordered the confiscation of a luxury car seized by the Bribery Commission.
-
-Colombo Chief Magistrate Thilina Gamage issued the order following a request made by the Bribery Commission.
-
-Investigations uncovered that the vehicle was imported using falsified information provided to customs, resulting in the government being defrauded of more than Rs. 55 million in taxes.
-
-The confiscated vehicle, a Mitsubishi Montero jeep, belongs to a businessman from the Badulla area.
-
-◼️
-
-[Data](articles/8280ff54.json)
-
-[Extended Data](ext_articles/8280ff54.ext.json)
-
----
-
-### Luxury vehicle confiscated following bribery commission investigation
-
-*2024-10-12 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102632/luxury-vehicle-confiscated-following-bribery-commission-investigation) · `en`
-
-The Colombo Magistrate’s Court has ordered the confiscation of a luxury vehicle seized by the Bribery Commission.
-
-Colombo Chief Magistrate Thilina Gamage issued the order following a request made by the Bribery Commission.
-
-Investigations uncovered that the vehicle was imported using falsified information provided to customs, resulting in the government being defrauded of more than Rs. 55 million in taxes.
-
-The confiscated vehicle, a Mitsubishi Montero jeep, belongs to a businessman from the Badulla area.
-
-◼️
-
-[Data](articles/d952fa0b.json)
-
-[Extended Data](ext_articles/d952fa0b.ext.json)
-
----
-
-### Murder of a nephew;Arrests
-
-*2024-10-12 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/196082) · `ta`
-
-Father-in-law arrested after assaulting son-in-law over argument in Balangoda. Son-in-law killed during altercation. Police investigation ongoing.
-
-🟩
-
-Balangoda police said that the father -in -law was assaulted by his son -in -law in a house in Dahamana, Balangoda.
-
-Police said that when the son -in -law, who was murdered in a violation of the argument, was assaulted by his father -in -law and his son -in -law when he tried to attack his wife.
-
-◼️
-
-[Data](articles/32dcd441.json)
-
-[Extended Data](ext_articles/32dcd441.ext.json)
-
----
-
-### Only 11 houses in 31 houses
-
-*2024-10-12 10:18:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/31-வீடுகளில்-11-வீடுகள்-மட்டுமே-கையளிப்பு/175-345311) · `ta`
-
-11 out of 31 government officials returned homes after leaving office. Handover delayed due to customs procedures.
-
-🟩
-
-In the last government, only 11 of the 31 politicians who lived in government homes have handed over the houses, the Ministry of Public Administration said.
-
-It is reported that there is a delay in handing over the houses as many customs have to be completed.
-
-◼️
-
-[Data](articles/8fe49dac.json)
-
-[Extended Data](ext_articles/8fe49dac.ext.json)
-
----
-
-### Met. Dept. issues ‘red alert’ for strong winds and rough seas
-
-*2024-10-12 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102631/met-dept-issues-red-alert-for-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued a ‘Red’ alert for the sea areas off the coasts extending from Puttalam to Hambantota via Colombo and Galle.
-
-The advisory, issued at 08.30 a.m. this morning (12), will be effective for the next 24 hours until 08.30 a.m. on Sunday (13).
-
-The sea areas off the coast extending from Puttalam to Hambantota via Colombo and Galle will be very rough at times with very strong gusty winds up to 60-70 kmph, it added.
-
-Meanwhile, the wave heights may increase about 2.5–3.0 m in the sea areas off the coast extending Colombo to Hambantota via Galle and Matara, according to the Met. Department.
-
-Thus, naval and fishing communities are requested to be attentive in this regard.
-
-◼️
-
-[Data](articles/76c963a9.json)
-
-[Extended Data](ext_articles/76c963a9.ext.json)
-
----
-
-### Hizbullah warns to leave Israel people
-
-*2024-10-12 10:04:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-மக்களை-வெளியேறுமாறு-ஹிஸ்புல்லா-எச்சரிக்கை/50-345310) · `ta`
-
-Hezbollah warns Israelis to evacuate northern areas due to increased Israeli military presence. Clashes between Israel and Lebanon continue, causing over 1,200 deaths and displacing about 1 million. Remote-controlled explosives are reportedly being used by both sides.
-
-🟩
-
-Hisbullah organization has warned the people of the country to leave the military positions in Northern Israel.
-
-Foreign media reports that Israeli forces are using the homes of people in Northern Israel as military bases.
-
-Despite the Israeli -Lebanon border clashes for some time, Israel has intensified attacks on the sites of the Hezbollah organization since last 23rd.
-
-More than 1,200 people have died in the clash in Lebanon. About one million people were displaced.
-
-Foreign media reports that Israel's sophisticated remote explosion is one of the main reasons for these conflicts, including pagans widely used by Hizbullah militants.
-
-◼️
-
-[Data](articles/2eb55274.json)
-
-[Extended Data](ext_articles/2eb55274.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 01:38:53**
+As of **2024-10-14 01:58:01**
 
 ## Newspaper Stats
 
-*Scraped **49,318** Articles*
+*Scraped **49,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 491
 bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,023
-dailyftlk | 3,343
+dailyftlk | 3,346
 adalk | 4,576
 dailymirrorlk | 4,733
 adaderanalk | 5,825
@@ -26,11 +26,47 @@ adaderanasinhalalk | 8,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,318 (100.0%) of 49,318 articles have been extended.
+49,321 (100.0%) of 49,321 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### CCC Sri Lanka-Indonesia Business Council completes successful business promotion mission
+
+*2024-10-14 00:55:01* · [`dailyftlk`](https://www.ft.lk/business/CCC-Sri-Lanka-Indonesia-Business-Council-completes-successful-business-promotion-mission/34-767934) · `en`
+
+The Sri Lanka-Indonesia Business Council of the Ceylon Chamber of Commerce undertook a successful business promotion mission to Indonesia, from 6 to 11 October 2024.
+
+The delegation consisted of 14 Sri Lankan business professionals from various sectors, including food and beverage, logistics, pharmaceuticals, apparel, travel, IT, and recreation industries.
+
+...
+
+[Data](articles/adb30910.json)
+
+[Extended Data](ext_articles/adb30910.ext.json)
+
+---
+
+### Brian appointed to Lanka Realty Investments Board
+
+*2024-10-14 00:52:04* · [`dailyftlk`](https://www.ft.lk/business/Brian-appointed-to-Lanka-Realty-Investments-Board/34-767933) · `en`
+
+Brian Selvanayagam has been appointed to the Board of Lanka Realty Investments PLC as an Independent Non-Executive Director.
+
+Brian is an Associate Member of the Chartered Institute of Management Accountants (UK), Fellow Member of the Institute of Chartered Accountants of Sri Lanka, Fellow Member of the Chartered Institute of Marketing (UK), Fellow Member of the Certified Management Accountants of Sri Lanka and Chartered Member of the Chartered Institute for Securities and Investment (UK).
+
+He is the Past Chairman of the Chartered Institute of Marketing Sri Lanka and was a member of the Audit and Risk Committee of the Chartered Institute of Marketing (UK).
+
+He is presently a Non-Executive Director of Ceylon Biscuits Ltd. He counts over 25 years of work experience in fields covering auditing, banking and financial services, property development and education. He is also a Justice of Peace for the whole Island.
+
+◼️
+
+[Data](articles/b655d401.json)
+
+[Extended Data](ext_articles/b655d401.ext.json)
+
+---
 
 ### Magistrate’s Court dismisses case against Asia Capital; upholds company’s, directors’ and employees’ integrity
 
@@ -321,6 +357,20 @@ The Election Commission has issued a gazette with a candidate in the presidentia
 [Data](articles/5dcb3318.json)
 
 [Extended Data](ext_articles/5dcb3318.ext.json)
+
+---
+
+### IPS’s SOE 2024: Manual of growth strategies for AKD
+
+*2024-10-13 23:22:42* · [`dailyftlk`](https://www.ft.lk/columns/IPS-s-SOE-2024-Manual-of-growth-strategies-for-AKD/4-767908) · `en`
+
+SOE 24 has been released by IPS at a time when Sri Lanka has reached a watershed in its economic policy strategies following a Presidential election in which a left-oriented politician, namely, Anura Kumara Dissanayake or AKD, has been picked by voters to occupy this high post. AKD is also seeking the mandate of the people for Parliamentary majority to implement his policy at a general election to be held in mid-November 2024. AKD’s left orientation and inclination for the expansion of the State sector, known as statism or dirigisme, has come to be tested at a pragmatic level immediately after he was sworn in as the President
+
+...
+
+[Data](articles/797b30a2.json)
+
+[Extended Data](ext_articles/797b30a2.ext.json)
 
 ---
 
@@ -2241,73 +2291,5 @@ He is a drug addict and his wife is a mental disorder, police said.
 [Data](articles/0587976e.json)
 
 [Extended Data](ext_articles/0587976e.ext.json)
-
----
-
-### US expectations in the left -wing regime of Sri Lanka
-
-*2024-10-13 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196155) · `ta`
-
-US-Sri Lanka ties raise concerns about India-China rivalry. Left-wing government faces challenges implementing 13th Amendment, fueling Tamil community skepticism.
-
-🟩
-
-“In the view of the strategic competition with China, if the US creates security cooperation with Sri Lanka, it may create fears that the Indian Ocean will be transformed into a battlefield for a major power.. The regime of Anuragumara Dissanayake expresses uncertainty in implementing the 13th Amendment to the Share of Power in the North and East of the post -war North and East.. Such manifestations increase the doubts of the Tamil people
-
-◼️
-
-[Data](articles/ad04a42e.json)
-
-[Extended Data](ext_articles/ad04a42e.ext.json)
-
----
-
-### Give jobs not to find work jobs - Dilith
-
-*2024-10-13 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202113) · `si`
-
-Here's a 200-character summary:
-
-
-
-Dilith emphasizes entrepreneurship in education, urging students to create jobs rather than seek them. He advocates including entrepreneurship in school curricula to foster creativity and innovation, believing this approach will benefit society more than traditional job-seeking methods.
-
-🟩
-
-Entrepreneurship should be included in the syllabus of education in Sri Lanka.
-
-He was speaking at a Diploma in Colombo during a speech.
-
-"I'm trying to society for nearly 30 years, this entrepreneurial concept to socialize. How do you think tradition?Creative?Think differently?That is how it will serve the purpose. I have been socialized to have a social ability to get a social ability. Unfortunately, we do not get the same chance to educate the entrepreneurship. There is no entrepreneurial of the syllabus. Wherever they teach creativity. Think of our wealth. Imagined, the man who was not thinking didn't think. This is why this society is not going on. Make jobs, not to find jobs, not to find jobs. This is the country wants to talk about this.. Think to be a creative entrepreneur or an enterprise. Don't think about. If so, I'm not here today. "
-
-◼️
-
-[Data](articles/d8f7796e.json)
-
-[Extended Data](ext_articles/d8f7796e.ext.json)
-
----
-
-### Tamil Independent Group
-
-*2024-10-13 12:56:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோடரியில்-தமிழ்-சுயேட்சை-குழு/175-345357) · `ta`
-
-Tamil Independent Group contests Kalutara district election, focusing on minority rights and basic needs. 40,000+ Tamil voters eligible, aiming for parliamentary representation.
-
-🟩
-
-In the history of the Kalutara district, an independent committee comprising 14 Tamil candidates for the upcoming general election has filed nominations for the first time in the "ax" symbol.
-
-11 MPs from the Kalutara district will be elected to parliament from 8 electoral constituencies including Bandaragama, Horana, Bulathsingha, Adalawattai Matugama, Panadura, Beruwala and Kalutara.
-
-It is noteworthy that the Independent Committee has come down to this general election to get a resort to the issue of the minority Tamil people who have been enriched in the Kalutara district plantation areas so far, as they are ignoring their basic amenities and livelihood issues.
-
-The total number of voters registered in the Kalutara district is 1024,244. The committee chairman said that about forty thousand or forty -five thousand Tamil voters are qualified to vote in the general election, and that if all the Tamils ​​vote together, a Tamil member has the potential for the parliament.
-
-...
-
-[Data](articles/bc06d4d2.json)
-
-[Extended Data](ext_articles/bc06d4d2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 17:08:27**
+As of **2024-10-13 17:23:26**
 
 ## Newspaper Stats
 
-*Scraped **49,239** Articles*
+*Scraped **49,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 3,021
 dailyftlk | 3,334
 adalk | 4,571
 dailymirrorlk | 4,733
-adaderanalk | 5,819
+adaderanalk | 5,821
 tamilmirrorlk | 6,716
 virakesarilk | 7,867
-adaderanasinhalalk | 8,518
+adaderanasinhalalk | 8,519
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,239 (100.0%) of 49,239 articles have been extended.
+49,242 (100.0%) of 49,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Hirunika resigns as national organiser of SJB women’s wing
+
+*2024-10-13 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102654/hirunika-resigns-as-national-organiser-of-sjb-womens-wing) · `en`
+
+Former MP Hirunika Premachandra states that she is resigning from the post of National Organiser of the ‘Samagi Vanitha Balawegaya’, the women’s organisation of the Samagi Jana Balawegaya (SJB).
+
+Premachandra emphasized that despite stepping down from the role, she remains an active member of the party and is determined to contest in the 2024 General Election.
+
+Premachandra attributed her resignation to frustration over accusations from the party that organisers did not fulfill their duties during the presidential election campaign. She noted that these accusations played a significant role in her decision to relinquish her position.
+
+However, Premachandra expressed confidence in her political future, stating her belief that the public will once again elect her to Parliament in the upcoming election.
+
+◼️
+
+[Data](articles/50717117.json)
+
+[Extended Data](ext_articles/50717117.ext.json)
+
+---
+
+### Keheliya resigns from politics
+
+*2024-10-13 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202120) · `si`
+
+Keheliya Rambukwella retires from politics after 31 years. Former Minister announces decision at Kandy meeting. Emphasizes public support and hope for judicial justice. Cites success as businessman before entering politics.
+
+🟩
+
+Former Kandy District Parliamentarian as well as former Minister of Former Health Minister Keheliya Rambukwella has decided to retire from active politics.
+
+He was speaking at a meeting held in Kandy today (13) to inform the party to inform the party about his politics.
+
+He further stated that he is not a politically orphaned. He said that he was announced temporarily, but the public is prevalent.
+
+He also emphasized that people who have been engaged in politics than a businessman are worth the popular love.
+
+He also hopes that there is a confidence that he will have justice from the judiciary and to restore politics as a innocent person.
+
+"Nearly 31 years ago, I became a politician. My grandfather was in Mr. Bandaranaike. Mr. Keheliya name was Mr. Bandaranaike. I didn't want to worry in active politics. I'm a good successful businessman ".
+
+"Whether or not to help, talk to me without any chances to help, I have no backwill. It is not the blank word, but from the heart. "
+
+...
+
+[Data](articles/2799e808.json)
+
+[Extended Data](ext_articles/2799e808.ext.json)
+
+---
 
 ### Action Notification of the Ministry of Education
 
@@ -51,6 +101,30 @@ The Ministry of Education has announced that the decision has been taken only af
 [Data](articles/eede4291.json)
 
 [Extended Data](ext_articles/eede4291.ext.json)
+
+---
+
+### Keheliya Rambukwella decides to pause political career, cites ‘recent events’
+
+*2024-10-13 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102653/keheliya-rambukwella-decides-to-pause-political-career-cites-recent-events) · `en`
+
+Former Minister Keheliya Rambukwella says that he has decided to temporarily step back from politics with the ‘recent events’ that took place.
+
+Rambukwella announced his decision while speaking at an event held in Kandy today (13).
+
+However, the former Minister also mentioned that he will not hesitate to help the people to the fullest at anytime, although he pauses the political involvement.
+
+Furthermore, he revealed plans to focus on his business activities in the future.
+
+Additionally, the former Minister expressed confidence in being vindicated by the courts regarding the “recent events.” He emphasized his belief that justice will prevail and shared his hopes of returning to politics as an “innocent person” once the legal matters are resolved.
+
+Rambukwella has served in multiple ministerial posts, including as the Minister of Mass Media, Minister of Foreign Employment Promotion and Welfare, Minister of Water Supply and Drainage, Minister of Health and Minister of Environment.
+
+...
+
+[Data](articles/a59cefa4.json)
+
+[Extended Data](ext_articles/a59cefa4.ext.json)
 
 ---
 
@@ -2309,77 +2383,5 @@ At least 2,200 people in 584 families have been held safely in 23 relief centers
 [Data](articles/fdcc2a9d.json)
 
 [Extended Data](ext_articles/fdcc2a9d.ext.json)
-
----
-
-### Sri Lanka CSE to list riskier bonds targeting qualified investors
-
-*2024-10-12 18:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-cse-to-list-riskier-bonds-targeting-qualified-investors-183316/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Colombo Stock Exchange said it will allow companies with below investment grade rating to sell and list stocks to qualified investor who are able to manager riskier assets.
-
-“Only specific types of companies, such as those regulated by the Central Bank of Sri Lanka or the Insurance Regulatory Commission of Sri Lanka, are eligible to issue these High-Yield Bonds,” the CSE said in a statement.
-
-“This ensures that regulated entities, including banks, non-banking financial institutions, and insurance companies, can participate in this new financing opportunity.”
-
-Trading will occur on the high-yield debt will be allowed on an Over-the-Counter (OTC) Platform, and will be restricted “qualified investors”.
-
-“These investors, similar to those in Basel III-compliant securities, are typically more experienced in managing risks,” the CSE said.
-
-...
-
-[Data](articles/6140a85b.json)
-
-[Extended Data](ext_articles/6140a85b.ext.json)
-
----
-
-### Ensure Freedom Of Expression: Jaffna University Teachers’ Association
-
-*2024-10-12 18:04:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ensure-freedom-of-expression-jaffna-university-teachers-association/) · `en`
-
-The University of Jaffna Teachers’ Association, in a statement condemning the recent smear campaign against fifteen academics of the University, has demanded the administration of the University to ensure freedom of expression within the University of Jaffna.
-
-On the 17th of October 2024, fifteen academics of the University of Jaffna put out a statement on the Presidential Elections 2024. The statement urged the Tamils and other minority communities to evaluate in a holistic manner the challenges facing the country and their communities following the economic crisis that started in 2022 and vote in the elections in an appropriate manner without isolating themselves from mainstream politics.
-
-The signatories of the statement underlined that voting or not voting in the presidential elections on the basis of Tamil nationalist aspirations may not be very helpful, while urging the people to reject the government at the time.
-
-...
-
-[Data](articles/88854a09.json)
-
-[Extended Data](ext_articles/88854a09.ext.json)
-
----
-
-### Landslide warnings extend
-
-*2024-10-12 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202094) · `si`
-
-National Building Research Organization extends landslide warnings for several areas. Alerts valid from 4:00 PM to 24 hours. Showers/thundershowers expected in Western, Sabaragamuwa, Southern, North Western, and Central provinces. Heavy rains possible in Western and Sabaragamuwa provinces. Strong winds and lightning risks advised. Public urged to take precautions against damage from temporary strong winds and lightning accidents.
-
-🟩
-
-The National Building Research Organization has taken steps to extend the alerts of landslide for several areas.
-
-The National Building Research Institute said that the warning notification is valid from 4.00 pm to 24 hours.
-
-Accordingly, under phases of Divisional Secretariats belonging to the Divisional Secretariats belonging to the following districts, as well as warning announcements have been issued under the 1 stage of 1.
-
-Kalutara District - Kallavita, Horana, Urana, Matugama, Matugama, Dodangoda, Bulathsinhala and Palindhan, Agalawatta
-
-Kegalle District - Ruwanwella, Yatiyantota, Dehiowita, Dehiowita, Bandaranawa, Kegalle, Mawanella, Aranayaka
-
-Ratnapura District - Eheliyagoda, Kiriella, ⁠ Ayalla, Kalawana, Ratnapura, Kuruwita
-
-Meanwhile, showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern, Southern, North Western and Central provinces.
-
-The Meteorological Department is valid for the next 36 hours.
-
-...
-
-[Data](articles/8513ee5f.json)
-
-[Extended Data](ext_articles/8513ee5f.ext.json)
 
 ---

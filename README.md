@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 13:39:32**
+As of **2024-10-13 13:58:34**
 
 ## Newspaper Stats
 
-*Scraped **49,218** Articles*
+*Scraped **49,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,815
 tamilmirrorlk | 6,710
 virakesarilk | 7,865
-adaderanasinhalalk | 8,513
+adaderanasinhalalk | 8,514
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,218 (100.0%) of 49,218 articles have been extended.
+49,219 (100.0%) of 49,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Is the liquor accident a suicide?
+
+*2024-10-13 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202114) · `si`
+
+Liquor accident investigation reveals 21-year-old man and 4-year-old son died at Kalutara South railway station. Police suspect suicide due to addiction and mental health issues.
+
+🟩
+
+The police are concerned about whether it was a suicide march at the Kalutara South, Katuranada Railway Station.
+
+The deceased has been identified as the 21 year old resident of Beliatiya to Maradana last night and was a 21-year-old father, and another 4-year-old man.
+
+The father and son will face the accident while staying on the second stage of the train and died in the accident.
+
+The two older people have died on the spot while admitted to the Nagoda hospital in Kalutara.
+
+Investigations carried out regarding the incident have revealed that the death of the dead 21-year-old man had come to the railway station with her boy to commit suicide.
+
+He is a drug addict and his wife is a mental disorder, police said.
+
+◼️
+
+[Data](articles/0587976e.json)
+
+[Extended Data](ext_articles/0587976e.ext.json)
+
+---
 
 ### Give jobs not to find work jobs - Dilith
 
@@ -2399,31 +2427,5 @@ He added that the decision was made due to the removal of the Chief Organizer of
 [Data](articles/32b599a7.json)
 
 [Extended Data](ext_articles/32b599a7.ext.json)
-
----
-
-### Split into parties due to national list issue?
-
-*2024-10-12 14:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பட்டியல்-பிரச்சினையால்-கட்சிகளுக்குள்-பிளவு/175-345317) · `ta`
-
-Parties split over national list disputes. Former ministers seeking spots without elections cause internal conflicts. Over 30 ex-ministers opting out due to financial issues, lack of confidence, and political disillusionment.
-
-🟩
-
-Political sources say that many former ministers have been trying to get the national list of their parties, and that the party has increased.
-
-The sources have attributed the conflict to some of the party leaders who have been nominated by party leaders for national lists.
-
-Former ministers representing most of the national people's power are reportedly trying to enter the national list without contesting the general election and have caused conflicts within the parties.
-
-Meanwhile, more than thirty former ministers have decided not to contest the upcoming general election for various reasons.
-
-Political sources say that the reason for not contesting the general election is the financial issue, the feeling of not winning and the disappointment of politics.. (That)
-
-◼️
-
-[Data](articles/673c6f7a.json)
-
-[Extended Data](ext_articles/673c6f7a.ext.json)
 
 ---

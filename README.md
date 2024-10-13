@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 22:56:52**
+As of **2024-10-13 23:08:55**
 
 ## Newspaper Stats
 
-*Scraped **49,301** Articles*
+*Scraped **49,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 5,825
 tamilmirrorlk | 6,724
 virakesarilk | 7,895
-adaderanasinhalalk | 8,532
+adaderanasinhalalk | 8,533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,301 (100.0%) of 49,301 articles have been extended.
+49,302 (100.0%) of 49,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### A profit from the North is confirmed with President
+
+*2024-10-13 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202133) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's President Anura Kumara Dissanayake discusses post-election plans, emphasizing the need for strong political power beyond parliamentary seats. He mentions meeting a northern political leader who expressed willingness to collaborate after the upcoming election.
+
+🟩
+
+President Anura Kumara Dissanayake said that he was preparing to work with the national community after the next general election.
+
+The President made this observation at a candidate in the National Power in Talawatugoda today.
+
+"We are traveling in a transit to the acquisition of strong political power.  සමහර තීන්දු තීරණ සමහර ක්‍රියාකාරිත්වයන් සඳහා මීට වඩා ප්‍රබල දේශපාලන බලයක් අපට අවශ්‍යයි.
+
+Mahinda Rajapaksa received 2/3 power in Parliament in 2010. They were defeated after 5 years. Gotabhaya received 2 / 3rd in 2020. However, the Season 2/3 of Parliament went to the Parliament. The president had to go home.
+
+Therefore, strong power is not just the amount of cosmetic in Parliament.
+
+We met a major political leader in the North.  ඔහු කිව්වා එළැඹෙන මහ මැතිවරණයෙන් පසුව ඔහුගේ කණ්ඩායම ජාතික ජන බලවේගය සමග වැඩකරන්න කැමතියි කියලා. And if they did not work with us, the people of the North were ready to work with us. "
+
+◼️
+
+[Data](articles/36d1e93d.json)
+
+[Extended Data](ext_articles/36d1e93d.ext.json)
+
+---
 
 ### Meeting vehicles without ownership
 
@@ -2287,25 +2319,5 @@ A worker, who was seriously injured in the collapse of the mirrors, died after b
 [Data](articles/d5bc4aa6.json)
 
 [Extended Data](ext_articles/d5bc4aa6.ext.json)
-
----
-
-### Cinnamon Air cross-connects Sri Lanka tourist hot spots
-
-*2024-10-13 11:14:00* · [`economynextcom`](https://economynext.com/cinnamon-air-cross-connects-sri-lanka-tourist-hotspots-ahead-of-season-183322/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cinnamon Air said it was widening its scheduled network from November 01, linking top tourist destinations with each other as the winter season starts, slashing cross country travel times.
-
-From November 01, new flights will connect Koggala and Hambantota with Kandy and Sigiriya in central Sri Lanka.
-
-“These cross-country flights are designed to enhance convenience and reduce travel time while ensuring an unparalleled experience for those who wish to explore Sri Lanka’s South Coast after visiting the Cultural Triangle or the Central Hill Country,” Cinnamon Air said in a statement.
-
-Passengers can now cross from the Cultural Triangle (through Sigiriya) or the Central Hill Country (through Kandy) to the South Coast in 40 to 50 minutes, compared to 6 to 7 hours on the road, Cinnamon Air said, giving more time to spend on leisure activities.
-
-...
-
-[Data](articles/963ec091.json)
-
-[Extended Data](ext_articles/963ec091.ext.json)
 
 ---

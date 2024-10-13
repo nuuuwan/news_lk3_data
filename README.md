@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 22:39:08**
+As of **2024-10-13 22:56:52**
 
 ## Newspaper Stats
 
-*Scraped **49,300** Articles*
+*Scraped **49,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,825
 tamilmirrorlk | 6,724
 virakesarilk | 7,895
-adaderanasinhalalk | 8,531
+adaderanasinhalalk | 8,532
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,300 (100.0%) of 49,300 articles have been extended.
+49,301 (100.0%) of 49,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Meeting vehicles without ownership
+
+*2024-10-13 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202132) · `si`
+
+Suspended vehicles seized: Nuwara Eliya police took a jeep from a former minister's home. Pelmadulla police found two vehicles in a garage. Opayaka police seized a luxury jeep not registered with the Department of Motor Traffic. Investigations ongoing.
+
+🟩
+
+Nuwara Eliya Police have taken a suspicious jeep that was parked at a house in Nuwara Eliya.
+
+The police said that the house of a former Cabinet minister had parked the vehicle at the time of the relative.
+
+Meanwhile, the Pelmadulla Police have taken a jeep and car in a garage in the Padezzarage area.
+
+Police have suspected that the vehicles were a politician in the Hambantota district and police are conducting further investigations.
+
+A luxury jeep that parked in a house in the Napanayake Pallekanda School Road, a luxury jeep in the Talacketiya area was taken by the Opayaka police on information received at the 1997 telephone number.
+
+The police said that the vehicle related to its chassis number has not been registered with the Department of Motor Traffic.
+
+◼️
+
+[Data](articles/d03cdd09.json)
+
+[Extended Data](ext_articles/d03cdd09.ext.json)
+
+---
 
 ### Recognition as a suicide railway accident of the Katukurunge
 
@@ -2279,39 +2307,5 @@ Passengers can now cross from the Cultural Triangle (through Sigiriya) or the Ce
 [Data](articles/963ec091.json)
 
 [Extended Data](ext_articles/963ec091.ext.json)
-
----
-
-### Shocking news about white creams
-
-*2024-10-13 11:10:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளையாக்கும்-கிரீம்கள்-குறித்து-அதிர்ச்சி-செய்தி/175-345350) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Warning: Online creams cause health issues. CAA advises caution against buying skincare products online due to lack of regulation and safety concerns."
-
-🟩
-
-The Consumer Affairs Authority (CAA) has said that more attention should be paid to when using creams and lotions that are sold on the Internet.
-
-The use of creams that make the skin on the Internet has caused many health problems.
-
-Consumer and Information Director of the Consumer Affairs Authority Asela Bandara also said that there is a problem with the rules imposed on the cosmetics trade.
-
-“Going to social media you see many ads come. A beautiful girl will come and say that this cream is used. We see this as an ad.
-
-There are occasions that are only the telephone number of the publisher of this ad. Sometimes the phone number, and the address is nothing.
-
-Especially if you use cream -like ingredients for the skin, if any problem is, nothing can be known.
-
-As far as the matter is concerned, women should be careful in ordering such things through social media, especially women. Said that we should have been away from using creams. Remble
-
-◼️
-
-[Data](articles/d335aeac.json)
-
-[Extended Data](ext_articles/d335aeac.ext.json)
 
 ---

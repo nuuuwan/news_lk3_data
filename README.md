@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 14:11:31**
+As of **2024-10-13 14:23:16**
 
 ## Newspaper Stats
 
-*Scraped **49,219** Articles*
+*Scraped **49,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,021
 dailyftlk | 3,334
-adalk | 4,567
+adalk | 4,568
 dailymirrorlk | 4,733
 adaderanalk | 5,815
-tamilmirrorlk | 6,710
+tamilmirrorlk | 6,711
 virakesarilk | 7,865
-adaderanasinhalalk | 8,514
+adaderanasinhalalk | 8,516
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,219 (100.0%) of 49,219 articles have been extended.
+49,223 (100.0%) of 49,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Floods released to lowlands around Kelani River risk extended
+
+*2024-10-13 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202116) · `si`
+
+Kelani River floods: Extended warning issued for 48 hours. Public and regional drivers in Kelaniya, Colombo, Wattala areas advised.
+
+🟩
+
+The Irrigation Department has taken steps to extend the flood warning issued for the Kelani River to the next 48 hours.
+
+Accordingly, the department calls on the public and regional drivers from the Kenenawa, Colombo and Wattala Divisional Secretariats belonging to the Kelaniya, Colombo and Wattala Divisional Secretariat areas.
+
+◼️
+
+[Data](articles/2891440d.json)
+
+[Extended Data](ext_articles/2891440d.ext.json)
+
+---
+
+### Educational authorities to open schools in Western school
+
+*2024-10-13 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202115) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Western Province Education Authorities debate opening schools amid inclement weather. Ministry of Education consults zonal directors on decision."
+
+🟩
+
+Western Province Education Authorities have been compelled to determine whether or not to open schools due to inclement weather.
+
+The Ministry of Education stated that it is to be discussed with zonal education directors.
+
+◼️
+
+[Data](articles/b0dec3d3.json)
+
+[Extended Data](ext_articles/b0dec3d3.ext.json)
+
+---
+
+### சிறையிலிருந்து ஸ்மார்ட் போன் மீட்பு
+
+*2024-10-13 14:01:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறையிலிருந்து-ஸ்மார்ட்-போன்-மீட்பு/175-345361) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Prisoners smuggle smart phones and devices. STF recovers phone, headset, and charger during raid."
+
+🟩
+
+Smart cell phone and several handheld equipment hidden near the rooms of the Booza High Security Prison. Sanjeewa Kumara Samaratne, Ganemulla Sanjeeva and Samantha Kumara, who are organized in the prison, have been detained.
+
+Special Task Force (STF) in the 44, 38 and 37 rooms in the Prison Special Division has recovered a mobile phone, hand free and charger from them during an emergency raid yesterday.
+
+◼️
+
+[Data](articles/bb7515d8.json)
+
+[Extended Data](ext_articles/bb7515d8.ext.json)
+
+---
 
 ### Is the liquor accident a suicide?
 
@@ -225,6 +293,28 @@ According to the police said that the vehicle was recovered and the vehicle was 
 [Data](articles/d3f55c76.json)
 
 [Extended Data](ext_articles/d3f55c76.ext.json)
+
+---
+
+### Police seized a jew rap in MP's cousin
+
+*2024-10-13 12:08:45* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රිගේ-ඥාති-නිවසක-ගාල්කර-තිබූ-ජිප්-රියක්-පොලිස්-භාරයට/11-412460) · `si`
+
+Nuwara Eliya Police seize suspicious petroleum jeep from former MP's cousin. Documents to be submitted to police station 13.
+
+🟩
+
+The Nuwara Eliya Police have seized a suspicious petroleum jeep that was parked in front of a house in Nuwara Eliya.
+
+The Nuwara Eliya Police stated that the jeep was held at a relative of a former member of the former MP and the Central Provincial Council.
+
+A senior official of the Nuwara Eliya police stated that all the documents related to the jeep will be submitted to the police (13) to the police.
+
+◼️
+
+[Data](articles/d268db49.json)
+
+[Extended Data](ext_articles/d268db49.ext.json)
 
 ---
 
@@ -2333,99 +2423,5 @@ In addition, a red warning has been issued on the risk of floods to the nearby a
 [Data](articles/09ccafc0.json)
 
 [Extended Data](ext_articles/09ccafc0.ext.json)
-
----
-
-### Gunmen kill 21 coal miners in troubled southwestern Pakistan
-
-*2024-10-12 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102635/gunmen-kill-21-coal-miners-in-troubled-southwestern-pakistan) · `en`
-
-Dozens of attackers armed with guns, rockets and hand grenades stormed a cluster of small private coal mines in southwestern Pakistan on Friday, slaying some miners in their sleep and shooting others after lining them up, killing at least 21 in the restive region, police said.
-
-The attack by around 40 armed men days before Pakistan hosts a summit of the Shanghai Co-operation Organization grouping is the worst in weeks in the mineral-rich province of Balochistan bordering Afghanistan and Iran.
-
-“The armed terrorists remained for around 1-1/2 hours in the mining area,” regional police official Asif Shafi told Reuters. “They fired rockets and hurled grenades at the mines and miners’ quarters.”
-
-There was no immediate claim of responsibility for the attack on the mines of the Junaid Coal Co in the Duki area, which also injured six.
-
-Among the dead were four Afghan nationals; another four were injured.
-
-...
-
-[Data](articles/f65b2a7c.json)
-
-[Extended Data](ext_articles/f65b2a7c.ext.json)
-
----
-
-### 8 suicide events a day in Sri Lanka
-
-*2024-10-12 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202085) · `si`
-
-Sri Lanka: 8 daily suicides. Psychiatrist warns parents about behavioral changes. Suicide rate ranks 21 globally. Support hotline: 1926 or 1333.
-
-🟩
-
-The Sri Lanka Medical Association revealed that there are about eight suicide events in the country.
-
-He held a news conference, psychiatrist said, parents should be careful to send a child to doctors immediately if there is a change in the behavior of a child.
-
-The Chairman of the Psychiaturi Medical Association, Dr. Sampan Amarasinghe said that Sri Lanka is in the 21st of the world with suicide events.
-
-However, the suicide tendency is still high in Sri Lanka, he said.
-
-Anuradha Herath, child and youthful child in Kalubowila Teaching Hospital speaking,
-
-"If suicide thoughts are down, 1926 or 1333 can speak to support services. Most important, give the advice to the child. "
-
-◼️
-
-[Data](articles/50c7fb63.json)
-
-[Extended Data](ext_articles/50c7fb63.ext.json)
-
----
-
-### Massive fall in the price of vegetables
-
-*2024-10-12 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196104) · `ta`
-
-Heavy rains cause vegetable prices to plummet. Green chilies: 400rs/kg, onions: 250rs/kg, potatoes: 160rs/kg. Other veggies also see significant drops.
-
-🟩
-
-The Vice President of the General Trade Association of the Peliyagoda Menning Market said that heavy rains have caused a massive drop in the price of vegetables.
-
-One kilogram is sold at 100 rupees, one kilogram of green chillies, one kilogram of curry chilli at 400 rupees, one kg pony 280 rupees, one kilogram of leaks 160 rupees, a kilo of Goa at 100 rupees and a kilo of tomatoes at 250 rupees.
-
-Meanwhile, one kilogram is sold at 350 rupees, one kilogram of radish 50 rupees, one kilogram of pudding at Rs.
-
-In addition, one kilogram of onion is Rs.He added that one kilogram of onion is sold at 250 rupees and a kilo of potatoes at 160 rupees.
-
-◼️
-
-[Data](articles/abec5f6c.json)
-
-[Extended Data](ext_articles/abec5f6c.ext.json)
-
----
-
-### Ajith Mannapperuma quit the general election
-
-*2024-10-12 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196105) · `ta`
-
-Ajith Mannapperuma quits general election due to removal of Chief Organizer from United People's Power Gampaha constituency.
-
-🟩
-
-Former parliamentarian Ajith Mannapperuma, who has filed a nomination for the United People's Power in the upcoming general election, has announced that he will quit the election.
-
-He added that the decision was made due to the removal of the Chief Organizer of the United People's Power Gampaha constituency.
-
-◼️
-
-[Data](articles/32b599a7.json)
-
-[Extended Data](ext_articles/32b599a7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 17:23:26**
+As of **2024-10-13 17:39:47**
 
 ## Newspaper Stats
 
-*Scraped **49,242** Articles*
+*Scraped **49,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,821
 tamilmirrorlk | 6,716
 virakesarilk | 7,867
-adaderanasinhalalk | 8,519
+adaderanasinhalalk | 8,520
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,242 (100.0%) of 49,242 articles have been extended.
+49,243 (100.0%) of 49,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Special protection to the capital of Pakistan
+
+*2024-10-13 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202121) · `si`
+
+Pakistan's Islamabad receives enhanced security measures due to political instability and violence. Authorities declare 3-day holiday for Shanghai Summit, set to begin on 15th. Indian External Affairs Minister and leaders from Russia and China to attend. Some parties express concerns about holding the conference amid unrest.
+
+🟩
+
+Steps have been taken to provide special security to the capital of Islamabad, Pakistan, to the capital of Shanghai Cooperation Organization.
+
+The political crises and violent events in that country take into account.
+
+Accordingly, the authorities have acted to announce three days holidays to the Shanghai Summit.
+
+The Shanghai Cooperation Conference will commence on the 15th and the Indian External Affairs Minister is scheduled to attend 16 countries including the Russian and Chinese Prime Minister.
+
+In Pakistan, there were many political crises and violence in Pakistan, and some parties have expressed their views that the situation is not a right environment for the conference.
+
+◼️
+
+[Data](articles/9c61e8e5.json)
+
+[Extended Data](ext_articles/9c61e8e5.ext.json)
+
+---
 
 ### Hirunika resigns as national organiser of SJB women’s wing
 
@@ -2355,33 +2381,5 @@ When I first heard of the movie release I was counting days and when it was fina
 [Data](articles/35e2b83a.json)
 
 [Extended Data](ext_articles/35e2b83a.ext.json)
-
----
-
-### Promote relief to the affected people - President
-
-*2024-10-12 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202095) · `si`
-
-President Anura Kumara Dissanayake instructs relief efforts for flood victims. Allocates Rs. 50 million from Ministry of Finance. 24,018 affected, 2,200 safe in 23 relief centers.
-
-🟩
-
-President Anura Kumara Dissanayake has instructed the officials to provide immediate relief to the affected people due to inclement weather conditions.
-
-President Anura Kumara Dissanayake has also asked the Secretary to the Ministry of Defense to support the protection of the people in distinguished districts and the development of the districts of the districts of districts.
-
-The President said that the government is working to provide relief to all people affected by the disaster due to the disaster.. The President is also requested to be inspected.
-
-The President has instructed the Ministry of Finance to allocate Rs. 50 million for this relief work.
-
-The Disaster Management Center (DMC) informs that 24,018 persons have been affected by the floods and leaders of 11 districts due to the adverse weather conditions that were affected by the island in the past few days.
-
-At least 2,200 people in 584 families have been held safely in 23 relief centers.
-
-...
-
-[Data](articles/fdcc2a9d.json)
-
-[Extended Data](ext_articles/fdcc2a9d.ext.json)
 
 ---

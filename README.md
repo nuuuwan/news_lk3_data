@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 14:57:44**
+As of **2024-10-13 15:08:46**
 
 ## Newspaper Stats
 
-*Scraped **49,226** Articles*
+*Scraped **49,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,021
 dailyftlk | 3,334
-adalk | 4,568
+adalk | 4,569
 dailymirrorlk | 4,733
 adaderanalk | 5,817
 tamilmirrorlk | 6,712
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,226 (100.0%) of 49,226 articles have been extended.
+49,227 (100.0%) of 49,227 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -149,6 +149,28 @@ The Ministry of Education stated that the authorities are advised to discuss wit
 [Data](articles/a2d26678.json)
 
 [Extended Data](ext_articles/a2d26678.ext.json)
+
+---
+
+### Uncle killed in uncle's mill trees
+
+*2024-10-13 13:48:42* · [`adalk`](https://www.ada.lk/breaking_news/මාමාගේ-මෝල්-ගස්-පහරින්-බැනා-මරුට/11-412461) · `si`
+
+Son-in-law killed in family dispute at uncle's sawmill. 44-year-old father of Wijay Kumara from Meegahawela. Attack occurred on Friday. Suspects arrested. Police investigation ongoing.
+
+🟩
+
+The son-in-law was killed by uncle as a dispute injuries.
+
+The attack was held on Friday on Friday on Friday on Friday.The deceased is the 44 year old father of the Wijay Kumara of Meegahawela.
+
+The death inspection has been arrested by the death of the death by the suspects of the assault of the scalp and base.Quote SLC Inspector General Inspector Chief Inspector Chief Inspector General of Police Jayakody.
+
+◼️
+
+[Data](articles/426e6422.json)
+
+[Extended Data](ext_articles/426e6422.ext.json)
 
 ---
 
@@ -2383,27 +2405,5 @@ It has been further reported that trains on the line will be terminated at Lunuw
 [Data](articles/77614a11.json)
 
 [Extended Data](ext_articles/77614a11.ext.json)
-
----
-
-### Railway operation obstructed
-
-*2024-10-12 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202089) · `si`
-
-Puttalam railway line train service disrupted due to rain. Limited transport to Lunuwila. Operations resume at 1 pm today.
-
-🟩
-
-The train on the Puttalam railway line has been interrupted due to the rain.
-
-According to the Railway Department, Railway Transport will be done only to Lunuwila.
-
-It is also reported that the railway operations will be implemented from 1 noon to be resumed today (12).
-
-◼️
-
-[Data](articles/b4764809.json)
-
-[Extended Data](ext_articles/b4764809.ext.json)
 
 ---

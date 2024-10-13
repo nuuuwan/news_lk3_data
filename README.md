@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 00:23:44**
+As of **2024-10-14 00:39:05**
 
 ## Newspaper Stats
 
-*Scraped **49,305** Articles*
+*Scraped **49,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 491
 bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,023
-dailyftlk | 3,334
+dailyftlk | 3,336
 adalk | 4,576
 dailymirrorlk | 4,733
 adaderanalk | 5,825
@@ -26,11 +26,45 @@ adaderanasinhalalk | 8,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,305 (100.0%) of 49,305 articles have been extended.
+49,307 (100.0%) of 49,307 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-10-14 (Monday)
+
+### Exterminators launches IoT Digi-Pest-Tech in South Asia
+
+*2024-10-14 00:15:56* · [`dailyftlk`](https://www.ft.lk/business/Exterminators-launches-IoT-Digi-Pest-Tech-in-South-Asia/34-767921) · `en`
+
+Exterminators PLC, in technical collaboration with Pest Scan BV, Netherlands, and Sentario UK Ltd., has launched IoT in pest management in South Asia. Through constant innovation, creative strategic disruption, and in-depth research, Exterminators PLC has developed a system to transform the industry by designing, developing, crafting, articulating, and amalgamating the world’s best preventive pest tech tools, devices, components, and technologies, powered by IoT, AI, and machine learning, while balancing trade-offs between people, profit, and the planet.
+
+This unique approach combines a diverse range of tools, devices, components, and technologies to proactively prevent and manage pest risks while simultaneously minimising the environmental impact.
+
+...
+
+[Data](articles/fd296660.json)
+
+[Extended Data](ext_articles/fd296660.ext.json)
+
+---
+
 ### 2024-10-13 (Sunday)
+
+### Time to drain the swamp
+
+*2024-10-13 23:42:12* · [`dailyftlk`](https://www.ft.lk/columns/Time-to-drain-the-swamp/4-767910) · `en`
+
+The people must realise though that with AKD at the helm only half the battle is won. He needs the people’s mandate to control the parliament. He must have an able crew to help him navigate the choppy waters ahead. At this point the NPP are doggedly sticking to their plan of nominating qualified and capable individuals to attract the attention of the voters. Already the names of high profile academics and professionals are emerging as candidates. This is leading the other parties to scramble and gather similar types to represent them and mirror the opposite camp. At least one thing is guaranteed – an increase in the IQ and capability of the next parliament which will be like none before
+
+The opportunity to make significant change in Sri Lanka’s political, economic and governance landscape
+
+...
+
+[Data](articles/96d716c5.json)
+
+[Extended Data](ext_articles/96d716c5.ext.json)
+
+---
 
 ### West Indies are easy
 
@@ -2273,47 +2307,5 @@ Most of them are contesting from the Colombo district that its Director General 
 [Data](articles/5e0e54ef.json)
 
 [Extended Data](ext_articles/5e0e54ef.ext.json)
-
----
-
-### Severe weather affects over 76,000 people across 11 districts
-
-*2024-10-13 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102645/severe-weather-affects-over-76000-people-across-11-districts) · `en`
-
-The Disaster Management Centre (DMC) reports that severe weather conditions, including floods, strong winds, and fallen trees, have affected 76,218 individuals from 18,795 families across 11 districts in Sri Lanka.
-
-The Gampaha District has been the hardest hit, with 68,672 people from 16,707 families impacted.
-
-Tragically, the disaster has claimed two lives, while two others have sustained injuries. Additionally, 223 houses have suffered partial damage, according to the DMC.
-
-Meanwhile, the Irrigation Department noted a decrease in water levels for the Attanagalu Oya, Kelani, Gin, Nilwala, and Kalu rivers, following minimal rainfall over the past 24 hours. However, Irrigation Engineer from the Hydrology and Disaster Management Division, Mrs. Sakura Dilthara cautioned that some areas remain submerged.
-
-...
-
-[Data](articles/df584e06.json)
-
-[Extended Data](ext_articles/df584e06.ext.json)
-
----
-
-### Flood released on Attanagalu Oya is extended
-
-*2024-10-13 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202112) · `si`
-
-Flood warning extended: Attanagalu Oya basin alert until 11th morning. Irrigation Department extends warning for 48 hours. Affected areas: Kelaniya, Biyagama, Colombo, Wattala.
-
-🟩
-
-The flood warning notification issued for the Attanagalu Oya basin has been extended to the 11th morning.
-
-Accordingly, the Irrigation Department has taken steps to extend the warning for the next 48 hours.
-
-Accordingly, 48 hours for the next 48 hours, the people of the Kelaniya, Biyagama, Colombo and Wattala Divisional Secretariats belonging to the Kelani River Valley, Colombo and WattalaDemand the department.
-
-◼️
-
-[Data](articles/99821c6d.json)
-
-[Extended Data](ext_articles/99821c6d.ext.json)
 
 ---

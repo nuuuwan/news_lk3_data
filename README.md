@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 22:23:45**
+As of **2024-10-13 22:39:08**
 
 ## Newspaper Stats
 
-*Scraped **49,298** Articles*
+*Scraped **49,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 3,021
 dailyftlk | 3,334
 adalk | 4,576
 dailymirrorlk | 4,733
-adaderanalk | 5,824
+adaderanalk | 5,825
 tamilmirrorlk | 6,724
 virakesarilk | 7,895
-adaderanasinhalalk | 8,530
+adaderanasinhalalk | 8,531
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,298 (100.0%) of 49,298 articles have been extended.
+49,300 (100.0%) of 49,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Recognition as a suicide railway accident of the Katukurunge
+
+*2024-10-13 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202131) · `si`
+
+Train accident at Katukurunda Railway Station: 21-year-old suspected suicide victim collides with train after neighbor tries to intervene. Two elderly people die instantly; child survives. Police investigation reveals deceased was drug addict with mental health issues.
+
+🟩
+
+The police have revealed that the train accident was a result of suicide yesterday (12) at the Katukurunda Railway Station in Kalutara yesterday.
+
+Police suspect the 21 year old man who died of the incident was also taken to the train, and the neighboring person collided with the train when trying to prevent it.
+
+The 21-year-old Youth Asanka, who was the Nagoda, was the 49 year old infant.
+
+The deceased is Asanka has arrived at the railway station, who had come to the house to the residents that the train had been committing suicide and was Roshan Janaka soon.
+
+While he was staying on the train platform with Asanka, he tried to remove them, but said that all three collided with the train.
+
+The two older people died on the spot while the child was killed in admission to the Nagoda hospital in Kalutara.
+
+Investigations of the Kalutara Police have revealed that the dead 21 year old is a drug addict and the wife is a mental disorder.
+
+...
+
+[Data](articles/41aec33e.json)
+
+[Extended Data](ext_articles/41aec33e.ext.json)
+
+---
 
 ### National Production for Derana 19th Anniversary
 
@@ -61,6 +91,28 @@ Meanwhile, veteran cricketers Rosmadda Vaas also joined hands with this program.
 [Data](articles/b99dad7e.json)
 
 [Extended Data](ext_articles/b99dad7e.ext.json)
+
+---
+
+### Cinnamon Air to launch cross-country domestic flights in Sri Lanka
+
+*2024-10-13 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102658/cinnamon-air-to-launch-cross-country-domestic-flights-in-sri-lanka-) · `en`
+
+Sri Lankan domestic airline Cinnamon Air has recently announced the launch of two new daily scheduled flights connecting Kandy and Sigiriya with South Coast destinations Koggala and Hambantota.
+
+These flights are set to commence on November 01, 2024 and will operate until April 30, 2025.
+
+The flights are strategically timed to cater to the influx of foreign travellers during the winter holiday season.
+
+These cross-country flights are designed to enhance convenience and reduce travel time while ensuring an unparalleled experience for those who wish to explore Sri Lanka’s South Coast after visiting the Cultural Triangle or the Central Hill Country.
+
+The routes are serviced by Cinnamon Air’s fleet of Cessna 208 aircraft, and the route from Kandy to the South coast is served by the amphibian variation, offering a unique travel experience involving taking off on water.
+
+◼️
+
+[Data](articles/fcc4727f.json)
+
+[Extended Data](ext_articles/fcc4727f.ext.json)
 
 ---
 
@@ -2261,57 +2313,5 @@ As far as the matter is concerned, women should be careful in ordering such thin
 [Data](articles/d335aeac.json)
 
 [Extended Data](ext_articles/d335aeac.ext.json)
-
----
-
-### Sanjeewa and Wele Suda have been found in the cell
-
-*2024-10-13 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202111) · `si`
-
-Police Special Task Force discovered phones and devices hidden in cells during raid on Colombo High Security Prison. Organized criminals and drug dealers arrested, including Sanjeewa Kumara Sanjeeratne and Samantha Kumara alias Wele Suda. Devices seized for further investigation.
-
-🟩
-
-The Police Special Task Force has found a telephone and telephone segment hidden behind the pride of organized criminals and drug dealers.
-
-The Special Task Force (STF) was conducted in several prison in the Colombo High Security Prison yesterday (13).
-
-The STF said that organized criminals and drug dealers, Sanjeewa Kumara Sanjeeratne, alias Ganemulla, is hidden in the back of Sanjeera, Ganemulla.
-
-Samantha Kumara aliado the Weell Suda has been hidden in the back of the prison.
-
-The selected telephones and devices were handed over to the prison manager for further investigations.
-
-◼️
-
-[Data](articles/c18aa085.json)
-
-[Extended Data](ext_articles/c18aa085.ext.json)
-
----
-
-### "I can work even if you sit down"
-
-*2024-10-13 10:57:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமர்ந்திருந்தும்-என்னால்-பணியாற்ற-முடியும்/175-345349) · `ta`
-
-Sri Lanka SLPP includes Gamini Lokuke in National List despite health issues. She says "I can work even if you sit down" emphasizing ability to perform duties from any position. Party focuses on organizational tasks rather than direct election campaigning.
-
-🟩
-
-Senior politician and former parliamentarian Gamini Lokuke said she did not contest because her body did not allow her to contest the general election this time.
-
-However, Lokuke's name is added to the party's national organizer Namal Rajapaksa on the National List of the Sri Lanka PA (SLPP).
-
-உடல் குறைபாடுகள் இருந்தபோதிலும் தேசியப்பட்டியலில் சேர்க்கப்பட்டுள்ளமை தொடர்பில் ஊடகவியலாளர்கள் கேள்வி எழுப்பிய போது, ​​லொகுகே, அமர்ந்திருந்தும் தன்னால் பணியாற்ற முடியும் என பதிலளித்தார்.
-
-He further explained that the party's decision was to include Namal Rajapaksa on the national list and that he should not contest the election.
-
-He added that Rajapakse was responsible for organizing the tasks in the 224 constituencies, and that the party members were asked to focus on those responsibilities instead of contesting.
-
-◼️
-
-[Data](articles/65045403.json)
-
-[Extended Data](ext_articles/65045403.ext.json)
 
 ---

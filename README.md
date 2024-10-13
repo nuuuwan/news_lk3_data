@@ -1,36 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 20:57:45**
+As of **2024-10-13 21:23:27**
 
 ## Newspaper Stats
 
-*Scraped **49,289** Articles*
+*Scraped **49,293** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
-colombotelegraphcom | 490
+colombotelegraphcom | 491
 bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,021
 dailyftlk | 3,334
-adalk | 4,574
+adalk | 4,575
 dailymirrorlk | 4,733
 adaderanalk | 5,823
-tamilmirrorlk | 6,723
+tamilmirrorlk | 6,724
 virakesarilk | 7,895
-adaderanasinhalalk | 8,526
+adaderanasinhalalk | 8,527
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,289 (100.0%) of 49,289 articles have been extended.
+49,293 (100.0%) of 49,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Another telephone candidate quit
+
+*2024-10-13 20:44:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-டெலிபோன்-வேட்பாளர்-விலகினார்/175-345397) · `ta`
+
+Karunaratne Paranavithana quits election campaign, appeals against voting. Former parliamentarian withdraws as United People's Shakti Ratnapura district candidate.
+
+🟩
+
+Former parliamentarian Karunaratne Paranavithana, the United People's Shakti Ratnapura district candidate, has also withdrawn from the general election campaign.
+
+He has also appealed to the people not to vote for the election.
+
+◼️
+
+[Data](articles/962a3820.json)
+
+[Extended Data](ext_articles/962a3820.ext.json)
+
+---
+
+### Legal action against President's candidates who did not report expenditure
+
+*2024-10-13 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202127) · `si`
+
+Elections Commission warns candidates about late expense reporting. Legal action threatened for non-compliance. Candidates rush to submit reports before deadline. Elpitiya PSC election scheduled for October 26.
+
+🟩
+
+30 candidates who have come forward to the presidential election have been handed over to the Elections Commission.
+
+A spokesman said that the candidates had handed over the reports by the afternoon.
+
+The time to provide the expenditure reports of the presidential election will end in 12 midnight today.
+
+The Elections Commission states that legal action will be taken against the candidates who do not provide reports during that period.
+
+Accordingly, candidates and political parties have come to the Elections Commission to provide their expenditure reports today.
+
+The Elections Commission said that 24 political parties and independent groups who have been presented to the presidential election have also been given their expenses.
+
+මේ අතර ඇල්පිටිය ප්‍රාදේශීය සභා ඡන්ද විමසීමට අදාළ තැපැල් ඡන්ද සලකුණු කිරීමේ කටයුතු හෙට (14) දිනයේ සිදුකිරීමට නියමිතව ඇත.
+
+The Elections Commission states that the election will be held on the 18th of this month.
+
+The Elpitiya PSC election will be held on October 26.
+
+◼️
+
+[Data](articles/8ece59f2.json)
+
+[Extended Data](ext_articles/8ece59f2.ext.json)
+
+---
 
 ### Another Chinese nationals arrested
 
@@ -461,6 +515,30 @@ Mahela Jayawardene won the Championship on three occasions as the Chief Coach.
 [Data](articles/a919eea1.json)
 
 [Extended Data](ext_articles/a919eea1.ext.json)
+
+---
+
+### Schools closed in three Western Province
+
+*2024-10-13 18:47:00* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-අධ්‍යාපන-කොට්ඨාස-තුනක-පාසල්-හෙට-වැසෙයි/11-412467) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Colombo, Gampaha, and Wattala districts' schools closed due to bad weather. All educational institutions in these areas will remain shut tomorrow."
+
+🟩
+
+The education officials have taken steps to close several schools in Colombo and Gampaha districts due to the inclement weather.
+
+All schools in the Colombo District and all schools in the Gampaha District and all schools in the Wattala University of Gampaha District will be closed tomorrow.
+
+◼️
+
+[Data](articles/aa630507.json)
+
+[Extended Data](ext_articles/aa630507.ext.json)
 
 ---
 
@@ -1251,6 +1329,20 @@ He added that all schools are closed tomorrow in the Wattala Educational Divisio
 [Data](articles/b4a2f1e1.json)
 
 [Extended Data](ext_articles/b4a2f1e1.ext.json)
+
+---
+
+### Video: First Political Speech Made By President Anura Kumara Dissanayake
+
+*2024-10-13 15:16:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/video-first-political-speech-made-by-president-anura-kumara-dissanayake/) · `en`
+
+Video: First Political Speech Made By President Anura Kumara Dissanayake;
+
+◼️
+
+[Data](articles/8997d716.json)
+
+[Extended Data](ext_articles/8997d716.ext.json)
 
 ---
 
@@ -2219,113 +2311,5 @@ They also indicated that legal action will be pursued against any candidates who
 [Data](articles/5b75e6a4.json)
 
 [Extended Data](ext_articles/5b75e6a4.ext.json)
-
----
-
-### May be raining or thunderstorm in some areas
-
-*2024-10-13 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196138) · `ta`
-
-Heavy rain/thunderstorms forecasted in central, western provinces and coastal areas. Strong winds and rough seas expected. Public advised to remain vigilant.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that frequent rainfall or thunderstorms are expected in the Central, Sabaragamuwa, Upper, North Western and Northern Provinces, as well as in the Galle and Matara districts.
-
-Showers or thunderstorms can occur in the evening or night in many parts of the country.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
-
-The sea will blow from the west to the southwest at 25 - 35 km / h in the sea regions from Mannar to Colombo, Galle and Hambantota.
-
-Frequent winds may increase at 50 - 60 km / h in the sea regions from Galle to Matara to Matara.. In these cases, these sea regions are turbulent.
-
-The winds may increase at 45 km / h in the sea regions from Mannar to Colombo to Colombo.. In these cases, these sea regions are somewhat turbulent.
-
-...
-
-[Data](articles/1eb1aa5e.json)
-
-[Extended Data](ext_articles/1eb1aa5e.ext.json)
-
----
-
-### Awareness on skin whiting coatings
-
-*2024-10-13 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202110) · `si`
-
-Here's a 200-character summary:
-
-
-
-Consumer Affairs Authority warns against skin whitening creams. Director Asela Bandara states health issues arise from unregulated products. Social media ads lack proper contact details, raising concerns about safety and legality.
-
-🟩
-
-The Consumer Affairs Authority (CAA) says that it should be more concerned with the use of peeling peers and liquid.
-
-The Consumer and Information Director Asela Bandara said that the use of health problems have been caused by the use of healthy skin online.
-
-Consumer and Information Director Asela Bandara stated that there is problems regarding the regulations of the coatings of coatings.
-
-"If you go to social media, the commercials come from a very beautiful woman, he can offer a creamy type of cream. We see it as a commercial.
-
-There may be chances of the fact that you only have only a phone number that you admit that. Sometimes no phone number, no address. Especially if we use such problems, we use any problem, we have sold this product.
-
-Our women are particularly concerned about the fact that this kind of order is available in the social media. We should quit using the type of cream coatings, especially the cream. "
-
-◼️
-
-[Data](articles/73c56030.json)
-
-[Extended Data](ext_articles/73c56030.ext.json)
-
----
-
-### Sri Lanka - West Indies first T20 match today
-
-*2024-10-13 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202109) · `si`
-
-Sri Lanka vs West Indies T20 series: First match today at Rangiri Dambulla Stadium. Sri Lanka leads 8-7, but hasn't won a 20-run match. Key players: Charan Weththasinghe, Pathum Nissanka, Kusal Mendis, Bhanuka Rajapaksa, Asitha Fernando.
-
-🟩
-
-Sri Lanka and the West Indies team consisting of three matches with the West Indies and the first match will be held today at Rangiri Dambulla Stadium today.
-
-The two countries have operated 20 and 15 runs, while Sri Lanka won eight matches won the West Indies win over 7 matches.
-
-However, a group of Sri Lankan team has not yet won 20 and 20 tournaments.
-
-Meanwhile, the Sri Lankan team who played the match against today was declared.
-
-The group is the leader Charath, Welhika Mendis, Kusal Mendis, Bhanuka Rajapaksa, Mehirin Wickremasinghe, Mehirin Wickraman, Mehikin Wickremasinghe, Mehirin Wickraman, and Asitha Fernando.
-
-◼️
-
-[Data](articles/182055f4.json)
-
-[Extended Data](ext_articles/182055f4.ext.json)
-
----
-
-### French program begins
-
-*2024-10-13 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202108) · `si`
-
-French program starts. Blood donation event marks Derana Media Network's 19th anniversary. Live broadcast from 9 AM to 12 PM educates public about cell generation process.
-
-🟩
-
-Another national requirement performed on behalf of the 19th anniversary of the Derana Media Network, the "Kingdom" program to donate blood generating cells will be held today (13).
-
-Steps have been taken to telecast live a three-hour growth of the three-hour growth of the nation to educate the nation this morning from 9 am to 12 noon.
-
-◼️
-
-[Data](articles/d87855ce.json)
-
-[Extended Data](ext_articles/d87855ce.ext.json)
 
 ---

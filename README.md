@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 01:58:01**
+As of **2024-10-14 02:09:02**
 
 ## Newspaper Stats
 
-*Scraped **49,321** Articles*
+*Scraped **49,322** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 400
-colombotelegraphcom | 491
 bbccomsinhala | 491
+colombotelegraphcom | 492
 islandlk | 2,916
 economynextcom | 3,023
 dailyftlk | 3,346
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,321 (100.0%) of 49,321 articles have been extended.
+49,322 (100.0%) of 49,322 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -635,6 +635,20 @@ According to the Irrigation Department reports, Kelani Ganga is still in small f
 [Data](articles/af55482a.json)
 
 [Extended Data](ext_articles/af55482a.ext.json)
+
+---
+
+### IPS’s SOE 2024: Manual Of Growth Strategies For AKD
+
+*2024-10-13 20:07:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ipss-soe-2024-manual-of-growth-strategies-for-akd/) · `en`
+
+Sri Lanka’s State of the Economy for 2024, known as SOE 24, has been released by the Institute of Policy Studies or IPS in early October 2024. This is an early bird because it is the first comprehensive analysis of the state of the economy. The other two documents on the economy, the Central Bank’s Annual Economic Review and the Finance Ministry’s Annual Report are to be released in the early part of the next year. Hence, for anyone to learn of the current state of the economy and its future direction, this is the best document available.
+
+...
+
+[Data](articles/287ae52a.json)
+
+[Extended Data](ext_articles/287ae52a.ext.json)
 
 ---
 
@@ -2263,33 +2277,5 @@ The death inspection has been arrested by the death of the death by the suspects
 [Data](articles/426e6422.json)
 
 [Extended Data](ext_articles/426e6422.ext.json)
-
----
-
-### Is the liquor accident a suicide?
-
-*2024-10-13 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202114) · `si`
-
-Liquor accident investigation reveals 21-year-old man and 4-year-old son died at Kalutara South railway station. Police suspect suicide due to addiction and mental health issues.
-
-🟩
-
-The police are concerned about whether it was a suicide march at the Kalutara South, Katuranada Railway Station.
-
-The deceased has been identified as the 21 year old resident of Beliatiya to Maradana last night and was a 21-year-old father, and another 4-year-old man.
-
-The father and son will face the accident while staying on the second stage of the train and died in the accident.
-
-The two older people have died on the spot while admitted to the Nagoda hospital in Kalutara.
-
-Investigations carried out regarding the incident have revealed that the death of the dead 21-year-old man had come to the railway station with her boy to commit suicide.
-
-He is a drug addict and his wife is a mental disorder, police said.
-
-◼️
-
-[Data](articles/0587976e.json)
-
-[Extended Data](ext_articles/0587976e.ext.json)
 
 ---

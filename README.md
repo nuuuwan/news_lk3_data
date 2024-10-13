@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 18:43:35**
+As of **2024-10-13 18:58:30**
 
 ## Newspaper Stats
 
-*Scraped **49,259** Articles*
+*Scraped **49,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,91 @@ dailyftlk | 3,334
 adalk | 4,572
 dailymirrorlk | 4,733
 adaderanalk | 5,822
-tamilmirrorlk | 6,722
-virakesarilk | 7,873
+tamilmirrorlk | 6,723
+virakesarilk | 7,875
 adaderanasinhalalk | 8,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,259 (100.0%) of 49,259 articles have been extended.
+49,262 (100.0%) of 49,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Boat collapsed
+
+*2024-10-13 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/196206) · `ta`
+
+A person died after a boat capsized in Kelanimullai, Mulleriya police division. The victim was on a boat trip to see flooded areas when it sank.
+
+🟩
+
+Mulleria police said that a person was drowned in a boat crash in the Kelanimullai area belonging to the Mulleriya police division.
+
+இந்த நபர் சிலருடன் வெள்ளம் சூழ்ந்த பகுதிகளை பார்வையிடுவதற்காக படகில் பயணித்த போதே படகு கவிழ்ந்துள்ளது.
+
+◼️
+
+[Data](articles/a27ee98a.json)
+
+[Extended Data](ext_articles/a27ee98a.ext.json)
+
+---
+
+### "Political retirement has been introduced"
+
+*2024-10-13 18:27:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-ஓய்வை-அறிமுகப்படுத்த-முடிந்துள்ளது/175-345384) · `ta`
+
+Sri Lanka's NPP government denies retiring defeated or deceased politicians. President claims opposition's pre-election predictions failed, including fuel shortages and currency devaluation.
+
+🟩
+
+President Anura Kumara Dissanayake today said that none of the politicians who lost or died in the election have been retired by the National People's Power (NPP) government in Sri Lankan politics.
+
+Speaking among the NPP candidates contesting the general election, the president said that such circumstances are changes.
+
+“Most of the former MPs are out of the election campaign this time. This is the change of people's expected people. ”
+
+The President said that the NPP government had been able to prove that the false accusations leveled by the opposition during the presidential campaign were false 21 days before the end of 21 days.
+
+He said there was no slogans for the general election in the opposition camp.
+
+“Opposition camp has made false criticism against us. They said that after the NPP victory, there would be conflicts and there would be gas and fuel rows.
+
+They claimed that the rupee would be reduced to the US dollar and that Sri Lanka was an isolated country internationally.
+
+...
+
+[Data](articles/eff0fe5d.json)
+
+[Extended Data](ext_articles/eff0fe5d.ext.json)
+
+---
+
+### One arrested with 1000 drug pills in Kalkisa
+
+*2024-10-13 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/196172) · `ta`
+
+Kalkisa police arrest 32-year-old man with 1000 drug pills at Odion Junction. Raid conducted based on Malkisa CID tip. Suspect from Dehiwala.
+
+🟩
+
+Police arrested a suspect with drug pills at the Odion Junction, which belongs to the Mount Lavinia Police Division, on Saturday (12).
+
+He was arrested during a raid carried out on the basis of information received by officials of the Malkisa Criminal Investigation Division.
+
+The suspect was 32 years old from Dehiwala.
+
+◼️
+
+[Data](articles/bfa9a839.json)
+
+[Extended Data](ext_articles/bfa9a839.ext.json)
+
+---
 
 ### Schools closed in several education zones on Monday and Tuesday
 
@@ -2267,75 +2339,5 @@ An investigation into the accident has been launched and a special committee has
 [Data](articles/fffdb62f.json)
 
 [Extended Data](ext_articles/fffdb62f.ext.json)
-
----
-
-### Timeline until tomorrow for presidential candidates
-
-*2024-10-12 21:28:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்களுக்கு-நாளை-வரை-காலக்கெடு/175-345327) · `ta`
-
-Presidential candidates deadline: Submit propaganda reports by 3 PM tomorrow. Only 13 out of 38 candidates have filed so far. Field Marshal Sarath Fonseka, Vijayadasa Rajapaksa, and Janaka Ratnayake have complied.
-
-🟩
-
-The presidential candidates have been granted time to submit their propaganda income and cost reports till 3 pm tomorrow (13).
-
-Of the 38 candidates who contested the presidential election, only 13 have submitted reports to the rules of the Commission.
-
-Field Marshal Sarath Fonseka, Vijayadasa Rajapaksa, and Janaka Ratnayake have submitted reports. (That)
-
-◼️
-
-[Data](articles/217a3491.json)
-
-[Extended Data](ext_articles/217a3491.ext.json)
-
----
-
-### Sivaram assassination - Lalit Kugan missing
-
-*2024-10-12 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196135) · `ta`
-
-Sivaram assassination: Police investigate Lalith Kugan's disappearance. Public Security Ministry orders probe into Central Bank bailout. Death of police officer reported near Dabiley 15 Hotel in Weligama.
-
-🟩
-
-The Ministry of Public Security has ordered the police to expedite investigations into the disappearance of Lalith Kugan Lalit Kugan, the Mass of Dharmaratnam.
-
-The Public Security Ministry has requested the Central Bank to intensify investigations into the Central Bank bailout.
-
-The police spokesman said that the Public Security Response Chancellor has been asked to work with the CIT and the appropriate police on these incidents.
-
-The Defense Ministry has ordered the death of a police officer in the shooting near Dabiley 15 Hotel in Weligama
-
-◼️
-
-[Data](articles/c96a8165.json)
-
-[Extended Data](ext_articles/c96a8165.ext.json)
-
----
-
-### Initiative to improve national security awareness
-
-*2024-10-12 21:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பாதுகாப்பு-விழிப்புணர்வை-மேம்படுத்த-புதிய-திட்டம்-ஆரம்பம்/175-345326) · `ta`
-
-National security alert system: Defense Ministry launches direct mobile notifications for emergencies and human trafficking updates, collaborating with telcos and TRA.
-
-🟩
-
-A plan to send important information on national security directly to the mobile phones will be launched.
-
-Defense Ministry spokesman Colonel Nalin Herath said the scheme would provide immediate notifications during emergency circumstances.
-
-In addition, the scheme will be implemented in order to obtain information on human trafficking.
-
-It is noteworthy that the initiative will be implemented with the cooperation of the telephone service providers and the Telecommunication Regulatory Authority.. (That)
-
-◼️
-
-[Data](articles/f6edea41.json)
-
-[Extended Data](ext_articles/f6edea41.ext.json)
 
 ---

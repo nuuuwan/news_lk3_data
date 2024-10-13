@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 21:39:07**
+As of **2024-10-13 21:58:23**
 
 ## Newspaper Stats
 
-*Scraped **49,293** Articles*
+*Scraped **49,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,021
 dailyftlk | 3,334
-adalk | 4,575
+adalk | 4,576
 dailymirrorlk | 4,733
-adaderanalk | 5,823
+adaderanalk | 5,824
 tamilmirrorlk | 6,724
 virakesarilk | 7,895
-adaderanasinhalalk | 8,527
+adaderanasinhalalk | 8,528
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,293 (100.0%) of 49,293 articles have been extended.
+49,296 (100.0%) of 49,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### 180 runs in Sri Lanka
+
+*2024-10-13 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202129) · `si`
+
+Sri Lanka cricket match summary: 180 runs scored, 7 wickets lost, 59 runs from opener, 39 runs in last 4 overs, West Indies bowler takes 2 wickets.
+
+🟩
+
+Sri Lanka and Buddhism. Sri Lanka scored 179 runs for the loss of 7 wickets in their 20 overs.
+
+Sri Lanka's innings scored 59 off 35 balls, with 51 runs.
+
+Romeo Zerved took 2 wickets for West Indies. However, Sri Lankan batsmen scored 39 runs for the 4th four overs.
+
+◼️
+
+[Data](articles/23fd56e9.json)
+
+[Extended Data](ext_articles/23fd56e9.ext.json)
+
+---
+
+### Jayawardene returns as Mumbai Indians head coach ahead of IPL 2025
+
+*2024-10-13 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102657/jayawardene-returns-as-mumbai-indians-head-coach-ahead-of-ipl-2025) · `en`
+
+Mahela Jayawardene has been re-appointed as the head coach of the Mumbai Indians after spending the last two years as the franchise’s global head of cricket, the Indian Premier League (IPL) team said on Sunday.
+
+The former Sri Lanka captain has been one of the most successful coaches in the Twenty20 league format, having guided the five times IPL champions to three titles during his initial tenure.
+
+Jayawardene, 47, previously held the head coach role from 2017 to 2022. After Jayawardene’s promotion to the global role, Mumbai Indians had appointed former South Africa wicketkeeper Mark Boucher as head coach.
+
+The franchise finished last in the IPL in 2024 and fourth in 2023 with Boucher at the helm.
+
+...
+
+[Data](articles/1bfd6b80.json)
+
+[Extended Data](ext_articles/1bfd6b80.ext.json)
+
+---
 
 ### Another telephone candidate quit
 
@@ -359,6 +401,28 @@ Video, footage and photos have been sent to the media and the police have asked 
 [Data](articles/f856cb4e.json)
 
 [Extended Data](ext_articles/f856cb4e.ext.json)
+
+---
+
+### Milk, harasses, removed from accountability
+
+*2024-10-13 19:04:52* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකත්-කළ-කිරෙයි--සජබ-වගකිම්වලින්-ඉවතට/11-412468) · `si`
+
+Hirunika Premachandra resigns as National Organizer of Women's Society. Cites association's defeat and allegations against Sajith Premadasa. Decides to focus on personal future.
+
+🟩
+
+Ms. Hirunika Premachandra has decided to leave the post of National Organizer Hirunika Premachandra, the Women's Society of the Society forces.She has sent his resignation letter to the Secretary General of the people's power Ranjith Madduma Bandara.
+
+Ms. Hirunika Premachandra said that he had decided to leave all the responsibilities of the Vanitorician force, even in Colombo today (13).
+
+She said that the decision was taken by the association of the last presidential defeat and that they had taken place in the defeat and that they had taken the same decision due to the allegation of Sajith Premadasa.. It was also stated that she decided that she had to think of their future since now.
+
+◼️
+
+[Data](articles/c0b70720.json)
+
+[Extended Data](ext_articles/c0b70720.ext.json)
 
 ---
 
@@ -2239,77 +2303,5 @@ This decision will facilitate the traffic and facilitate the public traffic in t
 [Data](articles/4cd8821b.json)
 
 [Extended Data](ext_articles/4cd8821b.ext.json)
-
----
-
-### Three people, including a 3 -year -old child collided with a train
-
-*2024-10-13 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/196139) · `ta`
-
-Train collision kills 3, including toddler, near Katukurunda station. High-speed train from Beliyatha to Maradana involved. One victim dies at hospital.
-
-🟩
-
-Three people, including a 3 -year -old child, were killed when a train collided with a train on Saturday (12) near the Katukurunda railway station, police said.
-
-The Railway Department said that they were killed in a high -speed train traveling from Beliyatha to Maradana.
-
-Meanwhile, the 33 -year -old child of the accident has died after being admitted to the Kalutara Teaching Hospital.
-
-◼️
-
-[Data](articles/c85e34d3.json)
-
-[Extended Data](ext_articles/c85e34d3.ext.json)
-
----
-
-### In 2023, 33,000 new cancer patients, 19,000 deaths
-
-*2024-10-13 10:16:49* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-නව-පිළිකා-රෝගීන්-33-000-ක්--මරණ-19-000-ක්/11-412457) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka faces rising cancer cases: 33,000 new patients, 19,000 deaths in 2023. Health Secretary calls for preventive measures to avoid thousands of cancers annually. SLCO aims to enhance cancer treatment and promote healthy lifestyles.
-
-🟩
-
-Health Secretary Special Secretary Special Secretary Special Secretary Special Secretary Special Medical Palitha Mahipala says that thousands of cancer patients can be avoided by addressing changes and promoting healthy risk factors.
-
-Sri Lanka Cancer Cancel Getagists (SLCO)
-
-The health secretary said that over 33,000 deaths have been caused by 9,000 deaths and women, and the world will increase a 77% increase in new cancer patients..
-
-Sri Lanka Cancer Patistic College is the leading professional institute that is committed to the grade of cancer in Sri Lanka. Among the cancer of the Sri Lankan cancer, enhancing the speech and local expertise and improving clinical practices and improvement of clinical practices.A series of seminars from the 10th to 14th to 14th of October to 14th October to 14th October to 14th October will be held on the inaugural session.
-
-...
-
-[Data](articles/ea3b5416.json)
-
-[Extended Data](ext_articles/ea3b5416.ext.json)
-
----
-
-### Only 18 presidential candidates submit expenses reports as deadline nears
-
-*2024-10-13 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102644/only-18-presidential-candidates-submit-expenses-reports-as-deadline-nears) · `en`
-
-The deadline for the candidates who contested for the presidential election to submit their expense reports is scheduled to end, today (13) at 3.00 p.m.
-
-According to the Regulation of Election Expenditure Act, expense reports must be provided within 21 days following the end of the election.
-
-However, the Election Commission stated that out of the 38 candidates who contested in the recently concluded presidential election, only 18 have submitted their expenditure reports.
-
-The Election Commission further stated that they are optimistic that the other candidates will submit their expenditure reports within the day.
-
-They also indicated that legal action will be pursued against any candidates who fail to comply with the reporting requirements as per the Election Expenditure Regulation Act.
-
-◼️
-
-[Data](articles/5b75e6a4.json)
-
-[Extended Data](ext_articles/5b75e6a4.ext.json)
 
 ---

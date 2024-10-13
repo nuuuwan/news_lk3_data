@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 16:55:35**
+As of **2024-10-13 17:08:27**
 
 ## Newspaper Stats
 
-*Scraped **49,237** Articles*
+*Scraped **49,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,021
 dailyftlk | 3,334
-adalk | 4,570
+adalk | 4,571
 dailymirrorlk | 4,733
 adaderanalk | 5,819
-tamilmirrorlk | 6,715
+tamilmirrorlk | 6,716
 virakesarilk | 7,867
 adaderanasinhalalk | 8,518
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,237 (100.0%) of 49,237 articles have been extended.
+49,239 (100.0%) of 49,239 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Action Notification of the Ministry of Education
+
+*2024-10-13 16:42:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சின்-அதிரடி-அறிவிப்பு/175-345369) · `ta`
+
+Ministry of Education grants authority to declare school holidays during natural disasters like floods. Decision made after consulting District Disaster Management Committee about inclement weather conditions.
+
+🟩
+
+The Ministry of Education has given the power to take stunning action in the event of natural disasters due to inclement weather in the country.
+
+Accordingly, the Ministry of Education has announced that the authority to provide holidays to schools, provincial secretaries, provincial education secretaries and provincial education directors, if there are floods and other natural disasters.
+
+The Ministry of Education has announced that the decision has been taken only after discussing with the District Disaster Management Committee on the inclement weather in the country.
+
+◼️
+
+[Data](articles/eede4291.json)
+
+[Extended Data](ext_articles/eede4291.ext.json)
+
+---
 
 ### Baba Siddique: Mumbai politician shot dead months before state elections
 
@@ -261,6 +283,38 @@ Accordingly, the department calls on the public and regional drivers from the Ke
 [Data](articles/2891440d.json)
 
 [Extended Data](ext_articles/2891440d.ext.json)
+
+---
+
+### 130 Chinese arrested in connection with Internet currencies
+
+*2024-10-13 14:03:45* · [`adalk`](https://www.ada.lk/breaking_news/අන්තර්ජාල-මුදල්-වංචාවලට-සම්බන්ධ-චීන්නු-130ක්-අල්ලයි/11-412463) · `si`
+
+Chinese nationals arrested in Kandy for cheating billions. 130 detained, including 17 women. Police seized laptops, desktops, routers. Investigation ongoing.
+
+🟩
+
+The Kandy police were arrested by the Kandy Police at a hotel in Kundasale yesterday (12) at a hotel in the area.
+
+Investigations have revealed that the Chinese nationals cheated on billions of rupees at the international level.
+
+According to information received by the police, a large number of Chinese are in the hotel as a large number of Chinese are in the hotel, several police teams have taken steps to raided the site.
+
+It is also reported that there are 17 women among the twenty-six women, police said.
+
+The police suspect that the accounts of the Rs.
+
+Police have seized 120 state-of-the-art laptops in the possession of the suspects, three hundred and 15 destotops, a consignment of technology with 100 routors.
+
+The suspects have been arrested in the Habarana area recently, and there were 26 Chinese nationals who fled.
+
+Police investigations have revealed that the Chinese nationals have paid Rs.
+
+...
+
+[Data](articles/f6396fd4.json)
+
+[Extended Data](ext_articles/f6396fd4.ext.json)
 
 ---
 
@@ -2327,63 +2381,5 @@ The Meteorological Department is valid for the next 36 hours.
 [Data](articles/8513ee5f.json)
 
 [Extended Data](ext_articles/8513ee5f.ext.json)
-
----
-
-### The sinks in the water of the Sahara desert
-
-*2024-10-12 17:57:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நீரில்-மூழ்கியது-சஹாரா-பாலைவனம்/50-345320) · `ta`
-
-Sahara Desert flooding: Heavy rainfall after 50 years causes severe flooding. Tropical hurricane blamed for unprecedented downpour. Water levels overflow, affecting nearby villages.
-
-🟩
-
-The Sahara Desert has been raining in the last 50 years. This has caused severe flooding.
-
-The Moroccan Meteorological Department said that the floods were the cause of the rainfall in a year.. Meteorologists said the rainfall was caused by a tropical hurricane.
-
-If this is the largest desert in this world, it is the Sahara desert. It reflects the African culture, which is the largest heat desert of the earth.
-
-சஹாரா பாலைவனம் பூமியில் மிகவும் வெப்பமான இடங்களில் ஒன்றாகும். The average temperature in the summer is 100.4 ° F (38 ° C) - up to 114.8 ° F (46 ° C).
-
-It is difficult for a creature to live there because of the temperature of Sahara. At the same time, even though the heat is high during the day, the temperature at night is rapidly decreasing. Some time found below the frost. Rarely rain in Sahara. Some areas have to wait for years to rain.
-
-In this case, the sudden rainfall in the Sahara Desert has caused flooding. The Sahara Desert has been flooded due to the rain in a year.
-
-...
-
-[Data](articles/62429142.json)
-
-[Extended Data](ext_articles/62429142.ext.json)
-
----
-
-### There is no courageous opposition to be in the opposition everyday - Dilith
-
-*2024-10-12 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202093) · `si`
-
-Dilith Jayaweera emphasizes courageous opposition, not constant criticism. He advocates for strategic planning and entrepreneurship to drive economic growth. The opposition should focus on meaningful change rather than petty squabbles.
-
-🟩
-
-The Normor power leader Dilith Jayaweera says he can do more than a government can do more than a government can do more.
-
-He further stated that the opposition is not always in the opposition everyday.
-
-He was speaking at a special meeting of candidates contesting the parliamentary election this year (12) under the leadership of Mr. Dilith Jayaweera.
-
-"We're talking about nationality. Not racism. Many people are afraid to say that nationality in Sri Lanka is based on Sinhala Buddhist meeting. They think that people are angry. "
-
-"Politicians have politicians to choose the racist's racist's racist. It's guys in the South.. Do the one in the North. We are against it. "
-
-"If you can bring all the country to an entrepreneurial mind that can be taken to economic advancement."
-
-"After the flood, we look at the floods.. Can't do this. There should be a strategic plan. The countries have improved. "
-
-...
-
-[Data](articles/b058ee9d.json)
-
-[Extended Data](ext_articles/b058ee9d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 10:57:38**
+As of **2024-10-13 11:10:46**
 
 ## Newspaper Stats
 
-*Scraped **49,194** Articles*
+*Scraped **49,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,334
 adalk | 4,565
 dailymirrorlk | 4,733
 adaderanalk | 5,812
-tamilmirrorlk | 6,702
+tamilmirrorlk | 6,703
 virakesarilk | 7,859
 adaderanasinhalalk | 8,510
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 8,510
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,194 (100.0%) of 49,194 articles have been extended.
+49,195 (100.0%) of 49,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### YouTube's nomination rejection; Ali Sabri
+
+*2024-10-13 10:49:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூபரின்-வேட்புமனு-நிராகரிப்பு-அலி-சப்ரி-விசனம்/175-345348) · `ta`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+Election Commission rejects YouTube influencer's nomination due to technical error. Former ministers question legality, citing democracy principles. Influencer plans legal action, arguing nomination officer failed to verify documents before deadline. Critics argue commission prioritizes procedure over voter choice.
+
+🟩
+
+Former Foreign Minister and Justice Minister Ali Sabri has expressed concern over the decision of the Election Commission, which rejected the nomination of the Independent Committee of Yuduber Ashane Senaratne due to technical error.
+
+Sabri questioned whether such rejections based on minor practical issues are in line with the principles of democracy and the rights of the public choosing their leaders.
+
+Famous Yuduber Ashan Senaratne said yesterday that his independent committee was rejected by the Election Commission. Published on social media, he expressed despair and said he was rejected by claiming that the wrong person had given the nomination.
+
+Senaratne announced that he was planning to take legal action against the decision, claiming that the party leader was asked to take another candidate to submit the nomination and wait for him to wait outside.
+
+...
+
+[Data](articles/b108e5e9.json)
+
+[Extended Data](ext_articles/b108e5e9.ext.json)
+
+---
 
 ### In 2023, 33,000 new cancer patients, 19,000 deaths
 
@@ -2383,31 +2411,5 @@ Foreign media reports that Israel's sophisticated remote explosion is one of the
 [Data](articles/2eb55274.json)
 
 [Extended Data](ext_articles/2eb55274.ext.json)
-
----
-
-### 19 people injured in train accident
-
-*2024-10-12 09:55:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-விபத்தில்-19-பேர்-படுகாயம்/175-345309) · `ta`
-
-High-speed express train crashes into freight train near Kavarapet railway station, injuring 19. Investigation reveals driver received green signal before impact.
-
-🟩
-
-19 people were injured when a high -speed express train crash from India - Mysore to Darbhanga.
-
-The train crashed into a freight train as he was traveling near the Kavarapet railway station next to Ponneri last night.
-
-In this accident, the cabinets of the two trains are obscuring the other rails. Employees are actively involved in removing the barriers.
-
-Investigations carried out by the railway line police revealed that the train accident was responsible for the train accident.
-
-In this investigation, the Logo Pilot Subramani, who drove the Baghmati fast train, said that the train was only run by the Green Signal.. (That)
-
-◼️
-
-[Data](articles/b0760a6f.json)
-
-[Extended Data](ext_articles/b0760a6f.ext.json)
 
 ---

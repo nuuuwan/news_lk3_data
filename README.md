@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 03:08:35**
+As of **2024-10-14 03:23:36**
 
 ## Newspaper Stats
 
-*Scraped **49,323** Articles*
+*Scraped **49,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,144 @@ adalk | 4,576
 dailymirrorlk | 4,733
 adaderanalk | 5,825
 tamilmirrorlk | 6,724
-virakesarilk | 7,899
+virakesarilk | 7,903
 adaderanasinhalalk | 8,534
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,323 (100.0%) of 49,323 articles have been extended.
+49,327 (100.0%) of 49,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Hirunika resigns from the National Organizer of the United Mather Shakti
+
+*2024-10-14 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196224) · `ta`
+
+Hirunika Premachandra resigns as National Organizer of United People's Power due to dissatisfaction over unfulfilled duties during presidential campaign. Party continues membership and plans to contest 2024 general election.
+
+🟩
+
+Former parliamentarian Hirunika Premachandra has announced that she will resign from the post of National Organizer of the United People's Organization of the United People's Power.
+
+Hirunika has said that her resignation was due to the frustration of the allegations leveled from the party that the organizers did not fulfill their duties during the presidential campaign.
+
+It is noteworthy that despite his resignation, the party has continued to be a member of the party and decided to contest the general election in 2024 and that they would once again elect the general public to parliament.
+
+◼️
+
+[Data](articles/f953a62c.json)
+
+[Extended Data](ext_articles/f953a62c.ext.json)
+
+---
+
+### There is an environment where the Tamil people can live unique because of the Tamil party in this soil - Gnan.
+
+*2024-10-14 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196223) · `ta`
+
+Tamil party's role in preserving Tamil culture in Sri Lanka's northeast region.
+
+🟩
+
+The Sri Lanka Tamil National Alliance (TNA) Batticaloa district candidate and former parliamentarian Gnan Sirinasan said that there is a situation where the Tamil people can live unique in this soil due to the existence of a Tamil party.
+
+A meeting to introduce candidates in the Batticaloa district in the upcoming parliamentary elections through the TNA was held on Sunday evening (13).
+
+இலங்கை தமிழரசுக்கட்சியின் ஏறாவூர்ப்பற்று கிளையின் ஏற்பாட்டில் இந்த நிகழ்வு செங்கலடி சௌபாக்கியா மண்டபத்தில் நடைபெற்றது.
+
+The meeting was chaired by former Secretary of the Tamil National Party, K. Durairajasingham.
+
+In the meantime, the candidates contesting the upcoming parliamentary elections through the TNA were introduced and honored by the supporters.
+
+The party's vice president Pon Selvarajah disappeared and completed a year after the disappearance of him.
+
+...
+
+[Data](articles/0dbc8a4d.json)
+
+[Extended Data](ext_articles/0dbc8a4d.ext.json)
+
+---
+
+### Yall. Introduction to the Tamil National Alliance (TNA) contesting the electoral district
+
+*2024-10-14 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196222) · `ta`
+
+Tamil National Alliance TNA launches election campaign in Jaffna. Senior leader Sivagnanam inaugurates event at Father Selva Hall. Candidates introduced, Mangala lighting ceremony conducted. Party members and leaders attend.
+
+🟩
+
+The Jaffna Election District candidate's launch event was held in Jaffna on Sunday (13).
+
+Senior Vice President of the Tamil National Alliance and Chairman of the Northern Provincial Council. Sivagnanam was held at the Father Selva Hall in Jaffna.
+
+During this time, the candidates were summoned and the launch of the candidate was launched with the Mangala lighting.
+
+It is noteworthy that a large number of party members, including the leaders and candidates of the party, were present at the event.
+
+◼️
+
+[Data](articles/f11e025f.json)
+
+[Extended Data](ext_articles/f11e025f.ext.json)
+
+---
+
+### Hesha responds to the issue of Tamita Abeyratne
+
+*2024-10-14 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196221) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Hesha Vidanage, former MP, says United People's Power prioritizes winning elections over individual names. The party aims to increase votes in Ratnapura and send 8 MPs to Parliament. Decisions are based on party success, not personal interests.
+
+🟩
+
+United People's Power is the Democratic Party. Everyone will make any decision only. Former parliamentarian Hesha Vidanage said that on those occasions, the people are not concerned about who and what their names are.
+
+He said this while responding to journalists' questions regarding the Tamitha Abeyratne issue after attending a public meeting in Ratnapura.. As he further stated in this regard,
+
+Our main purpose is to win the party. In the last election, we won more than two lakhs 50,000 votes in the Ratnapura district. Our aim is to get more votes in the Ratnapura district this time and 8 members of the United People's Power should go to Parliament.
+
+We are working together to fulfill the aspirations of the people. When the party makes decisions, it is based on the success of the party. Such decisions have been taken so far. Therefore, when making such decisions, people do not search for their names.
+
+...
+
+[Data](articles/6842b4d2.json)
+
+[Extended Data](ext_articles/6842b4d2.ext.json)
+
+---
+
+### Competition in gas cylinder in Colombo
+
+*2024-10-14 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196220) · `ta`
+
+Ranil Vilatharake, GFLOC president, contests Colombo election under UNP banner, backed by Susil Premjayantha.
+
+🟩
+
+Ranil Vilatharake, president of Sri Lanka's leading garment business, GFLOC, will contest the general election in the Colombo district in the cylinder symbol.
+
+Ranil Villattarake is a famous entrepreneurs who introduced a business model for social welfare under the name of Gflock.
+
+He will contest as the head of the Colombo district under the leadership of former Minister Susil Premjayantha as the head of the Colombo District.
+
+It is noteworthy that Ranil Villattarake Kespewa, who joined the United National Party (UNP) supporting the economic program of former President Ranil Wickremesinghe during the presidential election.
+
+◼️
+
+[Data](articles/717b617e.json)
+
+[Extended Data](ext_articles/717b617e.ext.json)
+
+---
 
 ### CCC Sri Lanka-Indonesia Business Council completes successful business promotion mission
 
@@ -263,30 +389,6 @@ Kamundu Mendis scored 51 runs with 5 pounds, 2 sixes and 59 runs with 9 pounds.
 [Data](articles/a0db4f16.json)
 
 [Extended Data](ext_articles/a0db4f16.ext.json)
-
----
-
-### Competition in gas cylinder in Colombo
-
-*2024-10-14 00:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196220) · `ta`
-
-Ranil Vilatharake, GFLOC president, contests Colombo election under UNP banner, backed by Susil Premjayantha.
-
-🟩
-
-Ranil Vilatharake, president of Sri Lanka's leading garment business, GFLOC, will contest the general election in the Colombo district in the cylinder symbol.
-
-Ranil Villattarake is a famous entrepreneurs who introduced a business model for social welfare under the name of Gflock.
-
-He will contest as the head of the Colombo district under the leadership of former Minister Susil Premjayantha as the head of the Colombo District.
-
-It is noteworthy that Ranil Villattarake Kespewa, who joined the United National Party (UNP) supporting the economic program of former President Ranil Wickremesinghe during the presidential election.
-
-◼️
-
-[Data](articles/717b617e.json)
-
-[Extended Data](ext_articles/717b617e.ext.json)
 
 ---
 
@@ -2187,89 +2289,5 @@ Police investigations have revealed that the Chinese nationals have paid Rs.
 [Data](articles/f6396fd4.json)
 
 [Extended Data](ext_articles/f6396fd4.ext.json)
-
----
-
-### Educational authorities to open schools in Western school
-
-*2024-10-13 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202115) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Western Province Education Authorities debate opening schools amid inclement weather. Ministry of Education consults zonal directors on decision."
-
-🟩
-
-Western Province Education Authorities have been compelled to determine whether or not to open schools due to inclement weather.
-
-The Ministry of Education stated that it is to be discussed with zonal education directors.
-
-◼️
-
-[Data](articles/b0dec3d3.json)
-
-[Extended Data](ext_articles/b0dec3d3.ext.json)
-
----
-
-### சிறையிலிருந்து ஸ்மார்ட் போன் மீட்பு
-
-*2024-10-13 14:01:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறையிலிருந்து-ஸ்மார்ட்-போன்-மீட்பு/175-345361) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Prisoners smuggle smart phones and devices. STF recovers phone, headset, and charger during raid."
-
-🟩
-
-Smart cell phone and several handheld equipment hidden near the rooms of the Booza High Security Prison. Sanjeewa Kumara Samaratne, Ganemulla Sanjeeva and Samantha Kumara, who are organized in the prison, have been detained.
-
-Special Task Force (STF) in the 44, 38 and 37 rooms in the Prison Special Division has recovered a mobile phone, hand free and charger from them during an emergency raid yesterday.
-
-◼️
-
-[Data](articles/bb7515d8.json)
-
-[Extended Data](ext_articles/bb7515d8.ext.json)
-
----
-
-### Decision on opening schools in Western Province tomorrow amid adverse weather
-
-*2024-10-13 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102649/decision-on-opening-schools-in-western-province-tomorrow-amid-adverse-weather-) · `en`
-
-Western Provincial education authorities have been empowered to decide whether or not to open schools tomorrow (11) due to inclement weather conditions.
-
-The Ministry of Education stated that the authorities are advised to discuss with Zonal Education Directors in deciding whether or not to open schools in the Western Province tomorrow.
-
-◼️
-
-[Data](articles/a2d26678.json)
-
-[Extended Data](ext_articles/a2d26678.ext.json)
-
----
-
-### Sand pillows tree to protect parliament
-
-*2024-10-13 13:55:45* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-ආරක්ෂා-කර-ගැනීමට-වැලි-කොට්ට-ගසයි/11-412462) · `si`
-
-Diyawanna Oya used as sandbags to protect Parliament entrance during heavy rain. Action taken by Parliament, MP, and Packaging Development Board.
-
-🟩
-
-With the prevailing inclement weather, the Diyawanna Oya is carried out to cover the entry gates to prevent water from the Parliamentary Complex.
-
-The Parliamentary Administration has taken action by the Parliament, Parliamentarian and Lowbrim and Packaging Development Board.
-
-◼️
-
-[Data](articles/6dd89957.json)
-
-[Extended Data](ext_articles/6dd89957.ext.json)
 
 ---

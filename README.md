@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 23:08:55**
+As of **2024-10-13 23:23:27**
 
 ## Newspaper Stats
 
-*Scraped **49,302** Articles*
+*Scraped **49,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,825
 tamilmirrorlk | 6,724
 virakesarilk | 7,895
-adaderanasinhalalk | 8,533
+adaderanasinhalalk | 8,534
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,302 (100.0%) of 49,302 articles have been extended.
+49,303 (100.0%) of 49,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### West Indies are easy
+
+*2024-10-13 23:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202134) · `si`
+
+Sri Lanka vs West Indies cricket match summary: Sri Lanka batted first, scoring 179/7 in 20 overs. West Indies chased down the target in 19.1 overs, losing 5 wickets. Brendon King and Evin Lewis shared 107 runs off 55 balls, while Brendan King scored 63 off 33 balls.
+
+🟩
+
+Sri Lanka beat the Sri Lankan team to win 5 wickets in 5 wickets. West Indies managed.
+
+Batting first Sri Lanka scored 179 runs for the loss of 7 wickets in their 20 overs.
+
+In reply, the West Indies scored the target with 5 wickets in 19.1 overs.
+
+Brendon King and Evin Lewis passed the West Indies.
+
+They two marked 107 runs off 55 balls.
+
+Brendhan Kink scored 63 runs off 33 balls with 63 runs in 28 balls.
+
+◼️
+
+[Data](articles/fab11e0e.json)
+
+[Extended Data](ext_articles/fab11e0e.ext.json)
+
+---
 
 ### A profit from the North is confirmed with President
 
@@ -2295,29 +2323,5 @@ The police spokesman said that the Public Security Response Chancellor has been 
 [Data](articles/548e7112.json)
 
 [Extended Data](ext_articles/548e7112.ext.json)
-
----
-
-### One person dies after falling under a glass pile in Hungama
-
-*2024-10-13 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/196142) · `ta`
-
-Worker killed by falling glass during construction in Hungama. A 45-year-old man died after being crushed by shattered mirrors while driving a container truck near a tourist hotel. The incident occurred during new building work.
-
-🟩
-
-Hungama police said that a worker who was working on a mirror died from a vehicle carrying containers at a tourist hotel workplace in Hungama, fell under a glass pile.
-
-A 45 -year -old from Hungama West has died, police said.
-
-The accident occurred when the new construction was underway, the accident occurred when seven mirrors crashed into a man who was involved in the death of seven glasses in a car carrying containers.
-
-A worker, who was seriously injured in the collapse of the mirrors, died after being admitted to the Tangalle Hospital.
-
-◼️
-
-[Data](articles/d5bc4aa6.json)
-
-[Extended Data](ext_articles/d5bc4aa6.ext.json)
 
 ---

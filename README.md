@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 18:32:41**
+As of **2024-10-13 18:43:35**
 
 ## Newspaper Stats
 
-*Scraped **49,258** Articles*
+*Scraped **49,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,021
 dailyftlk | 3,334
 adalk | 4,572
 dailymirrorlk | 4,733
-adaderanalk | 5,821
+adaderanalk | 5,822
 tamilmirrorlk | 6,722
 virakesarilk | 7,873
 adaderanasinhalalk | 8,522
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,522
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,258 (100.0%) of 49,258 articles have been extended.
+49,259 (100.0%) of 49,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Schools closed in several education zones on Monday and Tuesday
+
+*2024-10-13 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102655/schools-closed-in-several-education-zones-on-monday-and-tuesday-) · `en`
+
+The education authorities have decided to keep the schools in several educational zones closed on Monday (14) and Tuesday (15) in view of the prevailing adverse weather conditions.
+
+Accordingly, all government schools of the Gampaha, Kelaniya, Kolonnawa and Kaduwela educational zones will remain closed on Monday and Tuesday.
+
+Meanwhile, the Western Provincial Education Director said that all government schools in the Colombo educational zone will be closed tomorrow (14).
+
+Earlier today, it was announced that all government schools in Kaduwela and Kolonnawa Education Zonal Divisions in Colombo District and the Wattala Zonal Division in Gampaha District will be closed tomorrow, in view of the prevailing adverse weather condition.
+
+◼️
+
+[Data](articles/adbf3da0.json)
+
+[Extended Data](ext_articles/adbf3da0.ext.json)
+
+---
 
 ### Holidays for Colombo and Gampaha Schools
 
@@ -2317,43 +2337,5 @@ It is noteworthy that the initiative will be implemented with the cooperation of
 [Data](articles/f6edea41.json)
 
 [Extended Data](ext_articles/f6edea41.ext.json)
-
----
-
-### Thiefs of fear in areas
-
-*2024-10-12 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202101) · `si`
-
-Robbery gang active in Dompe, Weliweriya, Malwwwala Hiripitiya. Police investigating after residents report thefts and abuse. Thieves armed, face covered, CCTV footage released. Public urged to report sightings.
-
-🟩
-
-The police have received complaints that a robbery gang is roaming in Dompe, Weliweriya and Malwwwala Hiripitiya.
-
-The nearest incident has been reported from Weliweriya yesterday (11), the robbers entered a house and the woman abused her child and her husband.
-
-Two thieves were included in the Weliweriya area around 2 am yesterday.
-
-The two thieves showed sharp weapons, the police said that the police said.
-
-The wife was then abused to be abandoned.
-
-The two thieves have left the house from 2 to 4 am, stealing valuable items at home.
-
-Residents have lodged a complaint with the police and the police have begun an investigation into the matter.
-
-The two thieves had been carried out in the premises of the two thighs, Domipola, Tompens and Malwathuhipitiya.
-
-A CCTV display of CCTV had issued a list of CCTV visits to the two thieves.
-
-Reports say that the two thieves have been rose in the same houses.
-
-The reason is that the two thighs cover completely their faces, cannot find any information.
-
-...
-
-[Data](articles/4925ba0f.json)
-
-[Extended Data](ext_articles/4925ba0f.ext.json)
 
 ---

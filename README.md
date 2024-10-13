@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 14:39:08**
+As of **2024-10-13 14:57:44**
 
 ## Newspaper Stats
 
-*Scraped **49,225** Articles*
+*Scraped **49,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,334
 adalk | 4,568
 dailymirrorlk | 4,733
 adaderanalk | 5,817
-tamilmirrorlk | 6,711
+tamilmirrorlk | 6,712
 virakesarilk | 7,865
 adaderanasinhalalk | 8,516
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,225 (100.0%) of 49,225 articles have been extended.
+49,226 (100.0%) of 49,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Holidays for schools tomorrow
+
+*2024-10-13 14:26:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-பாடசாலைகளுக்கு-விடுமுறை/175-345362) · `ta`
+
+Schools closed tomorrow: Kelani Maha Vidyalaya, Negombo Roman Catholic Vidyalaya, Piyagama Primary School, Yaparalawa Ananda Junior Vidyalaya due to bad weather.
+
+🟩
+
+Some schools have been given holidays on Monday (14) due to inclement weather in the country.
+
+The Ministry of Education has announced that holidays have been given to the Kelani Maha Vidyalaya, Negombo Roman Catholic Vidyalaya, Piyagama Primary School and Yaparalawa Ananda Junior Vidyalaya.
+
+◼️
+
+[Data](articles/7aacc749.json)
+
+[Extended Data](ext_articles/7aacc749.ext.json)
+
+---
 
 ### Flood warning issued to low-lying areas of Kelani River extended
 
@@ -2385,31 +2405,5 @@ It is also reported that the railway operations will be implemented from 1 noon 
 [Data](articles/b4764809.json)
 
 [Extended Data](ext_articles/b4764809.ext.json)
-
----
-
-### Warns a big flood
-
-*2024-10-12 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202088) · `si`
-
-Flood warning: Attanagalu Oya area affected. Low-lying areas in Gampaha District threatened. Floods expected in Minuwangoda, Katana, and Wattala. Residents advised to stay alert.
-
-🟩
-
-It is reported that there is a flood in the Attanagalu Oya area in Attanagalu Oya.
-
-Irrigation Director (Hydrology and Disaster Management) Engineering. P. Mr. Cirih Sushingwara said that the people should be more inquiries.
-
-The Irrigation Department has already issued warnings for a tremendous utterance to the Attanagalu Oya Basin, "the Gampaha District.. In slowabows in the Gampaha district are further threat. "
-
-"The floods in lowland areas in Minuwangoda, Minuwangoda, Gampaha, Gampaha, Katana and Wattala will continue throughout the day."
-
-"It is advisable to say that floods in the lower areas can further develop."
-
-◼️
-
-[Data](articles/60810c95.json)
-
-[Extended Data](ext_articles/60810c95.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 10:39:30**
+As of **2024-10-13 10:57:38**
 
 ## Newspaper Stats
 
-*Scraped **49,193** Articles*
+*Scraped **49,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,019
 dailyftlk | 3,334
-adalk | 4,564
+adalk | 4,565
 dailymirrorlk | 4,733
 adaderanalk | 5,812
 tamilmirrorlk | 6,702
@@ -26,11 +26,39 @@ adaderanasinhalalk | 8,510
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,192 (100.0%) of 49,193 articles have been extended.
+49,194 (100.0%) of 49,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### In 2023, 33,000 new cancer patients, 19,000 deaths
+
+*2024-10-13 10:16:49* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-නව-පිළිකා-රෝගීන්-33-000-ක්--මරණ-19-000-ක්/11-412457) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka faces rising cancer cases: 33,000 new patients, 19,000 deaths in 2023. Health Secretary calls for preventive measures to avoid thousands of cancers annually. SLCO aims to enhance cancer treatment and promote healthy lifestyles.
+
+🟩
+
+Health Secretary Special Secretary Special Secretary Special Secretary Special Secretary Special Medical Palitha Mahipala says that thousands of cancer patients can be avoided by addressing changes and promoting healthy risk factors.
+
+Sri Lanka Cancer Cancel Getagists (SLCO)
+
+The health secretary said that over 33,000 deaths have been caused by 9,000 deaths and women, and the world will increase a 77% increase in new cancer patients..
+
+Sri Lanka Cancer Patistic College is the leading professional institute that is committed to the grade of cancer in Sri Lanka. Among the cancer of the Sri Lankan cancer, enhancing the speech and local expertise and improving clinical practices and improvement of clinical practices.A series of seminars from the 10th to 14th to 14th of October to 14th October to 14th October to 14th October will be held on the inaugural session.
+
+...
+
+[Data](articles/ea3b5416.json)
+
+[Extended Data](ext_articles/ea3b5416.ext.json)
+
+---
 
 ### Only 18 presidential candidates submit expenses reports as deadline nears
 
@@ -180,19 +208,29 @@ Hunger warnings emerged again in northern Gaza as residents said they hadn’t r
 
 ---
 
-### ඇල්ලේ චිත්‍රපටයෙන් ලංකාවට රු. මි. 150ක ආදායමක්
+### Sri Lanka gets Rs. Rs. 150th income
 
 *2024-10-13 08:40:40* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-චිත්‍රපටයෙන්-ලංකාවට-රු--මි--150ක-ආදායමක්/11-412456) · `si`
 
-ඇල්ල- දෙමෝදර අතර පිහිටි ආරුක්කු 9  පාලම මත ඉන්දු- ශ්‍රී ලංකා  ඒ්කාබද්ද සිනමා පටයක රෑගත කිරීම නිසා ශ්‍රී  ලංකාවට රුපියල් මිලියන ඒකසිය පනහකට(150) වෑඩ් මුදලක් ලැබුන බව ඒහි නිෂ්පාදකවරයෙකු වන සියවුල් හසන්  මහතා  පැවසීය.
+Sri Lanka receives Rs. 150m funding for tourism projects. The funds will be used for lighting the Ella-Sri Lanka railway bridge and promoting local artists like Kaushiki Last and Tanja Star. Upcountry train services operate between 7am and 5:30pm daily. This initiative aims to boost tourism and showcase Sri Lanka's beauty.
 
-මිරායි (Mirai) නම් වු මෙම චිත්‍ර පටියේ සටන් දර්ශන සහ ගීත ගායනය ඇතුලත් දර්ශන  තුර්කියේ ආරුක්කු පාලමක්  මත පටිගත කිරීමට සැලසුම් කර තිබුනත් ඒයට වඩා ලංකාවේ ආරුක්කු නවයේ පාලම අලංකාරවත් හා  සුන්දර නිසා  මෙහි තෝරාගෙන තිබේ.
+🟩
 
-තෙලිගු   චිත්‍ර  පටියක් වන මිරායි  තෙළිගු,හිංදි,ඉංග්‍රිසි,කන්නඩා, බැංගාලි,මලයාවි යන භාෂා  හයෙන්ම ලෝකය පුරාම ලබන වසර මුල සිට තිරගතවීමට නියමිතව ඇති අතර ඒහි  අධ්‍යක්ෂ ලෙස කාර්තික් ගටාන්නේරු කටයුතු කරන අතර ජෙගපති බාබු,ටේජා   සාජා ,මනෝජ් කුමාර්,රතිකා  නා යන්,කෞෂික් මහාටා, ටන්ජා  කෙළර්,සීරාම් රෙඩ්ඩි ඇතුළු නළු නිළියන් හැට දෙනෙකු පමණ රංගනයෙන් දායකත්වය දක්වති.
+Ella-Sri Lanka Easquadadda RC Lights (150) of Rs.
 
-...
+Mirai (MIRAI), the attackers and songs of the painties included in the Turkey of Turkey have been chosen on the bridge of the Turkey in Sri Lanka because it is beautiful and beautiful.
+
+The Galle, Mirai, Kananda, Bangali, Malaysu, Bangawanu, is the director of the world and is the director.Kaushiki Last, Tanja Star, Tanja Star, Saram Reddy, ache have been acting.
+
+Upcountry train operations have been operated from 7am to 15th to 15th to 15th and 5.30 pm to Ella-Badulla -Bandarawela roads.Deputy General Orphanage, Department of Departure (05) said he said.
+
+After the production of this painting, the world will attract tourist attractions in Sri Lanka and over the bridge of the Demodara Arch Bridge.
+
+◼️
 
 [Data](articles/b983d04b.json)
+
+[Extended Data](ext_articles/b983d04b.ext.json)
 
 ---
 
@@ -2371,31 +2409,5 @@ In this investigation, the Logo Pilot Subramani, who drove the Baghmati fast tra
 [Data](articles/b0760a6f.json)
 
 [Extended Data](ext_articles/b0760a6f.ext.json)
-
----
-
-### 10,000 candidates are in the field
-
-*2024-10-12 09:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-000-வேட்பாளர்கள்-களமிறங்குகின்றனர்/175-345308) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"10,000 candidates contesting parliamentary elections on Nov 14. 764 political parties/independent groups filed nominations. 690 groups competing in 22 election districts."
-
-🟩
-
-About 10,000 candidates are contesting the parliamentary elections on November 14 to elect MPs.
-
-Elections Commissioner Saman Sri Ratnayake says 764 political parties and independent groups have filed nominations for the parliamentary elections to be held this year.
-
-Accordingly, 690 groups belonging to political parties and independent groups will contest for 22 election districts for this year's election.. Remble
-
-◼️
-
-[Data](articles/b39afde6.json)
-
-[Extended Data](ext_articles/b39afde6.ext.json)
 
 ---

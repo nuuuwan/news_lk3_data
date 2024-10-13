@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 20:23:23**
+As of **2024-10-13 20:38:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,526
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,281 (100.0%) of 49,289 articles have been extended.
+49,289 (100.0%) of 49,289 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,10 @@ The driver, who was severely injured in the incident, was admitted to the Mediri
 ### Diplomacy towards the existence of the Maldives
 
 *2024-10-13 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196191) · `ta`
+
+India maintains economic ties with Maldives while balancing competition from China and US in regional leadership and strategic security.
+
+🟩
 
 On the one hand, India has a peaceful economic agreement among the countries of the Born, and is trying to maintain domination in its region.. Not only China but also the United States in this regional leadership and strategic security affairs is increasingly pursuing the influence of Indian interests.
 
@@ -338,67 +342,97 @@ The Tamil People's General Assembly won the presidential election and won the co
 
 ---
 
-### நாங்கள் வாக்கு கேட்பது மற்றவர்களை போல பலமான எதிர்கட்சியை அமைப்பதற்கு அல்ல பலமான அரசாங்கத்தை அமைப்பதற்கே -  இராதாகிருஷ்ணன்
+### We are asking for votes, not to form a strong opposition, but to form a strong government - Radhakrishnan
 
 *2024-10-13 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196199) · `ta`
 
-இந்த தேர்தலில் அநேகமானவர்கள் பலமான எதிர்கட்சியை அமைப்பதற்காக வாக்கு கேட்கின்றார்கள் ஆனால் ஜக்கிய மக்கள் சக்தி வாக்கு கேட்பது பலமான ஒரு அரசாங்கத்தை அமைப்பதற்காகவும் சஜித் பிரேமதாசவை பிரதராக கொண்டு வருவதற்குமே அதனை நாங்கள் வெற்றி கொண்டே தீருவோம் என மலையக மக்கள் முன்னணியின் தலைவரும் நுவரெலியா மாவட்ட தமிழ் முற்போக்கு கூட்டணியின் வேட்பாளருமான வேலுசாமி இராதாகிருஷ்ணன் தெரிவித்துள்ளார்.
+Radhakrishnan urges voters to support Tamil Progressive Alliance for strong government, emphasizing commitment to minority rights and representation.
 
-தமிழ் முற்போக்கு கூட்டணியின் முதலாவது தேர்தல் பிரசார கூட்டம் இன்று (13) ஹட்டன் கோல்டன் மஹால் மண்டபத்தில் நடைபெற்றது.
+🟩
 
-இந்த கூட்டத்தில் நுவரெலியா மாவட்டத்தில் ஜக்கிய மக்கள் சக்தி சார்பில் போட்டியிடுகின்ற தமிழ் முற்போக்கு கூட்டணியின் வேட்பாளர்களான வேலுசாமி இராதாகிருஸ்ணன் பழனி திகாம்பரம் மயில்வாகனம் உதயகுமார் உட்பட பொதுமக்களும் கலந்து கொண்டனர். இதற்கான ஏற்பாடுகளை மலையக மக்கள் முன்னணி ஏற்பாடு செய்திருந்தது.
+Many people in this election are asking for a vote for a strong opposition but Velusamy Radhakrishnan, the leader of the Nuwara Eliya District Tamil Progressive Alliance, said that we will win the Savior Prophet to form a strong government and bring Sajith Premadasa as a prince.
+
+The first election campaign meeting of the Tamil Progressive Alliance was held today (13) at the Hatton Golden Mahal Hall.
+
+The meeting was attended by the public including Velusamy Radhakrishnan Palani Digambaram Mayilvankanam Udayakumar, the candidates of the Tamil Progressive Alliance, which are contesting on behalf of the People's Power in Nuwara Eliya District.. The Upcountry People's Front had organized the arrangements for this.
+
+As far as the people of the hill country are concerned, we have served the people of these people in the opposition party, even when we are in the ruling party.
+
+But other candidates have become a regular thing to arrive during the election and then disappear.
 
 ...
 
 [Data](articles/e6ab0029.json)
 
+[Extended Data](ext_articles/e6ab0029.ext.json)
+
 ---
 
-### கடும் மழை காரணமாக கட்டான பிரதேச செயலகத்தில் அவசர நிலை - பிரதேச செயலாளர்  சுமுது அத்துகோரள
+### Emergency at Katana Divisional Secretariat
 
 *2024-10-13 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196201) · `ta`
 
-நாடு முழுவதும் பெய்து வரும் அடை மழை காரணமாக கட்டானை ஊடாக பாயும் தடுகம் ஓயா பெருக்கெடுத்து ஓடுவதால் 4000 ற்கும் மேற்பட்டவர்கள்  பாதிக்கப்பட்டுள்ளதாக கட்டான பிரதேச செயலாளர்  சுமுது அத்துகோரள இன்று ஞாயிற்றுக்கிழமை (13) தெரிவித்தார்.
+Heavy rains affect over 4,000 people in Katana Division. Floods block roads, disrupt transportation. Displaced residents sheltered at Catholic college. Military assists with ferry services. Multiple areas face traffic challenges due to ongoing rainfall.
 
-சுமார் , 17 கிராம சேவையாளர்  பிரிவுகளில் 1385 குடும்பங்களைச் சேர்ந்த சுமார் 4800 பேர் பாதிக்கப்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+🟩
 
-இதேவேளை , இந்த அனர்த்தம் காரணமாக கட்டுநாயக்க விமான நிலையத்திற்கு செல்லும் கட்டுநாயக்க – நிட்டம்புவ வீதி வெள்ளத்தில் மூழ்கியுள்ளதுடன், போக்குவரத்தும் தடைப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+More than 4,000 people have been affected by the flow of rain through the Katanas due to heavy rains across the country, said Katana Divisional Secretary Sumuthu Attukorala today (13).
 
-நீர்கொழும்பில் இருந்து கிபுலபிடிய மற்றும் படபதுர கல்மங்கட புகையிரத ஊடாக கட்டுநாயக்க விமான நிலையத்திற்கு செல்லும் வீதியும் வெள்ள நிலைமை காரணமாக போக்குவரத்து நிறுத்தப்பட்டுள்ளது.
+About 4800 people from 1385 families have been affected by about 17 Grama Niladhari Divisions, he said.
 
-மேலும் , கொடுகொட ரோமன் கத்தோலிக்க கல்லூரி, வெள்ளம் காரணமாக இடம்பெயர்ந்தவர்களின் முகாமாக பயன்படுத்தப்பட்டுள்ளதாகவும் கட்டான பிரதேச செயலாளர் தெரிவித்தார்.
+Meanwhile, the Katunayake -Nittambuwa road has been flooded and traffic has been blocked due to this disaster.
+
+Traffic has been halted due to the flood conditions to Katunayake Airport via Negombo to Kipulapitiya and Patapathura Kalmangada Railway Railway.
+
+The Roman Catholic College, Kodugoda, has been used as a camp for the displaced due to floods, the Katana Divisional Secretary said.
+
+He also said that the ferry service is being carried out with the support of the Sri Lankan military to provide transport facilities to the flood -hit people in Madhuwa and Kodugoda areas.
 
 ...
 
 [Data](articles/a149d2a0.json)
 
+[Extended Data](ext_articles/a149d2a0.ext.json)
+
 ---
 
-### மாதம்பையில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர்  பலி
+### One person was killed by a sharp weapon
 
 *2024-10-13 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196204) · `ta`
 
+A person was killed with a sharp weapon in a house. Police started investigating on Sunday.
+
+🟩
+
 மாதம்பை பொலிஸ் பிரிவிற்குட்பட்ட சுதுவெல்ல பிரதேசத்தில் உள்ள வீடொன்றில் ,ஒருவர் படுகொலை செய்யப்பட்டுள்ளதாக மாதம்பை பொலிஸ் நிலையத்திற்கு கிடைத்த தகவலின் அடிப்படையில் விசாரணைகள் இன்று ஞாயிற்றுக்கிழமை (13) ஆரம்பிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
-இறந்தவர் வீட்டின் அறையொன்றில் தரையில் உறங்கிக் கொண்டிருந்த போது கூரிய ஆயுதத்தால் தாக்கப்பட்டுள்ளதாக  தற்போதைய விசாரணையில் தெரியவந்துள்ளது.
+The present investigation revealed that the deceased was attacked by a sharp weapon while sleeping on the floor of a house.
 
-சந்தேக நபர்களை கைது செய்வதற்கான மேலதிக விசாரணைகளை மாதம்பை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Police are conducting further investigations to arrest the suspects.
 
 ◼️
 
 [Data](articles/e67c60d4.json)
 
+[Extended Data](ext_articles/e67c60d4.ext.json)
+
 ---
 
-### நெருங்கும் உறவு
+### Close relationship
 
 *2024-10-13 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196188) · `ta`
 
-அநுரகுமார திசாநாயக்க ஜனாதிபதியாக பதவியேற்ற பின்னர் வெளிநாடு ஒன்றிடமிருந்து இருந்து, பாதுகாப்பு கொடை ஒன்றை அதிகாரபூர்வமாக பெற்றுக் கொள்வது இதுவே முதல் முறை.
+Anuragumara Dissanayake receives first foreign defense donation as president.
+
+🟩
+
+This is the first time that the Anuragumara Dissanayake has been officially received by a defense donation from a foreign country after taking office as president.
 
 ◼️
 
 [Data](articles/62aa7595.json)
+
+[Extended Data](ext_articles/62aa7595.ext.json)
 
 ---
 
@@ -430,27 +464,39 @@ Mahela Jayawardene won the Championship on three occasions as the Chief Coach.
 
 ---
 
-### ஆட்டமிழக்கப்போவது யார்?
+### Who's going to be unbeaten?
 
 *2024-10-13 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196185) · `ta`
 
-ஜனாதிபதி தேர்தலில் சுமந்திரன் தொடங்கி வைத்த ஆட்டம்,  பாராளுமன்ற தேர்தல் முடிகின்ற போது, எத்தகைய திருப்பங்களையும் ஏற்படுத்தக் கூடும்.
+Sumanthiran's presidential campaign could impact the outcome of the parliamentary election, potentially leading to unexpected results. His performance may influence voter decisions and sway the final tally.
+
+🟩
+
+Sumanthiran's game in the presidential election may make any twists at the end of the parliamentary election.
 
 ◼️
 
 [Data](articles/743e382f.json)
 
+[Extended Data](ext_articles/743e382f.ext.json)
+
 ---
 
-### நீரின்றி அமையாது உலகு
+### Water
 
 *2024-10-13 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/196182) · `ta`
 
-உலகில் கடந்த வருடம் நிலவிய அதிகரித்த வெப்பநிலை காரணமாக கடந்த 50 வருடங்களில் காணாத அளவில் பனிமலைகள் வேகமாக உருகியுள்ளதாக அறிக்கைகள் கூறுகின்றன. இவ்வாறு பனிமலைகள் உருகியதால் கடந்த வருடத்தில் மாத்திரம் 600 கிகா தொன் நீர் வழிந்தோடியுள்ளது. ஐரோப்பா மற்றும் ஸ்கன்டிநேவியா பிராந்தியங்களில் இவ்வாறு வழிந்தோடிய நீரினால் ஆறுகளில் வெள்ளப்பெருக்கு உருவாகி அதனாலும் மனிதர்கள் பாதிக்கப்படும் நிலை உருவானது.
+Snow melts faster due to rising temperatures. Last 50 years saw significant melting, resulting in 600 gigaliters of water flowing annually. Flooding in European and Scandinavian rivers caused by human activities and climate change.
+
+🟩
+
+According to reports, snowfalls have melted in the last 50 years due to the increased temperature in the world last year. As the snowfalls have melted, 600 giggers have flowed over the past year alone. In the Europe and Scandinavia regions, water caused by the water caused by the flooding in the rivers and the impact of humans.
 
 ◼️
 
 [Data](articles/542ee137.json)
+
+[Extended Data](ext_articles/542ee137.ext.json)
 
 ---
 
@@ -474,27 +520,43 @@ On Saturday (12), a group of 129 Chinese nationals were arrested in the Kundasal
 
 ---
 
-### வேட்பாளர் பட்டியலும் அப்பச் சண்டையும்
+### The list of candidates and the fight
 
 *2024-10-13 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/196180) · `ta`
 
-முஸ்லிம் காங்கிரஸைப் பொறுத்தமட்டில், வேட்பாளர் தெரிவில் பழையவர்கள், புதியவர்களுக்கு இடையிலேயே போட்டி நிலவியது. ஆனால் புதியவர்களை நம்பி பழையவர்களை கழற்றிவிடுவது ஆபத்தாக அமையுமோ என்ற எண்ணமும் மு.கா. தலைவர் ஹக்கீமுக்கு ஏற்பட்டிருக்கும். கடைசியாக ஒரிருவரை கழற்றி விட்டு, வேட்புமனு தயாரிக்கப்பட்டது. தேசிய காங்கிரஸ் தலைவர் அதாவுல்லா இந்தத் தேர்தலில் அவருக்குள்ள சவாலை அறிவார் என்றாலும் அதுகுறித்து பெரிதாக அலட்டிக் கொள்ளவில்லை என்றே தெரிகின்றது. தனித்து போட்டியிட்டாலும் சேர்ந்து போட்டியிட்டாலும் ஒரு ஆசனம் தான் சாத்தியமான இலக்காக இருக்க முடியும் என்ற அடிப்படையில் நோக்கினால் தீர்மானமொன்றை எடுப்பது அவருக்கு அவ்வளவு சிக்கலானதாக இருந்திருக்காது.
+Here's a 200-character summary:
+
+
+
+Muslim Congress election: Old vs. New candidates. Rivalry led to nominations being made away. National Congress leader Ataullah aware of challenges but unconcerned. Complicated situation due to potential seat competition.
+
+🟩
+
+As for the Muslim Congress, there was a rivalry between the old and the newcomers in the candidate's election. But the idea that it is dangerous to relieve new people and take away the old people. Chairman Hakim would have occurred. Finally, the nomination was made away. National Congress leader Ataullah knows his challenge in this election, but it seems that it is not worried about it.. It would not have been so complicated for him to make a resolution on the basis that a seat could be a possible goal, even if he competed and competed together.
 
 ◼️
 
 [Data](articles/9ee0a41f.json)
 
+[Extended Data](ext_articles/9ee0a41f.ext.json)
+
 ---
 
-### தீர்வு எட்டாக்கனியா? : ‘ஓராண்டு கடந்தும் மத்திய கிழக்கில் தொடரும் நெருக்கடி’
+### The solution is Etacia?: Crowd up in the Middle East after a year
 
 *2024-10-13 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196179) · `ta`
 
-ஒரு ஈரானிய - இஸ்ரேலிய யுத்தம் பல அரேபிய நாடுகளை இக்கட்டான நிலைக்கு தள்ளிவிடும். குறிப்பாக ஜோர்தான் கஷ்டப்படட நேரிடும். இத்தகைய சூழ்நிலையில், சகல முனைகளிலும் நெருக்கடி தீவிரம் பெறுவதைத் தடுப்பதற்குரிய உடன்படிக்கையொன்றை ஏற்படுத்துவதற்காக அமெரிக்காவுடன் சேர்ந்து பல அரேபிய நாடுகள் ஈரானுடன் பேச்சவார்ததை நடத்தி வருவதாக செய்திகள் வெளியாகி வருகின்றன.
+Etacia? Middle East tensions rise after one year. Iran-Israel conflict threatens Arab nations, especially Jordan. Reports indicate US-Iran negotiations to prevent escalation across borders.
+
+🟩
+
+An Iranian -Israeli War will push many Arab countries in a predicament. Especially Jordan will suffer. In such a situation, there are reports that many Arab countries, along with the United States, are negotiating with Iran to make an agreement to prevent crisis intensification at all fronts.
 
 ◼️
 
 [Data](articles/cb562c29.json)
+
+[Extended Data](ext_articles/cb562c29.ext.json)
 
 ---
 

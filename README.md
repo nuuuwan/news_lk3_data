@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 18:58:30**
+As of **2024-10-13 19:09:55**
 
 ## Newspaper Stats
 
-*Scraped **49,262** Articles*
+*Scraped **49,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,021
 dailyftlk | 3,334
-adalk | 4,572
+adalk | 4,573
 dailymirrorlk | 4,733
-adaderanalk | 5,822
+adaderanalk | 5,823
 tamilmirrorlk | 6,723
 virakesarilk | 7,875
-adaderanasinhalalk | 8,522
+adaderanasinhalalk | 8,524
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,262 (100.0%) of 49,262 articles have been extended.
+49,266 (100.0%) of 49,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Mumbai Indians decimilly trainer
+
+*2024-10-13 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202124) · `si`
+
+Mumbai Indians appoints Mahela Jayawardene as Chief Trainer. Team struggles under previous coach but reaches finals. Jayawardene leads team to 3 championships.
+
+🟩
+
+The owners of Sri Lanka's former Sri Lanka Cricket captain Mahela Jayawardene has been appointed as the Chief Trainer of Mumbai Indians in the IPL.
+
+As the head coach of the Mumbai team, South African wicketkeeper, a batsman, was also served.
+
+However, during his tenure two years, Mumbai Indians could not make significantly talented.
+
+In the stage of this year, Mumbai was given to the final (10).
+
+IPL won a successful group of Mumbai Indian 5 times.
+
+Mahela Jayawardene won the Championship on three occasions as the Chief Coach.
+
+◼️
+
+[Data](articles/a919eea1.json)
+
+[Extended Data](ext_articles/a919eea1.ext.json)
+
+---
+
+### 15 Chinese nationals arrested in Kotte over online scams
+
+*2024-10-13 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102656/15-chinese-nationals-arrested-in-kotte-over-online-scams) · `en`
+
+Another group of 15 Chinese nationals allegedly involved in online financial scams have been arrested at Welikada in Kotte, police said.
+
+Police spokesman DIG Nihal Thalduwa said that the police have also taken custody of 15 desktop computers and 15 mobile phones which were in the possession of the arrested individuals.
+
+◼️
+
+[Data](articles/5a58f9fe.json)
+
+[Extended Data](ext_articles/5a58f9fe.ext.json)
+
+---
 
 ### Boat collapsed
 
@@ -534,6 +578,30 @@ The Ministry of Education has announced that the decision has been taken only af
 
 ---
 
+### The International Monetary Fund did not object to increase relief - Presidential Advisor
+
+*2024-10-13 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202119) · `si`
+
+IMF agrees to increase relief, says Presidential Advisor Prof. Anil Jayantha. Government aims to boost economy through aid.
+
+🟩
+
+Prof. Presidential Advisor Professor Anil Jayantha says that the IMF has agreed to increase reliefs to the public.
+
+He shows that the relevant proposals will be given to the International Monetary Fund in the future.
+
+Prof. Anil Jayantha added that the present government is the main objective of increasing the relief for the people.
+
+"When discussing the International Monetary Fund, we should take the country's economy to re-revival. The farmer wants to get fertilizer. The fisherman wants to go to work easily. It was not really the Monetary Fund, that the objective us to increase relief. They told you to get your programs, present. There are other institutions connecting with the International Monetary Fund to find money. The Asian Development Bank is the World Bank. We try fast as soon as they provide assistance relief to the real manufacturing process. "
+
+◼️
+
+[Data](articles/51ad5ef6.json)
+
+[Extended Data](ext_articles/51ad5ef6.ext.json)
+
+---
+
 ### Keheliya Rambukwella decides to pause political career, cites ‘recent events’
 
 *2024-10-13 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102653/keheliya-rambukwella-decides-to-pause-political-career-cites-recent-events) · `en`
@@ -577,6 +645,26 @@ Maharashtra’s deputy chief minister Ajit Pawar, who is from the same political
 [Data](articles/ed649ad5.json)
 
 [Extended Data](ext_articles/ed649ad5.ext.json)
+
+---
+
+### Keheliya gets temporarily in politics
+
+*2024-10-13 16:07:29* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-තාවකාලිකව-දේශපාලනයට-සමුදෙයි/11-412465) · `si`
+
+Former Minister Keheliya Rambukwella returns to politics temporarily. He was convicted of corruption allegations. Members gathered at Kandy hotel to discuss his political comeback.
+
+🟩
+
+The former government Minister Keheliya Rambukweera will be temporarily paid to politics at a meeting of his followers, Kandy.
+
+He said that he was convicted of the judicias for five hundred and his members who were called to Kandy's leading hotel in Kandy and that the allegations would be intended to come back to politics.
+
+◼️
+
+[Data](articles/1c9aab7c.json)
+
+[Extended Data](ext_articles/1c9aab7c.ext.json)
 
 ---
 
@@ -2245,99 +2333,5 @@ AKD did not win in any of the Tamils dominated districts. There are many comment
 [Data](articles/a88f0efa.json)
 
 [Extended Data](ext_articles/a88f0efa.ext.json)
-
----
-
-### Tissa Wijeyaratne at the foreign office and briefing on the KGB in London
-
-*2024-10-12 22:54:00* · [`islandlk`](http://island.lk/tissa-wijeyaratne-at-the-foreign-office-and-briefing-on-the-kgb-in-london/) · `en`
-
-(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-The Prime Minister had brought in Mr. Tissa Wijeyaratne, a lawyer, and one who had long antecedents in the Communist Party as the Additional Secretary Foreign Affairs, in the Ministry of Defence and Foreign Affairs. Tissa had a good mind and was a witty speaker. I remember once. when I was an undergraduate at Peradeniya University, Tissa addressing a packed “Room A”, the largest hall in the University on some political topic.
-
-Most of the undergraduates were almost equally divided between Communists and Trotskyites during this time, so that Tissa was well aware that his audience consisted of a large number of Trotskyites. His opening sentence was “Trotskyites of the world unite. You have nothing to lose but your brains!” This was of course an invitation to pandemonium, which duly reigned for quite sometime, until a harassed presiding officer restored some degree of order and silence. That was Tissa.
-
-...
-
-[Data](articles/359e211f.json)
-
-[Extended Data](ext_articles/359e211f.ext.json)
-
----
-
-### Sarath Fonseka not to elections
-
-*2024-10-12 22:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202103) · `si`
-
-Sarath Fonseka decides not to contest general election due to unsuccessful negotiations and lack of support from former allies.
-
-🟩
-
-Former Parliamentarian Field Sarath Fonseka says he has decided not to contest this year's general election.
-
-He referred to the general election this year's general election failed by the negotiations to contest with the cylinder.
-
-"I believe that the leader in the presidential election eventually put the people right away. I'm glad about that. මහ මැතිවරණය ගැන අනුර කුමාර දිසානායක මහතා සමග මම ඉතාම කෙටි... Took about 10 minutes. The view that they were expressed was that the nominations opposed to those who were not with them in the presidential election.. Next, with the former Prime Minister, I was discussing the political journey with the gas cylinder who discussed with former ministers.. Did not attract attractive. As a result, I decided not to compete in this election. "
-
-◼️
-
-[Data](articles/b6291a9c.json)
-
-[Extended Data](ext_articles/b6291a9c.ext.json)
-
----
-
-### ‘A noble opposition can do more work than a govt’ – Dilith Jayaweera
-
-*2024-10-12 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102641/a-noble-opposition-can-do-more-work-than-a-govt-dilith-jayaweera) · `en`
-
-Leader of the ‘Sarvajana Balaya’ alliance, entrepreneur Dilith Jayaweera says that if a noble opposition is created, it can do more work than a government.
-
-He further points out that a courageous opposition will not have to remain in the opposition forever.
-
-He made these comments during a special meeting held today (12) in Waskaduwa with the candidates contesting this year’s parliamentary elections from the ‘Sarvajana Balaya’ under the symbol of the ‘medal’.
-
-“We are talking about nationalism, not racism. Many people are afraid to say that Sri Lanka’s nationalism is based on Sinhala Buddhist civilization. They think that people will get angry if they say this.”
-
-He stated that the issue is that politicians choose the racist part of nationalism and engage in politics. “It’s done in the south... even in the north. We are against that.”
-
-Jayaweera stated that this country can be guided towards economic development if everyone in the country is brought to an entrepreneurial mindset.
-
-...
-
-[Data](articles/6303085c.json)
-
-[Extended Data](ext_articles/6303085c.ext.json)
-
----
-
-### Two trains collide in India
-
-*2024-10-12 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202102) · `si`
-
-Train collision in Tamil Nadu, India: 19 injured, 4 critical. Investigation underway.
-
-🟩
-
-19 persons were injured when a passenger transport train in Tamil Nadu in India.
-
-The train accident occurred in the Vidyalaya in general central general general Thirumani, India at 8.30 pm yesterday.
-
-Evil - Durbanga Bagamathi Railway train was entered by the main railway after the main railway train and collided with a parked train.
-
-Indian media reported how the train boxes had toppled over 12 boxes on the passenger transport train.
-
-At the time of the accident, 1,360 persons were injured in the passenger train.
-
-Although no person has been reported so far in crash, the condition of four are in serious.
-
-An investigation into the accident has been launched and a special committee has been appointed.
-
-◼️
-
-[Data](articles/fffdb62f.json)
-
-[Extended Data](ext_articles/fffdb62f.ext.json)
 
 ---

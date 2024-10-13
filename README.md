@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 22:12:16**
+As of **2024-10-13 22:23:45**
 
 ## Newspaper Stats
 
-*Scraped **49,296** Articles*
+*Scraped **49,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 5,824
 tamilmirrorlk | 6,724
 virakesarilk | 7,895
-adaderanasinhalalk | 8,528
+adaderanasinhalalk | 8,530
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,296 (100.0%) of 49,296 articles have been extended.
+49,298 (100.0%) of 49,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### National Production for Derana 19th Anniversary
+
+*2024-10-13 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202130) · `si`
+
+Derana 19th anniversary blood donation drive launched. TV broadcast nationwide. Focus on children/young adults needing blood transfusions. Registration hotline: 0115 300 700. Celebrity support from cricket legend Muttiah Muralitharan. Visit www.praana.lk to donate.
+
+🟩
+
+The National Program for Donating the blood cells organized by the Derana 19th anniversary commenced today (13).
+
+Television broadcasting of nationwide was brought through TV Derana and today Ada Derana.
+
+Sri Lanka is diagnosed with Sri Lanka a day.
+
+The majority of these patients are children or young adults, and the only treatment they can recover is the blood transplantation, or atom.
+
+However, removing the obstacles and the official document of blood generating donors began today and we were working with the Derana 19th anniversary.
+
+Accordingly, the Ministry of Health will commence the National Blood Transfer Service, Specialist Ministry and Manusan's College Auditors and Manushara, Specialist Doctors' Collection and Manusha Derana.Happened.
+
+Accordingly, blood generated cells were given the opportunity to register by 0115 300 700 to register 0115 300 700.
+
+Meanwhile, veteran cricketers Rosmadda Vaas also joined hands with this program.
+
+...
+
+[Data](articles/b99dad7e.json)
+
+[Extended Data](ext_articles/b99dad7e.ext.json)
+
+---
 
 ### 180 runs in Sri Lanka
 
@@ -91,6 +123,36 @@ He has also appealed to the people not to vote for the election.
 [Data](articles/962a3820.json)
 
 [Extended Data](ext_articles/962a3820.ext.json)
+
+---
+
+### Three people die of inclement weather
+
+*2024-10-13 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202128) · `si`
+
+Three deaths reported due to inclement weather. Disaster Management Center states 118,032 people affected across 14 divisions. Navy and Army providing relief services. Floods ongoing in Kelaniya, Colombo Districts. Irrigation Department warns of continued flooding risks.
+
+🟩
+
+The body of a victim was found in the Kelaniya junction in the Kelaniya Junction area today (13).
+
+According to the Disaster Management Center (DMC) stated that three have died in the face of adverse weather conditions since the 7th.
+
+The Disaster Management Center (DMC) said that 118,032 persons belonging to 29,980 persons belonging to 29,980 families in 14 Divisional Secretariat Divisions in the districts have been affected by the DMC.
+
+Navy and Army Disaster Relief Operations continue to redeem flood victims and to provide disaster relief services.
+
+Meanwhile, 70.2 millrice was reported from the Colombo District of Colombo District.
+
+According to the weather forecast, there is a decrease in a rainy decrease in relation to the previous days, but there are still floods in many areas due to overflowing several major rivers.
+
+According to the Irrigation Department reports, Kelani Ganga is still in small floods from the Drainage of the Hanwella Drainage, which was in the Hanwella dramstage.
+
+...
+
+[Data](articles/af55482a.json)
+
+[Extended Data](ext_articles/af55482a.ext.json)
 
 ---
 
@@ -2251,57 +2313,5 @@ He added that Rajapakse was responsible for organizing the tasks in the 224 cons
 [Data](articles/65045403.json)
 
 [Extended Data](ext_articles/65045403.ext.json)
-
----
-
-### YouTube's nomination rejection; Ali Sabri
-
-*2024-10-13 10:49:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூபரின்-வேட்புமனு-நிராகரிப்பு-அலி-சப்ரி-விசனம்/175-345348) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Election Commission rejects YouTube influencer's nomination due to technical error. Former ministers question legality, citing democracy principles. Influencer plans legal action, arguing nomination officer failed to verify documents before deadline. Critics argue commission prioritizes procedure over voter choice.
-
-🟩
-
-Former Foreign Minister and Justice Minister Ali Sabri has expressed concern over the decision of the Election Commission, which rejected the nomination of the Independent Committee of Yuduber Ashane Senaratne due to technical error.
-
-Sabri questioned whether such rejections based on minor practical issues are in line with the principles of democracy and the rights of the public choosing their leaders.
-
-Famous Yuduber Ashan Senaratne said yesterday that his independent committee was rejected by the Election Commission. Published on social media, he expressed despair and said he was rejected by claiming that the wrong person had given the nomination.
-
-Senaratne announced that he was planning to take legal action against the decision, claiming that the party leader was asked to take another candidate to submit the nomination and wait for him to wait outside.
-
-...
-
-[Data](articles/b108e5e9.json)
-
-[Extended Data](ext_articles/b108e5e9.ext.json)
-
----
-
-### Removes security stalls near Temple Trees
-
-*2024-10-13 10:27:24* · [`adalk`](https://www.ada.lk/breaking_news/අරලියගහ-මන්දිරය-ආසන්නයේ-ආරක්ෂක-කුටි-ඉවත්-කරයි/11-412458) · `si`
-
-Security stalls removed near Temple Trees. Road closure due to security concerns lifted. New government decision aims to ease traffic flow in area.
-
-🟩
-
-The removal of security stalls adjacent to Temple Trees (11) was carried out on Monday (11). The removal of security stalls was carried out by the Colombo Way to the Colombo Way.
-
-According to security reasons, the road from Kollupitiya mosque from Kollupitiya was closed to the Rotunda Roundabout for a few days ago.
-
-The new government has advised the reopening of the road to reopen the current security situation.
-
-This decision will facilitate the traffic and facilitate the public traffic in the surrounding areas.
-
-◼️
-
-[Data](articles/4cd8821b.json)
-
-[Extended Data](ext_articles/4cd8821b.ext.json)
 
 ---

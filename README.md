@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 00:39:05**
+As of **2024-10-14 00:57:12**
 
 ## Newspaper Stats
 
-*Scraped **49,307** Articles*
+*Scraped **49,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 491
 bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,023
-dailyftlk | 3,336
+dailyftlk | 3,339
 adalk | 4,576
 dailymirrorlk | 4,733
 adaderanalk | 5,825
@@ -26,11 +26,73 @@ adaderanasinhalalk | 8,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,307 (100.0%) of 49,307 articles have been extended.
+49,310 (100.0%) of 49,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### People’s Struggle Alliance submits national list featuring activists from 2022 Aragalaya movement
+
+*2024-10-14 00:38:17* · [`dailyftlk`](https://www.ft.lk/news/People-s-Struggle-Alliance-submits-national-list-featuring-activists-from-2022-Aragalaya-movement/56-767928) · `en`
+
+The People’s Struggle Alliance, which emerged from Sri Lanka’s 2022 Aragalaya protest movement, has submitted a national list with the highest number of political activists compared to other political parties.
+
+The list includes a whopping 16 political activists, such as Chamira Koswatta, Hemamali Abeyratne, Dayapala Thiranagama, Rajkumar Rajivkanth, Marisa de Silva, Mangala Maddumage, Erandi Ranaweera, Mohammad Farooq, Nandana Ramanayake, Pechchimuthu Nadarajah, Menard Peiris, Karupiah Satyaseelan, Thanne Gnananda Thera, Ravindra Wickramasinghe, Janaka Peiris, and Pabasiri Jayakodi.
+
+In addition to activists, the list features several trade unionists, including Dharmasiri Lankapeli, Anura Wickramawansha, Dhammika Munasinghe, and Krishantha Priyadarshana. It also includes professionals from various fields, such as three attorneys-at-law, an economic analyst, a journalist, two artists, a university lecturer, and a retired State employee.
+
+...
+
+[Data](articles/6b0224ed.json)
+
+[Extended Data](ext_articles/6b0224ed.ext.json)
+
+---
+
+### Hirunika announces decision to step down as SVB National Organiser
+
+*2024-10-14 00:37:12* · [`dailyftlk`](https://www.ft.lk/news/Hirunika-announces-decision-to-step-down-as-SVB-National-Organiser/56-767927) · `en`
+
+Former MP Hirunika Premachandra says she is stepping down to prioritise her personal political future
+
+Emphasises dedication to SJB and intent to contest in upcoming election under SJB ticket
+
+Expresses disappointment with recent remarks criticising SJB grassroots organisers following the Presidential election
+
+Criticises party’s decision to remove actress Damitha Abeyratne from nomination list, calling it unjust
+
+Former Colombo District Member of Parliament Hirunika Premachandra has announced her decision to step down from her role as the National Organiser of the Samagi Vanitha Balawegaya (SVB), the women’s wing of the Samagi Jana Balawegaya (SJB) headed by Sajith Premadasa.
+
+Premachandra made this announcement at a press conference held in Colombo yesterday.
+
+...
+
+[Data](articles/8463a6d5.json)
+
+[Extended Data](ext_articles/8463a6d5.ext.json)
+
+---
+
+### President instructs officials to provide immediate relief to people affected by adverse weather conditions
+
+*2024-10-14 00:34:33* · [`dailyftlk`](https://www.ft.lk/news/President-instructs-officials-to-provide-immediate-relief-to-people-affected-by-adverse-weather-conditions/56-767926) · `en`
+
+President Anura Kumara Dissanayake has instructed officials to provide immediate relief to those affected by the adverse weather conditions across the country.
+
+He also instructed the Defence Ministry Secretary to ensure special attention is given to the safety of people in districts impacted by floods and landslides and to provide necessary support for effective relief operations.
+
+The President emphasised that the Government will take action to provide necessary assistance to all affected citizens and that local Government officials in the affected areas will be engaged to ensure the people receive the required aid. Until such time, the President requested the public to act cautiously.
+
+Additionally, the President instructed theFinance Ministry to allocate Rs. 50 million for relief services and urged State officials to ensure proper coordination in delivering the relief to those in need.
+
+...
+
+[Data](articles/d6ed0223.json)
+
+[Extended Data](ext_articles/d6ed0223.ext.json)
+
+---
 
 ### Exterminators launches IoT Digi-Pest-Tech in South Asia
 
@@ -2241,71 +2303,5 @@ The Anuradhapura Headquarters Police Inspector Jayaweera said that he was arrest
 [Data](articles/2fc10605.json)
 
 [Extended Data](ext_articles/2fc10605.ext.json)
-
----
-
-### Two Sri Lankans injured in southern Lebanon
-
-*2024-10-13 11:58:49* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-ලෙබනනයේදී-ලාංකිකයන්-දෙදෙනෙක්-තුවාල-ලබයි/11-412459) · `si`
-
-Sri Lankan citizens injured in southern Lebanon. Israeli Embassy expresses concern, investigating incident. UNIFIL members involved. More details pending.
-
-🟩
-
-Israeli Embassy in Israel says that the Israeli Foreign Ministry is concerned in South Lebanon, the Israeli Embassy in Israel. The Embassy said that the Israeli government is conducting an investigation into the incident and that more information will be certified in the future.
-
-The Embassy of the Ministry of External Affairs, the Embassy of the Ministry of External Affairs, has expressed concern for an incident involving two members of the United Nations Interim Forum (UNIFIL) in the South of Lebanon.
-
-◼️
-
-[Data](articles/89a3a300.json)
-
-[Extended Data](ext_articles/89a3a300.ext.json)
-
----
-
-### Smartphone and accessories discovered in prison cells of ‘Ganemulla Sanjeewa’ and ‘Wele Suda’
-
-*2024-10-13 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102646/smartphone-and-accessories-discovered-in-prison-cells-of-ganemulla-sanjeewa-and-wele-suda-) · `en`
-
-The Police Special Task Force (STF) has uncovered a smartphone and several mobile phone accessories hidden in the cells of notorious organized criminals and drug traffickers, “Ganemulla Sanjeewa” and “Wele Suda” inside the Boossa Prison.
-
-Acting on intelligence received by STF officers stationed at the Boossa Prison, an emergency search operation was conducted yesterday (13) in several cells located in the special section of the prison’s A block.
-
-During the operation, officers have discovered a smartphone concealed behind the cell where Sanjeewa Kumara Samararatne alias “Ganemulla Sanjeewa”, is being held.
-
-In a separate cell, multiple mobile phone accessories have been found hidden behind the cell walls where Samantha Kumara, alias “Wele Suda”, is detained.
-
-The STF confirmed that the confiscated phone and related items have been handed over to prison authorities for further investigation.
-
-◼️
-
-[Data](articles/c9409f19.json)
-
-[Extended Data](ext_articles/c9409f19.ext.json)
-
----
-
-### Most competitors in Colombo district
-
-*2024-10-13 11:37:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்டத்தில்-அதிக-போட்டியாளர்கள்/175-345352) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Colombo district: 8,352 candidates contesting general election. Most compete here, according to Election Commission Director General Saman Sri Ratnayake.
-
-🟩
-
-The Election Commission said that 8,352 candidates are contesting this year's general election.
-
-Most of them are contesting from the Colombo district that its Director General Saman Sri Ratnayake said. Remble
-
-◼️
-
-[Data](articles/5e0e54ef.json)
-
-[Extended Data](ext_articles/5e0e54ef.ext.json)
 
 ---

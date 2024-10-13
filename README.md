@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 12:38:49**
+As of **2024-10-13 12:56:51**
 
 ## Newspaper Stats
 
-*Scraped **49,208** Articles*
+*Scraped **49,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,021
 dailyftlk | 3,334
-adalk | 4,565
+adalk | 4,567
 dailymirrorlk | 4,733
-adaderanalk | 5,812
-tamilmirrorlk | 6,707
+adaderanalk | 5,814
+tamilmirrorlk | 6,708
 virakesarilk | 7,864
 adaderanasinhalalk | 8,512
 
@@ -26,61 +26,145 @@ adaderanasinhalalk | 8,512
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,205 (100.0%) of 49,208 articles have been extended.
+49,213 (100.0%) of 49,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
 
-### சதாவின் சகோதரர் வீட்டில்   இருந்து வாகனம் மீட்பு
+### Sapphire
+
+*2024-10-13 12:33:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புடவை-வாங்கி-தராததால்-உயிர்-மாய்ப்பு/175-345355) · `ta`
+
+Jharkhand: Young wife Sentho Devi (26) booked after argument over husband's refusal to buy new sari. Incident occurred in Bakjoba village, Tumka district.
+
+🟩
+
+The shocking incident in Jharkhand has shocked a young woman who was dissatisfied with her husband's not buying a new sari.
+
+Sentho Devi (26 years old) hails from Bakjoba village in Tumka district. Her husband is a tractor driver. They have two children. In this case, Sentho Devi asked her husband to buy a new sari. But he could not buy the saree.
+
+Disgusted by her husband, Sentho Devi, who was dissatisfied with the lack of saree, was booked in front of the train on Saturday (12).
+
+◼️
+
+[Data](articles/cd840acf.json)
+
+[Extended Data](ext_articles/cd840acf.ext.json)
+
+---
+
+### Vehicle recovery from Sada's brother's house
 
 *2024-10-13 12:14:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சதாவின்-சகோதரர்-வீட்டில்-இருந்து-வாகனம்-மீட்பு/76-345354) · `ta`
 
-இலங்கை தொழிலாளர் ஐக்கிய முன்னணியின் பொதுச்செயலாளரும் முன்னாள் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான சுப்பையா சதாசிவத்தின் சகோதரர் வீட்டில் சனிக்கிழமை (12) மாலை மீட்கப்பட்டுள்ளது.
+Vehicle recovered from Sada's brother's house. Brother, ex-Nuwara Eliya MP, found. Police claim illegal hiding. Public urged to report. Vehicle at Nuwara Eliya Police Station.
 
-அரசாங்கத்தினால் பல்வேறு தேவைகளுக்காக வழங்கப்படும் வாகனங்கள் ஏதேனும் ஒரு இடத்தில் மோசடியாகவோ அல்லது சட்டவிரோதமாகவோ மறைத்து வைக்கப்பட்டு பாழடைந்த நிலையில் விடப்பட்டால் அது தொடர்பில் தெரிவிக்க பொதுமக்களிடம் கோரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-இதற்கமைய நுவரெலியா பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலையடுத்து சட்டவிரோதமாக மறைத்து வைக்கப்பட்ட நிலையில், குறித்த வாகனம் மீட்கப்பட்டு நுவரெலியா பொலிஸ் நிலையத்தில் பொலிஸாரின் பாதுகாப்பில் வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Subbaiah Sadasivam's brother, General Secretary of the Ceylon Workers United Front and former Nuwara Eliya district parliamentarian, has been recovered on Saturday evening.
+
+The public has been asked to report on the matter if the government has been fraudulently or illegally hidden in any place.
+
+According to the police said that the vehicle was recovered and the vehicle was kept at the Nuwara Eliya Police Station as the Nuwara Eliya police were illegally hidden.
 
 ◼️
 
 [Data](articles/d3f55c76.json)
 
+[Extended Data](ext_articles/d3f55c76.ext.json)
+
 ---
 
-### பொறுப்புக்கூறலுக்கு உள்நாட்டு பொறிமுறை - உயிர்த்த ஞாயிறு தாக்குதல் - நிதி குற்றங்கள் குறித்து ஆராய புதிய குழுக்கள் - அரசாங்கம் திட்டம்
+### Domestic mechanism for accountability - resurrection Sunday attack - new committees to investigate financial crimes
 
 *2024-10-13 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196153) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதல்  நல்லிணக்க செயற்பாடுகள் நிதி குற்றங்கள் குறித்து ஆராய்வதற்காக அரசாங்கம் மூன்று உயர்மட்ட குழுக்களை நியமிக்கவுள்ளது.
+Government forms 3 committees: 1) Investigate financial crimes related to "lifeblood Sunday" attacks, 2) Recover stolen tax money, 3) Probe "resurrection Sunday" attack. Domestic mechanism aims for accountability and justice for victims.
 
-ஒழுக்காற்று அடிப்படையிலான ஆட்சி ஊழல் வீண்விரயம் போன்றவற்றிற்கு தீர்வை காணுதல்  போன்ற ஜனாதிபதியின் தேர்தல்கால வாக்குறுதிகளை அடிப்படையாக கொண்டு இந்த குழுக்களை அரசாங்கம் நியமிக்கவுள்ளதாக அரசாங்க வட்டார தகவல்கள் தெரிவித்துள்ளன.
+🟩
 
-உள்நாட்டு பொறிமுறை மூலமே பொறுப்புக்கூறலிற்கு தீர்வு காணப்படும் என தெரிவித்துள்ள அந்த வட்டாரங்கள் பொறுப்புக்கூறல் நல்லிணக்க விடயத்திற்கு தீர்வை காணக்கூடிய திறமையான நபர்கள் எங்களிடம் உள்ளனர் என அரசவட்டாரங்கள் தெரிவித்துள்ளன.
+The government will appoint three high -level committees to investigate financial crimes of the lifeblood Sunday attacks.
 
-பாதிக்கப்பட்டுள்ள பெருமளவு மக்களின் துயரங்கள் குறித்து நாங்கள் அறிவோம்,நாங்கள் அவர்களிற்கு நீதியை வழங்குவோம் என தெரிவித்துள்ள அரசாங்க வட்டாரங்கள் நம்பகதன்மை மிக்க உண்மை மற்றும் நல்லிணக்க செயற்பாடுகள் முன்னெடுக்கப்படும் எனவும் தெரிவித்துள்ளன.
+According to government sources, the government will appoint these groups based on the presidential election promises, such as disciplinary regime corruption.
 
-இன்னமும் தீர்வு காணப்படாமல் உள்ள பொறுப்புக்கூறல் சம்பவங்களின் எண்ணிக்கையை அறிவதற்கான நடவடிக்கைகளை விசாரணை அதிகாரிகள் துரிதப்படுத்தியுள்ளனர் எனவும் அவை தெரிவித்துள்ளன.
+The sources said that we have a talented person who can find a solution to the issue of accountability, which will be solved by domestic mechanism.
+
+We are aware of the tragedies of the affected people and that we will provide justice to them, said government sources.
+
+They have also stated that investigators have accelerated the measures to know the number of cases of accountability that has not yet been resolved.
+
+Meanwhile, government sources said that a group would make recommendations to recover the tax money of the lost public about corrupt stolen assets.
 
 ...
 
 [Data](articles/bfd9ab34.json)
 
+[Extended Data](ext_articles/bfd9ab34.ext.json)
+
 ---
 
-### விசேட தேவையுடைய சிறுவர்களை சித்திரவதை செய்த விடுதி காப்பாளர் கைது
+### Hostel guard arrested for torture of boys with special needs
 
 *2024-10-13 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196147) · `ta`
 
-அநுராதபுரம் நகரிலுள்ள விசேட தேவையுடையோர் பாடசாலையின் விடுதியில் வசிக்கும் சிறுவர்களை சித்திரவதை செய்ததாக கூறப்படும் அவ்விடுதியின் காப்பாளர் நேற்று சனிக்கிழமை (12) கைது செய்யப்பட்டதாக அநுராதபுரம் பொலிஸார் தெரிவித்தனர்.
+Hostel guard arrested for torturing boys with special needs in Anuradhapura. Police acted on parent complaints about guardian being assaulted by children aged 10-15.
 
-பெண்கள் மற்றும் சிறுவர் பணியகத்துக்கு கிடைத்த முறைப்பாட்டின் பிரகாரம், அநுராதபுரம் பொலிஸ் உத்தியோகத்தர்கள் குழுவொன்றினால் இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-விடுதியில் வசிக்கும் 10 முதல் 15 வயதுக்குட்பட்ட செவித்திறன் குறைபாடுடைய ஏழு சிறுவர்களை இந்த காப்பாளர் தடியினால் தாக்கியதாக பெற்றோரிடம் இருந்து கிடைக்கப்பெற்ற முறைப்பாடுகளின் அடிப்படையில் அவர் கைது செய்யப்பட்டதாக அனுராதபுரம் தலைமை அலுவலக பொலிஸ் பரிசோதகர் ஜயவீர தெரிவித்தார்.
+Anuradhapura police said that the guardian who was allegedly tortured by the boys living in a special needy school in Anuradhapura was arrested on Saturday (12).
+
+She has been arrested by a group of police officers Anuradhapura police officers according to the complaint received by the Women and Children Bureau.
+
+The Anuradhapura Headquarters Police Inspector Jayaweera said that he was arrested on the basis of complaints received from their parents that the guardian was attacked by the stick of seven children from the age of 10 to 15 years.
 
 ◼️
 
 [Data](articles/2fc10605.json)
+
+[Extended Data](ext_articles/2fc10605.ext.json)
+
+---
+
+### Two Sri Lankans injured in southern Lebanon
+
+*2024-10-13 11:58:49* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-ලෙබනනයේදී-ලාංකිකයන්-දෙදෙනෙක්-තුවාල-ලබයි/11-412459) · `si`
+
+Sri Lankan citizens injured in southern Lebanon. Israeli Embassy expresses concern, investigating incident. UNIFIL members involved. More details pending.
+
+🟩
+
+Israeli Embassy in Israel says that the Israeli Foreign Ministry is concerned in South Lebanon, the Israeli Embassy in Israel. The Embassy said that the Israeli government is conducting an investigation into the incident and that more information will be certified in the future.
+
+The Embassy of the Ministry of External Affairs, the Embassy of the Ministry of External Affairs, has expressed concern for an incident involving two members of the United Nations Interim Forum (UNIFIL) in the South of Lebanon.
+
+◼️
+
+[Data](articles/89a3a300.json)
+
+[Extended Data](ext_articles/89a3a300.ext.json)
+
+---
+
+### Smartphone and accessories discovered in prison cells of ‘Ganemulla Sanjeewa’ and ‘Wele Suda’
+
+*2024-10-13 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102646/smartphone-and-accessories-discovered-in-prison-cells-of-ganemulla-sanjeewa-and-wele-suda-) · `en`
+
+The Police Special Task Force (STF) has uncovered a smartphone and several mobile phone accessories hidden in the cells of notorious organized criminals and drug traffickers, “Ganemulla Sanjeewa” and “Wele Suda” inside the Boossa Prison.
+
+Acting on intelligence received by STF officers stationed at the Boossa Prison, an emergency search operation was conducted yesterday (13) in several cells located in the special section of the prison’s A block.
+
+During the operation, officers have discovered a smartphone concealed behind the cell where Sanjeewa Kumara Samararatne alias “Ganemulla Sanjeewa”, is being held.
+
+In a separate cell, multiple mobile phone accessories have been found hidden behind the cell walls where Samantha Kumara, alias “Wele Suda”, is detained.
+
+The STF confirmed that the confiscated phone and related items have been handed over to prison authorities for further investigation.
+
+◼️
+
+[Data](articles/c9409f19.json)
+
+[Extended Data](ext_articles/c9409f19.ext.json)
 
 ---
 
@@ -105,6 +189,26 @@ Most of them are contesting from the Colombo district that its Director General 
 [Data](articles/5e0e54ef.json)
 
 [Extended Data](ext_articles/5e0e54ef.ext.json)
+
+---
+
+### Severe weather affects over 76,000 people across 11 districts
+
+*2024-10-13 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102645/severe-weather-affects-over-76000-people-across-11-districts) · `en`
+
+The Disaster Management Centre (DMC) reports that severe weather conditions, including floods, strong winds, and fallen trees, have affected 76,218 individuals from 18,795 families across 11 districts in Sri Lanka.
+
+The Gampaha District has been the hardest hit, with 68,672 people from 16,707 families impacted.
+
+Tragically, the disaster has claimed two lives, while two others have sustained injuries. Additionally, 223 houses have suffered partial damage, according to the DMC.
+
+Meanwhile, the Irrigation Department noted a decrease in water levels for the Attanagalu Oya, Kelani, Gin, Nilwala, and Kalu rivers, following minimal rainfall over the past 24 hours. However, Irrigation Engineer from the Hydrology and Disaster Management Division, Mrs. Sakura Dilthara cautioned that some areas remain submerged.
+
+...
+
+[Data](articles/df584e06.json)
+
+[Extended Data](ext_articles/df584e06.ext.json)
 
 ---
 
@@ -315,6 +419,30 @@ Senaratne announced that he was planning to take legal action against the decisi
 [Data](articles/b108e5e9.json)
 
 [Extended Data](ext_articles/b108e5e9.ext.json)
+
+---
+
+### Removes security stalls near Temple Trees
+
+*2024-10-13 10:27:24* · [`adalk`](https://www.ada.lk/breaking_news/අරලියගහ-මන්දිරය-ආසන්නයේ-ආරක්ෂක-කුටි-ඉවත්-කරයි/11-412458) · `si`
+
+Security stalls removed near Temple Trees. Road closure due to security concerns lifted. New government decision aims to ease traffic flow in area.
+
+🟩
+
+The removal of security stalls adjacent to Temple Trees (11) was carried out on Monday (11). The removal of security stalls was carried out by the Colombo Way to the Colombo Way.
+
+According to security reasons, the road from Kollupitiya mosque from Kollupitiya was closed to the Rotunda Roundabout for a few days ago.
+
+The new government has advised the reopening of the road to reopen the current security situation.
+
+This decision will facilitate the traffic and facilitate the public traffic in the surrounding areas.
+
+◼️
+
+[Data](articles/4cd8821b.json)
+
+[Extended Data](ext_articles/4cd8821b.ext.json)
 
 ---
 
@@ -2287,131 +2415,5 @@ In addition, small floods were also flooded from the Milkanda area in Milkanda a
 [Data](articles/3d8d9b8e.json)
 
 [Extended Data](ext_articles/3d8d9b8e.ext.json)
-
----
-
-### Ajith is going to flee with Sajith
-
-*2024-10-12 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202081) · `si`
-
-Former UNP MP Ajith Mannapperuma announces withdrawal from Gampaha District election due to removal as organizer. Cites frustration over alleged secret deal between party leader Ranil Wickremasinghe and Sajith Premadasa.
-
-🟩
-
-Former UNP MP Ajith Mannapperuma said he would not contest this year, even though the Gampaha District Nominations List was named in the Gampaha District nomination list.
-
-He held a news conference, he said that this decision was taken as a result of his removal of the Gampaha District Organizer.
-
-"I am a candidate list in the Gampaha District of the Gampaha district in this year's election. Also, the Gampaha seat is the organizer for the. But even if I submit nominations from the proposal as a candidate this time, I intended to avoid votes.
-
-I especially say that I request not to use that vote for me because it does not want to be working with unique folk force.. Because Sajith Premadasa speaks to our party's leader. When I signed a Nomination and 24-hour, Ranil Wickremarasi has been secretly given to a person who worked for the government for the Colon National Party. It caused me to frustrate.
-
-◼️
-
-[Data](articles/9af69a09.json)
-
-[Extended Data](ext_articles/9af69a09.ext.json)
-
----
-
-### New strategy from man
-
-*2024-10-12 12:47:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுசவிடமிருந்து-புதிய-யுக்தி/175-345316) · `ta`
-
-Manusha Nanayakkara introduces Sri Lanka's first election phonetic book for campaign. Uses audio leaflets distributed via digital media. Innovative approach to reach voters with varying literacy levels. Environmentally friendly alternative to traditional campaign methods.
-
-🟩
-
-The Galle District candidate of the New Democratic Front, Manusha Nanayakkara, has taken steps to publish Sri Lanka's first election phonetic book for political campaign.
-
-In the upcoming parliamentary general election, the new Democratic Front candidate is contesting the gas cylinder symbol in Galle district.
-
-Audio Leaflet has been introduced in his election campaign
-
-This phonetic will be distributed through digital media sites in the future. This is the most effective way to contact his voters.
-
-This is the first time in Sri Lanka that the use of technology that does not affect the environment is common in the developed countries of the world.
-
-Using the phonetic phonetic for the political campaign and contact people with different literacy levels in the same way. Therefore, it can easily distribute his political message and easily socialize.
-
-...
-
-[Data](articles/a3bd00cd.json)
-
-[Extended Data](ext_articles/a3bd00cd.ext.json)
-
----
-
-### Mannar
-
-*2024-10-12 12:44:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-சதோச-மனித-எலும்புக்கூடுகள்-விவகாரம்/72-345315) · `ta`
-
-Mannar Court case: Human remains exhumed, sent to Colombo for analysis. Hearing scheduled for Wednesday.
-
-🟩
-
-Attorney -at -Law VS Winnjan said that the Mannar 'Sathosa' human burial case will be taken up at the Mannar Court on Wednesday, and action will be taken to take appropriate evidence to the companies in Colombo that day.
-
-Attorney -at -Law VS Iinjanan, who appears in the House on behalf of the missing relations when he inquired about the 'Satosa' human burial of Mannar.
-
-The 'Sathosa' human burial case at the Mannar Magistrate's Court has been packed and placed in the court premises, along with the human skeletal volumes, which have already been excavated in the Sathosa human burial ground from Monday (7) to Friday (11).
-
-After several years, five days later, a group led by Professor Raj Somadeva and the Committee of the Legal Officer and the Mannar Magistrate, in the presence of the Mannar Magistrate, on behalf of the missing persons, the lawyers and the court officials carried out the quality of action.
-
-...
-
-[Data](articles/3ef33838.json)
-
-[Extended Data](ext_articles/3ef33838.ext.json)
-
----
-
-### Western, Southern Province Roads Freeze
-
-*2024-10-12 12:14:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேல்-தென்-மாகாண-வீதிகள்-முடக்கம்/175-345313) · `ta`
-
-Flooding affects roads in Western and Southern Provinces. Multiple routes blocked, especially in Kalutara district. Areas like Minuwangoda, Katana, and Homagama also impacted.
-
-🟩
-
-In the upper and Southern provinces, traffic on many streets has been cut off due to floods.
-
-The Most of the roads have been affected in the Kalutara district, the Disaster Management Center said.
-
-Accordingly, the roads of Bandaragama - Kolamiriya, Balindanuwara - Baduraliya, Paralavitta - Avittawa, Kalutara - Matugama, Pulathsingha - Molca have been flooded.
-
-Many areas including Minuwangoda, Katana, Hanwella, Kaduwela, Kolonnawa, Pannala, Homagama have been flooded. (An)
-
-◼️
-
-[Data](articles/50bceee1.json)
-
-[Extended Data](ext_articles/50bceee1.ext.json)
-
----
-
-### Man dies after a clash due to land dispute
-
-*2024-10-12 12:13:35* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩම්-ආරවුලක්-නිසා-ඇති-වූ-ගැටුමකින්-පුද්ගලයෙකු-මරුට/11-412452) · `si`
-
-Land dispute leads to fatal clash: 3 injured, 1 dead. Two suspects arrested. Post-mortem scheduled. Investigation ongoing.
-
-🟩
-
-The three people who had been speaking to a chat with a person who was traveling from the Beliatta Police Station, owned by the Beliatta Police Station, had a dispute with him.
-
-Two of the three drunken of drinking were near the house near the land and had a clash. A 62-year-old woman, a 65-year-old man, and 18 years of injuries were injured in the hospital. The 65 year old injuries was reported at the Tangalle Base Hospital yesterday (11), Beliatta Police said.
-
-Beliatta Police say that the deceased has been boring in the area of ​​cutting abroad
-
-The post mortem will be taken to the Matara Hospital today (12), and the two suspects were taken into custody.He was spent.
-
-The reason for the incident is a land dispute and the Beliatta Police are conducting further investigations.
-
-◼️
-
-[Data](articles/86be6c02.json)
-
-[Extended Data](ext_articles/86be6c02.ext.json)
 
 ---

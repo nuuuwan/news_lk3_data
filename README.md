@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 12:56:51**
+As of **2024-10-13 13:08:20**
 
 ## Newspaper Stats
 
-*Scraped **49,213** Articles*
+*Scraped **49,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,021
 dailyftlk | 3,334
 adalk | 4,567
 dailymirrorlk | 4,733
-adaderanalk | 5,814
-tamilmirrorlk | 6,708
+adaderanalk | 5,815
+tamilmirrorlk | 6,709
 virakesarilk | 7,864
 adaderanasinhalalk | 8,512
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 8,512
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,213 (100.0%) of 49,213 articles have been extended.
+49,215 (100.0%) of 49,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Rajapaksa brothers opt out of Sri Lanka’s November 14 general elections
+
+*2024-10-13 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102647/rajapaksa-brothers-opt-out-of-sri-lankas-november-14-general-elections) · `en`
+
+None of the Rajapaksa brothers, who dominated Sri Lankan politics for decades until they were booted out of office in 2022, will contest in the island nation’s general elections next month.
+
+As nominations for the November 14 parliamentary polls closed on Friday (October 11, 2024), the list of candidates fielded by the Rajapaksas’ Sri Lanka Podujana Peramuna (SLPP or People’s Front) showed former President and former Prime Minister Mahinda Rajapaksa, 78, former President Gotabaya Rajapaksa, 75, former Irrigation Minister Chamal Rajapaksa, 81, former Finance Minister Basil Rajapaksa, 73, are not running.
+
+Further, Mr. Mahinda’s son Namal Rajapaksa, who was a Cabinet Minister in Mr. Gotabaya’s ousted administration, is not contesting but is on the party’s “national list”, which includes names of members to be nominated for extra seats the party may secure, based on its share of votes polled.
+
+...
+
+[Data](articles/dbf29465.json)
+
+[Extended Data](ext_articles/dbf29465.ext.json)
+
+---
+
+### Attempting to distribute tin fish
+
+*2024-10-13 12:38:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டின்-மீன்களை-விநியோகிக்கும்-முயற்சி-முறியடிப்பு/175-345356) · `ta`
+
+Sri Lanka Ministry of Environment halts distribution of tainted tin fish due to excessive arsenic levels. Products worth $215,000 imported in 2021 were not released after arsenic detection. Arsenic limit for tin fish set at 1mg/kg, exceeding safety standards for livestock fodder and fertilizer use. Country aims to protect citizens from heavy metal pollution-related health risks.
+
+🟩
+
+An official said that the Ministry of Environment has thwarted an attempt to distribute tin fish mixed with tin fish mixed with tin fish to the market more than the amount allowed to produce fertilizer or livestock fodder.
+
+The products worth US $ 215,000 were imported in 2021, but they were not released to the market after the Arsenic was found.
+
+Secretary to the Ministry Prabhat Chandrakirthi told the Daily Mirror that he had instructed them to return the stockpile for any purpose.
+
+While the arsenic content in the stockpile is found at 1.3 milligrams per kg, the permitted limit is one milligram per kilogram.
+
+"Such contaminated fish cannot be allowed to use for livestock fodder or manure," he said.
+
+According to an official of the Food Control and Health Unit, the amount of arsenic allowed in accordance with the types of food products varies.
+
+Total Arsenic - Organic and Mineral Size - one milligram per kg has been declared for tin fish in Sri Lanka, said an official.
+
+...
+
+[Data](articles/a40f41e0.json)
+
+[Extended Data](ext_articles/a40f41e0.ext.json)
+
+---
 
 ### Sapphire
 
@@ -2363,57 +2411,5 @@ Fifteen computers and 300 mobile phones have been handed over by the police.
 [Data](articles/93a447c3.json)
 
 [Extended Data](ext_articles/93a447c3.ext.json)
-
----
-
-### Ajith Mannapperuma withdraws from contesting election and quits SJB
-
-*2024-10-12 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102633/ajith-mannapperuma-withdraws-from-contesting-election-and-quits-sjb) · `en`
-
-Former MP Ajith Mannapperuma, who submitted his nomination to contest the general elections from the Gampaha District under the Samagi Jana Balawegaya (SJB), has announced his withdrawal from the election and his resignation from the party.
-
-During a press conference today (12), he stated that this decision was made due to his removal from the position of SJB chief organiser for Gampaha electorate.
-
-“I am a candidate on the SJB list for the Gampaha District in this election. I have also served as the organiser for the Gampaha constituency for 20 years. However, even though I submitted my nomination as a candidate for the SJB this time, I intended to refrain from asking for votes,” he said.
-
-He emphasized that he no longer wishes to work with the SJB and requested that people not vote for him.
-
-...
-
-[Data](articles/d252bbc2.json)
-
-[Extended Data](ext_articles/d252bbc2.ext.json)
-
----
-
-### Many locations including Colombo floods
-
-*2024-10-12 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202082) · `si`
-
-Colombo floods: Heavy rains cause widespread submergence in suburbs, including Nagalagam Street and Hanwella. Kelani River overflows, affecting areas like Kolonnawa, Wellampitiya, and Ambatale. IDP camps set up for displaced residents.
-
-🟩
-
-In the Colombo-Colombo and suburbs, heavy showers in Colombo and suburbs was reported from the Elston area in Colombo and the last 24-hour rainfall.
-
-According to the report of the Irrigation Department today (12th), the Kalani Ganga, Kelani Ganga, a slight flooding in Nagalagam Street and Hanwella.
-
-Accordingly, Kolonnawa, Wellampitiya, Kelanimulla as well as Ambatale, Galwana and Malwana have been submerged.
-
-Meanwhile, the Kaduwela interchange on the Southern Expressway as well as the Southern Expressway is also inundated due to overflowing Kelani River.
-
-Hanwella Water Station is the water level of the Kelani River. Rose to 8.8.
-
-As a result, the Hotugakipuralella, Seelaviwatta, Jayawatagoda, Walawatta, Wenagoda, the Iiyathagoda, Wagol and Iiyagolla have been submerged.
-
-The people in the houses were sent to IDP camps.
-
-In addition, small floods were also flooded from the Milkanda area in Milkanda area and the Gin River in Baddegama..  කළුතර - බණ්ඩාරගම ප්‍රධාන මාර්ගය ද ජලයෙන් යටවිය.
-
-...
-
-[Data](articles/3d8d9b8e.json)
-
-[Extended Data](ext_articles/3d8d9b8e.ext.json)
 
 ---

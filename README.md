@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 07:27:49**
+As of **2024-10-13 08:25:30**
 
 ## Newspaper Stats
 
-*Scraped **49,176** Articles*
+*Scraped **49,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,112 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,019
 dailyftlk | 3,334
-adalk | 4,560
+adalk | 4,562
 dailymirrorlk | 4,733
 adaderanalk | 5,809
-tamilmirrorlk | 6,698
+tamilmirrorlk | 6,700
 virakesarilk | 7,858
-adaderanasinhalalk | 8,505
+adaderanasinhalalk | 8,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,170 (100.0%) of 49,176 articles have been extended.
+49,173 (100.0%) of 49,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### සැඩ පහරට ගසාගෙන ගිය පුද්ගලයකු මිය යයි
+
+*2024-10-13 07:29:07* · [`adalk`](https://www.ada.lk/breaking_news/සැඩ-පහරට-ගසාගෙන-ගිය-පුද්ගලයකු-මිය-යයි/11-412454) · `si`
+
+අඟුරුවාතොට රයිගම ප්‍රධාන මාර්ගයේ හල්තොට බෝධිය ආසන්නයේ දි සැඩ පහරට  හසු වූ පුද්ගලයෙකු  දීයේ ගිලී මිය ගොස් ඇතැයි මිල්ලනිය පොලිසිය කියයි.
+
+සිද්ධියෙන් මියගොස් ඇත්තේ හල්තොට තුතිරිපිටිය ප්‍රදේශයේ පදිංචිව සිටි වැලිකඩගේ වසන්ත කුමාර නැමැති 48 හැවිරිදි  දෙදරු පියෙකි.
+
+මරණකරු   පිටාර ගිය වතුරේ  මාර්ගය හරහා ගමන් කිරීමේදී සැඩ පහරට අසුව ගසාගෙන යාමේදී එය දුටු ප්‍රදේශවාසීන් වහා ක්‍රියාත්මක වී ඔහු බේරාගෙන  ට්‍රැක්ටරයකින්  හල්තොට රජයේ රෝහල වෙත රැගෙන ගොස් ඇති අතර ඒ වන විටත් ඔහු මියගොස් සිට ඇතැයි පොලිසිය සඳහන් කරයි.
+
+මියගිය අයගේ පශ්චාත් මරණ පරීක්ෂණය හොරණ මූලික රෝහලේදී සිදු කිරීමට නියමිතය. මිල්ලනිය  පොලිසියේ වැඩ බලන ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ආර් එම් එස් රත්නවිර මහතාගේ උපදෙස් මත විමර්ශන සිදුකෙරේ.
+
+◼️
+
+[Data](articles/dff70b23.json)
+
+---
+
+### A large number of people suffer from inclement weather
+
+*2024-10-13 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202107) · `si`
+
+Inclement weather affects 18,795 individuals, mostly in Gampaha district. Floods, strong winds, and fallen trees caused damage. Two deaths and injuries reported. Water levels decreasing in major rivers. Landslide warnings issued for 47 Divisional Secretariat divisions.
+
+🟩
+
+Due to the prevailing bad weather conditions, 18,795 persons belonging to 18,795 families have been affected by the inclement weather.
+
+The Disaster Management Center stated that the situation was created due to floods, heavy winds and trees.
+
+The highest impact on Gampaha district, 68,672 persons belonging to 16,707 families have been affected.
+
+Two persons were killed and two others were injured and two others were injured in disasters.
+
+The water levels in the Attanagalu Oya and Kelani, Ganga, Nilwala and Black are on the decrease due to lack of significant rainfall during the past 24 hours.
+
+Water Science and Disaster Management Division of the Irrigation Engineer of the Irrigation Department of Irrigation. Mrs. Sakura Diltota.
+
+...
+
+[Data](articles/3e0d0a20.json)
+
+[Extended Data](ext_articles/3e0d0a20.ext.json)
+
+---
+
+### Time to issue expenses to be given the expenditure reports of presidential election campaign
+
+*2024-10-13 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202106) · `si`
+
+Presidential election campaign expense reports deadline: Candidates must submit reports within 21 days after election. Election Commission expects all candidates to receive spending details today.
+
+🟩
+
+Candidates who contested for the presidential election this year are due to end today.
+
+The Election Commission said that this will be over 3 pm today (13).
+
+According to the Elections Registration Act, cost reports should be provided within 21 days of the end of the presidential election.
+
+However, the Election Commission states that the 38 candidates who had been served to the previous presidential election have been submitted to this recent number of candidates.
+
+The Elections Commission said that other candidates will be given their spending reports today.
+
+The Elections Commission said that the Elections Registration Act is under the Regulatory Act.
+
+◼️
+
+[Data](articles/7b449e8a.json)
+
+[Extended Data](ext_articles/7b449e8a.ext.json)
+
+---
+
+### கடற்றொழில் அமைப்புக்களை சந்தித்தார் கனடா தூதர்
+
+*2024-10-13 06:23:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்றொழில்-அமைப்புக்களை-சந்தித்தார்-கனடா-தூதர்/175-345344) · `ta`
+
+இலங்கைக்கான கனேடியத் தூதுவர் எரிக் வால்ஷ் யாழ்ப்பாணம், தீவகப்  பகுதி கடற்றொழில் அமைப்புக்கள் மற்றும் தீவகப் பெண்கள் வலையமைப்பின் பிரதிநிதிகளை நேற்று சந்தித்துக் கலந்துரையாடினார்.
+
+யாழ். புங்குடுதீவு புனித பிரான்சிஸ் சவேரியார் சனசமூக நிலைய மண்டபத்தில் இந்தச் சந்திப்பு இடம்பெற்றது.
+
+இதில் வடக்கு மாகாண கடற்றொழிலாளர் இணையத்தின் ஊடகப் பேச்சாளர் அன்னலிங்கம் அன்னராசா, மெசிடோ நிறுவனத்தின் பணிப்பாளர் யாட்ச்சன் பிகிராடொ, தீவகப் பெண்கள் வலையமைப்பினர், தீவகப் பகுதி கடற்றொழில் அமைப்புக்களின் நெடுந்தீவு சமாசத் தலைவர் யூலியான் குரூஸ், நெடுந்தீவு, நயினாதீவு, அனலைதீவு பிரதேச மீனவப் பெண்கள் அமைப்பைச் சேர்ந்த மூவர் உட்படப் பலரும் கலந்துகொண்டனர். (a)
+
+◼️
+
+[Data](articles/108691b5.json)
+
+---
 
 ### Showers in many areas today
 
@@ -53,6 +143,22 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/e12f2a85.json)
 
 [Extended Data](ext_articles/e12f2a85.ext.json)
+
+---
+
+### பொலிஸ் உத்தியோகத்தர் வீட்டில் திருட்டு
+
+*2024-10-13 01:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தர்-வீட்டில்-திருட்டு/175-345343) · `ta`
+
+யாழ்ப்பாணம், நவாலி பகுதியில் உள்ள பொலிஸ் உத்தியோகத்தர் ஒருவரின் வீட்டில் நகைகள் மற்றும் ஒரு தொகை பணம் என்பன திருடப்பட்டுள்ளன என்று பொலிஸார் தெரிவித்தனர்.
+
+வீட்டின் குளியலறை ஊடாக உள்நுழைந்த திருடர்கள், ஆறரை பவுண் நகை மற்றும் 29 ஆயிரம் ரூபா பணம் என்பவற்றைத் திருடிச் சென்றுள்ளனர்.
+
+இந்தச் சம்பவம் குறித்து மானிப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யப்பட்டதுடன், பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/ac4d03b3.json)
 
 ---
 
@@ -276,6 +382,8 @@ Most of the undergraduates were almost equally divided between Communists and Tr
 
 [Data](articles/359e211f.json)
 
+[Extended Data](ext_articles/359e211f.ext.json)
+
 ---
 
 ### Sarath Fonseka not to elections
@@ -459,6 +567,24 @@ The reason is that the two thighs cover completely their faces, cannot find any 
 [Data](articles/4925ba0f.json)
 
 [Extended Data](ext_articles/4925ba0f.ext.json)
+
+---
+
+### ආපදා නිසා විපතට පත් ජනතාවට සහන සැලසීමට ජනපතිගෙන් උපදෙස්
+
+*2024-10-12 20:46:02* · [`adalk`](https://www.ada.lk/breaking_news/ආපදා-නිසා-විපතට-පත්-ජනතාවට-සහන-සැලසීමට-ජනපතිගෙන්-උපදෙස්/11-412453) · `si`
+
+දිවයිනට බලපා ඇති අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් ආපදාවට පත් ජනතාවට අවශ්‍ය කඩිනම් සහන සලසන ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා නිලධාරින්ට උපදෙස් දී ඇත.
+
+එසේම අයහපත් කාලගුණ තත්ත්වය හමුවේ ගංවතුර සහ නාය යාම්වලට ගොදුරුවී ඇති දිස්ත්‍රික්කවල ජනතාවගේ ආරක්ෂාව පිළිබඳ විශේෂ අවධානයකින් කටයුතු කරන ලෙසත්, සහන සේවා කටයුතු කාර්යක්ෂමව ක්‍රියාත්මක කිරීමට අවශ්‍ය සහාය ලබා දෙන ලෙසත් ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයා වෙත දැනුම් දෙන ලදී.
+
+හදිසි ආපදා තත්ත්වය හේතුවෙන් විපතට පත් සියලු ජනතාවට අවශ්‍ය සහන සැලසීමට රජය කටයුතු කරන බව සඳහන් කළ ජනාධිපතිවරයා, අදාළ පළාත්වල රාජ්‍ය නිලධාරින් සම්බන්ධ කර ගැනීමෙන් ඉදිරියේ දී ජනතාවට එම සහන ලබා ගත හැකි බවත් පැවසීය.
+
+එතෙක් පරීක්ෂාකාරීව කටයුතු කරන ලෙසද ජනාධිපතිවරයා ජනතාවගෙන් ඉල්ලා සිටියි. මෙම සහන සේවා කටයුතු වෙනුවෙන් රුපියල් මිලියන 50ක් වෙන් කරන ලෙස මුදල් අමාත්‍යාංශයට උපදෙස්  දුන් ජනාධිපතිවරයා අදාළ සහන නිසි පරිදි ජනතාව අතට පත් කිරීමට මනා සම්බන්ධීකරණයකින් යුතුව කටයුතු කරන ලෙසද රාජ්‍ය නිලධාරීන්ට වැඩිදුරටත්  දැනුම් දුන්නේය.
+
+...
+
+[Data](articles/b073f14a.json)
 
 ---
 
@@ -2247,139 +2373,5 @@ He noted that the roads in many parts of the Gampaha district have been submerge
 [Data](articles/c3be3316.json)
 
 [Extended Data](ext_articles/c3be3316.ext.json)
-
----
-
-### Directorate to relocate Mahinda's residence
-
-*2024-10-12 09:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-இல்லத்தை-இடம்-மாற்றுமாறு-பணிப்புரை/175-345301) · `ta`
-
-Prime Minister Harini Amarasuriya orders relocation of Mahinda Amaraweera's official residence to Sirimavo Bandaranaike College, Colombo. Former ministers reminded to hand over official homes.
-
-🟩
-
-Prime Minister Harini Amarasuriya has issued a directive to give a reminder to former ministers who have not yet handed over their official homes.
-
-The Prime Minister has also been advised to relocate the official residence used by former Minister Mahinda Amaraweera to the Sirimavo Bandaranaike College, Colombo.
-
-During a discussion with a panel of officials of the Public Administration, Home Affairs, Provincial Councils and Local Government Ministry officials, the Prime Minister gave these instructions. (An)
-
-◼️
-
-[Data](articles/de4d2d61.json)
-
-[Extended Data](ext_articles/de4d2d61.ext.json)
-
----
-
-### Sahitya Awards Ceremony temporarily cancel
-
-*2024-10-12 09:04:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாகித்ய-விருது-விழா-தற்காலிகமாக-இரத்து/175-345300) · `ta`
-
-Sahitya Awards Ceremony cancelled due to Election Commission orders. Scheduled for Nov 14th. Ministry of Buddha Sasana announces postponement.
-
-🟩
-
-According to the instructions of the Elections Commission, the State Literary Award and the State Children's Drama Festival has been temporarily canceled, the Ministry of Buddha Sasana, Religious Cultural Affairs, National Integration, Social Security and Mass Media said.
-
-The State Literary Awards Ceremony and the State Children's Drama Festival will be held on the 14th of November.
-
-◼️
-
-[Data](articles/ebfa96c5.json)
-
-[Extended Data](ext_articles/ebfa96c5.ext.json)
-
----
-
-### Rainfall in Central, Sabaragamuwa, Upper, North Western and Southern Provinces
-
-*2024-10-12 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196079) · `ta`
-
-Sri Lanka: Heavy rainfall, thunderstorms forecasted in Central, Sabaragamuwa, Upper, North Western and Southern Provinces. Strong winds (30-40 km/h) expected. Fishermen warned against sea travel. Sea waves may reach 2.5-3.0 meters height. Public advised to remain vigilant during storms.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that due to the prevailing rainy weather in the country's southwestern region due to the atmospheric conditions in Sri Lanka.
-
-Rainfall or thunderstorms are expected in the Central, Sabaragamuwa, Upper, North Western and Southern Provinces.
-
-Heavy rainfall is likely to occur in some parts of the Sabaragamuwa and Western Provinces as well as some places in the Galle and Matara districts.
-
-Rain or thunderstorms may occur in the evening or night in many parts of the other parts of the country. In some places, 75 millimeters are expected to occur.
-
-In the Central, Sabaragamuwa, Upper, North Western and Southern Provinces, strong winds can be frequent at speeds of 30 to 40 km / h.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Fishermen and maritime workers are advised not to go to the sea regions beyond Puttalam to Colombo and Galle via Hambantota.
-
-...
-
-[Data](articles/4c78b968.json)
-
-[Extended Data](ext_articles/4c78b968.ext.json)
-
----
-
-### President holds virtual discussion with USAID Administrator on future cooperation
-
-*2024-10-12 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102630/president-holds-virtual-discussion-with-usaid-administrator-on-future-cooperation) · `en`
-
-President Anura Kumara Dissanayake conducted a virtual discussion yesterday (11) with the Administrator of the United States Agency for International Development (USAID) Ms Samantha Power.
-
-During the meeting, the two leaders exchanged views on matters of mutual interest and explored avenues for future cooperation, the President’s Media Division (PMD) stated.
-
-Notably, Ms. Samantha Power, the USAID Administrator, stated that USAID is willing to support the government aligning with the manifesto presented to the people.
-
-Ms. Samantha Power also assured President Dissanayake that USAID is prepared to support Sri Lanka in any way needed. This commitment reflects a shared vision for enhancing development and cooperation with the USAID agency, the PMD reported.
-
-◼️
-
-[Data](articles/a0d9bbe0.json)
-
-[Extended Data](ext_articles/a0d9bbe0.ext.json)
-
----
-
-### Welipenna Interchange on Expressway reopens for vehicles
-
-*2024-10-12 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102629/welipenna-interchange-on-expressway-reopens-for-vehicles-) · `en`
-
-The Welipenna Interchange on the Southern Expressway, which was closed due to a minor flood situation, has now reopened for traffic, according to the Road Development Authority (RDA).
-
-◼️
-
-[Data](articles/7a2127f5.json)
-
-[Extended Data](ext_articles/7a2127f5.ext.json)
-
----
-
-### Discussion between President and Samantha Power
-
-*2024-10-12 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202077) · `si`
-
-President Anura Kumara Dissanayake discusses US aid with Samantha Power via video conference. They agree on supporting development projects in Sri Lanka. The meeting aims to strengthen bilateral relations and promote economic growth.
-
-🟩
-
-A discussion was held between President Anura Kumara Dissanayake and the US Agency of the United States Agency of the United States Agency of the United States Agency.
-
-The Presidential Media Unit announced that this discussion was held through online technology.
-
-The US Agency for Sri Lanka and the United States agency for international development has been discussed.
-
-Samantha Power has said that the government's policy statement and the policies of the US agency are similar.
-
-The Presidential Media Unit said that he was fully supported by the President, Banda Power, who is fully supported for the benefit of the people.
-
-Samanarha Power has been committed to expand the development process and the US agency for international development and the US agency for international development and the US agency and Sri Lanka.
-
-◼️
-
-[Data](articles/f6bb5037.json)
-
-[Extended Data](ext_articles/f6bb5037.ext.json)
 
 ---

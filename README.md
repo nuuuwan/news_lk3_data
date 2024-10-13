@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 10:23:53**
+As of **2024-10-13 10:39:30**
 
 ## Newspaper Stats
 
-*Scraped **49,192** Articles*
+*Scraped **49,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 491
 islandlk | 2,916
 economynextcom | 3,019
 dailyftlk | 3,334
-adalk | 4,563
+adalk | 4,564
 dailymirrorlk | 4,733
 adaderanalk | 5,812
 tamilmirrorlk | 6,702
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,510
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,192 (100.0%) of 49,192 articles have been extended.
+49,192 (100.0%) of 49,193 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -177,6 +177,22 @@ Hunger warnings emerged again in northern Gaza as residents said they hadn’t r
 [Data](articles/7bbb4897.json)
 
 [Extended Data](ext_articles/7bbb4897.ext.json)
+
+---
+
+### ඇල්ලේ චිත්‍රපටයෙන් ලංකාවට රු. මි. 150ක ආදායමක්
+
+*2024-10-13 08:40:40* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේ-චිත්‍රපටයෙන්-ලංකාවට-රු--මි--150ක-ආදායමක්/11-412456) · `si`
+
+ඇල්ල- දෙමෝදර අතර පිහිටි ආරුක්කු 9  පාලම මත ඉන්දු- ශ්‍රී ලංකා  ඒ්කාබද්ද සිනමා පටයක රෑගත කිරීම නිසා ශ්‍රී  ලංකාවට රුපියල් මිලියන ඒකසිය පනහකට(150) වෑඩ් මුදලක් ලැබුන බව ඒහි නිෂ්පාදකවරයෙකු වන සියවුල් හසන්  මහතා  පැවසීය.
+
+මිරායි (Mirai) නම් වු මෙම චිත්‍ර පටියේ සටන් දර්ශන සහ ගීත ගායනය ඇතුලත් දර්ශන  තුර්කියේ ආරුක්කු පාලමක්  මත පටිගත කිරීමට සැලසුම් කර තිබුනත් ඒයට වඩා ලංකාවේ ආරුක්කු නවයේ පාලම අලංකාරවත් හා  සුන්දර නිසා  මෙහි තෝරාගෙන තිබේ.
+
+තෙලිගු   චිත්‍ර  පටියක් වන මිරායි  තෙළිගු,හිංදි,ඉංග්‍රිසි,කන්නඩා, බැංගාලි,මලයාවි යන භාෂා  හයෙන්ම ලෝකය පුරාම ලබන වසර මුල සිට තිරගතවීමට නියමිතව ඇති අතර ඒහි  අධ්‍යක්ෂ ලෙස කාර්තික් ගටාන්නේරු කටයුතු කරන අතර ජෙගපති බාබු,ටේජා   සාජා ,මනෝජ් කුමාර්,රතිකා  නා යන්,කෞෂික් මහාටා, ටන්ජා  කෙළර්,සීරාම් රෙඩ්ඩි ඇතුළු නළු නිළියන් හැට දෙනෙකු පමණ රංගනයෙන් දායකත්වය දක්වති.
+
+...
+
+[Data](articles/b983d04b.json)
 
 ---
 
@@ -2381,29 +2397,5 @@ Accordingly, 690 groups belonging to political parties and independent groups wi
 [Data](articles/b39afde6.json)
 
 [Extended Data](ext_articles/b39afde6.ext.json)
-
----
-
-### Customs confises a car of a misguided
-
-*2024-10-12 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202079) · `si`
-
-Colombo Magistrate's Court orders confiscation of luxury car. Bribery Commission investigation reveals fraud. Mitzubishi Jeep seized from businessman in Badulla.
-
-🟩
-
-The Colombo Magistrate's Court has ordered the confiscation of a luxury car taken by the Bribery Commission.
-
-The decision was issued by the Colombo Chief Magistrate Thilina Gamage, who consumed the request made by the Bribery Commission.
-
-Investigations have revealed that the car had been imported by defrauding over Rs.
-
-A mitzubyi jeep, a businessman in Badulla, has been confiscated.
-
-◼️
-
-[Data](articles/cf061045.json)
-
-[Extended Data](ext_articles/cf061045.ext.json)
 
 ---

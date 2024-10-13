@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-13 15:23:25**
+As of **2024-10-13 15:57:51**
 
 ## Newspaper Stats
 
-*Scraped **49,227** Articles*
+*Scraped **49,231** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,109 @@ dailyftlk | 3,334
 adalk | 4,569
 dailymirrorlk | 4,733
 adaderanalk | 5,817
-tamilmirrorlk | 6,712
+tamilmirrorlk | 6,715
 virakesarilk | 7,865
-adaderanasinhalalk | 8,516
+adaderanasinhalalk | 8,517
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,227 (100.0%) of 49,227 articles have been extended.
+49,231 (100.0%) of 49,231 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-13 (Sunday)
+
+### Reoperation
+
+*2024-10-13 15:30:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-திறப்பு/175-345364) · `ta`
+
+Railway Department reopens Puttalam Market area between Lunuvila and Natandia after closure due to Valum incident.
+
+🟩
+
+The Railway Department has said that the area between the Lunuvila and Natandia area of ​​the Puttalam Market, which was closed due to the Valum, has been reopened.
+
+◼️
+
+[Data](articles/05c19a17.json)
+
+[Extended Data](ext_articles/05c19a17.ext.json)
+
+---
+
+### Schools closing tomorrow
+
+*2024-10-13 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202117) · `si`
+
+Colombo, Gampaha schools close tomorrow due to bad weather. All schools in Colombo district shut down. Wattala Educational Division in Gampaha also affected.
+
+🟩
+
+The education officials have taken steps to close several schools in Colombo and Gampaha districts due to the inclement weather.
+
+According to the Western Provincial Director of Education, said that all schools in the Colombo District will be closed tomorrow.
+
+He added that all schools are closed tomorrow in the Wattala Educational Division in Gampaha District, he added.
+
+◼️
+
+[Data](articles/b4a2f1e1.json)
+
+[Extended Data](ext_articles/b4a2f1e1.ext.json)
+
+---
+
+### Do you know?
+
+*2024-10-13 15:11:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உங்களுக்குத்-தெரியுமா/175-345363) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Colombo Fort murder: police seek suspect. Assaulted Oct 5 with sharp weapon. Contact Fort Police (071-8591555) or CID Fort (071-8594405).
+
+🟩
+
+Police have posted a photo of him in an attempt to find a suspect in the murder of Colombo Fort.
+
+Police said that the suspect was assaulted on October 5 with a sharp weapon on the Fort Reclaimation Road.
+
+Police have requested the public to contact the following telephone numbers if the suspect is informed about the suspect. Fort Police Officer - 071-8591555 Criminal Investigation Division - Fort - 071-8594405.
+
+◼️
+
+[Data](articles/95b0bc71.json)
+
+[Extended Data](ext_articles/95b0bc71.ext.json)
+
+---
+
+### 4 holidays for schools
+
+*2024-10-13 14:26:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-பாடசாலைகளுக்கு-விடுமுறை/175-345362) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Four schools closed: Kelani Maha Vidyalaya, Negombo Roman Catholic Vidyalaya, Piyagama Primary School, Yaparalawa Ananda Junior Vidyalaya. Closures due to bad weather on Monday, 14th."
+
+🟩
+
+Four schools have been given holidays on Monday (14) due to inclement weather in the country, the Ministry of Education has announced.
+
+The Ministry of Education has announced that holidays have been given to the Kelani Maha Vidyalaya, Negombo Roman Catholic Vidyalaya, Piyagama Primary School and Yaparalawa Ananda Junior Vidyalaya.
+
+◼️
+
+[Data](articles/4d72dc9e.json)
+
+[Extended Data](ext_articles/4d72dc9e.ext.json)
+
+---
 
 ### Holidays for schools tomorrow
 
@@ -2311,99 +2401,5 @@ Fans are expecting the fans of the Hindu mythical mythology and the magnificent 
 [Data](articles/cc41c69b.json)
 
 [Extended Data](ext_articles/cc41c69b.ext.json)
-
----
-
-### The Release of the movie 'Mr. House Keeping' produced by Tenandal Films
-
-*2024-10-12 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196113) · `ta`
-
-"Mr. House Keeping" released by Tenandal Films stars newcomer Haripaskar. Directed by Arun Ravichandran, it features Hari Bhaskar, Losia, Princess, Shah Ra, Rayan. Comedy film co-produced by Ramaswamy and Nithin Manohar. Heroine joins hero's office, their relationship popular with fans.
-
-🟩
-
-The film 'Mr. House Keeping' has been released as the hero of the story of newcomer Haripaskar.
-
-The film 'Mr. House Keeping', directed by debutant director Arun Ravichandran, has starred in Hari Bhaskar, Losia, Princess, Shah Ra, Rayan.
-
-The film, which is centered on the comedy, has co -produced the producer Ramaswamy and Nithin Manohar on behalf of Tenandal Films.
-
-In this, the heroine joins the office of the office of the heroine. The relationship between him and the hero and the relationship of the hero and the love of the relationship has been greatly welcomed by the fans.
-
-◼️
-
-[Data](articles/ae9c1e86.json)
-
-[Extended Data](ext_articles/ae9c1e86.ext.json)
-
----
-
-### Boeing company in crisis
-
-*2024-10-12 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202090) · `si`
-
-Boeing faces crisis: cuts 10% workforce (17,000 jobs), reduces production of flagship jet, sees market share drop 2.12%.
-
-🟩
-
-The company's authorities have decided to cut 10 percent of their workforce as a remedy for the financial problems of Boeing, an American multinational company.
-
-The company's executive grade officials, managers, including managers, and the risk of loss of about 17,000.
-
-Meanwhile, the company has also prompted the company's largest and most effective jet, which is the largest product of the company, the largest and most effective jet, which is the latest product of the company.
-
-Meanwhile, Boeing's market sections have also fallen by 2.12 percent.
-
-◼️
-
-[Data](articles/1b93e410.json)
-
-[Extended Data](ext_articles/1b93e410.ext.json)
-
----
-
-### Vijay Sethupathi - Suri's update movie 'Liberation Part 2'
-
-*2024-10-12 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196112) · `ta`
-
-"Liberation Part 2" update: Vijay Sethupathi directs alongside Suri, Anurag Kashyap. Shooting ongoing; first dubbing complete. Expected worldwide release Dec 20. Successor to critically acclaimed "Liberation".
-
-🟩
-
-The film crew has released a special photo of the second part of the release of the film, which is playing the heroes of the story.
-
-Directed by Vijay Sethupathi, Suri, Anurag Kashyap, Manju Warrior, Bose Venkat, Kishore, Ken Karunas, Rajiv Menon, Gautam Vasudev Menon, Bhavani Sri, Vincent Asokan, Sethhan.
-
-The film is being produced by producer Elrett Kumar on behalf of RS Infotainment film company.
-
-The shooting of the film Liberation Part 2 is currently underway and the first dubbing of the post -shooting technology work is underway.
-
-The film is expected to be released at the film House around the world on the twenty of December.
-
-Vijay Sethupathi, Suri, Vijayamaran, Ilayaraja, the first part of the film 'Liberation' released in the alliance has been critically and grossly successful, has increased the expectation of the second part of the film.
-
-◼️
-
-[Data](articles/8eeb04af.json)
-
-[Extended Data](ext_articles/8eeb04af.ext.json)
-
----
-
-### Train services on Puttalam line disrupted due to flooding
-
-*2024-10-12 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102636/train-services-on-puttalam-line-disrupted-due-to-flooding-) · `en`
-
-Train services on the Puttalam railway line have been disrupted due to flooding.
-
-Accordingly, the Railway Department stated that train services on this route will operate only up to Lunuwila.
-
-It has been further reported that trains on the line will be terminated at Lunuwila from 1.00 p.m.  today (12) until further notice.
-
-◼️
-
-[Data](articles/77614a11.json)
-
-[Extended Data](ext_articles/77614a11.ext.json)
 
 ---

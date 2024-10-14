@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 13:59:04**
+As of **2024-10-14 14:12:52**
 
 ## Newspaper Stats
 
-*Scraped **49,420** Articles*
+*Scraped **49,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,842
 tamilmirrorlk | 6,747
 virakesarilk | 7,908
-adaderanasinhalalk | 8,551
+adaderanasinhalalk | 8,552
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,420 (100.0%) of 49,420 articles have been extended.
+49,421 (100.0%) of 49,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### 19 year old mother in prison
+
+*2024-10-14 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202153) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+19-year-old mother in prison after being accused of raping her 15-year-old daughter. The case was heard by a 60-year-old judge from Anamaduwa. The Attorney General filed charges in 2006. The suspect was found guilty and sentenced to death.
+
+🟩
+
+A suspect that he had raped his daughter was imprisoned by the High Court of Puttalam and the fines of Rs.
+
+The High Court Judge is a 60-year-old resident of Anamaduwa and Uriyawa area in Anamaduwa.
+
+The Attorney General has been indicted by the Attorney General against the suspect in the year 2006 that his 15-year-old daughter was raped.
+
+The High Court Judge was sentenced to death by the suspect, which was guilty of the suspects.
+
+◼️
+
+[Data](articles/4b28536b.json)
+
+[Extended Data](ext_articles/4b28536b.ext.json)
+
+---
 
 ### A warning about the next 24 hours
 
@@ -2291,21 +2319,5 @@ As part of the Marriott Business Council, Sheraton Colombo, ITC Ratnadipa, Shera
 [Data](articles/fb6c4a59.json)
 
 [Extended Data](ext_articles/fb6c4a59.ext.json)
-
----
-
-### DFCC Bank Joins Oktoberfest celebration as exclusive banking partner
-
-*2024-10-14 00:31:00* · [`islandlk`](http://island.lk/dfcc-bank-joins-oktoberfest-celebration-as-exclusive-banking-partner/) · `en`
-
-DFCC Bank has announced its exclusive partnership with Colombo Oktoberfest 2024, positioning itself as the premier banking partner for one of the most anticipated cultural events in Sri Lanka. This prestigious event celebrates the best of German Bavarian traditions and underscores DFCC Bank’s commitment to enhancing customer engagement while promoting its brand in a unique, festive atmosphere.
-
-Colombo Oktoberfest is a much-anticipated cultural event that transports the authentic traditions of Bavaria to Sri Lanka. The festival features live performances by German bands, traditional folk dances, hearty German cuisine, and a wide range of authentic Bavarian beers. Attendees will experience Bavarian charm, complete with traditional attire and fun-filled games, as part of a celebration expected to attract over 10,000 participants.
-
-...
-
-[Data](articles/6e88e479.json)
-
-[Extended Data](ext_articles/6e88e479.ext.json)
 
 ---

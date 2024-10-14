@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 08:59:27**
+As of **2024-10-14 09:14:19**
 
 ## Newspaper Stats
 
-*Scraped **49,352** Articles*
+*Scraped **49,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,827
 tamilmirrorlk | 6,727
 virakesarilk | 7,904
-adaderanasinhalalk | 8,537
+adaderanasinhalalk | 8,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,348 (100.0%) of 49,352 articles have been extended.
+49,353 (100.0%) of 49,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Final decision on scholarship examination today
+
+*2024-10-14 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202139) · `si`
+
+The final decision on the Grade 5 scholarship examination is due to be informed today (14).
+
+Accordingly, the Commissioner General of Examinations will be summoned by summoning a special media briefing.
+
+The decision has been taken with the discovery of information that only three questions were exited.
+
+Taking tests currently suspended in this situation are to be started.
+
+Several committees have been appointed to investigate the scholarship examination and the final decision of the investigation teams has been the last three questions before the examination.
+
+The Criminal Investigation Department commenced an investigation into the checkup of the scholarship examination.
+
+However, a group of parents have met with media and protestors and demonstrated the entire question paper.
+
+The parents were discussed with President Anura Kumara Dissanayake, with the completion of the scholarship examination until the end of the investigation.
+
+◼️
+
+[Data](articles/a82a266f.json)
+
+[Extended Data](ext_articles/a82a266f.ext.json)
+
+---
 
 ### US to send anti-missile system and troops to Israel, Pentagon says
 
@@ -47,6 +75,8 @@ Pentagon spokesperson Major General Patrick Ryder described the deployment as pa
 ...
 
 [Data](articles/51515a08.json)
+
+[Extended Data](ext_articles/51515a08.ext.json)
 
 ---
 
@@ -65,6 +95,8 @@ Heavy showers above 100mm are likely at some places in Western, Sabaragamuwa, No
 ...
 
 [Data](articles/5e74bb14.json)
+
+[Extended Data](ext_articles/5e74bb14.ext.json)
 
 ---
 
@@ -182,21 +214,35 @@ The Israeli military has reported that seven of the soldiers who were injured in
 
 ---
 
-### පුද්ගල ඝාතනයක් නූලෙන් වැලකෙයි
+### Murder sustained from the string of persons
 
 *2024-10-14 06:54:58* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගල-ඝාතනයක්-නූලෙන්-වැලකෙයි/11-412470) · `si`
 
-තියුණු ආයුධ තොගයක් රැගෙන පුද්ගලයෙකු ඝාතනය කිරීම සඳහා  යමින් සිටි පුද්ගලයන් සිව් දෙනකු  රත්මලාන බෙලෙක්කඩේ හන්දිය ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව ගල්කිස්ස මූලස්ථාන පොලිසිය කියයි.
+Here's a 200-character summary:
 
-එම සැකකරුවන් සමග විවිධ ප්‍රමාණවලින් යුත් කඩු හතක් හා අයිස් මත්ද්‍රව්‍ය  මිලිගෑම් 37800 ක් පොලිස් භාරයට ගෙන ඇත
 
-පුද්ගලයන් පිරිසක් ගල්කිස්ස මහේස්ත්‍රාත් අධිකරණය අසලදී පුද්ගලයකු කපා කොටා ඝාතනය කිරීම සඳහා සූදානමින් තීරෝද රථයකින් පැමිණෙන බවට ගල්කිස්ස මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂක දිලීප සී පෙරේරා මහතාට ලද රහසිගත තොරතුරකට අනුව වහා ක්‍රියාත්මක වූ ඒ මහතා ඒ බව දූෂණ මර්දන  අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක චමින්ද කූරබගේ  මහතා ට ලබා දුන් තොරතුරකට අනුව ඒ මහතා ඇතුළු නිලධාරීන් කණ්ඩායමක් විසින් මෙම සැකකරුවන් පිරිස අත්අඩංගුවට ගෙන ඇත
 
-අත්අඩංගුවට ගත් සැකකරුවන් සිව් දෙනා සන්තකයේ අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 6500 , 10200 , 10500 ,හා  10600  පිළිවෙලින් තිබූ බවත් ඊට අමතරව පොහොර උරයක බහා කඩු හයක් තිබී පොලිස් භාරයට ගෙන ඇත.
+"Four arrests made in Ratmalana for weapons and drugs. Police seized swords and ice drugs. Suspects linked to crimes in Moratuwa and Mount Lavinia."
 
-...
+🟩
+
+Mount Lavinia Headquarters Police say four persons were arrested in the Belakkkadu junction of Ratmalaku, taking a large quantity of sharp weapons.
+
+Police have seized seven swords and 37800 litls of ice drugs with the suspects
+
+Mount Lavinia Headquarters Chief Inspector Dileepa Sea Perera, the Chief Inspector Dileepa SC Peraka, who was prepared to be hacked to death near the Mount Lavinia Magistrate's Court, he was immediately subjected to a tubers to the OIC of the OIC of the Anti-Corruption Unit Police Inspector Chaminda KurabageAccordingly, a group of other officers have been arrested by a team of other officers
+
+Four possession of the four possession of the Ice Drugs have been taken into custody with six swords in a fertilizer.
+
+The police say that it was revealed that the person was returning to Mt.
+
+These suspects have many culprits in Moratuwa and Mount Lavinia. The suspects are residents of Ratmalana Soysa and Bairywatta.
+
+◼️
 
 [Data](articles/111d97ef.json)
+
+[Extended Data](ext_articles/111d97ef.ext.json)
 
 ---
 
@@ -376,27 +422,37 @@ We are working together to fulfill the aspirations of the people. When the party
 
 ---
 
-### ශානි අබේසේකර: යළි සේවයට කැඳවා ඇත්තේ ඇයි?
+### Shani Abeysekera: Why was it called back to work?
 
 *2024-10-14 01:49:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyv9dgej8ro) · `si`
 
-ජීවිත තර්ජන, අනපේක්ෂිත බන්ධනාගාර ගත කිරීම් හා විවිධ අසාධාරණකම්වලට ලක්වු කීර්තිමත් විමර්ශන නිලධාරියෙකු ලෙස සැකලෙන ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී  (විශ්‍රාමික)  ශානි අබේසේකරට නව රජය විසින් අලුත් වගකීමක් පවරනු ලැබ තිබේ.
+Here's a summary of the key points in approximately 200 characters:
 
-අපරාධ පරීක්ෂණ දෙපාර්තෙම්න්තුවේ හිටපු අධ්‍යක්ෂවරයෙකු වූ ශානි අබේසේකර ව වසරක කාලයක් සඳහා කොන්ත්‍රාත් පදනම මත අලුතින් පත් කර ඇත්තේ,අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් (CID) පරිබාහිර වූ වෙනත් කොට්ඨාසකට ය.
 
-ඒ, අපරාධ බුද්ධි විශ්ලේෂණ හා නිවාරණ කොට්ඨාසයේ අධ්‍යක්ෂවරයා ලෙස ය.
 
-මේ යටතේ අපරාධ බුද්ධි විශ්ලේෂණය සහ විමර්ශන මෙහෙයවීම ඔහුට පැවරෙන ප්‍රධාන වගකීම වනු ඇත.
+Shani Abeysekara, retired Senior Superintendent of Police, reinstated as CID director for 1 year. Appointed to lead criminal intelligence analysis and prevention division. Accused of executing 10-month remand. Involved in Easter attack investigation. Previously accused of political pressure arrests. Resumed due to democratic reforms and election studies.
 
-ජාතික පොලිස් කොමිෂන් සභාව නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ, 2024 ඔක්තෝබර් 10 වැනිදා පැවති කොමිෂන් සභා සැසිවාරයේදී ඔහුගේ පත් කිරීමට අනුමැතිය ලබාදීමට තීරණය කර ඇති බව ය.
+🟩
 
-පාර්ලිමේන්තු මැතිවරණය කැඳවා ඇති බැවින්,  මැතිවරණ කොමිෂන් සභාවේ පූර්ණ එකඟතාවය මත මෙම පත් කිරීම් සිදුකර ඇති බවද පොලිස් කොමිෂන් සභාව සඳහන් කළේය.
+Senior Superintendent of Police (Retired) Shani Abeysekara has been entrusted with the new responsibility by the new government (pensioned) Shani Abeysekara.
 
-ශානි අබේසේකර: මාස 10ක් රක්ෂිත බන්ධනාගාරට යැවූ චෝදනාවෙන් නිදහස්ශානි අබේසේකර ඝාතනය කිරීමේ කුමන්ත්‍රණයක්
+Shani Abeysekara, a former director of the Criminal Investigation, has been appointed to a different division of the CID (CID) for a period of one year.
+
+That is as the director of criminal intelligence analysis and the Prevention Division.
+
+Under this, the main responsibility of him will be the main responsibility of criminal intelligence and investigation.
+
+The National Police Commission issued a statement saying that he had decided to appoint approval to appoint his appointment on October 10, 2024.
+
+The Police Commission states that these appointments have been made following the full consent of the Election Commission as the parliamentary elections have been called.
+
+Shani Abeysekara: An accused of executing 10 months after being remanded
 
 ...
 
 [Data](articles/f0768613.json)
+
+[Extended Data](ext_articles/f0768613.ext.json)
 
 ---
 
@@ -2241,25 +2297,5 @@ In addition, Bell-412 has been placed on the Ratmalana Air Force Base, while two
 [Data](articles/87335ef9.json)
 
 [Extended Data](ext_articles/87335ef9.ext.json)
-
----
-
-### Hirunika resigns as national organiser of SJB women’s wing
-
-*2024-10-13 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102654/hirunika-resigns-as-national-organiser-of-sjb-womens-wing) · `en`
-
-Former MP Hirunika Premachandra states that she is resigning from the post of National Organiser of the ‘Samagi Vanitha Balawegaya’, the women’s organisation of the Samagi Jana Balawegaya (SJB).
-
-Premachandra emphasized that despite stepping down from the role, she remains an active member of the party and is determined to contest in the 2024 General Election.
-
-Premachandra attributed her resignation to frustration over accusations from the party that organisers did not fulfill their duties during the presidential election campaign. She noted that these accusations played a significant role in her decision to relinquish her position.
-
-However, Premachandra expressed confidence in her political future, stating her belief that the public will once again elect her to Parliament in the upcoming election.
-
-◼️
-
-[Data](articles/50717117.json)
-
-[Extended Data](ext_articles/50717117.ext.json)
 
 ---

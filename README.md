@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 09:14:19**
+As of **2024-10-14 09:25:38**
 
 ## Newspaper Stats
 
@@ -35,6 +35,10 @@ Extensions include translations and NER (Named Entity Recognition).
 ### Final decision on scholarship examination today
 
 *2024-10-14 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202139) · `si`
+
+Scholarship exam results delayed due to cheating allegations. Three questions found leaked. Investigation ongoing. Test suspension pending outcome. Parents protest demanding full probe.
+
+🟩
 
 The final decision on the Grade 5 scholarship examination is due to be informed today (14).
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 15:10:43**
+As of **2024-10-14 15:39:35**
 
 ## Newspaper Stats
 
-*Scraped **49,429** Articles*
+*Scraped **49,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ colombotelegraphcom | 493
 islandlk | 2,933
 economynextcom | 3,026
 dailyftlk | 3,346
-adalk | 4,586
+adalk | 4,588
 dailymirrorlk | 4,733
-adaderanalk | 5,844
+adaderanalk | 5,845
 tamilmirrorlk | 6,748
 virakesarilk | 7,908
-adaderanasinhalalk | 8,555
+adaderanasinhalalk | 8,556
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,429 (100.0%) of 49,429 articles have been extended.
+49,433 (100.0%) of 49,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Arjunician's appeal declines
+
+*2024-10-14 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202157) · `si`
+
+Arjunician's appeal rejected: 3.5 billion VAT owed to government. Colombo Magistrate's Court orders 6-month jail term. Appeal dismissed by Colombo High Court. Respondents request permission to make tax payments.
+
+🟩
+
+3.5 billion VAT to the Government, the Colombo Magistrate's Court demands 06 months' jail dumped. M. The Appeal of the Colombo High Court has been rejected by the Director of Mandis, including the director Arjun Allogue.
+
+The respondents have requested the payment to be allowed to pay the tax payments.
+
+◼️
+
+[Data](articles/e2ced280.json)
+
+[Extended Data](ext_articles/e2ced280.ext.json)
+
+---
+
+### China launches war games around Taiwan drawing anger in Taipei, concern from US
+
+*2024-10-14 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102679/china-launches-war-games-around-taiwan-drawing-anger-in-taipei-concern-from-us) · `en`
+
+China’s military launched a new round of war games near Taiwan on Monday, saying it was a warning to the “separatist acts of Taiwan independence forces”, drawing condemnation from the Taipei and U.S. governments.
+
+Democratically governed Taiwan, which China views as its own territory, had been on alert for more war games since last week’s national day speech by President Lai Ching-te. Lai’s address was condemned by Beijing after he said China had no right to represent Taiwan even as he offered to cooperate with Beijing.
+
+The Chinese military’s Eastern Theatre Command said the “Joint Sword-2024B” drills were taking place in the Taiwan Strait and areas to the north, south and east of Taiwan.
+
+...
+
+[Data](articles/1597b69c.json)
+
+[Extended Data](ext_articles/1597b69c.ext.json)
+
+---
 
 ### A quantitative decrease in precipitation in the future
 
@@ -61,6 +99,28 @@ Meanwhile Additional Secretary to the Ministry of Defense (Disaster Management).
 [Data](articles/fe4bc80f.json)
 
 [Extended Data](ext_articles/fe4bc80f.ext.json)
+
+---
+
+### ICC awarded Kamindu award
+
+*2024-10-14 14:27:58* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී-යෙන්-කමිඳුට-සම්මානයක්/9-412481) · `si`
+
+Kamindu Mandis wins ICC Award 2024. Second time ICC honors him. Recognized for Test series performance against New Zealand.
+
+🟩
+
+Mandis won the ICC Award in September 2024 award.
+
+This is the second time the ICC player was won by the ICC Award.
+
+He was awarded due to skills at the Test series against New Zealand.
+
+◼️
+
+[Data](articles/c23c5e2f.json)
+
+[Extended Data](ext_articles/c23c5e2f.ext.json)
 
 ---
 
@@ -275,6 +335,28 @@ It states that 35 candidates have been given their reports in relation to the pr
 [Data](articles/011e0f6f.json)
 
 [Extended Data](ext_articles/011e0f6f.ext.json)
+
+---
+
+### Foreign Workers. 4843 sent
+
+*2024-10-14 13:11:39* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ගත-ශ්‍රමිකයන්-ඩො-මි--4843ක්-එවලා/11-412479) · `si`
+
+Sri Lanka's foreign workers sent $4,843.8 million in remittances from Jan-Sep 2024, a 11.5% increase over 2023. In Sept 2024, remittances reached $555.6 million, slightly lower than Aug's $577.5 million.
+
+🟩
+
+The total remittance of Sri Lanka is US $ 4,843.8 million in the 9-month period from January to September, the Central Bank of Sri Lanka.
+
+This is an increase of 11.5% compared to the amount of remittances received in the first nine months of 2023.
+
+In September, 2024, Sri Lanka has received a remittance of $ 555.6 million in August 2024 as $ 577.5 million.
+
+◼️
+
+[Data](articles/a3b983e9.json)
+
+[Extended Data](ext_articles/a3b983e9.ext.json)
 
 ---
 
@@ -2301,79 +2383,5 @@ It is noteworthy that Ranil Villattarake Kespewa, who joined the United National
 [Data](articles/717b617e.json)
 
 [Extended Data](ext_articles/717b617e.ext.json)
-
----
-
-### CCC Sri Lanka-Indonesia Business Council completes successful business promotion mission
-
-*2024-10-14 00:55:01* · [`dailyftlk`](https://www.ft.lk/business/CCC-Sri-Lanka-Indonesia-Business-Council-completes-successful-business-promotion-mission/34-767934) · `en`
-
-The Sri Lanka-Indonesia Business Council of the Ceylon Chamber of Commerce undertook a successful business promotion mission to Indonesia, from 6 to 11 October 2024.
-
-The delegation consisted of 14 Sri Lankan business professionals from various sectors, including food and beverage, logistics, pharmaceuticals, apparel, travel, IT, and recreation industries.
-
-...
-
-[Data](articles/adb30910.json)
-
-[Extended Data](ext_articles/adb30910.ext.json)
-
----
-
-### Brian appointed to Lanka Realty Investments Board
-
-*2024-10-14 00:52:04* · [`dailyftlk`](https://www.ft.lk/business/Brian-appointed-to-Lanka-Realty-Investments-Board/34-767933) · `en`
-
-Brian Selvanayagam has been appointed to the Board of Lanka Realty Investments PLC as an Independent Non-Executive Director.
-
-Brian is an Associate Member of the Chartered Institute of Management Accountants (UK), Fellow Member of the Institute of Chartered Accountants of Sri Lanka, Fellow Member of the Chartered Institute of Marketing (UK), Fellow Member of the Certified Management Accountants of Sri Lanka and Chartered Member of the Chartered Institute for Securities and Investment (UK).
-
-He is the Past Chairman of the Chartered Institute of Marketing Sri Lanka and was a member of the Audit and Risk Committee of the Chartered Institute of Marketing (UK).
-
-He is presently a Non-Executive Director of Ceylon Biscuits Ltd. He counts over 25 years of work experience in fields covering auditing, banking and financial services, property development and education. He is also a Justice of Peace for the whole Island.
-
-◼️
-
-[Data](articles/b655d401.json)
-
-[Extended Data](ext_articles/b655d401.ext.json)
-
----
-
-### Magistrate’s Court dismisses case against Asia Capital; upholds company’s, directors’ and employees’ integrity
-
-*2024-10-14 00:48:09* · [`dailyftlk`](https://www.ft.lk/business/Magistrate-s-Court-dismisses-case-against-Asia-Capital-upholds-company-s-directors-and-employees-integrity/34-767932) · `en`
-
-In a significant legal development, the Magistrate’s Court has summarily dismissed the criminal case brought against Asia Capital PLC and several of its former employees. The case was filed by CC Trust Pte Ltd., a Japanese investor, but the Court’s decision firmly concluded that the allegations were baseless and without merit both in fact and law.
-
-The legal team representing Asia Capital PLC, comprising Attorney Uchitha Wickremesinghe and Presidents’ Counsel Thilak Maparapana and Naveen Marapana, successfully argued for the dismissal of the charges. According to the company, this ruling reinforces their longstanding position that the accusations were unfounded and motivated by malicious intent.
-
-“This authoritative ruling confirms what we have maintained from the outset: that the allegations were misleading and without substance,” a statement issued by Asia Capital PLC noted.
-
-...
-
-[Data](articles/3438073f.json)
-
-[Extended Data](ext_articles/3438073f.ext.json)
-
----
-
-### Top corporates onboard to power CA Sri Lanka’s 45th National Conference
-
-*2024-10-14 00:47:12* · [`dailyftlk`](https://www.ft.lk/business/Top-corporates-onboard-to-power-CA-Sri-Lanka-s-45th-National-Conference/34-767931) · `en`
-
-Some of Sri Lanka’s well-known corporates, including leading conglomerates, have come on board to sponsor the 45th National Conference of Chartered Accountants of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), which will be ceremoniously inaugurated today (14) at the Monarch Imperial, Sri Jayawardenepura, Kotte.
-
-Indian High Commissioner Santosh Jha is the Chief Guest and will deliver the keynote speech at the inauguration ceremony.
-
-The three-day event which will conclude on 16 October, will deliberate and delve on the timely and relevant theme “Marching Beyond Margins”, and is aimed at helping Sri Lanka embrace future-forward transformation on its journey to rebuild the country and its economy.
-
-Hayleys PLC, John Keells Group and Sanasa Life will power this year’s national conference as platinum sponsors.
-
-...
-
-[Data](articles/49c2bf91.json)
-
-[Extended Data](ext_articles/49c2bf91.ext.json)
 
 ---

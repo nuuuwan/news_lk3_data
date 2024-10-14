@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 21:58:41**
+As of **2024-10-14 22:25:42**
 
 ## Newspaper Stats
 
-*Scraped **49,486** Articles*
+*Scraped **49,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 3,031
 dailyftlk | 3,346
 adalk | 4,594
 dailymirrorlk | 4,733
-adaderanalk | 5,855
+adaderanalk | 5,856
 tamilmirrorlk | 6,760
-virakesarilk | 7,914
-adaderanasinhalalk | 8,568
+virakesarilk | 7,919
+adaderanasinhalalk | 8,569
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,486 (100.0%) of 49,486 articles have been extended.
+49,493 (100.0%) of 49,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### A statement on several schools closed in the Southern Province
+
+*2024-10-14 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202176) · `si`
+
+Several schools in Southern Province closing due to bad weather. Decision made by Governor. Affected institutions: Balapitiya Education Zone, Balapitiya Sri Lankan College, Colombo Kularatne College, Hikkaduwa Ganegoda Roman Catholic College.
+
+🟩
+
+A few schools in the Southern Province have been closed tomorrow (15) due to the inclement weather.
+
+The decision of the Southern Province, this decision will be implemented on the instructions of the Governor of the Southern Province.
+
+Accordingly, Balapitiya Education Zone, Balapitiya, Balapitiya Sri Lankan College, Balapitiya Sri Lanka College, Balapitiya, Balapitiya, Balapitiya, Balapitiya, Colombo Kularatne College, Hikkaduwa.
+
+Ganegoda Roman Catholic College, Galle Education Zone, has decided to close down.
+
+◼️
+
+[Data](articles/18e6377b.json)
+
+[Extended Data](ext_articles/18e6377b.ext.json)
+
+---
+
+### SriLankan Airlines investigating ‘incident’ on Sydney-Colombo flight
+
+*2024-10-14 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102691/srilankan-airlines-investigating-incident-on-sydney-colombo-flight) · `en`
+
+SriLankan Airlines has confirmed that an investigation is currently underway in accordance with civil aviation regulations “regarding the incident on flight UL 607” from Sydney to Colombo on September 21.
+
+The airline stated that it is fully cooperating with the relevant authorities, and that the captain of the flight has been grounded pending the outcome of the investigation.
+
+SriLankan Airlines further emphasized that safety and compliance with all regulatory requirements remain its top priorities.
+
+◼️
+
+[Data](articles/f56a10a8.json)
+
+[Extended Data](ext_articles/f56a10a8.ext.json)
+
+---
+
+### உலக முடிவு பள்ளத்தாக்கில் கீழே தள்ளி கொலை ; சந்தேக நபர்கள் இருவரை கைது
+
+*2024-10-14 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196303) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Two suspects arrested for murder of 23-year-old youth in Hallyla Rosett area. Victim went missing 5 days ago while driving a three-wheeler. Police investigation reveals shocking details about leasing system and theft of valuable items.
+
+🟩
+
+Madhulseem police said that two suspects suspected of murdering Madulseem's 23 -year -old youth from the lower part of Hallyla Rosett have been arrested by Elaman.
+
+31,39 வயதுடைய மடூல்சீமை பட்டவத்த பகுதியை சேர்ந்த இருவரே இவ்வாறு கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கடந்த மாதம் 30 ம் திகதி இரவு ஹாலிஎல ரொஸட் கீழ் பிரிவைச் சேர்ந்த விவேகானந்தன் சுஜீவன் எனும் இளைஞன் திருமண வீடொன்றிற்கு செல்வதாகவும் வருவதற்கு 5 நாட்கள் ஆகும் என தனது சகோதரியிடம் கூறிவிட்டு AAK 9465 எனும் இலக்கம் கொண்ட தனது முச்சக்கர வண்டியில் சென்றுள்ளார்.
+
+இருப்பினும் 5 நாட்கள் கடந்தும் தனது மகனது கையடக்க தொலைபேசிக்கு அழைப்பை ஏற்படுத்திய போது கையடக்கத் தொலைபேசி செயலில் இல்லாததால் 5 நாட்கள் கடந்தும் தனது மகன் இதுவரையில் வராததாலும் சந்தேகம் கொண்ட குறித்த இளைஞனின் பெற்றோர் ஹாலிஎல பொலிஸ் நிலையத்தில் கடந்த 6 ம் திகதி முறைப்பாடு செய்துள்ளனர்.
+
+The Hali Ela police have carried out investigations at various angles in accordance with their parents' complaint.
+
+...
+
+[Data](articles/a404fbba.json)
+
+[Extended Data](ext_articles/a404fbba.ext.json)
+
+---
 
 ### சீனப் பிரஜைகள் குறித்து சீனத் தூதரகம் விசேட அறிக்கை
 
@@ -128,6 +200,36 @@ Hanshini says:
 
 ---
 
+### 158,391 people are affected by inclement weather;Department
+
+*2024-10-14 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/196302) · `ta`
+
+158,391 affected by inclement weather. Flooding reported in Colombo, Kalutara, Galle, Matara, Gampaha districts. Heavy rainfall expected in several areas. Daily activities impacted due to rains.
+
+🟩
+
+158,391 people have been affected by inclement weather, the Disaster Management Center said.
+
+Due to the turbulence of the atmosphere around the island, 12 districts have been affected by rainfall.
+
+This has caused flooding in many parts of Colombo, Kalutara, Galle, Matara and Gampaha districts.
+
+கடந்த 24 மணித்தியாலங்களில் அதிகபட்சமாக 126.1 மில்லிமீற்றர் மழைவீழ்ச்சி அம்பாறை கல்முனை பிரதேசத்தில் பதிவாகியுள்ளது.
+
+Many of the neighboring areas, including Kalanimulla and Kaduwela, were flooded due to the river river, and the floods at the JL Kottukoda junction of the Colombo-Gurunagal main road were flooded.
+
+Many roads in the Kalutara district have been flooded due to the flow of Kaluganga and Kuduganga.
+
+However, the Department of Meteorology said that more than 100 millimeters of heavy rainfall is expected in several districts of the country on Monday (13) and Tuesday night.
+
+...
+
+[Data](articles/cd2dee3a.json)
+
+[Extended Data](ext_articles/cd2dee3a.ext.json)
+
+---
+
 ### Dilith Sajith greets Sajith
 
 *2024-10-14 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202174) · `si`
@@ -149,6 +251,30 @@ Q: You are trying to be the opposition leader now?What happens to Sajith then?
 [Data](articles/f1eea5a4.json)
 
 [Extended Data](ext_articles/f1eea5a4.ext.json)
+
+---
+
+### Motorcycles and bicycles collide in Batticaloa
+
+*2024-10-14 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/196301) · `ta`
+
+Batticaloa: Motorcycle-bicycle collision kills one, injures two. Injured taken to Kaluwanchikudi Hospital. Police investigating incident.
+
+🟩
+
+One person was killed and two others were injured when a motorcycle and a motorcycle collided with a motorcycle in Ontachimadam area on Batticaloa Kalmunai main road.
+
+Wellaveli 39 -year -old Venusan, a young man, who was sitting on the back of the motorcycle, died.
+
+மோட்டார்சைக்கிளை செலுத்திச் சென்ற பெரியபோரதீவை சேர்ந்த இளைஞன் பலத்த காயமடைந்துள்ளதாகவும் தெரிவிக்கப்படுவதுடன் துவிச்சக்கர வண்டியில் பயணித்த ஓந்தாச்சிமடத்தை சேர்ந்த சிறுவனுக்கு சிறு காயம் ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது
+
+The injured have been admitted to the Kaluwanchikudi Resource Hospital for further treatment. விபத்து தொடர்பான மேலதிக விசாரணைகளை களுவாஞ்சிகுடி பொலிஸார் முன்னெடுத்து செல்கின்றனர்.
+
+◼️
+
+[Data](articles/aa7ac45a.json)
+
+[Extended Data](ext_articles/aa7ac45a.ext.json)
 
 ---
 
@@ -186,6 +312,28 @@ The Irrigation Department said that a decrease in the flood risk of flood risk i
 
 ---
 
+### திருகோணமலை -மட்டக்களப்பு பிரதான வீதியில் வாகனமொன்றினை முந்தி செல்ல முற்பட்ட லொறி விபத்து
+
+*2024-10-14 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196299) · `ta`
+
+Trincomalee-Mattakkalappu main road accident: Lorry crashes while overtaking near Palatopur. Driver flees scene. Investigation ongoing.
+
+🟩
+
+The driver of the Trincomalee -Mattakkalapu main road in Palatopur area crashed away from the lorry road.
+
+Initial investigations revealed that the lorry from Batticaloa to Trincomalee was trying to overtake another vehicle in Palatopur area.
+
+It is noteworthy that the drivers of the Trincomalee district have been instructed by the drivers to pay a carefully in the Trincomalee district.
+
+◼️
+
+[Data](articles/e1800e87.json)
+
+[Extended Data](ext_articles/e1800e87.ext.json)
+
+---
+
 ### Sydney-Colombo airlike incident announced
 
 *2024-10-14 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202172) · `si`
@@ -205,6 +353,38 @@ The company has issued a statement made by the SriLankan Airlines a key role in 
 [Data](articles/1581b9b7.json)
 
 [Extended Data](ext_articles/1581b9b7.ext.json)
+
+---
+
+### In the hands of Pakistan in India's semi -final chance
+
+*2024-10-14 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196298) · `ta`
+
+Pakistan vs New Zealand match outcome determines India's semi-final chances in ICC Women's R20 World Cup.
+
+🟩
+
+India's semi -final chance in the 9th ICC Women's R20 World Cup in the United Arab Emirates is in the hands of Pakistan.
+
+Current Champion Australia has qualified to play the first team from the A group in the Women's R20 World Cup.
+
+The match between New Zealand and Pakistan will start at 7.00 pm on Monday (14) at the Dubai International Cricket Stadium.
+
+If New Zealand wins the up match, New Zealand will advance to the semi -finals. பாகிஸ்தான் வெற்றிபெற்றால் இந்தியா அரை இறுதிக்கு முன்னேறும்.
+
+In the teams, India are second with a net run of 0.322 with 4 points.
+
+நியூஸிலாந்தும் 4 புள்ளிகளைப் பெற்ற 0.282 என்ற நிகர ஓட்ட வேகத்துடன் 3ஆம் இடத்திலிருக்கிறது.
+
+நியூஸிலாந்துக்கும் பாகிஸ்தானுக்கும் இடையில் இதுவரை நடைபெற்றுள்ள 11 போட்டிகளில் 9 - 2 என்ற ஆட்டங்கள் வித்தியாசத்தில் நியூஸிலாந்து முன்னிலை வகிக்கிறது.
+
+New Zealand: Suzi Bats, Georgia Blimer, Amelia Care, Sofi Divine (Head), Brooke Holiday, Medi Kreen, Isabella Case, Lee Gesperek, Lee Tahuhu, Rosemary Mair, Eden Kasan.
+
+...
+
+[Data](articles/5c2954a9.json)
+
+[Extended Data](ext_articles/5c2954a9.ext.json)
 
 ---
 
@@ -2221,163 +2401,5 @@ Accordingly, Deputy Solicitor General Avanthi Perera, who appeared on behalf of 
 [Data](articles/455bfcef.json)
 
 [Extended Data](ext_articles/455bfcef.ext.json)
-
----
-
-### Govt. ready to reconsider Adani wind power project, AG tells court
-
-*2024-10-14 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102668/govt-ready-to-reconsider-adani-wind-power-project-ag-tells-court) · `en`
-
-The Attorney General (AG) has informed the Supreme Court that the Cabinet of Ministers has decided to reconsider the matters related to the wind power project in Wedithalathivu, Mannar by India’s Adani Green Energy.
-
-The AG communicated this to the court when the Fundamental Rights (FR) petitions filed seeking an order to invalidate the Cabinet approval granted for India’s Adani Green Energy for a wind power project in Wedithalathivu, Mannar was taken up this morning (14).
-
-On August 02, the Supreme Court fixed for consideration the five Fundamental Rights petitions filed by five parties including the Centre for Environmental Justice against the Adani’s wind power project, arguing that the proposed wind farm poses significant threats to ecological biodiversity and the safety of migratory birds.
-
-...
-
-[Data](articles/9901f1e9.json)
-
-[Extended Data](ext_articles/9901f1e9.ext.json)
-
----
-
-### The question of Shani's appointment
-
-*2024-10-14 11:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷானியின்-நியமனம்-குறித்து-கேள்வி/175-345420) · `ta`
-
-Shani Abeysekera's appointment questioned by IRES due to political affiliations. IRS Executive Director Manjula Gajanayake opposes the move, citing potential conflicts of interest.
-
-🟩
-
-The Democratic Reforms and Election Studies Agency (IRES) has questioned the appointment of former Director of the Criminal Investigation Department (CID) Shani Abeysekera as the Director of the Criminal Investigation Analyst Bureau.
-
-IRS Executive Director Manjula Gajanayake raised the announcement of the announcement of the government's appointment on October 10.
-
-In the last presidential election, Gajanayake pointed out that Abeysekera had joined a group of retired police officers who actively campaigned for the national People's Power (NPP) of President Anura Kumara Dissanayake.
-
-He added that the upcoming parliamentary elections have been appointed only after the announcement of the upcoming parliamentary elections.
-
-Gajanayake urged him to announce his appointment only after the first session of the new parliament after the general election, though he was considered a talented officer while in the service of Abeysekara.
-
-◼️
-
-[Data](articles/3c134a41.json)
-
-[Extended Data](ext_articles/3c134a41.ext.json)
-
----
-
-### Applications called for appointing new DG to Bribery Commission
-
-*2024-10-14 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102667/applications-called-for-appointing-new-dg-to-bribery-commission) · `en`
-
-Applications have been called for the position of the Director General to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-Issuing a statement, the Parliamentary Communications Department said that according to the provisions stipulated in the Anti-Corruption Act No 9 of 2023 (as amended), applications are called for the appointment of the Director General to the Commission to Investigate Allegations of Bribery or Corruption.
-
-For the said, the qualified persons should prepare the relevant applications in accordance with the format published on the Parliament website (www.parliament.lk) falling under the quick links titled “Appointment of the Director General to the Commission to Investigate Allegations of Bribery or Corruption”, the statement added.
-
-...
-
-[Data](articles/841972f0.json)
-
-[Extended Data](ext_articles/841972f0.ext.json)
-
----
-
-### Explosion in Padalgama: One killed
-
-*2024-10-14 11:10:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படல்கமவில்-வெடிப்பு-ஒருவர்-பலி/175-345418) · `ta`
-
-Explosion at Padalgama carbon factory kills one, injures 19. Police suspect boiler malfunction due to excessive heat. Incident occurred on Monday morning in Gampaha district.
-
-🟩
-
-19 workers were injured and killed in an explosion on Monday morning at a carbon -making factory in Badalgama, Gampaha, police said.
-
-Police suspect that the boiler operating on Saturday night (12) may have exploded due to high heat.
-
-◼️
-
-[Data](articles/85e96ebc.json)
-
-[Extended Data](ext_articles/85e96ebc.ext.json)
-
----
-
-### Explosion at Padalgama Factory: One Kills
-
-*2024-10-14 11:10:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படல்கம-தொழிற்சாலையில்-வெடிப்பு-ஒருவர்-பலி/175-345418) · `ta`
-
-Explosion at Padalgama Factory: 1 death, 19 injuries reported. Police suspect boiler malfunction due to excessive heat. Incident occurred on Monday morning at a carbon-making facility in Gampaha district.
-
-🟩
-
-19 workers were injured and killed in an explosion on Monday morning at a carbon -making factory in Badalgama, Gampaha, police said.
-
-Police suspect that the boiler operating on Saturday night (12) may have exploded due to high heat.
-
-◼️
-
-[Data](articles/e067449a.json)
-
-[Extended Data](ext_articles/e067449a.ext.json)
-
----
-
-### Heavy Think: How are there not a disaster in a flood?
-
-*2024-10-14 11:09:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd7x298e3l1o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Flooding causes widespread destruction globally. Immediate floods are dangerous due to rapid water rise. Surviving floods requires knowing flood-prone areas, planning evacuation, securing valuables, and seeking high ground. Avoid walking through flooded areas and disconnect utilities before returning home. Local emergency services provide specific guidance based on location.
-
-🟩
-
-Floods are the most common natural disaster, and they cause significant destruction around the world. According to NASA's data provided by NASA, 2023 global flooding disasters have occurred worldwide. More than 10,000 people include flooding influenced by the dead or missing north Libya.
-
-This year a few countries faced floods. Most recently reported, in central Europe and North and West Africa.
-
-There are several types of floods. One type of cases is especially dangerous: Immediate floods, a few minutes or hours, the water level is rapidly rising.
-
-They are often a result of heavy rains and may be powerful enough to destroy the buildings. Farming weather conditions, such as drought and then heavy weather conditions, get worse because of climate change, and it is common for the immediate floods.
-
-...
-
-[Data](articles/cb9f4d93.json)
-
-[Extended Data](ext_articles/cb9f4d93.ext.json)
-
----
-
-### Chinese citizens arrested for illegally
-
-*2024-10-14 11:05:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோதமாக-தங்கியிருந்த-சீனப்-பிரஜைகள்-கைது/175-345417) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"15 Chinese citizens, including 4 women, arrested by police. Police investigation ongoing."
-
-
-
-This summary captures the key points from the original text while staying within the character limit. It mentions the number of arrests, gender distribution, law enforcement involvement, and the ongoing investigation.
-
-🟩
-
-15 Chinese citizens, including four women, were arrested by police yesterday (13).
-
-Based on information received by the police, they have been arrested and the Criminal Investigation Department is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/5098d22a.json)
-
-[Extended Data](ext_articles/5098d22a.ext.json)
 
 ---

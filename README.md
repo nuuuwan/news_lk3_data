@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 14:39:17**
+As of **2024-10-14 14:58:22**
 
 ## Newspaper Stats
 
-*Scraped **49,427** Articles*
+*Scraped **49,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,346
 adalk | 4,586
 dailymirrorlk | 4,733
 adaderanalk | 5,844
-tamilmirrorlk | 6,747
+tamilmirrorlk | 6,748
 virakesarilk | 7,908
 adaderanasinhalalk | 8,554
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,554
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,427 (100.0%) of 49,427 articles have been extended.
+49,428 (100.0%) of 49,428 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -151,6 +151,30 @@ The High Court Judge was sentenced to death by the suspect, which was guilty of 
 [Data](articles/4b28536b.json)
 
 [Extended Data](ext_articles/4b28536b.ext.json)
+
+---
+
+### Scholarship Affairs: No Redeeming Examination
+
+*2024-10-14 13:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-விவகாரம்-மீள்-பரீட்சை-இல்லை/175-345437) · `ta`
+
+Grade 5 scholarship exam cancelled due to leaks. Free points for affected students. Decision made after PM's advice.
+
+🟩
+
+The Department of Examinations has decided not to reclaim the Grade 5 scholarship examination at a meeting on Monday morning (14).
+
+The Commissioner General of Examinations Amit Jayasundera said that he will provide free points for all three of the alleged leaked questions.
+
+The decision was taken on Monday (14) following a seven -member committee meeting. The committee decided not to re -hold the selection.
+
+Commenting on the media, Secretary to the Ministry of Education Mrs. Tilaka Jayasundara said the decision was taken on the advice of Prime Minister Dr. Harini Amarasuriya.
+
+◼️
+
+[Data](articles/6ca9680b.json)
+
+[Extended Data](ext_articles/6ca9680b.ext.json)
 
 ---
 
@@ -296,7 +320,7 @@ Meanwhile, the evaluation of answer sheets, which had been temporarily suspended
 
 Several committees were appointed to investigate the scholarship examination, and their final conclusion was that only three questions had been leaked prior to the exam.
 
-The Criminal Investigation Department (CID) had also launched a separate investigation into the question paper leak.
+On September 20, an investigation was launched by the Department of Examinations after it was alleged that a question paper from the exam had been leaked. Later, the initial investigation report was handed over to the Criminal Investigation Department (CID), which also launched a separate investigation into the matter.
 
 ...
 
@@ -2343,25 +2367,5 @@ Making his first political speech since taking office, Dissanayake addressed the
 [Data](articles/b22e1319.json)
 
 [Extended Data](ext_articles/b22e1319.ext.json)
-
----
-
-### IGP introduces transparent selection process for police foreign training programs
-
-*2024-10-14 00:40:33* · [`dailyftlk`](https://www.ft.lk/news/IGP-introduces-transparent-selection-process-for-police-foreign-training-programs/56-767929) · `en`
-
-For the first time in recent history, the newly appointed Acting Inspector General of Police (IGP) Priyantha Weerasooriya has announced a transparent selection process for Sri Lanka Police officers applying for foreign training courses and workshops.
-
-In an official communique last week, Weerasooriya called for applications from police officers for foreign training programs to be held soon.
-
-Moving away from the traditional method where officers were handpicked by the IGP or nominated by senior officers, Weerasooriya has introduced a mandatory interview process to select officers based on merit and qualifications.
-
-The previous system had long been criticised for favouring officers close to the police top brass, sidelining others who might have been more deserving. Officers have often complained about the lack of clear criteria in the selection process, which undermined fairness and opportunities for growth within the force.
-
-...
-
-[Data](articles/62021149.json)
-
-[Extended Data](ext_articles/62021149.ext.json)
 
 ---

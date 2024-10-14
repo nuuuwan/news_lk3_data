@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 16:57:22**
+As of **2024-10-14 17:08:31**
 
 ## Newspaper Stats
 
-*Scraped **49,452** Articles*
+*Scraped **49,455** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 401
-bbccomsinhala | 493
 colombotelegraphcom | 493
+bbccomsinhala | 494
 islandlk | 2,933
 economynextcom | 3,026
 dailyftlk | 3,346
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,852
 tamilmirrorlk | 6,754
 virakesarilk | 7,909
-adaderanasinhalalk | 8,560
+adaderanasinhalalk | 8,562
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,452 (100.0%) of 49,452 articles have been extended.
+49,455 (100.0%) of 49,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Bus accident that killed school children and five
+
+*2024-10-14 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202167) · `si`
+
+Kanpur bus accident kills 5 school children. Heavy truck crashes into car, causing fatal injuries. Driver and 4 students die instantly. Car severely damaged, trapping occupants. Truck drivers flee scene. Authorities launch investigation.
+
+🟩
+
+Five school children including four schoolchildren were killed in an accident in Kanpur, India.
+
+The heavy rapidly driving tipper on the highway also tightened the car to the vehicle, and the accident occurred in the car.
+
+The driver of the car and four students were killed in the spot where the accident occurred.
+
+Foreign media reports that all of the people were stuck in the vehicle due to heavy damage to the car.
+
+However, the drivers in the tipper and trailer were fled by the place when the accident occurred.
+
+The Security Forces inquiry in the country has commenced investigations into the arrest.
+
+◼️
+
+[Data](articles/2a44c869.json)
+
+[Extended Data](ext_articles/2a44c869.ext.json)
+
+---
 
 ### Sri Lanka’s foreign minister responds to attack on peacekeepers in Lebanon
 
@@ -49,6 +77,30 @@ Furthermore, the Foreign Affairs Minister stated that on the international front
 [Data](articles/0a564a21.json)
 
 [Extended Data](ext_articles/0a564a21.ext.json)
+
+---
+
+### The capital of Pakistan is to Lockdon
+
+*2024-10-14 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202165) · `si`
+
+Pakistan's capital is not London. The Chinese Premier visited Islamabad for SCO talks. A 3-day holiday was declared in Islamabad due to his visit, causing school and business closures.
+
+🟩
+
+Due to an international convention in Pakistan, the chief of the Chinese Prime Minister of Islamabad, the capital city of Islamabad, has decided to threaten the road.
+
+Chinese Prime Minister Lee Chen came to Pakistan today to attend the conference of Shanghai Cooperation Organization.
+
+A Chinese Prime Minister has arrived in Pakistan after 11 years.
+
+The summit announced a three-day public holiday for the city of Islamabad, and the schools and businesses in that city have been closed down.
+
+◼️
+
+[Data](articles/f3d51817.json)
+
+[Extended Data](ext_articles/f3d51817.ext.json)
 
 ---
 
@@ -1470,6 +1522,34 @@ Police suspect that the boiler operating on Saturday night (12) may have explode
 
 ---
 
+### Heavy Think: How are there not a disaster in a flood?
+
+*2024-10-14 11:09:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd7x298e3l1o) · `si`
+
+Here's a 200-character summary:
+
+
+
+Flooding causes widespread destruction globally. Immediate floods are dangerous due to rapid water rise. Surviving floods requires knowing flood-prone areas, planning evacuation, securing valuables, and seeking high ground. Avoid walking through flooded areas and disconnect utilities before returning home. Local emergency services provide specific guidance based on location.
+
+🟩
+
+Floods are the most common natural disaster, and they cause significant destruction around the world. According to NASA's data provided by NASA, 2023 global flooding disasters have occurred worldwide. More than 10,000 people include flooding influenced by the dead or missing north Libya.
+
+This year a few countries faced floods. Most recently reported, in central Europe and North and West Africa.
+
+There are several types of floods. One type of cases is especially dangerous: Immediate floods, a few minutes or hours, the water level is rapidly rising.
+
+They are often a result of heavy rains and may be powerful enough to destroy the buildings. Farming weather conditions, such as drought and then heavy weather conditions, get worse because of climate change, and it is common for the immediate floods.
+
+...
+
+[Data](articles/cb9f4d93.json)
+
+[Extended Data](ext_articles/cb9f4d93.ext.json)
+
+---
+
 ### Chinese citizens arrested for illegally
 
 *2024-10-14 11:05:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோதமாக-தங்கியிருந்த-சீனப்-பிரஜைகள்-கைது/175-345417) · `ta`
@@ -2237,81 +2317,5 @@ Frequent winds can be increased at 50 - 60 km / h in the sea regions from Puttal
 [Data](articles/a8fa6334.json)
 
 [Extended Data](ext_articles/a8fa6334.ext.json)
-
----
-
-### Woman arrested for leaving Katunayake of 35 lakhs
-
-*2024-10-14 08:47:19* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-35ක-දුම්වැටි-කටුනායකින්-පිට-කරන්න-ගිය-කාන්තාවක්-අල්ලයි/11-412474) · `si`
-
-Woman arrested at Katunayake airport for unpaid taxi fare. 40-year-old returning from Dubai. Found with undeclared cash. Released on bail, to appear in court for illegal activities.
-
-🟩
-
-A road passenger has been arrested by the Police Narcotics Unit of Katunayaka airport when they were not paid and leaving the airport at Rs..
-
-She was a 40 year old who was working in Dubai, a resident of Bingiriya, Chilaw. She was from Dubai to around 5:00 pm, Fitz Air, Fitz Air, Fitz Air, from Dubai to Katunayake.
-
-Officers of the Police Narcotics Sector have been arrested by the police narcotics, while she had been brought to a number of luggage and "Platinum" type and "platinum".
-
-The woman has been released on police bail, and this woman is to be produced before the Negombo Magistrate's Court with the labor of the lack of illegal.
-
-◼️
-
-[Data](articles/43fcf7f0.json)
-
-[Extended Data](ext_articles/43fcf7f0.ext.json)
-
----
-
-### Final decision on scholarship examination today
-
-*2024-10-14 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202139) · `si`
-
-Scholarship exam results delayed due to cheating allegations. Three questions found leaked. Investigation ongoing. Test suspension pending outcome. Parents protest demanding full probe.
-
-🟩
-
-The final decision on the Grade 5 scholarship examination is due to be informed today (14).
-
-Accordingly, the Commissioner General of Examinations will be summoned by summoning a special media briefing.
-
-The decision has been taken with the discovery of information that only three questions were exited.
-
-Taking tests currently suspended in this situation are to be started.
-
-Several committees have been appointed to investigate the scholarship examination and the final decision of the investigation teams has been the last three questions before the examination.
-
-The Criminal Investigation Department commenced an investigation into the checkup of the scholarship examination.
-
-However, a group of parents have met with media and protestors and demonstrated the entire question paper.
-
-The parents were discussed with President Anura Kumara Dissanayake, with the completion of the scholarship examination until the end of the investigation.
-
-◼️
-
-[Data](articles/a82a266f.json)
-
-[Extended Data](ext_articles/a82a266f.ext.json)
-
----
-
-### US to send anti-missile system and troops to Israel, Pentagon says
-
-*2024-10-14 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102660/us-to-send-anti-missile-system-and-troops-to-israel-pentagon-says) · `en`
-
-The United States said on Sunday it will send U.S. troops to Israel along with an advanced U.S. anti-missile system, in a highly unusual deployment meant to bolster the country’s air defenses following missile attacks by Iran.
-
-U.S. President Joe Biden said the move was meant “to defend Israel,” which is weighing an expected retaliation against Iran after Tehran fired more than 180 missiles at Israel on Oct 1.
-
-The United States has been privately urging Israel to calibrate its response to avoid triggering a broader war in the Middle East, officials say, with Biden publicly voicing his opposition to an Israeli attack on Iran’s nuclear sites and his concerns about a strike on Iran’s energy infrastructure.
-
-Pentagon spokesperson Major General Patrick Ryder described the deployment as part of “the broader adjustments the U.S. military has made in recent months” to support Israel and defend U.S. personnel from attacks by Iran and Iranian-backed groups.
-
-...
-
-[Data](articles/51515a08.json)
-
-[Extended Data](ext_articles/51515a08.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 13:24:00**
+As of **2024-10-14 13:39:49**
 
 ## Newspaper Stats
 
-*Scraped **49,414** Articles*
+*Scraped **49,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,026
 dailyftlk | 3,346
 adalk | 4,583
 dailymirrorlk | 4,733
-adaderanalk | 5,841
+adaderanalk | 5,842
 tamilmirrorlk | 6,746
 virakesarilk | 7,908
 adaderanasinhalalk | 8,549
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,549
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,412 (100.0%) of 49,414 articles have been extended.
+49,415 (100.0%) of 49,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Farmers to receive increased fertilizer subsidy from today
+
+*2024-10-14 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102676/farmers-to-receive-increased-fertilizer-subsidy-from-today) · `en`
+
+The distribution of the fertilizer subsidy will commence today (14), says Minister Vijitha Herath.
+
+During the first phase of the programme, farmers will receive Rs. 15,000, followed by Rs. 10,000 in the second phase.
+
+The minister said that the distribution of fertilizer subsidy will begin in Ampara District and will subsequently be expanded to farmers in Polonnaruwa, Anuradhapura and Mahaweli Zone.
+
+◼️
+
+[Data](articles/595838ec.json)
+
+[Extended Data](ext_articles/595838ec.ext.json)
+
+---
 
 ### Decision taken not to re-conduct 2024 Grade 5 Scholarship exam
 
@@ -40,7 +58,13 @@ The Commissioner General of Examinations Amith Jayasundara announced that it was
 
 Furthermore, it has been decided to award free marks to all students for the 03 questions which were alleged to have been leaked.
 
-◼️
+Meanwhile, the evaluation of answer sheets, which had been temporarily suspended, is reportedly expected to commence immediately.
+
+Several committees were appointed to investigate the scholarship examination, and their final conclusion was that only three questions had been leaked prior to the exam.
+
+The Criminal Investigation Department (CID) had also launched a separate investigation into the question paper leak.
+
+...
 
 [Data](articles/132c8568.json)
 
@@ -310,22 +334,6 @@ The army remains on high alert as floodwaters continue to rise, with further mea
 
 ---
 
-### I OPPOSE THE PRIME MINISTER, THE MINISTER OF PLANNING AND THE MINISTER OF AGRICULTURE
-
-*2024-10-14 11:52:00* · [`islandlk`](http://island.lk/i-oppose-the-prime-minister-the-minister-of-planning-and-the-minister-of-agriculture/) · `en`
-
-(Excerpted from Falling leaves, an autobiographical memoir of LC Arulpragasam)
-
-I had no place to go, because I was wedded to the agriculture sector – by my own choosing. Therefore, I was lucky to find a berth as Head of the Agriculture Sector in the Department of National Planning. But I had to pay a career-price for doing this, because it involved my working under a non-civil servant and under someone whom I outranked in the Civil List – which was simply not done in those days.
-
-...
-
-[Data](articles/16900968.json)
-
-[Extended Data](ext_articles/16900968.ext.json)
-
----
-
 ### We deserve a bright future
 
 *2024-10-14 11:48:00* · [`islandlk`](http://island.lk/we-deserve-a-bright-future/) · `en`
@@ -339,24 +347,6 @@ AKD did not win in any of the Tamils dominated districts. There are many comment
 [Data](articles/a88f0efa.json)
 
 [Extended Data](ext_articles/a88f0efa.ext.json)
-
----
-
-### The 1956 election landslide and SWRD Bandaranaike’s tenure (1956 — 1959)
-
-*2024-10-14 11:46:00* · [`islandlk`](http://island.lk/the-1956-election-landslide-and-swrd-bandaranaikes-tenure-1956-1959/) · `en`
-
-(Excerpted from Rendering Unto Caesar, memoirs of  Bradman Weerakoon)
-
-My acquaintance with S W R D Bandaranaike was only through the press reports of his election campaign. That was before he came to the prime minister’s office in the Fort (now housing the foreign ministry at Republic Square), on an April morning, after the swearing in of his Cabinet at Queen’s House. His eloquence as a speaker, especially his Independence Day speech in 1948, was deeply imprinted in my mind.
-
-Throughout a gruelling campaign he had shown extraordinary skills of perseverance in the face of severe odds, and the ability to persuade large masses of ordinary people to believe in his cause. I wondered how he would be to work with after I had experienced the rather easy going style of Sir John. There was also the serious business to be faced of how soon he would be able to make his election slogan of `Sinhala Only’ as the official language in 24 hours come true?
-
-...
-
-[Data](articles/3d931436.json)
-
-[Extended Data](ext_articles/3d931436.ext.json)
 
 ---
 
@@ -389,22 +379,6 @@ The government of Sri Lankan president Anura Kumara Dissanayake has pledged soli
 [Data](articles/35614fd9.json)
 
 [Extended Data](ext_articles/35614fd9.ext.json)
-
----
-
-### The Wrath of a Nation
-
-*2024-10-14 11:43:00* · [`islandlk`](http://island.lk/the-wrath-of-a-nation/) · `en`
-
-The wrath of a nation can be a fearful thing. In 2022 we saw its evolution and culmination in our own “Aragalaya“, which sent the then president, a so called “battle hardened” war veteran and “warrior-statesman”, first in to exile and then to precipitate retirement.
-
-We saw it again, just a couple of weeks ago, in the election of Sri Lanka’s ninth executive president, a villager from deeply rural Tambuttegama, the son of a surveyor’s assistant. That he was the first student from Tambuttegama Central College to gain university entrance, is another factor which attests to the absence of privilege and personal resources. His election is also an extension of the “Aragalaya”, and a logical evolution of that movement, but without the drama and histrionics and, instead, that energy, that anger, legitimately channeled in to a quiet civic purpose.
-
-...
-
-[Data](articles/1fd26e13.json)
-
-[Extended Data](ext_articles/1fd26e13.ext.json)
 
 ---
 
@@ -642,23 +616,29 @@ Based on information received by the police, they have been arrested and the Cri
 
 ---
 
-### අල්ලස්  කොමිෂමට නව අධ්‍යක්ෂ  ජනරාල්වරයා පත්කිරීමට අයඳුම්පත් කැඳවයි
+### New Director General calls for appointment
 
 *2024-10-14 11:03:42* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්--කොමිෂමට-නව-අධ්‍යක්ෂ--ජනරාල්වරයා-පත්කිරීමට-අයඳුම්පත්-කැඳවයි/11-412476) · `si`
 
-2023 අංක 9 දරන දුෂණ විරෝධී පනතෙහි (සංශෝධන පරිදි) විධිවිධාන යටතේ අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල්වරයා පත්කිරීම සඳහා අයදුම්පත් කැඳවීම ආරම්භ කර ඇත.
+New Director General seeks applicants for Bribery or Corruption Commission positions. Applications available on Parliament website. Deadline: National newspapers publish notice on 13th & 14th of this month. Submit to Constitutional Council office in Sri Jayewardenepura Kotte.
 
-ඒ සඳහා සුදුසුකම්ලත් තැනැත්තන් අදාළ අයදුම්පත්‍ර පාර්ලිමේන්තු වෙබ් අඩවියෙහි (www.parliament.lk) ක්ෂණික සබැඳි යටතේ "අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජෙනරාල්වරයා පත්කිරීම" නමින් පලකර ඇති ආකෘතිය අනුව පිළියෙල කළ යුතුය.
+🟩
 
-එලෙස නිසි පරිදි සම්පූර්ණ කරන ලද අයදුම්පත්‍ර 2024 ඔක්තෝබර් මස 28 වැනි දින හෝ ඊට පෙර, ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාවේ මහලේකම්, ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව-කාර්යාලය, ශ්‍රී ලංකා පාර්ලිමේන්තුව, ශ්‍රී ජයවර්ධනපුර කෝට්ටේ  යන ලිපිනයට ලියාපදිංචි තැපෑලෙන් හෝ  [email protected] යන යන විද්‍යුත් ලිපිනයට යොමු කළ යුතුය.
+Applications have been called for the appointment of Bribery or Corruption Commission (Investigation General) under the provisions of the Anti-Corruption Act No. 9 of the Anti-Corruption Act, No. 9 of the Anti-Corruption Act.
 
-එමෙන්ම ලියුම් කවරයේ ඉහළ වම් කෙළවරේ / විද්‍යුත් ලිපියෙහි විෂය වශයෙන් "අල්ලස්  හෝ දූෂණ  චෝදනා විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ  ජනරාල්වරයා පත්කිරීම" යනුවෙන් සඳහන් කළ යුතුය.
+Applications for this purpose should be prepared according to the formation of the Bribery or Corruption General of Parliament on www.poliamentend.lk) on the Parliament website (the appointment of corruption of the Commission) on the Parliament website.
 
-මේ සඳහා වන පුවත් පත් දැන්වීම මේ මස 13 සහ 14 යන දිනවල ජාතික පුවත්පත්වල පලකර තිබේ.
+Duly completed applications referred to the Secretary General of the Constitution, Constitutional Council - Office, Sri Lanka, Sri Jayewardenepura Kotte, Sri Lanka, Sri Jayewardenepura KotteShould
+
+Also, as "appointing the Director General of Investigation Commission" in the upper left end of the envelope / electronic letter, "appointing the Director General of Investigation Commission".
+
+Newspaper notice is published in the national newspapers on the 13th and 14th of this month.
 
 ◼️
 
 [Data](articles/b087a61f.json)
+
+[Extended Data](ext_articles/b087a61f.ext.json)
 
 ---
 
@@ -1062,21 +1042,27 @@ The man was arrested on suspicion of possessing a loaded firearm and possession 
 
 ---
 
-### රජයට අයත් තවත් වාහනයක් සොයා ගනියි
+### Another vehicle belonging to the government is found
 
 *2024-10-14 10:14:30* · [`adalk`](https://www.ada.lk/picture_story/රජයට-අයත්-තවත්-වාහනයක්-සොයා-ගනියි/10-412475) · `si`
 
-ප්‍රවාහන අමාත්‍යංශයට අයත් පෙජෙරෝ ජිප් රථයක් දිරාපත් විමට අත්හැර දමා තිබියදි නුවරඑලිය පොලිසිය විසින් (13) දින පස්වරුවේ සොයාගත් බව නුවරඑලිය පොලිස් ස්ථානයේ උසස් නිලධාරියෙකු පැවසිය.
+Government vehicles seized in Nuwara Eliya district. Two jeeps found abandoned. Police investigating more state-owned vehicles.
 
-නුවරඑලිය හැඩ්න්හිල් මාර්ගයේ පිහිටි නුවරඑලිය කලාප අධ්‍යාපන කාර්යාලයට අයත් භුමියේ මෙම ජිප් රථය වසර ගණනාවක් තිස්සේ ගාල් කර ඇති බවත්, එම ජිප් රථය මේ වන විට සම්පුර්ණයෙන්ම දිරාපත් වි දැඩි අබලන් තත්ත්වයේ පවතින බවයි පොලිසිය කියා සිටියේ.
+🟩
 
-නුවරඑලිය දිස්ත්‍රික්කය නියෝජනය කල අමාත්‍යවරයෙකුගේ පෞද්ගලික සම්බන්ධිකරණ නිලධාරියෙකුට භාවිතා කිරිම සදහා එවකට මෙම ජිප් රථය ඇතුළු තවත් ජිප් රථයක් අමාත්‍යවරයා විසින් ලබා දි ඇති බවත්, අනෙක් ජිප් රථය සොයා මේ වන විට පොලිස් විමර්ෂණයක් ආරම්භ කර ඇති බවයි එම නිලධාරියා කියා සිටියේ.
+A senior official of the Nuwara Eliya Police said he was discovered by the Nuwara Eliya Police (13) after the 13th morning of the Transport Ministry.
+
+Police said that the jeep of the Nuwara Eliya Zonal Education Office has been parked for many years on the Hambantota Zonal Education Office on the Hadnhamh road along the Nuwara Eliya.
+
+The official said that the Minister and another jeip had been provided with a private coordination officer in the Nuwara Eliya District and another jeep had begun a police investigation.
 
 නුවරඑලිය ප්‍රදේශයේ රජයට අයත් වාහන සගවා ඇති බවට ලද තොරතුරක් මත මේ වන විට ජිප් රථ දෙකක් සොයාගෙන ඇති බවත්, තවත් රජයේ වාහන කිහිපයක් සම්බන්ධයෙන් තොරතුරු ලැබි ඇති හෙයින් එම වාහනද පොලිස් භාරයට ගැනිමට කටයුතු කරන බවද පොලිස් නිලධාරියා වැඩිදුරටත් කියා සිටියේ.
 
 ◼️
 
 [Data](articles/2b84d54a.json)
+
+[Extended Data](ext_articles/2b84d54a.ext.json)
 
 ---
 
@@ -2275,5 +2261,55 @@ Kamundu Mendis scored 51 runs with 5 pounds, 2 sixes and 59 runs with 9 pounds.
 [Data](articles/a0db4f16.json)
 
 [Extended Data](ext_articles/a0db4f16.ext.json)
+
+---
+
+### EDB focuses on tapping opportunities in Sri Lanka’s blue economy
+
+*2024-10-14 00:11:00* · [`islandlk`](http://island.lk/edb-focuses-on-tapping-opportunities-in-sri-lankas-blue-economy/) · `en`
+
+A groundbreaking event in Sri Lanka’s marine and offshore service sector, Voyage Sri Lanka 2024 Conference is to set sail on 26th November 2024 at Kingsbury Colombo.
+
+The registration process is now open. Please visit www.voyagesrilanka.lk and secure your seat. The conference will spotlight the blue economy and showcase strengths, potential, and cutting-edge technologies in Sri Lanka’s marine and offshore services, as well as boat and ship building sectors.
+
+Voyage Sri Lanka 2024 brings together the public & private sector stakeholders in the marine & offshore, and boat & ship building sectors, providing a unique platform for industry leaders, investors, experts, and stakeholders to discuss the future of the blue economy. This pioneering event will focus on sustainable practices, emerging technologies, and collaborative efforts to enhance Sri Lanka’s role as a global marine hub.
+
+...
+
+[Data](articles/57b34752.json)
+
+[Extended Data](ext_articles/57b34752.ext.json)
+
+---
+
+### 2024-10-13 (Sunday)
+
+### Australia qualifies the first team to play women's R20 World Cup semi -final;India lost by 9 runs in the main match
+
+*2024-10-13 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196219) · `ta`
+
+Australia qualifies for women's R20 World Cup semi-finals after beating India by 9 runs. India needs Pakistan to win against New Zealand for a semi-final spot.
+
+🟩
+
+The Ninth ICC Women's R20 World Cup qualified to play the first team in the Australian World Champion Australia, who won India by 9 runs at the Dubai International Cricket Stadium on Sunday night.
+
+Australia, who won the 4 matches she played in the A group, qualified for the Women's R20 World Cup at the 9th.
+
+India's semi -final chance to lose the match is in the hands of Pakistan.
+
+India will qualify for the semi -finals if Pakistan achieves reverse victory in the last match for tomorrow's A group between Pakistan and New Zealand.. If Pakistan fails, New Zealand will advance to the semi -finals.
+
+After winning the currency cycle today, Australia decided to bat first and scored 151 runs for the loss of 8 wickets in 20 overs.
+
+The usual team captain Alyssa Helli is not playing in today's match due. Tahila Macra was replaced by him.
+
+Crease Heris, who played as an early player instead of Alyssa Heli, was effectively bowled out.
+
+...
+
+[Data](articles/7612cb4d.json)
+
+[Extended Data](ext_articles/7612cb4d.ext.json)
 
 ---

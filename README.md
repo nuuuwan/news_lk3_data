@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 03:39:12**
+As of **2024-10-15 03:57:59**
 
 ## Newspaper Stats
 
-*Scraped **49,521** Articles*
+*Scraped **49,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 493
 bbccomsinhala | 495
 islandlk | 2,933
 economynextcom | 3,034
-dailyftlk | 3,359
+dailyftlk | 3,360
 adalk | 4,596
 dailymirrorlk | 4,733
 adaderanalk | 5,857
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,513 (100.0%) of 49,521 articles have been extended.
+49,516 (100.0%) of 49,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Votes for President reflect public frustration with corruption, not support for NPP ideology – Imthiaz
+
+*2024-10-15 03:19:05* · [`dailyftlk`](https://www.ft.lk/news/Votes-for-President-reflect-public-frustration-with-corruption-not-support-for-NPP-ideology-Imthiaz/56-767983) · `en`
+
+Says votes for NPP do not reflect public belief that it has best plan or team to rebuild SL
+
+Claims votes for President were driven by opposition to corrupt dealings, widespread disillusionment, and economic pressures
+
+Urges public to make informed, intelligent choices for SL’s future rather than being swayed by attractive but empty rhetoric
+
+Says people did not look at manifestos last poll and urged them to carefully examine and compare SJB’s one to those of others
+
+Former Samagi Jana Balawegaya (SJB) MP Imthiaz Bakeer Markar has said that the votes cast for President Anura Kumara Dissanayake in the recent Presidential election were more a reflection of public dissent against the existing corrupt political system than an endorsement of the National People’s Power (NPP) party’s ideology and policies.
+
+...
+
+[Data](articles/d593042a.json)
+
+[Extended Data](ext_articles/d593042a.ext.json)
+
+---
 
 ### President prioritises immediate relief for districts affected by inclement weather
 
@@ -124,6 +146,8 @@ Herath, speaking at his first formal engagement with the diplomatic community, s
 
 [Data](articles/b46aa1f6.json)
 
+[Extended Data](ext_articles/b46aa1f6.ext.json)
+
 ---
 
 ### China pledges deeper anti-fraud law enforcement cooperation with SL following major arrests
@@ -143,6 +167,8 @@ In a statement issued yesterday, the Chinese Embassy in Sri Lanka voiced its sup
 ...
 
 [Data](articles/40d9642b.json)
+
+[Extended Data](ext_articles/40d9642b.ext.json)
 
 ---
 
@@ -2331,25 +2357,5 @@ A academist and a teledrama director is expected to contest the general election
 [Data](articles/5fc02f53.json)
 
 [Extended Data](ext_articles/5fc02f53.ext.json)
-
----
-
-### Rs. 3.5 VAT unpaid Arjun Alosius to prison
-
-*2024-10-14 12:57:00* · [`adalk`](https://www.ada.lk/breaking_news/රු-බි--3-5-වැට්-බදු-නොගෙවූ-අර්ජුන්-ඇලෝසියස්-ඇතුළු-තිදෙනෙක්-සිරගෙට/11-412478) · `si`
-
-Colombo Magistrate's Court sentences Mendis Director to 6 months jail for Rs. 3.5 billion VAT default case.
-
-🟩
-
-WM over the default incident of the VAT. The Director of Mendis, including the Director of the Colombo Magistrate's Court, has been sentenced to six months by the Colombo Magistrate's Court.
-
-The case had filed the case by the Department of Revenue regarding the default of Rs 3.5 billion VAT.
-
-◼️
-
-[Data](articles/4ee32549.json)
-
-[Extended Data](ext_articles/4ee32549.ext.json)
 
 ---

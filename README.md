@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 08:02:56**
+As of **2024-10-14 08:24:30**
 
 ## Newspaper Stats
 
-*Scraped **49,344** Articles*
+*Scraped **49,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ colombotelegraphcom | 493
 islandlk | 2,928
 economynextcom | 3,023
 dailyftlk | 3,346
-adalk | 4,576
+adalk | 4,577
 dailymirrorlk | 4,733
 adaderanalk | 5,825
-tamilmirrorlk | 6,726
+tamilmirrorlk | 6,727
 virakesarilk | 7,904
-adaderanasinhalalk | 8,535
+adaderanasinhalalk | 8,536
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,343 (100.0%) of 49,344 articles have been extended.
+49,343 (100.0%) of 49,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### කාලගුණයෙන් පීඩාවට පත් පිරිස ලක්ෂය ඉක්මවයි
+
+*2024-10-14 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202137) · `si`
+
+දිවයිනට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පීඩාවට පත් පුද්ගලයින් ගණන ලක්ෂයේ සීමාව ඉක්මවා ගොස් තිබේ.
+
+ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසුවේ දිස්ත්‍රික්ක 12ක, ප්‍රාදේශීය ලේකම් කොට්ඨාස 69ක පුද්ගලයින් මෙලෙස අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පීඩාවට පත්ව ඇති බවය.
+
+ඒ අනුව පවුල් 34,492කට අයත් පුද්ගලයින් 134,484 දෙනෙකු පීඩාවට පත් ව ඇති බව වාර්තා වේ.
+
+ආපදා තත්ත්වය හේතුවෙන් පුද්ගලයින් තිදෙනෙකු ජීවිතක්ෂයට පත් ව ඇති අතර තවත් පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා ඇත.
+
+නිවාස 240කට අර්ධ හානි සිදුවී ඇති අතර එක් නිවසක් සම්පුර්ණයෙන් ම විනාශ වී ඇති බව වාර්තා වේ.
+
+පවුල් 1753කට අයත් පුද්ගලයින් 6963 දෙනෙකු මේ වන විට ආරක්ෂිත ස්ථාන 81ක රැදී සිටින බව ද ආපදා කළමනාකරණ මධ්‍යස්ථානය සදහන් කළේය.
+
+මේ අතර දින කිහිපයක් පුරාවට ඇද හැලෙන අඛණ්ඩ වර්ෂාපතනය හේතුවෙන් ගම්පහ දිස්ත්‍රික්කයට දැඩි බලපෑම් එල්ල ව තිබේ.
+
+එහිදී පවුල් 20,553කට අයත් පුද්ගලයින් 82,839 දෙනෙකු පීඩාවට පත්ව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය සදහන් කළේය.
+
+මීට අමතරව කොළඹ දිස්ත්‍රික්කයේ පවුල් 10,914කට අයත් පුද්ගලයින් 40,231 දෙනෙකු පීඩාවට පත්ව ඇති බව සදහන් වේ.
+
+...
+
+[Data](articles/b3cdc979.json)
+
+---
+
+### 100 மில்லி மீற்றருக்கும் அதிக மழை வீழ்ச்சி
+
+*2024-10-14 07:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மில்லி-மீற்றருக்கும்-அதிக-மழை-வீழ்ச்சி/175-345401) · `ta`
+
+மேல், சப்ரகமுவ, வடமேல் மற்றும் வடக்கு மாகாணங்களிலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+மேல், சப்ரகமுவ, வடமேல் மற்றும் வடக்கு மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மி.மீற்றருக்கும் அதிகளவான மழை வீழ்ச்சி பதிவாகக்கூடும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+
+நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு நேரங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் எனவும் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/ab19cfc6.json)
+
+---
 
 ### Over 60 people injured in unmanned aircraft
 
@@ -1170,6 +1214,24 @@ Initial investigations revealed that the youth was working on a field in Kodikam
 
 ---
 
+### විනෝදයට පැද්ද ඔරුව පෙරළී යුද හමුදා හිටපු  සිවිල් ක්‍රීඩා පුහුණුකරු දියේ ගිලී මිය යයි
+
+*2024-10-13 19:15:28* · [`adalk`](https://www.ada.lk/breaking_news/විනෝදයට-පැද්ද-ඔරුව-පෙරළී-යුද-හමුදා-හිටපු--සිවිල්-ක්‍රීඩා-පුහුණුකරු-දියේ-ගිලී-මිය-යයි/11-412469) · `si`
+
+කැලණි මුල්ල දෙපා ඇලේ  ඔරුවක් පෙරළීමෙන්  අතුරුදන්ව වු යුද හමුදාවේ හිටපු සිවිල් ක්‍රීඩා පුහුණුකරුගේ මළ සිරුර අද (13)පෙරවරුවේ සොයා ගත් බව මුල්ලේරියාව පොලිසිය කියයි.
+
+මෙලෙස මියගොස් තිබුනේ කැලණිය ගම් සභා පාර පදිංචිව සිටි මිලාන් චතුරංග ගොඩැල්ලගේ නමැති 34 හැවිරිදි  දෙදරුපියකි.
+
+මියගිය පුද්ගලයා  හා 12 හැවිරිදි කුඩා දරුවෙකු , කාන්තාවක් ඇතුළු  පුද්ගලයන් හය දෙනකු සමග  පෙරේදා (12) රාත්‍රී ඔරුවක නැග ගංවතුරෙන් යටවී ඇති ප්‍රදේශ නැරඹීමට ගමන් කරමින් සිටියදී මුල්ලේරියාව කැලණිමුල්ල දෙපා ඇලේ දි ඔරුව පෙරළී ඇතැයි පොලිසිය සඳහන් කරයි.
+
+එම අවස්ථාවේදී  ඒ දුටු ප්‍රදේශවාසීන් මහත් ආයාසයක් දරා සෙසු පිරිස බේරාගෙන තිබූ අතර මියගිය පුද්ගලයා අතුරුදහන්ව තිබිණි.
+
+...
+
+[Data](articles/9c09d71a.json)
+
+---
+
 ### Kaithady’s Nuffield School For The Deaf & Blind : Will The New President Save Its Children From The Church?
 
 *2024-10-13 19:14:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kaithadys-nuffield-school-for-the-deaf-blind-will-the-new-president-save-its-children-from-the-church/) · `en`
@@ -2187,71 +2249,5 @@ Prof. Anil Jayantha added that the present government is the main objective of i
 [Data](articles/51ad5ef6.json)
 
 [Extended Data](ext_articles/51ad5ef6.ext.json)
-
----
-
-### Keheliya Rambukwella decides to pause political career, cites ‘recent events’
-
-*2024-10-13 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102653/keheliya-rambukwella-decides-to-pause-political-career-cites-recent-events) · `en`
-
-Former Minister Keheliya Rambukwella says that he has decided to temporarily step back from politics with the ‘recent events’ that took place.
-
-Rambukwella announced his decision while speaking at an event held in Kandy today (13).
-
-However, the former Minister also mentioned that he will not hesitate to help the people to the fullest at anytime, although he pauses the political involvement.
-
-Furthermore, he revealed plans to focus on his business activities in the future.
-
-Additionally, the former Minister expressed confidence in being vindicated by the courts regarding the “recent events.” He emphasized his belief that justice will prevail and shared his hopes of returning to politics as an “innocent person” once the legal matters are resolved.
-
-Rambukwella has served in multiple ministerial posts, including as the Minister of Mass Media, Minister of Foreign Employment Promotion and Welfare, Minister of Water Supply and Drainage, Minister of Health and Minister of Environment.
-
-...
-
-[Data](articles/a59cefa4.json)
-
-[Extended Data](ext_articles/a59cefa4.ext.json)
-
----
-
-### Baba Siddique: Mumbai politician shot dead months before state elections
-
-*2024-10-13 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102652/baba-siddique-mumbai-politician-shot-dead-months-before-state-elections) · `en`
-
-A prominent Indian politician known for his strong connections to Bollywood was shot dead in Mumbai on Saturday by unknown assailants, just months before state elections.
-
-Baba Siddique, a three-time member of the state legislative assembly, was attacked near his son’s office in the upscale Bandra East area of Mumbai.
-
-The 66-year-old former Maharashtra state minister was shot in the chest by three men who fired a volley of bullets on Saturday, when the country was celebrating the Hindu festival of Dussehra.
-
-Siddique was rushed to Lilavati Hospital, but succumbed to his injuries. An aide accompanying him was also injured.
-
-Maharashtra’s deputy chief minister Ajit Pawar, who is from the same political party as Siddique, said he was shocked by the killing. “The incident will be thoroughly investigated and strict action will be taken against the attackers. The mastermind behind the attack will also be traced,” Pawar said in a statement.
-
-...
-
-[Data](articles/ed649ad5.json)
-
-[Extended Data](ext_articles/ed649ad5.ext.json)
-
----
-
-### Keheliya gets temporarily in politics
-
-*2024-10-13 16:07:29* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-තාවකාලිකව-දේශපාලනයට-සමුදෙයි/11-412465) · `si`
-
-Former Minister Keheliya Rambukwella returns to politics temporarily. He was convicted of corruption allegations. Members gathered at Kandy hotel to discuss his political comeback.
-
-🟩
-
-The former government Minister Keheliya Rambukweera will be temporarily paid to politics at a meeting of his followers, Kandy.
-
-He said that he was convicted of the judicias for five hundred and his members who were called to Kandy's leading hotel in Kandy and that the allegations would be intended to come back to politics.
-
-◼️
-
-[Data](articles/1c9aab7c.json)
-
-[Extended Data](ext_articles/1c9aab7c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 17:08:31**
+As of **2024-10-14 17:23:11**
 
 ## Newspaper Stats
 
-*Scraped **49,455** Articles*
+*Scraped **49,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,026
 dailyftlk | 3,346
 adalk | 4,589
 dailymirrorlk | 4,733
-adaderanalk | 5,852
+adaderanalk | 5,853
 tamilmirrorlk | 6,754
 virakesarilk | 7,909
 adaderanasinhalalk | 8,562
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,562
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,455 (100.0%) of 49,455 articles have been extended.
+49,456 (100.0%) of 49,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### UNDP pledges support for governance and economic reforms in Sri Lanka
+
+*2024-10-14 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102687/undp-pledges-support-for-governance-and-economic-reforms-in-sri-lanka) · `en`
+
+The Assistant Secretary General of the United Nations Development Programme (UNDP), Kanni Wignaraja, has met with President Anura Kumara Dissanayake this morning (14) at the Presidential Secretariat.
+
+The discussion primarily focused on governance, constitutional reforms, and the country’s electoral system, according to the President’s Media Division (PMD) stated.
+
+The UNDP representative presented the report on “Understanding Multidimensional Vulnerabilities: Impact on the People of Sri Lanka” to President Dissanayake. Based on the findings of this report, the UNDP assured its support for Sri Lanka’s development efforts.
+
+A key point of discussion was the low level of women’s participation in the economy. The UNDP noted that rural women face significant challenges in financial literacy, limiting their involvement in economic activities.
+
+...
+
+[Data](articles/d16ea291.json)
+
+[Extended Data](ext_articles/d16ea291.ext.json)
+
+---
 
 ### Bus accident that killed school children and five
 
@@ -2287,35 +2307,5 @@ The final decision of the Inquiry Committees is that several committees have bee
 [Data](articles/c09170cc.json)
 
 [Extended Data](ext_articles/c09170cc.ext.json)
-
----
-
-### More than 100 mm
-
-*2024-10-14 08:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/196227) · `ta`
-
-Heavy rain, thunderstorms forecasted in several provinces and districts. Strong winds and lightning warnings issued. Sea regions may become turbulent due to high-speed gusts. Public advised to remain vigilant.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that frequent rainfall or thunderstorms are expected in Sabaragamuwa, Upper, North Western and Northern Provinces as well as in Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Heavy rains are expected in some parts of the Sabaragamuwa, Upper, North Western and Northern Provinces, as well as some areas of the Galle and Matara districts.
-
-Showers or thunderstorms can occur in the evening or night in many parts of the country.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
-
-In the sea regions, the wind blows from the southwest direction or from a different direction at speeds of 30 to40 km / h.
-
-Frequent winds can be increased at 50 - 60 km / h in the sea regions from Puttalam to Colombo, Galle and Hambantota via Pottuvil.. In these cases, these sea regions are turbulent.
-
-...
-
-[Data](articles/a8fa6334.json)
-
-[Extended Data](ext_articles/a8fa6334.ext.json)
 
 ---

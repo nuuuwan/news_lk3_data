@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 14:58:22**
+As of **2024-10-14 15:10:43**
 
 ## Newspaper Stats
 
-*Scraped **49,428** Articles*
+*Scraped **49,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 5,844
 tamilmirrorlk | 6,748
 virakesarilk | 7,908
-adaderanasinhalalk | 8,554
+adaderanasinhalalk | 8,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,428 (100.0%) of 49,428 articles have been extended.
+49,429 (100.0%) of 49,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### A quantitative decrease in precipitation in the future
+
+*2024-10-14 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202156) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Reduced precipitation forecast: Meteorologists predict less than 100mm daily rainfall. Some areas received 200mm+ on specific days. Disaster relief efforts underway, including additional funding for affected regions."
+
+🟩
+
+The Meteorological Department says that there is a reduction in quantity rain condition in the next few days.
+
+Meteorologist Malith Fernando said that showers exceeding over 100 mm on the day and tomorrow.
+
+He also said that the rain over 200m 200 mm were reported from some areas on the 110mm.
+
+He was speaking at a media briefing on the Disaster situation and the Disaster Relief Program in the Government Information Department.
+
+Speaking further he could expect a significant reduction in the rainfall of 16 and 17, but by the coming week, the general feature of the inter-monsoon is a normal feature of thunders.
+
+Meanwhile Additional Secretary to the Ministry of Defense (Disaster Management). P. Dharmathilaka said he was given another Rs. 50 million for the victims.
+
+...
+
+[Data](articles/fe4bc80f.json)
+
+[Extended Data](ext_articles/fe4bc80f.ext.json)
+
+---
 
 ### Names of presidential candidates who have not submitted expenses reports released
 
@@ -2343,29 +2375,5 @@ Hayleys PLC, John Keells Group and Sanasa Life will power this year’s national
 [Data](articles/49c2bf91.json)
 
 [Extended Data](ext_articles/49c2bf91.ext.json)
-
----
-
-### President calls on NPP for unified effort to secure political power in Nov. election
-
-*2024-10-14 00:43:48* · [`dailyftlk`](https://www.ft.lk/news/President-calls-on-NPP-for-unified-effort-to-secure-political-power-in-Nov-election/56-767930) · `en`
-
-Stresses importance of acquiring strong political power to implement transformative policies and ideologies championed by NPP
-
-Says three-member Cabinet, including the President, is by no means sufficient to make their program reality
-
-Emphasises that true political power goes beyond mere numbers in Parliament and stresses importance of quantity and quality in political representation
-
-Urges NPP candidates to commit to task of restoring trust in Parliament by providing both strong representation and integrity
-
-President Anura Kumara Dissanayake yesterday stressed the critical importance of acquiring strong political power and leadership to implement the transformative policies and ideologies championed by the National People’s Party (NPP).
-
-Making his first political speech since taking office, Dissanayake addressed the NPP’s Parliamentary election candidates at an event held yesterday at the Grand Monarch, Thalawathugoda.
-
-...
-
-[Data](articles/b22e1319.json)
-
-[Extended Data](ext_articles/b22e1319.ext.json)
 
 ---

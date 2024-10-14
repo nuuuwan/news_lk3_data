@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 09:39:32**
+As of **2024-10-14 09:58:32**
 
 ## Newspaper Stats
 
-*Scraped **49,356** Articles*
+*Scraped **49,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,023
 dailyftlk | 3,346
 adalk | 4,578
 dailymirrorlk | 4,733
-adaderanalk | 5,827
-tamilmirrorlk | 6,728
+adaderanalk | 5,829
+tamilmirrorlk | 6,729
 virakesarilk | 7,905
 adaderanasinhalalk | 8,538
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 8,538
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,356 (100.0%) of 49,356 articles have been extended.
+49,359 (100.0%) of 49,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### 129,989 people are affected by bad weather
+
+*2024-10-14 09:32:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோசமான-வானிலையால்-129-989-பேர்-பாதிப்பு/175-345405) · `ta`
+
+Bad weather affects 129,989 people across 12 districts. 80,529 in Gampaha/Colombo face floods, high winds, lightning. 40,231 in Colombo district also impacted.
+
+🟩
+
+The Disaster Management Center said that 129,989 people from 33,379 families have been affected by the inclement weather.
+
+Residents of Colombo, Gampaha, Kalutara, Kilinochchi, Kegalle, Ratnapura, Galle, Hambantota, Polonnaruwa, Nuwara Eliya, Kurunegala and Puttalam districts have been affected.
+
+80,529 people from 200,67 families in Gampaha and Colombo districts have been affected by disasters such as sudden floods, high winds, lightning and fell.
+
+In addition, 40,231 people from 10,904 families have been affected by the Colombo district. Remble
+
+◼️
+
+[Data](articles/42ef082e.json)
+
+[Extended Data](ext_articles/42ef082e.ext.json)
+
+---
+
+### Over 130,000 people affected by bad weather in Sri Lanka
+
+*2024-10-14 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102662/over-130000-people-affected-by-bad-weather-in-sri-lanka) · `en`
+
+The Disaster Management Center (DMC) reports that 134,484 individuals from 34,492 families in 12 districts have been affected by prevailing severe weather conditions.
+
+Additionally, three deaths have been confirmed thus far, while 6,963 people from 1,753 families are currently being sheltered in 81 relief centers, it said.
+
+◼️
+
+[Data](articles/bd2f4498.json)
+
+[Extended Data](ext_articles/bd2f4498.ext.json)
+
+---
+
+### Final decision on 2024 Grade 05 Scholarship Exam expected today
+
+*2024-10-14 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102661/final-decision-on-2024-grade-05-scholarship-exam-expected-today) · `en`
+
+The final decision regarding this year’s Grade 05 Scholarship Examination, of which several questions were allegedly leaked, is scheduled to be announced today (14).
+
+Accordingly, the Commissioner General of Examinations will hold a special press conference this morning to make an announcement on the matter.
+
+However, reports suggest that the scholarship examination will not be re-conducted.
+
+It is stated that this decision was made following investigations, which revealed that only three questions had been leaked.
+
+Meanwhile, the evaluation of answer sheets, which had been temporarily suspended, is expected to commence immediately.
+
+Several committees were appointed to investigate the scholarship examination, and their final conclusion was that only three questions had been leaked prior to the exam.
+
+The Criminal Investigation Department (CID) had also launched a separate investigation into the question paper leak.
+
+...
+
+[Data](articles/73fb083b.json)
+
+[Extended Data](ext_articles/73fb083b.ext.json)
+
+---
 
 ### The final decision on the scholarship examination today
 
@@ -2229,77 +2295,5 @@ The SLAF Regiment Special Forces personnel have been prepared in the camps.
 [Data](articles/42259e23.json)
 
 [Extended Data](ext_articles/42259e23.ext.json)
-
----
-
-### Mahela's re -appointment
-
-*2024-10-13 17:51:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மஹேல-மீண்டும்-நியமனம்/44-345382) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Mahela Jayawardena re-appointed as Mumbai Indians' head coach. The former Sri Lanka captain will lead the team again, bringing his expertise to the IPL franchise.
-
-🟩
-
-Mahela Jayawardena has been re -appointed as the chief coach of the Mumbai Indian Cricket Team.
-
-◼️
-
-[Data](articles/c0d2344b.json)
-
-[Extended Data](ext_articles/c0d2344b.ext.json)
-
----
-
-### Arrested in Makulukaswewi
-
-*2024-10-13 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196189) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Suspect arrested in Makulukaswewa for illegal possession of locally made firearm. Police conducted raid based on tip-off. Incident occurred on Saturday, 12th.
-
-🟩
-
-A suspect has been arrested by police on Saturday (12) for illegally holding a locally manufactured gun in Devahuwa area under the Makulukaswewa police division.
-
-He was arrested during the raid carried out on the basis of information received by the Makulukaswewa police station.
-
-◼️
-
-[Data](articles/f0652429.json)
-
-[Extended Data](ext_articles/f0652429.ext.json)
-
----
-
-### Wine mad. Pasikuda Sea
-
-*2024-10-13 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196198) · `ta`
-
-Pasikuda beach incident: Two officers hurt, arrests made after liquor drowning event. Group from Sevanpitiya, Polonnaruwa, attempted to enter sea while intoxicated. Police investigating and preparing legal action.
-
-🟩
-
-Two policemen have been injured and admitted to the hospital after police detained a group of people who had been drowned in a sea of ​​liquor at Pasikuda beach in Valaichenai.
-
-Calcutta police said that one person was arrested in connection with the attack which took place on Saturday evening.
-
-A group of people from Sevanpitiya, Polonnaruwa traveled yesterday and entertained at the Pasikuda beach and tried to get water in the sea after drinking alcohol.
-
-Two policemen were injured and admitted to the hospital.
-
-In addition, the police said that steps have been taken to appear in court on charges of contributing to the duty of the police.
-
-◼️
-
-[Data](articles/48ad38c2.json)
-
-[Extended Data](ext_articles/48ad38c2.ext.json)
 
 ---

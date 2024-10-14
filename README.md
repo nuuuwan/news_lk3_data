@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 22:25:42**
+As of **2024-10-14 22:39:05**
 
 ## Newspaper Stats
 
-*Scraped **49,493** Articles*
+*Scraped **49,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 495
 islandlk | 2,933
 economynextcom | 3,031
 dailyftlk | 3,346
-adalk | 4,594
+adalk | 4,596
 dailymirrorlk | 4,733
 adaderanalk | 5,856
 tamilmirrorlk | 6,760
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,493 (100.0%) of 49,493 articles have been extended.
+49,493 (100.0%) of 49,495 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -312,6 +312,24 @@ The Irrigation Department said that a decrease in the flood risk of flood risk i
 
 ---
 
+### මාලිමාවට සහාය දෙන බව පොහොට්ටුවේ සාගල කියයි
+
+*2024-10-14 19:45:09* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවට-සහාය-දෙන-බව-පොහොට්ටුවේ-සාගල-කියයි/11-412492) · `si`
+
+ජනතා විමුක්ති පෙරමුණ ප්‍රමුඛ මාලිමා රජයක් විසින් සිදුකරනු ලබන සංවර්ධන කටයුතු සඳහා පක්ෂයක් ලෙස ඉදිරියේදී උපරිම සහාය ලබාදෙන බව ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි ප්‍රධාන ලේකම් සාගර කාරියවසම් මහතා පැවසීය.
+
+ඔහු සඳහන් කර සිටියේ පක්ෂයක් ලෙස කිසිදු ආකාරයකින් එම ගමනේ කකුලෙන් ඇදීමක් සිදු නොකරන බවයි.
+
+බත්තරමුල්ල, නෙළුම් මාවතෙහි පිහිටි ශ්‍රී ලංකා පොදුජන පෙරමුණු මූලස්ථානයේදී ඊයේ (14දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් මේ බව කී ප්‍රධාන ලෙකම්වරයා එහිදී වැඩිදුරටත් අදහස් දක්වමින් මෙසේද කීය.
+
+“ඒ කොවිඩ් වසංගතයට මුහුණදීමේදී අපි ආර්ථිකය අමතක කරලා ජනතාවගේ ජිවිත ගැන හිතලා කටයුතු කිරීමෙන් පක්ෂයක් හැටියට, ආණ්ඩුවක් හැටියට වරදක් කළා. ඒ වරදට ජනතාව අපිට මේ වන විට යම්කිසි උත්තරයක් දීලා තිබෙනවා. අපි ඒ ජනතාවගේ තීන්දුව ඉතාම නිහතමානීව, ගෞරවාන්විතව පිළිගන්නවා පක්ෂයක් විදිහට. මේ රටේ අවංකව හිතන , මේ රටේ ජාතිකත්වය හිතන එකම පක්ෂය හැටියට ඉතුරුවෙලා තිබෙන්නේ ශ්‍රී ලංකා පොදුජන පෙරමුණයි. ඒ තීන්දුව පිළිගන්න ගමන්ම අපි අලුත් වැඩපිළිවෙළක් ඉදිරිපත් කරනවා අවංකව මේ රටේ අනාගතය වෙනුවෙන්.
+
+...
+
+[Data](articles/4e896c40.json)
+
+---
+
 ### திருகோணமலை -மட்டக்களப்பு பிரதான வீதியில் வாகனமொன்றினை முந்தி செல்ல முற்பட்ட லொறி விபத்து
 
 *2024-10-14 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196299) · `ta`
@@ -353,6 +371,22 @@ The company has issued a statement made by the SriLankan Airlines a key role in 
 [Data](articles/1581b9b7.json)
 
 [Extended Data](ext_articles/1581b9b7.ext.json)
+
+---
+
+### පොතුවිල් මූලික රෝහල රජයට පවරා ගනියි
+
+*2024-10-14 19:29:59* · [`adalk`](https://www.ada.lk/breaking_news/පොතුවිල්-මූලික-රෝහල-රජයට-පවරා-ගනියි/11-412491) · `si`
+
+පොතුවිල් මූලික රෝහල මධ්‍යම රජයට පවරා ගනිමින් රෝගී ප්‍රතිකාර සේවා පුළුල් කිරීමට තීරණය කර ඇතැයි සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්, විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා ප්‍රකාශ කළේය.
+
+ඔහු සඳහන් කර සිටියේ පළාත් සභාවේ අනුමැතිය හා සහයෝගය යටතේ අදාළ කටයුතු සිදු කරන බවයි.
+
+ඒ අනුව ඉදිකිරීම් කටයුතු අවසන් අදියරේ පවතින නව ගොඩනැගිලි දෙකක් ඉදිරි මාස02 ඇතුළත  ජනතා අයිතියට පත් කරන බවත් බාහිර රෝගී අංශය,හදිසි ප්‍රතිකාර ඒකකය,ශල්‍යාගාර සහ අනෙකුත් පහසුකම් සහිත ගොඩනැගිල්ලක් මෙන්ම පරිපාලන හා බාහිර රෝගී සායන සඳහා ගොඩනැගිල්ලක් ඒ යටතේ වන බවත් ලේකම්වරයා පැවසීය.
+
+◼️
+
+[Data](articles/abb80ea1.json)
 
 ---
 
@@ -2361,45 +2395,5 @@ In this engaging and thought-provoking interview with Levan S. Dzhagaryan, the R
 [Data](articles/a4fef8e9.json)
 
 [Extended Data](ext_articles/a4fef8e9.ext.json)
-
----
-
-### 2024 General Election: EC to decide on candidates’ spending limit tomorrow
-
-*2024-10-14 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102669/2024-general-election-ec-to-decide-on-candidates-spending-limit-tomorrow) · `en`
-
-The secretaries of political parties and the Election Commission is scheduled to meet tomorrow (15) in order to discuss matters related to the upcoming parliamentary election.
-
-The discussion is slated to be held at the Election Commission Office at 9.30 a.m. tomorrow.
-
-This will be the first meeting between the secretaries of political parties and the election regulatory body following the announcement of the parliamentary elections.
-
-Accordingly, during the meeting, they will determine the maximum expenditure allowed for each candidate. After that, the Election Commission stated that a Gazette notification pertaining to the matter will be issued.
-
-Apart from this, future activities related to the election will also be discussed during the meeting.
-
-◼️
-
-[Data](articles/a7e37298.json)
-
-[Extended Data](ext_articles/a7e37298.ext.json)
-
----
-
-### Sri Lanka’s govt. to reconsider Adani wind power project, AG tells court
-
-*2024-10-14 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102668/sri-lankas-govt-to-reconsider-adani-wind-power-project-ag-tells-court) · `en`
-
-The Attorney General (AG) has informed the Supreme Court that the Cabinet of Ministers has decided to reconsider the matters related to the wind power project in Wedithalathivu, Mannar by India’s Adani Green Energy.
-
-The AG communicated this to the court when the Fundamental Rights (FR) petitions filed seeking an order to invalidate the Cabinet approval granted for India’s Adani Green Energy for a wind power project in Wedithalathivu, Mannar was taken up this morning (14).
-
-Accordingly, Deputy Solicitor General Avanthi Perera, who appeared on behalf of the AG, informed the court that the Cabinet of Ministers has decided to reconsider the facts related to the matter on November 07, 2024, and make a decision regarding the further continuation of the project.
-
-...
-
-[Data](articles/455bfcef.json)
-
-[Extended Data](ext_articles/455bfcef.ext.json)
 
 ---

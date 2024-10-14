@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 15:58:24**
+As of **2024-10-14 16:13:17**
 
 ## Newspaper Stats
 
-*Scraped **49,434** Articles*
+*Scraped **49,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,026
 dailyftlk | 3,346
 adalk | 4,588
 dailymirrorlk | 4,733
-adaderanalk | 5,846
-tamilmirrorlk | 6,748
+adaderanalk | 5,848
+tamilmirrorlk | 6,751
 virakesarilk | 7,908
 adaderanasinhalalk | 8,556
 
@@ -26,11 +26,127 @@ adaderanasinhalalk | 8,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,434 (100.0%) of 49,434 articles have been extended.
+49,439 (100.0%) of 49,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### 3 problem with presidential candidates
+
+*2024-10-14 15:53:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-ஜனாதிபதி-வேட்பாளர்களுக்கு-சிக்கல்/175-345444) · `ta`
+
+Three presidential candidates failed to submit election expense reports. Deadline passed. Police action possible. Fine for non-compliance. Report due 21 days post-election.
+
+🟩
+
+The Election Commission has released the names of the three presidential candidates who have failed to submit the election cost report.
+
+The deadline for submitting their expenses reports has ended at midnight yesterday (13).
+
+Commissioner of Elections Commission of Elections Commission, Saman Sri Ratnayake, who told the Daily Mirror, said that Battaramulla Seelaratne Thera, former parliamentarian Sarath Keerthiratne and Tamil general candidate Bhakiyaselvam Ariyanendran did not submit the report.
+
+Ratnayake said, "The list of candidates who failed to submit the cost report will be handed over to the police for further measures under the Election Expenditure Act."
+
+Candidates who fail to submit the report within this deadline can be fined up to Rs.
+
+It is worth noting that the report should be submitted within 21 days after the election costs.
+
+◼️
+
+[Data](articles/2befe4c5.json)
+
+[Extended Data](ext_articles/2befe4c5.ext.json)
+
+---
+
+### President prioritizes immediate relief for areas affected by inclement weather
+
+*2024-10-14 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102682/president-prioritizes-immediate-relief-for-areas-affected-by-inclement-weather) · `en`
+
+President Anura Kumara Dissanayake has emphasized the need for a specific and sustainable program to address the recurring flood situation in the country. He noted that frequent flooding requires long-term solutions for effective control, the President’s Media Division (PMD) said in a statement.
+
+During a meeting today (14) with officials from the Ministry of Disaster Management and the Ministry of Finance at the Presidential Secretariat, the President directed officials to prioritize immediate relief for those affected by the recent inclement weather in Colombo, Gampaha, Puttalam, and Kalutara, and that following the relief efforts, attention should then shift to repairing damaged properties.
+
+...
+
+[Data](articles/d5afa0fd.json)
+
+[Extended Data](ext_articles/d5afa0fd.ext.json)
+
+---
+
+### Seize the ruined royal vehicle
+
+*2024-10-14 15:43:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாழடைந்த-அரச-வாகனம்-கைப்பற்று/175-345443) · `ta`
+
+Nuwara Eliya police find abandoned Transport Ministry vehicle near education office. Vehicle was used by minister's personal contact officer.
+
+🟩
+
+A senior official of the Nuwara Eliya Police Station said that the Nuwara Eliya police had found a former vehicle belonging to the Transport Ministry on Monday (14).
+
+The vehicle has been found near the building belonging to the Nuwara Eliya Zonal Education Office located on the Nuwara Eliya main road.
+
+Police said the vehicle has been parked in one place for many years and is currently only in the back of the side.
+
+Preliminary inquiries have revealed that the Jeep vehicle and another jeep vehicle were provided by the Minister for the use of a personal contact officer representing the Nuwara Eliya district.
+
+◼️
+
+[Data](articles/56cbf4a8.json)
+
+[Extended Data](ext_articles/56cbf4a8.ext.json)
+
+---
+
+### Acemoglu, Johnson and Robinson win 2024 Nobel economics prize
+
+*2024-10-14 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102681/acemoglu-johnson-and-robinson-win-2024-nobel-economics-prize) · `en`
+
+Daron Acemoglu, Simon Johnson and James Robinson won the 2024 Nobel economics prize “for studies of how institutions are formed and affect prosperity”, the Royal Swedish Academy of Sciences said on Monday.
+
+The prestigious award, formally known as the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel, is the final prize to be given out this year and is worth 11 million Swedish crowns ($1.1 million).
+
+“Reducing the vast differences in income between countries is one of our time’s greatest challenges. The laureates have demonstrated the importance of societal institutions for achieving this,” said Jakob Svensson, Chair of the Committee for the Prize in Economic Sciences.
+
+The economics award is not one of the original prizes for science, literature and peace created in the will of dynamite inventor and businessman Alfred Nobel and first awarded in 1901, but a later addition established and funded by Sweden’s central bank in 1968.
+
+...
+
+[Data](articles/f385e8d9.json)
+
+[Extended Data](ext_articles/f385e8d9.ext.json)
+
+---
+
+### Corruption at the passport office
+
+*2024-10-14 15:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-அலுவலகத்தில்-ஊழல்/175-345442) · `ta`
+
+Corruption at Vavuniya Passport Office: People face difficulties obtaining passports due to bribery and favoritism. The President vows to stop corruption and ensure easy passport issuance.
+
+🟩
+
+People pointed out that if the money is paid at the Vavuniya Passport Office, there is a situation where the passport can be obtained and the corrupt is full of corruption.
+
+They have commented to the media about the people who said they were having the difficulty of obtaining a passport at the Vavuniya Passport Office.
+
+Although they tried to get a passport at 3 am from the distance, they would only give the passport to the other.
+
+They have been waiting for the passport to be obtained from distant places, especially Mullaitivu, Jaffna and the Eastern Provinces.
+
+At the same time, there is a situation where the passport office can take the passport to those who know them and give them a passport.
+
+The President, who was sworn in to eradicate corruption, said that the corruption at the Vavuniya Passport Office should be stopped and the people should easily get a passport.
+
+◼️
+
+[Data](articles/d87ebfd0.json)
+
+[Extended Data](ext_articles/d87ebfd0.ext.json)
+
+---
 
 ### Court rejects Arjun Aloysius’ appeal against prison sentence
 
@@ -2243,141 +2359,5 @@ For this reason, the Department of Health has pointed out that it is essential t
 [Data](articles/acbe3317.json)
 
 [Extended Data](ext_articles/acbe3317.ext.json)
-
----
-
-### Hirunika resigns from the National Organizer of the United Mather Shakti
-
-*2024-10-14 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196224) · `ta`
-
-Hirunika Premachandra resigns as National Organizer of United People's Power due to dissatisfaction over unfulfilled duties during presidential campaign. Party continues membership and plans to contest 2024 general election.
-
-🟩
-
-Former parliamentarian Hirunika Premachandra has announced that she will resign from the post of National Organizer of the United People's Organization of the United People's Power.
-
-Hirunika has said that her resignation was due to the frustration of the allegations leveled from the party that the organizers did not fulfill their duties during the presidential campaign.
-
-It is noteworthy that despite his resignation, the party has continued to be a member of the party and decided to contest the general election in 2024 and that they would once again elect the general public to parliament.
-
-◼️
-
-[Data](articles/f953a62c.json)
-
-[Extended Data](ext_articles/f953a62c.ext.json)
-
----
-
-### There is an environment where the Tamil people can live unique because of the Tamil party in this soil - Gnan.
-
-*2024-10-14 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196223) · `ta`
-
-Tamil party's role in preserving Tamil culture in Sri Lanka's northeast region.
-
-🟩
-
-The Sri Lanka Tamil National Alliance (TNA) Batticaloa district candidate and former parliamentarian Gnan Sirinasan said that there is a situation where the Tamil people can live unique in this soil due to the existence of a Tamil party.
-
-A meeting to introduce candidates in the Batticaloa district in the upcoming parliamentary elections through the TNA was held on Sunday evening (13).
-
-இலங்கை தமிழரசுக்கட்சியின் ஏறாவூர்ப்பற்று கிளையின் ஏற்பாட்டில் இந்த நிகழ்வு செங்கலடி சௌபாக்கியா மண்டபத்தில் நடைபெற்றது.
-
-The meeting was chaired by former Secretary of the Tamil National Party, K. Durairajasingham.
-
-In the meantime, the candidates contesting the upcoming parliamentary elections through the TNA were introduced and honored by the supporters.
-
-The party's vice president Pon Selvarajah disappeared and completed a year after the disappearance of him.
-
-...
-
-[Data](articles/0dbc8a4d.json)
-
-[Extended Data](ext_articles/0dbc8a4d.ext.json)
-
----
-
-### Yall. Introduction to the Tamil National Alliance (TNA) contesting the electoral district
-
-*2024-10-14 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196222) · `ta`
-
-Tamil National Alliance TNA launches election campaign in Jaffna. Senior leader Sivagnanam inaugurates event at Father Selva Hall. Candidates introduced, Mangala lighting ceremony conducted. Party members and leaders attend.
-
-🟩
-
-The Jaffna Election District candidate's launch event was held in Jaffna on Sunday (13).
-
-Senior Vice President of the Tamil National Alliance and Chairman of the Northern Provincial Council. Sivagnanam was held at the Father Selva Hall in Jaffna.
-
-During this time, the candidates were summoned and the launch of the candidate was launched with the Mangala lighting.
-
-It is noteworthy that a large number of party members, including the leaders and candidates of the party, were present at the event.
-
-◼️
-
-[Data](articles/f11e025f.json)
-
-[Extended Data](ext_articles/f11e025f.ext.json)
-
----
-
-### Hesha responds to the issue of Tamita Abeyratne
-
-*2024-10-14 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196221) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Hesha Vidanage, former MP, says United People's Power prioritizes winning elections over individual names. The party aims to increase votes in Ratnapura and send 8 MPs to Parliament. Decisions are based on party success, not personal interests.
-
-🟩
-
-United People's Power is the Democratic Party. Everyone will make any decision only. Former parliamentarian Hesha Vidanage said that on those occasions, the people are not concerned about who and what their names are.
-
-He said this while responding to journalists' questions regarding the Tamitha Abeyratne issue after attending a public meeting in Ratnapura.. As he further stated in this regard,
-
-Our main purpose is to win the party. In the last election, we won more than two lakhs 50,000 votes in the Ratnapura district. Our aim is to get more votes in the Ratnapura district this time and 8 members of the United People's Power should go to Parliament.
-
-We are working together to fulfill the aspirations of the people. When the party makes decisions, it is based on the success of the party. Such decisions have been taken so far. Therefore, when making such decisions, people do not search for their names.
-
-...
-
-[Data](articles/6842b4d2.json)
-
-[Extended Data](ext_articles/6842b4d2.ext.json)
-
----
-
-### Shani Abeysekera: Why was it called back to work?
-
-*2024-10-14 01:49:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyv9dgej8ro) · `si`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-Shani Abeysekara, retired Senior Superintendent of Police, reinstated as CID director for 1 year. Appointed to lead criminal intelligence analysis and prevention division. Accused of executing 10-month remand. Involved in Easter attack investigation. Previously accused of political pressure arrests. Resumed due to democratic reforms and election studies.
-
-🟩
-
-Senior Superintendent of Police (Retired) Shani Abeysekara has been entrusted with the new responsibility by the new government (pensioned) Shani Abeysekara.
-
-Shani Abeysekara, a former director of the Criminal Investigation, has been appointed to a different division of the CID (CID) for a period of one year.
-
-That is as the director of criminal intelligence analysis and the Prevention Division.
-
-Under this, the main responsibility of him will be the main responsibility of criminal intelligence and investigation.
-
-The National Police Commission issued a statement saying that he had decided to appoint approval to appoint his appointment on October 10, 2024.
-
-The Police Commission states that these appointments have been made following the full consent of the Election Commission as the parliamentary elections have been called.
-
-Shani Abeysekara: An accused of executing 10 months after being remanded
-
-...
-
-[Data](articles/f0768613.json)
-
-[Extended Data](ext_articles/f0768613.ext.json)
 
 ---

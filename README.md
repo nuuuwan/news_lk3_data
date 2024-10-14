@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 03:23:22**
+As of **2024-10-15 03:39:12**
 
 ## Newspaper Stats
 
-*Scraped **49,515** Articles*
+*Scraped **49,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 493
 bbccomsinhala | 495
 islandlk | 2,933
 economynextcom | 3,034
-dailyftlk | 3,353
+dailyftlk | 3,359
 adalk | 4,596
 dailymirrorlk | 4,733
 adaderanalk | 5,857
@@ -26,11 +26,125 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,509 (100.0%) of 49,515 articles have been extended.
+49,513 (100.0%) of 49,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### President prioritises immediate relief for districts affected by inclement weather
+
+*2024-10-15 03:16:41* · [`dailyftlk`](https://www.ft.lk/news/President-prioritises-immediate-relief-for-districts-affected-by-inclement-weather/56-767982) · `en`
+
+Calls for long-term sustainable program to effectively address recurring flood situation in country
+
+Directs officials to arrange immediate relief for Colombo, Gampaha, Puttalam, Kalutara districts
+
+Allocates additional Rs. 50 m; advises to allocate more funds if required
+
+President Anura Kumara Dissanayake yesterday emphasised the need for a specific and sustainable program to address the recurring flood situation in the country. He noted that frequent flooding requires long-term solutions for effective control.
+
+During a meeting with officials from the Disaster Management Ministry and the Finance Ministry at the Presidential Secretariat, the President directed officials to prioritise immediate relief for the most affected four districts – Colombo, Gampaha, Puttalam, and Kalutara by the inclement weather in Colombo. Following the relief efforts, attention should then shift to repairing damaged properties.
+
+...
+
+[Data](articles/73bf97d9.json)
+
+[Extended Data](ext_articles/73bf97d9.ext.json)
+
+---
+
+### UNDP pledges support for governance and economic reforms during meeting with President
+
+*2024-10-15 03:14:53* · [`dailyftlk`](https://www.ft.lk/news/UNDP-pledges-support-for-governance-and-economic-reforms-during-meeting-with-President/56-767981) · `en`
+
+United Nations (UN) Assistant Secretary General Kanni Wignaraja met with President Anura Kumara Dissanayake yesterday at the Presidential Secretariat. The discussion primarily focused on governance, Constitutional reforms, and the country’s electoral system.
+
+Wignaraja presented the report on ‘Understanding Multidimensional Vulnerabilities: Impact on the People of Sri Lanka’ to President Dissanayake. Based on the findings of this report, the United Nations Development Program (UNDP) assured its support for Sri Lanka’s development efforts.
+
+...
+
+[Data](articles/2639cb08.json)
+
+[Extended Data](ext_articles/2639cb08.ext.json)
+
+---
+
+### SDD Polymer marks 20 years of growth, innovation, and industry leadership
+
+*2024-10-15 03:11:48* · [`dailyftlk`](https://www.ft.lk/business/SDD-Polymer-marks-20-years-of-growth-innovation-and-industry-leadership/34-767980) · `en`
+
+SDD Polymer Ltd., a leading distributor and supplier of plastic raw materials in Sri Lanka, recently celebrated its 20th anniversary with a grand event at the Shangri-La Hotel in Colombo. The gala affair hosted by the Founders, Mr. and Mrs. Jeyaseelan brought together special guests, high-profile invitees, industry veterans, executives and staff to mark two decades of innovation, growth, and strong partnerships that have propelled the company to the forefront of Sri Lanka’s packaging and polymer industry.
+
+Founded in 2004, SDD Polymer has evolved from a small enterprise into a prominent player in the polymer industry. Specialising in petrochemical products, the company supplies a wide range of plastic raw materials, including Polypropylene (PP), High-density Polyethylene (HDPE), Low-density Polyethylene (LDPE), Linear Low-density Polyethylene (LLDPE), Polystyrene (PS), Masterbatches, Additives, Fillers, and Compounds, catering to various sectors of the plastics industry.
+
+...
+
+[Data](articles/b9e7fe56.json)
+
+[Extended Data](ext_articles/b9e7fe56.ext.json)
+
+---
+
+### Unilever Sri Lanka partners USAID and Vega Innovations to scale-up refillable systems
+
+*2024-10-15 03:09:40* · [`dailyftlk`](https://www.ft.lk/business/Unilever-Sri-Lanka-partners-USAID-and-Vega-Innovations-to-scale-up-refillable-systems/34-767979) · `en`
+
+Image Caption: Representatives from Unilever, USAID, USAID Ocean Plastics Reduction Activity, Codegen/Vega Innovations, and the Environment Ministry
+
+Unilever Sri Lanka, in partnership with Vega Innovations, and the United States Agency for International Development’s (USAID), is scaling up the use of refillable stations.
+
+These stations, part of Vega Innovations’ UFill initiative, offer consumers cost-effective ways to refill Unilever products such as laundry liquids and shampoos, while reducing reliance on single-use plastic packaging.
+
+By 2027, the UFill initiative is expected to prevent over 128 metric tons of plastic waste from entering Sri Lankan landfills. Consumers will also benefit from 20-30% lower cost by refilling instead of purchasing new packaging. USAID’s Ocean Plastics Reduction Activity will support these efforts through strategic and technical assistance.
+
+...
+
+[Data](articles/af675326.json)
+
+[Extended Data](ext_articles/af675326.ext.json)
+
+---
+
+### Sri Lanka’s diplomatic agenda shifts into high gear amidst political transition
+
+*2024-10-15 03:06:55* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-s-diplomatic-agenda-shifts-into-high-gear-amidst-political-transition/56-767978) · `en`
+
+Foreign Minister Vijitha Herath outlines Govt.’s policy direction, economic revival strategies
+
+Expresses deep concern over escalating humanitarian crisis in Gaza and Lebanon
+
+Foreign Minister Vijitha Herath yesterday addressed the Colombo-based diplomatic corps, outlining the Government’s foreign policy direction and economic recovery strategies amidst ongoing political transition.
+
+With the recent election of President Anura Kumara Dissanayake and a Parliamentary vote scheduled for 14 November, Sri Lanka finds itself at a critical juncture, balancing domestic challenges with international commitments.
+
+Herath, speaking at his first formal engagement with the diplomatic community, stressed on the peaceful electoral transition that brought Dissanayake to power and set the stage for what he described as a ‘mandate for change.’
+
+...
+
+[Data](articles/b46aa1f6.json)
+
+---
+
+### China pledges deeper anti-fraud law enforcement cooperation with SL following major arrests
+
+*2024-10-15 03:04:23* · [`dailyftlk`](https://www.ft.lk/news/China-pledges-deeper-anti-fraud-law-enforcement-cooperation-with-SL-following-major-arrests/56-767977) · `en`
+
+Chinese Embassy voices support for local law enforcement agencies, emphasising need to crack down on criminals while ensuring their legitimate rights are upheld
+
+Highlights severity of telecom and online fraud, calling it a serious threat to both nations and affects friendship between the countries
+
+Claims they have been working with SL Police and as a result a significant number of suspects were apprehended, with efforts now underway to repatriate and prosecute
+
+China has expressed its commitment to enhancing anti-fraud law enforcement cooperation with Sri Lanka following the arrest of numerous foreign suspects involved in online scams, including several Chinese nationals.
+
+In a statement issued yesterday, the Chinese Embassy in Sri Lanka voiced its support for local law enforcement agencies, emphasising the need to crack down on criminals while ensuring that their legitimate rights are upheld in accordance with the law.
+
+...
+
+[Data](articles/40d9642b.json)
+
+---
 
 ### Our voice sounds as the voice of the fishermen - Gnanaprakasam Sulakshan
 
@@ -2237,149 +2351,5 @@ The case had filed the case by the Department of Revenue regarding the default o
 [Data](articles/4ee32549.json)
 
 [Extended Data](ext_articles/4ee32549.ext.json)
-
----
-
-### The Anura government is also using the Terrorism Act
-
-*2024-10-14 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196246) · `ta`
-
-Sri Lanka's Anura government uses Terrorism Act shortly after taking office. Critics claim it targets Tamil politicians and journalists. The act is used to silence opposition and investigate alleged ties to international funding.
-
-🟩
-
-Anuragumara Dissanayake government is using the terrorist law.
-
-Just a few days after they came to power, some people are being sent letters from the terrorist barrier.
-
-A friend of Ariyanendran, who was a Tamil general candidate this time, was paying advertisements on social media. The Terrorist Prevention Division has sent him a letter and summoned him to a complaint, as the terrorist group has written to him as defining as a terrorist crime.
-
-The investigation has been a series of two days, and questions have been asked how money from the international community.
-
-Even Anurakumaradisanayake is coming from various countries, and what they are going to investigate at what angle they are going to
-
-They must first understand that the allegations of terrorism and terrorism in the Tamil people, especially the Tamil people, and the seal of terrorism, and their future politics can not be carried out in any way.
-
-...
-
-[Data](articles/75522c47.json)
-
-[Extended Data](ext_articles/75522c47.ext.json)
-
----
-
-### Decision taken not to re-conduct 2024 Grade 5 Scholarship exam
-
-*2024-10-14 12:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102675/decision-taken-not-to-re-conduct-2024-grade-5-scholarship-exam) · `en`
-
-The Commissioner General of Examinations Amith Jayasundara announced that it was decided not to re-conduct the 2024 Grade 05 Scholarship Examination.
-
-Furthermore, it has been decided to award free marks to all students for the 03 questions which were alleged to have been leaked.
-
-Meanwhile, the evaluation of answer sheets, which had been temporarily suspended, is reportedly expected to commence immediately.
-
-Several committees were appointed to investigate the scholarship examination, and their final conclusion was that only three questions had been leaked prior to the exam.
-
-On September 20, an investigation was launched by the Department of Examinations after it was alleged that a question paper from the exam had been leaked. Later, the initial investigation report was handed over to the Criminal Investigation Department (CID), which also launched a separate investigation into the matter.
-
-...
-
-[Data](articles/132c8568.json)
-
-[Extended Data](ext_articles/132c8568.ext.json)
-
----
-
-### The scholarship examination will not be resumed 2024
-
-*2024-10-14 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202150) · `si`
-
-Scholarship exam 2024 cancelled. Commissioner General Amit Jayasundara decides to award free marks for controversial Grade 5 questions.
-
-🟩
-
-Commissioner General of Examinations Amit Jayasundara today stated that it is not necessary to reopen the scholarship examination of the Grade 5.
-
-He declared that he decided to give free marks for three controversial questions.
-
-◼️
-
-[Data](articles/32a3f547.json)
-
-[Extended Data](ext_articles/32a3f547.ext.json)
-
----
-
-### Heavy showers to continue in parts of the island tomorrow
-
-*2024-10-14 12:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102674/heavy-showers-to-continue-in-parts-of-the-island-tomorrow) · `en`
-
-The Department of Meteorology states that heavy showers of about 100mm are likely to continue at some places in Western, Sabaragamuwa, North-western and Northern provinces and in Galle, Matara and Trincomalee districts tomorrow (15).
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, North-western and Northern provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, the Met. Department added.
-
-Meanwhile, showers or thundershowers will occur at several places elsewhere during the evening or night, it said.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-In the meantime, the Disaster Management Center (DMC) reports that 134,484 individuals from 34,492 families in 12 districts have been affected by the prevailing severe weather conditions.
-
-...
-
-[Data](articles/61645078.json)
-
-[Extended Data](ext_articles/61645078.ext.json)
-
----
-
-### Applications are requested
-
-*2024-10-14 12:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விண்ணப்பங்கள்-கோரப்பட்டுள்ளன/175-345427) · `ta`
-
-Applications sought for Director General post at Commission to Investigate Bribery or Corruption. Eligible candidates must submit forms via parliamentary website or email by October 28, 2024.
-
-🟩
-
-Applications have been requested to appoint the Director General of the Commission to Investigate Bribery or Corruption, as per the rules stated in the Prevention of Corruption Act No. 9 of 2023.
-
-According to the Parliamentary Report, eligible persons should prepare appropriate applications on the Parliamentary website (www.parliament.lk) under the form of "Appointment of Director General to the Commission of Bribery or Corruption."
-
-Formally completed applications should be sent by postal or ConstitutionalCounCil@parliament.lk email on 28 October 2024, the Secretary General of the Constitutional Council, the Constitutional Council, the Parliament of Sri Lanka, Sri Jayawardenapura Kotte.
-
-Furthermore, in the upper left corner of the e -mail, "bribery or corruption allegations should be appointed as the Director General of the Inquiry Commission."
-
-◼️
-
-[Data](articles/fdc7ed4b.json)
-
-[Extended Data](ext_articles/fdc7ed4b.ext.json)
-
----
-
-### Is painful because of the defeat
-
-*2024-10-14 12:27:38* · [`adalk`](https://www.ada.lk/breaking_news/පරාජයට-පත්වීම-නිසා-වේදනාවට-පත්ව-සිටිනවා/11-412477) · `si`
-
-Sri Lanka women's cricket team lost T20 World Cup. Chamari Atapattu disappointed but hopeful. Team will improve and visit New Zealand next year.
-
-🟩
-
-The Sri Lanka women's cricket team who participated in the Twenty Twenty20 World Cup in Sahajah, the United Arab Emirates, arrived at Katunayake Airport on the night.
-
-Speaking to journalists at the time, Sri Lanka women's cricket team leader Chamari Atapattu said:
-
-"I am painful because of this defeat. We have a lot of hope and leave to Sajah and left for Sajah. We won the training matches. But we didn't win one of the tournament or win.
-
-Our weak batting and bowling contributed to this. Especially I failed through the batting. He also failed Hershikya failed.
-
-We hope to get our shortcomings and proceed. Working hard and hope to achieve victory. "
-
-Chamari Atapattu added that in February, the next year's visit to New Zealand.
-
-◼️
-
-[Data](articles/5ad2e4c0.json)
-
-[Extended Data](ext_articles/5ad2e4c0.ext.json)
 
 ---

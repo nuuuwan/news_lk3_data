@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 12:58:58**
+As of **2024-10-14 13:10:58**
 
 ## Newspaper Stats
 
-*Scraped **49,408** Articles*
+*Scraped **49,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ economynextcom | 3,026
 dailyftlk | 3,346
 adalk | 4,581
 dailymirrorlk | 4,733
-adaderanalk | 5,839
-tamilmirrorlk | 6,745
+adaderanalk | 5,841
+tamilmirrorlk | 6,746
 virakesarilk | 7,908
-adaderanasinhalalk | 8,548
+adaderanasinhalalk | 8,549
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,407 (100.0%) of 49,408 articles have been extended.
+49,412 (100.0%) of 49,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Decision taken not to re-conduct 2024 Grade 5 Scholarship exam
+
+*2024-10-14 12:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102675/decision-taken-not-to-re-conduct-2024-grade-5-scholarship-exam) · `en`
+
+The Commissioner General of Examinations Amith Jayasundara announced that it was decided not to re-conduct the 2024 Grade 05 Scholarship Examination.
+
+Furthermore, it has been decided to award free marks to all students for the 03 questions which were alleged to have been leaked.
+
+◼️
+
+[Data](articles/132c8568.json)
+
+[Extended Data](ext_articles/132c8568.ext.json)
+
+---
+
+### The scholarship examination will not be resumed 2024
+
+*2024-10-14 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202150) · `si`
+
+Scholarship exam 2024 cancelled. Commissioner General Amit Jayasundara decides to award free marks for controversial Grade 5 questions.
+
+🟩
+
+Commissioner General of Examinations Amit Jayasundara today stated that it is not necessary to reopen the scholarship examination of the Grade 5.
+
+He declared that he decided to give free marks for three controversial questions.
+
+◼️
+
+[Data](articles/32a3f547.json)
+
+[Extended Data](ext_articles/32a3f547.ext.json)
+
+---
+
+### Heavy showers to continue in parts of the island tomorrow
+
+*2024-10-14 12:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102674/heavy-showers-to-continue-in-parts-of-the-island-tomorrow) · `en`
+
+The Department of Meteorology states that heavy showers of about 100mm are likely to continue at some places in Western, Sabaragamuwa, North-western and Northern provinces and in Galle, Matara and Trincomalee districts tomorrow (15).
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, North-western and Northern provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts, the Met. Department added.
+
+Meanwhile, showers or thundershowers will occur at several places elsewhere during the evening or night, it said.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+In the meantime, the Disaster Management Center (DMC) reports that 134,484 individuals from 34,492 families in 12 districts have been affected by the prevailing severe weather conditions.
+
+...
+
+[Data](articles/61645078.json)
+
+[Extended Data](ext_articles/61645078.ext.json)
+
+---
+
+### Applications are requested
+
+*2024-10-14 12:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விண்ணப்பங்கள்-கோரப்பட்டுள்ளன/175-345427) · `ta`
+
+Applications sought for Director General post at Commission to Investigate Bribery or Corruption. Eligible candidates must submit forms via parliamentary website or email by October 28, 2024.
+
+🟩
+
+Applications have been requested to appoint the Director General of the Commission to Investigate Bribery or Corruption, as per the rules stated in the Prevention of Corruption Act No. 9 of 2023.
+
+According to the Parliamentary Report, eligible persons should prepare appropriate applications on the Parliamentary website (www.parliament.lk) under the form of "Appointment of Director General to the Commission of Bribery or Corruption."
+
+Formally completed applications should be sent by postal or ConstitutionalCounCil@parliament.lk email on 28 October 2024, the Secretary General of the Constitutional Council, the Constitutional Council, the Parliament of Sri Lanka, Sri Jayawardenapura Kotte.
+
+Furthermore, in the upper left corner of the e -mail, "bribery or corruption allegations should be appointed as the Director General of the Inquiry Commission."
+
+◼️
+
+[Data](articles/fdc7ed4b.json)
+
+[Extended Data](ext_articles/fdc7ed4b.ext.json)
+
+---
 
 ### Arjun Aloysius and two others sentenced for Rs. 3.5b VAT evasion
 
@@ -371,6 +453,8 @@ In April 1954, Sir John Kotelawala, Prime Minister of Ceylon, invited the Prime 
 ...
 
 [Data](articles/8b1f989b.json)
+
+[Extended Data](ext_articles/8b1f989b.ext.json)
 
 ---
 
@@ -2203,85 +2287,5 @@ Crease Heris, who played as an early player instead of Alyssa Heli, was effectiv
 [Data](articles/7612cb4d.json)
 
 [Extended Data](ext_articles/7612cb4d.ext.json)
-
----
-
-### Time to drain the swamp
-
-*2024-10-13 23:42:12* · [`dailyftlk`](https://www.ft.lk/columns/Time-to-drain-the-swamp/4-767910) · `en`
-
-The people must realise though that with AKD at the helm only half the battle is won. He needs the people’s mandate to control the parliament. He must have an able crew to help him navigate the choppy waters ahead. At this point the NPP are doggedly sticking to their plan of nominating qualified and capable individuals to attract the attention of the voters. Already the names of high profile academics and professionals are emerging as candidates. This is leading the other parties to scramble and gather similar types to represent them and mirror the opposite camp. At least one thing is guaranteed – an increase in the IQ and capability of the next parliament which will be like none before
-
-The opportunity to make significant change in Sri Lanka’s political, economic and governance landscape
-
-...
-
-[Data](articles/96d716c5.json)
-
-[Extended Data](ext_articles/96d716c5.ext.json)
-
----
-
-### Legal action should be taken against presidential candidates who do not hand over the election cost
-
-*2024-10-13 23:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196218) · `ta`
-
-Election Commission threatens legal action against presidential candidates who fail to submit election cost reports within deadline. Candidates must disclose expenses within 21 days after election. Bribery Commission can investigate improper spending.
-
-🟩
-
-The Executive Director of the Election Commission should take legal action against candidates who did not present the cost report on the presidential election.
-
-The time period was completed yesterday by the Election Commission to give the Presidential candidates a spending list for their election activities. He said this in a comment on the candidates who have not yet issued this cost report.
-
-The Election Commission has issued a gazette with a candidate in the presidential election, setting up the amount of Rs.. The presidential election has also been said to be handed over to the Election Commission in 21 days after the election.. Accordingly, the time limit ended on Sunday.
-
-...
-
-[Data](articles/5dcb3318.json)
-
-[Extended Data](ext_articles/5dcb3318.ext.json)
-
----
-
-### IPS’s SOE 2024: Manual of growth strategies for AKD
-
-*2024-10-13 23:22:42* · [`dailyftlk`](https://www.ft.lk/columns/IPS-s-SOE-2024-Manual-of-growth-strategies-for-AKD/4-767908) · `en`
-
-SOE 24 has been released by IPS at a time when Sri Lanka has reached a watershed in its economic policy strategies following a Presidential election in which a left-oriented politician, namely, Anura Kumara Dissanayake or AKD, has been picked by voters to occupy this high post. AKD is also seeking the mandate of the people for Parliamentary majority to implement his policy at a general election to be held in mid-November 2024. AKD’s left orientation and inclination for the expansion of the State sector, known as statism or dirigisme, has come to be tested at a pragmatic level immediately after he was sworn in as the President
-
-...
-
-[Data](articles/797b30a2.json)
-
-[Extended Data](ext_articles/797b30a2.ext.json)
-
----
-
-### West Indies are easy
-
-*2024-10-13 23:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202134) · `si`
-
-Sri Lanka vs West Indies cricket match summary: Sri Lanka batted first, scoring 179/7 in 20 overs. West Indies chased down the target in 19.1 overs, losing 5 wickets. Brendon King and Evin Lewis shared 107 runs off 55 balls, while Brendan King scored 63 off 33 balls.
-
-🟩
-
-Sri Lanka beat the Sri Lankan team to win 5 wickets in 5 wickets. West Indies managed.
-
-Batting first Sri Lanka scored 179 runs for the loss of 7 wickets in their 20 overs.
-
-In reply, the West Indies scored the target with 5 wickets in 19.1 overs.
-
-Brendon King and Evin Lewis passed the West Indies.
-
-They two marked 107 runs off 55 balls.
-
-Brendhan Kink scored 63 runs off 33 balls with 63 runs in 28 balls.
-
-◼️
-
-[Data](articles/fab11e0e.json)
-
-[Extended Data](ext_articles/fab11e0e.ext.json)
 
 ---

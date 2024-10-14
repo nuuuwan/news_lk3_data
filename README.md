@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 00:24:38**
+As of **2024-10-15 00:38:58**
 
 ## Newspaper Stats
 
-*Scraped **49,500** Articles*
+*Scraped **49,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 493
 bbccomsinhala | 495
 islandlk | 2,933
 economynextcom | 3,034
-dailyftlk | 3,346
+dailyftlk | 3,351
 adalk | 4,596
 dailymirrorlk | 4,733
 adaderanalk | 5,857
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,500 (100.0%) of 49,500 articles have been extended.
+49,503 (100.0%) of 49,505 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,82 @@ Also, all schools in the Western Province will be closed tomorrow. Remble
 [Data](articles/51736cc7.json)
 
 [Extended Data](ext_articles/51736cc7.ext.json)
+
+---
+
+### Digitalisation: Gates must be open for Sri Lankan companies for innovation
+
+*2024-10-14 22:55:02* · [`dailyftlk`](https://www.ft.lk/columns/Digitalisation-Gates-must-be-open-for-Sri-Lankan-companies-for-innovation/4-767956) · `en`
+
+The digitalisation of customs, IRD port net, maritime single window and national single window, etc. must be carefully developed
+
+Modernising customs, ports and supply chains needs future proofed technology to meet current and anticipated future international standards that fit a domestic framework, including the much talked of ‘single window’. The national single window of India and Pakistan were developed within the local talent with international expertise at some point coming and contributing at professional consultancy services.
+
+...
+
+[Data](articles/136a7995.json)
+
+[Extended Data](ext_articles/136a7995.ext.json)
+
+---
+
+### What more can Govt. do: Strategies to solidify economic progress post-elections
+
+*2024-10-14 22:51:37* · [`dailyftlk`](https://www.ft.lk/columns/What-more-can-Govt-do-Strategies-to-solidify-economic-progress-post-elections/4-767955) · `en`
+
+Given Sri Lanka’s strategic location, the Government can actively engage in deepening regional trade ties, particularly with fast-growing economies
+
+While the recent Presidential elections in Sri Lanka have set a positive tone for the country’s economic and political landscape, there is still significant work to be done to build on this momentum. The Government’s initial focus on anti-corruption, transparency, and institutional reforms has already had a strong impact on market confidence and investor sentiment. However, in the current global economic climate, additional measures are necessary to ensure that these early gains translate into long-term prosperity. Here are some key areas the Government could focus on to further strengthen its positive market impact:
+
+...
+
+[Data](articles/1c062885.json)
+
+[Extended Data](ext_articles/1c062885.ext.json)
+
+---
+
+### Education for system change: Proposal for critical thinking and civic responsibility curriculum
+
+*2024-10-14 22:45:57* · [`dailyftlk`](https://www.ft.lk/columns/Education-for-system-change-Proposal-for-critical-thinking-and-civic-responsibility-curriculum/4-767954) · `en`
+
+Conditioned to internalise information mechanically, students are moulded into conformity and rote memorisation, influenced more by parental expectations and societal pressures than by their talents and aspirations
+
+The entrenched education system excels at producing highly skilled and committed engineers, doctors, mathematicians, and IT professionals, yet it often fails to prepare them to address the oppression and injustices encountered when applying their education in their professions. These professionals may be blind to, or unwilling to acknowledge, these issues. Evidence abounds that educated, talented, and well-travelled individuals—those leading cosmopolitan lives—frequently perpetuate disparities and inequities. They swiftly blame extremists and politicians when things go awry and comfortably evade accountability by positioning themselves as mere producers of ideas, conveniently leaving implementation to others
+
+...
+
+[Data](articles/5eb75de5.json)
+
+[Extended Data](ext_articles/5eb75de5.ext.json)
+
+---
+
+### Creating a holistic experience for tourists at popular sites: Lessons from Bangkok and Ayutthaya
+
+*2024-10-14 22:38:06* · [`dailyftlk`](https://www.ft.lk/columns/Creating-a-holistic-experience-for-tourists-at-popular-sites-Lessons-from-Bangkok-and-Ayutthaya/4-767953) · `en`
+
+While the practice of removing shoes when entering places of Buddhist worship is practiced in both countries, Sri Lanka appears to be taking a more extreme stand regarding the distance at which this requirement must be met
+
+Both Thailand and Sri Lanka boast of numerous tourist attractions that are essentially places of religious worship. The challenge faced by administrators of such sites is to strike a balance between the need to maintain dignity and decorum expected in a place of worship with the need to create a pleasant and convenient experience to those who travel from faraway places to catch a glimpse of these renowned sites
+
+...
+
+[Data](articles/727d92dd.json)
+
+---
+
+### A left turn: Can ESG principles drive sustainable economic growth under new leadership?
+
+*2024-10-14 22:33:21* · [`dailyftlk`](https://www.ft.lk/columns/A-left-turn-Can-ESG-principles-drive-sustainable-economic-growth-under-new-leadership/4-767952) · `en`
+
+The ESG narrative within the new political context could be beneficial for positioning Sri Lankan businesses to attract investment into the country
+
+Sri Lanka’s new president Anura Kumara Dissanayake has been sworn into office, marking a significant shift in the country’s political and economic trajectory. The new administration is focused on steering the country towards a more sustainable and inclusive economic model, which could significantly impact the business environment and the promotion of Environmental, Social, and Governance (ESG) policies. Could the potential of more left-leaning policies help to foster a more sustainable business economy by emphasising local industries and sustainable practices?
+
+...
+
+[Data](articles/d64c3925.json)
 
 ---
 
@@ -2339,97 +2415,5 @@ The previous Director General Kanishka D Wijeratne agreed to resign last week af
 [Data](articles/1d1664ba.json)
 
 [Extended Data](ext_articles/1d1664ba.ext.json)
-
----
-
-### Army and Navy intensify flood relief efforts across 8 districts as rivers overflow
-
-*2024-10-14 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102670/army-and-navy-intensify-flood-relief-efforts-across-8-districts-as-rivers-overflow) · `en`
-
-In response to the severe weather conditions affecting the island, the Sri Lanka Army has deployed additional troops to assist with flood relief efforts in areas hit by rising river levels.
-
-The Army Commander has instructed an expansion of relief operations, mobilizing more personnel to support those affected by widespread flooding.
-
-As of today (14), army troops have been deployed across several flood-affected areas, including the districts of Colombo, Kalutara, Galle, Matara, Ratnapura, Hambantota, Gampaha, and Puttalam.
-
-Accordingly, trop have been deployed in several locations today (14).
-
-A total of 6,500 troops, along with 23 WMZ vehicles, 34 Unibuffel vehicles, 34 Unicorn vehicles, and 56 boats, are prepared for immediate deployment across these regions to aid in rescue operations and provide much-needed relief, according to a statement by the Sri Lanka Army.
-
-The army remains on high alert as floodwaters continue to rise, with further measures expected as the situation develops.
-
-...
-
-[Data](articles/ef539bae.json)
-
-[Extended Data](ext_articles/ef539bae.ext.json)
-
----
-
-### I OPPOSE THE PRIME MINISTER, THE MINISTER OF PLANNING AND THE MINISTER OF AGRICULTURE
-
-*2024-10-14 11:52:00* · [`islandlk`](http://island.lk/i-oppose-the-prime-minister-the-minister-of-planning-and-the-minister-of-agriculture/) · `en`
-
-(Excerpted from Falling leaves, an autobiographical memoir of LC Arulpragasam)
-
-I had no place to go, because I was wedded to the agriculture sector – by my own choosing. Therefore, I was lucky to find a berth as Head of the Agriculture Sector in the Department of National Planning. But I had to pay a career-price for doing this, because it involved my working under a non-civil servant and under someone whom I outranked in the Civil List – which was simply not done in those days.
-
-...
-
-[Data](articles/16900968.json)
-
-[Extended Data](ext_articles/16900968.ext.json)
-
----
-
-### We deserve a bright future
-
-*2024-10-14 11:48:00* · [`islandlk`](http://island.lk/we-deserve-a-bright-future/) · `en`
-
-Anura Kumara Dissanayake , though not securing a 50%+1 vote, won the recently concluded presidential election and has become the ninth executive president of the country. In this election as in the previous one, the vote of the Tamil people went to the unsuccessful candidates.
-
-AKD did not win in any of the Tamils dominated districts. There are many comments and criticisms on this issue in especially the social media. These commentators often do not have deep understanding of politics and express knee jerk reactions towards this sensitive issue.
-
-...
-
-[Data](articles/a88f0efa.json)
-
-[Extended Data](ext_articles/a88f0efa.ext.json)
-
----
-
-### The 1956 election landslide and SWRD Bandaranaike’s tenure (1956 — 1959)
-
-*2024-10-14 11:46:00* · [`islandlk`](http://island.lk/the-1956-election-landslide-and-swrd-bandaranaikes-tenure-1956-1959/) · `en`
-
-(Excerpted from Rendering Unto Caesar, memoirs of  Bradman Weerakoon)
-
-My acquaintance with S W R D Bandaranaike was only through the press reports of his election campaign. That was before he came to the prime minister’s office in the Fort (now housing the foreign ministry at Republic Square), on an April morning, after the swearing in of his Cabinet at Queen’s House. His eloquence as a speaker, especially his Independence Day speech in 1948, was deeply imprinted in my mind.
-
-Throughout a gruelling campaign he had shown extraordinary skills of perseverance in the face of severe odds, and the ability to persuade large masses of ordinary people to believe in his cause. I wondered how he would be to work with after I had experienced the rather easy going style of Sir John. There was also the serious business to be faced of how soon he would be able to make his election slogan of `Sinhala Only’ as the official language in 24 hours come true?
-
-...
-
-[Data](articles/3d931436.json)
-
-[Extended Data](ext_articles/3d931436.ext.json)
-
----
-
-### Obama joins Kamala’s campaign trail, boostig her chances
-
-*2024-10-14 11:45:00* · [`islandlk`](http://island.lk/obama-joins-kamalas-campaign-trail-boostig-her-chances/) · `en`
-
-Trump secretly sent Putin coveted Covid testing machines at height of shortage – Bob Woodward
-
-George Washington’s farewell address delivered at Mount Vernon at the end of his second term in 1796, when he was 64-year-old, “stands today as a timeless warning about the forces that threaten American democracy”.
-
-No president ever wanted to be the president of the United States as passionately as Washington. He deemed the pinnacle of his achievement to be the winning of independence from England and paving the way to the Federal Constitutional Convention in Philadelphia, where he sat as its presiding officer till 1787. He most reluctantly accepted the presidency in 1789, and again in 1793. But in 1796, he was firm in his refusal, as he considered the presidency to be just an epilogue to his career, not his greatest achievement.
-
-...
-
-[Data](articles/58c53114.json)
-
-[Extended Data](ext_articles/58c53114.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 03:08:35**
+As of **2024-10-15 03:23:22**
 
 ## Newspaper Stats
 
-*Scraped **49,513** Articles*
+*Scraped **49,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 493
 bbccomsinhala | 495
 islandlk | 2,933
 economynextcom | 3,034
-dailyftlk | 3,351
+dailyftlk | 3,353
 adalk | 4,596
 dailymirrorlk | 4,733
 adaderanalk | 5,857
@@ -26,27 +26,73 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,506 (100.0%) of 49,513 articles have been extended.
+49,509 (100.0%) of 49,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
 
-### கடற்தொழிலாளர்களின் குரலாக எமது குரல் நாடாளுமன்றில் ஒலிக்கும் -  ஞானப்பிரகாசம் சுலக்சன்
+### Our voice sounds as the voice of the fishermen - Gnanaprakasam Sulakshan
 
 *2024-10-15 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/196310) · `ta`
 
-வடக்கு கடற்தொழிலாளர்கள் மற்றும் வடக்கில் வாழும் மலையக தமிழர்களின் வாழ்வாதாரங்களை உயர்த்தி , அவர்களின் குரலாக நாடாளுமன்றில் எங்கள் குரல்கள் ஒலிக்கும் என ஐக்கிய தேசிய சுதந்திர முன்னணியின் யாழ்.தேர்தல் மாவட்டத்தின் முதன்மை வேட்பாளர் ஞானப்பிரகாசம் சுலக்சன் தெரிவித்தார்.
+Candidate promises to raise northern fishermen and upcountry Tamil concerns in parliament. Criticizes politicians for failing to address issues post-election. Party joins United Freedom Alliance seeking representation.
 
-ஐக்கிய தேசிய சுதந்திர முன்னணியின் சார்பில் கண்ணாடி சின்னத்தில் யாழ் .  தேர்தல் மாவட்டத்தில் போட்டியிடும் வேட்பாளர் அறிமுகம் ஞாயிற்றுக்கிழமை (14) யாழில் உள்ள விருந்தினர் விடுதி ஒன்றில் நடைபெற்றது.
+🟩
 
-கடற்தொழிலாளர்களின் வாழ்வாதாரங்கள் உயர்த்தப்பட வேண்டும். அதேபோன்று வடக்கில் வாழும் மலையக தமிழர்களின் வாழ்வாதாரங்களும் மேம்படுத்தப்பட வேண்டும்.
+Gnanaprakasam Sulakshan, the chief candidate of the Jaffna Election District of the United National Freedom Front district, said that the voices of the Northern Fishermen and the livelihoods of the upcountry Tamils ​​living in the North will be raised and their voices will be sounded in parliament.
 
-ஒவ்வொரு தேர்தல் காலங்களிலும் அரசியல் வாதிகள் எங்களை சந்திக்க வருவார்கள். எமது வாழ்வாதாரங்களை மேம்படுத்துவதாகவும் , பிரச்சனைகளை தீர்த்து வைப்பதாகவும் வாக்குறுதிகளை வழங்கி செல்வார்கள். தேர்தல் முடிந்த பின்னர் அவர்கள் எங்களை கண்டு கொள்ள மாட்டார்கள்.
+Jaffna in glass symbolThe introduction of the candidate in the electoral district was held on Sunday (14) at a guest hostel in Jaffna.
+
+The livelihoods of the fishermen should be upgraded. Similarly, the livelihoods of the upcountry Tamils ​​living in the North should be improved.
+
+Politicians come to meet us every election period. Promises to improve our livelihoods and solve problems. They will not find us after the election.
+
+That is why I am contesting the election in our villages and our communities.
+
+Speaking at the event, Progressive Tamil National Party Secretary Sudarsingh Vijayakanth addressed the gathering.
 
 ...
 
 [Data](articles/5b85b7f7.json)
+
+[Extended Data](ext_articles/5b85b7f7.ext.json)
+
+---
+
+### VAT hike in Sri Lanka: Who really pays the price?
+
+*2024-10-15 02:49:39* · [`dailyftlk`](https://www.ft.lk/columns/VAT-hike-in-Sri-Lanka-Who-really-pays-the-price/4-767971) · `en`
+
+The recent VAT revisions have hit the poorest the hardest, whereas the bottom 10% of income group households now spend about 10% of their income on VAT
+
+The VAT burden has risen by approximately 50%, primarily due to the removal of VAT exemptions on around 100 items
+
+This blog offers potential solutions for easing the VAT burden in Sri Lanka
+
+Earlier this year, Sri Lanka introduced major changes to the Value Added Tax (VAT) system. The VAT rate increased from 15% to 18%, and tax exemptions were removed for 97 items, including essential goods such as gas and stationery. While these revisions aimed to boost Government revenue, they have also significantly increased the tax burden on low-income households, making life even more challenging for the most vulnerable during this ongoing crisis. This blog offers a comprehensive overview of the recent VAT revision and potential solutions for easing the VAT burden in Sri Lanka.
+
+...
+
+[Data](articles/4e92b0b7.json)
+
+[Extended Data](ext_articles/4e92b0b7.ext.json)
+
+---
+
+### One thousand megawatts of rooftops – solar heaven?
+
+*2024-10-15 02:44:19* · [`dailyftlk`](https://www.ft.lk/columns/One-thousand-megawatts-of-rooftops-solar-heaven/4-767970) · `en`
+
+Let’s argue about getting the lowest cost project after we have replaced all furnace oil generation with cheaper renewable energy
+
+At a conference in the mid ’90s, Dr. Harvey Forest, solar visionary and President of Solarex (then one of the largest solar companies), displayed a slide titled “Solar Heaven”. He predicted that annual solar installations would reach 1 Gigawatt (GW) or 1,000 Megawatt (MW) in a few years, which he called “solar heaven”. He said that at this capacity, investment into the highly capital-intensive silicon manufacturing becomes viable and this would free solar from its dependence on the semiconductor industry, for its main raw material, silicon. This in turn would drive down cost, spurring demand and setting off a virtuous cycle of more investment, more capacity, lower costs and more demand and completely transform the fledgling industry into global scale.
+
+...
+
+[Data](articles/3812ea16.json)
+
+[Extended Data](ext_articles/3812ea16.ext.json)
 
 ---
 
@@ -2335,51 +2381,5 @@ Chamari Atapattu added that in February, the next year's visit to New Zealand.
 [Data](articles/5ad2e4c0.json)
 
 [Extended Data](ext_articles/5ad2e4c0.ext.json)
-
----
-
-### Arjun Aloysius and two others sentenced for Rs. 3.5b VAT evasion
-
-*2024-10-14 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102673/arjun-aloysius-and-two-others-sentenced-for-rs-35b-vat-evasion) · `en`
-
-The Colombo Magistrate’s Court has sentenced the Director of W.M. Mendis Distilleries, Arjun Aloysius and two others to 06 months in prison for defaulting the payment of Rs. 3.5 billion in Value Added Tax (VAT) by the company.
-
-The relevant case was filed against the company by the Inland Revenue Department (IRD) for defaulting the payment of Rs. 3.5 billion in taxes owed to the government during the period from 2016 to 2019, Ada Derana reporter said.
-
-The case was taken up before Colombo Additional Magistrate Bandara Ilangasinghe this morning (14).
-
-On November 14, 2023, the court had ordered the accused to complete the due payments. The imprisonment was imposed over failure to complete the relevant payments as per the court order.
-
-◼️
-
-[Data](articles/5772fae5.json)
-
-[Extended Data](ext_articles/5772fae5.ext.json)
-
----
-
-### Deposit
-
-*2024-10-14 12:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிவாரணக்-குழுக்கள்-அனுப்பி-வைப்பு/175-345424) · `ta`
-
-Sri Lanka Navy sends 8 flood relief committees to assist DMC in Gampaha, Colombo, Puttalam. Rivers flooded due to heavy rains. Navy groups rescue victims, supply food, provide boat transport. Total 48 groups from 3 naval commands.
-
-🟩
-
-Eight flood relief committees of the Sri Lanka Navy have been sent to work with the Disaster Management Center (DMC) to assist the victims of Gampaha, Colombo and Puttalam districts.
-
-Due to heavy rains, the rivers of Kaluganga, Kelaniya Ganga, Attanagalu Oya and Thethuru Oya have been flooded in many parts of Gampaha, Colombo and Puttalam districts.
-
-Against this backdrop, Navy Flood Relief Groups are involved in the Kaduwela, Mapima, Navagamuwa, Ihalakama, Ja-Ela and Nattandiya and the groups are functioning in full swing to provide assistance to the victims.
-
-Relief groups are actively carrying out activities such as providing safe transport by boats to help flood victims, supplying cooked food and dry foods to 4,876 people, and rescuing three people in danger of drowning.
-
-A total of 48 groups are prepared by 22 relief committees in the Western Naval Command, 9 groups in the Southern Naval Command and 17 groups in the Northwest Navy Command.
-
-◼️
-
-[Data](articles/3f6a4c50.json)
-
-[Extended Data](ext_articles/3f6a4c50.ext.json)
 
 ---

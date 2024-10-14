@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 17:23:11**
+As of **2024-10-14 17:40:15**
 
 ## Newspaper Stats
 
-*Scraped **49,456** Articles*
+*Scraped **49,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,120 @@ dbsjeyarajcom | 401
 colombotelegraphcom | 493
 bbccomsinhala | 494
 islandlk | 2,933
-economynextcom | 3,026
+economynextcom | 3,031
 dailyftlk | 3,346
 adalk | 4,589
 dailymirrorlk | 4,733
 adaderanalk | 5,853
-tamilmirrorlk | 6,754
+tamilmirrorlk | 6,756
 virakesarilk | 7,909
-adaderanasinhalalk | 8,562
+adaderanasinhalalk | 8,563
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,456 (100.0%) of 49,456 articles have been extended.
+49,461 (100.0%) of 49,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Bail refusal to three others including Arjun Aloysius
+
+*2024-10-14 17:19:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன்-அலோசியஸ்-உள்ளிட்ட-மூவருக்கு-பிணை-மறுப்பு/175-345450) · `ta`
+
+Colombo Chief Magistrate's Court denies bail to three Mendis & Co directors, including Arjun Aloysius, over unpaid VAT. Appeal pending in Colombo High Court.
+
+🟩
+
+DUBLUM. The Colombo Chief Magistrate's Court on Monday (14) refused to release three directors of Mendis and Company Limited on bail.. Directors, Arjun Aloysius, AR. The bail appeal of Dinendra John and Prasanna Kumarasiri de Silva is pending.
+
+The Colombo Chief Magistrate's Court has been sentenced to six months in prison for failing to pay the VAT.
+
+The defendants filed an appeal in the Colombo High Court through the Magistrate's Court Registrar's Office against the order sentenced to six months in prison.
+
+After the crime, the defendants are entitled to seek bail, thereby bail at the Colombo Chief Magistrate's Court.. However, the Colombo Chief Magistrate's Court has refused to release it on bail.
+
+◼️
+
+[Data](articles/7241ce44.json)
+
+[Extended Data](ext_articles/7241ce44.ext.json)
+
+---
+
+### What happened to the Laddest Mother?Here's the full story
+
+*2024-10-14 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202168) · `si`
+
+Damitha Abeyratne accuses Hesha Vithanage of conspiring against her nomination for Ratnapura district. She claims he changed her nomination without consent, citing personal issues as his reason.
+
+🟩
+
+The actor Damitha Abeyratne said that the conspiracy of former Parliamentarian Hesha Vithanage was not nominated for the Ratnapura district with a reconciliation district.
+
+She said: 'What happened to Ada Derana?'Addressing the program.
+
+"Leaves I treated my brother. Homitham should demand from Ratnapura from Ratnapura. Sajith sir we have for you. Asked to tell you something you wanted. There was a nomination committee. It gave me permission. Then I go and signed nominations on the 8th. Then I talked to Mrs. Rohini Kaviratne. He said he went to the Hesha office on the 9th and change this. Someone else told someone else. But Hesha greets me and played one another game underneath. Hesha is afraid with the response of Ratnapura. This is a lonely conspiracy. Hesha cut.
+
+...
+
+[Data](articles/486382b8.json)
+
+[Extended Data](ext_articles/486382b8.ext.json)
+
+---
+
+### Sri Lanka President directs Rs50mn for flood victims, more if needed
+
+*2024-10-14 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-directs-rs50mn-for-flood-victims-more-if-needed-183490/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Dissanayake has instructed the Treasury to release 50 million rupees for immediate relief to flood victims, his office said.
+
+The money will go to those affected by severe weather in Colombo, Gampaha, Puttalam, and Kalutara areas.
+
+According to the Disaster Management Centre, 24,492 individuals from 6,018 families have been affected by floods and landslides in 11 districts due to adverse weather conditions.
+
+Floods have killed at least 3 persons and affected more than 130,000 people.
+
+Dissanayake also instructed the Secretary to the Ministry of Defence to ensure “attention is given to the safety of people in districts impacted by floods and landslides and to provide necessary support for effective relief operations” his media division said.
+
+The government will take action to provide necessary assistance to all affected citizens and local government officials in the affected areas will be engaged to ensure the people receive the required aid, it said.
+
+...
+
+[Data](articles/68d8d4d6.json)
+
+[Extended Data](ext_articles/68d8d4d6.ext.json)
+
+---
+
+### Sri Lanka stocks close down, pulled by banks
+
+*2024-10-14 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-pulled-by-banks-183504/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader All Share Index closed down 0.39 percent, or 47.81 points, at 12,246; while the more liquid S&P SL20 Index closed down 0.71 percent, or 25.87 points, at 3,614.
+
+The ASPI was weighted down by C T Holdings (down at 288.00), Hatton National Bank (down at 215.50), Commercial Bank (down at 108.00), Sampath Bank (down at 82.10), and National Development Bank (down at 79.10).
+
+Significant portions of the day’s turnover came from trades in capital goods and food, beverage and tobacco counters.
+
+Hayleys Fabric saw investor interest, and the share closed up at 54.40.
+
+Other top positive contributors to the ASPI were Sri Lanka Telecom (up at 68.30), and Hela Apparel (up at 7.00).
+
+There was a net foreign inflow of 153 million rupees. (Colombo/Oct14/2024)
+
+◼️
+
+[Data](articles/932cb40b.json)
+
+[Extended Data](ext_articles/932cb40b.ext.json)
+
+---
 
 ### UNDP pledges support for governance and economic reforms in Sri Lanka
 
@@ -359,6 +455,28 @@ Preliminary inquiries have revealed that the Jeep vehicle and another jeep vehic
 [Data](articles/56cbf4a8.json)
 
 [Extended Data](ext_articles/56cbf4a8.ext.json)
+
+---
+
+### Sri Lanka President, Foreign Minister to skip BRICS summit
+
+*2024-10-14 15:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-foreign-minister-to-skip-brics-summit-183475/) · `en`
+
+ECONOMYNEXT – Neither Sri Lanka’s President Anura Dissanayake nor Foreign Minister Vijitha Herath will be attending the BRICS summit, which the previous government sought membership of, to be held in Russia next week.
+
+“HE President and myself – we are unable to attend the Outreach BRICS Summit to be held in Kazan, Russian Federation from 23-24 October 2024, due to the upcoming elections,” Foreign Minister Vijitha Herath told members of the Colombo-based Diplomatic Corps at the Ministry of Foreign Affairs on Monday (14).
+
+The Secretary to the Foreign Affairs Ministry will represent Sri Lanka and place on record its request for membership, he said.
+
+“I have already addressed letters to my counterparts in the BRICS member states seeking support,” Herath said.
+
+Sri Lanka’s previous Cabinet of Ministers had approved the proposal of the country applying for membership of the BRICS organization and for a new development bank to be established under it.
+
+...
+
+[Data](articles/9cbf401f.json)
+
+[Extended Data](ext_articles/9cbf401f.ext.json)
 
 ---
 
@@ -1132,6 +1250,42 @@ Colombo Additional Magistrate Bandara Ilangasinghe, who has been sentenced to 6 
 
 ---
 
+### ‘வற்’ மோசடி: அலோசியஸ் உட்பட மூவருக்கு சிறை
+
+*2024-10-14 12:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வற்-மோசடி-அலோசியஸ்-உட்பட-மூவருக்கு-சிறை/175-345423) · `ta`
+
+அரசாங்கத்திற்கு செலுத்த வேண்டிய 3.5 பில்லியன் ரூபாய் (355 கோடி)  பெறுமதி சேர் வரியை (வற்) செலுத்தத் தவறிய குற்றத்திற்காக டபிள்யூ.எம்.மென்டிஸ் மற்றும் நிறுவனத்தின் பணிப்பாளர் அர்ஜுன அலோசியஸ் உட்பட மூவருக்கு கொழும்பு மேலதிக நீதவான் பண்டார இளங்கசிங்க , திங்கட்கிழமை (14) ஆறு மாத கால சிறைத் தண்டனை விதித்து தீர்ப்பளித்துள்ளார்.
+
+குறித்த வரிகளை செலுத்துமாறு 11/14/2023 அன்று நீதிமன்றம் உத்தரவிட்டிருந்த போதிலும், குறித்த வரிகளை செலுத்தாத காரணத்தினால் இந்த தண்டனை விதிக்கப்பட்டுள்ளது.
+
+இந்த வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டதையடுத்து, பிரதிவாதிகள் நீதிமன்றில் ஆஜராகியதுடன், பிரதிவாதிகள் உரிய வரிப்பணத்தை இன்றைய தினம் (திங்கட்கிழமை 14)  செலுத்தாவிடின் அவர்களுக்கு ஆறு மாத கால சிறைத்தண்டனை விதிக்கப்படும் என நீதவான் அறிவித்துள்ளார்.
+
+2016 மற்றும் 2019க்கு இடையில் அரசாங்கத்திற்கு செலுத்த வேண்டிய 3.5 பில்லியன் ‘வற்’ செலுத்துமாறு பிரதிவாதிகளுக்கு உத்தரவிடுமாறு உள்நாட்டு இறைவரி ஆணையாளர் இந்த வழக்கை தாக்கல் செய்திருந்தார்.
+
+...
+
+[Data](articles/91403d02.json)
+
+---
+
+### Sri Lanka floods kill 3 persons, 134,000 people affected
+
+*2024-10-14 12:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-floods-kill-3-persons-134000-people-affected-183456/) · `en`
+
+ECONOMYNEXT – Torrential rain that lashed Sri Lanka over several days have flooded towns and villages killing three people, and affecting 134,000 persons with thousands evacuated, the island’s Disaster Management Centre said.
+
+In the Gampaha District of the Western Province 82,839 persons were affected, 40,231 in Colombo, and 3,623 in Kalutara.
+
+Over 6,000 persons were evacuated to safer locations, the DMC said.
+
+Heavy showers above 100mm are likely at some places in the Western, Sabaragamuwa, North Western and Northern Provinces and in the Galle and Matara Districts, the Meteorology Department said.
+
+◼️
+
+[Data](articles/70d146c8.json)
+
+---
+
 ### Arjun Alleshiz, including three, were imprisoned
 
 *2024-10-14 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202148) · `si`
@@ -1211,6 +1365,26 @@ In February, he left the main opposition party, the chief opposition, and joined
 [Data](articles/27f0c317.json)
 
 [Extended Data](ext_articles/27f0c317.ext.json)
+
+---
+
+### Sri Lanka looking to fill post of corruption chief
+
+*2024-10-14 12:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-looking-to-fill-post-of-corruption-chief-183428/) · `en`
+
+ECONOMYNEXT – Sri Lanka has called for applications for the Director General post of the Commission to Investigate Allegations of Bribery or Corruption (Ciaboc).
+
+Qualified persons should prepare applications in accordance with the format published on the Parliament website.
+
+Applications should be sent via registered post referred to the Secretary General of the Constitutional Council, Constitutional Council-Office, Parliament of Sri Lanka, Sri Jayewardenepura Kotte or via email to constitutionalcouncil@parliament.lk on or before October 28.
+
+‘Appointment of Director General of Bribery or Corruption Allegations Investigation Commission’ should be marked in the upper left corner of the envelope or subject of the e-mail.
+
+The previous Director General Kanishka D Wijeratne agreed to resign last week after the Supreme Court gave leave to proceed.
+
+...
+
+[Data](articles/1d1664ba.json)
 
 ---
 
@@ -2117,195 +2291,5 @@ The police have stated that they are investigating whether the individuals arres
 [Data](articles/96c16501.json)
 
 [Extended Data](ext_articles/96c16501.ext.json)
-
----
-
-### The life of Trump's life in danger again?
-
-*2024-10-14 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202142) · `si`
-
-Trump rally security breach: Man arrested with guns near event in California. Suspect found with illegal weapons and fake passport. Investigation ongoing.
-
-🟩
-
-A man was arrested by two guns near the nearest rally of Donald Trump's political rally.
-
-The suspect was arrested in a security checkpoint near the security checkpoint near the country's security rally near the political rally of Donald Trump's political rally organized in California.
-
-Two illegal guns and a fake passport have been found in the possession of the suspect.
-
-The 49-year-old suspect is conducting further investigations into the suspect.
-
-◼️
-
-[Data](articles/f44896d1.json)
-
-[Extended Data](ext_articles/f44896d1.ext.json)
-
----
-
-### Elpitiya Pradeshiya Sabha
-
-*2024-10-14 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202141) · `si`
-
-Elpitiya Pradeshiya Sabha election: Postal voting rescheduled to Oct 18. Eight recognized parties and one independent group contesting. Election set for Oct 26.
-
-🟩
-
-Postal voting arrangements are due to be held today (14) to the Elpitiya PSC election.
-
-The Election Commission (EPLSIANCON) said that the postal voting cannot be held today is available on the 18th.
-
-The Elpitiya Pradeshiya Sabha and two independent groups were deposited, but only eight recognized political parties and only one independent group have been handed over.
-
-The Elpitiya Pradeshiya Sabha elections will be held on October 26.
-
-◼️
-
-[Data](articles/dd07edd5.json)
-
-[Extended Data](ext_articles/dd07edd5.ext.json)
-
----
-
-### Another group of Chinese nationals arrested in Kandy
-
-*2024-10-14 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202140) · `si`
-
-Chinese nationals arrested in Kandy: 2 women detained in hotel, 136 foreigners held elsewhere. Police investigating incidents. CID to probe further.
-
-🟩
-
-A Chinese woman and a Chinese woman have been arrested in a hotel in Annhipuary, Kandy.
-
-The group was arrested during a search operation conducted in the evening yesterday (13) on information received by the Kandy police station.
-
-Earlier, 136 foreign nationals were arrested in general area Nuthanu in Naththanphath in Nupotha on the afternoon last night.
-
-According to the police, investigations are conducted in connection with the suspects who were arrested in Anwatura area yesterday.
-
-Meanwhile, 11 Chinese men and 4 Chinese women have been arrested in the Welikada policema area yesterday afternoon.
-
-The police media division states that the CID is due to be carried out by the CID regarding these incidents.
-
-◼️
-
-[Data](articles/e1482dc9.json)
-
-[Extended Data](ext_articles/e1482dc9.ext.json)
-
----
-
-### 129,989 people are affected by bad weather
-
-*2024-10-14 09:32:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோசமான-வானிலையால்-129-989-பேர்-பாதிப்பு/175-345405) · `ta`
-
-Bad weather affects 129,989 people across 12 districts. 80,529 in Gampaha/Colombo face floods, high winds, lightning. 40,231 in Colombo district also impacted.
-
-🟩
-
-The Disaster Management Center said that 129,989 people from 33,379 families have been affected by the inclement weather.
-
-Residents of Colombo, Gampaha, Kalutara, Kilinochchi, Kegalle, Ratnapura, Galle, Hambantota, Polonnaruwa, Nuwara Eliya, Kurunegala and Puttalam districts have been affected.
-
-80,529 people from 200,67 families in Gampaha and Colombo districts have been affected by disasters such as sudden floods, high winds, lightning and fell.
-
-In addition, 40,231 people from 10,904 families have been affected by the Colombo district. Remble
-
-◼️
-
-[Data](articles/42ef082e.json)
-
-[Extended Data](ext_articles/42ef082e.ext.json)
-
----
-
-### 129,989 people are affected by bad weather
-
-*2024-10-14 09:32:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/மோசமான-வானிலையால்-129-989-பேர்-பாதிப்பு/46-345405) · `ta`
-
-129,989 people affected by bad weather in Sri Lanka. Disasters hit 12 districts, mainly Gampaha and Colombo.
-
-🟩
-
-The Disaster Management Center said that 129,989 people from 33,379 families have been affected by the inclement weather.
-
-Residents of Colombo, Gampaha, Kalutara, Kilinochchi, Kegalle, Ratnapura, Galle, Hambantota, Polonnaruwa, Nuwara Eliya, Kurunegala and Puttalam districts have been affected.
-
-80,529 people from 200,67 families in Gampaha and Colombo districts have been affected by disasters such as sudden floods, high winds, lightning and fell.
-
-In addition, 40,231 people from 10,904 families have been affected by the Colombo district. Remble
-
-◼️
-
-[Data](articles/d56026d6.json)
-
-[Extended Data](ext_articles/d56026d6.ext.json)
-
----
-
-### Over 130,000 people affected by bad weather in Sri Lanka
-
-*2024-10-14 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102662/over-130000-people-affected-by-bad-weather-in-sri-lanka) · `en`
-
-The Disaster Management Center (DMC) reports that 134,484 individuals from 34,492 families in 12 districts have been affected by prevailing severe weather conditions.
-
-Additionally, three deaths have been confirmed thus far, while 6,963 people from 1,753 families are currently being sheltered in 81 relief centers, it said.
-
-◼️
-
-[Data](articles/bd2f4498.json)
-
-[Extended Data](ext_articles/bd2f4498.ext.json)
-
----
-
-### Final decision on 2024 Grade 05 Scholarship Exam expected today
-
-*2024-10-14 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102661/final-decision-on-2024-grade-05-scholarship-exam-expected-today) · `en`
-
-The final decision regarding this year’s Grade 05 Scholarship Examination, of which several questions were allegedly leaked, is scheduled to be announced today (14).
-
-Accordingly, the Commissioner General of Examinations will hold a special press conference this morning to make an announcement on the matter.
-
-However, reports suggest that the scholarship examination will not be re-conducted.
-
-It is stated that this decision was made following investigations, which revealed that only three questions had been leaked.
-
-Meanwhile, the evaluation of answer sheets, which had been temporarily suspended, is expected to commence immediately.
-
-Several committees were appointed to investigate the scholarship examination, and their final conclusion was that only three questions had been leaked prior to the exam.
-
-The Criminal Investigation Department (CID) had also launched a separate investigation into the question paper leak.
-
-...
-
-[Data](articles/73fb083b.json)
-
-[Extended Data](ext_articles/73fb083b.ext.json)
-
----
-
-### The final decision on the scholarship examination today
-
-*2024-10-14 09:09:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-தொடர்பில்-இன்று-இறுதித்-தீர்மானம்/175-345404) · `ta`
-
-Scholarship exam results announced today. Commissioner General holds press conference. Suspended answer sheets to be released soon. Only 3 out of many questions investigated so far.
-
-🟩
-
-The final decision on the fifth grade scholarship examination will be announced today (14).
-
-Accordingly, the Commissioner General of Examinations will hold a special press conference this morning.
-
-It is reported that the current suspended answer sheet is to be started immediately.
-
-The final decision of the Inquiry Committees is that several committees have been appointed to investigate the scholarship examination and only three questions have been revealed before the examination.
-
-◼️
-
-[Data](articles/c09170cc.json)
-
-[Extended Data](ext_articles/c09170cc.ext.json)
 
 ---

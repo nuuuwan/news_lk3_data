@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 11:11:09**
+As of **2024-10-14 11:23:16**
 
 ## Newspaper Stats
 
-*Scraped **49,376** Articles*
+*Scraped **49,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,832
 tamilmirrorlk | 6,736
 virakesarilk | 7,906
-adaderanasinhalalk | 8,542
+adaderanasinhalalk | 8,544
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,376 (100.0%) of 49,376 articles have been extended.
+49,378 (100.0%) of 49,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Army is a special operation to save the victims
+
+*2024-10-14 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202145) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Army deploys troops in adverse weather to rescue island victims. Additional soldiers sent to flood-affected areas. More troops ordered to expand relief efforts. Today, forces dispatched to Meethotamulla with vehicles and boats."
+
+🟩
+
+In adversely weather conditions that have been affected by the island, additional soldiers have been deployed to liberate the people who were affected by rivers.
+
+The Commander of the Army has been instructed to deploy more troops, further expanding their relief work.
+
+Accordingly, troops have been deployed today (14) for rent services to the following location.
+
+Meethotamulla, two army groups (with four uni-buffels)
+
+WMZel vessels and 34 unicorn vehicles and 56 boats, in addition to the dear in Colombo, Kalutara, Matara, Hambantota, Hambantota, Gampaha and Puttalam districts.The military said.
+
+◼️
+
+[Data](articles/3cb390f7.json)
+
+[Extended Data](ext_articles/3cb390f7.ext.json)
+
+---
+
+### The increased fertilizer subsidy from today
+
+*2024-10-14 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202144) · `si`
+
+Increased fertilizer subsidy implemented today. Minister Vijitha Herath announces Rs. 15,000 payment for farmers in Ampara, Polonnaruwa, Anuradhapura, and Mahaweli Zone.
+
+🟩
+
+Minister Vijitha Herath says that the provision of the increased fertilizer subsidy will be implemented this morning (14).
+
+Accordingly, the first phase will be paid Rs. 15,000 and Rs.
+
+The Minister said that the fertilizer subsidy was started in the Ampara District and subsequently to the farmers including Polonnaruwa, Anuradhapura and Mahaweli Zone.
+
+◼️
+
+[Data](articles/06b3da91.json)
+
+[Extended Data](ext_articles/06b3da91.ext.json)
+
+---
 
 ### Exchange compass> cylinder does not accept me
 
@@ -2299,47 +2351,5 @@ Mahela Jayawardene won the Championship on three occasions as the Chief Coach.
 [Data](articles/a919eea1.json)
 
 [Extended Data](ext_articles/a919eea1.ext.json)
-
----
-
-### Schools closed in three Western Province
-
-*2024-10-13 18:47:00* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-අධ්‍යාපන-කොට්ඨාස-තුනක-පාසල්-හෙට-වැසෙයි/11-412467) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Colombo, Gampaha, and Wattala districts' schools closed due to bad weather. All educational institutions in these areas will remain shut tomorrow."
-
-🟩
-
-The education officials have taken steps to close several schools in Colombo and Gampaha districts due to the inclement weather.
-
-All schools in the Colombo District and all schools in the Gampaha District and all schools in the Wattala University of Gampaha District will be closed tomorrow.
-
-◼️
-
-[Data](articles/aa630507.json)
-
-[Extended Data](ext_articles/aa630507.ext.json)
-
----
-
-### Who's going to be unbeaten?
-
-*2024-10-13 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196185) · `ta`
-
-Sumanthiran's presidential campaign could impact the outcome of the parliamentary election, potentially leading to unexpected results. His performance may influence voter decisions and sway the final tally.
-
-🟩
-
-Sumanthiran's game in the presidential election may make any twists at the end of the parliamentary election.
-
-◼️
-
-[Data](articles/743e382f.json)
-
-[Extended Data](ext_articles/743e382f.ext.json)
 
 ---

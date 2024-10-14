@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 12:39:08**
+As of **2024-10-14 12:58:58**
 
 ## Newspaper Stats
 
-*Scraped **49,402** Articles*
+*Scraped **49,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,136 @@ economynextcom | 3,026
 dailyftlk | 3,346
 adalk | 4,581
 dailymirrorlk | 4,733
-adaderanalk | 5,838
-tamilmirrorlk | 6,743
+adaderanalk | 5,839
+tamilmirrorlk | 6,745
 virakesarilk | 7,908
-adaderanasinhalalk | 8,545
+adaderanasinhalalk | 8,548
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,400 (100.0%) of 49,402 articles have been extended.
+49,407 (100.0%) of 49,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Arjun Aloysius and two others sentenced for Rs. 3.5b VAT evasion
+
+*2024-10-14 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102673/arjun-aloysius-and-two-others-sentenced-for-rs-35b-vat-evasion) · `en`
+
+The Colombo Magistrate’s Court has sentenced the Director of W.M. Mendis Distilleries, Arjun Aloysius and two others to 06 months in prison for defaulting the payment of Rs. 3.5 billion in Value Added Tax (VAT) by the company.
+
+The relevant case was filed against the company by the Inland Revenue Department (IRD) for defaulting the payment of Rs. 3.5 billion in taxes owed to the government during the period from 2016 to 2019, Ada Derana reporter said.
+
+The case was taken up before Colombo Additional Magistrate Bandara Ilangasinghe this morning (14).
+
+On November 14, 2023, the court had ordered the accused to complete the due payments. The imprisonment was imposed over failure to complete the relevant payments as per the court order.
+
+◼️
+
+[Data](articles/5772fae5.json)
+
+[Extended Data](ext_articles/5772fae5.ext.json)
+
+---
+
+### Deposit
+
+*2024-10-14 12:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிவாரணக்-குழுக்கள்-அனுப்பி-வைப்பு/175-345424) · `ta`
+
+Sri Lanka Navy sends 8 flood relief committees to assist DMC in Gampaha, Colombo, Puttalam. Rivers flooded due to heavy rains. Navy groups rescue victims, supply food, provide boat transport. Total 48 groups from 3 naval commands.
+
+🟩
+
+Eight flood relief committees of the Sri Lanka Navy have been sent to work with the Disaster Management Center (DMC) to assist the victims of Gampaha, Colombo and Puttalam districts.
+
+Due to heavy rains, the rivers of Kaluganga, Kelaniya Ganga, Attanagalu Oya and Thethuru Oya have been flooded in many parts of Gampaha, Colombo and Puttalam districts.
+
+Against this backdrop, Navy Flood Relief Groups are involved in the Kaduwela, Mapima, Navagamuwa, Ihalakama, Ja-Ela and Nattandiya and the groups are functioning in full swing to provide assistance to the victims.
+
+Relief groups are actively carrying out activities such as providing safe transport by boats to help flood victims, supplying cooked food and dry foods to 4,876 people, and rescuing three people in danger of drowning.
+
+A total of 48 groups are prepared by 22 relief committees in the Western Naval Command, 9 groups in the Southern Naval Command and 17 groups in the Northwest Navy Command.
+
+◼️
+
+[Data](articles/3f6a4c50.json)
+
+[Extended Data](ext_articles/3f6a4c50.ext.json)
+
+---
+
+### Factory explosion - A group killed
+
+*2024-10-14 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202149) · `si`
+
+Factory explosion kills one, injures four in Sri Lanka's Badalgama, Divulapitiya. Boiler explosion causes accident.
+
+🟩
+
+An employee was killed in explosion in a factory in Badalgama, Divulapitiya.
+
+The accident had occurred when a boiler explosion in the factory exploded.
+
+Four other employees of the factory were injured in hospitals, Akaragama and Divulapitiya.
+
+◼️
+
+[Data](articles/a57ae62f.json)
+
+[Extended Data](ext_articles/a57ae62f.ext.json)
+
+---
+
+### Time fraud: trio prison
+
+*2024-10-14 12:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வற்-மோசடி-மூவருக்கு-சிறை/175-345423) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Colombo Additional Magistrate Bandara Ilangasinghe sentenced to 6 months for unpaid Rs 355 crore debt.
+
+🟩
+
+Colombo Additional Magistrate Bandara Ilangasinghe, who has been sentenced to 6 months in prison for failing to pay Rs 355 crore worth of Rs 355 crore to the government.. Has judged.
+
+◼️
+
+[Data](articles/7c5ef939.json)
+
+[Extended Data](ext_articles/7c5ef939.ext.json)
+
+---
+
+### Arjun Alleshiz, including three, were imprisoned
+
+*2024-10-14 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202148) · `si`
+
+Arjun Alleshiz and three others imprisoned for VAT default. Mendis Director Arjun Allogue sentenced six months. Case filed by Department of Inland Revenue for unpaid Rs. 3.5 billion VAT from 2016 to 2019. Court ordered payment November 14 last year. Colombo Additional Magistrate Bandara today issued verdict against respondents for unpaid taxes.
+
+🟩
+
+WM over the default incident of the VAT. The Director of the Mendis Director Arjun Allogue, including Arjun Allogue, has been sentenced to six months in prison.
+
+The case had been filed by the Department of Inland Revenue against the default of paying Rs. 3.5 billion VAT to the government from 2016 to 2019.
+
+The court issued an order on November 14 last year to pay the taxes on the tax.
+
+The case was called before Colombo Additional Magistrate Bandara Magistrate today (14).
+
+The judiciary sentenced the respondents against the respondents as the payment of payments were not paid.
+
+◼️
+
+[Data](articles/296a0975.json)
+
+[Extended Data](ext_articles/296a0975.ext.json)
+
+---
 
 ### 31 Chinese citizens arrested for involvement in ecommerce fraud
 
@@ -62,6 +178,32 @@ Meanwhile, 15 Chinese citizens who were suspiciously staying in a series of resi
 
 ---
 
+### Indian politician killed
+
+*2024-10-14 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202147) · `si`
+
+Indian politician Baba killed near son's office. Two suspects arrested. Murder linked to upcoming state elections. Former local minister switched parties recently.
+
+🟩
+
+Foreign media reports that a leading politician in India has shot dead.
+
+Baba, a politician associated with the Bharatiya People's Party, was shot dead near his son's political office.
+
+Two suspects have been arrested in connection with the 66-year-old murder.
+
+A leading politician of Sidik Maharashtra, a former local minister. The state elections will be held next month.
+
+In February, he left the main opposition party, the chief opposition, and joined the National Congress Party.
+
+◼️
+
+[Data](articles/27f0c317.json)
+
+[Extended Data](ext_articles/27f0c317.ext.json)
+
+---
+
 ### Army and Navy intensify flood relief efforts across 8 districts as rivers overflow
 
 *2024-10-14 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102670/army-and-navy-intensify-flood-relief-efforts-across-8-districts-as-rivers-overflow) · `en`
@@ -83,6 +225,56 @@ The army remains on high alert as floodwaters continue to rise, with further mea
 [Data](articles/ef539bae.json)
 
 [Extended Data](ext_articles/ef539bae.ext.json)
+
+---
+
+### I OPPOSE THE PRIME MINISTER, THE MINISTER OF PLANNING AND THE MINISTER OF AGRICULTURE
+
+*2024-10-14 11:52:00* · [`islandlk`](http://island.lk/i-oppose-the-prime-minister-the-minister-of-planning-and-the-minister-of-agriculture/) · `en`
+
+(Excerpted from Falling leaves, an autobiographical memoir of LC Arulpragasam)
+
+I had no place to go, because I was wedded to the agriculture sector – by my own choosing. Therefore, I was lucky to find a berth as Head of the Agriculture Sector in the Department of National Planning. But I had to pay a career-price for doing this, because it involved my working under a non-civil servant and under someone whom I outranked in the Civil List – which was simply not done in those days.
+
+...
+
+[Data](articles/16900968.json)
+
+[Extended Data](ext_articles/16900968.ext.json)
+
+---
+
+### We deserve a bright future
+
+*2024-10-14 11:48:00* · [`islandlk`](http://island.lk/we-deserve-a-bright-future/) · `en`
+
+Anura Kumara Dissanayake , though not securing a 50%+1 vote, won the recently concluded presidential election and has become the ninth executive president of the country. In this election as in the previous one, the vote of the Tamil people went to the unsuccessful candidates.
+
+AKD did not win in any of the Tamils dominated districts. There are many comments and criticisms on this issue in especially the social media. These commentators often do not have deep understanding of politics and express knee jerk reactions towards this sensitive issue.
+
+...
+
+[Data](articles/a88f0efa.json)
+
+[Extended Data](ext_articles/a88f0efa.ext.json)
+
+---
+
+### The 1956 election landslide and SWRD Bandaranaike’s tenure (1956 — 1959)
+
+*2024-10-14 11:46:00* · [`islandlk`](http://island.lk/the-1956-election-landslide-and-swrd-bandaranaikes-tenure-1956-1959/) · `en`
+
+(Excerpted from Rendering Unto Caesar, memoirs of  Bradman Weerakoon)
+
+My acquaintance with S W R D Bandaranaike was only through the press reports of his election campaign. That was before he came to the prime minister’s office in the Fort (now housing the foreign ministry at Republic Square), on an April morning, after the swearing in of his Cabinet at Queen’s House. His eloquence as a speaker, especially his Independence Day speech in 1948, was deeply imprinted in my mind.
+
+Throughout a gruelling campaign he had shown extraordinary skills of perseverance in the face of severe odds, and the ability to persuade large masses of ordinary people to believe in his cause. I wondered how he would be to work with after I had experienced the rather easy going style of Sir John. There was also the serious business to be faced of how soon he would be able to make his election slogan of `Sinhala Only’ as the official language in 24 hours come true?
+
+...
+
+[Data](articles/3d931436.json)
+
+[Extended Data](ext_articles/3d931436.ext.json)
 
 ---
 
@@ -113,6 +305,24 @@ The government of Sri Lankan president Anura Kumara Dissanayake has pledged soli
 ...
 
 [Data](articles/35614fd9.json)
+
+[Extended Data](ext_articles/35614fd9.ext.json)
+
+---
+
+### The Wrath of a Nation
+
+*2024-10-14 11:43:00* · [`islandlk`](http://island.lk/the-wrath-of-a-nation/) · `en`
+
+The wrath of a nation can be a fearful thing. In 2022 we saw its evolution and culmination in our own “Aragalaya“, which sent the then president, a so called “battle hardened” war veteran and “warrior-statesman”, first in to exile and then to precipitate retirement.
+
+We saw it again, just a couple of weeks ago, in the election of Sri Lanka’s ninth executive president, a villager from deeply rural Tambuttegama, the son of a surveyor’s assistant. That he was the first student from Tambuttegama Central College to gain university entrance, is another factor which attests to the absence of privilege and personal resources. His election is also an extension of the “Aragalaya”, and a logical evolution of that movement, but without the drama and histrionics and, instead, that energy, that anger, legitimately channeled in to a quiet civic purpose.
+
+...
+
+[Data](articles/1fd26e13.json)
+
+[Extended Data](ext_articles/1fd26e13.ext.json)
 
 ---
 
@@ -164,6 +374,20 @@ In April 1954, Sir John Kotelawala, Prime Minister of Ceylon, invited the Prime 
 
 ---
 
+### Understanding Russia’s Perspective: My Talk with Ambassador Levan S. Dzhagaryan
+
+*2024-10-14 11:37:00* · [`islandlk`](http://island.lk/understanding-russias-perspective-my-talk-with-ambassador-levan-s-dzhagaryan/) · `en`
+
+In this engaging and thought-provoking interview with Levan S. Dzhagaryan, the Russian Ambassador to Sri Lanka and the Republic of Maldives, the seasoned diplomat shared his country’s perspectives on recent political developments in Sri Lanka and the intricate geopolitical dynamics surrounding the situation in Ukraine. With a diplomatic career spanning decades, Dzhagaryan’s insights reveal the nuanced layers of Russia’s foreign policy and its implications for global relations.
+
+...
+
+[Data](articles/a4fef8e9.json)
+
+[Extended Data](ext_articles/a4fef8e9.ext.json)
+
+---
+
 ### 2024 General Election: EC to decide on candidates’ spending limit tomorrow
 
 *2024-10-14 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102669/2024-general-election-ec-to-decide-on-candidates-spending-limit-tomorrow) · `en`
@@ -186,7 +410,7 @@ Apart from this, future activities related to the election will also be discusse
 
 ---
 
-### Govt. ready to reconsider Adani wind power project, AG tells court
+### Sri Lanka’s govt. to reconsider Adani wind power project, AG tells court
 
 *2024-10-14 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102668/sri-lankas-govt-to-reconsider-adani-wind-power-project-ag-tells-court) · `en`
 
@@ -194,7 +418,7 @@ The Attorney General (AG) has informed the Supreme Court that the Cabinet of Min
 
 The AG communicated this to the court when the Fundamental Rights (FR) petitions filed seeking an order to invalidate the Cabinet approval granted for India’s Adani Green Energy for a wind power project in Wedithalathivu, Mannar was taken up this morning (14).
 
-On August 02, the Supreme Court fixed for consideration the five Fundamental Rights petitions filed by five parties including the Centre for Environmental Justice against the Adani’s wind power project, arguing that the proposed wind farm poses significant threats to ecological biodiversity and the safety of migratory birds.
+Accordingly, Deputy Solicitor General Avanthi Perera, who appeared on behalf of the AG, informed the court that the Cabinet of Ministers has decided to reconsider the facts related to the matter on November 07, 2024, and make a decision regarding the further continuation of the project.
 
 ...
 
@@ -2059,273 +2283,5 @@ Brendhan Kink scored 63 runs off 33 balls with 63 runs in 28 balls.
 [Data](articles/fab11e0e.json)
 
 [Extended Data](ext_articles/fab11e0e.ext.json)
-
----
-
-### A profit from the North is confirmed with President
-
-*2024-10-13 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202133) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake discusses post-election plans, emphasizing the need for strong political power beyond parliamentary seats. He mentions meeting a northern political leader who expressed willingness to collaborate after the upcoming election.
-
-🟩
-
-President Anura Kumara Dissanayake said that he was preparing to work with the national community after the next general election.
-
-The President made this observation at a candidate in the National Power in Talawatugoda today.
-
-"We are traveling in a transit to the acquisition of strong political power.  සමහර තීන්දු තීරණ සමහර ක්‍රියාකාරිත්වයන් සඳහා මීට වඩා ප්‍රබල දේශපාලන බලයක් අපට අවශ්‍යයි.
-
-Mahinda Rajapaksa received 2/3 power in Parliament in 2010. They were defeated after 5 years. Gotabhaya received 2 / 3rd in 2020. However, the Season 2/3 of Parliament went to the Parliament. The president had to go home.
-
-Therefore, strong power is not just the amount of cosmetic in Parliament.
-
-We met a major political leader in the North.  ඔහු කිව්වා එළැඹෙන මහ මැතිවරණයෙන් පසුව ඔහුගේ කණ්ඩායම ජාතික ජන බලවේගය සමග වැඩකරන්න කැමතියි කියලා. And if they did not work with us, the people of the North were ready to work with us. "
-
-◼️
-
-[Data](articles/36d1e93d.json)
-
-[Extended Data](ext_articles/36d1e93d.ext.json)
-
----
-
-### Meeting vehicles without ownership
-
-*2024-10-13 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202132) · `si`
-
-Suspended vehicles seized: Nuwara Eliya police took a jeep from a former minister's home. Pelmadulla police found two vehicles in a garage. Opayaka police seized a luxury jeep not registered with the Department of Motor Traffic. Investigations ongoing.
-
-🟩
-
-Nuwara Eliya Police have taken a suspicious jeep that was parked at a house in Nuwara Eliya.
-
-The police said that the house of a former Cabinet minister had parked the vehicle at the time of the relative.
-
-Meanwhile, the Pelmadulla Police have taken a jeep and car in a garage in the Padezzarage area.
-
-Police have suspected that the vehicles were a politician in the Hambantota district and police are conducting further investigations.
-
-A luxury jeep that parked in a house in the Napanayake Pallekanda School Road, a luxury jeep in the Talacketiya area was taken by the Opayaka police on information received at the 1997 telephone number.
-
-The police said that the vehicle related to its chassis number has not been registered with the Department of Motor Traffic.
-
-◼️
-
-[Data](articles/d03cdd09.json)
-
-[Extended Data](ext_articles/d03cdd09.ext.json)
-
----
-
-### Recognition as a suicide railway accident of the Katukurunge
-
-*2024-10-13 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202131) · `si`
-
-Train accident at Katukurunda Railway Station: 21-year-old suspected suicide victim collides with train after neighbor tries to intervene. Two elderly people die instantly; child survives. Police investigation reveals deceased was drug addict with mental health issues.
-
-🟩
-
-The police have revealed that the train accident was a result of suicide yesterday (12) at the Katukurunda Railway Station in Kalutara yesterday.
-
-Police suspect the 21 year old man who died of the incident was also taken to the train, and the neighboring person collided with the train when trying to prevent it.
-
-The 21-year-old Youth Asanka, who was the Nagoda, was the 49 year old infant.
-
-The deceased is Asanka has arrived at the railway station, who had come to the house to the residents that the train had been committing suicide and was Roshan Janaka soon.
-
-While he was staying on the train platform with Asanka, he tried to remove them, but said that all three collided with the train.
-
-The two older people died on the spot while the child was killed in admission to the Nagoda hospital in Kalutara.
-
-Investigations of the Kalutara Police have revealed that the dead 21 year old is a drug addict and the wife is a mental disorder.
-
-...
-
-[Data](articles/41aec33e.json)
-
-[Extended Data](ext_articles/41aec33e.ext.json)
-
----
-
-### National Production for Derana 19th Anniversary
-
-*2024-10-13 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202130) · `si`
-
-Derana 19th anniversary blood donation drive launched. TV broadcast nationwide. Focus on children/young adults needing blood transfusions. Registration hotline: 0115 300 700. Celebrity support from cricket legend Muttiah Muralitharan. Visit www.praana.lk to donate.
-
-🟩
-
-The National Program for Donating the blood cells organized by the Derana 19th anniversary commenced today (13).
-
-Television broadcasting of nationwide was brought through TV Derana and today Ada Derana.
-
-Sri Lanka is diagnosed with Sri Lanka a day.
-
-The majority of these patients are children or young adults, and the only treatment they can recover is the blood transplantation, or atom.
-
-However, removing the obstacles and the official document of blood generating donors began today and we were working with the Derana 19th anniversary.
-
-Accordingly, the Ministry of Health will commence the National Blood Transfer Service, Specialist Ministry and Manusan's College Auditors and Manushara, Specialist Doctors' Collection and Manusha Derana.Happened.
-
-Accordingly, blood generated cells were given the opportunity to register by 0115 300 700 to register 0115 300 700.
-
-Meanwhile, veteran cricketers Rosmadda Vaas also joined hands with this program.
-
-...
-
-[Data](articles/b99dad7e.json)
-
-[Extended Data](ext_articles/b99dad7e.ext.json)
-
----
-
-### Cinnamon Air to launch cross-country domestic flights in Sri Lanka
-
-*2024-10-13 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102658/cinnamon-air-to-launch-cross-country-domestic-flights-in-sri-lanka-) · `en`
-
-Sri Lankan domestic airline Cinnamon Air has recently announced the launch of two new daily scheduled flights connecting Kandy and Sigiriya with South Coast destinations Koggala and Hambantota.
-
-These flights are set to commence on November 01, 2024 and will operate until April 30, 2025.
-
-The flights are strategically timed to cater to the influx of foreign travellers during the winter holiday season.
-
-These cross-country flights are designed to enhance convenience and reduce travel time while ensuring an unparalleled experience for those who wish to explore Sri Lanka’s South Coast after visiting the Cultural Triangle or the Central Hill Country.
-
-The routes are serviced by Cinnamon Air’s fleet of Cessna 208 aircraft, and the route from Kandy to the South coast is served by the amphibian variation, offering a unique travel experience involving taking off on water.
-
-◼️
-
-[Data](articles/fcc4727f.json)
-
-[Extended Data](ext_articles/fcc4727f.ext.json)
-
----
-
-### Where have our ethics gone?
-
-*2024-10-13 21:57:00* · [`islandlk`](http://island.lk/where-have-our-ethics-gone/) · `en`
-
-“A man without ethics is a wild beast let loose upon this world.”– Albert Camus –
-
-(Address to the Ceylon College of Physicians, 19 September, 2024, Colombo, Sri Lanka)
-
-You might wonder why a scholar would opt to ask a question as seemingly banal and commonsensical as ‘where have our ethics gone’ when you, as the Ceylon College of Physicians, and others, are here to deliberate on your own intellectual, research and policy quests focused on the theme, ‘Diversity, Inclusivity and Equity.’ When I was asked to speak at this event, I was, at the same time, impacted by a serious personal crisis.
-
-...
-
-[Data](articles/004709aa.json)
-
-[Extended Data](ext_articles/004709aa.ext.json)
-
----
-
-### 180 runs in Sri Lanka
-
-*2024-10-13 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202129) · `si`
-
-Sri Lanka cricket match summary: 180 runs scored, 7 wickets lost, 59 runs from opener, 39 runs in last 4 overs, West Indies bowler takes 2 wickets.
-
-🟩
-
-Sri Lanka and Buddhism. Sri Lanka scored 179 runs for the loss of 7 wickets in their 20 overs.
-
-Sri Lanka's innings scored 59 off 35 balls, with 51 runs.
-
-Romeo Zerved took 2 wickets for West Indies. However, Sri Lankan batsmen scored 39 runs for the 4th four overs.
-
-◼️
-
-[Data](articles/23fd56e9.json)
-
-[Extended Data](ext_articles/23fd56e9.ext.json)
-
----
-
-### Jayawardene returns as Mumbai Indians head coach ahead of IPL 2025
-
-*2024-10-13 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102657/jayawardene-returns-as-mumbai-indians-head-coach-ahead-of-ipl-2025) · `en`
-
-Mahela Jayawardene has been re-appointed as the head coach of the Mumbai Indians after spending the last two years as the franchise’s global head of cricket, the Indian Premier League (IPL) team said on Sunday.
-
-The former Sri Lanka captain has been one of the most successful coaches in the Twenty20 league format, having guided the five times IPL champions to three titles during his initial tenure.
-
-Jayawardene, 47, previously held the head coach role from 2017 to 2022. After Jayawardene’s promotion to the global role, Mumbai Indians had appointed former South Africa wicketkeeper Mark Boucher as head coach.
-
-The franchise finished last in the IPL in 2024 and fourth in 2023 with Boucher at the helm.
-
-...
-
-[Data](articles/1bfd6b80.json)
-
-[Extended Data](ext_articles/1bfd6b80.ext.json)
-
----
-
-### Another telephone candidate quit
-
-*2024-10-13 20:44:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-டெலிபோன்-வேட்பாளர்-விலகினார்/175-345397) · `ta`
-
-Karunaratne Paranavithana quits election campaign, appeals against voting. Former parliamentarian withdraws as United People's Shakti Ratnapura district candidate.
-
-🟩
-
-Former parliamentarian Karunaratne Paranavithana, the United People's Shakti Ratnapura district candidate, has also withdrawn from the general election campaign.
-
-He has also appealed to the people not to vote for the election.
-
-◼️
-
-[Data](articles/962a3820.json)
-
-[Extended Data](ext_articles/962a3820.ext.json)
-
----
-
-### Three people die of inclement weather
-
-*2024-10-13 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202128) · `si`
-
-Three deaths reported due to inclement weather. Disaster Management Center states 118,032 people affected across 14 divisions. Navy and Army providing relief services. Floods ongoing in Kelaniya, Colombo Districts. Irrigation Department warns of continued flooding risks.
-
-🟩
-
-The body of a victim was found in the Kelaniya junction in the Kelaniya Junction area today (13).
-
-According to the Disaster Management Center (DMC) stated that three have died in the face of adverse weather conditions since the 7th.
-
-The Disaster Management Center (DMC) said that 118,032 persons belonging to 29,980 persons belonging to 29,980 families in 14 Divisional Secretariat Divisions in the districts have been affected by the DMC.
-
-Navy and Army Disaster Relief Operations continue to redeem flood victims and to provide disaster relief services.
-
-Meanwhile, 70.2 millrice was reported from the Colombo District of Colombo District.
-
-According to the weather forecast, there is a decrease in a rainy decrease in relation to the previous days, but there are still floods in many areas due to overflowing several major rivers.
-
-According to the Irrigation Department reports, Kelani Ganga is still in small floods from the Drainage of the Hanwella Drainage, which was in the Hanwella dramstage.
-
-...
-
-[Data](articles/af55482a.json)
-
-[Extended Data](ext_articles/af55482a.ext.json)
-
----
-
-### IPS’s SOE 2024: Manual Of Growth Strategies For AKD
-
-*2024-10-13 20:07:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ipss-soe-2024-manual-of-growth-strategies-for-akd/) · `en`
-
-Sri Lanka’s State of the Economy for 2024, known as SOE 24, has been released by the Institute of Policy Studies or IPS in early October 2024. This is an early bird because it is the first comprehensive analysis of the state of the economy. The other two documents on the economy, the Central Bank’s Annual Economic Review and the Finance Ministry’s Annual Report are to be released in the early part of the next year. Hence, for anyone to learn of the current state of the economy and its future direction, this is the best document available.
-
-...
-
-[Data](articles/287ae52a.json)
-
-[Extended Data](ext_articles/287ae52a.ext.json)
 
 ---

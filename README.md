@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 22:39:05**
+As of **2024-10-14 22:58:05**
 
 ## Newspaper Stats
 
-*Scraped **49,495** Articles*
+*Scraped **49,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,031
 dailyftlk | 3,346
 adalk | 4,596
 dailymirrorlk | 4,733
-adaderanalk | 5,856
+adaderanalk | 5,857
 tamilmirrorlk | 6,760
 virakesarilk | 7,919
 adaderanasinhalalk | 8,569
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,493 (100.0%) of 49,495 articles have been extended.
+49,496 (100.0%) of 49,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### India withdraws Canada envoy named in probe, expels diplomats
+
+*2024-10-14 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102692/india-withdraws-canada-envoy-named-in-probe-expels-diplomats) · `en`
+
+India ordered the expulsion of six Canadian diplomats on Monday and withdrew its own envoy from Canada, in response to what it said was Ottawa’s decision to name him and others as “persons of interest” in an investigation.
+
+India did not go into detail on the investigation, but relations have been fraught since 2023, when Canadian Prime Minister Justin Trudeau said he had evidence linking Indian agents to the assassination of a Sikh separatist leader on his territory.
+
+India has long denied Trudeau’s accusation. On Monday it dismissed Canada’s move on the inquiry and accused Trudeau of pursuing a “political agenda”.
+
+“We have no faith in the current Canadian Government’s commitment to ensure their security.
+
+Therefore, the Government of India has decided to withdraw the High Commissioner and other targeted diplomats and officials,” India’s foreign ministry said in a statement.
+
+It later said it had asked the six Canadian diplomats to leave by Saturday.
+
+...
+
+[Data](articles/3b4e3e96.json)
+
+[Extended Data](ext_articles/3b4e3e96.ext.json)
+
+---
 
 ### A statement on several schools closed in the Southern Province
 
@@ -312,21 +336,31 @@ The Irrigation Department said that a decrease in the flood risk of flood risk i
 
 ---
 
-### මාලිමාවට සහාය දෙන බව පොහොට්ටුවේ සාගල කියයි
+### Sagala in Poveth that supports the compass
 
 *2024-10-14 19:45:09* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවට-සහාය-දෙන-බව-පොහොට්ටුවේ-සාගල-කියයි/11-412492) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka Podujana Peramuna leader Sagala Kariyawasam says his party will support the Malimba government's development efforts without any opposition. He emphasizes the importance of national unity and economic growth for the country's future.
+
+🟩
 
 ජනතා විමුක්ති පෙරමුණ ප්‍රමුඛ මාලිමා රජයක් විසින් සිදුකරනු ලබන සංවර්ධන කටයුතු සඳහා පක්ෂයක් ලෙස ඉදිරියේදී උපරිම සහාය ලබාදෙන බව ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි ප්‍රධාන ලේකම් සාගර කාරියවසම් මහතා පැවසීය.
 
 ඔහු සඳහන් කර සිටියේ පක්ෂයක් ලෙස කිසිදු ආකාරයකින් එම ගමනේ කකුලෙන් ඇදීමක් සිදු නොකරන බවයි.
 
-බත්තරමුල්ල, නෙළුම් මාවතෙහි පිහිටි ශ්‍රී ලංකා පොදුජන පෙරමුණු මූලස්ථානයේදී ඊයේ (14දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් මේ බව කී ප්‍රධාන ලෙකම්වරයා එහිදී වැඩිදුරටත් අදහස් දක්වමින් මෙසේද කීය.
+Speaking at a media briefing held at the Sri Lanka Civil War Headquarters in Nelum Mawatha, Battaramulla yesterday, said:
 
-“ඒ කොවිඩ් වසංගතයට මුහුණදීමේදී අපි ආර්ථිකය අමතක කරලා ජනතාවගේ ජිවිත ගැන හිතලා කටයුතු කිරීමෙන් පක්ෂයක් හැටියට, ආණ්ඩුවක් හැටියට වරදක් කළා. ඒ වරදට ජනතාව අපිට මේ වන විට යම්කිසි උත්තරයක් දීලා තිබෙනවා. අපි ඒ ජනතාවගේ තීන්දුව ඉතාම නිහතමානීව, ගෞරවාන්විතව පිළිගන්නවා පක්ෂයක් විදිහට. මේ රටේ අවංකව හිතන , මේ රටේ ජාතිකත්වය හිතන එකම පක්ෂය හැටියට ඉතුරුවෙලා තිබෙන්නේ ශ්‍රී ලංකා පොදුජන පෙරමුණයි. ඒ තීන්දුව පිළිගන්න ගමන්ම අපි අලුත් වැඩපිළිවෙළක් ඉදිරිපත් කරනවා අවංකව මේ රටේ අනාගතය වෙනුවෙන්.
+"When we forget the economy during the Covenan, we made a mistake as a government to forget the lives of the people.. ඒ වරදට ජනතාව අපිට මේ වන විට යම්කිසි උත්තරයක් දීලා තිබෙනවා. අපි ඒ ජනතාවගේ තීන්දුව ඉතාම නිහතමානීව, ගෞරවාන්විතව පිළිගන්නවා පක්ෂයක් විදිහට. මේ රටේ අවංකව හිතන , මේ රටේ ජාතිකත්වය හිතන එකම පක්ෂය හැටියට ඉතුරුවෙලා තිබෙන්නේ ශ්‍රී ලංකා පොදුජන පෙරමුණයි. As we accept the decision, we are presented a new program for the future of this country.
 
 ...
 
 [Data](articles/4e896c40.json)
+
+[Extended Data](ext_articles/4e896c40.ext.json)
 
 ---
 
@@ -378,6 +412,10 @@ The company has issued a statement made by the SriLankan Airlines a key role in 
 
 *2024-10-14 19:29:59* · [`adalk`](https://www.ada.lk/breaking_news/පොතුවිල්-මූලික-රෝහල-රජයට-පවරා-ගනියි/11-412491) · `si`
 
+Pothuwil Primary Hospital handed over to government. Health Ministry Deputy Minister Dr. Palitha Mahipala announced decision to expand patient care services under provincial council approval and cooperation. Two new buildings to be completed within two months, including emergency unit, operating theater, and other facilities.
+
+🟩
+
 පොතුවිල් මූලික රෝහල මධ්‍යම රජයට පවරා ගනිමින් රෝගී ප්‍රතිකාර සේවා පුළුල් කිරීමට තීරණය කර ඇතැයි සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්, විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා ප්‍රකාශ කළේය.
 
 ඔහු සඳහන් කර සිටියේ පළාත් සභාවේ අනුමැතිය හා සහයෝගය යටතේ අදාළ කටයුතු සිදු කරන බවයි.
@@ -387,6 +425,8 @@ The company has issued a statement made by the SriLankan Airlines a key role in 
 ◼️
 
 [Data](articles/abb80ea1.json)
+
+[Extended Data](ext_articles/abb80ea1.ext.json)
 
 ---
 
@@ -2381,19 +2421,5 @@ In April 1954, Sir John Kotelawala, Prime Minister of Ceylon, invited the Prime 
 [Data](articles/8b1f989b.json)
 
 [Extended Data](ext_articles/8b1f989b.ext.json)
-
----
-
-### Understanding Russia’s Perspective: My Talk with Ambassador Levan S. Dzhagaryan
-
-*2024-10-14 11:37:00* · [`islandlk`](http://island.lk/understanding-russias-perspective-my-talk-with-ambassador-levan-s-dzhagaryan/) · `en`
-
-In this engaging and thought-provoking interview with Levan S. Dzhagaryan, the Russian Ambassador to Sri Lanka and the Republic of Maldives, the seasoned diplomat shared his country’s perspectives on recent political developments in Sri Lanka and the intricate geopolitical dynamics surrounding the situation in Ukraine. With a diplomatic career spanning decades, Dzhagaryan’s insights reveal the nuanced layers of Russia’s foreign policy and its implications for global relations.
-
-...
-
-[Data](articles/a4fef8e9.json)
-
-[Extended Data](ext_articles/a4fef8e9.ext.json)
 
 ---

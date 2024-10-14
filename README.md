@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 11:59:18**
+As of **2024-10-14 12:14:30**
 
 ## Newspaper Stats
 
-*Scraped **49,394** Articles*
+*Scraped **49,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 3,026
 dailyftlk | 3,346
 adalk | 4,580
 dailymirrorlk | 4,733
-adaderanalk | 5,836
+adaderanalk | 5,837
 tamilmirrorlk | 6,743
 virakesarilk | 7,907
-adaderanasinhalalk | 8,544
+adaderanasinhalalk | 8,545
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,392 (100.0%) of 49,394 articles have been extended.
+49,396 (100.0%) of 49,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Antiary report on the Attorney General about the Rajapaksa wind power plant project
+
+*2024-10-14 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202146) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan Supreme Court hears case against Rajapaksa wind power plant project. India's Cabinet decides to proceed despite environmental concerns. Court orders government to respond by Jan 31.
+
+🟩
+
+The Attorney General informed the Supreme Court that the Cabinet of India has decided to address the project of building a wind power plant in Mannar, Vedithalthivu, Mannar.
+
+The Petitions were summoned when the Sri Lankan government and the Sri Lankan government and India, India and India.
+
+The notice was made by Deputy Solicitor General Dr. Awarantine Perera.
+
+The petitions are today today. Turairajah, AHMD. Navas, Shiran Gunaratne, was called before the Festive Supreme Court Judge of Aetu Veliloma and Mahinda Samayawardena.
+
+The petitions were presented by the Wildlife and Natural Resources Security Association and a group of people including the Environmental Yarmy Center.
+
+When the petitions were taken up today (14), the Deputy Solicitor General of the Cabinet Secretary and Deputy Solicitor General Dr. Arax Perera, who appeared for the Minister of the Cabinet and Energy Minister said that the Cabinet has decided to resume the proposed screenshop project.
+
+...
+
+[Data](articles/8aa9f1e2.json)
+
+[Extended Data](ext_articles/8aa9f1e2.ext.json)
+
+---
 
 ### 2024 General Election: EC to decide on candidates’ spending limit tomorrow
 
@@ -51,6 +83,24 @@ Apart from this, future activities related to the election will also be discusse
 [Data](articles/a7e37298.json)
 
 [Extended Data](ext_articles/a7e37298.ext.json)
+
+---
+
+### Govt. ready to reconsider Adani wind power project, AG tells court
+
+*2024-10-14 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102668/sri-lankas-govt-to-reconsider-adani-wind-power-project-ag-tells-court) · `en`
+
+The Attorney General (AG) has informed the Supreme Court that the Cabinet of Ministers has decided to reconsider the matters related to the wind power project in Wedithalathivu, Mannar by India’s Adani Green Energy.
+
+The AG communicated this to the court when the Fundamental Rights (FR) petitions filed seeking an order to invalidate the Cabinet approval granted for India’s Adani Green Energy for a wind power project in Wedithalathivu, Mannar was taken up this morning (14).
+
+On August 02, the Supreme Court fixed for consideration the five Fundamental Rights petitions filed by five parties including the Centre for Environmental Justice against the Adani’s wind power project, arguing that the proposed wind farm poses significant threats to ecological biodiversity and the safety of migratory birds.
+
+...
+
+[Data](articles/455bfcef.json)
+
+[Extended Data](ext_articles/455bfcef.ext.json)
 
 ---
 
@@ -538,6 +588,8 @@ In equities, Colombo’s All Share Price Index opened up 0.12 percent, or 14.85 
 
 [Data](articles/e8b7b266.json)
 
+[Extended Data](ext_articles/e8b7b266.ext.json)
+
 ---
 
 ### 'By April, people will hear Ranil again'
@@ -997,6 +1049,8 @@ The island nation saw an inflow of 4.4 billion rupees ($14.9 mln) in the previou
 ...
 
 [Data](articles/6d34c962.json)
+
+[Extended Data](ext_articles/6d34c962.ext.json)
 
 ---
 
@@ -2293,47 +2347,5 @@ The Tamil National Green Movement and the Democratic TNA are contesting the parl
 [Data](articles/d97e4e25.json)
 
 [Extended Data](ext_articles/d97e4e25.ext.json)
-
----
-
-### West Indies
-
-*2024-10-13 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202125) · `si`
-
-Sri Lanka vs West Indies cricket match summary: West Indies bowled first after winning toss, Chari leads Sri Lanka team.
-
-🟩
-
-The 20 runs between the Sri Lanka team and the West Indies will commence today.
-
-West Indies, who won the coin, decided to bowl first.
-
-The Sri Lankan team led by Chari as the leadership of the West Indies.
-
-◼️
-
-[Data](articles/2a78cc4e.json)
-
-[Extended Data](ext_articles/2a78cc4e.ext.json)
-
----
-
-### Bomb blast in Kodikam;Youth injured
-
-*2024-10-13 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196213) · `ta`
-
-Bomb blast injures youth in Kodikamam, Jaffna. Victim hospitalized. Initial investigation ongoing.
-
-🟩
-
-A youth has been admitted to Jaffna Bodhana Hospital after a youth was injured in a bomb blast in Kodikamam, Jaffna.
-
-Initial investigations revealed that the youth was working on a field in Kodikamam area on Sunday.
-
-◼️
-
-[Data](articles/39685e06.json)
-
-[Extended Data](ext_articles/39685e06.ext.json)
 
 ---

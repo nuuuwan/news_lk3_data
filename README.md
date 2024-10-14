@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 04:39:00**
+As of **2024-10-15 04:57:46**
 
 ## Newspaper Stats
 
-*Scraped **49,524** Articles*
+*Scraped **49,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 493
 bbccomsinhala | 495
 islandlk | 2,933
 economynextcom | 3,034
-dailyftlk | 3,362
+dailyftlk | 3,363
 adalk | 4,596
 dailymirrorlk | 4,733
 adaderanalk | 5,857
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,524 (100.0%) of 49,524 articles have been extended.
+49,525 (100.0%) of 49,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### BOI continues digital transformation:
+
+*2024-10-15 03:57:56* · [`dailyftlk`](https://www.ft.lk/business/BOI-continues-digital-transformation/34-767993) · `en`
+
+The Board of Investment (BOI) has established an online portal to streamline the clearance procedure for removing samples from zone firms with the Joint Apparel Association Forum (JAAF) and Sri Lanka Apparel Exporters Association (SLAEA), with the Biyagama Export Processing Zone (EPZ) officially implementing the new system. The move aims to improve efficiency and transparency for enterprises operating inside the zone.
+
+The inaugural ceremony emphasised the necessity of digitisng administrative procedures to help businesses run more smoothly, particularly those that manufacture for export. By transferring this critical licensing procedure online, the BOI hopes to cut delays, reduce paperwork, and assist businesses in achieving their production and export schedules more easily.
+
+...
+
+[Data](articles/c6b8696c.json)
+
+[Extended Data](ext_articles/c6b8696c.ext.json)
+
+---
 
 ### Lakshman Silva and Ashoka Goonesekere appointed to Melstacorp Board
 
@@ -2371,23 +2387,5 @@ In September, 2024, Sri Lanka has received a remittance of $ 555.6 million in Au
 [Data](articles/a3b983e9.json)
 
 [Extended Data](ext_articles/a3b983e9.ext.json)
-
----
-
-### Farmers to receive increased fertilizer subsidy from today
-
-*2024-10-14 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102676/farmers-to-receive-increased-fertilizer-subsidy-from-today) · `en`
-
-The distribution of the fertilizer subsidy will commence today (14), says Minister Vijitha Herath.
-
-During the first phase of the programme, farmers will receive Rs. 15,000, followed by Rs. 10,000 in the second phase.
-
-The minister said that the distribution of fertilizer subsidy will begin in Ampara District and will subsequently be expanded to farmers in Polonnaruwa, Anuradhapura and Mahaweli Zone.
-
-◼️
-
-[Data](articles/595838ec.json)
-
-[Extended Data](ext_articles/595838ec.ext.json)
 
 ---

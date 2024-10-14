@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 16:24:13**
+As of **2024-10-14 16:39:15**
 
 ## Newspaper Stats
 
-*Scraped **49,444** Articles*
+*Scraped **49,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 3,026
 dailyftlk | 3,346
 adalk | 4,588
 dailymirrorlk | 4,733
-adaderanalk | 5,848
-tamilmirrorlk | 6,753
-virakesarilk | 7,908
-adaderanasinhalalk | 8,559
+adaderanalk | 5,850
+tamilmirrorlk | 6,754
+virakesarilk | 7,909
+adaderanasinhalalk | 8,560
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,444 (100.0%) of 49,444 articles have been extended.
+49,444 (100.0%) of 49,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### කොළඹ අධ්‍යාපන කලාපයේ සියලු පාසල් හෙට වැසෙයි
+
+*2024-10-14 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202163) · `si`
+
+කොළඹ අධ්‍යාපන කලාපයේ සියලුම පාසැල් හෙට දිනයේත් වසා තැබීමට තීරණය කර තිබේ.
+
+බස්නාහිර පළාත් වැඩබලන අධ්‍යාපන අධ්‍යක්ෂවරයා සඳහන් කළේ, පවතින අයහපත් කාලගුණික තත්ත්වය සැලකිල්ලට ගනිමින් මෙම තීරණය ගත් බවය.
+
+◼️
+
+[Data](articles/aceba093.json)
+
+---
+
+### One dead, 17 injured in boiler explosion at Badalgama factory
+
+*2024-10-14 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102684/one-dead-17-injured-in-boiler-explosion-at-badalgama-factory) · `en`
+
+At least 18 workers were injured while one of them succumbed to his injuries upon admission to the hospital this morning (14), following the exploding of a boiler at a factory in Badalgama.
+
+The deceased has been identified as a 52-year-old resident of the Giriulla area while the body has been placed in the mortuary of the Negombo District General Hospital.
+
+The injured are being treated at Negombo, Divulapitiya, and Akaragama hospitals.
+
+Investigations carried out thus far have revealed that the explosion occurred due to excessive pressure within the boiler while it was in operation, police said.
+
+◼️
+
+[Data](articles/6a929a6a.json)
+
+---
+
+### காருக்கு பதிலாக திருமண தோணி
+
+*2024-10-14 16:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காருக்கு-பதிலாக-திருமண-தோணி/175-345447) · `ta`
+
+சில நாட்களாக பெய்து வரும் கடும் மழை காரணமாக  குடா கங்கை பெருக்கெடுத்து , களுத்துறை வீதி  மூழ்கியுள்ளமையால்  புதுமண தம்பதியை தோணியில் அழைத்து வந்த சம்பவம்  சத்தங்கொடை பிரதேசத்தில் பதிவாகியுள்ளது.
+
+நிலவி வரும் சீரற்ற காலநிலையுடன், திருமண  காருக்கு பதிலாக, அவர்கள் தோணியை பயன்படுத்தியுள்ளனர்.
+
+இதை பார்த்த சிலர் அவர்களை கேலி செய்து வரும் நிலையில் , எந்த ஒரு சூழ்நிலையும் தாங்கும், துணிச்சல் மிக்க பொருத்தமான ஜோடி என கூறி பலரும் வாழ்த்து தெரிவித்துள்ளனர்.
+
+மேலும் , களுத்துறை, புளத்சிங்கள, மதுராவல மற்றும் ஏனைய பிரதேச செயலாளர் பிரிவுகளின் வீதிகள்  நீரில் மூழ்கியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/02881d86.json)
+
+---
 
 ### Kattankudi student
 
@@ -75,6 +125,22 @@ The ballot for the Elpitiya Pradeshiya Sabha election will be distributed from O
 [Data](articles/fcca1c82.json)
 
 [Extended Data](ext_articles/fcca1c82.ext.json)
+
+---
+
+### Notice issued on school closures in flood-affected areas
+
+*2024-10-14 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102683/notice-issued-on-school-closures-in-flood-affected-areas) · `en`
+
+The Ministry of Education has instructed the Provincial Chief Secretaries, Provincial Secretaries and the Directors of Education to discuss and take necessary steps on whether or not to open schools in areas affected by the prevailing adverse weather.
+
+The Education Ministry communicated this in a statement issued pertaining to the matter this afternoon (14).
+
+Meanwhile, all government schools in the Gampaha, Kelaniya, Kolonnawa and Kaduwela educational zones will remain closed tomorrow (15) as decided by the Provincial Education authorities on Sunday (13).
+
+◼️
+
+[Data](articles/7d81a9b3.json)
 
 ---
 
@@ -679,6 +745,24 @@ The case had filed the case by the Department of Revenue regarding the default o
 [Data](articles/4ee32549.json)
 
 [Extended Data](ext_articles/4ee32549.ext.json)
+
+---
+
+### அனுர அரசாங்கமும்  பயங்கரவாத தடைச்சட்டத்தை பயன்படுத்துகின்றது - பொதுவேட்பாளருக்கு ஆதரவாக செயற்பட்டவரை விசாரணைக்கு சமூகமளிக்குமாறு உத்தரவு  - ரஜீவ்காந்
+
+*2024-10-14 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196246) · `ta`
+
+அனுரகுமார திசநாயக்க அரசாங்கம் பயங்கரவாத தடைச்சட்டத்தை பயன்படுத்துகின்றது  பொதுவேட்பாளருக்கு சார்பாக செயற்பட்ட ஒருவருக்கு விசாரணைக்கு சமூகமளிக்குமாறு பயங்கரவாத விசாரணை பிரிவினர் உத்தரவு பிறப்பித்துள்ளனர் எனமக்கள் போராட்ட முன்னணியின் உறுப்பினரும் சமூக செயற்பாட்டளருமான ராஜ்குமார் ரஜீவ்காந் தெரிவித்துள்ளார்
+
+இன்று இவர்கள் ஆட்சிக்கு வந்து சில நாட்களே ஆகியுள்ள நிலையில் இன்று சிலருக்கு பயங்கரவாத தடுப்புபிரிவிலிருந்து கடிதங்கள் அனுப்பப்பட்டுக்கொண்டிருக்கின்றது.
+
+நண்பர் ஒருவர் இந்த முறை தமிழ்பொதுவேட்பாளராக களமிறங்கிய அரியநேந்திரனிற்கு சமூக வலைத்தளத்தில் பணம் செலுத்தி விளம்பரங்கள் செய்துகொண்டிந்தவர். அவ்வாறு பணம் செலுத்தி விளம்பரம் செய்யப்பட்டது ஒரு தீவிரவாத குற்றம் என வரையறை செய்வது போல தீவிரவாத தடுப்பு பிரிவினர் பயங்கரவாத தடுப்பு பிரிவினர் அவருக்கு கடிதம் அனுப்பி முறைப்பாடு விசாரணையொன்றிற்கு அழைத்துள்ளனர்.
+
+இந்த விசாரணை தொடர்ச்சியாக இரண்டு நாட்கள் இடம்பெற்றிருக்கின்றது, சர்வதேசத்திலிருந்து எப்படி பணம் யாரிடமிருந்து வந்தது போன்ற கேள்விகளை கேட்டுள்ளனர்.
+
+...
+
+[Data](articles/75522c47.json)
 
 ---
 
@@ -2217,143 +2301,5 @@ The island nation saw an inflow of 4.4 billion rupees ($14.9 mln) in the previou
 [Data](articles/6d34c962.json)
 
 [Extended Data](ext_articles/6d34c962.ext.json)
-
----
-
-### The election warfare will leave
-
-*2024-10-14 07:59:21* · [`adalk`](https://www.ada.lk/breaking_news/කරුත්-මැතිවරණ-සටනින්-ඉවත්වෙයි/11-412473) · `si`
-
-Former MP Karunaratne Paranavithana resigns Ratnapura District Candidation Sri Lanka Force, preventing public vote general election.
-
-🟩
-
-Former MP Karunaratne Paranavithana has also resigned from the Ratnapura District Candidation of the Sri Lanka Force. As a result, he will inhibit the public to prevent him from voting at the general election.
-
-◼️
-
-[Data](articles/ffc94772.json)
-
-[Extended Data](ext_articles/ffc94772.ext.json)
-
----
-
-### Arjun Alosius in prison for VAT default
-
-*2024-10-14 07:57:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gdyjn4rnwo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Arjun Aloysius imprisoned for VAT default. Colombo Magistrate's Court sentenced him to 3 months. Case related to unpaid VAT from 2016-2019. Also linked to controversial bond transactions. Former Central Bank Governor Arjuna Mahendran investigated.
-
-🟩
-
-Arjun Alosius in prison for VAT default
-
-WM over the default incident of the VAT. The Colombo Magistrate's Court, including the Director of Mendis, was sentenced to three months in prison today (October 14).
-
-The Department of Inland Revenue was filed against the answer to the answer to the government to pay the VAT to the Government in 2016 to 2019.
-
-The court issued an order on November 14 last year to pay the tax.
-
-The case was summoned to Colombo Additional Magistrate Bandara Ilangasinghe today.
-
-The court sentenced the respondent against the respondents due to the no payment had not been paid.
-
-Do you know the list of 10 liquor companies that have defaulted Rs. 600 million?
-
-The Arjun Alosius is the owner of pepetual Treasuries pertaining to the questionable bond transaction.
-
-Arjun Aloysius and Kasun Palrisena were arrested in Colombo on February 4, 2018 to support the central bank bond transaction incident.
-
-...
-
-[Data](articles/fe8930d8.json)
-
-[Extended Data](ext_articles/fe8930d8.ext.json)
-
----
-
-### The weather has exceeded 100,000 people
-
-*2024-10-14 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202137) · `si`
-
-Severe weather affects over 200,000 people across 69 divisions. Three deaths, 240 homes damaged. 14,000 displaced in safety centers. Landslide warnings issued for six districts.
-
-🟩
-
-The number of people affected by the bad weather conditions affected by the island have exceeded the centuries limit.
-
-The Disaster Management Center said that in the 69 Divisional Secretariat Divisions, 69 districts, have been affected by adverse weather conditions.
-
-Accordingly, 134,484 persons belonging to 34,492 families have been affected.
-
-Three persons were killed in the disaster and two others were injured.
-
-240 houses have been partially damaged and one house has been completely destroyed.
-
-The Disaster Management Center (DMC) stated that 6963 persons belonging to 1753 families have been staying in 81 safety points.
-
-Meanwhile, the Gampaha district has been influenced by the continuous rainfall that falls for several days.
-
-The Disaster Management Center stated that 82,839 persons belonging to 20,553 families have been affected.
-
-In addition, 40,911 persons belonging to 10,914 families in the Colombo district have been affected.
-
-...
-
-[Data](articles/b3cdc979.json)
-
-[Extended Data](ext_articles/b3cdc979.ext.json)
-
----
-
-### An announcement of heavy rains
-
-*2024-10-14 07:27:51* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-පිළිබඳ-අවවාදාත්මක-නිවේදනයක්/11-412471) · `si`
-
-Heavy rains warning: 24-hour alert issued by Department of Meteorology. Rainfall expected in Western, Sabaragamuwa, North Western, Northern provinces, including Galle, Matara, Kandy, Nuwara Eliya. Thunderstorms possible in affected areas.
-
-🟩
-
-Consultation of heavy rains has been released by the Department of Meteorology. The announcement issued this morning will be valid for up to 24 hours.
-
-According to the announcement, the current rains due to the cluttering of an atmosphere in the island
-
-Further hopes, according to the Western, Sabaragamuwa, North Western and Northern provinces, Galle, Matara, Kandy and Nuwara Eliya
-
-The Department ofsitaries will show rain or thundershowers at times in districts.
-
-◼️
-
-[Data](articles/99134c5d.json)
-
-[Extended Data](ext_articles/99134c5d.ext.json)
-
----
-
-### Over 60 people injured in unmanned aircraft
-
-*2024-10-14 07:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196225) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Israeli military reports: 5 soldiers killed, over 60 injured in drone attack on northern base. Seven injured classified as critical. Incident occurred in Binamia, southern Haifa region.
-
-🟩
-
-Five Israeli soldiers have been killed and more than 60 injured in an unmanned army carried out on a military area in the north of Israel.
-
-The Israeli military has reported that seven of the soldiers who were injured in an unmanned air strike targeting the base of the Israeli army in Binamia in the south of Haipa were dangerous.
-
-◼️
-
-[Data](articles/822a2581.json)
-
-[Extended Data](ext_articles/822a2581.ext.json)
 
 ---

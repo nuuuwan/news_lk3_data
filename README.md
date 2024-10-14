@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 08:24:30**
+As of **2024-10-14 08:46:18**
 
 ## Newspaper Stats
 
-*Scraped **49,347** Articles*
+*Scraped **49,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,59 +20,105 @@ dailymirrorlk | 4,733
 adaderanalk | 5,825
 tamilmirrorlk | 6,727
 virakesarilk | 7,904
-adaderanasinhalalk | 8,536
+adaderanasinhalalk | 8,537
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,343 (100.0%) of 49,347 articles have been extended.
+49,348 (100.0%) of 49,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
 
-### කාලගුණයෙන් පීඩාවට පත් පිරිස ලක්ෂය ඉක්මවයි
+### Fatal road accidents - negligence losses two lives
+
+*2024-10-14 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202138) · `si`
+
+Two fatal road accidents reported: one in Gampola involving a child, another in Batticaloa resulting in a youth's death. Police investigating both incidents.
+
+🟩
+
+A small boy was killed in a car accident that collided with a jeep that was traveling to Nawalapitiya in Gampola.
+
+Police said the accident had occurred yesterday afternoon.
+
+The three-wheeler had flipped the three-wheeler in the three-wheeler, which was running in front of the jeep.
+
+The jeep is also propagated and collided with a Veddam, a waveled cart and another three-wheeler.
+
+The boy was rushed to the Gampola hospital when the driver of the three-wheeler was injured in the accident.
+
+The deceased is a child of a resident of Gampura, a three-and-half-year-old resident of Gampola.
+
+The driver of the jeep has been arrested and Gampola police are conducting further investigations.
+
+Meanwhile, a youth has died in an accident in the Industry, Batticaloa and Kalmunamadam.
+
+The motorcycle was not controlled from Batticaloa to Kalmunuka road and collided with a three-wheeler near the road and hit the motorcycle.
+
+...
+
+[Data](articles/460d6883.json)
+
+[Extended Data](ext_articles/460d6883.ext.json)
+
+---
+
+### The weather has exceeded 100,000 people
 
 *2024-10-14 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202137) · `si`
 
-දිවයිනට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පීඩාවට පත් පුද්ගලයින් ගණන ලක්ෂයේ සීමාව ඉක්මවා ගොස් තිබේ.
+Severe weather affects over 200,000 people across 69 divisions. Three deaths, 240 homes damaged. 14,000 displaced in safety centers. Landslide warnings issued for six districts.
 
-ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසුවේ දිස්ත්‍රික්ක 12ක, ප්‍රාදේශීය ලේකම් කොට්ඨාස 69ක පුද්ගලයින් මෙලෙස අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පීඩාවට පත්ව ඇති බවය.
+🟩
 
-ඒ අනුව පවුල් 34,492කට අයත් පුද්ගලයින් 134,484 දෙනෙකු පීඩාවට පත් ව ඇති බව වාර්තා වේ.
+The number of people affected by the bad weather conditions affected by the island have exceeded the centuries limit.
 
-ආපදා තත්ත්වය හේතුවෙන් පුද්ගලයින් තිදෙනෙකු ජීවිතක්ෂයට පත් ව ඇති අතර තවත් පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා ඇත.
+The Disaster Management Center said that in the 69 Divisional Secretariat Divisions, 69 districts, have been affected by adverse weather conditions.
 
-නිවාස 240කට අර්ධ හානි සිදුවී ඇති අතර එක් නිවසක් සම්පුර්ණයෙන් ම විනාශ වී ඇති බව වාර්තා වේ.
+Accordingly, 134,484 persons belonging to 34,492 families have been affected.
 
-පවුල් 1753කට අයත් පුද්ගලයින් 6963 දෙනෙකු මේ වන විට ආරක්ෂිත ස්ථාන 81ක රැදී සිටින බව ද ආපදා කළමනාකරණ මධ්‍යස්ථානය සදහන් කළේය.
+Three persons were killed in the disaster and two others were injured.
 
-මේ අතර දින කිහිපයක් පුරාවට ඇද හැලෙන අඛණ්ඩ වර්ෂාපතනය හේතුවෙන් ගම්පහ දිස්ත්‍රික්කයට දැඩි බලපෑම් එල්ල ව තිබේ.
+240 houses have been partially damaged and one house has been completely destroyed.
 
-එහිදී පවුල් 20,553කට අයත් පුද්ගලයින් 82,839 දෙනෙකු පීඩාවට පත්ව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය සදහන් කළේය.
+The Disaster Management Center (DMC) stated that 6963 persons belonging to 1753 families have been staying in 81 safety points.
 
-මීට අමතරව කොළඹ දිස්ත්‍රික්කයේ පවුල් 10,914කට අයත් පුද්ගලයින් 40,231 දෙනෙකු පීඩාවට පත්ව ඇති බව සදහන් වේ.
+Meanwhile, the Gampaha district has been influenced by the continuous rainfall that falls for several days.
+
+The Disaster Management Center stated that 82,839 persons belonging to 20,553 families have been affected.
+
+In addition, 40,911 persons belonging to 10,914 families in the Colombo district have been affected.
 
 ...
 
 [Data](articles/b3cdc979.json)
 
+[Extended Data](ext_articles/b3cdc979.ext.json)
+
 ---
 
-### 100 மில்லி மீற்றருக்கும் அதிக மழை வீழ்ச்சி
+### More than 100mm of rainfall
 
 *2024-10-14 07:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மில்லி-மீற்றருக்கும்-அதிக-மழை-வீழ்ச்சி/175-345401) · `ta`
 
-மேல், சப்ரகமுவ, வடமேல் மற்றும் வடக்கு மாகாணங்களிலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+Heavy rainfall warning issued for several districts, including Galle, Matara, Kandy, and Nuwara Eliya. Over 100mm expected in western, central provinces. Thunderstorms possible nationwide, especially evenings/night.
 
-மேல், சப்ரகமுவ, வடமேல் மற்றும் வடக்கு மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மி.மீற்றருக்கும் அதிகளவான மழை வீழ்ச்சி பதிவாகக்கூடும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு நேரங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் எனவும் தெரிவிக்கப்பட்டுள்ளது. (a)
+The Department of Meteorology has announced that rain or thunderstorms will occur from time to time in the Galle, Matara, Kandy and Nuwara Eliya districts.
+
+The department said that more than 100 mm of rainfall is likely in some places in the Western, Sabaragamuwa, North Western and Northern Provinces and Galle and Matara districts.
+
+It has also been reported that rain or thunderstorms are likely in the evening or night in the rest of the country. (A)
 
 ◼️
 
 [Data](articles/ab19cfc6.json)
+
+[Extended Data](ext_articles/ab19cfc6.ext.json)
 
 ---
 
@@ -1214,21 +1260,29 @@ Initial investigations revealed that the youth was working on a field in Kodikam
 
 ---
 
-### විනෝදයට පැද්ද ඔරුව පෙරළී යුද හමුදා හිටපු  සිවිල් ක්‍රීඩා පුහුණුකරු දියේ ගිලී මිය යයි
+### Army civilian sports coach drowns for fun
 
 *2024-10-13 19:15:28* · [`adalk`](https://www.ada.lk/breaking_news/විනෝදයට-පැද්ද-ඔරුව-පෙරළී-යුද-හමුදා-හිටපු--සිවිල්-ක්‍රීඩා-පුහුණුකරු-දියේ-ගිලී-මිය-යයි/11-412469) · `si`
 
-කැලණි මුල්ල දෙපා ඇලේ  ඔරුවක් පෙරළීමෙන්  අතුරුදන්ව වු යුද හමුදාවේ හිටපු සිවිල් ක්‍රීඩා පුහුණුකරුගේ මළ සිරුර අද (13)පෙරවරුවේ සොයා ගත් බව මුල්ලේරියාව පොලිසිය කියයි.
+Former Army civilian sports coach drowned while swimming in floodwaters near Mulleriyawa. Body recovered after search efforts involving police and local residents.
 
-මෙලෙස මියගොස් තිබුනේ කැලණිය ගම් සභා පාර පදිංචිව සිටි මිලාන් චතුරංග ගොඩැල්ලගේ නමැති 34 හැවිරිදි  දෙදරුපියකි.
+🟩
 
-මියගිය පුද්ගලයා  හා 12 හැවිරිදි කුඩා දරුවෙකු , කාන්තාවක් ඇතුළු  පුද්ගලයන් හය දෙනකු සමග  පෙරේදා (12) රාත්‍රී ඔරුවක නැග ගංවතුරෙන් යටවී ඇති ප්‍රදේශ නැරඹීමට ගමන් කරමින් සිටියදී මුල්ලේරියාව කැලණිමුල්ල දෙපා ඇලේ දි ඔරුව පෙරළී ඇතැයි පොලිසිය සඳහන් කරයි.
+The body of the former Civil Sports Coach disappeared today (13), the body of the former army civilian sports was disappeared this morning.
 
-එම අවස්ථාවේදී  ඒ දුටු ප්‍රදේශවාසීන් මහත් ආයාසයක් දරා සෙසු පිරිස බේරාගෙන තිබූ අතර මියගිය පුද්ගලයා අතුරුදහන්ව තිබිණි.
+The victim was a 34 year old, a resident of Kelaniya Village Road.
 
-...
+The victim and six persons including a 12-year-old child, a 12-year-old child, and traveling with six people were traveling to the flooded areas, Mulleriyawa boat has been rolled down the boat.
+
+The residents of the area had rescued the delegation of a great prospect and the deceased was missing.
+
+Special Task Force Chief Inspector Susantha, Chief Inspector General of Police Chief Inspector Susantha, the Senior DIG Attorney General, the body of the Navy, as well as the residents of the area, the body of the disappeared as well as the residents of the area was searching the bodiesPolice say they were found.
+
+◼️
 
 [Data](articles/9c09d71a.json)
+
+[Extended Data](ext_articles/9c09d71a.ext.json)
 
 ---
 
@@ -2225,29 +2279,5 @@ The Ministry of Education has announced that the decision has been taken only af
 [Data](articles/eede4291.json)
 
 [Extended Data](ext_articles/eede4291.ext.json)
-
----
-
-### The International Monetary Fund did not object to increase relief - Presidential Advisor
-
-*2024-10-13 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202119) · `si`
-
-IMF agrees to increase relief, says Presidential Advisor Prof. Anil Jayantha. Government aims to boost economy through aid.
-
-🟩
-
-Prof. Presidential Advisor Professor Anil Jayantha says that the IMF has agreed to increase reliefs to the public.
-
-He shows that the relevant proposals will be given to the International Monetary Fund in the future.
-
-Prof. Anil Jayantha added that the present government is the main objective of increasing the relief for the people.
-
-"When discussing the International Monetary Fund, we should take the country's economy to re-revival. The farmer wants to get fertilizer. The fisherman wants to go to work easily. It was not really the Monetary Fund, that the objective us to increase relief. They told you to get your programs, present. There are other institutions connecting with the International Monetary Fund to find money. The Asian Development Bank is the World Bank. We try fast as soon as they provide assistance relief to the real manufacturing process. "
-
-◼️
-
-[Data](articles/51ad5ef6.json)
-
-[Extended Data](ext_articles/51ad5ef6.ext.json)
 
 ---

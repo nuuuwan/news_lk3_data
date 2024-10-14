@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 00:38:58**
+As of **2024-10-15 00:55:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,503 (100.0%) of 49,505 articles have been extended.
+49,505 (100.0%) of 49,505 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -112,6 +112,8 @@ Both Thailand and Sri Lanka boast of numerous tourist attractions that are essen
 
 [Data](articles/727d92dd.json)
 
+[Extended Data](ext_articles/727d92dd.ext.json)
+
 ---
 
 ### A left turn: Can ESG principles drive sustainable economic growth under new leadership?
@@ -125,6 +127,8 @@ Sri Lanka’s new president Anura Kumara Dissanayake has been sworn into office,
 ...
 
 [Data](articles/d64c3925.json)
+
+[Extended Data](ext_articles/d64c3925.ext.json)
 
 ---
 

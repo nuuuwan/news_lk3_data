@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 09:58:32**
+As of **2024-10-14 10:12:05**
 
 ## Newspaper Stats
 
-*Scraped **49,359** Articles*
+*Scraped **49,361** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,829
 tamilmirrorlk | 6,729
 virakesarilk | 7,905
-adaderanasinhalalk | 8,538
+adaderanasinhalalk | 8,540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,359 (100.0%) of 49,359 articles have been extended.
+49,361 (100.0%) of 49,361 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Elpitiya Pradeshiya Sabha
+
+*2024-10-14 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202141) · `si`
+
+Elpitiya Pradeshiya Sabha election: Postal voting rescheduled to Oct 18. Eight recognized parties and one independent group contesting. Election set for Oct 26.
+
+🟩
+
+Postal voting arrangements are due to be held today (14) to the Elpitiya PSC election.
+
+The Election Commission (EPLSIANCON) said that the postal voting cannot be held today is available on the 18th.
+
+The Elpitiya Pradeshiya Sabha and two independent groups were deposited, but only eight recognized political parties and only one independent group have been handed over.
+
+The Elpitiya Pradeshiya Sabha elections will be held on October 26.
+
+◼️
+
+[Data](articles/dd07edd5.json)
+
+[Extended Data](ext_articles/dd07edd5.ext.json)
+
+---
+
+### Another group of Chinese nationals arrested in Kandy
+
+*2024-10-14 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202140) · `si`
+
+Chinese nationals arrested in Kandy: 2 women detained in hotel, 136 foreigners held elsewhere. Police investigating incidents. CID to probe further.
+
+🟩
+
+A Chinese woman and a Chinese woman have been arrested in a hotel in Annhipuary, Kandy.
+
+The group was arrested during a search operation conducted in the evening yesterday (13) on information received by the Kandy police station.
+
+Earlier, 136 foreign nationals were arrested in general area Nuthanu in Naththanphath in Nupotha on the afternoon last night.
+
+According to the police, investigations are conducted in connection with the suspects who were arrested in Anwatura area yesterday.
+
+Meanwhile, 11 Chinese men and 4 Chinese women have been arrested in the Welikada policema area yesterday afternoon.
+
+The police media division states that the CID is due to be carried out by the CID regarding these incidents.
+
+◼️
+
+[Data](articles/e1482dc9.json)
+
+[Extended Data](ext_articles/e1482dc9.ext.json)
+
+---
 
 ### 129,989 people are affected by bad weather
 
@@ -292,6 +344,30 @@ In addition, 40,911 persons belonging to 10,914 families in the Colombo district
 
 ---
 
+### Over 60 people injured in unmanned aircraft
+
+*2024-10-14 07:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196225) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Israeli military reports: 5 soldiers killed, over 60 injured in drone attack on northern base. Seven injured classified as critical. Incident occurred in Binamia, southern Haifa region.
+
+🟩
+
+Five Israeli soldiers have been killed and more than 60 injured in an unmanned army carried out on a military area in the north of Israel.
+
+The Israeli military has reported that seven of the soldiers who were injured in an unmanned air strike targeting the base of the Israeli army in Binamia in the south of Haipa were dangerous.
+
+◼️
+
+[Data](articles/822a2581.json)
+
+[Extended Data](ext_articles/822a2581.ext.json)
+
+---
+
 ### More than 100mm of rainfall
 
 *2024-10-14 07:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மில்லி-மீற்றருக்கும்-அதிக-மழை-வீழ்ச்சி/175-345401) · `ta`
@@ -311,30 +387,6 @@ It has also been reported that rain or thunderstorms are likely in the evening o
 [Data](articles/ab19cfc6.json)
 
 [Extended Data](ext_articles/ab19cfc6.ext.json)
-
----
-
-### Over 60 people injured in unmanned aircraft
-
-*2024-10-14 07:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196225) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Israeli military reports: 5 soldiers killed, over 60 injured in drone attack on northern base. Seven injured classified as critical. Incident occurred in Binamia, southern Haifa region.
-
-🟩
-
-Five Israeli soldiers have been killed and more than 60 injured in an unmanned army carried out on a military area in the north of Israel.
-
-The Israeli military has reported that seven of the soldiers who were injured in an unmanned air strike targeting the base of the Israeli army in Binamia in the south of Haipa were dangerous.
-
-◼️
-
-[Data](articles/822a2581.json)
-
-[Extended Data](ext_articles/822a2581.ext.json)
 
 ---
 
@@ -2253,47 +2305,5 @@ In a comment written by Paragraph writer Hikam Sabeidin titled 'Israeli has open
 [Data](articles/b3d9e2c8.json)
 
 [Extended Data](ext_articles/b3d9e2c8.ext.json)
-
----
-
-### Is it dangerous to the Tamil representation of Trincomalee?
-
-*2024-10-13 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196152) · `ta`
-
-Dangerous impact on Tamil representation in Trincomalee due to Landlord Agricultural Landslides, Green Treasury Issue, and Unemployment. Disappointment felt by community.
-
-🟩
-
-Landlord Agricultural Landslides, Green Treasury Issue, Unemployment IssueThe disappointment of us.
-
-◼️
-
-[Data](articles/38402343.json)
-
-[Extended Data](ext_articles/38402343.ext.json)
-
----
-
-### SLAF prepares to suit emergency
-
-*2024-10-13 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202122) · `si`
-
-SLAF prepares for emergencies: Aircraft and troops positioned for relief and rescue operations. Regular aerial surveillance conducted. Three helicopters stationed at Ratmalana, Palali, and Hingurakgoda air force camps. SLAF Regiment Special Forces personnel ready for deployment.
-
-🟩
-
-The SLAF has taken steps to place the aircraft and the troops to provide relief and rescue for relief and rescue.
-
-ඒ අනුව ඇතිවිය හැකි ආපදා පිළිබඳ නිරතුරු ගුවනින් නිරීක්ෂණය කිරීම සඳහා ගුවන් හමුදා නිරීක්ෂණ ගුවන් යානා මෙන්ම ආපදා තත්ත්වයක් ඇති වුවහොත් ජනතාව හට සහන සැලසීමට හා මුදවාගැනීමේ මෙහෙයුම් සඳහා හෙලිකොප්ටර් යානා තුනක් ස්ථානගත කර ඇත.
-
-The Air Force stated that a helicopter of the 'Bell-412' helicopter was located at the Air Force Base Ratmalana, Ratmalana, and two helicopters in the Air Force Camp and Palali Air Force Camp at Hingurakgoda Air Force Camp.
-
-The SLAF Regiment Special Forces personnel have been prepared in the camps.
-
-◼️
-
-[Data](articles/42259e23.json)
-
-[Extended Data](ext_articles/42259e23.ext.json)
 
 ---

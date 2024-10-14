@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 00:13:12**
+As of **2024-10-15 00:24:38**
 
 ## Newspaper Stats
 
-*Scraped **49,499** Articles*
+*Scraped **49,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,346
 adalk | 4,596
 dailymirrorlk | 4,733
 adaderanalk | 5,857
-tamilmirrorlk | 6,760
+tamilmirrorlk | 6,761
 virakesarilk | 7,919
 adaderanasinhalalk | 8,569
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,499 (100.0%) of 49,499 articles have been extended.
+49,500 (100.0%) of 49,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Lock for some more schools
+
+*2024-10-14 23:59:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-சில-பாடசாலைகளுக்கும்-பூட்டு/175-345468) · `ta`
+
+Schools in Southern and Western Provinces closing due to bad weather.
+
+🟩
+
+Due to the inclement weather, some schools in the Southern Province have been decided to close tomorrow.
+
+Also, all schools in the Western Province will be closed tomorrow. Remble
+
+◼️
+
+[Data](articles/51736cc7.json)
+
+[Extended Data](ext_articles/51736cc7.ext.json)
+
+---
 
 ### India withdraws Canada envoy named in probe, expels diplomats
 
@@ -2411,19 +2431,5 @@ No president ever wanted to be the president of the United States as passionatel
 [Data](articles/58c53114.json)
 
 [Extended Data](ext_articles/58c53114.ext.json)
-
----
-
-### Gaza as a moral compass – and a strategic blunder
-
-*2024-10-14 11:44:00* · [`islandlk`](http://island.lk/gaza-as-a-moral-compass-and-a-strategic-blunder/) · `en`
-
-The government of Sri Lankan president Anura Kumara Dissanayake has pledged solidarity with Gaza and Palestine. In this the National People’s Power (NPP) party differs little from other political outfits in the country, which have all expressed their support for the rights of Palestinians and the idea of Palestinian statehood. Even the previous administration, of Ranil Wickremesinghe, reiterated its commitment to a two-state solution, though its relations with Israel were controversial at best and problematic at worst.
-
-...
-
-[Data](articles/35614fd9.json)
-
-[Extended Data](ext_articles/35614fd9.ext.json)
 
 ---

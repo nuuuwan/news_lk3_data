@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 20:58:10**
+As of **2024-10-14 21:10:33**
 
 ## Newspaper Stats
 
-*Scraped **49,482** Articles*
+*Scraped **49,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,118 @@ bbccomsinhala | 495
 islandlk | 2,933
 economynextcom | 3,031
 dailyftlk | 3,346
-adalk | 4,593
+adalk | 4,594
 dailymirrorlk | 4,733
 adaderanalk | 5,855
-tamilmirrorlk | 6,758
+tamilmirrorlk | 6,760
 virakesarilk | 7,914
-adaderanasinhalalk | 8,567
+adaderanasinhalalk | 8,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,482 (100.0%) of 49,482 articles have been extended.
+49,486 (100.0%) of 49,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### சீனப் பிரஜைகள் குறித்து சீனத் தூதரகம் விசேட அறிக்கை
+
+*2024-10-14 20:51:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனப்-பிரஜைகள்-குறித்து-சீனத்-தூதரகம்-விசேட-அறிக்கை/175-345455) · `ta`
+
+Chinese Embassy report: Arrests of Chinese nationals in Sri Lanka for e-commercial fraud. China supports Sri Lanka's actions against fraud, calls for legal protection of suspects' rights. China fights email fraud domestically and internationally, cooperates with other countries to combat scams.
+
+🟩
+
+The Chinese Embassy in Colombo has issued a special report on Chinese nationals who were recently arrested in connection with e -commercial financial fraud.
+
+China has been closely observing the arrests of the egoist fraud and ensuring that their rights and interests are protected and China continues to support Sri Lanka to take action against Sri Lanka's law.
+
+The incident not only threatens the property of the two countries, it has pointed out that it will severely affect China's reputation and affect the traditional friendship between the two countries.
+
+The Chinese embassy has called for “action to protect the suspects legally to protect their legitimate rights and interests.”
+
+Internet frauds began to appear in China in the 1990s, and then spread over a large number of people. The Chinese government adopts the people -centered attitude, and continues to explore the path to prevent e -mail frauds, and carry out various tasks deeply.
+
+...
+
+[Data](articles/059489fa.json)
+
+[Extended Data](ext_articles/059489fa.ext.json)
+
+---
+
+### A warning of landslide for 24 hours
+
+*2024-10-14 20:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களுக்கு-மண்சரிவு-அபாய-எச்சரிக்கை/175-345454) · `ta`
+
+Landslide warning issued for 24 hours starting 4pm today. Affected areas include Kalutara, Kegalle, and Ratnapura districts.
+
+🟩
+
+The National Building Research Institute has issued a landslide hazard warning report for the next 24 hours from 4.00 pm today.
+
+Accordingly, the landslides warning notifications have been issued under the 2nd and the 1st of the Divisional Secretariat Divisions of the following districts.
+
+Kalutara District: - Valallavita, Horana, Ingiriya, Matugama, Kododa, Pulathsingha, Palindanuwara, Agalawatta
+
+Kegalle District:- Ruwanwella, Yattiyantottai, Tehiyovita, Varakapola, Pulathkohpitiya, Kegalle, Mawanella, Aranyaka, Teraniyakala.
+
+Ratnapura District: - Aheliyagoda, Kiriella, Ayagama, Elapada, Mixed, Ratnapura, Kuruvita.
+
+◼️
+
+[Data](articles/43d53a3e.json)
+
+[Extended Data](ext_articles/43d53a3e.ext.json)
+
+---
+
+### Unfortunately the girl who has passed away from life
+
+*2024-10-14 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202175) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Tragic accident in Battaramulla: Hansini fell from a high floor while cooking, died in ICU. Negligence suspected. Incident sparked social media discussions.
+
+🟩
+
+Over the loss of a mission or negligence can end even if life is lost.
+
+Battaramulla is reported from the Battaramulla area due to negligence.
+
+Hissinni was concluded with the end of the 11th at 6.40 pm on the 11th at 6.40 pm.
+
+She is staying with another friend in the upper road in a two storied house in Battaramulla.
+
+Hansini was preparing his dinner, and a screaming in the bathroom is a screaming with a sound that falls.
+
+The friend who was immediately removed from the bathroom with seeing Hansini, who had fallen from an insecure point following a lodge.
+
+No bumor or cover has been unavailable from the high floor directly.
+
+The residents of Hansani had taken place in the 1990 ambulance to be admitted to the Colombo National Hospital.
+
+However, Hanshini, who was receiving treatment at the Intensive Care Unit, had left the world last evening.
+
+Her misfortune death has been talked about in social media.
+
+If she had been renovated at her lodge, this is not the fate of life.
+
+Hanshini says:
+
+◼️
+
+[Data](articles/5bf81315.json)
+
+[Extended Data](ext_articles/5bf81315.ext.json)
+
+---
 
 ### Dilith Sajith greets Sajith
 
@@ -109,6 +205,32 @@ The company has issued a statement made by the SriLankan Airlines a key role in 
 [Data](articles/1581b9b7.json)
 
 [Extended Data](ext_articles/1581b9b7.ext.json)
+
+---
+
+### Udaya's abandoating a bomb
+
+*2024-10-14 18:59:33* · [`adalk`](https://www.ada.lk/breaking_news/උදය-’බෝම්බයක්’-අතහරියි/11-412489) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Government delays publishing NVU Alwis report on Easter attack. Leader threatens to release report if not published within 7 days. Report contains sensitive information about church leaders. Catholic Church requests immediate publication.
+
+🟩
+
+Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Government says he has given seven days of the NVU Alwis report on the Passover attack. Otherwise, he believes that he will be familiar with these reports and publish these reports.
+
+The Leader JHU leader was attended by a Plandani JHU. The Leader of the JHU
+
+When the President went to the church in the media last Monday, I stated that the church had to take the two records of the Presidential Investigation Committee on Easter attack.I asked the government to make these two reports without further delay.The government's spokesman Vijith Herath questioned journalists from Minister Vijith Herath.The Minister was said that we would see how the Passover's records were left withdrawn.
+
+...
+
+[Data](articles/8ff8a082.json)
+
+[Extended Data](ext_articles/8ff8a082.ext.json)
 
 ---
 
@@ -2257,113 +2379,5 @@ Based on information received by the police, they have been arrested and the Cri
 [Data](articles/5098d22a.json)
 
 [Extended Data](ext_articles/5098d22a.ext.json)
-
----
-
-### New Director General calls for appointment
-
-*2024-10-14 11:03:42* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්--කොමිෂමට-නව-අධ්‍යක්ෂ--ජනරාල්වරයා-පත්කිරීමට-අයඳුම්පත්-කැඳවයි/11-412476) · `si`
-
-New Director General seeks applicants for Bribery or Corruption Commission positions. Applications available on Parliament website. Deadline: National newspapers publish notice on 13th & 14th of this month. Submit to Constitutional Council office in Sri Jayewardenepura Kotte.
-
-🟩
-
-Applications have been called for the appointment of Bribery or Corruption Commission (Investigation General) under the provisions of the Anti-Corruption Act No. 9 of the Anti-Corruption Act, No. 9 of the Anti-Corruption Act.
-
-Applications for this purpose should be prepared according to the formation of the Bribery or Corruption General of Parliament on www.poliamentend.lk) on the Parliament website (the appointment of corruption of the Commission) on the Parliament website.
-
-Duly completed applications referred to the Secretary General of the Constitution, Constitutional Council - Office, Sri Lanka, Sri Jayewardenepura Kotte, Sri Lanka, Sri Jayewardenepura KotteShould
-
-Also, as "appointing the Director General of Investigation Commission" in the upper left end of the envelope / electronic letter, "appointing the Director General of Investigation Commission".
-
-Newspaper notice is published in the national newspapers on the 13th and 14th of this month.
-
-◼️
-
-[Data](articles/b087a61f.json)
-
-[Extended Data](ext_articles/b087a61f.ext.json)
-
----
-
-### Army is a special operation to save the victims
-
-*2024-10-14 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202145) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Army deploys troops in adverse weather to rescue island victims. Additional soldiers sent to flood-affected areas. More troops ordered to expand relief efforts. Today, forces dispatched to Meethotamulla with vehicles and boats."
-
-🟩
-
-In adversely weather conditions that have been affected by the island, additional soldiers have been deployed to liberate the people who were affected by rivers.
-
-The Commander of the Army has been instructed to deploy more troops, further expanding their relief work.
-
-Accordingly, troops have been deployed today (14) for rent services to the following location.
-
-Meethotamulla, two army groups (with four uni-buffels)
-
-WMZel vessels and 34 unicorn vehicles and 56 boats, in addition to the dear in Colombo, Kalutara, Matara, Hambantota, Hambantota, Gampaha and Puttalam districts.The military said.
-
-◼️
-
-[Data](articles/3cb390f7.json)
-
-[Extended Data](ext_articles/3cb390f7.ext.json)
-
----
-
-### Three killed in train collision
-
-*2024-10-14 11:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மோதி-மூவர்-பலி-விசாரணையில்-புதிய-தகவல்கள்/175-345416) · `ta`
-
-Train collision kills 3: 21-year-old man, infant son, 49-year-old woman. Police investigation reveals attempted suicide, drug addiction, mental illness.
-
-🟩
-
-Police investigations have revealed that the death of three persons, including a child, who was recorded yesterday in Kalutara, Kalutara, Kalutara.
-
-Police said the 21 -year -old man was suspected of attempting to jump in front of the train with his child and the third person who tried to stop them was suspected.
-
-The deceased have been identified as a 21 -year -old youth, his one -year -old baby and a 49 -year -old.
-
-Investigations have revealed that the young man had informed his family that he was going to commit suicide with his child.
-
-It is reported that the person and the child were trying to remove the father and child from the railway platform, and they all fell on the railway track.
-
-Two adults have died on the spot and the child died in the Nagoda Hospital in Kalutara.
-
-Police investigations have revealed that the young man was addicted to drug use and his wife was mentally ill.
-
-◼️
-
-[Data](articles/b8729af0.json)
-
-[Extended Data](ext_articles/b8729af0.ext.json)
-
----
-
-### IMF agrees to increase relief measures for people – President’s Advisor
-
-*2024-10-14 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102666/imf-agrees-to-increase-relief-measures-for-people-presidents-advisor) · `en`
-
-President’s Adviser on Economic and Financial Affairs Prof. Anil Jayantha says the International Monetary Fund (IMF) has agreed to enhance the relief measures provided to the people of Sri Lanka.
-
-He revealed that the relevant proposals for this increase in relief will be submitted to the IMF in the near future.
-
-Prof. Jayantha emphasized that the current government’s primary focus is on boosting the support extended to the public, particularly as part of its efforts to revive the economy.
-
-“During our discussions with the IMF, we made it clear that in order to stimulate economic recovery, the basic needs of the people—food, drink, and fertilizer for farmers—must be met. The IMF did not oppose the idea of increasing relief and encouraged us to present our programs,” Prof. Jayantha stated.
-
-He further added that the government is actively working with other institutions linked to the IMF to expedite the delivery of assistance.
-
-...
-
-[Data](articles/1e3d9763.json)
-
-[Extended Data](ext_articles/1e3d9763.ext.json)
 
 ---

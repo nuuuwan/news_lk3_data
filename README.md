@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 10:39:22**
+As of **2024-10-14 10:58:01**
 
 ## Newspaper Stats
 
-*Scraped **49,366** Articles*
+*Scraped **49,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,130 @@ economynextcom | 3,023
 dailyftlk | 3,346
 adalk | 4,579
 dailymirrorlk | 4,733
-adaderanalk | 5,829
-tamilmirrorlk | 6,731
-virakesarilk | 7,905
+adaderanalk | 5,832
+tamilmirrorlk | 6,733
+virakesarilk | 7,906
 adaderanasinhalalk | 8,541
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,366 (100.0%) of 49,366 articles have been extended.
+49,372 (100.0%) of 49,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Postal voting for Elpitiya PS scheduled for today
+
+*2024-10-14 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102665/postal-voting-for-elpitiya-ps-scheduled-for-today) · `en`
+
+Postal voting for the Elpitiya Pradeshiya Sabha in the 2024 Local Government Elections is scheduled to take place today (14).
+
+The Election Commission stated that voters who are unable to cast their postal votes today will have another opportunity to do so on October 18.
+
+Although 10 recognized political parties and 2 independent groups had placed their bonds for the Elpitiya Pradeshiya Sabha, only 8 recognized political parties and one independent group submitted their nominations.
+
+The election for the Elpitiya Pradeshiya Sabha is scheduled to be held on October 26.
+
+◼️
+
+[Data](articles/0c7cacc0.json)
+
+[Extended Data](ext_articles/0c7cacc0.ext.json)
+
+---
+
+### One arrested with foreign cigarettes in Katunayake
+
+*2024-10-14 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/196229) · `ta`
+
+Woman arrested Katunayake airport illegal cigarettes Dubai origin 125 packs 25000 cigarettes 3750000 rupees released police bail court appearance
+
+🟩
+
+A woman was arrested by the Airport Police Drug Prevention Unit yesterday (13) at Katunayake airport with illegal cigarettes.
+
+The arrested was a 40 -year -old woman from Chilaw, Bingiriya.
+
+The suspect arrived at the Katunayake airport at 5.15 pm yesterday from Dubai.
+
+Meanwhile, 125 cigarettes containing 25,000 foreign cigarettes worth 37 lakhs 50 thousand rupees have been seized from the suspect's travel packages.
+
+Subsequently, the arrested woman has been released on police bail and the Airport Police Drug Prevention Unit said she had to appear before the Negombo Magistrate's Court on the 16th.
+
+◼️
+
+[Data](articles/403afd57.json)
+
+[Extended Data](ext_articles/403afd57.ext.json)
+
+---
+
+### Delay in the main train service
+
+*2024-10-14 10:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதான-ரயில்-சேவையில்-தாமதம்/175-345411) · `ta`
+
+Fast train from Mahavai to Colombo Fort experiences technical failure near Thimbriyagadha station due to bad weather, causing delay in main train service.
+
+🟩
+
+A fast train traveling from Mahavai to Colombo Fort has caused a technical failure.
+
+The Railway Department said that the main train service has been delayed.
+
+The railway department has said that the train has been subjected to a technology problem near the Thimbriyagadha station and there will be some delays in operating the train due to bad weather.. Remble
+
+◼️
+
+[Data](articles/247a37dd.json)
+
+[Extended Data](ext_articles/247a37dd.ext.json)
+
+---
+
+### 'By April, people will hear Ranil again'
+
+*2024-10-14 10:23:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-மாதத்திற்குள்-மக்கள்-மீண்டும்-ரணிலைக்-கேட்பார்கள்/175-345410) · `ta`
+
+Sri Lanka: Former MP Rajitha Senaratne predicts political shift by April 2023, citing internal party conflicts and public discontent with current government. He suggests Ranil Wickremesinghe may regain power due to voter fatigue.
+
+🟩
+
+Former parliamentarian Rajitha Senaratne said that there are many crises in the United People's Power and the National People's Power.
+
+“The United People's Power Party leadership is in great dissatisfaction. திசைகாட்டியிலும் நெருக்கடிகள் உள்ளன. By next April, this crisis will end. People bored by this government will ask Ranil again. ”
+
+Rajitha Senaratne said this while speaking to the media after a meeting of party members of the new Democratic Front held yesterday (13).
+
+◼️
+
+[Data](articles/ad574e22.json)
+
+[Extended Data](ext_articles/ad574e22.ext.json)
+
+---
+
+### Man with loaded gun arrested at checkpoint near Trump’s rally in Southern California
+
+*2024-10-14 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102664/man-with-loaded-gun-arrested-at-checkpoint-near-trumps-rally-in-southern-california) · `en`
+
+A Nevada man with a shotgun, loaded handgun, ammunition and several fake passports in his vehicle was arrested at a security checkpoint outside Donald Trump’s rally Saturday night in the Southern California desert, authorities said. He was released the same day on $5,000 bail.
+
+The suspect, a 49-year-old resident of Las Vegas, was driving an unregistered black SUV with a “homemade” license plate that was stopped by deputies assigned to the rally in Coachella, east of Los Angeles, Riverside County Sheriff Chad Bianco said at a news conference Sunday afternoon.
+
+The driver claimed to be a journalist but it was unclear if he had the proper credentials. Deputies noticed the interior of the vehicle was “in disarray” and a search uncovered the weapons and ammo, along with multiple passports and driver licenses with different names, Bianco said.
+
+The man was arrested on suspicion of possessing a loaded firearm and possession of a high-capacity magazine, the department said in a statement.
+
+...
+
+[Data](articles/df120dbd.json)
+
+[Extended Data](ext_articles/df120dbd.ext.json)
+
+---
 
 ### Hesha's comment on Tamitha
 
@@ -81,6 +191,26 @@ He also warned that in heavy rains, there may be an immediate flood in the distr
 [Data](articles/013dc331.json)
 
 [Extended Data](ext_articles/013dc331.ext.json)
+
+---
+
+### Another group of Chinese nationals arrested in Kandy
+
+*2024-10-14 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102663/another-group-of-chinese-nationals-arrested-in-kandy) · `en`
+
+Sixteen Chinese nationals including a woman, who were staying under suspicious circumstances, were arrested at a hotel in Anniewatta, Kandy.
+
+According to the police, the group was apprehended during a search operation conducted last evening (13), based on information received by officers of the Kandy Police Station.
+
+Meanwhile, on October 12, 126 Chinese nationals, 2 Vietnamese nationals, and 130 foreign nationals, including a Thai and a Filipino, were arrested at a hotel in the Nattarampotha area of Pallekele, based on information received by officers of the Kandy Division Criminal Investigation Bureau.
+
+The police have stated that they are investigating whether the individuals arrested in the Anniewatta area yesterday have any connection with those arrested in the Nattarampotha area.
+
+...
+
+[Data](articles/96c16501.json)
+
+[Extended Data](ext_articles/96c16501.ext.json)
 
 ---
 
@@ -2189,141 +2319,5 @@ An Iranian -Israeli War will push many Arab countries in a predicament. Especial
 [Data](articles/cb562c29.json)
 
 [Extended Data](ext_articles/cb562c29.ext.json)
-
----
-
-### Boat collapsed
-
-*2024-10-13 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/196206) · `ta`
-
-A person died after a boat capsized in Kelanimullai, Mulleriya police division. The victim was on a boat trip to see flooded areas when it sank.
-
-🟩
-
-Mulleria police said that a person was drowned in a boat crash in the Kelanimullai area belonging to the Mulleriya police division.
-
-இந்த நபர் சிலருடன் வெள்ளம் சூழ்ந்த பகுதிகளை பார்வையிடுவதற்காக படகில் பயணித்த போதே படகு கவிழ்ந்துள்ளது.
-
-◼️
-
-[Data](articles/a27ee98a.json)
-
-[Extended Data](ext_articles/a27ee98a.ext.json)
-
----
-
-### "Political retirement has been introduced"
-
-*2024-10-13 18:27:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-ஓய்வை-அறிமுகப்படுத்த-முடிந்துள்ளது/175-345384) · `ta`
-
-Sri Lanka's NPP government denies retiring defeated or deceased politicians. President claims opposition's pre-election predictions failed, including fuel shortages and currency devaluation.
-
-🟩
-
-President Anura Kumara Dissanayake today said that none of the politicians who lost or died in the election have been retired by the National People's Power (NPP) government in Sri Lankan politics.
-
-Speaking among the NPP candidates contesting the general election, the president said that such circumstances are changes.
-
-“Most of the former MPs are out of the election campaign this time. This is the change of people's expected people. ”
-
-The President said that the NPP government had been able to prove that the false accusations leveled by the opposition during the presidential campaign were false 21 days before the end of 21 days.
-
-He said there was no slogans for the general election in the opposition camp.
-
-“Opposition camp has made false criticism against us. They said that after the NPP victory, there would be conflicts and there would be gas and fuel rows.
-
-They claimed that the rupee would be reduced to the US dollar and that Sri Lanka was an isolated country internationally.
-
-...
-
-[Data](articles/eff0fe5d.json)
-
-[Extended Data](ext_articles/eff0fe5d.ext.json)
-
----
-
-### One arrested with 1000 drug pills in Kalkisa
-
-*2024-10-13 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/196172) · `ta`
-
-Kalkisa police arrest 32-year-old man with 1000 drug pills at Odion Junction. Raid conducted based on Malkisa CID tip. Suspect from Dehiwala.
-
-🟩
-
-Police arrested a suspect with drug pills at the Odion Junction, which belongs to the Mount Lavinia Police Division, on Saturday (12).
-
-He was arrested during a raid carried out on the basis of information received by officials of the Malkisa Criminal Investigation Division.
-
-The suspect was 32 years old from Dehiwala.
-
-◼️
-
-[Data](articles/bfa9a839.json)
-
-[Extended Data](ext_articles/bfa9a839.ext.json)
-
----
-
-### Schools closed in several education zones on Monday and Tuesday
-
-*2024-10-13 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102655/schools-closed-in-several-education-zones-on-monday-and-tuesday-) · `en`
-
-The education authorities have decided to keep the schools in several educational zones closed on Monday (14) and Tuesday (15) in view of the prevailing adverse weather conditions.
-
-Accordingly, all government schools of the Gampaha, Kelaniya, Kolonnawa and Kaduwela educational zones will remain closed on Monday and Tuesday.
-
-Meanwhile, the Western Provincial Education Director said that all government schools in the Colombo educational zone will be closed tomorrow (14).
-
-Earlier today, it was announced that all government schools in Kaduwela and Kolonnawa Education Zonal Divisions in Colombo District and the Wattala Zonal Division in Gampaha District will be closed tomorrow, in view of the prevailing adverse weather condition.
-
-◼️
-
-[Data](articles/adbf3da0.json)
-
-[Extended Data](ext_articles/adbf3da0.ext.json)
-
----
-
-### Holidays for Colombo and Gampaha Schools
-
-*2024-10-13 18:12:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-கம்பஹா-பாடசாலைகளுக்கு-விடுமுறை/175-345383) · `ta`
-
-Colombo Gampaha schools closed due to bad weather. Kelaniya Wattala schools shut down on 14th. Education officials make decision.
-
-🟩
-
-Education officials have taken steps to close several schools in Colombo and Gampaha districts on Monday (14) following the prevailing worse weather in many parts of the country.
-
-Accordingly, all schools in Kelaniya and Wattala will be closed tomorrow (14).
-
-◼️
-
-[Data](articles/b74eb004.json)
-
-[Extended Data](ext_articles/b74eb004.ext.json)
-
----
-
-### Special announcement on closing schools
-
-*2024-10-13 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202123) · `si`
-
-Schools in Gampaha, Kelaniya, Colombo, Kolonnawa, and Kaduwela to close tomorrow due to education authority decision.
-
-🟩
-
-The education authorities have decided to close schools tomorrow (14) and tomorrow (14) and tomorrow.
-
-Accordingly, schools in Gampaha and Kelaniya education will be closed tomorrow and tomorrow.
-
-The Western Provincial Director of Education stated that all schools in the Colombo Education Zone will be closed tomorrow.
-
-In addition, all schools in Kolonnawa and Kaduwela education areas will also be closed tomorrow and tomorrow.
-
-◼️
-
-[Data](articles/bab94b0e.json)
-
-[Extended Data](ext_articles/bab94b0e.ext.json)
 
 ---

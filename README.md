@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 17:40:15**
+As of **2024-10-14 18:00:10**
 
 ## Newspaper Stats
 
-*Scraped **49,464** Articles*
+*Scraped **49,465** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,031
 dailyftlk | 3,346
 adalk | 4,589
 dailymirrorlk | 4,733
-adaderanalk | 5,853
+adaderanalk | 5,854
 tamilmirrorlk | 6,756
 virakesarilk | 7,909
 adaderanasinhalalk | 8,563
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,563
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,461 (100.0%) of 49,464 articles have been extended.
+49,465 (100.0%) of 49,465 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,28 @@ After the crime, the defendants are entitled to seek bail, thereby bail at the C
 [Data](articles/7241ce44.json)
 
 [Extended Data](ext_articles/7241ce44.ext.json)
+
+---
+
+### Pakistan capital Islamabad in lockdown ahead of SCO summit
+
+*2024-10-14 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102688/pakistan-capital-islamabad-in-lockdown-ahead-of-sco-summit) · `en`
+
+Pakistan’s capital was under strict security lockdown as Chinese Premier Li Qiang landed in the city on Monday ahead of a heads-of-government gathering of the Shanghai Cooperation Organisation this week.
+
+Li’s visit is the first by a Chinese premier to Pakistan in 11 years, Pakistan’s Prime Minister’s Office said. Pakistan’s Prime Minister Shehbaz Sharif received Li at the airport.
+
+The government has announced a three-day public holiday in Islamabad, with schools and businesses shut and large contingents of police and paramilitary forces deployed.
+
+Pakistan army troops will be responsible for the security of the capital’s Red Zone, the location of the parliament and a diplomatic enclave and where most of the meetings will take place, according to the interior ministry.
+
+The threat alert has been high in the South Asian nation ahead of the SCO summit, especially after the killing of two Chinese engineers and shooting to death of 21 miners.
+
+...
+
+[Data](articles/c61ffde7.json)
+
+[Extended Data](ext_articles/c61ffde7.ext.json)
 
 ---
 
@@ -1250,21 +1272,29 @@ Colombo Additional Magistrate Bandara Ilangasinghe, who has been sentenced to 6 
 
 ---
 
-### ‘வற்’ மோசடி: அலோசியஸ் உட்பட மூவருக்கு சிறை
+### Time fraud: Prison for three including Aloysius
 
 *2024-10-14 12:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வற்-மோசடி-அலோசியஸ்-உட்பட-மூவருக்கு-சிறை/175-345423) · `ta`
 
-அரசாங்கத்திற்கு செலுத்த வேண்டிய 3.5 பில்லியன் ரூபாய் (355 கோடி)  பெறுமதி சேர் வரியை (வற்) செலுத்தத் தவறிய குற்றத்திற்காக டபிள்யூ.எம்.மென்டிஸ் மற்றும் நிறுவனத்தின் பணிப்பாளர் அர்ஜுன அலோசியஸ் உட்பட மூவருக்கு கொழும்பு மேலதிக நீதவான் பண்டார இளங்கசிங்க , திங்கட்கிழமை (14) ஆறு மாத கால சிறைத் தண்டனை விதித்து தீர்ப்பளித்துள்ளார்.
+Three individuals, including businessman Arjuna Aloysius, sentenced for tax evasion. Court orders payment of Rs 3.5 billion tax owed to government. Defendants fail to pay despite court order.
 
-குறித்த வரிகளை செலுத்துமாறு 11/14/2023 அன்று நீதிமன்றம் உத்தரவிட்டிருந்த போதிலும், குறித்த வரிகளை செலுத்தாத காரணத்தினால் இந்த தண்டனை விதிக்கப்பட்டுள்ளது.
+🟩
 
-இந்த வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டதையடுத்து, பிரதிவாதிகள் நீதிமன்றில் ஆஜராகியதுடன், பிரதிவாதிகள் உரிய வரிப்பணத்தை இன்றைய தினம் (திங்கட்கிழமை 14)  செலுத்தாவிடின் அவர்களுக்கு ஆறு மாத கால சிறைத்தண்டனை விதிக்கப்படும் என நீதவான் அறிவித்துள்ளார்.
+Colombo Additional Magistrate Bandara Ilangasinghe on Monday (14) has sentenced the three persons, including WM Mentis and Director of the company, Arjuna Aloysius, for failing to pay the value of Rs 3.5 billion (355 crores) to the government.
 
-2016 மற்றும் 2019க்கு இடையில் அரசாங்கத்திற்கு செலுத்த வேண்டிய 3.5 பில்லியன் ‘வற்’ செலுத்துமாறு பிரதிவாதிகளுக்கு உத்தரவிடுமாறு உள்நாட்டு இறைவரி ஆணையாளர் இந்த வழக்கை தாக்கல் செய்திருந்தார்.
+Although the court ordered the payments to pay the taxes on 11/14/2023, the sentence has been imposed for not paying taxes.
 
-...
+The magistrate has announced that the defendants appeared in court after the case was taken up for hearing and that the defendants would not pay the appropriate tax money today (Monday 14).
+
+The Comedy Commissioner had filed the case between the government between 2016 and 2019 to order the defendants to pay 3.5 billion.
+
+Attorney Dinesh Perera appeared on behalf of the Commissioner General of the Internal Revenue Department.
+
+◼️
 
 [Data](articles/91403d02.json)
+
+[Extended Data](ext_articles/91403d02.ext.json)
 
 ---
 
@@ -1283,6 +1313,8 @@ Heavy showers above 100mm are likely at some places in the Western, Sabaragamuwa
 ◼️
 
 [Data](articles/70d146c8.json)
+
+[Extended Data](ext_articles/70d146c8.ext.json)
 
 ---
 
@@ -1385,6 +1417,8 @@ The previous Director General Kanishka D Wijeratne agreed to resign last week af
 ...
 
 [Data](articles/1d1664ba.json)
+
+[Extended Data](ext_articles/1d1664ba.ext.json)
 
 ---
 
@@ -2271,25 +2305,5 @@ He also warned that in heavy rains, there may be an immediate flood in the distr
 [Data](articles/013dc331.json)
 
 [Extended Data](ext_articles/013dc331.ext.json)
-
----
-
-### Another group of Chinese nationals arrested in Kandy
-
-*2024-10-14 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102663/another-group-of-chinese-nationals-arrested-in-kandy) · `en`
-
-Sixteen Chinese nationals including a woman, who were staying under suspicious circumstances, were arrested at a hotel in Anniewatta, Kandy.
-
-According to the police, the group was apprehended during a search operation conducted last evening (13), based on information received by officers of the Kandy Police Station.
-
-Meanwhile, on October 12, 126 Chinese nationals, 2 Vietnamese nationals, and 130 foreign nationals, including a Thai and a Filipino, were arrested at a hotel in the Nattarampotha area of Pallekele, based on information received by officers of the Kandy Division Criminal Investigation Bureau.
-
-The police have stated that they are investigating whether the individuals arrested in the Anniewatta area yesterday have any connection with those arrested in the Nattarampotha area.
-
-...
-
-[Data](articles/96c16501.json)
-
-[Extended Data](ext_articles/96c16501.ext.json)
 
 ---

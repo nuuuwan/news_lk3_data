@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 20:39:15**
+As of **2024-10-14 20:58:10**
 
 ## Newspaper Stats
 
-*Scraped **49,481** Articles*
+*Scraped **49,482** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,855
 tamilmirrorlk | 6,758
 virakesarilk | 7,914
-adaderanasinhalalk | 8,566
+adaderanasinhalalk | 8,567
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,481 (100.0%) of 49,481 articles have been extended.
+49,482 (100.0%) of 49,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Dilith Sajith greets Sajith
+
+*2024-10-14 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202174) · `si`
+
+Sajith Premadasa returns as Opposition Leader. Dilith Jayaweera announces election campaign. Local politicians criticize selfish policies. Sajith may retire soon. Former local leaders participate in general election. Gampaha District Organizer Jayantha Atapattu appointed.
+
+🟩
+
+Former Opposition Leader Sajith Premadasa has come back from the Opposition Leader, Entrepreneral Dilith Jayaweera said.
+
+He was speaking at a media briefing held today (14).
+
+"The most successive nominations was successfully handed over. Our election campaign has now begun. Due to the selfish political policy and program of various politicians in this country had to be damaged by local politicians. It is often due to the leaders of those political parties, their corrupt transactions were all. We started the action of correcting it. As a result, we were able to collect the leaders of the people of the people with all the district. "
+
+Q: You are trying to be the opposition leader now?What happens to Sajith then?
+
+...
+
+[Data](articles/f1eea5a4.json)
+
+[Extended Data](ext_articles/f1eea5a4.ext.json)
+
+---
 
 ### Pressure 100,000 people from inclement weather
 
@@ -2341,29 +2365,5 @@ He further added that the government is actively working with other institutions
 [Data](articles/1e3d9763.json)
 
 [Extended Data](ext_articles/1e3d9763.ext.json)
-
----
-
-### Ready to support President - Thikambaram
-
-*2024-10-14 10:58:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-ஆதரவு-வழங்க-தயார்-திகாம்பரம்/175-345414) · `ta`
-
-Palani Thikambaram supports President Anura Kumara Dissanayake, promising to address issues affecting hill country residents. He criticizes the lack of representation from hill country in national politics, vowing to be the true voice for the region's concerns.
-
-🟩
-
-President Anura Kumara Dissanayake is ready to give support to the people of the hill country, said Palani Thikambaram, the leader of the Tamil Progressive Alliance and the Nuwara Eliya district candidate, said that he is ready to support him.
-
-He was speaking at the election campaign meeting organized at the Bogawantalawa Gergaswold Plantation on Sunday (13).
-
-Further, Nuwara Eliya district candidate Palani Thikambaram has been vocal in the opposition party during the time when the current country's President Anuragumara Dissanayake has been deployed in the opposition party that the youth of the hill country of the hill country have been deployed in homes and restaurants in Colombo.
-
-If the general election is an important election for the people of the hill country, there is a maneuvering of the absence of hill representatives. Some say that there is a new change in the hill country.
-
-...
-
-[Data](articles/79ac5dcd.json)
-
-[Extended Data](ext_articles/79ac5dcd.ext.json)
 
 ---

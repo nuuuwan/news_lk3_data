@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 10:58:01**
+As of **2024-10-14 11:11:09**
 
 ## Newspaper Stats
 
-*Scraped **49,372** Articles*
+*Scraped **49,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,95 @@ dailyftlk | 3,346
 adalk | 4,579
 dailymirrorlk | 4,733
 adaderanalk | 5,832
-tamilmirrorlk | 6,733
+tamilmirrorlk | 6,736
 virakesarilk | 7,906
-adaderanasinhalalk | 8,541
+adaderanasinhalalk | 8,542
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,372 (100.0%) of 49,372 articles have been extended.
+49,376 (100.0%) of 49,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Exchange compass> cylinder does not accept me
+
+*2024-10-14 10:42:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திசைகாட்டி-சிலிண்டர்-என்னை-ஏற்கவில்லை/175-345413) · `ta`
+
+Sarath Fonseka: Anura Kumara Dissanayake, Dinesh Gunawardena denied election symbols. Negotiations failed. Decided not to contest.
+
+🟩
+
+Former parliamentarian Field Marshal Sarath Fonseka has said that the leader of the National People's Power, Anura Kumara Dissanayake and former Prime Minister Dinesh Gunawardena, could not be given the opportunity to contest the general election.
+
+This is why he has decided not to contest the general election.
+
+Field Marshal Sarath Fonseka added that the decision was taken due to the failure of negotiations to contest the compass and gas cylinder symbol in this year's general election.
+
+◼️
+
+[Data](articles/35935a73.json)
+
+[Extended Data](ext_articles/35935a73.ext.json)
+
+---
+
+### A discussion between the party secretaries and the Election Commission
+
+*2024-10-14 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202143) · `si`
+
+Meeting between party secretaries and Election Commission tomorrow at 9:30 AM. First post-election gathering. Discuss spending limits per candidate and campaign regulations. Gazette to be issued soon.
+
+🟩
+
+A meeting between the political party secretaries and the Elections Commission will be held tomorrow (15).
+
+The discussion will be held at the Election Commission premises at 9.30 am tomorrow.
+
+This is the first time Political Party Secretaries will meet the Elections Commission following the parliamentary election.
+
+Accordingly, the minimum amount that can be spent on one candidate tomorrow will be decided.
+
+The Elections (EPL) later said that the gazette would be issued.
+
+In addition, discuss the election campaign.
+
+◼️
+
+[Data](articles/fe406142.json)
+
+[Extended Data](ext_articles/fe406142.ext.json)
+
+---
+
+### Four arrested with sharp weapons
+
+*2024-10-14 10:35:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரிய-ஆயுதங்களுடன்-நால்வர்-கைது/175-345412) · `ta`
+
+Four arrested for murder with sharp weapons at Ratmalana. Police seized swords and ice drugs. Suspects from Ratmalana Soyza Pur and Piwatta. Victim killed over online friendship dispute.
+
+🟩
+
+Four people have been arrested for killing a man with sharp weapons at Ratmalana Belakkady junction, police said.
+
+With those suspects, seven swords and ice drugs have been seized by the police at different sizes.
+
+Officials of the bribery unit immediately arrested the suspects, following confidential information that some people were coming in a car ready to kill a person near the Malkisa Magistrate's Court.
+
+Investigations conducted by the suspects revealed that the victim was to kill the man who had been friendly with a person with a Internet app and brought the man to the hill country a few months ago.
+
+The arrested suspects belonged to Ratmalana Soyza Pur and Piwatta.
+
+◼️
+
+[Data](articles/273b6423.json)
+
+[Extended Data](ext_articles/273b6423.ext.json)
+
+---
 
 ### Postal voting for Elpitiya PS scheduled for today
 
@@ -311,6 +387,30 @@ In addition, 40,231 people from 10,904 families have been affected by the Colomb
 [Data](articles/42ef082e.json)
 
 [Extended Data](ext_articles/42ef082e.ext.json)
+
+---
+
+### 129,989 people are affected by bad weather
+
+*2024-10-14 09:32:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/மோசமான-வானிலையால்-129-989-பேர்-பாதிப்பு/46-345405) · `ta`
+
+129,989 people affected by bad weather in Sri Lanka. Disasters hit 12 districts, mainly Gampaha and Colombo.
+
+🟩
+
+The Disaster Management Center said that 129,989 people from 33,379 families have been affected by the inclement weather.
+
+Residents of Colombo, Gampaha, Kalutara, Kilinochchi, Kegalle, Ratnapura, Galle, Hambantota, Polonnaruwa, Nuwara Eliya, Kurunegala and Puttalam districts have been affected.
+
+80,529 people from 200,67 families in Gampaha and Colombo districts have been affected by disasters such as sudden floods, high winds, lightning and fell.
+
+In addition, 40,231 people from 10,904 families have been affected by the Colombo district. Remble
+
+◼️
+
+[Data](articles/d56026d6.json)
+
+[Extended Data](ext_articles/d56026d6.ext.json)
 
 ---
 
@@ -2241,83 +2341,5 @@ Sumanthiran's game in the presidential election may make any twists at the end o
 [Data](articles/743e382f.json)
 
 [Extended Data](ext_articles/743e382f.ext.json)
-
----
-
-### Water
-
-*2024-10-13 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/196182) · `ta`
-
-Snow melts faster due to rising temperatures. Last 50 years saw significant melting, resulting in 600 gigaliters of water flowing annually. Flooding in European and Scandinavian rivers caused by human activities and climate change.
-
-🟩
-
-According to reports, snowfalls have melted in the last 50 years due to the increased temperature in the world last year. As the snowfalls have melted, 600 giggers have flowed over the past year alone. In the Europe and Scandinavia regions, water caused by the water caused by the flooding in the rivers and the impact of humans.
-
-◼️
-
-[Data](articles/542ee137.json)
-
-[Extended Data](ext_articles/542ee137.ext.json)
-
----
-
-### 15 Chinese nationals arrested in Kotte over online scams
-
-*2024-10-13 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102656/15-chinese-nationals-arrested-in-kotte-over-online-scams) · `en`
-
-Another group of 15 Chinese nationals allegedly involved in online financial scams have been arrested at Welikada in Kotte, police said.
-
-Police spokesman DIG Nihal Thalduwa said that the police have also taken custody of 15 desktop computers and 15 mobile phones which were in the possession of the arrested individuals.
-
-Sri Lanka Police have so far arrested around 180 Chinese nationals, who were allegedly involved in online financial scams, from various parts of the island within the month of October.
-
-On Saturday (12), a group of 129 Chinese nationals were arrested in the Kundasale area, where the police had also seized over 100 laptops and a large number of mobile phones which were taken into custody from 47 rooms in a luxury bungalow in Kundasale.
-
-...
-
-[Data](articles/5a58f9fe.json)
-
-[Extended Data](ext_articles/5a58f9fe.ext.json)
-
----
-
-### The list of candidates and the fight
-
-*2024-10-13 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/196180) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Muslim Congress election: Old vs. New candidates. Rivalry led to nominations being made away. National Congress leader Ataullah aware of challenges but unconcerned. Complicated situation due to potential seat competition.
-
-🟩
-
-As for the Muslim Congress, there was a rivalry between the old and the newcomers in the candidate's election. But the idea that it is dangerous to relieve new people and take away the old people. Chairman Hakim would have occurred. Finally, the nomination was made away. National Congress leader Ataullah knows his challenge in this election, but it seems that it is not worried about it.. It would not have been so complicated for him to make a resolution on the basis that a seat could be a possible goal, even if he competed and competed together.
-
-◼️
-
-[Data](articles/9ee0a41f.json)
-
-[Extended Data](ext_articles/9ee0a41f.ext.json)
-
----
-
-### The solution is Etacia?: Crowd up in the Middle East after a year
-
-*2024-10-13 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196179) · `ta`
-
-Etacia? Middle East tensions rise after one year. Iran-Israel conflict threatens Arab nations, especially Jordan. Reports indicate US-Iran negotiations to prevent escalation across borders.
-
-🟩
-
-An Iranian -Israeli War will push many Arab countries in a predicament. Especially Jordan will suffer. In such a situation, there are reports that many Arab countries, along with the United States, are negotiating with Iran to make an agreement to prevent crisis intensification at all fronts.
-
-◼️
-
-[Data](articles/cb562c29.json)
-
-[Extended Data](ext_articles/cb562c29.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 06:10:50**
+As of **2024-10-14 06:44:37**
 
 ## Newspaper Stats
 
-*Scraped **49,328** Articles*
+*Scraped **49,340** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 401
 bbccomsinhala | 491
 colombotelegraphcom | 493
-islandlk | 2,916
+islandlk | 2,928
 economynextcom | 3,023
 dailyftlk | 3,346
 adalk | 4,576
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,534
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,328 (100.0%) of 49,328 articles have been extended.
+49,336 (100.0%) of 49,340 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -338,6 +338,120 @@ Additionally, the President instructed theFinance Ministry to allocate Rs. 50 mi
 
 ---
 
+### Ceylon Energy and HJT China marks completion of Maho and Ampara 33kV power distribution lines
+
+*2024-10-14 00:33:00* · [`islandlk`](http://island.lk/ceylon-energy-and-hjt-china-marks-completion-of-maho-and-ampara-33kv-power-distribution-lines/) · `en`
+
+Ceylon Energy, in partnership with HJT China, has announced the successful completion of the Maho and Ampara 33kV power distribution lines. These milestones mark a significant achievement within the broader Supporting Electricity Supply Reliability Improvement Project (SESRIP), a groundbreaking initiative designed to revolutionize energy distribution across Sri Lanka.
+
+...
+
+[Data](articles/77e101c3.json)
+
+[Extended Data](ext_articles/77e101c3.ext.json)
+
+---
+
+### Marriott Business Council celebrates 10 years of ‘Road to Give’ in Sri Lanka
+
+*2024-10-14 00:32:00* · [`islandlk`](http://island.lk/marriott-business-council-celebrates-10-years-of-road-to-give-in-sri-lanka/) · `en`
+
+As part of the Marriott Business Council, Sheraton Colombo, ITC Ratnadipa, Sheraton Kosgoda Turtle Beach Resort, and Courtyard by Marriott Colombo proudly commemorated the 10th anniversary of “Road to Give,” a transformative initiative that united Marriott associates in a shared mission to run, walk, ride and move for charitable causes. This significant milestone not only celebrated a decade of extraordinary achievements but also underscored the profound and lasting impact we have made within our communities.
+
+...
+
+[Data](articles/fb6c4a59.json)
+
+[Extended Data](ext_articles/fb6c4a59.ext.json)
+
+---
+
+### DFCC Bank Joins Oktoberfest celebration as exclusive banking partner
+
+*2024-10-14 00:31:00* · [`islandlk`](http://island.lk/dfcc-bank-joins-oktoberfest-celebration-as-exclusive-banking-partner/) · `en`
+
+DFCC Bank has announced its exclusive partnership with Colombo Oktoberfest 2024, positioning itself as the premier banking partner for one of the most anticipated cultural events in Sri Lanka. This prestigious event celebrates the best of German Bavarian traditions and underscores DFCC Bank’s commitment to enhancing customer engagement while promoting its brand in a unique, festive atmosphere.
+
+Colombo Oktoberfest is a much-anticipated cultural event that transports the authentic traditions of Bavaria to Sri Lanka. The festival features live performances by German bands, traditional folk dances, hearty German cuisine, and a wide range of authentic Bavarian beers. Attendees will experience Bavarian charm, complete with traditional attire and fun-filled games, as part of a celebration expected to attract over 10,000 participants.
+
+...
+
+[Data](articles/6e88e479.json)
+
+[Extended Data](ext_articles/6e88e479.ext.json)
+
+---
+
+### Sanasa Life Insurance celebrates Customer Service Week
+
+*2024-10-14 00:30:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-celebrates-customer-service-week/) · `en`
+
+Celebrated annually and around the world, Customer Service Week brings forth the essence of customer service and how it has helped businesses understand their customers better, by creating a friendlier customer centric environment.
+
+In view of commemorating this eventful week, Sanasa Life Insurance declared open its new Customer Experience Centre on the 10th of October 2024, located at No. 297, High level Road, Nugegoda.
+
+...
+
+[Data](articles/57261f6f.json)
+
+[Extended Data](ext_articles/57261f6f.ext.json)
+
+---
+
+### SLI Life marks World Children’s Day 2024
+
+*2024-10-14 00:29:00* · [`islandlk`](http://island.lk/sli-life-marks-world-childrens-day-2024/) · `en`
+
+Sri Lanka Insurance Life celebrates World Children’s Day 2024 across the Island. Sri Lanka Insurance Life Celebrated World Children’s Day 2024 through various programmes across the Island. All regional offices and branches carried out many activities for Children and celebrated the special day with children, their parents and teachers.
+
+Ceylinco General Insurance conducts island-wide 100 km beach clean-up project
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/a9c08bf7.json)
+
+[Extended Data](ext_articles/a9c08bf7.ext.json)
+
+---
+
+### Ceylinco General Insurance conducts island-wide 100 km beach clean-up project
+
+*2024-10-14 00:24:00* · [`islandlk`](http://island.lk/ceylinco-general-insurance-conducts-island-wide-100-km-beach-clean-up-project/) · `en`
+
+Ceylinco General Insurance recently organised an island-wide beach clean-up programme along the coastline of Sri Lanka, covering over 100 kms, with the participation of its staff from its island-wide branches and the head office.
+
+This beach clean-up initiative was held for the third consecutive year and has now become an annual event in the company’s Corporate Social Responsibility calendar.
+
+Beaches in Sri Lanka are increasingly facing pollution, particularly along coastlines in tourist hotspots and densely populated areas. Ceylinco General Insurance believes it is the responsibility of all citizens – both individuals and corporations – to help preserve the natural beauty and cleanliness of our beaches and the surrounding ocean.
+
+...
+
+[Data](articles/44823631.json)
+
+[Extended Data](ext_articles/44823631.ext.json)
+
+---
+
+### Cinnamon Air announces new flight routes to elevate tourism experience in Sri Lanka
+
+*2024-10-14 00:23:00* · [`islandlk`](http://island.lk/cinnamon-air-announces-new-flight-routes-to-elevate-tourism-experience-in-sri-lanka/) · `en`
+
+Cinnamon Air, Sri Lanka’s premier domestic airline, has announced the launch of two new daily scheduled flights connecting Kandy and Sigiriya with the South Coast destinations Koggala and Hambantota.
+
+These flights are set to commence on 1st November 2024 and will operate until 30th April 2025, strategically timed to cater to the influx of foreign travellers during the winter holiday season. These cross-country flights are designed to enhance convenience and reduce travel time while ensuring an unparalleled experience for those who wish to explore Sri Lanka’s South Coast after visiting the Cultural Triangle or the Central Hill Country.
+
+...
+
+[Data](articles/b2ef9096.json)
+
+[Extended Data](ext_articles/b2ef9096.ext.json)
+
+---
+
 ### Exterminators launches IoT Digi-Pest-Tech in South Asia
 
 *2024-10-14 00:15:56* · [`dailyftlk`](https://www.ft.lk/business/Exterminators-launches-IoT-Digi-Pest-Tech-in-South-Asia/34-767921) · `en`
@@ -645,6 +759,24 @@ The routes are serviced by Cinnamon Air’s fleet of Cessna 208 aircraft, and th
 [Data](articles/fcc4727f.json)
 
 [Extended Data](ext_articles/fcc4727f.ext.json)
+
+---
+
+### Where have our ethics gone?
+
+*2024-10-13 21:57:00* · [`islandlk`](http://island.lk/where-have-our-ethics-gone/) · `en`
+
+“A man without ethics is a wild beast let loose upon this world.”– Albert Camus –
+
+(Address to the Ceylon College of Physicians, 19 September, 2024, Colombo, Sri Lanka)
+
+You might wonder why a scholar would opt to ask a question as seemingly banal and commonsensical as ‘where have our ethics gone’ when you, as the Ceylon College of Physicians, and others, are here to deliberate on your own intellectual, research and policy quests focused on the theme, ‘Diversity, Inclusivity and Equity.’ When I was asked to speak at this event, I was, at the same time, impacted by a serious personal crisis.
+
+...
+
+[Data](articles/004709aa.json)
+
+[Extended Data](ext_articles/004709aa.ext.json)
 
 ---
 
@@ -2105,171 +2237,5 @@ He added that all schools are closed tomorrow in the Wattala Educational Divisio
 [Data](articles/b4a2f1e1.json)
 
 [Extended Data](ext_articles/b4a2f1e1.ext.json)
-
----
-
-### Video: First Political Speech Made By President Anura Kumara Dissanayake
-
-*2024-10-13 15:16:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/video-first-political-speech-made-by-president-anura-kumara-dissanayake/) · `en`
-
-Video: First Political Speech Made By President Anura Kumara Dissanayake;
-
-◼️
-
-[Data](articles/8997d716.json)
-
-[Extended Data](ext_articles/8997d716.ext.json)
-
----
-
-### Do you know?
-
-*2024-10-13 15:11:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உங்களுக்குத்-தெரியுமா/175-345363) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Colombo Fort murder: police seek suspect. Assaulted Oct 5 with sharp weapon. Contact Fort Police (071-8591555) or CID Fort (071-8594405).
-
-🟩
-
-Police have posted a photo of him in an attempt to find a suspect in the murder of Colombo Fort.
-
-Police said that the suspect was assaulted on October 5 with a sharp weapon on the Fort Reclaimation Road.
-
-Police have requested the public to contact the following telephone numbers if the suspect is informed about the suspect. Fort Police Officer - 071-8591555 Criminal Investigation Division - Fort - 071-8594405.
-
-◼️
-
-[Data](articles/95b0bc71.json)
-
-[Extended Data](ext_articles/95b0bc71.ext.json)
-
----
-
-### Lorry - motorcycle collided face -to -face
-
-*2024-10-13 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196162) · `ta`
-
-Motorcycle crash kills one near bridge. Lorry hits bike head-on on Jaffna-Pedro road. Driver dies in hospital.
-
-🟩
-
-One person was killed when a lorry collided head -on a motorcycle near the Vallai Bridge, which belongs to the Nelliyadi police division.
-
-Police said that a small lorry from Jaffna to Point Pedro on the Jaffna -Point Pedro road crashed into a motorcycle.
-
-The driver of the motorcycle driver, who was injured in the accident, died after being admitted to the hospital, police said.
-
-◼️
-
-[Data](articles/d41df0fe.json)
-
-[Extended Data](ext_articles/d41df0fe.ext.json)
-
----
-
-### On top of the crimes under which the Sri Lankan rave was shown
-
-*2024-10-13 14:48:01* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-රැව්-පිළිරැව්-දුන්-යට-ගිය-අපරාධ--උඩට/11-412464) · `si`
-
-Sri Lanka: Rave case, Treasury Bond scandal, journalist murder, disappearances, defense ministry orders.
-
-🟩
-
-Attorney at the Hon.
-
-Accordingly, the Treasury Bond issue of the Eastern Association, Vice Chancellor of the University of Eastern University in 2007, the disappearance of Hon. Vice Chancellor of the University of Eastern University
-
-In addition to the fact that the journalist was abducted and killed by the journalist, the journalist named the journalist named Still Shiva Ram in 2005, he was instructed to end the investigation into the disappearance of the two Lalith Kumara and Kuguruwitan in Jaffna.
-
-Working IGP Priyantha Weerasuriya has instructed to expedit these special investigations on the instructions of the Defense Ministry on the advice of the Ministry of Defense.
-
-◼️
-
-[Data](articles/32f39849.json)
-
-[Extended Data](ext_articles/32f39849.ext.json)
-
----
-
-### 4 holidays for schools
-
-*2024-10-13 14:26:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-பாடசாலைகளுக்கு-விடுமுறை/175-345362) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Four schools closed: Kelani Maha Vidyalaya, Negombo Roman Catholic Vidyalaya, Piyagama Primary School, Yaparalawa Ananda Junior Vidyalaya. Closures due to bad weather on Monday, 14th."
-
-🟩
-
-Four schools have been given holidays on Monday (14) due to inclement weather in the country, the Ministry of Education has announced.
-
-The Ministry of Education has announced that holidays have been given to the Kelani Maha Vidyalaya, Negombo Roman Catholic Vidyalaya, Piyagama Primary School and Yaparalawa Ananda Junior Vidyalaya.
-
-◼️
-
-[Data](articles/4d72dc9e.json)
-
-[Extended Data](ext_articles/4d72dc9e.ext.json)
-
----
-
-### Holidays for schools tomorrow
-
-*2024-10-13 14:26:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-பாடசாலைகளுக்கு-விடுமுறை/175-345362) · `ta`
-
-Schools closed tomorrow: Kelani Maha Vidyalaya, Negombo Roman Catholic Vidyalaya, Piyagama Primary School, Yaparalawa Ananda Junior Vidyalaya due to bad weather.
-
-🟩
-
-Some schools have been given holidays on Monday (14) due to inclement weather in the country.
-
-The Ministry of Education has announced that holidays have been given to the Kelani Maha Vidyalaya, Negombo Roman Catholic Vidyalaya, Piyagama Primary School and Yaparalawa Ananda Junior Vidyalaya.
-
-◼️
-
-[Data](articles/7aacc749.json)
-
-[Extended Data](ext_articles/7aacc749.ext.json)
-
----
-
-### Flood warning issued to low-lying areas of Kelani River extended
-
-*2024-10-13 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102650/flood-warning-issued-to-low-lying-areas-of-kelani-river-extended) · `en`
-
-The flood warning issued for low-lying areas along Kelani River has been extended for 48 hours, the Department of Irrigation announced.
-
-Furthermore, the department urged the residents in affected regions to stay alert and heed all safety precautions as weather conditions continue to pose risks.
-
-◼️
-
-[Data](articles/2a88c3b1.json)
-
-[Extended Data](ext_articles/2a88c3b1.ext.json)
-
----
-
-### Floods released to lowlands around Kelani River risk extended
-
-*2024-10-13 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202116) · `si`
-
-Kelani River floods: Extended warning issued for 48 hours. Public and regional drivers in Kelaniya, Colombo, Wattala areas advised.
-
-🟩
-
-The Irrigation Department has taken steps to extend the flood warning issued for the Kelani River to the next 48 hours.
-
-Accordingly, the department calls on the public and regional drivers from the Kenenawa, Colombo and Wattala Divisional Secretariats belonging to the Kelaniya, Colombo and Wattala Divisional Secretariat areas.
-
-◼️
-
-[Data](articles/2891440d.json)
-
-[Extended Data](ext_articles/2891440d.ext.json)
 
 ---

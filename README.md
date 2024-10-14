@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 09:25:38**
+As of **2024-10-14 09:39:32**
 
 ## Newspaper Stats
 
-*Scraped **49,353** Articles*
+*Scraped **49,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,79 @@ newsfirstlk | 363
 dbsjeyarajcom | 401
 bbccomsinhala | 492
 colombotelegraphcom | 493
-islandlk | 2,928
+islandlk | 2,929
 economynextcom | 3,023
 dailyftlk | 3,346
 adalk | 4,578
 dailymirrorlk | 4,733
 adaderanalk | 5,827
-tamilmirrorlk | 6,727
-virakesarilk | 7,904
+tamilmirrorlk | 6,728
+virakesarilk | 7,905
 adaderanasinhalalk | 8,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,353 (100.0%) of 49,353 articles have been extended.
+49,356 (100.0%) of 49,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### The final decision on the scholarship examination today
+
+*2024-10-14 09:09:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-தொடர்பில்-இன்று-இறுதித்-தீர்மானம்/175-345404) · `ta`
+
+Scholarship exam results announced today. Commissioner General holds press conference. Suspended answer sheets to be released soon. Only 3 out of many questions investigated so far.
+
+🟩
+
+The final decision on the fifth grade scholarship examination will be announced today (14).
+
+Accordingly, the Commissioner General of Examinations will hold a special press conference this morning.
+
+It is reported that the current suspended answer sheet is to be started immediately.
+
+The final decision of the Inquiry Committees is that several committees have been appointed to investigate the scholarship examination and only three questions have been revealed before the examination.
+
+◼️
+
+[Data](articles/c09170cc.json)
+
+[Extended Data](ext_articles/c09170cc.ext.json)
+
+---
+
+### More than 100 mm
+
+*2024-10-14 08:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/196227) · `ta`
+
+Heavy rain, thunderstorms forecasted in several provinces and districts. Strong winds and lightning warnings issued. Sea regions may become turbulent due to high-speed gusts. Public advised to remain vigilant.
+
+🟩
+
+Senior Weather Officer Dr. Mohamed Saliheen said that frequent rainfall or thunderstorms are expected in Sabaragamuwa, Upper, North Western and Northern Provinces as well as in Galle, Matara, Kandy and Nuwara Eliya districts.
+
+Heavy rains are expected in some parts of the Sabaragamuwa, Upper, North Western and Northern Provinces, as well as some areas of the Galle and Matara districts.
+
+Showers or thunderstorms can occur in the evening or night in many parts of the country.
+
+The public is asked to act with vigilance in the events of strong winds and lightning.
+
+Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
+
+In the sea regions, the wind blows from the southwest direction or from a different direction at speeds of 30 to40 km / h.
+
+Frequent winds can be increased at 50 - 60 km / h in the sea regions from Puttalam to Colombo, Galle and Hambantota via Pottuvil.. In these cases, these sea regions are turbulent.
+
+...
+
+[Data](articles/a8fa6334.json)
+
+[Extended Data](ext_articles/a8fa6334.ext.json)
+
+---
 
 ### Final decision on scholarship examination today
 
@@ -829,6 +883,24 @@ Kamundu Mendis scored 51 runs with 5 pounds, 2 sixes and 59 runs with 9 pounds.
 [Data](articles/a0db4f16.json)
 
 [Extended Data](ext_articles/a0db4f16.ext.json)
+
+---
+
+### EDB focuses on tapping opportunities in Sri Lanka’s blue economy
+
+*2024-10-14 00:11:00* · [`islandlk`](http://island.lk/edb-focuses-on-tapping-opportunities-in-sri-lankas-blue-economy/) · `en`
+
+A groundbreaking event in Sri Lanka’s marine and offshore service sector, Voyage Sri Lanka 2024 Conference is to set sail on 26th November 2024 at Kingsbury Colombo.
+
+The registration process is now open. Please visit www.voyagesrilanka.lk and secure your seat. The conference will spotlight the blue economy and showcase strengths, potential, and cutting-edge technologies in Sri Lanka’s marine and offshore services, as well as boat and ship building sectors.
+
+Voyage Sri Lanka 2024 brings together the public & private sector stakeholders in the marine & offshore, and boat & ship building sectors, providing a unique platform for industry leaders, investors, experts, and stakeholders to discuss the future of the blue economy. This pioneering event will focus on sustainable practices, emerging technologies, and collaborative efforts to enhance Sri Lanka’s role as a global marine hub.
+
+...
+
+[Data](articles/57b34752.json)
+
+[Extended Data](ext_articles/57b34752.ext.json)
 
 ---
 
@@ -2229,77 +2301,5 @@ In addition, the police said that steps have been taken to appear in court on ch
 [Data](articles/48ad38c2.json)
 
 [Extended Data](ext_articles/48ad38c2.ext.json)
-
----
-
-### Vadivel was bathed in water
-
-*2024-10-13 17:30:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கும்ப-நீரில்-குளித்தார்-வடிவேல்/76-345381) · `ta`
-
-Vadivel Suresh joins United Democratic Voice Party, becomes Badulla district organizer. He opens party office in Hali Ella estate, participates in Hindu pooja and swimming event.
-
-🟩
-
-Parliamentarian Vadivel Suresh joined the United Democratic Voice Party, led by famous actor and former parliamentarian Ranjan Ramanayake.
-
-He has joined his political activities as the party's Badulla district organizer and is also the leader of the team that is contesting the Mike symbol in the Badulla district in the general election.
-
-Prior to the launch of the election campaign in the plantations, Vadivel Suresh opened his party office in the Hali Ella estate and participated in the Hindu pooja and swimmed at the water of the Kumbha.
-
-◼️
-
-[Data](articles/b5f44b10.json)
-
-[Extended Data](ext_articles/b5f44b10.ext.json)
-
----
-
-### Special protection to the capital of Pakistan
-
-*2024-10-13 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202121) · `si`
-
-Pakistan's Islamabad receives enhanced security measures due to political instability and violence. Authorities declare 3-day holiday for Shanghai Summit, set to begin on 15th. Indian External Affairs Minister and leaders from Russia and China to attend. Some parties express concerns about holding the conference amid unrest.
-
-🟩
-
-Steps have been taken to provide special security to the capital of Islamabad, Pakistan, to the capital of Shanghai Cooperation Organization.
-
-The political crises and violent events in that country take into account.
-
-Accordingly, the authorities have acted to announce three days holidays to the Shanghai Summit.
-
-The Shanghai Cooperation Conference will commence on the 15th and the Indian External Affairs Minister is scheduled to attend 16 countries including the Russian and Chinese Prime Minister.
-
-In Pakistan, there were many political crises and violence in Pakistan, and some parties have expressed their views that the situation is not a right environment for the conference.
-
-◼️
-
-[Data](articles/9c61e8e5.json)
-
-[Extended Data](ext_articles/9c61e8e5.ext.json)
-
----
-
-### Air Force Alert
-
-*2024-10-13 17:03:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-படையினர்-உஷார்/175-345376) · `ta`
-
-Sri Lanka Air Force prepares for emergencies due to bad weather. Air Marshal Udhani Rajapakse orders readiness for relief and rescue. Surveillance planes and helicopters stationed at bases. Special forces deployed for assistance.
-
-🟩
-
-Due to the current adverse weather, the Sri Lanka Air Force has been advised to keep air and troops in anticipation of emergency.
-
-Air Force Commander Air Marshal Udhani Rajapakse has advised the Air Force spokesman Eranda Keeganage to be prepared for relief and rescue operations.
-
-He advised the Air Force to monitor the disaster conditions from the sky and to ensure that surveillance planes are ready.
-
-In addition, Bell-412 has been placed on the Ratmalana Air Force Base, while two Bell-212 Ungaurds have been placed on Hingurangoda and Palali Air Force Base.. Specially trained Air Force Regiment Special Forces are also ready on these sites and are helping in rescue operations when needed.
-
-◼️
-
-[Data](articles/87335ef9.json)
-
-[Extended Data](ext_articles/87335ef9.ext.json)
 
 ---

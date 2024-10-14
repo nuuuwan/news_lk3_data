@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 03:57:59**
+As of **2024-10-15 04:11:26**
 
 ## Newspaper Stats
 
-*Scraped **49,522** Articles*
+*Scraped **49,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 493
 bbccomsinhala | 495
 islandlk | 2,933
 economynextcom | 3,034
-dailyftlk | 3,360
+dailyftlk | 3,362
 adalk | 4,596
 dailymirrorlk | 4,733
 adaderanalk | 5,857
@@ -26,11 +26,43 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,516 (100.0%) of 49,522 articles have been extended.
+49,520 (100.0%) of 49,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Lakshman Silva and Ashoka Goonesekere appointed to Melstacorp Board
+
+*2024-10-15 03:55:43* · [`dailyftlk`](https://www.ft.lk/business/Lakshman-Silva-and-Ashoka-Goonesekere-appointed-to-Melstacorp-Board/34-767992) · `en`
+
+Melstacorp PLC has recently announced the appointment of Lakshman Silva and Ashoka Goonesekere to the Board as Independent Non-Executive Directors.
+
+Silva started his professional career with the Department of Inland Revenue of Sri Lanka and joined the DFCC Banking Group in 1987. He was seconded to the service of DFCC Vardhana Bank in 2003 and functioned as the Chief Operating Officer until appointment as the CEO/Executive Director in January 2010. He held the position of Deputy CEO/Director of DFCC Bank PLC from October 2015 and was appointed as the CEO/Director in August 2017.
+
+...
+
+[Data](articles/ef457594.json)
+
+[Extended Data](ext_articles/ef457594.ext.json)
+
+---
+
+### Daraz Sri Lanka launches Choice by AliExpress on platform to provide consumers with vast assortment and best prices
+
+*2024-10-15 03:52:34* · [`dailyftlk`](https://www.ft.lk/business/Daraz-Sri-Lanka-launches-Choice-by-AliExpress-on-platform-to-provide-consumers-with-vast-assortment-and-best-prices/34-767991) · `en`
+
+Daraz Sri Lanka, the country’s leading online marketplace, has collaborated with AliExpress Choice to introduce a new Choice channel on its platform, providing shoppers access to a curated selection of over 1 million top-rated products from popular categories including, fashion (watches, sunglasses, jewellery, bags, etc.) and health and beauty.
+
+Launched in 2023 to meet evolving customer needs, AliExpress Choice offers a curation of great-value products as well as enhanced services for better shopping experience. Choice is currently available to users in more than 50 markets.
+
+...
+
+[Data](articles/bd78bb2a.json)
+
+[Extended Data](ext_articles/bd78bb2a.ext.json)
+
+---
 
 ### Votes for President reflect public frustration with corruption, not support for NPP ideology – Imthiaz
 
@@ -236,43 +268,63 @@ At a conference in the mid ’90s, Dr. Harvey Forest, solar visionary and Presid
 
 ---
 
-### யாழில் ஊடக பணியாளர் மீது தாக்குதல் மேற்கொண்ட இருவர் பொலிஸாரினால் கைது
+### Two persons arrested for attacking a media worker in Jaffna
 
 *2024-10-15 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196309) · `ta`
 
-யாழ்ப்பாணத்தில் ஊடக பணியாளர் மீது தாக்குதல் மேற்கொண்ட இருவரை பொலிஸார் கைது செய்துள்ளனர்.
+Jaffna: Two men arrested for attacking media worker on Kasturiyar Road. Incident occurred last Friday. Police investigation ongoing.
 
-யாழ்.நகரின் மத்தியில், கஸ்தூரியார் வீதியில் கடந்த வெள்ளிக்கிழமை குறித்த தாக்குதல் சம்பவம் இடம்பெற்றுள்ளது.
+🟩
 
-யாழ்ப்பாணத்தில் இருந்து இயங்கும் தொலைக்காட்சி ஒன்றில் தொழிநுட்பவியலாளராக பணியாற்றும் விபூஷண் என்பவர் மீதே தாக்குதல் நடத்தப்பட்டுள்ளது.
+Police have arrested two men who attacked a media worker in Jaffna.
 
-தாக்குதலுக்கு இலக்கானவர் வீதியில் மோட்டார் சைக்கிளில் பயணித்துக்கொண்டிருந்த வேளை , பின்னால் பிறிதொரு மோட்டார் சைக்கிளில் வந்த நபர்கள் அவரை வழி மறித்து , ஏன் தாங்கள் முந்தி செல்வதற்கு வழி விடவில்லை என கேட்டு , தலைக்கவசத்தால் மிக மோசமாக தாக்கி விட்டு அங்கிருந்து தப்பி சென்றுள்ளனர்.
+The attack took place last Friday on the Kasturiyar road in the middle of Jaffna Nagar.
 
-தாக்குதல் தொடர்பிலான வீடியோ காட்சிகள் கடை ஒன்றில் பொருத்தப்பட்டிருந்த சிசிரிவி கமராக்களில் பதிவாகியுள்ளது.
+Vibhushan, who works as a technician on a television channel from Jaffna, has been attacked.
 
-அதன் அடிப்படையில் பொலிஸார் தாக்குதலாளிகளை இனம் கொண்டுள்ள நிலையில் அவர்களை கைது செய்வதற்கு நடவடிக்கை எடுத்திருந்தனர்.
+While the attacker was traveling on a motorcycle on the road, the people who came on another motorcycle had crossed him and asked him why they had not been able to overtake him.
 
-அந்நிலையில் அவர்கள் இருவரும் தலைமறைவாகி இருந்த நிலையில், திங்கட்கிழமை (14) யாழ்ப்பாண பொலிஸார் இருவரையும் கைது செய்துள்ளனர்.
+Video footage of the attack has been recorded in Sisirvi cameras fitted in a shop.
 
-...
+On the basis of this, the police had taken steps to arrest the attackers.
+
+The Jaffna police have arrested the two men on Monday (14) as they were in hiding.
+
+Police said that the arrested persons have been arrested and further investigations are being carried out.
+
+◼️
 
 [Data](articles/e289fce5.json)
 
+[Extended Data](ext_articles/e289fce5.ext.json)
+
 ---
 
-### கடந்த கால அரசுகளைப்போன்று அநுரவும் ஏமாற்றக்கூடாது - சரவணபவன்
+### Anura should not be deceived as the past states - Saravanapavan
 
 *2024-10-15 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196308) · `ta`
 
-சிவராம் படுகொலை மட்டுமல்ல வடக்கில் ஊடகத்துறை சார்ந்து நடந்த படுகொலைகள், கடத்தல்கள் தொடர்பிலும் விசாரணைகள் நடத்தப்பட வேண்டும். குறிப்பாக உதயன் பத்திரிகை மீதான சம்பவங்கள் தொடர்பிலும் ஒட்டுக்குழுவொன்றால் நடத்தப்பட்ட மிலேச்சத்தனமான படுகொலை தொடர்பிலும் விரைவாக விசாரணை முன்னெடுக்கப்படவேண்டும் என முன்னாள் நாடாளுமன்ற உறுப்பினர் ஈஸ்வரபாதம் சரவணபவன், ஜனாதிபதி அனுர குமார திஸாநாயக்கவிடம் கோரிக்கை விடுத்தார்.
+Here's a 200-character summary:
 
-சனநாயக தமிழ் அரசுக் கூட்டமைப்பு என்ற பெயரில் யாழ்ப்பாண தேர்தல் மாவட்டத்தில் சுயேச்சையாக மாம்பழச் சின்னத்தில் போட்டியிடும் வேட்பாளர் ஈ.சரவணபவனின் ஊடக சந்திப்பு யாழ்ப்பாணத்தில் திங்கட்கிழமை நடைபெற்றபோதே இதனை தெரிவித்தார்.
 
-கொழும்பில் 2005ஆம் ஆண்டு படுகொலை செய்யப்பட்ட சிவராமின் விசாரணைகள் மீண்டும் தூசு தட்டப்பட்டுள்ளது. இது எப்போதோ நடந்து முடிந்திருக்கவேண்டியது. அப்போதைய ஆட்சியாளர்களுடன் இயங்கிய ஒட்டுக்குழு ஒன்றின் மீது இது தொடர்பான குற்றச்சாட்டுக்கள் முன்வைக்கப்பட்டிருந்தன.
+
+Former MP Saravanapavan calls for investigations into media industry massacres and kidnappings in Northern Sri Lanka, including Udayan newspaper attacks and Sivaram murder. He urges President Anura Kumara Dissanayake to act on long-standing allegations involving paramilitary groups and government officials.
+
+🟩
+
+Investigations should be conducted on the massacre and kidnapping of the media industry in the North, not just Sivaram massacre. Former parliamentarian Eswarapadam Saravanapavan has called on President Anura Kumara Dissanayake to investigate the incidents of Udayan's newspaper and a furious assassination carried out by a passenger committee.
+
+He made this statement at a media briefing of the candidate E. Saravanapavan, who is contesting independently in the Mango symbol in the Jaffna electoral district under the name of the Tamil Nadu Tamil State Federation.
+
+Sivaram's investigation into the 2005 murdered in Colombo. It has to be done ever. The allegations were made against a paramilitary committee who had acted with the then rulers.
+
+There were doubts that the vehicle used for the abduction of Sivaram was the chairman of the palace and later a Member of Parliament.. These inquiries have been left in the warehouse to protect the passenger groups.
 
 ...
 
 [Data](articles/1a3f3483.json)
+
+[Extended Data](ext_articles/1a3f3483.ext.json)
 
 ---
 
@@ -2305,57 +2357,5 @@ The minister said that the distribution of fertilizer subsidy will begin in Ampa
 [Data](articles/595838ec.json)
 
 [Extended Data](ext_articles/595838ec.ext.json)
-
----
-
-### Koteeswaran's little son
-
-*2024-10-14 13:04:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-மோதி-கொன்ற-கோடீஸ்வரனின்-சிறிய-மகன்/76-345435) · `ta`
-
-Billionaire's son involved in fatal accident: 17-year-old crashes into three-wheeler, killing 3.5-year-old passenger.
-
-🟩
-
-A 17 -year -old son of a billionaire businessman has taken an incident on the carpet that killed a boy who was traveling in a three -wheeler.
-
-The jeep collided with a three -wheeler traveling in front of a pedestrian crossing in front of the Gampola bus stop. The three -and -a -half -year -old boy, who was traveling in the three -wheeler, died after being admitted to the Gampola hospital after being severely injured.
-
-Mohamed Siraz Amdee, a boy who had come to Gampola from abroad, has died.
-
-The jeep after the three -wheeler crashed into the car, and went to a private bus stop at the Gampolai private bus, and the fruit was on the man who was selling there and another three -wheeler parked near him.
-
-◼️
-
-[Data](articles/89ae38b9.json)
-
-[Extended Data](ext_articles/89ae38b9.ext.json)
-
----
-
-### Popular faces contesting this year's general election
-
-*2024-10-14 13:01:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c148y4ld8nno) · `si`
-
-Popular figures contesting 2023 general election Sri Lanka include actors, artists, athletes, activists. Notable candidates include Kamal Hararaarachchi, Ruwanthi Mangala, Jehan Puhamy, Anusha Thamyan, Chamila Kumudu Peiris, Nimalka Fernando, Tillakaratne Dilshan. Election nominations finalized for various political parties and independent groups.
-
-🟩
-
-Media and Social Media and Social Media There was a large number of popular characters contesting for general election. ඒ අතර රංගන ශිල්පීන්, ක්‍රීඩකයින් සහ මානව හිමිකම් ක්‍රියාකාරීන් ද ඇතුළත්ව සිටිනු දකින්නට ලැබුණි.
-
-All political parties and independent groups contesting for the parliamentary election in another month have been handed over to their nominations.
-
-Who are popular among candidates contesting this year?We have been looking for about go.
-
-Kamal Haraaraarachchi, an announcer and an announcer is to contest the general election this year.
-
-He is the second generation to lead Uvenu Wijeweera, the son of the JVP Rohana Wijeweera, the son of the JVP Rohana Wijeweera.
-
-A academist and a teledrama director is expected to contest the general election from the Kandyan district from the Kandy district.
-
-...
-
-[Data](articles/5fc02f53.json)
-
-[Extended Data](ext_articles/5fc02f53.ext.json)
 
 ---

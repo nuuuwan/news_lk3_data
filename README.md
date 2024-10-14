@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 14:25:28**
+As of **2024-10-14 14:39:17**
 
 ## Newspaper Stats
 
-*Scraped **49,426** Articles*
+*Scraped **49,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 493
 islandlk | 2,933
 economynextcom | 3,026
 dailyftlk | 3,346
-adalk | 4,585
+adalk | 4,586
 dailymirrorlk | 4,733
 adaderanalk | 5,844
 tamilmirrorlk | 6,747
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,554
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,426 (100.0%) of 49,426 articles have been extended.
+49,427 (100.0%) of 49,427 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -151,6 +151,26 @@ The High Court Judge was sentenced to death by the suspect, which was guilty of 
 [Data](articles/4b28536b.json)
 
 [Extended Data](ext_articles/4b28536b.ext.json)
+
+---
+
+### Will the scholarship examination resize?Examination Commissioner's decision
+
+*2024-10-14 13:30:11* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-විභාගය-යළි-පවත්වනවාද---විභාග-කොමසාරිස්-අද-දුන්-තීන්දුව/11-412480) · `si`
+
+Grade 5 scholarship exam changes: Examination Commissioner Amit Jayasundara announced full marks for three questions. No mention of resizing the exam.
+
+🟩
+
+Commissioner General of Examinations, Amit Jayasundara, participated in joined the press conference today as the Grade 5 scholarship examination.
+
+He further stated that the three children will be given full marks for the three questions.
+
+◼️
+
+[Data](articles/95b1640b.json)
+
+[Extended Data](ext_articles/95b1640b.ext.json)
 
 ---
 
@@ -2343,23 +2363,5 @@ The previous system had long been criticised for favouring officers close to the
 [Data](articles/62021149.json)
 
 [Extended Data](ext_articles/62021149.ext.json)
-
----
-
-### People’s Struggle Alliance submits national list featuring activists from 2022 Aragalaya movement
-
-*2024-10-14 00:38:17* · [`dailyftlk`](https://www.ft.lk/news/People-s-Struggle-Alliance-submits-national-list-featuring-activists-from-2022-Aragalaya-movement/56-767928) · `en`
-
-The People’s Struggle Alliance, which emerged from Sri Lanka’s 2022 Aragalaya protest movement, has submitted a national list with the highest number of political activists compared to other political parties.
-
-The list includes a whopping 16 political activists, such as Chamira Koswatta, Hemamali Abeyratne, Dayapala Thiranagama, Rajkumar Rajivkanth, Marisa de Silva, Mangala Maddumage, Erandi Ranaweera, Mohammad Farooq, Nandana Ramanayake, Pechchimuthu Nadarajah, Menard Peiris, Karupiah Satyaseelan, Thanne Gnananda Thera, Ravindra Wickramasinghe, Janaka Peiris, and Pabasiri Jayakodi.
-
-In addition to activists, the list features several trade unionists, including Dharmasiri Lankapeli, Anura Wickramawansha, Dhammika Munasinghe, and Krishantha Priyadarshana. It also includes professionals from various fields, such as three attorneys-at-law, an economic analyst, a journalist, two artists, a university lecturer, and a retired State employee.
-
-...
-
-[Data](articles/6b0224ed.json)
-
-[Extended Data](ext_articles/6b0224ed.ext.json)
 
 ---

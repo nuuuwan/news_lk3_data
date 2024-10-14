@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 19:57:50**
+As of **2024-10-14 20:11:39**
 
 ## Newspaper Stats
 
-*Scraped **49,477** Articles*
+*Scraped **49,480** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 401
 colombotelegraphcom | 493
-bbccomsinhala | 494
+bbccomsinhala | 495
 islandlk | 2,933
 economynextcom | 3,031
 dailyftlk | 3,346
@@ -20,17 +20,73 @@ dailymirrorlk | 4,733
 adaderanalk | 5,855
 tamilmirrorlk | 6,758
 virakesarilk | 7,914
-adaderanasinhalalk | 8,564
+adaderanasinhalalk | 8,566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,477 (100.0%) of 49,477 articles have been extended.
+49,480 (100.0%) of 49,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Pressure 100,000 people from inclement weather
+
+*2024-10-14 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202173) · `si`
+
+Heavy rains hit 12 districts, flooding major cities. 1 million affected. Highest 24-hour rainfall: 126.1mm. Floods reported in Colombo, Kalutara, Galle, Matara, Gampaha. Roads impassable due to flooding. Weather warning issued for southern coast.
+
+🟩
+
+The Disaster Management Center (DMC) says that one million people have been affected by the inclement weather.
+
+Due to the prevalence in the island, the rainy weather conditions have been affected by about 12 districts.
+
+Due to this, flooding in Colombo, Kalutara, Galle, Matara and Gampaha.
+
+The highest rainfall was 126.1 mm in the past 24 hours.
+
+A large number of many surroundings in Kaduwela were flooded by the Colombo-Kurunegala main road by the Galawillai, Kaduwela, Colombo main road from the Galala Kotugoda.
+
+However, the floods in Gampaha is tied up.
+
+Several roads including several degrees in Kalutara district were flooded by the Kalu Ganga and the Sunday of Kalu Ganga and the Sunday.
+
+Puttalam Nattandiya, Thummodara, Mawadhyla, Puttalam was also flooded by Hamilton Canal.
+
+The Irrigation Department said that a decrease in the flood risk of flood risk in Attanagalu Oya, Kelani, Kalu, GN and Ganga River.
+
+...
+
+[Data](articles/7fe8a0a4.json)
+
+[Extended Data](ext_articles/7fe8a0a4.ext.json)
+
+---
+
+### Sydney-Colombo airlike incident announced
+
+*2024-10-14 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202172) · `si`
+
+SriLankan Airlines UL607 incident: Flight from Sydney to Colombo on September 21st. Captain removed, company cooperating with authorities. Passenger safety emphasized.
+
+🟩
+
+The relevant department has already commenced regarding a flight of the UL607 aircraft who was flying from Sydney from Sydney to Colombo on 21st September.
+
+The SriLankan Airlines is cooperating with the relevant authorities and that the captain has been removed from the service.
+
+The company has issued a statement made by the SriLankan Airlines a key role in ensuring passenger safety and working with all regulatory needs.
+
+◼️
+
+[Data](articles/1581b9b7.json)
+
+[Extended Data](ext_articles/1581b9b7.ext.json)
+
+---
 
 ### China responds to recent arrests of Chinese nationals in Sri Lanka for ‘online scams’
 
@@ -1338,6 +1394,34 @@ The jeep after the three -wheeler crashed into the car, and went to a private bu
 
 ---
 
+### Popular faces contesting this year's general election
+
+*2024-10-14 13:01:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c148y4ld8nno) · `si`
+
+Popular figures contesting 2023 general election Sri Lanka include actors, artists, athletes, activists. Notable candidates include Kamal Hararaarachchi, Ruwanthi Mangala, Jehan Puhamy, Anusha Thamyan, Chamila Kumudu Peiris, Nimalka Fernando, Tillakaratne Dilshan. Election nominations finalized for various political parties and independent groups.
+
+🟩
+
+Media and Social Media and Social Media There was a large number of popular characters contesting for general election. ඒ අතර රංගන ශිල්පීන්, ක්‍රීඩකයින් සහ මානව හිමිකම් ක්‍රියාකාරීන් ද ඇතුළත්ව සිටිනු දකින්නට ලැබුණි.
+
+All political parties and independent groups contesting for the parliamentary election in another month have been handed over to their nominations.
+
+Who are popular among candidates contesting this year?We have been looking for about go.
+
+Kamal Haraaraarachchi, an announcer and an announcer is to contest the general election this year.
+
+He is the second generation to lead Uvenu Wijeweera, the son of the JVP Rohana Wijeweera, the son of the JVP Rohana Wijeweera.
+
+A academist and a teledrama director is expected to contest the general election from the Kandyan district from the Kandy district.
+
+...
+
+[Data](articles/5fc02f53.json)
+
+[Extended Data](ext_articles/5fc02f53.ext.json)
+
+---
+
 ### Rs. 3.5 VAT unpaid Arjun Alosius to prison
 
 *2024-10-14 12:57:00* · [`adalk`](https://www.ada.lk/breaking_news/රු-බි--3-5-වැට්-බදු-නොගෙවූ-අර්ජුන්-ඇලෝසියස්-ඇතුළු-තිදෙනෙක්-සිරගෙට/11-412478) · `si`
@@ -2277,69 +2361,5 @@ The Minister said that the fertilizer subsidy was started in the Ampara District
 [Data](articles/06b3da91.json)
 
 [Extended Data](ext_articles/06b3da91.ext.json)
-
----
-
-### Egg prices are up again
-
-*2024-10-14 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196231) · `ta`
-
-Egg prices surge from 28 to 32 rupees daily. Market predicts potential further increase.
-
-🟩
-
-The price of egg sold at 28 rupees to 32 rupees is increasing day by day.
-
-However, market sources said the price of eggs could rise further in the future.
-
-◼️
-
-[Data](articles/4387fa50.json)
-
-[Extended Data](ext_articles/4387fa50.ext.json)
-
----
-
-### The number compass, the cylinder does not accept me
-
-*2024-10-14 10:42:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/திசைகாட்டி-சிலிண்டர்-என்னை-ஏற்கவில்லை/150-345413) · `ta`
-
-Sarath Fonseka refuses election due to symbol disputes. Anura Kumara Dissanayake and Dinesh Gunawardena denied candidacy opportunities. Negotiations failed over compass and gas cylinder symbols.
-
-🟩
-
-Former parliamentarian Field Marshal Sarath Fonseka has said that the leader of the National People's Power, Anura Kumara Dissanayake and former Prime Minister Dinesh Gunawardena, could not be given the opportunity to contest the general election.
-
-This is why he has decided not to contest the general election.
-
-Field Marshal Sarath Fonseka added that the decision was taken due to the failure of negotiations to contest the compass and gas cylinder symbol in this year's general election.
-
-◼️
-
-[Data](articles/206ff336.json)
-
-[Extended Data](ext_articles/206ff336.ext.json)
-
----
-
-### Exchange compass> cylinder does not accept me
-
-*2024-10-14 10:42:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திசைகாட்டி-சிலிண்டர்-என்னை-ஏற்கவில்லை/175-345413) · `ta`
-
-Sarath Fonseka: Anura Kumara Dissanayake, Dinesh Gunawardena denied election symbols. Negotiations failed. Decided not to contest.
-
-🟩
-
-Former parliamentarian Field Marshal Sarath Fonseka has said that the leader of the National People's Power, Anura Kumara Dissanayake and former Prime Minister Dinesh Gunawardena, could not be given the opportunity to contest the general election.
-
-This is why he has decided not to contest the general election.
-
-Field Marshal Sarath Fonseka added that the decision was taken due to the failure of negotiations to contest the compass and gas cylinder symbol in this year's general election.
-
-◼️
-
-[Data](articles/35935a73.json)
-
-[Extended Data](ext_articles/35935a73.ext.json)
 
 ---

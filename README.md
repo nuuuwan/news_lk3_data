@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 23:59:14**
+As of **2024-10-15 00:13:12**
 
 ## Newspaper Stats
 
-*Scraped **49,496** Articles*
+*Scraped **49,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 401
 colombotelegraphcom | 493
 bbccomsinhala | 495
 islandlk | 2,933
-economynextcom | 3,031
+economynextcom | 3,034
 dailyftlk | 3,346
 adalk | 4,596
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,496 (100.0%) of 49,496 articles have been extended.
+49,499 (100.0%) of 49,499 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -364,6 +364,28 @@ Speaking at a media briefing held at the Sri Lanka Civil War Headquarters in Nel
 
 ---
 
+### SriLankan Airlines Airbus pilots clash midair
+
+*2024-10-14 19:45:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-airbus-pilots-clash-midair-183533/) · `en`
+
+ECONOMYNEXT – Pilots of a SriLankan Airlines flight from Sydney to Colombo were involved in a tense verbal altercation, with one of them being locked out of the cockpit of an Airbus A330, aviation sources said.
+
+A senior cabin crew member intervened to defuse the situation and ensure that the copilot could return to the cockpit.
+
+Sri Lankan airlines in a statement on Monday confirmed an incident on UL607, and said the captain has since been grounded.
+
+Flight UL607 took off without incident until the female First Officer requested a toilet break. Standard safety procedures require another member of the cabin crew, usually the purser, to enter the cockpit to accompany the pilot flying at the time.
+
+While the First Officer waiting to enter toilet and before a cabin crew member had entered the cockpit, the captain had closed the door and allegedly refused to reopen it.
+
+...
+
+[Data](articles/015641cf.json)
+
+[Extended Data](ext_articles/015641cf.ext.json)
+
+---
+
 ### திருகோணமலை -மட்டக்களப்பு பிரதான வீதியில் வாகனமொன்றினை முந்தி செல்ல முற்பட்ட லொறி விபத்து
 
 *2024-10-14 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196299) · `ta`
@@ -583,6 +605,28 @@ The petitioner, which is said to have complained to the Sri Lanka Human Rights C
 [Data](articles/4d8cd717.json)
 
 [Extended Data](ext_articles/4d8cd717.ext.json)
+
+---
+
+### China says supporting Sri Lanka crackdown on cyber rackets involving nationals
+
+*2024-10-14 18:23:00* · [`economynextcom`](https://economynext.com/china-says-supporting-sri-lanka-crackdown-on-cyber-rackets-involving-nationals-183523/) · `en`
+
+ECONOMYNEXT – China will provide its full cooperation to crackdown its nationals who have been suspected to have involved in financial scam after over 100 Chinese nationals have been nabbed by police over suspected online scam.
+
+Sri Lanka police have arrested more than 150 Chinese nationals over their alleged involvement in online financial scam.
+
+“China is closely following the recent reports that Sri Lankan police arrested a number of foreign suspects of online fraud, including Chinese nationals,” the Chinese Embassy in Colombo said in a statement.
+
+“These cases not only pose a threat to the property of our two peoples, but also seriously damage China’s image and affect the traditional friendship between our two countries.”
+
+“The Chinese Embassy provides full support to Sri Lankan law enforcement agencies in resolutely cracking down on suspects while protecting their legitimate rights and interests in accordance with the law.”
+
+...
+
+[Data](articles/07cc6280.json)
+
+[Extended Data](ext_articles/07cc6280.ext.json)
 
 ---
 
@@ -895,6 +939,32 @@ The government will take action to provide necessary assistance to all affected 
 [Data](articles/68d8d4d6.json)
 
 [Extended Data](ext_articles/68d8d4d6.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 293.50/80 to dollar, bond yields down
+
+*2024-10-14 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-50-80-to-dollar-bond-yields-down-183512/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee depreciated to close at 293.50/80 to the US dollar Monday from 292.75/95 a day earlier, dealers said, while bond yields were down ahead of a treasury bill auction.
+
+The central bank announced 97,000 million rupees of Treasury bills will be issued through an auction on Tuesday (15).
+
+A bond maturing on 15.12.2026 closed at 10.15/30 percent, down from 10.25/40 percent.
+
+A bond maturing on 15.12.2027 closed at 11.15/25 percent, down from 11.30/45 percent.
+
+Bonds maturing on 15.02.2028 and 15.03.2028 closed at 11.40/50 percent, down from 11.50/60 percent.
+
+A bond maturing on 15.09.2029 closed at 11.55/75 percent, down from 11.80/95 percent.
+
+A bond maturing on 01.10.2032 closed at 12.15/35 percent. (Colombo/Oct14/2024)
+
+◼️
+
+[Data](articles/a449eeb4.json)
+
+[Extended Data](ext_articles/a449eeb4.ext.json)
 
 ---
 
@@ -2355,71 +2425,5 @@ The government of Sri Lankan president Anura Kumara Dissanayake has pledged soli
 [Data](articles/35614fd9.json)
 
 [Extended Data](ext_articles/35614fd9.ext.json)
-
----
-
-### The Wrath of a Nation
-
-*2024-10-14 11:43:00* · [`islandlk`](http://island.lk/the-wrath-of-a-nation/) · `en`
-
-The wrath of a nation can be a fearful thing. In 2022 we saw its evolution and culmination in our own “Aragalaya“, which sent the then president, a so called “battle hardened” war veteran and “warrior-statesman”, first in to exile and then to precipitate retirement.
-
-We saw it again, just a couple of weeks ago, in the election of Sri Lanka’s ninth executive president, a villager from deeply rural Tambuttegama, the son of a surveyor’s assistant. That he was the first student from Tambuttegama Central College to gain university entrance, is another factor which attests to the absence of privilege and personal resources. His election is also an extension of the “Aragalaya”, and a logical evolution of that movement, but without the drama and histrionics and, instead, that energy, that anger, legitimately channeled in to a quiet civic purpose.
-
-...
-
-[Data](articles/1fd26e13.json)
-
-[Extended Data](ext_articles/1fd26e13.ext.json)
-
----
-
-### Antiary report on the Attorney General about the Rajapaksa wind power plant project
-
-*2024-10-14 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202146) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan Supreme Court hears case against Rajapaksa wind power plant project. India's Cabinet decides to proceed despite environmental concerns. Court orders government to respond by Jan 31.
-
-🟩
-
-The Attorney General informed the Supreme Court that the Cabinet of India has decided to address the project of building a wind power plant in Mannar, Vedithalthivu, Mannar.
-
-The Petitions were summoned when the Sri Lankan government and the Sri Lankan government and India, India and India.
-
-The notice was made by Deputy Solicitor General Dr. Awarantine Perera.
-
-The petitions are today today. Turairajah, AHMD. Navas, Shiran Gunaratne, was called before the Festive Supreme Court Judge of Aetu Veliloma and Mahinda Samayawardena.
-
-The petitions were presented by the Wildlife and Natural Resources Security Association and a group of people including the Environmental Yarmy Center.
-
-When the petitions were taken up today (14), the Deputy Solicitor General of the Cabinet Secretary and Deputy Solicitor General Dr. Arax Perera, who appeared for the Minister of the Cabinet and Energy Minister said that the Cabinet has decided to resume the proposed screenshop project.
-
-...
-
-[Data](articles/8aa9f1e2.json)
-
-[Extended Data](ext_articles/8aa9f1e2.ext.json)
-
----
-
-### The Asian Scene from Colombo in 1954
-
-*2024-10-14 11:41:00* · [`islandlk`](http://island.lk/the-asian-scene-from-colombo-in-1954/) · `en`
-
-The Colombo Powers Conference provided the momentum for Asian-African and led to 1955 Bandung Conference
-
-I participated in this Conference held in Colombo in 1954 at which many of the Asian Regional States were represented by their Prime Ministers and led to Conferences in Bogor and Bandung and to the Non-Aligned Movement. It also gave ideas for the SAARC Organisation in the 1980s.
-
-In April 1954, Sir John Kotelawala, Prime Minister of Ceylon, invited the Prime Ministers of Burma, India, Indonesia, and Pakistan, to meet at a conference in Colombo “for an informal discussion of matters of common interest”. In his autobiography An Asian Prime Minister’s Story, Sir John relates how he thought of the idea of a Colombo Powers Conference and makes this comment:–
-
-...
-
-[Data](articles/8b1f989b.json)
-
-[Extended Data](ext_articles/8b1f989b.ext.json)
 
 ---

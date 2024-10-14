@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 19:01:08**
+As of **2024-10-14 19:12:37**
 
 ## Newspaper Stats
 
-*Scraped **49,471** Articles*
+*Scraped **49,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ bbccomsinhala | 494
 islandlk | 2,933
 economynextcom | 3,031
 dailyftlk | 3,346
-adalk | 4,590
+adalk | 4,591
 dailymirrorlk | 4,733
-adaderanalk | 5,854
+adaderanalk | 5,855
 tamilmirrorlk | 6,756
 virakesarilk | 7,914
-adaderanasinhalalk | 8,563
+adaderanasinhalalk | 8,564
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,471 (100.0%) of 49,471 articles have been extended.
+49,471 (100.0%) of 49,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### China responds to recent arrests of Chinese nationals in Sri Lanka for ‘online scams’
+
+*2024-10-14 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102689/china-responds-to-recent-arrests-of-chinese-nationals-in-sri-lanka-for-online-scams) · `en`
+
+The Chinese Embassy in Colombo says that China is closely following the recent arrests of Chinese nationals in Sri Lanka for suspected online fraud and is supporting Sri Lankan law enforcement agencies in cracking down on them, while ensuring their rights and interests are protected in accordance with the law.
+
+Issuing a statement in this regard, the Chinese Embassy highlighted that these cases not only pose a threat to the property of the two peoples, but also seriously damage China’s image and affect the traditional friendship between the two countries.
+
+Furthermore, the statement mentioned that the Chinese Embassy provides full support to Sri Lankan law enforcement agencies in “resolutely cracking down on suspects while protecting their legitimate rights and interests in accordance with the law.”
+
+...
+
+[Data](articles/5ede721a.json)
+
+---
+
+### දිස්ත්‍රික්ක කිහිපයක් සඳහා නායයාමේ අනතුරු ඇඟවීම්
+
+*2024-10-14 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202171) · `si`
+
+ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් නවතම නායයාමේ අනතුරු ඇඟවීමේ නිවේදනය නිකුත් කර තිබේ.
+
+එම අනතුරු ඇඟවීමේ නිවේදනය අද (14) පස්වරු 4.00 සිට ඉදිරි පැය 24ක කාලයක් දක්වා වලංගු බව ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනය සඳහන් කරයි.
+
+ඒ අනුව පහත සඳහන් දිස්ත්‍රික්කවලට අයත් ප්‍රාදේශීය ලේකම් කොට්ඨාස සඳහා අදියර 2 යටතේ මෙන්ම අදිරය 1 යටතේ අනතුරු ඇඟවීම් නිවේදන නිකුත් කර ඇත.
+
+කළුතර දිස්ත්‍රික්කය: - වලල්ලාවිට, හොරණ, ⁠ඉංගිරිය, මතුගම, දොඩංගොඩ, ⁠බුලත්සිංහල, පාලින්දනුවර, ⁠අගලවත්ත
+
+කෑගල්ල දිස්ත්‍රික්කය: - රුවන්වැල්ල, යටියන්තොට, දෙහිඕවිට, වරකාපොළ, බුලත්කොහුපිටිය, කෑගල්ල, ⁠මාවනැල්ල, ⁠අරණායක, ⁠දැරණියගල
+
+රත්නපුර දිස්ත්‍රික්කය: - ඇහැළියගොඩ, ⁠කිරිඇල්ල, අයගම, ඇලපාත, ⁠කලවාන, රත්නපුර, ⁠කුරුවිට
+
+◼️
+
+[Data](articles/13cd0daa.json)
+
+---
 
 ### Discussion in detail on how to make strategies for the success of the elephant symbol and carry out election campaigns
 
@@ -53,6 +91,26 @@ During the meeting, the Parliamentary General Elections to be held in November, 
 [Data](articles/747f927d.json)
 
 [Extended Data](ext_articles/747f927d.ext.json)
+
+---
+
+### ගං වතුර පාලනය සඳහා තිරසර විසඳුමක අවශ්‍යතාව  ජනපති අවධාරණය කරයි
+
+*2024-10-14 17:43:56* · [`adalk`](https://www.ada.lk/breaking_news/ගං-වතුර-පාලනය-සඳහා-තිරසර-විසඳුමක-අවශ්‍යතාව--ජනපති-අවධාරණය-කරයි/11-412484) · `si`
+
+අයහපත් කාලගුණය හේතුවෙන් විපතට පත් කොළඹ, ගම්පහ, පුත්තලම හා කළුතර  ජනතාවට කඩිනමින් සහන සැපයීම ප්‍රමුඛ කාර්යය කර ගන්න
+
+සහන ලබා දීම සඳහා අතිරේකව වෙන් කරන ලද රුපියල් මිලියන 50ට අමතරව මුදල් අවශ්‍ය නම් ඒ සඳහා ප්‍රතිපාදන වෙන් කරන්න
+
+මෙම වසරේදී ගංවතුර තත්ත්වය අවස්ථා දෙකකදී ඇති වූ බවත් ඒ අනුව නිරන්තරයෙන් ඇතිවන ගං වතුර පාලනය සඳහා නිශ්චිත හා තිරසර වැඩපිළිවෙළක් අවශ්‍ය බවත්   ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රකාශ කළේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ , ආපදා කළමනාකරණ අමාත්‍යාංශය සහ මුදල් අමාත්‍යාංශ නිලධාරීන්  සමඟ ජනාධිපති කාර්යාලයේදී අද (14) පැවති සාකච්ඡාවේදීය.
+
+අයහපත් කාලගුණය හේතුවෙන් විපතට පත් කොළඹ, ගම්පහ, පුත්තලම හා කළුතර   ජනතාවට කඩිනමින් සහන සැපයීම ප්‍රමුඛ කාර්යය කර ගන්නා ලෙසත් , ඉන් පසුව දේපළ හානි පූර්ණය සඳහා කටයුතු කරන ලෙසත්, ජනාධිපතිවරයා  අමාත්‍යාංශ නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.
+
+...
+
+[Data](articles/5c00a284.json)
 
 ---
 
@@ -2265,73 +2323,5 @@ The election for the Elpitiya Pradeshiya Sabha is scheduled to be held on Octobe
 [Data](articles/0c7cacc0.json)
 
 [Extended Data](ext_articles/0c7cacc0.ext.json)
-
----
-
-### One arrested with foreign cigarettes in Katunayake
-
-*2024-10-14 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/196229) · `ta`
-
-Woman arrested Katunayake airport illegal cigarettes Dubai origin 125 packs 25000 cigarettes 3750000 rupees released police bail court appearance
-
-🟩
-
-A woman was arrested by the Airport Police Drug Prevention Unit yesterday (13) at Katunayake airport with illegal cigarettes.
-
-The arrested was a 40 -year -old woman from Chilaw, Bingiriya.
-
-The suspect arrived at the Katunayake airport at 5.15 pm yesterday from Dubai.
-
-Meanwhile, 125 cigarettes containing 25,000 foreign cigarettes worth 37 lakhs 50 thousand rupees have been seized from the suspect's travel packages.
-
-Subsequently, the arrested woman has been released on police bail and the Airport Police Drug Prevention Unit said she had to appear before the Negombo Magistrate's Court on the 16th.
-
-◼️
-
-[Data](articles/403afd57.json)
-
-[Extended Data](ext_articles/403afd57.ext.json)
-
----
-
-### Delay in the main train service
-
-*2024-10-14 10:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதான-ரயில்-சேவையில்-தாமதம்/175-345411) · `ta`
-
-Fast train from Mahavai to Colombo Fort experiences technical failure near Thimbriyagadha station due to bad weather, causing delay in main train service.
-
-🟩
-
-A fast train traveling from Mahavai to Colombo Fort has caused a technical failure.
-
-The Railway Department said that the main train service has been delayed.
-
-The railway department has said that the train has been subjected to a technology problem near the Thimbriyagadha station and there will be some delays in operating the train due to bad weather.. Remble
-
-◼️
-
-[Data](articles/247a37dd.json)
-
-[Extended Data](ext_articles/247a37dd.ext.json)
-
----
-
-### Sri Lanka construction sector NPLs start to fall from 17.1-pct peak
-
-*2024-10-14 10:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-construction-sector-npls-start-to-fall-from-17-1-pct-peak-183373/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s construction sector non-performing loans which peaked at 17.1 percent after a currency collapse, has eased to 14.1 percent despite a contraction in credit, according to the central bank data in a Financial Stability Review.
-
-Construction investment credit is usually one of the big beneficiaries when central banks print money to target inflation or growth and collapse as soon as a ‘stabilization crisis’ starts as inflation ceases to accelerate.
-
-Central banks typically ‘cut rates’ by printing money through open market operations, buying back government bonds from banks, allowing them to give loans without deposits.  The exercise tends to worsen loan to deposit ratios.
-
-In the last crisis however some foreign banks, sharply curtailed all credit, including interbank lending due higher risk perceptions including on government debt, where an actual default or induced artificial default from debt restructuring was feared.
-
-...
-
-[Data](articles/3a5b3eed.json)
-
-[Extended Data](ext_articles/3a5b3eed.ext.json)
 
 ---

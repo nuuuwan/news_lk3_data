@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 06:44:37**
+As of **2024-10-14 07:27:25**
 
 ## Newspaper Stats
 
-*Scraped **49,340** Articles*
+*Scraped **49,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,93 @@ dailyftlk | 3,346
 adalk | 4,576
 dailymirrorlk | 4,733
 adaderanalk | 5,825
-tamilmirrorlk | 6,724
+tamilmirrorlk | 6,726
 virakesarilk | 7,903
-adaderanasinhalalk | 8,534
+adaderanasinhalalk | 8,535
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,336 (100.0%) of 49,340 articles have been extended.
+49,340 (100.0%) of 49,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### The Tamil National Party will not leave the party
+
+*2024-10-14 06:40:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சியை-விட்டு-வெளியேறமாட்டேன்/175-345400) · `ta`
+
+Tamil National Party: Sivagnanam Sreedharan vows to stay despite challenges. Leader faces opposition from party members but remains committed to Tamil cause.
+
+🟩
+
+Sivagnanam Sreedharan, the chief candidate of the Tamil National Alliance (TNA), said that he would leave the Tamil National Alliance (TNA) and never leave the TNA.
+
+Jaffna Election District Candidate Candidate Jaffna. Father Selva was held in the hall. He said this while addressing it.
+
+Many say I will leave the party. I will never leave the Tamil party. Many people try to get out of the party. But, I will fight until the last. The only party politics is the Sri Lankan Tamil party.
+
+I am facing the case even though I won the election for the leadership of the Sri Lanka Tamil National Alliance (TNA). My party members have filed cases that I should not act as the leader. I am in this party beyond all the challenges. (A)
+
+◼️
+
+[Data](articles/48eec668.json)
+
+[Extended Data](ext_articles/48eec668.ext.json)
+
+---
+
+### An announcement of heavy rains
+
+*2024-10-14 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202136) · `si`
+
+Heavy rains warning for 24 hours in Western, Sabaragamuwa, North Western, Northern, and Galle districts. Showers/thundershowers expected, heavy rainfall possible exceeding 100mm. Thunderstorms may cause wind and lightning issues.
+
+🟩
+
+The Department of Meteorology has issued a warning of heavy rains, which are valid for the next 24 hours.
+
+The announcement has been made aware of the Western, Sabaragamuwa, North Western, Northern Province and Galle districts.
+
+Due to the disturbance in the island, the existing rainy nature is expected to continue the existing rain condition.
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, North Western and Northern provinces.
+
+In the Western, Sabaragamuwa, North Western and Northern provinces, the Galle and Matara districts, mm.. Heavy rains can occur at over 100.
+
+Thundershowers will develop at several places in the evening or night in the rest of the island.
+
+The Department of Meteorology further stated that the necessary steps to be taken to reduce temporary winds and lightning accidents due to thunderstorms.
+
+◼️
+
+[Data](articles/e5c27bec.json)
+
+[Extended Data](ext_articles/e5c27bec.ext.json)
+
+---
+
+### The risk of spreading diseases by random weather
+
+*2024-10-14 06:17:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலையால்-நோய்கள்-பரவும்-அபாயம்/175-345399) · `ta`
+
+Rainy weather increases disease spread risks like diarrhea and fever. Health department advises adopting proper hygiene practices in flood-affected areas to prevent illness.
+
+🟩
+
+The health department says that there is a risk of spreading diseases such as diarrhea, fever and fever due to prevailing rainy weather.
+
+For this reason, the Department of Health has pointed out that it is essential to adopt proper health practices of the public living in flood -affected areas.. (A)
+
+◼️
+
+[Data](articles/acbe3317.json)
+
+[Extended Data](ext_articles/acbe3317.ext.json)
+
+---
 
 ### Hirunika resigns from the National Organizer of the United Mather Shakti
 
@@ -2183,59 +2257,5 @@ Dr. Palitha Mahipala said that he will reduce the number of cancer patients by p
 [Data](articles/55aac292.json)
 
 [Extended Data](ext_articles/55aac292.ext.json)
-
----
-
-### Reoperation
-
-*2024-10-13 15:30:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-திறப்பு/175-345364) · `ta`
-
-Railway Department reopens Puttalam Market area between Lunuvila and Natandia after closure due to Valum incident.
-
-🟩
-
-The Railway Department has said that the area between the Lunuvila and Natandia area of ​​the Puttalam Market, which was closed due to the Valum, has been reopened.
-
-◼️
-
-[Data](articles/05c19a17.json)
-
-[Extended Data](ext_articles/05c19a17.ext.json)
-
----
-
-### Schools closed in several education zones tomorrow
-
-*2024-10-13 15:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102651/schools-closed-in-several-education-zones-tomorrow) · `en`
-
-All government schools in Kaduwela and Kolonnawa Education Zonal Divisions in Colombo District and the Wattala Zonal Division in Gampaha District will be closed tomorrow (14), in view of the prevailing adverse weather condition.
-
-◼️
-
-[Data](articles/da741324.json)
-
-[Extended Data](ext_articles/da741324.ext.json)
-
----
-
-### Schools closing tomorrow
-
-*2024-10-13 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202117) · `si`
-
-Colombo, Gampaha schools close tomorrow due to bad weather. All schools in Colombo district shut down. Wattala Educational Division in Gampaha also affected.
-
-🟩
-
-The education officials have taken steps to close several schools in Colombo and Gampaha districts due to the inclement weather.
-
-According to the Western Provincial Director of Education, said that all schools in the Colombo District will be closed tomorrow.
-
-He added that all schools are closed tomorrow in the Wattala Educational Division in Gampaha District, he added.
-
-◼️
-
-[Data](articles/b4a2f1e1.json)
-
-[Extended Data](ext_articles/b4a2f1e1.ext.json)
 
 ---

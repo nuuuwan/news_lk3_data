@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 10:12:05**
+As of **2024-10-14 10:24:37**
 
 ## Newspaper Stats
 
-*Scraped **49,361** Articles*
+*Scraped **49,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,87 @@ newsfirstlk | 363
 dbsjeyarajcom | 401
 bbccomsinhala | 492
 colombotelegraphcom | 493
-islandlk | 2,929
+islandlk | 2,930
 economynextcom | 3,023
 dailyftlk | 3,346
-adalk | 4,578
+adalk | 4,579
 dailymirrorlk | 4,733
 adaderanalk | 5,829
-tamilmirrorlk | 6,729
+tamilmirrorlk | 6,731
 virakesarilk | 7,905
-adaderanasinhalalk | 8,540
+adaderanasinhalalk | 8,541
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,361 (100.0%) of 49,361 articles have been extended.
+49,364 (100.0%) of 49,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### தமிதா தொடர்பில் ஹேஷா வெளியிட்டுள்ள கருத்து
+
+*2024-10-14 10:11:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிதா-தொடர்பில்-ஹேஷா-வெளியிட்டுள்ள-கருத்து/175-345408) · `ta`
+
+கட்சி என்ற ரீதியில் கட்சியின் வெற்றியை உறுதிப்படுத்தும் நோக்கிலேயே ஐக்கிய மக்கள் சக்தியானது  தீர்மானங்களை மேற்கொள்வதாக அக்கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஹேஷா விதானகே தெரிவித்துள்ளார்.
+
+அத்துடன், தனிப்பட்ட காரணிகளை அடிப்படையாக கொண்டு ஐக்கிய மக்கள் சக்தி தீர்மானங்களை எடுக்காது எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+இரத்தினபுரியில் வைத்து ஊடகங்களுக்கு நேற்று (13)  கருத்து தெரிவிக்கும் போதே ஹேஷா விதானகே இவ்வாறு கூறியுள்ளார்.
+
+இதன்போது,  தமிதா அபேரத்ன முன்வைத்துள்ள குற்றச்சாட்டுக்களுக்கு பதிலளித்த ஹேஷா விதானகே,  “மாவட்டத்தின் வெற்றிக்காக நான் இதுவரை எடுத்த அனைத்து தீர்மானங்களும் மாவட்ட மக்களின் அபிலாஷைகளை நிறைவேற்றும் வகையில், மாவட்ட பெரும்பான்மை மக்களுடன் இணைந்தும் எடுக்கப்பட்டவையாகும்.
+
+எனவே எனக்கு இரத்தினபுரி மக்களே அன்றி பெயர்கள் முக்கியமல்ல. இரத்தினபுரி மாவட்ட மக்களை வெற்றிகொள்ளக்கூடிய வல்லுநர்கள், பட்டதாரிகள், அறிஞர்கள் மற்றும் புத்திஜீவிகள் கொண்ட பலமான அணி எங்களிடம் உள்ளது.
+
+...
+
+[Data](articles/128ab7a0.json)
+
+---
+
+### வெள்ளத்தில் சிக்கி மூவர் உயிரிழப்பு
+
+*2024-10-14 10:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்தில்-சிக்கி-மூவர்-உயிரிழப்பு/175-345407) · `ta`
+
+கடந்த 11ஆம் திகதி பாணந்துறை - அங்குருவத்தோட்ட வீதியில் பயணித்த ஹல்தொட்ட போதிக்கு அருகில் நீர் நிறைந்த வயல்வெளியில் தவறி விழுந்ததில் 48 வயதுடைய நபர் ஒருவர் உயிரிழந்துள்ளார்.
+
+கடந்த 10ஆம் திகதி கால்வாயில் தவறி விழுந்து காணாமல் போனவரின் சடலம் 12ஆம் திகதி காலை கடுவெல பிரதேச செயலகப் பிரிவுக்குட்பட்ட வெலிஹிட கிராமத்தில்  கண்டுபிடிக்கப்பட்டது.
+
+மழை நிலை மேலும் அதிகரிக்கும் பட்சத்தில் தற்போது படிப்படியாக குறைந்து வரும் வெள்ள நிலை மீண்டும் அதிகரிக்கலாம் என நீர்ப்பாசனப் பணிப்பாளர் எஸ்.பி.சி.சுகீஸ்வரா தெரிவித்தார்.
+
+அதிக மழையில், கம்பஹா, கொழும்பு, களுத்துறை, காலி மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களில் உடனடியாக நகர வெள்ளம் ஏற்படக்கூடும் என்றும் அவர் எச்சரிக்கிறார். R
+
+◼️
+
+[Data](articles/013dc331.json)
+
+---
+
+### The life of Trump's life in danger again?
+
+*2024-10-14 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202142) · `si`
+
+Trump rally security breach: Man arrested with guns near event in California. Suspect found with illegal weapons and fake passport. Investigation ongoing.
+
+🟩
+
+A man was arrested by two guns near the nearest rally of Donald Trump's political rally.
+
+The suspect was arrested in a security checkpoint near the security checkpoint near the country's security rally near the political rally of Donald Trump's political rally organized in California.
+
+Two illegal guns and a fake passport have been found in the possession of the suspect.
+
+The 49-year-old suspect is conducting further investigations into the suspect.
+
+◼️
+
+[Data](articles/f44896d1.json)
+
+[Extended Data](ext_articles/f44896d1.ext.json)
+
+---
 
 ### Elpitiya Pradeshiya Sabha
 
@@ -341,6 +403,30 @@ In addition, 40,911 persons belonging to 10,914 families in the Colombo district
 [Data](articles/b3cdc979.json)
 
 [Extended Data](ext_articles/b3cdc979.ext.json)
+
+---
+
+### An announcement of heavy rains
+
+*2024-10-14 07:27:51* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-පිළිබඳ-අවවාදාත්මක-නිවේදනයක්/11-412471) · `si`
+
+Heavy rains warning: 24-hour alert issued by Department of Meteorology. Rainfall expected in Western, Sabaragamuwa, North Western, Northern provinces, including Galle, Matara, Kandy, Nuwara Eliya. Thunderstorms possible in affected areas.
+
+🟩
+
+Consultation of heavy rains has been released by the Department of Meteorology. The announcement issued this morning will be valid for up to 24 hours.
+
+According to the announcement, the current rains due to the cluttering of an atmosphere in the island
+
+Further hopes, according to the Western, Sabaragamuwa, North Western and Northern provinces, Galle, Matara, Kandy and Nuwara Eliya
+
+The Department ofsitaries will show rain or thundershowers at times in districts.
+
+◼️
+
+[Data](articles/99134c5d.json)
+
+[Extended Data](ext_articles/99134c5d.ext.json)
 
 ---
 
@@ -813,6 +899,24 @@ Premachandra made this announcement at a press conference held in Colombo yester
 [Data](articles/8463a6d5.json)
 
 [Extended Data](ext_articles/8463a6d5.ext.json)
+
+---
+
+### Rootcode marks a decade of innovation and global impact in technology
+
+*2024-10-14 00:36:00* · [`islandlk`](http://island.lk/rootcode-marks-a-decade-of-innovation-and-global-impact-in-technology/) · `en`
+
+More than 3 million people in the Nordic countries use Rootcode software every week
+
+Set to expand its global presence while contributing to local community through its philanthropic efforts
+
+Rootcode, a leading global software product engineering company, marked its 10th anniversary with a grand celebration at its headquarters. This milestone event highlighted a decade of relentless growth, cutting-edge innovations, and a commitment to delivering world-class technology solutions. The celebration also included the launch of a commemorative book titled “A Decade of Building Great Technology”, which chronicles Rootcode’s evolution from its humble beginnings into a global technology leader. The book captures the company’s journey, featuring pivotal projects, strategic partnerships and its remarkable expansion into global markets.
+
+...
+
+[Data](articles/25ed9ddb.json)
+
+[Extended Data](ext_articles/25ed9ddb.ext.json)
 
 ---
 
@@ -2207,103 +2311,5 @@ In addition, all schools in Kolonnawa and Kaduwela education areas will also be 
 [Data](articles/bab94b0e.json)
 
 [Extended Data](ext_articles/bab94b0e.ext.json)
-
----
-
-### “Comrade”Anura Began Historic Journey After Becoming  the Fifth  Leader  of JVP  in 2014.
-
-*2024-10-13 18:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84899) · `en`
-
-The year was 1969.  A 31 year old mother sought the services of a prominent astrologer to draw up the horoscope of her six month old son. The astrologer made some calculations based on planetary movements that prevailed at the time of the boy’s birth the previous year. He looked up with amazement and told the mother “your son has a “Rajayoga” in his destiny. He is born to rule. One day he will rule this country”.The mother was pleased but puzzled. She  was from a low-income farming family.How could my son be a ruler? She wondered.
-
-...
-
-[Data](articles/19c2757d.json)
-
-[Extended Data](ext_articles/19c2757d.ext.json)
-
----
-
-### Thiruketheeswaram Children's Home
-
-*2024-10-13 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196167) · `ta`
-
-Fire breaks out at Thiruketheeswaram Children's Home; quickly extinguished by police and locals; no casualties reported; damage assessment ongoing.
-
-🟩
-
-The fire broke out on Saturday (12) at the Children's House in the Thiruketheeswaram area of ​​the Ulangulam police division.
-
-According to the information received by the Ulangulam police, police officers and residents of the area have extinguished the fire.
-
-தீயினால் உயிர்சேதம் எதுவும் ஏற்படவில்லை எனவும் பொருள் சேதம் இன்னும் மதிப்பிடப்படவில்லை எனவும் பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/977f83cf.json)
-
-[Extended Data](ext_articles/977f83cf.ext.json)
-
----
-
-### One person killed in motorcycle
-
-*2024-10-13 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196165) · `ta`
-
-Motorcycle crash kills one in Nethungolla. Driver dies after hitting military truck. Lorry driver arrested.
-
-🟩
-
-கிரிந்திவெல பொலிஸ் பிரிவுக்குட்பட்ட நெதுங்கொல்ல பிரதேசத்தில் உள்ள பெபிலியவல வீதியில் மோட்டார் சைக்கிளொன்று இராணுவ லொறியுடன் மோதி விபத்துக்குள்ளானதில் மோட்டார் சைக்கிள் ஓட்டுநர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-The motorcycle traveling from the Radhava area to Pepiliyawa has lost its control and crashed into the street with a military lorry.
-
-The driver of the motorcycle driver, who was injured in the incident, died after being admitted to the hospital.
-
-Subsequently, the body was placed in the funeral room of the hospital and the driver of the military lorry has been arrested in connection with the incident.
-
-◼️
-
-[Data](articles/c46484e0.json)
-
-[Extended Data](ext_articles/c46484e0.ext.json)
-
----
-
-### Acimulation of landslides extended
-
-*2024-10-13 18:00:34* · [`adalk`](https://www.ada.lk/breaking_news/නාය-යෑමේ-අනතුරු-ඇගවීම-දීර්ඝ-කරයි/11-412466) · `si`
-
-Landslide warnings extended: NBRO announces second-level alerts for multiple districts due to inclement weather. Residents advised to check updates before 4 PM today.
-
-🟩
-
-The National Building Research Organization (NBRO) has continued to extend the landslide warning announcements that had been imposed in eight Divisional Secretariat Divisions in eight districts in eight districts due to the prevailing inclement weather.
-
-Elpitiya, Neluwa, Badumba, Palindhala, Bulathsin Kandagala, Dodandara, Dodangoda, Bulathgala, Dodangoda, Kegalle, Bulathgoda, Wadduwa, Warambipitiya, Warambipola, Warambipuwa, Warambipola, Kegalle, Kegalle, Kegalle, Kegalle, KegalleThe second level announcement of knowing the intention of the Eheliyagoda, Udaya, Kiriella, Ayagama, Alapatha, Analhela, Ratnapura, Kuruwita, Ratnapura, Kuruwita, Ratnapura, Kuruwita, Ratnapura, Kuruwita, Ratnapura and Attanagalla District Secretariat.
-
-...
-
-[Data](articles/5c283956.json)
-
-[Extended Data](ext_articles/5c283956.ext.json)
-
----
-
-### The massacre in Lebanon
-
-*2024-10-13 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196163) · `ta`
-
-Lebanon massacre: Israeli aggression threatens separation of North from Gaza, displacing thousands. Uncertainty surrounds outcome.
-
-🟩
-
-In a comment written by Paragraph writer Hikam Sabeidin titled 'Israeli has opened a new tip in a war that Israel has not endured, says that one of Israel's primary goals will separate the North from the North from the Gaza and send tens of thousands of displaced immigrants to the north.. But no decision is sure.
-
-◼️
-
-[Data](articles/b3d9e2c8.json)
-
-[Extended Data](ext_articles/b3d9e2c8.ext.json)
 
 ---

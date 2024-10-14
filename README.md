@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 20:11:39**
+As of **2024-10-14 20:23:25**
 
 ## Newspaper Stats
 
-*Scraped **49,480** Articles*
+*Scraped **49,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 495
 islandlk | 2,933
 economynextcom | 3,031
 dailyftlk | 3,346
-adalk | 4,592
+adalk | 4,593
 dailymirrorlk | 4,733
 adaderanalk | 5,855
 tamilmirrorlk | 6,758
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,566
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,480 (100.0%) of 49,480 articles have been extended.
+49,481 (100.0%) of 49,481 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,32 @@ During the previous floods this year, the President directed the authorities to 
 [Data](articles/d1402d98.json)
 
 [Extended Data](ext_articles/d1402d98.ext.json)
+
+---
+
+### Attorney General does not appear for police officers who have been dissolved in the sex of a suspect
+
+*2024-10-14 18:30:21* · [`adalk`](https://www.ada.lk/breaking_news/නයි-මිරිස්-දියකර-සැකකරුවෙකුගේ-ලිංගයට-දැමූ-පොලිස්-නිලධාරීන්-වෙනුවෙන්-නීතිපති-පෙනී-නොසිටියි/11-412486) · `si`
+
+Sri Lanka Supreme Court case: Attorney General absent for police officers accused of sexual assault. Deputy Solicitor General Madhawa Tennakoon represents AG. Petitioner Ruwan Shantha Priyadarshana seeks justice after Human Rights Commission complaint. Court orders re-convening on December 19.
+
+🟩
+
+The Attorney General also informed the Supreme Court today that the Attorney General has not appeared for the delegation of a young man who has been arrested by the Teldeniya Police.
+
+This is a very serious incident, Deputy Solicitor General Madhawa Tennakoon, who was informed, appeared to the Attorney General, has been named as a respondent from the Attorney General.
+
+The petition was taken up before the Supreme Court Judge Yasantha Kodagoda and Kudukuni Wickremasinghe.
+
+The fundamental rights petition filed by Ruwan Shantha Priyadarshana has been named as respondents, the Attorney General, the Attorney General, including the Attorney General.
+
+The petitioner, which is said to have complained to the Sri Lanka Human Rights Commission on January 27, 2023 by the oil officers of the oil officers.
+
+...
+
+[Data](articles/4d8cd717.json)
+
+[Extended Data](ext_articles/4d8cd717.ext.json)
 
 ---
 
@@ -2339,27 +2365,5 @@ If the general election is an important election for the people of the hill coun
 [Data](articles/79ac5dcd.json)
 
 [Extended Data](ext_articles/79ac5dcd.ext.json)
-
----
-
-### The increased fertilizer subsidy from today
-
-*2024-10-14 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202144) · `si`
-
-Increased fertilizer subsidy implemented today. Minister Vijitha Herath announces Rs. 15,000 payment for farmers in Ampara, Polonnaruwa, Anuradhapura, and Mahaweli Zone.
-
-🟩
-
-Minister Vijitha Herath says that the provision of the increased fertilizer subsidy will be implemented this morning (14).
-
-Accordingly, the first phase will be paid Rs. 15,000 and Rs.
-
-The Minister said that the fertilizer subsidy was started in the Ampara District and subsequently to the farmers including Polonnaruwa, Anuradhapura and Mahaweli Zone.
-
-◼️
-
-[Data](articles/06b3da91.json)
-
-[Extended Data](ext_articles/06b3da91.ext.json)
 
 ---

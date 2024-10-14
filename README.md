@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 12:14:30**
+As of **2024-10-14 12:25:52**
 
 ## Newspaper Stats
 
-*Scraped **49,396** Articles*
+*Scraped **49,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 493
 islandlk | 2,930
 economynextcom | 3,026
 dailyftlk | 3,346
-adalk | 4,580
+adalk | 4,581
 dailymirrorlk | 4,733
-adaderanalk | 5,837
+adaderanalk | 5,838
 tamilmirrorlk | 6,743
 virakesarilk | 7,907
 adaderanasinhalalk | 8,545
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,396 (100.0%) of 49,396 articles have been extended.
+49,398 (100.0%) of 49,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Army and Navy intensify flood relief efforts across 8 districts as rivers overflow
+
+*2024-10-14 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102670/army-and-navy-intensify-flood-relief-efforts-across-8-districts-as-rivers-overflow) · `en`
+
+In response to the severe weather conditions affecting the island, the Sri Lanka Army has deployed additional troops to assist with flood relief efforts in areas hit by rising river levels.
+
+The Army Commander has instructed an expansion of relief operations, mobilizing more personnel to support those affected by widespread flooding.
+
+As of today (14), army troops have been deployed across several flood-affected areas, including the districts of Colombo, Kalutara, Galle, Matara, Ratnapura, Hambantota, Gampaha, and Puttalam.
+
+Accordingly, trop have been deployed in several locations today (14).
+
+A total of 6,500 troops, along with 23 WMZ vehicles, 34 Unibuffel vehicles, 34 Unicorn vehicles, and 56 boats, are prepared for immediate deployment across these regions to aid in rescue operations and provide much-needed relief, according to a statement by the Sri Lanka Army.
+
+The army remains on high alert as floodwaters continue to rise, with further measures expected as the situation develops.
+
+...
+
+[Data](articles/ef539bae.json)
+
+[Extended Data](ext_articles/ef539bae.ext.json)
+
+---
 
 ### Antiary report on the Attorney General about the Rajapaksa wind power plant project
 
@@ -923,6 +947,30 @@ Frequent winds can be increased at 50 - 60 km / h in the sea regions from Puttal
 [Data](articles/a8fa6334.json)
 
 [Extended Data](ext_articles/a8fa6334.ext.json)
+
+---
+
+### Woman arrested for leaving Katunayake of 35 lakhs
+
+*2024-10-14 08:47:19* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-35ක-දුම්වැටි-කටුනායකින්-පිට-කරන්න-ගිය-කාන්තාවක්-අල්ලයි/11-412474) · `si`
+
+Woman arrested at Katunayake airport for unpaid taxi fare. 40-year-old returning from Dubai. Found with undeclared cash. Released on bail, to appear in court for illegal activities.
+
+🟩
+
+A road passenger has been arrested by the Police Narcotics Unit of Katunayaka airport when they were not paid and leaving the airport at Rs..
+
+She was a 40 year old who was working in Dubai, a resident of Bingiriya, Chilaw. She was from Dubai to around 5:00 pm, Fitz Air, Fitz Air, Fitz Air, from Dubai to Katunayake.
+
+Officers of the Police Narcotics Sector have been arrested by the police narcotics, while she had been brought to a number of luggage and "Platinum" type and "platinum".
+
+The woman has been released on police bail, and this woman is to be produced before the Negombo Magistrate's Court with the labor of the lack of illegal.
+
+◼️
+
+[Data](articles/43fcf7f0.json)
+
+[Extended Data](ext_articles/43fcf7f0.ext.json)
 
 ---
 
@@ -2297,55 +2345,5 @@ On the one hand, India has a peaceful economic agreement among the countries of 
 [Data](articles/f91781fb.json)
 
 [Extended Data](ext_articles/f91781fb.ext.json)
-
----
-
-### Will the representation of Muslims be protected?
-
-*2024-10-13 19:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196190) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Muslims' representation debated: Faisal Qasim and Haris opposed due to supporting 20th Amendment. Former MP Tafeek agrees to run for Muslim Congress in Trincomalee District despite opposition.
-
-🟩
-
-Those who have said that Faisal Qasim and Haris, who supported the 20th Amendment, should not be nominated as candidates, did not oppose the former MP Tafeek, who supported the 20th Amendment as a candidate.. While they were protesting, Taufeek agreed to contest on behalf of the Muslim Congress in the Trincomalee District.
-
-◼️
-
-[Data](articles/67fa09d1.json)
-
-[Extended Data](ext_articles/67fa09d1.ext.json)
-
----
-
-### The Tamil people should reject the politics and the drug traders in the election. Anyngaranesan
-
-*2024-10-13 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196215) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil nationalists diverting post-war politics. Rejecting Tamil candidates, supporting Sinhalese. Tamil politicians selling liquor deals. Tamil National Green Movement urges rejecting fake nationalists and drug traders in upcoming elections.
-
-🟩
-
-Mullivaikkal's post -war Tamil politics is being diverted by Tamil nationalists. The agenda of the Tamil nationalism into the Sinhalese nationalism is being systematically carried out as a very nasuk.
-
-These are the ones who rejected the Tamil general candidate in the presidential election and demanded the vote for Sajith Premadasa. On the other hand, Tamil -speaking politicians are selling liquor bargains and selling them.
-
-The leader of the Tamil National Green Movement, Poor, said that the Tamil people should reject the parliamentary elections in the upcoming parliamentary elections to be held in this fake Tamil nationalists and drug traders.. Aingeranesan has appealed.
-
-The Tamil National Green Movement and the Democratic TNA are contesting the parliamentary election this time as the Democratic Tamil State Alliance. At a media briefing held at the office of the Tamil National Green Movement, P.Ingaranesan appealed for this.
-
-...
-
-[Data](articles/d97e4e25.json)
-
-[Extended Data](ext_articles/d97e4e25.ext.json)
 
 ---

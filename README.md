@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 16:13:17**
+As of **2024-10-14 16:24:13**
 
 ## Newspaper Stats
 
-*Scraped **49,439** Articles*
+*Scraped **49,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ dailyftlk | 3,346
 adalk | 4,588
 dailymirrorlk | 4,733
 adaderanalk | 5,848
-tamilmirrorlk | 6,751
+tamilmirrorlk | 6,753
 virakesarilk | 7,908
-adaderanasinhalalk | 8,556
+adaderanasinhalalk | 8,559
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,439 (100.0%) of 49,439 articles have been extended.
+49,444 (100.0%) of 49,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Kattankudi student
+
+*2024-10-14 16:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்தான்குடி-மாணவி-பிரதமருக்கு-மகஜர்/175-345446) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Fatima Nada, 14, hands PM Harini Amarasuriya Mahajar to combat drug crisis & child abuse."
+
+🟩
+
+Fatima Nada, a 14 -year -old student from Kattankudi to Colombo, handed over a Mahajar to Prime Minister Harini Amarasuriya on Monday morning.
+
+He has handed over the Mahajar to immediate action against the drug crisis that has affected children and youth and prevent child abuse.
+
+◼️
+
+[Data](articles/dc2f6938.json)
+
+[Extended Data](ext_articles/dc2f6938.ext.json)
+
+---
+
+### Postal voting is beginning today
+
+*2024-10-14 15:58:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூல-வாக்களிப்பு-இன்று-ஆரம்பம்/175-345445) · `ta`
+
+Elpitiya Pradeshiya Sabha postal voting starts today. Ballots distributed Oct 17-20. Those unable to vote by post can do so at District Election Commission office on Oct 18.
+
+🟩
+
+Postal voting for the Elpitiya Pradeshiya Sabha has begun today in the 2024 local government elections.
+
+The National Election Commission has announced that those who are unable to vote by post will be allowed to vote in the District Election Commission at the workplace on October 18.
+
+The ballot for the Elpitiya Pradeshiya Sabha election will be distributed from October 17 to 20.
+
+◼️
+
+[Data](articles/fcca1c82.json)
+
+[Extended Data](ext_articles/fcca1c82.ext.json)
+
+---
+
+### Ministry of Education announced on leave of leave
+
+*2024-10-14 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202161) · `si`
+
+Ministry of Education announces school closures due to inclement weather. Chief Secretary grants leave to schools after consultation with District Disaster Management Committees.
+
+🟩
+
+The Ministry of Education has issued a special announcement on the inclement weather conditions that have affected the island.
+
+The Ministry of Education has instructed the Chief Secretary, the Chief Secretary, Provincial Education Secretary or Provincial Education Secretary or Provincial Director of Education in order to grant leave to schools.
+
+In a statement, the Ministry said that the present weather conditions have been discussed with the District Disaster Management Committees due to the current weather conditions.
+
+◼️
+
+[Data](articles/081b2518.json)
+
+[Extended Data](ext_articles/081b2518.ext.json)
+
+---
 
 ### 3 problem with presidential candidates
 
@@ -120,6 +188,36 @@ The economics award is not one of the original prizes for science, literature an
 
 ---
 
+### UNDP Assistant Secretary General meets President
+
+*2024-10-14 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202160) · `si`
+
+UNDP Assistant Secretary General meets President Anura Kumara Dissanayake. Discusses development efforts, women's participation, rural economic challenges, agricultural productivity, electoral reforms, microfinance industry, and government's new reforms and anti-corruption measures.
+
+🟩
+
+The United Nations Development Program Assistant Secretary to the United Nations Development Program has met President Anura Kumara Dissanayake.
+
+Control, Constitutional Reforms and Elections in Sri LankaThe President announced the Presidential Media Unit.
+
+The agent is assured that the United Nations Development Program is fully assigned to Sri Lanka's development efforts based on the report.
+
+The meeting was discussed at the bottom level of women participation in the economy of the country.
+
+The United Nations Development Program has pointed out that limiting rural women's involvement in the economic activity, the United Nations Development Program has pointed out that there is a significant challenges in the financial sector.
+
+It is also because the agricultural sector demonstrates a reduction in the national economy.
+
+The President explained that the agricultural productivity of Sri Lanka was poorly compared to other countries in the Asian region.
+
+...
+
+[Data](articles/0cce2fb5.json)
+
+[Extended Data](ext_articles/0cce2fb5.ext.json)
+
+---
+
 ### Corruption at the passport office
 
 *2024-10-14 15:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-அலுவலகத்தில்-ஊழல்/175-345442) · `ta`
@@ -165,6 +263,32 @@ The relevant case was filed against the company by the Inland Revenue Department
 [Data](articles/b92ecc25.json)
 
 [Extended Data](ext_articles/b92ecc25.ext.json)
+
+---
+
+### 2024 Nobel Prize for Economics
+
+*2024-10-14 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202158) · `si`
+
+2024 Nobel Prize for Economics winners: Draron Asemoglu, Simon Johnson, and James A. Robinson. Awarded by Royal Academy. First economics prize given in 1969. Total recipients: 90; total awards: 55; 3 female winners.
+
+🟩
+
+2024 Draron Asemogliagelu, Simon Johnson and James A Robinson won the Nobel Prize for Economics.
+
+Their names were announced a few moments ago by the Royal Academy.
+
+Through this year, medicine, physics, chemistry, literary and peace.
+
+In 1969, the prize of the first economics was given for Ragnar Frisch and JAN Tinbergen.
+
+Up to date, 90 people have been awarded the Nobel Prize for Economics 55 times, three of them are women.
+
+◼️
+
+[Data](articles/29d1d8dc.json)
+
+[Extended Data](ext_articles/29d1d8dc.ext.json)
 
 ---
 
@@ -2231,133 +2355,5 @@ The Israeli military has reported that seven of the soldiers who were injured in
 [Data](articles/822a2581.json)
 
 [Extended Data](ext_articles/822a2581.ext.json)
-
----
-
-### More than 100mm of rainfall
-
-*2024-10-14 07:04:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மில்லி-மீற்றருக்கும்-அதிக-மழை-வீழ்ச்சி/175-345401) · `ta`
-
-Heavy rainfall warning issued for several districts, including Galle, Matara, Kandy, and Nuwara Eliya. Over 100mm expected in western, central provinces. Thunderstorms possible nationwide, especially evenings/night.
-
-🟩
-
-The Department of Meteorology has announced that rain or thunderstorms will occur from time to time in the Galle, Matara, Kandy and Nuwara Eliya districts.
-
-The department said that more than 100 mm of rainfall is likely in some places in the Western, Sabaragamuwa, North Western and Northern Provinces and Galle and Matara districts.
-
-It has also been reported that rain or thunderstorms are likely in the evening or night in the rest of the country. (A)
-
-◼️
-
-[Data](articles/ab19cfc6.json)
-
-[Extended Data](ext_articles/ab19cfc6.ext.json)
-
----
-
-### Murder sustained from the string of persons
-
-*2024-10-14 06:54:58* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගල-ඝාතනයක්-නූලෙන්-වැලකෙයි/11-412470) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Four arrests made in Ratmalana for weapons and drugs. Police seized swords and ice drugs. Suspects linked to crimes in Moratuwa and Mount Lavinia."
-
-🟩
-
-Mount Lavinia Headquarters Police say four persons were arrested in the Belakkkadu junction of Ratmalaku, taking a large quantity of sharp weapons.
-
-Police have seized seven swords and 37800 litls of ice drugs with the suspects
-
-Mount Lavinia Headquarters Chief Inspector Dileepa Sea Perera, the Chief Inspector Dileepa SC Peraka, who was prepared to be hacked to death near the Mount Lavinia Magistrate's Court, he was immediately subjected to a tubers to the OIC of the OIC of the Anti-Corruption Unit Police Inspector Chaminda KurabageAccordingly, a group of other officers have been arrested by a team of other officers
-
-Four possession of the four possession of the Ice Drugs have been taken into custody with six swords in a fertilizer.
-
-The police say that it was revealed that the person was returning to Mt.
-
-These suspects have many culprits in Moratuwa and Mount Lavinia. The suspects are residents of Ratmalana Soysa and Bairywatta.
-
-◼️
-
-[Data](articles/111d97ef.json)
-
-[Extended Data](ext_articles/111d97ef.ext.json)
-
----
-
-### The Tamil National Party will not leave the party
-
-*2024-10-14 06:40:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சியை-விட்டு-வெளியேறமாட்டேன்/175-345400) · `ta`
-
-Tamil National Party: Sivagnanam Sreedharan vows to stay despite challenges. Leader faces opposition from party members but remains committed to Tamil cause.
-
-🟩
-
-Sivagnanam Sreedharan, the chief candidate of the Tamil National Alliance (TNA), said that he would leave the Tamil National Alliance (TNA) and never leave the TNA.
-
-Jaffna Election District Candidate Candidate Jaffna. Father Selva was held in the hall. He said this while addressing it.
-
-Many say I will leave the party. I will never leave the Tamil party. Many people try to get out of the party. But, I will fight until the last. The only party politics is the Sri Lankan Tamil party.
-
-I am facing the case even though I won the election for the leadership of the Sri Lanka Tamil National Alliance (TNA). My party members have filed cases that I should not act as the leader. I am in this party beyond all the challenges. (A)
-
-◼️
-
-[Data](articles/48eec668.json)
-
-[Extended Data](ext_articles/48eec668.ext.json)
-
----
-
-### An announcement of heavy rains
-
-*2024-10-14 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202136) · `si`
-
-Heavy rains warning for 24 hours in Western, Sabaragamuwa, North Western, Northern, and Galle districts. Showers/thundershowers expected, heavy rainfall possible exceeding 100mm. Thunderstorms may cause wind and lightning issues.
-
-🟩
-
-The Department of Meteorology has issued a warning of heavy rains, which are valid for the next 24 hours.
-
-The announcement has been made aware of the Western, Sabaragamuwa, North Western, Northern Province and Galle districts.
-
-Due to the disturbance in the island, the existing rainy nature is expected to continue the existing rain condition.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, North Western and Northern provinces.
-
-In the Western, Sabaragamuwa, North Western and Northern provinces, the Galle and Matara districts, mm.. Heavy rains can occur at over 100.
-
-Thundershowers will develop at several places in the evening or night in the rest of the island.
-
-The Department of Meteorology further stated that the necessary steps to be taken to reduce temporary winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/e5c27bec.json)
-
-[Extended Data](ext_articles/e5c27bec.ext.json)
-
----
-
-### The risk of spreading diseases by random weather
-
-*2024-10-14 06:17:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலையால்-நோய்கள்-பரவும்-அபாயம்/175-345399) · `ta`
-
-Rainy weather increases disease spread risks like diarrhea and fever. Health department advises adopting proper hygiene practices in flood-affected areas to prevent illness.
-
-🟩
-
-The health department says that there is a risk of spreading diseases such as diarrhea, fever and fever due to prevailing rainy weather.
-
-For this reason, the Department of Health has pointed out that it is essential to adopt proper health practices of the public living in flood -affected areas.. (A)
-
-◼️
-
-[Data](articles/acbe3317.json)
-
-[Extended Data](ext_articles/acbe3317.ext.json)
 
 ---

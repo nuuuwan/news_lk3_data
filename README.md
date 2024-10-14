@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 18:20:23**
+As of **2024-10-14 19:01:08**
 
 ## Newspaper Stats
 
-*Scraped **49,466** Articles*
+*Scraped **49,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,160 @@ adalk | 4,590
 dailymirrorlk | 4,733
 adaderanalk | 5,854
 tamilmirrorlk | 6,756
-virakesarilk | 7,909
+virakesarilk | 7,914
 adaderanasinhalalk | 8,563
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,466 (100.0%) of 49,466 articles have been extended.
+49,471 (100.0%) of 49,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Discussion in detail on how to make strategies for the success of the elephant symbol and carry out election campaigns
+
+*2024-10-14 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196292) · `ta`
+
+Ceylon Workers Congress strategizes election campaign for 2024 parliamentary polls in Nuwara Eliya district. Meeting discusses candidate success tactics and campaign execution. Key figures present: Jeevan Thondaman, Senthil Thondaman, Maruthappandi Rameswaran, Palani Sakthivel.
+
+🟩
+
+In the 2024 parliamentary general election, the Ceylon Workers Congress held a discussion on how to carry out election campaigns for the victory of candidates contesting in the Nuwara Eliya district.
+
+A discussion was organized at the CLF Campus auditorium on Sunday (13) before the election campaigns of the Ceylon Workers Congress were launched for the upcoming parliamentary elections in November.
+
+The meeting was chaired by CWC general secretary Jeevan Thondaman, Chairman Senthil Thondaman, Finance and Financialist Maruthappandi Rameswaran.
+
+During the meeting, the Parliamentary General Elections to be held in November, the Ceylon Workers Congress (CEB) was taken to discuss the success of the candidates contesting the Nuwara Eliya district in detail on how to carry out election campaigns.
+
+...
+
+[Data](articles/747f927d.json)
+
+[Extended Data](ext_articles/747f927d.ext.json)
+
+---
+
+### Nattai alias Natraj plays two roles 'Lord Avatar'
+
+*2024-10-14 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196261) · `ta`
+
+Nattai (Natraj) stars as Lord Avatar in "Andavan Avataram". He plays dual roles alongside Raghav. Directed by Charles G., produced by Light Sound & Magic. First shoot in Chennai. Charles calls it a science fiction film offering a new cinematic experience.
+
+🟩
+
+Nataraj, a cinematographer and star actor, has been named 'Lord's Avatar' for the first time in two roles.
+
+Naty alias Natraj and Raghav are playing the lead roles in the upcoming film 'Andavan Avataram' directed by director Charles.
+
+G. The film, which is being recorded by Balamurugan, is composed by Navneet and Raghav.
+
+The film is being produced by Director Charles on behalf of Light Sound & Magic.
+
+The first shooting of the film has begun in Chennai. Commenting on the film, director and producer Charles said, “Actor Natti is playing two roles in the film.
+
+And this is a science fiction movie. The film crew is working hard to provide a new experience to the audience. ”
+
+◼️
+
+[Data](articles/60f0e528.json)
+
+[Extended Data](ext_articles/60f0e528.ext.json)
+
+---
+
+### Upendra's 'U1' released in December
+
+*2024-10-14 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196262) · `ta`
+
+"Upendra's U1 releases Dec 20 in Tamil, Telugu, Malayalam, Kannada & Hindi. Starring Upendra, Sunny Leone, directed by H.C.B. Ajinish Loknath."
+
+🟩
+
+Upendra, the leading star actor of the Kannada film industry, has been officially announced on the release date of the film 'U1' which is the hero of the story.
+
+Upendra, Sunny Leone, Murali Sharma, B.. Ravi Shankar, Ashyud Kumar, Sadhu Kokila and many others have been cast.
+
+H. C. B.. Ajinish Loknath has composed the music.
+
+Producer G, on behalf of Venus Entertainments. Manoharan and K. B.. Srikanth has co -produced.
+
+The single track and teaser of the film was released. It has been announced that the film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the twenty of December.
+
+Since some other PAN Indian films are released on the same date. Check out our film.
+
+◼️
+
+[Data](articles/fe3aac3e.json)
+
+[Extended Data](ext_articles/fe3aac3e.ext.json)
+
+---
+
+### 'Black Box' centered on web pornography
+
+*2024-10-14 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196259) · `ta`
+
+"Black Box" film focuses on internet crimes, particularly sexual harassment. Directed by S.K.C. Prabhat, it explores the impact of tech on women's privacy and safety. Starring Prabhat, Devika Venu, and Saravana Shakti, it addresses the consequences of online exploitation and seeks justice for victims.
+
+🟩
+
+Producer and actor gay. C. The film crew has said that the film 'Black Betty', which plays the role of Prabhat, is a creation that focuses on internet crimes on sexual harassment.
+
+Director S.. K.. C. Prabhat, Devika Venu, Saravana Shakti and many others have acted.
+
+The film is being produced by JK Film Productions.
+
+Commenting on the film, which will be released in the film House worldwide on the 18th, the director said, “Due to the development of the information technology industry, women's pornography and privacy crimes have increased.
+
+This causes the victim committed suicide. The police have registered a case against those responsible for the suicide.Is the real culprit punished?The story of the film. '' He said.
+
+◼️
+
+[Data](articles/50089ebb.json)
+
+[Extended Data](ext_articles/50089ebb.ext.json)
+
+---
+
+### Sai Tanashika starrer 'Fifth Veda'
+
+*2024-10-14 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196258) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sai Tanashika stars in "Fifth Veda," released alongside "Kabali." The internet series follows Anu as she inherits an ancient monument, facing obstacles from various gangs while trying to deliver it to a Tamil Nadu preacher. It combines mystery, Hindu myths, and mythological elements.
+
+🟩
+
+The 'Fifth Veda', which is playing the role of actress Sai Tanshika, has been released in fans with the film 'Kabali'.
+
+Sai Tansika, Santosh Pratap, Vivek Rajagopal. G. Mahendra, Krisha Group, Ramji, Devadarshini, Mathew Varghese, Ponvannan and many others have been cast.
+
+The Internet series is produced by Abirami Media Works for the digital site, G5.
+
+The internet series has been released on the 25th of this month in both Tamil and Telugu.
+
+Commenting on the Internet series, the film crew said, “Anu (Sai ​​Tansika), the first character, is going to Kasi to perform her mother's funeral.
+
+When he travels, an unfamiliar person meets him and hand over an ancient monument. He also urges the monument to be handed over to a preacher in Tamil Nadu.
+
+What's in that monument?Anu, who is reluctant to hand over it without knowing, then becomes a number of unexpected trouble.
+
+He also realizes that many gangs are trying to capture her monument at that moment.
+
+...
+
+[Data](articles/74088e85.json)
+
+[Extended Data](ext_articles/74088e85.ext.json)
+
+---
 
 ### Bail refusal to three others including Arjun Aloysius
 
@@ -128,7 +270,7 @@ The government will take action to provide necessary assistance to all affected 
 
 *2024-10-14 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-pulled-by-banks-183504/) · `en`
 
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
 
 The broader All Share Index closed down 0.39 percent, or 47.81 points, at 12,246; while the more liquid S&P SL20 Index closed down 0.71 percent, or 25.87 points, at 3,614.
 
@@ -2191,123 +2333,5 @@ In the last crisis however some foreign banks, sharply curtailed all credit, inc
 [Data](articles/3a5b3eed.json)
 
 [Extended Data](ext_articles/3a5b3eed.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 292.60/90 to US dollar, bond yields down
-
-*2024-10-14 10:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-292-60-90-to-us-dollar-bond-yields-down-183362/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened slightly stronger at 292.60/90 to the US dollar on Monday, from 292.75/95 a day earlier, while bond yields were down dealers said.
-
-The central bank announced it will be issuing 97,000 million rupees in Treasury bills through an auction on Tuesday (15).
-
-A bond maturing on 15.12.2027 was quoted at 11.20/25 percent, down from 11.30/45 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.42/50 percent, down from 11.50/60 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.65/80 percent, down from 11.80/95 percent.
-
-In equities, Colombo’s All Share Price Index opened up 0.12 percent, or 14.85 points higher at 12,308, while the S&P SL20 of more liquid stocks was trading up 0.09 percent or 3.12 points higher at 3,643.
-
-◼️
-
-[Data](articles/e8b7b266.json)
-
-[Extended Data](ext_articles/e8b7b266.ext.json)
-
----
-
-### 'By April, people will hear Ranil again'
-
-*2024-10-14 10:23:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-மாதத்திற்குள்-மக்கள்-மீண்டும்-ரணிலைக்-கேட்பார்கள்/175-345410) · `ta`
-
-Sri Lanka: Former MP Rajitha Senaratne predicts political shift by April 2023, citing internal party conflicts and public discontent with current government. He suggests Ranil Wickremesinghe may regain power due to voter fatigue.
-
-🟩
-
-Former parliamentarian Rajitha Senaratne said that there are many crises in the United People's Power and the National People's Power.
-
-“The United People's Power Party leadership is in great dissatisfaction. திசைகாட்டியிலும் நெருக்கடிகள் உள்ளன. By next April, this crisis will end. People bored by this government will ask Ranil again. ”
-
-Rajitha Senaratne said this while speaking to the media after a meeting of party members of the new Democratic Front held yesterday (13).
-
-◼️
-
-[Data](articles/ad574e22.json)
-
-[Extended Data](ext_articles/ad574e22.ext.json)
-
----
-
-### Man with loaded gun arrested at checkpoint near Trump’s rally in Southern California
-
-*2024-10-14 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102664/man-with-loaded-gun-arrested-at-checkpoint-near-trumps-rally-in-southern-california) · `en`
-
-A Nevada man with a shotgun, loaded handgun, ammunition and several fake passports in his vehicle was arrested at a security checkpoint outside Donald Trump’s rally Saturday night in the Southern California desert, authorities said. He was released the same day on $5,000 bail.
-
-The suspect, a 49-year-old resident of Las Vegas, was driving an unregistered black SUV with a “homemade” license plate that was stopped by deputies assigned to the rally in Coachella, east of Los Angeles, Riverside County Sheriff Chad Bianco said at a news conference Sunday afternoon.
-
-The driver claimed to be a journalist but it was unclear if he had the proper credentials. Deputies noticed the interior of the vehicle was “in disarray” and a search uncovered the weapons and ammo, along with multiple passports and driver licenses with different names, Bianco said.
-
-The man was arrested on suspicion of possessing a loaded firearm and possession of a high-capacity magazine, the department said in a statement.
-
-...
-
-[Data](articles/df120dbd.json)
-
-[Extended Data](ext_articles/df120dbd.ext.json)
-
----
-
-### Another vehicle belonging to the government is found
-
-*2024-10-14 10:14:30* · [`adalk`](https://www.ada.lk/picture_story/රජයට-අයත්-තවත්-වාහනයක්-සොයා-ගනියි/10-412475) · `si`
-
-Government vehicles seized in Nuwara Eliya district. Two jeeps found abandoned. Police investigating more state-owned vehicles.
-
-🟩
-
-A senior official of the Nuwara Eliya Police said he was discovered by the Nuwara Eliya Police (13) after the 13th morning of the Transport Ministry.
-
-Police said that the jeep of the Nuwara Eliya Zonal Education Office has been parked for many years on the Hambantota Zonal Education Office on the Hadnhamh road along the Nuwara Eliya.
-
-The official said that the Minister and another jeip had been provided with a private coordination officer in the Nuwara Eliya District and another jeep had begun a police investigation.
-
-නුවරඑලිය ප්‍රදේශයේ රජයට අයත් වාහන සගවා ඇති බවට ලද තොරතුරක් මත මේ වන විට ජිප් රථ දෙකක් සොයාගෙන ඇති බවත්, තවත් රජයේ වාහන කිහිපයක් සම්බන්ධයෙන් තොරතුරු ලැබි ඇති හෙයින් එම වාහනද පොලිස් භාරයට ගැනිමට කටයුතු කරන බවද පොලිස් නිලධාරියා වැඩිදුරටත් කියා සිටියේ.
-
-◼️
-
-[Data](articles/2b84d54a.json)
-
-[Extended Data](ext_articles/2b84d54a.ext.json)
-
----
-
-### Hesha's comment on Tamitha
-
-*2024-10-14 10:11:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிதா-தொடர்பில்-ஹேஷா-வெளியிட்டுள்ள-கருத்து/175-345408) · `ta`
-
-Hesha Vidanage denies Tamitha's claims, stating decisions are for party victory, not personal gain. He emphasizes collective decision-making and expertise in Ratnapura district.
-
-🟩
-
-Former parliamentarian Hesha Vidanage has said that the United People's Power is making decisions aimed at ensuring the party's victory as a party.
-
-He also noted that the United People's Power will not make decisions based on personal factors.
-
-Hesha Vidhanage said this while speaking to the media yesterday in Ratnapura.
-
-Responding to the allegations made by Tamitha Abeyratne, Hesha Vidhanage said, “All the resolutions I have taken so far for the success of the district have been taken with the majority of the district to fulfill the aspirations of the people of the district.
-
-So the names of the people of Ratnapura are not important to me. We have a strong team with experts, graduates, scholars and intellectuals who can win the people of Ratnapura district.
-
-It is a Democratic Party, our party always acts by making decisions together. In dealing with those decisions, if we want to make personal decisions for the success of the people, we will not hesitate to take them. ”
-
-◼️
-
-[Data](articles/128ab7a0.json)
-
-[Extended Data](ext_articles/128ab7a0.ext.json)
 
 ---

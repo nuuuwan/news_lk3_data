@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 15:39:35**
+As of **2024-10-14 15:58:24**
 
 ## Newspaper Stats
 
-*Scraped **49,433** Articles*
+*Scraped **49,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,026
 dailyftlk | 3,346
 adalk | 4,588
 dailymirrorlk | 4,733
-adaderanalk | 5,845
+adaderanalk | 5,846
 tamilmirrorlk | 6,748
 virakesarilk | 7,908
 adaderanasinhalalk | 8,556
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,433 (100.0%) of 49,433 articles have been extended.
+49,434 (100.0%) of 49,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Court rejects Arjun Aloysius’ appeal against prison sentence
+
+*2024-10-14 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102680/court-rejects-arjun-aloysius-appeal-against-prison-sentence) · `en`
+
+The Colombo Magistrate’s Court has rejected an appeal submitted by the Director of W.M. Mendis Distilleries Arjun Aloysius and two others, to be forwarded to the Colombo High Court, seeking to invalidate the prison sentence imposed on them by the court this morning (14) over VAT evasion.
+
+Through this appeal, the defendants have also requested permission to pay the due taxes in installments, Ada Derana reporter said.
+
+The Colombo Additional Magistrate Bandara Ilangasinghe had sentenced the Director of W.M. Mendis Distilleries, Arjun Aloysius and two others to 06 months in prison for defaulting the payment of Rs. 3.5 billion in Value Added Tax (VAT) by the company, when the case was taken up today.
+
+The relevant case was filed against the company by the Inland Revenue Department (IRD) for defaulting the payment of Rs. 3.5 billion in taxes owed to the government during the period from 2016 to 2019.
+
+◼️
+
+[Data](articles/b92ecc25.json)
+
+[Extended Data](ext_articles/b92ecc25.ext.json)
+
+---
 
 ### Arjunician's appeal declines
 
@@ -2359,29 +2379,5 @@ Shani Abeysekara: An accused of executing 10 months after being remanded
 [Data](articles/f0768613.json)
 
 [Extended Data](ext_articles/f0768613.ext.json)
-
----
-
-### Competition in gas cylinder in Colombo
-
-*2024-10-14 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196220) · `ta`
-
-Ranil Vilatharake, GFLOC president, contests Colombo election under UNP banner, backed by Susil Premjayantha.
-
-🟩
-
-Ranil Vilatharake, president of Sri Lanka's leading garment business, GFLOC, will contest the general election in the Colombo district in the cylinder symbol.
-
-Ranil Villattarake is a famous entrepreneurs who introduced a business model for social welfare under the name of Gflock.
-
-He will contest as the head of the Colombo district under the leadership of former Minister Susil Premjayantha as the head of the Colombo District.
-
-It is noteworthy that Ranil Villattarake Kespewa, who joined the United National Party (UNP) supporting the economic program of former President Ranil Wickremesinghe during the presidential election.
-
-◼️
-
-[Data](articles/717b617e.json)
-
-[Extended Data](ext_articles/717b617e.ext.json)
 
 ---

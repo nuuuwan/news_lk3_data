@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 01:23:09**
+As of **2024-10-15 01:58:20**
 
 ## Newspaper Stats
 
-*Scraped **49,505** Articles*
+*Scraped **49,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,351
 adalk | 4,596
 dailymirrorlk | 4,733
 adaderanalk | 5,857
-tamilmirrorlk | 6,761
+tamilmirrorlk | 6,762
 virakesarilk | 7,919
 adaderanasinhalalk | 8,569
 
@@ -26,9 +26,37 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,505 (100.0%) of 49,505 articles have been extended.
+49,506 (100.0%) of 49,506 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-15 (Tuesday)
+
+### The UN. President Meeting with Assistant Secretary
+
+*2024-10-15 01:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நா-உதவிச்-செயலாளருடன்-ஜனாதிபதி-சந்திப்பு/175-345469) · `ta`
+
+UN Assistant Secretary General Kanni Vignaraja met Sri Lanka President Anura Kumara Dissanayake. Discussion focused on administration, constitutional reforms, electoral system, UN report on risk impact, and women's economic contribution. UNDP pledged support for Sri Lanka's development efforts based on the report.
+
+🟩
+
+United Nations Assistant Secretary General of the United Nations Kanni Vignaraja met with President Anura Kumara Dissanayake at the Presidential Office yesterday morning.
+
+At this time, the focus was on the administration, the constitutional reforms and the electoral system.
+
+The United Nations is also a report titled 'Understanding of Dimensional Risk and their impact on the Sri Lankan people' '. President Anurakumara Dissanayake was handed over by the representative.
+
+The Representative also promised that the United Nations Development Program will provide full support for Sri Lanka's development efforts on this report.
+
+The meeting also focused on the lack of women's contribution to the economy of the country.(a)
+
+◼️
+
+[Data](articles/77555033.json)
+
+[Extended Data](ext_articles/77555033.ext.json)
+
+---
 
 ### 2024-10-14 (Monday)
 
@@ -2397,27 +2425,5 @@ In February, he left the main opposition party, the chief opposition, and joined
 [Data](articles/27f0c317.json)
 
 [Extended Data](ext_articles/27f0c317.ext.json)
-
----
-
-### Sri Lanka looking to fill post of corruption chief
-
-*2024-10-14 12:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-looking-to-fill-post-of-corruption-chief-183428/) · `en`
-
-ECONOMYNEXT – Sri Lanka has called for applications for the Director General post of the Commission to Investigate Allegations of Bribery or Corruption (Ciaboc).
-
-Qualified persons should prepare applications in accordance with the format published on the Parliament website.
-
-Applications should be sent via registered post referred to the Secretary General of the Constitutional Council, Constitutional Council-Office, Parliament of Sri Lanka, Sri Jayewardenepura Kotte or via email to constitutionalcouncil@parliament.lk on or before October 28.
-
-‘Appointment of Director General of Bribery or Corruption Allegations Investigation Commission’ should be marked in the upper left corner of the envelope or subject of the e-mail.
-
-The previous Director General Kanishka D Wijeratne agreed to resign last week after the Supreme Court gave leave to proceed.
-
-...
-
-[Data](articles/1d1664ba.json)
-
-[Extended Data](ext_articles/1d1664ba.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 11:23:16**
+As of **2024-10-14 11:39:56**
 
 ## Newspaper Stats
 
-*Scraped **49,378** Articles*
+*Scraped **49,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 493
 islandlk | 2,930
 economynextcom | 3,023
 dailyftlk | 3,346
-adalk | 4,579
+adalk | 4,580
 dailymirrorlk | 4,733
 adaderanalk | 5,832
-tamilmirrorlk | 6,736
+tamilmirrorlk | 6,740
 virakesarilk | 7,906
 adaderanasinhalalk | 8,544
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 8,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,378 (100.0%) of 49,378 articles have been extended.
+49,383 (100.0%) of 49,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Explosion at Padalgama Factory: One Kills
+
+*2024-10-14 11:10:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படல்கம-தொழிற்சாலையில்-வெடிப்பு-ஒருவர்-பலி/175-345418) · `ta`
+
+Explosion at Padalgama Factory: 1 death, 19 injuries reported. Police suspect boiler malfunction due to excessive heat. Incident occurred on Monday morning at a carbon-making facility in Gampaha district.
+
+🟩
+
+19 workers were injured and killed in an explosion on Monday morning at a carbon -making factory in Badalgama, Gampaha, police said.
+
+Police suspect that the boiler operating on Saturday night (12) may have exploded due to high heat.
+
+◼️
+
+[Data](articles/e067449a.json)
+
+[Extended Data](ext_articles/e067449a.ext.json)
+
+---
+
+### Chinese citizens arrested for illegally
+
+*2024-10-14 11:05:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோதமாக-தங்கியிருந்த-சீனப்-பிரஜைகள்-கைது/175-345417) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"15 Chinese citizens, including 4 women, arrested by police. Police investigation ongoing."
+
+
+
+This summary captures the key points from the original text while staying within the character limit. It mentions the number of arrests, gender distribution, law enforcement involvement, and the ongoing investigation.
+
+🟩
+
+15 Chinese citizens, including four women, were arrested by police yesterday (13).
+
+Based on information received by the police, they have been arrested and the Criminal Investigation Department is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/5098d22a.json)
+
+[Extended Data](ext_articles/5098d22a.ext.json)
+
+---
 
 ### Army is a special operation to save the victims
 
@@ -59,6 +107,60 @@ WMZel vessels and 34 unicorn vehicles and 56 boats, in addition to the dear in C
 [Data](articles/3cb390f7.json)
 
 [Extended Data](ext_articles/3cb390f7.ext.json)
+
+---
+
+### Three killed in train collision
+
+*2024-10-14 11:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மோதி-மூவர்-பலி-விசாரணையில்-புதிய-தகவல்கள்/175-345416) · `ta`
+
+Train collision kills 3: 21-year-old man, infant son, 49-year-old woman. Police investigation reveals attempted suicide, drug addiction, mental illness.
+
+🟩
+
+Police investigations have revealed that the death of three persons, including a child, who was recorded yesterday in Kalutara, Kalutara, Kalutara.
+
+Police said the 21 -year -old man was suspected of attempting to jump in front of the train with his child and the third person who tried to stop them was suspected.
+
+The deceased have been identified as a 21 -year -old youth, his one -year -old baby and a 49 -year -old.
+
+Investigations have revealed that the young man had informed his family that he was going to commit suicide with his child.
+
+It is reported that the person and the child were trying to remove the father and child from the railway platform, and they all fell on the railway track.
+
+Two adults have died on the spot and the child died in the Nagoda Hospital in Kalutara.
+
+Police investigations have revealed that the young man was addicted to drug use and his wife was mentally ill.
+
+◼️
+
+[Data](articles/b8729af0.json)
+
+[Extended Data](ext_articles/b8729af0.ext.json)
+
+---
+
+### Ready to support President - Thikambaram
+
+*2024-10-14 10:58:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-ஆதரவு-வழங்க-தயார்-திகாம்பரம்/175-345414) · `ta`
+
+Palani Thikambaram supports President Anura Kumara Dissanayake, promising to address issues affecting hill country residents. He criticizes the lack of representation from hill country in national politics, vowing to be the true voice for the region's concerns.
+
+🟩
+
+President Anura Kumara Dissanayake is ready to give support to the people of the hill country, said Palani Thikambaram, the leader of the Tamil Progressive Alliance and the Nuwara Eliya district candidate, said that he is ready to support him.
+
+He was speaking at the election campaign meeting organized at the Bogawantalawa Gergaswold Plantation on Sunday (13).
+
+Further, Nuwara Eliya district candidate Palani Thikambaram has been vocal in the opposition party during the time when the current country's President Anuragumara Dissanayake has been deployed in the opposition party that the youth of the hill country of the hill country have been deployed in homes and restaurants in Colombo.
+
+If the general election is an important election for the people of the hill country, there is a maneuvering of the absence of hill representatives. Some say that there is a new change in the hill country.
+
+...
+
+[Data](articles/79ac5dcd.json)
+
+[Extended Data](ext_articles/79ac5dcd.ext.json)
 
 ---
 
@@ -665,6 +767,24 @@ The motorcycle was not controlled from Batticaloa to Kalmunuka road and collided
 [Data](articles/460d6883.json)
 
 [Extended Data](ext_articles/460d6883.ext.json)
+
+---
+
+### The election warfare will leave
+
+*2024-10-14 07:59:21* · [`adalk`](https://www.ada.lk/breaking_news/කරුත්-මැතිවරණ-සටනින්-ඉවත්වෙයි/11-412473) · `si`
+
+Former MP Karunaratne Paranavithana resigns Ratnapura District Candidation Sri Lanka Force, preventing public vote general election.
+
+🟩
+
+Former MP Karunaratne Paranavithana has also resigned from the Ratnapura District Candidation of the Sri Lanka Force. As a result, he will inhibit the public to prevent him from voting at the general election.
+
+◼️
+
+[Data](articles/ffc94772.json)
+
+[Extended Data](ext_articles/ffc94772.ext.json)
 
 ---
 
@@ -2229,127 +2349,5 @@ The Tamil People's General Assembly won the presidential election and won the co
 [Data](articles/fe51693f.json)
 
 [Extended Data](ext_articles/fe51693f.ext.json)
-
----
-
-### We are asking for votes, not to form a strong opposition, but to form a strong government - Radhakrishnan
-
-*2024-10-13 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196199) · `ta`
-
-Radhakrishnan urges voters to support Tamil Progressive Alliance for strong government, emphasizing commitment to minority rights and representation.
-
-🟩
-
-Many people in this election are asking for a vote for a strong opposition but Velusamy Radhakrishnan, the leader of the Nuwara Eliya District Tamil Progressive Alliance, said that we will win the Savior Prophet to form a strong government and bring Sajith Premadasa as a prince.
-
-The first election campaign meeting of the Tamil Progressive Alliance was held today (13) at the Hatton Golden Mahal Hall.
-
-The meeting was attended by the public including Velusamy Radhakrishnan Palani Digambaram Mayilvankanam Udayakumar, the candidates of the Tamil Progressive Alliance, which are contesting on behalf of the People's Power in Nuwara Eliya District.. The Upcountry People's Front had organized the arrangements for this.
-
-As far as the people of the hill country are concerned, we have served the people of these people in the opposition party, even when we are in the ruling party.
-
-But other candidates have become a regular thing to arrive during the election and then disappear.
-
-...
-
-[Data](articles/e6ab0029.json)
-
-[Extended Data](ext_articles/e6ab0029.ext.json)
-
----
-
-### Emergency at Katana Divisional Secretariat
-
-*2024-10-13 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196201) · `ta`
-
-Heavy rains affect over 4,000 people in Katana Division. Floods block roads, disrupt transportation. Displaced residents sheltered at Catholic college. Military assists with ferry services. Multiple areas face traffic challenges due to ongoing rainfall.
-
-🟩
-
-More than 4,000 people have been affected by the flow of rain through the Katanas due to heavy rains across the country, said Katana Divisional Secretary Sumuthu Attukorala today (13).
-
-About 4800 people from 1385 families have been affected by about 17 Grama Niladhari Divisions, he said.
-
-Meanwhile, the Katunayake -Nittambuwa road has been flooded and traffic has been blocked due to this disaster.
-
-Traffic has been halted due to the flood conditions to Katunayake Airport via Negombo to Kipulapitiya and Patapathura Kalmangada Railway Railway.
-
-The Roman Catholic College, Kodugoda, has been used as a camp for the displaced due to floods, the Katana Divisional Secretary said.
-
-He also said that the ferry service is being carried out with the support of the Sri Lankan military to provide transport facilities to the flood -hit people in Madhuwa and Kodugoda areas.
-
-...
-
-[Data](articles/a149d2a0.json)
-
-[Extended Data](ext_articles/a149d2a0.ext.json)
-
----
-
-### One person was killed by a sharp weapon
-
-*2024-10-13 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196204) · `ta`
-
-A person was killed with a sharp weapon in a house. Police started investigating on Sunday.
-
-🟩
-
-மாதம்பை பொலிஸ் பிரிவிற்குட்பட்ட சுதுவெல்ல பிரதேசத்தில் உள்ள வீடொன்றில் ,ஒருவர் படுகொலை செய்யப்பட்டுள்ளதாக மாதம்பை பொலிஸ் நிலையத்திற்கு கிடைத்த தகவலின் அடிப்படையில் விசாரணைகள் இன்று ஞாயிற்றுக்கிழமை (13) ஆரம்பிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-The present investigation revealed that the deceased was attacked by a sharp weapon while sleeping on the floor of a house.
-
-Police are conducting further investigations to arrest the suspects.
-
-◼️
-
-[Data](articles/e67c60d4.json)
-
-[Extended Data](ext_articles/e67c60d4.ext.json)
-
----
-
-### Close relationship
-
-*2024-10-13 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196188) · `ta`
-
-Anuragumara Dissanayake receives first foreign defense donation as president.
-
-🟩
-
-This is the first time that the Anuragumara Dissanayake has been officially received by a defense donation from a foreign country after taking office as president.
-
-◼️
-
-[Data](articles/62aa7595.json)
-
-[Extended Data](ext_articles/62aa7595.ext.json)
-
----
-
-### Mumbai Indians decimilly trainer
-
-*2024-10-13 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202124) · `si`
-
-Mumbai Indians appoints Mahela Jayawardene as Chief Trainer. Team struggles under previous coach but reaches finals. Jayawardene leads team to 3 championships.
-
-🟩
-
-The owners of Sri Lanka's former Sri Lanka Cricket captain Mahela Jayawardene has been appointed as the Chief Trainer of Mumbai Indians in the IPL.
-
-As the head coach of the Mumbai team, South African wicketkeeper, a batsman, was also served.
-
-However, during his tenure two years, Mumbai Indians could not make significantly talented.
-
-In the stage of this year, Mumbai was given to the final (10).
-
-IPL won a successful group of Mumbai Indian 5 times.
-
-Mahela Jayawardene won the Championship on three occasions as the Chief Coach.
-
-◼️
-
-[Data](articles/a919eea1.json)
-
-[Extended Data](ext_articles/a919eea1.ext.json)
 
 ---

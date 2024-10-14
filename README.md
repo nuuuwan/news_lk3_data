@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 07:27:25**
+As of **2024-10-14 08:02:56**
 
 ## Newspaper Stats
 
-*Scraped **49,343** Articles*
+*Scraped **49,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 4,576
 dailymirrorlk | 4,733
 adaderanalk | 5,825
 tamilmirrorlk | 6,726
-virakesarilk | 7,903
+virakesarilk | 7,904
 adaderanasinhalalk | 8,535
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,340 (100.0%) of 49,343 articles have been extended.
+49,343 (100.0%) of 49,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Over 60 people injured in unmanned aircraft
+
+*2024-10-14 07:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196225) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Israeli military reports: 5 soldiers killed, over 60 injured in drone attack on northern base. Seven injured classified as critical. Incident occurred in Binamia, southern Haifa region.
+
+🟩
+
+Five Israeli soldiers have been killed and more than 60 injured in an unmanned army carried out on a military area in the north of Israel.
+
+The Israeli military has reported that seven of the soldiers who were injured in an unmanned air strike targeting the base of the Israeli army in Binamia in the south of Haipa were dangerous.
+
+◼️
+
+[Data](articles/822a2581.json)
+
+[Extended Data](ext_articles/822a2581.ext.json)
+
+---
 
 ### The Tamil National Party will not leave the party
 
@@ -2229,33 +2253,5 @@ He said that he was convicted of the judicias for five hundred and his members w
 [Data](articles/1c9aab7c.json)
 
 [Extended Data](ext_articles/1c9aab7c.ext.json)
-
----
-
-### The oral and breast cancer is up
-
-*2024-10-13 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202118) · `si`
-
-Sri Lanka sees rise in oral and breast cancer cases. Over 33,000 new cancer patients reported last year, with many deaths attributed to these cancers. Ministry of Health aims to reduce incidence through improved treatment standards and promotion of healthy lifestyles.
-
-🟩
-
-The Ministry of Health states that the record of oral cancer and breast cancer in Sri Lanka has increased.
-
-Medical Palitha Mahipala said that over 33,000 new cancer patients were reported last year.
-
-It is also said that several deaths have occurred last year due to cancer.
-
-The Ministry of Health states that breast cancer, lung cancer, has mainly due to breast cancer, lung cancer, and courses.
-
-Oral cancer develops among men is revealed that 1,990 oral cancer patients have been reported from the country's population.
-
-Dr. Palitha Mahipala said that he will reduce the number of cancer patients by promoting a healthy lifestyle and increase the standards of cancer treatment.
-
-◼️
-
-[Data](articles/55aac292.json)
-
-[Extended Data](ext_articles/55aac292.ext.json)
 
 ---

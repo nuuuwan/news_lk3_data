@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 16:39:15**
+As of **2024-10-14 16:57:22**
 
 ## Newspaper Stats
 
-*Scraped **49,449** Articles*
+*Scraped **49,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 493
 islandlk | 2,933
 economynextcom | 3,026
 dailyftlk | 3,346
-adalk | 4,588
+adalk | 4,589
 dailymirrorlk | 4,733
-adaderanalk | 5,850
+adaderanalk | 5,852
 tamilmirrorlk | 6,754
 virakesarilk | 7,909
 adaderanasinhalalk | 8,560
@@ -26,23 +26,69 @@ adaderanasinhalalk | 8,560
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,444 (100.0%) of 49,449 articles have been extended.
+49,452 (100.0%) of 49,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
 
-### කොළඹ අධ්‍යාපන කලාපයේ සියලු පාසල් හෙට වැසෙයි
+### Sri Lanka’s foreign minister responds to attack on peacekeepers in Lebanon
+
+*2024-10-14 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102686/sri-lankas-foreign-minister-responds-to-attack-on-peacekeepers-in-lebanon) · `en`
+
+Sri Lanka’s Minister of Foreign Affairs Vijitha Herath says that the government deeply regrets the attacks that injured two Sri Lankan peacekeepers in the United Nations Interim Force in Lebanon (UNIFIL).
+
+Speaking during an interaction with the Colombo-based Diplomatic Corps at the Ministry of Foreign Affairs held this morning (14), Minister Herath added: “We are proud of our peacekeepers who serve in several challenging UN Missions and it is important that the obligation of all parties to respect UN personnel and UN premises is respected.”
+
+Furthermore, the Foreign Affairs Minister stated that on the international front, Sri Lanka continues to remain highly concerned about the current global situation, particularly in the Middle East region.
+
+“The humanitarian situation in Gaza is turning more dire by the day, and recent developments that have an impact on wider regional dimensions, in particular in Lebanon are most concerning”, he said.
+
+...
+
+[Data](articles/0a564a21.json)
+
+[Extended Data](ext_articles/0a564a21.ext.json)
+
+---
+
+### Schools closed in Colombo Education Zone tomorrow
+
+*2024-10-14 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102685/schools-closed-in-colombo-education-zone-tomorrow) · `en`
+
+All schools in the Colombo Education Zone will be closed tomorrow (15), the Director of Education of the Western Province announced.
+
+This decision has been taken in view of the prevailing adverse weather conditions.
+
+Meanwhile, all government schools of the Gampaha, Kelaniya, Kolonnawa and Kaduwela educational zones will remain closed tomorrow (15) as decided by the Provincial Education authorities on Sunday (13).
+
+The schools in the aforementioned Education Zones had remained closed today as well, due to the prevailing inclement weather.
+
+◼️
+
+[Data](articles/80fe0340.json)
+
+[Extended Data](ext_articles/80fe0340.ext.json)
+
+---
+
+### All schools closed tomorrow
 
 *2024-10-14 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202163) · `si`
 
-කොළඹ අධ්‍යාපන කලාපයේ සියලුම පාසැල් හෙට දිනයේත් වසා තැබීමට තීරණය කර තිබේ.
+Colombo Education Zone schools closed tomorrow due to adverse weather conditions. Western Province Acting Education Director made the decision to conserve resources and ensure safety.
 
-බස්නාහිර පළාත් වැඩබලන අධ්‍යාපන අධ්‍යක්ෂවරයා සඳහන් කළේ, පවතින අයහපත් කාලගුණික තත්ත්වය සැලකිල්ලට ගනිමින් මෙම තීරණය ගත් බවය.
+🟩
+
+All schools in the Colombo Education Zone have decided to be closed tomorrow morning.
+
+The Western Province Acting Education Director stated that this decision was taken in conserving the existing adverse weather conditions.
 
 ◼️
 
 [Data](articles/aceba093.json)
+
+[Extended Data](ext_articles/aceba093.ext.json)
 
 ---
 
@@ -62,23 +108,31 @@ Investigations carried out thus far have revealed that the explosion occurred du
 
 [Data](articles/6a929a6a.json)
 
+[Extended Data](ext_articles/6a929a6a.ext.json)
+
 ---
 
-### காருக்கு பதிலாக திருமண தோணி
+### Wedding gutter instead of car
 
 *2024-10-14 16:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காருக்கு-பதிலாக-திருமண-தோணி/175-345447) · `ta`
 
-சில நாட்களாக பெய்து வரும் கடும் மழை காரணமாக  குடா கங்கை பெருக்கெடுத்து , களுத்துறை வீதி  மூழ்கியுள்ளமையால்  புதுமண தம்பதியை தோணியில் அழைத்து வந்த சம்பவம்  சத்தங்கொடை பிரதேசத்தில் பதிவாகியுள்ளது.
+Newlyweds use tuk-tuk instead of car due to floods. Some mock, others praise their adaptability. Heavy rains submerge roads in Kalutara district.
 
-நிலவி வரும் சீரற்ற காலநிலையுடன், திருமண  காருக்கு பதிலாக, அவர்கள் தோணியை பயன்படுத்தியுள்ளனர்.
+🟩
 
-இதை பார்த்த சிலர் அவர்களை கேலி செய்து வரும் நிலையில் , எந்த ஒரு சூழ்நிலையும் தாங்கும், துணிச்சல் மிக்க பொருத்தமான ஜோடி என கூறி பலரும் வாழ்த்து தெரிவித்துள்ளனர்.
+The incident in which a newlywed couple was brought to Dhoni due to heavy rains have been reported in the Kalutara road due to heavy rains.
 
-மேலும் , களுத்துறை, புளத்சிங்கள, மதுராவல மற்றும் ஏனைய பிரதேச செயலாளர் பிரிவுகளின் வீதிகள்  நீரில் மூழ்கியுள்ளமை குறிப்பிடத்தக்கது.
+With the inclement weather, they have used the dose instead of the wedding car.
+
+While some who saw this, they were ridiculed, many people congratulated them as a brave couple, bearing any situation.
+
+It is also worth noting that the streets of Kalutara, Pulathsingha, Mathurawala and other Divisional Secretariats have been submerged.
 
 ◼️
 
 [Data](articles/02881d86.json)
+
+[Extended Data](ext_articles/02881d86.ext.json)
 
 ---
 
@@ -141,6 +195,8 @@ Meanwhile, all government schools in the Gampaha, Kelaniya, Kolonnawa and Kaduwe
 ◼️
 
 [Data](articles/7d81a9b3.json)
+
+[Extended Data](ext_articles/7d81a9b3.ext.json)
 
 ---
 
@@ -425,6 +481,28 @@ Meanwhile Additional Secretary to the Ministry of Defense (Disaster Management).
 [Data](articles/fe4bc80f.json)
 
 [Extended Data](ext_articles/fe4bc80f.ext.json)
+
+---
+
+### Here are the number of affected by inclement weather - three people lose their lives
+
+*2024-10-14 14:51:51* · [`adalk`](https://www.ada.lk/breaking_news/අයහපත්-කාලගුණයෙන්--පීඩාවට-පත්-සංඛ්‍යාව-මෙන්න----පුද්ගලයන්-තිදෙනෙකුට-දිවි-අහිමි-වෙයි/11-412482) · `si`
+
+Inclement weather affects 158,391 people across 89 divisions. Three deaths reported. Additional Secretary of Defense speaks at media briefing.
+
+🟩
+
+Additional Secretary of the Ministry of Defense of Defense has been affected by the Ministry of Defense, 158,391 people in 89 Divisional Secretariat Divisions due to inclement weather.
+
+He was speaking at a media briefing held at 79 secular centers and 2470 families, he said.
+
+Also, three persons have died due to this bad weather conditions.
+
+◼️
+
+[Data](articles/293bd22f.json)
+
+[Extended Data](ext_articles/293bd22f.ext.json)
 
 ---
 
@@ -748,21 +826,31 @@ The case had filed the case by the Department of Revenue regarding the default o
 
 ---
 
-### அனுர அரசாங்கமும்  பயங்கரவாத தடைச்சட்டத்தை பயன்படுத்துகின்றது - பொதுவேட்பாளருக்கு ஆதரவாக செயற்பட்டவரை விசாரணைக்கு சமூகமளிக்குமாறு உத்தரவு  - ரஜீவ்காந்
+### The Anura government is also using the Terrorism Act
 
 *2024-10-14 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196246) · `ta`
 
-அனுரகுமார திசநாயக்க அரசாங்கம் பயங்கரவாத தடைச்சட்டத்தை பயன்படுத்துகின்றது  பொதுவேட்பாளருக்கு சார்பாக செயற்பட்ட ஒருவருக்கு விசாரணைக்கு சமூகமளிக்குமாறு பயங்கரவாத விசாரணை பிரிவினர் உத்தரவு பிறப்பித்துள்ளனர் எனமக்கள் போராட்ட முன்னணியின் உறுப்பினரும் சமூக செயற்பாட்டளருமான ராஜ்குமார் ரஜீவ்காந் தெரிவித்துள்ளார்
+Sri Lanka's Anura government uses Terrorism Act shortly after taking office. Critics claim it targets Tamil politicians and journalists. The act is used to silence opposition and investigate alleged ties to international funding.
 
-இன்று இவர்கள் ஆட்சிக்கு வந்து சில நாட்களே ஆகியுள்ள நிலையில் இன்று சிலருக்கு பயங்கரவாத தடுப்புபிரிவிலிருந்து கடிதங்கள் அனுப்பப்பட்டுக்கொண்டிருக்கின்றது.
+🟩
 
-நண்பர் ஒருவர் இந்த முறை தமிழ்பொதுவேட்பாளராக களமிறங்கிய அரியநேந்திரனிற்கு சமூக வலைத்தளத்தில் பணம் செலுத்தி விளம்பரங்கள் செய்துகொண்டிந்தவர். அவ்வாறு பணம் செலுத்தி விளம்பரம் செய்யப்பட்டது ஒரு தீவிரவாத குற்றம் என வரையறை செய்வது போல தீவிரவாத தடுப்பு பிரிவினர் பயங்கரவாத தடுப்பு பிரிவினர் அவருக்கு கடிதம் அனுப்பி முறைப்பாடு விசாரணையொன்றிற்கு அழைத்துள்ளனர்.
+Anuragumara Dissanayake government is using the terrorist law.
 
-இந்த விசாரணை தொடர்ச்சியாக இரண்டு நாட்கள் இடம்பெற்றிருக்கின்றது, சர்வதேசத்திலிருந்து எப்படி பணம் யாரிடமிருந்து வந்தது போன்ற கேள்விகளை கேட்டுள்ளனர்.
+Just a few days after they came to power, some people are being sent letters from the terrorist barrier.
+
+A friend of Ariyanendran, who was a Tamil general candidate this time, was paying advertisements on social media. The Terrorist Prevention Division has sent him a letter and summoned him to a complaint, as the terrorist group has written to him as defining as a terrorist crime.
+
+The investigation has been a series of two days, and questions have been asked how money from the international community.
+
+Even Anurakumaradisanayake is coming from various countries, and what they are going to investigate at what angle they are going to
+
+They must first understand that the allegations of terrorism and terrorism in the Tamil people, especially the Tamil people, and the seal of terrorism, and their future politics can not be carried out in any way.
 
 ...
 
 [Data](articles/75522c47.json)
+
+[Extended Data](ext_articles/75522c47.ext.json)
 
 ---
 
@@ -2225,81 +2313,5 @@ Pentagon spokesperson Major General Patrick Ryder described the deployment as pa
 [Data](articles/51515a08.json)
 
 [Extended Data](ext_articles/51515a08.ext.json)
-
----
-
-### Weather advisory issued for heavy rainfall
-
-*2024-10-14 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102659/weather-advisory-issued-for-heavy-rainfall) · `en`
-
-The Meteorology Department has issued an advisory for heavy rainfall, valid for the next 24 hours, for the Western, Sabaragamuwa, North-western and Northern provinces and Galle and Matara districts.
-
-It states that the prevailing showery condition are expected to continue further due to the atmospheric disturbance in the vicinity of Sri Lanka.
-
-Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Showers or thundershowers will occur at times in Western, Sabaragamuwa, Northwestern and Northern provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-Heavy showers above 100mm are likely at some places in Western, Sabaragamuwa, North-western and Northern provinces and in Galle and Matara districts while showers or thundershowers will occur at several places elsewhere during the evening or night, it added.
-
-...
-
-[Data](articles/5e74bb14.json)
-
-[Extended Data](ext_articles/5e74bb14.ext.json)
-
----
-
-### Fatal road accidents - negligence losses two lives
-
-*2024-10-14 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202138) · `si`
-
-Two fatal road accidents reported: one in Gampola involving a child, another in Batticaloa resulting in a youth's death. Police investigating both incidents.
-
-🟩
-
-A small boy was killed in a car accident that collided with a jeep that was traveling to Nawalapitiya in Gampola.
-
-Police said the accident had occurred yesterday afternoon.
-
-The three-wheeler had flipped the three-wheeler in the three-wheeler, which was running in front of the jeep.
-
-The jeep is also propagated and collided with a Veddam, a waveled cart and another three-wheeler.
-
-The boy was rushed to the Gampola hospital when the driver of the three-wheeler was injured in the accident.
-
-The deceased is a child of a resident of Gampura, a three-and-half-year-old resident of Gampola.
-
-The driver of the jeep has been arrested and Gampola police are conducting further investigations.
-
-Meanwhile, a youth has died in an accident in the Industry, Batticaloa and Kalmunamadam.
-
-The motorcycle was not controlled from Batticaloa to Kalmunuka road and collided with a three-wheeler near the road and hit the motorcycle.
-
-...
-
-[Data](articles/460d6883.json)
-
-[Extended Data](ext_articles/460d6883.ext.json)
-
----
-
-### Sri Lanka sees foreign inflows into govt securities amid deflationary policies
-
-*2024-10-14 08:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-inflows-into-govt-securities-amid-deflationary-policies-183358/) · `en`
-
-ECONOMYNEXT – Foreign inflows into Sri Lanka’s government securities saw further increase last week, Central Bank data showed, amid the country’s deflationary policies and appreciation in the rupee currency.
-
-The foreign holding in Sri Lanka’s Treasury bills and Treasury bonds increased by 15.7 percent or 6.9 billion rupees (($23.4 mln at 1 US dollar = 295 LKR) to 50,647 million rupees, the official data showed.
-
-“Foreign investors bought short term as well as 2026 and five-year bonds,” a currency dealer said.
-
-“They are taking a risk because of the country’s deflationary policies where imports are curtailed and currency has been appreciating. Unless there is an increase in imports including allowing vehicle imports, the currency is likely to see appreciation pressure.”
-
-The island nation saw an inflow of 4.4 billion rupees ($14.9 mln) in the previous week.
-
-...
-
-[Data](articles/6d34c962.json)
-
-[Extended Data](ext_articles/6d34c962.ext.json)
 
 ---

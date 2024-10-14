@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 13:39:49**
+As of **2024-10-14 13:59:04**
 
 ## Newspaper Stats
 
-*Scraped **49,415** Articles*
+*Scraped **49,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ colombotelegraphcom | 493
 islandlk | 2,933
 economynextcom | 3,026
 dailyftlk | 3,346
-adalk | 4,583
+adalk | 4,585
 dailymirrorlk | 4,733
 adaderanalk | 5,842
-tamilmirrorlk | 6,746
+tamilmirrorlk | 6,747
 virakesarilk | 7,908
-adaderanasinhalalk | 8,549
+adaderanasinhalalk | 8,551
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,415 (100.0%) of 49,415 articles have been extended.
+49,420 (100.0%) of 49,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### A warning about the next 24 hours
+
+*2024-10-14 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202152) · `si`
+
+Heavy rains, strong winds expected in South Bay of Bengal over next 24 hours. Low-pressure system moving westward towards Tamil Nadu and South Andhra Pradesh. Strong gusts (60-70 km/h) and rough seas predicted. Maritime and fishing activities advised against until further notice.
+
+🟩
+
+The Department of Meteorological Department has issued a warning of heavy rains, strong winds and sea in the area of ​​the South Bay of Bengal.
+
+It states that a less pressure zone in the southeast Bay of Bay of Bay of Bay, which is said today.
+
+Accordingly, it will be a low-pressure zone, which is well marked in the next 2 days and heading towards West West and Move towards North Tamil Nadu, Puducharii and adjoining South Andhra areas.
+
+Very strong winds in areas between 6 and 12 northern latitude and 81 and 93 East Longitude 81 and 93.. 60-70, strong showers may be in harmony and the sea areas can be very rough.
+
+Shipping and fishing communities have informed the maritime and fishing communities not to be sailed until the mark score in the above map.
+
+The Department of Meteorological Department also emphasized the fisheries and the community to focus on the future announcements.
+
+◼️
+
+[Data](articles/6453956d.json)
+
+[Extended Data](ext_articles/6453956d.ext.json)
+
+---
+
+### Here are the presidential candidates who handed over revenue expenditure
+
+*2024-10-14 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202151) · `si`
+
+Presidential candidates submit financial reports: 35 candidates received income/expenditure reports from Election Commission.
+
+🟩
+
+The Elections Commission has issued an announcement on the Presidential candidates who handed over income and expenditure on the presidential election.
+
+It states that 35 candidates have been given their reports in relation to the presidential election.
+
+◼️
+
+[Data](articles/011e0f6f.json)
+
+[Extended Data](ext_articles/011e0f6f.ext.json)
+
+---
 
 ### Farmers to receive increased fertilizer subsidy from today
 
@@ -47,6 +95,50 @@ The minister said that the distribution of fertilizer subsidy will begin in Ampa
 [Data](articles/595838ec.json)
 
 [Extended Data](ext_articles/595838ec.ext.json)
+
+---
+
+### Koteeswaran's little son
+
+*2024-10-14 13:04:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவனை-மோதி-கொன்ற-கோடீஸ்வரனின்-சிறிய-மகன்/76-345435) · `ta`
+
+Billionaire's son involved in fatal accident: 17-year-old crashes into three-wheeler, killing 3.5-year-old passenger.
+
+🟩
+
+A 17 -year -old son of a billionaire businessman has taken an incident on the carpet that killed a boy who was traveling in a three -wheeler.
+
+The jeep collided with a three -wheeler traveling in front of a pedestrian crossing in front of the Gampola bus stop. The three -and -a -half -year -old boy, who was traveling in the three -wheeler, died after being admitted to the Gampola hospital after being severely injured.
+
+Mohamed Siraz Amdee, a boy who had come to Gampola from abroad, has died.
+
+The jeep after the three -wheeler crashed into the car, and went to a private bus stop at the Gampolai private bus, and the fruit was on the man who was selling there and another three -wheeler parked near him.
+
+◼️
+
+[Data](articles/89ae38b9.json)
+
+[Extended Data](ext_articles/89ae38b9.ext.json)
+
+---
+
+### Rs. 3.5 VAT unpaid Arjun Alosius to prison
+
+*2024-10-14 12:57:00* · [`adalk`](https://www.ada.lk/breaking_news/රු-බි--3-5-වැට්-බදු-නොගෙවූ-අර්ජුන්-ඇලෝසියස්-ඇතුළු-තිදෙනෙක්-සිරගෙට/11-412478) · `si`
+
+Colombo Magistrate's Court sentences Mendis Director to 6 months jail for Rs. 3.5 billion VAT default case.
+
+🟩
+
+WM over the default incident of the VAT. The Director of Mendis, including the Director of the Colombo Magistrate's Court, has been sentenced to six months by the Colombo Magistrate's Court.
+
+The case had filed the case by the Department of Revenue regarding the default of Rs 3.5 billion VAT.
+
+◼️
+
+[Data](articles/4ee32549.json)
+
+[Extended Data](ext_articles/4ee32549.ext.json)
 
 ---
 
@@ -135,6 +227,34 @@ Furthermore, in the upper left corner of the e -mail, "bribery or corruption all
 [Data](articles/fdc7ed4b.json)
 
 [Extended Data](ext_articles/fdc7ed4b.ext.json)
+
+---
+
+### Is painful because of the defeat
+
+*2024-10-14 12:27:38* · [`adalk`](https://www.ada.lk/breaking_news/පරාජයට-පත්වීම-නිසා-වේදනාවට-පත්ව-සිටිනවා/11-412477) · `si`
+
+Sri Lanka women's cricket team lost T20 World Cup. Chamari Atapattu disappointed but hopeful. Team will improve and visit New Zealand next year.
+
+🟩
+
+The Sri Lanka women's cricket team who participated in the Twenty Twenty20 World Cup in Sahajah, the United Arab Emirates, arrived at Katunayake Airport on the night.
+
+Speaking to journalists at the time, Sri Lanka women's cricket team leader Chamari Atapattu said:
+
+"I am painful because of this defeat. We have a lot of hope and leave to Sajah and left for Sajah. We won the training matches. But we didn't win one of the tournament or win.
+
+Our weak batting and bowling contributed to this. Especially I failed through the batting. He also failed Hershikya failed.
+
+We hope to get our shortcomings and proceed. Working hard and hope to achieve victory. "
+
+Chamari Atapattu added that in February, the next year's visit to New Zealand.
+
+◼️
+
+[Data](articles/5ad2e4c0.json)
+
+[Extended Data](ext_articles/5ad2e4c0.ext.json)
 
 ---
 
@@ -334,6 +454,22 @@ The army remains on high alert as floodwaters continue to rise, with further mea
 
 ---
 
+### I OPPOSE THE PRIME MINISTER, THE MINISTER OF PLANNING AND THE MINISTER OF AGRICULTURE
+
+*2024-10-14 11:52:00* · [`islandlk`](http://island.lk/i-oppose-the-prime-minister-the-minister-of-planning-and-the-minister-of-agriculture/) · `en`
+
+(Excerpted from Falling leaves, an autobiographical memoir of LC Arulpragasam)
+
+I had no place to go, because I was wedded to the agriculture sector – by my own choosing. Therefore, I was lucky to find a berth as Head of the Agriculture Sector in the Department of National Planning. But I had to pay a career-price for doing this, because it involved my working under a non-civil servant and under someone whom I outranked in the Civil List – which was simply not done in those days.
+
+...
+
+[Data](articles/16900968.json)
+
+[Extended Data](ext_articles/16900968.ext.json)
+
+---
+
 ### We deserve a bright future
 
 *2024-10-14 11:48:00* · [`islandlk`](http://island.lk/we-deserve-a-bright-future/) · `en`
@@ -347,6 +483,24 @@ AKD did not win in any of the Tamils dominated districts. There are many comment
 [Data](articles/a88f0efa.json)
 
 [Extended Data](ext_articles/a88f0efa.ext.json)
+
+---
+
+### The 1956 election landslide and SWRD Bandaranaike’s tenure (1956 — 1959)
+
+*2024-10-14 11:46:00* · [`islandlk`](http://island.lk/the-1956-election-landslide-and-swrd-bandaranaikes-tenure-1956-1959/) · `en`
+
+(Excerpted from Rendering Unto Caesar, memoirs of  Bradman Weerakoon)
+
+My acquaintance with S W R D Bandaranaike was only through the press reports of his election campaign. That was before he came to the prime minister’s office in the Fort (now housing the foreign ministry at Republic Square), on an April morning, after the swearing in of his Cabinet at Queen’s House. His eloquence as a speaker, especially his Independence Day speech in 1948, was deeply imprinted in my mind.
+
+Throughout a gruelling campaign he had shown extraordinary skills of perseverance in the face of severe odds, and the ability to persuade large masses of ordinary people to believe in his cause. I wondered how he would be to work with after I had experienced the rather easy going style of Sir John. There was also the serious business to be faced of how soon he would be able to make his election slogan of `Sinhala Only’ as the official language in 24 hours come true?
+
+...
+
+[Data](articles/3d931436.json)
+
+[Extended Data](ext_articles/3d931436.ext.json)
 
 ---
 
@@ -379,6 +533,22 @@ The government of Sri Lankan president Anura Kumara Dissanayake has pledged soli
 [Data](articles/35614fd9.json)
 
 [Extended Data](ext_articles/35614fd9.ext.json)
+
+---
+
+### The Wrath of a Nation
+
+*2024-10-14 11:43:00* · [`islandlk`](http://island.lk/the-wrath-of-a-nation/) · `en`
+
+The wrath of a nation can be a fearful thing. In 2022 we saw its evolution and culmination in our own “Aragalaya“, which sent the then president, a so called “battle hardened” war veteran and “warrior-statesman”, first in to exile and then to precipitate retirement.
+
+We saw it again, just a couple of weeks ago, in the election of Sri Lanka’s ninth executive president, a villager from deeply rural Tambuttegama, the son of a surveyor’s assistant. That he was the first student from Tambuttegama Central College to gain university entrance, is another factor which attests to the absence of privilege and personal resources. His election is also an extension of the “Aragalaya”, and a logical evolution of that movement, but without the drama and histrionics and, instead, that energy, that anger, legitimately channeled in to a quiet civic purpose.
+
+...
+
+[Data](articles/1fd26e13.json)
+
+[Extended Data](ext_articles/1fd26e13.ext.json)
 
 ---
 
@@ -2137,179 +2307,5 @@ Colombo Oktoberfest is a much-anticipated cultural event that transports the aut
 [Data](articles/6e88e479.json)
 
 [Extended Data](ext_articles/6e88e479.ext.json)
-
----
-
-### Sanasa Life Insurance celebrates Customer Service Week
-
-*2024-10-14 00:30:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-celebrates-customer-service-week/) · `en`
-
-Celebrated annually and around the world, Customer Service Week brings forth the essence of customer service and how it has helped businesses understand their customers better, by creating a friendlier customer centric environment.
-
-In view of commemorating this eventful week, Sanasa Life Insurance declared open its new Customer Experience Centre on the 10th of October 2024, located at No. 297, High level Road, Nugegoda.
-
-...
-
-[Data](articles/57261f6f.json)
-
-[Extended Data](ext_articles/57261f6f.ext.json)
-
----
-
-### SLI Life marks World Children’s Day 2024
-
-*2024-10-14 00:29:00* · [`islandlk`](http://island.lk/sli-life-marks-world-childrens-day-2024/) · `en`
-
-Sri Lanka Insurance Life celebrates World Children’s Day 2024 across the Island. Sri Lanka Insurance Life Celebrated World Children’s Day 2024 through various programmes across the Island. All regional offices and branches carried out many activities for Children and celebrated the special day with children, their parents and teachers.
-
-Ceylinco General Insurance conducts island-wide 100 km beach clean-up project
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/a9c08bf7.json)
-
-[Extended Data](ext_articles/a9c08bf7.ext.json)
-
----
-
-### Ceylinco General Insurance conducts island-wide 100 km beach clean-up project
-
-*2024-10-14 00:24:00* · [`islandlk`](http://island.lk/ceylinco-general-insurance-conducts-island-wide-100-km-beach-clean-up-project/) · `en`
-
-Ceylinco General Insurance recently organised an island-wide beach clean-up programme along the coastline of Sri Lanka, covering over 100 kms, with the participation of its staff from its island-wide branches and the head office.
-
-This beach clean-up initiative was held for the third consecutive year and has now become an annual event in the company’s Corporate Social Responsibility calendar.
-
-Beaches in Sri Lanka are increasingly facing pollution, particularly along coastlines in tourist hotspots and densely populated areas. Ceylinco General Insurance believes it is the responsibility of all citizens – both individuals and corporations – to help preserve the natural beauty and cleanliness of our beaches and the surrounding ocean.
-
-...
-
-[Data](articles/44823631.json)
-
-[Extended Data](ext_articles/44823631.ext.json)
-
----
-
-### Cinnamon Air announces new flight routes to elevate tourism experience in Sri Lanka
-
-*2024-10-14 00:23:00* · [`islandlk`](http://island.lk/cinnamon-air-announces-new-flight-routes-to-elevate-tourism-experience-in-sri-lanka/) · `en`
-
-Cinnamon Air, Sri Lanka’s premier domestic airline, has announced the launch of two new daily scheduled flights connecting Kandy and Sigiriya with the South Coast destinations Koggala and Hambantota.
-
-These flights are set to commence on 1st November 2024 and will operate until 30th April 2025, strategically timed to cater to the influx of foreign travellers during the winter holiday season. These cross-country flights are designed to enhance convenience and reduce travel time while ensuring an unparalleled experience for those who wish to explore Sri Lanka’s South Coast after visiting the Cultural Triangle or the Central Hill Country.
-
-...
-
-[Data](articles/b2ef9096.json)
-
-[Extended Data](ext_articles/b2ef9096.ext.json)
-
----
-
-### Exterminators launches IoT Digi-Pest-Tech in South Asia
-
-*2024-10-14 00:15:56* · [`dailyftlk`](https://www.ft.lk/business/Exterminators-launches-IoT-Digi-Pest-Tech-in-South-Asia/34-767921) · `en`
-
-Exterminators PLC, in technical collaboration with Pest Scan BV, Netherlands, and Sentario UK Ltd., has launched IoT in pest management in South Asia. Through constant innovation, creative strategic disruption, and in-depth research, Exterminators PLC has developed a system to transform the industry by designing, developing, crafting, articulating, and amalgamating the world’s best preventive pest tech tools, devices, components, and technologies, powered by IoT, AI, and machine learning, while balancing trade-offs between people, profit, and the planet.
-
-This unique approach combines a diverse range of tools, devices, components, and technologies to proactively prevent and manage pest risks while simultaneously minimising the environmental impact.
-
-...
-
-[Data](articles/fd296660.json)
-
-[Extended Data](ext_articles/fd296660.ext.json)
-
----
-
-### West Indies won Sri Lanka in the first international T20 cricket match
-
-*2024-10-14 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/196217) · `ta`
-
-Here's a 200-character summary:
-
-
-
-West Indies won 1st intl T20 vs Sri Lanka by 5 wkts. Brendon King (63*) & Evin Louis (50*) led WI to victory. Sri Lanka scored 179/7. Kamindu Mendis (51*) & Sarith Asalanka shared 82 runs partnership. WI leads 3-match series 1-0.
-
-🟩
-
-West Indies won by 5 wickets in the first international T20 cricket match at the Rangiri, Dambulla International Cricket Stadium on Sunday night.
-
-With this victory, the West Indies are leading the 3 -match international T20 cricket series 1 - 0.
-
-Half a century of action by Brendak King and Evin Louis helped to win the West Indies.
-
-Sri Lanka, who was first invited to bat in the upting match, scored 179 runs for the loss of 7 wickets in their 20 overs.
-
-Half a century accumulated by Kamindu Mendis and team captain Sarid Asalanka reinforced the total number of Sri Lanka.
-
-When Sri Lanka's first 3 wickets fell, the total number was 58 runs in the 8th over.
-
-Betham Nissank (11), Kusal Perera (6) and Kusal Mendis (19) were all lost.
-
-The pair, Kamindu Mendis and Sarit Asalanga, were effectively bowled out and strengthened the team by sharing 82 runs in the 4th wicket.
-
-Kamundu Mendis scored 51 runs with 5 pounds, 2 sixes and 59 runs with 9 pounds.
-
-...
-
-[Data](articles/a0db4f16.json)
-
-[Extended Data](ext_articles/a0db4f16.ext.json)
-
----
-
-### EDB focuses on tapping opportunities in Sri Lanka’s blue economy
-
-*2024-10-14 00:11:00* · [`islandlk`](http://island.lk/edb-focuses-on-tapping-opportunities-in-sri-lankas-blue-economy/) · `en`
-
-A groundbreaking event in Sri Lanka’s marine and offshore service sector, Voyage Sri Lanka 2024 Conference is to set sail on 26th November 2024 at Kingsbury Colombo.
-
-The registration process is now open. Please visit www.voyagesrilanka.lk and secure your seat. The conference will spotlight the blue economy and showcase strengths, potential, and cutting-edge technologies in Sri Lanka’s marine and offshore services, as well as boat and ship building sectors.
-
-Voyage Sri Lanka 2024 brings together the public & private sector stakeholders in the marine & offshore, and boat & ship building sectors, providing a unique platform for industry leaders, investors, experts, and stakeholders to discuss the future of the blue economy. This pioneering event will focus on sustainable practices, emerging technologies, and collaborative efforts to enhance Sri Lanka’s role as a global marine hub.
-
-...
-
-[Data](articles/57b34752.json)
-
-[Extended Data](ext_articles/57b34752.ext.json)
-
----
-
-### 2024-10-13 (Sunday)
-
-### Australia qualifies the first team to play women's R20 World Cup semi -final;India lost by 9 runs in the main match
-
-*2024-10-13 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196219) · `ta`
-
-Australia qualifies for women's R20 World Cup semi-finals after beating India by 9 runs. India needs Pakistan to win against New Zealand for a semi-final spot.
-
-🟩
-
-The Ninth ICC Women's R20 World Cup qualified to play the first team in the Australian World Champion Australia, who won India by 9 runs at the Dubai International Cricket Stadium on Sunday night.
-
-Australia, who won the 4 matches she played in the A group, qualified for the Women's R20 World Cup at the 9th.
-
-India's semi -final chance to lose the match is in the hands of Pakistan.
-
-India will qualify for the semi -finals if Pakistan achieves reverse victory in the last match for tomorrow's A group between Pakistan and New Zealand.. If Pakistan fails, New Zealand will advance to the semi -finals.
-
-After winning the currency cycle today, Australia decided to bat first and scored 151 runs for the loss of 8 wickets in 20 overs.
-
-The usual team captain Alyssa Helli is not playing in today's match due. Tahila Macra was replaced by him.
-
-Crease Heris, who played as an early player instead of Alyssa Heli, was effectively bowled out.
-
-...
-
-[Data](articles/7612cb4d.json)
-
-[Extended Data](ext_articles/7612cb4d.ext.json)
 
 ---

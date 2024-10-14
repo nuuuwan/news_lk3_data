@@ -1,36 +1,130 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 14:12:52**
+As of **2024-10-14 14:25:28**
 
 ## Newspaper Stats
 
-*Scraped **49,421** Articles*
+*Scraped **49,426** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 401
-bbccomsinhala | 492
+bbccomsinhala | 493
 colombotelegraphcom | 493
 islandlk | 2,933
 economynextcom | 3,026
 dailyftlk | 3,346
 adalk | 4,585
 dailymirrorlk | 4,733
-adaderanalk | 5,842
+adaderanalk | 5,844
 tamilmirrorlk | 6,747
 virakesarilk | 7,908
-adaderanasinhalalk | 8,552
+adaderanasinhalalk | 8,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,421 (100.0%) of 49,421 articles have been extended.
+49,426 (100.0%) of 49,426 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### Names of presidential candidates who have not submitted expenses reports released
+
+*2024-10-14 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102678/names-of-presidential-candidates-who-have-not-submitted-expenses-reports-released-) · `en`
+
+The Election Commission has released the names of the 2024 Presidential Election candidates who have not submitted their election campaigning expenses reports.
+
+Accordingly, the election regulatory body stated that neither of the following presidential election candidates, the secretaries of their recognized political parties nor the voters who nominated the names of the candidates have submitted the income and expense reports to the commission.
+
+01. Ven. Battaramulle Seelarathana Thero and Secretary of the ‘Janasetha Peramuna’
+
+Meanwhile, the following secretaries of recognized political parties representing the candidates who contested the 2024 Presidential Election and the voters who nominated the candidates have not submitted the income and expense reports, according to the Election Commission.
+
+01. Secretary of the Democratic United National Front (Candidate - Anoj de Silva)
+
+02. Secretary of the ‘Eksath Prajathanthravadi Sandhanaya’ (Candidate - Abubakar Mohamed Infaz)
+
+...
+
+[Data](articles/66cb94fc.json)
+
+[Extended Data](ext_articles/66cb94fc.ext.json)
+
+---
+
+### Exceptional Award received by Komun
+
+*2024-10-14 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202155) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Komun, a Sri Lankan cricketer, won an exceptional award from the International Cricket Council (ICC) in September. He became the first "Player of the Month" for 2024, marking a significant achievement in his career.
+
+🟩
+
+Sri Lankan cricketer player is player in the International Cricket Council for September.
+
+Accordingly, in 2024, he is the first player of the month of the month of the month of month.
+
+◼️
+
+[Data](articles/5f405800.json)
+
+[Extended Data](ext_articles/5f405800.ext.json)
+
+---
+
+### Applications summon for the post of Director General of Bribery Commission
+
+*2024-10-14 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202154) · `si`
+
+Director General position open at Bribery Commission. Applications invited via prescribed format. Send to Constitutional Council, Sri Lanka. Deadline not specified.
+
+🟩
+
+Applications have been called to appoint bribery or corruption in the Investigation Commission (Investigation Commission) under the provisions of the Anti-Corruption Act, No. 9 of the Anti-Corruption Act.
+
+Applications for this purpose should be prepared according to the model of bribery or corruption in the Commission on Ven.
+
+Duly completed applications should be sent to the General Secretary General of the Constitution, Constitutional Council, Sri Lanka, Sri Jayawardanapura Kotte by registered post or by Registration Post or ConstitutionalCouncimentParliament announced.
+
+Also, as "appointing the Director General of Investigation Commission" in the upper left end of the envelope / electronic letter, "appointing the Director General of Investigation Commission".
+
+The statement has been published in the National Newspapers yesterday and today (14).
+
+◼️
+
+[Data](articles/0814eaaa.json)
+
+[Extended Data](ext_articles/0814eaaa.ext.json)
+
+---
+
+### Kamindu Mendis named ICC Men’s player of the Month
+
+*2024-10-14 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102677/kamindu-mendis-named-icc-mens-player-of-the-month) · `en`
+
+Kamindu Mendis beat out tough competition from Sri Lanka teammate Prabath Jayasuriya and Australia’s Travis Head to claim the monthly award, with the stylish left-hander adding to the honour he claimed in March earlier this year.
+
+Mendis played in four Tests during the month, scoring 451 runs at an average of 90.20, helping his side to a consolation win at The Oval in England before playing his part in a superb series triumph against New Zealand back in Sri Lanka.
+
+Mendis was thrilled to win the award for the second time this year and is already working hard on achieving even greater things within his cricketing career.
+
+“I am honoured to be once again chosen as the ICC Men’s Player of the Month, and this accolade brings me immense happiness and pride, as I believe all the hard work that was put into becoming the player that I am today is starting to pay off and being recognised consistently in the global stage,” he said.
+
+...
+
+[Data](articles/69f99654.json)
+
+[Extended Data](ext_articles/69f99654.ext.json)
+
+---
 
 ### 19 year old mother in prison
 
@@ -1726,6 +1820,44 @@ Former MP Karunaratne Paranavithana has also resigned from the Ratnapura Distric
 
 ---
 
+### Arjun Alosius in prison for VAT default
+
+*2024-10-14 07:57:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gdyjn4rnwo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Arjun Aloysius imprisoned for VAT default. Colombo Magistrate's Court sentenced him to 3 months. Case related to unpaid VAT from 2016-2019. Also linked to controversial bond transactions. Former Central Bank Governor Arjuna Mahendran investigated.
+
+🟩
+
+Arjun Alosius in prison for VAT default
+
+WM over the default incident of the VAT. The Colombo Magistrate's Court, including the Director of Mendis, was sentenced to three months in prison today (October 14).
+
+The Department of Inland Revenue was filed against the answer to the answer to the government to pay the VAT to the Government in 2016 to 2019.
+
+The court issued an order on November 14 last year to pay the tax.
+
+The case was summoned to Colombo Additional Magistrate Bandara Ilangasinghe today.
+
+The court sentenced the respondent against the respondents due to the no payment had not been paid.
+
+Do you know the list of 10 liquor companies that have defaulted Rs. 600 million?
+
+The Arjun Alosius is the owner of pepetual Treasuries pertaining to the questionable bond transaction.
+
+Arjun Aloysius and Kasun Palrisena were arrested in Colombo on February 4, 2018 to support the central bank bond transaction incident.
+
+...
+
+[Data](articles/fe8930d8.json)
+
+[Extended Data](ext_articles/fe8930d8.ext.json)
+
+---
+
 ### The weather has exceeded 100,000 people
 
 *2024-10-14 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202137) · `si`
@@ -2229,95 +2361,5 @@ In addition to activists, the list features several trade unionists, including D
 [Data](articles/6b0224ed.json)
 
 [Extended Data](ext_articles/6b0224ed.ext.json)
-
----
-
-### Hirunika announces decision to step down as SVB National Organiser
-
-*2024-10-14 00:37:12* · [`dailyftlk`](https://www.ft.lk/news/Hirunika-announces-decision-to-step-down-as-SVB-National-Organiser/56-767927) · `en`
-
-Former MP Hirunika Premachandra says she is stepping down to prioritise her personal political future
-
-Emphasises dedication to SJB and intent to contest in upcoming election under SJB ticket
-
-Expresses disappointment with recent remarks criticising SJB grassroots organisers following the Presidential election
-
-Criticises party’s decision to remove actress Damitha Abeyratne from nomination list, calling it unjust
-
-Former Colombo District Member of Parliament Hirunika Premachandra has announced her decision to step down from her role as the National Organiser of the Samagi Vanitha Balawegaya (SVB), the women’s wing of the Samagi Jana Balawegaya (SJB) headed by Sajith Premadasa.
-
-Premachandra made this announcement at a press conference held in Colombo yesterday.
-
-...
-
-[Data](articles/8463a6d5.json)
-
-[Extended Data](ext_articles/8463a6d5.ext.json)
-
----
-
-### Rootcode marks a decade of innovation and global impact in technology
-
-*2024-10-14 00:36:00* · [`islandlk`](http://island.lk/rootcode-marks-a-decade-of-innovation-and-global-impact-in-technology/) · `en`
-
-More than 3 million people in the Nordic countries use Rootcode software every week
-
-Set to expand its global presence while contributing to local community through its philanthropic efforts
-
-Rootcode, a leading global software product engineering company, marked its 10th anniversary with a grand celebration at its headquarters. This milestone event highlighted a decade of relentless growth, cutting-edge innovations, and a commitment to delivering world-class technology solutions. The celebration also included the launch of a commemorative book titled “A Decade of Building Great Technology”, which chronicles Rootcode’s evolution from its humble beginnings into a global technology leader. The book captures the company’s journey, featuring pivotal projects, strategic partnerships and its remarkable expansion into global markets.
-
-...
-
-[Data](articles/25ed9ddb.json)
-
-[Extended Data](ext_articles/25ed9ddb.ext.json)
-
----
-
-### President instructs officials to provide immediate relief to people affected by adverse weather conditions
-
-*2024-10-14 00:34:33* · [`dailyftlk`](https://www.ft.lk/news/President-instructs-officials-to-provide-immediate-relief-to-people-affected-by-adverse-weather-conditions/56-767926) · `en`
-
-President Anura Kumara Dissanayake has instructed officials to provide immediate relief to those affected by the adverse weather conditions across the country.
-
-He also instructed the Defence Ministry Secretary to ensure special attention is given to the safety of people in districts impacted by floods and landslides and to provide necessary support for effective relief operations.
-
-The President emphasised that the Government will take action to provide necessary assistance to all affected citizens and that local Government officials in the affected areas will be engaged to ensure the people receive the required aid. Until such time, the President requested the public to act cautiously.
-
-Additionally, the President instructed theFinance Ministry to allocate Rs. 50 million for relief services and urged State officials to ensure proper coordination in delivering the relief to those in need.
-
-...
-
-[Data](articles/d6ed0223.json)
-
-[Extended Data](ext_articles/d6ed0223.ext.json)
-
----
-
-### Ceylon Energy and HJT China marks completion of Maho and Ampara 33kV power distribution lines
-
-*2024-10-14 00:33:00* · [`islandlk`](http://island.lk/ceylon-energy-and-hjt-china-marks-completion-of-maho-and-ampara-33kv-power-distribution-lines/) · `en`
-
-Ceylon Energy, in partnership with HJT China, has announced the successful completion of the Maho and Ampara 33kV power distribution lines. These milestones mark a significant achievement within the broader Supporting Electricity Supply Reliability Improvement Project (SESRIP), a groundbreaking initiative designed to revolutionize energy distribution across Sri Lanka.
-
-...
-
-[Data](articles/77e101c3.json)
-
-[Extended Data](ext_articles/77e101c3.ext.json)
-
----
-
-### Marriott Business Council celebrates 10 years of ‘Road to Give’ in Sri Lanka
-
-*2024-10-14 00:32:00* · [`islandlk`](http://island.lk/marriott-business-council-celebrates-10-years-of-road-to-give-in-sri-lanka/) · `en`
-
-As part of the Marriott Business Council, Sheraton Colombo, ITC Ratnadipa, Sheraton Kosgoda Turtle Beach Resort, and Courtyard by Marriott Colombo proudly commemorated the 10th anniversary of “Road to Give,” a transformative initiative that united Marriott associates in a shared mission to run, walk, ride and move for charitable causes. This significant milestone not only celebrated a decade of extraordinary achievements but also underscored the profound and lasting impact we have made within our communities.
-
-...
-
-[Data](articles/fb6c4a59.json)
-
-[Extended Data](ext_articles/fb6c4a59.ext.json)
 
 ---

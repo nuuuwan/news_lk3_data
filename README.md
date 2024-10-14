@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 08:46:18**
+As of **2024-10-14 08:59:27**
 
 ## Newspaper Stats
 
-*Scraped **49,348** Articles*
+*Scraped **49,352** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 401
-bbccomsinhala | 491
+bbccomsinhala | 492
 colombotelegraphcom | 493
 islandlk | 2,928
 economynextcom | 3,023
 dailyftlk | 3,346
-adalk | 4,577
+adalk | 4,578
 dailymirrorlk | 4,733
-adaderanalk | 5,825
+adaderanalk | 5,827
 tamilmirrorlk | 6,727
 virakesarilk | 7,904
 adaderanasinhalalk | 8,537
@@ -26,11 +26,47 @@ adaderanasinhalalk | 8,537
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,348 (100.0%) of 49,348 articles have been extended.
+49,348 (100.0%) of 49,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### US to send anti-missile system and troops to Israel, Pentagon says
+
+*2024-10-14 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102660/us-to-send-anti-missile-system-and-troops-to-israel-pentagon-says) · `en`
+
+The United States said on Sunday it will send U.S. troops to Israel along with an advanced U.S. anti-missile system, in a highly unusual deployment meant to bolster the country’s air defenses following missile attacks by Iran.
+
+U.S. President Joe Biden said the move was meant “to defend Israel,” which is weighing an expected retaliation against Iran after Tehran fired more than 180 missiles at Israel on Oct 1.
+
+The United States has been privately urging Israel to calibrate its response to avoid triggering a broader war in the Middle East, officials say, with Biden publicly voicing his opposition to an Israeli attack on Iran’s nuclear sites and his concerns about a strike on Iran’s energy infrastructure.
+
+Pentagon spokesperson Major General Patrick Ryder described the deployment as part of “the broader adjustments the U.S. military has made in recent months” to support Israel and defend U.S. personnel from attacks by Iran and Iranian-backed groups.
+
+...
+
+[Data](articles/51515a08.json)
+
+---
+
+### Weather advisory issued for heavy rainfall
+
+*2024-10-14 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102659/weather-advisory-issued-for-heavy-rainfall) · `en`
+
+The Meteorology Department has issued an advisory for heavy rainfall, valid for the next 24 hours, for the Western, Sabaragamuwa, North-western and Northern provinces and Galle and Matara districts.
+
+It states that the prevailing showery condition are expected to continue further due to the atmospheric disturbance in the vicinity of Sri Lanka.
+
+Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Showers or thundershowers will occur at times in Western, Sabaragamuwa, Northwestern and Northern provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Heavy showers above 100mm are likely at some places in Western, Sabaragamuwa, North-western and Northern provinces and in Galle and Matara districts while showers or thundershowers will occur at several places elsewhere during the evening or night, it added.
+
+...
+
+[Data](articles/5e74bb14.json)
+
+---
 
 ### Fatal road accidents - negligence losses two lives
 
@@ -143,6 +179,24 @@ The Israeli military has reported that seven of the soldiers who were injured in
 [Data](articles/822a2581.json)
 
 [Extended Data](ext_articles/822a2581.ext.json)
+
+---
+
+### පුද්ගල ඝාතනයක් නූලෙන් වැලකෙයි
+
+*2024-10-14 06:54:58* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගල-ඝාතනයක්-නූලෙන්-වැලකෙයි/11-412470) · `si`
+
+තියුණු ආයුධ තොගයක් රැගෙන පුද්ගලයෙකු ඝාතනය කිරීම සඳහා  යමින් සිටි පුද්ගලයන් සිව් දෙනකු  රත්මලාන බෙලෙක්කඩේ හන්දිය ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව ගල්කිස්ස මූලස්ථාන පොලිසිය කියයි.
+
+එම සැකකරුවන් සමග විවිධ ප්‍රමාණවලින් යුත් කඩු හතක් හා අයිස් මත්ද්‍රව්‍ය  මිලිගෑම් 37800 ක් පොලිස් භාරයට ගෙන ඇත
+
+පුද්ගලයන් පිරිසක් ගල්කිස්ස මහේස්ත්‍රාත් අධිකරණය අසලදී පුද්ගලයකු කපා කොටා ඝාතනය කිරීම සඳහා සූදානමින් තීරෝද රථයකින් පැමිණෙන බවට ගල්කිස්ස මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂක දිලීප සී පෙරේරා මහතාට ලද රහසිගත තොරතුරකට අනුව වහා ක්‍රියාත්මක වූ ඒ මහතා ඒ බව දූෂණ මර්දන  අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක චමින්ද කූරබගේ  මහතා ට ලබා දුන් තොරතුරකට අනුව ඒ මහතා ඇතුළු නිලධාරීන් කණ්ඩායමක් විසින් මෙම සැකකරුවන් පිරිස අත්අඩංගුවට ගෙන ඇත
+
+අත්අඩංගුවට ගත් සැකකරුවන් සිව් දෙනා සන්තකයේ අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 6500 , 10200 , 10500 ,හා  10600  පිළිවෙලින් තිබූ බවත් ඊට අමතරව පොහොර උරයක බහා කඩු හයක් තිබී පොලිස් භාරයට ගෙන ඇත.
+
+...
+
+[Data](articles/111d97ef.json)
 
 ---
 
@@ -319,6 +373,30 @@ We are working together to fulfill the aspirations of the people. When the party
 [Data](articles/6842b4d2.json)
 
 [Extended Data](ext_articles/6842b4d2.ext.json)
+
+---
+
+### ශානි අබේසේකර: යළි සේවයට කැඳවා ඇත්තේ ඇයි?
+
+*2024-10-14 01:49:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyv9dgej8ro) · `si`
+
+ජීවිත තර්ජන, අනපේක්ෂිත බන්ධනාගාර ගත කිරීම් හා විවිධ අසාධාරණකම්වලට ලක්වු කීර්තිමත් විමර්ශන නිලධාරියෙකු ලෙස සැකලෙන ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී  (විශ්‍රාමික)  ශානි අබේසේකරට නව රජය විසින් අලුත් වගකීමක් පවරනු ලැබ තිබේ.
+
+අපරාධ පරීක්ෂණ දෙපාර්තෙම්න්තුවේ හිටපු අධ්‍යක්ෂවරයෙකු වූ ශානි අබේසේකර ව වසරක කාලයක් සඳහා කොන්ත්‍රාත් පදනම මත අලුතින් පත් කර ඇත්තේ,අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් (CID) පරිබාහිර වූ වෙනත් කොට්ඨාසකට ය.
+
+ඒ, අපරාධ බුද්ධි විශ්ලේෂණ හා නිවාරණ කොට්ඨාසයේ අධ්‍යක්ෂවරයා ලෙස ය.
+
+මේ යටතේ අපරාධ බුද්ධි විශ්ලේෂණය සහ විමර්ශන මෙහෙයවීම ඔහුට පැවරෙන ප්‍රධාන වගකීම වනු ඇත.
+
+ජාතික පොලිස් කොමිෂන් සභාව නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ, 2024 ඔක්තෝබර් 10 වැනිදා පැවති කොමිෂන් සභා සැසිවාරයේදී ඔහුගේ පත් කිරීමට අනුමැතිය ලබාදීමට තීරණය කර ඇති බව ය.
+
+පාර්ලිමේන්තු මැතිවරණය කැඳවා ඇති බැවින්,  මැතිවරණ කොමිෂන් සභාවේ පූර්ණ එකඟතාවය මත මෙම පත් කිරීම් සිදුකර ඇති බවද පොලිස් කොමිෂන් සභාව සඳහන් කළේය.
+
+ශානි අබේසේකර: මාස 10ක් රක්ෂිත බන්ධනාගාරට යැවූ චෝදනාවෙන් නිදහස්ශානි අබේසේකර ඝාතනය කිරීමේ කුමන්ත්‍රණයක්
+
+...
+
+[Data](articles/f0768613.json)
 
 ---
 
@@ -2183,101 +2261,5 @@ However, Premachandra expressed confidence in her political future, stating her 
 [Data](articles/50717117.json)
 
 [Extended Data](ext_articles/50717117.ext.json)
-
----
-
-### I am quitting
-
-*2024-10-13 16:56:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவியிலிருந்து-விலகுகிறேன்/175-345373) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Hirunika Premachandra resigns as national organizer of United Women's Power. She made this announcement recently.
-
-🟩
-
-Hirunika Premachandra has announced that he will step down as the national organizer of the United Women's Power.
-
-◼️
-
-[Data](articles/7b94cadc.json)
-
-[Extended Data](ext_articles/7b94cadc.ext.json)
-
----
-
-### Keheliya resigns from politics
-
-*2024-10-13 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202120) · `si`
-
-Keheliya Rambukwella retires from politics after 31 years. Former Minister announces decision at Kandy meeting. Emphasizes public support and hope for judicial justice. Cites success as businessman before entering politics.
-
-🟩
-
-Former Kandy District Parliamentarian as well as former Minister of Former Health Minister Keheliya Rambukwella has decided to retire from active politics.
-
-He was speaking at a meeting held in Kandy today (13) to inform the party to inform the party about his politics.
-
-He further stated that he is not a politically orphaned. He said that he was announced temporarily, but the public is prevalent.
-
-He also emphasized that people who have been engaged in politics than a businessman are worth the popular love.
-
-He also hopes that there is a confidence that he will have justice from the judiciary and to restore politics as a innocent person.
-
-"Nearly 31 years ago, I became a politician. My grandfather was in Mr. Bandaranaike. Mr. Keheliya name was Mr. Bandaranaike. I didn't want to worry in active politics. I'm a good successful businessman ".
-
-"Whether or not to help, talk to me without any chances to help, I have no backwill. It is not the blank word, but from the heart. "
-
-...
-
-[Data](articles/2799e808.json)
-
-[Extended Data](ext_articles/2799e808.ext.json)
-
----
-
-### Action Notification of the Ministry of Education
-
-*2024-10-13 16:42:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கல்வி-அமைச்சின்-அதிரடி-அறிவிப்பு/150-345369) · `ta`
-
-Ministry of Education grants authority to cancel school holidays during natural disasters after consulting District Disaster Management Committee.
-
-🟩
-
-The Ministry of Education has given the power to take stunning action in the event of natural disasters due to inclement weather in the country.
-
-Accordingly, the Ministry of Education has announced that the authority to provide holidays to schools, provincial secretaries, provincial education secretaries and provincial education directors, if there are floods and other natural disasters.
-
-The Ministry of Education has announced that the decision has been taken only after discussing with the District Disaster Management Committee on the inclement weather in the country.
-
-◼️
-
-[Data](articles/6dc76a4d.json)
-
-[Extended Data](ext_articles/6dc76a4d.ext.json)
-
----
-
-### Action Notification of the Ministry of Education
-
-*2024-10-13 16:42:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சின்-அதிரடி-அறிவிப்பு/175-345369) · `ta`
-
-Ministry of Education grants authority to declare school holidays during natural disasters like floods. Decision made after consulting District Disaster Management Committee about inclement weather conditions.
-
-🟩
-
-The Ministry of Education has given the power to take stunning action in the event of natural disasters due to inclement weather in the country.
-
-Accordingly, the Ministry of Education has announced that the authority to provide holidays to schools, provincial secretaries, provincial education secretaries and provincial education directors, if there are floods and other natural disasters.
-
-The Ministry of Education has announced that the decision has been taken only after discussing with the District Disaster Management Committee on the inclement weather in the country.
-
-◼️
-
-[Data](articles/eede4291.json)
-
-[Extended Data](ext_articles/eede4291.ext.json)
 
 ---

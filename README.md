@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 12:25:52**
+As of **2024-10-14 12:39:08**
 
 ## Newspaper Stats
 
-*Scraped **49,398** Articles*
+*Scraped **49,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,55 @@ newsfirstlk | 363
 dbsjeyarajcom | 401
 bbccomsinhala | 492
 colombotelegraphcom | 493
-islandlk | 2,930
+islandlk | 2,933
 economynextcom | 3,026
 dailyftlk | 3,346
 adalk | 4,581
 dailymirrorlk | 4,733
 adaderanalk | 5,838
 tamilmirrorlk | 6,743
-virakesarilk | 7,907
+virakesarilk | 7,908
 adaderanasinhalalk | 8,545
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,398 (100.0%) of 49,398 articles have been extended.
+49,400 (100.0%) of 49,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### 31 Chinese citizens arrested for involvement in ecommerce fraud
+
+*2024-10-14 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196233) · `ta`
+
+Chinese citizens arrested for ecommerce fraud in Sri Lanka. Multiple arrests in Kandy, Rajagiriya, Hangwella, Nawala, Panadura, and Kundasalai areas.
+
+🟩
+
+31 Chinese citizens have been arrested for allegedly involved in a raid on Sunday (13) in two different areas.
+
+Accordingly, 16 Chinese citizens who were suspiciously staying at a hotel in Kandy, Kandy, were arrested by the Kandy police yesterday.
+
+Meanwhile, 15 Chinese citizens who were suspiciously staying in a series of residences in Rajagiriya, Welikada, were arrested yesterday.
+
+30 Chinese citizens, 4 Indian nationals and 6 Thai citizens have been arrested in Hangwella area on the 6th.
+
+19 Chinese citizens have been arrested in Nawala area on the 7th.
+
+20 Chinese citizens have been arrested in Panadura area on the 10th.
+
+120 Chinese citizens have been arrested in Kundasalai area in Kandy on the 12th.
+
+◼️
+
+[Data](articles/ca560325.json)
+
+[Extended Data](ext_articles/ca560325.ext.json)
+
+---
 
 ### Army and Navy intensify flood relief efforts across 8 districts as rivers overflow
 
@@ -53,6 +83,36 @@ The army remains on high alert as floodwaters continue to rise, with further mea
 [Data](articles/ef539bae.json)
 
 [Extended Data](ext_articles/ef539bae.ext.json)
+
+---
+
+### Obama joins Kamala’s campaign trail, boostig her chances
+
+*2024-10-14 11:45:00* · [`islandlk`](http://island.lk/obama-joins-kamalas-campaign-trail-boostig-her-chances/) · `en`
+
+Trump secretly sent Putin coveted Covid testing machines at height of shortage – Bob Woodward
+
+George Washington’s farewell address delivered at Mount Vernon at the end of his second term in 1796, when he was 64-year-old, “stands today as a timeless warning about the forces that threaten American democracy”.
+
+No president ever wanted to be the president of the United States as passionately as Washington. He deemed the pinnacle of his achievement to be the winning of independence from England and paving the way to the Federal Constitutional Convention in Philadelphia, where he sat as its presiding officer till 1787. He most reluctantly accepted the presidency in 1789, and again in 1793. But in 1796, he was firm in his refusal, as he considered the presidency to be just an epilogue to his career, not his greatest achievement.
+
+...
+
+[Data](articles/58c53114.json)
+
+[Extended Data](ext_articles/58c53114.ext.json)
+
+---
+
+### Gaza as a moral compass – and a strategic blunder
+
+*2024-10-14 11:44:00* · [`islandlk`](http://island.lk/gaza-as-a-moral-compass-and-a-strategic-blunder/) · `en`
+
+The government of Sri Lankan president Anura Kumara Dissanayake has pledged solidarity with Gaza and Palestine. In this the National People’s Power (NPP) party differs little from other political outfits in the country, which have all expressed their support for the rights of Palestinians and the idea of Palestinian statehood. Even the previous administration, of Ranil Wickremesinghe, reiterated its commitment to a two-state solution, though its relations with Israel were controversial at best and problematic at worst.
+
+...
+
+[Data](articles/35614fd9.json)
 
 ---
 
@@ -85,6 +145,22 @@ When the petitions were taken up today (14), the Deputy Solicitor General of the
 [Data](articles/8aa9f1e2.json)
 
 [Extended Data](ext_articles/8aa9f1e2.ext.json)
+
+---
+
+### The Asian Scene from Colombo in 1954
+
+*2024-10-14 11:41:00* · [`islandlk`](http://island.lk/the-asian-scene-from-colombo-in-1954/) · `en`
+
+The Colombo Powers Conference provided the momentum for Asian-African and led to 1955 Bandung Conference
+
+I participated in this Conference held in Colombo in 1954 at which many of the Asian Regional States were represented by their Prime Ministers and led to Conferences in Bogor and Bandung and to the Non-Aligned Movement. It also gave ideas for the SAARC Organisation in the 1980s.
+
+In April 1954, Sir John Kotelawala, Prime Minister of Ceylon, invited the Prime Ministers of Burma, India, Indonesia, and Pakistan, to meet at a conference in Colombo “for an informal discussion of matters of common interest”. In his autobiography An Asian Prime Minister’s Story, Sir John relates how he thought of the idea of a Colombo Powers Conference and makes this comment:–
+
+...
+
+[Data](articles/8b1f989b.json)
 
 ---
 
@@ -2251,99 +2327,5 @@ Sri Lanka’s State of the Economy for 2024, known as SOE 24, has been released 
 [Data](articles/287ae52a.json)
 
 [Extended Data](ext_articles/287ae52a.ext.json)
-
----
-
-### Legal action against President's candidates who did not report expenditure
-
-*2024-10-13 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202127) · `si`
-
-Elections Commission warns candidates about late expense reporting. Legal action threatened for non-compliance. Candidates rush to submit reports before deadline. Elpitiya PSC election scheduled for October 26.
-
-🟩
-
-30 candidates who have come forward to the presidential election have been handed over to the Elections Commission.
-
-A spokesman said that the candidates had handed over the reports by the afternoon.
-
-The time to provide the expenditure reports of the presidential election will end in 12 midnight today.
-
-The Elections Commission states that legal action will be taken against the candidates who do not provide reports during that period.
-
-Accordingly, candidates and political parties have come to the Elections Commission to provide their expenditure reports today.
-
-The Elections Commission said that 24 political parties and independent groups who have been presented to the presidential election have also been given their expenses.
-
-මේ අතර ඇල්පිටිය ප්‍රාදේශීය සභා ඡන්ද විමසීමට අදාළ තැපැල් ඡන්ද සලකුණු කිරීමේ කටයුතු හෙට (14) දිනයේ සිදුකිරීමට නියමිතව ඇත.
-
-The Elections Commission states that the election will be held on the 18th of this month.
-
-The Elpitiya PSC election will be held on October 26.
-
-◼️
-
-[Data](articles/8ece59f2.json)
-
-[Extended Data](ext_articles/8ece59f2.ext.json)
-
----
-
-### Another Chinese nationals arrested
-
-*2024-10-13 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202126) · `si`
-
-Chinese nationals arrested in Kotte for financial frauds. Police seized 15 computers and phones.
-
-🟩
-
-A group of 15 Chinese suspects to be involved in financial frauds have been arrested in the Kotte area in Kotte, Welikada.
-
-Police Media Spokesperson DIG's Court Attorney Nihal Talduuwa said that 15 desktop computers and 15 mobile phones have been taken into police custody.
-
-◼️
-
-[Data](articles/89c812e7.json)
-
-[Extended Data](ext_articles/89c812e7.ext.json)
-
----
-
-### Driver killed in plowing machine in Medirigiriya
-
-*2024-10-13 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196192) · `ta`
-
-Driver killed in plowing machine accident in Medirigiriya. Vehicle overturned, driver lost control and died. Incident occurred near Kusum Pokuna area. Driver hospitalized and later transferred to Polonnaruwa Hospital.
-
-🟩
-
-A small plowing machine in the Kusum Pokuna area belonging to the Medirigiriya Police Division toppled the driver of the road, the driver of the police said.
-
-The driver lost control and collapsed on the street as the plowing machine was heading towards Kusum Pokuna from the Bingbara area.
-
-The driver, who was severely injured in the incident, was admitted to the Medirigiriya Hospital and was transferred to the Polonnaruwa Hospital for further treatment.
-
-◼️
-
-[Data](articles/fa2f61da.json)
-
-[Extended Data](ext_articles/fa2f61da.ext.json)
-
----
-
-### Diplomacy towards the existence of the Maldives
-
-*2024-10-13 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196191) · `ta`
-
-India maintains economic ties with Maldives while balancing competition from China and US in regional leadership and strategic security.
-
-🟩
-
-On the one hand, India has a peaceful economic agreement among the countries of the Born, and is trying to maintain domination in its region.. Not only China but also the United States in this regional leadership and strategic security affairs is increasingly pursuing the influence of Indian interests.
-
-◼️
-
-[Data](articles/f91781fb.json)
-
-[Extended Data](ext_articles/f91781fb.ext.json)
 
 ---

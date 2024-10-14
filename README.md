@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 18:00:10**
+As of **2024-10-14 18:20:23**
 
 ## Newspaper Stats
 
-*Scraped **49,465** Articles*
+*Scraped **49,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 494
 islandlk | 2,933
 economynextcom | 3,031
 dailyftlk | 3,346
-adalk | 4,589
+adalk | 4,590
 dailymirrorlk | 4,733
 adaderanalk | 5,854
 tamilmirrorlk | 6,756
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,563
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,465 (100.0%) of 49,465 articles have been extended.
+49,466 (100.0%) of 49,466 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -239,6 +239,34 @@ The summit announced a three-day public holiday for the city of Islamabad, and t
 [Data](articles/f3d51817.json)
 
 [Extended Data](ext_articles/f3d51817.ext.json)
+
+---
+
+### Nandimithra is known to microphone
+
+*2024-10-14 16:20:10* · [`adalk`](https://www.ada.lk/breaking_news/නන්දිමිත්‍ර-මයික්‍රෆෝනයට-මිත්‍රවෙයි/11-412483) · `si`
+
+Here's a 200-character summary:
+
+
+
+Nandimithra Ekanayake: Former Cabinet & Chief Minister. First elected as SLFP MP. UNP minister under Mahinda Rajapaksa. Supported Sajith Premadasa in presidential elections.
+
+🟩
+
+Former Cabinet Minister and former Central Province Chief Minister Nandimithri Ekanayake has come forward to the Parliamentary Election in the general election.
+
+Nandimithra Dr. Nandimithra has been elected to Parliament for the first time in the Sri Lanka Freedom Party for the first Sri Lanka Freedom Minister.
+
+The girl is under the United National Party in 2001 and the Girl Minister of Administration of the President of Mahinda Rajapaksa.
+
+Alexakamka Sajith Premadasa of the Presidential Elections was supported by the United Democratic Sound Party in this election.. (I J)
+
+◼️
+
+[Data](articles/c47165c1.json)
+
+[Extended Data](ext_articles/c47165c1.ext.json)
 
 ---
 
@@ -2281,29 +2309,5 @@ It is a Democratic Party, our party always acts by making decisions together. In
 [Data](articles/128ab7a0.json)
 
 [Extended Data](ext_articles/128ab7a0.ext.json)
-
----
-
-### Trio dies
-
-*2024-10-14 10:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்தில்-சிக்கி-மூவர்-உயிரிழப்பு/175-345407) · `ta`
-
-Three men die: one falls into water-filled field, another's body found in canal. Irrigation director warns of potential floods in several districts due to increased rainfall.
-
-🟩
-
-A 48 -year -old man has died after falling into a water -filled field near Haldota Budhu, who was traveling on the Panadura -Angruvattota road on the 11th.
-
-The body of the missing person who fell into the canal on the 10th was found on the morning of the 12th of this month in the village of Welihita.
-
-Irrigation Director SBC Sugeswara said that if the rainfall is further increased, the floods that are gradually decreasing will be increased again.
-
-He also warned that in heavy rains, there may be an immediate flood in the districts of Gampaha, Colombo, Kalutara, Galle and Ratnapura.. Remble
-
-◼️
-
-[Data](articles/013dc331.json)
-
-[Extended Data](ext_articles/013dc331.ext.json)
 
 ---

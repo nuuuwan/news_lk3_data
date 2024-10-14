@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 11:39:56**
+As of **2024-10-14 11:59:18**
 
 ## Newspaper Stats
 
-*Scraped **49,383** Articles*
+*Scraped **49,394** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,128 @@ dbsjeyarajcom | 401
 bbccomsinhala | 492
 colombotelegraphcom | 493
 islandlk | 2,930
-economynextcom | 3,023
+economynextcom | 3,026
 dailyftlk | 3,346
 adalk | 4,580
 dailymirrorlk | 4,733
-adaderanalk | 5,832
-tamilmirrorlk | 6,740
-virakesarilk | 7,906
+adaderanalk | 5,836
+tamilmirrorlk | 6,743
+virakesarilk | 7,907
 adaderanasinhalalk | 8,544
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,383 (100.0%) of 49,383 articles have been extended.
+49,392 (100.0%) of 49,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-14 (Monday)
+
+### 2024 General Election: EC to decide on candidates’ spending limit tomorrow
+
+*2024-10-14 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102669/2024-general-election-ec-to-decide-on-candidates-spending-limit-tomorrow) · `en`
+
+The secretaries of political parties and the Election Commission is scheduled to meet tomorrow (15) in order to discuss matters related to the upcoming parliamentary election.
+
+The discussion is slated to be held at the Election Commission Office at 9.30 a.m. tomorrow.
+
+This will be the first meeting between the secretaries of political parties and the election regulatory body following the announcement of the parliamentary elections.
+
+Accordingly, during the meeting, they will determine the maximum expenditure allowed for each candidate. After that, the Election Commission stated that a Gazette notification pertaining to the matter will be issued.
+
+Apart from this, future activities related to the election will also be discussed during the meeting.
+
+◼️
+
+[Data](articles/a7e37298.json)
+
+[Extended Data](ext_articles/a7e37298.ext.json)
+
+---
+
+### Govt. ready to reconsider Adani wind power project, AG tells court
+
+*2024-10-14 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102668/govt-ready-to-reconsider-adani-wind-power-project-ag-tells-court) · `en`
+
+The Attorney General (AG) has informed the Supreme Court that the Cabinet of Ministers has decided to reconsider the matters related to the wind power project in Wedithalathivu, Mannar by India’s Adani Green Energy.
+
+The AG communicated this to the court when the Fundamental Rights (FR) petitions filed seeking an order to invalidate the Cabinet approval granted for India’s Adani Green Energy for a wind power project in Wedithalathivu, Mannar was taken up this morning (14).
+
+On August 02, the Supreme Court fixed for consideration the five Fundamental Rights petitions filed by five parties including the Centre for Environmental Justice against the Adani’s wind power project, arguing that the proposed wind farm poses significant threats to ecological biodiversity and the safety of migratory birds.
+
+...
+
+[Data](articles/9901f1e9.json)
+
+[Extended Data](ext_articles/9901f1e9.ext.json)
+
+---
+
+### The question of Shani's appointment
+
+*2024-10-14 11:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷானியின்-நியமனம்-குறித்து-கேள்வி/175-345420) · `ta`
+
+Shani Abeysekera's appointment questioned by IRES due to political affiliations. IRS Executive Director Manjula Gajanayake opposes the move, citing potential conflicts of interest.
+
+🟩
+
+The Democratic Reforms and Election Studies Agency (IRES) has questioned the appointment of former Director of the Criminal Investigation Department (CID) Shani Abeysekera as the Director of the Criminal Investigation Analyst Bureau.
+
+IRS Executive Director Manjula Gajanayake raised the announcement of the announcement of the government's appointment on October 10.
+
+In the last presidential election, Gajanayake pointed out that Abeysekera had joined a group of retired police officers who actively campaigned for the national People's Power (NPP) of President Anura Kumara Dissanayake.
+
+He added that the upcoming parliamentary elections have been appointed only after the announcement of the upcoming parliamentary elections.
+
+Gajanayake urged him to announce his appointment only after the first session of the new parliament after the general election, though he was considered a talented officer while in the service of Abeysekara.
+
+◼️
+
+[Data](articles/3c134a41.json)
+
+[Extended Data](ext_articles/3c134a41.ext.json)
+
+---
+
+### Applications called for appointing new DG to Bribery Commission
+
+*2024-10-14 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102667/applications-called-for-appointing-new-dg-to-bribery-commission) · `en`
+
+Applications have been called for the position of the Director General to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+Issuing a statement, the Parliamentary Communications Department said that according to the provisions stipulated in the Anti-Corruption Act No 9 of 2023 (as amended), applications are called for the appointment of the Director General to the Commission to Investigate Allegations of Bribery or Corruption.
+
+For the said, the qualified persons should prepare the relevant applications in accordance with the format published on the Parliament website (www.parliament.lk) falling under the quick links titled “Appointment of the Director General to the Commission to Investigate Allegations of Bribery or Corruption”, the statement added.
+
+...
+
+[Data](articles/841972f0.json)
+
+[Extended Data](ext_articles/841972f0.ext.json)
+
+---
+
+### Explosion in Padalgama: One killed
+
+*2024-10-14 11:10:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படல்கமவில்-வெடிப்பு-ஒருவர்-பலி/175-345418) · `ta`
+
+Explosion at Padalgama carbon factory kills one, injures 19. Police suspect boiler malfunction due to excessive heat. Incident occurred on Monday morning in Gampaha district.
+
+🟩
+
+19 workers were injured and killed in an explosion on Monday morning at a carbon -making factory in Badalgama, Gampaha, police said.
+
+Police suspect that the boiler operating on Saturday night (12) may have exploded due to high heat.
+
+◼️
+
+[Data](articles/85e96ebc.json)
+
+[Extended Data](ext_articles/85e96ebc.ext.json)
+
+---
 
 ### Explosion at Padalgama Factory: One Kills
 
@@ -140,6 +244,28 @@ Police investigations have revealed that the young man was addicted to drug use 
 
 ---
 
+### IMF agrees to increase relief measures for people – President’s Advisor
+
+*2024-10-14 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102666/imf-agrees-to-increase-relief-measures-for-people-presidents-advisor) · `en`
+
+President’s Adviser on Economic and Financial Affairs Prof. Anil Jayantha says the International Monetary Fund (IMF) has agreed to enhance the relief measures provided to the people of Sri Lanka.
+
+He revealed that the relevant proposals for this increase in relief will be submitted to the IMF in the near future.
+
+Prof. Jayantha emphasized that the current government’s primary focus is on boosting the support extended to the public, particularly as part of its efforts to revive the economy.
+
+“During our discussions with the IMF, we made it clear that in order to stimulate economic recovery, the basic needs of the people—food, drink, and fertilizer for farmers—must be met. The IMF did not oppose the idea of increasing relief and encouraged us to present our programs,” Prof. Jayantha stated.
+
+He further added that the government is actively working with other institutions linked to the IMF to expedite the delivery of assistance.
+
+...
+
+[Data](articles/1e3d9763.json)
+
+[Extended Data](ext_articles/1e3d9763.ext.json)
+
+---
+
 ### Ready to support President - Thikambaram
 
 *2024-10-14 10:58:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-ஆதரவு-வழங்க-தயார்-திகாம்பரம்/175-345414) · `ta`
@@ -183,6 +309,48 @@ The Minister said that the fertilizer subsidy was started in the Ampara District
 [Data](articles/06b3da91.json)
 
 [Extended Data](ext_articles/06b3da91.ext.json)
+
+---
+
+### Egg prices are up again
+
+*2024-10-14 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196231) · `ta`
+
+Egg prices surge from 28 to 32 rupees daily. Market predicts potential further increase.
+
+🟩
+
+The price of egg sold at 28 rupees to 32 rupees is increasing day by day.
+
+However, market sources said the price of eggs could rise further in the future.
+
+◼️
+
+[Data](articles/4387fa50.json)
+
+[Extended Data](ext_articles/4387fa50.ext.json)
+
+---
+
+### The number compass, the cylinder does not accept me
+
+*2024-10-14 10:42:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/திசைகாட்டி-சிலிண்டர்-என்னை-ஏற்கவில்லை/150-345413) · `ta`
+
+Sarath Fonseka refuses election due to symbol disputes. Anura Kumara Dissanayake and Dinesh Gunawardena denied candidacy opportunities. Negotiations failed over compass and gas cylinder symbols.
+
+🟩
+
+Former parliamentarian Field Marshal Sarath Fonseka has said that the leader of the National People's Power, Anura Kumara Dissanayake and former Prime Minister Dinesh Gunawardena, could not be given the opportunity to contest the general election.
+
+This is why he has decided not to contest the general election.
+
+Field Marshal Sarath Fonseka added that the decision was taken due to the failure of negotiations to contest the compass and gas cylinder symbol in this year's general election.
+
+◼️
+
+[Data](articles/206ff336.json)
+
+[Extended Data](ext_articles/206ff336.ext.json)
 
 ---
 
@@ -327,6 +495,48 @@ The railway department has said that the train has been subjected to a technolog
 [Data](articles/247a37dd.json)
 
 [Extended Data](ext_articles/247a37dd.ext.json)
+
+---
+
+### Sri Lanka construction sector NPLs start to fall from 17.1-pct peak
+
+*2024-10-14 10:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-construction-sector-npls-start-to-fall-from-17-1-pct-peak-183373/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s construction sector non-performing loans which peaked at 17.1 percent after a currency collapse, has eased to 14.1 percent despite a contraction in credit, according to the central bank data in a Financial Stability Review.
+
+Construction investment credit is usually one of the big beneficiaries when central banks print money to target inflation or growth and collapse as soon as a ‘stabilization crisis’ starts as inflation ceases to accelerate.
+
+Central banks typically ‘cut rates’ by printing money through open market operations, buying back government bonds from banks, allowing them to give loans without deposits.  The exercise tends to worsen loan to deposit ratios.
+
+In the last crisis however some foreign banks, sharply curtailed all credit, including interbank lending due higher risk perceptions including on government debt, where an actual default or induced artificial default from debt restructuring was feared.
+
+...
+
+[Data](articles/3a5b3eed.json)
+
+[Extended Data](ext_articles/3a5b3eed.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 292.60/90 to US dollar, bond yields down
+
+*2024-10-14 10:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-292-60-90-to-us-dollar-bond-yields-down-183362/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened slightly stronger at 292.60/90 to the US dollar on Monday, from 292.75/95 a day earlier, while bond yields were down dealers said.
+
+The central bank announced it will be issuing 97,000 million rupees in Treasury bills through an auction on Tuesday (15).
+
+A bond maturing on 15.12.2027 was quoted at 11.20/25 percent, down from 11.30/45 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.42/50 percent, down from 11.50/60 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.65/80 percent, down from 11.80/95 percent.
+
+In equities, Colombo’s All Share Price Index opened up 0.12 percent, or 14.85 points higher at 12,308, while the S&P SL20 of more liquid stocks was trading up 0.09 percent or 3.12 points higher at 3,643.
+
+◼️
+
+[Data](articles/e8b7b266.json)
 
 ---
 
@@ -770,6 +980,26 @@ The motorcycle was not controlled from Batticaloa to Kalmunuka road and collided
 
 ---
 
+### Sri Lanka sees foreign inflows into govt securities amid deflationary policies
+
+*2024-10-14 08:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-inflows-into-govt-securities-amid-deflationary-policies-183358/) · `en`
+
+ECONOMYNEXT – Foreign inflows into Sri Lanka’s government securities saw further increase last week, Central Bank data showed, amid the country’s deflationary policies and appreciation in the rupee currency.
+
+The foreign holding in Sri Lanka’s Treasury bills and Treasury bonds increased by 15.7 percent or 6.9 billion rupees (($23.4 mln at 1 US dollar = 295 LKR) to 50,647 million rupees, the official data showed.
+
+“Foreign investors bought short term as well as 2026 and five-year bonds,” a currency dealer said.
+
+“They are taking a risk because of the country’s deflationary policies where imports are curtailed and currency has been appreciating. Unless there is an increase in imports including allowing vehicle imports, the currency is likely to see appreciation pressure.”
+
+The island nation saw an inflow of 4.4 billion rupees ($14.9 mln) in the previous week.
+
+...
+
+[Data](articles/6d34c962.json)
+
+---
+
 ### The election warfare will leave
 
 *2024-10-14 07:59:21* · [`adalk`](https://www.ada.lk/breaking_news/කරුත්-මැතිවරණ-සටනින්-ඉවත්වෙයි/11-412473) · `si`
@@ -1198,11 +1428,11 @@ He is presently a Non-Executive Director of Ceylon Biscuits Ltd. He counts over 
 
 *2024-10-14 00:48:09* · [`dailyftlk`](https://www.ft.lk/business/Magistrate-s-Court-dismisses-case-against-Asia-Capital-upholds-company-s-directors-and-employees-integrity/34-767932) · `en`
 
-We are pleased to announce that the criminal case brought against Asia Capital PLC and some former employees by a Japanese investor, CC Trust Pte Ltd., has been summarily dismissed by the Magistrate’s Court on 2 October 2024. This authoritative ruling confirms what we have maintained from the outset: that the allegations were unfounded, misleading and without merit in fact or law. The expert legal team consisted of Attorney Uchitha Wickremesinghe, Thilak Maparapana PC and Naveen Marapana PC.
+In a significant legal development, the Magistrate’s Court has summarily dismissed the criminal case brought against Asia Capital PLC and several of its former employees. The case was filed by CC Trust Pte Ltd., a Japanese investor, but the Court’s decision firmly concluded that the allegations were baseless and without merit both in fact and law.
 
-Filing a criminal case in what is clearly a commercial transaction reflects malicious intent by the complainant. This positive ruling in our favour underscores not only our innocence but also the harmful nature of the claims that have been made against us.
+The legal team representing Asia Capital PLC, comprising Attorney Uchitha Wickremesinghe and Presidents’ Counsel Thilak Maparapana and Naveen Marapana, successfully argued for the dismissal of the charges. According to the company, this ruling reinforces their longstanding position that the accusations were unfounded and motivated by malicious intent.
 
-We wish to express our deep concern regarding the reputational damage caused by these unfounded accusations and the significant loss and distress this matter has caused to our company, our employees, and our stakeholders.
+“This authoritative ruling confirms what we have maintained from the outset: that the allegations were misleading and without substance,” a statement issued by Asia Capital PLC noted.
 
 ...
 
@@ -2105,249 +2335,5 @@ Initial investigations revealed that the youth was working on a field in Kodikam
 [Data](articles/39685e06.json)
 
 [Extended Data](ext_articles/39685e06.ext.json)
-
----
-
-### Army civilian sports coach drowns for fun
-
-*2024-10-13 19:15:28* · [`adalk`](https://www.ada.lk/breaking_news/විනෝදයට-පැද්ද-ඔරුව-පෙරළී-යුද-හමුදා-හිටපු--සිවිල්-ක්‍රීඩා-පුහුණුකරු-දියේ-ගිලී-මිය-යයි/11-412469) · `si`
-
-Former Army civilian sports coach drowned while swimming in floodwaters near Mulleriyawa. Body recovered after search efforts involving police and local residents.
-
-🟩
-
-The body of the former Civil Sports Coach disappeared today (13), the body of the former army civilian sports was disappeared this morning.
-
-The victim was a 34 year old, a resident of Kelaniya Village Road.
-
-The victim and six persons including a 12-year-old child, a 12-year-old child, and traveling with six people were traveling to the flooded areas, Mulleriyawa boat has been rolled down the boat.
-
-The residents of the area had rescued the delegation of a great prospect and the deceased was missing.
-
-Special Task Force Chief Inspector Susantha, Chief Inspector General of Police Chief Inspector Susantha, the Senior DIG Attorney General, the body of the Navy, as well as the residents of the area, the body of the disappeared as well as the residents of the area was searching the bodiesPolice say they were found.
-
-◼️
-
-[Data](articles/9c09d71a.json)
-
-[Extended Data](ext_articles/9c09d71a.ext.json)
-
----
-
-### Kaithady’s Nuffield School For The Deaf & Blind : Will The New President Save Its Children From The Church?
-
-*2024-10-13 19:14:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kaithadys-nuffield-school-for-the-deaf-blind-will-the-new-president-save-its-children-from-the-church/) · `en`
-
-The Anglican Church’s Colombo Diocese has three schools for the visually handicapped and hearing impaired: 1) The Nuffield School in Kaithady (or The Deaf and Blind School, as we used to call it), 2) The School for the Blind in Ratmalana and 3) The School for the Deaf, also in Ratmalana. The Kaithady school  was part of my life as a boy. We always attended their Christmas service and were amazed by how well the handicapped children could sing. They would occasionally come to our services at St. James’ Nallur.
-
-The Nuffield School was established in 1956 with 18 students and 4 staff members. By 1961 there were 60 students, with many students residing within.
-
-...
-
-[Data](articles/003b3b31.json)
-
-[Extended Data](ext_articles/003b3b31.ext.json)
-
----
-
-### Elephant in Nuwara Eliya
-
-*2024-10-13 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196194) · `ta`
-
-Nuwara Eliya district faces challenge commemorating UNP elephant symbol after Sri Lankan rejection. CWC removes party symbol, unable to compete independently.
-
-🟩
-
-Together with national parties, the CWC has removed the party's symbol from the people today. That is, the CWC is unable to compete on its own soil on its own soil. In the meantime, what challenging task is the people of the Nuwara Eliya district to commemorate the elephant symbol of the UNP, which the Sri Lankan people have rejected?
-
-◼️
-
-[Data](articles/257b9d42.json)
-
-[Extended Data](ext_articles/257b9d42.ext.json)
-
----
-
-### Wimal Weerawansa's precedent
-
-*2024-10-13 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196200) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Wimal Weerawansa's political strategy: Tamil parties contest risky seats (Ampara, Trincomalee) rather than quit, setting precedent for national populist movements.
-
-🟩
-
-The Tamil parties are not ready to quit, despite the risk of losing the representation of the Tamils ​​as they are contesting in Ampara and Trincomalee in Ampara and Trincomalee.. But Wimal Weerawansa's party is a paradigm in politics that has been given to the national people's power
-
-◼️
-
-[Data](articles/85228d8c.json)
-
-[Extended Data](ext_articles/85228d8c.ext.json)
-
----
-
-### Unexpected justice
-
-*2024-10-13 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196202) · `ta`
-
-"Government rejects Geneva resolution, opposing international accountability."
-
-🟩
-
-It is certain that the government will oppose international accountability efforts by rejecting the Geneva resolution. ”
-
-◼️
-
-[Data](articles/20dfe266.json)
-
-[Extended Data](ext_articles/20dfe266.ext.json)
-
----
-
-### Tamil National Removal Politics
-
-*2024-10-13 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196203) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil National Party dissolved, transformed into LTTE without identities. Sumanthiran acted alone in this political maneuver.
-
-🟩
-
-The Tamil National Party has been removed and has been converted into a LTTE with no identities. Sumanthiran has done it as a single person
-
-◼️
-
-[Data](articles/d570a520.json)
-
-[Extended Data](ext_articles/d570a520.ext.json)
-
----
-
-### Will the equal handle come up?
-
-*2024-10-13 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196205) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-India and US oppose China's research vessels in Sri Lanka. This move aims to counterbalance China's growing influence in the region. The decision reflects strategic concerns about maritime security and economic interests.
-
-🟩
-
-India and the United States do not want to carry out Chinese research ships to Sri Lanka
-
-◼️
-
-[Data](articles/14f66f0e.json)
-
-[Extended Data](ext_articles/14f66f0e.ext.json)
-
----
-
-### World Bank has to discuss new Sri Lanka lending as policy loans end
-
-*2024-10-13 19:08:00* · [`economynextcom`](https://economynext.com/world-bank-has-to-discuss-new-sri-lanka-lending-as-policy-loans-end-183338/) · `en`
-
-ECONOMYNEXT – Washington based World Bank has to start discussions to resume policy loans or other funding for Sri Lanka with existing budget support lined up along with an International Monetary Fund program having come to an end, an official said.
-
-Budget support loans have no import or spending component allowing proceeds to be used for general expenditure or to settle maturing short-term debt.
-
-“In terms of budget support plans, we’ve got no firm plans at the moment,” Gevorg Sargsyan, World Bank Country Manager for Sri Lanka said.
-
-“We need to have a conversation with the new government, understand their reform plans, what they’re thinking. And then on our side, we can also formulate the kind of support that we can provide, whether it’s budget support or other kind of operations.
-
-The World Bank, Asian Development Bank and other lending agencies have indicated their readiness to support Sri Lanka at meetings with newly elected President Anura Dissanayake.
-
-...
-
-[Data](articles/a37c1bae.json)
-
-[Extended Data](ext_articles/a37c1bae.ext.json)
-
----
-
-### Public Media Unit to arrest the searched suspect
-
-*2024-10-13 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/196195) · `ta`
-
-Police investigating murder on Reclameasan Road. Suspect sought. Public urged to report tips to specified phone numbers.
-
-🟩
-
-The police are conducting investigations to arrest the suspect in connection with the incident of the killing of a man with a sharp weapon on the Reclamesan Road, which belongs to the police division.
-
-The crime is about to wander around the area and engage in crime. C. D. Wheelets have been found by the police.
-
-Video, footage and photos have been sent to the media and the police have asked the public to contact the following telephone numbers if you find any information on this issue.
-
-◼️
-
-[Data](articles/f856cb4e.json)
-
-[Extended Data](ext_articles/f856cb4e.ext.json)
-
----
-
-### Milk, harasses, removed from accountability
-
-*2024-10-13 19:04:52* · [`adalk`](https://www.ada.lk/breaking_news/හිරුණිකත්-කළ-කිරෙයි--සජබ-වගකිම්වලින්-ඉවතට/11-412468) · `si`
-
-Hirunika Premachandra resigns as National Organizer of Women's Society. Cites association's defeat and allegations against Sajith Premadasa. Decides to focus on personal future.
-
-🟩
-
-Ms. Hirunika Premachandra has decided to leave the post of National Organizer Hirunika Premachandra, the Women's Society of the Society forces.She has sent his resignation letter to the Secretary General of the people's power Ranjith Madduma Bandara.
-
-Ms. Hirunika Premachandra said that he had decided to leave all the responsibilities of the Vanitorician force, even in Colombo today (13).
-
-She said that the decision was taken by the association of the last presidential defeat and that they had taken place in the defeat and that they had taken the same decision due to the allegation of Sajith Premadasa.. It was also stated that she decided that she had to think of their future since now.
-
-◼️
-
-[Data](articles/c0b70720.json)
-
-[Extended Data](ext_articles/c0b70720.ext.json)
-
----
-
-### The General Building is not present - we apologize to the people - Nilanthan announces!
-
-*2024-10-13 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196196) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Nilanthan apologizes for missing General Building. Urges voting for untainted currency and national workers. Resigned Tamil People's General Assembly cites inability to handle other elections. Demands not to use conch symbol in presidential election. Claims no connection between Sangu symbol, Tamil People's Council, and public structure. Apologizes for scattered campaign efforts and lack of public confidence.
-
-🟩
-
-Nilanthan said that the people should vote for the currency, those who are not tainted and the workers who work for the nationality.
-
-Yall. He said this during a media briefing held at the Media Center today (13).
-
-The Tamil People's General Assembly has resigned in the parliamentary election as it is unable to handle other elections.
-
-We have demanded not to use the conch symbol used in the presidential election. The parties may not have taken the symbol if they wanted. They have taken it.
-
-There is no connection between the Sangu symbol, the Tamil people's general council and the public structure.
-
-The Tamil People's Council is the Tamil People's Council. The elections can be confronted only after the General Assembly goes to the next.
-
-The Tamil People's General Assembly won the presidential election and won the country. It has recovered with the announcement of the parliamentary election in a few days.
-
-...
-
-[Data](articles/fe51693f.json)
-
-[Extended Data](ext_articles/fe51693f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-14 19:12:37**
+As of **2024-10-14 19:23:45**
 
 ## Newspaper Stats
 
-*Scraped **49,474** Articles*
+*Scraped **49,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 494
 islandlk | 2,933
 economynextcom | 3,031
 dailyftlk | 3,346
-adalk | 4,591
+adalk | 4,592
 dailymirrorlk | 4,733
 adaderanalk | 5,855
-tamilmirrorlk | 6,756
+tamilmirrorlk | 6,758
 virakesarilk | 7,914
 adaderanasinhalalk | 8,564
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,564
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,471 (100.0%) of 49,474 articles have been extended.
+49,477 (100.0%) of 49,477 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,27 +46,81 @@ Furthermore, the statement mentioned that the Chinese Embassy provides full supp
 
 [Data](articles/5ede721a.json)
 
+[Extended Data](ext_articles/5ede721a.ext.json)
+
 ---
 
-### දිස්ත්‍රික්ක කිහිපයක් සඳහා නායයාමේ අනතුරු ඇඟවීම්
+### Landslide warnings for several districts
 
 *2024-10-14 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202171) · `si`
 
-ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් නවතම නායයාමේ අනතුරු ඇඟවීමේ නිවේදනය නිකුත් කර තිබේ.
+National Building Research Organization issues landslide warnings for Kalutara, Kegalle, and Ratnapura districts from 4pm to midnight. Affected areas include specific Divisional Secretariat regions within each district.
 
-එම අනතුරු ඇඟවීමේ නිවේදනය අද (14) පස්වරු 4.00 සිට ඉදිරි පැය 24ක කාලයක් දක්වා වලංගු බව ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනය සඳහන් කරයි.
+🟩
 
-ඒ අනුව පහත සඳහන් දිස්ත්‍රික්කවලට අයත් ප්‍රාදේශීය ලේකම් කොට්ඨාස සඳහා අදියර 2 යටතේ මෙන්ම අදිරය 1 යටතේ අනතුරු ඇඟවීම් නිවේදන නිකුත් කර ඇත.
+The National Building Research Organization has issued the latest landslide warning announcement.
 
-කළුතර දිස්ත්‍රික්කය: - වලල්ලාවිට, හොරණ, ⁠ඉංගිරිය, මතුගම, දොඩංගොඩ, ⁠බුලත්සිංහල, පාලින්දනුවර, ⁠අගලවත්ත
+The National Building Research Institute said that the warning notification is valid from 4.00 pm to 24 hours.
 
-කෑගල්ල දිස්ත්‍රික්කය: - රුවන්වැල්ල, යටියන්තොට, දෙහිඕවිට, වරකාපොළ, බුලත්කොහුපිටිය, කෑගල්ල, ⁠මාවනැල්ල, ⁠අරණායක, ⁠දැරණියගල
+Accordingly, under phases of Divisional Secretariats belonging to the Divisional Secretariats belonging to the following districts, as well as warning announcements have been issued under the 1 stage of 1.
 
-රත්නපුර දිස්ත්‍රික්කය: - ඇහැළියගොඩ, ⁠කිරිඇල්ල, අයගම, ඇලපාත, ⁠කලවාන, රත්නපුර, ⁠කුරුවිට
+Kalutara District: - Walallawita, Horana, Horana, Matugama, Matugama, Dodangoda, Palindhanuwara, Udabulawatta, Nagalawatta
+
+Kegalle District: - Ruwanwella, Yatiyantota, Dehiowita, Dehiowita, Kegalle, Kegalle, manawapitiya, Kegalle, ⁠ாரApitiya
+
+Ratnapura District: - Eheliyagoda, Rakirilla, Ayagama, Alapatha, Ulawana, Ratnapura and Ratnapura
 
 ◼️
 
 [Data](articles/13cd0daa.json)
+
+[Extended Data](ext_articles/13cd0daa.ext.json)
+
+---
+
+### Standard solution is necessary for flood disaster
+
+*2024-10-14 18:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அனர்த்தத்திற்கு-நிலையான-தீர்வு-அவசியம்/175-345452) · `ta`
+
+Flood disaster management: President calls for standard solution, allocates funds for relief efforts in affected areas.
+
+🟩
+
+President Anuragumara Dissanayake said that there was a flood disaster twice this year and a proper and sustainable program is necessary to control the frequent floods.
+
+He made this statement during a discussion with officials of the Ministry of Disaster Management and the Ministry of Finance today (14).
+
+The President has given the directive to the Ministry officials to take immediate steps to provide immediate relief to the people of Colombo, Gampaha, Puttalam and Kalutara, which have been affected by the inclement weather.
+
+The President also informed the Secretary of the Ministry of Finance to allocate funds for further money for more than 50 million rupees already allocated to provide relief to the people affected by the disaster.
+
+During the previous floods this year, the President directed the authorities to explore the problems of the damaged assets and provide compensation.
+
+...
+
+[Data](articles/d1402d98.json)
+
+[Extended Data](ext_articles/d1402d98.ext.json)
+
+---
+
+### Chance to travel on holidays from season tickets
+
+*2024-10-14 18:16:09* · [`adalk`](https://www.ada.lk/breaking_news/වාර-ප්‍රවේශ-පත්‍රවලින්-නිවාඩු-දිනයන්වලදීත්-ගමන්-කිරීමට-අවස්ථාව/11-412485) · `si`
+
+Ministry allows students to use season tickets for holiday travel. Students can ride SLTB buses daily during holidays without monthly pass issues. Minister Vijitha Herath implements this policy to address student concerns about transportation during breaks.
+
+🟩
+
+Transport Ministry Ministry of Transport Ministry has instructed the Chairman of the Board of Transport Board for permission to travel permission to travel to school children, technical colleges and university students.
+
+Students need immediate action to travel to these SLTB buses every day to the month, considering the number of complaints that students have been adapted to the monthly difficulties during the holidays.Minister Vijitha Herath to do done
+
+◼️
+
+[Data](articles/318d5162.json)
+
+[Extended Data](ext_articles/318d5162.ext.json)
 
 ---
 
@@ -94,23 +148,61 @@ During the meeting, the Parliamentary General Elections to be held in November, 
 
 ---
 
-### ගං වතුර පාලනය සඳහා තිරසර විසඳුමක අවශ්‍යතාව  ජනපති අවධාරණය කරයි
+### Bad at the end of the world: thrower arrested
+
+*2024-10-14 17:48:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உலக-முடிவில்-சடலம்-வீசியவர்-கைது/76-345451) · `ta`
+
+Arrested for murder: Chandra Bose Dayan, 34, accused of killing three-wheeler driver Vivekanandan Sujeevan, 23, over gemstones and gold. Victim leased vehicle for Rs 350,000 in 36 installments. Suspect claimed economic crisis motive.
+
+🟩
+
+Chandra Bose Dayan, a 34 -year -old man from Madulseema, Badawatta, was arrested on Monday (14) in connection with the death of a three -wheeler driver from the Hali Ela Rosett garden.
+
+Vivekanandan Sujeevan, a 23 -year -old from Hali Ela Rosett, died, police said.
+
+The murdered young man has received a lease of the suspect's three -wheeler, paying Rs 350,000 and leasing in 36 installments in 36 installments based on Rs 13,000.
+
+The suspect has been working in Madulzima Pattawatta and has called a three -wheeler driver, claiming that he is going to sell gems and gold items along with another person living in the garden due to economic crisis.
+
+It is also reported that the suspect and his friend have climbed into a three -wheeler near the refueling station in Madulzima.
+
+Later, police said that the three -wheeler driver was assaulted and assaulted, claiming that gold and expensive gemstones were hidden in the jungle near the end of the small world.
+
+◼️
+
+[Data](articles/3105d530.json)
+
+[Extended Data](ext_articles/3105d530.ext.json)
+
+---
+
+### President emphasizes the need for a sustainable solution for flooding
 
 *2024-10-14 17:43:56* · [`adalk`](https://www.ada.lk/breaking_news/ගං-වතුර-පාලනය-සඳහා-තිරසර-විසඳුමක-අවශ්‍යතාව--ජනපති-අවධාරණය-කරයි/11-412484) · `si`
 
-අයහපත් කාලගුණය හේතුවෙන් විපතට පත් කොළඹ, ගම්පහ, පුත්තලම හා කළුතර  ජනතාවට කඩිනමින් සහන සැපයීම ප්‍රමුඛ කාර්යය කර ගන්න
+President calls for sustainable flood solutions, promotes relief efforts in affected areas, requests additional funding if needed, instructs officials to address non-damaged properties.
 
-සහන ලබා දීම සඳහා අතිරේකව වෙන් කරන ලද රුපියල් මිලියන 50ට අමතරව මුදල් අවශ්‍ය නම් ඒ සඳහා ප්‍රතිපාදන වෙන් කරන්න
+🟩
 
-මෙම වසරේදී ගංවතුර තත්ත්වය අවස්ථා දෙකකදී ඇති වූ බවත් ඒ අනුව නිරන්තරයෙන් ඇතිවන ගං වතුර පාලනය සඳහා නිශ්චිත හා තිරසර වැඩපිළිවෙළක් අවශ්‍ය බවත්   ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රකාශ කළේය.
+Promotion of relief to the people of Colombo, Gampaha, Puttalam and Kalutara
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ , ආපදා කළමනාකරණ අමාත්‍යාංශය සහ මුදල් අමාත්‍යාංශ නිලධාරීන්  සමඟ ජනාධිපති කාර්යාලයේදී අද (14) පැවති සාකච්ඡාවේදීය.
+If you need money in addition to Rs.
 
-අයහපත් කාලගුණය හේතුවෙන් විපතට පත් කොළඹ, ගම්පහ, පුත්තලම හා කළුතර   ජනතාවට කඩිනමින් සහන සැපයීම ප්‍රමුඛ කාර්යය කර ගන්නා ලෙසත් , ඉන් පසුව දේපළ හානි පූර්ණය සඳහා කටයුතු කරන ලෙසත්, ජනාධිපතිවරයා  අමාත්‍යාංශ නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.
+President Anura Kumara Dissanayake said the flood occurred on two occasions and that there was a definite and sustainable program.
 
-...
+President Anura Kumara Dissanayake made these comments at a discussion held today with the Ministry of Disaster Management and the Officers of the Ministry of Finance.
+
+The President instructed the Ministry of Ministries to provide immediate relief to the people of Colombo, Gampaha, Puttalam and Kalutara to be promoted to the promotion of property, including inclement weather.
+
+President Anura Kumara Dissanayake is also allocated to provide allocations if more than Rs.
+
+The President also instructed the officials to look into the issues of the people who were not fully damaged by the floods.
+
+◼️
 
 [Data](articles/5c00a284.json)
+
+[Extended Data](ext_articles/5c00a284.ext.json)
 
 ---
 
@@ -2249,79 +2341,5 @@ Field Marshal Sarath Fonseka added that the decision was taken due to the failur
 [Data](articles/35935a73.json)
 
 [Extended Data](ext_articles/35935a73.ext.json)
-
----
-
-### A discussion between the party secretaries and the Election Commission
-
-*2024-10-14 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202143) · `si`
-
-Meeting between party secretaries and Election Commission tomorrow at 9:30 AM. First post-election gathering. Discuss spending limits per candidate and campaign regulations. Gazette to be issued soon.
-
-🟩
-
-A meeting between the political party secretaries and the Elections Commission will be held tomorrow (15).
-
-The discussion will be held at the Election Commission premises at 9.30 am tomorrow.
-
-This is the first time Political Party Secretaries will meet the Elections Commission following the parliamentary election.
-
-Accordingly, the minimum amount that can be spent on one candidate tomorrow will be decided.
-
-The Elections (EPL) later said that the gazette would be issued.
-
-In addition, discuss the election campaign.
-
-◼️
-
-[Data](articles/fe406142.json)
-
-[Extended Data](ext_articles/fe406142.ext.json)
-
----
-
-### Four arrested with sharp weapons
-
-*2024-10-14 10:35:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரிய-ஆயுதங்களுடன்-நால்வர்-கைது/175-345412) · `ta`
-
-Four arrested for murder with sharp weapons at Ratmalana. Police seized swords and ice drugs. Suspects from Ratmalana Soyza Pur and Piwatta. Victim killed over online friendship dispute.
-
-🟩
-
-Four people have been arrested for killing a man with sharp weapons at Ratmalana Belakkady junction, police said.
-
-With those suspects, seven swords and ice drugs have been seized by the police at different sizes.
-
-Officials of the bribery unit immediately arrested the suspects, following confidential information that some people were coming in a car ready to kill a person near the Malkisa Magistrate's Court.
-
-Investigations conducted by the suspects revealed that the victim was to kill the man who had been friendly with a person with a Internet app and brought the man to the hill country a few months ago.
-
-The arrested suspects belonged to Ratmalana Soyza Pur and Piwatta.
-
-◼️
-
-[Data](articles/273b6423.json)
-
-[Extended Data](ext_articles/273b6423.ext.json)
-
----
-
-### Postal voting for Elpitiya PS scheduled for today
-
-*2024-10-14 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102665/postal-voting-for-elpitiya-ps-scheduled-for-today) · `en`
-
-Postal voting for the Elpitiya Pradeshiya Sabha in the 2024 Local Government Elections is scheduled to take place today (14).
-
-The Election Commission stated that voters who are unable to cast their postal votes today will have another opportunity to do so on October 18.
-
-Although 10 recognized political parties and 2 independent groups had placed their bonds for the Elpitiya Pradeshiya Sabha, only 8 recognized political parties and one independent group submitted their nominations.
-
-The election for the Elpitiya Pradeshiya Sabha is scheduled to be held on October 26.
-
-◼️
-
-[Data](articles/0c7cacc0.json)
-
-[Extended Data](ext_articles/0c7cacc0.ext.json)
 
 ---

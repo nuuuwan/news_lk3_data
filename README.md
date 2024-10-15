@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 20:11:41**
+As of **2024-10-15 20:23:26**
 
 ## Newspaper Stats
 
-*Scraped **49,680** Articles*
+*Scraped **49,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ bbccomsinhala | 499
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
-adalk | 4,616
+adalk | 4,617
 dailymirrorlk | 4,733
 adaderanalk | 5,882
 tamilmirrorlk | 6,796
 virakesarilk | 7,952
-adaderanasinhalalk | 8,602
+adaderanasinhalalk | 8,603
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,680 (100.0%) of 49,680 articles have been extended.
+49,682 (100.0%) of 49,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Two children arrested on suspicion
+
+*2024-10-15 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202214) · `si`
+
+Two children arrested for watchman murder at Pepiliyana children's home. Police investigation ongoing.
+
+🟩
+
+Two children have been arrested by the police regarding the assassination of a watchman who was protected by a children's home.
+
+The victim was arrested in a childhood home in Pepiliyana, two and two boys.
+
+There are residents of the children of the Children's Home and Judiciary in Pepiliyana.
+
+There is a manager and a major administrator for its administration and was the watchman, named Sikku Hewage Dias.
+
+The premises have joined the premises and children and children who were not in the children's home this morning.
+
+The three-wheeler owner had lodged a complaint with a three-wheeler owner who had stolen a house near the children of the children.
+
+Accordingly, the police officers questioned the child's boss at around 4.30 this morning.
+
+It was in such a backdrop that the body of the guard's body was nearing the well of the Children's Home.
+
+The 17 year old suspect and a 16-year boy have been arrested by the police.
+
+...
+
+[Data](articles/401eb352.json)
+
+[Extended Data](ext_articles/401eb352.ext.json)
+
+---
 
 ### Hill rail services impact
 
@@ -239,6 +273,30 @@ Telecommunications and e -commerce scams began in China in the 1990s. Since then
 [Data](articles/60a112af.json)
 
 [Extended Data](ext_articles/60a112af.ext.json)
+
+---
+
+### Sudden transfer of Hambantota District Secretary
+
+*2024-10-15 18:24:54* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-දිස්ත්‍රික්-ලේකම්ට-හදිසියේ-ස්ථාන-මාරුවක්/11-412509) · `si`
+
+Hambantota District Secretary HP Sumanasekera transferred to Ministry of Justice. Election Commission requested transfer due to Cabinet's plan for new appointment. Officials subject to emergency transfers during general election.
+
+🟩
+
+Hambantota District Secretary HP Sumanasekera has suddenly transferred to the Ministry of Justice, the Secretary to the Ministry of Defense and the Secretary to the Ministry of Justice to the Ministry of Justice.
+
+When contacted by the Elections Commission to a request made by the Elections Commission, the complaint was carried out by the Commissioner General of the Elections Commission Saman Sri Ratnayake in this regard.The request was made.
+
+He said that he was aware of the media that the Cabinet was determined to provide a new appointment of the Hambantota District Secretary to the Hambantota District Secretary.
+
+He is also responsible for the Select Officer of the Select Officer of the Hambantota district and the officials of the Hambantota District Secretariat have been subjected to the transfer of these emergency transfers during the general election.
+
+◼️
+
+[Data](articles/dbc486dc.json)
+
+[Extended Data](ext_articles/dbc486dc.ext.json)
 
 ---
 
@@ -2421,51 +2479,5 @@ It is noteworthy that the tenure of the members of the University Grants Commiss
 [Data](articles/33beb350.json)
 
 [Extended Data](ext_articles/33beb350.ext.json)
-
----
-
-### Vegetable prices down
-
-*2024-10-15 10:09:13* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-මිල-පහළට/11-412497) · `si`
-
-Vegetable prices drop due to bad weather. Rural farmers struggle to sell produce at low rates. Prices: beans (Rs. 350-330), carrots (Rs. 500-70). Economic impact noted.
-
-🟩
-
-Due to the prevailing inclement weather, the prices of the rural vegetables, the main economic center of the country, says Keppetipola specialized economic center.
-
-The prices of vegetables were down in recent days, have fallen below due to the bad weather conditions that have been affected by the adverse weather conditions, whether it has fallen below, Said and Govindtag. The farmers say that the arrival of the country's arrival due to the inclement weather, the farmers have caused the decline and harvesting due to the inclement weather, as the inclement weather is due to the inclement weather.
-
-The farmers claim that they are unable to sell these low and sell vegetables and is trying to get vegetables at very low prices.The capitipola specialized economic center at the Keppetipola is as follows.
-
-A kilo of beans between Rs. 350-330 and a kilo of carrots between Rs.A kilo of Rs. 500 - 70 per kilo of Rs..
-
-◼️
-
-[Data](articles/069596bb.json)
-
-[Extended Data](ext_articles/069596bb.ext.json)
-
----
-
-### Vijitha gets certified by police officers
-
-*2024-10-15 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202189) · `si`
-
-Defense Minister Vijitha Herath emphasizes police independence, calling for an end to public accusations against law enforcement during her certification ceremony speech at Kalutara Police Training School.
-
-🟩
-
-Police officers should be able to work without political influence.
-
-He pointed out that the time has come for the police to be free from the allegations of the people.
-
-Speaking at a function held at Kalutara Police Training School, the Defense Defense Minister Vijitha Herath made these comments.
-
-◼️
-
-[Data](articles/544b01f0.json)
-
-[Extended Data](ext_articles/544b01f0.ext.json)
 
 ---

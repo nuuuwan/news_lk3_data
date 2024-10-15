@@ -1,36 +1,88 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 08:02:26**
+As of **2024-10-15 08:23:22**
 
 ## Newspaper Stats
 
-*Scraped **49,537** Articles*
+*Scraped **49,544** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 401
 colombotelegraphcom | 493
-bbccomsinhala | 495
+bbccomsinhala | 496
 islandlk | 2,941
 economynextcom | 3,034
 dailyftlk | 3,363
-adalk | 4,596
+adalk | 4,599
 dailymirrorlk | 4,733
-adaderanalk | 5,857
+adaderanalk | 5,858
 tamilmirrorlk | 6,763
 virakesarilk | 7,926
-adaderanasinhalalk | 8,572
+adaderanasinhalalk | 8,574
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,537 (100.0%) of 49,537 articles have been extended.
+49,537 (100.0%) of 49,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### දුම්රිය ප්‍රමාදයක් - මගීන්ට දැනුම්දීමක්
+
+*2024-10-15 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202183) · `si`
+
+කොළඹ කොටුව සහ මරදාන දුම්රිය ස්ථාන අතර පීලිපැනීමක් හේතුවෙන් දුම්රිය ධාවනයට බාධා එල්ල වී තිබේ.
+
+දුම්රිය දෙපාර්තමේන්තුව පැවසුවේ, අද (15) පෙරවරු 7ට පමණ මඩකලපුව සිට කොටුව බලා ධාවනය වූ මීනගයා නගරාන්තර දුම්රියේ එංජිම මෙලෙස පීලිපැනීමකට ලක්ව ඇති බවය.
+
+මේ හේතුවෙන් කොළඹ කොටුව සහ මරදාන අතර දුම්රිය ධාවනයට බාධා එල්ල වී ඇති බව සඳහන්ය.
+
+ඒ අනුව ප්‍රධාන මාර්ගයේ දුම්රිය සහ මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයේ ප්‍රමාදයන් සිදුවිය හැකි බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/1be8bbf8.json)
+
+---
+
+### Trains delayed due to derailment between Fort and Maradana
+
+*2024-10-15 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102693/trains-delayed-due-to-derailment-between-fort-and-maradana) · `en`
+
+The derailment of a train between Colombo Fort and Maradana railway stations has delayed train services, according to the Railway Department.
+
+◼️
+
+[Data](articles/55975aee.json)
+
+---
+
+### පානදුරේ නිවසක් තුළ තිබී යුවළකගේ මළ සිරුරු හමුවෙයි
+
+*2024-10-15 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202182) · `si`
+
+පානදුර ගල්ගොඩ ශ්‍රී මහා විහාරස්ථ පාරේ නිවසකක් තුළ තිබී පිරිමි පුද්ගලයකුගේ සහ කාන්තාවකගේ මළසිරුරු හමුව තිබේ.
+
+කාන්තාවගේ මළසිරුර සාලයේ බිම තිබෙන බවත් පිරිමි පුද්ගලයාගේ මළසිරුර නිවසේ බාල්කයක එල්ලෙමින් තිබීයදී සොයාගත් බවත් පානදුර පොලීසිය පවසයි.
+
+දෙදෙනා අනියම් සම්බන්ධතාවයක් පවත්වාගෙන යන යුවළක් බවට තොරතුරු ලැබී තිබේ.
+
+පොලීසිය සැකකරන්නේ, පිරිමි පුද්ගලයා විසින් කාන්තාව ඝාතනය කර ගෙල වැලලාගන්නට ඇති බවය.
+
+එලෙස මියගොස් ඇත්තේ,  47 හැවිරිදි පිරිමි පුද්ගලයෙක් සහ 42 හැවිරිදි කාන්තාවකි.
+
+පානදුර කොට්ඨාස අපරාධ ස්ථාන අංශයේ නිලධාරීන් පරීක්ෂණ ආරම්භ කර ඇති අතර පානදුර දකුණ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/1c337820.json)
+
+---
 
 ### Members of the University Grants Commission resign
 
@@ -550,6 +602,30 @@ In the petition, it is noteworthy that the use of drug use has been asked to tak
 
 ---
 
+### සුගත් වසන්ත ද සිල්වා: 'පළමු වරට' ජාතික ලැයිස්තුවකට ඇතුළත් වූ දෘශ්‍යාබාධිත පුද්ගලයා
+
+*2024-10-15 01:44:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2lv25nn0lo) · `si`
+
+සුගත් වසන්ත ද සිල්වා: 'පළමු වරට' ජාතික ලැයිස්තුවකට ඇතුළත් වූ දෘශ්‍යාබාධිත පුද්ගලයා
+
+ශ්‍රී ලංකා පාර්ලිමේන්තු ඉතිහාසයේ පළමු වරට දෘශ්‍යාබාධිත පුද්ගලයෙකුට පාර්ලිමේන්තු මන්ත්‍රී ධූරයකට පත්වීමට අවස්ථාව උදා වී තිබේ.
+
+ඒ, 2024 මහ මැතිවරණයේ ජාතික ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ලේඛනයට දෘශ්‍යාබාධිත පුද්ගලයෙකු ඇතුළත් කර තිබීම හේතුවෙනි.
+
+ඔහු, ශ්‍රී ලංකා දෘශ්‍යාබාධිත උපාධිධාරී කවුන්සිලයේ සභාපති සුගත් වසන්ත ද සිල්වා ය.
+
+තමන්ට පාර්ලිමේන්තු මන්ත්‍රී ධූරයක් ලැබුණහොත් ඉටු කිරීමට අපේක්ෂා කරන කාර්යයන් පිළිබඳව ඔහු බීබීසී සිංහල සේවයට අදහස් දැක්වීය.
+
+සුගත් වසන්ත ද සිල්වා 1967 ජූලි 26 වන දා, එනම් මීට වසර 57කට පෙර දකුණු පළාතේ බලපිටිය, ගොඩගෙදර ප්‍රදේශයේදී උපත ලැබුවේ, දෑස් පෙනෙන සාමාන්‍ය බිළිඳෙකු ලෙස ය.
+
+“මම ඇස් පෙනෙන කෙනෙක් විදිහට තමයි, මේ ලෝකෙට ආවේ. මම මුලින් ම බාලාංශයේ සිට තුනේ පන්තිය දක්වා ගියේ, කන්දෙගොඩ කනිෂ්ඨ විද්‍යාලයට. එතන ඉඳන් පහ ශ්‍රේණිය දක්වා මම වතුගෙදර සිරි අබේතිස්ස කනිෂ්ඨ විද්‍යාලයට ගියා,” සුගත් වසන්ත ද සිල්වා සිය අතීතය ආවර්ජණය ආරම්භ කළේ, එසේ ය.
+
+...
+
+[Data](articles/dd429fb7.json)
+
+---
+
 ### The UN. President Meeting with Assistant Secretary
 
 *2024-10-15 01:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நா-உதவிச்-செயலாளருடன்-ஜனாதிபதி-சந்திப்பு/175-345469) · `ta`
@@ -1046,6 +1122,24 @@ The injured have been admitted to the Kaluwanchikudi Resource Hospital for furth
 
 ---
 
+### මැතිවරණයට අදාළව විශේෂ සාකච්ඡාවක්
+
+*2024-10-14 19:59:23* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-අදාළව-විශේෂ-සාකච්ඡාවක්/11-412494) · `si`
+
+පාර්ලිමේන්තු මැතිවරණයට අදාළ ව දේශපාලන පක්ෂ ලේකම්වරු සහ මැතිවරණ කොමිෂන් සභාව අතර හෙට (15දා) විශේෂ සාකච්ඡාවක් පැවැත්වීමට සැලසුම් කර තිබේ.
+
+මෙම සාකච්ඡාවෙහිදී  පාර්ලිමේන්තු මැතිවරණය සඳහා එක්  අපේක්ෂකයෙකු ඡන්ද දායකයෙකු වෙනුවෙන් වියදම් කළ හැකි උපරිම මුදල තීරණය කිරීමට ද නියමිතව තිබෙන අතර  මැතිවරණයේ ඉදිරි කටයුතු සම්බන්ධයෙන් ද මෙහිදී සාකච්ඡා කිරීමට නියමිතය.
+
+පාර්ලිමේන්තු මැතිවරණයේදී වියදම් කළ හැකි  මුදල තීරණය කිරීමෙන් පසු  ඒ සම්බන්ධ ගැසට් නිවේදනයක්ද නිකුත් කිරීමට නියමිතය.
+
+පාර්ලිමේන්තු මැතිවරණය ප්‍රකාශයට පත් කිරීමෙන් අනතුරුව දේශපාලන පක්ෂ ලේකම්වරු  හා මැතිවරණ කොමිෂන් සභාව හමුවන පළමු අවස්ථාව ද මෙය වේ.
+
+◼️
+
+[Data](articles/38e4fd32.json)
+
+---
+
 ### Pressure 100,000 people from inclement weather
 
 *2024-10-14 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202173) · `si`
@@ -1077,6 +1171,24 @@ The Irrigation Department said that a decrease in the flood risk of flood risk i
 [Data](articles/7fe8a0a4.json)
 
 [Extended Data](ext_articles/7fe8a0a4.ext.json)
+
+---
+
+### මාලිමාවට සහාය දෙන බව පොහොට්ටුවේ සාගර කියයි
+
+*2024-10-14 19:45:09* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවට-සහාය-දෙන-බව-පොහොට්ටුවේ-සාගර-කියයි/11-412492) · `si`
+
+ජනතා විමුක්ති පෙරමුණ ප්‍රමුඛ මාලිමා රජයක් විසින් සිදුකරනු ලබන සංවර්ධන කටයුතු සඳහා පක්ෂයක් ලෙස ඉදිරියේදී උපරිම සහාය ලබාදෙන බව ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි ප්‍රධාන ලේකම් සාගර කාරියවසම් මහතා පැවසීය.
+
+ඔහු සඳහන් කර සිටියේ පක්ෂයක් ලෙස කිසිදු ආකාරයකින් එම ගමනේ කකුලෙන් ඇදීමක් සිදු නොකරන බවයි.
+
+බත්තරමුල්ල, නෙළුම් මාවතෙහි පිහිටි ශ්‍රී ලංකා පොදුජන පෙරමුණු මූලස්ථානයේදී ඊයේ (14දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් මේ බව කී ප්‍රධාන ලෙකම්වරයා එහිදී වැඩිදුරටත් අදහස් දක්වමින් මෙසේද කීය.
+
+“ඒ කොවිඩ් වසංගතයට මුහුණදීමේදී අපි ආර්ථිකය අමතක කරලා ජනතාවගේ ජිවිත ගැන හිතලා කටයුතු කිරීමෙන් පක්ෂයක් හැටියට, ආණ්ඩුවක් හැටියට වරදක් කළා. ඒ වරදට ජනතාව අපිට මේ වන විට යම්කිසි උත්තරයක් දීලා තිබෙනවා. අපි ඒ ජනතාවගේ තීන්දුව ඉතාම නිහතමානීව, ගෞරවාන්විතව පිළිගන්නවා පක්ෂයක් විදිහට. මේ රටේ අවංකව හිතන , මේ රටේ ජාතිකත්වය හිතන එකම පක්ෂය හැටියට ඉතුරුවෙලා තිබෙන්නේ ශ්‍රී ලංකා පොදුජන පෙරමුණයි. ඒ තීන්දුව පිළිගන්න ගමන්ම අපි අලුත් වැඩපිළිවෙළක් ඉදිරිපත් කරනවා අවංකව මේ රටේ අනාගතය වෙනුවෙන්.
+
+...
+
+[Data](articles/4c5b8400.json)
 
 ---
 
@@ -1269,6 +1381,24 @@ Furthermore, the statement mentioned that the Chinese Embassy provides full supp
 [Data](articles/5ede721a.json)
 
 [Extended Data](ext_articles/5ede721a.ext.json)
+
+---
+
+### තෙවන පාසල් වාරයේ අවසානය සතියකින් කල් යයි
+
+*2024-10-14 18:39:42* · [`adalk`](https://www.ada.lk/breaking_news/තෙවන-පාසල්-වාරයේ-අවසානය-සතියකින්-කල්-යයි/11-412487) · `si`
+
+2025.01 .17 දින අවසන් වීමට නියමිතව තිබූ  2024  අධ්‍යයන  වර්ෂයේ තෙවන  පාසල්  වාරය  තවත් සතියකින් කල් දැමූ බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+මේ අනුව  තෙවන වාරය මෙන්ම 2024 පාසල්  අධ්‍යයන වර්ෂය අවසන් වන්නේ 2025.01.24 දිනෙනි.
+
+තෙවන වාර විභාගය පවත්වා සිසුන්ට ප්‍රගති වාර්තා ලබා දීමට ප්‍රමාණවත් කාලයක් ලබා දෙන ලෙස විදුහල්පතිවරුන් විසින් කරන ලද ඉල්ලීම් සලකා මෙලෙස තෙවන පාසල් වාරය කල් දැමූ බව අධ්‍යාපන අමාත්‍යාංශයේ ලේකම් තිලකා ජයසුන්දර මහත්මිය මේ සම්බන්ධයෙන් විදුහල්පතිවරුන් ඇතුළු අධ්‍යාපන නිලධාරීන්  දැනුම්වත් කරමින්  නිකුත් කළ ලිපියේ සඳහන් වේ .
+
+තෙවන වාරය අවසන් වන 24 දින වන විට සියලුම සිසුන්ට තෙවන වාර විභාගය පවත්වා ප්‍රගති වාර්තා ලබාදීම අවසන් කළයුතු බවද අධ්‍යාපන අමාත්‍යාංශය  එම ලිපිය මගින්  අවධාරණය කරයි.
+
+◼️
+
+[Data](articles/43fba9ba.json)
 
 ---
 
@@ -2213,169 +2343,5 @@ The relevant case was filed against the company by the Inland Revenue Department
 [Data](articles/b92ecc25.json)
 
 [Extended Data](ext_articles/b92ecc25.ext.json)
-
----
-
-### 2024 Nobel Prize for Economics
-
-*2024-10-14 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202158) · `si`
-
-2024 Nobel Prize for Economics winners: Draron Asemoglu, Simon Johnson, and James A. Robinson. Awarded by Royal Academy. First economics prize given in 1969. Total recipients: 90; total awards: 55; 3 female winners.
-
-🟩
-
-2024 Draron Asemogliagelu, Simon Johnson and James A Robinson won the Nobel Prize for Economics.
-
-Their names were announced a few moments ago by the Royal Academy.
-
-Through this year, medicine, physics, chemistry, literary and peace.
-
-In 1969, the prize of the first economics was given for Ragnar Frisch and JAN Tinbergen.
-
-Up to date, 90 people have been awarded the Nobel Prize for Economics 55 times, three of them are women.
-
-◼️
-
-[Data](articles/29d1d8dc.json)
-
-[Extended Data](ext_articles/29d1d8dc.ext.json)
-
----
-
-### Arjunician's appeal declines
-
-*2024-10-14 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202157) · `si`
-
-Arjunician's appeal rejected: 3.5 billion VAT owed to government. Colombo Magistrate's Court orders 6-month jail term. Appeal dismissed by Colombo High Court. Respondents request permission to make tax payments.
-
-🟩
-
-3.5 billion VAT to the Government, the Colombo Magistrate's Court demands 06 months' jail dumped. M. The Appeal of the Colombo High Court has been rejected by the Director of Mandis, including the director Arjun Allogue.
-
-The respondents have requested the payment to be allowed to pay the tax payments.
-
-◼️
-
-[Data](articles/e2ced280.json)
-
-[Extended Data](ext_articles/e2ced280.ext.json)
-
----
-
-### China launches war games around Taiwan drawing anger in Taipei, concern from US
-
-*2024-10-14 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102679/china-launches-war-games-around-taiwan-drawing-anger-in-taipei-concern-from-us) · `en`
-
-China’s military launched a new round of war games near Taiwan on Monday, saying it was a warning to the “separatist acts of Taiwan independence forces”, drawing condemnation from the Taipei and U.S. governments.
-
-Democratically governed Taiwan, which China views as its own territory, had been on alert for more war games since last week’s national day speech by President Lai Ching-te. Lai’s address was condemned by Beijing after he said China had no right to represent Taiwan even as he offered to cooperate with Beijing.
-
-The Chinese military’s Eastern Theatre Command said the “Joint Sword-2024B” drills were taking place in the Taiwan Strait and areas to the north, south and east of Taiwan.
-
-...
-
-[Data](articles/1597b69c.json)
-
-[Extended Data](ext_articles/1597b69c.ext.json)
-
----
-
-### A quantitative decrease in precipitation in the future
-
-*2024-10-14 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202156) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Reduced precipitation forecast: Meteorologists predict less than 100mm daily rainfall. Some areas received 200mm+ on specific days. Disaster relief efforts underway, including additional funding for affected regions."
-
-🟩
-
-The Meteorological Department says that there is a reduction in quantity rain condition in the next few days.
-
-Meteorologist Malith Fernando said that showers exceeding over 100 mm on the day and tomorrow.
-
-He also said that the rain over 200m 200 mm were reported from some areas on the 110mm.
-
-He was speaking at a media briefing on the Disaster situation and the Disaster Relief Program in the Government Information Department.
-
-Speaking further he could expect a significant reduction in the rainfall of 16 and 17, but by the coming week, the general feature of the inter-monsoon is a normal feature of thunders.
-
-Meanwhile Additional Secretary to the Ministry of Defense (Disaster Management). P. Dharmathilaka said he was given another Rs. 50 million for the victims.
-
-...
-
-[Data](articles/fe4bc80f.json)
-
-[Extended Data](ext_articles/fe4bc80f.ext.json)
-
----
-
-### Here are the number of affected by inclement weather - three people lose their lives
-
-*2024-10-14 14:51:51* · [`adalk`](https://www.ada.lk/breaking_news/අයහපත්-කාලගුණයෙන්--පීඩාවට-පත්-සංඛ්‍යාව-මෙන්න----පුද්ගලයන්-තිදෙනෙකුට-දිවි-අහිමි-වෙයි/11-412482) · `si`
-
-Inclement weather affects 158,391 people across 89 divisions. Three deaths reported. Additional Secretary of Defense speaks at media briefing.
-
-🟩
-
-Additional Secretary of the Ministry of Defense of Defense has been affected by the Ministry of Defense, 158,391 people in 89 Divisional Secretariat Divisions due to inclement weather.
-
-He was speaking at a media briefing held at 79 secular centers and 2470 families, he said.
-
-Also, three persons have died due to this bad weather conditions.
-
-◼️
-
-[Data](articles/293bd22f.json)
-
-[Extended Data](ext_articles/293bd22f.ext.json)
-
----
-
-### ICC awarded Kamindu award
-
-*2024-10-14 14:27:58* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී-යෙන්-කමිඳුට-සම්මානයක්/9-412481) · `si`
-
-Kamindu Mandis wins ICC Award 2024. Second time ICC honors him. Recognized for Test series performance against New Zealand.
-
-🟩
-
-Mandis won the ICC Award in September 2024 award.
-
-This is the second time the ICC player was won by the ICC Award.
-
-He was awarded due to skills at the Test series against New Zealand.
-
-◼️
-
-[Data](articles/c23c5e2f.json)
-
-[Extended Data](ext_articles/c23c5e2f.ext.json)
-
----
-
-### Names of presidential candidates who have not submitted expenses reports released
-
-*2024-10-14 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102678/names-of-presidential-candidates-who-have-not-submitted-expenses-reports-released-) · `en`
-
-The Election Commission has released the names of the 2024 Presidential Election candidates who have not submitted their election campaigning expenses reports.
-
-Accordingly, the election regulatory body stated that neither of the following presidential election candidates, the secretaries of their recognized political parties nor the voters who nominated the names of the candidates have submitted the income and expense reports to the commission.
-
-01. Ven. Battaramulle Seelarathana Thero and Secretary of the ‘Janasetha Peramuna’
-
-Meanwhile, the following secretaries of recognized political parties representing the candidates who contested the 2024 Presidential Election and the voters who nominated the candidates have not submitted the income and expense reports, according to the Election Commission.
-
-01. Secretary of the Democratic United National Front (Candidate - Anoj de Silva)
-
-02. Secretary of the ‘Eksath Prajathanthravadi Sandhanaya’ (Candidate - Abubakar Mohamed Infaz)
-
-...
-
-[Data](articles/66cb94fc.json)
-
-[Extended Data](ext_articles/66cb94fc.ext.json)
 
 ---

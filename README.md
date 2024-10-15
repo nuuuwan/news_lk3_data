@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 20:39:10**
+As of **2024-10-15 20:58:25**
 
 ## Newspaper Stats
 
-*Scraped **49,684** Articles*
+*Scraped **49,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,883
 tamilmirrorlk | 6,796
 virakesarilk | 7,952
-adaderanasinhalalk | 8,603
+adaderanasinhalalk | 8,604
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,684 (100.0%) of 49,684 articles have been extended.
+49,685 (100.0%) of 49,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### West Indies target 163 runs
+
+*2024-10-15 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202215) · `si`
+
+Sri Lanka wins toss, scores 162/5 in 20 overs. Dissanayake 54*, Kusal Mendis 24*. West Indies chases 163, wins match.
+
+🟩
+
+The Sri Lankan team won the toss and win the coin in the Second Twenty Twenty Twenty20 Competition between the Sri Lanka West Indies and the Sri Lanka team.
+
+Accordingly, the Sri Lanka team scored 162 runs for the loss of 5 wickets at the end of 20 overs.
+
+Dissanayake scored 54 runs, Kusal Mendis and Kusal Perera scored 24 runs.
+
+West Indies scored 163 runs for winning the match.
+
+◼️
+
+[Data](articles/3a011395.json)
+
+[Extended Data](ext_articles/3a011395.ext.json)
+
+---
 
 ### Canada expels top India diplomats, links them to murder of Sikh leader
 
@@ -2465,31 +2489,5 @@ According to the Senior Specialization of the Sri Lanka Scientific Service Speci
 [Data](articles/0a4b79de.json)
 
 [Extended Data](ext_articles/0a4b79de.ext.json)
-
----
-
-### Sri Lanka Cabinet decides to order passports from old vendor
-
-*2024-10-15 10:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-decides-to-order-passports-from-old-vendor-183615/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of minsters have decided to order passports from its previous supplier following a court order, and call tenders after a 750,000 books in the order run out, Minister Vijitha Herath said.
-
-“We expect the first stock to come by next Monday,” minister Herath told a post-cabinet press briefing.
-
-The earlier supplier agreed in court to supply passports at a specific cost, Herath said.
-
-“Considering the urgent need in the country, at a special cabinet meeting [held on Oct 11], we decided to approve the company providing 750,000 passports in batches.
-
-“We believe this will address the shortage soon. By Saturday we will get one batch and by Monday the new passports will be issued.
-
-“But these 750,000 will last about four to five months and the need for more passports will arise. So the cabinet decided that we will call for tenders and order more.”
-
-Tenders won’t be called for e-passport suppliers at this time due to a court order, Herath said.
-
-...
-
-[Data](articles/e541ef3e.json)
-
-[Extended Data](ext_articles/e541ef3e.ext.json)
 
 ---

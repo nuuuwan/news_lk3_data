@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 11:39:54**
+As of **2024-10-15 11:59:10**
 
 ## Newspaper Stats
 
-*Scraped **49,589** Articles*
+*Scraped **49,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 401
 colombotelegraphcom | 493
 bbccomsinhala | 497
 islandlk | 2,942
-economynextcom | 3,035
+economynextcom | 3,037
 dailyftlk | 3,363
-adalk | 4,602
+adalk | 4,605
 dailymirrorlk | 4,733
-adaderanalk | 5,869
+adaderanalk | 5,870
 tamilmirrorlk | 6,776
 virakesarilk | 7,932
 adaderanasinhalalk | 8,583
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,589 (100.0%) of 49,589 articles have been extended.
+49,595 (100.0%) of 49,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### End to passports crisis from Monday - Minister
+
+*2024-10-15 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102705/end-to-passports-crisis-from-monday-minister) · `en`
+
+Minister Vijitha Herath announced that Sri Lanka will receive a new shipment of passports next Saturday, which will be distributed starting on Monday (Oct. 21).
+
+The announcement was made during a press briefing held this morning (15) to outline decisions made during the Cabinet meeting held yesterday.
+
+The Minister also addressed the ongoing legal issues surrounding the e-passport system, stating that there is currently an injunction imposed by the court is in place, preventing any tenders from being called for the e-passport project. “We will revisit the matter once the court proceedings are concluded,” Herath added.
+
+Despite the arrival of the 750,000 passports, the Minister cautioned that the stock will be exhausted in the near future. To avoid another potential passport shortage, it has been decided to initiate a procurement process for regular passports.
+
+...
+
+[Data](articles/367e63e1.json)
+
+[Extended Data](ext_articles/367e63e1.ext.json)
+
+---
 
 ### Special fuel relief to fishermen
 
@@ -99,6 +119,24 @@ Furthermore, Minister Herath assured that a subsidy of Rs. 15 per litre of keros
 [Data](articles/6a45c9e5.json)
 
 [Extended Data](ext_articles/6a45c9e5.ext.json)
+
+---
+
+### Railway engine set on fire near Kalutara railway station
+
+*2024-10-15 11:04:51* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-දුම්රිය-ස්ථානය-ආසන්නයේදී-දුම්රිය-එංජිමක්-ගිනි-ගනියි/11-412498) · `si`
+
+Train set ablaze at Kalutara station en route to Maradana. Firefighters responding to incident.
+
+🟩
+
+A train that was to be traveling from Kalutara to Maradana has been set on fire at the Kalutara Railway Station (15).
+
+◼️
+
+[Data](articles/ca21595d.json)
+
+[Extended Data](ext_articles/ca21595d.ext.json)
 
 ---
 
@@ -309,6 +347,28 @@ According to the Senior Specialization of the Sri Lanka Scientific Service Speci
 [Data](articles/0a4b79de.json)
 
 [Extended Data](ext_articles/0a4b79de.ext.json)
+
+---
+
+### Sri Lanka Cabinet decides to order passports from old vendor
+
+*2024-10-15 10:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-decides-to-order-passports-from-old-vendor-183615/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of minsters have decided to order passports from its previous supplier following a court order, and call tenders after a 750,000 books in the order run out, Minister Vijitha Herath said.
+
+“We expect the first stock to come by next Monday,” minister Herath told a post-cabinet press briefing.
+
+Sri Lanka to purchase up to 750,000 e-passports without chips to face shortfall
+
+Thales DIS Finland Oy had been chosen through a tender process to procure 5 million electronic passports at $5.06 each.
+
+The island nation has long queues outside its passport office as the existing empty passport books were not adequate to meet the current demand as thousands of Sri Lankans are leaving the country. (Colombo/Oct15/2024)
+
+◼️
+
+[Data](articles/e541ef3e.json)
+
+[Extended Data](ext_articles/e541ef3e.ext.json)
 
 ---
 
@@ -1023,6 +1083,52 @@ Officers of the Panadura Divisional Secretariat have commenced investigations an
 [Data](articles/1c337820.json)
 
 [Extended Data](ext_articles/1c337820.ext.json)
+
+---
+
+### SriLankan suspended two pilots
+
+*2024-10-15 07:38:36* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-නියමුවන්-දෙදෙනෙකුගේ-සේවය-අත්හිටුවයි/11-412495) · `si`
+
+SriLankan Airlines suspends two pilots after incident at Katunayake airport. Main pilot failed to open cabin door for co-pilot entry. Investigation follows ICAO standards.
+
+🟩
+
+From the JIC of Sri Lanka Airport, the Katunayake airport, arrived in Sydney, arrived at the UL. The main pilot and his assistant pilot served on the plane was banned and commenced on them.Lann Airlines has issued a statement.
+
+The event has occurred because the main pilot had not opened the door to the pilot again to enter the pilot again to enter the pilot again.
+
+It has been revealed that the controversial situation of these pilots is backing.
+
+Accordingly, SriLankan Airlines has handed over the service of the pilots, following the specifications of the International Civil Aviation Institute's specifications, reports investigations.
+
+◼️
+
+[Data](articles/cd748c0d.json)
+
+[Extended Data](ext_articles/cd748c0d.ext.json)
+
+---
+
+### Sri Lanka banking system repays debt or builds fx reserves of US$7.4bn since default
+
+*2024-10-15 07:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-repays-debt-or-builds-fx-reserves-of-us7-4bn-since-default-183543/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s banking system made up of the central bank and banks have repaid debt or built reserves of 7.39 billion US dollars since April 2022, when rates were hiked end inflationary policy that was keeping interest rates artificially low.
+
+Sri Lanka also selectively defaulted, halting the repayment of official bilateral and commercial debt but kept up payments of multilateral debt.
+
+Banks also continued to settle credit lines and other debts, which they could not roll-over due to downgrades which came from earlier forex shortages and open market operations.
+
+Though rates were hiked steeply in April 2022, the central bank continued to intervene and print money to sterilize Asian Clearing Union borrowings, delaying a correction in the balance of payments and its reserves fell further into negative territory.
+
+Deflationary policy started to show up in the balance of payments from September 2022.
+
+...
+
+[Data](articles/28947536.json)
+
+[Extended Data](ext_articles/28947536.ext.json)
 
 ---
 
@@ -2231,121 +2337,5 @@ Speaking at a media briefing held at the Sri Lanka Civil War Headquarters in Nel
 [Data](articles/4c5b8400.json)
 
 [Extended Data](ext_articles/4c5b8400.ext.json)
-
----
-
-### Sagala in Poveth that supports the compass
-
-*2024-10-14 19:45:09* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවට-සහාය-දෙන-බව-පොහොට්ටුවේ-සාගල-කියයි/11-412492) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka Podujana Peramuna leader Sagala Kariyawasam says his party will support the Malimba government's development efforts without any opposition. He emphasizes the importance of national unity and economic growth for the country's future.
-
-🟩
-
-ජනතා විමුක්ති පෙරමුණ ප්‍රමුඛ මාලිමා රජයක් විසින් සිදුකරනු ලබන සංවර්ධන කටයුතු සඳහා පක්ෂයක් ලෙස ඉදිරියේදී උපරිම සහාය ලබාදෙන බව ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි ප්‍රධාන ලේකම් සාගර කාරියවසම් මහතා පැවසීය.
-
-ඔහු සඳහන් කර සිටියේ පක්ෂයක් ලෙස කිසිදු ආකාරයකින් එම ගමනේ කකුලෙන් ඇදීමක් සිදු නොකරන බවයි.
-
-Speaking at a media briefing held at the Sri Lanka Civil War Headquarters in Nelum Mawatha, Battaramulla yesterday, said:
-
-"When we forget the economy during the Covenan, we made a mistake as a government to forget the lives of the people.. ඒ වරදට ජනතාව අපිට මේ වන විට යම්කිසි උත්තරයක් දීලා තිබෙනවා. අපි ඒ ජනතාවගේ තීන්දුව ඉතාම නිහතමානීව, ගෞරවාන්විතව පිළිගන්නවා පක්ෂයක් විදිහට. මේ රටේ අවංකව හිතන , මේ රටේ ජාතිකත්වය හිතන එකම පක්ෂය හැටියට ඉතුරුවෙලා තිබෙන්නේ ශ්‍රී ලංකා පොදුජන පෙරමුණයි. As we accept the decision, we are presented a new program for the future of this country.
-
-...
-
-[Data](articles/4e896c40.json)
-
-[Extended Data](ext_articles/4e896c40.ext.json)
-
----
-
-### SriLankan Airlines Airbus pilots clash midair
-
-*2024-10-14 19:45:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-airbus-pilots-clash-midair-183533/) · `en`
-
-ECONOMYNEXT – Pilots of a SriLankan Airlines flight from Sydney to Colombo were involved in a tense verbal altercation, with one of them being locked out of the cockpit of an Airbus A330, aviation sources said.
-
-A senior cabin crew member intervened to defuse the situation and ensure that the copilot could return to the cockpit.
-
-Sri Lankan airlines in a statement on Monday confirmed an incident on UL607, and said the captain has since been grounded.
-
-Flight UL607 took off without incident until the female First Officer requested a toilet break. Standard safety procedures require another member of the cabin crew, usually the purser, to enter the cockpit to accompany the pilot flying at the time.
-
-While the First Officer waiting to enter toilet and before a cabin crew member had entered the cockpit, the captain had closed the door and allegedly refused to reopen it.
-
-...
-
-[Data](articles/015641cf.json)
-
-[Extended Data](ext_articles/015641cf.ext.json)
-
----
-
-### திருகோணமலை -மட்டக்களப்பு பிரதான வீதியில் வாகனமொன்றினை முந்தி செல்ல முற்பட்ட லொறி விபத்து
-
-*2024-10-14 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196299) · `ta`
-
-Trincomalee-Mattakkalappu main road accident: Lorry crashes while overtaking near Palatopur. Driver flees scene. Investigation ongoing.
-
-🟩
-
-The driver of the Trincomalee -Mattakkalapu main road in Palatopur area crashed away from the lorry road.
-
-Initial investigations revealed that the lorry from Batticaloa to Trincomalee was trying to overtake another vehicle in Palatopur area.
-
-It is noteworthy that the drivers of the Trincomalee district have been instructed by the drivers to pay a carefully in the Trincomalee district.
-
-◼️
-
-[Data](articles/e1800e87.json)
-
-[Extended Data](ext_articles/e1800e87.ext.json)
-
----
-
-### Sydney-Colombo airlike incident announced
-
-*2024-10-14 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202172) · `si`
-
-SriLankan Airlines UL607 incident: Flight from Sydney to Colombo on September 21st. Captain removed, company cooperating with authorities. Passenger safety emphasized.
-
-🟩
-
-The relevant department has already commenced regarding a flight of the UL607 aircraft who was flying from Sydney from Sydney to Colombo on 21st September.
-
-The SriLankan Airlines is cooperating with the relevant authorities and that the captain has been removed from the service.
-
-The company has issued a statement made by the SriLankan Airlines a key role in ensuring passenger safety and working with all regulatory needs.
-
-◼️
-
-[Data](articles/1581b9b7.json)
-
-[Extended Data](ext_articles/1581b9b7.ext.json)
-
----
-
-### පොතුවිල් මූලික රෝහල රජයට පවරා ගනියි
-
-*2024-10-14 19:29:59* · [`adalk`](https://www.ada.lk/breaking_news/පොතුවිල්-මූලික-රෝහල-රජයට-පවරා-ගනියි/11-412491) · `si`
-
-Pothuwil Primary Hospital handed over to government. Health Ministry Deputy Minister Dr. Palitha Mahipala announced decision to expand patient care services under provincial council approval and cooperation. Two new buildings to be completed within two months, including emergency unit, operating theater, and other facilities.
-
-🟩
-
-පොතුවිල් මූලික රෝහල මධ්‍යම රජයට පවරා ගනිමින් රෝගී ප්‍රතිකාර සේවා පුළුල් කිරීමට තීරණය කර ඇතැයි සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්, විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා ප්‍රකාශ කළේය.
-
-ඔහු සඳහන් කර සිටියේ පළාත් සභාවේ අනුමැතිය හා සහයෝගය යටතේ අදාළ කටයුතු සිදු කරන බවයි.
-
-ඒ අනුව ඉදිකිරීම් කටයුතු අවසන් අදියරේ පවතින නව ගොඩනැගිලි දෙකක් ඉදිරි මාස02 ඇතුළත  ජනතා අයිතියට පත් කරන බවත් බාහිර රෝගී අංශය,හදිසි ප්‍රතිකාර ඒකකය,ශල්‍යාගාර සහ අනෙකුත් පහසුකම් සහිත ගොඩනැගිල්ලක් මෙන්ම පරිපාලන හා බාහිර රෝගී සායන සඳහා ගොඩනැගිල්ලක් ඒ යටතේ වන බවත් ලේකම්වරයා පැවසීය.
-
-◼️
-
-[Data](articles/abb80ea1.json)
-
-[Extended Data](ext_articles/abb80ea1.ext.json)
 
 ---

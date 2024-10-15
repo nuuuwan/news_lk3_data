@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 23:39:49**
+As of **2024-10-15 23:59:16**
 
 ## Newspaper Stats
 
-*Scraped **49,712** Articles*
+*Scraped **49,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,363
 adalk | 4,624
 dailymirrorlk | 4,733
 adaderanalk | 5,884
-tamilmirrorlk | 6,796
+tamilmirrorlk | 6,798
 virakesarilk | 7,958
 adaderanasinhalalk | 8,608
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 8,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,712 (100.0%) of 49,712 articles have been extended.
+49,714 (100.0%) of 49,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### He is not hesitant to take appropriate action;President
+
+*2024-10-15 23:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-நடவடிக்கை-எடுக்க-தயங்கப்-போவதில்லை-ஜனாதிபதி/175-345530) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake emphasizes dedicated civil servants, protecting public assets, and taking action against fraud and corruption to revive the economy.
+
+🟩
+
+President Anuragumara Dissanayake has said that the dedication of the current civil servant is not essential to create a useful and efficient service to satisfy the people.
+
+He said this while participating in a progress review discussion held at the Ministry of Energy this morning.
+
+The President said that people believe that fraud, corruption and waste are behind the collapse of the country's economy.
+
+The President also stated that public assets should be protected as public property and no one has the right to defraud or corrupt the property.
+
+President Anura Kumara Dissanayake has said that he is supporting every people's actions within the confines of his duty and that he will not hesitate to take appropriate action if he does not do things.. Remble
+
+◼️
+
+[Data](articles/aae0c80b.json)
+
+[Extended Data](ext_articles/aae0c80b.ext.json)
+
+---
+
+### Sri Lanka defeated the West Indies
+
+*2024-10-15 23:24:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மேற்கிந்தியத்-தீவுகளை-வீழ்த்திய-இலங்கை/44-345527) · `ta`
+
+Sri Lanka triumphs over West Indies in T20I match. Sri Lanka scored 162/5, while West Indies was bowled out for 89. Key contributors were Pattum Nisanga (54) and Dunith Wellalage (3/9).
+
+🟩
+
+Sri Lanka won the second match in Dambulla today in the Twenty -20 International Tournament with three matches against the West Indies.
+
+Sri Lanka: 162/5 (20 Ova. ) (Pattum Nisanga 54 (49), Kusal Mendis 26 (25), Kusal Perera 24 (16), Camundu Mendis 19 (14). Bowling: Romario Shepherd 2/23 [3], Alzari Joseph 1/33 [4], Kudakesh Moti 0/13 [4], Roston Chase 0/24 [4])
+
+May the. Islands: 89/10 (16.1 ova. ) (Cash: Rowman Powell 20 (17), Alzari Joseph 16 (10). Bowling: Dunith Vellalale 3/9 [4], Sarit Asalanga 2/6 [2], Mahesh Deekshana 2/7 [3.1], Madisha Pathrana 1/12 [2])
+
+◼️
+
+[Data](articles/e6422910.json)
+
+[Extended Data](ext_articles/e6422910.ext.json)
+
+---
 
 ### Sri Lanka won by 73 runs in the second T20 match
 
@@ -2495,55 +2547,5 @@ The petition came up for hearing in the presence of High Court Judges Yasantha G
 [Data](articles/259be55d.json)
 
 [Extended Data](ext_articles/259be55d.ext.json)
-
----
-
-### Penis pour
-
-*2024-10-15 12:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆணுறுப்பில்-மூட்டைக்கொச்சிக்காய்-அறைத்து-ஊற்றிய-வழக்கு/76-345494) · `ta`
-
-Attorney General refuses to represent police in case involving alleged rights violation. Incident involves illegal detention and staining of genitals. Case heard before High Court judges.
-
-🟩
-
-The Attorney General has refused to appear in the fundamental rights violation filed by a youth in connection with the incident where the penis was well -chambed and stained.
-
-The Attorney General has announced to the High Court on Monday that the Attorney General will not appear on behalf of the police officers including the Teldeniya Police Station.
-
-When one of the Teldeniya police was arrested and detained, the bundle was stained and poured into his penis.
-
-Since this is a very serious incident, the Attorney General has decided to not appear on behalf of the defendant police officers, said Deputy Solicitor General Madhava Tennakoon, appearing on behalf of the Attorney General.
-
-The petition came up for hearing in the presence of High Court Judges Yasantha Gothagoda and Kumuduni Wickremasinghe.
-
-...
-
-[Data](articles/d13e6fe1.json)
-
-[Extended Data](ext_articles/d13e6fe1.ext.json)
-
----
-
-### Sri Lanka state radio raises Rs1.5bn in land sales, to be used for restructuring, VRS
-
-*2024-10-15 12:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-radio-raises-rs1-5bn-in-land-sales-to-be-used-for-restructuring-vrs-183664/) · `en`
-
-ECONOMYNEXT – State-run Sri Lanka Broadcasting Corporation will use 1.5 billion rupees raised from land sales to other state agencies to restructure and fund a voluntary retirement scheme, Minister Vijitha Herath said.
-
-A portion of SLBC land in Ekala had already been transferred to the Urban Development Authority for 1,286 million rupees.
-
-The previous cabinet had decided to use the monies from this sale to restructure the loss-making state broadcasting body into a profitable institute.
-
-525 million rupees of the sale proceeds has been received by the SLBC, of which 205 million rupees has been set aside as compensation for a voluntary retirement scheme for employees of the corporation, a cabinet statement said.
-
-The Cabinet of Ministers has approved the proposal to implement 25 actions relevant to the modernization of SLBC using 145.72 million rupees from the remaining amount.
-
-The SLBC lost 532 million rupees in 2023 and 235 million rupees in 2022 according to Finance Ministry data.
-
-...
-
-[Data](articles/52044e97.json)
-
-[Extended Data](ext_articles/52044e97.ext.json)
 
 ---

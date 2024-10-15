@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 21:23:28**
+As of **2024-10-15 22:13:19**
 
 ## Newspaper Stats
 
-*Scraped **49,687** Articles*
+*Scraped **49,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,60 @@ dbsjeyarajcom | 401
 colombotelegraphcom | 494
 bbccomsinhala | 499
 islandlk | 2,942
-economynextcom | 3,037
+economynextcom | 3,047
 dailyftlk | 3,363
-adalk | 4,618
+adalk | 4,619
 dailymirrorlk | 4,733
 adaderanalk | 5,884
 tamilmirrorlk | 6,796
 virakesarilk | 7,952
-adaderanasinhalalk | 8,605
+adaderanasinhalalk | 8,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,687 (100.0%) of 49,687 articles have been extended.
+49,698 (100.0%) of 49,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Derana concession operation to find out floods affected by floods
+
+*2024-10-15 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202217) · `si`
+
+Floods affect 159,511 people in Sri Lanka. 10,361 displaced, mostly in Milkanda and Panadugama areas. Relief efforts ongoing. Rain expected to decrease soon.
+
+🟩
+
+159,511 persons belonging to 40,758 families have been affected by the inclement weather.
+
+The Disaster Management Center said that 10,361 persons from 2,433 families remain in safe places.
+
+Milkanda Milkanda area has already been flooded in the face of inclement weather.
+
+The Irrigation Department states that the Ging Ganga has a small flood from Baddegama area.
+
+Meanwhile, lowbies in the Panadugama area are inundated in the Panadugama area.
+
+The Irrigation Department states that the water level of the Nilwala River is continuing from the Nilwala River from the Talgahagoda area.
+
+The Department of Irprises said that the Galaw Oya water levels in the recent past were underway.
+
+However, there are still many lowlands, including the roadside due to the flow of rain water.
+
+The rainwale was still descended by the floods, Kelaniya, Kaduwela and Kaduwela.
+
+Residents allege that the portfolio is not due to the proper implementation of floods in Malwana.
+
+...
+
+[Data](articles/7d9b2a68.json)
+
+[Extended Data](ext_articles/7d9b2a68.ext.json)
+
+---
 
 ### Doorguliard Curname Cinnamon Life
 
@@ -194,6 +230,28 @@ As a result, the ship's service between Nagapattinam and Kankesanthurai has been
 
 ---
 
+### Upcountry train detects - A delay in the Kandyan road
+
+*2024-10-15 19:15:37* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රියක්-පීලි-පනියි---උඩරට-මාර්ගයේ-දුම්රිය-ප්‍රමාදයක්/11-412512) · `si`
+
+Train delayed due to derailment on Kandyan Road. Train 1159 derailed between Nawalapitiya and Nanu Oya. Steps being taken to rectify issue. Delay expected in Badulla-Colombo route.
+
+🟩
+
+The Nawalapitiya Railway Control Room stated that a train traveling from Nawalapitiya to Nanu Oya to Talavakele and Watagalapitiya.
+
+The Railway Control Room says that steps have been derailed in the railway awareness No. 1159 and have taken steps to conduct train derailed train.
+
+As a result of this, Badulla has taken steps to delay the delay in Badulla and a half (15) from Badulla and Colombo Fort.
+
+◼️
+
+[Data](articles/4b345f3e.json)
+
+[Extended Data](ext_articles/4b345f3e.ext.json)
+
+---
+
 ### England in the ICC Women's R20 World Cup. Islands
 
 *2024-10-15 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/196387) · `ta`
@@ -219,6 +277,28 @@ In South Africa, last year, England won 136 runs in the Women's T20 World Cup cr
 [Data](articles/ca366903.json)
 
 [Extended Data](ext_articles/ca366903.ext.json)
+
+---
+
+### Sri Lanka seeks time from court to study Adani wind power deal: Minister
+
+*2024-10-15 19:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-time-from-court-to-study-adani-wind-power-deal-minister-183793/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sought time from court to review a wind power deal with India’s Adani group, as several legal cases are ongoing, Minister Vijitha Herath said.
+
+The cabinet discussed the matter last week and instructed the Attorney General to get time from court until the government reviews the deal, studies its contents and presents information, he said.
+
+“That is the legal matter. Until those legal matters are concluded we cannot go for any decision regarding the Adani company,” Minister Herath said. “So, we have not done that.
+
+“Those are two things. There are court cases. The Attorney General is representing the government. We instructed the Attorney General that the government needed time to review this agreement, and to go to court and get the time.
+
+“That is the interventions we have made in the case between these parties.
+
+...
+
+[Data](articles/6b079e16.json)
+
+[Extended Data](ext_articles/6b079e16.ext.json)
 
 ---
 
@@ -446,6 +526,26 @@ The citizen of the citizen of the citizen of the citizen of the citizen of the c
 
 ---
 
+### Sri Lanka trade body meets ADB for talks on growth, reform process and policy
+
+*2024-10-15 18:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-body-meets-adb-for-talks-on-growth-reform-process-and-policy-183784/) · `en`
+
+ECONOMYNEXT – Representatives of Sri Lankan trade body Ceylon Chamber of Commerce have met with officials of the Asian Development Bank to discuss growth, reform process and policies.
+
+“The Chamber looks forward to leading the private sector engagement with the ADB,” it said.
+
+ADB Sri Lanka Country Director Takafumi Kadono and Senior Economist Lakshini Fernando met with CCC chairman Duminda Hulangamuwa and others.
+
+Hulangamuwa is also advisor to Sri Lanka’s President Anura Dissanayake. (Colombo/Oct15/2024)
+
+◼️
+
+[Data](articles/3f3e7d7c.json)
+
+[Extended Data](ext_articles/3f3e7d7c.ext.json)
+
+---
+
 ### The building engineer kills the top floor of the house
 
 *2024-10-15 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196375) · `ta`
@@ -572,6 +672,32 @@ According to the Divisional Secretariats, the development programs have been sus
 
 ---
 
+### Sri Lanka rupee closes stronger at 293.30/60 to dollar, bond yields up
+
+*2024-10-15 17:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-293-30-60-to-dollar-bond-yields-up-183778/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 293.30/60 to the US dollar Tuesday from 293.50/80 a day earlier, dealers said, while bond yields were up after a treasury bill auction.
+
+The central bank sold 97,000 million rupees of Treasury bills at an auction today (15).
+
+A bond maturing on 15.12.2026 closed at 10.15/35 percent, up from 10.15/30 percent.
+
+A bond maturing on 15.12.2027 closed at 11.20/30 percent, up from 11.15/25 percent.
+
+A bonds maturing on 15.03.2028 closed at 11.50/65 percent, up from 11.40/50 percent.
+
+A bond maturing on 15.09.2029 closed at 11.75/90 percent, up from 11.55/75 percent.
+
+A bond maturing on 01.10.2032 closed at 12.20/35 percent, up from 12.15/35 percent. (Colombo/Oct15/2024)
+
+◼️
+
+[Data](articles/d2973f97.json)
+
+[Extended Data](ext_articles/d2973f97.ext.json)
+
+---
+
 ### 3 Excise Officers Missing
 
 *2024-10-15 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202210) · `si`
@@ -597,6 +723,28 @@ Accordingly, Dr. Kamal Bandula Weerapperuma, who has presented the petition from
 [Data](articles/80da9ae7.json)
 
 [Extended Data](ext_articles/80da9ae7.ext.json)
+
+---
+
+### Sri Lanka stocks close on mixed note, ASPI up, S&P SL20 down
+
+*2024-10-15 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-on-mixed-note-aspi-up-sp-sl20-down-183775/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange ended on a mixed note on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.09 percent, or 11.47 points, at 12,257; while the more liquid S&P SL20 Index closed down 0.20 percent, or 7.40 points, at 3,607.
+
+Top turnover generators were John Keells Holdings (down at 196.50), Citrus Leisure (down at 4.50), Dialog Axiata (up at 10.30), Commercial Bank (flat at 108.00), and Hela Apparel (up at 7.10).
+
+Foreign buying was seen in JKH, Commercial Bank, Sampath Bank (up at 82.20), Citrus Leisure, LOLC (down at 421.00), and Windforce (up at 20.30).
+
+Foreign selling was seen in Dialog, Vallibel Finance (up at 43.00), Waskaduwa Beach (up at 2.20), Agarapatana Plantations (flat at 9.40), L B Finance (up at 70.20), Ceylon Cold Stores (down at 60.70).
+
+◼️
+
+[Data](articles/60092844.json)
+
+[Extended Data](ext_articles/60092844.ext.json)
 
 ---
 
@@ -1022,6 +1170,28 @@ The petition has been filed through the lawyer Manjula Balasuriya and the Commis
 
 ---
 
+### Sri Lanka sells extra Rs9.5bn Treasury bonds after auction
+
+*2024-10-15 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs9-5bn-treasury-bonds-after-auction-183748/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 9.5 billion rupees of bonds offered on tap at average rates set at an auction last week, data from the state debt office showed.
+
+The debt office sold a 15 March 2028 maturity bond (ISIN LKB01028C151) at a weighted average yield rate of 11.79 percent.
+
+The debt office also sold a 01 October 2032 maturity bond (ISIN LKB02032J017) at a weighted average yield rate of 12.36 percent.
+
+On Friday (11) the debt office raised 95 billion rupees from the 2028 and 2032 bonds.
+
+Date of settlement of the above issuance is 15 October 2024. (Colombo/Oct15/2024)
+
+◼️
+
+[Data](articles/409bfccf.json)
+
+[Extended Data](ext_articles/409bfccf.ext.json)
+
+---
+
 ### Notice on reopening schools in Western and Southern provinces
 
 *2024-10-15 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102714/notice-on-reopening-schools-in-western-and-southern-provinces) · `en`
@@ -1171,6 +1341,26 @@ The West Indies won the first Twenty20 match between the two countries, the matc
 [Data](articles/fc0549d0.json)
 
 [Extended Data](ext_articles/fc0549d0.ext.json)
+
+---
+
+### Sri Lanka sells Rs97bn in treasury bills, yields down across maturities
+
+*2024-10-15 15:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs97bn-in-treasury-bills-yields-down-across-maturities-183743/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were down across maturities at Wednesday’s auction with all offered 97 billion rupees of bills sold, data from the debt office showed.
+
+The 3-month yield was down 37 basis points to 9.32 percent, with all offered 37 billion rupees bills sold.
+
+The 6-month yield was down 30 basis points to 9.65 percent, with all offered 40 billion rupees of bills sold.
+
+The 12-month bills fell 5 basis points to 9.95 percent, with all offered 20 billion rupees of bills sold. (Colombo/Oct15/2024)
+
+◼️
+
+[Data](articles/59150562.json)
+
+[Extended Data](ext_articles/59150562.ext.json)
 
 ---
 
@@ -1374,6 +1564,28 @@ With this special report, he will reveal the country's political behavior and fu
 
 ---
 
+### Sri Lanka to present three month mini-budget: Minister
+
+*2024-10-15 14:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-present-three-month-mini-budget-minister-183741/) · `en`
+
+ECONOMYNEXT – Sri Lanka will present a vote-on-account for three months as there would not be enough time to present a full year budget after elections, Minister Vijitha Herath said.
+
+“We are now expecting to present a vote on account,” Herath told reporters at the weekly cabinet press briefing.
+
+“After the elections the Parliament is due to meet on November 21. There is no time to present a budget for the next year in December itself. So the idea now is to present a vote-on-account.
+
+Sri Lanka usually present a budget for the following year in November.
+
+Sri Lanka is also planning to go to Washington and meet International Monetary Fund officials late this month, and will negotiate tax cuts with the agency in the future, he said. (Colombo/Oct15/2024)
+
+◼️
+
+[Data](articles/eef1f4eb.json)
+
+[Extended Data](ext_articles/eef1f4eb.ext.json)
+
+---
+
 ### Ja-Ela was assassinated by a sharp weapon
 
 *2024-10-15 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196332) · `ta`
@@ -1469,6 +1681,30 @@ Due to this, school children, public and private institution employees and the p
 [Data](articles/77f84fad.json)
 
 [Extended Data](ext_articles/77f84fad.ext.json)
+
+---
+
+### Sri Lanka to provide diesel, kerosene subsidies for fisheries ahead of polls
+
+*2024-10-15 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-provide-diesel-kerosene-subsidies-for-fisheries-ahead-of-polls-183713/) · `en`
+
+ECONOMYNEXT – The cabinet of ministers of Sri Lanka’s transition minority government has approved diesel and kerosene subsidies for the fisheries sector ahead of the general election in a month.
+
+The proposal to provide 25 rupees per litre of diesel upto a 300,000 litres a month, and 25 rupees per litre of kerosene upto 15 litres a day and 25 days a month, Minister Vijitha Herath told reporters.
+
+The fuel subsidy was first proposed by the previous government, but halted by the election commission due to the presidential election, as it would unfairly sway voters.
+
+But the Election Commission had approved this proposal Herath said.
+
+Sri Lanka revised its fuel prices down on the 1st of this month as per its monthly pricing formula.
+
+Whenever price revisions are made for diesel and kerosene, the maximum concession price for diesel would be 250 rupees and for kerosene 150 rupees, subject to a maximum six month period, Herath said.
+
+...
+
+[Data](articles/f14ab9f1.json)
+
+[Extended Data](ext_articles/f14ab9f1.ext.json)
 
 ---
 
@@ -1954,6 +2190,30 @@ The petition came up for hearing in the presence of High Court Judges Yasantha G
 
 ---
 
+### Sri Lanka state radio raises Rs1.5bn in land sales, to be used for restructuring, VRS
+
+*2024-10-15 12:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-radio-raises-rs1-5bn-in-land-sales-to-be-used-for-restructuring-vrs-183664/) · `en`
+
+ECONOMYNEXT – State-run Sri Lanka Broadcasting Corporation will use 1.5 billion rupees raised from land sales to other state agencies to restructure and fund a voluntary retirement scheme, Minister Vijitha Herath said.
+
+A portion of SLBC land in Ekala had already been transferred to the Urban Development Authority for 1,286 million rupees.
+
+The previous cabinet had decided to use the monies from this sale to restructure the loss-making state broadcasting body into a profitable institute.
+
+525 million rupees of the sale proceeds has been received by the SLBC, of which 205 million rupees has been set aside as compensation for a voluntary retirement scheme for employees of the corporation, a cabinet statement said.
+
+The Cabinet of Ministers has approved the proposal to implement 25 actions relevant to the modernization of SLBC using 145.72 million rupees from the remaining amount.
+
+The SLBC lost 532 million rupees in 2023 and 235 million rupees in 2022 according to Finance Ministry data.
+
+...
+
+[Data](articles/52044e97.json)
+
+[Extended Data](ext_articles/52044e97.ext.json)
+
+---
+
 ### Government standing on import of vehicle
 
 *2024-10-15 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202195) · `si`
@@ -2106,6 +2366,28 @@ Despite the arrival of the 750,000 passports, the Minister cautioned that the st
 
 ---
 
+### Sri Lanka rupee trades stronger at 293.30/50 to US dollar, bond yields up
+
+*2024-10-15 11:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-293-30-50-to-us-dollar-bond-yields-up-183642/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened slightly stronger at 293.30/50 to the US dollar on Tuesday, from 293.50/80 a day earlier, while bond yields were up dealers said.
+
+An auction of 97,000 million rupees in Treasury bills was ongoing.
+
+A bond maturing on 15.12.2027 was quoted at 11.20/35 percent, up from 11.15/25 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.55/60 percent, up from 11.40/50 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.75/90 percent, up from 11.55/75 percent.
+
+In equities, Colombo’s All Share Price Index was trading down 0.08 percent, or 9.49 points lower at 12,236, while the S&P SL20 of more liquid stocks was trading down 0.43 percent or 15.02 points lower at 3,599.
+
+◼️
+
+[Data](articles/f55f205e.json)
+
+---
+
 ### Special fuel relief to fishermen
 
 *2024-10-15 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202192) · `si`
@@ -2209,279 +2491,5 @@ We have carried out our struggle as a non -political struggle. When politicians 
 [Data](articles/27e0614b.json)
 
 [Extended Data](ext_articles/27e0614b.ext.json)
-
----
-
-### Govt. approves fuel subsidy for fishermen
-
-*2024-10-15 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102702/govt-approves-fuel-subsidy-for-fishermen) · `en`
-
-The Cabinet of Ministers has approved a subsidy of Rs. 25 per litre of diesel for fisherfolk.
-
-Speaking during the Cabinet press conference held this morning (15), Cabinet Spokesman Vijitha Herath stated that this subsidy will be provided up to Rs. 300,000 per month for a period of 06 months.
-
-Furthermore, Minister Herath assured that a subsidy of Rs. 15 per litre of kerosene has also been approved for fishermen using kerosene as fuel.
-
-◼️
-
-[Data](articles/6a45c9e5.json)
-
-[Extended Data](ext_articles/6a45c9e5.ext.json)
-
----
-
-### Train - Lorry collision accident;One injury
-
-*2024-10-15 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196321) · `ta`
-
-Lorry collides with train carrying tea near Hatton. One person injured. Train had no guard. Driver hit while reversing. Five workers in lorry. Assistant rushed to hospital.
-
-🟩
-
-Hatton police said that a lorry assistant was injured when a lorry collided with a train carrying tea.
-
-The accident occurred when a lorry carrying tea from Hatton Unfield garden to a tea factory collided with a train traveling from Hatton to Ella.
-
-At the site of the accident, the police said that the train safety was found, but there was no guard.
-
-At the time of the accident, the lorry driver was hit by the train when the lorry was trying to rear the lorry, police said.
-
-In the meantime, five plantation workers traveled in the back of the lorry and an assistant of the lorry was injured in the accident, police said.
-
-Subsequently, the Railway Security Officers took the injured lorry assistant to the hospital and the train was taken forward.
-
-◼️
-
-[Data](articles/0c0e117f.json)
-
-[Extended Data](ext_articles/0c0e117f.ext.json)
-
----
-
-### "I was named Uganda Menike"
-
-*2024-10-15 11:06:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எனக்கு-உகாண்டா-மெனிகே-என்று-பெயர்-சூட்டப்பட்டது/175-345486) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Nilanthi Kothachi, NPP candidate, accuses previous regime of asset theft. Promises to restore stolen funds through a recovery company. Denies slander claims, says ready to respond to allegations.
-
-🟩
-
-The National People's Power (NPP) candidate Nilanti Kothachi, who accused Uganda of stolen assets in the previous regime and other parts of the country, said he made such comments on the need to restore the omitted assets hidden.
-
-“Some of the comments I have made in recent times have triggered slander on me. I was named Uganda Kumari or Uganda Menike.
-
-Prior to the presidential election, I had noticed the need to restore what the law and order, justice, the National People's Power (NPP) and its presidential candidate Comrade Anurakumara Dissanayake could do it.
-
-In our plan for that, we promised to establish a company to restore assets. In developed countries, there are such institutions established to implement such laws. That is, a company relating to abusing public money, investing abroad and recovering money elsewhere.
-
-...
-
-[Data](articles/fbd89418.json)
-
-[Extended Data](ext_articles/fbd89418.ext.json)
-
----
-
-### Opposition leader resigns
-
-*2024-10-15 11:05:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவரின்-செயலாளர்-இராஜினாமா/175-345485) · `ta`
-
-Opposition leader resigns: President's attorney Tissan Devapriya Bandara Wijegunawardena submits resignation letter on October 9, 2024. Cabinet approves Prime Minister's proposal to accept resignation.
-
-🟩
-
-President's Attorney Tissan Devapriya Bandara Wijegunawardena, who served as secretary of the Opposition Leader of the Opposition, has submitted a letter of resignation from the West after the Service on 2024.10.09. Accordingly, the Cabinet approved the proposal submitted by the Prime Minister to accept his resignation.
-
-◼️
-
-[Data](articles/4894fe47.json)
-
-[Extended Data](ext_articles/4894fe47.ext.json)
-
----
-
-### Railway engine set on fire near Kalutara railway station
-
-*2024-10-15 11:04:51* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-දුම්රිය-ස්ථානය-ආසන්නයේදී-දුම්රිය-එංජිමක්-ගිනි-ගනියි/11-412498) · `si`
-
-Train set ablaze at Kalutara station en route to Maradana. Firefighters responding to incident.
-
-🟩
-
-A train that was to be traveling from Kalutara to Maradana has been set on fire at the Kalutara Railway Station (15).
-
-◼️
-
-[Data](articles/ca21595d.json)
-
-[Extended Data](ext_articles/ca21595d.ext.json)
-
----
-
-### The passport crisis is monday since Monday
-
-*2024-10-15 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202191) · `si`
-
-Passport crisis: New passports ordered, court injunction halts e-passport rollout. Tender process begins for 750,000 more passports.
-
-🟩
-
-The Cabinet spokesman, spokesman Vijitha Herath says that the new foreign passport has been ordered on Saturday.
-
-He was speaking at a media briefing today (15) this morning.
-
-He also said that there is a injunction order in the court of E-passport and the call will not be called.
-
-He also said that it will focus on the end of the court order.
-
-However, as a result of the end of the 750,000 overseas passports, it has been decided to proceed to the procurement process required by a tender procedure to provide another passports on the 11th.Minister Vijitha Herath said.
-
-◼️
-
-[Data](articles/3fcc63e2.json)
-
-[Extended Data](ext_articles/3fcc63e2.ext.json)
-
----
-
-### Kumuduni is a state chemical analyst
-
-*2024-10-15 10:55:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-இரசாயனப்-பகுப்பாய்வாளராக-குமுதுனி/175-345484) · `ta`
-
-Sandhya Kumuduni Rajapaksa appointed State Chemical Analyst, replacing Deepika Seneviratne. Proposal made by Prime Minister, approved by Cabinet.
-
-🟩
-
-The Cabinet has granted permission to appoint Sandhya Kumuduni Rajapaksa for the post of State Chemical Analyst.
-
-Deepika Seneviratne, who worked as a state chemical analyst, has retired and has been given a new appointment.
-
-Steps have been taken to appoint Sandhya Kumuduni Rajapaksa, the specialist officer of the Sri Lanka Science Service, which is currently serving as the Additional Examination.
-
-As the Minister of Administration, Home Affairs, Provincial Councils, Local Government and Labor, the proposal has been put forward by the Prime Minister in the Cabinet.
-
-◼️
-
-[Data](articles/b53144ff.json)
-
-[Extended Data](ext_articles/b53144ff.ext.json)
-
----
-
-### Govt. to procure medical supplies and drugs from local manufacturers
-
-*2024-10-15 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102701/govt-to-procure-medical-supplies-and-drugs-from-local-manufacturers) · `en`
-
-The Cabinet of Ministers has granted approval to enter into buy back agreements for the procurement of locally produced medicines and medical supplies from identified institutions for a period of one year.
-
-During the Cabinet meeting held on 29 November 2013, approval had been given for the purchase of locally produced drugs under the Buy Back Agreement procedure in order to encourage local drug manufacturers by providing priority to the activities of the State Pharmaceutical Corporation of Sri Lanka.
-
-...
-
-[Data](articles/8714801c.json)
-
-[Extended Data](ext_articles/8714801c.ext.json)
-
----
-
-### New Government Analyst appointed
-
-*2024-10-15 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102700/new-government-analyst-appointed) · `en`
-
-The Cabinet of Ministers has approved the appointment of Mrs. Pathirage Sandhya Kumuduni Rajapakse as the Government Analyst.
-
-Speaking during the Cabinet press conference held today (15), Cabinet Spokesman Vijitha Herath stated that Mrs. Deepika Seneviratne, who served as the Government Analyst has retired effective from 11 October 2024.
-
-Accordingly, the appointment of Mrs. Sandhya Kumuduni Rajapakse who is next on the seniority list of the special grade officers of the Sri Lanka Scientific Service and is currently serving in the post of Additional Government Analyst has been approved by the Cabinet of Ministers, as proposed by Prime Minister Dr. Harini Amarasuriya as the Minister of Public Administration, Home Affairs, Provincial Councils, Local Government and Labour.
-
-◼️
-
-[Data](articles/1f0c6d4a.json)
-
-[Extended Data](ext_articles/1f0c6d4a.ext.json)
-
----
-
-### Settlement to passport
-
-*2024-10-15 10:49:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டுக்கு-தீர்வு/175-345483) · `ta`
-
-Passport settlement update: Passports to be handed over on Saturday for printing. Final decision on online passports pending court order.
-
-🟩
-
-Accordingly, Cabinet Spokesperson Vijitha Herath said that the passports will be reached on Saturday (19) to hand over the printing process to the previously printed company.
-
-He added that a final decision will be taken only by the court order regarding the online passport.
-
-◼️
-
-[Data](articles/677c8c6d.json)
-
-[Extended Data](ext_articles/677c8c6d.ext.json)
-
----
-
-### The son was trapped in the house of his own house
-
-*2024-10-15 10:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சொந்த-வீட்டில்-கைவரிசையை-காட்டிய-மகன்-சிக்கினார்/76-345482) · `ta`
-
-Son accused of stealing gold chain from mother's house in Hatton police case.
-
-🟩
-
-Hatton police arrested a son who stole a five -pound gold chain worth Rs.
-
-A woman from the Senan estate belonging to the Hatton Police Division has complained that a five -pound gold jewelery from her house has been stolen.
-
-According to the investigation, it was revealed that the son of the woman, who had lodged a complaint, had mortgaged a gold jewelery at a private pawn shop in Hatton for nine lakhs.
-
-It has been revealed that the suspect has fully spent Rs.
-
-Hatton police said that the suspect is currently living on the mother's house and his wife is working abroad and the suspect is the most addicted alcoholic.
-
-The arrested suspect will be produced at the Hatton Magistrate's Court on Tuesday (15).
-
-◼️
-
-[Data](articles/1341c4bc.json)
-
-[Extended Data](ext_articles/1341c4bc.ext.json)
-
----
-
-### 7 MPs pausing in 2023
-
-*2024-10-15 10:46:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2023-இல்-7-எம்-பிக்கள்-இடைநிறுத்தம்/175-345481) · `ta`
-
-Here's a 200-character summary:
-
-
-
-7 MPs suspended in 2023 for misconduct: 2 opposition MPs suspended August 23, United People's Shakti MP October 19, State Minister Diana Kamage & 2 SJB MPs suspended January 24 report recommendations.
-
-🟩
-
-In the context of public views against the behavior of MPs, the ninth parliamentary parliamentary services were suspended by their misconduct by 2023.
-
-Two opposition MPs Nalin Bandara Jayamaha and Vasantha Yapa were suspended from the Sessions on August 23, 2023.
-
-Two MPs who rushed to the chair seated by Deputy Speaker Ajith Rajapakse were suspended.
-
-In another incident, the United People's Shakti MP Ajith Mannaparuma was suspended on October 19, 2023, according to Standing Orders (3) of the Standing Ordinance of the Constitution of Parliament during the struggle against the time of the MPs' queries.
-
-Meanwhile, State Minister Diana Kamage, SJB MPs Rohana Bandara and Sujit Sanjaya Perera were suspended from Parliament for a month for a month for a dispute near the Library of MPs.
-
-In another incident, Ali Sabri Rahim's parliamentary visit was suspended for a month.
-
-...
-
-[Data](articles/dbf02830.json)
-
-[Extended Data](ext_articles/dbf02830.ext.json)
 
 ---

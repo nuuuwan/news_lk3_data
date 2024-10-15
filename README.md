@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 18:00:15**
+As of **2024-10-15 18:20:44**
 
 ## Newspaper Stats
 
-*Scraped **49,659** Articles*
+*Scraped **49,661** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,037
 dailyftlk | 3,363
 adalk | 4,614
 dailymirrorlk | 4,733
-adaderanalk | 5,880
-tamilmirrorlk | 6,793
+adaderanalk | 5,881
+tamilmirrorlk | 6,794
 virakesarilk | 7,941
 adaderanasinhalalk | 8,600
 
@@ -26,15 +26,59 @@ adaderanasinhalalk | 8,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,659 (100.0%) of 49,659 articles have been extended.
+49,661 (100.0%) of 49,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
 
+### Pricing limitations have been released
+
+*2024-10-15 17:50:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலை-வரம்புகள்-வெளியானது/175-345510) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Pricing restrictions announced: Prices effective from Oct 14 to 20."
+
+🟩
+
+These prices have been released from October 14 to 20.
+
+◼️
+
+[Data](articles/24885813.json)
+
+[Extended Data](ext_articles/24885813.ext.json)
+
+---
+
+### President vows to protect trust placed in him to stop corruption in public sector
+
+*2024-10-15 17:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102716/president-vows-to-protect-trust-placed-in-him-to-stop-corruption-in-public-sector) · `en`
+
+Addressing the progress review meeting of the Ministry of Energy this morning (15), President Anura Kumara Dissanayake advised that the projects aimed at achieving the energy sector’s goals over the next three years must be structured and expedited.
+
+The President pointed out that, similar to other countries where the energy sector holds a prominent position, Sri Lanka too has given the energy sector a leading role, and he also mentioned that the Ministry of Energy is one that generates revenue, and with higher earnings, there are societal discussions about possible irregularities.
+
+Dissanayake stated that during this presidential election, the people had voted with expectations, and he is committed to fulfilling that mandate, the President’s Media Division (PMD) said.
+
+...
+
+[Data](articles/e795b3b0.json)
+
+[Extended Data](ext_articles/e795b3b0.ext.json)
+
+---
+
 ### 3 Excise Officers Missing
 
 *2024-10-15 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202210) · `si`
+
+Supreme Court rules 3 Excise Officers violated human rights. Arrested in 2016, accused of illegal detention. Court orders investigation and disciplinary action. Petitioners must pay 10,000 rupees each.
+
+🟩
 
 The Supreme Court today (15th) today (15) decided that three Excise Officers have violated basic human rights.
 
@@ -2377,55 +2421,5 @@ The official term of the members of the UGC, who were appointed to the positions
 [Data](articles/c590c8f4.json)
 
 [Extended Data](ext_articles/c590c8f4.ext.json)
-
----
-
-### The train was blocked;Key notice to travelers
-
-*2024-10-15 08:27:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்புரண்டது-பயணிகளுக்கு-முக்கிய-அறிவிப்பு/175-345473) · `ta`
-
-Train derailed between Colombo Fort and Maradana stations. Services blocked due to accident. Delay expected on main and coastal routes.
-
-🟩
-
-Train services have been blocked as a train derails between the Colombo Fort and the Maradana railway stations.
-
-The Railway Department said that the train traveling from Batticaloa to Fort at 7 am today (15).
-
-According to the Railway Department, there will be a delay in operating trains on the main route and coastal routes.. Remble
-
-◼️
-
-[Data](articles/ae44cca8.json)
-
-[Extended Data](ext_articles/ae44cca8.ext.json)
-
----
-
-### Growth in industrial products
-
-*2024-10-15 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202185) · `si`
-
-Industrial Product Index rose 1.2% in August 2023, reaching 91.3. However, drinking and tobacco product sales decreased. Poverty line slightly lowered from Rs 16,373 to Rs 16,152 in July, showing slight improvement over August 2023.
-
-🟩
-
-The Industrial Product Index has increased by 1.2 percent in August last year.
-
-The Department of Census and Statistics stated that the Industrial Product Index in August 2023 increased to 91.3 in August.
-
-However, a decrease in drinking products and tobacco-related products show that in this year, the Department of Census and Statistics said.
-
-Meanwhile, the official poverty line in August, compared to Julie, has reported a minor decline.
-
-The poverty line of Rs 16,373 has been reduced to Rs. 16,152 in July.
-
-Department of Census and Statistics stated that it is an increase compared to August 2023.
-
-◼️
-
-[Data](articles/f78f2ec4.json)
-
-[Extended Data](ext_articles/f78f2ec4.ext.json)
 
 ---

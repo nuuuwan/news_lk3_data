@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 17:40:16**
+As of **2024-10-15 18:00:15**
 
 ## Newspaper Stats
 
-*Scraped **49,658** Articles*
+*Scraped **49,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,880
 tamilmirrorlk | 6,793
 virakesarilk | 7,941
-adaderanasinhalalk | 8,599
+adaderanasinhalalk | 8,600
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,658 (100.0%) of 49,658 articles have been extended.
+49,659 (100.0%) of 49,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### 3 Excise Officers Missing
+
+*2024-10-15 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202210) · `si`
+
+The Supreme Court today (15th) today (15) decided that three Excise Officers have violated basic human rights.
+
+It was arrested by the Ayurvedic Pediatric in Sevanagala, 2016, accusing illegally surrounded by heavyness and prison.
+
+Through this action, the relevant authorities acted in a malicious manner and were accused of misuse of power.
+
+The decision was announced by Supreme Court Judge Priyantha Fernando with the reconciliation of Dr. Kamal Bandula Weerapperuma and four of its employees.
+
+Accordingly, the OIC of Excise and the Drugs Division, OIC, OIC of Excise and Drugs Office, Nandana Perera, OIC of Excise Office, Nandana Perera, its Excise Inspector Thilak Kumara Dissanayake and Excise Regulator N.. The Supreme Court ruled that the officers of the petitioners have violated the basic human rights of the petitioners.
+
+Accordingly, Dr. Kamal Bandula Weerapperuma, who has presented the petition from the petition of Rs.
+
+...
+
+[Data](articles/80da9ae7.json)
+
+[Extended Data](ext_articles/80da9ae7.ext.json)
+
+---
 
 ### Notice to the witnesses of Diana
 
@@ -408,9 +432,9 @@ A Fundamental Rights (FR) petition has been filed with the Supreme Court seeking
 
 The petitions were filed by the parents of several students who appeared for the 2024 Grade 05 Scholarship Examination which was held on September 15, 2024.
 
-On September 20, an investigation was launched by the Department of Examinations after it was alleged that three questions of one of the question papers from the exam had been leaked. Later, the initial investigation report was handed over to the Criminal Investigation Department (CID), which also launched a separate investigation into the matter.
+The petitioners have requested the Supreme Court through their FR petition that an order be issued invalidating the question paper 01 of the 2024 Grade 05 Scholarship Examination in which certain questions are alleged to have been leaked, and that the exam be held again.
 
-Meanwhile, the paper marking process of the Grade 5 Scholarship Examination, which was held on September 15, had been temporarily suspended, pending the investigation.
+Furthermore, the petition seeks an order be issued to the relevant authorities to re-conduct the question paper 02 of the examination as well, if it is uncovered during investigations that the relevant question paper has also been leaked.
 
 ...
 
@@ -2403,29 +2427,5 @@ Department of Census and Statistics stated that it is an increase compared to Au
 [Data](articles/f78f2ec4.json)
 
 [Extended Data](ext_articles/f78f2ec4.ext.json)
-
----
-
-### Sri Lanka - West Indies is 20 and 20th today
-
-*2024-10-15 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202184) · `si`
-
-Sri Lanka vs West Indies: 2nd T20I today at Dambulla. West Indies won 1st match. Series tied 1-1. Match starts at 7 PM local time.
-
-🟩
-
-West Indies team and the Sri Lankan team will be held today (15).
-
-The match at the Dambulla International Stadium will begin at 7 pm.
-
-West Indies won the first Twenty20 match between the two countries by 5 wickets.
-
-The West Indies team and the Sri Lankan team consists of three tournaments.
-
-◼️
-
-[Data](articles/c66088e5.json)
-
-[Extended Data](ext_articles/c66088e5.ext.json)
 
 ---

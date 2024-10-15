@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 10:24:03**
+As of **2024-10-15 10:39:37**
 
 ## Newspaper Stats
 
-*Scraped **49,566** Articles*
+*Scraped **49,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,363
 adalk | 4,601
 dailymirrorlk | 4,733
 adaderanalk | 5,863
-tamilmirrorlk | 6,769
+tamilmirrorlk | 6,771
 virakesarilk | 7,927
 adaderanasinhalalk | 8,580
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,566 (100.0%) of 49,566 articles have been extended.
+49,568 (100.0%) of 49,568 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,32 @@ Meanwhile, the Official Poverty line at National level for August 2024 has recor
 [Data](articles/ad2bcdd9.json)
 
 [Extended Data](ext_articles/ad2bcdd9.ext.json)
+
+---
+
+### India - Cracks in Canada Relationship
+
+*2024-10-15 09:55:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-கனடா-உறவில்-விரிசல்/175-345477) · `ta`
+
+India-Canada relations strained over Nijjar murder allegations. India recalls ambassadors, orders departures. Canada accuses India of involvement. Tensions ease briefly before resurfacing.
+
+🟩
+
+In the wake of the murder in Khalistan separatist Hardeep Singh Nijjar, India and Canada have been in a state of disrepair.
+
+Due to this situation, India on Monday (14) issued an Action Announcement of Indian Ambassadors in Canada. India has also ordered the departure of the country by the 19th of this month.
+
+Khalistan separatist Hardeep Singh Nijjar was shot dead in Canada on June 18. Canada's Prime Minister Justin Trudeau has made a stir in the country's parliament, alleging that the Indian government is involved in the murder.
+
+This was followed by a cracks in the Canada-India relationship.The issue has been slightly mitigated and is now starting to erupt again.That is, Canada has accused the Indian Ambassador to Canada in the Nijjar murder.
+
+Prime Minister Modi and Justin Trudeau met face to face at the Asian conference in Laos on October 11. Trudeau said he spoke to Modi about the safety of the people of Canada at the meeting.
+
+...
+
+[Data](articles/856f7f92.json)
+
+[Extended Data](ext_articles/856f7f92.ext.json)
 
 ---
 
@@ -263,6 +289,34 @@ It is noteworthy that the tenure of the current university grants commissions, w
 [Data](articles/0f736cdb.json)
 
 [Extended Data](ext_articles/0f736cdb.ext.json)
+
+---
+
+### The UGC president has resigned
+
+*2024-10-15 08:47:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UGC-தலைவர்-பதவி-விலகினார்/175-345474) · `ta`
+
+UGC president resigns; Chairman, Vice President step down. Resignation letters sent to President. Tenure ends March 2024.
+
+🟩
+
+Members including the Chairman of the University Grants Commission have resigned from their posts.
+
+The resignation letters were sent to the President yesterday afternoon.
+
+According to the announcement made by the Presidential Secretariat, they have resigned from their posts.
+
+Accordingly, the Chairman of the University Grants Commission, Senior Professor Sampath Amaratunga and Vice President Senior Professor Chandana B.. They have resigned from the posts in effect yesterday.
+
+It is also reported that the Commissioners of the University Grants Commission have also sent their resignation letters to the President.
+
+It is noteworthy that the tenure of the current university grants commissions appointed in 2020 ended March next year.. Remble
+
+◼️
+
+[Data](articles/a84cb40a.json)
+
+[Extended Data](ext_articles/a84cb40a.ext.json)
 
 ---
 
@@ -2367,55 +2421,5 @@ She said: 'What happened to Ada Derana?'Addressing the program.
 [Data](articles/486382b8.json)
 
 [Extended Data](ext_articles/486382b8.ext.json)
-
----
-
-### Sri Lanka President directs Rs50mn for flood victims, more if needed
-
-*2024-10-14 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-directs-rs50mn-for-flood-victims-more-if-needed-183490/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Dissanayake has instructed the Treasury to release 50 million rupees for immediate relief to flood victims, his office said.
-
-The money will go to those affected by severe weather in Colombo, Gampaha, Puttalam, and Kalutara areas.
-
-According to the Disaster Management Centre, 24,492 individuals from 6,018 families have been affected by floods and landslides in 11 districts due to adverse weather conditions.
-
-Floods have killed at least 3 persons and affected more than 130,000 people.
-
-Dissanayake also instructed the Secretary to the Ministry of Defence to ensure “attention is given to the safety of people in districts impacted by floods and landslides and to provide necessary support for effective relief operations” his media division said.
-
-The government will take action to provide necessary assistance to all affected citizens and local government officials in the affected areas will be engaged to ensure the people receive the required aid, it said.
-
-...
-
-[Data](articles/68d8d4d6.json)
-
-[Extended Data](ext_articles/68d8d4d6.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 293.50/80 to dollar, bond yields down
-
-*2024-10-14 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-50-80-to-dollar-bond-yields-down-183512/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee depreciated to close at 293.50/80 to the US dollar Monday from 292.75/95 a day earlier, dealers said, while bond yields were down ahead of a treasury bill auction.
-
-The central bank announced 97,000 million rupees of Treasury bills will be issued through an auction on Tuesday (15).
-
-A bond maturing on 15.12.2026 closed at 10.15/30 percent, down from 10.25/40 percent.
-
-A bond maturing on 15.12.2027 closed at 11.15/25 percent, down from 11.30/45 percent.
-
-Bonds maturing on 15.02.2028 and 15.03.2028 closed at 11.40/50 percent, down from 11.50/60 percent.
-
-A bond maturing on 15.09.2029 closed at 11.55/75 percent, down from 11.80/95 percent.
-
-A bond maturing on 01.10.2032 closed at 12.15/35 percent. (Colombo/Oct14/2024)
-
-◼️
-
-[Data](articles/a449eeb4.json)
-
-[Extended Data](ext_articles/a449eeb4.ext.json)
 
 ---

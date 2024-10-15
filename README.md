@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 03:23:24**
+As of **2024-10-16 03:38:56**
 
 ## Newspaper Stats
 
-*Scraped **49,715** Articles*
+*Scraped **49,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 4,624
 dailymirrorlk | 4,733
 adaderanalk | 5,884
 tamilmirrorlk | 6,799
-virakesarilk | 7,958
+virakesarilk | 7,959
 adaderanasinhalalk | 8,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,715 (100.0%) of 49,715 articles have been extended.
+49,716 (100.0%) of 49,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### England Exit and entered the semi -finals: South Africa also had a semi -final offer
+
+*2024-10-16 03:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196393) · `ta`
+
+West Indies qualify for ICC Women's R20 World Cup semi-finals, defeating England by 6 wickets. South Africa also advances after finishing second in net run rate.
+
+🟩
+
+In the last match for the ICC Women's R20 World Cup, held at the Dubai International Cricket Stadium on Tuesday night, the West Indies qualified for the semi -finals of England by 6 wickets.
+
+South Africa got the semi -finals from the B team as the England was awarded in this match.. South Africa and England had 6 points each. But South Africa came to the 2nd place in the rank of net running.
+
+The team captain Hailie Mathews and Giana Joseph scored half -centuries and scored 102 runs in the opening wicket of 102 runs in the opening wicket.
+
+And the missing of England's 5ths was the main cause of its failure.
+
+England, who was a failed team in the B team, hoped to win the last match and advance to the semi -finals.
+
+However, the West Indies scored a huge hit by 4 wickets in 18 overs and scored 144 runs.
+
+The beginning of the West Indies was the result of the 67 runs in Power Play, both Hail Mathews and Giana Joseph.
+
+...
+
+[Data](articles/c3ef8548.json)
+
+[Extended Data](ext_articles/c3ef8548.ext.json)
+
+---
 
 ### Matara firing: One killed
 
@@ -2527,27 +2557,5 @@ Vignaraja reiterated the policy and technical offers of UNDP in these areas, wit
 [Data](articles/d2dfb653.json)
 
 [Extended Data](ext_articles/d2dfb653.ext.json)
-
----
-
-### Good news for pensioners
-
-*2024-10-15 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202196) · `si`
-
-Pension increase: Cabinet approves Rs. 3,000 interim allowance for October. Additional payment possible soon. Anomaly resolution ongoing.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath says that the pension will be added to Rs. 3,000 to the pension.
-
-The Cabinet was approved by the Cabinet to provide that amount as an interim allowance for October.
-
-Cabinet spokesman Vijitha Herath said that the additional allowance paid for this month could be obtained in the near future.
-
-...
-
-[Data](articles/2093a497.json)
-
-[Extended Data](ext_articles/2093a497.ext.json)
 
 ---

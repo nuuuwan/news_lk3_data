@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 12:39:14**
+As of **2024-10-15 13:10:10**
 
 ## Newspaper Stats
 
-*Scraped **49,604** Articles*
+*Scraped **49,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,142 @@ bbccomsinhala | 497
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
-adalk | 4,605
+adalk | 4,607
 dailymirrorlk | 4,733
-adaderanalk | 5,873
-tamilmirrorlk | 6,776
-virakesarilk | 7,934
+adaderanalk | 5,874
+tamilmirrorlk | 6,783
+virakesarilk | 7,935
 adaderanasinhalalk | 8,587
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,604 (100.0%) of 49,604 articles have been extended.
+49,615 (100.0%) of 49,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Sahara Desert flooded for the first time in decades
+
+*2024-10-15 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102709/sahara-desert-flooded-for-the-first-time-in-decades) · `en`
+
+Striking images from the Sahara Desert show large lakes etched into rolling sand dunes after one of the most arid, barren places in the world was hit with its first floods in decades.
+
+The Sahara does experience rain, but usually just a few inches a year and rarely in late summer. Over two days in September, however, intense rain fell in parts of the desert in southeast Morocco, after a low pressure system pushed across northwestern Sahara.
+
+Preliminary NASA satellite data showed nearly 8 inches of rain in some parts of the region.
+
+Errachidia, a desert city in southeast Morocco, recorded nearly 3 inches of rainfall, most of it across just two days last month. That’s more than four times the normal rainfall for the whole month of September, and equates to more than half a year’s worth for this area.
+
+“It’s been 30 to 50 years since we’ve had this much rain in such a short space of time,’ Houssine Youabeb from Morocco’s meteorology agency told AP last week.
+
+...
+
+[Data](articles/1ec38239.json)
+
+[Extended Data](ext_articles/1ec38239.ext.json)
+
+---
+
+### Tell us we are doing
+
+*2024-10-15 12:44:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நீங்கள்-சொல்லுங்கள்-நாங்கள்-செய்கிறோம்/71-345497) · `ta`
+
+Candidate claims no funding needed for politics. Focuses on personal wealth and community support. Aims for election without minority contributions. Emphasizes transparency and honesty in political approach.
+
+🟩
+
+It does not need funds to make true politics it is my theory. Politicians have raised funds so far if it is going to be normal. Yall. We will get six seats in the electoral district.
+
+He said this while addressing the introduction of the candidate held on Monday (15) at a private hotel in Jaffna.
+
+Furthermore: I don't need any funds for politics to make politics. I have kept enough money for me. No one has asked for money so far. We don't need millions of money to make our politics. I have a house worth 10 crores. People give me. I will give people.
+
+During the meeting in Jaffna during a meeting in Jaffna, I will win the translation of the Prophet and I will win without the contribution of minorities such as the Tamil Muslims like Anura Kumara Dissanayake.. The idea of ​​the Tamil people was fitted with the wrong idea.
+
+When we are telling the people properly, we become a true politician. We are looking at the old politics. Tell us that we are doing politics.
+
+◼️
+
+[Data](articles/f510d800.json)
+
+[Extended Data](ext_articles/f510d800.ext.json)
+
+---
+
+### The Ministry of Health warns that there is a risk of spreading dengue
+
+*2024-10-15 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196319) · `ta`
+
+Dengue warning: 40,657 cases, 20 deaths this year. Risk in Colombo, Gampaha, Kalutara, Kandy, Ratnapura, Matara, Galle, Matale districts due to rainy weather.
+
+🟩
+
+The Ministry of Health has warned that dengue is at risk due to the prevailing rainy weather in the country.
+
+According to the National Dengue Control Division's Community Health Doctor Anoja Therasinghe, 40,657 dengue patients have been identified within the country this year.
+
+Dr. Anoja Therasinghe says 20 people have died of dengue this year.
+
+Dr. Anoja Therasinghe said that there is a risk of spreading dengue in the districts of Colombo, Gampaha and Kalutara, Kandy, Ratnapura, Matara, Galle and Matale.
+
+◼️
+
+[Data](articles/81d496da.json)
+
+[Extended Data](ext_articles/81d496da.ext.json)
+
+---
+
+### 2 Groups Appointment for Independence Day Supervisory
+
+*2024-10-15 12:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திர-தின-மேற்பார்வைக்காக-2-குழுக்கள்-நியமனம்/175-345496) · `ta`
+
+Committee formed: Cabinet Ministers, President, PM, religious leaders. Task: Plan 77th Independence Day (Feb 2025). Group 1: Organize events. Group 2: Supervise. Top officials involved. Motion proposed by PM.
+
+🟩
+
+A committee comprising of Cabinet Ministers has been appointed with the participation of the President, Prime Minister and Buddhist, Religious and Cultural Affairs, National Integration, Social Security and Media Minister for guidance and supervision for the 77th Independence Day celebration in February 2025.
+
+Cabinet Spokesperson Minister Vijitha Herath said that a watchdog was appointed with the participation of top officials of all the relevant ministries and departments, including the Army and the Police to organize Independence Day celebrations.
+
+As the Minister of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labor, the Motion on the appointment of two groups was put forward by the Prime Minister.
+
+◼️
+
+[Data](articles/7b8232da.json)
+
+[Extended Data](ext_articles/7b8232da.ext.json)
+
+---
+
+### Virgin Vignaraja meets with President
+
+*2024-10-15 12:21:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கன்னி-விக்னராஜா-ஜனாதிபதி-பிரதமருடன்-சந்திப்பு/175-345495) · `ta`
+
+UNDP's Virgin Vignaraja meets Sri Lankan leaders. Discusses sustainable development, economic reforms, digital transformation, and community protection. Focuses on empowering women, youth, and rural communities. First high-ranking UN official to visit post-election Sri Lanka.
+
+🟩
+
+The United Nations has met with Sri Lankan Virgi Vignaraja, President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya.
+
+Vignaraja, who served as the United Nations Assistant Secretary General and the United Nations Asian and Pacific Regional Development Project Director, was present during his one -day visit to Sri Lanka.
+
+According to the UNDP Sri Lanka, UNDP's Resident Representative to Sri Lanka, Asusa Kuboda, also attended the meeting with Vignaraja.
+
+In his involvement, Vignarajah strengthened UNDP's determination to achieve sustainable growth in the fields of economic and administrative reforms, accountability, refreshing capital, digital change, public sector modernization and strengthening the safety of vulnerable communities in the country.
+
+Vignaraja reiterated the policy and technical offers of UNDP in these areas, with particular attention to women, youth and rural farmers, which have many impacts of economics, disasters and climate change.
+
+...
+
+[Data](articles/d2dfb653.json)
+
+[Extended Data](ext_articles/d2dfb653.ext.json)
+
+---
 
 ### Good news for pensioners
 
@@ -51,6 +171,32 @@ Cabinet spokesman Vijitha Herath said that the additional allowance paid for thi
 [Data](articles/2093a497.json)
 
 [Extended Data](ext_articles/2093a497.ext.json)
+
+---
+
+### Penis pour
+
+*2024-10-15 12:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆணுறுப்பில்-மூட்டைக்கொச்சிக்காய்-அறைத்து-ஊற்றிய-வழக்கு/76-345494) · `ta`
+
+Attorney General refuses to represent police in case involving alleged rights violation. Incident involves illegal detention and staining of genitals. Case heard before High Court judges.
+
+🟩
+
+The Attorney General has refused to appear in the fundamental rights violation filed by a youth in connection with the incident where the penis was well -chambed and stained.
+
+The Attorney General has announced to the High Court on Monday that the Attorney General will not appear on behalf of the police officers including the Teldeniya Police Station.
+
+When one of the Teldeniya police was arrested and detained, the bundle was stained and poured into his penis.
+
+Since this is a very serious incident, the Attorney General has decided to not appear on behalf of the defendant police officers, said Deputy Solicitor General Madhava Tennakoon, appearing on behalf of the Attorney General.
+
+The petition came up for hearing in the presence of High Court Judges Yasantha Gothagoda and Kumuduni Wickremasinghe.
+
+...
+
+[Data](articles/d13e6fe1.json)
+
+[Extended Data](ext_articles/d13e6fe1.ext.json)
 
 ---
 
@@ -321,6 +467,52 @@ Subsequently, the Railway Security Officers took the injured lorry assistant to 
 [Data](articles/0c0e117f.json)
 
 [Extended Data](ext_articles/0c0e117f.ext.json)
+
+---
+
+### "I was named Uganda Menike"
+
+*2024-10-15 11:06:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எனக்கு-உகாண்டா-மெனிகே-என்று-பெயர்-சூட்டப்பட்டது/175-345486) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Nilanthi Kothachi, NPP candidate, accuses previous regime of asset theft. Promises to restore stolen funds through a recovery company. Denies slander claims, says ready to respond to allegations.
+
+🟩
+
+The National People's Power (NPP) candidate Nilanti Kothachi, who accused Uganda of stolen assets in the previous regime and other parts of the country, said he made such comments on the need to restore the omitted assets hidden.
+
+“Some of the comments I have made in recent times have triggered slander on me. I was named Uganda Kumari or Uganda Menike.
+
+Prior to the presidential election, I had noticed the need to restore what the law and order, justice, the National People's Power (NPP) and its presidential candidate Comrade Anurakumara Dissanayake could do it.
+
+In our plan for that, we promised to establish a company to restore assets. In developed countries, there are such institutions established to implement such laws. That is, a company relating to abusing public money, investing abroad and recovering money elsewhere.
+
+...
+
+[Data](articles/fbd89418.json)
+
+[Extended Data](ext_articles/fbd89418.ext.json)
+
+---
+
+### Opposition leader resigns
+
+*2024-10-15 11:05:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவரின்-செயலாளர்-இராஜினாமா/175-345485) · `ta`
+
+Opposition leader resigns: President's attorney Tissan Devapriya Bandara Wijegunawardena submits resignation letter on October 9, 2024. Cabinet approves Prime Minister's proposal to accept resignation.
+
+🟩
+
+President's Attorney Tissan Devapriya Bandara Wijegunawardena, who served as secretary of the Opposition Leader of the Opposition, has submitted a letter of resignation from the West after the Service on 2024.10.09. Accordingly, the Cabinet approved the proposal submitted by the Prime Minister to accept his resignation.
+
+◼️
+
+[Data](articles/4894fe47.json)
+
+[Extended Data](ext_articles/4894fe47.ext.json)
 
 ---
 
@@ -613,6 +805,30 @@ It is noteworthy that the tenure of the members of the University Grants Commiss
 [Data](articles/33beb350.json)
 
 [Extended Data](ext_articles/33beb350.ext.json)
+
+---
+
+### Vegetable prices down
+
+*2024-10-15 10:09:13* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-මිල-පහළට/11-412497) · `si`
+
+Vegetable prices drop due to bad weather. Rural farmers struggle to sell produce at low rates. Prices: beans (Rs. 350-330), carrots (Rs. 500-70). Economic impact noted.
+
+🟩
+
+Due to the prevailing inclement weather, the prices of the rural vegetables, the main economic center of the country, says Keppetipola specialized economic center.
+
+The prices of vegetables were down in recent days, have fallen below due to the bad weather conditions that have been affected by the adverse weather conditions, whether it has fallen below, Said and Govindtag. The farmers say that the arrival of the country's arrival due to the inclement weather, the farmers have caused the decline and harvesting due to the inclement weather, as the inclement weather is due to the inclement weather.
+
+The farmers claim that they are unable to sell these low and sell vegetables and is trying to get vegetables at very low prices.The capitipola specialized economic center at the Keppetipola is as follows.
+
+A kilo of beans between Rs. 350-330 and a kilo of carrots between Rs.A kilo of Rs. 500 - 70 per kilo of Rs..
+
+◼️
+
+[Data](articles/069596bb.json)
+
+[Extended Data](ext_articles/069596bb.ext.json)
 
 ---
 
@@ -1394,6 +1610,28 @@ It is also due to pay attention to the amount of money that a candidate should b
 
 ### TNA administration
 
+*2024-10-15 06:45:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தமிழரசுக்-கட்சி-நிர்வாகத்துக்கு-தடை-கோரி-வழக்கு/150-345470) · `ta`
+
+TNA administration: Markanda Natarasa sues TNA leaders Mawai Senathirajah, P. Satyalingam, Xavier Kulanayagam in Jaffna Magistrate's Court. Case filed by former Eastern Provincial Council member Markandu Nadarasa from Batticaloa-Fort.
+
+🟩
+
+The Tamil National Alliance (TNA) Lifestyle Member Markanda Natarasa has filed a lawsuit in the Jaffna Magistrate's Court, demanding the interim ban on the leader of the Sri Lanka Tamil National Alliance (TNA) and the executive secretary of the party.
+
+The Tamil National Party (TNA) leader Mawai Senathirajah, the General Secretary P. Satyalingam and Executive Secretary Xavier Kulanayagam are the opponents.
+
+The case was filed by former Eastern Provincial Council member Markandu Nadarasa from Batticaloa - Fort.. (A)
+
+◼️
+
+[Data](articles/dc473f39.json)
+
+[Extended Data](ext_articles/dc473f39.ext.json)
+
+---
+
+### TNA administration
+
 *2024-10-15 06:45:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சி-நிர்வாகத்துக்கு-தடை-கோரி-வழக்கு/175-345470) · `ta`
 
 TNA leader Mawai Senathirajah faces lawsuit over interim ban. Former Eastern Provincial Council member Markandu Nadarasa sues TNA leaders Mawai Senathirajah, P. Satyalingam, and Xavier Kulanayagam in Jaffna Magistrate's Court.
@@ -2077,207 +2315,5 @@ Apart from that, the JKH share price also moved up due to the opening of its fla
 [Data](articles/5f139583.json)
 
 [Extended Data](ext_articles/5f139583.ext.json)
-
----
-
-### Digitalisation: Gates must be open for Sri Lankan companies for innovation
-
-*2024-10-14 22:55:02* · [`dailyftlk`](https://www.ft.lk/columns/Digitalisation-Gates-must-be-open-for-Sri-Lankan-companies-for-innovation/4-767956) · `en`
-
-The digitalisation of customs, IRD port net, maritime single window and national single window, etc. must be carefully developed
-
-Modernising customs, ports and supply chains needs future proofed technology to meet current and anticipated future international standards that fit a domestic framework, including the much talked of ‘single window’. The national single window of India and Pakistan were developed within the local talent with international expertise at some point coming and contributing at professional consultancy services.
-
-...
-
-[Data](articles/136a7995.json)
-
-[Extended Data](ext_articles/136a7995.ext.json)
-
----
-
-### What more can Govt. do: Strategies to solidify economic progress post-elections
-
-*2024-10-14 22:51:37* · [`dailyftlk`](https://www.ft.lk/columns/What-more-can-Govt-do-Strategies-to-solidify-economic-progress-post-elections/4-767955) · `en`
-
-Given Sri Lanka’s strategic location, the Government can actively engage in deepening regional trade ties, particularly with fast-growing economies
-
-While the recent Presidential elections in Sri Lanka have set a positive tone for the country’s economic and political landscape, there is still significant work to be done to build on this momentum. The Government’s initial focus on anti-corruption, transparency, and institutional reforms has already had a strong impact on market confidence and investor sentiment. However, in the current global economic climate, additional measures are necessary to ensure that these early gains translate into long-term prosperity. Here are some key areas the Government could focus on to further strengthen its positive market impact:
-
-...
-
-[Data](articles/1c062885.json)
-
-[Extended Data](ext_articles/1c062885.ext.json)
-
----
-
-### Education for system change: Proposal for critical thinking and civic responsibility curriculum
-
-*2024-10-14 22:45:57* · [`dailyftlk`](https://www.ft.lk/columns/Education-for-system-change-Proposal-for-critical-thinking-and-civic-responsibility-curriculum/4-767954) · `en`
-
-Conditioned to internalise information mechanically, students are moulded into conformity and rote memorisation, influenced more by parental expectations and societal pressures than by their talents and aspirations
-
-The entrenched education system excels at producing highly skilled and committed engineers, doctors, mathematicians, and IT professionals, yet it often fails to prepare them to address the oppression and injustices encountered when applying their education in their professions. These professionals may be blind to, or unwilling to acknowledge, these issues. Evidence abounds that educated, talented, and well-travelled individuals—those leading cosmopolitan lives—frequently perpetuate disparities and inequities. They swiftly blame extremists and politicians when things go awry and comfortably evade accountability by positioning themselves as mere producers of ideas, conveniently leaving implementation to others
-
-...
-
-[Data](articles/5eb75de5.json)
-
-[Extended Data](ext_articles/5eb75de5.ext.json)
-
----
-
-### Creating a holistic experience for tourists at popular sites: Lessons from Bangkok and Ayutthaya
-
-*2024-10-14 22:38:06* · [`dailyftlk`](https://www.ft.lk/columns/Creating-a-holistic-experience-for-tourists-at-popular-sites-Lessons-from-Bangkok-and-Ayutthaya/4-767953) · `en`
-
-While the practice of removing shoes when entering places of Buddhist worship is practiced in both countries, Sri Lanka appears to be taking a more extreme stand regarding the distance at which this requirement must be met
-
-Both Thailand and Sri Lanka boast of numerous tourist attractions that are essentially places of religious worship. The challenge faced by administrators of such sites is to strike a balance between the need to maintain dignity and decorum expected in a place of worship with the need to create a pleasant and convenient experience to those who travel from faraway places to catch a glimpse of these renowned sites
-
-...
-
-[Data](articles/727d92dd.json)
-
-[Extended Data](ext_articles/727d92dd.ext.json)
-
----
-
-### A left turn: Can ESG principles drive sustainable economic growth under new leadership?
-
-*2024-10-14 22:33:21* · [`dailyftlk`](https://www.ft.lk/columns/A-left-turn-Can-ESG-principles-drive-sustainable-economic-growth-under-new-leadership/4-767952) · `en`
-
-The ESG narrative within the new political context could be beneficial for positioning Sri Lankan businesses to attract investment into the country
-
-Sri Lanka’s new president Anura Kumara Dissanayake has been sworn into office, marking a significant shift in the country’s political and economic trajectory. The new administration is focused on steering the country towards a more sustainable and inclusive economic model, which could significantly impact the business environment and the promotion of Environmental, Social, and Governance (ESG) policies. Could the potential of more left-leaning policies help to foster a more sustainable business economy by emphasising local industries and sustainable practices?
-
-...
-
-[Data](articles/d64c3925.json)
-
-[Extended Data](ext_articles/d64c3925.ext.json)
-
----
-
-### India withdraws Canada envoy named in probe, expels diplomats
-
-*2024-10-14 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102692/india-withdraws-canada-envoy-named-in-probe-expels-diplomats) · `en`
-
-India ordered the expulsion of six Canadian diplomats on Monday and withdrew its own envoy from Canada, in response to what it said was Ottawa’s decision to name him and others as “persons of interest” in an investigation.
-
-India did not go into detail on the investigation, but relations have been fraught since 2023, when Canadian Prime Minister Justin Trudeau said he had evidence linking Indian agents to the assassination of a Sikh separatist leader on his territory.
-
-India has long denied Trudeau’s accusation. On Monday it dismissed Canada’s move on the inquiry and accused Trudeau of pursuing a “political agenda”.
-
-“We have no faith in the current Canadian Government’s commitment to ensure their security.
-
-Therefore, the Government of India has decided to withdraw the High Commissioner and other targeted diplomats and officials,” India’s foreign ministry said in a statement.
-
-It later said it had asked the six Canadian diplomats to leave by Saturday.
-
-...
-
-[Data](articles/3b4e3e96.json)
-
-[Extended Data](ext_articles/3b4e3e96.ext.json)
-
----
-
-### A statement on several schools closed in the Southern Province
-
-*2024-10-14 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202176) · `si`
-
-Several schools in Southern Province closing due to bad weather. Decision made by Governor. Affected institutions: Balapitiya Education Zone, Balapitiya Sri Lankan College, Colombo Kularatne College, Hikkaduwa Ganegoda Roman Catholic College.
-
-🟩
-
-A few schools in the Southern Province have been closed tomorrow (15) due to the inclement weather.
-
-The decision of the Southern Province, this decision will be implemented on the instructions of the Governor of the Southern Province.
-
-Accordingly, Balapitiya Education Zone, Balapitiya, Balapitiya Sri Lankan College, Balapitiya Sri Lanka College, Balapitiya, Balapitiya, Balapitiya, Balapitiya, Colombo Kularatne College, Hikkaduwa.
-
-Ganegoda Roman Catholic College, Galle Education Zone, has decided to close down.
-
-◼️
-
-[Data](articles/18e6377b.json)
-
-[Extended Data](ext_articles/18e6377b.ext.json)
-
----
-
-### SriLankan Airlines investigating ‘incident’ on Sydney-Colombo flight
-
-*2024-10-14 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102691/srilankan-airlines-investigating-incident-on-sydney-colombo-flight) · `en`
-
-SriLankan Airlines has confirmed that an investigation is currently underway in accordance with civil aviation regulations “regarding the incident on flight UL 607” from Sydney to Colombo on September 21.
-
-The airline stated that it is fully cooperating with the relevant authorities, and that the captain of the flight has been grounded pending the outcome of the investigation.
-
-SriLankan Airlines further emphasized that safety and compliance with all regulatory requirements remain its top priorities.
-
-◼️
-
-[Data](articles/f56a10a8.json)
-
-[Extended Data](ext_articles/f56a10a8.ext.json)
-
----
-
-### உலக முடிவு பள்ளத்தாக்கில் கீழே தள்ளி கொலை ; சந்தேக நபர்கள் இருவரை கைது
-
-*2024-10-14 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196303) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Two suspects arrested for murder of 23-year-old youth in Hallyla Rosett area. Victim went missing 5 days ago while driving a three-wheeler. Police investigation reveals shocking details about leasing system and theft of valuable items.
-
-🟩
-
-Madhulseem police said that two suspects suspected of murdering Madulseem's 23 -year -old youth from the lower part of Hallyla Rosett have been arrested by Elaman.
-
-31,39 வயதுடைய மடூல்சீமை பட்டவத்த பகுதியை சேர்ந்த இருவரே இவ்வாறு கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-கடந்த மாதம் 30 ம் திகதி இரவு ஹாலிஎல ரொஸட் கீழ் பிரிவைச் சேர்ந்த விவேகானந்தன் சுஜீவன் எனும் இளைஞன் திருமண வீடொன்றிற்கு செல்வதாகவும் வருவதற்கு 5 நாட்கள் ஆகும் என தனது சகோதரியிடம் கூறிவிட்டு AAK 9465 எனும் இலக்கம் கொண்ட தனது முச்சக்கர வண்டியில் சென்றுள்ளார்.
-
-இருப்பினும் 5 நாட்கள் கடந்தும் தனது மகனது கையடக்க தொலைபேசிக்கு அழைப்பை ஏற்படுத்திய போது கையடக்கத் தொலைபேசி செயலில் இல்லாததால் 5 நாட்கள் கடந்தும் தனது மகன் இதுவரையில் வராததாலும் சந்தேகம் கொண்ட குறித்த இளைஞனின் பெற்றோர் ஹாலிஎல பொலிஸ் நிலையத்தில் கடந்த 6 ம் திகதி முறைப்பாடு செய்துள்ளனர்.
-
-The Hali Ela police have carried out investigations at various angles in accordance with their parents' complaint.
-
-...
-
-[Data](articles/a404fbba.json)
-
-[Extended Data](ext_articles/a404fbba.ext.json)
-
----
-
-### சீனப் பிரஜைகள் குறித்து சீனத் தூதரகம் விசேட அறிக்கை
-
-*2024-10-14 20:51:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனப்-பிரஜைகள்-குறித்து-சீனத்-தூதரகம்-விசேட-அறிக்கை/175-345455) · `ta`
-
-Chinese Embassy report: Arrests of Chinese nationals in Sri Lanka for e-commercial fraud. China supports Sri Lanka's actions against fraud, calls for legal protection of suspects' rights. China fights email fraud domestically and internationally, cooperates with other countries to combat scams.
-
-🟩
-
-The Chinese Embassy in Colombo has issued a special report on Chinese nationals who were recently arrested in connection with e -commercial financial fraud.
-
-China has been closely observing the arrests of the egoist fraud and ensuring that their rights and interests are protected and China continues to support Sri Lanka to take action against Sri Lanka's law.
-
-The incident not only threatens the property of the two countries, it has pointed out that it will severely affect China's reputation and affect the traditional friendship between the two countries.
-
-The Chinese embassy has called for “action to protect the suspects legally to protect their legitimate rights and interests.”
-
-Internet frauds began to appear in China in the 1990s, and then spread over a large number of people. The Chinese government adopts the people -centered attitude, and continues to explore the path to prevent e -mail frauds, and carry out various tasks deeply.
-
-...
-
-[Data](articles/059489fa.json)
-
-[Extended Data](ext_articles/059489fa.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 04:39:07**
+As of **2024-10-16 04:58:39**
 
 ## Newspaper Stats
 
-*Scraped **49,723** Articles*
+*Scraped **49,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 494
 bbccomsinhala | 499
 islandlk | 2,942
 economynextcom | 3,047
-dailyftlk | 3,366
+dailyftlk | 3,370
 adalk | 4,624
 dailymirrorlk | 4,733
 adaderanalk | 5,884
@@ -26,11 +26,75 @@ adaderanasinhalalk | 8,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,723 (100.0%) of 49,723 articles have been extended.
+49,725 (100.0%) of 49,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Govt. to present Vote-on-Account amid election constraints
+
+*2024-10-16 04:27:23* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-present-Vote-on-Account-amid-election-constraints/56-768011) · `en`
+
+Cabinet Spokesman and Minister Vijitha Herath yesterday confirmed that the Government will present a three-month Vote-on-Account, citing time constraints due to the upcoming General elections on 14 November.
+
+Speaking at the weekly post-Cabinet meeting media briefing, he said the Vote-on-Account will serve as a temporary financial measure to cover Government expenses till a comprehensive Budget can be presented in early 2025.
+
+“As Parliament scheduled to reconvene on 21 November, there is no sufficient time to prepare and present a Budget for 2025 in December itself. The idea now is to present a Vote-on-Account,” he explained.
+
+Herath pointed out that Sri Lanka, which usually presents its annual Budget in November is taking this step to ensure smooth Government operations during the transition following the elections.
+
+...
+
+[Data](articles/e053ca46.json)
+
+[Extended Data](ext_articles/e053ca46.ext.json)
+
+---
+
+### This election is about the “Opposition”
+
+*2024-10-16 04:26:37* · [`dailyftlk`](https://www.ft.lk/columns/This-election-is-about-the-Opposition/4-768010) · `en`
+
+This election is therefore about having a politically serious and a critically sharp, effectively “national” people’s Opposition – Pic by Shehan Gunasekara
+
+Nominations for the 2024 November 14 parliamentary elections were closed island wide, on 11 October. Altogether, around 690 nomination papers have been accepted for the 52 electoral districts. Phenomenal rise to power of the JVP/NPP at the September Presidential elections has sealed the fate of over two dozen politicians, some of whom would not have wanted to leave politics yet. Not very surprisingly, since the 1936 State Council elections when D.M won the Hambantota seat, Rajapaksas are wholly absent in Hambantota for the first time, this election. On the wild side of it, there are numerous amoebic groups that have come out as “new” political parties and independent groups contesting most districts.
+
+...
+
+[Data](articles/db266ed9.json)
+
+[Extended Data](ext_articles/db266ed9.ext.json)
+
+---
+
+### Turning the right to food into reality: Collective path to a food-secure future
+
+*2024-10-16 04:23:43* · [`dailyftlk`](https://www.ft.lk/columns/Turning-the-right-to-food-into-reality-Collective-path-to-a-food-secure-future/4-768009) · `en`
+
+This World Food Day, we come together to emphasise the crucial need for collective action to realise the “Right to Foods”—not just as an aspiration but as a tangible reality for every Sri Lankan and every citizen of the world. Under the theme “Right to Foods for a Better Life and a Better Future,” we are reminded that while global agricultural production may yield enough calories, millions still struggle with hunger, malnutrition, and food insecurity. Approximately 2.8 billion people worldwide cannot afford a healthy diet, contributing to all forms of malnutrition, from undernourishment to rising rates of overweight and obesity.
+
+Here in Sri Lanka, the challenges are multifaceted. Natural disasters, economic downturns, and global shocks have intensified food insecurity, disproportionately affecting the most vulnerable populations—especially women, children, rural communities and persons with disabilities. We can choose to ignore this only at our own peril.
+
+...
+
+[Data](articles/93d61273.json)
+
+---
+
+### What should we expect of our MPs?
+
+*2024-10-16 04:18:37* · [`dailyftlk`](https://www.ft.lk/columns/What-should-we-expect-of-our-MPs/4-768008) · `en`
+
+What many who run for office forget is that they are seeking to become members of a legislature
+
+Several years ago, I was at what was perhaps the inaugural meeting that launched the rankings of MPs by Manthri.lk. I recall a panel comprising the parliamentarians who had the highest rankings. A leading question from the moderator about research support confused a young MP on the panel. He had achieved his high rank by asking lots of parliamentary questions about the various problems faced by his constituents. He could not understand what research support had to do with constituency service which was his understanding of the job.
+
+...
+
+[Data](articles/8b345ae3.json)
+
+---
 
 ### ECSL to take legal action against three Presidential candidates
 
@@ -2439,97 +2503,5 @@ The Department of Meteorological Department also requests the fisheries and the 
 [Data](articles/3f77c369.json)
 
 [Extended Data](ext_articles/3f77c369.ext.json)
-
----
-
-### Did Gammanpila have a serious crime with Easter records?Immediate records immediately within 3 days
-
-*2024-10-15 13:12:21* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-වාර්තා-තියාගෙන-ගම්මන්පිල-බරපතල-අපරාධයක්-කළාද--දින-03ක්-තුළ-වහාම-වාර්තා-ගෙනත්-දෙන්න/11-412502) · `si`
-
-Gammanpila accused of withholding Easter attack records. Cabinet spokesperson demands immediate submission of reports within 3 days, warns of serious consequences if hidden.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath said that Udaya Gammanpila has recorded reports of the Passover attack.
-
-He was speaking at a media briefing at the Cabinet Decision informed in Colombo today (15).
-
-"If Mr. Gammanpila is available, we will take those reports if we can post for three days. Then we are easy. Government's records are correct, testing the right method. Pages are less than. After these tests, we are bonding to do justice to those people. If the Gammanpila received reports, they should be immediately given them.. How they found them. We also want to know. The people of the country like to know. If Mr Gammanpila was hiding these reports so far, it would be a serious crime. "
-
-◼️
-
-[Data](articles/1a3b651a.json)
-
-[Extended Data](ext_articles/1a3b651a.ext.json)
-
----
-
-### Travel on the Reform of International Monetary Fund - Fight against Corruption - Julisung among trade communities
-
-*2024-10-15 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196337) · `ta`
-
-US Ambassador Julisung: Economic reforms challenging but Sri Lanka on right path. IMF's EVF program demands governance reforms and anti-corruption measures. USAID Administrator Samantha Power discusses supporting small businesses. Recent elections reflect Sri Lankans' aspirations. Stronger governance needed for continued prosperity. Clear policies and regulations essential for business growth. Investment-friendly management system crucial for economic development. Future US-Sri Lanka business ties promising with focus on international monetary reform.
-
-🟩
-
-The US Ambassador to Sri Lanka, Julisung, said that economic reforms are difficult but Sri Lanka is on the right path.
-
-He was speaking at the annual meeting of the US Sri Lanka Trade Council in Colombo
-
-The EVF program of the International Monetary Fund is demanding economic governance reforms and forts against corruption.
-
-I recently had the opportunity to meet the new President and address these issues.
-
-A few days ago, the USAID's administrator Samantha Power telephoned your president on how to help the small middle industry, the important part of the Sri Lankan economy, and how we can help.
-
-Last month, we saw that the Sri Lankan people were invited to change through the ballot boxes. They expressed their expectations for the future of the country.
-
-The relationship between the United States and Sri Lanka is built on the basis of many mutual faith and shared values.
-
-...
-
-[Data](articles/80837332.json)
-
-[Extended Data](ext_articles/80837332.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-10-15 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196336) · `ta`
-
-US Dollar: 289.1796 INR buying, 298.1775 INR selling. Central Bank rate released Tuesday 15.
-
-🟩
-
-The US dollar purchasing price was 289.1796 rupees and the sales price were 298.1775 rupees based on a currency exchange rate released by the Central Bank on Tuesday (15).
-
-◼️
-
-[Data](articles/71af12eb.json)
-
-[Extended Data](ext_articles/71af12eb.ext.json)
-
----
-
-### Here is the decision to provide special relief to fishermen
-
-*2024-10-15 12:56:16* · [`adalk`](https://www.ada.lk/breaking_news/ධීවරයන්ට-විශේෂ-සහනයක්-දෙන්න-කැබිනට්-මණ්ඩලය-ගත්-තීරණය-මෙන්න/11-412501) · `si`
-
-Cabinet approves 6-month fuel subsidy for fishermen: Rs. 25/liter diesel, Rs. 25/liter kerosene, total allocation of Rs. 5.5 million.
-
-🟩
-
-Cabinet spokesperson Vijitha Herath said that the Cabinet had decided to provide a special fuel subsidy for fishing for six months.
-
-He was speaking at a media briefing at the Cabinet Decision informed in Colombo today (15).
-
-"The cabinet decided to give a special fuel subsidy for fishermen. Low fuel prices last days. A large relief to the fishing community has already been found with the reduction. Cabinet decided to provide more reliefs in addition. Accordingly, Rs. 5.5 million has been allocated for the rent of Rs. 5.5 million for six months. Accordingly, 25 rupees relief per liter of diesel will be given to 3 million. Kerosene subsidizes Rs. 25 per month, subject to a maximum of Rs.. "
-
-◼️
-
-[Data](articles/3304932a.json)
-
-[Extended Data](ext_articles/3304932a.ext.json)
 
 ---

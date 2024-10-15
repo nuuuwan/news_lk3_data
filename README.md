@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 08:44:39**
+As of **2024-10-15 08:59:06**
 
 ## Newspaper Stats
 
-*Scraped **49,549** Articles*
+*Scraped **49,552** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 496
 islandlk | 2,941
 economynextcom | 3,034
 dailyftlk | 3,363
-adalk | 4,599
+adalk | 4,600
 dailymirrorlk | 4,733
-adaderanalk | 5,859
-tamilmirrorlk | 6,765
+adaderanalk | 5,860
+tamilmirrorlk | 6,766
 virakesarilk | 7,926
 adaderanasinhalalk | 8,576
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 8,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,549 (100.0%) of 49,549 articles have been extended.
+49,549 (100.0%) of 49,552 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Chairman and members of UGC resign
+
+*2024-10-15 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102695/chairman-and-members-of-ugc-resign) · `en`
+
+The Chairman and the members of the University Grants Commission (UGC) have resigned from their respective positions in the commission.
+
+It is reported that they have tendered their letters of resignation to the President on Monday (14).
+
+The resignations reportedly came after a notification made by the Presidential Secretariat asking the UGC members to resign from their positions.
+
+Accordingly, the Chairman of the UGC, Senior Prof. Sampath Amaratunga, its Vice Chairman Senior Prof. Chandana P. Udawatte and the commissioners have informed President Anura Kumara Dissanayake in writing that they will resign from their respective positions.
+
+The official term of the members of the UGC, who were appointed to the positions in the year 2020, was set to end in March 2025.
+
+◼️
+
+[Data](articles/c590c8f4.json)
+
+---
+
+### ரயில் தடம்புரண்டது ; பயணிகளுக்கு முக்கிய அறிவிப்பு
+
+*2024-10-15 08:27:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்புரண்டது-பயணிகளுக்கு-முக்கிய-அறிவிப்பு/175-345473) · `ta`
+
+கொழும்பு கோட்டை மற்றும் மருதானை ரயில் நிலையங்களுக்கு இடையில் ரயில் ஒன்று தடம் புரண்டதால் ரயில் சேவைகள் தடைப்பட்டுள்ளன.
+
+இன்று (15) காலை 7 மணியளவில் மட்டக்களப்பில் இருந்து கோட்டை நோக்கி பயணித்த ரயில்  தடம் புரண்டதாக புகையிரத திணைக்களம் தெரிவித்துள்ளது.
+
+இதன்படி, பிரதான பாதை மற்றும் கரையோரப் பாதைகளில் ரயில்களை இயக்குவதில் தாமதம் ஏற்படலாம் என ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/ae44cca8.json)
+
+---
 
 ### Growth in industrial products
 
@@ -189,6 +225,24 @@ Accordingly, train services on the main line and the coastal line could experien
 [Data](articles/55975aee.json)
 
 [Extended Data](ext_articles/55975aee.ext.json)
+
+---
+
+### උපාධිධාරී තරුණියක් අනාරක්ෂිත උඩුමහලින් වැටී මරුට
+
+*2024-10-15 07:47:17* · [`adalk`](https://www.ada.lk/breaking_news/උපාධිධාරී-තරුණියක්-අනාරක්ෂිත-උඩුමහලින්-වැටී-මරුට/11-412496) · `si`
+
+නේවාසිකාගාර සපයන්නන් ඒවා  ලබාගන්නන්ගේ ජීවිත තුට්ටු දෙකට දමා ආරක්ෂාව සම්බන්ධයෙන්  අබමල් රේණුවක තැකීමක් නොකර මාසය අන්තිමට මුදල්ම පමණක් ලබා ගැනීමට කටයුතු කිරීම හේතුවෙන් සිදු වූ   අවාසනාවන්ත අකල් මරණයක තොරතුරු තලංගම පොලිස් වසමෙන් වාර්තා වීය.
+
+අඩක් වැඩ නිම කරන ලද දෙමහල් නිවසේ උඩුමහලේ පිටුපස අනාරක්ෂිත  කොටසින් පහළට වැටී  රූමත් අවිවාහක උපාධිධාරී  තරුණියක් මියගොස් ඇතැයි තලංගම පොලිසිය කියයි
+
+අනතුරින් මියගොස් ඇත්තේ දේශීය ආදායම් දෙපාර්තමේන්තුවේ කළමනාකරණ සහකාර ලෙස සේවය කළ නිවිතිගල,  ගාල්ලගේ මණ්ඩිය පදිංචිව සිටි හංසනි භාග්‍යා ජයතිලක නැමැති  (30) හැවිරිදි  තරුණියයි
+
+මියගිය තරුණිය  තවත් තරුණියන් තිදෙනෙකු සමග බත්තරමුල්ල ප්‍රධාන වීදිය සම්පත් පෙදෙසේ   දෙමහල් නිවසේ උඩුමහලේ පිටුපස කොටසේ තාවකාලිකව නවාතැන් ගෙන සිටින අතර  ඉකුත්  සිකුරාදා (11) ඇය රැකියාව නිමවා සවස 6.40  ට පමණ පැමිණ ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+
+...
+
+[Data](articles/06e20510.json)
 
 ---
 
@@ -2321,73 +2375,5 @@ In a statement, the Ministry said that the present weather conditions have been 
 [Data](articles/081b2518.json)
 
 [Extended Data](ext_articles/081b2518.ext.json)
-
----
-
-### 3 problem with presidential candidates
-
-*2024-10-14 15:53:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-ஜனாதிபதி-வேட்பாளர்களுக்கு-சிக்கல்/175-345444) · `ta`
-
-Three presidential candidates failed to submit election expense reports. Deadline passed. Police action possible. Fine for non-compliance. Report due 21 days post-election.
-
-🟩
-
-The Election Commission has released the names of the three presidential candidates who have failed to submit the election cost report.
-
-The deadline for submitting their expenses reports has ended at midnight yesterday (13).
-
-Commissioner of Elections Commission of Elections Commission, Saman Sri Ratnayake, who told the Daily Mirror, said that Battaramulla Seelaratne Thera, former parliamentarian Sarath Keerthiratne and Tamil general candidate Bhakiyaselvam Ariyanendran did not submit the report.
-
-Ratnayake said, "The list of candidates who failed to submit the cost report will be handed over to the police for further measures under the Election Expenditure Act."
-
-Candidates who fail to submit the report within this deadline can be fined up to Rs.
-
-It is worth noting that the report should be submitted within 21 days after the election costs.
-
-◼️
-
-[Data](articles/2befe4c5.json)
-
-[Extended Data](ext_articles/2befe4c5.ext.json)
-
----
-
-### President prioritizes immediate relief for areas affected by inclement weather
-
-*2024-10-14 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102682/president-prioritizes-immediate-relief-for-areas-affected-by-inclement-weather) · `en`
-
-President Anura Kumara Dissanayake has emphasized the need for a specific and sustainable program to address the recurring flood situation in the country. He noted that frequent flooding requires long-term solutions for effective control, the President’s Media Division (PMD) said in a statement.
-
-During a meeting today (14) with officials from the Ministry of Disaster Management and the Ministry of Finance at the Presidential Secretariat, the President directed officials to prioritize immediate relief for those affected by the recent inclement weather in Colombo, Gampaha, Puttalam, and Kalutara, and that following the relief efforts, attention should then shift to repairing damaged properties.
-
-...
-
-[Data](articles/d5afa0fd.json)
-
-[Extended Data](ext_articles/d5afa0fd.ext.json)
-
----
-
-### Seize the ruined royal vehicle
-
-*2024-10-14 15:43:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாழடைந்த-அரச-வாகனம்-கைப்பற்று/175-345443) · `ta`
-
-Nuwara Eliya police find abandoned Transport Ministry vehicle near education office. Vehicle was used by minister's personal contact officer.
-
-🟩
-
-A senior official of the Nuwara Eliya Police Station said that the Nuwara Eliya police had found a former vehicle belonging to the Transport Ministry on Monday (14).
-
-The vehicle has been found near the building belonging to the Nuwara Eliya Zonal Education Office located on the Nuwara Eliya main road.
-
-Police said the vehicle has been parked in one place for many years and is currently only in the back of the side.
-
-Preliminary inquiries have revealed that the Jeep vehicle and another jeep vehicle were provided by the Minister for the use of a personal contact officer representing the Nuwara Eliya district.
-
-◼️
-
-[Data](articles/56cbf4a8.json)
-
-[Extended Data](ext_articles/56cbf4a8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 14:25:17**
+As of **2024-10-15 14:39:16**
 
 ## Newspaper Stats
 
-*Scraped **49,623** Articles*
+*Scraped **49,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ adalk | 4,609
 dailymirrorlk | 4,733
 adaderanalk | 5,874
 tamilmirrorlk | 6,783
-virakesarilk | 7,937
+virakesarilk | 7,939
 adaderanasinhalalk | 8,591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,623 (100.0%) of 49,623 articles have been extended.
+49,625 (100.0%) of 49,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Ja-Ela was assassinated by a sharp weapon
+
+*2024-10-15 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196332) · `ta`
+
+Assassination in Ja-Ela: 36-year-old Nuwan Kumara killed with sharp weapon during dispute over motorcycle crash. Three injured trying to save victim.
+
+🟩
+
+Ja-Ela police said that a man traveling on the road in Ekala Pradesh, which belongs to the Ja-Ela police division, was attacked and killed by a sharp weapon.
+
+A 36-year-old man, Nuwan Kumara, from Ekala, Ela, has been murdered.
+
+The murdered man crashed into a motorcycle while traveling on the street to vote for a food package.
+
+Later, the stones crashed into a nearby shop when the murdered man tried to attack the motorcycle driver with stones.
+
+Subsequently, the owner of the shop and some of the men there were involved in a dispute with the murdered person.
+
+During this time, some of the men were attacked by a sharp weapon and wounded.
+
+Three more people were injured and admitted to the Ragama Hospital who tried to save the murdered man, police said.
+
+◼️
+
+[Data](articles/65e7555d.json)
+
+[Extended Data](ext_articles/65e7555d.ext.json)
+
+---
+
+### Paravoothi ​​accident in Ginigathena
+
+*2024-10-15 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196327) · `ta`
+
+Accident summary: Cement truck crash blocks Ginigathena road for 5 hours, affecting schoolchildren, workers, and public. Police divert traffic via alternative routes.
+
+🟩
+
+Ginigathena police said that the traffic of the road was blocked for five hours as a massive container carrying cement near the Ginigathena Hospital on the Athon Avissawella road crashed.
+
+The traffic of the road was completely blocked due to some wheels of the back of the Paravurthy.
+
+Due to this, school children, public and private institution employees and the public were greatly affected. Ginigathena police have taken steps to carry out transport through alternative roads instead of a banned road.
+
+◼️
+
+[Data](articles/77f84fad.json)
+
+[Extended Data](ext_articles/77f84fad.ext.json)
+
+---
 
 ### Oil prices of the Middle East war - a special decision from the government
 
@@ -2301,61 +2353,5 @@ No one else touches the double -digit number. The four lost the game without get
 [Data](articles/182eba14.json)
 
 [Extended Data](ext_articles/182eba14.ext.json)
-
----
-
-### A 14 -year -old schoolgirl handed over to Prime Minister
-
-*2024-10-15 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196304) · `ta`
-
-14-year-old student petitions PM on drug abuse prevention
-
-🟩
-
-A 14 -year -old student has handed over a petition to Prime Minister Harini Amarasuriya.
-
-Fatima Nada, a student, filed a petition at the Prime Minister's Office on Monday (14).
-
-The student has filed a petition from Kattankudi to Colombo on a bicycle and went to the Prime Minister's Office.
-
-In the petition, it is noteworthy that the use of drug use has been asked to take action against the use of drugs and prevent misconduct on the children.
-
-◼️
-
-[Data](articles/d5895412.json)
-
-[Extended Data](ext_articles/d5895412.ext.json)
-
----
-
-### Sugath Wasantha De Silva: Visually impaired person in a national list
-
-*2024-10-15 01:44:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2lv25nn0lo) · `si`
-
-Sugath Wasantha De Silva, visually impaired, becomes first visually impaired MP in Sri Lanka's history. Born 1967, lost vision in grade 5. Graduated from University of Colombo, became social services officer. Advocates for disability rights, aims to promote equality and justice for all disabilities.
-
-🟩
-
-Sugath Wasantha De Silva: Visually impaired person in a national list
-
-Sri Lanka's parliamentary parliamentary seat has the opportunity to become a parliamentary seat for the first time in the history of Sri Lanka.
-
-That is due to the National List MP's National List MP's National List MP's National List MP's inclusion.
-
-He is Sugath Wasantha de Silva president of the Sri Lanka Visually Handicaping Graduate Council Council.
-
-If he receives a parliamentary seat, he commented on BBC Sinhala.
-
-Sugath Wasantha De Silva was born on July 26, 1967, 57 years ago, the eyes were born as a normal baby.
-
-"That's what I visited the eyes,. I left the third to the three-in-class class, Kandegoda Junior School. From there, I went to Siri Abinissa Kanisissa, "Sugath Wasantha De Silva," Sugath Wasantha De Silva began its past.
-
-The fateful event that was uprooted by his life was in a grade 5, the 11th year old.
-
-...
-
-[Data](articles/dd429fb7.json)
-
-[Extended Data](ext_articles/dd429fb7.ext.json)
 
 ---

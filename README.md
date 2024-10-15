@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 11:11:26**
+As of **2024-10-15 11:23:25**
 
 ## Newspaper Stats
 
-*Scraped **49,578** Articles*
+*Scraped **49,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailyftlk | 3,363
 adalk | 4,602
 dailymirrorlk | 4,733
 adaderanalk | 5,866
-tamilmirrorlk | 6,771
+tamilmirrorlk | 6,776
 virakesarilk | 7,932
-adaderanasinhalalk | 8,581
+adaderanasinhalalk | 8,582
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,578 (100.0%) of 49,578 articles have been extended.
+49,578 (100.0%) of 49,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### පාස්පෝට් අර්බුදයට සඳුදා සිට තිත
+
+*2024-10-15 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202191) · `si`
+
+එළැඹෙන සෙනසුරාදා දිනයේ දී ඇණවුම් කරන ලද නව විදෙස් ගමන් බලපත්‍ර තොගය මෙරටට ලැබෙන බවත් ඒ අනුව සඳුදා සිට ඒවා බෙදාහැරීම සිදුකරන බවත් කැබිනට් මාධ්‍ය ප්‍රකාශක, අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+
+අද (15) උදෑසන පැවති අමාත්‍ය මණ්ඩල තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් ඒ මහතා මේ බව කියා සිටියේය.
+
+එමෙන්ම ඊ-පාස්පෝට් සම්බන්ධයෙන් මේ වනවිට අධිකරණයේ වාරණ නියෝගයක් පවතින බවත්, එයට අදාළව ටෙන්ඩර් කැඳවීමක් සිදුනොකරන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+උසාවි නියෝගය අවසන් වීමෙන් පසුව ඒ පිළිබඳ අවධානය යොමුකරන බව ද ඒ මහතා පවසයි.
+
+කෙසේ වෙතත් මේ වනවිට ඇනවුම් කර ඇති විදෙස් ගමන් බලපත්‍ර 750,000 ඉදිරියේ දී අවසන් වීමත් සමග නැවතත් පාස්පෝට් අර්බුදයක් ඇති වීමට ඉඩ ඇති බැවින් සාමාන්‍ය පාස්පෝට් ලබාදීමට අවශ්‍ය ප්‍රසම්පාදන ක්‍රියාවලියකට ගොස් ටෙන්ඩර් පටිපාටියක් අනුව තවත් පාස්පෝට් ප්‍රමාණයක් ගෙන්වීමට පසුගිය 11 වනදා පැවති විශේෂ අමාත්‍ය මණ්ඩල රැස්වීමේ දී තීරණය කළ බව ද අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
+
+◼️
+
+[Data](articles/3fcc63e2.json)
+
+---
+
+### அரச இரசாயனப் பகுப்பாய்வாளராக குமுதுனி
+
+*2024-10-15 10:55:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-இரசாயனப்-பகுப்பாய்வாளராக-குமுதுனி/175-345484) · `ta`
+
+அரச இரசாயனப் பகுப்பாய்வாளர் பதவிக்கு சந்தியா குமுதுனி ராஜபக்ஷவை நியமிக்க அமைச்சரவை அனுமதி அளித்துள்ளது.
+
+அரச இரசாயனப் பகுப்பாய்வாளராக பணியாற்றிய தீபிகா செனவிரத்ன ஓய்வு பெற்ற நிலையில், புதிய நியமனம் வழங்கப்பட்டுள்ளது.
+
+தற்போது அரச மேலதிக பரீட்சார்த்தியாக கடமையாற்றும் இலங்கை விஞ்ஞான சேவையின் விசேட தர அதிகாரியான சந்தியா குமுதுனி ராஜபக்ஷவை நியமிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+நிர்வாகம், உள்நாட்டலுவல்கள், மாகாண சபைகள், உள்ளூராட்சி மற்றும் தொழிலாளர் அமைச்சர் என்ற வகையில், பிரதமரால் இந்த யோசனை அமைச்சரவையில் முன்வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b53144ff.json)
+
+---
 
 ### Govt. to procure medical supplies and drugs from local manufacturers
 
@@ -63,6 +101,76 @@ Accordingly, the appointment of Mrs. Sandhya Kumuduni Rajapakse who is next on t
 [Data](articles/1f0c6d4a.json)
 
 [Extended Data](ext_articles/1f0c6d4a.ext.json)
+
+---
+
+### கடவுச்சீட்டுக்கு தீர்வு
+
+*2024-10-15 10:49:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டுக்கு-தீர்வு/175-345483) · `ta`
+
+இதனடிப்படையில், இதற்கு முன்னர் அச்சிட்ட நிறுவனத்துக்கே அச்சிடும் பணிகளை ஒப்படைக்கவும் ஒருதொகை கடவுச்சீட்டுகள் எதிர்வரும் சனிக்கிழமை(19) நாட்டை வந்தடையும் என்று அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்தார்.
+
+ஒன்லைன் கடவுச் சீட்டு தொடர்பில் நீதிமன்ற உத்தரவுக்கமையவே இறுதி தீர்மானம் எடுக்கப்படும் என்றும் அவர் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/677c8c6d.json)
+
+---
+
+### சொந்த வீட்டில்  ​கைவரிசையை காட்டிய மகன்  சிக்கினார்
+
+*2024-10-15 10:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சொந்த-வீட்டில்-கைவரிசையை-காட்டிய-மகன்-சிக்கினார்/76-345482) · `ta`
+
+தனது தாயின், சுமார் பத்து இலட்சம் ரூபாய் பெறுமதியான ஐந்து பவுன் தங்க சங்கிலியை திருடிய மகனை ஹட்டன் பொலிஸார்  திங்கட்கிழமை(14) பிற்பகல் கைது செய்துள்ளனர்.
+
+ஹட்டன் பொலிஸ் பிரிவிற்குட்பட்ட செனன் தோட்டத்தை சேர்ந்த பெண் ஒருவர்  தனது வீட்டின் அலமாரியில் இருந்த ஐந்து பவுன் தங்க நகை திருடப்பட்டுள்ளதாக முறைப்பாடு செய்துள்ளார்.
+
+அதனடிப்படையில் மேற்கொண்ட விசாரணையின் போது முறைப்பாடு பதிவு செய்த பெண்ணின் மகன், தங்க நகையை ஹட்டன்  நகரில் உள்ள தனியார் அடகுக் கடையொன்றில் ஒன்பது இலட்சம் ரூபாவுக்கு அடகு வைத்துள்ளமை தெரியவந்துள்ளது.
+
+இவ்வாறு பெற்றுக்கொண்டு ஒன்பது லட்சத்தில் ஒரு இலட்சம் ரூபாவை அவரது நண்பருக்கு வழங்கியுள்ளதாகவும் மீதி பணத்தை சந்தேகநபர் முழுமையாக செலவழித்துள்ளதாகவும் தெரியவந்துள்ளது.
+
+சந்தேக நபர் தற்போது  தாய் வீட்டுக்குப் பக்கத்தில் வசித்து வருவதுடன்   அவரின் மனைவி வெளிநாட்டில் தொழில் செய்து வருவதாகவும்  சந்தேக நபர் அதிகளவில் மதுவுக்கு அடிமையானவர் எனவும் ஹட்டன் பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/1341c4bc.json)
+
+---
+
+### 2023 இல் 7 எம்.பிக்கள் இடைநிறுத்தம்
+
+*2024-10-15 10:46:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2023-இல்-7-எம்-பிக்கள்-இடைநிறுத்தம்/175-345481) · `ta`
+
+பாராளுமன்ற உறுப்பினர்களின் நடத்தைக்கு எதிராக பொதுக் கருத்துக்கள் எழுந்த சூழ்நிலையில், ஒன்பதாவது பாராளுமன்றத்தில் ஏழு பாராளுமன்ற உறுப்பினர்களின் பாராளுமன்ற சேவைகள் 2023 ஆம் ஆண்டுக்குள் அவர்களின் தவறான நடத்தை காரணமாக இடைநிறுத்தப்பட்டன.
+
+2023 ஆம் ஆண்டு ஒகஸ்ட் 23 ஆம் திகதி பாராளுமன்றத்தில் ஏற்பட்ட அமளியின் பின்னர் இரண்டு எதிர்க்கட்சி எம்.பி.க்களான நளின் பண்டார ஜயமஹா மற்றும் வசந்த யாப்பா பண்டார அமர்வுகளில் இருந்து இடைநீக்கம் செய்யப்பட்டனர்.
+
+பிரதி சபாநாயகர் அஜித் ராஜபக்ஷவை அமர்ந்திருந்த நாற்காலியை நோக்கி விரைந்து அவரை நோக்கி சத்தம் எழுப்பிய இரண்டு எம்.பி.க்களும் இடைநிறுத்தம் செய்யப்பட்டனர்.
+
+மற்றுமொரு சம்பவத்தில், பாராளுமன்ற உறுப்பினர்களின் கேள்விகளுக்கு நேரம் ஒதுக்கப்பட்டதற்கு எதிரான போராட்டத்தின் போது பாராளுமன்றத்தில் தண்டாயுதத்தை பிடித்ததற்காக நிலையியற் கட்டளை 77(3) இன் படி ஐக்கிய மக்கள் சக்தி  எம்.பி அஜித் மன்னப்பெரும நான்கு வாரங்களுக்கு 2023 ஒக்டோபர் 19 அன்று இடைநீக்கம் செய்யப்பட்டார்.
+
+...
+
+[Data](articles/dbf02830.json)
+
+---
+
+### மீண்டும்  தலைதூக்கும் டெங்கு காய்ச்சல்
+
+*2024-10-15 10:46:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தலைதூக்கும்-டெங்கு-காய்ச்சல்/175-345480) · `ta`
+
+தற்போதைய மழையுடன் கூடிய காலநிலை காரணமாக டெங்கு நோய் மீண்டும் தலைதூக்கும் அபாயம் உள்ளதாக சுகாதார திணைக்களம் எச்சரித்துள்ளது.
+
+இந்த வருடத்தில் இதுவரை 40,657 டெங்கு நோயாளர்கள் இனங்காணப்பட்டுள்ளதாகவும்,  20 பேர் உயிரிழந்துள்ளதாகவும் தேசிய டெங்கு கட்டுப்பாட்டு பிரிவின் சமூக சுகாதார நிபுணர் டொக்டர் அனோஜா தீரசிங்க தெரிவித்தார்.
+
+தற்போது நிலவும் மழையுடன் கூடிய காலநிலையால் மீண்டும் டெங்கு நுளம்புகள் பரவும் அபாயம் காணப்படுவதாக அவர் குறிப்பிட்டுள்ளார்.
+
+"ஒக்டோபர் மாதத்தில் மாத்திரம் மொத்தம் 1,247 நோயாளர்கள் பதிவாகியுள்ளனர். பெரும்பாலான நோயாளர்கள் கொழும்பு, கம்பஹா மற்றும் களுத்துறை மாவட்டங்களில் பதிவாகியுள்ளனர். கண்டி, இரத்தினபுரி, மாத்தறை, காலி மற்றும் மாத்தளை ஆகிய மாவட்டங்களிலும் அதிக தொற்றாளர்கள் பதிவாகியுள்ளனர். இந்த மழை நிலைமையால் எதிர்காலத்தில் டெங்கு பாதிப்பு அதிகரிக்கும் என எதிர்பார்க்கலாம்” என்றார்.
+
+◼️
+
+[Data](articles/91b041d5.json)
 
 ---
 
@@ -2223,151 +2331,5 @@ Furthermore, the statement mentioned that the Chinese Embassy provides full supp
 [Data](articles/5ede721a.json)
 
 [Extended Data](ext_articles/5ede721a.ext.json)
-
----
-
-### The end of the third school term postponed in a week
-
-*2024-10-14 18:39:42* · [`adalk`](https://www.ada.lk/breaking_news/තෙවන-පාසල්-වාරයේ-අවසානය-සතියකින්-කල්-යයි/11-412487) · `si`
-
-Third school term 2024 postponed from 17th to 24th January. Ministry cites need for progress reports before ending. Academic year concludes on 24th.
-
-🟩
-
-The Ministry of Education says that the third term of the year 2024, which was due to end on 17, will be postponed.
-
-Accordingly, the third term and 2024 school academic year ended on 24.01.200.
-
-The Secretary to the Ministry of Education Thilaka Jayasundara said that the third term was postponed to inform the third term to enter the third term to provide progress reports to students.
-
-The letter emphasizes that by the 24th term by 24th term, the Ministry of Education emphasizes that the third period should be completed.
-
-◼️
-
-[Data](articles/43fba9ba.json)
-
-[Extended Data](ext_articles/43fba9ba.ext.json)
-
----
-
-### Landslide warnings for several districts
-
-*2024-10-14 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202171) · `si`
-
-National Building Research Organization issues landslide warnings for Kalutara, Kegalle, and Ratnapura districts from 4pm to midnight. Affected areas include specific Divisional Secretariat regions within each district.
-
-🟩
-
-The National Building Research Organization has issued the latest landslide warning announcement.
-
-The National Building Research Institute said that the warning notification is valid from 4.00 pm to 24 hours.
-
-Accordingly, under phases of Divisional Secretariats belonging to the Divisional Secretariats belonging to the following districts, as well as warning announcements have been issued under the 1 stage of 1.
-
-Kalutara District: - Walallawita, Horana, Horana, Matugama, Matugama, Dodangoda, Palindhanuwara, Udabulawatta, Nagalawatta
-
-Kegalle District: - Ruwanwella, Yatiyantota, Dehiowita, Dehiowita, Kegalle, Kegalle, manawapitiya, Kegalle, ⁠ாரApitiya
-
-Ratnapura District: - Eheliyagoda, Rakirilla, Ayagama, Alapatha, Ulawana, Ratnapura and Ratnapura
-
-◼️
-
-[Data](articles/13cd0daa.json)
-
-[Extended Data](ext_articles/13cd0daa.ext.json)
-
----
-
-### Standard solution is necessary for flood disaster
-
-*2024-10-14 18:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அனர்த்தத்திற்கு-நிலையான-தீர்வு-அவசியம்/175-345452) · `ta`
-
-Flood disaster management: President calls for standard solution, allocates funds for relief efforts in affected areas.
-
-🟩
-
-President Anuragumara Dissanayake said that there was a flood disaster twice this year and a proper and sustainable program is necessary to control the frequent floods.
-
-He made this statement during a discussion with officials of the Ministry of Disaster Management and the Ministry of Finance today (14).
-
-The President has given the directive to the Ministry officials to take immediate steps to provide immediate relief to the people of Colombo, Gampaha, Puttalam and Kalutara, which have been affected by the inclement weather.
-
-The President also informed the Secretary of the Ministry of Finance to allocate funds for further money for more than 50 million rupees already allocated to provide relief to the people affected by the disaster.
-
-During the previous floods this year, the President directed the authorities to explore the problems of the damaged assets and provide compensation.
-
-...
-
-[Data](articles/d1402d98.json)
-
-[Extended Data](ext_articles/d1402d98.ext.json)
-
----
-
-### Attorney General does not appear for police officers who have been dissolved in the sex of a suspect
-
-*2024-10-14 18:30:21* · [`adalk`](https://www.ada.lk/breaking_news/නයි-මිරිස්-දියකර-සැකකරුවෙකුගේ-ලිංගයට-දැමූ-පොලිස්-නිලධාරීන්-වෙනුවෙන්-නීතිපති-පෙනී-නොසිටියි/11-412486) · `si`
-
-Sri Lanka Supreme Court case: Attorney General absent for police officers accused of sexual assault. Deputy Solicitor General Madhawa Tennakoon represents AG. Petitioner Ruwan Shantha Priyadarshana seeks justice after Human Rights Commission complaint. Court orders re-convening on December 19.
-
-🟩
-
-The Attorney General also informed the Supreme Court today that the Attorney General has not appeared for the delegation of a young man who has been arrested by the Teldeniya Police.
-
-This is a very serious incident, Deputy Solicitor General Madhawa Tennakoon, who was informed, appeared to the Attorney General, has been named as a respondent from the Attorney General.
-
-The petition was taken up before the Supreme Court Judge Yasantha Kodagoda and Kudukuni Wickremasinghe.
-
-The fundamental rights petition filed by Ruwan Shantha Priyadarshana has been named as respondents, the Attorney General, the Attorney General, including the Attorney General.
-
-The petitioner, which is said to have complained to the Sri Lanka Human Rights Commission on January 27, 2023 by the oil officers of the oil officers.
-
-...
-
-[Data](articles/4d8cd717.json)
-
-[Extended Data](ext_articles/4d8cd717.ext.json)
-
----
-
-### China says supporting Sri Lanka crackdown on cyber rackets involving nationals
-
-*2024-10-14 18:23:00* · [`economynextcom`](https://economynext.com/china-says-supporting-sri-lanka-crackdown-on-cyber-rackets-involving-nationals-183523/) · `en`
-
-ECONOMYNEXT – China will provide its full cooperation to crackdown its nationals who have been suspected to have involved in financial scam after over 100 Chinese nationals have been nabbed by police over suspected online scam.
-
-Sri Lanka police have arrested more than 150 Chinese nationals over their alleged involvement in online financial scam.
-
-“China is closely following the recent reports that Sri Lankan police arrested a number of foreign suspects of online fraud, including Chinese nationals,” the Chinese Embassy in Colombo said in a statement.
-
-“These cases not only pose a threat to the property of our two peoples, but also seriously damage China’s image and affect the traditional friendship between our two countries.”
-
-“The Chinese Embassy provides full support to Sri Lankan law enforcement agencies in resolutely cracking down on suspects while protecting their legitimate rights and interests in accordance with the law.”
-
-...
-
-[Data](articles/07cc6280.json)
-
-[Extended Data](ext_articles/07cc6280.ext.json)
-
----
-
-### Chance to travel on holidays from season tickets
-
-*2024-10-14 18:16:09* · [`adalk`](https://www.ada.lk/breaking_news/වාර-ප්‍රවේශ-පත්‍රවලින්-නිවාඩු-දිනයන්වලදීත්-ගමන්-කිරීමට-අවස්ථාව/11-412485) · `si`
-
-Ministry allows students to use season tickets for holiday travel. Students can ride SLTB buses daily during holidays without monthly pass issues. Minister Vijitha Herath implements this policy to address student concerns about transportation during breaks.
-
-🟩
-
-Transport Ministry Ministry of Transport Ministry has instructed the Chairman of the Board of Transport Board for permission to travel permission to travel to school children, technical colleges and university students.
-
-Students need immediate action to travel to these SLTB buses every day to the month, considering the number of complaints that students have been adapted to the monthly difficulties during the holidays.Minister Vijitha Herath to do done
-
-◼️
-
-[Data](articles/318d5162.json)
-
-[Extended Data](ext_articles/318d5162.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 14:58:13**
+As of **2024-10-15 15:10:34**
 
 ## Newspaper Stats
 
-*Scraped **49,631** Articles*
+*Scraped **49,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,129 @@ dailyftlk | 3,363
 adalk | 4,610
 dailymirrorlk | 4,733
 adaderanalk | 5,875
-tamilmirrorlk | 6,785
-virakesarilk | 7,939
+tamilmirrorlk | 6,786
+virakesarilk | 7,941
 adaderanasinhalalk | 8,592
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,631 (100.0%) of 49,631 articles have been extended.
+49,632 (100.0%) of 49,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### In today's political climate, minority communities should adopt
+
+*2024-10-15 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196344) · `ta`
+
+Thank you for providing such a detailed analysis of the political situation in Sri Lanka. I'll summarize the key points and offer some insights based on the information you've shared:
+
+
+
+1. Different voting patterns between Sinhalese and Tamil communities:
+
+   - Tamils tend to vote based on ethnic and cultural issues, while Sinhalese often prioritize corruption and family politics.
+
+   - Corruption and fraud are less of a concern for Tamils compared to Sinhalese voters.
+
+
+
+2. Recent election trends:
+
+   - People voted for change in 2015, supporting candidates like Maithripala Sirisena and Ranil Wickremesinghe.
+
+   - Gotabhaya Rajapaksa won in 2019 due to his promise of change, though he didn't take action against corrupt colleagues.
+
+   - Anura Kumara Dissanayake won recently, partly due to opposition to the 13th Amendment and the merger of North and East provinces.
+
+
+
+3. Challenges faced by minority communities:
+
+   - Tamil politicians often use nationalism as a political tool rather than addressing daily issues.
+
+   - Minority communities have become pawns in larger political games.
+
+
+
+4. Economic challenges:
+
+   - Corruption isn't the primary cause of Sri Lanka's economic crisis.
+
+   - President Dissanayake faces significant challenges in leading the country through economic recovery.
+
+
+
+5. Upcoming parliamentary election:
+
+   - National People's Power faces challenges in gaining a normal majority.
+
+   - Other parties are working together to ensure their political future.
+
+
+
+6. Future prospects:
+
+   - The National People's Power aims to eradicate corruption and improve governance.
+
+   - Economic management and recovery efforts will be crucial for the party's success.
+
+
+
+7. Recommendations for minority communities:
+
+   - Change political tactics and guarantee parliamentary commitment to the National People's Power Government.
+
+   - Find trusted partners from minority groups.
+
+   - Prioritize unity and cultural differences among minority groups.
+
+
+
+8. Broader implications:
+
+   - Ethnic and religious identities play significant roles in Sri Lanka's politics.
+
+   - New political strategies and leaders are needed to create a new political culture.
+
+
+
+Your analysis provides valuable insights into the complex political landscape of Sri Lanka, highlighting both historical patterns and current challenges. It emphasizes the need for unity and cooperation between different ethnic and religious groups to address the country's pressing issues.
+
+🟩
+
+Anura Kumara Dissanayake has not won 50% + 1 votes in the recent presidential election, but has won the ninth executive president of Sri Lanka.. This time the Tamil people's votes went to the candidate who did not win, as did the previous presidential elections.
+
+Dissanayake has not succeeded in any of the districts where the Tamils ​​live in the majority. There are many comments and criticisms on social media, especially on this issue. These blacksmiths often express their opinion of this emotional issue without deep understanding of politics.
+
+...
+
+[Data](articles/609d7b8d.json)
+
+[Extended Data](ext_articles/609d7b8d.ext.json)
+
+---
+
+### லசந்த -வாசிம் தாஜூதீன் -பிரகீத்திற்கு என்ன நடந்தது என்பது குறித்தும் விசாரணைகளை முன்னெடுப்போம் - அமைச்சரவை பேச்சாளர்
+
+*2024-10-15 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/196341) · `ta`
+
+சண்டே லீடர் ஆசிரியர் லசந்த விக்கிரமதுங்க கொலை  ரக்பி வீரர் வாசிம்தாஜூதீன் மரணம்  பிரகீத் எக்னலிகொட காணாமல்போகச்செய்யப்பட்டமை குறித்தும் விசாரணைகள் முன்னெடுக்கப்படும் என அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்துள்ளார்
+
+ஏற்கனவே விசாரணைகள் முன்னெடுக்கப்பட்டுள்ள  ஏழு சம்பவங்களிற்கு அப்பால் கடந்த காலத்தின் அனைத்து குற்றங்கள் குறித்து விசாரணைகள் முன்னெடுக்கப்படும் என தெரிவித்துள்ள அமைச்சரவை பேச்சாளர் குற்றவாளிகள் என கண்டுபிடிக்கப்படுபவர்களிற்கு எதிராக சட்டநடவடிக்கைகள் எடுக்கப்படும் என தெரிவித்துள்ளார்.
+
+அவசியமான தகவல்கள்பெறப்பட்ட அல்லது விசாரணைகள் பூர்த்தியான அல்லது சிறியளவு விசாரணைகளை முன்னெடுக்கவேண்டியுள்ள ஏழு முக்கிய சம்பவங்கள் குறித்தே அரசாங்கம் தற்போது விசாரணைகளை துரிதப்படுத்தியுள்ளது.
+
+ஆனால் இதன் அர்த்தம் ஏழு சம்பவங்கள் குறித்து மாத்திரம் விசாரணைகளை முன்னெடுக்குமாறு உத்தரவு பிறப்பிக்கப்பட்டுள்ளது என்பதல்ல,கடந்தகாலத்தில்முறைப்பாடு செய்யப்பட்ட அனைத்து சம்பவங்கள் குறித்தும் விசாரணைகள் முன்னெடுக்கப்படும்.
+
+...
+
+[Data](articles/d39182c8.json)
+
+---
 
 ### Fundamental rights petition in the Supreme Court on the scholarship examination
 
@@ -507,6 +617,26 @@ Cabinet spokesman Vijitha Herath said that the additional allowance paid for thi
 [Data](articles/2093a497.json)
 
 [Extended Data](ext_articles/2093a497.ext.json)
+
+---
+
+### ஆணுறுப்பில் மூட்டைக்கொச்சிக்காய் அரைத்து ஊற்றிய வழக்கு
+
+*2024-10-15 12:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆணுறுப்பில்-மூட்டைக்கொச்சிக்காய்-அரைத்து-ஊற்றிய-வழக்கு/76-345494) · `ta`
+
+ஆணுறுப்பில் மூட்டைக்கொச்சிக்காயை (நைமிளகாய்) அதன் விதைகளுடன் நன்றாக அரைத்து, கறைத்து ஊற்றிய சம்பவம் தொடர்பில் இளைஞர் ஒருவர் தாக்கல் செய்த அடிப்படை உரிமை மீறல் மனுவில் தொடர்பில் சட்டமா அதிபர் ஆஜராகுவதற்கு மறுத்துள்ளார்.
+
+தெல்தெனிய பொலிஸ் நிலைய பொறுப்பதிகாரி உள்ளிட்ட பொலிஸ் உத்தியோகத்தர்கள் சார்பில் சட்டமா அதிபர் ஆஜராக மாட்டார் என சட்டமா அதிபர் உயர் நீதிமன்றத்திற்கு திங்கட்கிழமை (14) அறிவித்துள்ளார்.
+
+தெல்தெனிய பொலிஸாரால் ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு, தடுத்துவைத்திருந்த போதே, மூட்டைக்கொச்சிக்காய் (நைமிளகாய்) கறைத்து அவருடைய ஆணுறுப்பில் ஊற்றியுள்ளனர்.
+
+இது மிகவும் பாரதூரமான சம்பவம் என்பதால், பிரதிவாதியான பொலிஸ் உத்தியோகத்தர்கள் சார்பில் ஆஜராகாமல் இருப்பதற்கு சட்டமா அதிபர் தீர்மானித்துள்ளார் என சட்டமா அதிபர் சார்பில் ஆஜரான பிரதி சொலிசிட்டர் ஜெனரல் மாதவ தென்னக்கோன் தெரிவித்துள்ளார்.
+
+இந்த மனு உயர் நீதிமன்ற நீதியரசர்களான யசந்த கோதாகொட மற்றும் குமுதுனி விக்ரமசிங்க முன்னிலையில் விசாரணைக்கு வந்தது.
+
+...
+
+[Data](articles/259be55d.json)
 
 ---
 
@@ -2249,75 +2379,5 @@ Herath, speaking at his first formal engagement with the diplomatic community, s
 [Data](articles/b46aa1f6.json)
 
 [Extended Data](ext_articles/b46aa1f6.ext.json)
-
----
-
-### China pledges deeper anti-fraud law enforcement cooperation with SL following major arrests
-
-*2024-10-15 03:04:23* · [`dailyftlk`](https://www.ft.lk/news/China-pledges-deeper-anti-fraud-law-enforcement-cooperation-with-SL-following-major-arrests/56-767977) · `en`
-
-Chinese Embassy voices support for local law enforcement agencies, emphasising need to crack down on criminals while ensuring their legitimate rights are upheld
-
-Highlights severity of telecom and online fraud, calling it a serious threat to both nations and affects friendship between the countries
-
-Claims they have been working with SL Police and as a result a significant number of suspects were apprehended, with efforts now underway to repatriate and prosecute
-
-China has expressed its commitment to enhancing anti-fraud law enforcement cooperation with Sri Lanka following the arrest of numerous foreign suspects involved in online scams, including several Chinese nationals.
-
-In a statement issued yesterday, the Chinese Embassy in Sri Lanka voiced its support for local law enforcement agencies, emphasising the need to crack down on criminals while ensuring that their legitimate rights are upheld in accordance with the law.
-
-...
-
-[Data](articles/40d9642b.json)
-
-[Extended Data](ext_articles/40d9642b.ext.json)
-
----
-
-### Our voice sounds as the voice of the fishermen - Gnanaprakasam Sulakshan
-
-*2024-10-15 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/196310) · `ta`
-
-Candidate promises to raise northern fishermen and upcountry Tamil concerns in parliament. Criticizes politicians for failing to address issues post-election. Party joins United Freedom Alliance seeking representation.
-
-🟩
-
-Gnanaprakasam Sulakshan, the chief candidate of the Jaffna Election District of the United National Freedom Front district, said that the voices of the Northern Fishermen and the livelihoods of the upcountry Tamils ​​living in the North will be raised and their voices will be sounded in parliament.
-
-Jaffna in glass symbolThe introduction of the candidate in the electoral district was held on Sunday (14) at a guest hostel in Jaffna.
-
-The livelihoods of the fishermen should be upgraded. Similarly, the livelihoods of the upcountry Tamils ​​living in the North should be improved.
-
-Politicians come to meet us every election period. Promises to improve our livelihoods and solve problems. They will not find us after the election.
-
-That is why I am contesting the election in our villages and our communities.
-
-Speaking at the event, Progressive Tamil National Party Secretary Sudarsingh Vijayakanth addressed the gathering.
-
-...
-
-[Data](articles/5b85b7f7.json)
-
-[Extended Data](ext_articles/5b85b7f7.ext.json)
-
----
-
-### VAT hike in Sri Lanka: Who really pays the price?
-
-*2024-10-15 02:49:39* · [`dailyftlk`](https://www.ft.lk/columns/VAT-hike-in-Sri-Lanka-Who-really-pays-the-price/4-767971) · `en`
-
-The recent VAT revisions have hit the poorest the hardest, whereas the bottom 10% of income group households now spend about 10% of their income on VAT
-
-The VAT burden has risen by approximately 50%, primarily due to the removal of VAT exemptions on around 100 items
-
-This blog offers potential solutions for easing the VAT burden in Sri Lanka
-
-Earlier this year, Sri Lanka introduced major changes to the Value Added Tax (VAT) system. The VAT rate increased from 15% to 18%, and tax exemptions were removed for 97 items, including essential goods such as gas and stationery. While these revisions aimed to boost Government revenue, they have also significantly increased the tax burden on low-income households, making life even more challenging for the most vulnerable during this ongoing crisis. This blog offers a comprehensive overview of the recent VAT revision and potential solutions for easing the VAT burden in Sri Lanka.
-
-...
-
-[Data](articles/4e92b0b7.json)
-
-[Extended Data](ext_articles/4e92b0b7.ext.json)
 
 ---

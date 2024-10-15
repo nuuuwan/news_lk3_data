@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 20:23:26**
+As of **2024-10-15 20:39:10**
 
 ## Newspaper Stats
 
-*Scraped **49,682** Articles*
+*Scraped **49,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 499
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
-adalk | 4,617
+adalk | 4,618
 dailymirrorlk | 4,733
-adaderanalk | 5,882
+adaderanalk | 5,883
 tamilmirrorlk | 6,796
 virakesarilk | 7,952
 adaderanasinhalalk | 8,603
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,603
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,682 (100.0%) of 49,682 articles have been extended.
+49,684 (100.0%) of 49,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Canada expels top India diplomats, links them to murder of Sikh leader
+
+*2024-10-15 20:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102719/canada-expels-top-india-diplomats-links-them-to-murder-of-sikh-leader) · `en`
+
+Canada expelled six Indian diplomats including the high commissioner on Monday, linking them to the murder of a Sikh separatist leader and alleging a broader effort to target Indian dissidents in Canada.
+
+Earlier in the day, India retaliated by ordering the expulsion of six high-ranking Canadian diplomats including the acting high commissioner and said it had withdrawn its envoy from Canada, contradicting Canada’s statement of expulsion.
+
+The diplomatic row represents a major deterioration of relations between the two Commonwealth countries. Ties have been frayed since Canadian Prime Minister Justin Trudeau said last year he had evidence linking Indian agents to the assassination of Sikh leader Hardeep Singh Nijjar on Canadian territory.
+
+The government now has “clear and compelling evidence that agents of the government of India have engaged in and continue to engage in activities that pose a significant threat to public safety,” Trudeau said at a news conference.
+
+...
+
+[Data](articles/f9079700.json)
+
+[Extended Data](ext_articles/f9079700.ext.json)
+
+---
 
 ### Two children arrested on suspicion
 
@@ -192,11 +212,17 @@ State appointments are not made to eligible. Rather, it is provided to members o
 
 *2024-10-15 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102718/one-person-killed-in-shooting-in-matara) · `en`
 
-A person has been shot and killed by an unidentified gunman in the Kekanadura area in Matara this evening (15), police said.
+A person has been shot and killed by an unidentified gunman in the Ruwanwella area in Matara this evening (15), police said.
 
-The victim was reportedly travelling in a three-wheeler when he was shot by an individual who had arrived in a car.
+The victim was travelling in a three-wheeler when he was shot by an individual who had arrived in a car, the police spokesman’s office said.
 
-It is also reported that the shooting victim had been operating as a “vehicle seizer”.
+The deceased has been identified as a 53-year-old resident of Matara.
+
+Police said that preliminary investigations have uncovered that the shooter had arrived in a car and opened fire at the victim who was traveling in a three—wheeler while a pistol had been used to carry out the shooting.
+
+The motive behind the shooting is yet to be ascertained while Matara Police is conducting further investigations to apprehend the suspects involved.
+
+However, it is also reported that the shooting victim had been operating as a “vehicle seizer”.
 
 ◼️
 
@@ -273,6 +299,34 @@ Telecommunications and e -commerce scams began in China in the 1990s. Since then
 [Data](articles/60a112af.json)
 
 [Extended Data](ext_articles/60a112af.ext.json)
+
+---
+
+### Rs.24 billion fines to the Russians who went the gene soft
+
+*2024-10-15 18:29:51* · [`adalk`](https://www.ada.lk/breaking_news/ජාන-සොරකමේ-ගිය-රුසියානුවන්ට-කෝටි-11-හමාරක-දඩයක්/11-412510) · `si`
+
+Two Russians fined Rs.24 billion for wildlife violations in Sri Lanka. They pleaded guilty to collecting 230 biological resources, including frogs. Their passports were seized. Case closed August 29, 2024.
+
+🟩
+
+Embilipitiya Magistrate Dilum Fernando was a fine of Rs.
+
+The Wildlife Department has fined the two Russians who have been sentenced to Rs.The passports of the defendants of the defendants took the passports of the two Russians.
+
+The charges were fined for the acceptance of guilt and Savali Alexandrovich (18) and Nicolai (21) in Moscow, Russia.
+
+The country, designated as hell in the World Heritage Forest and Suriruja, the World Heritage Forest and Suriruja, which is designated in the World Heritage Forest and Suriruja, which is designated between the August 29, 2024, was endemic to Sri Lanka.The two defendants had filed 1067 separate charges on the gathering of 230 biological resources including frogs.
+
+The defendant's Russian couple appeared in court when the case was called.
+
+They informed the judiciary that they would accept the accusations after the defendant Russian couple against the defendant Russian couple.
+
+◼️
+
+[Data](articles/bf4d055c.json)
+
+[Extended Data](ext_articles/bf4d055c.ext.json)
 
 ---
 
@@ -2437,47 +2491,5 @@ Tenders won’t be called for e-passport suppliers at this time due to a court o
 [Data](articles/e541ef3e.json)
 
 [Extended Data](ext_articles/e541ef3e.ext.json)
-
----
-
-### Back on table: $5 bil­lion road, rail link between India and Sri Lanka
-
-*2024-10-15 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102699/back-on-table-5-billion-road-rail-link-between-india-and-sri-lanka) · `en`
-
-Discussions are in the final stages for a $5 billion road-and-rail link between India and Sri Lanka with India set to bear the cost of the stra­tegic project, said the island-nation’s environment secretary Prabath Chandrakeerthi.
-
-This is the first big bilat­eral infra­struc­ture project announced by the island nation since the recent election of President Anura Kumara Dissanayake amid efforts by New Delhi to counter Chinese influence.
-
-India is Sri Lanka’s largest trade partner and one of the largest foreign direct investment (FDI) contributors. Indian invest­ment in Sri Lanka amounted to about $142 mil­lion in 2021.
-
-...
-
-[Data](articles/e79c40b6.json)
-
-[Extended Data](ext_articles/e79c40b6.ext.json)
-
----
-
-### Members including the Chairman of the University Grants Commission resigns
-
-*2024-10-15 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196316) · `ta`
-
-University Grants Commission members, including Chairman, resign due to term end. Senior Professor Sampath Amaratunga steps down along with other officials. President Anura Kumara Dissanayake announces resignation of all members. Their terms were set to expire in 2025.
-
-🟩
-
-Members, including the Chairman of the University Grants Commission, have resigned from their posts.
-
-Following the announcement made by the Presidential Secretariat, members of the University Grants Commission have resigned from their posts.
-
-Accordingly, Senior Professor Sampath Amaratunga, Chairman of the University Grants Commission and its Vice President. President Anura Kumara Dissanayake has announced in writing that Udawatta and members will resign their positions.
-
-It is noteworthy that the tenure of the members of the University Grants Commission, which was appointed in 2020, was completed in 2025.
-
-◼️
-
-[Data](articles/33beb350.json)
-
-[Extended Data](ext_articles/33beb350.ext.json)
 
 ---

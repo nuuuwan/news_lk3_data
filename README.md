@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 08:59:06**
+As of **2024-10-15 09:13:07**
 
 ## Newspaper Stats
 
-*Scraped **49,552** Articles*
+*Scraped **49,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,53 @@ newsfirstlk | 363
 dbsjeyarajcom | 401
 colombotelegraphcom | 493
 bbccomsinhala | 496
-islandlk | 2,941
+islandlk | 2,942
 economynextcom | 3,034
 dailyftlk | 3,363
 adalk | 4,600
 dailymirrorlk | 4,733
 adaderanalk | 5,860
 tamilmirrorlk | 6,766
-virakesarilk | 7,926
+virakesarilk | 7,927
 adaderanasinhalalk | 8,576
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,549 (100.0%) of 49,552 articles have been extended.
+49,554 (100.0%) of 49,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### 75 mm in some areas. There will be heavy rain
+
+*2024-10-15 08:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/196312) · `ta`
+
+Heavy rain expected in several provinces. Thunderstorms possible nationwide. Strong winds and lightning warnings issued. Sea conditions turbulent, especially near Galle-Matara-Hambantota. Wave heights over 2.5m predicted in coastal areas. Public advised to remain vigilant.
+
+🟩
+
+Senior Weather Officer Dr. Mohamed Saliheen said that frequent rainfall or thunderstorms are expected in Sabaragamuwa, Upper, North Western and Northern Provinces as well as in Galle, Matara, Kandy, Nuwara Eliya and Trincomalee districts.
+
+Heavy rains are likely to occur up to 75 millimeters in some parts of the Sabaragamuwa, Upper, North Western and Northern Provinces, as well as some parts of Galle, Matara and Trincomalee districts.
+
+Showers or thunderstorms can occur in many parts of the other parts of the country in the evening or night.
+
+The public is asked to act with vigilance in the events of strong winds and lightning.
+
+Showers or thunderstorms are likely to occur in many parts of sea regions around the country.
+
+In the marine regions, the wind blows from the southwest direction or from a different direction at speeds of 30 to40 km per hour.
+
+...
+
+[Data](articles/68ff4634.json)
+
+[Extended Data](ext_articles/68ff4634.ext.json)
+
+---
 
 ### Chairman and members of UGC resign
 
@@ -50,21 +78,29 @@ The official term of the members of the UGC, who were appointed to the positions
 
 [Data](articles/c590c8f4.json)
 
+[Extended Data](ext_articles/c590c8f4.ext.json)
+
 ---
 
-### ரயில் தடம்புரண்டது ; பயணிகளுக்கு முக்கிய அறிவிப்பு
+### The train was blocked;Key notice to travelers
 
 *2024-10-15 08:27:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்புரண்டது-பயணிகளுக்கு-முக்கிய-அறிவிப்பு/175-345473) · `ta`
 
-கொழும்பு கோட்டை மற்றும் மருதானை ரயில் நிலையங்களுக்கு இடையில் ரயில் ஒன்று தடம் புரண்டதால் ரயில் சேவைகள் தடைப்பட்டுள்ளன.
+Train derailed between Colombo Fort and Maradana stations. Services blocked due to accident. Delay expected on main and coastal routes.
 
-இன்று (15) காலை 7 மணியளவில் மட்டக்களப்பில் இருந்து கோட்டை நோக்கி பயணித்த ரயில்  தடம் புரண்டதாக புகையிரத திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-இதன்படி, பிரதான பாதை மற்றும் கரையோரப் பாதைகளில் ரயில்களை இயக்குவதில் தாமதம் ஏற்படலாம் என ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+Train services have been blocked as a train derails between the Colombo Fort and the Maradana railway stations.
+
+The Railway Department said that the train traveling from Batticaloa to Fort at 7 am today (15).
+
+According to the Railway Department, there will be a delay in operating trains on the main route and coastal routes.. Remble
 
 ◼️
 
 [Data](articles/ae44cca8.json)
+
+[Extended Data](ext_articles/ae44cca8.ext.json)
 
 ---
 
@@ -228,21 +264,35 @@ Accordingly, train services on the main line and the coastal line could experien
 
 ---
 
-### උපාධිධාරී තරුණියක් අනාරක්ෂිත උඩුමහලින් වැටී මරුට
+### Graduate girl falls falls off unprotected upstairs
 
 *2024-10-15 07:47:17* · [`adalk`](https://www.ada.lk/breaking_news/උපාධිධාරී-තරුණියක්-අනාරක්ෂිත-උඩුමහලින්-වැටී-මරුට/11-412496) · `si`
 
-නේවාසිකාගාර සපයන්නන් ඒවා  ලබාගන්නන්ගේ ජීවිත තුට්ටු දෙකට දමා ආරක්ෂාව සම්බන්ධයෙන්  අබමල් රේණුවක තැකීමක් නොකර මාසය අන්තිමට මුදල්ම පමණක් ලබා ගැනීමට කටයුතු කිරීම හේතුවෙන් සිදු වූ   අවාසනාවන්ත අකල් මරණයක තොරතුරු තලංගම පොලිස් වසමෙන් වාර්තා වීය.
+Here's a summary of the text in approximately 200 characters:
 
-අඩක් වැඩ නිම කරන ලද දෙමහල් නිවසේ උඩුමහලේ පිටුපස අනාරක්ෂිත  කොටසින් පහළට වැටී  රූමත් අවිවාහක උපාධිධාරී  තරුණියක් මියගොස් ඇතැයි තලංගම පොලිසිය කියයි
 
-අනතුරින් මියගොස් ඇත්තේ දේශීය ආදායම් දෙපාර්තමේන්තුවේ කළමනාකරණ සහකාර ලෙස සේවය කළ නිවිතිගල,  ගාල්ලගේ මණ්ඩිය පදිංචිව සිටි හංසනි භාග්‍යා ජයතිලක නැමැති  (30) හැවිරිදි  තරුණියයි
 
-මියගිය තරුණිය  තවත් තරුණියන් තිදෙනෙකු සමග බත්තරමුල්ල ප්‍රධාන වීදිය සම්පත් පෙදෙසේ   දෙමහල් නිවසේ උඩුමහලේ පිටුපස කොටසේ තාවකාලිකව නවාතැන් ගෙන සිටින අතර  ඉකුත්  සිකුරාදා (11) ඇය රැකියාව නිමවා සවස 6.40  ට පමණ පැමිණ ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+A 30-year-old woman named Hansni Bashe Jayathilaka fell to her death while visiting friends in a two-story house in Battaramulla. She was a Department of Inland Revenue employee. The incident occurred when she was alone in the bathroom, likely due to lack of supervision.
+
+🟩
+
+The unfortunate untimely death of the Talangama Police have reportedly reported the monthly premature death of the month to leave a land for the two lives.
+
+Talangama Police say that a large number of unsecured graduate girl has died of the unprotected portion of the two storied house.
+
+The deceased has been identified as Hansni Bashe Jayathiyya, a resident of the Department of Inland Revenue Assistant, (30)
+
+Police investigations have revealed that she had come to the atmosphere of the two storied house in Battaramulla, Battaramulla with three other girls.
+
+She had come to a friend at the Land Registrar's Office, who was living in the room with her.
+
+In the meantime, the friend washed the bathroom and washing the bathroom, and she had not seen a friend from the room, she had fallen to the ground and settled in the back of the room.Police say house has been told
 
 ...
 
 [Data](articles/06e20510.json)
+
+[Extended Data](ext_articles/06e20510.ext.json)
 
 ---
 
@@ -947,6 +997,28 @@ His words encapsulate the core mission of the Fintech Forum—a collaborative ef
 [Data](articles/15342d5a.json)
 
 [Extended Data](ext_articles/15342d5a.ext.json)
+
+---
+
+### Handing over ceremony of computers to Korea Corner at the Colombo Public Library
+
+*2024-10-14 23:24:00* · [`islandlk`](http://island.lk/handing-over-ceremony-of-computers-to-korea-corner-at-the-colombo-public-library/) · `en`
+
+On the 12th of October 2024, the Embassy of the Republic of Korea in Sri Lanka held a handing-over ceremony of 10 fully-fledged computers to the Korea Corner in the Colombo Public Library.
+
+Korean Ambassador, Her Excellency Miyon Lee handed over the computers to Korea Corner with the hope that the donation would benefit all students already studying Korean language and who are looking forward to experience Korean culture at the Korea Corner.
+
+The Korea Corner developed into a popular space which provides Sri Lankans not only with Korean Drama, K-Pop videos and books on various categories about Korea, but also with Korean language classes. There is growing popularity for the Korean culture and language in Sri Lanka and this donation will be useful for more students at the Korea Corner.
+
+HelpAge Sri Lanka invites support for its “Gift of Sight” campaign
+
+Hela Apparel Holdings completes successful Rights Issue, raising LKR 1.6 billion
+
+...
+
+[Data](articles/778fc039.json)
+
+[Extended Data](ext_articles/778fc039.ext.json)
 
 ---
 
@@ -2335,45 +2407,5 @@ The ballot for the Elpitiya Pradeshiya Sabha election will be distributed from O
 [Data](articles/fcca1c82.json)
 
 [Extended Data](ext_articles/fcca1c82.ext.json)
-
----
-
-### Notice issued on school closures in flood-affected areas
-
-*2024-10-14 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102683/notice-issued-on-school-closures-in-flood-affected-areas) · `en`
-
-The Ministry of Education has instructed the Provincial Chief Secretaries, Provincial Secretaries and the Directors of Education to discuss and take necessary steps on whether or not to open schools in areas affected by the prevailing adverse weather.
-
-The Education Ministry communicated this in a statement issued pertaining to the matter this afternoon (14).
-
-Meanwhile, all government schools in the Gampaha, Kelaniya, Kolonnawa and Kaduwela educational zones will remain closed tomorrow (15) as decided by the Provincial Education authorities on Sunday (13).
-
-◼️
-
-[Data](articles/7d81a9b3.json)
-
-[Extended Data](ext_articles/7d81a9b3.ext.json)
-
----
-
-### Ministry of Education announced on leave of leave
-
-*2024-10-14 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202161) · `si`
-
-Ministry of Education announces school closures due to inclement weather. Chief Secretary grants leave to schools after consultation with District Disaster Management Committees.
-
-🟩
-
-The Ministry of Education has issued a special announcement on the inclement weather conditions that have affected the island.
-
-The Ministry of Education has instructed the Chief Secretary, the Chief Secretary, Provincial Education Secretary or Provincial Education Secretary or Provincial Director of Education in order to grant leave to schools.
-
-In a statement, the Ministry said that the present weather conditions have been discussed with the District Disaster Management Committees due to the current weather conditions.
-
-◼️
-
-[Data](articles/081b2518.json)
-
-[Extended Data](ext_articles/081b2518.ext.json)
 
 ---

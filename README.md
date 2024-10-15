@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 13:23:39**
+As of **2024-10-15 13:39:42**
 
 ## Newspaper Stats
 
-*Scraped **49,615** Articles*
+*Scraped **49,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 497
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
-adalk | 4,607
+adalk | 4,608
 dailymirrorlk | 4,733
 adaderanalk | 5,874
 tamilmirrorlk | 6,783
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,587
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,615 (100.0%) of 49,615 articles have been extended.
+49,616 (100.0%) of 49,616 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -395,6 +395,34 @@ Consultant Community Physician at the National Dengue Control Unit (NDCU) Dr. An
 [Data](articles/de56bb98.json)
 
 [Extended Data](ext_articles/de56bb98.ext.json)
+
+---
+
+### Bus driver dies after falling
+
+*2024-10-15 11:12:55* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රියදුරු-බසයටම-ගෙල-සිරව-මරුට/11-412499) · `si`
+
+Bus driver dies after falling into wheel well. Identified as Ranhontinara Anura Randeniya. Incident occurred in Malabe. Police investigating. Post-mortem scheduled. Safety cameras advised.
+
+🟩
+
+The head of the heads of the right hand inside a garage in Parakawa Mawatha, Malabe, was drowned in the right side of the wheel and to check whether it was dumped into the head.Says.
+
+The deceased has been identified as Ranhontinara Anura Randeniya, Walawela, Wattaramaya, Wattawatta, No. 36 / c
+
+The bus is down the wheel of the right side of a private car parking buses that are transported to the most luxury buses transporting the buses and see if the bus is removed and then checking the head in the head.The bus is back at once and is said to have a harm to the neck.
+
+The other employees were later implemented immediately and were rushed to the Talangama District Hospital for treatment, where the patient was examined.
+
+The police ordered the police to join the police investigation into the incident.
+
+Accordingly, the post mortem examination on the remains were to be held on the Colombo Police morgue (15).
+
+...
+
+[Data](articles/a4929fcc.json)
+
+[Extended Data](ext_articles/a4929fcc.ext.json)
 
 ---
 
@@ -2295,25 +2323,5 @@ Hela Apparel Holdings completes successful Rights Issue, raising LKR 1.6 billion
 [Data](articles/778fc039.json)
 
 [Extended Data](ext_articles/778fc039.ext.json)
-
----
-
-### Profit-takings among banking sector counters send bourse into bearish disposition
-
-*2024-10-14 23:22:00* · [`islandlk`](http://island.lk/profit-takings-among-banking-sector-counters-send-bourse-into-bearish-disposition/) · `en`
-
-The stock market indicated a bearish trend yesterday because profit- takings were noted among banking sector counters. However, other counters did fairly well, market analysts said.
-
-Further, plantation sector counters apparently performed well during the day, probably due to a tea price hike in the global market caused by dry weather conditions prevailing in India, which is one of the largest tea producers in the world.
-
-Further, apparel sector stocks also performed well due to healthy exports in the sector, compared to last year.
-
-Apart from that, the JKH share price also moved up due to the opening of its flagship, “Cinnamon Life” project today.
-
-...
-
-[Data](articles/5f139583.json)
-
-[Extended Data](ext_articles/5f139583.ext.json)
 
 ---

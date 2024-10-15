@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 13:59:05**
+As of **2024-10-15 14:12:57**
 
 ## Newspaper Stats
 
-*Scraped **49,616** Articles*
+*Scraped **49,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,144 @@ adalk | 4,608
 dailymirrorlk | 4,733
 adaderanalk | 5,874
 tamilmirrorlk | 6,783
-virakesarilk | 7,935
-adaderanasinhalalk | 8,587
+virakesarilk | 7,937
+adaderanasinhalalk | 8,589
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,616 (100.0%) of 49,616 articles have been extended.
+49,620 (100.0%) of 49,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Special statement from Ranil
+
+*2024-10-15 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202198) · `si`
+
+Ranil Wickremesinghe, former UNP president, to make special statement on 17th. First public address post-presidential election. To discuss political situation and future plans. Declines participation in next election and Gas Cylinder controversy.
+
+🟩
+
+Former President of the UNP, Ranil Wickremesinghe is scheduled to make a special statement on Thursday (17).
+
+This is the first time Ranil Wickremesinghe makes a public statement since the presidential election.
+
+Ranil Wickremesinghe is due to be revealed in the country's political behavior as well as the future plans.
+
+Wickremesinghe has decided not to contest the next election as well as the Gas Cylinder of the Gas Cylinder.
+
+◼️
+
+[Data](articles/2d99224f.json)
+
+[Extended Data](ext_articles/2d99224f.ext.json)
+
+---
+
+### A red announcement from the weather
+
+*2024-10-15 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202197) · `si`
+
+Red alert: Heavy rain, strong winds, rough seas expected. Low-pressure system moving westward, affecting coastal areas. Shipping and fishing communities advised to exercise caution.
+
+🟩
+
+The Department of Meteorology has issued a red announcement on heavy rain, strong winds and the sea.
+
+Accordingly, the Bay of South Bay of Bengal has been told more careful.
+
+The lower pressure zone in the southeast Bay Bay of Bay of Bay of Bengal Bay of West has been placed in the mid-Bengal Bay of Baying Zealand today (15).
+
+It is likely to be a pressure recession in the next 2 days and heading the West in the sea will move to North Western, heading towards North Western, Puducheri and adjoining South Andhra Pradesh.
+
+Very strong winds (81 and 90 of) northern latitude. 60-70), there may be heavy rain and sea areas can be very rough.
+
+Shipping and fishing communities will be informed of the maritime of the maritime area in the following map.
+
+The Department of Meteorological Department also requests the fisheries and the naval community to pay attention to the future notices released.
+
+◼️
+
+[Data](articles/3f77c369.json)
+
+[Extended Data](ext_articles/3f77c369.ext.json)
+
+---
+
+### Travel on the Reform of International Monetary Fund - Fight against Corruption - Julisung among trade communities
+
+*2024-10-15 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196337) · `ta`
+
+US Ambassador Julisung: Economic reforms challenging but Sri Lanka on right path. IMF's EVF program demands governance reforms and anti-corruption measures. USAID Administrator Samantha Power discusses supporting small businesses. Recent elections reflect Sri Lankans' aspirations. Stronger governance needed for continued prosperity. Clear policies and regulations essential for business growth. Investment-friendly management system crucial for economic development. Future US-Sri Lanka business ties promising with focus on international monetary reform.
+
+🟩
+
+The US Ambassador to Sri Lanka, Julisung, said that economic reforms are difficult but Sri Lanka is on the right path.
+
+He was speaking at the annual meeting of the US Sri Lanka Trade Council in Colombo
+
+The EVF program of the International Monetary Fund is demanding economic governance reforms and forts against corruption.
+
+I recently had the opportunity to meet the new President and address these issues.
+
+A few days ago, the USAID's administrator Samantha Power telephoned your president on how to help the small middle industry, the important part of the Sri Lankan economy, and how we can help.
+
+Last month, we saw that the Sri Lankan people were invited to change through the ballot boxes. They expressed their expectations for the future of the country.
+
+The relationship between the United States and Sri Lanka is built on the basis of many mutual faith and shared values.
+
+...
+
+[Data](articles/80837332.json)
+
+[Extended Data](ext_articles/80837332.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-10-15 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196336) · `ta`
+
+US Dollar: 289.1796 INR buying, 298.1775 INR selling. Central Bank rate released Tuesday 15.
+
+🟩
+
+The US dollar purchasing price was 289.1796 rupees and the sales price were 298.1775 rupees based on a currency exchange rate released by the Central Bank on Tuesday (15).
+
+◼️
+
+[Data](articles/71af12eb.json)
+
+[Extended Data](ext_articles/71af12eb.ext.json)
+
+---
+
+### The Ministry of Health warns that there is a risk of spreading dengue
+
+*2024-10-15 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196319) · `ta`
+
+Dengue warning: 40,657 cases, 20 deaths this year. Risk in Colombo, Gampaha, Kalutara, Kandy, Ratnapura, Matara, Galle, Matale districts due to rainy weather.
+
+🟩
+
+The Ministry of Health has warned that dengue is at risk due to the prevailing rainy weather in the country.
+
+According to the National Dengue Control Division's Community Health Doctor Anoja Therasinghe, 40,657 dengue patients have been identified within the country this year.
+
+Dr. Anoja Therasinghe says 20 people have died of dengue this year.
+
+Dr. Anoja Therasinghe said that there is a risk of spreading dengue in the districts of Colombo, Gampaha and Kalutara, Kandy, Ratnapura, Matara, Galle and Matale.
+
+◼️
+
+[Data](articles/81d496da.json)
+
+[Extended Data](ext_articles/81d496da.ext.json)
+
+---
 
 ### Sahara Desert flooded for the first time in decades
 
@@ -77,30 +203,6 @@ When we are telling the people properly, we become a true politician. We are loo
 [Data](articles/f510d800.json)
 
 [Extended Data](ext_articles/f510d800.ext.json)
-
----
-
-### The Ministry of Health warns that there is a risk of spreading dengue
-
-*2024-10-15 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196319) · `ta`
-
-Dengue warning: 40,657 cases, 20 deaths this year. Risk in Colombo, Gampaha, Kalutara, Kandy, Ratnapura, Matara, Galle, Matale districts due to rainy weather.
-
-🟩
-
-The Ministry of Health has warned that dengue is at risk due to the prevailing rainy weather in the country.
-
-According to the National Dengue Control Division's Community Health Doctor Anoja Therasinghe, 40,657 dengue patients have been identified within the country this year.
-
-Dr. Anoja Therasinghe says 20 people have died of dengue this year.
-
-Dr. Anoja Therasinghe said that there is a risk of spreading dengue in the districts of Colombo, Gampaha and Kalutara, Kandy, Ratnapura, Matara, Galle and Matale.
-
-◼️
-
-[Data](articles/81d496da.json)
-
-[Extended Data](ext_articles/81d496da.ext.json)
 
 ---
 
@@ -780,13 +882,17 @@ ECONOMYNEXT – Sri Lanka’s cabinet of minsters have decided to order passport
 
 “We expect the first stock to come by next Monday,” minister Herath told a post-cabinet press briefing.
 
-Sri Lanka to purchase up to 750,000 e-passports without chips to face shortfall
+The earlier supplier agreed in court to supply passports at a specific cost, Herath said.
 
-Thales DIS Finland Oy had been chosen through a tender process to procure 5 million electronic passports at $5.06 each.
+“Considering the urgent need in the country, at a special cabinet meeting [held on Oct 11], we decided to approve the company providing 750,000 passports in batches.
 
-The island nation has long queues outside its passport office as the existing empty passport books were not adequate to meet the current demand as thousands of Sri Lankans are leaving the country. (Colombo/Oct15/2024)
+“We believe this will address the shortage soon. By Saturday we will get one batch and by Monday the new passports will be issued.
 
-◼️
+“But these 750,000 will last about four to five months and the need for more passports will arise. So the cabinet decided that we will call for tenders and order more.”
+
+Tenders won’t be called for e-passport suppliers at this time due to a court order, Herath said.
+
+...
 
 [Data](articles/e541ef3e.json)
 
@@ -2249,79 +2355,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/6073d8e1.json)
 
 [Extended Data](ext_articles/6073d8e1.ext.json)
-
----
-
-### VAT hike in Sri Lanka: Who really pays the price?
-
-*2024-10-14 23:35:00* · [`islandlk`](http://island.lk/vat-hike-in-sri-lanka-who-really-pays-the-price/) · `en`
-
-The recent VAT revisions have hit the poorest the hardest, whereas the bottom 10% of income group households now spend about 10% of their income on VAT.
-
-The VAT burden has risen by approximately 50%, primarily due to theremoval of VAT exemptions on around 100 items.
-
-This blog offers potential solutions for easing the VAT burden in Sri Lanka.
-
-Priyanka Jayawardena is a Research Economist at IPS with research interests in skills and education, demographics, health, and labour markets. Priyanka has around 15 years of research experience at IPS. She has worked as a consultant to international organisations including World Bank, ADB and UNICEF. She holds a BSc (Hons) specialised in Statistics and an MA in Economics, both from the University of Colombo. (Talk with Priyanka – priyanka@ips.lk)
-
-...
-
-[Data](articles/0f2f9e99.json)
-
-[Extended Data](ext_articles/0f2f9e99.ext.json)
-
----
-
-### Hela Apparel Holdings completes successful Rights Issue, raising LKR 1.6 billion
-
-*2024-10-14 23:26:00* · [`islandlk`](http://island.lk/hela-apparel-holdings-completes-successful-rights-issue-raising-lkr-1-6-billion/) · `en`
-
-Hela Apparel Holdings PLC has confirmed the successful completion of its rights issue, raising Rs. 1,596,826,135 through the issue of shares. This achievement reflects the strong support of the company’s shareholders and will contribute to the strengthening of the Hela Group’s balance sheet for future growth.
-
-The rights issue offered a total of 319,365,227 Ordinary Voting Shares to existing shareholders on a proportional basis. As a result of the subscriptions received from shareholders, including from the company’s top three shareholders, and applications for additional shares, the issue was successfully oversubscribed on the closing date.
-
-...
-
-[Data](articles/1789d9e1.json)
-
-[Extended Data](ext_articles/1789d9e1.ext.json)
-
----
-
-### ‘Fintech Forum ready to place Sri Lanka on global stage’
-
-*2024-10-14 23:25:00* · [`islandlk`](http://island.lk/fintech-forum-ready-to-place-sri-lanka-on-global-stage/) · `en`
-
-“The entire industry must come together to achieve true financial inclusion. It’s not something one entity can accomplish on its own,” said Channa de Silva, Chairman of the newly launched Fintech Forum, Sri Lanka and Chief Executive Officer of LankaPay, the National Payment Network of Sri Lanka.
-
-His words encapsulate the core mission of the Fintech Forum—a collaborative effort to unite the fragmented financial sector, including banks, non-banking financial institutions and fintech providers, to drive innovation and ensure that digital financial services are accessible to all Sri Lankans. This industry association serves as a unified platform for fintech companies, startups, investors, and other stakeholders to collaborate, share knowledge, and promote the growth of the fintech ecosystem in the country.
-
-...
-
-[Data](articles/15342d5a.json)
-
-[Extended Data](ext_articles/15342d5a.ext.json)
-
----
-
-### Handing over ceremony of computers to Korea Corner at the Colombo Public Library
-
-*2024-10-14 23:24:00* · [`islandlk`](http://island.lk/handing-over-ceremony-of-computers-to-korea-corner-at-the-colombo-public-library/) · `en`
-
-On the 12th of October 2024, the Embassy of the Republic of Korea in Sri Lanka held a handing-over ceremony of 10 fully-fledged computers to the Korea Corner in the Colombo Public Library.
-
-Korean Ambassador, Her Excellency Miyon Lee handed over the computers to Korea Corner with the hope that the donation would benefit all students already studying Korean language and who are looking forward to experience Korean culture at the Korea Corner.
-
-The Korea Corner developed into a popular space which provides Sri Lankans not only with Korean Drama, K-Pop videos and books on various categories about Korea, but also with Korean language classes. There is growing popularity for the Korean culture and language in Sri Lanka and this donation will be useful for more students at the Korea Corner.
-
-HelpAge Sri Lanka invites support for its “Gift of Sight” campaign
-
-Hela Apparel Holdings completes successful Rights Issue, raising LKR 1.6 billion
-
-...
-
-[Data](articles/778fc039.json)
-
-[Extended Data](ext_articles/778fc039.ext.json)
 
 ---

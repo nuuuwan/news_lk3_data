@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 16:57:12**
+As of **2024-10-15 17:08:37**
 
 ## Newspaper Stats
 
-*Scraped **49,655** Articles*
+*Scraped **49,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ bbccomsinhala | 498
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
-adalk | 4,613
+adalk | 4,614
 dailymirrorlk | 4,733
 adaderanalk | 5,880
 tamilmirrorlk | 6,793
 virakesarilk | 7,941
-adaderanasinhalalk | 8,597
+adaderanasinhalalk | 8,598
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,655 (100.0%) of 49,655 articles have been extended.
+49,657 (100.0%) of 49,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### A weather forecast for next 36 hours
+
+*2024-10-15 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202208) · `si`
+
+Weather forecast: Southwest showers decrease, Northern Province thundershowers, Western provinces rain, evening thunderstorms island-wide. Public advised to take precautions against lightning accidents.
+
+🟩
+
+The Department of Meteorology has issued a new weather forecast, which is valid for the next 36 hours.
+
+The heavy showers in the southwest section of the island today is expected to be gradually reduced from today.
+
+Showers or thundershowers will occur at times in the Northern Province and Trincomalee. Heavy rains can occur more than 50.
+
+Several spells of showers in the Western, Sabaragamuwa and North Western provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
+
+Thundershowers will develop at several places in the evening or night in the other areas of the island.
+
+The public requests the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/46c5e4f9.json)
+
+[Extended Data](ext_articles/46c5e4f9.ext.json)
+
+---
 
 ### Advisory issued for naval and fishermen communities
 
@@ -389,6 +417,28 @@ It is noteworthy that the 34 -year -old Chandra Bose Dayalan, a 34 -year -old ma
 [Data](articles/e8bd7cb5.json)
 
 [Extended Data](ext_articles/e8bd7cb5.ext.json)
+
+---
+
+### West Indies - Sri Lanka's second T20 match today
+
+*2024-10-15 15:01:15* · [`adalk`](https://www.ada.lk/sports/කොදෙව්---ශ්‍රී-ලංකා-දෙවන-විස්සයි-20-තරගය-අද/9-412505) · `si`
+
+Sri Lanka vs West Indies 2nd T20: Today at 7:30 PM, Rangiri Dambulla International Stadium. West Indies leads series 1-0.
+
+🟩
+
+The Second T20 T20 cricket match against the tourist West Indies is scheduled to be held today (15).
+
+The match will be opened at Rangiri Dambulla International Stadium at 7.30 pm today.
+
+The West Indies won the first Twenty20 match between the two countries, the match of the three-match Trosie 20 of the Trosi 20, is a zero.
+
+◼️
+
+[Data](articles/fc0549d0.json)
+
+[Extended Data](ext_articles/fc0549d0.ext.json)
 
 ---
 
@@ -2373,49 +2423,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/15be9e3c.json)
 
 [Extended Data](ext_articles/15be9e3c.ext.json)
-
----
-
-### Call for the Secretaries of the parties today
-
-*2024-10-15 08:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சிகளின்-செயலாளர்களுக்கு-இன்று-அழைப்பு/175-345472) · `ta`
-
-Secretaries of contesting parties summoned by Elections Commission today. Discussion topics: general election cost limits and district-specific election expenses.
-
-🟩
-
-The secretaries of the parties contesting the election to discuss the general election have been invited to the Elections Commission today.
-
-Elections Commission Chairman RMAL Ratnayake said that the general election cost limitations will be discussed at this time.
-
-At the same time, he said that the election expenses of the respective districts will be discussed with the leaders of the independent committees.(a)
-
-◼️
-
-[Data](articles/18a71782.json)
-
-[Extended Data](ext_articles/18a71782.ext.json)
-
----
-
-### Thunderstorm in many areas
-
-*2024-10-15 07:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-இடியுடன்-கூடிய-மழை/175-345471) · `ta`
-
-Thunderstorms forecasted in Western, Sabaragamuwa, North Western, Northern Provinces and Galle, Matara, Kandy, Nuwara Eliya, Trincomalee districts. Heavy rainfall expected in several regions. Public advised to prepare for potential disasters.
-
-🟩
-
-The Department of Meteorology has forecast rain or thunderstorms in the Western, Sabaragamuwa, North Western and Northern Provinces and Galle, Matara, Kandy, Nuwara Eliya and Trincomalee districts today.
-
-Accordingly, 75 mm of rainfall will occur in the Sabaragamuwa, North Western and Northern Provinces and Galle, Matara and Trincomalee districts.
-
-The Department of Meteorology has urged the public to take steps to protect them from disasters in rains.. (A)
-
-◼️
-
-[Data](articles/e8423c05.json)
-
-[Extended Data](ext_articles/e8423c05.ext.json)
 
 ---

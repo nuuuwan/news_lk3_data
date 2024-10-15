@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 16:13:08**
+As of **2024-10-15 16:24:11**
 
 ## Newspaper Stats
 
-*Scraped **49,648** Articles*
+*Scraped **49,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,118 @@ bbccomsinhala | 498
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
-adalk | 4,611
+adalk | 4,613
 dailymirrorlk | 4,733
 adaderanalk | 5,879
-tamilmirrorlk | 6,791
+tamilmirrorlk | 6,793
 virakesarilk | 7,941
-adaderanasinhalalk | 8,595
+adaderanasinhalalk | 8,596
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,648 (100.0%) of 49,648 articles have been extended.
+49,653 (100.0%) of 49,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Bangladesh harassed Harunara
+
+*2024-10-15 16:04:22* · [`adalk`](https://www.ada.lk/sports/බංග්ලාදේශය-හතුරුසිංහට-හතුරු-වෙයි---වහාම-සේවය-අත්හිටුවයි/9-412506) · `si`
+
+Bangladesh cricket team faces turmoil: Head coach suspended, team banned for 48 hours, main training location to change.
+
+🟩
+
+Bangladesh head coach Chandika Hathurusinghe has been suspended for immediate effect.
+
+Bangladesh cricket has been banned for 48 hours for disciplinary reasons.
+
+He is also scheduled to remove Bangladesh main training.
+
+◼️
+
+[Data](articles/76e8ee01.json)
+
+[Extended Data](ext_articles/76e8ee01.ext.json)
+
+---
+
+### Hathurusinghe will be removed
+
+*2024-10-15 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202206) · `si`
+
+Chandika Hathurusinghe suspended as Bangladesh cricket coach. Former West Indies player named interim coach until 2025 Champions Trophy. Current president questioned about recovery process.
+
+🟩
+
+Bangladesh Cricket authorities have been suspended to suspend the discipline of Chandika Hathurusinghe, the main coach of the Bangladesh cricket team.
+
+It is reported that his service has been suspended for 48 hours and action will be taken to complete his service as immediately.
+
+Former West Indies is due to be the interim coach until the 2025 Champions Trophy.
+
+In February, Hathurushe joined the second group as the main cricket coach in Bangladesh.
+
+However, the former leaders and the present Cricket President Farooch Ahmed also have been questioned to recover.
+
+◼️
+
+[Data](articles/d82a34f9.json)
+
+[Extended Data](ext_articles/d82a34f9.ext.json)
+
+---
+
+### “The government will take action to recover tax money”
+
+*2024-10-15 16:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரிப்-பணத்தை-மீட்க-அரசாங்கம்-நடவடிக்கை-எடுக்கும்/175-345509) · `ta`
+
+Government vows to reclaim unpaid tax from convicted businessman. Cabinet spokesperson announces measures to recover 3.5 billion tax owed by WM Men's director.
+
+🟩
+
+Rs.. Cabinet Spokesperson Vijitha Herath said that the government will take steps to recover the tax money payable to the Director of WM Men's and Company Limited, who has been sentenced to six months' imprisonment for failing to pay a 3.5 billion tax.
+
+The suspect has been jailed for failing to pay taxes and only six months in jail for the government.. He said at a weekly meeting announcing the Cabinet decisions that the 3.5 billion tax would not be paid.
+
+We must intervene in the issue of recovering that tax money.
+
+◼️
+
+[Data](articles/ff4f9bd6.json)
+
+[Extended Data](ext_articles/ff4f9bd6.ext.json)
+
+---
+
+### Graduate female death
+
+*2024-10-15 15:55:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறி-விழுந்த-பட்டதாரி-பெண்-மரணம்/175-345508) · `ta`
+
+A 30-year-old graduate woman died after falling from the upper floor of her home. She was staying temporarily with friends in Battaramulla. The incident occurred around 6:40 pm on Friday. Police reported she was taken to Colombo National Hospital for treatment.
+
+🟩
+
+Talangama police said that a graduate woman died after falling from the insecure area of ​​the upper floor of the two -storey house, which was completed.
+
+Hansani Bhagya Jayatilaka, a 30 -year -old woman from Kallake Mandiya, who was appointed as the Management Assistant at the Department of Internal Affairs, has died.
+
+The woman has been temporarily staying with three more women in the back of the two -storey house in Battaramullai main road, Sampath Place.. When the girl went to 6.40 pm on Friday (11), her friend called her to prepare her shrimp fish for dinner.
+
+When the friend then went to the bathroom, he heard the sound of a scream and saw that his girlfriend was lying down from the top floor and immediately told the owner.
+
+Subsequently, the neighbors have been admitted to the Colombo National Hospital by ambulance and are being treated in the emergency department, police said.
+
+◼️
+
+[Data](articles/e9567a90.json)
+
+[Extended Data](ext_articles/e9567a90.ext.json)
+
+---
 
 ### Appointment of new chairman
 
@@ -495,6 +591,32 @@ This is the first time Ranil Wickremesinghe will make a public statement after t
 [Data](articles/879da1cb.json)
 
 [Extended Data](ext_articles/879da1cb.ext.json)
+
+---
+
+### Civil engineer dies after falling from roof
+
+*2024-10-15 14:01:40* · [`adalk`](https://www.ada.lk/breaking_news/සිවිල්-ඉංජිනේරුවරයා-වහලයෙන්-වැටී-මරුට/11-412503) · `si`
+
+Civil engineer dies after falling from roof during roofing work. Identified as 35-year-old Tennakoon Mudiyanselage Dhanushka Rukshan Rajapakse. Incident occurred in Pannipitiya. Police investigating cause of death.
+
+🟩
+
+A Mechanical Civil Engineer has died in a tenth-five feet tall to the ground in a two-folded place to install a roofing plate on the prevailing rainfall.
+
+The deceased has been identified as Tennakoon Mudiyanselage Dhanushka Rukshan Rajapakse, a 35/18 / C, a 35 year old father of Dhanushka Rukshan Rajapakse, Pannipitiya, Pannipitiya.
+
+The man's wife rose a roofing plate on a half and a half and a half and routine, rotating to the roof, to the ground, to the ground, and two feet of homes in a tenth stalls and two feet of homes while hearing it.Has caused accidents.
+
+This is the opening of a woman's adjacent house in the adjacent house, who has been opened and taken to the adjoining house in the adjoining house, and he has taken over the adjoining house, but he has taken the dead and said that he had died.
+
+The Emergency Death Inspector Purachchi Udaya Kumara was conducted and the remains of the remains were conducted and the remains of the remains were carried out by a location investigation.
+
+...
+
+[Data](articles/a6ffff1c.json)
+
+[Extended Data](ext_articles/a6ffff1c.ext.json)
 
 ---
 
@@ -1080,7 +1202,13 @@ Herath also assured that the government is of the stance that the importation of
 
 *2024-10-15 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102706/mangala-wijesinghe-appointed-edb-chairman-) · `en`
 
-The Chief Operating Officer of Brown & Company PLC, Mangala Wijesinghe has been appointed as the new Chairman of the Export Development Board (EDB).
+The Chief Operating Officer of Brown & Company PLC, Mangala Wijesinghe has been appointed as the new Chairman and Chief Executive Officer of the Export Development Board (EDB).
+
+Prior to this appointment, Wijesinghe served as the COO of Brown & Company PLC, one of the oldest diversified conglomerates in Sri Lanka.
+
+He holds a Bachelor’s Degree in Economics from the University of Sri Jayewardenepura and a Master of Business Administration (MBA) while he is also a Chartered Professional Manager in Sri Lanka.
+
+Wijesinghe takes over from veteran export professional Dr Kingsley Bernard, who assumed the Chairmanship of the Sri Lanka Export Development Board (EDB) on April 03, 2023.
 
 ◼️
 
@@ -1650,7 +1778,7 @@ Speaking at a function held at Kalutara Police Training School, the Defense Defe
 
 ---
 
-### Sri Lanka’s Official Poverty line sees slight drop in August 2024
+### Sri Lanka’s official poverty line sees slight drop in August 2024
 
 *2024-10-15 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102698/sri-lankas-official-poverty-line-sees-slight-drop-in-august-2024) · `en`
 
@@ -2285,139 +2413,5 @@ Accordingly, train services on the main line and the coastal line could experien
 [Data](articles/55975aee.json)
 
 [Extended Data](ext_articles/55975aee.ext.json)
-
----
-
-### Graduate girl falls falls off unprotected upstairs
-
-*2024-10-15 07:47:17* · [`adalk`](https://www.ada.lk/breaking_news/උපාධිධාරී-තරුණියක්-අනාරක්ෂිත-උඩුමහලින්-වැටී-මරුට/11-412496) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-A 30-year-old woman named Hansni Bashe Jayathilaka fell to her death while visiting friends in a two-story house in Battaramulla. She was a Department of Inland Revenue employee. The incident occurred when she was alone in the bathroom, likely due to lack of supervision.
-
-🟩
-
-The unfortunate untimely death of the Talangama Police have reportedly reported the monthly premature death of the month to leave a land for the two lives.
-
-Talangama Police say that a large number of unsecured graduate girl has died of the unprotected portion of the two storied house.
-
-The deceased has been identified as Hansni Bashe Jayathiyya, a resident of the Department of Inland Revenue Assistant, (30)
-
-Police investigations have revealed that she had come to the atmosphere of the two storied house in Battaramulla, Battaramulla with three other girls.
-
-She had come to a friend at the Land Registrar's Office, who was living in the room with her.
-
-In the meantime, the friend washed the bathroom and washing the bathroom, and she had not seen a friend from the room, she had fallen to the ground and settled in the back of the room.Police say house has been told
-
-...
-
-[Data](articles/06e20510.json)
-
-[Extended Data](ext_articles/06e20510.ext.json)
-
----
-
-### Couple bodies found in a house in Panadura
-
-*2024-10-15 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202182) · `si`
-
-Two bodies discovered in Panadura home: 47-year-old man and 42-year-old woman found dead. Police investigating suspected murder-suicide between acquaintances.
-
-🟩
-
-The bodies of a woman and a woman have been found in a house on Galugoda Sri Maha Viharaya, Panadura.
-
-The body of the woman is located on the ground and has been hanging in a bachelor of the house.
-
-It is reported that the two have a casual relationship.
-
-The police suspect that the woman was killed and hallled by the woman.
-
-The deceased has been identified as a 47 year old male and a 42 year old woman.
-
-Officers of the Panadura Divisional Secretariat have commenced investigations and Panadura South Police are conducting further investigations.
-
-◼️
-
-[Data](articles/1c337820.json)
-
-[Extended Data](ext_articles/1c337820.ext.json)
-
----
-
-### SriLankan suspended two pilots
-
-*2024-10-15 07:38:36* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-නියමුවන්-දෙදෙනෙකුගේ-සේවය-අත්හිටුවයි/11-412495) · `si`
-
-SriLankan Airlines suspends two pilots after incident at Katunayake airport. Main pilot failed to open cabin door for co-pilot entry. Investigation follows ICAO standards.
-
-🟩
-
-From the JIC of Sri Lanka Airport, the Katunayake airport, arrived in Sydney, arrived at the UL. The main pilot and his assistant pilot served on the plane was banned and commenced on them.Lann Airlines has issued a statement.
-
-The event has occurred because the main pilot had not opened the door to the pilot again to enter the pilot again to enter the pilot again.
-
-It has been revealed that the controversial situation of these pilots is backing.
-
-Accordingly, SriLankan Airlines has handed over the service of the pilots, following the specifications of the International Civil Aviation Institute's specifications, reports investigations.
-
-◼️
-
-[Data](articles/cd748c0d.json)
-
-[Extended Data](ext_articles/cd748c0d.ext.json)
-
----
-
-### Sri Lanka banking system repays debt or builds fx reserves of US$7.4bn since default
-
-*2024-10-15 07:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-repays-debt-or-builds-fx-reserves-of-us7-4bn-since-default-183543/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s banking system made up of the central bank and banks have repaid debt or built reserves of 7.39 billion US dollars since April 2022, when rates were hiked end inflationary policy that was keeping interest rates artificially low.
-
-Sri Lanka also selectively defaulted, halting the repayment of official bilateral and commercial debt but kept up payments of multilateral debt.
-
-Banks also continued to settle credit lines and other debts, which they could not roll-over due to downgrades which came from earlier forex shortages and open market operations.
-
-Though rates were hiked steeply in April 2022, the central bank continued to intervene and print money to sterilize Asian Clearing Union borrowings, delaying a correction in the balance of payments and its reserves fell further into negative territory.
-
-Deflationary policy started to show up in the balance of payments from September 2022.
-
-...
-
-[Data](articles/28947536.json)
-
-[Extended Data](ext_articles/28947536.ext.json)
-
----
-
-### Members of the University Grants Commission resign
-
-*2024-10-15 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202181) · `si`
-
-University Grants Commission members resign en masse. Chairperson and Vice President inform President of their departure. Term set to end March 2024.
-
-🟩
-
-Members of the University Grants Commission have resigned from hundreds of positions.
-
-It is reported that the resignation letters have been sent to the President yesterday.
-
-According to a statement made by the Presidential Secretariat, they had resigned from their terms.
-
-Accordingly, the Chairman of the University Grants Commission, Professor Sampath Amaratunga and Vice President Chandana P. Udawatte has informed that the relevant positions have been resigned from the date yesterday.
-
-In addition, the Commissioners of the University Grants Commission have also sent to the President.
-
-The term of members of the current University Grants Commission in the year 2020 was due to end in March next year.
-
-◼️
-
-[Data](articles/bb2b8fdd.json)
-
-[Extended Data](ext_articles/bb2b8fdd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 01:39:15**
+As of **2024-10-16 01:58:21**
 
 ## Newspaper Stats
 
-*Scraped **49,714** Articles*
+*Scraped **49,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,363
 adalk | 4,624
 dailymirrorlk | 4,733
 adaderanalk | 5,884
-tamilmirrorlk | 6,798
+tamilmirrorlk | 6,799
 virakesarilk | 7,958
 adaderanasinhalalk | 8,608
 
@@ -26,9 +26,27 @@ adaderanasinhalalk | 8,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,714 (100.0%) of 49,714 articles have been extended.
+49,714 (100.0%) of 49,715 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-16 (Wednesday)
+
+### மாத்தறையில் துப்பாக்கிச் சூடு: ஒருவர் பலி
+
+*2024-10-16 01:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறையில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-345531) · `ta`
+
+மாத்தறை - ருவன்வெல்ல பகுதியில் முச்சக்கரவண்டியில் பயணித்துக் கொண்டிருந்த ஒருவர் துப்பாக்கிச் சூட்டுக்கு இலக்காகி உயிரிழந்தார்.
+
+காரில் வந்த இனந்தெரியாத துப்பாக்கிதாரிகள் நேற்று மாலை குறித்த துப்பாக்கிச் சூட்டை நடத்திவிட்டுத் தப்பிச் சென்றுள்ளனர் என பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+உயிரிழந்தவர் மாத்தறை - கோட்டை பகுதியைச் சேர்ந்த 53 வயதுடையவரெனத் தெரியவந்துள்ளது.  (a)
+
+◼️
+
+[Data](articles/bb8ef1d1.json)
+
+---
 
 ### 2024-10-15 (Tuesday)
 
@@ -2521,31 +2539,5 @@ Cabinet spokesman Vijitha Herath said that the additional allowance paid for thi
 [Data](articles/2093a497.json)
 
 [Extended Data](ext_articles/2093a497.ext.json)
-
----
-
-### Penicated case
-
-*2024-10-15 12:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆணுறுப்பில்-மூட்டைக்கொச்சிக்காய்-அரைத்து-ஊற்றிய-வழக்கு/76-345494) · `ta`
-
-Attorney General refuses to defend police in penis grinding case. Petitioner claims illegal detention. Case heard before High Court judges.
-
-🟩
-
-The Attorney General has refused to appear in the fundamental rights violation filed by a youth in connection with the incident where the penis has been grinded and poured with its seeds.
-
-The Attorney General has announced to the High Court on Monday that the Attorney General will not appear on behalf of the police officers including the Teldeniya Police Station.
-
-When one of the Teldeniya police was arrested and detained, the bundle was stained and poured into his penis.
-
-Since this is a very serious incident, the Attorney General has decided to not appear on behalf of the defendant police officers, said Deputy Solicitor General Madhava Tennakoon, appearing on behalf of the Attorney General.
-
-The petition came up for hearing in the presence of High Court Judges Yasantha Gothagoda and Kumuduni Wickremasinghe.
-
-...
-
-[Data](articles/259be55d.json)
-
-[Extended Data](ext_articles/259be55d.ext.json)
 
 ---

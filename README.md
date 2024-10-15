@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 15:58:19**
+As of **2024-10-15 16:13:08**
 
 ## Newspaper Stats
 
-*Scraped **49,641** Articles*
+*Scraped **49,648** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 401
 colombotelegraphcom | 494
-bbccomsinhala | 497
+bbccomsinhala | 498
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
 adalk | 4,611
 dailymirrorlk | 4,733
-adaderanalk | 5,876
-tamilmirrorlk | 6,788
+adaderanalk | 5,879
+tamilmirrorlk | 6,791
 virakesarilk | 7,941
 adaderanasinhalalk | 8,595
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,595
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,641 (100.0%) of 49,641 articles have been extended.
+49,648 (100.0%) of 49,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Appointment of new chairman
+
+*2024-10-15 15:46:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-தலைவர்-நியமனம்/175-345507) · `ta`
+
+Brown & Company PLC appoints Mangala Wijesinghe as new chairman, replacing Dr. Kingsley Bernard who served as Chairman and CEO of EDB from April 2023.
+
+🟩
+
+Mangala Wijesinghe, Chief Operating Officer of Brown & Company PLC, has been appointed.
+
+Wijesinghe has been appointed to replace Dr. Kingsley Bernard, an executive expert who served as the Chairman and CEO of EDB from April 2023.
+
+◼️
+
+[Data](articles/803e197d.json)
+
+[Extended Data](ext_articles/803e197d.ext.json)
+
+---
+
+### “Shani's appointment is politically motivated”
+
+*2024-10-15 15:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷானியின்-நியமனம்-அரசியல்-உள்நோக்கம்-கொண்டது/175-345506) · `ta`
+
+"Shanani Abeysekera's appointment as Crime Division head is politically motivated, says SJB MP Harshana Rajakaruna. He claims it's linked to NPP support during the presidential election. However, expectations are high for revelations about the Easter Sunday bombings."
+
+🟩
+
+A United People's Power (SJB) MP today said that the appointment of Shanani Abeysekera Crime Division is a political motive.
+
+SJB former parliamentarian Harshana Rajakaruna said at a media briefing that Shani's appointment on the National People's Power (NPP) platform during the presidential election was a political motive.
+
+However, we expect that he will soon reveal those responsible for the Easter Sunday bombing.
+
+◼️
+
+[Data](articles/a3fbb06f.json)
+
+[Extended Data](ext_articles/a3fbb06f.ext.json)
+
+---
 
 ### Closed schools opened tomorrow
 
@@ -49,6 +91,46 @@ Provincial Education Directors have been filed to the Provincial Director of Edu
 [Data](articles/761c145a.json)
 
 [Extended Data](ext_articles/761c145a.ext.json)
+
+---
+
+### Petition to cancel the exam
+
+*2024-10-15 15:33:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சையை-இரத்து-செய்யக்கோரி-மனு/175-345505) · `ta`
+
+Here's a 200-character summary:
+
+
+
+27 students & parents sue SC to cancel Grade 5 Scholarship Exam. Petition filed by lawyer Manjula Balasuriya. Defendants: Commissioner General of Exams, PM, & Education Minister.
+
+🟩
+
+27 students, along with their parents, have filed a fundamental rights petition in the Supreme Court demanding the cancellation of the Grade 5 Scholarship Examination of the Grade 5 scholarship examination.
+
+The petition has been filed through the lawyer Manjula Balasuriya and the Commissioner General of Examinations Amit Jayasundara, Prime Minister and Education Minister Dr. Harini Amarasuriya have been referred to as defendants.
+
+◼️
+
+[Data](articles/9aad1f7a.json)
+
+[Extended Data](ext_articles/9aad1f7a.ext.json)
+
+---
+
+### Notice on reopening schools in Western and Southern provinces
+
+*2024-10-15 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102714/notice-on-reopening-schools-in-western-and-southern-provinces) · `en`
+
+The schools in the Western and Southern provinces which had remained closed yesterday (14) and today (15) will reopen tomorrow (16), the Provincial Secretaries of the respective provinces said.
+
+Meanwhile, the Provincial Directors of Education have been authorized to decide on reopening the schools affected by floods and those used as camps for displaced persons due to prevailing adverse weather conditions.
+
+◼️
+
+[Data](articles/f2a33a9e.json)
+
+[Extended Data](ext_articles/f2a33a9e.ext.json)
 
 ---
 
@@ -82,6 +164,26 @@ Responding to this announced that India and the Sri Lanka Acting Canadian High C
 
 ---
 
+### Govt. forms special committee to manage fuel prices amid Middle East tensions
+
+*2024-10-15 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102713/govt-forms-special-committee-to-manage-fuel-prices-amid-middle-east-tensions) · `en`
+
+The government has appointed a special committee to assess and manage potential increases in oil prices in response to the ongoing conflict in the Middle East.
+
+Cabinet Spokesperson Minister Vijitha Herath stated the decision comes as a proactive approach by the government to mitigate the impact of rising oil prices in the local market.
+
+He explained that the committee is currently reviewing recommendations based on an observation report submitted by the Ceylon Petroleum Corporation (CPC).
+
+“With the escalating conflict situation in the Middle East, there is a significant risk of oil prices increasing. The Ceylon Petroleum Corporation has already provided an observation report on the matter. This newly formed committee will actively intervene and develop strategies to control oil prices [in Sri Lanka] in the event of such a scenario,” Minister Herath stated.
+
+◼️
+
+[Data](articles/b762aff4.json)
+
+[Extended Data](ext_articles/b762aff4.ext.json)
+
+---
+
 ### University students to unique
 
 *2024-10-15 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202203) · `si`
@@ -99,6 +201,26 @@ The wasp attack on the area at Ruhuna University today (15), 6 students who were
 [Data](articles/2234bb51.json)
 
 [Extended Data](ext_articles/2234bb51.ext.json)
+
+---
+
+### FR petition against releasing 2024 Grade 05 Scholarship exam results
+
+*2024-10-15 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102712/fr-petition-against-releasing-2024-grade-05-scholarship-exam-results) · `en`
+
+A Fundamental Rights (FR) petition has been filed with the Supreme Court seeking an order preventing the release of 2024 Grade 05 Scholarship Examination results and the cut-off marks.
+
+The petitions were filed by the parents of several students who appeared for the 2024 Grade 05 Scholarship Examination which was held on September 15, 2024.
+
+On September 20, an investigation was launched by the Department of Examinations after it was alleged that three questions of one of the question papers from the exam had been leaked. Later, the initial investigation report was handed over to the Criminal Investigation Department (CID), which also launched a separate investigation into the matter.
+
+Meanwhile, the paper marking process of the Grade 5 Scholarship Examination, which was held on September 15, had been temporarily suspended, pending the investigation.
+
+...
+
+[Data](articles/9c8af464.json)
+
+[Extended Data](ext_articles/9c8af464.ext.json)
 
 ---
 
@@ -1578,6 +1700,40 @@ Prime Minister Modi and Justin Trudeau met face to face at the Asian conference 
 
 ---
 
+### 'It's never happened,' What happened in the UL 607 srilankan flight?
+
+*2024-10-15 09:51:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqjrxee049eo) · `si`
+
+Here's a summary of the incident involving UL 607 SriLankan Airlines in 200 characters:
+
+
+
+On September 21, a SriLankan Airlines flight experienced an unusual incident where the main pilot was locked out of the cockpit. The airline has launched investigations and suspended both pilots involved. Passenger safety remains the top priority for the airline.
+
+🟩
+
+'It's never happened,' What happened in the UL 607 srilankan flight?
+
+"An incident like a 45 year old Srilankan flight attendance has never happened before. The offenders involved in the incident take action against the wrongdoers of the incident, "SriLankankan Communications Manager Deepal Perera told the Sinhala service.
+
+There has been a strong conversation regarding a plane on a plane on September 21st.
+
+The controversy has taken place in the plane holding the UL 607 UL 607 of the SriLankan Airlines.
+
+It was flying from Sydney, Australia on September 21st.
+
+ITN recorded ITN, as a state television service, and returned to the toilet for body function, so the main pilot (CAPTAIN), the master pilot, the pilot pilot (Captain is unable to access the pilot chamberThe door has been locked. '
+
+The BREAKING AVIATION NEWS & VIDEOS X Social Media Channel had published the world's aircraft news and videos.
+
+...
+
+[Data](articles/edea6a72.json)
+
+[Extended Data](ext_articles/edea6a72.ext.json)
+
+---
+
 ### Saudi Arabia sends humanitarian aid to the people of Lebanon
 
 *2024-10-15 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196315) · `ta`
@@ -2263,151 +2419,5 @@ The term of members of the current University Grants Commission in the year 2020
 [Data](articles/bb2b8fdd.json)
 
 [Extended Data](ext_articles/bb2b8fdd.ext.json)
-
----
-
-### Issue of preferential numbers in general election today or tomorrow
-
-*2024-10-15 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202180) · `si`
-
-Elections Commission: Preferential numbers completion by tomorrow. Discussion with parties today about election activities and campaign spending limits.
-
-🟩
-
-The Elections Commission says that the preferentials of candidates relating to the parliamentary election will be completed by tomorrow (16).
-
-A spokesman said that the Election Commission has received the preferential number of districts in all districts.
-
-After inspecting the preferential numbers, the relevant documents are to be submitted again.
-
-Accordingly, the Elections Commission states that the issuance of preferential numbers will be held today (15) and tomorrow.
-
-Meanwhile, a discussion is scheduled to be held between the political party representatives and the Elections Commission.
-
-The discussion is scheduled to be held this morning and will discuss the future activities of the parliamentary election.
-
-It is also due to pay attention to the amount of money that a candidate should be spent on the parliamentary election.
-
-◼️
-
-[Data](articles/5200ad8f.json)
-
-[Extended Data](ext_articles/5200ad8f.ext.json)
-
----
-
-### TNA administration
-
-*2024-10-15 06:45:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தமிழரசுக்-கட்சி-நிர்வாகத்துக்கு-தடை-கோரி-வழக்கு/150-345470) · `ta`
-
-TNA administration: Markanda Natarasa sues TNA leaders Mawai Senathirajah, P. Satyalingam, Xavier Kulanayagam in Jaffna Magistrate's Court. Case filed by former Eastern Provincial Council member Markandu Nadarasa from Batticaloa-Fort.
-
-🟩
-
-The Tamil National Alliance (TNA) Lifestyle Member Markanda Natarasa has filed a lawsuit in the Jaffna Magistrate's Court, demanding the interim ban on the leader of the Sri Lanka Tamil National Alliance (TNA) and the executive secretary of the party.
-
-The Tamil National Party (TNA) leader Mawai Senathirajah, the General Secretary P. Satyalingam and Executive Secretary Xavier Kulanayagam are the opponents.
-
-The case was filed by former Eastern Provincial Council member Markandu Nadarasa from Batticaloa - Fort.. (A)
-
-◼️
-
-[Data](articles/dc473f39.json)
-
-[Extended Data](ext_articles/dc473f39.ext.json)
-
----
-
-### TNA administration
-
-*2024-10-15 06:45:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சி-நிர்வாகத்துக்கு-தடை-கோரி-வழக்கு/175-345470) · `ta`
-
-TNA leader Mawai Senathirajah faces lawsuit over interim ban. Former Eastern Provincial Council member Markandu Nadarasa sues TNA leaders Mawai Senathirajah, P. Satyalingam, and Xavier Kulanayagam in Jaffna Magistrate's Court.
-
-🟩
-
-The Tamil National Alliance (TNA) Lifestyle Member Markanda Natarasa has filed a lawsuit in the Jaffna Magistrate's Court, demanding the interim ban on the leader of the Sri Lanka Tamil National Alliance (TNA) and the executive secretary of the party.
-
-The Tamil National Party (TNA) leader Mawai Senathirajah, the General Secretary P. Satyalingam and Executive Secretary Xavier Kulanayagam are the opponents.
-
-The case was filed by former Eastern Provincial Council member Markandu Nadarasa from Batticaloa - Fort.. (A)
-
-◼️
-
-[Data](articles/f43ca5c8.json)
-
-[Extended Data](ext_articles/f43ca5c8.ext.json)
-
----
-
-### Showers in many areas today
-
-*2024-10-15 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202179) · `si`
-
-Heavy showers/thunderstorms expected in Western, Sabaragamuwa, North Western & Northern provinces today. Thunderstorms may develop in evening/night. Public advised to be cautious due to strong winds and lightning.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, North Western and Northern provinces today (15).
-
-The department states in the Western, Sabaragamuwa, North Western and Northern provinces, Galle, Sacred Trincomalee Districts. 75 Heavy rains can occur.
-
-Thundershowers will develop at several places in the evening or night during the evening or night.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/ae20d660.json)
-
-[Extended Data](ext_articles/ae20d660.ext.json)
-
----
-
-### BOI continues digital transformation:
-
-*2024-10-15 03:57:56* · [`dailyftlk`](https://www.ft.lk/business/BOI-continues-digital-transformation/34-767993) · `en`
-
-The Board of Investment (BOI) has established an online portal to streamline the clearance procedure for removing samples from zone firms with the Joint Apparel Association Forum (JAAF) and Sri Lanka Apparel Exporters Association (SLAEA), with the Biyagama Export Processing Zone (EPZ) officially implementing the new system. The move aims to improve efficiency and transparency for enterprises operating inside the zone.
-
-The inaugural ceremony emphasised the necessity of digitisng administrative procedures to help businesses run more smoothly, particularly those that manufacture for export. By transferring this critical licensing procedure online, the BOI hopes to cut delays, reduce paperwork, and assist businesses in achieving their production and export schedules more easily.
-
-...
-
-[Data](articles/c6b8696c.json)
-
-[Extended Data](ext_articles/c6b8696c.ext.json)
-
----
-
-### Lakshman Silva and Ashoka Goonesekere appointed to Melstacorp Board
-
-*2024-10-15 03:55:43* · [`dailyftlk`](https://www.ft.lk/business/Lakshman-Silva-and-Ashoka-Goonesekere-appointed-to-Melstacorp-Board/34-767992) · `en`
-
-Melstacorp PLC has recently announced the appointment of Lakshman Silva and Ashoka Goonesekere to the Board as Independent Non-Executive Directors.
-
-Silva started his professional career with the Department of Inland Revenue of Sri Lanka and joined the DFCC Banking Group in 1987. He was seconded to the service of DFCC Vardhana Bank in 2003 and functioned as the Chief Operating Officer until appointment as the CEO/Executive Director in January 2010. He held the position of Deputy CEO/Director of DFCC Bank PLC from October 2015 and was appointed as the CEO/Director in August 2017.
-
-...
-
-[Data](articles/ef457594.json)
-
-[Extended Data](ext_articles/ef457594.ext.json)
-
----
-
-### Daraz Sri Lanka launches Choice by AliExpress on platform to provide consumers with vast assortment and best prices
-
-*2024-10-15 03:52:34* · [`dailyftlk`](https://www.ft.lk/business/Daraz-Sri-Lanka-launches-Choice-by-AliExpress-on-platform-to-provide-consumers-with-vast-assortment-and-best-prices/34-767991) · `en`
-
-Daraz Sri Lanka, the country’s leading online marketplace, has collaborated with AliExpress Choice to introduce a new Choice channel on its platform, providing shoppers access to a curated selection of over 1 million top-rated products from popular categories including, fashion (watches, sunglasses, jewellery, bags, etc.) and health and beauty.
-
-Launched in 2023 to meet evolving customer needs, AliExpress Choice offers a curation of great-value products as well as enhanced services for better shopping experience. Choice is currently available to users in more than 50 markets.
-
-...
-
-[Data](articles/bd78bb2a.json)
-
-[Extended Data](ext_articles/bd78bb2a.ext.json)
 
 ---

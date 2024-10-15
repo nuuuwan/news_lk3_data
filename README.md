@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 12:25:43**
+As of **2024-10-15 12:39:14**
 
 ## Newspaper Stats
 
-*Scraped **49,601** Articles*
+*Scraped **49,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 4,605
 dailymirrorlk | 4,733
 adaderanalk | 5,873
 tamilmirrorlk | 6,776
-virakesarilk | 7,932
-adaderanasinhalalk | 8,586
+virakesarilk | 7,934
+adaderanasinhalalk | 8,587
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,601 (100.0%) of 49,601 articles have been extended.
+49,604 (100.0%) of 49,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Good news for pensioners
+
+*2024-10-15 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202196) · `si`
+
+Pension increase: Cabinet approves Rs. 3,000 interim allowance for October. Additional payment possible soon. Anomaly resolution ongoing.
+
+🟩
+
+Cabinet Spokesperson Vijitha Herath says that the pension will be added to Rs. 3,000 to the pension.
+
+The Cabinet was approved by the Cabinet to provide that amount as an interim allowance for October.
+
+Cabinet spokesman Vijitha Herath said that the additional allowance paid for this month could be obtained in the near future.
+
+...
+
+[Data](articles/2093a497.json)
+
+[Extended Data](ext_articles/2093a497.ext.json)
+
+---
 
 ### Government standing on import of vehicle
 
@@ -230,6 +252,32 @@ Consultant Community Physician at the National Dengue Control Unit (NDCU) Dr. An
 
 ---
 
+### We will win six seats in Jaffna - Doctor Aruchuna
+
+*2024-10-15 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196322) · `ta`
+
+Dr. Aruchuna predicts winning 6 seats in Jaffna. Focuses on serving the poor, opposing pseudo-nationalists. Emphasizes transparency and self-funding.
+
+🟩
+
+Yall. We will get six seats in the electoral district. "I have the desire to fail and accept as an athlete," said Dr. Ramanathan Aruchuna, the primary candidate of the Independent Committee 17.
+
+He was speaking at the launch of the candidate held at a private hotel in Jaffna on Monday (15).
+
+Our political journey will be a political journey for the poor. We will unite the personality for the needs of the people and bring the Tamil nationality on the right path.
+
+We have race the Tamil nationalist -speaking pseudo -nationalists. So the socially responsible youth should be taken to parliament. So the Tamil people should think and vote very much.
+
+We have carried out our struggle as a non -political struggle. When politicians point out their mistakes, they turned against me.
+
+...
+
+[Data](articles/27e0614b.json)
+
+[Extended Data](ext_articles/27e0614b.ext.json)
+
+---
+
 ### Govt. approves fuel subsidy for fishermen
 
 *2024-10-15 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102702/govt-approves-fuel-subsidy-for-fishermen) · `en`
@@ -245,6 +293,34 @@ Furthermore, Minister Herath assured that a subsidy of Rs. 15 per litre of keros
 [Data](articles/6a45c9e5.json)
 
 [Extended Data](ext_articles/6a45c9e5.ext.json)
+
+---
+
+### Train - Lorry collision accident;One injury
+
+*2024-10-15 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196321) · `ta`
+
+Lorry collides with train carrying tea near Hatton. One person injured. Train had no guard. Driver hit while reversing. Five workers in lorry. Assistant rushed to hospital.
+
+🟩
+
+Hatton police said that a lorry assistant was injured when a lorry collided with a train carrying tea.
+
+The accident occurred when a lorry carrying tea from Hatton Unfield garden to a tea factory collided with a train traveling from Hatton to Ella.
+
+At the site of the accident, the police said that the train safety was found, but there was no guard.
+
+At the time of the accident, the lorry driver was hit by the train when the lorry was trying to rear the lorry, police said.
+
+In the meantime, five plantation workers traveled in the back of the lorry and an assistant of the lorry was injured in the accident, police said.
+
+Subsequently, the Railway Security Officers took the injured lorry assistant to the hospital and the train was taken forward.
+
+◼️
+
+[Data](articles/0c0e117f.json)
+
+[Extended Data](ext_articles/0c0e117f.ext.json)
 
 ---
 
@@ -2203,105 +2279,5 @@ Internet frauds began to appear in China in the 1990s, and then spread over a la
 [Data](articles/059489fa.json)
 
 [Extended Data](ext_articles/059489fa.ext.json)
-
----
-
-### A warning of landslide for 24 hours
-
-*2024-10-14 20:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களுக்கு-மண்சரிவு-அபாய-எச்சரிக்கை/175-345454) · `ta`
-
-Landslide warning issued for 24 hours starting 4pm today. Affected areas include Kalutara, Kegalle, and Ratnapura districts.
-
-🟩
-
-The National Building Research Institute has issued a landslide hazard warning report for the next 24 hours from 4.00 pm today.
-
-Accordingly, the landslides warning notifications have been issued under the 2nd and the 1st of the Divisional Secretariat Divisions of the following districts.
-
-Kalutara District: - Valallavita, Horana, Ingiriya, Matugama, Kododa, Pulathsingha, Palindanuwara, Agalawatta
-
-Kegalle District:- Ruwanwella, Yattiyantottai, Tehiyovita, Varakapola, Pulathkohpitiya, Kegalle, Mawanella, Aranyaka, Teraniyakala.
-
-Ratnapura District: - Aheliyagoda, Kiriella, Ayagama, Elapada, Mixed, Ratnapura, Kuruvita.
-
-◼️
-
-[Data](articles/43d53a3e.json)
-
-[Extended Data](ext_articles/43d53a3e.ext.json)
-
----
-
-### Unfortunately the girl who has passed away from life
-
-*2024-10-14 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202175) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tragic accident in Battaramulla: Hansini fell from a high floor while cooking, died in ICU. Negligence suspected. Incident sparked social media discussions.
-
-🟩
-
-Over the loss of a mission or negligence can end even if life is lost.
-
-Battaramulla is reported from the Battaramulla area due to negligence.
-
-Hissinni was concluded with the end of the 11th at 6.40 pm on the 11th at 6.40 pm.
-
-She is staying with another friend in the upper road in a two storied house in Battaramulla.
-
-Hansini was preparing his dinner, and a screaming in the bathroom is a screaming with a sound that falls.
-
-The friend who was immediately removed from the bathroom with seeing Hansini, who had fallen from an insecure point following a lodge.
-
-No bumor or cover has been unavailable from the high floor directly.
-
-The residents of Hansani had taken place in the 1990 ambulance to be admitted to the Colombo National Hospital.
-
-However, Hanshini, who was receiving treatment at the Intensive Care Unit, had left the world last evening.
-
-Her misfortune death has been talked about in social media.
-
-If she had been renovated at her lodge, this is not the fate of life.
-
-Hanshini says:
-
-◼️
-
-[Data](articles/5bf81315.json)
-
-[Extended Data](ext_articles/5bf81315.ext.json)
-
----
-
-### 158,391 people are affected by inclement weather;Department
-
-*2024-10-14 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/196302) · `ta`
-
-158,391 affected by inclement weather. Flooding reported in Colombo, Kalutara, Galle, Matara, Gampaha districts. Heavy rainfall expected in several areas. Daily activities impacted due to rains.
-
-🟩
-
-158,391 people have been affected by inclement weather, the Disaster Management Center said.
-
-Due to the turbulence of the atmosphere around the island, 12 districts have been affected by rainfall.
-
-This has caused flooding in many parts of Colombo, Kalutara, Galle, Matara and Gampaha districts.
-
-கடந்த 24 மணித்தியாலங்களில் அதிகபட்சமாக 126.1 மில்லிமீற்றர் மழைவீழ்ச்சி அம்பாறை கல்முனை பிரதேசத்தில் பதிவாகியுள்ளது.
-
-Many of the neighboring areas, including Kalanimulla and Kaduwela, were flooded due to the river river, and the floods at the JL Kottukoda junction of the Colombo-Gurunagal main road were flooded.
-
-Many roads in the Kalutara district have been flooded due to the flow of Kaluganga and Kuduganga.
-
-However, the Department of Meteorology said that more than 100 millimeters of heavy rainfall is expected in several districts of the country on Monday (13) and Tuesday night.
-
-...
-
-[Data](articles/cd2dee3a.json)
-
-[Extended Data](ext_articles/cd2dee3a.ext.json)
 
 ---

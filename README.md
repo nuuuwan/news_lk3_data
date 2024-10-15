@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 11:23:25**
+As of **2024-10-15 11:39:54**
 
 ## Newspaper Stats
 
-*Scraped **49,584** Articles*
+*Scraped **49,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,60 +13,142 @@ dbsjeyarajcom | 401
 colombotelegraphcom | 493
 bbccomsinhala | 497
 islandlk | 2,942
-economynextcom | 3,034
+economynextcom | 3,035
 dailyftlk | 3,363
 adalk | 4,602
 dailymirrorlk | 4,733
-adaderanalk | 5,866
+adaderanalk | 5,869
 tamilmirrorlk | 6,776
 virakesarilk | 7,932
-adaderanasinhalalk | 8,582
+adaderanasinhalalk | 8,583
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,578 (100.0%) of 49,584 articles have been extended.
+49,589 (100.0%) of 49,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
 
-### පාස්පෝට් අර්බුදයට සඳුදා සිට තිත
+### Special fuel relief to fishermen
+
+*2024-10-15 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202192) · `si`
+
+Cabinet approves special fuel relief for fishermen starting Oct 1 to combat rising fuel costs.
+
+🟩
+
+The Cabinet approval has been given to provide special fuel relief to the fishing community from October 1 to address the fuel prices due to large amounts of fuel prices.
+
+◼️
+
+[Data](articles/d472c2ff.json)
+
+[Extended Data](ext_articles/d472c2ff.ext.json)
+
+---
+
+### Sri Lanka to acquire new debt management software to strengthen public debt oversight
+
+*2024-10-15 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102704/sri-lanka-to-acquire-new-debt-management-software-to-strengthen-public-debt-oversight) · `en`
+
+Sri Lanka’s government has moved forward with plans to enhance its public debt management capabilities, following the enactment of the Public Debt Management Act No. 33 of 2024. Under the provisions of Section 23 of the Act, the establishment of a Public Debt Management Office (PDMO) is mandated to ensure the timely, accurate, and detailed recording of public debt data through an efficient system.
+
+Currently, Sri Lanka utilizes the Commonwealth Secretariat Debt Recording and Management System (CS-DRMS) to manage its foreign debt, a system maintained by the Department of Foreign Resources. However, the Commonwealth Secretariat has recently suspended updates and annual license extensions for CS-DRMS, prompting the need for an upgraded system.
+
+...
+
+[Data](articles/8df26001.json)
+
+[Extended Data](ext_articles/8df26001.ext.json)
+
+---
+
+### Spike in dengue cases amid rainy weather, health officials warn
+
+*2024-10-15 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102703/spike-in-dengue-cases-amid-rainy-weather-health-officials-warn) · `en`
+
+Sri Lanka’s health authorities warn that there is a potential resurgence of dengue fever due to the ongoing rainy weather. With the monsoon season contributing to ideal breeding conditions for dengue-carrying mosquitoes, health officials are urging the public to remain vigilant.
+
+Consultant Community Physician at the National Dengue Control Unit (NDCU) Dr. Anoja Dheerasinghe stated that a total of 40,657 dengue cases have been reported so far in 2024, with 1,247 new cases recorded in October alone. Additionally, the NDCU has confirmed 20 dengue-related deaths this year.
+
+“The current weather conditions significantly increase the risk of dengue mosquito breeding,” Dr. Dheerasinghe explained, noting that most cases have been reported from the Colombo, Gampaha, and Kalutara districts. Other affected regions include Kandy, Ratnapura, Matara, Galle, and Matale.
+
+...
+
+[Data](articles/de56bb98.json)
+
+[Extended Data](ext_articles/de56bb98.ext.json)
+
+---
+
+### Govt. approves fuel subsidy for fishermen
+
+*2024-10-15 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102702/govt-approves-fuel-subsidy-for-fishermen) · `en`
+
+The Cabinet of Ministers has approved a subsidy of Rs. 25 per litre of diesel for fisherfolk.
+
+Speaking during the Cabinet press conference held this morning (15), Cabinet Spokesman Vijitha Herath stated that this subsidy will be provided up to Rs. 300,000 per month for a period of 06 months.
+
+Furthermore, Minister Herath assured that a subsidy of Rs. 15 per litre of kerosene has also been approved for fishermen using kerosene as fuel.
+
+◼️
+
+[Data](articles/6a45c9e5.json)
+
+[Extended Data](ext_articles/6a45c9e5.ext.json)
+
+---
+
+### The passport crisis is monday since Monday
 
 *2024-10-15 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202191) · `si`
 
-එළැඹෙන සෙනසුරාදා දිනයේ දී ඇණවුම් කරන ලද නව විදෙස් ගමන් බලපත්‍ර තොගය මෙරටට ලැබෙන බවත් ඒ අනුව සඳුදා සිට ඒවා බෙදාහැරීම සිදුකරන බවත් කැබිනට් මාධ්‍ය ප්‍රකාශක, අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+Passport crisis: New passports ordered, court injunction halts e-passport rollout. Tender process begins for 750,000 more passports.
 
-අද (15) උදෑසන පැවති අමාත්‍ය මණ්ඩල තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් ඒ මහතා මේ බව කියා සිටියේය.
+🟩
 
-එමෙන්ම ඊ-පාස්පෝට් සම්බන්ධයෙන් මේ වනවිට අධිකරණයේ වාරණ නියෝගයක් පවතින බවත්, එයට අදාළව ටෙන්ඩර් කැඳවීමක් සිදුනොකරන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+The Cabinet spokesman, spokesman Vijitha Herath says that the new foreign passport has been ordered on Saturday.
 
-උසාවි නියෝගය අවසන් වීමෙන් පසුව ඒ පිළිබඳ අවධානය යොමුකරන බව ද ඒ මහතා පවසයි.
+He was speaking at a media briefing today (15) this morning.
 
-කෙසේ වෙතත් මේ වනවිට ඇනවුම් කර ඇති විදෙස් ගමන් බලපත්‍ර 750,000 ඉදිරියේ දී අවසන් වීමත් සමග නැවතත් පාස්පෝට් අර්බුදයක් ඇති වීමට ඉඩ ඇති බැවින් සාමාන්‍ය පාස්පෝට් ලබාදීමට අවශ්‍ය ප්‍රසම්පාදන ක්‍රියාවලියකට ගොස් ටෙන්ඩර් පටිපාටියක් අනුව තවත් පාස්පෝට් ප්‍රමාණයක් ගෙන්වීමට පසුගිය 11 වනදා පැවති විශේෂ අමාත්‍ය මණ්ඩල රැස්වීමේ දී තීරණය කළ බව ද අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
+He also said that there is a injunction order in the court of E-passport and the call will not be called.
+
+He also said that it will focus on the end of the court order.
+
+However, as a result of the end of the 750,000 overseas passports, it has been decided to proceed to the procurement process required by a tender procedure to provide another passports on the 11th.Minister Vijitha Herath said.
 
 ◼️
 
 [Data](articles/3fcc63e2.json)
 
+[Extended Data](ext_articles/3fcc63e2.ext.json)
+
 ---
 
-### அரச இரசாயனப் பகுப்பாய்வாளராக குமுதுனி
+### Kumuduni is a state chemical analyst
 
 *2024-10-15 10:55:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-இரசாயனப்-பகுப்பாய்வாளராக-குமுதுனி/175-345484) · `ta`
 
-அரச இரசாயனப் பகுப்பாய்வாளர் பதவிக்கு சந்தியா குமுதுனி ராஜபக்ஷவை நியமிக்க அமைச்சரவை அனுமதி அளித்துள்ளது.
+Sandhya Kumuduni Rajapaksa appointed State Chemical Analyst, replacing Deepika Seneviratne. Proposal made by Prime Minister, approved by Cabinet.
 
-அரச இரசாயனப் பகுப்பாய்வாளராக பணியாற்றிய தீபிகா செனவிரத்ன ஓய்வு பெற்ற நிலையில், புதிய நியமனம் வழங்கப்பட்டுள்ளது.
+🟩
 
-தற்போது அரச மேலதிக பரீட்சார்த்தியாக கடமையாற்றும் இலங்கை விஞ்ஞான சேவையின் விசேட தர அதிகாரியான சந்தியா குமுதுனி ராஜபக்ஷவை நியமிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+The Cabinet has granted permission to appoint Sandhya Kumuduni Rajapaksa for the post of State Chemical Analyst.
 
-நிர்வாகம், உள்நாட்டலுவல்கள், மாகாண சபைகள், உள்ளூராட்சி மற்றும் தொழிலாளர் அமைச்சர் என்ற வகையில், பிரதமரால் இந்த யோசனை அமைச்சரவையில் முன்வைக்கப்பட்டுள்ளது.
+Deepika Seneviratne, who worked as a state chemical analyst, has retired and has been given a new appointment.
+
+Steps have been taken to appoint Sandhya Kumuduni Rajapaksa, the specialist officer of the Sri Lanka Science Service, which is currently serving as the Additional Examination.
+
+As the Minister of Administration, Home Affairs, Provincial Councils, Local Government and Labor, the proposal has been put forward by the Prime Minister in the Cabinet.
 
 ◼️
 
 [Data](articles/b53144ff.json)
+
+[Extended Data](ext_articles/b53144ff.ext.json)
 
 ---
 
@@ -104,73 +186,107 @@ Accordingly, the appointment of Mrs. Sandhya Kumuduni Rajapakse who is next on t
 
 ---
 
-### கடவுச்சீட்டுக்கு தீர்வு
+### Settlement to passport
 
 *2024-10-15 10:49:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டுக்கு-தீர்வு/175-345483) · `ta`
 
-இதனடிப்படையில், இதற்கு முன்னர் அச்சிட்ட நிறுவனத்துக்கே அச்சிடும் பணிகளை ஒப்படைக்கவும் ஒருதொகை கடவுச்சீட்டுகள் எதிர்வரும் சனிக்கிழமை(19) நாட்டை வந்தடையும் என்று அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்தார்.
+Passport settlement update: Passports to be handed over on Saturday for printing. Final decision on online passports pending court order.
 
-ஒன்லைன் கடவுச் சீட்டு தொடர்பில் நீதிமன்ற உத்தரவுக்கமையவே இறுதி தீர்மானம் எடுக்கப்படும் என்றும் அவர் குறிப்பிட்டார்.
+🟩
+
+Accordingly, Cabinet Spokesperson Vijitha Herath said that the passports will be reached on Saturday (19) to hand over the printing process to the previously printed company.
+
+He added that a final decision will be taken only by the court order regarding the online passport.
 
 ◼️
 
 [Data](articles/677c8c6d.json)
 
+[Extended Data](ext_articles/677c8c6d.ext.json)
+
 ---
 
-### சொந்த வீட்டில்  ​கைவரிசையை காட்டிய மகன்  சிக்கினார்
+### The son was trapped in the house of his own house
 
 *2024-10-15 10:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சொந்த-வீட்டில்-கைவரிசையை-காட்டிய-மகன்-சிக்கினார்/76-345482) · `ta`
 
-தனது தாயின், சுமார் பத்து இலட்சம் ரூபாய் பெறுமதியான ஐந்து பவுன் தங்க சங்கிலியை திருடிய மகனை ஹட்டன் பொலிஸார்  திங்கட்கிழமை(14) பிற்பகல் கைது செய்துள்ளனர்.
+Son accused of stealing gold chain from mother's house in Hatton police case.
 
-ஹட்டன் பொலிஸ் பிரிவிற்குட்பட்ட செனன் தோட்டத்தை சேர்ந்த பெண் ஒருவர்  தனது வீட்டின் அலமாரியில் இருந்த ஐந்து பவுன் தங்க நகை திருடப்பட்டுள்ளதாக முறைப்பாடு செய்துள்ளார்.
+🟩
 
-அதனடிப்படையில் மேற்கொண்ட விசாரணையின் போது முறைப்பாடு பதிவு செய்த பெண்ணின் மகன், தங்க நகையை ஹட்டன்  நகரில் உள்ள தனியார் அடகுக் கடையொன்றில் ஒன்பது இலட்சம் ரூபாவுக்கு அடகு வைத்துள்ளமை தெரியவந்துள்ளது.
+Hatton police arrested a son who stole a five -pound gold chain worth Rs.
 
-இவ்வாறு பெற்றுக்கொண்டு ஒன்பது லட்சத்தில் ஒரு இலட்சம் ரூபாவை அவரது நண்பருக்கு வழங்கியுள்ளதாகவும் மீதி பணத்தை சந்தேகநபர் முழுமையாக செலவழித்துள்ளதாகவும் தெரியவந்துள்ளது.
+A woman from the Senan estate belonging to the Hatton Police Division has complained that a five -pound gold jewelery from her house has been stolen.
 
-சந்தேக நபர் தற்போது  தாய் வீட்டுக்குப் பக்கத்தில் வசித்து வருவதுடன்   அவரின் மனைவி வெளிநாட்டில் தொழில் செய்து வருவதாகவும்  சந்தேக நபர் அதிகளவில் மதுவுக்கு அடிமையானவர் எனவும் ஹட்டன் பொலிஸார் தெரிவித்தனர்.
+According to the investigation, it was revealed that the son of the woman, who had lodged a complaint, had mortgaged a gold jewelery at a private pawn shop in Hatton for nine lakhs.
 
-...
+It has been revealed that the suspect has fully spent Rs.
+
+Hatton police said that the suspect is currently living on the mother's house and his wife is working abroad and the suspect is the most addicted alcoholic.
+
+The arrested suspect will be produced at the Hatton Magistrate's Court on Tuesday (15).
+
+◼️
 
 [Data](articles/1341c4bc.json)
 
+[Extended Data](ext_articles/1341c4bc.ext.json)
+
 ---
 
-### 2023 இல் 7 எம்.பிக்கள் இடைநிறுத்தம்
+### 7 MPs pausing in 2023
 
 *2024-10-15 10:46:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2023-இல்-7-எம்-பிக்கள்-இடைநிறுத்தம்/175-345481) · `ta`
 
-பாராளுமன்ற உறுப்பினர்களின் நடத்தைக்கு எதிராக பொதுக் கருத்துக்கள் எழுந்த சூழ்நிலையில், ஒன்பதாவது பாராளுமன்றத்தில் ஏழு பாராளுமன்ற உறுப்பினர்களின் பாராளுமன்ற சேவைகள் 2023 ஆம் ஆண்டுக்குள் அவர்களின் தவறான நடத்தை காரணமாக இடைநிறுத்தப்பட்டன.
+Here's a 200-character summary:
 
-2023 ஆம் ஆண்டு ஒகஸ்ட் 23 ஆம் திகதி பாராளுமன்றத்தில் ஏற்பட்ட அமளியின் பின்னர் இரண்டு எதிர்க்கட்சி எம்.பி.க்களான நளின் பண்டார ஜயமஹா மற்றும் வசந்த யாப்பா பண்டார அமர்வுகளில் இருந்து இடைநீக்கம் செய்யப்பட்டனர்.
 
-பிரதி சபாநாயகர் அஜித் ராஜபக்ஷவை அமர்ந்திருந்த நாற்காலியை நோக்கி விரைந்து அவரை நோக்கி சத்தம் எழுப்பிய இரண்டு எம்.பி.க்களும் இடைநிறுத்தம் செய்யப்பட்டனர்.
 
-மற்றுமொரு சம்பவத்தில், பாராளுமன்ற உறுப்பினர்களின் கேள்விகளுக்கு நேரம் ஒதுக்கப்பட்டதற்கு எதிரான போராட்டத்தின் போது பாராளுமன்றத்தில் தண்டாயுதத்தை பிடித்ததற்காக நிலையியற் கட்டளை 77(3) இன் படி ஐக்கிய மக்கள் சக்தி  எம்.பி அஜித் மன்னப்பெரும நான்கு வாரங்களுக்கு 2023 ஒக்டோபர் 19 அன்று இடைநீக்கம் செய்யப்பட்டார்.
+7 MPs suspended in 2023 for misconduct: 2 opposition MPs suspended August 23, United People's Shakti MP October 19, State Minister Diana Kamage & 2 SJB MPs suspended January 24 report recommendations.
+
+🟩
+
+In the context of public views against the behavior of MPs, the ninth parliamentary parliamentary services were suspended by their misconduct by 2023.
+
+Two opposition MPs Nalin Bandara Jayamaha and Vasantha Yapa were suspended from the Sessions on August 23, 2023.
+
+Two MPs who rushed to the chair seated by Deputy Speaker Ajith Rajapakse were suspended.
+
+In another incident, the United People's Shakti MP Ajith Mannaparuma was suspended on October 19, 2023, according to Standing Orders (3) of the Standing Ordinance of the Constitution of Parliament during the struggle against the time of the MPs' queries.
+
+Meanwhile, State Minister Diana Kamage, SJB MPs Rohana Bandara and Sujit Sanjaya Perera were suspended from Parliament for a month for a month for a dispute near the Library of MPs.
+
+In another incident, Ali Sabri Rahim's parliamentary visit was suspended for a month.
 
 ...
 
 [Data](articles/dbf02830.json)
 
+[Extended Data](ext_articles/dbf02830.ext.json)
+
 ---
 
-### மீண்டும்  தலைதூக்கும் டெங்கு காய்ச்சல்
+### Dengue fever
 
 *2024-10-15 10:46:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தலைதூக்கும்-டெங்கு-காய்ச்சல்/175-345480) · `ta`
 
-தற்போதைய மழையுடன் கூடிய காலநிலை காரணமாக டெங்கு நோய் மீண்டும் தலைதூக்கும் அபாயம் உள்ளதாக சுகாதார திணைக்களம் எச்சரித்துள்ளது.
+Dengue fever outbreak warning: Heavy rains may spread disease. 40,657 cases reported, mostly in Colombo, Gampaha, and Kalutara districts. Experts predict increased infections due to wet conditions.
 
-இந்த வருடத்தில் இதுவரை 40,657 டெங்கு நோயாளர்கள் இனங்காணப்பட்டுள்ளதாகவும்,  20 பேர் உயிரிழந்துள்ளதாகவும் தேசிய டெங்கு கட்டுப்பாட்டு பிரிவின் சமூக சுகாதார நிபுணர் டொக்டர் அனோஜா தீரசிங்க தெரிவித்தார்.
+🟩
 
-தற்போது நிலவும் மழையுடன் கூடிய காலநிலையால் மீண்டும் டெங்கு நுளம்புகள் பரவும் அபாயம் காணப்படுவதாக அவர் குறிப்பிட்டுள்ளார்.
+The Department of Health has warned that there is a risk of dengue re -inflammation due to the current rainfall.
 
-"ஒக்டோபர் மாதத்தில் மாத்திரம் மொத்தம் 1,247 நோயாளர்கள் பதிவாகியுள்ளனர். பெரும்பாலான நோயாளர்கள் கொழும்பு, கம்பஹா மற்றும் களுத்துறை மாவட்டங்களில் பதிவாகியுள்ளனர். கண்டி, இரத்தினபுரி, மாத்தறை, காலி மற்றும் மாத்தளை ஆகிய மாவட்டங்களிலும் அதிக தொற்றாளர்கள் பதிவாகியுள்ளனர். இந்த மழை நிலைமையால் எதிர்காலத்தில் டெங்கு பாதிப்பு அதிகரிக்கும் என எதிர்பார்க்கலாம்” என்றார்.
+According to the National Dengue Control Division's Community Health Expert Dr. Anoja Therasinghe, 40,657 dengue patients have been identified and 20 people have been identified so far.
+
+He noted that the prevailing rainy weather is at risk of spreading dengue mosquitoes again.
+
+“A total of 1,247 patients were reported in October alone. Most patients are reported in Colombo, Gampaha and Kalutara districts. Most of the infects have been reported in the districts of Kandy, Ratnapura, Matara, Galle and Matale. This rain conditions can be expected to increase dengue in the future. ”
 
 ◼️
 
 [Data](articles/91b041d5.json)
+
+[Extended Data](ext_articles/91b041d5.ext.json)
 
 ---
 
@@ -2231,105 +2347,5 @@ Pothuwil Primary Hospital handed over to government. Health Ministry Deputy Mini
 [Data](articles/abb80ea1.json)
 
 [Extended Data](ext_articles/abb80ea1.ext.json)
-
----
-
-### Showers over 100 mm
-
-*2024-10-14 19:22:45* · [`adalk`](https://www.ada.lk/breaking_news/හෙටත්-මිලි-මිටර්-100-ඉක්මවූ-වැසි/11-412490) · `si`
-
-Heavy rainfall warning issued for Western, Sabaragamuwa, North Western, and Northern provinces. Thunderstorms expected, potential flooding in Colombo, Gampaha, and Puttalam. Rescue efforts underway, including deployment of military units and relief teams. Low-pressure system developing in Bay of Bengal, may impact southern India and Sri Lanka within 48 hours. Strong winds and heavy showers predicted.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, North Western and Northern provinces today (15), the Met Department said.
-
-MM in the Western, Sabaragamuwa, North Western and Northern provinces, Galle, Matara and Trincomalee Districts. Heavy showers can occur at around 100 in the evening or night.
-
-The department urges the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms. The Disaster Management Center (DMC) stated that 134484 persons belonging to 34492 families have been affected due to the inclement weather.
-
-241 houses have been damaged and two deaths and two injured have been reported. These people have been affected by 6963 persons belonging to 1753 families.
-
-...
-
-[Data](articles/d40dceaf.json)
-
-[Extended Data](ext_articles/d40dceaf.ext.json)
-
----
-
-### In the hands of Pakistan in India's semi -final chance
-
-*2024-10-14 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196298) · `ta`
-
-Pakistan vs New Zealand match outcome determines India's semi-final chances in ICC Women's R20 World Cup.
-
-🟩
-
-India's semi -final chance in the 9th ICC Women's R20 World Cup in the United Arab Emirates is in the hands of Pakistan.
-
-Current Champion Australia has qualified to play the first team from the A group in the Women's R20 World Cup.
-
-The match between New Zealand and Pakistan will start at 7.00 pm on Monday (14) at the Dubai International Cricket Stadium.
-
-If New Zealand wins the up match, New Zealand will advance to the semi -finals. பாகிஸ்தான் வெற்றிபெற்றால் இந்தியா அரை இறுதிக்கு முன்னேறும்.
-
-In the teams, India are second with a net run of 0.322 with 4 points.
-
-நியூஸிலாந்தும் 4 புள்ளிகளைப் பெற்ற 0.282 என்ற நிகர ஓட்ட வேகத்துடன் 3ஆம் இடத்திலிருக்கிறது.
-
-நியூஸிலாந்துக்கும் பாகிஸ்தானுக்கும் இடையில் இதுவரை நடைபெற்றுள்ள 11 போட்டிகளில் 9 - 2 என்ற ஆட்டங்கள் வித்தியாசத்தில் நியூஸிலாந்து முன்னிலை வகிக்கிறது.
-
-New Zealand: Suzi Bats, Georgia Blimer, Amelia Care, Sofi Divine (Head), Brooke Holiday, Medi Kreen, Isabella Case, Lee Gesperek, Lee Tahuhu, Rosemary Mair, Eden Kasan.
-
-...
-
-[Data](articles/5c2954a9.json)
-
-[Extended Data](ext_articles/5c2954a9.ext.json)
-
----
-
-### Udaya's abandoating a bomb
-
-*2024-10-14 18:59:33* · [`adalk`](https://www.ada.lk/breaking_news/උදය-’බෝම්බයක්’-අතහරියි/11-412489) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Government delays publishing NVU Alwis report on Easter attack. Leader threatens to release report if not published within 7 days. Report contains sensitive information about church leaders. Catholic Church requests immediate publication.
-
-🟩
-
-Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Government says he has given seven days of the NVU Alwis report on the Passover attack. Otherwise, he believes that he will be familiar with these reports and publish these reports.
-
-The Leader JHU leader was attended by a Plandani JHU. The Leader of the JHU
-
-When the President went to the church in the media last Monday, I stated that the church had to take the two records of the Presidential Investigation Committee on Easter attack.I asked the government to make these two reports without further delay.The government's spokesman Vijith Herath questioned journalists from Minister Vijith Herath.The Minister was said that we would see how the Passover's records were left withdrawn.
-
-...
-
-[Data](articles/8ff8a082.json)
-
-[Extended Data](ext_articles/8ff8a082.ext.json)
-
----
-
-### China responds to recent arrests of Chinese nationals in Sri Lanka for ‘online scams’
-
-*2024-10-14 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102689/china-responds-to-recent-arrests-of-chinese-nationals-in-sri-lanka-for-online-scams) · `en`
-
-The Chinese Embassy in Colombo says that China is closely following the recent arrests of Chinese nationals in Sri Lanka for suspected online fraud and is supporting Sri Lankan law enforcement agencies in cracking down on them, while ensuring their rights and interests are protected in accordance with the law.
-
-Issuing a statement in this regard, the Chinese Embassy highlighted that these cases not only pose a threat to the property of the two peoples, but also seriously damage China’s image and affect the traditional friendship between the two countries.
-
-Furthermore, the statement mentioned that the Chinese Embassy provides full support to Sri Lankan law enforcement agencies in “resolutely cracking down on suspects while protecting their legitimate rights and interests in accordance with the law.”
-
-...
-
-[Data](articles/5ede721a.json)
-
-[Extended Data](ext_articles/5ede721a.ext.json)
 
 ---

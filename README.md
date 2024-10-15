@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 08:23:22**
+As of **2024-10-15 08:44:39**
 
 ## Newspaper Stats
 
-*Scraped **49,544** Articles*
+*Scraped **49,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,158 @@ economynextcom | 3,034
 dailyftlk | 3,363
 adalk | 4,599
 dailymirrorlk | 4,733
-adaderanalk | 5,858
-tamilmirrorlk | 6,763
+adaderanalk | 5,859
+tamilmirrorlk | 6,765
 virakesarilk | 7,926
-adaderanasinhalalk | 8,574
+adaderanasinhalalk | 8,576
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,537 (100.0%) of 49,544 articles have been extended.
+49,549 (100.0%) of 49,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
 
-### දුම්රිය ප්‍රමාදයක් - මගීන්ට දැනුම්දීමක්
+### Growth in industrial products
+
+*2024-10-15 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202185) · `si`
+
+Industrial Product Index rose 1.2% in August 2023, reaching 91.3. However, drinking and tobacco product sales decreased. Poverty line slightly lowered from Rs 16,373 to Rs 16,152 in July, showing slight improvement over August 2023.
+
+🟩
+
+The Industrial Product Index has increased by 1.2 percent in August last year.
+
+The Department of Census and Statistics stated that the Industrial Product Index in August 2023 increased to 91.3 in August.
+
+However, a decrease in drinking products and tobacco-related products show that in this year, the Department of Census and Statistics said.
+
+Meanwhile, the official poverty line in August, compared to Julie, has reported a minor decline.
+
+The poverty line of Rs 16,373 has been reduced to Rs. 16,152 in July.
+
+Department of Census and Statistics stated that it is an increase compared to August 2023.
+
+◼️
+
+[Data](articles/f78f2ec4.json)
+
+[Extended Data](ext_articles/f78f2ec4.ext.json)
+
+---
+
+### Sri Lanka - West Indies is 20 and 20th today
+
+*2024-10-15 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202184) · `si`
+
+Sri Lanka vs West Indies: 2nd T20I today at Dambulla. West Indies won 1st match. Series tied 1-1. Match starts at 7 PM local time.
+
+🟩
+
+West Indies team and the Sri Lankan team will be held today (15).
+
+The match at the Dambulla International Stadium will begin at 7 pm.
+
+West Indies won the first Twenty20 match between the two countries by 5 wickets.
+
+The West Indies team and the Sri Lankan team consists of three tournaments.
+
+◼️
+
+[Data](articles/c66088e5.json)
+
+[Extended Data](ext_articles/c66088e5.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-10-15 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102694/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, North-western and Northern provinces and in Galle, Matara, Kandy, Nuwara-Eliya and Trincomalee districts.
+
+Fairly heavy showers about 75mm are likely at some places in Western, Sabaragamuwa, North-western and Northern provinces and in Galle, Matara and Trincomalee districts.
+
+Showers or thundershowers will occur at several places elsewhere during the evening or night, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/15be9e3c.json)
+
+[Extended Data](ext_articles/15be9e3c.ext.json)
+
+---
+
+### Call for the Secretaries of the parties today
+
+*2024-10-15 08:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சிகளின்-செயலாளர்களுக்கு-இன்று-அழைப்பு/175-345472) · `ta`
+
+Secretaries of contesting parties summoned by Elections Commission today. Discussion topics: general election cost limits and district-specific election expenses.
+
+🟩
+
+The secretaries of the parties contesting the election to discuss the general election have been invited to the Elections Commission today.
+
+Elections Commission Chairman RMAL Ratnayake said that the general election cost limitations will be discussed at this time.
+
+At the same time, he said that the election expenses of the respective districts will be discussed with the leaders of the independent committees.(a)
+
+◼️
+
+[Data](articles/18a71782.json)
+
+[Extended Data](ext_articles/18a71782.ext.json)
+
+---
+
+### Thunderstorm in many areas
+
+*2024-10-15 07:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-இடியுடன்-கூடிய-மழை/175-345471) · `ta`
+
+Thunderstorms forecasted in Western, Sabaragamuwa, North Western, Northern Provinces and Galle, Matara, Kandy, Nuwara Eliya, Trincomalee districts. Heavy rainfall expected in several regions. Public advised to prepare for potential disasters.
+
+🟩
+
+The Department of Meteorology has forecast rain or thunderstorms in the Western, Sabaragamuwa, North Western and Northern Provinces and Galle, Matara, Kandy, Nuwara Eliya and Trincomalee districts today.
+
+Accordingly, 75 mm of rainfall will occur in the Sabaragamuwa, North Western and Northern Provinces and Galle, Matara and Trincomalee districts.
+
+The Department of Meteorology has urged the public to take steps to protect them from disasters in rains.. (A)
+
+◼️
+
+[Data](articles/e8423c05.json)
+
+[Extended Data](ext_articles/e8423c05.ext.json)
+
+---
+
+### Railway Delay - A Notification of Passengers
 
 *2024-10-15 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202183) · `si`
 
-කොළඹ කොටුව සහ මරදාන දුම්රිය ස්ථාන අතර පීලිපැනීමක් හේතුවෙන් දුම්රිය ධාවනයට බාධා එල්ල වී තිබේ.
+Colombo Fort-Maradana train service disrupted due to collision involving Indian intercity train. Delays expected on both rail and coastal road routes.
 
-දුම්රිය දෙපාර්තමේන්තුව පැවසුවේ, අද (15) පෙරවරු 7ට පමණ මඩකලපුව සිට කොටුව බලා ධාවනය වූ මීනගයා නගරාන්තර දුම්රියේ එංජිම මෙලෙස පීලිපැනීමකට ලක්ව ඇති බවය.
+🟩
 
-මේ හේතුවෙන් කොළඹ කොටුව සහ මරදාන අතර දුම්රිය ධාවනයට බාධා එල්ල වී ඇති බව සඳහන්ය.
+Train services were interrupted due to a deckoning between Colombo Fort and Maradana railway stations.
 
-ඒ අනුව ප්‍රධාන මාර්ගයේ දුම්රිය සහ මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයේ ප්‍රමාදයන් සිදුවිය හැකි බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+The Railway Department said that the Indian intercani train has been involved in the Indian intercity train.
+
+As a result, the train between Colombo Fort and Maradana has been disrupted.
+
+The delays in the train and coastal road can be held in the railway and coastal road.
 
 ◼️
 
 [Data](articles/1be8bbf8.json)
+
+[Extended Data](ext_articles/1be8bbf8.ext.json)
 
 ---
 
@@ -56,31 +178,45 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The derailment of a train between Colombo Fort and Maradana railway stations has delayed train services, according to the Railway Department.
 
+It said that the engine of the Meenagaya Intercity Express Train plying from Batticaloa to Colombo Fort had derailed in this manner at around 7.00 a.m. this morning (15).
+
+This has disrupted train services between Colombo Fort and Maradana.
+
+Accordingly, train services on the main line and the coastal line could experience delays owing to this, Sri Lanka Railways said.
+
 ◼️
 
 [Data](articles/55975aee.json)
 
+[Extended Data](ext_articles/55975aee.ext.json)
+
 ---
 
-### පානදුරේ නිවසක් තුළ තිබී යුවළකගේ මළ සිරුරු හමුවෙයි
+### Couple bodies found in a house in Panadura
 
 *2024-10-15 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202182) · `si`
 
-පානදුර ගල්ගොඩ ශ්‍රී මහා විහාරස්ථ පාරේ නිවසකක් තුළ තිබී පිරිමි පුද්ගලයකුගේ සහ කාන්තාවකගේ මළසිරුරු හමුව තිබේ.
+Two bodies discovered in Panadura home: 47-year-old man and 42-year-old woman found dead. Police investigating suspected murder-suicide between acquaintances.
 
-කාන්තාවගේ මළසිරුර සාලයේ බිම තිබෙන බවත් පිරිමි පුද්ගලයාගේ මළසිරුර නිවසේ බාල්කයක එල්ලෙමින් තිබීයදී සොයාගත් බවත් පානදුර පොලීසිය පවසයි.
+🟩
 
-දෙදෙනා අනියම් සම්බන්ධතාවයක් පවත්වාගෙන යන යුවළක් බවට තොරතුරු ලැබී තිබේ.
+The bodies of a woman and a woman have been found in a house on Galugoda Sri Maha Viharaya, Panadura.
 
-පොලීසිය සැකකරන්නේ, පිරිමි පුද්ගලයා විසින් කාන්තාව ඝාතනය කර ගෙල වැලලාගන්නට ඇති බවය.
+The body of the woman is located on the ground and has been hanging in a bachelor of the house.
 
-එලෙස මියගොස් ඇත්තේ,  47 හැවිරිදි පිරිමි පුද්ගලයෙක් සහ 42 හැවිරිදි කාන්තාවකි.
+It is reported that the two have a casual relationship.
 
-පානදුර කොට්ඨාස අපරාධ ස්ථාන අංශයේ නිලධාරීන් පරීක්ෂණ ආරම්භ කර ඇති අතර පානදුර දකුණ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The police suspect that the woman was killed and hallled by the woman.
+
+The deceased has been identified as a 47 year old male and a 42 year old woman.
+
+Officers of the Panadura Divisional Secretariat have commenced investigations and Panadura South Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/1c337820.json)
+
+[Extended Data](ext_articles/1c337820.ext.json)
 
 ---
 
@@ -602,27 +738,35 @@ In the petition, it is noteworthy that the use of drug use has been asked to tak
 
 ---
 
-### සුගත් වසන්ත ද සිල්වා: 'පළමු වරට' ජාතික ලැයිස්තුවකට ඇතුළත් වූ දෘශ්‍යාබාධිත පුද්ගලයා
+### Sugath Wasantha De Silva: Visually impaired person in a national list
 
 *2024-10-15 01:44:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2lv25nn0lo) · `si`
 
-සුගත් වසන්ත ද සිල්වා: 'පළමු වරට' ජාතික ලැයිස්තුවකට ඇතුළත් වූ දෘශ්‍යාබාධිත පුද්ගලයා
+Sugath Wasantha De Silva, visually impaired, becomes first visually impaired MP in Sri Lanka's history. Born 1967, lost vision in grade 5. Graduated from University of Colombo, became social services officer. Advocates for disability rights, aims to promote equality and justice for all disabilities.
 
-ශ්‍රී ලංකා පාර්ලිමේන්තු ඉතිහාසයේ පළමු වරට දෘශ්‍යාබාධිත පුද්ගලයෙකුට පාර්ලිමේන්තු මන්ත්‍රී ධූරයකට පත්වීමට අවස්ථාව උදා වී තිබේ.
+🟩
 
-ඒ, 2024 මහ මැතිවරණයේ ජාතික ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ලේඛනයට දෘශ්‍යාබාධිත පුද්ගලයෙකු ඇතුළත් කර තිබීම හේතුවෙනි.
+Sugath Wasantha De Silva: Visually impaired person in a national list
 
-ඔහු, ශ්‍රී ලංකා දෘශ්‍යාබාධිත උපාධිධාරී කවුන්සිලයේ සභාපති සුගත් වසන්ත ද සිල්වා ය.
+Sri Lanka's parliamentary parliamentary seat has the opportunity to become a parliamentary seat for the first time in the history of Sri Lanka.
 
-තමන්ට පාර්ලිමේන්තු මන්ත්‍රී ධූරයක් ලැබුණහොත් ඉටු කිරීමට අපේක්ෂා කරන කාර්යයන් පිළිබඳව ඔහු බීබීසී සිංහල සේවයට අදහස් දැක්වීය.
+That is due to the National List MP's National List MP's National List MP's National List MP's inclusion.
 
-සුගත් වසන්ත ද සිල්වා 1967 ජූලි 26 වන දා, එනම් මීට වසර 57කට පෙර දකුණු පළාතේ බලපිටිය, ගොඩගෙදර ප්‍රදේශයේදී උපත ලැබුවේ, දෑස් පෙනෙන සාමාන්‍ය බිළිඳෙකු ලෙස ය.
+He is Sugath Wasantha de Silva president of the Sri Lanka Visually Handicaping Graduate Council Council.
 
-“මම ඇස් පෙනෙන කෙනෙක් විදිහට තමයි, මේ ලෝකෙට ආවේ. මම මුලින් ම බාලාංශයේ සිට තුනේ පන්තිය දක්වා ගියේ, කන්දෙගොඩ කනිෂ්ඨ විද්‍යාලයට. එතන ඉඳන් පහ ශ්‍රේණිය දක්වා මම වතුගෙදර සිරි අබේතිස්ස කනිෂ්ඨ විද්‍යාලයට ගියා,” සුගත් වසන්ත ද සිල්වා සිය අතීතය ආවර්ජණය ආරම්භ කළේ, එසේ ය.
+If he receives a parliamentary seat, he commented on BBC Sinhala.
+
+Sugath Wasantha De Silva was born on July 26, 1967, 57 years ago, the eyes were born as a normal baby.
+
+"That's what I visited the eyes,. I left the third to the three-in-class class, Kandegoda Junior School. From there, I went to Siri Abinissa Kanisissa, "Sugath Wasantha De Silva," Sugath Wasantha De Silva began its past.
+
+The fateful event that was uprooted by his life was in a grade 5, the 11th year old.
 
 ...
 
 [Data](articles/dd429fb7.json)
+
+[Extended Data](ext_articles/dd429fb7.ext.json)
 
 ---
 
@@ -1122,21 +1266,31 @@ The injured have been admitted to the Kaluwanchikudi Resource Hospital for furth
 
 ---
 
-### මැතිවරණයට අදාළව විශේෂ සාකච්ඡාවක්
+### Special discussion in relation to the election
 
 *2024-10-14 19:59:23* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-අදාළව-විශේෂ-සාකච්ඡාවක්/11-412494) · `si`
 
-පාර්ලිමේන්තු මැතිවරණයට අදාළ ව දේශපාලන පක්ෂ ලේකම්වරු සහ මැතිවරණ කොමිෂන් සභාව අතර හෙට (15දා) විශේෂ සාකච්ඡාවක් පැවැත්වීමට සැලසුම් කර තිබේ.
+Here's a summary of 200 characters:
 
-මෙම සාකච්ඡාවෙහිදී  පාර්ලිමේන්තු මැතිවරණය සඳහා එක්  අපේක්ෂකයෙකු ඡන්ද දායකයෙකු වෙනුවෙන් වියදම් කළ හැකි උපරිම මුදල තීරණය කිරීමට ද නියමිතව තිබෙන අතර  මැතිවරණයේ ඉදිරි කටයුතු සම්බන්ධයෙන් ද මෙහිදී සාකච්ඡා කිරීමට නියමිතය.
 
-පාර්ලිමේන්තු මැතිවරණයේදී වියදම් කළ හැකි  මුදල තීරණය කිරීමෙන් පසු  ඒ සම්බන්ධ ගැසට් නිවේදනයක්ද නිකුත් කිරීමට නියමිතය.
 
-පාර්ලිමේන්තු මැතිවරණය ප්‍රකාශයට පත් කිරීමෙන් අනතුරුව දේශපාලන පක්ෂ ලේකම්වරු  හා මැතිවරණ කොමිෂන් සභාව හමුවන පළමු අවස්ථාව ද මෙය වේ.
+Political parties' secretaries and Election Commission discuss parliamentary election details. Meeting determines election spending limits and publication process. First joint meeting between parties and commission. Gazette notification to follow after final decisions made.
+
+🟩
+
+A special discussion is scheduled to hold a special discussion between the political party secretaries and the Election Commission regarding the parliamentary election.
+
+The discussion is also scheduled to determine the maximum amount of parliamentary election on the parliamentary election and will also be discussed in the publication of the election.
+
+After determining the amount of money spent at the parliamentary election, a gazette notification will be issued.
+
+It is also the first time that the Political Party and the Election Commission will meet with the political party secretaries and the election commissioner.
 
 ◼️
 
 [Data](articles/38e4fd32.json)
+
+[Extended Data](ext_articles/38e4fd32.ext.json)
 
 ---
 
@@ -1174,21 +1328,27 @@ The Irrigation Department said that a decrease in the flood risk of flood risk i
 
 ---
 
-### මාලිමාවට සහාය දෙන බව පොහොට්ටුවේ සාගර කියයි
+### Ocean of Pohon says it supports the compass
 
 *2024-10-14 19:45:09* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවට-සහාය-දෙන-බව-පොහොට්ටුවේ-සාගර-කියයි/11-412492) · `si`
 
-ජනතා විමුක්ති පෙරමුණ ප්‍රමුඛ මාලිමා රජයක් විසින් සිදුකරනු ලබන සංවර්ධන කටයුතු සඳහා පක්ෂයක් ලෙස ඉදිරියේදී උපරිම සහාය ලබාදෙන බව ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි ප්‍රධාන ලේකම් සාගර කාරියවසම් මහතා පැවසීය.
+Sri Lanka Ocean of Pohon supports compass governance. General Secretary Kariyawasam pledges party's commitment to national development without draining resources. Emphasizes honesty and humility in accepting recent judgments. Aims to support country's growth alongside JVP.
 
-ඔහු සඳහන් කර සිටියේ පක්ෂයක් ලෙස කිසිදු ආකාරයකින් එම ගමනේ කකුලෙන් ඇදීමක් සිදු නොකරන බවයි.
+🟩
 
-බත්තරමුල්ල, නෙළුම් මාවතෙහි පිහිටි ශ්‍රී ලංකා පොදුජන පෙරමුණු මූලස්ථානයේදී ඊයේ (14දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් මේ බව කී ප්‍රධාන ලෙකම්වරයා එහිදී වැඩිදුරටත් අදහස් දක්වමින් මෙසේද කීය.
+The General Secretary of the Sri Lanka Kariya Kariyawasam, the General Secretary of the Sri Lanka Ceremony, the Sri Lanka Appointment will be supported as a party to the development of a leading compass governance.
 
-“ඒ කොවිඩ් වසංගතයට මුහුණදීමේදී අපි ආර්ථිකය අමතක කරලා ජනතාවගේ ජිවිත ගැන හිතලා කටයුතු කිරීමෙන් පක්ෂයක් හැටියට, ආණ්ඩුවක් හැටියට වරදක් කළා. ඒ වරදට ජනතාව අපිට මේ වන විට යම්කිසි උත්තරයක් දීලා තිබෙනවා. අපි ඒ ජනතාවගේ තීන්දුව ඉතාම නිහතමානීව, ගෞරවාන්විතව පිළිගන්නවා පක්ෂයක් විදිහට. මේ රටේ අවංකව හිතන , මේ රටේ ජාතිකත්වය හිතන එකම පක්ෂය හැටියට ඉතුරුවෙලා තිබෙන්නේ ශ්‍රී ලංකා පොදුජන පෙරමුණයි. ඒ තීන්දුව පිළිගන්න ගමන්ම අපි අලුත් වැඩපිළිවෙළක් ඉදිරිපත් කරනවා අවංකව මේ රටේ අනාගතය වෙනුවෙන්.
+He said that a party would not be a drain from the leg in any way.
+
+Speaking at a media briefing held at the Sri Lanka Civil War Headquarters in Nelum Mawatha, Battaramulla yesterday, said:
+
+"When we forget the economy during the Covenan, we made a mistake as a government to forget the lives of the people.. People have given us a answer to that offense by now. We are humble and respectfully welcomed the judgment and respectfully. The Sri Lanka Promotion is the Sri Lanka General Front as the only party that is honest in this country. As we accept the decision, we are presented a new program for the future of this country.
 
 ...
 
 [Data](articles/4c5b8400.json)
+
+[Extended Data](ext_articles/4c5b8400.ext.json)
 
 ---
 
@@ -1384,21 +1544,27 @@ Furthermore, the statement mentioned that the Chinese Embassy provides full supp
 
 ---
 
-### තෙවන පාසල් වාරයේ අවසානය සතියකින් කල් යයි
+### The end of the third school term postponed in a week
 
 *2024-10-14 18:39:42* · [`adalk`](https://www.ada.lk/breaking_news/තෙවන-පාසල්-වාරයේ-අවසානය-සතියකින්-කල්-යයි/11-412487) · `si`
 
-2025.01 .17 දින අවසන් වීමට නියමිතව තිබූ  2024  අධ්‍යයන  වර්ෂයේ තෙවන  පාසල්  වාරය  තවත් සතියකින් කල් දැමූ බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+Third school term 2024 postponed from 17th to 24th January. Ministry cites need for progress reports before ending. Academic year concludes on 24th.
 
-මේ අනුව  තෙවන වාරය මෙන්ම 2024 පාසල්  අධ්‍යයන වර්ෂය අවසන් වන්නේ 2025.01.24 දිනෙනි.
+🟩
 
-තෙවන වාර විභාගය පවත්වා සිසුන්ට ප්‍රගති වාර්තා ලබා දීමට ප්‍රමාණවත් කාලයක් ලබා දෙන ලෙස විදුහල්පතිවරුන් විසින් කරන ලද ඉල්ලීම් සලකා මෙලෙස තෙවන පාසල් වාරය කල් දැමූ බව අධ්‍යාපන අමාත්‍යාංශයේ ලේකම් තිලකා ජයසුන්දර මහත්මිය මේ සම්බන්ධයෙන් විදුහල්පතිවරුන් ඇතුළු අධ්‍යාපන නිලධාරීන්  දැනුම්වත් කරමින්  නිකුත් කළ ලිපියේ සඳහන් වේ .
+The Ministry of Education says that the third term of the year 2024, which was due to end on 17, will be postponed.
 
-තෙවන වාරය අවසන් වන 24 දින වන විට සියලුම සිසුන්ට තෙවන වාර විභාගය පවත්වා ප්‍රගති වාර්තා ලබාදීම අවසන් කළයුතු බවද අධ්‍යාපන අමාත්‍යාංශය  එම ලිපිය මගින්  අවධාරණය කරයි.
+Accordingly, the third term and 2024 school academic year ended on 24.01.200.
+
+The Secretary to the Ministry of Education Thilaka Jayasundara said that the third term was postponed to inform the third term to enter the third term to provide progress reports to students.
+
+The letter emphasizes that by the 24th term by 24th term, the Ministry of Education emphasizes that the third period should be completed.
 
 ◼️
 
 [Data](articles/43fba9ba.json)
+
+[Extended Data](ext_articles/43fba9ba.ext.json)
 
 ---
 
@@ -2223,125 +2389,5 @@ Preliminary inquiries have revealed that the Jeep vehicle and another jeep vehic
 [Data](articles/56cbf4a8.json)
 
 [Extended Data](ext_articles/56cbf4a8.ext.json)
-
----
-
-### Sri Lanka President, Foreign Minister to skip BRICS summit
-
-*2024-10-14 15:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-foreign-minister-to-skip-brics-summit-183475/) · `en`
-
-ECONOMYNEXT – Neither Sri Lanka’s President Anura Dissanayake nor Foreign Minister Vijitha Herath will be attending the BRICS summit, which the previous government sought membership of, to be held in Russia next week.
-
-“HE President and myself – we are unable to attend the Outreach BRICS Summit to be held in Kazan, Russian Federation from 23-24 October 2024, due to the upcoming elections,” Foreign Minister Vijitha Herath told members of the Colombo-based Diplomatic Corps at the Ministry of Foreign Affairs on Monday (14).
-
-The Secretary to the Foreign Affairs Ministry will represent Sri Lanka and place on record its request for membership, he said.
-
-“I have already addressed letters to my counterparts in the BRICS member states seeking support,” Herath said.
-
-Sri Lanka’s previous Cabinet of Ministers had approved the proposal of the country applying for membership of the BRICS organization and for a new development bank to be established under it.
-
-...
-
-[Data](articles/9cbf401f.json)
-
-[Extended Data](ext_articles/9cbf401f.ext.json)
-
----
-
-### Acemoglu, Johnson and Robinson win 2024 Nobel economics prize
-
-*2024-10-14 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102681/acemoglu-johnson-and-robinson-win-2024-nobel-economics-prize) · `en`
-
-Daron Acemoglu, Simon Johnson and James Robinson won the 2024 Nobel economics prize “for studies of how institutions are formed and affect prosperity”, the Royal Swedish Academy of Sciences said on Monday.
-
-The prestigious award, formally known as the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel, is the final prize to be given out this year and is worth 11 million Swedish crowns ($1.1 million).
-
-“Reducing the vast differences in income between countries is one of our time’s greatest challenges. The laureates have demonstrated the importance of societal institutions for achieving this,” said Jakob Svensson, Chair of the Committee for the Prize in Economic Sciences.
-
-The economics award is not one of the original prizes for science, literature and peace created in the will of dynamite inventor and businessman Alfred Nobel and first awarded in 1901, but a later addition established and funded by Sweden’s central bank in 1968.
-
-...
-
-[Data](articles/f385e8d9.json)
-
-[Extended Data](ext_articles/f385e8d9.ext.json)
-
----
-
-### UNDP Assistant Secretary General meets President
-
-*2024-10-14 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202160) · `si`
-
-UNDP Assistant Secretary General meets President Anura Kumara Dissanayake. Discusses development efforts, women's participation, rural economic challenges, agricultural productivity, electoral reforms, microfinance industry, and government's new reforms and anti-corruption measures.
-
-🟩
-
-The United Nations Development Program Assistant Secretary to the United Nations Development Program has met President Anura Kumara Dissanayake.
-
-Control, Constitutional Reforms and Elections in Sri LankaThe President announced the Presidential Media Unit.
-
-The agent is assured that the United Nations Development Program is fully assigned to Sri Lanka's development efforts based on the report.
-
-The meeting was discussed at the bottom level of women participation in the economy of the country.
-
-The United Nations Development Program has pointed out that limiting rural women's involvement in the economic activity, the United Nations Development Program has pointed out that there is a significant challenges in the financial sector.
-
-It is also because the agricultural sector demonstrates a reduction in the national economy.
-
-The President explained that the agricultural productivity of Sri Lanka was poorly compared to other countries in the Asian region.
-
-...
-
-[Data](articles/0cce2fb5.json)
-
-[Extended Data](ext_articles/0cce2fb5.ext.json)
-
----
-
-### Corruption at the passport office
-
-*2024-10-14 15:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-அலுவலகத்தில்-ஊழல்/175-345442) · `ta`
-
-Corruption at Vavuniya Passport Office: People face difficulties obtaining passports due to bribery and favoritism. The President vows to stop corruption and ensure easy passport issuance.
-
-🟩
-
-People pointed out that if the money is paid at the Vavuniya Passport Office, there is a situation where the passport can be obtained and the corrupt is full of corruption.
-
-They have commented to the media about the people who said they were having the difficulty of obtaining a passport at the Vavuniya Passport Office.
-
-Although they tried to get a passport at 3 am from the distance, they would only give the passport to the other.
-
-They have been waiting for the passport to be obtained from distant places, especially Mullaitivu, Jaffna and the Eastern Provinces.
-
-At the same time, there is a situation where the passport office can take the passport to those who know them and give them a passport.
-
-The President, who was sworn in to eradicate corruption, said that the corruption at the Vavuniya Passport Office should be stopped and the people should easily get a passport.
-
-◼️
-
-[Data](articles/d87ebfd0.json)
-
-[Extended Data](ext_articles/d87ebfd0.ext.json)
-
----
-
-### Court rejects Arjun Aloysius’ appeal against prison sentence
-
-*2024-10-14 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102680/court-rejects-arjun-aloysius-appeal-against-prison-sentence) · `en`
-
-The Colombo Magistrate’s Court has rejected an appeal submitted by the Director of W.M. Mendis Distilleries Arjun Aloysius and two others, to be forwarded to the Colombo High Court, seeking to invalidate the prison sentence imposed on them by the court this morning (14) over VAT evasion.
-
-Through this appeal, the defendants have also requested permission to pay the due taxes in installments, Ada Derana reporter said.
-
-The Colombo Additional Magistrate Bandara Ilangasinghe had sentenced the Director of W.M. Mendis Distilleries, Arjun Aloysius and two others to 06 months in prison for defaulting the payment of Rs. 3.5 billion in Value Added Tax (VAT) by the company, when the case was taken up today.
-
-The relevant case was filed against the company by the Inland Revenue Department (IRD) for defaulting the payment of Rs. 3.5 billion in taxes owed to the government during the period from 2016 to 2019.
-
-◼️
-
-[Data](articles/b92ecc25.json)
-
-[Extended Data](ext_articles/b92ecc25.ext.json)
 
 ---

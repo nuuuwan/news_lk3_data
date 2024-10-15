@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 12:14:04**
+As of **2024-10-15 12:25:43**
 
 ## Newspaper Stats
 
-*Scraped **49,599** Articles*
+*Scraped **49,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,63 @@ dailymirrorlk | 4,733
 adaderanalk | 5,873
 tamilmirrorlk | 6,776
 virakesarilk | 7,932
-adaderanasinhalalk | 8,584
+adaderanasinhalalk | 8,586
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,599 (100.0%) of 49,599 articles have been extended.
+49,601 (100.0%) of 49,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Government standing on import of vehicle
+
+*2024-10-15 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202195) · `si`
+
+Sri Lanka government stance on vehicle imports: No duty concessions under current leadership. Previous cabinet decision unimplemented. Awaiting proper methodology to avoid economic crisis while restoring vehicle usage.
+
+🟩
+
+Cabinet spokesman Vijitha Herath today (15) explained how the vehicle imports.
+
+Addressing the Government's stand by joining the Cabinet Decision informed today (15).
+
+The Cabinet spokesman said that the vehicle concessions with duty concession has not been imported by the government.
+
+"There is a request to facilitate the importation of vehicles. There is a previous cabinet decision. But suddenly we have not made vehicles. After we have come to power, you have not imported duty concessionary vehicles. But the purpose of importing vehicles is subject to the correct methodology. We hope to give it the opportunity to open a dollar crisis in the country, not to restore the use of the vehicle in the country, we too. Currently duty concessionary vehicles are not implemented as new decisions inside our power control. But we are in the position that we should give the opportunity on imports. "
+
+◼️
+
+[Data](articles/7da99d17.json)
+
+[Extended Data](ext_articles/7da99d17.ext.json)
+
+---
+
+### New Chairman for EDB
+
+*2024-10-15 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202194) · `si`
+
+Here's a 200-character summary:
+
+
+
+"EDB appoints Mr. Mangala Wijesinghe as new Chairman."
+
+🟩
+
+Mr. Mangala Wijesinghe has been appointed as the Chairman of the Export Development Board.
+
+◼️
+
+[Data](articles/c7c4d128.json)
+
+[Extended Data](ext_articles/c7c4d128.ext.json)
+
+---
 
 ### North Korea blows up parts of inter-Korean road on its side of border, Seoul says
 
@@ -2257,53 +2303,5 @@ However, the Department of Meteorology said that more than 100 millimeters of he
 [Data](articles/cd2dee3a.json)
 
 [Extended Data](ext_articles/cd2dee3a.ext.json)
-
----
-
-### Dilith Sajith greets Sajith
-
-*2024-10-14 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202174) · `si`
-
-Sajith Premadasa returns as Opposition Leader. Dilith Jayaweera announces election campaign. Local politicians criticize selfish policies. Sajith may retire soon. Former local leaders participate in general election. Gampaha District Organizer Jayantha Atapattu appointed.
-
-🟩
-
-Former Opposition Leader Sajith Premadasa has come back from the Opposition Leader, Entrepreneral Dilith Jayaweera said.
-
-He was speaking at a media briefing held today (14).
-
-"The most successive nominations was successfully handed over. Our election campaign has now begun. Due to the selfish political policy and program of various politicians in this country had to be damaged by local politicians. It is often due to the leaders of those political parties, their corrupt transactions were all. We started the action of correcting it. As a result, we were able to collect the leaders of the people of the people with all the district. "
-
-Q: You are trying to be the opposition leader now?What happens to Sajith then?
-
-...
-
-[Data](articles/f1eea5a4.json)
-
-[Extended Data](ext_articles/f1eea5a4.ext.json)
-
----
-
-### Motorcycles and bicycles collide in Batticaloa
-
-*2024-10-14 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/196301) · `ta`
-
-Batticaloa: Motorcycle-bicycle collision kills one, injures two. Injured taken to Kaluwanchikudi Hospital. Police investigating incident.
-
-🟩
-
-One person was killed and two others were injured when a motorcycle and a motorcycle collided with a motorcycle in Ontachimadam area on Batticaloa Kalmunai main road.
-
-Wellaveli 39 -year -old Venusan, a young man, who was sitting on the back of the motorcycle, died.
-
-மோட்டார்சைக்கிளை செலுத்திச் சென்ற பெரியபோரதீவை சேர்ந்த இளைஞன் பலத்த காயமடைந்துள்ளதாகவும் தெரிவிக்கப்படுவதுடன் துவிச்சக்கர வண்டியில் பயணித்த ஓந்தாச்சிமடத்தை சேர்ந்த சிறுவனுக்கு சிறு காயம் ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது
-
-The injured have been admitted to the Kaluwanchikudi Resource Hospital for further treatment. விபத்து தொடர்பான மேலதிக விசாரணைகளை களுவாஞ்சிகுடி பொலிஸார் முன்னெடுத்து செல்கின்றனர்.
-
-◼️
-
-[Data](articles/aa7ac45a.json)
-
-[Extended Data](ext_articles/aa7ac45a.ext.json)
 
 ---

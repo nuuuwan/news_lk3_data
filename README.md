@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 02:39:25**
+As of **2024-10-16 02:57:56**
 
 ## Newspaper Stats
 
@@ -114,7 +114,7 @@ May the. Islands: 89/10 (16.1 ova. ) (Cash: Rowman Powell 20 (17), Alzari Joseph
 
 ### Sri Lanka won by 73 runs in the second T20 match
 
-*2024-10-15 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/196392) · `ta`
+*2024-10-15 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196392) · `ta`
 
 Sri Lanka wins 2nd T20 vs West Indies by 73 runs. Dunit Vellalake takes 3/9. Sri Lanka bats 162/5, Patum Nissanka scores 54. West Indies struggles to 89/16.
 

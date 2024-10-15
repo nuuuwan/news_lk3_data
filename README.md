@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 09:24:38**
+As of **2024-10-15 09:58:39**
 
 ## Newspaper Stats
 
-*Scraped **49,556** Articles*
+*Scraped **49,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,37 @@ dailyftlk | 3,363
 adalk | 4,600
 dailymirrorlk | 4,733
 adaderanalk | 5,862
-tamilmirrorlk | 6,766
+tamilmirrorlk | 6,767
 virakesarilk | 7,927
-adaderanasinhalalk | 8,576
+adaderanasinhalalk | 8,577
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,556 (100.0%) of 49,556 articles have been extended.
+49,558 (100.0%) of 49,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Railway engines set fire - obstructions to runway
+
+*2024-10-15 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202186) · `si`
+
+Train fire disrupts rail service between Kalutara and Maradana due to fuel leak near station.
+
+🟩
+
+The railway train was on the road near Kalutara to Maradana has been disrupted due to the fuel near the Kalutara railway station.
+
+◼️
+
+[Data](articles/18d46721.json)
+
+[Extended Data](ext_articles/18d46721.ext.json)
+
+---
 
 ### 2024 General Election: EC to release candidates’ preference numbers by tomorrow
 
@@ -71,6 +89,34 @@ Accordingly, train services on the main line and the coastal line are experienci
 [Data](articles/30405b23.json)
 
 [Extended Data](ext_articles/30405b23.ext.json)
+
+---
+
+### Chairman of the University Grants Commission resigned
+
+*2024-10-15 08:47:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மானியங்கள்-ஆணைக்குழுவின்-தலைவர்-பதவி-விலகினார்/175-345474) · `ta`
+
+University Grants Commission Chairman resigns along with members. Resignation letters sent to President. Tenure ends March 2024.
+
+🟩
+
+Members including the Chairman of the University Grants Commission have resigned from their posts.
+
+The resignation letters were sent to the President yesterday afternoon.
+
+According to the announcement made by the Presidential Secretariat, they have resigned from their posts.
+
+Accordingly, the Chairman of the University Grants Commission, Senior Professor Sampath Amaratunga and Vice President Senior Professor Chandana B.. They have resigned from the posts in effect yesterday.
+
+It is also reported that the Commissioners of the University Grants Commission have also sent their resignation letters to the President.
+
+It is noteworthy that the tenure of the current university grants commissions, which was appointed in 2020, ended March next year.. Remble
+
+◼️
+
+[Data](articles/0f736cdb.json)
+
+[Extended Data](ext_articles/0f736cdb.ext.json)
 
 ---
 
@@ -2359,49 +2405,5 @@ The Western Province Acting Education Director stated that this decision was tak
 [Data](articles/aceba093.json)
 
 [Extended Data](ext_articles/aceba093.ext.json)
-
----
-
-### One dead, 17 injured in boiler explosion at Badalgama factory
-
-*2024-10-14 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102684/one-dead-17-injured-in-boiler-explosion-at-badalgama-factory) · `en`
-
-At least 18 workers were injured while one of them succumbed to his injuries upon admission to the hospital this morning (14), following the exploding of a boiler at a factory in Badalgama.
-
-The deceased has been identified as a 52-year-old resident of the Giriulla area while the body has been placed in the mortuary of the Negombo District General Hospital.
-
-The injured are being treated at Negombo, Divulapitiya, and Akaragama hospitals.
-
-Investigations carried out thus far have revealed that the explosion occurred due to excessive pressure within the boiler while it was in operation, police said.
-
-◼️
-
-[Data](articles/6a929a6a.json)
-
-[Extended Data](ext_articles/6a929a6a.ext.json)
-
----
-
-### Wedding gutter instead of car
-
-*2024-10-14 16:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காருக்கு-பதிலாக-திருமண-தோணி/175-345447) · `ta`
-
-Newlyweds use tuk-tuk instead of car due to floods. Some mock, others praise their adaptability. Heavy rains submerge roads in Kalutara district.
-
-🟩
-
-The incident in which a newlywed couple was brought to Dhoni due to heavy rains have been reported in the Kalutara road due to heavy rains.
-
-With the inclement weather, they have used the dose instead of the wedding car.
-
-While some who saw this, they were ridiculed, many people congratulated them as a brave couple, bearing any situation.
-
-It is also worth noting that the streets of Kalutara, Pulathsingha, Mathurawala and other Divisional Secretariats have been submerged.
-
-◼️
-
-[Data](articles/02881d86.json)
-
-[Extended Data](ext_articles/02881d86.ext.json)
 
 ---

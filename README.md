@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 04:58:39**
+As of **2024-10-16 05:10:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,725 (100.0%) of 49,727 articles have been extended.
+49,727 (100.0%) of 49,727 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,6 +80,8 @@ Here in Sri Lanka, the challenges are multifaceted. Natural disasters, economic 
 
 [Data](articles/93d61273.json)
 
+[Extended Data](ext_articles/93d61273.ext.json)
+
 ---
 
 ### What should we expect of our MPs?
@@ -93,6 +95,8 @@ Several years ago, I was at what was perhaps the inaugural meeting that launched
 ...
 
 [Data](articles/8b345ae3.json)
+
+[Extended Data](ext_articles/8b345ae3.ext.json)
 
 ---
 

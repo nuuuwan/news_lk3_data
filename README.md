@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 06:09:30**
+As of **2024-10-15 06:44:51**
 
 ## Newspaper Stats
 
-*Scraped **49,527** Articles*
+*Scraped **49,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 401
 colombotelegraphcom | 493
 bbccomsinhala | 495
-islandlk | 2,935
+islandlk | 2,941
 economynextcom | 3,034
 dailyftlk | 3,363
 adalk | 4,596
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,527 (100.0%) of 49,527 articles have been extended.
+49,532 (100.0%) of 49,533 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -491,6 +491,104 @@ Also, all schools in the Western Province will be closed tomorrow. Remble
 [Data](articles/51736cc7.json)
 
 [Extended Data](ext_articles/51736cc7.ext.json)
+
+---
+
+### Doing it unplugged
+
+*2024-10-14 23:54:00* · [`islandlk`](http://island.lk/doing-it-unplugged/) · `en`
+
+The LunuDehi-Bathiya and Santhush (BNS) combination has been creating a storm with their music, especially overseas.
+
+Of course, their music is very infectious here, too, but the demand for them overseas is stupendous…and they do it differently, as well.
+
+Their unplugged concerts are crowd-pullers where they perform using all acoustic instruments – guitars, piano, brass instruments, violins, cajons, etc.
+
+In fact, their next overseas unplugged concert will be in Australia.
+
+BNS will be doing ‘Hadagasma’, a special edition Unplugged Concert at Palms at Crown, in Melbourne, on Sunday, 27th October, with LunuDehi providing the backing, using acoustic instruments.
+
+The organisers are expecting a full house and it’s very likely that would happen as 70% of the tickets have already been purchased by fans of BNS/LuniDehi.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/6073d8e1.json)
+
+[Extended Data](ext_articles/6073d8e1.ext.json)
+
+---
+
+### VAT hike in Sri Lanka: Who really pays the price?
+
+*2024-10-14 23:35:00* · [`islandlk`](http://island.lk/vat-hike-in-sri-lanka-who-really-pays-the-price/) · `en`
+
+The recent VAT revisions have hit the poorest the hardest, whereas the bottom 10% of income group households now spend about 10% of their income on VAT.
+
+The VAT burden has risen by approximately 50%, primarily due to theremoval of VAT exemptions on around 100 items.
+
+This blog offers potential solutions for easing the VAT burden in Sri Lanka.
+
+Priyanka Jayawardena is a Research Economist at IPS with research interests in skills and education, demographics, health, and labour markets. Priyanka has around 15 years of research experience at IPS. She has worked as a consultant to international organisations including World Bank, ADB and UNICEF. She holds a BSc (Hons) specialised in Statistics and an MA in Economics, both from the University of Colombo. (Talk with Priyanka – priyanka@ips.lk)
+
+...
+
+[Data](articles/0f2f9e99.json)
+
+[Extended Data](ext_articles/0f2f9e99.ext.json)
+
+---
+
+### Hela Apparel Holdings completes successful Rights Issue, raising LKR 1.6 billion
+
+*2024-10-14 23:26:00* · [`islandlk`](http://island.lk/hela-apparel-holdings-completes-successful-rights-issue-raising-lkr-1-6-billion/) · `en`
+
+Hela Apparel Holdings PLC has confirmed the successful completion of its rights issue, raising Rs. 1,596,826,135 through the issue of shares. This achievement reflects the strong support of the company’s shareholders and will contribute to the strengthening of the Hela Group’s balance sheet for future growth.
+
+The rights issue offered a total of 319,365,227 Ordinary Voting Shares to existing shareholders on a proportional basis. As a result of the subscriptions received from shareholders, including from the company’s top three shareholders, and applications for additional shares, the issue was successfully oversubscribed on the closing date.
+
+...
+
+[Data](articles/1789d9e1.json)
+
+[Extended Data](ext_articles/1789d9e1.ext.json)
+
+---
+
+### ‘Fintech Forum ready to place Sri Lanka on global stage’
+
+*2024-10-14 23:25:00* · [`islandlk`](http://island.lk/fintech-forum-ready-to-place-sri-lanka-on-global-stage/) · `en`
+
+“The entire industry must come together to achieve true financial inclusion. It’s not something one entity can accomplish on its own,” said Channa de Silva, Chairman of the newly launched Fintech Forum, Sri Lanka and Chief Executive Officer of LankaPay, the National Payment Network of Sri Lanka.
+
+His words encapsulate the core mission of the Fintech Forum—a collaborative effort to unite the fragmented financial sector, including banks, non-banking financial institutions and fintech providers, to drive innovation and ensure that digital financial services are accessible to all Sri Lankans. This industry association serves as a unified platform for fintech companies, startups, investors, and other stakeholders to collaborate, share knowledge, and promote the growth of the fintech ecosystem in the country.
+
+...
+
+[Data](articles/15342d5a.json)
+
+[Extended Data](ext_articles/15342d5a.ext.json)
+
+---
+
+### Profit-takings among banking sector counters send bourse into bearish disposition
+
+*2024-10-14 23:22:00* · [`islandlk`](http://island.lk/profit-takings-among-banking-sector-counters-send-bourse-into-bearish-disposition/) · `en`
+
+The stock market indicated a bearish trend yesterday because profit- takings were noted among banking sector counters. However, other counters did fairly well, market analysts said.
+
+Further, plantation sector counters apparently performed well during the day, probably due to a tea price hike in the global market caused by dry weather conditions prevailing in India, which is one of the largest tea producers in the world.
+
+Further, apparel sector stocks also performed well due to healthy exports in the sector, compared to last year.
+
+Apart from that, the JKH share price also moved up due to the opening of its flagship, “Cinnamon Life” project today.
+
+...
+
+[Data](articles/5f139583.json)
+
+[Extended Data](ext_articles/5f139583.ext.json)
 
 ---
 
@@ -2273,119 +2371,5 @@ The High Court Judge was sentenced to death by the suspect, which was guilty of 
 [Data](articles/4b28536b.json)
 
 [Extended Data](ext_articles/4b28536b.ext.json)
-
----
-
-### Scholarship Affairs: No Redeeming Examination
-
-*2024-10-14 13:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-விவகாரம்-மீள்-பரீட்சை-இல்லை/175-345437) · `ta`
-
-Grade 5 scholarship exam cancelled due to leaks. Free points for affected students. Decision made after PM's advice.
-
-🟩
-
-The Department of Examinations has decided not to reclaim the Grade 5 scholarship examination at a meeting on Monday morning (14).
-
-The Commissioner General of Examinations Amit Jayasundera said that he will provide free points for all three of the alleged leaked questions.
-
-The decision was taken on Monday (14) following a seven -member committee meeting. The committee decided not to re -hold the selection.
-
-Commenting on the media, Secretary to the Ministry of Education Mrs. Tilaka Jayasundara said the decision was taken on the advice of Prime Minister Dr. Harini Amarasuriya.
-
-◼️
-
-[Data](articles/6ca9680b.json)
-
-[Extended Data](ext_articles/6ca9680b.ext.json)
-
----
-
-### Will the scholarship examination resize?Examination Commissioner's decision
-
-*2024-10-14 13:30:11* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-විභාගය-යළි-පවත්වනවාද---විභාග-කොමසාරිස්-අද-දුන්-තීන්දුව/11-412480) · `si`
-
-Grade 5 scholarship exam changes: Examination Commissioner Amit Jayasundara announced full marks for three questions. No mention of resizing the exam.
-
-🟩
-
-Commissioner General of Examinations, Amit Jayasundara, participated in joined the press conference today as the Grade 5 scholarship examination.
-
-He further stated that the three children will be given full marks for the three questions.
-
-◼️
-
-[Data](articles/95b1640b.json)
-
-[Extended Data](ext_articles/95b1640b.ext.json)
-
----
-
-### A warning about the next 24 hours
-
-*2024-10-14 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202152) · `si`
-
-Heavy rains, strong winds expected in South Bay of Bengal over next 24 hours. Low-pressure system moving westward towards Tamil Nadu and South Andhra Pradesh. Strong gusts (60-70 km/h) and rough seas predicted. Maritime and fishing activities advised against until further notice.
-
-🟩
-
-The Department of Meteorological Department has issued a warning of heavy rains, strong winds and sea in the area of ​​the South Bay of Bengal.
-
-It states that a less pressure zone in the southeast Bay of Bay of Bay of Bay, which is said today.
-
-Accordingly, it will be a low-pressure zone, which is well marked in the next 2 days and heading towards West West and Move towards North Tamil Nadu, Puducharii and adjoining South Andhra areas.
-
-Very strong winds in areas between 6 and 12 northern latitude and 81 and 93 East Longitude 81 and 93.. 60-70, strong showers may be in harmony and the sea areas can be very rough.
-
-Shipping and fishing communities have informed the maritime and fishing communities not to be sailed until the mark score in the above map.
-
-The Department of Meteorological Department also emphasized the fisheries and the community to focus on the future announcements.
-
-◼️
-
-[Data](articles/6453956d.json)
-
-[Extended Data](ext_articles/6453956d.ext.json)
-
----
-
-### Here are the presidential candidates who handed over revenue expenditure
-
-*2024-10-14 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202151) · `si`
-
-Presidential candidates submit financial reports: 35 candidates received income/expenditure reports from Election Commission.
-
-🟩
-
-The Elections Commission has issued an announcement on the Presidential candidates who handed over income and expenditure on the presidential election.
-
-It states that 35 candidates have been given their reports in relation to the presidential election.
-
-◼️
-
-[Data](articles/011e0f6f.json)
-
-[Extended Data](ext_articles/011e0f6f.ext.json)
-
----
-
-### Foreign Workers. 4843 sent
-
-*2024-10-14 13:11:39* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ගත-ශ්‍රමිකයන්-ඩො-මි--4843ක්-එවලා/11-412479) · `si`
-
-Sri Lanka's foreign workers sent $4,843.8 million in remittances from Jan-Sep 2024, a 11.5% increase over 2023. In Sept 2024, remittances reached $555.6 million, slightly lower than Aug's $577.5 million.
-
-🟩
-
-The total remittance of Sri Lanka is US $ 4,843.8 million in the 9-month period from January to September, the Central Bank of Sri Lanka.
-
-This is an increase of 11.5% compared to the amount of remittances received in the first nine months of 2023.
-
-In September, 2024, Sri Lanka has received a remittance of $ 555.6 million in August 2024 as $ 577.5 million.
-
-◼️
-
-[Data](articles/a3b983e9.json)
-
-[Extended Data](ext_articles/a3b983e9.ext.json)
 
 ---

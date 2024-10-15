@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 15:23:21**
+As of **2024-10-15 15:58:19**
 
 ## Newspaper Stats
 
-*Scraped **49,635** Articles*
+*Scraped **49,641** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,116 @@ bbccomsinhala | 497
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
-adalk | 4,610
+adalk | 4,611
 dailymirrorlk | 4,733
 adaderanalk | 5,876
-tamilmirrorlk | 6,786
+tamilmirrorlk | 6,788
 virakesarilk | 7,941
-adaderanasinhalalk | 8,592
+adaderanasinhalalk | 8,595
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,634 (100.0%) of 49,635 articles have been extended.
+49,641 (100.0%) of 49,641 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Closed schools opened tomorrow
+
+*2024-10-15 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202205) · `si`
+
+Schools reopen tomorrow after closure due to weather conditions. Western and Southern provinces affected. Education officials notified.
+
+🟩
+
+The schools closed in the Western and Southern provinces and today (14) and today (14) and today (14) and today (15) have been reopened tomorrow (16).
+
+Provincial Education Directors have been filed to the Provincial Director of Education.
+
+◼️
+
+[Data](articles/761c145a.json)
+
+[Extended Data](ext_articles/761c145a.ext.json)
+
+---
+
+### Indian-Canada diplomatic crisis waiting for the world
+
+*2024-10-15 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202204) · `si`
+
+India-Canada diplomatic crisis: Separatist leader killed, 6 diplomats expelled, both countries accuse each other of involvement. Crisis escalates tensions between Commonwealth nations.
+
+🟩
+
+The diplomatic crisis between Canada and India is intensifying in the mysterious killing of the SC separatedist leader in Bigep Singhi Canada, who was considered a separatist leader in British Colombor Canada.
+
+It is reported that six diplomatic officers including the Indian High Commissioner in Canada have been deported in Canada.
+
+The Saka separatist leader was killed in June last year.
+
+The Prime Minister Justin Tourism was accused of being involved in the assassination of the Indian government.
+
+He emphasized that it is unacceptable to assassinate a Canadian national in Canada with foreign intervention.
+
+The Indian government accused of announced that 6 high-level diplomatic officers including the Indian High Commissioner in Canada targeting Indian government.
+
+Responding to this announced that India and the Sri Lanka Acting Canadian High Commissioner and six high level diplomats were deported.
+
+...
+
+[Data](articles/62225a1a.json)
+
+[Extended Data](ext_articles/62225a1a.ext.json)
+
+---
+
+### University students to unique
+
+*2024-10-15 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202203) · `si`
+
+Wasp attacks university students at Ruhuna University camp. 6 students injured, hospitalized. Incident occurred on 15th day of month.
+
+🟩
+
+Wasp attacked a group of university students who went to camp in Bopattala Kanda Kanda Kanda.
+
+The wasp attack on the area at Ruhuna University today (15), 6 students who were injured have been admitted to the Bogawantalawa Hospital.
+
+◼️
+
+[Data](articles/2234bb51.json)
+
+[Extended Data](ext_articles/2234bb51.ext.json)
+
+---
+
+### Murder of Madulzima;Arrest
+
+*2024-10-15 15:18:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மடுல்சீம-கொலை-மேலுமொருவர்-கைது/76-345504) · `ta`
+
+Murder suspect arrested in Sri Lanka. Body not found after alleged disposal. Two arrests made so far. Investigation ongoing.
+
+🟩
+
+Holly Ela Rosetwatte area has been arrested by Vivekanandan Sujeevan, a three -wheeler driver, who was arrested on Tuesday (15) on suspicion of throwing a body from the end of the world from the end of the world.. .
+
+A father of four children from Madulzima, Batawatte area (27 years old) has been arrested.
+
+The body of a young man who was thrown was not found till Tuesday (15), police said.
+
+It is noteworthy that the 34 -year -old Chandra Bose Dayalan, a 34 -year -old man, has already been arrested on suspicion.
+
+◼️
+
+[Data](articles/e8bd7cb5.json)
+
+[Extended Data](ext_articles/e8bd7cb5.ext.json)
+
+---
 
 ### Govt. announcement on Rs. 3,000 increment for pensioners
 
@@ -47,6 +141,8 @@ The Minister also highlighted the long-standing issue of wage disparity among pe
 ...
 
 [Data](articles/a9b60aa3.json)
+
+[Extended Data](ext_articles/a9b60aa3.ext.json)
 
 ---
 
@@ -434,6 +530,28 @@ The Department of Meteorological Department also requests the fisheries and the 
 
 ---
 
+### Did Gammanpila have a serious crime with Easter records?Immediate records immediately within 3 days
+
+*2024-10-15 13:12:21* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-වාර්තා-තියාගෙන-ගම්මන්පිල-බරපතල-අපරාධයක්-කළාද--දින-03ක්-තුළ-වහාම-වාර්තා-ගෙනත්-දෙන්න/11-412502) · `si`
+
+Gammanpila accused of withholding Easter attack records. Cabinet spokesperson demands immediate submission of reports within 3 days, warns of serious consequences if hidden.
+
+🟩
+
+Cabinet Spokesperson Vijitha Herath said that Udaya Gammanpila has recorded reports of the Passover attack.
+
+He was speaking at a media briefing at the Cabinet Decision informed in Colombo today (15).
+
+"If Mr. Gammanpila is available, we will take those reports if we can post for three days. Then we are easy. Government's records are correct, testing the right method. Pages are less than. After these tests, we are bonding to do justice to those people. If the Gammanpila received reports, they should be immediately given them.. How they found them. We also want to know. The people of the country like to know. If Mr Gammanpila was hiding these reports so far, it would be a serious crime. "
+
+◼️
+
+[Data](articles/1a3b651a.json)
+
+[Extended Data](ext_articles/1a3b651a.ext.json)
+
+---
+
 ### Travel on the Reform of International Monetary Fund - Fight against Corruption - Julisung among trade communities
 
 *2024-10-15 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196337) · `ta`
@@ -595,6 +713,32 @@ As the Minister of Justice, Public Administration, Home Affairs, Provincial Coun
 [Data](articles/7b8232da.json)
 
 [Extended Data](ext_articles/7b8232da.ext.json)
+
+---
+
+### Virgin Vignaraja meets with President Prime Minister
+
+*2024-10-15 12:21:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பிரதமருடன்-கன்னி-விக்னராஜா-சந்திப்பு/175-345495) · `ta`
+
+UNDP's Virgin Vignaraja meets SL leaders: Discusses sustainable growth, economic reforms, digital transformation, and community safety. Focuses on empowering women, youth, and rural farmers. First high-ranking UN official to visit post-election Sri Lanka.
+
+🟩
+
+The Sri Lankan who holds the United Nations has met with the Virgin Vignaraja, President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya.
+
+Vignaraja, who served as the United Nations Assistant Secretary General and the United Nations Asian and Pacific Regional Development Project Director, was present during his one -day visit to Sri Lanka.
+
+According to the UNDP Sri Lanka, UNDP's Resident Representative to Sri Lanka, Asusa Kuboda, also attended the meeting with Vignaraja.
+
+In his involvement, Vignaraja strengthened the commitment of UNDP to achieve sustainable growth in the fields of economic and administrative reforms, accountability, refreshment capital, digital change, public sector modernization and strengthening the safety of vulnerable communities in the country.
+
+Vignaraja reiterated the policy and technical offers of UNDP in these areas, with particular attention to women, youth and rural farmers, which have many impacts of economics, disasters and climate change.
+
+...
+
+[Data](articles/b1f5b727.json)
+
+[Extended Data](ext_articles/b1f5b727.ext.json)
 
 ---
 
@@ -2265,129 +2409,5 @@ Launched in 2023 to meet evolving customer needs, AliExpress Choice offers a cur
 [Data](articles/bd78bb2a.json)
 
 [Extended Data](ext_articles/bd78bb2a.ext.json)
-
----
-
-### 'Happy has faced many rejections. There are more than 50 employees under today
-
-*2024-10-15 03:47:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8xe2x05exzo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Dakshi Nanaskara overcame rejection as a 2-year-old mother. She was initially dismissed due to her height but now leads 50 million employees in the hotel industry. Her story highlights perseverance and societal understanding.
-
-🟩
-
-'Happy has faced many rejections. There are more than 50 employees under today
-
-Talls, 11 inches tall, a mother of two years ago, was two-year-old mother.
-
-It has been rejected, including the rejection of the principal to admit the tall decline and interviewing the principal.
-
-"When I opened the door for the first interview, they laughed like humor when I was opened. It felt up my mind. I didn't seek to get rushing in others and. Today, I am a 50-million employees in the hotel industry. There is no other lack of tall. That is what to understand the society, "Dakshi Nanaskara told BBC Sinhala service.
-
-◼️
-
-[Data](articles/f41188da.json)
-
-[Extended Data](ext_articles/f41188da.ext.json)
-
----
-
-### Votes for President reflect public frustration with corruption, not support for NPP ideology – Imthiaz
-
-*2024-10-15 03:19:05* · [`dailyftlk`](https://www.ft.lk/news/Votes-for-President-reflect-public-frustration-with-corruption-not-support-for-NPP-ideology-Imthiaz/56-767983) · `en`
-
-Says votes for NPP do not reflect public belief that it has best plan or team to rebuild SL
-
-Claims votes for President were driven by opposition to corrupt dealings, widespread disillusionment, and economic pressures
-
-Urges public to make informed, intelligent choices for SL’s future rather than being swayed by attractive but empty rhetoric
-
-Says people did not look at manifestos last poll and urged them to carefully examine and compare SJB’s one to those of others
-
-Former Samagi Jana Balawegaya (SJB) MP Imthiaz Bakeer Markar has said that the votes cast for President Anura Kumara Dissanayake in the recent Presidential election were more a reflection of public dissent against the existing corrupt political system than an endorsement of the National People’s Power (NPP) party’s ideology and policies.
-
-...
-
-[Data](articles/d593042a.json)
-
-[Extended Data](ext_articles/d593042a.ext.json)
-
----
-
-### President prioritises immediate relief for districts affected by inclement weather
-
-*2024-10-15 03:16:41* · [`dailyftlk`](https://www.ft.lk/news/President-prioritises-immediate-relief-for-districts-affected-by-inclement-weather/56-767982) · `en`
-
-Calls for long-term sustainable program to effectively address recurring flood situation in country
-
-Directs officials to arrange immediate relief for Colombo, Gampaha, Puttalam, Kalutara districts
-
-Allocates additional Rs. 50 m; advises to allocate more funds if required
-
-President Anura Kumara Dissanayake yesterday emphasised the need for a specific and sustainable program to address the recurring flood situation in the country. He noted that frequent flooding requires long-term solutions for effective control.
-
-During a meeting with officials from the Disaster Management Ministry and the Finance Ministry at the Presidential Secretariat, the President directed officials to prioritise immediate relief for the most affected four districts – Colombo, Gampaha, Puttalam, and Kalutara by the inclement weather in Colombo. Following the relief efforts, attention should then shift to repairing damaged properties.
-
-...
-
-[Data](articles/73bf97d9.json)
-
-[Extended Data](ext_articles/73bf97d9.ext.json)
-
----
-
-### UNDP pledges support for governance and economic reforms during meeting with President
-
-*2024-10-15 03:14:53* · [`dailyftlk`](https://www.ft.lk/news/UNDP-pledges-support-for-governance-and-economic-reforms-during-meeting-with-President/56-767981) · `en`
-
-United Nations (UN) Assistant Secretary General Kanni Wignaraja met with President Anura Kumara Dissanayake yesterday at the Presidential Secretariat. The discussion primarily focused on governance, Constitutional reforms, and the country’s electoral system.
-
-Wignaraja presented the report on ‘Understanding Multidimensional Vulnerabilities: Impact on the People of Sri Lanka’ to President Dissanayake. Based on the findings of this report, the United Nations Development Program (UNDP) assured its support for Sri Lanka’s development efforts.
-
-...
-
-[Data](articles/2639cb08.json)
-
-[Extended Data](ext_articles/2639cb08.ext.json)
-
----
-
-### SDD Polymer marks 20 years of growth, innovation, and industry leadership
-
-*2024-10-15 03:11:48* · [`dailyftlk`](https://www.ft.lk/business/SDD-Polymer-marks-20-years-of-growth-innovation-and-industry-leadership/34-767980) · `en`
-
-SDD Polymer Ltd., a leading distributor and supplier of plastic raw materials in Sri Lanka, recently celebrated its 20th anniversary with a grand event at the Shangri-La Hotel in Colombo. The gala affair hosted by the Founders, Mr. and Mrs. Jeyaseelan brought together special guests, high-profile invitees, industry veterans, executives and staff to mark two decades of innovation, growth, and strong partnerships that have propelled the company to the forefront of Sri Lanka’s packaging and polymer industry.
-
-Founded in 2004, SDD Polymer has evolved from a small enterprise into a prominent player in the polymer industry. Specialising in petrochemical products, the company supplies a wide range of plastic raw materials, including Polypropylene (PP), High-density Polyethylene (HDPE), Low-density Polyethylene (LDPE), Linear Low-density Polyethylene (LLDPE), Polystyrene (PS), Masterbatches, Additives, Fillers, and Compounds, catering to various sectors of the plastics industry.
-
-...
-
-[Data](articles/b9e7fe56.json)
-
-[Extended Data](ext_articles/b9e7fe56.ext.json)
-
----
-
-### Unilever Sri Lanka partners USAID and Vega Innovations to scale-up refillable systems
-
-*2024-10-15 03:09:40* · [`dailyftlk`](https://www.ft.lk/business/Unilever-Sri-Lanka-partners-USAID-and-Vega-Innovations-to-scale-up-refillable-systems/34-767979) · `en`
-
-Image Caption: Representatives from Unilever, USAID, USAID Ocean Plastics Reduction Activity, Codegen/Vega Innovations, and the Environment Ministry
-
-Unilever Sri Lanka, in partnership with Vega Innovations, and the United States Agency for International Development’s (USAID), is scaling up the use of refillable stations.
-
-These stations, part of Vega Innovations’ UFill initiative, offer consumers cost-effective ways to refill Unilever products such as laundry liquids and shampoos, while reducing reliance on single-use plastic packaging.
-
-By 2027, the UFill initiative is expected to prevent over 128 metric tons of plastic waste from entering Sri Lankan landfills. Consumers will also benefit from 20-30% lower cost by refilling instead of purchasing new packaging. USAID’s Ocean Plastics Reduction Activity will support these efforts through strategic and technical assistance.
-
-...
-
-[Data](articles/af675326.json)
-
-[Extended Data](ext_articles/af675326.ext.json)
 
 ---

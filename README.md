@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 16:38:57**
+As of **2024-10-15 16:57:12**
 
 ## Newspaper Stats
 
-*Scraped **49,653** Articles*
+*Scraped **49,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 3,037
 dailyftlk | 3,363
 adalk | 4,613
 dailymirrorlk | 4,733
-adaderanalk | 5,879
+adaderanalk | 5,880
 tamilmirrorlk | 6,793
 virakesarilk | 7,941
-adaderanasinhalalk | 8,596
+adaderanasinhalalk | 8,597
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,653 (100.0%) of 49,653 articles have been extended.
+49,655 (100.0%) of 49,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Advisory issued for naval and fishermen communities
+
+*2024-10-15 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102715/advisory-issued-for-naval-and-fishermen-communities) · `en`
+
+The Department of Meteorology has issued an advisory for heavy rain, strong winds and rough seas for the sea areas over the Southern Bay of Bengal.
+
+Issuing the advisory, the Met. Department said that the low-pressure area over the southeast Bay of Bengal has moved west-northwestwards and is located as a well-marked low-pressure area over the central part of the south Bay of Bengal at 05.30 a.m. today (15).
+
+It is likely to intensify into a depression and continue to move west-northwestwards towards north Tamil Nadu, Puducherry and adjoining south Andhra Pradesh coasts during the next 2 days, it added.
+
+Meanwhile, the department mentioned that very strong winds of around 60 -70 kmph, accompanied with heavy rainfalls and very rough seas are likely over the sea areas bounded by 07N - 15N and 81E – 90E.
+
+...
+
+[Data](articles/8f2f97f3.json)
+
+[Extended Data](ext_articles/8f2f97f3.ext.json)
+
+---
+
+### Request of Presidential Employees
+
+*2024-10-15 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202207) · `si`
+
+President Anura Kumara Dissanayake emphasizes creating an efficient public service to benefit citizens. He calls for transparency in government operations and warns against fraud and corruption. The president also prioritizes energy sector projects, urging swift implementation over the next three years.
+
+🟩
+
+President Anura Kumara Dissanayake says that he is essential to create an effective and efficient public service to satisfy the citizenship and to take every step to take every step.
+
+He was speaking at the progress review discussion held at the Ministry of Energy today (15th).
+
+The President believes that the fraud and waste behind the brethren of the country's economy, the President insists that the masses have spread throughout the state's body, and the public servants committed to fulfill their responsibility properlyAsked as.
+
+And the President said that the wealth should be saved as a form of property and there is no justified right to fraud or rape.
+
+President Anura Kumara Dissanayake says that he is appearing for all the people who are working in the duties within the duties, and not to do what should be done.
+
+The President said that projects to achieve the goals of the energy sector within the next three years should be formal and expedited.
+
+◼️
+
+[Data](articles/a9583ba6.json)
+
+[Extended Data](ext_articles/a9583ba6.ext.json)
+
+---
 
 ### Bangladesh harassed Harunara
 
@@ -2369,49 +2417,5 @@ The Department of Meteorology has urged the public to take steps to protect them
 [Data](articles/e8423c05.json)
 
 [Extended Data](ext_articles/e8423c05.ext.json)
-
----
-
-### Railway Delay - A Notification of Passengers
-
-*2024-10-15 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202183) · `si`
-
-Colombo Fort-Maradana train service disrupted due to collision involving Indian intercity train. Delays expected on both rail and coastal road routes.
-
-🟩
-
-Train services were interrupted due to a deckoning between Colombo Fort and Maradana railway stations.
-
-The Railway Department said that the Indian intercani train has been involved in the Indian intercity train.
-
-As a result, the train between Colombo Fort and Maradana has been disrupted.
-
-The delays in the train and coastal road can be held in the railway and coastal road.
-
-◼️
-
-[Data](articles/1be8bbf8.json)
-
-[Extended Data](ext_articles/1be8bbf8.ext.json)
-
----
-
-### Trains delayed due to derailment between Fort and Maradana
-
-*2024-10-15 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102693/trains-delayed-due-to-derailment-between-fort-and-maradana) · `en`
-
-The derailment of a train between Colombo Fort and Maradana railway stations has delayed train services, according to the Railway Department.
-
-It said that the engine of the Meenagaya Intercity Express Train plying from Batticaloa to Colombo Fort had derailed in this manner at around 7.00 a.m. this morning (15).
-
-This has disrupted train services between Colombo Fort and Maradana.
-
-Accordingly, train services on the main line and the coastal line could experience delays owing to this, Sri Lanka Railways said.
-
-◼️
-
-[Data](articles/55975aee.json)
-
-[Extended Data](ext_articles/55975aee.ext.json)
 
 ---

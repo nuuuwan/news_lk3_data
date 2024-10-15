@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 04:23:30**
+As of **2024-10-16 04:39:07**
 
 ## Newspaper Stats
 
-*Scraped **49,720** Articles*
+*Scraped **49,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 494
 bbccomsinhala | 499
 islandlk | 2,942
 economynextcom | 3,047
-dailyftlk | 3,363
+dailyftlk | 3,366
 adalk | 4,624
 dailymirrorlk | 4,733
 adaderanalk | 5,884
@@ -26,11 +26,71 @@ adaderanasinhalalk | 8,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,720 (100.0%) of 49,720 articles have been extended.
+49,723 (100.0%) of 49,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### ECSL to take legal action against three Presidential candidates
+
+*2024-10-16 04:10:06* · [`dailyftlk`](https://www.ft.lk/news/ECSL-to-take-legal-action-against-three-Presidential-candidates/56-768006) · `en`
+
+ECSL plans to take legal action against Battaramulle Seelarathana Thera, P. Ariyanethran, and Sarath Keerthiratne for failing to submit Presidential election expenditure reports
+
+The Election Commission of Sri Lanka (ECSL) yesterday announced plans to initiate legal proceedings against Presidential candidates Battaramulle Seelarathana Thera, P. Ariyanethran, and Sarath Keerthiratne for failing to submit their Presidential election expenditure reports by the specified deadline.
+
+According to a statement issued by the ECSL yesterday, 35 out of the 38 candidates had successfully submitted their expenditure reports before the final deadline, which lapsed on 13 October.
+
+The ECSL noted that 15 candidates, including election front-runners President Anura Kumara Dissanayake and former Opposition Leader Sajith Premadasa, submitted their reports on the final day.
+
+...
+
+[Data](articles/6f74d251.json)
+
+[Extended Data](ext_articles/6f74d251.ext.json)
+
+---
+
+### UN Assistant Secretary General and UNDP Asia Pacific Chief concludes visit
+
+*2024-10-16 04:09:31* · [`dailyftlk`](https://www.ft.lk/news/UN-Assistant-Secretary-General-and-UNDP-Asia-Pacific-Chief-concludes-visit/56-768005) · `en`
+
+President Anura Kumara Dissanayake meets with ASG Wignaraja during her mission in Sri Lanka
+
+Meets with President and Prime Minister during one day visit
+
+United Nations Assistant-Secretary-General (ASG) and United Nations Development Program (UNDP) Regional Director for Asia and the Pacific Kanni Wignaraja met with President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya during her one day in-country mission on Monday (14).
+
+ASG Wignaraja was accompanied by Resident Representative of UNDP in Sri Lanka Azusa Kubota.
+
+In her engagements, Wignaraja reinforced UNDP’s commitment, building on its long-standing partnership, to supporting national priorities towards attaining sustainable development, in the areas of economic and governance reforms, accountability, innovative financing, digital transformation, public sector modernisationand protection of the most vulnerable communities in the country.
+
+...
+
+[Data](articles/bc277ce4.json)
+
+[Extended Data](ext_articles/bc277ce4.ext.json)
+
+---
+
+### Sandya Rajapakse appointed as new Government Analyst
+
+*2024-10-16 04:07:35* · [`dailyftlk`](https://www.ft.lk/news/Sandya-Rajapakse-appointed-as-new-Government-Analyst/56-768004) · `en`
+
+The Cabinet has approved the appointment of Sandya Kumudini Rajapakse as the new Government Analyst.
+
+Rajapakse, currently serving as Assistant Government Analyst, has been appointed following the retirement of Deepika Seneviratne, who held the position until 11 October 2024.
+
+According to the seniority list of special grade officers within the Sri Lanka Scientific Service, Rajapakse’s promotion to Government Analyst comes in recognition of her experience and expertise in the field.
+
+◼️
+
+[Data](articles/4349e6ec.json)
+
+[Extended Data](ext_articles/4349e6ec.ext.json)
+
+---
 
 ### தற்போதைய பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்டெடுக்க பொதுத் தேர்தலின் பின்னர் தேசிய அரசாங்கம் அமைக்கப்பட வேண்டும் - ரவூப் ஹக்கீம்
 
@@ -2471,77 +2531,5 @@ He was speaking at a media briefing at the Cabinet Decision informed in Colombo 
 [Data](articles/3304932a.json)
 
 [Extended Data](ext_articles/3304932a.ext.json)
-
----
-
-### The Ministry of Health warns that there is a risk of spreading dengue
-
-*2024-10-15 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196319) · `ta`
-
-Dengue warning: 40,657 cases, 20 deaths this year. Risk in Colombo, Gampaha, Kalutara, Kandy, Ratnapura, Matara, Galle, Matale districts due to rainy weather.
-
-🟩
-
-The Ministry of Health has warned that dengue is at risk due to the prevailing rainy weather in the country.
-
-According to the National Dengue Control Division's Community Health Doctor Anoja Therasinghe, 40,657 dengue patients have been identified within the country this year.
-
-Dr. Anoja Therasinghe says 20 people have died of dengue this year.
-
-Dr. Anoja Therasinghe said that there is a risk of spreading dengue in the districts of Colombo, Gampaha and Kalutara, Kandy, Ratnapura, Matara, Galle and Matale.
-
-◼️
-
-[Data](articles/81d496da.json)
-
-[Extended Data](ext_articles/81d496da.ext.json)
-
----
-
-### Sahara Desert flooded for the first time in decades
-
-*2024-10-15 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102709/sahara-desert-flooded-for-the-first-time-in-decades) · `en`
-
-Striking images from the Sahara Desert show large lakes etched into rolling sand dunes after one of the most arid, barren places in the world was hit with its first floods in decades.
-
-The Sahara does experience rain, but usually just a few inches a year and rarely in late summer. Over two days in September, however, intense rain fell in parts of the desert in southeast Morocco, after a low pressure system pushed across northwestern Sahara.
-
-Preliminary NASA satellite data showed nearly 8 inches of rain in some parts of the region.
-
-Errachidia, a desert city in southeast Morocco, recorded nearly 3 inches of rainfall, most of it across just two days last month. That’s more than four times the normal rainfall for the whole month of September, and equates to more than half a year’s worth for this area.
-
-“It’s been 30 to 50 years since we’ve had this much rain in such a short space of time,’ Houssine Youabeb from Morocco’s meteorology agency told AP last week.
-
-...
-
-[Data](articles/1ec38239.json)
-
-[Extended Data](ext_articles/1ec38239.ext.json)
-
----
-
-### Tell us we are doing
-
-*2024-10-15 12:44:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நீங்கள்-சொல்லுங்கள்-நாங்கள்-செய்கிறோம்/71-345497) · `ta`
-
-Candidate claims no funding needed for politics. Focuses on personal wealth and community support. Aims for election without minority contributions. Emphasizes transparency and honesty in political approach.
-
-🟩
-
-It does not need funds to make true politics it is my theory. Politicians have raised funds so far if it is going to be normal. Yall. We will get six seats in the electoral district.
-
-He said this while addressing the introduction of the candidate held on Monday (15) at a private hotel in Jaffna.
-
-Furthermore: I don't need any funds for politics to make politics. I have kept enough money for me. No one has asked for money so far. We don't need millions of money to make our politics. I have a house worth 10 crores. People give me. I will give people.
-
-During the meeting in Jaffna during a meeting in Jaffna, I will win the translation of the Prophet and I will win without the contribution of minorities such as the Tamil Muslims like Anura Kumara Dissanayake.. The idea of ​​the Tamil people was fitted with the wrong idea.
-
-When we are telling the people properly, we become a true politician. We are looking at the old politics. Tell us that we are doing politics.
-
-◼️
-
-[Data](articles/f510d800.json)
-
-[Extended Data](ext_articles/f510d800.ext.json)
 
 ---

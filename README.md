@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 20:58:25**
+As of **2024-10-15 21:23:28**
 
 ## Newspaper Stats
 
-*Scraped **49,685** Articles*
+*Scraped **49,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 3,037
 dailyftlk | 3,363
 adalk | 4,618
 dailymirrorlk | 4,733
-adaderanalk | 5,883
+adaderanalk | 5,884
 tamilmirrorlk | 6,796
 virakesarilk | 7,952
-adaderanasinhalalk | 8,604
+adaderanasinhalalk | 8,605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,685 (100.0%) of 49,685 articles have been extended.
+49,687 (100.0%) of 49,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Doorguliard Curname Cinnamon Life
+
+*2024-10-15 21:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202216) · `si`
+
+Cinnamon Life: Luxury hotel opens in Colombo, costing $1.3 billion. Largest hotel in South Asia.
+
+🟩
+
+The luxury hotel complex, which was built in Colombo, was opened today (15), investing US $ 1.3 billion.
+
+Today, on topic brings information on Cinnamon Life, the largest hotel in South Asia.
+
+◼️
+
+[Data](articles/595dc4d7.json)
+
+[Extended Data](ext_articles/595dc4d7.ext.json)
+
+---
+
+### “Cinnamon Life at City of Dreams” declared open in Colombo
+
+*2024-10-15 20:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102720/cinnamon-life-at-city-of-dreams-declared-open-in-colombo) · `en`
+
+The 687 room luxury hotel “Cinnamon Life at City of Dreams Sri Lanka” by the John Keells Group was officially declared open in Colombo, on Tuesday (October 15).
+
+Developed at an investment of over USD 1.2 billion by the John Keells Group, this is the largest and most ambitious private investment in the country which will redefine our tourism landscape, catering to a diverse clientele creating South Asia’s most dynamic destination for business, leisure, and entertainment.
+
+Cinnamon Life at City of Dreams Sri Lanka will encompass 687 luxurious rooms, and offers multiple entertainment venues, including ballrooms, high-tech event, and conference facilities, with the capacity to host over 5,000 guests in multiple locations across its various unique spaces.
+
+This makes it the largest event venue in Colombo, setting a new standard for gatherings, hosting international conferences and large-scale events, positioning Colombo as a premier destination for global MICE travel, a statement said.
+
+...
+
+[Data](articles/651d405b.json)
+
+[Extended Data](ext_articles/651d405b.ext.json)
+
+---
 
 ### West Indies target 163 runs
 
@@ -2443,51 +2483,5 @@ In another incident, Ali Sabri Rahim's parliamentary visit was suspended for a m
 [Data](articles/dbf02830.json)
 
 [Extended Data](ext_articles/dbf02830.ext.json)
-
----
-
-### Dengue fever
-
-*2024-10-15 10:46:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தலைதூக்கும்-டெங்கு-காய்ச்சல்/175-345480) · `ta`
-
-Dengue fever outbreak warning: Heavy rains may spread disease. 40,657 cases reported, mostly in Colombo, Gampaha, and Kalutara districts. Experts predict increased infections due to wet conditions.
-
-🟩
-
-The Department of Health has warned that there is a risk of dengue re -inflammation due to the current rainfall.
-
-According to the National Dengue Control Division's Community Health Expert Dr. Anoja Therasinghe, 40,657 dengue patients have been identified and 20 people have been identified so far.
-
-He noted that the prevailing rainy weather is at risk of spreading dengue mosquitoes again.
-
-“A total of 1,247 patients were reported in October alone. Most patients are reported in Colombo, Gampaha and Kalutara districts. Most of the infects have been reported in the districts of Kandy, Ratnapura, Matara, Galle and Matale. This rain conditions can be expected to increase dengue in the future. ”
-
-◼️
-
-[Data](articles/91b041d5.json)
-
-[Extended Data](ext_articles/91b041d5.ext.json)
-
----
-
-### Sandhya Kumuduni appointed to the Government Analyst
-
-*2024-10-15 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202190) · `si`
-
-Sandhya Kumuduni appointed Government Analyst. Cabinet approves her appointment. Deepika Seneviratne retired October 2020. Sandhya holds senior specialization in Sri Lanka Scientific Service. Cabinet decision made by Administrative, Home Affairs, Provincial Councils, Local Government and Labor Minister.
-
-🟩
-
-Cabinet approval has been given to appoint Mrs. Sandya Kumudini Rajapaksa to the post of Government Analyst.
-
-Deepika Seneviratne serving as the Government Analyst was retired from 20-10-10-10.
-
-According to the Senior Specialization of the Sri Lanka Scientific Service Special Grade of Sri Lanka Scientific Service, Sri Lanka Scientific Service Special Senior Testing Special Senior Analyst Service Officer at the General Analyst Service of the Government of Sri LankaThe Cabinet of Ministers was approved as administrative, Home Affairs, Provincial Councils, Local Government and Labor Minister.
-
-◼️
-
-[Data](articles/0a4b79de.json)
-
-[Extended Data](ext_articles/0a4b79de.ext.json)
 
 ---

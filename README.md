@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 06:44:51**
+As of **2024-10-15 07:27:14**
 
 ## Newspaper Stats
 
-*Scraped **49,533** Articles*
+*Scraped **49,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,857
 tamilmirrorlk | 6,762
 virakesarilk | 7,926
-adaderanasinhalalk | 8,569
+adaderanasinhalalk | 8,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,532 (100.0%) of 49,533 articles have been extended.
+49,534 (100.0%) of 49,534 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Showers in many areas today
+
+*2024-10-15 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202179) · `si`
+
+Heavy showers/thunderstorms expected in Western, Sabaragamuwa, North Western & Northern provinces today. Thunderstorms may develop in evening/night. Public advised to be cautious due to strong winds and lightning.
+
+🟩
+
+Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, North Western and Northern provinces today (15).
+
+The department states in the Western, Sabaragamuwa, North Western and Northern provinces, Galle, Sacred Trincomalee Districts. 75 Heavy rains can occur.
+
+Thundershowers will develop at several places in the evening or night during the evening or night.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/ae20d660.json)
+
+[Extended Data](ext_articles/ae20d660.ext.json)
+
+---
 
 ### BOI continues digital transformation:
 
@@ -2343,33 +2367,5 @@ Mendis was thrilled to win the award for the second time this year and is alread
 [Data](articles/69f99654.json)
 
 [Extended Data](ext_articles/69f99654.ext.json)
-
----
-
-### 19 year old mother in prison
-
-*2024-10-14 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202153) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-19-year-old mother in prison after being accused of raping her 15-year-old daughter. The case was heard by a 60-year-old judge from Anamaduwa. The Attorney General filed charges in 2006. The suspect was found guilty and sentenced to death.
-
-🟩
-
-A suspect that he had raped his daughter was imprisoned by the High Court of Puttalam and the fines of Rs.
-
-The High Court Judge is a 60-year-old resident of Anamaduwa and Uriyawa area in Anamaduwa.
-
-The Attorney General has been indicted by the Attorney General against the suspect in the year 2006 that his 15-year-old daughter was raped.
-
-The High Court Judge was sentenced to death by the suspect, which was guilty of the suspects.
-
-◼️
-
-[Data](articles/4b28536b.json)
-
-[Extended Data](ext_articles/4b28536b.ext.json)
 
 ---

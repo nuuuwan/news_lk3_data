@@ -1,36 +1,98 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 14:39:16**
+As of **2024-10-15 14:58:13**
 
 ## Newspaper Stats
 
-*Scraped **49,625** Articles*
+*Scraped **49,631** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 401
-colombotelegraphcom | 493
+colombotelegraphcom | 494
 bbccomsinhala | 497
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
-adalk | 4,609
+adalk | 4,610
 dailymirrorlk | 4,733
-adaderanalk | 5,874
-tamilmirrorlk | 6,783
+adaderanalk | 5,875
+tamilmirrorlk | 6,785
 virakesarilk | 7,939
-adaderanasinhalalk | 8,591
+adaderanasinhalalk | 8,592
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,625 (100.0%) of 49,625 articles have been extended.
+49,631 (100.0%) of 49,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Fundamental rights petition in the Supreme Court on the scholarship examination
+
+*2024-10-15 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202201) · `si`
+
+Supreme Court hears petition on scholarship exam injunction. Students and parents seek interim order against September exam and cut-off marks.
+
+🟩
+
+The Supreme Court has filed a fundamental rights petition to the Supreme Court to issue a interim injunction with the issuance of the scholarship examination and cut off marks in Scholarship Examination in September.
+
+These petitions were presented by a group of students who sat for the examination and their parents.
+
+◼️
+
+[Data](articles/fd7bcf3a.json)
+
+[Extended Data](ext_articles/fd7bcf3a.ext.json)
+
+---
+
+### Canada's new accusation on India
+
+*2024-10-15 14:31:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-மீது-கனடாவின்-புதிய-குற்றச்சாட்டு/175-345503) · `ta`
+
+Canada accuses India of involvement in Nijjar's death, alleging Rowdy Bishnoi's gang targets Khalistan supporters.
+
+🟩
+
+Canada has now accused India of involvement in the killing of Khalistan leader Nijjar, who was killed in June last June, and is now accused.
+
+That is, Canada has made a new allegation that Rowdy Bishnoi is involved with the gang of Indian authorities and targeting Khalistan supporters with the help of the gang.
+
+◼️
+
+[Data](articles/e65ebd71.json)
+
+[Extended Data](ext_articles/e65ebd71.ext.json)
+
+---
+
+### Former President will issue a special notification
+
+*2024-10-15 14:17:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதி-விசேட-அறிவிப்பை-வெளியிடவுள்ளார்/175-345501) · `ta`
+
+Ranil Wickremesinghe to release special report on Thursday, marking his first public statement since election. Report expected to detail country's political situation and future plans.
+
+🟩
+
+Former President Ranil Wickremesinghe will release a special report on Thursday (17).
+
+This is the first time Ranil Wickremesinghe has issued an open statement after the presidential election.
+
+With this special report, he will reveal the country's political behavior and future plans.
+
+◼️
+
+[Data](articles/1c3bb006.json)
+
+[Extended Data](ext_articles/1c3bb006.ext.json)
+
+---
 
 ### Ja-Ela was assassinated by a sharp weapon
 
@@ -59,6 +121,26 @@ Three more people were injured and admitted to the Ragama Hospital who tried to 
 [Data](articles/65e7555d.json)
 
 [Extended Data](ext_articles/65e7555d.ext.json)
+
+---
+
+### Special Statement on Ranil on 17th
+
+*2024-10-15 14:12:04* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපත්-රනිල්ගෙන්-17-වැනිදා-විශේෂ-ප්‍රකාශයක්/11-412504) · `si`
+
+Ranil Wickremesinghe to make special statement on 18th, first public address post-election.
+
+🟩
+
+Former President Ranil Wickremesinghe is due to make a special statement on the next day.
+
+This is the first time Ranil Wickremesinghe will make a public statement after the presidential election.
+
+◼️
+
+[Data](articles/879da1cb.json)
+
+[Extended Data](ext_articles/879da1cb.ext.json)
 
 ---
 
@@ -135,6 +217,30 @@ Cabinet Spokesperson Vijitha Herath, who has commented on these verdals,
 [Data](articles/085bc103.json)
 
 [Extended Data](ext_articles/085bc103.ext.json)
+
+---
+
+### Ex-President Ranil to deliver special statement
+
+*2024-10-15 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102710/ex-president-ranil-to-deliver-special-statement) · `en`
+
+The Leader of the United National Party (UNP), former President Ranil Wickremesinghe has announced that he will make a special statement to the public on Thursday (17).
+
+This will be the first time that Wickremesinghe makes a public statement following the 2024 Presidential Election.
+
+It is reported that the former President will reveal ‘the political behavior of the country’ and his future plans in this special statement.
+
+Immediately after the General Election was announced, Wickremesinghe declared that he will neither contest the election, nor expect to enter Parliament through the National List.
+
+However, all political parties that supported former President Ranil Wickremesinghe at the recent Presidential Election are to contest the upcoming General Election under the New Democratic Front (NDF), with the ‘Gas Cylinder’ as their symbol.
+
+Former President Wickremesinghe had also contested the presidential election under the symbol of the ‘Gas Cylinder’, albeit as an independent candidate.
+
+◼️
+
+[Data](articles/f8f05a85.json)
+
+[Extended Data](ext_articles/f8f05a85.ext.json)
 
 ---
 
@@ -1396,6 +1502,20 @@ In parallel, a meeting between representatives of political parties and the Elec
 
 ---
 
+### Kumar David Is No More
+
+*2024-10-15 08:56:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kumar-david-is-no-more/) · `en`
+
+Kumar David is no more. Readers of Colombo Telegraph will no more receive his incisive comments on Sri Lankan and global politics and his occasional contributions on science and technology. A sad loss for Colombo Telegraph and for intellectual dialogue on Sri Lanka.
+
+...
+
+[Data](articles/301bce97.json)
+
+[Extended Data](ext_articles/301bce97.ext.json)
+
+---
+
 ### Train services delayed on coastal line due to engine fire near Kalutara
 
 *2024-10-15 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102696/train-services-delayed-on-coastal-line-due-to-engine-fire-near-kalutara) · `en`
@@ -2199,159 +2319,5 @@ Earlier this year, Sri Lanka introduced major changes to the Value Added Tax (VA
 [Data](articles/4e92b0b7.json)
 
 [Extended Data](ext_articles/4e92b0b7.ext.json)
-
----
-
-### One thousand megawatts of rooftops – solar heaven?
-
-*2024-10-15 02:44:19* · [`dailyftlk`](https://www.ft.lk/columns/One-thousand-megawatts-of-rooftops-solar-heaven/4-767970) · `en`
-
-Let’s argue about getting the lowest cost project after we have replaced all furnace oil generation with cheaper renewable energy
-
-At a conference in the mid ’90s, Dr. Harvey Forest, solar visionary and President of Solarex (then one of the largest solar companies), displayed a slide titled “Solar Heaven”. He predicted that annual solar installations would reach 1 Gigawatt (GW) or 1,000 Megawatt (MW) in a few years, which he called “solar heaven”. He said that at this capacity, investment into the highly capital-intensive silicon manufacturing becomes viable and this would free solar from its dependence on the semiconductor industry, for its main raw material, silicon. This in turn would drive down cost, spurring demand and setting off a virtuous cycle of more investment, more capacity, lower costs and more demand and completely transform the fledgling industry into global scale.
-
-...
-
-[Data](articles/3812ea16.json)
-
-[Extended Data](ext_articles/3812ea16.ext.json)
-
----
-
-### Two persons arrested for attacking a media worker in Jaffna
-
-*2024-10-15 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196309) · `ta`
-
-Jaffna: Two men arrested for attacking media worker on Kasturiyar Road. Incident occurred last Friday. Police investigation ongoing.
-
-🟩
-
-Police have arrested two men who attacked a media worker in Jaffna.
-
-The attack took place last Friday on the Kasturiyar road in the middle of Jaffna Nagar.
-
-Vibhushan, who works as a technician on a television channel from Jaffna, has been attacked.
-
-While the attacker was traveling on a motorcycle on the road, the people who came on another motorcycle had crossed him and asked him why they had not been able to overtake him.
-
-Video footage of the attack has been recorded in Sisirvi cameras fitted in a shop.
-
-On the basis of this, the police had taken steps to arrest the attackers.
-
-The Jaffna police have arrested the two men on Monday (14) as they were in hiding.
-
-Police said that the arrested persons have been arrested and further investigations are being carried out.
-
-◼️
-
-[Data](articles/e289fce5.json)
-
-[Extended Data](ext_articles/e289fce5.ext.json)
-
----
-
-### Anura should not be deceived as the past states - Saravanapavan
-
-*2024-10-15 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196308) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former MP Saravanapavan calls for investigations into media industry massacres and kidnappings in Northern Sri Lanka, including Udayan newspaper attacks and Sivaram murder. He urges President Anura Kumara Dissanayake to act on long-standing allegations involving paramilitary groups and government officials.
-
-🟩
-
-Investigations should be conducted on the massacre and kidnapping of the media industry in the North, not just Sivaram massacre. Former parliamentarian Eswarapadam Saravanapavan has called on President Anura Kumara Dissanayake to investigate the incidents of Udayan's newspaper and a furious assassination carried out by a passenger committee.
-
-He made this statement at a media briefing of the candidate E. Saravanapavan, who is contesting independently in the Mango symbol in the Jaffna electoral district under the name of the Tamil Nadu Tamil State Federation.
-
-Sivaram's investigation into the 2005 murdered in Colombo. It has to be done ever. The allegations were made against a paramilitary committee who had acted with the then rulers.
-
-There were doubts that the vehicle used for the abduction of Sivaram was the chairman of the palace and later a Member of Parliament.. These inquiries have been left in the warehouse to protect the passenger groups.
-
-...
-
-[Data](articles/1a3f3483.json)
-
-[Extended Data](ext_articles/1a3f3483.ext.json)
-
----
-
-### Function for National Reconciliation in Jaffna
-
-*2024-10-15 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/196307) · `ta`
-
-National Reconciliation Policy workshop in Jaffna aims to promote ethnic, religious, and social equality. The office plans to implement laws by 2024 to strengthen national unity across Northern Province districts.
-
-🟩
-
-The National Reconciliation Policy and National Unity Policy and Reconciliation Office for the Creation of the Office of National Reconciliation and Reconciliation was held at the Jaffna District Secretariat Conference Hall on Monday (14) under the patronage of Jaffna Government Agent and District Secretary Marudalingam Pradeepan.
-
-Commenting on this, the Government Agent said that the office was working to maintain ethnic, religious, language, social, economic and political equality, and that the law was enacted by Parliament by 2024 and that the law could be aimed at all without any differences.. He also said that the implementation of the law can strengthen national unity.
-
-The workshop participated in the five districts of the Northern Province.
-
-...
-
-[Data](articles/0e227487.json)
-
-[Extended Data](ext_articles/0e227487.ext.json)
-
----
-
-### The launch event of the Independent Committee headed by Aruchuna Ramanathan
-
-*2024-10-15 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196306) · `ta`
-
-Aruchuna Ramanathan inaugurates committee for Jaffna election. Former hospital superintendent leads group contesting under needle symbol. Event held at private hotel in Jaffna. Committee members include Sivaprakasam Mayuran, Kausalya Narendran, Ramakrishna Knowledge, Padmalajini Navaratnam, Thambijaya Krishnanan, Sirikannan Siriprakash, Pavithra Kripanandamoorthy.
-
-🟩
-
-The inauguration of the Independent Committee of the Independent Committee headed by Aruchuna Ramanathan, the former Superintendent of the Chavakachcheri Hospital, which is contesting in the needle symbol in the Jaffna Electoral District, was held on Monday (14) at a private hotel in Jaffna.
-
-Ramanathan Aruchuna, Sivaprakasam Mayuran, Sivasupramaniam Yogapalan, Kausalya Narendran, Ramakrishna Knowledge, Padmalajini Navaratnam, Thambijaya Krishnanan, Sirikannan Siriprakash and Pavithra Kripanandamoorthy contests.
-
-◼️
-
-[Data](articles/55c3ff84.json)
-
-[Extended Data](ext_articles/55c3ff84.ext.json)
-
----
-
-### New Zealand entered the World Cup semi -finals by beating Pakistan
-
-*2024-10-15 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/196305) · `ta`
-
-New Zealand beats Pakistan, enters World Cup semis. NZ scores 110/6 in 20 overs. Georgia Flimmer and Susi Bates share highest partnership. Amelia Care takes 3 wickets. India misses semis, eliminated in first round.
-
-🟩
-
-New Zealand won the World Cup in the Dubai International Cricket Stadium on Monday night (14) in the last league match of the A Group.
-
-Meanwhile, India, who lost the semi -final opportunity, returns to the first round.
-
-New Zealand decided to bat first in the match against Pakistan and scored 110 runs for the loss of six wickets in 20 overs.
-
-Georgia Flimer (28) and Susi Bats (17) shared 41 runs off 39 balls.
-
-Following the two of them, Amelia Care (9) lost the game with a low number of New Zealand's flow speed.
-
-However, the captain Sofi Divine (19) and Brook Holiday (22) shared 38 runs in the 4th wicket.. But when the total number was 96 runs, they both lost the game.
-
-Series Medi Green (9) and Isabella Case (5 AE) raised the total number to 110 runs.
-
-Pakistan lost all the wickets in 11.4 overs and lost 56 runs.
-
-Muniba Ali scored 15 runs and team captain Fatima Sana 21.
-
-No one else touches the double -digit number. The four lost the game without getting the flow.
-
-...
-
-[Data](articles/182eba14.json)
-
-[Extended Data](ext_articles/182eba14.ext.json)
 
 ---

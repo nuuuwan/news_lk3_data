@@ -1,36 +1,132 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 10:12:17**
+As of **2024-10-15 10:24:03**
 
 ## Newspaper Stats
 
-*Scraped **49,561** Articles*
+*Scraped **49,566** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 401
 colombotelegraphcom | 493
-bbccomsinhala | 496
+bbccomsinhala | 497
 islandlk | 2,942
 economynextcom | 3,034
 dailyftlk | 3,363
 adalk | 4,601
 dailymirrorlk | 4,733
-adaderanalk | 5,862
+adaderanalk | 5,863
 tamilmirrorlk | 6,769
 virakesarilk | 7,927
-adaderanasinhalalk | 8,577
+adaderanasinhalalk | 8,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,561 (100.0%) of 49,561 articles have been extended.
+49,566 (100.0%) of 49,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Vijitha gets certified by police officers
+
+*2024-10-15 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202189) · `si`
+
+Defense Minister Vijitha Herath emphasizes police independence, calling for an end to public accusations against law enforcement during her certification ceremony speech at Kalutara Police Training School.
+
+🟩
+
+Police officers should be able to work without political influence.
+
+He pointed out that the time has come for the police to be free from the allegations of the people.
+
+Speaking at a function held at Kalutara Police Training School, the Defense Defense Minister Vijitha Herath made these comments.
+
+◼️
+
+[Data](articles/544b01f0.json)
+
+[Extended Data](ext_articles/544b01f0.ext.json)
+
+---
+
+### Sri Lanka’s Official Poverty line sees slight drop in August 2024
+
+*2024-10-15 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102698/sri-lankas-official-poverty-line-sees-slight-drop-in-august-2024) · `en`
+
+The volume of industrial production for the month of August 2024 has increased by 1.2% compared to the same month in 2023.
+
+Releasing the latest Index of Industrial Production report, the Department of Census of Statistics said that when the monthly difference volume is considered, it has increased by 0.1%.
+
+Furthermore, the overall index for the manufacturing sector has increased to 91.3% in August 2024, compared 90.2% in August 2023.
+
+Accordingly, manufacture of textiles, manufacture of wearing apparels, food products, paper and paper products have significantly contributed to this increase in industrial production, as per the report by the Department of Census of Statistics.
+
+However, the production of beverages and tobacco products have been decreased in August 2024, compared to August 2023.
+
+Meanwhile, the Official Poverty line at National level for August 2024 has recorded a slight reduction to Rs. 16,152, compared to Rs. 16,373 in the month of July, 2024.
+
+...
+
+[Data](articles/ad2bcdd9.json)
+
+[Extended Data](ext_articles/ad2bcdd9.ext.json)
+
+---
+
+### Dengue ransing again
+
+*2024-10-15 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202188) · `si`
+
+Dengue cases surge due to rainy weather. 40,657 patients reported this year, 20 deaths. Colombo, Gampaha districts hit hardest. Experts warn increased breeding risk. Take preventive measures to combat spread.
+
+🟩
+
+The health sector warned that there is a risk of the dengue epidemic with the prevailing rainy weather.
+
+Community Health Specialist Director of the National Dengue Control Unit said that 40,657 dengue patients had been disclosed during this year.
+
+Twenty people were killed after the death of dengue this year.
+
+Specialist Dr. Katha Dharsinghe, speaking to the rise in dengue moon breeding with the prevailing rainy weather has been a risk of controlling controls.
+
+"There are 1,247 patients have been reported in October alone. 20 deaths have been reported throughout the year. Patients are mostly reported in the Colombo, Gampaha, Kalutara Districts. More patients reported in Kandy, Ratnapura, Matara, Galle and Matale districts. This rain can be expected to increase the rise of dengue patients. So take action to surround the area where he is in the area and remove the community garments. "
+
+◼️
+
+[Data](articles/dfd04d35.json)
+
+[Extended Data](ext_articles/dfd04d35.ext.json)
+
+---
+
+### Mossary accident that claims a life - one is serious
+
+*2024-10-15 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202187) · `si`
+
+Motorcycle crash near Handapanagala reservoir: One rider killed, another seriously hurt. Driver arrested. Incident under investigation.
+
+🟩
+
+A double cab and a motorbike incident in the Handapanagala reservoir in Handapanagala reservoir in Handapanagala reservoir in Handapanagala reservoir has taken place yesterday (14).
+
+One person who was traveling on the motorcyclist was killed and another was seriously injured.
+
+The injured person was admitted to the Wellawaya Base Hospital.
+
+The driver of the cab has been arrested by the Wellawaya Police regarding the accident and is conducting further investigations into the accident.
+
+◼️
+
+[Data](articles/49acce71.json)
+
+[Extended Data](ext_articles/49acce71.ext.json)
+
+---
 
 ### Railway
 
@@ -611,6 +707,34 @@ Launched in 2023 to meet evolving customer needs, AliExpress Choice offers a cur
 [Data](articles/bd78bb2a.json)
 
 [Extended Data](ext_articles/bd78bb2a.ext.json)
+
+---
+
+### 'Happy has faced many rejections. There are more than 50 employees under today
+
+*2024-10-15 03:47:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8xe2x05exzo) · `si`
+
+Here's a 200-character summary:
+
+
+
+Dakshi Nanaskara overcame rejection as a 2-year-old mother. She was initially dismissed due to her height but now leads 50 million employees in the hotel industry. Her story highlights perseverance and societal understanding.
+
+🟩
+
+'Happy has faced many rejections. There are more than 50 employees under today
+
+Talls, 11 inches tall, a mother of two years ago, was two-year-old mother.
+
+It has been rejected, including the rejection of the principal to admit the tall decline and interviewing the principal.
+
+"When I opened the door for the first interview, they laughed like humor when I was opened. It felt up my mind. I didn't seek to get rushing in others and. Today, I am a 50-million employees in the hotel industry. There is no other lack of tall. That is what to understand the society, "Dakshi Nanaskara told BBC Sinhala service.
+
+◼️
+
+[Data](articles/f41188da.json)
+
+[Extended Data](ext_articles/f41188da.ext.json)
 
 ---
 
@@ -2293,123 +2417,5 @@ A bond maturing on 01.10.2032 closed at 12.15/35 percent. (Colombo/Oct14/2024)
 [Data](articles/a449eeb4.json)
 
 [Extended Data](ext_articles/a449eeb4.ext.json)
-
----
-
-### Sri Lanka stocks close down, pulled by banks
-
-*2024-10-14 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-pulled-by-banks-183504/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 0.39 percent, or 47.81 points, at 12,246; while the more liquid S&P SL20 Index closed down 0.71 percent, or 25.87 points, at 3,614.
-
-The ASPI was weighted down by C T Holdings (down at 288.00), Hatton National Bank (down at 215.50), Commercial Bank (down at 108.00), Sampath Bank (down at 82.10), and National Development Bank (down at 79.10).
-
-Significant portions of the day’s turnover came from trades in capital goods and food, beverage and tobacco counters.
-
-Hayleys Fabric saw investor interest, and the share closed up at 54.40.
-
-Other top positive contributors to the ASPI were Sri Lanka Telecom (up at 68.30), and Hela Apparel (up at 7.00).
-
-There was a net foreign inflow of 153 million rupees. (Colombo/Oct14/2024)
-
-◼️
-
-[Data](articles/932cb40b.json)
-
-[Extended Data](ext_articles/932cb40b.ext.json)
-
----
-
-### UNDP pledges support for governance and economic reforms in Sri Lanka
-
-*2024-10-14 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102687/undp-pledges-support-for-governance-and-economic-reforms-in-sri-lanka) · `en`
-
-The Assistant Secretary General of the United Nations Development Programme (UNDP), Kanni Wignaraja, has met with President Anura Kumara Dissanayake this morning (14) at the Presidential Secretariat.
-
-The discussion primarily focused on governance, constitutional reforms, and the country’s electoral system, according to the President’s Media Division (PMD) stated.
-
-The UNDP representative presented the report on “Understanding Multidimensional Vulnerabilities: Impact on the People of Sri Lanka” to President Dissanayake. Based on the findings of this report, the UNDP assured its support for Sri Lanka’s development efforts.
-
-A key point of discussion was the low level of women’s participation in the economy. The UNDP noted that rural women face significant challenges in financial literacy, limiting their involvement in economic activities.
-
-...
-
-[Data](articles/d16ea291.json)
-
-[Extended Data](ext_articles/d16ea291.ext.json)
-
----
-
-### Bus accident that killed school children and five
-
-*2024-10-14 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202167) · `si`
-
-Kanpur bus accident kills 5 school children. Heavy truck crashes into car, causing fatal injuries. Driver and 4 students die instantly. Car severely damaged, trapping occupants. Truck drivers flee scene. Authorities launch investigation.
-
-🟩
-
-Five school children including four schoolchildren were killed in an accident in Kanpur, India.
-
-The heavy rapidly driving tipper on the highway also tightened the car to the vehicle, and the accident occurred in the car.
-
-The driver of the car and four students were killed in the spot where the accident occurred.
-
-Foreign media reports that all of the people were stuck in the vehicle due to heavy damage to the car.
-
-However, the drivers in the tipper and trailer were fled by the place when the accident occurred.
-
-The Security Forces inquiry in the country has commenced investigations into the arrest.
-
-◼️
-
-[Data](articles/2a44c869.json)
-
-[Extended Data](ext_articles/2a44c869.ext.json)
-
----
-
-### Sri Lanka’s foreign minister responds to attack on peacekeepers in Lebanon
-
-*2024-10-14 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102686/sri-lankas-foreign-minister-responds-to-attack-on-peacekeepers-in-lebanon) · `en`
-
-Sri Lanka’s Minister of Foreign Affairs Vijitha Herath says that the government deeply regrets the attacks that injured two Sri Lankan peacekeepers in the United Nations Interim Force in Lebanon (UNIFIL).
-
-Speaking during an interaction with the Colombo-based Diplomatic Corps at the Ministry of Foreign Affairs held this morning (14), Minister Herath added: “We are proud of our peacekeepers who serve in several challenging UN Missions and it is important that the obligation of all parties to respect UN personnel and UN premises is respected.”
-
-Furthermore, the Foreign Affairs Minister stated that on the international front, Sri Lanka continues to remain highly concerned about the current global situation, particularly in the Middle East region.
-
-“The humanitarian situation in Gaza is turning more dire by the day, and recent developments that have an impact on wider regional dimensions, in particular in Lebanon are most concerning”, he said.
-
-...
-
-[Data](articles/0a564a21.json)
-
-[Extended Data](ext_articles/0a564a21.ext.json)
-
----
-
-### The capital of Pakistan is to Lockdon
-
-*2024-10-14 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202165) · `si`
-
-Pakistan's capital is not London. The Chinese Premier visited Islamabad for SCO talks. A 3-day holiday was declared in Islamabad due to his visit, causing school and business closures.
-
-🟩
-
-Due to an international convention in Pakistan, the chief of the Chinese Prime Minister of Islamabad, the capital city of Islamabad, has decided to threaten the road.
-
-Chinese Prime Minister Lee Chen came to Pakistan today to attend the conference of Shanghai Cooperation Organization.
-
-A Chinese Prime Minister has arrived in Pakistan after 11 years.
-
-The summit announced a three-day public holiday for the city of Islamabad, and the schools and businesses in that city have been closed down.
-
-◼️
-
-[Data](articles/f3d51817.json)
-
-[Extended Data](ext_articles/f3d51817.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 22:39:15**
+As of **2024-10-15 22:57:44**
 
 ## Newspaper Stats
 
-*Scraped **49,701** Articles*
+*Scraped **49,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 4,619
 dailymirrorlk | 4,733
 adaderanalk | 5,884
 tamilmirrorlk | 6,796
-virakesarilk | 7,952
+virakesarilk | 7,958
 adaderanasinhalalk | 8,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,701 (100.0%) of 49,701 articles have been extended.
+49,707 (100.0%) of 49,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Sri Lanka won by 73 runs in the second T20 match
+
+*2024-10-15 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/196392) · `ta`
+
+Sri Lanka wins 2nd T20 vs West Indies by 73 runs. Dunit Vellalake takes 3/9. Sri Lanka bats 162/5, Patum Nissanka scores 54. West Indies struggles to 89/16.
+
+🟩
+
+Sri Lanka won the second T20 match between the West Indies and Sri Lanka by 73 runs.
+
+Dunit Vellalake, who was involved in the bowling, took 3 wickets for 9 runs.
+
+Sri Lanka won the toss and elected to bat first and scored 162 runs for the loss of 5 wickets at the end.
+
+Patum Nissanka scored 54 runs, Kusal Mendis scored 26 runs and Kusal Perera 24 runs.
+
+The West Indies team was able to score only 89 runs in 16 overs due to the great bowling of Sri Lankan bowlers.
+
+◼️
+
+[Data](articles/4a595e22.json)
+
+[Extended Data](ext_articles/4a595e22.ext.json)
+
+---
 
 ### Superbid from Sri Lanka
 
@@ -84,6 +110,72 @@ He further stated that at a press conference held today (15) at the Cabinet Deci
 
 ---
 
+### Shooting in Matara;One killed
+
+*2024-10-15 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/196391) · `ta`
+
+Matara shooting: One killed in Keganatura incident. Police report man shot while riding three-wheeler.
+
+🟩
+
+One person was killed in a shooting incident on Tuesday (15) in Keganatura, Matara.
+
+Police said that a man who was in the car was fired at the man who was traveling in the three -wheeler.
+
+◼️
+
+[Data](articles/ca0b7c48.json)
+
+[Extended Data](ext_articles/ca0b7c48.ext.json)
+
+---
+
+### Special speech of former President Ranil on the 17th
+
+*2024-10-15 21:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196390) · `ta`
+
+Former President Ranil Wickremesinghe delivers special speech on 17th, addressing current political issues and future plans. He announces decision not to contest upcoming parliamentary election, but new Democratic Front Party contests under his symbol.
+
+🟩
+
+UNP leader and former president Ranil Wickremesinghe will address a special address on the 17th. This is the first time that Ranil Wickremesinghe addresses this after the presidential election.
+
+Former President Ranil Wickremesinghe has revealed many issues on the country's current political activities and future political programs in his special speech.
+
+Ranil Wickremesinghe has decided not to contest the upcoming parliamentary election and not represent parliament through the national list.. It is noteworthy, however, that the new Democratic Front Party is contesting the cylinder symbol in the parliamentary election.
+
+◼️
+
+[Data](articles/41634713.json)
+
+[Extended Data](ext_articles/41634713.ext.json)
+
+---
+
+### How much is the amount that can be spent on a voter during campaigns?;Elections Commission Discussion with the Secretaries of the parties
+
+*2024-10-15 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196389) · `ta`
+
+Election Campaign Expenditure Act limits spending per voter. Amount varies by district based on population and local costs. Parties must submit proposals to Elections Commission. Highest estimate for Colombo district: Rs.
+
+🟩
+
+According to the Election Campaign Expenditure Act, all political parties and independent candidates contesting in the upcoming general election were held by the Elections Commission yesterday by the Elections Commission.
+
+The secretaries of the political parties who participated in the event handed over suggestions and recommendations to the Election Commission.
+
+Control and nomination for the general election ended with noon last Friday. According to the Election Campaign Expenditure Act, the Elections Commission, within five days after the end of the nomination papers, the political parties and the independent candidates have to set the amount to be spent on each voter and publish it in the Gazette.
+
+Similarly, the Commission should consult on this issue from political parties and independent candidates contesting the election before setting the amount.
+
+...
+
+[Data](articles/f75c6845.json)
+
+[Extended Data](ext_articles/f75c6845.ext.json)
+
+---
+
 ### Derana concession operation to find out floods affected by floods
 
 *2024-10-15 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202217) · `si`
@@ -117,6 +209,38 @@ Residents allege that the portfolio is not due to the proper implementation of f
 [Data](articles/7d9b2a68.json)
 
 [Extended Data](ext_articles/7d9b2a68.ext.json)
+
+---
+
+### Pakistan towards a strong state of debutant Ghulam
+
+*2024-10-15 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196388) · `ta`
+
+Pakistan cricket team performs well in 2nd Test match against England. Debutant Kamran Ghulam scores 118 runs, sharing partnerships with teammates. Team faces initial challenges but recovers through Ghulam's batting. England leads overall series.
+
+🟩
+
+Pakistan is moving towards a strong position with the help of debutant Kamran Ghulam Ghulam in the 2nd Test match, which began on Tuesday (15) at the Multan Cricket Stadium against England.
+
+Pakistan, who decided to bat first in the match, scored 259 runs for the loss of 5 wickets in its first innings at the end of the first day's match.
+
+Pakistan lost its first two wickets for 19 runs and faced a major crisis.
+
+However, Saym Ayub and Kamran Ghulam shared 149 runs in the 2nd wicket and controlled the fall of the team.
+
+Kamran Ghulam Upon debuting in ODIs last year against New Zealand. Instead, he was only involved in the field.
+
+Kamran Ghulam, who later made his debut in the international Test stage, was a very efficient bats and scored 118 runs with 11 pounds and a six.
+
+Kamran Ghulam shared 65 more runs with Mohammed Rizwan in the 5th wicket.
+
+England are leading the first Test in the three -match Test series between England and Pakistan.
+
+◼️
+
+[Data](articles/70a60fbe.json)
+
+[Extended Data](ext_articles/70a60fbe.ext.json)
 
 ---
 
@@ -643,6 +767,32 @@ These prices have been released from October 14 to 20.
 [Data](articles/24885813.json)
 
 [Extended Data](ext_articles/24885813.ext.json)
+
+---
+
+### Cooperate to hold a general election
+
+*2024-10-15 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196374) · `ta`
+
+Saman Sri Ratnayake appeals for media cooperation in upcoming general election on Nov 14. Election control and nominations ended on Friday. Candidates from political parties and independents began campaigning nationwide. The Elections Commissioner urges media to provide full cooperation throughout the election process, including campaign coverage. He reminds media of their responsibility to ensure fair reporting and avoid biased behavior seen in past elections.
+
+🟩
+
+Elections Commissioner Saman Sri Ratnayake has appealed to all the media to provide the full cooperation of the election to be held on the 14th of November, which will be held on the 14th of November and the election to be held on the 14th of November.
+
+Control and nomination for the general election ended with noon last Friday.
+
+Subsequently, in the upcoming general election, the candidates who represent political parties and independently have begun their election campaign nationwide.
+
+Against this backdrop, the Commissioner General of Elections Saman Sri Ratnayake appealed to the Elections Commission in the Colombo Elections Commission on Tuesday (15) to give full cooperation to the entire election process, including election propaganda.
+
+Elections Commission Chairman RMAL Ratnayake, Members of the Commission, MAPC Perera, Amir Boise, Anusuya Shanmuganathan, Professor Lakshman Dissanayake and Elections Commissioner Saman Sri RatnayakeWere attending.
+
+...
+
+[Data](articles/ac8e3841.json)
+
+[Extended Data](ext_articles/ac8e3841.ext.json)
 
 ---
 
@@ -2375,121 +2525,5 @@ Herath also assured that the government is of the stance that the importation of
 [Data](articles/608a674c.json)
 
 [Extended Data](ext_articles/608a674c.ext.json)
-
----
-
-### Mangala Wijesinghe appointed EDB Chairman
-
-*2024-10-15 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102706/mangala-wijesinghe-appointed-edb-chairman-) · `en`
-
-The Chief Operating Officer of Brown & Company PLC, Mangala Wijesinghe has been appointed as the new Chairman and Chief Executive Officer of the Export Development Board (EDB).
-
-Prior to this appointment, Wijesinghe served as the COO of Brown & Company PLC, one of the oldest diversified conglomerates in Sri Lanka.
-
-He holds a Bachelor’s Degree in Economics from the University of Sri Jayewardenepura and a Master of Business Administration (MBA) while he is also a Chartered Professional Manager in Sri Lanka.
-
-Wijesinghe takes over from veteran export professional Dr Kingsley Bernard, who assumed the Chairmanship of the Sri Lanka Export Development Board (EDB) on April 03, 2023.
-
-◼️
-
-[Data](articles/0379bef4.json)
-
-[Extended Data](ext_articles/0379bef4.ext.json)
-
----
-
-### End to passports crisis from Monday - Minister
-
-*2024-10-15 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102705/end-to-passports-crisis-from-monday-minister) · `en`
-
-Minister Vijitha Herath announced that Sri Lanka will receive a new shipment of passports next Saturday, which will be distributed starting on Monday (Oct. 21).
-
-The announcement was made during a press briefing held this morning (15) to outline decisions made during the Cabinet meeting held yesterday.
-
-The Minister also addressed the ongoing legal issues surrounding the e-passport system, stating that there is currently an injunction imposed by the court is in place, preventing any tenders from being called for the e-passport project. “We will revisit the matter once the court proceedings are concluded,” Herath added.
-
-Despite the arrival of the 750,000 passports, the Minister cautioned that the stock will be exhausted in the near future. To avoid another potential passport shortage, it has been decided to initiate a procurement process for regular passports.
-
-...
-
-[Data](articles/367e63e1.json)
-
-[Extended Data](ext_articles/367e63e1.ext.json)
-
----
-
-### Sri Lanka rupee trades stronger at 293.30/50 to US dollar, bond yields up
-
-*2024-10-15 11:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-293-30-50-to-us-dollar-bond-yields-up-183642/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened slightly stronger at 293.30/50 to the US dollar on Tuesday, from 293.50/80 a day earlier, while bond yields were up dealers said.
-
-An auction of 97,000 million rupees in Treasury bills was ongoing.
-
-A bond maturing on 15.12.2027 was quoted at 11.20/35 percent, up from 11.15/25 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.55/60 percent, up from 11.40/50 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.75/90 percent, up from 11.55/75 percent.
-
-In equities, Colombo’s All Share Price Index was trading down 0.08 percent, or 9.49 points lower at 12,236, while the S&P SL20 of more liquid stocks was trading down 0.43 percent or 15.02 points lower at 3,599.
-
-◼️
-
-[Data](articles/f55f205e.json)
-
-[Extended Data](ext_articles/f55f205e.ext.json)
-
----
-
-### Special fuel relief to fishermen
-
-*2024-10-15 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202192) · `si`
-
-Cabinet approves special fuel relief for fishermen starting Oct 1 to combat rising fuel costs.
-
-🟩
-
-The Cabinet approval has been given to provide special fuel relief to the fishing community from October 1 to address the fuel prices due to large amounts of fuel prices.
-
-◼️
-
-[Data](articles/d472c2ff.json)
-
-[Extended Data](ext_articles/d472c2ff.ext.json)
-
----
-
-### Sri Lanka to acquire new debt management software to strengthen public debt oversight
-
-*2024-10-15 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102704/sri-lanka-to-acquire-new-debt-management-software-to-strengthen-public-debt-oversight) · `en`
-
-Sri Lanka’s government has moved forward with plans to enhance its public debt management capabilities, following the enactment of the Public Debt Management Act No. 33 of 2024. Under the provisions of Section 23 of the Act, the establishment of a Public Debt Management Office (PDMO) is mandated to ensure the timely, accurate, and detailed recording of public debt data through an efficient system.
-
-Currently, Sri Lanka utilizes the Commonwealth Secretariat Debt Recording and Management System (CS-DRMS) to manage its foreign debt, a system maintained by the Department of Foreign Resources. However, the Commonwealth Secretariat has recently suspended updates and annual license extensions for CS-DRMS, prompting the need for an upgraded system.
-
-...
-
-[Data](articles/8df26001.json)
-
-[Extended Data](ext_articles/8df26001.ext.json)
-
----
-
-### Spike in dengue cases amid rainy weather, health officials warn
-
-*2024-10-15 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102703/spike-in-dengue-cases-amid-rainy-weather-health-officials-warn) · `en`
-
-Sri Lanka’s health authorities warn that there is a potential resurgence of dengue fever due to the ongoing rainy weather. With the monsoon season contributing to ideal breeding conditions for dengue-carrying mosquitoes, health officials are urging the public to remain vigilant.
-
-Consultant Community Physician at the National Dengue Control Unit (NDCU) Dr. Anoja Dheerasinghe stated that a total of 40,657 dengue cases have been reported so far in 2024, with 1,247 new cases recorded in October alone. Additionally, the NDCU has confirmed 20 dengue-related deaths this year.
-
-“The current weather conditions significantly increase the risk of dengue mosquito breeding,” Dr. Dheerasinghe explained, noting that most cases have been reported from the Colombo, Gampaha, and Kalutara districts. Other affected regions include Kandy, Ratnapura, Matara, Galle, and Matale.
-
-...
-
-[Data](articles/de56bb98.json)
-
-[Extended Data](ext_articles/de56bb98.ext.json)
 
 ---

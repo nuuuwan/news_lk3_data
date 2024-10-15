@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 07:27:14**
+As of **2024-10-15 08:02:26**
 
 ## Newspaper Stats
 
-*Scraped **49,534** Articles*
+*Scraped **49,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,99 @@ dailyftlk | 3,363
 adalk | 4,596
 dailymirrorlk | 4,733
 adaderanalk | 5,857
-tamilmirrorlk | 6,762
+tamilmirrorlk | 6,763
 virakesarilk | 7,926
-adaderanasinhalalk | 8,570
+adaderanasinhalalk | 8,572
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,534 (100.0%) of 49,534 articles have been extended.
+49,537 (100.0%) of 49,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Members of the University Grants Commission resign
+
+*2024-10-15 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202181) · `si`
+
+University Grants Commission members resign en masse. Chairperson and Vice President inform President of their departure. Term set to end March 2024.
+
+🟩
+
+Members of the University Grants Commission have resigned from hundreds of positions.
+
+It is reported that the resignation letters have been sent to the President yesterday.
+
+According to a statement made by the Presidential Secretariat, they had resigned from their terms.
+
+Accordingly, the Chairman of the University Grants Commission, Professor Sampath Amaratunga and Vice President Chandana P. Udawatte has informed that the relevant positions have been resigned from the date yesterday.
+
+In addition, the Commissioners of the University Grants Commission have also sent to the President.
+
+The term of members of the current University Grants Commission in the year 2020 was due to end in March next year.
+
+◼️
+
+[Data](articles/bb2b8fdd.json)
+
+[Extended Data](ext_articles/bb2b8fdd.ext.json)
+
+---
+
+### Issue of preferential numbers in general election today or tomorrow
+
+*2024-10-15 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202180) · `si`
+
+Elections Commission: Preferential numbers completion by tomorrow. Discussion with parties today about election activities and campaign spending limits.
+
+🟩
+
+The Elections Commission says that the preferentials of candidates relating to the parliamentary election will be completed by tomorrow (16).
+
+A spokesman said that the Election Commission has received the preferential number of districts in all districts.
+
+After inspecting the preferential numbers, the relevant documents are to be submitted again.
+
+Accordingly, the Elections Commission states that the issuance of preferential numbers will be held today (15) and tomorrow.
+
+Meanwhile, a discussion is scheduled to be held between the political party representatives and the Elections Commission.
+
+The discussion is scheduled to be held this morning and will discuss the future activities of the parliamentary election.
+
+It is also due to pay attention to the amount of money that a candidate should be spent on the parliamentary election.
+
+◼️
+
+[Data](articles/5200ad8f.json)
+
+[Extended Data](ext_articles/5200ad8f.ext.json)
+
+---
+
+### TNA administration
+
+*2024-10-15 06:45:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சி-நிர்வாகத்துக்கு-தடை-கோரி-வழக்கு/175-345470) · `ta`
+
+TNA leader Mawai Senathirajah faces lawsuit over interim ban. Former Eastern Provincial Council member Markandu Nadarasa sues TNA leaders Mawai Senathirajah, P. Satyalingam, and Xavier Kulanayagam in Jaffna Magistrate's Court.
+
+🟩
+
+The Tamil National Alliance (TNA) Lifestyle Member Markanda Natarasa has filed a lawsuit in the Jaffna Magistrate's Court, demanding the interim ban on the leader of the Sri Lanka Tamil National Alliance (TNA) and the executive secretary of the party.
+
+The Tamil National Party (TNA) leader Mawai Senathirajah, the General Secretary P. Satyalingam and Executive Secretary Xavier Kulanayagam are the opponents.
+
+The case was filed by former Eastern Provincial Council member Markandu Nadarasa from Batticaloa - Fort.. (A)
+
+◼️
+
+[Data](articles/f43ca5c8.json)
+
+[Extended Data](ext_articles/f43ca5c8.ext.json)
+
+---
 
 ### Showers in many areas today
 
@@ -2297,75 +2377,5 @@ Meanwhile, the following secretaries of recognized political parties representin
 [Data](articles/66cb94fc.json)
 
 [Extended Data](ext_articles/66cb94fc.ext.json)
-
----
-
-### Exceptional Award received by Komun
-
-*2024-10-14 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202155) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Komun, a Sri Lankan cricketer, won an exceptional award from the International Cricket Council (ICC) in September. He became the first "Player of the Month" for 2024, marking a significant achievement in his career.
-
-🟩
-
-Sri Lankan cricketer player is player in the International Cricket Council for September.
-
-Accordingly, in 2024, he is the first player of the month of the month of the month of month.
-
-◼️
-
-[Data](articles/5f405800.json)
-
-[Extended Data](ext_articles/5f405800.ext.json)
-
----
-
-### Applications summon for the post of Director General of Bribery Commission
-
-*2024-10-14 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202154) · `si`
-
-Director General position open at Bribery Commission. Applications invited via prescribed format. Send to Constitutional Council, Sri Lanka. Deadline not specified.
-
-🟩
-
-Applications have been called to appoint bribery or corruption in the Investigation Commission (Investigation Commission) under the provisions of the Anti-Corruption Act, No. 9 of the Anti-Corruption Act.
-
-Applications for this purpose should be prepared according to the model of bribery or corruption in the Commission on Ven.
-
-Duly completed applications should be sent to the General Secretary General of the Constitution, Constitutional Council, Sri Lanka, Sri Jayawardanapura Kotte by registered post or by Registration Post or ConstitutionalCouncimentParliament announced.
-
-Also, as "appointing the Director General of Investigation Commission" in the upper left end of the envelope / electronic letter, "appointing the Director General of Investigation Commission".
-
-The statement has been published in the National Newspapers yesterday and today (14).
-
-◼️
-
-[Data](articles/0814eaaa.json)
-
-[Extended Data](ext_articles/0814eaaa.ext.json)
-
----
-
-### Kamindu Mendis named ICC Men’s player of the Month
-
-*2024-10-14 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102677/kamindu-mendis-named-icc-mens-player-of-the-month) · `en`
-
-Kamindu Mendis beat out tough competition from Sri Lanka teammate Prabath Jayasuriya and Australia’s Travis Head to claim the monthly award, with the stylish left-hander adding to the honour he claimed in March earlier this year.
-
-Mendis played in four Tests during the month, scoring 451 runs at an average of 90.20, helping his side to a consolation win at The Oval in England before playing his part in a superb series triumph against New Zealand back in Sri Lanka.
-
-Mendis was thrilled to win the award for the second time this year and is already working hard on achieving even greater things within his cricketing career.
-
-“I am honoured to be once again chosen as the ICC Men’s Player of the Month, and this accolade brings me immense happiness and pride, as I believe all the hard work that was put into becoming the player that I am today is starting to pay off and being recognised consistently in the global stage,” he said.
-
-...
-
-[Data](articles/69f99654.json)
-
-[Extended Data](ext_articles/69f99654.ext.json)
 
 ---

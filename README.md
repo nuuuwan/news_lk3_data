@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 19:12:16**
+As of **2024-10-15 19:23:34**
 
 ## Newspaper Stats
 
-*Scraped **49,666** Articles*
+*Scraped **49,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,100 @@ bbccomsinhala | 499
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
-adalk | 4,615
+adalk | 4,616
 dailymirrorlk | 4,733
 adaderanalk | 5,882
 tamilmirrorlk | 6,794
-virakesarilk | 7,941
+virakesarilk | 7,952
 adaderanasinhalalk | 8,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,664 (100.0%) of 49,666 articles have been extended.
+49,669 (100.0%) of 49,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### England in the ICC Women's R20 World Cup. Islands
+
+*2024-10-15 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/196387) · `ta`
+
+England vs West Indies in ICC Women's R20 World Cup. England leads 19-8 in 28 matches. Match on Tuesday at Dubai stadium. Winner qualifies for semis. England aims to maintain perfect record in Group B.
+
+🟩
+
+The B team between the UK and the West Indies will be held on Tuesday night at the Dubai International Cricket Stadium in the Ninth Women's T20 World Cup chapter in the United Arab Emirates.
+
+The team that wins the match will qualify to play at the semi -finals from the B team. At the same time, the competition will also decide the fate of South Africa.
+
+Former champion England, who has not failed in the B group, will win and South Africa will continue to play in the 2nd basis on the net -speed basis.
+
+If the West Indies win by the lowest net margin of the West Indies, South Africa will leave the first round if England reach 2nd place. .
+
+According to the results of the B Team Tournament in this year's Women's R20 World Cup Cricket Tournament. And the only team that does not fail in the group is England.
+
+In South Africa, last year, England won 136 runs in the Women's T20 World Cup cricket match by 7 wickets in 15 overs.
+
+...
+
+[Data](articles/ca366903.json)
+
+[Extended Data](ext_articles/ca366903.ext.json)
+
+---
+
+### Sri Lanka is the first to bat
+
+*2024-10-15 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196386) · `ta`
+
+Sri Lanka bats first in 2nd T20 vs West Indies at Rangiri Dambulla Stadium. Changes made: Samindu Wickremasinghe and Asitha Fernando replaced by Dunit Vellalake and Nuwan Dushara. Sri Lanka aims to win series after mistakes in first match.
+
+🟩
+
+Sri Lanka will be playing first in the second international T20 cricket match at Rangiri and Dambulla International Stadium against the West Indies.
+
+Sri Lanka is embarking on a series of mistakes in the first match and winning the series today.
+
+Samindu Wickremasinghe and Asitha Fernando have been removed and Dunit Vellalake and Nuwan Dushara have been recruited.
+
+Sri Lanka: Bethum Nissanka, Kusal Mendis, Kusal Perera, Kamindu Mendis, Sarit Asalanga (Chairman), Panuka Rajapaksa, Wanindu Hasaranga, Tunit Vellalake, Mahish Dikshana, Mathisha Pathrana, Nuwan Dushara, Nuwan Dushara
+
+West Indies: Evin Louis, Brendon King, Undre Plecher, Roston Chase, Sherpane Radarbard, Roveman Powell (Chairman), Romario Hepard, Sharm Springer, Alzari Joseph, Kudakesh Motty, Shamar Joseph.
+
+◼️
+
+[Data](articles/f6417391.json)
+
+[Extended Data](ext_articles/f6417391.ext.json)
+
+---
+
+### Is this the change expected by the youth in the nomination of the National People's Power about family rule?- Nimal Lansa
+
+*2024-10-15 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196385) · `ta`
+
+National People's Power nomination controversy: Family rule concerns raised by youth.
+
+🟩
+
+Speaking about family rule during the presidential campaign, the nomination of the National People's Power includes two members of the same family.. Former parliamentarian Nimal Lansa questioned whether this was the case with youth.
+
+He further stated this at a press conference held at the Water Election Office in Colombo on Tuesday (15).
+
+To give people the power of the national people's power. But the strong opposition is necessary. The national people do not power what they said to the people. Youth and women voted for national people's power in order to change the system. But there was no change in any system they expected.
+
+State appointments are not made to eligible. Rather, it is provided to members of the national people's power. Said young people to accommodate. No appointment is made to young people. So people should think about this during the general election.
+
+...
+
+[Data](articles/9503d05e.json)
+
+[Extended Data](ext_articles/9503d05e.ext.json)
+
+---
 
 ### One person killed in shooting in Matara
 
@@ -45,6 +123,8 @@ It is also reported that the shooting victim had been operating as a “vehicle 
 ◼️
 
 [Data](articles/cd351922.json)
+
+[Extended Data](ext_articles/cd351922.ext.json)
 
 ---
 
@@ -94,6 +174,72 @@ It is reported that a person who was a Caesar was the victim of shooting.
 
 ---
 
+### Chinese embassy announcementSri Lanka
+
+*2024-10-15 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/196384) · `ta`
+
+Chinese embassy supports Sri Lanka anti-fraud efforts, cooperating with police to combat telecom/e-commerce scams affecting both countries' relations. China has successfully reduced fraud cases domestically but warns of potential spread to Southeast Asia.
+
+🟩
+
+The Chinese embassy has announced that it has deep compassion to cooperate with Sri Lanka to enforce anti -fraud laws.
+
+China has been closely observing reports that Sri Lankan police have arrested several foreign suspects, including Chinese citizens.. These incidents not only threaten the property of the two countries but also severely damage China's admiration. It also affects the traditional friendship between the two countries.
+
+The Chinese embassy is fully supportive of the Sri Lankan law enforcement agencies to carry out action against the suspects while protecting the rights and interests of the suspects.
+
+Telecommunications and e -commerce scams began in China in the 1990s. Since then it has widespread and affected the country's large number of citizens. The Chinese government adopts the people -centered attitude, continues to explore the path to prevent telecommunications and ecommerce fraudulent crimes, leading a number of pioneering efforts.
+
+...
+
+[Data](articles/60a112af.json)
+
+[Extended Data](ext_articles/60a112af.ext.json)
+
+---
+
+### මහජන ධනය සාංඝික දේපළක් සේ සුරැකිය යුතුයි
+
+*2024-10-15 18:17:22* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-ධනය-සාංඝික-දේපළක්-සේ-සුරැකිය-යුතුයි/11-412508) · `si`
+
+ඉදිරි වසර තුන තුළ බලශක්ති ක්ෂේත්‍රයේ ඉලක්ක සපුරා ගැනීම සඳහා වන ව්‍යාපෘති විධිමත් සහ කඩිනම් කළ යුතුයි
+
+-       බලශක්ති අමාත්‍යාංශයේ  ප්‍රගති සමාලෝචන සාකච්ඡාවට  එක් වෙමින් ජනපති පවසයි
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා  බලශක්ති අමාත්‍යාංශයේ  අද (15) පෙරවරුවේ පැවැති ප්‍රගති සමාලෝචන සාකච්ඡාවට  එක්විය.
+
+අනෙකුත් රටවල බලශක්ති ක්ෂේත්‍රයට ඉහළ ස්ථානයක් ලැබී තිබෙන ආකාරයෙන්ම ශ්‍රී ලංකාව තුළද බලශක්ති ක්ෂේත්‍රයට ප්‍රමුඛ ස්ථානයක් ලබා දී ඇති බව එහි පෙන්වා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා බලශක්ති අමාත්‍යාංශය යනු මූල්‍ය ඉපයීම් සිදුවන අමාත්‍යාංශයක් බවත් ඉහළ ඉපයීමක් තිබෙන විට අක්‍රමිකතා සිදු විය හැකි බවට සමාජයේ කතිකාවක් තිබෙන බවත් සඳහන් කළේය.
+
+මෙවර ජනාධිපතිවරණයේදී ජනතාව අපේක්ෂා සහගතව සිය මනාපය භාවිතා කර තිබෙන බවත් එම ජනවරමට  වගවීමට තමන් බැදී සිටින බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+පැරණි දේශපාලන සංස්කෘතියට තිබෙන විරෝධතාව, පුරවැසියා මුහුණ දෙන ආර්ථික ගැටලු හා රාජ්‍ය සේවයේ කාර්යභාරය පිළිබඳ පුරවැසියාගේ අතෘප්තිමත්භාවය ආදී හේතු නිසා පුරවැසියා නව දේශපාලන සම්ප්‍රදායක් කෙරෙහි විශ්වාසය තබා ඇති බව
+
+...
+
+[Data](articles/86eab087.json)
+
+---
+
+### வீட்டின் மேல் மாடியிலிருந்து கீழே தவறி விழுந்து கட்டடப் பொறியாளர் பலி
+
+*2024-10-15 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196375) · `ta`
+
+பன்னிப்பிட்டிய ஹிரிபிட்டிய, போகஹவில பிரதேசத்தில் உள்ள வீடொன்றின் மேல் மாடியிலிருந்து கீழே தவறி விழுந்து கட்டடப் பொறியாளர் ஒருவர் உயிரிழந்துள்ளதாக ஹோமாகம தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+பன்னிப்பிட்டிய ஹிரிபிட்டிய, போகஹவில பிரதேசத்தைச் சேர்ந்த 41 வயதுடைய இரண்டு பிள்ளைகளின் தந்தையே உயிரிழந்துள்ளார்.
+
+உயிரிழந்தவர் தனது இரண்டு மாடி வீட்டில், நீர் கசிந்துள்ள இடங்களில் கூரைத் தகடுகளை சரி செய்து கொண்டிருந்த போது இருபத்தைந்து அடி உயரத்தில் இருந்து கீழே தவறி விழுந்து காயமடைந்துள்ளார்.
+
+இந்நிலையில், கட்டடப் பொறியாளர் கீழே வீழ்ந்து கிடப்பதை கண்ட அயல் வீட்டு பெண் ஒருவர் இது தொடர்பில் கட்டடப் பொறியியலாளரின் மனைவியிடம் தெரிவித்துள்ளார்.
+
+இதனையடுத்து, காயமடைந்தவர் ஹோமாகம ஆதார வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட போது, அவர் ஏற்கனவே உயிரிழந்துவிட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/cf5ce610.json)
+
+---
+
 ### Pricing limitations have been released
 
 *2024-10-15 17:50:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலை-வரம்புகள்-வெளியானது/175-345510) · `ta`
@@ -116,6 +262,28 @@ These prices have been released from October 14 to 20.
 
 ---
 
+### இந்திய இலங்கை உறவுகளில் புதிய மனோநிலைக்கு இந்திய உயர்ஸ்தானிகர் அழைப்பு - பிளவுபடுத்தும் முயற்சிகள் குறித்து எச்சரிக்கை
+
+*2024-10-15 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/196378) · `ta`
+
+கடந்தகால தயக்கங்களை கடந்து பொதுவான இலக்குகளை அடைவதற்கு மனோநிலையை மாற்றிக்கொள்ளவேண்டும் என இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஸ் ஜா வேண்டுகோள் விடுத்துள்ளார்.
+
+இலங்கைக்கும் இந்தியாவிற்கும் இடையிலான வலுவான பங்காளித்துவத்தின் அவசியத்தை வலியுறுத்தியுள்ள அவர் இருநாடுகளினதும் தலைவிதிகள் பின்னிப்பிணைந்தவை என்பதை சுட்டிக்காட்டியுள்ளார்.
+
+கொழும்பில் இடம்பெற்ற பட்டயக்கணக்காளர்கள் சங்கத்தின்  நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையில் அவர் இதனை தெரிவித்துள்ளார்.
+
+இருநாடுகளையும் பிணைக்கும் பகிரப்பட்டபுவியியல்இவரலாறு மற்றும் எதிர்காலம் குறித்து இந்திய உயர்ஸ்தானிகர் தனது உரையில் சுட்டிக்காட்டியுள்ளார்.
+
+நாங்கள் இணைந்து வளரவேண்டும் செழிப்படையவேண்டும்நாங்கள் வரலாறு புவியியல் மற்றும் எதிர்காலத்தினால் இயற்கையாகவே பிணைக்கப்பட்டிருக்கின்றோம் என உயர்ஸ்தானிகர் தெரிவித்துள்ளார்.
+
+நாங்கள் ஈடுசெய்ய முடியாதவர்கள் இன்றியமையாதவர்கள் மற்றும் பிரிக்க முடியாதவர்கள் எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/2f12154d.json)
+
+---
+
 ### President vows to protect trust placed in him to stop corruption in public sector
 
 *2024-10-15 17:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102716/president-vows-to-protect-trust-placed-in-him-to-stop-corruption-in-public-sector) · `en`
@@ -131,6 +299,20 @@ Dissanayake stated that during this presidential election, the people had voted 
 [Data](articles/e795b3b0.json)
 
 [Extended Data](ext_articles/e795b3b0.ext.json)
+
+---
+
+### அவசிய தேவைகருதிய திட்டங்கள் மக்களைச் சென்றடைய வேண்டும் - அரவிந்தகுமார் ஜனாதிபதிக்கு கடிதம்
+
+*2024-10-15 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196370) · `ta`
+
+பொது மக்களுக்கு சென்றடைய வேண்டியதான பலாபலன்கள் அவர்களை சென்றடைய வேண்டும் என்ற ஜனாதிபதியான தங்களது எண்ணக்கருவின் பிரகாரம் பதுளை மாவட்டத்தை அடிப்படையாகக் கொண்டு இடைநிறுத்தப்பட்டுள்ள அடிப்படைத் தேவைகள் கருதிய செயற்றிட்டங்கள் மக்களை சென்றடையும் வகையில் நடவடிக்கைகளை முன்னெடுப்பதற்கு ஏற்றவாறு ஆவன செய்யுமாறு பதுளை மாவட்டத்தில் ஐக்கிய தேசிய கூட்டமைப்பின் தராசு சின்னத்தில் களமிறங்கியுள்ள முன்னாள் கல்வி இராஜாங்க அமைச்சர் அருணாச்சலம் அரவிந்தகுமார் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவிடம் கோரிக்கை விடுத்துள்ளார்.
+
+நாட்டின் ஒன்பதாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாக பதவியேற்றுள்ள தங்களுக்கு நான் சார்ந்த பதுளை மாவட்ட மக்களின் சார்பில் முதலாவதாக வாழ்த்துக்களை தெரிவித்துக்கொள்கிறேன்.
+
+...
+
+[Data](articles/6cfd5e00.json)
 
 ---
 
@@ -183,6 +365,82 @@ Accordingly, in the case, there have been nobles to a number of immigration and 
 [Data](articles/89aa17d6.json)
 
 [Extended Data](ext_articles/89aa17d6.ext.json)
+
+---
+
+### மட்டக்களப்பு வைத்தியசாலை கூட்டுறவு நலன்புரிசங்கத்தில் பெரும் நிதிமோசடி- விசாரணைகள் ஆரம்பம்
+
+*2024-10-15 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196365) · `ta`
+
+மட்டக்களப்பு போதனா வைத்தியசாலை கூட்டுறவு நலன்புரி சங்கத்தில் கடந்த 5 வருடங்களாக இடம்பெற்றுள்ள 58 இலட்சத்து 5 ஆயிரத்து 853 ரூபா நிதி மோசடி தொடர்பான விசாரணைகளை மட்டக்களப்பு மாவட்ட விசேட நிதி மோசடி விசாரணை பிரிவு பொலிஸார் மேற்கொண்டுவருவதாக  தெரிவித்தனர்.
+
+குறித்த கூட்டுறவு சங்கத்தின் புதிய நிர்வாகம் 2024 ம் ஆண்டு பெறுப்பேற்றதையடுத்து நிதி தொடர்பாக ஆராய்ந்த போது நிதி மோசடி இடம்பெற்றுள்ளமை கண்டறியப்பட்டதையடுத்து அப்போது சங்கத்தின் பொருளாராக இருந்தவருக்கு எதிராக மாவட்ட விசேட நிதி மோசடி விசாரணை பிரிவு பொலிஸாருக்கு புதிய நிர்வாகம் முறைப்பாடு  செய்ததையடுத்து இந்த மோசடி தொடர்பான விசாரணைகளை முன்னெடுக்கப்பட்டுள்ளது.
+
+இதன்போது இந்த சிக்கன நலன்புரி சங்கத்தில் வைத்தியசாலையில் கடமையாற்றும் சுமார் ஆயிரம் பேருக்கு மேலாக உறுப்பினர்களாக இருப்பதுடன் மாதாந்தம் சம்பளத்தில் ஆயிரம் ரூபாவை சந்தா பணமாக செலுத்திவருகின்றனர்.
+
+...
+
+[Data](articles/73927a2d.json)
+
+---
+
+### தமிழில் இசையமைப்பாளராக அறிமுகமாகும் நட்சத்திர வாரிசு
+
+*2024-10-15 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196367) · `ta`
+
+கர்நாடக இசையில் தனித்துவமான வாய்ப்பாட்டு கலைஞராகவும், திரையிசையில் பின்னணி பாடகியாகவும் புகழ்பெற்ற பாம்பே  ஜெயஸ்ரீயின் வாரிசான அம்ரித் ராம்நாத் , தமிழில் இசையமைப்பாளராக அறிமுகபாகிறார். இதற்கான அதிகாரப்பூர்வமான அறிவிப்பு வெளியிடப்பட்டிருக்கிறது.
+
+'எட்டு தோட்டாக்கள்' படத்தை இயக்கிய இயக்குநர் ஸ்ரீ கணேஷ் இயக்கத்தில் தயாராகி வரும் பெயரிடப்படாத திரைப்படத்தில் நடிகர் சித்தார்த் கதையின் நாயகனாக நடித்து வருகிறார்.
+
+'மாவீரன்' எனும் வெற்றி படத்தை தயாரித்த சாந்தி டாக்கீஸ் நிறுவனத்தின் சார்பில் தயாரிப்பாளர் அருண் விஷ்வா தயாரித்து வரும் இந்த திரைப்படத்தின் படப்பிடிப்பு பணிகள் விறுவிறுப்பாக நடைபெற்று வருகிறது.
+
+இந்நிலையில் இந்த திரைப்படத்திற்கு புதுமுக இசை கலைஞர் அம்ரித் ராம்நாத் இசையமைப்பாளராக ஒப்பந்தம் செய்யப்பட்டிருக்கிறார்.
+
+இவரது இசையில் வெளியான 'ஞாபகம்' எனத் தொடங்கும் பாடல் ஒன்று இணையத்தில் வெளியாகி பெரும் வரவேற்பினை பெற்று வருகிறது.
+
+இந்நிலையில் 'சித்தார்த் 40' என தற்காலிகமாக பெயரிடப்பட்டிருக்கும் இந்த திரைப்படத்தில் அவர் இசையமைப்பாளராக பணியாற்றுகிறார்.
+
+...
+
+[Data](articles/a4b4c374.json)
+
+---
+
+### நடிகர் குணா நிதி நடிக்கும் 'அலங்கு'
+
+*2024-10-15 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196362) · `ta`
+
+'செல்ஃபி' படத்தின் மூலம் தமிழ் ரசிகர்களுக்கு அறிமுகமான நடிகர் குணா நிதி கதையின் நாயகனாக நடித்திருக்கும் 'அலங்கு' திரைப்படம் , 'மருத்துவக் கழிவுகள் மற்றும் விலங்குகளின் எச்சங்களை நிலப்பகுதியில் கொட்டுவதால் ஏற்படும் பாதிப்பினை இந்த படைப்பு விவரிக்கிறது' என படக் குழுவினர் தெரிவித்துள்ளனர்.
+
+இயக்குநர் எஸ். பி. சக்திவேல் இயக்கத்தில் உருவாகி இருக்கும் 'அலங்கு' எனும் திரைப்படத்தில் குணா நிதி, செம்பன் வினோத், காளி வெங்கட், சரத் அப்பானி,  ஸ்ரீரேகா, ரெஜின் ரோஸ் , கொற்றவை உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+இவர்களுடன் செல்லப் பிராணியான நாய் ஒன்றும் முக்கிய வேடத்தில் நடித்திருக்கிறது. எஸ். பாண்டி குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அஜீஷ் இசையமைத்திருக்கிறார்.
+
+உண்மை சம்பவங்களை தழுவி எக்சன் திரைப்படமாக உருவாகி இருக்கும் இந்த திரைப்படத்தை டி ஜி ஃபிலிம் கம்பனி மற்றும் மேக்னாஸ் புரொடக்ஷன்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர் டி. சபரீஷ் மற்றும் எஸ். ஏ .சங்கமித்ரா ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/9520a4df.json)
+
+---
+
+### சுப்பர் ஸ்டார் ரஜினிகாந்த்தின் 'வேட்டையன்' பட வசூல் : அதிகாரப்பூர்வமான அறிவிப்பு
+
+*2024-10-15 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196353) · `ta`
+
+சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் கடந்த பத்தாம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியான 'வேட்டையன்' திரைப்படம் இதுவரை இந்திய மதிப்பில் 240 கோடி ரூபாயை வசூலித்திருப்பதாக தயாரிப்பு நிறுவனமான லைக்கா புரொடக்ஷன்ஸ் அதிகாரப்பூர்வமாக அறிவித்திருக்கிறது.
+
+'ஜெய் பீம்' எனும் வெற்றி படத்தை இயக்கிய இயக்குநர் த. செ. ஞானவேல் இயக்கத்தில் உருவாகி வெளியான திரைப்படம் 'வேட்டையன்'. சுப்பர் ஸ்டார் ரஜினிகாந்த் , அதியன் எனும் காவல்துறை உயரதிகாரி வேடத்தில் நடித்திருந்தார்.‌
+
+படம் வெளியாகி கலவையான விமர்சனங்களை பெற்று வந்தாலும் வசூலில் தொடர்ந்து சாதனை படைத்து வருகிறது.
+
+இந்தத் திரைப்படம் இதுவரை தமிழ், தெலுங்கு, மலையாளம், கன்னடம், இந்தி ஆகிய மொழிகளில் உலக அளவில் 240 கோடி ரூபாயை வசூலித்திருப்பதாக படக்குழுவினர் அதிகாரப்பூர்வமாக அறிவித்துள்ளனர்.
+
+மேலும் இந்த திரைப்படம் வெளியாவதற்கு முன்னரே தொலைக்காட்சி உரிமை -டிஜிட்டல் தள உரிமை , இசை உரிமை ஆகிய வகைகளில் இந்திய மதிப்பில் 210 கோடி  ரூபாய் அளவிற்கு வணிகம் நடைபெற்றுள்ளதாக திரையுலக வணிகர்கள் தெரிவித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/3663dc8e.json)
 
 ---
 
@@ -2125,283 +2383,5 @@ Prime Minister Modi and Justin Trudeau met face to face at the Asian conference 
 [Data](articles/856f7f92.json)
 
 [Extended Data](ext_articles/856f7f92.ext.json)
-
----
-
-### 'It's never happened,' What happened in the UL 607 srilankan flight?
-
-*2024-10-15 09:51:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqjrxee049eo) · `si`
-
-Here's a summary of the incident involving UL 607 SriLankan Airlines in 200 characters:
-
-
-
-On September 21, a SriLankan Airlines flight experienced an unusual incident where the main pilot was locked out of the cockpit. The airline has launched investigations and suspended both pilots involved. Passenger safety remains the top priority for the airline.
-
-🟩
-
-'It's never happened,' What happened in the UL 607 srilankan flight?
-
-"An incident like a 45 year old Srilankan flight attendance has never happened before. The offenders involved in the incident take action against the wrongdoers of the incident, "SriLankankan Communications Manager Deepal Perera told the Sinhala service.
-
-There has been a strong conversation regarding a plane on a plane on September 21st.
-
-The controversy has taken place in the plane holding the UL 607 UL 607 of the SriLankan Airlines.
-
-It was flying from Sydney, Australia on September 21st.
-
-ITN recorded ITN, as a state television service, and returned to the toilet for body function, so the main pilot (CAPTAIN), the master pilot, the pilot pilot (Captain is unable to access the pilot chamberThe door has been locked. '
-
-The BREAKING AVIATION NEWS & VIDEOS X Social Media Channel had published the world's aircraft news and videos.
-
-...
-
-[Data](articles/edea6a72.json)
-
-[Extended Data](ext_articles/edea6a72.ext.json)
-
----
-
-### Saudi Arabia sends humanitarian aid to the people of Lebanon
-
-*2024-10-15 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196315) · `ta`
-
-Saudi Arabia provides humanitarian aid to Lebanon through KSRELIF, sending planes with food, medicine, and shelter. This reflects Saudi's commitment to global humanitarian efforts and its leadership role in international aid.
-
-🟩
-
-King Salman has begun to provide relief through the Humanitarian and Relief Center (KSRELIF) to support the people affected by the war between Lebanon and Israel, as part of Saudi Arabia's consecutive global humanitarian assistance programs.
-
-In accordance with the orders of King Salman bin Abdul Aziz and Prince and Prime Minister Muhammad bin Salman, Ksrelief has sent relief to two aircraft to Beirut.
-
-The first relief plane carrying food, medical products and shelters from King Khalid International Airport in Riyadh on the 13th, reached the Lebanon Beirut International Airport, which arrived at the Lebanon Beirut International Airport, which was the initial phase of the Saudi Relief Scheme.
-
-This essential support for the Lebanese people in the predicament is underlined the dedication of Saudi Arabia in extending assistance to those who are in the region and worldwide.
-
-...
-
-[Data](articles/af36b4ed.json)
-
-[Extended Data](ext_articles/af36b4ed.ext.json)
-
----
-
-### Dengue ransing again
-
-*2024-10-15 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202188) · `si`
-
-Dengue cases surge due to rainy weather. 40,657 patients reported this year, 20 deaths. Colombo, Gampaha districts hit hardest. Experts warn increased breeding risk. Take preventive measures to combat spread.
-
-🟩
-
-The health sector warned that there is a risk of the dengue epidemic with the prevailing rainy weather.
-
-Community Health Specialist Director of the National Dengue Control Unit said that 40,657 dengue patients had been disclosed during this year.
-
-Twenty people were killed after the death of dengue this year.
-
-Specialist Dr. Katha Dharsinghe, speaking to the rise in dengue moon breeding with the prevailing rainy weather has been a risk of controlling controls.
-
-"There are 1,247 patients have been reported in October alone. 20 deaths have been reported throughout the year. Patients are mostly reported in the Colombo, Gampaha, Kalutara Districts. More patients reported in Kandy, Ratnapura, Matara, Galle and Matale districts. This rain can be expected to increase the rise of dengue patients. So take action to surround the area where he is in the area and remove the community garments. "
-
-◼️
-
-[Data](articles/dfd04d35.json)
-
-[Extended Data](ext_articles/dfd04d35.ext.json)
-
----
-
-### Mossary accident that claims a life - one is serious
-
-*2024-10-15 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202187) · `si`
-
-Motorcycle crash near Handapanagala reservoir: One rider killed, another seriously hurt. Driver arrested. Incident under investigation.
-
-🟩
-
-A double cab and a motorbike incident in the Handapanagala reservoir in Handapanagala reservoir in Handapanagala reservoir in Handapanagala reservoir has taken place yesterday (14).
-
-One person who was traveling on the motorcyclist was killed and another was seriously injured.
-
-The injured person was admitted to the Wellawaya Base Hospital.
-
-The driver of the cab has been arrested by the Wellawaya Police regarding the accident and is conducting further investigations into the accident.
-
-◼️
-
-[Data](articles/49acce71.json)
-
-[Extended Data](ext_articles/49acce71.ext.json)
-
----
-
-### Railway
-
-*2024-10-15 09:35:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-தீப்பிடித்த-புகையிரதம்/175-345476) · `ta`
-
-Fire breaks out on train from Kalutara to Maradana, affecting coastal road traffic. Incident occurs near Kalutara railway station.
-
-🟩
-
-A sudden fire broke out on the train from Kalutara to Maradana.
-
-The fire broke out in the area where the train was ready to leave, near the Kalutara railway station.
-
-It is also reported that railway traffic on the coastal road has been affected by the fire. Remble
-
-◼️
-
-[Data](articles/08c31f9c.json)
-
-[Extended Data](ext_articles/08c31f9c.ext.json)
-
----
-
-### The ethnic dimensions of the Sri Lankan presidential election
-
-*2024-10-15 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196295) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's 2024 presidential election saw significant shifts in Tamil-speaking regions. Sajith Premadasa gained Tamil support, while Anura Kumara Dissanayake's National People's Power rose due to demands for justice and accountability. Voter sentiment remains complex, balancing calls for new leadership with desire for stability.
-
-🟩
-
-The 2024 presidential election in Sri Lanka has made significant changes in voting systems in the Tamil -speaking regions of the North, East and Central Provinces, especially in the North, Eastern and Central Provinces, and expresses the aspirations of the minority.
-
-Sinhala politician Sajith Premadasa gained significant support of the Tamil community despite the ethnic divisions. The Tamil voters who historically combined with the sentiments of Rajapakse will provide both political aspirations and economic solutions, and they can see the vote for Premadasa as a continuation of the tendency they believe.
-
-Tamil voters, who were cautious in Sinhala supremacist politics, regarded Premadasa as a candidate for promises such as devolution, characteristics and economic recovery.. The support of the United People's Power (SJB) of Premadasa, who propagated a meaningful power sharing under a single government, further confirmed this support.
-
-...
-
-[Data](articles/35891b72.json)
-
-[Extended Data](ext_articles/35891b72.ext.json)
-
----
-
-### There is no satisfaction in the punishment;Sri Lanka Teachers Association
-
-*2024-10-15 09:20:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டனையில்-திருப்தி-இல்லை-இலங்கை-ஆசிரியர்-சங்கம்/175-345475) · `ta`
-
-Sri Lanka Teachers Union dissatisfied with punishments for exam fraud. General Secretary questions Examination Department's effectiveness.
-
-🟩
-
-The Sri Lanka Teachers Union has said that it is not satisfied with the actions taken against the 473 accused of involvement in the examination.
-
-The General Secretary Joseph Starlin made this statement yesterday based on the issue of the question paper of the 05th grade scholarship examination.
-
-The actions taken against those who have been accused of exam fraud cannot be satisfied.
-
-He said the only punishment for those who abuse the examination would be banned from the examination.
-
-Although the Provincial Director of Education has given the powers of the provincial education, some allegations are not punished and investigated.
-
-General Secretary of the Sri Lanka Teachers Union Joseph Starlin has questioned what is the function of the Examination Department if it is not capable of confronting the exams in the future.. Remble
-
-◼️
-
-[Data](articles/be667f2b.json)
-
-[Extended Data](ext_articles/be667f2b.ext.json)
-
----
-
-### Fire in the train machine;Train services delay in coastal route
-
-*2024-10-15 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196314) · `ta`
-
-Train fire delays coastal route service between Kalutara and Maradana.
-
-🟩
-
-The train department said that a train was traveling from Kalutara to Maradana near the Kalutara railway station.
-
-The railway department said that the train services have been delayed on the coastal river due to the fire.
-
-◼️
-
-[Data](articles/3f56de33.json)
-
-[Extended Data](ext_articles/3f56de33.ext.json)
-
----
-
-### Railway engines set fire - obstructions to runway
-
-*2024-10-15 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202186) · `si`
-
-Train fire disrupts rail service between Kalutara and Maradana due to fuel leak near station.
-
-🟩
-
-The railway train was on the road near Kalutara to Maradana has been disrupted due to the fuel near the Kalutara railway station.
-
-◼️
-
-[Data](articles/18d46721.json)
-
-[Extended Data](ext_articles/18d46721.ext.json)
-
----
-
-### Railway derailment
-
-*2024-10-15 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196313) · `ta`
-
-Train derails between Colombo Fort and Maradana, delaying services on main and coastal routes. Incident occurred on Tuesday morning when a passenger train traveling from Batticaloa arrived at 7:00 AM.
-
-🟩
-
-Railway services have been delayed due to a train derailed between Colombo Fort and Maradana, the Railway Department said.
-
-The traveler traveled from Batticaloa to Colombo Fort at 7.00 am on Tuesday (15).
-
-As a result, the train services may be delayed in the main route and coastal route, the Railway Department said.
-
-◼️
-
-[Data](articles/69b16a4c.json)
-
-[Extended Data](ext_articles/69b16a4c.ext.json)
-
----
-
-### 2024 General Election: EC to release candidates’ preference numbers by tomorrow
-
-*2024-10-15 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102697/2024-general-election-ec-to-release-candidates-preference-numbers-by-tomorrow) · `en`
-
-The Election Commission has announced that the preference numbers of candidates contesting the upcoming general election will be released by tomorrow (16).
-
-A spokesperson of the election regulatory body said that the commission has already received the preference numbers from all districts and is in the process of verifying them. Once verified, the documents will be resubmitted to the respective district secretaries.
-
-The commission is working to complete the issuance of preference numbers today (15) and tomorrow (16), according to the election commission.
-
-In parallel, a meeting between representatives of political parties and the Election Commission is scheduled for this morning. The discussion will cover key aspects of the upcoming parliamentary elections, including the maximum expenditure allowed per candidate.
-
-◼️
-
-[Data](articles/0087f5df.json)
-
-[Extended Data](ext_articles/0087f5df.ext.json)
-
----
-
-### Kumar David Is No More
-
-*2024-10-15 08:56:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kumar-david-is-no-more/) · `en`
-
-Kumar David is no more. Readers of Colombo Telegraph will no more receive his incisive comments on Sri Lankan and global politics and his occasional contributions on science and technology. A sad loss for Colombo Telegraph and for intellectual dialogue on Sri Lanka.
-
-...
-
-[Data](articles/301bce97.json)
-
-[Extended Data](ext_articles/301bce97.ext.json)
 
 ---

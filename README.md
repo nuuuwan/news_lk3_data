@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 01:58:21**
+As of **2024-10-16 02:09:50**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 8,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,714 (100.0%) of 49,715 articles have been extended.
+49,715 (100.0%) of 49,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
 
-### மாத்தறையில் துப்பாக்கிச் சூடு: ஒருவர் பலி
+### Matara firing: One killed
 
 *2024-10-16 01:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறையில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-345531) · `ta`
 
-மாத்தறை - ருவன்வெல்ல பகுதியில் முச்சக்கரவண்டியில் பயணித்துக் கொண்டிருந்த ஒருவர் துப்பாக்கிச் சூட்டுக்கு இலக்காகி உயிரிழந்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-காரில் வந்த இனந்தெரியாத துப்பாக்கிதாரிகள் நேற்று மாலை குறித்த துப்பாக்கிச் சூட்டை நடத்திவிட்டுத் தப்பிச் சென்றுள்ளனர் என பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
 
-உயிரிழந்தவர் மாத்தறை - கோட்டை பகுதியைச் சேர்ந்த 53 வயதுடையவரெனத் தெரியவந்துள்ளது.  (a)
+
+Gunmen in a car fatally shot a 53-year-old man riding a three-wheeler in Matara-Ruwanwella. The incident occurred last night. Police have not yet released further details about the unidentified attackers.
+
+🟩
+
+A man who was traveling in a three -wheeler in the Matara - Ruwanwella area was shot dead.
+
+Unidentified gunmen who came in the car fired at the shooting yesterday evening, police media unit said.
+
+The deceased has been identified as a 53 -year -old from Matara - Fort.(a)
 
 ◼️
 
 [Data](articles/bb8ef1d1.json)
+
+[Extended Data](ext_articles/bb8ef1d1.ext.json)
 
 ---
 

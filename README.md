@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 09:13:07**
+As of **2024-10-15 09:24:38**
 
 ## Newspaper Stats
 
-*Scraped **49,554** Articles*
+*Scraped **49,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,034
 dailyftlk | 3,363
 adalk | 4,600
 dailymirrorlk | 4,733
-adaderanalk | 5,860
+adaderanalk | 5,862
 tamilmirrorlk | 6,766
 virakesarilk | 7,927
 adaderanasinhalalk | 8,576
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,554 (100.0%) of 49,554 articles have been extended.
+49,556 (100.0%) of 49,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### 2024 General Election: EC to release candidates’ preference numbers by tomorrow
+
+*2024-10-15 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102697/2024-general-election-ec-to-release-candidates-preference-numbers-by-tomorrow) · `en`
+
+The Election Commission has announced that the preference numbers of candidates contesting the upcoming general election will be released by tomorrow (16).
+
+A spokesperson of the election regulatory body said that the commission has already received the preference numbers from all districts and is in the process of verifying them. Once verified, the documents will be resubmitted to the respective district secretaries.
+
+The commission is working to complete the issuance of preference numbers today (15) and tomorrow (16), according to the election commission.
+
+In parallel, a meeting between representatives of political parties and the Election Commission is scheduled for this morning. The discussion will cover key aspects of the upcoming parliamentary elections, including the maximum expenditure allowed per candidate.
+
+◼️
+
+[Data](articles/0087f5df.json)
+
+[Extended Data](ext_articles/0087f5df.ext.json)
+
+---
+
+### Train services delayed on coastal line due to engine fire near Kalutara
+
+*2024-10-15 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102696/train-services-delayed-on-coastal-line-due-to-engine-fire-near-kalutara) · `en`
+
+The train services on the coastal line have been delayed due to a fire breaking out in the engine of a train near the Kalutara railway station, Sri Lanka Railways said.
+
+The incident has occurred on a train traveling from Kalutara to Maradana, according to the department.
+
+Meanwhile, the derailment of a train between Colombo Fort and Maradana railway stations has delayed train services since this morning (15).
+
+The railway department said that the engine of the Meenagaya Intercity Express Train plying from Batticaloa to Colombo Fort had derailed in this manner at around 7.00 a.m. today (15). This has disrupted train services between Colombo Fort and Maradana.
+
+Accordingly, train services on the main line and the coastal line are experiencing delays owing to this.
+
+◼️
+
+[Data](articles/30405b23.json)
+
+[Extended Data](ext_articles/30405b23.ext.json)
+
+---
 
 ### 75 mm in some areas. There will be heavy rain
 
@@ -2361,51 +2403,5 @@ It is also worth noting that the streets of Kalutara, Pulathsingha, Mathurawala 
 [Data](articles/02881d86.json)
 
 [Extended Data](ext_articles/02881d86.ext.json)
-
----
-
-### Kattankudi student
-
-*2024-10-14 16:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்தான்குடி-மாணவி-பிரதமருக்கு-மகஜர்/175-345446) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Fatima Nada, 14, hands PM Harini Amarasuriya Mahajar to combat drug crisis & child abuse."
-
-🟩
-
-Fatima Nada, a 14 -year -old student from Kattankudi to Colombo, handed over a Mahajar to Prime Minister Harini Amarasuriya on Monday morning.
-
-He has handed over the Mahajar to immediate action against the drug crisis that has affected children and youth and prevent child abuse.
-
-◼️
-
-[Data](articles/dc2f6938.json)
-
-[Extended Data](ext_articles/dc2f6938.ext.json)
-
----
-
-### Postal voting is beginning today
-
-*2024-10-14 15:58:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூல-வாக்களிப்பு-இன்று-ஆரம்பம்/175-345445) · `ta`
-
-Elpitiya Pradeshiya Sabha postal voting starts today. Ballots distributed Oct 17-20. Those unable to vote by post can do so at District Election Commission office on Oct 18.
-
-🟩
-
-Postal voting for the Elpitiya Pradeshiya Sabha has begun today in the 2024 local government elections.
-
-The National Election Commission has announced that those who are unable to vote by post will be allowed to vote in the District Election Commission at the workplace on October 18.
-
-The ballot for the Elpitiya Pradeshiya Sabha election will be distributed from October 17 to 20.
-
-◼️
-
-[Data](articles/fcca1c82.json)
-
-[Extended Data](ext_articles/fcca1c82.ext.json)
 
 ---

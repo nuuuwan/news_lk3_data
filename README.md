@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 14:12:57**
+As of **2024-10-15 14:25:17**
 
 ## Newspaper Stats
 
-*Scraped **49,620** Articles*
+*Scraped **49,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ bbccomsinhala | 497
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
-adalk | 4,608
+adalk | 4,609
 dailymirrorlk | 4,733
 adaderanalk | 5,874
 tamilmirrorlk | 6,783
 virakesarilk | 7,937
-adaderanasinhalalk | 8,589
+adaderanasinhalalk | 8,591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,620 (100.0%) of 49,620 articles have been extended.
+49,623 (100.0%) of 49,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Oil prices of the Middle East war - a special decision from the government
+
+*2024-10-15 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202200) · `si`
+
+Government forms committee to monitor oil prices amid Middle East conflict. Committee tasked with controlling fuel costs if prices rise. Monthly fuel fees for vans and buses to be reviewed. School transport fares may be reduced.
+
+🟩
+
+The government has appointed a special committee to look into the price control of prices if oil prices go up with the current state of the Middle East.
+
+Addressing the cabinet spokesman, Minister Vijitha Herath, joining the Cabinet Decision informed today (15), the committee is being made based on a surveillance report.
+
+There is a risk of rising oil prices with the state of the Middle East. Appointment of the Petroleum Corporation (Petroleum Corporation) has been issued. The committee had decided to control how oil would be controlled by the same if it was intervened. "
+
+Meanwhile, the monthly fuel charge revision of the monthly fuel fee revision has also decided to make a decision on vans and buses, Minister Vijitha Herath.
+
+"The government reduced fuel prices, but the bus fare was reduced in a certain amount, but not reduced school transport charges. As a result, the committee was recommended within two weeks to reduce the prices of schoolchildren, to reduce the prices of schoolchildren. "
+
+◼️
+
+[Data](articles/f477f841.json)
+
+[Extended Data](ext_articles/f477f841.ext.json)
+
+---
+
+### Recommendation for Cabinet about brown sugar, big onions and eggs
+
+*2024-10-15 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202199) · `si`
+
+Here's a 200-character summary:
+
+
+
+Cabinet discusses brown sugar sales, onion pricing, and egg production issues. Recommends reports on reserve management and import tax adjustments. Aims to control costs and stabilize markets. Replaces key officials across ministries.
+
+🟩
+
+Cabinet Spokesperson Vijitha Herath says that the Food Policy Committee recently had several decisions.
+
+Cabinet Spokesperson Vijitha Herath, who has commented on these verdals,
+
+"It is one of the most difficult to sell brown sugar. The market conditions and the reserves had to be taken to take a report on the reserves and the process of selling it soon. "
+
+"Next, the majority of big onions are currently under the big onions, they have not been able to sell them at reasonable prices. Accordingly, the Import Tax. The CIF is 145 to import an import tax. Doing so will be sold as Rs.. As such, the committee was recommended to submit a report immediately. How to control this and provide the onion at a concessionary price. Despite the imposition of the government, the imported costs, the market is sold at the market. There's a problem there must be solved immediately. The committee had to give recommendations to intervene in this regard. "
+
+...
+
+[Data](articles/085bc103.json)
+
+[Extended Data](ext_articles/085bc103.ext.json)
+
+---
 
 ### Special statement from Ranil
 
@@ -131,6 +185,28 @@ The US dollar purchasing price was 289.1796 rupees and the sales price were 298.
 [Data](articles/71af12eb.json)
 
 [Extended Data](ext_articles/71af12eb.ext.json)
+
+---
+
+### Here is the decision to provide special relief to fishermen
+
+*2024-10-15 12:56:16* · [`adalk`](https://www.ada.lk/breaking_news/ධීවරයන්ට-විශේෂ-සහනයක්-දෙන්න-කැබිනට්-මණ්ඩලය-ගත්-තීරණය-මෙන්න/11-412501) · `si`
+
+Cabinet approves 6-month fuel subsidy for fishermen: Rs. 25/liter diesel, Rs. 25/liter kerosene, total allocation of Rs. 5.5 million.
+
+🟩
+
+Cabinet spokesperson Vijitha Herath said that the Cabinet had decided to provide a special fuel subsidy for fishing for six months.
+
+He was speaking at a media briefing at the Cabinet Decision informed in Colombo today (15).
+
+"The cabinet decided to give a special fuel subsidy for fishermen. Low fuel prices last days. A large relief to the fishing community has already been found with the reduction. Cabinet decided to provide more reliefs in addition. Accordingly, Rs. 5.5 million has been allocated for the rent of Rs. 5.5 million for six months. Accordingly, 25 rupees relief per liter of diesel will be given to 3 million. Kerosene subsidizes Rs. 25 per month, subject to a maximum of Rs.. "
+
+◼️
+
+[Data](articles/3304932a.json)
+
+[Extended Data](ext_articles/3304932a.ext.json)
 
 ---
 
@@ -2281,79 +2357,5 @@ The fateful event that was uprooted by his life was in a grade 5, the 11th year 
 [Data](articles/dd429fb7.json)
 
 [Extended Data](ext_articles/dd429fb7.ext.json)
-
----
-
-### The UN. President Meeting with Assistant Secretary
-
-*2024-10-15 01:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நா-உதவிச்-செயலாளருடன்-ஜனாதிபதி-சந்திப்பு/175-345469) · `ta`
-
-UN Assistant Secretary General Kanni Vignaraja met Sri Lanka President Anura Kumara Dissanayake. Discussion focused on administration, constitutional reforms, electoral system, UN report on risk impact, and women's economic contribution. UNDP pledged support for Sri Lanka's development efforts based on the report.
-
-🟩
-
-United Nations Assistant Secretary General of the United Nations Kanni Vignaraja met with President Anura Kumara Dissanayake at the Presidential Office yesterday morning.
-
-At this time, the focus was on the administration, the constitutional reforms and the electoral system.
-
-The United Nations is also a report titled 'Understanding of Dimensional Risk and their impact on the Sri Lankan people' '. President Anurakumara Dissanayake was handed over by the representative.
-
-The Representative also promised that the United Nations Development Program will provide full support for Sri Lanka's development efforts on this report.
-
-The meeting also focused on the lack of women's contribution to the economy of the country.(a)
-
-◼️
-
-[Data](articles/77555033.json)
-
-[Extended Data](ext_articles/77555033.ext.json)
-
----
-
-### 2024-10-14 (Monday)
-
-### Lock for some more schools
-
-*2024-10-14 23:59:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-சில-பாடசாலைகளுக்கும்-பூட்டு/175-345468) · `ta`
-
-Schools in Southern and Western Provinces closing due to bad weather.
-
-🟩
-
-Due to the inclement weather, some schools in the Southern Province have been decided to close tomorrow.
-
-Also, all schools in the Western Province will be closed tomorrow. Remble
-
-◼️
-
-[Data](articles/51736cc7.json)
-
-[Extended Data](ext_articles/51736cc7.ext.json)
-
----
-
-### Doing it unplugged
-
-*2024-10-14 23:54:00* · [`islandlk`](http://island.lk/doing-it-unplugged/) · `en`
-
-The LunuDehi-Bathiya and Santhush (BNS) combination has been creating a storm with their music, especially overseas.
-
-Of course, their music is very infectious here, too, but the demand for them overseas is stupendous…and they do it differently, as well.
-
-Their unplugged concerts are crowd-pullers where they perform using all acoustic instruments – guitars, piano, brass instruments, violins, cajons, etc.
-
-In fact, their next overseas unplugged concert will be in Australia.
-
-BNS will be doing ‘Hadagasma’, a special edition Unplugged Concert at Palms at Crown, in Melbourne, on Sunday, 27th October, with LunuDehi providing the backing, using acoustic instruments.
-
-The organisers are expecting a full house and it’s very likely that would happen as 70% of the tickets have already been purchased by fans of BNS/LuniDehi.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/6073d8e1.json)
-
-[Extended Data](ext_articles/6073d8e1.ext.json)
 
 ---

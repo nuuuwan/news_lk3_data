@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 03:57:45**
+As of **2024-10-16 04:10:56**
 
 ## Newspaper Stats
 
-*Scraped **49,716** Articles*
+*Scraped **49,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,116 @@ adalk | 4,624
 dailymirrorlk | 4,733
 adaderanalk | 5,884
 tamilmirrorlk | 6,799
-virakesarilk | 7,959
+virakesarilk | 7,963
 adaderanasinhalalk | 8,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,716 (100.0%) of 49,716 articles have been extended.
+49,720 (100.0%) of 49,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### தற்போதைய பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்டெடுக்க பொதுத் தேர்தலின் பின்னர் தேசிய அரசாங்கம் அமைக்கப்பட வேண்டும் - ரவூப் ஹக்கீம்
+
+*2024-10-16 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/196397) · `ta`
+
+Rauf Hakeem calls for national government after elections to address economic crisis. He believes strong opposition necessary for democracy. United People's Alliance aims for 7 parliamentary seats in Kandy district.
+
+🟩
+
+பொதுத் தேர்தலின் பின்னர் தேசிய அரசாங்கம் அமைக்கப்பட வேண்டும் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும் கண்டி மாவட்ட ஐ.ம. C. வேட்பாளருமான ரவூப் ஹக்கீம் கண்டியில் தெரிவித்துள்ளார்.
+
+இது தனது தனிப்பட்ட கருத்தாக இருந்தாலும் தற்போதைய பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்டெடுக்க   ஐக்கிய மக்கள் சக்தியின் தலைமையும் இது தொடர்பில் தமது இணக்கத்தை வெளிப்படுத்தும் என நம்புவதாகவும் அவர் தெரிவித்துள்ளார்.
+
+Sri Lanka Muslim Congress leader Rauf Hakeem added to the media on Monday (14) in Kandy:
+
+As a United People's Alliance, the Sri Lanka Muslim Congress with the United People's Alliance in seven districts
+
+Competes with. We are contesting separately in the Eastern Province in Ampara and Batticaloa districts. Our aim is to get 04 more parliamentary seats.
+
+...
+
+[Data](articles/69f29573.json)
+
+[Extended Data](ext_articles/69f29573.ext.json)
+
+---
+
+### Mann/St. Savior Girls College student tops the National Science Olympiad competition
+
+*2024-10-16 03:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196396) · `ta`
+
+Nayolin Antonio Kuberakumar from Mann/St. Savior Girls College wins top honors in National Science Olympiad. Secures second place overall, first in Jaffna Hindu College, and first in 2018 National Residence competition. Achieves success at both school and national levels.
+
+🟩
+
+Nayolin Antonio Kuberakumar, a student of St. Savior Girls' College, was secured second place in the National Science Olympiad Competition held by the Ministry of Education.
+
+He has won the first place in the Jaffna Hindu College and the second place in the National Level Competition held on 3/8/2024 at the Presidential College of Maharagama, our district and the province.
+
+He was also ranked first in the 2018 National Residence.
+
+◼️
+
+[Data](articles/2284c8b6.json)
+
+[Extended Data](ext_articles/2284c8b6.ext.json)
+
+---
+
+### In the state of the national people's power;Tamil people will not get justice -Gajendrakumar Ponnambalam
+
+*2024-10-16 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196395) · `ta`
+
+Gajendrakumar Ponnambalam criticizes national government for rejecting human rights violations inquiry. He warns Tamil people won't receive justice under current administration.
+
+🟩
+
+Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front and the Chief Candidate of the Tamil National People's Front and the Jaffna Mawatha chief candidate, said that as the national people's power government has rejected the violation of human rights and humanitarian law, the Tamil people will not get justice in the time of the government.
+
+தேசிய அரசாங்கம் ஆட்சியில் அமர்ந்துள்ளது. It says that it is going to change. But it has announced that the National People's Government is going to inflict injustice to the affected people.
+
+The National People's Power Cabinet has decided that it will not carry out international inquiries into human rights and human rights violations in Sri Lanka and will not be allowed to participate in international investigators.
+
+Anyone who accepts the justification that the perpetrators to investigate their crime are completely contrary to natural justice, will not accept the government's claim.
+
+...
+
+[Data](articles/f24ec2aa.json)
+
+[Extended Data](ext_articles/f24ec2aa.ext.json)
+
+---
+
+### In the presence of Professor Kanakasingham in the Eastern University Vice Chancellor
+
+*2024-10-16 03:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196394) · `ta`
+
+Eastern University Vice Chancellor promotion: Professor Kanakasingham wins second place. Applications invited for VC position. Council evaluates candidates. Top three names sent to President for appointment.
+
+🟩
+
+The Vice Chancellor of the Eastern University, located in Vandarumula, Batticaloa, has been promoted by Professor Vallipuram Kanagasingham points.
+
+Applications have been requested by the Registrar of the University for the post of Vice Chancellor as the current Vice Chancellor's term ends on January 21st.
+
+Applications for the post of Vice Chancellor explained their future plans at a special council meeting held on Tuesday, 15th.. Subsequently, the members of the council evaluated the applications and presented the points.
+
+Based on the points received, the current Vice Chancellor Professor Vallipuram Kanagasingham has won the second and third places respectively.
+
+According to the University Grants Commission circular to select vice -chancellors of universities in Sri Lanka, the details of the top three will be sent to the President through the University Grants Commission and the Ministry of Education.
+
+...
+
+[Data](articles/5d818321.json)
+
+[Extended Data](ext_articles/5d818321.ext.json)
+
+---
 
 ### England Exit and entered the semi -finals: South Africa also had a semi -final offer
 
@@ -2445,117 +2543,5 @@ When we are telling the people properly, we become a true politician. We are loo
 [Data](articles/f510d800.json)
 
 [Extended Data](ext_articles/f510d800.ext.json)
-
----
-
-### 2 Groups Appointment for Independence Day Supervisory
-
-*2024-10-15 12:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திர-தின-மேற்பார்வைக்காக-2-குழுக்கள்-நியமனம்/175-345496) · `ta`
-
-Committee formed: Cabinet Ministers, President, PM, religious leaders. Task: Plan 77th Independence Day (Feb 2025). Group 1: Organize events. Group 2: Supervise. Top officials involved. Motion proposed by PM.
-
-🟩
-
-A committee comprising of Cabinet Ministers has been appointed with the participation of the President, Prime Minister and Buddhist, Religious and Cultural Affairs, National Integration, Social Security and Media Minister for guidance and supervision for the 77th Independence Day celebration in February 2025.
-
-Cabinet Spokesperson Minister Vijitha Herath said that a watchdog was appointed with the participation of top officials of all the relevant ministries and departments, including the Army and the Police to organize Independence Day celebrations.
-
-As the Minister of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labor, the Motion on the appointment of two groups was put forward by the Prime Minister.
-
-◼️
-
-[Data](articles/7b8232da.json)
-
-[Extended Data](ext_articles/7b8232da.ext.json)
-
----
-
-### Is Sri Lanka's 'individual parties' politics done ?: What are the present parties?
-
-*2024-10-15 12:24:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5yw4j4l1qyo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's individual party politics evolving. Major parties UNP, SLFP facing challenges. JVP emerging as alternative. Rajapaksas absent from elections. Public trust declining. Leftist parties gaining strength. Political analysts predict system change.
-
-🟩
-
-Is Sri Lanka's 'individual parties' politics done ?: What are the present parties?
-
-The Sri Lankans have made a change in the political authority of Sri Lanka, who has been exchanged between two major camps.
-
-The JVP leading the national foliday of the JVP mainly managed to be an alternative to the two main camps.
-
-Political parties and independent groups have arrived at the next five years.
-
-The national folk force, which was alternative to the major parties in the presidential election, were also competed.
-
-Meanwhile, almost all the parties including the national folk force, it is observed that this year's general election will be contested.
-
-What challenges have the major parties faced in such an environment?
-
-The first Prime Minister of Sri Lanka is DS. The UNP, which was started by Senanayake, is not allied to the general election.
-
-However, the United National Party (UNP) is only the elephant mark for Nuwara Eliya and Vanni Districts.
-
-...
-
-[Data](articles/37a24ebc.json)
-
-[Extended Data](ext_articles/37a24ebc.ext.json)
-
----
-
-### Virgin Vignaraja meets with President Prime Minister
-
-*2024-10-15 12:21:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பிரதமருடன்-கன்னி-விக்னராஜா-சந்திப்பு/175-345495) · `ta`
-
-UNDP's Virgin Vignaraja meets SL leaders: Discusses sustainable growth, economic reforms, digital transformation, and community safety. Focuses on empowering women, youth, and rural farmers. First high-ranking UN official to visit post-election Sri Lanka.
-
-🟩
-
-The Sri Lankan who holds the United Nations has met with the Virgin Vignaraja, President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya.
-
-Vignaraja, who served as the United Nations Assistant Secretary General and the United Nations Asian and Pacific Regional Development Project Director, was present during his one -day visit to Sri Lanka.
-
-According to the UNDP Sri Lanka, UNDP's Resident Representative to Sri Lanka, Asusa Kuboda, also attended the meeting with Vignaraja.
-
-In his involvement, Vignaraja strengthened the commitment of UNDP to achieve sustainable growth in the fields of economic and administrative reforms, accountability, refreshment capital, digital change, public sector modernization and strengthening the safety of vulnerable communities in the country.
-
-Vignaraja reiterated the policy and technical offers of UNDP in these areas, with particular attention to women, youth and rural farmers, which have many impacts of economics, disasters and climate change.
-
-...
-
-[Data](articles/b1f5b727.json)
-
-[Extended Data](ext_articles/b1f5b727.ext.json)
-
----
-
-### Virgin Vignaraja meets with President
-
-*2024-10-15 12:21:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கன்னி-விக்னராஜா-ஜனாதிபதி-பிரதமருடன்-சந்திப்பு/175-345495) · `ta`
-
-UNDP's Virgin Vignaraja meets Sri Lankan leaders. Discusses sustainable development, economic reforms, digital transformation, and community protection. Focuses on empowering women, youth, and rural communities. First high-ranking UN official to visit post-election Sri Lanka.
-
-🟩
-
-The United Nations has met with Sri Lankan Virgi Vignaraja, President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya.
-
-Vignaraja, who served as the United Nations Assistant Secretary General and the United Nations Asian and Pacific Regional Development Project Director, was present during his one -day visit to Sri Lanka.
-
-According to the UNDP Sri Lanka, UNDP's Resident Representative to Sri Lanka, Asusa Kuboda, also attended the meeting with Vignaraja.
-
-In his involvement, Vignarajah strengthened UNDP's determination to achieve sustainable growth in the fields of economic and administrative reforms, accountability, refreshing capital, digital change, public sector modernization and strengthening the safety of vulnerable communities in the country.
-
-Vignaraja reiterated the policy and technical offers of UNDP in these areas, with particular attention to women, youth and rural farmers, which have many impacts of economics, disasters and climate change.
-
-...
-
-[Data](articles/d2dfb653.json)
-
-[Extended Data](ext_articles/d2dfb653.ext.json)
 
 ---

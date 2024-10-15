@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 17:08:37**
+As of **2024-10-15 17:23:28**
 
 ## Newspaper Stats
 
-*Scraped **49,657** Articles*
+*Scraped **49,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,880
 tamilmirrorlk | 6,793
 virakesarilk | 7,941
-adaderanasinhalalk | 8,598
+adaderanasinhalalk | 8,599
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,657 (100.0%) of 49,657 articles have been extended.
+49,658 (100.0%) of 49,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Notice to the witnesses of Diana
+
+*2024-10-15 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202209) · `si`
+
+Colombo Magistrate's Court orders Diana Gamage to appear on 24th. Case filed for obtaining false information and overstaying visa. CID requested summons. Immigration officials named as witnesses.
+
+🟩
+
+The Colombo Magistrate's Court has ordered notices to the next seven cases filed against the former State Minister Diana Gamage to appear in court on the 24th.
+
+The case was filed against her in order to obtain false information and staying in Sri Lanka without valid visa.
+
+The Central Magistrate Thilina Gamage issued the order after considering a request made by the CID by the investigation.
+
+Accordingly, in the case, there have been nobles to a number of immigration and emerging control or a few other stakeholders who are nominated in the case.
+
+◼️
+
+[Data](articles/89aa17d6.json)
+
+[Extended Data](ext_articles/89aa17d6.ext.json)
+
+---
 
 ### A weather forecast for next 36 hours
 
@@ -2403,25 +2427,5 @@ The West Indies team and the Sri Lankan team consists of three tournaments.
 [Data](articles/c66088e5.json)
 
 [Extended Data](ext_articles/c66088e5.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-10-15 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102694/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, North-western and Northern provinces and in Galle, Matara, Kandy, Nuwara-Eliya and Trincomalee districts.
-
-Fairly heavy showers about 75mm are likely at some places in Western, Sabaragamuwa, North-western and Northern provinces and in Galle, Matara and Trincomalee districts.
-
-Showers or thundershowers will occur at several places elsewhere during the evening or night, it said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/15be9e3c.json)
-
-[Extended Data](ext_articles/15be9e3c.ext.json)
 
 ---

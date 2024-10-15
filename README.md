@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 11:59:10**
+As of **2024-10-15 12:14:04**
 
 ## Newspaper Stats
 
-*Scraped **49,595** Articles*
+*Scraped **49,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 3,037
 dailyftlk | 3,363
 adalk | 4,605
 dailymirrorlk | 4,733
-adaderanalk | 5,870
+adaderanalk | 5,873
 tamilmirrorlk | 6,776
 virakesarilk | 7,932
-adaderanasinhalalk | 8,583
+adaderanasinhalalk | 8,584
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,595 (100.0%) of 49,595 articles have been extended.
+49,599 (100.0%) of 49,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### North Korea blows up parts of inter-Korean road on its side of border, Seoul says
+
+*2024-10-15 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102708/north-korea-blows-up-parts-of-inter-korean-road-on-its-side-of-border-seoul-says) · `en`
+
+North Korea has blown up sections of inter-Korean roads and rail lines on its side of the heavily fortified border between the two Koreas, South Korea’s military said on Tuesday, ratcheting up tensions on the Korean peninsula.
+
+At around midday, some northern parts of the roads and rail lines connected to the South were blown up, the Joint Chiefs of Staff (JCS) said in a message sent to media.
+
+In response, South Korea’s military fired warning shots south of the military demarcation line dividing the neighbours, though the explosions had not caused any damage on Seoul’s side of the border, it said.
+
+The explosions came after Pyongyang pledged last week to completely cut off the inter-Korean roads and railways and further fortify the areas on its side of the border. Seoul had warned on Monday that the North was getting ready for a detonation.
+
+...
+
+[Data](articles/4589958f.json)
+
+[Extended Data](ext_articles/4589958f.ext.json)
+
+---
+
+### New software system for public debt management in Sri Lanka
+
+*2024-10-15 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202193) · `si`
+
+Sri Lanka establishes public debt management office under Act No. 33. CS-DRMS system outdated; IMF/World Bank recommends Commonwealth Meridian software. Cabinet approves procurement committee's recommendation to acquire Commonwealth Meridian software.
+
+🟩
+
+A public debt management office should be established on the Public Debt Management Act No. 33 of the Act, No. 23 of the Act.
+
+The Government has already provided Commonwealth secretary decoding and management system (CS-DRMS) System (CS-DRMS).
+
+The Commonwealth Secretariat has stopped the updates of the system and extension of the annual license.
+
+The International Monetary Fund and the World Bank is designated with the Institute of Commonwealth Meridian software, which is provided by the Commonwealth Secretariat or the COMMFAS Meridian software or development of the Commonwealth Secretariat.It is recommended.
+
+According to the Commonwealth Secretariat, the COMMONWEALTH MERIDIAN SOFFA is to be able to buy the COMMONWEALTH MERIDIBS, in the Commonwealth.The Cabinet has approved the proposal made by money, economic development, policy, planning and traveling minister in order to obtain the recommendations of a procurement committee.
+
+◼️
+
+[Data](articles/6ccafdef.json)
+
+[Extended Data](ext_articles/6ccafdef.ext.json)
+
+---
+
+### Govt. reveals stance on allowing vehicle imports
+
+*2024-10-15 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102707/govt-reveals-stance-on-allowing-vehicle-imports) · `en`
+
+Minister Vijitha Herath states that the import of vehicles will only be carried out under a proper procedure and in a manner that will not exhaust the foreign reserves in the country thereby causing a dollar crisis again.
+
+Herath also assured that the government is of the stance that the importation of vehicles should be allowed.
+
+“Currently, there is a higher demand to facilitate the import of vehicles. There is a Cabinet decision regarding the matter that was made earlier. But so far, we have neither imported any vehicles after we came into power, nor allowed any vehicle imports with tariff concessions”, he added.
+
+“But regarding the import of vehicles, we are in the stance that we should allow the import of vehicles, but only under a proper procedure”, the Minister said.
+
+◼️
+
+[Data](articles/608a674c.json)
+
+[Extended Data](ext_articles/608a674c.ext.json)
+
+---
+
+### Mangala Wijesinghe appointed EDB Chairman
+
+*2024-10-15 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102706/mangala-wijesinghe-appointed-edb-chairman-) · `en`
+
+The Chief Operating Officer of Brown & Company PLC, Mangala Wijesinghe has been appointed as the new Chairman of the Export Development Board (EDB).
+
+◼️
+
+[Data](articles/0379bef4.json)
+
+[Extended Data](ext_articles/0379bef4.ext.json)
+
+---
 
 ### End to passports crisis from Monday - Minister
 
@@ -2225,117 +2305,5 @@ The injured have been admitted to the Kaluwanchikudi Resource Hospital for furth
 [Data](articles/aa7ac45a.json)
 
 [Extended Data](ext_articles/aa7ac45a.ext.json)
-
----
-
-### Special discussion in relation to the election
-
-*2024-10-14 19:59:23* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-අදාළව-විශේෂ-සාකච්ඡාවක්/11-412494) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Political parties' secretaries and Election Commission discuss parliamentary election details. Meeting determines election spending limits and publication process. First joint meeting between parties and commission. Gazette notification to follow after final decisions made.
-
-🟩
-
-A special discussion is scheduled to hold a special discussion between the political party secretaries and the Election Commission regarding the parliamentary election.
-
-The discussion is also scheduled to determine the maximum amount of parliamentary election on the parliamentary election and will also be discussed in the publication of the election.
-
-After determining the amount of money spent at the parliamentary election, a gazette notification will be issued.
-
-It is also the first time that the Political Party and the Election Commission will meet with the political party secretaries and the election commissioner.
-
-◼️
-
-[Data](articles/38e4fd32.json)
-
-[Extended Data](ext_articles/38e4fd32.ext.json)
-
----
-
-### A banquet for the officers who came to find corruption
-
-*2024-10-14 19:54:34* · [`adalk`](https://www.ada.lk/breaking_news/වංචා-දූෂණ-හොයන්න-ආපු-නිලධාරීන්ට-භෝජන-සංග්‍රහයක්-දිලා/11-412493) · `si`
-
-Banquet for officers investigating Kandy Municipal Council corruption. Audit reveals fraud in assessment, housing, and business planning. Internal transfers uncovered over 10-15 years. Investigation ongoing regarding government policies and vision. Officials accused of corruption involvement.
-
-🟩
-
-Governor of the Central Provincial Council officials to investigate the corruption of corruption of the Kandy Municipal Council. Governor of the Central Provincial Council. The special attention to Mr. Abeykoon is focused.
-
-General Secretary of the Central Province Ajith Premadinghe, including billions of rupees to the Kandy Municipal Mount Road in the Kandy Municipal Council, the lunch for the Urban Council.It is said that the treat is held.
-
-The Governor of the Central Province has inquired from both Provincial Councils and Urban Councils.
-
-Audit queries have revealed that large scale frauds have taken place in various cases, including collecting assessment, housing and business planning of the Kandy Municipal Council.
-
-Audit investigations have revealed that internal transfers were being carried out in the municipality of the Urban Council for 10-15 years.
-
-...
-
-[Data](articles/32a0516c.json)
-
-[Extended Data](ext_articles/32a0516c.ext.json)
-
----
-
-### Pressure 100,000 people from inclement weather
-
-*2024-10-14 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202173) · `si`
-
-Heavy rains hit 12 districts, flooding major cities. 1 million affected. Highest 24-hour rainfall: 126.1mm. Floods reported in Colombo, Kalutara, Galle, Matara, Gampaha. Roads impassable due to flooding. Weather warning issued for southern coast.
-
-🟩
-
-The Disaster Management Center (DMC) says that one million people have been affected by the inclement weather.
-
-Due to the prevalence in the island, the rainy weather conditions have been affected by about 12 districts.
-
-Due to this, flooding in Colombo, Kalutara, Galle, Matara and Gampaha.
-
-The highest rainfall was 126.1 mm in the past 24 hours.
-
-A large number of many surroundings in Kaduwela were flooded by the Colombo-Kurunegala main road by the Galawillai, Kaduwela, Colombo main road from the Galala Kotugoda.
-
-However, the floods in Gampaha is tied up.
-
-Several roads including several degrees in Kalutara district were flooded by the Kalu Ganga and the Sunday of Kalu Ganga and the Sunday.
-
-Puttalam Nattandiya, Thummodara, Mawadhyla, Puttalam was also flooded by Hamilton Canal.
-
-The Irrigation Department said that a decrease in the flood risk of flood risk in Attanagalu Oya, Kelani, Kalu, GN and Ganga River.
-
-...
-
-[Data](articles/7fe8a0a4.json)
-
-[Extended Data](ext_articles/7fe8a0a4.ext.json)
-
----
-
-### Ocean of Pohon says it supports the compass
-
-*2024-10-14 19:45:09* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවට-සහාය-දෙන-බව-පොහොට්ටුවේ-සාගර-කියයි/11-412492) · `si`
-
-Sri Lanka Ocean of Pohon supports compass governance. General Secretary Kariyawasam pledges party's commitment to national development without draining resources. Emphasizes honesty and humility in accepting recent judgments. Aims to support country's growth alongside JVP.
-
-🟩
-
-The General Secretary of the Sri Lanka Kariya Kariyawasam, the General Secretary of the Sri Lanka Ceremony, the Sri Lanka Appointment will be supported as a party to the development of a leading compass governance.
-
-He said that a party would not be a drain from the leg in any way.
-
-Speaking at a media briefing held at the Sri Lanka Civil War Headquarters in Nelum Mawatha, Battaramulla yesterday, said:
-
-"When we forget the economy during the Covenan, we made a mistake as a government to forget the lives of the people.. People have given us a answer to that offense by now. We are humble and respectfully welcomed the judgment and respectfully. The Sri Lanka Promotion is the Sri Lanka General Front as the only party that is honest in this country. As we accept the decision, we are presented a new program for the future of this country.
-
-...
-
-[Data](articles/4c5b8400.json)
-
-[Extended Data](ext_articles/4c5b8400.ext.json)
 
 ---

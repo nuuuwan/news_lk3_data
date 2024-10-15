@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 09:58:39**
+As of **2024-10-15 10:12:17**
 
 ## Newspaper Stats
 
-*Scraped **49,558** Articles*
+*Scraped **49,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 496
 islandlk | 2,942
 economynextcom | 3,034
 dailyftlk | 3,363
-adalk | 4,600
+adalk | 4,601
 dailymirrorlk | 4,733
 adaderanalk | 5,862
-tamilmirrorlk | 6,767
+tamilmirrorlk | 6,769
 virakesarilk | 7,927
 adaderanasinhalalk | 8,577
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 8,577
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,558 (100.0%) of 49,558 articles have been extended.
+49,561 (100.0%) of 49,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Railway
+
+*2024-10-15 09:35:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-தீப்பிடித்த-புகையிரதம்/175-345476) · `ta`
+
+Fire breaks out on train from Kalutara to Maradana, affecting coastal road traffic. Incident occurs near Kalutara railway station.
+
+🟩
+
+A sudden fire broke out on the train from Kalutara to Maradana.
+
+The fire broke out in the area where the train was ready to leave, near the Kalutara railway station.
+
+It is also reported that railway traffic on the coastal road has been affected by the fire. Remble
+
+◼️
+
+[Data](articles/08c31f9c.json)
+
+[Extended Data](ext_articles/08c31f9c.ext.json)
+
+---
+
+### There is no satisfaction in the punishment;Sri Lanka Teachers Association
+
+*2024-10-15 09:20:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டனையில்-திருப்தி-இல்லை-இலங்கை-ஆசிரியர்-சங்கம்/175-345475) · `ta`
+
+Sri Lanka Teachers Union dissatisfied with punishments for exam fraud. General Secretary questions Examination Department's effectiveness.
+
+🟩
+
+The Sri Lanka Teachers Union has said that it is not satisfied with the actions taken against the 473 accused of involvement in the examination.
+
+The General Secretary Joseph Starlin made this statement yesterday based on the issue of the question paper of the 05th grade scholarship examination.
+
+The actions taken against those who have been accused of exam fraud cannot be satisfied.
+
+He said the only punishment for those who abuse the examination would be banned from the examination.
+
+Although the Provincial Director of Education has given the powers of the provincial education, some allegations are not punished and investigated.
+
+General Secretary of the Sri Lanka Teachers Union Joseph Starlin has questioned what is the function of the Examination Department if it is not capable of confronting the exams in the future.. Remble
+
+◼️
+
+[Data](articles/be667f2b.json)
+
+[Extended Data](ext_articles/be667f2b.ext.json)
+
+---
 
 ### Railway engines set fire - obstructions to runway
 
@@ -1682,6 +1732,30 @@ Pothuwil Primary Hospital handed over to government. Health Ministry Deputy Mini
 
 ---
 
+### Showers over 100 mm
+
+*2024-10-14 19:22:45* · [`adalk`](https://www.ada.lk/breaking_news/හෙටත්-මිලි-මිටර්-100-ඉක්මවූ-වැසි/11-412490) · `si`
+
+Heavy rainfall warning issued for Western, Sabaragamuwa, North Western, and Northern provinces. Thunderstorms expected, potential flooding in Colombo, Gampaha, and Puttalam. Rescue efforts underway, including deployment of military units and relief teams. Low-pressure system developing in Bay of Bengal, may impact southern India and Sri Lanka within 48 hours. Strong winds and heavy showers predicted.
+
+🟩
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, North Western and Northern provinces today (15), the Met Department said.
+
+MM in the Western, Sabaragamuwa, North Western and Northern provinces, Galle, Matara and Trincomalee Districts. Heavy showers can occur at around 100 in the evening or night.
+
+The department urges the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms. The Disaster Management Center (DMC) stated that 134484 persons belonging to 34492 families have been affected due to the inclement weather.
+
+241 houses have been damaged and two deaths and two injured have been reported. These people have been affected by 6963 persons belonging to 1753 families.
+
+...
+
+[Data](articles/d40dceaf.json)
+
+[Extended Data](ext_articles/d40dceaf.ext.json)
+
+---
+
 ### In the hands of Pakistan in India's semi -final chance
 
 *2024-10-14 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196298) · `ta`
@@ -2337,73 +2411,5 @@ The summit announced a three-day public holiday for the city of Islamabad, and t
 [Data](articles/f3d51817.json)
 
 [Extended Data](ext_articles/f3d51817.ext.json)
-
----
-
-### Nandimithra is known to microphone
-
-*2024-10-14 16:20:10* · [`adalk`](https://www.ada.lk/breaking_news/නන්දිමිත්‍ර-මයික්‍රෆෝනයට-මිත්‍රවෙයි/11-412483) · `si`
-
-Here's a 200-character summary:
-
-
-
-Nandimithra Ekanayake: Former Cabinet & Chief Minister. First elected as SLFP MP. UNP minister under Mahinda Rajapaksa. Supported Sajith Premadasa in presidential elections.
-
-🟩
-
-Former Cabinet Minister and former Central Province Chief Minister Nandimithri Ekanayake has come forward to the Parliamentary Election in the general election.
-
-Nandimithra Dr. Nandimithra has been elected to Parliament for the first time in the Sri Lanka Freedom Party for the first Sri Lanka Freedom Minister.
-
-The girl is under the United National Party in 2001 and the Girl Minister of Administration of the President of Mahinda Rajapaksa.
-
-Alexakamka Sajith Premadasa of the Presidential Elections was supported by the United Democratic Sound Party in this election.. (I J)
-
-◼️
-
-[Data](articles/c47165c1.json)
-
-[Extended Data](ext_articles/c47165c1.ext.json)
-
----
-
-### Schools closed in Colombo Education Zone tomorrow
-
-*2024-10-14 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102685/schools-closed-in-colombo-education-zone-tomorrow) · `en`
-
-All schools in the Colombo Education Zone will be closed tomorrow (15), the Director of Education of the Western Province announced.
-
-This decision has been taken in view of the prevailing adverse weather conditions.
-
-Meanwhile, all government schools of the Gampaha, Kelaniya, Kolonnawa and Kaduwela educational zones will remain closed tomorrow (15) as decided by the Provincial Education authorities on Sunday (13).
-
-The schools in the aforementioned Education Zones had remained closed today as well, due to the prevailing inclement weather.
-
-◼️
-
-[Data](articles/80fe0340.json)
-
-[Extended Data](ext_articles/80fe0340.ext.json)
-
----
-
-### All schools closed tomorrow
-
-*2024-10-14 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202163) · `si`
-
-Colombo Education Zone schools closed tomorrow due to adverse weather conditions. Western Province Acting Education Director made the decision to conserve resources and ensure safety.
-
-🟩
-
-All schools in the Colombo Education Zone have decided to be closed tomorrow morning.
-
-The Western Province Acting Education Director stated that this decision was taken in conserving the existing adverse weather conditions.
-
-◼️
-
-[Data](articles/aceba093.json)
-
-[Extended Data](ext_articles/aceba093.ext.json)
 
 ---

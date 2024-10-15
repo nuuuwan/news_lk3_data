@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 19:01:01**
+As of **2024-10-15 19:12:16**
 
 ## Newspaper Stats
 
-*Scraped **49,664** Articles*
+*Scraped **49,666** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 401
 colombotelegraphcom | 494
-bbccomsinhala | 498
+bbccomsinhala | 499
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
 adalk | 4,615
 dailymirrorlk | 4,733
-adaderanalk | 5,881
+adaderanalk | 5,882
 tamilmirrorlk | 6,794
 virakesarilk | 7,941
 adaderanasinhalalk | 8,602
@@ -26,43 +26,71 @@ adaderanasinhalalk | 8,602
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,661 (100.0%) of 49,664 articles have been extended.
+49,664 (100.0%) of 49,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
 
-### කාසියේ වාසිය ශ්‍රී ලංකාව ට
+### One person killed in shooting in Matara
+
+*2024-10-15 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102718/one-person-killed-in-shooting-in-matara) · `en`
+
+A person has been shot and killed by an unidentified gunman in the Kekanadura area in Matara this evening (15), police said.
+
+The victim was reportedly travelling in a three-wheeler when he was shot by an individual who had arrived in a car.
+
+It is also reported that the shooting victim had been operating as a “vehicle seizer”.
+
+◼️
+
+[Data](articles/cd351922.json)
+
+---
+
+### Sri Lanka to benefit
 
 *2024-10-15 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202213) · `si`
 
-සංචාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර අද (15) පැවැත්වෙන දෙවන විස්සයි විස්ස තරගයේ කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායමසමත් විය.
+Sri Lanka benefits from West Indies match. Dambulla stadium game starts 7pm. West Indies won first T20 by 5 wickets. Teams compete in three tournaments.
 
-දඹුල්ල ජාත්‍යන්තර ක්‍රීඩාංගණයේ පැවැත්වෙන තරගය රාත්‍රී 7ට ආරම්භ වීමට නියමිතය.
+🟩
 
-දෙරට අතර පැවති පළමු විස්සයි විස්ස තරගය කඩුලු 5කින් ජය ගැනීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමත් වුණි.
+The Sri Lankan team was the benefit of the West Indies and the Sri Lanka team today (15).
 
-බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පැවැත්වෙන 20යි 20 තරගාවලිය තරග 3කින් සමන්විතය.
+The match at the Dambulla International Stadium will commence at 7 pm.
+
+West Indies won the first Twenty20 match between the two countries by 5 wickets.
+
+The West Indies team and the Sri Lankan team consists of three tournaments.
 
 ◼️
 
 [Data](articles/e1ded103.json)
 
+[Extended Data](ext_articles/e1ded103.ext.json)
+
 ---
 
-### මාතර වෙඩිතැබීමක් - අයෙක් මරුට
+### Matara shooting - Man dies
 
 *2024-10-15 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202212) · `si`
 
-මාතර කැකනදුර ප්‍රදේශයේදී අද (15) පස්වරුවේ සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙකු මියගොස් තිබේ.
+Matara shooting: One man killed in Kekanadura today. Police say shooter used car. Victim identified as Caesar. Incident occurred this afternoon.
 
-පොලීසිය පැවසුවේ ත්‍රිරෝද රථයකින් ගමන් කරමින් සිටි පුද්ගලයෙකුට මෝටර් රථයකින් පැමිනි පුද්ගලයෙකු විසින් මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
+🟩
 
-වෙඩිතැබීමෙන් මියගොස් ඇත්තේ සීසර්වරයෙකු ලෙස කටයුතු කළ පුද්ගලයෙකු බව වාර්තා වෙයි.
+A shooting has been killed in the Kekanadura area in Matara this afternoon.
+
+The police said that the shooting had been carried out by a car in a car.
+
+It is reported that a person who was a Caesar was the victim of shooting.
 
 ◼️
 
 [Data](articles/fd95c9aa.json)
+
+[Extended Data](ext_articles/fd95c9aa.ext.json)
 
 ---
 
@@ -158,17 +186,27 @@ Accordingly, in the case, there have been nobles to a number of immigration and 
 
 ---
 
-### විශ්‍රාමිකයන්ට මේ මාසයේත් දීමනාවක් - ලබන මාසයේ සිට වැටුපට එකතුකරයි
+### Allowance this month to pensioners - from next month
 
 *2024-10-15 16:50:09* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමිකයන්ට-මේ-මාසයේත්-දීමනාවක්---ලබන-මාසයේ-සිට-වැටුපට-එකතුකරයි/11-412507) · `si`
 
-මේ මාසයට අදාල විශාම වැටුප ගෙවීම හේතුවෙන් රජය විසින් දීමට තීරණය කරතිබූ  රු 3000ක මුදල  මේමාසයේදී දීමනාවක් ලෙසදීමට තීරණය කොට තිබෙනවා.
+Here's a summary of the text in 200 characters:
 
-ලබන මාසයේ සිට රුපියල් 3000සේ දීමනාව විශ්‍රාම වැටුපට එකතුකර ලබාදෙන බවට කැබිනට් ප්‍රකාශක, අමාත්‍ය විජිත් හේරත් විසින් දන්වා සිටිනවා.
+
+
+Cabinet Spokesman Minister Vijith Herath announced that pensioners will receive an allowance of Rs. 3,000 starting next month. This decision was made recently.
+
+🟩
+
+It has been decided to make a sum of Rs.
+
+The Cabinet Spokesman, Minister Vijith Herath informed that the allowance of Rs. 3,000 from next month.
 
 ◼️
 
 [Data](articles/daf1bc4a.json)
+
+[Extended Data](ext_articles/daf1bc4a.ext.json)
 
 ---
 
@@ -1195,6 +1233,30 @@ As the Minister of Justice, Public Administration, Home Affairs, Provincial Coun
 [Data](articles/7b8232da.json)
 
 [Extended Data](ext_articles/7b8232da.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවේ ‘තනි පක්ෂ’ දේශපාලනය ඉවරයි ද?: පැවැත්මක් ඇති පක්ෂ මොනවා ද?
+
+*2024-10-15 12:24:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5yw4j4l1qyo) · `si`
+
+ශ්‍රී ලංකාවේ ‘තනි පක්ෂ’ දේශපාලනය ඉවරයි ද?: පැවැත්මක් ඇති පක්ෂ මොනවා ද?
+
+දශක ගණනාවක් තිස්සේ ප්‍රධාන කඳවුරු දෙකක් අතර හුවමාරු වෙමින් තිබූ ශ්‍රී ලංකාවේ දේශපාලන බලාධිකාරයේ වෙනසක් කිරීමට ශ්‍රී ලාංකික ජනතාව කටයුතු කර තිබේ.
+
+සන්නද්ධ කැරලි දෙකකින් මෙරට බලය ලබා ගැනීමට අසාර්ථක උත්සාහයක නිරත වූ ජනතා විමුක්ති පෙරමුණ ප්‍රමුඛ ජාතික ජන බලවේගය ප්‍රධාන කඳවුරු දෙකට විකල්පයක් ලෙස නිර්මාණය වී මෙරට විධායක බලය තමන් සන්තක කර ගැනීමට සමත් විය.
+
+දේශපාලන පක්ෂවලට සහ ස්වාධීන කණ්ඩායම්වලට මීළඟ වසර 5ක කාලයක් සඳහා පාර්ලිමේන්තුව තුළ හිමි වන බලය උරගා බැලීමේ අවස්ථාව මේ වන විට පැමිණ තිබේ.
+
+ජනාධිපතිවරණයේදී ප්‍රධාන පක්ෂ කිහිපයට විකල්පයක් ලෙස ඉදිරිපත් වූ ජාතික ජන බලවේගය ද තරග කළේ, සන්ධානගත වෙමිනි.
+
+මේ අතර, ජාතික ජන බලවේගය ඇතුළු පක්ෂ සියල්ල ම පාහේ සන්ධානගත වෙමින් මෙවර මහ මැතිවරණය තරග කරන බවක් නිරීක්ෂණය වෙයි.
+
+එවැනි වාතාවරණයක් තුළ ප්‍රධාන පක්ෂ කිහිපය මුහුණ දී ඇති අභියෝග මොනවා ද?
+
+...
+
+[Data](articles/37a24ebc.json)
 
 ---
 
@@ -2341,55 +2403,5 @@ Kumar David is no more. Readers of Colombo Telegraph will no more receive his in
 [Data](articles/301bce97.json)
 
 [Extended Data](ext_articles/301bce97.ext.json)
-
----
-
-### Train services delayed on coastal line due to engine fire near Kalutara
-
-*2024-10-15 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102696/train-services-delayed-on-coastal-line-due-to-engine-fire-near-kalutara) · `en`
-
-The train services on the coastal line have been delayed due to a fire breaking out in the engine of a train near the Kalutara railway station, Sri Lanka Railways said.
-
-The incident has occurred on a train traveling from Kalutara to Maradana, according to the department.
-
-Meanwhile, the derailment of a train between Colombo Fort and Maradana railway stations has delayed train services since this morning (15).
-
-The railway department said that the engine of the Meenagaya Intercity Express Train plying from Batticaloa to Colombo Fort had derailed in this manner at around 7.00 a.m. today (15). This has disrupted train services between Colombo Fort and Maradana.
-
-Accordingly, train services on the main line and the coastal line are experiencing delays owing to this.
-
-◼️
-
-[Data](articles/30405b23.json)
-
-[Extended Data](ext_articles/30405b23.ext.json)
-
----
-
-### Chairman of the University Grants Commission resigned
-
-*2024-10-15 08:47:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மானியங்கள்-ஆணைக்குழுவின்-தலைவர்-பதவி-விலகினார்/175-345474) · `ta`
-
-University Grants Commission Chairman resigns along with members. Resignation letters sent to President. Tenure ends March 2024.
-
-🟩
-
-Members including the Chairman of the University Grants Commission have resigned from their posts.
-
-The resignation letters were sent to the President yesterday afternoon.
-
-According to the announcement made by the Presidential Secretariat, they have resigned from their posts.
-
-Accordingly, the Chairman of the University Grants Commission, Senior Professor Sampath Amaratunga and Vice President Senior Professor Chandana B.. They have resigned from the posts in effect yesterday.
-
-It is also reported that the Commissioners of the University Grants Commission have also sent their resignation letters to the President.
-
-It is noteworthy that the tenure of the current university grants commissions, which was appointed in 2020, ended March next year.. Remble
-
-◼️
-
-[Data](articles/0f736cdb.json)
-
-[Extended Data](ext_articles/0f736cdb.ext.json)
 
 ---

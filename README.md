@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 19:57:50**
+As of **2024-10-15 20:11:41**
 
 ## Newspaper Stats
 
-*Scraped **49,679** Articles*
+*Scraped **49,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,363
 adalk | 4,616
 dailymirrorlk | 4,733
 adaderanalk | 5,882
-tamilmirrorlk | 6,795
+tamilmirrorlk | 6,796
 virakesarilk | 7,952
 adaderanasinhalalk | 8,602
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,602
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,679 (100.0%) of 49,679 articles have been extended.
+49,680 (100.0%) of 49,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Hill rail services impact
+
+*2024-10-15 19:37:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலைய-ரயில்-சேவைகள்-பாதிப்பு/175-345513) · `ta`
+
+Train derailment causes temporary service disruption between Talawakelle and Vattakoda.
+
+🟩
+
+The Railway Department has announced that a train has been derailed on the railway line between Talawakelle and Vattakoda.
+
+The Railway Department has announced that the railway services have been temporarily blocked. Remble
+
+◼️
+
+[Data](articles/c6aa30a5.json)
+
+[Extended Data](ext_articles/c6aa30a5.ext.json)
+
+---
 
 ### Sri Lanka - Indian Shipping Service canceled
 
@@ -2447,29 +2467,5 @@ Speaking at a function held at Kalutara Police Training School, the Defense Defe
 [Data](articles/544b01f0.json)
 
 [Extended Data](ext_articles/544b01f0.ext.json)
-
----
-
-### Sri Lanka’s official poverty line sees slight drop in August 2024
-
-*2024-10-15 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102698/sri-lankas-official-poverty-line-sees-slight-drop-in-august-2024) · `en`
-
-The volume of industrial production for the month of August 2024 has increased by 1.2% compared to the same month in 2023.
-
-Releasing the latest Index of Industrial Production report, the Department of Census of Statistics said that when the monthly difference volume is considered, it has increased by 0.1%.
-
-Furthermore, the overall index for the manufacturing sector has increased to 91.3% in August 2024, compared 90.2% in August 2023.
-
-Accordingly, manufacture of textiles, manufacture of wearing apparels, food products, paper and paper products have significantly contributed to this increase in industrial production, as per the report by the Department of Census of Statistics.
-
-However, the production of beverages and tobacco products have been decreased in August 2024, compared to August 2023.
-
-Meanwhile, the Official Poverty line at National level for August 2024 has recorded a slight reduction to Rs. 16,152, compared to Rs. 16,373 in the month of July, 2024.
-
-...
-
-[Data](articles/ad2bcdd9.json)
-
-[Extended Data](ext_articles/ad2bcdd9.ext.json)
 
 ---

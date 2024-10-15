@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 23:25:16**
+As of **2024-10-15 22:57:44**
 
 ## Newspaper Stats
 
-*Scraped **49,712** Articles*
+*Scraped **49,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 499
 islandlk | 2,942
 economynextcom | 3,047
 dailyftlk | 3,363
-adalk | 4,624
+adalk | 4,619
 dailymirrorlk | 4,733
 adaderanalk | 5,884
 tamilmirrorlk | 6,796
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,711 (100.0%) of 49,712 articles have been extended.
+49,707 (100.0%) of 49,707 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -149,28 +149,6 @@ Ranil Wickremesinghe has decided not to contest the upcoming parliamentary elect
 [Data](articles/41634713.json)
 
 [Extended Data](ext_articles/41634713.ext.json)
-
----
-
-### Chinese embassy on Chinese reputation of China's reputation
-
-*2024-10-15 21:32:13* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-කීර්තිනාමයට-හානි-කළ-චීන-ජාතිකයන්-ගැන-චීන-තානාපති-කාර්යාලයේ-අවධානය/11-412520) · `si`
-
-Chinese embassy denies negative impact on China's reputation due to fraud cases involving Chinese nationals abroad. Claims fraud is an international issue affecting many countries.
-
-🟩
-
-The embassy says that the Chinese embassy is concerned about the latest reports that Sri Lanka Police, including the Chinese nationals and other foreigners.. The embassy says that this is seriously harmless to the reputation of China's reputation.
-
-The Embassy said that in the 1990s, the embassy said that the Chinese government continues to look into the widespread fraud and had a profound impact on the occasion.. The Embassy of the Embassy said that the number of frauds of China in 2021, the embassy said.
-
-The embassy says that telephones and online frauds are rapidly spread throughout the world, as a result of the worldwide, it has become an international resolved problem. In the recent past, the embassy said that China, Myanmar, Cambia, UK Emirates, UAE and other countries.
-
-◼️
-
-[Data](articles/0ee6969f.json)
-
-[Extended Data](ext_articles/0ee6969f.ext.json)
 
 ---
 
@@ -350,38 +328,6 @@ The government now has “clear and compelling evidence that agents of the gover
 
 ---
 
-### Heavy rain falls from today
-
-*2024-10-15 20:00:03* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැස්ස-අද-සිට-අඩුවෙයි/11-412519) · `si`
-
-Heavy rain forecasted for southwest island, thundershowers expected in northern regions. Strong winds and rough seas predicted. Public advised to take precautions against lightning and flooding.
-
-🟩
-
-The Met Department forecasts heavy showers in the southwest part of the island.
-
-Showers or thundershowers will occur at times in the Northern and Trincomalee District today (16) and several places in the district, mm. Shooting heavy showers more than 50.
-
-Several spells of showers in the Western, Sabaragamuwa and North Western provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Thundershowers will develop at several places in the evening or night in the evening or night in the rest of the island.
-
-The public is requested to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-Winds are widely in the sea areas around the island, and the speed of the wind is running.. Is about 30-40.
-
-Winds from Galle to Matara via Matara via the coast extending. It is likely to increase to 60-65. Winds from the sea areas. May increase to 50.
-
-The sea areas off the coast extending from Galle to Matara can be very rough, and the rest of the sea can be rough at times.
-
-...
-
-[Data](articles/129df92a.json)
-
-[Extended Data](ext_articles/129df92a.ext.json)
-
----
-
 ### Two children arrested on suspicion
 
 *2024-10-15 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202214) · `si`
@@ -413,52 +359,6 @@ The 17 year old suspect and a 16-year boy have been arrested by the police.
 [Data](articles/401eb352.json)
 
 [Extended Data](ext_articles/401eb352.ext.json)
-
----
-
-### ආහාර ප්‍රතිපත්ති කමිටුව සංශෝධනය කරයි
-
-*2024-10-15 19:49:10* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර-ප්‍රතිපත්ති-කමිටුව-සංශෝධනය-කරයි/11-412517) · `si`
-
-ආහාර ප්‍රතිපත්ති කමිටු නිලධරයන්ගේ සංයුතියේ සංශෝධනය කිරීමට කැබිනට් අනුමැතිය ලබා දී ඇත.
-
-ආහාර ඇතුළු අත්‍යවශ්‍ය භාණ්ඩ හිඟයකින් තොරව වෙළෙඳ පොළට සැපයෙන බව තහවුරු කර ගැනීමටත්, ජීවන වියදම ඉහළ යාම හැකිතාක් දුරට පාලනය කිරීමට අවශ්‍ය පියවර ගැනීමටත්, සියලු පාර්ශ්වයන් සමග සම්බන්ධීකරණ ප්‍රවේශයක් අනුගමනය කරමින් යෝග්‍ය තීරණයන්ට එළඹීමටත් හැකි වන පරිදි 2022 ඔක්තෝබර් 03 දිනැති අමාත්‍ය මණ්ඩල තීරණය පරිදි ස්ථාපිත කරන ලද ආහාර ප්‍රතිපත්ති කමිටුව පහත සඳහන් නිලධාරීන්ගෙන් සමන්විතව නැවත ස්ථාපිත කිරීම සඳහා ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් අනුමත කර ඇත.
-
-*ලේකම්, මුදල්, ආර්ථික සංවර්ධන - ප්‍රතිපත්ති සම්පාදන, සැලසුම් සහ සංචාරක අමාත්‍යාංශය,
-
-*ලේකම්, කෘෂිකර්ම, ඉඩම්, පශු සම්පත්, වාරිමාර්ග, ධීවර හා ජලජ සම්පත් අමාත්‍යාංශය
-
-*ලේකම්, අධිකරණ, රාජ්‍ය - පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා, පළාත් පාලන සහ කම්කරු අමාත්‍යාංශය
-
-*ලේකම්, වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා, සමුපකාර සංවර්ධන, කර්මාන්ත අමාත්‍යාංශය ව්‍යවසායකත්ව සංවර්ධන
-
-...
-
-[Data](articles/bd775356.json)
-
----
-
-### A proposal to purchase a loan management software system
-
-*2024-10-15 19:45:17* · [`adalk`](https://www.ada.lk/breaking_news/ණය-කළමනාකරණ-මෘදුකාංග-පද්ධතියක්-මිලදී-ගැනීමට-යෝජනාවක්/11-412516) · `si`
-
-Sri Lanka cabinet approves loan management software purchase under Public Debt Management Act. Commonwealth Meridian software chosen for debt management. UN Trade Development Organization's DMFAS alternative considered. Software cost approved by Finance Ministry.
-
-🟩
-
-Cabinet has approved the purchase of a loan management software system required to manage public debts in Sri Lanka.
-
-According to the Public Debt Management Act No. 33, No. 33, a Public Debt Management Office should be held in a suitable and accurate data and information on public debt, as well as the provisions of Section 23 of the Act.
-
-The Commonwealth Meridian software or the United Nations Trade and Development of the Commonwealth Secretariat, the DMFAS software provided by the United Nations Trade and the Organization (UN) is essential.
-
-Accordingly, the cost of the Commonwealth Secretariat and the Commonwealth Meridian Software, which is easy to maintain data transmission, and the integrity of the Cabinet of Data transmission.The Cabinet approved the proposal made by the Finance, Economic Development Policy, Planning and Tourism and Tourism and Tourism and Tourism and Tourism and Tourism and Tourism.
-
-◼️
-
-[Data](articles/bf9376a9.json)
-
-[Extended Data](ext_articles/bf9376a9.ext.json)
 
 ---
 
@@ -503,26 +403,6 @@ As a result, the ship's service between Nagapattinam and Kankesanthurai has been
 [Data](articles/b8755ca1.json)
 
 [Extended Data](ext_articles/b8755ca1.ext.json)
-
----
-
-### Man shot dead in Matara
-
-*2024-10-15 19:23:01* · [`adalk`](https://www.ada.lk/breaking_news/මාතර-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-මරුට/11-412513) · `si`
-
-A 53-year-old man was fatally shot by an unknown assailant in Matara. Police report the incident occurred within the Matara Police Division. The shooter used a pistol. Authorities have not yet determined the motive behind the attack.
-
-🟩
-
-The police said that a person was shot dead by an unidentified gunman in the Matara Police Division, police said.
-
-The deceased is a resident of the land of Matara, 53 years old. A gunman was shot and used a pistol firearm for shooting. The cause of the shooting has been detected so far.
-
-◼️
-
-[Data](articles/bd09ecf1.json)
-
-[Extended Data](ext_articles/bd09ecf1.ext.json)
 
 ---
 
@@ -2533,5 +2413,117 @@ The SLBC lost 532 million rupees in 2023 and 235 million rupees in 2022 accordin
 [Data](articles/52044e97.json)
 
 [Extended Data](ext_articles/52044e97.ext.json)
+
+---
+
+### Government standing on import of vehicle
+
+*2024-10-15 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202195) · `si`
+
+Sri Lanka government stance on vehicle imports: No duty concessions under current leadership. Previous cabinet decision unimplemented. Awaiting proper methodology to avoid economic crisis while restoring vehicle usage.
+
+🟩
+
+Cabinet spokesman Vijitha Herath today (15) explained how the vehicle imports.
+
+Addressing the Government's stand by joining the Cabinet Decision informed today (15).
+
+The Cabinet spokesman said that the vehicle concessions with duty concession has not been imported by the government.
+
+"There is a request to facilitate the importation of vehicles. There is a previous cabinet decision. But suddenly we have not made vehicles. After we have come to power, you have not imported duty concessionary vehicles. But the purpose of importing vehicles is subject to the correct methodology. We hope to give it the opportunity to open a dollar crisis in the country, not to restore the use of the vehicle in the country, we too. Currently duty concessionary vehicles are not implemented as new decisions inside our power control. But we are in the position that we should give the opportunity on imports. "
+
+◼️
+
+[Data](articles/7da99d17.json)
+
+[Extended Data](ext_articles/7da99d17.ext.json)
+
+---
+
+### New Chairman for EDB
+
+*2024-10-15 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202194) · `si`
+
+Here's a 200-character summary:
+
+
+
+"EDB appoints Mr. Mangala Wijesinghe as new Chairman."
+
+🟩
+
+Mr. Mangala Wijesinghe has been appointed as the Chairman of the Export Development Board.
+
+◼️
+
+[Data](articles/c7c4d128.json)
+
+[Extended Data](ext_articles/c7c4d128.ext.json)
+
+---
+
+### North Korea blows up parts of inter-Korean road on its side of border, Seoul says
+
+*2024-10-15 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102708/north-korea-blows-up-parts-of-inter-korean-road-on-its-side-of-border-seoul-says) · `en`
+
+North Korea has blown up sections of inter-Korean roads and rail lines on its side of the heavily fortified border between the two Koreas, South Korea’s military said on Tuesday, ratcheting up tensions on the Korean peninsula.
+
+At around midday, some northern parts of the roads and rail lines connected to the South were blown up, the Joint Chiefs of Staff (JCS) said in a message sent to media.
+
+In response, South Korea’s military fired warning shots south of the military demarcation line dividing the neighbours, though the explosions had not caused any damage on Seoul’s side of the border, it said.
+
+The explosions came after Pyongyang pledged last week to completely cut off the inter-Korean roads and railways and further fortify the areas on its side of the border. Seoul had warned on Monday that the North was getting ready for a detonation.
+
+...
+
+[Data](articles/4589958f.json)
+
+[Extended Data](ext_articles/4589958f.ext.json)
+
+---
+
+### New software system for public debt management in Sri Lanka
+
+*2024-10-15 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202193) · `si`
+
+Sri Lanka establishes public debt management office under Act No. 33. CS-DRMS system outdated; IMF/World Bank recommends Commonwealth Meridian software. Cabinet approves procurement committee's recommendation to acquire Commonwealth Meridian software.
+
+🟩
+
+A public debt management office should be established on the Public Debt Management Act No. 33 of the Act, No. 23 of the Act.
+
+The Government has already provided Commonwealth secretary decoding and management system (CS-DRMS) System (CS-DRMS).
+
+The Commonwealth Secretariat has stopped the updates of the system and extension of the annual license.
+
+The International Monetary Fund and the World Bank is designated with the Institute of Commonwealth Meridian software, which is provided by the Commonwealth Secretariat or the COMMFAS Meridian software or development of the Commonwealth Secretariat.It is recommended.
+
+According to the Commonwealth Secretariat, the COMMONWEALTH MERIDIAN SOFFA is to be able to buy the COMMONWEALTH MERIDIBS, in the Commonwealth.The Cabinet has approved the proposal made by money, economic development, policy, planning and traveling minister in order to obtain the recommendations of a procurement committee.
+
+◼️
+
+[Data](articles/6ccafdef.json)
+
+[Extended Data](ext_articles/6ccafdef.ext.json)
+
+---
+
+### Govt. reveals stance on allowing vehicle imports
+
+*2024-10-15 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102707/govt-reveals-stance-on-allowing-vehicle-imports) · `en`
+
+Minister Vijitha Herath states that the import of vehicles will only be carried out under a proper procedure and in a manner that will not exhaust the foreign reserves in the country thereby causing a dollar crisis again.
+
+Herath also assured that the government is of the stance that the importation of vehicles should be allowed.
+
+“Currently, there is a higher demand to facilitate the import of vehicles. There is a Cabinet decision regarding the matter that was made earlier. But so far, we have neither imported any vehicles after we came into power, nor allowed any vehicle imports with tariff concessions”, he added.
+
+“But regarding the import of vehicles, we are in the stance that we should allow the import of vehicles, but only under a proper procedure”, the Minister said.
+
+◼️
+
+[Data](articles/608a674c.json)
+
+[Extended Data](ext_articles/608a674c.ext.json)
 
 ---

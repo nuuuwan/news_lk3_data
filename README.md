@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 22:13:19**
+As of **2024-10-15 22:25:24**
 
 ## Newspaper Stats
 
-*Scraped **49,699** Articles*
+*Scraped **49,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,884
 tamilmirrorlk | 6,796
 virakesarilk | 7,952
-adaderanasinhalalk | 8,606
+adaderanasinhalalk | 8,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,698 (100.0%) of 49,699 articles have been extended.
+49,701 (100.0%) of 49,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Superbid from Sri Lanka
+
+*2024-10-15 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202219) · `si`
+
+Sri Lanka won T20 match against West Indies by 73 runs. Dissanayake scored 54, Kusal Mendis and Kusal Perera 24 each. West Indies reached 163/9 in 20 overs.
+
+🟩
+
+Sri Lanka won the second T20 match between the Sri Lanka West Indies and the Sri Lanka team by 73 runs.
+
+Diothen Vellale's scored three wickets for 9 runs.
+
+Batting first Sri Lanka scored 162 runs for the loss of 5 wickets at the end of 20 overs.
+
+Dissanayake scored 54 runs, Kusal Mendis and Kusal Perera scored 24 runs.
+
+West Indies scored 163 runs for winning the match.
+
+The West Indies scored 89 runs in the face of 16 overs.
+
+◼️
+
+[Data](articles/7b547db3.json)
+
+[Extended Data](ext_articles/7b547db3.ext.json)
+
+---
+
+### Increasing salaries of public service on cash - Minister Vijitha
+
+*2024-10-15 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202218) · `si`
+
+Sri Lanka's Cabinet proposes increasing public servant salaries from January 2025, but Finance Ministry hasn't approved. Decision faces scrutiny as government seeks further study and clarification on implementation details.
+
+🟩
+
+Cabinet Publisadon said that the government's decision to increase the salaries of public servants from January 2025 should be further studied.
+
+He further stated that at a press conference held today (15) at the Cabinet Decision.
+
+"The vote was suddenly the last cabinet.. That he will increase the steps to government employees..  ජනවාරි මාසයේ සිට. However, the Ministry of Finance has not given any approval. It's been a thing that has been deceived people really. "
+
+"We didn't say that. Can it be accomplished?How is it?Looking for saying and take a new judgment on cash status. No, no ... I have to decide. "
+
+◼️
+
+[Data](articles/a6f56651.json)
+
+[Extended Data](ext_articles/a6f56651.ext.json)
+
+---
 
 ### Derana concession operation to find out floods affected by floods
 
@@ -2386,6 +2438,8 @@ In equities, Colombo’s All Share Price Index was trading down 0.08 percent, or
 
 [Data](articles/f55f205e.json)
 
+[Extended Data](ext_articles/f55f205e.ext.json)
+
 ---
 
 ### Special fuel relief to fishermen
@@ -2437,59 +2491,5 @@ Consultant Community Physician at the National Dengue Control Unit (NDCU) Dr. An
 [Data](articles/de56bb98.json)
 
 [Extended Data](ext_articles/de56bb98.ext.json)
-
----
-
-### Bus driver dies after falling
-
-*2024-10-15 11:12:55* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රියදුරු-බසයටම-ගෙල-සිරව-මරුට/11-412499) · `si`
-
-Bus driver dies after falling into wheel well. Identified as Ranhontinara Anura Randeniya. Incident occurred in Malabe. Police investigating. Post-mortem scheduled. Safety cameras advised.
-
-🟩
-
-The head of the heads of the right hand inside a garage in Parakawa Mawatha, Malabe, was drowned in the right side of the wheel and to check whether it was dumped into the head.Says.
-
-The deceased has been identified as Ranhontinara Anura Randeniya, Walawela, Wattaramaya, Wattawatta, No. 36 / c
-
-The bus is down the wheel of the right side of a private car parking buses that are transported to the most luxury buses transporting the buses and see if the bus is removed and then checking the head in the head.The bus is back at once and is said to have a harm to the neck.
-
-The other employees were later implemented immediately and were rushed to the Talangama District Hospital for treatment, where the patient was examined.
-
-The police ordered the police to join the police investigation into the incident.
-
-Accordingly, the post mortem examination on the remains were to be held on the Colombo Police morgue (15).
-
-...
-
-[Data](articles/a4929fcc.json)
-
-[Extended Data](ext_articles/a4929fcc.ext.json)
-
----
-
-### We will win six seats in Jaffna - Doctor Aruchuna
-
-*2024-10-15 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196322) · `ta`
-
-Dr. Aruchuna predicts winning 6 seats in Jaffna. Focuses on serving the poor, opposing pseudo-nationalists. Emphasizes transparency and self-funding.
-
-🟩
-
-Yall. We will get six seats in the electoral district. "I have the desire to fail and accept as an athlete," said Dr. Ramanathan Aruchuna, the primary candidate of the Independent Committee 17.
-
-He was speaking at the launch of the candidate held at a private hotel in Jaffna on Monday (15).
-
-Our political journey will be a political journey for the poor. We will unite the personality for the needs of the people and bring the Tamil nationality on the right path.
-
-We have race the Tamil nationalist -speaking pseudo -nationalists. So the socially responsible youth should be taken to parliament. So the Tamil people should think and vote very much.
-
-We have carried out our struggle as a non -political struggle. When politicians point out their mistakes, they turned against me.
-
-...
-
-[Data](articles/27e0614b.json)
-
-[Extended Data](ext_articles/27e0614b.ext.json)
 
 ---

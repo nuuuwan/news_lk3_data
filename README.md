@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 18:48:33**
+As of **2024-10-15 19:01:01**
 
 ## Newspaper Stats
 
-*Scraped **49,661** Articles*
+*Scraped **49,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ bbccomsinhala | 498
 islandlk | 2,942
 economynextcom | 3,037
 dailyftlk | 3,363
-adalk | 4,614
+adalk | 4,615
 dailymirrorlk | 4,733
 adaderanalk | 5,881
 tamilmirrorlk | 6,794
 virakesarilk | 7,941
-adaderanasinhalalk | 8,600
+adaderanasinhalalk | 8,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,661 (100.0%) of 49,661 articles have been extended.
+49,661 (100.0%) of 49,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### කාසියේ වාසිය ශ්‍රී ලංකාව ට
+
+*2024-10-15 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202213) · `si`
+
+සංචාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර අද (15) පැවැත්වෙන දෙවන විස්සයි විස්ස තරගයේ කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායමසමත් විය.
+
+දඹුල්ල ජාත්‍යන්තර ක්‍රීඩාංගණයේ පැවැත්වෙන තරගය රාත්‍රී 7ට ආරම්භ වීමට නියමිතය.
+
+දෙරට අතර පැවති පළමු විස්සයි විස්ස තරගය කඩුලු 5කින් ජය ගැනීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමත් වුණි.
+
+බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පැවැත්වෙන 20යි 20 තරගාවලිය තරග 3කින් සමන්විතය.
+
+◼️
+
+[Data](articles/e1ded103.json)
+
+---
+
+### මාතර වෙඩිතැබීමක් - අයෙක් මරුට
+
+*2024-10-15 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202212) · `si`
+
+මාතර කැකනදුර ප්‍රදේශයේදී අද (15) පස්වරුවේ සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙකු මියගොස් තිබේ.
+
+පොලීසිය පැවසුවේ ත්‍රිරෝද රථයකින් ගමන් කරමින් සිටි පුද්ගලයෙකුට මෝටර් රථයකින් පැමිනි පුද්ගලයෙකු විසින් මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
+
+වෙඩිතැබීමෙන් මියගොස් ඇත්තේ සීසර්වරයෙකු ලෙස කටයුතු කළ පුද්ගලයෙකු බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/fd95c9aa.json)
+
+---
 
 ### Pricing limitations have been released
 
@@ -121,6 +155,20 @@ Accordingly, in the case, there have been nobles to a number of immigration and 
 [Data](articles/89aa17d6.json)
 
 [Extended Data](ext_articles/89aa17d6.ext.json)
+
+---
+
+### විශ්‍රාමිකයන්ට මේ මාසයේත් දීමනාවක් - ලබන මාසයේ සිට වැටුපට එකතුකරයි
+
+*2024-10-15 16:50:09* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමිකයන්ට-මේ-මාසයේත්-දීමනාවක්---ලබන-මාසයේ-සිට-වැටුපට-එකතුකරයි/11-412507) · `si`
+
+මේ මාසයට අදාල විශාම වැටුප ගෙවීම හේතුවෙන් රජය විසින් දීමට තීරණය කරතිබූ  රු 3000ක මුදල  මේමාසයේදී දීමනාවක් ලෙසදීමට තීරණය කොට තිබෙනවා.
+
+ලබන මාසයේ සිට රුපියල් 3000සේ දීමනාව විශ්‍රාම වැටුපට එකතුකර ලබාදෙන බවට කැබිනට් ප්‍රකාශක, අමාත්‍ය විජිත් හේරත් විසින් දන්වා සිටිනවා.
+
+◼️
+
+[Data](articles/daf1bc4a.json)
 
 ---
 
@@ -2343,83 +2391,5 @@ It is noteworthy that the tenure of the current university grants commissions, w
 [Data](articles/0f736cdb.json)
 
 [Extended Data](ext_articles/0f736cdb.ext.json)
-
----
-
-### The UGC president has resigned
-
-*2024-10-15 08:47:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UGC-தலைவர்-பதவி-விலகினார்/175-345474) · `ta`
-
-UGC president resigns; Chairman, Vice President step down. Resignation letters sent to President. Tenure ends March 2024.
-
-🟩
-
-Members including the Chairman of the University Grants Commission have resigned from their posts.
-
-The resignation letters were sent to the President yesterday afternoon.
-
-According to the announcement made by the Presidential Secretariat, they have resigned from their posts.
-
-Accordingly, the Chairman of the University Grants Commission, Senior Professor Sampath Amaratunga and Vice President Senior Professor Chandana B.. They have resigned from the posts in effect yesterday.
-
-It is also reported that the Commissioners of the University Grants Commission have also sent their resignation letters to the President.
-
-It is noteworthy that the tenure of the current university grants commissions appointed in 2020 ended March next year.. Remble
-
-◼️
-
-[Data](articles/a84cb40a.json)
-
-[Extended Data](ext_articles/a84cb40a.ext.json)
-
----
-
-### 75 mm in some areas. There will be heavy rain
-
-*2024-10-15 08:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/196312) · `ta`
-
-Heavy rain expected in several provinces. Thunderstorms possible nationwide. Strong winds and lightning warnings issued. Sea conditions turbulent, especially near Galle-Matara-Hambantota. Wave heights over 2.5m predicted in coastal areas. Public advised to remain vigilant.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that frequent rainfall or thunderstorms are expected in Sabaragamuwa, Upper, North Western and Northern Provinces as well as in Galle, Matara, Kandy, Nuwara Eliya and Trincomalee districts.
-
-Heavy rains are likely to occur up to 75 millimeters in some parts of the Sabaragamuwa, Upper, North Western and Northern Provinces, as well as some parts of Galle, Matara and Trincomalee districts.
-
-Showers or thunderstorms can occur in many parts of the other parts of the country in the evening or night.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Showers or thunderstorms are likely to occur in many parts of sea regions around the country.
-
-In the marine regions, the wind blows from the southwest direction or from a different direction at speeds of 30 to40 km per hour.
-
-...
-
-[Data](articles/68ff4634.json)
-
-[Extended Data](ext_articles/68ff4634.ext.json)
-
----
-
-### Chairman and members of UGC resign
-
-*2024-10-15 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102695/chairman-and-members-of-ugc-resign) · `en`
-
-The Chairman and the members of the University Grants Commission (UGC) have resigned from their respective positions in the commission.
-
-It is reported that they have tendered their letters of resignation to the President on Monday (14).
-
-The resignations reportedly came after a notification made by the Presidential Secretariat asking the UGC members to resign from their positions.
-
-Accordingly, the Chairman of the UGC, Senior Prof. Sampath Amaratunga, its Vice Chairman Senior Prof. Chandana P. Udawatte and the commissioners have informed President Anura Kumara Dissanayake in writing that they will resign from their respective positions.
-
-The official term of the members of the UGC, who were appointed to the positions in the year 2020, was set to end in March 2025.
-
-◼️
-
-[Data](articles/c590c8f4.json)
-
-[Extended Data](ext_articles/c590c8f4.ext.json)
 
 ---

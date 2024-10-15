@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 19:39:32**
+As of **2024-10-15 19:57:50**
 
 ## Newspaper Stats
 
-*Scraped **49,678** Articles*
+*Scraped **49,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,363
 adalk | 4,616
 dailymirrorlk | 4,733
 adaderanalk | 5,882
-tamilmirrorlk | 6,794
+tamilmirrorlk | 6,795
 virakesarilk | 7,952
 adaderanasinhalalk | 8,602
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,602
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,676 (100.0%) of 49,678 articles have been extended.
+49,679 (100.0%) of 49,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Sri Lanka - Indian Shipping Service canceled
+
+*2024-10-15 19:28:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-கப்பல்-சேவை-இரத்து/175-345512) · `ta`
+
+Sri Lanka: Indian Shipping Service cancels Tamil Nadu-Kankesanthurai route due to strong winds, heavy rains, and rough seas. Low-pressure system in Bay of Bengal intensifies, making navigation unsafe.
+
+🟩
+
+The passenger ship between Tamil Nadu and Kankesanthurai has been canceled for two days.
+
+It has been reported that the winds, climate and rain precautions have been canceled for two days.
+
+The Indian Meteorological Department said that the low -lying area in the Bay of Bengal has been strengthened.
+
+As a result, the ship's service between Nagapattinam and Kankesanthurai has been canceled due to the fact that the sea is raging and the tornado winds and the difficulty of operating the ship.. Remble
+
+◼️
+
+[Data](articles/b8755ca1.json)
+
+[Extended Data](ext_articles/b8755ca1.ext.json)
+
+---
 
 ### England in the ICC Women's R20 World Cup. Islands
 
@@ -490,23 +514,33 @@ The screenplay of the film has been created by embracing the fact that these was
 
 ---
 
-### சுப்பர் ஸ்டார் ரஜினிகாந்த்தின் 'வேட்டையன்' பட வசூல் : அதிகாரப்பூர்வமான அறிவிப்பு
+### Super Star Rajinikanth's 'Vettayan' film collection: Official announcement
 
 *2024-10-15 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196353) · `ta`
 
-சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் கடந்த பத்தாம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியான 'வேட்டையன்' திரைப்படம் இதுவரை இந்திய மதிப்பில் 240 கோடி ரூபாயை வசூலித்திருப்பதாக தயாரிப்பு நிறுவனமான லைக்கா புரொடக்ஷன்ஸ் அதிகாரப்பூர்வமாக அறிவித்திருக்கிறது.
+"Super Star Rajinikanth's 'Vettayan' grosses Rs 240 crore worldwide. Mixed reviews. Budget Rs 300 crore. Not matching 'Jailer' collections."
 
-'ஜெய் பீம்' எனும் வெற்றி படத்தை இயக்கிய இயக்குநர் த. செ. ஞானவேல் இயக்கத்தில் உருவாகி வெளியான திரைப்படம் 'வேட்டையன்'. சுப்பர் ஸ்டார் ரஜினிகாந்த் , அதியன் எனும் காவல்துறை உயரதிகாரி வேடத்தில் நடித்திருந்தார்.‌
+🟩
 
-படம் வெளியாகி கலவையான விமர்சனங்களை பெற்று வந்தாலும் வசூலில் தொடர்ந்து சாதனை படைத்து வருகிறது.
+Production company Lyca Productions has officially announced that the film 'Vettayan', which was released in the film House, starring Super Star Rajinikanth on the 10th of last month, has grossed Rs 240 crore in India.
 
-இந்தத் திரைப்படம் இதுவரை தமிழ், தெலுங்கு, மலையாளம், கன்னடம், இந்தி ஆகிய மொழிகளில் உலக அளவில் 240 கோடி ரூபாயை வசூலித்திருப்பதாக படக்குழுவினர் அதிகாரப்பூர்வமாக அறிவித்துள்ளனர்.
+Director of 'Jai Bhim'. Cm. Gnanvel's film 'Vettayan'. Super Star Rajinikanth, Adian, played the role of a police officer.
 
-மேலும் இந்த திரைப்படம் வெளியாவதற்கு முன்னரே தொலைக்காட்சி உரிமை -டிஜிட்டல் தள உரிமை , இசை உரிமை ஆகிய வகைகளில் இந்திய மதிப்பில் 210 கோடி  ரூபாய் அளவிற்கு வணிகம் நடைபெற்றுள்ளதாக திரையுலக வணிகர்கள் தெரிவித்திருக்கிறார்கள்.
+The film has been released and has received mixed reviews.
 
-...
+The film has officially announced that the film has grossed over Rs 240 crore worldwide in Tamil, Telugu, Malayalam, Kannada and Hindi.
+
+Also, the film industry has reported that the film has been trading at a cost of Rs 210 crore in India's value and music rights and music rights before the film is released.
+
+As a result of the film 'Vettayan', which is ready for a budget of Rs 300 crore, the film is a collection of Rs 450 crore.
+
+It is noteworthy that at the same time, the film 'Vettayan' has not reached the collection of 'Jailer', which has been released on the 10th of this month.
+
+◼️
 
 [Data](articles/3663dc8e.json)
+
+[Extended Data](ext_articles/3663dc8e.ext.json)
 
 ---
 
@@ -1560,27 +1594,41 @@ As the Minister of Justice, Public Administration, Home Affairs, Provincial Coun
 
 ---
 
-### ශ්‍රී ලංකාවේ ‘තනි පක්ෂ’ දේශපාලනය ඉවරයි ද?: පැවැත්මක් ඇති පක්ෂ මොනවා ද?
+### Is Sri Lanka's 'individual parties' politics done ?: What are the present parties?
 
 *2024-10-15 12:24:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5yw4j4l1qyo) · `si`
 
-ශ්‍රී ලංකාවේ ‘තනි පක්ෂ’ දේශපාලනය ඉවරයි ද?: පැවැත්මක් ඇති පක්ෂ මොනවා ද?
+Here's a 200-character summary:
 
-දශක ගණනාවක් තිස්සේ ප්‍රධාන කඳවුරු දෙකක් අතර හුවමාරු වෙමින් තිබූ ශ්‍රී ලංකාවේ දේශපාලන බලාධිකාරයේ වෙනසක් කිරීමට ශ්‍රී ලාංකික ජනතාව කටයුතු කර තිබේ.
 
-සන්නද්ධ කැරලි දෙකකින් මෙරට බලය ලබා ගැනීමට අසාර්ථක උත්සාහයක නිරත වූ ජනතා විමුක්ති පෙරමුණ ප්‍රමුඛ ජාතික ජන බලවේගය ප්‍රධාන කඳවුරු දෙකට විකල්පයක් ලෙස නිර්මාණය වී මෙරට විධායක බලය තමන් සන්තක කර ගැනීමට සමත් විය.
 
-දේශපාලන පක්ෂවලට සහ ස්වාධීන කණ්ඩායම්වලට මීළඟ වසර 5ක කාලයක් සඳහා පාර්ලිමේන්තුව තුළ හිමි වන බලය උරගා බැලීමේ අවස්ථාව මේ වන විට පැමිණ තිබේ.
+Sri Lanka's individual party politics evolving. Major parties UNP, SLFP facing challenges. JVP emerging as alternative. Rajapaksas absent from elections. Public trust declining. Leftist parties gaining strength. Political analysts predict system change.
 
-ජනාධිපතිවරණයේදී ප්‍රධාන පක්ෂ කිහිපයට විකල්පයක් ලෙස ඉදිරිපත් වූ ජාතික ජන බලවේගය ද තරග කළේ, සන්ධානගත වෙමිනි.
+🟩
 
-මේ අතර, ජාතික ජන බලවේගය ඇතුළු පක්ෂ සියල්ල ම පාහේ සන්ධානගත වෙමින් මෙවර මහ මැතිවරණය තරග කරන බවක් නිරීක්ෂණය වෙයි.
+Is Sri Lanka's 'individual parties' politics done ?: What are the present parties?
 
-එවැනි වාතාවරණයක් තුළ ප්‍රධාන පක්ෂ කිහිපය මුහුණ දී ඇති අභියෝග මොනවා ද?
+The Sri Lankans have made a change in the political authority of Sri Lanka, who has been exchanged between two major camps.
+
+The JVP leading the national foliday of the JVP mainly managed to be an alternative to the two main camps.
+
+Political parties and independent groups have arrived at the next five years.
+
+The national folk force, which was alternative to the major parties in the presidential election, were also competed.
+
+Meanwhile, almost all the parties including the national folk force, it is observed that this year's general election will be contested.
+
+What challenges have the major parties faced in such an environment?
+
+The first Prime Minister of Sri Lanka is DS. The UNP, which was started by Senanayake, is not allied to the general election.
+
+However, the United National Party (UNP) is only the elephant mark for Nuwara Eliya and Vanni Districts.
 
 ...
 
 [Data](articles/37a24ebc.json)
+
+[Extended Data](ext_articles/37a24ebc.ext.json)
 
 ---
 
@@ -2423,31 +2471,5 @@ Meanwhile, the Official Poverty line at National level for August 2024 has recor
 [Data](articles/ad2bcdd9.json)
 
 [Extended Data](ext_articles/ad2bcdd9.ext.json)
-
----
-
-### India - Cracks in Canada Relationship
-
-*2024-10-15 09:55:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-கனடா-உறவில்-விரிசல்/175-345477) · `ta`
-
-India-Canada relations strained over Nijjar murder allegations. India recalls ambassadors, orders departures. Canada accuses India of involvement. Tensions ease briefly before resurfacing.
-
-🟩
-
-In the wake of the murder in Khalistan separatist Hardeep Singh Nijjar, India and Canada have been in a state of disrepair.
-
-Due to this situation, India on Monday (14) issued an Action Announcement of Indian Ambassadors in Canada. India has also ordered the departure of the country by the 19th of this month.
-
-Khalistan separatist Hardeep Singh Nijjar was shot dead in Canada on June 18. Canada's Prime Minister Justin Trudeau has made a stir in the country's parliament, alleging that the Indian government is involved in the murder.
-
-This was followed by a cracks in the Canada-India relationship.The issue has been slightly mitigated and is now starting to erupt again.That is, Canada has accused the Indian Ambassador to Canada in the Nijjar murder.
-
-Prime Minister Modi and Justin Trudeau met face to face at the Asian conference in Laos on October 11. Trudeau said he spoke to Modi about the safety of the people of Canada at the meeting.
-
-...
-
-[Data](articles/856f7f92.json)
-
-[Extended Data](ext_articles/856f7f92.ext.json)
 
 ---

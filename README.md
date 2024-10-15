@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 10:39:37**
+As of **2024-10-15 11:11:26**
 
 ## Newspaper Stats
 
-*Scraped **49,568** Articles*
+*Scraped **49,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,120 @@ bbccomsinhala | 497
 islandlk | 2,942
 economynextcom | 3,034
 dailyftlk | 3,363
-adalk | 4,601
+adalk | 4,602
 dailymirrorlk | 4,733
-adaderanalk | 5,863
+adaderanalk | 5,866
 tamilmirrorlk | 6,771
-virakesarilk | 7,927
-adaderanasinhalalk | 8,580
+virakesarilk | 7,932
+adaderanasinhalalk | 8,581
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,568 (100.0%) of 49,568 articles have been extended.
+49,578 (100.0%) of 49,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Govt. to procure medical supplies and drugs from local manufacturers
+
+*2024-10-15 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102701/govt-to-procure-medical-supplies-and-drugs-from-local-manufacturers) · `en`
+
+The Cabinet of Ministers has granted approval to enter into buy back agreements for the procurement of locally produced medicines and medical supplies from identified institutions for a period of one year.
+
+During the Cabinet meeting held on 29 November 2013, approval had been given for the purchase of locally produced drugs under the Buy Back Agreement procedure in order to encourage local drug manufacturers by providing priority to the activities of the State Pharmaceutical Corporation of Sri Lanka.
+
+...
+
+[Data](articles/8714801c.json)
+
+[Extended Data](ext_articles/8714801c.ext.json)
+
+---
+
+### New Government Analyst appointed
+
+*2024-10-15 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102700/new-government-analyst-appointed) · `en`
+
+The Cabinet of Ministers has approved the appointment of Mrs. Pathirage Sandhya Kumuduni Rajapakse as the Government Analyst.
+
+Speaking during the Cabinet press conference held today (15), Cabinet Spokesman Vijitha Herath stated that Mrs. Deepika Seneviratne, who served as the Government Analyst has retired effective from 11 October 2024.
+
+Accordingly, the appointment of Mrs. Sandhya Kumuduni Rajapakse who is next on the seniority list of the special grade officers of the Sri Lanka Scientific Service and is currently serving in the post of Additional Government Analyst has been approved by the Cabinet of Ministers, as proposed by Prime Minister Dr. Harini Amarasuriya as the Minister of Public Administration, Home Affairs, Provincial Councils, Local Government and Labour.
+
+◼️
+
+[Data](articles/1f0c6d4a.json)
+
+[Extended Data](ext_articles/1f0c6d4a.ext.json)
+
+---
+
+### Sandhya Kumuduni appointed to the Government Analyst
+
+*2024-10-15 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202190) · `si`
+
+Sandhya Kumuduni appointed Government Analyst. Cabinet approves her appointment. Deepika Seneviratne retired October 2020. Sandhya holds senior specialization in Sri Lanka Scientific Service. Cabinet decision made by Administrative, Home Affairs, Provincial Councils, Local Government and Labor Minister.
+
+🟩
+
+Cabinet approval has been given to appoint Mrs. Sandya Kumudini Rajapaksa to the post of Government Analyst.
+
+Deepika Seneviratne serving as the Government Analyst was retired from 20-10-10-10.
+
+According to the Senior Specialization of the Sri Lanka Scientific Service Special Grade of Sri Lanka Scientific Service, Sri Lanka Scientific Service Special Senior Testing Special Senior Analyst Service Officer at the General Analyst Service of the Government of Sri LankaThe Cabinet of Ministers was approved as administrative, Home Affairs, Provincial Councils, Local Government and Labor Minister.
+
+◼️
+
+[Data](articles/0a4b79de.json)
+
+[Extended Data](ext_articles/0a4b79de.ext.json)
+
+---
+
+### Back on table: $5 bil­lion road, rail link between India and Sri Lanka
+
+*2024-10-15 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102699/back-on-table-5-billion-road-rail-link-between-india-and-sri-lanka) · `en`
+
+Discussions are in the final stages for a $5 billion road-and-rail link between India and Sri Lanka with India set to bear the cost of the stra­tegic project, said the island-nation’s environment secretary Prabath Chandrakeerthi.
+
+This is the first big bilat­eral infra­struc­ture project announced by the island nation since the recent election of President Anura Kumara Dissanayake amid efforts by New Delhi to counter Chinese influence.
+
+India is Sri Lanka’s largest trade partner and one of the largest foreign direct investment (FDI) contributors. Indian invest­ment in Sri Lanka amounted to about $142 mil­lion in 2021.
+
+...
+
+[Data](articles/e79c40b6.json)
+
+[Extended Data](ext_articles/e79c40b6.ext.json)
+
+---
+
+### Members including the Chairman of the University Grants Commission resigns
+
+*2024-10-15 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196316) · `ta`
+
+University Grants Commission members, including Chairman, resign due to term end. Senior Professor Sampath Amaratunga steps down along with other officials. President Anura Kumara Dissanayake announces resignation of all members. Their terms were set to expire in 2025.
+
+🟩
+
+Members, including the Chairman of the University Grants Commission, have resigned from their posts.
+
+Following the announcement made by the Presidential Secretariat, members of the University Grants Commission have resigned from their posts.
+
+Accordingly, Senior Professor Sampath Amaratunga, Chairman of the University Grants Commission and its Vice President. President Anura Kumara Dissanayake has announced in writing that Udawatta and members will resign their positions.
+
+It is noteworthy that the tenure of the members of the University Grants Commission, which was appointed in 2020, was completed in 2025.
+
+◼️
+
+[Data](articles/33beb350.json)
+
+[Extended Data](ext_articles/33beb350.ext.json)
+
+---
 
 ### Vijitha gets certified by police officers
 
@@ -101,6 +199,30 @@ Prime Minister Modi and Justin Trudeau met face to face at the Asian conference 
 [Data](articles/856f7f92.json)
 
 [Extended Data](ext_articles/856f7f92.ext.json)
+
+---
+
+### Saudi Arabia sends humanitarian aid to the people of Lebanon
+
+*2024-10-15 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196315) · `ta`
+
+Saudi Arabia provides humanitarian aid to Lebanon through KSRELIF, sending planes with food, medicine, and shelter. This reflects Saudi's commitment to global humanitarian efforts and its leadership role in international aid.
+
+🟩
+
+King Salman has begun to provide relief through the Humanitarian and Relief Center (KSRELIF) to support the people affected by the war between Lebanon and Israel, as part of Saudi Arabia's consecutive global humanitarian assistance programs.
+
+In accordance with the orders of King Salman bin Abdul Aziz and Prince and Prime Minister Muhammad bin Salman, Ksrelief has sent relief to two aircraft to Beirut.
+
+The first relief plane carrying food, medical products and shelters from King Khalid International Airport in Riyadh on the 13th, reached the Lebanon Beirut International Airport, which arrived at the Lebanon Beirut International Airport, which was the initial phase of the Saudi Relief Scheme.
+
+This essential support for the Lebanese people in the predicament is underlined the dedication of Saudi Arabia in extending assistance to those who are in the region and worldwide.
+
+...
+
+[Data](articles/af36b4ed.json)
+
+[Extended Data](ext_articles/af36b4ed.ext.json)
 
 ---
 
@@ -176,6 +298,32 @@ It is also reported that railway traffic on the coastal road has been affected b
 
 ---
 
+### The ethnic dimensions of the Sri Lankan presidential election
+
+*2024-10-15 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196295) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's 2024 presidential election saw significant shifts in Tamil-speaking regions. Sajith Premadasa gained Tamil support, while Anura Kumara Dissanayake's National People's Power rose due to demands for justice and accountability. Voter sentiment remains complex, balancing calls for new leadership with desire for stability.
+
+🟩
+
+The 2024 presidential election in Sri Lanka has made significant changes in voting systems in the Tamil -speaking regions of the North, East and Central Provinces, especially in the North, Eastern and Central Provinces, and expresses the aspirations of the minority.
+
+Sinhala politician Sajith Premadasa gained significant support of the Tamil community despite the ethnic divisions. The Tamil voters who historically combined with the sentiments of Rajapakse will provide both political aspirations and economic solutions, and they can see the vote for Premadasa as a continuation of the tendency they believe.
+
+Tamil voters, who were cautious in Sinhala supremacist politics, regarded Premadasa as a candidate for promises such as devolution, characteristics and economic recovery.. The support of the United People's Power (SJB) of Premadasa, who propagated a meaningful power sharing under a single government, further confirmed this support.
+
+...
+
+[Data](articles/35891b72.json)
+
+[Extended Data](ext_articles/35891b72.ext.json)
+
+---
+
 ### There is no satisfaction in the punishment;Sri Lanka Teachers Association
 
 *2024-10-15 09:20:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டனையில்-திருப்தி-இல்லை-இலங்கை-ஆசிரியர்-சங்கம்/175-345475) · `ta`
@@ -204,6 +352,26 @@ General Secretary of the Sri Lanka Teachers Union Joseph Starlin has questioned 
 
 ---
 
+### Fire in the train machine;Train services delay in coastal route
+
+*2024-10-15 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196314) · `ta`
+
+Train fire delays coastal route service between Kalutara and Maradana.
+
+🟩
+
+The train department said that a train was traveling from Kalutara to Maradana near the Kalutara railway station.
+
+The railway department said that the train services have been delayed on the coastal river due to the fire.
+
+◼️
+
+[Data](articles/3f56de33.json)
+
+[Extended Data](ext_articles/3f56de33.ext.json)
+
+---
+
 ### Railway engines set fire - obstructions to runway
 
 *2024-10-15 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202186) · `si`
@@ -219,6 +387,28 @@ The railway train was on the road near Kalutara to Maradana has been disrupted d
 [Data](articles/18d46721.json)
 
 [Extended Data](ext_articles/18d46721.ext.json)
+
+---
+
+### Railway derailment
+
+*2024-10-15 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196313) · `ta`
+
+Train derails between Colombo Fort and Maradana, delaying services on main and coastal routes. Incident occurred on Tuesday morning when a passenger train traveling from Batticaloa arrived at 7:00 AM.
+
+🟩
+
+Railway services have been delayed due to a train derailed between Colombo Fort and Maradana, the Railway Department said.
+
+The traveler traveled from Batticaloa to Colombo Fort at 7.00 am on Tuesday (15).
+
+As a result, the train services may be delayed in the main route and coastal route, the Railway Department said.
+
+◼️
+
+[Data](articles/69b16a4c.json)
+
+[Extended Data](ext_articles/69b16a4c.ext.json)
 
 ---
 
@@ -1736,6 +1926,32 @@ It is also the first time that the Political Party and the Election Commission w
 
 ---
 
+### A banquet for the officers who came to find corruption
+
+*2024-10-14 19:54:34* · [`adalk`](https://www.ada.lk/breaking_news/වංචා-දූෂණ-හොයන්න-ආපු-නිලධාරීන්ට-භෝජන-සංග්‍රහයක්-දිලා/11-412493) · `si`
+
+Banquet for officers investigating Kandy Municipal Council corruption. Audit reveals fraud in assessment, housing, and business planning. Internal transfers uncovered over 10-15 years. Investigation ongoing regarding government policies and vision. Officials accused of corruption involvement.
+
+🟩
+
+Governor of the Central Provincial Council officials to investigate the corruption of corruption of the Kandy Municipal Council. Governor of the Central Provincial Council. The special attention to Mr. Abeykoon is focused.
+
+General Secretary of the Central Province Ajith Premadinghe, including billions of rupees to the Kandy Municipal Mount Road in the Kandy Municipal Council, the lunch for the Urban Council.It is said that the treat is held.
+
+The Governor of the Central Province has inquired from both Provincial Councils and Urban Councils.
+
+Audit queries have revealed that large scale frauds have taken place in various cases, including collecting assessment, housing and business planning of the Kandy Municipal Council.
+
+Audit investigations have revealed that internal transfers were being carried out in the municipality of the Urban Council for 10-15 years.
+
+...
+
+[Data](articles/32a0516c.json)
+
+[Extended Data](ext_articles/32a0516c.ext.json)
+
+---
+
 ### Pressure 100,000 people from inclement weather
 
 *2024-10-14 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202173) · `si`
@@ -2153,273 +2369,5 @@ Students need immediate action to travel to these SLTB buses every day to the mo
 [Data](articles/318d5162.json)
 
 [Extended Data](ext_articles/318d5162.ext.json)
-
----
-
-### Discussion in detail on how to make strategies for the success of the elephant symbol and carry out election campaigns
-
-*2024-10-14 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196292) · `ta`
-
-Ceylon Workers Congress strategizes election campaign for 2024 parliamentary polls in Nuwara Eliya district. Meeting discusses candidate success tactics and campaign execution. Key figures present: Jeevan Thondaman, Senthil Thondaman, Maruthappandi Rameswaran, Palani Sakthivel.
-
-🟩
-
-In the 2024 parliamentary general election, the Ceylon Workers Congress held a discussion on how to carry out election campaigns for the victory of candidates contesting in the Nuwara Eliya district.
-
-A discussion was organized at the CLF Campus auditorium on Sunday (13) before the election campaigns of the Ceylon Workers Congress were launched for the upcoming parliamentary elections in November.
-
-The meeting was chaired by CWC general secretary Jeevan Thondaman, Chairman Senthil Thondaman, Finance and Financialist Maruthappandi Rameswaran.
-
-During the meeting, the Parliamentary General Elections to be held in November, the Ceylon Workers Congress (CEB) was taken to discuss the success of the candidates contesting the Nuwara Eliya district in detail on how to carry out election campaigns.
-
-...
-
-[Data](articles/747f927d.json)
-
-[Extended Data](ext_articles/747f927d.ext.json)
-
----
-
-### Bad at the end of the world: thrower arrested
-
-*2024-10-14 17:48:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உலக-முடிவில்-சடலம்-வீசியவர்-கைது/76-345451) · `ta`
-
-Arrested for murder: Chandra Bose Dayan, 34, accused of killing three-wheeler driver Vivekanandan Sujeevan, 23, over gemstones and gold. Victim leased vehicle for Rs 350,000 in 36 installments. Suspect claimed economic crisis motive.
-
-🟩
-
-Chandra Bose Dayan, a 34 -year -old man from Madulseema, Badawatta, was arrested on Monday (14) in connection with the death of a three -wheeler driver from the Hali Ela Rosett garden.
-
-Vivekanandan Sujeevan, a 23 -year -old from Hali Ela Rosett, died, police said.
-
-The murdered young man has received a lease of the suspect's three -wheeler, paying Rs 350,000 and leasing in 36 installments in 36 installments based on Rs 13,000.
-
-The suspect has been working in Madulzima Pattawatta and has called a three -wheeler driver, claiming that he is going to sell gems and gold items along with another person living in the garden due to economic crisis.
-
-It is also reported that the suspect and his friend have climbed into a three -wheeler near the refueling station in Madulzima.
-
-Later, police said that the three -wheeler driver was assaulted and assaulted, claiming that gold and expensive gemstones were hidden in the jungle near the end of the small world.
-
-◼️
-
-[Data](articles/3105d530.json)
-
-[Extended Data](ext_articles/3105d530.ext.json)
-
----
-
-### President emphasizes the need for a sustainable solution for flooding
-
-*2024-10-14 17:43:56* · [`adalk`](https://www.ada.lk/breaking_news/ගං-වතුර-පාලනය-සඳහා-තිරසර-විසඳුමක-අවශ්‍යතාව--ජනපති-අවධාරණය-කරයි/11-412484) · `si`
-
-President calls for sustainable flood solutions, promotes relief efforts in affected areas, requests additional funding if needed, instructs officials to address non-damaged properties.
-
-🟩
-
-Promotion of relief to the people of Colombo, Gampaha, Puttalam and Kalutara
-
-If you need money in addition to Rs.
-
-President Anura Kumara Dissanayake said the flood occurred on two occasions and that there was a definite and sustainable program.
-
-President Anura Kumara Dissanayake made these comments at a discussion held today with the Ministry of Disaster Management and the Officers of the Ministry of Finance.
-
-The President instructed the Ministry of Ministries to provide immediate relief to the people of Colombo, Gampaha, Puttalam and Kalutara to be promoted to the promotion of property, including inclement weather.
-
-President Anura Kumara Dissanayake is also allocated to provide allocations if more than Rs.
-
-The President also instructed the officials to look into the issues of the people who were not fully damaged by the floods.
-
-◼️
-
-[Data](articles/5c00a284.json)
-
-[Extended Data](ext_articles/5c00a284.ext.json)
-
----
-
-### Nattai alias Natraj plays two roles 'Lord Avatar'
-
-*2024-10-14 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196261) · `ta`
-
-Nattai (Natraj) stars as Lord Avatar in "Andavan Avataram". He plays dual roles alongside Raghav. Directed by Charles G., produced by Light Sound & Magic. First shoot in Chennai. Charles calls it a science fiction film offering a new cinematic experience.
-
-🟩
-
-Nataraj, a cinematographer and star actor, has been named 'Lord's Avatar' for the first time in two roles.
-
-Naty alias Natraj and Raghav are playing the lead roles in the upcoming film 'Andavan Avataram' directed by director Charles.
-
-G. The film, which is being recorded by Balamurugan, is composed by Navneet and Raghav.
-
-The film is being produced by Director Charles on behalf of Light Sound & Magic.
-
-The first shooting of the film has begun in Chennai. Commenting on the film, director and producer Charles said, “Actor Natti is playing two roles in the film.
-
-And this is a science fiction movie. The film crew is working hard to provide a new experience to the audience. ”
-
-◼️
-
-[Data](articles/60f0e528.json)
-
-[Extended Data](ext_articles/60f0e528.ext.json)
-
----
-
-### Upendra's 'U1' released in December
-
-*2024-10-14 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196262) · `ta`
-
-"Upendra's U1 releases Dec 20 in Tamil, Telugu, Malayalam, Kannada & Hindi. Starring Upendra, Sunny Leone, directed by H.C.B. Ajinish Loknath."
-
-🟩
-
-Upendra, the leading star actor of the Kannada film industry, has been officially announced on the release date of the film 'U1' which is the hero of the story.
-
-Upendra, Sunny Leone, Murali Sharma, B.. Ravi Shankar, Ashyud Kumar, Sadhu Kokila and many others have been cast.
-
-H. C. B.. Ajinish Loknath has composed the music.
-
-Producer G, on behalf of Venus Entertainments. Manoharan and K. B.. Srikanth has co -produced.
-
-The single track and teaser of the film was released. It has been announced that the film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the twenty of December.
-
-Since some other PAN Indian films are released on the same date. Check out our film.
-
-◼️
-
-[Data](articles/fe3aac3e.json)
-
-[Extended Data](ext_articles/fe3aac3e.ext.json)
-
----
-
-### 'Black Box' centered on web pornography
-
-*2024-10-14 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196259) · `ta`
-
-"Black Box" film focuses on internet crimes, particularly sexual harassment. Directed by S.K.C. Prabhat, it explores the impact of tech on women's privacy and safety. Starring Prabhat, Devika Venu, and Saravana Shakti, it addresses the consequences of online exploitation and seeks justice for victims.
-
-🟩
-
-Producer and actor gay. C. The film crew has said that the film 'Black Betty', which plays the role of Prabhat, is a creation that focuses on internet crimes on sexual harassment.
-
-Director S.. K.. C. Prabhat, Devika Venu, Saravana Shakti and many others have acted.
-
-The film is being produced by JK Film Productions.
-
-Commenting on the film, which will be released in the film House worldwide on the 18th, the director said, “Due to the development of the information technology industry, women's pornography and privacy crimes have increased.
-
-This causes the victim committed suicide. The police have registered a case against those responsible for the suicide.Is the real culprit punished?The story of the film. '' He said.
-
-◼️
-
-[Data](articles/50089ebb.json)
-
-[Extended Data](ext_articles/50089ebb.ext.json)
-
----
-
-### Sai Tanashika starrer 'Fifth Veda'
-
-*2024-10-14 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196258) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sai Tanashika stars in "Fifth Veda," released alongside "Kabali." The internet series follows Anu as she inherits an ancient monument, facing obstacles from various gangs while trying to deliver it to a Tamil Nadu preacher. It combines mystery, Hindu myths, and mythological elements.
-
-🟩
-
-The 'Fifth Veda', which is playing the role of actress Sai Tanshika, has been released in fans with the film 'Kabali'.
-
-Sai Tansika, Santosh Pratap, Vivek Rajagopal. G. Mahendra, Krisha Group, Ramji, Devadarshini, Mathew Varghese, Ponvannan and many others have been cast.
-
-The Internet series is produced by Abirami Media Works for the digital site, G5.
-
-The internet series has been released on the 25th of this month in both Tamil and Telugu.
-
-Commenting on the Internet series, the film crew said, “Anu (Sai ​​Tansika), the first character, is going to Kasi to perform her mother's funeral.
-
-When he travels, an unfamiliar person meets him and hand over an ancient monument. He also urges the monument to be handed over to a preacher in Tamil Nadu.
-
-What's in that monument?Anu, who is reluctant to hand over it without knowing, then becomes a number of unexpected trouble.
-
-He also realizes that many gangs are trying to capture her monument at that moment.
-
-...
-
-[Data](articles/74088e85.json)
-
-[Extended Data](ext_articles/74088e85.ext.json)
-
----
-
-### Bail refusal to three others including Arjun Aloysius
-
-*2024-10-14 17:19:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன்-அலோசியஸ்-உள்ளிட்ட-மூவருக்கு-பிணை-மறுப்பு/175-345450) · `ta`
-
-Colombo Chief Magistrate's Court denies bail to three Mendis & Co directors, including Arjun Aloysius, over unpaid VAT. Appeal pending in Colombo High Court.
-
-🟩
-
-DUBLUM. The Colombo Chief Magistrate's Court on Monday (14) refused to release three directors of Mendis and Company Limited on bail.. Directors, Arjun Aloysius, AR. The bail appeal of Dinendra John and Prasanna Kumarasiri de Silva is pending.
-
-The Colombo Chief Magistrate's Court has been sentenced to six months in prison for failing to pay the VAT.
-
-The defendants filed an appeal in the Colombo High Court through the Magistrate's Court Registrar's Office against the order sentenced to six months in prison.
-
-After the crime, the defendants are entitled to seek bail, thereby bail at the Colombo Chief Magistrate's Court.. However, the Colombo Chief Magistrate's Court has refused to release it on bail.
-
-◼️
-
-[Data](articles/7241ce44.json)
-
-[Extended Data](ext_articles/7241ce44.ext.json)
-
----
-
-### Pakistan capital Islamabad in lockdown ahead of SCO summit
-
-*2024-10-14 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102688/pakistan-capital-islamabad-in-lockdown-ahead-of-sco-summit) · `en`
-
-Pakistan’s capital was under strict security lockdown as Chinese Premier Li Qiang landed in the city on Monday ahead of a heads-of-government gathering of the Shanghai Cooperation Organisation this week.
-
-Li’s visit is the first by a Chinese premier to Pakistan in 11 years, Pakistan’s Prime Minister’s Office said. Pakistan’s Prime Minister Shehbaz Sharif received Li at the airport.
-
-The government has announced a three-day public holiday in Islamabad, with schools and businesses shut and large contingents of police and paramilitary forces deployed.
-
-Pakistan army troops will be responsible for the security of the capital’s Red Zone, the location of the parliament and a diplomatic enclave and where most of the meetings will take place, according to the interior ministry.
-
-The threat alert has been high in the South Asian nation ahead of the SCO summit, especially after the killing of two Chinese engineers and shooting to death of 21 miners.
-
-...
-
-[Data](articles/c61ffde7.json)
-
-[Extended Data](ext_articles/c61ffde7.ext.json)
-
----
-
-### What happened to the Laddest Mother?Here's the full story
-
-*2024-10-14 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202168) · `si`
-
-Damitha Abeyratne accuses Hesha Vithanage of conspiring against her nomination for Ratnapura district. She claims he changed her nomination without consent, citing personal issues as his reason.
-
-🟩
-
-The actor Damitha Abeyratne said that the conspiracy of former Parliamentarian Hesha Vithanage was not nominated for the Ratnapura district with a reconciliation district.
-
-She said: 'What happened to Ada Derana?'Addressing the program.
-
-"Leaves I treated my brother. Homitham should demand from Ratnapura from Ratnapura. Sajith sir we have for you. Asked to tell you something you wanted. There was a nomination committee. It gave me permission. Then I go and signed nominations on the 8th. Then I talked to Mrs. Rohini Kaviratne. He said he went to the Hesha office on the 9th and change this. Someone else told someone else. But Hesha greets me and played one another game underneath. Hesha is afraid with the response of Ratnapura. This is a lonely conspiracy. Hesha cut.
-
-...
-
-[Data](articles/486382b8.json)
-
-[Extended Data](ext_articles/486382b8.ext.json)
 
 ---

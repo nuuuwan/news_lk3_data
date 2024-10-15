@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-15 15:10:34**
+As of **2024-10-15 15:23:21**
 
 ## Newspaper Stats
 
-*Scraped **49,634** Articles*
+*Scraped **49,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,037
 dailyftlk | 3,363
 adalk | 4,610
 dailymirrorlk | 4,733
-adaderanalk | 5,875
+adaderanalk | 5,876
 tamilmirrorlk | 6,786
 virakesarilk | 7,941
 adaderanasinhalalk | 8,592
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,592
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,632 (100.0%) of 49,634 articles have been extended.
+49,634 (100.0%) of 49,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-15 (Tuesday)
+
+### Govt. announcement on Rs. 3,000 increment for pensioners
+
+*2024-10-15 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102711/govt-announcement-on-rs-3000-increment-for-pensioners-) · `en`
+
+Cabinet Spokesperson Minister Vijitha Herath announced that an additional Rs. 3,000 will be added to the monthly pension of government retirees starting next month. This decision, approved by the Cabinet of Ministers, comes as part of an interim allowance to provide immediate financial relief to pensioners.
+
+Minister Herath explained that although the additional allowance was not included in the pensions disbursed by October 10th, the government is implementing a special program to ensure pensioners receive the Rs. 3,000 for this month in the coming days.
+
+Funds for the allowance have already been released by the Treasury, according to the Minister.
+
+The Minister also highlighted the long-standing issue of wage disparity among pensioners, noting that while it is a complex challenge that cannot be resolved quickly, the government has taken this step to offer some relief.
+
+...
+
+[Data](articles/a9b60aa3.json)
+
+---
 
 ### In today's political climate, minority communities should adopt
 
@@ -124,21 +142,29 @@ Dissanayake has not succeeded in any of the districts where the Tamils ​​liv
 
 ---
 
-### லசந்த -வாசிம் தாஜூதீன் -பிரகீத்திற்கு என்ன நடந்தது என்பது குறித்தும் விசாரணைகளை முன்னெடுப்போம் - அமைச்சரவை பேச்சாளர்
+### We will also investigate what happened to Lasantha -Vasim Tajuddin -Brakim -Cabinet spokesman
 
 *2024-10-15 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/196341) · `ta`
 
-சண்டே லீடர் ஆசிரியர் லசந்த விக்கிரமதுங்க கொலை  ரக்பி வீரர் வாசிம்தாஜூதீன் மரணம்  பிரகீத் எக்னலிகொட காணாமல்போகச்செய்யப்பட்டமை குறித்தும் விசாரணைகள் முன்னெடுக்கப்படும் என அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்துள்ளார்
+Sri Lanka investigates disappearances and deaths including Lasantha Wickrematunge, Vasimtajudeen, and Pradeep Eknaligoda. Government accelerates probes into past incidents beyond initial 7 cases.
 
-ஏற்கனவே விசாரணைகள் முன்னெடுக்கப்பட்டுள்ள  ஏழு சம்பவங்களிற்கு அப்பால் கடந்த காலத்தின் அனைத்து குற்றங்கள் குறித்து விசாரணைகள் முன்னெடுக்கப்படும் என தெரிவித்துள்ள அமைச்சரவை பேச்சாளர் குற்றவாளிகள் என கண்டுபிடிக்கப்படுபவர்களிற்கு எதிராக சட்டநடவடிக்கைகள் எடுக்கப்படும் என தெரிவித்துள்ளார்.
+🟩
 
-அவசியமான தகவல்கள்பெறப்பட்ட அல்லது விசாரணைகள் பூர்த்தியான அல்லது சிறியளவு விசாரணைகளை முன்னெடுக்கவேண்டியுள்ள ஏழு முக்கிய சம்பவங்கள் குறித்தே அரசாங்கம் தற்போது விசாரணைகளை துரிதப்படுத்தியுள்ளது.
+Cabinet spokesman Vijitha Herath has said that investigations will be carried out on the disappearance of the death of Sunday Leader editor Lasantha Wickrematunge, Vasimtajudeen's death.
 
-ஆனால் இதன் அர்த்தம் ஏழு சம்பவங்கள் குறித்து மாத்திரம் விசாரணைகளை முன்னெடுக்குமாறு உத்தரவு பிறப்பிக்கப்பட்டுள்ளது என்பதல்ல,கடந்தகாலத்தில்முறைப்பாடு செய்யப்பட்ட அனைத்து சம்பவங்கள் குறித்தும் விசாரணைகள் முன்னெடுக்கப்படும்.
+The Cabinet spokesman said that all the crimes of the past would be carried out beyond the seven incidents already carried out.
+
+The government has now accelerated investigations into the seven major incidents that need to be obtained or investigated or investigated.
+
+But this does not mean that only the seven incidents have been ordered to carry out investigations, but investigations will be carried out on all the incidents of the past.
+
+We will also investigate the death of rugby player Vasimtajudeen, the disappearance of the Lasantha Wickrematunga assassination and the disappearance of Pradeep Eknaligoda.
 
 ...
 
 [Data](articles/d39182c8.json)
+
+[Extended Data](ext_articles/d39182c8.ext.json)
 
 ---
 
@@ -620,23 +646,29 @@ Cabinet spokesman Vijitha Herath said that the additional allowance paid for thi
 
 ---
 
-### ஆணுறுப்பில் மூட்டைக்கொச்சிக்காய் அரைத்து ஊற்றிய வழக்கு
+### Penicated case
 
 *2024-10-15 12:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆணுறுப்பில்-மூட்டைக்கொச்சிக்காய்-அரைத்து-ஊற்றிய-வழக்கு/76-345494) · `ta`
 
-ஆணுறுப்பில் மூட்டைக்கொச்சிக்காயை (நைமிளகாய்) அதன் விதைகளுடன் நன்றாக அரைத்து, கறைத்து ஊற்றிய சம்பவம் தொடர்பில் இளைஞர் ஒருவர் தாக்கல் செய்த அடிப்படை உரிமை மீறல் மனுவில் தொடர்பில் சட்டமா அதிபர் ஆஜராகுவதற்கு மறுத்துள்ளார்.
+Attorney General refuses to defend police in penis grinding case. Petitioner claims illegal detention. Case heard before High Court judges.
 
-தெல்தெனிய பொலிஸ் நிலைய பொறுப்பதிகாரி உள்ளிட்ட பொலிஸ் உத்தியோகத்தர்கள் சார்பில் சட்டமா அதிபர் ஆஜராக மாட்டார் என சட்டமா அதிபர் உயர் நீதிமன்றத்திற்கு திங்கட்கிழமை (14) அறிவித்துள்ளார்.
+🟩
 
-தெல்தெனிய பொலிஸாரால் ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு, தடுத்துவைத்திருந்த போதே, மூட்டைக்கொச்சிக்காய் (நைமிளகாய்) கறைத்து அவருடைய ஆணுறுப்பில் ஊற்றியுள்ளனர்.
+The Attorney General has refused to appear in the fundamental rights violation filed by a youth in connection with the incident where the penis has been grinded and poured with its seeds.
 
-இது மிகவும் பாரதூரமான சம்பவம் என்பதால், பிரதிவாதியான பொலிஸ் உத்தியோகத்தர்கள் சார்பில் ஆஜராகாமல் இருப்பதற்கு சட்டமா அதிபர் தீர்மானித்துள்ளார் என சட்டமா அதிபர் சார்பில் ஆஜரான பிரதி சொலிசிட்டர் ஜெனரல் மாதவ தென்னக்கோன் தெரிவித்துள்ளார்.
+The Attorney General has announced to the High Court on Monday that the Attorney General will not appear on behalf of the police officers including the Teldeniya Police Station.
 
-இந்த மனு உயர் நீதிமன்ற நீதியரசர்களான யசந்த கோதாகொட மற்றும் குமுதுனி விக்ரமசிங்க முன்னிலையில் விசாரணைக்கு வந்தது.
+When one of the Teldeniya police was arrested and detained, the bundle was stained and poured into his penis.
+
+Since this is a very serious incident, the Attorney General has decided to not appear on behalf of the defendant police officers, said Deputy Solicitor General Madhava Tennakoon, appearing on behalf of the Attorney General.
+
+The petition came up for hearing in the presence of High Court Judges Yasantha Gothagoda and Kumuduni Wickremasinghe.
 
 ...
 
 [Data](articles/259be55d.json)
+
+[Extended Data](ext_articles/259be55d.ext.json)
 
 ---
 
@@ -2357,27 +2389,5 @@ By 2027, the UFill initiative is expected to prevent over 128 metric tons of pla
 [Data](articles/af675326.json)
 
 [Extended Data](ext_articles/af675326.ext.json)
-
----
-
-### Sri Lanka’s diplomatic agenda shifts into high gear amidst political transition
-
-*2024-10-15 03:06:55* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-s-diplomatic-agenda-shifts-into-high-gear-amidst-political-transition/56-767978) · `en`
-
-Foreign Minister Vijitha Herath outlines Govt.’s policy direction, economic revival strategies
-
-Expresses deep concern over escalating humanitarian crisis in Gaza and Lebanon
-
-Foreign Minister Vijitha Herath yesterday addressed the Colombo-based diplomatic corps, outlining the Government’s foreign policy direction and economic recovery strategies amidst ongoing political transition.
-
-With the recent election of President Anura Kumara Dissanayake and a Parliamentary vote scheduled for 14 November, Sri Lanka finds itself at a critical juncture, balancing domestic challenges with international commitments.
-
-Herath, speaking at his first formal engagement with the diplomatic community, stressed on the peaceful electoral transition that brought Dissanayake to power and set the stage for what he described as a ‘mandate for change.’
-
-...
-
-[Data](articles/b46aa1f6.json)
-
-[Extended Data](ext_articles/b46aa1f6.ext.json)
 
 ---

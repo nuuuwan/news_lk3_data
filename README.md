@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 16:39:20**
+As of **2024-10-16 16:57:03**
 
 ## Newspaper Stats
 
-*Scraped **49,835** Articles*
+*Scraped **49,836** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,901
 tamilmirrorlk | 6,818
 virakesarilk | 7,976
-adaderanasinhalalk | 8,630
+adaderanasinhalalk | 8,631
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,835 (100.0%) of 49,835 articles have been extended.
+49,836 (100.0%) of 49,836 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Shooting Madampiti
+
+*2024-10-16 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202243) · `si`
+
+Here's a 200-character summary:
+
+
+
+Shooting Madampiti: A 35-year-old man was shot dead near Kandatta by police in Grandpass area.
+
+🟩
+
+ත්‍රිරෝද රථයක සිටි පුද්ගලයෙක්ට ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ මාදම්පිටිය, කනත්ත ආසන්නයේදී වෙඩිතබා ඝාතනය කර තිබේ.
+
+The deceased is about 35 years old, police said.
+
+◼️
+
+[Data](articles/01f481ae.json)
+
+[Extended Data](ext_articles/01f481ae.ext.json)
+
+---
 
 ### Ada Derana channel exceeds three million subscribers
 
@@ -2323,27 +2347,5 @@ The ECSL noted that 15 candidates, including election front-runners President An
 [Data](articles/6f74d251.json)
 
 [Extended Data](ext_articles/6f74d251.ext.json)
-
----
-
-### UN Assistant Secretary General and UNDP Asia Pacific Chief concludes visit
-
-*2024-10-16 04:09:31* · [`dailyftlk`](https://www.ft.lk/news/UN-Assistant-Secretary-General-and-UNDP-Asia-Pacific-Chief-concludes-visit/56-768005) · `en`
-
-President Anura Kumara Dissanayake meets with ASG Wignaraja during her mission in Sri Lanka
-
-Meets with President and Prime Minister during one day visit
-
-United Nations Assistant-Secretary-General (ASG) and United Nations Development Program (UNDP) Regional Director for Asia and the Pacific Kanni Wignaraja met with President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya during her one day in-country mission on Monday (14).
-
-ASG Wignaraja was accompanied by Resident Representative of UNDP in Sri Lanka Azusa Kubota.
-
-In her engagements, Wignaraja reinforced UNDP’s commitment, building on its long-standing partnership, to supporting national priorities towards attaining sustainable development, in the areas of economic and governance reforms, accountability, innovative financing, digital transformation, public sector modernisationand protection of the most vulnerable communities in the country.
-
-...
-
-[Data](articles/bc277ce4.json)
-
-[Extended Data](ext_articles/bc277ce4.ext.json)
 
 ---

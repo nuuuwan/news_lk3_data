@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 17:23:37**
+As of **2024-10-16 17:40:15**
 
 ## Newspaper Stats
 
-*Scraped **49,839** Articles*
+*Scraped **49,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,132 @@ adalk | 4,636
 dailymirrorlk | 4,733
 adaderanalk | 5,903
 tamilmirrorlk | 6,818
-virakesarilk | 7,976
-adaderanasinhalalk | 8,631
+virakesarilk | 7,978
+adaderanasinhalalk | 8,633
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,839 (100.0%) of 49,839 articles have been extended.
+49,843 (100.0%) of 49,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Processing plans for education should be prepared as global needs - President
+
+*2024-10-16 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202245) · `si`
+
+Sri Lanka's education system should align with global needs, focusing on developing human resources for national development. President Anura Kumara Dissanayake emphasizes preparing educational projects with long-term vision, improving school education, teacher training, and expanding technical and IT education.
+
+🟩
+
+President Anura Kumara Dissanayake says that considering the global needs properly, Sri Lanka's education should be prepared.
+
+The President says that children should be equipped with knowledge to improve human resources to contribute to the development of Sri Lanka.
+
+The President was speaking at the progress review of the Ministry of Education, Science and Technology at the Presidential Secretariat today (16).
+
+The President has pointed out the operation of educational officers in the next 10 years and the need for education officials is the need to prepare educational projects with extensive vision.
+
+President Anura Kumara Dissanayake was chaired by Prime Minister Dr. Weli Amarasuriya.
+
+The discussion was the development of school education, teacher education, secondary education, technical education and IT education, said the Presidential Media Unit.
+
+The President and the Prime Minister have also instructed the officials to implement the relevant projects soon.
+
+...
+
+[Data](articles/c16d16a7.json)
+
+[Extended Data](ext_articles/c16d16a7.ext.json)
+
+---
+
+### The operation enclosed a large scale hunter racket
+
+*2024-10-16 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202244) · `si`
+
+Large-scale wildlife poaching racket busted in Sri Lanka. Suspect arrested, 56kg deer seized. Two firearms recovered. Case ongoing.
+
+🟩
+
+A suspect has been arrested by the wildlife in the Jayarajura, Jayarajura, Mahakudkadawala.
+
+The phase of Wildlife Officers and STF officers joined the Palace on the SLAF Station today (16) have been prepared at the time of the investigation.
+
+The officials were able to raid a season of a large deer to the deer with 56 kg and the body of wild beasts.
+
+Police also seized two superflues stored.
+
+The main suspect, which was conducting the racket, has fled the racket and was arrested by the police.
+
+It has been revealed that the main dealers of the Mahakumbukkadawala government reserved deer, sack, wild boar have been hunting and sold at a high price.
+
+He was arrested by the wildlife officials several months ago and two guns and two guns were found in the event.
+
+Wildlife officials said the case was still being heard.
+
+It has also been revealed that the racketeer is using ammunition guns and hunt forest.
+
+...
+
+[Data](articles/93b80e2c.json)
+
+[Extended Data](ext_articles/93b80e2c.ext.json)
+
+---
+
+### Five arrested, including women on charges of stealing jewelery in Jaffna
+
+*2024-10-16 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196457) · `ta`
+
+Jaffna police arrest 5, recover 16 lbs gold jewelry worth 25 lakhs. Robbery occurred on 10th; thieves stole jewelry and phones. Police identified suspects through security footage. Two women among arrested individuals. Additional stolen items valued at 7 lakhs.
+
+🟩
+
+The Jaffna Chavakachcheri police have recovered 16 pounds of gold jewelery worth Rs 25 lakhs and five suspects have been arrested.
+
+On the 10th of last month, the robbers entered a house in the Keruda area under the Chavakachcheri police division and robbed 16 pounds of jewelery and telephone at home.
+
+The husband and wife were found to have theft at home while returning home and had lodged a complaint with the Chavakachcheri police with the source of the security camera.
+
+The police rushed to the scene and arrested five men, including two women and jewelery, on Tuesday (15).
+
+In addition, jewelery - 7 lakhs of rupees of jewelery and jewelery selling jewelery from women who were theft - the luxury electrical equipment purchased from the women of the theft.
+
+◼️
+
+[Data](articles/e75316bc.json)
+
+[Extended Data](ext_articles/e75316bc.ext.json)
+
+---
+
+### 1,000 pigs die in Anuradhapura
+
+*2024-10-16 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196454) · `ta`
+
+Anuradhapura: 1000+ pigs die from unknown virus. All 20 local farms affected. Rapid spread threatens neighboring areas. Vaccines unavailable; veterinarians arranging emergency visits and vaccinations.
+
+🟩
+
+More than 1000 pigs have died of viruses in cattle farms in Anuradhapura district. Thus the farmers are in great tragedy.
+
+Pigs died in two days after being infected with unidentified virus. Viral infection is spreading rapidly. Farmers say they are at risk of spreading other areas if they do not take action to prevent.
+
+There are 20 farms in the area. Vice infection spreads in all of them. More than 200 in 800 pigs on a farm have died. Other farms have died of 60 pigs.Also, hundreds of piglets have died on every farm.
+
+Meanwhile, medications needed to treat viral diseases are not in veterinary offices. However, we have made arrangements to visit the affected pigs and make arrangements to vaccinate pigs that have not yet been viral, said Nuwarakampalatha Central Veterinary Specialist Dr. Prasad Madathu.
+
+◼️
+
+[Data](articles/7e7b76a8.json)
+
+[Extended Data](ext_articles/7e7b76a8.ext.json)
+
+---
 
 ### Person shot dead in Grandpass
 
@@ -2277,77 +2391,5 @@ The seven cases prioritised include the Central Bank Bond scam, the Easter Sunda
 [Data](articles/f2c8291f.json)
 
 [Extended Data](ext_articles/f2c8291f.ext.json)
-
----
-
-### Gammanpila ready to meet Vijitha’s challenge over Easter Sunday reports
-
-*2024-10-16 05:57:37* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-ready-to-meet-Vijitha-s-challenge-over-Easter-Sunday-reports/56-768015) · `en`
-
-Minister Vijitha Herath gives Udaya Gammanpila three days to hand over Easter Sunday committee reports he claims to be in possession
-
-Raises concerns on how Gammanpila obtained the reports and legal implications of withholding such crucial information
-
-Udaya Gammanpila says he will hold a special press conference to address challenge today
-
-Sarvajana Balaya Colombo District candidate Udaya Gammanpila yesterday said he is ready to accept Cabinet Spokesman Minister Vijitha Herath’s challenge to produce two reports that Gammanpila claims to possess, related to the investigations into the 2019 Easter Sunday terror attacks.
-
-Gammanpila announced that he would respond to the challenge at a special press conference today.
-
-...
-
-[Data](articles/36fe5243.json)
-
-[Extended Data](ext_articles/36fe5243.ext.json)
-
----
-
-### Govt. to present Vote-on-Account amid election constraints
-
-*2024-10-16 04:27:23* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-present-Vote-on-Account-amid-election-constraints/56-768011) · `en`
-
-Cabinet Spokesman and Minister Vijitha Herath yesterday confirmed that the Government will present a three-month Vote-on-Account, citing time constraints due to the upcoming General elections on 14 November.
-
-Speaking at the weekly post-Cabinet meeting media briefing, he said the Vote-on-Account will serve as a temporary financial measure to cover Government expenses till a comprehensive Budget can be presented in early 2025.
-
-“As Parliament scheduled to reconvene on 21 November, there is no sufficient time to prepare and present a Budget for 2025 in December itself. The idea now is to present a Vote-on-Account,” he explained.
-
-Herath pointed out that Sri Lanka, which usually presents its annual Budget in November is taking this step to ensure smooth Government operations during the transition following the elections.
-
-...
-
-[Data](articles/e053ca46.json)
-
-[Extended Data](ext_articles/e053ca46.ext.json)
-
----
-
-### This election is about the “Opposition”
-
-*2024-10-16 04:26:37* · [`dailyftlk`](https://www.ft.lk/columns/This-election-is-about-the-Opposition/4-768010) · `en`
-
-This election is therefore about having a politically serious and a critically sharp, effectively “national” people’s Opposition – Pic by Shehan Gunasekara
-
-Nominations for the 2024 November 14 parliamentary elections were closed island wide, on 11 October. Altogether, around 690 nomination papers have been accepted for the 52 electoral districts. Phenomenal rise to power of the JVP/NPP at the September Presidential elections has sealed the fate of over two dozen politicians, some of whom would not have wanted to leave politics yet. Not very surprisingly, since the 1936 State Council elections when D.M won the Hambantota seat, Rajapaksas are wholly absent in Hambantota for the first time, this election. On the wild side of it, there are numerous amoebic groups that have come out as “new” political parties and independent groups contesting most districts.
-
-...
-
-[Data](articles/db266ed9.json)
-
-[Extended Data](ext_articles/db266ed9.ext.json)
-
----
-
-### Turning the right to food into reality: Collective path to a food-secure future
-
-*2024-10-16 04:23:43* · [`dailyftlk`](https://www.ft.lk/columns/Turning-the-right-to-food-into-reality-Collective-path-to-a-food-secure-future/4-768009) · `en`
-
-As we commemorate World Food Day, let us pledge to take meaningful actions that promote the right to food for all. This involves advocating for policies that support food sovereignty, investing in local agriculture, and ensuring that marginalised voices are heard in discussions about food systems. It also means holding ourselves accountable as consumers to make choices that align with our values
-
-...
-
-[Data](articles/93d61273.json)
-
-[Extended Data](ext_articles/93d61273.ext.json)
 
 ---

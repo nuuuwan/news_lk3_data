@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 00:38:59**
+As of **2024-10-17 01:23:36**
 
 ## Newspaper Stats
 
-*Scraped **49,882** Articles*
+*Scraped **49,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 495
 bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,060
-dailyftlk | 3,387
+dailyftlk | 3,393
 adalk | 4,643
 dailymirrorlk | 4,733
 adaderanalk | 5,908
-tamilmirrorlk | 6,823
+tamilmirrorlk | 6,824
 virakesarilk | 7,979
 adaderanasinhalalk | 8,641
 
@@ -26,9 +26,137 @@ adaderanasinhalalk | 8,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,882 (100.0%) of 49,882 articles have been extended.
+49,889 (100.0%) of 49,889 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-17 (Thursday)
+
+### Embassy of Sri Lanka in Jordan launches new official website
+
+*2024-10-17 01:00:56* · [`dailyftlk`](https://www.ft.lk/news/Embassy-of-Sri-Lanka-in-Jordan-launches-new-official-website/56-768068) · `en`
+
+The Embassy of Sri Lanka in Jordan launched its new official website, marking an important milestone in the Embassy’s activities.
+
+The new website, launched on 14 October 2024, will enable the Embassy to acquire more visibility and improve its information flow.
+
+It intends to provide the Embassy stakeholders and the public with a user-friendly interface to browse the Embassy’s services and functions as well as information about Sri Lanka tourism, trade, and investment opportunities.
+
+The new website provides access to “Consular and Visa services”; “Labour Welfare”; “Economy- Trade, Investment, and Tourism”; “News/Media releases”; “Tender notices”; information about Sri Lanka, the Embassy, and bilateral relations, and it also facilitates individuals to register with the Embassy.
+
+Amongst other features, the site contains integrated social media buttons linking the Embassy’s official Facebook page, YouTube channel, and X pages to foster communication with the public.
+
+...
+
+[Data](articles/7add2597.json)
+
+[Extended Data](ext_articles/7add2597.ext.json)
+
+---
+
+### Sri Lankan Embassy in Romania celebrates diversity at 2024 Asia Cultural Festival
+
+*2024-10-17 00:59:58* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Embassy-in-Romania-celebrates-diversity-at-2024-Asia-Cultural-Festival/56-768067) · `en`
+
+The Sri Lankan Embassy in Romania participated in the second edition of the Asia Cultural Festival, 2024, themed “Celebrating Asian Diversity.” Held at the esteemed “Dimitrie Gusti” National Village Museum, the festival was organised by the Asia Group of Embassies in Bucharest and highlighted the rich cultural heritage of Asian nations.
+
+This vibrant festival served as a platform for participants to showcase their unique cultures and foster a sense of togetherness among visitors. Attendees were invited to immerse themselves in a variety of cultural experiences, from traditional music and dance performances to exquisite culinary delights that tantalised their taste buds. The event was a true celebration of the richness of Asian cultures, promoting understanding and appreciation among diverse communities.
+
+...
+
+[Data](articles/d4745102.json)
+
+[Extended Data](ext_articles/d4745102.ext.json)
+
+---
+
+### Lankan envoy in Belgium meets with VIVES University students prior to their visit to Sri Lanka
+
+*2024-10-17 00:57:01* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Belgium-meets-with-VIVES-University-students-prior-to-their-visit-to-Sri-Lanka/56-768066) · `en`
+
+Sri Lankan Ambassador to Belgium Chandana Weerasena briefed a group of 23 final-year university students of the Tourism and Recreation Management Program of the VIVES University in Bruges, Belgium, prior to their departure to Sri Lanka for a field trip.
+
+The field trip is a part of their study program. West-Flanders region in Belgium Governor Carl Decaluwe, Bruges Mayor Dirk De Fauw; the Rector and several other senior staff members joined the briefing.
+
+The Ambassador and other distinguished guests also witnessed the culinary talents of the international students at the Flanders Culinary Arts Centre of VIVES University. The Embassy and the VIVES University are working towards organising a Sri Lankan culinary session at the Flanders Culinary Arts Centre of the University.
+
+...
+
+[Data](articles/1594be9e.json)
+
+[Extended Data](ext_articles/1594be9e.ext.json)
+
+---
+
+### Sri Lankan Ambassador meets Bahrain’s Minister of Information
+
+*2024-10-17 00:53:47* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-meetsBahrain-s-Minister-of-Information/56-768065) · `en`
+
+Sri Lankan Ambassador to the Kingdom of Bahrain H.M.G.R.R.K. Wijeratne Mendis paid a courtesy call on Kingdom of Bahrain Minister of Information Dr. Ramzan bin Abdullah Al Nuaimi with a view to further enhancing the strong ties between the two countries.
+
+During the meeting, Minister Al Nuaimi expressed his appreciation for the flourishing relations between Bahrain and Sri Lanka, emphasising the mutual commitment to expanding bilateral cooperation in various sectors of common interest. He extended his best wishes to Ambassador Wijeratne Mendis in her diplomatic role and expressed confidence in her efforts to contribute significantly to strengthening the partnership between the two countries.
+
+...
+
+[Data](articles/52e92e1e.json)
+
+[Extended Data](ext_articles/52e92e1e.ext.json)
+
+---
+
+### Why, despite my best efforts, I cannot be happy for the NPP win
+
+*2024-10-17 00:39:06* · [`dailyftlk`](https://www.ft.lk/opinion/Why-despite-my-best-efforts-I-cannot-be-happy-for-the-NPP-win/14-768064) · `en`
+
+Federalism or devolution of power isn’t just for the north and east of Sri Lanka but for ALL of Sri Lanka to be governed in a sensibly decentralised, efficient and representative manner. It is this conversation that we need to revive and rebuild in Sri Lanka today if we are to undo this fundamental flaw that makes it so this country cannot be equally claimed by all its citizens and the minorities remain second class citizens
+
+...
+
+[Data](articles/47343ec0.json)
+
+[Extended Data](ext_articles/47343ec0.ext.json)
+
+---
+
+### ’விவசாயத்துறை தொடர்பில் தேசிய வேலைத்திட்டம் தேவை’
+
+*2024-10-17 00:31:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயத்துறை-தொடர்பில்-தேசிய-வேலைத்திட்டம்-தேவை/175-345589) · `ta`
+
+Sri Lanka needs a long-term national agricultural plan to organize the country's farming industry. President Anuragumara Dissanayake emphasized this during a discussion on rural development projects. He highlighted the importance of eradicating rural poverty and proposed a comprehensive new project to achieve this goal.
+
+🟩
+
+முறையற்று இருக்கும் இலங்கையின் விவசாயத் தொழிலை ஒழுங்கமைக்கப்பட்ட நிலைக்குக் கொண்டுவருவதற்கு நீண்டகால ஒருங்கிணைந்த தேசிய வேலைத்திட்டமொன்று நடைமுறைப்படுத்தப்பட வேண்டுமென ஜனாதிபதி அநுரகுமார திஸநாயக்க தெரிவித்தார்.
+
+ஜனாதிபதி செயலகத்தில் நேற்று இடம்பெற்ற விவசாயம், காணி, கால்நடை, நீர்ப்பாசனம், கடற்றொழில் மற்றும் நீரியல் வளங்கள் அமைச்சின் முன்னேற்ற மீளாய்வின் போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+
+அந்த அமைச்சுகளில் தற்போது நடைமுறைப்படுத்தப்படும் திட்டங்கள் குறித்து இதன்போது விரிவாக கலந்துரையாடப்பட்டது. The President, who examined the rural development projects so far, said that although the projects were somewhat successful, the question of how much rural poverty has been resolved.
+
+President Anuragumara Dissanayake pointed out that the main target of rural development projects should be eradicated in the future.. முழு நாட்டையும் உள்ளடக்கிய வகையில் கிராமப்புற வறுமையை ஒழிக்க புதிய விரிவான வேலைத்திட்டத்தின் தேவையும் இதன்போது வலியுறுத்தப்பட்டது.
+
+...
+
+[Data](articles/7106d85f.json)
+
+[Extended Data](ext_articles/7106d85f.ext.json)
+
+---
+
+### Can centrist SJB hold against JVP surge for political domination?
+
+*2024-10-17 00:22:13* · [`dailyftlk`](https://www.ft.lk/columns/Can-centrist-SJB-hold-against-JVP-surge-for-political-domination/4-768063) · `en`
+
+In an incredibly silly switcheroo, Sajith and the SJB, hijacked or converted by an elitist cosmopolitan caucus, tried to play the UNP of 1977 rather than either of the two roles that were required by a democratic Opposition with a strong Left competitor. These were roles customised for Sajith and the SJB to play: SWRD 1956, Ranasinghe Premadasa 1988 or both. The SJB abjured these roles, abdicating them to their rival Anura Kumara Dissanayake and the JVP-NPP. AKD kicked the goal in
+
+Neither President Dissanayake nor Foreign Minister Herath will attend the BRICS summit in Russia, Oct 22-24. The skimpy reason given was electioneering. https://economynext.com/sri-lanka-president-foreign-minister-to-skip-brics-summit-183475/
+
+...
+
+[Data](articles/43e1c0f0.json)
+
+[Extended Data](ext_articles/43e1c0f0.ext.json)
+
+---
 
 ### 2024-10-16 (Wednesday)
 
@@ -2319,173 +2447,5 @@ Meanwhile, the foods that eat these days should be made clean, fresh and hot.
 [Data](articles/0015b470.json)
 
 [Extended Data](ext_articles/0015b470.ext.json)
-
----
-
-### Deputy Commissioner for a bribe
-
-*2024-10-16 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202230) · `si`
-
-Deputy Commissioner arrested for bribery in Batticaloa. Raid conducted by Investigation Commission. Suspect to appear in court.
-
-🟩
-
-A Deputy Commissioner of the Eastern Provincial Revenue Department has been arrested by the Investigation Commission (Investigation Department) of the Eastern Provincial Revenue Department.
-
-The commission stated that the raid was carried out by a resident of Chenkardi, Batticaloa.
-
-After purchasing Rs.
-
-Accordingly, the government fee is paid at Rs.
-
-The Deputy Commissioner has been arrested at the office of Batticaloa at the Provincial Revenue Department office.
-
-The suspects of the Bribery or Corruption Commission said that the suspect is to be produced before the Batticaloa Magistrate's Court.
-
-◼️
-
-[Data](articles/446a8954.json)
-
-[Extended Data](ext_articles/446a8954.ext.json)
-
----
-
-### Sri Lanka looks to Cuba for drug production help
-
-*2024-10-16 10:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-to-cuba-for-drug-production-help-183824/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Prime Minister Harini Amarasuriya has discussed Cuban investment in the production of pharmaceuticals at a meeting with the socialist country’s ambassador.
-
-Cuban Ambassador to Sri Lanka Andres Marcelo González Gorrido has said that the Cuban government is paying attention to the production of medicines in Sri Lanka, according to a statement by the PM’s office.
-
-The Caribbean country looked forward to “further strengthening of the nearly 65-year long diplomatic relationship between Sri Lanka and Cuba, resumption of the stalled mosquito control projects implemented under Cuban aid, including training of Sri Lankan trainers and students in medical and sports education for universities.”
-
-Gorrido conveyed the best wishes of the Cuban government to the prime minister when he met her on Tuesday (15).
-
-...
-
-[Data](articles/0d8f2ee4.json)
-
-[Extended Data](ext_articles/0d8f2ee4.ext.json)
-
----
-
-### In the second place in the world
-
-*2024-10-16 10:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உலகில்-இரண்டாம்-இடத்திற்கு-எல்ல-சில்/76-345540) · `ta`
-
-"Ellas Chil" restaurant ranked second globally in travel guide site's best restaurants category based on tourist preferences.
-
-🟩
-
-உலகெங்கிலும் உள்ள சுற்றுலாப் பயணிகளின் விருப்பங்களின்படி, பயண வழிகாட்டி இணையதளம், சிறந்த உணவகங்களில் சிறந்தது (BEST OF THE BEST RESTAURANTS) என்ற பெயரில் நடாத்திய  கருத்துக்கணிப்பில், 'எல்ல சில்' உணவகம் உலகின் சிறந்த உணவகங்களில் இரண்டாவது இடத்தைப் பெற்றுள்ளது.
-
-Tourist references are found in many departments, including food, beverages and care services.
-
-◼️
-
-[Data](articles/69f0cade.json)
-
-[Extended Data](ext_articles/69f0cade.ext.json)
-
----
-
-### Five suspects arrested for murder
-
-*2024-10-16 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202229) · `si`
-
-Five suspects arrested for murder in Jaeluwa area. Victim attacked while traveling in Ekala. Police recovered two knives and several swords from suspects aged 22, 33, 45, 48, and 65.
-
-🟩
-
-Five suspects have been arrested in connection with the murder of a person in the Jaeluwa area.
-
-According to the police, a person who was traveling on a road in Ekala was attacked and killed.
-
-ඝාතනය සිදුකළ සැකකරු සහ ඒ සඳහා ආධාර අනුබල දුන් සිව්දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර ඒ සඳහා යොදාගත් මන්නා පිහි දෙකක් සහ මුගුරු කිහිපයක් පොලිස් භාරයට ගෙන තිබේ.
-
-අත්අඩංගුවට ගෙන ඇත්තේ 22,33,45,48 හා 65 යන වයස් සීමාවල පසුවන ජාඇළ ප්‍රදේශයේ පදිංචි කරුවන් බව පොලීසිය පවසයි.
-
-◼️
-
-[Data](articles/ddeba344.json)
-
-[Extended Data](ext_articles/ddeba344.ext.json)
-
----
-
-### Red notice to marines and fishermen
-
-*2024-10-16 10:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்படையினர்-மற்றும்-மீனவர்களுக்கு-சிவப்பு-அறிவிப்பு/175-345539) · `ta`
-
-Heavy rains, strong winds, and rough seas expected. Low-pressure system moving west-northwest towards Tamil Nadu and Andhra Pradesh coasts. Sea waves may reach 2.5-3.0 meters high, potentially affecting coastal areas. Fishermen and mariners advised to monitor weather updates.
-
-🟩
-
-The Meteorological Department has issued a red announcement regarding heavy rains, heavy winds and sea rage.
-
-The announcement issued today (16) at 8:00 am will be valid till 8:00 am, the department said.
-
-The Meteorological Department said that the low -lying low -lying area was still centered at around 12:00 pm in the Central Bengal Sea.
-
-It will move in the western-northwestern direction and become a low-lying zone of the northern Tamil Nadu, Puducherry and its adjoining South Andhra Pradesh coast tomorrow.
-
-As a result, strong winds are blowing in the sea, heavy rains and sea areas are very turbulent, the Meteorological Department said in a statement.
-
-In the seas from Chilaw to Colombo, Galle, Hambantota and Pottuvil, the height of the sea wave is likely to rise to 2.5-3.0 meters.
-
-As a result, sea waves from Chilaw to Colombo, Galle and Hambantota are likely to reach the land.
-
-...
-
-[Data](articles/3d68d66b.json)
-
-[Extended Data](ext_articles/3d68d66b.ext.json)
-
----
-
-### Retired - Temporary goodbyes
-
-*2024-10-16 10:14:58* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාම-ගත්තේ-නැ---තාවකාලික-සමුගැන‍ිමක්-විතර‍/11-412524) · `si`
-
-Former President Mahinda Rajapaksa announced his temporary retirement from politics, stating it was only a brief goodbye. He expressed hope for the People's Front winning this year's elections, mentioning they could secure 113 seats.
-
-🟩
-
-තමන් දේශපාලනයෙන් විශ්‍රාම නොගත් බවත් තාවකාලික සමුගැනිමක් පමණක් සිදුකළ බවත් හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා පැවැස‍ිය.
-
-කොළඹ පැවැති වැඩසටහනකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මෙ බව කිවේය. එසේම මෙවර මැතිවරණයෙන පොදුජන පෙරහණ පහසු ජයක් ලබන බවත ආසන 113ක් ලබා ගත හැකි බවත් ඔහු කි‍වේය.
-
-He said that he had not been presented to the election.
-
-◼️
-
-[Data](articles/3a9cdd65.json)
-
-[Extended Data](ext_articles/3a9cdd65.ext.json)
-
----
-
-### “The cylinder will win with more votes”
-
-*2024-10-16 10:13:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வாக்குகளால்-சிலிண்டர்-வெற்றி-பெறும்/175-345538) · `ta`
-
-Ramesh Pathirana, New Democratic Front's Galle District candidate, predicts victory with increased votes. He emphasizes teamwork and strengthening voter base. Claims professional and people-friendly team will secure highest vote count in Galle district.
-
-🟩
-
-New Democratic Front's Galle District candidate Ramesh Pathirana said he was working with a strong team to win the parliamentary election.
-
-Speaking to the media in Galle, he said this was the new voting site in the last election.
-
-He also said that the group is working to strengthen the voter base and that the group is making more votes in each constituency.
-
-He said that the Galle district has fielded a strong squad for the general election and that a group of professionals and people's friendly group will win the election by the highest number of votes.
-
-◼️
-
-[Data](articles/e86e3774.json)
-
-[Extended Data](ext_articles/e86e3774.ext.json)
 
 ---

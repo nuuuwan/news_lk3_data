@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 08:24:04**
+As of **2024-10-16 08:45:41**
 
 ## Newspaper Stats
 
-*Scraped **49,755** Articles*
+*Scraped **49,758** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 401
-colombotelegraphcom | 494
+colombotelegraphcom | 495
 bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,047
@@ -20,17 +20,67 @@ dailymirrorlk | 4,733
 adaderanalk | 5,884
 tamilmirrorlk | 6,800
 virakesarilk | 7,965
-adaderanasinhalalk | 8,610
+adaderanasinhalalk | 8,612
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,740 (100.0%) of 49,755 articles have been extended.
+49,748 (100.0%) of 49,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Mahinda says he will not retire from politics
+
+*2024-10-16 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202224) · `si`
+
+Former President Mahinda Rajapaksa denies plans to retire from politics, stating his family's departure was temporary. He dismisses speculation about his own retirement, saying "I didn't ask...it can't be accepted." This stance aligns with public sentiment against the Rajapaksas' political influence.
+
+🟩
+
+Former President Mahinda Rajapaksa says that he is not planning to retire from politics.
+
+He says that the Rajapaksas have done only a temporary removal.
+
+Q. Are you a retirement?Is the temporary farewell?
+
+Q. Did you hear the story of the President?He said that the first people retiring. Will it be accepted?
+
+"No, I didn't ask ... it can't accept it. How many people do there have been not asked? "
+
+There has been a social opinion that the Rajapaksas have not been voted.
+
+◼️
+
+[Data](articles/355a5219.json)
+
+[Extended Data](ext_articles/355a5219.ext.json)
+
+---
+
+### More governors arrested in a hotel
+
+*2024-10-16 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202223) · `si`
+
+Foreign nationals arrested in Chilaw hotel. Four Malaysians, one Kenyan, one Chinese woman detained. Suspected of online fraud. Computers and phones seized.
+
+🟩
+
+A group of foreign nationals have been arrested for a tip off on information received from the Puttalam Division Criminal Investigation Bureau at the Iranila road, Chilaw Police Division.
+
+The police media division announced that four Malaysian men, who were arrested yesterday (15), was a woman, a woman, Kenyan woman and a Chinese woman.
+
+The suspects have been arrested on suspicion of money online, and 20 computer machines and 282 mobile phones were taken into custody.
+
+◼️
+
+[Data](articles/71a15a51.json)
+
+[Extended Data](ext_articles/71a15a51.ext.json)
+
+---
 
 ### Rockland Group marks 100 years of passion and resilience with Chairman’s Awards
 
@@ -198,6 +248,8 @@ He described the design of Cinnamon Life as inspired by abstract geometry and li
 
 [Data](articles/a5a2d872.json)
 
+[Extended Data](ext_articles/a5a2d872.ext.json)
+
 ---
 
 ### CA Sri Lanka pays tribute to three veteran Chartered Accountants for outstanding contributions to corporate, society and country
@@ -211,6 +263,8 @@ At the inauguration ceremony of the 45th National Conference of Chartered Accoun
 ...
 
 [Data](articles/34b0289a.json)
+
+[Extended Data](ext_articles/34b0289a.ext.json)
 
 ---
 
@@ -227,6 +281,8 @@ As concerned citizens of this country, a group of well-meaning individuals and p
 ...
 
 [Data](articles/fbf3245b.json)
+
+[Extended Data](ext_articles/fbf3245b.ext.json)
 
 ---
 
@@ -392,19 +448,29 @@ Several years ago, I was at what was perhaps the inaugural meeting that launched
 
 ---
 
-### தெற்கின் அலையில் சிக்கிவிடாது இனத்தின் இருப்பை உறுதிசெய்வோம் - மயூரன்
+### We will ensure the existence of the race without getting caught in the wave of the south - Mayuran
 
 *2024-10-16 04:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196399) · `ta`
 
-தெற்கின் மாற்றம் என்ற வரையறைக்குள் தமிழ்மக்களின் தேவைகளை அடகுவைக்காமல் தமிழ்த்தேசிய இனத்தின் இருப்பை மனதில் நிறுத்தி வாக்களிக்குமாறு முன்னாள் வடக்குமாகாணசபை உறுப்பினரும் ஜனநாயக தமிழ்த்தேசியக் கூட்டமைப்பின் வன்னிமாவட்ட வேட்பாளருமான செந்தில்நாதன் மயூரன் தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-தெற்கில் இன்று அரசியல் மாற்றம் ஒன்று உருவாகியுள்ளது. அந்த மக்கள் மாற்றம் ஒன்றின் அவசியத்தை உணர்ந்து அநுரவை ஆட்சியில் அமர்த்தியுள்ளனர். வடகிழக்கிலும் அவ்வாறான ஒரு மாற்றம் வரவேண்டும் என்று பலரும் சிந்திக்கின்றார்கள். அந்த மாற்றத்திற்குள் பலவிடயங்கள் இருக்கிறது.
 
-நாடு பொருளாதார சிக்கல்களுக்கு முகம் கொடுத்து ஊழல்வாதிகளால் சூறையாடப்பட்டுள்ளது. அந்தவகையில் நாட்டில் ஒரு புதிய யுகத்தினை ஏற்படுத்துவதற்காகச் சிங்கள மக்கள் ஒன்றிணைந்துள்ளனர். அதனை நாம் வரவேற்கின்றோம். அதற்கான பங்களிப்புக்களை வழங்குவதற்கு நாங்களும் தயாராக இருக்கிறோம்.
+
+Tamils must protect their identity and representation without getting swept away by southern changes. Political shifts in the south don't align with Tamil interests. Corruption and bribery hinder Tamil progress. The struggle for Tamil rights continues despite sacrifices.
+
+🟩
+
+Senthilnathan Mayuran, a former Northern Provincial Council member and Wannimavatta candidate of the Democratic Tamil National Alliance (TNA), said that the presence of the Tamil nationalism in mind, without complying with the needs of the Tamils ​​within the definition of the South.
+
+There has been a political change in the south today. அந்த மக்கள் மாற்றம் ஒன்றின் அவசியத்தை உணர்ந்து அநுரவை ஆட்சியில் அமர்த்தியுள்ளனர். வடகிழக்கிலும் அவ்வாறான ஒரு மாற்றம் வரவேண்டும் என்று பலரும் சிந்திக்கின்றார்கள். There are many things within that change.
+
+The country has been looted by corrupt people to face economic problems. Sinhalese people have come together to create a new age in the country. We welcome it. We are also ready to contribute to that.
 
 ...
 
 [Data](articles/72b352a7.json)
+
+[Extended Data](ext_articles/72b352a7.ext.json)
 
 ---
 
@@ -468,21 +534,29 @@ According to the seniority list of special grade officers within the Sri Lanka S
 
 ---
 
-### கட்டுப்பாட்டு விலைக்கு அரிசியை விற்க முடியா விட்டால் அரிசி விற்பனையை புறக்கணிக்க அகில இலங்கை அத்தியாவசிய மொத்த மற்றும் சில்லறை வியாபாரிகளினது சங்கம் நடவடிக்கை
+### The Association of the All Ceylon Essential Total and Retail Merchants Action to boycott rice sales if it is not sold for control prices
 
 *2024-10-16 04:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196398) · `ta`
 
-நாட்டு மக்களின் நலன்கருதி அரிசியை கட்டுப்பாட்டு விலைக்கு விற்பனை செய்யும் நடவடிக்கைகளை மேற்கொள்ள அகில இலங்கை அத்தியாவசிய மொத்த மற்றும் சில்லறை வியாபாரிகளினது சங்கம் நடவடிக்கை எடுத்துவருவதாகவும் இவ்வாறு கட்டுப்பாட்டு விலைக்கு அரிசியை விற்க முடியா விட்டால்  அரிசிவிற்பனை யை புறக் கணிக்க சங்கம் நடவடிக்கை எடுத்துள்ளது.
+Association of All Ceylon Essential Total and Retail Merchants announces rice boycott over control prices. Traders claim unfair pricing, seek government intervention. Press conference planned to address issues affecting businesses and consumers.
 
-மேலும் இது தொடர்பில் இன்னும் சில தினங்களில் சங்கம் ஊடக சந்திப்பின் மூலம் இதனை அறிவிப்பு செய்யவும் நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+🟩
 
-அகில இலங்கை அத்தியாவசிய மொத்த மற்றும் சில்லறை வியாபாரிகளினது சங்கம், மாவட்ட ரீதியாக வர்த்தக சங்க  கிளைகளை உருவாக்கும் திட்டத்தின் கீழ்   முதலாவதாகக்   கண்டி மாவட்ட  அத்தியாவசிய  மொத்த மற்றும் சில்லறை வியாபாரிகளினது சங்க  கிளை அங்குரார்ப்பண கூட்டத்தில் கலந்து கொண்டு உரையாற்றுகையில் அதன் தலைவர் டபிள்யூ  எம் நாஜிம்   மேற்கண்டவாறு தெரிவித்துள்ளார்.
+The Association of the All Ceylon Essential Total and Retail Merchants is taking steps to sell rice for the benefit of the people of the country and the association has taken steps to predict the rice.
 
-மாவட்டத்தின் சிங்கள, தமிழ், முஸ்லீம் வர்த்தகர்களை  உள்ளடக்கிய சங்க அங்குரார்ப்பண கூட்டம்  நேற்று முன்தினம் (13) மடவளை மதினா தேசிய பாடசாலை அஷ்ரப் மண்டபத்தில் நடைபெற்றன.
+Steps have been taken to announce this through a press conference in the next few days.
+
+The President of the All Ceylon Essential Total and Retaive Trade Association said that the Kandy District Essential Total and Retaive Trade Branch Branch Branch Inauguration Meeting was the first to address the district -wide trade union branches.
+
+The Sangam inaugural meeting, which includes Sinhala, Tamil and Muslim traders of the district, was held yesterday (13) at the Madina National School Ashraf Hall.
+
+There are a variety of control prices, which are constantly in the presidency, and that if we take the country for example, the rice is 220 rupees, but traders do not get rice at that price.. Not only rice, but also the conditions for many essential commodities.
 
 ...
 
 [Data](articles/d1df21ad.json)
+
+[Extended Data](ext_articles/d1df21ad.ext.json)
 
 ---
 
@@ -611,6 +685,20 @@ The beginning of the West Indies was the result of the 67 runs in Power Play, bo
 [Data](articles/c3ef8548.json)
 
 [Extended Data](ext_articles/c3ef8548.ext.json)
+
+---
+
+### People Of Sri Lanka Need Answers To Following Questions From IMF
+
+*2024-10-16 02:32:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/people-of-sri-lanka-need-answers-to-following-questions-from-imf/) · `en`
+
+There is no doubt that theoretical understanding is crucial in making economic decisions because it provides a framework for analyzing complex economic phenomena, predicting outcomes, and helping pragmatic decision making. Hence this essay is going to submit a few questions to the IMF review team and the same questions will be submitted to the negotiating team of the government.
+
+...
+
+[Data](articles/f6da1269.json)
+
+[Extended Data](ext_articles/f6da1269.ext.json)
 
 ---
 
@@ -2247,73 +2335,5 @@ The petition has been filed through the lawyer Manjula Balasuriya and the Commis
 [Data](articles/9aad1f7a.json)
 
 [Extended Data](ext_articles/9aad1f7a.ext.json)
-
----
-
-### Sri Lanka sells extra Rs9.5bn Treasury bonds after auction
-
-*2024-10-15 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs9-5bn-treasury-bonds-after-auction-183748/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 9.5 billion rupees of bonds offered on tap at average rates set at an auction last week, data from the state debt office showed.
-
-The debt office sold a 15 March 2028 maturity bond (ISIN LKB01028C151) at a weighted average yield rate of 11.79 percent.
-
-The debt office also sold a 01 October 2032 maturity bond (ISIN LKB02032J017) at a weighted average yield rate of 12.36 percent.
-
-On Friday (11) the debt office raised 95 billion rupees from the 2028 and 2032 bonds.
-
-Date of settlement of the above issuance is 15 October 2024. (Colombo/Oct15/2024)
-
-◼️
-
-[Data](articles/409bfccf.json)
-
-[Extended Data](ext_articles/409bfccf.ext.json)
-
----
-
-### Notice on reopening schools in Western and Southern provinces
-
-*2024-10-15 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102714/notice-on-reopening-schools-in-western-and-southern-provinces) · `en`
-
-The schools in the Western and Southern provinces which had remained closed yesterday (14) and today (15) will reopen tomorrow (16), the Provincial Secretaries of the respective provinces said.
-
-Meanwhile, the Provincial Directors of Education have been authorized to decide on reopening the schools affected by floods and those used as camps for displaced persons due to prevailing adverse weather conditions.
-
-◼️
-
-[Data](articles/f2a33a9e.json)
-
-[Extended Data](ext_articles/f2a33a9e.ext.json)
-
----
-
-### Indian-Canada diplomatic crisis waiting for the world
-
-*2024-10-15 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202204) · `si`
-
-India-Canada diplomatic crisis: Separatist leader killed, 6 diplomats expelled, both countries accuse each other of involvement. Crisis escalates tensions between Commonwealth nations.
-
-🟩
-
-The diplomatic crisis between Canada and India is intensifying in the mysterious killing of the SC separatedist leader in Bigep Singhi Canada, who was considered a separatist leader in British Colombor Canada.
-
-It is reported that six diplomatic officers including the Indian High Commissioner in Canada have been deported in Canada.
-
-The Saka separatist leader was killed in June last year.
-
-The Prime Minister Justin Tourism was accused of being involved in the assassination of the Indian government.
-
-He emphasized that it is unacceptable to assassinate a Canadian national in Canada with foreign intervention.
-
-The Indian government accused of announced that 6 high-level diplomatic officers including the Indian High Commissioner in Canada targeting Indian government.
-
-Responding to this announced that India and the Sri Lanka Acting Canadian High Commissioner and six high level diplomats were deported.
-
-...
-
-[Data](articles/62225a1a.json)
-
-[Extended Data](ext_articles/62225a1a.ext.json)
 
 ---

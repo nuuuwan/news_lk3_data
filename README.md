@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 12:39:37**
+As of **2024-10-16 12:57:56**
 
 ## Newspaper Stats
 
-*Scraped **49,808** Articles*
+*Scraped **49,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,050
 dailyftlk | 3,384
-adalk | 4,630
+adalk | 4,631
 dailymirrorlk | 4,733
 adaderanalk | 5,895
 tamilmirrorlk | 6,814
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,623
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,808 (100.0%) of 49,808 articles have been extended.
+49,809 (100.0%) of 49,809 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -863,6 +863,32 @@ In equities, Colombo’s All Share Price Index was trading up 0.14 percent, or 1
 [Data](articles/1bd66d6b.json)
 
 [Extended Data](ext_articles/1bd66d6b.ext.json)
+
+---
+
+### Film filming in Indian film is the final upcountry railway station
+
+*2024-10-16 09:29:08* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-චිත්‍රපටයේ-රූගත-කිරිම-අවසන්-උඩරට-දුම්රිය-ගමනය-සාමාන්‍ය-ලෙස/11-412523) · `si`
+
+Indian film crew shoots scenes at Udaraalapitiya Railway Station. Special bus service runs between waterfalls. Film "Miralee" opens September 9th.
+
+🟩
+
+Udaralapitiya Railway Control Room (UPFA Railway Control Room) says that the Colombo Fortwa Badulla has been re-operated from today (16)..
+
+The shooting of the Upcountry railway line in the Mirallewa has commenced its filtering near the Archkuth Bridge.
+
+The Railway Control Room stated that the Railway Department has also traveled with a special luxury bus service between the falls on the falls on the falls in the falls.
+
+Sri Lanka Joint Design Miraley Movie Miraley Miraley film Falls opened the aircraft on the 9th and expanded the aircraft.
+
+The Energy Aruffu Bridge was near the Archkula Bridge to the film industry for the film industry.
+
+◼️
+
+[Data](articles/0f582593.json)
+
+[Extended Data](ext_articles/0f582593.ext.json)
 
 ---
 
@@ -2405,29 +2431,5 @@ This makes it the largest event venue in Colombo, setting a new standard for gat
 [Data](articles/651d405b.json)
 
 [Extended Data](ext_articles/651d405b.ext.json)
-
----
-
-### West Indies target 163 runs
-
-*2024-10-15 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202215) · `si`
-
-Sri Lanka wins toss, scores 162/5 in 20 overs. Dissanayake 54*, Kusal Mendis 24*. West Indies chases 163, wins match.
-
-🟩
-
-The Sri Lankan team won the toss and win the coin in the Second Twenty Twenty Twenty20 Competition between the Sri Lanka West Indies and the Sri Lanka team.
-
-Accordingly, the Sri Lanka team scored 162 runs for the loss of 5 wickets at the end of 20 overs.
-
-Dissanayake scored 54 runs, Kusal Mendis and Kusal Perera scored 24 runs.
-
-West Indies scored 163 runs for winning the match.
-
-◼️
-
-[Data](articles/3a011395.json)
-
-[Extended Data](ext_articles/3a011395.ext.json)
 
 ---

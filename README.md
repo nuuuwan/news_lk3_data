@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 10:24:06**
+As of **2024-10-16 10:39:27**
 
 ## Newspaper Stats
 
-*Scraped **49,776** Articles*
+*Scraped **49,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,99 @@ dailyftlk | 3,384
 adalk | 4,628
 dailymirrorlk | 4,733
 adaderanalk | 5,890
-tamilmirrorlk | 6,805
+tamilmirrorlk | 6,807
 virakesarilk | 7,966
-adaderanasinhalalk | 8,615
+adaderanasinhalalk | 8,616
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,776 (100.0%) of 49,776 articles have been extended.
+49,779 (100.0%) of 49,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Red notice to marines and fishermen
+
+*2024-10-16 10:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்படையினர்-மற்றும்-மீனவர்களுக்கு-சிவப்பு-அறிவிப்பு/175-345539) · `ta`
+
+Heavy rains, strong winds, and rough seas expected. Low-pressure system moving west-northwest towards Tamil Nadu and Andhra Pradesh coasts. Sea waves may reach 2.5-3.0 meters high, potentially affecting coastal areas. Fishermen and mariners advised to monitor weather updates.
+
+🟩
+
+The Meteorological Department has issued a red announcement regarding heavy rains, heavy winds and sea rage.
+
+The announcement issued today (16) at 8:00 am will be valid till 8:00 am, the department said.
+
+The Meteorological Department said that the low -lying low -lying area was still centered at around 12:00 pm in the Central Bengal Sea.
+
+It will move in the western-northwestern direction and become a low-lying zone of the northern Tamil Nadu, Puducherry and its adjoining South Andhra Pradesh coast tomorrow.
+
+As a result, strong winds are blowing in the sea, heavy rains and sea areas are very turbulent, the Meteorological Department said in a statement.
+
+In the seas from Chilaw to Colombo, Galle, Hambantota and Pottuvil, the height of the sea wave is likely to rise to 2.5-3.0 meters.
+
+As a result, sea waves from Chilaw to Colombo, Galle and Hambantota are likely to reach the land.
+
+...
+
+[Data](articles/3d68d66b.json)
+
+[Extended Data](ext_articles/3d68d66b.ext.json)
+
+---
+
+### “The cylinder will win with more votes”
+
+*2024-10-16 10:13:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வாக்குகளால்-சிலிண்டர்-வெற்றி-பெறும்/175-345538) · `ta`
+
+Ramesh Pathirana, New Democratic Front's Galle District candidate, predicts victory with increased votes. He emphasizes teamwork and strengthening voter base. Claims professional and people-friendly team will secure highest vote count in Galle district.
+
+🟩
+
+New Democratic Front's Galle District candidate Ramesh Pathirana said he was working with a strong team to win the parliamentary election.
+
+Speaking to the media in Galle, he said this was the new voting site in the last election.
+
+He also said that the group is working to strengthen the voter base and that the group is making more votes in each constituency.
+
+He said that the Galle district has fielded a strong squad for the general election and that a group of professionals and people's friendly group will win the election by the highest number of votes.
+
+◼️
+
+[Data](articles/e86e3774.json)
+
+[Extended Data](ext_articles/e86e3774.ext.json)
+
+---
+
+### Bomb on Indian plane
+
+*2024-10-16 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202228) · `si`
+
+Singapore authorities report bomb threat on Air India Express flight. Plane inspected at Changi airport, no explosives found. Another flight diverted to Canada after landing in US.
+
+🟩
+
+The authorities of Singapore said that he had taken measures to be taken into customer with a "AIR INDIA Express" a bomb was flying to Singapore.
+
+සිංගප්පුරු ආරක්ෂක අමාත්‍ය Ng Eng Hen පැවසුවේ අදාළ ගුවන්යානයේ බෝම්බයක් ඇති බවට ගුවන් සමාගමට විද්‍යුත් තැපැල් පණිවුඩයක් ලැබුණු බවයි.
+
+Accordingly, the AIR India has been instrumental with the support of the AIR India.
+
+Later, the plane was later inspected at the Changi airport and has not met any explosives.
+
+However, another flight of the airline was flying to Chicago in the United States, was landed in Canada.
+
+◼️
+
+[Data](articles/96de4529.json)
+
+[Extended Data](ext_articles/96de4529.ext.json)
+
+---
 
 ### නාවිකයින්ට සහ ධීවරයින්ට රතු නිවේදනයක්
 
@@ -2353,89 +2433,5 @@ Dissanayake stated that during this presidential election, the people had voted 
 [Data](articles/e795b3b0.json)
 
 [Extended Data](ext_articles/e795b3b0.ext.json)
-
----
-
-### Essential Needed Schemes Reach People - Letter to the President
-
-*2024-10-15 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196370) · `ta`
-
-Here's a 200-character summary:
-
-
-
-UNP President Arunachalam requests action in Badulla district. Congratulates people on his presidency. Offers cooperation for district activities. Mentions previous government's development programs. Requests continuation of essential schemes post-presidential election. Copies sent to relevant officials.
-
-🟩
-
-The President of the United National Alliance (UNP), Arunachalam, has demanded that the Badulla district be appointed to take action to take action to reach the people of Badulla district.
-
-I congratulate the people of Badulla district on the first time I am in office as the ninth executive president of the country.
-
-I would like to say that I am ready to give my perfect cooperation to all your activities as a representative of the people of the Badulla district, as the representative of the people of Badulla district.
-
-Further, under the previous government's development program, funds were made in the name of my efforts and ability to improve the basic infrastructure of the Badulla district, especially in the Badulla district.
-
-According to the Divisional Secretariats, the development programs have been suspended under their work in the wake of the agreement with many more work schemes as many of the programs have been completed.
-
-...
-
-[Data](articles/6cfd5e00.json)
-
-[Extended Data](ext_articles/6cfd5e00.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 293.30/60 to dollar, bond yields up
-
-*2024-10-15 17:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-293-30-60-to-dollar-bond-yields-up-183778/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 293.30/60 to the US dollar Tuesday from 293.50/80 a day earlier, dealers said, while bond yields were up after a treasury bill auction.
-
-The central bank sold 97,000 million rupees of Treasury bills at an auction today (15).
-
-A bond maturing on 15.12.2026 closed at 10.15/35 percent, up from 10.15/30 percent.
-
-A bond maturing on 15.12.2027 closed at 11.20/30 percent, up from 11.15/25 percent.
-
-A bonds maturing on 15.03.2028 closed at 11.50/65 percent, up from 11.40/50 percent.
-
-A bond maturing on 15.09.2029 closed at 11.75/90 percent, up from 11.55/75 percent.
-
-A bond maturing on 01.10.2032 closed at 12.20/35 percent, up from 12.15/35 percent. (Colombo/Oct15/2024)
-
-◼️
-
-[Data](articles/d2973f97.json)
-
-[Extended Data](ext_articles/d2973f97.ext.json)
-
----
-
-### 3 Excise Officers Missing
-
-*2024-10-15 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202210) · `si`
-
-Supreme Court rules 3 Excise Officers violated human rights. Arrested in 2016, accused of illegal detention. Court orders investigation and disciplinary action. Petitioners must pay 10,000 rupees each.
-
-🟩
-
-The Supreme Court today (15th) today (15) decided that three Excise Officers have violated basic human rights.
-
-It was arrested by the Ayurvedic Pediatric in Sevanagala, 2016, accusing illegally surrounded by heavyness and prison.
-
-Through this action, the relevant authorities acted in a malicious manner and were accused of misuse of power.
-
-The decision was announced by Supreme Court Judge Priyantha Fernando with the reconciliation of Dr. Kamal Bandula Weerapperuma and four of its employees.
-
-Accordingly, the OIC of Excise and the Drugs Division, OIC, OIC of Excise and Drugs Office, Nandana Perera, OIC of Excise Office, Nandana Perera, its Excise Inspector Thilak Kumara Dissanayake and Excise Regulator N.. The Supreme Court ruled that the officers of the petitioners have violated the basic human rights of the petitioners.
-
-Accordingly, Dr. Kamal Bandula Weerapperuma, who has presented the petition from the petition of Rs.
-
-...
-
-[Data](articles/80da9ae7.json)
-
-[Extended Data](ext_articles/80da9ae7.ext.json)
 
 ---

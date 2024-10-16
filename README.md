@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 12:14:08**
+As of **2024-10-16 12:25:09**
 
 ## Newspaper Stats
 
-*Scraped **49,801** Articles*
+*Scraped **49,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 4,630
 dailymirrorlk | 4,733
 adaderanalk | 5,894
 tamilmirrorlk | 6,814
-virakesarilk | 7,966
-adaderanasinhalalk | 8,622
+virakesarilk | 7,971
+adaderanasinhalalk | 8,623
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,794 (100.0%) of 49,801 articles have been extended.
+49,802 (100.0%) of 49,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Decision on SriLankan Airlines
+
+*2024-10-16 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202235) · `si`
+
+New Sri Lankan government halts sale of national airline. Restructuring planned to boost profitability. Bids called for management but no eligible buyers found. Airlines records profit April 2022-March 2023. Tourism industry crucial, 50% tourists use airline. Government aims to increase tourist arrivals to 2.3 million by 2030.
+
+🟩
+
+TTG Asia website reports that the new government of Sri Lanka has taken measures to leave the plan to sell SriLankan Airlines.
+
+It is said that Mr. Ganegoda said that the institution would be restructured to make it a profitable airline.
+
+The government has called bids for purchase and manage the SriLankan Airlines for many years.
+
+Under the plan, the remaining 49% of the remainders were due to be investors in the 51% of the airline sections under the government.
+
+Although six parties had informed their will, but no one was eligible for the next step in that method.
+
+Meanwhile, SriLankan Airlines also recorded operating profit for the period from April 2022 to March 2023.
+
+Ganegoda has said that SriLankan Airlines is one of the most important factors to develop tourism industry.
+
+About 50% of Sri Lankan tourists come by using SriLankan Airlines.
+
+Sri Lanka will increase the number of tourists 2.3 million to Rs. 2030.
+
+◼️
+
+[Data](articles/f4de4118.json)
+
+[Extended Data](ext_articles/f4de4118.ext.json)
+
+---
 
 ### Injunction issued preventing Upul Tharanga’s arrest
 
@@ -121,6 +155,62 @@ The respondents are sentenced to the alternative penalties, the Magistrate said 
 [Data](articles/168eed01.json)
 
 [Extended Data](ext_articles/168eed01.ext.json)
+
+---
+
+### Don't go to sea until tomorrow!
+
+*2024-10-16 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/196422) · `ta`
+
+Marine warning: Avoid sea travel due to low pressure system moving west-northwest. Strong winds, heavy rains expected. Sea waves may reach land in coastal areas.
+
+🟩
+
+The Department of Meteorology has announced that the Marines and fishermen should not go to the sea, as the low-lying low-lying area in the southeastern Bengal Sea is likely to move in the western-northwestern direction.
+
+Navy and fishermen do not go to sea areas. The announcement, which was released today (16) at 8:00 am, will be valid tomorrow (17) and 8:00 am.
+
+மத்திய வங்கக் கடலில் நேற்று (15) மதியம் 12:00 மணியளவில் குறைந்த காற்றழுத்த தாழ்வு பகுதி இன்னும் மையம் கொண்டுள்ளது.
+
+It will move in the western-northwestern direction and become a low-lying zone of the northern Tamil Nadu, Puducherry and its adjoining South Andhra Pradesh coast tomorrow.
+
+As a result, strong winds are blowing in the sea, heavy rains and the sea areas are very turbulent.
+
+The height of the sea wave in the seas from Chilaw to Colombo, Galle, Hambantota and Pottuvil is likely to rise to 2.5-3.0 meters.
+
+As a result, the sea waves from Chilaw to Colombo, Galle and Hambantota are likely to reach the land.
+
+...
+
+[Data](articles/77cae75a.json)
+
+[Extended Data](ext_articles/77cae75a.ext.json)
+
+---
+
+### இலங்கையின் ஜனாதிபதி தேர்தல்ஜனநாயகத்திற்கான சிறந்த முன்னுதாரணம்- ஜப்பான் தூதுவர்
+
+*2024-10-16 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196421) · `ta`
+
+Sri Lanka's president election praised by Japan envoy. He commends peaceful democratic transition and encourages political leaders' commitment to democratic principles. Ambassador highlights confidence in democracy, anti-corruption efforts, international cooperation, and regime reforms as priorities for the new government.
+
+🟩
+
+இலங்கையின் ஜனாதிபதி தேர்தல் ஜனநாயகத்திற்கான முன்னுதாரணம் என இலங்கைக்கான ஜப்பானிய தூதுவர் மிசுகோசி ஹிடேகி பாராட்டியுள்ளார்.
+
+He said the country's recent presidential election has expressed the dedication of the country for peaceful democratic power.
+
+ஜனநாயக கொள்கைகளிற்கு ஊக்கமளிக்கும் அர்ப்பணிப்பிற்காக இலங்கையின் அரசியல்வாதிகள் பொதுமக்களிற்கு ஜப்பான் தூதுவர் தனது பாராட்டுகளை தெரிவித்துள்ளார்.
+
+The recent presidential election is a truthful encouragement that the people and politicians have expressed in a peaceful power change, Japan Ambassador has said that you have created confidence in democracy.
+
+இலங்கையின் புதிய தலைவர்களுடனான எனது பேச்சுவார்த்தைகள் நம்பிக்கை அளிப்பவையாக காணப்பட்டன,ஆட்சிமுறை சீர்திருத்தம்,ஊழல் எதிர்ப்பு நடவடிக்கைகள்,அனைவரையும் உள்ளடக்கிய அபிவிருத்தி சர்வதேச ஒத்துழைப்பிற்கான தங்கள் அர்ப்பணிப்பை அவர்கள் வலியுறுத்தினார்கள் என  அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/6f7ce9e1.json)
+
+[Extended Data](ext_articles/6f7ce9e1.ext.json)
 
 ---
 
@@ -288,19 +378,27 @@ It is noteworthy that the national people's power has announced that it will not
 
 *2024-10-16 11:09:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்களுக்கு-எச்சரிக்கை-ஜனாதிபதி/175-345543) · `ta`
 
-அரச வீடுகளை எதிர்வரும் 30ஆம் திகதிக்கு முன்னர் கையளிக்காவிட்டால் வழக்கு தாக்கல் செய்யவுள்ளதாக, முன்னாள் அமைச்சர்கள் மற்றும் இராஜாங்க அமைச்சர்களுக்கு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+Former ministers warned: Handover state houses by 30th or face legal action. Only 11 out of 40 houses in Colombo 7 handed over so far. Government focuses on cost reduction for official residences.
+
+🟩
+
+Former ministers and diplomatic ministers have been warned that the case will be filed if the state houses are not handed over before the 30th.
 
 இது தொடர்பில் நீதி, பொதுநிர்வாக, உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் தொழிலாளர் அமைச்சின் செயலாளர் நேற்று கடிதம் அனுப்பியுள்ளார்.
 
-அரசாங்க வீடுகளை உடனடியாக கையளிக்குமாறு முன்னாள் அமைச்சர்கள் மற்றும் இராஜாங்க அமைச்சர்களுக்கு பல நினைவூட்டல்கள் வழங்கப்பட்ட போதிலும், நேற்று வரை 11 பேரே வீடுகளை கையளித்துள்ளதாக தெரிவிக்கப்படுகிறது.
+Former ministers and diplomatic ministers have been given a reminder to immediately hand over government houses, but only 11 people have been handed over to the houses.
 
-முன்னாள் அமைச்சர்களுக்கு அரசாங்க வீடுகளை வழங்குவதில் பெரும் பின்னடைவு ஏற்பட்டுள்ளதாக அமைச்சு தெரிவித்துள்ளது.
+The Ministry said that the provision of government houses to former ministers has been a major setback.
 
-கொழும்பு 7 பகுதியில் முன்னாள் அமைச்சர்கள் மற்றும் இராஜாங்க அமைச்சர்களுக்கு வழங்கப்பட்ட வீடுகளின் எண்ணிக்கை 40 ஆகும். இதனால் இதுவரை ஒப்படைக்கப்படாத வீடுகளின் எண்ணிக்கை 29 ஆகும்.
+The number of houses provided to former ministers and diplomatic ministers in Colombo 7 is 40. The number of houses that has not yet been handed over is 29.
 
-...
+At the same time, the government has focused on the implementation of all issues and implementing the new program to reduce the costs in providing official dwellings to ministers.
+
+◼️
 
 [Data](articles/9d67e9eb.json)
+
+[Extended Data](ext_articles/9d67e9eb.ext.json)
 
 ---
 
@@ -308,37 +406,73 @@ It is noteworthy that the national people's power has announced that it will not
 
 *2024-10-16 11:09:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-பெற்ற-அதிகாரி-கைது/175-345542) · `ta`
 
-கிழக்கு மாகாணத்தில் மாகாண வருமானத் திணைக்கள பிரதி ஆணையாளர் ஒருவர் ரூ. 200,000 இலஞ்சம் பெற்ற குற்றச்சாட்டின் பேரில் கைது செய்யப்பட்டுள்ளார்.
+Deputy Commissioner arrested for bribery in Eastern Province. Allegations of corruption involving 200,000 bribe. Inquiry committee formed to investigate allegations. Land valued at Rs. 26.5 million, tax and fines of 850,000 imposed. Deputy Commissioner's fee reduced from 600,000 to 200,000.
+
+🟩
+
+Deputy Commissioner of Income Department in the Eastern Province. 200,000 இலஞ்சம் பெற்ற குற்றச்சாட்டின் பேரில் கைது செய்யப்பட்டுள்ளார்.
 
 பிரதேசவாசி ஒருவரின் முறைப்பாட்டுக்கு அமைய மட்டக்களப்பு அலுவலகத்தில் வைத்து சந்தேக நபர் கைது செய்யப்பட்டதாக இலஞ்ச ஊழல் பற்றிய சாத்துதல்களை விசாரணை செய்யும் ஆணைக்குழு தெரிவித்துள்ளது.
 
-ஆணைக்குழுவின் பிரகாரம், முறைப்பாட்டாளர் மட்டக்களப்பில் 10 மில்லியன் ரூபாய் பெறுமதியுள்ள 65 பேர்ச் காணியை, ஏற்கனவே ரூ. 600,000 முத்திரை வரி செலுத்தி வாங்கியுள்ளார்.
+ஆணைக்குழுவின் பிரகாரம், முறைப்பாட்டாளர் மட்டக்களப்பில் 10 மில்லியன் ரூபாய் பெறுமதியுள்ள 65 பேர்ச் காணியை, ஏற்கனவே ரூ. He has bought a 600,000 stamp tax.
 
-எவ்வாறாயினும், மாகாண வருவாய் திணைக்களத்தினால் காணியின் பெறுமதி மீள் மதிப்பீடு செய்யப்பட்ட பின்னர் அதன் பெறுமதி  ரூ. 26.5 மில்லியன்எனவும் , முறைப்பாட்டாளர் மேலும் ரூ. 850,000 வரி மற்றும் அபராதம் செலுத்த வேண்டும் எனவும் தெரிவிக்கப்பட்டுள்ளார்.
+However, the value of the land by the Provincial Revenue Department has been re -evaluated at Rs.. 26.5 மில்லியன்எனவும் , முறைப்பாட்டாளர் மேலும் ரூ. He has also been asked to pay a tax and fines of 850,000.
 
-பிரதி ஆணையாளர் குறித்த கட்டணத்தை லஞ்சத்திற்கு ஈடாக ரூ. 200,000. ஆக குறைக்க முன்வந்ததாக கூறப்படுகிறது.
+The fee of the Deputy Commissioner is Rs. Rs.. ௨௦௦,௦௦௦. ஆக குறைக்க முன்வந்ததாக கூறப்படுகிறது.
 
 ◼️
 
 [Data](articles/de46ecfa.json)
 
+[Extended Data](ext_articles/de46ecfa.ext.json)
+
 ---
 
-### පාස්කු වාර්තා දෙක ප්‍රසිද්ධ කරන්න ගම්මන්පිල ආණ්ඩුවෙන් ප්‍රතිඥාවක් ඉල්ලයි
+### The government granted 3 days deadline to Udaya Kammanpila
+
+*2024-10-16 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196415) · `ta`
+
+Government gives 3-day deadline to Udaya Kammanpila to hand over investigation reports. Kammanpila urges government to reveal reports within 7 days. Cabinet says properly investigating Sunday attacks. Kammanpila accused of hiding reports. Government warns him to hand over documents within 3 days.
+
+🟩
+
+உயிர்த்த ஞாயிறு தாக்குதல்கள் தொடர்பான இமாம் மற்றும் அல்விஸ் விசாரணைக்குழு அறிக்கைகள் கிடைக்கப்பெற்ற பின்னரும் அவற்றை வெளிப்படுத்தாமல் மறைத்து வைத்திருப்பது குற்றமாகும். Therefore, the government has given a 3 -day deadline to former parliamentarian Udaya Kammanpila to hand over them to the relevant party.
+
+Parliamentarian Udaya Kammanpila has urged the government to reveal reports submitted by retired judges Imam and Alwis within 7 days on the lifeblood attacks.
+
+Cabinet spokesman Vijitha Herath made this statement at a press conference announcing the Cabinet decisions on Tuesday (15).
+
+அரசாங்கம் என்ற ரீதியில் நாம் பொறுப்புணர்வுடனேயே செயற்படுகின்றோம். We are properly carrying out investigations into the Sunday attacks. எவ்வாறிருப்பினும் முன்னாள் பாராளுமன்ற உறுப்பினர் உதய கம்மன்பிலவிடம் இது குறித்த ஏதேனும் அறிக்கைகள் காணப்பட்டால் அதனை அவர் உடனடியாக வெளிப்படுத்த வேண்டும்.
+
+...
+
+[Data](articles/23c92fe1.json)
+
+[Extended Data](ext_articles/23c92fe1.ext.json)
+
+---
+
+### Gammanpila asks the government to publish the two Easter reports
 
 *2024-10-16 11:06:09* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-වාර්තා-දෙක-ප්‍රසිද්ධ-කරන්න-ගම්මන්පිල-ආණ්ඩුවෙන්-ප්‍රතිඥාවක්-ඉල්ලයි/11-412525) · `si`
+
+Gammanpila urges government to publish Easter reports. Minister Vijitha Herath refuses to promise publication after receiving reports. Gammanpila threatens legal action if reports not published.
+
+🟩
 
 තමා සතු පාස්කු වාර්තා දෙක ලබා දුන් පසු ප්‍රසිද්ධ කරන බවට විජිත හේරත් ඇමතිවරයා හෝ ආණ්ඩුව ප්‍රතිඥාවක් නොදෙන්නේ නම් එම වාර්තා කිසිදු හේතුවක් මත ආණ්ඩුවට භාර දීමට තමා සූදානම් නොමැති බව පිවිතුරු හෙළඋරුමයේ නායක උදය ගම්මන්පිල මහතා පැවසීය.
 
 අද(16දා) කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා මේ බව සඳහන් කළේය.
 
-“විජිත හේරත් ඇමතිතුමා මේ වාර්තාව මට භාර දෙන්න කියලා කිව්වට මේ වාර්තාව මම භාර දුන් පසු මේ වාර්තාව ප්‍රසිද්ධ කරන බවට කිසිම පොරොන්දුවක් නෑ. මා සතුව තිබෙන වාර්තාවත් ආණ්ඩුවට දුන්නට පස්සේ ආණ්ඩුව මේ වාර්තාව ප්‍රසිද්ධ නොකර සිටියොත් මොකක්ද අපි කරන්නේ ? මේ වාර්තා දෙක ලැබුණු වහාම ප්‍රසිද්ධ කරන බවට විජිත හේරත් ඇමතිතුමා හෝ ජනාධිපතිතුමා විසින් ප්‍රතිඥාවක් දෙනතුරු කිසිම හේතුවක් මත මා සතු වාර්තාව ආණ්ඩුව භාර දෙන්න මම සූදානම් නෑ.
+"Minister Vijitha Herath to hand over this report to me, there is no promise to publish this report after I handed over this report. මා සතුව තිබෙන වාර්තාවත් ආණ්ඩුවට දුන්නට පස්සේ ආණ්ඩුව මේ වාර්තාව ප්‍රසිද්ධ නොකර සිටියොත් මොකක්ද අපි කරන්නේ ? මේ වාර්තා දෙක ලැබුණු වහාම ප්‍රසිද්ධ කරන බවට විජිත හේරත් ඇමතිතුමා හෝ ජනාධිපතිතුමා විසින් ප්‍රතිඥාවක් දෙනතුරු කිසිම හේතුවක් මත මා සතු වාර්තාව ආණ්ඩුව භාර දෙන්න මම සූදානම් නෑ.
 
-අපි විජිත හේරත් ඇමතිතුමාට කියන්න ඕනී මෙය බරපතල අපරාධයක් කියලා අපිව බියපත් කරලා මේ වාර්තා ප්‍රසිද්ධ කිරීම නතර කරන්න බෑ. ගරු ඇමතිතුමනි යකාට භය නැති නිසා තමයි අපි සොහොනේ ගෙවල් හදාගෙන ඉන්නේ. ”
+We want to tell Minister Vijitha Herath and stop publishing these reports that this is a serious crime. ගරු ඇමතිතුමනි යකාට භය නැති නිසා තමයි අපි සොහොනේ ගෙවල් හදාගෙන ඉන්නේ. ”
 
 ◼️
 
 [Data](articles/959c3018.json)
+
+[Extended Data](ext_articles/959c3018.ext.json)
 
 ---
 
@@ -383,6 +517,30 @@ Property records show the four-bedroom, three-bathroom, and three-carport proper
 [Data](articles/1c132097.json)
 
 [Extended Data](ext_articles/1c132097.ext.json)
+
+---
+
+### Risk of spreading infections by flooding - Public Health Inspectors Association
+
+*2024-10-16 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196411) · `ta`
+
+Floods increase infection risk: diarrhea, mouse infestations, germs. Public urged to clean food thoroughly before eating.
+
+🟩
+
+The Public Health Inspectors Association said that the floods caused by heavy rains in the country are at risk of spreading infections.
+
+Public Health Inspector Chandun Ratnayake has said that if there are symptoms such as diarrhea, mice and germ infections, they will soon be treated.
+
+He added that it is essential for the public living in flood -affected areas.
+
+Meanwhile, the foods that eat these days should be made clean, fresh and hot.
+
+◼️
+
+[Data](articles/0015b470.json)
+
+[Extended Data](ext_articles/0015b470.ext.json)
 
 ---
 
@@ -609,6 +767,26 @@ The Kalutara District Disaster Management Division Office said that the sea has 
 [Data](articles/fcffc834.json)
 
 [Extended Data](ext_articles/fcffc834.ext.json)
+
+---
+
+### 2 இலட்சம் ரூபா இலஞ்சம் பெற்ற இறைவரி திணைக்கள அதிகாரி கைது
+
+*2024-10-16 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196408) · `ta`
+
+மட்டக்களப்பில் காணி தொடர்பாக இரண்டு இலட்சம் ரூபா இலஞ்சம் பெற்ற உள்நாட்டு இறைவரி திணைக்களத்தில் கடமையாற்றும் உத்தியோகத்தர் ஒருவர் செவ்வாய்க்கிழமை (15) கல்லடி பகுதியில் வைத்து இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவினால் கைது செய்யப்பட்டுள்ளார்.
+
+காத்தான்குடி பிரதேசத்தைச் சோந்த ஒருவர் காணி ஒன்றை கொள்வனவு செய்தமைக்கான வரி தொடர்பாக 2 இலட்சம் ரூபா பணத்தை இலஞ்சமாக குறித்த அதிகாரி கோரியுள்ளார்.
+
+இதனையடுத்து காணி கொள்வனவு செய்தவர் கொழும்பிலுள்ள இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவிற்கு முறைப்பாடு செய்ததையடுத்து அவர்களின் ஆலோசனைக்கமைய சம்பவதினமான நேற்றைய தினம் பகல் கல்லடியிலுள்ள உள்நாட்டு இறைவரி திணைக்களப் பகுதியில் மாறு வேடத்தில் கொழும்பில் இருந்து வந்த இலஞ்ச ஊழல் ஒழிப்பு பிரிவினர் கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்தனர்.
+
+இதன்போது காரியாலயத்துக்கு வெளியில் வைத்து அதிகாரி  2 இலட்சம் ரூபாவை இலஞ்சமாக பெற்றுக் கொண்டபோது அங்கு மாறுவேடத்தில் இருந்த இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழு அவரை கைது செய்தனர்.
+
+இதில் கைது செய்யப்பட்டவர் அநுராதபுரத்தைச் சோந்தவர் எனவும் இலஞ்ச  ஊழல் ஒழிப்பு பிரிவினரது ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/17bdfe1a.json)
 
 ---
 
@@ -2229,177 +2407,5 @@ The government now has “clear and compelling evidence that agents of the gover
 [Data](articles/f9079700.json)
 
 [Extended Data](ext_articles/f9079700.ext.json)
-
----
-
-### Heavy rain falls from today
-
-*2024-10-15 20:00:03* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැස්ස-අද-සිට-අඩුවෙයි/11-412519) · `si`
-
-Heavy rain forecasted for southwest island, thundershowers expected in northern regions. Strong winds and rough seas predicted. Public advised to take precautions against lightning and flooding.
-
-🟩
-
-The Met Department forecasts heavy showers in the southwest part of the island.
-
-Showers or thundershowers will occur at times in the Northern and Trincomalee District today (16) and several places in the district, mm. Shooting heavy showers more than 50.
-
-Several spells of showers in the Western, Sabaragamuwa and North Western provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Thundershowers will develop at several places in the evening or night in the evening or night in the rest of the island.
-
-The public is requested to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-Winds are widely in the sea areas around the island, and the speed of the wind is running.. Is about 30-40.
-
-Winds from Galle to Matara via Matara via the coast extending. It is likely to increase to 60-65. Winds from the sea areas. May increase to 50.
-
-The sea areas off the coast extending from Galle to Matara can be very rough, and the rest of the sea can be rough at times.
-
-...
-
-[Data](articles/129df92a.json)
-
-[Extended Data](ext_articles/129df92a.ext.json)
-
----
-
-### Two children arrested on suspicion
-
-*2024-10-15 19:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202214) · `si`
-
-Two children arrested for watchman murder at Pepiliyana children's home. Police investigation ongoing.
-
-🟩
-
-Two children have been arrested by the police regarding the assassination of a watchman who was protected by a children's home.
-
-The victim was arrested in a childhood home in Pepiliyana, two and two boys.
-
-There are residents of the children of the Children's Home and Judiciary in Pepiliyana.
-
-There is a manager and a major administrator for its administration and was the watchman, named Sikku Hewage Dias.
-
-The premises have joined the premises and children and children who were not in the children's home this morning.
-
-The three-wheeler owner had lodged a complaint with a three-wheeler owner who had stolen a house near the children of the children.
-
-Accordingly, the police officers questioned the child's boss at around 4.30 this morning.
-
-It was in such a backdrop that the body of the guard's body was nearing the well of the Children's Home.
-
-The 17 year old suspect and a 16-year boy have been arrested by the police.
-
-...
-
-[Data](articles/401eb352.json)
-
-[Extended Data](ext_articles/401eb352.ext.json)
-
----
-
-### Request for President Nimal Lansa
-
-*2024-10-15 19:55:26* · [`adalk`](https://www.ada.lk/breaking_news/නිමල්-ලන්සා-ජනපතිගෙන්--කළ-ඉල්ලීම/11-412518) · `si`
-
-Here's a 200-character summary:
-
-
-
-Anura Kumara Dissanayake criticizes lack of investigation into Easter attacks under previous governments. Calls for new leadership to address Catholic Church concerns and promote youth representation in politics.
-
-🟩
-
-Anura Kumara Dissanayake has asked the President as the Catholic Church is not accepted by the Catholic Church regarding the Easter attack.
-
-Speaking at a press conference held at the political office in Wellawa, Wellawatiya yesterday, the former MP said, MP said.
-
-"On that way that the Catholics should be fulfilled on the Passover attack. The Easter attack took place during the time of the good governance government. Good governance is charged with the fact that there was no formal investigation in this regard. There is a accusation that Gotabhaya and Ranil was not a proper investigation in time. The government of Ranil Wickremesinghe was charged.
-
-All the Govt Aandu Passover attack was investigated. The Catholic Church is not happy in this regard. Not satisfied. ඒ නිසා තමා කතෝලික ජනතාව මෙවර මැතිවරණයේදී සියලුම නායකත්වයන් පරාජයට පත් කරලා අලුත් නායකත්වයක් ගේන්න කටයුතු කළේ. කතෝලික ජනතාව හා කතෝලික සභාව බලාපොරොත්තු වෙන්නේ අනුර කුමාර දිසානායක ජනාධිපති තුමාගෙන්  සාධාරණත්වය හා යුක්තියයි .
-
-...
-
-[Data](articles/6b6c9a2f.json)
-
-[Extended Data](ext_articles/6b6c9a2f.ext.json)
-
----
-
-### Amendments to Food Policy Committee
-
-*2024-10-15 19:49:10* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර-ප්‍රතිපත්ති-කමිටුව-සංශෝධනය-කරයි/11-412517) · `si`
-
-Here's a 200-character summary:
-
-
-
-Cabinet approves amendments to Food Policy Committee. New members: Finance, Agriculture, Justice, Trade, Environment. Aim: Control costs, ensure commodity availability.
-
-🟩
-
-Cabinet approval has been given to amend the composition of the Food Policy Committee Officers.
-
-Established as a coordinating approach to the market without any lack of essential commodities and the cost of living as possible to control the cost of the market without food, and the cost of living as possible.The Cabinet has been approved by the Cabinet of the President to re-establish the following officers.
-
-* Secretary, Finance, Economic Development - Policy, Planning, Tourism and Tourism,
-
-Secretary, Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources
-
-Secretary to the Secretary, Ministry of Justice, Government-Administration, Home Affairs, Provincial Councils, Local Government and Labor
-
-Secretary, Trade, Commerce, Food Security, Co-operative Development, Industry Entrepreneurship Development
-
-Officers appointed as Secretary, Environment, Wildlife - Forest Resources, Water Supply Inflamed Community Infrastructure.
-
-◼️
-
-[Data](articles/bd775356.json)
-
-[Extended Data](ext_articles/bd775356.ext.json)
-
----
-
-### A proposal to purchase a loan management software system
-
-*2024-10-15 19:45:17* · [`adalk`](https://www.ada.lk/breaking_news/ණය-කළමනාකරණ-මෘදුකාංග-පද්ධතියක්-මිලදී-ගැනීමට-යෝජනාවක්/11-412516) · `si`
-
-Sri Lanka cabinet approves loan management software purchase under Public Debt Management Act. Commonwealth Meridian software chosen for debt management. UN Trade Development Organization's DMFAS alternative considered. Software cost approved by Finance Ministry.
-
-🟩
-
-Cabinet has approved the purchase of a loan management software system required to manage public debts in Sri Lanka.
-
-According to the Public Debt Management Act No. 33, No. 33, a Public Debt Management Office should be held in a suitable and accurate data and information on public debt, as well as the provisions of Section 23 of the Act.
-
-The Commonwealth Meridian software or the United Nations Trade and Development of the Commonwealth Secretariat, the DMFAS software provided by the United Nations Trade and the Organization (UN) is essential.
-
-Accordingly, the cost of the Commonwealth Secretariat and the Commonwealth Meridian Software, which is easy to maintain data transmission, and the integrity of the Cabinet of Data transmission.The Cabinet approved the proposal made by the Finance, Economic Development Policy, Planning and Tourism and Tourism and Tourism and Tourism and Tourism and Tourism and Tourism.
-
-◼️
-
-[Data](articles/bf9376a9.json)
-
-[Extended Data](ext_articles/bf9376a9.ext.json)
-
----
-
-### Hill rail services impact
-
-*2024-10-15 19:37:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலைய-ரயில்-சேவைகள்-பாதிப்பு/175-345513) · `ta`
-
-Train derailment causes temporary service disruption between Talawakelle and Vattakoda.
-
-🟩
-
-The Railway Department has announced that a train has been derailed on the railway line between Talawakelle and Vattakoda.
-
-The Railway Department has announced that the railway services have been temporarily blocked. Remble
-
-◼️
-
-[Data](articles/c6aa30a5.json)
-
-[Extended Data](ext_articles/c6aa30a5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 08:02:55**
+As of **2024-10-16 08:24:04**
 
 ## Newspaper Stats
 
-*Scraped **49,754** Articles*
+*Scraped **49,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,047
 dailyftlk | 3,384
-adalk | 4,624
+adalk | 4,625
 dailymirrorlk | 4,733
 adaderanalk | 5,884
 tamilmirrorlk | 6,800
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,610
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,740 (100.0%) of 49,754 articles have been extended.
+49,740 (100.0%) of 49,755 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1143,6 +1143,22 @@ The 17 year old suspect and a 16-year boy have been arrested by the police.
 [Data](articles/401eb352.json)
 
 [Extended Data](ext_articles/401eb352.ext.json)
+
+---
+
+### නිමල් ලන්සා ජනපතිගෙන්  කළ ඉල්ලීම
+
+*2024-10-15 19:55:26* · [`adalk`](https://www.ada.lk/breaking_news/නිමල්-ලන්සා-ජනපතිගෙන්--කළ-ඉල්ලීම/11-412518) · `si`
+
+පාස්කු ප්‍රහාරය සම්බන්ධයෙන් මෙතෙක් පැවති සියලු පරීක්ෂණ කතෝලික සභාව පිළිනොගන්නා බැවින් පිළිගත හැකි යුක්තිසහගත පරීක්ෂණයක් පවත්වා කතෝලික ජනාතවට සාධාරණය ඉටු කරන්නැයි අනුර කුමාර දිසානායක ජනාධිපති වරයාගෙන් ඉල්ලා සිටින බව හිටපු පාර්ලිමේන්තු මන්ත්‍රී නිමල් ලාංසා මහතා පැවසීය.
+
+මීගමුව, වැල්ලවීදියේ දේශපාලන කාර්යාලයේදී අද (15දා) පැවති මාධ්‍ය හමුවකදී  නිමල් ලාන්සා මහතා මෙම අදහස් ප්‍රකාශ කළේය.මෙහිදී තවදුරටත් අදහස් පළ කළ හිටපු මන්ත්‍රීවරයා මෙසේද කීය.
+
+“පාස්කු ප්‍රහාරය සම්බන්ධයෙන් කතෝලික ජනතාවට සාධාරණයක් ඉටුවිය යුතු කියන මතයේ එදා පටන් හිටියා. පාස්කු ප්‍රහාරය සිදු වුණේ යහපාලන ආණ්ඩුව කාලයේ. ඒ සම්බන්ධයෙන් විධිමත් පරීක්ෂණයක් වුණේ නැහැ කියන එක ගැන යහපාලන ආණ්ඩුවට චෝදනාවක් එල්ල වෙනවා. ගෝඨාභය හා රනිල් පාලන කාලවලදීත් විධිමත් පරීක්ෂණයක් වුණේ නැහැ කියලා චෝදනාවක් එල්ල වෙනවා. රනිල් වික්‍රමසිංහ මහතාගේ ආණ්ඩුවටත් එම චෝදනාව එල්ල වුණා.
+
+...
+
+[Data](articles/6b6c9a2f.json)
 
 ---
 
@@ -2299,25 +2315,5 @@ Responding to this announced that India and the Sri Lanka Acting Canadian High C
 [Data](articles/62225a1a.json)
 
 [Extended Data](ext_articles/62225a1a.ext.json)
-
----
-
-### Govt. forms special committee to manage fuel prices amid Middle East tensions
-
-*2024-10-15 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102713/govt-forms-special-committee-to-manage-fuel-prices-amid-middle-east-tensions) · `en`
-
-The government has appointed a special committee to assess and manage potential increases in oil prices in response to the ongoing conflict in the Middle East.
-
-Cabinet Spokesperson Minister Vijitha Herath stated the decision comes as a proactive approach by the government to mitigate the impact of rising oil prices in the local market.
-
-He explained that the committee is currently reviewing recommendations based on an observation report submitted by the Ceylon Petroleum Corporation (CPC).
-
-“With the escalating conflict situation in the Middle East, there is a significant risk of oil prices increasing. The Ceylon Petroleum Corporation has already provided an observation report on the matter. This newly formed committee will actively intervene and develop strategies to control oil prices [in Sri Lanka] in the event of such a scenario,” Minister Herath stated.
-
-◼️
-
-[Data](articles/b762aff4.json)
-
-[Extended Data](ext_articles/b762aff4.ext.json)
 
 ---

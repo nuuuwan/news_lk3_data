@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 11:11:22**
+As of **2024-10-16 11:23:22**
 
 ## Newspaper Stats
 
-*Scraped **49,780** Articles*
+*Scraped **49,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 3,047
 dailyftlk | 3,384
 adalk | 4,628
 dailymirrorlk | 4,733
-adaderanalk | 5,890
+adaderanalk | 5,892
 tamilmirrorlk | 6,808
 virakesarilk | 7,966
-adaderanasinhalalk | 8,616
+adaderanasinhalalk | 8,618
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,780 (100.0%) of 49,780 articles have been extended.
+49,780 (100.0%) of 49,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### US gives Israel 30 days to boost Gaza aid or risk cut to military support
+
+*2024-10-16 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102728/us-gives-israel-30-days-to-boost-gaza-aid-or-risk-cut-to-military-support) · `en`
+
+The US has written to Israel, giving it 30 days to boost humanitarian aid access in Gaza or risk having some US military assistance cut off.
+
+The letter, sent on Sunday, amounts to the strongest known written warning from the US to its ally and comes amid a new Israeli offensive in northern Gaza that has reportedly caused a large number of civilian casualties.
+
+It says the US has deep concerns about the deteriorating humanitarian situation, adding that Israel denied or impeded nearly 90% of humanitarian movements between the north and south last month.
+
+Israel is reviewing the letter, an Israeli official was reported as saying, adding the country “takes this matter seriously” and intends to “address the concerns raised” with US counterparts.
+
+Israel has previously said it is targeting Hamas operatives in the north and not stopping the entry of humanitarian aid.
+
+...
+
+[Data](articles/89073578.json)
+
+---
+
+### Australia PM faces backlash over new A$4.3m beach pad
+
+*2024-10-16 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102727/australia-pm-faces-backlash-over-new-a43m-beach-pad) · `en`
+
+Australian Prime Minister Anthony Albanese is under fire after buying a multi-million-dollar cliff-top home amid a national housing crisis.
+
+Albanese made the purchase months out from an election in which the cost of living and housing are key issues.
+
+The move has sparked backlash from across the political divide - with his opponents calling it “tone deaf” and some within his own party anonymously telling local media it left them “gobsmacked”.
+
+Albanese defended his decision, saying he “knows what it is like to struggle” but bought the luxury property to be close to his fiancee Jodie Haydon’s family on the New South Wales Central Coast.
+
+Property records show the four-bedroom, three-bathroom, and three-carport property in Copacabana - which has panoramic views - was sold for A$4.3m ($2.9m, £2.2m) last month, but the purchase is yet to settle.
+
+...
+
+[Data](articles/1c132097.json)
+
+---
+
+### අල්ලස් ගත් නියෝජ්‍ය කොමසාරිස්වරයෙක්ට වැඩවරදී
+
+*2024-10-16 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202230) · `si`
+
+රුපියල් ලක්ෂ දෙකක මුදලක් අල්ලස් වශයෙන් ලබාගත් නැගෙනහිර පළාත් ආදායම් දෙපාර්තමේන්තුවේ නියෝජ්‍ය කොමසාරිස්වරයෙකු අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම කොමිසම සඳහන් කළේ, මඩකලපුව, චෙන්කලාඩි ප්‍රදේශයේ පදිංචිකරුවෙකු විසින් සිදුකළ පැමිණිලක්කට අනුව එම වැටලීම සිදුකළ බවය.
+
+මඩකලපුව සතුරුකොන්ඩාල් ප්‍රදේශයේ පර්චස් 65ක ඉඩමක් රුපියල් කෝටියකට මිලදී ගැනීමෙන් පසු එහි මුද්දර ගාස්තු වශයෙන් රුපියල් ලක්ෂ 6ක් ගෙවූ පසු එහි තක්සේරු වටිනාකම රුපියල් කෝටි දෙකයි ලක්ෂ 65 ක් බව යළිත් පළාත් ආදායම් කාර්යාලය මඟින් දන්වා තිබේ.
+
+ඒ අනුව, දඩ මුදලක් සමඟ රජයේ ගාස්තුව රුපියල් 850,000ක් ගෙවිය යුතු බව පවසා එම මුදල ලක්ෂ දෙකක් දක්වා අඩු කිරීම සඳහා ලක්ෂ දෙකක මුදලක් අල්ලස් වශයෙන් ඉල්ලා ඇති බව සඳහන්ය.
+
+අදාළ මුදල මඩකලපුව නැගෙනහිර පළාත් ආදායම් දෙපාර්තමේන්තුවේ කාර්යාලයේදී ලබාගන්නා අවස්ථාවේදී එම නියෝජ්‍ය කොමසාරිස්වරයා අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම සැකකරු මඩකලපුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පැවසීය.
+
+◼️
+
+[Data](articles/446a8954.json)
+
+---
 
 ### In the second place in the world
 
@@ -49,6 +111,24 @@ Tourist references are found in many departments, including food, beverages and 
 [Data](articles/69f0cade.json)
 
 [Extended Data](ext_articles/69f0cade.ext.json)
+
+---
+
+### ඝාතන සැකකරුවන් 5ක් අත්අඩංගුවට
+
+*2024-10-16 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202229) · `si`
+
+ජාඇළ, ඒකල ප්‍රදේශයේ දී පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සැකකරුවන් පස් දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, ඒකල ප්‍රදේශයේ මාර්ගයක ගමන් කරමින් සිටි පුද්ගලයෙකුට තියුණු ආයුධවලින් පහරදී එම ඝාතනය සිදුකර ඇති බවය.
+
+ඝාතනය සිදුකළ සැකකරු සහ ඒ සඳහා ආධාර අනුබල දුන් සිව්දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර ඒ සඳහා යොදාගත් මන්නා පිහි දෙකක් සහ මුගුරු කිහිපයක් පොලිස් භාරයට ගෙන තිබේ.
+
+අත්අඩංගුවට ගෙන ඇත්තේ 22,33,45,48 හා 65 යන වයස් සීමාවල පසුවන ජාඇළ ප්‍රදේශයේ පදිංචි කරුවන් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/ddeba344.json)
 
 ---
 
@@ -2331,109 +2411,5 @@ Hulangamuwa is also advisor to Sri Lanka’s President Anura Dissanayake. (Colom
 [Data](articles/3f3e7d7c.json)
 
 [Extended Data](ext_articles/3f3e7d7c.ext.json)
-
----
-
-### The building engineer kills the top floor of the house
-
-*2024-10-15 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196375) · `ta`
-
-Building engineer dies after falling 25 feet while repairing roof in two-storey house. Father of two, aged 41, from Bogahawila, Pannipitiya. Incident occurred while fixing leaks.
-
-🟩
-
-Homagama headquarters police said that a building engineer died after falling down the floor of a house in Hiripitiya, Hiripitiya, Pannipitiya.
-
-The father of two children, aged 41, from Bogahawila, Pannipitiya, Hiripitiya, has died.
-
-In his two -storey house, he fell down from twenty -five feet and was injured while he was repairing the roof plates in the water leaked areas.
-
-In this case, a neighbor woman who saw the building engineer lying down told the wife of the building engineer.
-
-Subsequently, the doctors said he had already died when the injured was taken to the Homagama Resource Hospital.
-
-◼️
-
-[Data](articles/cf5ce610.json)
-
-[Extended Data](ext_articles/cf5ce610.ext.json)
-
----
-
-### Pricing limitations have been released
-
-*2024-10-15 17:50:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலை-வரம்புகள்-வெளியானது/175-345510) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Pricing restrictions announced: Prices effective from Oct 14 to 20."
-
-🟩
-
-These prices have been released from October 14 to 20.
-
-◼️
-
-[Data](articles/24885813.json)
-
-[Extended Data](ext_articles/24885813.ext.json)
-
----
-
-### Cooperate to hold a general election
-
-*2024-10-15 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196374) · `ta`
-
-Saman Sri Ratnayake appeals for media cooperation in upcoming general election on Nov 14. Election control and nominations ended on Friday. Candidates from political parties and independents began campaigning nationwide. The Elections Commissioner urges media to provide full cooperation throughout the election process, including campaign coverage. He reminds media of their responsibility to ensure fair reporting and avoid biased behavior seen in past elections.
-
-🟩
-
-Elections Commissioner Saman Sri Ratnayake has appealed to all the media to provide the full cooperation of the election to be held on the 14th of November, which will be held on the 14th of November and the election to be held on the 14th of November.
-
-Control and nomination for the general election ended with noon last Friday.
-
-Subsequently, in the upcoming general election, the candidates who represent political parties and independently have begun their election campaign nationwide.
-
-Against this backdrop, the Commissioner General of Elections Saman Sri Ratnayake appealed to the Elections Commission in the Colombo Elections Commission on Tuesday (15) to give full cooperation to the entire election process, including election propaganda.
-
-Elections Commission Chairman RMAL Ratnayake, Members of the Commission, MAPC Perera, Amir Boise, Anusuya Shanmuganathan, Professor Lakshman Dissanayake and Elections Commissioner Saman Sri RatnayakeWere attending.
-
-...
-
-[Data](articles/ac8e3841.json)
-
-[Extended Data](ext_articles/ac8e3841.ext.json)
-
----
-
-### Indian High Commissioner calls for new attitude in Indian relations
-
-*2024-10-15 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/196378) · `ta`
-
-Indian High Commissioner Santos Ja calls for new mindset in bilateral relations. Emphasizes strong partnerships and shared destiny between Sri Lanka and India. Urges cooperation to grow together and prosper, stressing unity against division.
-
-🟩
-
-Indian High Commissioner to Sri Lanka Santos Ja has requested that the mindset be changed to achieve the common goals of the past.
-
-He emphasized the need for strong partnerships between Sri Lanka and India and pointed out that the fate of the two countries is intertwined.
-
-He was speaking at the event of the Chartered Association in Colombo.
-
-In his speech, the Indian High Commissioner pointed out the shared and the future of the two countries.
-
-We need to grow together and prosper.
-
-He said that we are irreparable and indispensable.
-
-The Indian High Commissioner said that any effort to create divisions would be a hurt of shared aspirations of both countries and the future.
-
-◼️
-
-[Data](articles/2f12154d.json)
-
-[Extended Data](ext_articles/2f12154d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 09:13:45**
+As of **2024-10-16 09:25:00**
 
 ## Newspaper Stats
 
-*Scraped **49,766** Articles*
+*Scraped **49,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,384
 adalk | 4,626
 dailymirrorlk | 4,733
 adaderanalk | 5,886
-tamilmirrorlk | 6,802
+tamilmirrorlk | 6,803
 virakesarilk | 7,966
 adaderanasinhalalk | 8,614
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,614
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,756 (100.0%) of 49,766 articles have been extended.
+49,759 (100.0%) of 49,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Optional digits can be obtained today
+
+*2024-10-16 08:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருப்ப-இலக்கங்களை-இன்று-பெறலாம்/175-345535) · `ta`
+
+Election Commission: Optional digits available today at District Secretariats. Minimum campaign spending limit to be published in Gazette. Meeting between Ministry Secretaries and corporations to discuss election order implementation.
+
+🟩
+
+The Election Commission said that the optional digits of candidates related to parliamentary elections can be obtained in the respective District Secretariats today.
+
+The Commissioner General of the Elections Commission, Saman Sri Ratnayake said the optional list of candidates of all districts.
+
+He also said that the minimum amount of money that can be spent on a candidate in the general election will be released in the Gazette.
+
+Meanwhile, a discussion will be held today between the Secretaries of the Ministries and all the corporations to provide instructions on the implementation of the general election orders.. Remble
+
+◼️
+
+[Data](articles/4d37d181.json)
+
+[Extended Data](ext_articles/4d37d181.ext.json)
+
+---
 
 ### Far from Lasantha, Eknaligoda and Thajudeen
 
@@ -906,17 +930,87 @@ At the same time, 10,361 people from 2,433 families have been evacuated from the
 
 ---
 
-### අලුතින් පත්වන ආණ්ඩුවට ඇති  අභියෝග සහ විසඳුම් සෙවීමට ඇති ගැටලු මොනවාද?
+### What are the problems that the newly appointed government have to find solutions?
 
 *2024-10-16 01:30:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgd09gjx8yo) · `si`
 
-අලුතින් පත්වන ආණ්ඩුවට ඇති  අභියෝග සහ විසඳුම් සෙවීමට ඇති ගැටලු මොනවාද?
+Here's a summary of the key issues facing Sri Lanka's newly appointed government:
 
-2024 මහ මැතිවරණය ශ්‍රී ලංකා ඉතිහාසයේ විශේෂිත වූ මැතිවරණයකි. ඡන්ද විමසීම පැවැත්වීමටත් පෙර නවක මුහුණු රැසක් මෙවර පාර්ලිමේන්තුව නියෝජනය කරනු ඇතැයි යන්න අවිවාදිත කාරණයක් බවට පත්ව තිබේ.
+
+
+1. Economic challenges:
+
+   - High debt-to-GDP ratio (1039%)
+
+   - Need to address economic instability and attract IMF support
+
+
+
+2. Security concerns:
+
+   - Rising crime rates and gang violence
+
+   - Ongoing investigations into terrorist attacks
+
+
+
+3. Healthcare reform:
+
+   - Shortage of medical supplies and substandard drugs
+
+   - Rebuilding public trust in healthcare system
+
+
+
+4. Education system improvements:
+
+   - Addressing exam paper leaks and delays
+
+   - Implementing reforms to prevent future disruptions
+
+
+
+5. Infrastructure development:
+
+   - Improving road safety and traffic management
+
+   - Enhancing disaster relief capabilities
+
+
+
+6. Corruption and transparency:
+
+   - Recovering assets illegally transferred abroad
+
+   - Strengthening anti-corruption measures
+
+
+
+7. Social welfare:
+
+   - Addressing rising living costs and poverty
+
+   - Supporting vulnerable populations
+
+
+
+8. National unity:
+
+   - Healing divisions caused by civil war and ethnic tensions
+
+
+
+These challenges require immediate attention and coordinated efforts from the new government to address Sri Lanka's pressing issues.
+
+🟩
+
+What are the problems that the newly appointed government have to find solutions?
+
+2024 මහ මැතිවරණය ශ්‍රී ලංකා ඉතිහාසයේ විශේෂිත වූ මැතිවරණයකි. It is undoubtedly undisputed that many new faces will represent the Parliament this year before the election.
 
 මීට හේතුව සාම්ප්‍රදායික සහ පවුල් බලය පැවති ජ්‍යෙෂ්ඨ දේශපාලනඥයින් රැසක් මැතිවරණයට පෙර ස්වයං විශ්‍රාම ගැනීමට තීරණය කිරීම ය. පසුගිය පාර්ලිමේන්තුව නියෝජනය කළ මන්ත්‍රීවරුන් 50කට අධික පිරිසක් මෙවර මහ මැතිවරණයට තරග නොකිරීමට තීරණය කර තිබේ.
 
-යුද්ධය, ත්‍රස්තවාදය පරාජය කිරීම, අන්තවාදය පරජය කිරීම, ජාතික ආරක්ෂාව,  ආර්ථිකය හා සංවර්ධනය සහ සහනාධාර යන මාතෘක කලක පටන්  මෙරට මැතිවරණ වේදිකාවල ප්‍රධාන තේමා බවට පත්විය.
+The war, defeat terrorism, polling, became the main themes of electoral platforms since the election of terrorism, national security, economy and development and subsidies.
 
 නමුත් 2024 මහ මැතිවරණයේදී එම මාතෘකාවලට කිසිදු වටිනාකමක් ඇති අයුරු දක්නට නොලැබේ.
 
@@ -925,6 +1019,8 @@ At the same time, 10,361 people from 2,433 families have been evacuated from the
 ...
 
 [Data](articles/7b4cbd0e.json)
+
+[Extended Data](ext_articles/7b4cbd0e.ext.json)
 
 ---
 
@@ -1045,6 +1141,8 @@ Sri Lanka’s strategic location in the Indian Ocean among major air routes conn
 ...
 
 [Data](articles/3d16976d.json)
+
+[Extended Data](ext_articles/3d16976d.ext.json)
 
 ---
 
@@ -2331,33 +2429,5 @@ Meanwhile, the department mentioned that very strong winds of around 60 -70 kmph
 [Data](articles/8f2f97f3.json)
 
 [Extended Data](ext_articles/8f2f97f3.ext.json)
-
----
-
-### Request of Presidential Employees
-
-*2024-10-15 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202207) · `si`
-
-President Anura Kumara Dissanayake emphasizes creating an efficient public service to benefit citizens. He calls for transparency in government operations and warns against fraud and corruption. The president also prioritizes energy sector projects, urging swift implementation over the next three years.
-
-🟩
-
-President Anura Kumara Dissanayake says that he is essential to create an effective and efficient public service to satisfy the citizenship and to take every step to take every step.
-
-He was speaking at the progress review discussion held at the Ministry of Energy today (15th).
-
-The President believes that the fraud and waste behind the brethren of the country's economy, the President insists that the masses have spread throughout the state's body, and the public servants committed to fulfill their responsibility properlyAsked as.
-
-And the President said that the wealth should be saved as a form of property and there is no justified right to fraud or rape.
-
-President Anura Kumara Dissanayake says that he is appearing for all the people who are working in the duties within the duties, and not to do what should be done.
-
-The President said that projects to achieve the goals of the energy sector within the next three years should be formal and expedited.
-
-◼️
-
-[Data](articles/a9583ba6.json)
-
-[Extended Data](ext_articles/a9583ba6.ext.json)
 
 ---

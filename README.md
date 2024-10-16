@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 06:09:13**
+As of **2024-10-16 06:44:38**
 
 ## Newspaper Stats
 
-*Scraped **49,727** Articles*
+*Scraped **49,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,119 @@ newsfirstlk | 363
 dbsjeyarajcom | 401
 colombotelegraphcom | 494
 bbccomsinhala | 499
-islandlk | 2,942
+islandlk | 2,949
 economynextcom | 3,047
-dailyftlk | 3,370
+dailyftlk | 3,375
 adalk | 4,624
 dailymirrorlk | 4,733
 adaderanalk | 5,884
 tamilmirrorlk | 6,799
-virakesarilk | 7,963
+virakesarilk | 7,965
 adaderanasinhalalk | 8,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,727 (100.0%) of 49,727 articles have been extended.
+49,732 (100.0%) of 49,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### President reminds State officials’ responsibility to protect public wealth
+
+*2024-10-16 06:02:27* · [`dailyftlk`](https://www.ft.lk/news/President-reminds-State-officials-responsibility-to-protect-public-wealth/56-768019) · `en`
+
+President Anura Kumara Dissanayake yesterday called on the State officials to protect public wealth similar to religious property, insisting that no one has a legitimate right to subject that wealth to fraud or corruption.
+
+“I will stand by every action taken in the public’s interest within the boundaries of official duty and will not hesitate to take necessary action if improper acts are committed,” he said, during a progress review meeting of the Power and Energy Ministry yesterday.
+
+Stating that the commitment of the current public servants is essential to create an efficient and effective public service that satisfies the citizens, the President said he is ready to take every step necessary to achieve this.
+
+“Public servants must act with responsibility and accountability to fulfil the structure, goals and expectations of people’s mandate,” he said.
+
+...
+
+[Data](articles/4b1f5ad1.json)
+
+[Extended Data](ext_articles/4b1f5ad1.ext.json)
+
+---
+
+### Viruliya Sevana, ex-female armed forces veterans celebrate 10th anniversary
+
+*2024-10-16 06:01:26* · [`dailyftlk`](https://www.ft.lk/news/Viruliya-Sevana-ex-female-armed-forces-veterans-celebrate-10thanniversary/56-768018) · `en`
+
+Viruliya Sevana, an organisation of ex-female veterans from the Army, Navy, and Air Force, is proudly celebrating its 10th anniversary with the telecast of an inspiring documentary film titled Aapasu Haren in conjunction with International Children’s Day.
+
+This impactful film, centred on a child-focused theme, thoughtfully explores the evolving values in modern society and the unique challenges faced by today’s younger generation. The story culminates in an empowering message, encouraging adult viewers to seek solutions within themselves, fostering a safer and more nurturing environment for our children.
+
+The documentary beautifully embodies Viruliya Sevana’s guiding motto, “Yaha Guna Dam Veduma Uthum” meaning “Fostering positive qualities is invaluable” and features a talented cast of children of retired military women.
+
+...
+
+[Data](articles/ce4067fe.json)
+
+[Extended Data](ext_articles/ce4067fe.ext.json)
+
+---
+
+### Pathfinder Foundation and Sharif University host webinar on Iran - Sri Lanka relations
+
+*2024-10-16 06:01:09* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundation-and-Sharif-University-host-webinar-on-Iran-Sri-Lanka-relations/56-768017) · `en`
+
+The Hafez Centre for Cultural Understanding (HCCU) of the Pathfinder Foundation and the Governance and Policy Think Tank (GPTT) of Sharif University in Iran recently held their inaugural webinar on the theme ‘Iran-Sri Lanka Relations: Ties of the Past, Pointers to the Future.’
+
+...
+
+[Data](articles/9d230ab4.json)
+
+[Extended Data](ext_articles/9d230ab4.ext.json)
+
+---
+
+### Govt. justifies decision to expedite seven high-profile cases
+
+*2024-10-16 05:58:53* · [`dailyftlk`](https://www.ft.lk/news/Govt-justifies-decision-to-expedite-seven-high-profile-cases/56-768016) · `en`
+
+Cabinet Spokesman and Minister Vijitha Herath pledges thorough investigations into all past crimes
+
+The Government yesterday reaffirmed its commitment to investigate all past crimes and prosecute those responsible, whilst clarifying the decision to select seven high-profile cases that have been prioritised for expedited review.
+
+Addressing the media at the weekly post-Cabinet meeting briefing yesterday Cabinet Spokesman and Minister Vijitha Herath assured that the Government would not limit its inquiries to these cases alone, but would pursue justice for all reported, yet stalled crimes, including economic offences, murders and disappearances.
+
+The seven cases prioritised include the Central Bank Bond scam, the Easter Sunday terror attacks, the kidnapping and murder of journalist D.P. Sivaram, the disappearance of Lalith Kumar and Kugan Muruganadan, Vice Chancellor Sivasubramaniam Raveendranath, the murder of businessman Dinesh Schaffter and the shooting outside the W15 hotel in Weligama.
+
+...
+
+[Data](articles/f2c8291f.json)
+
+[Extended Data](ext_articles/f2c8291f.ext.json)
+
+---
+
+### Gammanpila ready to meet Vijitha’s challenge over Easter Sunday reports
+
+*2024-10-16 05:57:37* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-ready-to-meet-Vijitha-s-challenge-over-Easter-Sunday-reports/56-768015) · `en`
+
+Minister Vijitha Herath gives Udaya Gammanpila three days to hand over Easter Sunday committee reports he claims to be in possession
+
+Raises concerns on how Gammanpila obtained the reports and legal implications of withholding such crucial information
+
+Udaya Gammanpila says he will hold a special press conference to address challenge today
+
+Sarvajana Balaya Colombo District candidate Udaya Gammanpila yesterday said he is ready to accept Cabinet Spokesman Minister Vijitha Herath’s challenge to produce two reports that Gammanpila claims to possess, related to the investigations into the 2019 Easter Sunday terror attacks.
+
+Gammanpila announced that he would respond to the challenge at a special press conference today.
+
+...
+
+[Data](articles/36fe5243.json)
+
+[Extended Data](ext_articles/36fe5243.ext.json)
+
+---
 
 ### Govt. to present Vote-on-Account amid election constraints
 
@@ -100,6 +194,22 @@ Several years ago, I was at what was perhaps the inaugural meeting that launched
 
 ---
 
+### தெற்கின் அலையில் சிக்கிவிடாது இனத்தின் இருப்பை உறுதிசெய்வோம் - மயூரன்
+
+*2024-10-16 04:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196399) · `ta`
+
+தெற்கின் மாற்றம் என்ற வரையறைக்குள் தமிழ்மக்களின் தேவைகளை அடகுவைக்காமல் தமிழ்த்தேசிய இனத்தின் இருப்பை மனதில் நிறுத்தி வாக்களிக்குமாறு முன்னாள் வடக்குமாகாணசபை உறுப்பினரும் ஜனநாயக தமிழ்த்தேசியக் கூட்டமைப்பின் வன்னிமாவட்ட வேட்பாளருமான செந்தில்நாதன் மயூரன் தெரிவித்தார்.
+
+தெற்கில் இன்று அரசியல் மாற்றம் ஒன்று உருவாகியுள்ளது. அந்த மக்கள் மாற்றம் ஒன்றின் அவசியத்தை உணர்ந்து அநுரவை ஆட்சியில் அமர்த்தியுள்ளனர். வடகிழக்கிலும் அவ்வாறான ஒரு மாற்றம் வரவேண்டும் என்று பலரும் சிந்திக்கின்றார்கள். அந்த மாற்றத்திற்குள் பலவிடயங்கள் இருக்கிறது.
+
+நாடு பொருளாதார சிக்கல்களுக்கு முகம் கொடுத்து ஊழல்வாதிகளால் சூறையாடப்பட்டுள்ளது. அந்தவகையில் நாட்டில் ஒரு புதிய யுகத்தினை ஏற்படுத்துவதற்காகச் சிங்கள மக்கள் ஒன்றிணைந்துள்ளனர். அதனை நாம் வரவேற்கின்றோம். அதற்கான பங்களிப்புக்களை வழங்குவதற்கு நாங்களும் தயாராக இருக்கிறோம்.
+
+...
+
+[Data](articles/72b352a7.json)
+
+---
+
 ### ECSL to take legal action against three Presidential candidates
 
 *2024-10-16 04:10:06* · [`dailyftlk`](https://www.ft.lk/news/ECSL-to-take-legal-action-against-three-Presidential-candidates/56-768006) · `en`
@@ -157,6 +267,24 @@ According to the seniority list of special grade officers within the Sri Lanka S
 [Data](articles/4349e6ec.json)
 
 [Extended Data](ext_articles/4349e6ec.ext.json)
+
+---
+
+### கட்டுப்பாட்டு விலைக்கு அரிசியை விற்க முடியா விட்டால் அரிசி விற்பனையை புறக்கணிக்க அகில இலங்கை அத்தியாவசிய மொத்த மற்றும் சில்லறை வியாபாரிகளினது சங்கம் நடவடிக்கை
+
+*2024-10-16 04:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196398) · `ta`
+
+நாட்டு மக்களின் நலன்கருதி அரிசியை கட்டுப்பாட்டு விலைக்கு விற்பனை செய்யும் நடவடிக்கைகளை மேற்கொள்ள அகில இலங்கை அத்தியாவசிய மொத்த மற்றும் சில்லறை வியாபாரிகளினது சங்கம் நடவடிக்கை எடுத்துவருவதாகவும் இவ்வாறு கட்டுப்பாட்டு விலைக்கு அரிசியை விற்க முடியா விட்டால்  அரிசிவிற்பனை யை புறக் கணிக்க சங்கம் நடவடிக்கை எடுத்துள்ளது.
+
+மேலும் இது தொடர்பில் இன்னும் சில தினங்களில் சங்கம் ஊடக சந்திப்பின் மூலம் இதனை அறிவிப்பு செய்யவும் நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+அகில இலங்கை அத்தியாவசிய மொத்த மற்றும் சில்லறை வியாபாரிகளினது சங்கம், மாவட்ட ரீதியாக வர்த்தக சங்க  கிளைகளை உருவாக்கும் திட்டத்தின் கீழ்   முதலாவதாகக்   கண்டி மாவட்ட  அத்தியாவசிய  மொத்த மற்றும் சில்லறை வியாபாரிகளினது சங்க  கிளை அங்குரார்ப்பண கூட்டத்தில் கலந்து கொண்டு உரையாற்றுகையில் அதன் தலைவர் டபிள்யூ  எம் நாஜிம்   மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+மாவட்டத்தின் சிங்கள, தமிழ், முஸ்லீம் வர்த்தகர்களை  உள்ளடக்கிய சங்க அங்குரார்ப்பண கூட்டம்  நேற்று முன்தினம் (13) மடவளை மதினா தேசிய பாடசாலை அஷ்ரப் மண்டபத்தில் நடைபெற்றன.
+
+...
+
+[Data](articles/d1df21ad.json)
 
 ---
 
@@ -391,6 +519,38 @@ The West Indies team was able to score only 89 runs in 16 overs due to the great
 [Data](articles/4a595e22.json)
 
 [Extended Data](ext_articles/4a595e22.ext.json)
+
+---
+
+### Forward plans to transform Sri Lanka into a global aviation and logistics hub
+
+*2024-10-15 22:35:00* · [`islandlk`](http://island.lk/forward-plans-to-transform-sri-lanka-into-a-global-aviation-and-logistics-hub/) · `en`
+
+Harischandra Gunaratna of The Island Financial Review speaks to Andre Fernando, Managing Director of MAC Holdings (PRIVATE) LTD
+
+Sri Lanka’s strategic location in the Indian Ocean among major air routes connecting Asia, Europe, Africa and the Middle East, offers a unique opportunity to transform the island into a thriving aviation hub. With the right investments and policy changes, Sri Lanka can leverage its geographical advantage to bolster tourism, facilitate international cargo & passenger transportation, and serve as a key transit point for passengers and goods. This vision not only promises to boost the nation’s economy but also has the potential to redefine its position on the global aviation map. Perfect example is the growth of 4 prominent airlines; Emirates, Fly Dubai, Air Arabia and Etihad and their importance to the economy of UAE, which was a desert in the mid-1990s.
+
+...
+
+[Data](articles/3d16976d.json)
+
+---
+
+### JKH Rights Issue oversubscription pointing to new investors’ rising confidence in the blue chip
+
+*2024-10-15 22:32:00* · [`islandlk`](http://island.lk/jkh-rights-issue-oversubscription-pointing-to-new-investors-rising-confidence-in-the-blue-chip/) · `en`
+
+The Rights Issue to raise Rs. 24 billion by top blue chip JKH has drawn a demand worth Rs. 27.4 billion, market analysts said.
+
+JKH’s 1 for 10 Rights Issue amounted to 150.26 million shares at Rs. 160 each with a total value of Rs. 24.04 billion. JKH also announced a sub-division of shares 1 into 10 post-Rights.
+
+When the issue closed last week, the level of subscription of the Rights Issue, including the applications received for additional shares, was for 171.4 million shares worth Rs. 27.4 billion.
+
+Analysts said the oversubscription reaffirms existing shareholders and new investors’ confidence in the top blue chip’s future upside. JKH has over 14,000 shareholders. JKH’s share price has been on the rise in recent weeks as well. Last week, it rose by Rs. 10.75 to close at Rs. 197 after peaking to Rs. 199. Over 6.88 million JKH shares traded for Rs. 1.36 billion. In the previous week, the JKH share price rose by Rs. 13.50.
+
+...
+
+[Data](articles/5e186be4.json)
 
 ---
 
@@ -2283,229 +2443,5 @@ Three more people were injured and admitted to the Ragama Hospital who tried to 
 [Data](articles/65e7555d.json)
 
 [Extended Data](ext_articles/65e7555d.ext.json)
-
----
-
-### Special Statement on Ranil on 17th
-
-*2024-10-15 14:12:04* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපත්-රනිල්ගෙන්-17-වැනිදා-විශේෂ-ප්‍රකාශයක්/11-412504) · `si`
-
-Ranil Wickremesinghe to make special statement on 18th, first public address post-election.
-
-🟩
-
-Former President Ranil Wickremesinghe is due to make a special statement on the next day.
-
-This is the first time Ranil Wickremesinghe will make a public statement after the presidential election.
-
-◼️
-
-[Data](articles/879da1cb.json)
-
-[Extended Data](ext_articles/879da1cb.ext.json)
-
----
-
-### Civil engineer dies after falling from roof
-
-*2024-10-15 14:01:40* · [`adalk`](https://www.ada.lk/breaking_news/සිවිල්-ඉංජිනේරුවරයා-වහලයෙන්-වැටී-මරුට/11-412503) · `si`
-
-Civil engineer dies after falling from roof during roofing work. Identified as 35-year-old Tennakoon Mudiyanselage Dhanushka Rukshan Rajapakse. Incident occurred in Pannipitiya. Police investigating cause of death.
-
-🟩
-
-A Mechanical Civil Engineer has died in a tenth-five feet tall to the ground in a two-folded place to install a roofing plate on the prevailing rainfall.
-
-The deceased has been identified as Tennakoon Mudiyanselage Dhanushka Rukshan Rajapakse, a 35/18 / C, a 35 year old father of Dhanushka Rukshan Rajapakse, Pannipitiya, Pannipitiya.
-
-The man's wife rose a roofing plate on a half and a half and a half and routine, rotating to the roof, to the ground, to the ground, and two feet of homes in a tenth stalls and two feet of homes while hearing it.Has caused accidents.
-
-This is the opening of a woman's adjacent house in the adjacent house, who has been opened and taken to the adjoining house in the adjoining house, and he has taken over the adjoining house, but he has taken the dead and said that he had died.
-
-The Emergency Death Inspector Purachchi Udaya Kumara was conducted and the remains of the remains were conducted and the remains of the remains were carried out by a location investigation.
-
-...
-
-[Data](articles/a6ffff1c.json)
-
-[Extended Data](ext_articles/a6ffff1c.ext.json)
-
----
-
-### Paravoothi ​​accident in Ginigathena
-
-*2024-10-15 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196327) · `ta`
-
-Accident summary: Cement truck crash blocks Ginigathena road for 5 hours, affecting schoolchildren, workers, and public. Police divert traffic via alternative routes.
-
-🟩
-
-Ginigathena police said that the traffic of the road was blocked for five hours as a massive container carrying cement near the Ginigathena Hospital on the Athon Avissawella road crashed.
-
-The traffic of the road was completely blocked due to some wheels of the back of the Paravurthy.
-
-Due to this, school children, public and private institution employees and the public were greatly affected. Ginigathena police have taken steps to carry out transport through alternative roads instead of a banned road.
-
-◼️
-
-[Data](articles/77f84fad.json)
-
-[Extended Data](ext_articles/77f84fad.ext.json)
-
----
-
-### Sri Lanka to provide diesel, kerosene subsidies for fisheries ahead of polls
-
-*2024-10-15 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-provide-diesel-kerosene-subsidies-for-fisheries-ahead-of-polls-183713/) · `en`
-
-ECONOMYNEXT – The cabinet of ministers of Sri Lanka’s transition minority government has approved diesel and kerosene subsidies for the fisheries sector ahead of the general election in a month.
-
-The proposal to provide 25 rupees per litre of diesel upto a 300,000 litres a month, and 25 rupees per litre of kerosene upto 15 litres a day and 25 days a month, Minister Vijitha Herath told reporters.
-
-The fuel subsidy was first proposed by the previous government, but halted by the election commission due to the presidential election, as it would unfairly sway voters.
-
-But the Election Commission had approved this proposal Herath said.
-
-Sri Lanka revised its fuel prices down on the 1st of this month as per its monthly pricing formula.
-
-Whenever price revisions are made for diesel and kerosene, the maximum concession price for diesel would be 250 rupees and for kerosene 150 rupees, subject to a maximum six month period, Herath said.
-
-...
-
-[Data](articles/f14ab9f1.json)
-
-[Extended Data](ext_articles/f14ab9f1.ext.json)
-
----
-
-### Oil prices of the Middle East war - a special decision from the government
-
-*2024-10-15 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202200) · `si`
-
-Government forms committee to monitor oil prices amid Middle East conflict. Committee tasked with controlling fuel costs if prices rise. Monthly fuel fees for vans and buses to be reviewed. School transport fares may be reduced.
-
-🟩
-
-The government has appointed a special committee to look into the price control of prices if oil prices go up with the current state of the Middle East.
-
-Addressing the cabinet spokesman, Minister Vijitha Herath, joining the Cabinet Decision informed today (15), the committee is being made based on a surveillance report.
-
-There is a risk of rising oil prices with the state of the Middle East. Appointment of the Petroleum Corporation (Petroleum Corporation) has been issued. The committee had decided to control how oil would be controlled by the same if it was intervened. "
-
-Meanwhile, the monthly fuel charge revision of the monthly fuel fee revision has also decided to make a decision on vans and buses, Minister Vijitha Herath.
-
-"The government reduced fuel prices, but the bus fare was reduced in a certain amount, but not reduced school transport charges. As a result, the committee was recommended within two weeks to reduce the prices of schoolchildren, to reduce the prices of schoolchildren. "
-
-◼️
-
-[Data](articles/f477f841.json)
-
-[Extended Data](ext_articles/f477f841.ext.json)
-
----
-
-### Recommendation for Cabinet about brown sugar, big onions and eggs
-
-*2024-10-15 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202199) · `si`
-
-Here's a 200-character summary:
-
-
-
-Cabinet discusses brown sugar sales, onion pricing, and egg production issues. Recommends reports on reserve management and import tax adjustments. Aims to control costs and stabilize markets. Replaces key officials across ministries.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath says that the Food Policy Committee recently had several decisions.
-
-Cabinet Spokesperson Vijitha Herath, who has commented on these verdals,
-
-"It is one of the most difficult to sell brown sugar. The market conditions and the reserves had to be taken to take a report on the reserves and the process of selling it soon. "
-
-"Next, the majority of big onions are currently under the big onions, they have not been able to sell them at reasonable prices. Accordingly, the Import Tax. The CIF is 145 to import an import tax. Doing so will be sold as Rs.. As such, the committee was recommended to submit a report immediately. How to control this and provide the onion at a concessionary price. Despite the imposition of the government, the imported costs, the market is sold at the market. There's a problem there must be solved immediately. The committee had to give recommendations to intervene in this regard. "
-
-...
-
-[Data](articles/085bc103.json)
-
-[Extended Data](ext_articles/085bc103.ext.json)
-
----
-
-### Ex-President Ranil to deliver special statement
-
-*2024-10-15 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102710/ex-president-ranil-to-deliver-special-statement) · `en`
-
-The Leader of the United National Party (UNP), former President Ranil Wickremesinghe has announced that he will make a special statement to the public on Thursday (17).
-
-This will be the first time that Wickremesinghe makes a public statement following the 2024 Presidential Election.
-
-It is reported that the former President will reveal ‘the political behavior of the country’ and his future plans in this special statement.
-
-Immediately after the General Election was announced, Wickremesinghe declared that he will neither contest the election, nor expect to enter Parliament through the National List.
-
-However, all political parties that supported former President Ranil Wickremesinghe at the recent Presidential Election are to contest the upcoming General Election under the New Democratic Front (NDF), with the ‘Gas Cylinder’ as their symbol.
-
-Former President Wickremesinghe had also contested the presidential election under the symbol of the ‘Gas Cylinder’, albeit as an independent candidate.
-
-◼️
-
-[Data](articles/f8f05a85.json)
-
-[Extended Data](ext_articles/f8f05a85.ext.json)
-
----
-
-### Special statement from Ranil
-
-*2024-10-15 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202198) · `si`
-
-Ranil Wickremesinghe, former UNP president, to make special statement on 17th. First public address post-presidential election. To discuss political situation and future plans. Declines participation in next election and Gas Cylinder controversy.
-
-🟩
-
-Former President of the UNP, Ranil Wickremesinghe is scheduled to make a special statement on Thursday (17).
-
-This is the first time Ranil Wickremesinghe makes a public statement since the presidential election.
-
-Ranil Wickremesinghe is due to be revealed in the country's political behavior as well as the future plans.
-
-Wickremesinghe has decided not to contest the next election as well as the Gas Cylinder of the Gas Cylinder.
-
-◼️
-
-[Data](articles/2d99224f.json)
-
-[Extended Data](ext_articles/2d99224f.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-10-15 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202197) · `si`
-
-Red alert: Heavy rain, strong winds, rough seas expected. Low-pressure system moving westward, affecting coastal areas. Shipping and fishing communities advised to exercise caution.
-
-🟩
-
-The Department of Meteorology has issued a red announcement on heavy rain, strong winds and the sea.
-
-Accordingly, the Bay of South Bay of Bengal has been told more careful.
-
-The lower pressure zone in the southeast Bay Bay of Bay of Bay of Bengal Bay of West has been placed in the mid-Bengal Bay of Baying Zealand today (15).
-
-It is likely to be a pressure recession in the next 2 days and heading the West in the sea will move to North Western, heading towards North Western, Puducheri and adjoining South Andhra Pradesh.
-
-Very strong winds (81 and 90 of) northern latitude. 60-70), there may be heavy rain and sea areas can be very rough.
-
-Shipping and fishing communities will be informed of the maritime of the maritime area in the following map.
-
-The Department of Meteorological Department also requests the fisheries and the naval community to pay attention to the future notices released.
-
-◼️
-
-[Data](articles/3f77c369.json)
-
-[Extended Data](ext_articles/3f77c369.ext.json)
 
 ---

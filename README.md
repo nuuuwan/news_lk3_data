@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 09:58:43**
+As of **2024-10-16 10:24:06**
 
 ## Newspaper Stats
 
-*Scraped **49,772** Articles*
+*Scraped **49,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,98 @@ economynextcom | 3,047
 dailyftlk | 3,384
 adalk | 4,628
 dailymirrorlk | 4,733
-adaderanalk | 5,889
-tamilmirrorlk | 6,803
+adaderanalk | 5,890
+tamilmirrorlk | 6,805
 virakesarilk | 7,966
-adaderanasinhalalk | 8,614
+adaderanasinhalalk | 8,615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,772 (100.0%) of 49,772 articles have been extended.
+49,776 (100.0%) of 49,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### නාවිකයින්ට සහ ධීවරයින්ට රතු නිවේදනයක්
+
+*2024-10-16 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202227) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Red alert for sailors and fishermen: Heavy rain, strong winds, rough seas. Low pressure system moving west-southwest, may hit northern Tamil Nadu, Puducherry, southern Andhra Pradesh coast tomorrow. Strong winds up to 60-70 km/h, heavy rain possible. Coastal areas may experience rough seas up to 2.5-3 meters high. Department of Meteorology advises fishermen to stay alert for future announcements.
+
+🟩
+
+තද වැසි, තද සුළං සහ මුහුද රළුවීම පිළිබඳ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කර තිබේ.
+
+The announcement issued at 8 am today (17) will be found to be found tomorrow (17).
+
+මධ්‍යම බෙංගාල බොක්ක ප්‍රදේශයේ පැවති අඩු පීඩන කලාපය, ඊයේ (15) දින ප.ව. 11.30 වන විටත් 11.8N සහ 84.0E ආසන්නයේ කේන්ද්‍රගත වී පැවති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+එය බටහිරට බරව-වයඹ දිශාවට ගමන් කරමින්, පීඩන අවපාතයක් ලෙස වර්ධනය වී හෙට දින උතුරු තමිල්නාඩු, පුදුචෙරි සහ ආසන්න දකුණු ආන්ද්‍රා ප්‍රදේශ වෙරළ වෙත ළඟා වනු ඇත.
+
+ඒ හේතුවෙන් උතුරු අක්ෂාංශ 07ත් 16ත් සහ නැගෙනහිර දේශාංශ 81 සහ 90 ත් අතර මුහුදු ප්‍රදේශවල ඉතා තද සුළං‍ පැ.කි.මී. 60-70, සමඟින් තද වැසි පැවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනය දැක්වේ.
+
+හලාවත සිට කොළඹ, ගාල්ල, හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 – 3.0ක් පමණ ඉහළ යාමේ හැකියාවක් පවතී.
+
+...
+
+[Data](articles/8ccd8071.json)
+
+[Extended Data](ext_articles/8ccd8071.ext.json)
+
+---
+
+### Cemetery
+
+*2024-10-16 10:04:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-நீரில்-மூழ்கிய-களுத்துறை/175-345537) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Kalutara coastal areas affected: 200 homes, tourist facilities, roads submerged due to rising sea levels.
+
+🟩
+
+The Kalutara District Disaster Management Division Office said that the sea has increased in the North Kalutara area on Wednesday morning.
+
+களுத்துறை கெலிடோ கடற்கரை அருகில் இருந்து சுமார் ஒரு கிலோமீட்டர் தூரம் வரையில் உள்ள  200 வீடுகள்,  சுற்றுலா விடுதிகள், களுத்துறை வீதி அபிவிருத்தி அதிகார சபை அலுவலக வளாகம் மற்றும் பல கறுக்கு வீதிகள் கடல் நீரில் மூழ்கி  காணப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/fcffc834.json)
+
+[Extended Data](ext_articles/fcffc834.ext.json)
+
+---
+
+### Another group of foreign nationals arrested over alleged online scams
+
+*2024-10-16 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102726/another-group-of-foreign-nationals-arrested-over-alleged-online-scams) · `en`
+
+A group of foreign nationals, who were staying under suspicious circumstances at a hotel in the Chilaw area, has been arrested over suspicions of being involved in online financial scams.
+
+The arrests were carried out based on information received by the Puttalam Divisional Crimes Unit, according to police.
+
+The Police Media Division said that among the arrestees were 04 Malaysian males, 03 Ethiopian males and a female, a Kenyan female and a Chinese man.
+
+The police have also seized 20 computers, 03 routers and 282 mobile phones which were in the possession of the arrested foreign nationals during the raid.
+
+Puttalam Divisional Crimes Unit is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/28531b79.json)
+
+[Extended Data](ext_articles/28531b79.ext.json)
+
+---
 
 ### දින 67 මුහුදේ අතරමංව සිටියත් තරබාරු බව නිසා බේරුණු රුසියානුවා
 
@@ -143,6 +221,30 @@ Meanwhile, a discussion will be held today between the Secretaries of the Minist
 [Data](articles/4d37d181.json)
 
 [Extended Data](ext_articles/4d37d181.ext.json)
+
+---
+
+### Likes can get today
+
+*2024-10-16 08:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருப்பு-இலக்கங்களை-இன்று-பெறலாம்/175-345535) · `ta`
+
+Election Commission announces preferences for candidates today. Commissioner General Saman Sri Ratnayake reveals optional lists for all districts. Minimum campaign spending limit to be published in Gazette. Government officials and corporate leaders discuss implementing electoral directives during meeting.
+
+🟩
+
+பாராளுமன்றத் தேர்தல் தொடர்பான வேட்பாளர்களின் விருப்பு இலக்கங்களை அந்தந்த மாவட்டச் செயலகங்களில் இன்று (16) பெற்றுக் கொள்ளலாம் என்று தேர்தல் ஆணையம் தெரிவித்துள்ளது.
+
+The Commissioner General of the Elections Commission, Saman Sri Ratnayake said the optional list of candidates of all districts.
+
+He also said that the minimum amount of money to spend on a candidate in the general election will be released in the Gazette.
+
+இதேவேளை, பொதுத் தேர்தல் தொடர்பான உத்தரவுகளை அமுல்படுத்துவது தொடர்பான அறிவுறுத்தல்களை வழங்குவதற்காக அமைச்சுக்களின் செயலாளர்கள் மற்றும் அனைத்து நிறுவனங்களின் தலைவர்களுக்கும் இடையில் இன்று கலந்துரையாடல் ஒன்று இடம்பெறவுள்ளது. Remble
+
+◼️
+
+[Data](articles/63ca9053.json)
+
+[Extended Data](ext_articles/63ca9053.ext.json)
 
 ---
 
@@ -718,9 +820,7 @@ Nominations for the 2024 November 14 parliamentary elections were closed island 
 
 *2024-10-16 04:23:43* · [`dailyftlk`](https://www.ft.lk/columns/Turning-the-right-to-food-into-reality-Collective-path-to-a-food-secure-future/4-768009) · `en`
 
-This World Food Day, we come together to emphasise the crucial need for collective action to realise the “Right to Foods”—not just as an aspiration but as a tangible reality for every Sri Lankan and every citizen of the world. Under the theme “Right to Foods for a Better Life and a Better Future,” we are reminded that while global agricultural production may yield enough calories, millions still struggle with hunger, malnutrition, and food insecurity. Approximately 2.8 billion people worldwide cannot afford a healthy diet, contributing to all forms of malnutrition, from undernourishment to rising rates of overweight and obesity.
-
-Here in Sri Lanka, the challenges are multifaceted. Natural disasters, economic downturns, and global shocks have intensified food insecurity, disproportionately affecting the most vulnerable populations—especially women, children, rural communities and persons with disabilities. We can choose to ignore this only at our own peril.
+As we commemorate World Food Day, let us pledge to take meaningful actions that promote the right to food for all. This involves advocating for policies that support food sovereignty, investing in local agriculture, and ensuring that marginalised voices are heard in discussions about food systems. It also means holding ourselves accountable as consumers to make choices that align with our values
 
 ...
 
@@ -736,7 +836,7 @@ Here in Sri Lanka, the challenges are multifaceted. Natural disasters, economic 
 
 What many who run for office forget is that they are seeking to become members of a legislature
 
-Several years ago, I was at what was perhaps the inaugural meeting that launched the rankings of MPs by Manthri.lk. I recall a panel comprising the parliamentarians who had the highest rankings. A leading question from the moderator about research support confused a young MP on the panel. He had achieved his high rank by asking lots of parliamentary questions about the various problems faced by his constituents. He could not understand what research support had to do with constituency service which was his understanding of the job.
+In Sri Lanka, the meaning of constituency service has been distorted over time to include matters such as springing people from remand and providing assistance in cash or kind for various ceremonies and events organised by constituents. The former should be illegal. The latter makes heavy demands on the finances of the MP and may be a causal factor fostering corruption in various forms. There will be no system change until voters cease to select their representative on how they helped get individuals out of remand or on the quality of the bus that was provided for a pilgrimage
 
 ...
 
@@ -2337,109 +2437,5 @@ Accordingly, Dr. Kamal Bandula Weerapperuma, who has presented the petition from
 [Data](articles/80da9ae7.json)
 
 [Extended Data](ext_articles/80da9ae7.ext.json)
-
----
-
-### Sri Lanka stocks close on mixed note, ASPI up, S&P SL20 down
-
-*2024-10-15 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-on-mixed-note-aspi-up-sp-sl20-down-183775/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange ended on a mixed note on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 0.09 percent, or 11.47 points, at 12,257; while the more liquid S&P SL20 Index closed down 0.20 percent, or 7.40 points, at 3,607.
-
-Top turnover generators were John Keells Holdings (down at 196.50), Citrus Leisure (down at 4.50), Dialog Axiata (up at 10.30), Commercial Bank (flat at 108.00), and Hela Apparel (up at 7.10).
-
-Foreign buying was seen in JKH, Commercial Bank, Sampath Bank (up at 82.20), Citrus Leisure, LOLC (down at 421.00), and Windforce (up at 20.30).
-
-Foreign selling was seen in Dialog, Vallibel Finance (up at 43.00), Waskaduwa Beach (up at 2.20), Agarapatana Plantations (flat at 9.40), L B Finance (up at 70.20), Ceylon Cold Stores (down at 60.70).
-
-◼️
-
-[Data](articles/60092844.json)
-
-[Extended Data](ext_articles/60092844.ext.json)
-
----
-
-### Notice to the witnesses of Diana
-
-*2024-10-15 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202209) · `si`
-
-Colombo Magistrate's Court orders Diana Gamage to appear on 24th. Case filed for obtaining false information and overstaying visa. CID requested summons. Immigration officials named as witnesses.
-
-🟩
-
-The Colombo Magistrate's Court has ordered notices to the next seven cases filed against the former State Minister Diana Gamage to appear in court on the 24th.
-
-The case was filed against her in order to obtain false information and staying in Sri Lanka without valid visa.
-
-The Central Magistrate Thilina Gamage issued the order after considering a request made by the CID by the investigation.
-
-Accordingly, in the case, there have been nobles to a number of immigration and emerging control or a few other stakeholders who are nominated in the case.
-
-◼️
-
-[Data](articles/89aa17d6.json)
-
-[Extended Data](ext_articles/89aa17d6.ext.json)
-
----
-
-### Batticaloa Hospital Cooperative Welfare
-
-*2024-10-15 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196365) · `ta`
-
-Batticaloa Hospital Cooperative Welfare: 58 lakh 5 thousand 853 rupees fraud inquiry ongoing since 2019. New admin filed complaint against union treasurer in 2024. Over 1000 members affected. Former treasurer repaid 39 lakhs. Investigations continue to arrest fraudsters and prosecute. Members concerned about public meetings.
-
-🟩
-
-The Batticaloa District Special Financial Fraud Investigation Division said that the Batticaloa District Special Financial Fraud Investigation Division is conducting inquiries into the financial fraud of 58 lakhs 5 thousand 853 rupees at the Batticaloa Teaching Hospital Co -operative Welfare Association for the past five years.
-
-The new administration has lodged a complaint with the District Special Financial Fraud Investigation Division against the union's treasurer after the new administration of the Co -operative Society's new administration was obtained in 2024.
-
-More than a thousand members of the hospital at the austerity welfare association have been subscribed to a monthly salary of thousands of rupees.
-
-In this case, the male, who is serving at the hospital, has been appointed as the Treasurer of the Co -operative Welfare Association from 2019 to 2023 and has been appointed as a woman who has left the hospital in the union administration.
-
-...
-
-[Data](articles/73927a2d.json)
-
-[Extended Data](ext_articles/73927a2d.ext.json)
-
----
-
-### The star heir is the composer in Tamil
-
-*2024-10-15 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196367) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Amrit Ramnath succeeds Bombay Jayasree as Tamil composer. Siddharth stars in Sri Ganesh's film, produced by Arun Vishwa. Amrit Ramnath composes music for "Siddharth 40". His song "Nemakam" released online.
-
-🟩
-
-Amrit Ramnath, the successor of Bombay Jayasree, is a unique opportunity artist in Carnatic music and a playback singer in the cinema. An official announcement has been made.
-
-Actor Siddharth is the hero of the story in an unbeatded film directed by director Sri Ganesh, who directed the film 'Eight Thottas'.
-
-The shooting of the film, produced by producer Arun Vishwa on behalf of Shanti Talkies, which produced the film 'Maviran'.
-
-In this case, the film has been signed as a composer for newcomer musician Amrit Ramnath.
-
-A song called 'Nemakam', which was released in his music, has been released on the Internet.
-
-In this case, the film is temporarily titled as 'Siddharth 40' and he works as a composer.
-
-It is observed that his music is the successor in Tamil as he is the successor of the musician Bombay Jayasree.
-
-◼️
-
-[Data](articles/a4b4c374.json)
-
-[Extended Data](ext_articles/a4b4c374.ext.json)
 
 ---

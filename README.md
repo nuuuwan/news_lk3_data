@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 16:23:35**
+As of **2024-10-16 16:39:20**
 
 ## Newspaper Stats
 
-*Scraped **49,829** Articles*
+*Scraped **49,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 4,635
 dailymirrorlk | 4,733
 adaderanalk | 5,901
 tamilmirrorlk | 6,818
-virakesarilk | 7,971
-adaderanasinhalalk | 8,629
+virakesarilk | 7,976
+adaderanasinhalalk | 8,630
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,829 (100.0%) of 49,829 articles have been extended.
+49,835 (100.0%) of 49,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Ada Derana channel exceeds three million subscribers
+
+*2024-10-16 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202242) · `si`
+
+Ada Derana YouTube channel surpasses 3 million subscribers, setting a milestone in Sri Lanka's digital news landscape. The channel offers comprehensive coverage beyond local news, attracting a large audience and reinforcing public trust.
+
+🟩
+
+ප්‍රවෘත්ති වාර්තාකරණයේදී මෙරට සුවහසක් ජනතාව අප කෙරෙහි තැබූ විශ්වාසය යළි යළිත් තහවුරු කරමින් "අද දෙරණ" තවත් කඩඉමක් පසු කර තිබේ.
+
+The first and the first Yutube channel crossed the 3 million Yatube subsidy of 3 million news channels in the country.
+
+It was able to set a decision in the Sri Lanka Digital Newspass space.
+
+Accordingly, the Youtube Channel of the Youtube Channel has been the highest number of youtube channel in Sri Lanka.
+
+"Today, Derana, not only local news, but also available to its subscribers to their subscribers correctly.
+
+In October 2014, Ada Derana channel was introduced to the 'Derana to visit Ada Derana to the online news.
+
+Today, Derana Yutubew channel has exceeded 1.7 billion years of view of the Derana channel.
+
+The news, timely programming programs such as "Ada Derana" were broadcast to the audience to the audience towards the audience.
+
+The number of new subscribers will be transmitted to the Ada Derana YouTube.
+
+...
+
+[Data](articles/b6a71f65.json)
+
+[Extended Data](ext_articles/b6a71f65.ext.json)
+
+---
 
 ### Sri Lankan attorney Vincent Perera sworn in as new Attorney General of Seychelles
 
@@ -98,6 +132,28 @@ Adam said at least 50 people were seriously injured, adding that the death toll 
 
 ---
 
+### 4 families in Jaffna due to rain;Both infrastructure is affected!
+
+*2024-10-16 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196447) · `ta`
+
+Jaffna: Rain causes damage to 4 families' homes and 2 key infrastructures. 11 residents affected. 4 houses partially destroyed. Impacts spread across Sangan, Nallur, and Point Pedro divisions.
+
+🟩
+
+மழை அனர்த்தத்தால் யாழில் நான்கு குடும்பங்களைச் சேர்ந்த 11 அங்கத்தவர்கள் பாதிக்கப்பட்டுள்ளதுடன், நான்கு வீடுகளும் பகுதியில் சேதமடைந்திருப்பதாக யாழ்ப்பாணம் மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
+
+In addition, 2 important infrastructures have been damaged and one of them has been partially affected by the collapse of the tree.
+
+He added that the impacts have been affected by the Divisional Secretariat Divisions of Sangan, Nallur and Point Pedro.
+
+◼️
+
+[Data](articles/de749e22.json)
+
+[Extended Data](ext_articles/de749e22.ext.json)
+
+---
+
 ### அம்புலுவாவ கேபிள் கார்: நீதிமன்றம் அறிவுறுத்தல்
 
 *2024-10-16 15:28:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அம்புலுவாவ-கேபிள்-கார்-நீதிமன்றம்-அறிவுறுத்தல்/76-345563) · `ta`
@@ -148,6 +204,26 @@ The information is yet to be reported so far regarding the earthquake or propert
 
 ---
 
+### Pakistan High Commission to provide relief assistance to flood victims
+
+*2024-10-16 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196449) · `ta`
+
+Pakistan High Commission provides aid to 650 flood-hit families in Sri Lanka, distributing food at Al-Nooria School Complex on October 15 as part of its humanitarian relief efforts.
+
+🟩
+
+About 650 families affected by the recent floods in Kokamulla, Megoda, Kolonnawa area crossed the race, caste or religion and supplied food items at the Al -Nooria School Complex on October 15 by Fahim -ul -Aziz, Pakistan's High Commissioner.
+
+This effort was part of Pakistan's humanitarian relief program for people affected by natural disasters in Sri Lanka.
+
+◼️
+
+[Data](articles/5b709ba3.json)
+
+[Extended Data](ext_articles/5b709ba3.ext.json)
+
+---
+
 ### Police seek public assistance to identify a dead person
 
 *2024-10-16 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202239) · `si`
@@ -171,6 +247,30 @@ The police urge the public to inform the following telephone numbers to the foll
 [Data](articles/8a9f4334.json)
 
 [Extended Data](ext_articles/8a9f4334.ext.json)
+
+---
+
+### Ceylon Workers Congress
+
+*2024-10-16 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196444) · `ta`
+
+Ceylon Workers Congress launches election campaign in Nuwara Eliya district. Key figures attend temple ceremony, including former MP Maruthapandi Rameshwaran and Deputy National Organizer Rajamani Prasad. Candidates include General Secretary Jeevan Thondaman and National Organizer Palani Sakthivel.
+
+🟩
+
+The campaign of the Ceylon Workers Congress, which is contesting the elephant symbol in the Nuwara Eliya district, has been launched today (16) with temple worship.
+
+The meeting was held following the ceremony at the Sri Muthu Vinayagar Temple, Kotagala, led by Maruthapandi Rameshwaran, a member of the Ceylon Workers Congress and former Member of Parliament.
+
+Rajamani Prasad, Deputy National Organizer of the Ceylon Workers Congress (Political Division) and former Chairman of Kotagala Pradeshiya Sabha, former Vice Chairperson, Members, Political Organizers, Temple Council, Traders and Commonwealth were present.
+
+It is worth noting that its general secretary Jeevan Thondaman, Chairman Maruthabandi Rameshwaran and National Organizer Palani Sakthivel were the candidates of the Ceylon Workers Congress.
+
+◼️
+
+[Data](articles/d6ab7a77.json)
+
+[Extended Data](ext_articles/d6ab7a77.ext.json)
 
 ---
 
@@ -223,6 +323,56 @@ Chilaw Police are continuing investigations to uncover the circumstances surroun
 [Data](articles/6ab4d342.json)
 
 [Extended Data](ext_articles/6ab4d342.ext.json)
+
+---
+
+### Arjun Aloysius' Bail petition rejected
+
+*2024-10-16 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196433) · `ta`
+
+Colombo Chief Magistrate's Court rejects bail plea for Arjun Aloysius and others in tax fraud case. They were previously sentenced to 6-months imprisonment for defrauding the government of 3.5 billion rupees.
+
+🟩
+
+W.. Mendis Company Directors Arjun Aloysius and AR. The Colombo Chief Magistrate's Court has rejected the bail plea filed on behalf of Dinendra John on Wednesday (16).
+
+On the 14th of last month, the court rejected an appeal seeking to release themselves from a 6 -month prison sentence.
+
+WM in the incident of fraudulently not paying the tax to the government. The Colombo Magistrate's Court has sentenced three men, including Mendis Director Arjun Aloysius, to 6 months in prison.
+
+The case was filed in connection with the defrauding of the 3.5 billion rupee tax on the government.
+
+It is in this context that the Colombo Chief Magistrate's Court has rejected their bail plea today.
+
+◼️
+
+[Data](articles/7966a288.json)
+
+[Extended Data](ext_articles/7966a288.ext.json)
+
+---
+
+### Awareness walking to protect the environment in Tirumala
+
+*2024-10-16 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196434) · `ta`
+
+Environmental awareness walk in Trincomalee promotes green city initiative, focuses on cleanliness, reducing plastic pollution, and planting trees for clean air.
+
+🟩
+
+Awareness walk was held on Wednesday (16) to protect the environment in Trincomalee and create a green city.
+
+According to the Environmental Protection Scheme, the style of the "clean and greenhouses of Trincomalee" was handed over to the Secretary of the Municipal Council to the city council secretary from the Trincomalee Nagar Bus Station to the Trincomalee Municipal Council.
+
+Clean and green Trincomalee, roads do not put garbage in public places, eradicate plastic that pollutes the soil and water, and breathe trees and breathe clean air.
+
+The public was attended by the Director of the Ecut Caritas Company and the Officers.
+
+◼️
+
+[Data](articles/c3a25b47.json)
+
+[Extended Data](ext_articles/c3a25b47.ext.json)
 
 ---
 
@@ -2195,147 +2345,5 @@ In her engagements, Wignaraja reinforced UNDP’s commitment, building on its lo
 [Data](articles/bc277ce4.json)
 
 [Extended Data](ext_articles/bc277ce4.ext.json)
-
----
-
-### Sandya Rajapakse appointed as new Government Analyst
-
-*2024-10-16 04:07:35* · [`dailyftlk`](https://www.ft.lk/news/Sandya-Rajapakse-appointed-as-new-Government-Analyst/56-768004) · `en`
-
-The Cabinet has approved the appointment of Sandya Kumudini Rajapakse as the new Government Analyst.
-
-Rajapakse, currently serving as Assistant Government Analyst, has been appointed following the retirement of Deepika Seneviratne, who held the position until 11 October 2024.
-
-According to the seniority list of special grade officers within the Sri Lanka Scientific Service, Rajapakse’s promotion to Government Analyst comes in recognition of her experience and expertise in the field.
-
-◼️
-
-[Data](articles/4349e6ec.json)
-
-[Extended Data](ext_articles/4349e6ec.ext.json)
-
----
-
-### The Association of the All Ceylon Essential Total and Retail Merchants Action to boycott rice sales if it is not sold for control prices
-
-*2024-10-16 04:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196398) · `ta`
-
-Association of All Ceylon Essential Total and Retail Merchants announces rice boycott over control prices. Traders claim unfair pricing, seek government intervention. Press conference planned to address issues affecting businesses and consumers.
-
-🟩
-
-The Association of the All Ceylon Essential Total and Retail Merchants is taking steps to sell rice for the benefit of the people of the country and the association has taken steps to predict the rice.
-
-Steps have been taken to announce this through a press conference in the next few days.
-
-The President of the All Ceylon Essential Total and Retaive Trade Association said that the Kandy District Essential Total and Retaive Trade Branch Branch Branch Inauguration Meeting was the first to address the district -wide trade union branches.
-
-The Sangam inaugural meeting, which includes Sinhala, Tamil and Muslim traders of the district, was held yesterday (13) at the Madina National School Ashraf Hall.
-
-There are a variety of control prices, which are constantly in the presidency, and that if we take the country for example, the rice is 220 rupees, but traders do not get rice at that price.. Not only rice, but also the conditions for many essential commodities.
-
-...
-
-[Data](articles/d1df21ad.json)
-
-[Extended Data](ext_articles/d1df21ad.ext.json)
-
----
-
-### தற்போதைய பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்டெடுக்க பொதுத் தேர்தலின் பின்னர் தேசிய அரசாங்கம் அமைக்கப்பட வேண்டும் - ரவூப் ஹக்கீம்
-
-*2024-10-16 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/196397) · `ta`
-
-Rauf Hakeem calls for national government after elections to address economic crisis. He believes strong opposition necessary for democracy. United People's Alliance aims for 7 parliamentary seats in Kandy district.
-
-🟩
-
-பொதுத் தேர்தலின் பின்னர் தேசிய அரசாங்கம் அமைக்கப்பட வேண்டும் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவரும் கண்டி மாவட்ட ஐ.ம. C. வேட்பாளருமான ரவூப் ஹக்கீம் கண்டியில் தெரிவித்துள்ளார்.
-
-இது தனது தனிப்பட்ட கருத்தாக இருந்தாலும் தற்போதைய பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்டெடுக்க   ஐக்கிய மக்கள் சக்தியின் தலைமையும் இது தொடர்பில் தமது இணக்கத்தை வெளிப்படுத்தும் என நம்புவதாகவும் அவர் தெரிவித்துள்ளார்.
-
-Sri Lanka Muslim Congress leader Rauf Hakeem added to the media on Monday (14) in Kandy:
-
-As a United People's Alliance, the Sri Lanka Muslim Congress with the United People's Alliance in seven districts
-
-Competes with. We are contesting separately in the Eastern Province in Ampara and Batticaloa districts. Our aim is to get 04 more parliamentary seats.
-
-...
-
-[Data](articles/69f29573.json)
-
-[Extended Data](ext_articles/69f29573.ext.json)
-
----
-
-### Mann/St. Savior Girls College student tops the National Science Olympiad competition
-
-*2024-10-16 03:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196396) · `ta`
-
-Nayolin Antonio Kuberakumar from Mann/St. Savior Girls College wins top honors in National Science Olympiad. Secures second place overall, first in Jaffna Hindu College, and first in 2018 National Residence competition. Achieves success at both school and national levels.
-
-🟩
-
-Nayolin Antonio Kuberakumar, a student of St. Savior Girls' College, was secured second place in the National Science Olympiad Competition held by the Ministry of Education.
-
-He has won the first place in the Jaffna Hindu College and the second place in the National Level Competition held on 3/8/2024 at the Presidential College of Maharagama, our district and the province.
-
-He was also ranked first in the 2018 National Residence.
-
-◼️
-
-[Data](articles/2284c8b6.json)
-
-[Extended Data](ext_articles/2284c8b6.ext.json)
-
----
-
-### In the state of the national people's power;Tamil people will not get justice -Gajendrakumar Ponnambalam
-
-*2024-10-16 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196395) · `ta`
-
-Gajendrakumar Ponnambalam criticizes national government for rejecting human rights violations inquiry. He warns Tamil people won't receive justice under current administration.
-
-🟩
-
-Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front and the Chief Candidate of the Tamil National People's Front and the Jaffna Mawatha chief candidate, said that as the national people's power government has rejected the violation of human rights and humanitarian law, the Tamil people will not get justice in the time of the government.
-
-தேசிய அரசாங்கம் ஆட்சியில் அமர்ந்துள்ளது. It says that it is going to change. But it has announced that the National People's Government is going to inflict injustice to the affected people.
-
-The National People's Power Cabinet has decided that it will not carry out international inquiries into human rights and human rights violations in Sri Lanka and will not be allowed to participate in international investigators.
-
-Anyone who accepts the justification that the perpetrators to investigate their crime are completely contrary to natural justice, will not accept the government's claim.
-
-...
-
-[Data](articles/f24ec2aa.json)
-
-[Extended Data](ext_articles/f24ec2aa.ext.json)
-
----
-
-### In the presence of Professor Kanakasingham in the Eastern University Vice Chancellor
-
-*2024-10-16 03:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196394) · `ta`
-
-Eastern University Vice Chancellor promotion: Professor Kanakasingham wins second place. Applications invited for VC position. Council evaluates candidates. Top three names sent to President for appointment.
-
-🟩
-
-The Vice Chancellor of the Eastern University, located in Vandarumula, Batticaloa, has been promoted by Professor Vallipuram Kanagasingham points.
-
-Applications have been requested by the Registrar of the University for the post of Vice Chancellor as the current Vice Chancellor's term ends on January 21st.
-
-Applications for the post of Vice Chancellor explained their future plans at a special council meeting held on Tuesday, 15th.. Subsequently, the members of the council evaluated the applications and presented the points.
-
-Based on the points received, the current Vice Chancellor Professor Vallipuram Kanagasingham has won the second and third places respectively.
-
-According to the University Grants Commission circular to select vice -chancellors of universities in Sri Lanka, the details of the top three will be sent to the President through the University Grants Commission and the Ministry of Education.
-
-...
-
-[Data](articles/5d818321.json)
-
-[Extended Data](ext_articles/5d818321.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 18:35:03**
+As of **2024-10-16 18:47:40**
 
 ## Newspaper Stats
 
-*Scraped **49,849** Articles*
+*Scraped **49,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 401
 colombotelegraphcom | 495
 bbccomsinhala | 500
 islandlk | 2,949
-economynextcom | 3,050
+economynextcom | 3,059
 dailyftlk | 3,384
 adalk | 4,637
 dailymirrorlk | 4,733
-adaderanalk | 5,905
-tamilmirrorlk | 6,820
+adaderanalk | 5,906
+tamilmirrorlk | 6,821
 virakesarilk | 7,978
 adaderanasinhalalk | 8,634
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 8,634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,849 (100.0%) of 49,849 articles have been extended.
+49,849 (100.0%) of 49,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### President urges education reform to align with global demands for future growth
+
+*2024-10-16 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102743/president-urges-education-reform-to-align-with-global-demands-for-future-growth) · `en`
+
+President Anura Kumara Dissanayake emphasized the need to rebuild Sri Lanka’s education system in alignment with global demands to achieve the country’s educational goals.
+
+He pointed out that children must be equipped with knowledge to improve the nation’s human capital for Sri Lanka’s future progress. The President further highlighted that the responsibility of creating the workforce needed by the world over the next decade falls on education officials, stressing the importance of aligning educational projects with this vision, the President’s Media Division (PMD) stated.
+
+President Anura Kumara Dissanayake made these remarks today (16) during a progress review meeting of the Ministries of Education, Science, and Technology at the Presidential Secretariat.
+
+During the review, chaired by President Dissanayake and Prime Minister Dr. Harini Amarasuriya, there was an extensive discussion on five key projects implemented by the Ministries of Education, Science, and Technology.
+
+...
+
+[Data](articles/8595ab66.json)
+
+---
+
+### பொதுமக்களின் உதவி நாடும் பொலிஸார்
+
+*2024-10-16 18:25:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களின்-உதவி-நாடும்-பொலிஸார்/175-345572) · `ta`
+
+ஹோமாகம பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் கண்டெடுக்கப்பட்ட சடலத்தை அடையாளம் காண பொலிஸார் பொதுமக்களின் உதவியை நாடியுள்ளனர்.
+
+அடையாளம் தெரியாத குறித்த சடலம் 5 அடி 2 அங்குல உயரம் கொண்ட நபருடையது என பொலிஸார் தெரிவித்தனர்.
+
+சம்பவம் தொடர்பிலான நீதவான் விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளதுடன், சடலம் பிரேத பரிசோதனைக்காக ஹோமாகம வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளது.
+
+சடலம் தொடர்பில் ஏதேனும் தகவல் தெரிந்தால், 0718591655 அல்லது 0112855222 என்ற தொலைபேசி இலக்கத்தின் ஊடாக பொலிஸாரை தொடர்பு கொள்ளுமாறு பொதுமக்கள் கோரப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/11f4d1bf.json)
+
+---
 
 ### Sudden fraudulent camps; DIG description
 
@@ -57,6 +93,28 @@ The police media spokesman said that the fraudsters claiming to be running a com
 [Data](articles/548d8d37.json)
 
 [Extended Data](ext_articles/548d8d37.ext.json)
+
+---
+
+### Sri Lanka checking whether it is becoming a cyber crimes hub: Minister
+
+*2024-10-16 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-checking-whether-it-is-becoming-a-cyber-crimes-hub-minister-183881/) · `en`
+
+ECONOMYNEXT – The arrest of Chinese, Indian and Thai nationals in multiple locations who were apparently targeting financial systems and banks in third countries have left authorities wondering whether Sri Lanka is becoming a cyber crimes hub.
+
+“We have to see if Sri Lanka is a cyber crimes hub,” Minister Vijitha Herath told reporters, “and whether our financial system is being affected by this.”
+
+The Police have arrested over 200 foreign nationals, mainly Chinese, who were housed in several locations, including Kandy, Avissawella, Rajigiriya, and Negombo.
+
+“They had booked 72 rooms in a hotel in Kandy where these people had access to pool and kitchen facilities,” Police Spokesman Nihal Thalduwa said.
+
+Scammers come to the Indian Ocean island on tourist visas, Thalduwa said.
+
+One reason Sri Lanka could be an attractive destination for cyber scamming hubs, he said, was the easy access to housing, or lodging. “It’s easier to get houses here.”
+
+...
+
+[Data](articles/0be13219.json)
 
 ---
 
@@ -114,6 +172,28 @@ In this building, five classes have been operated in the school and the school a
 
 ---
 
+### Sri Lanka stocks close up, profit taking seen
+
+*2024-10-16 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-profit-taking-seen-183942/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 0.27 percent, or 32.79 points, at 12,290; while the more liquid S&P SL20 Index closed up 0.17 percent, or 6.15 points, at 3,613.
+
+“In the last two weeks the market went up considerably, sometimes by 100 points, so now we see profit taking,” Softlogic Stockbrokers said.
+
+Top turnover generators were Dialog Axiata (up at 10.70), Digital Mobility Solutions Lanka (up at 42.00), Dipped Products (up at 38.70), John Keells Holdings (down at 195.75), and Maskeliya Plantations (up at 56.20).
+
+Crossings were recorded on Dialog, JKH and Hemas Holdings (up at 78.80).
+
+“There was foreign appetite on John Keells because of the Cinnamon Life opening. We expect interest on this counter to continue.”
+
+...
+
+[Data](articles/6a35ca3b.json)
+
+---
+
 ### The body of the driver's body was recovered from the end of the world
 
 *2024-10-16 17:34:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உலக-முடிவிலிருந்து-வீசப்பட்ட-சாரதியின்-சடலம்-மீட்பு/76-345570) · `ta`
@@ -133,6 +213,46 @@ The body was tied up with a rope tied to the fertilizer bag with great effort, p
 [Data](articles/6a1048b9.json)
 
 [Extended Data](ext_articles/6a1048b9.ext.json)
+
+---
+
+### Sri Lanka caught in low-productivity trap: IPS
+
+*2024-10-16 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-caught-in-low-productivity-trap-ips-183879/) · `en`
+
+ECONOMYNEXT — Six consecutive quarters of negative economic growth in Sri Lanka has led to lower wage rates and discouraged workforce participation and skill development, lowering productivity levels and creating a low productivity trap, the Institute of Policy Studies (IPS) said.
+
+Real wages also decreased after high inflation following the 2022 currency crisis.
+
+At a recent discussion, IPS researchers said the negative growth recorded up to the third quarter of 2023 which had a direct impact on the labour market and the resultant “low productivity trap” has hampered further economic recovery.
+
+The discussion held at the launch of the institute’s State of the Economy 2024 report focused on issues within three key aspects of Sri Lanka’s economy: the education sector, labour market, and public sector.
+
+...
+
+[Data](articles/dd16711b.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 292.90/293.05 to dollar, bond yields up
+
+*2024-10-16 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-90-293-05-to-dollar-bond-yields-up-183936/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 292.90/293.05 to the US dollar Wednesday from 293.30/60 a day earlier, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.50/70 percent, up from 10.15/35 percent.
+
+A bond maturing on 15.12.2027 closed at 11.20/35 percent, from 11.20/30 percent.
+
+A bonds maturing on 15.03.2028 closed at 11.60/70 percent, up from 11.50/65 percent.
+
+A bond maturing on 15.09.2029 closed at 11.85/12.05 percent, up from 11.75/90 percent.
+
+A bond maturing on 01.10.2032 closed at 12.25/35 percent, up from 12.20/35 percent. (Colombo/Oct16/2024)
+
+◼️
+
+[Data](articles/92939773.json)
 
 ---
 
@@ -163,6 +283,24 @@ The President and the Prime Minister have also instructed the officials to imple
 [Data](articles/c16d16a7.json)
 
 [Extended Data](ext_articles/c16d16a7.ext.json)
+
+---
+
+### Sri Lanka new govt instructs officials to expedite key educational projects
+
+*2024-10-16 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-instructs-officials-to-expedite-key-educational-projects-183934/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new government has instructed state officials to expedite key educational projects including modernizing school education, improving teacher training, advancing secondary education,enhancing technical education, and developing information technology education,the President’s Media Division (PMD) said.
+
+All the projects discussed were initiated and implemented under previous governments in the past.
+
+“Both the President and Prime Minister instructed officials to expedite the implementation of these projects,” the PMD said in a statement.
+
+“Attention was also drawn to reorganizing the current school system to ensure that educational reforms are more accessible and effective for all children.”
+
+...
+
+[Data](articles/a13be2a2.json)
 
 ---
 
@@ -245,6 +383,26 @@ In addition, jewelery - 7 lakhs of rupees of jewelery and jewelery selling jewel
 [Data](articles/e75316bc.json)
 
 [Extended Data](ext_articles/e75316bc.ext.json)
+
+---
+
+### Sri Lanka’s Sampath Bank helps finance State Bank of India
+
+*2024-10-16 16:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-sampath-bank-helps-finance-state-bank-of-india-183891/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Sampath Bank said it has joined a 750 million dollar, syndicated loan for the State Bank of India, helping finance one of the largest banks in the region.
+
+Mashreq, was the mandated lead arranger and book runner. Initially launched targeting at 350 million dollars in May 2024, the facility was upsized to 750 million dollars due to strong global interest, Sampath Bank said.
+
+“Our involvement in this syndicated loan aligns with our strategic objectives to enhance our investment portfolio while securing strong returns,” Amal Kirihene, Senior Deputy General Manager, Corporate Banking at Sampath Bank said in a statement.
+
+“Given the current political climate and our expectations of credit growth, this three-year loan offers a promising opportunity for us to lend to a highly reputable institution like SBI.
+
+“Our prior experiences with long-term financing in other regions have equipped us to navigate this commitment with confidence.”
+
+...
+
+[Data](articles/308d86da.json)
 
 ---
 
@@ -674,6 +832,28 @@ Arjun Alosias was recently sentenced to six months in prison on this charge.
 
 ---
 
+### Sri Lanka pensioners get Rs3,000 allowance ahead of polls
+
+*2024-10-16 14:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-pensioners-get-rs3000-allowance-ahead-of-polls-183871/) · `en`
+
+ECONOMYNEXT – Sri Lanka began crediting retired government servants’ bank accounts with an allowance of 3,000 rupees on Wednesday ahead of the general elections.
+
+“Starting today, a monthly interim allowance of Rs. 3,000 will be credited to all pensioners’ accounts. Pensioners with bank accounts will get it today, while those using post offices can access it from the 18th,” President Anura Dissanayake said on X.
+
+The Treasury has allocated the required amount to the Department of Pensions, the president’s media division said.
+
+“The Treasury Operations Department has provided an allocation of Rs. 2,021 million for 679,960 pensioners this month.”
+
+Sri Lanka’s general election to select 225 representatives is scheduled for November 14, with postal voting beginning on October 30.
+
+A cabinet decision in August by the previous government to provide the allowance to pensioners was halted by the Election Commission. (Colombo/Oct16/2024)
+
+◼️
+
+[Data](articles/0c8c1da5.json)
+
+---
+
 ### Arjun Aloysius' Bail petition rejected
 
 *2024-10-16 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196433) · `ta`
@@ -884,6 +1064,24 @@ The court has sentenced all three directors to six months' imprisonment for fail
 
 ---
 
+### Sri Lanka should focus on debt restructure, legal challenge by Hamilton Reserve: former minister
+
+*2024-10-16 12:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-focus-on-debt-restructure-legal-challenge-by-hamilton-reserve-former-minister-183864/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s focus now should be on implementing the debt restructuring process, particularly in response to the legal challenge by the Hamilton Reserve Bank, the former State Finance Minister has said.
+
+It was encouraging to see the new administration continuing former President Ranil Wickremesinghe’s proven economic policies, despite heavy criticism from the current government while in opposition, Shehan Semasinghe said on X.
+
+“The focus now is on effectively implementing the debt restructuring process, particularly in response to the legal challenge by the Hamilton Reserve Bank,” Semasinghe said in response to media reports on the case.
+
+In March, Sri Lanka sought a 5-month extension in the suspension of a case filed by Hamilton Reserve, a holdout investor who is seeking immediate payment on a defaulted bond series in which it claims a 25 percent stake.
+
+...
+
+[Data](articles/54a07751.json)
+
+---
+
 ### Rs. 3,000 allowance to be credited to pensioners’ accounts from today
 
 *2024-10-16 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102733/rs-3000-allowance-to-be-credited-to-pensioners-accounts-from-today-) · `en`
@@ -1041,6 +1239,26 @@ However, the relevant case has been filed by Tharanga himself and he had left th
 [Data](articles/88f5a5e0.json)
 
 [Extended Data](ext_articles/88f5a5e0.ext.json)
+
+---
+
+### Sri Lanka budget deficit down 38-pct, tax revenues up 41-pct to August
+
+*2024-10-16 11:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-38-pct-tax-revenues-up-41-pct-to-august-183860/) · `en`
+
+ECONOMYNEXT – Sri Lanka tax revenues rose 41 percent to 2,348 billion rupees in the eight months to August 2024, at a rate higher that the full year 35 percent target, and current expenses only grew 3 percent, amid higher tax rates and monetary stability, official data showed.
+
+Total revenues also grew 41 percent to 2,557 billion rupees, with non-tax revenues rising to 209 billion rupees from 158 billion rupees last year, according to pre-budget fiscal report.
+
+Current spending was contained at 3,041 billion rupees amid wage restraint and a lower than budgeted interest bill. Interest cost rose only 2 percent to 1,560 billion rupees, despite new debt taken to finance the budget deficit.
+
+The current account deficit (total revenues less current spending) fell to 483.8 billion rupees or 1.5 percent of GDP in the fist eight months, from 1,121.7 billion rupees a year earlier.
+
+Capital spending picked up to 435.3 billion rupees, up 22 percent.
+
+...
+
+[Data](articles/27e0a144.json)
 
 ---
 
@@ -2221,219 +2439,5 @@ There has been a social opinion that the Rajapaksas have not been voted.
 [Data](articles/355a5219.json)
 
 [Extended Data](ext_articles/355a5219.ext.json)
-
----
-
-### More governors arrested in a hotel
-
-*2024-10-16 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202223) · `si`
-
-Foreign nationals arrested in Chilaw hotel. Four Malaysians, one Kenyan, one Chinese woman detained. Suspected of online fraud. Computers and phones seized.
-
-🟩
-
-A group of foreign nationals have been arrested for a tip off on information received from the Puttalam Division Criminal Investigation Bureau at the Iranila road, Chilaw Police Division.
-
-The police media division announced that four Malaysian men, who were arrested yesterday (15), was a woman, a woman, Kenyan woman and a Chinese woman.
-
-The suspects have been arrested on suspicion of money online, and 20 computer machines and 282 mobile phones were taken into custody.
-
-◼️
-
-[Data](articles/71a15a51.json)
-
-[Extended Data](ext_articles/71a15a51.ext.json)
-
----
-
-### Rockland Group marks 100 years of passion and resilience with Chairman’s Awards
-
-*2024-10-16 07:16:13* · [`dailyftlk`](https://www.ft.lk/business/Rockland-Group-marks-100-years-of-passion-and-resilience-with-Chairman-s-Awards/34-768046) · `en`
-
-The Gajasingha Awards recipients (from left): Head of Spirits Manoj Rasiah, Senior Business Manager Sports and Social Sujeewa Dharshana Ramanayake, Finance Manager Sugeesh Wickramasinghe, Head of International Sales Graham Merricks, General Manager – Imported Wines and Spirits Danushka Othnapitiya, General Manager, Sales and Marketing Christopher Buultjens, General Manager – Operations Eranda Attanayaka, GM Liquid Island and Group Head of PR and Brand Communications Shalindri Malawana, and Group Head – Retail Ramesh Kumar
-
-The Chairman’s Award was presented to the Rockland Events and Communications team
-
-Award winners and recipients across 21 categories were recognised at the Centennial Chairman’s Awards
-
-3rd and 4th generation family members of the Rockland Group family Derek de Silva Wijeyeratne, Amal de Silva Wijeyeratne, and Devinda de Silva Wijeyeratne honoured with the Centenary Family Reserve
-
-...
-
-[Data](articles/697c4a27.json)
-
-[Extended Data](ext_articles/697c4a27.ext.json)
-
----
-
-### Sri Lanka state worker salary hike decision for 2025 will be revisited: Minister
-
-*2024-10-16 07:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-worker-salary-hike-decision-for-2025-will-be-revisited-minister-183816/) · `en`
-
-ECONOMYNEXT – A decision to raise salaries of state workers in 2025 taken by the last cabinet has been taken without Treasury observations and it will have to be revisited, Minister Vijitha Herath said.
-
-The last administration said salaries would be raised from January 2025 based on recommendations by committee headed by Udaya Seneviratne, which also included trimming Sri Lanka’s bloated public service over time.
-
-“A decision was taken by the cabinet close to the elections that salaries would be hike in January,” Minister Herath told reporters Tuesday.
-
-“When we looked around, we found that no observations were called from the Finance Ministry for this. No approval was obtained by the Finance Ministry, according to what officials tell us. So the cabinet has taken the decision arbitrarily.
-
-“It should have been taken after considering whether there were funds, was the Treasury agreeable to raise salaries according to Udaya R Seneviratne report. It has not been done.
-
-...
-
-[Data](articles/b888cd50.json)
-
-[Extended Data](ext_articles/b888cd50.ext.json)
-
----
-
-### Providing preferential numbers for general election candidates today
-
-*2024-10-16 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202222) · `si`
-
-Elections Commission announces preferential vote availability today. Commissioner General confirms receipt of preferential lists at District Secretariats. Gazette to be published for one general election candidate. Discussion planned between Corporation/Council secretaries on implementing election orders.
-
-🟩
-
-The Elections Commission says that the preferential votes of the parliamentary election can be obtained from the District Secretariats today (16).
-
-Commissioner General of Its Commissioner Saman Sri Ratnayake said that the preferential lists of the preferential lists has been received and taken to the District Secretariats.
-
-The gazette will be announced on behalf of one candidate in the general election today, he said.
-
-Meanwhile, a discussion is scheduled to be held between the Secretaries and Councils of all Corporations and Councils to advise on the implementation of orders regarding the general election.
-
-◼️
-
-[Data](articles/b0d6982f.json)
-
-[Extended Data](ext_articles/b0d6982f.ext.json)
-
----
-
-### Fashion and apparel lead Sri Lanka’s rise to creative powerhouse
-
-*2024-10-16 06:38:47* · [`dailyftlk`](https://www.ft.lk/business/Fashion-and-apparel-lead-Sri-Lanka-s-rise-to-creative-powerhouse/34-768042) · `en`
-
-Mercedes-Benz Fashion Week SL 2024 makes a statement with DIMO and AOD
-
-Sri Lanka gears up for its global fashion highlight Mercedes-Benz Fashion Week SL 2024 (MBFWSL) produced by AOD and powered by DIMO as the only authorised general distributor for Mercedes-Benz in the country: 7 to 10 November at Cinnamon Life at City of Dreams Sri Lanka, in conjunction with the Sri Lanka Design Festival (SLDF)
-
-MBFWSL spotlights Sri Lanka’s design talent, rich textile heritage, and advanced apparel manufacturing, leading the charge in empowering local creative industries through a strong agenda focused on uplifting young designers, fostering sustainable practices, and engaging local communities in the business of fashion
-
-Focus on education, research, and innovation underpins SL’s fashion industry, promoting the island as the South Asian hub for creativity
-
-...
-
-[Data](articles/00a4886c.json)
-
-[Extended Data](ext_articles/00a4886c.ext.json)
-
----
-
-### කාලගුණයේ වෙනසක්
-
-*2024-10-16 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202220) · `si`
-
-Climate change: Rainfall decreases gradually in Sri Lanka's western region.
-
-🟩
-
-දිවයිනේ නිරිත දිග කොටසේ පවතින තද වැසි තත්ත්වය ක්‍රමයෙන් අඩුවනු ඇතැයි බලාපොරොත්තුවේ.
-
-◼️
-
-[Data](articles/52921014.json)
-
-[Extended Data](ext_articles/52921014.ext.json)
-
----
-
-### Santapaws Xmas bazaar and runway to rescue, usher in festive season
-
-*2024-10-16 06:34:31* · [`dailyftlk`](https://www.ft.lk/business/Santapaws-Xmas-bazaar-and-runway-to-rescue-usher-in-festive-season/34-768041) · `en`
-
-From left: Headlines, PR and Events and RAS Manager Upul Wijenayake, Cinnamon Colombo Hotels Area Vice President and Cinnamon Grand Colombo General Manager Kamal Munasinghe, Headlines PR and Events Chairman and RAS Founding Trustee Anusha David and Brian Kerkoven Academy Choreographer and Founder Brian Kerkoven and Thiran Ranatunga of RAS
-
-It’s the season to be loving and giving especially to the less fortunate, and what better way to do so, than to usher in the festive season, keeping in mind man’s best friend.
-
-Rescue Animals Sri Lanka will do just that with two joyous and fun filled, not forgetting glamour and bling events, that will be held in aid of the Rescue Animals Sri Lanka Trust.
-
-...
-
-[Data](articles/ecc8bc08.json)
-
-[Extended Data](ext_articles/ecc8bc08.ext.json)
-
----
-
-### CFA Society Sri Lanka announces WindForce as subject company for local competition of Institute Research Challenge Sri Lanka 2024/25
-
-*2024-10-16 06:22:07* · [`dailyftlk`](https://www.ft.lk/business/CFA-Society-Sri-Lanka-announces-WindForce-as-subject-company-for-local-competition-of-Institute-Research-Challenge-Sri-Lanka-2024-25/34-768030) · `en`
-
-CFA Society Sri Lanka recently announced that WindForce PLC has been selected as the subject company for its 18th annual CFA Institute Research Challenge Sri Lanka 2024/25. The CFA Institute Research Challenge is an annual global competition that promotes best practices and ethical standards in equity research among university students, offering them invaluable hands-on experience, mentorship, and training in the field. The challenge provides participating students with the opportunity to engage in real-world financial analysis and equity research.
-
-Under the guidance of distinguished industry mentors, undergraduate students across Sri Lanka will undertake the task of producing comprehensive equity research reports on WindForce PLC, a leading player in Sri Lanka’s renewable energy sector.
-
-...
-
-[Data](articles/b2d6511b.json)
-
-[Extended Data](ext_articles/b2d6511b.ext.json)
-
----
-
-### COYLE’s trade delegation to South Korea forges new business alliance
-
-*2024-10-16 06:13:40* · [`dailyftlk`](https://www.ft.lk/business/COYLE-s-trade-delegation-to-South-Korea-forges-new-business-alliance/34-768024) · `en`
-
-COYLE Chairman Thushira Radella (left) and IMA Chamber of Commerce President Yang Hee Chul
-
-The Chamber of Young Lankan Entrepreneurs (COYLE) recently led a high-profile trade delegation to the Republic of Korea, marking a significant milestone for the Sri Lankan business industry. This visit, commemorating the chamber’s 25th anniversary, aims to strengthen economic ties and open up new business avenues between Sri Lanka and South Korea. Spearheaded by COYLE Chairman Thushira Raddella and the Foreign Delegations and Overseas Business Promotion Subcommittee Chairman Manusha Weeraratne, the mission signifies a new era of collaboration between the two nations.
-
-...
-
-[Data](articles/70fd1bce.json)
-
-[Extended Data](ext_articles/70fd1bce.ext.json)
-
----
-
-### Hela Apparel Holdings completes successful rights issue, raising Rs. 1.6 b
-
-*2024-10-16 06:12:34* · [`dailyftlk`](https://www.ft.lk/business/Hela-Apparel-Holdings-completes-successful-rights-issue-raising-Rs-1-6-b/34-768023) · `en`
-
-Hela Apparel Holdings PLC has confirmed the successful completion of its rights issue, raising Rs. 1,596,826,135 through the issue of shares.
-
-This achievement reflects the strong support of the company’s shareholders and will contribute to the strengthening of the Hela Group’s balance sheet for future growth.
-
-The rights issue offered a total of 319,365,227 Ordinary Voting Shares to existing shareholders on a proportional basis. As a result of the subscriptions received from shareholders, including from the company’s top three shareholders, and applications for additional shares, the issue was successfully oversubscribed on the closing date.
-
-...
-
-[Data](articles/884b4eab.json)
-
-[Extended Data](ext_articles/884b4eab.ext.json)
-
----
-
-### Cinnamon Life opens: Colombo’s new landmark designed by Cecil Balmond
-
-*2024-10-16 06:12:09* · [`dailyftlk`](https://www.ft.lk/business/Cinnamon-Life-opens-Colombo-s-new-landmark-designed-by-Cecil-Balmond/34-768022) · `en`
-
-Cinnamon Life, the latest lifestyle project by John Keells, officially opened yesterday in Colombo, designed by world-renowned architect Cecil Balmond.
-
-The five million square foot integrated resort, designed by Balmond’s London-based studio, is set to position Colombo as a key hub on the global stage. Balmond Studio was responsible for architecture, engineering, project management and interior design of public spaces, including bespoke lighting installations.
-
-He described the design of Cinnamon Life as inspired by abstract geometry and linked it to Sri Lanka’s ancient architectural marvels in Anuradhapura.
-
-“The epic scale of such construction and its ground-breaking ambitions are now realised once again in a contemporary setting, uniquely, in this City of Dreams,” Balmond said.
-
-...
-
-[Data](articles/a5a2d872.json)
-
-[Extended Data](ext_articles/a5a2d872.ext.json)
 
 ---

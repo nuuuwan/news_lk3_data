@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 17:08:40**
+As of **2024-10-16 17:23:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,631
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,836 (100.0%) of 49,839 articles have been extended.
+49,839 (100.0%) of 49,839 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ It has been uncovered during the preliminary investigations that the assailants 
 ◼️
 
 [Data](articles/17509b81.json)
+
+[Extended Data](ext_articles/17509b81.ext.json)
 
 ---
 
@@ -93,6 +95,8 @@ The European Mediterranean Seismological Centre said the quake had a 6.1 magnitu
 ◼️
 
 [Data](articles/4f691b3a.json)
+
+[Extended Data](ext_articles/4f691b3a.ext.json)
 
 ---
 
@@ -390,17 +394,23 @@ Chilaw Police are continuing investigations to uncover the circumstances surroun
 
 ---
 
-### ඇලෝසියස්ගේ ඇප ඉල්ලීමට අද ලැබුණු තීන්දුව මෙන්න
+### Here is the verdict that receives today to request Aloysius
 
 *2024-10-16 14:47:08* · [`adalk`](https://www.ada.lk/breaking_news/ඇලෝසියස්ගේ-ඇප-ඉල්ලීමට-අද-ලැබුණු-තීන්දුව-මෙන්න/11-412529) · `si`
 
-රුපියල් බිලියන 3.5ක වැට් බදු නොගෙවීම හේතුවෙන් අත්අඩංගුවට ගත් ඩබ්.එම්.මෙන්ඩිස් සහ සමාගමේ අධ්‍යක්ෂ අර්ජුන ඇලෝසියස් ඇතුළු දෙදෙනෙකුට කළ ඇප ඉල්ලීම අද(16දා) දෙවන වරටත් කොළඹ අතිරේක මහේස්ත්‍රාත්වරයා ප්‍රතික්ෂේප කර තිබේ.
+Colombo Additional Magistrate rejects bail for Arjuna Aloysius, director of Arjuna Aloysi, for non-payment of VAT 3.5 billion rupees. Recently sentenced to six months in prison.
 
-අර්ජුන් ඇලෝසියස්ට මෙම චෝදනාව මත මාස 06 සිර දඬුවම් නියම කිරීමට පසුගියදා කටයුතු කළේය.
+🟩
+
+The Colombo Additional Magistrate has rejected the bail to the second time and the director of Arjuna Aloysi, who was arrested for not paying VAT 3.5 billion rupees.
+
+Arjun Alosias was recently sentenced to six months in prison on this charge.
 
 ◼️
 
 [Data](articles/8493c740.json)
+
+[Extended Data](ext_articles/8493c740.ext.json)
 
 ---
 

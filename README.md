@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 19:57:47**
+As of **2024-10-16 20:11:52**
 
 ## Newspaper Stats
 
@@ -522,6 +522,32 @@ The President and the Prime Minister have also instructed the officials to imple
 
 ---
 
+### Five arrested, including women on charges of stealing jewelery in Jaffna
+
+*2024-10-16 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196457) · `ta`
+
+Jaffna police arrest 5, recover 16 lbs gold jewelry worth 25 lakhs. Robbery occurred on 10th; thieves stole jewelry and phones. Police identified suspects through security footage. Two women among arrested individuals. Additional stolen items valued at 7 lakhs.
+
+🟩
+
+The Jaffna Chavakachcheri police have recovered 16 pounds of gold jewelery worth Rs 25 lakhs and five suspects have been arrested.
+
+On the 10th of last month, the robbers entered a house in the Keruda area under the Chavakachcheri police division and robbed 16 pounds of jewelery and telephone at home.
+
+The husband and wife were found to have theft at home while returning home and had lodged a complaint with the Chavakachcheri police with the source of the security camera.
+
+The police rushed to the scene and arrested five men, including two women and jewelery, on Tuesday (15).
+
+In addition, jewelery - 7 lakhs of rupees of jewelery and jewelery selling jewelery from women who were theft - the luxury electrical equipment purchased from the women of the theft.
+
+◼️
+
+[Data](articles/e75316bc.json)
+
+[Extended Data](ext_articles/e75316bc.ext.json)
+
+---
+
 ### Sri Lanka new govt instructs officials to expedite key educational projects
 
 *2024-10-16 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-instructs-officials-to-expedite-key-educational-projects-183934/) · `en`
@@ -595,32 +621,6 @@ It has also been revealed that the racketeer is using ammunition guns and hunt f
 [Data](articles/93b80e2c.json)
 
 [Extended Data](ext_articles/93b80e2c.ext.json)
-
----
-
-### Five arrested, including women on charges of stealing jewelery in Jaffna
-
-*2024-10-16 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196457) · `ta`
-
-Jaffna police arrest 5, recover 16 lbs gold jewelry worth 25 lakhs. Robbery occurred on 10th; thieves stole jewelry and phones. Police identified suspects through security footage. Two women among arrested individuals. Additional stolen items valued at 7 lakhs.
-
-🟩
-
-The Jaffna Chavakachcheri police have recovered 16 pounds of gold jewelery worth Rs 25 lakhs and five suspects have been arrested.
-
-On the 10th of last month, the robbers entered a house in the Keruda area under the Chavakachcheri police division and robbed 16 pounds of jewelery and telephone at home.
-
-The husband and wife were found to have theft at home while returning home and had lodged a complaint with the Chavakachcheri police with the source of the security camera.
-
-The police rushed to the scene and arrested five men, including two women and jewelery, on Tuesday (15).
-
-In addition, jewelery - 7 lakhs of rupees of jewelery and jewelery selling jewelery from women who were theft - the luxury electrical equipment purchased from the women of the theft.
-
-◼️
-
-[Data](articles/e75316bc.json)
-
-[Extended Data](ext_articles/e75316bc.ext.json)
 
 ---
 

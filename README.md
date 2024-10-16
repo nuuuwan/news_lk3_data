@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 11:23:22**
+As of **2024-10-16 11:59:32**
 
 ## Newspaper Stats
 
-*Scraped **49,784** Articles*
+*Scraped **49,786** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,892
 tamilmirrorlk | 6,808
 virakesarilk | 7,966
-adaderanasinhalalk | 8,618
+adaderanasinhalalk | 8,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,780 (100.0%) of 49,784 articles have been extended.
+49,786 (100.0%) of 49,786 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Chaunt - CCTV - CCTV
+
+*2024-10-16 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202232) · `si`
+
+CCTV footage shows theft of gold necklace from 60-year-old woman in Deepananda Mawatha. Police investigation leads to arrest of suspect involved in ice drug trade in Ratmalana.
+
+🟩
+
+The CCTV camera was recorded in a chain of a woman in Deepananda Mawatha, Deepananda Mawatha, Deepananda Mawatha.
+
+There was a 60-year-old woman faced with the incident on the 11th.
+
+The suspect who stole the gold necklace and the plate of nearly Rs.
+
+Investigations carried out by the police after the correspondence of CCTV scenes were found in a baker in the Ratmalana Dharmarama Road, Mount Lavinia with 13,470 milligrams of ice narcotics.
+
+◼️
+
+[Data](articles/7a247659.json)
+
+[Extended Data](ext_articles/7a247659.ext.json)
+
+---
+
+### 3,000 monthly allowance to pensioners
+
+*2024-10-16 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202231) · `si`
+
+Rs. 3000 monthly allowance for all pensioners starting today, payable through post offices and banks.
+
+🟩
+
+සියලු විශ්‍රාමිකයන් සඳහා රුපියල් 3,000ක මාසික අන්තර් කාලීන දීමනාව අද (16) දින සිට ඔවුන්ගේ ගිණුම්වලට මුදාහැරීමට විශ්‍රාම වැටුප් දෙපාර්තමේන්තුව කටයුතු කර ඇත.
+
+President Anura Kumara Dissanayake was instructed to give the money from the Treasury by looking for the non-payment of the monthly allowance proposed for pensioners.
+
+According to the instructions, the Treasury has been provided with the Department of Pensions and the Department of Pensions will be credited to the accounts of pensioners from today.
+
+Although all pensioners had issued a monthly allowance of Rs.
+
+According to the decision taken at the Cabinet Meeting held at the Cabinet Meeting held at the Cabinet Meeting held on the 14th, the Department of Treasury Operations has been given to the Department of Treasury Operations.
+
+Accordingly, the allowance will be paid by the Head Office of the Department of Pensions.
+
+...
+
+[Data](articles/59eb6ee8.json)
+
+[Extended Data](ext_articles/59eb6ee8.ext.json)
+
+---
 
 ### US gives Israel 30 days to boost Gaza aid or risk cut to military support
 
@@ -49,6 +101,8 @@ Israel has previously said it is targeting Hamas operatives in the north and not
 ...
 
 [Data](articles/89073578.json)
+
+[Extended Data](ext_articles/89073578.ext.json)
 
 ---
 
@@ -70,27 +124,35 @@ Property records show the four-bedroom, three-bathroom, and three-carport proper
 
 [Data](articles/1c132097.json)
 
+[Extended Data](ext_articles/1c132097.ext.json)
+
 ---
 
-### අල්ලස් ගත් නියෝජ්‍ය කොමසාරිස්වරයෙක්ට වැඩවරදී
+### Deputy Commissioner for a bribe
 
 *2024-10-16 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202230) · `si`
 
-රුපියල් ලක්ෂ දෙකක මුදලක් අල්ලස් වශයෙන් ලබාගත් නැගෙනහිර පළාත් ආදායම් දෙපාර්තමේන්තුවේ නියෝජ්‍ය කොමසාරිස්වරයෙකු අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+Deputy Commissioner arrested for bribery in Batticaloa. Raid conducted by Investigation Commission. Suspect to appear in court.
 
-එම කොමිසම සඳහන් කළේ, මඩකලපුව, චෙන්කලාඩි ප්‍රදේශයේ පදිංචිකරුවෙකු විසින් සිදුකළ පැමිණිලක්කට අනුව එම වැටලීම සිදුකළ බවය.
+🟩
 
-මඩකලපුව සතුරුකොන්ඩාල් ප්‍රදේශයේ පර්චස් 65ක ඉඩමක් රුපියල් කෝටියකට මිලදී ගැනීමෙන් පසු එහි මුද්දර ගාස්තු වශයෙන් රුපියල් ලක්ෂ 6ක් ගෙවූ පසු එහි තක්සේරු වටිනාකම රුපියල් කෝටි දෙකයි ලක්ෂ 65 ක් බව යළිත් පළාත් ආදායම් කාර්යාලය මඟින් දන්වා තිබේ.
+A Deputy Commissioner of the Eastern Provincial Revenue Department has been arrested by the Investigation Commission (Investigation Department) of the Eastern Provincial Revenue Department.
 
-ඒ අනුව, දඩ මුදලක් සමඟ රජයේ ගාස්තුව රුපියල් 850,000ක් ගෙවිය යුතු බව පවසා එම මුදල ලක්ෂ දෙකක් දක්වා අඩු කිරීම සඳහා ලක්ෂ දෙකක මුදලක් අල්ලස් වශයෙන් ඉල්ලා ඇති බව සඳහන්ය.
+The commission stated that the raid was carried out by a resident of Chenkardi, Batticaloa.
 
-අදාළ මුදල මඩකලපුව නැගෙනහිර පළාත් ආදායම් දෙපාර්තමේන්තුවේ කාර්යාලයේදී ලබාගන්නා අවස්ථාවේදී එම නියෝජ්‍ය කොමසාරිස්වරයා අත්අඩංගුවට ගෙන තිබේ.
+After purchasing Rs.
 
-මෙම සැකකරු මඩකලපුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පැවසීය.
+Accordingly, the government fee is paid at Rs.
+
+The Deputy Commissioner has been arrested at the office of Batticaloa at the Provincial Revenue Department office.
+
+The suspects of the Bribery or Corruption Commission said that the suspect is to be produced before the Batticaloa Magistrate's Court.
 
 ◼️
 
 [Data](articles/446a8954.json)
+
+[Extended Data](ext_articles/446a8954.ext.json)
 
 ---
 
@@ -114,13 +176,17 @@ Tourist references are found in many departments, including food, beverages and 
 
 ---
 
-### ඝාතන සැකකරුවන් 5ක් අත්අඩංගුවට
+### Five suspects arrested for murder
 
 *2024-10-16 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202229) · `si`
 
-ජාඇළ, ඒකල ප්‍රදේශයේ දී පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සැකකරුවන් පස් දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Five suspects arrested for murder in Jaeluwa area. Victim attacked while traveling in Ekala. Police recovered two knives and several swords from suspects aged 22, 33, 45, 48, and 65.
 
-පොලීසිය පැවසුවේ, ඒකල ප්‍රදේශයේ මාර්ගයක ගමන් කරමින් සිටි පුද්ගලයෙකුට තියුණු ආයුධවලින් පහරදී එම ඝාතනය සිදුකර ඇති බවය.
+🟩
+
+Five suspects have been arrested in connection with the murder of a person in the Jaeluwa area.
+
+According to the police, a person who was traveling on a road in Ekala was attacked and killed.
 
 ඝාතනය සිදුකළ සැකකරු සහ ඒ සඳහා ආධාර අනුබල දුන් සිව්දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර ඒ සඳහා යොදාගත් මන්නා පිහි දෙකක් සහ මුගුරු කිහිපයක් පොලිස් භාරයට ගෙන තිබේ.
 
@@ -129,6 +195,8 @@ Tourist references are found in many departments, including food, beverages and 
 ◼️
 
 [Data](articles/ddeba344.json)
+
+[Extended Data](ext_articles/ddeba344.ext.json)
 
 ---
 
@@ -2363,53 +2431,5 @@ He is also responsible for the Select Officer of the Select Officer of the Hamba
 [Data](articles/dbc486dc.json)
 
 [Extended Data](ext_articles/dbc486dc.ext.json)
-
----
-
-### Public wealth should be saved as a form of property
-
-*2024-10-15 18:17:22* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-ධනය-සාංඝික-දේපළක්-සේ-සුරැකිය-යුතුයි/11-412508) · `si`
-
-Sri Lanka's energy sector faces challenges. President Anura Kumara Dissanayake emphasizes saving public wealth, accountability in public service, and addressing economic issues. Energy projects need formal expedited approval within three years.
-
-🟩
-
-Projects to achieve the goals of the energy sector within the next three years must be formal and expedited
-
-- President Mahinda Rajapaksa says the progress review discussion of the Ministry of Energy
-
-President Anura Kumara Dissanayake joined the progress review discussion held at the Ministry of Power today (15th).
-
-President Anura Kumara Dissanayake pointed out that the Ministry of Energy has been given a high level of energy in Sri Lanka and that the Ministry of Finance is a prominent minority minority and that the irregularities can occur when there is a high earnings.Did.
-
-President Anura Kumara Dissanayake said that the people had used their preference in the presidential election this time, and he is bid to accountable.
-
-The citizen of the citizen of the citizen of the citizen of the citizen of the citizen of the citizen's economic problems and the duty of the citizen of the public service has been confident in a new political tradition
-
-...
-
-[Data](articles/86eab087.json)
-
-[Extended Data](ext_articles/86eab087.ext.json)
-
----
-
-### Sri Lanka trade body meets ADB for talks on growth, reform process and policy
-
-*2024-10-15 18:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-body-meets-adb-for-talks-on-growth-reform-process-and-policy-183784/) · `en`
-
-ECONOMYNEXT – Representatives of Sri Lankan trade body Ceylon Chamber of Commerce have met with officials of the Asian Development Bank to discuss growth, reform process and policies.
-
-“The Chamber looks forward to leading the private sector engagement with the ADB,” it said.
-
-ADB Sri Lanka Country Director Takafumi Kadono and Senior Economist Lakshini Fernando met with CCC chairman Duminda Hulangamuwa and others.
-
-Hulangamuwa is also advisor to Sri Lanka’s President Anura Dissanayake. (Colombo/Oct15/2024)
-
-◼️
-
-[Data](articles/3f3e7d7c.json)
-
-[Extended Data](ext_articles/3f3e7d7c.ext.json)
 
 ---

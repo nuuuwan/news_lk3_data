@@ -1,36 +1,80 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 07:27:12**
+As of **2024-10-16 08:02:55**
 
 ## Newspaper Stats
 
-*Scraped **49,750** Articles*
+*Scraped **49,754** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 401
 colombotelegraphcom | 494
-bbccomsinhala | 499
+bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,047
-dailyftlk | 3,383
+dailyftlk | 3,384
 adalk | 4,624
 dailymirrorlk | 4,733
 adaderanalk | 5,884
-tamilmirrorlk | 6,799
+tamilmirrorlk | 6,800
 virakesarilk | 7,965
-adaderanasinhalalk | 8,609
+adaderanasinhalalk | 8,610
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,735 (100.0%) of 49,750 articles have been extended.
+49,740 (100.0%) of 49,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Rockland Group marks 100 years of passion and resilience with Chairman’s Awards
+
+*2024-10-16 07:16:13* · [`dailyftlk`](https://www.ft.lk/business/Rockland-Group-marks-100-years-of-passion-and-resilience-with-Chairman-s-Awards/34-768046) · `en`
+
+The Gajasingha Awards recipients (from left): Head of Spirits Manoj Rasiah, Senior Business Manager Sports and Social Sujeewa Dharshana Ramanayake, Finance Manager Sugeesh Wickramasinghe, Head of International Sales Graham Merricks, General Manager – Imported Wines and Spirits Danushka Othnapitiya, General Manager, Sales and Marketing Christopher Buultjens, General Manager – Operations Eranda Attanayaka, GM Liquid Island and Group Head of PR and Brand Communications Shalindri Malawana, and Group Head – Retail Ramesh Kumar
+
+The Chairman’s Award was presented to the Rockland Events and Communications team
+
+Award winners and recipients across 21 categories were recognised at the Centennial Chairman’s Awards
+
+3rd and 4th generation family members of the Rockland Group family Derek de Silva Wijeyeratne, Amal de Silva Wijeyeratne, and Devinda de Silva Wijeyeratne honoured with the Centenary Family Reserve
+
+...
+
+[Data](articles/697c4a27.json)
+
+[Extended Data](ext_articles/697c4a27.ext.json)
+
+---
+
+### Providing preferential numbers for general election candidates today
+
+*2024-10-16 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202222) · `si`
+
+Elections Commission announces preferential vote availability today. Commissioner General confirms receipt of preferential lists at District Secretariats. Gazette to be published for one general election candidate. Discussion planned between Corporation/Council secretaries on implementing election orders.
+
+🟩
+
+The Elections Commission says that the preferential votes of the parliamentary election can be obtained from the District Secretariats today (16).
+
+Commissioner General of Its Commissioner Saman Sri Ratnayake said that the preferential lists of the preferential lists has been received and taken to the District Secretariats.
+
+The gazette will be announced on behalf of one candidate in the general election today, he said.
+
+Meanwhile, a discussion is scheduled to be held between the Secretaries and Councils of all Corporations and Councils to advise on the implementation of orders regarding the general election.
+
+◼️
+
+[Data](articles/b0d6982f.json)
+
+[Extended Data](ext_articles/b0d6982f.ext.json)
+
+---
 
 ### Fashion and apparel lead Sri Lanka’s rise to creative powerhouse
 
@@ -100,6 +144,8 @@ Under the guidance of distinguished industry mentors, undergraduate students acr
 
 [Data](articles/b2d6511b.json)
 
+[Extended Data](ext_articles/b2d6511b.ext.json)
+
 ---
 
 ### COYLE’s trade delegation to South Korea forges new business alliance
@@ -113,6 +159,8 @@ The Chamber of Young Lankan Entrepreneurs (COYLE) recently led a high-profile tr
 ...
 
 [Data](articles/70fd1bce.json)
+
+[Extended Data](ext_articles/70fd1bce.ext.json)
 
 ---
 
@@ -129,6 +177,8 @@ The rights issue offered a total of 319,365,227 Ordinary Voting Shares to existi
 ...
 
 [Data](articles/884b4eab.json)
+
+[Extended Data](ext_articles/884b4eab.ext.json)
 
 ---
 
@@ -561,6 +611,42 @@ The beginning of the West Indies was the result of the 67 runs in Power Play, bo
 [Data](articles/c3ef8548.json)
 
 [Extended Data](ext_articles/c3ef8548.ext.json)
+
+---
+
+### சீரற்ற காலநிலையால் 159,547 பேர் பாதிப்பு
+
+*2024-10-16 01:35:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-159-547-பேர்-பாதிப்பு/175-345532) · `ta`
+
+அனர்த்த முகாமைத்துவ நிலையம் விடுத்துள்ள அறிக்கைக்கு அமைய, கம்பஹா மாவட்டத்திலேயே அதிக பாதிப்புகள் பதிவாகியுள்ளன.
+
+அதேநேரம், 2,433 குடும்பங்களைச் சேர்ந்த 10,361 பேர் தங்களது வீடுகளிலிருந்து வெளியேற்றப்பட்டுப் பாதுகாப்பான இடங்களில் தங்க வைக்கப்பட்டுள்ளனர் என அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/68b33b2e.json)
+
+---
+
+### අලුතින් පත්වන ආණ්ඩුවට ඇති  අභියෝග සහ විසඳුම් සෙවීමට ඇති ගැටලු මොනවාද?
+
+*2024-10-16 01:30:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgd09gjx8yo) · `si`
+
+අලුතින් පත්වන ආණ්ඩුවට ඇති  අභියෝග සහ විසඳුම් සෙවීමට ඇති ගැටලු මොනවාද?
+
+2024 මහ මැතිවරණය ශ්‍රී ලංකා ඉතිහාසයේ විශේෂිත වූ මැතිවරණයකි. ඡන්ද විමසීම පැවැත්වීමටත් පෙර නවක මුහුණු රැසක් මෙවර පාර්ලිමේන්තුව නියෝජනය කරනු ඇතැයි යන්න අවිවාදිත කාරණයක් බවට පත්ව තිබේ.
+
+මීට හේතුව සාම්ප්‍රදායික සහ පවුල් බලය පැවති ජ්‍යෙෂ්ඨ දේශපාලනඥයින් රැසක් මැතිවරණයට පෙර ස්වයං විශ්‍රාම ගැනීමට තීරණය කිරීම ය. පසුගිය පාර්ලිමේන්තුව නියෝජනය කළ මන්ත්‍රීවරුන් 50කට අධික පිරිසක් මෙවර මහ මැතිවරණයට තරග නොකිරීමට තීරණය කර තිබේ.
+
+යුද්ධය, ත්‍රස්තවාදය පරාජය කිරීම, අන්තවාදය පරජය කිරීම, ජාතික ආරක්ෂාව,  ආර්ථිකය හා සංවර්ධනය සහ සහනාධාර යන මාතෘක කලක පටන්  මෙරට මැතිවරණ වේදිකාවල ප්‍රධාන තේමා බවට පත්විය.
+
+නමුත් 2024 මහ මැතිවරණයේදී එම මාතෘකාවලට කිසිදු වටිනාකමක් ඇති අයුරු දක්නට නොලැබේ.
+
+ඒ වෙනුවට ආර්ථික අර්බුදයට විසඳුම් සෙවීම, අල්ලස හා දුෂණය පිටුදැකීම, දුෂිත ක්‍රියාවන්ට එරෙහිව විමර්ශන නිසි අයුරින් ක්‍රියාත්මක කිරීම සහ දුෂිත සහ වයස්ගත දේශපාලනඥයින් ගෙදර යැවීමට ජනතාවගේ වැඩි උනන්දුවක් පවතින බව පෙනීයන කරුණකි.
+
+...
+
+[Data](articles/7b4cbd0e.json)
 
 ---
 
@@ -2233,91 +2319,5 @@ He explained that the committee is currently reviewing recommendations based on 
 [Data](articles/b762aff4.json)
 
 [Extended Data](ext_articles/b762aff4.ext.json)
-
----
-
-### University students to unique
-
-*2024-10-15 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202203) · `si`
-
-Wasp attacks university students at Ruhuna University camp. 6 students injured, hospitalized. Incident occurred on 15th day of month.
-
-🟩
-
-Wasp attacked a group of university students who went to camp in Bopattala Kanda Kanda Kanda.
-
-The wasp attack on the area at Ruhuna University today (15), 6 students who were injured have been admitted to the Bogawantalawa Hospital.
-
-◼️
-
-[Data](articles/2234bb51.json)
-
-[Extended Data](ext_articles/2234bb51.ext.json)
-
----
-
-### FR petition against releasing 2024 Grade 05 Scholarship exam results
-
-*2024-10-15 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102712/fr-petition-against-releasing-2024-grade-05-scholarship-exam-results) · `en`
-
-A Fundamental Rights (FR) petition has been filed with the Supreme Court seeking an order preventing the release of 2024 Grade 05 Scholarship Examination results and the cut-off marks.
-
-The petitions were filed by the parents of several students who appeared for the 2024 Grade 05 Scholarship Examination which was held on September 15, 2024.
-
-The petitioners have requested the Supreme Court through their FR petition that an order be issued invalidating the question paper 01 of the 2024 Grade 05 Scholarship Examination in which certain questions are alleged to have been leaked, and that the exam be held again.
-
-Furthermore, the petition seeks an order be issued to the relevant authorities to re-conduct the question paper 02 of the examination as well, if it is uncovered during investigations that the relevant question paper has also been leaked.
-
-...
-
-[Data](articles/9c8af464.json)
-
-[Extended Data](ext_articles/9c8af464.ext.json)
-
----
-
-### Murder of Madulzima;Arrest
-
-*2024-10-15 15:18:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மடுல்சீம-கொலை-மேலுமொருவர்-கைது/76-345504) · `ta`
-
-Murder suspect arrested in Sri Lanka. Body not found after alleged disposal. Two arrests made so far. Investigation ongoing.
-
-🟩
-
-Holly Ela Rosetwatte area has been arrested by Vivekanandan Sujeevan, a three -wheeler driver, who was arrested on Tuesday (15) on suspicion of throwing a body from the end of the world from the end of the world.. .
-
-A father of four children from Madulzima, Batawatte area (27 years old) has been arrested.
-
-The body of a young man who was thrown was not found till Tuesday (15), police said.
-
-It is noteworthy that the 34 -year -old Chandra Bose Dayalan, a 34 -year -old man, has already been arrested on suspicion.
-
-◼️
-
-[Data](articles/e8bd7cb5.json)
-
-[Extended Data](ext_articles/e8bd7cb5.ext.json)
-
----
-
-### West Indies - Sri Lanka's second T20 match today
-
-*2024-10-15 15:01:15* · [`adalk`](https://www.ada.lk/sports/කොදෙව්---ශ්‍රී-ලංකා-දෙවන-විස්සයි-20-තරගය-අද/9-412505) · `si`
-
-Sri Lanka vs West Indies 2nd T20: Today at 7:30 PM, Rangiri Dambulla International Stadium. West Indies leads series 1-0.
-
-🟩
-
-The Second T20 T20 cricket match against the tourist West Indies is scheduled to be held today (15).
-
-The match will be opened at Rangiri Dambulla International Stadium at 7.30 pm today.
-
-The West Indies won the first Twenty20 match between the two countries, the match of the three-match Trosie 20 of the Trosi 20, is a zero.
-
-◼️
-
-[Data](articles/fc0549d0.json)
-
-[Extended Data](ext_articles/fc0549d0.ext.json)
 
 ---

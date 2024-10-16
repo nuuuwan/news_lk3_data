@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 18:00:27**
+As of **2024-10-16 18:20:20**
 
 ## Newspaper Stats
 
-*Scraped **49,845** Articles*
+*Scraped **49,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 3,050
 dailyftlk | 3,384
 adalk | 4,636
 dailymirrorlk | 4,733
-adaderanalk | 5,904
+adaderanalk | 5,905
 tamilmirrorlk | 6,819
 virakesarilk | 7,978
-adaderanasinhalalk | 8,633
+adaderanasinhalalk | 8,634
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,845 (100.0%) of 49,845 articles have been extended.
+49,847 (100.0%) of 49,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Police seek public assistance to identify deceased persons in separate cases
+
+*2024-10-16 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102742/police-seek-public-assistance-to-identify-deceased-persons-in-separate-cases) · `en`
+
+Sri Lanka Police is seeking public assistance to identify two deceased individuals related to two separate incidents in Homagama and Kegalle areas.
+
+With regard to the first case, Homagama Police had received a complaint on October 01 regarding the discovery of an unidentified body. The facts related to the deceased was reported to the Homagama Magistrate’s Court, and a magisterial inquiry was conducted. The body was then placed in the Homagama Hospital mortuary for a post-mortem examination.
+
+According to police, the identity of the deceased has yet to be confirmed. They estimate the individual to be approximately 5 feet and 2 inches tall with an average build. However, the condition of the body has made identification difficult, police said.
+
+Accordingly, any information regarding the relevant deceased person are requested to be provided through the following contact numbers:
+
+...
+
+[Data](articles/2baa192e.json)
+
+[Extended Data](ext_articles/2baa192e.ext.json)
+
+---
+
+### Fire destroys a school building
+
+*2024-10-16 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202246) · `si`
+
+School building destroyed by fire; 2-story multipurpose facility burned down; students evacuated; police investigating; school authorities facing crisis due to loss of classrooms.
+
+🟩
+
+A two storied fire was completely destroyed by a sudden fire.
+
+The Multipurpose two storied building belonging to the Akuressa Education Zone of the Matara District has on fire.
+
+The residents of the area and the general area had taken measures to see their children in the stadium and screaming on how to shoot at the stadium yesterday.
+
+However, at that time all the items in the building had been burnt down, our correspondent said.
+
+A dog was also killed in the school premises.
+
+The building was destroyed by fire, mattress chairs and electrical equipment worth more than Rs.
+
+Matara Division Criminal Investigations Officers today (16) and commenced further investigations into the incident.
+
+According to our correspondent, the police are conducting the suspects to arrest the suspects.
+
+In this building, five classes have been operated in the school and the school authorities are faced with a crisis.
+
+...
+
+[Data](articles/bc2b50a7.json)
+
+[Extended Data](ext_articles/bc2b50a7.ext.json)
+
+---
 
 ### The body of the driver's body was recovered from the end of the world
 
@@ -2367,43 +2421,5 @@ As concerned citizens of this country, a group of well-meaning individuals and p
 [Data](articles/fbf3245b.json)
 
 [Extended Data](ext_articles/fbf3245b.ext.json)
-
----
-
-### President reminds State officials’ responsibility to protect public wealth
-
-*2024-10-16 06:02:27* · [`dailyftlk`](https://www.ft.lk/news/President-reminds-State-officials-responsibility-to-protect-public-wealth/56-768019) · `en`
-
-President Anura Kumara Dissanayake yesterday called on the State officials to protect public wealth similar to religious property, insisting that no one has a legitimate right to subject that wealth to fraud or corruption.
-
-“I will stand by every action taken in the public’s interest within the boundaries of official duty and will not hesitate to take necessary action if improper acts are committed,” he said, during a progress review meeting of the Power and Energy Ministry yesterday.
-
-Stating that the commitment of the current public servants is essential to create an efficient and effective public service that satisfies the citizens, the President said he is ready to take every step necessary to achieve this.
-
-“Public servants must act with responsibility and accountability to fulfil the structure, goals and expectations of people’s mandate,” he said.
-
-...
-
-[Data](articles/4b1f5ad1.json)
-
-[Extended Data](ext_articles/4b1f5ad1.ext.json)
-
----
-
-### Viruliya Sevana, ex-female armed forces veterans celebrate 10th anniversary
-
-*2024-10-16 06:01:26* · [`dailyftlk`](https://www.ft.lk/news/Viruliya-Sevana-ex-female-armed-forces-veterans-celebrate-10thanniversary/56-768018) · `en`
-
-Viruliya Sevana, an organisation of ex-female veterans from the Army, Navy, and Air Force, is proudly celebrating its 10th anniversary with the telecast of an inspiring documentary film titled Aapasu Haren in conjunction with International Children’s Day.
-
-This impactful film, centred on a child-focused theme, thoughtfully explores the evolving values in modern society and the unique challenges faced by today’s younger generation. The story culminates in an empowering message, encouraging adult viewers to seek solutions within themselves, fostering a safer and more nurturing environment for our children.
-
-The documentary beautifully embodies Viruliya Sevana’s guiding motto, “Yaha Guna Dam Veduma Uthum” meaning “Fostering positive qualities is invaluable” and features a talented cast of children of retired military women.
-
-...
-
-[Data](articles/ce4067fe.json)
-
-[Extended Data](ext_articles/ce4067fe.ext.json)
 
 ---

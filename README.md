@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 15:23:20**
+As of **2024-10-16 15:39:34**
 
 ## Newspaper Stats
 
-*Scraped **49,822** Articles*
+*Scraped **49,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,899
 tamilmirrorlk | 6,817
 virakesarilk | 7,971
-adaderanasinhalalk | 8,626
+adaderanasinhalalk | 8,627
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,822 (100.0%) of 49,822 articles have been extended.
+49,823 (100.0%) of 49,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Police seek public assistance to identify a dead person
+
+*2024-10-16 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202239) · `si`
+
+Police seeking help identifying unidentified body found in Homagama. Body at hospital morgue for autopsy. Public urged to contact specified phone numbers with any information.
+
+🟩
+
+A complaint was lodged at Homagama at Homagama on 01 September, 2024.10.2010.
+
+The Homagama Magistrate's Court was reported to the Homagama Magistrate's Court and a magisterial inquiry.
+
+The remains were placed at the Homagama hospital morgue for the post mortem.
+
+The identity of the deceased has not yet been established, police say the tall is a normal body of five feet. However, the body is unable to identify, the police said.
+
+The police urge the public to inform the following telephone numbers to the following telephone numbers.
+
+◼️
+
+[Data](articles/8a9f4334.json)
+
+[Extended Data](ext_articles/8a9f4334.ext.json)
+
+---
 
 ### Mannar Fossils: Special Command
 
@@ -2387,27 +2413,5 @@ President Anura Kumara Dissanayake has said that he is supporting every people's
 [Data](articles/aae0c80b.json)
 
 [Extended Data](ext_articles/aae0c80b.ext.json)
-
----
-
-### Sri Lanka defeated the West Indies
-
-*2024-10-15 23:24:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/மேற்கிந்தியத்-தீவுகளை-வீழ்த்திய-இலங்கை/44-345527) · `ta`
-
-Sri Lanka triumphs over West Indies in T20I match. Sri Lanka scored 162/5, while West Indies was bowled out for 89. Key contributors were Pattum Nisanga (54) and Dunith Wellalage (3/9).
-
-🟩
-
-Sri Lanka won the second match in Dambulla today in the Twenty -20 International Tournament with three matches against the West Indies.
-
-Sri Lanka: 162/5 (20 Ova. ) (Pattum Nisanga 54 (49), Kusal Mendis 26 (25), Kusal Perera 24 (16), Camundu Mendis 19 (14). Bowling: Romario Shepherd 2/23 [3], Alzari Joseph 1/33 [4], Kudakesh Moti 0/13 [4], Roston Chase 0/24 [4])
-
-May the. Islands: 89/10 (16.1 ova. ) (Cash: Rowman Powell 20 (17), Alzari Joseph 16 (10). Bowling: Dunith Vellalale 3/9 [4], Sarit Asalanga 2/6 [2], Mahesh Deekshana 2/7 [3.1], Madisha Pathrana 1/12 [2])
-
-◼️
-
-[Data](articles/e6422910.json)
-
-[Extended Data](ext_articles/e6422910.ext.json)
 
 ---

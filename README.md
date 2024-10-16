@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 22:14:15**
+As of **2024-10-16 22:25:05**
 
 ## Newspaper Stats
 
-*Scraped **49,874** Articles*
+*Scraped **49,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,059
 dailyftlk | 3,384
-adalk | 4,641
+adalk | 4,642
 dailymirrorlk | 4,733
-adaderanalk | 5,907
+adaderanalk | 5,908
 tamilmirrorlk | 6,823
 virakesarilk | 7,979
-adaderanasinhalalk | 8,640
+adaderanasinhalalk | 8,641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,874 (100.0%) of 49,874 articles have been extended.
+49,877 (100.0%) of 49,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Streamlined road development essential for advancing rural economic growth – President
+
+*2024-10-16 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102745/streamlined-road-development-essential-for-advancing-rural-economic-growth-president) · `en`
+
+President Anura Kumara Dissanayake emphasized that enhancing the efficiency of road development projects is crucial for achieving rural economic development goals, the President’s Media Division (PMD) reported.
+
+He highlighted the need to streamline the procurement process for these projects, ensuring that local communities benefit rather than allowing contracts to concentrate in the hands of a few.
+
+The President made these remarks during a progress review meeting for the Ministry of Transport, Highways, Ports, and Civil Aviation held today (16) at the Presidential Secretariat, the PMD said.
+
+The meeting extensively covered various projects under the ministry, with a particular focus on the construction of the Kadawata-Mirigama section of the Central Expressway.
+
+He underscored the importance of developing ports, airports, and highways for the economic growth of the country, asserting that careful planning of these projects could significantly uplift the national economy.
+
+...
+
+[Data](articles/4c1f6ff1.json)
+
+[Extended Data](ext_articles/4c1f6ff1.ext.json)
+
+---
+
+### President instructs of construction of Central Expressway
+
+*2024-10-16 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202253) · `si`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake emphasizes rural economic development through formalized procurement processes for road projects. He focuses on constructing the Central Expressway and implementing railway projects. The president aims to create a long-term national plan to boost Sri Lanka's agricultural industry and eliminate rural poverty.
+
+🟩
+
+President Anura Kumara Dissanayake says that the formal and efficient to achieve rural economic development goals.
+
+The President also pointed out that the procurement process should be formalized in the implementation of rural road development projects and the benefits of the local and rural people are the importance of the project.
+
+President Anura Kumara Dissanayake made these comments at the progress review meeting of the Ministry of Highways, Ports and Civil Aviation at the Presidential Secretariat today (16).
+
+The Central Expressway has also focused on the construction of the Central Expressway at the construction of the Mirigama section.
+
+President Anura Kumara Dissanayake has also informed the officials to implement the immediate implementation of the Railways Project Railways and the public.
+
+Meanwhile, President Anura Kumara Dissanayake said that a long-term national plan should be implemented to bring agricultural industrial in Sri Lanka to organize agriculture in Sri Lanka.
+
+...
+
+[Data](articles/c07f8569.json)
+
+[Extended Data](ext_articles/c07f8569.ext.json)
+
+---
 
 ### CID regulations not to take no step on Mahara incident
 
@@ -321,6 +375,36 @@ The Colombo Crimes Division is also investigated by the shooting. Grandpass poli
 [Data](articles/cf1d7600.json)
 
 [Extended Data](ext_articles/cf1d7600.ext.json)
+
+---
+
+### Ali Sabri gets into lawyer - takes the first injunction order
+
+*2024-10-16 18:26:22* · [`adalk`](https://www.ada.lk/breaking_news/අලි-සබ්‍රි-නීතිඥ-වැඩට-බහියි---පළමු-තහනම්-නියෝගය-ගනියි/11-412534) · `si`
+
+Court of Appeal issues injunction against cable car project in Sri Lanka, citing lack of protection for the site. Ali Sabri represents the petitioner, seeking to expand the project.
+
+🟩
+
+The Court of Appeal was issued today (16), without obstructing or interfere with the first cable car project in Sri Lanka.
+
+The Court of Appeal has issued the prohibition of the prohibition of the prohibition of the Attorney Appeal, claiming that there is no protection to the site of the Cable Car Project.
+
+Appeal Court Judges Lapar Thaiar and P. The petition was in the face of the Court of Appeal of Kumarantaum.
+
+Gampola Divisional Secretary Dilrurukhi Jayaratne has made the Sri Lanka Tourist Board and Board of Investment as responders filed by the Rajagiriya Amber Advoner.
+
+President Attorney Attorney-at-Law Elephant Sabiru, appearing on behalf of the petitioner, is the first cable car project in the Ambuluwawa area.He said to the court.
+
+The media spokesman said that the media said that the area was infected with the Urban Development Authority.
+
+The President's Counsel asked the court to issue an interim order for the districts of the Gampola Divisional Secretary for the expansion.
+
+...
+
+[Data](articles/ac702c62.json)
+
+[Extended Data](ext_articles/ac702c62.ext.json)
 
 ---
 
@@ -2431,83 +2515,5 @@ Puttalam Divisional Crimes Unit is conducting further investigations into the in
 [Data](articles/28531b79.json)
 
 [Extended Data](ext_articles/28531b79.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 293.00/10 to US dollar, bond yields up
-
-*2024-10-16 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-293-00-10-to-us-dollar-bond-yields-up-183818/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened slightly stronger at 293.00/10 to the US dollar on Wednesday, from 293.30/60 a day earlier, while bond yields were up dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 11.25/35 percent, up from 11.20/30 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.55/65 percent, up from 11.50/65 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.80/12.00 percent, up from 11.75/90 percent.
-
-In equities, Colombo’s All Share Price Index was trading up 0.14 percent, or 16.73 points higher at 12,274, while the S&P SL20 of more liquid stocks was trading up 0.25 percent or 9.17 points higher at 3,616.
-
-◼️
-
-[Data](articles/1bd66d6b.json)
-
-[Extended Data](ext_articles/1bd66d6b.ext.json)
-
----
-
-### Film filming in Indian film is the final upcountry railway station
-
-*2024-10-16 09:29:08* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-චිත්‍රපටයේ-රූගත-කිරිම-අවසන්-උඩරට-දුම්රිය-ගමනය-සාමාන්‍ය-ලෙස/11-412523) · `si`
-
-Indian film crew shoots scenes at Udaraalapitiya Railway Station. Special bus service runs between waterfalls. Film "Miralee" opens September 9th.
-
-🟩
-
-Udaralapitiya Railway Control Room (UPFA Railway Control Room) says that the Colombo Fortwa Badulla has been re-operated from today (16)..
-
-The shooting of the Upcountry railway line in the Mirallewa has commenced its filtering near the Archkuth Bridge.
-
-The Railway Control Room stated that the Railway Department has also traveled with a special luxury bus service between the falls on the falls on the falls in the falls.
-
-Sri Lanka Joint Design Miraley Movie Miraley Miraley film Falls opened the aircraft on the 9th and expanded the aircraft.
-
-The Energy Aruffu Bridge was near the Archkula Bridge to the film industry for the film industry.
-
-◼️
-
-[Data](articles/0f582593.json)
-
-[Extended Data](ext_articles/0f582593.ext.json)
-
----
-
-### දින 67 මුහුදේ අතරමංව සිටියත් තරබාරු බව නිසා බේරුණු රුසියානුවා
-
-*2024-10-16 09:22:32* · [`adalk`](https://www.ada.lk/breaking_news/දින-67-මුහුදේ-අතරමංව-සිටියත්-තරබාරු-බව-නිසා-බේරුණු-රුසියානුවා/11-412522) · `si`
-
-Here's a 200-character summary:
-
-
-
-Russian man rescued after 67 days adrift. He and family went whale watching. Others died. Found 62 miles out. Weakened from 100kg to 50kg. Obesity saved his life.
-
-🟩
-
-67 days later, a Russian was rescued.
-
-මිකායිල් පිචුගන් (46) නැමැති මෙම පුද්ගලයා අගෝස්තු මාසයේ මුල රුසියාවේ නැගෙනහිර මුහුදේ හුලං පිරවිය හැකි බෝට්ටුවකින් ඔහුගේ සොහොයුරා (49) සහ සොහොයුරාගේ බෑනා (15)  සමග මුහුදේ තල්මසුන් නැරඹීමට ගොස් තිබේ.
-
-මෙලෙස මෙම පිරිස සොයා ගන්නා අවස්ථාවේ අනෙක් පුද්ගලයන් දෙදෙනා මිය​ගොස් සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-මෙම පිරිස තල්මසුන් නැරඹීමට ගිය ස්ථානයේ සිට කිලෝමීටර් 1,000 (සැතපුම් 620ක්) ඈත මුහුදේදී මෙම පිරිස සොයාගෙන ඇත.
-
-When Michail leaves the house, 100 kilograms was weakened in 100kg when recovered, and was weaked in 50 kilograms. Doctors have said that the person is able to save the life due to obesity.
-
-◼️
-
-[Data](articles/fd898c6d.json)
-
-[Extended Data](ext_articles/fd898c6d.ext.json)
 
 ---

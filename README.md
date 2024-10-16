@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 15:10:29**
+As of **2024-10-16 15:23:20**
 
 ## Newspaper Stats
 
-*Scraped **49,820** Articles*
+*Scraped **49,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,050
 dailyftlk | 3,384
-adalk | 4,633
+adalk | 4,634
 dailymirrorlk | 4,733
 adaderanalk | 5,899
-tamilmirrorlk | 6,816
+tamilmirrorlk | 6,817
 virakesarilk | 7,971
 adaderanasinhalalk | 8,626
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 8,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,820 (100.0%) of 49,820 articles have been extended.
+49,822 (100.0%) of 49,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Mannar Fossils: Special Command
+
+*2024-10-16 14:57:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-புதைக்குழிகள்-விசேட-கட்டளை-பிறப்பிப்பு/175-345562) · `ta`
+
+Mannar Fossils: Special Command
+
+
+
+Human burials discovered in Mannar-Thiruketheeswaram area. Investigations ongoing at Mannar Court. Human remains exhumed, samples sent for analysis. Case adjourned until Nov 21. Report on excavation and cause of death expected.
+
+🟩
+
+மன்னார்- திருக்கேதீஸ்வரம் மனித புதைகுழி மற்றும் மன்னார் நகர பகுதியில் காணப்படும் மன்னார் சதோச மனித புதைகுழி ஆகிய மனித புதைகுழிகள் இரண்டு தொடர்பான  விசாரணைகளும்   மன்னார் நீதிமன்றத்தில் விசாரணைகளுக்காக புதன்கிழமை(16) எடுத்துக் கொள்ளப்பட்டதாக காணாமல் ஆக்கப்பட்டவர்களின் உறவுகள் சார்பாக மன்றில் முன்னிலையாகும் சட்டத்தரணி வி.எஸ்.நிறைஞ்சன் தெரிவித்தார்.
+
+When the case was taken up for hearing, Dr. VL Vidyalaya Redna, CIT officials, lawyers and state lawyers on behalf of the disappeared were present at the House.
+
+At the same time, the doctor has made requests for the sake of sending the samples from human remains to the Pulorida for the CE-14 examination.
+
+In addition, a report on samples of human remains already taken by the doctor's type will be submitted to the House on Wednesday (16).
+
+The report will be submitted to the House that day.
+
+...
+
+[Data](articles/ece56504.json)
+
+[Extended Data](ext_articles/ece56504.ext.json)
+
+---
 
 ### Two arrested over woman’s suspicious death in Mugunuwatawana
 
@@ -133,6 +163,32 @@ Sri Lanka cricket team selection committee head Umar Thibau arrested due to cour
 [Data](articles/085d6207.json)
 
 [Extended Data](ext_articles/085d6207.ext.json)
+
+---
+
+### European journey stopped by Italy
+
+*2024-10-16 12:53:19* · [`adalk`](https://www.ada.lk/breaking_news/යුරෝපා-ගමන-ඉතාලියෙන්-නවතී/11-412527) · `si`
+
+Iranian national arrested at Sri Lanka airports for passport fraud and illegal entry attempts.
+
+🟩
+
+An Iranian national who was arrested in the Katunayaka Airport on the morning of 10/16th day, a Iranian national arrested at the Bandaranaike International Airport on the morning of 10/16th day.
+
+මොහු 40 හැවිරිදි ඉරාන ජාතිකයෙකි. He had reached the Katunayake airport on Air Force on Air Force, the airport of the United Arab Emirates on 10/16.
+
+Obtaining the Visa to enter the airportHas been confirmed.
+
+Immigration and Emigration Department (Immigration Department) had taken the Italian National Passport information to the National Central Bureau of Criminal Investigations Department. එහිදී ද මෙම ඉතාලි ජාතික ගමන් බලපත්‍රය නැතිවූ සහ සොරකම් කරන ලද , ජාත්‍යන්තර පොලිස් තොරතුරු පද්ධතියේ සදහන් ගමන් බලපත්‍රයක් බවට සනාථ වී තිබේ .
+
+මෙම විමර්ශන සිදු කෙරෙමින් පවතින අතරතුර , මෙම ඉරාන ජාතිකයා , එම ස්ථානයෙන් හෙමින් පිටවී ගොස් , ඔහු මෙතෙක් සගවා ගෙන සිටි , ඉරාන ජාතික ගමන් බලපත්‍රය අසළ තිබූ ආගමන කවුළුවක් වෙත ඉදිරිපත් කර , යළිත් මෙරටට ඇතුළු වීමට තැත් කර තිබේ.
+
+...
+
+[Data](articles/48b17a93.json)
+
+[Extended Data](ext_articles/48b17a93.ext.json)
 
 ---
 
@@ -2353,47 +2409,5 @@ May the. Islands: 89/10 (16.1 ova. ) (Cash: Rowman Powell 20 (17), Alzari Joseph
 [Data](articles/e6422910.json)
 
 [Extended Data](ext_articles/e6422910.ext.json)
-
----
-
-### Sri Lanka won by 73 runs in the second T20 match
-
-*2024-10-15 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196392) · `ta`
-
-Sri Lanka wins 2nd T20 vs West Indies by 73 runs. Dunit Vellalake takes 3/9. Sri Lanka bats 162/5, Patum Nissanka scores 54. West Indies struggles to 89/16.
-
-🟩
-
-Sri Lanka won the second T20 match between the West Indies and Sri Lanka by 73 runs.
-
-Dunit Vellalake, who was involved in the bowling, took 3 wickets for 9 runs.
-
-Sri Lanka won the toss and elected to bat first and scored 162 runs for the loss of 5 wickets at the end.
-
-Patum Nissanka scored 54 runs, Kusal Mendis scored 26 runs and Kusal Perera 24 runs.
-
-The West Indies team was able to score only 89 runs in 16 overs due to the great bowling of Sri Lankan bowlers.
-
-◼️
-
-[Data](articles/4a595e22.json)
-
-[Extended Data](ext_articles/4a595e22.ext.json)
-
----
-
-### Forward plans to transform Sri Lanka into a global aviation and logistics hub
-
-*2024-10-15 22:35:00* · [`islandlk`](http://island.lk/forward-plans-to-transform-sri-lanka-into-a-global-aviation-and-logistics-hub/) · `en`
-
-Harischandra Gunaratna of The Island Financial Review speaks to Andre Fernando, Managing Director of MAC Holdings (PRIVATE) LTD
-
-Sri Lanka’s strategic location in the Indian Ocean among major air routes connecting Asia, Europe, Africa and the Middle East, offers a unique opportunity to transform the island into a thriving aviation hub. With the right investments and policy changes, Sri Lanka can leverage its geographical advantage to bolster tourism, facilitate international cargo & passenger transportation, and serve as a key transit point for passengers and goods. This vision not only promises to boost the nation’s economy but also has the potential to redefine its position on the global aviation map. Perfect example is the growth of 4 prominent airlines; Emirates, Fly Dubai, Air Arabia and Etihad and their importance to the economy of UAE, which was a desert in the mid-1990s.
-
-...
-
-[Data](articles/3d16976d.json)
-
-[Extended Data](ext_articles/3d16976d.ext.json)
 
 ---

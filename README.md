@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 06:44:38**
+As of **2024-10-16 07:27:12**
 
 ## Newspaper Stats
 
-*Scraped **49,741** Articles*
+*Scraped **49,750** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,171 @@ colombotelegraphcom | 494
 bbccomsinhala | 499
 islandlk | 2,949
 economynextcom | 3,047
-dailyftlk | 3,375
+dailyftlk | 3,383
 adalk | 4,624
 dailymirrorlk | 4,733
 adaderanalk | 5,884
 tamilmirrorlk | 6,799
 virakesarilk | 7,965
-adaderanasinhalalk | 8,608
+adaderanasinhalalk | 8,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,732 (100.0%) of 49,741 articles have been extended.
+49,735 (100.0%) of 49,750 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Fashion and apparel lead Sri Lanka’s rise to creative powerhouse
+
+*2024-10-16 06:38:47* · [`dailyftlk`](https://www.ft.lk/business/Fashion-and-apparel-lead-Sri-Lanka-s-rise-to-creative-powerhouse/34-768042) · `en`
+
+Mercedes-Benz Fashion Week SL 2024 makes a statement with DIMO and AOD
+
+Sri Lanka gears up for its global fashion highlight Mercedes-Benz Fashion Week SL 2024 (MBFWSL) produced by AOD and powered by DIMO as the only authorised general distributor for Mercedes-Benz in the country: 7 to 10 November at Cinnamon Life at City of Dreams Sri Lanka, in conjunction with the Sri Lanka Design Festival (SLDF)
+
+MBFWSL spotlights Sri Lanka’s design talent, rich textile heritage, and advanced apparel manufacturing, leading the charge in empowering local creative industries through a strong agenda focused on uplifting young designers, fostering sustainable practices, and engaging local communities in the business of fashion
+
+Focus on education, research, and innovation underpins SL’s fashion industry, promoting the island as the South Asian hub for creativity
+
+...
+
+[Data](articles/00a4886c.json)
+
+[Extended Data](ext_articles/00a4886c.ext.json)
+
+---
+
+### කාලගුණයේ වෙනසක්
+
+*2024-10-16 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202220) · `si`
+
+Climate change: Rainfall decreases gradually in Sri Lanka's western region.
+
+🟩
+
+දිවයිනේ නිරිත දිග කොටසේ පවතින තද වැසි තත්ත්වය ක්‍රමයෙන් අඩුවනු ඇතැයි බලාපොරොත්තුවේ.
+
+◼️
+
+[Data](articles/52921014.json)
+
+[Extended Data](ext_articles/52921014.ext.json)
+
+---
+
+### Santapaws Xmas bazaar and runway to rescue, usher in festive season
+
+*2024-10-16 06:34:31* · [`dailyftlk`](https://www.ft.lk/business/Santapaws-Xmas-bazaar-and-runway-to-rescue-usher-in-festive-season/34-768041) · `en`
+
+From left: Headlines, PR and Events and RAS Manager Upul Wijenayake, Cinnamon Colombo Hotels Area Vice President and Cinnamon Grand Colombo General Manager Kamal Munasinghe, Headlines PR and Events Chairman and RAS Founding Trustee Anusha David and Brian Kerkoven Academy Choreographer and Founder Brian Kerkoven and Thiran Ranatunga of RAS
+
+It’s the season to be loving and giving especially to the less fortunate, and what better way to do so, than to usher in the festive season, keeping in mind man’s best friend.
+
+Rescue Animals Sri Lanka will do just that with two joyous and fun filled, not forgetting glamour and bling events, that will be held in aid of the Rescue Animals Sri Lanka Trust.
+
+...
+
+[Data](articles/ecc8bc08.json)
+
+[Extended Data](ext_articles/ecc8bc08.ext.json)
+
+---
+
+### CFA Society Sri Lanka announces WindForce as subject company for local competition of Institute Research Challenge Sri Lanka 2024/25
+
+*2024-10-16 06:22:07* · [`dailyftlk`](https://www.ft.lk/business/CFA-Society-Sri-Lanka-announces-WindForce-as-subject-company-for-local-competition-of-Institute-Research-Challenge-Sri-Lanka-2024-25/34-768030) · `en`
+
+CFA Society Sri Lanka recently announced that WindForce PLC has been selected as the subject company for its 18th annual CFA Institute Research Challenge Sri Lanka 2024/25. The CFA Institute Research Challenge is an annual global competition that promotes best practices and ethical standards in equity research among university students, offering them invaluable hands-on experience, mentorship, and training in the field. The challenge provides participating students with the opportunity to engage in real-world financial analysis and equity research.
+
+Under the guidance of distinguished industry mentors, undergraduate students across Sri Lanka will undertake the task of producing comprehensive equity research reports on WindForce PLC, a leading player in Sri Lanka’s renewable energy sector.
+
+...
+
+[Data](articles/b2d6511b.json)
+
+---
+
+### COYLE’s trade delegation to South Korea forges new business alliance
+
+*2024-10-16 06:13:40* · [`dailyftlk`](https://www.ft.lk/business/COYLE-s-trade-delegation-to-South-Korea-forges-new-business-alliance/34-768024) · `en`
+
+COYLE Chairman Thushira Radella (left) and IMA Chamber of Commerce President Yang Hee Chul
+
+The Chamber of Young Lankan Entrepreneurs (COYLE) recently led a high-profile trade delegation to the Republic of Korea, marking a significant milestone for the Sri Lankan business industry. This visit, commemorating the chamber’s 25th anniversary, aims to strengthen economic ties and open up new business avenues between Sri Lanka and South Korea. Spearheaded by COYLE Chairman Thushira Raddella and the Foreign Delegations and Overseas Business Promotion Subcommittee Chairman Manusha Weeraratne, the mission signifies a new era of collaboration between the two nations.
+
+...
+
+[Data](articles/70fd1bce.json)
+
+---
+
+### Hela Apparel Holdings completes successful rights issue, raising Rs. 1.6 b
+
+*2024-10-16 06:12:34* · [`dailyftlk`](https://www.ft.lk/business/Hela-Apparel-Holdings-completes-successful-rights-issue-raising-Rs-1-6-b/34-768023) · `en`
+
+Hela Apparel Holdings PLC has confirmed the successful completion of its rights issue, raising Rs. 1,596,826,135 through the issue of shares.
+
+This achievement reflects the strong support of the company’s shareholders and will contribute to the strengthening of the Hela Group’s balance sheet for future growth.
+
+The rights issue offered a total of 319,365,227 Ordinary Voting Shares to existing shareholders on a proportional basis. As a result of the subscriptions received from shareholders, including from the company’s top three shareholders, and applications for additional shares, the issue was successfully oversubscribed on the closing date.
+
+...
+
+[Data](articles/884b4eab.json)
+
+---
+
+### Cinnamon Life opens: Colombo’s new landmark designed by Cecil Balmond
+
+*2024-10-16 06:12:09* · [`dailyftlk`](https://www.ft.lk/business/Cinnamon-Life-opens-Colombo-s-new-landmark-designed-by-Cecil-Balmond/34-768022) · `en`
+
+Cinnamon Life, the latest lifestyle project by John Keells, officially opened yesterday in Colombo, designed by world-renowned architect Cecil Balmond.
+
+The five million square foot integrated resort, designed by Balmond’s London-based studio, is set to position Colombo as a key hub on the global stage. Balmond Studio was responsible for architecture, engineering, project management and interior design of public spaces, including bespoke lighting installations.
+
+He described the design of Cinnamon Life as inspired by abstract geometry and linked it to Sri Lanka’s ancient architectural marvels in Anuradhapura.
+
+“The epic scale of such construction and its ground-breaking ambitions are now realised once again in a contemporary setting, uniquely, in this City of Dreams,” Balmond said.
+
+...
+
+[Data](articles/a5a2d872.json)
+
+---
+
+### CA Sri Lanka pays tribute to three veteran Chartered Accountants for outstanding contributions to corporate, society and country
+
+*2024-10-16 06:10:21* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-pays-tribute-to-three-veteran-Chartered-Accountants-for-outstanding-contributions-to-corporate-society-and-country/34-768021) · `en`
+
+The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) recently paid tribute to three distinguished Chartered Accountants for their remarkable contributions to the corporate, society and country spanning many decades.
+
+At the inauguration ceremony of the 45th National Conference of Chartered Accountants held at Monarch Imperial on Monday (14 October 2024), CA Sri Lanka bestowed the prestigious Lifetime Achievement Award on veteran Chartered Accountant Lal Nanayakkara, while Gamini Epa and Rajasekaran Vijayasekaran were inducted to the CA Sri Lanka Hall of Fame for the year 2024 in recognition of their extraordinary contributions.
+
+...
+
+[Data](articles/34b0289a.json)
+
+---
+
+### Civil Collective issues 10 criteria to people when electing next MPs
+
+*2024-10-16 06:07:32* · [`dailyftlk`](https://www.ft.lk/news/Civil-Collective-issues-10-criteria-to-people-when-electing-next-MPs/56-768020) · `en`
+
+The Sri Lankan Civil Collective last week issued a clarion call to voters to “choose someone who can do you justice” at next month’s Parliamentary election.
+
+The Collective, which consists of 45 organisations and civil society leaders such as the Colombo Young Men’s Buddhist Association, People’s Action for Free and Fair Elections (PAFFREL), the Centre for Policy Alternatives, and President’s Counsel Faisz Mustapha, has come up with 10 criteria to assess when voting for next set of MPs.
+
+As concerned citizens of this country, a group of well-meaning individuals and prominent civil organisations, now known as ‘Civil Collective’, came together and embarked on a mission in 2022 to educate the voter on how to select the ‘ideal candidate’ for themselves.
+
+...
+
+[Data](articles/fbf3245b.json)
+
+---
 
 ### President reminds State officials’ responsibility to protect public wealth
 
@@ -2171,277 +2319,5 @@ The West Indies won the first Twenty20 match between the two countries, the matc
 [Data](articles/fc0549d0.json)
 
 [Extended Data](ext_articles/fc0549d0.ext.json)
-
----
-
-### Sri Lanka sells Rs97bn in treasury bills, yields down across maturities
-
-*2024-10-15 15:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs97bn-in-treasury-bills-yields-down-across-maturities-183743/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were down across maturities at Wednesday’s auction with all offered 97 billion rupees of bills sold, data from the debt office showed.
-
-The 3-month yield was down 37 basis points to 9.32 percent, with all offered 37 billion rupees bills sold.
-
-The 6-month yield was down 30 basis points to 9.65 percent, with all offered 40 billion rupees of bills sold.
-
-The 12-month bills fell 5 basis points to 9.95 percent, with all offered 20 billion rupees of bills sold. (Colombo/Oct15/2024)
-
-◼️
-
-[Data](articles/59150562.json)
-
-[Extended Data](ext_articles/59150562.ext.json)
-
----
-
-### Govt. announcement on Rs. 3,000 increment for pensioners
-
-*2024-10-15 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102711/govt-announcement-on-rs-3000-increment-for-pensioners-) · `en`
-
-Cabinet Spokesperson Minister Vijitha Herath announced that an additional Rs. 3,000 will be added to the monthly pension of government retirees starting next month. This decision, approved by the Cabinet of Ministers, comes as part of an interim allowance to provide immediate financial relief to pensioners.
-
-Minister Herath explained that although the additional allowance was not included in the pensions disbursed by October 10th, the government is implementing a special program to ensure pensioners receive the Rs. 3,000 for this month in the coming days.
-
-Funds for the allowance have already been released by the Treasury, according to the Minister.
-
-The Minister also highlighted the long-standing issue of wage disparity among pensioners, noting that while it is a complex challenge that cannot be resolved quickly, the government has taken this step to offer some relief.
-
-...
-
-[Data](articles/a9b60aa3.json)
-
-[Extended Data](ext_articles/a9b60aa3.ext.json)
-
----
-
-### In today's political climate, minority communities should adopt
-
-*2024-10-15 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196344) · `ta`
-
-Thank you for providing such a detailed analysis of the political situation in Sri Lanka. I'll summarize the key points and offer some insights based on the information you've shared:
-
-
-
-1. Different voting patterns between Sinhalese and Tamil communities:
-
-   - Tamils tend to vote based on ethnic and cultural issues, while Sinhalese often prioritize corruption and family politics.
-
-   - Corruption and fraud are less of a concern for Tamils compared to Sinhalese voters.
-
-
-
-2. Recent election trends:
-
-   - People voted for change in 2015, supporting candidates like Maithripala Sirisena and Ranil Wickremesinghe.
-
-   - Gotabhaya Rajapaksa won in 2019 due to his promise of change, though he didn't take action against corrupt colleagues.
-
-   - Anura Kumara Dissanayake won recently, partly due to opposition to the 13th Amendment and the merger of North and East provinces.
-
-
-
-3. Challenges faced by minority communities:
-
-   - Tamil politicians often use nationalism as a political tool rather than addressing daily issues.
-
-   - Minority communities have become pawns in larger political games.
-
-
-
-4. Economic challenges:
-
-   - Corruption isn't the primary cause of Sri Lanka's economic crisis.
-
-   - President Dissanayake faces significant challenges in leading the country through economic recovery.
-
-
-
-5. Upcoming parliamentary election:
-
-   - National People's Power faces challenges in gaining a normal majority.
-
-   - Other parties are working together to ensure their political future.
-
-
-
-6. Future prospects:
-
-   - The National People's Power aims to eradicate corruption and improve governance.
-
-   - Economic management and recovery efforts will be crucial for the party's success.
-
-
-
-7. Recommendations for minority communities:
-
-   - Change political tactics and guarantee parliamentary commitment to the National People's Power Government.
-
-   - Find trusted partners from minority groups.
-
-   - Prioritize unity and cultural differences among minority groups.
-
-
-
-8. Broader implications:
-
-   - Ethnic and religious identities play significant roles in Sri Lanka's politics.
-
-   - New political strategies and leaders are needed to create a new political culture.
-
-
-
-Your analysis provides valuable insights into the complex political landscape of Sri Lanka, highlighting both historical patterns and current challenges. It emphasizes the need for unity and cooperation between different ethnic and religious groups to address the country's pressing issues.
-
-🟩
-
-Anura Kumara Dissanayake has not won 50% + 1 votes in the recent presidential election, but has won the ninth executive president of Sri Lanka.. This time the Tamil people's votes went to the candidate who did not win, as did the previous presidential elections.
-
-Dissanayake has not succeeded in any of the districts where the Tamils ​​live in the majority. There are many comments and criticisms on social media, especially on this issue. These blacksmiths often express their opinion of this emotional issue without deep understanding of politics.
-
-...
-
-[Data](articles/609d7b8d.json)
-
-[Extended Data](ext_articles/609d7b8d.ext.json)
-
----
-
-### We will also investigate what happened to Lasantha -Vasim Tajuddin -Brakim -Cabinet spokesman
-
-*2024-10-15 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/196341) · `ta`
-
-Sri Lanka investigates disappearances and deaths including Lasantha Wickrematunge, Vasimtajudeen, and Pradeep Eknaligoda. Government accelerates probes into past incidents beyond initial 7 cases.
-
-🟩
-
-Cabinet spokesman Vijitha Herath has said that investigations will be carried out on the disappearance of the death of Sunday Leader editor Lasantha Wickrematunge, Vasimtajudeen's death.
-
-The Cabinet spokesman said that all the crimes of the past would be carried out beyond the seven incidents already carried out.
-
-The government has now accelerated investigations into the seven major incidents that need to be obtained or investigated or investigated.
-
-But this does not mean that only the seven incidents have been ordered to carry out investigations, but investigations will be carried out on all the incidents of the past.
-
-We will also investigate the death of rugby player Vasimtajudeen, the disappearance of the Lasantha Wickrematunga assassination and the disappearance of Pradeep Eknaligoda.
-
-...
-
-[Data](articles/d39182c8.json)
-
-[Extended Data](ext_articles/d39182c8.ext.json)
-
----
-
-### Fundamental rights petition in the Supreme Court on the scholarship examination
-
-*2024-10-15 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202201) · `si`
-
-Supreme Court hears petition on scholarship exam injunction. Students and parents seek interim order against September exam and cut-off marks.
-
-🟩
-
-The Supreme Court has filed a fundamental rights petition to the Supreme Court to issue a interim injunction with the issuance of the scholarship examination and cut off marks in Scholarship Examination in September.
-
-These petitions were presented by a group of students who sat for the examination and their parents.
-
-◼️
-
-[Data](articles/fd7bcf3a.json)
-
-[Extended Data](ext_articles/fd7bcf3a.ext.json)
-
----
-
-### Canada's new accusation on India
-
-*2024-10-15 14:31:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-மீது-கனடாவின்-புதிய-குற்றச்சாட்டு/175-345503) · `ta`
-
-Canada accuses India of involvement in Nijjar's death, alleging Rowdy Bishnoi's gang targets Khalistan supporters.
-
-🟩
-
-Canada has now accused India of involvement in the killing of Khalistan leader Nijjar, who was killed in June last June, and is now accused.
-
-That is, Canada has made a new allegation that Rowdy Bishnoi is involved with the gang of Indian authorities and targeting Khalistan supporters with the help of the gang.
-
-◼️
-
-[Data](articles/e65ebd71.json)
-
-[Extended Data](ext_articles/e65ebd71.ext.json)
-
----
-
-### Former President will issue a special notification
-
-*2024-10-15 14:17:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதி-விசேட-அறிவிப்பை-வெளியிடவுள்ளார்/175-345501) · `ta`
-
-Ranil Wickremesinghe to release special report on Thursday, marking his first public statement since election. Report expected to detail country's political situation and future plans.
-
-🟩
-
-Former President Ranil Wickremesinghe will release a special report on Thursday (17).
-
-This is the first time Ranil Wickremesinghe has issued an open statement after the presidential election.
-
-With this special report, he will reveal the country's political behavior and future plans.
-
-◼️
-
-[Data](articles/1c3bb006.json)
-
-[Extended Data](ext_articles/1c3bb006.ext.json)
-
----
-
-### Sri Lanka to present three month mini-budget: Minister
-
-*2024-10-15 14:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-present-three-month-mini-budget-minister-183741/) · `en`
-
-ECONOMYNEXT – Sri Lanka will present a vote-on-account for three months as there would not be enough time to present a full year budget after elections, Minister Vijitha Herath said.
-
-“We are now expecting to present a vote on account,” Herath told reporters at the weekly cabinet press briefing.
-
-“After the elections the Parliament is due to meet on November 21. There is no time to present a budget for the next year in December itself. So the idea now is to present a vote-on-account.
-
-Sri Lanka usually present a budget for the following year in November.
-
-Sri Lanka is also planning to go to Washington and meet International Monetary Fund officials late this month, and will negotiate tax cuts with the agency in the future, he said. (Colombo/Oct15/2024)
-
-◼️
-
-[Data](articles/eef1f4eb.json)
-
-[Extended Data](ext_articles/eef1f4eb.ext.json)
-
----
-
-### Ja-Ela was assassinated by a sharp weapon
-
-*2024-10-15 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196332) · `ta`
-
-Assassination in Ja-Ela: 36-year-old Nuwan Kumara killed with sharp weapon during dispute over motorcycle crash. Three injured trying to save victim.
-
-🟩
-
-Ja-Ela police said that a man traveling on the road in Ekala Pradesh, which belongs to the Ja-Ela police division, was attacked and killed by a sharp weapon.
-
-A 36-year-old man, Nuwan Kumara, from Ekala, Ela, has been murdered.
-
-The murdered man crashed into a motorcycle while traveling on the street to vote for a food package.
-
-Later, the stones crashed into a nearby shop when the murdered man tried to attack the motorcycle driver with stones.
-
-Subsequently, the owner of the shop and some of the men there were involved in a dispute with the murdered person.
-
-During this time, some of the men were attacked by a sharp weapon and wounded.
-
-Three more people were injured and admitted to the Ragama Hospital who tried to save the murdered man, police said.
-
-◼️
-
-[Data](articles/65e7555d.json)
-
-[Extended Data](ext_articles/65e7555d.ext.json)
 
 ---

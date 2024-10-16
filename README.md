@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 19:23:43**
+As of **2024-10-16 19:39:03**
 
 ## Newspaper Stats
 
-*Scraped **49,865** Articles*
+*Scraped **49,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,059
 dailyftlk | 3,384
-adalk | 4,639
+adalk | 4,640
 dailymirrorlk | 4,733
-adaderanalk | 5,906
+adaderanalk | 5,907
 tamilmirrorlk | 6,822
 virakesarilk | 7,978
-adaderanasinhalalk | 8,636
+adaderanasinhalalk | 8,637
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,865 (100.0%) of 49,865 articles have been extended.
+49,868 (100.0%) of 49,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### North Gaza hospitals say food, medicines running out as Israel presses offensive
+
+*2024-10-16 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102744/north-gaza-hospitals-say-food-medicines-running-out-as-israel-presses-offensive) · `en`
+
+Palestinian health officials called on Wednesday for a humanitarian corridor to three hospitals in northern Gaza that have come close to collapse as Israeli troops have cut off the area during almost two weeks of heavy fighting against Hamas.
+
+Doctors at the Kamal Adwan, Al-Awda and the Indonesian hospitals have refused to leave their patients despite evacuation orders issued by the Israeli military at the start of a major push into the Jabalia area of northern Gaza 12 days ago.
+
+“We are calling on the international community, the Red Cross and the World Health Organization to play their humanitarian role by opening up a corridor towards our healthcare system,” said Hussam Abu Safiya, director of Kamal Adwan Hospital.
+
+“We are talking about more than 300 medical staff working at Kamal Adwan Hospital, and we can’t provide even a single meal for them to be able to offer medical services safely.”
+
+...
+
+[Data](articles/e97b4c8d.json)
+
+[Extended Data](ext_articles/e97b4c8d.ext.json)
+
+---
+
+### Damitha anim seek a national list chair
+
+*2024-10-16 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202249) · `si`
+
+Damitha Anim seeks national list chair. Party General Secretary Damitha Abeyratne says Ranitha Abeyratne inquired due to communication issues. General Secretary Ranjith Madduma Bandara to remove from national list and add another person. Communication problems cited as reason for changes.
+
+🟩
+
+According to the party general secretary Damitha Abeyratne, Ranitha Abeyratne has inquired as a result of a communication issue and acting in unity.
+
+Speaking further, she said that the General Secretary General of Sri Lanka General Secretary Ranjith Madduma Bandara will leave the national list and enter their name.
+
+"I have to ask the. There should be questions in communication, right?These are jokes. So the Secretary-General is saying it's a matter of communication. So you get out of the national list and put me out. "
+
+◼️
+
+[Data](articles/5f25358c.json)
+
+[Extended Data](ext_articles/5f25358c.ext.json)
+
+---
 
 ### Hirunika makes a strong decision
 
@@ -223,6 +265,32 @@ The police media spokesman said that the fraudsters claiming to be running a com
 [Data](articles/548d8d37.json)
 
 [Extended Data](ext_articles/548d8d37.ext.json)
+
+---
+
+### Rs. A core whiskey and cigarettes are not able to
+
+*2024-10-16 18:08:18* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටියක-විස්කි-හා-දුම්වැටි-කටුනායකින්-පන්නන්න-බැරි-වෙයි/11-412532) · `si`
+
+Sri Lanka CID seizes whiskey, cigarettes at Katunayake airport. Passenger arrested with 69 bottles and 2,380 cigarettes. Further investigation ongoing.
+
+🟩
+
+Criminal Investigations Department (CID) has seized a large number of whiskey bottles and foreign manufactured cigarettes were illegally deferred to the Katunayake airport.
+
+He is a 31-year-old resident of the Ladula, Nuwara Eliya.
+
+He had arrived at the SriLankan Airlines on Dubai to 05 pm on the morning of 10/16am.
+
+Katunayake Airport Criminal Investigations have arrested 69 valentine and black labels in the baggage he brought and 2,380 foreign manufactured cigarettes of Manchester and Bensor and Benson and Hedges.
+
+Steps have been taken to hand over the smoking and whiskey bottles he was illegally brought to Sri Lanka with the passenger in further investigations.
+
+◼️
+
+[Data](articles/eb72c7a1.json)
+
+[Extended Data](ext_articles/eb72c7a1.ext.json)
 
 ---
 
@@ -2407,85 +2475,5 @@ He was responding to a question referred to a journalist at a press briefing in 
 [Data](articles/6cdfb82f.json)
 
 [Extended Data](ext_articles/6cdfb82f.ext.json)
-
----
-
-### “Politicians don’t retire”: Mahinda on Rajapaksas opting out of 2024 General Election
-
-*2024-10-16 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102722/politicians-dont-retire-mahinda-on-rajapaksas-opting-out-of-2024-general-election) · `en`
-
-Former President Mahinda Rajapaksa says that he does not plan to retire from politics.
-
-Speaking to the media, the former President stated that the Rajapaksas have only made a temporary withdrawal from politics.
-
-Responding to the questions raised by journalists, Rajapaksa expressed: “This is a temporary pause… A politician does not retire.”
-
-Commenting on the upcoming election, former President Rajapaksa emphasized that the Sri Lanka Podujana Peramuna (SLPP) will secure an easy win during the 2024 Parliamentary Election.
-
-Furthermore, he highlighted that not all Rajapaksas have refrained from contesting the General Election, mentioning that Shashindra Rajapaksa is contesting from the Moneragala District.
-
-None of the Rajapaksa brothers, who dominated Sri Lankan politics for decades until they were booted out of office in 2022, will contest in the island nation’s general elections next month.
-
-...
-
-[Data](articles/52e6a9ac.json)
-
-[Extended Data](ext_articles/52e6a9ac.ext.json)
-
----
-
-### The incident that caused controversy in Nuwara Eliya
-
-*2024-10-16 08:43:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-சர்ச்சையை-ஏற்படுத்திய-சம்பவம்/175-345534) · `ta`
-
-Nun arrested for assault on 12 students in Nuwara Eliya school. Parents lodge complaint. Court orders inquiry and mental health check. Student hospitalized.
-
-🟩
-
-The Nuwara Eliya Magistrate has ordered the arrest of the nun in connection with the incident that caused a controversy over the past few days at a popular school in Nuwara Eliya.
-
-He has been arrested on a complaint lodged by the parents of the affected students for allegedly assaulting 12 students studying in grade 11 at the school.
-
-In addition, the court officials have been ordered to submit a further inquiry report on the incident and submit medical reports on the nun's mental health.
-
-The Nuwara Eliya Magistrate ordered that the Nuwara Eliya Magistrate ordered the arrest of the Chancellor and produced in court as a student was admitted to the hospital for four days.. Remble
-
-◼️
-
-[Data](articles/59aa6a02.json)
-
-[Extended Data](ext_articles/59aa6a02.ext.json)
-
----
-
-### The rainy weather will gradually decrease - the Department of Atmospheric
-
-*2024-10-16 08:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196400) · `ta`
-
-Rainy weather decreasing, heavy showers in southwest. Thunderstorms possible in northern areas. Strong winds and lightning warnings issued. Fishermen advised against sea travel due to rough conditions. Sea waves expected to rise 2.5-3.0 meters in certain coastal regions.
-
-🟩
-
-Senior weather officer of the Atmospheric Department, Dr. Mohamed Saliheen, said the weather is expected to gradually decrease with heavy rainfall in the southwest region of the country.
-
-In the Northern Province frequent rain or thunderstorms may occur. In some places, there is a heavy rainfall of 50 millimeters.
-
-Rainfall is expected in Sabaragamuwa, Western and North Western Provinces as well as Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Showers or thunderstorms can occur in many parts of the other parts of the country in the evening or night.
-
-The public is asked to take care in the events of strong winds and lightning.
-
-Fishermen and maritime workers are advised not to go to the deep and shallow sea regions from Batticaloa to the Mannar to Mannar from Batticaloa to Trincomalee and Kankesanthurai.
-
-Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
-
-Winds from the southwest at speeds of up to 30 -40 km / h in the sea regions.
-
-...
-
-[Data](articles/8082d3a0.json)
-
-[Extended Data](ext_articles/8082d3a0.ext.json)
 
 ---

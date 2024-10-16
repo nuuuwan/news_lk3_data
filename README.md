@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 01:58:26**
+As of **2024-10-17 02:10:07**
 
 ## Newspaper Stats
 
-*Scraped **49,896** Articles*
+*Scraped **49,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 495
 bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,060
-dailyftlk | 3,400
+dailyftlk | 3,406
 adalk | 4,643
 dailymirrorlk | 4,733
 adaderanalk | 5,908
@@ -26,11 +26,131 @@ adaderanasinhalalk | 8,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,896 (100.0%) of 49,896 articles have been extended.
+49,902 (100.0%) of 49,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Gammanpila demands Govt. commitment before handing over Easter Sunday reports
+
+*2024-10-17 01:37:34* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-demands-Govt-commitment-before-handing-over-Easter-Sunday-reports/56-768082) · `en`
+
+Says he will only hand over unpublished reports regarding Easter Sunday terror attack if the Govt. publicly commits to publishing them
+
+Warns he would release both reports himself by 21 Oct. if they were not made public within a week of his submission
+
+Claims there is a conspiracy to arrest him before the reports could be made public
+
+Pivithuru Hela Urumaya (PHU) leader and former Member of Parliament Udaya Gammanpila announced yesterday that he will only hand over the two unpublished reports related to the 2019 Easter Sunday terror attacks if the Government publicly commits to publishing them.
+
+Addressing the media at a special press conference in Colombo, Gammanpila expressed concern over the Government’s intentions, warning that he would release the reports himself by 21 October if they were not made public within a week of his submission.
+
+...
+
+[Data](articles/13795f40.json)
+
+[Extended Data](ext_articles/13795f40.ext.json)
+
+---
+
+### Kabir Hashim to share insights at National Evaluation Capacities Conference 2024 in Beijing
+
+*2024-10-17 01:32:21* · [`dailyftlk`](https://www.ft.lk/news/Kabir-Hashim-to-share-insights-at-National-Evaluation-Capacities-Conference-2024-in-Beijing/56-768080) · `en`
+
+Former Kegalle District Parliamentarian and Global Parliamentarian Forum for Evaluation Chair Kabir Hashim has been invited as an esteemed panellist at the 8th National Evaluation Capacities (NEC) Conference 2024.
+
+This prestigious event will be held from 14 to 18 October in Yanqing District, Beijing, China, and is organised by the UNDP Independent Evaluation Office (IEO) in collaboration with the China International Development Cooperation Agency (CIDCA) and the Global Evaluation Initiative (GEI).
+
+...
+
+[Data](articles/be3da627.json)
+
+[Extended Data](ext_articles/be3da627.ext.json)
+
+---
+
+### Department of Pensions begins Rs. 3,000 allowance payments
+
+*2024-10-17 01:29:45* · [`dailyftlk`](https://www.ft.lk/news/Department-of-Pensions-begins-Rs-3-000-allowance-payments/56-768079) · `en`
+
+The Department of Pensions yesterday commenced disbursing a monthly interim allowance of Rs. 3,000 to all pensioners, a statement issued by President’s Media Division noted.
+
+“Starting today, a monthly interim allowance of Rs. 3,000 will be credited to all pensioners’ accounts. Pensioners with bank accounts will get it today, while those using Post Offices can access it from the 18 October,” President Anura Kumara Dissanayake shared via a post on X.
+
+Accordingly, the funds have been credited to the bank accounts of pensioners receiving pensions from public and private banks yesterday.
+
+“Those receiving pensions from Post Offices and Sub-Offices will be able to access their allowance from tomorrow (18),” the PMD added.
+
+Looking into the delays in disbursing the proposed monthly interim allowance of Rs. 3,000 for pensioners, President Anura Kumara Dissanayake recently directed that the necessary funds be released from the Treasury.
+
+...
+
+[Data](articles/52749c07.json)
+
+[Extended Data](ext_articles/52749c07.ext.json)
+
+---
+
+### Two committees appointed on holding 77th Independence Day celebrations
+
+*2024-10-17 01:28:48* · [`dailyftlk`](https://www.ft.lk/news/Two-committees-appointed-on-holding-77th-Independence-Day-celebrations/56-768078) · `en`
+
+A committee comprising of Cabinet Ministers has been appointed with the participation of the President, Prime Minister, and Buddhism, Religious and Cultural Affairs, National Integration, Social Security and Mass Media Minister for guidance and supervision for holding the 77th Independence Day celebrations on 4 February 2025.
+
+Cabinet Spokesman Minister Vijitha Herath said a monitoring committee with the participation of chief officers of all relevant Ministries and Departments, including the tri forces and Police, has also been appointed, enabling the organisation of the Independence Day celebrations in a grand manner.
+
+The proposal on the appointment of the two committees was presented by the Prime Minister in her capacity as the Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labour Minister.
+
+◼️
+
+[Data](articles/cf0cf278.json)
+
+[Extended Data](ext_articles/cf0cf278.ext.json)
+
+---
+
+### Mangala Wijesinghe assumes duties as 16th Chairman of EDB
+
+*2024-10-17 01:26:47* · [`dailyftlk`](https://www.ft.lk/business/Mangala-Wijesinghe-assumes-duties-as-16th-Chairman-of-EDB/34-768077) · `en`
+
+Outlines vision to reach $ 30 b in export income by 2030, improve Sri Lanka’s ease of doing business ranking
+
+Calls for a review of the National Export Strategy and removal of barriers hindering export growth
+
+Aims to achieve $ 5 b in ICT export revenue by 2030, aligning with the Govt.’s goals
+
+Insists diversifying Sri Lanka’s export focus towards high-tech industries like electronics and pharmaceuticals, inspired by models like Singapore and South Korea
+
+Stresses importance of digitalising State agencies to simplify export approval processes
+
+Mangala Wijesinghe officially took office as the 16th Chairman of the Sri Lanka Export Development Board (EDB) yesterday, pledging to lead the country’s export sector into a new era of growth and diversification.
+
+Addressing the EDB staff at the headquarters, Wijesinghe outlined his vision for the Board and set ambitious goals, including improving Sri Lanka’s ease of doing business ranking (currently 99th) and achieving a $ 30 billion export income by 2030.
+
+...
+
+[Data](articles/4b86e6af.json)
+
+[Extended Data](ext_articles/4b86e6af.ext.json)
+
+---
+
+### South Asia’s first AI-based hospital records profit growth in 2023/24
+
+*2024-10-17 01:23:11* · [`dailyftlk`](https://www.ft.lk/business/South-Asia-s-first-AI-based-hospital-records-profit-growth-in-2023-24/34-768076) · `en`
+
+Nawaloka Hospitals PLC, South Asia’s pioneer in AI-driven healthcare, achieved remarkable financial success for the fiscal year ending 31 March. The Group’s revenue surged to Rs. 10 billion, reflecting a Year-on-Year (YoY) growth of 11.54%. The hospital’s Profit Before Tax (PBT) reached Rs. 576.2 million, marking an impressive 178.61% increase compared to the previous year. This growth, despite economic challenges, underscores Nawaloka’s operational resilience and its dedication to delivering cutting-edge healthcare.
+
+Operating profits for the group saw a significant turnaround, climbing from a loss of Rs. 73.4 million in 2023 to Rs. 1.02 billion in 2024. The company’s operating profits grew by 158.28%, reaching Rs. 1.32 billion. Additionally, Nawaloka Hospitals’ Earnings Per Share (EPS) rose from a negative -0.46 to a positive 0.41, further solidifying the hospital’s financial recovery and enhancing shareholder value.
+
+...
+
+[Data](articles/359aeae2.json)
+
+[Extended Data](ext_articles/359aeae2.ext.json)
+
+---
 
 ### SLT-Mobitel shines on global stage with prestigious wins at 2024 ARC Awards
 
@@ -2247,165 +2367,5 @@ The recent presidential election is a truthful encouragement that the people and
 [Data](articles/6f7ce9e1.json)
 
 [Extended Data](ext_articles/6f7ce9e1.ext.json)
-
----
-
-### Rs 3,000 from today
-
-*2024-10-16 11:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-ரூ-3-000/175-345548) · `ta`
-
-Pension Department deposits Rs 3,000 monthly allowance for pensioners starting today. President issues directive for funds from Treasury. Money distributed through banks and post offices.
-
-🟩
-
-The Pension Department has made arrangements for the monthly interim allowance of all pensioners to be deposited today (16).
-
-President Anura Kumara Dissanayake, who examined the proposed monthly interim allowance of pensioners, has recently issued a directive to issue the money from the Treasury.
-
-According to the instruction, the required money has been issued from the Treasury to the Pension Department and the Pension Department has taken action to deposit it into the pensioners' accounts from today (16).
-
-Although the Public Administrative Circle has been issued No. 02/2024 on 24/08/2024 to pay Rs.
-
-According to the Cabinet meeting held on the 14th, the Department of Treasury has provided a sum of Rs.
-
-Accordingly, the Head Office of the Pension Department has organized the allowance from today (16).
-
-...
-
-[Data](articles/3aca74fa.json)
-
-[Extended Data](ext_articles/3aca74fa.ext.json)
-
----
-
-### Chaunt - CCTV - CCTV
-
-*2024-10-16 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202232) · `si`
-
-CCTV footage shows theft of gold necklace from 60-year-old woman in Deepananda Mawatha. Police investigation leads to arrest of suspect involved in ice drug trade in Ratmalana.
-
-🟩
-
-The CCTV camera was recorded in a chain of a woman in Deepananda Mawatha, Deepananda Mawatha, Deepananda Mawatha.
-
-There was a 60-year-old woman faced with the incident on the 11th.
-
-The suspect who stole the gold necklace and the plate of nearly Rs.
-
-Investigations carried out by the police after the correspondence of CCTV scenes were found in a baker in the Ratmalana Dharmarama Road, Mount Lavinia with 13,470 milligrams of ice narcotics.
-
-◼️
-
-[Data](articles/7a247659.json)
-
-[Extended Data](ext_articles/7a247659.ext.json)
-
----
-
-### "Temporary, just are not permanent"
-
-*2024-10-16 11:23:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தற்காலிகமானது-தான்-நிரந்தரமானது-இல்லை/175-345547) · `ta`
-
-Former President Mahinda Rajapakse denies retiring from politics, claims SLPP will win easily in upcoming election. He believes many politicians don't truly retire.
-
-🟩
-
-Former President Mahinda Rajapakse has said that he is not ready to retire from politics and his retirement is temporary.
-
-"I thought I was not contesting the general election, but politicians would not really retire," he said.
-
-Commenting on the upcoming general election, the former president said that everything is ready and that the Sri Lanka PA (SLPP) will win an easy victory.
-
-“I am not asking what President Anuragumara Dissanayake has said that politicians are starting to retire.. There are plenty of politicians who do not contest the presidential election, ”he added.
-
-He said that the 113 -seat majority in Parliament could be easily obtained by SLPP.
-
-◼️
-
-[Data](articles/c85ed946.json)
-
-[Extended Data](ext_articles/c85ed946.ext.json)
-
----
-
-### 3,000 monthly allowance to pensioners
-
-*2024-10-16 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202231) · `si`
-
-Rs. 3000 monthly allowance for all pensioners starting today, payable through post offices and banks.
-
-🟩
-
-සියලු විශ්‍රාමිකයන් සඳහා රුපියල් 3,000ක මාසික අන්තර් කාලීන දීමනාව අද (16) දින සිට ඔවුන්ගේ ගිණුම්වලට මුදාහැරීමට විශ්‍රාම වැටුප් දෙපාර්තමේන්තුව කටයුතු කර ඇත.
-
-President Anura Kumara Dissanayake was instructed to give the money from the Treasury by looking for the non-payment of the monthly allowance proposed for pensioners.
-
-According to the instructions, the Treasury has been provided with the Department of Pensions and the Department of Pensions will be credited to the accounts of pensioners from today.
-
-Although all pensioners had issued a monthly allowance of Rs.
-
-According to the decision taken at the Cabinet Meeting held at the Cabinet Meeting held at the Cabinet Meeting held on the 14th, the Department of Treasury Operations has been given to the Department of Treasury Operations.
-
-Accordingly, the allowance will be paid by the Head Office of the Department of Pensions.
-
-...
-
-[Data](articles/59eb6ee8.json)
-
-[Extended Data](ext_articles/59eb6ee8.ext.json)
-
----
-
-### Tell the head of the model
-
-*2024-10-16 11:19:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைவரிடம்-சொல்லுங்கள்-வேலைத்திட்டம்-அறிமுகம்/175-345545) · `ta`
-
-Sri Lanka's SLBFE introduces program to address immigrant worker issues and prevent trafficking. Chairman Goshala Wickremesinghe launched initiative at headquarters, promising measures to stop exploitation and provide solutions to complaints via phone numbers and email.
-
-🟩
-
-Sri Lanka's Foreign Employment Bureau (SLBFE) Chairman Goshala Wickremesinghe has taken steps to introduce a special program to address the unresolved problems of immigrant workers and prevent trafficking.
-
-“The new program to tell the leader was launched yesterday at the SLBFE headquarters.
-
-The SLBFE leader pointed out that the immigrant workers face unnecessary pressure when they leave for foreign work, while officers and brokers at various levels intervene in exploiting them for financial benefits.
-
-Kosala Wickremesinghe promised that the new government will act to stop these activities.
-
-He further outlined the following measures taken to solve the problems faced by the diaspora;
-
-Tell the Chairman of the SLBFE Head Office in Tensil's first floor of the Tenzil. All kinds of allegations, reviews and grievances will be recorded here.
-
-You can register complaints via a telephone number 0112 864188, 0717 593 593 WhatsApp No. or Talkchairman@slbfe.lk.
-
-...
-
-[Data](articles/67b45efd.json)
-
-[Extended Data](ext_articles/67b45efd.ext.json)
-
----
-
-### The new resolution of the government
-
-*2024-10-16 11:16:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-புதிய-தீர்மானம்/175-345544) · `ta`
-
-New government resolution: Ministers to get 4 bodyguards post-election. Protection reduced for non-threatened officials. National People's Power vows no pre-presidential election protection for politicians.
-
-🟩
-
-After the upcoming election, the government's new announcement on the security for ministers and MPs has now been released.
-
-Accordingly, in the near future, only four bodyguards will be given to ministers.
-
-The government has also announced that this number will be changed only for those who are threatened with security.
-
-It is noteworthy that the national people's power has announced that it will not be provided with protection for politicians before the last presidential election.
-
-◼️
-
-[Data](articles/665d2642.json)
-
-[Extended Data](ext_articles/665d2642.ext.json)
 
 ---

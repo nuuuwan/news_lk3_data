@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 23:39:42**
+As of **2024-10-16 23:59:09**
 
 ## Newspaper Stats
 
-*Scraped **49,878** Articles*
+*Scraped **49,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 401
 colombotelegraphcom | 495
 bbccomsinhala | 500
 islandlk | 2,949
-economynextcom | 3,059
+economynextcom | 3,060
 dailyftlk | 3,384
 adalk | 4,643
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,878 (100.0%) of 49,878 articles have been extended.
+49,879 (100.0%) of 49,879 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,26 @@ Meanwhile, President Anura Kumara Dissanayake said that a long-term national pla
 [Data](articles/c07f8569.json)
 
 [Extended Data](ext_articles/c07f8569.ext.json)
+
+---
+
+### Sri Lanka leader urges to streamline procurement process in road development projects
+
+*2024-10-16 21:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-urges-to-streamline-procurement-process-in-road-development-projects-183949/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has urged authorities to streamline the procurement process in road development projects to ensure the rural economic development goals without the contracts being given only a few.
+
+The President made these remarks during a progress review meeting for the Ministry of Transport, Highways, Ports, and Civil Aviation on Wednesday (16).
+
+President Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP) for years accused past past successive governments of corruption and misappropriation of public funds in government’s infrastructure projects.
+
+“He highlighted the need to streamline the procurement process for these projects, ensuring that local communities benefit rather than allowing contracts to concentrate in the hands of a few,” the President’s Media Division said in a statement.
+
+...
+
+[Data](articles/27f51f51.json)
+
+[Extended Data](ext_articles/27f51f51.ext.json)
 
 ---
 
@@ -2497,31 +2517,5 @@ The Kalutara District Disaster Management Division Office said that the sea has 
 [Data](articles/fcffc834.json)
 
 [Extended Data](ext_articles/fcffc834.ext.json)
-
----
-
-### 2 lakhs of rupees bribed
-
-*2024-10-16 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196408) · `ta`
-
-Officer arrested for bribery: 2 lakh rupees involved. Incident occurred in Kalladi and Colombo areas. Bribery Commission investigation ongoing.
-
-🟩
-
-An officer on duty at the Department of Internal Revenue Department has been arrested by the Bribery Commission on Tuesday (15) in Kalladi area.
-
-The officer has bribed Rs.
-
-Subsequently, on the consultation of the land buyer in Colombo, the Bribery Anti -Corruption Unit was on the lookout for the Bribery Commission in Colombo yesterday.
-
-When the officer had bribed Rs.
-
-Preliminary inquiries of the Bribery Anti -Corruption Unit revealed that the arrested was the person who was arrested in Anuradhapura.
-
-◼️
-
-[Data](articles/17bdfe1a.json)
-
-[Extended Data](ext_articles/17bdfe1a.ext.json)
 
 ---

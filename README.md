@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 09:42:00**
+As of **2024-10-16 09:58:43**
 
 ## Newspaper Stats
 
-*Scraped **49,770** Articles*
+*Scraped **49,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,047
 dailyftlk | 3,384
-adalk | 4,626
+adalk | 4,628
 dailymirrorlk | 4,733
 adaderanalk | 5,889
 tamilmirrorlk | 6,803
@@ -26,11 +26,41 @@ adaderanasinhalalk | 8,614
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,767 (100.0%) of 49,770 articles have been extended.
+49,772 (100.0%) of 49,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### දින 67 මුහුදේ අතරමංව සිටියත් තරබාරු බව නිසා බේරුණු රුසියානුවා
+
+*2024-10-16 09:22:32* · [`adalk`](https://www.ada.lk/breaking_news/දින-67-මුහුදේ-අතරමංව-සිටියත්-තරබාරු-බව-නිසා-බේරුණු-රුසියානුවා/11-412522) · `si`
+
+Here's a 200-character summary:
+
+
+
+Russian man rescued after 67 days adrift. He and family went whale watching. Others died. Found 62 miles out. Weakened from 100kg to 50kg. Obesity saved his life.
+
+🟩
+
+67 days later, a Russian was rescued.
+
+මිකායිල් පිචුගන් (46) නැමැති මෙම පුද්ගලයා අගෝස්තු මාසයේ මුල රුසියාවේ නැගෙනහිර මුහුදේ හුලං පිරවිය හැකි බෝට්ටුවකින් ඔහුගේ සොහොයුරා (49) සහ සොහොයුරාගේ බෑනා (15)  සමග මුහුදේ තල්මසුන් නැරඹීමට ගොස් තිබේ.
+
+මෙලෙස මෙම පිරිස සොයා ගන්නා අවස්ථාවේ අනෙක් පුද්ගලයන් දෙදෙනා මිය​ගොස් සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මෙම පිරිස තල්මසුන් නැරඹීමට ගිය ස්ථානයේ සිට කිලෝමීටර් 1,000 (සැතපුම් 620ක්) ඈත මුහුදේදී මෙම පිරිස සොයාගෙන ඇත.
+
+When Michail leaves the house, 100 kilograms was weakened in 100kg when recovered, and was weaked in 50 kilograms. Doctors have said that the person is able to save the life due to obesity.
+
+◼️
+
+[Data](articles/fd898c6d.json)
+
+[Extended Data](ext_articles/fd898c6d.ext.json)
+
+---
 
 ### Sri Lanka abandons plans to sell national carrier
 
@@ -1690,6 +1720,34 @@ The Railway Department has announced that the railway services have been tempora
 
 ---
 
+### 10,323 children under five years of fierce nutritional deficiency
+
+*2024-10-15 19:33:23* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-පහට-අඩු-දරුවන්-10-323දෙනෙකු-උග්‍ර-පෝෂණ-ඌනතාවයෙන්/11-412515) · `si`
+
+Here's a summary of the key points in approximately 200 characters:
+
+
+
+10,323 children under 5 suffer severe malnutrition in Sri Lanka. Highest numbers reported in Gampaha (994), Kurunegala (930), Anuradhapura (629), Nuwara Eliya (622), and Galle (619). Malutasi deficiency affects 2,550 children in Gampaha, 2,245 in Kurunegala. 215,386 children under 5 reported overall, with 17,701 in Kurunegala. 133,538 children under 5 have stunted growth, with 11,677 in Nuwara Eliya.
+
+🟩
+
+මෙරට වයස අවුරුදු පහට අඩු දරුවන් 10,323දෙනෙකු උග්‍ර පෝෂණ ඌනතාවයෙන් පෙළෙන බැව්, පෝෂණ මාසය නිමිත්තෙන් 2024 වර්ෂයට අදාළව පවුල් සෞඛ්‍ය සේවා කාර්යාංශය මගින් නිකුත් කොට ඇති වාර්තාවේ සඳහන් වේ.
+
+උග්‍ර පෝෂණ ඌනතාවයෙන් පෙළෙන වයස අවුරුදු පහට අඩු දරුවන් වැඩිම පිරිසක් වාර්තා වන්නේ ගම්පහ දිස්ත්‍රික්කයෙන් වන අතර, එම සංඛ්‍යාව 994කි. උග්‍ර පෝෂණ ඌනතාවයෙන් පෙළෙන දරුවන් 930දෙනෙකු කුරුණෑගල දිස්ත්‍රික්කයෙන්ද, 629ක් අනුරාධපුර දිස්ත්‍රික්කයෙන්ද, නුවර දිස්ත්‍රික්කයෙන් 622 දෙනෙකුද, ගාල්ල දිස්ත්‍රික්කයෙන් 619 දෙනෙකුද වාර්තා වී ඇති බැව් පවුල් සෞඛ්‍ය සේවා කාර්යංශය මගින් නිකුත් කොට වාර්තාවේ සඳහන් වේ.
+
+According to this report, 25,269 children under the age of five are suffering from malutasi deficiency.
+
+මන්දපෝෂණ ඌනතාවයෙන් පෙළෙන අවුරුදු පහට අඩු දරුවන් 2,550දෙනෙකු ගම්පහ දිස්ත්‍රික්කයෙන් වාර්තා වී ඇති අතර, කුරුණැගල දිස්ත්‍රික්කයෙන් වාර්තා වී ඇති ළමුන් සංඛ්‍යාව 2,245කි. මහනුවරු දිස්ත්‍රික්කයෙන් ළමුන් 1,578දෙනෙකු, අනුරාධපුර දිස්ත්‍රික්කයෙන් ළමුන් 1,340 දෙනෙකු වාර්තා වී ඇති බවද මෙම වාර්තාවේ සඳහන් වේ.
+
+...
+
+[Data](articles/07995702.json)
+
+[Extended Data](ext_articles/07995702.ext.json)
+
+---
+
 ### ඇල්ල චිල් හෝටලය ලෝකයෙන්ම දෙවැනි තැනට
 
 *2024-10-15 19:29:04* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-චිල්-හෝටලය-ලෝකයෙන්ම-දෙවැනි-තැනට/11-412514) · `si`
@@ -2383,63 +2441,5 @@ It is observed that his music is the successor in Tamil as he is the successor o
 [Data](articles/a4b4c374.json)
 
 [Extended Data](ext_articles/a4b4c374.ext.json)
-
----
-
-### Actor Guna Finance
-
-*2024-10-15 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196362) · `ta`
-
-Guna Finance stars in "Alanku" about medical waste and animal suffering. Directed by S.B. Sakthivel, it features a pet dog as lead actor. Filmed in dense forests, it highlights environmental issues on TN-Kerala border.
-
-🟩
-
-Actor Guna, who made his debut for Tamil fans through the film 'Selfie', is the hero of the film 'Alanku', which is the hero of the film, the film crew describes the impact of 'medical waste and the remnants of the land.'
-
-Director S.. B.. Sakthivel's upcoming film 'Alanku' has starred in Guna Nit, Semban Vinod, Kali Venkat, Sarath Abani, Srireka, Regin Rose and Kothavar.
-
-A pet dog with them has played the lead role. S.. Ajish has composed the film, which is being recorded by Pandi Kumar.
-
-The film, which is being adapted into the real events, is being produced by DG Film Company and Magnas Productions.. Sabarish and S. A.Sangamitra has co -produced.
-
-Commenting on the film, the director said, “Medical waste, animals and waste of the Tamil Nadu and Kerala border are being poured daily without proper permission.
-
-The screenplay of the film has been created by embracing the fact that these waste causes such a danger.
-
-...
-
-[Data](articles/9520a4df.json)
-
-[Extended Data](ext_articles/9520a4df.ext.json)
-
----
-
-### Super Star Rajinikanth's 'Vettayan' film collection: Official announcement
-
-*2024-10-15 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196353) · `ta`
-
-"Super Star Rajinikanth's 'Vettayan' grosses Rs 240 crore worldwide. Mixed reviews. Budget Rs 300 crore. Not matching 'Jailer' collections."
-
-🟩
-
-Production company Lyca Productions has officially announced that the film 'Vettayan', which was released in the film House, starring Super Star Rajinikanth on the 10th of last month, has grossed Rs 240 crore in India.
-
-Director of 'Jai Bhim'. Cm. Gnanvel's film 'Vettayan'. Super Star Rajinikanth, Adian, played the role of a police officer.
-
-The film has been released and has received mixed reviews.
-
-The film has officially announced that the film has grossed over Rs 240 crore worldwide in Tamil, Telugu, Malayalam, Kannada and Hindi.
-
-Also, the film industry has reported that the film has been trading at a cost of Rs 210 crore in India's value and music rights and music rights before the film is released.
-
-As a result of the film 'Vettayan', which is ready for a budget of Rs 300 crore, the film is a collection of Rs 450 crore.
-
-It is noteworthy that at the same time, the film 'Vettayan' has not reached the collection of 'Jailer', which has been released on the 10th of this month.
-
-◼️
-
-[Data](articles/3663dc8e.json)
-
-[Extended Data](ext_articles/3663dc8e.ext.json)
 
 ---

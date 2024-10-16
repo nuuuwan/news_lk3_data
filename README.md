@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 22:39:18**
+As of **2024-10-16 22:57:54**
 
 ## Newspaper Stats
 
-*Scraped **49,877** Articles*
+*Scraped **49,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,059
 dailyftlk | 3,384
-adalk | 4,642
+adalk | 4,643
 dailymirrorlk | 4,733
 adaderanalk | 5,908
 tamilmirrorlk | 6,823
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,877 (100.0%) of 49,877 articles have been extended.
+49,878 (100.0%) of 49,878 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -301,6 +301,36 @@ The suspects were produced before the Badulla Magistrate's Court and remanded un
 [Data](articles/e01407b0.json)
 
 [Extended Data](ext_articles/e01407b0.ext.json)
+
+---
+
+### A long-term combined national program is needed to bring agriculture into organized status
+
+*2024-10-16 18:38:53* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂි-කර්මාන්තය-සංවිධිත-තත්ත්වයකට-ගෙන-ඒමට-දිගු-කාලීන--ඒකාබද්ධ-ජාතික-වැඩසටහනක්-අවශ්‍යයි/11-412536) · `si`
+
+Sri Lanka needs a long-term national program to organize agriculture and address rural poverty, according to President Anura Kumara Dissanayake. The initiative aims to improve rural development and eliminate poverty across the country.
+
+🟩
+
+President Anura Kumara Dissanayake says that a long-term national plan should be implemented to bring an organized agricultural industry in Sri Lanka.
+
+The President made these comments review of the progress of agriculture, land, livestorage, irrigation, Fisheries and Aquatic Resources in the Presidential Secretariat today (16).
+
+The project was discussed at length regarding the current projects.
+
+The President was looking for about the rural development projects so far, he said that although the president had successfully resolved, but the rural poor is resolved.
+
+Therefore, the main goal of rural development projects should be pages of rural poverty, Mr. Anura Kumara Dissanayake said.
+
+The need for a new broader program was also concerned with the elimination of the rural poor, covering the country.
+
+The President Anura Kumara Dissanayake emphasized the need for a target program to eliminate the rural poverty, not only the lack of money.
+
+...
+
+[Data](articles/4f24e813.json)
+
+[Extended Data](ext_articles/4f24e813.ext.json)
 
 ---
 
@@ -2493,27 +2523,5 @@ Preliminary inquiries of the Bribery Anti -Corruption Unit revealed that the arr
 [Data](articles/17bdfe1a.json)
 
 [Extended Data](ext_articles/17bdfe1a.ext.json)
-
----
-
-### Another group of foreign nationals arrested over alleged online scams
-
-*2024-10-16 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102726/another-group-of-foreign-nationals-arrested-over-alleged-online-scams) · `en`
-
-A group of foreign nationals, who were staying under suspicious circumstances at a hotel in the Chilaw area, has been arrested over suspicions of being involved in online financial scams.
-
-The arrests were carried out based on information received by the Puttalam Divisional Crimes Unit, according to police.
-
-The Police Media Division said that among the arrestees were 04 Malaysian males, 03 Ethiopian males and a female, a Kenyan female and a Chinese man.
-
-The police have also seized 20 computers, 03 routers and 282 mobile phones which were in the possession of the arrested foreign nationals during the raid.
-
-Puttalam Divisional Crimes Unit is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/28531b79.json)
-
-[Extended Data](ext_articles/28531b79.ext.json)
 
 ---

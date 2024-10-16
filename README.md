@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 12:57:56**
+As of **2024-10-16 13:09:20**
 
 ## Newspaper Stats
 
-*Scraped **49,809** Articles*
+*Scraped **49,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailyftlk | 3,384
 adalk | 4,631
 dailymirrorlk | 4,733
 adaderanalk | 5,895
-tamilmirrorlk | 6,814
+tamilmirrorlk | 6,815
 virakesarilk | 7,971
-adaderanasinhalalk | 8,623
+adaderanasinhalalk | 8,624
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,809 (100.0%) of 49,809 articles have been extended.
+49,811 (100.0%) of 49,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Arjun Aloysius rejected again bail
+
+*2024-10-16 12:51:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன்-அலோசியஸூக்கு-மீண்டும்-பிணை-நிராகரிப்பு/175-345550) · `ta`
+
+Colombo Chief Magistrate's Court rejects bail plea for Arjun Aloysius and AR Dinendra John. Directors sentenced six months imprisonment for failing to pay Rs 3.5 billion to government. Court previously denied bail on October 14.
+
+🟩
+
+W.. Mendis and Company Limited Directors Arjun Aloysius and AR. Dinendra John.
+
+The Colombo Chief Magistrate's Court has rejected the bail plea filed on behalf of the two men.
+
+On October 14, the court refused to grant bail to the counterparts on the pending appeal.
+
+The court has sentenced all three directors to six months' imprisonment for failing to pay the Rs 3.5 billion worth of Rs 3.5 billion to the government.
+
+◼️
+
+[Data](articles/916efbed.json)
+
+[Extended Data](ext_articles/916efbed.ext.json)
+
+---
+
+### Woman following suspicions
+
+*2024-10-16 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202236) · `si`
+
+Woman dies after falling on road. Police arrest suspect linked to her death. Car involved in incident.
+
+🟩
+
+A woman who had fallen in the path of the Chilaw-Kurunegala route has died after being hospitalized this morning (16).
+
+Police say that the woman was admitted to the hospital by the residents of the area.
+
+The woman has been arrested on suspect, a person who was closely associated with this death and a car traded by a car.
+
+◼️
+
+[Data](articles/36b76699.json)
+
+[Extended Data](ext_articles/36b76699.ext.json)
+
+---
 
 ### Deputy Commissioner of provincial revenue office arrested for accepting bribe
 
@@ -2391,45 +2437,5 @@ England are leading the first Test in the three -match Test series between Engla
 [Data](articles/70a60fbe.json)
 
 [Extended Data](ext_articles/70a60fbe.ext.json)
-
----
-
-### Doorguliard Curname Cinnamon Life
-
-*2024-10-15 21:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202216) · `si`
-
-Cinnamon Life: Luxury hotel opens in Colombo, costing $1.3 billion. Largest hotel in South Asia.
-
-🟩
-
-The luxury hotel complex, which was built in Colombo, was opened today (15), investing US $ 1.3 billion.
-
-Today, on topic brings information on Cinnamon Life, the largest hotel in South Asia.
-
-◼️
-
-[Data](articles/595dc4d7.json)
-
-[Extended Data](ext_articles/595dc4d7.ext.json)
-
----
-
-### “Cinnamon Life at City of Dreams” declared open in Colombo
-
-*2024-10-15 20:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102720/cinnamon-life-at-city-of-dreams-declared-open-in-colombo) · `en`
-
-The 687 room luxury hotel “Cinnamon Life at City of Dreams Sri Lanka” by the John Keells Group was officially declared open in Colombo, on Tuesday (October 15).
-
-Developed at an investment of over USD 1.2 billion by the John Keells Group, this is the largest and most ambitious private investment in the country which will redefine our tourism landscape, catering to a diverse clientele creating South Asia’s most dynamic destination for business, leisure, and entertainment.
-
-Cinnamon Life at City of Dreams Sri Lanka will encompass 687 luxurious rooms, and offers multiple entertainment venues, including ballrooms, high-tech event, and conference facilities, with the capacity to host over 5,000 guests in multiple locations across its various unique spaces.
-
-This makes it the largest event venue in Colombo, setting a new standard for gatherings, hosting international conferences and large-scale events, positioning Colombo as a premier destination for global MICE travel, a statement said.
-
-...
-
-[Data](articles/651d405b.json)
-
-[Extended Data](ext_articles/651d405b.ext.json)
 
 ---

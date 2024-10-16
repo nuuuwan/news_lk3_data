@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 14:25:17**
+As of **2024-10-16 14:39:31**
 
 ## Newspaper Stats
 
-*Scraped **49,818** Articles*
+*Scraped **49,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,050
 dailyftlk | 3,384
-adalk | 4,632
+adalk | 4,633
 dailymirrorlk | 4,733
 adaderanalk | 5,898
 tamilmirrorlk | 6,816
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,818 (100.0%) of 49,818 articles have been extended.
+49,819 (100.0%) of 49,819 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -197,6 +197,26 @@ The woman has been arrested on suspect, a person who was closely associated with
 [Data](articles/36b76699.json)
 
 [Extended Data](ext_articles/36b76699.ext.json)
+
+---
+
+### Releases preferential numbers
+
+*2024-10-16 12:43:46* · [`adalk`](https://www.ada.lk/breaking_news/මනාප-අංක-නිකුත්-කරයි/11-412526) · `si`
+
+Elections Commission: Preferential vote results available at District Secretariats today. All district lists received, being verified before distribution.
+
+🟩
+
+The Elections Commission says that the preferential votes of the parliamentary election can be obtained from the District Secretariats today (16).
+
+The preferential lists of the preferential lists of all districts have been received and the steps have been taken to inspect the list of preference lists and sent to the District Secretariats.
+
+◼️
+
+[Data](articles/88398fa5.json)
+
+[Extended Data](ext_articles/88398fa5.ext.json)
 
 ---
 
@@ -2373,33 +2393,5 @@ Analysts said the oversubscription reaffirms existing shareholders and new inves
 [Data](articles/5e186be4.json)
 
 [Extended Data](ext_articles/5e186be4.ext.json)
-
----
-
-### Superbid from Sri Lanka
-
-*2024-10-15 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202219) · `si`
-
-Sri Lanka won T20 match against West Indies by 73 runs. Dissanayake scored 54, Kusal Mendis and Kusal Perera 24 each. West Indies reached 163/9 in 20 overs.
-
-🟩
-
-Sri Lanka won the second T20 match between the Sri Lanka West Indies and the Sri Lanka team by 73 runs.
-
-Diothen Vellale's scored three wickets for 9 runs.
-
-Batting first Sri Lanka scored 162 runs for the loss of 5 wickets at the end of 20 overs.
-
-Dissanayake scored 54 runs, Kusal Mendis and Kusal Perera scored 24 runs.
-
-West Indies scored 163 runs for winning the match.
-
-The West Indies scored 89 runs in the face of 16 overs.
-
-◼️
-
-[Data](articles/7b547db3.json)
-
-[Extended Data](ext_articles/7b547db3.ext.json)
 
 ---

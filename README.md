@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 09:25:00**
+As of **2024-10-16 09:42:00**
 
 ## Newspaper Stats
 
-*Scraped **49,767** Articles*
+*Scraped **49,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,047
 dailyftlk | 3,384
 adalk | 4,626
 dailymirrorlk | 4,733
-adaderanalk | 5,886
+adaderanalk | 5,889
 tamilmirrorlk | 6,803
 virakesarilk | 7,966
 adaderanasinhalalk | 8,614
@@ -26,11 +26,71 @@ adaderanasinhalalk | 8,614
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,759 (100.0%) of 49,767 articles have been extended.
+49,767 (100.0%) of 49,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Sri Lanka abandons plans to sell national carrier
+
+*2024-10-16 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102725/sri-lanka-abandons-plans-to-sell-national-carrier) · `en`
+
+Sri Lanka’s new government has abandoned plans to sell the debt-ridden national airline SriLankan Airlines, but will restructure it for a more profitable future.
+
+“President Anura Kumara Dissanayake has instructed that the airline should be an institution that all Sri Lankans are proud of, and should be owned by Sri Lankans,” the airline’s new chairman Sarath Ganegoda told TTG Asia.
+
+The previous government had invited bids to part-sell and manage the airline that as been suffering accumulated losses over the years.
+
+While the airline has reported an operating profit for the period April 2022 to end March 2023, its accumulated debt is US$1.2 billion. Under the earlier plan, the government was to retain 51 per cent control of the airline while selling off the remaining 49 per cent to investors. Six parties, some who had no experience in running an airline, responded with an initial call for interest but none was pre-qualified for the next step of the process.
+
+...
+
+[Data](articles/688bc557.json)
+
+[Extended Data](ext_articles/688bc557.ext.json)
+
+---
+
+### Increased risk of infectious diseases as floodwaters recede, health officials warn
+
+*2024-10-16 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102724/increased-risk-of-infectious-diseases-as-floodwaters-recede-health-officials-warn) · `en`
+
+The Public Health Inspectors’ (PHIs) Association has raised concerns about the heightened risk of infectious diseases spreading following the recent floods.
+
+Sandun Ratnayake of the Public Health Inspectors’ Association stated that individuals exposed to floodwaters are particularly vulnerable to illnesses such as diarrhoea, dysentery, leptospirosis and worm infestations.
+
+“If you experience symptoms of diarrhoea, dysentery, or suspected leptospirosis, it is essential to seek immediate medical attention,” Ratnayake advised. He emphasized the importance of consuming only clean, fresh, and hot food during this period, and ensuring that water is either boiled or bottled to prevent waterborne diseases.
+
+Furthermore, he highlighted the risk of contracting leptospirosis for those with skin wounds or scratches exposed to floodwaters. “If you have any open wounds and have been in contact with floodwater, there’s a significant chance of contracting leptospirosis. Immediate treatment is crucial.”
+
+...
+
+[Data](articles/a2dad395.json)
+
+[Extended Data](ext_articles/a2dad395.ext.json)
+
+---
+
+### 2024 General Election: EC to release candidates’ preference numbers today
+
+*2024-10-16 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102723/2024-general-election-ec-to-release-candidates-preference-numbers-today) · `en`
+
+The election commission says that the preference numbers of the candidates contesting the upcoming general election can be obtained today (16) from the respective district secretariat offices.
+
+Commissioner General of Elections Saman Sri Ratnayake stated that the commission has received the preference lists of all districts and that steps have been taken to check the preference lists and send them to the district secretariats.
+
+Ratnayake also indicated that the minimum expenditure allowed for each candidate in the general election will be published in the Government Gazette today.
+
+Meanwhile, the commission has summoned a meeting with the ministry secretaries and the heads of various corporations and boards today, to provide instructions regarding the implementation of directives related to the general election.
+
+◼️
+
+[Data](articles/7b7b3df6.json)
+
+[Extended Data](ext_articles/7b7b3df6.ext.json)
+
+---
 
 ### Optional digits can be obtained today
 
@@ -1162,6 +1222,8 @@ Analysts said the oversubscription reaffirms existing shareholders and new inves
 
 [Data](articles/5e186be4.json)
 
+[Extended Data](ext_articles/5e186be4.ext.json)
+
 ---
 
 ### Superbid from Sri Lanka
@@ -1522,19 +1584,31 @@ The 17 year old suspect and a 16-year boy have been arrested by the police.
 
 ---
 
-### නිමල් ලන්සා ජනපතිගෙන්  කළ ඉල්ලීම
+### Request for President Nimal Lansa
 
 *2024-10-15 19:55:26* · [`adalk`](https://www.ada.lk/breaking_news/නිමල්-ලන්සා-ජනපතිගෙන්--කළ-ඉල්ලීම/11-412518) · `si`
 
-පාස්කු ප්‍රහාරය සම්බන්ධයෙන් මෙතෙක් පැවති සියලු පරීක්ෂණ කතෝලික සභාව පිළිනොගන්නා බැවින් පිළිගත හැකි යුක්තිසහගත පරීක්ෂණයක් පවත්වා කතෝලික ජනාතවට සාධාරණය ඉටු කරන්නැයි අනුර කුමාර දිසානායක ජනාධිපති වරයාගෙන් ඉල්ලා සිටින බව හිටපු පාර්ලිමේන්තු මන්ත්‍රී නිමල් ලාංසා මහතා පැවසීය.
+Here's a 200-character summary:
 
-මීගමුව, වැල්ලවීදියේ දේශපාලන කාර්යාලයේදී අද (15දා) පැවති මාධ්‍ය හමුවකදී  නිමල් ලාන්සා මහතා මෙම අදහස් ප්‍රකාශ කළේය.මෙහිදී තවදුරටත් අදහස් පළ කළ හිටපු මන්ත්‍රීවරයා මෙසේද කීය.
 
-“පාස්කු ප්‍රහාරය සම්බන්ධයෙන් කතෝලික ජනතාවට සාධාරණයක් ඉටුවිය යුතු කියන මතයේ එදා පටන් හිටියා. පාස්කු ප්‍රහාරය සිදු වුණේ යහපාලන ආණ්ඩුව කාලයේ. ඒ සම්බන්ධයෙන් විධිමත් පරීක්ෂණයක් වුණේ නැහැ කියන එක ගැන යහපාලන ආණ්ඩුවට චෝදනාවක් එල්ල වෙනවා. ගෝඨාභය හා රනිල් පාලන කාලවලදීත් විධිමත් පරීක්ෂණයක් වුණේ නැහැ කියලා චෝදනාවක් එල්ල වෙනවා. රනිල් වික්‍රමසිංහ මහතාගේ ආණ්ඩුවටත් එම චෝදනාව එල්ල වුණා.
+
+Anura Kumara Dissanayake criticizes lack of investigation into Easter attacks under previous governments. Calls for new leadership to address Catholic Church concerns and promote youth representation in politics.
+
+🟩
+
+Anura Kumara Dissanayake has asked the President as the Catholic Church is not accepted by the Catholic Church regarding the Easter attack.
+
+Speaking at a press conference held at the political office in Wellawa, Wellawatiya yesterday, the former MP said, MP said.
+
+"On that way that the Catholics should be fulfilled on the Passover attack. The Easter attack took place during the time of the good governance government. Good governance is charged with the fact that there was no formal investigation in this regard. There is a accusation that Gotabhaya and Ranil was not a proper investigation in time. The government of Ranil Wickremesinghe was charged.
+
+All the Govt Aandu Passover attack was investigated. The Catholic Church is not happy in this regard. Not satisfied. ඒ නිසා තමා කතෝලික ජනතාව මෙවර මැතිවරණයේදී සියලුම නායකත්වයන් පරාජයට පත් කරලා අලුත් නායකත්වයක් ගේන්න කටයුතු කළේ. කතෝලික ජනතාව හා කතෝලික සභාව බලාපොරොත්තු වෙන්නේ අනුර කුමාර දිසානායක ජනාධිපති තුමාගෙන්  සාධාරණත්වය හා යුක්තියයි .
 
 ...
 
 [Data](articles/6b6c9a2f.json)
+
+[Extended Data](ext_articles/6b6c9a2f.ext.json)
 
 ---
 
@@ -1620,15 +1694,25 @@ The Railway Department has announced that the railway services have been tempora
 
 *2024-10-15 19:29:04* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-චිල්-හෝටලය-ලෝකයෙන්ම-දෙවැනි-තැනට/11-412514) · `si`
 
-ලොව පුරා සංචාරකයන්ගේ මනාපය අනුව ට්‍රිප්ඇඩ්වයිසර් සංචාරක මාර්ගෝපදේශක වෙබ්අඩවිය BEST OF THE BEST RESTAURANTS නමින් කළ මත විමසුමකදී, ලොව හොඳම රෙස්ටුරන් අතර දෙවැනි ස්ථානය, ඇල්ල චිල් රෙස්ටුරන් හිමිකර ගෙන තිබේ.
+Here's a 200-character summary:
 
-මීට පෙර චිල් රෙස්ටුරන් දකුණු ආසියාවේ ‍හොඳම දෙවැනි රෙස්ටුරන්ට් එක ලෙසටද තේරී පත්විය.
 
-ආහාර පාන, සත්කාර සේවා ඇතුළු අංශ කිහිපයක් තම මනාපයට හේතුව බව සංචාරකයන් විසින් තබන ලද සටහන්හි දැක්වෙයි.
+
+"Chilf Hotel ranked second globally for hospitality. Previously top in South Asia. Rated highly for food, drinks, and service quality."
+
+🟩
+
+Trips Search Guide According to the Worldwide preference, the second resignation of the best resturanings in the world, the celebrations have been placed second.
+
+Previously, Chilf rested was elected as the best restorative in South Asia.
+
+In the notes placed by tourist arrivals, including food and beverages and care services.
 
 ◼️
 
 [Data](articles/beff1764.json)
+
+[Extended Data](ext_articles/beff1764.ext.json)
 
 ---
 
@@ -2357,77 +2441,5 @@ It is noteworthy that at the same time, the film 'Vettayan' has not reached the 
 [Data](articles/3663dc8e.json)
 
 [Extended Data](ext_articles/3663dc8e.ext.json)
-
----
-
-### Allowance this month to pensioners - from next month
-
-*2024-10-15 16:50:09* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමිකයන්ට-මේ-මාසයේත්-දීමනාවක්---ලබන-මාසයේ-සිට-වැටුපට-එකතුකරයි/11-412507) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Cabinet Spokesman Minister Vijith Herath announced that pensioners will receive an allowance of Rs. 3,000 starting next month. This decision was made recently.
-
-🟩
-
-It has been decided to make a sum of Rs.
-
-The Cabinet Spokesman, Minister Vijith Herath informed that the allowance of Rs. 3,000 from next month.
-
-◼️
-
-[Data](articles/daf1bc4a.json)
-
-[Extended Data](ext_articles/daf1bc4a.ext.json)
-
----
-
-### A weather forecast for next 36 hours
-
-*2024-10-15 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202208) · `si`
-
-Weather forecast: Southwest showers decrease, Northern Province thundershowers, Western provinces rain, evening thunderstorms island-wide. Public advised to take precautions against lightning accidents.
-
-🟩
-
-The Department of Meteorology has issued a new weather forecast, which is valid for the next 36 hours.
-
-The heavy showers in the southwest section of the island today is expected to be gradually reduced from today.
-
-Showers or thundershowers will occur at times in the Northern Province and Trincomalee. Heavy rains can occur more than 50.
-
-Several spells of showers in the Western, Sabaragamuwa and North Western provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Thundershowers will develop at several places in the evening or night in the other areas of the island.
-
-The public requests the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/46c5e4f9.json)
-
-[Extended Data](ext_articles/46c5e4f9.ext.json)
-
----
-
-### Advisory issued for naval and fishermen communities
-
-*2024-10-15 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102715/advisory-issued-for-naval-and-fishermen-communities) · `en`
-
-The Department of Meteorology has issued an advisory for heavy rain, strong winds and rough seas for the sea areas over the Southern Bay of Bengal.
-
-Issuing the advisory, the Met. Department said that the low-pressure area over the southeast Bay of Bengal has moved west-northwestwards and is located as a well-marked low-pressure area over the central part of the south Bay of Bengal at 05.30 a.m. today (15).
-
-It is likely to intensify into a depression and continue to move west-northwestwards towards north Tamil Nadu, Puducherry and adjoining south Andhra Pradesh coasts during the next 2 days, it added.
-
-Meanwhile, the department mentioned that very strong winds of around 60 -70 kmph, accompanied with heavy rainfalls and very rough seas are likely over the sea areas bounded by 07N - 15N and 81E – 90E.
-
-...
-
-[Data](articles/8f2f97f3.json)
-
-[Extended Data](ext_articles/8f2f97f3.ext.json)
 
 ---

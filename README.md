@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 13:39:52**
+As of **2024-10-16 13:59:11**
 
 ## Newspaper Stats
 
-*Scraped **49,813** Articles*
+*Scraped **49,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,050
 dailyftlk | 3,384
-adalk | 4,631
+adalk | 4,632
 dailymirrorlk | 4,733
 adaderanalk | 5,897
-tamilmirrorlk | 6,815
+tamilmirrorlk | 6,816
 virakesarilk | 7,971
 adaderanasinhalalk | 8,624
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,624
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,813 (100.0%) of 49,813 articles have been extended.
+49,815 (100.0%) of 49,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### உபுல் தரங்கவை கைது செய்ய தடை விதித்து உத்தரவு
+
+*2024-10-16 13:27:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உபுல்-தரங்கவை-கைது-செய்ய-தடை-விதித்து-உத்தரவு/175-345552) · `ta`
+
+Sri Lanka cricket team selection committee head Umar Thibau arrested due to court order.
+
+🟩
+
+மாத்தளை மேல் நீதிமன்றம் பிறப்பித்த உத்தரவுக்கு அமைய, நாடு திரும்பிய இலங்கை கிரிக்கெட் அணி தெரிவுக்குழுவின் தலைவர் கிரிக்கெட் வீரர் உபுல் தரங்கவை கைது செய்ய தடை விதித்து மேன்முறையீட்டு நீதிமன்றம் இன்று உத்தரவு பிறப்பித்துள்ளது.
+
+மாத்தளை மேல் நீதிமன்றத்தின் உத்தரவின் சட்டபூர்வமான தன்மையை சவால் செய்து உபுல் தரங்கவினால் தாக்கல் செய்யப்பட்ட ரிட் மனுவையடுத்து மேன்முறையீட்டு நீதிமன்ற நீதியரசர்களான எம்.டி.எம்.லஃபர் மற்றும் பி.குமாரரத்தினம் ஆகிய இரு நீதிபதிகள் அடங்கிய அமர்வு இந்த உத்தரவை பிறப்பித்துள்ளது.
+
+மேட்ச் பிக்சிங் வழக்கின் சாட்சியாக அவர் நீதிமன்றத்தில் ஆஜராகத் தவறியதையடுத்து கடந்த ஒக்டோபர் மாதம் 8ஆம் திகதி, உபுல் தரங்கவை கைது செய்யுமாறு மாத்தளை உயர்நீதிமன்றம் பிடியாணை பிறப்பித்திருந்தது.
+
+தரங்க அமெரிக்காவில் இருக்கும் போதே அவருக்கு எதிராக பிடியாணை பிறப்பிக்கப்பட்டுள்ளதாகவும், அங்கு அவர் கிரிக்கெட் போட்டியில் பங்கேற்க உள்ளதாகவும் நீதிமன்றத்தில் தெரிவிக்கப்பட்டது.
+
+...
+
+[Data](articles/085d6207.json)
+
+[Extended Data](ext_articles/085d6207.ext.json)
+
+---
 
 ### Arjun Aloysius rejected again bail
 
@@ -773,6 +797,28 @@ As a result, sea waves from Chilaw to Colombo, Galle and Hambantota are likely t
 [Data](articles/3d68d66b.json)
 
 [Extended Data](ext_articles/3d68d66b.ext.json)
+
+---
+
+### Retired - Temporary goodbyes
+
+*2024-10-16 10:14:58* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාම-ගත්තේ-නැ---තාවකාලික-සමුගැන‍ිමක්-විතර‍/11-412524) · `si`
+
+Former President Mahinda Rajapaksa announced his temporary retirement from politics, stating it was only a brief goodbye. He expressed hope for the People's Front winning this year's elections, mentioning they could secure 113 seats.
+
+🟩
+
+තමන් දේශපාලනයෙන් විශ්‍රාම නොගත් බවත් තාවකාලික සමුගැනිමක් පමණක් සිදුකළ බවත් හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා පැවැස‍ිය.
+
+කොළඹ පැවැති වැඩසටහනකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මෙ බව කිවේය. එසේම මෙවර මැතිවරණයෙන පොදුජන පෙරහණ පහසු ජයක් ලබන බවත ආසන 113ක් ලබා ගත හැකි බවත් ඔහු කි‍වේය.
+
+He said that he had not been presented to the election.
+
+◼️
+
+[Data](articles/3a9cdd65.json)
+
+[Extended Data](ext_articles/3a9cdd65.ext.json)
 
 ---
 
@@ -2363,51 +2409,5 @@ Ranil Wickremesinghe has decided not to contest the upcoming parliamentary elect
 [Data](articles/41634713.json)
 
 [Extended Data](ext_articles/41634713.ext.json)
-
----
-
-### Chinese embassy on Chinese reputation of China's reputation
-
-*2024-10-15 21:32:13* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-කීර්තිනාමයට-හානි-කළ-චීන-ජාතිකයන්-ගැන-චීන-තානාපති-කාර්යාලයේ-අවධානය/11-412520) · `si`
-
-Chinese embassy denies negative impact on China's reputation due to fraud cases involving Chinese nationals abroad. Claims fraud is an international issue affecting many countries.
-
-🟩
-
-The embassy says that the Chinese embassy is concerned about the latest reports that Sri Lanka Police, including the Chinese nationals and other foreigners.. The embassy says that this is seriously harmless to the reputation of China's reputation.
-
-The Embassy said that in the 1990s, the embassy said that the Chinese government continues to look into the widespread fraud and had a profound impact on the occasion.. The Embassy of the Embassy said that the number of frauds of China in 2021, the embassy said.
-
-The embassy says that telephones and online frauds are rapidly spread throughout the world, as a result of the worldwide, it has become an international resolved problem. In the recent past, the embassy said that China, Myanmar, Cambia, UK Emirates, UAE and other countries.
-
-◼️
-
-[Data](articles/0ee6969f.json)
-
-[Extended Data](ext_articles/0ee6969f.ext.json)
-
----
-
-### How much is the amount that can be spent on a voter during campaigns?;Elections Commission Discussion with the Secretaries of the parties
-
-*2024-10-15 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196389) · `ta`
-
-Election Campaign Expenditure Act limits spending per voter. Amount varies by district based on population and local costs. Parties must submit proposals to Elections Commission. Highest estimate for Colombo district: Rs.
-
-🟩
-
-According to the Election Campaign Expenditure Act, all political parties and independent candidates contesting in the upcoming general election were held by the Elections Commission yesterday by the Elections Commission.
-
-The secretaries of the political parties who participated in the event handed over suggestions and recommendations to the Election Commission.
-
-Control and nomination for the general election ended with noon last Friday. According to the Election Campaign Expenditure Act, the Elections Commission, within five days after the end of the nomination papers, the political parties and the independent candidates have to set the amount to be spent on each voter and publish it in the Gazette.
-
-Similarly, the Commission should consult on this issue from political parties and independent candidates contesting the election before setting the amount.
-
-...
-
-[Data](articles/f75c6845.json)
-
-[Extended Data](ext_articles/f75c6845.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 11:59:32**
+As of **2024-10-16 12:14:08**
 
 ## Newspaper Stats
 
-*Scraped **49,786** Articles*
+*Scraped **49,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,144 @@ dbsjeyarajcom | 401
 colombotelegraphcom | 495
 bbccomsinhala | 500
 islandlk | 2,949
-economynextcom | 3,047
+economynextcom | 3,050
 dailyftlk | 3,384
-adalk | 4,628
+adalk | 4,630
 dailymirrorlk | 4,733
-adaderanalk | 5,892
-tamilmirrorlk | 6,808
+adaderanalk | 5,894
+tamilmirrorlk | 6,814
 virakesarilk | 7,966
-adaderanasinhalalk | 8,620
+adaderanasinhalalk | 8,622
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,786 (100.0%) of 49,786 articles have been extended.
+49,794 (100.0%) of 49,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Injunction issued preventing Upul Tharanga’s arrest
+
+*2024-10-16 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102730/injunction-issued-preventing-upul-tharangas-arrest) · `en`
+
+The Court of Appeal has issued an interim injunction preventing the execution of an arrest warrant issued against the Chairman of the Selection Committee at Sri Lanka Cricket (SLC), former Sri Lankan cricketer Upul Tharanga.
+
+A two-member Appeals Court judge bench issued the injunction today (16), after considering a writ petition filed by Upul Tharanga, Ada Derana reporter said.
+
+On October 08, the Matale High Court issued an arrest warrant against the Chairman of the Selection Committee at Sri Lanka Cricket (SLC), former Sri Lankan cricketer Upul Tharanga over failure to appear before the court pertaining to a match-fixing case during the 2024 Legends Cricket Tournament.
+
+However, the relevant case has been filed by Tharanga himself and he had left the country at the time for cricketing purposes without informing the court in that regard.
+
+◼️
+
+[Data](articles/88f5a5e0.json)
+
+[Extended Data](ext_articles/88f5a5e0.ext.json)
+
+---
+
+### Interim banned for warrant against waves
+
+*2024-10-16 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202234) · `si`
+
+Court of Appeal issues interim injunction against UPFA Chairman. Warrant prevents arrest of Tharanga. Case related to "Legends League" controversy.
+
+🟩
+
+The Court of Appeal today issued an interim injunction today (16) due to the UPFA to proceed with the Chairman of the Selection Committee.
+
+According to the warrant issued by the courts, the Court of Appeal Judge Mohammed Lafar and P.. The Court of Appeal has issued the order by the Court of Appeal consisting of Kumaran Ratnam.
+
+Another order was nominated as respondents, designated as respondents to the petitioner Tharanga not to arrest Petitioqual Tharanga.
+
+The Matale High Court issued a warrant on the 8th of the 8th of the 8th.
+
+According to Mr. Upul Tharanga, it is relevant to a complaint that the "Legends League" has been influenced by a complaint with a complaint with a complaint that the "Legends League 'has been affected in March this year.
+
+The warrant had been arrested in the airport at the airport at the airport without informing the judiciary.
+
+◼️
+
+[Data](articles/4f617f89.json)
+
+[Extended Data](ext_articles/4f617f89.ext.json)
+
+---
+
+### Court rejects Arjun Aloysius’ bail appeal
+
+*2024-10-16 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102729/court-rejects-arjun-aloysius-bail-appeal-) · `en`
+
+The Colombo Magistrate’s Court has rejected an appeal for bail made by the Director of W.M. Mendis Distilleries Arjun Aloysius and two others, who were sentenced to prison on Monday (14) over VAT evasion.
+
+Appearing for the defendants, President’s Counsel Razik Zarook requested the court to release the three defendants on bail since the trial against them has now become a criminal case.
+
+Colombo Additional Magistrate Bandara Ilangasinghe, who stated that the relevant case has been filed based on a certification given by the Inland Revenue Department, rejected the appeal for bail, mentioning that the prison sentence is only an alternative punishment imposed on the accused and that therefore the case has not become a criminal trial.
+
+The Colombo Magistrate’s Court sentenced the Director of W.M. Mendis Distilleries, Arjun Aloysius and two others to 06 months in prison for defaulting the payment of Rs. 3.5 billion in Value Added Tax (VAT) by the company.
+
+...
+
+[Data](articles/823fdf6a.json)
+
+[Extended Data](ext_articles/823fdf6a.ext.json)
+
+---
+
+### Arjun Augisti's bail application rejected
+
+*2024-10-16 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202233) · `si`
+
+Arjun Augisti's bail rejected; 3.5 billion VAT case; six-month prison sentence; Colombo Magistrate's Court decision; criminal litigation vs Department of Inland Revenue; alternative penalties ruling.
+
+🟩
+
+3.5 billion VAT to the government is sentenced to six months in prison. M. The Colombo Magistrate's Court has rejected the request to release two including two including Arjun Alsois of Mendis.
+
+President's Counsel Aliena appeared in behalf of the respondents, he said in court, the case against these defendants had become a criminal litigation, so they demanded the release of bail.
+
+Additional Magistrate Bandara Ilangasinghe said that this was a case filed by the Department of Inland Revenue.
+
+The respondents are sentenced to the alternative penalties, the Magistrate said that it would not be a criminal litigation.
+
+◼️
+
+[Data](articles/168eed01.json)
+
+[Extended Data](ext_articles/168eed01.ext.json)
+
+---
+
+### Rs 3,000 from today
+
+*2024-10-16 11:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-ரூ-3-000/175-345548) · `ta`
+
+Pension Department deposits Rs 3,000 monthly allowance for pensioners starting today. President issues directive for funds from Treasury. Money distributed through banks and post offices.
+
+🟩
+
+The Pension Department has made arrangements for the monthly interim allowance of all pensioners to be deposited today (16).
+
+President Anura Kumara Dissanayake, who examined the proposed monthly interim allowance of pensioners, has recently issued a directive to issue the money from the Treasury.
+
+According to the instruction, the required money has been issued from the Treasury to the Pension Department and the Pension Department has taken action to deposit it into the pensioners' accounts from today (16).
+
+Although the Public Administrative Circle has been issued No. 02/2024 on 24/08/2024 to pay Rs.
+
+According to the Cabinet meeting held on the 14th, the Department of Treasury has provided a sum of Rs.
+
+Accordingly, the Head Office of the Pension Department has organized the allowance from today (16).
+
+...
+
+[Data](articles/3aca74fa.json)
+
+[Extended Data](ext_articles/3aca74fa.ext.json)
+
+---
 
 ### Chaunt - CCTV - CCTV
 
@@ -53,6 +173,32 @@ Investigations carried out by the police after the correspondence of CCTV scenes
 [Data](articles/7a247659.json)
 
 [Extended Data](ext_articles/7a247659.ext.json)
+
+---
+
+### "Temporary, just are not permanent"
+
+*2024-10-16 11:23:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தற்காலிகமானது-தான்-நிரந்தரமானது-இல்லை/175-345547) · `ta`
+
+Former President Mahinda Rajapakse denies retiring from politics, claims SLPP will win easily in upcoming election. He believes many politicians don't truly retire.
+
+🟩
+
+Former President Mahinda Rajapakse has said that he is not ready to retire from politics and his retirement is temporary.
+
+"I thought I was not contesting the general election, but politicians would not really retire," he said.
+
+Commenting on the upcoming general election, the former president said that everything is ready and that the Sri Lanka PA (SLPP) will win an easy victory.
+
+“I am not asking what President Anuragumara Dissanayake has said that politicians are starting to retire.. There are plenty of politicians who do not contest the presidential election, ”he added.
+
+He said that the 113 -seat majority in Parliament could be easily obtained by SLPP.
+
+◼️
+
+[Data](articles/c85ed946.json)
+
+[Extended Data](ext_articles/c85ed946.ext.json)
 
 ---
 
@@ -81,6 +227,118 @@ Accordingly, the allowance will be paid by the Head Office of the Department of 
 [Data](articles/59eb6ee8.json)
 
 [Extended Data](ext_articles/59eb6ee8.ext.json)
+
+---
+
+### Tell the head of the model
+
+*2024-10-16 11:19:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைவரிடம்-சொல்லுங்கள்-வேலைத்திட்டம்-அறிமுகம்/175-345545) · `ta`
+
+Sri Lanka's SLBFE introduces program to address immigrant worker issues and prevent trafficking. Chairman Goshala Wickremesinghe launched initiative at headquarters, promising measures to stop exploitation and provide solutions to complaints via phone numbers and email.
+
+🟩
+
+Sri Lanka's Foreign Employment Bureau (SLBFE) Chairman Goshala Wickremesinghe has taken steps to introduce a special program to address the unresolved problems of immigrant workers and prevent trafficking.
+
+“The new program to tell the leader was launched yesterday at the SLBFE headquarters.
+
+The SLBFE leader pointed out that the immigrant workers face unnecessary pressure when they leave for foreign work, while officers and brokers at various levels intervene in exploiting them for financial benefits.
+
+Kosala Wickremesinghe promised that the new government will act to stop these activities.
+
+He further outlined the following measures taken to solve the problems faced by the diaspora;
+
+Tell the Chairman of the SLBFE Head Office in Tensil's first floor of the Tenzil. All kinds of allegations, reviews and grievances will be recorded here.
+
+You can register complaints via a telephone number 0112 864188, 0717 593 593 WhatsApp No. or Talkchairman@slbfe.lk.
+
+...
+
+[Data](articles/67b45efd.json)
+
+[Extended Data](ext_articles/67b45efd.ext.json)
+
+---
+
+### The new resolution of the government
+
+*2024-10-16 11:16:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-புதிய-தீர்மானம்/175-345544) · `ta`
+
+New government resolution: Ministers to get 4 bodyguards post-election. Protection reduced for non-threatened officials. National People's Power vows no pre-presidential election protection for politicians.
+
+🟩
+
+After the upcoming election, the government's new announcement on the security for ministers and MPs has now been released.
+
+Accordingly, in the near future, only four bodyguards will be given to ministers.
+
+The government has also announced that this number will be changed only for those who are threatened with security.
+
+It is noteworthy that the national people's power has announced that it will not be provided with protection for politicians before the last presidential election.
+
+◼️
+
+[Data](articles/665d2642.json)
+
+[Extended Data](ext_articles/665d2642.ext.json)
+
+---
+
+### முன்னாள் அமைச்சர்களுக்கு எச்சரிக்கை - ஜனாதிபதி
+
+*2024-10-16 11:09:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்களுக்கு-எச்சரிக்கை-ஜனாதிபதி/175-345543) · `ta`
+
+அரச வீடுகளை எதிர்வரும் 30ஆம் திகதிக்கு முன்னர் கையளிக்காவிட்டால் வழக்கு தாக்கல் செய்யவுள்ளதாக, முன்னாள் அமைச்சர்கள் மற்றும் இராஜாங்க அமைச்சர்களுக்கு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இது தொடர்பில் நீதி, பொதுநிர்வாக, உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் தொழிலாளர் அமைச்சின் செயலாளர் நேற்று கடிதம் அனுப்பியுள்ளார்.
+
+அரசாங்க வீடுகளை உடனடியாக கையளிக்குமாறு முன்னாள் அமைச்சர்கள் மற்றும் இராஜாங்க அமைச்சர்களுக்கு பல நினைவூட்டல்கள் வழங்கப்பட்ட போதிலும், நேற்று வரை 11 பேரே வீடுகளை கையளித்துள்ளதாக தெரிவிக்கப்படுகிறது.
+
+முன்னாள் அமைச்சர்களுக்கு அரசாங்க வீடுகளை வழங்குவதில் பெரும் பின்னடைவு ஏற்பட்டுள்ளதாக அமைச்சு தெரிவித்துள்ளது.
+
+கொழும்பு 7 பகுதியில் முன்னாள் அமைச்சர்கள் மற்றும் இராஜாங்க அமைச்சர்களுக்கு வழங்கப்பட்ட வீடுகளின் எண்ணிக்கை 40 ஆகும். இதனால் இதுவரை ஒப்படைக்கப்படாத வீடுகளின் எண்ணிக்கை 29 ஆகும்.
+
+...
+
+[Data](articles/9d67e9eb.json)
+
+---
+
+### இலஞ்சம் பெற்ற அதிகாரி கைது
+
+*2024-10-16 11:09:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-பெற்ற-அதிகாரி-கைது/175-345542) · `ta`
+
+கிழக்கு மாகாணத்தில் மாகாண வருமானத் திணைக்கள பிரதி ஆணையாளர் ஒருவர் ரூ. 200,000 இலஞ்சம் பெற்ற குற்றச்சாட்டின் பேரில் கைது செய்யப்பட்டுள்ளார்.
+
+பிரதேசவாசி ஒருவரின் முறைப்பாட்டுக்கு அமைய மட்டக்களப்பு அலுவலகத்தில் வைத்து சந்தேக நபர் கைது செய்யப்பட்டதாக இலஞ்ச ஊழல் பற்றிய சாத்துதல்களை விசாரணை செய்யும் ஆணைக்குழு தெரிவித்துள்ளது.
+
+ஆணைக்குழுவின் பிரகாரம், முறைப்பாட்டாளர் மட்டக்களப்பில் 10 மில்லியன் ரூபாய் பெறுமதியுள்ள 65 பேர்ச் காணியை, ஏற்கனவே ரூ. 600,000 முத்திரை வரி செலுத்தி வாங்கியுள்ளார்.
+
+எவ்வாறாயினும், மாகாண வருவாய் திணைக்களத்தினால் காணியின் பெறுமதி மீள் மதிப்பீடு செய்யப்பட்ட பின்னர் அதன் பெறுமதி  ரூ. 26.5 மில்லியன்எனவும் , முறைப்பாட்டாளர் மேலும் ரூ. 850,000 வரி மற்றும் அபராதம் செலுத்த வேண்டும் எனவும் தெரிவிக்கப்பட்டுள்ளார்.
+
+பிரதி ஆணையாளர் குறித்த கட்டணத்தை லஞ்சத்திற்கு ஈடாக ரூ. 200,000. ஆக குறைக்க முன்வந்ததாக கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/de46ecfa.json)
+
+---
+
+### පාස්කු වාර්තා දෙක ප්‍රසිද්ධ කරන්න ගම්මන්පිල ආණ්ඩුවෙන් ප්‍රතිඥාවක් ඉල්ලයි
+
+*2024-10-16 11:06:09* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-වාර්තා-දෙක-ප්‍රසිද්ධ-කරන්න-ගම්මන්පිල-ආණ්ඩුවෙන්-ප්‍රතිඥාවක්-ඉල්ලයි/11-412525) · `si`
+
+තමා සතු පාස්කු වාර්තා දෙක ලබා දුන් පසු ප්‍රසිද්ධ කරන බවට විජිත හේරත් ඇමතිවරයා හෝ ආණ්ඩුව ප්‍රතිඥාවක් නොදෙන්නේ නම් එම වාර්තා කිසිදු හේතුවක් මත ආණ්ඩුවට භාර දීමට තමා සූදානම් නොමැති බව පිවිතුරු හෙළඋරුමයේ නායක උදය ගම්මන්පිල මහතා පැවසීය.
+
+අද(16දා) කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා මේ බව සඳහන් කළේය.
+
+“විජිත හේරත් ඇමතිතුමා මේ වාර්තාව මට භාර දෙන්න කියලා කිව්වට මේ වාර්තාව මම භාර දුන් පසු මේ වාර්තාව ප්‍රසිද්ධ කරන බවට කිසිම පොරොන්දුවක් නෑ. මා සතුව තිබෙන වාර්තාවත් ආණ්ඩුවට දුන්නට පස්සේ ආණ්ඩුව මේ වාර්තාව ප්‍රසිද්ධ නොකර සිටියොත් මොකක්ද අපි කරන්නේ ? මේ වාර්තා දෙක ලැබුණු වහාම ප්‍රසිද්ධ කරන බවට විජිත හේරත් ඇමතිතුමා හෝ ජනාධිපතිතුමා විසින් ප්‍රතිඥාවක් දෙනතුරු කිසිම හේතුවක් මත මා සතු වාර්තාව ආණ්ඩුව භාර දෙන්න මම සූදානම් නෑ.
+
+අපි විජිත හේරත් ඇමතිතුමාට කියන්න ඕනී මෙය බරපතල අපරාධයක් කියලා අපිව බියපත් කරලා මේ වාර්තා ප්‍රසිද්ධ කිරීම නතර කරන්න බෑ. ගරු ඇමතිතුමනි යකාට භය නැති නිසා තමයි අපි සොහොනේ ගෙවල් හදාගෙන ඉන්නේ. ”
+
+◼️
+
+[Data](articles/959c3018.json)
 
 ---
 
@@ -153,6 +411,24 @@ The suspects of the Bribery or Corruption Commission said that the suspect is to
 [Data](articles/446a8954.json)
 
 [Extended Data](ext_articles/446a8954.ext.json)
+
+---
+
+### Sri Lanka looks to Cuba for drug production help
+
+*2024-10-16 10:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-to-cuba-for-drug-production-help-183824/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Prime Minister Harini Amarasuriya has discussed Cuban investment in the production of pharmaceuticals at a meeting with the socialist country’s ambassador.
+
+Cuban Ambassador to Sri Lanka Andres Marcelo González Gorrido has said that the Cuban government is paying attention to the production of medicines in Sri Lanka, according to a statement by the PM’s office.
+
+The Caribbean country looked forward to “further strengthening of the nearly 65-year long diplomatic relationship between Sri Lanka and Cuba, resumption of the stalled mosquito control projects implemented under Cuban aid, including training of Sri Lankan trainers and students in medical and sports education for universities.”
+
+Gorrido conveyed the best wishes of the Cuban government to the prime minister when he met her on Tuesday (15).
+
+...
+
+[Data](articles/0d8f2ee4.json)
 
 ---
 
@@ -355,6 +631,26 @@ Puttalam Divisional Crimes Unit is conducting further investigations into the in
 [Data](articles/28531b79.json)
 
 [Extended Data](ext_articles/28531b79.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 293.00/10 to US dollar, bond yields up
+
+*2024-10-16 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-293-00-10-to-us-dollar-bond-yields-up-183818/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened slightly stronger at 293.00/10 to the US dollar on Wednesday, from 293.30/60 a day earlier, while bond yields were up dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.25/35 percent, up from 11.20/30 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.55/65 percent, up from 11.50/65 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.80/12.00 percent, up from 11.75/90 percent.
+
+In equities, Colombo’s All Share Price Index was trading up 0.14 percent, or 16.73 points higher at 12,274, while the S&P SL20 of more liquid stocks was trading up 0.25 percent or 9.17 points higher at 3,616.
+
+◼️
+
+[Data](articles/1bd66d6b.json)
 
 ---
 
@@ -680,6 +976,26 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
+### දඹුල්ල ශීතාගාරය කඩිනමින් විවෘත කරන්නැයි ඉල්ලීමක්
+
+*2024-10-16 07:50:44* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ල-ශීතාගාරය-කඩිනමින්-විවෘත-කරන්නැයි-ඉල්ලීමක්/11-412521) · `si`
+
+දඹුල්ල ආර්ථික මධ්‍යස්ථානය ආශ්‍රිතව ඉදි කොට වැඩ අවසන් කොට ඇති  ශිතාගාරය ගොවිජනතාවගේ  කටයුතු වෙනුවෙන්  කඩිනමින් විවෘත කරන ලෙස ගොවි සංවිධාන නියෝජිතයින්  රජයෙන් ඉල්ලා සිටි.
+
+පසුගියදා මාතලේ දිස්ත්‍රික් ලේකම් කාර්යාලයේදි පැවති දිස්ත්‍රික්  කෘෂිකර්ම කමිටුවේදී  ගොවි සංවිධාන නියෝජිතයින්  මෙම ඉල්ලීම කරනු ලැබීය.
+
+ඉන්දියානු ආධාර හා  මෙරට අරමුදල්  යොදවා  මෙම  නවීන ශිතාගාරය ඉදිරිකර ති‌බේ.   මෙම  වැඩ කටයුතු අවසන් කර තිබුණත් මෙම ආයතනය  පවත්වාගෙන යෑම සදහා  මේ වන තෙක් කිසිදු ආයතනයකට මෙහි  වගකීම පවරා නැති  බවත් මෙහිදී  අනාවරණය විය.
+
+මේ පිළිබදව  කඩිනමින් අවධානය යොමු කොට  අදාල ආයතන දැනුවත්  කිරීමට දිස්ත්‍රික් කෘෂිකර්ම කමිටුව මෙහිදී පියවර ගනු ලැබීය.
+
+මාතලේ  අතිරේක  දිස්ත්‍රික් ලේකම්  උත්පල ජයරත්න මහතාගේ ප්‍රධානත්වයෙන්  පැවැති  දිස්ත්‍රික් කෘෂිකර්ම  සදහා රාජ්‍ය  නිලධාරින් , ගොවි සංවිධාන  නියෝජිතයින් ඇතුළු පීරිසක් සහභාගි වුහ.
+
+◼️
+
+[Data](articles/ac7cc888.json)
+
+---
+
 ### Mahinda says he will not retire from politics
 
 *2024-10-16 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202224) · `si`
@@ -747,6 +1063,26 @@ Award winners and recipients across 21 categories were recognised at the Centenn
 [Data](articles/697c4a27.json)
 
 [Extended Data](ext_articles/697c4a27.ext.json)
+
+---
+
+### Sri Lanka state worker salary hike decision for 2025 will be revisited: Minister
+
+*2024-10-16 07:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-worker-salary-hike-decision-for-2025-will-be-revisited-minister-183816/) · `en`
+
+ECONOMYNEXT – A decision to raise salaries of state workers in 2025 taken by the last cabinet has been taken without Treasury observations and it will have to be revisited, Minister Vijitha Herath said.
+
+The last administration said salaries would be raised from January 2025 based on recommendations by committee headed by Udaya Seneviratne, which also included trimming Sri Lanka’s bloated public service over time.
+
+“A decision was taken by the cabinet close to the elections that salaries would be hike in January,” Minister Herath told reporters Tuesday.
+
+“When we looked around, we found that no observations were called from the Finance Ministry for this. No approval was obtained by the Finance Ministry, according to what officials tell us. So the cabinet has taken the decision arbitrarily.
+
+“It should have been taken after considering whether there were funds, was the Treasury agreeable to raise salaries according to Udaya R Seneviratne report. It has not been done.
+
+...
+
+[Data](articles/b888cd50.json)
 
 ---
 
@@ -2065,371 +2401,5 @@ The Railway Department has announced that the railway services have been tempora
 [Data](articles/c6aa30a5.json)
 
 [Extended Data](ext_articles/c6aa30a5.ext.json)
-
----
-
-### 10,323 children under five years of fierce nutritional deficiency
-
-*2024-10-15 19:33:23* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-පහට-අඩු-දරුවන්-10-323දෙනෙකු-උග්‍ර-පෝෂණ-ඌනතාවයෙන්/11-412515) · `si`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-10,323 children under 5 suffer severe malnutrition in Sri Lanka. Highest numbers reported in Gampaha (994), Kurunegala (930), Anuradhapura (629), Nuwara Eliya (622), and Galle (619). Malutasi deficiency affects 2,550 children in Gampaha, 2,245 in Kurunegala. 215,386 children under 5 reported overall, with 17,701 in Kurunegala. 133,538 children under 5 have stunted growth, with 11,677 in Nuwara Eliya.
-
-🟩
-
-මෙරට වයස අවුරුදු පහට අඩු දරුවන් 10,323දෙනෙකු උග්‍ර පෝෂණ ඌනතාවයෙන් පෙළෙන බැව්, පෝෂණ මාසය නිමිත්තෙන් 2024 වර්ෂයට අදාළව පවුල් සෞඛ්‍ය සේවා කාර්යාංශය මගින් නිකුත් කොට ඇති වාර්තාවේ සඳහන් වේ.
-
-උග්‍ර පෝෂණ ඌනතාවයෙන් පෙළෙන වයස අවුරුදු පහට අඩු දරුවන් වැඩිම පිරිසක් වාර්තා වන්නේ ගම්පහ දිස්ත්‍රික්කයෙන් වන අතර, එම සංඛ්‍යාව 994කි. උග්‍ර පෝෂණ ඌනතාවයෙන් පෙළෙන දරුවන් 930දෙනෙකු කුරුණෑගල දිස්ත්‍රික්කයෙන්ද, 629ක් අනුරාධපුර දිස්ත්‍රික්කයෙන්ද, නුවර දිස්ත්‍රික්කයෙන් 622 දෙනෙකුද, ගාල්ල දිස්ත්‍රික්කයෙන් 619 දෙනෙකුද වාර්තා වී ඇති බැව් පවුල් සෞඛ්‍ය සේවා කාර්යංශය මගින් නිකුත් කොට වාර්තාවේ සඳහන් වේ.
-
-According to this report, 25,269 children under the age of five are suffering from malutasi deficiency.
-
-මන්දපෝෂණ ඌනතාවයෙන් පෙළෙන අවුරුදු පහට අඩු දරුවන් 2,550දෙනෙකු ගම්පහ දිස්ත්‍රික්කයෙන් වාර්තා වී ඇති අතර, කුරුණැගල දිස්ත්‍රික්කයෙන් වාර්තා වී ඇති ළමුන් සංඛ්‍යාව 2,245කි. මහනුවරු දිස්ත්‍රික්කයෙන් ළමුන් 1,578දෙනෙකු, අනුරාධපුර දිස්ත්‍රික්කයෙන් ළමුන් 1,340 දෙනෙකු වාර්තා වී ඇති බවද මෙම වාර්තාවේ සඳහන් වේ.
-
-...
-
-[Data](articles/07995702.json)
-
-[Extended Data](ext_articles/07995702.ext.json)
-
----
-
-### ඇල්ල චිල් හෝටලය ලෝකයෙන්ම දෙවැනි තැනට
-
-*2024-10-15 19:29:04* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-චිල්-හෝටලය-ලෝකයෙන්ම-දෙවැනි-තැනට/11-412514) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Chilf Hotel ranked second globally for hospitality. Previously top in South Asia. Rated highly for food, drinks, and service quality."
-
-🟩
-
-Trips Search Guide According to the Worldwide preference, the second resignation of the best resturanings in the world, the celebrations have been placed second.
-
-Previously, Chilf rested was elected as the best restorative in South Asia.
-
-In the notes placed by tourist arrivals, including food and beverages and care services.
-
-◼️
-
-[Data](articles/beff1764.json)
-
-[Extended Data](ext_articles/beff1764.ext.json)
-
----
-
-### Sri Lanka - Indian Shipping Service canceled
-
-*2024-10-15 19:28:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-கப்பல்-சேவை-இரத்து/175-345512) · `ta`
-
-Sri Lanka: Indian Shipping Service cancels Tamil Nadu-Kankesanthurai route due to strong winds, heavy rains, and rough seas. Low-pressure system in Bay of Bengal intensifies, making navigation unsafe.
-
-🟩
-
-The passenger ship between Tamil Nadu and Kankesanthurai has been canceled for two days.
-
-It has been reported that the winds, climate and rain precautions have been canceled for two days.
-
-The Indian Meteorological Department said that the low -lying area in the Bay of Bengal has been strengthened.
-
-As a result, the ship's service between Nagapattinam and Kankesanthurai has been canceled due to the fact that the sea is raging and the tornado winds and the difficulty of operating the ship.. Remble
-
-◼️
-
-[Data](articles/b8755ca1.json)
-
-[Extended Data](ext_articles/b8755ca1.ext.json)
-
----
-
-### Man shot dead in Matara
-
-*2024-10-15 19:23:01* · [`adalk`](https://www.ada.lk/breaking_news/මාතර-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-මරුට/11-412513) · `si`
-
-A 53-year-old man was fatally shot by an unknown assailant in Matara. Police report the incident occurred within the Matara Police Division. The shooter used a pistol. Authorities have not yet determined the motive behind the attack.
-
-🟩
-
-The police said that a person was shot dead by an unidentified gunman in the Matara Police Division, police said.
-
-The deceased is a resident of the land of Matara, 53 years old. A gunman was shot and used a pistol firearm for shooting. The cause of the shooting has been detected so far.
-
-◼️
-
-[Data](articles/bd09ecf1.json)
-
-[Extended Data](ext_articles/bd09ecf1.ext.json)
-
----
-
-### Upcountry train detects - A delay in the Kandyan road
-
-*2024-10-15 19:15:37* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රියක්-පීලි-පනියි---උඩරට-මාර්ගයේ-දුම්රිය-ප්‍රමාදයක්/11-412512) · `si`
-
-Train delayed due to derailment on Kandyan Road. Train 1159 derailed between Nawalapitiya and Nanu Oya. Steps being taken to rectify issue. Delay expected in Badulla-Colombo route.
-
-🟩
-
-The Nawalapitiya Railway Control Room stated that a train traveling from Nawalapitiya to Nanu Oya to Talavakele and Watagalapitiya.
-
-The Railway Control Room says that steps have been derailed in the railway awareness No. 1159 and have taken steps to conduct train derailed train.
-
-As a result of this, Badulla has taken steps to delay the delay in Badulla and a half (15) from Badulla and Colombo Fort.
-
-◼️
-
-[Data](articles/4b345f3e.json)
-
-[Extended Data](ext_articles/4b345f3e.ext.json)
-
----
-
-### England in the ICC Women's R20 World Cup. Islands
-
-*2024-10-15 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/196387) · `ta`
-
-England vs West Indies in ICC Women's R20 World Cup. England leads 19-8 in 28 matches. Match on Tuesday at Dubai stadium. Winner qualifies for semis. England aims to maintain perfect record in Group B.
-
-🟩
-
-The B team between the UK and the West Indies will be held on Tuesday night at the Dubai International Cricket Stadium in the Ninth Women's T20 World Cup chapter in the United Arab Emirates.
-
-The team that wins the match will qualify to play at the semi -finals from the B team. At the same time, the competition will also decide the fate of South Africa.
-
-Former champion England, who has not failed in the B group, will win and South Africa will continue to play in the 2nd basis on the net -speed basis.
-
-If the West Indies win by the lowest net margin of the West Indies, South Africa will leave the first round if England reach 2nd place. .
-
-According to the results of the B Team Tournament in this year's Women's R20 World Cup Cricket Tournament. And the only team that does not fail in the group is England.
-
-In South Africa, last year, England won 136 runs in the Women's T20 World Cup cricket match by 7 wickets in 15 overs.
-
-...
-
-[Data](articles/ca366903.json)
-
-[Extended Data](ext_articles/ca366903.ext.json)
-
----
-
-### Sri Lanka seeks time from court to study Adani wind power deal: Minister
-
-*2024-10-15 19:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-time-from-court-to-study-adani-wind-power-deal-minister-183793/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sought time from court to review a wind power deal with India’s Adani group, as several legal cases are ongoing, Minister Vijitha Herath said.
-
-The cabinet discussed the matter last week and instructed the Attorney General to get time from court until the government reviews the deal, studies its contents and presents information, he said.
-
-“That is the legal matter. Until those legal matters are concluded we cannot go for any decision regarding the Adani company,” Minister Herath said. “So, we have not done that.
-
-“Those are two things. There are court cases. The Attorney General is representing the government. We instructed the Attorney General that the government needed time to review this agreement, and to go to court and get the time.
-
-“That is the interventions we have made in the case between these parties.
-
-...
-
-[Data](articles/6b079e16.json)
-
-[Extended Data](ext_articles/6b079e16.ext.json)
-
----
-
-### Sri Lanka is the first to bat
-
-*2024-10-15 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196386) · `ta`
-
-Sri Lanka bats first in 2nd T20 vs West Indies at Rangiri Dambulla Stadium. Changes made: Samindu Wickremasinghe and Asitha Fernando replaced by Dunit Vellalake and Nuwan Dushara. Sri Lanka aims to win series after mistakes in first match.
-
-🟩
-
-Sri Lanka will be playing first in the second international T20 cricket match at Rangiri and Dambulla International Stadium against the West Indies.
-
-Sri Lanka is embarking on a series of mistakes in the first match and winning the series today.
-
-Samindu Wickremasinghe and Asitha Fernando have been removed and Dunit Vellalake and Nuwan Dushara have been recruited.
-
-Sri Lanka: Bethum Nissanka, Kusal Mendis, Kusal Perera, Kamindu Mendis, Sarit Asalanga (Chairman), Panuka Rajapaksa, Wanindu Hasaranga, Tunit Vellalake, Mahish Dikshana, Mathisha Pathrana, Nuwan Dushara, Nuwan Dushara
-
-West Indies: Evin Louis, Brendon King, Undre Plecher, Roston Chase, Sherpane Radarbard, Roveman Powell (Chairman), Romario Hepard, Sharm Springer, Alzari Joseph, Kudakesh Motty, Shamar Joseph.
-
-◼️
-
-[Data](articles/f6417391.json)
-
-[Extended Data](ext_articles/f6417391.ext.json)
-
----
-
-### Is this the change expected by the youth in the nomination of the National People's Power about family rule?- Nimal Lansa
-
-*2024-10-15 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196385) · `ta`
-
-National People's Power nomination controversy: Family rule concerns raised by youth.
-
-🟩
-
-Speaking about family rule during the presidential campaign, the nomination of the National People's Power includes two members of the same family.. Former parliamentarian Nimal Lansa questioned whether this was the case with youth.
-
-He further stated this at a press conference held at the Water Election Office in Colombo on Tuesday (15).
-
-To give people the power of the national people's power. But the strong opposition is necessary. The national people do not power what they said to the people. Youth and women voted for national people's power in order to change the system. But there was no change in any system they expected.
-
-State appointments are not made to eligible. Rather, it is provided to members of the national people's power. Said young people to accommodate. No appointment is made to young people. So people should think about this during the general election.
-
-...
-
-[Data](articles/9503d05e.json)
-
-[Extended Data](ext_articles/9503d05e.ext.json)
-
----
-
-### One person killed in shooting in Matara
-
-*2024-10-15 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102718/one-person-killed-in-shooting-in-matara) · `en`
-
-A person has been shot and killed by an unidentified gunman in the Ruwanwella area in Matara this evening (15), police said.
-
-The victim was travelling in a three-wheeler when he was shot by an individual who had arrived in a car, the police spokesman’s office said.
-
-The deceased has been identified as a 53-year-old resident of Matara.
-
-Police said that preliminary investigations have uncovered that the shooter had arrived in a car and opened fire at the victim who was traveling in a three—wheeler while a pistol had been used to carry out the shooting.
-
-The motive behind the shooting is yet to be ascertained while Matara Police is conducting further investigations to apprehend the suspects involved.
-
-However, it is also reported that the shooting victim had been operating as a “vehicle seizer”.
-
-◼️
-
-[Data](articles/cd351922.json)
-
-[Extended Data](ext_articles/cd351922.ext.json)
-
----
-
-### Sri Lanka to benefit
-
-*2024-10-15 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202213) · `si`
-
-Sri Lanka benefits from West Indies match. Dambulla stadium game starts 7pm. West Indies won first T20 by 5 wickets. Teams compete in three tournaments.
-
-🟩
-
-The Sri Lankan team was the benefit of the West Indies and the Sri Lanka team today (15).
-
-The match at the Dambulla International Stadium will commence at 7 pm.
-
-West Indies won the first Twenty20 match between the two countries by 5 wickets.
-
-The West Indies team and the Sri Lankan team consists of three tournaments.
-
-◼️
-
-[Data](articles/e1ded103.json)
-
-[Extended Data](ext_articles/e1ded103.ext.json)
-
----
-
-### Matara shooting - Man dies
-
-*2024-10-15 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202212) · `si`
-
-Matara shooting: One man killed in Kekanadura today. Police say shooter used car. Victim identified as Caesar. Incident occurred this afternoon.
-
-🟩
-
-A shooting has been killed in the Kekanadura area in Matara this afternoon.
-
-The police said that the shooting had been carried out by a car in a car.
-
-It is reported that a person who was a Caesar was the victim of shooting.
-
-◼️
-
-[Data](articles/fd95c9aa.json)
-
-[Extended Data](ext_articles/fd95c9aa.ext.json)
-
----
-
-### Chinese embassy announcementSri Lanka
-
-*2024-10-15 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/196384) · `ta`
-
-Chinese embassy supports Sri Lanka anti-fraud efforts, cooperating with police to combat telecom/e-commerce scams affecting both countries' relations. China has successfully reduced fraud cases domestically but warns of potential spread to Southeast Asia.
-
-🟩
-
-The Chinese embassy has announced that it has deep compassion to cooperate with Sri Lanka to enforce anti -fraud laws.
-
-China has been closely observing reports that Sri Lankan police have arrested several foreign suspects, including Chinese citizens.. These incidents not only threaten the property of the two countries but also severely damage China's admiration. It also affects the traditional friendship between the two countries.
-
-The Chinese embassy is fully supportive of the Sri Lankan law enforcement agencies to carry out action against the suspects while protecting the rights and interests of the suspects.
-
-Telecommunications and e -commerce scams began in China in the 1990s. Since then it has widespread and affected the country's large number of citizens. The Chinese government adopts the people -centered attitude, continues to explore the path to prevent telecommunications and ecommerce fraudulent crimes, leading a number of pioneering efforts.
-
-...
-
-[Data](articles/60a112af.json)
-
-[Extended Data](ext_articles/60a112af.ext.json)
-
----
-
-### Rs.24 billion fines to the Russians who went the gene soft
-
-*2024-10-15 18:29:51* · [`adalk`](https://www.ada.lk/breaking_news/ජාන-සොරකමේ-ගිය-රුසියානුවන්ට-කෝටි-11-හමාරක-දඩයක්/11-412510) · `si`
-
-Two Russians fined Rs.24 billion for wildlife violations in Sri Lanka. They pleaded guilty to collecting 230 biological resources, including frogs. Their passports were seized. Case closed August 29, 2024.
-
-🟩
-
-Embilipitiya Magistrate Dilum Fernando was a fine of Rs.
-
-The Wildlife Department has fined the two Russians who have been sentenced to Rs.The passports of the defendants of the defendants took the passports of the two Russians.
-
-The charges were fined for the acceptance of guilt and Savali Alexandrovich (18) and Nicolai (21) in Moscow, Russia.
-
-The country, designated as hell in the World Heritage Forest and Suriruja, the World Heritage Forest and Suriruja, which is designated in the World Heritage Forest and Suriruja, which is designated between the August 29, 2024, was endemic to Sri Lanka.The two defendants had filed 1067 separate charges on the gathering of 230 biological resources including frogs.
-
-The defendant's Russian couple appeared in court when the case was called.
-
-They informed the judiciary that they would accept the accusations after the defendant Russian couple against the defendant Russian couple.
-
-◼️
-
-[Data](articles/bf4d055c.json)
-
-[Extended Data](ext_articles/bf4d055c.ext.json)
-
----
-
-### Sudden transfer of Hambantota District Secretary
-
-*2024-10-15 18:24:54* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-දිස්ත්‍රික්-ලේකම්ට-හදිසියේ-ස්ථාන-මාරුවක්/11-412509) · `si`
-
-Hambantota District Secretary HP Sumanasekera transferred to Ministry of Justice. Election Commission requested transfer due to Cabinet's plan for new appointment. Officials subject to emergency transfers during general election.
-
-🟩
-
-Hambantota District Secretary HP Sumanasekera has suddenly transferred to the Ministry of Justice, the Secretary to the Ministry of Defense and the Secretary to the Ministry of Justice to the Ministry of Justice.
-
-When contacted by the Elections Commission to a request made by the Elections Commission, the complaint was carried out by the Commissioner General of the Elections Commission Saman Sri Ratnayake in this regard.The request was made.
-
-He said that he was aware of the media that the Cabinet was determined to provide a new appointment of the Hambantota District Secretary to the Hambantota District Secretary.
-
-He is also responsible for the Select Officer of the Select Officer of the Hambantota district and the officials of the Hambantota District Secretariat have been subjected to the transfer of these emergency transfers during the general election.
-
-◼️
-
-[Data](articles/dbc486dc.json)
-
-[Extended Data](ext_articles/dbc486dc.ext.json)
 
 ---

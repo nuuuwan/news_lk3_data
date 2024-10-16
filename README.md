@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 17:40:15**
+As of **2024-10-16 18:00:27**
 
 ## Newspaper Stats
 
-*Scraped **49,843** Articles*
+*Scraped **49,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,050
 dailyftlk | 3,384
 adalk | 4,636
 dailymirrorlk | 4,733
-adaderanalk | 5,903
-tamilmirrorlk | 6,818
+adaderanalk | 5,904
+tamilmirrorlk | 6,819
 virakesarilk | 7,978
 adaderanasinhalalk | 8,633
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,633
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,843 (100.0%) of 49,843 articles have been extended.
+49,845 (100.0%) of 49,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### The body of the driver's body was recovered from the end of the world
+
+*2024-10-16 17:34:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உலக-முடிவிலிருந்து-வீசப்பட்ட-சாரதியின்-சடலம்-மீட்பு/76-345570) · `ta`
+
+Body of 23-year-old three-wheeler driver recovered from ditch near Wellawaya. Driver killed and thrown into ditch. Commando officials retrieved body using ropes. Police involved in investigation. Incident occurred on Wednesday, March 16th.
+
+🟩
+
+The body of a 23 -year -old three -wheeler driver from Holly Ela Rosette, who was killed and thrown into the ditch from the end of the world, was found on Wednesday (16) after Wednesday (16).
+
+A group of commando officials of the Wellawaya Kuda Kuda Oya Army Camp with the help of ropes on Wednesday afternoon (16), Madulzima descended into the small world's ditch.
+
+The body was tied up with a rope tied to the fertilizer bag with great effort, police said.
+
+◼️
+
+[Data](articles/6a1048b9.json)
+
+[Extended Data](ext_articles/6a1048b9.ext.json)
+
+---
 
 ### Processing plans for education should be prepared as global needs - President
 
@@ -59,6 +81,28 @@ The President and the Prime Minister have also instructed the officials to imple
 [Data](articles/c16d16a7.json)
 
 [Extended Data](ext_articles/c16d16a7.ext.json)
+
+---
+
+### Ada Derana surpasses three million subscriber mark on YouTube
+
+*2024-10-16 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102741/ada-derana-surpasses-three-million-subscriber-mark-on-youtube) · `en`
+
+Sri Lanka’s premier news provider Ada Derana has surpassed three million subscribers on its official YouTube channel, becoming the first and the only Sri Lankan news channel to reach the significant milestone.
+
+Ada Derana has thereby succeeded in setting an unbreakable record in the digital news space of Sri Lanka and has positioned itself as the Sri Lankan news channel with the highest number of subscribers on YouTube.
+
+Joining YouTube on 07th October in 2014, Ada Derana YouTube Channel has accumulated over 1.7 billion views in total with over 131,500 videos uploaded thus far.
+
+In the highly competitive news broadcasting space, Ada Derana is the most unbiased and comprehensive news property on offer, with a news team geared to deliver the most accurate and timely information.
+
+Ada Derana is recognized as the number one News Brand among Sri Lankans in terms of loyalty and viewership by reaching them through every possible opportunity.
+
+...
+
+[Data](articles/b49d48e2.json)
+
+[Extended Data](ext_articles/b49d48e2.ext.json)
 
 ---
 
@@ -606,11 +650,15 @@ They said that nearly a thousand pigs have died, and that the unidentified virus
 
 *2024-10-16 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102734/injunction-issued-preventing-any-hindrance-to-sri-lankas-first-cable-car-project) · `en`
 
-The Court of Appeal has issued an interim order against the Gampola Divisional Secretary preventing her from interfering with the activities of the first cable car project in Sri Lanka, being built in the Ambuluawa area.
+The Court of Appeal has issued an interim order against the Gampola Divisional Secretary preventing her from interfering with the activities of the first cable car project in Sri Lanka, which is being built in the Ambuluwawa area.
 
-This order was issued by the Appeals Court after considering a petition filed by a private company alleging that their project is being hindered by the official.
+This order was issued by the Appeals Court after considering a petition filed by a private company alleging that their project is being unduly hindered by the said official.
 
-◼️
+The application was taken up for consideration today (16) before an Appellate Court bench comprising Judges Mohammad Lafar Tahir and P. Kumaran Ratnam.
+
+Presenting facts before the court, President’s Counsel Ali Sabry, who appeared for the petitioning company, accused the Gampola Divisional Secretary of obstructing the construction work of the cable car project despite the fact that all the relevant government agencies had given the necessary approval.
+
+...
 
 [Data](articles/2bf18143.json)
 
@@ -2357,39 +2405,5 @@ The documentary beautifully embodies Viruliya Sevana’s guiding motto, “Yaha 
 [Data](articles/ce4067fe.json)
 
 [Extended Data](ext_articles/ce4067fe.ext.json)
-
----
-
-### Pathfinder Foundation and Sharif University host webinar on Iran - Sri Lanka relations
-
-*2024-10-16 06:01:09* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundation-and-Sharif-University-host-webinar-on-Iran-Sri-Lanka-relations/56-768017) · `en`
-
-The Hafez Centre for Cultural Understanding (HCCU) of the Pathfinder Foundation and the Governance and Policy Think Tank (GPTT) of Sharif University in Iran recently held their inaugural webinar on the theme ‘Iran-Sri Lanka Relations: Ties of the Past, Pointers to the Future.’
-
-...
-
-[Data](articles/9d230ab4.json)
-
-[Extended Data](ext_articles/9d230ab4.ext.json)
-
----
-
-### Govt. justifies decision to expedite seven high-profile cases
-
-*2024-10-16 05:58:53* · [`dailyftlk`](https://www.ft.lk/news/Govt-justifies-decision-to-expedite-seven-high-profile-cases/56-768016) · `en`
-
-Cabinet Spokesman and Minister Vijitha Herath pledges thorough investigations into all past crimes
-
-The Government yesterday reaffirmed its commitment to investigate all past crimes and prosecute those responsible, whilst clarifying the decision to select seven high-profile cases that have been prioritised for expedited review.
-
-Addressing the media at the weekly post-Cabinet meeting briefing yesterday Cabinet Spokesman and Minister Vijitha Herath assured that the Government would not limit its inquiries to these cases alone, but would pursue justice for all reported, yet stalled crimes, including economic offences, murders and disappearances.
-
-The seven cases prioritised include the Central Bank Bond scam, the Easter Sunday terror attacks, the kidnapping and murder of journalist D.P. Sivaram, the disappearance of Lalith Kumar and Kugan Muruganadan, Vice Chancellor Sivasubramaniam Raveendranath, the murder of businessman Dinesh Schaffter and the shooting outside the W15 hotel in Weligama.
-
-...
-
-[Data](articles/f2c8291f.json)
-
-[Extended Data](ext_articles/f2c8291f.ext.json)
 
 ---

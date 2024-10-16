@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 13:09:20**
+As of **2024-10-16 13:23:23**
 
 ## Newspaper Stats
 
-*Scraped **49,811** Articles*
+*Scraped **49,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,050
 dailyftlk | 3,384
 adalk | 4,631
 dailymirrorlk | 4,733
-adaderanalk | 5,895
+adaderanalk | 5,897
 tamilmirrorlk | 6,815
 virakesarilk | 7,971
 adaderanasinhalalk | 8,624
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,624
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,811 (100.0%) of 49,811 articles have been extended.
+49,813 (100.0%) of 49,813 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,46 @@ The court has sentenced all three directors to six months' imprisonment for fail
 [Data](articles/916efbed.json)
 
 [Extended Data](ext_articles/916efbed.ext.json)
+
+---
+
+### Rs. 3,000 allowance to be credited to pensioners’ accounts from today
+
+*2024-10-16 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102733/rs-3000-allowance-to-be-credited-to-pensioners-accounts-from-today-) · `en`
+
+The Department of Pensions is set to distribute the monthly interim allowance of Rs. 3,000 to all pensioners starting today (16), the President’s Media Division (PMD) announced.
+
+President Anura Kumara Dissanayake, who looked into the delays in disbursing the proposed monthly interim allowance of Rs. 3,000 for pensioners, has recently directed that the necessary funds be released from the Treasury, the PMD said in a statement.
+
+In line with these directives, the Treasury has allocated the required amount to the Department of Pensions, which will begin crediting the allowances to pensioners’ accounts today, the statement added.
+
+Although Public Administration Circular No. 02/2024, issued on 24 August 2024, called for the monthly interim allowance, funding had not been allocated.
+
+...
+
+[Data](articles/985a36d9.json)
+
+[Extended Data](ext_articles/985a36d9.ext.json)
+
+---
+
+### Iranian who attempted to enter Sri Lanka with stolen Italian passport deported
+
+*2024-10-16 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102732/iranian-who-attempted-to-enter-sri-lanka-with-stolen-italian-passport-deported) · `en`
+
+An Iranian national has been arrested at the Bandaranaike International Airport (BIA) in Katunayake this morning (16) for attempting to enter Sri Lanka using a stolen Italian passport.
+
+The 40-year-old Iranian had arrived in the island onboard Air Arabia flight G9-502 from Sharjah, United Arab Emirates, at 4:25 a.m. today.
+
+Upon arrival, the man had presented an Italian passport to immigration officers to obtain an on-arrival visa. However, when the passport details were checked against Interpol’s database of lost and stolen passports, it has been flagged as being reported stolen.
+
+Immigration authorities had immediately referred the case to the National Central Bureau of the Criminal Investigation Department (CID), where the stolen status of the passport was confirmed.
+
+...
+
+[Data](articles/c454e6b2.json)
+
+[Extended Data](ext_articles/c454e6b2.ext.json)
 
 ---
 
@@ -2369,73 +2409,5 @@ Similarly, the Commission should consult on this issue from political parties an
 [Data](articles/f75c6845.json)
 
 [Extended Data](ext_articles/f75c6845.ext.json)
-
----
-
-### Derana concession operation to find out floods affected by floods
-
-*2024-10-15 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202217) · `si`
-
-Floods affect 159,511 people in Sri Lanka. 10,361 displaced, mostly in Milkanda and Panadugama areas. Relief efforts ongoing. Rain expected to decrease soon.
-
-🟩
-
-159,511 persons belonging to 40,758 families have been affected by the inclement weather.
-
-The Disaster Management Center said that 10,361 persons from 2,433 families remain in safe places.
-
-Milkanda Milkanda area has already been flooded in the face of inclement weather.
-
-The Irrigation Department states that the Ging Ganga has a small flood from Baddegama area.
-
-Meanwhile, lowbies in the Panadugama area are inundated in the Panadugama area.
-
-The Irrigation Department states that the water level of the Nilwala River is continuing from the Nilwala River from the Talgahagoda area.
-
-The Department of Irprises said that the Galaw Oya water levels in the recent past were underway.
-
-However, there are still many lowlands, including the roadside due to the flow of rain water.
-
-The rainwale was still descended by the floods, Kelaniya, Kaduwela and Kaduwela.
-
-Residents allege that the portfolio is not due to the proper implementation of floods in Malwana.
-
-...
-
-[Data](articles/7d9b2a68.json)
-
-[Extended Data](ext_articles/7d9b2a68.ext.json)
-
----
-
-### Pakistan towards a strong state of debutant Ghulam
-
-*2024-10-15 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196388) · `ta`
-
-Pakistan cricket team performs well in 2nd Test match against England. Debutant Kamran Ghulam scores 118 runs, sharing partnerships with teammates. Team faces initial challenges but recovers through Ghulam's batting. England leads overall series.
-
-🟩
-
-Pakistan is moving towards a strong position with the help of debutant Kamran Ghulam Ghulam in the 2nd Test match, which began on Tuesday (15) at the Multan Cricket Stadium against England.
-
-Pakistan, who decided to bat first in the match, scored 259 runs for the loss of 5 wickets in its first innings at the end of the first day's match.
-
-Pakistan lost its first two wickets for 19 runs and faced a major crisis.
-
-However, Saym Ayub and Kamran Ghulam shared 149 runs in the 2nd wicket and controlled the fall of the team.
-
-Kamran Ghulam Upon debuting in ODIs last year against New Zealand. Instead, he was only involved in the field.
-
-Kamran Ghulam, who later made his debut in the international Test stage, was a very efficient bats and scored 118 runs with 11 pounds and a six.
-
-Kamran Ghulam shared 65 more runs with Mohammed Rizwan in the 5th wicket.
-
-England are leading the first Test in the three -match Test series between England and Pakistan.
-
-◼️
-
-[Data](articles/70a60fbe.json)
-
-[Extended Data](ext_articles/70a60fbe.ext.json)
 
 ---

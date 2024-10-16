@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 18:20:20**
+As of **2024-10-16 18:35:03**
 
 ## Newspaper Stats
 
-*Scraped **49,847** Articles*
+*Scraped **49,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,050
 dailyftlk | 3,384
-adalk | 4,636
+adalk | 4,637
 dailymirrorlk | 4,733
 adaderanalk | 5,905
-tamilmirrorlk | 6,819
+tamilmirrorlk | 6,820
 virakesarilk | 7,978
 adaderanasinhalalk | 8,634
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 8,634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,847 (100.0%) of 49,847 articles have been extended.
+49,849 (100.0%) of 49,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Sudden fraudulent camps; DIG description
+
+*2024-10-16 18:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீர்-மோசடி-முகாம்கள்-DIG-விளக்கம்/175-345571) · `ta`
+
+Fraudulent camps: Foreigners in Sri Lanka, Sri Lankans in Myanmar. New phenomenon. Suspects confined, paid salaries. Company fronts, growing from 4 to 50 members. Over 150 Chinese arrested for financial fraud.
+
+🟩
+
+Police Media Spokesperson DIG Nihal Talduwa said that the fraudulent camps of foreign citizens in Sri Lanka and the fraudulent camps in Sri Lankan citizens in Myanmar were trapped.
+
+Commenting on the media, the police spokesman said these 'fraudulent camps' are a very new concept for Sri Lanka.
+
+“This comment on fraudulent camps was only discovered this year. The suspects choose separate places, often carrying their functions in rooms and a large hall. Those who are in the camps are often not allowed to leave the premises. This is like the situation of Sri Lankans trapped in Myanmar cyber camps, ”he said.
+
+DIG Talduwa added that even if they are not allowed to go outside, they will be paid salaries.
+
+“This fraudulent camp workers need a swimming pool. Their food is needed, ”he said.
+
+The police media spokesman said that the fraudsters claiming to be running a company would be available for several months.
+
+...
+
+[Data](articles/548d8d37.json)
+
+[Extended Data](ext_articles/548d8d37.ext.json)
+
+---
 
 ### Police seek public assistance to identify deceased persons in separate cases
 
@@ -287,6 +315,26 @@ The deceased is about 35 years old, police said.
 [Data](articles/01f481ae.json)
 
 [Extended Data](ext_articles/01f481ae.ext.json)
+
+---
+
+### Bomb threatens for 10 aircraft in 48 hours
+
+*2024-10-16 16:22:12* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියන්-ගුවන්-යානා-වල-බෝම්බ-බියක්---පැය-48දී-යානා-10ක්-සඳහා-බෝම්බ-තර්ජන-එල්ල-වෙයි/11-412530) · `si`
+
+Indian aircraft bomb threats delay 10 planes over 48 hours; reasons unclear
+
+🟩
+
+The aircraft has delayed or delayed due to threats that there were about 10 Indian aircraft bombs over 48 hours.
+
+Foreign media reports that the bombs of Indian aircraft have been threatened from the Indian aircraft from Monday (14) and the reason for the threat of these is not yet.
+
+◼️
+
+[Data](articles/dae6c684.json)
+
+[Extended Data](ext_articles/dae6c684.ext.json)
 
 ---
 
@@ -2387,39 +2435,5 @@ He described the design of Cinnamon Life as inspired by abstract geometry and li
 [Data](articles/a5a2d872.json)
 
 [Extended Data](ext_articles/a5a2d872.ext.json)
-
----
-
-### CA Sri Lanka pays tribute to three veteran Chartered Accountants for outstanding contributions to corporate, society and country
-
-*2024-10-16 06:10:21* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-pays-tribute-to-three-veteran-Chartered-Accountants-for-outstanding-contributions-to-corporate-society-and-country/34-768021) · `en`
-
-The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) recently paid tribute to three distinguished Chartered Accountants for their remarkable contributions to the corporate, society and country spanning many decades.
-
-At the inauguration ceremony of the 45th National Conference of Chartered Accountants held at Monarch Imperial on Monday (14 October 2024), CA Sri Lanka bestowed the prestigious Lifetime Achievement Award on veteran Chartered Accountant Lal Nanayakkara, while Gamini Epa and Rajasekaran Vijayasekaran were inducted to the CA Sri Lanka Hall of Fame for the year 2024 in recognition of their extraordinary contributions.
-
-...
-
-[Data](articles/34b0289a.json)
-
-[Extended Data](ext_articles/34b0289a.ext.json)
-
----
-
-### Civil Collective issues 10 criteria to people when electing next MPs
-
-*2024-10-16 06:07:32* · [`dailyftlk`](https://www.ft.lk/news/Civil-Collective-issues-10-criteria-to-people-when-electing-next-MPs/56-768020) · `en`
-
-The Sri Lankan Civil Collective last week issued a clarion call to voters to “choose someone who can do you justice” at next month’s Parliamentary election.
-
-The Collective, which consists of 45 organisations and civil society leaders such as the Colombo Young Men’s Buddhist Association, People’s Action for Free and Fair Elections (PAFFREL), the Centre for Policy Alternatives, and President’s Counsel Faisz Mustapha, has come up with 10 criteria to assess when voting for next set of MPs.
-
-As concerned citizens of this country, a group of well-meaning individuals and prominent civil organisations, now known as ‘Civil Collective’, came together and embarked on a mission in 2022 to educate the voter on how to select the ‘ideal candidate’ for themselves.
-
-...
-
-[Data](articles/fbf3245b.json)
-
-[Extended Data](ext_articles/fbf3245b.ext.json)
 
 ---

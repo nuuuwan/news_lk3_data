@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 16:57:03**
+As of **2024-10-16 17:08:40**
 
 ## Newspaper Stats
 
-*Scraped **49,836** Articles*
+*Scraped **49,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,050
 dailyftlk | 3,384
-adalk | 4,635
+adalk | 4,636
 dailymirrorlk | 4,733
-adaderanalk | 5,901
+adaderanalk | 5,903
 tamilmirrorlk | 6,818
 virakesarilk | 7,976
 adaderanasinhalalk | 8,631
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,631
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,836 (100.0%) of 49,836 articles have been extended.
+49,836 (100.0%) of 49,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Person shot dead in Grandpass
+
+*2024-10-16 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102740/person-shot-dead-in-grandpass) · `en`
+
+A person in a three-wheeler has been shot dead in the Madampitiya area of Grandpass, Colombo the police said.
+
+Police Media Spokesperson DIG Nihal Thalduwa stated that the assailants who arrived the scene in a car had opened fire at the 35-year-old at around 3.00 p.m. this evening (16).
+
+The incident took place near a cemetery in Madampitiya, according to police.
+
+Police mentioned that the deceased, identified as a resident of the Mihijaya Sewana area, had been travelling in the back seat of the three-wheeler, at the time of the shooting.
+
+It has been uncovered during the preliminary investigations that the assailants had carried out the shooting using a pistol.
+
+◼️
+
+[Data](articles/17509b81.json)
+
+---
 
 ### Shooting Madampiti
 
@@ -53,6 +73,26 @@ The deceased is about 35 years old, police said.
 [Data](articles/01f481ae.json)
 
 [Extended Data](ext_articles/01f481ae.ext.json)
+
+---
+
+### Earthquake shakes eastern Turkey, no casualties reported
+
+*2024-10-16 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102739/earthquake-shakes-eastern-turkey-no-casualties-reported) · `en`
+
+An earthquake with a magnitude of 5.9 struck eastern Turkey’s Malatya province on Wednesday, the country’s disaster and emergency management authority (AFAD) said, adding that there were no immediate reports of damage or casualties.
+
+AFAD said the quake occurred at 10:46 a.m.(0746 GMT) with its epicentre in the district of Kale, some 40 km (25 miles) east of the city of Malatya.
+
+“Our teams are on alert and field scanning operations are ongoing,” it added.
+
+The quake was also felt in Syria’s Hasakah, Deir al-Zor and Aleppo provinces, the country’s state news agency said.
+
+The European Mediterranean Seismological Centre said the quake had a 6.1 magnitude and was at a depth of 9 km (5.6 miles) below the earth.
+
+◼️
+
+[Data](articles/4f691b3a.json)
 
 ---
 
@@ -347,6 +387,20 @@ Chilaw Police are continuing investigations to uncover the circumstances surroun
 [Data](articles/6ab4d342.json)
 
 [Extended Data](ext_articles/6ab4d342.ext.json)
+
+---
+
+### ඇලෝසියස්ගේ ඇප ඉල්ලීමට අද ලැබුණු තීන්දුව මෙන්න
+
+*2024-10-16 14:47:08* · [`adalk`](https://www.ada.lk/breaking_news/ඇලෝසියස්ගේ-ඇප-ඉල්ලීමට-අද-ලැබුණු-තීන්දුව-මෙන්න/11-412529) · `si`
+
+රුපියල් බිලියන 3.5ක වැට් බදු නොගෙවීම හේතුවෙන් අත්අඩංගුවට ගත් ඩබ්.එම්.මෙන්ඩිස් සහ සමාගමේ අධ්‍යක්ෂ අර්ජුන ඇලෝසියස් ඇතුළු දෙදෙනෙකුට කළ ඇප ඉල්ලීම අද(16දා) දෙවන වරටත් කොළඹ අතිරේක මහේස්ත්‍රාත්වරයා ප්‍රතික්ෂේප කර තිබේ.
+
+අර්ජුන් ඇලෝසියස්ට මෙම චෝදනාව මත මාස 06 සිර දඬුවම් නියම කිරීමට පසුගියදා කටයුතු කළේය.
+
+◼️
+
+[Data](articles/8493c740.json)
 
 ---
 
@@ -2285,67 +2339,5 @@ As we commemorate World Food Day, let us pledge to take meaningful actions that 
 [Data](articles/93d61273.json)
 
 [Extended Data](ext_articles/93d61273.ext.json)
-
----
-
-### What should we expect of our MPs?
-
-*2024-10-16 04:18:37* · [`dailyftlk`](https://www.ft.lk/columns/What-should-we-expect-of-our-MPs/4-768008) · `en`
-
-What many who run for office forget is that they are seeking to become members of a legislature
-
-In Sri Lanka, the meaning of constituency service has been distorted over time to include matters such as springing people from remand and providing assistance in cash or kind for various ceremonies and events organised by constituents. The former should be illegal. The latter makes heavy demands on the finances of the MP and may be a causal factor fostering corruption in various forms. There will be no system change until voters cease to select their representative on how they helped get individuals out of remand or on the quality of the bus that was provided for a pilgrimage
-
-...
-
-[Data](articles/8b345ae3.json)
-
-[Extended Data](ext_articles/8b345ae3.ext.json)
-
----
-
-### We will ensure the existence of the race without getting caught in the wave of the south - Mayuran
-
-*2024-10-16 04:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196399) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tamils must protect their identity and representation without getting swept away by southern changes. Political shifts in the south don't align with Tamil interests. Corruption and bribery hinder Tamil progress. The struggle for Tamil rights continues despite sacrifices.
-
-🟩
-
-Senthilnathan Mayuran, a former Northern Provincial Council member and Wannimavatta candidate of the Democratic Tamil National Alliance (TNA), said that the presence of the Tamil nationalism in mind, without complying with the needs of the Tamils ​​within the definition of the South.
-
-There has been a political change in the south today. அந்த மக்கள் மாற்றம் ஒன்றின் அவசியத்தை உணர்ந்து அநுரவை ஆட்சியில் அமர்த்தியுள்ளனர். வடகிழக்கிலும் அவ்வாறான ஒரு மாற்றம் வரவேண்டும் என்று பலரும் சிந்திக்கின்றார்கள். There are many things within that change.
-
-The country has been looted by corrupt people to face economic problems. Sinhalese people have come together to create a new age in the country. We welcome it. We are also ready to contribute to that.
-
-...
-
-[Data](articles/72b352a7.json)
-
-[Extended Data](ext_articles/72b352a7.ext.json)
-
----
-
-### ECSL to take legal action against three Presidential candidates
-
-*2024-10-16 04:10:06* · [`dailyftlk`](https://www.ft.lk/news/ECSL-to-take-legal-action-against-three-Presidential-candidates/56-768006) · `en`
-
-ECSL plans to take legal action against Battaramulle Seelarathana Thera, P. Ariyanethran, and Sarath Keerthiratne for failing to submit Presidential election expenditure reports
-
-The Election Commission of Sri Lanka (ECSL) yesterday announced plans to initiate legal proceedings against Presidential candidates Battaramulle Seelarathana Thera, P. Ariyanethran, and Sarath Keerthiratne for failing to submit their Presidential election expenditure reports by the specified deadline.
-
-According to a statement issued by the ECSL yesterday, 35 out of the 38 candidates had successfully submitted their expenditure reports before the final deadline, which lapsed on 13 October.
-
-The ECSL noted that 15 candidates, including election front-runners President Anura Kumara Dissanayake and former Opposition Leader Sajith Premadasa, submitted their reports on the final day.
-
-...
-
-[Data](articles/6f74d251.json)
-
-[Extended Data](ext_articles/6f74d251.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 18:59:59**
+As of **2024-10-16 19:23:43**
 
 ## Newspaper Stats
 
-*Scraped **49,861** Articles*
+*Scraped **49,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,114 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,059
 dailyftlk | 3,384
-adalk | 4,637
+adalk | 4,639
 dailymirrorlk | 4,733
 adaderanalk | 5,906
 tamilmirrorlk | 6,822
 virakesarilk | 7,978
-adaderanasinhalalk | 8,634
+adaderanasinhalalk | 8,636
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,854 (100.0%) of 49,861 articles have been extended.
+49,865 (100.0%) of 49,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
 
-### ”மாணவர்களை அறிவாற்றல் நிறைந்தவர்களாக்க வேண்டும்”
+### Hirunika makes a strong decision
+
+*2024-10-16 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202248) · `si`
+
+Hirunika Premachandra resigns as national organizer of Samay Sevaka Force. She cites lack of support and accusations of not leading effectively. Claims she's being replaced in upcoming elections. Denies having a personal crisis or conflict with her husband's political team.
+
+🟩
+
+Ms. Hirunika Premachandra has decided to resign from the national organizer of the Samay Sevaka Force.
+
+Speaking at a press conference held today (16), she said that the letter was sent to the party.
+
+She said that Sajith Premadasa was not to be embarrassed by Sajith Premadasa.
+
+"Last presidential election took women meetings throughout Sri Lanka. Now this is my election. I wondered if someone else was handed over to someone else in this election,. That is how the letter was charged. "
+
+She said one person accused him of not working.
+
+"One person said. It is not the lead. That's the problem. I'm not ready to hear from someone who does not such politics ... "
+
+There a journalist inquired with a crisis with Mrs. Premadasa.
+
+"I'm a woman who does politics in the party. Mrs. Hydani Premadasa is the wife of Sajith Premadasa. There is no position. "
+
+◼️
+
+[Data](articles/bd39f9ea.json)
+
+[Extended Data](ext_articles/bd39f9ea.ext.json)
+
+---
+
+### The body of the young man who found from a difficult operation
+
+*2024-10-16 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202247) · `si`
+
+Young man killed in Madolsima Lakamuna. 22-year-old resident of Rosewatta found dead. 3 commandos involved. 10 military/police searching area. Suspects arrested, remanded until 25th. Murder investigation ongoing.
+
+🟩
+
+A youth who claimed to be assassinated in the Madolsima Lakamuna area in general area Koduoya was discovered today (16)
+
+The 22-year-old residents of Rosewatta have been residing in Haliela, Haliela.
+
+According to our correspondent, the three commandos got into the stake with the rope, our correspondent said.
+
+It is reported that 10 commandos, Army and police officers were speaking at the search.
+
+The Members of the Army Kandalauwa, Badulla Army and the police were conducting further investigations.
+
+However, DIG of Badulla Sujith Wedamulla said that the Army Commander was called for the fabrication.
+
+The victim was an unmarried person at a vehicle sold company in Haliela, police said.
+
+Police said that the murder of these two suspects have been arrested in connection with the murder.
+
+On the statements of the suspects were operating the body.
+
+The suspects were produced before the Badulla Magistrate's Court and remanded until the 25th of this month.
+
+...
+
+[Data](articles/e01407b0.json)
+
+[Extended Data](ext_articles/e01407b0.ext.json)
+
+---
+
+### “Students should be made full of cognitive”
 
 *2024-10-16 18:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-அறிவாற்றல்-நிறைந்தவர்களாக்க-வேண்டும்/175-345574) · `ta`
 
-உலகளாவிய தேவைகளை கருத்திற் கொண்டு இலங்கையின் கல்வி தொடர்பான எதிர்காலத் திட்டங்கள் தயாரிக்கப்பட வேண்டுமென ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+"Students should be cognitively enhanced for global relevance. Educational programs must adapt to meet international demands. Focus on science, math, and tech education. Modernize schools and restructure curriculum for better outcomes."
 
-இலங்கையின் முன்னேற்றத்திற்கு உதவும் வகையில் மனித வளத்தை மேம்படுத்துவதற்காக மாணவர்களை அறிவாற்றல் நிறைந்தவர்களாக மாற்ற வேண்டும் எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+🟩
 
-அடுத்த பத்து ஆண்டுகளில் உலகிற்கு தேவையான மனித வளத்தை உருவாக்கும் பொறுப்பு கல்வி அதிகாரிகளை சார்ந்துள்ளது. அதற்கான பரந்த நோக்குடன் கல்வித் திட்டங்களைத் தயாரிக்க வேண்டியதன் அவசியத்தையும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+President Anuragumara Dissanayake said that the future programs for Sri Lanka's education should be prepared in view of global needs.
 
-ஜனாதிபதி செயலகத்தில் இன்று (16) நடைபெற்ற கல்வி, விஞ்ஞான மற்றும் தொழில்நுட்ப அமைச்சுக்களின் முன்னேற்ற மீளாய்வு கலந்துரையாடலில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+The President also pointed out that the students should be made intelligent to improve human resources to help Sri Lanka's progress.
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் பிரதமர் கலாநிதி ஹரிணி அமரசூரிய ஆகியோரின் தலைமையில் நடைபெற்ற அமைச்சுக்களின் முன்னேற்ற மீளாய்வின் போது கல்வி, விஞ்ஞானம் மற்றும் தொழிநுட்ப அமைச்சுக்களினால் செயற்படுத்தப்படும் ஐந்து திட்டங்கள் தொடர்பில் விரிவாக கலந்துரையாடப்பட்டது.
+The responsibility of creating human resources for the world depends on the educational authorities over the next ten years. The President also pointed out the need to prepare educational programs with a wide view.
+
+The President made this statement while addressing a meeting of the Ministry of Education, Science and Technology held at the Presidential Secretariat today (16).
+
+During the progress review of the Ministries under the patronage of President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya, the five projects implemented by the Ministries of Education, Science and Technology were discussed.
 
 ...
 
 [Data](articles/92bca8f5.json)
+
+[Extended Data](ext_articles/92bca8f5.ext.json)
 
 ---
 
@@ -69,6 +143,34 @@ During the review, chaired by President Dissanayake and Prime Minister Dr. Harin
 [Data](articles/8595ab66.json)
 
 [Extended Data](ext_articles/8595ab66.ext.json)
+
+---
+
+### Grandpass shooting dead
+
+*2024-10-16 18:31:19* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රෑන්ඩ්පාස්-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-මරුට/11-412535) · `si`
+
+Grandpass shooting: Man killed in attack on three-wheeler near Madampitiya Sustainasana. Police investigating; motive unclear. Colombo Crimes Division involved.
+
+🟩
+
+The Grandpass police say that the man was killed in a shooting targeting a three-wheeler in front of the Madampitiya Sustainasana.
+
+Mohammed Paiser Mohammed Imthad, a resident of Grandpass Mihindna
+
+Police investigations have revealed that a group of people had been shot with a pistol firearm while the deceased was on the target with two other people.
+
+The two others who were with the deceased have not been shot.
+
+Whether a drug and a reason is yet to be ascertained.
+
+The Colombo Crimes Division is also investigated by the shooting. Grandpass police are conducting further investigations.
+
+◼️
+
+[Data](articles/cf1d7600.json)
+
+[Extended Data](ext_articles/cf1d7600.ext.json)
 
 ---
 
@@ -121,6 +223,36 @@ The police media spokesman said that the fraudsters claiming to be running a com
 [Data](articles/548d8d37.json)
 
 [Extended Data](ext_articles/548d8d37.ext.json)
+
+---
+
+### The government has loans 41,900 crores at 13 days
+
+*2024-10-16 18:02:02* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුව-දවස්-13-ට-රුපියල්-කෝටි-41-900-ක-ණය-අරං/11-412531) · `si`
+
+Government obtains large loans, total 41,900 crore, increasing debt burden. Pensioners continue receiving 3000 per month. New credit of 97 billion taken recently. Loans used for unspecified investments. Government criticized for lack of transparency regarding debt management.
+
+🟩
+
+The Matale District Directory Leader Leader Rohnie Kaviratne said that the government had obtained Rs.
+
+The government continues to get lost in debt.But there is no relief to the country.The pensioners still receive Rs. There are no two months of the month of 3000 each.Ms. Kaviratha said that it is clearly visible to a public meeting held in Dambulla.
+
+02: Rs. 142.2 million or Rs. 14,200 million)
+
+⚫️ Overchober 09: Rs. 85 billion or Rs. 8,500
+
+⚫️ Overlooromber 11: Rs. 95 billion or Rs. 9,500
+
+The government has obtained new credit to 97 rupees, almost Rs. 97 billion.
+
+In the past few days the government has Rs.. 3,223 crores each, that is Rs.. 134.29 crores each has been obtained. What is taking this debt?What investment does these loans do?The government should explain
+
+◼️
+
+[Data](articles/bd9aad05.json)
+
+[Extended Data](ext_articles/bd9aad05.ext.json)
 
 ---
 
@@ -288,6 +420,8 @@ A bond maturing on 01.10.2032 closed at 12.25/35 percent, up from 12.20/35 perce
 
 [Data](articles/92939773.json)
 
+[Extended Data](ext_articles/92939773.ext.json)
+
 ---
 
 ### Processing plans for education should be prepared as global needs - President
@@ -335,6 +469,8 @@ All the projects discussed were initiated and implemented under previous governm
 ...
 
 [Data](articles/a13be2a2.json)
+
+[Extended Data](ext_articles/a13be2a2.ext.json)
 
 ---
 
@@ -437,6 +573,8 @@ Mashreq, was the mandated lead arranger and book runner. Initially launched targ
 ...
 
 [Data](articles/308d86da.json)
+
+[Extended Data](ext_articles/308d86da.ext.json)
 
 ---
 
@@ -886,6 +1024,8 @@ A cabinet decision in August by the previous government to provide the allowance
 
 [Data](articles/0c8c1da5.json)
 
+[Extended Data](ext_articles/0c8c1da5.ext.json)
+
 ---
 
 ### Arjun Aloysius' Bail petition rejected
@@ -1114,6 +1254,8 @@ In March, Sri Lanka sought a 5-month extension in the suspension of a case filed
 
 [Data](articles/54a07751.json)
 
+[Extended Data](ext_articles/54a07751.ext.json)
+
 ---
 
 ### Rs. 3,000 allowance to be credited to pensioners’ accounts from today
@@ -1293,6 +1435,8 @@ Capital spending picked up to 435.3 billion rupees, up 22 percent.
 ...
 
 [Data](articles/27e0a144.json)
+
+[Extended Data](ext_articles/27e0a144.ext.json)
 
 ---
 
@@ -2343,107 +2487,5 @@ Winds from the southwest at speeds of up to 30 -40 km / h in the sea regions.
 [Data](articles/8082d3a0.json)
 
 [Extended Data](ext_articles/8082d3a0.ext.json)
-
----
-
-### Risk of rapidly rising among young people
-
-*2024-10-16 08:27:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞர்களிடையே-வேகமாக-அதிகரிக்கும்-ஆபத்து/175-345533) · `ta`
-
-Rapidly increasing HIV/AIDS cases among youth (15-29) in 2023. Only 1,327 cases identified. Specialist proposes eliminating disease by 2030. Political support crucial for prevention efforts.
-
-🟩
-
-Only 1,327 people have been identified by HIV AIDS in 2023.
-
-Speaking at a meeting of the Northwest Provincial Provincial Council, which was organized on the occasion of National AIDS Day in 2023, the specialist at the Kurunegala Teaching Hospital, Chitran Hathurusinghe.
-
-“It is very unfortunate that young people between the ages of 15 and 29 are suffering from the disease.
-
-We have found a method of eliminating the disease by 2030.
-
-It is okay for medical professionals that we try to prevent these diseases or do not get the political support needed for it.. He said political support was needed to make such a plan successfully. Remble
-
-◼️
-
-[Data](articles/a4a71a1a.json)
-
-[Extended Data](ext_articles/a4a71a1a.ext.json)
-
----
-
-### Risk of spreading diseases with floods
-
-*2024-10-16 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202225) · `si`
-
-Floods increase disease risk: CHOGM warns of diarrhea, blood diarrhea, rat fever. Displaced persons sheltered in schools face health risks. Authorities reopen flooded schools, prioritizing safety measures.
-
-🟩
-
-The Public Health Inspectors Association (CHOGM) says that there is ample risk of contagious diseases with the descendants of the floods.
-
-Sandar Ratnayake said that if diarrhea, blood diarrhea, rat fever, rat fever, should be directed to medical treatment as soon as possible.
-
-"The food you get these days to receive clean, fresh food and get only food prepared from the fever of fever. Especially arrange to get the water or control of the water or control of the water you get. And if you have a harmless skin, if you have any injury or seaful skin in your body, you may have a tendency to embrace rat fever.. So refer to treat you with rat fever. "
-
-Among the heavy rainfall, 159,511 persons belonging to 40,758 families have been affected by the Disaster Management Center.
-
-Three deaths have been reported due to the disaster and two injured.
-
-The Disaster Management Center said that 10,361 persons belonging to 2,433 families in 80 safety places are staying.
-
-...
-
-[Data](articles/4a64a3b9.json)
-
-[Extended Data](ext_articles/4a64a3b9.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-10-16 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102721/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says that heavy rainy weather in the southwestern part of the island is expected to reduce gradually.
-
-Showers or thundershowers will occur at times in Northern Province and fairly heavy showers above 50mm are likely at some places.
-
-Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-eliya districts, it said.
-
-Showers or thundershowers will occur at several places elsewhere during the evening or night.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/f27d0a9f.json)
-
-[Extended Data](ext_articles/f27d0a9f.ext.json)
-
----
-
-### Request to open Dambulla expedited
-
-*2024-10-16 07:50:44* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ල-ශීතාගාරය-කඩිනමින්-විවෘත-කරන්නැයි-ඉල්ලීමක්/11-412521) · `si`
-
-Dambulla Economic Center: Farmer groups request opening. Indian aid and SL funds used. Maintenance issues identified. District Agriculture Committee takes action.
-
-🟩
-
-Representatives of the farmer organizations have asked the government to open up the farmers who have been constructed in the Dambulla Economic Center.
-
-The request was made at the District Agriculture Committee held at the District Agriculture Committee held at the District Secretariat held at Matale District Secretariat.
-
-Indian aid and Sri Lanka's funding have been carried out by this modern charm.It was also revealed that no matter what the work has been completed, no institution has not been responsible for the maintenance of the institution.
-
-The District Agriculture Committee took steps to accelerate the attention of the relevant institutions.
-
-Peirisac, including Public Officers, Farmers Organizations Representatives, participated in the Kalutara Additional District Secretary to the Matale Additional District Secretariat.
-
-◼️
-
-[Data](articles/ac7cc888.json)
-
-[Extended Data](ext_articles/ac7cc888.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 12:25:09**
+As of **2024-10-16 12:39:37**
 
 ## Newspaper Stats
 
-*Scraped **49,807** Articles*
+*Scraped **49,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,050
 dailyftlk | 3,384
 adalk | 4,630
 dailymirrorlk | 4,733
-adaderanalk | 5,894
+adaderanalk | 5,895
 tamilmirrorlk | 6,814
 virakesarilk | 7,971
 adaderanasinhalalk | 8,623
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,623
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,802 (100.0%) of 49,807 articles have been extended.
+49,808 (100.0%) of 49,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Deputy Commissioner of provincial revenue office arrested for accepting bribe
+
+*2024-10-16 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102731/deputy-commissioner-of-provincial-revenue-office-arrested-for-accepting-bribe) · `en`
+
+The officials of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) have arrested a deputy commissioner of the Eastern Provincial Department of Revenue for accepting a bribe of Rs. 200,000.
+
+According to the commission, the raid was carried out following a complaint made by a resident of Chenkaladi, Batticaloa regarding the matter.
+
+The complaint was made after the resident purchased a 65-perch plot of land in the Sathurukondan area of Batticaloa for Rs. 10 million and paid Rs. 600,000 as stamp duty.
+
+However, the provincial revenue office has later informed the resident that the assessed value of the land was Rs. 26.5 million.
+
+As a result, the official stated that a government fee of Rs. 850,000, along with a fine, had to be paid. However, a bribe of Rs. 200,000 was allegedly requested to reduce this amount to Rs. 200,000.
+
+The deputy commissioner has been arrested while accepting the relevant bribe at the Eastern Province Department of Revenue’s office in Batticaloa.
+
+...
+
+[Data](articles/55476c08.json)
+
+[Extended Data](ext_articles/55476c08.ext.json)
+
+---
 
 ### Decision on SriLankan Airlines
 
@@ -588,6 +612,8 @@ Gorrido conveyed the best wishes of the Cuban government to the prime minister w
 
 [Data](articles/0d8f2ee4.json)
 
+[Extended Data](ext_articles/0d8f2ee4.ext.json)
+
 ---
 
 ### In the second place in the world
@@ -770,23 +796,29 @@ The Kalutara District Disaster Management Division Office said that the sea has 
 
 ---
 
-### 2 இலட்சம் ரூபா இலஞ்சம் பெற்ற இறைவரி திணைக்கள அதிகாரி கைது
+### 2 lakhs of rupees bribed
 
 *2024-10-16 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196408) · `ta`
 
-மட்டக்களப்பில் காணி தொடர்பாக இரண்டு இலட்சம் ரூபா இலஞ்சம் பெற்ற உள்நாட்டு இறைவரி திணைக்களத்தில் கடமையாற்றும் உத்தியோகத்தர் ஒருவர் செவ்வாய்க்கிழமை (15) கல்லடி பகுதியில் வைத்து இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவினால் கைது செய்யப்பட்டுள்ளார்.
+Officer arrested for bribery: 2 lakh rupees involved. Incident occurred in Kalladi and Colombo areas. Bribery Commission investigation ongoing.
 
-காத்தான்குடி பிரதேசத்தைச் சோந்த ஒருவர் காணி ஒன்றை கொள்வனவு செய்தமைக்கான வரி தொடர்பாக 2 இலட்சம் ரூபா பணத்தை இலஞ்சமாக குறித்த அதிகாரி கோரியுள்ளார்.
+🟩
 
-இதனையடுத்து காணி கொள்வனவு செய்தவர் கொழும்பிலுள்ள இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழுவிற்கு முறைப்பாடு செய்ததையடுத்து அவர்களின் ஆலோசனைக்கமைய சம்பவதினமான நேற்றைய தினம் பகல் கல்லடியிலுள்ள உள்நாட்டு இறைவரி திணைக்களப் பகுதியில் மாறு வேடத்தில் கொழும்பில் இருந்து வந்த இலஞ்ச ஊழல் ஒழிப்பு பிரிவினர் கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்தனர்.
+An officer on duty at the Department of Internal Revenue Department has been arrested by the Bribery Commission on Tuesday (15) in Kalladi area.
 
-இதன்போது காரியாலயத்துக்கு வெளியில் வைத்து அதிகாரி  2 இலட்சம் ரூபாவை இலஞ்சமாக பெற்றுக் கொண்டபோது அங்கு மாறுவேடத்தில் இருந்த இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழு அவரை கைது செய்தனர்.
+The officer has bribed Rs.
 
-இதில் கைது செய்யப்பட்டவர் அநுராதபுரத்தைச் சோந்தவர் எனவும் இலஞ்ச  ஊழல் ஒழிப்பு பிரிவினரது ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+Subsequently, on the consultation of the land buyer in Colombo, the Bribery Anti -Corruption Unit was on the lookout for the Bribery Commission in Colombo yesterday.
+
+When the officer had bribed Rs.
+
+Preliminary inquiries of the Bribery Anti -Corruption Unit revealed that the arrested was the person who was arrested in Anuradhapura.
 
 ◼️
 
 [Data](articles/17bdfe1a.json)
+
+[Extended Data](ext_articles/17bdfe1a.ext.json)
 
 ---
 
@@ -829,6 +861,8 @@ In equities, Colombo’s All Share Price Index was trading up 0.14 percent, or 1
 ◼️
 
 [Data](articles/1bd66d6b.json)
+
+[Extended Data](ext_articles/1bd66d6b.ext.json)
 
 ---
 
@@ -1154,23 +1188,29 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
-### දඹුල්ල ශීතාගාරය කඩිනමින් විවෘත කරන්නැයි ඉල්ලීමක්
+### Request to open Dambulla expedited
 
 *2024-10-16 07:50:44* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ල-ශීතාගාරය-කඩිනමින්-විවෘත-කරන්නැයි-ඉල්ලීමක්/11-412521) · `si`
 
-දඹුල්ල ආර්ථික මධ්‍යස්ථානය ආශ්‍රිතව ඉදි කොට වැඩ අවසන් කොට ඇති  ශිතාගාරය ගොවිජනතාවගේ  කටයුතු වෙනුවෙන්  කඩිනමින් විවෘත කරන ලෙස ගොවි සංවිධාන නියෝජිතයින්  රජයෙන් ඉල්ලා සිටි.
+Dambulla Economic Center: Farmer groups request opening. Indian aid and SL funds used. Maintenance issues identified. District Agriculture Committee takes action.
 
-පසුගියදා මාතලේ දිස්ත්‍රික් ලේකම් කාර්යාලයේදි පැවති දිස්ත්‍රික්  කෘෂිකර්ම කමිටුවේදී  ගොවි සංවිධාන නියෝජිතයින්  මෙම ඉල්ලීම කරනු ලැබීය.
+🟩
 
-ඉන්දියානු ආධාර හා  මෙරට අරමුදල්  යොදවා  මෙම  නවීන ශිතාගාරය ඉදිරිකර ති‌බේ.   මෙම  වැඩ කටයුතු අවසන් කර තිබුණත් මෙම ආයතනය  පවත්වාගෙන යෑම සදහා  මේ වන තෙක් කිසිදු ආයතනයකට මෙහි  වගකීම පවරා නැති  බවත් මෙහිදී  අනාවරණය විය.
+Representatives of the farmer organizations have asked the government to open up the farmers who have been constructed in the Dambulla Economic Center.
 
-මේ පිළිබදව  කඩිනමින් අවධානය යොමු කොට  අදාල ආයතන දැනුවත්  කිරීමට දිස්ත්‍රික් කෘෂිකර්ම කමිටුව මෙහිදී පියවර ගනු ලැබීය.
+The request was made at the District Agriculture Committee held at the District Agriculture Committee held at the District Secretariat held at Matale District Secretariat.
 
-මාතලේ  අතිරේක  දිස්ත්‍රික් ලේකම්  උත්පල ජයරත්න මහතාගේ ප්‍රධානත්වයෙන්  පැවැති  දිස්ත්‍රික් කෘෂිකර්ම  සදහා රාජ්‍ය  නිලධාරින් , ගොවි සංවිධාන  නියෝජිතයින් ඇතුළු පීරිසක් සහභාගි වුහ.
+Indian aid and Sri Lanka's funding have been carried out by this modern charm.It was also revealed that no matter what the work has been completed, no institution has not been responsible for the maintenance of the institution.
+
+The District Agriculture Committee took steps to accelerate the attention of the relevant institutions.
+
+Peirisac, including Public Officers, Farmers Organizations Representatives, participated in the Kalutara Additional District Secretary to the Matale Additional District Secretariat.
 
 ◼️
 
 [Data](articles/ac7cc888.json)
+
+[Extended Data](ext_articles/ac7cc888.ext.json)
 
 ---
 
@@ -1261,6 +1301,8 @@ The last administration said salaries would be raised from January 2025 based on
 ...
 
 [Data](articles/b888cd50.json)
+
+[Extended Data](ext_articles/b888cd50.ext.json)
 
 ---
 
@@ -2387,25 +2429,5 @@ West Indies scored 163 runs for winning the match.
 [Data](articles/3a011395.json)
 
 [Extended Data](ext_articles/3a011395.ext.json)
-
----
-
-### Canada expels top India diplomats, links them to murder of Sikh leader
-
-*2024-10-15 20:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102719/canada-expels-top-india-diplomats-links-them-to-murder-of-sikh-leader) · `en`
-
-Canada expelled six Indian diplomats including the high commissioner on Monday, linking them to the murder of a Sikh separatist leader and alleging a broader effort to target Indian dissidents in Canada.
-
-Earlier in the day, India retaliated by ordering the expulsion of six high-ranking Canadian diplomats including the acting high commissioner and said it had withdrawn its envoy from Canada, contradicting Canada’s statement of expulsion.
-
-The diplomatic row represents a major deterioration of relations between the two Commonwealth countries. Ties have been frayed since Canadian Prime Minister Justin Trudeau said last year he had evidence linking Indian agents to the assassination of Sikh leader Hardeep Singh Nijjar on Canadian territory.
-
-The government now has “clear and compelling evidence that agents of the government of India have engaged in and continue to engage in activities that pose a significant threat to public safety,” Trudeau said at a news conference.
-
-...
-
-[Data](articles/f9079700.json)
-
-[Extended Data](ext_articles/f9079700.ext.json)
 
 ---

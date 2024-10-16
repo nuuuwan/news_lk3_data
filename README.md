@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 10:57:53**
+As of **2024-10-16 11:11:22**
 
 ## Newspaper Stats
 
-*Scraped **49,779** Articles*
+*Scraped **49,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,384
 adalk | 4,628
 dailymirrorlk | 4,733
 adaderanalk | 5,890
-tamilmirrorlk | 6,807
+tamilmirrorlk | 6,808
 virakesarilk | 7,966
 adaderanasinhalalk | 8,616
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,779 (100.0%) of 49,779 articles have been extended.
+49,780 (100.0%) of 49,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### In the second place in the world
+
+*2024-10-16 10:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உலகில்-இரண்டாம்-இடத்திற்கு-எல்ல-சில்/76-345540) · `ta`
+
+"Ellas Chil" restaurant ranked second globally in travel guide site's best restaurants category based on tourist preferences.
+
+🟩
+
+உலகெங்கிலும் உள்ள சுற்றுலாப் பயணிகளின் விருப்பங்களின்படி, பயண வழிகாட்டி இணையதளம், சிறந்த உணவகங்களில் சிறந்தது (BEST OF THE BEST RESTAURANTS) என்ற பெயரில் நடாத்திய  கருத்துக்கணிப்பில், 'எல்ல சில்' உணவகம் உலகின் சிறந்த உணவகங்களில் இரண்டாவது இடத்தைப் பெற்றுள்ளது.
+
+Tourist references are found in many departments, including food, beverages and care services.
+
+◼️
+
+[Data](articles/69f0cade.json)
+
+[Extended Data](ext_articles/69f0cade.ext.json)
+
+---
 
 ### Red notice to marines and fishermen
 
@@ -2415,23 +2435,5 @@ The Indian High Commissioner said that any effort to create divisions would be a
 [Data](articles/2f12154d.json)
 
 [Extended Data](ext_articles/2f12154d.ext.json)
-
----
-
-### President vows to protect trust placed in him to stop corruption in public sector
-
-*2024-10-15 17:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102716/president-vows-to-protect-trust-placed-in-him-to-stop-corruption-in-public-sector) · `en`
-
-Addressing the progress review meeting of the Ministry of Energy this morning (15), President Anura Kumara Dissanayake advised that the projects aimed at achieving the energy sector’s goals over the next three years must be structured and expedited.
-
-The President pointed out that, similar to other countries where the energy sector holds a prominent position, Sri Lanka too has given the energy sector a leading role, and he also mentioned that the Ministry of Energy is one that generates revenue, and with higher earnings, there are societal discussions about possible irregularities.
-
-Dissanayake stated that during this presidential election, the people had voted with expectations, and he is committed to fulfilling that mandate, the President’s Media Division (PMD) said.
-
-...
-
-[Data](articles/e795b3b0.json)
-
-[Extended Data](ext_articles/e795b3b0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 20:11:52**
+As of **2024-10-16 20:39:19**
 
 ## Newspaper Stats
 
-*Scraped **49,868** Articles*
+*Scraped **49,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 5,907
 tamilmirrorlk | 6,822
 virakesarilk | 7,978
-adaderanasinhalalk | 8,637
+adaderanasinhalalk | 8,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,868 (100.0%) of 49,868 articles have been extended.
+49,869 (100.0%) of 49,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### The two robbed the houses abused women
+
+*2024-10-16 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202250) · `si`
+
+Two robbers stole homes, abused women. Police arrested 21-year-old man and his father. Robberies occurred in Dompe, Weliweriya, Malwatthuwa. Suspects interrogated about weapon use, sexual assault claims.
+
+🟩
+
+Police have arrested two of the two who had stolen the items in the area by fearing the people of many areas.
+
+According to the police, the 21-year-old man and a drug addicted to his minor father.
+
+Ada Derana revealed that a robbery of the houses robbed the goods in Dompe, Weliweriya and Malwwathuwa.
+
+The two thieves who entered a house there were a woman in front of his four-year-old child and the husband.
+
+Several police teams have already been Western Province. Investigations have been conducted into the conduct of DIG Rohana Premaratne in charge of the North and the Guidelines of the Gampaha District Superintendent of Police Jagath Rohana.
+
+Two officers and other officials were arrested by the Police OIC of the Malwathuhiripitiya, the OIC of the Malwathuhiripitiya.
+
+The police said that they have also decorated the ninja dress for theft.
+
+Several weapons used for stealing their stolen cases were also found.
+
+...
+
+[Data](articles/292dafa8.json)
+
+[Extended Data](ext_articles/292dafa8.ext.json)
+
+---
 
 ### North Gaza hospitals say food, medicines running out as Israel presses offensive
 
@@ -2447,33 +2479,5 @@ He also said that the minimum amount of money to spend on a candidate in the gen
 [Data](articles/63ca9053.json)
 
 [Extended Data](ext_articles/63ca9053.ext.json)
-
----
-
-### Far from Lasantha, Eknaligoda and Thajudeen
-
-*2024-10-16 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202226) · `si`
-
-Here's a 200-character summary:
-
-
-
-Government denies investigating Lasantha Wickrematunge's murder, Thajudeen's assassination, and Prageeth Eknaligoda's disappearance. Claims ongoing efforts against economic crimes and journalist abductions.
-
-🟩
-
-Lasantha Wickrematunge has left Pradeep Eknaligoda and Thajudin's murder.
-
-However, the government says that investigations into the incidents will be initiated again in the future.
-
-He was responding to a question referred to a journalist at a press briefing in a media briefing of the Criminal Investigations.
-
-"Don't investigate any criminal activity. Therefore, the assassination of the Thajudean assassination of Thajudean assassination of Lasantha Wickrematunge is definitely working on such things. Prageeth Eknaligoda ends investigations into investigations. No resettlement required. If necessary, you can. We were prosecuting as soon as possible. Don't have the wrong idea but only 7. All the economic crime, human murders and journalists are under the abduction of the law are implemented. "
-
-◼️
-
-[Data](articles/6cdfb82f.json)
-
-[Extended Data](ext_articles/6cdfb82f.ext.json)
 
 ---

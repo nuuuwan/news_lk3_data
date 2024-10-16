@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 01:23:36**
+As of **2024-10-17 01:39:20**
 
 ## Newspaper Stats
 
-*Scraped **49,889** Articles*
+*Scraped **49,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 495
 bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,060
-dailyftlk | 3,393
+dailyftlk | 3,400
 adalk | 4,643
 dailymirrorlk | 4,733
 adaderanalk | 5,908
@@ -26,11 +26,141 @@ adaderanasinhalalk | 8,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,889 (100.0%) of 49,889 articles have been extended.
+49,896 (100.0%) of 49,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### SLT-Mobitel shines on global stage with prestigious wins at 2024 ARC Awards
+
+*2024-10-17 01:20:20* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-shines-on-global-stage-with-prestigious-wins-at-2024-ARC-Awards/34-768075) · `en`
+
+SLT-Mobitel earned global recognition, securing Gold and a Certificate of Honour at the prestigious 38th Annual International ARC Awards held recently.
+
+The competition is acclaimed as the world’s largest annual report competition, felicitating companies having achieved an international mark of excellence in annual reports.
+
+The Sri Lanka Telecom PLC Annual Report 2023 was adjudged the Gold winner in the ‘Illustrations: Telecommunications’ category for the annual report titled “We are an ‘App’ of Life”. The company was also awarded a Certificate of Honour in the ‘Specialised AR – Integrated AR & ESG’ category.
+
+The achievement celebrates SLT-Mobitel’s world-class standards in annual reporting and reinforces its position as a leader in the telecommunications industry, in Sri Lanka and on the global stage.
+
+...
+
+[Data](articles/9563476f.json)
+
+[Extended Data](ext_articles/9563476f.ext.json)
+
+---
+
+### Alumex launches next-gen website: Integrating smart AI solutions for seamless customer journey
+
+*2024-10-17 01:19:32* · [`dailyftlk`](https://www.ft.lk/business/Alumex-launches-next-gen-website-Integrating-smart-AI-solutions-for-seamless-customer-journey/34-768074) · `en`
+
+Hayleys Chairman and Chief Executive Mohan Pandithage addresses audience at launch of Alumex next-gen website
+
+OpenAI-powered assistant provides personalised answers on construction materials, regulatory compliance, building plans
+
+Simplifies search experience from architectural solutions to detailed product specifications and tailored recommendations
+
+Transitioning to a dynamic, interactive platform, Alumex PLC, the number one and most trusted aluminium extrusion brand in Sri Lanka, has proudly relaunched its official website, www.alumexgroup.com powered by AI, designed to provide a convenient, personalised experience.
+
+The new website features intuitive navigation that prioritises both aesthetics and usability, highlighting Alumex’s innovative and cutting-edge portfolio.
+
+...
+
+[Data](articles/971cad62.json)
+
+[Extended Data](ext_articles/971cad62.ext.json)
+
+---
+
+### L.R.D.C. gets six-month contract to provide security services to institutions under Health Ministry
+
+*2024-10-17 01:17:28* · [`dailyftlk`](https://www.ft.lk/business/L-R-D-C-gets-six-month-contract-to-provide-security-services-to-institutions-under-Health-Ministry/34-768073) · `en`
+
+The Cabinet of Ministers on Monday approved awarding a six-month contract to L.R.D.C. Ltd. for the provision of security services to hospitals and other institutions under the Health Ministry, effective from 1 October.
+
+The move follows the recommendation of the Standing Procurement Committee appointed by the Cabinet.
+
+The procurement process included bids from several organisations, including Rakna Arakshaka Lanka Ltd., L.R.D.C. Ltd., the Civil Security Department, and regional entities such as the Regional Economic Development Institution under the Central Provincial Council and the North Western Province Human Resource Development Authority.
+
+L.R.D.C. Ltd. submitted bids to provide security services for hospitals across the relevant Provinces under the Health Ministry’s control and the Regional Economic Development Institution will be responsible for security services in hospitals under the Central Provincial Council.
+
+...
+
+[Data](articles/f7dd1a3f.json)
+
+[Extended Data](ext_articles/f7dd1a3f.ext.json)
+
+---
+
+### Curtin Colombo students showcase diverse prowess while pursuing academic excellence
+
+*2024-10-17 01:16:37* · [`dailyftlk`](https://www.ft.lk/business/Curtin-Colombo-students-showcase-diverse-prowess-while-pursuing-academic-excellence/34-768072) · `en`
+
+Curtin Colombo, the global partner of Curtin University Australia, provides a vibrant environment for future leaders to excel in multiple arenas. Recognised as a transformative educational hub, Curtin Colombo is nurturing a new generation of leaders who are making waves in their studies and on the sporting field.
+
+Curtin Colombo offers a dynamic learning environment that creates holistic development, connecting students to a global network of over 240,000 who have made significant impacts in their fields. Curtin University’s commitment to sustainability and community engagement is evident in the diverse range of extracurricular activities and sports that students can participate in, alongside their rigorous academic programs.
+
+This approach ensures that students are prepared for the challenges of the future and able to develop intellectually, personally and professionally, setting the stage for successful and impactful careers.
+
+...
+
+[Data](articles/96fca532.json)
+
+[Extended Data](ext_articles/96fca532.ext.json)
+
+---
+
+### Lankan envoy in Thailand emphasises climate resilience and trade integration in BIMSTEC region
+
+*2024-10-17 01:10:08* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Thailand-emphasises-climate-resilience-and-trade-integration-in-BIMSTEC-region/56-768071) · `en`
+
+Sri Lankan Ambassador to Thailand Wijayanthi Edirisinghe recently attended a high-level event on regional trade and agricultural transformation in Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) countries, as a guest speaker.
+
+The event was organised by the International Food Policy Research Institute (IFPRI) in collaboration with BIMSTEC and the Research and Information System for Developing Countries (RIS). It was a valuable platform for experts, policymakers, and diplomats to tackle pressing issues related to agricultural trade, food security and climate resilience in the BIMSTEC region.
+
+...
+
+[Data](articles/ee88f798.json)
+
+[Extended Data](ext_articles/ee88f798.ext.json)
+
+---
+
+### Sri Lankan Ambassador in Warsaw virtually meets Polish author who wrote children’s book on Sri Lanka
+
+*2024-10-17 01:06:34* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-in-Warsaw-virtually-meets-Polish-author-who-wrote-children-s-book-on-Sri-Lanka/56-768070) · `en`
+
+A  virtual meeting was held recently between the Ambassador of Sri Lanka to Poland Priyangika Dharmasena and the author of the Polish children’s book “Good morning Sri Lanka! Mela Melulu in the bedazzling country” Kasia Szulik.
+
+The discussion was aimed to look into the possibility of reaching out to Polish travellers and families to visit Sri Lanka through the book, which portrays, the beauty and the uniqueness of the country through a narrative set in Sri Lanka. In the book, the imaginative adventures of a girl named “Mela Melulu” with her friends, journey,  through Sri Lanka, exploring the wonders of the country.
+
+Poland is in the top 12 source countries for visitors to Sri Lanka and the country is anticipating over 35,000 tourists from Poland by the end of this year.
+
+◼️
+
+[Data](articles/97a7c2d1.json)
+
+[Extended Data](ext_articles/97a7c2d1.ext.json)
+
+---
+
+### Sri Lankan Ambassador to Saudi Arabia calls on Saudi Deputy Minister of Interior
+
+*2024-10-17 01:05:39* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-to-Saudi-Arabia-calls-onSaudi-Deputy-Minister-of-Interior/56-768069) · `en`
+
+Kingdom of Saudi Arabia Deputy Minister of Interior Dr. Nasser bin Abdulaziz Al-Dawood received Sri Lankan Ambassador to Saudi Arabia Omar Lebbe Ameer Ajwad at the Headquarters of the Ministry of Interior in Riyadh, on 8 October 2024.
+
+Extending a warm welcome to the Ambassador, the Deputy Minister wished him a fruitful stay in the Kingdom. He also expressed his appreciation for the cooperation and contribution extended by the Sri Lankan community living in Saudi Arabia to maintain peace and prosperity in the Kingdom, and assured his support to further enhance bilateral cooperation between the two countries.
+
+...
+
+[Data](articles/d6033073.json)
+
+[Extended Data](ext_articles/d6033073.ext.json)
+
+---
 
 ### Embassy of Sri Lanka in Jordan launches new official website
 
@@ -2277,175 +2407,5 @@ It is noteworthy that the national people's power has announced that it will not
 [Data](articles/665d2642.json)
 
 [Extended Data](ext_articles/665d2642.ext.json)
-
----
-
-### முன்னாள் அமைச்சர்களுக்கு எச்சரிக்கை - ஜனாதிபதி
-
-*2024-10-16 11:09:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்களுக்கு-எச்சரிக்கை-ஜனாதிபதி/175-345543) · `ta`
-
-Former ministers warned: Handover state houses by 30th or face legal action. Only 11 out of 40 houses in Colombo 7 handed over so far. Government focuses on cost reduction for official residences.
-
-🟩
-
-Former ministers and diplomatic ministers have been warned that the case will be filed if the state houses are not handed over before the 30th.
-
-இது தொடர்பில் நீதி, பொதுநிர்வாக, உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் தொழிலாளர் அமைச்சின் செயலாளர் நேற்று கடிதம் அனுப்பியுள்ளார்.
-
-Former ministers and diplomatic ministers have been given a reminder to immediately hand over government houses, but only 11 people have been handed over to the houses.
-
-The Ministry said that the provision of government houses to former ministers has been a major setback.
-
-The number of houses provided to former ministers and diplomatic ministers in Colombo 7 is 40. The number of houses that has not yet been handed over is 29.
-
-At the same time, the government has focused on the implementation of all issues and implementing the new program to reduce the costs in providing official dwellings to ministers.
-
-◼️
-
-[Data](articles/9d67e9eb.json)
-
-[Extended Data](ext_articles/9d67e9eb.ext.json)
-
----
-
-### இலஞ்சம் பெற்ற அதிகாரி கைது
-
-*2024-10-16 11:09:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-பெற்ற-அதிகாரி-கைது/175-345542) · `ta`
-
-Deputy Commissioner arrested for bribery in Eastern Province. Allegations of corruption involving 200,000 bribe. Inquiry committee formed to investigate allegations. Land valued at Rs. 26.5 million, tax and fines of 850,000 imposed. Deputy Commissioner's fee reduced from 600,000 to 200,000.
-
-🟩
-
-Deputy Commissioner of Income Department in the Eastern Province. 200,000 இலஞ்சம் பெற்ற குற்றச்சாட்டின் பேரில் கைது செய்யப்பட்டுள்ளார்.
-
-பிரதேசவாசி ஒருவரின் முறைப்பாட்டுக்கு அமைய மட்டக்களப்பு அலுவலகத்தில் வைத்து சந்தேக நபர் கைது செய்யப்பட்டதாக இலஞ்ச ஊழல் பற்றிய சாத்துதல்களை விசாரணை செய்யும் ஆணைக்குழு தெரிவித்துள்ளது.
-
-ஆணைக்குழுவின் பிரகாரம், முறைப்பாட்டாளர் மட்டக்களப்பில் 10 மில்லியன் ரூபாய் பெறுமதியுள்ள 65 பேர்ச் காணியை, ஏற்கனவே ரூ. He has bought a 600,000 stamp tax.
-
-However, the value of the land by the Provincial Revenue Department has been re -evaluated at Rs.. 26.5 மில்லியன்எனவும் , முறைப்பாட்டாளர் மேலும் ரூ. He has also been asked to pay a tax and fines of 850,000.
-
-The fee of the Deputy Commissioner is Rs. Rs.. ௨௦௦,௦௦௦. ஆக குறைக்க முன்வந்ததாக கூறப்படுகிறது.
-
-◼️
-
-[Data](articles/de46ecfa.json)
-
-[Extended Data](ext_articles/de46ecfa.ext.json)
-
----
-
-### The government granted 3 days deadline to Udaya Kammanpila
-
-*2024-10-16 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196415) · `ta`
-
-Government gives 3-day deadline to Udaya Kammanpila to hand over investigation reports. Kammanpila urges government to reveal reports within 7 days. Cabinet says properly investigating Sunday attacks. Kammanpila accused of hiding reports. Government warns him to hand over documents within 3 days.
-
-🟩
-
-உயிர்த்த ஞாயிறு தாக்குதல்கள் தொடர்பான இமாம் மற்றும் அல்விஸ் விசாரணைக்குழு அறிக்கைகள் கிடைக்கப்பெற்ற பின்னரும் அவற்றை வெளிப்படுத்தாமல் மறைத்து வைத்திருப்பது குற்றமாகும். Therefore, the government has given a 3 -day deadline to former parliamentarian Udaya Kammanpila to hand over them to the relevant party.
-
-Parliamentarian Udaya Kammanpila has urged the government to reveal reports submitted by retired judges Imam and Alwis within 7 days on the lifeblood attacks.
-
-Cabinet spokesman Vijitha Herath made this statement at a press conference announcing the Cabinet decisions on Tuesday (15).
-
-அரசாங்கம் என்ற ரீதியில் நாம் பொறுப்புணர்வுடனேயே செயற்படுகின்றோம். We are properly carrying out investigations into the Sunday attacks. எவ்வாறிருப்பினும் முன்னாள் பாராளுமன்ற உறுப்பினர் உதய கம்மன்பிலவிடம் இது குறித்த ஏதேனும் அறிக்கைகள் காணப்பட்டால் அதனை அவர் உடனடியாக வெளிப்படுத்த வேண்டும்.
-
-...
-
-[Data](articles/23c92fe1.json)
-
-[Extended Data](ext_articles/23c92fe1.ext.json)
-
----
-
-### Gammanpila asks the government to publish the two Easter reports
-
-*2024-10-16 11:06:09* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-වාර්තා-දෙක-ප්‍රසිද්ධ-කරන්න-ගම්මන්පිල-ආණ්ඩුවෙන්-ප්‍රතිඥාවක්-ඉල්ලයි/11-412525) · `si`
-
-Gammanpila urges government to publish Easter reports. Minister Vijitha Herath refuses to promise publication after receiving reports. Gammanpila threatens legal action if reports not published.
-
-🟩
-
-තමා සතු පාස්කු වාර්තා දෙක ලබා දුන් පසු ප්‍රසිද්ධ කරන බවට විජිත හේරත් ඇමතිවරයා හෝ ආණ්ඩුව ප්‍රතිඥාවක් නොදෙන්නේ නම් එම වාර්තා කිසිදු හේතුවක් මත ආණ්ඩුවට භාර දීමට තමා සූදානම් නොමැති බව පිවිතුරු හෙළඋරුමයේ නායක උදය ගම්මන්පිල මහතා පැවසීය.
-
-අද(16දා) කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා මේ බව සඳහන් කළේය.
-
-"Minister Vijitha Herath to hand over this report to me, there is no promise to publish this report after I handed over this report. මා සතුව තිබෙන වාර්තාවත් ආණ්ඩුවට දුන්නට පස්සේ ආණ්ඩුව මේ වාර්තාව ප්‍රසිද්ධ නොකර සිටියොත් මොකක්ද අපි කරන්නේ ? මේ වාර්තා දෙක ලැබුණු වහාම ප්‍රසිද්ධ කරන බවට විජිත හේරත් ඇමතිතුමා හෝ ජනාධිපතිතුමා විසින් ප්‍රතිඥාවක් දෙනතුරු කිසිම හේතුවක් මත මා සතු වාර්තාව ආණ්ඩුව භාර දෙන්න මම සූදානම් නෑ.
-
-We want to tell Minister Vijitha Herath and stop publishing these reports that this is a serious crime. ගරු ඇමතිතුමනි යකාට භය නැති නිසා තමයි අපි සොහොනේ ගෙවල් හදාගෙන ඉන්නේ. ”
-
-◼️
-
-[Data](articles/959c3018.json)
-
-[Extended Data](ext_articles/959c3018.ext.json)
-
----
-
-### US gives Israel 30 days to boost Gaza aid or risk cut to military support
-
-*2024-10-16 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102728/us-gives-israel-30-days-to-boost-gaza-aid-or-risk-cut-to-military-support) · `en`
-
-The US has written to Israel, giving it 30 days to boost humanitarian aid access in Gaza or risk having some US military assistance cut off.
-
-The letter, sent on Sunday, amounts to the strongest known written warning from the US to its ally and comes amid a new Israeli offensive in northern Gaza that has reportedly caused a large number of civilian casualties.
-
-It says the US has deep concerns about the deteriorating humanitarian situation, adding that Israel denied or impeded nearly 90% of humanitarian movements between the north and south last month.
-
-Israel is reviewing the letter, an Israeli official was reported as saying, adding the country “takes this matter seriously” and intends to “address the concerns raised” with US counterparts.
-
-Israel has previously said it is targeting Hamas operatives in the north and not stopping the entry of humanitarian aid.
-
-...
-
-[Data](articles/89073578.json)
-
-[Extended Data](ext_articles/89073578.ext.json)
-
----
-
-### Australia PM faces backlash over new A$4.3m beach pad
-
-*2024-10-16 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102727/australia-pm-faces-backlash-over-new-a43m-beach-pad) · `en`
-
-Australian Prime Minister Anthony Albanese is under fire after buying a multi-million-dollar cliff-top home amid a national housing crisis.
-
-Albanese made the purchase months out from an election in which the cost of living and housing are key issues.
-
-The move has sparked backlash from across the political divide - with his opponents calling it “tone deaf” and some within his own party anonymously telling local media it left them “gobsmacked”.
-
-Albanese defended his decision, saying he “knows what it is like to struggle” but bought the luxury property to be close to his fiancee Jodie Haydon’s family on the New South Wales Central Coast.
-
-Property records show the four-bedroom, three-bathroom, and three-carport property in Copacabana - which has panoramic views - was sold for A$4.3m ($2.9m, £2.2m) last month, but the purchase is yet to settle.
-
-...
-
-[Data](articles/1c132097.json)
-
-[Extended Data](ext_articles/1c132097.ext.json)
-
----
-
-### Risk of spreading infections by flooding - Public Health Inspectors Association
-
-*2024-10-16 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196411) · `ta`
-
-Floods increase infection risk: diarrhea, mouse infestations, germs. Public urged to clean food thoroughly before eating.
-
-🟩
-
-The Public Health Inspectors Association said that the floods caused by heavy rains in the country are at risk of spreading infections.
-
-Public Health Inspector Chandun Ratnayake has said that if there are symptoms such as diarrhea, mice and germ infections, they will soon be treated.
-
-He added that it is essential for the public living in flood -affected areas.
-
-Meanwhile, the foods that eat these days should be made clean, fresh and hot.
-
-◼️
-
-[Data](articles/0015b470.json)
-
-[Extended Data](ext_articles/0015b470.ext.json)
 
 ---

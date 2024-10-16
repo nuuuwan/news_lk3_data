@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 16:12:27**
+As of **2024-10-16 16:23:35**
 
 ## Newspaper Stats
 
-*Scraped **49,827** Articles*
+*Scraped **49,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,050
 dailyftlk | 3,384
-adalk | 4,634
+adalk | 4,635
 dailymirrorlk | 4,733
-adaderanalk | 5,900
+adaderanalk | 5,901
 tamilmirrorlk | 6,818
 virakesarilk | 7,971
 adaderanasinhalalk | 8,629
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,827 (100.0%) of 49,827 articles have been extended.
+49,829 (100.0%) of 49,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Sri Lankan attorney Vincent Perera sworn in as new Attorney General of Seychelles
+
+*2024-10-16 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102738/sri-lankan-attorney-vincent-perera-sworn-in-as-new-attorney-general-of-seychelles) · `en`
+
+The new Attorney General of Seychelles, Vincent Perera, was sworn in on Wednesday at State House.
+
+Perera said, “Together with my team, I will pledge that I will be contributing to the best of my abilities to see that the rule of law in this beautiful country is upheld.”
+
+He revealed that “there are changes in the system we operate that I intend to bring through my experience of working in other jurisdictions, so I have to beef up the prosecutors with the necessary skills.”
+
+This will include the necessary training to ensure that they are one step ahead of criminals and that “together we shall ensure that guilt shall not escape, nor innocent suffer,” he said.
+
+The Attorney General’s Office has the mandate of providing the government with legal advice and is the country’s criminal prosecution service. It is also responsible for ensuring legal footing when the government signs international treaties, conventions and agreements as well as other complex contracts the government enters.
+
+...
+
+[Data](articles/023d0134.json)
+
+[Extended Data](ext_articles/023d0134.ext.json)
+
+---
 
 ### ඉන්ධන බවුසරයක් පිපිරී 94ක් මරුට
 
@@ -201,6 +223,30 @@ Chilaw Police are continuing investigations to uncover the circumstances surroun
 [Data](articles/6ab4d342.json)
 
 [Extended Data](ext_articles/6ab4d342.ext.json)
+
+---
+
+### හඳුනානොගත් වෛරසයක් නිසා ඌරු ගොවිපළවල ඌරන් මිය යයි
+
+*2024-10-16 13:37:05* · [`adalk`](https://www.ada.lk/breaking_news/හඳුනානොගත්-වෛරසයක්-නිසා-ඌරු-ගොවිපළවල-ඌරන්-මිය-යයි/11-412528) · `si`
+
+Unidentified virus causes pig deaths in Sri Lanka. Nearly 1000 pigs died. Pigs dying rapidly due to virus. Veterinary officials informed but no action taken yet. Vaccine not available for pigs. Situation worsening, causing economic losses.
+
+🟩
+
+අනුරාධපුර මධ්‍යම නූවරගම් පළාත් ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ උලුක්කුලම ප්‍රදේශයේ සත්ත්ව ගොවිපලවල් තුල සීඝ්‍රයෙන්  පැතිර යන වෛරස් රෝගයක්  හේතුවෙන්, ඌරන් විශාල වශයෙන් මිය යමින් සිටින බව එම සත්ත්ව ගොවීහු පවසති.
+
+They said that nearly a thousand pigs have died, and that the unidentified virus will be killed in two days after the pigs.
+
+මේ වන විට ඌරන් අටසීයක් සිටින ගොවිපළවල්වල ඌරන් දෙසීයක් පමණ ජීවිතක්ෂයට පත්ව ඇති අතර , ඌරන්  තුන්සියයක් පමණ සිටින ගොවිපළවල්වල ඌරන් පනහත් හැටත් අතර ප්‍රමාණයක්  මේ වන විට මරණයට පත්ව ඇති බවත්,  මියගිය පැටවුන් සංඛ්‍යාව  පිළිබඳව මෙතෙක් ගණනය කර නොමැති බවත් එම ගොවීන් සඳහන් කළහ.
+
+මෙම ප්‍රදේශයේ ආශ්‍රිතව ඌරු ගොවිපළවල් විස්සක් පමණ ප්‍රමාණයක්  පවතින  අතර එම සියලුම ගොවිපළවල්වල ඌරන් මේ ආකාරයෙන් මිය යමින් සිටින බව මෙහිදී දැක ගත හැකි විය.
+
+...
+
+[Data](articles/a5e1d96f.json)
+
+[Extended Data](ext_articles/a5e1d96f.ext.json)
 
 ---
 
@@ -2291,49 +2337,5 @@ According to the University Grants Commission circular to select vice -chancello
 [Data](articles/5d818321.json)
 
 [Extended Data](ext_articles/5d818321.ext.json)
-
----
-
-### England Exit and entered the semi -finals: South Africa also had a semi -final offer
-
-*2024-10-16 03:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196393) · `ta`
-
-West Indies qualify for ICC Women's R20 World Cup semi-finals, defeating England by 6 wickets. South Africa also advances after finishing second in net run rate.
-
-🟩
-
-In the last match for the ICC Women's R20 World Cup, held at the Dubai International Cricket Stadium on Tuesday night, the West Indies qualified for the semi -finals of England by 6 wickets.
-
-South Africa got the semi -finals from the B team as the England was awarded in this match.. South Africa and England had 6 points each. But South Africa came to the 2nd place in the rank of net running.
-
-The team captain Hailie Mathews and Giana Joseph scored half -centuries and scored 102 runs in the opening wicket of 102 runs in the opening wicket.
-
-And the missing of England's 5ths was the main cause of its failure.
-
-England, who was a failed team in the B team, hoped to win the last match and advance to the semi -finals.
-
-However, the West Indies scored a huge hit by 4 wickets in 18 overs and scored 144 runs.
-
-The beginning of the West Indies was the result of the 67 runs in Power Play, both Hail Mathews and Giana Joseph.
-
-...
-
-[Data](articles/c3ef8548.json)
-
-[Extended Data](ext_articles/c3ef8548.ext.json)
-
----
-
-### People Of Sri Lanka Need Answers To Following Questions From IMF
-
-*2024-10-16 02:32:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/people-of-sri-lanka-need-answers-to-following-questions-from-imf/) · `en`
-
-There is no doubt that theoretical understanding is crucial in making economic decisions because it provides a framework for analyzing complex economic phenomena, predicting outcomes, and helping pragmatic decision making. Hence this essay is going to submit a few questions to the IMF review team and the same questions will be submitted to the negotiating team of the government.
-
-...
-
-[Data](articles/f6da1269.json)
-
-[Extended Data](ext_articles/f6da1269.ext.json)
 
 ---

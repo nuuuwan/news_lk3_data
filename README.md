@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 13:59:11**
+As of **2024-10-16 14:25:17**
 
 ## Newspaper Stats
 
-*Scraped **49,815** Articles*
+*Scraped **49,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 3,050
 dailyftlk | 3,384
 adalk | 4,632
 dailymirrorlk | 4,733
-adaderanalk | 5,897
+adaderanalk | 5,898
 tamilmirrorlk | 6,816
 virakesarilk | 7,971
-adaderanasinhalalk | 8,624
+adaderanasinhalalk | 8,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,815 (100.0%) of 49,815 articles have been extended.
+49,818 (100.0%) of 49,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Injunction issued preventing any hindrance to Sri Lanka’s first cable car project
+
+*2024-10-16 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102734/injunction-issued-preventing-any-hindrance-to-sri-lankas-first-cable-car-project) · `en`
+
+The Court of Appeal has issued an interim order against the Gampola Divisional Secretary preventing her from interfering with the activities of the first cable car project in Sri Lanka, being built in the Ambuluawa area.
+
+This order was issued by the Appeals Court after considering a petition filed by a private company alleging that their project is being hindered by the official.
+
+◼️
+
+[Data](articles/2bf18143.json)
+
+[Extended Data](ext_articles/2bf18143.ext.json)
+
+---
+
+### An order preventing the cable car project
+
+*2024-10-16 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202238) · `si`
+
+Court issues interim order against cable car project obstruction in Ambuluwawa area. Private company filed petition citing project interference.
+
+🟩
+
+The Court issued the interim orders to Gampola Divisional Secretary, preventing any obstruction or intervention in the Ambuluwawa area in Ambuluwawa.
+
+තම ව්‍යාපෘතියට බාධා එල්ලවන බව සඳහන් කරමින්, පෞද්ගලික සමාගමක් විසින් ගොනුකළ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණය විසින් මෙම නියෝගය නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/d20b7d5e.json)
+
+[Extended Data](ext_articles/d20b7d5e.ext.json)
+
+---
+
+### scam camp ලංකාව තුළ භයානක පැතිරීමක
+
+*2024-10-16 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202237) · `si`
+
+විදෙස් ජාතිකයින් විසින් මෙරට දී සිදුකරනු ලබන අන්තර්ජාල ජාවාරම් කඳවුරුවල ඉහළ යෑමේ ප්‍රවණතාවයක් දක්නට ලැබෙන බව පොලීසිය පවසයි.
+
+අද දෙරණ BIG FOCUS වැඩසටහනට එක්වෙමින් පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා මේ බව සඳහන් කළේය.
+
+"It was a special situation here. ස්කෑමින් කෑම්ප්. මේවා කෑම්ප් විදිහට සකස්වෙලා තියෙන්නේ. මේක නව ප්‍රවණතාවයක් ශ්‍රී ලංකාවට. This is the case of this Campau in 2024. These caves are chosen on a separate place, a roomy spacious place. These people won't let go out. මියන්මාරයේ ශ්‍රී ලංකිකයෝ හිරකරගෙන ඉන්නවා කියන්නේ ඒ තත්ත්වය තමයි මෙහෙත් තියෙන්නේ. That is the same thing. "
+
+අන්තර්ජාලය ඔස්සේ මෙරටදී සිදුකර ජාවාරම් සම්බන්ධයෙන් පොලීසිය විසින් පුද්ගලයින් 300කට ආසන්න සංඛ්‍යාවක් අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+
+In addition, nearly 500 mobile phones and nearly 300 computers have been taken into custody.
+
+...
+
+[Data](articles/d3046dfa.json)
+
+[Extended Data](ext_articles/d3046dfa.ext.json)
+
+---
 
 ### உபுல் தரங்கவை கைது செய்ய தடை விதித்து உத்தரவு
 
@@ -2343,71 +2401,5 @@ The West Indies scored 89 runs in the face of 16 overs.
 [Data](articles/7b547db3.json)
 
 [Extended Data](ext_articles/7b547db3.ext.json)
-
----
-
-### Increasing salaries of public service on cash - Minister Vijitha
-
-*2024-10-15 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202218) · `si`
-
-Sri Lanka's Cabinet proposes increasing public servant salaries from January 2025, but Finance Ministry hasn't approved. Decision faces scrutiny as government seeks further study and clarification on implementation details.
-
-🟩
-
-Cabinet Publisadon said that the government's decision to increase the salaries of public servants from January 2025 should be further studied.
-
-He further stated that at a press conference held today (15) at the Cabinet Decision.
-
-"The vote was suddenly the last cabinet.. That he will increase the steps to government employees..  ජනවාරි මාසයේ සිට. However, the Ministry of Finance has not given any approval. It's been a thing that has been deceived people really. "
-
-"We didn't say that. Can it be accomplished?How is it?Looking for saying and take a new judgment on cash status. No, no ... I have to decide. "
-
-◼️
-
-[Data](articles/a6f56651.json)
-
-[Extended Data](ext_articles/a6f56651.ext.json)
-
----
-
-### Shooting in Matara;One killed
-
-*2024-10-15 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/196391) · `ta`
-
-Matara shooting: One killed in Keganatura incident. Police report man shot while riding three-wheeler.
-
-🟩
-
-One person was killed in a shooting incident on Tuesday (15) in Keganatura, Matara.
-
-Police said that a man who was in the car was fired at the man who was traveling in the three -wheeler.
-
-◼️
-
-[Data](articles/ca0b7c48.json)
-
-[Extended Data](ext_articles/ca0b7c48.ext.json)
-
----
-
-### Special speech of former President Ranil on the 17th
-
-*2024-10-15 21:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196390) · `ta`
-
-Former President Ranil Wickremesinghe delivers special speech on 17th, addressing current political issues and future plans. He announces decision not to contest upcoming parliamentary election, but new Democratic Front Party contests under his symbol.
-
-🟩
-
-UNP leader and former president Ranil Wickremesinghe will address a special address on the 17th. This is the first time that Ranil Wickremesinghe addresses this after the presidential election.
-
-Former President Ranil Wickremesinghe has revealed many issues on the country's current political activities and future political programs in his special speech.
-
-Ranil Wickremesinghe has decided not to contest the upcoming parliamentary election and not represent parliament through the national list.. It is noteworthy, however, that the new Democratic Front Party is contesting the cylinder symbol in the parliamentary election.
-
-◼️
-
-[Data](articles/41634713.json)
-
-[Extended Data](ext_articles/41634713.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 14:58:29**
+As of **2024-10-16 15:10:29**
 
 ## Newspaper Stats
 
-*Scraped **49,819** Articles*
+*Scraped **49,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,050
 dailyftlk | 3,384
 adalk | 4,633
 dailymirrorlk | 4,733
-adaderanalk | 5,898
+adaderanalk | 5,899
 tamilmirrorlk | 6,816
 virakesarilk | 7,971
 adaderanasinhalalk | 8,626
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,819 (100.0%) of 49,819 articles have been extended.
+49,820 (100.0%) of 49,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Two arrested over woman’s suspicious death in Mugunuwatawana
+
+*2024-10-16 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102736/two-arrested-over-womans-suspicious-death-in-mugunuwatawana) · `en`
+
+A 49-year-old woman found lying on the road in the Mugunuwatawana area on the Chilaw-Kurunegala main road this morning (16) has been pronounced dead after being admitted to the hospital.
+
+Police said that local residents had rushed the woman to the hospital.
+
+The deceased has been identified as a resident of the Mugunuwatawana area, according to police.
+
+Meanwhile, police have arrested two individuals on suspicion over the incident - one person closely associated with the deceased and another who was driving in the area at the time, since the woman’s death was suspicious.
+
+Chilaw Police are continuing investigations to uncover the circumstances surrounding her death.
+
+◼️
+
+[Data](articles/6ab4d342.json)
+
+[Extended Data](ext_articles/6ab4d342.ext.json)
+
+---
 
 ### Injunction issued preventing any hindrance to Sri Lanka’s first cable car project
 
@@ -2373,25 +2395,5 @@ Sri Lanka’s strategic location in the Indian Ocean among major air routes conn
 [Data](articles/3d16976d.json)
 
 [Extended Data](ext_articles/3d16976d.ext.json)
-
----
-
-### JKH Rights Issue oversubscription pointing to new investors’ rising confidence in the blue chip
-
-*2024-10-15 22:32:00* · [`islandlk`](http://island.lk/jkh-rights-issue-oversubscription-pointing-to-new-investors-rising-confidence-in-the-blue-chip/) · `en`
-
-The Rights Issue to raise Rs. 24 billion by top blue chip JKH has drawn a demand worth Rs. 27.4 billion, market analysts said.
-
-JKH’s 1 for 10 Rights Issue amounted to 150.26 million shares at Rs. 160 each with a total value of Rs. 24.04 billion. JKH also announced a sub-division of shares 1 into 10 post-Rights.
-
-When the issue closed last week, the level of subscription of the Rights Issue, including the applications received for additional shares, was for 171.4 million shares worth Rs. 27.4 billion.
-
-Analysts said the oversubscription reaffirms existing shareholders and new investors’ confidence in the top blue chip’s future upside. JKH has over 14,000 shareholders. JKH’s share price has been on the rise in recent weeks as well. Last week, it rose by Rs. 10.75 to close at Rs. 197 after peaking to Rs. 199. Over 6.88 million JKH shares traded for Rs. 1.36 billion. In the previous week, the JKH share price rose by Rs. 13.50.
-
-...
-
-[Data](articles/5e186be4.json)
-
-[Extended Data](ext_articles/5e186be4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 00:13:43**
+As of **2024-10-17 00:24:49**
 
 ## Newspaper Stats
 
-*Scraped **49,879** Articles*
+*Scraped **49,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 495
 bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,060
-dailyftlk | 3,384
+dailyftlk | 3,387
 adalk | 4,643
 dailymirrorlk | 4,733
 adaderanalk | 5,908
@@ -26,11 +26,63 @@ adaderanasinhalalk | 8,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,879 (100.0%) of 49,879 articles have been extended.
+49,882 (100.0%) of 49,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### Towards sustainable and secure energy future for Sri Lanka
+
+*2024-10-16 22:39:51* · [`dailyftlk`](https://www.ft.lk/columns/Towards-sustainable-and-secure-energy-future-for-Sri-Lanka/4-768057) · `en`
+
+The objective of lowering generation costs and, consequently, consumer tariffs will certainly not be achieved by the recent cabinet decision to reduce the Feed-In Tariff for Solar Rooftop PV, which, fortunately, has not been approved by the PUCSL
+
+It is everyone’s hope that we may at last be moving towards a new dawn of prosperity and a future of sustainable growth in all aspects of economy and social well-being, with President Anura Kumara Dissanayake leading the way.
+
+This hope is most prevalent in the Energy Sector, which has remained in the clutches of the fossil fuel lobby. While the transport fuels still remain nearly 100% dependent on imported fossil fuels, energy sources used for generation electricity generation have shown some progress in reducing dependence on such imports through the use of indigenous renewable energy sources.
+
+...
+
+[Data](articles/1975f003.json)
+
+[Extended Data](ext_articles/1975f003.ext.json)
+
+---
+
+### The Sri Lankan woman: Is she empowered?
+
+*2024-10-16 22:18:59* · [`dailyftlk`](https://www.ft.lk/columns/The-Sri-Lankan-woman-Is-she-empowered/4-768055) · `en`
+
+When women are empowered, they become active contributors to the economy, driving growth and creating opportunities for all
+
+Women empowerment is defined as “raising the status of women through education, awareness, literacy, equal status in society, better livelihood, and also accepting women’s viewpoints as well”, and it has become a significant aspect of the socio-economic development of a country. Women empowerment is categorised into 5 main pillars, namely, social, educational, economic, political, and psychological pillars. If you look at some statistics Sri Lanka’s gender distribution is 52% females and 47% males in 2022 (Central Bank of Sri Lanka). The rural female labour force is 32.6% while the female urban labour force is 29.3%. Of the labour force, 6.5% of females are categorised as unemployed in the same year. Out of the total number of persons who migrated for foreign employment, 40% are females of whom 23.8% have migrated as housemaids.
+
+...
+
+[Data](articles/f13303a3.json)
+
+[Extended Data](ext_articles/f13303a3.ext.json)
+
+---
+
+### Govt. must hold domestic investigations on war crimes, prosecute offenders, clear name of armed forces
+
+*2024-10-16 22:07:36* · [`dailyftlk`](https://www.ft.lk/columns/Govt-must-hold-domestic-investigations-on-war-crimes-prosecute-offenders-clear-name-of-armed-forces/4-768054) · `en`
+
+The Government must change course in the UNHRC on war crimes issues. A local investigation of allegations does not mean admission of war crimes
+
+The Anura Kumara Dissanayake led people’s Government and the country’s armed forces must consider seriously the advice given by President’s Counsel Anura Meddegoda, in a media interview published in an English daily (the Daily Mirror) on Friday 11 October, urging that Sri Lanka must investigate through domestic mechanism the war crimes allegedly committed during the war on the LTTE.
+
+Meddegoda had said, “If war crimes aren’t investigated (here), even political leaders might face travel restrictions.” In my view, not only political leaders but also investigators, prosecutors and even judges and their families, who fail to uphold human right laws may get exposed not only for international travel restrictions but also for other forms of legal harassments.
+
+...
+
+[Data](articles/154c17ad.json)
+
+[Extended Data](ext_articles/154c17ad.ext.json)
+
+---
 
 ### Streamlined road development essential for advancing rural economic growth – President
 
@@ -2435,87 +2487,5 @@ He said that the Galle district has fielded a strong squad for the general elect
 [Data](articles/e86e3774.json)
 
 [Extended Data](ext_articles/e86e3774.ext.json)
-
----
-
-### Bomb on Indian plane
-
-*2024-10-16 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202228) · `si`
-
-Singapore authorities report bomb threat on Air India Express flight. Plane inspected at Changi airport, no explosives found. Another flight diverted to Canada after landing in US.
-
-🟩
-
-The authorities of Singapore said that he had taken measures to be taken into customer with a "AIR INDIA Express" a bomb was flying to Singapore.
-
-සිංගප්පුරු ආරක්ෂක අමාත්‍ය Ng Eng Hen පැවසුවේ අදාළ ගුවන්යානයේ බෝම්බයක් ඇති බවට ගුවන් සමාගමට විද්‍යුත් තැපැල් පණිවුඩයක් ලැබුණු බවයි.
-
-Accordingly, the AIR India has been instrumental with the support of the AIR India.
-
-Later, the plane was later inspected at the Changi airport and has not met any explosives.
-
-However, another flight of the airline was flying to Chicago in the United States, was landed in Canada.
-
-◼️
-
-[Data](articles/96de4529.json)
-
-[Extended Data](ext_articles/96de4529.ext.json)
-
----
-
-### නාවිකයින්ට සහ ධීවරයින්ට රතු නිවේදනයක්
-
-*2024-10-16 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202227) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Red alert for sailors and fishermen: Heavy rain, strong winds, rough seas. Low pressure system moving west-southwest, may hit northern Tamil Nadu, Puducherry, southern Andhra Pradesh coast tomorrow. Strong winds up to 60-70 km/h, heavy rain possible. Coastal areas may experience rough seas up to 2.5-3 meters high. Department of Meteorology advises fishermen to stay alert for future announcements.
-
-🟩
-
-තද වැසි, තද සුළං සහ මුහුද රළුවීම පිළිබඳ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කර තිබේ.
-
-The announcement issued at 8 am today (17) will be found to be found tomorrow (17).
-
-මධ්‍යම බෙංගාල බොක්ක ප්‍රදේශයේ පැවති අඩු පීඩන කලාපය, ඊයේ (15) දින ප.ව. 11.30 වන විටත් 11.8N සහ 84.0E ආසන්නයේ කේන්ද්‍රගත වී පැවති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-එය බටහිරට බරව-වයඹ දිශාවට ගමන් කරමින්, පීඩන අවපාතයක් ලෙස වර්ධනය වී හෙට දින උතුරු තමිල්නාඩු, පුදුචෙරි සහ ආසන්න දකුණු ආන්ද්‍රා ප්‍රදේශ වෙරළ වෙත ළඟා වනු ඇත.
-
-ඒ හේතුවෙන් උතුරු අක්ෂාංශ 07ත් 16ත් සහ නැගෙනහිර දේශාංශ 81 සහ 90 ත් අතර මුහුදු ප්‍රදේශවල ඉතා තද සුළං‍ පැ.කි.මී. 60-70, සමඟින් තද වැසි පැවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනය දැක්වේ.
-
-හලාවත සිට කොළඹ, ගාල්ල, හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 – 3.0ක් පමණ ඉහළ යාමේ හැකියාවක් පවතී.
-
-...
-
-[Data](articles/8ccd8071.json)
-
-[Extended Data](ext_articles/8ccd8071.ext.json)
-
----
-
-### Cemetery
-
-*2024-10-16 10:04:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-நீரில்-மூழ்கிய-களுத்துறை/175-345537) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Kalutara coastal areas affected: 200 homes, tourist facilities, roads submerged due to rising sea levels.
-
-🟩
-
-The Kalutara District Disaster Management Division Office said that the sea has increased in the North Kalutara area on Wednesday morning.
-
-களுத்துறை கெலிடோ கடற்கரை அருகில் இருந்து சுமார் ஒரு கிலோமீட்டர் தூரம் வரையில் உள்ள  200 வீடுகள்,  சுற்றுலா விடுதிகள், களுத்துறை வீதி அபிவிருத்தி அதிகார சபை அலுவலக வளாகம் மற்றும் பல கறுக்கு வீதிகள் கடல் நீரில் மூழ்கி  காணப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/fcffc834.json)
-
-[Extended Data](ext_articles/fcffc834.ext.json)
 
 ---

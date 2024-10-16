@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 21:23:43**
+As of **2024-10-16 21:39:47**
 
 ## Newspaper Stats
 
-*Scraped **49,871** Articles*
+*Scraped **49,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,907
 tamilmirrorlk | 6,823
 virakesarilk | 7,978
-adaderanasinhalalk | 8,638
+adaderanasinhalalk | 8,639
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,871 (100.0%) of 49,871 articles have been extended.
+49,872 (100.0%) of 49,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### The thief is the thug instead of blows
+
+*2024-10-16 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202251) · `si`
+
+Elpitiya Pradeshiya Sabha election 26.10.2014: Voter's left hand decides. Election Commission issues special gazette. If no majority, Local Authority Agency Elections Act applies. Decision resolves 21.04.2013 election issue.
+
+🟩
+
+The Elpitiya Pradeshiya Sabha elections will be held on 26.10.2014, where the head of the voter's left hand has decided to finger.
+
+The Election Commission is informed by issuing a special gazette.
+
+If the elephant's left hand is not a majority of the left hand, the Local Authority Agency Elections (262nd Authority) 53 a, A (ii (ii) a body is to be painful in accordance with Sections B (Ii).
+
+This decision has been taken to resolve the problem with the voter of the voter of the voter of the voter in the election held on 21.04.2013.
+
+◼️
+
+[Data](articles/1f5e39a9.json)
+
+[Extended Data](ext_articles/1f5e39a9.ext.json)
+
+---
 
 ### YouTubeter Ashane filed a case
 
@@ -2465,25 +2489,5 @@ Furthermore, he highlighted the risk of contracting leptospirosis for those with
 [Data](articles/a2dad395.json)
 
 [Extended Data](ext_articles/a2dad395.ext.json)
-
----
-
-### 2024 General Election: EC to release candidates’ preference numbers today
-
-*2024-10-16 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102723/2024-general-election-ec-to-release-candidates-preference-numbers-today) · `en`
-
-The election commission says that the preference numbers of the candidates contesting the upcoming general election can be obtained today (16) from the respective district secretariat offices.
-
-Commissioner General of Elections Saman Sri Ratnayake stated that the commission has received the preference lists of all districts and that steps have been taken to check the preference lists and send them to the district secretariats.
-
-Ratnayake also indicated that the minimum expenditure allowed for each candidate in the general election will be published in the Government Gazette today.
-
-Meanwhile, the commission has summoned a meeting with the ministry secretaries and the heads of various corporations and boards today, to provide instructions regarding the implementation of directives related to the general election.
-
-◼️
-
-[Data](articles/7b7b3df6.json)
-
-[Extended Data](ext_articles/7b7b3df6.ext.json)
 
 ---

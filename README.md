@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 21:39:47**
+As of **2024-10-16 21:58:53**
 
 ## Newspaper Stats
 
-*Scraped **49,872** Articles*
+*Scraped **49,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 4,641
 dailymirrorlk | 4,733
 adaderanalk | 5,907
 tamilmirrorlk | 6,823
-virakesarilk | 7,978
-adaderanasinhalalk | 8,639
+virakesarilk | 7,979
+adaderanasinhalalk | 8,640
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,872 (100.0%) of 49,872 articles have been extended.
+49,874 (100.0%) of 49,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### CID regulations not to take no step on Mahara incident
+
+*2024-10-16 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202252) · `si`
+
+Attorney General orders CID not to investigate Mahara Prison incident where 11 inmates died in 2020 police shooting.
+
+🟩
+
+The Attorney General has ordered the Criminal Investigation Department not to take no step in the death of 11 inmates.
+
+It was also reported that 11 inmates were killed in a shooting of the police and the STF during the protest in the Mahara Prison in November 2020.
+
+The Attorney General has made this notice in the background of the Magistrate's Court to be arrested and produced before the court.
+
+The inmates of Mahara Prison inmates were conducted to conduct a PCR tests to ensure the covard and the covard inmates to be directed to hospitals.
+
+11 inmates were killed in a shooting carried out by prison officers and the STF.
+
+The Belisara Magistrate's Court regarding the incident is a law promoted and the deaths of the 11 inmates of Mahara Prison in Mahara Prison.
+
+The Magistrate said that the Attorney General's proofs were made as a minimum power to curb the minimum power to crush and fired in a humanitarian operation to suppress the deceased in prisoners.
+
+...
+
+[Data](articles/6b1fb10b.json)
+
+[Extended Data](ext_articles/6b1fb10b.ext.json)
+
+---
 
 ### The thief is the thug instead of blows
 
@@ -731,6 +761,36 @@ It has also been revealed that the racketeer is using ammunition guns and hunt f
 [Data](articles/93b80e2c.json)
 
 [Extended Data](ext_articles/93b80e2c.ext.json)
+
+---
+
+### The appointment of Shani Abeysekara, who was on the political platform of the national people's power - is not concerned - the United People's Power
+
+*2024-10-16 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196455) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Shani Abeysekara appointed to high police position despite being on United People's Power platform. Critics argue it's a political appointment, questioning his ability to investigate Easter Sunday attacks.
+
+🟩
+
+It is not due to the appointment of a person on the political platform of the national people's power to a higher position. Former United People's Power MP Harshana Rajakaruna said that if Shanani Abeysekera is a senior officer, he should be given justice to the victims of the survival Sunday attacks.
+
+He further stated this at a press conference held at the United People's Power Office in Colombo on Tuesday (15).
+
+Shani Abeeshekara, who was on the political platform of the national people's power, has been given a high post in the police. This is a political appointment. It is irresponsible to make such appointments.
+
+The position of Shani Abeesekera is a senior officer. Accordingly, if he is a senior officer, the appointment of the latest appointment must be taken to reveal the facts of the life -threatening Sunday attacks.
+
+We also expect that he will get righteousness for those who are victims of the survival Sunday attacks with the people.
+
+...
+
+[Data](articles/bfaa73cc.json)
+
+[Extended Data](ext_articles/bfaa73cc.ext.json)
 
 ---
 
@@ -2449,45 +2509,5 @@ When Michail leaves the house, 100 kilograms was weakened in 100kg when recovere
 [Data](articles/fd898c6d.json)
 
 [Extended Data](ext_articles/fd898c6d.ext.json)
-
----
-
-### Sri Lanka abandons plans to sell national carrier
-
-*2024-10-16 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102725/sri-lanka-abandons-plans-to-sell-national-carrier) · `en`
-
-Sri Lanka’s new government has abandoned plans to sell the debt-ridden national airline SriLankan Airlines, but will restructure it for a more profitable future.
-
-“President Anura Kumara Dissanayake has instructed that the airline should be an institution that all Sri Lankans are proud of, and should be owned by Sri Lankans,” the airline’s new chairman Sarath Ganegoda told TTG Asia.
-
-The previous government had invited bids to part-sell and manage the airline that as been suffering accumulated losses over the years.
-
-While the airline has reported an operating profit for the period April 2022 to end March 2023, its accumulated debt is US$1.2 billion. Under the earlier plan, the government was to retain 51 per cent control of the airline while selling off the remaining 49 per cent to investors. Six parties, some who had no experience in running an airline, responded with an initial call for interest but none was pre-qualified for the next step of the process.
-
-...
-
-[Data](articles/688bc557.json)
-
-[Extended Data](ext_articles/688bc557.ext.json)
-
----
-
-### Increased risk of infectious diseases as floodwaters recede, health officials warn
-
-*2024-10-16 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102724/increased-risk-of-infectious-diseases-as-floodwaters-recede-health-officials-warn) · `en`
-
-The Public Health Inspectors’ (PHIs) Association has raised concerns about the heightened risk of infectious diseases spreading following the recent floods.
-
-Sandun Ratnayake of the Public Health Inspectors’ Association stated that individuals exposed to floodwaters are particularly vulnerable to illnesses such as diarrhoea, dysentery, leptospirosis and worm infestations.
-
-“If you experience symptoms of diarrhoea, dysentery, or suspected leptospirosis, it is essential to seek immediate medical attention,” Ratnayake advised. He emphasized the importance of consuming only clean, fresh, and hot food during this period, and ensuring that water is either boiled or bottled to prevent waterborne diseases.
-
-Furthermore, he highlighted the risk of contracting leptospirosis for those with skin wounds or scratches exposed to floodwaters. “If you have any open wounds and have been in contact with floodwater, there’s a significant chance of contracting leptospirosis. Immediate treatment is crucial.”
-
-...
-
-[Data](articles/a2dad395.json)
-
-[Extended Data](ext_articles/a2dad395.ext.json)
 
 ---

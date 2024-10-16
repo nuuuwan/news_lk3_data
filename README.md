@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 15:39:34**
+As of **2024-10-16 15:58:03**
 
 ## Newspaper Stats
 
-*Scraped **49,823** Articles*
+*Scraped **49,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 3,050
 dailyftlk | 3,384
 adalk | 4,634
 dailymirrorlk | 4,733
-adaderanalk | 5,899
-tamilmirrorlk | 6,817
+adaderanalk | 5,900
+tamilmirrorlk | 6,818
 virakesarilk | 7,971
-adaderanasinhalalk | 8,627
+adaderanasinhalalk | 8,628
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,823 (100.0%) of 49,823 articles have been extended.
+49,826 (100.0%) of 49,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### At least 94 killed in fuel tanker explosion in Nigeria
+
+*2024-10-16 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102737/at-least-94-killed-in-fuel-tanker-explosion-in-nigeria) · `en`
+
+At least 94 people were killed in northern Nigeria when a crashed tanker exploded near locals who had gathered to retrieve fuel, police told CNN.
+
+The toll is expected to rise from the blast, which happened late evening local time on Tuesday in Majiya, a village in Jigawa state.
+
+“The driver lost control and the tanker somersaulted and spilled fuel into a drainage ditch,” Jigawa police spokesperson Shiisu Lawan Adam said.
+
+“As a result, residents rushed to scoop the fuel when the explosion happened.”
+
+Adam said at least 50 people were seriously injured, adding that the death toll was provisional.
+
+◼️
+
+[Data](articles/59c80d31.json)
+
+[Extended Data](ext_articles/59c80d31.ext.json)
+
+---
+
+### அம்புலுவாவ கேபிள் கார்: நீதிமன்றம் அறிவுறுத்தல்
+
+*2024-10-16 15:28:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அம்புலுவாவ-கேபிள்-கார்-நீதிமன்றம்-அறிவுறுத்தல்/76-345563) · `ta`
+
+Ambulawa Cable Car project: Court injunction
+
+
+
+Private company MD Ambur Advancers Ltd filed a writ petition against Divisional Secretary's interference. Court issued interim injunction preventing unnecessary intervention or halt. Order valid until October 29. Petitioner claims illegal interference hinders service development. Attorneys Sanath Wijewardena, Ali Sabri, Shehani Alwis, Namik Nafat represented petitioner.
+
+🟩
+
+தனியார் நிறுவனம் ஒன்றினால் முன்னெடுக்கப்படும் அம்புலுவாவ கேபிள் கார் திட்டத்தில் தேவையற்ற வகையில் தலையிடவோ அல்லது இடைநிறுத்தவோ கூடாது என்று கம்பளை உடபலத்த பிரதேச செயலாளருக்கு மேன்முறையீட்டு நீதிமன்றம் புதன்கிழமை (16) இடைக்கால தடை விதித்துள்ளது.
+
+The bench comprising two appeals court judges M. Lafar and P. Kumararatnam has issued the order.. இந்த இடைக்கால உத்தரவு ஒக்டோபர் 29 ஆம் திகதி வரை அமலில் இருக்கும்.
+
+எம்.டி. அம்பர் அட்வென்ச்சர்ஸ் (பிரைவேட்) லிமிடெட் தாக்கல் செய்த ரிட் மனுவுக்கு இணங்கவே இந்த இடைக்கால உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+The Divisional Secretary's illegal interferes with the petitioner's plan to create, operate and change the cable car project with a 1,621.5 meter robbe.. இது தங்களுடைய சேவையை முன்னெடுப்பதற்கு தடையாக உள்ளதாக மனுதாரர் சுட்டிக்காட்டியுள்ளார்.
+
+At the instructions of Attorney Sanath Wijewardena, President Attorney Ali Sabri and Shehani Alwis and Namik Nafat appeared on behalf of the petitioner.
+
+◼️
+
+[Data](articles/85498b1e.json)
+
+[Extended Data](ext_articles/85498b1e.ext.json)
+
+---
+
+### A earthquake in Turkey
+
+*2024-10-16 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202240) · `si`
+
+Turkey earthquake: 6.0 magnitude reported, no immediate details on damage. Foreign media coverage ongoing.
+
+🟩
+
+Foreign media reports that its strength was recorded as 6.0 units of the Richter.
+
+The information is yet to be reported so far regarding the earthquake or property damage.
+
+◼️
+
+[Data](articles/cbd4ea6c.json)
+
+[Extended Data](ext_articles/cbd4ea6c.ext.json)
+
+---
 
 ### Police seek public assistance to identify a dead person
 
@@ -2261,157 +2333,5 @@ At the same time, 10,361 people from 2,433 families have been evacuated from the
 [Data](articles/68b33b2e.json)
 
 [Extended Data](ext_articles/68b33b2e.ext.json)
-
----
-
-### What are the problems that the newly appointed government have to find solutions?
-
-*2024-10-16 01:30:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgd09gjx8yo) · `si`
-
-Here's a summary of the key issues facing Sri Lanka's newly appointed government:
-
-
-
-1. Economic challenges:
-
-   - High debt-to-GDP ratio (1039%)
-
-   - Need to address economic instability and attract IMF support
-
-
-
-2. Security concerns:
-
-   - Rising crime rates and gang violence
-
-   - Ongoing investigations into terrorist attacks
-
-
-
-3. Healthcare reform:
-
-   - Shortage of medical supplies and substandard drugs
-
-   - Rebuilding public trust in healthcare system
-
-
-
-4. Education system improvements:
-
-   - Addressing exam paper leaks and delays
-
-   - Implementing reforms to prevent future disruptions
-
-
-
-5. Infrastructure development:
-
-   - Improving road safety and traffic management
-
-   - Enhancing disaster relief capabilities
-
-
-
-6. Corruption and transparency:
-
-   - Recovering assets illegally transferred abroad
-
-   - Strengthening anti-corruption measures
-
-
-
-7. Social welfare:
-
-   - Addressing rising living costs and poverty
-
-   - Supporting vulnerable populations
-
-
-
-8. National unity:
-
-   - Healing divisions caused by civil war and ethnic tensions
-
-
-
-These challenges require immediate attention and coordinated efforts from the new government to address Sri Lanka's pressing issues.
-
-🟩
-
-What are the problems that the newly appointed government have to find solutions?
-
-2024 මහ මැතිවරණය ශ්‍රී ලංකා ඉතිහාසයේ විශේෂිත වූ මැතිවරණයකි. It is undoubtedly undisputed that many new faces will represent the Parliament this year before the election.
-
-මීට හේතුව සාම්ප්‍රදායික සහ පවුල් බලය පැවති ජ්‍යෙෂ්ඨ දේශපාලනඥයින් රැසක් මැතිවරණයට පෙර ස්වයං විශ්‍රාම ගැනීමට තීරණය කිරීම ය. පසුගිය පාර්ලිමේන්තුව නියෝජනය කළ මන්ත්‍රීවරුන් 50කට අධික පිරිසක් මෙවර මහ මැතිවරණයට තරග නොකිරීමට තීරණය කර තිබේ.
-
-The war, defeat terrorism, polling, became the main themes of electoral platforms since the election of terrorism, national security, economy and development and subsidies.
-
-නමුත් 2024 මහ මැතිවරණයේදී එම මාතෘකාවලට කිසිදු වටිනාකමක් ඇති අයුරු දක්නට නොලැබේ.
-
-ඒ වෙනුවට ආර්ථික අර්බුදයට විසඳුම් සෙවීම, අල්ලස හා දුෂණය පිටුදැකීම, දුෂිත ක්‍රියාවන්ට එරෙහිව විමර්ශන නිසි අයුරින් ක්‍රියාත්මක කිරීම සහ දුෂිත සහ වයස්ගත දේශපාලනඥයින් ගෙදර යැවීමට ජනතාවගේ වැඩි උනන්දුවක් පවතින බව පෙනීයන කරුණකි.
-
-...
-
-[Data](articles/7b4cbd0e.json)
-
-[Extended Data](ext_articles/7b4cbd0e.ext.json)
-
----
-
-### Matara firing: One killed
-
-*2024-10-16 01:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறையில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-345531) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Gunmen in a car fatally shot a 53-year-old man riding a three-wheeler in Matara-Ruwanwella. The incident occurred last night. Police have not yet released further details about the unidentified attackers.
-
-🟩
-
-A man who was traveling in a three -wheeler in the Matara - Ruwanwella area was shot dead.
-
-Unidentified gunmen who came in the car fired at the shooting yesterday evening, police media unit said.
-
-The deceased has been identified as a 53 -year -old from Matara - Fort.(a)
-
-◼️
-
-[Data](articles/bb8ef1d1.json)
-
-[Extended Data](ext_articles/bb8ef1d1.ext.json)
-
----
-
-### 2024-10-15 (Tuesday)
-
-### He is not hesitant to take appropriate action;President
-
-*2024-10-15 23:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிய-நடவடிக்கை-எடுக்க-தயங்கப்-போவதில்லை-ஜனாதிபதி/175-345530) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake emphasizes dedicated civil servants, protecting public assets, and taking action against fraud and corruption to revive the economy.
-
-🟩
-
-President Anuragumara Dissanayake has said that the dedication of the current civil servant is not essential to create a useful and efficient service to satisfy the people.
-
-He said this while participating in a progress review discussion held at the Ministry of Energy this morning.
-
-The President said that people believe that fraud, corruption and waste are behind the collapse of the country's economy.
-
-The President also stated that public assets should be protected as public property and no one has the right to defraud or corrupt the property.
-
-President Anura Kumara Dissanayake has said that he is supporting every people's actions within the confines of his duty and that he will not hesitate to take appropriate action if he does not do things.. Remble
-
-◼️
-
-[Data](articles/aae0c80b.json)
-
-[Extended Data](ext_articles/aae0c80b.ext.json)
 
 ---

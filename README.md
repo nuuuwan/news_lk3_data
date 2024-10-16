@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 15:58:03**
+As of **2024-10-16 16:12:27**
 
 ## Newspaper Stats
 
-*Scraped **49,826** Articles*
+*Scraped **49,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,900
 tamilmirrorlk | 6,818
 virakesarilk | 7,971
-adaderanasinhalalk | 8,628
+adaderanasinhalalk | 8,629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,826 (100.0%) of 49,826 articles have been extended.
+49,827 (100.0%) of 49,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
+
+### ඉන්ධන බවුසරයක් පිපිරී 94ක් මරුට
+
+*2024-10-16 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202241) · `si`
+
+A bus explosion in northern Nigeria killed 94 people. The vehicle was driving on a road when it caught fire. Witnesses reported seeing a large crowd gathering to collect spilled fuel.
+
+🟩
+
+ඉන්ධන බවුසරයක් පිපිරීම හේතුවෙන් උතුරු නයිජීරියාවේ පුද්ගලයින් 94 දෙනෙක් ජීවිතක්ෂයට පත්වී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එහි සඳහන් වන්නේ එම බවුසරය මාර්ගයේ ධාවනය වෙමින් තිබියදී ලිස්සා ගොස් කාණුවකට පෙරළී තිබුණි.
+
+ඉන් ඉවතට විසිරී තිබූ ඉන්ධන එකතුකර ගැනීම සඳහා විශාල පිරිසක් එක්වී සිටි බව සඳහන් ය.
+
+◼️
+
+[Data](articles/086df484.json)
+
+[Extended Data](ext_articles/086df484.ext.json)
+
+---
 
 ### At least 94 killed in fuel tanker explosion in Nigeria
 
@@ -2313,25 +2335,5 @@ There is no doubt that theoretical understanding is crucial in making economic d
 [Data](articles/f6da1269.json)
 
 [Extended Data](ext_articles/f6da1269.ext.json)
-
----
-
-### 159,547 people are affected by random climate
-
-*2024-10-16 01:35:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-159-547-பேர்-பாதிப்பு/175-345532) · `ta`
-
-Climate disaster affects 159,547 in Gampaha district. 10,361 people from 2,433 families evacuated.
-
-🟩
-
-According to a report issued by the Disaster Management Center, the Gampaha district has been hit.
-
-At the same time, 10,361 people from 2,433 families have been evacuated from their homes and are housed in safe places, the Disaster Management Center said.. (A)
-
-◼️
-
-[Data](articles/68b33b2e.json)
-
-[Extended Data](ext_articles/68b33b2e.ext.json)
 
 ---

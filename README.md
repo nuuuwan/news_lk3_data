@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-16 08:59:29**
+As of **2024-10-16 09:13:45**
 
 ## Newspaper Stats
 
-*Scraped **49,762** Articles*
+*Scraped **49,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,82 +15,182 @@ bbccomsinhala | 500
 islandlk | 2,949
 economynextcom | 3,047
 dailyftlk | 3,384
-adalk | 4,625
+adalk | 4,626
 dailymirrorlk | 4,733
-adaderanalk | 5,885
-tamilmirrorlk | 6,801
+adaderanalk | 5,886
+tamilmirrorlk | 6,802
 virakesarilk | 7,966
-adaderanasinhalalk | 8,613
+adaderanasinhalalk | 8,614
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,748 (100.0%) of 49,762 articles have been extended.
+49,756 (100.0%) of 49,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-16 (Wednesday)
 
-### மழையுடனான வானிலை படிப்படியாக குறைவடையும் - வளிமண்டல திணைக்களம்
+### Far from Lasantha, Eknaligoda and Thajudeen
+
+*2024-10-16 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202226) · `si`
+
+Here's a 200-character summary:
+
+
+
+Government denies investigating Lasantha Wickrematunge's murder, Thajudeen's assassination, and Prageeth Eknaligoda's disappearance. Claims ongoing efforts against economic crimes and journalist abductions.
+
+🟩
+
+Lasantha Wickrematunge has left Pradeep Eknaligoda and Thajudin's murder.
+
+However, the government says that investigations into the incidents will be initiated again in the future.
+
+He was responding to a question referred to a journalist at a press briefing in a media briefing of the Criminal Investigations.
+
+"Don't investigate any criminal activity. Therefore, the assassination of the Thajudean assassination of Thajudean assassination of Lasantha Wickrematunge is definitely working on such things. Prageeth Eknaligoda ends investigations into investigations. No resettlement required. If necessary, you can. We were prosecuting as soon as possible. Don't have the wrong idea but only 7. All the economic crime, human murders and journalists are under the abduction of the law are implemented. "
+
+◼️
+
+[Data](articles/6cdfb82f.json)
+
+[Extended Data](ext_articles/6cdfb82f.ext.json)
+
+---
+
+### “Politicians don’t retire”: Mahinda on Rajapaksas opting out of 2024 General Election
+
+*2024-10-16 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102722/politicians-dont-retire-mahinda-on-rajapaksas-opting-out-of-2024-general-election) · `en`
+
+Former President Mahinda Rajapaksa says that he does not plan to retire from politics.
+
+Speaking to the media, the former President stated that the Rajapaksas have only made a temporary withdrawal from politics.
+
+Responding to the questions raised by journalists, Rajapaksa expressed: “This is a temporary pause… A politician does not retire.”
+
+Commenting on the upcoming election, former President Rajapaksa emphasized that the Sri Lanka Podujana Peramuna (SLPP) will secure an easy win during the 2024 Parliamentary Election.
+
+Furthermore, he highlighted that not all Rajapaksas have refrained from contesting the General Election, mentioning that Shashindra Rajapaksa is contesting from the Moneragala District.
+
+None of the Rajapaksa brothers, who dominated Sri Lankan politics for decades until they were booted out of office in 2022, will contest in the island nation’s general elections next month.
+
+...
+
+[Data](articles/52e6a9ac.json)
+
+[Extended Data](ext_articles/52e6a9ac.ext.json)
+
+---
+
+### The incident that caused controversy in Nuwara Eliya
+
+*2024-10-16 08:43:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-சர்ச்சையை-ஏற்படுத்திய-சம்பவம்/175-345534) · `ta`
+
+Nun arrested for assault on 12 students in Nuwara Eliya school. Parents lodge complaint. Court orders inquiry and mental health check. Student hospitalized.
+
+🟩
+
+The Nuwara Eliya Magistrate has ordered the arrest of the nun in connection with the incident that caused a controversy over the past few days at a popular school in Nuwara Eliya.
+
+He has been arrested on a complaint lodged by the parents of the affected students for allegedly assaulting 12 students studying in grade 11 at the school.
+
+In addition, the court officials have been ordered to submit a further inquiry report on the incident and submit medical reports on the nun's mental health.
+
+The Nuwara Eliya Magistrate ordered that the Nuwara Eliya Magistrate ordered the arrest of the Chancellor and produced in court as a student was admitted to the hospital for four days.. Remble
+
+◼️
+
+[Data](articles/59aa6a02.json)
+
+[Extended Data](ext_articles/59aa6a02.ext.json)
+
+---
+
+### The rainy weather will gradually decrease - the Department of Atmospheric
 
 *2024-10-16 08:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196400) · `ta`
 
-நாட்டின் தென்மேற்குப் பிராந்தியத்தில் பெய்துவரும் பலத்த மழையுடனான வானிலை படிப்படியாக குறைவடையும் என எதிர்பார்க்கப்படுகிறது என வளிமண்டல திணைக்களத்தின் சிரேஸ்ட  வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் தெரிவித்தார்.
+Rainy weather decreasing, heavy showers in southwest. Thunderstorms possible in northern areas. Strong winds and lightning warnings issued. Fishermen advised against sea travel due to rough conditions. Sea waves expected to rise 2.5-3.0 meters in certain coastal regions.
 
-வட மாகாணத்தில் அடிக்கடி மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும். சில இடங்களில் 50 மில்லி மீற்றர் இயலும் கூடிய ஓரளவு பலத்த மழை பெய்யக்கூடும்.
+🟩
 
-சப்ரகமுவ, மேல் மற்றும் வடமேல்  மாகாணங்களிலும் அத்துடன் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் இடைக்கிடையே மழை  பெய்யக்கூடும்.
+Senior weather officer of the Atmospheric Department, Dr. Mohamed Saliheen, said the weather is expected to gradually decrease with heavy rainfall in the southwest region of the country.
 
-நாட்டின் ஏனைய பிரதேசங்களின் பல இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+In the Northern Province frequent rain or thunderstorms may occur. In some places, there is a heavy rainfall of 50 millimeters.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+Rainfall is expected in Sabaragamuwa, Western and North Western Provinces as well as Galle, Matara, Kandy and Nuwara Eliya districts.
 
-கடல் பிராந்தியங்களில் மட்டக்களப்பு தொடக்கம் திருகோணமலை, காங்கேசன்துறை ஊடாக மன்னார் வரையான ஆழமான மற்றும் ஆழமற்ற கடல் பிராந்தியங்களுக்கு நாளை வரையில் மீனவர்களும் கடல்சார் ஊழியர்களும் செல்ல வேண்டாம் என அறிவுறுத்தப்படுகின்றனர்.
+Showers or thunderstorms can occur in many parts of the other parts of the country in the evening or night.
+
+The public is asked to take care in the events of strong winds and lightning.
+
+Fishermen and maritime workers are advised not to go to the deep and shallow sea regions from Batticaloa to the Mannar to Mannar from Batticaloa to Trincomalee and Kankesanthurai.
+
+Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
+
+Winds from the southwest at speeds of up to 30 -40 km / h in the sea regions.
 
 ...
 
 [Data](articles/8082d3a0.json)
 
+[Extended Data](ext_articles/8082d3a0.ext.json)
+
 ---
 
-### இளைஞர்களிடையே வேகமாக அதிகரிக்கும் ஆபத்து
+### Risk of rapidly rising among young people
 
 *2024-10-16 08:27:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞர்களிடையே-வேகமாக-அதிகரிக்கும்-ஆபத்து/175-345533) · `ta`
 
-கடந்த 2023ஆம் ஆண்டு மட்டுமே HIV எயிட்ஸ் தொற்றால் சுமார் 1,327 பேர் அடையாளம் காணப்பட்டுள்ளனர்.
+Rapidly increasing HIV/AIDS cases among youth (15-29) in 2023. Only 1,327 cases identified. Specialist proposes eliminating disease by 2030. Political support crucial for prevention efforts.
 
-கடந்த 2023 ஆம் ஆண்டு தேசிய எயிட்ஸ் தினத்தை முன்னிட்டு ஏற்பாடு செய்யப்பட்டிருந்த வடமேற்கு மாகாண கூட்டத்தில் கலந்து கொண்டு கருத்து தெரிவித்த போது, குருநாகல் போதனா வைத்தியசாலையின் விசேட வைத்தியர் சித்ரன் ஹத்துருசிங்க இதை குறிப்பிட்டார்.
+🟩
 
-“15 வயது முதல் 29 வயது வரை உள்ள இளைஞர்கள் இந்த நோயால் பாதிக்கப்படுவது மிகவும் துரதிர்ஷ்டவசமானது.
+Only 1,327 people have been identified by HIV AIDS in 2023.
 
-2030 ஆம் ஆண்டில் இந்த நோயை அகற்றுவதற்கான ஒரு முறையை நாங்கள் கண்டறிந்துள்ளோம்.
+Speaking at a meeting of the Northwest Provincial Provincial Council, which was organized on the occasion of National AIDS Day in 2023, the specialist at the Kurunegala Teaching Hospital, Chitran Hathurusinghe.
 
-மருத்துவ நிபுணர்களாகிய நாம் இந்த நோய்களைத் தடுப்பதற்கு எவ்வளவோ முயற்சி செய்தாலும் அதற்குத் தேவையான அரசியல் ஆதரவு கிடைக்காவிட்டாலும் பரவாயில்லை. அத்தகைய திட்டத்தை வெற்றிகரமாக நடத்த, அரசியல் ஆதரவு தேவை என்றார். R
+“It is very unfortunate that young people between the ages of 15 and 29 are suffering from the disease.
+
+We have found a method of eliminating the disease by 2030.
+
+It is okay for medical professionals that we try to prevent these diseases or do not get the political support needed for it.. He said political support was needed to make such a plan successfully. Remble
 
 ◼️
 
 [Data](articles/a4a71a1a.json)
 
+[Extended Data](ext_articles/a4a71a1a.ext.json)
+
 ---
 
-### ගංවතුර බැස යාමත් සමඟ රෝග පැතිරීමේ අවදානමක්
+### Risk of spreading diseases with floods
 
 *2024-10-16 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202225) · `si`
 
-ගංවතුර තත්ත්වය බැස යාමත් සමඟ බෝවන රෝග වැලඳීමේ වැඩි අවදානමක් පවතින බව මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය පවසයි.
+Floods increase disease risk: CHOGM warns of diarrhea, blood diarrhea, rat fever. Displaced persons sheltered in schools face health risks. Authorities reopen flooded schools, prioritizing safety measures.
 
-එම සංගමයේ සඳුන් රත්නායක මහතා සඳහන් කළේ, පාචනය, ලේ අතීසාරය, මී උණ, පණු රෝග වැනි රෝග ලක්ෂණ ඇති නම් හැකි ඉක්මනින් වෛද්‍ය ප්‍රතිකාර සඳහා යොමු වියයුතු බවය.
+🟩
 
-"ඔබ විසින් මේ දිනවල ලබාගන්නා ආහාර පිරිසිදු, නැවුම් ආහාර පමණක් ලබාගැනීමටත්, එම ආහාර උණුවෙන් සකස් කර ගන්නා ලද ආහාර පමණක් ලබාගැනීමටත් කටයුතු කරන්න. විශේෂයෙන්ම ඔබ ලබාගන්නා ජලය උණුකර නිවාගත් ජලය හෝ පාලනය සඳහා සුදුසු බෝතල් ජලය පමණක් ලබාගැනීමට කටයුතු කරන්න. ඒ වගේම ඔබ මේ දිනවලදී ඔබගේ ශරීරයේ යම් කිසි ස්ථානයක තුවාලයක් නැත්නම් සීරිමක් වගේ සමේ යම් හානිවීමක් සිදුව ඇත්නම් ඔබ ගංවතුරට නිරාවරණය වුයේ නම් අනිවාර්යයෙන්ම මී උණ වැලඳීමේ ප්‍රවණතාවයක් පැවතිය හැකියි. ඒ නිසා ඔබ මී උණ සඳහා ප්‍රතිකාර ලබාගැනීමට යොමු වන්න."
+The Public Health Inspectors Association (CHOGM) says that there is ample risk of contagious diseases with the descendants of the floods.
 
-මේ අතර පැවති අධික වර්ෂාපතනය හේතුවෙන් පවුල් 40,758කට අයත් පුද්ගලයින් 159,511 දෙනෙකු බලපෑමට ලක්ව ඇති බව අපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+Sandar Ratnayake said that if diarrhea, blood diarrhea, rat fever, rat fever, should be directed to medical treatment as soon as possible.
 
-ආපදා තත්ත්වය හේතුවෙන් මරණ 3ක් වාර්තා වී ඇති අතර පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා තිබේ.
+"The food you get these days to receive clean, fresh food and get only food prepared from the fever of fever. Especially arrange to get the water or control of the water or control of the water you get. And if you have a harmless skin, if you have any injury or seaful skin in your body, you may have a tendency to embrace rat fever.. So refer to treat you with rat fever. "
+
+Among the heavy rainfall, 159,511 persons belonging to 40,758 families have been affected by the Disaster Management Center.
+
+Three deaths have been reported due to the disaster and two injured.
+
+The Disaster Management Center said that 10,361 persons belonging to 2,433 families in 80 safety places are staying.
 
 ...
 
 [Data](articles/4a64a3b9.json)
+
+[Extended Data](ext_articles/4a64a3b9.ext.json)
 
 ---
 
@@ -111,6 +211,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/f27d0a9f.json)
+
+[Extended Data](ext_articles/f27d0a9f.ext.json)
 
 ---
 
@@ -784,17 +886,23 @@ There is no doubt that theoretical understanding is crucial in making economic d
 
 ---
 
-### சீரற்ற காலநிலையால் 159,547 பேர் பாதிப்பு
+### 159,547 people are affected by random climate
 
 *2024-10-16 01:35:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-159-547-பேர்-பாதிப்பு/175-345532) · `ta`
 
-அனர்த்த முகாமைத்துவ நிலையம் விடுத்துள்ள அறிக்கைக்கு அமைய, கம்பஹா மாவட்டத்திலேயே அதிக பாதிப்புகள் பதிவாகியுள்ளன.
+Climate disaster affects 159,547 in Gampaha district. 10,361 people from 2,433 families evacuated.
 
-அதேநேரம், 2,433 குடும்பங்களைச் சேர்ந்த 10,361 பேர் தங்களது வீடுகளிலிருந்து வெளியேற்றப்பட்டுப் பாதுகாப்பான இடங்களில் தங்க வைக்கப்பட்டுள்ளனர் என அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது. (a)
+🟩
+
+According to a report issued by the Disaster Management Center, the Gampaha district has been hit.
+
+At the same time, 10,361 people from 2,433 families have been evacuated from their homes and are housed in safe places, the Disaster Management Center said.. (A)
 
 ◼️
 
 [Data](articles/68b33b2e.json)
+
+[Extended Data](ext_articles/68b33b2e.ext.json)
 
 ---
 
@@ -1407,6 +1515,22 @@ The Railway Department has announced that the railway services have been tempora
 [Data](articles/c6aa30a5.json)
 
 [Extended Data](ext_articles/c6aa30a5.ext.json)
+
+---
+
+### ඇල්ල චිල් හෝටලය ලෝකයෙන්ම දෙවැනි තැනට
+
+*2024-10-15 19:29:04* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-චිල්-හෝටලය-ලෝකයෙන්ම-දෙවැනි-තැනට/11-412514) · `si`
+
+ලොව පුරා සංචාරකයන්ගේ මනාපය අනුව ට්‍රිප්ඇඩ්වයිසර් සංචාරක මාර්ගෝපදේශක වෙබ්අඩවිය BEST OF THE BEST RESTAURANTS නමින් කළ මත විමසුමකදී, ලොව හොඳම රෙස්ටුරන් අතර දෙවැනි ස්ථානය, ඇල්ල චිල් රෙස්ටුරන් හිමිකර ගෙන තිබේ.
+
+මීට පෙර චිල් රෙස්ටුරන් දකුණු ආසියාවේ ‍හොඳම දෙවැනි රෙස්ටුරන්ට් එක ලෙසටද තේරී පත්විය.
+
+ආහාර පාන, සත්කාර සේවා ඇතුළු අංශ කිහිපයක් තම මනාපයට හේතුව බව සංචාරකයන් විසින් තබන ලද සටහන්හි දැක්වෙයි.
+
+◼️
+
+[Data](articles/beff1764.json)
 
 ---
 
@@ -2235,101 +2359,5 @@ The President said that projects to achieve the goals of the energy sector withi
 [Data](articles/a9583ba6.json)
 
 [Extended Data](ext_articles/a9583ba6.ext.json)
-
----
-
-### Bangladesh harassed Harunara
-
-*2024-10-15 16:04:22* · [`adalk`](https://www.ada.lk/sports/බංග්ලාදේශය-හතුරුසිංහට-හතුරු-වෙයි---වහාම-සේවය-අත්හිටුවයි/9-412506) · `si`
-
-Bangladesh cricket team faces turmoil: Head coach suspended, team banned for 48 hours, main training location to change.
-
-🟩
-
-Bangladesh head coach Chandika Hathurusinghe has been suspended for immediate effect.
-
-Bangladesh cricket has been banned for 48 hours for disciplinary reasons.
-
-He is also scheduled to remove Bangladesh main training.
-
-◼️
-
-[Data](articles/76e8ee01.json)
-
-[Extended Data](ext_articles/76e8ee01.ext.json)
-
----
-
-### Hathurusinghe will be removed
-
-*2024-10-15 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202206) · `si`
-
-Chandika Hathurusinghe suspended as Bangladesh cricket coach. Former West Indies player named interim coach until 2025 Champions Trophy. Current president questioned about recovery process.
-
-🟩
-
-Bangladesh Cricket authorities have been suspended to suspend the discipline of Chandika Hathurusinghe, the main coach of the Bangladesh cricket team.
-
-It is reported that his service has been suspended for 48 hours and action will be taken to complete his service as immediately.
-
-Former West Indies is due to be the interim coach until the 2025 Champions Trophy.
-
-In February, Hathurushe joined the second group as the main cricket coach in Bangladesh.
-
-However, the former leaders and the present Cricket President Farooch Ahmed also have been questioned to recover.
-
-◼️
-
-[Data](articles/d82a34f9.json)
-
-[Extended Data](ext_articles/d82a34f9.ext.json)
-
----
-
-### “The government will take action to recover tax money”
-
-*2024-10-15 16:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரிப்-பணத்தை-மீட்க-அரசாங்கம்-நடவடிக்கை-எடுக்கும்/175-345509) · `ta`
-
-Government vows to reclaim unpaid tax from convicted businessman. Cabinet spokesperson announces measures to recover 3.5 billion tax owed by WM Men's director.
-
-🟩
-
-Rs.. Cabinet Spokesperson Vijitha Herath said that the government will take steps to recover the tax money payable to the Director of WM Men's and Company Limited, who has been sentenced to six months' imprisonment for failing to pay a 3.5 billion tax.
-
-The suspect has been jailed for failing to pay taxes and only six months in jail for the government.. He said at a weekly meeting announcing the Cabinet decisions that the 3.5 billion tax would not be paid.
-
-We must intervene in the issue of recovering that tax money.
-
-◼️
-
-[Data](articles/ff4f9bd6.json)
-
-[Extended Data](ext_articles/ff4f9bd6.ext.json)
-
----
-
-### Graduate female death
-
-*2024-10-15 15:55:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறி-விழுந்த-பட்டதாரி-பெண்-மரணம்/175-345508) · `ta`
-
-A 30-year-old graduate woman died after falling from the upper floor of her home. She was staying temporarily with friends in Battaramulla. The incident occurred around 6:40 pm on Friday. Police reported she was taken to Colombo National Hospital for treatment.
-
-🟩
-
-Talangama police said that a graduate woman died after falling from the insecure area of ​​the upper floor of the two -storey house, which was completed.
-
-Hansani Bhagya Jayatilaka, a 30 -year -old woman from Kallake Mandiya, who was appointed as the Management Assistant at the Department of Internal Affairs, has died.
-
-The woman has been temporarily staying with three more women in the back of the two -storey house in Battaramullai main road, Sampath Place.. When the girl went to 6.40 pm on Friday (11), her friend called her to prepare her shrimp fish for dinner.
-
-When the friend then went to the bathroom, he heard the sound of a scream and saw that his girlfriend was lying down from the top floor and immediately told the owner.
-
-Subsequently, the neighbors have been admitted to the Colombo National Hospital by ambulance and are being treated in the emergency department, police said.
-
-◼️
-
-[Data](articles/e9567a90.json)
-
-[Extended Data](ext_articles/e9567a90.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 12:39:29**
+As of **2024-10-17 12:57:58**
 
 ## Newspaper Stats
 
-*Scraped **49,959** Articles*
+*Scraped **49,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,110 @@ economynextcom | 3,062
 dailyftlk | 3,406
 adalk | 4,646
 dailymirrorlk | 4,733
-adaderanalk | 5,914
+adaderanalk | 5,915
 tamilmirrorlk | 6,838
-virakesarilk | 7,984
+virakesarilk | 7,990
 adaderanasinhalalk | 8,652
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,959 (100.0%) of 49,959 articles have been extended.
+49,966 (100.0%) of 49,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### The body of an unidentified woman in Nuwara Eliya is recovered
+
+*2024-10-17 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/196496) · `ta`
+
+An unidentified woman's body has been recovered from the Nuwara Eliya main bus station on Thursday morning, Nuwara Eliya Police said.
+
+பேருந்து நிலையத்தினுள் ஒருவர் இறந்து  தரையில் கிடப்பதாக நுவரெலியா மாநகர சபை ஊழியர்  ஒருவர் பொலிஸாருக்கு அறிவித்ததை அடுத்து சடலம் மீட்கப்பட்டுள்ளது.
+
+உயிரிழந்த நபருடன் இன்னுமொரு பெண்ணும் கடந்த 5 நாட்களுக்கு முன்பிலிருந்து நுவரெலியா பேருந்து தரிப்பிடத்தில் யாசகம் பெற்று  வந்ததாக தகவல் வெளியாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+Police suspect who has not yet been identified who died in the incident and may have died due to too much cold.
+
+இந்நிலையில், சடலம் மீட்கப்பட்டு பிரேத பரிசோதனைக்காக நுவரெலியா மாவட்ட பொது  வைத்தியசாலையில் பிரேத அறையில் வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2b3c8596.json)
+
+[Extended Data](ext_articles/2b3c8596.ext.json)
+
+---
+
+### நீர் நிரம்பிய குழியில் மூழ்கி மாணவன் உயிரிழப்பு
+
+*2024-10-17 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/196486) · `ta`
+
+A student drowned in a water-filled pit while swimming with friends in Kandapadi village. Police reported his death on Tuesday.
+
+🟩
+
+கொடதெனியாவ ஹல்ஒலுவ கந்த பிரதேசத்தில் உள்ள நீர் நிரம்பிய குழியில் மூழ்கி மாணவன் ஒருவன் நேற்று புதன்கிழமை  (16) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்த மாணவன் தனது 05 நண்பர்களுடன் இணைந்து நேற்று புதன்கிழமை (16) மாலை நீர் நிரம்பிய குழியில் நீராடச் சென்றுள்ளார்.
+
+◼️
+
+[Data](articles/5a467c8c.json)
+
+[Extended Data](ext_articles/5a467c8c.ext.json)
+
+---
+
+### Former Presidents CBK, Maithripala and Ranil share same stage
+
+*2024-10-17 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102754/former-presidents-cbk-maithripala-and-ranil-share-same-stage) · `en`
+
+The 45th National Conference of Chartered Accountants took place yesterday (16) in Colombo, featuring a rare gathering of three former Presidents of Sri Lanka—Chandrika Bandaranaike Kumaratunga, Maithripala Sirisena, and Ranil Wickremesinghe—on the same stage.
+
+The former leaders shared their views on the country’s political landscape and answered questions presented to them at the conference, making the event a highlight in the nation’s political discourse.
+
+Speaking during the event, former President Maithripala Sirisena reflected on the political state of the country, emphasizing the need for integrity at all levels of government.
+
+He remarked: “A country cannot progress simply because its ruler is good. The Prime Minister and the Cabinet must also be clean. There must be no room for corruption and fraud. I don’t like some people blaming politicians that the country has been corrupt for the last 74 years. I completely reject that. It’s not just about blaming politicians.”
+
+...
+
+[Data](articles/d30d86d2.json)
+
+[Extended Data](ext_articles/d30d86d2.ext.json)
+
+---
+
+### நாடாளுமன்றம் சென்ற எமது மலையக பிரதிநிதிகள் என்ன செய்தனர்? தொலைக்காட்சி விவாதங்களில் கூட அடித்துக்கொள்ளும் நிலைமை அல்லவா காணப்பட்டது - அனுஷா சந்திரசேகரன்
+
+*2024-10-17 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196492) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan MP Anusha Chandrasekaran denies corruption allegations, claims she represents her father's legacy in politics. She vows to bring change to Nuwara Eliya district through youth-oriented policies.
+
+🟩
+
+“இலங்கையில் கொள்கை அரசியலை முன்னெடுத்த பெருந்தலைவர் அமரர் சந்திரசேகரனின் மகள்தான் நான். மாறாக கோடிகளுக்கு விலைபோகும் நபர் கிடையாது. Politicians who bought crores are talking about crores today. ”- Attorney -at -Law Anusha Chandrasekaran, Nuwara Eliya district parliamentary candidate, called the United Democratic Voice.
+
+தலவாக்கலையிலுள்ள தேர்தல் அலுவலகத்தில் இன்று வியாழக்கிழமை (17) நடைபெற்ற ஊடக சந்திப்பின்போதே அவர் மேற்கண்டவாறு கூறினார்.
+
+“I was independent in the 2020 general election. அப்போதுகூட முன்னாள் அமைச்சர் பஸில் ராஜபக்சவிடம் 20 கோடி ரூபா பணம் வாங்கிவிட்டே தேர்தலில் போட்டியிட்டதாக எதிரணி தரப்பில் பிரச்சாரம் முன்னெடுக்கப்பட்டது.
+
+அதுமட்டுமல்ல வாக்குகளை சிதறடிப்பதற்காகவே நான் களமிறக்கப்பட்டுள்ளேன் என்றெல்லாம்கூட தகவல்கள் பரப்பட்டன. ஆனால் இவை எதுவும் உண்மை அல்ல. எனது தந்தையின் நண்பர்களின் உதவியுடன்தான் பொதுத்தேர்தலை எதிர்கொண்டேன்.
+
+...
+
+[Data](articles/46e83605.json)
+
+[Extended Data](ext_articles/46e83605.ext.json)
+
+---
 
 ### The singer who fell from the upper west
 
@@ -88,6 +178,32 @@ Special advisory issued for Sri Lankans in Middle East due to ongoing turmoil. E
 
 ---
 
+### எனது அமைச்சரவையில் இடம்பெற்றிருந்த ஒருவரின்  கணவர் கேள்விப்பத்திரத்தை பெறுவதற்காக பல மில்லியன் டொலர் இலஞ்சம் வழங்க முயன்றார்- முன்னாள் ஜனாதிபதி சந்திரிகா
+
+*2024-10-17 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/196489) · `ta`
+
+எனது அரசாங்கத்தில் இராஜாங்க அமைச்சராக பதவிவகித்த பெண் ஒருவரின் கணவர் எனக்கு பல மில்லியன் டொலர்களை  இலஞ்சமாக வழங்க முன்வந்தார் என முன்னாள் ஜனாதிபதி சந்திரிகா குமாரதுங்க தெரிவித்துள்ளார்
+
+வர்த்தகர் ஒருவர் கேள்விப்பத்திரத்தை பெற விரும்பினால் அவர் ஒரு மில்லியன் டொலருடன் எங்களிடம் வருவார்.இந்த கேள்விப்பத்திரத்தை எனக்கு தாருங்கள் என வேண்டுகோள் விடுப்பார்
+
+When I became the Prime Minister, I came to my office with $ 5 million. Take it and go out immediately
+
+The husband of a woman of my government's diplomatic minister came with a large amount of money
+
+உடனடியாக அதனை எடுத்துக்கொண்டு வெளியே போகாவிட்டால் நான் உங்களை கைதுசெய்வேன் என எச்சரித்தேன்.
+
+There was also a president who said that stealing as much as you could stole but not caught. அவர் இதனை தனது அமைச்சரவைக்கும் நாடாளுமன்ற உறுப்பினர்களிற்கும், தனது கட்சிக்காரர்களிற்கும் தெரிவித்துள்ளார்.
+
+Traders will come forward to bribe the government's plans, and the wider corruption will eventually lead to bankruptcy.
+
+◼️
+
+[Data](articles/141ad930.json)
+
+[Extended Data](ext_articles/141ad930.ext.json)
+
+---
+
 ### Steal as much as possible, but don't get caught ”
 
 *2024-10-17 11:30:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடிந்தவரை-திருடுங்கள்-ஆனால்-பிடிபடாதீர்கள்/175-345607) · `ta`
@@ -111,6 +227,28 @@ There was a president who says, "Steal as much as you can, but don't get caught.
 [Data](articles/a115c326.json)
 
 [Extended Data](ext_articles/a115c326.ext.json)
+
+---
+
+### சீனாவில் வெற்றிகரமான  மோசடி எதிர்ப்பு நடைமுறை
+
+*2024-10-17 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196488) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Chinese police collaborated with 76 countries in Interpol to combat fraud. They identified 1,770 fraudulent sites, arrested over 2,000 suspects, and prevented $50 million+ illegal financial frauds.
+
+🟩
+
+Chinese police participated in anti -fraud activities with 76 member states within the Interpol structure from March to June 2022. சர்வதேச ரீதியில் 1,770 மோசடி மறைவிடங்களை அடையாளப்படுத்தவும், 2,000 க்கும் மேற்பட்ட சந்தேக நபர்களைக் கைது செய்யவும் உதவியதோடு 50 மில்லியன் அமெரிக்க டொலருக்கும் அதிகமான சட்டவிரோத நிதி மோசடி செய்யப்படுவதையும் தடுத்தது.
+
+◼️
+
+[Data](articles/09475091.json)
+
+[Extended Data](ext_articles/09475091.ext.json)
 
 ---
 
@@ -159,6 +297,28 @@ The deceased has gone to bathe with five friends of the same age.
 [Data](articles/46c1d949.json)
 
 [Extended Data](ext_articles/46c1d949.ext.json)
+
+---
+
+### Fisherman's body recovered in Hungama
+
+*2024-10-17 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196480) · `ta`
+
+Fisherman's body found in Kalamettiya, Hungama. Cause of death under investigation.
+
+🟩
+
+The body of a fisherman has been recovered after being floated in the Kalamettiya area of ​​the Hungama Police Division, police said.
+
+The body of the body was fishing in his own boat on Wednesday morning (16).In the meantime, he was recovered in the evening.
+
+மீனவர் உயிரிழந்தமைக்கான காரணத்தை கண்டறிய மேலதிக விசாரணைகளை ஹுங்கம பொலிஸார்  மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/260d588c.json)
+
+[Extended Data](ext_articles/260d588c.ext.json)
 
 ---
 
@@ -2153,185 +2313,5 @@ The police media spokesman said that the fraudsters claiming to be running a com
 [Data](articles/82107b5a.json)
 
 [Extended Data](ext_articles/82107b5a.ext.json)
-
----
-
-### Rs. A core whiskey and cigarettes are not able to
-
-*2024-10-16 18:08:18* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටියක-විස්කි-හා-දුම්වැටි-කටුනායකින්-පන්නන්න-බැරි-වෙයි/11-412532) · `si`
-
-Sri Lanka CID seizes whiskey, cigarettes at Katunayake airport. Passenger arrested with 69 bottles and 2,380 cigarettes. Further investigation ongoing.
-
-🟩
-
-Criminal Investigations Department (CID) has seized a large number of whiskey bottles and foreign manufactured cigarettes were illegally deferred to the Katunayake airport.
-
-He is a 31-year-old resident of the Ladula, Nuwara Eliya.
-
-He had arrived at the SriLankan Airlines on Dubai to 05 pm on the morning of 10/16am.
-
-Katunayake Airport Criminal Investigations have arrested 69 valentine and black labels in the baggage he brought and 2,380 foreign manufactured cigarettes of Manchester and Bensor and Benson and Hedges.
-
-Steps have been taken to hand over the smoking and whiskey bottles he was illegally brought to Sri Lanka with the passenger in further investigations.
-
-◼️
-
-[Data](articles/eb72c7a1.json)
-
-[Extended Data](ext_articles/eb72c7a1.ext.json)
-
----
-
-### The government has loans 41,900 crores at 13 days
-
-*2024-10-16 18:02:02* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුව-දවස්-13-ට-රුපියල්-කෝටි-41-900-ක-ණය-අරං/11-412531) · `si`
-
-Government obtains large loans, total 41,900 crore, increasing debt burden. Pensioners continue receiving 3000 per month. New credit of 97 billion taken recently. Loans used for unspecified investments. Government criticized for lack of transparency regarding debt management.
-
-🟩
-
-The Matale District Directory Leader Leader Rohnie Kaviratne said that the government had obtained Rs.
-
-The government continues to get lost in debt.But there is no relief to the country.The pensioners still receive Rs. There are no two months of the month of 3000 each.Ms. Kaviratha said that it is clearly visible to a public meeting held in Dambulla.
-
-02: Rs. 142.2 million or Rs. 14,200 million)
-
-⚫️ Overchober 09: Rs. 85 billion or Rs. 8,500
-
-⚫️ Overlooromber 11: Rs. 95 billion or Rs. 9,500
-
-The government has obtained new credit to 97 rupees, almost Rs. 97 billion.
-
-In the past few days the government has Rs.. 3,223 crores each, that is Rs.. 134.29 crores each has been obtained. What is taking this debt?What investment does these loans do?The government should explain
-
-◼️
-
-[Data](articles/bd9aad05.json)
-
-[Extended Data](ext_articles/bd9aad05.ext.json)
-
----
-
-### Sri Lanka checking whether it is becoming a cyber crimes hub: Minister
-
-*2024-10-16 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-checking-whether-it-is-becoming-a-cyber-crimes-hub-minister-183881/) · `en`
-
-ECONOMYNEXT – The arrest of Chinese, Indian and Thai nationals in multiple locations who were apparently targeting financial systems and banks in third countries have left authorities wondering whether Sri Lanka is becoming a cyber crimes hub.
-
-“We have to see if Sri Lanka is a cyber crimes hub,” Minister Vijitha Herath told reporters, “and whether our financial system is being affected by this.”
-
-The Police have arrested over 200 foreign nationals, mainly Chinese, who were housed in several locations, including Kandy, Avissawella, Rajigiriya, and Negombo.
-
-“They had booked 72 rooms in a hotel in Kandy where these people had access to pool and kitchen facilities,” Police Spokesman Nihal Thalduwa said.
-
-Scammers come to the Indian Ocean island on tourist visas, Thalduwa said.
-
-One reason Sri Lanka could be an attractive destination for cyber scamming hubs, he said, was the easy access to housing, or lodging. “It’s easier to get houses here.”
-
-...
-
-[Data](articles/0be13219.json)
-
-[Extended Data](ext_articles/0be13219.ext.json)
-
----
-
-### Police seek public assistance to identify deceased persons in separate cases
-
-*2024-10-16 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102742/police-seek-public-assistance-to-identify-deceased-persons-in-separate-cases) · `en`
-
-Sri Lanka Police is seeking public assistance to identify two deceased individuals related to two separate incidents in Homagama and Kegalle areas.
-
-With regard to the first case, Homagama Police had received a complaint on October 01 regarding the discovery of an unidentified body. The facts related to the deceased was reported to the Homagama Magistrate’s Court, and a magisterial inquiry was conducted. The body was then placed in the Homagama Hospital mortuary for a post-mortem examination.
-
-According to police, the identity of the deceased has yet to be confirmed. They estimate the individual to be approximately 5 feet and 2 inches tall with an average build. However, the condition of the body has made identification difficult, police said.
-
-Accordingly, any information regarding the relevant deceased person are requested to be provided through the following contact numbers:
-
-...
-
-[Data](articles/2baa192e.json)
-
-[Extended Data](ext_articles/2baa192e.ext.json)
-
----
-
-### Fire destroys a school building
-
-*2024-10-16 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202246) · `si`
-
-School building destroyed by fire; 2-story multipurpose facility burned down; students evacuated; police investigating; school authorities facing crisis due to loss of classrooms.
-
-🟩
-
-A two storied fire was completely destroyed by a sudden fire.
-
-The Multipurpose two storied building belonging to the Akuressa Education Zone of the Matara District has on fire.
-
-The residents of the area and the general area had taken measures to see their children in the stadium and screaming on how to shoot at the stadium yesterday.
-
-However, at that time all the items in the building had been burnt down, our correspondent said.
-
-A dog was also killed in the school premises.
-
-The building was destroyed by fire, mattress chairs and electrical equipment worth more than Rs.
-
-Matara Division Criminal Investigations Officers today (16) and commenced further investigations into the incident.
-
-According to our correspondent, the police are conducting the suspects to arrest the suspects.
-
-In this building, five classes have been operated in the school and the school authorities are faced with a crisis.
-
-...
-
-[Data](articles/bc2b50a7.json)
-
-[Extended Data](ext_articles/bc2b50a7.ext.json)
-
----
-
-### Sri Lanka stocks close up, profit taking seen
-
-*2024-10-16 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-profit-taking-seen-183942/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 0.27 percent, or 32.79 points, at 12,290; while the more liquid S&P SL20 Index closed up 0.17 percent, or 6.15 points, at 3,613.
-
-“In the last two weeks the market went up considerably, sometimes by 100 points, so now we see profit taking,” Softlogic Stockbrokers said.
-
-Top turnover generators were Dialog Axiata (up at 10.70), Digital Mobility Solutions Lanka (up at 42.00), Dipped Products (up at 38.70), John Keells Holdings (down at 195.75), and Maskeliya Plantations (up at 56.20).
-
-Crossings were recorded on Dialog, JKH and Hemas Holdings (up at 78.80).
-
-“There was foreign appetite on John Keells because of the Cinnamon Life opening. We expect interest on this counter to continue.”
-
-...
-
-[Data](articles/6a35ca3b.json)
-
-[Extended Data](ext_articles/6a35ca3b.ext.json)
-
----
-
-### The body of the driver's body was recovered from the end of the world
-
-*2024-10-16 17:34:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உலக-முடிவிலிருந்து-வீசப்பட்ட-சாரதியின்-சடலம்-மீட்பு/76-345570) · `ta`
-
-Body of 23-year-old three-wheeler driver recovered from ditch near Wellawaya. Driver killed and thrown into ditch. Commando officials retrieved body using ropes. Police involved in investigation. Incident occurred on Wednesday, March 16th.
-
-🟩
-
-The body of a 23 -year -old three -wheeler driver from Holly Ela Rosette, who was killed and thrown into the ditch from the end of the world, was found on Wednesday (16) after Wednesday (16).
-
-A group of commando officials of the Wellawaya Kuda Kuda Oya Army Camp with the help of ropes on Wednesday afternoon (16), Madulzima descended into the small world's ditch.
-
-The body was tied up with a rope tied to the fertilizer bag with great effort, police said.
-
-◼️
-
-[Data](articles/6a1048b9.json)
-
-[Extended Data](ext_articles/6a1048b9.ext.json)
 
 ---

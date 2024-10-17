@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 23:39:52**
+As of **2024-10-17 23:59:18**
 
 ## Newspaper Stats
 
-*Scraped **50,040** Articles*
+*Scraped **50,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,106 @@ adalk | 4,655
 dailymirrorlk | 4,733
 adaderanalk | 5,928
 tamilmirrorlk | 6,843
-virakesarilk | 8,010
+virakesarilk | 8,013
 adaderanasinhalalk | 8,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,040 (100.0%) of 50,040 articles have been extended.
+50,043 (100.0%) of 50,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Pain. President attention on northern lands- Ramalingam Chandrasekhar
+
+*2024-10-17 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196538) · `ta`
+
+President focuses on releasing land in northern areas. Public meeting discusses military-owned land and resettlement. Ramalingam Chandrasekhar pledges to release land used by military in Northern Territory.
+
+🟩
+
+National People's Power Jaffna District Organizer Ramalingam Chandrasekhar says the President has already focused on the release of land in Vala North.
+
+A public meeting was held in Valikamam, Jaffna on Thursday (17) by public organizations.
+
+The meeting was discussed on the release of military -owned land and resettlement. During the time, many people had expressed their mental support and pains on the land and the resettlement of the National People's Power, Ramalingam Chandrasekhar.
+
+Chandrasekhar said that the President has already focused on the release of land in the North.. He had discussed with the relevant authorities and asked for details.
+
+So he pledged to the assembled public organizations and people that the land in the use of the military in the Northern Territory would be released.
+
+◼️
+
+[Data](articles/5d6b0619.json)
+
+[Extended Data](ext_articles/5d6b0619.ext.json)
+
+---
+
+### Sri Lanka won the West Indies and won by 9 wickets (2 - 1) and made history
+
+*2024-10-17 23:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/196537) · `ta`
+
+Sri Lanka wins West Indies T20 series 2-1, defeating opponents by 9 wickets. History-making victory after previous losses in 2016, 2020, and 2021. Key performances from Nissanka and Kusal Mendis.
+
+🟩
+
+Sri Lanka easily won by 9 wickets with the help of the leading players' cricket match against the West Indies on Thursday (17) at the Rangiri Dambulla International Stadium.
+
+With this victory, Sri Lanka won the three -match international T20 cricket series by 2 - 1.
+
+This is the first time Sri Lanka won the Bilateral International T20 series against the West Indies.
+
+Sri Lanka lost in 2016 and lost in 2020 and 2021.
+
+Sri Lanka won the match for the same match to the West Indies, scoring 166 runs in 18 overs.
+
+Both and Nissanka and Kusal Mendis shared 60 runs off 32 balls.
+
+Beth and Nissanka, who was outrageous of the two, lost 22 balls with 7 pounds and one six.
+
+Initially, Kusal Mendis, who was relaxed, then got a stunning bats and got the runs fast. Kusal Perera also got the fast runs.
+
+They shared 106 runs off 76 balls in the 2nd wicket that were not divided.
+
+Gusal Mendis did not play with 50 balls with 5 pounds and 3 sixes and 55 off 36 balls with 36 balls.
+
+...
+
+[Data](articles/2027046b.json)
+
+[Extended Data](ext_articles/2027046b.ext.json)
+
+---
+
+### Ranil Wickremesinghe faces the challenge to increase state income by fifteen percent to repay the loan in 2027
+
+*2024-10-17 22:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/196536) · `ta`
+
+Ranil Wickremesinghe challenges new government to increase state income by 15% to repay loans by 2027. Economic growth needed annually to meet goal. Experienced team essential for next parliament to address economic crisis. Current debt repayment strategies successful but new parliament must implement stability agreement. Corruption prevention measures also crucial. Experienced politicians necessary to achieve economic targets and prevent country collapse.
+
+🟩
+
+The new government will face the challenge to increase state revenue in GDP by 2027, which will start repaying its foreign debt by fifteen percent.
+
+To reach that goal every year must reach a percent economic growth. So the experienced team that does not take over responsibilities must be elected to the next parliament.
+
+In the face of economic crisis. Former President and UNP leader Ranil Wickremesinghe said the committee should win if the financial strength is strong.
+
+He said this in a special speech on Wednesday (16) on the country's current economy and political situation.
+
+When I declared that the country was unable to repay the debt, I took charge of the country as president. On that occasion, my main target was to restore the country from bankruptcy. For this purpose, the International Monetary Fund, the International Monetary Fund, has been in agreement with 18 countries and private bailouts.
+
+...
+
+[Data](articles/e625c170.json)
+
+[Extended Data](ext_articles/e625c170.ext.json)
+
+---
 
 ### Israel foreign minister says Hamas leader Sinwar is dead
 
@@ -2385,83 +2473,5 @@ Shene Haixiong pointed out that the Chinese Media Group is exchanged between Chi
 [Data](articles/bf244b71.json)
 
 [Extended Data](ext_articles/bf244b71.ext.json)
-
----
-
-### The kidnapper who went to bribe OIC
-
-*2024-10-17 09:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/OIC-க்கு-லஞ்சம்-கொடுக்கச்-சென்ற-கடத்தல்காரர்/175-345603) · `ta`
-
-A 50-year-old man from Mattakkuli was arrested for attempting to bribe a police officer. He called the station offering to facilitate drug trafficking. The officer reported this to the Bribery Commission, leading to his arrest.
-
-🟩
-
-Mattakkuli police have arrested a man who tried to bribe a police officer.
-
-மட்டக்குளி பொலிஸ் நிலையத்தின் பதில் பொறுப்பதிகாரிக்கு நேற்றைய தினம் (16)  ஒருவர் தொலைபேசியில் தொடர்பு கொண்டு போதைப்பொருள் கடத்தலை மேற்கொள்ள சந்தர்ப்பம் வழங்குமாறு கோரியுள்ளார்.
-
-The Police Officer has announced the matter to the Bribery Commission.
-
-இதையடுத்து, குறித்த சந்தேக நபரை பொலிஸ் நிலையத்திற்கு அழைத்து, சந்தேகநபர் 50,000 ரூபாயை வழங்க முற்படும் போது, ​​இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகளால் சந்தேகநபர் கைது செய்யப்பட்டார்.
-
-கைது செய்யப்பட்ட சந்தேகநபர் மட்டக்குளி பிரதேசத்தை சேர்ந்த 50 வயதுடையவர் என தெரிவிக்கப்பட்டுள்ளது. R
-
-◼️
-
-[Data](articles/8624d661.json)
-
-[Extended Data](ext_articles/8624d661.ext.json)
-
----
-
-### IOC - க்கு லஞ்சம் கொடுக்கச் சென்ற கடத்தல்காரர்
-
-*2024-10-17 09:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IOC-க்கு-லஞ்சம்-கொடுக்கச்-சென்ற-கடத்தல்காரர்/175-345603) · `ta`
-
-Mattakkuli police arrest bribery suspect. Officer offered bribe, reported to Bribery Commission. Suspect paid Rs 50,000 before arrest.
-
-🟩
-
-பொலிஸ் அதிகாரி ஒருவருக்கு இலஞ்சம் கொடுக்க முயன்ற நபரை மட்டக்குளி பொலிஸார் கைது செய்துள்ளனர்.
-
-A person in charge of the Mattakkuli police station has telephoned the officer in charge yesterday (16) and asked for an opportunity to carry out drug trafficking.
-
-The police officer has announced the matter to the Bribery Commission.
-
-Subsequently, the suspect was arrested by the officials of the Bribery Commission when the suspect was summoned to the police station and tried to pay Rs 50,000.
-
-The arrested suspect is 50 -year -old from Mattakkuli area. Remble
-
-◼️
-
-[Data](articles/ab5beab4.json)
-
-[Extended Data](ext_articles/ab5beab4.ext.json)
-
----
-
-### 24 வருடங்களுக்குப் பின் கிடைத்த கொடூர தண்டனை
-
-*2024-10-17 08:59:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-வருடங்களுக்குப்-பின்-கிடைத்த-கொடூர-தண்டனை/175-345602) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil Nadu: Murder case verdict after 24 years. 50-year-old man sentenced to death for murder in Imayam police station area in 2000. Case concluded yesterday after lengthy trial in Kallidaikurichi court.
-
-🟩
-
-காலி மேல் நீதிமன்றில் இடம்பெற்ற நீண்ட விசாரணைகளின் பின் கொலைவழக்கு ஒன்றின் தீர்ப்பு அறிவிக்கப்பட்டுள்ளது.
-
-கடந்த 2000ஆம் ஆண்டு பெப்ரவரி மாதம் 6ஆம் திகதி இமதுவ பொலிஸ் பிரிவுக்குட்பட்ட கொரட்டுஹேனகொட பிரதேசத்தில் இடம்பெற்ற கொலைச்சம்பவம் தொடர்பில், இமதுவ பகுதியைச் சேர்ந்த 50 வயதுடைய நபருக்கு மரண தண்டனை விதிக்கப்பட்டது.
-
-காலி மேல் நீதிமன்றில் இடம்பெற்ற வழக்கு விசாரணைகள் நிறைவடைந்ததை அடுத்து நேற்று (16) மரண தண்டனை விதிக்கப்பட்டது. R
-
-◼️
-
-[Data](articles/ff13fd5c.json)
-
-[Extended Data](ext_articles/ff13fd5c.ext.json)
 
 ---

@@ -29,5 +29,9 @@
       ]
     }
   },
-  "summary_lines": ""
+  "summary_lines": [
+    "Here's a summary of the text in approximately 200 characters:",
+    "",
+    "Sri Lanka's marine environment faces severe pollution from 26 ships over the past year, according to the Marine Environment Protection Authority. Recent ship accidents like the New Diamond and Express Pearl have caused significant damage to the coastal ecosystem. The authority reports 115 instances of water pollution observed in the past 12 months, with an estimated 6 million liters of pollutants affecting the water system annually. Measures are being taken to address this issue."
+  ]
 }

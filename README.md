@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 21:39:37**
+As of **2024-10-17 21:59:16**
 
 ## Newspaper Stats
 
-*Scraped **50,028** Articles*
+*Scraped **50,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,066
 dailyftlk | 3,406
 adalk | 4,655
 dailymirrorlk | 4,733
-adaderanalk | 5,924
+adaderanalk | 5,925
 tamilmirrorlk | 6,842
 virakesarilk | 8,006
 adaderanasinhalalk | 8,669
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,669
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,028 (100.0%) of 50,028 articles have been extended.
+50,029 (100.0%) of 50,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Development projects in Sri Lanka more through investments, grants, India says
+
+*2024-10-17 21:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102765/development-projects-in-sri-lanka-more-through-investments-grants-india-says) · `en`
+
+India has completed 60 grant projects in Sri Lanka and implementing 16 more currently, the development coming more through investments and grants and relatively less through debt instruments, India’s envoy to Sri Lanka said on Tuesday.
+
+Santosh Jha, the High Commissioner of India to Sri Lanka, also reaffirmed India’s support for island nation’s debt restructuring efforts, securing IMF support, and extending bilateral financial support to overcome immediate challenges.
+
+Emphasising the importance of a robust partnership between India and Sri Lanka, highlighting the intertwined destinies of the two nations, Jha – who was speaking at the 45th National Conference of CA Sri Lanka – underscored the shared geography, history, and future that bind the two countries.
+
+◼️
+
+[Data](articles/7e39291d.json)
+
+[Extended Data](ext_articles/7e39291d.ext.json)
+
+---
 
 ### Sri Lanka a target of 163 runs
 
@@ -2425,29 +2443,5 @@ As a result, the main goal of rural development projects should be the abolition
 [Data](articles/b7787536.json)
 
 [Extended Data](ext_articles/b7787536.ext.json)
-
----
-
-### The weather with the rain today
-
-*2024-10-17 07:17:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-மழையுடனான-வானிலை/175-345594) · `ta`
-
-Rainfall warning issued: Heavy rain expected in Northern Province, possible thunderstorms in Uva, Ampara, and Batticaloa districts. Public advised to take precautions against thunderstorms.
-
-🟩
-
-The Department of Meteorology has predicted that rainfall is still in many parts of the country.
-
-Accordingly, the department has predicted more than 50 mm of rainfall in some parts of the Northern Province.
-
-Accordingly, in some places in Uva, Ampara and Batticaloa districts, there is a possibility of rain or thundershowers in the evening or night.
-
-The Department of Meteorology has requested the public to take up the necessary security measures to avoid the dangers of thunderstorms.. (A)
-
-◼️
-
-[Data](articles/167294a1.json)
-
-[Extended Data](ext_articles/167294a1.ext.json)
 
 ---

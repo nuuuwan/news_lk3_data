@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 19:00:17**
+As of **2024-10-17 19:12:29**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 8,666
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,008 (100.0%) of 50,014 articles have been extended.
+50,014 (100.0%) of 50,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
 
-### කාසියේ වාසිය බ.ඉ. කොදෙව්වන්ට
+### Coin's advantage. West Indies
 
 *2024-10-17 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202279) · `si`
 
-ශ්‍රී ලංකාව හා සංචාරක බ.ඉ. කොදෙව් කණ්ඩායම අතර දඹුල්ලේ පැවැත්වෙන අවසන් විස්සයි20 තරගයේ කාසියේ වාසිය දිනූ බ.ඉ. කොදෙව් කණ්ඩායම පළමුව පන්දුවට පහරදීමට තීරණය කළේය.
+West Indies wins T20 match in Dambulla. Bats first against Sri Lanka. Series tied 1-1 after three games.
 
-තරග තුනකින් යුත් මෙම තරගාවලියේ පළමු තරග දෙක තරග 1-1ක් ලෙස ජයගෙන කණ්ඩායම් දෙකම මේ වනවිට සම තත්ත්වයේ රැඳී සිටියි.
+🟩
+
+Sri Lanka and Tourism. West Indies won the Advantage of the Twenty20 Competition of Twenty20 Competition in Dambulla.. West Indies decided to bat first.
+
+Both teams have been in the face of 1-1 matches with three matches with three matches.
 
 ◼️
 
 [Data](articles/d786e938.json)
+
+[Extended Data](ext_articles/d786e938.ext.json)
 
 ---
 
@@ -226,23 +232,29 @@ This College, 1939, S.WR. De Bandaranaike commenced in the name of de Bandaranay
 
 ---
 
-### தமிழ் மக்கள் தமது இருப்பை தக்கவைத்துக்கொள்ள தமிழர்களுக்கே வாக்களிக்க வேண்டும் - மிதிலைச்செல்வி
+### The Tamil people should vote for the Tamils ​​to maintain their presence - Mithilicchelvi
 
 *2024-10-17 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196518) · `ta`
 
-தமிழ் மக்கள் தமது இருப்பை தக்கவைத்துக்கொள்ள தமிழர்களுக்கே வாக்களிக்க வேண்டும் என தமிழ் மக்கள் கூட்டணியின் யாழ். தேர்தல் மாவட்ட வேட்பாளர் மிதிலைச்செல்வி ஸ்ரீபத்மநாதன் தெரிவித்துள்ளார்.
+Tamil politician Mithilachelvi urges voters to support Tamil candidates to preserve Tamil presence. He warns against voting for majority parties, emphasizing women's rights and past losses.
 
-யாழ். ஊடக அமையத்தில் இன்றைய தினம் வியாழக்கிழமை (17) நடைபெற்ற ஊடக சந்திப்பின்போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-தமிழ் மக்கள் தமது இருப்பை தக்கவைத்துக்கொள்ள தமிழர்களுக்கே வாக்களிக்க வேண்டும். பெரும்பான்மை கட்சிகளுக்கு வாக்களிப்பது மிக ஆபத்தானது.
+The Tamil people should vote for the Tamils ​​to retain their presence. Election District candidate Mithilachelvi Sripatmanathan said.
 
-அதேவேளை பெண்களுக்கு முன்னுரிமை அளிக்கப்பட வேண்டும். கடந்த காலங்களில் இழப்புக்களை பெருமளவில் சந்தித்தது பெண்களே. அவர்களுக்கு உதவ வேண்டும். அவர்களின் வாழ்க்கையில் மாற்றத்தை ஏற்படுத்த வேண்டும் என மேலும் தெரிவித்தார்.
+Yall. He was speaking at a media briefing held at the Media Center today (17).
 
-இந்த ஊடக சந்திப்பில் தமிழ் மக்கள் கூட்டணியில் யாழ். தேர்தல் மாவட்டத்தின் முதன்மை வேட்பாளரான சட்டத்தரணி வி. மணிவண்ணன், வேட்பாளர்களான சட்டத்தரணி உமாகரன் இராசையா, வரதராஜா பார்த்திபன் ஆகியோரும் கலந்துகொண்டிருந்தனர்.
+The Tamil people should vote for the Tamils ​​to retain their presence. Voting for the majority parties is very dangerous.
+
+While women should be prioritized. Women have suffered a large number of losses in the past. To help them. He added that they should change their lives.
+
+Tamil People's Alliance at this media meeting. Attorney -at -Law. Manivannan, candidates lawyer Umakaran Rasiah and Varadaraja Parthiban were also present.
 
 ◼️
 
 [Data](articles/12662d8b.json)
+
+[Extended Data](ext_articles/12662d8b.ext.json)
 
 ---
 
@@ -268,33 +280,45 @@ The tribunal’s proceedings, presided over by Justice Golam Mortuza Majumdar, s
 
 ---
 
-### ஈழ மக்கள் ஜனநாயக கட்சி அலுவலகம் கிளிநொச்சியில் திறப்பு!
+### Eelam People's Democratic Party office inauguration in Kilinochchi
 
 *2024-10-17 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/196515) · `ta`
 
-ஈழ மக்கள் ஜனநாயக கட்சியின் அலுவலகம் இன்று வியாழக்கிழமை (17) கிளிநொச்சி தர்மபுரம் பகுதியில் திறந்துவைக்கப்பட்டது.
+Eelam People's Democratic Party inaugurates office in Kilinochchi. Secretary General Douglas Devananda opens facility in Dharmapuram.
 
-ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயலாளர் நாயகம் டக்ளஸ் தேவானந்தாவால் இந்த கட்சி அலுவலகம் திறந்துவைக்கப்பட்டுள்ளது.
+🟩
+
+The office of the Eelam People's Democratic Party was opened today (17) in Dharmapuram, Kilinochchi.
+
+The party's office has been opened by Douglas Devananda, Secretary General of the Eelam People's Democratic Party.
 
 ◼️
 
 [Data](articles/ab65ed66.json)
 
+[Extended Data](ext_articles/ab65ed66.ext.json)
+
 ---
 
-### வட்டுக்கோட்டையில் கசிப்புடன் ஒருவர் கைது!
+### A man arrested for leaking at Vaddukoddai
 
 *2024-10-17 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196514) · `ta`
 
-வட்டுக்கோட்டை பொலிஸ் பிரிவுக்குட்பட்ட அராலி பகுதியில் கசிப்புடன் சந்தேக நபரொருவர் இன்று வியாழக்கிழமை (17) கைது செய்யப்பட்டுள்ளார்.
+Man arrested for leaks in Vaddukoddai. Police investigation ongoing. Suspect to appear in court.
 
-அராலித்துறை பகுதியில் நீண்ட நாட்களாக இந்த நபர் கசிப்பு விற்பனையில் ஈடுபட்டுவருவதாக இரகசிய தகவல் பொலிஸாருக்கு கிடைக்கப்பெற்றதன் அடிப்படையிலேயே இந்த நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-மேலதிக விசாரணைகளின் பின்னர், சந்தேக நபரை மல்லாகம் நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றன.
+A suspect has been arrested today (17) in Arali area of ​​the Vaddukoddai police division.
+
+The man has been arrested on the basis of confidential information available to the police that the man has been involved in leaks for a long time in the Aralithara area.
+
+After further inquiries, steps are being taken to make the suspect in the Mallakam court.
 
 ◼️
 
 [Data](articles/cc2eb63b.json)
+
+[Extended Data](ext_articles/cc2eb63b.ext.json)
 
 ---
 
@@ -478,19 +502,29 @@ The parties must submit expenditure reports to the Elections Commission within 2
 
 ---
 
-### කෙහෙළියගේ නමින් නම් කළ පාසලේ කෙහෙළියගේ නම ගලවය
+### Keheliya's name, Keheliya, named Keheliya
 
 *2024-10-17 15:28:14* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-නමින්-නම්-කළ-පාසලේ-කෙහෙළියගේ-නම-ගලවය/11-412547) · `si`
 
-මහනුවර වත්තේගම අධ්‍යාපන කලාපයේ කුණ්ඩසාලේ කොට්ඨාශයට අයත් කුණ්ඩසාලේ පිහිටි කෙහෙළිය රඹුක්වැල්ල ආදර් ශ ප්‍රාථමික විද්‍යාලයේ නාමය වහාම ක්‍රියාත්මක වන පරිදි සංශෝධනය කිරීමට  මධ්‍යම පළාත් ආණ්ඩුකාරවර මහාචාර් ය එස්. බී .එස්  අභයකෝන් මහතා  අනුමැතිය  ලබා දී ඇත.
+Here's a 200-character summary:
 
-ඒ අනුව මෙම විද්‍යාලය මින් ඉදිරියට කුණ්ඩසාලේ රාජකීය ප්‍රාථමික විද්‍යාලය නමින් හැදින්වීමට පළාත් අධ්‍යාපන දෙපාර් තමෙන්තුවේ ව්‍යුහ කමිටුව මගින් ඉදිරිපත් කොට තිබු යෝජනාවට අනුමැතිය ලබා දී ඇත. මේ සම්බන්ධයෙන්  දෙමව්පියන් , වෘත්තීය සමිති සහ ආදී සිසුන් වෙතින්  වරින් වර ඉදිරිපත් කර තිබු යෝජනා සැලකිල්ලට ගනිමින් දෙපාර් තමෙන්තුවේ ව්‍යුහ කමිටුවේ  නිර් දේශ ඉදිරිපත් කරනු ලැබිය.
 
-මෙම අධ්‍යාපන කොට්ඨාශ යේ ප්‍රධාන ප්‍රාථමික විදුහල් අතරින් ප්‍රමුඛ විද්‍යාලයක් වන මෙම විද්‍යාලය 1939  එස්.ඩබ්ලිව්.ආර්. ඩි බණ්ඩාරනායක විදුහල නමින් ආරම්භ වී අතර, කලින් කල හදුන්වා දෙනු ලැබූ විවිධ අධ්‍යාපන ප්‍රතිසංස්කරණ වලට සමගාමිව  නත්තරම්පොත විද්‍යාලය, කුණ්ඩසාලේ මහා විදුහල වැනි නම් වලින් ද හදුන්වා ඇත.
+
+Keheliya Rambukwella Primary School: Established 1939, located in Kundasale, Central Province. Approved for immediate implementation in Wattegama Education Zone. Currently under construction near Victoria Reservoir. 23 teachers, led by Principal W.A.M.K.
+
+🟩
+
+Governor of the Great Ratchar Sum, Central Province, Great Ratchar, is amended for immediate effective effect on the Kundasale Division of the Kundasale Division of the Wattegama Education Zone.. B.S Abhijan has been granted approval.
+
+Accordingly, the proposal was approved by the Affairs Committee of the Provincial Education Department of Education in the Kundasale Royal Primary School in Kundasale.. Considering the proposals that had been submitted from time to time to time and students and students from time to time.
+
+The College, one of the major primary schools in the educational division, is a 1939 SWR. The De Bandaranaike began as dear named De Bandaranaike, and the Natasale College, Kundasale College, Kundasale College, Kundasale College, Kundasale College.
 
 ...
 
 [Data](articles/5f15b6ea.json)
+
+[Extended Data](ext_articles/5f15b6ea.ext.json)
 
 ---
 
@@ -1164,27 +1198,39 @@ He remarked: “A country cannot progress simply because its ruler is good. The 
 
 ---
 
-### හිටපු ජනාධිපති රනිල් වික්‍රමසිංහගේ විශේෂ ප්‍රකාශයේ ප්‍රධාන කරුණු 5ක්
+### Five key points of former President Ranil Wickremesinghe's special statement
 
 *2024-10-17 12:05:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn5zdp1rn05o) · `si`
 
-හිටපු ජනාධිපති එක්සත් ජාතික පක්ෂ නායක රනිල් වික්‍රමසිංහ ඔක්තෝබර් 17 වන දා විශේෂ ප්‍රකාශයක් සිදු කළේ ය.
+Here's a 200-character summary of Former President Ranil Wickremesinghe's special statement:
 
-ජනාධිපතිවරණයෙන් පසු ඔහු ප්‍රසිද්ධ ප්‍රකාශයක් සිදු කළ ප්‍රථම අවස්ථාව මෙය වේ.
 
-කොළඹ, මල් පාරේ පිහිටි නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණු කාර්යාලයේදී ඔහු මෙම විශේෂ ප්‍රකාශය සිදු කරමින් සඳහන් කළේ, ශ්‍රී ලංකාව 2028 වසරේ සිට යළි විදෙස් ණය ගෙවීම ආරම්භ කළ යුතු බවත්, 2027 වසර වන විට රාජ්‍ය ආදායම දළ දේශීය නිෂ්පාදිතයෙන් 15%ක් බවට පත්කර ගැනීමේ අභියෝගය නව රජය හමුවේ පවතින බවත් ය.
 
-එම ඉලක්කයට යාම සඳහා සෑම වසරක ම 1%ක ආර්ථික වර්ධනයක් ලබා ගත යුතු බව පෙන්වා දෙමින් ඔහු ඊළඟ පාර්ලිමේන්තුවට වගකීම්වලින් පැන නොයන අත්දැකීම් සහිත කණ්ඩායමක් අවශ්‍ය බව අවධාරණය කළේ ය.
+Former President Ranil Wickremesinghe addressed the New Democratic Front office on Oct 17, 2023. He emphasized achieving 1% annual economic growth and forming a new parliament to address challenges. Wickremesinghe discussed debt restructuring, IMF agreements, and goals like reopening GDP to 2019 levels by year-end. He noted no party secured a majority in the presidential election, stressing the importance of experienced politicians in the new parliament.
 
-මේ, ඔහු සිදු කළ ප්‍රකාශයේ සඳහන් වුණු විශේෂ කරුණු පිළිබඳව කෙරෙන විමසා බැලීමකි.
+🟩
 
-තමා ජනාධිපතිවරයා ලෙස රට භාර ගනු ලැබුවේ ණය ගෙවා ගැනීමට නොහැකිව බංකොලොත්භාවය ප්‍රකාශ කර තිබියදී බව හිටපු ජනාධිපතිවරයා සිය ප්‍රකාශයේදී පැවසීය.
+Former President of the UNP Ranil Wickremesinghe made a special statement on October 17.
 
-එම අවස්ථාවේ තම මූලික අරමුණ වූයේ, යළිත් ණය තිරසර බව ඇති කර පැවති බංකොලොත්භාවය ඉවත් කර ගැනීම බව ඔහු පෙන්වා දුන්නේ ය.
+This is the first time he made a public statement after the presidential election.
+
+He made this special statement at the New Democratic Front office at the New Democratic Front of Colombo, Colombo.It is in the face of.
+
+He stressed that a 1% economic growth should be achieved every year in order to go to that goal, he emphasized that the next parliament is needed to escape experience.
+
+This is about the special matters mentioned in the statement he performed.
+
+The former President said that the country was handed over to the president as the president, the former President said.
+
+He pointed out that his primary purpose was to remove the bankruptcy that the debt had been restored again.
+
+The former President said that when he was posting, the International Monetary Fund has entered into an agreement with 18 countries and private bonds.
 
 ...
 
 [Data](articles/2cc50085.json)
+
+[Extended Data](ext_articles/2cc50085.ext.json)
 
 ---
 

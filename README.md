@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 15:10:12**
+As of **2024-10-17 15:23:30**
 
 ## Newspaper Stats
 
-*Scraped **49,979** Articles*
+*Scraped **49,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 3,062
 dailyftlk | 3,406
 adalk | 4,650
 dailymirrorlk | 4,733
-adaderanalk | 5,919
-tamilmirrorlk | 6,838
+adaderanalk | 5,920
+tamilmirrorlk | 6,839
 virakesarilk | 7,990
-adaderanasinhalalk | 8,657
+adaderanasinhalalk | 8,659
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,979 (100.0%) of 49,979 articles have been extended.
+49,981 (100.0%) of 49,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### හිටපු බන්ධනාගාර නිලධාරියෙකු අත්අඩංගුවට
+
+*2024-10-17 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202272) · `si`
+
+රාජකාරී හැඳුනුම්පත භාවිත කරමින් මත්ද්‍රව්‍ය ජාවාරමේ යෙදුනු හිටපු බන්ධනාගාර නිලධාරියෙකු රුවන්වැල්ල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු මහර බන්ධනාගාරයේ, බන්ධනාගාර නිලධාරියෙකු ලෙස සේවය කරමින් සිට 2019 වසරේ දී ඉන් ඉවත්වූ පුද්ගලයෙකි.
+
+ඉන්පසුව මෙම පුද්ගලයා සිය රාජකාරී හැදුනුම්පත භාවිතා කරමින් මෙම මත්ද්‍රව්‍ය ජාවාරමේ යෙදී සිට ඇති බව අනාවරණය වී තිබේ.
+
+යුද හමුදා බුද්ධි නිලධාරීන්ට ලද තොරතුරක් මත ඉඹුලාන ප්‍රදේශයේ සිදුකළ වැටලීමක දී මෙම සැකකරු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+එහිදී මෙම පුද්ගලයා සතුව තිබූ හෙරොයින් මත්ද්‍රව්‍ය මිලි ග්‍රෑම් 5,500 ක්, අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 600 ක්, ගංජා සහ කිරුම් උපකරණ කිහිපයක් මෙන්ම ජංගම දුරකථන දෙකක් ද පොලිස් භාරයට ගෙන තිබේ.
+
+වැටලීම කරන අතරතුර මත්ද්‍රව්‍ය මිලදී ගැනීමට පැමිණි පුද්ගලයෙකු ද අත්අඩංගුවට ගෙන ඇත.
+
+පොලීසිය සඳහන් කළේ මෙම පුද්ගලයා ද මීට පෙර මත්ද්‍රව්‍ය ජාවාරමේ යෙදුනු අයෙකු බවට අනාවරණය කරගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/4b6bb1af.json)
+
+---
+
+### අපේක්ෂකයෙකුට වියදම් කළ හැකි මුදල් සීමාව පැනවෙයි
+
+*2024-10-17 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202271) · `si`
+
+එළඹෙන පාර්ලිමේන්තු මැතිවරණය සඳහා සියලුම දේශපාලන පක්ෂ, ස්වාධීන කණ්ඩායම් සහ අපේක්ෂකයින් ප්‍රචාරණ කටයුතු සඳහා වියදම්  කළ හැකි උපරිම මුදල් සීමාව මැතිවරණ කොමිෂන් සභාව විසින් ඉදිරිපත් කර තිබේ.
+
+මැතිවරණ ප්‍රතිපළ ප්‍රකාශයට පත් කර දින 21ක් ඇතුළත අදාළ වන පරිදි පක්ෂ ලේකම්ගේ, ස්වාධීන කණ්ඩායම් නායකයාගේ සහ අපේක්ෂකයාගේ අත්සන, දිවුරුම් කොමසාරිස්වරයා හෝ සාමදාන විනිශ්චයකාරවරයා විසින් සහතික කර මැතිවරණ කොමිෂන් සභාව වෙත භාර දිය යුතු බවත් කොමිසම මගින් නිකුත් කර ඇති නිවේදනයේ සඳහන් ව තිබේ.
+
+◼️
+
+[Data](articles/7e98776e.json)
+
+---
+
+### Tamita asks for a place on the national list
+
+*2024-10-17 15:04:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசியப்-பட்டியலில்-இடம்-கேட்கிறார்-தமிதா/175-345612) · `ta`
+
+Tamita requests national list spot from SJB party after removal from local list. Party leadership yet to respond to her request.
+
+🟩
+
+இரத்தினபுரி மாவட்ட ஐக்கிய மக்கள் சக்தி (SJB) பட்டியலில் இருந்து நீக்கப்பட்ட நடிகையும் அரகலய செயற்பாட்டாளருமான தமிதா அபேரத்ன, அக்கட்சியிடம் இருந்து தேசிய பட்டியல் ரீதியிலான இடத்தை கோரியுள்ளார்.
+
+SJB தலைமையிடம் இருந்து ஒரு தேசிய பட்டியல் இடத்தை கோரியதாக திருமதி அபேரத்ன டெய்லி மிரருக்கு இன்று கூறினார்.
+
+எனது கோரிக்கைக்கு கட்சித் தலைமை இன்னும் பதிலளிக்கவில்லை என அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/e3ab8246.json)
+
+[Extended Data](ext_articles/e3ab8246.ext.json)
+
+---
+
+### Indian arrested with ‘Ice’ drugs worth Rs. 25 mln at BIA
+
+*2024-10-17 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102760/indian-arrested-with-ice-drugs-worth-rs-25-mln-at-bia-) · `en`
+
+The officers of Sri Lanka Customs have arrested an Indian passenger, who arrived in the island from Malaysia, at the Bandaranaike International Airport (BIA) in Katunayake for attempting to smuggle a large consignment of ‘Ice’ drugs (crystal methamphetamine) into the country.
+
+Customs officials have discovered 01 kilogram of ‘Ice’ drugs hidden within sarees which were in the possession of the Indian national, who arrived from Malaysia onboard flight UL 315.
+
+The street value of the seized drugs is estimated to be around Rs. 25 million, according to the Sri Lanka Customs.
+
+The suspect and the consignment of drugs have been handed over to the Police Narcotics Bureau (PNB) for further investigations.
+
+◼️
+
+[Data](articles/032193dd.json)
+
+[Extended Data](ext_articles/032193dd.ext.json)
+
+---
 
 ### Ex-President Ranil urges voters to support ‘experienced candidates’ in 2024 General Election
 
@@ -133,6 +213,14 @@ This is a large number of students who have been bowled out for a Test innings i
 ### The benefits of rural road development should go to the village
 
 *2024-10-17 13:42:18* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාමීය-මාර්ග-සංවර්ධනයේ-ප්‍රතිලාභ-ගමට-යා-යුතුයි/11-412545) · `si`
+
+Here's a 200-character summary:
+
+
+
+Benefits of rural road development: Efficient, regular, aids rural economic growth. Expedite railway projects for employee/public safety. Formalize procurement process. Prioritize local benefits.
+
+🟩
 
 Regular and efficient, efficient, helps to achieve rural economic development goals
 
@@ -2175,107 +2263,5 @@ Doctors at the Kamal Adwan, Al-Awda and the Indonesian hospitals have refused to
 [Data](articles/e97b4c8d.json)
 
 [Extended Data](ext_articles/e97b4c8d.ext.json)
-
----
-
-### Damitha anim seek a national list chair
-
-*2024-10-16 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202249) · `si`
-
-Damitha Anim seeks national list chair. Party General Secretary Damitha Abeyratne says Ranitha Abeyratne inquired due to communication issues. General Secretary Ranjith Madduma Bandara to remove from national list and add another person. Communication problems cited as reason for changes.
-
-🟩
-
-According to the party general secretary Damitha Abeyratne, Ranitha Abeyratne has inquired as a result of a communication issue and acting in unity.
-
-Speaking further, she said that the General Secretary General of Sri Lanka General Secretary Ranjith Madduma Bandara will leave the national list and enter their name.
-
-"I have to ask the. There should be questions in communication, right?These are jokes. So the Secretary-General is saying it's a matter of communication. So you get out of the national list and put me out. "
-
-◼️
-
-[Data](articles/5f25358c.json)
-
-[Extended Data](ext_articles/5f25358c.ext.json)
-
----
-
-### Ceylon Teachers Union blames government
-
-*2024-10-16 19:08:41* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-ගුරු-සංගමයෙන්-රජයට-දොස්-මුරයක්/11-412541) · `si`
-
-Ceylon Teachers Union criticizes government over school system issues. Union leader Priyantha Fernando calls for solutions, citing neglect and poor governance affecting education.
-
-🟩
-
-The government has come into the present government regarding the present government regarding the present government regarding the present government, and the government is in malnutrition in the school system.The Ceylon Teachers Union Priyantha Fernando stated that the solutions should be given.
-
-He was speaking at a media briefing in Anuradhapura today (16).
-
-The Chairman of the Teachers Union (Gum Association) stated that the current governance, teacher, education and student of the presidential election is responsible for the teacher only fully forgets the teacher.
-
-He also said that it is the duty of the government to make a clear statement about the new rule.
-
-Despite the conventionalized traditional rulers of the world, adult and world teachers, should explain what action should be explained in this administration, but the Chairman of the Ceylon Teachers Union regardless of the teachers on the day.Said Priyantha Fernando.
-
-...
-
-[Data](articles/d5f699dd.json)
-
-[Extended Data](ext_articles/d5f699dd.ext.json)
-
----
-
-### Hirunika makes a strong decision
-
-*2024-10-16 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202248) · `si`
-
-Hirunika Premachandra resigns as national organizer of Samay Sevaka Force. She cites lack of support and accusations of not leading effectively. Claims she's being replaced in upcoming elections. Denies having a personal crisis or conflict with her husband's political team.
-
-🟩
-
-Ms. Hirunika Premachandra has decided to resign from the national organizer of the Samay Sevaka Force.
-
-Speaking at a press conference held today (16), she said that the letter was sent to the party.
-
-She said that Sajith Premadasa was not to be embarrassed by Sajith Premadasa.
-
-"Last presidential election took women meetings throughout Sri Lanka. Now this is my election. I wondered if someone else was handed over to someone else in this election,. That is how the letter was charged. "
-
-She said one person accused him of not working.
-
-"One person said. It is not the lead. That's the problem. I'm not ready to hear from someone who does not such politics ... "
-
-There a journalist inquired with a crisis with Mrs. Premadasa.
-
-"I'm a woman who does politics in the party. Mrs. Hydani Premadasa is the wife of Sajith Premadasa. There is no position. "
-
-◼️
-
-[Data](articles/bd39f9ea.json)
-
-[Extended Data](ext_articles/bd39f9ea.ext.json)
-
----
-
-### මාධ්‍ය වාර්තාකරණය නිසාත් දිවි නසා ගැනීම් වැඩිවෙනවා
-
-*2024-10-16 19:02:57* · [`adalk`](https://www.ada.lk/breaking_news/මාධ්‍ය-වාර්තාකරණය-නිසාත්-දිවි-නසා-ගැනීම්-වැඩිවෙනවා/11-412540) · `si`
-
-Sri Lanka sees increase in suicides due to media reporting. Experts warn 3000-3500 suicides occur annually, about 8 per day. Mental illness and substance abuse cited as main causes. Suicide rates have remained stable over past three years despite global decline.
-
-🟩
-
-සියදිවි හානි කර ගැනීමට තැත් කිරීම මෙරට වසර 03ක සිට ඒකාකාරී මට්ටමේ පවතින බවත්, මාධ්‍ය වාර්තාකරණය සිදු කරන ආකාරය අනුව සියදිවි හානි කර ගැනීම වැඩිවන බවට පෙනී ගොස් ඇති බවත් මනෝ විශේෂඥ වෛද්‍යවරුන්ගේ විද්‍යායතනය සඳහන් කරයි.
-
-එහි සභාපති, විශේෂඥ වෛද්‍ය සජීවන අමරසිංහ මහතා පෙන්වා දෙන්නේ මෙරට තුළ වසරකට සියදිවි නසා ගැනීම් 3,000 – 3,500 ත් අතර සිදුවන බවයි. ඒ අනුව එය දළ වශයෙන් දිනකට 08 ක් පමණ වන බවද ඔහු සඳහන් කර සිටී. මේ පිළිබඳ වැඩිදුරටත් පැහැදිලි කරමින් විශේෂඥ වෛද්‍යවරයා මෙසේ ප්‍රකාශ කළේය.
-
-“සියදිවි හානිකර ගැනීම ලොව පුරා සිදුවන දෙයක්. 2021 has committed suicide throughout the world. වයස අවුරුදු 15 -29 වයස් සීමාවේ මරණවලින් 03 වැනි තැන සියදිවි හානි කර ගැනීමට හිමිව තිබෙනවා. In the 1990's, Sri Lanka was at the top of the world's suicide.
-
-...
-
-[Data](articles/22d95357.json)
-
-[Extended Data](ext_articles/22d95357.ext.json)
 
 ---

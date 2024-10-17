@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 13:09:33**
+As of **2024-10-17 13:23:56**
 
 ## Newspaper Stats
 
@@ -35,6 +35,10 @@ Extensions include translations and NER (Named Entity Recognition).
 ### අඩු කරපු විදුලි බිලට මොකද වුණේ ?
 
 *2024-10-17 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202266) · `si`
+
+Sri Lanka Electricity Board reduced electricity bill due to Ceylon Petroleum Corporation's allegations of CEB's irresponsible actions. Ananda Palith called for immediate action to reduce electricity bills by 45% during a press conference in Colombo.
+
+🟩
 
 ඔක්තෝබර් 01 වෙනිදා සිදුවිය යුතු විදුලි ගාස්තු සංශෝධනය ලංකා විදුලිබල මණ්ඩලයේ වගකීම් විරහිත ක්‍රියාකලාපය හේතුවෙන් මෙතෙක් ක්‍රියාත්මක වී නොමැති බව සමගි ඛනිජ තෙල් වෘත්තීය සමිති ඒකාබද්ධ බලවේගය චෝදනා කරයි.
 
@@ -73,6 +77,10 @@ The legislation extends a surrogacy ban already in place in Italy since 2004 to 
 ### The body of an unidentified woman in Nuwara Eliya is recovered
 
 *2024-10-17 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/196496) · `ta`
+
+Unidentified woman's body found at Nuwara Eliya bus station. Police investigating cause of death, suspecting extreme cold. Body sent for autopsy.
+
+🟩
 
 An unidentified woman's body has been recovered from the Nuwara Eliya main bus station on Thursday morning, Nuwara Eliya Police said.
 

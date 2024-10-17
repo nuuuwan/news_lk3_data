@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 19:58:00**
+As of **2024-10-17 20:11:19**
 
 ## Newspaper Stats
 
-*Scraped **50,024** Articles*
+*Scraped **50,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ bbccomsinhala | 502
 islandlk | 2,964
 economynextcom | 3,066
 dailyftlk | 3,406
-adalk | 4,654
+adalk | 4,655
 dailymirrorlk | 4,733
 adaderanalk | 5,924
 tamilmirrorlk | 6,842
 virakesarilk | 8,006
-adaderanasinhalalk | 8,666
+adaderanasinhalalk | 8,667
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,024 (100.0%) of 50,024 articles have been extended.
+50,026 (100.0%) of 50,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### 257 complaints regarding general election
+
+*2024-10-17 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202280) · `si`
+
+Elections Commission reports 257 complaints about general election. 181 resolved, 76 under review.
+
+🟩
+
+The Elections Commission says that there are 257 complaints received until the general election.
+
+In a statement, the Election Commission has issued all complaints received by all complaints.
+
+The announcement states that 181 complaints have been resolved and 76 complaints have been taken into consideration.
+
+◼️
+
+[Data](articles/b974f2d9.json)
+
+[Extended Data](ext_articles/b974f2d9.ext.json)
+
+---
 
 ### Former prison officer arrested
 
@@ -99,6 +121,28 @@ Fresh or frozen fish, excluding de-boned fish and other processed fish, will sub
 [Data](articles/faca0b89.json)
 
 [Extended Data](ext_articles/faca0b89.ext.json)
+
+---
+
+### A shortage of nadu rice
+
+*2024-10-17 19:04:02* · [`adalk`](https://www.ada.lk/breaking_news/නාඩු-සහල්-හිඟයක්/11-412550) · `si`
+
+Nadu rice shortage causes high prices. Rice mill owners blamed. Key Sambaba intervenes, buys 5000 kg to stabilize supply. Price cap set at Rs. per kg.
+
+🟩
+
+The rice pilgrims said that there was a shortage of rice in the local market due to the role of rice mill owners.
+
+Key Sambaba should take up five thousand kilos to rice prices to buy five thousand prices and to get five thousand kilos of Nadu rice in a major rice mill owner.The rice suitable is that the stocks are puzzing.
+
+Accordingly, a kilo of nadu rice should be sold at a maximum retail price of Rs.
+
+◼️
+
+[Data](articles/0c2bcb14.json)
+
+[Extended Data](ext_articles/0c2bcb14.ext.json)
 
 ---
 
@@ -2409,49 +2453,5 @@ Fuels are carried out in the streets as freight traffic in Nigeria. It is notewo
 [Data](articles/0a953605.json)
 
 [Extended Data](ext_articles/0a953605.ext.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට වැසි
-
-*2024-10-17 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202254) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Showers/thundershowers expected in Northern, Western, Sabaragamuwa, Northwestern provinces. Heavy rain possible (mm. 50+). Thunderstorms may occur in Ampara, Matara districts. Meteorology Department advises caution against lightning/wind accidents."
-
-🟩
-
-Showers or thundershowers will occur at times in the Northern Province and in some places mm. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
-
-Several spells of showers may occur in the Western, Sabaragamuwa and Northwestern provinces, in Galle, Matara, Kandy and Nuwara Eliya districts.
-
-ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
-
-The Meteorology Department requests the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/0cdfca68.json)
-
-[Extended Data](ext_articles/0cdfca68.ext.json)
-
----
-
-### Challenges Faced By The New Government
-
-*2024-10-17 03:06:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/challenges-faced-by-the-new-government/) · `en`
-
-A delegation of International Monetary Fund (IMF) headed by Krishna Srinivasan, Director for the Asia Pacific Department, visited Sri Lanka to hold discussions with the new government of Sri Lanka. The following was stated by Srinivasan according to the  statement issued by the IMF on October4, 2024.
-
-“We held productive discussions with President Dissanayake and Sri Lanka’s economic team on the economic and financial challenges facing the Sri Lankan economy. We agreed on the importance of continuing to safeguard and build on the hard-won gains that have helped put Sri Lanka on a path to economic recovery since entering one of its worst economic crises in 2022. We are encouraged by the authorities’ commitment to continue the reform efforts.”
-
-...
-
-[Data](articles/cb23867b.json)
-
-[Extended Data](ext_articles/cb23867b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 22:25:46**
+As of **2024-10-17 22:39:29**
 
 ## Newspaper Stats
 
-*Scraped **50,030** Articles*
+*Scraped **50,032** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 3,066
 dailyftlk | 3,406
 adalk | 4,655
 dailymirrorlk | 4,733
-adaderanalk | 5,925
+adaderanalk | 5,926
 tamilmirrorlk | 6,842
 virakesarilk | 8,006
-adaderanasinhalalk | 8,670
+adaderanasinhalalk | 8,671
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,030 (100.0%) of 50,030 articles have been extended.
+50,032 (100.0%) of 50,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Sri Lanka to receive USD 1.69 billion in loans within next 3-5 years: Report
+
+*2024-10-17 22:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102766/sri-lanka-to-receive-usd-169-billion-in-loans-within-next-3-5-years-report) · `en`
+
+The government has spent only 53% of the welfare budget allocated for the year within the first 8 months up to August, according to a report.
+
+A latest report from the Ministry of Finance indicates that the welfare budget has primarily been used to fund the ‘Aswesuma’ welfare program.
+
+Meanwhile, the report also states that Sri Lanka is expected to receive 1.69 billion US dollars in loans from multilateral agencies within the next 3 to 5 years.
+
+In the Pre-election budgetary report by the Finance ministry, it is reported that, as of the end of August 2024, foreign development partners and lending agencies have entered into 10 agreements with the government for foreign financing totalling 398.7 million US dollars.
+
+Of this amount, 350 million dollars has been secured in the form of loans.
+
+Another 48.7 million dollars has been obtained through seven grant agreements with the governments of Japan and Australia under official development assistance.
+
+...
+
+[Data](articles/c9918f66.json)
+
+[Extended Data](ext_articles/c9918f66.ext.json)
+
+---
+
+### Sri Lanka beat Sri Lanka
+
+*2024-10-17 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202284) · `si`
+
+Sri Lanka beats West Indies 9 wickets in T20 series 2-1. Kusal Mendis scores 68, Kusal Perera hits 106* as Sri Lanka wins historic match.
+
+🟩
+
+Tourist bi. The Sri Lanka team was able to defeat the West Indies by nine wickets today by the 9 wickets.
+
+Sri Lanka won the 3-match tournament match 2-1.
+
+Sri Lanka's tournamental tournament is considered in Sri Lanka - West Indies 20 competition history. The first tournaments have been won against the West Indies.
+
+Between the two countries, a bilateral T20 tournament was held in Sri Lanka in 2015.
+
+The two matches ended with a 1-1 passed quality.
+
+However, the tournament in Sri Lanka in Sri Lanka was 2-0 matches and in 2021, Sri Lanka was defeated in the West Indies in 2021.
+
+West Indies scored 162 runs for the loss of 8 wickets in the 20 overs.
+
+Accordingly, the Sri Lankan team was bowled out by the Sri Lankan team to pass the winning target in the 18th over the 18th over the match.
+
+The opener Kusal Mendis was the target of the opening of Sri Lanka to the victorious shop and stood at the wicket and scored 68 runs.
+
+...
+
+[Data](articles/bcd2758e.json)
+
+[Extended Data](ext_articles/bcd2758e.ext.json)
+
+---
 
 ### A fishing vessel sees
 
@@ -2399,49 +2457,5 @@ The police say that the death penalty was punished yesterday after a lengthy tri
 [Data](articles/16bc1eb2.json)
 
 [Extended Data](ext_articles/16bc1eb2.ext.json)
-
----
-
-### Identity on the right hand finger
-
-*2024-10-17 07:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலது-கை-விரலில்-அடையாளம்/175-345595) · `ta`
-
-Election Commission issues special gazette for Elpitiya Pradeshiya Sabha elections. Voters' identity marked on left hand toe instead of small finger due to ongoing code issue. Alternative identification method on right hand finger if left hand too small. Gazette notification attached.
-
-🟩
-
-The Election Commission has issued a special gazette notification as the Elpitiya Pradeshiya Sabha elections are to be held on the 26th.
-
-During the last presidential election, the left -arm was identified on the small finger to ensure that voters voted.
-
-However, as the code is still on that finger, the Local Authorities Elections Elections (262) will be marked on the voter's left hand toe during the Elpitiya Pradeshiya Sabha elections, which will be held on the 26th.
-
-If the voter's left hand is not big, the Election Commission has announced that it will be identified on another finger in his right hand.. The related gazette notification is attached below. (A)
-
-◼️
-
-[Data](articles/8f5bb34d.json)
-
-[Extended Data](ext_articles/8f5bb34d.ext.json)
-
----
-
-### Several spells of light showers expected in parts of the island
-
-*2024-10-17 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102746/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Northern province and fairly heavy showers above 50mm are likely at some places.
-
-Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-eliya districts.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts during the evening or night, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers
-
-◼️
-
-[Data](articles/d28ddc3d.json)
-
-[Extended Data](ext_articles/d28ddc3d.ext.json)
 
 ---

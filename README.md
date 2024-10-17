@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 12:25:13**
+As of **2024-10-17 12:39:29**
 
 ## Newspaper Stats
 
@@ -36,6 +36,10 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-10-17 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202265) · `si`
 
+Singer falls from upper west side. Youth group performs. Member Liam Payne dies suddenly. Argentine musician found dead on 3rd floor. Death ruled as sudden aggression.
+
+🟩
+
 One directory singer team allowed a time when the youths in the world.
 
 පස් දෙනෙකුගෙන් යුතු මේ කණ්ඩායමේ එක් සාමාජිකයෙක් වූ ලියම් පෙයින් ඊයේ (16) රාත්‍රියේ හදිසියේ මියගොස් තිබේ.
@@ -57,6 +61,14 @@ Argentina has received information that a person who has been killed in a moment
 ### மத்திய கிழக்கு வாழ் இலங்கையர்க்கு விசேட அறிவித்தல்
 
 *2024-10-17 11:39:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-கிழக்கு-வாழ்-இலங்கையர்க்கு-விசேட-அறிவித்தல்/175-345609) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Special advisory issued for Sri Lankans in Middle East due to ongoing turmoil. Embassies taking necessary actions to ensure safety and well-being of Sri Lankan workers. Urgent situation calls for attention from foreign missions. Contact embassy's consular section for emergency assistance.
+
+🟩
 
 மத்திய கிழக்கில் நிலவும் ஸ்திரமற்ற  நிலைமை  மற்றும் பிராந்தியத்தில் வாழும் இலங்கையர்களின் பாதுகாப்பை உறுதி செய்தல்
 

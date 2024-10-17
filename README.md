@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 09:58:47**
+As of **2024-10-17 10:12:40**
 
 ## Newspaper Stats
 
-*Scraped **49,939** Articles*
+*Scraped **49,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,68 @@ dbsjeyarajcom | 402
 colombotelegraphcom | 496
 bbccomsinhala | 501
 islandlk | 2,962
-economynextcom | 3,060
+economynextcom | 3,062
 dailyftlk | 3,406
 adalk | 4,645
 dailymirrorlk | 4,733
 adaderanalk | 5,912
 tamilmirrorlk | 6,832
 virakesarilk | 7,979
-adaderanasinhalalk | 8,648
+adaderanasinhalalk | 8,649
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,939 (100.0%) of 49,939 articles have been extended.
+49,942 (100.0%) of 49,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### 14-year-old child dies
+
+*2024-10-17 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202262) · `si`
+
+A 14-year-old girl drowned in a water-filled pit on Halituwa mountain. She was playing with friends when tragedy struck. The incident occurred in Kotadeniyawaiya area.
+
+🟩
+
+Boundillai has died of a boys who have been drowned in a water-filled pit in Halituwa mountain.
+
+The deceased has been identified as a schoolgirl residing in Kotadeniyawaiya area for 14 years.
+
+The child had gone to the daughter with five other friends yesterday evening.
+
+Investigations have revealed that the child had drowning at the time.
+
+◼️
+
+[Data](articles/810e6bfe.json)
+
+[Extended Data](ext_articles/810e6bfe.ext.json)
+
+---
+
+### Sri Lanka’s Asia Asset Finance asset backed debentures get Fitch ‘A+(lka)’ rating
+
+*2024-10-17 09:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-asia-asset-finance-asset-backed-debentures-get-fitch-alka-rating-183970/) · `en`
+
+ECONOMYNEXT- Ratings agency Fitch has awarded Asia Asset Finance PLC’s (AAF, A+(lka)/Stable) outstanding Sri Lanka rupee-denominated secured (asset backed) debentures a National Long-Term Rating at ‘A+(lka)’.
+
+The debentures, which are listed on the Colombo Stock Exchange, will mature in 2026 and have a total outstanding face value of 565.25 million rupees as of 15 October.
+
+“The recovery prospects are assessed to be average and comparable to those of AAF’s unsecured debt under Sri Lanka’s developing legal system,” Fitch said.
+
+Fitch Rates Asia Asset Finance’s Outstanding Secured (Asset Backed) Debentures at ‘A+(lka)’
+
+...
+
+[Data](articles/659e3617.json)
+
+[Extended Data](ext_articles/659e3617.ext.json)
+
+---
 
 ### Person arrested for attempting to bribe police officer to permit drug dealing
 
@@ -2104,6 +2148,28 @@ Mashreq, was the mandated lead arranger and book runner. Initially launched targ
 
 ---
 
+### Sri Lanka’s Sampath Bank helps finance State Bank of India $750mn loan
+
+*2024-10-16 16:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-sampath-bank-helps-finance-state-bank-of-india-750mn-loan-183891/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Sampath Bank said it has joined a 750 million dollar, syndicated loan for the State Bank of India, helping finance one of the largest banks in the region.
+
+Mashreq, was the mandated lead arranger and book runner. Initially launched targeting at 350 million dollars in May 2024, the facility was upsized to 750 million dollars due to strong global interest, Sampath Bank said.
+
+“Our involvement in this syndicated loan aligns with our strategic objectives to enhance our investment portfolio while securing strong returns,” Amal Kirihene, Senior Deputy General Manager, Corporate Banking at Sampath Bank said in a statement.
+
+“Given the current political climate and our expectations of credit growth, this three-year loan offers a promising opportunity for us to lend to a highly reputable institution like SBI.
+
+“Our prior experiences with long-term financing in other regions have equipped us to navigate this commitment with confidence.”
+
+...
+
+[Data](articles/92201899.json)
+
+[Extended Data](ext_articles/92201899.ext.json)
+
+---
+
 ### 1,000 pigs die in Anuradhapura
 
 *2024-10-16 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196454) · `ta`
@@ -2269,71 +2335,5 @@ The Attorney General’s Office has the mandate of providing the government with
 [Data](articles/023d0134.json)
 
 [Extended Data](ext_articles/023d0134.ext.json)
-
----
-
-### ඉන්ධන බවුසරයක් පිපිරී 94ක් මරුට
-
-*2024-10-16 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202241) · `si`
-
-A bus explosion in northern Nigeria killed 94 people. The vehicle was driving on a road when it caught fire. Witnesses reported seeing a large crowd gathering to collect spilled fuel.
-
-🟩
-
-ඉන්ධන බවුසරයක් පිපිරීම හේතුවෙන් උතුරු නයිජීරියාවේ පුද්ගලයින් 94 දෙනෙක් ජීවිතක්ෂයට පත්වී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-එහි සඳහන් වන්නේ එම බවුසරය මාර්ගයේ ධාවනය වෙමින් තිබියදී ලිස්සා ගොස් කාණුවකට පෙරළී තිබුණි.
-
-ඉන් ඉවතට විසිරී තිබූ ඉන්ධන එකතුකර ගැනීම සඳහා විශාල පිරිසක් එක්වී සිටි බව සඳහන් ය.
-
-◼️
-
-[Data](articles/086df484.json)
-
-[Extended Data](ext_articles/086df484.ext.json)
-
----
-
-### At least 94 killed in fuel tanker explosion in Nigeria
-
-*2024-10-16 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102737/at-least-94-killed-in-fuel-tanker-explosion-in-nigeria) · `en`
-
-At least 94 people were killed in northern Nigeria when a crashed tanker exploded near locals who had gathered to retrieve fuel, police told CNN.
-
-The toll is expected to rise from the blast, which happened late evening local time on Tuesday in Majiya, a village in Jigawa state.
-
-“The driver lost control and the tanker somersaulted and spilled fuel into a drainage ditch,” Jigawa police spokesperson Shiisu Lawan Adam said.
-
-“As a result, residents rushed to scoop the fuel when the explosion happened.”
-
-Adam said at least 50 people were seriously injured, adding that the death toll was provisional.
-
-◼️
-
-[Data](articles/59c80d31.json)
-
-[Extended Data](ext_articles/59c80d31.ext.json)
-
----
-
-### 4 families in Jaffna due to rain;Both infrastructure is affected!
-
-*2024-10-16 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196447) · `ta`
-
-Jaffna: Rain causes damage to 4 families' homes and 2 key infrastructures. 11 residents affected. 4 houses partially destroyed. Impacts spread across Sangan, Nallur, and Point Pedro divisions.
-
-🟩
-
-மழை அனர்த்தத்தால் யாழில் நான்கு குடும்பங்களைச் சேர்ந்த 11 அங்கத்தவர்கள் பாதிக்கப்பட்டுள்ளதுடன், நான்கு வீடுகளும் பகுதியில் சேதமடைந்திருப்பதாக யாழ்ப்பாணம் மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
-
-In addition, 2 important infrastructures have been damaged and one of them has been partially affected by the collapse of the tree.
-
-He added that the impacts have been affected by the Divisional Secretariat Divisions of Sangan, Nallur and Point Pedro.
-
-◼️
-
-[Data](articles/de749e22.json)
-
-[Extended Data](ext_articles/de749e22.ext.json)
 
 ---

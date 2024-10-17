@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 09:24:24**
+As of **2024-10-17 09:39:39**
 
 ## Newspaper Stats
 
-*Scraped **49,937** Articles*
+*Scraped **49,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,406
 adalk | 4,645
 dailymirrorlk | 4,733
 adaderanalk | 5,911
-tamilmirrorlk | 6,831
+tamilmirrorlk | 6,832
 virakesarilk | 7,979
 adaderanasinhalalk | 8,648
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,648
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,937 (100.0%) of 49,937 articles have been extended.
+49,938 (100.0%) of 49,938 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,32 @@ Shene Haixiong pointed out that the Chinese Media Group is exchanged between Chi
 [Data](articles/bf244b71.json)
 
 [Extended Data](ext_articles/bf244b71.ext.json)
+
+---
+
+### IOC - க்கு லஞ்சம் கொடுக்கச் சென்ற கடத்தல்காரர்
+
+*2024-10-17 09:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IOC-க்கு-லஞ்சம்-கொடுக்கச்-சென்ற-கடத்தல்காரர்/175-345603) · `ta`
+
+Mattakkuli police arrest bribery suspect. Officer offered bribe, reported to Bribery Commission. Suspect paid Rs 50,000 before arrest.
+
+🟩
+
+பொலிஸ் அதிகாரி ஒருவருக்கு இலஞ்சம் கொடுக்க முயன்ற நபரை மட்டக்குளி பொலிஸார் கைது செய்துள்ளனர்.
+
+A person in charge of the Mattakkuli police station has telephoned the officer in charge yesterday (16) and asked for an opportunity to carry out drug trafficking.
+
+The police officer has announced the matter to the Bribery Commission.
+
+Subsequently, the suspect was arrested by the officials of the Bribery Commission when the suspect was summoned to the police station and tried to pay Rs 50,000.
+
+The arrested suspect is 50 -year -old from Mattakkuli area. Remble
+
+◼️
+
+[Data](articles/ab5beab4.json)
+
+[Extended Data](ext_articles/ab5beab4.ext.json)
 
 ---
 
@@ -2317,25 +2343,5 @@ At the instructions of Attorney Sanath Wijewardena, President Attorney Ali Sabri
 [Data](articles/85498b1e.json)
 
 [Extended Data](ext_articles/85498b1e.ext.json)
-
----
-
-### A earthquake in Turkey
-
-*2024-10-16 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202240) · `si`
-
-Turkey earthquake: 6.0 magnitude reported, no immediate details on damage. Foreign media coverage ongoing.
-
-🟩
-
-Foreign media reports that its strength was recorded as 6.0 units of the Richter.
-
-The information is yet to be reported so far regarding the earthquake or property damage.
-
-◼️
-
-[Data](articles/cbd4ea6c.json)
-
-[Extended Data](ext_articles/cbd4ea6c.ext.json)
 
 ---

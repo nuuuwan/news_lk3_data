@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 07:26:38**
+As of **2024-10-17 08:02:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,905 (100.0%) of 49,917 articles have been extended.
+49,911 (100.0%) of 49,917 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -688,6 +688,8 @@ The “Top Most HR Leaders – Sri Lanka” award is awarded after a rigorous se
 
 [Data](articles/6c81555b.json)
 
+[Extended Data](ext_articles/6c81555b.ext.json)
+
 ---
 
 ### People’s Leasing & Finance shines with Gold at ACEF Asian Business Leaders Awards
@@ -699,6 +701,8 @@ People’s Leasing & Finance PLC, a leading player in Sri Lanka’s non-banking 
 ...
 
 [Data](articles/3f90b850.json)
+
+[Extended Data](ext_articles/3f90b850.ext.json)
 
 ---
 
@@ -714,6 +718,8 @@ As chefs paraded the cake-mixing ingredients, the rhythmic beat of traditional d
 
 [Data](articles/23091d8a.json)
 
+[Extended Data](ext_articles/23091d8a.ext.json)
+
 ---
 
 ### Mangala Wijesinghe appointed chairman, Export Development Board
@@ -728,6 +734,8 @@ In his current role as Cluster Chief Operating Officer – Pharmaceuticals, Cons
 
 [Data](articles/0dc2b585.json)
 
+[Extended Data](ext_articles/0dc2b585.ext.json)
+
 ---
 
 ### Profit-takings by local and foreign investors pep-up share market
@@ -741,6 +749,8 @@ Amid those developments both indices moved upwards. All Share Price Index went u
 ...
 
 [Data](articles/eb86f7d8.json)
+
+[Extended Data](ext_articles/eb86f7d8.ext.json)
 
 ---
 
@@ -1131,6 +1141,8 @@ The police media spokesman said that the fraudsters claiming to be running a com
 ...
 
 [Data](articles/82107b5a.json)
+
+[Extended Data](ext_articles/82107b5a.ext.json)
 
 ---
 

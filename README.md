@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 12:57:58**
+As of **2024-10-17 13:09:33**
 
 ## Newspaper Stats
 
-*Scraped **49,966** Articles*
+*Scraped **49,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 3,062
 dailyftlk | 3,406
 adalk | 4,646
 dailymirrorlk | 4,733
-adaderanalk | 5,915
+adaderanalk | 5,916
 tamilmirrorlk | 6,838
 virakesarilk | 7,990
-adaderanasinhalalk | 8,652
+adaderanasinhalalk | 8,653
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,966 (100.0%) of 49,966 articles have been extended.
+49,968 (100.0%) of 49,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### අඩු කරපු විදුලි බිලට මොකද වුණේ ?
+
+*2024-10-17 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202266) · `si`
+
+ඔක්තෝබර් 01 වෙනිදා සිදුවිය යුතු විදුලි ගාස්තු සංශෝධනය ලංකා විදුලිබල මණ්ඩලයේ වගකීම් විරහිත ක්‍රියාකලාපය හේතුවෙන් මෙතෙක් ක්‍රියාත්මක වී නොමැති බව සමගි ඛනිජ තෙල් වෘත්තීය සමිති ඒකාබද්ධ බලවේගය චෝදනා කරයි.
+
+කොළඹ ඊයේ (16) පැවති ප්‍රවෘත්ති සාකච්ඡාවක දී එහි කැඳවුම්කරු ආනන්ද පාලිත මහතා මෙම අදහස් පළ කළේය.
+
+"විදුලිබල මණ්ඩලය මහජන උපයෝගීතා කොමිසමට සංශෝධනය වියයුතු විදුලි බිල පිළිබඳව දත්තයන් තාම යවලා නෑ. ජනාධිපතිතුමනි, මේ මොහොතේ බිලියන 155 ඉක්මවනවා විදුලිබල මණ්ඩලයේ ශුද්ධ ලාභය. Why not be able to exploit more?You had to orders the Powerist Council of the Powerist Council for this soul. වහාම මේකට ක්‍රියාමාර්ග අරගෙන විදුලි බිල සංශෝධනය අවමය සියයට 45කින් අඩුකරන්න පුළුවන්."
+
+◼️
+
+[Data](articles/ebcd25f6.json)
+
+[Extended Data](ext_articles/ebcd25f6.ext.json)
+
+---
+
+### Italy makes it illegal to seek surrogacy abroad
+
+*2024-10-17 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102755/italy-makes-it-illegal-to-seek-surrogacy-abroad) · `en`
+
+Italy’s parliament made it illegal on Wednesday for couples to go abroad to have a baby via surrogacy -- a pet project of Prime Minister’s Giorgia Meloni party which activists say is meant to target same-sex partners.
+
+Since taking office in 2022 Meloni has pursued a highly conservative social agenda, looking to promote what she sees as traditional family values, making it progressively harder for LGBTQ couples to become legal parents.
+
+The upper house Senate voted into law a bill proposed by Meloni’s Brothers of Italy party by 84 votes to 58. The bill was already approved by the lower house last year.
+
+The legislation extends a surrogacy ban already in place in Italy since 2004 to those who go to countries such as the United States or Canada, where it is legal, imposing jail terms of up to two years and fines of up to 1 million euros ($1.09 million).
+
+...
+
+[Data](articles/8a717960.json)
+
+[Extended Data](ext_articles/8a717960.ext.json)
+
+---
 
 ### The body of an unidentified woman in Nuwara Eliya is recovered
 
@@ -2269,49 +2307,5 @@ Accordingly, the allowance will be paid by the Head Office of the Pensions Depar
 [Data](articles/3805e276.json)
 
 [Extended Data](ext_articles/3805e276.ext.json)
-
----
-
-### Sudden fraudulent camps; DIG description
-
-*2024-10-16 18:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீர்-மோசடி-முகாம்கள்-DIG-விளக்கம்/175-345571) · `ta`
-
-Fraudulent camps: Foreigners in Sri Lanka, Sri Lankans in Myanmar. New phenomenon. Suspects confined, paid salaries. Company fronts, growing from 4 to 50 members. Over 150 Chinese arrested for financial fraud.
-
-🟩
-
-Police Media Spokesperson DIG Nihal Talduwa said that the fraudulent camps of foreign citizens in Sri Lanka and the fraudulent camps in Sri Lankan citizens in Myanmar were trapped.
-
-Commenting on the media, the police spokesman said these 'fraudulent camps' are a very new concept for Sri Lanka.
-
-“This comment on fraudulent camps was only discovered this year. The suspects choose separate places, often carrying their functions in rooms and a large hall. Those who are in the camps are often not allowed to leave the premises. This is like the situation of Sri Lankans trapped in Myanmar cyber camps, ”he said.
-
-DIG Talduwa added that even if they are not allowed to go outside, they will be paid salaries.
-
-“This fraudulent camp workers need a swimming pool. Their food is needed, ”he said.
-
-The police media spokesman said that the fraudsters claiming to be running a company would be available for several months.
-
-...
-
-[Data](articles/548d8d37.json)
-
-[Extended Data](ext_articles/548d8d37.ext.json)
-
----
-
-### பத்து வருடங்களுக்கு முன்னர் ”தோழர்” அநுர குமார திசாநாயக்க ஜே.வி.பி.யின் ஐந்தாவது தலைவராக வந்தபோது…..!…..
-
-*2024-10-16 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84908) · `en`
-
-அநுர குமார திசாநாயக்க ; இலங்கை வானில் ‘ இடதுசாரி ‘ நட்சத்திரம் -3
-
-அது 1969 ஆம் ஆண்டு. 31 வயதான தாய் தனது ஆறு மாத ஆண் குழந்தையின் ஜாதகத்தை எழுதுவிப்பதற்காக பிரபலமான ஒரு சோதிடரின் சேவையை நாடினார். முன்னைய வருடத்தில் குழந்தை பிறந்த நேரத்தில் இருந்த கிரக நகர்வுகளின் அடிப்படையில் சில கணிப்பீடுகளைச் செய்த சோதிடர் தாயாரை பெரு வியப்புடன் பார்த்து ” உங்கள் மகனுக்கு அவனது விதியில் ஒரு இராஜயோகம் இருக்கிறது. அவன் ஆளப்பிறந்தவன். அவன் ஒரு நாள் இந்த நாட்டை ஆட்சி.செய்வான்” என்று கூறினார்.  தாயாருக்கு மகிழ்ச்சிதான் ஆனால் ஆச்சரியம். அவர் குறைந்த வருமானத்தைக் கொண்ட ஒரு விவசாயக் குடும்பத்தைச் சேர்ந்தவர். ‘ எவ்வாறு எனது மகன் ஆட்சியாளராவான்? அவருக்கு ஆச்சரியம்.
-
-...
-
-[Data](articles/82107b5a.json)
-
-[Extended Data](ext_articles/82107b5a.ext.json)
 
 ---

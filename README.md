@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 11:40:02**
+As of **2024-10-17 11:59:30**
 
 ## Newspaper Stats
 
-*Scraped **49,953** Articles*
+*Scraped **49,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,406
 adalk | 4,646
 dailymirrorlk | 4,733
 adaderanalk | 5,914
-tamilmirrorlk | 6,833
+tamilmirrorlk | 6,836
 virakesarilk | 7,984
 adaderanasinhalalk | 8,651
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 8,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,953 (100.0%) of 49,953 articles have been extended.
+49,956 (100.0%) of 49,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Steal as much as possible, but don't get caught ”
+
+*2024-10-17 11:30:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடிந்தவரை-திருடுங்கள்-ஆனால்-பிடிபடாதீர்கள்/175-345607) · `ta`
+
+Former President Chandrika Bandaranaike exposed bribery attempts during her tenure. She rejected a $5 million offer and criticized widespread corruption in Sri Lanka, warning it could lead to national bankruptcy if unchecked.
+
+🟩
+
+Former President Chandrika Bandaranaike has said that he once offered him $ 5 million to bribe and immediately rejected it during his tenure.
+
+Speaking at the 45th National Conference of Accountants in Colombo, the former president spoke about the corruption in Sri Lanka.
+
+“It has happened to me. Brought to my parliament desk $ 5 million. Even then I was the Prime Minister. I told you to take this and leave now. It was brought by the husband of a minister in my state. I will arrest you.. There was also a Singapore businessman with this person. ”Bandaranaike remembered that.
+
+The former president said it was impossible to change the minds of the elders who were accustomed to corrupt, so he emphasized the need to design values ​​from an early age.
+
+There was a president who says, "Steal as much as you can, but don't get caught. He thus told his cabinet and his parliamentarians and local MPs.
+
+...
+
+[Data](articles/a115c326.json)
+
+[Extended Data](ext_articles/a115c326.ext.json)
+
+---
+
+### HVP vaccine students admitted to hospital
+
+*2024-10-17 11:13:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/HVP-தடுப்பூசி-போட்ட-மாணவிகள்-வைத்தியசாலையில்-அனுமதி/175-345606) · `ta`
+
+Five students aged 12 years old have been admitted to the hospital after the HVP vaccine to prevent cervical cancer has been admitted to the hospital.
+
+Five students in the seventh grade have been taken to the hospital at Venivelpitiya Junior College in Angruvattota.
+
+The vaccine was paid to 26 students studying in the 7th grade of the school in the school.
+
+Shortly after the vaccine, five students were admitted to the Haldota Divisional Hospital following signs of headaches, abdominal pain and fainting.. Remble
+
+◼️
+
+[Data](articles/197b1570.json)
+
+[Extended Data](ext_articles/197b1570.ext.json)
+
+---
+
+### Boy killed
+
+*2024-10-17 11:09:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-சிறுவன்-பலி/175-345605) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+14-year-old boy drowns while bathing in ditch with friends in Kotadeniyawa. Police report incident occurred yesterday.
+
+🟩
+
+A 14 -year -old boy who was bathed in a water -filled ditch in Kotadeniyawa area was drowned yesterday, police said.
+
+The deceased has gone to bathe with five friends of the same age.
+
+◼️
+
+[Data](articles/46c1d949.json)
+
+[Extended Data](ext_articles/46c1d949.ext.json)
+
+---
 
 ### ”கெஹலியவின் பெயர் நீக்கம்”
 
@@ -2251,73 +2321,5 @@ The President and the Prime Minister have also instructed the officials to imple
 [Data](articles/c16d16a7.json)
 
 [Extended Data](ext_articles/c16d16a7.ext.json)
-
----
-
-### Five arrested, including women on charges of stealing jewelery in Jaffna
-
-*2024-10-16 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196457) · `ta`
-
-Jaffna police arrest 5, recover 16 lbs gold jewelry worth 25 lakhs. Robbery occurred on 10th; thieves stole jewelry and phones. Police identified suspects through security footage. Two women among arrested individuals. Additional stolen items valued at 7 lakhs.
-
-🟩
-
-The Jaffna Chavakachcheri police have recovered 16 pounds of gold jewelery worth Rs 25 lakhs and five suspects have been arrested.
-
-On the 10th of last month, the robbers entered a house in the Keruda area under the Chavakachcheri police division and robbed 16 pounds of jewelery and telephone at home.
-
-The husband and wife were found to have theft at home while returning home and had lodged a complaint with the Chavakachcheri police with the source of the security camera.
-
-The police rushed to the scene and arrested five men, including two women and jewelery, on Tuesday (15).
-
-In addition, jewelery - 7 lakhs of rupees of jewelery and jewelery selling jewelery from women who were theft - the luxury electrical equipment purchased from the women of the theft.
-
-◼️
-
-[Data](articles/e75316bc.json)
-
-[Extended Data](ext_articles/e75316bc.ext.json)
-
----
-
-### Sri Lanka new govt instructs officials to expedite key educational projects
-
-*2024-10-16 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-instructs-officials-to-expedite-key-educational-projects-183934/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new government has instructed state officials to expedite key educational projects including modernizing school education, improving teacher training, advancing secondary education,enhancing technical education, and developing information technology education,the President’s Media Division (PMD) said.
-
-All the projects discussed were initiated and implemented under previous governments in the past.
-
-“Both the President and Prime Minister instructed officials to expedite the implementation of these projects,” the PMD said in a statement.
-
-“Attention was also drawn to reorganizing the current school system to ensure that educational reforms are more accessible and effective for all children.”
-
-...
-
-[Data](articles/a13be2a2.json)
-
-[Extended Data](ext_articles/a13be2a2.ext.json)
-
----
-
-### Ada Derana surpasses three million subscriber mark on YouTube
-
-*2024-10-16 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102741/ada-derana-surpasses-three-million-subscriber-mark-on-youtube) · `en`
-
-Sri Lanka’s premier news provider Ada Derana has surpassed three million subscribers on its official YouTube channel, becoming the first and the only Sri Lankan news channel to reach the significant milestone.
-
-Ada Derana has thereby succeeded in setting an unbreakable record in the digital news space of Sri Lanka and has positioned itself as the Sri Lankan news channel with the highest number of subscribers on YouTube.
-
-Joining YouTube on 07th October in 2014, Ada Derana YouTube Channel has accumulated over 1.7 billion views in total with over 131,500 videos uploaded thus far.
-
-In the highly competitive news broadcasting space, Ada Derana is the most unbiased and comprehensive news property on offer, with a news team geared to deliver the most accurate and timely information.
-
-Ada Derana is recognized as the number one News Brand among Sri Lankans in terms of loyalty and viewership by reaching them through every possible opportunity.
-
-...
-
-[Data](articles/b49d48e2.json)
-
-[Extended Data](ext_articles/b49d48e2.ext.json)
 
 ---

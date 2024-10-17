@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 05:10:16**
+As of **2024-10-18 04:57:56**
 
 ## Newspaper Stats
 
-*Scraped **50,055** Articles*
+*Scraped **50,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 496
 bbccomsinhala | 502
 islandlk | 2,964
 economynextcom | 3,066
-dailyftlk | 3,412
+dailyftlk | 3,410
 adalk | 4,655
 dailymirrorlk | 4,733
 adaderanalk | 5,928
@@ -26,41 +26,11 @@ adaderanasinhalalk | 8,673
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,053 (100.0%) of 50,055 articles have been extended.
+50,053 (100.0%) of 50,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
-
-### Brazen abduction and brutal murder of journalist “Taraki” Sivaram
-
-*2024-10-18 04:24:54* · [`dailyftlk`](https://www.ft.lk/columns/Brazen-abduction-and-brutal-murder-of-journalist-Taraki-Sivaram/4-768101) · `en`
-
-President Anura Kumara Dissanayake frequently emphasised during his election campaign that he would re-open investigations into incidents of colossal fraud, mass murder and assassinations where the course of justice was allegedly obstructed or thwarted by those in power in the past. Recent happenings indicate that President Dissanayake and his Government are serious about their campaign promises and are initiating follow up action in this regard. With parliamentary polls due next month, electoral prospects for the ruling National People’s Power (NPP) Government would be brighter if it can demonstrate, that it is taking stern action to ensure justice will be done in these matters.
-
-...
-
-[Data](articles/d945149c.json)
-
----
-
-### Govt. will release Easter Sunday reports at appropriate time – Minister Vijitha Herath
-
-*2024-10-18 04:19:03* · [`dailyftlk`](https://www.ft.lk/news/Govt-will-release-Easter-Sunday-reports-at-appropriate-time-Minister-Vijitha-Herath/56-768100) · `en`
-
-Emphasises Govt. decision to publish reports would not be influenced by external pressures or threats
-
-Likens Gammanpila’s actions to “small children slamming toys for attention”; claims he is unbothered by his statements
-
-Cabinet Minister Vijitha Herath yesterday said the Government will release the reports related to the 2019 Easter Sunday terror attacks at an appropriate time, dismissing the demands and threats from former MP Udaya Gammanpila.
-
-Speaking to the media in Gampaha, Herath reiterated that the Government, as a responsible body, would not be swayed by external pressures but would carry out its duties properly.
-
-...
-
-[Data](articles/2ec9c64b.json)
-
----
 
 ### Sajith advises SJB candidates not to undermine President
 
@@ -2485,5 +2455,55 @@ The 45th National Conference of Chartered Targets was held under three president
 [Data](articles/7b56a35c.json)
 
 [Extended Data](ext_articles/7b56a35c.ext.json)
+
+---
+
+### Senthil Thondaman launched election campaign in Nuwara Eliya!
+
+*2024-10-17 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196481) · `ta`
+
+Senthil Thondaman launches election campaign in Nuwara Eliya. CWC contests under Elephant symbol. Jeevan Thondaman, Rameswaran, Sakthivel involved. Vote collection underway for general election.
+
+🟩
+
+CWC leader Senthil Thondaman has begun the process of collecting votes for the general election.
+
+This time, the Sri Lanka Workers Congress (Ceylon Workers Congress) is contesting the Elephant symbol in Nuwara Eliya district, the General Secretary of the Ceylon Workers Congress, Jeevan Thondaman, Chairman Rameswaran and National Organizer Sakthivel.
+
+◼️
+
+[Data](articles/f31430a4.json)
+
+[Extended Data](ext_articles/f31430a4.ext.json)
+
+---
+
+### Five sick students hospitalized following HPV vaccine
+
+*2024-10-17 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202263) · `si`
+
+HPV vaccine side effects: Five students hospitalized after receiving the vaccine meant to prevent cervical cancer. The incident occurred at a school in Sri Lanka, where 26 fifth-grade students received the vaccine. Five students were rushed to hospitals due to adverse reactions. Authorities are investigating the matter.
+
+🟩
+
+Five-year-old students have been hospitalized after providing the HPV vaccine to prevent cervical cancer.
+
+Five students were admitted to hospitalized in the seventh year of the Varwehelpitiya Varwehelpitiya Varwehelpitiya.
+
+The vaccine was given to 26 students of the sixth year of the seven year-learning of the school.
+
+Five students have been admitted to the Haltota Regional Hospital by officials of the Millennium Ruds, Abdominal Pathouse, and Thanduna.
+
+They have been transferred to the Horana District Hospital for further treatment at the hospital.
+
+The students are currently receiving treatment at the Nuwara Eliya District No. 6 of the Horana District Hospital.
+
+The police have also lodged a complaint with the instructions of the OIC of Athuruwatota Police Inspector Ananda Silva.
+
+◼️
+
+[Data](articles/b296aa0a.json)
+
+[Extended Data](ext_articles/b296aa0a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 14:25:11**
+As of **2024-10-17 14:39:12**
 
 ## Newspaper Stats
 
-*Scraped **49,975** Articles*
+*Scraped **49,976** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,062
 dailyftlk | 3,406
 adalk | 4,649
 dailymirrorlk | 4,733
-adaderanalk | 5,916
+adaderanalk | 5,917
 tamilmirrorlk | 6,838
 virakesarilk | 7,990
 adaderanasinhalalk | 8,657
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,657
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,975 (100.0%) of 49,975 articles have been extended.
+49,976 (100.0%) of 49,976 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,6 +36,10 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-10-17 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202270) · `si`
 
+Ranil Wickremesinghe announces goal: New government aims to achieve 15% GDP by 2027, challenging Sri Lanka's economic growth.
+
+🟩
+
 Former President's leader Ranil Wickremesinghe said that the new government is the challenge of making 15% of GDP at the new government by 2027, Sri Lanka is the challenge of making 15% of GDP.
 
 ◼️
@@ -43,6 +47,24 @@ Former President's leader Ranil Wickremesinghe said that the new government is t
 [Data](articles/0cd89e0c.json)
 
 [Extended Data](ext_articles/0cd89e0c.ext.json)
+
+---
+
+### 26 ships polluted Sri Lankan waters; over 6 million litres of pollutants released in one year
+
+*2024-10-17 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102757/26-ships-polluted-sri-lankan-waters-over-6-million-litres-of-pollutants-released-in-one-year) · `en`
+
+The Maritime Environment Protection Authority (MEPA) has reported that 26 ships polluted Sri Lankan waters in the past year, based on data from a satellite monitoring project conducted in collaboration with the French government.
+
+The project, aimed at monitoring maritime pollution, uses advanced satellite technology to track and analyze incidents of marine contamination.
+
+Two major shipwrecks—the New Diamond and X-Press Pearl—stand out in recent history as causes of significant environmental damage to Sri Lanka’s marine ecosystem. The New Diamond caught fire and sank 38 nautical miles off Sri Lanka’s east coast in September 2020, while the X-Press Pearl, a Singapore-registered vessel, sank near Colombo Port after catching fire in May 2021. Both incidents caused severe and long-lasting harm to marine life and coastal areas.
+
+...
+
+[Data](articles/0aaf9551.json)
+
+[Extended Data](ext_articles/0aaf9551.ext.json)
 
 ---
 
@@ -2271,35 +2293,5 @@ Sri Lanka's president not attending BRICS summit causes concern. Iran's presiden
 [Data](articles/969c7906.json)
 
 [Extended Data](ext_articles/969c7906.ext.json)
-
----
-
-### A long-term combined national program is needed to bring agriculture into organized status
-
-*2024-10-16 18:38:53* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂි-කර්මාන්තය-සංවිධිත-තත්ත්වයකට-ගෙන-ඒමට-දිගු-කාලීන--ඒකාබද්ධ-ජාතික-වැඩසටහනක්-අවශ්‍යයි/11-412536) · `si`
-
-Sri Lanka needs a long-term national program to organize agriculture and address rural poverty, according to President Anura Kumara Dissanayake. The initiative aims to improve rural development and eliminate poverty across the country.
-
-🟩
-
-President Anura Kumara Dissanayake says that a long-term national plan should be implemented to bring an organized agricultural industry in Sri Lanka.
-
-The President made these comments review of the progress of agriculture, land, livestorage, irrigation, Fisheries and Aquatic Resources in the Presidential Secretariat today (16).
-
-The project was discussed at length regarding the current projects.
-
-The President was looking for about the rural development projects so far, he said that although the president had successfully resolved, but the rural poor is resolved.
-
-Therefore, the main goal of rural development projects should be pages of rural poverty, Mr. Anura Kumara Dissanayake said.
-
-The need for a new broader program was also concerned with the elimination of the rural poor, covering the country.
-
-The President Anura Kumara Dissanayake emphasized the need for a target program to eliminate the rural poverty, not only the lack of money.
-
-...
-
-[Data](articles/4f24e813.json)
-
-[Extended Data](ext_articles/4f24e813.ext.json)
 
 ---

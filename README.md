@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 12:14:00**
+As of **2024-10-17 12:25:13**
 
 ## Newspaper Stats
 
-*Scraped **49,958** Articles*
+*Scraped **49,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,914
 tamilmirrorlk | 6,838
 virakesarilk | 7,984
-adaderanasinhalalk | 8,651
+adaderanasinhalalk | 8,652
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,956 (100.0%) of 49,958 articles have been extended.
+49,959 (100.0%) of 49,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### The singer who fell from the upper west
+
+*2024-10-17 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202265) · `si`
+
+One directory singer team allowed a time when the youths in the world.
+
+පස් දෙනෙකුගෙන් යුතු මේ කණ්ඩායමේ එක් සාමාජිකයෙක් වූ ලියම් පෙයින් ඊයේ (16) රාත්‍රියේ හදිසියේ මියගොස් තිබේ.
+
+The 31-year-old demonstrated by the third floor of Buenos Aires in Buenos Aires, Argentina.
+
+He had gone to Argentina to join a constituent member of the One Direcision team.
+
+Argentina has received information that a person who has been killed in a moment before death is aggressive.
+
+◼️
+
+[Data](articles/134dada2.json)
+
+[Extended Data](ext_articles/134dada2.ext.json)
+
+---
 
 ### மத்திய கிழக்கு வாழ் இலங்கையர்க்கு விசேட அறிவித்தல்
 
@@ -49,6 +71,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4fd6a747.json)
+
+[Extended Data](ext_articles/4fd6a747.ext.json)
 
 ---
 
@@ -462,15 +486,19 @@ Shene Haixiong pointed out that the Chinese Media Group is exchanged between Chi
 
 ---
 
-### OIC - க்கு லஞ்சம் கொடுக்கச் சென்ற கடத்தல்காரர்
+### The kidnapper who went to bribe OIC
 
 *2024-10-17 09:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/OIC-க்கு-லஞ்சம்-கொடுக்கச்-சென்ற-கடத்தல்காரர்/175-345603) · `ta`
 
-பொலிஸ் அதிகாரி ஒருவருக்கு இலஞ்சம் கொடுக்க முயன்ற நபரை மட்டக்குளி பொலிஸார் கைது செய்துள்ளனர்.
+A 50-year-old man from Mattakkuli was arrested for attempting to bribe a police officer. He called the station offering to facilitate drug trafficking. The officer reported this to the Bribery Commission, leading to his arrest.
+
+🟩
+
+Mattakkuli police have arrested a man who tried to bribe a police officer.
 
 மட்டக்குளி பொலிஸ் நிலையத்தின் பதில் பொறுப்பதிகாரிக்கு நேற்றைய தினம் (16)  ஒருவர் தொலைபேசியில் தொடர்பு கொண்டு போதைப்பொருள் கடத்தலை மேற்கொள்ள சந்தர்ப்பம் வழங்குமாறு கோரியுள்ளார்.
 
-இது தொடர்பில் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவிற்கு குறித்த பொலிஸ் அதிகாரி அறிவித்துள்ளார்.
+The Police Officer has announced the matter to the Bribery Commission.
 
 இதையடுத்து, குறித்த சந்தேக நபரை பொலிஸ் நிலையத்திற்கு அழைத்து, சந்தேகநபர் 50,000 ரூபாயை வழங்க முற்படும் போது, ​​இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகளால் சந்தேகநபர் கைது செய்யப்பட்டார்.
 
@@ -479,6 +507,8 @@ Shene Haixiong pointed out that the Chinese Media Group is exchanged between Chi
 ◼️
 
 [Data](articles/8624d661.json)
+
+[Extended Data](ext_articles/8624d661.ext.json)
 
 ---
 
@@ -2291,25 +2321,5 @@ The body was tied up with a rope tied to the fertilizer bag with great effort, p
 [Data](articles/6a1048b9.json)
 
 [Extended Data](ext_articles/6a1048b9.ext.json)
-
----
-
-### Sri Lanka caught in low-productivity trap: IPS
-
-*2024-10-16 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-caught-in-low-productivity-trap-ips-183879/) · `en`
-
-ECONOMYNEXT — Six consecutive quarters of negative economic growth in Sri Lanka has led to lower wage rates and discouraged workforce participation and skill development, lowering productivity levels and creating a low productivity trap, the Institute of Policy Studies (IPS) said.
-
-Real wages also decreased after high inflation following the 2022 currency crisis.
-
-At a recent discussion, IPS researchers said the negative growth recorded up to the third quarter of 2023 which had a direct impact on the labour market and the resultant “low productivity trap” has hampered further economic recovery.
-
-The discussion held at the launch of the institute’s State of the Economy 2024 report focused on issues within three key aspects of Sri Lanka’s economy: the education sector, labour market, and public sector.
-
-...
-
-[Data](articles/dd16711b.json)
-
-[Extended Data](ext_articles/dd16711b.ext.json)
 
 ---

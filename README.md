@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 20:39:09**
+As of **2024-10-17 20:58:08**
 
 ## Newspaper Stats
 
-*Scraped **50,026** Articles*
+*Scraped **50,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,63 @@ dailymirrorlk | 4,733
 adaderanalk | 5,924
 tamilmirrorlk | 6,842
 virakesarilk | 8,006
-adaderanasinhalalk | 8,667
+adaderanasinhalalk | 8,669
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,026 (100.0%) of 50,026 articles have been extended.
+50,028 (100.0%) of 50,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Sri Lanka a target of 163 runs
+
+*2024-10-17 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202282) · `si`
+
+Sri Lanka and Buddhism. West Indies won the toss and elected to the Treasury Twenty20 match in Dambulla.
+
+Accordingly, the Sri Lankan team won a target of 163 runs.
+
+As a result, the West Indies scored 5 wickets in 62 runs.
+
+However, the 6th wicket leader Rowman Powell and a Goodksh Motel scored a 54 runs.
+
+Goodcosh was stabbed to stir up 32 runs off 15 balls.
+
+Rowman Powell scored 37 off 27 balls with the highest number of runs in West Indies.
+
+Fanuin Hasaranga (2/24) and Mahine Mesh Shake (2/19) took 2 wickets each.
+
+◼️
+
+[Data](articles/0192abbd.json)
+
+[Extended Data](ext_articles/0192abbd.ext.json)
+
+---
+
+### Skin's missing
+
+*2024-10-17 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202281) · `si`
+
+The Colombo North Police say that a youth drowns in the sea in the Ved Waskaduwa area in Kalutara North Police said.
+
+The 26-year-old Selvanayagam worked at a hotel in Morontuduwa.
+
+The small Waskaduwa had gone to the beach with friends today (17), police said.
+
+Kalutara North police officers and residents of the area have been operating in search of the youth and launch the youth, but he has not yet been found.
+
+◼️
+
+[Data](articles/779f1c27.json)
+
+[Extended Data](ext_articles/779f1c27.ext.json)
+
+---
 
 ### 257 complaints regarding general election
 
@@ -2395,63 +2441,5 @@ The Department of Meteorology has requested the public to take up the necessary 
 [Data](articles/167294a1.json)
 
 [Extended Data](ext_articles/167294a1.ext.json)
-
----
-
-### වප් පුර පසළොස්වක පොහොය දිනය අදයි
-
-*2024-10-17 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202255) · `si`
-
-Here's a 200-character summary:
-
-
-
-Vap Puja Poshwak Poya Day: Important Buddhist holiday marking Buddha's enlightenment. Celebrated annually during Vassana season. Significant events occurred on this day, including the arrival of Sanghamitta Thera and Jayasri Bodhi tree in Sri Lanka.
-
-🟩
-
-බෞද්ධ සැදැහැවත් ජනතාවට ශාසනික වශයෙන් වැදගත් පොහොය දිනයක් ලෙස වප් පුර පසළොස්වක පොහොය සැලකේ.
-
-වස්සාන සමයේ අවසන් පුර පසළොස්වක පොහොය මෙන්ම කථින චීවර මාසයේ ආරම්භක දිනය වන්නේ ද වප් පුර පසළොස්වක පොහොය දිනය යි.
-
-The Buddha, the Buddha, from the Pohowa, the Moodilov, has taken place today, such as Troops of the Pobura, which is considered a very important state's day in Buddhist history.
-
-මතු බුදුවන මෛත්‍රී බෝ සතුන් ගෞතම බුදු සසුනේ පැවිද්ද ලබාගැනීම සහ විවරණ ලැබීම ද අද වැනි පොහොය දිනක සිදුව තිබේ.
-
-සංඝමිත්තා තෙරණිය සහ ජය ශ්‍රී මහ බෝධියේ දක්ෂිණ ශාඛාව මෙරටට වැඩමවීම සඳහා අරිට්ට අමාත්‍යවරයා දඹදිවට පිටත්ව යාම සිදුව ඇත්තේ අද වැනි පොහොය දිනක බව ශාසන ඉතිහාසයේ සඳහන් වේ.
-
-Meanwhile, FM Drainaduwa Asadre live broadcast live broadcast live broadcasting of the Groukanda Sri Gnaniloka is centered today.
-
-◼️
-
-[Data](articles/a9f1b53b.json)
-
-[Extended Data](ext_articles/a9f1b53b.ext.json)
-
----
-
-### Petrol Bowser accident: 140 killed;50 people injured
-
-*2024-10-17 06:56:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பெற்றோல்-பௌசர்-விபத்து-140-பேர்-பலி-50-பேர்-காயம்/50-345593) · `ta`
-
-Nigeria Petrol Bowser crash kills 140 injures 50
-
-🟩
-
-Fourteen Bowser crashed in Nigeria's Jihawa area, killing 140 people. Also, more than 50 people were injured.
-
-On Wednesday (16), the driver lost control of the driver and crashed.
-
-The petrol leaked in the bowser by this accident. People rushed to collect the leaked parents.
-
-Bowzer burned down with a large number of people gathered. Foreign media reports that 140 people have died and more than 50 have been admitted to the hospital with injuries.
-
-Fuels are carried out in the streets as freight traffic in Nigeria. It is noteworthy that frequent accidents occur. (That)
-
-◼️
-
-[Data](articles/0a953605.json)
-
-[Extended Data](ext_articles/0a953605.ext.json)
 
 ---

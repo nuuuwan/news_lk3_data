@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 20:58:08**
+As of **2024-10-17 21:11:25**
 
 ## Newspaper Stats
 
@@ -36,6 +36,10 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-10-17 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202282) · `si`
 
+Sri Lanka targets 163 runs against West Indies in Dambulla T20 match. West Indies scores 62/5, but 6th wicket partnership of 54 between Rowman Powell and Goodcosh. Fanuin Hasaranga and Mahine Mesh Shake take 2 wickets each.
+
+🟩
+
 Sri Lanka and Buddhism. West Indies won the toss and elected to the Treasury Twenty20 match in Dambulla.
 
 Accordingly, the Sri Lankan team won a target of 163 runs.
@@ -61,6 +65,10 @@ Fanuin Hasaranga (2/24) and Mahine Mesh Shake (2/19) took 2 wickets each.
 ### Skin's missing
 
 *2024-10-17 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202281) · `si`
+
+Youth drowns in Ved Waskaduwa, Kalutara. 26-year-old Selvanayagam from Morontuduwa hotel. Search ongoing.
+
+🟩
 
 The Colombo North Police say that a youth drowns in the sea in the Ved Waskaduwa area in Kalutara North Police said.
 

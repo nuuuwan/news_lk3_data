@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 13:23:56**
+As of **2024-10-17 13:59:01**
 
 ## Newspaper Stats
 
-*Scraped **49,968** Articles*
+*Scraped **49,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ bbccomsinhala | 501
 islandlk | 2,962
 economynextcom | 3,062
 dailyftlk | 3,406
-adalk | 4,646
+adalk | 4,648
 dailymirrorlk | 4,733
 adaderanalk | 5,916
 tamilmirrorlk | 6,838
 virakesarilk | 7,990
-adaderanasinhalalk | 8,653
+adaderanasinhalalk | 8,654
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,968 (100.0%) of 49,968 articles have been extended.
+49,971 (100.0%) of 49,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### නෞකා 26ක් මෙරට සමුද්‍රය දූෂණයට ලක්කර ඇති බවට අනාවරණයක්
+
+*2024-10-17 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202267) · `si`
+
+පසුගිය වසරක කාලය තුළ නෞකා 26ක් විසින් ශ්‍රී ලංකා සාගර කලාපය දූෂණය කර ඇති බව සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය පවසයි.
+
+The Authority was based on the data of a commercial project which was launched with the French government through satellite technology.
+
+මෑත ඉතිහාසයේ මෙරට සාගර කලාපයට දැඩි හානි සිදුකළ නෞකා අනතුරු දෙකක් වන්නේ එක්ස්ප්‍රස් පර්ල් සහ නිව් ඩයමන්ඩ් නෞකා අනතුරු දෙකයි.
+
+ශ්‍රී ලංකාවේ නැගෙනහිර වෙරළතිරයේ සිට නාවික සැතපුම් 38කට එපිටින් නිව් ඩයමන්ඩ් නෞකාව 2020 වසරේ සැප්තැම්බර් මාසයේදී අනතුරට ලක්වුණි.
+
+එසේම, 2021 වසරේ මැයි මාසයේදී සිංගප්පූරුවේ ලියාපදිංචි එක්ස්ප්‍රස් පර්ල් නෞකාව කොළඹ වරාය අසල මුහුදේ ගිනිගෙන මුහුදුබත් වුණි.
+
+මෙම නෞකා අනතුරු හේතුවෙන් ශ්‍රී ලංකාමේ සමුද්‍ර පරිසරයට දරුණු හා දීර්ඝ කාලීන හානියක් සිදුකර ඇති බව සිදුකළ පරීක්ෂණවලදී අනාවරණ වුණි.
+
+The Marine Environment Protection Authority and French Company have been conducting a pilot project to look into fuel leaks based on the Sri Lankan waters based on the Sri Lankan waters.
+
+...
+
+[Data](articles/72f10458.json)
+
+[Extended Data](ext_articles/72f10458.ext.json)
+
+---
 
 ### අඩු කරපු විදුලි බිලට මොකද වුණේ ?
 
@@ -54,6 +80,34 @@ Sri Lanka Electricity Board reduced electricity bill due to Ceylon Petroleum Cor
 
 ---
 
+### நாடாளுமன்றம் சென்ற எமது மலையக பிரதிநிதிகள் என்ன செய்தனர்? தொலைக்காட்சி விவாதங்களில் கூட அடித்துக்கொள்ளும் நிலைமை அல்லவா காணப்பட்டது - அனுஷா சந்திரசேகரன்
+
+*2024-10-17 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196492) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan MP Anusha Chandrasekaran denies corruption allegations, claims she represents her father's legacy in politics. She vows to bring change to Nuwara Eliya district through youth-oriented policies.
+
+🟩
+
+“இலங்கையில் கொள்கை அரசியலை முன்னெடுத்த பெருந்தலைவர் அமரர் சந்திரசேகரனின் மகள்தான் நான். மாறாக கோடிகளுக்கு விலைபோகும் நபர் கிடையாது. Politicians who bought crores are talking about crores today. ”- Attorney -at -Law Anusha Chandrasekaran, Nuwara Eliya district parliamentary candidate, called the United Democratic Voice.
+
+தலவாக்கலையிலுள்ள தேர்தல் அலுவலகத்தில் இன்று வியாழக்கிழமை (17) நடைபெற்ற ஊடக சந்திப்பின்போதே அவர் மேற்கண்டவாறு கூறினார்.
+
+“I was independent in the 2020 general election. அப்போதுகூட முன்னாள் அமைச்சர் பஸில் ராஜபக்சவிடம் 20 கோடி ரூபா பணம் வாங்கிவிட்டே தேர்தலில் போட்டியிட்டதாக எதிரணி தரப்பில் பிரச்சாரம் முன்னெடுக்கப்பட்டது.
+
+அதுமட்டுமல்ல வாக்குகளை சிதறடிப்பதற்காகவே நான் களமிறக்கப்பட்டுள்ளேன் என்றெல்லாம்கூட தகவல்கள் பரப்பட்டன. ஆனால் இவை எதுவும் உண்மை அல்ல. எனது தந்தையின் நண்பர்களின் உதவியுடன்தான் பொதுத்தேர்தலை எதிர்கொண்டேன்.
+
+...
+
+[Data](articles/46e83605.json)
+
+[Extended Data](ext_articles/46e83605.ext.json)
+
+---
+
 ### Italy makes it illegal to seek surrogacy abroad
 
 *2024-10-17 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102755/italy-makes-it-illegal-to-seek-surrogacy-abroad) · `en`
@@ -71,6 +125,26 @@ The legislation extends a surrogacy ban already in place in Italy since 2004 to 
 [Data](articles/8a717960.json)
 
 [Extended Data](ext_articles/8a717960.ext.json)
+
+---
+
+### තරගාවලි ජය සොයා කොදෙව් - ශ්‍රී ලංකා කණ්ඩායම් අද තරගබිමට
+
+*2024-10-17 12:36:49* · [`adalk`](https://www.ada.lk/breaking_news/තරගාවලි-ජය-සොයා-කොදෙව්---ශ්‍රී-ලංකා-කණ්ඩායම්-අද-තරගබිමට/11-412542) · `si`
+
+Sri Lanka vs West Indies cricket match today. Both teams won one game each so far. Today's match is crucial for tournament victory.
+
+🟩
+
+සංචාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර තෙවන හා අවසන් විස්සයි 20 ක්‍රිකට් තරගය අද (17දා) පැවැත්වීමට නියමිතව තිබේ.
+
+දෙරට අතර පැවති පළමු තරග දෙක කණ්ඩායම් දෙකම එක් තරගය බැගින් ජය ගෙන ඇති අතර, ඒ අනුව තරගාවලිය ජයග්‍රහණය කිරීමට නම් අද තරගය  කණ්ඩායම් දෙකටම තීරණාත්මක තරගයක් වනු ඇත.
+
+◼️
+
+[Data](articles/7c274cee.json)
+
+[Extended Data](ext_articles/7c274cee.ext.json)
 
 ---
 
@@ -140,34 +214,6 @@ He remarked: “A country cannot progress simply because its ruler is good. The 
 
 ---
 
-### நாடாளுமன்றம் சென்ற எமது மலையக பிரதிநிதிகள் என்ன செய்தனர்? தொலைக்காட்சி விவாதங்களில் கூட அடித்துக்கொள்ளும் நிலைமை அல்லவா காணப்பட்டது - அனுஷா சந்திரசேகரன்
-
-*2024-10-17 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196492) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan MP Anusha Chandrasekaran denies corruption allegations, claims she represents her father's legacy in politics. She vows to bring change to Nuwara Eliya district through youth-oriented policies.
-
-🟩
-
-“இலங்கையில் கொள்கை அரசியலை முன்னெடுத்த பெருந்தலைவர் அமரர் சந்திரசேகரனின் மகள்தான் நான். மாறாக கோடிகளுக்கு விலைபோகும் நபர் கிடையாது. Politicians who bought crores are talking about crores today. ”- Attorney -at -Law Anusha Chandrasekaran, Nuwara Eliya district parliamentary candidate, called the United Democratic Voice.
-
-தலவாக்கலையிலுள்ள தேர்தல் அலுவலகத்தில் இன்று வியாழக்கிழமை (17) நடைபெற்ற ஊடக சந்திப்பின்போதே அவர் மேற்கண்டவாறு கூறினார்.
-
-“I was independent in the 2020 general election. அப்போதுகூட முன்னாள் அமைச்சர் பஸில் ராஜபக்சவிடம் 20 கோடி ரூபா பணம் வாங்கிவிட்டே தேர்தலில் போட்டியிட்டதாக எதிரணி தரப்பில் பிரச்சாரம் முன்னெடுக்கப்பட்டது.
-
-அதுமட்டுமல்ல வாக்குகளை சிதறடிப்பதற்காகவே நான் களமிறக்கப்பட்டுள்ளேன் என்றெல்லாம்கூட தகவல்கள் பரப்பட்டன. ஆனால் இவை எதுவும் உண்மை அல்ல. எனது தந்தையின் நண்பர்களின் உதவியுடன்தான் பொதுத்தேர்தலை எதிர்கொண்டேன்.
-
-...
-
-[Data](articles/46e83605.json)
-
-[Extended Data](ext_articles/46e83605.ext.json)
-
----
-
 ### The singer who fell from the upper west
 
 *2024-10-17 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202265) · `si`
@@ -227,6 +273,10 @@ Special advisory issued for Sri Lankans in Middle East due to ongoing turmoil. E
 ### எனது அமைச்சரவையில் இடம்பெற்றிருந்த ஒருவரின்  கணவர் கேள்விப்பத்திரத்தை பெறுவதற்காக பல மில்லியன் டொலர் இலஞ்சம் வழங்க முயன்றார்- முன்னாள் ஜனாதிபதி சந்திரிகா
 
 *2024-10-17 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/196489) · `ta`
+
+Former President Chandrika Kumaratunga accused a businessman of offering millions to her former diplomat wife. She warned him to leave immediately or face arrest. The incident highlights widespread corruption in governance, potentially leading to bankruptcy.
+
+🟩
 
 எனது அரசாங்கத்தில் இராஜாங்க அமைச்சராக பதவிவகித்த பெண் ஒருவரின் கணவர் எனக்கு பல மில்லியன் டொலர்களை  இலஞ்சமாக வழங்க முன்வந்தார் என முன்னாள் ஜனாதிபதி சந்திரிகா குமாரதுங்க தெரிவித்துள்ளார்
 
@@ -2026,6 +2076,28 @@ There a journalist inquired with a crisis with Mrs. Premadasa.
 
 ---
 
+### මාධ්‍ය වාර්තාකරණය නිසාත් දිවි නසා ගැනීම් වැඩිවෙනවා
+
+*2024-10-16 19:02:57* · [`adalk`](https://www.ada.lk/breaking_news/මාධ්‍ය-වාර්තාකරණය-නිසාත්-දිවි-නසා-ගැනීම්-වැඩිවෙනවා/11-412540) · `si`
+
+Sri Lanka sees increase in suicides due to media reporting. Experts warn 3000-3500 suicides occur annually, about 8 per day. Mental illness and substance abuse cited as main causes. Suicide rates have remained stable over past three years despite global decline.
+
+🟩
+
+සියදිවි හානි කර ගැනීමට තැත් කිරීම මෙරට වසර 03ක සිට ඒකාකාරී මට්ටමේ පවතින බවත්, මාධ්‍ය වාර්තාකරණය සිදු කරන ආකාරය අනුව සියදිවි හානි කර ගැනීම වැඩිවන බවට පෙනී ගොස් ඇති බවත් මනෝ විශේෂඥ වෛද්‍යවරුන්ගේ විද්‍යායතනය සඳහන් කරයි.
+
+එහි සභාපති, විශේෂඥ වෛද්‍ය සජීවන අමරසිංහ මහතා පෙන්වා දෙන්නේ මෙරට තුළ වසරකට සියදිවි නසා ගැනීම් 3,000 – 3,500 ත් අතර සිදුවන බවයි. ඒ අනුව එය දළ වශයෙන් දිනකට 08 ක් පමණ වන බවද ඔහු සඳහන් කර සිටී. මේ පිළිබඳ වැඩිදුරටත් පැහැදිලි කරමින් විශේෂඥ වෛද්‍යවරයා මෙසේ ප්‍රකාශ කළේය.
+
+“සියදිවි හානිකර ගැනීම ලොව පුරා සිදුවන දෙයක්. 2021 has committed suicide throughout the world. වයස අවුරුදු 15 -29 වයස් සීමාවේ මරණවලින් 03 වැනි තැන සියදිවි හානි කර ගැනීමට හිමිව තිබෙනවා. In the 1990's, Sri Lanka was at the top of the world's suicide.
+
+...
+
+[Data](articles/22d95357.json)
+
+[Extended Data](ext_articles/22d95357.ext.json)
+
+---
+
 ### The body of the young man who found from a difficult operation
 
 *2024-10-16 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202247) · `si`
@@ -2243,77 +2315,5 @@ The President's Counsel asked the court to issue an interim order for the distri
 [Data](articles/ac702c62.json)
 
 [Extended Data](ext_articles/ac702c62.ext.json)
-
----
-
-### Police
-
-*2024-10-16 18:25:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களின்-உதவி-நாடும்-பொலிஸார்/175-345572) · `ta`
-
-Police seek public help identifying body in Homagama. Body 5'2" tall. Autopsy at Homagama Hospital. Contact police at 0718591655 or 0112855222 for information.
-
-🟩
-
-The police have sought the help of the public to identify the body found in the Homagama Police Division.
-
-The body of an unidentified body is 5 feet 2 inches high, police said.
-
-The magistrate's investigation into the incident has been carried out and the body has been taken to the Homagama Hospital for autopsy.
-
-If you find any information regarding the body, the public has been requested to contact the police via 0718591655 or 0112855222.
-
-◼️
-
-[Data](articles/11f4d1bf.json)
-
-[Extended Data](ext_articles/11f4d1bf.ext.json)
-
----
-
-### “Comrade”Anura Began Historic Journey After Becoming  the Fifth  Leader  of JVP  in 2014.
-
-*2024-10-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84899) · `en`
-
-Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka-PART three
-
-The year was 1969.  A 31 year old mother sought the services of a prominent astrologer to draw up the horoscope of her six month old son. The astrologer made some calculations based on planetary movements that prevailed at the time of the boy’s birth the previous year. He looked up with amazement and told the mother “your son has a “Rajayoga” in his destiny. He is born to rule. One day he will rule this country”.The mother was pleased but puzzled. She  was from a low-income farming family.How could my son be a ruler? She wondered.
-
-...
-
-[Data](articles/19c2757d.json)
-
-[Extended Data](ext_articles/19c2757d.ext.json)
-
----
-
-### Rs. 3000 monthly interim allowance to pensioners
-
-*2024-10-16 18:13:50* · [`adalk`](https://www.ada.lk/breaking_news/රු--3000ක-මාසික-අන්තර්-කාලීන-දීමනාව-අද-විශ්‍රාමිකයින්ගේ-ගිණුම්වලට/11-412533) · `si`
-
-Rs. 3000 monthly interim allowance for pensioners released today. Available at 18 post offices and subcommunications. Credited to pensioner accounts. Decision made at Cabinet meeting on 14th. Paid by Pensions Department Head Office.
-
-🟩
-
-The monthly interim allowance of Rs.
-
-Pensionable pensioners can be obtained from 18 to 18 post offices and subcommunications
-
-The pension Department has taken steps to release the monthly allowance of Rs. 3,000 from today (16) to their accounts.
-
-President Anura Kumara Dissanayake was instructed to provide the money from the Treasury by the Treasury.
-
-According to the instructions, the Treasury has been provided with the Department of Pensions and the Department of Pensions will be credited to the accounts of pensioners from today.
-
-Although all pensioners were issued a monthly allowance of Rs.
-
-According to the decision taken at the Cabinet Meeting held at the Cabinet Meeting held at the Cabinet Meeting held on the 14th, the Department of Treasury Operations has been given to the Department of Treasury Operations.
-
-Accordingly, the allowance will be paid by the Head Office of the Pensions Department today (16).
-
-...
-
-[Data](articles/3805e276.json)
-
-[Extended Data](ext_articles/3805e276.ext.json)
 
 ---

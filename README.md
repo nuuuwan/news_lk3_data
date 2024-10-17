@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 11:59:30**
+As of **2024-10-17 12:14:00**
 
 ## Newspaper Stats
 
-*Scraped **49,956** Articles*
+*Scraped **49,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,406
 adalk | 4,646
 dailymirrorlk | 4,733
 adaderanalk | 5,914
-tamilmirrorlk | 6,836
+tamilmirrorlk | 6,838
 virakesarilk | 7,984
 adaderanasinhalalk | 8,651
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,956 (100.0%) of 49,956 articles have been extended.
+49,956 (100.0%) of 49,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### மத்திய கிழக்கு வாழ் இலங்கையர்க்கு விசேட அறிவித்தல்
+
+*2024-10-17 11:39:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-கிழக்கு-வாழ்-இலங்கையர்க்கு-விசேட-அறிவித்தல்/175-345609) · `ta`
+
+மத்திய கிழக்கில் நிலவும் ஸ்திரமற்ற  நிலைமை  மற்றும் பிராந்தியத்தில் வாழும் இலங்கையர்களின் பாதுகாப்பை உறுதி செய்தல்
+
+மத்திய கிழக்கில் நிலவும் தற்போதைய மோதலின் தீவிரம் குறிப்பாக லெபனானில் ஒரு நெருக்கடியான சூழ்நிலையை உருவாக்கியுள்ளது.
+
+இப்பிராந்தியத்தில் கணிசமான எண்ணிக்கையிலான இலங்கையர்கள் பணிபுரிவதைக் கருத்தில் கொண்டு, அவர்களின் பாதுகாப்பையும், நலனையும் உறுதிப்படுத்த ஏற்கனவே அந்நாடுகளில் உள்ள இலங்கை தூதரகங்கள் மூலம் தேவையான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றன.
+
+இந்நிலையில், மத்திய கிழக்கு பிராந்தியத்தில் வாழும் இலங்கையர்கள் இந்த அறிவுறுத்தல்கள் தொடர்பில் விசேட கவனம் செலுத்தி, அதற்கேற்ப செயற்படுமாறு கோரப்படுகிறார்கள்.
+
+மேலும் மத்திய கிழக்கில் பணிபுரியும் மற்றும் வசிக்கும் தனது நெருங்கிய உறவினருக்கு அவசர நிலை ஏற்பட்டிருப்பின் அது பற்றிய தகவல்களுக்கு வெளிநாட்டு அலுவல்கள் அமைச்சின் தூதரக விவகாரப் பிரிவைத் தொடர்பு கொள்ளலாம். (தொலைபேசி: 011 – 2338812/ 011 – 7711194)
+
+◼️
+
+[Data](articles/4fd6a747.json)
+
+---
 
 ### Steal as much as possible, but don't get caught ”
 
@@ -61,6 +81,10 @@ There was a president who says, "Steal as much as you can, but don't get caught.
 ### HVP vaccine students admitted to hospital
 
 *2024-10-17 11:13:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/HVP-தடுப்பூசி-போட்ட-மாணவிகள்-வைத்தியசாலையில்-அனுமதி/175-345606) · `ta`
+
+Five 12-year-old students hospitalized after receiving HPV vaccine. Symptoms included headaches, abdominal pain, and fainting. All students from 7th grade at Venivelpitiya Junior College.
+
+🟩
 
 Five students aged 12 years old have been admitted to the hospital after the HVP vaccine to prevent cervical cancer has been admitted to the hospital.
 
@@ -435,6 +459,26 @@ Shene Haixiong pointed out that the Chinese Media Group is exchanged between Chi
 [Data](articles/bf244b71.json)
 
 [Extended Data](ext_articles/bf244b71.ext.json)
+
+---
+
+### OIC - க்கு லஞ்சம் கொடுக்கச் சென்ற கடத்தல்காரர்
+
+*2024-10-17 09:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/OIC-க்கு-லஞ்சம்-கொடுக்கச்-சென்ற-கடத்தல்காரர்/175-345603) · `ta`
+
+பொலிஸ் அதிகாரி ஒருவருக்கு இலஞ்சம் கொடுக்க முயன்ற நபரை மட்டக்குளி பொலிஸார் கைது செய்துள்ளனர்.
+
+மட்டக்குளி பொலிஸ் நிலையத்தின் பதில் பொறுப்பதிகாரிக்கு நேற்றைய தினம் (16)  ஒருவர் தொலைபேசியில் தொடர்பு கொண்டு போதைப்பொருள் கடத்தலை மேற்கொள்ள சந்தர்ப்பம் வழங்குமாறு கோரியுள்ளார்.
+
+இது தொடர்பில் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவிற்கு குறித்த பொலிஸ் அதிகாரி அறிவித்துள்ளார்.
+
+இதையடுத்து, குறித்த சந்தேக நபரை பொலிஸ் நிலையத்திற்கு அழைத்து, சந்தேகநபர் 50,000 ரூபாயை வழங்க முற்படும் போது, ​​இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகளால் சந்தேகநபர் கைது செய்யப்பட்டார்.
+
+கைது செய்யப்பட்ட சந்தேகநபர் மட்டக்குளி பிரதேசத்தை சேர்ந்த 50 வயதுடையவர் என தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/8624d661.json)
 
 ---
 
@@ -2267,59 +2311,5 @@ The discussion held at the launch of the institute’s State of the Economy 2024
 [Data](articles/dd16711b.json)
 
 [Extended Data](ext_articles/dd16711b.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 292.90/293.05 to dollar, bond yields up
-
-*2024-10-16 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-90-293-05-to-dollar-bond-yields-up-183936/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 292.90/293.05 to the US dollar Wednesday from 293.30/60 a day earlier, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 10.50/70 percent, up from 10.15/35 percent.
-
-A bond maturing on 15.12.2027 closed at 11.20/35 percent, from 11.20/30 percent.
-
-A bonds maturing on 15.03.2028 closed at 11.60/70 percent, up from 11.50/65 percent.
-
-A bond maturing on 15.09.2029 closed at 11.85/12.05 percent, up from 11.75/90 percent.
-
-A bond maturing on 01.10.2032 closed at 12.25/35 percent, up from 12.20/35 percent. (Colombo/Oct16/2024)
-
-◼️
-
-[Data](articles/92939773.json)
-
-[Extended Data](ext_articles/92939773.ext.json)
-
----
-
-### Processing plans for education should be prepared as global needs - President
-
-*2024-10-16 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202245) · `si`
-
-Sri Lanka's education system should align with global needs, focusing on developing human resources for national development. President Anura Kumara Dissanayake emphasizes preparing educational projects with long-term vision, improving school education, teacher training, and expanding technical and IT education.
-
-🟩
-
-President Anura Kumara Dissanayake says that considering the global needs properly, Sri Lanka's education should be prepared.
-
-The President says that children should be equipped with knowledge to improve human resources to contribute to the development of Sri Lanka.
-
-The President was speaking at the progress review of the Ministry of Education, Science and Technology at the Presidential Secretariat today (16).
-
-The President has pointed out the operation of educational officers in the next 10 years and the need for education officials is the need to prepare educational projects with extensive vision.
-
-President Anura Kumara Dissanayake was chaired by Prime Minister Dr. Weli Amarasuriya.
-
-The discussion was the development of school education, teacher education, secondary education, technical education and IT education, said the Presidential Media Unit.
-
-The President and the Prime Minister have also instructed the officials to implement the relevant projects soon.
-
-...
-
-[Data](articles/c16d16a7.json)
-
-[Extended Data](ext_articles/c16d16a7.ext.json)
 
 ---

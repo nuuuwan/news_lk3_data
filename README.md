@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 16:57:13**
+As of **2024-10-17 17:08:37**
 
 ## Newspaper Stats
 
-*Scraped **49,988** Articles*
+*Scraped **49,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,86 @@ adalk | 4,651
 dailymirrorlk | 4,733
 adaderanalk | 5,921
 tamilmirrorlk | 6,840
-virakesarilk | 7,990
-adaderanasinhalalk | 8,659
+virakesarilk | 7,997
+adaderanasinhalalk | 8,661
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,988 (100.0%) of 49,988 articles have been extended.
+49,994 (100.0%) of 49,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### ඌරන් අතර හඳුනා නොගත් මාරාන්තික වෛරසයක්
+
+*2024-10-17 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202274) · `si`
+
+අනුරාධපුර දිස්ත්‍රික්කය ඇතුළු දිවයිනේ ප්‍රදේශ රැසක ඌරන් මෙම හඳුනා නොගත්  වයිරස රෝගයට ගොදුරු ව තිබේ.
+
+ගොවිපොළ හිමිකරුවන් පවසන්නේ, රෝගය වැළඳී දින දෙකක් තුළ එම සතුන් මරණයට පත්වන බවය.
+
+අනුරාධපුර මධ්‍යම නුවරගම් පළාත් ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ උලුක්කුලම ප්‍රදේශයේ සත්ත්ව ගොවිපළ 20ක පමණ පැතිර ගොස් තිබේ.
+
+ගොවිපොළ හිමිකරුවන් චෝදනා පැවසුවේ මෙම රෝගය හේතුවෙන් ඌරන් විශාල සංඛ්‍යාවක් මියගොස් ඇති අතර, වගකිව යුතු බලධාරින් කිසිවෙක් මේ පිළිබඳව සොයා බැලීමට මෙතෙක් පැමිණ නැති බවය.
+
+◼️
+
+[Data](articles/e9fedc5f.json)
+
+[Extended Data](ext_articles/e9fedc5f.ext.json)
+
+---
+
+### A crucial struggle in Women's World Cup today
+
+*2024-10-17 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202273) · `si`
+
+Australia and South Africa will be held between Australia and South Africa.
+
+It will be held in Dubai as a night match, and the match will begin at 7.30 pm.
+
+With the participation of 10 teams, Australia played its 'A' category.
+
+There they will be a potential for 4 matches winning all four matches.
+
+දකුණු අප්‍රිකානු කාන්තා කණ්ඩායම මෙහි 'B' කාණ්ඩයෙන් ක්‍රීඩාකළ අතර, ඔවුන් එක් තරගයක් පමණක් පරාජය වී තරග 3ක ජය තහවුරු කරගැනීමට සමත් විය.
+
+ඒ හේතුවෙන් ඔවුන් එම කාණ්ඩයේ ප්‍රසාද ලකුණු සටහනේ දෙවැනි ස්ථානය පත්විය.
+
+දකුණු අප්‍රිකානු හා ඔස්ට්‍රේලියානු කණ්ඩායම් 2009 වසරේ සිට මේ දක්වා අවස්ථා 10කදී එකිනෙකා සමගින් තරගවැදී තිබේ. ඉන් තරග 9කම ජය ඔස්ට්‍රේලියාවට හිමිවද්දී, දකුණු අප්‍රිකාව ජයගෙන ඇත්තේ එක් තරගයක් පමණි.
+
+However, if the match is defeated by Australia, it will be the first Twenty20 Women's World Cup without a 14 year old.
+
+ඉන් අවසන්වරට පැවැත්වූ තරගාවලියේ ත්‍රිත්වයම (2018, 2020, 2023) ඇතුලුව අවස්ථා 6කදීම ලෝක ශූරතාව දිනාගෙන ඇත්තේ ඔස්ට්‍රේලියාවයි.
+
+...
+
+[Data](articles/b814b5da.json)
+
+[Extended Data](ext_articles/b814b5da.ext.json)
+
+---
+
+### வவுனியாவில் தேசிய மக்கள் சக்தி உறுப்பினர்களிடையே கலந்துரையாடல்!
+
+*2024-10-17 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/196512) · `ta`
+
+தேசிய மக்கள் சக்தியின் வவுனியா மாவட்ட உறுப்பினர்களுக்கு இடையிலான கலந்துரையாடல் வவுனியா தனியார் விருந்தினர் விடுதியொன்றில் இன்று வியாழக்கிழமை (17) நடைபெற்றது.
+
+இதன்போது எதிர்வரும் பாராளுமன்றத் தேர்தலில் முன்னெடுக்கப்படவேண்டிய பிரச்சார நடவடிக்கைகள் தொடர்பாக அங்கத்தவர்களுக்கு தெளிவுபடுத்தப்பட்டது.
+
+இந்த நிகழ்வில் தேசிய மக்கள் சக்தியின் முக்கியஸ்தரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான பிமல் ரத்நாயக்க உட்பட வன்னி மாவட்ட வேட்பாளர்கள், அங்கத்தவர்கள் என பெருமளவானோர் கலந்துகொண்டிருந்தனர்.
+
+◼️
+
+[Data](articles/29ecef0a.json)
+
+[Extended Data](ext_articles/29ecef0a.ext.json)
+
+---
 
 ### 2024 General Election: Maximum spending limit for candidates announced
 
@@ -51,6 +119,28 @@ The parties must submit expenditure reports to the Elections Commission within 2
 [Data](articles/76cf70b3.json)
 
 [Extended Data](ext_articles/76cf70b3.ext.json)
+
+---
+
+### நாட்டின் பொருளாதார நெருக்கடிக்கு தீர்வு காண்பதற்கு நாடாளுமன்றத்தில் அனுபவசாலிகள் அவசியம் - விசேட அறிக்கையில் ரணில்
+
+*2024-10-17 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196503) · `ta`
+
+நாட்டின் பொருளாதார பிரச்சினைக்கு தீர்வு காண்பதற்கும் முன்னோக்கி நகர்வதற்கும் தன்னுடன் இணைந்து செயற்பட்ட அனுபவசாலிகள் நாடாளுமன்றத்திற்கு செல்வது அவசியம் என முன்னாள் ஜனாதிபதி ரணில்விக்கிரமசிங்க நாட்டு மக்களுக்கான விசேட அறிக்கையில் தெரிவித்துள்ளார்.
+
+உங்களது எதிர்காலத்தை புதிய நாடாளுமன்றம் தீர்மானிக்கின்றது என அவர் மேலும் தெரிவித்துள்ளார். இதன் காரணமாக சமையல் எரிவாயு சிலிண்டர் சின்னத்துக்கு வாக்களியுங்கள் என அவர் வேண்டுகோள் விடுத்துள்ளார்.
+
+நான் ஜனாதிபதி தேர்தலில் சமையல் எரிவாயு சிலிண்டர் சின்னத்தில் போட்டியிட்டேன். ஸ்ரீலங்கா பொதுஜன பெரமுன, ஐக்கிய தேசிய கட்சி, ஸ்ரீலங்கா சுதந்திரக்கட்சி மற்றும் புதிய கூட்டணி ஆகியன ஒன்றிணைந்து எனக்கு ஆதரவளித்தன. All of them acted under my leadership.
+
+இவர்கள் அனைவரும் எதிர்வரும் பொதுத்தேர்தலில் ஒன்றிணைகின்றனர். புதிய ஜனநாயக கட்சியாக போட்டியிடுகின்றனர். எனது தலைமைத்துவத்தின் கீழ் அவர்கள் தேர்தலில் போட்டியிடவுள்ளனர்.
+
+இவர்கள் அனைவரும் உரிய அனுபவம் உள்ளவர்கள். இவர்கள் கடந்த காலங்களில் தங்கள் பணியை ஒழுங்கான முறையில் முன்னெடுத்துள்ளனர்.
+
+...
+
+[Data](articles/67af267c.json)
+
+[Extended Data](ext_articles/67af267c.ext.json)
 
 ---
 
@@ -166,6 +256,80 @@ The suspect and the consignment of drugs have been handed over to the Police Nar
 
 ---
 
+### நடிகர் அமல் தேவ் நடிக்கும் 'சீன் நம்பர் 62' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2024-10-17 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196507) · `ta`
+
+நடிகர் அமல் தேவ் முதன்மையான வேடத்தில் நடித்திருக்கும் 'சீன் நம்பர் 62' எனும் திரைப்படத்தின் வெளியீட்டு திகதி பிரத்யேகப் புகைப்படத்துடன் அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+இயக்குநர் ஆடம் ஜாஃபர் இயக்கத்தில் உருவாகி இருக்கும் 'சீன் நம்பர் 62' எனும் திரைப்படத்தில் அமல் தேவ், கோகிலா கோபால், ஆர் ஜே வைத்தி, ஜாய்ஸ் எலிசபெத், ரகந்த் கதிரவன், ஐஸ்வர்யா நந்தன், ராஜ் பால், வசந்த் பெஞ்சமின், சைமோன், பார்வதி, மனிஷா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+விஜய் வெங்கட் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜி கே வி இசையமைத்திருக்கிறார்.
+
+இந்த திரைப்படத்தை நவ முகுந்தா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் வேணு ஜி. ராம் தயாரித்திருக்கிறார்.
+
+It has been announced that the film will be released at the filmmaker on the 25th of this month.
+
+இப்படத்தின் டீசர் வெளியாகி பெரும் வரவேற்பை பெற்ற நிலையில் வழக்கமான திரில்லர் திரைப்படமாக இல்லாமல் ரசிகர்களுக்கு புதுவித அனுபவத்தை வழங்க தயாராக இருப்பதால் படத்தைப் பற்றிய எதிர்பார்ப்பு அதிகரித்திருக்கிறது.
+
+◼️
+
+[Data](articles/35eb48a4.json)
+
+[Extended Data](ext_articles/35eb48a4.ext.json)
+
+---
+
+### தென்கிழக்கு பல்கலையில் விஞ்ஞானம்  மற்றும் தொழில்நுட்பம் தொடர்பான 4வது  சர்வதேச ஆய்வு மாநாடு!
+
+*2024-10-17 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196508) · `ta`
+
+இலங்கை தென்கிழக்கு பல்கலைக்கழகத்தில் விஞ்ஞானம் மற்றும் தொழில்நுட்பம் தொடர்பான 4வது சர்வதேச ஆய்வு மாநாடு(4th International Conference on Science and Technology - ICST2024)  தொழில்நுட்பவியல் பீட பிரதான கேட்போர் கூடத்தில் 2024.10.16 ஆம் திகதி மாநாட்டின் தலைவரும் பதில் உபவேந்தரும் பீடாதிபதியுமான கலாநிதி யூ.எல். அப்துல் மஜீத் தலைமையில் இடம்பெற்றது.
+
+ஆய்வு மாநாட்டை தென்கிழக்கு பல்கலைக்கழக  தொழினுட்பவியல் பீடம் (Faculty of Technology) ஏற்பாடு செய்திருந்தது. Along with this, the Slaas (Eastern Chapter) was united.
+
+Dr. Munib M.. முஸ்தபாவின் வழிகாட்டலிலும் ICST 2024  செயலாளர் ஏ.ஆர். பாத்திமா ஷபானாவின் நெறிப்படுத்தலிலும், “நிலையான எதிர்காலத்திற்கான நவீன தொழில்நுட்பங்கள் மூலம் புதுமையான எல்லைகளை ஆராய்தல்” (“Exploring Innovative Horizons Through Modern Technologies for a Sustainable Future”) எனும் தொனிப்பொருளில் குறித்த மாநாடு இடம்பெற்றது.
+
+...
+
+[Data](articles/3666c9cc.json)
+
+[Extended Data](ext_articles/3666c9cc.ext.json)
+
+---
+
+### சிவகார்த்திகேயன் நடிக்கும் 'அமரன்' படத்தின் இரண்டாவது பாடல் வெளியீடு
+
+*2024-10-17 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/196506) · `ta`
+
+தமிழின் முன்னணி நட்சத்திர நடிகரான சிவகார்த்திகேயன் நடிப்பில் தயாராகி இருக்கும் 'அமரன்' எனும் திரைப்படத்தில் இடம்பெற்ற 'வெண்ணிலவு சாரல் நீ' எனத் தொடங்கும் இரண்டாவது பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் ராஜ்குமார் பெரியசாமி இயக்கத்தில் உருவாகி இருக்கும் 'அமரன்' எனும் திரைப்படத்தில் சிவகார்த்திகேயன், சாய் பல்லவி, ராகுல் போஸ், புவன் அரோரா, ஸ்ரீ குமார் , ஷியாம் மோகன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+சி. ஹெச். சாய் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார்.
+
+தேசப்பற்று மிக்க ராணுவ வீரரின் வாழ்க்கை வரலாற்றை தழுவி எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ராஜ்கமல் பிலிம்ஸ் இன்டர்நேஷனல் மற்றும் சோனி பிக்சர்ஸ் ஃபிலிம்ஸ் இந்தியா ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/1ede517b.json)
+
+---
+
+### கிராண்ட்பாஸ் துப்பாக்கி  சூட்டு சம்பவத்துக்கு பயன்படுத்தப்பட்ட கார் கண்டுபிடிப்பு !
+
+*2024-10-17 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196498) · `ta`
+
+கொழும்பு, கிராண்ட்பாஸ் பிரதேசத்தில் நேற்று (16) மாலை இடம்பெற்ற துப்பாக்கி  சூட்டு சம்பவத்துக்கு பயன்படுத்தப்பட்டதாக கூறப்படும் கார் ஒன்று ஹங்வெல்ல அம்புல்கம பிரதேசத்தில் வைத்து இன்று (17) அதிகாலை கண்டுபிடிக்கப்பட்டுள்ளதாக ஹங்வெல்ல பொலிஸார் தெரிவித்தனர்.
+
+கொழும்பு கிராண்ட்பாஸ் பிரதேசத்திற்கு நேற்றைய தினம் மாலை நான்கு மணியளவில் காரில் சென்ற இனங்காணப்படாத நபர்கள் சிலர் முச்சக்கரவண்டியில் இருந்த நபர் ஒருவர் மீது துப்பாக்கி சூட்டை நடத்தி அங்கிருந்து தப்பிச் சென்றிருந்தனர்.
+
+◼️
+
+[Data](articles/86b36515.json)
+
+---
+
 ### Ex-President Ranil urges voters to support ‘experienced candidates’ in 2024 General Election
 
 *2024-10-17 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102759/ex-president-ranil-urges-voters-to-support-experienced-candidates-in-2024-general-election-) · `en`
@@ -203,6 +367,24 @@ Further, he urged the President to intervene, stating, “If you are committed t
 [Data](articles/b10cf607.json)
 
 [Extended Data](ext_articles/b10cf607.ext.json)
+
+---
+
+### ஒரே மேடையில் மூன்று முன்னாள் ஜனாதிபதிகள்  ; ஊழலிற்கு அரசியல்வாதிகளை குற்றம்சாட்டுவதை ஏற்க முடியாது - மைத்திரி கருத்து
+
+*2024-10-17 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196502) · `ta`
+
+இலங்கை பட்டயக்கணக்காளர் சங்கத்தின் வருடாந்த பொதுக்கூட்டத்தின் ஒருபகுதியாக இடம்பெற்ற நிகழ்வில் மூன்று முன்னாள் ஜனாதிபதிகள் கலந்து கொண்டு இலங்கையின் தற்போதைய அரசியல் சூழல் மற்றும் ஊழல் குறித்து தமது அனுபவங்களை பகிர்ந்துகொண்டுள்ளனர்.
+
+நாட்டின் தற்போதைய அரசியல் சூழ்நிலை குறித்த தமது எண்ணங்களை பகிர்ந்துகொண்டுள்ள முன்னாள் ஜனாதிபதிகளான ரணில் விக்கிரமசிங்க மைத்திரிபால சிறிசேன சந்திரிகா குமாரதுங்க ஆகியோர்  இந்த நிகழ்வில் கலந்துகொண்டுள்ளனர்.
+
+நாட்டின் தற்போதைய அரசியல் சூழ்நிலை குறித்து கருத்து தெரிவித்த முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன  அரசாங்கத்தின் அனைத்து மட்டங்களிலும் நேர்மை காணப்படவேண்டியதன் அவசியத்தை வலியுறுத்தியுள்ளார்.
+
+நாடு ஒன்றின் தலைவர் ஆட்சியாளர் சிறந்தவராகயிருப்பதால் மாத்திரம் நாடு முன்னேற முடியாது, பிரதமரும் அமைச்சரவையும் சிறப்பானதாக காணப்படவேண்டும்.ஊழல் மோசடிகளிற்கு இடமளிக்க கூடாது.கடந்த 74 வருடங்களாக நாட்டில் காணப்படும் ஊழலிற்கு அரசியல்வாதிகளே காரணம் என சிலர் தெரிவிப்பதை நான் ஏற்றுக்கொள்ள மாட்டேன்,நான் இதனை முற்றாக நிராகரிக்கின்றேன்.
+
+...
+
+[Data](articles/9e997dc9.json)
 
 ---
 
@@ -2089,187 +2271,5 @@ Meanwhile, President Anura Kumara Dissanayake said that a long-term national pla
 [Data](articles/c07f8569.json)
 
 [Extended Data](ext_articles/c07f8569.ext.json)
-
----
-
-### Sri Lanka leader urges to streamline procurement process in road development projects
-
-*2024-10-16 21:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-urges-to-streamline-procurement-process-in-road-development-projects-183949/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has urged authorities to streamline the procurement process in road development projects to ensure the rural economic development goals without the contracts being given only a few.
-
-The President made these remarks during a progress review meeting for the Ministry of Transport, Highways, Ports, and Civil Aviation on Wednesday (16).
-
-President Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP) for years accused past past successive governments of corruption and misappropriation of public funds in government’s infrastructure projects.
-
-“He highlighted the need to streamline the procurement process for these projects, ensuring that local communities benefit rather than allowing contracts to concentrate in the hands of a few,” the President’s Media Division said in a statement.
-
-...
-
-[Data](articles/27f51f51.json)
-
-[Extended Data](ext_articles/27f51f51.ext.json)
-
----
-
-### CID regulations not to take no step on Mahara incident
-
-*2024-10-16 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202252) · `si`
-
-Attorney General orders CID not to investigate Mahara Prison incident where 11 inmates died in 2020 police shooting.
-
-🟩
-
-The Attorney General has ordered the Criminal Investigation Department not to take no step in the death of 11 inmates.
-
-It was also reported that 11 inmates were killed in a shooting of the police and the STF during the protest in the Mahara Prison in November 2020.
-
-The Attorney General has made this notice in the background of the Magistrate's Court to be arrested and produced before the court.
-
-The inmates of Mahara Prison inmates were conducted to conduct a PCR tests to ensure the covard and the covard inmates to be directed to hospitals.
-
-11 inmates were killed in a shooting carried out by prison officers and the STF.
-
-The Belisara Magistrate's Court regarding the incident is a law promoted and the deaths of the 11 inmates of Mahara Prison in Mahara Prison.
-
-The Magistrate said that the Attorney General's proofs were made as a minimum power to curb the minimum power to crush and fired in a humanitarian operation to suppress the deceased in prisoners.
-
-...
-
-[Data](articles/6b1fb10b.json)
-
-[Extended Data](ext_articles/6b1fb10b.ext.json)
-
----
-
-### The thief is the thug instead of blows
-
-*2024-10-16 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202251) · `si`
-
-Elpitiya Pradeshiya Sabha election 26.10.2014: Voter's left hand decides. Election Commission issues special gazette. If no majority, Local Authority Agency Elections Act applies. Decision resolves 21.04.2013 election issue.
-
-🟩
-
-The Elpitiya Pradeshiya Sabha elections will be held on 26.10.2014, where the head of the voter's left hand has decided to finger.
-
-The Election Commission is informed by issuing a special gazette.
-
-If the elephant's left hand is not a majority of the left hand, the Local Authority Agency Elections (262nd Authority) 53 a, A (ii (ii) a body is to be painful in accordance with Sections B (Ii).
-
-This decision has been taken to resolve the problem with the voter of the voter of the voter of the voter in the election held on 21.04.2013.
-
-◼️
-
-[Data](articles/1f5e39a9.json)
-
-[Extended Data](ext_articles/1f5e39a9.ext.json)
-
----
-
-### YouTubeter Ashane filed a case
-
-*2024-10-16 20:54:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூப்பர்-அஷேன்-வழக்குத்-தாக்கல்/175-345587) · `ta`
-
-Ashane Senaratne sues Supreme Court over Election Commission rejection. Claims nomination papers submitted by unauthorized person. Expresses frustration about waiting outside while another candidate submitted documents. Election Commission states nominations must be submitted by specific individuals, otherwise disqualified.
-
-🟩
-
-Famous YouTube, Ashane Senaratne today filed a case in the Supreme Court challenging the decision of the Election Commission, which rejected the nomination of his independent committee.. The Election Commission dismissed the Independent Committee, claiming that the nomination papers were submitted by an unauthorized person.
-
-In a video posted on social media, Senaratne expressed his frustration regarding the incident, saying that he was asked to wait outside and that another candidate had to submit documents.
-
-The Election Commission said that nominations should be submitted by certain persons and that if they fail to follow this rule, the nomination will be disqualified.
-
-◼️
-
-[Data](articles/f1d508ac.json)
-
-[Extended Data](ext_articles/f1d508ac.ext.json)
-
----
-
-### Home remedies for acne
-
-*2024-10-16 20:48:00* · [`islandlk`](http://island.lk/home-remedies-for-acne/) · `en`
-
-Hi! The world is experiencing some awful weather and we are in it, too. However, we can’t neglect our skin.
-
-Yes, everyone wants clear skin, and this week I am giving you a few home remedies that can do the trick…to help you achieve a healthier, glowing skin.
-
-Skin exfoliation is the most important beauty treatment that you should follow in order to maintain healthy, glowing and pimple free skin. Brown sugar is one of the mildest natural exfoliator. It removes the dead cells, dirt, sebum and impurities from the pores, which cause pimples.
-
-You will need 03 teaspoons of brown sugar and 01 teaspoon of honey.
-
-Mix them together and apply the mixture all over the face and scrub gently, in circular motion. Once it’s dry, wash it off with cold water and pat dry.
-
-...
-
-[Data](articles/a74429e2.json)
-
-[Extended Data](ext_articles/a74429e2.ext.json)
-
----
-
-### Buddhist way to peace and prosperity
-
-*2024-10-16 20:41:00* · [`islandlk`](http://island.lk/buddhist-way-to-peace-and-prosperity-2/) · `en`
-
-Economic and social policies based on Buddhist principles were the foundation of peace and prosperity in ancient Sri Lanka. A close examination of this Buddhist foundation would be of assistance to attain, once again, the cherished goal of peace and economic prosperity.
-
-Economic and political theories before Western influence were based on two famous ancient treatises, namely, Kautilya’s Arthaśāstra and Brihaspati’s Arthaśāstra. They had one common feature, in that, under the title of Arthaśātra both writers had written on politics and economics, leaving out the most important ingredient for any development process, i.e. the mental and spiritual development of man.
-
-...
-
-[Data](articles/acde6e4f.json)
-
-[Extended Data](ext_articles/acde6e4f.ext.json)
-
----
-
-### Siyapatha Finance makes headway in HR Excellence
-
-*2024-10-16 20:35:00* · [`islandlk`](http://island.lk/siyapatha-finance-makes-headway-in-hr-excellence/) · `en`
-
-Siyapatha Finance PLC is proud to announce its recognition in two of the prestigious awards that recognize and reward exemplary leadership and dedication of HR professionals around the globe.
-
-Prasad Udugampola, the Chief Human Resources Officer (CHRO) of Siyapatha Finance PLC, was honoured with “Top Most HR Leaders – Sri Lanka” from the World HRD Congress and “Top HR Icon Award – Asia Pacific” from the Asia Pacific HRM Congress.
-
-The “Top Most HR Leaders – Sri Lanka” award is awarded after a rigorous selection process involving on advisory board from the World HRD Congress. This honour recognizes HR professionals who demonstrate exceptional skills in navigating complex challenges particularly in turbulent times, while remaining sensitive to the evolving needs of the workforce.
-
-...
-
-[Data](articles/6c81555b.json)
-
-[Extended Data](ext_articles/6c81555b.ext.json)
-
----
-
-### People’s Leasing & Finance shines with Gold at ACEF Asian Business Leaders Awards
-
-*2024-10-16 20:33:00* · [`islandlk`](http://island.lk/peoples-leasing-finance-shines-with-gold-at-acef-asian-business-leaders-awards/) · `en`
-
-People’s Leasing & Finance PLC, a leading player in Sri Lanka’s non-banking financial services sector, has once again made its mark on the international stage by winning the prestigious Gold Award for “Best Leasing Brand of the Year” at the ACEF Asian Business Leaders Awards. This accolade places People’s Leasing & Finance among Asia’s most influential businesses, underscoring its commitment to excellence, innovation, and customer-centric service.
-
-...
-
-[Data](articles/3f90b850.json)
-
-[Extended Data](ext_articles/3f90b850.ext.json)
-
----
-
-### Tropical Christmas countdown begins at Pegasus Reef with annual cake mixing ceremony
-
-*2024-10-16 20:30:00* · [`islandlk`](http://island.lk/tropical-christmas-countdown-begins-at-pegasus-reef-with-annual-cake-mixing-ceremony/) · `en`
-
-The countdown to Christmas has officially begun at Pegasus Reef, where the much-anticipated Annual Cake Mixing Ceremony kicked off the hotel’s festive celebrations in a uniquely tropical style! This beloved tradition marks the start of an exciting holiday season, inviting guests from near and far to celebrate amidst a picturesque, beachfront setting.
-
-As chefs paraded the cake-mixing ingredients, the rhythmic beat of traditional drums filled the air, setting a festive mood. Guests actively participated in the age-old tradition of blending spices, fruits, and nuts, symbolizing good fortune and holiday cheer for the season ahead. The festive atmosphere buzzed with cheerful chatter and a delightful selection of refreshments. It was the perfect way for families and friends to come together and spread holiday cheer in a stunning tropical setting.
-
-...
-
-[Data](articles/23091d8a.json)
-
-[Extended Data](ext_articles/23091d8a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 08:02:13**
+As of **2024-10-17 08:22:31**
 
 ## Newspaper Stats
 
-*Scraped **49,917** Articles*
+*Scraped **49,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 500
 islandlk | 2,962
 economynextcom | 3,060
 dailyftlk | 3,406
-adalk | 4,643
+adalk | 4,644
 dailymirrorlk | 4,733
-adaderanalk | 5,908
+adaderanalk | 5,909
 tamilmirrorlk | 6,825
 virakesarilk | 7,979
 adaderanasinhalalk | 8,641
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,911 (100.0%) of 49,917 articles have been extended.
+49,911 (100.0%) of 49,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Several spells of light showers expected in parts of the island
+
+*2024-10-17 07:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102746/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Northern province and fairly heavy showers above 50mm are likely at some places.
+
+Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-eliya districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts during the evening or night, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers
+
+◼️
+
+[Data](articles/d28ddc3d.json)
+
+---
 
 ### Gammanpila demands Govt. commitment before handing over Easter Sunday reports
 
@@ -825,6 +843,24 @@ Speaking further, she said that the General Secretary General of Sri Lanka Gener
 [Data](articles/5f25358c.json)
 
 [Extended Data](ext_articles/5f25358c.ext.json)
+
+---
+
+### ලංකා ගුරු සංගමයෙන් රජයට දොස් මුරයක්
+
+*2024-10-16 19:08:41* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-ගුරු-සංගමයෙන්-රජයට-දොස්-මුරයක්/11-412541) · `si`
+
+විදුහල්පති ගුරු වැටුප් විෂමතා සම්බන්ධයෙන් වත්මන් ආණ්ඩුව යටතේද අපේක්ෂා භංගත්වයට පත්වන තත්ත්වයක් ඇති වී තිබෙන බවත්, අඩුම තරමින් ගුරු වැටුප් විෂමතාව සම්බන්ධයෙන් පැහැදිලි ප්‍රකාශයක් හෝ නොකරන තත්ත්වයට ආණ්ඩුව පත්ව ඇති බවත්, පාසල් පද්ධතිය තුළ දරුවන් ලක්ෂ ගණනින් මන්දපෝෂණයෙන් පෙළෙන බැවින් ඒ වේදිකාවල පොරොන්දු වූ කතා කළ පරිදි ඒ සඳහා විසඳුම් ලබා දිය යුතු බවත් ලංකා ගුරු සංගමයේ සභාපති ප්‍රියන්ත ප්‍රනාන්දු මහතා සඳහන් සඳහන් කළේය.
+
+ඒ මහතා මේ බව පැවසුවේ අද (16දා) අනුරාධපුරයේදී පැවති මාධ්‍ය හමුවකදීය.
+
+ගුරු සංගමයේ සභාපතිවරයා සඳහන් කරන්නේ ගුරුවරුන්ගේ කරපිටින් ජනාධිපතිවරණය ජයග්‍රහණය කළ වත්මන් පාලනය, ගුරුවරයාගේ, අධ්‍යාපනයේ සහ සිසු දරුවාගේ ප්‍රශ්න විසඳීම වගකීමක් බවත්, ඒ වෙනුවට සිදුකර ඇත්තේ ගුරුවරයා සම්පූර්ණයෙන්ම අමතක කිරීමක් පමණක් බවය.
+
+නව පාලනයට කාලයක් ලබා දිය යුතු බව පිළිගන්නා නමුත්, පොරොන්දු වූ පරිදි අපේක්ෂිත බලාපොරොත්තු සම්බන්ධව පැහැදිලි ප්‍රකාශයක් කිරීම රජයේ යුතුකමක් බවද හෙතෙම සඳහන් කළේය.
+
+...
+
+[Data](articles/d5f699dd.json)
 
 ---
 
@@ -2251,47 +2287,5 @@ Although Public Administration Circular No. 02/2024, issued on 24 August 2024, c
 [Data](articles/985a36d9.json)
 
 [Extended Data](ext_articles/985a36d9.ext.json)
-
----
-
-### Iranian who attempted to enter Sri Lanka with stolen Italian passport deported
-
-*2024-10-16 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102732/iranian-who-attempted-to-enter-sri-lanka-with-stolen-italian-passport-deported) · `en`
-
-An Iranian national has been arrested at the Bandaranaike International Airport (BIA) in Katunayake this morning (16) for attempting to enter Sri Lanka using a stolen Italian passport.
-
-The 40-year-old Iranian had arrived in the island onboard Air Arabia flight G9-502 from Sharjah, United Arab Emirates, at 4:25 a.m. today.
-
-Upon arrival, the man had presented an Italian passport to immigration officers to obtain an on-arrival visa. However, when the passport details were checked against Interpol’s database of lost and stolen passports, it has been flagged as being reported stolen.
-
-Immigration authorities had immediately referred the case to the National Central Bureau of the Criminal Investigation Department (CID), where the stolen status of the passport was confirmed.
-
-...
-
-[Data](articles/c454e6b2.json)
-
-[Extended Data](ext_articles/c454e6b2.ext.json)
-
----
-
-### Woman following suspicions
-
-*2024-10-16 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202236) · `si`
-
-Woman dies after falling on road. Police arrest suspect linked to her death. Car involved in incident.
-
-🟩
-
-A woman who had fallen in the path of the Chilaw-Kurunegala route has died after being hospitalized this morning (16).
-
-Police say that the woman was admitted to the hospital by the residents of the area.
-
-The woman has been arrested on suspect, a person who was closely associated with this death and a car traded by a car.
-
-◼️
-
-[Data](articles/36b76699.json)
-
-[Extended Data](ext_articles/36b76699.ext.json)
 
 ---

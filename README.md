@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 14:39:12**
+As of **2024-10-17 14:58:33**
 
 ## Newspaper Stats
 
-*Scraped **49,976** Articles*
+*Scraped **49,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 501
 islandlk | 2,962
 economynextcom | 3,062
 dailyftlk | 3,406
-adalk | 4,649
+adalk | 4,650
 dailymirrorlk | 4,733
-adaderanalk | 5,917
+adaderanalk | 5,919
 tamilmirrorlk | 6,838
 virakesarilk | 7,990
 adaderanasinhalalk | 8,657
@@ -26,11 +26,51 @@ adaderanasinhalalk | 8,657
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,976 (100.0%) of 49,976 articles have been extended.
+49,979 (100.0%) of 49,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Ex-President Ranil urges voters to support ‘experienced candidates’ in 2024 General Election
+
+*2024-10-17 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102759/ex-president-ranil-urges-voters-to-support-experienced-candidates-in-2024-general-election-) · `en`
+
+The leader of the United National Party (UNP), former President Ranil Wickremesinghe has called on voters to elect to the Parliament candidates with proven experience in managing economic crises as the country faces ongoing challenges.
+
+Making a special statement ahead of the upcoming parliamentary election, Wickremesinghe emphasized that those who have worked with him over the past two years are best suited to guide the nation forward.
+
+“In these difficult times, it is vital that we have leaders in Parliament who know how to handle an economic crisis. Whether you are in the opposition or part of the government, without this experience, you will fail to meet the country’s goals,” Wickremesinghe said.
+
+“I urge the supporters of all political parties to vote for our experienced candidates,” he added.
+
+...
+
+[Data](articles/6cec636d.json)
+
+[Extended Data](ext_articles/6cec636d.ext.json)
+
+---
+
+### CEB criticized for ‘delaying’ electricity tariff revision
+
+*2024-10-17 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102758/ceb-criticized-for-delaying-electricity-tariff-revision) · `en`
+
+The Petroleum Trade Unions have criticized the Ceylon Electricity Board (CEB) for failing to implement the revision of electricity tariffs, which was supposed to take place on October 01, allegedly due to the irresponsible actions of the CEB.
+
+During a press conference held in Colombo yesterday (16), the convener of the union, Ananda Palitha, expressed concerns over the issue.
+
+“The Electricity Board has not yet provided the necessary data to the Public Utilities Commission of Sri Lanka (PUCSL) for the revision of the electricity tariffs. Currently, the CEB’s net profit exceeds Rs. 155 billion. Why is there room for further exploitation?” he questioned.
+
+Further, he urged the President to intervene, stating, “If you are committed to the welfare of the people, you should question the CEB on what it has been doing all this time. Immediate action can be taken to revise the electricity bill, potentially reducing it by at least 45 percent.”
+
+◼️
+
+[Data](articles/b10cf607.json)
+
+[Extended Data](ext_articles/b10cf607.ext.json)
+
+---
 
 ### Ranil's special statement
 
@@ -87,6 +127,32 @@ This is a large number of students who have been bowled out for a Test innings i
 [Data](articles/7d52f518.json)
 
 [Extended Data](ext_articles/7d52f518.ext.json)
+
+---
+
+### The benefits of rural road development should go to the village
+
+*2024-10-17 13:42:18* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාමීය-මාර්ග-සංවර්ධනයේ-ප්‍රතිලාභ-ගමට-යා-යුතුයි/11-412545) · `si`
+
+Regular and efficient, efficient, helps to achieve rural economic development goals
+
+Expedite railway road projects to prove the safety of railway employees and the public
+
+President says at the progress review meeting of the Ministry of Transport, Highways, Ports and Civil Aviation
+
+President Anura Kumara Dissanayake pointed out that the formal and efficient to achieve rural economic development goals.
+
+The President also pointed out that the procurement process should be formalized in implementing rural road development projects and the importance of providing the benefits to the regional and rural people.
+
+President Anura Kumara Dissanayake made these comments at the progress review meeting of the Ministry of Highways, Ports and Civil Aviation held at the Presidential Secretariat yesterday (16).
+
+Special attention was extensively reviewed on the projects under the Ministry of Transport, Highways, Ports and Civil Aviation.
+
+...
+
+[Data](articles/bea812cb.json)
+
+[Extended Data](ext_articles/bea812cb.ext.json)
 
 ---
 
@@ -2207,91 +2273,5 @@ Sri Lanka sees increase in suicides due to media reporting. Experts warn 3000-35
 [Data](articles/22d95357.json)
 
 [Extended Data](ext_articles/22d95357.ext.json)
-
----
-
-### The body of the young man who found from a difficult operation
-
-*2024-10-16 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202247) · `si`
-
-Young man killed in Madolsima Lakamuna. 22-year-old resident of Rosewatta found dead. 3 commandos involved. 10 military/police searching area. Suspects arrested, remanded until 25th. Murder investigation ongoing.
-
-🟩
-
-A youth who claimed to be assassinated in the Madolsima Lakamuna area in general area Koduoya was discovered today (16)
-
-The 22-year-old residents of Rosewatta have been residing in Haliela, Haliela.
-
-According to our correspondent, the three commandos got into the stake with the rope, our correspondent said.
-
-It is reported that 10 commandos, Army and police officers were speaking at the search.
-
-The Members of the Army Kandalauwa, Badulla Army and the police were conducting further investigations.
-
-However, DIG of Badulla Sujith Wedamulla said that the Army Commander was called for the fabrication.
-
-The victim was an unmarried person at a vehicle sold company in Haliela, police said.
-
-Police said that the murder of these two suspects have been arrested in connection with the murder.
-
-On the statements of the suspects were operating the body.
-
-The suspects were produced before the Badulla Magistrate's Court and remanded until the 25th of this month.
-
-...
-
-[Data](articles/e01407b0.json)
-
-[Extended Data](ext_articles/e01407b0.ext.json)
-
----
-
-### How oil is cancer
-
-*2024-10-16 18:56:56* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-නිසා-පිළිකා-හැදෙන-හැටි/11-412539) · `si`
-
-Oil consumption linked to cancer risk. Refined, bleached, and deodorized oils may contain harmful trans-fatty acids. Aflatoxins from contaminated coconut products also pose health risks. Public health inspectors play crucial role in monitoring oil quality and safety standards.
-
-🟩
-
-Public Health Inspectors, Sandun Ratnayake pointed out that the removal of oil used in Sri Lanka and cleaning climax cancer is directly affected by the Public Health Inspector.
-
-He points out that the imported oil oil oil is RBBD. (Refined, bleached, and deodorized that is, refinery, bleaching and removal of odor).
-
-Accordingly, transplant, physical and chematic to reflect these oils and repeatedly reintegrated temperatures, the transplant, or trans-fatty acids - TFA, it will cause blood vessel-related diseases.Mentioned.
-
-The public health inspection that the Aflatoxin produced by the fungus manufacturer produced by the fungus manufacturer in use in quality copra or acquisition, the fungus manufacturer is produced by the fungus manufacturer of ashes of copra or acquisition.
-
-...
-
-[Data](articles/61b57286.json)
-
-[Extended Data](ext_articles/61b57286.ext.json)
-
----
-
-### බ්‍රික්ස් සමුළුවට ජනපති එක් නොවීම ගැන කනගාටුවෙනවා
-
-*2024-10-16 18:52:19* · [`adalk`](https://www.ada.lk/breaking_news/බ්‍රික්ස්-සමුළුවට-ජනපති-එක්-නොවීම-ගැන-කනගාටුවෙනවා/11-412538) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's president not attending BRICS summit causes concern. Iran's presidential candidate emphasizes importance of joining BRICS due to global changes.
-
-🟩
-
-බ්‍රික්ස් සමුළුවට (BRICS Summit) රටක් ලෙස සහභාගී විය යුතු බවත්, ඊට රටේ ජනාධිපතිවරයා සහභාගී නොවීමට තීරණය කිරීම පිළිබඳ කනගාටු වන බවත්, සමගි ජන බලවේගයේ මහ මැතිවරණ අපේක්ෂක ඉරාන් වික්‍රමරත්න මහතා පැවසීය.
-
-ලෝකයේ යම්කිසි පරිවර්තනයන් වන බැවින් මෙවැනි සමුළුවලට සහභාගී වී එහි සාමාජිකත්වය ගැනීම වැදගත් බව ඊයේ (16දා) කොළඹ සමගි ජන සන්ධාන කාර්යාලයේ පැවති මාධ්‍ය හමුවකට සහභාගී වෙමින් හෙතෙම සඳහන් කළේය.
-
-“බ්‍රික්ස් සමුළුව (BRICS Summit) තියෙනවා. බ්‍රික්ස් කියන්නේ බ්‍රසීලය, රුසියාව, ඉන්දියාව, චීනය සහ දකුණු අප්‍රිකාව යන රටවල් ඒකාබද්ධ වෙලා තියෙනවා. In the world, big changes are going on. ඒ වෙනස්වීම් විදේශ ප්‍රතිපත්ති හරහා හඳුනාගෙන අපි එතනට යන්න ඕනි. So the BRICS made in 5 countries in the 5 countries around the world. ඒ වගේම දළ දේශීය නිෂ්පාදකය දිහා බැලුවොත්, ආර්ථික ශක්තිය දිහා බැලුවොත් ලෝකයෙන්ම දළ දේශීය නිෂ්පාදනයෙන් ඒක 30%ක් වෙනවා. තව විදියකට කියන්න පුළුවන් ජී 7 කියලා රටවල් තියෙනවා. ඒ කියන්නේ බටහිර ලෝකයේ රටවල්, ශක්තිමත්ම ආර්ථිකයන්. These BRICS countries are as large as these economies.
-
-...
-
-[Data](articles/969c7906.json)
-
-[Extended Data](ext_articles/969c7906.ext.json)
 
 ---

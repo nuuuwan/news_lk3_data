@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 18:20:30**
+As of **2024-10-17 18:34:53**
 
 ## Newspaper Stats
 
-*Scraped **50,002** Articles*
+*Scraped **50,004** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,77 @@ dailymirrorlk | 4,733
 adaderanalk | 5,923
 tamilmirrorlk | 6,840
 virakesarilk | 7,998
-adaderanasinhalalk | 8,663
+adaderanasinhalalk | 8,665
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,002 (100.0%) of 50,002 articles have been extended.
+50,004 (100.0%) of 50,004 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Taxes in several imported merchandise increases
+
+*2024-10-17 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202278) · `si`
+
+Sri Lanka: Government raises import taxes on goods. New commerce tax from Oct 14-Dec 31. 25c/kg tax on certain items. Special commodity tax hike. 10% increase on fish products.
+
+🟩
+
+The government has taken steps to increase taxes for several imported merchandise.
+
+It is said that President Anura Kumara Dissanayake has increased the taxes.
+
+The new commerce tax on October 14 to December 31st.
+
+Accordingly, a tax of 25 cents and 25 cents have been paid to a kilogram of Rs.
+
+It also raised a special commodity tax of Rs.
+
+Taxes have also been imposed as a 10% increase in new or more than 10% or Rs. 400 for new or frozen fish, except for the meat of thorns and other fish.
+
+◼️
+
+[Data](articles/ffafe103.json)
+
+[Extended Data](ext_articles/ffafe103.ext.json)
+
+---
+
+### Shakib can't go home
+
+*2024-10-17 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202277) · `si`
+
+Shakib Al Hasan refuses to return home due to protests in Dhaka. He's staying in Dubai before heading to the US. A youth was killed during unrest in Bangladesh last August, linking Shakib to the incident.
+
+🟩
+
+Sakib Al Hasantha has said that he would not go to the capital of Dhaka to play the first Test against South Africa.
+
+He has said that he had protests in the city of Dakka against him.
+
+Shakib also included the squad for the designated squad for the first Test against South Africa.
+
+As a result, he remains in Dubai with a view to departing from the United States to Bangladesh.
+
+However, Bangladesh had advised him that a team had begun a protest against Shakib.
+
+"I'm not sure where I'm going next. But I am mostly sure that I will not go home. "
+
+In the past August, there is an altering Shakib accused of assassination of a youth during the unrest in Bangladesh.
+
+Shakib was a Member of Parliament in his hometown and was representing former Prime Minister Sheikh Husanage League.
+
+◼️
+
+[Data](articles/92f8c870.json)
+
+[Extended Data](ext_articles/92f8c870.ext.json)
+
+---
 
 ### කෙහෙළිය රඹුක්වැල්ල විදුහලින් කෙහෙළියගේ නම ඉවත් කරේ
 
@@ -2315,45 +2375,5 @@ Federalism or devolution of power isn’t just for the north and east of Sri Lan
 [Data](articles/47343ec0.json)
 
 [Extended Data](ext_articles/47343ec0.ext.json)
-
----
-
-### ’விவசாயத்துறை தொடர்பில் தேசிய வேலைத்திட்டம் தேவை’
-
-*2024-10-17 00:31:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயத்துறை-தொடர்பில்-தேசிய-வேலைத்திட்டம்-தேவை/175-345589) · `ta`
-
-Sri Lanka needs a long-term national agricultural plan to organize the country's farming industry. President Anuragumara Dissanayake emphasized this during a discussion on rural development projects. He highlighted the importance of eradicating rural poverty and proposed a comprehensive new project to achieve this goal.
-
-🟩
-
-முறையற்று இருக்கும் இலங்கையின் விவசாயத் தொழிலை ஒழுங்கமைக்கப்பட்ட நிலைக்குக் கொண்டுவருவதற்கு நீண்டகால ஒருங்கிணைந்த தேசிய வேலைத்திட்டமொன்று நடைமுறைப்படுத்தப்பட வேண்டுமென ஜனாதிபதி அநுரகுமார திஸநாயக்க தெரிவித்தார்.
-
-ஜனாதிபதி செயலகத்தில் நேற்று இடம்பெற்ற விவசாயம், காணி, கால்நடை, நீர்ப்பாசனம், கடற்றொழில் மற்றும் நீரியல் வளங்கள் அமைச்சின் முன்னேற்ற மீளாய்வின் போதே ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
-
-அந்த அமைச்சுகளில் தற்போது நடைமுறைப்படுத்தப்படும் திட்டங்கள் குறித்து இதன்போது விரிவாக கலந்துரையாடப்பட்டது. The President, who examined the rural development projects so far, said that although the projects were somewhat successful, the question of how much rural poverty has been resolved.
-
-President Anuragumara Dissanayake pointed out that the main target of rural development projects should be eradicated in the future.. முழு நாட்டையும் உள்ளடக்கிய வகையில் கிராமப்புற வறுமையை ஒழிக்க புதிய விரிவான வேலைத்திட்டத்தின் தேவையும் இதன்போது வலியுறுத்தப்பட்டது.
-
-...
-
-[Data](articles/7106d85f.json)
-
-[Extended Data](ext_articles/7106d85f.ext.json)
-
----
-
-### Can centrist SJB hold against JVP surge for political domination?
-
-*2024-10-17 00:22:13* · [`dailyftlk`](https://www.ft.lk/columns/Can-centrist-SJB-hold-against-JVP-surge-for-political-domination/4-768063) · `en`
-
-In an incredibly silly switcheroo, Sajith and the SJB, hijacked or converted by an elitist cosmopolitan caucus, tried to play the UNP of 1977 rather than either of the two roles that were required by a democratic Opposition with a strong Left competitor. These were roles customised for Sajith and the SJB to play: SWRD 1956, Ranasinghe Premadasa 1988 or both. The SJB abjured these roles, abdicating them to their rival Anura Kumara Dissanayake and the JVP-NPP. AKD kicked the goal in
-
-Neither President Dissanayake nor Foreign Minister Herath will attend the BRICS summit in Russia, Oct 22-24. The skimpy reason given was electioneering. https://economynext.com/sri-lanka-president-foreign-minister-to-skip-brics-summit-183475/
-
-...
-
-[Data](articles/43e1c0f0.json)
-
-[Extended Data](ext_articles/43e1c0f0.ext.json)
 
 ---

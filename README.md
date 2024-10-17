@@ -1,36 +1,162 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 08:22:31**
+As of **2024-10-17 08:59:11**
 
 ## Newspaper Stats
 
-*Scraped **49,919** Articles*
+*Scraped **49,930** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 402
 colombotelegraphcom | 495
-bbccomsinhala | 500
+bbccomsinhala | 501
 islandlk | 2,962
 economynextcom | 3,060
 dailyftlk | 3,406
 adalk | 4,644
 dailymirrorlk | 4,733
-adaderanalk | 5,909
-tamilmirrorlk | 6,825
+adaderanalk | 5,911
+tamilmirrorlk | 6,829
 virakesarilk | 7,979
-adaderanasinhalalk | 8,641
+adaderanasinhalalk | 8,645
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,911 (100.0%) of 49,919 articles have been extended.
+49,928 (100.0%) of 49,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Man sentenced to death for 2000 homicide in Galle
+
+*2024-10-17 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102749/man-sentenced-to-death-for-2000-homicide-in-galle) · `en`
+
+After a lengthy trial in the Galle High Court, the verdict in a long-standing homicide case has been announced, with the accused being sentenced to death.
+
+The 50-year-old accused, a resident of the Imaduwa area, was convicted for committing homicide on February 6, 2000, by intentionally electrocuting to death a person using an unauthorized electricity connection in the Koratuhenagoda area within the Imaduwa police division.
+
+The death sentence was handed down yesterday (16) following the conclusion of the trial at the Galle High Court.
+
+◼️
+
+[Data](articles/6a692fd0.json)
+
+[Extended Data](ext_articles/6a692fd0.ext.json)
+
+---
+
+### 3 dead and 4 injured in Mississippi bridge collapse
+
+*2024-10-17 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102748/3-dead-and-4-injured-in-mississippi-bridge-collapse) · `en`
+
+At least three people died and four were critically injured after a Mississippi bridge, in the process of being demolished, collapsed Wednesday afternoon while work was being conducted at the site, authorities said.
+
+The deaths and injuries were confirmed by Simpson County Sheriff Paul Mullins, WLBT-TV reported.
+
+The Simpson County coroner’s office was responding to the scene but did not provide any additional details, WJTV-TV said.
+
+The Mississippi Department of Transportation, in a news release, said the bridge over the Strong River on State Route 149 in Simpson County, about 40 miles (64 kilometers) south of Jackson, has been closed to traffic since Sept. 18 as part of a bridge replacement project handled by contractor T.L. Wallace Construction.
+
+Details of how the accident occurred were not immediately available.
+
+...
+
+[Data](articles/253a50a3.json)
+
+[Extended Data](ext_articles/253a50a3.ext.json)
+
+---
+
+### 5 arrested with 16 pound theft jewelry
+
+*2024-10-17 08:23:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-பவுண்-திருட்டு-நகைகளுடன்-5-பேர்-கைது/175-345596) · `ta`
+
+Chavakachcheri police arrest 5 suspects, recover 16 lbs gold jewelry worth Rs 25 lakhs from Thenmarachchi robbery.
+
+🟩
+
+Yall. In Thenmarachchi, the Chavakachcheri police have recovered 16 pounds of gold jewelery worth Rs 25 lakhs and five suspects have been arrested.
+
+On the 10th of this month, the robbers entered a house in the Keruda area under the Chavakachcheri police division and escaped the house of 16 pounds of jewelery and telephone at home.
+
+The husband and wife were found to have theft at home while returning home and had lodged a complaint with the Chavakachcheri police with the source of the security camera.
+
+In this case, the police have arrested five men, including two women and jewelery, who were the suspects on Tuesday.. (A)
+
+◼️
+
+[Data](articles/14e8371c.json)
+
+[Extended Data](ext_articles/14e8371c.ext.json)
+
+---
+
+### Mangala Wijesinghe appointed chairman, Export Development Board
+
+*2024-10-17 07:53:00* · [`islandlk`](http://island.lk/mangala-wijesinghe-appointed-chairman-export-development-board/) · `en`
+
+Mangala Wijesinghe, a prominent corporate leader with over 25 years of senior management experience, has been appointed as the new Chairman of the Export Development Board (EDB) of Sri Lanka. His extensive career spans multiple industries, including pharmaceuticals, chemicals, consumer electronics, industrial engineering and telecommunications, in which he has consistently demonstrated ability to drive operational excellence and foster business growth.
+
+In his current role as Cluster Chief Operating Officer – Pharmaceuticals, Consumer & Integrated Engineering Solutions of Brown and Company PLC, Mangala has successfully managed a diversified portfolio of international suppliers while representing globally-renowned brands in Sri Lanka. His reputation for transforming underperforming businesses and steering them towards profitability within short periods has earned him widespread recognition within the business community.
+
+...
+
+[Data](articles/0dc2b585.json)
+
+[Extended Data](ext_articles/0dc2b585.ext.json)
+
+---
+
+### Man sentenced to death
+
+*2024-10-17 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202257) · `si`
+
+Man sentenced to death in Galle High Court case. Lengthy trial concludes with capital punishment verdict. Incident occurred in Kotauhenagoda, Imaduwa police division.
+
+🟩
+
+After a lengthy trial in the Galle High Court, the accused have been sentenced to death.
+
+The punishment was sentenced to death in the Kotauhenagoda area in the Imaduwa police Division in the Imaduwa police Division in the Imaduwa police Division.
+
+The police say that the death penalty was punished yesterday after a lengthy trial in the Galle High Court.
+
+◼️
+
+[Data](articles/16bc1eb2.json)
+
+[Extended Data](ext_articles/16bc1eb2.ext.json)
+
+---
+
+### Identity on the right hand finger
+
+*2024-10-17 07:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலது-கை-விரலில்-அடையாளம்/175-345595) · `ta`
+
+Election Commission issues special gazette for Elpitiya Pradeshiya Sabha elections. Voters' identity marked on left hand toe instead of small finger due to ongoing code issue. Alternative identification method on right hand finger if left hand too small. Gazette notification attached.
+
+🟩
+
+The Election Commission has issued a special gazette notification as the Elpitiya Pradeshiya Sabha elections are to be held on the 26th.
+
+During the last presidential election, the left -arm was identified on the small finger to ensure that voters voted.
+
+However, as the code is still on that finger, the Local Authorities Elections Elections (262) will be marked on the voter's left hand toe during the Elpitiya Pradeshiya Sabha elections, which will be held on the 26th.
+
+If the voter's left hand is not big, the Election Commission has announced that it will be identified on another finger in his right hand.. The related gazette notification is attached below. (A)
+
+◼️
+
+[Data](articles/8f5bb34d.json)
+
+[Extended Data](ext_articles/8f5bb34d.ext.json)
+
+---
 
 ### Several spells of light showers expected in parts of the island
 
@@ -47,6 +173,142 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/d28ddc3d.json)
+
+[Extended Data](ext_articles/d28ddc3d.ext.json)
+
+---
+
+### President pays the need for a long-term national program for agriculture
+
+*2024-10-17 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202256) · `si`
+
+Sri Lanka's President Anura Kumara Dissanayake emphasizes the need for a comprehensive national agricultural plan. He discusses ongoing ministry projects and rural development initiatives aimed at reducing poverty. The focus is on organizing agriculture under a structured national strategy.
+
+🟩
+
+President Anura Kumara Dissanayake has been speaking at the progress review of the Ministry of Agriculture, Irrigation, Fisheries and Aquatic Resources that the agriculture of the Sri Lankan agriculture should be organized to an organized national plan.
+
+The Presidential Media Unit said he was also discussed at a lengthy discussion on projects implemented in these ministries.
+
+If the President was looking for about the rural development projects so far, the President said that if the government had successfully resolved, it would be a matter of any significance of poverty.
+
+As a result, the main goal of rural development projects should be the abolition of rural poverty, the President added.
+
+◼️
+
+[Data](articles/b7787536.json)
+
+[Extended Data](ext_articles/b7787536.ext.json)
+
+---
+
+### The weather with the rain today
+
+*2024-10-17 07:17:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-மழையுடனான-வானிலை/175-345594) · `ta`
+
+Rainfall warning issued: Heavy rain expected in Northern Province, possible thunderstorms in Uva, Ampara, and Batticaloa districts. Public advised to take precautions against thunderstorms.
+
+🟩
+
+The Department of Meteorology has predicted that rainfall is still in many parts of the country.
+
+Accordingly, the department has predicted more than 50 mm of rainfall in some parts of the Northern Province.
+
+Accordingly, in some places in Uva, Ampara and Batticaloa districts, there is a possibility of rain or thundershowers in the evening or night.
+
+The Department of Meteorology has requested the public to take up the necessary security measures to avoid the dangers of thunderstorms.. (A)
+
+◼️
+
+[Data](articles/167294a1.json)
+
+[Extended Data](ext_articles/167294a1.ext.json)
+
+---
+
+### වප් පුර පසළොස්වක පොහොය දිනය අදයි
+
+*2024-10-17 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202255) · `si`
+
+Here's a 200-character summary:
+
+
+
+Vap Puja Poshwak Poya Day: Important Buddhist holiday marking Buddha's enlightenment. Celebrated annually during Vassana season. Significant events occurred on this day, including the arrival of Sanghamitta Thera and Jayasri Bodhi tree in Sri Lanka.
+
+🟩
+
+බෞද්ධ සැදැහැවත් ජනතාවට ශාසනික වශයෙන් වැදගත් පොහොය දිනයක් ලෙස වප් පුර පසළොස්වක පොහොය සැලකේ.
+
+වස්සාන සමයේ අවසන් පුර පසළොස්වක පොහොය මෙන්ම කථින චීවර මාසයේ ආරම්භක දිනය වන්නේ ද වප් පුර පසළොස්වක පොහොය දිනය යි.
+
+The Buddha, the Buddha, from the Pohowa, the Moodilov, has taken place today, such as Troops of the Pobura, which is considered a very important state's day in Buddhist history.
+
+මතු බුදුවන මෛත්‍රී බෝ සතුන් ගෞතම බුදු සසුනේ පැවිද්ද ලබාගැනීම සහ විවරණ ලැබීම ද අද වැනි පොහොය දිනක සිදුව තිබේ.
+
+සංඝමිත්තා තෙරණිය සහ ජය ශ්‍රී මහ බෝධියේ දක්ෂිණ ශාඛාව මෙරටට වැඩමවීම සඳහා අරිට්ට අමාත්‍යවරයා දඹදිවට පිටත්ව යාම සිදුව ඇත්තේ අද වැනි පොහොය දිනක බව ශාසන ඉතිහාසයේ සඳහන් වේ.
+
+Meanwhile, FM Drainaduwa Asadre live broadcast live broadcast live broadcasting of the Groukanda Sri Gnaniloka is centered today.
+
+◼️
+
+[Data](articles/a9f1b53b.json)
+
+[Extended Data](ext_articles/a9f1b53b.ext.json)
+
+---
+
+### Petrol Bowser accident: 140 killed;50 people injured
+
+*2024-10-17 06:56:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பெற்றோல்-பௌசர்-விபத்து-140-பேர்-பலி-50-பேர்-காயம்/50-345593) · `ta`
+
+Nigeria Petrol Bowser crash kills 140 injures 50
+
+🟩
+
+Fourteen Bowser crashed in Nigeria's Jihawa area, killing 140 people. Also, more than 50 people were injured.
+
+On Wednesday (16), the driver lost control of the driver and crashed.
+
+The petrol leaked in the bowser by this accident. People rushed to collect the leaked parents.
+
+Bowzer burned down with a large number of people gathered. Foreign media reports that 140 people have died and more than 50 have been admitted to the hospital with injuries.
+
+Fuels are carried out in the streets as freight traffic in Nigeria. It is noteworthy that frequent accidents occur. (That)
+
+◼️
+
+[Data](articles/0a953605.json)
+
+[Extended Data](ext_articles/0a953605.ext.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-10-17 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202254) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Showers/thundershowers expected in Northern, Western, Sabaragamuwa, Northwestern provinces. Heavy rain possible (mm. 50+). Thunderstorms may occur in Ampara, Matara districts. Meteorology Department advises caution against lightning/wind accidents."
+
+🟩
+
+Showers or thundershowers will occur at times in the Northern Province and in some places mm. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+
+Several spells of showers may occur in the Western, Sabaragamuwa and Northwestern provinces, in Galle, Matara, Kandy and Nuwara Eliya districts.
+
+ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+The Meteorology Department requests the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/0cdfca68.json)
+
+[Extended Data](ext_articles/0cdfca68.ext.json)
 
 ---
 
@@ -85,6 +347,40 @@ This prestigious event will be held from 14 to 18 October in Yanqing District, B
 [Data](articles/be3da627.json)
 
 [Extended Data](ext_articles/be3da627.ext.json)
+
+---
+
+### How can you become MPs to the Parliament by your vote?
+
+*2024-10-17 01:30:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5e1nw456lo) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan citizens exercise sovereignty through voting. Article 3 of the constitution grants voting power to the people. Elections select parliamentary representatives, reflecting changing constituencies. The 1978 constitution introduced proportional representation, allowing smaller parties to gain seats. Voters can choose parties or individual candidates. Seats are allocated based on votes received, with a 5% threshold for validity. The National List distributes additional seats among parties.
+
+🟩
+
+The voting power is your sovereignty. Sri Lankan citizens are sovereignty.
+
+Article 3 of the Democratic Socialist Republic of Sri Lanka has shown that the sovereignty of the people includes voting power.
+
+According to Section 4 (a), the constitutional authority of the people must be implemented by a parliament with a parliamentary parliament selected by the people.
+
+At present, there are a indirect democracy, or demonstration of indirect democracy. There we elected public representatives to a certain time to make decisions for our decision decisions.
+
+Elections are essential for electoral representatives. It determines the democracy of a country to hold elections from time to time properly.
+
+The legislature can reflect on the constituency that changes from being held from time to time.
+
+It confirms the right to the electorality or the elected people, or unless it is legitimacy, or. The legitimacy of power directly influences the political stability of the country.
+
+...
+
+[Data](articles/f295ef70.json)
+
+[Extended Data](ext_articles/f295ef70.ext.json)
 
 ---
 
@@ -740,22 +1036,6 @@ As chefs paraded the cake-mixing ingredients, the rhythmic beat of traditional d
 
 ---
 
-### Mangala Wijesinghe appointed chairman, Export Development Board
-
-*2024-10-16 20:28:00* · [`islandlk`](http://island.lk/mangala-wijesinghe-appointed-chairman-export-development-board/) · `en`
-
-Mangala Wijesinghe, a prominent corporate leader with over 25 years of senior management experience, has been appointed as the new Chairman of the Export Development Board (EDB) of Sri Lanka. His extensive career spans multiple industries, including pharmaceuticals, chemicals, consumer electronics, industrial engineering and telecommunications, in which he has consistently demonstrated ability to drive operational excellence and foster business growth.
-
-In his current role as Cluster Chief Operating Officer – Pharmaceuticals, Consumer & Integrated Engineering Solutions of Brown and Company PLC, Mangala has successfully managed a diversified portfolio of international suppliers while representing globally-renowned brands in Sri Lanka. His reputation for transforming underperforming businesses and steering them towards profitability within short periods has earned him widespread recognition within the business community.
-
-...
-
-[Data](articles/0dc2b585.json)
-
-[Extended Data](ext_articles/0dc2b585.ext.json)
-
----
-
 ### Profit-takings by local and foreign investors pep-up share market
 
 *2024-10-16 20:25:00* · [`islandlk`](http://island.lk/profit-takings-by-local-and-foreign-investors-pep-up-share-market/) · `en`
@@ -846,21 +1126,29 @@ Speaking further, she said that the General Secretary General of Sri Lanka Gener
 
 ---
 
-### ලංකා ගුරු සංගමයෙන් රජයට දොස් මුරයක්
+### Ceylon Teachers Union blames government
 
 *2024-10-16 19:08:41* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-ගුරු-සංගමයෙන්-රජයට-දොස්-මුරයක්/11-412541) · `si`
 
-විදුහල්පති ගුරු වැටුප් විෂමතා සම්බන්ධයෙන් වත්මන් ආණ්ඩුව යටතේද අපේක්ෂා භංගත්වයට පත්වන තත්ත්වයක් ඇති වී තිබෙන බවත්, අඩුම තරමින් ගුරු වැටුප් විෂමතාව සම්බන්ධයෙන් පැහැදිලි ප්‍රකාශයක් හෝ නොකරන තත්ත්වයට ආණ්ඩුව පත්ව ඇති බවත්, පාසල් පද්ධතිය තුළ දරුවන් ලක්ෂ ගණනින් මන්දපෝෂණයෙන් පෙළෙන බැවින් ඒ වේදිකාවල පොරොන්දු වූ කතා කළ පරිදි ඒ සඳහා විසඳුම් ලබා දිය යුතු බවත් ලංකා ගුරු සංගමයේ සභාපති ප්‍රියන්ත ප්‍රනාන්දු මහතා සඳහන් සඳහන් කළේය.
+Ceylon Teachers Union criticizes government over school system issues. Union leader Priyantha Fernando calls for solutions, citing neglect and poor governance affecting education.
 
-ඒ මහතා මේ බව පැවසුවේ අද (16දා) අනුරාධපුරයේදී පැවති මාධ්‍ය හමුවකදීය.
+🟩
 
-ගුරු සංගමයේ සභාපතිවරයා සඳහන් කරන්නේ ගුරුවරුන්ගේ කරපිටින් ජනාධිපතිවරණය ජයග්‍රහණය කළ වත්මන් පාලනය, ගුරුවරයාගේ, අධ්‍යාපනයේ සහ සිසු දරුවාගේ ප්‍රශ්න විසඳීම වගකීමක් බවත්, ඒ වෙනුවට සිදුකර ඇත්තේ ගුරුවරයා සම්පූර්ණයෙන්ම අමතක කිරීමක් පමණක් බවය.
+The government has come into the present government regarding the present government regarding the present government regarding the present government, and the government is in malnutrition in the school system.The Ceylon Teachers Union Priyantha Fernando stated that the solutions should be given.
 
-නව පාලනයට කාලයක් ලබා දිය යුතු බව පිළිගන්නා නමුත්, පොරොන්දු වූ පරිදි අපේක්ෂිත බලාපොරොත්තු සම්බන්ධව පැහැදිලි ප්‍රකාශයක් කිරීම රජයේ යුතුකමක් බවද හෙතෙම සඳහන් කළේය.
+He was speaking at a media briefing in Anuradhapura today (16).
+
+The Chairman of the Teachers Union (Gum Association) stated that the current governance, teacher, education and student of the presidential election is responsible for the teacher only fully forgets the teacher.
+
+He also said that it is the duty of the government to make a clear statement about the new rule.
+
+Despite the conventionalized traditional rulers of the world, adult and world teachers, should explain what action should be explained in this administration, but the Chairman of the Ceylon Teachers Union regardless of the teachers on the day.Said Priyantha Fernando.
 
 ...
 
 [Data](articles/d5f699dd.json)
+
+[Extended Data](ext_articles/d5f699dd.ext.json)
 
 ---
 
@@ -1568,7 +1856,7 @@ We also expect that he will get righteousness for those who are victims of the s
 
 ---
 
-### Sri Lanka’s Sampath Bank helps finance State Bank of India
+### Sri Lanka’s Sampath Bank helps finance State Bank of India $750mn loan
 
 *2024-10-16 16:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-sampath-bank-helps-finance-state-bank-of-india-183891/) · `en`
 
@@ -2037,255 +2325,5 @@ A cabinet decision in August by the previous government to provide the allowance
 [Data](articles/0c8c1da5.json)
 
 [Extended Data](ext_articles/0c8c1da5.ext.json)
-
----
-
-### Arjun Aloysius' Bail petition rejected
-
-*2024-10-16 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196433) · `ta`
-
-Colombo Chief Magistrate's Court rejects bail plea for Arjun Aloysius and others in tax fraud case. They were previously sentenced to 6-months imprisonment for defrauding the government of 3.5 billion rupees.
-
-🟩
-
-W.. Mendis Company Directors Arjun Aloysius and AR. The Colombo Chief Magistrate's Court has rejected the bail plea filed on behalf of Dinendra John on Wednesday (16).
-
-On the 14th of last month, the court rejected an appeal seeking to release themselves from a 6 -month prison sentence.
-
-WM in the incident of fraudulently not paying the tax to the government. The Colombo Magistrate's Court has sentenced three men, including Mendis Director Arjun Aloysius, to 6 months in prison.
-
-The case was filed in connection with the defrauding of the 3.5 billion rupee tax on the government.
-
-It is in this context that the Colombo Chief Magistrate's Court has rejected their bail plea today.
-
-◼️
-
-[Data](articles/7966a288.json)
-
-[Extended Data](ext_articles/7966a288.ext.json)
-
----
-
-### Awareness walking to protect the environment in Tirumala
-
-*2024-10-16 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196434) · `ta`
-
-Environmental awareness walk in Trincomalee promotes green city initiative, focuses on cleanliness, reducing plastic pollution, and planting trees for clean air.
-
-🟩
-
-Awareness walk was held on Wednesday (16) to protect the environment in Trincomalee and create a green city.
-
-According to the Environmental Protection Scheme, the style of the "clean and greenhouses of Trincomalee" was handed over to the Secretary of the Municipal Council to the city council secretary from the Trincomalee Nagar Bus Station to the Trincomalee Municipal Council.
-
-Clean and green Trincomalee, roads do not put garbage in public places, eradicate plastic that pollutes the soil and water, and breathe trees and breathe clean air.
-
-The public was attended by the Director of the Ecut Caritas Company and the Officers.
-
-◼️
-
-[Data](articles/c3a25b47.json)
-
-[Extended Data](ext_articles/c3a25b47.ext.json)
-
----
-
-### හඳුනානොගත් වෛරසයක් නිසා ඌරු ගොවිපළවල ඌරන් මිය යයි
-
-*2024-10-16 13:37:05* · [`adalk`](https://www.ada.lk/breaking_news/හඳුනානොගත්-වෛරසයක්-නිසා-ඌරු-ගොවිපළවල-ඌරන්-මිය-යයි/11-412528) · `si`
-
-Unidentified virus causes pig deaths in Sri Lanka. Nearly 1000 pigs died. Pigs dying rapidly due to virus. Veterinary officials informed but no action taken yet. Vaccine not available for pigs. Situation worsening, causing economic losses.
-
-🟩
-
-අනුරාධපුර මධ්‍යම නූවරගම් පළාත් ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ උලුක්කුලම ප්‍රදේශයේ සත්ත්ව ගොවිපලවල් තුල සීඝ්‍රයෙන්  පැතිර යන වෛරස් රෝගයක්  හේතුවෙන්, ඌරන් විශාල වශයෙන් මිය යමින් සිටින බව එම සත්ත්ව ගොවීහු පවසති.
-
-They said that nearly a thousand pigs have died, and that the unidentified virus will be killed in two days after the pigs.
-
-මේ වන විට ඌරන් අටසීයක් සිටින ගොවිපළවල්වල ඌරන් දෙසීයක් පමණ ජීවිතක්ෂයට පත්ව ඇති අතර , ඌරන්  තුන්සියයක් පමණ සිටින ගොවිපළවල්වල ඌරන් පනහත් හැටත් අතර ප්‍රමාණයක්  මේ වන විට මරණයට පත්ව ඇති බවත්,  මියගිය පැටවුන් සංඛ්‍යාව  පිළිබඳව මෙතෙක් ගණනය කර නොමැති බවත් එම ගොවීන් සඳහන් කළහ.
-
-මෙම ප්‍රදේශයේ ආශ්‍රිතව ඌරු ගොවිපළවල් විස්සක් පමණ ප්‍රමාණයක්  පවතින  අතර එම සියලුම ගොවිපළවල්වල ඌරන් මේ ආකාරයෙන් මිය යමින් සිටින බව මෙහිදී දැක ගත හැකි විය.
-
-...
-
-[Data](articles/a5e1d96f.json)
-
-[Extended Data](ext_articles/a5e1d96f.ext.json)
-
----
-
-### Injunction issued preventing any hindrance to Sri Lanka’s first cable car project
-
-*2024-10-16 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102734/injunction-issued-preventing-any-hindrance-to-sri-lankas-first-cable-car-project) · `en`
-
-The Court of Appeal has issued an interim order against the Gampola Divisional Secretary preventing her from interfering with the activities of the first cable car project in Sri Lanka, which is being built in the Ambuluwawa area.
-
-This order was issued by the Appeals Court after considering a petition filed by a private company alleging that their project is being unduly hindered by the said official.
-
-The application was taken up for consideration today (16) before an Appellate Court bench comprising Judges Mohammad Lafar Tahir and P. Kumaran Ratnam.
-
-Presenting facts before the court, President’s Counsel Ali Sabry, who appeared for the petitioning company, accused the Gampola Divisional Secretary of obstructing the construction work of the cable car project despite the fact that all the relevant government agencies had given the necessary approval.
-
-...
-
-[Data](articles/2bf18143.json)
-
-[Extended Data](ext_articles/2bf18143.ext.json)
-
----
-
-### An order preventing the cable car project
-
-*2024-10-16 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202238) · `si`
-
-Court issues interim order against cable car project obstruction in Ambuluwawa area. Private company filed petition citing project interference.
-
-🟩
-
-The Court issued the interim orders to Gampola Divisional Secretary, preventing any obstruction or intervention in the Ambuluwawa area in Ambuluwawa.
-
-තම ව්‍යාපෘතියට බාධා එල්ලවන බව සඳහන් කරමින්, පෞද්ගලික සමාගමක් විසින් ගොනුකළ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණය විසින් මෙම නියෝගය නිකුත් කර තිබේ.
-
-◼️
-
-[Data](articles/d20b7d5e.json)
-
-[Extended Data](ext_articles/d20b7d5e.ext.json)
-
----
-
-### scam camp ලංකාව තුළ භයානක පැතිරීමක
-
-*2024-10-16 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202237) · `si`
-
-විදෙස් ජාතිකයින් විසින් මෙරට දී සිදුකරනු ලබන අන්තර්ජාල ජාවාරම් කඳවුරුවල ඉහළ යෑමේ ප්‍රවණතාවයක් දක්නට ලැබෙන බව පොලීසිය පවසයි.
-
-අද දෙරණ BIG FOCUS වැඩසටහනට එක්වෙමින් පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා මේ බව සඳහන් කළේය.
-
-"It was a special situation here. ස්කෑමින් කෑම්ප්. මේවා කෑම්ප් විදිහට සකස්වෙලා තියෙන්නේ. මේක නව ප්‍රවණතාවයක් ශ්‍රී ලංකාවට. This is the case of this Campau in 2024. These caves are chosen on a separate place, a roomy spacious place. These people won't let go out. මියන්මාරයේ ශ්‍රී ලංකිකයෝ හිරකරගෙන ඉන්නවා කියන්නේ ඒ තත්ත්වය තමයි මෙහෙත් තියෙන්නේ. That is the same thing. "
-
-අන්තර්ජාලය ඔස්සේ මෙරටදී සිදුකර ජාවාරම් සම්බන්ධයෙන් පොලීසිය විසින් පුද්ගලයින් 300කට ආසන්න සංඛ්‍යාවක් අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
-
-In addition, nearly 500 mobile phones and nearly 300 computers have been taken into custody.
-
-...
-
-[Data](articles/d3046dfa.json)
-
-[Extended Data](ext_articles/d3046dfa.ext.json)
-
----
-
-### உபுல் தரங்கவை கைது செய்ய தடை விதித்து உத்தரவு
-
-*2024-10-16 13:27:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உபுல்-தரங்கவை-கைது-செய்ய-தடை-விதித்து-உத்தரவு/175-345552) · `ta`
-
-Sri Lanka cricket team selection committee head Umar Thibau arrested due to court order.
-
-🟩
-
-மாத்தளை மேல் நீதிமன்றம் பிறப்பித்த உத்தரவுக்கு அமைய, நாடு திரும்பிய இலங்கை கிரிக்கெட் அணி தெரிவுக்குழுவின் தலைவர் கிரிக்கெட் வீரர் உபுல் தரங்கவை கைது செய்ய தடை விதித்து மேன்முறையீட்டு நீதிமன்றம் இன்று உத்தரவு பிறப்பித்துள்ளது.
-
-மாத்தளை மேல் நீதிமன்றத்தின் உத்தரவின் சட்டபூர்வமான தன்மையை சவால் செய்து உபுல் தரங்கவினால் தாக்கல் செய்யப்பட்ட ரிட் மனுவையடுத்து மேன்முறையீட்டு நீதிமன்ற நீதியரசர்களான எம்.டி.எம்.லஃபர் மற்றும் பி.குமாரரத்தினம் ஆகிய இரு நீதிபதிகள் அடங்கிய அமர்வு இந்த உத்தரவை பிறப்பித்துள்ளது.
-
-மேட்ச் பிக்சிங் வழக்கின் சாட்சியாக அவர் நீதிமன்றத்தில் ஆஜராகத் தவறியதையடுத்து கடந்த ஒக்டோபர் மாதம் 8ஆம் திகதி, உபுல் தரங்கவை கைது செய்யுமாறு மாத்தளை உயர்நீதிமன்றம் பிடியாணை பிறப்பித்திருந்தது.
-
-தரங்க அமெரிக்காவில் இருக்கும் போதே அவருக்கு எதிராக பிடியாணை பிறப்பிக்கப்பட்டுள்ளதாகவும், அங்கு அவர் கிரிக்கெட் போட்டியில் பங்கேற்க உள்ளதாகவும் நீதிமன்றத்தில் தெரிவிக்கப்பட்டது.
-
-...
-
-[Data](articles/085d6207.json)
-
-[Extended Data](ext_articles/085d6207.ext.json)
-
----
-
-### European journey stopped by Italy
-
-*2024-10-16 12:53:19* · [`adalk`](https://www.ada.lk/breaking_news/යුරෝපා-ගමන-ඉතාලියෙන්-නවතී/11-412527) · `si`
-
-Iranian national arrested at Sri Lanka airports for passport fraud and illegal entry attempts.
-
-🟩
-
-An Iranian national who was arrested in the Katunayaka Airport on the morning of 10/16th day, a Iranian national arrested at the Bandaranaike International Airport on the morning of 10/16th day.
-
-මොහු 40 හැවිරිදි ඉරාන ජාතිකයෙකි. He had reached the Katunayake airport on Air Force on Air Force, the airport of the United Arab Emirates on 10/16.
-
-Obtaining the Visa to enter the airportHas been confirmed.
-
-Immigration and Emigration Department (Immigration Department) had taken the Italian National Passport information to the National Central Bureau of Criminal Investigations Department. එහිදී ද මෙම ඉතාලි ජාතික ගමන් බලපත්‍රය නැතිවූ සහ සොරකම් කරන ලද , ජාත්‍යන්තර පොලිස් තොරතුරු පද්ධතියේ සදහන් ගමන් බලපත්‍රයක් බවට සනාථ වී තිබේ .
-
-මෙම විමර්ශන සිදු කෙරෙමින් පවතින අතරතුර , මෙම ඉරාන ජාතිකයා , එම ස්ථානයෙන් හෙමින් පිටවී ගොස් , ඔහු මෙතෙක් සගවා ගෙන සිටි , ඉරාන ජාතික ගමන් බලපත්‍රය අසළ තිබූ ආගමන කවුළුවක් වෙත ඉදිරිපත් කර , යළිත් මෙරටට ඇතුළු වීමට තැත් කර තිබේ.
-
-...
-
-[Data](articles/48b17a93.json)
-
-[Extended Data](ext_articles/48b17a93.ext.json)
-
----
-
-### Arjun Aloysius rejected again bail
-
-*2024-10-16 12:51:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ஜூன்-அலோசியஸூக்கு-மீண்டும்-பிணை-நிராகரிப்பு/175-345550) · `ta`
-
-Colombo Chief Magistrate's Court rejects bail plea for Arjun Aloysius and AR Dinendra John. Directors sentenced six months imprisonment for failing to pay Rs 3.5 billion to government. Court previously denied bail on October 14.
-
-🟩
-
-W.. Mendis and Company Limited Directors Arjun Aloysius and AR. Dinendra John.
-
-The Colombo Chief Magistrate's Court has rejected the bail plea filed on behalf of the two men.
-
-On October 14, the court refused to grant bail to the counterparts on the pending appeal.
-
-The court has sentenced all three directors to six months' imprisonment for failing to pay the Rs 3.5 billion worth of Rs 3.5 billion to the government.
-
-◼️
-
-[Data](articles/916efbed.json)
-
-[Extended Data](ext_articles/916efbed.ext.json)
-
----
-
-### Sri Lanka should focus on debt restructure, legal challenge by Hamilton Reserve: former minister
-
-*2024-10-16 12:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-focus-on-debt-restructure-legal-challenge-by-hamilton-reserve-former-minister-183864/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s focus now should be on implementing the debt restructuring process, particularly in response to the legal challenge by the Hamilton Reserve Bank, the former State Finance Minister has said.
-
-It was encouraging to see the new administration continuing former President Ranil Wickremesinghe’s proven economic policies, despite heavy criticism from the current government while in opposition, Shehan Semasinghe said on X.
-
-“The focus now is on effectively implementing the debt restructuring process, particularly in response to the legal challenge by the Hamilton Reserve Bank,” Semasinghe said in response to media reports on the case.
-
-In March, Sri Lanka sought a 5-month extension in the suspension of a case filed by Hamilton Reserve, a holdout investor who is seeking immediate payment on a defaulted bond series in which it claims a 25 percent stake.
-
-...
-
-[Data](articles/54a07751.json)
-
-[Extended Data](ext_articles/54a07751.ext.json)
-
----
-
-### Rs. 3,000 allowance to be credited to pensioners’ accounts from today
-
-*2024-10-16 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102733/rs-3000-allowance-to-be-credited-to-pensioners-accounts-from-today-) · `en`
-
-The Department of Pensions is set to distribute the monthly interim allowance of Rs. 3,000 to all pensioners starting today (16), the President’s Media Division (PMD) announced.
-
-President Anura Kumara Dissanayake, who looked into the delays in disbursing the proposed monthly interim allowance of Rs. 3,000 for pensioners, has recently directed that the necessary funds be released from the Treasury, the PMD said in a statement.
-
-In line with these directives, the Treasury has allocated the required amount to the Department of Pensions, which will begin crediting the allowances to pensioners’ accounts today, the statement added.
-
-Although Public Administration Circular No. 02/2024, issued on 24 August 2024, called for the monthly interim allowance, funding had not been allocated.
-
-...
-
-[Data](articles/985a36d9.json)
-
-[Extended Data](ext_articles/985a36d9.ext.json)
 
 ---

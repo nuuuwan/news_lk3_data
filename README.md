@@ -1,36 +1,74 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 18:34:53**
+As of **2024-10-17 19:00:17**
 
 ## Newspaper Stats
 
-*Scraped **50,004** Articles*
+*Scraped **50,014** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 402
 colombotelegraphcom | 496
-bbccomsinhala | 501
+bbccomsinhala | 502
 islandlk | 2,964
 economynextcom | 3,062
 dailyftlk | 3,406
-adalk | 4,651
+adalk | 4,652
 dailymirrorlk | 4,733
 adaderanalk | 5,923
 tamilmirrorlk | 6,840
-virakesarilk | 7,998
-adaderanasinhalalk | 8,665
+virakesarilk | 8,005
+adaderanasinhalalk | 8,666
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,004 (100.0%) of 50,004 articles have been extended.
+50,008 (100.0%) of 50,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### කාසියේ වාසිය බ.ඉ. කොදෙව්වන්ට
+
+*2024-10-17 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202279) · `si`
+
+ශ්‍රී ලංකාව හා සංචාරක බ.ඉ. කොදෙව් කණ්ඩායම අතර දඹුල්ලේ පැවැත්වෙන අවසන් විස්සයි20 තරගයේ කාසියේ වාසිය දිනූ බ.ඉ. කොදෙව් කණ්ඩායම පළමුව පන්දුවට පහරදීමට තීරණය කළේය.
+
+තරග තුනකින් යුත් මෙම තරගාවලියේ පළමු තරග දෙක තරග 1-1ක් ලෙස ජයගෙන කණ්ඩායම් දෙකම මේ වනවිට සම තත්ත්වයේ රැඳී සිටියි.
+
+◼️
+
+[Data](articles/d786e938.json)
+
+---
+
+### No one can prevent the success of the Tamil Progressive Alliance - Thikambaram
+
+*2024-10-17 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196526) · `ta`
+
+Tamil Progressive Alliance confident of victory in Nuwara Eliya district. Leader Palani Thikambaram says no one can stop their success. Emphasizes experience and service record. Calls for voters to choose familiar candidates who have served the people.
+
+🟩
+
+It's been 20 years since I got into politics. It has been 30 years since Radhakrishnan came into politics. People know the services we have done so far. Palani Thikambaram, the leader of the National Union of Workers and a former Member of Parliament and the Nuwara Eliya district candidate of the United People's Power, said that no one can prevent our victory.
+
+Digambaram said this while the election campaign meeting of the Tamil Progressive Alliance was held at the Attan Golden Mahal Hall.
+
+He continued to speak at a meeting attended by Radhakrishnan and M Udayakumar, candidates of the Tamil Progressive Alliance.
+
+The upcoming parliamentary election is important. Many independent groups have taken to the field to reduce Tamil representation in Nuwara Eliya district. Similarly, all those who are not introduced to the people are candidates in political parties.
+
+...
+
+[Data](articles/c6716d97.json)
+
+[Extended Data](ext_articles/c6716d97.ext.json)
+
+---
 
 ### Taxes in several imported merchandise increases
 
@@ -57,6 +95,30 @@ Taxes have also been imposed as a 10% increase in new or more than 10% or Rs. 40
 [Data](articles/ffafe103.json)
 
 [Extended Data](ext_articles/ffafe103.ext.json)
+
+---
+
+### Tamil Progressive Alliance candidates win Nuwara Eliya - Udayakumar
+
+*2024-10-17 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196524) · `ta`
+
+Tamil Progressive Alliance candidates likely to win Nuwara Eliya parliamentary elections. Udayakumar predicts victory for three Tamil candidates. Opposition may gain 120 seats due to voter dissatisfaction. Five Tamil candidates expected to win out of eight MPs.
+
+🟩
+
+Candidates who support the Tamil Progressive Alliance have won the presidential elections and parliamentary elections. The Tamil Progressive Alliance candidates contesting the upcoming parliamentary elections in the Nuwara Eliya district will definitely win, said Mayilvankanam Udayakumar, president of the National Union of Workers and the Nuwara Eliya District candidate of the United People's Power.
+
+He said this while the election campaign meeting of the Tamil Progressive Alliance was held at the Hatton Senan Estate.
+
+Candidates Palani Thikambaram, Wee. He continued to speak at the meeting attended by Radhakrishnan.
+
+This is an important election for the people of the hill country as the parliamentary elections are held within a month of the presidential election. The Tamil people live in the Nuwara Eliya district outside the North and East.
+
+...
+
+[Data](articles/2705f774.json)
+
+[Extended Data](ext_articles/2705f774.ext.json)
 
 ---
 
@@ -92,6 +154,48 @@ Shakib was a Member of Parliament in his hometown and was representing former Pr
 
 ---
 
+### 2024 Sri Lankan elections - important rise of populist Left
+
+*2024-10-17 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196522) · `ta`
+
+Sri Lanka 2024 elections: Populist Left rise. Dissanayake vows to engage non-voters. Ethnic conflict challenge.
+
+🟩
+
+Dissanayake, who delivered his first speech after being elected, announced that he would do everything he could to approach the non -voting factions in the September election, and that he had realized the size and "admission" of his decree. If the promise to bring about Dissanayake's Renaissance Age is to be true, it is a serious task to be successful in Sri Lanka to control the ethnic conflict in Sri Lanka.
+
+◼️
+
+[Data](articles/0b17c5ac.json)
+
+[Extended Data](ext_articles/0b17c5ac.ext.json)
+
+---
+
+### Our Tamil representation in Nuwara Eliya, the heart of the hill country
+
+*2024-10-17 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/196519) · `ta`
+
+Tamil representation crucial in Nuwara Eliya district. UNP elephant symbol candidates emphasize education focus. Call for continued support in upcoming elections.
+
+🟩
+
+Nuwara Eliya District is the most important district that determines the political existence of the hill country. It is a mandatory requirement that our Tamil representation is considered to be the heart of the hill country. Therefore, there is a firm belief that the people with the people will definitely support and give a decree, ”said Maruthapandi Rameswaran, the CWC's chairman and the Nuwara Eliya district parliamentary candidate.
+
+We are unique in the Nuwara Eliya district under the Elephant Symbol of the United National Party. He also said that we have given importance to the national list.
+
+He was speaking at a media briefing held in Madukumbura area in Talawakelle.
+
+It is very important that the politics of the hill country. Therefore, the people living in the Nuwara Eliya district should think and vote in the upcoming parliamentary elections.. We need to protect our political representation.
+
+...
+
+[Data](articles/a4f8e303.json)
+
+[Extended Data](ext_articles/a4f8e303.ext.json)
+
+---
+
 ### කෙහෙළිය රඹුක්වැල්ල විදුහලින් කෙහෙළියගේ නම ඉවත් කරේ
 
 *2024-10-17 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202276) · `si`
@@ -122,6 +226,26 @@ This College, 1939, S.WR. De Bandaranaike commenced in the name of de Bandaranay
 
 ---
 
+### தமிழ் மக்கள் தமது இருப்பை தக்கவைத்துக்கொள்ள தமிழர்களுக்கே வாக்களிக்க வேண்டும் - மிதிலைச்செல்வி
+
+*2024-10-17 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196518) · `ta`
+
+தமிழ் மக்கள் தமது இருப்பை தக்கவைத்துக்கொள்ள தமிழர்களுக்கே வாக்களிக்க வேண்டும் என தமிழ் மக்கள் கூட்டணியின் யாழ். தேர்தல் மாவட்ட வேட்பாளர் மிதிலைச்செல்வி ஸ்ரீபத்மநாதன் தெரிவித்துள்ளார்.
+
+யாழ். ஊடக அமையத்தில் இன்றைய தினம் வியாழக்கிழமை (17) நடைபெற்ற ஊடக சந்திப்பின்போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+தமிழ் மக்கள் தமது இருப்பை தக்கவைத்துக்கொள்ள தமிழர்களுக்கே வாக்களிக்க வேண்டும். பெரும்பான்மை கட்சிகளுக்கு வாக்களிப்பது மிக ஆபத்தானது.
+
+அதேவேளை பெண்களுக்கு முன்னுரிமை அளிக்கப்பட வேண்டும். கடந்த காலங்களில் இழப்புக்களை பெருமளவில் சந்தித்தது பெண்களே. அவர்களுக்கு உதவ வேண்டும். அவர்களின் வாழ்க்கையில் மாற்றத்தை ஏற்படுத்த வேண்டும் என மேலும் தெரிவித்தார்.
+
+இந்த ஊடக சந்திப்பில் தமிழ் மக்கள் கூட்டணியில் யாழ். தேர்தல் மாவட்டத்தின் முதன்மை வேட்பாளரான சட்டத்தரணி வி. மணிவண்ணன், வேட்பாளர்களான சட்டத்தரணி உமாகரன் இராசையா, வரதராஜா பார்த்திபன் ஆகியோரும் கலந்துகொண்டிருந்தனர்.
+
+◼️
+
+[Data](articles/12662d8b.json)
+
+---
+
 ### Bangladesh crimes tribunal issues arrest warrant for exiled former prime minister
 
 *2024-10-17 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102763/bangladesh-crimes-tribunal-issues-arrest-warrant-for-exiled-former-prime-minister) · `en`
@@ -141,6 +265,36 @@ The tribunal’s proceedings, presided over by Justice Golam Mortuza Majumdar, s
 [Data](articles/57fe2f4f.json)
 
 [Extended Data](ext_articles/57fe2f4f.ext.json)
+
+---
+
+### ஈழ மக்கள் ஜனநாயக கட்சி அலுவலகம் கிளிநொச்சியில் திறப்பு!
+
+*2024-10-17 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/196515) · `ta`
+
+ஈழ மக்கள் ஜனநாயக கட்சியின் அலுவலகம் இன்று வியாழக்கிழமை (17) கிளிநொச்சி தர்மபுரம் பகுதியில் திறந்துவைக்கப்பட்டது.
+
+ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயலாளர் நாயகம் டக்ளஸ் தேவானந்தாவால் இந்த கட்சி அலுவலகம் திறந்துவைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ab65ed66.json)
+
+---
+
+### வட்டுக்கோட்டையில் கசிப்புடன் ஒருவர் கைது!
+
+*2024-10-17 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196514) · `ta`
+
+வட்டுக்கோட்டை பொலிஸ் பிரிவுக்குட்பட்ட அராலி பகுதியில் கசிப்புடன் சந்தேக நபரொருவர் இன்று வியாழக்கிழமை (17) கைது செய்யப்பட்டுள்ளார்.
+
+அராலித்துறை பகுதியில் நீண்ட நாட்களாக இந்த நபர் கசிப்பு விற்பனையில் ஈடுபட்டுவருவதாக இரகசிய தகவல் பொலிஸாருக்கு கிடைக்கப்பெற்றதன் அடிப்படையிலேயே இந்த நபர் கைது செய்யப்பட்டுள்ளார்.
+
+மேலதிக விசாரணைகளின் பின்னர், சந்தேக நபரை மல்லாகம் நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றன.
+
+◼️
+
+[Data](articles/cc2eb63b.json)
 
 ---
 
@@ -321,6 +475,22 @@ The parties must submit expenditure reports to the Elections Commission within 2
 [Data](articles/76cf70b3.json)
 
 [Extended Data](ext_articles/76cf70b3.ext.json)
+
+---
+
+### කෙහෙළියගේ නමින් නම් කළ පාසලේ කෙහෙළියගේ නම ගලවය
+
+*2024-10-17 15:28:14* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-නමින්-නම්-කළ-පාසලේ-කෙහෙළියගේ-නම-ගලවය/11-412547) · `si`
+
+මහනුවර වත්තේගම අධ්‍යාපන කලාපයේ කුණ්ඩසාලේ කොට්ඨාශයට අයත් කුණ්ඩසාලේ පිහිටි කෙහෙළිය රඹුක්වැල්ල ආදර් ශ ප්‍රාථමික විද්‍යාලයේ නාමය වහාම ක්‍රියාත්මක වන පරිදි සංශෝධනය කිරීමට  මධ්‍යම පළාත් ආණ්ඩුකාරවර මහාචාර් ය එස්. බී .එස්  අභයකෝන් මහතා  අනුමැතිය  ලබා දී ඇත.
+
+ඒ අනුව මෙම විද්‍යාලය මින් ඉදිරියට කුණ්ඩසාලේ රාජකීය ප්‍රාථමික විද්‍යාලය නමින් හැදින්වීමට පළාත් අධ්‍යාපන දෙපාර් තමෙන්තුවේ ව්‍යුහ කමිටුව මගින් ඉදිරිපත් කොට තිබු යෝජනාවට අනුමැතිය ලබා දී ඇත. මේ සම්බන්ධයෙන්  දෙමව්පියන් , වෘත්තීය සමිති සහ ආදී සිසුන් වෙතින්  වරින් වර ඉදිරිපත් කර තිබු යෝජනා සැලකිල්ලට ගනිමින් දෙපාර් තමෙන්තුවේ ව්‍යුහ කමිටුවේ  නිර් දේශ ඉදිරිපත් කරනු ලැබිය.
+
+මෙම අධ්‍යාපන කොට්ඨාශ යේ ප්‍රධාන ප්‍රාථමික විදුහල් අතරින් ප්‍රමුඛ විද්‍යාලයක් වන මෙම විද්‍යාලය 1939  එස්.ඩබ්ලිව්.ආර්. ඩි බණ්ඩාරනායක විදුහල නමින් ආරම්භ වී අතර, කලින් කල හදුන්වා දෙනු ලැබූ විවිධ අධ්‍යාපන ප්‍රතිසංස්කරණ වලට සමගාමිව  නත්තරම්පොත විද්‍යාලය, කුණ්ඩසාලේ මහා විදුහල වැනි නම් වලින් ද හදුන්වා ඇත.
+
+...
+
+[Data](articles/5f15b6ea.json)
 
 ---
 
@@ -991,6 +1161,30 @@ He remarked: “A country cannot progress simply because its ruler is good. The 
 [Data](articles/d30d86d2.json)
 
 [Extended Data](ext_articles/d30d86d2.ext.json)
+
+---
+
+### හිටපු ජනාධිපති රනිල් වික්‍රමසිංහගේ විශේෂ ප්‍රකාශයේ ප්‍රධාන කරුණු 5ක්
+
+*2024-10-17 12:05:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn5zdp1rn05o) · `si`
+
+හිටපු ජනාධිපති එක්සත් ජාතික පක්ෂ නායක රනිල් වික්‍රමසිංහ ඔක්තෝබර් 17 වන දා විශේෂ ප්‍රකාශයක් සිදු කළේ ය.
+
+ජනාධිපතිවරණයෙන් පසු ඔහු ප්‍රසිද්ධ ප්‍රකාශයක් සිදු කළ ප්‍රථම අවස්ථාව මෙය වේ.
+
+කොළඹ, මල් පාරේ පිහිටි නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණු කාර්යාලයේදී ඔහු මෙම විශේෂ ප්‍රකාශය සිදු කරමින් සඳහන් කළේ, ශ්‍රී ලංකාව 2028 වසරේ සිට යළි විදෙස් ණය ගෙවීම ආරම්භ කළ යුතු බවත්, 2027 වසර වන විට රාජ්‍ය ආදායම දළ දේශීය නිෂ්පාදිතයෙන් 15%ක් බවට පත්කර ගැනීමේ අභියෝගය නව රජය හමුවේ පවතින බවත් ය.
+
+එම ඉලක්කයට යාම සඳහා සෑම වසරක ම 1%ක ආර්ථික වර්ධනයක් ලබා ගත යුතු බව පෙන්වා දෙමින් ඔහු ඊළඟ පාර්ලිමේන්තුවට වගකීම්වලින් පැන නොයන අත්දැකීම් සහිත කණ්ඩායමක් අවශ්‍ය බව අවධාරණය කළේ ය.
+
+මේ, ඔහු සිදු කළ ප්‍රකාශයේ සඳහන් වුණු විශේෂ කරුණු පිළිබඳව කෙරෙන විමසා බැලීමකි.
+
+තමා ජනාධිපතිවරයා ලෙස රට භාර ගනු ලැබුවේ ණය ගෙවා ගැනීමට නොහැකිව බංකොලොත්භාවය ප්‍රකාශ කර තිබියදී බව හිටපු ජනාධිපතිවරයා සිය ප්‍රකාශයේදී පැවසීය.
+
+එම අවස්ථාවේ තම මූලික අරමුණ වූයේ, යළිත් ණය තිරසර බව ඇති කර පැවති බංකොලොත්භාවය ඉවත් කර ගැනීම බව ඔහු පෙන්වා දුන්නේ ය.
+
+...
+
+[Data](articles/2cc50085.json)
 
 ---
 
@@ -2197,183 +2391,5 @@ L.R.D.C. Ltd. submitted bids to provide security services for hospitals across t
 [Data](articles/f7dd1a3f.json)
 
 [Extended Data](ext_articles/f7dd1a3f.ext.json)
-
----
-
-### Curtin Colombo students showcase diverse prowess while pursuing academic excellence
-
-*2024-10-17 01:16:37* · [`dailyftlk`](https://www.ft.lk/business/Curtin-Colombo-students-showcase-diverse-prowess-while-pursuing-academic-excellence/34-768072) · `en`
-
-Curtin Colombo, the global partner of Curtin University Australia, provides a vibrant environment for future leaders to excel in multiple arenas. Recognised as a transformative educational hub, Curtin Colombo is nurturing a new generation of leaders who are making waves in their studies and on the sporting field.
-
-Curtin Colombo offers a dynamic learning environment that creates holistic development, connecting students to a global network of over 240,000 who have made significant impacts in their fields. Curtin University’s commitment to sustainability and community engagement is evident in the diverse range of extracurricular activities and sports that students can participate in, alongside their rigorous academic programs.
-
-This approach ensures that students are prepared for the challenges of the future and able to develop intellectually, personally and professionally, setting the stage for successful and impactful careers.
-
-...
-
-[Data](articles/96fca532.json)
-
-[Extended Data](ext_articles/96fca532.ext.json)
-
----
-
-### Model Road Development leads to economic development
-
-*2024-10-17 01:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதி-அபிவிருத்தி-பொருளாதார-விருத்திக்கு-வழிவகுக்கும்/175-345590) · `ta`
-
-Road development leads to economic growth. President emphasizes orderly planning and efficient implementation of projects to achieve rural economic goals. Prioritizes benefits for all citizens over individual contracts.
-
-🟩
-
-வீதி அபிவிருத்தி வேலைத்திட்டங்களை ஒழுங்குபடுத்தல் மற்றும் செயற்திறனுடன் முன்னெடுத்தல் என்பன கிராமிய பொருளாதார இலக்குகளை அடைந்துகொள்ள வழிவகுக்கும் என ஜனாதிபதி அநுரகுமார திஸநாயக்க தெரிவித்தார்.
-
-அதேபோல் கிராமிய அபிவிருத்தி செயற்பாடுகளை முன்னெடுக்கும்போது பெறுகைச் செயற்பாடுகள் ஒழுங்குமுறைக்கமைய முன்னெடுக்கப்பட வேண்டும் என்றும், ஒரு சிலருக்கு மாத்திரம் ஒப்பந்தங்கள் கிடைப்பதற்கு மாறாக பிரதேச மற்றும் கிராமிய மக்களுக்கு பலன்கள் கிடைக்கும் வகையில் மேற்படி வேலைத்திட்டங்களை தயாரிக்குமாறும் ஜனாதிபதி வலியுறுத்தினார்.
-
-ஜனாதிபதி செயலகத்தில் நேற்று நடைபெற்ற போக்குவரத்து பெருந்தெருக்கள், துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சின் முன்னேற்ற மீளாய்வுக் கலந்துரையாடலிலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
-
-The programs implemented by the Ministry of Transport, Ports and Civil Aviation Services have been extensively reviewed and the construction of the Mirigama -Kadawatha area of ​​the Central Expressway.
-
-...
-
-[Data](articles/f9c4a5a2.json)
-
-[Extended Data](ext_articles/f9c4a5a2.ext.json)
-
----
-
-### Lankan envoy in Thailand emphasises climate resilience and trade integration in BIMSTEC region
-
-*2024-10-17 01:10:08* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Thailand-emphasises-climate-resilience-and-trade-integration-in-BIMSTEC-region/56-768071) · `en`
-
-Sri Lankan Ambassador to Thailand Wijayanthi Edirisinghe recently attended a high-level event on regional trade and agricultural transformation in Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) countries, as a guest speaker.
-
-The event was organised by the International Food Policy Research Institute (IFPRI) in collaboration with BIMSTEC and the Research and Information System for Developing Countries (RIS). It was a valuable platform for experts, policymakers, and diplomats to tackle pressing issues related to agricultural trade, food security and climate resilience in the BIMSTEC region.
-
-...
-
-[Data](articles/ee88f798.json)
-
-[Extended Data](ext_articles/ee88f798.ext.json)
-
----
-
-### Sri Lankan Ambassador in Warsaw virtually meets Polish author who wrote children’s book on Sri Lanka
-
-*2024-10-17 01:06:34* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-in-Warsaw-virtually-meets-Polish-author-who-wrote-children-s-book-on-Sri-Lanka/56-768070) · `en`
-
-A  virtual meeting was held recently between the Ambassador of Sri Lanka to Poland Priyangika Dharmasena and the author of the Polish children’s book “Good morning Sri Lanka! Mela Melulu in the bedazzling country” Kasia Szulik.
-
-The discussion was aimed to look into the possibility of reaching out to Polish travellers and families to visit Sri Lanka through the book, which portrays, the beauty and the uniqueness of the country through a narrative set in Sri Lanka. In the book, the imaginative adventures of a girl named “Mela Melulu” with her friends, journey,  through Sri Lanka, exploring the wonders of the country.
-
-Poland is in the top 12 source countries for visitors to Sri Lanka and the country is anticipating over 35,000 tourists from Poland by the end of this year.
-
-◼️
-
-[Data](articles/97a7c2d1.json)
-
-[Extended Data](ext_articles/97a7c2d1.ext.json)
-
----
-
-### Sri Lankan Ambassador to Saudi Arabia calls on Saudi Deputy Minister of Interior
-
-*2024-10-17 01:05:39* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-to-Saudi-Arabia-calls-onSaudi-Deputy-Minister-of-Interior/56-768069) · `en`
-
-Kingdom of Saudi Arabia Deputy Minister of Interior Dr. Nasser bin Abdulaziz Al-Dawood received Sri Lankan Ambassador to Saudi Arabia Omar Lebbe Ameer Ajwad at the Headquarters of the Ministry of Interior in Riyadh, on 8 October 2024.
-
-Extending a warm welcome to the Ambassador, the Deputy Minister wished him a fruitful stay in the Kingdom. He also expressed his appreciation for the cooperation and contribution extended by the Sri Lankan community living in Saudi Arabia to maintain peace and prosperity in the Kingdom, and assured his support to further enhance bilateral cooperation between the two countries.
-
-...
-
-[Data](articles/d6033073.json)
-
-[Extended Data](ext_articles/d6033073.ext.json)
-
----
-
-### Embassy of Sri Lanka in Jordan launches new official website
-
-*2024-10-17 01:00:56* · [`dailyftlk`](https://www.ft.lk/news/Embassy-of-Sri-Lanka-in-Jordan-launches-new-official-website/56-768068) · `en`
-
-The Embassy of Sri Lanka in Jordan launched its new official website, marking an important milestone in the Embassy’s activities.
-
-The new website, launched on 14 October 2024, will enable the Embassy to acquire more visibility and improve its information flow.
-
-It intends to provide the Embassy stakeholders and the public with a user-friendly interface to browse the Embassy’s services and functions as well as information about Sri Lanka tourism, trade, and investment opportunities.
-
-The new website provides access to “Consular and Visa services”; “Labour Welfare”; “Economy- Trade, Investment, and Tourism”; “News/Media releases”; “Tender notices”; information about Sri Lanka, the Embassy, and bilateral relations, and it also facilitates individuals to register with the Embassy.
-
-Amongst other features, the site contains integrated social media buttons linking the Embassy’s official Facebook page, YouTube channel, and X pages to foster communication with the public.
-
-...
-
-[Data](articles/7add2597.json)
-
-[Extended Data](ext_articles/7add2597.ext.json)
-
----
-
-### Sri Lankan Embassy in Romania celebrates diversity at 2024 Asia Cultural Festival
-
-*2024-10-17 00:59:58* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Embassy-in-Romania-celebrates-diversity-at-2024-Asia-Cultural-Festival/56-768067) · `en`
-
-The Sri Lankan Embassy in Romania participated in the second edition of the Asia Cultural Festival, 2024, themed “Celebrating Asian Diversity.” Held at the esteemed “Dimitrie Gusti” National Village Museum, the festival was organised by the Asia Group of Embassies in Bucharest and highlighted the rich cultural heritage of Asian nations.
-
-This vibrant festival served as a platform for participants to showcase their unique cultures and foster a sense of togetherness among visitors. Attendees were invited to immerse themselves in a variety of cultural experiences, from traditional music and dance performances to exquisite culinary delights that tantalised their taste buds. The event was a true celebration of the richness of Asian cultures, promoting understanding and appreciation among diverse communities.
-
-...
-
-[Data](articles/d4745102.json)
-
-[Extended Data](ext_articles/d4745102.ext.json)
-
----
-
-### Lankan envoy in Belgium meets with VIVES University students prior to their visit to Sri Lanka
-
-*2024-10-17 00:57:01* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Belgium-meets-with-VIVES-University-students-prior-to-their-visit-to-Sri-Lanka/56-768066) · `en`
-
-Sri Lankan Ambassador to Belgium Chandana Weerasena briefed a group of 23 final-year university students of the Tourism and Recreation Management Program of the VIVES University in Bruges, Belgium, prior to their departure to Sri Lanka for a field trip.
-
-The field trip is a part of their study program. West-Flanders region in Belgium Governor Carl Decaluwe, Bruges Mayor Dirk De Fauw; the Rector and several other senior staff members joined the briefing.
-
-The Ambassador and other distinguished guests also witnessed the culinary talents of the international students at the Flanders Culinary Arts Centre of VIVES University. The Embassy and the VIVES University are working towards organising a Sri Lankan culinary session at the Flanders Culinary Arts Centre of the University.
-
-...
-
-[Data](articles/1594be9e.json)
-
-[Extended Data](ext_articles/1594be9e.ext.json)
-
----
-
-### Sri Lankan Ambassador meets Bahrain’s Minister of Information
-
-*2024-10-17 00:53:47* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-meetsBahrain-s-Minister-of-Information/56-768065) · `en`
-
-Sri Lankan Ambassador to the Kingdom of Bahrain H.M.G.R.R.K. Wijeratne Mendis paid a courtesy call on Kingdom of Bahrain Minister of Information Dr. Ramzan bin Abdullah Al Nuaimi with a view to further enhancing the strong ties between the two countries.
-
-During the meeting, Minister Al Nuaimi expressed his appreciation for the flourishing relations between Bahrain and Sri Lanka, emphasising the mutual commitment to expanding bilateral cooperation in various sectors of common interest. He extended his best wishes to Ambassador Wijeratne Mendis in her diplomatic role and expressed confidence in her efforts to contribute significantly to strengthening the partnership between the two countries.
-
-...
-
-[Data](articles/52e92e1e.json)
-
-[Extended Data](ext_articles/52e92e1e.ext.json)
-
----
-
-### Why, despite my best efforts, I cannot be happy for the NPP win
-
-*2024-10-17 00:39:06* · [`dailyftlk`](https://www.ft.lk/opinion/Why-despite-my-best-efforts-I-cannot-be-happy-for-the-NPP-win/14-768064) · `en`
-
-Federalism or devolution of power isn’t just for the north and east of Sri Lanka but for ALL of Sri Lanka to be governed in a sensibly decentralised, efficient and representative manner. It is this conversation that we need to revive and rebuild in Sri Lanka today if we are to undo this fundamental flaw that makes it so this country cannot be equally claimed by all its citizens and the minorities remain second class citizens
-
-...
-
-[Data](articles/47343ec0.json)
-
-[Extended Data](ext_articles/47343ec0.ext.json)
 
 ---

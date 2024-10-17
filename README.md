@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 17:23:34**
+As of **2024-10-17 17:40:15**
 
 ## Newspaper Stats
 
-*Scraped **50,000** Articles*
+*Scraped **50,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,062
 dailyftlk | 3,406
 adalk | 4,651
 dailymirrorlk | 4,733
-adaderanalk | 5,922
+adaderanalk | 5,923
 tamilmirrorlk | 6,840
 virakesarilk | 7,998
 adaderanasinhalalk | 8,662
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,000 (100.0%) of 50,000 articles have been extended.
+50,001 (100.0%) of 50,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Bangladesh crimes tribunal issues arrest warrant for exiled former prime minister
+
+*2024-10-17 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102763/bangladesh-crimes-tribunal-issues-arrest-warrant-for-exiled-former-prime-minister) · `en`
+
+Bangladesh’s International Crimes Tribunal on Thursday issued an arrest warrant for former Prime Minister Sheikh Hasina, citing her alleged involvement in mass killings during violent protests that erupted earlier this year.
+
+The protests, which began as a student-led movement against public sector job quotas, escalated into some of the deadliest unrest since the country’s independence in 1971, resulting in over 700 deaths and numerous injuries.
+
+The violence ultimately forced Hasina to flee to India on Aug. 5 and an interim government led by Nobel Peace Prize laureate Muhammad Yunus took charge.
+
+The tribunal’s proceedings, presided over by Justice Golam Mortuza Majumdar, saw prosecutors request arrest warrants for 50 individuals, including Hasina.
+
+“I appealed to the court that if the accused, who are extremely influential, are not arrested, it will be impossible to conduct the investigation,” chief prosecutor Mohammad Tajul Islam said.
+
+...
+
+[Data](articles/57fe2f4f.json)
+
+[Extended Data](ext_articles/57fe2f4f.ext.json)
+
+---
 
 ### The new government offers concessions to farmers and fishermen without talking about the people of the hill country - Jeevan
 
@@ -2323,21 +2345,5 @@ This hope is most prevalent in the Energy Sector, which has remained in the clut
 [Data](articles/1975f003.json)
 
 [Extended Data](ext_articles/1975f003.ext.json)
-
----
-
-### The Sri Lankan woman: Is she empowered?
-
-*2024-10-16 22:18:59* · [`dailyftlk`](https://www.ft.lk/columns/The-Sri-Lankan-woman-Is-she-empowered/4-768055) · `en`
-
-When women are empowered, they become active contributors to the economy, driving growth and creating opportunities for all
-
-Women empowerment is defined as “raising the status of women through education, awareness, literacy, equal status in society, better livelihood, and also accepting women’s viewpoints as well”, and it has become a significant aspect of the socio-economic development of a country. Women empowerment is categorised into 5 main pillars, namely, social, educational, economic, political, and psychological pillars. If you look at some statistics Sri Lanka’s gender distribution is 52% females and 47% males in 2022 (Central Bank of Sri Lanka). The rural female labour force is 32.6% while the female urban labour force is 29.3%. Of the labour force, 6.5% of females are categorised as unemployed in the same year. Out of the total number of persons who migrated for foreign employment, 40% are females of whom 23.8% have migrated as housemaids.
-
-...
-
-[Data](articles/f13303a3.json)
-
-[Extended Data](ext_articles/f13303a3.ext.json)
 
 ---

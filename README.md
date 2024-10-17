@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 10:24:59**
+As of **2024-10-17 10:57:55**
 
 ## Newspaper Stats
 
-*Scraped **49,949** Articles*
+*Scraped **49,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 4,646
 dailymirrorlk | 4,733
 adaderanalk | 5,913
 tamilmirrorlk | 6,832
-virakesarilk | 7,983
+virakesarilk | 7,984
 adaderanasinhalalk | 8,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,949 (100.0%) of 49,949 articles have been extended.
+49,950 (100.0%) of 49,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Senthil Thondaman launched election campaign in Nuwara Eliya!
+
+*2024-10-17 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196481) · `ta`
+
+Senthil Thondaman launches election campaign in Nuwara Eliya. CWC contests under Elephant symbol. Jeevan Thondaman, Rameswaran, Sakthivel involved. Vote collection underway for general election.
+
+🟩
+
+CWC leader Senthil Thondaman has begun the process of collecting votes for the general election.
+
+This time, the Sri Lanka Workers Congress (Ceylon Workers Congress) is contesting the Elephant symbol in Nuwara Eliya district, the General Secretary of the Ceylon Workers Congress, Jeevan Thondaman, Chairman Rameswaran and National Organizer Sakthivel.
+
+◼️
+
+[Data](articles/f31430a4.json)
+
+[Extended Data](ext_articles/f31430a4.ext.json)
+
+---
 
 ### Five sick students hospitalized following HPV vaccine
 
@@ -133,6 +153,10 @@ In addition, the death of his body was carried out by Sudden Death Investigation
 ### Left shore water supply drainage of Kilinochchi
 
 *2024-10-17 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196476) · `ta`
+
+Kilinochchi Iranamadukulam left shore water supply drainage renovation underway at 35 million rupees. Work aims to improve water supply in Duluzu area, unaffected by nearby projects. Expected completion within two weeks.
+
+🟩
 
 The left shore of the Kilinochchi Iranamadukulam is being carried out at a cost of 35 million rupees.
 
@@ -2313,27 +2337,5 @@ Mashreq, was the mandated lead arranger and book runner. Initially launched targ
 [Data](articles/308d86da.json)
 
 [Extended Data](ext_articles/308d86da.ext.json)
-
----
-
-### Sri Lanka’s Sampath Bank helps finance State Bank of India $750mn loan
-
-*2024-10-16 16:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-sampath-bank-helps-finance-state-bank-of-india-750mn-loan-183891/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Sampath Bank said it has joined a 750 million dollar, syndicated loan for the State Bank of India, helping finance one of the largest banks in the region.
-
-Mashreq, was the mandated lead arranger and book runner. Initially launched targeting at 350 million dollars in May 2024, the facility was upsized to 750 million dollars due to strong global interest, Sampath Bank said.
-
-“Our involvement in this syndicated loan aligns with our strategic objectives to enhance our investment portfolio while securing strong returns,” Amal Kirihene, Senior Deputy General Manager, Corporate Banking at Sampath Bank said in a statement.
-
-“Given the current political climate and our expectations of credit growth, this three-year loan offers a promising opportunity for us to lend to a highly reputable institution like SBI.
-
-“Our prior experiences with long-term financing in other regions have equipped us to navigate this commitment with confidence.”
-
-...
-
-[Data](articles/92201899.json)
-
-[Extended Data](ext_articles/92201899.ext.json)
 
 ---

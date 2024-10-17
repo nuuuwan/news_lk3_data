@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 17:08:37**
+As of **2024-10-17 17:23:34**
 
 ## Newspaper Stats
 
-*Scraped **49,997** Articles*
+*Scraped **50,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,24 +17,102 @@ economynextcom | 3,062
 dailyftlk | 3,406
 adalk | 4,651
 dailymirrorlk | 4,733
-adaderanalk | 5,921
+adaderanalk | 5,922
 tamilmirrorlk | 6,840
-virakesarilk | 7,997
-adaderanasinhalalk | 8,661
+virakesarilk | 7,998
+adaderanasinhalalk | 8,662
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,994 (100.0%) of 49,997 articles have been extended.
+50,000 (100.0%) of 50,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
 
+### The new government offers concessions to farmers and fishermen without talking about the people of the hill country - Jeevan
+
+*2024-10-17 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196510) · `ta`
+
+Here's a 200-character summary of the text:
+
+
+
+New government offers concessions to farmers and fishermen, ignoring hill country residents. Jeevan Thondaman criticizes lack of support for mountain communities during economic crisis. He emphasizes his service record and calls for Tamil representation protection in Nuwara Eliya district.
+
+🟩
+
+Jeevan Thondaman, general secretary of the Ceylon Workers Congress and Nuwara Eliya district candidate, said that the new government is offering concessions to farmers and fishermen without talking about the people of the hill country.
+
+He was speaking at the election campaign meeting held at the Holyirud area in Talawakelle on Thursday (17).
+
+விமர்சனங்கள் பல இருந்தாலும் நான்கு வருடகாலமாக மக்களுக்காக நாடாளுமன்றத்தில் குரல் கொடுத்தேன். அதேபோல் மக்களின் பிரச்சினைகளுக்குக் களத்தில் இறங்கி நான் குரல் கொடுத்திருக்கின்றேன்.
+
+I ran away from anywhere. Even when the country reached bankrupt, we have received two salary hikes in the hill country. As said in 2020, we paid a salary of 1000 rupees.
+
+2024ஆம் ஆண்டு சம்பள நிர்ணய சபை ஊடாக 1350 ரூபாய் சம்பளத்தை பெற்றுக் கொடுத்தோம். இது கூட்டு ஒப்பந்தத்தினூடாக அல்ல. சம்பள நிர்ணய சபையில் தொழிலாளர்களுக்கு 1350 ரூபாய் சம்பளம் கொடுக்கக் கூடாது என தற்போதைய ஜனாதிபதியின் தொழிற்சங்கமே எமக்கு எதிராக வாக்களித்தார்கள்.
+
+...
+
+[Data](articles/04448e03.json)
+
+[Extended Data](ext_articles/04448e03.ext.json)
+
+---
+
+### Warrants to arrest Bangladesh former Shaikina
+
+*2024-10-17 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202275) · `si`
+
+Bangladesh issues arrest warrants for ex-PM Sheikh Hasina. Local court orders her appearance Nov 18. 45 officials from Awami League also targeted. Charges relate to alleged crimes in July-August.
+
+🟩
+
+Warrants have been issued to the arrest of former Prime Minister Sheikh Haseani in Bangladesh.
+
+Foreign media reports that the warrant has been issued by a local court against her in July and August, with the crimes that Bangladesh was committed during the July and August.
+
+45 persons including the Chief Secretary of the Awami League and the other leaders of Haseanage have been issued warrants.
+
+According to foreign media reports, the panel of judges have been ordered to be produced before Sheikh Haseana court on November 18.
+
+◼️
+
+[Data](articles/68bf4075.json)
+
+[Extended Data](ext_articles/68bf4075.ext.json)
+
+---
+
+### Elpitiya PS Election: Voter’s thumb to be marked instead of little finger
+
+*2024-10-17 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102762/elpitiya-ps-election-voters-thumb-to-be-marked-instead-of-little-finger) · `en`
+
+The Election Commission has announced a key measure for the upcoming Elpitiya Pradeshiya Sabha election scheduled for October 26, 2024.
+
+In accordance with Section 53a(3) of the Local Government Elections Ordinance (262nd Authority), voters will have their left thumb marked with an appropriate sign to prevent double voting and ensure transparency, the election regulatory body said today (17).
+
+This decision comes in light of concerns about possible confusion during the polling process for the Presidential Election 2024, which took place recently.
+
+Meanwhile, if a voter’s left thumb is unavailable, the mark will be applied to the thumb of the right hand, or if necessary, another finger, as suitable, according to the Election Commission.
+
+◼️
+
+[Data](articles/0cb2d206.json)
+
+[Extended Data](ext_articles/0cb2d206.ext.json)
+
+---
+
 ### ඌරන් අතර හඳුනා නොගත් මාරාන්තික වෛරසයක්
 
 *2024-10-17 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202274) · `si`
+
+Unidentified Marantic Virus Affects Pigs Multiple Districts Sri Lanka
+
+🟩
 
 අනුරාධපුර දිස්ත්‍රික්කය ඇතුළු දිවයිනේ ප්‍රදේශ රැසක ඌරන් මෙම හඳුනා නොගත්  වයිරස රෝගයට ගොදුරු ව තිබේ.
 
@@ -55,6 +133,14 @@ Extensions include translations and NER (Named Entity Recognition).
 ### A crucial struggle in Women's World Cup today
 
 *2024-10-17 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202273) · `si`
+
+Here's a 200-character summary:
+
+
+
+Australia vs South Africa in Women's World Cup final. Match in Dubai at 7:30 PM. Australia won all 4 group stage matches. South Africa lost one game but finished second in group. This is Australia's third Women's T20 World Cup victory.
+
+🟩
 
 Australia and South Africa will be held between Australia and South Africa.
 
@@ -85,6 +171,10 @@ However, if the match is defeated by Australia, it will be the first Twenty20 Wo
 ### வவுனியாவில் தேசிய மக்கள் சக்தி உறுப்பினர்களிடையே கலந்துரையாடல்!
 
 *2024-10-17 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/196512) · `ta`
+
+National People's Power meeting in Vavuniya. Discussion among party members. Election campaign strategies explained. Key speakers include Bimal Rathnakaya and other Vanni district candidates.
+
+🟩
 
 தேசிய மக்கள் சக்தியின் வவுனியா மாவட்ட உறுப்பினர்களுக்கு இடையிலான கலந்துரையாடல் வவுனியா தனியார் விருந்தினர் விடுதியொன்றில் இன்று வியாழக்கிழமை (17) நடைபெற்றது.
 
@@ -125,6 +215,14 @@ The parties must submit expenditure reports to the Elections Commission within 2
 ### நாட்டின் பொருளாதார நெருக்கடிக்கு தீர்வு காண்பதற்கு நாடாளுமன்றத்தில் அனுபவசாலிகள் அவசியம் - விசேட அறிக்கையில் ரணில்
 
 *2024-10-17 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196503) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former President Ranil Wickremesinghe emphasizes experienced individuals' necessity in Parliament to address economic challenges. He calls for unity among political parties to form a new party for future elections, citing his own experience as an example.
+
+🟩
 
 நாட்டின் பொருளாதார பிரச்சினைக்கு தீர்வு காண்பதற்கும் முன்னோக்கி நகர்வதற்கும் தன்னுடன் இணைந்து செயற்பட்ட அனுபவசாலிகள் நாடாளுமன்றத்திற்கு செல்வது அவசியம் என முன்னாள் ஜனாதிபதி ரணில்விக்கிரமசிங்க நாட்டு மக்களுக்கான விசேட அறிக்கையில் தெரிவித்துள்ளார்.
 
@@ -260,6 +358,10 @@ The suspect and the consignment of drugs have been handed over to the Police Nar
 
 *2024-10-17 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196507) · `ta`
 
+Actor Amal Dev's upcoming film "Chinese Number 62" release date announcement
+
+🟩
+
 நடிகர் அமல் தேவ் முதன்மையான வேடத்தில் நடித்திருக்கும் 'சீன் நம்பர் 62' எனும் திரைப்படத்தின் வெளியீட்டு திகதி பிரத்யேகப் புகைப்படத்துடன் அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
 
 இயக்குநர் ஆடம் ஜாஃபர் இயக்கத்தில் உருவாகி இருக்கும் 'சீன் நம்பர் 62' எனும் திரைப்படத்தில் அமல் தேவ், கோகிலா கோபால், ஆர் ஜே வைத்தி, ஜாய்ஸ் எலிசபெத், ரகந்த் கதிரவன், ஐஸ்வர்யா நந்தன், ராஜ் பால், வசந்த் பெஞ்சமின், சைமோன், பார்வதி, மனிஷா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
@@ -284,6 +386,14 @@ It has been announced that the film will be released at the filmmaker on the 25t
 
 *2024-10-17 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196508) · `ta`
 
+Here's a 200-character summary:
+
+
+
+"4th Int'l Conf on Science & Tech (ICST2024) held at Eastern University. Keynote speakers: Dilanthi Amaratunga (Huddersfield Uni), Chaklam Silpasuwanchai (Asian Inst of Tech). 52 papers presented out of 81 submissions. Organized by Faculty of Technology, Eastern University."
+
+🟩
+
 இலங்கை தென்கிழக்கு பல்கலைக்கழகத்தில் விஞ்ஞானம் மற்றும் தொழில்நுட்பம் தொடர்பான 4வது சர்வதேச ஆய்வு மாநாடு(4th International Conference on Science and Technology - ICST2024)  தொழில்நுட்பவியல் பீட பிரதான கேட்போர் கூடத்தில் 2024.10.16 ஆம் திகதி மாநாட்டின் தலைவரும் பதில் உபவேந்தரும் பீடாதிபதியுமான கலாநிதி யூ.எல். அப்துல் மஜீத் தலைமையில் இடம்பெற்றது.
 
 ஆய்வு மாநாட்டை தென்கிழக்கு பல்கலைக்கழக  தொழினுட்பவியல் பீடம் (Faculty of Technology) ஏற்பாடு செய்திருந்தது. Along with this, the Slaas (Eastern Chapter) was united.
@@ -298,35 +408,53 @@ Dr. Munib M.. முஸ்தபாவின் வழிகாட்டலி�
 
 ---
 
-### சிவகார்த்திகேயன் நடிக்கும் 'அமரன்' படத்தின் இரண்டாவது பாடல் வெளியீடு
+### Sivakarthikeyan starring 'Amaran' is the second song release
 
 *2024-10-17 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/196506) · `ta`
 
-தமிழின் முன்னணி நட்சத்திர நடிகரான சிவகார்த்திகேயன் நடிப்பில் தயாராகி இருக்கும் 'அமரன்' எனும் திரைப்படத்தில் இடம்பெற்ற 'வெண்ணிலவு சாரல் நீ' எனத் தொடங்கும் இரண்டாவது பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+Sivakarthikeyan's 'Amaran' second song "Vanillavu Saral Nee" released. Directed by Rajkumar Periyasamy, featuring Sai Pallavi, Rahul Bose. Music by V. Prakash Kumar. Produced by Rajkamal Films International and Sony Pictures Films India. Song written by Yukabarathi, sung by Rakshita Suresh. Music release event in Chennai tomorrow with Silambarasan as special guest.
 
-இயக்குநர் ராஜ்குமார் பெரியசாமி இயக்கத்தில் உருவாகி இருக்கும் 'அமரன்' எனும் திரைப்படத்தில் சிவகார்த்திகேயன், சாய் பல்லவி, ராகுல் போஸ், புவன் அரோரா, ஸ்ரீ குமார் , ஷியாம் மோகன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-சி. ஹெச். சாய் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார்.
+The second song and the song, which starts with 'Vanillavu Saral Nee', which is featured in 'Amaran' starring Sivakarthikeyan, the leading star actor, has been released.
 
-தேசப்பற்று மிக்க ராணுவ வீரரின் வாழ்க்கை வரலாற்றை தழுவி எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ராஜ்கமல் பிலிம்ஸ் இன்டர்நேஷனல் மற்றும் சோனி பிக்சர்ஸ் ஃபிலிம்ஸ் இந்தியா ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+Directed by director Rajkumar Periyasamy, Sivakarthikeyan, Sai Pallavi, Rahul Bose, Bhuvan Arora, Sri Kumar, Shyam Mohan are many others.
+
+சி. H. Sai is a video of the film.. V.. Prakash Kumar has composed the music.
+
+The film is being produced by Rajkamal Films International and Sony Pictures Films India to embrace the biography of a patriotic soldier.
+
+The second song and a relic video for the song will be released on Diwali on the 31st of this month.
+
+The song is written by songwriter Yukabarathi, background singer Kapil Kapilan and playback singer Rakshita Suresh.
+
+'இசை அசுரன்' ஜீ வி பிரகாஷ் குமாரின் வசீகரிக்கும் மெல்லிசை மெட்டுகளில் யுக பாரதி ,கபில் கபிலன், ரக்ஷிதா சுரேஷ் ஆகியோர் இணைந்து நிகழ்த்திய மாயாஜாலத்தால் இப்பாடல் அனைத்து தரப்பு ரசிகர்களையும் வெகுவாக கவர்ந்திருக்கிறது.
 
 ...
 
 [Data](articles/1ede517b.json)
 
+[Extended Data](ext_articles/1ede517b.ext.json)
+
 ---
 
-### கிராண்ட்பாஸ் துப்பாக்கி  சூட்டு சம்பவத்துக்கு பயன்படுத்தப்பட்ட கார் கண்டுபிடிப்பு !
+### Car discovery used for the Grandpass shooting incident!
 
 *2024-10-17 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196498) · `ta`
 
-கொழும்பு, கிராண்ட்பாஸ் பிரதேசத்தில் நேற்று (16) மாலை இடம்பெற்ற துப்பாக்கி  சூட்டு சம்பவத்துக்கு பயன்படுத்தப்பட்டதாக கூறப்படும் கார் ஒன்று ஹங்வெல்ல அம்புல்கம பிரதேசத்தில் வைத்து இன்று (17) அதிகாலை கண்டுபிடிக்கப்பட்டுள்ளதாக ஹங்வெல்ல பொலிஸார் தெரிவித்தனர்.
+Car linked to Grandpass shooting found in Hangwella. Unidentified persons fired at a motorcyclist in Colombo yesterday. Vehicle discovered today in Hangwella Ambulgama area.
 
-கொழும்பு கிராண்ட்பாஸ் பிரதேசத்திற்கு நேற்றைய தினம் மாலை நான்கு மணியளவில் காரில் சென்ற இனங்காணப்படாத நபர்கள் சிலர் முச்சக்கரவண்டியில் இருந்த நபர் ஒருவர் மீது துப்பாக்கி சூட்டை நடத்தி அங்கிருந்து தப்பிச் சென்றிருந்தனர்.
+🟩
+
+A car that allegedly used for a shooting incident in Grandpass area in Colombo yesterday evening has been found in Hangwella Ambulgama area this morning, Hangwella police said.
+
+Some unidentified persons who were traveling in the car at the Grandpass area of ​​Colombo yesterday fired at a man in the three -wheeler.
 
 ◼️
 
 [Data](articles/86b36515.json)
+
+[Extended Data](ext_articles/86b36515.ext.json)
 
 ---
 
@@ -374,17 +502,29 @@ Further, he urged the President to intervene, stating, “If you are committed t
 
 *2024-10-17 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196502) · `ta`
 
-இலங்கை பட்டயக்கணக்காளர் சங்கத்தின் வருடாந்த பொதுக்கூட்டத்தின் ஒருபகுதியாக இடம்பெற்ற நிகழ்வில் மூன்று முன்னாள் ஜனாதிபதிகள் கலந்து கொண்டு இலங்கையின் தற்போதைய அரசியல் சூழல் மற்றும் ஊழல் குறித்து தமது அனுபவங்களை பகிர்ந்துகொண்டுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-நாட்டின் தற்போதைய அரசியல் சூழ்நிலை குறித்த தமது எண்ணங்களை பகிர்ந்துகொண்டுள்ள முன்னாள் ஜனாதிபதிகளான ரணில் விக்கிரமசிங்க மைத்திரிபால சிறிசேன சந்திரிகா குமாரதுங்க ஆகியோர்  இந்த நிகழ்வில் கலந்துகொண்டுள்ளனர்.
 
-நாட்டின் தற்போதைய அரசியல் சூழ்நிலை குறித்து கருத்து தெரிவித்த முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன  அரசாங்கத்தின் அனைத்து மட்டங்களிலும் நேர்மை காணப்படவேண்டியதன் அவசியத்தை வலியுறுத்தியுள்ளார்.
 
-நாடு ஒன்றின் தலைவர் ஆட்சியாளர் சிறந்தவராகயிருப்பதால் மாத்திரம் நாடு முன்னேற முடியாது, பிரதமரும் அமைச்சரவையும் சிறப்பானதாக காணப்படவேண்டும்.ஊழல் மோசடிகளிற்கு இடமளிக்க கூடாது.கடந்த 74 வருடங்களாக நாட்டில் காணப்படும் ஊழலிற்கு அரசியல்வாதிகளே காரணம் என சிலர் தெரிவிப்பதை நான் ஏற்றுக்கொள்ள மாட்டேன்,நான் இதனை முற்றாக நிராகரிக்கின்றேன்.
+"Three former Sri Lankan presidents spoke at an event about the country's political situation and corruption. They emphasized the need for honesty in governance and criticized blaming politicians for decades-long corruption."
 
-...
+🟩
+
+Three former presidents have participated in the event, which was part of the Annual General Meeting of the Sri Lanka Characteristics Association and shared their experiences on the current political environment and corruption of Sri Lanka.
+
+Former presidents Ranil Wickremesinghe Maithripala Sirisena Chandrika Kumaratunga, who shared their thoughts on the current political situation in the country.
+
+Commenting on the current political situation in the country, former President Maithripala Sirisena emphasized the need for honesty at all levels of the government.
+
+The country's ruler is not the best, but the Prime Minister and the Cabinet should not be better off. I do not accept some claiming that politicians are responsible for the corruption in the country for the past 74 years.
+
+Training should be provided to politicians from the beginning.
+
+◼️
 
 [Data](articles/9e997dc9.json)
+
+[Extended Data](ext_articles/9e997dc9.ext.json)
 
 ---
 
@@ -2199,77 +2339,5 @@ Women empowerment is defined as “raising the status of women through education
 [Data](articles/f13303a3.json)
 
 [Extended Data](ext_articles/f13303a3.ext.json)
-
----
-
-### Govt. must hold domestic investigations on war crimes, prosecute offenders, clear name of armed forces
-
-*2024-10-16 22:07:36* · [`dailyftlk`](https://www.ft.lk/columns/Govt-must-hold-domestic-investigations-on-war-crimes-prosecute-offenders-clear-name-of-armed-forces/4-768054) · `en`
-
-The Government must change course in the UNHRC on war crimes issues. A local investigation of allegations does not mean admission of war crimes
-
-The Anura Kumara Dissanayake led people’s Government and the country’s armed forces must consider seriously the advice given by President’s Counsel Anura Meddegoda, in a media interview published in an English daily (the Daily Mirror) on Friday 11 October, urging that Sri Lanka must investigate through domestic mechanism the war crimes allegedly committed during the war on the LTTE.
-
-Meddegoda had said, “If war crimes aren’t investigated (here), even political leaders might face travel restrictions.” In my view, not only political leaders but also investigators, prosecutors and even judges and their families, who fail to uphold human right laws may get exposed not only for international travel restrictions but also for other forms of legal harassments.
-
-...
-
-[Data](articles/154c17ad.json)
-
-[Extended Data](ext_articles/154c17ad.ext.json)
-
----
-
-### Streamlined road development essential for advancing rural economic growth – President
-
-*2024-10-16 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102745/streamlined-road-development-essential-for-advancing-rural-economic-growth-president) · `en`
-
-President Anura Kumara Dissanayake emphasized that enhancing the efficiency of road development projects is crucial for achieving rural economic development goals, the President’s Media Division (PMD) reported.
-
-He highlighted the need to streamline the procurement process for these projects, ensuring that local communities benefit rather than allowing contracts to concentrate in the hands of a few.
-
-The President made these remarks during a progress review meeting for the Ministry of Transport, Highways, Ports, and Civil Aviation held today (16) at the Presidential Secretariat, the PMD said.
-
-The meeting extensively covered various projects under the ministry, with a particular focus on the construction of the Kadawata-Mirigama section of the Central Expressway.
-
-He underscored the importance of developing ports, airports, and highways for the economic growth of the country, asserting that careful planning of these projects could significantly uplift the national economy.
-
-...
-
-[Data](articles/4c1f6ff1.json)
-
-[Extended Data](ext_articles/4c1f6ff1.ext.json)
-
----
-
-### President instructs of construction of Central Expressway
-
-*2024-10-16 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202253) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake emphasizes rural economic development through formalized procurement processes for road projects. He focuses on constructing the Central Expressway and implementing railway projects. The president aims to create a long-term national plan to boost Sri Lanka's agricultural industry and eliminate rural poverty.
-
-🟩
-
-President Anura Kumara Dissanayake says that the formal and efficient to achieve rural economic development goals.
-
-The President also pointed out that the procurement process should be formalized in the implementation of rural road development projects and the benefits of the local and rural people are the importance of the project.
-
-President Anura Kumara Dissanayake made these comments at the progress review meeting of the Ministry of Highways, Ports and Civil Aviation at the Presidential Secretariat today (16).
-
-The Central Expressway has also focused on the construction of the Central Expressway at the construction of the Mirigama section.
-
-President Anura Kumara Dissanayake has also informed the officials to implement the immediate implementation of the Railways Project Railways and the public.
-
-Meanwhile, President Anura Kumara Dissanayake said that a long-term national plan should be implemented to bring agricultural industrial in Sri Lanka to organize agriculture in Sri Lanka.
-
-...
-
-[Data](articles/c07f8569.json)
-
-[Extended Data](ext_articles/c07f8569.ext.json)
 
 ---

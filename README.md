@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 23:59:18**
+As of **2024-10-18 00:13:09**
 
 ## Newspaper Stats
 
-*Scraped **50,043** Articles*
+*Scraped **50,047** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,46 @@ adalk | 4,655
 dailymirrorlk | 4,733
 adaderanalk | 5,928
 tamilmirrorlk | 6,843
-virakesarilk | 8,013
-adaderanasinhalalk | 8,672
+virakesarilk | 8,016
+adaderanasinhalalk | 8,673
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,043 (100.0%) of 50,043 articles have been extended.
+50,047 (100.0%) of 50,047 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
 
-### Pain. President attention on northern lands- Ramalingam Chandrasekhar
+### The purpose is to do business with us - ex -combatants
 
-*2024-10-17 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196538) · `ta`
+*2024-10-17 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/196540) · `ta`
 
-President focuses on releasing land in northern areas. Public meeting discusses military-owned land and resettlement. Ramalingam Chandrasekhar pledges to release land used by military in Northern Territory.
+Ex-combatants and disabled contesting in parliamentary election. Claim politicians use them for personal gain rather than addressing basic needs.
 
 🟩
 
-National People's Power Jaffna District Organizer Ramalingam Chandrasekhar says the President has already focused on the release of land in Vala North.
+The Independent Committee of the former militants and the disabled has said that the aim of politicians is to do business with us.
 
-A public meeting was held in Valikamam, Jaffna on Thursday (17) by public organizations.
+In the upcoming parliamentary election, the independent committee of ex -combatants and alternatives is contesting in the Arikan Imbu symbol.
 
-The meeting was discussed on the release of military -owned land and resettlement. During the time, many people had expressed their mental support and pains on the land and the resettlement of the National People's Power, Ramalingam Chandrasekhar.
+A media briefing was held in Vavuniya on Thursday (17). They said this while participating in the comment.
 
-Chandrasekhar said that the President has already focused on the release of land in the North.. He had discussed with the relevant authorities and asked for details.
-
-So he pledged to the assembled public organizations and people that the land in the use of the military in the Northern Territory would be released.
+There are many people who lost their lives in Vanni. They have difficulty with everyday food. None of these politicians find them as orphans. Their purpose is to do business with us. So directly the victim will understand those things. So we are standing in this election to meet our needs.
 
 ◼️
 
-[Data](articles/5d6b0619.json)
+[Data](articles/c2991900.json)
 
-[Extended Data](ext_articles/5d6b0619.ext.json)
+[Extended Data](ext_articles/c2991900.ext.json)
 
 ---
 
 ### Sri Lanka won the West Indies and won by 9 wickets (2 - 1) and made history
 
-*2024-10-17 23:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/196537) · `ta`
+*2024-10-17 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196537) · `ta`
 
 Sri Lanka wins West Indies T20 series 2-1, defeating opponents by 9 wickets. History-making victory after previous losses in 2016, 2020, and 2021. Key performances from Nissanka and Kusal Mendis.
 
@@ -91,6 +89,100 @@ Gusal Mendis did not play with 50 balls with 5 pounds and 3 sixes and 55 off 36 
 [Data](articles/2027046b.json)
 
 [Extended Data](ext_articles/2027046b.ext.json)
+
+---
+
+### South Africa has finally entered Australia with the current champion
+
+*2024-10-17 23:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196539) · `ta`
+
+South Africa qualifies for ICC Women's T20 World Cup final after defeating Australia in semi-finals.
+
+🟩
+
+South Africa qualified for the ICC Women's R20 World Cup final in the semi -finals of the Dubai International Cricket Stadium on Thursday night (17).
+
+South Africa lost to Australia on their home soil last year in the Women's T20 World Cup final, winning the United Arab Emirates by 8 wickets.
+
+South Africa won the target of 135 runs for Australia and won by 135 runs in 17.2 overs.
+
+South Africa's success played a key role in the accurate bowling of Ayabonga Kaka, the half -century and the best of Lora Wulward.
+
+Dasmin Britz lost 15 runs when South Africa was bowled out for reply. (25 - 1 wig.)
+
+However, Lorera Wulward Annx Bosh shared 96 runs off 65 balls in the 2nd wicket and helped her team to win.
+
+Lora Wulward lost 42 off 37 balls. (121 - 2 wig.)
+
+Onc Bosh and Glow Troon scored 14 runs that needed the victory.
+
+Annch Bash, who won the match in the match, did not lose 48 balls with 8 fours and 74 runs.. The Clow Troon got a run without losing the game.
+
+...
+
+[Data](articles/d83d453f.json)
+
+[Extended Data](ext_articles/d83d453f.ext.json)
+
+---
+
+### South Africa to fight World Cup final
+
+*2024-10-17 23:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202286) · `si`
+
+South Africa advances to World Cup final after defeating Australia in women's cricket. This is South Africa's second T20 Women's World Cup final appearance.
+
+🟩
+
+South African female women defeated by 8 wickets taken by the South African women's cricket team today (17).
+
+The first semi-final was held in Dubai as the first semi-final was held in Dubai.
+
+Batting first, Australia scored 134 runs for the loss of 5 wickets in the 20 overs.
+
+In reply, South Africa was able to pass the victorious target when only 2 wickets were bowled out for 17.2 overs.
+
+This is the first time that the South Africa defeated in the World Twenty20 Women's World Cup, Australia.
+
+South Africa and Australia are competing with one another since 2009, while today's competition was held with each other.
+
+When Australia won the 9 matches, South Africa won only one match.
+
+According to Australia, Australia is considered to be treated out of the women's World Cup this year as the first Twenty20 Women's World Cup.
+
+Australia won the world championship while in the history of Twenty20 Women Cup history.
+
+...
+
+[Data](articles/622975a3.json)
+
+[Extended Data](ext_articles/622975a3.ext.json)
+
+---
+
+### Pain. President attention on northern lands- Ramalingam Chandrasekhar
+
+*2024-10-17 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196538) · `ta`
+
+President focuses on releasing land in northern areas. Public meeting discusses military-owned land and resettlement. Ramalingam Chandrasekhar pledges to release land used by military in Northern Territory.
+
+🟩
+
+National People's Power Jaffna District Organizer Ramalingam Chandrasekhar says the President has already focused on the release of land in Vala North.
+
+A public meeting was held in Valikamam, Jaffna on Thursday (17) by public organizations.
+
+The meeting was discussed on the release of military -owned land and resettlement. During the time, many people had expressed their mental support and pains on the land and the resettlement of the National People's Power, Ramalingam Chandrasekhar.
+
+Chandrasekhar said that the President has already focused on the release of land in the North.. He had discussed with the relevant authorities and asked for details.
+
+So he pledged to the assembled public organizations and people that the land in the use of the military in the Northern Territory would be released.
+
+◼️
+
+[Data](articles/5d6b0619.json)
+
+[Extended Data](ext_articles/5d6b0619.ext.json)
 
 ---
 
@@ -955,6 +1047,36 @@ After further inquiries, steps are being taken to make the suspect in the Mallak
 [Data](articles/cc2eb63b.json)
 
 [Extended Data](ext_articles/cc2eb63b.ext.json)
+
+---
+
+### Reports on life -related Sunday attacks should be immediately revealed - Nimal Lansa
+
+*2024-10-17 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/196511) · `ta`
+
+Former MP Nimal Lansa calls for immediate release of Sunday attack reports, urging transparency without misleading the Catholic Church. He emphasizes the need for justice and accountability in these sensitive cases.
+
+🟩
+
+The Commission on Sunday attacks should be revealed to the country without deceiving the Catholic Church and the Catholic people.Former parliamentarian Nimal Lansa said that if there are any shortcomings or errors, they should be investigated immediately.
+
+He further stated at a press conference held in Negombo on Thursday (17).
+
+Life Sunday attack is the most emotional thing. Therefore, the Catholic Church and the Catholic people have demanded that justice be issued by issuing reports on those attacks.
+
+This is not the play. Catholic people believe in President Anura Kumara Dissanayake. So he must protect that belief.
+
+When Ranil Wickremesinghe took over the country, civil servants were unable to pay.
+
+But, after he took office, the salary of state employees was increased. The salary was increased during goodwill.
+
+Groups assigned wage conflicts. Ranil Wickremesinghe said the salaries of civil servants will be increased from next year as the economy has grown.
+
+...
+
+[Data](articles/a529c43e.json)
+
+[Extended Data](ext_articles/a529c43e.ext.json)
 
 ---
 
@@ -2377,101 +2499,5 @@ Additional Government Agent (Land), Planning Director, Chief Engineer, Accountan
 [Data](articles/29aba37e.json)
 
 [Extended Data](ext_articles/29aba37e.ext.json)
-
----
-
-### The struggle against the illegal Tissa Tissa Vihara
-
-*2024-10-17 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/196474) · `ta`
-
-Tamil National People's Front leads protests against illegal Tissa Vihara in Tittitti, demanding its removal.
-
-🟩
-
-Yall. A series of agitations are being carried out against the illegal Tissa Vihara located in Tittitti.
-
-The Tamil National People's Front, along with the people, is continuously engaged in a struggle demanding the removal of the illegal Taiti Tissa Vihara.
-
-◼️
-
-[Data](articles/7a41aa35.json)
-
-[Extended Data](ext_articles/7a41aa35.ext.json)
-
----
-
-### Sri Lanka’s Asia Asset Finance asset backed debentures get Fitch ‘A+(lka)’ rating
-
-*2024-10-17 09:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-asia-asset-finance-asset-backed-debentures-get-fitch-alka-rating-183970/) · `en`
-
-ECONOMYNEXT- Ratings agency Fitch has awarded Asia Asset Finance PLC’s (AAF, A+(lka)/Stable) outstanding Sri Lanka rupee-denominated secured (asset backed) debentures a National Long-Term Rating at ‘A+(lka)’.
-
-The debentures, which are listed on the Colombo Stock Exchange, will mature in 2026 and have a total outstanding face value of 565.25 million rupees as of 15 October.
-
-“The recovery prospects are assessed to be average and comparable to those of AAF’s unsecured debt under Sri Lanka’s developing legal system,” Fitch said.
-
-Fitch Rates Asia Asset Finance’s Outstanding Secured (Asset Backed) Debentures at ‘A+(lka)’
-
-...
-
-[Data](articles/659e3617.json)
-
-[Extended Data](ext_articles/659e3617.ext.json)
-
----
-
-### Person arrested for attempting to bribe police officer to permit drug dealing
-
-*2024-10-17 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102750/person-arrested-for-attempting-to-bribe-police-officer-to-permit-drug-dealing-) · `en`
-
-Mattakkuliya Police have arrested a 50-year-old man for attempting to offer a bribe to the Acting Officer-in-Charge (OIC) of the Mattakkuliya Police Station.
-
-The incident occurred yesterday (16) when the suspect made a phone call to the Acting OIC, requesting permission to engage in drug dealing within the police area.
-
-He had also offered to pay a monthly bribe of Rs. 100,000 in exchange for this opportunity.
-
-Accordingly, the Acting OIC reported this to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-Following this, the suspect was invited to the police station, where CIABOC officials arrested him as he attempted to hand over Rs. 50,000 as a bribe.
-
-◼️
-
-[Data](articles/bd911716.json)
-
-[Extended Data](ext_articles/bd911716.ext.json)
-
----
-
-### Global South Scholarly Priceship The conversation begins
-
-*2024-10-17 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202261) · `si`
-
-Here's a 200-character summary:
-
-
-
-Global South Scholarly Cluster: Beijing meeting promotes peace, development, security. 76 countries represented. Theme: Building a prosperous world together. Chinese Media Group facilitates dialogue between China and Global South nations.
-
-🟩
-
-The global southern scholarly cluster conversation was started in Beijing yesterday.
-
-නුදුරේදී ඇරඹෙන 2024 බ්‍රික්ස් රටවල නායක සමුළුව නිමිත්තෙන්, එය පැවැත්වෙයි.
-
-චීන කොමියුනිස්ට් පක්ෂයේ මධ්‍යම කාරක සභාවේ විදේශ සබඳතා දෙපාර්තමේන්තුවේ හා චීන මාධ්‍ය සමූහය එක්ව එය සංවිධාන කර තිබේ.
-
-"සාමය, සංවර්ධනය, ආරක්ෂාව සමග, පොදු ඉරණමක් සහිත සමෘද්ධිමත් ලෝකයක් එක්ව ගොඩනැගීම" එහි තේමාව ය.
-
-චීන කොමියුනිස්ට් පක්ෂයේ මධ්‍යම කාරක සභාවේ විදේශ සබඳතා දෙපාර්තමේන්තුවේ අමාත්‍ය Liu Jianchao මහතා, චීන කොමියුනිස්ට් පක්ෂයේ මධ්‍යම කාරක සභාවේ ප්‍රචාරක දෙපාර්තමේන්තුවේ උප ප්‍රධානී, චීන මාධ්‍ය සමූහයේ අධ්‍යක්ෂ ‍ජනරාල් Shen Haixiong මහතා, වීඩියෝ ඔස්සේ එහිදී දේශන සිදු කළහ.
-
-The government representatives, government representatives, scholar and media representatives of 76 countries were joined in online and non-online ways.
-
-Shene Haixiong pointed out that the Chinese Media Group is exchanged between China and the "global southern" countries, conversations.
-
-...
-
-[Data](articles/bf244b71.json)
-
-[Extended Data](ext_articles/bf244b71.ext.json)
 
 ---

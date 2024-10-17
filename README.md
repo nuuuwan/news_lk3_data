@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 06:44:38**
+As of **2024-10-17 07:26:38**
 
 ## Newspaper Stats
 
-*Scraped **49,902** Articles*
+*Scraped **49,917** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 401
+dbsjeyarajcom | 402
 colombotelegraphcom | 495
 bbccomsinhala | 500
-islandlk | 2,949
+islandlk | 2,962
 economynextcom | 3,060
 dailyftlk | 3,406
 adalk | 4,643
 dailymirrorlk | 4,733
 adaderanalk | 5,908
-tamilmirrorlk | 6,824
+tamilmirrorlk | 6,825
 virakesarilk | 7,979
 adaderanasinhalalk | 8,641
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,902 (100.0%) of 49,902 articles have been extended.
+49,905 (100.0%) of 49,917 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -229,6 +229,30 @@ This approach ensures that students are prepared for the challenges of the futur
 [Data](articles/96fca532.json)
 
 [Extended Data](ext_articles/96fca532.ext.json)
+
+---
+
+### Model Road Development leads to economic development
+
+*2024-10-17 01:11:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீதி-அபிவிருத்தி-பொருளாதார-விருத்திக்கு-வழிவகுக்கும்/175-345590) · `ta`
+
+Road development leads to economic growth. President emphasizes orderly planning and efficient implementation of projects to achieve rural economic goals. Prioritizes benefits for all citizens over individual contracts.
+
+🟩
+
+வீதி அபிவிருத்தி வேலைத்திட்டங்களை ஒழுங்குபடுத்தல் மற்றும் செயற்திறனுடன் முன்னெடுத்தல் என்பன கிராமிய பொருளாதார இலக்குகளை அடைந்துகொள்ள வழிவகுக்கும் என ஜனாதிபதி அநுரகுமார திஸநாயக்க தெரிவித்தார்.
+
+அதேபோல் கிராமிய அபிவிருத்தி செயற்பாடுகளை முன்னெடுக்கும்போது பெறுகைச் செயற்பாடுகள் ஒழுங்குமுறைக்கமைய முன்னெடுக்கப்பட வேண்டும் என்றும், ஒரு சிலருக்கு மாத்திரம் ஒப்பந்தங்கள் கிடைப்பதற்கு மாறாக பிரதேச மற்றும் கிராமிய மக்களுக்கு பலன்கள் கிடைக்கும் வகையில் மேற்படி வேலைத்திட்டங்களை தயாரிக்குமாறும் ஜனாதிபதி வலியுறுத்தினார்.
+
+ஜனாதிபதி செயலகத்தில் நேற்று நடைபெற்ற போக்குவரத்து பெருந்தெருக்கள், துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சின் முன்னேற்ற மீளாய்வுக் கலந்துரையாடலிலேயே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+The programs implemented by the Ministry of Transport, Ports and Civil Aviation Services have been extensively reviewed and the construction of the Mirigama -Kadawatha area of ​​the Central Expressway.
+
+...
+
+[Data](articles/f9c4a5a2.json)
+
+[Extended Data](ext_articles/f9c4a5a2.ext.json)
 
 ---
 
@@ -612,6 +636,114 @@ The Election Commission said that nominations should be submitted by certain per
 
 ---
 
+### Home remedies for acne
+
+*2024-10-16 20:48:00* · [`islandlk`](http://island.lk/home-remedies-for-acne/) · `en`
+
+Hi! The world is experiencing some awful weather and we are in it, too. However, we can’t neglect our skin.
+
+Yes, everyone wants clear skin, and this week I am giving you a few home remedies that can do the trick…to help you achieve a healthier, glowing skin.
+
+Skin exfoliation is the most important beauty treatment that you should follow in order to maintain healthy, glowing and pimple free skin. Brown sugar is one of the mildest natural exfoliator. It removes the dead cells, dirt, sebum and impurities from the pores, which cause pimples.
+
+You will need 03 teaspoons of brown sugar and 01 teaspoon of honey.
+
+Mix them together and apply the mixture all over the face and scrub gently, in circular motion. Once it’s dry, wash it off with cold water and pat dry.
+
+...
+
+[Data](articles/a74429e2.json)
+
+[Extended Data](ext_articles/a74429e2.ext.json)
+
+---
+
+### Buddhist way to peace and prosperity
+
+*2024-10-16 20:41:00* · [`islandlk`](http://island.lk/buddhist-way-to-peace-and-prosperity-2/) · `en`
+
+Economic and social policies based on Buddhist principles were the foundation of peace and prosperity in ancient Sri Lanka. A close examination of this Buddhist foundation would be of assistance to attain, once again, the cherished goal of peace and economic prosperity.
+
+Economic and political theories before Western influence were based on two famous ancient treatises, namely, Kautilya’s Arthaśāstra and Brihaspati’s Arthaśāstra. They had one common feature, in that, under the title of Arthaśātra both writers had written on politics and economics, leaving out the most important ingredient for any development process, i.e. the mental and spiritual development of man.
+
+...
+
+[Data](articles/acde6e4f.json)
+
+[Extended Data](ext_articles/acde6e4f.ext.json)
+
+---
+
+### Siyapatha Finance makes headway in HR Excellence
+
+*2024-10-16 20:35:00* · [`islandlk`](http://island.lk/siyapatha-finance-makes-headway-in-hr-excellence/) · `en`
+
+Siyapatha Finance PLC is proud to announce its recognition in two of the prestigious awards that recognize and reward exemplary leadership and dedication of HR professionals around the globe.
+
+Prasad Udugampola, the Chief Human Resources Officer (CHRO) of Siyapatha Finance PLC, was honoured with “Top Most HR Leaders – Sri Lanka” from the World HRD Congress and “Top HR Icon Award – Asia Pacific” from the Asia Pacific HRM Congress.
+
+The “Top Most HR Leaders – Sri Lanka” award is awarded after a rigorous selection process involving on advisory board from the World HRD Congress. This honour recognizes HR professionals who demonstrate exceptional skills in navigating complex challenges particularly in turbulent times, while remaining sensitive to the evolving needs of the workforce.
+
+...
+
+[Data](articles/6c81555b.json)
+
+---
+
+### People’s Leasing & Finance shines with Gold at ACEF Asian Business Leaders Awards
+
+*2024-10-16 20:33:00* · [`islandlk`](http://island.lk/peoples-leasing-finance-shines-with-gold-at-acef-asian-business-leaders-awards/) · `en`
+
+People’s Leasing & Finance PLC, a leading player in Sri Lanka’s non-banking financial services sector, has once again made its mark on the international stage by winning the prestigious Gold Award for “Best Leasing Brand of the Year” at the ACEF Asian Business Leaders Awards. This accolade places People’s Leasing & Finance among Asia’s most influential businesses, underscoring its commitment to excellence, innovation, and customer-centric service.
+
+...
+
+[Data](articles/3f90b850.json)
+
+---
+
+### Tropical Christmas countdown begins at Pegasus Reef with annual cake mixing ceremony
+
+*2024-10-16 20:30:00* · [`islandlk`](http://island.lk/tropical-christmas-countdown-begins-at-pegasus-reef-with-annual-cake-mixing-ceremony/) · `en`
+
+The countdown to Christmas has officially begun at Pegasus Reef, where the much-anticipated Annual Cake Mixing Ceremony kicked off the hotel’s festive celebrations in a uniquely tropical style! This beloved tradition marks the start of an exciting holiday season, inviting guests from near and far to celebrate amidst a picturesque, beachfront setting.
+
+As chefs paraded the cake-mixing ingredients, the rhythmic beat of traditional drums filled the air, setting a festive mood. Guests actively participated in the age-old tradition of blending spices, fruits, and nuts, symbolizing good fortune and holiday cheer for the season ahead. The festive atmosphere buzzed with cheerful chatter and a delightful selection of refreshments. It was the perfect way for families and friends to come together and spread holiday cheer in a stunning tropical setting.
+
+...
+
+[Data](articles/23091d8a.json)
+
+---
+
+### Mangala Wijesinghe appointed chairman, Export Development Board
+
+*2024-10-16 20:28:00* · [`islandlk`](http://island.lk/mangala-wijesinghe-appointed-chairman-export-development-board/) · `en`
+
+Mangala Wijesinghe, a prominent corporate leader with over 25 years of senior management experience, has been appointed as the new Chairman of the Export Development Board (EDB) of Sri Lanka. His extensive career spans multiple industries, including pharmaceuticals, chemicals, consumer electronics, industrial engineering and telecommunications, in which he has consistently demonstrated ability to drive operational excellence and foster business growth.
+
+In his current role as Cluster Chief Operating Officer – Pharmaceuticals, Consumer & Integrated Engineering Solutions of Brown and Company PLC, Mangala has successfully managed a diversified portfolio of international suppliers while representing globally-renowned brands in Sri Lanka. His reputation for transforming underperforming businesses and steering them towards profitability within short periods has earned him widespread recognition within the business community.
+
+...
+
+[Data](articles/0dc2b585.json)
+
+---
+
+### Profit-takings by local and foreign investors pep-up share market
+
+*2024-10-16 20:25:00* · [`islandlk`](http://island.lk/profit-takings-by-local-and-foreign-investors-pep-up-share-market/) · `en`
+
+The stock market kicked off on a dull sentiment at the initial stages yesterday but by the middle part of the session it turned positive due to conclusion of profit takings by some local and foreign investors, market analysts said.
+
+Amid those developments both indices moved upwards. All Share Price Index went up by 42.64 points while S and P SL20 index moved up by 10.72 points. Turnover stood at Rs 1.7 billion with three crossings. Those crossings were reported in Dialog where 12.5 million shares crossed; its shares traded at Rs 10.70, JKH 434,000 shares crossed for Rs 84.9 million and its shares price traded at Rs 195.75 and Hemas 500,000 shares crossed for Rs 39.5 million; its shares traded at Rs 79.
+
+...
+
+[Data](articles/eb86f7d8.json)
+
+---
+
 ### The two robbed the houses abused women
 
 *2024-10-16 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202250) · `si`
@@ -912,6 +1044,22 @@ If you find any information regarding the body, the public has been requested to
 
 ---
 
+### “Comrade”Anura Began Historic Journey After Becoming  the Fifth  Leader  of JVP  in 2014.
+
+*2024-10-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84899) · `en`
+
+Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka-PART three
+
+The year was 1969.  A 31 year old mother sought the services of a prominent astrologer to draw up the horoscope of her six month old son. The astrologer made some calculations based on planetary movements that prevailed at the time of the boy’s birth the previous year. He looked up with amazement and told the mother “your son has a “Rajayoga” in his destiny. He is born to rule. One day he will rule this country”.The mother was pleased but puzzled. She  was from a low-income farming family.How could my son be a ruler? She wondered.
+
+...
+
+[Data](articles/19c2757d.json)
+
+[Extended Data](ext_articles/19c2757d.ext.json)
+
+---
+
 ### Rs. 3000 monthly interim allowance to pensioners
 
 *2024-10-16 18:13:50* · [`adalk`](https://www.ada.lk/breaking_news/රු--3000ක-මාසික-අන්තර්-කාලීන-දීමනාව-අද-විශ්‍රාමිකයින්ගේ-ගිණුම්වලට/11-412533) · `si`
@@ -969,6 +1117,20 @@ The police media spokesman said that the fraudsters claiming to be running a com
 [Data](articles/548d8d37.json)
 
 [Extended Data](ext_articles/548d8d37.ext.json)
+
+---
+
+### பத்து வருடங்களுக்கு முன்னர் ”தோழர்” அநுர குமார திசாநாயக்க ஜே.வி.பி.யின் ஐந்தாவது தலைவராக வந்தபோது…..!…..
+
+*2024-10-16 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84908) · `en`
+
+அநுர குமார திசாநாயக்க ; இலங்கை வானில் ‘ இடதுசாரி ‘ நட்சத்திரம் -3
+
+அது 1969 ஆம் ஆண்டு. 31 வயதான தாய் தனது ஆறு மாத ஆண் குழந்தையின் ஜாதகத்தை எழுதுவிப்பதற்காக பிரபலமான ஒரு சோதிடரின் சேவையை நாடினார். முன்னைய வருடத்தில் குழந்தை பிறந்த நேரத்தில் இருந்த கிரக நகர்வுகளின் அடிப்படையில் சில கணிப்பீடுகளைச் செய்த சோதிடர் தாயாரை பெரு வியப்புடன் பார்த்து ” உங்கள் மகனுக்கு அவனது விதியில் ஒரு இராஜயோகம் இருக்கிறது. அவன் ஆளப்பிறந்தவன். அவன் ஒரு நாள் இந்த நாட்டை ஆட்சி.செய்வான்” என்று கூறினார்.  தாயாருக்கு மகிழ்ச்சிதான் ஆனால் ஆச்சரியம். அவர் குறைந்த வருமானத்தைக் கொண்ட ஒரு விவசாயக் குடும்பத்தைச் சேர்ந்தவர். ‘ எவ்வாறு எனது மகன் ஆட்சியாளராவான்? அவருக்கு ஆச்சரியம்.
+
+...
+
+[Data](articles/82107b5a.json)
 
 ---
 
@@ -2119,253 +2281,5 @@ The woman has been arrested on suspect, a person who was closely associated with
 [Data](articles/36b76699.json)
 
 [Extended Data](ext_articles/36b76699.ext.json)
-
----
-
-### Releases preferential numbers
-
-*2024-10-16 12:43:46* · [`adalk`](https://www.ada.lk/breaking_news/මනාප-අංක-නිකුත්-කරයි/11-412526) · `si`
-
-Elections Commission: Preferential vote results available at District Secretariats today. All district lists received, being verified before distribution.
-
-🟩
-
-The Elections Commission says that the preferential votes of the parliamentary election can be obtained from the District Secretariats today (16).
-
-The preferential lists of the preferential lists of all districts have been received and the steps have been taken to inspect the list of preference lists and sent to the District Secretariats.
-
-◼️
-
-[Data](articles/88398fa5.json)
-
-[Extended Data](ext_articles/88398fa5.ext.json)
-
----
-
-### Deputy Commissioner of provincial revenue office arrested for accepting bribe
-
-*2024-10-16 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102731/deputy-commissioner-of-provincial-revenue-office-arrested-for-accepting-bribe) · `en`
-
-The officials of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) have arrested a deputy commissioner of the Eastern Provincial Department of Revenue for accepting a bribe of Rs. 200,000.
-
-According to the commission, the raid was carried out following a complaint made by a resident of Chenkaladi, Batticaloa regarding the matter.
-
-The complaint was made after the resident purchased a 65-perch plot of land in the Sathurukondan area of Batticaloa for Rs. 10 million and paid Rs. 600,000 as stamp duty.
-
-However, the provincial revenue office has later informed the resident that the assessed value of the land was Rs. 26.5 million.
-
-As a result, the official stated that a government fee of Rs. 850,000, along with a fine, had to be paid. However, a bribe of Rs. 200,000 was allegedly requested to reduce this amount to Rs. 200,000.
-
-The deputy commissioner has been arrested while accepting the relevant bribe at the Eastern Province Department of Revenue’s office in Batticaloa.
-
-...
-
-[Data](articles/55476c08.json)
-
-[Extended Data](ext_articles/55476c08.ext.json)
-
----
-
-### Decision on SriLankan Airlines
-
-*2024-10-16 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202235) · `si`
-
-New Sri Lankan government halts sale of national airline. Restructuring planned to boost profitability. Bids called for management but no eligible buyers found. Airlines records profit April 2022-March 2023. Tourism industry crucial, 50% tourists use airline. Government aims to increase tourist arrivals to 2.3 million by 2030.
-
-🟩
-
-TTG Asia website reports that the new government of Sri Lanka has taken measures to leave the plan to sell SriLankan Airlines.
-
-It is said that Mr. Ganegoda said that the institution would be restructured to make it a profitable airline.
-
-The government has called bids for purchase and manage the SriLankan Airlines for many years.
-
-Under the plan, the remaining 49% of the remainders were due to be investors in the 51% of the airline sections under the government.
-
-Although six parties had informed their will, but no one was eligible for the next step in that method.
-
-Meanwhile, SriLankan Airlines also recorded operating profit for the period from April 2022 to March 2023.
-
-Ganegoda has said that SriLankan Airlines is one of the most important factors to develop tourism industry.
-
-About 50% of Sri Lankan tourists come by using SriLankan Airlines.
-
-Sri Lanka will increase the number of tourists 2.3 million to Rs. 2030.
-
-◼️
-
-[Data](articles/f4de4118.json)
-
-[Extended Data](ext_articles/f4de4118.ext.json)
-
----
-
-### Injunction issued preventing Upul Tharanga’s arrest
-
-*2024-10-16 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102730/injunction-issued-preventing-upul-tharangas-arrest) · `en`
-
-The Court of Appeal has issued an interim injunction preventing the execution of an arrest warrant issued against the Chairman of the Selection Committee at Sri Lanka Cricket (SLC), former Sri Lankan cricketer Upul Tharanga.
-
-A two-member Appeals Court judge bench issued the injunction today (16), after considering a writ petition filed by Upul Tharanga, Ada Derana reporter said.
-
-On October 08, the Matale High Court issued an arrest warrant against the Chairman of the Selection Committee at Sri Lanka Cricket (SLC), former Sri Lankan cricketer Upul Tharanga over failure to appear before the court pertaining to a match-fixing case during the 2024 Legends Cricket Tournament.
-
-However, the relevant case has been filed by Tharanga himself and he had left the country at the time for cricketing purposes without informing the court in that regard.
-
-◼️
-
-[Data](articles/88f5a5e0.json)
-
-[Extended Data](ext_articles/88f5a5e0.ext.json)
-
----
-
-### Sri Lanka budget deficit down 38-pct, tax revenues up 41-pct to August
-
-*2024-10-16 11:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-38-pct-tax-revenues-up-41-pct-to-august-183860/) · `en`
-
-ECONOMYNEXT – Sri Lanka tax revenues rose 41 percent to 2,348 billion rupees in the eight months to August 2024, at a rate higher that the full year 35 percent target, and current expenses only grew 3 percent, amid higher tax rates and monetary stability, official data showed.
-
-Total revenues also grew 41 percent to 2,557 billion rupees, with non-tax revenues rising to 209 billion rupees from 158 billion rupees last year, according to pre-budget fiscal report.
-
-Current spending was contained at 3,041 billion rupees amid wage restraint and a lower than budgeted interest bill. Interest cost rose only 2 percent to 1,560 billion rupees, despite new debt taken to finance the budget deficit.
-
-The current account deficit (total revenues less current spending) fell to 483.8 billion rupees or 1.5 percent of GDP in the fist eight months, from 1,121.7 billion rupees a year earlier.
-
-Capital spending picked up to 435.3 billion rupees, up 22 percent.
-
-...
-
-[Data](articles/27e0a144.json)
-
-[Extended Data](ext_articles/27e0a144.ext.json)
-
----
-
-### Interim banned for warrant against waves
-
-*2024-10-16 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202234) · `si`
-
-Court of Appeal issues interim injunction against UPFA Chairman. Warrant prevents arrest of Tharanga. Case related to "Legends League" controversy.
-
-🟩
-
-The Court of Appeal today issued an interim injunction today (16) due to the UPFA to proceed with the Chairman of the Selection Committee.
-
-According to the warrant issued by the courts, the Court of Appeal Judge Mohammed Lafar and P.. The Court of Appeal has issued the order by the Court of Appeal consisting of Kumaran Ratnam.
-
-Another order was nominated as respondents, designated as respondents to the petitioner Tharanga not to arrest Petitioqual Tharanga.
-
-The Matale High Court issued a warrant on the 8th of the 8th of the 8th.
-
-According to Mr. Upul Tharanga, it is relevant to a complaint that the "Legends League" has been influenced by a complaint with a complaint with a complaint that the "Legends League 'has been affected in March this year.
-
-The warrant had been arrested in the airport at the airport at the airport without informing the judiciary.
-
-◼️
-
-[Data](articles/4f617f89.json)
-
-[Extended Data](ext_articles/4f617f89.ext.json)
-
----
-
-### Court rejects Arjun Aloysius’ bail appeal
-
-*2024-10-16 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102729/court-rejects-arjun-aloysius-bail-appeal-) · `en`
-
-The Colombo Magistrate’s Court has rejected an appeal for bail made by the Director of W.M. Mendis Distilleries Arjun Aloysius and two others, who were sentenced to prison on Monday (14) over VAT evasion.
-
-Appearing for the defendants, President’s Counsel Razik Zarook requested the court to release the three defendants on bail since the trial against them has now become a criminal case.
-
-Colombo Additional Magistrate Bandara Ilangasinghe, who stated that the relevant case has been filed based on a certification given by the Inland Revenue Department, rejected the appeal for bail, mentioning that the prison sentence is only an alternative punishment imposed on the accused and that therefore the case has not become a criminal trial.
-
-The Colombo Magistrate’s Court sentenced the Director of W.M. Mendis Distilleries, Arjun Aloysius and two others to 06 months in prison for defaulting the payment of Rs. 3.5 billion in Value Added Tax (VAT) by the company.
-
-...
-
-[Data](articles/823fdf6a.json)
-
-[Extended Data](ext_articles/823fdf6a.ext.json)
-
----
-
-### Arjun Augisti's bail application rejected
-
-*2024-10-16 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202233) · `si`
-
-Arjun Augisti's bail rejected; 3.5 billion VAT case; six-month prison sentence; Colombo Magistrate's Court decision; criminal litigation vs Department of Inland Revenue; alternative penalties ruling.
-
-🟩
-
-3.5 billion VAT to the government is sentenced to six months in prison. M. The Colombo Magistrate's Court has rejected the request to release two including two including Arjun Alsois of Mendis.
-
-President's Counsel Aliena appeared in behalf of the respondents, he said in court, the case against these defendants had become a criminal litigation, so they demanded the release of bail.
-
-Additional Magistrate Bandara Ilangasinghe said that this was a case filed by the Department of Inland Revenue.
-
-The respondents are sentenced to the alternative penalties, the Magistrate said that it would not be a criminal litigation.
-
-◼️
-
-[Data](articles/168eed01.json)
-
-[Extended Data](ext_articles/168eed01.ext.json)
-
----
-
-### Don't go to sea until tomorrow!
-
-*2024-10-16 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/196422) · `ta`
-
-Marine warning: Avoid sea travel due to low pressure system moving west-northwest. Strong winds, heavy rains expected. Sea waves may reach land in coastal areas.
-
-🟩
-
-The Department of Meteorology has announced that the Marines and fishermen should not go to the sea, as the low-lying low-lying area in the southeastern Bengal Sea is likely to move in the western-northwestern direction.
-
-Navy and fishermen do not go to sea areas. The announcement, which was released today (16) at 8:00 am, will be valid tomorrow (17) and 8:00 am.
-
-மத்திய வங்கக் கடலில் நேற்று (15) மதியம் 12:00 மணியளவில் குறைந்த காற்றழுத்த தாழ்வு பகுதி இன்னும் மையம் கொண்டுள்ளது.
-
-It will move in the western-northwestern direction and become a low-lying zone of the northern Tamil Nadu, Puducherry and its adjoining South Andhra Pradesh coast tomorrow.
-
-As a result, strong winds are blowing in the sea, heavy rains and the sea areas are very turbulent.
-
-The height of the sea wave in the seas from Chilaw to Colombo, Galle, Hambantota and Pottuvil is likely to rise to 2.5-3.0 meters.
-
-As a result, the sea waves from Chilaw to Colombo, Galle and Hambantota are likely to reach the land.
-
-...
-
-[Data](articles/77cae75a.json)
-
-[Extended Data](ext_articles/77cae75a.ext.json)
-
----
-
-### இலங்கையின் ஜனாதிபதி தேர்தல்ஜனநாயகத்திற்கான சிறந்த முன்னுதாரணம்- ஜப்பான் தூதுவர்
-
-*2024-10-16 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196421) · `ta`
-
-Sri Lanka's president election praised by Japan envoy. He commends peaceful democratic transition and encourages political leaders' commitment to democratic principles. Ambassador highlights confidence in democracy, anti-corruption efforts, international cooperation, and regime reforms as priorities for the new government.
-
-🟩
-
-இலங்கையின் ஜனாதிபதி தேர்தல் ஜனநாயகத்திற்கான முன்னுதாரணம் என இலங்கைக்கான ஜப்பானிய தூதுவர் மிசுகோசி ஹிடேகி பாராட்டியுள்ளார்.
-
-He said the country's recent presidential election has expressed the dedication of the country for peaceful democratic power.
-
-ஜனநாயக கொள்கைகளிற்கு ஊக்கமளிக்கும் அர்ப்பணிப்பிற்காக இலங்கையின் அரசியல்வாதிகள் பொதுமக்களிற்கு ஜப்பான் தூதுவர் தனது பாராட்டுகளை தெரிவித்துள்ளார்.
-
-The recent presidential election is a truthful encouragement that the people and politicians have expressed in a peaceful power change, Japan Ambassador has said that you have created confidence in democracy.
-
-இலங்கையின் புதிய தலைவர்களுடனான எனது பேச்சுவார்த்தைகள் நம்பிக்கை அளிப்பவையாக காணப்பட்டன,ஆட்சிமுறை சீர்திருத்தம்,ஊழல் எதிர்ப்பு நடவடிக்கைகள்,அனைவரையும் உள்ளடக்கிய அபிவிருத்தி சர்வதேச ஒத்துழைப்பிற்கான தங்கள் அர்ப்பணிப்பை அவர்கள் வலியுறுத்தினார்கள் என  அவர் குறிப்பிட்டுள்ளார்.
-
-...
-
-[Data](articles/6f7ce9e1.json)
-
-[Extended Data](ext_articles/6f7ce9e1.ext.json)
 
 ---

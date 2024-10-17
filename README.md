@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 17:40:15**
+As of **2024-10-17 18:00:16**
 
 ## Newspaper Stats
 
-*Scraped **50,001** Articles*
+*Scraped **50,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,923
 tamilmirrorlk | 6,840
 virakesarilk | 7,998
-adaderanasinhalalk | 8,662
+adaderanasinhalalk | 8,663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,001 (100.0%) of 50,001 articles have been extended.
+50,002 (100.0%) of 50,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### කෙහෙළිය රඹුක්වැල්ල විදුහලින් කෙහෙළියගේ නම ඉවත් කරේ
+
+*2024-10-17 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202276) · `si`
+
+Keheliya Rambukwella School renamed after removing his name. New building constructed as part of development project. Proposal approved by Provincial Education Department.
+
+🟩
+
+Steps have been taken to remove his name from a school named Keheliya Rambukwella.
+
+ඒ අනුව කුණ්ඩසාලේ පිහිටි කෙහෙළිය රඹුක්වැල්ල ආදර්ශ ප්‍රාථමික විද්‍යාලයේ නාමය මෙලෙස වහාම ක්‍රියාත්මක වන පරිදි සංශෝධනය කිරීමට මධ්‍යම පළාත් ආණ්ඩුකාර එස්.බී.එස්. අභයකෝන් මහතා විසින් අනුමැතිය ලබා දී ඇත.
+
+ඒ අනුව මින් ඉදිරියට මෙම විද්‍යාලය කුණ්ඩසාලේ රාජකීය ප්‍රාථමික විද්‍යාලය නමින් හැඳින්වීමට පියවර ගෙන තිබේ.
+
+පළාත් අධ්‍යාපන දෙපාර්තමේන්තුවේ ව්‍යූහ කමිටුව මගින් මෙම යෝජනාව ඉදිරිපත් කර තිබූණි.
+
+These recommendations were made by the parents of the trade union proposals from the various cases.
+
+This College, 1939, S.WR. De Bandaranaike commenced in the name of de Bandaranayake and has introduced Natural Maha Vidyalaya, Kundasale Maha Vidyalaya.
+
+කලක් වැසි යාමේ තර්ජනයට ලක් වූ මෙම විදුහල ළගම පාසල හොදම පාසල ව්‍යාපෘතිය යටතේ 2012 වසරේ දී කෙහෙළිය රඹුක්වැල්ල ප්‍රාථමික විද්‍යාලය යන නමින් නව ගොඩනැගිල්ලක් ඉදිකොට සංවර්ධනය කරනු ලැබිය.
+
+◼️
+
+[Data](articles/e79961f2.json)
+
+[Extended Data](ext_articles/e79961f2.ext.json)
+
+---
 
 ### Bangladesh crimes tribunal issues arrest warrant for exiled former prime minister
 
@@ -2325,25 +2355,5 @@ Neither President Dissanayake nor Foreign Minister Herath will attend the BRICS 
 [Data](articles/43e1c0f0.json)
 
 [Extended Data](ext_articles/43e1c0f0.ext.json)
-
----
-
-### 2024-10-16 (Wednesday)
-
-### Towards sustainable and secure energy future for Sri Lanka
-
-*2024-10-16 22:39:51* · [`dailyftlk`](https://www.ft.lk/columns/Towards-sustainable-and-secure-energy-future-for-Sri-Lanka/4-768057) · `en`
-
-The objective of lowering generation costs and, consequently, consumer tariffs will certainly not be achieved by the recent cabinet decision to reduce the Feed-In Tariff for Solar Rooftop PV, which, fortunately, has not been approved by the PUCSL
-
-It is everyone’s hope that we may at last be moving towards a new dawn of prosperity and a future of sustainable growth in all aspects of economy and social well-being, with President Anura Kumara Dissanayake leading the way.
-
-This hope is most prevalent in the Energy Sector, which has remained in the clutches of the fossil fuel lobby. While the transport fuels still remain nearly 100% dependent on imported fossil fuels, energy sources used for generation electricity generation have shown some progress in reducing dependence on such imports through the use of indigenous renewable energy sources.
-
-...
-
-[Data](articles/1975f003.json)
-
-[Extended Data](ext_articles/1975f003.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 01:08:54**
+As of **2024-10-18 01:23:39**
 
 ## Newspaper Stats
 
-*Scraped **50,047** Articles*
+*Scraped **50,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,406
 adalk | 4,655
 dailymirrorlk | 4,733
 adaderanalk | 5,928
-tamilmirrorlk | 6,843
+tamilmirrorlk | 6,844
 virakesarilk | 8,016
 adaderanasinhalalk | 8,673
 
@@ -26,9 +26,37 @@ adaderanasinhalalk | 8,673
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,047 (100.0%) of 50,047 articles have been extended.
+50,048 (100.0%) of 50,048 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-18 (Friday)
+
+### தபால் மூல வாக்களிப்புக்கு 750,000 விண்ணப்பங்கள்
+
+*2024-10-18 00:49:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூல-வாக்களிப்புக்கு-750-000-விண்ணப்பங்கள்/175-345634) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"750,000 postal vote applications received for general election. Voter list finalized. Postal polling begins on 23rd."
+
+🟩
+
+750,000 postal applications have been received for voting in the upcoming general election, the Elections Commission said.
+
+The voter list for postal voters in the general election took place yesterday.
+
+In addition, postal polling will be handed over to the postal work on the 23rd of this month.. (A)
+
+◼️
+
+[Data](articles/649d673f.json)
+
+[Extended Data](ext_articles/649d673f.ext.json)
+
+---
 
 ### 2024-10-17 (Thursday)
 
@@ -2473,31 +2501,5 @@ The reconstruction work is to be completed within the next two weeks, the Depart
 [Data](articles/a934f054.json)
 
 [Extended Data](ext_articles/a934f054.ext.json)
-
----
-
-### Yall. Financial Development Review Meeting for Third Quarter at District Secretariat!
-
-*2024-10-17 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196475) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Third Quarter Financial Development Review at District Secretariat. Purpose: Investigate proper financial management, review improvements. Participants: Additional Government Agent, Planning Director, Chief Engineer, Accountants. Discussion focused on compliance and progress."
-
-🟩
-
-Financial Development Review Meeting for the third quarter. P.
-
-He said the purpose of the meeting was to investigate whether the financial management and restrictions were properly followed and the financial improvement was reviewed and that the financial improvement at the review meeting would be satisfied.
-
-Additional Government Agent (Land), Planning Director, Chief Engineer, Accountant Officers and Officers participated in the discussion.
-
-◼️
-
-[Data](articles/29aba37e.json)
-
-[Extended Data](ext_articles/29aba37e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 04:23:41**
+As of **2024-10-18 04:39:44**
 
 ## Newspaper Stats
 
-*Scraped **50,049** Articles*
+*Scraped **50,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 496
 bbccomsinhala | 502
 islandlk | 2,964
 economynextcom | 3,066
-dailyftlk | 3,406
+dailyftlk | 3,410
 adalk | 4,655
 dailymirrorlk | 4,733
 adaderanalk | 5,928
@@ -26,11 +26,97 @@ adaderanasinhalalk | 8,673
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,049 (100.0%) of 50,049 articles have been extended.
+50,053 (100.0%) of 50,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Sajith advises SJB candidates not to undermine President
+
+*2024-10-18 04:17:43* · [`dailyftlk`](https://www.ft.lk/news/Sajith-advises-SJB-candidates-not-to-undermine-President/56-768099) · `en`
+
+SJB former MP Dr. Harsha de Silva says party leader has emphasised need to work with President Dissanayake
+
+Says SJB has a strong team and clear program, and can effectively collaborate with President
+
+Claims all SJB members are committed to making party leader Sajith Premadasa SL’s next PM
+
+Samagi Jana Balawegaya (SJB) Former MP Dr. Harsha de Silva has revealed that party leader Sajith Premadasa has urged SJB candidates not to undermine President Anura Kumara Dissanayake, emphasising the need to be prepared to collaborate with him.
+
+“He has advised us not to undermine the President, as he will be in office for the next five years. We must work with him. We have a strong team and a clear program, and we believe we can effectively collaborate with the President,” de Silva explained.
+
+These comments were made by de Silva after a meeting with SJB Parliamentary Election candidates in Colombo yesterday, organised under the leadership of Sajith Premadasa.
+
+...
+
+[Data](articles/c4a7a825.json)
+
+[Extended Data](ext_articles/c4a7a825.ext.json)
+
+---
+
+### All Ceylon Muslim Women’s Association announces IMRA Awards 2025
+
+*2024-10-18 04:16:05* · [`dailyftlk`](https://www.ft.lk/news/All-Ceylon-Muslim-Women-s-Association-announces-IMRA-Awards-2025/56-768098) · `en`
+
+All Ceylon Muslim Women’s Association (ACMWA) has announced the launch of the 2025 edition of  the IMRA Awards which is an opportunity for Muslim women in Sri Lanka to showcase once again their professions, skills, achievements, and entrepreneurship in many categories,where well-deserved recognition will be honoured.
+
+To participate, please find the link to fill in the application form. The form is now live, and submissions will be directly stored in this website database. Each category will have criteria which have to be met.
+
+Two additional categories have been included, making room for a broader spectrum of fields.
+
+The categories for 2025 will be for: Legal,Healthcare, Banking and Finance, Education, Women in Media (including Print and Digital), Hospitality and Tourism, Architecture, Arts and Culture, Sports, and Entrepreneurship.
+
+...
+
+[Data](articles/6becb6ee.json)
+
+[Extended Data](ext_articles/6becb6ee.ext.json)
+
+---
+
+### Colombo tops campaign spending limits set by ECSL ahead of November polls
+
+*2024-10-18 04:15:36* · [`dailyftlk`](https://www.ft.lk/news/Colombo-tops-campaign-spending-limits-set-by-ECSL-ahead-of-November-polls/56-768097) · `en`
+
+In preparation for the Parliamentary Election slated for 14 November, the Election Commission of Sri Lanka yesterday announced the official spending limits for candidates, political parties, independent groups, and national list candidates. The limits, which vary by district, are part of newly implemented campaign finance laws aimed at regulating election spending.
+
+According to the Commission’s announcement, the Colombo District has the highest expenditure limits. Candidates can spend up to Rs. 5,750,000, while political parties or independent groups have a cap of Rs. 79,493 756. National list candidates in Colombo are allowed to spend Rs. 34,694 on their campaigns.
+
+Meanwhile, the Gampaha District follows closely, with candidates permitted to spend a maximum of Rs. 5,643,387, and political parties or independent groups can allocate up to Rs. 81,735,055. National list candidates in Gampaha have a spending limit of Rs. 35,667.
+
+...
+
+[Data](articles/43ebd526.json)
+
+[Extended Data](ext_articles/43ebd526.ext.json)
+
+---
+
+### SLPP says ready to work with anyone accepting party policies
+
+*2024-10-18 04:15:10* · [`dailyftlk`](https://www.ft.lk/news/SLPP-says-ready-to-work-with-anyone-accepting-party-policies/56-768096) · `en`
+
+SLPP’s Sagara Kariyawasam claims many representatives who left party are now returning to its fold
+
+Says many members have expressed belief that SLPP must start a new chapter with new leadership
+
+Reveals discussions are ongoing with district representatives to strengthen party and forge way forward
+
+Sri Lanka Podujana Peramuna (SLPP) has expressed its willingness to move forward with anyone willing to align with the party’s policies, according to the party’s General Secretary Sagara Kariyawasam.
+
+Addressing the media in Colombo yesterday, Kariyawasam highlighted the return of Kegalle district SLPP representatives who had previously left the SLPP during the last Presidential Election.
+
+The meeting, held at the party’s head office in Nelum Mawatha, Colombo, was part of a larger effort to rebuild and strengthen the SLPP, as regional leaders who had distanced themselves from the party are now rejoining its ranks, he said.
+
+...
+
+[Data](articles/4b44b8ad.json)
+
+[Extended Data](ext_articles/4b44b8ad.ext.json)
+
+---
 
 ### தபால் மூல வாக்களிப்புக்கு 750,000 விண்ணப்பங்கள்
 
@@ -2419,95 +2505,5 @@ The police have also lodged a complaint with the instructions of the OIC of Athu
 [Data](articles/b296aa0a.json)
 
 [Extended Data](ext_articles/b296aa0a.ext.json)
-
----
-
-### Foreign Ministry statement on ensuring safety of Sri Lankans in Middle East
-
-*2024-10-17 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102751/foreign-ministry-statement-on-ensuring-safety-of-sri-lankans-in-middle-east) · `en`
-
-Sri Lanka’s Foreign Ministry says that the escalation of the current conflict in the Middle East has given rise to a critical situation particularly in Lebanon.
-
-Issuing a statement, the Ministry of Foreign Affairs stated that, in view of the significant number of Sri Lankans employed in the region, necessary measures to ensure their safety and security are already being taken through the respective Sri Lanka Missions in those countries.
-
-Necessary instructions to ensure the safety of Sri Lankans will also be provided regularly by the Sri Lanka Missions, it said.
-
-In this context, Sri Lankans living in the Middle East region are requested to pay special attention to these instructions, and act accordingly, the statement added.
-
-...
-
-[Data](articles/c3879765.json)
-
-[Extended Data](ext_articles/c3879765.ext.json)
-
----
-
-### ADB leads foreign financing for Sri Lanka in 2024, IMF second
-
-*2024-10-17 09:56:00* · [`economynextcom`](https://economynext.com/adb-leads-foreign-financing-for-sri-lanka-in-2024-imf-second-183977/) · `en`
-
-ECONOMYNEXT – The Asian Development Bank has disbursed 358.3 million dollars to Sri Lanka up to August 2024, slightly ahead of the International Monetary Fund which gave 334 million dollars in budget support loans.
-
-The ADB, World Bank has given budget support loans linked to Sri Lanka’s IMF program from last year.
-
-Budget support loans can be used to repay maturing debt and does not lead to imports and a current account deficit if old loans are repaid (a financial account inflow and outflow).
-
-Japan had also disbursed 20.1 million dollars. Japan halted disbursing loans after Sri Lanka’s sovereign default. Japan also gave a 1.3 million dollar grant.
-
-Out of a total of 1,005.7 million dollars of foreign support, 11.3 million were grants and 994.4 million were grants.
-
-◼️
-
-[Data](articles/8687232c.json)
-
-[Extended Data](ext_articles/8687232c.ext.json)
-
----
-
-### 14-year-old child dies
-
-*2024-10-17 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202262) · `si`
-
-A 14-year-old girl drowned in a water-filled pit on Halituwa mountain. She was playing with friends when tragedy struck. The incident occurred in Kotadeniyawaiya area.
-
-🟩
-
-Boundillai has died of a boys who have been drowned in a water-filled pit in Halituwa mountain.
-
-The deceased has been identified as a schoolgirl residing in Kotadeniyawaiya area for 14 years.
-
-The child had gone to the daughter with five other friends yesterday evening.
-
-Investigations have revealed that the child had drowning at the time.
-
-◼️
-
-[Data](articles/810e6bfe.json)
-
-[Extended Data](ext_articles/810e6bfe.ext.json)
-
----
-
-### An elderly man who was injured in an accident
-
-*2024-10-17 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196477) · `ta`
-
-Elderly man injured in motorcycle accident on Basal-Mannar road. Taken to Mannar-Basal Hospital, then transferred to Mannar Hospital. Body examined by Sudden Death Investigation Officer Namasivayam Premkumar.
-
-🟩
-
-An elderly man who was injured in a motorcycle accident
-
-He was traveling in the opposite direction when he was traveling in a bicycle on his house by Basal -Mannar road on the 2nd.
-
-He was taken to the Mannar -Basal Hospital and was transferred to the Mannar Hospital on the third day.
-
-In addition, the death of his body was carried out by Sudden Death Investigation Officer Namasivayam Premkumar and the body was handed over after an anatomical examination.
-
-◼️
-
-[Data](articles/c8a4900f.json)
-
-[Extended Data](ext_articles/c8a4900f.ext.json)
 
 ---

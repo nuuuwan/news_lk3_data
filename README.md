@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 09:39:39**
+As of **2024-10-17 09:58:47**
 
 ## Newspaper Stats
 
-*Scraped **49,938** Articles*
+*Scraped **49,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,060
 dailyftlk | 3,406
 adalk | 4,645
 dailymirrorlk | 4,733
-adaderanalk | 5,911
+adaderanalk | 5,912
 tamilmirrorlk | 6,832
 virakesarilk | 7,979
 adaderanasinhalalk | 8,648
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,648
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,938 (100.0%) of 49,938 articles have been extended.
+49,939 (100.0%) of 49,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Person arrested for attempting to bribe police officer to permit drug dealing
+
+*2024-10-17 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102750/person-arrested-for-attempting-to-bribe-police-officer-to-permit-drug-dealing-) · `en`
+
+Mattakkuliya Police have arrested a 50-year-old man for attempting to offer a bribe to the Acting Officer-in-Charge (OIC) of the Mattakkuliya Police Station.
+
+The incident occurred yesterday (16) when the suspect made a phone call to the Acting OIC, requesting permission to engage in drug dealing within the police area.
+
+He had also offered to pay a monthly bribe of Rs. 100,000 in exchange for this opportunity.
+
+Accordingly, the Acting OIC reported this to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+Following this, the suspect was invited to the police station, where CIABOC officials arrested him as he attempted to hand over Rs. 50,000 as a bribe.
+
+◼️
+
+[Data](articles/bd911716.json)
+
+[Extended Data](ext_articles/bd911716.ext.json)
+
+---
 
 ### Global South Scholarly Priceship The conversation begins
 
@@ -2313,35 +2335,5 @@ He added that the impacts have been affected by the Divisional Secretariat Divis
 [Data](articles/de749e22.json)
 
 [Extended Data](ext_articles/de749e22.ext.json)
-
----
-
-### அம்புலுவாவ கேபிள் கார்: நீதிமன்றம் அறிவுறுத்தல்
-
-*2024-10-16 15:28:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அம்புலுவாவ-கேபிள்-கார்-நீதிமன்றம்-அறிவுறுத்தல்/76-345563) · `ta`
-
-Ambulawa Cable Car project: Court injunction
-
-
-
-Private company MD Ambur Advancers Ltd filed a writ petition against Divisional Secretary's interference. Court issued interim injunction preventing unnecessary intervention or halt. Order valid until October 29. Petitioner claims illegal interference hinders service development. Attorneys Sanath Wijewardena, Ali Sabri, Shehani Alwis, Namik Nafat represented petitioner.
-
-🟩
-
-தனியார் நிறுவனம் ஒன்றினால் முன்னெடுக்கப்படும் அம்புலுவாவ கேபிள் கார் திட்டத்தில் தேவையற்ற வகையில் தலையிடவோ அல்லது இடைநிறுத்தவோ கூடாது என்று கம்பளை உடபலத்த பிரதேச செயலாளருக்கு மேன்முறையீட்டு நீதிமன்றம் புதன்கிழமை (16) இடைக்கால தடை விதித்துள்ளது.
-
-The bench comprising two appeals court judges M. Lafar and P. Kumararatnam has issued the order.. இந்த இடைக்கால உத்தரவு ஒக்டோபர் 29 ஆம் திகதி வரை அமலில் இருக்கும்.
-
-எம்.டி. அம்பர் அட்வென்ச்சர்ஸ் (பிரைவேட்) லிமிடெட் தாக்கல் செய்த ரிட் மனுவுக்கு இணங்கவே இந்த இடைக்கால உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-The Divisional Secretary's illegal interferes with the petitioner's plan to create, operate and change the cable car project with a 1,621.5 meter robbe.. இது தங்களுடைய சேவையை முன்னெடுப்பதற்கு தடையாக உள்ளதாக மனுதாரர் சுட்டிக்காட்டியுள்ளார்.
-
-At the instructions of Attorney Sanath Wijewardena, President Attorney Ali Sabri and Shehani Alwis and Namik Nafat appeared on behalf of the petitioner.
-
-◼️
-
-[Data](articles/85498b1e.json)
-
-[Extended Data](ext_articles/85498b1e.ext.json)
 
 ---

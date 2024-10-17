@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 15:39:08**
+As of **2024-10-17 15:58:15**
 
 ## Newspaper Stats
 
-*Scraped **49,983** Articles*
+*Scraped **49,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,406
 adalk | 4,650
 dailymirrorlk | 4,733
 adaderanalk | 5,920
-tamilmirrorlk | 6,839
+tamilmirrorlk | 6,840
 virakesarilk | 7,990
 adaderanasinhalalk | 8,659
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,659
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,983 (100.0%) of 49,983 articles have been extended.
+49,984 (100.0%) of 49,984 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,22 @@ The police said that the man had previously revealed that he had previously been
 [Data](articles/4b6bb1af.json)
 
 [Extended Data](ext_articles/4b6bb1af.ext.json)
+
+---
+
+### ”அனுபவம் இன்றி பாராளுமன்றத்தை நடத்த முடியாது”
+
+*2024-10-17 15:13:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுபவம்-இன்றி-பாராளுமன்றத்தை-நடத்த-முடியாது/175-345613) · `ta`
+
+Former President Ranil Wickremesinghe has said that there should be experienced in Parliament to solve the economic crisis.
+
+"கடந்த இரண்டு வருடங்களாக என்னுடன் பணியாற்றியவர்கள் பொருளாதார நெருக்கடிகளை எதிர்கொண்ட அனுபவம் உள்ளவர்கள், எனவே அவர்கள் பாராளுமன்றத்தில் இருக்க வேண்டும். Whether you are the opposition or in the government, you cannot hold parliament without this experience. அதைத் தாண்டி முயற்சித்தால், இலக்குகளை அடைவதில் நீங்கள் தோல்வியடைவீர்கள்" என விக்கிரமசிங்க விசேட அறிக்கை ஒன்றில் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/87c91e65.json)
+
+[Extended Data](ext_articles/87c91e65.ext.json)
 
 ---
 
@@ -2255,25 +2271,5 @@ Several weapons used for stealing their stolen cases were also found.
 [Data](articles/292dafa8.json)
 
 [Extended Data](ext_articles/292dafa8.ext.json)
-
----
-
-### North Gaza hospitals say food, medicines running out as Israel presses offensive
-
-*2024-10-16 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102744/north-gaza-hospitals-say-food-medicines-running-out-as-israel-presses-offensive) · `en`
-
-Palestinian health officials called on Wednesday for a humanitarian corridor to three hospitals in northern Gaza that have come close to collapse as Israeli troops have cut off the area during almost two weeks of heavy fighting against Hamas.
-
-Doctors at the Kamal Adwan, Al-Awda and the Indonesian hospitals have refused to leave their patients despite evacuation orders issued by the Israeli military at the start of a major push into the Jabalia area of northern Gaza 12 days ago.
-
-“We are calling on the international community, the Red Cross and the World Health Organization to play their humanitarian role by opening up a corridor towards our healthcare system,” said Hussam Abu Safiya, director of Kamal Adwan Hospital.
-
-“We are talking about more than 300 medical staff working at Kamal Adwan Hospital, and we can’t provide even a single meal for them to be able to offer medical services safely.”
-
-...
-
-[Data](articles/e97b4c8d.json)
-
-[Extended Data](ext_articles/e97b4c8d.ext.json)
 
 ---

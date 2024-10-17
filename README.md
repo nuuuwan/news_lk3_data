@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 14:58:33**
+As of **2024-10-17 15:10:12**
 
 ## Newspaper Stats
 
@@ -221,6 +221,10 @@ The Marine Environment Protection Authority and French Company have been conduct
 ### The money spent on a voter is announced at the general election
 
 *2024-10-17 12:50:46* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදී--ඡන්ද-දායකයෙකු-වෙනුවෙන්-වියදම්-කළ-හැකි-මුදල්-ප්‍රකාශයට-පත්-කෙරේ/11-412544) · `si`
+
+Elections Commission announces maximum cash limit per voter. Highest cost: Rs. 82 in Vanni district.
+
+🟩
 
 The Elections Commission has published the maximum cash limits that one candidate can cost for one voter.
 

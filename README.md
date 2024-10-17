@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 21:59:16**
+As of **2024-10-17 22:25:46**
 
 ## Newspaper Stats
 
-*Scraped **50,029** Articles*
+*Scraped **50,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,925
 tamilmirrorlk | 6,842
 virakesarilk | 8,006
-adaderanasinhalalk | 8,669
+adaderanasinhalalk | 8,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,029 (100.0%) of 50,029 articles have been extended.
+50,030 (100.0%) of 50,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### A fishing vessel sees
+
+*2024-10-17 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202283) · `si`
+
+Fishing vessel damaged due to strong waves at Kapparathota port. Anchored at Fisheries Harbor.
+
+🟩
+
+A fishery vessel anchouing at the Kapparathota port in Kapparathota port was in danger this afternoon.
+
+මේ දිනවල මුහුදේ පවතින දැඩි රළ ස්වභාවය හේතුවෙන් මෙම ධීවර යාත්‍රාව දියේ ගිලී ඇත.
+
+According to the fishermen, he said that the fishing vessel had severely damaged.
+
+It is reported that the fishing yacht is anchored by the Fisheries Harbor, reports say.
+
+◼️
+
+[Data](articles/01c35d72.json)
+
+[Extended Data](ext_articles/01c35d72.ext.json)
+
+---
 
 ### Development projects in Sri Lanka more through investments, grants, India says
 
@@ -2419,29 +2443,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/d28ddc3d.json)
 
 [Extended Data](ext_articles/d28ddc3d.ext.json)
-
----
-
-### President pays the need for a long-term national program for agriculture
-
-*2024-10-17 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202256) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake emphasizes the need for a comprehensive national agricultural plan. He discusses ongoing ministry projects and rural development initiatives aimed at reducing poverty. The focus is on organizing agriculture under a structured national strategy.
-
-🟩
-
-President Anura Kumara Dissanayake has been speaking at the progress review of the Ministry of Agriculture, Irrigation, Fisheries and Aquatic Resources that the agriculture of the Sri Lankan agriculture should be organized to an organized national plan.
-
-The Presidential Media Unit said he was also discussed at a lengthy discussion on projects implemented in these ministries.
-
-If the President was looking for about the rural development projects so far, the President said that if the government had successfully resolved, it would be a matter of any significance of poverty.
-
-As a result, the main goal of rural development projects should be the abolition of rural poverty, the President added.
-
-◼️
-
-[Data](articles/b7787536.json)
-
-[Extended Data](ext_articles/b7787536.ext.json)
 
 ---

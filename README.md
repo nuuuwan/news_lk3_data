@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 13:59:01**
+As of **2024-10-17 14:25:11**
 
 ## Newspaper Stats
 
-*Scraped **49,971** Articles*
+*Scraped **49,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,26 +15,98 @@ bbccomsinhala | 501
 islandlk | 2,962
 economynextcom | 3,062
 dailyftlk | 3,406
-adalk | 4,648
+adalk | 4,649
 dailymirrorlk | 4,733
 adaderanalk | 5,916
 tamilmirrorlk | 6,838
 virakesarilk | 7,990
-adaderanasinhalalk | 8,654
+adaderanasinhalalk | 8,657
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,971 (100.0%) of 49,971 articles have been extended.
+49,975 (100.0%) of 49,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
 
+### Ranil's special statement
+
+*2024-10-17 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202270) · `si`
+
+Former President's leader Ranil Wickremesinghe said that the new government is the challenge of making 15% of GDP at the new government by 2027, Sri Lanka is the challenge of making 15% of GDP.
+
+◼️
+
+[Data](articles/0cd89e0c.json)
+
+[Extended Data](ext_articles/0cd89e0c.ext.json)
+
+---
+
+### India put India for 46 runs
+
+*2024-10-17 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202269) · `si`
+
+India bowled out for 46 runs on Day 1 of NZ Test match. This is one of the lowest scores in Test cricket history.
+
+🟩
+
+Today is the first day of the first Test match between India and New Zealand.
+
+Batting first India bowled out for 46 runs.
+
+This is a large number of students who have been bowled out for a Test innings in Test innings.
+
+◼️
+
+[Data](articles/7d52f518.json)
+
+[Extended Data](ext_articles/7d52f518.ext.json)
+
+---
+
+### මහා සංඝරත්නයේ ආශිර්වාදය මැද දිලිත් මැතිවරණ සටන අරඹයි
+
+*2024-10-17 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202268) · `si`
+
+Dilith Jayaweera leads Gampaha District candidate campaign, visits temples, receives preferential numbers for upcoming elections.
+
+🟩
+
+The main leader of the Gampaha District candidate entrepreneurship Dilith Jayaweera was first defenses in the Gampaha District today (17).
+
+The leader of the universalized powers, Gampaha District candidate entrepreneur, and the universal powers and the universal powers were also present at the Kandy temples this morning and visiting the Maha Sangha.
+
+They came to the next general election after receiving preferential numbers.
+
+Prince Professor Ven. Kumburugamuwe Vajiragama Ven.
+
+Mr. Dilith Jayaweera and others visited Kelaniya Sri Pannananda Viharaya and visited the Chief Incumbent of the Chief Incumbent Amarapura Saddammind Maha Vihara.
+
+දිලිත් ජයවීර මහතා ඇතුළු පිරිස බියගම බෝධිරුක්ඛාරාමය වෙත පැමිණියේ ඉන් පසුවයි.
+
+◼️
+
+[Data](articles/fef0140e.json)
+
+[Extended Data](ext_articles/fef0140e.ext.json)
+
+---
+
 ### නෞකා 26ක් මෙරට සමුද්‍රය දූෂණයට ලක්කර ඇති බවට අනාවරණයක්
 
 *2024-10-17 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202267) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's marine environment faces severe pollution from 26 ships over the past year, according to the Marine Environment Protection Authority. Recent ship accidents like the New Diamond and Express Pearl have caused significant damage to the coastal ecosystem. The authority reports 115 instances of water pollution observed in the past 12 months, with an estimated 6 million liters of pollutants affecting the water system annually. Measures are being taken to address this issue.
+
+🟩
 
 පසුගිය වසරක කාලය තුළ නෞකා 26ක් විසින් ශ්‍රී ලංකා සාගර කලාපය දූෂණය කර ඇති බව සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය පවසයි.
 
@@ -55,6 +127,24 @@ The Marine Environment Protection Authority and French Company have been conduct
 [Data](articles/72f10458.json)
 
 [Extended Data](ext_articles/72f10458.ext.json)
+
+---
+
+### The money spent on a voter is announced at the general election
+
+*2024-10-17 12:50:46* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදී--ඡන්ද-දායකයෙකු-වෙනුවෙන්-වියදම්-කළ-හැකි-මුදල්-ප්‍රකාශයට-පත්-කෙරේ/11-412544) · `si`
+
+The Elections Commission has published the maximum cash limits that one candidate can cost for one voter.
+
+Accordingly, the Elections Commission commissions Comma Sama Ratnayake said that the highest cost of a voter is Rs.
+
+The Vanni district is the district where one voter is low enough, and the money is Rs. 82.
+
+◼️
+
+[Data](articles/5f8e5e0a.json)
+
+[Extended Data](ext_articles/5f8e5e0a.ext.json)
 
 ---
 
@@ -2211,109 +2301,5 @@ The President Anura Kumara Dissanayake emphasized the need for a target program 
 [Data](articles/4f24e813.json)
 
 [Extended Data](ext_articles/4f24e813.ext.json)
-
----
-
-### “Students should be made full of cognitive”
-
-*2024-10-16 18:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-அறிவாற்றல்-நிறைந்தவர்களாக்க-வேண்டும்/175-345574) · `ta`
-
-"Students should be cognitively enhanced for global relevance. Educational programs must adapt to meet international demands. Focus on science, math, and tech education. Modernize schools and restructure curriculum for better outcomes."
-
-🟩
-
-President Anuragumara Dissanayake said that the future programs for Sri Lanka's education should be prepared in view of global needs.
-
-The President also pointed out that the students should be made intelligent to improve human resources to help Sri Lanka's progress.
-
-The responsibility of creating human resources for the world depends on the educational authorities over the next ten years. The President also pointed out the need to prepare educational programs with a wide view.
-
-The President made this statement while addressing a meeting of the Ministry of Education, Science and Technology held at the Presidential Secretariat today (16).
-
-During the progress review of the Ministries under the patronage of President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya, the five projects implemented by the Ministries of Education, Science and Technology were discussed.
-
-...
-
-[Data](articles/92bca8f5.json)
-
-[Extended Data](ext_articles/92bca8f5.ext.json)
-
----
-
-### President urges education reform to align with global demands for future growth
-
-*2024-10-16 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102743/president-urges-education-reform-to-align-with-global-demands-for-future-growth) · `en`
-
-President Anura Kumara Dissanayake emphasized the need to rebuild Sri Lanka’s education system in alignment with global demands to achieve the country’s educational goals.
-
-He pointed out that children must be equipped with knowledge to improve the nation’s human capital for Sri Lanka’s future progress. The President further highlighted that the responsibility of creating the workforce needed by the world over the next decade falls on education officials, stressing the importance of aligning educational projects with this vision, the President’s Media Division (PMD) stated.
-
-President Anura Kumara Dissanayake made these remarks today (16) during a progress review meeting of the Ministries of Education, Science, and Technology at the Presidential Secretariat.
-
-During the review, chaired by President Dissanayake and Prime Minister Dr. Harini Amarasuriya, there was an extensive discussion on five key projects implemented by the Ministries of Education, Science, and Technology.
-
-...
-
-[Data](articles/8595ab66.json)
-
-[Extended Data](ext_articles/8595ab66.ext.json)
-
----
-
-### Grandpass shooting dead
-
-*2024-10-16 18:31:19* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රෑන්ඩ්පාස්-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-මරුට/11-412535) · `si`
-
-Grandpass shooting: Man killed in attack on three-wheeler near Madampitiya Sustainasana. Police investigating; motive unclear. Colombo Crimes Division involved.
-
-🟩
-
-The Grandpass police say that the man was killed in a shooting targeting a three-wheeler in front of the Madampitiya Sustainasana.
-
-Mohammed Paiser Mohammed Imthad, a resident of Grandpass Mihindna
-
-Police investigations have revealed that a group of people had been shot with a pistol firearm while the deceased was on the target with two other people.
-
-The two others who were with the deceased have not been shot.
-
-Whether a drug and a reason is yet to be ascertained.
-
-The Colombo Crimes Division is also investigated by the shooting. Grandpass police are conducting further investigations.
-
-◼️
-
-[Data](articles/cf1d7600.json)
-
-[Extended Data](ext_articles/cf1d7600.ext.json)
-
----
-
-### Ali Sabri gets into lawyer - takes the first injunction order
-
-*2024-10-16 18:26:22* · [`adalk`](https://www.ada.lk/breaking_news/අලි-සබ්‍රි-නීතිඥ-වැඩට-බහියි---පළමු-තහනම්-නියෝගය-ගනියි/11-412534) · `si`
-
-Court of Appeal issues injunction against cable car project in Sri Lanka, citing lack of protection for the site. Ali Sabri represents the petitioner, seeking to expand the project.
-
-🟩
-
-The Court of Appeal was issued today (16), without obstructing or interfere with the first cable car project in Sri Lanka.
-
-The Court of Appeal has issued the prohibition of the prohibition of the prohibition of the Attorney Appeal, claiming that there is no protection to the site of the Cable Car Project.
-
-Appeal Court Judges Lapar Thaiar and P. The petition was in the face of the Court of Appeal of Kumarantaum.
-
-Gampola Divisional Secretary Dilrurukhi Jayaratne has made the Sri Lanka Tourist Board and Board of Investment as responders filed by the Rajagiriya Amber Advoner.
-
-President Attorney Attorney-at-Law Elephant Sabiru, appearing on behalf of the petitioner, is the first cable car project in the Ambuluwawa area.He said to the court.
-
-The media spokesman said that the media said that the area was infected with the Urban Development Authority.
-
-The President's Counsel asked the court to issue an interim order for the districts of the Gampola Divisional Secretary for the expansion.
-
-...
-
-[Data](articles/ac702c62.json)
-
-[Extended Data](ext_articles/ac702c62.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 03:39:15**
+As of **2024-10-18 03:57:50**
 
 ## Newspaper Stats
 
-*Scraped **50,048** Articles*
+*Scraped **50,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,655
 dailymirrorlk | 4,733
 adaderanalk | 5,928
 tamilmirrorlk | 6,844
-virakesarilk | 8,016
+virakesarilk | 8,017
 adaderanasinhalalk | 8,673
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,048 (100.0%) of 50,048 articles have been extended.
+50,049 (100.0%) of 50,049 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,42 @@ In addition, postal polling will be handed over to the postal work on the 23rd o
 [Data](articles/649d673f.json)
 
 [Extended Data](ext_articles/649d673f.ext.json)
+
+---
+
+### UK - Pakistan Pakistan's 2nd Test match
+
+*2024-10-18 00:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196541) · `ta`
+
+Here's a summary of the cricket match in 200 characters:
+
+
+
+England needs 261 runs to win the 2nd Test against Pakistan. On Day 3, 36 runs were scored for 2 wickets. The match is likely to continue for another two days.
+
+🟩
+
+England's victory in the 2nd Test match between England and Pakistan at Multan Cricket Stadium requires 261 runs.
+
+On Thursday, the 3rd day of the match, 297 runs were scored 36 runs for the loss of 2 wickets at the end of the 3rd day of the match.
+
+The Sound Pope did not lose 21 runs and Joe Root 12 runs.
+
+With the remaining 2 more days in the competition, the match is likely to win.
+
+Pakistan 1st: Everyone lost the game 366 (Kamran Ghulam 118, Saim Ayub 77, Mohammed Rizwan 41, Noman Ali Salman Aha 31, Jeck Leach 114 - 4 Vic.
+
+England 1st: All lost in the game 291 (Ben Tucket 114, Joe Root 34, Sajid Khan 111 - 7 Vic., Noman Ali 101 - 3 wic.)
+
+Pakistan 2nd: All of them lost their share 221 (Salman Aga 63, Saud Shakil 31, Kamran Ghulam 26, Shoeb Bashir 66 - 4 Vic.
+
+England win target 297 runs - 2nd in: 36 - 2 wig.
+
+◼️
+
+[Data](articles/7e4b99e2.json)
+
+[Extended Data](ext_articles/7e4b99e2.ext.json)
 
 ---
 
@@ -2473,33 +2509,5 @@ In addition, the death of his body was carried out by Sudden Death Investigation
 [Data](articles/c8a4900f.json)
 
 [Extended Data](ext_articles/c8a4900f.ext.json)
-
----
-
-### Left shore water supply drainage of Kilinochchi
-
-*2024-10-17 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196476) · `ta`
-
-Kilinochchi Iranamadukulam left shore water supply drainage renovation underway at 35 million rupees. Work aims to improve water supply in Duluzu area, unaffected by nearby projects. Expected completion within two weeks.
-
-🟩
-
-The left shore of the Kilinochchi Iranamadukulam is being carried out at a cost of 35 million rupees.
-
-The renovation work has now been carried out to prevent the water supply in the Duluzu area where the water supply of the water supply of the water supply of the Kilinochchi district, Murasumottai Uriyan Uriyan Periyar Paradhan, is being carried out.
-
-Water irrigation engineer Prakash said that the construction work is being carried out at the cost of Rs 35 million of the Provincial Irrigation Department.
-
-The reconstruction work of the pond has begun after the last minor harvest.
-
-Reconstruction work is being carried out in a manner that is not affected by the Kilinochchi Thiruvaiyaru irrigation project and other water supply activities.
-
-The reconstruction work is to be completed within the next two weeks, the Department of Irrigation has said.
-
-◼️
-
-[Data](articles/a934f054.json)
-
-[Extended Data](ext_articles/a934f054.ext.json)
 
 ---

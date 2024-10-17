@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 11:11:29**
+As of **2024-10-17 11:23:35**
 
 ## Newspaper Stats
 
-*Scraped **49,950** Articles*
+*Scraped **49,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 3,062
 dailyftlk | 3,406
 adalk | 4,646
 dailymirrorlk | 4,733
-adaderanalk | 5,913
-tamilmirrorlk | 6,832
+adaderanalk | 5,914
+tamilmirrorlk | 6,833
 virakesarilk | 7,984
-adaderanasinhalalk | 8,650
+adaderanasinhalalk | 8,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,950 (100.0%) of 49,950 articles have been extended.
+49,953 (100.0%) of 49,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### ”கெஹலியவின் பெயர் நீக்கம்”
+
+*2024-10-17 11:03:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-பெயர்-நீக்கம்/175-345604) · `ta`
+
+"கெஹலியவின் பெயர் நீக்கம்: கொழும்பு, வத்தேகம் கல்வி வலயத்தில் 'கெஹலிய ரம்புக்வெல்ல' பாடசாலை' பெயர் மாற்றம். மாகாண ஆளுநர் அனுமதி. 1996 சுற்றறிக்கை பாடசாலைகளில் பெயர்களை வைப்பதை தடை. இம்யூனோகுளோபுலின் ஊழல் கெஹலிய ஈடுபாடு. பொருத்தமற்ற பெயர் வைப்பது என ஜோசப் ஸ்டாலின் கூறியது."
+
+🟩
+
+கொழும்பு, வத்தேகம கல்வி வலயத்தின் கண்டி, குண்டசாலை பிரிவுக்குட்பட்ட 'கெஹலிய ரம்புக்வெல்ல ஆரம்பப் பாடசாலை' என்ற பெயரை உடனடியாக மாற்றுவதற்கு மத்திய மாகாண ஆளுநர் பேராசிரியர் எஸ்.பி.எஸ்.அபயகோன் நேற்று அனுமதியளித்துள்ளார்.
+
+கண்டியில் உள்ள பாடசாலைகளில் ஊழல் அரசியல்வாதிகளின் பெயர்களை நீக்குமாறு பொதுமக்கள் விடுத்த கோரிக்கையை அடுத்து மாகாண கல்வி திணைக்களத்தின் கட்டமைப்பு குழு இந்த தீர்மானத்தை எடுத்துள்ளது.
+
+இதேவேளை, மினிபே கல்வி வலயமான தெல்தெனிய பிரதேசத்தில் உள்ள பாடசாலைகளின் பெயரை மாற்றவும் ஆளுநர் உத்தரவிட்டுள்ளார்.
+
+முன்னதாக, இலங்கை ஆசிரியர் சங்கத்தின் பொதுச் செயலாளர் ஜோசப் ஸ்டாலின், கல்வி அமைச்சின் 1996 ஆம் ஆண்டு சுற்றறிக்கை உயிருடன் இருக்கும் நபர்களின் பெயரை பாடசாலைகளுக்கு வைப்பதை தடை செய்துள்ளதாக வலியுறுத்தினார்.
+
+சர்ச்சைக்குரிய இம்யூனோகுளோபுலின் கொள்முதல் ஊழலில் கெஹலிய ரம்புக்வெல்ல ஈடுபட்டிருந்த போதிலும், அவரது பெயரை பாடசாலைக்கு வைத்திருப்பது பொருத்தமற்றது என அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/5c2fc860.json)
+
+[Extended Data](ext_articles/5c2fc860.ext.json)
+
+---
+
+### Five schoolgirls who fell ill after receiving HPV vaccine hospitalized
+
+*2024-10-17 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102752/five-schoolgirls-who-fell-ill-after-receiving-hpv-vaccine-hospitalized-) · `en`
+
+Five 12-year-old schoolgirls have been hospitalized after experiencing adverse reactions following the administration of the Human Papilloma Virus (HPV) vaccine, which is given to prevent cervical cancer, at school.
+
+The affected students, all seventh graders of Venivelpitiya Junior College in Anguruwathota, fell ill shortly after receiving the vaccine, the police said.
+
+A team from the Millaniya Medical Officer of Health (MOH) office had vaccinated 26 female students in the school, but five of them soon displayed symptoms including headaches, abdominal pain, and fainting.
+
+The sick students were initially taken to Haltota Regional Hospital by officers from the Millaniya MOH office, where they received emergency treatment. Subsequently, they have been transferred to Horana District Hospital for further treatment.
+
+According to a hospital spokesperson, the students are currently being treated in Ward No. 6 and are in stable condition.
+
+...
+
+[Data](articles/53961c5c.json)
+
+[Extended Data](ext_articles/53961c5c.ext.json)
+
+---
+
+### Chandrika, Ranil, Maithree for ex-Presidentes on the same platform
+
+*2024-10-17 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202264) · `si`
+
+The 45th National Conference of Chartered Targets was held under three presidents yesterday (16).
+
+කොළඹ දී පැවති මෙම සමුළුව සඳහා හිටපු ජනාධිපතිවරුන් වන චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග, මෛත්‍රීපාල සිරිසේන සහ රනිල් වික්‍රමසිංහ යන අය සහභාගී වී සිටියහ.
+
+එම ජාතික සමුළුවේදී හිටපු ජනාධිපතිවරුන් තිදෙනා එකම වේදිකාවක දී ඔවුන්ට ඉදිරිපත් වු ප්‍රශ්නවලට පිළිතුරු ලබාදීම විශේෂත්වයකි.
+
+එහිදි මෙරට දේශපාලන තත්ත්වය සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා මෙසේ අදහස් පළ කළේය.
+
+...
+
+[Data](articles/7b56a35c.json)
+
+[Extended Data](ext_articles/7b56a35c.ext.json)
+
+---
 
 ### Senthil Thondaman launched election campaign in Nuwara Eliya!
 
@@ -2251,91 +2319,5 @@ Ada Derana is recognized as the number one News Brand among Sri Lankans in terms
 [Data](articles/b49d48e2.json)
 
 [Extended Data](ext_articles/b49d48e2.ext.json)
-
----
-
-### The operation enclosed a large scale hunter racket
-
-*2024-10-16 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202244) · `si`
-
-Large-scale wildlife poaching racket busted in Sri Lanka. Suspect arrested, 56kg deer seized. Two firearms recovered. Case ongoing.
-
-🟩
-
-A suspect has been arrested by the wildlife in the Jayarajura, Jayarajura, Mahakudkadawala.
-
-The phase of Wildlife Officers and STF officers joined the Palace on the SLAF Station today (16) have been prepared at the time of the investigation.
-
-The officials were able to raid a season of a large deer to the deer with 56 kg and the body of wild beasts.
-
-Police also seized two superflues stored.
-
-The main suspect, which was conducting the racket, has fled the racket and was arrested by the police.
-
-It has been revealed that the main dealers of the Mahakumbukkadawala government reserved deer, sack, wild boar have been hunting and sold at a high price.
-
-He was arrested by the wildlife officials several months ago and two guns and two guns were found in the event.
-
-Wildlife officials said the case was still being heard.
-
-It has also been revealed that the racketeer is using ammunition guns and hunt forest.
-
-...
-
-[Data](articles/93b80e2c.json)
-
-[Extended Data](ext_articles/93b80e2c.ext.json)
-
----
-
-### The appointment of Shani Abeysekara, who was on the political platform of the national people's power - is not concerned - the United People's Power
-
-*2024-10-16 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196455) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Shani Abeysekara appointed to high police position despite being on United People's Power platform. Critics argue it's a political appointment, questioning his ability to investigate Easter Sunday attacks.
-
-🟩
-
-It is not due to the appointment of a person on the political platform of the national people's power to a higher position. Former United People's Power MP Harshana Rajakaruna said that if Shanani Abeysekera is a senior officer, he should be given justice to the victims of the survival Sunday attacks.
-
-He further stated this at a press conference held at the United People's Power Office in Colombo on Tuesday (15).
-
-Shani Abeeshekara, who was on the political platform of the national people's power, has been given a high post in the police. This is a political appointment. It is irresponsible to make such appointments.
-
-The position of Shani Abeesekera is a senior officer. Accordingly, if he is a senior officer, the appointment of the latest appointment must be taken to reveal the facts of the life -threatening Sunday attacks.
-
-We also expect that he will get righteousness for those who are victims of the survival Sunday attacks with the people.
-
-...
-
-[Data](articles/bfaa73cc.json)
-
-[Extended Data](ext_articles/bfaa73cc.ext.json)
-
----
-
-### Sri Lanka’s Sampath Bank helps finance State Bank of India $750mn loan
-
-*2024-10-16 16:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-sampath-bank-helps-finance-state-bank-of-india-183891/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Sampath Bank said it has joined a 750 million dollar, syndicated loan for the State Bank of India, helping finance one of the largest banks in the region.
-
-Mashreq, was the mandated lead arranger and book runner. Initially launched targeting at 350 million dollars in May 2024, the facility was upsized to 750 million dollars due to strong global interest, Sampath Bank said.
-
-“Our involvement in this syndicated loan aligns with our strategic objectives to enhance our investment portfolio while securing strong returns,” Amal Kirihene, Senior Deputy General Manager, Corporate Banking at Sampath Bank said in a statement.
-
-“Given the current political climate and our expectations of credit growth, this three-year loan offers a promising opportunity for us to lend to a highly reputable institution like SBI.
-
-“Our prior experiences with long-term financing in other regions have equipped us to navigate this commitment with confidence.”
-
-...
-
-[Data](articles/308d86da.json)
-
-[Extended Data](ext_articles/308d86da.ext.json)
 
 ---

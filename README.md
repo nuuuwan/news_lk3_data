@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 15:58:15**
+As of **2024-10-17 16:23:37**
 
 ## Newspaper Stats
 
-*Scraped **49,984** Articles*
+*Scraped **49,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 501
 islandlk | 2,962
 economynextcom | 3,062
 dailyftlk | 3,406
-adalk | 4,650
+adalk | 4,651
 dailymirrorlk | 4,733
-adaderanalk | 5,920
+adaderanalk | 5,921
 tamilmirrorlk | 6,840
 virakesarilk | 7,990
 adaderanasinhalalk | 8,659
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,659
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,984 (100.0%) of 49,984 articles have been extended.
+49,986 (100.0%) of 49,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### 2024 General Election: Maximum spending limit for candidates announced
+
+*2024-10-17 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102761/2024-general-election-maximum-spending-limit-for-candidates-announced) · `en`
+
+The Election Commission of Sri Lanka has issued a circular stipulating the maximum spending limit allowed for each candidate for campaigning purposes during the 2024 General Election.
+
+Accordingly, the maximum expenditure limit allowed for candidates, parties, independent groups and national list candidates have been stipulated based on the district.
+
+All upcoming national elections will be subject to new campaign finance laws that will limit the amount of funding that candidates, political parties and independent groups can spend on their campaigns.
+
+Ahead of the 2024 presidential election which was held is September, the Election Commission had met with various stakeholders to brief them on the legislation and obtain their views and suggestions on establishing the spending limit and how to move forward in implementing the laws.
+
+The parties must submit expenditure reports to the Elections Commission within 21 days of the election results being declared, the notification stated.
+
+...
+
+[Data](articles/76cf70b3.json)
+
+[Extended Data](ext_articles/76cf70b3.ext.json)
+
+---
 
 ### හිටපු බන්ධනාගාර නිලධාරියෙකු අත්අඩංගුවට
 
@@ -65,6 +87,10 @@ The police said that the man had previously revealed that he had previously been
 ### ”அனுபவம் இன்றி பாராளுமன்றத்தை நடத்த முடியாது”
 
 *2024-10-17 15:13:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுபவம்-இன்றி-பாராளுமன்றத்தை-நடத்த-முடியாது/175-345613) · `ta`
+
+Ranil Wickremesinghe emphasizes experience crucial for handling economic crisis in Parliament. He believes those who have faced economic challenges should represent both opposition and government in Parliament to effectively address issues.
+
+🟩
 
 Former President Ranil Wickremesinghe has said that there should be experienced in Parliament to solve the economic crisis.
 
@@ -177,6 +203,28 @@ Further, he urged the President to intervene, stating, “If you are committed t
 [Data](articles/b10cf607.json)
 
 [Extended Data](ext_articles/b10cf607.ext.json)
+
+---
+
+### නවසීලන්තය පන්දු යවන්නන් ඉන්දීය කණ්ඩායම හඬවයි
+
+*2024-10-17 14:07:05* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තය-පන්දු-යවන්නන්-ඉන්දීය-කණ්ඩායම-හඬවයි/9-412546) · `si`
+
+New Zealand bowlers restrict India to 46 runs in the first innings of the test match.
+
+🟩
+
+The competition for the second day of the first Test cricket match between the New Zealand team and the Indian team will be held at Bangalle, India.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම ඉතා අඩු ලකුණු සංඛ්‍යාවකට දවා ගැනීමට නවසීලන්ත පන්දු යවන්නන් සමත් විය.
+
+ඒ අනුව ඉන්දීය කණ්ඩායමට සියලු දෙනා දැවී රැස් කරගත හැකි වූයේ ලකුණු 46ක් පමණයි.
+
+◼️
+
+[Data](articles/4e130454.json)
+
+[Extended Data](ext_articles/4e130454.ext.json)
 
 ---
 
@@ -2223,53 +2271,5 @@ As chefs paraded the cake-mixing ingredients, the rhythmic beat of traditional d
 [Data](articles/23091d8a.json)
 
 [Extended Data](ext_articles/23091d8a.ext.json)
-
----
-
-### Profit-takings by local and foreign investors pep-up share market
-
-*2024-10-16 20:25:00* · [`islandlk`](http://island.lk/profit-takings-by-local-and-foreign-investors-pep-up-share-market/) · `en`
-
-The stock market kicked off on a dull sentiment at the initial stages yesterday but by the middle part of the session it turned positive due to conclusion of profit takings by some local and foreign investors, market analysts said.
-
-Amid those developments both indices moved upwards. All Share Price Index went up by 42.64 points while S and P SL20 index moved up by 10.72 points. Turnover stood at Rs 1.7 billion with three crossings. Those crossings were reported in Dialog where 12.5 million shares crossed; its shares traded at Rs 10.70, JKH 434,000 shares crossed for Rs 84.9 million and its shares price traded at Rs 195.75 and Hemas 500,000 shares crossed for Rs 39.5 million; its shares traded at Rs 79.
-
-...
-
-[Data](articles/eb86f7d8.json)
-
-[Extended Data](ext_articles/eb86f7d8.ext.json)
-
----
-
-### The two robbed the houses abused women
-
-*2024-10-16 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202250) · `si`
-
-Two robbers stole homes, abused women. Police arrested 21-year-old man and his father. Robberies occurred in Dompe, Weliweriya, Malwatthuwa. Suspects interrogated about weapon use, sexual assault claims.
-
-🟩
-
-Police have arrested two of the two who had stolen the items in the area by fearing the people of many areas.
-
-According to the police, the 21-year-old man and a drug addicted to his minor father.
-
-Ada Derana revealed that a robbery of the houses robbed the goods in Dompe, Weliweriya and Malwwathuwa.
-
-The two thieves who entered a house there were a woman in front of his four-year-old child and the husband.
-
-Several police teams have already been Western Province. Investigations have been conducted into the conduct of DIG Rohana Premaratne in charge of the North and the Guidelines of the Gampaha District Superintendent of Police Jagath Rohana.
-
-Two officers and other officials were arrested by the Police OIC of the Malwathuhiripitiya, the OIC of the Malwathuhiripitiya.
-
-The police said that they have also decorated the ninja dress for theft.
-
-Several weapons used for stealing their stolen cases were also found.
-
-...
-
-[Data](articles/292dafa8.json)
-
-[Extended Data](ext_articles/292dafa8.ext.json)
 
 ---

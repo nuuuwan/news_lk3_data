@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 10:12:40**
+As of **2024-10-17 10:24:59**
 
 ## Newspaper Stats
 
-*Scraped **49,942** Articles*
+*Scraped **49,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ bbccomsinhala | 501
 islandlk | 2,962
 economynextcom | 3,062
 dailyftlk | 3,406
-adalk | 4,645
+adalk | 4,646
 dailymirrorlk | 4,733
-adaderanalk | 5,912
+adaderanalk | 5,913
 tamilmirrorlk | 6,832
-virakesarilk | 7,979
-adaderanasinhalalk | 8,649
+virakesarilk | 7,983
+adaderanasinhalalk | 8,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,942 (100.0%) of 49,942 articles have been extended.
+49,949 (100.0%) of 49,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Five sick students hospitalized following HPV vaccine
+
+*2024-10-17 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202263) · `si`
+
+HPV vaccine side effects: Five students hospitalized after receiving the vaccine meant to prevent cervical cancer. The incident occurred at a school in Sri Lanka, where 26 fifth-grade students received the vaccine. Five students were rushed to hospitals due to adverse reactions. Authorities are investigating the matter.
+
+🟩
+
+Five-year-old students have been hospitalized after providing the HPV vaccine to prevent cervical cancer.
+
+Five students were admitted to hospitalized in the seventh year of the Varwehelpitiya Varwehelpitiya Varwehelpitiya.
+
+The vaccine was given to 26 students of the sixth year of the seven year-learning of the school.
+
+Five students have been admitted to the Haltota Regional Hospital by officials of the Millennium Ruds, Abdominal Pathouse, and Thanduna.
+
+They have been transferred to the Horana District Hospital for further treatment at the hospital.
+
+The students are currently receiving treatment at the Nuwara Eliya District No. 6 of the Horana District Hospital.
+
+The police have also lodged a complaint with the instructions of the OIC of Athuruwatota Police Inspector Ananda Silva.
+
+◼️
+
+[Data](articles/b296aa0a.json)
+
+[Extended Data](ext_articles/b296aa0a.ext.json)
+
+---
+
+### Foreign Ministry statement on ensuring safety of Sri Lankans in Middle East
+
+*2024-10-17 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102751/foreign-ministry-statement-on-ensuring-safety-of-sri-lankans-in-middle-east) · `en`
+
+Sri Lanka’s Foreign Ministry says that the escalation of the current conflict in the Middle East has given rise to a critical situation particularly in Lebanon.
+
+Issuing a statement, the Ministry of Foreign Affairs stated that, in view of the significant number of Sri Lankans employed in the region, necessary measures to ensure their safety and security are already being taken through the respective Sri Lanka Missions in those countries.
+
+Necessary instructions to ensure the safety of Sri Lankans will also be provided regularly by the Sri Lanka Missions, it said.
+
+In this context, Sri Lankans living in the Middle East region are requested to pay special attention to these instructions, and act accordingly, the statement added.
+
+...
+
+[Data](articles/c3879765.json)
+
+[Extended Data](ext_articles/c3879765.ext.json)
+
+---
 
 ### 14-year-old child dies
 
@@ -53,6 +103,100 @@ Investigations have revealed that the child had drowning at the time.
 [Data](articles/810e6bfe.json)
 
 [Extended Data](ext_articles/810e6bfe.ext.json)
+
+---
+
+### An elderly man who was injured in an accident
+
+*2024-10-17 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196477) · `ta`
+
+Elderly man injured in motorcycle accident on Basal-Mannar road. Taken to Mannar-Basal Hospital, then transferred to Mannar Hospital. Body examined by Sudden Death Investigation Officer Namasivayam Premkumar.
+
+🟩
+
+An elderly man who was injured in a motorcycle accident
+
+He was traveling in the opposite direction when he was traveling in a bicycle on his house by Basal -Mannar road on the 2nd.
+
+He was taken to the Mannar -Basal Hospital and was transferred to the Mannar Hospital on the third day.
+
+In addition, the death of his body was carried out by Sudden Death Investigation Officer Namasivayam Premkumar and the body was handed over after an anatomical examination.
+
+◼️
+
+[Data](articles/c8a4900f.json)
+
+[Extended Data](ext_articles/c8a4900f.ext.json)
+
+---
+
+### Left shore water supply drainage of Kilinochchi
+
+*2024-10-17 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196476) · `ta`
+
+The left shore of the Kilinochchi Iranamadukulam is being carried out at a cost of 35 million rupees.
+
+The renovation work has now been carried out to prevent the water supply in the Duluzu area where the water supply of the water supply of the water supply of the Kilinochchi district, Murasumottai Uriyan Uriyan Periyar Paradhan, is being carried out.
+
+Water irrigation engineer Prakash said that the construction work is being carried out at the cost of Rs 35 million of the Provincial Irrigation Department.
+
+The reconstruction work of the pond has begun after the last minor harvest.
+
+Reconstruction work is being carried out in a manner that is not affected by the Kilinochchi Thiruvaiyaru irrigation project and other water supply activities.
+
+The reconstruction work is to be completed within the next two weeks, the Department of Irrigation has said.
+
+◼️
+
+[Data](articles/a934f054.json)
+
+[Extended Data](ext_articles/a934f054.ext.json)
+
+---
+
+### Yall. Financial Development Review Meeting for Third Quarter at District Secretariat!
+
+*2024-10-17 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196475) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Third Quarter Financial Development Review at District Secretariat. Purpose: Investigate proper financial management, review improvements. Participants: Additional Government Agent, Planning Director, Chief Engineer, Accountants. Discussion focused on compliance and progress."
+
+🟩
+
+Financial Development Review Meeting for the third quarter. P.
+
+He said the purpose of the meeting was to investigate whether the financial management and restrictions were properly followed and the financial improvement was reviewed and that the financial improvement at the review meeting would be satisfied.
+
+Additional Government Agent (Land), Planning Director, Chief Engineer, Accountant Officers and Officers participated in the discussion.
+
+◼️
+
+[Data](articles/29aba37e.json)
+
+[Extended Data](ext_articles/29aba37e.ext.json)
+
+---
+
+### The struggle against the illegal Tissa Tissa Vihara
+
+*2024-10-17 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/196474) · `ta`
+
+Tamil National People's Front leads protests against illegal Tissa Vihara in Tittitti, demanding its removal.
+
+🟩
+
+Yall. A series of agitations are being carried out against the illegal Tissa Vihara located in Tittitti.
+
+The Tamil National People's Front, along with the people, is continuously engaged in a struggle demanding the removal of the illegal Taiti Tissa Vihara.
+
+◼️
+
+[Data](articles/7a41aa35.json)
+
+[Extended Data](ext_articles/7a41aa35.ext.json)
 
 ---
 
@@ -1464,6 +1608,30 @@ The suspects were produced before the Badulla Magistrate's Court and remanded un
 
 ---
 
+### How oil is cancer
+
+*2024-10-16 18:56:56* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-නිසා-පිළිකා-හැදෙන-හැටි/11-412539) · `si`
+
+Oil consumption linked to cancer risk. Refined, bleached, and deodorized oils may contain harmful trans-fatty acids. Aflatoxins from contaminated coconut products also pose health risks. Public health inspectors play crucial role in monitoring oil quality and safety standards.
+
+🟩
+
+Public Health Inspectors, Sandun Ratnayake pointed out that the removal of oil used in Sri Lanka and cleaning climax cancer is directly affected by the Public Health Inspector.
+
+He points out that the imported oil oil oil is RBBD. (Refined, bleached, and deodorized that is, refinery, bleaching and removal of odor).
+
+Accordingly, transplant, physical and chematic to reflect these oils and repeatedly reintegrated temperatures, the transplant, or trans-fatty acids - TFA, it will cause blood vessel-related diseases.Mentioned.
+
+The public health inspection that the Aflatoxin produced by the fungus manufacturer produced by the fungus manufacturer in use in quality copra or acquisition, the fungus manufacturer is produced by the fungus manufacturer of ashes of copra or acquisition.
+
+...
+
+[Data](articles/61b57286.json)
+
+[Extended Data](ext_articles/61b57286.ext.json)
+
+---
+
 ### බ්‍රික්ස් සමුළුවට ජනපති එක් නොවීම ගැන කනගාටුවෙනවා
 
 *2024-10-16 18:52:19* · [`adalk`](https://www.ada.lk/breaking_news/බ්‍රික්ස්-සමුළුවට-ජනපති-එක්-නොවීම-ගැන-කනගාටුවෙනවා/11-412538) · `si`
@@ -2167,173 +2335,5 @@ Mashreq, was the mandated lead arranger and book runner. Initially launched targ
 [Data](articles/92201899.json)
 
 [Extended Data](ext_articles/92201899.ext.json)
-
----
-
-### 1,000 pigs die in Anuradhapura
-
-*2024-10-16 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196454) · `ta`
-
-Anuradhapura: 1000+ pigs die from unknown virus. All 20 local farms affected. Rapid spread threatens neighboring areas. Vaccines unavailable; veterinarians arranging emergency visits and vaccinations.
-
-🟩
-
-More than 1000 pigs have died of viruses in cattle farms in Anuradhapura district. Thus the farmers are in great tragedy.
-
-Pigs died in two days after being infected with unidentified virus. Viral infection is spreading rapidly. Farmers say they are at risk of spreading other areas if they do not take action to prevent.
-
-There are 20 farms in the area. Vice infection spreads in all of them. More than 200 in 800 pigs on a farm have died. Other farms have died of 60 pigs.Also, hundreds of piglets have died on every farm.
-
-Meanwhile, medications needed to treat viral diseases are not in veterinary offices. However, we have made arrangements to visit the affected pigs and make arrangements to vaccinate pigs that have not yet been viral, said Nuwarakampalatha Central Veterinary Specialist Dr. Prasad Madathu.
-
-◼️
-
-[Data](articles/7e7b76a8.json)
-
-[Extended Data](ext_articles/7e7b76a8.ext.json)
-
----
-
-### Person shot dead in Grandpass
-
-*2024-10-16 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102740/person-shot-dead-in-grandpass) · `en`
-
-A person in a three-wheeler has been shot dead in the Madampitiya area of Grandpass, Colombo the police said.
-
-Police Media Spokesperson DIG Nihal Thalduwa stated that the assailants who arrived the scene in a car had opened fire at the 35-year-old at around 3.00 p.m. this evening (16).
-
-The incident took place near a cemetery in Madampitiya, according to police.
-
-Police mentioned that the deceased, identified as a resident of the Mihijaya Sewana area, had been travelling in the back seat of the three-wheeler, at the time of the shooting.
-
-It has been uncovered during the preliminary investigations that the assailants had carried out the shooting using a pistol.
-
-◼️
-
-[Data](articles/17509b81.json)
-
-[Extended Data](ext_articles/17509b81.ext.json)
-
----
-
-### Shooting Madampiti
-
-*2024-10-16 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202243) · `si`
-
-Here's a 200-character summary:
-
-
-
-Shooting Madampiti: A 35-year-old man was shot dead near Kandatta by police in Grandpass area.
-
-🟩
-
-ත්‍රිරෝද රථයක සිටි පුද්ගලයෙක්ට ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ මාදම්පිටිය, කනත්ත ආසන්නයේදී වෙඩිතබා ඝාතනය කර තිබේ.
-
-The deceased is about 35 years old, police said.
-
-◼️
-
-[Data](articles/01f481ae.json)
-
-[Extended Data](ext_articles/01f481ae.ext.json)
-
----
-
-### Bomb threatens for 10 aircraft in 48 hours
-
-*2024-10-16 16:22:12* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියන්-ගුවන්-යානා-වල-බෝම්බ-බියක්---පැය-48දී-යානා-10ක්-සඳහා-බෝම්බ-තර්ජන-එල්ල-වෙයි/11-412530) · `si`
-
-Indian aircraft bomb threats delay 10 planes over 48 hours; reasons unclear
-
-🟩
-
-The aircraft has delayed or delayed due to threats that there were about 10 Indian aircraft bombs over 48 hours.
-
-Foreign media reports that the bombs of Indian aircraft have been threatened from the Indian aircraft from Monday (14) and the reason for the threat of these is not yet.
-
-◼️
-
-[Data](articles/dae6c684.json)
-
-[Extended Data](ext_articles/dae6c684.ext.json)
-
----
-
-### Earthquake shakes eastern Turkey, no casualties reported
-
-*2024-10-16 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102739/earthquake-shakes-eastern-turkey-no-casualties-reported) · `en`
-
-An earthquake with a magnitude of 5.9 struck eastern Turkey’s Malatya province on Wednesday, the country’s disaster and emergency management authority (AFAD) said, adding that there were no immediate reports of damage or casualties.
-
-AFAD said the quake occurred at 10:46 a.m.(0746 GMT) with its epicentre in the district of Kale, some 40 km (25 miles) east of the city of Malatya.
-
-“Our teams are on alert and field scanning operations are ongoing,” it added.
-
-The quake was also felt in Syria’s Hasakah, Deir al-Zor and Aleppo provinces, the country’s state news agency said.
-
-The European Mediterranean Seismological Centre said the quake had a 6.1 magnitude and was at a depth of 9 km (5.6 miles) below the earth.
-
-◼️
-
-[Data](articles/4f691b3a.json)
-
-[Extended Data](ext_articles/4f691b3a.ext.json)
-
----
-
-### Ada Derana channel exceeds three million subscribers
-
-*2024-10-16 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202242) · `si`
-
-Ada Derana YouTube channel surpasses 3 million subscribers, setting a milestone in Sri Lanka's digital news landscape. The channel offers comprehensive coverage beyond local news, attracting a large audience and reinforcing public trust.
-
-🟩
-
-ප්‍රවෘත්ති වාර්තාකරණයේදී මෙරට සුවහසක් ජනතාව අප කෙරෙහි තැබූ විශ්වාසය යළි යළිත් තහවුරු කරමින් "අද දෙරණ" තවත් කඩඉමක් පසු කර තිබේ.
-
-The first and the first Yutube channel crossed the 3 million Yatube subsidy of 3 million news channels in the country.
-
-It was able to set a decision in the Sri Lanka Digital Newspass space.
-
-Accordingly, the Youtube Channel of the Youtube Channel has been the highest number of youtube channel in Sri Lanka.
-
-"Today, Derana, not only local news, but also available to its subscribers to their subscribers correctly.
-
-In October 2014, Ada Derana channel was introduced to the 'Derana to visit Ada Derana to the online news.
-
-Today, Derana Yutubew channel has exceeded 1.7 billion years of view of the Derana channel.
-
-The news, timely programming programs such as "Ada Derana" were broadcast to the audience to the audience towards the audience.
-
-The number of new subscribers will be transmitted to the Ada Derana YouTube.
-
-...
-
-[Data](articles/b6a71f65.json)
-
-[Extended Data](ext_articles/b6a71f65.ext.json)
-
----
-
-### Sri Lankan attorney Vincent Perera sworn in as new Attorney General of Seychelles
-
-*2024-10-16 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102738/sri-lankan-attorney-vincent-perera-sworn-in-as-new-attorney-general-of-seychelles) · `en`
-
-The new Attorney General of Seychelles, Vincent Perera, was sworn in on Wednesday at State House.
-
-Perera said, “Together with my team, I will pledge that I will be contributing to the best of my abilities to see that the rule of law in this beautiful country is upheld.”
-
-He revealed that “there are changes in the system we operate that I intend to bring through my experience of working in other jurisdictions, so I have to beef up the prosecutors with the necessary skills.”
-
-This will include the necessary training to ensure that they are one step ahead of criminals and that “together we shall ensure that guilt shall not escape, nor innocent suffer,” he said.
-
-The Attorney General’s Office has the mandate of providing the government with legal advice and is the country’s criminal prosecution service. It is also responsible for ensuring legal footing when the government signs international treaties, conventions and agreements as well as other complex contracts the government enters.
-
-...
-
-[Data](articles/023d0134.json)
-
-[Extended Data](ext_articles/023d0134.ext.json)
 
 ---

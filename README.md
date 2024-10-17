@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 22:39:29**
+As of **2024-10-17 23:10:07**
 
 ## Newspaper Stats
 
-*Scraped **50,032** Articles*
+*Scraped **50,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 3,066
 dailyftlk | 3,406
 adalk | 4,655
 dailymirrorlk | 4,733
-adaderanalk | 5,926
-tamilmirrorlk | 6,842
-virakesarilk | 8,006
-adaderanasinhalalk | 8,671
+adaderanalk | 5,928
+tamilmirrorlk | 6,843
+virakesarilk | 8,010
+adaderanasinhalalk | 8,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,032 (100.0%) of 50,032 articles have been extended.
+50,040 (100.0%) of 50,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Israel foreign minister says Hamas leader Sinwar is dead
+
+*2024-10-17 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102768/israel-foreign-minister-says-hamas-leader-sinwar-is-dead) · `en`
+
+Israeli Foreign Minister Israel Katz said on Thursday that Hamas leader Yahya Sinwar has been killed.
+
+“Mass murderer Yahya Sinwar, who was responsible for the massacre and atrocities of October 7, was killed today by IDF soldiers,” Katz said in a statement.
+
+◼️
+
+[Data](articles/5932fb67.json)
+
+[Extended Data](ext_articles/5932fb67.ext.json)
+
+---
+
+### Sri Lanka script history, beat West Indies in T20 series for first time
+
+*2024-10-17 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102767/sri-lanka-script-history-beat-west-indies-in-t20-series-for-first-time) · `en`
+
+Sri Lanka thrashed West Indies by 9 wickets on Thursday (October 17) to take the series by 2-1. Maheesh Theekshana and Wanindu Hasaranga chipped in with 2 wickets each to help the hosts restrict West Indies to 162 runs. In reply, both Kusal Mendis and Kusal Perera brought up magnificent fifties to take the series.
+
+Opting to bat first, West Indies had a terrible start as they were crumbling on 55-4 after the halfway stage, adding some runs to it they lost another and soon became 62-5. This walked in, Gudakesh Motie, who slammed three sixes to uplift West Indies and smashed a quick-fire 32 off 15 balls.
+
+After his departure, captain Rovman Powell too showcased his power hitting skills and he got some timely boundaries to score 37 off 27 balls and help his side finish on 162 on the board.
+
+...
+
+[Data](articles/7d84d805.json)
+
+[Extended Data](ext_articles/7d84d805.ext.json)
+
+---
+
+### Hamas leader dies
+
+*2024-10-17 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202285) · `si`
+
+Hamas leader Zinwar reportedly killed in attack near Jabalia. Israeli army confirms death but location unknown. Incident occurred recently.
+
+🟩
+
+The Israeli army says he believes that Zinwar has died in the joy of Hamas leader from his attack.
+
+They had also inspected a suspicious body to verify that death.
+
+The Israeli Army has not been confirmed yet where the incident took place.
+
+However, they made statements about the death of Syinvar after being attacked north Jabalia and leaving short time.
+
+◼️
+
+[Data](articles/e0e91a20.json)
+
+[Extended Data](ext_articles/e0e91a20.ext.json)
+
+---
+
+### The Sri Lankan team won the series
+
+*2024-10-17 22:23:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தொடரை-கைப்பற்றி-சாதித்தது-இலங்கை-அணி/44-345633) · `ta`
+
+Sri Lanka wins 3-match T20 series 2-1, defeating West Indies 9 wickets in final match. This marks first victory over WI in T20 format.
+
+🟩
+
+Sri Lanka have won by 9 wickets in the third and final T20 cricket match against the West Indies.
+
+With this victory, the Sri Lankan team won the 3-match series 2-1.
+
+The T20 cricket match is considered the first victory against the West Indies in history.R
+
+◼️
+
+[Data](articles/90268105.json)
+
+[Extended Data](ext_articles/90268105.ext.json)
+
+---
 
 ### Sri Lanka to receive USD 1.69 billion in loans within next 3-5 years: Report
 
@@ -114,6 +194,36 @@ It is reported that the fishing yacht is anchored by the Fisheries Harbor, repor
 
 ---
 
+### Progressive Tamil League's support for Democratic Tamil National Alliance - Sadasivam Jupiter
+
+*2024-10-17 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196535) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Progressive Tamil League supports Democratic Tamil National Alliance in Batticaloa district. Leader Sadasivam Judendran cites protecting Tamil representation. Party aims to field candidates in future local and provincial elections.
+
+🟩
+
+The Chief Coordinator of the Progressive Tamil League and former Minister of State for the Progressive Tamil League, Sadasivam Judendran said that he has decided to support the Democratic Tamil National Alliance this time.
+
+He said the decision was taken to protect the representation of Tamils ​​in the Batticaloa district.
+
+The Progressive Tamil League was launched in 2018 with the basic philosophy that the presence of Tamils ​​can be protected by a strong political structure in the Eastern Province.. To date, we are working on that purpose.
+
+We have won two elections because of the fact that unnecessary criticism has been accepted and accepted by creative criticism.
+
+The third election we face in this case is this parliamentary election. We were on the field in this parliamentary election. Unfortunately our nominations were rejected.
+
+...
+
+[Data](articles/76748d8c.json)
+
+[Extended Data](ext_articles/76748d8c.ext.json)
+
+---
+
 ### Development projects in Sri Lanka more through investments, grants, India says
 
 *2024-10-17 21:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102765/development-projects-in-sri-lanka-more-through-investments-grants-india-says) · `en`
@@ -162,6 +272,26 @@ Fanuin Hasaranga (2/24) and Mahine Mesh Shake (2/19) took 2 wickets each.
 
 ---
 
+### Hamas leader Yahya Sinwar killed in Israel's attack?
+
+*2024-10-17 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/196534) · `ta`
+
+Israel claims Hamas leader Yahya Sinwar possibly killed in Gaza attack, but refuses to confirm.
+
+🟩
+
+Israel has said that Hamas organization leader Yahya Sinwar may have been killed in the attack in Gaza.
+
+Israel has said that Yahya Sinwar may have been killed, but refused to confirm this.
+
+◼️
+
+[Data](articles/1ecdf4c3.json)
+
+[Extended Data](ext_articles/1ecdf4c3.ext.json)
+
+---
+
 ### Skin's missing
 
 *2024-10-17 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202281) · `si`
@@ -186,6 +316,28 @@ Kalutara North police officers and residents of the area have been operating in 
 
 ---
 
+### 257 complaints regarding general election - Elections Commission
+
+*2024-10-17 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196533) · `ta`
+
+Elections Commission reports 257 complaints about general election. 181 resolved, 76 pending. All violations of law.
+
+🟩
+
+The Elections Commission said that 257 complaints have been received so far regarding the general election.
+
+In a statement issued by the Election Commission, all the complaints received were violated by the law.
+
+Of the complaints received, 181 complaints have been settled and 76 more complaints are being considered, the announcement said.
+
+◼️
+
+[Data](articles/c3e6256d.json)
+
+[Extended Data](ext_articles/c3e6256d.ext.json)
+
+---
+
 ### 257 complaints regarding general election
 
 *2024-10-17 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202280) · `si`
@@ -205,6 +357,38 @@ The announcement states that 181 complaints have been resolved and 76 complaints
 [Data](articles/b974f2d9.json)
 
 [Extended Data](ext_articles/b974f2d9.ext.json)
+
+---
+
+### First Test: New Zealand scored 46 runs by 134 runs
+
+*2024-10-17 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196532) · `ta`
+
+New Zealand beats India by 134 runs in Bangalore test. Lowest score for India on home turf. Heavy rain delays start. NZ's Conway scores 91. Indian bowlers struggle.
+
+🟩
+
+Bangalore, M. New Zealand, who scored 46 runs in 31.2 overs in the first Test cricket match at the Chinnaswamy Stadium, are 134 runs at the end of the second day's match.
+
+This is the lowest number of Indian team on its own soil in India's 92 -year Test history.
+
+This is the lowest number of 36 runs in 1936 against Australia in 1936 against Australia and 42 runs against England in 1974.
+
+The first day of the Test match, which began on Wednesday, was completely abandoned due to heavy rains.
+
+When the match continued this morning, the second day of the match, India first batted as the first day of the currency cycle.
+
+The second day's game began at 9.30 am as the first day of the game was abandoned.
+
+Indian batsmen, including team captain Rohit Sharma and Virat Kohli, were unable to compensate for the fast bowling of both Med Henry and William O'ruk.
+
+Med Henry, who recorded his 4th 5 wickets in the match, completed 100 Test wickets.
+
+...
+
+[Data](articles/78e3a47d.json)
+
+[Extended Data](ext_articles/78e3a47d.ext.json)
 
 ---
 
@@ -2279,183 +2463,5 @@ Tamil Nadu: Murder case verdict after 24 years. 50-year-old man sentenced to dea
 [Data](articles/ff13fd5c.json)
 
 [Extended Data](ext_articles/ff13fd5c.ext.json)
-
----
-
-### Worse -rift: Risk of economic sanctions on India
-
-*2024-10-17 08:50:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோசமடையும்-விரிசல்-இந்தியாவுக்கு-பொருளாதார-தடை-விதிக்கப்படும்-அபாயம்/175-345601) · `ta`
-
-Canada considers economic sanctions against India over Sikh separatist leader's murder claim.
-
-🟩
-
-இந்தியா மீது பொருளாதார தடை விதிக்க கனடா ஆலோசனை நடத்தி வருவதாக தகவல் வெளியாகியுள்ளது.
-
-கனடாவில் வசித்து வந்த சீக்கிய பிரிவினைவாத காலிஸ்தான் அமைப்பின் தலைவர் ஹர்தீப் சிங் நிஜ்ஜார் கொலையில் இந்தியாவுக்கு தொடர்பு இருப்பதாக, கனடா பிரதமர் ஜஸ்டின் ட்ரூடோ குற்றம் சாட்டினார். India has categorically denied this.
-
-It is reported that Canada is consulting to impose an economic ban on India. (An)
-
-◼️
-
-[Data](articles/49b0bffd.json)
-
-[Extended Data](ext_articles/49b0bffd.ext.json)
-
----
-
-### සී ෂෙල්ස් නව නීතිපති ධුරයට ලාංකිකයෙක්
-
-*2024-10-17 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202260) · `si`
-
-Vincent Perera appointed as new Attorney General of Sri Lanka. Born in Sri Lanka, he holds a law degree from University of Colombo. Previously worked as legal advisor for civil litigation at Attorney General's Department.
-
-🟩
-
-සී ෂෙල්ස්හි නව නීතිපතිවරයා ශ්‍රී ලාංකිකයෙකු වන වින්සන්ට් පෙරේරා දිවුරුම් දී තිබේ.
-
-සී ෂෙල්ස් මාධ්‍ය වාර්තා කළේ ඊයේ (16) දිනයේ දී ඔහු රාජ්‍ය මන්දිරයේ දී නීතිපතිවරයා ලෙස දිවුරුම් දී ඇති බවය.
-
-ශ්‍රී ලංකාවේ උපත ලැබු වින්ස්න්ට් පෙරේරා කොළඹ විශ්වවිද්‍යාලයේ නීතිපති උපාධියක් ලබාගෙන ඇති අතර ශ්‍රේෂ්ඨාධිකරණයේ නීතීඥවරයෙකු ලෙස ද කටයුතු කර තිබේ.
-
-In addition, he has acted as a lawyer and a Solicitor, a Solicitor and a Solicitor.
-
-සී ෂෙල්ස් නිතිපතිවරයා ලෙස පත්වීමට පෙර වින්ස්න්ට් පෙරේරා මහතා සී ෂෙල්ස්හි නීතිපති කාර්යාලයේ සිවිල් නඩු පැවරීමේ නීති උපදේශකයෙකු ලෙස කටයුතු කර තිබේ.
-
-◼️
-
-[Data](articles/bfb1f813.json)
-
-[Extended Data](ext_articles/bfb1f813.ext.json)
-
----
-
-### Man sentenced to death for 2000 homicide in Galle
-
-*2024-10-17 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102749/man-sentenced-to-death-for-2000-homicide-in-galle) · `en`
-
-After a lengthy trial in the Galle High Court, the verdict in a long-standing homicide case has been announced, with the accused being sentenced to death.
-
-The 50-year-old accused, a resident of the Imaduwa area, was convicted for committing homicide on February 6, 2000, by intentionally electrocuting to death a person using an unauthorized electricity connection in the Koratuhenagoda area within the Imaduwa police division.
-
-The death sentence was handed down yesterday (16) following the conclusion of the trial at the Galle High Court.
-
-◼️
-
-[Data](articles/6a692fd0.json)
-
-[Extended Data](ext_articles/6a692fd0.ext.json)
-
----
-
-### මට්ටක්කුලියේ වැඩබලන OICට අල්ලස් දෙන්න ගිය මත්ද්‍රව්‍ය ජාවාරම්කරු
-
-*2024-10-17 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202259) · `si`
-
-Sinhala police arrest suspect offering bribe for alcohol distillation permit
-
-🟩
-
-අල්ලස් ලබාදීමට තැත් කළ පුද්ගලයෙකු මට්ටක්කුලිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-ඊයේ (16) දිනයේ මට්ටක්කුලිය පොලිස් ස්ථානයේ වැඩබලන ස්ථානාධිපතිට පුද්ගලයෙකු විසින් දුරකථන ඇමතුමක් ලබාදී එම පොලිස් බලප්‍රදේශයේ මත්ද්‍රව්‍ය ජාවාරම් සිදුකිරීමට අවස්ථාව දෙන ලෙස ඉල්ලා ඇත.
-
-සැකකරු ඒ සඳහා මසකට රුපියල් 100,000/= ක අල්ලස් මුදලක් ලබා දීමට කැමති බවත් වැඩබලන ස්ථානාධිපතිට පවසා තිබේ.
-
-ඒ අනුව, වැඩබලන ස්ථානාධිපතිවරයා විසින් මේ සම්බන්ධව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව දැනුවත් කර ඇත.
-
-වැඩබලන ස්ථානාධිපතිවරයා සැකකරු පොලිස් ස්ථානයට කැඳවා ඇති අතර එහිදී සැකකරු විසින් රුපියල් 50,000ක මුදලක් වැඩබලන ස්ථානාධිපතිවරයා ලබා දීමට උත්සාහ කිරීමේදී අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් සැකකරු අත්අඩංගුවට ගෙන තිබේ.
-
-අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 50ක් වන මට්ටක්කුලිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-◼️
-
-[Data](articles/3d8d638b.json)
-
-[Extended Data](ext_articles/3d8d638b.ext.json)
-
----
-
-### 3 dead and 4 injured in Mississippi bridge collapse
-
-*2024-10-17 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102748/3-dead-and-4-injured-in-mississippi-bridge-collapse) · `en`
-
-At least three people died and four were critically injured after a Mississippi bridge, in the process of being demolished, collapsed Wednesday afternoon while work was being conducted at the site, authorities said.
-
-The deaths and injuries were confirmed by Simpson County Sheriff Paul Mullins, WLBT-TV reported.
-
-The Simpson County coroner’s office was responding to the scene but did not provide any additional details, WJTV-TV said.
-
-The Mississippi Department of Transportation, in a news release, said the bridge over the Strong River on State Route 149 in Simpson County, about 40 miles (64 kilometers) south of Jackson, has been closed to traffic since Sept. 18 as part of a bridge replacement project handled by contractor T.L. Wallace Construction.
-
-Details of how the accident occurred were not immediately available.
-
-...
-
-[Data](articles/253a50a3.json)
-
-[Extended Data](ext_articles/253a50a3.ext.json)
-
----
-
-### 5 arrested with 16 pound theft jewelry
-
-*2024-10-17 08:23:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-பவுண்-திருட்டு-நகைகளுடன்-5-பேர்-கைது/175-345596) · `ta`
-
-Chavakachcheri police arrest 5 suspects, recover 16 lbs gold jewelry worth Rs 25 lakhs from Thenmarachchi robbery.
-
-🟩
-
-Yall. In Thenmarachchi, the Chavakachcheri police have recovered 16 pounds of gold jewelery worth Rs 25 lakhs and five suspects have been arrested.
-
-On the 10th of this month, the robbers entered a house in the Keruda area under the Chavakachcheri police division and escaped the house of 16 pounds of jewelery and telephone at home.
-
-The husband and wife were found to have theft at home while returning home and had lodged a complaint with the Chavakachcheri police with the source of the security camera.
-
-In this case, the police have arrested five men, including two women and jewelery, who were the suspects on Tuesday.. (A)
-
-◼️
-
-[Data](articles/14e8371c.json)
-
-[Extended Data](ext_articles/14e8371c.ext.json)
-
----
-
-### Mangala Wijesinghe appointed chairman, Export Development Board
-
-*2024-10-17 07:53:00* · [`islandlk`](http://island.lk/mangala-wijesinghe-appointed-chairman-export-development-board/) · `en`
-
-Mangala Wijesinghe, a prominent corporate leader with over 25 years of senior management experience, has been appointed as the new Chairman of the Export Development Board (EDB) of Sri Lanka. His extensive career spans multiple industries, including pharmaceuticals, chemicals, consumer electronics, industrial engineering and telecommunications, in which he has consistently demonstrated ability to drive operational excellence and foster business growth.
-
-In his current role as Cluster Chief Operating Officer – Pharmaceuticals, Consumer & Integrated Engineering Solutions of Brown and Company PLC, Mangala has successfully managed a diversified portfolio of international suppliers while representing globally-renowned brands in Sri Lanka. His reputation for transforming underperforming businesses and steering them towards profitability within short periods has earned him widespread recognition within the business community.
-
-...
-
-[Data](articles/0dc2b585.json)
-
-[Extended Data](ext_articles/0dc2b585.ext.json)
-
----
-
-### Man sentenced to death
-
-*2024-10-17 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202257) · `si`
-
-Man sentenced to death in Galle High Court case. Lengthy trial concludes with capital punishment verdict. Incident occurred in Kotauhenagoda, Imaduwa police division.
-
-🟩
-
-After a lengthy trial in the Galle High Court, the accused have been sentenced to death.
-
-The punishment was sentenced to death in the Kotauhenagoda area in the Imaduwa police Division in the Imaduwa police Division in the Imaduwa police Division.
-
-The police say that the death penalty was punished yesterday after a lengthy trial in the Galle High Court.
-
-◼️
-
-[Data](articles/16bc1eb2.json)
-
-[Extended Data](ext_articles/16bc1eb2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 18:34:53**
+As of **2024-10-17 18:47:57**
 
 ## Newspaper Stats
 
-*Scraped **50,004** Articles*
+*Scraped **50,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 4,651
 dailymirrorlk | 4,733
 adaderanalk | 5,923
 tamilmirrorlk | 6,840
-virakesarilk | 7,998
+virakesarilk | 8,005
 adaderanasinhalalk | 8,665
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,004 (100.0%) of 50,004 articles have been extended.
+50,004 (100.0%) of 50,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### தமிழ் முற்போக்கு கூட்டணியின் வெற்றியை யாராலும் தடுக்க முடியாது - திகாம்பரம்
+
+*2024-10-17 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196526) · `ta`
+
+நான் அரசியலுக்கு வந்து 20 ஆண்டுகள் ஆகின்றன. ராதாகிருஷ்ணன் அரசியலுக்கு வந்து 30 ஆண்டுகள் ஆகின்றன. இதுவரை காலமும் நாம் செய்துள்ள சேவைகளை மக்கள் அறிவார்கள். எனவே எமது வெற்றியை யாராலும் தடுக்க முடியாது என தொழிலாளர் தேசிய சங்கத்தின் தலைவரும் முன்னாள் பாராளுமன்ற உறுப்பினரும் ஐக்கிய மக்கள் சக்தியின் நுவரெலியா மாவட்ட வேட்பாளருமான பழனி திகாம்பரம் தெரிவித்தார்.
+
+தமிழ் முற்போக்கு கூட்டணியின் தேர்தல் பிரசாரக் கூட்டம் அட்டன் கோல்டன் மஹால் மண்டபத்தில் நடைபெற்றபோதே திகாம்பரம் இவ்வாறு தெரிவித்தார்.
+
+தமிழ் முற்போக்கு கூட்டணியின் வேட்பாளர்களான இராதாகிருஷ்ணன், எம்.உதயகுமார் ஆகியோர் கலந்துகொண்ட கூட்டத்தில் அவர் தொடர்ந்து பேசுகையில்,
+
+நடைபெறவுள்ள பாராளுமன்றத் தேர்தல் முக்கியமான ஒன்றாகும். நுவரெலியா  மாவட்டத்தில் தமிழ் பிரதிநிதித்துவத்தை குறைப்பதற்காக எத்தனையோ சுயேச்சைக்  குழுக்கள் களத்தில் இறங்கியுள்ளன. அதேபோல் மக்களுக்கு அறிமுகம் இல்லாதவர்கள் எல்லாம் அரசியல் கட்சிகளில் வேட்பாளர்களாக நிறுத்தப்பட்டுள்ளார்கள்.
+
+...
+
+[Data](articles/c6716d97.json)
+
+---
 
 ### Taxes in several imported merchandise increases
 
@@ -57,6 +75,24 @@ Taxes have also been imposed as a 10% increase in new or more than 10% or Rs. 40
 [Data](articles/ffafe103.json)
 
 [Extended Data](ext_articles/ffafe103.ext.json)
+
+---
+
+### தமிழ் முற்போக்கு கூட்டணி வேட்பாளர்களே நுவரெலியாவில் வெற்றி பெறுவர் - உதயகுமார்
+
+*2024-10-17 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196524) · `ta`
+
+ஜனாதிபதித் தேர்தல்களிலிலும் பாராளுமன்றத்  தேர்தல்களிலும் தமிழ் முற்போக்கு கூட்டணிக்கு ஆதரவு தெரிவிக்கும் வேட்பாளர்களே வெற்றி பெற்று வந்துள்ளார்கள். அந்த வகையில் எதிர்வரும் பாராளுமன்றத் தேர்தலில் நுவரெலியா மாவட்டத்தில் போட்டியிடும் தமிழ் முற்போக்கு கூட்டணி வேட்பாளர்கள் மூன்று பேரும் நிச்சயம் வெற்றி பெறுவார்கள் என தொழிலாளர் தேசிய சங்கத்தின் தலைவரும் ஐக்கிய மக்கள் சக்தியின் நுவரெலியா மாவட்ட வேட்பாளருமான மயில்வாகனம் உதயகுமார் தெரிவித்தார்.
+
+தமிழ் முற்போக்கு கூட்டணியின் தேர்தல் பிரசாரக் கூட்டம் ஹட்டன் செனன் தோட்டத்தில் நடைபெற்றபோதே இவ்வாறு தெரிவித்தார்.
+
+வேட்பாளர்கள் பழனி  திகாம்பரம், வீ. இராதாகிருஷ்ணன் ஆகியோர் கலந்துகொண்ட இக்கூட்டத்தில் அவர் தொடர்ந்து பேசுகையில்,
+
+ஜனாதிபதித் தேர்தல் நடைபெற்ற ஒரு மாதத்துக்குள் பாராளுமன்றத் தேர்தல் நடைபெறுவதால் இது மலையக மக்களைப் பொருத்தவரையில் முக்கியமான ஒரு தேர்தலாகும். வடக்கு,  கிழக்குக்கு வெளியே நுவரெலியா  மாவட்டத்தில்தான் தமிழ் மக்கள் அதிகமாக வாழ்கின்றார்கள்.
+
+...
+
+[Data](articles/2705f774.json)
 
 ---
 
@@ -92,6 +128,36 @@ Shakib was a Member of Parliament in his hometown and was representing former Pr
 
 ---
 
+### 2024 இலங்கைத் தேர்தல்கள் – ஜனரஞ்சக இடதுசாரிகளின் முக்கியமான எழுச்சி
+
+*2024-10-17 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196522) · `ta`
+
+தேர்ந்தெடுக்கப்பட்ட பின்னர் தனது முதல் உரையை ஆற்றிய திஸாநாயக்க, தனது ஆணையின் அளவு மற்றும் "சேர்க்கை" குறித்து தான் உணர்ந்துள்ளதாகவும், செப்ரெம்பர் தேர்தலில் தனக்கு வாக்களிக்காத பிரிவினரை அணுகுவதற்கு தன்னால் முடிந்த அனைத்தையும் செய்வேன் என்றும் அறிவித்தார். திஸாநாயக்கவின் மறுமலர்ச்சி யுகத்தை கொண்டுவருவதாக அளித்த வாக்குறுதி உண்மையாக இருக்க வேண்டுமெனில், இலங்கையில் இன முரண்பாட்டைக் கட்டுக்குள் கொண்டுவருவது என்பது அவர் வெற்றியடைய வேண்டிய ஓர் தீவிரமான பணியாகும்.
+
+◼️
+
+[Data](articles/0b17c5ac.json)
+
+---
+
+### மலையகத்தின் இதயமான நுவரெலியாவில் எமக்கான தமிழ்ப் பிரதிநிதித்துவம் கட்டாய தேவை – மருதபாண்டி ராமேஸ்வரன்
+
+*2024-10-17 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/196519) · `ta`
+
+மலையக மக்களின் அரசியல் இருப்பை தீர்மானிக்கின்ற மிக முக்கிய மாவட்டமே நுவரெலியா மாவட்டமாகும். மலையகத்தின் இதயமெனக் கருதப்படுகின்ற இம்மாவட்டத்தில் எமக்கான தமிழ்ப் பிரதிநிதித்துவமென்பது கட்டாய தேவையாகும். எனவே, மக்களுடன் இருக்கும் எம்மை மக்கள் நிச்சயம் ஆதரிப்பார்கள், ஆணை வழங்குவார்கள் என்ற உறுதியான நம்பிக்கை உள்ளது என்று இ.தொ.காவின் தவிசாளரும் நுவரெலியா மாவட்ட நாடாளுமன்ற தேர்தல் வேட்பாளருமான மருதபாண்டி ராமேஸ்வரன் தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சியின் யானை சின்னத்தின் கீழ் நுவரெலியா மாவட்டத்தில் நாம் தனித்துவமாக களமிறங்கியுள்ளோம். தேசியப் பட்டியலில் எம்மவர்களுக்கே முக்கியத்துவம் வழங்கப்பட்டுள்ளது என்றும் அவர் கூறினார்.
+
+தலவாக்கலை மடக்கும்புர பிரதேசத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு உரையாற்றும்போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+மலையக மக்களின் அரசியல் இருப்பென்பது மிக முக்கியம். எனவே, நடைபெறவுள்ள நாடாளுமன்றத் தேர்தலில் நுவரெலியா மாவட்டத்தில் வாழும் மக்கள் நன்கு சிந்தித்து வாக்களிக்க வேண்டும். நமக்குரிய அரசியல் பிரதிநிதித்துவத்தை பாதுகாத்துக்கொள்ள வேண்டும்.
+
+...
+
+[Data](articles/a4f8e303.json)
+
+---
+
 ### කෙහෙළිය රඹුක්වැල්ල විදුහලින් කෙහෙළියගේ නම ඉවත් කරේ
 
 *2024-10-17 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202276) · `si`
@@ -122,6 +188,26 @@ This College, 1939, S.WR. De Bandaranaike commenced in the name of de Bandaranay
 
 ---
 
+### தமிழ் மக்கள் தமது இருப்பை தக்கவைத்துக்கொள்ள தமிழர்களுக்கே வாக்களிக்க வேண்டும் - மிதிலைச்செல்வி
+
+*2024-10-17 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196518) · `ta`
+
+தமிழ் மக்கள் தமது இருப்பை தக்கவைத்துக்கொள்ள தமிழர்களுக்கே வாக்களிக்க வேண்டும் என தமிழ் மக்கள் கூட்டணியின் யாழ். தேர்தல் மாவட்ட வேட்பாளர் மிதிலைச்செல்வி ஸ்ரீபத்மநாதன் தெரிவித்துள்ளார்.
+
+யாழ். ஊடக அமையத்தில் இன்றைய தினம் வியாழக்கிழமை (17) நடைபெற்ற ஊடக சந்திப்பின்போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+தமிழ் மக்கள் தமது இருப்பை தக்கவைத்துக்கொள்ள தமிழர்களுக்கே வாக்களிக்க வேண்டும். பெரும்பான்மை கட்சிகளுக்கு வாக்களிப்பது மிக ஆபத்தானது.
+
+அதேவேளை பெண்களுக்கு முன்னுரிமை அளிக்கப்பட வேண்டும். கடந்த காலங்களில் இழப்புக்களை பெருமளவில் சந்தித்தது பெண்களே. அவர்களுக்கு உதவ வேண்டும். அவர்களின் வாழ்க்கையில் மாற்றத்தை ஏற்படுத்த வேண்டும் என மேலும் தெரிவித்தார்.
+
+இந்த ஊடக சந்திப்பில் தமிழ் மக்கள் கூட்டணியில் யாழ். தேர்தல் மாவட்டத்தின் முதன்மை வேட்பாளரான சட்டத்தரணி வி. மணிவண்ணன், வேட்பாளர்களான சட்டத்தரணி உமாகரன் இராசையா, வரதராஜா பார்த்திபன் ஆகியோரும் கலந்துகொண்டிருந்தனர்.
+
+◼️
+
+[Data](articles/12662d8b.json)
+
+---
+
 ### Bangladesh crimes tribunal issues arrest warrant for exiled former prime minister
 
 *2024-10-17 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102763/bangladesh-crimes-tribunal-issues-arrest-warrant-for-exiled-former-prime-minister) · `en`
@@ -141,6 +227,36 @@ The tribunal’s proceedings, presided over by Justice Golam Mortuza Majumdar, s
 [Data](articles/57fe2f4f.json)
 
 [Extended Data](ext_articles/57fe2f4f.ext.json)
+
+---
+
+### ஈழ மக்கள் ஜனநாயக கட்சி அலுவலகம் கிளிநொச்சியில் திறப்பு!
+
+*2024-10-17 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/196515) · `ta`
+
+ஈழ மக்கள் ஜனநாயக கட்சியின் அலுவலகம் இன்று வியாழக்கிழமை (17) கிளிநொச்சி தர்மபுரம் பகுதியில் திறந்துவைக்கப்பட்டது.
+
+ஈழ மக்கள் ஜனநாயகக் கட்சியின் செயலாளர் நாயகம் டக்ளஸ் தேவானந்தாவால் இந்த கட்சி அலுவலகம் திறந்துவைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ab65ed66.json)
+
+---
+
+### வட்டுக்கோட்டையில் கசிப்புடன் ஒருவர் கைது!
+
+*2024-10-17 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196514) · `ta`
+
+வட்டுக்கோட்டை பொலிஸ் பிரிவுக்குட்பட்ட அராலி பகுதியில் கசிப்புடன் சந்தேக நபரொருவர் இன்று வியாழக்கிழமை (17) கைது செய்யப்பட்டுள்ளார்.
+
+அராலித்துறை பகுதியில் நீண்ட நாட்களாக இந்த நபர் கசிப்பு விற்பனையில் ஈடுபட்டுவருவதாக இரகசிய தகவல் பொலிஸாருக்கு கிடைக்கப்பெற்றதன் அடிப்படையிலேயே இந்த நபர் கைது செய்யப்பட்டுள்ளார்.
+
+மேலதிக விசாரணைகளின் பின்னர், சந்தேக நபரை மல்லாகம் நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றன.
+
+◼️
+
+[Data](articles/cc2eb63b.json)
 
 ---
 
@@ -2255,125 +2371,5 @@ The event was organised by the International Food Policy Research Institute (IFP
 [Data](articles/ee88f798.json)
 
 [Extended Data](ext_articles/ee88f798.ext.json)
-
----
-
-### Sri Lankan Ambassador in Warsaw virtually meets Polish author who wrote children’s book on Sri Lanka
-
-*2024-10-17 01:06:34* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-in-Warsaw-virtually-meets-Polish-author-who-wrote-children-s-book-on-Sri-Lanka/56-768070) · `en`
-
-A  virtual meeting was held recently between the Ambassador of Sri Lanka to Poland Priyangika Dharmasena and the author of the Polish children’s book “Good morning Sri Lanka! Mela Melulu in the bedazzling country” Kasia Szulik.
-
-The discussion was aimed to look into the possibility of reaching out to Polish travellers and families to visit Sri Lanka through the book, which portrays, the beauty and the uniqueness of the country through a narrative set in Sri Lanka. In the book, the imaginative adventures of a girl named “Mela Melulu” with her friends, journey,  through Sri Lanka, exploring the wonders of the country.
-
-Poland is in the top 12 source countries for visitors to Sri Lanka and the country is anticipating over 35,000 tourists from Poland by the end of this year.
-
-◼️
-
-[Data](articles/97a7c2d1.json)
-
-[Extended Data](ext_articles/97a7c2d1.ext.json)
-
----
-
-### Sri Lankan Ambassador to Saudi Arabia calls on Saudi Deputy Minister of Interior
-
-*2024-10-17 01:05:39* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-to-Saudi-Arabia-calls-onSaudi-Deputy-Minister-of-Interior/56-768069) · `en`
-
-Kingdom of Saudi Arabia Deputy Minister of Interior Dr. Nasser bin Abdulaziz Al-Dawood received Sri Lankan Ambassador to Saudi Arabia Omar Lebbe Ameer Ajwad at the Headquarters of the Ministry of Interior in Riyadh, on 8 October 2024.
-
-Extending a warm welcome to the Ambassador, the Deputy Minister wished him a fruitful stay in the Kingdom. He also expressed his appreciation for the cooperation and contribution extended by the Sri Lankan community living in Saudi Arabia to maintain peace and prosperity in the Kingdom, and assured his support to further enhance bilateral cooperation between the two countries.
-
-...
-
-[Data](articles/d6033073.json)
-
-[Extended Data](ext_articles/d6033073.ext.json)
-
----
-
-### Embassy of Sri Lanka in Jordan launches new official website
-
-*2024-10-17 01:00:56* · [`dailyftlk`](https://www.ft.lk/news/Embassy-of-Sri-Lanka-in-Jordan-launches-new-official-website/56-768068) · `en`
-
-The Embassy of Sri Lanka in Jordan launched its new official website, marking an important milestone in the Embassy’s activities.
-
-The new website, launched on 14 October 2024, will enable the Embassy to acquire more visibility and improve its information flow.
-
-It intends to provide the Embassy stakeholders and the public with a user-friendly interface to browse the Embassy’s services and functions as well as information about Sri Lanka tourism, trade, and investment opportunities.
-
-The new website provides access to “Consular and Visa services”; “Labour Welfare”; “Economy- Trade, Investment, and Tourism”; “News/Media releases”; “Tender notices”; information about Sri Lanka, the Embassy, and bilateral relations, and it also facilitates individuals to register with the Embassy.
-
-Amongst other features, the site contains integrated social media buttons linking the Embassy’s official Facebook page, YouTube channel, and X pages to foster communication with the public.
-
-...
-
-[Data](articles/7add2597.json)
-
-[Extended Data](ext_articles/7add2597.ext.json)
-
----
-
-### Sri Lankan Embassy in Romania celebrates diversity at 2024 Asia Cultural Festival
-
-*2024-10-17 00:59:58* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Embassy-in-Romania-celebrates-diversity-at-2024-Asia-Cultural-Festival/56-768067) · `en`
-
-The Sri Lankan Embassy in Romania participated in the second edition of the Asia Cultural Festival, 2024, themed “Celebrating Asian Diversity.” Held at the esteemed “Dimitrie Gusti” National Village Museum, the festival was organised by the Asia Group of Embassies in Bucharest and highlighted the rich cultural heritage of Asian nations.
-
-This vibrant festival served as a platform for participants to showcase their unique cultures and foster a sense of togetherness among visitors. Attendees were invited to immerse themselves in a variety of cultural experiences, from traditional music and dance performances to exquisite culinary delights that tantalised their taste buds. The event was a true celebration of the richness of Asian cultures, promoting understanding and appreciation among diverse communities.
-
-...
-
-[Data](articles/d4745102.json)
-
-[Extended Data](ext_articles/d4745102.ext.json)
-
----
-
-### Lankan envoy in Belgium meets with VIVES University students prior to their visit to Sri Lanka
-
-*2024-10-17 00:57:01* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Belgium-meets-with-VIVES-University-students-prior-to-their-visit-to-Sri-Lanka/56-768066) · `en`
-
-Sri Lankan Ambassador to Belgium Chandana Weerasena briefed a group of 23 final-year university students of the Tourism and Recreation Management Program of the VIVES University in Bruges, Belgium, prior to their departure to Sri Lanka for a field trip.
-
-The field trip is a part of their study program. West-Flanders region in Belgium Governor Carl Decaluwe, Bruges Mayor Dirk De Fauw; the Rector and several other senior staff members joined the briefing.
-
-The Ambassador and other distinguished guests also witnessed the culinary talents of the international students at the Flanders Culinary Arts Centre of VIVES University. The Embassy and the VIVES University are working towards organising a Sri Lankan culinary session at the Flanders Culinary Arts Centre of the University.
-
-...
-
-[Data](articles/1594be9e.json)
-
-[Extended Data](ext_articles/1594be9e.ext.json)
-
----
-
-### Sri Lankan Ambassador meets Bahrain’s Minister of Information
-
-*2024-10-17 00:53:47* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-meetsBahrain-s-Minister-of-Information/56-768065) · `en`
-
-Sri Lankan Ambassador to the Kingdom of Bahrain H.M.G.R.R.K. Wijeratne Mendis paid a courtesy call on Kingdom of Bahrain Minister of Information Dr. Ramzan bin Abdullah Al Nuaimi with a view to further enhancing the strong ties between the two countries.
-
-During the meeting, Minister Al Nuaimi expressed his appreciation for the flourishing relations between Bahrain and Sri Lanka, emphasising the mutual commitment to expanding bilateral cooperation in various sectors of common interest. He extended his best wishes to Ambassador Wijeratne Mendis in her diplomatic role and expressed confidence in her efforts to contribute significantly to strengthening the partnership between the two countries.
-
-...
-
-[Data](articles/52e92e1e.json)
-
-[Extended Data](ext_articles/52e92e1e.ext.json)
-
----
-
-### Why, despite my best efforts, I cannot be happy for the NPP win
-
-*2024-10-17 00:39:06* · [`dailyftlk`](https://www.ft.lk/opinion/Why-despite-my-best-efforts-I-cannot-be-happy-for-the-NPP-win/14-768064) · `en`
-
-Federalism or devolution of power isn’t just for the north and east of Sri Lanka but for ALL of Sri Lanka to be governed in a sensibly decentralised, efficient and representative manner. It is this conversation that we need to revive and rebuild in Sri Lanka today if we are to undo this fundamental flaw that makes it so this country cannot be equally claimed by all its citizens and the minorities remain second class citizens
-
-...
-
-[Data](articles/47343ec0.json)
-
-[Extended Data](ext_articles/47343ec0.ext.json)
 
 ---

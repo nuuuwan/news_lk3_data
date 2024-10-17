@@ -1,36 +1,144 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 08:59:11**
+As of **2024-10-17 09:24:24**
 
 ## Newspaper Stats
 
-*Scraped **49,930** Articles*
+*Scraped **49,937** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 402
-colombotelegraphcom | 495
+colombotelegraphcom | 496
 bbccomsinhala | 501
 islandlk | 2,962
 economynextcom | 3,060
 dailyftlk | 3,406
-adalk | 4,644
+adalk | 4,645
 dailymirrorlk | 4,733
 adaderanalk | 5,911
-tamilmirrorlk | 6,829
+tamilmirrorlk | 6,831
 virakesarilk | 7,979
-adaderanasinhalalk | 8,645
+adaderanasinhalalk | 8,648
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-49,928 (100.0%) of 49,930 articles have been extended.
+49,937 (100.0%) of 49,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Global South Scholarly Priceship The conversation begins
+
+*2024-10-17 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202261) · `si`
+
+Here's a 200-character summary:
+
+
+
+Global South Scholarly Cluster: Beijing meeting promotes peace, development, security. 76 countries represented. Theme: Building a prosperous world together. Chinese Media Group facilitates dialogue between China and Global South nations.
+
+🟩
+
+The global southern scholarly cluster conversation was started in Beijing yesterday.
+
+නුදුරේදී ඇරඹෙන 2024 බ්‍රික්ස් රටවල නායක සමුළුව නිමිත්තෙන්, එය පැවැත්වෙයි.
+
+චීන කොමියුනිස්ට් පක්ෂයේ මධ්‍යම කාරක සභාවේ විදේශ සබඳතා දෙපාර්තමේන්තුවේ හා චීන මාධ්‍ය සමූහය එක්ව එය සංවිධාන කර තිබේ.
+
+"සාමය, සංවර්ධනය, ආරක්ෂාව සමග, පොදු ඉරණමක් සහිත සමෘද්ධිමත් ලෝකයක් එක්ව ගොඩනැගීම" එහි තේමාව ය.
+
+චීන කොමියුනිස්ට් පක්ෂයේ මධ්‍යම කාරක සභාවේ විදේශ සබඳතා දෙපාර්තමේන්තුවේ අමාත්‍ය Liu Jianchao මහතා, චීන කොමියුනිස්ට් පක්ෂයේ මධ්‍යම කාරක සභාවේ ප්‍රචාරක දෙපාර්තමේන්තුවේ උප ප්‍රධානී, චීන මාධ්‍ය සමූහයේ අධ්‍යක්ෂ ‍ජනරාල් Shen Haixiong මහතා, වීඩියෝ ඔස්සේ එහිදී දේශන සිදු කළහ.
+
+The government representatives, government representatives, scholar and media representatives of 76 countries were joined in online and non-online ways.
+
+Shene Haixiong pointed out that the Chinese Media Group is exchanged between China and the "global southern" countries, conversations.
+
+...
+
+[Data](articles/bf244b71.json)
+
+[Extended Data](ext_articles/bf244b71.ext.json)
+
+---
+
+### 24 வருடங்களுக்குப் பின் கிடைத்த கொடூர தண்டனை
+
+*2024-10-17 08:59:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-வருடங்களுக்குப்-பின்-கிடைத்த-கொடூர-தண்டனை/175-345602) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil Nadu: Murder case verdict after 24 years. 50-year-old man sentenced to death for murder in Imayam police station area in 2000. Case concluded yesterday after lengthy trial in Kallidaikurichi court.
+
+🟩
+
+காலி மேல் நீதிமன்றில் இடம்பெற்ற நீண்ட விசாரணைகளின் பின் கொலைவழக்கு ஒன்றின் தீர்ப்பு அறிவிக்கப்பட்டுள்ளது.
+
+கடந்த 2000ஆம் ஆண்டு பெப்ரவரி மாதம் 6ஆம் திகதி இமதுவ பொலிஸ் பிரிவுக்குட்பட்ட கொரட்டுஹேனகொட பிரதேசத்தில் இடம்பெற்ற கொலைச்சம்பவம் தொடர்பில், இமதுவ பகுதியைச் சேர்ந்த 50 வயதுடைய நபருக்கு மரண தண்டனை விதிக்கப்பட்டது.
+
+காலி மேல் நீதிமன்றில் இடம்பெற்ற வழக்கு விசாரணைகள் நிறைவடைந்ததை அடுத்து நேற்று (16) மரண தண்டனை விதிக்கப்பட்டது. R
+
+◼️
+
+[Data](articles/ff13fd5c.json)
+
+[Extended Data](ext_articles/ff13fd5c.ext.json)
+
+---
+
+### Worse -rift: Risk of economic sanctions on India
+
+*2024-10-17 08:50:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோசமடையும்-விரிசல்-இந்தியாவுக்கு-பொருளாதார-தடை-விதிக்கப்படும்-அபாயம்/175-345601) · `ta`
+
+Canada considers economic sanctions against India over Sikh separatist leader's murder claim.
+
+🟩
+
+இந்தியா மீது பொருளாதார தடை விதிக்க கனடா ஆலோசனை நடத்தி வருவதாக தகவல் வெளியாகியுள்ளது.
+
+கனடாவில் வசித்து வந்த சீக்கிய பிரிவினைவாத காலிஸ்தான் அமைப்பின் தலைவர் ஹர்தீப் சிங் நிஜ்ஜார் கொலையில் இந்தியாவுக்கு தொடர்பு இருப்பதாக, கனடா பிரதமர் ஜஸ்டின் ட்ரூடோ குற்றம் சாட்டினார். India has categorically denied this.
+
+It is reported that Canada is consulting to impose an economic ban on India. (An)
+
+◼️
+
+[Data](articles/49b0bffd.json)
+
+[Extended Data](ext_articles/49b0bffd.ext.json)
+
+---
+
+### සී ෂෙල්ස් නව නීතිපති ධුරයට ලාංකිකයෙක්
+
+*2024-10-17 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202260) · `si`
+
+Vincent Perera appointed as new Attorney General of Sri Lanka. Born in Sri Lanka, he holds a law degree from University of Colombo. Previously worked as legal advisor for civil litigation at Attorney General's Department.
+
+🟩
+
+සී ෂෙල්ස්හි නව නීතිපතිවරයා ශ්‍රී ලාංකිකයෙකු වන වින්සන්ට් පෙරේරා දිවුරුම් දී තිබේ.
+
+සී ෂෙල්ස් මාධ්‍ය වාර්තා කළේ ඊයේ (16) දිනයේ දී ඔහු රාජ්‍ය මන්දිරයේ දී නීතිපතිවරයා ලෙස දිවුරුම් දී ඇති බවය.
+
+ශ්‍රී ලංකාවේ උපත ලැබු වින්ස්න්ට් පෙරේරා කොළඹ විශ්වවිද්‍යාලයේ නීතිපති උපාධියක් ලබාගෙන ඇති අතර ශ්‍රේෂ්ඨාධිකරණයේ නීතීඥවරයෙකු ලෙස ද කටයුතු කර තිබේ.
+
+In addition, he has acted as a lawyer and a Solicitor, a Solicitor and a Solicitor.
+
+සී ෂෙල්ස් නිතිපතිවරයා ලෙස පත්වීමට පෙර වින්ස්න්ට් පෙරේරා මහතා සී ෂෙල්ස්හි නීතිපති කාර්යාලයේ සිවිල් නඩු පැවරීමේ නීති උපදේශකයෙකු ලෙස කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/bfb1f813.json)
+
+[Extended Data](ext_articles/bfb1f813.ext.json)
+
+---
 
 ### Man sentenced to death for 2000 homicide in Galle
 
@@ -47,6 +155,34 @@ The death sentence was handed down yesterday (16) following the conclusion of th
 [Data](articles/6a692fd0.json)
 
 [Extended Data](ext_articles/6a692fd0.ext.json)
+
+---
+
+### මට්ටක්කුලියේ වැඩබලන OICට අල්ලස් දෙන්න ගිය මත්ද්‍රව්‍ය ජාවාරම්කරු
+
+*2024-10-17 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202259) · `si`
+
+Sinhala police arrest suspect offering bribe for alcohol distillation permit
+
+🟩
+
+අල්ලස් ලබාදීමට තැත් කළ පුද්ගලයෙකු මට්ටක්කුලිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (16) දිනයේ මට්ටක්කුලිය පොලිස් ස්ථානයේ වැඩබලන ස්ථානාධිපතිට පුද්ගලයෙකු විසින් දුරකථන ඇමතුමක් ලබාදී එම පොලිස් බලප්‍රදේශයේ මත්ද්‍රව්‍ය ජාවාරම් සිදුකිරීමට අවස්ථාව දෙන ලෙස ඉල්ලා ඇත.
+
+සැකකරු ඒ සඳහා මසකට රුපියල් 100,000/= ක අල්ලස් මුදලක් ලබා දීමට කැමති බවත් වැඩබලන ස්ථානාධිපතිට පවසා තිබේ.
+
+ඒ අනුව, වැඩබලන ස්ථානාධිපතිවරයා විසින් මේ සම්බන්ධව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව දැනුවත් කර ඇත.
+
+වැඩබලන ස්ථානාධිපතිවරයා සැකකරු පොලිස් ස්ථානයට කැඳවා ඇති අතර එහිදී සැකකරු විසින් රුපියල් 50,000ක මුදලක් වැඩබලන ස්ථානාධිපතිවරයා ලබා දීමට උත්සාහ කිරීමේදී අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 50ක් වන මට්ටක්කුලිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/3d8d638b.json)
+
+[Extended Data](ext_articles/3d8d638b.ext.json)
 
 ---
 
@@ -309,6 +445,22 @@ The Meteorology Department requests the public to take necessary steps to reduce
 [Data](articles/0cdfca68.json)
 
 [Extended Data](ext_articles/0cdfca68.ext.json)
+
+---
+
+### Challenges Faced By The New Government
+
+*2024-10-17 03:06:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/challenges-faced-by-the-new-government/) · `en`
+
+A delegation of International Monetary Fund (IMF) headed by Krishna Srinivasan, Director for the Asia Pacific Department, visited Sri Lanka to hold discussions with the new government of Sri Lanka. The following was stated by Srinivasan according to the  statement issued by the IMF on October4, 2024.
+
+“We held productive discussions with President Dissanayake and Sri Lanka’s economic team on the economic and financial challenges facing the Sri Lankan economy. We agreed on the importance of continuing to safeguard and build on the hard-won gains that have helped put Sri Lanka on a path to economic recovery since entering one of its worst economic crises in 2022. We are encouraged by the authorities’ commitment to continue the reform efforts.”
+
+...
+
+[Data](articles/cb23867b.json)
+
+[Extended Data](ext_articles/cb23867b.ext.json)
 
 ---
 
@@ -1217,6 +1369,32 @@ The suspects were produced before the Badulla Magistrate's Court and remanded un
 [Data](articles/e01407b0.json)
 
 [Extended Data](ext_articles/e01407b0.ext.json)
+
+---
+
+### බ්‍රික්ස් සමුළුවට ජනපති එක් නොවීම ගැන කනගාටුවෙනවා
+
+*2024-10-16 18:52:19* · [`adalk`](https://www.ada.lk/breaking_news/බ්‍රික්ස්-සමුළුවට-ජනපති-එක්-නොවීම-ගැන-කනගාටුවෙනවා/11-412538) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's president not attending BRICS summit causes concern. Iran's presidential candidate emphasizes importance of joining BRICS due to global changes.
+
+🟩
+
+බ්‍රික්ස් සමුළුවට (BRICS Summit) රටක් ලෙස සහභාගී විය යුතු බවත්, ඊට රටේ ජනාධිපතිවරයා සහභාගී නොවීමට තීරණය කිරීම පිළිබඳ කනගාටු වන බවත්, සමගි ජන බලවේගයේ මහ මැතිවරණ අපේක්ෂක ඉරාන් වික්‍රමරත්න මහතා පැවසීය.
+
+ලෝකයේ යම්කිසි පරිවර්තනයන් වන බැවින් මෙවැනි සමුළුවලට සහභාගී වී එහි සාමාජිකත්වය ගැනීම වැදගත් බව ඊයේ (16දා) කොළඹ සමගි ජන සන්ධාන කාර්යාලයේ පැවති මාධ්‍ය හමුවකට සහභාගී වෙමින් හෙතෙම සඳහන් කළේය.
+
+“බ්‍රික්ස් සමුළුව (BRICS Summit) තියෙනවා. බ්‍රික්ස් කියන්නේ බ්‍රසීලය, රුසියාව, ඉන්දියාව, චීනය සහ දකුණු අප්‍රිකාව යන රටවල් ඒකාබද්ධ වෙලා තියෙනවා. In the world, big changes are going on. ඒ වෙනස්වීම් විදේශ ප්‍රතිපත්ති හරහා හඳුනාගෙන අපි එතනට යන්න ඕනි. So the BRICS made in 5 countries in the 5 countries around the world. ඒ වගේම දළ දේශීය නිෂ්පාදකය දිහා බැලුවොත්, ආර්ථික ශක්තිය දිහා බැලුවොත් ලෝකයෙන්ම දළ දේශීය නිෂ්පාදනයෙන් ඒක 30%ක් වෙනවා. තව විදියකට කියන්න පුළුවන් ජී 7 කියලා රටවල් තියෙනවා. ඒ කියන්නේ බටහිර ලෝකයේ රටවල්, ශක්තිමත්ම ආර්ථිකයන්. These BRICS countries are as large as these economies.
+
+...
+
+[Data](articles/969c7906.json)
+
+[Extended Data](ext_articles/969c7906.ext.json)
 
 ---
 
@@ -2159,171 +2337,5 @@ The information is yet to be reported so far regarding the earthquake or propert
 [Data](articles/cbd4ea6c.json)
 
 [Extended Data](ext_articles/cbd4ea6c.ext.json)
-
----
-
-### Pakistan High Commission to provide relief assistance to flood victims
-
-*2024-10-16 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196449) · `ta`
-
-Pakistan High Commission provides aid to 650 flood-hit families in Sri Lanka, distributing food at Al-Nooria School Complex on October 15 as part of its humanitarian relief efforts.
-
-🟩
-
-About 650 families affected by the recent floods in Kokamulla, Megoda, Kolonnawa area crossed the race, caste or religion and supplied food items at the Al -Nooria School Complex on October 15 by Fahim -ul -Aziz, Pakistan's High Commissioner.
-
-This effort was part of Pakistan's humanitarian relief program for people affected by natural disasters in Sri Lanka.
-
-◼️
-
-[Data](articles/5b709ba3.json)
-
-[Extended Data](ext_articles/5b709ba3.ext.json)
-
----
-
-### Police seek public assistance to identify a dead person
-
-*2024-10-16 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202239) · `si`
-
-Police seeking help identifying unidentified body found in Homagama. Body at hospital morgue for autopsy. Public urged to contact specified phone numbers with any information.
-
-🟩
-
-A complaint was lodged at Homagama at Homagama on 01 September, 2024.10.2010.
-
-The Homagama Magistrate's Court was reported to the Homagama Magistrate's Court and a magisterial inquiry.
-
-The remains were placed at the Homagama hospital morgue for the post mortem.
-
-The identity of the deceased has not yet been established, police say the tall is a normal body of five feet. However, the body is unable to identify, the police said.
-
-The police urge the public to inform the following telephone numbers to the following telephone numbers.
-
-◼️
-
-[Data](articles/8a9f4334.json)
-
-[Extended Data](ext_articles/8a9f4334.ext.json)
-
----
-
-### Ceylon Workers Congress
-
-*2024-10-16 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196444) · `ta`
-
-Ceylon Workers Congress launches election campaign in Nuwara Eliya district. Key figures attend temple ceremony, including former MP Maruthapandi Rameshwaran and Deputy National Organizer Rajamani Prasad. Candidates include General Secretary Jeevan Thondaman and National Organizer Palani Sakthivel.
-
-🟩
-
-The campaign of the Ceylon Workers Congress, which is contesting the elephant symbol in the Nuwara Eliya district, has been launched today (16) with temple worship.
-
-The meeting was held following the ceremony at the Sri Muthu Vinayagar Temple, Kotagala, led by Maruthapandi Rameshwaran, a member of the Ceylon Workers Congress and former Member of Parliament.
-
-Rajamani Prasad, Deputy National Organizer of the Ceylon Workers Congress (Political Division) and former Chairman of Kotagala Pradeshiya Sabha, former Vice Chairperson, Members, Political Organizers, Temple Council, Traders and Commonwealth were present.
-
-It is worth noting that its general secretary Jeevan Thondaman, Chairman Maruthabandi Rameshwaran and National Organizer Palani Sakthivel were the candidates of the Ceylon Workers Congress.
-
-◼️
-
-[Data](articles/d6ab7a77.json)
-
-[Extended Data](ext_articles/d6ab7a77.ext.json)
-
----
-
-### Mannar Fossils: Special Command
-
-*2024-10-16 14:57:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-புதைக்குழிகள்-விசேட-கட்டளை-பிறப்பிப்பு/175-345562) · `ta`
-
-Mannar Fossils: Special Command
-
-
-
-Human burials discovered in Mannar-Thiruketheeswaram area. Investigations ongoing at Mannar Court. Human remains exhumed, samples sent for analysis. Case adjourned until Nov 21. Report on excavation and cause of death expected.
-
-🟩
-
-மன்னார்- திருக்கேதீஸ்வரம் மனித புதைகுழி மற்றும் மன்னார் நகர பகுதியில் காணப்படும் மன்னார் சதோச மனித புதைகுழி ஆகிய மனித புதைகுழிகள் இரண்டு தொடர்பான  விசாரணைகளும்   மன்னார் நீதிமன்றத்தில் விசாரணைகளுக்காக புதன்கிழமை(16) எடுத்துக் கொள்ளப்பட்டதாக காணாமல் ஆக்கப்பட்டவர்களின் உறவுகள் சார்பாக மன்றில் முன்னிலையாகும் சட்டத்தரணி வி.எஸ்.நிறைஞ்சன் தெரிவித்தார்.
-
-When the case was taken up for hearing, Dr. VL Vidyalaya Redna, CIT officials, lawyers and state lawyers on behalf of the disappeared were present at the House.
-
-At the same time, the doctor has made requests for the sake of sending the samples from human remains to the Pulorida for the CE-14 examination.
-
-In addition, a report on samples of human remains already taken by the doctor's type will be submitted to the House on Wednesday (16).
-
-The report will be submitted to the House that day.
-
-...
-
-[Data](articles/ece56504.json)
-
-[Extended Data](ext_articles/ece56504.ext.json)
-
----
-
-### Two arrested over woman’s suspicious death in Mugunuwatawana
-
-*2024-10-16 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102736/two-arrested-over-womans-suspicious-death-in-mugunuwatawana) · `en`
-
-A 49-year-old woman found lying on the road in the Mugunuwatawana area on the Chilaw-Kurunegala main road this morning (16) has been pronounced dead after being admitted to the hospital.
-
-Police said that local residents had rushed the woman to the hospital.
-
-The deceased has been identified as a resident of the Mugunuwatawana area, according to police.
-
-Meanwhile, police have arrested two individuals on suspicion over the incident - one person closely associated with the deceased and another who was driving in the area at the time, since the woman’s death was suspicious.
-
-Chilaw Police are continuing investigations to uncover the circumstances surrounding her death.
-
-◼️
-
-[Data](articles/6ab4d342.json)
-
-[Extended Data](ext_articles/6ab4d342.ext.json)
-
----
-
-### Here is the verdict that receives today to request Aloysius
-
-*2024-10-16 14:47:08* · [`adalk`](https://www.ada.lk/breaking_news/ඇලෝසියස්ගේ-ඇප-ඉල්ලීමට-අද-ලැබුණු-තීන්දුව-මෙන්න/11-412529) · `si`
-
-Colombo Additional Magistrate rejects bail for Arjuna Aloysius, director of Arjuna Aloysi, for non-payment of VAT 3.5 billion rupees. Recently sentenced to six months in prison.
-
-🟩
-
-The Colombo Additional Magistrate has rejected the bail to the second time and the director of Arjuna Aloysi, who was arrested for not paying VAT 3.5 billion rupees.
-
-Arjun Alosias was recently sentenced to six months in prison on this charge.
-
-◼️
-
-[Data](articles/8493c740.json)
-
-[Extended Data](ext_articles/8493c740.ext.json)
-
----
-
-### Sri Lanka pensioners get Rs3,000 allowance ahead of polls
-
-*2024-10-16 14:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-pensioners-get-rs3000-allowance-ahead-of-polls-183871/) · `en`
-
-ECONOMYNEXT – Sri Lanka began crediting retired government servants’ bank accounts with an allowance of 3,000 rupees on Wednesday ahead of the general elections.
-
-“Starting today, a monthly interim allowance of Rs. 3,000 will be credited to all pensioners’ accounts. Pensioners with bank accounts will get it today, while those using post offices can access it from the 18th,” President Anura Dissanayake said on X.
-
-The Treasury has allocated the required amount to the Department of Pensions, the president’s media division said.
-
-“The Treasury Operations Department has provided an allocation of Rs. 2,021 million for 679,960 pensioners this month.”
-
-Sri Lanka’s general election to select 225 representatives is scheduled for November 14, with postal voting beginning on October 30.
-
-A cabinet decision in August by the previous government to provide the allowance to pensioners was halted by the Election Commission. (Colombo/Oct16/2024)
-
-◼️
-
-[Data](articles/0c8c1da5.json)
-
-[Extended Data](ext_articles/0c8c1da5.ext.json)
 
 ---

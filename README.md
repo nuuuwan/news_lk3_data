@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-17 19:12:29**
+As of **2024-10-17 19:39:17**
 
 ## Newspaper Stats
 
-*Scraped **50,014** Articles*
+*Scraped **50,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,166 @@ dbsjeyarajcom | 402
 colombotelegraphcom | 496
 bbccomsinhala | 502
 islandlk | 2,964
-economynextcom | 3,062
+economynextcom | 3,066
 dailyftlk | 3,406
-adalk | 4,652
+adalk | 4,654
 dailymirrorlk | 4,733
-adaderanalk | 5,923
-tamilmirrorlk | 6,840
-virakesarilk | 8,005
+adaderanalk | 5,924
+tamilmirrorlk | 6,842
+virakesarilk | 8,006
 adaderanasinhalalk | 8,666
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,014 (100.0%) of 50,014 articles have been extended.
+50,024 (100.0%) of 50,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-17 (Thursday)
+
+### Former prison officer arrested
+
+*2024-10-17 19:09:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-சிறைச்சாலை-அதிகாரி-கைது/175-345620) · `ta`
+
+Former prison officer arrested for drug trafficking after leaving job in 2019. Police seize drugs and phones in raid. Another buyer also arrested.
+
+🟩
+
+Ruwanwella police have arrested a former prison officer involved in drug trafficking.
+
+It has been revealed that the suspect has left the prison officer at the Mahara Prison in 2019 and has since been involved in drug trafficking using his official identity card.
+
+Police said the suspect was arrested in a raid carried out in Imbula, based on information received by military intelligence officers.
+
+There, 5,500 milligrams of heroin, 600 milligrams of ice, cannabis and many other mobile phones and two mobile phones were seized by the police.
+
+The man who had come to buy a drug during the test was also arrested, and that he was also involved in drug trafficking, police said.
+
+◼️
+
+[Data](articles/1a25c449.json)
+
+[Extended Data](ext_articles/1a25c449.ext.json)
+
+---
+
+### The work of the central highway will begin soon
+
+*2024-10-17 19:05:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரைவில்-மத்திய-அதிவேக-நெடுஞ்சாலையின்-பணிகள்-ஆரம்பம்/175-345619) · `ta`
+
+Central Highway rehabilitation project to commence soon. Ministry of Transport awaiting Joint Fund approval before commencing work from Kadawatha to Meerigama. Cabinet paper submitted for funding. Contract to be issued upon fund approval.
+
+🟩
+
+The Ministry of Transport, Highways, Ports and Civil Aviation Services KTS Ruwan Chandra said that the rehabilitation work of the Central Highway from Kadawatha to Meerigama will be launched after the Joint Fund has been approved.
+
+The Secretary of the Ministry said that the Ministry of Transport and Highways has decided to submit a cabinet paper from the Joint Fund for the construction of the Joint Fund.
+
+The Secretary of the Ministry said that the contract will be informed to start the road work once the money is approved.. Remble
+
+◼️
+
+[Data](articles/fa8acb2f.json)
+
+[Extended Data](ext_articles/fa8acb2f.ext.json)
+
+---
+
+### Govt. increases tax on several key imported food items
+
+*2024-10-17 19:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102764/govt-increases-tax-on-several-key-imported-food-items) · `en`
+
+The government has announced an increase in taxes on certain imported goods, effective from October 14 to December 31, 2024.
+
+This move comes under the directive of President Anura Kumara Dissanayake, who also serves as the Minister of Finance.
+
+Under the new regulations, a special merchandise tax will apply to several key imports. Whole and flaked Mysore lentils, as well as yellow lentils, will now incur a tax of 25 cents per kilogram.
+
+Additionally, a special commodity levy of Rs. 302 per kilogram has been imposed on maldive fish and its substitutes.
+
+Fresh or frozen fish, excluding de-boned fish and other processed fish, will subject to a tax of 10% or Rs. 400 per kilogram, whichever is higher.
+
+◼️
+
+[Data](articles/faca0b89.json)
+
+[Extended Data](ext_articles/faca0b89.ext.json)
+
+---
+
+### The public elections are expressed
+
+*2024-10-17 18:55:04* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේ--ප්‍රචාරක-වැය-සීමා-ප්‍රකාශයට-පත්වේ/11-412549) · `si`
+
+Elections Commission publishes spending limits for candidates, parties, and independent groups. Highest individual expense limit: Rs. 5,750,000. Highest party/independent group limit: Rs. 81,735,055. National list candidate range: Rs. 4,327 - Rs. 35,677. Limits based on Election Regulations Act No. 3.
+
+🟩
+
+The Elections Commission also publishes the maximum expenditure limitations of the candidates, independent groups, and political parties that compete in this year's parliamentary election.
+
+According to the Colombo Division, one candidate can only cost the highest number of expenses, which have been published at the electorate level.
+
+It is Rs. 5,750,000, Rs. 5,750,000, Rs. 1,673,243. The Gampaha electoral district is the highest cost of an independent or political party, which is Rs. 81,735,055.
+
+The highest cost of a national list candidate is the highest cost of Rs. 35,677. The lowest cost is Rs. 4,327.
+
+The Elections Commission states that these expenses will be specified in accordance with the provisions of the Regulation of the Elections Act No. 3 of the Election Test Act No. 3.
+
+◼️
+
+[Data](articles/463423a7.json)
+
+[Extended Data](ext_articles/463423a7.ext.json)
+
+---
+
+### The price of coconuts is increased day by day
+
+*2024-10-17 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196531) · `ta`
+
+Coconut prices rising sharply: 150-160 rupees per coconut. Merchants predict continued increase without price drop forecast.
+
+🟩
+
+Coconut prices have risen in the market and people say that in some areas a coconut is sold for over 150 rupees.
+
+Meanwhile, merchants say that the price of coconut is increasing day by day and in some areas, the total price of coconut is 160.
+
+They added that there is no indication of the decline in the price of coconuts in the market.
+
+◼️
+
+[Data](articles/c6138442.json)
+
+[Extended Data](ext_articles/c6138442.ext.json)
+
+---
+
+### West Indies
+
+*2024-10-17 18:36:49* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-කොදෙව්වන්ට/9-412548) · `si`
+
+Here's a 200-character summary:
+
+
+
+"West Indies vs Tuals: Third T20 match begins at 10:07 PM. Captain Roman Powell chooses to bat first after winning the toss."
+
+🟩
+
+The Tuals West Indies team and the third and third and final T20 match will begin at 10.07 pm.
+
+West Indies captain Roman Powell decided to bat first, winning the toss of the match.
+
+◼️
+
+[Data](articles/639e188f.json)
+
+[Extended Data](ext_articles/639e188f.ext.json)
+
+---
 
 ### Coin's advantage. West Indies
 
@@ -101,6 +243,30 @@ Taxes have also been imposed as a 10% increase in new or more than 10% or Rs. 40
 [Data](articles/ffafe103.json)
 
 [Extended Data](ext_articles/ffafe103.ext.json)
+
+---
+
+### Sri Lanka’s former president calls for experienced members to be sent to parliament
+
+*2024-10-17 18:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-former-president-calls-for-experienced-members-to-be-sent-to-parliament-184036/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s former President Ranil Wickremesinghe has called for voters to send experienced members back to parliament in the upcoming general election, saying those who worked with him have the necessary expertise.
+
+“Without experience, you cannot run the Parliament, you cannot achieve the goals we have been set. Those who worked with me have the expertise to solve the economic challenges,” Wickremesinghe said making a statement on Thursday.
+
+“So they should be in Parliament whether in the government or opposition.”
+
+Wickremesinghe said it was important to have experience in running the Parliament and reaching economic goals, and urged Sri Lankans to vote for people who worked with him as president to address the economic crisis.
+
+He undertook the presidency when the country had defaulted, he said, and his goal was to reach debt sustainability and overcome bankruptcy.
+
+“We were able to reach agreement with the IMF, 18 countries that lent to us and private bondholders.”
+
+...
+
+[Data](articles/a6bf04b4.json)
+
+[Extended Data](ext_articles/a6bf04b4.ext.json)
 
 ---
 
@@ -502,6 +668,28 @@ The parties must submit expenditure reports to the Elections Commission within 2
 
 ---
 
+### Only half of Sri Lanka’s welfare budget utilized in Jan-Aug: FinMin Report
+
+*2024-10-17 15:40:00* · [`economynextcom`](https://economynext.com/only-half-of-sri-lankas-welfare-budget-utilized-in-jan-aug-finmin-report-184026/) · `en`
+
+ECONOMYNEXT – Only 53 percent of Sri Lanka’s welfare budget has been utilized in the first eight months of this year by the previous government, a Finance Ministry report showed.
+
+A Pre-Election Budgetary Position Report 2024 released by the Finance Ministry this week showed only 563.4 billion rupees out of the budgeted 1,055.7 billion has been used in the first eight months.
+
+The welfare budget was earmarked for the programmes of social welfare, social security, education, health and nutrition and development assistance.
+
+The last government raised the welfare budget by 15.3 percent this year compared to the actual expenditure of 2023 which was 915.4 billion rupees, the data showed.
+
+The increase in the welfare budget was backed by the International Monetary Fund (IMF) which asked to allocate more money on the poor and vulnerable people with better targeting methods.
+
+...
+
+[Data](articles/6381e19d.json)
+
+[Extended Data](ext_articles/6381e19d.ext.json)
+
+---
+
 ### Keheliya's name, Keheliya, named Keheliya
 
 *2024-10-17 15:28:14* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-නමින්-නම්-කළ-පාසලේ-කෙහෙළියගේ-නම-ගලවය/11-412547) · `si`
@@ -751,6 +939,28 @@ The song is written by songwriter Yukabarathi, background singer Kapil Kapilan a
 [Data](articles/1ede517b.json)
 
 [Extended Data](ext_articles/1ede517b.ext.json)
+
+---
+
+### Controversy erupts over Sri Lanka’s CEB move to continue fuel purchases sans tender
+
+*2024-10-17 14:52:00* · [`economynextcom`](https://economynext.com/controversy-erupts-over-sri-lankas-ceb-move-to-continue-fuel-purchases-sans-tender-183952/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new government has come under fire over a reported move state-run Ceylon Electricity Board (CEB) to continue to purchase fuel without competitive bidding, and with a deal struck with Ceylon Petroleum Corporation.
+
+Sri Lanka’s Daily Mirror newspaper reported that CEB has decided not to go ahead with competitive procurement of fuel but to strike a deal with Ceylon Petroleum Corporation, reversing decision by the earlier administration to move for open tendering.
+
+The report said the CEB had decided not to go for competitive bidding since there was no substantial price variation among different suppliers, the report said.
+
+The last government towards the end of its term had decided to call for bids from different fuel suppliers such as the CPC, LIOC and Sinopec for fuel supply, after multiple fuel distributors were established.
+
+A senior CEB official said the state-run utility provider will issue a clarification on Friday without elaborating.
+
+...
+
+[Data](articles/d7cbab68.json)
+
+[Extended Data](ext_articles/d7cbab68.ext.json)
 
 ---
 
@@ -1576,6 +1786,28 @@ In this context, Sri Lankans living in the Middle East region are requested to p
 
 ---
 
+### ADB leads foreign financing for Sri Lanka in 2024, IMF second
+
+*2024-10-17 09:56:00* · [`economynextcom`](https://economynext.com/adb-leads-foreign-financing-for-sri-lanka-in-2024-imf-second-183977/) · `en`
+
+ECONOMYNEXT – The Asian Development Bank has disbursed 358.3 million dollars to Sri Lanka up to August 2024, slightly ahead of the International Monetary Fund which gave 334 million dollars in budget support loans.
+
+The ADB, World Bank has given budget support loans linked to Sri Lanka’s IMF program from last year.
+
+Budget support loans can be used to repay maturing debt and does not lead to imports and a current account deficit if old loans are repaid (a financial account inflow and outflow).
+
+Japan had also disbursed 20.1 million dollars. Japan halted disbursing loans after Sri Lanka’s sovereign default. Japan also gave a 1.3 million dollar grant.
+
+Out of a total of 1,005.7 million dollars of foreign support, 11.3 million were grants and 994.4 million were grants.
+
+◼️
+
+[Data](articles/8687232c.json)
+
+[Extended Data](ext_articles/8687232c.ext.json)
+
+---
+
 ### 14-year-old child dies
 
 *2024-10-17 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202262) · `si`
@@ -2221,221 +2453,5 @@ A delegation of International Monetary Fund (IMF) headed by Krishna Srinivasan, 
 [Data](articles/cb23867b.json)
 
 [Extended Data](ext_articles/cb23867b.ext.json)
-
----
-
-### Gammanpila demands Govt. commitment before handing over Easter Sunday reports
-
-*2024-10-17 01:37:34* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-demands-Govt-commitment-before-handing-over-Easter-Sunday-reports/56-768082) · `en`
-
-Says he will only hand over unpublished reports regarding Easter Sunday terror attack if the Govt. publicly commits to publishing them
-
-Warns he would release both reports himself by 21 Oct. if they were not made public within a week of his submission
-
-Claims there is a conspiracy to arrest him before the reports could be made public
-
-Pivithuru Hela Urumaya (PHU) leader and former Member of Parliament Udaya Gammanpila announced yesterday that he will only hand over the two unpublished reports related to the 2019 Easter Sunday terror attacks if the Government publicly commits to publishing them.
-
-Addressing the media at a special press conference in Colombo, Gammanpila expressed concern over the Government’s intentions, warning that he would release the reports himself by 21 October if they were not made public within a week of his submission.
-
-...
-
-[Data](articles/13795f40.json)
-
-[Extended Data](ext_articles/13795f40.ext.json)
-
----
-
-### Kabir Hashim to share insights at National Evaluation Capacities Conference 2024 in Beijing
-
-*2024-10-17 01:32:21* · [`dailyftlk`](https://www.ft.lk/news/Kabir-Hashim-to-share-insights-at-National-Evaluation-Capacities-Conference-2024-in-Beijing/56-768080) · `en`
-
-Former Kegalle District Parliamentarian and Global Parliamentarian Forum for Evaluation Chair Kabir Hashim has been invited as an esteemed panellist at the 8th National Evaluation Capacities (NEC) Conference 2024.
-
-This prestigious event will be held from 14 to 18 October in Yanqing District, Beijing, China, and is organised by the UNDP Independent Evaluation Office (IEO) in collaboration with the China International Development Cooperation Agency (CIDCA) and the Global Evaluation Initiative (GEI).
-
-...
-
-[Data](articles/be3da627.json)
-
-[Extended Data](ext_articles/be3da627.ext.json)
-
----
-
-### How can you become MPs to the Parliament by your vote?
-
-*2024-10-17 01:30:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5e1nw456lo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan citizens exercise sovereignty through voting. Article 3 of the constitution grants voting power to the people. Elections select parliamentary representatives, reflecting changing constituencies. The 1978 constitution introduced proportional representation, allowing smaller parties to gain seats. Voters can choose parties or individual candidates. Seats are allocated based on votes received, with a 5% threshold for validity. The National List distributes additional seats among parties.
-
-🟩
-
-The voting power is your sovereignty. Sri Lankan citizens are sovereignty.
-
-Article 3 of the Democratic Socialist Republic of Sri Lanka has shown that the sovereignty of the people includes voting power.
-
-According to Section 4 (a), the constitutional authority of the people must be implemented by a parliament with a parliamentary parliament selected by the people.
-
-At present, there are a indirect democracy, or demonstration of indirect democracy. There we elected public representatives to a certain time to make decisions for our decision decisions.
-
-Elections are essential for electoral representatives. It determines the democracy of a country to hold elections from time to time properly.
-
-The legislature can reflect on the constituency that changes from being held from time to time.
-
-It confirms the right to the electorality or the elected people, or unless it is legitimacy, or. The legitimacy of power directly influences the political stability of the country.
-
-...
-
-[Data](articles/f295ef70.json)
-
-[Extended Data](ext_articles/f295ef70.ext.json)
-
----
-
-### Department of Pensions begins Rs. 3,000 allowance payments
-
-*2024-10-17 01:29:45* · [`dailyftlk`](https://www.ft.lk/news/Department-of-Pensions-begins-Rs-3-000-allowance-payments/56-768079) · `en`
-
-The Department of Pensions yesterday commenced disbursing a monthly interim allowance of Rs. 3,000 to all pensioners, a statement issued by President’s Media Division noted.
-
-“Starting today, a monthly interim allowance of Rs. 3,000 will be credited to all pensioners’ accounts. Pensioners with bank accounts will get it today, while those using Post Offices can access it from the 18 October,” President Anura Kumara Dissanayake shared via a post on X.
-
-Accordingly, the funds have been credited to the bank accounts of pensioners receiving pensions from public and private banks yesterday.
-
-“Those receiving pensions from Post Offices and Sub-Offices will be able to access their allowance from tomorrow (18),” the PMD added.
-
-Looking into the delays in disbursing the proposed monthly interim allowance of Rs. 3,000 for pensioners, President Anura Kumara Dissanayake recently directed that the necessary funds be released from the Treasury.
-
-...
-
-[Data](articles/52749c07.json)
-
-[Extended Data](ext_articles/52749c07.ext.json)
-
----
-
-### Two committees appointed on holding 77th Independence Day celebrations
-
-*2024-10-17 01:28:48* · [`dailyftlk`](https://www.ft.lk/news/Two-committees-appointed-on-holding-77th-Independence-Day-celebrations/56-768078) · `en`
-
-A committee comprising of Cabinet Ministers has been appointed with the participation of the President, Prime Minister, and Buddhism, Religious and Cultural Affairs, National Integration, Social Security and Mass Media Minister for guidance and supervision for holding the 77th Independence Day celebrations on 4 February 2025.
-
-Cabinet Spokesman Minister Vijitha Herath said a monitoring committee with the participation of chief officers of all relevant Ministries and Departments, including the tri forces and Police, has also been appointed, enabling the organisation of the Independence Day celebrations in a grand manner.
-
-The proposal on the appointment of the two committees was presented by the Prime Minister in her capacity as the Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labour Minister.
-
-◼️
-
-[Data](articles/cf0cf278.json)
-
-[Extended Data](ext_articles/cf0cf278.ext.json)
-
----
-
-### Mangala Wijesinghe assumes duties as 16th Chairman of EDB
-
-*2024-10-17 01:26:47* · [`dailyftlk`](https://www.ft.lk/business/Mangala-Wijesinghe-assumes-duties-as-16th-Chairman-of-EDB/34-768077) · `en`
-
-Outlines vision to reach $ 30 b in export income by 2030, improve Sri Lanka’s ease of doing business ranking
-
-Calls for a review of the National Export Strategy and removal of barriers hindering export growth
-
-Aims to achieve $ 5 b in ICT export revenue by 2030, aligning with the Govt.’s goals
-
-Insists diversifying Sri Lanka’s export focus towards high-tech industries like electronics and pharmaceuticals, inspired by models like Singapore and South Korea
-
-Stresses importance of digitalising State agencies to simplify export approval processes
-
-Mangala Wijesinghe officially took office as the 16th Chairman of the Sri Lanka Export Development Board (EDB) yesterday, pledging to lead the country’s export sector into a new era of growth and diversification.
-
-Addressing the EDB staff at the headquarters, Wijesinghe outlined his vision for the Board and set ambitious goals, including improving Sri Lanka’s ease of doing business ranking (currently 99th) and achieving a $ 30 billion export income by 2030.
-
-...
-
-[Data](articles/4b86e6af.json)
-
-[Extended Data](ext_articles/4b86e6af.ext.json)
-
----
-
-### South Asia’s first AI-based hospital records profit growth in 2023/24
-
-*2024-10-17 01:23:11* · [`dailyftlk`](https://www.ft.lk/business/South-Asia-s-first-AI-based-hospital-records-profit-growth-in-2023-24/34-768076) · `en`
-
-Nawaloka Hospitals PLC, South Asia’s pioneer in AI-driven healthcare, achieved remarkable financial success for the fiscal year ending 31 March. The Group’s revenue surged to Rs. 10 billion, reflecting a Year-on-Year (YoY) growth of 11.54%. The hospital’s Profit Before Tax (PBT) reached Rs. 576.2 million, marking an impressive 178.61% increase compared to the previous year. This growth, despite economic challenges, underscores Nawaloka’s operational resilience and its dedication to delivering cutting-edge healthcare.
-
-Operating profits for the group saw a significant turnaround, climbing from a loss of Rs. 73.4 million in 2023 to Rs. 1.02 billion in 2024. The company’s operating profits grew by 158.28%, reaching Rs. 1.32 billion. Additionally, Nawaloka Hospitals’ Earnings Per Share (EPS) rose from a negative -0.46 to a positive 0.41, further solidifying the hospital’s financial recovery and enhancing shareholder value.
-
-...
-
-[Data](articles/359aeae2.json)
-
-[Extended Data](ext_articles/359aeae2.ext.json)
-
----
-
-### SLT-Mobitel shines on global stage with prestigious wins at 2024 ARC Awards
-
-*2024-10-17 01:20:20* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-shines-on-global-stage-with-prestigious-wins-at-2024-ARC-Awards/34-768075) · `en`
-
-SLT-Mobitel earned global recognition, securing Gold and a Certificate of Honour at the prestigious 38th Annual International ARC Awards held recently.
-
-The competition is acclaimed as the world’s largest annual report competition, felicitating companies having achieved an international mark of excellence in annual reports.
-
-The Sri Lanka Telecom PLC Annual Report 2023 was adjudged the Gold winner in the ‘Illustrations: Telecommunications’ category for the annual report titled “We are an ‘App’ of Life”. The company was also awarded a Certificate of Honour in the ‘Specialised AR – Integrated AR & ESG’ category.
-
-The achievement celebrates SLT-Mobitel’s world-class standards in annual reporting and reinforces its position as a leader in the telecommunications industry, in Sri Lanka and on the global stage.
-
-...
-
-[Data](articles/9563476f.json)
-
-[Extended Data](ext_articles/9563476f.ext.json)
-
----
-
-### Alumex launches next-gen website: Integrating smart AI solutions for seamless customer journey
-
-*2024-10-17 01:19:32* · [`dailyftlk`](https://www.ft.lk/business/Alumex-launches-next-gen-website-Integrating-smart-AI-solutions-for-seamless-customer-journey/34-768074) · `en`
-
-Hayleys Chairman and Chief Executive Mohan Pandithage addresses audience at launch of Alumex next-gen website
-
-OpenAI-powered assistant provides personalised answers on construction materials, regulatory compliance, building plans
-
-Simplifies search experience from architectural solutions to detailed product specifications and tailored recommendations
-
-Transitioning to a dynamic, interactive platform, Alumex PLC, the number one and most trusted aluminium extrusion brand in Sri Lanka, has proudly relaunched its official website, www.alumexgroup.com powered by AI, designed to provide a convenient, personalised experience.
-
-The new website features intuitive navigation that prioritises both aesthetics and usability, highlighting Alumex’s innovative and cutting-edge portfolio.
-
-...
-
-[Data](articles/971cad62.json)
-
-[Extended Data](ext_articles/971cad62.ext.json)
-
----
-
-### L.R.D.C. gets six-month contract to provide security services to institutions under Health Ministry
-
-*2024-10-17 01:17:28* · [`dailyftlk`](https://www.ft.lk/business/L-R-D-C-gets-six-month-contract-to-provide-security-services-to-institutions-under-Health-Ministry/34-768073) · `en`
-
-The Cabinet of Ministers on Monday approved awarding a six-month contract to L.R.D.C. Ltd. for the provision of security services to hospitals and other institutions under the Health Ministry, effective from 1 October.
-
-The move follows the recommendation of the Standing Procurement Committee appointed by the Cabinet.
-
-The procurement process included bids from several organisations, including Rakna Arakshaka Lanka Ltd., L.R.D.C. Ltd., the Civil Security Department, and regional entities such as the Regional Economic Development Institution under the Central Provincial Council and the North Western Province Human Resource Development Authority.
-
-L.R.D.C. Ltd. submitted bids to provide security services for hospitals across the relevant Provinces under the Health Ministry’s control and the Regional Economic Development Institution will be responsible for security services in hospitals under the Central Provincial Council.
-
-...
-
-[Data](articles/f7dd1a3f.json)
-
-[Extended Data](ext_articles/f7dd1a3f.ext.json)
 
 ---

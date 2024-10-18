@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 14:13:03**
+As of **2024-10-18 14:25:08**
 
 ## Newspaper Stats
 
-*Scraped **50,138** Articles*
+*Scraped **50,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 3,067
 dailyftlk | 3,420
 adalk | 4,659
 dailymirrorlk | 4,733
-adaderanalk | 5,936
+adaderanalk | 5,937
 tamilmirrorlk | 6,859
 virakesarilk | 8,028
-adaderanasinhalalk | 8,692
+adaderanasinhalalk | 8,693
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,138 (100.0%) of 50,138 articles have been extended.
+50,140 (100.0%) of 50,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### වන අලින්ට මරු කැඳවූ දුම්රිය අනතුරු ගැන රියදුරා කළ හෙළිදරව්ව
+
+*2024-10-18 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202310) · `si`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+Train collision kills two elephants injures others near Kolonnawa oil depot. Railway officials claim maximum speed limit exceeded during incident. Investigation underway to determine exact cause and speed limits.
+
+🟩
+
+A cattle from a fuel train from the Kolonnawa oil storage terminal was accidental in early morning.
+
+මෙම අනතුරින් දුම්රියේ ඉන්ධන ටැංකි හතරක් පීළි පැනීමටකට ලක්වූ අතර දුම්රිය එන්ජිම සහ නියාමකවරයා ගමන්කරන මැදිරියද පීළිපැනීමට ලක් විය.
+
+අනතුරින් වනඅලි දෙදෙනෙකු මියගොස් තවත් වන අලි කිහිප දෙනෙකු බරපතළ තුවාල ලබා තිබුණි.
+
+The railway line was also severely damaged due to fuel transport oil tanks.
+
+අනතුරට ලක් වූ දුම්රිය මැදිරි 8කින් සමන්විත වූ අතර, එක් ටැංකියක අන්තර්ගත වී ඇති ඉන්ධන ප්‍රමාණය ලීටර් 50,000කි.
+
+ඒ අනුව පෙට්‍රල් අන්තර්ගත ටැංකි 3ක්ද, ඩීසල් ටැංකි මැදිරි 5ක් ද දුම්රියට සම්බන්ධ කර තිබුණි.
+
+අනතුරින් පසු පෙට්‍රල් අන්තර් ගත ටැංකි මැදිරි දෙකක් මුළුමණින්ම පෙරළී ගොස් ඇති අතර අනෙක් මැදිරියද පීළී පැන තිබුණි.
+
+The Ada Derana reporter said about 100,000 liters of petrol contained in tanks.
+
+සිදුවූ අනතුර සම්බන්ධයෙන් අදහස් දැක්වූ දුම්රිය රියදුරු පැවසුවේ තමන් උපරම ලෙස තිරිංග ක්‍රියාත්මක කළ නමුත් අනතුර වළක්වා ගැනීමට නොහැකි වූ බවය.
+
+...
+
+[Data](articles/6f71bf60.json)
+
+[Extended Data](ext_articles/6f71bf60.ext.json)
+
+---
 
 ### Sri Lanka's third place in Australia's humanitarian innovation program
 
@@ -53,6 +91,28 @@ The first place in this program is EMILY NABONG, a student of Sydney University,
 [Data](articles/3674747b.json)
 
 [Extended Data](ext_articles/3674747b.ext.json)
+
+---
+
+### Petition filed seeking to postpone General Election polling in Vanni
+
+*2024-10-18 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102778/petition-filed-seeking-to-postpone-general-election-polling-in-vanni) · `en`
+
+A petition has been filed in the Supreme Court challenging the rejection of a nomination for the upcoming General Election in the Vanni Electoral District.
+
+The Democratic National Alliance (DNA) has filed the petition following the decision by the District Returning Officer to reject their nomination submission.
+
+The petition was submitted by Pararajasingham Udayarasa, the authorized officer of the DNA, and two others, naming the Commissioner General of the Election Commission, its members, the Vanni District Returning Officer, and several others as respondents.
+
+The petitioners allege that the rejection of the nomination papers was unlawful, arguing that all required documents had been properly submitted.
+
+The petition requests the Supreme Court to issue a writ order invalidating the Returning Officer’s decision.
+
+...
+
+[Data](articles/947e3232.json)
+
+[Extended Data](ext_articles/947e3232.ext.json)
 
 ---
 
@@ -1754,6 +1814,22 @@ In a significant step towards environmental conservation, Club Hotel Dolphin, Wa
 
 ---
 
+### “Comrade”Anura Began Historic Journey After Becoming  the Fifth  Leader  of JVP  in 2014.
+
+*2024-10-18 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84899) · `en`
+
+Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka-PART three
+
+The year was 1969.  A 31 year old mother sought the services of a prominent astrologer to draw up the horoscope of her six month old son. The astrologer made some calculations based on planetary movements that prevailed at the time of the boy’s birth the previous year. He looked up with amazement and told the mother “your son has a “Rajayoga” in his destiny. He is born to rule. One day he will rule this country”.The mother was pleased but puzzled. She  was from a low-income farming family.How could my son be a ruler? She wondered.
+
+...
+
+[Data](articles/19c2757d.json)
+
+[Extended Data](ext_articles/19c2757d.ext.json)
+
+---
+
 ### Hamas leader killed in Israel's attack
 
 *2024-10-18 01:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-ஹமாஸ்-தலைவர்-பலி/175-345635) · `ta`
@@ -1771,6 +1847,22 @@ Here's a 200-character summary:
 [Data](articles/3a35cc5a.json)
 
 [Extended Data](ext_articles/3a35cc5a.ext.json)
+
+---
+
+### பத்து வருடங்களுக்கு முன்னர் ”தோழர்” அநுர குமார திசாநாயக்க ஜே.வி.பி.யின் ஐந்தாவது தலைவராக வந்தபோது…..!…..
+
+*2024-10-18 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84908) · `en`
+
+அநுர குமார திசாநாயக்க ; இலங்கை வானில் ‘ இடதுசாரி ‘ நட்சத்திரம் -3
+
+அது 1969 ஆம் ஆண்டு. 31 வயதான தாய் தனது ஆறு மாத ஆண் குழந்தையின் ஜாதகத்தை எழுதுவிப்பதற்காக பிரபலமான ஒரு சோதிடரின் சேவையை நாடினார். முன்னைய வருடத்தில் குழந்தை பிறந்த நேரத்தில் இருந்த கிரக நகர்வுகளின் அடிப்படையில் சில கணிப்பீடுகளைச் செய்த சோதிடர் தாயாரை பெரு வியப்புடன் பார்த்து ” உங்கள் மகனுக்கு அவனது விதியில் ஒரு இராஜயோகம் இருக்கிறது. அவன் ஆளப்பிறந்தவன். அவன் ஒரு நாள் இந்த நாட்டை ஆட்சி.செய்வான்” என்று கூறினார்.  தாயாருக்கு மகிழ்ச்சிதான் ஆனால் ஆச்சரியம். அவர் குறைந்த வருமானத்தைக் கொண்ட ஒரு விவசாயக் குடும்பத்தைச் சேர்ந்தவர். ‘ எவ்வாறு எனது மகன் ஆட்சியாளராவான்? அவருக்கு ஆச்சரியம்.
+
+...
+
+[Data](articles/82107b5a.json)
+
+[Extended Data](ext_articles/82107b5a.ext.json)
 
 ---
 
@@ -2269,101 +2361,5 @@ Emphasising the importance of a robust partnership between India and Sri Lanka, 
 [Data](articles/7e39291d.json)
 
 [Extended Data](ext_articles/7e39291d.ext.json)
-
----
-
-### Sri Lanka a target of 163 runs
-
-*2024-10-17 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202282) · `si`
-
-Sri Lanka targets 163 runs against West Indies in Dambulla T20 match. West Indies scores 62/5, but 6th wicket partnership of 54 between Rowman Powell and Goodcosh. Fanuin Hasaranga and Mahine Mesh Shake take 2 wickets each.
-
-🟩
-
-Sri Lanka and Buddhism. West Indies won the toss and elected to the Treasury Twenty20 match in Dambulla.
-
-Accordingly, the Sri Lankan team won a target of 163 runs.
-
-As a result, the West Indies scored 5 wickets in 62 runs.
-
-However, the 6th wicket leader Rowman Powell and a Goodksh Motel scored a 54 runs.
-
-Goodcosh was stabbed to stir up 32 runs off 15 balls.
-
-Rowman Powell scored 37 off 27 balls with the highest number of runs in West Indies.
-
-Fanuin Hasaranga (2/24) and Mahine Mesh Shake (2/19) took 2 wickets each.
-
-◼️
-
-[Data](articles/0192abbd.json)
-
-[Extended Data](ext_articles/0192abbd.ext.json)
-
----
-
-### Hamas leader Yahya Sinwar killed in Israel's attack?
-
-*2024-10-17 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/196534) · `ta`
-
-Israel claims Hamas leader Yahya Sinwar possibly killed in Gaza attack, but refuses to confirm.
-
-🟩
-
-Israel has said that Hamas organization leader Yahya Sinwar may have been killed in the attack in Gaza.
-
-Israel has said that Yahya Sinwar may have been killed, but refused to confirm this.
-
-◼️
-
-[Data](articles/1ecdf4c3.json)
-
-[Extended Data](ext_articles/1ecdf4c3.ext.json)
-
----
-
-### Skin's missing
-
-*2024-10-17 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202281) · `si`
-
-Youth drowns in Ved Waskaduwa, Kalutara. 26-year-old Selvanayagam from Morontuduwa hotel. Search ongoing.
-
-🟩
-
-The Colombo North Police say that a youth drowns in the sea in the Ved Waskaduwa area in Kalutara North Police said.
-
-The 26-year-old Selvanayagam worked at a hotel in Morontuduwa.
-
-The small Waskaduwa had gone to the beach with friends today (17), police said.
-
-Kalutara North police officers and residents of the area have been operating in search of the youth and launch the youth, but he has not yet been found.
-
-◼️
-
-[Data](articles/779f1c27.json)
-
-[Extended Data](ext_articles/779f1c27.ext.json)
-
----
-
-### 257 complaints regarding general election - Elections Commission
-
-*2024-10-17 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196533) · `ta`
-
-Elections Commission reports 257 complaints about general election. 181 resolved, 76 pending. All violations of law.
-
-🟩
-
-The Elections Commission said that 257 complaints have been received so far regarding the general election.
-
-In a statement issued by the Election Commission, all the complaints received were violated by the law.
-
-Of the complaints received, 181 complaints have been settled and 76 more complaints are being considered, the announcement said.
-
-◼️
-
-[Data](articles/c3e6256d.json)
-
-[Extended Data](ext_articles/c3e6256d.ext.json)
 
 ---

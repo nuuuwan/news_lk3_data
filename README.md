@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 20:39:35**
+As of **2024-10-18 20:58:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,188 (100.0%) of 50,190 articles have been extended.
+50,190 (100.0%) of 50,190 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -136,7 +136,7 @@ He was speaking at a press conference held at the party headquarters in party he
 
 ### Pakistan who launched the UK;Test series balanced as 1 - 1
 
-*2024-10-18 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/196612) · `ta`
+*2024-10-18 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196612) · `ta`
 
 Pakistan vs England test series tied 1-1 after Pakistan wins 2nd match by 152 runs. Noman Ali takes 8/46 in England's 2nd innings, Sajid Khan 9/204 overall. England needs 261 more runs to win on final day.
 
@@ -1260,6 +1260,8 @@ Speaking at an event, Premadasa said his party the Samagi Jana Balawegaya (SJB) 
 
 [Data](articles/6fde4943.json)
 
+[Extended Data](ext_articles/6fde4943.ext.json)
+
 ---
 
 ### Petition filed seeking to postpone General Election polling in Vanni
@@ -1705,6 +1707,8 @@ Margins will be hit by depressed plantation yields, due to labour shortages and 
 ...
 
 [Data](articles/d7ea929b.json)
+
+[Extended Data](ext_articles/d7ea929b.ext.json)
 
 ---
 

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 08:23:10**
+As of **2024-10-18 08:44:39**
 
 ## Newspaper Stats
 
-*Scraped **50,089** Articles*
+*Scraped **50,092** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 403
-colombotelegraphcom | 499
+colombotelegraphcom | 500
 bbccomsinhala | 502
 islandlk | 2,974
 economynextcom | 3,066
@@ -18,7 +18,7 @@ dailyftlk | 3,420
 adalk | 4,655
 dailymirrorlk | 4,733
 adaderanalk | 5,930
-tamilmirrorlk | 6,847
+tamilmirrorlk | 6,849
 virakesarilk | 8,020
 adaderanasinhalalk | 8,677
 
@@ -26,27 +26,79 @@ adaderanasinhalalk | 8,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,071 (100.0%) of 50,089 articles have been extended.
+50,084 (100.0%) of 50,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
 
-### அதிவிசேட வர்த்தமானி வெளியீடு
+### Two wild elephants killed
+
+*2024-10-18 08:20:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ரயில்-மோதி-இரு-காட்டு-யானைகள்-பலி/73-345638) · `ta`
+
+Train collision kills two wild elephants near Minneriya-Hikurakoda railway stations. Four fuel tanks ruptured, causing injuries to more elephants and rail damage. Incident occurred at 3:30 AM.
+
+🟩
+
+Two elephants were killed when a train carrying a fueling train collided with a wild elephant crowd at around 3.30 am this morning.
+
+The accident took place in the area between Minneriya and Hikurakoda railway stations.
+
+It is reported that the four fuel tanks of the train have been disrupted.
+
+It has been reported that many more wild elephants have been severely injured in the accident and a massive damage to the rails when fuel oil tanks collapsed.. Remble
+
+◼️
+
+[Data](articles/e4359f26.json)
+
+[Extended Data](ext_articles/e4359f26.ext.json)
+
+---
+
+### Order to submit privileges by writing
+
+*2024-10-18 08:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறப்புரிமைகளை-எழுத்து-மூலம்-சமர்ப்பிக்க-உத்தரவு/175-345637) · `ta`
+
+Committee formed by President Anura Kumara Dissanayake to review ministerial and parliamentary privileges. Report to be submitted to Cabinet for decision-making.
+
+🟩
+
+A three -member committee appointed by President Anura Kumara Dissanayake has announced to submit a written report on their needs and their needs to review the privileges of the ministers and parliamentarians of the former presidents.
+
+The committee was recently appointed by President Anura Kumara Dissanayake to examine the existing law and make recommendations on the existing laws on the privileges of the ministers and parliamentarians of the former presidents.
+
+Minister Vijitha Herath said that the report prepared by the committee will be submitted to the Cabinet and necessary decisions on the privileges will be taken.
+
+◼️
+
+[Data](articles/3a99c101.json)
+
+[Extended Data](ext_articles/3a99c101.ext.json)
+
+---
+
+### Highseat gazette leaving
 
 *2024-10-18 07:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-345636) · `ta`
 
-பொதுத் தேர்தலில் போட்டியிடும் அரசியல் கட்சிகள், சுயேட்சை குழுக்கள், வேட்பாளர்கள் பிரசாரங்களுக்காக மாவட்ட ரீதியாக செலவிடக் கூடிய தொகையை நிர்ணயித்த அதிவிசேட வர்த்தமானி தேர்தல்கள் ஆணைக்குழுவால் வெளியிடப்பட்டுள்ளது.
+Election Gazette releases spending limits for candidates in Colombo, Gampaha, and Kalutara districts. Highest spender: Colombo district at 57 lakhs 50 thousand rupees.
 
-2023 இலக்கம் 03 எனும் தேர்தல் செலவினங்களை ஒழுங்குப்படுத்தும் சட்டத்தின் 3 ஆம் பிரிவின் பிரகாரம் தேர்தல் பிரசார நடவடிக்கைகளுக்கான செலவு எல்லைகள் நிர்ணயிக்கப்பட்டுள்ளன.
+🟩
 
-இதன்படி, மாவட்ட ரீதியாக வேட்பாளர் ஒருவர் செலவிடக் கூடிய அதிக பட்ச தொகையும் நிர்ணயிக்கப்பட்டுள்ளது.
+Political parties, independent groups and candidates who are contesting the general election have been released by the Election Gazette Elections Commission, which has set a district -spent amount for candidates.
 
-கொழும்பு மாவட்டத்தில் போட்டியிடும் வேட்பாளர் ஒருவர் 57 லட்சத்து 50 ஆயிரம் ரூபாவையும், கம்பஹா மாவட்டத்தில் போட்டியிடும் வேட்பாளர் ஒருவர் 56 இலட்சத்து 43 ஆயிரத்து 387 ரூபாயையும், களுத்துறை மாவட்டத்தில் போட்டியிடும் வேட்பாளர் ஒருவர் 47 இலட்சத்து 40 ஆயிரத்து 787 ரூபாவையும் செலவிட முடியும் என நிர்ணயம் செய்யப்பட்டுள்ளது. (a)
+The cost of election campaigns has been determined by Article 3 of the Act, which regulates the election costs of 2023.
+
+Accordingly, the highest amount of a district candidate can spend.
+
+It has been decided that a candidate in the Colombo district can spend 57 lakhs 50 thousand rupees, a candidate in the Gampaha district can spend 56 lakhs 43 thousand 387 rupees and a candidate in the Kalutara district can spend 47 lakhs 40 thousand 787 rupees.. (A)
 
 ◼️
 
 [Data](articles/590bfb75.json)
+
+[Extended Data](ext_articles/590bfb75.ext.json)
 
 ---
 
@@ -56,11 +108,21 @@ Extensions include translations and NER (Named Entity Recognition).
 
 A fuel train has derailed between Hingurakgoda and Gal Oya railway stations after colliding against a herd of wild elephants.
 
-The Railway Department sad that two fuel tankers have toppled and that two elephants have died in the collision.
+The Railway Department sad that a total of four fuel tankers have derailed and that two of them have toppled and that the train engine and another compartment have also derailed.
+
+It is also reported that two elephants have died in the collision with the train while several other elephants have been critically injured.
+
+Meanwhile, the derailment has also severely damaged the railway track, Ada Derana reporter said.
+
+The incident had occurred at around 3.30 a.m. today (18) while the train was transporting fuel from the Kolonnawa Petroleum Storage Terminal to Batticaloa.
+
+Train services on the Batticaloa-Colombo main line have been completely halted presently while the railway department has cancelled the trains scheduled to travel from Colombo Fort to Batticaloa and vice versa this morning (18).
 
 ◼️
 
 [Data](articles/d9f9c06a.json)
+
+[Extended Data](ext_articles/d9f9c06a.ext.json)
 
 ---
 
@@ -79,6 +141,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/7a970a00.json)
+
+[Extended Data](ext_articles/7a970a00.ext.json)
 
 ---
 
@@ -222,43 +286,65 @@ He pointed out that all the news and discussions are not a filmed in the Welikad
 
 ---
 
-### ஹமாஸ் தலைவர்  யஹ்யா சின்வர் கொல்லப்பட்டார் - இறுதி நிமிடங்களில் நடந்தது என்ன- பிபிசி
+### Hamas leader Yahya Sinwar was killed - what happened in the final minutes - BBC
 
 *2024-10-18 06:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196542) · `ta`
 
-ஓக்டோபர் ஏழு தாக்குதலை திட்டமிட்டு முன்னெடுத்த பின்னர் தலைமறைவான யஹ்யா சின்வரை இஸ்ரேலிய இராணுவம் கடந்த ஒரு வருடகாலமாக தேடிவந்தது.
+Yahya Sinwar killed in Israeli raid. Body found during search for militants. Soldiers isolated him before realizing identity. No hostages found.
 
-61வயதான சின்வர் கடந்த ஒரு வருடகாலமாக காசா பள்ளத்தாக்கின்  சுரங்கப்பாதைகளிற்குள்ளேயே வாழ்ந்தார் என கருதப்படுகின்றது.அவரின் பாதுகாப்பிற்கு என மெய்ப்பாதுகாவலர்கள் குழுவொன்று காணப்பட்டது இஸ்ரேலின் பணயக்கைதிகள் அவருடனேயே மனிதக்கேடயங்களாக வைக்கப்பட்டிருந்தனர் என தெரிவிக்கப்படுகின்றது.
+🟩
 
-எனினும் காசாவின் தென்பகுதியில் அவர் இஸ்ரேலின் ரோந்துபடைப்பிரிவொன்றை எதிர்கொண்டார் அவ்வேளை அதிகளவில் மெய்பாதுகாவலர்கள் இருக்கவில்லை, பயணக்கைதிகளும் காணப்படவில்லை.
+The Israeli military has been searching for Yahya Sinwar, the hidden Sinwar after the October seven attack.
 
-புதன் கிழமை ரபாவின் டல் அல் சுல்டான் பகுதியில் 828வது பிஸ்லமச் படையணி ரோந்து நடவடிக்கையில் ஈடுபட்டிருந்தது என இஸ்ரேல் தெரிவிக்கின்றது.
+Sinwar, 61, is thought to have lived within the tunnels of the Gaza Valley for the past one year.
 
-இதன்போது மூன்று தீவிரவாதிகளை அடையாளம் கண்ட இஸ்ரேலிய படையினர் அவர்கள் மீது தாக்குதலை மேற்கொண்டு கொலைசெய்துள்ளனர்.
+However, in the south side of Gaza, he faced an Israeli patrol sect.
 
-அதன்பின்னர் கொல்லப்பட்ட ஒருவரின் உடலை சோதனையிட்டவேளை அது யஹ்யா சின்வரின் உடல் போல காணப்பட்டுள்ளது.
+Israel reported that the 828th Bislama brigade was on patrol in Raba's Dul al -Sultan on Wednesday.
+
+The Israeli soldiers who identified three militants have attacked and killed them.
+
+When the body of a killed person then searched, it was seen as the body of Yahya Sinwar.
+
+However, the Israeli soldiers who did not completely remove it, fearing that explosives could be found around the body, have only cut off its finger and sent it to Israel.
+
+His body was taken to Israel after the area was found to be safe.
+
+Israeli military spokesman Daniel Hakari said that our soldiers were involved in the operation without knowing that Sinwar was there.
 
 ...
 
 [Data](articles/541abd06.json)
 
+[Extended Data](ext_articles/541abd06.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට සිහින් වැසි වාර කිහිපයක්
+### Several thin showers to several areas
 
 *2024-10-18 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202288) · `si`
 
-උතුරු පළාතේ වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Here's a 200-character summary:
 
-නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව දක්වා ඇත්තේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
 
-ඌව සහ නැගෙනහිර පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+"Northern Province: Several spells of showers. Western, Sabaragamuwa, North Western provinces: Thin showers in Galle, Matara, Kandy, Nuwara Eliya. Evening/night: Showers/thundershowers in Uva, Eastern provinces. Public advised to prepare for strong winds and lightning."
+
+🟩
+
+Several spells of showers may occur in the Northern Province.
+
+The Department released a statement in the Western, Sabaragamuwa and North Western provinces, a few thin showers in Galle, Matara, Kandy and Nuwara Eliya districts.
+
+Showers or thundershowers will occur at several places during the evening or night in the Uva and Eastern provinces.
+
+The Department has requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/16421b73.json)
+
+[Extended Data](ext_articles/16421b73.ext.json)
 
 ---
 
@@ -325,6 +411,8 @@ Sri Lanka’s debt crisis has been the most critical issue affecting its economy
 ...
 
 [Data](articles/16f7027d.json)
+
+[Extended Data](ext_articles/16f7027d.ext.json)
 
 ---
 
@@ -478,6 +566,8 @@ Endowed with a mixed economy that consolidates the involvement of both the Gover
 
 [Data](articles/3e3b9d61.json)
 
+[Extended Data](ext_articles/3e3b9d61.ext.json)
+
 ---
 
 ### ‘The Residencies, Kotte – rapid construction progress’
@@ -528,6 +618,8 @@ Unilever Sri Lanka partners with USAID and Vega Innovations to scale-up refillab
 
 [Data](articles/7985b2f9.json)
 
+[Extended Data](ext_articles/7985b2f9.ext.json)
+
 ---
 
 ### Dialog unveils 16th Annual Sustainability Report
@@ -574,13 +666,37 @@ In a significant step towards environmental conservation, Club Hotel Dolphin, Wa
 
 ---
 
-### இஸ்ரேலின் தாக்குதலில் ஹமாஸ் தலைவர் பலி
+### Hamas leader killed in Israel's attack
 
 *2024-10-18 01:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-ஹமாஸ்-தலைவர்-பலி/175-345635) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Hamas leader assassinated in Israeli airstrike. Tensions escalate between Israel and Gaza as retaliation feared."
+
+🟩
 
 ◼️
 
 [Data](articles/3a35cc5a.json)
+
+[Extended Data](ext_articles/3a35cc5a.ext.json)
+
+---
+
+### Sajith’s Opposition Leadership At Risk
+
+*2024-10-18 01:00:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sajiths-opposition-leadership-at-risk/) · `en`
+
+The fact that having secured the victory at the presidential election, the same political party will win following elections – General election, Provincial Council election and then Local Government election respectively, has been the political tradition in Sri Lanka, as its apex position is the executive presidency. Hence, anyone needs to make a political change, it has to start from the top – The Executive Presidency. Accordingly, 5.7 million voters have already made that change, waiting for the following elections. So, what’s next?
+
+...
+
+[Data](articles/dfb44139.json)
+
+[Extended Data](ext_articles/dfb44139.ext.json)
 
 ---
 
@@ -619,6 +735,8 @@ First action he is to take, is to dissolve parliament and call for fresh electio
 ...
 
 [Data](articles/658a1c3c.json)
+
+[Extended Data](ext_articles/658a1c3c.ext.json)
 
 ---
 
@@ -2199,83 +2317,5 @@ It has been announced that the film will be released at the filmmaker on the 25t
 [Data](articles/35eb48a4.json)
 
 [Extended Data](ext_articles/35eb48a4.ext.json)
-
----
-
-### தென்கிழக்கு பல்கலையில் விஞ்ஞானம்  மற்றும் தொழில்நுட்பம் தொடர்பான 4வது  சர்வதேச ஆய்வு மாநாடு!
-
-*2024-10-17 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196508) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"4th Int'l Conf on Science & Tech (ICST2024) held at Eastern University. Keynote speakers: Dilanthi Amaratunga (Huddersfield Uni), Chaklam Silpasuwanchai (Asian Inst of Tech). 52 papers presented out of 81 submissions. Organized by Faculty of Technology, Eastern University."
-
-🟩
-
-இலங்கை தென்கிழக்கு பல்கலைக்கழகத்தில் விஞ்ஞானம் மற்றும் தொழில்நுட்பம் தொடர்பான 4வது சர்வதேச ஆய்வு மாநாடு(4th International Conference on Science and Technology - ICST2024)  தொழில்நுட்பவியல் பீட பிரதான கேட்போர் கூடத்தில் 2024.10.16 ஆம் திகதி மாநாட்டின் தலைவரும் பதில் உபவேந்தரும் பீடாதிபதியுமான கலாநிதி யூ.எல். அப்துல் மஜீத் தலைமையில் இடம்பெற்றது.
-
-ஆய்வு மாநாட்டை தென்கிழக்கு பல்கலைக்கழக  தொழினுட்பவியல் பீடம் (Faculty of Technology) ஏற்பாடு செய்திருந்தது. Along with this, the Slaas (Eastern Chapter) was united.
-
-Dr. Munib M.. முஸ்தபாவின் வழிகாட்டலிலும் ICST 2024  செயலாளர் ஏ.ஆர். பாத்திமா ஷபானாவின் நெறிப்படுத்தலிலும், “நிலையான எதிர்காலத்திற்கான நவீன தொழில்நுட்பங்கள் மூலம் புதுமையான எல்லைகளை ஆராய்தல்” (“Exploring Innovative Horizons Through Modern Technologies for a Sustainable Future”) எனும் தொனிப்பொருளில் குறித்த மாநாடு இடம்பெற்றது.
-
-...
-
-[Data](articles/3666c9cc.json)
-
-[Extended Data](ext_articles/3666c9cc.ext.json)
-
----
-
-### Sivakarthikeyan starring 'Amaran' is the second song release
-
-*2024-10-17 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/196506) · `ta`
-
-Sivakarthikeyan's 'Amaran' second song "Vanillavu Saral Nee" released. Directed by Rajkumar Periyasamy, featuring Sai Pallavi, Rahul Bose. Music by V. Prakash Kumar. Produced by Rajkamal Films International and Sony Pictures Films India. Song written by Yukabarathi, sung by Rakshita Suresh. Music release event in Chennai tomorrow with Silambarasan as special guest.
-
-🟩
-
-The second song and the song, which starts with 'Vanillavu Saral Nee', which is featured in 'Amaran' starring Sivakarthikeyan, the leading star actor, has been released.
-
-Directed by director Rajkumar Periyasamy, Sivakarthikeyan, Sai Pallavi, Rahul Bose, Bhuvan Arora, Sri Kumar, Shyam Mohan are many others.
-
-சி. H. Sai is a video of the film.. V.. Prakash Kumar has composed the music.
-
-The film is being produced by Rajkamal Films International and Sony Pictures Films India to embrace the biography of a patriotic soldier.
-
-The second song and a relic video for the song will be released on Diwali on the 31st of this month.
-
-The song is written by songwriter Yukabarathi, background singer Kapil Kapilan and playback singer Rakshita Suresh.
-
-'இசை அசுரன்' ஜீ வி பிரகாஷ் குமாரின் வசீகரிக்கும் மெல்லிசை மெட்டுகளில் யுக பாரதி ,கபில் கபிலன், ரக்ஷிதா சுரேஷ் ஆகியோர் இணைந்து நிகழ்த்திய மாயாஜாலத்தால் இப்பாடல் அனைத்து தரப்பு ரசிகர்களையும் வெகுவாக கவர்ந்திருக்கிறது.
-
-...
-
-[Data](articles/1ede517b.json)
-
-[Extended Data](ext_articles/1ede517b.ext.json)
-
----
-
-### Controversy erupts over Sri Lanka’s CEB move to continue fuel purchases sans tender
-
-*2024-10-17 14:52:00* · [`economynextcom`](https://economynext.com/controversy-erupts-over-sri-lankas-ceb-move-to-continue-fuel-purchases-sans-tender-183952/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new government has come under fire over a reported move state-run Ceylon Electricity Board (CEB) to continue to purchase fuel without competitive bidding, and with a deal struck with Ceylon Petroleum Corporation.
-
-Sri Lanka’s Daily Mirror newspaper reported that CEB has decided not to go ahead with competitive procurement of fuel but to strike a deal with Ceylon Petroleum Corporation, reversing decision by the earlier administration to move for open tendering.
-
-The report said the CEB had decided not to go for competitive bidding since there was no substantial price variation among different suppliers, the report said.
-
-The last government towards the end of its term had decided to call for bids from different fuel suppliers such as the CPC, LIOC and Sinopec for fuel supply, after multiple fuel distributors were established.
-
-A senior CEB official said the state-run utility provider will issue a clarification on Friday without elaborating.
-
-...
-
-[Data](articles/d7cbab68.json)
-
-[Extended Data](ext_articles/d7cbab68.ext.json)
 
 ---

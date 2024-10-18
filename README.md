@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 06:09:15**
+As of **2024-10-18 06:44:47**
 
 ## Newspaper Stats
 
-*Scraped **50,063** Articles*
+*Scraped **50,066** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 402
-colombotelegraphcom | 497
+colombotelegraphcom | 499
 bbccomsinhala | 502
 islandlk | 2,971
 economynextcom | 3,066
-dailyftlk | 3,412
+dailyftlk | 3,413
 adalk | 4,655
 dailymirrorlk | 4,733
 adaderanalk | 5,928
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,673
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,061 (100.0%) of 50,063 articles have been extended.
+50,062 (100.0%) of 50,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Financial fraud through social media and online scams: Growing threat in Sri Lanka and globally
+
+*2024-10-18 05:58:31* · [`dailyftlk`](https://www.ft.lk/columns/Financial-fraud-through-social-media-and-online-scams-Growing-threat-in-Sri-Lanka-and-globally/4-768107) · `en`
+
+As financial services become increasingly digital, so do the methods employed by cyber criminals and fraudsters. In both global and Sri Lankan context, social media platforms and online channels have become breeding grounds for financial scams. These schemes exploit the public’s lack of awareness and in some cases, desperation during economic hardships. While the exact scale is difficult to gauge, the prevalence of such incidents in media paints a concerning picture. This has raised the need for financial institutions to step up their security measures and educate the public.
+
+This article explores recent fraud incidents, the importance of user education, and how financial organisations can protect their customers while ensuring convenience and minimising service disruption.
+
+Globally, cybercriminals are exploiting the popularity of social media to launch sophisticated scams.
+
+...
+
+[Data](articles/32a0685c.json)
+
+[Extended Data](ext_articles/32a0685c.ext.json)
+
+---
 
 ### Brazen abduction and brutal murder of journalist “Taraki” Sivaram
 
@@ -253,6 +271,18 @@ In addition, postal polling will be handed over to the postal work on the 23rd o
 [Data](articles/649d673f.json)
 
 [Extended Data](ext_articles/649d673f.ext.json)
+
+---
+
+### Aftermath Of AKD Victory – What Is In Store
+
+*2024-10-18 00:20:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/aftermath-of-akd-victory-what-is-in-store/) · `en`
+
+First action he is to take, is to dissolve parliament and call for fresh elections. During this period from dissolution to summoning new parliament, country would be ruled by an interim government, which will be constituted by members of the existing parliament. JVP has only five members including the newly nominated one, and therefore needs others to join. There will not be much problem as there are number of Muslim MPs who are ready to somersault, and opportunistic MPs like Sumanthiran, Devananda and some Sinhala MPs will give them support. Another problem to be faced is to get many NPP members elected at the next hustings. After proportional representation was introduced, no faction was able to secure two-thirds majority, and NPP cannot expect any better result than that. Once settled, let us analyse how they would perform in meeting their promises to the people.
+
+...
+
+[Data](articles/658a1c3c.json)
 
 ---
 
@@ -505,6 +535,20 @@ After his departure, captain Rovman Powell too showcased his power hitting skill
 [Data](articles/7d84d805.json)
 
 [Extended Data](ext_articles/7d84d805.ext.json)
+
+---
+
+### Eliminating Ethnic-Based Politics In Sri Lanka: A Path Toward National Unity
+
+*2024-10-17 22:28:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/eliminating-ethnic-based-politics-in-sri-lanka-a-path-toward-national-unity/) · `en`
+
+Sri Lanka, with its rich diversity of ethnicities, religions, and cultures, has long faced the challenge of balancing these identities in its political landscape. Ethnic-based politics, which has shaped much of the country’s history, continues to be a divisive force that hinders national unity, sustainable development, and long-term peace. Eliminating ethnic-based politics is essential for Sri Lanka’s progress toward a truly united, prosperous, and peaceful society.
+
+Ethnic politics in Sri Lanka can be traced back to the colonial period, when the British promoted communal identities for administrative convenience. After independence in 1948, political parties began to align themselves along ethnic lines, leading to an entrenched system of division. The Sinhalese, Tamil, and Muslim communities were often pitted against one another as political elites manipulated ethnic tensions for electoral gains.
+
+...
+
+[Data](articles/3d6ab47e.json)
 
 ---
 
@@ -2381,77 +2425,5 @@ Traders will come forward to bribe the government's plans, and the wider corrupt
 [Data](articles/141ad930.json)
 
 [Extended Data](ext_articles/141ad930.ext.json)
-
----
-
-### Steal as much as possible, but don't get caught ”
-
-*2024-10-17 11:30:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடிந்தவரை-திருடுங்கள்-ஆனால்-பிடிபடாதீர்கள்/175-345607) · `ta`
-
-Former President Chandrika Bandaranaike exposed bribery attempts during her tenure. She rejected a $5 million offer and criticized widespread corruption in Sri Lanka, warning it could lead to national bankruptcy if unchecked.
-
-🟩
-
-Former President Chandrika Bandaranaike has said that he once offered him $ 5 million to bribe and immediately rejected it during his tenure.
-
-Speaking at the 45th National Conference of Accountants in Colombo, the former president spoke about the corruption in Sri Lanka.
-
-“It has happened to me. Brought to my parliament desk $ 5 million. Even then I was the Prime Minister. I told you to take this and leave now. It was brought by the husband of a minister in my state. I will arrest you.. There was also a Singapore businessman with this person. ”Bandaranaike remembered that.
-
-The former president said it was impossible to change the minds of the elders who were accustomed to corrupt, so he emphasized the need to design values ​​from an early age.
-
-There was a president who says, "Steal as much as you can, but don't get caught. He thus told his cabinet and his parliamentarians and local MPs.
-
-...
-
-[Data](articles/a115c326.json)
-
-[Extended Data](ext_articles/a115c326.ext.json)
-
----
-
-### சீனாவில் வெற்றிகரமான  மோசடி எதிர்ப்பு நடைமுறை
-
-*2024-10-17 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196488) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Chinese police collaborated with 76 countries in Interpol to combat fraud. They identified 1,770 fraudulent sites, arrested over 2,000 suspects, and prevented $50 million+ illegal financial frauds.
-
-🟩
-
-Chinese police participated in anti -fraud activities with 76 member states within the Interpol structure from March to June 2022. சர்வதேச ரீதியில் 1,770 மோசடி மறைவிடங்களை அடையாளப்படுத்தவும், 2,000 க்கும் மேற்பட்ட சந்தேக நபர்களைக் கைது செய்யவும் உதவியதோடு 50 மில்லியன் அமெரிக்க டொலருக்கும் அதிகமான சட்டவிரோத நிதி மோசடி செய்யப்படுவதையும் தடுத்தது.
-
-◼️
-
-[Data](articles/09475091.json)
-
-[Extended Data](ext_articles/09475091.ext.json)
-
----
-
-### HVP vaccine students admitted to hospital
-
-*2024-10-17 11:13:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/HVP-தடுப்பூசி-போட்ட-மாணவிகள்-வைத்தியசாலையில்-அனுமதி/175-345606) · `ta`
-
-Five 12-year-old students hospitalized after receiving HPV vaccine. Symptoms included headaches, abdominal pain, and fainting. All students from 7th grade at Venivelpitiya Junior College.
-
-🟩
-
-Five students aged 12 years old have been admitted to the hospital after the HVP vaccine to prevent cervical cancer has been admitted to the hospital.
-
-Five students in the seventh grade have been taken to the hospital at Venivelpitiya Junior College in Angruvattota.
-
-The vaccine was paid to 26 students studying in the 7th grade of the school in the school.
-
-Shortly after the vaccine, five students were admitted to the Haldota Divisional Hospital following signs of headaches, abdominal pain and fainting.. Remble
-
-◼️
-
-[Data](articles/197b1570.json)
-
-[Extended Data](ext_articles/197b1570.ext.json)
 
 ---

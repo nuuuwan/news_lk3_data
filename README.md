@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 10:13:02**
+As of **2024-10-18 10:24:51**
 
 ## Newspaper Stats
 
-*Scraped **50,113** Articles*
+*Scraped **50,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,932
 tamilmirrorlk | 6,856
 virakesarilk | 8,023
-adaderanasinhalalk | 8,683
+adaderanasinhalalk | 8,684
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,113 (100.0%) of 50,113 articles have been extended.
+50,114 (100.0%) of 50,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### බිත්තර සඳහා මිල සූත්‍රයක් ඉල්ලයි
+
+*2024-10-18 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202300) · `si`
+
+Egg trade associations request government price formula. Price increase due to rising costs. Committee suggested to set fair prices based on production costs.
+
+🟩
+
+The Eggs Trade Associations have asked the government to submit a price formula to determine the price of an egg.
+
+The All Ceylon Lagoon Trade Association Secretary Anura Marasinghe said that a cost of Rs.
+
+"The crisis related crisis is not resolved yet. රුපියල් 40 - 45 දක්වා වෙළෙඳපොළේ බිත්තර මිල වැඩි වෙලා. Introduce a committee to appoint a committee and introduce a price formula. බිත්තරයක ඇත්තම නිෂ්පාදන වියදම රුපියල් 20ත් 23ත් අතර යන්නේ. ගොවිපොළෙන් රුපියල් 30කට බිත්තරය දෙන්න පුළුවන්."
+
+◼️
+
+[Data](articles/2623d174.json)
+
+[Extended Data](ext_articles/2623d174.ext.json)
+
+---
 
 ### 2024 General Election: Candidates advised to appoint financial managers
 
@@ -2315,31 +2337,5 @@ This College, 1939, S.WR. De Bandaranaike commenced in the name of de Bandaranay
 [Data](articles/e79961f2.json)
 
 [Extended Data](ext_articles/e79961f2.ext.json)
-
----
-
-### The Tamil people should vote for the Tamils ​​to maintain their presence - Mithilicchelvi
-
-*2024-10-17 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196518) · `ta`
-
-Tamil politician Mithilachelvi urges voters to support Tamil candidates to preserve Tamil presence. He warns against voting for majority parties, emphasizing women's rights and past losses.
-
-🟩
-
-The Tamil people should vote for the Tamils ​​to retain their presence. Election District candidate Mithilachelvi Sripatmanathan said.
-
-Yall. He was speaking at a media briefing held at the Media Center today (17).
-
-The Tamil people should vote for the Tamils ​​to retain their presence. Voting for the majority parties is very dangerous.
-
-While women should be prioritized. Women have suffered a large number of losses in the past. To help them. He added that they should change their lives.
-
-Tamil People's Alliance at this media meeting. Attorney -at -Law. Manivannan, candidates lawyer Umakaran Rasiah and Varadaraja Parthiban were also present.
-
-◼️
-
-[Data](articles/12662d8b.json)
-
-[Extended Data](ext_articles/12662d8b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 15:23:36**
+As of **2024-10-18 15:39:26**
 
 ## Newspaper Stats
 
-*Scraped **50,145** Articles*
+*Scraped **50,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,420
 adalk | 4,659
 dailymirrorlk | 4,733
 adaderanalk | 5,939
-tamilmirrorlk | 6,859
+tamilmirrorlk | 6,860
 virakesarilk | 8,028
 adaderanasinhalalk | 8,696
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,145 (100.0%) of 50,145 articles have been extended.
+50,146 (100.0%) of 50,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Relvin Silva's opinion is the government's opinion?
+
+*2024-10-18 15:09:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரில்வின்-சில்வாவின்-கருத்து-அரசாங்கத்தின்-கருத்தா/175-345650) · `ta`
+
+ரில்வின் சில்வாவின் கருத்து அரசாங்கத்தின் கருத்தா ஜே.வி.பியின் கருத்தா அல்லது தேசிய மக்கள் சக்தியின் கருத்தா என வினவிய முன்னாள் பாராளுமன்ற உறுப்பினரும் ரெலோவின் செயலாளர் நாயகமுமான கோ.கருணாகரம் (ஜனா), கடந்த கால ஜனாதிபதி, பிரதமர் பாணியில் ஜனாதிபதி அனுரகுமார திசாநாயக்காவின் ஆட்சியில் இந்த ரில்வின் சில்வா செயற்படுகிறார் எனவும் கூறினார்.
+
+ஜே.வி.பி.யின் செயலாளர் ரில்வின் சில்வாவின் கருத்துக்கு பதிலளிக்கும் வகையில் இன்று (18) வெளியிட்டுள்ள அறிக்கையிலேயே இவ்வாறு குறிப்பிடப்பட்டுள்ளது.
+
+“This is the idea that JVP secretary Rilvin Silva told me in an interview with Sinhala television. The 13th Amendment to the Constitution is not necessary for the Northern people. Tamil politicians are using it to maintain political existence and that the issue of the people of the North is the need for hospital facilities to marke their production.
+
+...
+
+[Data](articles/c3bb805b.json)
+
+[Extended Data](ext_articles/c3bb805b.ext.json)
+
+---
 
 ### Health Ministry explains facts about HPV vaccine
 
@@ -2347,27 +2365,5 @@ However, they made statements about the death of Syinvar after being attacked no
 [Data](articles/e0e91a20.json)
 
 [Extended Data](ext_articles/e0e91a20.ext.json)
-
----
-
-### The Sri Lankan team won the series
-
-*2024-10-17 22:23:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தொடரை-கைப்பற்றி-சாதித்தது-இலங்கை-அணி/44-345633) · `ta`
-
-Sri Lanka wins 3-match T20 series 2-1, defeating West Indies 9 wickets in final match. This marks first victory over WI in T20 format.
-
-🟩
-
-Sri Lanka have won by 9 wickets in the third and final T20 cricket match against the West Indies.
-
-With this victory, the Sri Lankan team won the 3-match series 2-1.
-
-The T20 cricket match is considered the first victory against the West Indies in history.R
-
-◼️
-
-[Data](articles/90268105.json)
-
-[Extended Data](ext_articles/90268105.ext.json)
 
 ---

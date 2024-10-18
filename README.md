@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 14:39:47**
+As of **2024-10-18 14:58:28**
 
 ## Newspaper Stats
 
-*Scraped **50,140** Articles*
+*Scraped **50,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,937
 tamilmirrorlk | 6,859
 virakesarilk | 8,028
-adaderanasinhalalk | 8,693
+adaderanasinhalalk | 8,694
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,140 (100.0%) of 50,140 articles have been extended.
+50,141 (100.0%) of 50,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Petition to court against Licensing firearms
+
+*2024-10-18 14:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202311) · `si`
+
+Defense Ministry petitions court to revoke firearm licenses issued to private security companies. Petitioner claims hotel damage during conflict. Requests court to annul Defense Secretary's announcement regarding firearm return.
+
+🟩
+
+The Defense Ministry has recently submitted a petition to the Defense Court for a demanding order to issue a default launching order to issue the firearms issued by the Defense Ministry to private security.
+
+Avenue Hotel Group's Governor HD. The petition presented the petition by Aluthnamkha de Silva.
+
+As the respondents, the Secretary of the Ministry of Defense and the Director of State Intelligence Inspector and acting of the acting IGP have been named.
+
+The petitioner said that the petitioner has filed the petition by the Defense Ministry in 2012 or in 2013 or in 2013, the Defense Ministry had obtained firearms under a license.
+
+He had stated in his petition that his hotels were damaged during the struggle.
+
+The petitioner states that he had issued an announcement on the 7th to hand over the firearms issued under the license.
+
+The petitioner pointed out that the decision has been a serious threat to him as a businessman has appealed to this decision, but it was not even better.
+
+...
+
+[Data](articles/3a27c71a.json)
+
+[Extended Data](ext_articles/3a27c71a.ext.json)
+
+---
 
 ### වන අලින්ට මරු කැඳවූ දුම්රිය අනතුරු ගැන රියදුරා කළ හෙළිදරව්ව
 
@@ -2343,23 +2373,5 @@ The third election we face in this case is this parliamentary election. We were 
 [Data](articles/76748d8c.json)
 
 [Extended Data](ext_articles/76748d8c.ext.json)
-
----
-
-### Development projects in Sri Lanka more through investments, grants, India says
-
-*2024-10-17 21:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102765/development-projects-in-sri-lanka-more-through-investments-grants-india-says) · `en`
-
-India has completed 60 grant projects in Sri Lanka and implementing 16 more currently, the development coming more through investments and grants and relatively less through debt instruments, India’s envoy to Sri Lanka said on Tuesday.
-
-Santosh Jha, the High Commissioner of India to Sri Lanka, also reaffirmed India’s support for island nation’s debt restructuring efforts, securing IMF support, and extending bilateral financial support to overcome immediate challenges.
-
-Emphasising the importance of a robust partnership between India and Sri Lanka, highlighting the intertwined destinies of the two nations, Jha – who was speaking at the 45th National Conference of CA Sri Lanka – underscored the shared geography, history, and future that bind the two countries.
-
-◼️
-
-[Data](articles/7e39291d.json)
-
-[Extended Data](ext_articles/7e39291d.ext.json)
 
 ---

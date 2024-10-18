@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 15:39:26**
+As of **2024-10-18 15:58:20**
 
 ## Newspaper Stats
 
-*Scraped **50,146** Articles*
+*Scraped **50,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,83 @@ dailyftlk | 3,420
 adalk | 4,659
 dailymirrorlk | 4,733
 adaderanalk | 5,939
-tamilmirrorlk | 6,860
+tamilmirrorlk | 6,861
 virakesarilk | 8,028
-adaderanasinhalalk | 8,696
+adaderanasinhalalk | 8,697
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,146 (100.0%) of 50,146 articles have been extended.
+50,148 (100.0%) of 50,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Why not negotiate with the International Monetary Fund
+
+*2024-10-18 15:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-நாணய-நிதியத்துடன்-ஏன்-பேச்சுவார்த்தை-நடத்தவில்லை/175-345651) · `ta`
+
+Sajith Premadasa criticizes government for failing to negotiate with IMF to reduce tax burden. Promises to renegotiate IMF agreement if elected, citing need for economic relief and tax reform.
+
+🟩
+
+“United People's Power President Sajith Premadasa has questioned why the government cannot negotiate with the IMF and reduce tax burden.
+
+A meeting with the United People's Power Party activists was held yesterday (17) under the leadership of Sajith Premadasa, the leader of the United People's Power and United People's Alliance (UPFA).. He then asked.
+
+“While the people are looking for a new journey to negotiate with the IMF, increase the relief available to the people, and reduce the tax burden on the people, the government has been unable to reduce the direct and indirect taxes imposed on the people.
+
+“The destined taxes are similar. The current government continues to comply with the International Monetary Fund. The government has forgotten the promises made during the election.
+
+...
+
+[Data](articles/047f4b0d.json)
+
+[Extended Data](ext_articles/047f4b0d.ext.json)
+
+---
+
+### CEB clarified about fueling thermal power plants
+
+*2024-10-18 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202314) · `si`
+
+Here's a 200-character summary:
+
+
+
+CEB clarifies fuel supply for thermal power plants. Uses HFO (5.8%), naphtha (1.9%), diesel (1.1%) for electricity generation. Diesel purchase via CPC at fixed price due to lack of competitive bids. CEB considers diesel uneconomical but uses temporarily to meet demand until other power plants restored.
+
+🟩
+
+The Ceylon Electricity Board has issued a special announcement on supplying fuel to thermal power plants.
+
+It states that some recent newsletters are expected to explain the word 'fuel'.
+
+The Ceylon Electricity Board (Ceylon Electricity Board) is also used to generate three types of fuel to generate electricity.
+
+* Receipt oil (HFO) - 715.3 GWh (5.8% of total electricity production) in 2024
+
+* Napatha (Naphatha) - 235.5 GWH (1.9% of the total electric production) in 2024
+
+* Diesel (Diesel) - 133.1 GWH (1.1% of total electric production) in 2024
+
+Both credits (HFO) and Naupta (Naphatha) are bypace on the oil refinery.
+
+Since there is no other supplier, the Ceylon Electricity Board is purchased by CPC from an anciently agreed price.
+
+Competitive bidding is diesel, and some of them have recently commenced their business for diesel.
+
+However, even under the management of the Ceylon Electricity Board, Diesel has not purchased competitive bids for electricity generation.
+
+...
+
+[Data](articles/c9672e21.json)
+
+[Extended Data](ext_articles/c9672e21.ext.json)
+
+---
 
 ### Relvin Silva's opinion is the government's opinion?
 
@@ -2325,45 +2389,5 @@ After his departure, captain Rovman Powell too showcased his power hitting skill
 [Data](articles/7d84d805.json)
 
 [Extended Data](ext_articles/7d84d805.ext.json)
-
----
-
-### Eliminating Ethnic-Based Politics In Sri Lanka: A Path Toward National Unity
-
-*2024-10-17 22:28:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/eliminating-ethnic-based-politics-in-sri-lanka-a-path-toward-national-unity/) · `en`
-
-Sri Lanka, with its rich diversity of ethnicities, religions, and cultures, has long faced the challenge of balancing these identities in its political landscape. Ethnic-based politics, which has shaped much of the country’s history, continues to be a divisive force that hinders national unity, sustainable development, and long-term peace. Eliminating ethnic-based politics is essential for Sri Lanka’s progress toward a truly united, prosperous, and peaceful society.
-
-Ethnic politics in Sri Lanka can be traced back to the colonial period, when the British promoted communal identities for administrative convenience. After independence in 1948, political parties began to align themselves along ethnic lines, leading to an entrenched system of division. The Sinhalese, Tamil, and Muslim communities were often pitted against one another as political elites manipulated ethnic tensions for electoral gains.
-
-...
-
-[Data](articles/3d6ab47e.json)
-
-[Extended Data](ext_articles/3d6ab47e.ext.json)
-
----
-
-### Hamas leader dies
-
-*2024-10-17 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202285) · `si`
-
-Hamas leader Zinwar reportedly killed in attack near Jabalia. Israeli army confirms death but location unknown. Incident occurred recently.
-
-🟩
-
-The Israeli army says he believes that Zinwar has died in the joy of Hamas leader from his attack.
-
-They had also inspected a suspicious body to verify that death.
-
-The Israeli Army has not been confirmed yet where the incident took place.
-
-However, they made statements about the death of Syinvar after being attacked north Jabalia and leaving short time.
-
-◼️
-
-[Data](articles/e0e91a20.json)
-
-[Extended Data](ext_articles/e0e91a20.ext.json)
 
 ---

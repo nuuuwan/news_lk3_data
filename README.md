@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 23:10:29**
+As of **2024-10-18 23:23:47**
 
 ## Newspaper Stats
 
-*Scraped **50,200** Articles*
+*Scraped **50,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ dailymirrorlk | 4,733
 adaderanalk | 5,945
 tamilmirrorlk | 6,870
 virakesarilk | 8,040
-adaderanasinhalalk | 8,706
+adaderanasinhalalk | 8,707
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,200 (100.0%) of 50,200 articles have been extended.
+50,201 (100.0%) of 50,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### New Zealand to fight T20 World Cup
+
+*2024-10-18 22:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202325) · `si`
+
+New Zealand qualifies for T20 Women's World Cup final after defeating West Indies by 8 runs. They'll face South Africa on Sunday.
+
+🟩
+
+B.I. West Indies women defeated by 8 runs and qualify for the final of the T20 Women's World Cup final.. West Indies Women's team passed today (18).
+
+The competition was held in Sajah as the second semi-final in the United Arab Emirates.
+
+In response to 129 runs in New Zealand, West Indies were able to score only 120 runs in the 20 overs.
+
+Batting first, New Zealand women's group scored 128 runs for the loss of 9 wickets in their 20 overs.
+
+New Zealand, with the highest number of experience in the International T20 Women's cricket, qualified for the semi-finals.
+
+Despite these occasions, they were allowed to play the final, but they had to be satisfied with the runners-up in two.
+
+West Indies also played a semi-final match of the Twenty20 Women Cup.
+
+However, they were able to play the final at the tournament held in India in 2016.
+
+It was once defeated by the strong Australian group and crowned World Champions.
+
+New Zealand will be held on Sunday (20) between New Zealand and South Africa.
+
+◼️
+
+[Data](articles/7f85a333.json)
+
+[Extended Data](ext_articles/7f85a333.ext.json)
+
+---
 
 ### Names for Hamas's new leadership
 
@@ -2481,29 +2517,5 @@ Minister Vijitha Herath said that the report prepared by the committee will be s
 [Data](articles/3a99c101.json)
 
 [Extended Data](ext_articles/3a99c101.ext.json)
-
----
-
-### Sri Lanka banks build forex balances to US$3.7bn amid crisis, repays debt
-
-*2024-10-18 08:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-build-forex-balances-to-us3-7bn-amid-crisis-repays-debt-184060/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s banks have built 3.7 billion dollars of balances with financial institutions abroad by the second quarter of 2024, rising sharply over a currency crisis, official data shows.
-
-“The Banking sector maintained a considerable amount of FCY (foreign currency) funds with financial institutions abroad for the prudential liquidity risk management,” the central bank said in a financial stability review.
-
-“The Banking sector significantly improved their balances with financial institutions abroad since 2021 to meet their liquidity needs in FCY, in an environment where a FCY liquidity deficit was prevailing in the domestic forex market.”
-
-The balances had peaked at over 4 billion US dollars in the third quarter of 2023 and have since declined.
-
-“FCY borrowings of the Banking sector further declined as many banks have settled their obligations during the period,” the report said.
-
-“FCY borrowings of the Banking sector stood at USD 836 million at end Q2 of 2024.”
-
-...
-
-[Data](articles/4cfd194b.json)
-
-[Extended Data](ext_articles/4cfd194b.ext.json)
 
 ---

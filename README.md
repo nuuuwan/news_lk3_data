@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 18:59:41**
+As of **2024-10-18 19:23:30**
 
 ## Newspaper Stats
 
-*Scraped **50,173** Articles*
+*Scraped **50,174** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 404
-colombotelegraphcom | 500
+colombotelegraphcom | 501
 bbccomsinhala | 504
 islandlk | 2,974
 economynextcom | 3,067
@@ -26,45 +26,57 @@ adaderanasinhalalk | 8,700
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,161 (100.0%) of 50,173 articles have been extended.
+50,171 (100.0%) of 50,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
 
-### பெரகல, வெல்லவாய வீதியில் பஸ்ஸுடன் முச்சக்கரவண்டி மோதி விபத்து!
+### Three -wheeler collides with buses on Wellawaya Road, Perakala
 
 *2024-10-18 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196610) · `ta`
 
-பெரகல, வெல்லவாய வீதியில் இடம்பெற்ற வாகன விபத்தில் ஒருவர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+Three-wheeler collides with buses on Wellawaya Road, Perakala. One person injured. Driver hospitalized. Accident occurred during overtaking attempt. Police investigation ongoing.
 
-பஸ்ஸை முந்திச் செல்ல முற்பட்ட முச்சக்கரவண்டி ஒன்று முன்னால் வந்த பஸ்ஸுடன் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-படுகாயமடைந்த முச்சக்கர வண்டி சாரதி ஹல்துமுல்ல வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக தியத்தலாவ ஆதார வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளார்.
+One person has been admitted to hospital with injuries in a vehicle accident on Wellawaya Road, Perakala.
 
-ஹப்புத்தளை அக்கராசிய பிரதேசத்தைச் சேர்ந்த நபர் ஒருவர் தனது முச்சக்கரவண்டியில் தனது மனைவி மற்றும் குழந்தையுடன் பெரகலைக்கு சென்றுள்ளார்.
+Police said the accident occurred when a three -wheeler tried to overtake the bus.
 
-மனைவி தங்க நகையை மூலம் பணம் பெற்று கணவர் மது அருந்தியதாக கூறப்படுகிறது.
+The injured three -wheeler driver has been admitted to the Haldumulla Hospital and sent to the Diyatalawa Resource Hospital for further treatment.
 
-இதனால் கோபமடைந்த மனைவி திரும்பிச் சென்றபோது முச்சக்கர வண்டியில் ஏறாமல் பெரகல – அக்கராசிய பஸ்ஸில் வந்துள்ளார்.
+A man from Akkarasiya, Haputale, has gone to Perakalai with his wife and child in his three -wheeler.
 
-இதேவேளை, பெரகல - வெல்லவாய வீதியின் கல் கந்த பிரதேசத்தில், எதிரே வந்த வெல்லவாய - பண்டாரவளை பஸ்ஸுடன்  மோதியதாக பொலிஸார் தெரிவிக்கின்றனர்.
+The wife is said to have received money from the gold jewelery.
+
+When the angry wife returned, he did not get in the three -wheeler.
+
+Meanwhile, police said that the Kanda area of ​​the Perakala -Wellawaya road crashed into the Kanda area with the Wellawaya - Bandarawela bus.
 
 ◼️
 
 [Data](articles/6a8c3ade.json)
 
+[Extended Data](ext_articles/6a8c3ade.ext.json)
+
 ---
 
-### கொள்ளுப்பிட்டியில் வெளிநாட்டு சிகரெட்டுகளுடன் சீனப் பிரஜை கைது
+### Chinese citizen arrested with foreign cigarettes in Kalupitiya
 
 *2024-10-18 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196605) · `ta`
 
-கொழும்பு கொள்ளுப்பிட்டி, சமகி மாவத்தையில் சீனப் பொருட்களை விற்பனை செய்யும் கடை ஒன்றின் களஞ்சியசாலையில் மறைத்து வைக்கப்பட்டிருந்த வெளிநாட்டு சிகரெட்டுகளுடன் சீனப் பிரஜை ஒருவர் இன்று வெள்ளிக்கிழமை (18) கைது செய்யப்பட்டுள்ளதாக ஸ்ரீ ஜயவர்தனபுர மது வரி திணைக்களம் தெரிவித்துள்ளது.
+Chinese citizen arrested with foreign cigarettes in Kalupitiya. Cigarettes found hidden in Chinese shop in Colombo.
+
+🟩
+
+A Chinese citizen has been arrested today (18) with foreign cigarettes hidden in a Chinese shop in Samaki Mawatha, Colombo.
 
 ◼️
 
 [Data](articles/b3ab0499.json)
+
+[Extended Data](ext_articles/b3ab0499.ext.json)
 
 ---
 
@@ -148,61 +160,83 @@ The Western Province, Minister Vijitha Herath has advised the Western Province G
 
 ---
 
-### யாழில் சுயேச்சை குழு 13 தேர்தல் விஞ்ஞாபனத்தை வெளியிட்டது
+### Independent Committee in Jaffna released 13 election manifesto
 
 *2024-10-18 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/196601) · `ta`
 
-யாழ்ப்பாண தேர்தல் மாவட்டத்தில் தமிழ் இளையோர் கூட்டமைப்பாக சுயேச்சை குழு 13 இல் கரும்பலகை சின்னத்தில் போட்டியிடும் சுயேட்சை குழுவின் தேர்தல் விஞ்ஞாபனம் இன்றைய தினம் வெள்ளிக்கிழமை (18) யாழில் வெளியிட்டு வைக்கப்பட்டது.
+Jaffna election: Tamil Youth Federation releases manifesto. Committee led by Martyr Ponni Ponni starts campaign. Manifesto handed to Sivakumaran's sister.
 
-தமிழ் தேசத்தின் வரலாற்றில் மாணவப் போராளியாகப் போராடி தன்னுயிர் நீத்த முதல் தற்கொடையாளன் தியாகி பொன். சிவகுமாரனின் உரும்பிராயில் உள்ள நினைவிடத்தில் சுயேட்சை குழுவின் முதன்மை வேட்பாளர் யாழ்ப்பாண பல்கலைக்கழக மாணவர் ஒன்றிய முன்னாள் தலைவர் கி. கிருஸ்ணமீனன் தலைமையில் நடைபெற்றது.
+🟩
 
-நிகழ்வில் திருவுருவ சிலைக்கு மலர்மாலை அணிவித்து அஞ்சலி செலுத்தியதுடன், சிவகுமாரனின் சகோதரியிடம் தேர்தல் விஞ்ஞாபனத்தை கையளித்து, தமது தேர்தல் பிரச்சாரங்களை உத்தியோகபூர்வமாக ஆரம்பித்துள்ளனர்.
+The Independent Committee of the Independent Committee, which is contesting in the Independent Committee as the Tamil Youth Federation in the Jaffna election district, was released in Jaffna today (18).
+
+Martyr Ponni Ponni, the first supremacist who fought as a student in the history of the Tamil nation. Former President of the Jaffna University Student Union. Held by Krishnaminan.
+
+At the event, they paid tribute to the statue of the statue and handed over the election manifesto to Sivakumaran's sister and officially started their election campaigns.
 
 ◼️
 
 [Data](articles/29c81dd4.json)
 
+[Extended Data](ext_articles/29c81dd4.ext.json)
+
 ---
 
-### சவுதி அரேபியாவில் விபத்தில் சிக்கிய பெண் நாடு திரும்பினார்
+### Woman returned to country in Saudi Arabia
 
 *2024-10-18 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196598) · `ta`
 
-சவுதி அரேபியாவிற்கு வீட்டுப் பணிப் பெண்ணாக சென்று வாகன விபத்தில் சிக்கி காயமடைந்து பெண் சிகிச்சை பெற்று இன்று வெள்ளிக்கிழமை (18) காலை நாடு திரும்பியுள்ளார்.
+A 44-year-old Sri Lankan woman, mother of three, returned home after treatment in Saudi Arabia for injuries sustained in a vehicle accident. She had been working abroad due to financial difficulties. Local officials assisted her repatriation.
 
-இந்த பெண் பெலியத்த, கெடமான்ன பிரதேசத்தை சேர்ந்த 44 வயதுடைய மூன்று பிள்ளைகளின் தாயாவார். இவர்  சார்ஜாவில் இருந்து  இன்றைய தினம் காலை 04.25 மணியளவில் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்துள்ளார்.
+🟩
 
-“நான் பெலியத்த, கெடமான்ன பிரதேசத்தில் வசிக்கிறேன். எனக்கு மூன்று பிள்ளைகள் இருக்கின்றனர். எங்களுக்கு கதவுடன் கூடிய வசதியான வீடு இல்லை.
+Saudi Arabia has returned to the country this morning (18) after being treated for a woman who was injured in a vehicle accident.
 
-இதன் காரணமாக,  நான் கடந்த ஆகஸ்ட் மாதம் 17ஆம் திகதி அன்று கொழும்பு மருதானை பகுதியில் உள்ள வெளிநாட்டு வேலைவாய்ப்பு நிறுவனத்தின் உதவியுடன் சவுதி அரேபியாவிற்கு வீட்டுப் பணிப் பெண்ணாக சென்றேன்.
+The woman is the mother of three children, aged 44, from Ketamanna, Beliatta. He arrived at the Katunayake airport at 04.25 am today from Sharjah.
 
-நான் சவுதி அரேபியாவை சென்றடைந்த போது என்னை அழைத்து செல்ல விமான நிலையத்திற்கு வாகனம் ஒன்று அனுப்பி வைக்கப்பட்டது.
+“I live in Beliatta, Kedamanna area. I have three children. We don't have a comfortable house with the door.
 
-வைத்தியசாலையில் இருந்த வைத்தியர்கள், இந்த உடல் நிலைமையில் உங்களால் வேலை செய்ய முடியாது. அதனால் நீங்கள் மீண்டும் இலங்கைக்கு செல்ல வேண்டி வரும் என என்னிடம் கூறினர்.
+Because of this, I went to Saudi Arabia on August 17, with the help of a foreign employment company in Maradana, Colombo.
 
-...
+When I reached Saudi Arabia, a vehicle was sent to the airport to take me.
+
+Doctors at the hospital, you can't work in this physical condition. So they told me that you would have to go back to Sri Lanka.
+
+The Foreign Employment Agency in Maradana, Colombo, asked me to bring me to Sri Lanka.
+
+Later, the President of the Sri Lanka Human Rights Organization, Dr. Sarath Jayantha Peiris and many other officials, helped me to bring me to Sri Lanka. ”Said.
+
+◼️
 
 [Data](articles/2735afa9.json)
 
+[Extended Data](ext_articles/2735afa9.ext.json)
+
 ---
 
-### வவுனியாவில் விளையாட்டுக் கட்டடத் தொகுதி திறந்து வைப்பு
+### Opening of Sports Building in Vavuniya
 
 *2024-10-18 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196600) · `ta`
 
-வவுனியா ஓமந்தையில் சர்வதேச தரத்திலான விளையாட்டுக் கட்டட தொகுதி இன்று  வெள்ளிக்கிழமை (18) திறந்து வைக்கப்பட்டது.
+International Sports Building opens in Vavuniya after years of delay. Originally funded in 2015, project restarted with government allocation. Director General Semal Fernando and officials attend opening ceremony.
 
-கடந்த 2015 ஆம் ஆண்டு சுமார் 16 கோடி ரூபாய் நிதி ஒதுக்கப்பட்டு ஆரம்பித்து வைக்கப்பட்ட சர்வதேச தரத்திலான விளையாட்டு கட்டிட தொகுதியானது நீண்ட காலமாக அபிவிருத்திப் பணிகள் இடைநிறுத்தப்பட்டு காணப்பட்டது.
+🟩
 
-இந்நிலையில் கடந்த அரசாங்க  காலத்தில் மீளவும் நிதி ஒதுக்கப்பட்டு அபிவிருத்திப் பணிகள் முன்னெடுக்கப்பட்டு வந்திருந்தன.
+The International Sports Building block was opened today (18) in Omanthai in Vavuniya.
 
-இதன் பிரகாரம் குறித்த கட்டிடத் தொகுதியில் உள்ளக விளையாட்டு அரங்கு மற்றும் நீச்சல் தடாகம் என்பன மேலும் சுமார் 14 கோடி ரூபா ஒதுக்கப்பட்டு முழுமையாக சுமார் 30 கோடி ரூபா செலவில் புனரவைக்கப்பட்டு இன்று உத்தியோகபூர்வமாக திறந்து வைக்கப்பட்டது.
+In 2015, the International Sports Building Building, which started with a sum of Rs 16 crore in 2015, has been suspended for a long time.
 
-இந்நிகழ்வில் விளையாட்டு துறை அமைச்சின் விளையாட்டு அபிவிருத்தி திணைக்களத்தின் பணிப்பாளர் நாயகம் பேராசிரியர் ரியல் அட்மிரல் செமால் பெர்னான்டோ, உதவி பணிப்பாளர் கே. டபிள்யு. டி. கே.கொஸ்தா மற்றும் வவுனியா அரசாங்க அதிபர் பி.எஸ். சரத் சந்திர ஆகியோர் அதிதிகளாக கலந்து கொண்டு கட்டடத் தொகுதியை திறந்து வைத்திருந்தனர்.
+In this case, the re -funding of the last government has been allocated and development work has been carried out.
+
+Accordingly, the inner stadium and the swimming booth in the building were allocated to Rs.
+
+Director General of the Department of Sports Development of the Ministry of Sports, Prof. Real Admiral Semal Fernando, Assistant Director K.. AW. D. K.Sostha and Vavuniya Government Agent BS. Sarath Chandra was the guests and opened the building.
 
 ◼️
 
 [Data](articles/167cb4d2.json)
+
+[Extended Data](ext_articles/167cb4d2.ext.json)
 
 ---
 
@@ -234,65 +268,101 @@ Farm owners say that animals die in two days.
 
 ---
 
-### ராக்கெட் டிரைவர்- திரைப்பட விமர்சனம்
+### Rocket driver- movie review
 
 *2024-10-18 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196585) · `ta`
 
-நடிகர்கள் : விஸ்வத், சுனைனா, நாகா விஷால், காத்தாடி ராமமூர்த்தி, ஜெகன், ராமச்சந்திரன் துரைராஜ் மற்றும் பலர்
+"Rocket Driver" movie review summary:
 
-தமிழ் சினிமாவில் இதற்கு முன் ஏராளமான ஃபேண்டஸி திரில்லர் திரைப்படங்கள் வருகை தந்து பார்வையாளர்களின் ஆதரவை பெற்று வெற்றியை அளித்திருக்கிறது.
 
-அதிலும் புதுமுக இயக்குநர்களின் இயக்கத்தில் வெளியாகும் ஃபேண்டஸி திரில்லர் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்திருக்கிறது.
 
-அந்த வகையில் புது முக இயக்குநர் ஸ்ரீ ராம் அனந்த சங்கரின் இயக்கத்தில் உருவாகி இருக்கும் 'ராக்கெட் டிரைவர்' திரைப்படம் , அனைத்து தரப்பு ரசிகர்களின் எதிர்பார்ப்பை நிறைவேற்றியதா ?இல்லையா? என்பதனை தொடர்ந்து காண்போம்.
+Tamil fantasy thriller about a rocket enthusiast named Prabha inspired by APJ Abdul Kalam. Directed by newcomer Sri Ram Anantha Shankar, it follows Prabha's time-traveling adventures with Kalam and friend Shastri. Starring Viswat, Sunina, Naga Vishal, and Khadi Ramamurthy. Well-received despite low budget, praised for engaging storyline and performances.
 
-சென்னையில் ஓட்டோ ஒன்றின் சாரதியாக இருக்கிறார் பிரபா. ( விஸ்வத்)  ஓட்டோவை இயக்கினாலும் இயற்பியலில் அதுவும் குறிப்பாக ரொக்கெட்டுகளை விண்வெளிக்கு அனுப்பும் வானவியல் சார்ந்த இயற்பியலில் அலாதி பிரியம்.
+🟩
+
+Actors: Viswat, Sunina, Naga Vishal, Khadi Ramamurthy, Jegan, Ramachandran Durairaj and others
+
+In Tamil cinema, a number of fantasy thriller films have been successful and have been successful with the support of the audience.
+
+Fantasy thriller, directed by newcomers, has attracted all fans.
+
+The film 'Rocket Driver', directed by new faculty director Sri Ram Anantha Shankar, has fulfilled the expectations of all fans?We will continue to see.
+
+Prabha is the driver of Otto in Chennai. (Viswat) Ottai is a love of astronomical physics that sends Otto, especially in physics, and especially rockets.
+
+Also, former Indian President and nuclear scientist Abdulkalam is a role model for him.Prabha, who is worried that the passengers traveling in the vehicle with three people do not have love and concern for fellow humans, meets AB Abdul Kalam, a young age.
+
+He says he has visited Chennai to meet a professor of Rameshwaram.
 
 ...
 
 [Data](articles/00bbd93e.json)
 
+[Extended Data](ext_articles/00bbd93e.ext.json)
+
 ---
 
-### ஆலன் - திரைப்பட விமர்சனம்
+### Allen - Film Review
 
 *2024-10-18 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196587) · `ta`
 
-நடிகர்கள் : வெற்றி, மதுரா, அனு சித்தாரா, ஹரிஷ் பெராடி, 'அருவி' மதன் குமார், விவேக் பிரசன்னா, கருணாகரன் மற்றும் பலர்.
+Here's a 200-character summary of the film review:
 
-சிங்கப்பூரை சேர்ந்த தொழிலதிபர் ஆர். சிவா எழுத்தின் மீதும், வாசிப்பின் மீதும் தீவிர ஆர்வம் கொண்டவர். அதனால் எழுத்தாளர் ஒருவரின் வாழ்வியலை திரைப்படமாக உருவாக்க வேண்டும் என விரும்பி, 'ஆலன்' என்னும் திரைப்படத்தை தயாரித்திருக்கிறார்.
 
-எழுத்தையும், எழுத்தாளரையும் கொண்டாடும் வகையில் தயாராகி இருக்கும் இந்த 'ஆலன்' எனும் திரைப்படம் எல்லா தரப்பு ரசிகர்களின் எதிர்பார்ப்பை பூர்த்தி செய்ததா? இல்லையா? என்பதை தொடர்ந்து பார்ப்போம்.
 
-மேற்குத் தொடர்ச்சி மலை கிராமம் ஒன்றில் நான்கு சகோதரர்கள் கூட்டு குடும்பமாக வசிக்கிறார்கள்.
+"Alan" explores themes of writing, spirituality, and love set against the backdrop of a writer's journey. The film features strong performances from its cast, particularly the actresses playing Janani Thomas and Lotus. While the director's use of linear storytelling is criticized, the cinematography and music showcase the film's strengths. Overall, "Alan" falls short of fully realizing its potential as a celebration of writing and writers.
 
-இவர்களில் மூத்த சகோதரரின் மகன் தியாகு. இவருக்கு புத்தகங்களை வாசிப்பதும், எழுதுவதும் பிடிக்கும். இவரது தாத்தாவின் ஊக்கத்தால் எழுதத் தொடங்குகிறார்.
+🟩
 
-ஆனால் இவரது சித்தப்பாக்களின் சூழ்ச்சி காரணமாக விபத்தில் தனது பெற்றோரை இழக்கிறார். தன் மீது பிரியம் வைத்திருக்கும் தாமரையும் இறந்து விட்டதாக கருதுகிறார். அந்த விபத்து அவருக்கு கடுமையான மன அதிர்ச்சியை ஏற்படுத்துகிறது.
+Actors: Victory, Mathura, Anu Siddara, Harish Peradi, 'Falls' Madan Kumar, Vivek Prasanna, Karunakaran and many others.
+
+Businessman from Singapore. Siva. So he wants to make a film 'Alan', which he wants to make a life of a writer.
+
+Did the film 'Alan', which is ready to celebrate the writing and writer, meet the expectations of all sides?Or not?Let us continue to see.
+
+Four brothers live as a joint family in a Western Ghats village.
+
+The son of the elder brother Tyagu. He likes to read and write books. He begins to write with his grandfather's encouragement.
+
+But he loses his parents in an accident due to the maneuvering of his will. He also considers the lotus who has loved himself. The accident causes him a shocking shock.
+
+Thus he travels without targeting and arrives. One of the preachers living in Kasi extends the hand of the sacrifice of the martyr during the season.
+
+For ten years, he has been training to live in a state of disrepair.
 
 ...
 
 [Data](articles/2ce72b72.json)
 
+[Extended Data](ext_articles/2ce72b72.ext.json)
+
 ---
 
-### கீர்த்தி சுரேஷ் நடிக்கும் 'ரிவால்வர் ரீட்டா' படத்தின் கிளர்வோட்டம் வெளியீடு
+### Keerthi Suresh starrer 'Rivolver Rita'
 
 *2024-10-18 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/196578) · `ta`
 
-சிறந்த நடிகைக்கான தேசிய விருதினை வென்ற நடிகை கீர்த்தி சுரேஷ் கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'ரிவால்வர் ரீட்டா' எனும் திரைப்படத்தின் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது.
+Keerthi Suresh stars in "Rivolver Rita". She won a National Award for Best Actress. The film features Radhika Sarathkumar, Sunil, and others. Directed by J.K., music by Dinesh Krishnan. Produced by Sudan Sundaram and Jagadish Palanisamy. Post-production ongoing.
 
-இயக்குநர் ஜே. கே. சந்துரு இயக்கத்தில் உருவாகி இருக்கும் 'ரிவால்வர் ரீட்டா' எனும் திரைப்படத்தில் கீர்த்தி சுரேஷ், ராதிகா சரத்குமார், சுனில், அஜய் கோஷ், ரெடின் கிங்ஸ்லி, சுப்பர் சுப்பராயன், ஜோன் விஜய் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-பி. தினேஷ் கிருஷ்ணன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஷான் ரோல்டன் இசையமைத்திருக்கிறார்.
+Actress Keerthi Suresh, who won the National Award for Best Actress, has been released as the leading role of the film 'Rivolver Rita'.
 
-எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஃபேஷன் ஸ்டுடியோஸ் மற்றும் தி ரூட் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சுதன் சுந்தரம் மற்றும் ஜெகதீஷ் பழனிசாமி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+Director J. K. Keerthi Suresh, Radhika Sarathkumar, Sunil, Ajay Ghosh, Redin Kingsley, Super Subbarayan, John Vijay and many others have starred in the film 'Rivolver Rita'.
 
-இப்படத்தின் படப்பிடிப்பு நிறைவடைந்து படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் விறுவிறுப்பாக நடைபெற்று வருகிறது.
+B.. The film, which is being recorded by Dinesh Krishnan, has composed the film.
 
-...
+The film is being produced by Producer Sudan Sundaram and Jagadish Palanisamy on behalf of Fashion Studios and The Root.
+
+The shooting of the film is over and the post -shooting technical work is going on.
+
+Who is Keerthi Suresh, the hero of the story?The film crew has raised the question by the characters and answered the title.
+
+◼️
 
 [Data](articles/7c5bcb66.json)
+
+[Extended Data](ext_articles/7c5bcb66.ext.json)
 
 ---
 
@@ -370,17 +440,27 @@ Russian President Vladimir Putin said last month that Moscow had extended the li
 
 ---
 
-### யாழில் பாராளுமன்றத் தேர்தல்களுக்கான  முன்னாயத்த செயலமர்வு
+### Ahead of Parliamentary Elections in Jaffna
 
 *2024-10-18 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196594) · `ta`
 
-எதிர்வரும் நவம்பர் மாதம் 14 ஆம் திகதி நடைபெறவுள்ள பாராளுமன்றத் தேர்தல்கள் தொடர்பாக கிராம அலுவலர்களுக்கான முன்னாயத்த செயலமர்வானது யாழ்ப்பாண மாவட்ட அரசாங்க அதிபரும் தெரிவத்தாட்சி அலுவலருமான மருதலிங்கம் பிரதீபன் தலைமையில் யாழ் மாவட்ட செயலக கேட்போர் கூடத்தில் இன்று வெள்ளிக்கிழமை (18) மு.ப 09.00 மணிக்கும் 11.00 மணிக்கும் இரண்டு கட்டங்களாக நடைபெற்றது.
+Jaffna district prepares for parliamentary elections. Government agent discusses roles of village officials and electoral process improvements based on previous presidential election experiences.
 
-நடைபெற்று முடிந்த ஜனாதிபதித் தேர்தல் தொடர்பான கடமைக்கு சிறப்பான ஒத்துழைப்பு வழங்கிய கிராம அலுவலர்களுக்கு தமது நன்றியினைத் தெரிவித்தார்.
+🟩
+
+The Fringe Functional for Grama Niladhari on November 14 was held at the Jaffna District Secretariat Auditorium headed by Marudalingam Pradeepan, the Jaffna District Government Agent and the Department of State, Marudalingam Pradeepan.
+
+He expressed his gratitude to the Grama Niladhari who had given good cooperation to the duties of the presidential election.
+
+In addition, the discussion will be held as a feedback, and that the parliamentary elections will be contributing to the duties of the parliamentary elections to be contributed to the duties of the Presidential Elections, and that the voting of the voters in the Jaffna election in the last presidential election has been increased due to the high votes of the voters.The Government Agent asked.
+
+Assistant Commissioner of Elections, EK Amalraj, was explained on the duties and responsibilities of the village officials at the polling stations regarding the parliamentary election.
 
 ...
 
 [Data](articles/524cdfea.json)
+
+[Extended Data](ext_articles/524cdfea.ext.json)
 
 ---
 
@@ -444,23 +524,35 @@ Two leadership changes: W. P. Seneviratne as National Film Corporation head, S.M
 
 ---
 
-### யாஹ்யா சின்வர் கொல்லப்பட்டாலும் இஸ்ரேலிற்கு எதிரான எங்கள் யுத்தம் தொடரும் - பாலஸ்தீனிய மக்கள்
+### Even though Yahya Sinwar is killed, our war against Israel will continue - the Palestinian people
 
 *2024-10-18 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196595) · `ta`
 
-யாஹ்யா சின்வர் கொல்லப்பட்டுள்ள போதிலும் இஸ்ரேலிற்கு எதிரான யுத்தம் தொடரும் என பாலஸ்தீன மக்கள் உறுதி வெளியிட்டுள்ளனர்.
+Palestinians vow continued resistance against Israel after Yahya Sinwar's death, citing broader conflict spanning over a century.
 
-அழிவடைந்த யுத்தத்தினால் சிதையுண்டுபோயுள்ள கான் யூனிசில் உள்ள பாலஸ்தீனியர்கள் யாஹ்யா சின்வர் கொல்லப்பட்டுள்ள போதிலும் யுத்தம் தொடரும் என உறுதியாக தெரிவிக்கின்றனர் என பிபிசி செய்தி வெளியிட்டுள்ளது.
+🟩
 
-பிபிசி சுயாதீன செய்தியாளர்களை பயன்படுத்தி பாலஸ்தீனியர்களின் கருத்தினை பெற்றுள்ளது( இஸ்ரேல் பிபிசியை பாலஸ்தீனத்திற்குள் அனுமதிப்பதில்லை என்பதுகுறிப்பிடத்தக்கது.)
+The Palestinian people have pledged that the war against Israel will continue, despite the killing of Yahya Sinwar.
 
-இந்த யுத்தம் யாஹ்யா சின்வரையோ அல்லது வேறு எவரையுமோ நம்பியிருக்கவில்லை எந்த தலைவர் அல்லது அதிகாரி மீது நம்பிக்கையை வைத்து இந்த யுத்தத்தை பாலஸ்தீனிய மக்கள் முன்னெடுக்கவில்லை என வைத்தியர் ரமடான் பாரிஸ் என்பவர் தெரிவித்துள்ளார்.
+The Palestinians in Khan Unis, who have been destroyed by the destruction war, are sure to continue the war, but the BBC reports that the war will continue.
 
-இது பாலஸ்தீன மக்களிற்கு எதிராக முன்னெடுக்கப்படும் அழிப்பு போர்,பிரச்சினை என்பது யஹ்யா சின்வரை விட மிகப்பெரியது என அவர் தெரிவித்துள்ளார்.
+The BBC has obtained the opinion of the Palestinians using independent journalists (it is noteworthy that Israel does not allow the BBC into Palestine.)
 
-...
+Dr. Ramadan Paris said the Palestinian people did not carry out this war with confidence in any leader or officer.
+
+He said that this is much greater than Yahya Sinwar, the destruction war and the issue against the Palestinian people.
+
+Israel is not just destroying us, he wants to destroy the entire Middle East.
+
+He said the war between us and the Jews has been going on since 1919 for over 100 years.
+
+I do not think that Sinwar's death will affect Hamas.
+
+◼️
 
 [Data](articles/d0f5a858.json)
+
+[Extended Data](ext_articles/d0f5a858.ext.json)
 
 ---
 
@@ -907,6 +999,16 @@ He has been appointed by the Minister of Rural, Urban Development and Housing an
 [Data](articles/462b4979.json)
 
 [Extended Data](ext_articles/462b4979.ext.json)
+
+---
+
+### Need For Laying A Solid Foundation For Creating A Strong Nation: Avoid Giving Painkillers When Surgery Is Needed
+
+*2024-10-18 13:02:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/need-for-laying-a-solid-foundation-for-creating-a-strong-nation-avoid-giving-painkillers-when-surgery-is-needed/) · `en`
+
+...
+
+[Data](articles/21f0e7b5.json)
 
 ---
 
@@ -2375,29 +2477,5 @@ Speaking to the media in Gampaha, Herath reiterated that the Government, as a re
 [Data](articles/2ec9c64b.json)
 
 [Extended Data](ext_articles/2ec9c64b.ext.json)
-
----
-
-### Sajith advises SJB candidates not to undermine President
-
-*2024-10-18 04:17:43* · [`dailyftlk`](https://www.ft.lk/news/Sajith-advises-SJB-candidates-not-to-undermine-President/56-768099) · `en`
-
-SJB former MP Dr. Harsha de Silva says party leader has emphasised need to work with President Dissanayake
-
-Says SJB has a strong team and clear program, and can effectively collaborate with President
-
-Claims all SJB members are committed to making party leader Sajith Premadasa SL’s next PM
-
-Samagi Jana Balawegaya (SJB) Former MP Dr. Harsha de Silva has revealed that party leader Sajith Premadasa has urged SJB candidates not to undermine President Anura Kumara Dissanayake, emphasising the need to be prepared to collaborate with him.
-
-“He has advised us not to undermine the President, as he will be in office for the next five years. We must work with him. We have a strong team and a clear program, and we believe we can effectively collaborate with the President,” de Silva explained.
-
-These comments were made by de Silva after a meeting with SJB Parliamentary Election candidates in Colombo yesterday, organised under the leadership of Sajith Premadasa.
-
-...
-
-[Data](articles/c4a7a825.json)
-
-[Extended Data](ext_articles/c4a7a825.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 19:57:50**
+As of **2024-10-18 20:11:37**
 
 ## Newspaper Stats
 
-*Scraped **50,178** Articles*
+*Scraped **50,180** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ dailymirrorlk | 4,733
 adaderanalk | 5,944
 tamilmirrorlk | 6,867
 virakesarilk | 8,040
-adaderanasinhalalk | 8,701
+adaderanasinhalalk | 8,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,177 (100.0%) of 50,178 articles have been extended.
+50,179 (100.0%) of 50,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### එඩිතර විපක්ෂයක් ගැන කියන දිලිත්
+
+*2024-10-18 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202322) · `si`
+
+පාලන බලයේ සිටින ආණ්ඩුව නිවැරදි මාර්ගයක ගෙන යා හැක්කේ එඩිතර විපක්ෂයකට පමණක් බව සර්වජන බලයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+එම පක්ෂ මූලස්ථානයේ අද (18) පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් ඔහු මේ බව ප්‍රකාශ කළේය.
+
+"එඩිතර විපක්ෂයකට පමණයි පාලන බලයේ ඉන්න ආණ්ඩුව නිවැරදි මාර්ගයේ යවන්න පුළුවන්. දුබල විපක්ෂයක් ආවොත් ආණ්ඩුව කරන ඕන දේකට අත උස්සල නිකන් ඉන්නවා.
+
+අපට අවශ්‍යයි බලයට පත්වෙලා ඉන්න ආණ්ඩුවට අවස්ථාවක් දෙන්න. ඒක තමයි අපේ අවංක උත්සාහය. නමුත් ඔවුන් යෝජනා කරලා තියෙනවා ඔවුන්ගේ වැඩපිළිවෙළේම අපේ රටේ ඒකීයභාවයට හා අපේ ජාතිකත්වයට බලපෑම්කරන යෝජනාවලියක්. අපි කිසිසේත්ම සූදානම් නැහැ ඒ යෝජනාවලියේ තිබෙන දේවල්වලට එකඟ වෙන්න."
+
+◼️
+
+[Data](articles/6ee560e8.json)
+
+---
+
+### Gammanpila wait for calling from Minister Vijitha
+
+*2024-10-18 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202320) · `si`
+
+Gammanpila claims Minister Vijitha avoids calls about non-publicized national security attachments. He sent a letter via registered mail regarding commission records.
+
+🟩
+
+Non-comical attachment for national security is not publicized and that the number of commissions are published only public reports, said the Colombo District candidate Gammanpila.
+
+He was speaking at a press conference held at the party headquarters in party headquarters today.
+
+"The Kingdom Secret is the account in the report. I phone Vijitha Herath phone to the phone and call attachments "Day and a preimy. He answered the phone. Then he was texted to call me the Udaya Gammanpila, the Can Go Drop. There is no response to that too. He is deliberately avoiding me. As such, he had written by registered post. We only make the commissions records. None of the sensitive attachment for national security ".
+
+◼️
+
+[Data](articles/d30abeb7.json)
+
+[Extended Data](ext_articles/d30abeb7.ext.json)
+
+---
 
 ### Pakistan who launched the UK;Test series balanced as 1 - 1
 
@@ -1162,25 +1202,37 @@ The US dollar purchasing price was 288.5261 rupees and the sales price were Rs 2
 
 ---
 
-### හිටපු ජනපතිවරුන් තිදෙනෙකු හෙළි කළ පාලන සමයේ රහස්: රනිල් කතුන් තිදෙනෙක් ගැනත් කියයි
+### Secrets during the remedy secrets revealed three former chiefs: Ranil also tells three women
 
 *2024-10-18 12:48:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cm24352286do) · `si`
 
-හිටපු ජනපතිවරුන් තිදෙනෙකු හෙළි කළ පාලන සමයේ රහස්: රනිල් කතුන් තිදෙනෙක් ගැනත් කියයි
+Here's a 200-character summary:
 
-වරලත් ගණකාධිවරුන්ගේ 45 වන ජාතික සමුළුව හිටපු ජනාධිපතිවරුන් තිදෙනෙකුගේ ප්‍රධානත්වයෙන් ඔක්තෝබර් 16 වන දා පැවැත්විණි.
 
-එහිදී, හිටපු ජනාධිපතිවරුන් වන චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග, මෛත්‍රීපාල සිරිසේන සහ රනිල් වික්‍රමසිංහ යන ආරාධිතයින් කළ ප්‍රකාශ පිළිබඳව බොහෝ දෙනෙකුගේ අවධානය යොමුව තිබේ.
 
-එම සමුළුවේදී හිටපු ජනාධිපතිවරුන් තිදෙනා ඔවුන්ගේ ධුර කාල තුළ මුහුණ දුන් සිදුවීම් හා අත්දැකීම් පිළිබඳව එහිදී අදහස් ප්‍රකාශ කළහ.
+Three former Sri Lankan presidents discuss challenges faced by current government. Ranil Wickremesinghe highlights economic crisis and need for international support. Maithripala Sirisena criticizes lack of intelligence sharing before Easter attacks. Chandrika Bandaranaike Kumaratunga emphasizes importance of transparency and accountability in governance.
 
-'අපේ ඇමති කෙනෙක් කිව්වා නවනීදන්පිල්ලෙව කසාද බඳින්න තිබ්බ නම් හොඳයි කියලා'
+🟩
 
-රටේ පැවති සිවිල් යුද්ධයෙන් පසුව 2009 වසරේදී මෙරට සිටි නායකයින් විදෙස් රටවලට බොරු පොරොන්දු ලබා දුන් බවත් එම නිසා ජාත්‍යන්තර වශයෙන් ශ්‍රී ලංකාවට දැඩි අසීරුතාවන්ට මුහුණ දීමට සිදුවූ බවත් හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන එහිදී පැවසුවේ ය.
+Secrets during the remedy secrets revealed three former chiefs: Ranil also tells three women
+
+The 45th National Conference of the Chartered Accountants was held on October 16, chaired by three presidents.
+
+There are many about the statements of former presidents Chandrika Bandaranaike Kumaratunga, Maithripala Sirisena and Ranil Wickremesinghe.
+
+At the conference, the former presidents expressed their views on the experiences and experiences of their territory.
+
+"One of our minister said he was better to marry Navaneennpilla '
+
+Former President Maithripala Sirisena said Sri Lanka had severe hardships internationally after the civil war in the country.
+
+"Since 2015, the 2015 government is over until the end of 2015 is on this stage. When I came to power, I completely escaped from the United Nations General Secretary. Similarly, the United Nations Human Rights Commission completely turned away from us. Many countries in the world have distanced from us. "
 
 ...
 
 [Data](articles/8654a01a.json)
+
+[Extended Data](ext_articles/8654a01a.ext.json)
 
 ---
 
@@ -2471,39 +2523,5 @@ Koziel is currently President and CEO of Allinial Global, an association of inde
 [Data](articles/e811fcea.json)
 
 [Extended Data](ext_articles/e811fcea.ext.json)
-
----
-
-### Low hanging fruit for President and his 3-member cabinet
-
-*2024-10-18 06:08:52* · [`dailyftlk`](https://www.ft.lk/columns/Low-hanging-fruit-for-President-and-his-3-member-cabinet/4-768110) · `en`
-
-There are a multitude of agencies running from President downwards to Provincial, District, Local Authority, Divisional Secretary and Grama Niladhari Division level
-
-Before the Presidential election, there were ramifications, speculations and cautions expressed by several learned people who were not ready to adjust their mindset for a change. They casted doubts as to what a future AKD-led Government would do, if elected. The most repeated question was how would the Government find money to keep the pledges. The second question was how would the Government deal with the IMF. The third cynical question was how Thambuttegama Ranbanda’s Kolla would manage international affairs without competency in English.
-
-...
-
-[Data](articles/05b13a84.json)
-
-[Extended Data](ext_articles/05b13a84.ext.json)
-
----
-
-### Sri Lanka’s debt repayments and economy post 2025
-
-*2024-10-18 06:02:58* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-debt-repayments-and-economy-post-2025/4-768108) · `en`
-
-While the road ahead remains challenging, Sri Lanka’s clear commitment to fiscal responsibility and economic growth prospects combined with international support, offers hope
-
-The IMF forecasts Sri Lanka’s gross general government debt/GDP ratio to decline only gradually to about 103% of GDP by 2028, from about 116% in 2022
-
-Sri Lanka’s debt crisis has been the most critical issue affecting its economy post the 2022 meltdown, with years of borrowing to finance development projects, cover fiscal deficits, and manage post-war reconstruction. The current state of Sri Lanka’s debt repayments are still to be concluded and several measures need to be taken to alleviate the burden, and to manage its ongoing obligations.
-
-...
-
-[Data](articles/16f7027d.json)
-
-[Extended Data](ext_articles/16f7027d.ext.json)
 
 ---

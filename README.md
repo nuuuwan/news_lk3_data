@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 17:23:29**
+As of **2024-10-18 17:40:56**
 
 ## Newspaper Stats
 
-*Scraped **50,156** Articles*
+*Scraped **50,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,942
 tamilmirrorlk | 6,865
 virakesarilk | 8,028
-adaderanasinhalalk | 8,698
+adaderanasinhalalk | 8,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,156 (100.0%) of 50,156 articles have been extended.
+50,156 (100.0%) of 50,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### මියගිය ඌරන්ගේ සිරුරු තැන තැන
+
+*2024-10-18 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202317) · `si`
+
+මියගිය ඌරන්ගේ සිරුරු රැසක් කිසියම් පිරිසක් ජා-ඇළ දඬුගම ප්‍රදේශයේ ඇළ මාර්ගවලට දමායාම හේතුවෙන් ප්‍රදේශවාසීන් දැඩි අපහසුතාවකට මුහුණ දී සිටී.
+
+ඌරු ගොවිපොළවල පැතිරෙන වෛරසයක් නිසා මියයන ඌරන් මෙලෙස ගෙනැවිත් දමන්නට ඇති බවට ජනතාව චෝදනා කරති.
+
+මේ අතර මෙම වෛරස් රෝගය සැලකිල්ලට ගෙන, පශු වෛද්‍ය සහතිකයක් නොමැතිව දිස්ත්‍රික්ක අතර ඌරන් ප්‍රවාහනය තහනම් කිරීමට බලධාරීන් පියවර ගෙන තිබේ.
+
+සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුවේ අධ්‍යක්ෂිකා හේමාලි කොතලාවල මහත්මිය මේ  බව සඳහන් කළාය.
+
+බස්නාහිර, වයඹ සහ උතුරු මැද පළාත්වල ඌරු ගොවිපොළ ආශ්‍රිතව මේ දිනවල පැතිර යන වෛරසයක් නිසා ඌරන් විශාල ලෙස මියයාමට පටන් ගෙන ඇත.
+
+ගොවිපොළ හිමිකරුවන් පවසන්නේ, රෝගය වැලඳී දින දෙකක් තුළ සතුන් මියයන බවය.
+
+◼️
+
+[Data](articles/937b5443.json)
+
+---
 
 ### Special notice of income tax
 
@@ -2319,41 +2341,5 @@ First action he is to take, is to dissolve parliament and call for fresh electio
 [Data](articles/658a1c3c.json)
 
 [Extended Data](ext_articles/658a1c3c.ext.json)
-
----
-
-### UK - Pakistan Pakistan's 2nd Test match
-
-*2024-10-18 00:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196541) · `ta`
-
-Here's a summary of the cricket match in 200 characters:
-
-
-
-England needs 261 runs to win the 2nd Test against Pakistan. On Day 3, 36 runs were scored for 2 wickets. The match is likely to continue for another two days.
-
-🟩
-
-England's victory in the 2nd Test match between England and Pakistan at Multan Cricket Stadium requires 261 runs.
-
-On Thursday, the 3rd day of the match, 297 runs were scored 36 runs for the loss of 2 wickets at the end of the 3rd day of the match.
-
-The Sound Pope did not lose 21 runs and Joe Root 12 runs.
-
-With the remaining 2 more days in the competition, the match is likely to win.
-
-Pakistan 1st: Everyone lost the game 366 (Kamran Ghulam 118, Saim Ayub 77, Mohammed Rizwan 41, Noman Ali Salman Aha 31, Jeck Leach 114 - 4 Vic.
-
-England 1st: All lost in the game 291 (Ben Tucket 114, Joe Root 34, Sajid Khan 111 - 7 Vic., Noman Ali 101 - 3 wic.)
-
-Pakistan 2nd: All of them lost their share 221 (Salman Aga 63, Saud Shakil 31, Kamran Ghulam 26, Shoeb Bashir 66 - 4 Vic.
-
-England win target 297 runs - 2nd in: 36 - 2 wig.
-
-◼️
-
-[Data](articles/7e4b99e2.json)
-
-[Extended Data](ext_articles/7e4b99e2.ext.json)
 
 ---

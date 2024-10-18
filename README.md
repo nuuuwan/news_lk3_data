@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 06:44:47**
+As of **2024-10-18 07:26:56**
 
 ## Newspaper Stats
 
-*Scraped **50,066** Articles*
+*Scraped **50,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 402
 colombotelegraphcom | 499
 bbccomsinhala | 502
-islandlk | 2,971
+islandlk | 2,974
 economynextcom | 3,066
-dailyftlk | 3,413
+dailyftlk | 3,417
 adalk | 4,655
 dailymirrorlk | 4,733
 adaderanalk | 5,928
-tamilmirrorlk | 6,844
+tamilmirrorlk | 6,845
 virakesarilk | 8,017
 adaderanasinhalalk | 8,673
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 8,673
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,062 (100.0%) of 50,066 articles have been extended.
+50,065 (100.0%) of 50,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### SLID to inspire leaders with first-ever International Director Conference
+
+*2024-10-18 06:12:25* · [`dailyftlk`](https://www.ft.lk/business/SLID-to-inspire-leaders-with-first-ever-International-Director-Conference/34-768112) · `en`
+
+The Sri Lanka Institute of Directors (SLID) is set to host the highly anticipated International Director Conference on 29 October 2024, at the Oak Room, Cinnamon Grand Hotel, Colombo, from 9.00 a.m. to 5 p.m.
+
+The event, which will be held under the theme ‘The Courage To be Bold’, has been curated to inspire business leaders to go above and beyond and lead with confidence in an ever evolving global landscape.
+
+Featuring over 20 foreign and local thought leaders from a variety of industries, this groundbreaking event is geared to offer participants with an opportunity to witness the incredible success stories of many organisations which have excelled in a volatile and challenging landscape. This conference is the first of its kind, providing tools, strategies and inspiration to Directors to steward their companies to a greater future.
+
+...
+
+[Data](articles/74cf2e1c.json)
+
+[Extended Data](ext_articles/74cf2e1c.ext.json)
+
+---
+
+### AICPA and CIMA announces Mark Koziel as next CEO
+
+*2024-10-18 06:12:10* · [`dailyftlk`](https://www.ft.lk/business/AICPA-and-CIMA-announces-Mark-Koziel-as-next-CEO/34-768111) · `en`
+
+Following an extensive global search, the Board of Directors of the Association of International Certified Professional Accountants (the Association) has appointed Mark Koziel, CPA, CGMA, as the organisation’s next CEO. Koziel will succeed Barry Melancon, CPA, CGMA, who will retire at the end of 2024.
+
+Koziel is currently President and CEO of Allinial Global, an association of independent accounting and advisory firms with $ 6 billion in collective revenue and 268 member firms worldwide. He will begin the role in January following a handover period.
+
+...
+
+[Data](articles/e811fcea.json)
+
+[Extended Data](ext_articles/e811fcea.ext.json)
+
+---
+
+### Low hanging fruit for President and his 3-member cabinet
+
+*2024-10-18 06:08:52* · [`dailyftlk`](https://www.ft.lk/columns/Low-hanging-fruit-for-President-and-his-3-member-cabinet/4-768110) · `en`
+
+There are a multitude of agencies running from President downwards to Provincial, District, Local Authority, Divisional Secretary and Grama Niladhari Division level
+
+Before the Presidential election, there were ramifications, speculations and cautions expressed by several learned people who were not ready to adjust their mindset for a change. They casted doubts as to what a future AKD-led Government would do, if elected. The most repeated question was how would the Government find money to keep the pledges. The second question was how would the Government deal with the IMF. The third cynical question was how Thambuttegama Ranbanda’s Kolla would manage international affairs without competency in English.
+
+...
+
+[Data](articles/05b13a84.json)
+
+[Extended Data](ext_articles/05b13a84.ext.json)
+
+---
+
+### Sri Lanka’s debt repayments and economy post 2025
+
+*2024-10-18 06:02:58* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-debt-repayments-and-economy-post-2025/4-768108) · `en`
+
+While the road ahead remains challenging, Sri Lanka’s clear commitment to fiscal responsibility and economic growth prospects combined with international support, offers hope
+
+The IMF forecasts Sri Lanka’s gross general government debt/GDP ratio to decline only gradually to about 103% of GDP by 2028, from about 116% in 2022
+
+Sri Lanka’s debt crisis has been the most critical issue affecting its economy post the 2022 meltdown, with years of borrowing to finance development projects, cover fiscal deficits, and manage post-war reconstruction. The current state of Sri Lanka’s debt repayments are still to be concluded and several measures need to be taken to alleviate the burden, and to manage its ongoing obligations.
+
+...
+
+[Data](articles/16f7027d.json)
+
+---
 
 ### Financial fraud through social media and online scams: Growing threat in Sri Lanka and globally
 
@@ -170,6 +236,20 @@ The meeting, held at the party’s head office in Nelum Mawatha, Colombo, was pa
 
 ---
 
+### Siyapatha Finance extends islandwide reach to Matugama
+
+*2024-10-18 03:28:00* · [`islandlk`](http://island.lk/siyapatha-finance-extends-islandwide-reach-to-matugama/) · `en`
+
+Siyapatha Finance PLC recently opened its 51st branch in Matugama, advancing on its efforts to extend the company’s reach across the Island Nation. The latest branch offers Siyapatha’s customer-centric financial solutions to one of the primary semi-urban towns located within the Kalutara District.
+
+Endowed with a mixed economy that consolidates the involvement of both the Government and private sector, Matugama boasts high potential for the growth of its business community. Locals heavily lean on traditional economic routes such as the plantation industry, with an emphasis on rubber, paddy, coconut and tea plantations. The area also displays notable progress as well as popularity in the services and agriculture industries among the population.
+
+...
+
+[Data](articles/3e3b9d61.json)
+
+---
+
 ### ‘The Residencies, Kotte – rapid construction progress’
 
 *2024-10-18 03:27:00* · [`islandlk`](http://island.lk/the-residencies-kotte-rapid-construction-progress/) · `en`
@@ -201,6 +281,22 @@ Ordinance in 2019, but faces significant challenges, both human-made and natural
 [Data](articles/f0632d7e.json)
 
 [Extended Data](ext_articles/f0632d7e.ext.json)
+
+---
+
+### Yohani’s debut album “Kella” submitted for Grammy consideration in “Best Global Music Album” category
+
+*2024-10-18 03:03:00* · [`islandlk`](http://island.lk/yohanis-debut-album-kella-submitted-for-grammy-consideration-in-best-global-music-album-category/) · `en`
+
+South Asian pop sensation Yohani has achieved a remarkable milestone with her debut album “Kella” being officially submitted for consideration in the Best Global Music Album category at the 67th Annual Grammy Awards. This submission marks a historic moment, not only for Yohani but also for Sri Lankan music, as “Kella” becomes the first album from Sri Lanka to be considered for this prestigious global accolade.
+
+Released on December 8, 2023, “Kella” features 14 tracks that seamlessly blend traditional Sri Lankan sounds with contemporary global music. With 11 songs in Sinhalese and 3 in English, the album incorporates native Sri Lankan percussion, folk stories, and cultural motifs. Yohani, who first captivated international audiences in 2021 with her viral hit Manike Mage Hithe, views “Kella” as a deeply personal expression of her roots and her musical vision.
+
+Unilever Sri Lanka partners with USAID and Vega Innovations to scale-up refillable systems
+
+...
+
+[Data](articles/7985b2f9.json)
 
 ---
 
@@ -245,6 +341,16 @@ In a significant step towards environmental conservation, Club Hotel Dolphin, Wa
 [Data](articles/206673fe.json)
 
 [Extended Data](ext_articles/206673fe.ext.json)
+
+---
+
+### இஸ்ரேலின் தாக்குதலில் ஹமாஸ் தலைவர் பலி
+
+*2024-10-18 01:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-ஹமாஸ்-தலைவர்-பலி/175-345635) · `ta`
+
+◼️
+
+[Data](articles/3a35cc5a.json)
 
 ---
 
@@ -2237,193 +2343,5 @@ Sri Lanka vs West Indies cricket match today. Both teams won one game each so fa
 [Data](articles/7c274cee.json)
 
 [Extended Data](ext_articles/7c274cee.ext.json)
-
----
-
-### The body of an unidentified woman in Nuwara Eliya is recovered
-
-*2024-10-17 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/196496) · `ta`
-
-Unidentified woman's body found at Nuwara Eliya bus station. Police investigating cause of death, suspecting extreme cold. Body sent for autopsy.
-
-🟩
-
-An unidentified woman's body has been recovered from the Nuwara Eliya main bus station on Thursday morning, Nuwara Eliya Police said.
-
-பேருந்து நிலையத்தினுள் ஒருவர் இறந்து  தரையில் கிடப்பதாக நுவரெலியா மாநகர சபை ஊழியர்  ஒருவர் பொலிஸாருக்கு அறிவித்ததை அடுத்து சடலம் மீட்கப்பட்டுள்ளது.
-
-உயிரிழந்த நபருடன் இன்னுமொரு பெண்ணும் கடந்த 5 நாட்களுக்கு முன்பிலிருந்து நுவரெலியா பேருந்து தரிப்பிடத்தில் யாசகம் பெற்று  வந்ததாக தகவல் வெளியாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-Police suspect who has not yet been identified who died in the incident and may have died due to too much cold.
-
-இந்நிலையில், சடலம் மீட்கப்பட்டு பிரேத பரிசோதனைக்காக நுவரெலியா மாவட்ட பொது  வைத்தியசாலையில் பிரேத அறையில் வைக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/2b3c8596.json)
-
-[Extended Data](ext_articles/2b3c8596.ext.json)
-
----
-
-### நீர் நிரம்பிய குழியில் மூழ்கி மாணவன் உயிரிழப்பு
-
-*2024-10-17 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/196486) · `ta`
-
-A student drowned in a water-filled pit while swimming with friends in Kandapadi village. Police reported his death on Tuesday.
-
-🟩
-
-கொடதெனியாவ ஹல்ஒலுவ கந்த பிரதேசத்தில் உள்ள நீர் நிரம்பிய குழியில் மூழ்கி மாணவன் ஒருவன் நேற்று புதன்கிழமை  (16) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-உயிரிழந்த மாணவன் தனது 05 நண்பர்களுடன் இணைந்து நேற்று புதன்கிழமை (16) மாலை நீர் நிரம்பிய குழியில் நீராடச் சென்றுள்ளார்.
-
-◼️
-
-[Data](articles/5a467c8c.json)
-
-[Extended Data](ext_articles/5a467c8c.ext.json)
-
----
-
-### Former Presidents CBK, Maithripala and Ranil share same stage
-
-*2024-10-17 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102754/former-presidents-cbk-maithripala-and-ranil-share-same-stage) · `en`
-
-The 45th National Conference of Chartered Accountants took place yesterday (16) in Colombo, featuring a rare gathering of three former Presidents of Sri Lanka—Chandrika Bandaranaike Kumaratunga, Maithripala Sirisena, and Ranil Wickremesinghe—on the same stage.
-
-The former leaders shared their views on the country’s political landscape and answered questions presented to them at the conference, making the event a highlight in the nation’s political discourse.
-
-Speaking during the event, former President Maithripala Sirisena reflected on the political state of the country, emphasizing the need for integrity at all levels of government.
-
-He remarked: “A country cannot progress simply because its ruler is good. The Prime Minister and the Cabinet must also be clean. There must be no room for corruption and fraud. I don’t like some people blaming politicians that the country has been corrupt for the last 74 years. I completely reject that. It’s not just about blaming politicians.”
-
-...
-
-[Data](articles/d30d86d2.json)
-
-[Extended Data](ext_articles/d30d86d2.ext.json)
-
----
-
-### Five key points of former President Ranil Wickremesinghe's special statement
-
-*2024-10-17 12:05:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn5zdp1rn05o) · `si`
-
-Here's a 200-character summary of Former President Ranil Wickremesinghe's special statement:
-
-
-
-Former President Ranil Wickremesinghe addressed the New Democratic Front office on Oct 17, 2023. He emphasized achieving 1% annual economic growth and forming a new parliament to address challenges. Wickremesinghe discussed debt restructuring, IMF agreements, and goals like reopening GDP to 2019 levels by year-end. He noted no party secured a majority in the presidential election, stressing the importance of experienced politicians in the new parliament.
-
-🟩
-
-Former President of the UNP Ranil Wickremesinghe made a special statement on October 17.
-
-This is the first time he made a public statement after the presidential election.
-
-He made this special statement at the New Democratic Front office at the New Democratic Front of Colombo, Colombo.It is in the face of.
-
-He stressed that a 1% economic growth should be achieved every year in order to go to that goal, he emphasized that the next parliament is needed to escape experience.
-
-This is about the special matters mentioned in the statement he performed.
-
-The former President said that the country was handed over to the president as the president, the former President said.
-
-He pointed out that his primary purpose was to remove the bankruptcy that the debt had been restored again.
-
-The former President said that when he was posting, the International Monetary Fund has entered into an agreement with 18 countries and private bonds.
-
-...
-
-[Data](articles/2cc50085.json)
-
-[Extended Data](ext_articles/2cc50085.ext.json)
-
----
-
-### The singer who fell from the upper west
-
-*2024-10-17 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202265) · `si`
-
-Singer falls from upper west side. Youth group performs. Member Liam Payne dies suddenly. Argentine musician found dead on 3rd floor. Death ruled as sudden aggression.
-
-🟩
-
-One directory singer team allowed a time when the youths in the world.
-
-පස් දෙනෙකුගෙන් යුතු මේ කණ්ඩායමේ එක් සාමාජිකයෙක් වූ ලියම් පෙයින් ඊයේ (16) රාත්‍රියේ හදිසියේ මියගොස් තිබේ.
-
-The 31-year-old demonstrated by the third floor of Buenos Aires in Buenos Aires, Argentina.
-
-He had gone to Argentina to join a constituent member of the One Direcision team.
-
-Argentina has received information that a person who has been killed in a moment before death is aggressive.
-
-◼️
-
-[Data](articles/134dada2.json)
-
-[Extended Data](ext_articles/134dada2.ext.json)
-
----
-
-### மத்திய கிழக்கு வாழ் இலங்கையர்க்கு விசேட அறிவித்தல்
-
-*2024-10-17 11:39:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-கிழக்கு-வாழ்-இலங்கையர்க்கு-விசேட-அறிவித்தல்/175-345609) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Special advisory issued for Sri Lankans in Middle East due to ongoing turmoil. Embassies taking necessary actions to ensure safety and well-being of Sri Lankan workers. Urgent situation calls for attention from foreign missions. Contact embassy's consular section for emergency assistance.
-
-🟩
-
-மத்திய கிழக்கில் நிலவும் ஸ்திரமற்ற  நிலைமை  மற்றும் பிராந்தியத்தில் வாழும் இலங்கையர்களின் பாதுகாப்பை உறுதி செய்தல்
-
-மத்திய கிழக்கில் நிலவும் தற்போதைய மோதலின் தீவிரம் குறிப்பாக லெபனானில் ஒரு நெருக்கடியான சூழ்நிலையை உருவாக்கியுள்ளது.
-
-இப்பிராந்தியத்தில் கணிசமான எண்ணிக்கையிலான இலங்கையர்கள் பணிபுரிவதைக் கருத்தில் கொண்டு, அவர்களின் பாதுகாப்பையும், நலனையும் உறுதிப்படுத்த ஏற்கனவே அந்நாடுகளில் உள்ள இலங்கை தூதரகங்கள் மூலம் தேவையான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றன.
-
-இந்நிலையில், மத்திய கிழக்கு பிராந்தியத்தில் வாழும் இலங்கையர்கள் இந்த அறிவுறுத்தல்கள் தொடர்பில் விசேட கவனம் செலுத்தி, அதற்கேற்ப செயற்படுமாறு கோரப்படுகிறார்கள்.
-
-மேலும் மத்திய கிழக்கில் பணிபுரியும் மற்றும் வசிக்கும் தனது நெருங்கிய உறவினருக்கு அவசர நிலை ஏற்பட்டிருப்பின் அது பற்றிய தகவல்களுக்கு வெளிநாட்டு அலுவல்கள் அமைச்சின் தூதரக விவகாரப் பிரிவைத் தொடர்பு கொள்ளலாம். (தொலைபேசி: 011 – 2338812/ 011 – 7711194)
-
-◼️
-
-[Data](articles/4fd6a747.json)
-
-[Extended Data](ext_articles/4fd6a747.ext.json)
-
----
-
-### எனது அமைச்சரவையில் இடம்பெற்றிருந்த ஒருவரின்  கணவர் கேள்விப்பத்திரத்தை பெறுவதற்காக பல மில்லியன் டொலர் இலஞ்சம் வழங்க முயன்றார்- முன்னாள் ஜனாதிபதி சந்திரிகா
-
-*2024-10-17 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/196489) · `ta`
-
-Former President Chandrika Kumaratunga accused a businessman of offering millions to her former diplomat wife. She warned him to leave immediately or face arrest. The incident highlights widespread corruption in governance, potentially leading to bankruptcy.
-
-🟩
-
-எனது அரசாங்கத்தில் இராஜாங்க அமைச்சராக பதவிவகித்த பெண் ஒருவரின் கணவர் எனக்கு பல மில்லியன் டொலர்களை  இலஞ்சமாக வழங்க முன்வந்தார் என முன்னாள் ஜனாதிபதி சந்திரிகா குமாரதுங்க தெரிவித்துள்ளார்
-
-வர்த்தகர் ஒருவர் கேள்விப்பத்திரத்தை பெற விரும்பினால் அவர் ஒரு மில்லியன் டொலருடன் எங்களிடம் வருவார்.இந்த கேள்விப்பத்திரத்தை எனக்கு தாருங்கள் என வேண்டுகோள் விடுப்பார்
-
-When I became the Prime Minister, I came to my office with $ 5 million. Take it and go out immediately
-
-The husband of a woman of my government's diplomatic minister came with a large amount of money
-
-உடனடியாக அதனை எடுத்துக்கொண்டு வெளியே போகாவிட்டால் நான் உங்களை கைதுசெய்வேன் என எச்சரித்தேன்.
-
-There was also a president who said that stealing as much as you could stole but not caught. அவர் இதனை தனது அமைச்சரவைக்கும் நாடாளுமன்ற உறுப்பினர்களிற்கும், தனது கட்சிக்காரர்களிற்கும் தெரிவித்துள்ளார்.
-
-Traders will come forward to bribe the government's plans, and the wider corruption will eventually lead to bankruptcy.
-
-◼️
-
-[Data](articles/141ad930.json)
-
-[Extended Data](ext_articles/141ad930.ext.json)
 
 ---

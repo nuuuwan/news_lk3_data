@@ -1,36 +1,216 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 07:26:56**
+As of **2024-10-18 08:02:29**
 
 ## Newspaper Stats
 
-*Scraped **50,074** Articles*
+*Scraped **50,086** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 402
+dbsjeyarajcom | 403
 colombotelegraphcom | 499
 bbccomsinhala | 502
 islandlk | 2,974
 economynextcom | 3,066
-dailyftlk | 3,417
+dailyftlk | 3,420
 adalk | 4,655
 dailymirrorlk | 4,733
 adaderanalk | 5,928
-tamilmirrorlk | 6,845
-virakesarilk | 8,017
-adaderanasinhalalk | 8,673
+tamilmirrorlk | 6,846
+virakesarilk | 8,020
+adaderanasinhalalk | 8,677
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,065 (100.0%) of 50,074 articles have been extended.
+50,071 (100.0%) of 50,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Fuel transport train is collided with a herd
+
+*2024-10-18 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202292) · `si`
+
+Train carrying fuel collides with elephant herd near Colombo, Sri Lanka. Four local tanks ruptured, damaging railway line. Several wild elephants killed or injured. Train services suspended between Madakalapuwa and Colombo Fort. Railway department cancels scheduled trains due to incident.
+
+🟩
+
+A train transporting a fuel train from Kolonnawa oil storage terminal has reported an accident.
+
+The accident occurred at around 3.30 this morning at around 3.30 this morning.
+
+It is said that there are four local tanks in the train and have dropped two of them.
+
+එමෙන්ම දුම්රිය එන්ජිම සහ නියාමකවරයා ගමන්කරන මැදිරිය ද පිළිපැනීමට ලක්ව ඇත.
+
+Ada Derana Reports were killed and several other wild elephants were killed and several other wild elephants were severely injured and the railway line was severely damaged by fuel transport oil tanks.
+
+මේ වන විට මඩකලපුව කොළඹ ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනය සම්පූර්ණයෙන් නැවතී ඇති අතර අද උදෑසන කොළඹ කොටුව සිට මඩකලපුව බලා ධාවනය වීමට නියමිතව තිබු දුම්රිය සහ මඩකලපුව සිට කොළඹ කොටුව බලා ධාවනය වීමට නියමිතව තිබු දුම්රියන් දෙක අවලංගු කර කිරීමට දුම්රිය දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/23e36e62.json)
+
+[Extended Data](ext_articles/23e36e62.ext.json)
+
+---
+
+### Singhagiri and Samsung launch flagship showroom in dazzling display
+
+*2024-10-18 06:57:00* · [`dailyftlk`](https://www.ft.lk/business/Singhagiri-and-Samsung-launch-flagship-showroom-in-dazzling-display/34-768121) · `en`
+
+From left: Singhagiri Director Anusha Marasingha, Samsung Sri Lanka Managing Director SanghWa Song and Singhagiri Plaza Branch Manager Nipun Fernando Opening the new Showroom
+
+On 14 October, the tech world took notice as Samsung Sri Lanka and Singhagiri announced their spectacular flagship showroom at R.A. De Mel Mawatha.
+
+This launch is such a bold statement about the enduring partnership between these two industry giants, which has thrived for over 40 years within Singhagiri’s impressive 52-year legacy. The showroom is packed with cutting-edge technology and home appliances from global brands like Hisense, Candy, HP, Lenovo, Realme, and Oppo, promising a thrilling experience for customers eager to explore the latest innovations.
+
+...
+
+[Data](articles/f0b2a516.json)
+
+[Extended Data](ext_articles/f0b2a516.ext.json)
+
+---
+
+### Prime Minister talks with university students
+
+*2024-10-18 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202290) · `si`
+
+Prime Minister Harini Amarasuriya discusses university issues with student unions. Topics include academic concerns and student welfare. Participating organizations: Inter University Students Federation, Rights Council of the Study, SLPA students, and others.
+
+🟩
+
+A discussion between Prime Minister Harini Amarasuriya and student unions have been discussed regarding the problems of university students.
+
+The Prime Ministerial Media Unit said that the studies and student welfare of university students have discussed a number of unlawful problems.
+
+The Inter University Students Federation and the Rights Council of the Study, University Student Union and the SLPA students have participated in the discussion.
+
+The Inter University Bhikkhu Students Federation, Inter University Diploma in the Inter University Diplomatic Folk Federation, Ocean University Students Association, Engineering Faculty of Engineering, the Department of Moratuwa Engineering Faculty Faculty Faculty Faculty Faculty of the Moratuwa Student Association.
+
+◼️
+
+[Data](articles/d4d4403f.json)
+
+[Extended Data](ext_articles/d4d4403f.ext.json)
+
+---
+
+### David Pieris Automobiles delivers first set of BAIC X55 II SUVs in Sri Lanka
+
+*2024-10-18 06:54:39* · [`dailyftlk`](https://www.ft.lk/business/David-Pieris-Automobiles-delivers-first-set-of-BAIC-X55-II-SUVs-in-Sri-Lanka/34-768120) · `en`
+
+David Pieris Group of Companies Group Chairman and Managing Director Rohana Dissanayake handing over the key and documents to one of the first set of customers Nawaloka Holdings Chairman Jayantha Dharmadasa. David Pieris Automobiles Director Dhanika de Silva and David Pieris Automobiles Assistant General Manager (Sales and Marketing) Thamali Samarathunga are also present
+
+David Pieris Automobiles Ltd. (DPA) successfully delivered the first set of BAIC X55 II SUVs to its customers.
+
+At an intimate and personalised gathering held at the Beijing Automotive Industry Holding Co., Ltd. (BAIC)showroom in Battaramulla, excited and emotional customers accepted their very own BAIC X55 II SUVs, marking it a significant milestone in Sri Lanka’s automobile landscape.
+
+...
+
+[Data](articles/917b071b.json)
+
+[Extended Data](ext_articles/917b071b.ext.json)
+
+---
+
+### David Pieris Solar completes mega project at Ranna
+
+*2024-10-18 06:53:26* · [`dailyftlk`](https://www.ft.lk/business/David-Pieris-Solar-completes-mega-project-at-Ranna/34-768119) · `en`
+
+David Pieris Renewable Energy Ltd. (DPRE) successfully completed yet another major solar energy project at the Manufacturing Complex of David Pieris Motor Company (Lanka) Ltd. (DPMCL) in Ranna, Hambantota District.
+
+The solar installation, with a capacity of 750 kWp and a 620 kW inverter, spans 43,000 square feet at the DPMCL facility. This project underscores DPRE’s ongoing commitment to providing cutting-edge renewable energy solutions for Sri Lanka.
+
+With over 40 years of trust and innovation from the David Pieris Group, David Pieris Renewable Energy is a leader in Sri Lanka’s green energy movement. The company offers on-grid, off-grid, and hybrid solar solutions for households, businesses and corporate/industrial sectors.
+
+The primary objective of the Ranna project is to fulfill DPMCL’s electricity requirement while contributing surplus energy to the national grid. The project is expected to supply 950 MWh of energy to the grid on an annual basis.
+
+...
+
+[Data](articles/536c88ad.json)
+
+[Extended Data](ext_articles/536c88ad.ext.json)
+
+---
+
+### Complaint against the False video of the Welikada Prison
+
+*2024-10-18 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202289) · `si`
+
+False video claim: YouTube video shows President inspecting Welikada Prison kitchen on 15th. Prisons Commissioner denies, stating no inspection occurred. He emphasizes proper food distribution process and lack of media presence. Complaint filed with Criminal Investigation Department regarding false content spread.
+
+🟩
+
+Prisons Commissioner Gaminne B. Gaminne B.. Mr. Dissanayake has noted.
+
+The Youtube has circulated a video that the Welikada Prison kitchen was inspected by the President on the 15th.
+
+The Commissioner of Prisons said that this is a false video.
+
+He also said that the Welikada Prison or any other prison has not been investigated in the Welikada Prison or any other prison.
+
+He said that the prison process would be under the supervision of the officials to provide food to residents from the prison process and that the Head of the Institute is supervised.
+
+He said the Superintendent of Prisons would be provided with the food and the prison that the prison was experimenting to the residents.
+
+The Commissioner said that a media institution had not yet been obtained by the Prison Headquarters.
+
+He pointed out that all the news and discussions are not a filmed in the Welikada Prison kitchen or any other prison.
+
+...
+
+[Data](articles/339f6c59.json)
+
+[Extended Data](ext_articles/339f6c59.ext.json)
+
+---
+
+### ஹமாஸ் தலைவர்  யஹ்யா சின்வர் கொல்லப்பட்டார் - இறுதி நிமிடங்களில் நடந்தது என்ன- பிபிசி
+
+*2024-10-18 06:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196542) · `ta`
+
+ஓக்டோபர் ஏழு தாக்குதலை திட்டமிட்டு முன்னெடுத்த பின்னர் தலைமறைவான யஹ்யா சின்வரை இஸ்ரேலிய இராணுவம் கடந்த ஒரு வருடகாலமாக தேடிவந்தது.
+
+61வயதான சின்வர் கடந்த ஒரு வருடகாலமாக காசா பள்ளத்தாக்கின்  சுரங்கப்பாதைகளிற்குள்ளேயே வாழ்ந்தார் என கருதப்படுகின்றது.அவரின் பாதுகாப்பிற்கு என மெய்ப்பாதுகாவலர்கள் குழுவொன்று காணப்பட்டது இஸ்ரேலின் பணயக்கைதிகள் அவருடனேயே மனிதக்கேடயங்களாக வைக்கப்பட்டிருந்தனர் என தெரிவிக்கப்படுகின்றது.
+
+எனினும் காசாவின் தென்பகுதியில் அவர் இஸ்ரேலின் ரோந்துபடைப்பிரிவொன்றை எதிர்கொண்டார் அவ்வேளை அதிகளவில் மெய்பாதுகாவலர்கள் இருக்கவில்லை, பயணக்கைதிகளும் காணப்படவில்லை.
+
+புதன் கிழமை ரபாவின் டல் அல் சுல்டான் பகுதியில் 828வது பிஸ்லமச் படையணி ரோந்து நடவடிக்கையில் ஈடுபட்டிருந்தது என இஸ்ரேல் தெரிவிக்கின்றது.
+
+இதன்போது மூன்று தீவிரவாதிகளை அடையாளம் கண்ட இஸ்ரேலிய படையினர் அவர்கள் மீது தாக்குதலை மேற்கொண்டு கொலைசெய்துள்ளனர்.
+
+அதன்பின்னர் கொல்லப்பட்ட ஒருவரின் உடலை சோதனையிட்டவேளை அது யஹ்யா சின்வரின் உடல் போல காணப்பட்டுள்ளது.
+
+...
+
+[Data](articles/541abd06.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට සිහින් වැසි වාර කිහිපයක්
+
+*2024-10-18 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202288) · `si`
+
+උතුරු පළාතේ වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව දක්වා ඇත්තේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+
+ඌව සහ නැගෙනහිර පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/16421b73.json)
+
+---
 
 ### SLID to inspire leaders with first-ever International Director Conference
 
@@ -1168,6 +1348,38 @@ Both teams have been in the face of 1-1 matches with three matches with three ma
 
 ---
 
+### வடகிழக்கு தமிழர்களின் உண்மையான அபிலாஷைகளை தேசிய மக்கள் சக்தி புரிந்துகொள்ளவில்லை - ரில்வின் சில்வாவின் கருத்து இதை காண்பிக்கிறது - தமிழ்த் தேசிய அரசியல் கட்சிகளின் பிரதிநிதிகள்
+
+*2024-10-17 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/196525) · `ta`
+
+மக்கள் விடுதலை முன்னணியின் பொதுச்செயலாளர் டில்வின் சில்வாவினால் அண்மையில் வெளியிடப்பட்ட கருத்து, அவர்கள் வட, கிழக்கு தமிழ் மக்களின் உண்மையான அபிலாஷைகள் என்னவென்பதை இன்னமும் அறிந்துகொள்ளவில்லை என்பதையே காண்பிக்கிறது எனச் சுட்டிக்காட்டியிருக்கும் தமிழ்த் தேசிய அரசியல் கட்சிகளின் பிரதிநிதிகள், சமத்துவம் என்பது தனியொரு இனத்துக்கானதாக அன்றி, சகல இனங்களுக்குமானதாக அமையவேண்டும் எனவும் வலியுறுத்தியுள்ளனர்.
+
+அண்மையில் தனியார் தொலைக்காட்சி ஒன்றுக்கு வழங்கிய நேர்காணலில் கருத்து வெளியிட்ட மக்கள் விடுதலை முன்னணியின் பொதுச்செயலாளர் டில்வின் சில்வா, 'அரசியலமைப்பின் 13ஆவது திருத்தம் அனைத்துப் பிரச்சினைகளுக்குமான தீர்வாக அமையாது.
+
+வடக்கு மக்களின் அடிப்படைப் பிரச்சினைகள் பற்றி தமிழ் அரசியல்வாதிகள் பேசுவதில்லை. மாறாக அரசியலமைப்பின் 13ஆவது திருத்தம் மற்றும் அதிகாரப்பகிர்வு என்பன பற்றி மாத்திரமே பேசுவார்கள். இருப்பினும் நாம் வடக்கில் நிலவும் அடிப்படைப் பிரச்சினைகளுக்குக் கட்டம் கட்டமாக உரிய தீர்வு வழங்குவோம்' எனக் குறிப்பிட்டிருந்தார்.
+
+...
+
+[Data](articles/da056d9c.json)
+
+---
+
+### “Comrade”Anura Began Historic Journey After Becoming  the Fifth  Leader  of JVP  in 2014.
+
+*2024-10-17 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84899) · `en`
+
+Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka-PART three
+
+The year was 1969.  A 31 year old mother sought the services of a prominent astrologer to draw up the horoscope of her six month old son. The astrologer made some calculations based on planetary movements that prevailed at the time of the boy’s birth the previous year. He looked up with amazement and told the mother “your son has a “Rajayoga” in his destiny. He is born to rule. One day he will rule this country”.The mother was pleased but puzzled. She  was from a low-income farming family.How could my son be a ruler? She wondered.
+
+...
+
+[Data](articles/19c2757d.json)
+
+[Extended Data](ext_articles/19c2757d.ext.json)
+
+---
+
 ### No one can prevent the success of the Tamil Progressive Alliance - Thikambaram
 
 *2024-10-17 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196526) · `ta`
@@ -1217,6 +1429,42 @@ Taxes have also been imposed as a 10% increase in new or more than 10% or Rs. 40
 [Data](articles/ffafe103.json)
 
 [Extended Data](ext_articles/ffafe103.ext.json)
+
+---
+
+### 15க்கு குறையாமல் ஆசனங்களை வெல்வோம் - தமிழ் அரசுக் கட்சி நம்பிக்கை : சகல தமிழ்த் தேசிய கட்சிகளும் 'சங்குக்கு' அஞ்சுகின்றன -  சித்தார்த்தன்
+
+*2024-10-17 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196529) · `ta`
+
+எதிர்வரும் பொதுத்தேர்தலில் வீடு சின்னத்தில் போட்டியிடும் தமிழ் அரசுக் கட்சியினால் வட, கிழக்கு மாகாணங்களில் 15க்கு குறையாமல் ஆசனங்களை வென்றெடுக்க முடியும் என அக்கட்சியின் வேட்பாளர் எம்.ஏ.சுமந்திரன் நம்பிக்கை வெளியிட்டுள்ளார்.
+
+அதேவேளை சங்கு சின்னத்தில் போட்டியிடும் தமது கூட்டணி இவ்விரு மாகாணங்களிலும் மொத்தமாக 6 - 8 ஆசனங்களை வெல்லும் என எதிர்பார்ப்பதாக ஜனநாயக தமிழ் தேசியக் கூட்டணியின் வேட்பாளர் தர்மலிங்கம் சித்தார்த்தன் தெரிவித்துள்ளார்.
+
+அதேபோன்று இம்முறை தேர்தலில் தமது கட்சி 10க்கு குறையாத ஆசனங்களைப் பெறவேண்டும் என்ற எதிர்பார்ப்புடன் இருப்பதாக தமிழ் தேசிய மக்கள் முன்னணியின் வேட்பாளர் கஜேந்திரகுமார் பொன்னம்பலம் குறிப்பிட்டுள்ளார்.
+
+பொதுத்தேர்தலுக்கான கட்டுப்பணம் செலுத்தல் மற்றும் வேட்புமனுத்தாக்கல் என்பன கடந்த வாரத்துடன் முடிவுக்கு வந்த நிலையில், தற்போது அரசியல் கட்சிகள் நாடளாவிய ரீதியில் தமது தேர்தல் பிரசாரப்பணிகளை முன்னெடுத்துவருகின்றன.
+
+அந்த வகையில் தமிழ்த் தேசிய அரசியல் கட்சிகளின் வேட்பாளர்கள் வட, கிழக்கு மாகாணங்களில் அவர்களது தேர்தல் பிரசார நடவடிக்கைகளைத் தீவிரமாக முன்னெடுத்துவருகின்றனர்.
+
+...
+
+[Data](articles/0bd918d4.json)
+
+---
+
+### Sajith Premadasa has made opposition politics unwinnable. He had the choice of making an alliance with the UNP but he was so insecure that Ranil Wickremesinghe would somehow wrest control of the Party that he turned  it down.
+
+*2024-10-17 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84914) · `en`
+
+Even those who did not vote for Anura Kumara Dissanayake in the presidential race would find it refreshing to see that the old rot that had infested Sri Lankan politics is being cleared out.
+
+But, look closer;  while some of the old guard may have left politics for good, a good number of others have their names on the national list, which gives, at least the folks in the top quarter of the list, a sure shot at getting into Parliament, without the travails of going before the voters.
+
+Also, a cursory look at the troubles brewing in the SJB would reveal that it is not just the old guard collapsing. It is, in fact, the entire machinery of the political opposition that is actually collapsing.
+
+...
+
+[Data](articles/5a81df49.json)
 
 ---
 
@@ -1800,6 +2048,20 @@ Former President Ranil Wickremesinghe has said that there should be experienced 
 
 ---
 
+### ”அனுபவம் இன்றி பாராளுமன்றத்தை நடத்த முடியாது”
+
+*2024-10-17 15:13:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அனுபவம்-இன்றி-பாராளுமன்றத்தை-நடத்த-முடியாது/150-345613) · `ta`
+
+பொருளாதார நெருக்கடிக்கு தீர்வு காண பாராளுமன்றத்தில் அனுபவம் வாய்ந்தவர்கள் இருக்க வேண்டும் என முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+"கடந்த இரண்டு வருடங்களாக என்னுடன் பணியாற்றியவர்கள் பொருளாதார நெருக்கடிகளை எதிர்கொண்ட அனுபவம் உள்ளவர்கள், எனவே அவர்கள் பாராளுமன்றத்தில் இருக்க வேண்டும். நீங்கள் எதிர்க்கட்சியாக இருந்தாலும் சரி, அரசாங்கத்தில் இருந்தாலும் சரி, இந்த அனுபவம் இல்லாமல் பாராளுமன்றத்தை நடத்த முடியாது. அதைத் தாண்டி முயற்சித்தால், இலக்குகளை அடைவதில் நீங்கள் தோல்வியடைவீர்கள்" என விக்கிரமசிங்க விசேட அறிக்கை ஒன்றில் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a60f8da1.json)
+
+---
+
 ### අපේක්ෂකයෙකුට වියදම් කළ හැකි මුදල් සීමාව පැනවෙයි
 
 *2024-10-17 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202271) · `si`
@@ -2025,323 +2287,5 @@ Further, he urged the President to intervene, stating, “If you are committed t
 [Data](articles/b10cf607.json)
 
 [Extended Data](ext_articles/b10cf607.ext.json)
-
----
-
-### ஒரே மேடையில் மூன்று முன்னாள் ஜனாதிபதிகள்  ; ஊழலிற்கு அரசியல்வாதிகளை குற்றம்சாட்டுவதை ஏற்க முடியாது - மைத்திரி கருத்து
-
-*2024-10-17 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196502) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Three former Sri Lankan presidents spoke at an event about the country's political situation and corruption. They emphasized the need for honesty in governance and criticized blaming politicians for decades-long corruption."
-
-🟩
-
-Three former presidents have participated in the event, which was part of the Annual General Meeting of the Sri Lanka Characteristics Association and shared their experiences on the current political environment and corruption of Sri Lanka.
-
-Former presidents Ranil Wickremesinghe Maithripala Sirisena Chandrika Kumaratunga, who shared their thoughts on the current political situation in the country.
-
-Commenting on the current political situation in the country, former President Maithripala Sirisena emphasized the need for honesty at all levels of the government.
-
-The country's ruler is not the best, but the Prime Minister and the Cabinet should not be better off. I do not accept some claiming that politicians are responsible for the corruption in the country for the past 74 years.
-
-Training should be provided to politicians from the beginning.
-
-◼️
-
-[Data](articles/9e997dc9.json)
-
-[Extended Data](ext_articles/9e997dc9.ext.json)
-
----
-
-### නවසීලන්තය පන්දු යවන්නන් ඉන්දීය කණ්ඩායම හඬවයි
-
-*2024-10-17 14:07:05* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තය-පන්දු-යවන්නන්-ඉන්දීය-කණ්ඩායම-හඬවයි/9-412546) · `si`
-
-New Zealand bowlers restrict India to 46 runs in the first innings of the test match.
-
-🟩
-
-The competition for the second day of the first Test cricket match between the New Zealand team and the Indian team will be held at Bangalle, India.
-
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම ඉතා අඩු ලකුණු සංඛ්‍යාවකට දවා ගැනීමට නවසීලන්ත පන්දු යවන්නන් සමත් විය.
-
-ඒ අනුව ඉන්දීය කණ්ඩායමට සියලු දෙනා දැවී රැස් කරගත හැකි වූයේ ලකුණු 46ක් පමණයි.
-
-◼️
-
-[Data](articles/4e130454.json)
-
-[Extended Data](ext_articles/4e130454.ext.json)
-
----
-
-### Ranil's special statement
-
-*2024-10-17 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202270) · `si`
-
-Ranil Wickremesinghe announces goal: New government aims to achieve 15% GDP by 2027, challenging Sri Lanka's economic growth.
-
-🟩
-
-Former President's leader Ranil Wickremesinghe said that the new government is the challenge of making 15% of GDP at the new government by 2027, Sri Lanka is the challenge of making 15% of GDP.
-
-◼️
-
-[Data](articles/0cd89e0c.json)
-
-[Extended Data](ext_articles/0cd89e0c.ext.json)
-
----
-
-### 26 ships polluted Sri Lankan waters; over 6 million litres of pollutants released in one year
-
-*2024-10-17 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102757/26-ships-polluted-sri-lankan-waters-over-6-million-litres-of-pollutants-released-in-one-year) · `en`
-
-The Maritime Environment Protection Authority (MEPA) has reported that 26 ships polluted Sri Lankan waters in the past year, based on data from a satellite monitoring project conducted in collaboration with the French government.
-
-The project, aimed at monitoring maritime pollution, uses advanced satellite technology to track and analyze incidents of marine contamination.
-
-Two major shipwrecks—the New Diamond and X-Press Pearl—stand out in recent history as causes of significant environmental damage to Sri Lanka’s marine ecosystem. The New Diamond caught fire and sank 38 nautical miles off Sri Lanka’s east coast in September 2020, while the X-Press Pearl, a Singapore-registered vessel, sank near Colombo Port after catching fire in May 2021. Both incidents caused severe and long-lasting harm to marine life and coastal areas.
-
-...
-
-[Data](articles/0aaf9551.json)
-
-[Extended Data](ext_articles/0aaf9551.ext.json)
-
----
-
-### India put India for 46 runs
-
-*2024-10-17 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202269) · `si`
-
-India bowled out for 46 runs on Day 1 of NZ Test match. This is one of the lowest scores in Test cricket history.
-
-🟩
-
-Today is the first day of the first Test match between India and New Zealand.
-
-Batting first India bowled out for 46 runs.
-
-This is a large number of students who have been bowled out for a Test innings in Test innings.
-
-◼️
-
-[Data](articles/7d52f518.json)
-
-[Extended Data](ext_articles/7d52f518.ext.json)
-
----
-
-### The benefits of rural road development should go to the village
-
-*2024-10-17 13:42:18* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රාමීය-මාර්ග-සංවර්ධනයේ-ප්‍රතිලාභ-ගමට-යා-යුතුයි/11-412545) · `si`
-
-Here's a 200-character summary:
-
-
-
-Benefits of rural road development: Efficient, regular, aids rural economic growth. Expedite railway projects for employee/public safety. Formalize procurement process. Prioritize local benefits.
-
-🟩
-
-Regular and efficient, efficient, helps to achieve rural economic development goals
-
-Expedite railway road projects to prove the safety of railway employees and the public
-
-President says at the progress review meeting of the Ministry of Transport, Highways, Ports and Civil Aviation
-
-President Anura Kumara Dissanayake pointed out that the formal and efficient to achieve rural economic development goals.
-
-The President also pointed out that the procurement process should be formalized in implementing rural road development projects and the importance of providing the benefits to the regional and rural people.
-
-President Anura Kumara Dissanayake made these comments at the progress review meeting of the Ministry of Highways, Ports and Civil Aviation held at the Presidential Secretariat yesterday (16).
-
-Special attention was extensively reviewed on the projects under the Ministry of Transport, Highways, Ports and Civil Aviation.
-
-...
-
-[Data](articles/bea812cb.json)
-
-[Extended Data](ext_articles/bea812cb.ext.json)
-
----
-
-### මහා සංඝරත්නයේ ආශිර්වාදය මැද දිලිත් මැතිවරණ සටන අරඹයි
-
-*2024-10-17 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202268) · `si`
-
-Dilith Jayaweera leads Gampaha District candidate campaign, visits temples, receives preferential numbers for upcoming elections.
-
-🟩
-
-The main leader of the Gampaha District candidate entrepreneurship Dilith Jayaweera was first defenses in the Gampaha District today (17).
-
-The leader of the universalized powers, Gampaha District candidate entrepreneur, and the universal powers and the universal powers were also present at the Kandy temples this morning and visiting the Maha Sangha.
-
-They came to the next general election after receiving preferential numbers.
-
-Prince Professor Ven. Kumburugamuwe Vajiragama Ven.
-
-Mr. Dilith Jayaweera and others visited Kelaniya Sri Pannananda Viharaya and visited the Chief Incumbent of the Chief Incumbent Amarapura Saddammind Maha Vihara.
-
-දිලිත් ජයවීර මහතා ඇතුළු පිරිස බියගම බෝධිරුක්ඛාරාමය වෙත පැමිණියේ ඉන් පසුවයි.
-
-◼️
-
-[Data](articles/fef0140e.json)
-
-[Extended Data](ext_articles/fef0140e.ext.json)
-
----
-
-### නෞකා 26ක් මෙරට සමුද්‍රය දූෂණයට ලක්කර ඇති බවට අනාවරණයක්
-
-*2024-10-17 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202267) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's marine environment faces severe pollution from 26 ships over the past year, according to the Marine Environment Protection Authority. Recent ship accidents like the New Diamond and Express Pearl have caused significant damage to the coastal ecosystem. The authority reports 115 instances of water pollution observed in the past 12 months, with an estimated 6 million liters of pollutants affecting the water system annually. Measures are being taken to address this issue.
-
-🟩
-
-පසුගිය වසරක කාලය තුළ නෞකා 26ක් විසින් ශ්‍රී ලංකා සාගර කලාපය දූෂණය කර ඇති බව සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය පවසයි.
-
-The Authority was based on the data of a commercial project which was launched with the French government through satellite technology.
-
-මෑත ඉතිහාසයේ මෙරට සාගර කලාපයට දැඩි හානි සිදුකළ නෞකා අනතුරු දෙකක් වන්නේ එක්ස්ප්‍රස් පර්ල් සහ නිව් ඩයමන්ඩ් නෞකා අනතුරු දෙකයි.
-
-ශ්‍රී ලංකාවේ නැගෙනහිර වෙරළතිරයේ සිට නාවික සැතපුම් 38කට එපිටින් නිව් ඩයමන්ඩ් නෞකාව 2020 වසරේ සැප්තැම්බර් මාසයේදී අනතුරට ලක්වුණි.
-
-එසේම, 2021 වසරේ මැයි මාසයේදී සිංගප්පූරුවේ ලියාපදිංචි එක්ස්ප්‍රස් පර්ල් නෞකාව කොළඹ වරාය අසල මුහුදේ ගිනිගෙන මුහුදුබත් වුණි.
-
-මෙම නෞකා අනතුරු හේතුවෙන් ශ්‍රී ලංකාමේ සමුද්‍ර පරිසරයට දරුණු හා දීර්ඝ කාලීන හානියක් සිදුකර ඇති බව සිදුකළ පරීක්ෂණවලදී අනාවරණ වුණි.
-
-The Marine Environment Protection Authority and French Company have been conducting a pilot project to look into fuel leaks based on the Sri Lankan waters based on the Sri Lankan waters.
-
-...
-
-[Data](articles/72f10458.json)
-
-[Extended Data](ext_articles/72f10458.ext.json)
-
----
-
-### The money spent on a voter is announced at the general election
-
-*2024-10-17 12:50:46* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදී--ඡන්ද-දායකයෙකු-වෙනුවෙන්-වියදම්-කළ-හැකි-මුදල්-ප්‍රකාශයට-පත්-කෙරේ/11-412544) · `si`
-
-Elections Commission announces maximum cash limit per voter. Highest cost: Rs. 82 in Vanni district.
-
-🟩
-
-The Elections Commission has published the maximum cash limits that one candidate can cost for one voter.
-
-Accordingly, the Elections Commission commissions Comma Sama Ratnayake said that the highest cost of a voter is Rs.
-
-The Vanni district is the district where one voter is low enough, and the money is Rs. 82.
-
-◼️
-
-[Data](articles/5f8e5e0a.json)
-
-[Extended Data](ext_articles/5f8e5e0a.ext.json)
-
----
-
-### අඩු කරපු විදුලි බිලට මොකද වුණේ ?
-
-*2024-10-17 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202266) · `si`
-
-Sri Lanka Electricity Board reduced electricity bill due to Ceylon Petroleum Corporation's allegations of CEB's irresponsible actions. Ananda Palith called for immediate action to reduce electricity bills by 45% during a press conference in Colombo.
-
-🟩
-
-ඔක්තෝබර් 01 වෙනිදා සිදුවිය යුතු විදුලි ගාස්තු සංශෝධනය ලංකා විදුලිබල මණ්ඩලයේ වගකීම් විරහිත ක්‍රියාකලාපය හේතුවෙන් මෙතෙක් ක්‍රියාත්මක වී නොමැති බව සමගි ඛනිජ තෙල් වෘත්තීය සමිති ඒකාබද්ධ බලවේගය චෝදනා කරයි.
-
-කොළඹ ඊයේ (16) පැවති ප්‍රවෘත්ති සාකච්ඡාවක දී එහි කැඳවුම්කරු ආනන්ද පාලිත මහතා මෙම අදහස් පළ කළේය.
-
-"විදුලිබල මණ්ඩලය මහජන උපයෝගීතා කොමිසමට සංශෝධනය වියයුතු විදුලි බිල පිළිබඳව දත්තයන් තාම යවලා නෑ. ජනාධිපතිතුමනි, මේ මොහොතේ බිලියන 155 ඉක්මවනවා විදුලිබල මණ්ඩලයේ ශුද්ධ ලාභය. Why not be able to exploit more?You had to orders the Powerist Council of the Powerist Council for this soul. වහාම මේකට ක්‍රියාමාර්ග අරගෙන විදුලි බිල සංශෝධනය අවමය සියයට 45කින් අඩුකරන්න පුළුවන්."
-
-◼️
-
-[Data](articles/ebcd25f6.json)
-
-[Extended Data](ext_articles/ebcd25f6.ext.json)
-
----
-
-### நாடாளுமன்றம் சென்ற எமது மலையக பிரதிநிதிகள் என்ன செய்தனர்? தொலைக்காட்சி விவாதங்களில் கூட அடித்துக்கொள்ளும் நிலைமை அல்லவா காணப்பட்டது - அனுஷா சந்திரசேகரன்
-
-*2024-10-17 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196492) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan MP Anusha Chandrasekaran denies corruption allegations, claims she represents her father's legacy in politics. She vows to bring change to Nuwara Eliya district through youth-oriented policies.
-
-🟩
-
-“இலங்கையில் கொள்கை அரசியலை முன்னெடுத்த பெருந்தலைவர் அமரர் சந்திரசேகரனின் மகள்தான் நான். மாறாக கோடிகளுக்கு விலைபோகும் நபர் கிடையாது. Politicians who bought crores are talking about crores today. ”- Attorney -at -Law Anusha Chandrasekaran, Nuwara Eliya district parliamentary candidate, called the United Democratic Voice.
-
-தலவாக்கலையிலுள்ள தேர்தல் அலுவலகத்தில் இன்று வியாழக்கிழமை (17) நடைபெற்ற ஊடக சந்திப்பின்போதே அவர் மேற்கண்டவாறு கூறினார்.
-
-“I was independent in the 2020 general election. அப்போதுகூட முன்னாள் அமைச்சர் பஸில் ராஜபக்சவிடம் 20 கோடி ரூபா பணம் வாங்கிவிட்டே தேர்தலில் போட்டியிட்டதாக எதிரணி தரப்பில் பிரச்சாரம் முன்னெடுக்கப்பட்டது.
-
-அதுமட்டுமல்ல வாக்குகளை சிதறடிப்பதற்காகவே நான் களமிறக்கப்பட்டுள்ளேன் என்றெல்லாம்கூட தகவல்கள் பரப்பட்டன. ஆனால் இவை எதுவும் உண்மை அல்ல. எனது தந்தையின் நண்பர்களின் உதவியுடன்தான் பொதுத்தேர்தலை எதிர்கொண்டேன்.
-
-...
-
-[Data](articles/46e83605.json)
-
-[Extended Data](ext_articles/46e83605.ext.json)
-
----
-
-### Italy makes it illegal to seek surrogacy abroad
-
-*2024-10-17 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102755/italy-makes-it-illegal-to-seek-surrogacy-abroad) · `en`
-
-Italy’s parliament made it illegal on Wednesday for couples to go abroad to have a baby via surrogacy -- a pet project of Prime Minister’s Giorgia Meloni party which activists say is meant to target same-sex partners.
-
-Since taking office in 2022 Meloni has pursued a highly conservative social agenda, looking to promote what she sees as traditional family values, making it progressively harder for LGBTQ couples to become legal parents.
-
-The upper house Senate voted into law a bill proposed by Meloni’s Brothers of Italy party by 84 votes to 58. The bill was already approved by the lower house last year.
-
-The legislation extends a surrogacy ban already in place in Italy since 2004 to those who go to countries such as the United States or Canada, where it is legal, imposing jail terms of up to two years and fines of up to 1 million euros ($1.09 million).
-
-...
-
-[Data](articles/8a717960.json)
-
-[Extended Data](ext_articles/8a717960.ext.json)
-
----
-
-### තරගාවලි ජය සොයා කොදෙව් - ශ්‍රී ලංකා කණ්ඩායම් අද තරගබිමට
-
-*2024-10-17 12:36:49* · [`adalk`](https://www.ada.lk/breaking_news/තරගාවලි-ජය-සොයා-කොදෙව්---ශ්‍රී-ලංකා-කණ්ඩායම්-අද-තරගබිමට/11-412542) · `si`
-
-Sri Lanka vs West Indies cricket match today. Both teams won one game each so far. Today's match is crucial for tournament victory.
-
-🟩
-
-සංචාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර තෙවන හා අවසන් විස්සයි 20 ක්‍රිකට් තරගය අද (17දා) පැවැත්වීමට නියමිතව තිබේ.
-
-දෙරට අතර පැවති පළමු තරග දෙක කණ්ඩායම් දෙකම එක් තරගය බැගින් ජය ගෙන ඇති අතර, ඒ අනුව තරගාවලිය ජයග්‍රහණය කිරීමට නම් අද තරගය  කණ්ඩායම් දෙකටම තීරණාත්මක තරගයක් වනු ඇත.
-
-◼️
-
-[Data](articles/7c274cee.json)
-
-[Extended Data](ext_articles/7c274cee.ext.json)
 
 ---

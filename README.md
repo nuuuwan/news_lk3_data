@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 13:23:40**
+As of **2024-10-18 13:39:53**
 
 ## Newspaper Stats
 
-*Scraped **50,133** Articles*
+*Scraped **50,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ dailyftlk | 3,420
 adalk | 4,658
 dailymirrorlk | 4,733
 adaderanalk | 5,936
-tamilmirrorlk | 6,858
+tamilmirrorlk | 6,859
 virakesarilk | 8,028
-adaderanasinhalalk | 8,689
+adaderanasinhalalk | 8,690
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,133 (100.0%) of 50,133 articles have been extended.
+50,135 (100.0%) of 50,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Naming Sri Lanka One Day squad
+
+*2024-10-18 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202307) · `si`
+
+Sri Lanka names ODI squad vs West Indies.
+
+🟩
+
+The Sri Lankan squad has been named for the ODI series between the West Indies and Sri Lanka.
+
+◼️
+
+[Data](articles/221787f5.json)
+
+[Extended Data](ext_articles/221787f5.ext.json)
+
+---
+
+### புதிய தலைவர் பதவியேற்பு
+
+*2024-10-18 13:03:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-தலைவர்-பதவியேற்பு/175-345648) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"New leader appointment: Vijitha Hera, Minister of Rural, Urban Development and Housing and Construction, appoints a new head."
+
+🟩
+
+He has been appointed by the Minister of Rural, Urban Development and Housing and Construction, Vijitha Hera.
+
+◼️
+
+[Data](articles/462b4979.json)
+
+[Extended Data](ext_articles/462b4979.ext.json)
+
+---
 
 ### Today's currency exchange rate
 
@@ -2313,53 +2353,5 @@ Med Henry, who recorded his 4th 5 wickets in the match, completed 100 Test wicke
 [Data](articles/78e3a47d.json)
 
 [Extended Data](ext_articles/78e3a47d.ext.json)
-
----
-
-### Former prison officer arrested
-
-*2024-10-17 19:09:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-சிறைச்சாலை-அதிகாரி-கைது/175-345620) · `ta`
-
-Former prison officer arrested for drug trafficking after leaving job in 2019. Police seize drugs and phones in raid. Another buyer also arrested.
-
-🟩
-
-Ruwanwella police have arrested a former prison officer involved in drug trafficking.
-
-It has been revealed that the suspect has left the prison officer at the Mahara Prison in 2019 and has since been involved in drug trafficking using his official identity card.
-
-Police said the suspect was arrested in a raid carried out in Imbula, based on information received by military intelligence officers.
-
-There, 5,500 milligrams of heroin, 600 milligrams of ice, cannabis and many other mobile phones and two mobile phones were seized by the police.
-
-The man who had come to buy a drug during the test was also arrested, and that he was also involved in drug trafficking, police said.
-
-◼️
-
-[Data](articles/1a25c449.json)
-
-[Extended Data](ext_articles/1a25c449.ext.json)
-
----
-
-### The work of the central highway will begin soon
-
-*2024-10-17 19:05:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரைவில்-மத்திய-அதிவேக-நெடுஞ்சாலையின்-பணிகள்-ஆரம்பம்/175-345619) · `ta`
-
-Central Highway rehabilitation project to commence soon. Ministry of Transport awaiting Joint Fund approval before commencing work from Kadawatha to Meerigama. Cabinet paper submitted for funding. Contract to be issued upon fund approval.
-
-🟩
-
-The Ministry of Transport, Highways, Ports and Civil Aviation Services KTS Ruwan Chandra said that the rehabilitation work of the Central Highway from Kadawatha to Meerigama will be launched after the Joint Fund has been approved.
-
-The Secretary of the Ministry said that the Ministry of Transport and Highways has decided to submit a cabinet paper from the Joint Fund for the construction of the Joint Fund.
-
-The Secretary of the Ministry said that the contract will be informed to start the road work once the money is approved.. Remble
-
-◼️
-
-[Data](articles/fa8acb2f.json)
-
-[Extended Data](ext_articles/fa8acb2f.ext.json)
 
 ---

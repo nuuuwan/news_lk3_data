@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 21:39:38**
+As of **2024-10-18 21:59:06**
 
 ## Newspaper Stats
 
-*Scraped **50,194** Articles*
+*Scraped **50,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 404
 colombotelegraphcom | 501
 bbccomsinhala | 504
-islandlk | 2,974
+islandlk | 2,977
 economynextcom | 3,076
 dailyftlk | 3,420
 adalk | 4,661
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,945
 tamilmirrorlk | 6,869
 virakesarilk | 8,040
-adaderanasinhalalk | 8,704
+adaderanasinhalalk | 8,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,194 (100.0%) of 50,194 articles have been extended.
+50,198 (100.0%) of 50,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Ministry of Finance announced on imposing special commodities
+
+*2024-10-18 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202323) · `si`
+
+Here's a 200-character summary:
+
+
+
+Finance Ministry denies false claims about special commodities. Gazelle notification validity extended until Dec 13, 2024. No government payment made for advertised goods. Main focus: protecting local industries and tax revenue.
+
+🟩
+
+The Ministry has issued a statement from the Ministry of Finance regarding false media advertising that the government has paid new special commodities for 5 types of goods.
+
+It stated that the year-end validity period of the Gazette Notification on October 14, 2023, was completed by October 13, 2024, to prolong it until December 20, 2024, as at 31 December 2024 to be extended until December 13, 2024The gazette notification has been dealt with.
+
+This has not been executed by the government, and the 25 concessionary tax on imported dhal is the main tax collection and the objective of protecting local fisheries and transport cultivation.The Ministry of Finance announced the Ministry.
+
+Typically, the gazette notification has been released for a period of one year, but the tax amount has been decided to maintain the proper study of these taxes until 31.12.3.12.2012.
+
+◼️
+
+[Data](articles/e324d8d8.json)
+
+[Extended Data](ext_articles/e324d8d8.ext.json)
+
+---
 
 ### Two elephants killed in fuel train collision: Investigation launched on train’s speed
 
@@ -2481,29 +2509,5 @@ Meanwhile, Deputy Director General of the Ministry of Health, the Deputy Directo
 [Data](articles/ce5809e9.json)
 
 [Extended Data](ext_articles/ce5809e9.ext.json)
-
----
-
-### Highseat gazette leaving
-
-*2024-10-18 07:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-345636) · `ta`
-
-Election Gazette releases spending limits for candidates in Colombo, Gampaha, and Kalutara districts. Highest spender: Colombo district at 57 lakhs 50 thousand rupees.
-
-🟩
-
-Political parties, independent groups and candidates who are contesting the general election have been released by the Election Gazette Elections Commission, which has set a district -spent amount for candidates.
-
-The cost of election campaigns has been determined by Article 3 of the Act, which regulates the election costs of 2023.
-
-Accordingly, the highest amount of a district candidate can spend.
-
-It has been decided that a candidate in the Colombo district can spend 57 lakhs 50 thousand rupees, a candidate in the Gampaha district can spend 56 lakhs 43 thousand 387 rupees and a candidate in the Kalutara district can spend 47 lakhs 40 thousand 787 rupees.. (A)
-
-◼️
-
-[Data](articles/590bfb75.json)
-
-[Extended Data](ext_articles/590bfb75.ext.json)
 
 ---

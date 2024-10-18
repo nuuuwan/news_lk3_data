@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 10:58:28**
+As of **2024-10-18 11:11:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,685
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,114 (100.0%) of 50,115 articles have been extended.
+50,115 (100.0%) of 50,115 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,17 +36,23 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-10-18 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202301) · `si`
 
-මඩකලපුව සහ කොළඹ කොටුව අතර ධාවනය වන සියලු දුම්රිය ගමන්වාර අද (17) දිනයේ දී අවලංගු කළ බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+Train cancellations due to oil terminal accident affect Batticaloa-Colombo route. Six scheduled trips cancelled today. Railway Department cites safety concerns following Kolonnawa incident. Minneriya and Hingurakgoda stations impacted.
 
-දෛනිකව මඩකලපුව සහ කොළඹ කොටුව අතර ධාවනය වන දුම්රිය ගමන්වාර සංඛ්‍යාව 6කි.
+🟩
 
-කොලොන්නාව තෙල් ගබඩා පර්යන්තයේ සිට මඩකලපුව බලා ඉන්ධන ප්‍රවාහනය කළ දුම්රියක වන අලි රංචුවක් ගැටිමෙන් අද අලුයම සිදුවු අනතුර හේතුවෙන් මෙම ගමන්වාර අවලංගු කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
+All train travels between Batticaloa and Colombo Fort were canceled today (17).
 
-මින්නේරිය සහ හිගුරක්ගොඩ දුම්රිය ස්ථාන අතර ප්‍රදේශයකදි මෙම අනතුර සිදුව ඇති අතර ඉන් දුම්රියේ ඉන්ධන ටැංකි හතරක් පිළි පැන ඉන් දෙකක් පෙරලි ගොස් තිබුණි.
+There are 6 train travels between Batticaloa and Colombo Fort.
+
+The Railway Department said that the travel was canceled due to the accident in the Kolonnawa oil storage terminal.
+
+The accident occurred in a area where the minneriya and Hingurakgoda railway stations were captured and two of them had been discontinued.
 
 ◼️
 
 [Data](articles/a1026d33.json)
+
+[Extended Data](ext_articles/a1026d33.ext.json)
 
 ---
 

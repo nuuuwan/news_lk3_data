@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 09:58:53**
+As of **2024-10-18 10:13:02**
 
 ## Newspaper Stats
 
-*Scraped **50,112** Articles*
+*Scraped **50,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,066
 dailyftlk | 3,420
 adalk | 4,657
 dailymirrorlk | 4,733
-adaderanalk | 5,931
+adaderanalk | 5,932
 tamilmirrorlk | 6,856
 virakesarilk | 8,023
 adaderanasinhalalk | 8,683
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,683
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,110 (100.0%) of 50,112 articles have been extended.
+50,113 (100.0%) of 50,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### 2024 General Election: Candidates advised to appoint financial managers
+
+*2024-10-18 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102772/2024-general-election-candidates-advised-to-appoint-financial-managers) · `en`
+
+The People’s Action for Free and Fair Elections (PAFFREL) points out that it is appropriate for the candidates contesting the upcoming General Election to appoint a separate individual to manage and maintain their financial records.
+
+Its Executive Director Rohana Hettiarachchi, stated that if not candidates may encounter challenges similar to those experienced in the last presidential election when submitting accurate income and expenditure reports.
+
+Meanwhile, the Executive Director of Institute for Democratic Reforms and Electoral Studies (IRES), Manjula Gajanayake further stressed the consequences for candidates who fail to provide proper expense reports.
+
+“If in any way a candidate is unable to provide his expense reports, or if false information is entered, candidate may lose his political rights for 3 years through a judicial process,” he added.
+
+Gajanayake further said that it could also lead to disqualification of the candidate’s position through a petition.
+
+◼️
+
+[Data](articles/bdde2a4b.json)
+
+[Extended Data](ext_articles/bdde2a4b.ext.json)
+
+---
 
 ### To the attention of the public ...
 
@@ -2319,27 +2341,5 @@ Tamil People's Alliance at this media meeting. Attorney -at -Law. Manivannan, ca
 [Data](articles/12662d8b.json)
 
 [Extended Data](ext_articles/12662d8b.ext.json)
-
----
-
-### Bangladesh crimes tribunal issues arrest warrant for exiled former prime minister
-
-*2024-10-17 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102763/bangladesh-crimes-tribunal-issues-arrest-warrant-for-exiled-former-prime-minister) · `en`
-
-Bangladesh’s International Crimes Tribunal on Thursday issued an arrest warrant for former Prime Minister Sheikh Hasina, citing her alleged involvement in mass killings during violent protests that erupted earlier this year.
-
-The protests, which began as a student-led movement against public sector job quotas, escalated into some of the deadliest unrest since the country’s independence in 1971, resulting in over 700 deaths and numerous injuries.
-
-The violence ultimately forced Hasina to flee to India on Aug. 5 and an interim government led by Nobel Peace Prize laureate Muhammad Yunus took charge.
-
-The tribunal’s proceedings, presided over by Justice Golam Mortuza Majumdar, saw prosecutors request arrest warrants for 50 individuals, including Hasina.
-
-“I appealed to the court that if the accused, who are extremely influential, are not arrested, it will be impossible to conduct the investigation,” chief prosecutor Mohammad Tajul Islam said.
-
-...
-
-[Data](articles/57fe2f4f.json)
-
-[Extended Data](ext_articles/57fe2f4f.ext.json)
 
 ---

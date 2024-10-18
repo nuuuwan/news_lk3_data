@@ -1,36 +1,124 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 11:23:30**
+As of **2024-10-18 11:40:02**
 
 ## Newspaper Stats
 
-*Scraped **50,116** Articles*
+*Scraped **50,121** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 404
 colombotelegraphcom | 500
-bbccomsinhala | 502
+bbccomsinhala | 503
 islandlk | 2,974
 economynextcom | 3,066
 dailyftlk | 3,420
 adalk | 4,657
 dailymirrorlk | 4,733
-adaderanalk | 5,933
+adaderanalk | 5,936
 tamilmirrorlk | 6,856
 virakesarilk | 8,023
-adaderanasinhalalk | 8,685
+adaderanasinhalalk | 8,686
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,116 (100.0%) of 50,116 articles have been extended.
+50,121 (100.0%) of 50,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Egg traders urge govt to implement pricing formula
+
+*2024-10-18 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102777/egg-traders-urge-govt-to-implement-pricing-formula-) · `en`
+
+The All Ceylon Egg Traders’ Association has called on the government to introduce a pricing formula to stabilize the price of eggs in the market.
+
+The Secretary of the association Anura Marasinghe stated that it costs less than Rs. 25 to produce an egg, making it feasible to sell them at a price of Rs. 35 per egg.
+
+“The issue of escalating egg prices remains unresolved, with current market rates ranging from Rs. 40 to Rs. 45 per egg. We urge the government to appoint a committee and establish a transparent pricing formula,” Mr. Marasinghe said.
+
+He further noted that the actual production cost of an egg is between Rs. 20 and Rs. 23, while farm-gate prices currently stand at around Rs. 30.
+
+The association believes a pricing mechanism would benefit both producers and consumers, ensuring fair pricing across the board.
+
+◼️
+
+[Data](articles/46514b35.json)
+
+[Extended Data](ext_articles/46514b35.ext.json)
+
+---
+
+### All train services on Batticaloa Line suspended
+
+*2024-10-18 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102776/all-train-services-on-batticaloa-line-suspended-) · `en`
+
+The Department of Railways announced that all train services between Batticaloa and Colombo Fort have been canceled today (17), following an accident early this morning.
+
+Six daily trains operate on this route, but services have been suspended due to a collision involving a train transporting fuel.
+
+The incident occurred between the Minneriya and Higurakgoda railway stations when the train, en route from the Kolonnawa petroleum storage terminal to Batticaloa, struck a herd of wild elephants.
+
+Four fuel tanks of the train have been damaged, with two of them overturning due to the impact.
+
+Railway authorities are working to assess the situation and clear the tracks, while no timeline has been provided yet for the resumption of services.
+
+◼️
+
+[Data](articles/02d464d4.json)
+
+[Extended Data](ext_articles/02d464d4.ext.json)
+
+---
+
+### UGC is the key Chairman
+
+*2024-10-18 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202302) · `si`
+
+Here's a 200-character summary:
+
+
+
+Senior Professor Kapila Seneviratne becomes Chairman of University Commission, replacing Senior Professor Sampath Amaratunga who resigned.
+
+🟩
+
+Senior Professor Kapila Seneviratne has taken place as the Chairman of the University Commission.
+
+He was appointed by Senior Professor Prof. Sampath Amaratunga after the resign.
+
+◼️
+
+[Data](articles/d160afdc.json)
+
+[Extended Data](ext_articles/d160afdc.ext.json)
+
+---
+
+### New UGC Chairman appointed
+
+*2024-10-18 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102775/new-ugc-chairman-appointed-) · `en`
+
+Senior Professor Kapila Senevirathne has been appointed as the Chairman of the University Grants Commission (UGC).
+
+Senior Prof. Kapila Seneviratne graduated with a BSc (Special) Degree in Chemistry from the University of Kelaniya in 1990. He received his Ph.D. in Chemistry from Wayne State University, Detroit, USA, and did his postdoctoral studies at the University of British Columbia, Canada in 1998-1999.
+
+He was a Commonwealth Fellowship of the University of Leeds, UK in 2010 and a Fulbright Fellow in the University of Massachusetts Amherst, the USA in 2011.
+
+Prof. Seneviratne is a renowned researcher in the field of chemistry and nutrition of edible oils. He has served as the Dean of the Faculty of Science from 2014 to 2017.  He is also the Chairman of the Research Council and the Chairman of the Ethics Review Committee of the University.
+
+◼️
+
+[Data](articles/0286c41a.json)
+
+[Extended Data](ext_articles/0286c41a.ext.json)
+
+---
 
 ### PM Harini meets university students’ unions
 
@@ -965,6 +1053,38 @@ Globally, cybercriminals are exploiting the popularity of social media to launch
 [Data](articles/32a0685c.json)
 
 [Extended Data](ext_articles/32a0685c.ext.json)
+
+---
+
+### Is Sri Lanka latest center in cyber crimes?
+
+*2024-10-18 04:43:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c77x0e31vm6o) · `si`
+
+Sri Lanka becoming hub for cybercrime due to rising fraud cases and arrests of foreign nationals. Police report 232 internet fraud complaints in September alone. Banks warn customers about phishing scams and unauthorized account access. Public awareness campaigns launched to combat online fraud targeting local banks and financial institutions.
+
+🟩
+
+"Click on this link to instantly to get a loan of Rs 50,000
+
+With the temptation of the people to use the public to use online banking services, the report on the frauds is increasing day.
+
+It is reported that the people who are aware of these frauds and the frauds that come from foreign countries will be increased by day.
+
+In the last few weeks, the arrest of foreign investigations, including the CID, including the CID including the CID in the last few weeks.
+
+From July this year, it was a rapid increase in the arrest of foreign nationals on suspicion of financial framework.
+
+Police were arrested by the police while he was organized by foreigners in Puttalam and Kandy and lodge areas.
+
+According to police spokesman DIG Nihal Thalvan, he said that more than 300 people from various countries including the Chinese, he had been arrested by the police.
+
+He also said that the CID has implemented further investigations into the suspects.
+
+...
+
+[Data](articles/b70a280b.json)
+
+[Extended Data](ext_articles/b70a280b.ext.json)
 
 ---
 
@@ -2211,119 +2331,5 @@ Also, a cursory look at the troubles brewing in the SJB would reveal that it is 
 [Data](articles/5a81df49.json)
 
 [Extended Data](ext_articles/5a81df49.ext.json)
-
----
-
-### Sri Lanka’s former president calls for experienced members to be sent to parliament
-
-*2024-10-17 18:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-former-president-calls-for-experienced-members-to-be-sent-to-parliament-184036/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s former President Ranil Wickremesinghe has called for voters to send experienced members back to parliament in the upcoming general election, saying those who worked with him have the necessary expertise.
-
-“Without experience, you cannot run the Parliament, you cannot achieve the goals we have been set. Those who worked with me have the expertise to solve the economic challenges,” Wickremesinghe said making a statement on Thursday.
-
-“So they should be in Parliament whether in the government or opposition.”
-
-Wickremesinghe said it was important to have experience in running the Parliament and reaching economic goals, and urged Sri Lankans to vote for people who worked with him as president to address the economic crisis.
-
-He undertook the presidency when the country had defaulted, he said, and his goal was to reach debt sustainability and overcome bankruptcy.
-
-“We were able to reach agreement with the IMF, 18 countries that lent to us and private bondholders.”
-
-...
-
-[Data](articles/a6bf04b4.json)
-
-[Extended Data](ext_articles/a6bf04b4.ext.json)
-
----
-
-### Tamil Progressive Alliance candidates win Nuwara Eliya - Udayakumar
-
-*2024-10-17 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196524) · `ta`
-
-Tamil Progressive Alliance candidates likely to win Nuwara Eliya parliamentary elections. Udayakumar predicts victory for three Tamil candidates. Opposition may gain 120 seats due to voter dissatisfaction. Five Tamil candidates expected to win out of eight MPs.
-
-🟩
-
-Candidates who support the Tamil Progressive Alliance have won the presidential elections and parliamentary elections. The Tamil Progressive Alliance candidates contesting the upcoming parliamentary elections in the Nuwara Eliya district will definitely win, said Mayilvankanam Udayakumar, president of the National Union of Workers and the Nuwara Eliya District candidate of the United People's Power.
-
-He said this while the election campaign meeting of the Tamil Progressive Alliance was held at the Hatton Senan Estate.
-
-Candidates Palani Thikambaram, Wee. He continued to speak at the meeting attended by Radhakrishnan.
-
-This is an important election for the people of the hill country as the parliamentary elections are held within a month of the presidential election. The Tamil people live in the Nuwara Eliya district outside the North and East.
-
-...
-
-[Data](articles/2705f774.json)
-
-[Extended Data](ext_articles/2705f774.ext.json)
-
----
-
-### Shakib can't go home
-
-*2024-10-17 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202277) · `si`
-
-Shakib Al Hasan refuses to return home due to protests in Dhaka. He's staying in Dubai before heading to the US. A youth was killed during unrest in Bangladesh last August, linking Shakib to the incident.
-
-🟩
-
-Sakib Al Hasantha has said that he would not go to the capital of Dhaka to play the first Test against South Africa.
-
-He has said that he had protests in the city of Dakka against him.
-
-Shakib also included the squad for the designated squad for the first Test against South Africa.
-
-As a result, he remains in Dubai with a view to departing from the United States to Bangladesh.
-
-However, Bangladesh had advised him that a team had begun a protest against Shakib.
-
-"I'm not sure where I'm going next. But I am mostly sure that I will not go home. "
-
-In the past August, there is an altering Shakib accused of assassination of a youth during the unrest in Bangladesh.
-
-Shakib was a Member of Parliament in his hometown and was representing former Prime Minister Sheikh Husanage League.
-
-◼️
-
-[Data](articles/92f8c870.json)
-
-[Extended Data](ext_articles/92f8c870.ext.json)
-
----
-
-### Dr. Harsha De Silva, with his expertise in economics, experience in governance, and reputation for pragmatism, could emerge as a more favourable candidate to lead the Samagi Jana Balavegaya(SJB)
-
-*2024-10-17 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84917) · `en`
-
-Targeting Dr. Harsha de Silva by senior SJB members began a couple of years ago when he started gaining recognition as a potential future leader. The brilliant economist faced criticism a few months ago after securing state funding for development work in Kotte.
-
-During a TV chat show explaining the process, Harsha made the remark, “Mama Ambalangoda kollekk” (I am a man from Ambalangoda), which some within the party used to undermine him. Party members close to the leadership reportedly conspired to push him out of the Colombo district, seeking to move him to Galle’s nomination list, his hometown. This would free up a prime slot in Colombo for a former Hela Urumaya member, and an apparent attempt to sideline Harsha and diminish his influence within the party.
-
-...
-
-[Data](articles/e66e743a.json)
-
-[Extended Data](ext_articles/e66e743a.ext.json)
-
----
-
-### 2024 Sri Lankan elections - important rise of populist Left
-
-*2024-10-17 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196522) · `ta`
-
-Sri Lanka 2024 elections: Populist Left rise. Dissanayake vows to engage non-voters. Ethnic conflict challenge.
-
-🟩
-
-Dissanayake, who delivered his first speech after being elected, announced that he would do everything he could to approach the non -voting factions in the September election, and that he had realized the size and "admission" of his decree. If the promise to bring about Dissanayake's Renaissance Age is to be true, it is a serious task to be successful in Sri Lanka to control the ethnic conflict in Sri Lanka.
-
-◼️
-
-[Data](articles/0b17c5ac.json)
-
-[Extended Data](ext_articles/0b17c5ac.ext.json)
 
 ---

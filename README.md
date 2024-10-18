@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 14:58:28**
+As of **2024-10-18 15:10:16**
 
 ## Newspaper Stats
 
-*Scraped **50,141** Articles*
+*Scraped **50,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,128 @@ economynextcom | 3,067
 dailyftlk | 3,420
 adalk | 4,659
 dailymirrorlk | 4,733
-adaderanalk | 5,937
+adaderanalk | 5,939
 tamilmirrorlk | 6,859
 virakesarilk | 8,028
-adaderanasinhalalk | 8,694
+adaderanasinhalalk | 8,696
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,141 (100.0%) of 50,141 articles have been extended.
+50,145 (100.0%) of 50,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Health Ministry explains facts about HPV vaccine
+
+*2024-10-18 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202313) · `si`
+
+HPV vaccine side effects reported in five schoolgirls. Health Ministry advises caution but no long-term reactions found. Investigations underway. Parents urged to monitor children after vaccination.
+
+🟩
+
+Five students of a school in Kalutara district have been taken to minimize the risk of cervical cancer.
+
+It stated that the symptoms observed in the girls inscription that does not suffer long-term reactivity.
+
+The statement issued by the Ministry of Health in the Ministry of Health stated that they have been adapted to medical attention to the students.
+
+පාසල් එන්නත් වැඩසටහන්වලදී එවැනි ප්‍රතික්‍රියා දැකිය හැකි අතර, අනවශ්‍ය කැළඹීමකට පත් නොවිය යුතු බවද එම නිවේදනයේ සඳහන්ව ඇත.
+
+කෙසේ වෙතත් සිද්ධිය සම්බන්ධව සාමාන්‍ය ක්‍රියාදාම යටතේ සෞඛ්‍ය අමාත්‍යංශය විසින් පරීක්ෂණ ආරම්භ කර ඇතැයි ද එහි සඳහන් වේ.
+
+The Ministry of Health has requested all parents to ensure their children to ensure their children and to ensure the safety of the HPV vaccine.
+
+◼️
+
+[Data](articles/54bdeebe.json)
+
+[Extended Data](ext_articles/54bdeebe.ext.json)
+
+---
+
+### Sri Lanka’s Mahima Herath wins third place in Australia’s Humanitarian Innovation Pitch
+
+*2024-10-18 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102780/sri-lankas-mahima-herath-wins-third-place-in-australias-humanitarian-innovation-pitch) · `en`
+
+Mahima Pivithuru Herath, a postgraduate student at Griffith University from Sri Lanka has secured third place in the prestigious Humanitarian Innovation Pitch competition.
+
+His research focuses on enhancing access to primary healthcare services for the lives of Syrian refugees in the 70,000 person Zaatari Refugee Camp, Jordan.
+
+Mahima’s project aims to create a model that improves health and well-being in this highly vulnerable community.
+
+The first place of the competition was awarded to Emily Nabong from the University of Sydney, whose innovative research develops a simulation tool for policymakers.
+
+Phyllis Wairimu Ngugi from Bond University claimed second place with her work on modernizing and scaling traditional solar drying methods.
+
+The Humanitarian Innovation Pitch is an annual event that highlights the impactful research of postgraduate and higher degree by research (HDR) students addressing critical issues faced by underserved communities.
+
+...
+
+[Data](articles/d157cbae.json)
+
+[Extended Data](ext_articles/d157cbae.ext.json)
+
+---
+
+### Board of Directors to the Film Corporation and Foundation
+
+*2024-10-18 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202312) · `si`
+
+National Film Corporation Board of Directors meeting: Modernize film industry, compete with private entities, address Buddhist religious duties, national unity, social protection, and media ministry responsibilities.
+
+🟩
+
+ජාතික චිත්‍රපට සංස්ථාව නූතන යුගයට සරිලන පරිදි සකස් කළයුතු බවත්, පෞද්ගලික ආයතන හා සමඟ තරඟකාරිත්වය ජයග්‍රහණය කරමින් ඉදිරියට යායුතු බවත්, බුද්ධ ශාසන ආගමික කටයුතු, ජාතික ඒකාබද්ධතා සමාජ ආරක්ෂණ සහ ජනමාධ්‍ය අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+
+ජාතික චිත්‍රපට සංස්ථාවට සහ ශ්‍රී ලංකා පදනම් ආයතනයට අධ්‍යක්ෂ මණ්ඩල පත්කරමින් ජනමාධ්‍ය අමාත්‍යංශ ශ්‍රවණාගාරයේදී අද (18) පැවැති රැස්වීම් සභාව අමතමින් ඒ මහතා මේ බව පැවසීය.
+
+The Minister said that the new board of directors had to intervene in this regard while releasing films in the recent past.
+
+The Minister said that the members of the country had not yet been able to develop Tamil cinema in 2004/2005, and the Tamil cinema should grow as an industry in the future.
+
+Speaking on the Sri Lanka Foundation Institute, the Minister said that the current officials should be managed and to prevent the weaknesses of the basement.
+
+◼️
+
+[Data](articles/a483562d.json)
+
+[Extended Data](ext_articles/a483562d.ext.json)
+
+---
+
+### Baby dead and 65 rescued in Channel sinking
+
+*2024-10-18 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102779/baby-dead-and-65-rescued-in-channel-sinking) · `en`
+
+A baby has died after a boat attempting to cross the English Channel sank on Thursday night, French authorities say.
+
+Officials said the overloaded boat carrying migrants started sinking off the coast of Wissant in northern France.
+
+Rescuers called to the scene saved 65 people, including some who were in the water.
+
+Searches to find more people at sea found an unconscious baby, who was later declared dead, officials said.
+
+The local prefecture said in a statement: “Rescuers found that the boat, which was heavily loaded, was in difficulty and that some of the people were in the water.
+
+“At the same time, further searches were carried out to find people who could be stranded at sea.”
+
+It was then that the baby was discovered, the prefecture added. Prosecutors have opened an investigation into the death.
+
+2024 is already the deadliest year for migrant crossings of the English Channel since 2018.
+
+Dinghies often now carry 50 or more migrants, far more than in previous years.
+
+...
+
+[Data](articles/ee09da43.json)
+
+[Extended Data](ext_articles/ee09da43.ext.json)
+
+---
 
 ### Petition to court against Licensing firearms
 
@@ -2261,117 +2369,5 @@ The T20 cricket match is considered the first victory against the West Indies in
 [Data](articles/90268105.json)
 
 [Extended Data](ext_articles/90268105.ext.json)
-
----
-
-### Sri Lanka to receive USD 1.69 billion in loans within next 3-5 years: Report
-
-*2024-10-17 22:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102766/sri-lanka-to-receive-usd-169-billion-in-loans-within-next-3-5-years-report) · `en`
-
-The government has spent only 53% of the welfare budget allocated for the year within the first 8 months up to August, according to a report.
-
-A latest report from the Ministry of Finance indicates that the welfare budget has primarily been used to fund the ‘Aswesuma’ welfare program.
-
-Meanwhile, the report also states that Sri Lanka is expected to receive 1.69 billion US dollars in loans from multilateral agencies within the next 3 to 5 years.
-
-In the Pre-election budgetary report by the Finance ministry, it is reported that, as of the end of August 2024, foreign development partners and lending agencies have entered into 10 agreements with the government for foreign financing totalling 398.7 million US dollars.
-
-Of this amount, 350 million dollars has been secured in the form of loans.
-
-Another 48.7 million dollars has been obtained through seven grant agreements with the governments of Japan and Australia under official development assistance.
-
-...
-
-[Data](articles/c9918f66.json)
-
-[Extended Data](ext_articles/c9918f66.ext.json)
-
----
-
-### Sri Lanka beat Sri Lanka
-
-*2024-10-17 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202284) · `si`
-
-Sri Lanka beats West Indies 9 wickets in T20 series 2-1. Kusal Mendis scores 68, Kusal Perera hits 106* as Sri Lanka wins historic match.
-
-🟩
-
-Tourist bi. The Sri Lanka team was able to defeat the West Indies by nine wickets today by the 9 wickets.
-
-Sri Lanka won the 3-match tournament match 2-1.
-
-Sri Lanka's tournamental tournament is considered in Sri Lanka - West Indies 20 competition history. The first tournaments have been won against the West Indies.
-
-Between the two countries, a bilateral T20 tournament was held in Sri Lanka in 2015.
-
-The two matches ended with a 1-1 passed quality.
-
-However, the tournament in Sri Lanka in Sri Lanka was 2-0 matches and in 2021, Sri Lanka was defeated in the West Indies in 2021.
-
-West Indies scored 162 runs for the loss of 8 wickets in the 20 overs.
-
-Accordingly, the Sri Lankan team was bowled out by the Sri Lankan team to pass the winning target in the 18th over the 18th over the match.
-
-The opener Kusal Mendis was the target of the opening of Sri Lanka to the victorious shop and stood at the wicket and scored 68 runs.
-
-...
-
-[Data](articles/bcd2758e.json)
-
-[Extended Data](ext_articles/bcd2758e.ext.json)
-
----
-
-### A fishing vessel sees
-
-*2024-10-17 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202283) · `si`
-
-Fishing vessel damaged due to strong waves at Kapparathota port. Anchored at Fisheries Harbor.
-
-🟩
-
-A fishery vessel anchouing at the Kapparathota port in Kapparathota port was in danger this afternoon.
-
-මේ දිනවල මුහුදේ පවතින දැඩි රළ ස්වභාවය හේතුවෙන් මෙම ධීවර යාත්‍රාව දියේ ගිලී ඇත.
-
-According to the fishermen, he said that the fishing vessel had severely damaged.
-
-It is reported that the fishing yacht is anchored by the Fisheries Harbor, reports say.
-
-◼️
-
-[Data](articles/01c35d72.json)
-
-[Extended Data](ext_articles/01c35d72.ext.json)
-
----
-
-### Progressive Tamil League's support for Democratic Tamil National Alliance - Sadasivam Jupiter
-
-*2024-10-17 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196535) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Progressive Tamil League supports Democratic Tamil National Alliance in Batticaloa district. Leader Sadasivam Judendran cites protecting Tamil representation. Party aims to field candidates in future local and provincial elections.
-
-🟩
-
-The Chief Coordinator of the Progressive Tamil League and former Minister of State for the Progressive Tamil League, Sadasivam Judendran said that he has decided to support the Democratic Tamil National Alliance this time.
-
-He said the decision was taken to protect the representation of Tamils ​​in the Batticaloa district.
-
-The Progressive Tamil League was launched in 2018 with the basic philosophy that the presence of Tamils ​​can be protected by a strong political structure in the Eastern Province.. To date, we are working on that purpose.
-
-We have won two elections because of the fact that unnecessary criticism has been accepted and accepted by creative criticism.
-
-The third election we face in this case is this parliamentary election. We were on the field in this parliamentary election. Unfortunately our nominations were rejected.
-
-...
-
-[Data](articles/76748d8c.json)
-
-[Extended Data](ext_articles/76748d8c.ext.json)
 
 ---

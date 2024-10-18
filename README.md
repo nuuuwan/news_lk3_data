@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 15:58:20**
+As of **2024-10-18 16:12:52**
 
 ## Newspaper Stats
 
-*Scraped **50,148** Articles*
+*Scraped **50,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,420
 adalk | 4,659
 dailymirrorlk | 4,733
 adaderanalk | 5,939
-tamilmirrorlk | 6,861
+tamilmirrorlk | 6,863
 virakesarilk | 8,028
 adaderanasinhalalk | 8,697
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 8,697
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,148 (100.0%) of 50,148 articles have been extended.
+50,148 (100.0%) of 50,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவுக்கு புதிய தலைவர் நியமனம்
+
+*2024-10-18 15:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மானியங்கள்-ஆணைக்குழுவுக்கு-புதிய-தலைவர்-நியமனம்/175-345653) · `ta`
+
+பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவின் புதிய தலைவராக சிரேஷ்ட பேராசிரியர் கபில செனவிரத்ன நியமிக்கப்பட்டுள்ளார்.
+
+வேதியியல் பேராசிரியரான இவர், களனி பல்கலைக்கழகத்தின் பழைய மாணவராவார். இவர் 1997ஆம் ஆண்டு, அமெரிக்காவில் உள்ள வெய்ன் ஸ்டேட் பல்கலைக்கழகத்தில் முனைவர் பட்டம் பெற்றார்.
+
+அத்துடன், சமையல் எண்ணெய்களின் இரசாயன மற்றும் ஊட்டச்சத்து பண்புகள் குறித்து பல ஆராய்ச்சிகளை நடத்திய ஒரு முக்கிய பேராசிரியரும் ஆவார்.
+
+சிரேஷ்ட பேராசிரியர் கபில செனவிரத்ன, இதுவரை களனி பல்கலைக்கழகத்தின் முதுகலை பீடத்தின் பீடாதிபதியாக பணியாற்றியமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/13ab3fa4.json)
+
+---
+
+### வேட்புமனுவை நிராகரித்த தீர்மானத்துக்கு எதிராக மனு
+
+*2024-10-18 15:44:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்புமனுவை-நிராகரித்த-தீர்மானத்துக்கு-எதிராக-மனு/175-345652) · `ta`
+
+நடைபெறவுள்ள நாடாளுமன்றத் தேர்தலுக்காக வன்னி மாவட்ட ஜனநாயக தேசிய கூட்டமைப்பு முன்வைத்த வேட்புமனுவை நிராகரிப்பதற்கு மாவட்டத் தேர்தல் அதிகாரி எடுத்த தீர்மானத்தை இரத்து செய்யக் கோரி உயர் நீதிமன்றத்தில் மனு தாக்கல் செய்யப்பட்டுள்ளது.
+
+இங்கு பிரதிவாதிகளாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர், உறுப்பினர்கள், வன்னி மாவட்ட தேர்தல் அதிகாரி மற்றும் பலர் குறிப்பிடப்பட்டுள்ளனர்.
+
+பொதுத் தேர்தலில் போட்டியிடுவதற்காக வன்னி மாவட்ட தேர்தல் அதிகாரியிடம் வேட்புமனு தாக்கல் செய்துள்ளதாக மனுதாரர்கள் தெரிவித்துள்ளனர். அப்போது முறைப்படி வேட்பு மனு தாக்கல் செய்யப்படவில்லை எனக் கூறி அதனை ஏற்க மறுத்ததாகவும் மனுவில் குறிப்பிடப்பட்டுள்ளது.
+
+அனைத்து ஆவணங்களையும் முறையாக சமர்ப்பித்த பிறகு, வேட்புமனுவை நிராகரிப்பது சட்டத்துக்கு எதிரானது என்பதால், மனுதாரர்கள் இந்த முடிவை இரத்து செய்யுமாறு கோருகின்றனர்.
+
+◼️
+
+[Data](articles/8306fbe1.json)
+
+---
 
 ### Why not negotiate with the International Monetary Fund
 
@@ -2355,39 +2391,5 @@ When I declared that the country was unable to repay the debt, I took charge of 
 [Data](articles/e625c170.json)
 
 [Extended Data](ext_articles/e625c170.ext.json)
-
----
-
-### Israel foreign minister says Hamas leader Sinwar is dead
-
-*2024-10-17 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102768/israel-foreign-minister-says-hamas-leader-sinwar-is-dead) · `en`
-
-Israeli Foreign Minister Israel Katz said on Thursday that Hamas leader Yahya Sinwar has been killed.
-
-“Mass murderer Yahya Sinwar, who was responsible for the massacre and atrocities of October 7, was killed today by IDF soldiers,” Katz said in a statement.
-
-◼️
-
-[Data](articles/5932fb67.json)
-
-[Extended Data](ext_articles/5932fb67.ext.json)
-
----
-
-### Sri Lanka script history, beat West Indies in T20 series for first time
-
-*2024-10-17 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102767/sri-lanka-script-history-beat-west-indies-in-t20-series-for-first-time) · `en`
-
-Sri Lanka thrashed West Indies by 9 wickets on Thursday (October 17) to take the series by 2-1. Maheesh Theekshana and Wanindu Hasaranga chipped in with 2 wickets each to help the hosts restrict West Indies to 162 runs. In reply, both Kusal Mendis and Kusal Perera brought up magnificent fifties to take the series.
-
-Opting to bat first, West Indies had a terrible start as they were crumbling on 55-4 after the halfway stage, adding some runs to it they lost another and soon became 62-5. This walked in, Gudakesh Motie, who slammed three sixes to uplift West Indies and smashed a quick-fire 32 off 15 balls.
-
-After his departure, captain Rovman Powell too showcased his power hitting skills and he got some timely boundaries to score 37 off 27 balls and help his side finish on 162 on the board.
-
-...
-
-[Data](articles/7d84d805.json)
-
-[Extended Data](ext_articles/7d84d805.ext.json)
 
 ---

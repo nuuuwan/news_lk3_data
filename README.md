@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 00:13:35**
+As of **2024-10-19 00:24:45**
 
 ## Newspaper Stats
 
-*Scraped **50,201** Articles*
+*Scraped **50,204** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 501
 bbccomsinhala | 504
 islandlk | 2,977
 economynextcom | 3,076
-dailyftlk | 3,420
+dailyftlk | 3,423
 adalk | 4,661
 dailymirrorlk | 4,733
 adaderanalk | 5,945
@@ -26,11 +26,61 @@ adaderanasinhalalk | 8,707
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,201 (100.0%) of 50,201 articles have been extended.
+50,204 (100.0%) of 50,204 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### How important was India’s help to Sri Lanka in 2022?
+
+*2024-10-18 23:42:43* · [`dailyftlk`](https://www.ft.lk/columns/How-important-was-India-s-help-to-Sri-Lanka-in-2022/4-768162) · `en`
+
+India’s help was significant at a crucial time as Sri Lanka was going through a nightmarish
+
+The IMF program is to give Sri Lanka $ 3 billion over four years with conditions. India gave $ 4 billion in one year to Sri Lanka with no conditions. Also, the timing is important to note. The IMF program came in 2023 when Sri Lanka had stabilised to a large extent under President Ranil Wickremesinghe. Also, most of the toughest policies that were needed for Sri Lanka to achieve macroeconomic stability were already put in place by the former President Ranil Wickremesinghe when the IMF program was approved. But India came to Sri Lanka’s aid when Sri Lanka was staring at the abyss with a Government that was behaving very irrationally in January 2022 with the country facing macroeconomic instability. This point should not be forgotten by the Sri Lankan public
+
+...
+
+[Data](articles/008333e9.json)
+
+[Extended Data](ext_articles/008333e9.ext.json)
+
+---
+
+### Future of multilateral cooperation at SCO summit
+
+*2024-10-18 23:40:04* · [`dailyftlk`](https://www.ft.lk/opinion/Future-of-multilateral-cooperation-at-SCO-summit/14-768161) · `en`
+
+The SCO offers a unique platform for dialogue, bringing together nations with converging interests in a multilateral framework
+
+The 23rd meeting of the Shanghai Cooperation Organization (SCO) Council of Heads of Government is currently underway in Islamabad, marking a pivotal moment in Eurasian geopolitics, particularly for Pakistan. As world leaders gather in the capital, this summit represents a significant advance in multilateral cooperation, with the SCO standing as one of the largest and most influential organisations in the region.
+
+Pakistan’s hosting of this event comes at a time when the country is striving to strengthen its diplomatic, economic, and security ties. Amid evolving global alliances, this summit presents an opportunity for Pakistan to cement its role within this multilateral forum.
+
+...
+
+[Data](articles/394179f5.json)
+
+[Extended Data](ext_articles/394179f5.ext.json)
+
+---
+
+### In appreciation of Professor Kumar David
+
+*2024-10-18 23:31:18* · [`dailyftlk`](https://www.ft.lk/opinion/In-appreciation-of-Professor-Kumar-David/14-768153) · `en`
+
+Professor Kumar David, once an academic in the Engineering Faculty, Peradeniya University, and a Fellow of the Institution of Electrical Engineers in the UK and Hong Kong has left for eternal rest, last Monday while in Los Angeles, USA. We believe the “left” leaning English reader would miss Kumar’s forays into political controversies, with his own reading of issues that often provided dissenting, but populist perspectives, he developed over the decades since leaving the NSSP in 1980 July. Politically, he was advocating for “unity in the scattered left”.
+
+Professionally too, he stood out as an exceptional, pragmatic thinker and was accepted for that. We believe he still remains the youngest to be appointed to the Director Board of the CEB way back in 1970, perhaps after the change of government in July. Kumar would not have been 30 years then. He was also a strong critic of the Mahaweli Development power generation scheme in 1979, when the blueprint was out for academic observation.
+
+...
+
+[Data](articles/c4c6911c.json)
+
+[Extended Data](ext_articles/c4c6911c.ext.json)
+
+---
 
 ### New Zealand to fight T20 World Cup
 
@@ -2443,79 +2493,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/0bda9e38.json)
 
 [Extended Data](ext_articles/0bda9e38.ext.json)
-
----
-
-### It is raining several times in some parts of the country
-
-*2024-10-18 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196543) · `ta`
-
-Rains forecasted in Northern Province, Western, Sabaragamuwa, North Western, Galle, Matara, Kandy, Nuwara Eliya districts. Thunderstorms possible in Uva, Eastern Provinces. Heavy rains expected off Puttala to Colombo, Galle. Wind speeds 25-35 km/h in southwest direction. Seas turbulent near Kankesanthurai to Mannar, Hambantota to Pottuvil. Moderate waves elsewhere.
-
-🟩
-
-It is expected to rain in the Northern Province several times. The Senior Meteorological Officer of the Atmospheric Department, Dr. Mohamed Saliheen, said that there will be a slight rainfall in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.
-
-In some places in the Uva and the Eastern Provinces, there is a possibility of rainfall or thunderstorms in the evening or at night.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the effects of lightning impacts.
-
-Heavy rains are expected in some parts of the seas beyond the coast of Puttala to Colombo and Galle via Galle.
-
-There is a possibility of rain or thundershowers in many places beyond the coast of Mannar to Kankesanthurai.
-
-In the seas around the country, the wind is blowing from the southwest direction and the speed of the wind is expected to be up to 25-35 km per hour.
-
-...
-
-[Data](articles/86540769.json)
-
-[Extended Data](ext_articles/86540769.ext.json)
-
----
-
-### Two wild elephants killed
-
-*2024-10-18 08:20:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/ரயில்-மோதி-இரு-காட்டு-யானைகள்-பலி/73-345638) · `ta`
-
-Train collision kills two wild elephants near Minneriya-Hikurakoda railway stations. Four fuel tanks ruptured, causing injuries to more elephants and rail damage. Incident occurred at 3:30 AM.
-
-🟩
-
-Two elephants were killed when a train carrying a fueling train collided with a wild elephant crowd at around 3.30 am this morning.
-
-The accident took place in the area between Minneriya and Hikurakoda railway stations.
-
-It is reported that the four fuel tanks of the train have been disrupted.
-
-It has been reported that many more wild elephants have been severely injured in the accident and a massive damage to the rails when fuel oil tanks collapsed.. Remble
-
-◼️
-
-[Data](articles/e4359f26.json)
-
-[Extended Data](ext_articles/e4359f26.ext.json)
-
----
-
-### Order to submit privileges by writing
-
-*2024-10-18 08:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறப்புரிமைகளை-எழுத்து-மூலம்-சமர்ப்பிக்க-உத்தரவு/175-345637) · `ta`
-
-Committee formed by President Anura Kumara Dissanayake to review ministerial and parliamentary privileges. Report to be submitted to Cabinet for decision-making.
-
-🟩
-
-A three -member committee appointed by President Anura Kumara Dissanayake has announced to submit a written report on their needs and their needs to review the privileges of the ministers and parliamentarians of the former presidents.
-
-The committee was recently appointed by President Anura Kumara Dissanayake to examine the existing law and make recommendations on the existing laws on the privileges of the ministers and parliamentarians of the former presidents.
-
-Minister Vijitha Herath said that the report prepared by the committee will be submitted to the Cabinet and necessary decisions on the privileges will be taken.
-
-◼️
-
-[Data](articles/3a99c101.json)
-
-[Extended Data](ext_articles/3a99c101.ext.json)
 
 ---

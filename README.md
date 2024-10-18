@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 18:00:30**
+As of **2024-10-18 18:20:23**
 
 ## Newspaper Stats
 
-*Scraped **50,159** Articles*
+*Scraped **50,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,067
 dailyftlk | 3,420
 adalk | 4,660
 dailymirrorlk | 4,733
-adaderanalk | 5,942
-tamilmirrorlk | 6,865
+adaderanalk | 5,943
+tamilmirrorlk | 6,866
 virakesarilk | 8,028
 adaderanasinhalalk | 8,700
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 8,700
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,159 (100.0%) of 50,159 articles have been extended.
+50,161 (100.0%) of 50,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### To the attention of those who have a special need ...
+
+*2024-10-18 17:44:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையோரின்-கவனத்துக்கு/175-345656) · `ta`
+
+Elections Commission: Special needs voters can bring assistants aged 18+, not candidates' agents. Assistants need certificates at polling stations. Apply at District Election Offices, Divisional Secretariats, Grama Niladhari Offices before November 7th. Doctor's certificate required proving inability to use cattle or public transport.
+
+🟩
+
+The Elections Commission has paid special attention to the special need voters to vote in the upcoming general election.
+
+Accordingly, the Elections Commission said that the voters with special need can take an assistant to identify the ballot.
+
+Accordingly, the assistant who is taken to do so must be 18 years old.
+
+Also, he should not be the agent of the candidate or the agent of the polling station. In addition, he must submit the appropriate certificate at the polling station.
+
+Applications for obtaining these transport facilities can be obtained at the District Election Offices, Divisional Secretariats and Grama Niladhari Offices, www.election .Gov.lk.
+
+These applications should be handed over to the appropriate office or the District Election Office before the 7th of November.
+
+The application must be handed over to the doctor's certificate as he can prove that he cannot go to the polling station by using a cattle or public transport facilities.
+
+◼️
+
+[Data](articles/70cc9e8b.json)
+
+[Extended Data](ext_articles/70cc9e8b.ext.json)
+
+---
+
+### Notice on issuing vehicle revenue licenses
+
+*2024-10-18 17:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102784/notice-on-issuing-vehicle-revenue-licenses) · `en`
+
+Minister of Transport, Highways, Ports, and Civil Aviation, Vijitha Herath, has directed officials to ensure vehicle revenue licenses issued in the Western Province are seamlessly connected with other provinces.
+
+The Ministry of Highways, Ports, and Civil Aviation confirmed this in an official statement.
+
+The ministry highlighted that the lack of inter-provincial coordination has been a major obstacle for vehicle owners, particularly those from the Western Province. Despite previous announcements to address this issue, the Western Province—the region with the highest demand—has yet to fully implement the necessary changes.
+
+Vehicle owners in the Western Province who have vehicles registered in other provinces have long complained that obtaining revenue licenses is a cumbersome process, requiring significant time, effort, and money.
+
+...
+
+[Data](articles/577d5e36.json)
+
+[Extended Data](ext_articles/577d5e36.ext.json)
+
+---
 
 ### Notice of obtaining vehicle revenue license
 
@@ -2327,35 +2377,5 @@ Here's a 200-character summary:
 [Data](articles/3a35cc5a.json)
 
 [Extended Data](ext_articles/3a35cc5a.ext.json)
-
----
-
-### பத்து வருடங்களுக்கு முன்னர் ”தோழர்” அநுர குமார திசாநாயக்க ஜே.வி.பி.யின் ஐந்தாவது தலைவராக வந்தபோது…..!…..
-
-*2024-10-18 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84908) · `en`
-
-அநுர குமார திசாநாயக்க ; இலங்கை வானில் ‘ இடதுசாரி ‘ நட்சத்திரம் -3
-
-அது 1969 ஆம் ஆண்டு. 31 வயதான தாய் தனது ஆறு மாத ஆண் குழந்தையின் ஜாதகத்தை எழுதுவிப்பதற்காக பிரபலமான ஒரு சோதிடரின் சேவையை நாடினார். முன்னைய வருடத்தில் குழந்தை பிறந்த நேரத்தில் இருந்த கிரக நகர்வுகளின் அடிப்படையில் சில கணிப்பீடுகளைச் செய்த சோதிடர் தாயாரை பெரு வியப்புடன் பார்த்து ” உங்கள் மகனுக்கு அவனது விதியில் ஒரு இராஜயோகம் இருக்கிறது. அவன் ஆளப்பிறந்தவன். அவன் ஒரு நாள் இந்த நாட்டை ஆட்சி.செய்வான்” என்று கூறினார்.  தாயாருக்கு மகிழ்ச்சிதான் ஆனால் ஆச்சரியம். அவர் குறைந்த வருமானத்தைக் கொண்ட ஒரு விவசாயக் குடும்பத்தைச் சேர்ந்தவர். ‘ எவ்வாறு எனது மகன் ஆட்சியாளராவான்? அவருக்கு ஆச்சரியம்.
-
-...
-
-[Data](articles/82107b5a.json)
-
-[Extended Data](ext_articles/82107b5a.ext.json)
-
----
-
-### Sajith’s Opposition Leadership At Risk
-
-*2024-10-18 01:00:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sajiths-opposition-leadership-at-risk/) · `en`
-
-The fact that having secured the victory at the presidential election, the same political party will win following elections – General election, Provincial Council election and then Local Government election respectively, has been the political tradition in Sri Lanka, as its apex position is the executive presidency. Hence, anyone needs to make a political change, it has to start from the top – The Executive Presidency. Accordingly, 5.7 million voters have already made that change, waiting for the following elections. So, what’s next?
-
-...
-
-[Data](articles/dfb44139.json)
-
-[Extended Data](ext_articles/dfb44139.ext.json)
 
 ---

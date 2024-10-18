@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 16:12:52**
+As of **2024-10-18 16:24:52**
 
 ## Newspaper Stats
 
-*Scraped **50,150** Articles*
+*Scraped **50,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,067
 dailyftlk | 3,420
 adalk | 4,659
 dailymirrorlk | 4,733
-adaderanalk | 5,939
-tamilmirrorlk | 6,863
+adaderanalk | 5,941
+tamilmirrorlk | 6,864
 virakesarilk | 8,028
 adaderanasinhalalk | 8,697
 
@@ -26,15 +26,77 @@ adaderanasinhalalk | 8,697
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,148 (100.0%) of 50,150 articles have been extended.
+50,152 (100.0%) of 50,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
 
+### New board of directors appointed to Film Corporation and Foundation Institute
+
+*2024-10-18 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102782/new-board-of-directors-appointed-to-film-corporation-and-foundation-institute) · `en`
+
+Minister of Buddha Sasana, Religious and Cultural Affairs, National Integration, Social Security and Mass Media Vijitha Herath emphasized the need for the National Film Corporation to adapt to contemporary times, compete with private entities, and progress accordingly.
+
+He made these remarks during a meeting held today (18) at the Ministry of Mass Media Auditorium, appointing the Boards of Directors for the National Film Corporation and the Sri Lanka Foundation Institute.
+
+The minister revealed the previous concerns about favoritism in film releases in the past, and urged the new board of Directors to ensure fair practices in this regard.
+
+He also noted that representatives from all communities—Sinhalese, Tamils, and Muslims—were appointed back in 2004/2005, and Tamil cinema has yet to establish and develop itself as a viable industry in Sri Lanka in the future.
+
+...
+
+[Data](articles/1609d3ff.json)
+
+---
+
+### Defense Ministry petitioned over call to return licensed firearms
+
+*2024-10-18 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102781/defense-ministry-petitioned-over-call-to-return-licensed-firearms) · `en`
+
+The Ministry of Defense has been petitioned in the Court of Appeal, seeking to overturn a directive that requires individuals holding firearms for personal protection under licensed permits to return them.
+
+The petition was filed by H.D. Navinthaka de Silva, CEO of Avenra Hotel Group, who argues that the decision poses a significant risk to his safety.
+
+The Secretary of the Ministry of Defense, the Director of the State Intelligence Service, and the Acting Inspector General of Police have been named as respondents in the case.
+
+Filed through lawyer Sanath Wijayawardena, the petition claims that Mr. de Silva obtained licensed firearms from the Ministry of Defense around 2012 or 2013 due to serious personal threats.
+
+He further noted that his business, including his hotels, suffered considerable damage during recent political unrest, compounding his security concerns.
+
+...
+
+[Data](articles/9a01bbe3.json)
+
+[Extended Data](ext_articles/9a01bbe3.ext.json)
+
+---
+
+### இருவேறு நிர்வாகங்களில் மாற்றம்
+
+*2024-10-18 16:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவேறு-நிர்வாகங்களில்-மாற்றம்/175-345654) · `ta`
+
+Two leadership changes: W. P. Seneviratne as National Film Corporation head, S.M. Samaraweera as Lanka Foundation head, appointed by Minister Vijitha Herath.
+
+🟩
+
+தேசிய திரைப்படக் கூட்டுத்தாபனத்தின் புதிய தலைவராக டபிள்யூ.பிரின்ஸ் சேனாதீரவும், இலங்கை அறக்கட்டளையின் புதிய தலைவராக எஸ்.எம். சமன் சமரகோனும் ஊடகத்துறை அமைச்சர் விஜித ஹேரத்தால் நியமிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/c1a110cd.json)
+
+[Extended Data](ext_articles/c1a110cd.ext.json)
+
+---
+
 ### பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவுக்கு புதிய தலைவர் நியமனம்
 
 *2024-10-18 15:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மானியங்கள்-ஆணைக்குழுவுக்கு-புதிய-தலைவர்-நியமனம்/175-345653) · `ta`
+
+பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவின் புதிய தலைவராக சிரேஷ்ட பேராசிரியர் கபில செனவிரத்ன நியமிக்கப்பட்டுள்ளார்.
+
+🟩
 
 பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவின் புதிய தலைவராக சிரேஷ்ட பேராசிரியர் கபில செனவிரத்ன நியமிக்கப்பட்டுள்ளார்.
 
@@ -48,23 +110,31 @@ Extensions include translations and NER (Named Entity Recognition).
 
 [Data](articles/13ab3fa4.json)
 
+[Extended Data](ext_articles/13ab3fa4.ext.json)
+
 ---
 
 ### வேட்புமனுவை நிராகரித்த தீர்மானத்துக்கு எதிராக மனு
 
 *2024-10-18 15:44:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்புமனுவை-நிராகரித்த-தீர்மானத்துக்கு-எதிராக-மனு/175-345652) · `ta`
 
-நடைபெறவுள்ள நாடாளுமன்றத் தேர்தலுக்காக வன்னி மாவட்ட ஜனநாயக தேசிய கூட்டமைப்பு முன்வைத்த வேட்புமனுவை நிராகரிப்பதற்கு மாவட்டத் தேர்தல் அதிகாரி எடுத்த தீர்மானத்தை இரத்து செய்யக் கோரி உயர் நீதிமன்றத்தில் மனு தாக்கல் செய்யப்பட்டுள்ளது.
+Supreme Court petition challenges rejection of election nomination in Vanni district. Petitioners claim rejection violates law despite proper documentation submission.
+
+🟩
+
+A petition has been filed in the Supreme Court demanding the cancellation of the decision taken by the District Election Officer to reject the Vanni district Democratic National Alliance for the upcoming parliamentary elections.
 
 இங்கு பிரதிவாதிகளாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர், உறுப்பினர்கள், வன்னி மாவட்ட தேர்தல் அதிகாரி மற்றும் பலர் குறிப்பிடப்பட்டுள்ளனர்.
 
-பொதுத் தேர்தலில் போட்டியிடுவதற்காக வன்னி மாவட்ட தேர்தல் அதிகாரியிடம் வேட்புமனு தாக்கல் செய்துள்ளதாக மனுதாரர்கள் தெரிவித்துள்ளனர். அப்போது முறைப்படி வேட்பு மனு தாக்கல் செய்யப்படவில்லை எனக் கூறி அதனை ஏற்க மறுத்ததாகவும் மனுவில் குறிப்பிடப்பட்டுள்ளது.
+பொதுத் தேர்தலில் போட்டியிடுவதற்காக வன்னி மாவட்ட தேர்தல் அதிகாரியிடம் வேட்புமனு தாக்கல் செய்துள்ளதாக மனுதாரர்கள் தெரிவித்துள்ளனர். The petition also refused to accept the nomination papers.
 
 அனைத்து ஆவணங்களையும் முறையாக சமர்ப்பித்த பிறகு, வேட்புமனுவை நிராகரிப்பது சட்டத்துக்கு எதிரானது என்பதால், மனுதாரர்கள் இந்த முடிவை இரத்து செய்யுமாறு கோருகின்றனர்.
 
 ◼️
 
 [Data](articles/8306fbe1.json)
+
+[Extended Data](ext_articles/8306fbe1.ext.json)
 
 ---
 
@@ -2305,91 +2375,5 @@ Annch Bash, who won the match in the match, did not lose 48 balls with 8 fours a
 [Data](articles/d83d453f.json)
 
 [Extended Data](ext_articles/d83d453f.ext.json)
-
----
-
-### South Africa to fight World Cup final
-
-*2024-10-17 23:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202286) · `si`
-
-South Africa advances to World Cup final after defeating Australia in women's cricket. This is South Africa's second T20 Women's World Cup final appearance.
-
-🟩
-
-South African female women defeated by 8 wickets taken by the South African women's cricket team today (17).
-
-The first semi-final was held in Dubai as the first semi-final was held in Dubai.
-
-Batting first, Australia scored 134 runs for the loss of 5 wickets in the 20 overs.
-
-In reply, South Africa was able to pass the victorious target when only 2 wickets were bowled out for 17.2 overs.
-
-This is the first time that the South Africa defeated in the World Twenty20 Women's World Cup, Australia.
-
-South Africa and Australia are competing with one another since 2009, while today's competition was held with each other.
-
-When Australia won the 9 matches, South Africa won only one match.
-
-According to Australia, Australia is considered to be treated out of the women's World Cup this year as the first Twenty20 Women's World Cup.
-
-Australia won the world championship while in the history of Twenty20 Women Cup history.
-
-...
-
-[Data](articles/622975a3.json)
-
-[Extended Data](ext_articles/622975a3.ext.json)
-
----
-
-### Pain. President attention on northern lands- Ramalingam Chandrasekhar
-
-*2024-10-17 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196538) · `ta`
-
-President focuses on releasing land in northern areas. Public meeting discusses military-owned land and resettlement. Ramalingam Chandrasekhar pledges to release land used by military in Northern Territory.
-
-🟩
-
-National People's Power Jaffna District Organizer Ramalingam Chandrasekhar says the President has already focused on the release of land in Vala North.
-
-A public meeting was held in Valikamam, Jaffna on Thursday (17) by public organizations.
-
-The meeting was discussed on the release of military -owned land and resettlement. During the time, many people had expressed their mental support and pains on the land and the resettlement of the National People's Power, Ramalingam Chandrasekhar.
-
-Chandrasekhar said that the President has already focused on the release of land in the North.. He had discussed with the relevant authorities and asked for details.
-
-So he pledged to the assembled public organizations and people that the land in the use of the military in the Northern Territory would be released.
-
-◼️
-
-[Data](articles/5d6b0619.json)
-
-[Extended Data](ext_articles/5d6b0619.ext.json)
-
----
-
-### Ranil Wickremesinghe faces the challenge to increase state income by fifteen percent to repay the loan in 2027
-
-*2024-10-17 22:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/196536) · `ta`
-
-Ranil Wickremesinghe challenges new government to increase state income by 15% to repay loans by 2027. Economic growth needed annually to meet goal. Experienced team essential for next parliament to address economic crisis. Current debt repayment strategies successful but new parliament must implement stability agreement. Corruption prevention measures also crucial. Experienced politicians necessary to achieve economic targets and prevent country collapse.
-
-🟩
-
-The new government will face the challenge to increase state revenue in GDP by 2027, which will start repaying its foreign debt by fifteen percent.
-
-To reach that goal every year must reach a percent economic growth. So the experienced team that does not take over responsibilities must be elected to the next parliament.
-
-In the face of economic crisis. Former President and UNP leader Ranil Wickremesinghe said the committee should win if the financial strength is strong.
-
-He said this in a special speech on Wednesday (16) on the country's current economy and political situation.
-
-When I declared that the country was unable to repay the debt, I took charge of the country as president. On that occasion, my main target was to restore the country from bankruptcy. For this purpose, the International Monetary Fund, the International Monetary Fund, has been in agreement with 18 countries and private bailouts.
-
-...
-
-[Data](articles/e625c170.json)
-
-[Extended Data](ext_articles/e625c170.ext.json)
 
 ---

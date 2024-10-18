@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 01:39:18**
+As of **2024-10-19 01:58:15**
 
 ## Newspaper Stats
 
-*Scraped **50,204** Articles*
+*Scraped **50,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 501
 bbccomsinhala | 504
 islandlk | 2,977
 economynextcom | 3,076
-dailyftlk | 3,423
+dailyftlk | 3,432
 adalk | 4,661
 dailymirrorlk | 4,733
 adaderanalk | 5,945
@@ -26,9 +26,169 @@ adaderanasinhalalk | 8,707
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,204 (100.0%) of 50,204 articles have been extended.
+50,213 (100.0%) of 50,213 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-19 (Saturday)
+
+### NMSJ criticises lack of consultation on dismantling National People’s Council
+
+*2024-10-19 01:36:40* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-criticises-lack-of-consultation-on-dismantling-National-People-s-Council/56-768176) · `en`
+
+Says Govt. should have consulted civil society groups before abolishing the NPC, it would have shown respect
+
+Highlights work carried out by NMSJ to bring about NPC and says it is merely an attempt to highlight importance and not challenge Govt.’s decision
+
+Claims if Govt. wishes to pursue any shared goals that serve the public interest it is ready to provide its full support
+
+The National Movement for Social Justice (NMSJ) led by former Speaker Karu Jayasuriya has said the Government should have consulted the organisation before abolishing the National People’s Council proposed by it which was intended to function as a participatory democratic model promoting active public involvement. Following the election of President Anura Kumara Dissanayake, a decision was also taken by the Cabinet to dismantle the National People’s Council Secretariat set up to implement the concept which had been allocated Rs. 700 million through the last Budget.
+
+...
+
+[Data](articles/f4197138.json)
+
+[Extended Data](ext_articles/f4197138.ext.json)
+
+---
+
+### Catholic Church warns Gammanpila against politicising Easter tragedy
+
+*2024-10-19 01:36:29* · [`dailyftlk`](https://www.ft.lk/news/Catholic-Church-warns-Gammanpila-against-politicising-Easter-tragedy/56-768175) · `en`
+
+Rev. Father Cyril Gamini Fernando has stressed ongoing CID investigations must continue without interference
+
+Says Church has no interest in reports that former MP Gammanpila plans to make public
+
+Calls on former MP to refrain from disrupting or interfering with investigation process
+
+Archdiocese of Colombo Spokesperson Rev. Father Cyril Gamini Fernando has demanded former Member of Parliament Udaya Gammanpila to refrain from exploiting the 2019 Easter Sunday tragedy for political gain.
+
+Speaking to the media yesterday regarding the MP’s threats to publicise two committee reports on the Easter tragedy, Father Cyril Gamini Fernando stressed that the ongoing investigations by the Criminal Investigation Department (CID) must continue without interference. He urged the MP to refrain from disrupting or interfering with the investigation process.
+
+...
+
+[Data](articles/e8ad05fe.json)
+
+[Extended Data](ext_articles/e8ad05fe.ext.json)
+
+---
+
+### Commemorating Vap Full Moon Poya Day, India’s Rich Buddhist Heritage Exhibition reaches Uva Province
+
+*2024-10-19 01:36:17* · [`dailyftlk`](https://www.ft.lk/news/Commemorating-Vap-Full-Moon-Poya-Day-India-s-Rich-Buddhist-Heritage-Exhibition-reaches-Uva-Province/56-768174) · `en`
+
+The ninth edition of the India’s Rich Buddhist Heritage Exhibition, organised by the High Commission of India in Colombo was held at Dematamal Viharaya in Okkampitiya on the occasion of Vap Full Moon Poya Day.
+
+The exhibition was inaugurated by Ven. Galtemwatte Pugnananda Theroand the Indian Consul General of Hambantota Harvinder Singh.
+
+The exhibition showcased India’s Rich Buddhist heritage through a series of photographs depicting significant episodes from the life of the Buddha and important Buddhist pilgrimage sites in India.
+
+The India’s Rich Buddhist Heritage Exhibition series, initiated by the High Commission, has been held at various significant Buddhist places of worship across the country during each Poya day.
+
+It began at the Kalutara Bodhi premises on Navam Poya day and has since travelled to several temples, including:
+
+...
+
+[Data](articles/1bbcf321.json)
+
+[Extended Data](ext_articles/1bbcf321.ext.json)
+
+---
+
+### DNA asks SC to halt Vanni elections over nomination rejection
+
+*2024-10-19 01:34:30* · [`dailyftlk`](https://www.ft.lk/news/DNA-asks-SC-to-halt-Vanni-elections-over-nomination-rejection/56-768173) · `en`
+
+Party is also seeking writ overturning district returning officer’s decision to reject DNA’s nomination papers
+
+Argues rejection is illegal as DNA had duly submitted all requisite documentation
+
+The Democratic National Alliance (DNA) led by Pararajasingham Udayarasa has filed a petition before the Supreme Court challenging the rejection of the party’s nomination papers for the upcoming General Election in the Vanni electoral district.
+
+The petition was submitted following the District Returning Officer’s decision to reject DNA’s nomination papers.
+
+Pararajasingham Udayarasa, the authorised officer of the DNA along with two others, filed the petition, naming the Commissioner General of the Election Commission of Sri Lanka, its members, the Vanni District Returning Officer, and several others as respondents.
+
+...
+
+[Data](articles/f95f767e.json)
+
+[Extended Data](ext_articles/f95f767e.ext.json)
+
+---
+
+### Senior Professor Kapila Seneviratne appointed as new Chairman of UGC
+
+*2024-10-19 01:34:19* · [`dailyftlk`](https://www.ft.lk/news/Senior-Professor-Kapila-Seneviratne-appointed-as-new-Chairman-of-UGC/56-768172) · `en`
+
+Senior Professor Kapila Seneviratne has been appointed as the new Chairman of the University Grants Commission (UGC) by President Anura Kumara Dissanayake.
+
+The official letter of appointment was handed over to him yesterday at the Presidential Secretariat by Secretary to the President Dr. Nandika Sanath Kumanayake.
+
+Additionally, Senior Professor K.L. Wasantha Kumara has been appointed as the new Vice Chairman of the UGC.
+
+Other members appointed to the Commission include Senior Professors Rahula Athalage, O.G. Dayaratne, Subramaniam Raviraj, and President’s Counsel C.K.W. Unamboowa.
+
+◼️
+
+[Data](articles/18ecd234.json)
+
+[Extended Data](ext_articles/18ecd234.ext.json)
+
+---
+
+### New Board of Directors appointed to National Film Corporation and Sri Lanka Foundation Institute
+
+*2024-10-19 01:33:41* · [`dailyftlk`](https://www.ft.lk/news/New-Board-of-Directors-appointed-to-National-Film-Corporation-and-Sri-Lanka-Foundation-Institute/56-768171) · `en`
+
+Buddha Sasana, Religious and Cultural Affairs, National Integration, Social Security and Mass Media Minister Vijitha Herath emphasised the need for the National Film Corporation (NFC) to adapt to contemporary times, compete with private entities, and progress accordingly.
+
+He made these remarks during a meeting held yesterday at the Ministry of Mass Media Auditorium, appointing the Boards of Directors for the National Film Corporation and the Sri Lanka Foundation Institute.
+
+The minister revealed the previous concerns about favouritism in film releases in the past, and urged the new board of Directors to ensure fair practices in this regard.
+
+He also noted that representatives from all communities — Sinhalese, Tamils, and Muslims — were appointed back in 2004/2005, and Tamil cinema has yet to establish and develop itself as a viable industry in Sri Lanka in the future.
+
+...
+
+[Data](articles/c24c365e.json)
+
+[Extended Data](ext_articles/c24c365e.ext.json)
+
+---
+
+### CMA Sri Lanka and Rajarata University of Sri Lanka sign MoU to equip undergraduates with professional skills for future-ready management accountants
+
+*2024-10-19 01:16:17* · [`dailyftlk`](https://www.ft.lk/business/CMA-Sri-Lanka-and-Rajarata-University-of-Sri-Lanka-sign-MoU-to-equip-undergraduates-with-professional-skills-for-future-ready-management-accountants/34-768169) · `en`
+
+University of Rajarata Vice Chancellor Prof. GAS Ginigaddara (centre) with Faculty of Management Studies Dean Prof. P.M.B. Jayathilake, Head – Department of Accountancy and Finance Dr. R.M.N.C. Swarnapali, Head – Department of Business Management Dr. W.M.R.B. Weerasooriya, Head – Department of Human Resource Management K.A.K.S. Rathnakara, Department of Accountancy and Finance Senior Lecturer Dr. A.L.M. Jameel, Department of Accountancy and Finance Senior Lecturer Dr. C.T.  Gamage, Department of Accountancy and Finance Senior Lecturer Dr. J.S. Kumari, Department of Accountancy and Finance Senior Lecturer D.D.K. Sugathadasa, Department of Accountancy and Finance Coordinator, Faculty Industry Interaction Cell, Lecturer V.G.N. Sameera, Department of Accountancy and Finance Lecturer G.M.H.P.K. Rathwatta, Department of Accountancy and Finance Lecturer J.M.N. Wijekumara, and Department of Accountancy and Finance Assistant Lecturer A.H. Kelumdeniya
+
+...
+
+[Data](articles/077dcbd3.json)
+
+[Extended Data](ext_articles/077dcbd3.ext.json)
+
+---
+
+### Adaaran Resorts triumphs with multiple awards at FHAM 2024
+
+*2024-10-19 01:14:44* · [`dailyftlk`](https://www.ft.lk/business/Adaaran-Resorts-triumphs-with-multiple-awards-at-FHAM-2024/34-768168) · `en`
+
+Aitken Spence Hotels’ Adaaran Select Hudhuranfushi, Adaaran Prestige Vadoo, and Adaaran Select Meedhupparu achieved remarkable recognition at the Food and Hospitality Asia Maldives Global Culinary Challenge and Exhibition 2024 (FHAM).
+
+Each resort showcased its culinary excellence, securing a multitude of prestigious awards.
+
+Adaaran Select Hudhuran Fushi, a 24-hour Premium All-inclusive resort, garnered 11 awards, including four Gold Awards. Adaaran Prestige Vadoo, an exclusive adults-only haven, claimed a total of nine accolades, including four Gold Awards and a special award. Adaaran Select Meedhupparu, also a 24-hour Premium All-Inclusive resort nestled within a lush mature island, celebrated six noteworthy awards.
+
+...
+
+[Data](articles/bffb1ac3.json)
+
+[Extended Data](ext_articles/bffb1ac3.ext.json)
+
+---
 
 ### 2024-10-18 (Friday)
 
@@ -63,6 +223,24 @@ Pakistan’s hosting of this event comes at a time when the country is striving 
 [Data](articles/394179f5.json)
 
 [Extended Data](ext_articles/394179f5.ext.json)
+
+---
+
+### Towards a climate-smart tourism sector: Building resilience through financial instruments
+
+*2024-10-18 23:33:25* · [`dailyftlk`](https://www.ft.lk/columns/Towards-a-climate-smart-tourism-sector-Building-resilience-through-financial-instruments/4-768154) · `en`
+
+Sri Lanka’s tourism sector holds great economic and social importance, but it is vulnerable to the impacts of climate change
+
+The tourism sector is an important pillar of Sri Lanka’s economy, providing income and employment for more than 400,000 people directly and indirectly across areas such as hospitality, transportation, and retail. However, like many other sectors, it is facing serious challenges and risks connected to climate change, necessitating a transformation towards sustainability and resilience.
+
+Innovative financial instruments and risk transfer solutions could play an important part in enhancing the sector’s capacity to withstand climate-related shocks, recover from losses and damages, and adapt to long-term climatic changes. If Sri Lanka can pioneer new business models and creative risk management tools, it could help communities, entrepreneurs, tourism companies, and other stakeholders to turn the country into a more vibrant, resilient, and prosperous destination.
+
+...
+
+[Data](articles/adeabff9.json)
+
+[Extended Data](ext_articles/adeabff9.ext.json)
 
 ---
 
@@ -2275,223 +2453,5 @@ The suspect has been handed over to the Moragoda Police for further investigatio
 [Data](articles/35fcfd79.json)
 
 [Extended Data](ext_articles/35fcfd79.ext.json)
-
----
-
-### Reversion to vote for Elpitiya Public Employees
-
-*2024-10-18 09:17:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டிய-அரச-ஊழியர்களுக்கு-வாக்களிக்க-மறுவாய்ப்பு/175-345644) · `ta`
-
-Elpitiya public employees can vote today due to reversion. Postal voting available at district office. Over 90% of postal votes cast in local government election.
-
-🟩
-
-Galle District Elections Commissioner WHR will be able to vote today (18).. Vijayakumara said.
-
-Vijayakumara said that the public servants who were unable to vote on the 14th of this month could be able to vote in the postal voting today.
-
-Accordingly, the Public Works Department can register postal voting at the district office.
-
-Meanwhile, more than 90%of the postal votes were cast in the Elpitiya Local Government election, election observers say.
-
-◼️
-
-[Data](articles/aebe1d80.json)
-
-[Extended Data](ext_articles/aebe1d80.ext.json)
-
----
-
-### Two suspects arrested for murder Madampitiye
-
-*2024-10-18 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202297) · `si`
-
-Two suspects arrested for murder in Colombo. Victim shot in three-wheeler. Suspects from Colombo 10 and 15. Police investigating motive.
-
-🟩
-
-Two suspects have been arrested on the murder of a shot of the Grandpamed Civilatra in the Grandpamed Council.
-
-The shooting had been carried out by an unidentified person who was in a three-wheeler.
-
-The suspects are residents of Colombo 10 and Colombo 15 years old.
-
-The other two persons were in a three-wheeler with the deceased when the suspects were caused by the shooting.
-
-It has been revealed that they had been taken from the three-wheeler where the victim had been shot dead.
-
-The police said that the investigation was revealed that the victim was avoiding the murder with the shooting suspects.
-
-◼️
-
-[Data](articles/09706919.json)
-
-[Extended Data](ext_articles/09706919.ext.json)
-
----
-
-### Banning from carrying pigs from today
-
-*2024-10-18 09:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-பன்றிகளை-கொண்டு-செல்ல-தடை/175-345643) · `ta`
-
-Pig ban due to viral outbreak. Vaccination efforts underway. Meat from infected pigs not recommended.
-
-🟩
-
-Hemali Kotalawala, Director of the Department of Livestock Production and Health, said that the move was due to a variety of virus transmitteds spreading to pigs.
-
-He said the virus is spreading in many provinces, including the West and Northwest.
-
-Moreover, “Vaccination work has been started to control the spread of the virus. Eating the meat of pigs who died of the disease is not recognized, ”said Hemali Kotelawala.(An)
-
-◼️
-
-[Data](articles/3b16e45d.json)
-
-[Extended Data](ext_articles/3b16e45d.ext.json)
-
----
-
-### Government revenues rise in large
-
-*2024-10-18 09:08:52* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-ආදායම-විශාල-ප්‍රමාණයකින්-ඉහළට/11-412552) · `si`
-
-State revenue rose from 1819 billion to 4024 billion in 8 months, tax revenue increased to 2348 billion, non-tax revenue reached 209 billion. Overall growth of 25.5% to 40.5%.
-
-🟩
-
-In the first eight months of 2023, state revenue increased by 4024 billion to Rs 25.5% to 40.5% to Rs. 2557 billion.The value was 1819 billion rupees during the corresponding period.
-
-It is a significant factor that tax revenues and non-tax revenues increased by increased income in 2024. Government tax revenues were Rs. 2348 billion and non-tax revenues were Rs. 209 billion.
-
-◼️
-
-[Data](articles/bddfadc4.json)
-
-[Extended Data](ext_articles/bddfadc4.ext.json)
-
----
-
-### Shortage of rice in the market?
-
-*2024-10-18 09:03:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்தையில்-நாட்டு-அரிசிக்கு-தட்டுப்பாடு/175-345642) · `ta`
-
-Rice shortage due to paddy scarcity. Retail prices exceed 230 rupees. Government sets maximum retail price. Steps to purchase rice directly from mills and distribute through Sathosa. Situation expected to improve soon.
-
-🟩
-
-The Maradhagahamula Rice Manufacturers Association said the situation was caused by paddy shortage.
-
-Ranjith, president of the association, said that the retail market is currently being sold for more than 230 rupees of rice.
-
-In this case, the country's secretary said that the country can sell rice at a maximum retail price for Rs.
-
-The secretary said that the paddy yields at the last season and this season were at the right level.
-
-He also said that the current situation will be resolved with the owners of the rice mill.
-
-At the same time, the secretary said that steps will be taken to buy rice directly to the country through Sathosa and turn it into the market rice.. (That)
-
-◼️
-
-[Data](articles/35461805.json)
-
-[Extended Data](ext_articles/35461805.ext.json)
-
----
-
-### Can reduce electricity bill by 45 percent
-
-*2024-10-18 08:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணத்தை-45-சதவீதம்-குறைக்க-முடியும்/175-345641) · `ta`
-
-Reduce electricity bills by 45%: CEB accused of delayed tariff changes. Net profit over 155 billion, union demands action from President.
-
-🟩
-
-United Federation Trade Union Organization Summoner Ananda Palitha has accused the Ceylon Electricity Board (CEB) that the electricity tariff amendment has not been implemented on October 1.
-
-Ananda Palitha also pointed out that the Electricity Board has not sent the Public Applications Commission to the Electricity charges that have to be revised.
-
-Currently the net profit of the Electricity Board exceeds 155 billion and why are you waiting. The President should take immediate action.
-
-Can reduce the electricity bill at least 45 percent. We are telling the people to give that advantage. Remble
-
-◼️
-
-[Data](articles/e7306a56.json)
-
-[Extended Data](ext_articles/e7306a56.ext.json)
-
----
-
-### Kenya’s deputy president sacked while in hospital
-
-*2024-10-18 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102771/kenyas-deputy-president-sacked-while-in-hospital) · `en`
-
-Kenyan senators have voted to remove Deputy President Rigathi Gachagua from office despite his failure to testify at his impeachment trial after his lawyer said he had been taken to hospital.
-
-In one of the most dramatic days in Kenya’s recent political history, Gachagua had been due to appear in the Senate after lunch to defend himself, a day after he had pleaded not guilty to 11 charges.
-
-However, Gachagua, popularly known as Riggy G, did not show up and his lawyer requested a postponement saying his client was suffering from chest pains and was being treated by doctors at The Karen Hospital.
-
-Senators chose to continue the trial without him, prompting the defence team to leave the chamber.
-
-The senators’ refusal to delay proceedings until Saturday - as long as would have been legally allowed - shows how determined they were to get rid of Gachagua, several months after he fell out with President William Ruto.
-
-...
-
-[Data](articles/b673e91a.json)
-
-[Extended Data](ext_articles/b673e91a.ext.json)
-
----
-
-### Workplace to look at the plenty of state fees
-
-*2024-10-18 08:52:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-குடியிருப்பு-கட்டண-மிகுதிகளை-கவனிக்குமாறு-பணிப்புரை/175-345640) · `ta`
-
-State fees for former ministers' residences: 14 handed over, electricity/water mandatory. Legal action for non-payment.
-
-🟩
-
-The Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government said that former ministers have been reminded of their government settlements.
-
-A senior official of the ministry said that only 14 official residences have been handed over.
-
-In addition, the ministry said that when handing over apartments, it is mandatory to pay electricity and water.
-
-The Ministry of Public Administration has stated that the relevant authorities have been issued a directive to acquire state settlements only after all the fees have been paid.
-
-Legal action will be taken against former ministers who continue to avoid the announcement of the Ministry. (That)
-
-◼️
-
-[Data](articles/a50311e7.json)
-
-[Extended Data](ext_articles/a50311e7.ext.json)
-
----
-
-### It is raining several times in the Northern Province
-
-*2024-10-18 08:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாணத்தில்-பல-தடவைகள்-மழை-பெய்யும்/175-345639) · `ta`
-
-Raining in Northern Province. Heavy rain forecasted in Western, Sabaragamuwa, North Western provinces. Thunderstorms possible in Uva, Eastern provinces. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-The Department of Meteorology has predicted that rainfall is expected in the Northern Province several times.
-
-Rainfall is expected in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara, Kandy and Nuwara Eliya districts, the Department of Meteorology said.
-
-In some places in the Uva and the Eastern Provinces, there may be rain or thunderstorms in the evening or night.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce the risk of temporary heavy winds and lightning with thunderstorms. Remble
-
-◼️
-
-[Data](articles/0bda9e38.json)
-
-[Extended Data](ext_articles/0bda9e38.ext.json)
 
 ---

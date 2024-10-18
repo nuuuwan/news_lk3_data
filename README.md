@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 19:39:15**
+As of **2024-10-18 19:57:50**
 
 ## Newspaper Stats
 
-*Scraped **50,175** Articles*
+*Scraped **50,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ economynextcom | 3,067
 dailyftlk | 3,420
 adalk | 4,660
 dailymirrorlk | 4,733
-adaderanalk | 5,943
+adaderanalk | 5,944
 tamilmirrorlk | 6,867
-virakesarilk | 8,039
-adaderanasinhalalk | 8,700
+virakesarilk | 8,040
+adaderanasinhalalk | 8,701
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,174 (100.0%) of 50,175 articles have been extended.
+50,177 (100.0%) of 50,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Pakistan who launched the UK;Test series balanced as 1 - 1
+
+*2024-10-18 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/196612) · `ta`
+
+Pakistan vs England test series tied 1-1 after Pakistan wins 2nd match by 152 runs. Noman Ali takes 8/46 in England's 2nd innings, Sajid Khan 9/204 overall. England needs 261 more runs to win on final day.
+
+🟩
+
+Pakistan won by 152 runs today, the fourth day of the 2nd Test match between England and Pakistan at Multan Cricket Stadium.
+
+Pakistan, who retaliated by an innings and 47 runs in last week's first Test cricket match at the same playground, retaliated by the second match for England, equalizes the 3 -match series 1 - 1.
+
+In England's second innings, Noman Ali took 8 wickets for 46 runs and gave Pakistan's victory.
+
+This is the best bowling of Noman Ali in a Test cricket innings.
+
+Noman Ali took 3 wickets for 101 runs in the first innings and took 11 wickets for 147 runs in the entire match. He scored 32 runs in the first innings.
+
+Sajid Khan took 7 wickets for 111 runs in the first innings of the match and took 2 wickets for 93 runs in the second innings. He scored 22 runs in the 2nd innings.
+
+Sajid Khan was awarded the Man of the Match award, though Noman Ali's energy manifestations were excellent.
+
+...
+
+[Data](articles/36945e3d.json)
+
+[Extended Data](ext_articles/36945e3d.ext.json)
+
+---
+
+### Netanyahu promises more war, dashing peace hopes after Hamas leader killed
+
+*2024-10-18 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102785/netanyahu-promises-more-war-dashing-peace-hopes-after-hamas-leader-killed) · `en`
+
+Prime Minister Benjamin Netanyahu’s promises to press on with Israel’s wars in Gaza and Lebanon dashed hopes on Friday that the killing of Hamas leader Yahya Sinwar might help end more than a year of escalating conflict in the Middle East.
+
+Lebanese militant group Hezbollah meanwhile vowed to escalate fighting against Israel and its backer Iran said “the spirit of resistance” would be strengthened by the death of its Palestinian ally Sinwar in Gaza.
+
+Sinwar, a mastermind of the Oct. 7, 2023, attack that triggered the Gaza war, was killed during an operation by Israeli soldiers in the Palestinian enclave on Wednesday, a pivotal event in the year-long conflict.
+
+Netanyahu called Sinwar’s killing a milestone late on Thursday but vowed to keep up the war, which in recent weeks expanded from fighting against Palestinian group Hamas in Gaza into an invasion of southern Lebanon and the bombardment of large swathes of the country.
+
+...
+
+[Data](articles/7e4303b5.json)
+
+[Extended Data](ext_articles/7e4303b5.ext.json)
+
+---
+
+### Notice on the train compartment of the crash
+
+*2024-10-18 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202319) · `si`
+
+Train carrying fuel crashes in Sri Lanka, killing 2 elephants and damaging railway line. Four fuel tanks derailed, causing leaks. Investigation ongoing.
+
+🟩
+
+The Railway Department says that the train transporting fuel traders will be completed tomorrow (19).
+
+The Department of Railway lines will be canceled today (18) at the date of Batticaloa and Colombo Fort today (18).
+
+From the Kolonnawa Oil Storage Terminal, a train transporting a fuel storage terminal in Batticaloa and a train transporting a fuel train.
+
+The accident had occurred at Rothalawewa area between Minneriya and Hingurakgoda.
+
+As a result, four fuel tanks derailed and two of them were rolled.
+
+Deputy General Manager of Railways (Transportation) participating in the visit to the site. J. Venerable Mr. Neguma said the rail will commence after the fuel removal.
+
+A train transporting a fuel train was killed and two elephant killed in the early herd, a herd of elephants, which clash near the Rottery Junction.
+
+Two tanks with petrol rose were mocked as a result of heavy damage to the railway line.
+
+...
+
+[Data](articles/5443489f.json)
+
+[Extended Data](ext_articles/5443489f.ext.json)
+
+---
 
 ### Put on the poster against the judge
 
@@ -2423,69 +2505,5 @@ Sri Lanka’s debt crisis has been the most critical issue affecting its economy
 [Data](articles/16f7027d.json)
 
 [Extended Data](ext_articles/16f7027d.ext.json)
-
----
-
-### Financial fraud through social media and online scams: Growing threat in Sri Lanka and globally
-
-*2024-10-18 05:58:31* · [`dailyftlk`](https://www.ft.lk/columns/Financial-fraud-through-social-media-and-online-scams-Growing-threat-in-Sri-Lanka-and-globally/4-768107) · `en`
-
-As financial services become increasingly digital, so do the methods employed by cyber criminals and fraudsters. In both global and Sri Lankan context, social media platforms and online channels have become breeding grounds for financial scams. These schemes exploit the public’s lack of awareness and in some cases, desperation during economic hardships. While the exact scale is difficult to gauge, the prevalence of such incidents in media paints a concerning picture. This has raised the need for financial institutions to step up their security measures and educate the public.
-
-This article explores recent fraud incidents, the importance of user education, and how financial organisations can protect their customers while ensuring convenience and minimising service disruption.
-
-Globally, cybercriminals are exploiting the popularity of social media to launch sophisticated scams.
-
-...
-
-[Data](articles/32a0685c.json)
-
-[Extended Data](ext_articles/32a0685c.ext.json)
-
----
-
-### Is Sri Lanka latest center in cyber crimes?
-
-*2024-10-18 04:43:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c77x0e31vm6o) · `si`
-
-Sri Lanka becoming hub for cybercrime due to rising fraud cases and arrests of foreign nationals. Police report 232 internet fraud complaints in September alone. Banks warn customers about phishing scams and unauthorized account access. Public awareness campaigns launched to combat online fraud targeting local banks and financial institutions.
-
-🟩
-
-"Click on this link to instantly to get a loan of Rs 50,000
-
-With the temptation of the people to use the public to use online banking services, the report on the frauds is increasing day.
-
-It is reported that the people who are aware of these frauds and the frauds that come from foreign countries will be increased by day.
-
-In the last few weeks, the arrest of foreign investigations, including the CID, including the CID including the CID in the last few weeks.
-
-From July this year, it was a rapid increase in the arrest of foreign nationals on suspicion of financial framework.
-
-Police were arrested by the police while he was organized by foreigners in Puttalam and Kandy and lodge areas.
-
-According to police spokesman DIG Nihal Thalvan, he said that more than 300 people from various countries including the Chinese, he had been arrested by the police.
-
-He also said that the CID has implemented further investigations into the suspects.
-
-...
-
-[Data](articles/b70a280b.json)
-
-[Extended Data](ext_articles/b70a280b.ext.json)
-
----
-
-### Brazen abduction and brutal murder of journalist “Taraki” Sivaram
-
-*2024-10-18 04:24:54* · [`dailyftlk`](https://www.ft.lk/columns/Brazen-abduction-and-brutal-murder-of-journalist-Taraki-Sivaram/4-768101) · `en`
-
-President Anura Kumara Dissanayake frequently emphasised during his election campaign that he would re-open investigations into incidents of colossal fraud, mass murder and assassinations where the course of justice was allegedly obstructed or thwarted by those in power in the past. Recent happenings indicate that President Dissanayake and his Government are serious about their campaign promises and are initiating follow up action in this regard. With parliamentary polls due next month, electoral prospects for the ruling National People’s Power (NPP) Government would be brighter if it can demonstrate, that it is taking stern action to ensure justice will be done in these matters.
-
-...
-
-[Data](articles/d945149c.json)
-
-[Extended Data](ext_articles/d945149c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 09:39:57**
+As of **2024-10-18 09:58:53**
 
 ## Newspaper Stats
 
-*Scraped **50,107** Articles*
+*Scraped **50,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ bbccomsinhala | 502
 islandlk | 2,974
 economynextcom | 3,066
 dailyftlk | 3,420
-adalk | 4,656
+adalk | 4,657
 dailymirrorlk | 4,733
 adaderanalk | 5,931
-tamilmirrorlk | 6,855
-virakesarilk | 8,022
-adaderanasinhalalk | 8,681
+tamilmirrorlk | 6,856
+virakesarilk | 8,023
+adaderanasinhalalk | 8,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,103 (100.0%) of 50,107 articles have been extended.
+50,110 (100.0%) of 50,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### To the attention of the public ...
+
+*2024-10-18 09:32:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களின்-கவனத்துக்கு/175-345645) · `ta`
+
+CERT warns public about fake subsidy scams. Senior engineer advises against sharing suspicious links.
+
+🟩
+
+The Certificate Emergency Committee (CERT) has warned that the government is providing financial subsidies, and that the public will be aware of it.
+
+Commenting on this, CERT's senior engineer Saruka Taunubola said, “There have been many complaints from the public about receiving fake news promising to provide a subsidy of Rs 50,000.
+
+Avoid clicking on any links in these messages and sharing these links with others, ”he advised the public.
+
+◼️
+
+[Data](articles/7740eb77.json)
+
+[Extended Data](ext_articles/7740eb77.ext.json)
+
+---
+
+### Tamilnadu Party Elections Office in Mannar
+
+*2024-10-18 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196545) · `ta`
+
+Tamilnadu Party Elections Office Mannar: TNA candidate Selvaraj Dinesan opens office. Youth meeting held. Support from former MP Sivamohan for election campaign.
+
+🟩
+
+The main party office for the Tamil National Party for the parliamentary election was opened by the TNA candidate Selvaraj Dinesan on Thursday evening (17) evening.
+
+The office was opened as the Mannar district election activities and the party -based electoral process.
+
+At the same time, a meeting for the youth of the TNA was also held at the Mannar private hotel.
+
+In Mannar district, Devanpitiya, Vattakandal, Silimalai, Santhipuram, Talaimannar, Basal and Murukkal, many villages have come to a gathering for a gathering.
+
+At the same time, Sivamohan, a former MP and doctor, attended the event and gave support for the election this year to Attorney Selvaraja Dineason.
+
+◼️
+
+[Data](articles/c948cd5c.json)
+
+[Extended Data](ext_articles/c948cd5c.ext.json)
+
+---
+
+### Man arrested for selling diesel
+
+*2024-10-18 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202298) · `si`
+
+Diesel sale arrest: 48yo man caught with 1225Ls in Galenbindunuwewa. Equipment seized. Suspect handed to police for investigation.
+
+🟩
+
+Police Special Task Force (1,225) arrested with 1,225 liters of diesel without licenses in Galenbindunuwewa area.
+
+According to information received from the Air Force intelligence officers in Anuradhapura, a group of officers of the Dambulla Base Dambulla Base Galenbindunuwe have been raided in Namalpura area.
+
+A 48-year-old resident of the area have been arrested in an unsewated diesel and the equipment related to the equipment.
+
+The suspect has been handed over to the Moragoda Police for further investigations.
+
+◼️
+
+[Data](articles/35fcfd79.json)
+
+[Extended Data](ext_articles/35fcfd79.ext.json)
+
+---
 
 ### 2 wild elephants killedThe train service is delayed
 
@@ -82,6 +154,34 @@ Meanwhile, more than 90%of the postal votes were cast in the Elpitiya Local Gove
 
 ---
 
+### Two suspects arrested for murder Madampitiye
+
+*2024-10-18 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202297) · `si`
+
+Two suspects arrested for murder in Colombo. Victim shot in three-wheeler. Suspects from Colombo 10 and 15. Police investigating motive.
+
+🟩
+
+Two suspects have been arrested on the murder of a shot of the Grandpamed Civilatra in the Grandpamed Council.
+
+The shooting had been carried out by an unidentified person who was in a three-wheeler.
+
+The suspects are residents of Colombo 10 and Colombo 15 years old.
+
+The other two persons were in a three-wheeler with the deceased when the suspects were caused by the shooting.
+
+It has been revealed that they had been taken from the three-wheeler where the victim had been shot dead.
+
+The police said that the investigation was revealed that the victim was avoiding the murder with the shooting suspects.
+
+◼️
+
+[Data](articles/09706919.json)
+
+[Extended Data](ext_articles/09706919.ext.json)
+
+---
+
 ### Banning from carrying pigs from today
 
 *2024-10-18 09:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-பன்றிகளை-கொண்டு-செல்ல-தடை/175-345643) · `ta`
@@ -101,6 +201,26 @@ Moreover, “Vaccination work has been started to control the spread of the viru
 [Data](articles/3b16e45d.json)
 
 [Extended Data](ext_articles/3b16e45d.ext.json)
+
+---
+
+### Government revenues rise in large
+
+*2024-10-18 09:08:52* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-ආදායම-විශාල-ප්‍රමාණයකින්-ඉහළට/11-412552) · `si`
+
+State revenue rose from 1819 billion to 4024 billion in 8 months, tax revenue increased to 2348 billion, non-tax revenue reached 209 billion. Overall growth of 25.5% to 40.5%.
+
+🟩
+
+In the first eight months of 2023, state revenue increased by 4024 billion to Rs 25.5% to 40.5% to Rs. 2557 billion.The value was 1819 billion rupees during the corresponding period.
+
+It is a significant factor that tax revenues and non-tax revenues increased by increased income in 2024. Government tax revenues were Rs. 2348 billion and non-tax revenues were Rs. 209 billion.
+
+◼️
+
+[Data](articles/bddfadc4.json)
+
+[Extended Data](ext_articles/bddfadc4.ext.json)
 
 ---
 
@@ -2221,131 +2341,5 @@ The tribunal’s proceedings, presided over by Justice Golam Mortuza Majumdar, s
 [Data](articles/57fe2f4f.json)
 
 [Extended Data](ext_articles/57fe2f4f.ext.json)
-
----
-
-### Eelam People's Democratic Party office inauguration in Kilinochchi
-
-*2024-10-17 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/196515) · `ta`
-
-Eelam People's Democratic Party inaugurates office in Kilinochchi. Secretary General Douglas Devananda opens facility in Dharmapuram.
-
-🟩
-
-The office of the Eelam People's Democratic Party was opened today (17) in Dharmapuram, Kilinochchi.
-
-The party's office has been opened by Douglas Devananda, Secretary General of the Eelam People's Democratic Party.
-
-◼️
-
-[Data](articles/ab65ed66.json)
-
-[Extended Data](ext_articles/ab65ed66.ext.json)
-
----
-
-### A man arrested for leaking at Vaddukoddai
-
-*2024-10-17 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196514) · `ta`
-
-Man arrested for leaks in Vaddukoddai. Police investigation ongoing. Suspect to appear in court.
-
-🟩
-
-A suspect has been arrested today (17) in Arali area of ​​the Vaddukoddai police division.
-
-The man has been arrested on the basis of confidential information available to the police that the man has been involved in leaks for a long time in the Aralithara area.
-
-After further inquiries, steps are being taken to make the suspect in the Mallakam court.
-
-◼️
-
-[Data](articles/cc2eb63b.json)
-
-[Extended Data](ext_articles/cc2eb63b.ext.json)
-
----
-
-### Reports on life -related Sunday attacks should be immediately revealed - Nimal Lansa
-
-*2024-10-17 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/196511) · `ta`
-
-Former MP Nimal Lansa calls for immediate release of Sunday attack reports, urging transparency without misleading the Catholic Church. He emphasizes the need for justice and accountability in these sensitive cases.
-
-🟩
-
-The Commission on Sunday attacks should be revealed to the country without deceiving the Catholic Church and the Catholic people.Former parliamentarian Nimal Lansa said that if there are any shortcomings or errors, they should be investigated immediately.
-
-He further stated at a press conference held in Negombo on Thursday (17).
-
-Life Sunday attack is the most emotional thing. Therefore, the Catholic Church and the Catholic people have demanded that justice be issued by issuing reports on those attacks.
-
-This is not the play. Catholic people believe in President Anura Kumara Dissanayake. So he must protect that belief.
-
-When Ranil Wickremesinghe took over the country, civil servants were unable to pay.
-
-But, after he took office, the salary of state employees was increased. The salary was increased during goodwill.
-
-Groups assigned wage conflicts. Ranil Wickremesinghe said the salaries of civil servants will be increased from next year as the economy has grown.
-
-...
-
-[Data](articles/a529c43e.json)
-
-[Extended Data](ext_articles/a529c43e.ext.json)
-
----
-
-### The new government offers concessions to farmers and fishermen without talking about the people of the hill country - Jeevan
-
-*2024-10-17 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196510) · `ta`
-
-Here's a 200-character summary of the text:
-
-
-
-New government offers concessions to farmers and fishermen, ignoring hill country residents. Jeevan Thondaman criticizes lack of support for mountain communities during economic crisis. He emphasizes his service record and calls for Tamil representation protection in Nuwara Eliya district.
-
-🟩
-
-Jeevan Thondaman, general secretary of the Ceylon Workers Congress and Nuwara Eliya district candidate, said that the new government is offering concessions to farmers and fishermen without talking about the people of the hill country.
-
-He was speaking at the election campaign meeting held at the Holyirud area in Talawakelle on Thursday (17).
-
-விமர்சனங்கள் பல இருந்தாலும் நான்கு வருடகாலமாக மக்களுக்காக நாடாளுமன்றத்தில் குரல் கொடுத்தேன். அதேபோல் மக்களின் பிரச்சினைகளுக்குக் களத்தில் இறங்கி நான் குரல் கொடுத்திருக்கின்றேன்.
-
-I ran away from anywhere. Even when the country reached bankrupt, we have received two salary hikes in the hill country. As said in 2020, we paid a salary of 1000 rupees.
-
-2024ஆம் ஆண்டு சம்பள நிர்ணய சபை ஊடாக 1350 ரூபாய் சம்பளத்தை பெற்றுக் கொடுத்தோம். இது கூட்டு ஒப்பந்தத்தினூடாக அல்ல. சம்பள நிர்ணய சபையில் தொழிலாளர்களுக்கு 1350 ரூபாய் சம்பளம் கொடுக்கக் கூடாது என தற்போதைய ஜனாதிபதியின் தொழிற்சங்கமே எமக்கு எதிராக வாக்களித்தார்கள்.
-
-...
-
-[Data](articles/04448e03.json)
-
-[Extended Data](ext_articles/04448e03.ext.json)
-
----
-
-### Warrants to arrest Bangladesh former Shaikina
-
-*2024-10-17 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202275) · `si`
-
-Bangladesh issues arrest warrants for ex-PM Sheikh Hasina. Local court orders her appearance Nov 18. 45 officials from Awami League also targeted. Charges relate to alleged crimes in July-August.
-
-🟩
-
-Warrants have been issued to the arrest of former Prime Minister Sheikh Haseani in Bangladesh.
-
-Foreign media reports that the warrant has been issued by a local court against her in July and August, with the crimes that Bangladesh was committed during the July and August.
-
-45 persons including the Chief Secretary of the Awami League and the other leaders of Haseanage have been issued warrants.
-
-According to foreign media reports, the panel of judges have been ordered to be produced before Sheikh Haseana court on November 18.
-
-◼️
-
-[Data](articles/68bf4075.json)
-
-[Extended Data](ext_articles/68bf4075.ext.json)
 
 ---

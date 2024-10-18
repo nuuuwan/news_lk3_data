@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 21:10:25**
+As of **2024-10-18 21:23:56**
 
 ## Newspaper Stats
 
-*Scraped **50,190** Articles*
+*Scraped **50,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 504
 islandlk | 2,974
 economynextcom | 3,076
 dailyftlk | 3,420
-adalk | 4,660
+adalk | 4,661
 dailymirrorlk | 4,733
-adaderanalk | 5,944
-tamilmirrorlk | 6,867
+adaderanalk | 5,945
+tamilmirrorlk | 6,869
 virakesarilk | 8,040
 adaderanasinhalalk | 8,704
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 8,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,190 (100.0%) of 50,190 articles have been extended.
+50,194 (100.0%) of 50,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Two elephants killed in fuel train collision: Investigation launched on train’s speed
+
+*2024-10-18 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102786/two-elephants-killed-in-fuel-train-collision-investigation-launched-on-trains-speed) · `en`
+
+The Department of Railways announced that efforts to clear the tracks after a fuel train derailed colliding with a herd of wild elephants near the Minneriya Rotawewa area are expected to be completed by tomorrow morning (19).
+
+The incident, which occurred early today, tragically resulted in the death of two wild elephants and left another seriously injured. The train, en route to Batticaloa, was transporting fuel when it struck the elephants, causing the derailment.
+
+Deputy General Manager (Traffic) of the Railway Department, N. J. Indipolage, stated that the train cannot be re-railed until the remaining fuel is safely removed from the affected tanks. Once this is completed, work to restore the train to the tracks will commence.
+
+...
+
+[Data](articles/f622850e.json)
+
+[Extended Data](ext_articles/f622850e.ext.json)
+
+---
+
+### Opportunity to cancel the registration of tax paying
+
+*2024-10-18 20:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்துவதற்கான-பதிவை-ரத்துச்-செய்ய-வாய்ப்பு/175-345659) · `ta`
+
+Tax registration cancellation opportunity: Submit proof of insufficient income by Nov 30, 2024. Access E-Service on IRD website to report 2023/2024 income. 868,009 taxpayers registered as of 2023.
+
+🟩
+
+Despite the registration of income tax, the Internal Revenue Department has announced a report that if there is no tax income due to the lack of income or lack of income, the tax registration is likely to be canceled.
+
+If there is insufficient income or profit to pay taxes, the documents that can prove it should be submitted to the department through the present day before 30.11.2024.
+
+Accordingly, the facility to send income reports for the estimated year of 2023/2024 from 01.04.2023 to 31.03.2024 can be obtained by accessing the E-Service shown in the Internal Revenue Department website www.ird.gow.lk.
+
+Meanwhile, the number of taxpayers for 2023/2024 has increased to 868,009 under the TIN number introduced by the Department of Internal Records to register taxpayers in 2023.. Remble
+
+◼️
+
+[Data](articles/45217047.json)
+
+[Extended Data](ext_articles/45217047.ext.json)
+
+---
+
+### Special Notice on Vehicle Income Permit
+
+*2024-10-18 20:42:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-வருமான-அனுமதிப்-பத்திரம்-குறித்து-விசேட-அறிவிப்பு/175-345658) · `ta`
+
+Vehicle income permit issues: provinces unconnected, implementation incomplete. Western Province owners face difficulties due to registration in other provinces. Minister Vijitha Herath directs Governor to connect Western Province with other provinces for proper implementation.
+
+🟩
+
+The Ministry of Highways, Ports and Civil Aviation has issued a report on obtaining vehicle income permits.
+
+The main issue faced by the people in obtaining vehicle income permits is that the provinces are unrelated and that it has not yet been implemented for the most essential province, which is not yet implemented.
+
+If the vehicle owned by the vehicle owner in the Western Province was registered in a different province, the people are worried that this province is the most difficult task of spending income, labor and money in this province.
+
+Minister of Transport, Highways, Ports and Aviation, Vijitha Herath has issued a directive to the Governor of the Western Province to provide instructions to the departments appropriate for the necessary steps to connect the Western Provinces to other provinces.
+
+◼️
+
+[Data](articles/0b390ceb.json)
+
+[Extended Data](ext_articles/0b390ceb.ext.json)
+
+---
 
 ### Dilith about a courageous opposition
 
@@ -423,6 +489,26 @@ The Western Province, Minister Vijitha Herath has advised the Western Province G
 [Data](articles/7f089050.json)
 
 [Extended Data](ext_articles/7f089050.ext.json)
+
+---
+
+### The bid price has not been made to pay
+
+*2024-10-18 17:26:24* · [`adalk`](https://www.ada.lk/breaking_news/ලංසු-මිළ-ගණන්-නොකැඳවා-සිටීමට-තීරණයක්-ගෙන-නෑ/11-412556) · `si`
+
+Bid price unchanged under new management. Ceylon Electricity Board generates 1% of electricity via diesel. No changes to competitive pricing strategy.
+
+🟩
+
+The new management has not made any decision to change competitive bidding prices to generate the Ceylon Electricity Board to generate electricity.
+
+The CEB is also known that the total value of electricity generation is about 1 percent in the total electricity generation of electricity using diesel.
+
+◼️
+
+[Data](articles/0fb81fb9.json)
+
+[Extended Data](ext_articles/0fb81fb9.ext.json)
 
 ---
 
@@ -2419,103 +2505,5 @@ It has been decided that a candidate in the Colombo district can spend 57 lakhs 
 [Data](articles/590bfb75.json)
 
 [Extended Data](ext_articles/590bfb75.ext.json)
-
----
-
-### Fuel train derails after colliding with elephant herd
-
-*2024-10-18 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102770/fuel-train-derails-after-colliding-with-elephant-herd) · `en`
-
-A fuel train has derailed between Hingurakgoda and Gal Oya railway stations after colliding against a herd of wild elephants.
-
-The Railway Department sad that a total of four fuel tankers have derailed and that two of them have toppled and that the train engine and another compartment have also derailed.
-
-It is also reported that two elephants have died in the collision with the train while several other elephants have been critically injured.
-
-Meanwhile, the derailment has also severely damaged the railway track, Ada Derana reporter said.
-
-The incident had occurred at around 3.30 a.m. today (18) while the train was transporting fuel from the Kolonnawa Petroleum Storage Terminal to Batticaloa.
-
-Train services on the Batticaloa-Colombo main line have been completely halted presently while the railway department has cancelled the trains scheduled to travel from Colombo Fort to Batticaloa and vice versa this morning (18).
-
-◼️
-
-[Data](articles/d9f9c06a.json)
-
-[Extended Data](ext_articles/d9f9c06a.ext.json)
-
----
-
-### Hacks Radyers Inspection Service in many hospitals?
-
-*2024-10-18 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202294) · `si`
-
-Here's a 200-character summary:
-
-
-
-Hackers target radiology systems in hospitals. Paramedic union cites staffing shortages due to 8+ hospital deficits. New CT scanners operational but understaffed. Health Minister urges immediate recruitment to prevent service disruptions.
-
-🟩
-
-The combined Federation of Paramedics say that the shortage of officers of the government's hospitals in the government hospital system has been hampered by the deficit of over 8 hospitals.
-
-The Secretary of the Its Secretary Chanaka Dharmamickhama stated that the recent government has been investigated by the MRI Scanner and Cardiocater Units.
-
-"New ct scans in some hospitals have been established in some hospitals. But begin their duties, starting to investigate the investigation due to lack of adequate staff. At the same time, the staff working in the service has become severely oppressive. We are especially requested by the new Health Minister to recruit immediate recruits for these services. Otherwise, the health service does not have the absence of staff in the next few months. "
-
-◼️
-
-[Data](articles/874271db.json)
-
-[Extended Data](ext_articles/874271db.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-10-18 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102769/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in the Northern Province today.
-
-It said several spells of light showers may occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-eliya districts.
-
-Showers or thundershowers may occur at a few places in Uva and Eastern provinces during the evening or night.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/7a970a00.json)
-
-[Extended Data](ext_articles/7a970a00.ext.json)
-
----
-
-### Notice to candidates in general election
-
-*2024-10-18 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202293) · `si`
-
-Here's a summary of the notice to candidates in 200 characters:
-
-
-
-Candidates must report expenses separately. Failure to do so may result in legal consequences, including potential loss of office via election petition.
-
-🟩
-
-The foregoing organization points out that the candidates contestants who come to the general election are suitable to make a separate person to maintain their expenses and income reports.
-
-Executive Director of the Executive Director Rohana Hettiarachchi said that these candidates could face difficulties for some candidates in the last presidential election.
-
-Meanwhile, Executive Director of Democratic, Reforms and Elections, Executive Director of Elections Manjula Gannam expressed these views on the conditions for the conditions for income for income revenue reports.
-
-"If a candidate is unable to give their spending reports, or a judicial process may lose three years. The loss of the post can be lost through an election petition. "
-
-◼️
-
-[Data](articles/c42e9bc2.json)
-
-[Extended Data](ext_articles/c42e9bc2.ext.json)
 
 ---

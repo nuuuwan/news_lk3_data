@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 01:58:15**
+As of **2024-10-19 02:09:45**
 
 ## Newspaper Stats
 
-*Scraped **50,213** Articles*
+*Scraped **50,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 501
 bbccomsinhala | 504
 islandlk | 2,977
 economynextcom | 3,076
-dailyftlk | 3,432
+dailyftlk | 3,433
 adalk | 4,661
 dailymirrorlk | 4,733
 adaderanalk | 5,945
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,707
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,213 (100.0%) of 50,213 articles have been extended.
+50,214 (100.0%) of 50,214 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -169,6 +169,20 @@ University of Rajarata Vice Chancellor Prof. GAS Ginigaddara (centre) with Facul
 [Data](articles/077dcbd3.json)
 
 [Extended Data](ext_articles/077dcbd3.ext.json)
+
+---
+
+### CMA Sri Lanka and Rajarata University sign MoU
+
+*2024-10-19 01:16:17* · [`dailyftlk`](https://www.ft.lk/business/CMA-Sri-Lanka-and-Rajarata-University-sign-MoU/34-768169) · `en`
+
+University of Rajarata Vice Chancellor Prof. GAS Ginigaddara (centre) with Faculty of Management Studies Dean Prof. P.M.B. Jayathilake, Head – Department of Accountancy and Finance Dr. R.M.N.C. Swarnapali, Head – Department of Business Management Dr. W.M.R.B. Weerasooriya, Head – Department of Human Resource Management K.A.K.S. Rathnakara, Department of Accountancy and Finance Senior Lecturer Dr. A.L.M. Jameel, Department of Accountancy and Finance Senior Lecturer Dr. C.T.  Gamage, Department of Accountancy and Finance Senior Lecturer Dr. J.S. Kumari, Department of Accountancy and Finance Senior Lecturer D.D.K. Sugathadasa, Department of Accountancy and Finance Coordinator, Faculty Industry Interaction Cell, Lecturer V.G.N. Sameera, Department of Accountancy and Finance Lecturer G.M.H.P.K. Rathwatta, Department of Accountancy and Finance Lecturer J.M.N. Wijekumara, and Department of Accountancy and Finance Assistant Lecturer A.H. Kelumdeniya
+
+...
+
+[Data](articles/56e0f4f2.json)
+
+[Extended Data](ext_articles/56e0f4f2.ext.json)
 
 ---
 
@@ -2429,29 +2443,5 @@ At the same time, Sivamohan, a former MP and doctor, attended the event and gave
 [Data](articles/c948cd5c.json)
 
 [Extended Data](ext_articles/c948cd5c.ext.json)
-
----
-
-### Man arrested for selling diesel
-
-*2024-10-18 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202298) · `si`
-
-Diesel sale arrest: 48yo man caught with 1225Ls in Galenbindunuwewa. Equipment seized. Suspect handed to police for investigation.
-
-🟩
-
-Police Special Task Force (1,225) arrested with 1,225 liters of diesel without licenses in Galenbindunuwewa area.
-
-According to information received from the Air Force intelligence officers in Anuradhapura, a group of officers of the Dambulla Base Dambulla Base Galenbindunuwe have been raided in Namalpura area.
-
-A 48-year-old resident of the area have been arrested in an unsewated diesel and the equipment related to the equipment.
-
-The suspect has been handed over to the Moragoda Police for further investigations.
-
-◼️
-
-[Data](articles/35fcfd79.json)
-
-[Extended Data](ext_articles/35fcfd79.ext.json)
 
 ---

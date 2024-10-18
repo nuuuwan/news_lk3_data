@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 09:24:48**
+As of **2024-10-18 09:39:57**
 
 ## Newspaper Stats
 
-*Scraped **50,099** Articles*
+*Scraped **50,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,146 @@ bbccomsinhala | 502
 islandlk | 2,974
 economynextcom | 3,066
 dailyftlk | 3,420
-adalk | 4,655
+adalk | 4,656
 dailymirrorlk | 4,733
 adaderanalk | 5,931
-tamilmirrorlk | 6,849
-virakesarilk | 8,021
+tamilmirrorlk | 6,855
+virakesarilk | 8,022
 adaderanasinhalalk | 8,681
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,094 (100.0%) of 50,099 articles have been extended.
+50,103 (100.0%) of 50,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### 2 wild elephants killedThe train service is delayed
+
+*2024-10-18 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/196544) · `ta`
+
+Wild elephants crash train near Batticaloa, killing 2, delaying services.
+
+🟩
+
+A wild elephant crowd crashed into a train carrying fuel from Kolonnawa oil storage to Batticaloa.
+
+The accident occurred at around 3.30 am today (18) at the Kaloya -Hingurgodai railway stations.
+
+Two wild elephants died in the accident and many wild elephants were severely injured.
+
+Four fuel tanks of the train have been blocked and two fuel tanks have been overcome. In addition, the train's driver and controller travelers are also interrupted.
+
+Meanwhile, the Railway Department has taken steps to cancel the train service from Colombo Fort to Batticaloa and Batticaloa to Colombo this morning.
+
+◼️
+
+[Data](articles/1a21c2e1.json)
+
+[Extended Data](ext_articles/1a21c2e1.ext.json)
+
+---
+
+### Reversion to vote for Elpitiya Public Employees
+
+*2024-10-18 09:17:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டிய-அரச-ஊழியர்களுக்கு-வாக்களிக்க-மறுவாய்ப்பு/175-345644) · `ta`
+
+Elpitiya public employees can vote today due to reversion. Postal voting available at district office. Over 90% of postal votes cast in local government election.
+
+🟩
+
+Galle District Elections Commissioner WHR will be able to vote today (18).. Vijayakumara said.
+
+Vijayakumara said that the public servants who were unable to vote on the 14th of this month could be able to vote in the postal voting today.
+
+Accordingly, the Public Works Department can register postal voting at the district office.
+
+Meanwhile, more than 90%of the postal votes were cast in the Elpitiya Local Government election, election observers say.
+
+◼️
+
+[Data](articles/aebe1d80.json)
+
+[Extended Data](ext_articles/aebe1d80.ext.json)
+
+---
+
+### Banning from carrying pigs from today
+
+*2024-10-18 09:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-பன்றிகளை-கொண்டு-செல்ல-தடை/175-345643) · `ta`
+
+Pig ban due to viral outbreak. Vaccination efforts underway. Meat from infected pigs not recommended.
+
+🟩
+
+Hemali Kotalawala, Director of the Department of Livestock Production and Health, said that the move was due to a variety of virus transmitteds spreading to pigs.
+
+He said the virus is spreading in many provinces, including the West and Northwest.
+
+Moreover, “Vaccination work has been started to control the spread of the virus. Eating the meat of pigs who died of the disease is not recognized, ”said Hemali Kotelawala.(An)
+
+◼️
+
+[Data](articles/3b16e45d.json)
+
+[Extended Data](ext_articles/3b16e45d.ext.json)
+
+---
+
+### Shortage of rice in the market?
+
+*2024-10-18 09:03:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்தையில்-நாட்டு-அரிசிக்கு-தட்டுப்பாடு/175-345642) · `ta`
+
+Rice shortage due to paddy scarcity. Retail prices exceed 230 rupees. Government sets maximum retail price. Steps to purchase rice directly from mills and distribute through Sathosa. Situation expected to improve soon.
+
+🟩
+
+The Maradhagahamula Rice Manufacturers Association said the situation was caused by paddy shortage.
+
+Ranjith, president of the association, said that the retail market is currently being sold for more than 230 rupees of rice.
+
+In this case, the country's secretary said that the country can sell rice at a maximum retail price for Rs.
+
+The secretary said that the paddy yields at the last season and this season were at the right level.
+
+He also said that the current situation will be resolved with the owners of the rice mill.
+
+At the same time, the secretary said that steps will be taken to buy rice directly to the country through Sathosa and turn it into the market rice.. (That)
+
+◼️
+
+[Data](articles/35461805.json)
+
+[Extended Data](ext_articles/35461805.ext.json)
+
+---
+
+### Can reduce electricity bill by 45 percent
+
+*2024-10-18 08:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணத்தை-45-சதவீதம்-குறைக்க-முடியும்/175-345641) · `ta`
+
+Reduce electricity bills by 45%: CEB accused of delayed tariff changes. Net profit over 155 billion, union demands action from President.
+
+🟩
+
+United Federation Trade Union Organization Summoner Ananda Palitha has accused the Ceylon Electricity Board (CEB) that the electricity tariff amendment has not been implemented on October 1.
+
+Ananda Palitha also pointed out that the Electricity Board has not sent the Public Applications Commission to the Electricity charges that have to be revised.
+
+Currently the net profit of the Electricity Board exceeds 155 billion and why are you waiting. The President should take immediate action.
+
+Can reduce the electricity bill at least 45 percent. We are telling the people to give that advantage. Remble
+
+◼️
+
+[Data](articles/e7306a56.json)
+
+[Extended Data](ext_articles/e7306a56.ext.json)
+
+---
 
 ### Kenya’s deputy president sacked while in hospital
 
@@ -51,6 +175,56 @@ The senators’ refusal to delay proceedings until Saturday - as long as would h
 [Data](articles/b673e91a.json)
 
 [Extended Data](ext_articles/b673e91a.ext.json)
+
+---
+
+### Workplace to look at the plenty of state fees
+
+*2024-10-18 08:52:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-குடியிருப்பு-கட்டண-மிகுதிகளை-கவனிக்குமாறு-பணிப்புரை/175-345640) · `ta`
+
+State fees for former ministers' residences: 14 handed over, electricity/water mandatory. Legal action for non-payment.
+
+🟩
+
+The Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government said that former ministers have been reminded of their government settlements.
+
+A senior official of the ministry said that only 14 official residences have been handed over.
+
+In addition, the ministry said that when handing over apartments, it is mandatory to pay electricity and water.
+
+The Ministry of Public Administration has stated that the relevant authorities have been issued a directive to acquire state settlements only after all the fees have been paid.
+
+Legal action will be taken against former ministers who continue to avoid the announcement of the Ministry. (That)
+
+◼️
+
+[Data](articles/a50311e7.json)
+
+[Extended Data](ext_articles/a50311e7.ext.json)
+
+---
+
+### It is raining several times in the Northern Province
+
+*2024-10-18 08:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாணத்தில்-பல-தடவைகள்-மழை-பெய்யும்/175-345639) · `ta`
+
+Raining in Northern Province. Heavy rain forecasted in Western, Sabaragamuwa, North Western provinces. Thunderstorms possible in Uva, Eastern provinces. Public advised to prepare for strong winds and lightning.
+
+🟩
+
+The Department of Meteorology has predicted that rainfall is expected in the Northern Province several times.
+
+Rainfall is expected in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara, Kandy and Nuwara Eliya districts, the Department of Meteorology said.
+
+In some places in the Uva and the Eastern Provinces, there may be rain or thunderstorms in the evening or night.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce the risk of temporary heavy winds and lightning with thunderstorms. Remble
+
+◼️
+
+[Data](articles/0bda9e38.json)
+
+[Extended Data](ext_articles/0bda9e38.ext.json)
 
 ---
 
@@ -1434,6 +1608,28 @@ Of the complaints received, 181 complaints have been settled and 76 more complai
 
 ---
 
+### Global southern scholarly circulating crology conversation in Beijing
+
+*2024-10-17 19:45:01* · [`adalk`](https://www.ada.lk/breaking_news/ගෝලීය-දකුණු-විද්වත්-පර්ෂද-සංවාදය-බෙයිජිං-හිදී/11-412551) · `si`
+
+Beijing hosts Global South Chinthana Conversation. Chinese Communist Party organizes event with 76 country reps. Focus: Building prosperous world with shared destiny. China proposes global development initiatives.
+
+🟩
+
+Global South Chinthana Conversation at the Leader of BRICS in the near North. The Chinese Committee of the Communist Party Central Committee of the Communist Party has organized the general foregoing of the Chinese Media Group. "The theme is to build a prosperous world with a common fate with peace, development, security," building a prosperous world with a common fate.
+
+Minister of Foreign Committee of the Communist Party Central Committee of the Communist Party, the Director General of the China Communist Party Department of Campaign Party, SHEN Haixiong, Director General of the China Communist Party, was lectured.. The government representatives, government representatives, scholar and media representatives of 76 countries were joined in online and non-online ways.
+
+China said China is ready to add a global development initiative, global development initiative and a global civilizational initiative and a common fate.
+
+...
+
+[Data](articles/68551570.json)
+
+[Extended Data](ext_articles/68551570.ext.json)
+
+---
+
 ### 257 complaints regarding general election
 
 *2024-10-17 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202280) · `si`
@@ -1904,6 +2100,8 @@ During a TV chat show explaining the process, Harsha made the remark, “Mama Am
 
 [Data](articles/e66e743a.json)
 
+[Extended Data](ext_articles/e66e743a.ext.json)
+
 ---
 
 ### 2024 Sri Lankan elections - important rise of populist Left
@@ -2149,209 +2347,5 @@ According to foreign media reports, the panel of judges have been ordered to be 
 [Data](articles/68bf4075.json)
 
 [Extended Data](ext_articles/68bf4075.ext.json)
-
----
-
-### Elpitiya PS Election: Voter’s thumb to be marked instead of little finger
-
-*2024-10-17 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102762/elpitiya-ps-election-voters-thumb-to-be-marked-instead-of-little-finger) · `en`
-
-The Election Commission has announced a key measure for the upcoming Elpitiya Pradeshiya Sabha election scheduled for October 26, 2024.
-
-In accordance with Section 53a(3) of the Local Government Elections Ordinance (262nd Authority), voters will have their left thumb marked with an appropriate sign to prevent double voting and ensure transparency, the election regulatory body said today (17).
-
-This decision comes in light of concerns about possible confusion during the polling process for the Presidential Election 2024, which took place recently.
-
-Meanwhile, if a voter’s left thumb is unavailable, the mark will be applied to the thumb of the right hand, or if necessary, another finger, as suitable, according to the Election Commission.
-
-◼️
-
-[Data](articles/0cb2d206.json)
-
-[Extended Data](ext_articles/0cb2d206.ext.json)
-
----
-
-### ඌරන් අතර හඳුනා නොගත් මාරාන්තික වෛරසයක්
-
-*2024-10-17 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202274) · `si`
-
-Unidentified Marantic Virus Affects Pigs Multiple Districts Sri Lanka
-
-🟩
-
-අනුරාධපුර දිස්ත්‍රික්කය ඇතුළු දිවයිනේ ප්‍රදේශ රැසක ඌරන් මෙම හඳුනා නොගත්  වයිරස රෝගයට ගොදුරු ව තිබේ.
-
-ගොවිපොළ හිමිකරුවන් පවසන්නේ, රෝගය වැළඳී දින දෙකක් තුළ එම සතුන් මරණයට පත්වන බවය.
-
-අනුරාධපුර මධ්‍යම නුවරගම් පළාත් ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ උලුක්කුලම ප්‍රදේශයේ සත්ත්ව ගොවිපළ 20ක පමණ පැතිර ගොස් තිබේ.
-
-ගොවිපොළ හිමිකරුවන් චෝදනා පැවසුවේ මෙම රෝගය හේතුවෙන් ඌරන් විශාල සංඛ්‍යාවක් මියගොස් ඇති අතර, වගකිව යුතු බලධාරින් කිසිවෙක් මේ පිළිබඳව සොයා බැලීමට මෙතෙක් පැමිණ නැති බවය.
-
-◼️
-
-[Data](articles/e9fedc5f.json)
-
-[Extended Data](ext_articles/e9fedc5f.ext.json)
-
----
-
-### A crucial struggle in Women's World Cup today
-
-*2024-10-17 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202273) · `si`
-
-Here's a 200-character summary:
-
-
-
-Australia vs South Africa in Women's World Cup final. Match in Dubai at 7:30 PM. Australia won all 4 group stage matches. South Africa lost one game but finished second in group. This is Australia's third Women's T20 World Cup victory.
-
-🟩
-
-Australia and South Africa will be held between Australia and South Africa.
-
-It will be held in Dubai as a night match, and the match will begin at 7.30 pm.
-
-With the participation of 10 teams, Australia played its 'A' category.
-
-There they will be a potential for 4 matches winning all four matches.
-
-දකුණු අප්‍රිකානු කාන්තා කණ්ඩායම මෙහි 'B' කාණ්ඩයෙන් ක්‍රීඩාකළ අතර, ඔවුන් එක් තරගයක් පමණක් පරාජය වී තරග 3ක ජය තහවුරු කරගැනීමට සමත් විය.
-
-ඒ හේතුවෙන් ඔවුන් එම කාණ්ඩයේ ප්‍රසාද ලකුණු සටහනේ දෙවැනි ස්ථානය පත්විය.
-
-දකුණු අප්‍රිකානු හා ඔස්ට්‍රේලියානු කණ්ඩායම් 2009 වසරේ සිට මේ දක්වා අවස්ථා 10කදී එකිනෙකා සමගින් තරගවැදී තිබේ. ඉන් තරග 9කම ජය ඔස්ට්‍රේලියාවට හිමිවද්දී, දකුණු අප්‍රිකාව ජයගෙන ඇත්තේ එක් තරගයක් පමණි.
-
-However, if the match is defeated by Australia, it will be the first Twenty20 Women's World Cup without a 14 year old.
-
-ඉන් අවසන්වරට පැවැත්වූ තරගාවලියේ ත්‍රිත්වයම (2018, 2020, 2023) ඇතුලුව අවස්ථා 6කදීම ලෝක ශූරතාව දිනාගෙන ඇත්තේ ඔස්ට්‍රේලියාවයි.
-
-...
-
-[Data](articles/b814b5da.json)
-
-[Extended Data](ext_articles/b814b5da.ext.json)
-
----
-
-### வவுனியாவில் தேசிய மக்கள் சக்தி உறுப்பினர்களிடையே கலந்துரையாடல்!
-
-*2024-10-17 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/196512) · `ta`
-
-National People's Power meeting in Vavuniya. Discussion among party members. Election campaign strategies explained. Key speakers include Bimal Rathnakaya and other Vanni district candidates.
-
-🟩
-
-தேசிய மக்கள் சக்தியின் வவுனியா மாவட்ட உறுப்பினர்களுக்கு இடையிலான கலந்துரையாடல் வவுனியா தனியார் விருந்தினர் விடுதியொன்றில் இன்று வியாழக்கிழமை (17) நடைபெற்றது.
-
-இதன்போது எதிர்வரும் பாராளுமன்றத் தேர்தலில் முன்னெடுக்கப்படவேண்டிய பிரச்சார நடவடிக்கைகள் தொடர்பாக அங்கத்தவர்களுக்கு தெளிவுபடுத்தப்பட்டது.
-
-இந்த நிகழ்வில் தேசிய மக்கள் சக்தியின் முக்கியஸ்தரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான பிமல் ரத்நாயக்க உட்பட வன்னி மாவட்ட வேட்பாளர்கள், அங்கத்தவர்கள் என பெருமளவானோர் கலந்துகொண்டிருந்தனர்.
-
-◼️
-
-[Data](articles/29ecef0a.json)
-
-[Extended Data](ext_articles/29ecef0a.ext.json)
-
----
-
-### 2024 General Election: Maximum spending limit for candidates announced
-
-*2024-10-17 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102761/2024-general-election-maximum-spending-limit-for-candidates-announced) · `en`
-
-The Election Commission of Sri Lanka has issued a circular stipulating the maximum spending limit allowed for each candidate for campaigning purposes during the 2024 General Election.
-
-Accordingly, the maximum expenditure limit allowed for candidates, parties, independent groups and national list candidates have been stipulated based on the district.
-
-All upcoming national elections will be subject to new campaign finance laws that will limit the amount of funding that candidates, political parties and independent groups can spend on their campaigns.
-
-Ahead of the 2024 presidential election which was held is September, the Election Commission had met with various stakeholders to brief them on the legislation and obtain their views and suggestions on establishing the spending limit and how to move forward in implementing the laws.
-
-The parties must submit expenditure reports to the Elections Commission within 21 days of the election results being declared, the notification stated.
-
-...
-
-[Data](articles/76cf70b3.json)
-
-[Extended Data](ext_articles/76cf70b3.ext.json)
-
----
-
-### Only half of Sri Lanka’s welfare budget utilized in Jan-Aug: FinMin Report
-
-*2024-10-17 15:40:00* · [`economynextcom`](https://economynext.com/only-half-of-sri-lankas-welfare-budget-utilized-in-jan-aug-finmin-report-184026/) · `en`
-
-ECONOMYNEXT – Only 53 percent of Sri Lanka’s welfare budget has been utilized in the first eight months of this year by the previous government, a Finance Ministry report showed.
-
-A Pre-Election Budgetary Position Report 2024 released by the Finance Ministry this week showed only 563.4 billion rupees out of the budgeted 1,055.7 billion has been used in the first eight months.
-
-The welfare budget was earmarked for the programmes of social welfare, social security, education, health and nutrition and development assistance.
-
-The last government raised the welfare budget by 15.3 percent this year compared to the actual expenditure of 2023 which was 915.4 billion rupees, the data showed.
-
-The increase in the welfare budget was backed by the International Monetary Fund (IMF) which asked to allocate more money on the poor and vulnerable people with better targeting methods.
-
-...
-
-[Data](articles/6381e19d.json)
-
-[Extended Data](ext_articles/6381e19d.ext.json)
-
----
-
-### Keheliya's name, Keheliya, named Keheliya
-
-*2024-10-17 15:28:14* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-නමින්-නම්-කළ-පාසලේ-කෙහෙළියගේ-නම-ගලවය/11-412547) · `si`
-
-Here's a 200-character summary:
-
-
-
-Keheliya Rambukwella Primary School: Established 1939, located in Kundasale, Central Province. Approved for immediate implementation in Wattegama Education Zone. Currently under construction near Victoria Reservoir. 23 teachers, led by Principal W.A.M.K.
-
-🟩
-
-Governor of the Great Ratchar Sum, Central Province, Great Ratchar, is amended for immediate effective effect on the Kundasale Division of the Kundasale Division of the Wattegama Education Zone.. B.S Abhijan has been granted approval.
-
-Accordingly, the proposal was approved by the Affairs Committee of the Provincial Education Department of Education in the Kundasale Royal Primary School in Kundasale.. Considering the proposals that had been submitted from time to time to time and students and students from time to time.
-
-The College, one of the major primary schools in the educational division, is a 1939 SWR. The De Bandaranaike began as dear named De Bandaranaike, and the Natasale College, Kundasale College, Kundasale College, Kundasale College, Kundasale College.
-
-...
-
-[Data](articles/5f15b6ea.json)
-
-[Extended Data](ext_articles/5f15b6ea.ext.json)
-
----
-
-### நாட்டின் பொருளாதார நெருக்கடிக்கு தீர்வு காண்பதற்கு நாடாளுமன்றத்தில் அனுபவசாலிகள் அவசியம் - விசேட அறிக்கையில் ரணில்
-
-*2024-10-17 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196503) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former President Ranil Wickremesinghe emphasizes experienced individuals' necessity in Parliament to address economic challenges. He calls for unity among political parties to form a new party for future elections, citing his own experience as an example.
-
-🟩
-
-நாட்டின் பொருளாதார பிரச்சினைக்கு தீர்வு காண்பதற்கும் முன்னோக்கி நகர்வதற்கும் தன்னுடன் இணைந்து செயற்பட்ட அனுபவசாலிகள் நாடாளுமன்றத்திற்கு செல்வது அவசியம் என முன்னாள் ஜனாதிபதி ரணில்விக்கிரமசிங்க நாட்டு மக்களுக்கான விசேட அறிக்கையில் தெரிவித்துள்ளார்.
-
-உங்களது எதிர்காலத்தை புதிய நாடாளுமன்றம் தீர்மானிக்கின்றது என அவர் மேலும் தெரிவித்துள்ளார். இதன் காரணமாக சமையல் எரிவாயு சிலிண்டர் சின்னத்துக்கு வாக்களியுங்கள் என அவர் வேண்டுகோள் விடுத்துள்ளார்.
-
-நான் ஜனாதிபதி தேர்தலில் சமையல் எரிவாயு சிலிண்டர் சின்னத்தில் போட்டியிட்டேன். ஸ்ரீலங்கா பொதுஜன பெரமுன, ஐக்கிய தேசிய கட்சி, ஸ்ரீலங்கா சுதந்திரக்கட்சி மற்றும் புதிய கூட்டணி ஆகியன ஒன்றிணைந்து எனக்கு ஆதரவளித்தன. All of them acted under my leadership.
-
-இவர்கள் அனைவரும் எதிர்வரும் பொதுத்தேர்தலில் ஒன்றிணைகின்றனர். புதிய ஜனநாயக கட்சியாக போட்டியிடுகின்றனர். எனது தலைமைத்துவத்தின் கீழ் அவர்கள் தேர்தலில் போட்டியிடவுள்ளனர்.
-
-இவர்கள் அனைவரும் உரிய அனுபவம் உள்ளவர்கள். இவர்கள் கடந்த காலங்களில் தங்கள் பணியை ஒழுங்கான முறையில் முன்னெடுத்துள்ளனர்.
-
-...
-
-[Data](articles/67af267c.json)
-
-[Extended Data](ext_articles/67af267c.ext.json)
 
 ---

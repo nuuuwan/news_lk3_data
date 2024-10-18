@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 20:23:30**
+As of **2024-10-18 20:39:35**
 
 ## Newspaper Stats
 
-*Scraped **50,180** Articles*
+*Scraped **50,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,20 +13,20 @@ dbsjeyarajcom | 404
 colombotelegraphcom | 501
 bbccomsinhala | 504
 islandlk | 2,974
-economynextcom | 3,067
+economynextcom | 3,076
 dailyftlk | 3,420
 adalk | 4,660
 dailymirrorlk | 4,733
 adaderanalk | 5,944
 tamilmirrorlk | 6,867
 virakesarilk | 8,040
-adaderanasinhalalk | 8,703
+adaderanasinhalalk | 8,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,180 (100.0%) of 50,180 articles have been extended.
+50,188 (100.0%) of 50,190 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,62 @@ We need to give the government a chance to be powerful. That's our honest effort
 [Data](articles/6ee560e8.json)
 
 [Extended Data](ext_articles/6ee560e8.ext.json)
+
+---
+
+### Large scale mill owners accused of the shortage of rice
+
+*2024-10-18 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202321) · `si`
+
+Sri Lanka: Rice shortage blamed on large-scale mill owners. Former Agriculture Director calls for government intervention. Consumers struggle with high prices. Consumer Affairs Authority lacks power to control rice mafia. New government plans to empower agency to address issue.
+
+🟩
+
+Former Director of Agriculture KB The former Agriculture Director KB Director KB. Says Mr. Gunaratne.
+
+He points out that the government should intervene to prevent this situation expeditiously.
+
+There is a severe shortage of nadu, white and red rice in the retail market.
+
+The shortage of nadu rice has become more difficult for consumers.
+
+The government's control prices are also unable to buy rice.
+
+However, murders rice manufacturers point out that the rice to the consumers have been a problem.
+
+Meanwhile, the reconciliation polls pointed out that rice was allowed to the rest of the government due to lack of government intervention.
+
+We inquired about whether the Consumer Affairs Authority of the Consumer Affairs Authority is not capable of controlling rice mafia in Sri Lanka.
+
+Speaking, the Director of Consumer Affairs Authority (raids and Special Investigations) Sanjaya Iasinghe said that the bill had not had the powers.
+
+He said that action is being amended to the Act in the future, he said.
+
+...
+
+[Data](articles/bb0ba688.json)
+
+[Extended Data](ext_articles/bb0ba688.ext.json)
+
+---
+
+### Sri Lanka coconut auction prices rise 7.79-pct
+
+*2024-10-18 20:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-rise-7-79-pct-183124/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s average coconut prices were up from 93,865.10 to 101,177.51 for 1,000 nuts at an auction on October 10, data from the Coconut Development Authority shows.
+
+This is a 7.79 percent increase. Coconut prices have been rising since dropping in May.
+
+The highest price was 115,000 for 1,000 nuts while the lowest was 85,900.
+
+A total of 568,859 coconuts were offered at the auction and 532,346 were sold.
+
+◼️
+
+[Data](articles/b15f708e.json)
+
+[Extended Data](ext_articles/b15f708e.ext.json)
 
 ---
 
@@ -182,6 +238,26 @@ Colombo Additional Magistrate Harshana Kekunawala today ordered the suspects in 
 
 ---
 
+### Sri Lanka opts not to back condemning Israel for travel ban on UN Sec Gen
+
+*2024-10-18 19:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-opts-not-to-back-condemning-israel-for-travel-ban-on-un-sec-gen-184174/) · `en`
+
+Sri Lanka has chosen not to be a signatory for a letter signed by 105 countries, including European and African countries, as well as much of the Global South that “condemned” Israel for banning United Nations Secretary General (UNSG) entering into the country.
+
+Israeli Foreign Minister Israel Katz early this week reinforced his decision to declare U.N. Secretary-General Antonio Guterres persona non grata over what he described as a failure to condemn Iran’s missile attack and antisemitic and anti-Israel conduct.
+
+The move comes amid continuous UN pressure for a ceasefire in the conflict-hit Middle East.
+
+Sri Lanka has been with the Global South on a number of resolutions that are critical of Israel and backing Palestine, but has decided not to sign the letter circulated by Chile, and supported by Brazil, Colombia, South Africa, Uganda, Indonesia, Spain, Guyana and Mexico.
+
+...
+
+[Data](articles/7b44343d.json)
+
+[Extended Data](ext_articles/7b44343d.ext.json)
+
+---
+
 ### Three -wheeler collides with buses on Wellawaya Road, Perakala
 
 *2024-10-18 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196610) · `ta`
@@ -230,6 +306,26 @@ A Chinese citizen has been arrested today (18) with foreign cigarettes hidden in
 
 ---
 
+### Sri Lanka’s CEB: No decision against open bidding in purchasing diesel for electricity
+
+*2024-10-18 17:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-no-decision-against-open-bidding-in-purchasing-diesel-for-electricity-184169/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board (CEB) has not decided against competitive bidding in buying diesel for electricity generation though the usage of diesel has been kept minimum.
+
+Sri Lanka’s new government came under fire over a reported move by the CEB to continue to purchase fuel without competitive bidding, and with a deal struck with state-owned Ceylon Petroleum Corporation (CPC). Both CPC and CEB come under the Ministry of Energy.
+
+Sri Lanka’s Daily Mirror newspaper earlier this week reported that CEB has decided not to go ahead with competitive procurement of fuel but to strike a deal with Ceylon Petroleum Corporation, reversing a decision by the earlier administration to move for open tendering.
+
+“CEB has never purchased diesel for electricity generation, through competitive bidding including during the tenure of the previous management,” the CEB said in a statement on Friday (18).
+
+...
+
+[Data](articles/81c9e08c.json)
+
+[Extended Data](ext_articles/81c9e08c.ext.json)
+
+---
+
 ### To the attention of those who have a special need ...
 
 *2024-10-18 17:44:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையோரின்-கவனத்துக்கு/175-345656) · `ta`
@@ -257,6 +353,26 @@ The application must be handed over to the doctor's certificate as he can prove 
 [Data](articles/70cc9e8b.json)
 
 [Extended Data](ext_articles/70cc9e8b.ext.json)
+
+---
+
+### EU ambassador, Sri Lanka PM discuss reforms, trade and investment
+
+*2024-10-18 17:43:00* · [`economynextcom`](https://economynext.com/eu-ambassador-sri-lanka-pm-discuss-reforms-trade-and-investment-184142/) · `en`
+
+ECONOMYNEXT – The European Union’s Ambassador in Sri Lanka Carmen Moreno met with Prime Minister Harini Amasuriya on Friday to discuss bilateral ties.
+
+“Today, our Ambassador paid a courtesy call on Prime Minister Harini Amasuriya @Dr_HariniA. They had a cordial and fruitful exchange on our strong bilateral relations,” The European Delegation said on X.
+
+“They discussed how to work together on some important reforms, #trade and investment, sustainable and inclusive growth, #genderequality and #reconciliation.
+
+“We look forward to working closely with the Prime Minister to strengthen our partnership.” (Colombo/Oct18/2024)
+
+◼️
+
+[Data](articles/8ce958f2.json)
+
+[Extended Data](ext_articles/8ce958f2.ext.json)
 
 ---
 
@@ -516,6 +632,28 @@ Who is Keerthi Suresh, the hero of the story?The film crew has raised the questi
 
 ---
 
+### Sri Lanka rupee closes weaker at 293.00/20 to dollar, bond yields up
+
+*2024-10-18 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-00-20-to-dollar-bond-yields-up-184136/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 293.00/20 to the US dollar Friday from 292.90/293.05 a day earlier, dealers said, while bond yields were slightly up.
+
+A bond maturing on 15.12.2026 closed at 10.55/70 percent, up from 10.50/70 percent.
+
+A bond maturing on 15.12.2027 closed at 11.25/45 percent, from 11.20/35 percent.
+
+A bond maturing on 15.09.2029 closed at 11.90/12.05 percent, up from 11.85/12.05 percent.
+
+A bond maturing on 15.05.2030 closed at 12.10/30 percent. (Colombo/Oct18/2024)
+
+◼️
+
+[Data](articles/ba086ff0.json)
+
+[Extended Data](ext_articles/ba086ff0.ext.json)
+
+---
+
 ### Special notice of income tax
 
 *2024-10-18 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202316) · `si`
@@ -543,6 +681,32 @@ But the annual income or profits should not pay less income taxes and less than 
 [Data](articles/028d1eac.json)
 
 [Extended Data](ext_articles/028d1eac.ext.json)
+
+---
+
+### Sri Lanka stocks close up, turnover at Rs1.9bn
+
+*2024-10-18 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-rs1-9bn-184134/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 0.18 percent, or 22.62 points, at 12,313; while the more liquid S&P SL20 Index closed up 0.26 percent, or 9.41 points, at 3,622.
+
+Turnover was 1.9 billion. The diversified financials sector brought in Rs648mn, while the food, beverage and tobacco counters brought in Rs346mn.
+
+“With the vehicle import ban likely to be reversed, there has been renewed local investor interest in leasing and finance companies,” Softlogic stockbrokers said.
+
+“There is expectation that growth will continue in non-banking finance institutions.”
+
+Crossings were recorded in Dialog Axiata (up at 10.90), LB Finance (up at 73.50), and Janashakthi Insurance (up at 42.70).
+
+“The crossing on LB Finance followed its positive results for 2Q FY2024, with earnings up by over 8 percent.”
+
+...
+
+[Data](articles/8ba9fa86.json)
+
+[Extended Data](ext_articles/8ba9fa86.ext.json)
 
 ---
 
@@ -611,6 +775,24 @@ Assistant Commissioner of Elections, EK Amalraj, was explained on the duties and
 [Data](articles/524cdfea.json)
 
 [Extended Data](ext_articles/524cdfea.ext.json)
+
+---
+
+### Sri Lanka Telecom chief resigns
+
+*2024-10-18 16:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecom-chief-resigns-184128/) · `en`
+
+ECONOMYNEXT – Sri Lanka Telecom Chairman A K D D Arandara has resigned, the company said in a stock exchange filing without giving reasons.
+
+Arandara, an Additional Secretary at the Department of Legal Affairs was appointed Chairman in February.
+
+He joined the public service in 2000 as Senior Assistant Secretary to the Ministry of Justice and Director General of the Consumer Affairs Authority.
+
+◼️
+
+[Data](articles/b3fc6192.json)
+
+[Extended Data](ext_articles/b3fc6192.ext.json)
 
 ---
 
@@ -1062,6 +1244,24 @@ The first place in this program is EMILY NABONG, a student of Sydney University,
 
 ---
 
+### Sri Lanka’s NPP govt must talk to IMF about lowering taxes: Sajith
+
+*2024-10-18 13:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-govt-must-talk-to-imf-about-lowering-taxes-sajith-184126/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s National People’s Power (NPP) government must negotiate lower taxation with the International Monetary Fund (IMF), former opposition leader Sajith Premadasa said.
+
+Speaking at an event, Premadasa said his party the Samagi Jana Balawegaya (SJB) will support the NPP government’s efforts to discuss a new arrangement with the IMF that will see taxes lowered.
+
+“We always told IMF officials that we must enter a new agreement that is more concessional for the public. We campaigned for the presidential election on that foundation. We are watching to see when the present government will commence talks with the IMF again and enter a new agreement that will see the tax burden on the people relieved. We will support such a programme on behalf of the people,” he said.
+
+“This new president and the government have a responsibility to discuss with the IMF and enter a new programme that will reduce the tax burden,” he added.
+
+...
+
+[Data](articles/6fde4943.json)
+
+---
+
 ### Petition filed seeking to postpone General Election polling in Vanni
 
 *2024-10-18 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102778/petition-filed-seeking-to-postpone-general-election-polling-in-vanni) · `en`
@@ -1485,6 +1685,26 @@ In Gaza, 61-year-old Zinwar wednes of Israel killed in a Rapa area of ​​Gaza
 [Data](articles/031ee153.json)
 
 [Extended Data](ext_articles/031ee153.ext.json)
+
+---
+
+### Sri Lanka’s Kotagala Plantations downgraded three steps to CCC(lka) after wage hike
+
+*2024-10-18 11:38:00* · [`economynextcom`](https://economynext.com/sri-lankas-kotagala-plantations-downgraded-three-steps-to-ccclka-after-wage-hike-184121/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has downgraded Sri Lanka’s Kotagala Plantations by three levels to ‘CCC(lka)’ from ‘B+(lka)’ and its listed unsecured debentures four steps to CCC-(lka) after a state driven wage hike.
+
+“We expect the statutory increase in labour costs effective September 2024 to dampen free cash flow (FCF), leading to a high likelihood that Kotagala will amend or extend the terms of its debt facilities as they fall due over the next two years,” Fitch Ratings said.
+
+“We are likely to consider such transactions to be distressed debt-exchanges under our rating criteria, as they would significantly reduce the contract terms and allow the issuer to avoid a probable default.
+
+“This would lead to a downgrade of the National Long-Term Rating to ‘C(lka)’ or ‘RD(lka)’ (restricted default).”
+
+Margins will be hit by depressed plantation yields, due to labour shortages and ageing crops, Fitch said.
+
+...
+
+[Data](articles/d7ea929b.json)
 
 ---
 
@@ -2293,241 +2513,5 @@ Meanwhile, Executive Director of Democratic, Reforms and Elections, Executive Di
 [Data](articles/c42e9bc2.json)
 
 [Extended Data](ext_articles/c42e9bc2.ext.json)
-
----
-
-### Fuel transport train is collided with a herd
-
-*2024-10-18 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202292) · `si`
-
-Train carrying fuel collides with elephant herd near Colombo, Sri Lanka. Four local tanks ruptured, damaging railway line. Several wild elephants killed or injured. Train services suspended between Madakalapuwa and Colombo Fort. Railway department cancels scheduled trains due to incident.
-
-🟩
-
-A train transporting a fuel train from Kolonnawa oil storage terminal has reported an accident.
-
-The accident occurred at around 3.30 this morning at around 3.30 this morning.
-
-It is said that there are four local tanks in the train and have dropped two of them.
-
-එමෙන්ම දුම්රිය එන්ජිම සහ නියාමකවරයා ගමන්කරන මැදිරිය ද පිළිපැනීමට ලක්ව ඇත.
-
-Ada Derana Reports were killed and several other wild elephants were killed and several other wild elephants were severely injured and the railway line was severely damaged by fuel transport oil tanks.
-
-මේ වන විට මඩකලපුව කොළඹ ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනය සම්පූර්ණයෙන් නැවතී ඇති අතර අද උදෑසන කොළඹ කොටුව සිට මඩකලපුව බලා ධාවනය වීමට නියමිතව තිබු දුම්රිය සහ මඩකලපුව සිට කොළඹ කොටුව බලා ධාවනය වීමට නියමිතව තිබු දුම්රියන් දෙක අවලංගු කර කිරීමට දුම්රිය දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
-
-◼️
-
-[Data](articles/23e36e62.json)
-
-[Extended Data](ext_articles/23e36e62.ext.json)
-
----
-
-### Singhagiri and Samsung launch flagship showroom in dazzling display
-
-*2024-10-18 06:57:00* · [`dailyftlk`](https://www.ft.lk/business/Singhagiri-and-Samsung-launch-flagship-showroom-in-dazzling-display/34-768121) · `en`
-
-From left: Singhagiri Director Anusha Marasingha, Samsung Sri Lanka Managing Director SanghWa Song and Singhagiri Plaza Branch Manager Nipun Fernando Opening the new Showroom
-
-On 14 October, the tech world took notice as Samsung Sri Lanka and Singhagiri announced their spectacular flagship showroom at R.A. De Mel Mawatha.
-
-This launch is such a bold statement about the enduring partnership between these two industry giants, which has thrived for over 40 years within Singhagiri’s impressive 52-year legacy. The showroom is packed with cutting-edge technology and home appliances from global brands like Hisense, Candy, HP, Lenovo, Realme, and Oppo, promising a thrilling experience for customers eager to explore the latest innovations.
-
-...
-
-[Data](articles/f0b2a516.json)
-
-[Extended Data](ext_articles/f0b2a516.ext.json)
-
----
-
-### Prime Minister talks with university students
-
-*2024-10-18 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202290) · `si`
-
-Prime Minister Harini Amarasuriya discusses university issues with student unions. Topics include academic concerns and student welfare. Participating organizations: Inter University Students Federation, Rights Council of the Study, SLPA students, and others.
-
-🟩
-
-A discussion between Prime Minister Harini Amarasuriya and student unions have been discussed regarding the problems of university students.
-
-The Prime Ministerial Media Unit said that the studies and student welfare of university students have discussed a number of unlawful problems.
-
-The Inter University Students Federation and the Rights Council of the Study, University Student Union and the SLPA students have participated in the discussion.
-
-The Inter University Bhikkhu Students Federation, Inter University Diploma in the Inter University Diplomatic Folk Federation, Ocean University Students Association, Engineering Faculty of Engineering, the Department of Moratuwa Engineering Faculty Faculty Faculty Faculty Faculty of the Moratuwa Student Association.
-
-◼️
-
-[Data](articles/d4d4403f.json)
-
-[Extended Data](ext_articles/d4d4403f.ext.json)
-
----
-
-### David Pieris Automobiles delivers first set of BAIC X55 II SUVs in Sri Lanka
-
-*2024-10-18 06:54:39* · [`dailyftlk`](https://www.ft.lk/business/David-Pieris-Automobiles-delivers-first-set-of-BAIC-X55-II-SUVs-in-Sri-Lanka/34-768120) · `en`
-
-David Pieris Group of Companies Group Chairman and Managing Director Rohana Dissanayake handing over the key and documents to one of the first set of customers Nawaloka Holdings Chairman Jayantha Dharmadasa. David Pieris Automobiles Director Dhanika de Silva and David Pieris Automobiles Assistant General Manager (Sales and Marketing) Thamali Samarathunga are also present
-
-David Pieris Automobiles Ltd. (DPA) successfully delivered the first set of BAIC X55 II SUVs to its customers.
-
-At an intimate and personalised gathering held at the Beijing Automotive Industry Holding Co., Ltd. (BAIC)showroom in Battaramulla, excited and emotional customers accepted their very own BAIC X55 II SUVs, marking it a significant milestone in Sri Lanka’s automobile landscape.
-
-...
-
-[Data](articles/917b071b.json)
-
-[Extended Data](ext_articles/917b071b.ext.json)
-
----
-
-### David Pieris Solar completes mega project at Ranna
-
-*2024-10-18 06:53:26* · [`dailyftlk`](https://www.ft.lk/business/David-Pieris-Solar-completes-mega-project-at-Ranna/34-768119) · `en`
-
-David Pieris Renewable Energy Ltd. (DPRE) successfully completed yet another major solar energy project at the Manufacturing Complex of David Pieris Motor Company (Lanka) Ltd. (DPMCL) in Ranna, Hambantota District.
-
-The solar installation, with a capacity of 750 kWp and a 620 kW inverter, spans 43,000 square feet at the DPMCL facility. This project underscores DPRE’s ongoing commitment to providing cutting-edge renewable energy solutions for Sri Lanka.
-
-With over 40 years of trust and innovation from the David Pieris Group, David Pieris Renewable Energy is a leader in Sri Lanka’s green energy movement. The company offers on-grid, off-grid, and hybrid solar solutions for households, businesses and corporate/industrial sectors.
-
-The primary objective of the Ranna project is to fulfill DPMCL’s electricity requirement while contributing surplus energy to the national grid. The project is expected to supply 950 MWh of energy to the grid on an annual basis.
-
-...
-
-[Data](articles/536c88ad.json)
-
-[Extended Data](ext_articles/536c88ad.ext.json)
-
----
-
-### Complaint against the False video of the Welikada Prison
-
-*2024-10-18 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202289) · `si`
-
-False video claim: YouTube video shows President inspecting Welikada Prison kitchen on 15th. Prisons Commissioner denies, stating no inspection occurred. He emphasizes proper food distribution process and lack of media presence. Complaint filed with Criminal Investigation Department regarding false content spread.
-
-🟩
-
-Prisons Commissioner Gaminne B. Gaminne B.. Mr. Dissanayake has noted.
-
-The Youtube has circulated a video that the Welikada Prison kitchen was inspected by the President on the 15th.
-
-The Commissioner of Prisons said that this is a false video.
-
-He also said that the Welikada Prison or any other prison has not been investigated in the Welikada Prison or any other prison.
-
-He said that the prison process would be under the supervision of the officials to provide food to residents from the prison process and that the Head of the Institute is supervised.
-
-He said the Superintendent of Prisons would be provided with the food and the prison that the prison was experimenting to the residents.
-
-The Commissioner said that a media institution had not yet been obtained by the Prison Headquarters.
-
-He pointed out that all the news and discussions are not a filmed in the Welikada Prison kitchen or any other prison.
-
-...
-
-[Data](articles/339f6c59.json)
-
-[Extended Data](ext_articles/339f6c59.ext.json)
-
----
-
-### Hamas leader Yahya Sinwar was killed - what happened in the final minutes - BBC
-
-*2024-10-18 06:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196542) · `ta`
-
-Yahya Sinwar killed in Israeli raid. Body found during search for militants. Soldiers isolated him before realizing identity. No hostages found.
-
-🟩
-
-The Israeli military has been searching for Yahya Sinwar, the hidden Sinwar after the October seven attack.
-
-Sinwar, 61, is thought to have lived within the tunnels of the Gaza Valley for the past one year.
-
-However, in the south side of Gaza, he faced an Israeli patrol sect.
-
-Israel reported that the 828th Bislama brigade was on patrol in Raba's Dul al -Sultan on Wednesday.
-
-The Israeli soldiers who identified three militants have attacked and killed them.
-
-When the body of a killed person then searched, it was seen as the body of Yahya Sinwar.
-
-However, the Israeli soldiers who did not completely remove it, fearing that explosives could be found around the body, have only cut off its finger and sent it to Israel.
-
-His body was taken to Israel after the area was found to be safe.
-
-Israeli military spokesman Daniel Hakari said that our soldiers were involved in the operation without knowing that Sinwar was there.
-
-...
-
-[Data](articles/541abd06.json)
-
-[Extended Data](ext_articles/541abd06.ext.json)
-
----
-
-### Several thin showers to several areas
-
-*2024-10-18 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202288) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Northern Province: Several spells of showers. Western, Sabaragamuwa, North Western provinces: Thin showers in Galle, Matara, Kandy, Nuwara Eliya. Evening/night: Showers/thundershowers in Uva, Eastern provinces. Public advised to prepare for strong winds and lightning."
-
-🟩
-
-Several spells of showers may occur in the Northern Province.
-
-The Department released a statement in the Western, Sabaragamuwa and North Western provinces, a few thin showers in Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Showers or thundershowers will occur at several places during the evening or night in the Uva and Eastern provinces.
-
-The Department has requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/16421b73.json)
-
-[Extended Data](ext_articles/16421b73.ext.json)
-
----
-
-### SLID to inspire leaders with first-ever International Director Conference
-
-*2024-10-18 06:12:25* · [`dailyftlk`](https://www.ft.lk/business/SLID-to-inspire-leaders-with-first-ever-International-Director-Conference/34-768112) · `en`
-
-The Sri Lanka Institute of Directors (SLID) is set to host the highly anticipated International Director Conference on 29 October 2024, at the Oak Room, Cinnamon Grand Hotel, Colombo, from 9.00 a.m. to 5 p.m.
-
-The event, which will be held under the theme ‘The Courage To be Bold’, has been curated to inspire business leaders to go above and beyond and lead with confidence in an ever evolving global landscape.
-
-Featuring over 20 foreign and local thought leaders from a variety of industries, this groundbreaking event is geared to offer participants with an opportunity to witness the incredible success stories of many organisations which have excelled in a volatile and challenging landscape. This conference is the first of its kind, providing tools, strategies and inspiration to Directors to steward their companies to a greater future.
-
-...
-
-[Data](articles/74cf2e1c.json)
-
-[Extended Data](ext_articles/74cf2e1c.ext.json)
-
----
-
-### AICPA and CIMA announces Mark Koziel as next CEO
-
-*2024-10-18 06:12:10* · [`dailyftlk`](https://www.ft.lk/business/AICPA-and-CIMA-announces-Mark-Koziel-as-next-CEO/34-768111) · `en`
-
-Following an extensive global search, the Board of Directors of the Association of International Certified Professional Accountants (the Association) has appointed Mark Koziel, CPA, CGMA, as the organisation’s next CEO. Koziel will succeed Barry Melancon, CPA, CGMA, who will retire at the end of 2024.
-
-Koziel is currently President and CEO of Allinial Global, an association of independent accounting and advisory firms with $ 6 billion in collective revenue and 268 member firms worldwide. He will begin the role in January following a handover period.
-
-...
-
-[Data](articles/e811fcea.json)
-
-[Extended Data](ext_articles/e811fcea.ext.json)
 
 ---

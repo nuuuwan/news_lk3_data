@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 11:59:26**
+As of **2024-10-18 12:14:03**
 
 ## Newspaper Stats
 
-*Scraped **50,121** Articles*
+*Scraped **50,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 404
 colombotelegraphcom | 500
 bbccomsinhala | 503
 islandlk | 2,974
-economynextcom | 3,066
+economynextcom | 3,067
 dailyftlk | 3,420
 adalk | 4,657
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,686
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,121 (100.0%) of 50,121 articles have been extended.
+50,122 (100.0%) of 50,122 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -593,6 +593,30 @@ Minister Vijitha Herath said that the report prepared by the committee will be s
 [Data](articles/3a99c101.json)
 
 [Extended Data](ext_articles/3a99c101.ext.json)
+
+---
+
+### Sri Lanka banks build forex balances to US$3.7bn amid crisis, repays debt
+
+*2024-10-18 08:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-build-forex-balances-to-us3-7bn-amid-crisis-repays-debt-184060/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s banks have built 3.7 billion dollars of balances with financial institutions abroad by the second quarter of 2024, rising sharply over a currency crisis, official data shows.
+
+“The Banking sector maintained a considerable amount of FCY (foreign currency) funds with financial institutions abroad for the prudential liquidity risk management,” the central bank said in a financial stability review.
+
+“The Banking sector significantly improved their balances with financial institutions abroad since 2021 to meet their liquidity needs in FCY, in an environment where a FCY liquidity deficit was prevailing in the domestic forex market.”
+
+The balances had peaked at over 4 billion US dollars in the third quarter of 2023 and have since declined.
+
+“FCY borrowings of the Banking sector further declined as many banks have settled their obligations during the period,” the report said.
+
+“FCY borrowings of the Banking sector stood at USD 836 million at end Q2 of 2024.”
+
+...
+
+[Data](articles/4cfd194b.json)
+
+[Extended Data](ext_articles/4cfd194b.ext.json)
 
 ---
 
@@ -2313,23 +2337,5 @@ In this way, candidates of Tamil National Political Parties are actively carryin
 [Data](articles/0bd918d4.json)
 
 [Extended Data](ext_articles/0bd918d4.ext.json)
-
----
-
-### Sajith Premadasa has made opposition politics unwinnable. He had the choice of making an alliance with the UNP but he was so insecure that Ranil Wickremesinghe would somehow wrest control of the Party that he turned  it down.
-
-*2024-10-17 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84914) · `en`
-
-Even those who did not vote for Anura Kumara Dissanayake in the presidential race would find it refreshing to see that the old rot that had infested Sri Lankan politics is being cleared out.
-
-But, look closer;  while some of the old guard may have left politics for good, a good number of others have their names on the national list, which gives, at least the folks in the top quarter of the list, a sure shot at getting into Parliament, without the travails of going before the voters.
-
-Also, a cursory look at the troubles brewing in the SJB would reveal that it is not just the old guard collapsing. It is, in fact, the entire machinery of the political opposition that is actually collapsing.
-
-...
-
-[Data](articles/5a81df49.json)
-
-[Extended Data](ext_articles/5a81df49.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 16:56:51**
+As of **2024-10-18 17:08:44**
 
 ## Newspaper Stats
 
-*Scraped **50,153** Articles*
+*Scraped **50,155** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,067
 dailyftlk | 3,420
 adalk | 4,659
 dailymirrorlk | 4,733
-adaderanalk | 5,941
-tamilmirrorlk | 6,864
+adaderanalk | 5,942
+tamilmirrorlk | 6,865
 virakesarilk | 8,028
 adaderanasinhalalk | 8,697
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 8,697
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,153 (100.0%) of 50,153 articles have been extended.
+50,153 (100.0%) of 50,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### உணவு ஒவ்வாமையால் 21 மாணவர்கள் வைத்தியசாலையில் அனுமதி
+
+*2024-10-18 16:45:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-ஒவ்வாமையால்-21-மாணவர்கள்-வைத்தியசாலையில்-அனுமதி/175-345655) · `ta`
+
+நுவரெலியா - வலப்பனை - படகொல்ல பிரதேசத்தில் உள்ள பாடசாலை ஒன்றில் கல்வி பயிலும் 21 மாணவர்கள், இன்று காலை, திடீர் சுகயீனமடைந்த நிலையில், வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+பாடசாலையில் வழங்கப்பட்ட காலை உணவு ஒவ்வாமை காரணமாகவே, மாணவர்கள் இவ்வாறு சுகயீனமுற்றுள்ளதாக, வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளன.
+
+சுகயீனமுற்ற மாணவர்களின் உடல் நிலைமை கவலைக்கிடமாக இல்லை எனவும் வைத்தியசாலை வட்டாரங்கள்  தெரிவித்துள்ளன.(AN)
+
+◼️
+
+[Data](articles/b8a588d9.json)
+
+---
+
+### Russia tests readiness of nuclear missile unit
+
+*2024-10-18 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102783/russia-tests-readiness-of-nuclear-missile-unit) · `en`
+
+Russia is testing the combat readiness of a unit equipped with Yars intercontinental ballistic missiles in a region northwest of Moscow, news agencies quoted the defence ministry as saying on Friday.
+
+The Yars, which can be deployed in silos or mounted on mobile launchers, has a range of up to 11,000 km (6,835 miles) and is capable of delivering multiple nuclear warheads.
+
+Russia has carried out a series of nuclear drills this year in what security analysts say are signals intended to deter the West from intervening more deeply in the war in Ukraine.
+
+The latest one is taking place in the same week that NATO conducted its annual nuclear exercise and Ukrainian President Volodymyr Zelenskiy unveiled his “victory plan“.
+
+Russian President Vladimir Putin said last month that Moscow had extended the list of scenarios that could prompt it to use nuclear weapons, effectively lowering the threshold for their use. Ukraine accused Moscow of nuclear blackmail.
+
+...
+
+[Data](articles/e42950b9.json)
+
+---
 
 ### New board of directors appointed to Film Corporation and Foundation Institute
 
@@ -2307,75 +2343,5 @@ There are many people who lost their lives in Vanni. They have difficulty with e
 [Data](articles/c2991900.json)
 
 [Extended Data](ext_articles/c2991900.ext.json)
-
----
-
-### Sri Lanka won the West Indies and won by 9 wickets (2 - 1) and made history
-
-*2024-10-17 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196537) · `ta`
-
-Sri Lanka wins West Indies T20 series 2-1, defeating opponents by 9 wickets. History-making victory after previous losses in 2016, 2020, and 2021. Key performances from Nissanka and Kusal Mendis.
-
-🟩
-
-Sri Lanka easily won by 9 wickets with the help of the leading players' cricket match against the West Indies on Thursday (17) at the Rangiri Dambulla International Stadium.
-
-With this victory, Sri Lanka won the three -match international T20 cricket series by 2 - 1.
-
-This is the first time Sri Lanka won the Bilateral International T20 series against the West Indies.
-
-Sri Lanka lost in 2016 and lost in 2020 and 2021.
-
-Sri Lanka won the match for the same match to the West Indies, scoring 166 runs in 18 overs.
-
-Both and Nissanka and Kusal Mendis shared 60 runs off 32 balls.
-
-Beth and Nissanka, who was outrageous of the two, lost 22 balls with 7 pounds and one six.
-
-Initially, Kusal Mendis, who was relaxed, then got a stunning bats and got the runs fast. Kusal Perera also got the fast runs.
-
-They shared 106 runs off 76 balls in the 2nd wicket that were not divided.
-
-Gusal Mendis did not play with 50 balls with 5 pounds and 3 sixes and 55 off 36 balls with 36 balls.
-
-...
-
-[Data](articles/2027046b.json)
-
-[Extended Data](ext_articles/2027046b.ext.json)
-
----
-
-### South Africa has finally entered Australia with the current champion
-
-*2024-10-17 23:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196539) · `ta`
-
-South Africa qualifies for ICC Women's T20 World Cup final after defeating Australia in semi-finals.
-
-🟩
-
-South Africa qualified for the ICC Women's R20 World Cup final in the semi -finals of the Dubai International Cricket Stadium on Thursday night (17).
-
-South Africa lost to Australia on their home soil last year in the Women's T20 World Cup final, winning the United Arab Emirates by 8 wickets.
-
-South Africa won the target of 135 runs for Australia and won by 135 runs in 17.2 overs.
-
-South Africa's success played a key role in the accurate bowling of Ayabonga Kaka, the half -century and the best of Lora Wulward.
-
-Dasmin Britz lost 15 runs when South Africa was bowled out for reply. (25 - 1 wig.)
-
-However, Lorera Wulward Annx Bosh shared 96 runs off 65 balls in the 2nd wicket and helped her team to win.
-
-Lora Wulward lost 42 off 37 balls. (121 - 2 wig.)
-
-Onc Bosh and Glow Troon scored 14 runs that needed the victory.
-
-Annch Bash, who won the match in the match, did not lose 48 balls with 8 fours and 74 runs.. The Clow Troon got a run without losing the game.
-
-...
-
-[Data](articles/d83d453f.json)
-
-[Extended Data](ext_articles/d83d453f.ext.json)
 
 ---

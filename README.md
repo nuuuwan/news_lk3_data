@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 05:44:57**
+As of **2024-10-18 06:09:15**
 
 ## Newspaper Stats
 
-*Scraped **50,055** Articles*
+*Scraped **50,063** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 402
-colombotelegraphcom | 496
+colombotelegraphcom | 497
 bbccomsinhala | 502
-islandlk | 2,964
+islandlk | 2,971
 economynextcom | 3,066
 dailyftlk | 3,412
 adalk | 4,655
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,673
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,055 (100.0%) of 50,055 articles have been extended.
+50,061 (100.0%) of 50,063 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -149,6 +149,84 @@ The meeting, held at the party’s head office in Nelum Mawatha, Colombo, was pa
 [Data](articles/4b44b8ad.json)
 
 [Extended Data](ext_articles/4b44b8ad.ext.json)
+
+---
+
+### ‘The Residencies, Kotte – rapid construction progress’
+
+*2024-10-18 03:27:00* · [`islandlk`](http://island.lk/the-residencies-kotte-rapid-construction-progress/) · `en`
+
+The Residencies, Kotte, by ICC, is progressing at a remarkable pace, with construction on track to be completed by the end of 2025. This ambitious timeline reflects ICC’s unwavering commitment to maintaining its Construction Master Schedule (CMS), ensuring that every phase of the project is executed with precision and efficiency. By adhering to this strict schedule, ICC not only upholds its reputation for construction excellence but also maintains the trust of apartment owners who have invested in this prestigious development.
+
+...
+
+[Data](articles/75a745e8.json)
+
+[Extended Data](ext_articles/75a745e8.ext.json)
+
+---
+
+### ComBank pledges support to BSL project to conserve Kayankerni marine sanctuary
+
+*2024-10-18 03:27:00* · [`islandlk`](http://island.lk/combank-pledges-support-to-bsl-project-to-conserve-kayankerni-marine-sanctuary/) · `en`
+
+The Commercial Bank of Ceylon has joined the ‘Life to Our Coral Reefs’ initiative of the Sri Lanka Business and Biodiversity Platform popularly referred to as Biodiversity Sri Lanka (BSL), pledging the full weight of its support to an effort to conserve the Kayankerni marine sanctuary located between Panichankerni and Kalkuda in the Batticaloa District.
+
+The five-year project to be conducted by BSL under the guidance of the Department of Wildlife Conservation in technical partnership with the Blue Resources Trust (BRT), is intended to enhance the resilience of the coral ecosystem, its capacity for renewal, and the provision of ecosystem services, while contributing to the socio-economic wellbeing and development of local communities.
+
+An area of 953 hectares, the Kayankerni Sanctuary was declared under the Fauna and Flora Protection
+
+Ordinance in 2019, but faces significant challenges, both human-made and natural, jeopardising its long-term survival.
+
+...
+
+[Data](articles/f0632d7e.json)
+
+[Extended Data](ext_articles/f0632d7e.ext.json)
+
+---
+
+### Dialog unveils 16th Annual Sustainability Report
+
+*2024-10-18 03:02:00* · [`islandlk`](http://island.lk/dialog-unveils-16th-annual-sustainability-report/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has published its 16th Annual Sustainability Report, detailing the company’s Environmental, Social, and Governance (ESG) performance for the financial year from January 1, 2023, to December 31, 2023. This report underscores Dialog’s commitment to sustainability and transparency, providing stakeholders with key insights into its initiatives and achievements.
+
+Dialog became the first company in South Asia to comply with the SLFRS S1 and S2 standards in 2023. These localized standards, based on the International Financial Reporting Standards (IFRS) for sustainability disclosures, set benchmarks for corporate transparency in Sri Lanka. SLFRS S1 defines the general requirements for sustainability-related financial disclosures, while S2 mandates climate-specific reporting, aligning with global best practices to enhance accountability in corporate sustainability reporting.
+
+...
+
+[Data](articles/1923edb7.json)
+
+[Extended Data](ext_articles/1923edb7.ext.json)
+
+---
+
+### Exhibition by renowned Street Photographer Tavepong Pratoomwong
+
+*2024-10-18 03:02:00* · [`islandlk`](http://island.lk/exhibition-by-renowned-street-photographer-tavepong-pratoomwong/) · `en`
+
+The Royal Thai embassy in Colombo, in collaboration with the Streets of Colombo (SOC) photography collective, is delighted to host an exhibition by world-renowned street photographer Tavepong Pratoomwong. Titled GOOD DAY BAD DAY BUT EVERYDAY, the exhibition will run from October 20th to the 27th at Siam Nivasa, the Royal Thai Embassy’s multifunctional cultural and exhibition centre in Colombo. This captivating exhibition celebrates the beauty, complexity, and spontaneity of everyday life through the lens of one of the most acclaimed street photographers of our time.
+
+...
+
+[Data](articles/bb4426e6.json)
+
+[Extended Data](ext_articles/bb4426e6.ext.json)
+
+---
+
+### Browns Hotels & Resorts leads mangrove conservation with Exclusive Stamp release
+
+*2024-10-18 02:56:00* · [`islandlk`](http://island.lk/browns-hotels-resorts-leads-mangrove-conservation-with-exclusive-stamp-release/) · `en`
+
+In a significant step towards environmental conservation, Club Hotel Dolphin, Waikkal part of Browns Hotels & Resorts, launched a one-of-a-kind awareness stamp in collaboration with the Postal Department of Sri Lanka, coinciding with World Tourism Day on the 27th of September. This initiative aims to further promote the property’s Nipa Palm Conservation Project launched last month, which focuses on protecting the endangered Nipa Palm (Nypa fruticans) along the Gin Oya riverbanks.
+
+...
+
+[Data](articles/206673fe.json)
+
+[Extended Data](ext_articles/206673fe.ext.json)
 
 ---
 
@@ -2375,119 +2453,5 @@ Shortly after the vaccine, five students were admitted to the Haldota Divisional
 [Data](articles/197b1570.json)
 
 [Extended Data](ext_articles/197b1570.ext.json)
-
----
-
-### Boy killed
-
-*2024-10-17 11:09:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-சிறுவன்-பலி/175-345605) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-14-year-old boy drowns while bathing in ditch with friends in Kotadeniyawa. Police report incident occurred yesterday.
-
-🟩
-
-A 14 -year -old boy who was bathed in a water -filled ditch in Kotadeniyawa area was drowned yesterday, police said.
-
-The deceased has gone to bathe with five friends of the same age.
-
-◼️
-
-[Data](articles/46c1d949.json)
-
-[Extended Data](ext_articles/46c1d949.ext.json)
-
----
-
-### Fisherman's body recovered in Hungama
-
-*2024-10-17 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196480) · `ta`
-
-Fisherman's body found in Kalamettiya, Hungama. Cause of death under investigation.
-
-🟩
-
-The body of a fisherman has been recovered after being floated in the Kalamettiya area of ​​the Hungama Police Division, police said.
-
-The body of the body was fishing in his own boat on Wednesday morning (16).In the meantime, he was recovered in the evening.
-
-மீனவர் உயிரிழந்தமைக்கான காரணத்தை கண்டறிய மேலதிக விசாரணைகளை ஹுங்கம பொலிஸார்  மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/260d588c.json)
-
-[Extended Data](ext_articles/260d588c.ext.json)
-
----
-
-### ”கெஹலியவின் பெயர் நீக்கம்”
-
-*2024-10-17 11:03:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-பெயர்-நீக்கம்/175-345604) · `ta`
-
-"கெஹலியவின் பெயர் நீக்கம்: கொழும்பு, வத்தேகம் கல்வி வலயத்தில் 'கெஹலிய ரம்புக்வெல்ல' பாடசாலை' பெயர் மாற்றம். மாகாண ஆளுநர் அனுமதி. 1996 சுற்றறிக்கை பாடசாலைகளில் பெயர்களை வைப்பதை தடை. இம்யூனோகுளோபுலின் ஊழல் கெஹலிய ஈடுபாடு. பொருத்தமற்ற பெயர் வைப்பது என ஜோசப் ஸ்டாலின் கூறியது."
-
-🟩
-
-கொழும்பு, வத்தேகம கல்வி வலயத்தின் கண்டி, குண்டசாலை பிரிவுக்குட்பட்ட 'கெஹலிய ரம்புக்வெல்ல ஆரம்பப் பாடசாலை' என்ற பெயரை உடனடியாக மாற்றுவதற்கு மத்திய மாகாண ஆளுநர் பேராசிரியர் எஸ்.பி.எஸ்.அபயகோன் நேற்று அனுமதியளித்துள்ளார்.
-
-கண்டியில் உள்ள பாடசாலைகளில் ஊழல் அரசியல்வாதிகளின் பெயர்களை நீக்குமாறு பொதுமக்கள் விடுத்த கோரிக்கையை அடுத்து மாகாண கல்வி திணைக்களத்தின் கட்டமைப்பு குழு இந்த தீர்மானத்தை எடுத்துள்ளது.
-
-இதேவேளை, மினிபே கல்வி வலயமான தெல்தெனிய பிரதேசத்தில் உள்ள பாடசாலைகளின் பெயரை மாற்றவும் ஆளுநர் உத்தரவிட்டுள்ளார்.
-
-முன்னதாக, இலங்கை ஆசிரியர் சங்கத்தின் பொதுச் செயலாளர் ஜோசப் ஸ்டாலின், கல்வி அமைச்சின் 1996 ஆம் ஆண்டு சுற்றறிக்கை உயிருடன் இருக்கும் நபர்களின் பெயரை பாடசாலைகளுக்கு வைப்பதை தடை செய்துள்ளதாக வலியுறுத்தினார்.
-
-சர்ச்சைக்குரிய இம்யூனோகுளோபுலின் கொள்முதல் ஊழலில் கெஹலிய ரம்புக்வெல்ல ஈடுபட்டிருந்த போதிலும், அவரது பெயரை பாடசாலைக்கு வைத்திருப்பது பொருத்தமற்றது என அவர் மேலும் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/5c2fc860.json)
-
-[Extended Data](ext_articles/5c2fc860.ext.json)
-
----
-
-### Five schoolgirls who fell ill after receiving HPV vaccine hospitalized
-
-*2024-10-17 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102752/five-schoolgirls-who-fell-ill-after-receiving-hpv-vaccine-hospitalized-) · `en`
-
-Five 12-year-old schoolgirls have been hospitalized after experiencing adverse reactions following the administration of the Human Papilloma Virus (HPV) vaccine, which is given to prevent cervical cancer, at school.
-
-The affected students, all seventh graders of Venivelpitiya Junior College in Anguruwathota, fell ill shortly after receiving the vaccine, the police said.
-
-A team from the Millaniya Medical Officer of Health (MOH) office had vaccinated 26 female students in the school, but five of them soon displayed symptoms including headaches, abdominal pain, and fainting.
-
-The sick students were initially taken to Haltota Regional Hospital by officers from the Millaniya MOH office, where they received emergency treatment. Subsequently, they have been transferred to Horana District Hospital for further treatment.
-
-According to a hospital spokesperson, the students are currently being treated in Ward No. 6 and are in stable condition.
-
-...
-
-[Data](articles/53961c5c.json)
-
-[Extended Data](ext_articles/53961c5c.ext.json)
-
----
-
-### Chandrika, Ranil, Maithree for ex-Presidentes on the same platform
-
-*2024-10-17 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202264) · `si`
-
-The 45th National Conference of Chartered Targets was held under three presidents yesterday (16).
-
-කොළඹ දී පැවති මෙම සමුළුව සඳහා හිටපු ජනාධිපතිවරුන් වන චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග, මෛත්‍රීපාල සිරිසේන සහ රනිල් වික්‍රමසිංහ යන අය සහභාගී වී සිටියහ.
-
-එම ජාතික සමුළුවේදී හිටපු ජනාධිපතිවරුන් තිදෙනා එකම වේදිකාවක දී ඔවුන්ට ඉදිරිපත් වු ප්‍රශ්නවලට පිළිතුරු ලබාදීම විශේෂත්වයකි.
-
-එහිදි මෙරට දේශපාලන තත්ත්වය සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා මෙසේ අදහස් පළ කළේය.
-
-...
-
-[Data](articles/7b56a35c.json)
-
-[Extended Data](ext_articles/7b56a35c.ext.json)
 
 ---

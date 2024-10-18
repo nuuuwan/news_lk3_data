@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 17:08:44**
+As of **2024-10-18 17:23:29**
 
 ## Newspaper Stats
 
-*Scraped **50,155** Articles*
+*Scraped **50,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,67 @@ dailymirrorlk | 4,733
 adaderanalk | 5,942
 tamilmirrorlk | 6,865
 virakesarilk | 8,028
-adaderanasinhalalk | 8,697
+adaderanasinhalalk | 8,698
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,153 (100.0%) of 50,155 articles have been extended.
+50,156 (100.0%) of 50,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
 
-### உணவு ஒவ்வாமையால் 21 மாணவர்கள் வைத்தியசாலையில் அனுமதி
+### Special notice of income tax
+
+*2024-10-18 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202316) · `si`
+
+Income tax update: Registration deadline Nov 30, 2023. Submit report if no income. Taxpayers increased from 333,313 to 868,009. Annual income threshold Rs. 1,200,000. Visit nearest office for assistance.
+
+🟩
+
+The Inland Revenue Department has issued a statement that the registration has been made to pay taxes on the income of income, although it has been registered for income tax, or the lack of income.
+
+According to the announcement, if there is no income or profit, the department should be submitted to the Department as at 30.11.2011.
+
+Accordingly, the valuation report of the income report of the Inland Revenue Web Site is available on the local revenue website www.i.id.gow.lk
+
+Meanwhile, the Department of Inland Revenue has increased to 868,009 people with taxes for the valuation of 2023/2024 to the registration of taxpayers in 2023 to register taxpayers.
+
+It has also been 333,313 persons to be submitted for the valuation of 2022/2023 before introducing this method.
+
+According to the Inland Revenue Act No. 24 of 2017, more than Rs. 1,200,000, more than Rs.
+
+But the annual income or profits should not pay less income taxes and less than Rs.
+
+...
+
+[Data](articles/028d1eac.json)
+
+[Extended Data](ext_articles/028d1eac.ext.json)
+
+---
+
+### 21 students admitted to hospital due to food allergies
 
 *2024-10-18 16:45:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-ஒவ்வாமையால்-21-மாணவர்கள்-வைத்தியசாலையில்-அனுமதி/175-345655) · `ta`
 
-நுவரெலியா - வலப்பனை - படகொல்ல பிரதேசத்தில் உள்ள பாடசாலை ஒன்றில் கல்வி பயிலும் 21 மாணவர்கள், இன்று காலை, திடீர் சுகயீனமடைந்த நிலையில், வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Nuwara Eliya: 21 students hospitalized after eating school-provided breakfast. Symptoms attributed to food allergies. Students' conditions reported as stable.
 
-பாடசாலையில் வழங்கப்பட்ட காலை உணவு ஒவ்வாமை காரணமாகவே, மாணவர்கள் இவ்வாறு சுகயீனமுற்றுள்ளதாக, வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளன.
+🟩
 
-சுகயீனமுற்ற மாணவர்களின் உடல் நிலைமை கவலைக்கிடமாக இல்லை எனவும் வைத்தியசாலை வட்டாரங்கள்  தெரிவித்துள்ளன.(AN)
+21 students studying in a school in the Nuwara Eliya - Valappanai - Patolla area have been admitted to the hospital this morning.
+
+Students have been sick due to breakfast allergies provided at the school, hospital sources said.
+
+Hospital sources said that the physical condition of the illicit students is not worrisome.
 
 ◼️
 
 [Data](articles/b8a588d9.json)
+
+[Extended Data](ext_articles/b8a588d9.ext.json)
 
 ---
 
@@ -65,6 +101,8 @@ Russian President Vladimir Putin said last month that Moscow had extended the li
 ...
 
 [Data](articles/e42950b9.json)
+
+[Extended Data](ext_articles/e42950b9.ext.json)
 
 ---
 
@@ -2317,31 +2355,5 @@ England win target 297 runs - 2nd in: 36 - 2 wig.
 [Data](articles/7e4b99e2.json)
 
 [Extended Data](ext_articles/7e4b99e2.ext.json)
-
----
-
-### 2024-10-17 (Thursday)
-
-### The purpose is to do business with us - ex -combatants
-
-*2024-10-17 23:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/196540) · `ta`
-
-Ex-combatants and disabled contesting in parliamentary election. Claim politicians use them for personal gain rather than addressing basic needs.
-
-🟩
-
-The Independent Committee of the former militants and the disabled has said that the aim of politicians is to do business with us.
-
-In the upcoming parliamentary election, the independent committee of ex -combatants and alternatives is contesting in the Arikan Imbu symbol.
-
-A media briefing was held in Vavuniya on Thursday (17). They said this while participating in the comment.
-
-There are many people who lost their lives in Vanni. They have difficulty with everyday food. None of these politicians find them as orphans. Their purpose is to do business with us. So directly the victim will understand those things. So we are standing in this election to meet our needs.
-
-◼️
-
-[Data](articles/c2991900.json)
-
-[Extended Data](ext_articles/c2991900.ext.json)
 
 ---

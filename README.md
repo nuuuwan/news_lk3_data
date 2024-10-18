@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 22:13:14**
+As of **2024-10-18 22:40:17**
 
 ## Newspaper Stats
 
-*Scraped **50,198** Articles*
+*Scraped **50,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailyftlk | 3,420
 adalk | 4,661
 dailymirrorlk | 4,733
 adaderanalk | 5,945
-tamilmirrorlk | 6,869
+tamilmirrorlk | 6,870
 virakesarilk | 8,040
-adaderanasinhalalk | 8,705
+adaderanasinhalalk | 8,706
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,198 (100.0%) of 50,198 articles have been extended.
+50,200 (100.0%) of 50,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Names for Hamas's new leadership
+
+*2024-10-18 22:07:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹமாஸின்-புதிய-தலைமைக்கான-பெயர்கள்-பரிந்துரை/50-345672) · `ta`
+
+Hamas new leadership: Ivar's names proposed, election outside Gaza. Khalil Haya likely to lead political action unit.
+
+🟩
+
+International news reports that Ivar's names have been proposed to the new leadership of the Hamas organization.
+
+It is also reported that the Hamas organization will elect a senior leadership outside Gaza.
+
+Accordingly, Khalil Haya, who is responsible for the Hamas's political action unit, is expected to be given leadership responsibility.. (A)
+
+◼️
+
+[Data](articles/a6d48a93.json)
+
+[Extended Data](ext_articles/a6d48a93.ext.json)
+
+---
+
+### Arjuna Herath appointed Chairman of the Board of Investment of Sri Lanka
+
+*2024-10-18 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202324) · `si`
+
+Arjuna Herath named Chairman of Sri Lanka's Board of Investment. Former data protection authority head and stock exchange member. Also served on accounting standards board and securities commission.
+
+🟩
+
+An arjuna Herath, a senior Chartered Accountant, as the new Chairman of the Board of Investment of Sri Lanka, has been appointed as a Senior Chartered Accountant.
+
+Herath is a former chairman of the Sri Lanka Private Data Protection Authority and is a member of the Colombo Stock Exchange.
+
+He has also served as a member of the Sri Lanka Accounts and Auditing Standards Regular Board and a Commissioner of Securities and Exchange Sri Lanka.
+
+Ajuna Herath is a former Chairman of the Institute of Chartered Accountants of Sri Lanka and has also held higher levels of higher rates.
+
+◼️
+
+[Data](articles/6a23ddee.json)
+
+[Extended Data](ext_articles/6a23ddee.ext.json)
+
+---
 
 ### Ministry of Finance announced on imposing special commodities
 
@@ -2459,55 +2505,5 @@ The balances had peaked at over 4 billion US dollars in the third quarter of 202
 [Data](articles/4cfd194b.json)
 
 [Extended Data](ext_articles/4cfd194b.ext.json)
-
----
-
-### A body of a dead person in ZD canal
-
-*2024-10-18 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202296) · `si`
-
-Body found in ZD canal, victim's three-wheeler discovered nearby. Police investigating death in Aralaganwila area.
-
-🟩
-
-The 119 information received by the vehicle has been investigated by a person who was a dead person in Pimbiththewa area in the Aralaganwila police division.
-
-He has left the house from his three-wheeler on the 15th.
-
-The body of the person was found in the ZD in the ZD Canal, which was conducting investigations into a complaint carried out by the Aralaganwila police station.
-
-The victim's three-wheeler has been found in the same canal, about a kilometer from the scene.
-
-The body of the deceased has been placed at the Polonnaruwa hospital morgue and Aralaganwila police are conducting further investigations.
-
-◼️
-
-[Data](articles/4d240129.json)
-
-[Extended Data](ext_articles/4d240129.ext.json)
-
----
-
-### Do floods sell food items?
-
-*2024-10-18 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202295) · `si`
-
-Floods do not typically sell food items. However, during flooding events, there have been cases where unsanitary conditions led to the sale of potentially harmful food products. Health authorities advise consumers to report any suspicious food sales and seek guidance from local public health inspectors.
-
-🟩
-
-The health sector has asked the public to announce the public health check in the area if the flooding foods are sold to customers.
-
-Addressing a media brief held at the Health Promotion Bureau, Director of the Ministry of Health, Medical Health, Occupational Health and Food Protection Protection Unit said that such incidents were reported during the past season.
-
-Meanwhile, Deputy Director General of the Ministry of Health, the Deputy Director General of the Ministry of Health, specialist General of the Ministry of Health, specialist, specialist of the Ministry of Health, specialist, specialist of the Ministry of Health, specializations will take legal action.
-
-"We see in food processing agencies at the smaller level. The best thing is to seek the necessary advice from public health inspector of the area. If the food processing institutions were properly maintained, it was a mistake that could be punished under the Food Act. "
-
-◼️
-
-[Data](articles/ce5809e9.json)
-
-[Extended Data](ext_articles/ce5809e9.ext.json)
 
 ---

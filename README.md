@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 19:23:30**
+As of **2024-10-18 19:39:15**
 
 ## Newspaper Stats
 
-*Scraped **50,174** Articles*
+*Scraped **50,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,420
 adalk | 4,660
 dailymirrorlk | 4,733
 adaderanalk | 5,943
-tamilmirrorlk | 6,866
+tamilmirrorlk | 6,867
 virakesarilk | 8,039
 adaderanasinhalalk | 8,700
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,700
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,171 (100.0%) of 50,174 articles have been extended.
+50,174 (100.0%) of 50,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Put on the poster against the judge
+
+*2024-10-18 19:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிபதிக்கு-எதிராக-சுவரொட்டி-ஒட்டியவர்களுக்கு-மறியல்/175-345657) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Colombo Additional Magistrate Harshana Kekunawala orders suspects in two cases: one involving a Mannar Supreme Court judge and another in Colombo. Both cases are adjourned until the 21st of this month.
+
+🟩
+
+Colombo Additional Magistrate Harshana Kekunawala today ordered the suspects in connection with the alleged incident in Colombo against the Mannar Supreme Court judge and the alleged incident in Colombo till the 21st of this month.. (That)
+
+◼️
+
+[Data](articles/f3195161.json)
+
+[Extended Data](ext_articles/f3195161.ext.json)
+
+---
 
 ### Three -wheeler collides with buses on Wellawaya Road, Perakala
 
@@ -686,23 +708,29 @@ However, even under the management of the Ceylon Electricity Board, Diesel has n
 
 ---
 
-### நகர குடியிருப்பு அபிவிருத்தி அதிகார சபைக்கு புதிய தலைவர் நியமனம்
+### New Chairman appointment to City Residential Development Authority
 
 *2024-10-18 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/196574) · `ta`
 
-நகர குடியிருப்பு அபிவிருத்தி அதிகார சபையின் புதிய தலைவராக அசங்க அபேவர்தன தனது கடமையை பொறுப்பேற்றுக் கொண்டார்.
+New Chairman Asanga Abeywardena appointed City Residential Development Authority. Minister Vijitha Herath names him. Served 30+ years in public service. Director General Vijayananda Herath present.
 
-கிராமிய, நகர அபிவிருத்தி மற்றும் வீடமைப்பு மற்றும் நிர்மாணத்துறை அமைச்சர் விஜித ஹேரத் தனது அமைச்சின் கீழ் உள்ள நகர குடியிருப்பு அபிவிருத்தி அதிகார சபைக்கு (Urbun Settlement  Development Authority) புதிய தலைவரை நியமித்துள்ளார்.
+🟩
 
-அமைச்சரின் பிரத்தியேக செயலாளர் சந்தன பண்டாரவிடமிருந்து நியமனக் கடிதத்தைப் பெற்றுக்கொண்ட புதிய தலைவர் அசங்க அபேவர்தன, தனது அலுவலகத்தில் தனது புதிய பதவியை பொறுப்பேற்றுக் கொண்டார்.
+Asanga Abeywardena took over his duties as the new Chairman of the City Residential Development Authority.
 
-திருகோணமலை மாவட்ட  ஆளுநராகவும், அம்பாறை மாவட்ட மேலதிக ஆளுநராகவும் கடமையாற்றிய அசங்க அபேவர்தன, அரச நிர்வாக சேவையில் வினைத்திறன்மிக்க அதிகாரியாக 30 வருடங்களுக்கு மேலாக பொது சேவைகளுக்காக தன்னை அர்ப்பணித்துள்ளார்.
+Rural, Urban Development and Housing and Construction Minister Vijitha Herath has appointed a new chairman of the Urbun Settlement Development Authority to the Urbun Settlement Development Authority.
 
-நகர குடியிருப்பு அபிவிருத்தி அதிகார சபையின் பணிப்பாளர் நாயகம் விஜயானந்த ஹேரத் மற்றும் அந்த நிறுவனத்தின் சிரேஷ்ட அதிகாரிகள் குழுவினரும் இந் நிகழ்வில் கலந்துகொண்டனர்.
+The new leader Asanga Abeywardena, who received a letter from the minister's exclusive secretary, Chandana Bandara, took over his new post in his office.
+
+Asanga Abeywardena, who has served as the Governor of the Trincomalee District and the Additional Governor of the Ampara District, has devoted himself to public services for more than 30 years as a rewarding officer in the public administration.
+
+Director General of the City Residential Development Authority Vijayananda Herath and a team of senior officials of the company were also present at the event.
 
 ◼️
 
 [Data](articles/4ef97e84.json)
+
+[Extended Data](ext_articles/4ef97e84.ext.json)
 
 ---
 
@@ -1009,6 +1037,8 @@ He has been appointed by the Minister of Rural, Urban Development and Housing an
 ...
 
 [Data](articles/21f0e7b5.json)
+
+[Extended Data](ext_articles/21f0e7b5.ext.json)
 
 ---
 
@@ -2457,25 +2487,5 @@ President Anura Kumara Dissanayake frequently emphasised during his election cam
 [Data](articles/d945149c.json)
 
 [Extended Data](ext_articles/d945149c.ext.json)
-
----
-
-### Govt. will release Easter Sunday reports at appropriate time – Minister Vijitha Herath
-
-*2024-10-18 04:19:03* · [`dailyftlk`](https://www.ft.lk/news/Govt-will-release-Easter-Sunday-reports-at-appropriate-time-Minister-Vijitha-Herath/56-768100) · `en`
-
-Emphasises Govt. decision to publish reports would not be influenced by external pressures or threats
-
-Likens Gammanpila’s actions to “small children slamming toys for attention”; claims he is unbothered by his statements
-
-Cabinet Minister Vijitha Herath yesterday said the Government will release the reports related to the 2019 Easter Sunday terror attacks at an appropriate time, dismissing the demands and threats from former MP Udaya Gammanpila.
-
-Speaking to the media in Gampaha, Herath reiterated that the Government, as a responsible body, would not be swayed by external pressures but would carry out its duties properly.
-
-...
-
-[Data](articles/2ec9c64b.json)
-
-[Extended Data](ext_articles/2ec9c64b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 12:25:18**
+As of **2024-10-18 12:57:51**
 
 ## Newspaper Stats
 
-*Scraped **50,123** Articles*
+*Scraped **50,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,153 @@ dailyftlk | 3,420
 adalk | 4,658
 dailymirrorlk | 4,733
 adaderanalk | 5,936
-tamilmirrorlk | 6,856
+tamilmirrorlk | 6,858
 virakesarilk | 8,023
-adaderanasinhalalk | 8,686
+adaderanasinhalalk | 8,689
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,123 (100.0%) of 50,123 articles have been extended.
+50,128 (100.0%) of 50,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Student killed in accident
+
+*2024-10-18 12:26:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-மாணவன்-பலி/175-345647) · `ta`
+
+School student killed in motorcycle crash near Naula Electricity Board. Carriage hit bike, victim died later at hospital. Driver arrested.
+
+🟩
+
+A school student was killed in a motorcycle accident that took place yesterday morning (17) in front of the Naula Electricity Board.
+
+While the student was traveling on a motorcycle, the carriage of the car crashed into the motorcycle.
+
+இதில் காயமடைந்த மாணவன், நாலந்தா வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளதாக, நாவுல பொலிஸார் தெரிவித்தனர்.
+
+A student of Premoth Sathsara, a resident of Naula-Penalapoda, has died.
+
+The driver of the car, Hasalakka, is 46 -year -old from Pombalwa area and the suspect has been arrested by Naula police.. (That)
+
+◼️
+
+[Data](articles/4d952788.json)
+
+[Extended Data](ext_articles/4d952788.ext.json)
+
+---
+
+### Elpitiya Postal Voting End
+
+*2024-10-18 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202305) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Last day for Elpitiya Pradeshiya Sabha postal voting. Voters unable to cast ballots at workplaces can vote today at district offices."
+
+🟩
+
+The last day of postal voting is held today (18) regarding the Elpitiya Pradeshiya Sabha.
+
+Elections Commissioner Saman Sri Ratnayake said that voters that could not use postal votes have been made today.
+
+Accordingly, all postal voters unable to vote on their workplace were given the opportunity to vote in front of the district of the district.
+
+◼️
+
+[Data](articles/ec25c393.json)
+
+[Extended Data](ext_articles/ec25c393.ext.json)
+
+---
+
+### Recovery of cell phones from the prison
+
+*2024-10-18 12:09:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைக்குள்-இருந்து-அலைபேசிகள்-மீட்பு/175-345646) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Three mobile phones and a SIM card discovered hidden in a prison wall. Authorities investigating possible contraband smuggling."
+
+🟩
+
+Prison officials have found three mobile phones and SIM card from the wall of a ward of the Akunagolabalasa prison.
+
+◼️
+
+[Data](articles/35b0497b.json)
+
+[Extended Data](ext_articles/35b0497b.ext.json)
+
+---
+
+### Petition to the Supreme Court against denies a nomination panel
+
+*2024-10-18 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202304) · `si`
+
+Supreme Court petition challenges rejection of nomination papers in Vanni district for general election. Petitioners seek reversal of decision and interim injunction.
+
+🟩
+
+A petition was filed against the Supreme Court against the rejection of a nomination papers in the Vanni district, presented for the next general election.
+
+The petition has been presented to the Supreme Court demanding the authority of the District Returning decision to reject the nomination papers taken by the Democratic National Alliance for the Vanni District.
+
+The petition was presented by the Pararajasangam Udaya Raza and two other candidates in the party.
+
+The Chairman of the Elections and Members of the Electors, including the Electors of the Election Commission, including the Vanni District Returning Officer.
+
+The District Referral Officer has taken the decision to reject his nomination papers while all the documents have been submitted in a proper presence and that the petition has been filed asking for a force embarking writ.
+
+...
+
+[Data](articles/d222bd65.json)
+
+[Extended Data](ext_articles/d222bd65.ext.json)
+
+---
+
+### සින්වාර් ඝාතනය - හිස්බුල්ලා සංවිධානයෙන් තර්ජනාත්මක ප්‍රතිචාරයක්
+
+*2024-10-18 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202303) · `si`
+
+Hezbollah responds to Sinwar's killing, threatens attacks on Israel. Iran denies aid reduction due to Sinwar's death. Foreign media suggests renewed peace talks to address ongoing conflict.
+
+🟩
+
+The Hezbollah Organization of Lebanona has responded today to the killing of the Palestinian Hamas captain.
+
+They say that the conflicts with Israel can cause a new approach and more.
+
+ඊශ්‍රායලයට එරෙහි ප්‍රහාර තවත් දැඩි කරන බවට ද හිස්බුල්ලා සංවිධානය අනතුරු අඟවයි.
+
+On October 7, 2023, was identified as the chief person who was planning to the attack on several areas of Israel.
+
+එම ප්‍රහාරය දැනට පවතින ගාසා යුද්ධයට හේතුවිය. The number of Palestinians who have died is over 42,000.
+
+In Gaza, 61-year-old Zinwar wednes of Israel killed in a Rapa area of ​​Gaza.
+
+ඔහු මියයෑමට මොහොතකට පෙර ඊශ්‍රායලයේ ඩ්‍රෝන යානයක් ඔහු අසලටම යන අයුරු දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍යයේ සංසරණය වෙයි.
+
+මේ අතර හිස්බුල්ලා සහ හමාස් සංවිධාන සඳහා ප්‍රසිද්ධියේ සහාය දක්වන ඉරානය පවසා ඇත්තේ මෙම ඝාතනය නිසා ඔවුන් ලබාදෙන සහාය අඩු නොකරන බවයි.
+
+කෙසේවෙතත් විදෙස් මාධ්‍ය පවසන්නේ සින්වාර් ගේ ඝාතනය හේතුවෙන් දැනට ඇනහිට ඇති ගැටුම් වැලැක්වීම සඳහා වූ සාකච්ඡා නැවත ආරම්භ කිරීමට මාර්ගයක් පාදනු ඇති බවයි.
+
+◼️
+
+[Data](articles/031ee153.json)
+
+[Extended Data](ext_articles/031ee153.ext.json)
+
+---
 
 ### Egg traders urge govt to implement pricing formula
 
@@ -2219,121 +2353,5 @@ West Indies captain Roman Powell decided to bat first, winning the toss of the m
 [Data](articles/639e188f.json)
 
 [Extended Data](ext_articles/639e188f.ext.json)
-
----
-
-### Coin's advantage. West Indies
-
-*2024-10-17 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202279) · `si`
-
-West Indies wins T20 match in Dambulla. Bats first against Sri Lanka. Series tied 1-1 after three games.
-
-🟩
-
-Sri Lanka and Tourism. West Indies won the Advantage of the Twenty20 Competition of Twenty20 Competition in Dambulla.. West Indies decided to bat first.
-
-Both teams have been in the face of 1-1 matches with three matches with three matches.
-
-◼️
-
-[Data](articles/d786e938.json)
-
-[Extended Data](ext_articles/d786e938.ext.json)
-
----
-
-### The National People's Power does not understand the true aspirations of the Northeastern Tamils ​​- Rilvin Silva's opinion shows this - representatives of Tamil national political parties
-
-*2024-10-17 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/196525) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan Tamil leaders criticize National People's Power for misunderstanding Northeastern Tamil aspirations. They argue the party focuses solely on 13th Constitutional Amendment instead of addressing core issues. Political candidates debate implementation of new constitution and federal solutions.
-
-🟩
-
-Recent comments by the General Secretary of the People's Liberation Front, Dilvin Silva, have urged the representatives of the Tamil national political parties that they still do not know what the true aspirations of the Tamil people of the North and East Tamil people are.
-
-Commenting on a recent interview with a private television channel Dilvin Silva, General Secretary of the Janatha Vimukthi Peramuna, said, “The 13th Amendment to the Constitution is not a solution to all problems.
-
-Tamil politicians do not talk about the basic issues of the Northern people. Instead, they will only talk about the 13th Amendment of the Constitution and the devolution of power. However, we will provide a proper solution to the basic problems in the North. ”
-
-Dilvin Silva's comment was that the Sri Lankan Tamil state's general election candidate MA Sumanthiran, who criticized Dilvin Silva's comment on what the North and East Tamil people did not know, "said MA Sumanthiran.
-
-...
-
-[Data](articles/da056d9c.json)
-
-[Extended Data](ext_articles/da056d9c.ext.json)
-
----
-
-### “Comrade”Anura Began Historic Journey After Becoming  the Fifth  Leader  of JVP  in 2014.
-
-*2024-10-17 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84899) · `en`
-
-Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka-PART three
-
-The year was 1969.  A 31 year old mother sought the services of a prominent astrologer to draw up the horoscope of her six month old son. The astrologer made some calculations based on planetary movements that prevailed at the time of the boy’s birth the previous year. He looked up with amazement and told the mother “your son has a “Rajayoga” in his destiny. He is born to rule. One day he will rule this country”.The mother was pleased but puzzled. She  was from a low-income farming family.How could my son be a ruler? She wondered.
-
-...
-
-[Data](articles/19c2757d.json)
-
-[Extended Data](ext_articles/19c2757d.ext.json)
-
----
-
-### No one can prevent the success of the Tamil Progressive Alliance - Thikambaram
-
-*2024-10-17 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196526) · `ta`
-
-Tamil Progressive Alliance confident of victory in Nuwara Eliya district. Leader Palani Thikambaram says no one can stop their success. Emphasizes experience and service record. Calls for voters to choose familiar candidates who have served the people.
-
-🟩
-
-It's been 20 years since I got into politics. It has been 30 years since Radhakrishnan came into politics. People know the services we have done so far. Palani Thikambaram, the leader of the National Union of Workers and a former Member of Parliament and the Nuwara Eliya district candidate of the United People's Power, said that no one can prevent our victory.
-
-Digambaram said this while the election campaign meeting of the Tamil Progressive Alliance was held at the Attan Golden Mahal Hall.
-
-He continued to speak at a meeting attended by Radhakrishnan and M Udayakumar, candidates of the Tamil Progressive Alliance.
-
-The upcoming parliamentary election is important. Many independent groups have taken to the field to reduce Tamil representation in Nuwara Eliya district. Similarly, all those who are not introduced to the people are candidates in political parties.
-
-...
-
-[Data](articles/c6716d97.json)
-
-[Extended Data](ext_articles/c6716d97.ext.json)
-
----
-
-### Taxes in several imported merchandise increases
-
-*2024-10-17 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202278) · `si`
-
-Sri Lanka: Government raises import taxes on goods. New commerce tax from Oct 14-Dec 31. 25c/kg tax on certain items. Special commodity tax hike. 10% increase on fish products.
-
-🟩
-
-The government has taken steps to increase taxes for several imported merchandise.
-
-It is said that President Anura Kumara Dissanayake has increased the taxes.
-
-The new commerce tax on October 14 to December 31st.
-
-Accordingly, a tax of 25 cents and 25 cents have been paid to a kilogram of Rs.
-
-It also raised a special commodity tax of Rs.
-
-Taxes have also been imposed as a 10% increase in new or more than 10% or Rs. 400 for new or frozen fish, except for the meat of thorns and other fish.
-
-◼️
-
-[Data](articles/ffafe103.json)
-
-[Extended Data](ext_articles/ffafe103.ext.json)
 
 ---

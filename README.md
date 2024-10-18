@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 20:11:37**
+As of **2024-10-18 20:23:30**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 8,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,179 (100.0%) of 50,180 articles have been extended.
+50,180 (100.0%) of 50,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
 
-### එඩිතර විපක්ෂයක් ගැන කියන දිලිත්
+### Dilith about a courageous opposition
 
 *2024-10-18 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202322) · `si`
 
-පාලන බලයේ සිටින ආණ්ඩුව නිවැරදි මාර්ගයක ගෙන යා හැක්කේ එඩිතර විපක්ෂයකට පමණක් බව සර්වජන බලයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera: Government needs strong opposition to stay on track. Weak opposition only supports government actions. Propose giving government power but reject harmful proposals affecting national identity.
 
-එම පක්ෂ මූලස්ථානයේ අද (18) පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් ඔහු මේ බව ප්‍රකාශ කළේය.
+🟩
 
-"එඩිතර විපක්ෂයකට පමණයි පාලන බලයේ ඉන්න ආණ්ඩුව නිවැරදි මාර්ගයේ යවන්න පුළුවන්. දුබල විපක්ෂයක් ආවොත් ආණ්ඩුව කරන ඕන දේකට අත උස්සල නිකන් ඉන්නවා.
+The monoporative entrepreneur, Dilith Jayaweera, said that the government in the control could carry the government on the right route.
 
-අපට අවශ්‍යයි බලයට පත්වෙලා ඉන්න ආණ්ඩුවට අවස්ථාවක් දෙන්න. ඒක තමයි අපේ අවංක උත්සාහය. නමුත් ඔවුන් යෝජනා කරලා තියෙනවා ඔවුන්ගේ වැඩපිළිවෙළේම අපේ රටේ ඒකීයභාවයට හා අපේ ජාතිකත්වයට බලපෑම්කරන යෝජනාවලියක්. අපි කිසිසේත්ම සූදානම් නැහැ ඒ යෝජනාවලියේ තිබෙන දේවල්වලට එකඟ වෙන්න."
+He was speaking at a press conference held at the party headquarters today.
+
+"The government in the right track can send the right path to a courageous opposition. If a weak opposition comes, you're just waging the hand for what the government does.
+
+We need to give the government a chance to be powerful. That's our honest effort. But they have proposed a proposal to impact our nationality and our nationality. We are not ready to agree with what is in that proposal. "
 
 ◼️
 
 [Data](articles/6ee560e8.json)
+
+[Extended Data](ext_articles/6ee560e8.ext.json)
 
 ---
 

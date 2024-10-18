@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 17:40:56**
+As of **2024-10-18 18:00:30**
 
 ## Newspaper Stats
 
-*Scraped **50,157** Articles*
+*Scraped **50,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,78 @@ bbccomsinhala | 503
 islandlk | 2,974
 economynextcom | 3,067
 dailyftlk | 3,420
-adalk | 4,659
+adalk | 4,660
 dailymirrorlk | 4,733
 adaderanalk | 5,942
 tamilmirrorlk | 6,865
 virakesarilk | 8,028
-adaderanasinhalalk | 8,699
+adaderanasinhalalk | 8,700
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,156 (100.0%) of 50,157 articles have been extended.
+50,159 (100.0%) of 50,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
 
-### මියගිය ඌරන්ගේ සිරුරු තැන තැන
+### Notice of obtaining vehicle revenue license
+
+*2024-10-18 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202318) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Minister Vijitha Herath instructs linking Western Province with other provinces. Ministry of Ports and Civil Aviation issues statement about lack of provincial inter-income license. Vehicle owners in Western Province registered elsewhere. Minister advises Western Province Governor and relevant divisions to act quickly.
+
+🟩
+
+Minister Vijitha Herath has instructed the relevant officials to link the Western Province with the Western Province with other provinces.
+
+The Ministry of Ports and Civil Aviation has issued a statement.
+
+The statement states that there is no provincial inter-income license to obtain an provincial interconnection, but it has not been implemented in the Western Province, the essential province.
+
+The statement states that the vehicle owner of a vehicle owner in the Western Province is registered in another province.
+
+The Western Province, Minister Vijitha Herath has advised the Western Province Governor of the Western Province and advising the relevant divisions as soon as possible.
+
+◼️
+
+[Data](articles/7f089050.json)
+
+[Extended Data](ext_articles/7f089050.ext.json)
+
+---
+
+### Where the bodies of the dead pigs place
 
 *2024-10-18 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202317) · `si`
 
-මියගිය ඌරන්ගේ සිරුරු රැසක් කිසියම් පිරිසක් ජා-ඇළ දඬුගම ප්‍රදේශයේ ඇළ මාර්ගවලට දමායාම හේතුවෙන් ප්‍රදේශවාසීන් දැඩි අපහසුතාවකට මුහුණ දී සිටී.
+Dead pigs found in canal near Ja-Ela, Sri Lanka. Residents blame virus from local farms. Authorities ban unlicensed pigs. Farm owners claim animals die within two days.
 
-ඌරු ගොවිපොළවල පැතිරෙන වෛරසයක් නිසා මියයන ඌරන් මෙලෙස ගෙනැවිත් දමන්නට ඇති බවට ජනතාව චෝදනා කරති.
+🟩
 
-මේ අතර මෙම වෛරස් රෝගය සැලකිල්ලට ගෙන, පශු වෛද්‍ය සහතිකයක් නොමැතිව දිස්ත්‍රික්ක අතර ඌරන් ප්‍රවාහනය තහනම් කිරීමට බලධාරීන් පියවර ගෙන තිබේ.
+A number of bodies of dead pigs are undergoing the canals in the Ja-Ela Daddugama, due to the residents of the area.
 
-සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුවේ අධ්‍යක්ෂිකා හේමාලි කොතලාවල මහත්මිය මේ  බව සඳහන් කළාය.
+People allege that the pigs die due to a virus that is dying due to a virus in pig farms.
 
-බස්නාහිර, වයඹ සහ උතුරු මැද පළාත්වල ඌරු ගොවිපොළ ආශ්‍රිතව මේ දිනවල පැතිර යන වෛරසයක් නිසා ඌරන් විශාල ලෙස මියයාමට පටන් ගෙන ඇත.
+Meanwhile, authorities have taken steps to prohibit the pigs among the districts without veterinary certificates.
 
-ගොවිපොළ හිමිකරුවන් පවසන්නේ, රෝගය වැලඳී දින දෙකක් තුළ සතුන් මියයන බවය.
+He was Ms. Hemali Kotalawala, Director of the Department of Animal Production and Health.
+
+The pigs have begun to die largely due to a vision of the pig farm in the pig farm of the Western, North Western and North Central Provinces.
+
+Farm owners say that animals die in two days.
 
 ◼️
 
 [Data](articles/937b5443.json)
+
+[Extended Data](ext_articles/937b5443.ext.json)
 
 ---
 
@@ -611,6 +647,26 @@ He has been appointed by the Minister of Rural, Urban Development and Housing an
 [Data](articles/462b4979.json)
 
 [Extended Data](ext_articles/462b4979.ext.json)
+
+---
+
+### Tourist arrivals exceed 15 lakhs
+
+*2024-10-18 13:00:32* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-පැමිණීම-ලක්ෂ-15-ඉක්මවයි/11-412555) · `si`
+
+Sri Lanka tourist arrivals exceed 1.5 million in 2023, surpassing previous record of 550,000.
+
+🟩
+
+Tourist arrivals to Sri Lanka this year have exceeded Rs. At the 13th of this month, tourists arriving in Sri Lanka is 1 540 161.
+
+The number of tourist arrivals to Sri Lanka was 55 353 in Sri Lanka.
+
+◼️
+
+[Data](articles/9433d366.json)
+
+[Extended Data](ext_articles/9433d366.ext.json)
 
 ---
 
@@ -2301,45 +2357,5 @@ The fact that having secured the victory at the presidential election, the same 
 [Data](articles/dfb44139.json)
 
 [Extended Data](ext_articles/dfb44139.ext.json)
-
----
-
-### தபால் மூல வாக்களிப்புக்கு 750,000 விண்ணப்பங்கள்
-
-*2024-10-18 00:49:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூல-வாக்களிப்புக்கு-750-000-விண்ணப்பங்கள்/175-345634) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"750,000 postal vote applications received for general election. Voter list finalized. Postal polling begins on 23rd."
-
-🟩
-
-750,000 postal applications have been received for voting in the upcoming general election, the Elections Commission said.
-
-The voter list for postal voters in the general election took place yesterday.
-
-In addition, postal polling will be handed over to the postal work on the 23rd of this month.. (A)
-
-◼️
-
-[Data](articles/649d673f.json)
-
-[Extended Data](ext_articles/649d673f.ext.json)
-
----
-
-### Aftermath Of AKD Victory – What Is In Store
-
-*2024-10-18 00:20:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/aftermath-of-akd-victory-what-is-in-store/) · `en`
-
-First action he is to take, is to dissolve parliament and call for fresh elections. During this period from dissolution to summoning new parliament, country would be ruled by an interim government, which will be constituted by members of the existing parliament. JVP has only five members including the newly nominated one, and therefore needs others to join. There will not be much problem as there are number of Muslim MPs who are ready to somersault, and opportunistic MPs like Sumanthiran, Devananda and some Sinhala MPs will give them support. Another problem to be faced is to get many NPP members elected at the next hustings. After proportional representation was introduced, no faction was able to secure two-thirds majority, and NPP cannot expect any better result than that. Once settled, let us analyse how they would perform in meeting their promises to the people.
-
-...
-
-[Data](articles/658a1c3c.json)
-
-[Extended Data](ext_articles/658a1c3c.ext.json)
 
 ---

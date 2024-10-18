@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 12:14:03**
+As of **2024-10-18 12:25:18**
 
 ## Newspaper Stats
 
-*Scraped **50,122** Articles*
+*Scraped **50,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 503
 islandlk | 2,974
 economynextcom | 3,067
 dailyftlk | 3,420
-adalk | 4,657
+adalk | 4,658
 dailymirrorlk | 4,733
 adaderanalk | 5,936
 tamilmirrorlk | 6,856
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,686
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,122 (100.0%) of 50,122 articles have been extended.
+50,123 (100.0%) of 50,123 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -225,6 +225,30 @@ Avoid clicking on any links in these messages and sharing these links with other
 [Data](articles/7740eb77.json)
 
 [Extended Data](ext_articles/7740eb77.ext.json)
+
+---
+
+### 1990 සිට හමාස් නායකයන් ඝාතනය කළ ඊශ්‍රායෙලය
+
+*2024-10-18 09:31:17* · [`adalk`](https://www.ada.lk/breaking_news/1990-සිට-හමාස්-නායකයන්-ඝාතනය-කළ-ඊශ්‍රායෙලය/11-412553) · `si`
+
+Here's a 200-character summary:
+
+
+
+Hamas leaders assassinated in Israel since 1990. Yehya Shinwar killed by Israeli security forces. His assassination seen as major victory against Hamas recently reported internationally.
+
+🟩
+
+හමාස් සංවිධානයේ නායක යහ්යා ශින්වාර් ඊශ්‍රායෙලයේ ආරක්ෂක අංශ විසින් ඝාතනය කර තිබේ. ශින්වාර්ගේ ඝාතනය හමාස් සංවිධානයට එරෙහිව ඊශ්‍රායෙලය මෑතකදී ලබාගත් විශාල ජයග්‍රහණයක් බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+මේ අනුව 1990 දශකයේ සිටම හමාස් සංවිධානය විසින් නම් කරනු ලබන සියලුම නායකයන් ඊශ්‍රායෙලය විසින් ඝාතනය කර තිබේ.
+
+◼️
+
+[Data](articles/2ab4278e.json)
+
+[Extended Data](ext_articles/2ab4278e.ext.json)
 
 ---
 
@@ -2311,31 +2335,5 @@ Taxes have also been imposed as a 10% increase in new or more than 10% or Rs. 40
 [Data](articles/ffafe103.json)
 
 [Extended Data](ext_articles/ffafe103.ext.json)
-
----
-
-### We will win seats without less than 15
-
-*2024-10-17 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196529) · `ta`
-
-Tamil parties confident of winning seats in North and East. TNA expects 6-8 seats, Tamil National People's Front aims for 10+. Sumanthiran predicts over 15 seats for his party. Campaigns underway as election nears.
-
-🟩
-
-The party's candidate MA Sumanthiran has expressed confidence that the Tamil state party, which is contesting the house symbol in the upcoming general election, can win seats in the North and Eastern Provinces.
-
-Meanwhile, Dharmalingam Siddharthan, candidate of the Democratic Tamil National Alliance (TNA), says that their alliance is expected to win a total of 6 - 8 seats in both provinces.
-
-Similarly, the Tamil National People's Front candidate Gajendrakumar Ponnambalam said that the party is expecting to get seats that are not less than 10 in this election.
-
-As the control of the general election and the nomination papers ended last week, political parties are now carrying out their election campaigns nationwide.
-
-In this way, candidates of Tamil National Political Parties are actively carrying out their election campaign in the North and Eastern Provinces.
-
-...
-
-[Data](articles/0bd918d4.json)
-
-[Extended Data](ext_articles/0bd918d4.ext.json)
 
 ---

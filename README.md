@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 13:39:53**
+As of **2024-10-18 13:59:03**
 
 ## Newspaper Stats
 
-*Scraped **50,135** Articles*
+*Scraped **50,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 503
 islandlk | 2,974
 economynextcom | 3,067
 dailyftlk | 3,420
-adalk | 4,658
+adalk | 4,659
 dailymirrorlk | 4,733
 adaderanalk | 5,936
 tamilmirrorlk | 6,859
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,135 (100.0%) of 50,135 articles have been extended.
+50,136 (100.0%) of 50,136 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -272,6 +272,36 @@ Deputy Inspector General of Police Sujith Wedamulla, Senior Superintendent of Po
 
 ---
 
+### The oil train derails the wild elephant's conflict
+
+*2024-10-18 11:38:58* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලින්ගේ-ගැටුණ-තෙල්-කෝච්චිය-පීලි-පනියි/11-412554) · `si`
+
+Oil train derails near Minneriya, Sri Lanka. Train carrying fuel from Colombo to Batticaloa crashes at 4:00 AM. Diesel and petrol tanks spill. No injuries reported. Elephant herd affected. Police investigation ongoing.
+
+🟩
+
+A train carrying fuel from Colombo to Batticaloa on the 18th, Minneriya Police say that the trains were killed in the middle railway station at around 4,00 am.
+
+While the trains were contained in tanks, and the diesel and three tanks were found in the four tanks.
+
+The Minneriya Police are investigating that two petrol tanks roll over and the oil goes on.
+
+According to the Chief Inspector Duminda Fernando, Chief Inspector Duminda Fernando said that the driver of the train had been traveled and no injuries had been injured and disaster.
+
+Galoya, Batticaloa Railway Transport has been completely blocked due to the train derailment and a special team of Minneriya and Habarana Police have been deployed to protect the location.
+
+The Minneriya Wildlife Officers say that another elephant is seriously injured in a herd of a herd.
+
+A police officer, including the Chief Inspector Duminda Fernando, is conducting further investigations.
+
+◼️
+
+[Data](articles/82fe4340.json)
+
+[Extended Data](ext_articles/82fe4340.ext.json)
+
+---
+
 ### සින්වාර් ඝාතනය - හිස්බුල්ලා සංවිධානයෙන් තර්ජනාත්මක ප්‍රතිචාරයක්
 
 *2024-10-18 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202303) · `si`
@@ -482,6 +512,32 @@ The All Ceylon Lagoon Trade Association Secretary Anura Marasinghe said that a c
 
 ---
 
+### 2 wild elephants killedThe train service is delayed
+
+*2024-10-18 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196544) · `ta`
+
+Wild elephants crash train near Batticaloa, killing 2, delaying services.
+
+🟩
+
+A wild elephant crowd crashed into a train carrying fuel from Kolonnawa oil storage to Batticaloa.
+
+The accident occurred at around 3.30 am today (18) at the Kaloya -Hingurgodai railway stations.
+
+Two wild elephants died in the accident and many wild elephants were severely injured.
+
+Four fuel tanks of the train have been blocked and two fuel tanks have been overcome. In addition, the train's driver and controller travelers are also interrupted.
+
+Meanwhile, the Railway Department has taken steps to cancel the train service from Colombo Fort to Batticaloa and Batticaloa to Colombo this morning.
+
+◼️
+
+[Data](articles/1a21c2e1.json)
+
+[Extended Data](ext_articles/1a21c2e1.ext.json)
+
+---
+
 ### 2024 General Election: Candidates advised to appoint financial managers
 
 *2024-10-18 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102772/2024-general-election-candidates-advised-to-appoint-financial-managers) · `en`
@@ -597,32 +653,6 @@ The suspect has been handed over to the Moragoda Police for further investigatio
 [Data](articles/35fcfd79.json)
 
 [Extended Data](ext_articles/35fcfd79.ext.json)
-
----
-
-### 2 wild elephants killedThe train service is delayed
-
-*2024-10-18 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/196544) · `ta`
-
-Wild elephants crash train near Batticaloa, killing 2, delaying services.
-
-🟩
-
-A wild elephant crowd crashed into a train carrying fuel from Kolonnawa oil storage to Batticaloa.
-
-The accident occurred at around 3.30 am today (18) at the Kaloya -Hingurgodai railway stations.
-
-Two wild elephants died in the accident and many wild elephants were severely injured.
-
-Four fuel tanks of the train have been blocked and two fuel tanks have been overcome. In addition, the train's driver and controller travelers are also interrupted.
-
-Meanwhile, the Railway Department has taken steps to cancel the train service from Colombo Fort to Batticaloa and Batticaloa to Colombo this morning.
-
-◼️
-
-[Data](articles/1a21c2e1.json)
-
-[Extended Data](ext_articles/1a21c2e1.ext.json)
 
 ---
 
@@ -2321,37 +2351,5 @@ The announcement states that 181 complaints have been resolved and 76 complaints
 [Data](articles/b974f2d9.json)
 
 [Extended Data](ext_articles/b974f2d9.ext.json)
-
----
-
-### First Test: New Zealand scored 46 runs by 134 runs
-
-*2024-10-17 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196532) · `ta`
-
-New Zealand beats India by 134 runs in Bangalore test. Lowest score for India on home turf. Heavy rain delays start. NZ's Conway scores 91. Indian bowlers struggle.
-
-🟩
-
-Bangalore, M. New Zealand, who scored 46 runs in 31.2 overs in the first Test cricket match at the Chinnaswamy Stadium, are 134 runs at the end of the second day's match.
-
-This is the lowest number of Indian team on its own soil in India's 92 -year Test history.
-
-This is the lowest number of 36 runs in 1936 against Australia in 1936 against Australia and 42 runs against England in 1974.
-
-The first day of the Test match, which began on Wednesday, was completely abandoned due to heavy rains.
-
-When the match continued this morning, the second day of the match, India first batted as the first day of the currency cycle.
-
-The second day's game began at 9.30 am as the first day of the game was abandoned.
-
-Indian batsmen, including team captain Rohit Sharma and Virat Kohli, were unable to compensate for the fast bowling of both Med Henry and William O'ruk.
-
-Med Henry, who recorded his 4th 5 wickets in the match, completed 100 Test wickets.
-
-...
-
-[Data](articles/78e3a47d.json)
-
-[Extended Data](ext_articles/78e3a47d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 11:11:31**
+As of **2024-10-18 11:23:30**
 
 ## Newspaper Stats
 
-*Scraped **50,115** Articles*
+*Scraped **50,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,066
 dailyftlk | 3,420
 adalk | 4,657
 dailymirrorlk | 4,733
-adaderanalk | 5,932
+adaderanalk | 5,933
 tamilmirrorlk | 6,856
 virakesarilk | 8,023
 adaderanasinhalalk | 8,685
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,685
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,115 (100.0%) of 50,115 articles have been extended.
+50,116 (100.0%) of 50,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### PM Harini meets university students’ unions
+
+*2024-10-18 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102774/pm-harini-meets-university-students-unions-) · `en`
+
+Prime Minister Dr. Harini Amarasuriya has held discussions with the university students’ unions on Thursday (17).
+
+During the discussion, attention was drawn to many unsolved problems faced by the university students so far regarding their studies and student welfare, the Prime Minister’s Media Division said.
+
+A group of representatives from many student associations including the Inter-University Students’ Federation (IUSF), Students - Mass Power for Right to Education, Medical Faculty Students’ Action Committee and all Medical Faculty Student Associations, Inter University Bikkhu Federation, Inter Higher National Diploma Students’ Federation, Ocean University Students’ Union, Student Union of Institute of Engineering and Technology, Engineering Faculty Students’ Union - University of Moratuwa had participated in this discussion.
+
+◼️
+
+[Data](articles/1b24c497.json)
+
+[Extended Data](ext_articles/1b24c497.ext.json)
+
+---
 
 ### ‍දුම්රිය මගීන්ට දැනුම්දීමක්
 
@@ -2307,29 +2325,5 @@ Dissanayake, who delivered his first speech after being elected, announced that 
 [Data](articles/0b17c5ac.json)
 
 [Extended Data](ext_articles/0b17c5ac.ext.json)
-
----
-
-### Our Tamil representation in Nuwara Eliya, the heart of the hill country
-
-*2024-10-17 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/196519) · `ta`
-
-Tamil representation crucial in Nuwara Eliya district. UNP elephant symbol candidates emphasize education focus. Call for continued support in upcoming elections.
-
-🟩
-
-Nuwara Eliya District is the most important district that determines the political existence of the hill country. It is a mandatory requirement that our Tamil representation is considered to be the heart of the hill country. Therefore, there is a firm belief that the people with the people will definitely support and give a decree, ”said Maruthapandi Rameswaran, the CWC's chairman and the Nuwara Eliya district parliamentary candidate.
-
-We are unique in the Nuwara Eliya district under the Elephant Symbol of the United National Party. He also said that we have given importance to the national list.
-
-He was speaking at a media briefing held in Madukumbura area in Talawakelle.
-
-It is very important that the politics of the hill country. Therefore, the people living in the Nuwara Eliya district should think and vote in the upcoming parliamentary elections.. We need to protect our political representation.
-
-...
-
-[Data](articles/a4f8e303.json)
-
-[Extended Data](ext_articles/a4f8e303.ext.json)
 
 ---

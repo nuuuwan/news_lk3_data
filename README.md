@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 09:00:10**
+As of **2024-10-18 09:14:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,681
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,084 (100.0%) of 50,097 articles have been extended.
+50,090 (100.0%) of 50,097 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,41 +78,53 @@ Minister Vijitha Herath said that the report prepared by the committee will be s
 
 ---
 
-### ZD ඇළේ මියගිය අයෙකුගේ සිරුරක්
+### A body of a dead person in ZD canal
 
 *2024-10-18 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202296) · `si`
 
-අරලගංවිල පොලිස් වසමේ ZD ඇළේ පිඹුරත්තෑව ප්‍රදේශයේ මියගිය පුද්ගලයෙකුගේ සිරුරක් තිබෙන බවට 119 දුරකථන අංකයට ලද තොරතුරක් අනුව පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+Body found in ZD canal, victim's three-wheeler discovered nearby. Police investigating death in Aralaganwila area.
 
-ඔහු ඉකුත් 15 වනදා ඔහුගේ ත්‍රිරෝද රථයෙන් නිවසින් පිටවගොස් තිබේ.
+🟩
 
-නැවත නිවසට නොපැමිණි බවට ඔහුගේ පියා විසින්  2024.10.16 වනදා අරලගංවිල පොලිස් ස්ථානයට සිදුකරන ලද පැමිණිල්ලක් සම්බන්ධව විමර්ශන සිදු කරමින් සිටියදී, එම පුද්ගලයාගේ මෘත ශරීරය ZD ඇළේ තිබී හමුවී ඇත.
+The 119 information received by the vehicle has been investigated by a person who was a dead person in Pimbiththewa area in the Aralaganwila police division.
 
-මරණකරුට අයත් ත්‍රිරෝද රථයද සිරුර හමුවූ ස්ථානයේ සිට කිලෝමීටරයක් පමණ දුරින් එම ඇළ තුළම තිබී සොයාගෙන තිබේ.
+He has left the house from his three-wheeler on the 15th.
 
-මියගිය පුද්ගලයාගේ සිරුර පොළොන්නරුව රෝහලේ මෘතශරීරාගාරයේ තැන්පත් කර ඇති අතර අරලගංවිල පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+The body of the person was found in the ZD in the ZD Canal, which was conducting investigations into a complaint carried out by the Aralaganwila police station.
+
+The victim's three-wheeler has been found in the same canal, about a kilometer from the scene.
+
+The body of the deceased has been placed at the Polonnaruwa hospital morgue and Aralaganwila police are conducting further investigations.
 
 ◼️
 
 [Data](articles/4d240129.json)
 
+[Extended Data](ext_articles/4d240129.ext.json)
+
 ---
 
-### ගංවතුරට හසුවූ ආහාර ද්‍රව්‍ය අලෙවි කරයි ද?
+### Do floods sell food items?
 
 *2024-10-18 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202295) · `si`
 
-ගංවතුරට හසු වු ආහාර පාරිභෝගිකයින්ට අලෙවි කරන වෙළෙඳසැල් ඇත්නම් ඒ පිළිබඳ ප්‍රදේශයේ මහජන සෞඛ්‍ය පරික්ෂකවරයාව දැනුම්වත් කරන ලෙස සෞඛ්‍ය අංශ මහජනතාවගෙන් ඉල්ලිමක් කර තිබේ.
+Floods do not typically sell food items. However, during flooding events, there have been cases where unsanitary conditions led to the sale of potentially harmful food products. Health authorities advise consumers to report any suspicious food sales and seek guidance from local public health inspectors.
 
-සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් සෞඛ්‍ය අමාත්‍යාංශයේ පාරිසරික සෞඛ්‍ය, වෘත්තීය සෞඛ්‍ය හා ආහාර ආරක්ෂණ ඒකකයේ අධ්‍යක්ෂ වෛද්‍ය තිලක් සිරිවර්ධන මහතා සඳහන් කළේ පසුගිය සමයේ එවැනි සිදුවිම් වාර්තා වු බවය.
+🟩
 
-මේ අතර, පාරිභෝගිකයින්ට ලබාදෙන ආහාර නිසි ප්‍රමිතියකට තබා නොගතහොත් නීතිමය පියවර ගන්නා බව සෞඛ්‍ය අමාත්‍යාංශයේ පාරිසරික සෞඛ්‍ය, වෘත්තීය සෞඛ්‍ය හා ආහාර ආරක්ෂණ ඒකකයේ නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් විශේෂඥ වෛද්‍ය ටී.බී ආනන්ද ජයලාල් මහතා සදහන් කළේය.
+The health sector has asked the public to announce the public health check in the area if the flooding foods are sold to customers.
 
-"කුඩා මට්ටමින් ආහාර සැකසුම් කරන ආයතනවල අපි දකිනවා මේ සම්බන්ධයෙන් තියෙන උනන්දුව මදි කියලා. හොඳම දේ තමයි ප්‍රදේශයේ මහජන සෞඛ්‍ය පරීක්ෂකගෙන් අවශ්‍ය උපදෙස්  ලබා ගෙන කටයුතු කිරීම. ඒ ආහාර සැකසුම් ආයතන හරියට පවත්වාගෙන ගියේ නැත්නම් එය ආහාර පනත යටතේ දඬුවම් ලැබිය හැකි වරදක්."
+Addressing a media brief held at the Health Promotion Bureau, Director of the Ministry of Health, Medical Health, Occupational Health and Food Protection Protection Unit said that such incidents were reported during the past season.
+
+Meanwhile, Deputy Director General of the Ministry of Health, the Deputy Director General of the Ministry of Health, specialist General of the Ministry of Health, specialist, specialist of the Ministry of Health, specialist, specialist of the Ministry of Health, specializations will take legal action.
+
+"We see in food processing agencies at the smaller level. The best thing is to seek the necessary advice from public health inspector of the area. If the food processing institutions were properly maintained, it was a mistake that could be punished under the Food Act. "
 
 ◼️
 
 [Data](articles/ce5809e9.json)
+
+[Extended Data](ext_articles/ce5809e9.ext.json)
 
 ---
 
@@ -164,17 +176,29 @@ Train services on the Batticaloa-Colombo main line have been completely halted p
 
 ---
 
-### රෝහල් රැසක විකිරණ පරික්ෂණ සේවා අඩාල වෙයි ?
+### Hacks Radyers Inspection Service in many hospitals?
 
 *2024-10-18 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202294) · `si`
 
-රජයේ රෝහල් පද්ධතිය තුළ පවතින පරිපුරක වෛද්‍ය සේවාවට අයත් නිලධාරින්ගේ හිඟය හේතුවෙන් මෙරට රෝහල් 8ට වැඩි ප්‍රමාණයක විකිරණ පරික්ෂණ සේවාවන් අඩාල වී ඇති බව පරිපූරක වෛද්‍ය වෘත්තීයවේදින්ගේ ඒකාබද්ධ බලමණ්ඩලය පවසයි.
+Here's a 200-character summary:
 
-එහි ලේකම් චානක ධර්මවික්‍රම මහතා සඳහන් කළේ පසුගිය රජය සමයේ පරිපුරක වෛද්‍ය සේවාවට අවශ්‍ය නිලධාරින් බදවා ගැනීම නතර කිරිම හේතුවෙන් සීටි ස්කෑනර්, එම්.ආර්.අයි ස්කෑනර් සහ හෘද කැතීටර් කරන ඒකකයන් හි පරීක්ෂණ රැසක් ද සිදුකිරීම මේවන විට ගැටළු සහගත වි ඇති බවය.
 
-...
+
+Hackers target radiology systems in hospitals. Paramedic union cites staffing shortages due to 8+ hospital deficits. New CT scanners operational but understaffed. Health Minister urges immediate recruitment to prevent service disruptions.
+
+🟩
+
+The combined Federation of Paramedics say that the shortage of officers of the government's hospitals in the government hospital system has been hampered by the deficit of over 8 hospitals.
+
+The Secretary of the Its Secretary Chanaka Dharmamickhama stated that the recent government has been investigated by the MRI Scanner and Cardiocater Units.
+
+"New ct scans in some hospitals have been established in some hospitals. But begin their duties, starting to investigate the investigation due to lack of adequate staff. At the same time, the staff working in the service has become severely oppressive. We are especially requested by the new Health Minister to recruit immediate recruits for these services. Otherwise, the health service does not have the absence of staff in the next few months. "
+
+◼️
 
 [Data](articles/874271db.json)
+
+[Extended Data](ext_articles/874271db.ext.json)
 
 ---
 
@@ -198,21 +222,31 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
-### මහ මැතිවරණයේ අපේක්ෂකයන්ට දැනුම්දීමක්
+### Notice to candidates in general election
 
 *2024-10-18 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202293) · `si`
 
-මහ මැතිවරණය සඳහා ඉදිරිපත් වන අපේක්ෂකයින් සිය වියදම් සහ ආදායම් වාර්තා පවත්වාගෙන යාම සඳහා වෙනමම පුද්ගලයෙකු පත් කරගැනීමට කටයුතු කිරීම සුදුසු බව පැෆ්රල් සංවිධානය පෙන්වා දෙයි.
+Here's a summary of the notice to candidates in 200 characters:
 
-එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා පැවසුවේ එසේ නොවුණ හොත් පසුගිය ජනාධිපතිවරණයේදී ආදායම් වියදම් වාර්තා ලබාදීමේදී ඇතැම් අපේක්ෂකයින්ට සිදුවු අපහසුතාවලට මෙම අපේක්ෂකයින්ට ද මුහුණ දීමට සිදුවිය හැකි බවය.
 
-මේ අතර මැතිවරණයේදී ආදායම් වියදම් වාර්තා නිසිපරිදි ලබා නොදෙන අපේක්ෂකයින්ට මුහුණ පෑමට සිදුවන තත්ත්වයන් පිළිබඳව ප්‍රජාතාන්ත්‍රීය, ප්‍රතිසංස්කරණ හා මැතිවරණ අධ්‍යයන ආයතනයේ විධායක අධ්‍යක්ෂ මංජුල ගජනායක මහතා මෙලෙස අදහස් පළ කළේය,
 
-"යම් ආකාරයකින් අපේක්ෂකයෙකුට තමන්ගේ වියදම් වාර්තා ලබාදීමට නොහැකි වුවහොත්, නැතිනම් අසත්‍ය තොරතුරු ඇතුළත් කළොත් අධිකරණ ක්‍රියාවලියක් තුළින් දේශපාලන අයිතිය වසර 3කට අහිමි විය හැකියි. මැතිවරණ පෙත්සමක් තුළින් ධුරය අහිමිවීමට හැකියි."
+Candidates must report expenses separately. Failure to do so may result in legal consequences, including potential loss of office via election petition.
+
+🟩
+
+The foregoing organization points out that the candidates contestants who come to the general election are suitable to make a separate person to maintain their expenses and income reports.
+
+Executive Director of the Executive Director Rohana Hettiarachchi said that these candidates could face difficulties for some candidates in the last presidential election.
+
+Meanwhile, Executive Director of Democratic, Reforms and Elections, Executive Director of Elections Manjula Gannam expressed these views on the conditions for the conditions for income for income revenue reports.
+
+"If a candidate is unable to give their spending reports, or a judicial process may lose three years. The loss of the post can be lost through an election petition. "
 
 ◼️
 
 [Data](articles/c42e9bc2.json)
+
+[Extended Data](ext_articles/c42e9bc2.ext.json)
 
 ---
 
@@ -1074,6 +1108,8 @@ Ethnic politics in Sri Lanka can be traced back to the colonial period, when the
 
 [Data](articles/3d6ab47e.json)
 
+[Extended Data](ext_articles/3d6ab47e.ext.json)
+
 ---
 
 ### Hamas leader dies
@@ -1586,19 +1622,31 @@ Both teams have been in the face of 1-1 matches with three matches with three ma
 
 ---
 
-### வடகிழக்கு தமிழர்களின் உண்மையான அபிலாஷைகளை தேசிய மக்கள் சக்தி புரிந்துகொள்ளவில்லை - ரில்வின் சில்வாவின் கருத்து இதை காண்பிக்கிறது - தமிழ்த் தேசிய அரசியல் கட்சிகளின் பிரதிநிதிகள்
+### The National People's Power does not understand the true aspirations of the Northeastern Tamils ​​- Rilvin Silva's opinion shows this - representatives of Tamil national political parties
 
 *2024-10-17 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/196525) · `ta`
 
-மக்கள் விடுதலை முன்னணியின் பொதுச்செயலாளர் டில்வின் சில்வாவினால் அண்மையில் வெளியிடப்பட்ட கருத்து, அவர்கள் வட, கிழக்கு தமிழ் மக்களின் உண்மையான அபிலாஷைகள் என்னவென்பதை இன்னமும் அறிந்துகொள்ளவில்லை என்பதையே காண்பிக்கிறது எனச் சுட்டிக்காட்டியிருக்கும் தமிழ்த் தேசிய அரசியல் கட்சிகளின் பிரதிநிதிகள், சமத்துவம் என்பது தனியொரு இனத்துக்கானதாக அன்றி, சகல இனங்களுக்குமானதாக அமையவேண்டும் எனவும் வலியுறுத்தியுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-அண்மையில் தனியார் தொலைக்காட்சி ஒன்றுக்கு வழங்கிய நேர்காணலில் கருத்து வெளியிட்ட மக்கள் விடுதலை முன்னணியின் பொதுச்செயலாளர் டில்வின் சில்வா, 'அரசியலமைப்பின் 13ஆவது திருத்தம் அனைத்துப் பிரச்சினைகளுக்குமான தீர்வாக அமையாது.
 
-வடக்கு மக்களின் அடிப்படைப் பிரச்சினைகள் பற்றி தமிழ் அரசியல்வாதிகள் பேசுவதில்லை. மாறாக அரசியலமைப்பின் 13ஆவது திருத்தம் மற்றும் அதிகாரப்பகிர்வு என்பன பற்றி மாத்திரமே பேசுவார்கள். இருப்பினும் நாம் வடக்கில் நிலவும் அடிப்படைப் பிரச்சினைகளுக்குக் கட்டம் கட்டமாக உரிய தீர்வு வழங்குவோம்' எனக் குறிப்பிட்டிருந்தார்.
+
+Sri Lankan Tamil leaders criticize National People's Power for misunderstanding Northeastern Tamil aspirations. They argue the party focuses solely on 13th Constitutional Amendment instead of addressing core issues. Political candidates debate implementation of new constitution and federal solutions.
+
+🟩
+
+Recent comments by the General Secretary of the People's Liberation Front, Dilvin Silva, have urged the representatives of the Tamil national political parties that they still do not know what the true aspirations of the Tamil people of the North and East Tamil people are.
+
+Commenting on a recent interview with a private television channel Dilvin Silva, General Secretary of the Janatha Vimukthi Peramuna, said, “The 13th Amendment to the Constitution is not a solution to all problems.
+
+Tamil politicians do not talk about the basic issues of the Northern people. Instead, they will only talk about the 13th Amendment of the Constitution and the devolution of power. However, we will provide a proper solution to the basic problems in the North. ”
+
+Dilvin Silva's comment was that the Sri Lankan Tamil state's general election candidate MA Sumanthiran, who criticized Dilvin Silva's comment on what the North and East Tamil people did not know, "said MA Sumanthiran.
 
 ...
 
 [Data](articles/da056d9c.json)
+
+[Extended Data](ext_articles/da056d9c.ext.json)
 
 ---
 

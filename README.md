@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 09:14:02**
+As of **2024-10-18 09:24:48**
 
 ## Newspaper Stats
 
-*Scraped **50,097** Articles*
+*Scraped **50,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 3,066
 dailyftlk | 3,420
 adalk | 4,655
 dailymirrorlk | 4,733
-adaderanalk | 5,930
+adaderanalk | 5,931
 tamilmirrorlk | 6,849
-virakesarilk | 8,020
+virakesarilk | 8,021
 adaderanasinhalalk | 8,681
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,090 (100.0%) of 50,097 articles have been extended.
+50,094 (100.0%) of 50,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Kenya’s deputy president sacked while in hospital
+
+*2024-10-18 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102771/kenyas-deputy-president-sacked-while-in-hospital) · `en`
+
+Kenyan senators have voted to remove Deputy President Rigathi Gachagua from office despite his failure to testify at his impeachment trial after his lawyer said he had been taken to hospital.
+
+In one of the most dramatic days in Kenya’s recent political history, Gachagua had been due to appear in the Senate after lunch to defend himself, a day after he had pleaded not guilty to 11 charges.
+
+However, Gachagua, popularly known as Riggy G, did not show up and his lawyer requested a postponement saying his client was suffering from chest pains and was being treated by doctors at The Karen Hospital.
+
+Senators chose to continue the trial without him, prompting the defence team to leave the chamber.
+
+The senators’ refusal to delay proceedings until Saturday - as long as would have been legally allowed - shows how determined they were to get rid of Gachagua, several months after he fell out with President William Ruto.
+
+...
+
+[Data](articles/b673e91a.json)
+
+[Extended Data](ext_articles/b673e91a.ext.json)
+
+---
+
+### It is raining several times in some parts of the country
+
+*2024-10-18 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196543) · `ta`
+
+Rains forecasted in Northern Province, Western, Sabaragamuwa, North Western, Galle, Matara, Kandy, Nuwara Eliya districts. Thunderstorms possible in Uva, Eastern Provinces. Heavy rains expected off Puttala to Colombo, Galle. Wind speeds 25-35 km/h in southwest direction. Seas turbulent near Kankesanthurai to Mannar, Hambantota to Pottuvil. Moderate waves elsewhere.
+
+🟩
+
+It is expected to rain in the Northern Province several times. The Senior Meteorological Officer of the Atmospheric Department, Dr. Mohamed Saliheen, said that there will be a slight rainfall in the Western, Sabaragamuwa and North Western Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.
+
+In some places in the Uva and the Eastern Provinces, there is a possibility of rainfall or thunderstorms in the evening or at night.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the effects of lightning impacts.
+
+Heavy rains are expected in some parts of the seas beyond the coast of Puttala to Colombo and Galle via Galle.
+
+There is a possibility of rain or thundershowers in many places beyond the coast of Mannar to Kankesanthurai.
+
+In the seas around the country, the wind is blowing from the southwest direction and the speed of the wind is expected to be up to 25-35 km per hour.
+
+...
+
+[Data](articles/86540769.json)
+
+[Extended Data](ext_articles/86540769.ext.json)
+
+---
 
 ### Two wild elephants killed
 
@@ -1718,23 +1768,29 @@ Taxes have also been imposed as a 10% increase in new or more than 10% or Rs. 40
 
 ---
 
-### 15க்கு குறையாமல் ஆசனங்களை வெல்வோம் - தமிழ் அரசுக் கட்சி நம்பிக்கை : சகல தமிழ்த் தேசிய கட்சிகளும் 'சங்குக்கு' அஞ்சுகின்றன -  சித்தார்த்தன்
+### We will win seats without less than 15
 
 *2024-10-17 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196529) · `ta`
 
-எதிர்வரும் பொதுத்தேர்தலில் வீடு சின்னத்தில் போட்டியிடும் தமிழ் அரசுக் கட்சியினால் வட, கிழக்கு மாகாணங்களில் 15க்கு குறையாமல் ஆசனங்களை வென்றெடுக்க முடியும் என அக்கட்சியின் வேட்பாளர் எம்.ஏ.சுமந்திரன் நம்பிக்கை வெளியிட்டுள்ளார்.
+Tamil parties confident of winning seats in North and East. TNA expects 6-8 seats, Tamil National People's Front aims for 10+. Sumanthiran predicts over 15 seats for his party. Campaigns underway as election nears.
 
-அதேவேளை சங்கு சின்னத்தில் போட்டியிடும் தமது கூட்டணி இவ்விரு மாகாணங்களிலும் மொத்தமாக 6 - 8 ஆசனங்களை வெல்லும் என எதிர்பார்ப்பதாக ஜனநாயக தமிழ் தேசியக் கூட்டணியின் வேட்பாளர் தர்மலிங்கம் சித்தார்த்தன் தெரிவித்துள்ளார்.
+🟩
 
-அதேபோன்று இம்முறை தேர்தலில் தமது கட்சி 10க்கு குறையாத ஆசனங்களைப் பெறவேண்டும் என்ற எதிர்பார்ப்புடன் இருப்பதாக தமிழ் தேசிய மக்கள் முன்னணியின் வேட்பாளர் கஜேந்திரகுமார் பொன்னம்பலம் குறிப்பிட்டுள்ளார்.
+The party's candidate MA Sumanthiran has expressed confidence that the Tamil state party, which is contesting the house symbol in the upcoming general election, can win seats in the North and Eastern Provinces.
 
-பொதுத்தேர்தலுக்கான கட்டுப்பணம் செலுத்தல் மற்றும் வேட்புமனுத்தாக்கல் என்பன கடந்த வாரத்துடன் முடிவுக்கு வந்த நிலையில், தற்போது அரசியல் கட்சிகள் நாடளாவிய ரீதியில் தமது தேர்தல் பிரசாரப்பணிகளை முன்னெடுத்துவருகின்றன.
+Meanwhile, Dharmalingam Siddharthan, candidate of the Democratic Tamil National Alliance (TNA), says that their alliance is expected to win a total of 6 - 8 seats in both provinces.
 
-அந்த வகையில் தமிழ்த் தேசிய அரசியல் கட்சிகளின் வேட்பாளர்கள் வட, கிழக்கு மாகாணங்களில் அவர்களது தேர்தல் பிரசார நடவடிக்கைகளைத் தீவிரமாக முன்னெடுத்துவருகின்றனர்.
+Similarly, the Tamil National People's Front candidate Gajendrakumar Ponnambalam said that the party is expecting to get seats that are not less than 10 in this election.
+
+As the control of the general election and the nomination papers ended last week, political parties are now carrying out their election campaigns nationwide.
+
+In this way, candidates of Tamil National Political Parties are actively carrying out their election campaign in the North and Eastern Provinces.
 
 ...
 
 [Data](articles/0bd918d4.json)
+
+[Extended Data](ext_articles/0bd918d4.ext.json)
 
 ---
 
@@ -1751,6 +1807,8 @@ Also, a cursory look at the troubles brewing in the SJB would reveal that it is 
 ...
 
 [Data](articles/5a81df49.json)
+
+[Extended Data](ext_articles/5a81df49.ext.json)
 
 ---
 
@@ -2295,55 +2353,5 @@ Former President Ranil Wickremesinghe emphasizes experienced individuals' necess
 [Data](articles/67af267c.json)
 
 [Extended Data](ext_articles/67af267c.ext.json)
-
----
-
-### හිටපු බන්ධනාගාර නිලධාරියෙකු අත්අඩංගුවට
-
-*2024-10-17 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202272) · `si`
-
-Former prison officer arrested for using official ID to sell drugs. Found with heroin, ice, cannabis, and mobile phones during raid. Another person caught buying drugs also detained. Police claim suspect previously admitted to being drugged.
-
-🟩
-
-Ruwanwella police have arrested a former prison officer who used narcotics detention using duty identity card.
-
-The suspect was a person who left the Mahara Prison to be resigned from 2019 in 2019.
-
-It has then been revealed that the man had been engaged in the drug racket using their official identity card.
-
-The suspect was arrested in a raid conducted in the Imbulana on information received by Army intelligence officers.
-
-එහිදී මෙම පුද්ගලයා සතුව තිබූ හෙරොයින් මත්ද්‍රව්‍ය මිලි ග්‍රෑම් 5,500 ක්, අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 600 ක්, ගංජා සහ කිරුම් උපකරණ කිහිපයක් මෙන්ම ජංගම දුරකථන දෙකක් ද පොලිස් භාරයට ගෙන තිබේ.
-
-වැටලීම කරන අතරතුර මත්ද්‍රව්‍ය මිලදී ගැනීමට පැමිණි පුද්ගලයෙකු ද අත්අඩංගුවට ගෙන ඇත.
-
-The police said that the man had previously revealed that he had previously been drugged.
-
-◼️
-
-[Data](articles/4b6bb1af.json)
-
-[Extended Data](ext_articles/4b6bb1af.ext.json)
-
----
-
-### ”அனுபவம் இன்றி பாராளுமன்றத்தை நடத்த முடியாது”
-
-*2024-10-17 15:13:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுபவம்-இன்றி-பாராளுமன்றத்தை-நடத்த-முடியாது/175-345613) · `ta`
-
-Ranil Wickremesinghe emphasizes experience crucial for handling economic crisis in Parliament. He believes those who have faced economic challenges should represent both opposition and government in Parliament to effectively address issues.
-
-🟩
-
-Former President Ranil Wickremesinghe has said that there should be experienced in Parliament to solve the economic crisis.
-
-"கடந்த இரண்டு வருடங்களாக என்னுடன் பணியாற்றியவர்கள் பொருளாதார நெருக்கடிகளை எதிர்கொண்ட அனுபவம் உள்ளவர்கள், எனவே அவர்கள் பாராளுமன்றத்தில் இருக்க வேண்டும். Whether you are the opposition or in the government, you cannot hold parliament without this experience. அதைத் தாண்டி முயற்சித்தால், இலக்குகளை அடைவதில் நீங்கள் தோல்வியடைவீர்கள்" என விக்கிரமசிங்க விசேட அறிக்கை ஒன்றில் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/87c91e65.json)
-
-[Extended Data](ext_articles/87c91e65.ext.json)
 
 ---

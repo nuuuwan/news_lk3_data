@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 13:59:03**
+As of **2024-10-18 14:13:03**
 
 ## Newspaper Stats
 
-*Scraped **50,136** Articles*
+*Scraped **50,138** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,75 @@ dailymirrorlk | 4,733
 adaderanalk | 5,936
 tamilmirrorlk | 6,859
 virakesarilk | 8,028
-adaderanasinhalalk | 8,690
+adaderanasinhalalk | 8,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,136 (100.0%) of 50,136 articles have been extended.
+50,138 (100.0%) of 50,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### Sri Lanka's third place in Australia's humanitarian innovation program
+
+*2024-10-18 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202309) · `si`
+
+Sri Lanka wins third place in Australia's 2024 Humanitarian Innovation Pitch. Student sets example for 7,000 Syrian refugees in Jordan. First place goes to Emily Nabong from Sydney University, second to Phyllis Ngugi from Bond University. Students aim to solve global challenges faced by underprivileged communities.
+
+🟩
+
+The 2024 Humanitarian Innovation Pitch has won the third place in the 2024 Humanitarian Innovation Pitch program organized by the Faculty of Engineering Sydney University in Australia.
+
+He had set a role model for about 7,000 Syrian refugees in the Zaatari refugee camp in Jordan.
+
+Students have come to seek solutions to the problems that face the problems of low-facilities or vulnerable communities around the world.
+
+The first place in this program is EMILY NABONG, a student of Sydney University, and the second place PHYLLIS NGUGI of the BOND University.
+
+◼️
+
+[Data](articles/3674747b.json)
+
+[Extended Data](ext_articles/3674747b.ext.json)
+
+---
+
+### There are also reveals about the homes targeting many treasures
+
+*2024-10-18 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202308) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Robbery suspects target homes, rape victims. Police reveal details about two robbers abusing women in multiple locations. Suspects kill victims after sexual assault. Attorney Nihal Talduwa provides information about the suspects' modus operandi.
+
+🟩
+
+The police have revealed several more information regarding the two robbers who were sexually abused by many areas and sexually abuse women.
+
+Police said the suspects had been abused and killed by the suspects.
+
+Ada Derana revealed that a robbery robbery is robbed in Dompe, Weliweriya and Malwwathu Hiripitiya.
+
+Accordingly, the OIC of the OIC of the OIC of the Malwathathhipitiya Police OIC, the OIC of the Malwathuhidupitiya OIC, was arrested on the 16th of the 16th of the 16th of the 16th.
+
+Attorney at Law Nihal Talduuwa, police spokesman, who had revealed information about the suspects were revealed.
+
+"The homes they choose for this are the homes of only one male. Similarly, they choose the homes of a large house. The specialty is to remove the residents or to tear. They are then raped in front of these residents.
+
+Similarly, they have been reported in the crimes that the pattern has been involved in Weliweriya and Kirindiwela.
+
+◼️
+
+[Data](articles/cd92d5e4.json)
+
+[Extended Data](ext_articles/cd92d5e4.ext.json)
+
+---
 
 ### Naming Sri Lanka One Day squad
 
@@ -2307,49 +2365,5 @@ Of the complaints received, 181 complaints have been settled and 76 more complai
 [Data](articles/c3e6256d.json)
 
 [Extended Data](ext_articles/c3e6256d.ext.json)
-
----
-
-### Global southern scholarly circulating crology conversation in Beijing
-
-*2024-10-17 19:45:01* · [`adalk`](https://www.ada.lk/breaking_news/ගෝලීය-දකුණු-විද්වත්-පර්ෂද-සංවාදය-බෙයිජිං-හිදී/11-412551) · `si`
-
-Beijing hosts Global South Chinthana Conversation. Chinese Communist Party organizes event with 76 country reps. Focus: Building prosperous world with shared destiny. China proposes global development initiatives.
-
-🟩
-
-Global South Chinthana Conversation at the Leader of BRICS in the near North. The Chinese Committee of the Communist Party Central Committee of the Communist Party has organized the general foregoing of the Chinese Media Group. "The theme is to build a prosperous world with a common fate with peace, development, security," building a prosperous world with a common fate.
-
-Minister of Foreign Committee of the Communist Party Central Committee of the Communist Party, the Director General of the China Communist Party Department of Campaign Party, SHEN Haixiong, Director General of the China Communist Party, was lectured.. The government representatives, government representatives, scholar and media representatives of 76 countries were joined in online and non-online ways.
-
-China said China is ready to add a global development initiative, global development initiative and a global civilizational initiative and a common fate.
-
-...
-
-[Data](articles/68551570.json)
-
-[Extended Data](ext_articles/68551570.ext.json)
-
----
-
-### 257 complaints regarding general election
-
-*2024-10-17 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202280) · `si`
-
-Elections Commission reports 257 complaints about general election. 181 resolved, 76 under review.
-
-🟩
-
-The Elections Commission says that there are 257 complaints received until the general election.
-
-In a statement, the Election Commission has issued all complaints received by all complaints.
-
-The announcement states that 181 complaints have been resolved and 76 complaints have been taken into consideration.
-
-◼️
-
-[Data](articles/b974f2d9.json)
-
-[Extended Data](ext_articles/b974f2d9.ext.json)
 
 ---

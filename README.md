@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-18 08:02:29**
+As of **2024-10-18 08:23:10**
 
 ## Newspaper Stats
 
-*Scraped **50,086** Articles*
+*Scraped **50,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,066
 dailyftlk | 3,420
 adalk | 4,655
 dailymirrorlk | 4,733
-adaderanalk | 5,928
-tamilmirrorlk | 6,846
+adaderanalk | 5,930
+tamilmirrorlk | 6,847
 virakesarilk | 8,020
 adaderanasinhalalk | 8,677
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 8,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,071 (100.0%) of 50,086 articles have been extended.
+50,071 (100.0%) of 50,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-18 (Friday)
+
+### அதிவிசேட வர்த்தமானி வெளியீடு
+
+*2024-10-18 07:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-345636) · `ta`
+
+பொதுத் தேர்தலில் போட்டியிடும் அரசியல் கட்சிகள், சுயேட்சை குழுக்கள், வேட்பாளர்கள் பிரசாரங்களுக்காக மாவட்ட ரீதியாக செலவிடக் கூடிய தொகையை நிர்ணயித்த அதிவிசேட வர்த்தமானி தேர்தல்கள் ஆணைக்குழுவால் வெளியிடப்பட்டுள்ளது.
+
+2023 இலக்கம் 03 எனும் தேர்தல் செலவினங்களை ஒழுங்குப்படுத்தும் சட்டத்தின் 3 ஆம் பிரிவின் பிரகாரம் தேர்தல் பிரசார நடவடிக்கைகளுக்கான செலவு எல்லைகள் நிர்ணயிக்கப்பட்டுள்ளன.
+
+இதன்படி, மாவட்ட ரீதியாக வேட்பாளர் ஒருவர் செலவிடக் கூடிய அதிக பட்ச தொகையும் நிர்ணயிக்கப்பட்டுள்ளது.
+
+கொழும்பு மாவட்டத்தில் போட்டியிடும் வேட்பாளர் ஒருவர் 57 லட்சத்து 50 ஆயிரம் ரூபாவையும், கம்பஹா மாவட்டத்தில் போட்டியிடும் வேட்பாளர் ஒருவர் 56 இலட்சத்து 43 ஆயிரத்து 387 ரூபாயையும், களுத்துறை மாவட்டத்தில் போட்டியிடும் வேட்பாளர் ஒருவர் 47 இலட்சத்து 40 ஆயிரத்து 787 ரூபாவையும் செலவிட முடியும் என நிர்ணயம் செய்யப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/590bfb75.json)
+
+---
+
+### Fuel train derails after colliding with elephant herd
+
+*2024-10-18 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102770/fuel-train-derails-after-colliding-with-elephant-herd) · `en`
+
+A fuel train has derailed between Hingurakgoda and Gal Oya railway stations after colliding against a herd of wild elephants.
+
+The Railway Department sad that two fuel tankers have toppled and that two elephants have died in the collision.
+
+◼️
+
+[Data](articles/d9f9c06a.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-10-18 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102769/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in the Northern Province today.
+
+It said several spells of light showers may occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-eliya districts.
+
+Showers or thundershowers may occur at a few places in Uva and Eastern provinces during the evening or night.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/7a970a00.json)
+
+---
 
 ### Fuel transport train is collided with a herd
 
@@ -2227,65 +2277,5 @@ A senior CEB official said the state-run utility provider will issue a clarifica
 [Data](articles/d7cbab68.json)
 
 [Extended Data](ext_articles/d7cbab68.ext.json)
-
----
-
-### Car discovery used for the Grandpass shooting incident!
-
-*2024-10-17 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196498) · `ta`
-
-Car linked to Grandpass shooting found in Hangwella. Unidentified persons fired at a motorcyclist in Colombo yesterday. Vehicle discovered today in Hangwella Ambulgama area.
-
-🟩
-
-A car that allegedly used for a shooting incident in Grandpass area in Colombo yesterday evening has been found in Hangwella Ambulgama area this morning, Hangwella police said.
-
-Some unidentified persons who were traveling in the car at the Grandpass area of ​​Colombo yesterday fired at a man in the three -wheeler.
-
-◼️
-
-[Data](articles/86b36515.json)
-
-[Extended Data](ext_articles/86b36515.ext.json)
-
----
-
-### Ex-President Ranil urges voters to support ‘experienced candidates’ in 2024 General Election
-
-*2024-10-17 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102759/ex-president-ranil-urges-voters-to-support-experienced-candidates-in-2024-general-election-) · `en`
-
-The leader of the United National Party (UNP), former President Ranil Wickremesinghe has called on voters to elect to the Parliament candidates with proven experience in managing economic crises as the country faces ongoing challenges.
-
-Making a special statement ahead of the upcoming parliamentary election, Wickremesinghe emphasized that those who have worked with him over the past two years are best suited to guide the nation forward.
-
-“In these difficult times, it is vital that we have leaders in Parliament who know how to handle an economic crisis. Whether you are in the opposition or part of the government, without this experience, you will fail to meet the country’s goals,” Wickremesinghe said.
-
-“I urge the supporters of all political parties to vote for our experienced candidates,” he added.
-
-...
-
-[Data](articles/6cec636d.json)
-
-[Extended Data](ext_articles/6cec636d.ext.json)
-
----
-
-### CEB criticized for ‘delaying’ electricity tariff revision
-
-*2024-10-17 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102758/ceb-criticized-for-delaying-electricity-tariff-revision) · `en`
-
-The Petroleum Trade Unions have criticized the Ceylon Electricity Board (CEB) for failing to implement the revision of electricity tariffs, which was supposed to take place on October 01, allegedly due to the irresponsible actions of the CEB.
-
-During a press conference held in Colombo yesterday (16), the convener of the union, Ananda Palitha, expressed concerns over the issue.
-
-“The Electricity Board has not yet provided the necessary data to the Public Utilities Commission of Sri Lanka (PUCSL) for the revision of the electricity tariffs. Currently, the CEB’s net profit exceeds Rs. 155 billion. Why is there room for further exploitation?” he questioned.
-
-Further, he urged the President to intervene, stating, “If you are committed to the welfare of the people, you should question the CEB on what it has been doing all this time. Immediate action can be taken to revise the electricity bill, potentially reducing it by at least 45 percent.”
-
-◼️
-
-[Data](articles/b10cf607.json)
-
-[Extended Data](ext_articles/b10cf607.ext.json)
 
 ---

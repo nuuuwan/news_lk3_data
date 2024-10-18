@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 02:39:36**
+As of **2024-10-19 02:58:10**
 
 ## Newspaper Stats
 
-*Scraped **50,214** Articles*
+*Scraped **50,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,661
 dailymirrorlk | 4,733
 adaderanalk | 5,945
 tamilmirrorlk | 6,870
-virakesarilk | 8,040
+virakesarilk | 8,047
 adaderanasinhalalk | 8,707
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,214 (100.0%) of 50,214 articles have been extended.
+50,221 (100.0%) of 50,221 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -204,6 +204,174 @@ Adaaran Select Hudhuran Fushi, a 24-hour Premium All-inclusive resort, garnered 
 
 ---
 
+### Hemanthabara bowl bowled;Sri Lanka A team defeated Afghan A by 11 runs
+
+*2024-10-19 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/196619) · `ta`
+
+Sri Lanka A lost to Afghanistan A by 11 runs in their first match. Hemanthabara bowled well, taking 6 wickets. Sri Lanka scored 155 in 19.3 overs, while Afghanistan made 166 in 20 overs.
+
+🟩
+
+ஓமானில் நடைபெற்றுவரும் வளர்ந்துவரும் வீரர்களைக் கொண்ட அணிகளுக்கான ரி20 ஆசிய கிண்ண கிரிக்கெட் போட்டியில் இலங்கை ஏ அணி தனது ஆரம்பப் போட்டியில் ஆப்கானிஸ்தானிடம் 11 ஓட்டங்களால் தோல்வி அடைந்தது.
+
+Sri Lanka's spin bowler Dushan Hemantha took only 23 runs in 4 overs and his attempt was finally fallen.
+
+முதலில் துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் ஏ அணி 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 166 ஓட்டங்களைக் குவித்தது.
+
+ஸுபைத் அக்பாரி 57 ஓட்டங்களையும் சிதிக்குல்லா அத்தல் 83 ஓட்டங்களைப் பெற்றதுடன் முதலாவது விக்கெட்டில் 142 ஓட்டங்களைப் பகிர்ந்து ஆப்கானிஸ்தான் ஏ அணியை பலமான நிலையில் இட்டனர்.
+
+6ஆவதாக  பந்து வீச அழைக்கப்பட்ட துஷான் ஹேமன்த 6 விக்கெட்களை வீழ்த்தினார். மற்றைய விக்கெட் ரன் அவுட் முறையில் வீழ்ந்தது.
+
+பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை ஏ அணி19.3 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 155 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+
+அணித் தலைவர் நுவனிது பெர்னாண்டோ 51 ஓட்டங்களையும் அஹான் விக்ரமசிங்க 31 ஓட்டங்களையும் பெற்றனர். அவர்களை விட வேறு எவரும் துடுப்பாட்டத்தில் பிரகாசிக்கவில்லை.
+
+...
+
+[Data](articles/2ccf0ce4.json)
+
+[Extended Data](ext_articles/2ccf0ce4.ext.json)
+
+---
+
+### எம்மவர்கள் எதிரணி பக்கம் சென்றதால் பலவீனமடைந்தோம் - நாமல் ராஜபக்ஷ
+
+*2024-10-19 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/196621) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka Podujana Peramuna leader Namal Rajapaksa says party weakened due to members joining opposition. He calls for unity efforts and cooperation with government.
+
+🟩
+
+ஜனாதிபதித் தேர்தலின் போது எம்முடன் இருந்தவர்கள் எதிரணி பக்கம் சென்றதால் தான் நாங்கள் அரசியலில் பலவீனமடைந்துள்ளார்கள். விலகிச் சென்றவர்களை மீண்டும் இணைத்துக் கொள்ளவே முயற்சிக்கிறோம் என பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் வெள்ளிக்கிழமை (18) இடம்பெற்ற தொகுதி அமைப்பாளர்களுடனான கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+தேர்தலில் வெற்றி மற்றும் தோல்வி என்பது இயல்பானது. Success and failure must be accepted. We lost the presidential election due to various factors. Because those who were with us went to the opposition to us;We are weakened.
+
+எம்மை விட்டுச் சென்றவர்கள் தற்போது அரசியலில் நெருக்கடியாகியுள்ளமை கவலைக்குரியது. ஆகவே இவர்கள் எம்முடன் மீண்டும் ஒன்றிணையலாம். அதற்கான முயற்சிகளை மேற்கொண்டுள்ளோம்.
+
+...
+
+[Data](articles/1f99e3b2.json)
+
+[Extended Data](ext_articles/1f99e3b2.ext.json)
+
+---
+
+### The actual change is the real change in us-the Jaffna University Student Union
+
+*2024-10-19 00:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/196620) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Jaffna University Student Union representatives claim true change comes from within, not external sources. They criticize Tamil nationalist ideologies and politicians for failing to address youth concerns and promote genuine political participation. The statement emphasizes the need for a new Tamil national identity and political culture, free from corruption and fake promises.
+
+🟩
+
+எமக்குள்ளான அகவயமான முற்போக்கு மாற்றமே உண்மையான மாற்றம் என தெரிவித்த யாழ்ப்பாணப் பல்கலைக்கழக மாணவர் ஒன்றியப் பிரதிநிதிகள், தென்னிலங்கையிலிருந்து அது வருவதில்லை என தெரிவித்தனர்.
+
+யாழ்ப்பாணப் பல்கலைக்கழகத்தில் வெள்ளிக்கிழமை (18) நடைபெற்ற யாழ்ப்பாண பல்கலைக்கழக மாணவர் ஒன்றியத்தின் ஊடகவியலாளர் சந்திப்பிலேயே இந்த விடயம் தெரிவிக்கப்பட்டது.
+
+மேலும் தெரிவிக்கையில், சிங்கள – பௌத்த பேரினவாதம் முழுவீச்சில் செயற்படுவதற்கான வாய்ப்புக்களைப் பொருளாதார நெருக்கடி தற்காலிகமாக மட்டுப்படுத்தியுள்ள நிலையில் சிங்கள மக்கள் மாற்றமொன்றினை எதிர்பார்த்து வாக்களித்துள்ளனர். எனினும் சிங்கள மக்களின் வாக்களிப்பு முறைக்கு நேர்மாறாக வாக்களித்ததன் மூலம் எம்மிடையே நிலவுவது பொருளாதார நெருக்கடி மட்டுமல்ல என்பதை தமிழ் மக்கள் தெளிவாக எடுத்துரைத்துள்ளனர்.
+
+...
+
+[Data](articles/a01cb070.json)
+
+[Extended Data](ext_articles/a01cb070.ext.json)
+
+---
+
+### The election manifesto of the Tamil People's Alliance was released
+
+*2024-10-19 00:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196618) · `ta`
+
+Tamil People's Alliance releases 2024 election manifesto. Party leader KV Wigneswaran unveiled it at his residence. Candidate V. Manivannan received the first copy.
+
+🟩
+
+The election manifesto of the Tamil People's Alliance (TNA) for the 2024 parliamentary elections was released at the residence of party leader KV Wigneswaran at 4 pm on Friday.
+
+The party's Jaffna district chief candidate V. Manivannan received the first copy of the Tamil People's Alliance leader KV Wigneswaran.
+
+◼️
+
+[Data](articles/6bed1d20.json)
+
+[Extended Data](ext_articles/6bed1d20.ext.json)
+
+---
+
+### Current Champion Sri Lanka started the Asian Webball Championship with success
+
+*2024-10-19 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196617) · `ta`
+
+Sri Lanka wins inaugural Asian Webball Championship match against Philippines 73-44. Led by captain Dulmini Vannithilaka, team scores 47 goals from Tisala Alkama.
+
+🟩
+
+இந்தியாவின் பெங்களூரு, கோரமங்கலம் உள்ளக விளையாட்டரங்கில் வெள்ளிக்கிழமை (18) தொடங்கிய 13ஆவது ஆசிய வலைபந்தாட்ட சம்பியன்ஷிப்பில் ஏ குழுவில் இடம்பெறும் நடப்பு சம்பியன்  இலங்கை   தனது முதலாவது போட்டியில் வெற்றியீட்டியது.
+
+Sri Lanka won by a margin of 73 - 44 amid a small challenge match against the Philippines.
+
+Sri Lanka played 24 - 8 in the first quarter -hour game.
+
+இரண்டாவது கால் மணி நேர ஆட்டத்தில் சற்று நிதானத்தைக் கடைப்பிடித்த இலங்கை அப் பகுதியையும் 19 - 9 என தனதாக்கியது.
+
+Sri Lanka was based on 43 - 17 during the break.
+
+இடைவேளைக்குப் பின்னர் 3ஆவது கால் மணி நேர ஆட்டத்தில் அணித் தலைவி துலிங்கி வன்னித்திலக்க, முன்னாள் தலைவிகளான கயனி திசாநாயக்க மற்றும் கயஞ்சிலி அமரவன்ச, கோல் நிலை வீராங்கனை திசலா அல்கம ஆகியோருக்கு அணி பயிற்றுநர் நாலிகா பிரசாதி ஓய்வு கொடுத்தார்.
+
+The Philippines took advantage of this to 17 - 13.
+
+The retired heroes played again in the 4th -quarter -hour game, making Sri Lanka up 17 - 10.
+
+Sri Lanka won 73 - 44 in the overall goals.
+
+...
+
+[Data](articles/0946a7c3.json)
+
+[Extended Data](ext_articles/0946a7c3.ext.json)
+
+---
+
+### New Zealand entered the end of the West Indies to knock out
+
+*2024-10-19 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196616) · `ta`
+
+New Zealand knocked out West Indies in Sharjah cricket stadium semi-final. New Zealand won by 8 runs. Both teams struggled to score runs. New Zealand batted first, scoring 128/9 in 20 overs. West Indies replied with 120/8 in 20 overs. New Zealand qualified for the Women's T20 World Cup final against South Africa.
+
+🟩
+
+ஷார்ஜா கிரிக்கெட் விளையாட்டரங்கில் நடைபெற்ற மிகவும் பரபரப்பான இரண்டாவது அரை இறுதிப் போட்டியில் முன்னாள் சம்பியன் மேற்கிந்தியத் தீவுகளை 8 ஓட்டங்களால் வெற்றிகொண்ட நியூஸிலாந்து, 9ஆவது ஐசிசி மகளிர் ரி20 உலகக் கிண்ண அத்தியாயத்தின் இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
+
+Accordingly, Newsiland and South Africa will play in the final on Sunday and have been confirmed by a new team for the first time in the women's T20 World Cup history.
+
+மந்த கதி தன்மையைக் கொண்ட ஆடுகளத்தில் இரண்டு அணிகளும் ஓட்டங்களைப் பெறுவதில் சிரமம் எதிர்கொண்டதை அவதானிக்கக்கூடியதாக இருந்தது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த நியூஸிலாந்து 20 ஓவர்களில் 9 விக்கெட்களை இழந்து 128 ஓட்டங்களைப் பெற்றது.
+
+Susie Bats (26) and Georgia Blimmer (33) shared 48 runs, but other batsmen failed to take advantage of it.
+
+Isabella Gas scored 20 runs without losing the game, Brook Holiday 18 and team captain Sofi Divine 12 runs.
+
+In bowling, Diendra Dott's 22 runs for 22 runs while the Afi Flecher took 2 wickets for 23 runs.
+
+...
+
+[Data](articles/0f2c4ca9.json)
+
+[Extended Data](ext_articles/0f2c4ca9.ext.json)
+
+---
+
 ### 2024-10-18 (Friday)
 
 ### How important was India’s help to Sri Lanka in 2022?
@@ -307,6 +475,44 @@ New Zealand will be held on Sunday (20) between New Zealand and South Africa.
 [Data](articles/7f85a333.json)
 
 [Extended Data](ext_articles/7f85a333.ext.json)
+
+---
+
+### அரசியல் கட்சிகள் அம்பாறை மாவட்டத்தை இடைத்தங்கல் முகாமாக பயன்படுத்துகின்றது - சந்திரநேரு சந்திரகாந்தன்
+
+*2024-10-18 22:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196614) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Political parties use Ampara as transit camp - Chandranayagam
+
+
+
+Former MP Chandranayagam stated political parties use Ampara as transit camp. He criticized current political situation in Ampara, saying it affects people without considering their opinions. Parties now select candidates based on money rather than public input. This approach is unhealthy for democracy.
+
+🟩
+
+அரசியல் கட்சிகள் அம்பாறை மாவட்டத்தினை ஒரு இடைத்தங்கல் முகாமாக பயன்படுத்துவதாக முன்னாள் பாராளுமன்ற உறுப்பினர் சந்திரநேரு சந்திரகாந்தன் தெரிவித்தார்.
+
+He made the above statement at a media briefing in Tirukovil.
+
+The Ampara district has been affected by the current contemporary politically, like a slave on all sides.
+
+அம்பாறை மாவட்டத்தில் சமகால அரசியல் போக்கானது மக்கள் கருத்து இல்லாமல் அரசியல் கட்சிகள் தாமாக சிந்தித்து செயற்படுகின்றது.
+
+ஆரம்பத்தில் தேர்தல் கேட்பது என்றால் பிரதேச புத்திஜீவிகள், அதிபர்கள் , இளைஞர்கள், ஆலய அறங்காவலர்கள் என மக்களின் கருத்து கேட்டதன் பின்னரே வேட்பாளர்கள் அரசியல் கட்சிகளில் நியமிக்கப்படுவர்.
+
+ஆனால் இப்போது யார் வேண்டுமானாலும் தேர்தல் கேட்கலாம் என்று புதிய கோட்பாடு அம்பாறை மாவட்டத்தை பெறுத்த மட்டில் உருவாகியுள்ளது.
+
+தேர்தல் காலத்தில் மாத்திரமே அரசியல் கட்சிகளின் வரவு அம்பாறை மாவட்டத்தில் காணப்படுகின்றது தமிழ் கட்சிகள் அனைத்தும் ஒன்றிணைந்து ஒரு வேட்பாளரை முன் நிறுத்தி குறித்த வேட்பாளருக்கு களம் அமைத்து வெற்றி பெற வைக்க வேண்டும்.
+
+...
+
+[Data](articles/393e4955.json)
+
+[Extended Data](ext_articles/393e4955.ext.json)
 
 ---
 
@@ -2277,171 +2483,5 @@ A group of representatives from many student associations including the Inter-Un
 [Data](articles/1b24c497.json)
 
 [Extended Data](ext_articles/1b24c497.ext.json)
-
----
-
-### ‍දුම්රිය මගීන්ට දැනුම්දීමක්
-
-*2024-10-18 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202301) · `si`
-
-Train cancellations due to oil terminal accident affect Batticaloa-Colombo route. Six scheduled trips cancelled today. Railway Department cites safety concerns following Kolonnawa incident. Minneriya and Hingurakgoda stations impacted.
-
-🟩
-
-All train travels between Batticaloa and Colombo Fort were canceled today (17).
-
-There are 6 train travels between Batticaloa and Colombo Fort.
-
-The Railway Department said that the travel was canceled due to the accident in the Kolonnawa oil storage terminal.
-
-The accident occurred in a area where the minneriya and Hingurakgoda railway stations were captured and two of them had been discontinued.
-
-◼️
-
-[Data](articles/a1026d33.json)
-
-[Extended Data](ext_articles/a1026d33.ext.json)
-
----
-
-### බිත්තර සඳහා මිල සූත්‍රයක් ඉල්ලයි
-
-*2024-10-18 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202300) · `si`
-
-Egg trade associations request government price formula. Price increase due to rising costs. Committee suggested to set fair prices based on production costs.
-
-🟩
-
-The Eggs Trade Associations have asked the government to submit a price formula to determine the price of an egg.
-
-The All Ceylon Lagoon Trade Association Secretary Anura Marasinghe said that a cost of Rs.
-
-"The crisis related crisis is not resolved yet. රුපියල් 40 - 45 දක්වා වෙළෙඳපොළේ බිත්තර මිල වැඩි වෙලා. Introduce a committee to appoint a committee and introduce a price formula. බිත්තරයක ඇත්තම නිෂ්පාදන වියදම රුපියල් 20ත් 23ත් අතර යන්නේ. ගොවිපොළෙන් රුපියල් 30කට බිත්තරය දෙන්න පුළුවන්."
-
-◼️
-
-[Data](articles/2623d174.json)
-
-[Extended Data](ext_articles/2623d174.ext.json)
-
----
-
-### 2 wild elephants killedThe train service is delayed
-
-*2024-10-18 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196544) · `ta`
-
-Wild elephants crash train near Batticaloa, killing 2, delaying services.
-
-🟩
-
-A wild elephant crowd crashed into a train carrying fuel from Kolonnawa oil storage to Batticaloa.
-
-The accident occurred at around 3.30 am today (18) at the Kaloya -Hingurgodai railway stations.
-
-Two wild elephants died in the accident and many wild elephants were severely injured.
-
-Four fuel tanks of the train have been blocked and two fuel tanks have been overcome. In addition, the train's driver and controller travelers are also interrupted.
-
-Meanwhile, the Railway Department has taken steps to cancel the train service from Colombo Fort to Batticaloa and Batticaloa to Colombo this morning.
-
-◼️
-
-[Data](articles/1a21c2e1.json)
-
-[Extended Data](ext_articles/1a21c2e1.ext.json)
-
----
-
-### 2024 General Election: Candidates advised to appoint financial managers
-
-*2024-10-18 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102772/2024-general-election-candidates-advised-to-appoint-financial-managers) · `en`
-
-The People’s Action for Free and Fair Elections (PAFFREL) points out that it is appropriate for the candidates contesting the upcoming General Election to appoint a separate individual to manage and maintain their financial records.
-
-Its Executive Director Rohana Hettiarachchi, stated that if not candidates may encounter challenges similar to those experienced in the last presidential election when submitting accurate income and expenditure reports.
-
-Meanwhile, the Executive Director of Institute for Democratic Reforms and Electoral Studies (IRES), Manjula Gajanayake further stressed the consequences for candidates who fail to provide proper expense reports.
-
-“If in any way a candidate is unable to provide his expense reports, or if false information is entered, candidate may lose his political rights for 3 years through a judicial process,” he added.
-
-Gajanayake further said that it could also lead to disqualification of the candidate’s position through a petition.
-
-◼️
-
-[Data](articles/bdde2a4b.json)
-
-[Extended Data](ext_articles/bdde2a4b.ext.json)
-
----
-
-### To the attention of the public ...
-
-*2024-10-18 09:32:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களின்-கவனத்துக்கு/175-345645) · `ta`
-
-CERT warns public about fake subsidy scams. Senior engineer advises against sharing suspicious links.
-
-🟩
-
-The Certificate Emergency Committee (CERT) has warned that the government is providing financial subsidies, and that the public will be aware of it.
-
-Commenting on this, CERT's senior engineer Saruka Taunubola said, “There have been many complaints from the public about receiving fake news promising to provide a subsidy of Rs 50,000.
-
-Avoid clicking on any links in these messages and sharing these links with others, ”he advised the public.
-
-◼️
-
-[Data](articles/7740eb77.json)
-
-[Extended Data](ext_articles/7740eb77.ext.json)
-
----
-
-### 1990 සිට හමාස් නායකයන් ඝාතනය කළ ඊශ්‍රායෙලය
-
-*2024-10-18 09:31:17* · [`adalk`](https://www.ada.lk/breaking_news/1990-සිට-හමාස්-නායකයන්-ඝාතනය-කළ-ඊශ්‍රායෙලය/11-412553) · `si`
-
-Here's a 200-character summary:
-
-
-
-Hamas leaders assassinated in Israel since 1990. Yehya Shinwar killed by Israeli security forces. His assassination seen as major victory against Hamas recently reported internationally.
-
-🟩
-
-හමාස් සංවිධානයේ නායක යහ්යා ශින්වාර් ඊශ්‍රායෙලයේ ආරක්ෂක අංශ විසින් ඝාතනය කර තිබේ. ශින්වාර්ගේ ඝාතනය හමාස් සංවිධානයට එරෙහිව ඊශ්‍රායෙලය මෑතකදී ලබාගත් විශාල ජයග්‍රහණයක් බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
-
-මේ අනුව 1990 දශකයේ සිටම හමාස් සංවිධානය විසින් නම් කරනු ලබන සියලුම නායකයන් ඊශ්‍රායෙලය විසින් ඝාතනය කර තිබේ.
-
-◼️
-
-[Data](articles/2ab4278e.json)
-
-[Extended Data](ext_articles/2ab4278e.ext.json)
-
----
-
-### Tamilnadu Party Elections Office in Mannar
-
-*2024-10-18 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196545) · `ta`
-
-Tamilnadu Party Elections Office Mannar: TNA candidate Selvaraj Dinesan opens office. Youth meeting held. Support from former MP Sivamohan for election campaign.
-
-🟩
-
-The main party office for the Tamil National Party for the parliamentary election was opened by the TNA candidate Selvaraj Dinesan on Thursday evening (17) evening.
-
-The office was opened as the Mannar district election activities and the party -based electoral process.
-
-At the same time, a meeting for the youth of the TNA was also held at the Mannar private hotel.
-
-In Mannar district, Devanpitiya, Vattakandal, Silimalai, Santhipuram, Talaimannar, Basal and Murukkal, many villages have come to a gathering for a gathering.
-
-At the same time, Sivamohan, a former MP and doctor, attended the event and gave support for the election this year to Attorney Selvaraja Dineason.
-
-◼️
-
-[Data](articles/c948cd5c.json)
-
-[Extended Data](ext_articles/c948cd5c.ext.json)
 
 ---

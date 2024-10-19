@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 17:23:27**
+As of **2024-10-19 17:40:28**
 
 ## Newspaper Stats
 
-*Scraped **50,292** Articles*
+*Scraped **50,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,433
 adalk | 4,663
 dailymirrorlk | 4,733
 adaderanalk | 5,957
-tamilmirrorlk | 6,887
+tamilmirrorlk | 6,888
 virakesarilk | 8,057
 adaderanasinhalalk | 8,726
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,726
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,292 (100.0%) of 50,292 articles have been extended.
+50,293 (100.0%) of 50,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### European Union Ambassador to Sri Lanka with Prime Minister
+
+*2024-10-19 16:57:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமருடன்-இலங்கைக்கான-ஐரோப்பிய-ஒன்றியத்தின்-தூதுவர்-சந்திப்பு/175-345688) · `ta`
+
+EU Ambassador meets Sri Lanka PM: Discusses GSP+ scheme, foreign investment, and anti-corruption efforts. Strengthens bilateral ties.
+
+🟩
+
+A meeting was held at the Colombo Prime Minister's Office on Friday (18) between the European Union Ambassador to Sri Lanka Carmen Moreno and Prime Minister Dr. Harini Amarasuriya.
+
+Strong and long -term contacts between the EU and Sri Lanka have been further strengthened through this meeting.
+
+The Prime Minister pointed out the importance of the continued cooperation of the European Union for the GSP + Business Scheme, which contributed to increasing Sri Lanka's exports.
+
+The Prime Minister said his government's aim was to increase foreign investment by strengthening corruption and strengthening corporations such as the Investment Board. (An)
+
+◼️
+
+[Data](articles/da8fd01d.json)
+
+[Extended Data](ext_articles/da8fd01d.ext.json)
+
+---
 
 ### Rumor of India is the vegetarian actress jacleen
 
@@ -100,11 +124,15 @@ They say that batteries are at risk of swimming explosion.
 
 *2024-10-19 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102798/indian-flight-lands-at-bia-due-to-bombs-scare-search-underway) · `en`
 
-An Indian passenger flight from Mumbai has made an emergency landing at the Bandaranaike International Airport (BIA) in Katunayake due to a bomb scare.
+An Indian passenger flight arriving from Mumbai has made an emergency landing at the Bandaranaike International Airport (BIA) in Katunayake due to a bomb scare.
 
 All 96 passengers and 08 crew members of the flight have been evacuated and a special search operation is being carried out in the aircraft at the BIA, Sri Lanka’s Police Spokesman DIG Nihal Thalduwa said.
 
-◼️
+Meanwhile, the Airport and Aviation Services (Sri Lanka) (Private) Limited has issued a statement regarding the matter confirming that there is no threat over the reported bomb scare on the Vistara flight UK 131 (A320 Neo) from Mumbai to Colombo.
+
+It said that the management of Bandaranaike International Airport (BIA) adopted all precautionary and preventive measures in response to a reported bomb scare on the Vistara flight from Mumbai to Colombo, which was scheduled to arrive at 14:51 hrs at the BIA.
+
+...
 
 [Data](articles/0a3795ea.json)
 
@@ -2301,27 +2329,5 @@ A total of 568,859 coconuts were offered at the auction and 532,346 were sold.
 [Data](articles/b15f708e.json)
 
 [Extended Data](ext_articles/b15f708e.ext.json)
-
----
-
-### Gammanpila wait for calling from Minister Vijitha
-
-*2024-10-18 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202320) · `si`
-
-Gammanpila claims Minister Vijitha avoids calls about non-publicized national security attachments. He sent a letter via registered mail regarding commission records.
-
-🟩
-
-Non-comical attachment for national security is not publicized and that the number of commissions are published only public reports, said the Colombo District candidate Gammanpila.
-
-He was speaking at a press conference held at the party headquarters in party headquarters today.
-
-"The Kingdom Secret is the account in the report. I phone Vijitha Herath phone to the phone and call attachments "Day and a preimy. He answered the phone. Then he was texted to call me the Udaya Gammanpila, the Can Go Drop. There is no response to that too. He is deliberately avoiding me. As such, he had written by registered post. We only make the commissions records. None of the sensitive attachment for national security ".
-
-◼️
-
-[Data](articles/d30abeb7.json)
-
-[Extended Data](ext_articles/d30abeb7.ext.json)
 
 ---

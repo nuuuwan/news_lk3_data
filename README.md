@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 12:24:39**
+As of **2024-10-19 12:57:50**
 
 ## Newspaper Stats
 
@@ -128,7 +128,15 @@ The railway line was severely damaged and the train had fuel tanks. Two wild ele
 
 Train services between Colombo Fort and Batticaloa have resumed today after the tracks were cleared following yesterday’s accident involving a fuel train near the Minneriya Rotawewa area, according to Sri Lanka Railways.
 
-◼️
+All train services between Batticaloa and Colombo Fort were canceled yesterday (18), following the derailment of a train after colliding a herd of wild elephants.
+
+Six daily trains operate on this route, but services were suspended due to a collision involving a train transporting fuel.
+
+The incident occurred between the Minneriya and Higurakgoda railway stations when the train, en route from the Kolonnawa petroleum storage terminal to Batticaloa, struck a herd of wild elephants.
+
+The incident tragically resulted in the death of two wild elephants and left another seriously injured. The train, en route to Batticaloa, was transporting fuel when it struck the elephants, causing the derailment.
+
+...
 
 [Data](articles/bd8bcf13.json)
 

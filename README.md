@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 00:39:19**
+As of **2024-10-20 00:56:07**
 
 ## Newspaper Stats
 
-*Scraped **50,313** Articles*
+*Scraped **50,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,52 @@ adalk | 4,664
 dailymirrorlk | 4,733
 adaderanalk | 5,962
 tamilmirrorlk | 6,890
-virakesarilk | 8,057
+virakesarilk | 8,058
 adaderanasinhalalk | 8,734
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,313 (100.0%) of 50,313 articles have been extended.
+50,314 (100.0%) of 50,314 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-20 (Sunday)
+
+### Sri Lanka wins 100 goals at Asian Netball Championships with Saudi
+
+*2024-10-20 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/196663) · `ta`
+
+Sri Lanka dominates Saudi Arabia 118-5 in Asian Netball Championship. Tissa Alkama scores 76 goals, while Hasitha Mendis and Rashmi Perera contribute 29 goals each. Sri Lanka faces India next.
+
+🟩
+
+Sri Lanka won Saudi Arabia at the Asian Network A group against Saudi Arabia on Saturday night (19) at the Koramangalam Indoor Stadium, India, India, and won by a margin of 118 - 5.
+
+Sri Lanka played the first quarter -hour game 27 - 2 from the beginning to the end.
+
+The Sri Lankan -up part of the second quarter -hour play was a 32 - 0.
+
+Sri Lanka took the lead by 59 - 2 during the break.
+
+After the break, Sri Lanka also made the third quarter -hour game at 32 - 1.
+
+Tissala Alkama, who scored 76 goals, was restored in the 4th -quarter -hour match.
+
+However, Hashitha Mendis scored 13 goals and Rashmi Perera 14 goals and 27 - 2 won by a total of 118 - 5.
+
+Hasitha Mendis, who played more effectively than Tisala Alkama, scored 16 goals and Rashmi Perera 24 goals.
+
+Sri Lanka will oppose India, the reception country on Sunday (20).
+
+◼️
+
+[Data](articles/c45e383c.json)
+
+[Extended Data](ext_articles/c45e383c.ext.json)
+
+---
 
 ### 2024-10-19 (Saturday)
 
@@ -2307,25 +2343,5 @@ Jaffna University Student Union representatives claim true change comes from wit
 [Data](articles/a01cb070.json)
 
 [Extended Data](ext_articles/a01cb070.ext.json)
-
----
-
-### The election manifesto of the Tamil People's Alliance was released
-
-*2024-10-19 00:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196618) · `ta`
-
-Tamil People's Alliance releases 2024 election manifesto. Party leader KV Wigneswaran unveiled it at his residence. Candidate V. Manivannan received the first copy.
-
-🟩
-
-The election manifesto of the Tamil People's Alliance (TNA) for the 2024 parliamentary elections was released at the residence of party leader KV Wigneswaran at 4 pm on Friday.
-
-The party's Jaffna district chief candidate V. Manivannan received the first copy of the Tamil People's Alliance leader KV Wigneswaran.
-
-◼️
-
-[Data](articles/6bed1d20.json)
-
-[Extended Data](ext_articles/6bed1d20.ext.json)
 
 ---

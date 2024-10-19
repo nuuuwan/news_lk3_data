@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 15:58:11**
+As of **2024-10-19 16:11:21**
 
 ## Newspaper Stats
 
-*Scraped **50,278** Articles*
+*Scraped **50,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,077
 dailyftlk | 3,433
 adalk | 4,663
 dailymirrorlk | 4,733
-adaderanalk | 5,955
-tamilmirrorlk | 6,884
+adaderanalk | 5,956
+tamilmirrorlk | 6,886
 virakesarilk | 8,052
 adaderanasinhalalk | 8,722
 
@@ -26,11 +26,65 @@ adaderanasinhalalk | 8,722
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,278 (100.0%) of 50,278 articles have been extended.
+50,279 (100.0%) of 50,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### முன்னாள் ஜனாதிபதிகளின் தலைமையில் புதிய முன்னணி உதயம்?
+
+*2024-10-19 16:04:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முன்னாள்-ஜனாதிபதிகளின்-தலைமையில்-புதிய-முன்னணி-உதயம்/150-345686) · `ta`
+
+தமது சிறப்புரிமைகள் நீக்கப்படுவதற்கு எதிராக குரல் எழுப்பும் முகமாக, முன்னாள் ஜனாதிபதிகள் தலைமையில் முன்னணியொன்றை அமைப்பது தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளது.
+
+இவ்விடயத்தில், தனிப்பட்ட முறையில் போராடுவதை விட, கூட்டாகச் செயற்படுவது பலனளிக்கும் என, முன்னாள் ஜனாதிபதிகள் பலரும் ஏற்கனவே கருத்து வெளியிட்டுள்ளனர் என்பது தெரிந்ததே.
+
+பட்டயக் கணக்காளர்கள் நிறுவனம. அண்மையில் நடத்திய அறிவார்ந்த கலந்துரையாடலில் முன்னாள் ஜனாதிபதிகள் பலர் கலந்துகொண்டு நாட்டின் பிரச்சினைகள் குறித்து கருத்து தெரிவித்ததாக அரசியல் வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இந்நிலையில், முன்னாள் ஜனாதிபதிகளின் சிறப்புரிமைகளை மீளாய்வு செய்வதற்காக நியமிக்கப்பட்ட மூவரடங்கிய குழுவிடம் முன்னாள் ஜனாதிபதிகள் ஏற்கனவே இது தொடர்பான விடயங்களை முன்வைத்துள்ளனர்.
+
+முன்னாள் ஜனாதிபதிகளுக்கு தற்போது வழங்கப்பட்டு வரும் வசதிகள் அதிகம் என்ற சமூகப் பேச்சு காரணமாகவே அரசாங்கம் இந்த மூவரடங்கிய குழுவை நியமித்தமை குறிப்பிடத்தக்கது.(AN)
+
+◼️
+
+[Data](articles/7b800e28.json)
+
+---
+
+### இஸ்ரேல் பிரதமர் வீட்டின் மீது ட்ரோன் தாக்குதல்
+
+*2024-10-19 15:58:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-பிரதமர்-வீட்டின்-மீது-ட்ரோன்-தாக்குதல்/50-345685) · `ta`
+
+லெபனான் நாட்டிலிருந்து அனுப்பப்பட்ட ட்ரோன் இஸ்ரேல் நாட்டின் பிரதமர் பெஞ்சமின் நெதன்யாகுவின் வீட்டுக்கு அருகே வெடித்து சிதறியதாகவும், இதில் அந்த கட்டிடத்தின் ஒரு பகுதி சேதமடைந்துள்ளதாகவும் தகவல் வெளியாகி உள்ளது.
+
+பாலஸ்தீனத்தின் காசா பகுதியில் செயல்படும் ஹமாசுக்கும் - இஸ்ரேலுக்கும் இடையே கடந்த ஓராண்டுகளாக போர் நடந்து வருகிறது. இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகு உத்தரவின்பேரில் அந்த நாட்டு படைகள் காசாவுக்குள் நுழைந்து தொடர்ந்து தாக்குதல் நடந்து வருகிறது. இந்த போர் ஓராண்டை கடந்தும் தொடர்ந்து வருகிறது.
+
+ஹமாஸின் அரசியல் பிரிவு தலைவர் இஸ்மாயில் ஹனியே கடந்த ஜூன் மாதம் இஸ்ரேல் தீர்த்து கட்டியது. ஈரான் புதிய அதிபர் மசூத் பெசெஷ்கியன் பதவியேற்பு விழாவில் பங்கேற்க அந்த நாட்டின் தலைநகரான டெக்ரான் சென்ற நிலையில் அங்கு வைத்து இஸ்மாயில் ஹனியே தங்கியிருந்த வீட்டின் மீது வான்வெளி தாக்குதல் நடத்தி இஸ்ரேல் தீர்த்து கட்டியது.
+
+...
+
+[Data](articles/516f734c.json)
+
+---
+
+### Indian Navy ship ‘Kalpeni’ visits Colombo
+
+*2024-10-19 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102797/indian-navy-ship-kalpeni-visits-colombo) · `en`
+
+Indian Navy’s ship, INS Kalpeni, arrived in Colombo today (19), according to a statement issued by the High Commission of India.
+
+The High Commission noted that the ship was warmly welcomed by the Sri Lanka Navy in accordance with naval traditions. The Commanding Officer, Commander Sunil Kulhari will call on Commander, Western Naval Area, Rear Admiral Chinthaka Kumarasinghe during the stay.
+
+INS Kalpeni is a Car Nicobar class Waterjet FAC of the Indian Navy commissioned on 14 October 2010. The ship is named after Kalpeni Island in the Lakshadweep group of Islands. The ship is based at Kochi with the primary role of Coastal Surveillance and Defence.  The ship specialises in anti-smuggling, Vessel Boarding Search & Seizure as well as Search & Rescue operations.
+
+...
+
+[Data](articles/147c2c3e.json)
+
+[Extended Data](ext_articles/147c2c3e.ext.json)
+
+---
 
 ### Causes of problems in weather forecast
 
@@ -2235,77 +2289,5 @@ Vehicle owners in the Western Province who have vehicles registered in other pro
 [Data](articles/577d5e36.json)
 
 [Extended Data](ext_articles/577d5e36.ext.json)
-
----
-
-### Notice of obtaining vehicle revenue license
-
-*2024-10-18 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202318) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Minister Vijitha Herath instructs linking Western Province with other provinces. Ministry of Ports and Civil Aviation issues statement about lack of provincial inter-income license. Vehicle owners in Western Province registered elsewhere. Minister advises Western Province Governor and relevant divisions to act quickly.
-
-🟩
-
-Minister Vijitha Herath has instructed the relevant officials to link the Western Province with the Western Province with other provinces.
-
-The Ministry of Ports and Civil Aviation has issued a statement.
-
-The statement states that there is no provincial inter-income license to obtain an provincial interconnection, but it has not been implemented in the Western Province, the essential province.
-
-The statement states that the vehicle owner of a vehicle owner in the Western Province is registered in another province.
-
-The Western Province, Minister Vijitha Herath has advised the Western Province Governor of the Western Province and advising the relevant divisions as soon as possible.
-
-◼️
-
-[Data](articles/7f089050.json)
-
-[Extended Data](ext_articles/7f089050.ext.json)
-
----
-
-### The bid price has not been made to pay
-
-*2024-10-18 17:26:24* · [`adalk`](https://www.ada.lk/breaking_news/ලංසු-මිළ-ගණන්-නොකැඳවා-සිටීමට-තීරණයක්-ගෙන-නෑ/11-412556) · `si`
-
-Bid price unchanged under new management. Ceylon Electricity Board generates 1% of electricity via diesel. No changes to competitive pricing strategy.
-
-🟩
-
-The new management has not made any decision to change competitive bidding prices to generate the Ceylon Electricity Board to generate electricity.
-
-The CEB is also known that the total value of electricity generation is about 1 percent in the total electricity generation of electricity using diesel.
-
-◼️
-
-[Data](articles/0fb81fb9.json)
-
-[Extended Data](ext_articles/0fb81fb9.ext.json)
-
----
-
-### Independent Committee in Jaffna released 13 election manifesto
-
-*2024-10-18 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/196601) · `ta`
-
-Jaffna election: Tamil Youth Federation releases manifesto. Committee led by Martyr Ponni Ponni starts campaign. Manifesto handed to Sivakumaran's sister.
-
-🟩
-
-The Independent Committee of the Independent Committee, which is contesting in the Independent Committee as the Tamil Youth Federation in the Jaffna election district, was released in Jaffna today (18).
-
-Martyr Ponni Ponni, the first supremacist who fought as a student in the history of the Tamil nation. Former President of the Jaffna University Student Union. Held by Krishnaminan.
-
-At the event, they paid tribute to the statue of the statue and handed over the election manifesto to Sivakumaran's sister and officially started their election campaigns.
-
-◼️
-
-[Data](articles/29c81dd4.json)
-
-[Extended Data](ext_articles/29c81dd4.ext.json)
 
 ---

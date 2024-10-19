@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 17:08:54**
+As of **2024-10-19 17:23:27**
 
 ## Newspaper Stats
 
-*Scraped **50,291** Articles*
+*Scraped **50,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ dailymirrorlk | 4,733
 adaderanalk | 5,957
 tamilmirrorlk | 6,887
 virakesarilk | 8,057
-adaderanasinhalalk | 8,725
+adaderanasinhalalk | 8,726
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,291 (100.0%) of 50,291 articles have been extended.
+50,292 (100.0%) of 50,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Rumor of India is the vegetarian actress jacleen
+
+*2024-10-19 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202348) · `si`
+
+Here's a 200-character summary:
+
+
+
+Jacqueline Fernandes, a Sri Lankan-Malaysian actress, adopted a vegetarian lifestyle. She began her Bollywood career in 2010, starring in films like "Aladin." The US-based NGO Petta recognized her as a vegetarian actress, highlighting her commitment to animal welfare and compassion.
+
+🟩
+
+The Sri Lankan origin, the Bollywood actress of Sri Lankan origin as the vegetarian actress, has been evaluated as the vegetarian actress.
+
+Jacqueline Fernandes is the "Vegetarian Actress" by the Petta, an US-based NGO, who appearing for animals.
+
+It is a respect for the sacrificial of the animal welfare and to the maintenance of pity and mercy.
+
+The father of Jacqueline is a Sri Lankan origin and her mother is a woman with a Malaysian origin.
+
+Jacquel has migrated to Bahrain, and later she had begun career in the image of the imagery.
+
+Jacquel that converts the universal universal in Sri Lanka in 2006, Jacquel to visit India and entered Bollywood cinema by photographing Jasmin's role across the movie Alading.
+
+The best illustration of the merger of a vegetarian lifestyle is the best illustration of the freshness of the animals, and the best illustration of the freshly emission she has caught his voice.
+
+The Petta was evaluated to maintain a lifestyle free lifestyle from the meat.
+
+◼️
+
+[Data](articles/a96163a5.json)
+
+[Extended Data](ext_articles/a96163a5.ext.json)
+
+---
 
 ### A cell phone exploding in Hatton
 
@@ -2287,35 +2323,5 @@ He was speaking at a press conference held at the party headquarters in party he
 [Data](articles/d30abeb7.json)
 
 [Extended Data](ext_articles/d30abeb7.ext.json)
-
----
-
-### Pakistan who launched the UK;Test series balanced as 1 - 1
-
-*2024-10-18 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196612) · `ta`
-
-Pakistan vs England test series tied 1-1 after Pakistan wins 2nd match by 152 runs. Noman Ali takes 8/46 in England's 2nd innings, Sajid Khan 9/204 overall. England needs 261 more runs to win on final day.
-
-🟩
-
-Pakistan won by 152 runs today, the fourth day of the 2nd Test match between England and Pakistan at Multan Cricket Stadium.
-
-Pakistan, who retaliated by an innings and 47 runs in last week's first Test cricket match at the same playground, retaliated by the second match for England, equalizes the 3 -match series 1 - 1.
-
-In England's second innings, Noman Ali took 8 wickets for 46 runs and gave Pakistan's victory.
-
-This is the best bowling of Noman Ali in a Test cricket innings.
-
-Noman Ali took 3 wickets for 101 runs in the first innings and took 11 wickets for 147 runs in the entire match. He scored 32 runs in the first innings.
-
-Sajid Khan took 7 wickets for 111 runs in the first innings of the match and took 2 wickets for 93 runs in the second innings. He scored 22 runs in the 2nd innings.
-
-Sajid Khan was awarded the Man of the Match award, though Noman Ali's energy manifestations were excellent.
-
-...
-
-[Data](articles/36945e3d.json)
-
-[Extended Data](ext_articles/36945e3d.ext.json)
 
 ---

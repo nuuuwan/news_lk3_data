@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 09:23:49**
+As of **2024-10-19 09:58:42**
 
 ## Newspaper Stats
 
-*Scraped **50,242** Articles*
+*Scraped **50,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,91 @@ dailyftlk | 3,433
 adalk | 4,661
 dailymirrorlk | 4,733
 adaderanalk | 5,948
-tamilmirrorlk | 6,874
-virakesarilk | 8,047
+tamilmirrorlk | 6,876
+virakesarilk | 8,049
 adaderanasinhalalk | 8,711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,242 (100.0%) of 50,242 articles have been extended.
+50,246 (100.0%) of 50,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### New Chairman appointed to Sri Lanka Investment Council
+
+*2024-10-19 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196625) · `ta`
+
+Sri Lanka appoints new Chairman for Investment Council. He previously worked at Ernst & Young, serving as senior partner and advisor for both countries.
+
+🟩
+
+He has served as a senior partner and adviser to Sri Lanka and the Maldives of Ernst and Young.
+
+◼️
+
+[Data](articles/478d5578.json)
+
+[Extended Data](ext_articles/478d5578.ext.json)
+
+---
+
+### Nine arrested in violation of election rules
+
+*2024-10-19 09:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-விதிமுறைகளை-மீறிய-09-பேர்-கைது/175-345677) · `ta`
+
+Nine arrested for election rule violations. Police received 8 complaints. Election commissioner threatens disciplinary action against non-compliant officials.
+
+🟩
+
+Nine persons have been arrested in connection with the complaints received regarding the general election, police said.
+
+The number of complaints received by the police on election law violations is 8.
+
+All those complaints have been received in connection with the violation of election laws. Meanwhile, the Commissioner General of Elections Saman Sri Ratnayake has said that disciplinary action will be taken against the authorities including the police who are not acting against the election laws.. (That)
+
+◼️
+
+[Data](articles/8327d3e9.json)
+
+[Extended Data](ext_articles/8327d3e9.ext.json)
+
+---
+
+### Rainfall in some parts of the Northern Province
+
+*2024-10-19 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196622) · `ta`
+
+Northern Province: Rain/thunderstorms possible. Sabaragamuwa, Western, North Western, Galle, Matara, Kandy, Nuwara Eliya districts affected. Uva, Eastern Provinces: Evening/night rain/thunderstorms likely. Strong winds/lightning warnings issued. Sea regions: Puttalam-Colombo-Galle, Mannar-Trincomalee-Kankesanthurai experiencing rainfall. Southwest winds 25-35 km/h, increasing to 45 km/h in some areas. Turbulent sea conditions reported.
+
+🟩
+
+Senior Weather Officer of the Atmospheric Department, Dr. Mohamed Salihin said rain or thunderstorms are likely to occur in some parts of the Northern Province.
+
+Rainfall is likely to occur in Sabaragamuwa, Western and North Western Provinces as well as Galle, Matara, Kandy and Nuwara Eliya districts.
+
+In some parts of the Uva and the Eastern Provinces, there is a chance of rain or thunderstorms in the evening or night.
+
+The public is asked to take care in the events of strong winds and lightning.
+
+Rainfall is expected in the sea regions from Puttalam to Colombo and Galle.
+
+Rainfall is expected in many parts of the sea regions from Mannar to Trincomalee via Kankesanthurai.
+
+Winds from the southwestern direction at speeds of 25 - 35 km / h in the sea regions around the country.
+
+From the beginning of the Kankesanthurai to Mannar, the sea can often increase at 45 km / h in the sea regions from Hambantota to Pottuvil.. In such cases, these sea regions are somewhat turbulent.
+
+...
+
+[Data](articles/71d5bbc2.json)
+
+[Extended Data](ext_articles/71d5bbc2.ext.json)
+
+---
 
 ### Youth arrested for alleged killing
 
@@ -53,6 +125,32 @@ When she was arrested in connection with the murder, she was arrested in the Bal
 [Data](articles/9d688b8a.json)
 
 [Extended Data](ext_articles/9d688b8a.ext.json)
+
+---
+
+### The government to reset Mahinda's vehicles
+
+*2024-10-19 08:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மஹிந்தவின்-வாகனங்களை-மீளகேட்கும்-அரசாங்கம்/150-345676) · `ta`
+
+Sri Lanka government demands return of vehicles from former President Mahinda Rajapaksa due to committee recommendations. Rajapaksa claims threat to safety, criticizes decision.
+
+🟩
+
+Former President and President of the Sri Lanka PA, Mahinda Rajapaksa, has been asked to hand over three security vehicles to the government for the protection of the government.
+
+Former president's sources say that the vehicles will be handed over after he arrived in Colombo as the former president is staying at home in Tangalle.
+
+In this case, the recommendations of the President -appointed Committee to investigate the privileges of the former presidents have caused many people to take such action.
+
+When asked by the Secretary of the Sri Lanka PA, the Secretary of the Sri Lanka PA, and the former Member of Parliament, Sakara Kariyawasam, it was revealed that the government had issued a notice to hand over some of the vehicles used by Mahinda Rajapaksa's bodyguards.
+
+Former President Mahinda Rajapakse is threatened with his life as the leader who ended the war in this country.. He also said that it was wrong to act like this without thinking of this threat to him.
+
+◼️
+
+[Data](articles/60ce9f3b.json)
+
+[Extended Data](ext_articles/60ce9f3b.ext.json)
 
 ---
 
@@ -2307,91 +2405,5 @@ The petition requests the Supreme Court to issue a writ order invalidating the R
 [Data](articles/947e3232.json)
 
 [Extended Data](ext_articles/947e3232.ext.json)
-
----
-
-### There are also reveals about the homes targeting many treasures
-
-*2024-10-18 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202308) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Robbery suspects target homes, rape victims. Police reveal details about two robbers abusing women in multiple locations. Suspects kill victims after sexual assault. Attorney Nihal Talduwa provides information about the suspects' modus operandi.
-
-🟩
-
-The police have revealed several more information regarding the two robbers who were sexually abused by many areas and sexually abuse women.
-
-Police said the suspects had been abused and killed by the suspects.
-
-Ada Derana revealed that a robbery robbery is robbed in Dompe, Weliweriya and Malwwathu Hiripitiya.
-
-Accordingly, the OIC of the OIC of the OIC of the Malwathathhipitiya Police OIC, the OIC of the Malwathuhidupitiya OIC, was arrested on the 16th of the 16th of the 16th of the 16th.
-
-Attorney at Law Nihal Talduuwa, police spokesman, who had revealed information about the suspects were revealed.
-
-"The homes they choose for this are the homes of only one male. Similarly, they choose the homes of a large house. The specialty is to remove the residents or to tear. They are then raped in front of these residents.
-
-Similarly, they have been reported in the crimes that the pattern has been involved in Weliweriya and Kirindiwela.
-
-◼️
-
-[Data](articles/cd92d5e4.json)
-
-[Extended Data](ext_articles/cd92d5e4.ext.json)
-
----
-
-### Naming Sri Lanka One Day squad
-
-*2024-10-18 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202307) · `si`
-
-Sri Lanka names ODI squad vs West Indies.
-
-🟩
-
-The Sri Lankan squad has been named for the ODI series between the West Indies and Sri Lanka.
-
-◼️
-
-[Data](articles/221787f5.json)
-
-[Extended Data](ext_articles/221787f5.ext.json)
-
----
-
-### புதிய தலைவர் பதவியேற்பு
-
-*2024-10-18 13:03:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-தலைவர்-பதவியேற்பு/175-345648) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"New leader appointment: Vijitha Hera, Minister of Rural, Urban Development and Housing and Construction, appoints a new head."
-
-🟩
-
-He has been appointed by the Minister of Rural, Urban Development and Housing and Construction, Vijitha Hera.
-
-◼️
-
-[Data](articles/462b4979.json)
-
-[Extended Data](ext_articles/462b4979.ext.json)
-
----
-
-### Need For Laying A Solid Foundation For Creating A Strong Nation: Avoid Giving Painkillers When Surgery Is Needed
-
-*2024-10-18 13:02:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/need-for-laying-a-solid-foundation-for-creating-a-strong-nation-avoid-giving-painkillers-when-surgery-is-needed/) · `en`
-
-...
-
-[Data](articles/21f0e7b5.json)
-
-[Extended Data](ext_articles/21f0e7b5.ext.json)
 
 ---

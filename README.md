@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 15:39:06**
+As of **2024-10-19 15:58:11**
 
 ## Newspaper Stats
 
-*Scraped **50,277** Articles*
+*Scraped **50,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,955
 tamilmirrorlk | 6,884
 virakesarilk | 8,052
-adaderanasinhalalk | 8,721
+adaderanasinhalalk | 8,722
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,277 (100.0%) of 50,277 articles have been extended.
+50,278 (100.0%) of 50,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Causes of problems in weather forecast
+
+*2024-10-19 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202342) · `si`
+
+Weather forecast issues: Radar system loss, equipment mismanagement, reduced operational capacity, financial waste, and incomplete installation of Doppler radar systems.
+
+🟩
+
+The National Auditor General's office has been revealed that the Department of National Auditor General has been diagnosed with the propaganda of the Department of Meteorological and Forecholacts.
+
+It states that the country has lost a modern technique radar system that has donated from Japan due to the irregular program of the officers.
+
+The weather is essential to maintain the preservation of the world's weather forecast, but the country's weather department is essential to such equipment.
+
+The Department of Meteorological Department has operated only 70 rainfalls, from 31 2023, from May 31, 2023.
+
+Accordingly, about 52 rainfalls have been inactive and only 36 rain were maintained on November 30 last year.
+
+The report issued by the Auditor General's office that 44 continuously excluding 453 traditional rainyers and 44 consecutive rainy explosives across the country.
+
+...
+
+[Data](articles/44dbf9f2.json)
+
+[Extended Data](ext_articles/44dbf9f2.ext.json)
+
+---
 
 ### ‘Sarvajana Balaya’ launches general election campaign from Anuradhapura
 
@@ -2279,37 +2307,5 @@ At the event, they paid tribute to the statue of the statue and handed over the 
 [Data](articles/29c81dd4.json)
 
 [Extended Data](ext_articles/29c81dd4.ext.json)
-
----
-
-### Woman returned to country in Saudi Arabia
-
-*2024-10-18 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196598) · `ta`
-
-A 44-year-old Sri Lankan woman, mother of three, returned home after treatment in Saudi Arabia for injuries sustained in a vehicle accident. She had been working abroad due to financial difficulties. Local officials assisted her repatriation.
-
-🟩
-
-Saudi Arabia has returned to the country this morning (18) after being treated for a woman who was injured in a vehicle accident.
-
-The woman is the mother of three children, aged 44, from Ketamanna, Beliatta. He arrived at the Katunayake airport at 04.25 am today from Sharjah.
-
-“I live in Beliatta, Kedamanna area. I have three children. We don't have a comfortable house with the door.
-
-Because of this, I went to Saudi Arabia on August 17, with the help of a foreign employment company in Maradana, Colombo.
-
-When I reached Saudi Arabia, a vehicle was sent to the airport to take me.
-
-Doctors at the hospital, you can't work in this physical condition. So they told me that you would have to go back to Sri Lanka.
-
-The Foreign Employment Agency in Maradana, Colombo, asked me to bring me to Sri Lanka.
-
-Later, the President of the Sri Lanka Human Rights Organization, Dr. Sarath Jayantha Peiris and many other officials, helped me to bring me to Sri Lanka. ”Said.
-
-◼️
-
-[Data](articles/2735afa9.json)
-
-[Extended Data](ext_articles/2735afa9.ext.json)
 
 ---

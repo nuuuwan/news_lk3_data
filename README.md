@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 12:13:21**
+As of **2024-10-19 12:24:39**
 
 ## Newspaper Stats
 
-*Scraped **50,256** Articles*
+*Scraped **50,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 406
 colombotelegraphcom | 502
 bbccomsinhala | 504
 islandlk | 2,984
-economynextcom | 3,076
+economynextcom | 3,077
 dailyftlk | 3,433
 adalk | 4,663
 dailymirrorlk | 4,733
 adaderanalk | 5,951
-tamilmirrorlk | 6,878
+tamilmirrorlk | 6,880
 virakesarilk | 8,049
 adaderanasinhalalk | 8,714
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,714
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,256 (100.0%) of 50,256 articles have been extended.
+50,259 (100.0%) of 50,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### The train service returned to us
+
+*2024-10-19 11:53:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழமைக்கு-திரும்பிய-ரயில்-சேவை/175-345681) · `ta`
+
+Sri Lanka Railways resumes normal train service between Colombo Fort and Batticaloa as of today (19).
+
+🟩
+
+The Sri Lanka Railways Department has announced that the train service between Colombo Fort and Batticaloa has returned to normal today (19). Remble
+
+◼️
+
+[Data](articles/15af0aee.json)
+
+[Extended Data](ext_articles/15af0aee.ext.json)
+
+---
+
+### Epidase
+
+*2024-10-19 11:36:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சல்-பரவும்-அபாயம்/175-345680) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Epidase: Ministry warns of urinary pollution risk from mouse contamination. Officials advise injured individuals to avoid water contact due to potential germ entry through wounds."
+
+🟩
+
+The Ministry of Health said that the urinary pollution of the mice could be contaminated and the germs that cause rats can enter the body through wounds.
+
+As a precaution, health officials have advised people with injuries to avoid contact with water. (An)
+
+◼️
+
+[Data](articles/514d8d80.json)
+
+[Extended Data](ext_articles/514d8d80.ext.json)
+
+---
 
 ### 'Lady Tharushi' renews an old record for 39 years
 
@@ -205,6 +247,30 @@ The Minister said that the new directors should intervene and take steps to rele
 [Data](articles/196d4581.json)
 
 [Extended Data](ext_articles/196d4581.ext.json)
+
+---
+
+### Sri Lanka state spending sharply below budget amid monetary stability
+
+*2024-10-19 09:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-spending-sharply-below-budget-amid-monetary-stability-184182/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state spending is running sharply below budget, official data show, with the central bank also providing exceptional monetary stability bringing prices down absolutely.
+
+Recurrent expenditure grew only 4.4 percent to 2,042 billion rupees by August 2024, against a 14.5 percent budgeted number, with non-interest expenditure rising 4.6 percent, compared to a budgeted 8.7 percent.
+
+Salaries and wages were up 6.7 percent, against a budgeted 12.5 percent.
+
+However more taxes collected from the people will have to be spent on state salaries in the future, due to slashing of spending power in the 2022 currency collapse.
+
+Spending on goods and services were up 8.2 percent against a budgeted 13.7 percent and subsidies and transfers were up 1.5 percent against a budgeted 3.9 percent.
+
+Sri Lankas central bank has provided exceptional monetary stability in 2024, allowing the currency to appreciate amid deflationary open market operations.
+
+...
+
+[Data](articles/8563b40e.json)
+
+[Extended Data](ext_articles/8563b40e.ext.json)
 
 ---
 
@@ -2271,87 +2337,5 @@ A petition has been filed in the Supreme Court demanding the cancellation of the
 [Data](articles/8306fbe1.json)
 
 [Extended Data](ext_articles/8306fbe1.ext.json)
-
----
-
-### Why not negotiate with the International Monetary Fund
-
-*2024-10-18 15:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-நாணய-நிதியத்துடன்-ஏன்-பேச்சுவார்த்தை-நடத்தவில்லை/175-345651) · `ta`
-
-Sajith Premadasa criticizes government for failing to negotiate with IMF to reduce tax burden. Promises to renegotiate IMF agreement if elected, citing need for economic relief and tax reform.
-
-🟩
-
-“United People's Power President Sajith Premadasa has questioned why the government cannot negotiate with the IMF and reduce tax burden.
-
-A meeting with the United People's Power Party activists was held yesterday (17) under the leadership of Sajith Premadasa, the leader of the United People's Power and United People's Alliance (UPFA).. He then asked.
-
-“While the people are looking for a new journey to negotiate with the IMF, increase the relief available to the people, and reduce the tax burden on the people, the government has been unable to reduce the direct and indirect taxes imposed on the people.
-
-“The destined taxes are similar. The current government continues to comply with the International Monetary Fund. The government has forgotten the promises made during the election.
-
-...
-
-[Data](articles/047f4b0d.json)
-
-[Extended Data](ext_articles/047f4b0d.ext.json)
-
----
-
-### CEB clarified about fueling thermal power plants
-
-*2024-10-18 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202314) · `si`
-
-Here's a 200-character summary:
-
-
-
-CEB clarifies fuel supply for thermal power plants. Uses HFO (5.8%), naphtha (1.9%), diesel (1.1%) for electricity generation. Diesel purchase via CPC at fixed price due to lack of competitive bids. CEB considers diesel uneconomical but uses temporarily to meet demand until other power plants restored.
-
-🟩
-
-The Ceylon Electricity Board has issued a special announcement on supplying fuel to thermal power plants.
-
-It states that some recent newsletters are expected to explain the word 'fuel'.
-
-The Ceylon Electricity Board (Ceylon Electricity Board) is also used to generate three types of fuel to generate electricity.
-
-* Receipt oil (HFO) - 715.3 GWh (5.8% of total electricity production) in 2024
-
-* Napatha (Naphatha) - 235.5 GWH (1.9% of the total electric production) in 2024
-
-* Diesel (Diesel) - 133.1 GWH (1.1% of total electric production) in 2024
-
-Both credits (HFO) and Naupta (Naphatha) are bypace on the oil refinery.
-
-Since there is no other supplier, the Ceylon Electricity Board is purchased by CPC from an anciently agreed price.
-
-Competitive bidding is diesel, and some of them have recently commenced their business for diesel.
-
-However, even under the management of the Ceylon Electricity Board, Diesel has not purchased competitive bids for electricity generation.
-
-...
-
-[Data](articles/c9672e21.json)
-
-[Extended Data](ext_articles/c9672e21.ext.json)
-
----
-
-### Relvin Silva's opinion is the government's opinion?
-
-*2024-10-18 15:09:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரில்வின்-சில்வாவின்-கருத்து-அரசாங்கத்தின்-கருத்தா/175-345650) · `ta`
-
-ரில்வின் சில்வாவின் கருத்து அரசாங்கத்தின் கருத்தா ஜே.வி.பியின் கருத்தா அல்லது தேசிய மக்கள் சக்தியின் கருத்தா என வினவிய முன்னாள் பாராளுமன்ற உறுப்பினரும் ரெலோவின் செயலாளர் நாயகமுமான கோ.கருணாகரம் (ஜனா), கடந்த கால ஜனாதிபதி, பிரதமர் பாணியில் ஜனாதிபதி அனுரகுமார திசாநாயக்காவின் ஆட்சியில் இந்த ரில்வின் சில்வா செயற்படுகிறார் எனவும் கூறினார்.
-
-ஜே.வி.பி.யின் செயலாளர் ரில்வின் சில்வாவின் கருத்துக்கு பதிலளிக்கும் வகையில் இன்று (18) வெளியிட்டுள்ள அறிக்கையிலேயே இவ்வாறு குறிப்பிடப்பட்டுள்ளது.
-
-“This is the idea that JVP secretary Rilvin Silva told me in an interview with Sinhala television. The 13th Amendment to the Constitution is not necessary for the Northern people. Tamil politicians are using it to maintain political existence and that the issue of the people of the North is the need for hospital facilities to marke their production.
-
-...
-
-[Data](articles/c3bb805b.json)
-
-[Extended Data](ext_articles/c3bb805b.ext.json)
 
 ---

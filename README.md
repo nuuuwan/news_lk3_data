@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 20:23:32**
+As of **2024-10-19 20:58:04**
 
 ## Newspaper Stats
 
-*Scraped **50,302** Articles*
+*Scraped **50,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,961
 tamilmirrorlk | 6,888
 virakesarilk | 8,057
-adaderanasinhalalk | 8,730
+adaderanasinhalalk | 8,731
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,302 (100.0%) of 50,302 articles have been extended.
+50,303 (100.0%) of 50,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### New nomination for local government elections
+
+*2024-10-19 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202354) · `si`
+
+Local Government Elections: Nominations open, Elections Commissioner General Saman Sri Ratnayake confirms. Candidates may replace deceased nominees within legal limits.
+
+🟩
+
+The Elections Commission says that nominations will be called for the next Local Government Elections.
+
+Elections Commissioner General Saman Sri Ratnayake said that the election was held on the previous nomination.
+
+"We are implementing the written law passing the specified. If a candidate died, there is a possibility of replacing him. Only the legal limit on pill transfers and other matters have the ability to deal with it. "
+
+◼️
+
+[Data](articles/63f178b4.json)
+
+[Extended Data](ext_articles/63f178b4.ext.json)
+
+---
 
 ### Emergency declared at BIA over ‘bomb scare’ on Indian flight called off
 
@@ -2313,33 +2335,5 @@ Ajuna Herath is a former Chairman of the Institute of Chartered Accountants of S
 [Data](articles/6a23ddee.json)
 
 [Extended Data](ext_articles/6a23ddee.ext.json)
-
----
-
-### Ministry of Finance announced on imposing special commodities
-
-*2024-10-18 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202323) · `si`
-
-Here's a 200-character summary:
-
-
-
-Finance Ministry denies false claims about special commodities. Gazelle notification validity extended until Dec 13, 2024. No government payment made for advertised goods. Main focus: protecting local industries and tax revenue.
-
-🟩
-
-The Ministry has issued a statement from the Ministry of Finance regarding false media advertising that the government has paid new special commodities for 5 types of goods.
-
-It stated that the year-end validity period of the Gazette Notification on October 14, 2023, was completed by October 13, 2024, to prolong it until December 20, 2024, as at 31 December 2024 to be extended until December 13, 2024The gazette notification has been dealt with.
-
-This has not been executed by the government, and the 25 concessionary tax on imported dhal is the main tax collection and the objective of protecting local fisheries and transport cultivation.The Ministry of Finance announced the Ministry.
-
-Typically, the gazette notification has been released for a period of one year, but the tax amount has been decided to maintain the proper study of these taxes until 31.12.3.12.2012.
-
-◼️
-
-[Data](articles/e324d8d8.json)
-
-[Extended Data](ext_articles/e324d8d8.ext.json)
 
 ---

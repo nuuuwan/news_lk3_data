@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 08:58:50**
+As of **2024-10-19 09:12:20**
 
 ## Newspaper Stats
 
-*Scraped **50,239** Articles*
+*Scraped **50,241** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 406
-colombotelegraphcom | 501
+colombotelegraphcom | 502
 bbccomsinhala | 504
 islandlk | 2,984
 economynextcom | 3,076
@@ -18,7 +18,7 @@ dailyftlk | 3,433
 adalk | 4,661
 dailymirrorlk | 4,733
 adaderanalk | 5,948
-tamilmirrorlk | 6,873
+tamilmirrorlk | 6,874
 virakesarilk | 8,047
 adaderanasinhalalk | 8,710
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,239 (100.0%) of 50,239 articles have been extended.
+50,241 (100.0%) of 50,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### மஹிந்தவின் வாகனங்களை மீளகேட்கும் அரசாங்கம்
+
+*2024-10-19 08:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-வாகனங்களை-மீளகேட்கும்-அரசாங்கம்/175-345676) · `ta`
+
+Sri Lanka government demands return of vehicles from former President Mahinda Rajapaksa. He claims threats to his safety due to his role in ending the war. The move follows committee recommendations on presidential privileges.
+
+🟩
+
+Former President and President of the Sri Lanka PA, Mahinda Rajapaksa, has been asked to hand over three security vehicles to the government for the protection of the government.
+
+Former President -related sources say that the vehicles will be handed over after he arrived in Colombo as the former president is staying at home in Tangalle.
+
+In this case, the recommendations of the President -appointed Committee to investigate the privileges of the former presidents have caused many people to take such action.
+
+When asked by the Secretary of the Sri Lanka PA, the Secretary of the Sri Lanka PA, and the former Member of Parliament, Sakara Kariyawasam, it was revealed that the government had issued a notice to hand over some of the vehicles used by Mahinda Rajapaksa's bodyguards.
+
+...
+
+[Data](articles/77e6d91b.json)
+
+[Extended Data](ext_articles/77e6d91b.ext.json)
+
+---
 
 ### Arjuna Herath appointed Chairman of BOI
 
@@ -315,6 +339,22 @@ H2H is an automated and secure solution that integrates directly with a corporat
 [Data](articles/ffbc7c18.json)
 
 [Extended Data](ext_articles/ffbc7c18.ext.json)
+
+---
+
+### Does President AKD Borrow Money Like Ex-Prez Ranil?
+
+*2024-10-19 02:51:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/does-president-akd-borrow-money-like-ex-prez-ranil/) · `en`
+
+“Admission of ignorance is often the first step in our education” ~ Stephen Covey
+
+Recent bitter criticisms by some opposition ex-parliamentarians regarding government borrowing (i.e., President Anura Kumara Dissanayake) have no substance; it is for mudslinging and due to ignorance of the subject matter. President AKD is performing his mandatory work responsibilities as the Minister of Finance, similar to ex-Prez Ranil Wickremesinghe. Borrowing by President AKD has no burden on the total debt or Debt to GDP as per the IMF Program. Payment to pensioners, fertilizer, and fuel subsidies are within the fiscal space. No funds have been borrowed and wasted at all. Fertilizer and fuel subsidies greatly benefit the economy in numerous ways. Given the recent meeting by President AKD with the agricultural officials, formulating a National Agricultural Policy and having a public discussion on the same is a top priority of the government in the right direction.
+
+...
+
+[Data](articles/295b75f7.json)
+
+[Extended Data](ext_articles/295b75f7.ext.json)
 
 ---
 
@@ -848,22 +888,6 @@ Ajuna Herath is a former Chairman of the Institute of Chartered Accountants of S
 
 ---
 
-### “Without experience, you cannot run Parliament, and you cannot achieve the goals we have set. Those who worked with me have the expertise to solve the economic challenges, These experienced politicians should be elected to Parliament,  as part of the Government or the Opposition.”- Former President Ranil Wickremesinghe
-
-*2024-10-18 21:50:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84923) · `en`
-
-Sri Lanka’s former President, Ranil Wickremesinghe, has urged voters to send experienced members back to Parliament in the upcoming General Election, set for 14 November. In a special statement made yesterday, Wickremesinghe emphasised the need for seasoned politicians who worked alongside him to return to Parliament to address the country’s ongoing economic challenges.
-
-“Without experience, you cannot run Parliament, and you cannot achieve the goals we have set. Those who worked with me have the expertise to solve the economic challenges,” Wickremesinghe said. He added that these experienced politicians should be elected to Parliament, whether as part of the Government or the Opposition.
-
-...
-
-[Data](articles/68d89da7.json)
-
-[Extended Data](ext_articles/68d89da7.ext.json)
-
----
-
 ### Ministry of Finance announced on imposing special commodities
 
 *2024-10-18 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202323) · `si`
@@ -907,6 +931,22 @@ Deputy General Manager (Traffic) of the Railway Department, N. J. Indipolage, st
 [Data](articles/f622850e.json)
 
 [Extended Data](ext_articles/f622850e.ext.json)
+
+---
+
+### “Without experience, you cannot run Parliament, and you cannot achieve the goals we have set. Those who worked with me have the expertise to solve the economic challenges, These experienced politicians should be elected to Parliament,  as part of the Government or the Opposition.”- Former President Ranil Wickremesinghe
+
+*2024-10-18 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84923) · `en`
+
+Sri Lanka’s former President, Ranil Wickremesinghe, has urged voters to send experienced members back to Parliament in the upcoming General Election, set for 14 November. In a special statement made yesterday, Wickremesinghe emphasised the need for seasoned politicians who worked alongside him to return to Parliament to address the country’s ongoing economic challenges.
+
+“Without experience, you cannot run Parliament, and you cannot achieve the goals we have set. Those who worked with me have the expertise to solve the economic challenges,” Wickremesinghe said. He added that these experienced politicians should be elected to Parliament, whether as part of the Government or the Opposition.
+
+...
+
+[Data](articles/68d89da7.json)
+
+[Extended Data](ext_articles/68d89da7.ext.json)
 
 ---
 
@@ -2349,57 +2389,5 @@ The number of tourist arrivals to Sri Lanka was 55 353 in Sri Lanka.
 [Data](articles/9433d366.json)
 
 [Extended Data](ext_articles/9433d366.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-10-18 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/196567) · `ta`
-
-US Dollar: 288.5261 INR (buy) / 297.5357 INR (sell).
-
-🟩
-
-The US dollar purchasing price was 288.5261 rupees and the sales price were Rs 297.5357 based on the Central Bank's currency exchange rate today (18).
-
-◼️
-
-[Data](articles/75ef80e1.json)
-
-[Extended Data](ext_articles/75ef80e1.ext.json)
-
----
-
-### Secrets during the remedy secrets revealed three former chiefs: Ranil also tells three women
-
-*2024-10-18 12:48:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cm24352286do) · `si`
-
-Here's a 200-character summary:
-
-
-
-Three former Sri Lankan presidents discuss challenges faced by current government. Ranil Wickremesinghe highlights economic crisis and need for international support. Maithripala Sirisena criticizes lack of intelligence sharing before Easter attacks. Chandrika Bandaranaike Kumaratunga emphasizes importance of transparency and accountability in governance.
-
-🟩
-
-Secrets during the remedy secrets revealed three former chiefs: Ranil also tells three women
-
-The 45th National Conference of the Chartered Accountants was held on October 16, chaired by three presidents.
-
-There are many about the statements of former presidents Chandrika Bandaranaike Kumaratunga, Maithripala Sirisena and Ranil Wickremesinghe.
-
-At the conference, the former presidents expressed their views on the experiences and experiences of their territory.
-
-"One of our minister said he was better to marry Navaneennpilla '
-
-Former President Maithripala Sirisena said Sri Lanka had severe hardships internationally after the civil war in the country.
-
-"Since 2015, the 2015 government is over until the end of 2015 is on this stage. When I came to power, I completely escaped from the United Nations General Secretary. Similarly, the United Nations Human Rights Commission completely turned away from us. Many countries in the world have distanced from us. "
-
-...
-
-[Data](articles/8654a01a.json)
-
-[Extended Data](ext_articles/8654a01a.ext.json)
 
 ---

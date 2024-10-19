@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 15:08:51**
+As of **2024-10-19 15:23:49**
 
 ## Newspaper Stats
 
-*Scraped **50,274** Articles*
+*Scraped **50,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 3,077
 dailyftlk | 3,433
 adalk | 4,663
 dailymirrorlk | 4,733
-adaderanalk | 5,953
+adaderanalk | 5,955
 tamilmirrorlk | 6,884
 virakesarilk | 8,052
-adaderanasinhalalk | 8,720
+adaderanasinhalalk | 8,721
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,274 (100.0%) of 50,274 articles have been extended.
+50,277 (100.0%) of 50,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### ‘Sarvajana Balaya’ launches general election campaign from Anuradhapura
+
+*2024-10-19 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102796/sarvajana-balaya-launches-general-election-campaign-from-anuradhapura) · `en`
+
+The election campaign of the ‘Sarvajana Balaya’ alliance, in preparation for the upcoming general election, commenced today (19) in Anuradhapura.
+
+Prior to the campaign’s launch, the leader of the alliance, entrepreneur Dilith Jayaweera, visited the sacred Jaya Sri Maha Bodhi and Ruwanweli Maha Saya in Anuradhapura to receive blessings.
+
+In addition to that, Jayaweera attended a meeting with the Gampaha District divisional leadership of ‘Sarvajana Balaya,’ held yesterday (18) in Kalgedihena.
+
+During the meeting, he emphasized that his approach to politics is self-funded, stating, “We are doing politics by spending our own money, not by extorting money from others. No matter how the country’s economy develops, it’s crucial that the nation is preserved. That’s what we’re working hard for.”
+
+He also highlighted the significance of the upcoming election, stating, “This is a golden opportunity for us. The result this time may be a surprising one.”
+
+◼️
+
+[Data](articles/ed99c06a.json)
+
+[Extended Data](ext_articles/ed99c06a.ext.json)
+
+---
+
+### Is the Jeyan Sneak Head fit for human consumption?
+
+*2024-10-19 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202341) · `si`
+
+Jeyan Sneak Head fish safety for humans: Study confirms edible, but concerns remain about reservoir damage and aggressive behavior.
+
+🟩
+
+North Western Province Fisheries Ministry officials say that although the fisheries of the reservoir, which is widely damaged in the reservoir, is harmful to the spread of the reservoir.
+
+They confirmed this after a special operation conducted in three fishing ferries in the reservoir of the Deduru Oya Reservoir.
+
+The recently fishermen had accused the fish harvesting of the aggressive fisheries, which have been expanded by the Deduru Oya.
+
+It is said that the fish species named Jeywant Sneak Hede is swallowing other fish.
+
+Three operates three in the Deduru Oya, Mahawa - Kanewatta, Ganewatta - Kakuwela and Wariyapola.
+
+With this allegation, North Western Provincial Fisheries Ministries have conducted a special study and the fish specifies is suitable for human food.
+
+They were also launched a special operation throughout the three ports yesterday.
+
+The fishermen, the fishermen, the fishermen, the NSF and the Ganewatta Divisional Secretariat.
+
+...
+
+[Data](articles/2db8646b.json)
+
+[Extended Data](ext_articles/2db8646b.ext.json)
+
+---
+
+### Drone strike launched toward Israeli prime minister’s house
+
+*2024-10-19 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102795/drone-strike-launched-toward-israeli-prime-ministers-house) · `en`
+
+Israel’s government said a drone was launched toward the prime minister’s house Saturday, with no casualties as Iran’s supreme leader vowed that Hamas would continue its fight against Israel following the killing of the mastermind of last year’s deadly Oct. 7 attack.
+
+In Gaza, at least 21 people were killed in several Israeli strikes, including children, according to hospital officials and an AP reporter.
+
+Sirens wailed Saturday morning in Israel, warning of incoming fire from Lebanon, with a drone launched toward Israeli Prime Minister Benjamin Netanyahu’s house in Caesarea, the Israeli government said. Neither he nor his wife were home and there were no casualties, said his spokesperson in a statement.
+
+In September, Yemen’s Houthi rebels launched a ballistic missile toward Ben Gurion Airport when Netanyahu’s plane was landing. The missile was intercepted.
+
+...
+
+[Data](articles/33f37253.json)
+
+[Extended Data](ext_articles/33f37253.ext.json)
+
+---
 
 ### Israeli Prime Minister is a drone attack on Benjamin's home
 
@@ -2237,93 +2311,5 @@ Later, the President of the Sri Lanka Human Rights Organization, Dr. Sarath Jaya
 [Data](articles/2735afa9.json)
 
 [Extended Data](ext_articles/2735afa9.ext.json)
-
----
-
-### Opening of Sports Building in Vavuniya
-
-*2024-10-18 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196600) · `ta`
-
-International Sports Building opens in Vavuniya after years of delay. Originally funded in 2015, project restarted with government allocation. Director General Semal Fernando and officials attend opening ceremony.
-
-🟩
-
-The International Sports Building block was opened today (18) in Omanthai in Vavuniya.
-
-In 2015, the International Sports Building Building, which started with a sum of Rs 16 crore in 2015, has been suspended for a long time.
-
-In this case, the re -funding of the last government has been allocated and development work has been carried out.
-
-Accordingly, the inner stadium and the swimming booth in the building were allocated to Rs.
-
-Director General of the Department of Sports Development of the Ministry of Sports, Prof. Real Admiral Semal Fernando, Assistant Director K.. AW. D. K.Sostha and Vavuniya Government Agent BS. Sarath Chandra was the guests and opened the building.
-
-◼️
-
-[Data](articles/167cb4d2.json)
-
-[Extended Data](ext_articles/167cb4d2.ext.json)
-
----
-
-### Where the bodies of the dead pigs place
-
-*2024-10-18 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202317) · `si`
-
-Dead pigs found in canal near Ja-Ela, Sri Lanka. Residents blame virus from local farms. Authorities ban unlicensed pigs. Farm owners claim animals die within two days.
-
-🟩
-
-A number of bodies of dead pigs are undergoing the canals in the Ja-Ela Daddugama, due to the residents of the area.
-
-People allege that the pigs die due to a virus that is dying due to a virus in pig farms.
-
-Meanwhile, authorities have taken steps to prohibit the pigs among the districts without veterinary certificates.
-
-He was Ms. Hemali Kotalawala, Director of the Department of Animal Production and Health.
-
-The pigs have begun to die largely due to a vision of the pig farm in the pig farm of the Western, North Western and North Central Provinces.
-
-Farm owners say that animals die in two days.
-
-◼️
-
-[Data](articles/937b5443.json)
-
-[Extended Data](ext_articles/937b5443.ext.json)
-
----
-
-### Rocket driver- movie review
-
-*2024-10-18 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196585) · `ta`
-
-"Rocket Driver" movie review summary:
-
-
-
-Tamil fantasy thriller about a rocket enthusiast named Prabha inspired by APJ Abdul Kalam. Directed by newcomer Sri Ram Anantha Shankar, it follows Prabha's time-traveling adventures with Kalam and friend Shastri. Starring Viswat, Sunina, Naga Vishal, and Khadi Ramamurthy. Well-received despite low budget, praised for engaging storyline and performances.
-
-🟩
-
-Actors: Viswat, Sunina, Naga Vishal, Khadi Ramamurthy, Jegan, Ramachandran Durairaj and others
-
-In Tamil cinema, a number of fantasy thriller films have been successful and have been successful with the support of the audience.
-
-Fantasy thriller, directed by newcomers, has attracted all fans.
-
-The film 'Rocket Driver', directed by new faculty director Sri Ram Anantha Shankar, has fulfilled the expectations of all fans?We will continue to see.
-
-Prabha is the driver of Otto in Chennai. (Viswat) Ottai is a love of astronomical physics that sends Otto, especially in physics, and especially rockets.
-
-Also, former Indian President and nuclear scientist Abdulkalam is a role model for him.Prabha, who is worried that the passengers traveling in the vehicle with three people do not have love and concern for fellow humans, meets AB Abdul Kalam, a young age.
-
-He says he has visited Chennai to meet a professor of Rameshwaram.
-
-...
-
-[Data](articles/00bbd93e.json)
-
-[Extended Data](ext_articles/00bbd93e.ext.json)
 
 ---

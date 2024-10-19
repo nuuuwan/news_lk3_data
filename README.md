@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 00:23:41**
+As of **2024-10-20 00:39:19**
 
 ## Newspaper Stats
 
-*Scraped **50,309** Articles*
+*Scraped **50,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 406
 colombotelegraphcom | 502
 bbccomsinhala | 504
 islandlk | 2,984
-economynextcom | 3,077
+economynextcom | 3,081
 dailyftlk | 3,433
 adalk | 4,664
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,734
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,309 (100.0%) of 50,309 articles have been extended.
+50,313 (100.0%) of 50,313 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -345,6 +345,28 @@ Accordingly, the statement issued by the Director General of Government Informat
 [Data](articles/a3aa8943.json)
 
 [Extended Data](ext_articles/a3aa8943.ext.json)
+
+---
+
+### SriLankan pilot ejects after mid-air clash, aviation portal downgrades carrier
+
+*2024-10-19 17:22:00* · [`economynextcom`](https://economynext.com/srilankan-pilot-ejects-after-mid-air-clash-aviation-portal-downgrades-carrier-184226/) · `en`
+
+ECONOMYNEXT –  A pilot at state-run SriLankan Airlines has resigned ahead of an investigation into a mid-air incident, industry officials said, while an aviation portal has downgraded its top safety rating.
+
+The captain of SriLankan Airlines flight UL607 from Sydney to Colombo locked his female co-pilot out of the cockpit of the Airbus A330 following a dispute over her toilet break.
+
+Although the aircraft reached Colombo safely, the incident triggered an investigation by the Civil Aviation Authority. The captain, who was suspended pending the inquiry, resigned last week while the investigation was still underway.
+
+The Perth-based AirlineRatings.com, an aviation portal that rates carriers and aircraft announced that it downgraded SriLankan Airlines’s safey rating from 7 to 6 following the widely reported incident.
+
+“AirlineRatings.com deems this incident extremely serious and has downgraded SriLankan Airlines’ safety rating,” according to the portal.
+
+...
+
+[Data](articles/edea09c3.json)
+
+[Extended Data](ext_articles/edea09c3.ext.json)
 
 ---
 
@@ -924,6 +946,30 @@ Wildlife Veterinary Sameera, Kalagu Arachchi, who was treated the Wanlanda, said
 
 ---
 
+### India doubles grant to upgrade Sri Lanka plantation sector schools: former minister
+
+*2024-10-19 14:30:00* · [`economynextcom`](https://economynext.com/india-doubles-grant-to-upgrade-sri-lanka-plantation-sector-schools-former-minister-184217/) · `en`
+
+ECONOMYNEXT – The Government of India has formally doubled their grant support for upgrading 9 schools in the plantation sector, at a total of cost of 600 million rupees, former minister Jeevan Thondaman said.
+
+“Glad to announce that the Government of India has formally doubled their grant support for upgrading 9 schools in the plantation sector – a total of Rs. 600 million,” Thondaman said on X.
+
+“These and many other projects that will launch in the coming months are part of a Rs. 2.6 billion (INR. 750m) grant India agreed to provide us last year.”
+
+Once the school projects are completed, they will make a transformative impact on the lives of the students in the plantation sector, Thondaman said.
+
+This agreement was the result of projects that were agreed over the course of last year during his time as minister, he said.
+
+“The core of my work as a Cabinet Minister for 1 1/2 years has been to improve access to education and better education facilities for the plantation community.
+
+...
+
+[Data](articles/bb91aa59.json)
+
+[Extended Data](ext_articles/bb91aa59.ext.json)
+
+---
+
 ### Back to Jaffna Devi - Happy news to people
 
 *2024-10-19 14:16:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-யாழ்-தேவி-மக்களுக்கு-மகிழ்ச்சியான-செய்தி/175-345684) · `ta`
@@ -1173,6 +1219,26 @@ In addition, due to heavy rains, diarrhea and diarrhea are more likely to spread
 [Data](articles/c96790de.json)
 
 [Extended Data](ext_articles/c96790de.ext.json)
+
+---
+
+### Only 36-pct of Sri Lanka’s 2024 capital investment utilized in Jan-Aug; port, energy used least
+
+*2024-10-19 12:16:00* · [`economynextcom`](https://economynext.com/only-36-pct-of-sri-lankas-2024-capital-investment-utilized-in-jan-aug-port-energy-used-least-184205/) · `en`
+
+ECONOMYNEXT – Sri Lanka has utilized only 36 percent of its 2024 capital investment budget in the first eight months of the year with ports, energy, and health sectors receiving lower allocated funds, a Finance Ministry report showed.
+
+Pre-Election Budgetary Position Report 2024 released by the Finance Ministry this week showed only 389.6 billion rupees out of the budgeted 1,259.8 billion for capital investment has been used in the first eight months.
+
+The previous government increased the allocation for capital investment this year by 35 percent from last year’s 932.7 billion rupees.
+
+The Ports and Shipping sector has used only 3 percent of the budgeted capital investment, 10.8 percent by Power and Energy Sector, and 18.9 percent by health sector, the official data showed.
+
+...
+
+[Data](articles/b58ef302.json)
+
+[Extended Data](ext_articles/b58ef302.ext.json)
 
 ---
 
@@ -1467,6 +1533,30 @@ The Minister said that the new directors should intervene and take steps to rele
 [Data](articles/196d4581.json)
 
 [Extended Data](ext_articles/196d4581.ext.json)
+
+---
+
+### Sri Lanka state spending contained below budget to August amid monetary stability
+
+*2024-10-19 09:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-spending-contained-below-budget-to-august-amid-monetary-stability-184182/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state spending is running sharply below budget, official data show, with the central bank also providing exceptional monetary stability bringing prices down absolutely.
+
+Recurrent expenditure grew only 4.4 percent to 2,042 billion rupees by August 2024, against a 14.5 percent budgeted number, with non-interest expenditure rising 4.6 percent, compared to a budgeted 8.7 percent.
+
+Salaries and wages were up 6.7 percent, against a budgeted 12.5 percent.
+
+However more taxes collected from the people will have to be spent on state salaries in the future, due to slashing of spending power in the 2022 currency collapse.
+
+Spending on goods and services were up 8.2 percent against a budgeted 13.7 percent and subsidies and transfers were up 1.5 percent against a budgeted 3.9 percent.
+
+Sri Lanka’s central bank has provided exceptional monetary stability in 2024, allowing the currency to appreciate amid deflationary open market operations.
+
+...
+
+[Data](articles/4a663bb4.json)
+
+[Extended Data](ext_articles/4a663bb4.ext.json)
 
 ---
 
@@ -2237,105 +2327,5 @@ The party's Jaffna district chief candidate V. Manivannan received the first cop
 [Data](articles/6bed1d20.json)
 
 [Extended Data](ext_articles/6bed1d20.ext.json)
-
----
-
-### Current Champion Sri Lanka started the Asian Webball Championship with success
-
-*2024-10-19 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196617) · `ta`
-
-Sri Lanka wins inaugural Asian Webball Championship match against Philippines 73-44. Led by captain Dulmini Vannithilaka, team scores 47 goals from Tisala Alkama.
-
-🟩
-
-இந்தியாவின் பெங்களூரு, கோரமங்கலம் உள்ளக விளையாட்டரங்கில் வெள்ளிக்கிழமை (18) தொடங்கிய 13ஆவது ஆசிய வலைபந்தாட்ட சம்பியன்ஷிப்பில் ஏ குழுவில் இடம்பெறும் நடப்பு சம்பியன்  இலங்கை   தனது முதலாவது போட்டியில் வெற்றியீட்டியது.
-
-Sri Lanka won by a margin of 73 - 44 amid a small challenge match against the Philippines.
-
-Sri Lanka played 24 - 8 in the first quarter -hour game.
-
-இரண்டாவது கால் மணி நேர ஆட்டத்தில் சற்று நிதானத்தைக் கடைப்பிடித்த இலங்கை அப் பகுதியையும் 19 - 9 என தனதாக்கியது.
-
-Sri Lanka was based on 43 - 17 during the break.
-
-இடைவேளைக்குப் பின்னர் 3ஆவது கால் மணி நேர ஆட்டத்தில் அணித் தலைவி துலிங்கி வன்னித்திலக்க, முன்னாள் தலைவிகளான கயனி திசாநாயக்க மற்றும் கயஞ்சிலி அமரவன்ச, கோல் நிலை வீராங்கனை திசலா அல்கம ஆகியோருக்கு அணி பயிற்றுநர் நாலிகா பிரசாதி ஓய்வு கொடுத்தார்.
-
-The Philippines took advantage of this to 17 - 13.
-
-The retired heroes played again in the 4th -quarter -hour game, making Sri Lanka up 17 - 10.
-
-Sri Lanka won 73 - 44 in the overall goals.
-
-...
-
-[Data](articles/0946a7c3.json)
-
-[Extended Data](ext_articles/0946a7c3.ext.json)
-
----
-
-### New Zealand entered the end of the West Indies to knock out
-
-*2024-10-19 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196616) · `ta`
-
-New Zealand knocked out West Indies in Sharjah cricket stadium semi-final. New Zealand won by 8 runs. Both teams struggled to score runs. New Zealand batted first, scoring 128/9 in 20 overs. West Indies replied with 120/8 in 20 overs. New Zealand qualified for the Women's T20 World Cup final against South Africa.
-
-🟩
-
-ஷார்ஜா கிரிக்கெட் விளையாட்டரங்கில் நடைபெற்ற மிகவும் பரபரப்பான இரண்டாவது அரை இறுதிப் போட்டியில் முன்னாள் சம்பியன் மேற்கிந்தியத் தீவுகளை 8 ஓட்டங்களால் வெற்றிகொண்ட நியூஸிலாந்து, 9ஆவது ஐசிசி மகளிர் ரி20 உலகக் கிண்ண அத்தியாயத்தின் இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
-
-Accordingly, Newsiland and South Africa will play in the final on Sunday and have been confirmed by a new team for the first time in the women's T20 World Cup history.
-
-மந்த கதி தன்மையைக் கொண்ட ஆடுகளத்தில் இரண்டு அணிகளும் ஓட்டங்களைப் பெறுவதில் சிரமம் எதிர்கொண்டதை அவதானிக்கக்கூடியதாக இருந்தது.
-
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த நியூஸிலாந்து 20 ஓவர்களில் 9 விக்கெட்களை இழந்து 128 ஓட்டங்களைப் பெற்றது.
-
-Susie Bats (26) and Georgia Blimmer (33) shared 48 runs, but other batsmen failed to take advantage of it.
-
-Isabella Gas scored 20 runs without losing the game, Brook Holiday 18 and team captain Sofi Divine 12 runs.
-
-In bowling, Diendra Dott's 22 runs for 22 runs while the Afi Flecher took 2 wickets for 23 runs.
-
-...
-
-[Data](articles/0f2c4ca9.json)
-
-[Extended Data](ext_articles/0f2c4ca9.ext.json)
-
----
-
-### 2024-10-18 (Friday)
-
-### How important was India’s help to Sri Lanka in 2022?
-
-*2024-10-18 23:42:43* · [`dailyftlk`](https://www.ft.lk/columns/How-important-was-India-s-help-to-Sri-Lanka-in-2022/4-768162) · `en`
-
-India’s help was significant at a crucial time as Sri Lanka was going through a nightmarish
-
-The IMF program is to give Sri Lanka $ 3 billion over four years with conditions. India gave $ 4 billion in one year to Sri Lanka with no conditions. Also, the timing is important to note. The IMF program came in 2023 when Sri Lanka had stabilised to a large extent under President Ranil Wickremesinghe. Also, most of the toughest policies that were needed for Sri Lanka to achieve macroeconomic stability were already put in place by the former President Ranil Wickremesinghe when the IMF program was approved. But India came to Sri Lanka’s aid when Sri Lanka was staring at the abyss with a Government that was behaving very irrationally in January 2022 with the country facing macroeconomic instability. This point should not be forgotten by the Sri Lankan public
-
-...
-
-[Data](articles/008333e9.json)
-
-[Extended Data](ext_articles/008333e9.ext.json)
-
----
-
-### Future of multilateral cooperation at SCO summit
-
-*2024-10-18 23:40:04* · [`dailyftlk`](https://www.ft.lk/opinion/Future-of-multilateral-cooperation-at-SCO-summit/14-768161) · `en`
-
-The SCO offers a unique platform for dialogue, bringing together nations with converging interests in a multilateral framework
-
-The 23rd meeting of the Shanghai Cooperation Organization (SCO) Council of Heads of Government is currently underway in Islamabad, marking a pivotal moment in Eurasian geopolitics, particularly for Pakistan. As world leaders gather in the capital, this summit represents a significant advance in multilateral cooperation, with the SCO standing as one of the largest and most influential organisations in the region.
-
-Pakistan’s hosting of this event comes at a time when the country is striving to strengthen its diplomatic, economic, and security ties. Amid evolving global alliances, this summit presents an opportunity for Pakistan to cement its role within this multilateral forum.
-
-...
-
-[Data](articles/394179f5.json)
-
-[Extended Data](ext_articles/394179f5.ext.json)
 
 ---

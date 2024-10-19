@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 21:23:41**
+As of **2024-10-19 21:58:43**
 
 ## Newspaper Stats
 
-*Scraped **50,303** Articles*
+*Scraped **50,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,67 @@ dailymirrorlk | 4,733
 adaderanalk | 5,961
 tamilmirrorlk | 6,888
 virakesarilk | 8,057
-adaderanasinhalalk | 8,731
+adaderanasinhalalk | 8,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,303 (100.0%) of 50,303 articles have been extended.
+50,305 (100.0%) of 50,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Lalith Kannangara's disciple caught
+
+*2024-10-19 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202356) · `si`
+
+STF arrests two suspects in Labugama for drug racket. Suspects from Hanwella handed over to Hanwella police for investigation.
+
+🟩
+
+The Police Special Task Force has arrested two suspects who have conducted drug racket in Sri Lanka, a drug dealer and drug dealer.
+
+The STF has arrested the suspects in Labugama, Damageda, Damadugama, Damageda, Damadugama.
+
+They have also been stored in addition to the drug trafficking, in addition to the drug trafficking, in addition to the drug trafficking.
+
+The suspects were residents of Hanwella, the residents of Hanwella.
+
+The suspects were handed over to the Hanwella police station for further investigations.
+
+◼️
+
+[Data](articles/75239ad1.json)
+
+[Extended Data](ext_articles/75239ad1.ext.json)
+
+---
+
+### We need opposition that leads to them - Dilith
+
+*2024-10-19 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202355) · `si`
+
+Dilith Jayaweera calls for strong opposition to lead the country forward. He criticizes current political leaders and advocates for a third force to guide the government effectively.
+
+🟩
+
+Dilith Jayaweera, the Leader of the Universal Entrepreneurs, calls for power to build a strong opposition to proceed to the country.
+
+He started the request at the rally rally in Anuradhapura with the election campaign to this year's general election.
+
+Speaking further the Leader of the Gampaha District and Gampaha District Candid Entrepreneurship Dilith Jayaweera
+
+"Now if we assume that 47% of the votes vote for the JVP vote that 47% of the votes vote that it is a wrong assumption. The other 57% has become no political helpers. Because they can't understand what he says, and they have made a third force to make a third force to be a president.
+
+...
+
+[Data](articles/22e105c3.json)
+
+[Extended Data](ext_articles/22e105c3.ext.json)
+
+---
 
 ### New nomination for local government elections
 
@@ -83,6 +133,8 @@ The management of Bandaranaike International Airport (BIA) together with all rel
 President Anura Kumara Dissanayake has announced that the 2025 Budget proposal will be presented in February or March 2025.
 
 He stated that the budget proposal will focus on increasing salaries of the state sector, providing allowances for school children, and also increasing allowances for the underprivileged and disabled communities.
+
+President Dissanayake also stated that the new government will present a Vote on Account in December this year.
 
 ◼️
 
@@ -2289,51 +2341,5 @@ The Ampara district has been affected by the current contemporary politically, l
 [Data](articles/393e4955.json)
 
 [Extended Data](ext_articles/393e4955.ext.json)
-
----
-
-### Names for Hamas's new leadership
-
-*2024-10-18 22:07:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹமாஸின்-புதிய-தலைமைக்கான-பெயர்கள்-பரிந்துரை/50-345672) · `ta`
-
-Hamas new leadership: Ivar's names proposed, election outside Gaza. Khalil Haya likely to lead political action unit.
-
-🟩
-
-International news reports that Ivar's names have been proposed to the new leadership of the Hamas organization.
-
-It is also reported that the Hamas organization will elect a senior leadership outside Gaza.
-
-Accordingly, Khalil Haya, who is responsible for the Hamas's political action unit, is expected to be given leadership responsibility.. (A)
-
-◼️
-
-[Data](articles/a6d48a93.json)
-
-[Extended Data](ext_articles/a6d48a93.ext.json)
-
----
-
-### Arjuna Herath appointed Chairman of the Board of Investment of Sri Lanka
-
-*2024-10-18 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202324) · `si`
-
-Arjuna Herath named Chairman of Sri Lanka's Board of Investment. Former data protection authority head and stock exchange member. Also served on accounting standards board and securities commission.
-
-🟩
-
-An arjuna Herath, a senior Chartered Accountant, as the new Chairman of the Board of Investment of Sri Lanka, has been appointed as a Senior Chartered Accountant.
-
-Herath is a former chairman of the Sri Lanka Private Data Protection Authority and is a member of the Colombo Stock Exchange.
-
-He has also served as a member of the Sri Lanka Accounts and Auditing Standards Regular Board and a Commissioner of Securities and Exchange Sri Lanka.
-
-Ajuna Herath is a former Chairman of the Institute of Chartered Accountants of Sri Lanka and has also held higher levels of higher rates.
-
-◼️
-
-[Data](articles/6a23ddee.json)
-
-[Extended Data](ext_articles/6a23ddee.ext.json)
 
 ---

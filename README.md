@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 16:11:21**
+As of **2024-10-19 16:39:14**
 
 ## Newspaper Stats
 
-*Scraped **50,281** Articles*
+*Scraped **50,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,51 +20,63 @@ dailymirrorlk | 4,733
 adaderanalk | 5,956
 tamilmirrorlk | 6,886
 virakesarilk | 8,052
-adaderanasinhalalk | 8,722
+adaderanasinhalalk | 8,723
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,279 (100.0%) of 50,281 articles have been extended.
+50,282 (100.0%) of 50,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
 
-### முன்னாள் ஜனாதிபதிகளின் தலைமையில் புதிய முன்னணி உதயம்?
+### New Front led by former presidents?
 
 *2024-10-19 16:04:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முன்னாள்-ஜனாதிபதிகளின்-தலைமையில்-புதிய-முன்னணி-உதயம்/150-345686) · `ta`
 
-தமது சிறப்புரிமைகள் நீக்கப்படுவதற்கு எதிராக குரல் எழுப்பும் முகமாக, முன்னாள் ஜனாதிபதிகள் தலைமையில் முன்னணியொன்றை அமைப்பது தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளது.
+Former presidents form alliance against privilege removal. They argue cooperation benefits over personal conflicts. A chartered accounting company facilitates discussions. The group presents concerns to a three-member committee reviewing ex-presidents' perks. This move comes amid public debate about excessive benefits for former leaders.
 
-இவ்விடயத்தில், தனிப்பட்ட முறையில் போராடுவதை விட, கூட்டாகச் செயற்படுவது பலனளிக்கும் என, முன்னாள் ஜனாதிபதிகள் பலரும் ஏற்கனவே கருத்து வெளியிட்டுள்ளனர் என்பது தெரிந்ததே.
+🟩
 
-பட்டயக் கணக்காளர்கள் நிறுவனம. அண்மையில் நடத்திய அறிவார்ந்த கலந்துரையாடலில் முன்னாள் ஜனாதிபதிகள் பலர் கலந்துகொண்டு நாட்டின் பிரச்சினைகள் குறித்து கருத்து தெரிவித்ததாக அரசியல் வட்டாரங்கள் தெரிவிக்கின்றன.
+Focusing on the formation of a leading leadership led by former presidents in the face of voice against the elimination of their privileges.
 
-இந்நிலையில், முன்னாள் ஜனாதிபதிகளின் சிறப்புரிமைகளை மீளாய்வு செய்வதற்காக நியமிக்கப்பட்ட மூவரடங்கிய குழுவிடம் முன்னாள் ஜனாதிபதிகள் ஏற்கனவே இது தொடர்பான விடயங்களை முன்வைத்துள்ளனர்.
+It is well known that many former presidents have already commented that it is beneficial to work together than to fight personally.
 
-முன்னாள் ஜனாதிபதிகளுக்கு தற்போது வழங்கப்பட்டு வரும் வசதிகள் அதிகம் என்ற சமூகப் பேச்சு காரணமாகவே அரசாங்கம் இந்த மூவரடங்கிய குழுவை நியமித்தமை குறிப்பிடத்தக்கது.(AN)
+Chartered Accounting Company. Political sources say that many former presidents participated in the recent intellectual discussion.
+
+In this case, the former presidents have already presented issues to the three -member committee appointed to review the privileges of the former presidents.
+
+It is noteworthy that the government has appointed the three -member committee due to social talk that former presidents are currently facing more facilities.
 
 ◼️
 
 [Data](articles/7b800e28.json)
 
+[Extended Data](ext_articles/7b800e28.ext.json)
+
 ---
 
-### இஸ்ரேல் பிரதமர் வீட்டின் மீது ட்ரோன் தாக்குதல்
+### Drone attacks on Israel's Prime Minister's house
 
 *2024-10-19 15:58:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-பிரதமர்-வீட்டின்-மீது-ட்ரோன்-தாக்குதல்/50-345685) · `ta`
 
-லெபனான் நாட்டிலிருந்து அனுப்பப்பட்ட ட்ரோன் இஸ்ரேல் நாட்டின் பிரதமர் பெஞ்சமின் நெதன்யாகுவின் வீட்டுக்கு அருகே வெடித்து சிதறியதாகவும், இதில் அந்த கட்டிடத்தின் ஒரு பகுதி சேதமடைந்துள்ளதாகவும் தகவல் வெளியாகி உள்ளது.
+Drone attack damages Netanyahu's house; Israel-Lebanon conflict escalates
 
-பாலஸ்தீனத்தின் காசா பகுதியில் செயல்படும் ஹமாசுக்கும் - இஸ்ரேலுக்கும் இடையே கடந்த ஓராண்டுகளாக போர் நடந்து வருகிறது. இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகு உத்தரவின்பேரில் அந்த நாட்டு படைகள் காசாவுக்குள் நுழைந்து தொடர்ந்து தாக்குதல் நடந்து வருகிறது. இந்த போர் ஓராண்டை கடந்தும் தொடர்ந்து வருகிறது.
+🟩
 
-ஹமாஸின் அரசியல் பிரிவு தலைவர் இஸ்மாயில் ஹனியே கடந்த ஜூன் மாதம் இஸ்ரேல் தீர்த்து கட்டியது. ஈரான் புதிய அதிபர் மசூத் பெசெஷ்கியன் பதவியேற்பு விழாவில் பங்கேற்க அந்த நாட்டின் தலைநகரான டெக்ரான் சென்ற நிலையில் அங்கு வைத்து இஸ்மாயில் ஹனியே தங்கியிருந்த வீட்டின் மீது வான்வெளி தாக்குதல் நடத்தி இஸ்ரேல் தீர்த்து கட்டியது.
+It has been reported that the drone sent from Lebanon has exploded near the house of Israel's Prime Minister Benjamin Netanyahu, and part of the building has been damaged.
+
+The war has been going on for the past year between Hamas and Israel, which operates in the Gaza region of Palestine. On the orders of Israeli Prime Minister Benjamin Netanyahu, the country's forces entered Gaza and continue to attack. The war continues a year later.
+
+Israel's political wing, Ismail Honey, was settled last June. Israel's resolution was set up by an air strike on the house where Ismail Honey was staying, as Iran's new President Masood Besseskian went to the swearing -in ceremony.
 
 ...
 
 [Data](articles/516f734c.json)
+
+[Extended Data](ext_articles/516f734c.ext.json)
 
 ---
 
@@ -83,6 +95,28 @@ INS Kalpeni is a Car Nicobar class Waterjet FAC of the Indian Navy commissioned 
 [Data](articles/147c2c3e.json)
 
 [Extended Data](ext_articles/147c2c3e.ext.json)
+
+---
+
+### Govt. Announces the official vehicles owned by Mahinda and Ranil
+
+*2024-10-19 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202343) · `si`
+
+Government announces official vehicles owned by Mahinda and Ranil. Statement clarifies no presidential assets lost. Current status: 8 vehicles from 16 belonging to Mahinda Rajapaksa; 11 vehicles from 16 belonging to Ranil Wickremesinghe.
+
+🟩
+
+The government has issued a statement that no official presidents have officially lost anything.
+
+Director General of Government Information H. S. K. The release issued by JJ, the statement issued by the Government Information Department today is explained by the Government Information Department today.
+
+According to the report, there are currently eight vehicles from the 16 vehicles in the custody of former President Mahinda Rajapaksa and 11 vehicles of former President Ranil Wickremesinghe are currently in custody.
+
+◼️
+
+[Data](articles/55743dbf.json)
+
+[Extended Data](ext_articles/55743dbf.ext.json)
 
 ---
 
@@ -2269,25 +2303,5 @@ ECONOMYNEXT – The European Union’s Ambassador in Sri Lanka Carmen Moreno met
 [Data](articles/8ce958f2.json)
 
 [Extended Data](ext_articles/8ce958f2.ext.json)
-
----
-
-### Notice on issuing vehicle revenue licenses
-
-*2024-10-18 17:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102784/notice-on-issuing-vehicle-revenue-licenses) · `en`
-
-Minister of Transport, Highways, Ports, and Civil Aviation, Vijitha Herath, has directed officials to ensure vehicle revenue licenses issued in the Western Province are seamlessly connected with other provinces.
-
-The Ministry of Highways, Ports, and Civil Aviation confirmed this in an official statement.
-
-The ministry highlighted that the lack of inter-provincial coordination has been a major obstacle for vehicle owners, particularly those from the Western Province. Despite previous announcements to address this issue, the Western Province—the region with the highest demand—has yet to fully implement the necessary changes.
-
-Vehicle owners in the Western Province who have vehicles registered in other provinces have long complained that obtaining revenue licenses is a cumbersome process, requiring significant time, effort, and money.
-
-...
-
-[Data](articles/577d5e36.json)
-
-[Extended Data](ext_articles/577d5e36.ext.json)
 
 ---

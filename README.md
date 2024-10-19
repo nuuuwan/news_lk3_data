@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 19:24:01**
+As of **2024-10-19 19:39:25**
 
 ## Newspaper Stats
 
-*Scraped **50,298** Articles*
+*Scraped **50,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,959
 tamilmirrorlk | 6,888
 virakesarilk | 8,057
-adaderanasinhalalk | 8,729
+adaderanasinhalalk | 8,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,298 (100.0%) of 50,298 articles have been extended.
+50,299 (100.0%) of 50,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### President's attention to increase the salaries of public servants from the budget
+
+*2024-10-19 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202353) · `si`
+
+President Anura Kumara Dissanayake announces plan to increase public servant salaries in February 2025 budget. Focuses on economic stability and supporting vulnerable citizens.
+
+🟩
+
+President Anura Kumara Dissanayake says that the budget of February 2025 will focus on increasing the salaries of public servants.
+
+The President was speaking at the first election rally in Tangalle today (19).
+
+"We have shown that the courage is not able to do. Initially, our strongest challenge was to represent the economic stability. We created a trusted economy with international organizations with international organizations in a very short year.. We offer an interim standard in December. The budget has been planned by February, March. We have focused on the increase in the salary workers' salary workers in the budget. We will be sure that the allowance offers the poor and disabled citizens. "
+
+◼️
+
+[Data](articles/bcdbd040.json)
+
+[Extended Data](ext_articles/bcdbd040.ext.json)
+
+---
 
 ### There is no bomb on the plane bomb
 
@@ -2307,23 +2329,5 @@ President Anura Kumara Dissanayake frequently emphasised during his election cam
 [Data](articles/b93eae9c.json)
 
 [Extended Data](ext_articles/b93eae9c.ext.json)
-
----
-
-### No five items were imposed
-
-*2024-10-18 20:47:10* · [`adalk`](https://www.ada.lk/breaking_news/භාණ්ඩ-පහකට-අලුතෙන්-බදු-පැනවීමක්-සිදු-කළේ-නෑ/11-412557) · `si`
-
-False claims about special goods tax: Government denies 5% tax on four categories of products. Claims about 25% tax on parcels from October 13 to December 31 are baseless.
-
-🟩
-
-භාණ්ඩ වර්ග පහක් සඳහා වි‍ශේෂ වෙළඳ භාණ්ඩ බද්දක් පනවා ඇති බවට පළවන වාර්තා අසත්‍ය බවත් සිදුකර ඇත්තේ 2023 වසරේ ඔක්තෝබර් 14 දා වසරක කාලයක් වෙනුවෙන් ක්‍රියාත්මක වූ වෙළඳ භාණ්ඩ බදු අනුපාතය පසුගිය ඔක්තෝබර් 13 දා සිට දෙසැම්බර් 31 දා තෙක් දීර්ඝ කිරීම පමණක් බවත් රජය පවසයි. එසේම පරිප්පු සඳහා ක්‍රියාත්මක වන ශත 25ක බදු අනුපාතය එලෙසින්ම ක්‍රියාත්මක බවත් රජය පවසයි.
-
-◼️
-
-[Data](articles/22b1d07f.json)
-
-[Extended Data](ext_articles/22b1d07f.ext.json)
 
 ---

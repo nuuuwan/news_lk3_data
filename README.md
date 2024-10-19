@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 16:39:14**
+As of **2024-10-19 17:08:54**
 
 ## Newspaper Stats
 
-*Scraped **50,282** Articles*
+*Scraped **50,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,140 @@ economynextcom | 3,077
 dailyftlk | 3,433
 adalk | 4,663
 dailymirrorlk | 4,733
-adaderanalk | 5,956
-tamilmirrorlk | 6,886
-virakesarilk | 8,052
-adaderanasinhalalk | 8,723
+adaderanalk | 5,957
+tamilmirrorlk | 6,887
+virakesarilk | 8,057
+adaderanasinhalalk | 8,725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,282 (100.0%) of 50,282 articles have been extended.
+50,291 (100.0%) of 50,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### A cell phone exploding in Hatton
+
+*2024-10-19 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202347) · `si`
+
+Cell phone explodes during inspection at e-school in Hatton. Employee checks battery, causing sudden eruption. Experts warn about risk of overheating explosions in lithium-ion batteries.
+
+🟩
+
+It has erupted and destroyed when a server is inspected by an employee of a finished clothing.
+
+The incident had taken place in an e-school in Hatton town today (19).
+
+A servant has been given to his friend that the battery on his cell phone does not work long hours and inspected.
+
+When he is checking the mobile phone in that chance, the battery on the mobile phone has erupted at once.
+
+Mobile phone reparentrs said that this was the reason why the mobile phone batteries are overwhelmed.
+
+They say that batteries are at risk of swimming explosion.
+
+◼️
+
+[Data](articles/374c5fa9.json)
+
+[Extended Data](ext_articles/374c5fa9.ext.json)
+
+---
+
+### Indian flight lands at BIA due to bombs scare; search underway
+
+*2024-10-19 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102798/indian-flight-lands-at-bia-due-to-bombs-scare-search-underway) · `en`
+
+An Indian passenger flight from Mumbai has made an emergency landing at the Bandaranaike International Airport (BIA) in Katunayake due to a bomb scare.
+
+All 96 passengers and 08 crew members of the flight have been evacuated and a special search operation is being carried out in the aircraft at the BIA, Sri Lanka’s Police Spokesman DIG Nihal Thalduwa said.
+
+◼️
+
+[Data](articles/0a3795ea.json)
+
+[Extended Data](ext_articles/0a3795ea.ext.json)
+
+---
+
+### A plane lands to Katunayake due to a bomb scared
+
+*2024-10-19 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202346) · `si`
+
+Plane lands at Katunayake airport after bomb scare. 96 passengers and 8 crew members evacuated safely. Indian aircraft diverted due to security threat.
+
+🟩
+
+The Indian aircraft has suddenly landed at the Katunayake airport due to a bomb.
+
+It has been reported that 96 passengers and eight staff have been reported here.
+
+◼️
+
+[Data](articles/9bff3cfe.json)
+
+[Extended Data](ext_articles/9bff3cfe.ext.json)
+
+---
+
+### 35 employees affected by food allergies
+
+*2024-10-19 16:11:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-ஒவ்வாமையால்-35-ஊழியர்கள்-பாதிப்பு/175-345687) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+35 garment factory workers hospitalized in Negombo General Hospital due to food allergies. Katunayake Police and Health Medical Officers investigating incident.
+
+🟩
+
+35 employees of a garment factory located in the 11th phase of the Katunayake Free Trade Zone have been admitted to the Negombo General Hospital due to allergies today.
+
+The Katunayake Police and the Health Medical Officers in charge of the Katunayake police are conducting investigations. (An)
+
+◼️
+
+[Data](articles/aa68d1e9.json)
+
+[Extended Data](ext_articles/aa68d1e9.ext.json)
+
+---
+
+### Actor Gavin's Preview Release
+
+*2024-10-19 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196660) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Actor Gavin stars in "Bloody Becker" preview. Directed by Shiva Palan Muthukumar, produced by Nelson Dileepkumar. Cast includes Redin Kingsley, Maruti Prakashraj. Set for global release on Diwali. Over 2 million viewers watched preview, sparking high fan expectations.
+
+🟩
+
+After the success of 'Tata' and 'Star', the preview of the film 'Bloody Becker', which plays the hero of the rising actor Gavin's story in the Tamil film industry.
+
+Gavin, Redin Kingsley, Maruti Prakashraj, Sunil Sukhada, TM. Karthik, Padam Venu Kumar, Harshad, Miss Salima, Priyadarshini Rajkumar, Akshaya Hariharan and many others have been cast.
+
+The film was produced by Nelson Dileepkumar, director and producer on behalf of Flment Pictures.
+
+The film will be released at the film House worldwide on Diwali on the 31st of this month.
+
+Speaking at the event, director Shiva Palan Muthukumar said, “Actor Gavin is my friend. I had told him the story of the film as he was a friend before the work of the film started.
+
+I was telling my guru, Nelson, the story of the film. He promised to make your story if he succeeded in 'Jailer', according to the success of the film, and started the work of 'Bluddy Becker'.
+
+...
+
+[Data](articles/fc660865.json)
+
+[Extended Data](ext_articles/fc660865.ext.json)
+
+---
 
 ### New Front led by former presidents?
 
@@ -55,6 +175,26 @@ It is noteworthy that the government has appointed the three -member committee d
 [Data](articles/7b800e28.json)
 
 [Extended Data](ext_articles/7b800e28.ext.json)
+
+---
+
+### Sri Lankan youth killed in vehicle accident in Italy
+
+*2024-10-19 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196656) · `ta`
+
+Sri Lankan youth dies in Italy car crash. Recently returned for wedding. Killed by foreign driver.
+
+🟩
+
+The young man, who has been working in Italy for many years, has recently returned to Italy for his wedding.
+
+In the meantime, the young man was killed and died of a car driver in a foreign citizen.
+
+◼️
+
+[Data](articles/7017d570.json)
+
+[Extended Data](ext_articles/7017d570.ext.json)
 
 ---
 
@@ -98,6 +238,28 @@ INS Kalpeni is a Car Nicobar class Waterjet FAC of the Indian Navy commissioned 
 
 ---
 
+### Hesbullah unmanned air strikes on Israeli prime minister's house
+
+*2024-10-19 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196652) · `ta`
+
+Hesbullah launches drone attack on Netanyahu's home. Three drones enter Israel from Lebanon; two intercepted, one hits building. No injuries as PM not present.
+
+🟩
+
+Hesbullah has launched an unmanned air strike on the house of Israeli Prime Minister Benjamin Netanyahu, a coastal city of Israel.
+
+According to the Israeli Security Forces, three unmanned flights have been entered into Israel crossing the Lebanon border and 2 unmanned flights have been intercepted and destroyed.
+
+At the same time, another unmanned aircraft reportedly hit the building wall. However, the Israeli Security Forces said that Benjamin Netanyaku and his wife were not in the house and no one was injured in the incident.
+
+◼️
+
+[Data](articles/e3fe4f9b.json)
+
+[Extended Data](ext_articles/e3fe4f9b.ext.json)
+
+---
+
 ### Govt. Announces the official vehicles owned by Mahinda and Ranil
 
 *2024-10-19 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202343) · `si`
@@ -117,6 +279,30 @@ According to the report, there are currently eight vehicles from the 16 vehicles
 [Data](articles/55743dbf.json)
 
 [Extended Data](ext_articles/55743dbf.ext.json)
+
+---
+
+### Suddenly exploding the mobile phone!
+
+*2024-10-19 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/196649) · `ta`
+
+Mobile phone explodes at garment shop in Hatton. Battery suspected cause. Long-term charging may lead to explosion. Incident occurs during battery check.
+
+🟩
+
+A mobile phone in the hands of a person at a garment shop in Hatton area has suddenly exploded.
+
+The accident occurred while checking the mobile phone battery.
+
+The handheld telephone exploded on the Sisirvi camera at the dressing stall station.
+
+Repairs to handheld phones have said that the battery is at risk of exploding due to the long -term charging of mobile phones.
+
+◼️
+
+[Data](articles/7541df83.json)
+
+[Extended Data](ext_articles/7541df83.ext.json)
 
 ---
 
@@ -219,6 +405,46 @@ In September, Yemen’s Houthi rebels launched a ballistic missile toward Ben Gu
 [Data](articles/33f37253.json)
 
 [Extended Data](ext_articles/33f37253.ext.json)
+
+---
+
+### Warning on Cream Types of Skin White - Ministry of Health
+
+*2024-10-19 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196643) · `ta`
+
+Ministry of Health warns about risks of skin whitening creams:
+
+
+
+1. Risk of nerve infections
+
+2. High chance of skin cancer 
+
+3. Potential damage to blood vessels
+
+4. Exceeds mercury limits (Act No. 09, 2003)
+
+5. Caution advised when using such products
+
+
+
+[200 characters]
+
+🟩
+
+The Ministry of Health said that the use of skin white cream is at risk of infection in the nerves.
+
+This is highly chances of skin cancer and blood vessels.
+
+According to the Consumer Affairs Authority Act No. 09, 2003, one milligram of mercury per kg of cosmetics and cream varieties.. But, more mercury is more than the permitted range of creams that whitewash the skin.
+
+Therefore, the Ministry of Health added that it is very careful when using the skin that is white.
+
+◼️
+
+[Data](articles/d63f6427.json)
+
+[Extended Data](ext_articles/d63f6427.ext.json)
 
 ---
 
@@ -2091,217 +2317,5 @@ Sajid Khan was awarded the Man of the Match award, though Noman Ali's energy man
 [Data](articles/36945e3d.json)
 
 [Extended Data](ext_articles/36945e3d.ext.json)
-
----
-
-### Netanyahu promises more war, dashing peace hopes after Hamas leader killed
-
-*2024-10-18 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102785/netanyahu-promises-more-war-dashing-peace-hopes-after-hamas-leader-killed) · `en`
-
-Prime Minister Benjamin Netanyahu’s promises to press on with Israel’s wars in Gaza and Lebanon dashed hopes on Friday that the killing of Hamas leader Yahya Sinwar might help end more than a year of escalating conflict in the Middle East.
-
-Lebanese militant group Hezbollah meanwhile vowed to escalate fighting against Israel and its backer Iran said “the spirit of resistance” would be strengthened by the death of its Palestinian ally Sinwar in Gaza.
-
-Sinwar, a mastermind of the Oct. 7, 2023, attack that triggered the Gaza war, was killed during an operation by Israeli soldiers in the Palestinian enclave on Wednesday, a pivotal event in the year-long conflict.
-
-Netanyahu called Sinwar’s killing a milestone late on Thursday but vowed to keep up the war, which in recent weeks expanded from fighting against Palestinian group Hamas in Gaza into an invasion of southern Lebanon and the bombardment of large swathes of the country.
-
-...
-
-[Data](articles/7e4303b5.json)
-
-[Extended Data](ext_articles/7e4303b5.ext.json)
-
----
-
-### Notice on the train compartment of the crash
-
-*2024-10-18 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202319) · `si`
-
-Train carrying fuel crashes in Sri Lanka, killing 2 elephants and damaging railway line. Four fuel tanks derailed, causing leaks. Investigation ongoing.
-
-🟩
-
-The Railway Department says that the train transporting fuel traders will be completed tomorrow (19).
-
-The Department of Railway lines will be canceled today (18) at the date of Batticaloa and Colombo Fort today (18).
-
-From the Kolonnawa Oil Storage Terminal, a train transporting a fuel storage terminal in Batticaloa and a train transporting a fuel train.
-
-The accident had occurred at Rothalawewa area between Minneriya and Hingurakgoda.
-
-As a result, four fuel tanks derailed and two of them were rolled.
-
-Deputy General Manager of Railways (Transportation) participating in the visit to the site. J. Venerable Mr. Neguma said the rail will commence after the fuel removal.
-
-A train transporting a fuel train was killed and two elephant killed in the early herd, a herd of elephants, which clash near the Rottery Junction.
-
-Two tanks with petrol rose were mocked as a result of heavy damage to the railway line.
-
-...
-
-[Data](articles/5443489f.json)
-
-[Extended Data](ext_articles/5443489f.ext.json)
-
----
-
-### Put on the poster against the judge
-
-*2024-10-18 19:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிபதிக்கு-எதிராக-சுவரொட்டி-ஒட்டியவர்களுக்கு-மறியல்/175-345657) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo Additional Magistrate Harshana Kekunawala orders suspects in two cases: one involving a Mannar Supreme Court judge and another in Colombo. Both cases are adjourned until the 21st of this month.
-
-🟩
-
-Colombo Additional Magistrate Harshana Kekunawala today ordered the suspects in connection with the alleged incident in Colombo against the Mannar Supreme Court judge and the alleged incident in Colombo till the 21st of this month.. (That)
-
-◼️
-
-[Data](articles/f3195161.json)
-
-[Extended Data](ext_articles/f3195161.ext.json)
-
----
-
-### Sri Lanka opts not to back condemning Israel for travel ban on UN Sec Gen
-
-*2024-10-18 19:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-opts-not-to-back-condemning-israel-for-travel-ban-on-un-sec-gen-184174/) · `en`
-
-Sri Lanka has chosen not to be a signatory for a letter signed by 105 countries, including European and African countries, as well as much of the Global South that “condemned” Israel for banning United Nations Secretary General (UNSG) entering into the country.
-
-Israeli Foreign Minister Israel Katz early this week reinforced his decision to declare U.N. Secretary-General Antonio Guterres persona non grata over what he described as a failure to condemn Iran’s missile attack and antisemitic and anti-Israel conduct.
-
-The move comes amid continuous UN pressure for a ceasefire in the conflict-hit Middle East.
-
-Sri Lanka has been with the Global South on a number of resolutions that are critical of Israel and backing Palestine, but has decided not to sign the letter circulated by Chile, and supported by Brazil, Colombia, South Africa, Uganda, Indonesia, Spain, Guyana and Mexico.
-
-...
-
-[Data](articles/7b44343d.json)
-
-[Extended Data](ext_articles/7b44343d.ext.json)
-
----
-
-### Three -wheeler collides with buses on Wellawaya Road, Perakala
-
-*2024-10-18 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196610) · `ta`
-
-Three-wheeler collides with buses on Wellawaya Road, Perakala. One person injured. Driver hospitalized. Accident occurred during overtaking attempt. Police investigation ongoing.
-
-🟩
-
-One person has been admitted to hospital with injuries in a vehicle accident on Wellawaya Road, Perakala.
-
-Police said the accident occurred when a three -wheeler tried to overtake the bus.
-
-The injured three -wheeler driver has been admitted to the Haldumulla Hospital and sent to the Diyatalawa Resource Hospital for further treatment.
-
-A man from Akkarasiya, Haputale, has gone to Perakalai with his wife and child in his three -wheeler.
-
-The wife is said to have received money from the gold jewelery.
-
-When the angry wife returned, he did not get in the three -wheeler.
-
-Meanwhile, police said that the Kanda area of ​​the Perakala -Wellawaya road crashed into the Kanda area with the Wellawaya - Bandarawela bus.
-
-◼️
-
-[Data](articles/6a8c3ade.json)
-
-[Extended Data](ext_articles/6a8c3ade.ext.json)
-
----
-
-### Chinese citizen arrested with foreign cigarettes in Kalupitiya
-
-*2024-10-18 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196605) · `ta`
-
-Chinese citizen arrested with foreign cigarettes in Kalupitiya. Cigarettes found hidden in Chinese shop in Colombo.
-
-🟩
-
-A Chinese citizen has been arrested today (18) with foreign cigarettes hidden in a Chinese shop in Samaki Mawatha, Colombo.
-
-◼️
-
-[Data](articles/b3ab0499.json)
-
-[Extended Data](ext_articles/b3ab0499.ext.json)
-
----
-
-### Sri Lanka’s CEB: No decision against open bidding in purchasing diesel for electricity
-
-*2024-10-18 17:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-no-decision-against-open-bidding-in-purchasing-diesel-for-electricity-184169/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board (CEB) has not decided against competitive bidding in buying diesel for electricity generation though the usage of diesel has been kept minimum.
-
-Sri Lanka’s new government came under fire over a reported move by the CEB to continue to purchase fuel without competitive bidding, and with a deal struck with state-owned Ceylon Petroleum Corporation (CPC). Both CPC and CEB come under the Ministry of Energy.
-
-Sri Lanka’s Daily Mirror newspaper earlier this week reported that CEB has decided not to go ahead with competitive procurement of fuel but to strike a deal with Ceylon Petroleum Corporation, reversing a decision by the earlier administration to move for open tendering.
-
-“CEB has never purchased diesel for electricity generation, through competitive bidding including during the tenure of the previous management,” the CEB said in a statement on Friday (18).
-
-...
-
-[Data](articles/81c9e08c.json)
-
-[Extended Data](ext_articles/81c9e08c.ext.json)
-
----
-
-### To the attention of those who have a special need ...
-
-*2024-10-18 17:44:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையோரின்-கவனத்துக்கு/175-345656) · `ta`
-
-Elections Commission: Special needs voters can bring assistants aged 18+, not candidates' agents. Assistants need certificates at polling stations. Apply at District Election Offices, Divisional Secretariats, Grama Niladhari Offices before November 7th. Doctor's certificate required proving inability to use cattle or public transport.
-
-🟩
-
-The Elections Commission has paid special attention to the special need voters to vote in the upcoming general election.
-
-Accordingly, the Elections Commission said that the voters with special need can take an assistant to identify the ballot.
-
-Accordingly, the assistant who is taken to do so must be 18 years old.
-
-Also, he should not be the agent of the candidate or the agent of the polling station. In addition, he must submit the appropriate certificate at the polling station.
-
-Applications for obtaining these transport facilities can be obtained at the District Election Offices, Divisional Secretariats and Grama Niladhari Offices, www.election .Gov.lk.
-
-These applications should be handed over to the appropriate office or the District Election Office before the 7th of November.
-
-The application must be handed over to the doctor's certificate as he can prove that he cannot go to the polling station by using a cattle or public transport facilities.
-
-◼️
-
-[Data](articles/70cc9e8b.json)
-
-[Extended Data](ext_articles/70cc9e8b.ext.json)
-
----
-
-### EU ambassador, Sri Lanka PM discuss reforms, trade and investment
-
-*2024-10-18 17:43:00* · [`economynextcom`](https://economynext.com/eu-ambassador-sri-lanka-pm-discuss-reforms-trade-and-investment-184142/) · `en`
-
-ECONOMYNEXT – The European Union’s Ambassador in Sri Lanka Carmen Moreno met with Prime Minister Harini Amasuriya on Friday to discuss bilateral ties.
-
-“Today, our Ambassador paid a courtesy call on Prime Minister Harini Amasuriya @Dr_HariniA. They had a cordial and fruitful exchange on our strong bilateral relations,” The European Delegation said on X.
-
-“They discussed how to work together on some important reforms, #trade and investment, sustainable and inclusive growth, #genderequality and #reconciliation.
-
-“We look forward to working closely with the Prime Minister to strengthen our partnership.” (Colombo/Oct18/2024)
-
-◼️
-
-[Data](articles/8ce958f2.json)
-
-[Extended Data](ext_articles/8ce958f2.ext.json)
 
 ---

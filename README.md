@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 14:23:52**
+As of **2024-10-19 14:39:19**
 
 ## Newspaper Stats
 
-*Scraped **50,270** Articles*
+*Scraped **50,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,433
 adalk | 4,663
 dailymirrorlk | 4,733
 adaderanalk | 5,953
-tamilmirrorlk | 6,882
+tamilmirrorlk | 6,884
 virakesarilk | 8,052
 adaderanasinhalalk | 8,718
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,270 (100.0%) of 50,270 articles have been extended.
+50,272 (100.0%) of 50,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Back to Jaffna Devi - Happy news to people
+
+*2024-10-19 14:16:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-யாழ்-தேவி-மக்களுக்கு-மகிழ்ச்சியான-செய்தி/175-345684) · `ta`
+
+Railway Department resumes train services from Northern Railway line starting Monday. Jaffna train service reinstated after decision made.
+
+🟩
+
+The Railway Department has said that it has decided to re -carry out train services from the Northern Railway line from Monday (21).
+
+Accordingly, a senior official of the Department said that it was decided to serve the Jaffna train that day.R
+
+◼️
+
+[Data](articles/3f5f0b28.json)
+
+[Extended Data](ext_articles/3f5f0b28.ext.json)
+
+---
 
 ### A revelation of white cream
 
@@ -103,6 +123,26 @@ Speaking at a news conference held in Kandy, Ratnayake further noted that any pa
 [Data](articles/ff151ed5.json)
 
 [Extended Data](ext_articles/ff151ed5.ext.json)
+
+---
+
+### Fuel prices can be reduced ...
+
+*2024-10-19 13:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையை-குறைக்க-முடியும்/175-345683) · `ta`
+
+Fuel prices may drop 15-20 rupees on Nov 1st, says former minister Kanjana Wijeesera. She urges commentators to reveal truths about fuel costs.
+
+🟩
+
+Former Minister Kanjana Wijeesera has said that the price of fuel will be reduced between 15 to 20 rupees on the first day of November.
+
+Former Minister Kanjana Wijeesera has said that those who have commented on fuel prices in the past should tell the people the truth at the time.. Remble
+
+◼️
+
+[Data](articles/a4573daa.json)
+
+[Extended Data](ext_articles/a4573daa.ext.json)
 
 ---
 
@@ -516,7 +556,7 @@ The Minister said that the new directors should intervene and take steps to rele
 
 ---
 
-### Sri Lanka state spending sharply below budget amid monetary stability
+### Sri Lanka state spending contained below budget to August amid monetary stability
 
 *2024-10-19 09:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-spending-sharply-below-budget-amid-monetary-stability-184182/) · `en`
 
@@ -530,7 +570,7 @@ However more taxes collected from the people will have to be spent on state sala
 
 Spending on goods and services were up 8.2 percent against a budgeted 13.7 percent and subsidies and transfers were up 1.5 percent against a budgeted 3.9 percent.
 
-Sri Lankas central bank has provided exceptional monetary stability in 2024, allowing the currency to appreciate amid deflationary open market operations.
+Sri Lanka’s central bank has provided exceptional monetary stability in 2024, allowing the currency to appreciate amid deflationary open market operations.
 
 ...
 
@@ -2297,57 +2337,5 @@ Who is Keerthi Suresh, the hero of the story?The film crew has raised the questi
 [Data](articles/7c5bcb66.json)
 
 [Extended Data](ext_articles/7c5bcb66.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 293.00/20 to dollar, bond yields up
-
-*2024-10-18 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-00-20-to-dollar-bond-yields-up-184136/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 293.00/20 to the US dollar Friday from 292.90/293.05 a day earlier, dealers said, while bond yields were slightly up.
-
-A bond maturing on 15.12.2026 closed at 10.55/70 percent, up from 10.50/70 percent.
-
-A bond maturing on 15.12.2027 closed at 11.25/45 percent, from 11.20/35 percent.
-
-A bond maturing on 15.09.2029 closed at 11.90/12.05 percent, up from 11.85/12.05 percent.
-
-A bond maturing on 15.05.2030 closed at 12.10/30 percent. (Colombo/Oct18/2024)
-
-◼️
-
-[Data](articles/ba086ff0.json)
-
-[Extended Data](ext_articles/ba086ff0.ext.json)
-
----
-
-### Special notice of income tax
-
-*2024-10-18 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202316) · `si`
-
-Income tax update: Registration deadline Nov 30, 2023. Submit report if no income. Taxpayers increased from 333,313 to 868,009. Annual income threshold Rs. 1,200,000. Visit nearest office for assistance.
-
-🟩
-
-The Inland Revenue Department has issued a statement that the registration has been made to pay taxes on the income of income, although it has been registered for income tax, or the lack of income.
-
-According to the announcement, if there is no income or profit, the department should be submitted to the Department as at 30.11.2011.
-
-Accordingly, the valuation report of the income report of the Inland Revenue Web Site is available on the local revenue website www.i.id.gow.lk
-
-Meanwhile, the Department of Inland Revenue has increased to 868,009 people with taxes for the valuation of 2023/2024 to the registration of taxpayers in 2023 to register taxpayers.
-
-It has also been 333,313 persons to be submitted for the valuation of 2022/2023 before introducing this method.
-
-According to the Inland Revenue Act No. 24 of 2017, more than Rs. 1,200,000, more than Rs.
-
-But the annual income or profits should not pay less income taxes and less than Rs.
-
-...
-
-[Data](articles/028d1eac.json)
-
-[Extended Data](ext_articles/028d1eac.ext.json)
 
 ---

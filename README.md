@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 17:40:28**
+As of **2024-10-19 18:00:03**
 
 ## Newspaper Stats
 
-*Scraped **50,293** Articles*
+*Scraped **50,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,957
 tamilmirrorlk | 6,888
 virakesarilk | 8,057
-adaderanasinhalalk | 8,726
+adaderanasinhalalk | 8,727
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,293 (100.0%) of 50,293 articles have been extended.
+50,294 (100.0%) of 50,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### A number of vehicles collided with each other on Southern Expressway
+
+*2024-10-19 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202350) · `si`
+
+Multiple vehicles crashed on Southern Expressway near Colombo. Accident caused by driver error. No injuries reported. Road reopened after clearing vehicles. Incident occurred on 19th.
+
+🟩
+
+Several vehicles on the Southern Expressway have clashed.
+
+The accident had occurred at Galle to Colombo this afternoon near Colombo to Colombo today (19).
+
+The expressway said that the accident had occurred due to an error in one vehicle.
+
+No one has been injured in the accident and removed vehicles and the road has been opened to the vehicle.
+
+◼️
+
+[Data](articles/09cec935.json)
+
+[Extended Data](ext_articles/09cec935.ext.json)
+
+---
 
 ### European Union Ambassador to Sri Lanka with Prime Minister
 
@@ -2311,23 +2335,5 @@ He said that action is being amended to the Act in the future, he said.
 [Data](articles/bb0ba688.json)
 
 [Extended Data](ext_articles/bb0ba688.ext.json)
-
----
-
-### Sri Lanka coconut auction prices rise 7.79-pct
-
-*2024-10-18 20:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-rise-7-79-pct-183124/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s average coconut prices were up from 93,865.10 to 101,177.51 for 1,000 nuts at an auction on October 10, data from the Coconut Development Authority shows.
-
-The highest price was 115,000 for 1,000 nuts while the lowest was 85,900.
-
-A total of 568,859 coconuts were offered at the auction and 532,346 were sold.
-
-◼️
-
-[Data](articles/b15f708e.json)
-
-[Extended Data](ext_articles/b15f708e.ext.json)
 
 ---

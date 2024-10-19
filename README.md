@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 10:23:26**
+As of **2024-10-19 10:39:18**
 
 ## Newspaper Stats
 
-*Scraped **50,250** Articles*
+*Scraped **50,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,949
 tamilmirrorlk | 6,878
 virakesarilk | 8,049
-adaderanasinhalalk | 8,711
+adaderanasinhalalk | 8,712
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,250 (100.0%) of 50,250 articles have been extended.
+50,251 (100.0%) of 50,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Man arrested with drugs of 250 million
+
+*2024-10-19 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202330) · `si`
+
+Sri Lankan man arrested at Katunayake Airport with 250 million rupees worth of ice drugs. Found over 10 kilograms of illegal substance.
+
+🟩
+
+A person was arrested at the Katunayake Airport with heavy ice drugs worth over Rs. 250 million.
+
+Sri Lanka, a Sri Lankan from Malaysia, has found more than 10 ice drugs.
+
+◼️
+
+[Data](articles/f117c733.json)
+
+[Extended Data](ext_articles/f117c733.ext.json)
+
+---
 
 ### Passenger arrested with over 10kg of ‘Ice’ drugs at BIA
 
@@ -2349,35 +2369,5 @@ Dinghies often now carry 50 or more migrants, far more than in previous years.
 [Data](articles/ee09da43.json)
 
 [Extended Data](ext_articles/ee09da43.ext.json)
-
----
-
-### Petition to court against Licensing firearms
-
-*2024-10-18 14:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202311) · `si`
-
-Defense Ministry petitions court to revoke firearm licenses issued to private security companies. Petitioner claims hotel damage during conflict. Requests court to annul Defense Secretary's announcement regarding firearm return.
-
-🟩
-
-The Defense Ministry has recently submitted a petition to the Defense Court for a demanding order to issue a default launching order to issue the firearms issued by the Defense Ministry to private security.
-
-Avenue Hotel Group's Governor HD. The petition presented the petition by Aluthnamkha de Silva.
-
-As the respondents, the Secretary of the Ministry of Defense and the Director of State Intelligence Inspector and acting of the acting IGP have been named.
-
-The petitioner said that the petitioner has filed the petition by the Defense Ministry in 2012 or in 2013 or in 2013, the Defense Ministry had obtained firearms under a license.
-
-He had stated in his petition that his hotels were damaged during the struggle.
-
-The petitioner states that he had issued an announcement on the 7th to hand over the firearms issued under the license.
-
-The petitioner pointed out that the decision has been a serious threat to him as a businessman has appealed to this decision, but it was not even better.
-
-...
-
-[Data](articles/3a27c71a.json)
-
-[Extended Data](ext_articles/3a27c71a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 10:39:18**
+As of **2024-10-19 10:57:53**
 
 ## Newspaper Stats
 
-*Scraped **50,251** Articles*
+*Scraped **50,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,076
 dailyftlk | 3,433
 adalk | 4,662
 dailymirrorlk | 4,733
-adaderanalk | 5,949
+adaderanalk | 5,950
 tamilmirrorlk | 6,878
 virakesarilk | 8,049
 adaderanasinhalalk | 8,712
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,712
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,251 (100.0%) of 50,251 articles have been extended.
+50,252 (100.0%) of 50,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### 22 year-old female arrested over murder in Weliweriya
+
+*2024-10-19 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102791/22-year-old-female-arrested-over-murder-in-weliweriya) · `en`
+
+Police have arrested a female suspect wanted for the murder of a 58-year-old woman in Embaraluwa South, Weliweriya.
+
+The arrest was made following an investigation into the murder, which took place in September, by the Weliweriya Police.
+
+The arrested woman, the second suspect in the murder, had fled the area after the incident but was apprehended yesterday in the Balummahara area.
+
+During her arrest, officers also found 5 grams and 600 milligrams of ‘Ice’ (crystal methamphetamine) in her possession.
+
+Weliweriya Police stated that the arrested suspect is a 22-year-old resident of Kalubowitiyana.
+
+◼️
+
+[Data](articles/6feffd5a.json)
+
+[Extended Data](ext_articles/6feffd5a.ext.json)
+
+---
 
 ### Man arrested with drugs of 250 million
 
@@ -56,7 +78,15 @@ Sri Lanka, a Sri Lankan from Malaysia, has found more than 10 ice drugs.
 
 *2024-10-19 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102790/passenger-arrested-with-over-10kg-of-ice-drugs-at-bia) · `en`
 
-Sri Lanka Customs officers have arrested a Sri Lankan passenger arriving from Malaysia while in possession of over 10 kilograms of ‘Ice’ (crystal methamphetamine), estimated to be worth around Rs. 250 million at the Bandaranaike International Airport (BIA) in Katunayake.
+Sri Lanka Customs officers have arrested a Sri Lankan passenger arriving from Malaysia while in possession of over 10 kilograms of ‘Ice’ (crystal methamphetamine), estimated to be worth around Rs. 250 million, at the Bandaranaike International Airport (BIA) in Katunayake.
+
+Customs officers have discovered approximately 10.197 kilograms of ‘Ice’ drugs hidden inside tea packets in the luggage of the passenger, who had arrived at BIA from Kuala Lumpur in Malaysia, onboard flight MH 179, at around 11.30 p.m. last night (18).
+
+The suspect had attempted to exit through the green channel without declaring the items to customs.
+
+The street value of the seized drugs is estimated at Rs. 250 million, according to Sri Lanka Customs.
+
+The passenger, a 35-year-old resident of Dematagoda, along with the drugs consignment, have been handed over to the Police Narcotics Bureau (PNB) for further investigation.
 
 ◼️
 
@@ -2339,35 +2369,5 @@ Speaking on the Sri Lanka Foundation Institute, the Minister said that the curre
 [Data](articles/a483562d.json)
 
 [Extended Data](ext_articles/a483562d.ext.json)
-
----
-
-### Baby dead and 65 rescued in Channel sinking
-
-*2024-10-18 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102779/baby-dead-and-65-rescued-in-channel-sinking) · `en`
-
-A baby has died after a boat attempting to cross the English Channel sank on Thursday night, French authorities say.
-
-Officials said the overloaded boat carrying migrants started sinking off the coast of Wissant in northern France.
-
-Rescuers called to the scene saved 65 people, including some who were in the water.
-
-Searches to find more people at sea found an unconscious baby, who was later declared dead, officials said.
-
-The local prefecture said in a statement: “Rescuers found that the boat, which was heavily loaded, was in difficulty and that some of the people were in the water.
-
-“At the same time, further searches were carried out to find people who could be stranded at sea.”
-
-It was then that the baby was discovered, the prefecture added. Prosecutors have opened an investigation into the death.
-
-2024 is already the deadliest year for migrant crossings of the English Channel since 2018.
-
-Dinghies often now carry 50 or more migrants, far more than in previous years.
-
-...
-
-[Data](articles/ee09da43.json)
-
-[Extended Data](ext_articles/ee09da43.ext.json)
 
 ---

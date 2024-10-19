@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 19:39:25**
+As of **2024-10-19 20:10:17**
 
 ## Newspaper Stats
 
-*Scraped **50,299** Articles*
+*Scraped **50,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,077
 dailyftlk | 3,433
 adalk | 4,663
 dailymirrorlk | 4,733
-adaderanalk | 5,959
+adaderanalk | 5,961
 tamilmirrorlk | 6,888
 virakesarilk | 8,057
 adaderanasinhalalk | 8,730
@@ -26,11 +26,49 @@ adaderanasinhalalk | 8,730
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,299 (100.0%) of 50,299 articles have been extended.
+50,301 (100.0%) of 50,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Emergency declared at BIA over ‘bomb scare’ on Indian flight called off
+
+*2024-10-19 19:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102801/emergency-declared-at-bia-over-bomb-scare-on-indian-flight-called-off) · `en`
+
+The management of Bandaranaike International Airport (BIA) announced that the emergency situation declared after the reported bomb scare on the Vistara flight arrived at BIA from Mumbai today, has been called off.
+
+Further, after the investigations by the relevant authorities, nothing suspicious was found related to the reported bomb threat on the Vistara flight, the statement said.
+
+The management of Bandaranaike International Airport (BIA) together with all relevant authorities adopted all precautionary and preventive measures on the reported incident to ensure the safety of the passengers, it said.
+
+“We hereby inform our valued passengers and airport users that flight operations at Bandaranaike International Airport (BIA) continue as usual without any disruption to the airport’s normal operations.”
+
+“We sincerely regret any inconvenience this situation may have caused to our valued guests and airport users and appreciate their understanding,” the statement further said.
+
+...
+
+[Data](articles/9b1f59bf.json)
+
+[Extended Data](ext_articles/9b1f59bf.ext.json)
+
+---
+
+### 2025 Budget to be presented in February or March - President
+
+*2024-10-19 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102800/2025-budget-to-be-presented-in-february-or-march-president) · `en`
+
+President Anura Kumara Dissanayake has announced that the 2025 Budget proposal will be presented in February or March 2025.
+
+He stated that the budget proposal will focus on increasing salaries of the state sector, providing allowances for school children, and also increasing allowances for the underprivileged and disabled communities.
+
+◼️
+
+[Data](articles/2afe08b2.json)
+
+[Extended Data](ext_articles/2afe08b2.ext.json)
+
+---
 
 ### President's attention to increase the salaries of public servants from the budget
 
@@ -2299,35 +2337,5 @@ Deputy General Manager (Traffic) of the Railway Department, N. J. Indipolage, st
 [Data](articles/f622850e.json)
 
 [Extended Data](ext_articles/f622850e.ext.json)
-
----
-
-### “Without experience, you cannot run Parliament, and you cannot achieve the goals we have set. Those who worked with me have the expertise to solve the economic challenges, These experienced politicians should be elected to Parliament,  as part of the Government or the Opposition.”- Former President Ranil Wickremesinghe
-
-*2024-10-18 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84923) · `en`
-
-Sri Lanka’s former President, Ranil Wickremesinghe, has urged voters to send experienced members back to Parliament in the upcoming General Election, set for 14 November. In a special statement made yesterday, Wickremesinghe emphasised the need for seasoned politicians who worked alongside him to return to Parliament to address the country’s ongoing economic challenges.
-
-“Without experience, you cannot run Parliament, and you cannot achieve the goals we have set. Those who worked with me have the expertise to solve the economic challenges,” Wickremesinghe said. He added that these experienced politicians should be elected to Parliament, whether as part of the Government or the Opposition.
-
-...
-
-[Data](articles/68d89da7.json)
-
-[Extended Data](ext_articles/68d89da7.ext.json)
-
----
-
-### The  Brazen Abduction and  Brutal Murder of Militant Turned Journalist “Taraki” Sivaram.
-
-*2024-10-18 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84927) · `en`
-
-President Anura Kumara Dissanayake frequently emphasised during his election campaign that he would re-open investigations into incidents  of colossal fraud,mass murder and assassinations where the course of justice was  allegedly obstructed or thwarted by those in power in the past. Recent happenings indicate that president Dissanayake and his Government are serious about their campaign promises and  are initiating follow up action in this regard. With parliamentary polls   due next month, electoral  prospects for the ruling National Peoples Power(NPP) Govt would be brighter if it  can demonstrate, that it is taking stern  action to ensure justice will be done in these matters.
-
-...
-
-[Data](articles/b93eae9c.json)
-
-[Extended Data](ext_articles/b93eae9c.ext.json)
 
 ---

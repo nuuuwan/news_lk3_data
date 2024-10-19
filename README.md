@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 18:19:51**
+As of **2024-10-19 18:43:13**
 
 ## Newspaper Stats
 
-*Scraped **50,295** Articles*
+*Scraped **50,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 3,077
 dailyftlk | 3,433
 adalk | 4,663
 dailymirrorlk | 4,733
-adaderanalk | 5,958
+adaderanalk | 5,959
 tamilmirrorlk | 6,888
 virakesarilk | 8,057
-adaderanasinhalalk | 8,727
+adaderanasinhalalk | 8,728
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,295 (100.0%) of 50,295 articles have been extended.
+50,296 (100.0%) of 50,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### මැතිවරණ පැමිණිලි 300 ඉක්මවයි
+
+*2024-10-19 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202351) · `si`
+
+එළඹෙන පාර්ලිමේන්තු මැතිවරණයට අදාළව මේ දක්වා පැමිණිලි 300කට අධික සංඛ්‍යාවක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+එම කොමිෂන් සභාව පැවසුවේ ගතවු පැය 24තුළ ලැබී ඇති පැමිණිලි 53ක් ද සමඟින් මේ දක්වා ලැබී ඇති සමස්ත පැමිණිලි සංඛ්‍යාව 343ක් බවය.
+
+ගතවු පැය 24 තුළ මැතිවරණ නීතිරීති උල්ලංඝනය කිරීම සම්බන්ධයෙන් ජාතික මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානයට පැමිණිලි 21ක් සහ දිස්ත්‍රික් මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානය වෙත පැමිණිලි 32ක් ලැබී ඇති බව සදහන් වේ.
+
+ඒ අනුව ඔක්තෝබර් මස 18 වන දින සිට මේ දක්වා ප්‍රචණ්ඩ ක්‍රියා සම්බන්ධයෙන් පැමිණිලි කිසිවක් ලැබී නොමැති අතර මැතිවරණ නීති උල්ලංඝනය කිරීම සම්බන්ධයෙන් පමණක් අදාළ පැමිණිලි ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව සදහන් කළේය.
+
+මෙම පැමිණිලි වලින් පැමිණිලි 145ක් ජාතික මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානයටත්, තවත් පැමිණිලි 198 දිස්ත්‍රික් මැතිවරණ පැමිණිලි කළමනාකරණ මධ්‍යස්ථානය වෙතටත් ලැබී තිබේ.
+
+◼️
+
+[Data](articles/b5197a94.json)
+
+---
 
 ### Govt says privileges accorded to former Presidents not withdrawn
 
@@ -179,6 +199,26 @@ It said that the management of Bandaranaike International Airport (BIA) adopted 
 [Data](articles/0a3795ea.json)
 
 [Extended Data](ext_articles/0a3795ea.ext.json)
+
+---
+
+### Indian flight lands at BIA due to bombs scare; AASL says no threat
+
+*2024-10-19 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102798/indian-flight-lands-at-bia-due-to-bombs-scare-aasl-says-no-threat) · `en`
+
+An Indian passenger flight arriving from Mumbai has made an emergency landing at the Bandaranaike International Airport (BIA) in Katunayake due to a bomb scare.
+
+All 96 passengers and 08 crew members of the flight have been evacuated and a special search operation is being carried out in the aircraft at the BIA, Sri Lanka’s Police Spokesman DIG Nihal Thalduwa said.
+
+Meanwhile, the Airport and Aviation Services (Sri Lanka) (Private) Limited has issued a statement regarding the matter confirming that there is no threat over the reported bomb scare on the Vistara flight UK 131 (A320 Neo) from Mumbai to Colombo.
+
+It said that the management of Bandaranaike International Airport (BIA) adopted all precautionary and preventive measures in response to a reported bomb scare on the Vistara flight from Mumbai to Colombo, which was scheduled to arrive at 14:51 hrs at the BIA.
+
+...
+
+[Data](articles/b696c74c.json)
+
+[Extended Data](ext_articles/b696c74c.ext.json)
 
 ---
 
@@ -2269,53 +2309,5 @@ Meanwhile, the number of taxpayers for 2023/2024 has increased to 868,009 under 
 [Data](articles/45217047.json)
 
 [Extended Data](ext_articles/45217047.ext.json)
-
----
-
-### Special Notice on Vehicle Income Permit
-
-*2024-10-18 20:42:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-வருமான-அனுமதிப்-பத்திரம்-குறித்து-விசேட-அறிவிப்பு/175-345658) · `ta`
-
-Vehicle income permit issues: provinces unconnected, implementation incomplete. Western Province owners face difficulties due to registration in other provinces. Minister Vijitha Herath directs Governor to connect Western Province with other provinces for proper implementation.
-
-🟩
-
-The Ministry of Highways, Ports and Civil Aviation has issued a report on obtaining vehicle income permits.
-
-The main issue faced by the people in obtaining vehicle income permits is that the provinces are unrelated and that it has not yet been implemented for the most essential province, which is not yet implemented.
-
-If the vehicle owned by the vehicle owner in the Western Province was registered in a different province, the people are worried that this province is the most difficult task of spending income, labor and money in this province.
-
-Minister of Transport, Highways, Ports and Aviation, Vijitha Herath has issued a directive to the Governor of the Western Province to provide instructions to the departments appropriate for the necessary steps to connect the Western Provinces to other provinces.
-
-◼️
-
-[Data](articles/0b390ceb.json)
-
-[Extended Data](ext_articles/0b390ceb.ext.json)
-
----
-
-### Dilith about a courageous opposition
-
-*2024-10-18 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202322) · `si`
-
-Dilith Jayaweera: Government needs strong opposition to stay on track. Weak opposition only supports government actions. Propose giving government power but reject harmful proposals affecting national identity.
-
-🟩
-
-The monoporative entrepreneur, Dilith Jayaweera, said that the government in the control could carry the government on the right route.
-
-He was speaking at a press conference held at the party headquarters today.
-
-"The government in the right track can send the right path to a courageous opposition. If a weak opposition comes, you're just waging the hand for what the government does.
-
-We need to give the government a chance to be powerful. That's our honest effort. But they have proposed a proposal to impact our nationality and our nationality. We are not ready to agree with what is in that proposal. "
-
-◼️
-
-[Data](articles/6ee560e8.json)
-
-[Extended Data](ext_articles/6ee560e8.ext.json)
 
 ---

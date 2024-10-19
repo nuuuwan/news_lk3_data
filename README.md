@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 13:39:43**
+As of **2024-10-19 13:58:47**
 
 ## Newspaper Stats
 
-*Scraped **50,264** Articles*
+*Scraped **50,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 3,077
 dailyftlk | 3,433
 adalk | 4,663
 dailymirrorlk | 4,733
-adaderanalk | 5,951
-tamilmirrorlk | 6,881
+adaderanalk | 5,952
+tamilmirrorlk | 6,882
 virakesarilk | 8,052
-adaderanasinhalalk | 8,715
+adaderanasinhalalk | 8,716
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,264 (100.0%) of 50,264 articles have been extended.
+50,267 (100.0%) of 50,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Fuel prices can be marked ...
+
+*2024-10-19 13:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையை-குறிக்க-முடியும்/175-345683) · `ta`
+
+Fuel prices may drop 15-20 rupees on Nov 1st, says former minister Kanjana Wijeesera. She urges commentators to reveal truths about fuel costs.
+
+🟩
+
+Former Minister Kanjana Wijeesera has said that the price of fuel will be reduced between 15 to 20 rupees on the first day of November.
+
+Former Minister Kanjana Wijeesera has said that those who have commented on fuel prices in the past should tell the people the truth at the time.. Remble
+
+◼️
+
+[Data](articles/dcf0fae2.json)
+
+[Extended Data](ext_articles/dcf0fae2.ext.json)
+
+---
+
+### Election campaigns of the executive power begins Anuradhapura
+
+*2024-10-19 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202336) · `si`
+
+Anuradhapura election campaign starts today. Dilith Jayaweera inaugurates at Sri Maha Bodhi. He emphasizes economic improvement over political gain. Campaign focuses on national development rather than personal interests.
+
+🟩
+
+The election campaign to the upcoming general election begins today (19), Anuradhapura.
+
+Prior to the beginning of the propaganda, Dilith Jayaweera gave birth to the Sri Maha Bodhi and Ruwanwue Great of Anuradhapura.
+
+Meanwhile, a Gampaha District Leader of the UNP, the party leader Dilith Jayaweera was also present at the universality held in the Kudaggedihena area yesterday.
+
+He said that he was not politics, not politics, not a man of money, and he was expensive.
+
+"We do not know the politics of the hand, not politics, who runs out of anyone. This country needs to be determined to improve the country's economy. It's for that we work hard. "
+
+"We have the chance of gold. The result of this road may be a result. "
+
+◼️
+
+[Data](articles/ee57dfbc.json)
+
+[Extended Data](ext_articles/ee57dfbc.ext.json)
+
+---
 
 ### Special decision related to local government elections
 
@@ -75,6 +123,28 @@ From the travel bag he brought, 10 kg of Ice Ice Customs Officers found hidden i
 [Data](articles/85350a04.json)
 
 [Extended Data](ext_articles/85350a04.ext.json)
+
+---
+
+### India doubles grant to support education in Sri Lanka’s plantation community
+
+*2024-10-19 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102793/india-doubles-grant-to-support-education-in-sri-lankas-plantation-community) · `en`
+
+India has doubled its grant to Rs 600 million to support education in Sri Lanka’s plantation areas for the Indian-origin Tamil community.
+
+Indian High Commission to Sri Lanka Santosh Jha and Secretary of Sri Lanka’s Ministry of Education and Science and Technology J M Thilaka Jayasundara on Friday signed and exchanged diplomatic letters to formalise the modalities.
+
+“The project envisages the upgradation of infrastructure of 9 plantation schools identified by the Government of Sri Lanka. These include 6 schools in the plantation areas of Central Province and one school each in Uva, Sabaragamuwa and Southern Province,” Jha said.
+
+With the additional funds infused at the request of the Government of Sri Lanka, India’s total commitment to the project now stands at 600 million Sri Lanka rupees (INR 172.25 million).
+
+The project would add to India’s numerous past and ongoing development partnership initiatives in Sri Lanka in the important sector of education.
+
+...
+
+[Data](articles/75bd3ea3.json)
+
+[Extended Data](ext_articles/75bd3ea3.ext.json)
 
 ---
 
@@ -2275,67 +2345,5 @@ Russian President Vladimir Putin said last month that Moscow had extended the li
 [Data](articles/e42950b9.json)
 
 [Extended Data](ext_articles/e42950b9.ext.json)
-
----
-
-### Ahead of Parliamentary Elections in Jaffna
-
-*2024-10-18 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196594) · `ta`
-
-Jaffna district prepares for parliamentary elections. Government agent discusses roles of village officials and electoral process improvements based on previous presidential election experiences.
-
-🟩
-
-The Fringe Functional for Grama Niladhari on November 14 was held at the Jaffna District Secretariat Auditorium headed by Marudalingam Pradeepan, the Jaffna District Government Agent and the Department of State, Marudalingam Pradeepan.
-
-He expressed his gratitude to the Grama Niladhari who had given good cooperation to the duties of the presidential election.
-
-In addition, the discussion will be held as a feedback, and that the parliamentary elections will be contributing to the duties of the parliamentary elections to be contributed to the duties of the Presidential Elections, and that the voting of the voters in the Jaffna election in the last presidential election has been increased due to the high votes of the voters.The Government Agent asked.
-
-Assistant Commissioner of Elections, EK Amalraj, was explained on the duties and responsibilities of the village officials at the polling stations regarding the parliamentary election.
-
-...
-
-[Data](articles/524cdfea.json)
-
-[Extended Data](ext_articles/524cdfea.ext.json)
-
----
-
-### Sri Lanka Telecom chief resigns
-
-*2024-10-18 16:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecom-chief-resigns-184128/) · `en`
-
-ECONOMYNEXT – Sri Lanka Telecom Chairman A K D D Arandara has resigned, the company said in a stock exchange filing without giving reasons.
-
-Arandara, an Additional Secretary at the Department of Legal Affairs was appointed Chairman in February.
-
-He joined the public service in 2000 as Senior Assistant Secretary to the Ministry of Justice and Director General of the Consumer Affairs Authority.
-
-◼️
-
-[Data](articles/b3fc6192.json)
-
-[Extended Data](ext_articles/b3fc6192.ext.json)
-
----
-
-### New board of directors appointed to Film Corporation and Foundation Institute
-
-*2024-10-18 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102782/new-board-of-directors-appointed-to-film-corporation-and-foundation-institute) · `en`
-
-Minister of Buddha Sasana, Religious and Cultural Affairs, National Integration, Social Security and Mass Media Vijitha Herath emphasized the need for the National Film Corporation to adapt to contemporary times, compete with private entities, and progress accordingly.
-
-He made these remarks during a meeting held today (18) at the Ministry of Mass Media Auditorium, appointing the Boards of Directors for the National Film Corporation and the Sri Lanka Foundation Institute.
-
-The minister revealed the previous concerns about favoritism in film releases in the past, and urged the new board of Directors to ensure fair practices in this regard.
-
-He also noted that representatives from all communities—Sinhalese, Tamils, and Muslims—were appointed back in 2004/2005, and Tamil cinema has yet to establish and develop itself as a viable industry in Sri Lanka in the future.
-
-...
-
-[Data](articles/1609d3ff.json)
-
-[Extended Data](ext_articles/1609d3ff.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 09:58:42**
+As of **2024-10-19 10:11:46**
 
 ## Newspaper Stats
 
-*Scraped **50,246** Articles*
+*Scraped **50,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,076
 dailyftlk | 3,433
 adalk | 4,661
 dailymirrorlk | 4,733
-adaderanalk | 5,948
-tamilmirrorlk | 6,876
+adaderanalk | 5,949
+tamilmirrorlk | 6,878
 virakesarilk | 8,049
 adaderanasinhalalk | 8,711
 
@@ -26,11 +26,71 @@ adaderanasinhalalk | 8,711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,246 (100.0%) of 50,246 articles have been extended.
+50,249 (100.0%) of 50,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Passenger arrested with over 10kg of ‘Ice’ drugs at BIA
+
+*2024-10-19 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102790/passenger-arrested-with-over-10kg-of-ice-drugs-at-bia) · `en`
+
+Sri Lanka Customs officers have arrested a Sri Lankan passenger arriving from Malaysia while in possession of over 10 kilograms of ‘Ice’ (crystal methamphetamine), estimated to be worth around Rs. 250 million at the Bandaranaike International Airport (BIA) in Katunayake.
+
+◼️
+
+[Data](articles/7a280a4b.json)
+
+[Extended Data](ext_articles/7a280a4b.ext.json)
+
+---
+
+### The right criterion will be followed in releasing movies
+
+*2024-10-19 09:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரைப்படங்களை-வெளியிடுவதில்-சரியான-அளவுகோல்-பின்பற்றப்படும்/175-345679) · `ta`
+
+Minister Vijitha Herath promises fair film releases, denies irregularities. National Film Corporation renewal planned to compete with private sector. New directors tasked with orderly film distribution.
+
+🟩
+
+Media Minister Vijitha Herath said that the allegations of irregularities in the release of films would be issued by the current government that the current government would not be able to cause such irregularities and dislikes and publish films in a proper order.
+
+The Minister was speaking at a function appointed by the Board of Directors of the Sri Lanka National Film Corporation (NFC) and the Sri Lanka Foundation Institute on Friday.
+
+He said that the National Film Corporation should be renewed in modern times and competed with the private sector.
+
+The Minister said that the new directors should intervene and take steps to release the films fairly. The films were previously released at personal discretion.
+
+◼️
+
+[Data](articles/196d4581.json)
+
+[Extended Data](ext_articles/196d4581.ext.json)
+
+---
+
+### Resolution of the Ministry of Education on professional education
+
+*2024-10-19 09:42:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழில்முறை-கல்வி-குறித்து-கல்வி-அமைச்சின்-தீர்மானம்/175-345678) · `ta`
+
+Ministry of Education: Students enroll High Quality Professional Division by 31st. Zonal offices boost vocational curriculum interest. Principals notified about grade 12 admissions for 2024/2025 academic year.
+
+🟩
+
+The Ministry of Education said that students will be enrolled to the High Quality Professional Division until the 31st of this month, based on the normal quality results of 2023/2024.
+
+Zonal education offices have been instructed to prepare a plan to increase the interest of the vocational curriculum than the number of students who have been enrolled over the past years.
+
+In addition, the Ministry of Education has sent a letter to all principals on the admission of students to grade 12 for the higher quality professional course for the academic year 2024/2025 for the academic year.
+
+◼️
+
+[Data](articles/345835a9.json)
+
+[Extended Data](ext_articles/345835a9.ext.json)
+
+---
 
 ### New Chairman appointed to Sri Lanka Investment Council
 
@@ -2339,71 +2399,5 @@ The Ada Derana reporter said about 100,000 liters of petrol contained in tanks.
 [Data](articles/6f71bf60.json)
 
 [Extended Data](ext_articles/6f71bf60.ext.json)
-
----
-
-### Sri Lanka's third place in Australia's humanitarian innovation program
-
-*2024-10-18 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202309) · `si`
-
-Sri Lanka wins third place in Australia's 2024 Humanitarian Innovation Pitch. Student sets example for 7,000 Syrian refugees in Jordan. First place goes to Emily Nabong from Sydney University, second to Phyllis Ngugi from Bond University. Students aim to solve global challenges faced by underprivileged communities.
-
-🟩
-
-The 2024 Humanitarian Innovation Pitch has won the third place in the 2024 Humanitarian Innovation Pitch program organized by the Faculty of Engineering Sydney University in Australia.
-
-He had set a role model for about 7,000 Syrian refugees in the Zaatari refugee camp in Jordan.
-
-Students have come to seek solutions to the problems that face the problems of low-facilities or vulnerable communities around the world.
-
-The first place in this program is EMILY NABONG, a student of Sydney University, and the second place PHYLLIS NGUGI of the BOND University.
-
-◼️
-
-[Data](articles/3674747b.json)
-
-[Extended Data](ext_articles/3674747b.ext.json)
-
----
-
-### Sri Lanka’s NPP govt must talk to IMF about lowering taxes: Sajith
-
-*2024-10-18 13:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-govt-must-talk-to-imf-about-lowering-taxes-sajith-184126/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s National People’s Power (NPP) government must negotiate lower taxation with the International Monetary Fund (IMF), former opposition leader Sajith Premadasa said.
-
-Speaking at an event, Premadasa said his party the Samagi Jana Balawegaya (SJB) will support the NPP government’s efforts to discuss a new arrangement with the IMF that will see taxes lowered.
-
-“We always told IMF officials that we must enter a new agreement that is more concessional for the public. We campaigned for the presidential election on that foundation. We are watching to see when the present government will commence talks with the IMF again and enter a new agreement that will see the tax burden on the people relieved. We will support such a programme on behalf of the people,” he said.
-
-“This new president and the government have a responsibility to discuss with the IMF and enter a new programme that will reduce the tax burden,” he added.
-
-...
-
-[Data](articles/6fde4943.json)
-
-[Extended Data](ext_articles/6fde4943.ext.json)
-
----
-
-### Petition filed seeking to postpone General Election polling in Vanni
-
-*2024-10-18 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102778/petition-filed-seeking-to-postpone-general-election-polling-in-vanni) · `en`
-
-A petition has been filed in the Supreme Court challenging the rejection of a nomination for the upcoming General Election in the Vanni Electoral District.
-
-The Democratic National Alliance (DNA) has filed the petition following the decision by the District Returning Officer to reject their nomination submission.
-
-The petition was submitted by Pararajasingham Udayarasa, the authorized officer of the DNA, and two others, naming the Commissioner General of the Election Commission, its members, the Vanni District Returning Officer, and several others as respondents.
-
-The petitioners allege that the rejection of the nomination papers was unlawful, arguing that all required documents had been properly submitted.
-
-The petition requests the Supreme Court to issue a writ order invalidating the Returning Officer’s decision.
-
-...
-
-[Data](articles/947e3232.json)
-
-[Extended Data](ext_articles/947e3232.ext.json)
 
 ---

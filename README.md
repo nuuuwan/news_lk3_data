@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 13:23:39**
+As of **2024-10-19 13:39:43**
 
 ## Newspaper Stats
 
-*Scraped **50,259** Articles*
+*Scraped **50,264** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ dailyftlk | 3,433
 adalk | 4,663
 dailymirrorlk | 4,733
 adaderanalk | 5,951
-tamilmirrorlk | 6,880
-virakesarilk | 8,049
-adaderanasinhalalk | 8,714
+tamilmirrorlk | 6,881
+virakesarilk | 8,052
+adaderanasinhalalk | 8,715
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,259 (100.0%) of 50,259 articles have been extended.
+50,264 (100.0%) of 50,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Special decision related to local government elections
+
+*2024-10-19 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202334) · `si`
+
+Saman Sri Ratnayake: New nominations not valid for next local government election. Current nominations apply. Decision may face legal challenges.
+
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake says that new nominations are not used to the next local government election.
+
+He points out that the election will be held under the nominations.
+
+Speaking at a press conference held in Kandy, he added that this decision could be found in the courts.
+
+◼️
+
+[Data](articles/13791dfe.json)
+
+[Extended Data](ext_articles/13791dfe.ext.json)
+
+---
+
+### Trader arrested with Rs 25 crore ice
+
+*2024-10-19 13:04:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-25-கோடி-ஐஸுடன்-வர்த்தகர்-கைது/175-345682) · `ta`
+
+Businessman caught smuggling 10kg of ice drugs worth Rs 25 crore at Katunayake airport. Hidden in tea powder packages. Arrested after arriving from Kuala Lumpur.
+
+🟩
+
+An air passenger who smuggled ice drugs worth about Rs.
+
+Investigations revealed that he was a 35 -year -old businessman in the Themattagoda area in Colombo.
+
+He arrived at the Katunayake airport from Kuala Lumpur, Malaysian Airlines, Malaysian Airlines flight from Kuala Lumpur, Malaysia at around 11.30 pm last night.
+
+From the travel bag he brought, 10 kg of Ice Ice Customs Officers found hidden in tea powder packages. (An)
+
+◼️
+
+[Data](articles/85350a04.json)
+
+[Extended Data](ext_articles/85350a04.ext.json)
+
+---
+
+### Avoid consuming spinach during the rainy season - nutritional experts
+
+*2024-10-19 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196637) · `ta`
+
+Experts advise against eating spinach during rainy seasons due to potential health risks. Floodwaters may contain harmful contaminants, increasing the risk of diarrhea. Drinking boiled water is recommended to stay safe.
+
+🟩
+
+Nutritional experts have said that although the floods have gradually declined, the eating of spinach in the flood waters.
+
+“Due to heavy rains, the wastewater from the toilets is mixed with water and stagnant in the ground is very dangerous.
+
+In addition, due to heavy rains, diarrhea and diarrhea are more likely to spread, and they have to drink boiling water as much as possible.
+
+◼️
+
+[Data](articles/c96790de.json)
+
+[Extended Data](ext_articles/c96790de.ext.json)
+
+---
 
 ### The train service returned to us
 
@@ -47,6 +115,28 @@ The Sri Lanka Railways Department has announced that the train service between C
 [Data](articles/15af0aee.json)
 
 [Extended Data](ext_articles/15af0aee.ext.json)
+
+---
+
+### Yuvati arrested in connection with murder
+
+*2024-10-19 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196632) · `ta`
+
+Woman arrested for murder in Gampaha. Police seize drugs. Second suspect caught.
+
+🟩
+
+Weliweriya police said that a woman has been arrested in connection with the murder of a 58 -year -old woman in September last September in the south of Gampaha, Weliweriya and Embaraaluwa.
+
+The second suspect, the second suspect of the murder, was arrested in the Bal Mahara area, police said.
+
+Police said that 05 grams of 600 milligrams of ice was seized from the arrested woman.
+
+◼️
+
+[Data](articles/ba4c235e.json)
+
+[Extended Data](ext_articles/ba4c235e.ext.json)
 
 ---
 
@@ -119,6 +209,30 @@ The railway line was severely damaged and the train had fuel tanks. Two wild ele
 [Data](articles/dbb97f1f.json)
 
 [Extended Data](ext_articles/dbb97f1f.ext.json)
+
+---
+
+### Students don't be afraid of HPV vaccine - Ministry of Health
+
+*2024-10-19 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/196629) · `ta`
+
+Ministry of Health reassures students about HPV vaccine safety. Side effects reported in few cases were temporary and treated. No long-term health risks. Vaccine prevents cervical cancer.
+
+🟩
+
+The Ministry of Health has said that schoolchildren should not be unnecessarily worried about the side effects of the HPV vaccine, which is aimed at preventing cervical cancer.
+
+After the HPV vaccine was injected to five students in an elementary school in Kalutara, the students have signs of abdominal pain, nausea and headaches.
+
+However, they have been healed after being given appropriate medical treatment to students who are ill.
+
+The report further stated that these conditions are due to fear of students when the vaccine is injected.
+
+◼️
+
+[Data](articles/e64fa9d9.json)
+
+[Extended Data](ext_articles/e64fa9d9.ext.json)
 
 ---
 
@@ -2223,125 +2337,5 @@ He also noted that representatives from all communities—Sinhalese, Tamils, and
 [Data](articles/1609d3ff.json)
 
 [Extended Data](ext_articles/1609d3ff.ext.json)
-
----
-
-### Defense Ministry petitioned over call to return licensed firearms
-
-*2024-10-18 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102781/defense-ministry-petitioned-over-call-to-return-licensed-firearms) · `en`
-
-The Ministry of Defense has been petitioned in the Court of Appeal, seeking to overturn a directive that requires individuals holding firearms for personal protection under licensed permits to return them.
-
-The petition was filed by H.D. Navinthaka de Silva, CEO of Avenra Hotel Group, who argues that the decision poses a significant risk to his safety.
-
-The Secretary of the Ministry of Defense, the Director of the State Intelligence Service, and the Acting Inspector General of Police have been named as respondents in the case.
-
-Filed through lawyer Sanath Wijayawardena, the petition claims that Mr. de Silva obtained licensed firearms from the Ministry of Defense around 2012 or 2013 due to serious personal threats.
-
-He further noted that his business, including his hotels, suffered considerable damage during recent political unrest, compounding his security concerns.
-
-...
-
-[Data](articles/9a01bbe3.json)
-
-[Extended Data](ext_articles/9a01bbe3.ext.json)
-
----
-
-### இருவேறு நிர்வாகங்களில் மாற்றம்
-
-*2024-10-18 16:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவேறு-நிர்வாகங்களில்-மாற்றம்/175-345654) · `ta`
-
-Two leadership changes: W. P. Seneviratne as National Film Corporation head, S.M. Samaraweera as Lanka Foundation head, appointed by Minister Vijitha Herath.
-
-🟩
-
-தேசிய திரைப்படக் கூட்டுத்தாபனத்தின் புதிய தலைவராக டபிள்யூ.பிரின்ஸ் சேனாதீரவும், இலங்கை அறக்கட்டளையின் புதிய தலைவராக எஸ்.எம். சமன் சமரகோனும் ஊடகத்துறை அமைச்சர் விஜித ஹேரத்தால் நியமிக்கப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/c1a110cd.json)
-
-[Extended Data](ext_articles/c1a110cd.ext.json)
-
----
-
-### Even though Yahya Sinwar is killed, our war against Israel will continue - the Palestinian people
-
-*2024-10-18 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196595) · `ta`
-
-Palestinians vow continued resistance against Israel after Yahya Sinwar's death, citing broader conflict spanning over a century.
-
-🟩
-
-The Palestinian people have pledged that the war against Israel will continue, despite the killing of Yahya Sinwar.
-
-The Palestinians in Khan Unis, who have been destroyed by the destruction war, are sure to continue the war, but the BBC reports that the war will continue.
-
-The BBC has obtained the opinion of the Palestinians using independent journalists (it is noteworthy that Israel does not allow the BBC into Palestine.)
-
-Dr. Ramadan Paris said the Palestinian people did not carry out this war with confidence in any leader or officer.
-
-He said that this is much greater than Yahya Sinwar, the destruction war and the issue against the Palestinian people.
-
-Israel is not just destroying us, he wants to destroy the entire Middle East.
-
-He said the war between us and the Jews has been going on since 1919 for over 100 years.
-
-I do not think that Sinwar's death will affect Hamas.
-
-◼️
-
-[Data](articles/d0f5a858.json)
-
-[Extended Data](ext_articles/d0f5a858.ext.json)
-
----
-
-### பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவுக்கு புதிய தலைவர் நியமனம்
-
-*2024-10-18 15:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மானியங்கள்-ஆணைக்குழுவுக்கு-புதிய-தலைவர்-நியமனம்/175-345653) · `ta`
-
-பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவின் புதிய தலைவராக சிரேஷ்ட பேராசிரியர் கபில செனவிரத்ன நியமிக்கப்பட்டுள்ளார்.
-
-🟩
-
-பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவின் புதிய தலைவராக சிரேஷ்ட பேராசிரியர் கபில செனவிரத்ன நியமிக்கப்பட்டுள்ளார்.
-
-வேதியியல் பேராசிரியரான இவர், களனி பல்கலைக்கழகத்தின் பழைய மாணவராவார். இவர் 1997ஆம் ஆண்டு, அமெரிக்காவில் உள்ள வெய்ன் ஸ்டேட் பல்கலைக்கழகத்தில் முனைவர் பட்டம் பெற்றார்.
-
-அத்துடன், சமையல் எண்ணெய்களின் இரசாயன மற்றும் ஊட்டச்சத்து பண்புகள் குறித்து பல ஆராய்ச்சிகளை நடத்திய ஒரு முக்கிய பேராசிரியரும் ஆவார்.
-
-சிரேஷ்ட பேராசிரியர் கபில செனவிரத்ன, இதுவரை களனி பல்கலைக்கழகத்தின் முதுகலை பீடத்தின் பீடாதிபதியாக பணியாற்றியமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/13ab3fa4.json)
-
-[Extended Data](ext_articles/13ab3fa4.ext.json)
-
----
-
-### வேட்புமனுவை நிராகரித்த தீர்மானத்துக்கு எதிராக மனு
-
-*2024-10-18 15:44:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்புமனுவை-நிராகரித்த-தீர்மானத்துக்கு-எதிராக-மனு/175-345652) · `ta`
-
-Supreme Court petition challenges rejection of election nomination in Vanni district. Petitioners claim rejection violates law despite proper documentation submission.
-
-🟩
-
-A petition has been filed in the Supreme Court demanding the cancellation of the decision taken by the District Election Officer to reject the Vanni district Democratic National Alliance for the upcoming parliamentary elections.
-
-இங்கு பிரதிவாதிகளாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர், உறுப்பினர்கள், வன்னி மாவட்ட தேர்தல் அதிகாரி மற்றும் பலர் குறிப்பிடப்பட்டுள்ளனர்.
-
-பொதுத் தேர்தலில் போட்டியிடுவதற்காக வன்னி மாவட்ட தேர்தல் அதிகாரியிடம் வேட்புமனு தாக்கல் செய்துள்ளதாக மனுதாரர்கள் தெரிவித்துள்ளனர். The petition also refused to accept the nomination papers.
-
-அனைத்து ஆவணங்களையும் முறையாக சமர்ப்பித்த பிறகு, வேட்புமனுவை நிராகரிப்பது சட்டத்துக்கு எதிரானது என்பதால், மனுதாரர்கள் இந்த முடிவை இரத்து செய்யுமாறு கோருகின்றனர்.
-
-◼️
-
-[Data](articles/8306fbe1.json)
-
-[Extended Data](ext_articles/8306fbe1.ext.json)
 
 ---

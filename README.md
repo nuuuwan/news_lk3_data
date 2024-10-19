@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 06:44:47**
+As of **2024-10-19 07:26:05**
 
 ## Newspaper Stats
 
-*Scraped **50,221** Articles*
+*Scraped **50,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,945
 tamilmirrorlk | 6,870
 virakesarilk | 8,047
-adaderanasinhalalk | 8,707
+adaderanasinhalalk | 8,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,221 (100.0%) of 50,221 articles have been extended.
+50,222 (100.0%) of 50,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Several areas showers today
+
+*2024-10-19 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202326) · `si`
+
+Northern Province: Showers/thundershowers expected today. Galle, Matara, Kandy, Nuwara Eliya, Western, Sabaragamuwa, North Western provinces may experience light showers. Evening/night showers possible in Uva, Eastern Provinces. Strong winds and lightning warning issued.
+
+🟩
+
+Showers or thundershowers will occur at several places in the Northern Province today (19).
+
+Almost thin showers can also occur in the Galle, Matara, Kandy, Kandy and Nuwara Eliya districts, Western, Sabaragamuwa and North Western provinces.
+
+Showers or thundershowers will occur at several places in the evening or night in the Uva and Eastern Provinces.
+
+They also urge the public to take necessary measures to minimize the damages caused by temporary strong winds and lightning.
+
+◼️
+
+[Data](articles/c0cd3544.json)
+
+[Extended Data](ext_articles/c0cd3544.ext.json)
+
+---
 
 ### NMSJ criticises lack of consultation on dismantling National People’s Council
 
@@ -2465,23 +2489,5 @@ The missing young man has been drowned with his friends with his friends yesterd
 [Data](articles/6a27ffed.json)
 
 [Extended Data](ext_articles/6a27ffed.ext.json)
-
----
-
-### PM Harini meets university students’ unions
-
-*2024-10-18 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102774/pm-harini-meets-university-students-unions-) · `en`
-
-Prime Minister Dr. Harini Amarasuriya has held discussions with the university students’ unions on Thursday (17).
-
-During the discussion, attention was drawn to many unsolved problems faced by the university students so far regarding their studies and student welfare, the Prime Minister’s Media Division said.
-
-A group of representatives from many student associations including the Inter-University Students’ Federation (IUSF), Students - Mass Power for Right to Education, Medical Faculty Students’ Action Committee and all Medical Faculty Student Associations, Inter University Bikkhu Federation, Inter Higher National Diploma Students’ Federation, Ocean University Students’ Union, Student Union of Institute of Engineering and Technology, Engineering Faculty Students’ Union - University of Moratuwa had participated in this discussion.
-
-◼️
-
-[Data](articles/1b24c497.json)
-
-[Extended Data](ext_articles/1b24c497.ext.json)
 
 ---

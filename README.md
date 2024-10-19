@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 18:58:32**
+As of **2024-10-19 19:09:45**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 8,729
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,297 (100.0%) of 50,298 articles have been extended.
+50,298 (100.0%) of 50,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
 
-### ගුවන් යානයේ බෝම්බයක් නොමැති බවට තහවුරු වෙයි
+### There is no bomb on the plane bomb
 
 *2024-10-19 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202352) · `si`
 
-බෝම්බ බියක් හේතුවෙන් හදිසි ගොඩබෑමක් සිදුකළ ඉන්දීය විස්ටාරා ගුවන් යානයේ සිදුකළ විමර්ශනවලදී අනාවරණ වූයේ බෝම්බ බිය සම්බන්ධයෙන් කිසිදු තර්ජනයක් නොමැති බවය.
+Bomb scare on Indian Airlines flight 131: No explosive found after emergency landing at Katunayake Airport. Passengers evacuated safely. False alarm caused by anonymous tip about bombings in Sri Lanka. Similar incidents reported involving other Indian flights.
 
-යානය කටුනායක ගුවන් තොටුපොළේ ධාවන පථයේ කෙළවර පිහිටි විශේෂ ස්ථානයක රඳවා කඩිනමින් ගුවන් මගීන් 96 දෙනා සහ එහි කාර්යය මණ්ඩල සාමාජිකයින් පිටතට ගනු ලැබීය.
+🟩
 
-ඒත් සමඟින් යානය කඩිනමින් සෝදිසි කළ කටුනායක ගුවන්තොටුපොළ කාර්යය භාර නිලධාරීවරයා පසුව තහවුරු කරනු ලැබුවේ පුපුරණ ද්‍රව්‍ය  කිසිවක් එම ගුවන් යානය තුළින් හමුනොවූ බවය.
+Investigations carried out on the aircraft of an emergency landing due to a bomb were revealed that there was no threat in bomb fury.
 
-ඉන් අනතුරුව ගුවන්තොටුපොළ සහ ගුවන් සේවා සමාගමද අද පස්වරුවේ මාධ්‍ය නිවේදනයක් නිකුත් කරමින් තහවුරු කළේ විස්ටාරා ගුවන් යානයේ වාර්තා වූ බෝම්බ බිය සම්බන්ධයෙන් කිසිදු තර්ජනයක් නොමැති බවය.
+The 96 passengers were taken out at a special place in a special position at the Katunayake Airport and its staff members.
 
-ඉන්දීය විස්ටාරා ගුවන් සේවයේ යූ.කේ. 131 දරන ගුවන් යානය ඉන්දියාවේ මුම්බායි සිට අද පස්වරු 12.25ට කටුනායක ගුවන් තොටුපොළ බලා පියාසර කෙරුණි.
+However, the officer in charge of the Katunayake airport work was later confirmed by the officer in charge of the explosives.
 
-එයාර් බස් A 320 වර්ගයේ ගුවන් යානයක් වූ මෙහි මගීන් 96 දෙනෙකු සහ කාර්යය මණ්ඩලයේ 8 දෙනෙකු සිට තිබුණි.
+The airport and the airline also confirmed a press release this afternoon.
 
-එම ගුවන් යානය මෙරටට බලා පැමිණෙමින් තිබෙන අතරවාරයේ විස්ටාරා ගුවන් සේවයේ මූලස්ථාන කාර්යාලයට නිර්නාමික දුරකථන ඇමතුමක් ලැබී තිබුණි.
+Indian Vitara Airlines UK. The flight of 131 flew from Mumbai, India, at 12.25 pm today.
+
+The 320 aircraft was located on the 36 passengers and 8 passengers.
+
+The aircraft is coming to the country and received an anonymous phone call.
+
+The call was informed that bombs were bombing in Sri Lanka.
+
+With the informs of the aircraft in the Katunayake airport, air and military commandos, doctors, nurses, firefighters, fire ex-rescue staff were prepared.
 
 ...
 
 [Data](articles/d68b1196.json)
+
+[Extended Data](ext_articles/d68b1196.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 23:58:53**
+As of **2024-10-20 00:12:25**
 
 ## Newspaper Stats
 
-*Scraped **50,307** Articles*
+*Scraped **50,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,433
 adalk | 4,664
 dailymirrorlk | 4,733
 adaderanalk | 5,962
-tamilmirrorlk | 6,888
+tamilmirrorlk | 6,890
 virakesarilk | 8,057
 adaderanasinhalalk | 8,734
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 8,734
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,307 (100.0%) of 50,307 articles have been extended.
+50,309 (100.0%) of 50,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Mahinda's report on vehicles
+
+*2024-10-19 23:42:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனங்கள்-குறித்து-மஹிந்த-வெளியிட்ட-அறிக்கை/175-345702) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Mahinda Rajapaksa's media unit denies allegations about his vehicle security. They claim only 3 out of 6 official vehicles were used on a specific date. The Presidential Secretariat allegedly directed this information.
+
+🟩
+
+Mahinda Rajapaksa's media unit has issued a statement that the information on the alleged vehicles in the security of Mahinda Rajapaksa is not correct.
+
+However, according to the written directive provided by the Presidential Secretariat, Mahinda Rajapaksa's media unit further stated that 3 of the six official vehicles used for the security of Mahinda Rajapaksa on Monday 21st of this month.. Remble
+
+◼️
+
+[Data](articles/730b7eb1.json)
+
+[Extended Data](ext_articles/730b7eb1.ext.json)
+
+---
+
+### President's observation on salary increase
+
+*2024-10-19 23:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளம்-அதிகரிப்பு-தொடர்பில்-ஜனாதிபதி-அவதானம்/175-345701) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake announces salary increases for public servants in the upcoming February-March 2025 budget. Also promises to boost allowances for students, poor, and those with special needs.
+
+🟩
+
+President Anura Kumara Dissanayake has said that the budget brought in February 2025 will be paid to increase the salaries of public servants.
+
+The President made this statement when the first people's rally of the National People's Power was held in Tangalle today (19) ahead of the parliamentary election.
+
+We have proven that there is nothing impossible by brave people. Initially, our biggest challenge was to represent economic stability.
+
+In a short time, we have made the best contracts with the democratic organizations that are favorable to the country and created a trusted economy.
+
+The budget is scheduled to be filed by February and March. We have paid attention to the increase in the salary of public servants and the allowances to be made to school children.
+
+In the upcoming budget, we will definitely increase the allowance offered to the poor and the special needs. ”. Remble
+
+◼️
+
+[Data](articles/f05ea16f.json)
+
+[Extended Data](ext_articles/f05ea16f.ext.json)
+
+---
 
 ### Former President's Media Unit announced
 
@@ -2281,39 +2337,5 @@ Pakistan’s hosting of this event comes at a time when the country is striving 
 [Data](articles/394179f5.json)
 
 [Extended Data](ext_articles/394179f5.ext.json)
-
----
-
-### Towards a climate-smart tourism sector: Building resilience through financial instruments
-
-*2024-10-18 23:33:25* · [`dailyftlk`](https://www.ft.lk/columns/Towards-a-climate-smart-tourism-sector-Building-resilience-through-financial-instruments/4-768154) · `en`
-
-Sri Lanka’s tourism sector holds great economic and social importance, but it is vulnerable to the impacts of climate change
-
-The tourism sector is an important pillar of Sri Lanka’s economy, providing income and employment for more than 400,000 people directly and indirectly across areas such as hospitality, transportation, and retail. However, like many other sectors, it is facing serious challenges and risks connected to climate change, necessitating a transformation towards sustainability and resilience.
-
-Innovative financial instruments and risk transfer solutions could play an important part in enhancing the sector’s capacity to withstand climate-related shocks, recover from losses and damages, and adapt to long-term climatic changes. If Sri Lanka can pioneer new business models and creative risk management tools, it could help communities, entrepreneurs, tourism companies, and other stakeholders to turn the country into a more vibrant, resilient, and prosperous destination.
-
-...
-
-[Data](articles/adeabff9.json)
-
-[Extended Data](ext_articles/adeabff9.ext.json)
-
----
-
-### In appreciation of Professor Kumar David
-
-*2024-10-18 23:31:18* · [`dailyftlk`](https://www.ft.lk/opinion/In-appreciation-of-Professor-Kumar-David/14-768153) · `en`
-
-Professor Kumar David, once an academic in the Engineering Faculty, Peradeniya University, and a Fellow of the Institution of Electrical Engineers in the UK and Hong Kong has left for eternal rest, last Monday while in Los Angeles, USA. We believe the “left” leaning English reader would miss Kumar’s forays into political controversies, with his own reading of issues that often provided dissenting, but populist perspectives, he developed over the decades since leaving the NSSP in 1980 July. Politically, he was advocating for “unity in the scattered left”.
-
-Professionally too, he stood out as an exceptional, pragmatic thinker and was accepted for that. We believe he still remains the youngest to be appointed to the Director Board of the CEB way back in 1970, perhaps after the change of government in July. Kumar would not have been 30 years then. He was also a strong critic of the Mahaweli Development power generation scheme in 1979, when the blueprint was out for academic observation.
-
-...
-
-[Data](articles/c4c6911c.json)
-
-[Extended Data](ext_articles/c4c6911c.ext.json)
 
 ---

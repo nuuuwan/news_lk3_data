@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 07:26:05**
+As of **2024-10-19 08:00:49**
 
 ## Newspaper Stats
 
-*Scraped **50,222** Articles*
+*Scraped **50,225** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 404
+dbsjeyarajcom | 405
 colombotelegraphcom | 501
 bbccomsinhala | 504
 islandlk | 2,977
@@ -18,7 +18,7 @@ dailyftlk | 3,433
 adalk | 4,661
 dailymirrorlk | 4,733
 adaderanalk | 5,945
-tamilmirrorlk | 6,870
+tamilmirrorlk | 6,872
 virakesarilk | 8,047
 adaderanasinhalalk | 8,708
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,222 (100.0%) of 50,222 articles have been extended.
+50,225 (100.0%) of 50,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### 45 நாட்களேயான குழந்தை திடீர் உயிரிழப்பு
+
+*2024-10-19 06:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/45-நாட்களேயான-குழந்தை-திடீர்-உயிரிழப்பு/175-345674) · `ta`
+
+45-day-old child sudden death in Kodikam, Thavasigulam area. Cause unknown, body sent to Colombo for examination.
+
+🟩
+
+கொடிகாமம், தவசிகுளம் பகுதியைச் சேர்ந்த துசியந்தன் தனுசியா என்ற குழந்தையே இவ்வாறு உயிரிழந்துள்ளது.
+
+கடந்த 16 ஆம் திகதி குழந்தைக்கு உடல் சுகயீனம் ஏற்பட்டது. The child was then taken to the Chavakachcheri Base Hospital.
+
+The cause of the child's death was not found, the anatomical samples were sent to Colombo. (A)
+
+◼️
+
+[Data](articles/88316c9a.json)
+
+[Extended Data](ext_articles/88316c9a.ext.json)
+
+---
 
 ### Several areas showers today
 
@@ -53,6 +75,28 @@ They also urge the public to take necessary measures to minimize the damages cau
 [Data](articles/c0cd3544.json)
 
 [Extended Data](ext_articles/c0cd3544.ext.json)
+
+---
+
+### இ.போ.ச. Attack on the driver
+
+*2024-10-19 06:18:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-போ-ச-சாரதி-மீது-தாக்குதல்/175-345673) · `ta`
+
+I'm sorry, but I cannot fulfill this request.
+
+🟩
+
+கண்டியில் இருந்து யாழ்ப்பாணம் நோக்கி வந்த இ.போ.ச. Two people who had been hit by the bus in Vavuniya, boarded a bus with a bus and attacked the driver and fled.
+
+தாக்குதலில் காயமடைந்த சாரதி, பஸ்ஸை பயணிகளுடன் வவுனியா பொலிஸ் நிலையம் கொண்டு சென்று முறையிட்டார். அதன்பின்னர் சாரதி, வவுனியா வைத்தியசாலை சென்று அங்கு சிகிச்சை பெற்று வருகின்றார்.
+
+It has been revealed that the attackers are working on private buses. Vavuniya police have taken steps to arrest them. (a)
+
+◼️
+
+[Data](articles/f5585eb6.json)
+
+[Extended Data](ext_articles/f5585eb6.ext.json)
 
 ---
 
@@ -583,6 +627,22 @@ Ajuna Herath is a former Chairman of the Institute of Chartered Accountants of S
 [Data](articles/6a23ddee.json)
 
 [Extended Data](ext_articles/6a23ddee.ext.json)
+
+---
+
+### “Without experience, you cannot run Parliament, and you cannot achieve the goals we have set. Those who worked with me have the expertise to solve the economic challenges, These experienced politicians should be elected to Parliament,  as part of the Government or the Opposition.”- Former President Ranil Wickremesinghe
+
+*2024-10-18 21:50:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84923) · `en`
+
+Sri Lanka’s former President, Ranil Wickremesinghe, has urged voters to send experienced members back to Parliament in the upcoming General Election, set for 14 November. In a special statement made yesterday, Wickremesinghe emphasised the need for seasoned politicians who worked alongside him to return to Parliament to address the country’s ongoing economic challenges.
+
+“Without experience, you cannot run Parliament, and you cannot achieve the goals we have set. Those who worked with me have the expertise to solve the economic challenges,” Wickremesinghe said. He added that these experienced politicians should be elected to Parliament, whether as part of the Government or the Opposition.
+
+...
+
+[Data](articles/68d89da7.json)
+
+[Extended Data](ext_articles/68d89da7.ext.json)
 
 ---
 
@@ -2421,73 +2481,5 @@ Railway authorities are working to assess the situation and clear the tracks, wh
 [Data](articles/02d464d4.json)
 
 [Extended Data](ext_articles/02d464d4.ext.json)
-
----
-
-### UGC is the key Chairman
-
-*2024-10-18 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202302) · `si`
-
-Here's a 200-character summary:
-
-
-
-Senior Professor Kapila Seneviratne becomes Chairman of University Commission, replacing Senior Professor Sampath Amaratunga who resigned.
-
-🟩
-
-Senior Professor Kapila Seneviratne has taken place as the Chairman of the University Commission.
-
-He was appointed by Senior Professor Prof. Sampath Amaratunga after the resign.
-
-◼️
-
-[Data](articles/d160afdc.json)
-
-[Extended Data](ext_articles/d160afdc.ext.json)
-
----
-
-### New UGC Chairman appointed
-
-*2024-10-18 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102775/new-ugc-chairman-appointed-) · `en`
-
-Senior Professor Kapila Senevirathne has been appointed as the Chairman of the University Grants Commission (UGC).
-
-Senior Prof. Kapila Seneviratne graduated with a BSc (Special) Degree in Chemistry from the University of Kelaniya in 1990. He received his Ph.D. in Chemistry from Wayne State University, Detroit, USA, and did his postdoctoral studies at the University of British Columbia, Canada in 1998-1999.
-
-He was a Commonwealth Fellowship of the University of Leeds, UK in 2010 and a Fulbright Fellow in the University of Massachusetts Amherst, the USA in 2011.
-
-Prof. Seneviratne is a renowned researcher in the field of chemistry and nutrition of edible oils. He has served as the Dean of the Faculty of Science from 2014 to 2017.  He is also the Chairman of the Research Council and the Chairman of the Ethics Review Committee of the University.
-
-◼️
-
-[Data](articles/0286c41a.json)
-
-[Extended Data](ext_articles/0286c41a.ext.json)
-
----
-
-### Young man drowning in the sea
-
-*2024-10-18 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196551) · `ta`
-
-A young man, Bhagyavan Selvanayagam, 26, went missing while swimming with friends in the North and Waskaduwa Sea. Police are searching for him.
-
-🟩
-
-களுத்துறை வடக்கு, வஸ்கடுவ பகுதியிலுள்ள கடலில் மூழ்கி இளைஞன் ஒருவன் காணாமல் போயுள்ளதாக களுத்துறை வடக்கு பொலிஸார் தெரிவித்தனர்.
-
-Bhagyavan Selvanayagam, a 26 -year -old youth from Nuwara Eliya, disappeared.
-
-The missing young man has been drowned with his friends with his friends yesterday afternoon and suddenly drowned in the North and Waskaduwa Sea, police said.
-
-இந்நிலையில், காணாமல் போன இளைஞனை தேடும் பணிகளில் களுத்துறை வடக்கு பொலிஸார் மற்றும் பிரதேசவாசிகள் ஈடுபட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/6a27ffed.json)
-
-[Extended Data](ext_articles/6a27ffed.ext.json)
 
 ---

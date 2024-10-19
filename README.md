@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 12:57:50**
+As of **2024-10-19 13:23:39**
 
 ## Newspaper Stats
 
@@ -1489,8 +1489,6 @@ He said that action is being amended to the Act in the future, he said.
 *2024-10-18 20:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-rise-7-79-pct-183124/) · `en`
 
 ECONOMYNEXT- Sri Lanka’s average coconut prices were up from 93,865.10 to 101,177.51 for 1,000 nuts at an auction on October 10, data from the Coconut Development Authority shows.
-
-This is a 7.79 percent increase. Coconut prices have been rising since dropping in May.
 
 The highest price was 115,000 for 1,000 nuts while the lowest was 85,900.
 

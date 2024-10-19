@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 11:23:34**
+As of **2024-10-19 11:39:44**
 
 ## Newspaper Stats
 
-*Scraped **50,252** Articles*
+*Scraped **50,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,076
 dailyftlk | 3,433
 adalk | 4,662
 dailymirrorlk | 4,733
-adaderanalk | 5,950
+adaderanalk | 5,951
 tamilmirrorlk | 6,878
 virakesarilk | 8,049
 adaderanasinhalalk | 8,712
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,712
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,252 (100.0%) of 50,252 articles have been extended.
+50,253 (100.0%) of 50,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Colombo-Batticaloa train services resume
+
+*2024-10-19 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102792/colombo-batticaloa-train-services-resume) · `en`
+
+Train services between Colombo Fort and Batticaloa have resumed today after the tracks were cleared following yesterday’s accident involving a fuel train near the Minneriya Rotawewa area, according to Sri Lanka Railways.
+
+◼️
+
+[Data](articles/bd8bcf13.json)
+
+[Extended Data](ext_articles/bd8bcf13.ext.json)
+
+---
 
 ### 22 year-old female arrested over murder in Weliweriya
 
@@ -2343,31 +2357,5 @@ The Humanitarian Innovation Pitch is an annual event that highlights the impactf
 [Data](articles/d157cbae.json)
 
 [Extended Data](ext_articles/d157cbae.ext.json)
-
----
-
-### Board of Directors to the Film Corporation and Foundation
-
-*2024-10-18 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202312) · `si`
-
-National Film Corporation Board of Directors meeting: Modernize film industry, compete with private entities, address Buddhist religious duties, national unity, social protection, and media ministry responsibilities.
-
-🟩
-
-ජාතික චිත්‍රපට සංස්ථාව නූතන යුගයට සරිලන පරිදි සකස් කළයුතු බවත්, පෞද්ගලික ආයතන හා සමඟ තරඟකාරිත්වය ජයග්‍රහණය කරමින් ඉදිරියට යායුතු බවත්, බුද්ධ ශාසන ආගමික කටයුතු, ජාතික ඒකාබද්ධතා සමාජ ආරක්ෂණ සහ ජනමාධ්‍ය අමාත්‍ය විජිත හේරත් මහතා පවසයි.
-
-ජාතික චිත්‍රපට සංස්ථාවට සහ ශ්‍රී ලංකා පදනම් ආයතනයට අධ්‍යක්ෂ මණ්ඩල පත්කරමින් ජනමාධ්‍ය අමාත්‍යංශ ශ්‍රවණාගාරයේදී අද (18) පැවැති රැස්වීම් සභාව අමතමින් ඒ මහතා මේ බව පැවසීය.
-
-The Minister said that the new board of directors had to intervene in this regard while releasing films in the recent past.
-
-The Minister said that the members of the country had not yet been able to develop Tamil cinema in 2004/2005, and the Tamil cinema should grow as an industry in the future.
-
-Speaking on the Sri Lanka Foundation Institute, the Minister said that the current officials should be managed and to prevent the weaknesses of the basement.
-
-◼️
-
-[Data](articles/a483562d.json)
-
-[Extended Data](ext_articles/a483562d.ext.json)
 
 ---

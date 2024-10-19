@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 08:22:10**
+As of **2024-10-19 08:00:49**
 
 ## Newspaper Stats
 
-*Scraped **50,235** Articles*
+*Scraped **50,225** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 406
+dbsjeyarajcom | 405
 colombotelegraphcom | 501
 bbccomsinhala | 504
-islandlk | 2,984
+islandlk | 2,977
 economynextcom | 3,076
 dailyftlk | 3,433
 adalk | 4,661
 dailymirrorlk | 4,733
-adaderanalk | 5,946
-tamilmirrorlk | 6,873
+adaderanalk | 5,945
+tamilmirrorlk | 6,872
 virakesarilk | 8,047
 adaderanasinhalalk | 8,708
 
@@ -26,41 +26,11 @@ adaderanasinhalalk | 8,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,225 (100.0%) of 50,235 articles have been extended.
+50,225 (100.0%) of 50,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
-
-### ’விசேட வரிகளை விதிக்கவில்லை’
-
-*2024-10-19 07:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-வரிகளை-விதிக்கவில்லை/175-345675) · `ta`
-
-ஐந்து வகையான பொருட்களுக்கு அரசாங்கம் புதிய விசேட வரிகளை விதிக்கவில்லை எனவும், தற்போதுள்ள வரி விகிதங்களை மாத்திரமே நீடித்துள்ளதாகவும் நிதி, பொருளாதார அபிவிருத்தி, கொள்கை உருவாக்கம், திட்டமிடல் மற்றும் சுற்றுலா அமைச்சு தெரிவித்துள்ளது.(AN)
-
-◼️
-
-[Data](articles/7c863c86.json)
-
----
-
-### Several spells of light showers expected in parts of the island
-
-*2024-10-19 07:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102787/several-spells-of-light-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers may occur at a few places in Northern province.
-
-Several spells of light showers may occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at a few places in Uva and Eastern provinces during the evening or night, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers
-
-◼️
-
-[Data](articles/ec641853.json)
-
----
 
 ### 45 நாட்களேயான குழந்தை திடீர் உயிரிழப்பு
 
@@ -127,76 +97,6 @@ It has been revealed that the attackers are working on private buses. Vavuniya p
 [Data](articles/f5585eb6.json)
 
 [Extended Data](ext_articles/f5585eb6.ext.json)
-
----
-
-### Optimism over corporate sector quarterly results energizes CSE
-
-*2024-10-19 04:02:00* · [`islandlk`](http://island.lk/optimism-over-corporate-sector-quarterly-results-energizes-cse/) · `en`
-
-Stock market investor sentiment was positive yesterday as most local and foreign investors were optimistic that quarterly results of corporate sector entities would remain positive, as was the case with the last quarterly results, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 27.16 points, while S and P SL20 rose by 13.72 points.
-
-Turnover stood at Rs 1.9 billion with three crossings. Those crossings were reported in LB Finance, which crossed 4.8 million shares to the tune of Rs 346 million; its shares traded at Rs 71.50, Dialog 5million shares crossed for Rs 55 million; its shares traded at Rs 11 and Janashakthi Insurance 500,000 shares crossed for Rs 20 million; its shares sold at Rs 40.
-
-...
-
-[Data](articles/9a3e89f2.json)
-
----
-
-### Hemas Hospitals launches ‘BreastOber 2024’ – A renewed commitment to champion breast cancer awareness
-
-*2024-10-19 04:02:00* · [`islandlk`](http://island.lk/hemas-hospitals-launches-breastober-2024-a-renewed-commitment-to-champion-breast-cancer-awareness/) · `en`
-
-As Breast Cancer Awareness Month returns this October, Hemas Hospitals is stepping up its commitment with the launch of ‘BreastOber 2024.’ This annual initiative is aimed at educating women on the importance of early detection while improving access to life-saving diagnostic tools. With breast cancer remaining the most common form of cancer among women globally, the need for awareness and action is more critical than ever.
-
-...
-
-[Data](articles/cec3b2b3.json)
-
----
-
-### Govt is facing a harsh reality, says Harsha
-
-*2024-10-19 03:58:00* · [`islandlk`](http://island.lk/govt-is-facing-a-harsh-reality-says-harsha/) · `en`
-
-The Jathika Jana Balawegaya (JJB) government is raising debt more acutely than the previous government despite its heavy criticism against the ballooning of the government debt stock, when it was running for office, Dr. Harsha de Silva, former MP of Samagi Jana Balawegaya told the media yesterday.
-
-“JJB which is in administration now, made a vociferous protest on the political stage during the election campaign that the previous government was raising debt by issuing government securities for monetary operations on a big scale, but today it appears to be doing the same thing at a bigger rate, he said.
-
-...
-
-[Data](articles/e8438dfe.json)
-
----
-
-### Sampath Bank partners with Symphony Orchestra of Sri Lanka to launch historic trilingual concert
-
-*2024-10-19 03:13:00* · [`islandlk`](http://island.lk/sampath-bank-partners-with-symphony-orchestra-of-sri-lanka-to-launch-historic-trilingual-concert/) · `en`
-
-Sampath Bank is proud to announce its sponsorship of the Symphony Orchestra of Sri Lanka’s (SOSL) groundbreaking trilingual concert, set to take place on the 19th and 20th of October at Bishop’s College Auditorium. This landmark event will not only introduce the concept of a trilingual symphony orchestra concert for the first time in Sri Lanka but also serve to revive the beloved Pops Concert tradition, showcasing the versatility and talent of SOSL.
-
-As the sole sponsor, Sampath Bank PLC is thrilled to support this pioneering initiative, which reaffirms the Bank’s commitment to promoting the arts and fostering cultural inclusivity. This sponsorship aligns with Sampath Bank’s heritage as a truly Sri Lankan bank, where merging Western classical traditions with Sri Lankan music creates a future enriched by the magnificence of orchestral sounds, as the Symphony Orchestra of Sri Lanka pays homage to the nation’s rich diversity.
-
-...
-
-[Data](articles/6a26f3f0.json)
-
----
-
-### ComBank Digital launches new-paradigm ‘H2H’ services for corporate clients
-
-*2024-10-19 03:12:00* · [`islandlk`](http://island.lk/combank-digital-launches-new-paradigm-h2h-services-for-corporate-clients/) · `en`
-
-The Commercial Bank of Ceylon has announced the launch of Host-to-Host (H2H) payment services for corporate clients as the latest addition to ComBank Digital Enterprise Solutions – the Bank’s comprehensive and powerful suite of cutting-edge digital banking solutions for SMEs and corporates.
-
-H2H is an automated and secure solution that integrates directly with a corporate client’s Enterprise Resource Planning (ERP) system, and is designed to facilitate the electronic transfer of data between banks and their corporate clients. This technology eliminates the need for manual processes involved in payment transfers and reconciliations, making overall transaction management more efficient and reliable, the Bank said.
-
-...
-
-[Data](articles/ffbc7c18.json)
 
 ---
 
@@ -789,18 +689,6 @@ Deputy General Manager (Traffic) of the Railway Department, N. J. Indipolage, st
 [Data](articles/f622850e.json)
 
 [Extended Data](ext_articles/f622850e.ext.json)
-
----
-
-### The  Brazen Abduction and  Brutal Murder of Militant Turned Journalist “Taraki” Sivaram.
-
-*2024-10-18 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84927) · `en`
-
-President Anura Kumara Dissanayake frequently emphasised during his election campaign that he would re-open investigations into incidents  of colossal fraud,mass murder and assassinations where the course of justice was  allegedly obstructed or thwarted by those in power in the past. Recent happenings indicate that president Dissanayake and his Government are serious about their campaign promises and  are initiating follow up action in this regard. With parliamentary polls   due next month, electoral  prospects for the ruling National Peoples Power(NPP) Govt would be brighter if it  can demonstrate, that it is taking stern  action to ensure justice will be done in these matters.
-
-...
-
-[Data](articles/b93eae9c.json)
 
 ---
 
@@ -2383,5 +2271,215 @@ Prison officials have found three mobile phones and SIM card from the wall of a 
 [Data](articles/35b0497b.json)
 
 [Extended Data](ext_articles/35b0497b.ext.json)
+
+---
+
+### Colombo, Grandpass firing;Two suspects arrested
+
+*2024-10-18 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196556) · `ta`
+
+Colombo: Grandpass murder case. Two suspects (45, 50) arrested. Victim killed near cemetery. Suspects were traveling with victim in three-wheeler. Police investigation ongoing.
+
+🟩
+
+Two suspects have been arrested in connection with the killing of a man near the Madhampitiya cemetery belonging to the Grandpass police division in Colombo, police said.
+
+The arrested suspects are from Colombo 10 and 15, aged 45 and 50.
+
+The suspects were two other people who were traveling in the three -wheeler with the victim who died during the shooting.
+
+Police said that the suspects were carrying the victim in the three -wheeler.
+
+The present investigation revealed that the suspects have helped the suspects to kill the suspect by telephone.
+
+◼️
+
+[Data](articles/9411d766.json)
+
+[Extended Data](ext_articles/9411d766.ext.json)
+
+---
+
+### Petition to the Supreme Court against denies a nomination panel
+
+*2024-10-18 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202304) · `si`
+
+Supreme Court petition challenges rejection of nomination papers in Vanni district for general election. Petitioners seek reversal of decision and interim injunction.
+
+🟩
+
+A petition was filed against the Supreme Court against the rejection of a nomination papers in the Vanni district, presented for the next general election.
+
+The petition has been presented to the Supreme Court demanding the authority of the District Returning decision to reject the nomination papers taken by the Democratic National Alliance for the Vanni District.
+
+The petition was presented by the Pararajasangam Udaya Raza and two other candidates in the party.
+
+The Chairman of the Elections and Members of the Electors, including the Electors of the Election Commission, including the Vanni District Returning Officer.
+
+The District Referral Officer has taken the decision to reject his nomination papers while all the documents have been submitted in a proper presence and that the petition has been filed asking for a force embarking writ.
+
+...
+
+[Data](articles/d222bd65.json)
+
+[Extended Data](ext_articles/d222bd65.ext.json)
+
+---
+
+### மஹியங்கனையில் புதையல் தோண்டிய நால்வர் கைது ; மூவர் தப்பியோட்டம்
+
+*2024-10-18 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196558) · `ta`
+
+Four arrested in Mahiyanganaya grave digging incident; three suspects flee
+
+🟩
+
+Four persons have been arrested in the Divulapalasa area of ​​Mahiyanganaya on Thursday (17).
+
+Three of the suspects arrested were from the Divula Divula Belasa area and the other suspect belonged to the Grathurukottai area, police said.
+
+The police said that the arrest of the Mahiyanganaya Police Station was arrested during the raid on the area.
+
+It is reported that three more people who were arrested with the arrested suspects have fled and investigations are underway to arrest them.
+
+Deputy Inspector General of Police Sujith Wedamulla, Senior Superintendent of Police, Vasantha Kandewatta and Assistant Superintendent of Police GWSP Balibana, Mahiyanganaya Police Response Officer Prabhopa Chandana is being investigated by the police.
+
+சந்தேக நபர்களிடம் விசாரணை மேற்கொண்டதன் பின்னர் மஹியங்கனை நீதிவான் நீதிமன்றத்தில் ஆஜர்படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/e8ab83e9.json)
+
+[Extended Data](ext_articles/e8ab83e9.ext.json)
+
+---
+
+### The oil train derails the wild elephant's conflict
+
+*2024-10-18 11:38:58* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලින්ගේ-ගැටුණ-තෙල්-කෝච්චිය-පීලි-පනියි/11-412554) · `si`
+
+Oil train derails near Minneriya, Sri Lanka. Train carrying fuel from Colombo to Batticaloa crashes at 4:00 AM. Diesel and petrol tanks spill. No injuries reported. Elephant herd affected. Police investigation ongoing.
+
+🟩
+
+A train carrying fuel from Colombo to Batticaloa on the 18th, Minneriya Police say that the trains were killed in the middle railway station at around 4,00 am.
+
+While the trains were contained in tanks, and the diesel and three tanks were found in the four tanks.
+
+The Minneriya Police are investigating that two petrol tanks roll over and the oil goes on.
+
+According to the Chief Inspector Duminda Fernando, Chief Inspector Duminda Fernando said that the driver of the train had been traveled and no injuries had been injured and disaster.
+
+Galoya, Batticaloa Railway Transport has been completely blocked due to the train derailment and a special team of Minneriya and Habarana Police have been deployed to protect the location.
+
+The Minneriya Wildlife Officers say that another elephant is seriously injured in a herd of a herd.
+
+A police officer, including the Chief Inspector Duminda Fernando, is conducting further investigations.
+
+◼️
+
+[Data](articles/82fe4340.json)
+
+[Extended Data](ext_articles/82fe4340.ext.json)
+
+---
+
+### සින්වාර් ඝාතනය - හිස්බුල්ලා සංවිධානයෙන් තර්ජනාත්මක ප්‍රතිචාරයක්
+
+*2024-10-18 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202303) · `si`
+
+Hezbollah responds to Sinwar's killing, threatens attacks on Israel. Iran denies aid reduction due to Sinwar's death. Foreign media suggests renewed peace talks to address ongoing conflict.
+
+🟩
+
+The Hezbollah Organization of Lebanona has responded today to the killing of the Palestinian Hamas captain.
+
+They say that the conflicts with Israel can cause a new approach and more.
+
+ඊශ්‍රායලයට එරෙහි ප්‍රහාර තවත් දැඩි කරන බවට ද හිස්බුල්ලා සංවිධානය අනතුරු අඟවයි.
+
+On October 7, 2023, was identified as the chief person who was planning to the attack on several areas of Israel.
+
+එම ප්‍රහාරය දැනට පවතින ගාසා යුද්ධයට හේතුවිය. The number of Palestinians who have died is over 42,000.
+
+In Gaza, 61-year-old Zinwar wednes of Israel killed in a Rapa area of ​​Gaza.
+
+ඔහු මියයෑමට මොහොතකට පෙර ඊශ්‍රායලයේ ඩ්‍රෝන යානයක් ඔහු අසලටම යන අයුරු දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍යයේ සංසරණය වෙයි.
+
+මේ අතර හිස්බුල්ලා සහ හමාස් සංවිධාන සඳහා ප්‍රසිද්ධියේ සහාය දක්වන ඉරානය පවසා ඇත්තේ මෙම ඝාතනය නිසා ඔවුන් ලබාදෙන සහාය අඩු නොකරන බවයි.
+
+කෙසේවෙතත් විදෙස් මාධ්‍ය පවසන්නේ සින්වාර් ගේ ඝාතනය හේතුවෙන් දැනට ඇනහිට ඇති ගැටුම් වැලැක්වීම සඳහා වූ සාකච්ඡා නැවත ආරම්භ කිරීමට මාර්ගයක් පාදනු ඇති බවයි.
+
+◼️
+
+[Data](articles/031ee153.json)
+
+[Extended Data](ext_articles/031ee153.ext.json)
+
+---
+
+### Sri Lanka’s Kotagala Plantations downgraded three steps to CCC(lka) after wage hike
+
+*2024-10-18 11:38:00* · [`economynextcom`](https://economynext.com/sri-lankas-kotagala-plantations-downgraded-three-steps-to-ccclka-after-wage-hike-184121/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has downgraded Sri Lanka’s Kotagala Plantations by three levels to ‘CCC(lka)’ from ‘B+(lka)’ and its listed unsecured debentures four steps to CCC-(lka) after a state driven wage hike.
+
+“We expect the statutory increase in labour costs effective September 2024 to dampen free cash flow (FCF), leading to a high likelihood that Kotagala will amend or extend the terms of its debt facilities as they fall due over the next two years,” Fitch Ratings said.
+
+“We are likely to consider such transactions to be distressed debt-exchanges under our rating criteria, as they would significantly reduce the contract terms and allow the issuer to avoid a probable default.
+
+“This would lead to a downgrade of the National Long-Term Rating to ‘C(lka)’ or ‘RD(lka)’ (restricted default).”
+
+Margins will be hit by depressed plantation yields, due to labour shortages and ageing crops, Fitch said.
+
+...
+
+[Data](articles/d7ea929b.json)
+
+[Extended Data](ext_articles/d7ea929b.ext.json)
+
+---
+
+### Egg traders urge govt to implement pricing formula
+
+*2024-10-18 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102777/egg-traders-urge-govt-to-implement-pricing-formula-) · `en`
+
+The All Ceylon Egg Traders’ Association has called on the government to introduce a pricing formula to stabilize the price of eggs in the market.
+
+The Secretary of the association Anura Marasinghe stated that it costs less than Rs. 25 to produce an egg, making it feasible to sell them at a price of Rs. 35 per egg.
+
+“The issue of escalating egg prices remains unresolved, with current market rates ranging from Rs. 40 to Rs. 45 per egg. We urge the government to appoint a committee and establish a transparent pricing formula,” Mr. Marasinghe said.
+
+He further noted that the actual production cost of an egg is between Rs. 20 and Rs. 23, while farm-gate prices currently stand at around Rs. 30.
+
+The association believes a pricing mechanism would benefit both producers and consumers, ensuring fair pricing across the board.
+
+◼️
+
+[Data](articles/46514b35.json)
+
+[Extended Data](ext_articles/46514b35.ext.json)
+
+---
+
+### All train services on Batticaloa Line suspended
+
+*2024-10-18 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102776/all-train-services-on-batticaloa-line-suspended-) · `en`
+
+The Department of Railways announced that all train services between Batticaloa and Colombo Fort have been canceled today (17), following an accident early this morning.
+
+Six daily trains operate on this route, but services have been suspended due to a collision involving a train transporting fuel.
+
+The incident occurred between the Minneriya and Higurakgoda railway stations when the train, en route from the Kolonnawa petroleum storage terminal to Batticaloa, struck a herd of wild elephants.
+
+Four fuel tanks of the train have been damaged, with two of them overturning due to the impact.
+
+Railway authorities are working to assess the situation and clear the tracks, while no timeline has been provided yet for the resumption of services.
+
+◼️
+
+[Data](articles/02d464d4.json)
+
+[Extended Data](ext_articles/02d464d4.ext.json)
 
 ---

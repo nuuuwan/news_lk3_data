@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 21:58:43**
+As of **2024-10-19 22:57:27**
 
 ## Newspaper Stats
 
-*Scraped **50,305** Articles*
+*Scraped **50,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 3,077
 dailyftlk | 3,433
 adalk | 4,664
 dailymirrorlk | 4,733
-adaderanalk | 5,961
+adaderanalk | 5,962
 tamilmirrorlk | 6,888
 virakesarilk | 8,057
-adaderanasinhalalk | 8,733
+adaderanasinhalalk | 8,734
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,305 (100.0%) of 50,305 articles have been extended.
+50,307 (100.0%) of 50,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Former President's Media Unit announced
+
+*2024-10-19 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202357) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former President Mahinda Rajapaksa's media unit released a statement about security measures. It clarified incorrect vehicle custody information and mentioned actions taken regarding six officers protecting the Presidential Secretariat. The announcement was made through the Department of Government Information.
+
+🟩
+
+The Media Unit has issued a statement regarding the officers who have been deployed on behalf of the security for the security measures, including the use of former President Mahinda Rajapaksa issued by the Department of Government Information.
+
+The release states that information on vehicles shown to be in custody is not the correct information.
+
+However, action has been taken to re-handed over the 21st of the six officers who have been deployed to protect the Presidential Secretariat, including the use of the Presidential Secretariat.
+
+The amendment issued by former President Mahinda Rajapaksa is further below,
+
+◼️
+
+[Data](articles/751893f3.json)
+
+[Extended Data](ext_articles/751893f3.ext.json)
+
+---
+
+### EU Ambassador and ADB Director call on Prime Minister Harini
+
+*2024-10-19 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102802/eu-ambassador-and-adb-director-call-on-prime-minister-harini) · `en`
+
+The Ambassador of the European Union (EU) to Sri Lanka, Carmen Moreno, has paid a courtesy call on the Prime Minister of Sri Lanka, Dr. Harini Amarasuriya, at the Prime Minister’s Office in Colombo.
+
+The meeting was an opportunity to reaffirm the strong and enduring relationship between the European Union and Sri Lanka, which is built on mutual respect and cooperation, the Prime Minister’s Office said.
+
+Prime Minister Dr. Amarasuriya highlighted the importance of the EU’s continued support for the GSP+ trade scheme, which has been instrumental in boosting Sri Lankan exports and also outlined her government’s vision to attract more foreign investment by eliminating corruption and strengthening institutions such as the Board of Investment (BoI).
+
+Meanwhile, the Sri Lanka Director of the Asian Development Bank (ADB), Takafumi Kadono, has also met with Prime Minister Dr. Harini Amarasuriya at the Prime Minister’s Office yesterday (18) for a discussion.
+
+...
+
+[Data](articles/2ea46be7.json)
+
+[Extended Data](ext_articles/2ea46be7.ext.json)
+
+---
 
 ### Lalith Kannangara's disciple caught
 
@@ -2267,79 +2315,5 @@ Professionally too, he stood out as an exceptional, pragmatic thinker and was ac
 [Data](articles/c4c6911c.json)
 
 [Extended Data](ext_articles/c4c6911c.ext.json)
-
----
-
-### New Zealand to fight T20 World Cup
-
-*2024-10-18 22:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202325) · `si`
-
-New Zealand qualifies for T20 Women's World Cup final after defeating West Indies by 8 runs. They'll face South Africa on Sunday.
-
-🟩
-
-B.I. West Indies women defeated by 8 runs and qualify for the final of the T20 Women's World Cup final.. West Indies Women's team passed today (18).
-
-The competition was held in Sajah as the second semi-final in the United Arab Emirates.
-
-In response to 129 runs in New Zealand, West Indies were able to score only 120 runs in the 20 overs.
-
-Batting first, New Zealand women's group scored 128 runs for the loss of 9 wickets in their 20 overs.
-
-New Zealand, with the highest number of experience in the International T20 Women's cricket, qualified for the semi-finals.
-
-Despite these occasions, they were allowed to play the final, but they had to be satisfied with the runners-up in two.
-
-West Indies also played a semi-final match of the Twenty20 Women Cup.
-
-However, they were able to play the final at the tournament held in India in 2016.
-
-It was once defeated by the strong Australian group and crowned World Champions.
-
-New Zealand will be held on Sunday (20) between New Zealand and South Africa.
-
-◼️
-
-[Data](articles/7f85a333.json)
-
-[Extended Data](ext_articles/7f85a333.ext.json)
-
----
-
-### அரசியல் கட்சிகள் அம்பாறை மாவட்டத்தை இடைத்தங்கல் முகாமாக பயன்படுத்துகின்றது - சந்திரநேரு சந்திரகாந்தன்
-
-*2024-10-18 22:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196614) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Political parties use Ampara as transit camp - Chandranayagam
-
-
-
-Former MP Chandranayagam stated political parties use Ampara as transit camp. He criticized current political situation in Ampara, saying it affects people without considering their opinions. Parties now select candidates based on money rather than public input. This approach is unhealthy for democracy.
-
-🟩
-
-அரசியல் கட்சிகள் அம்பாறை மாவட்டத்தினை ஒரு இடைத்தங்கல் முகாமாக பயன்படுத்துவதாக முன்னாள் பாராளுமன்ற உறுப்பினர் சந்திரநேரு சந்திரகாந்தன் தெரிவித்தார்.
-
-He made the above statement at a media briefing in Tirukovil.
-
-The Ampara district has been affected by the current contemporary politically, like a slave on all sides.
-
-அம்பாறை மாவட்டத்தில் சமகால அரசியல் போக்கானது மக்கள் கருத்து இல்லாமல் அரசியல் கட்சிகள் தாமாக சிந்தித்து செயற்படுகின்றது.
-
-ஆரம்பத்தில் தேர்தல் கேட்பது என்றால் பிரதேச புத்திஜீவிகள், அதிபர்கள் , இளைஞர்கள், ஆலய அறங்காவலர்கள் என மக்களின் கருத்து கேட்டதன் பின்னரே வேட்பாளர்கள் அரசியல் கட்சிகளில் நியமிக்கப்படுவர்.
-
-ஆனால் இப்போது யார் வேண்டுமானாலும் தேர்தல் கேட்கலாம் என்று புதிய கோட்பாடு அம்பாறை மாவட்டத்தை பெறுத்த மட்டில் உருவாகியுள்ளது.
-
-தேர்தல் காலத்தில் மாத்திரமே அரசியல் கட்சிகளின் வரவு அம்பாறை மாவட்டத்தில் காணப்படுகின்றது தமிழ் கட்சிகள் அனைத்தும் ஒன்றிணைந்து ஒரு வேட்பாளரை முன் நிறுத்தி குறித்த வேட்பாளருக்கு களம் அமைத்து வெற்றி பெற வைக்க வேண்டும்.
-
-...
-
-[Data](articles/393e4955.json)
-
-[Extended Data](ext_articles/393e4955.ext.json)
 
 ---

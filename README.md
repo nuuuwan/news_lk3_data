@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 20:10:17**
+As of **2024-10-19 20:23:32**
 
 ## Newspaper Stats
 
-*Scraped **50,301** Articles*
+*Scraped **50,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 504
 islandlk | 2,984
 economynextcom | 3,077
 dailyftlk | 3,433
-adalk | 4,663
+adalk | 4,664
 dailymirrorlk | 4,733
 adaderanalk | 5,961
 tamilmirrorlk | 6,888
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,730
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,301 (100.0%) of 50,301 articles have been extended.
+50,302 (100.0%) of 50,302 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1081,6 +1081,28 @@ The junior Sri Lanka record that was completed by 4:35.7 in 1985, the 16-year-ol
 [Data](articles/3fd5f580.json)
 
 [Extended Data](ext_articles/3fd5f580.ext.json)
+
+---
+
+### Arjuna Herath appointed chairman of the Board of Investment
+
+*2024-10-19 11:19:25* · [`adalk`](https://www.ada.lk/breaking_news/ආයෝජන-මණ්ඩලයේ-සභාපති-ධුරයට-අර්ජුන-හේරත්/11-412559) · `si`
+
+Arjuna Herath named Chairman of Sri Lanka's Board of Investment. Formerly led Institute of Chartered Accountants and Colombo Stock Exchange. Served on data protection authority and accounting standards board. Senior Chartered Accountant with extensive experience.
+
+🟩
+
+An arjuna Herath, a senior Chartered Accountant, as the new Chairman of the Board of Investment of Sri Lanka, has been appointed as a Senior Chartered Accountant.
+
+Ajuna Herath is a former Chairman of the Institute of Chartered Accountants of Sri Lanka and has also held higher levels of higher rates.
+
+He has also served as a member of the Colombo Stock Exchange, the former Chairman of the Sri Lanka Private Data Protection Authority, Sri Lanka Accounts and Audit Standards.
+
+◼️
+
+[Data](articles/f1e537ab.json)
+
+[Extended Data](ext_articles/f1e537ab.ext.json)
 
 ---
 
@@ -2319,23 +2341,5 @@ Typically, the gazette notification has been released for a period of one year, 
 [Data](articles/e324d8d8.json)
 
 [Extended Data](ext_articles/e324d8d8.ext.json)
-
----
-
-### Two elephants killed in fuel train collision: Investigation launched on train’s speed
-
-*2024-10-18 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102786/two-elephants-killed-in-fuel-train-collision-investigation-launched-on-trains-speed) · `en`
-
-The Department of Railways announced that efforts to clear the tracks after a fuel train derailed colliding with a herd of wild elephants near the Minneriya Rotawewa area are expected to be completed by tomorrow morning (19).
-
-The incident, which occurred early today, tragically resulted in the death of two wild elephants and left another seriously injured. The train, en route to Batticaloa, was transporting fuel when it struck the elephants, causing the derailment.
-
-Deputy General Manager (Traffic) of the Railway Department, N. J. Indipolage, stated that the train cannot be re-railed until the remaining fuel is safely removed from the affected tanks. Once this is completed, work to restore the train to the tracks will commence.
-
-...
-
-[Data](articles/f622850e.json)
-
-[Extended Data](ext_articles/f622850e.ext.json)
 
 ---

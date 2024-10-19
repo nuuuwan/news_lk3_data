@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 01:39:20**
+As of **2024-10-20 01:58:16**
 
 ## Newspaper Stats
 
-*Scraped **50,314** Articles*
+*Scraped **50,316** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 406
-colombotelegraphcom | 502
+colombotelegraphcom | 504
 bbccomsinhala | 504
 islandlk | 2,984
 economynextcom | 3,081
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,734
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,314 (100.0%) of 50,314 articles have been extended.
+50,315 (100.0%) of 50,316 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -381,6 +381,36 @@ Accordingly, the statement issued by the Director General of Government Informat
 [Data](articles/a3aa8943.json)
 
 [Extended Data](ext_articles/a3aa8943.ext.json)
+
+---
+
+### My Dad Was My Hero: A Eulogy Of Prof A. Kumar David
+
+*2024-10-19 17:48:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/my-dad-was-my-hero-a-eulogy-of-prof-a-kumar-david/) · `en`
+
+So I’m going to start by telling you all a little secret. You see, my dad was was my hero.
+
+I didn’t grow up with Batman or Superman I grew up with my dad. My father who in all honesty I modeled my life after in many ways. You see my father was so many things to so many people; one man who in his time played many parts. For some he was a leader of Marxist thought and rioter (in today’s vernacular that’s “an advocate for social change”). For others he was a teacher, a lecturer, a professor; an expert on electrical engineering and power systems, solar and wind (pun intended for he could clear a room). The details of my father’s accomplishments on these fields (except the wind) are sadly beyond my knowledge. However, from what I have read and heard the impact has been lasting.
+
+...
+
+[Data](articles/b417d554.json)
+
+[Extended Data](ext_articles/b417d554.ext.json)
+
+---
+
+### In Defense Of Royal College Rugby: Addressing Baseless Tarnishing Efforts
+
+*2024-10-19 17:30:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-defense-of-royal-college-rugby-addressing-baseless-tarnishing-efforts/) · `en`
+
+Recently, Royal College’s proud rugby tradition has come under unwarranted scrutiny, with certain quarters attempting to tarnish the reputation of this historic institution. Royal College, which has long been synonymous with excellence in academics, sports, and leadership, has especially shone in the realm of rugby, a sport that has been a bedrock of its identity for over a century.
+
+However, the recent baseless efforts to discredit this remarkable legacy deserve close examination. In an environment where sportsmanship, dedication, and teamwork are core values, such efforts appear not only misinformed but also damaging to the young athletes who devote themselves to both their education and the sport, unfortunately.
+
+...
+
+[Data](articles/76a3f66d.json)
 
 ---
 
@@ -2289,59 +2319,5 @@ Sri Lanka's spin bowler Dushan Hemantha took only 23 runs in 4 overs and his att
 [Data](articles/2ccf0ce4.json)
 
 [Extended Data](ext_articles/2ccf0ce4.ext.json)
-
----
-
-### எம்மவர்கள் எதிரணி பக்கம் சென்றதால் பலவீனமடைந்தோம் - நாமல் ராஜபக்ஷ
-
-*2024-10-19 00:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/196621) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka Podujana Peramuna leader Namal Rajapaksa says party weakened due to members joining opposition. He calls for unity efforts and cooperation with government.
-
-🟩
-
-ஜனாதிபதித் தேர்தலின் போது எம்முடன் இருந்தவர்கள் எதிரணி பக்கம் சென்றதால் தான் நாங்கள் அரசியலில் பலவீனமடைந்துள்ளார்கள். விலகிச் சென்றவர்களை மீண்டும் இணைத்துக் கொள்ளவே முயற்சிக்கிறோம் என பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
-
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் வெள்ளிக்கிழமை (18) இடம்பெற்ற தொகுதி அமைப்பாளர்களுடனான கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-தேர்தலில் வெற்றி மற்றும் தோல்வி என்பது இயல்பானது. Success and failure must be accepted. We lost the presidential election due to various factors. Because those who were with us went to the opposition to us;We are weakened.
-
-எம்மை விட்டுச் சென்றவர்கள் தற்போது அரசியலில் நெருக்கடியாகியுள்ளமை கவலைக்குரியது. ஆகவே இவர்கள் எம்முடன் மீண்டும் ஒன்றிணையலாம். அதற்கான முயற்சிகளை மேற்கொண்டுள்ளோம்.
-
-...
-
-[Data](articles/1f99e3b2.json)
-
-[Extended Data](ext_articles/1f99e3b2.ext.json)
-
----
-
-### The actual change is the real change in us-the Jaffna University Student Union
-
-*2024-10-19 00:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/196620) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Jaffna University Student Union representatives claim true change comes from within, not external sources. They criticize Tamil nationalist ideologies and politicians for failing to address youth concerns and promote genuine political participation. The statement emphasizes the need for a new Tamil national identity and political culture, free from corruption and fake promises.
-
-🟩
-
-எமக்குள்ளான அகவயமான முற்போக்கு மாற்றமே உண்மையான மாற்றம் என தெரிவித்த யாழ்ப்பாணப் பல்கலைக்கழக மாணவர் ஒன்றியப் பிரதிநிதிகள், தென்னிலங்கையிலிருந்து அது வருவதில்லை என தெரிவித்தனர்.
-
-யாழ்ப்பாணப் பல்கலைக்கழகத்தில் வெள்ளிக்கிழமை (18) நடைபெற்ற யாழ்ப்பாண பல்கலைக்கழக மாணவர் ஒன்றியத்தின் ஊடகவியலாளர் சந்திப்பிலேயே இந்த விடயம் தெரிவிக்கப்பட்டது.
-
-மேலும் தெரிவிக்கையில், சிங்கள – பௌத்த பேரினவாதம் முழுவீச்சில் செயற்படுவதற்கான வாய்ப்புக்களைப் பொருளாதார நெருக்கடி தற்காலிகமாக மட்டுப்படுத்தியுள்ள நிலையில் சிங்கள மக்கள் மாற்றமொன்றினை எதிர்பார்த்து வாக்களித்துள்ளனர். எனினும் சிங்கள மக்களின் வாக்களிப்பு முறைக்கு நேர்மாறாக வாக்களித்ததன் மூலம் எம்மிடையே நிலவுவது பொருளாதார நெருக்கடி மட்டுமல்ல என்பதை தமிழ் மக்கள் தெளிவாக எடுத்துரைத்துள்ளனர்.
-
-...
-
-[Data](articles/a01cb070.json)
-
-[Extended Data](ext_articles/a01cb070.ext.json)
 
 ---

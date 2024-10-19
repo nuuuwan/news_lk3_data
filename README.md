@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 13:58:47**
+As of **2024-10-19 14:11:35**
 
 ## Newspaper Stats
 
-*Scraped **50,267** Articles*
+*Scraped **50,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 3,077
 dailyftlk | 3,433
 adalk | 4,663
 dailymirrorlk | 4,733
-adaderanalk | 5,952
+adaderanalk | 5,953
 tamilmirrorlk | 6,882
 virakesarilk | 8,052
-adaderanasinhalalk | 8,716
+adaderanasinhalalk | 8,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,267 (100.0%) of 50,267 articles have been extended.
+50,270 (100.0%) of 50,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### A revelation of white cream
+
+*2024-10-19 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202338) · `si`
+
+Consumer Affairs Authority raids illegal skin-whitening creams from pharmacies. Products marketed as scar treatments but used for cosmetic purposes. Only available by prescription. Many users resorting to unlicensed use.
+
+🟩
+
+Several coats used on medical recommendations and marketable coatings have been raided by the Consumer Affairs Authority.
+
+The revealed that they are carrying out the skin to whitewash the skin.
+
+The Consumer Affairs Authority was taken into custody several coatings in the emergency raid, which was conducted in Pettah area yesterday.
+
+The Consumer Affairs Authority (CEB) stated that the plump is used to delete the scars in some burn.
+
+However, the types of coatings can only be obtained on a medical recommendation, only registered pharmacies.
+
+However, the Consumer Affairs Authority points out that many people have resorted to the skin to whitewash the skin.
+
+Sanjeewa Weerasinghe, Director of the Consumer Affairs Authority (raid and special investigations) Director
+
+"There's a great desire to be white. Not only young girls but also boys were using these plums. This is not good for the body. These coatings were found in 16 shops in Pettah. "
+
+◼️
+
+[Data](articles/3f236101.json)
+
+[Extended Data](ext_articles/3f236101.ext.json)
+
+---
+
+### Country of living in the world's largest poor people
+
+*2024-10-19 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202337) · `si`
+
+UN report: 1.1 billion suffer extreme poverty globally. 584 million under 18 affected. 83.2% in Saharan Africa and South Asia. India has highest percentage of poor population.
+
+🟩
+
+According to a UN report, 1.1 billion of the world's population suffered from extreme poverty.
+
+Half of them are people living in countries where the war is 584 million people under 18 million.
+
+According to the report, 83.2 percent of the world's most poor people in the world have residents of Sahara Africa and South Asia.
+
+According to the country, India, which lives in the world, is living in the world's most poor popular country.
+
+◼️
+
+[Data](articles/d25e4af4.json)
+
+[Extended Data](ext_articles/d25e4af4.ext.json)
+
+---
+
+### Commissioner General announces special decision on LG Elections
+
+*2024-10-19 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102794/commissioner-general-announces-special-decision-on-lg-elections) · `en`
+
+The Commissioner General of Elections, Saman Sri Ratnayake, has announced that no new nominations will be called for the upcoming local government elections.
+
+He clarified that the election will proceed based on the nominations that were previously submitted.
+
+Speaking at a news conference held in Kandy, Ratnayake further noted that any party who feels this decision has caused them injustice has the option of seeking legal recourse through the courts.
+
+◼️
+
+[Data](articles/ff151ed5.json)
+
+[Extended Data](ext_articles/ff151ed5.ext.json)
+
+---
 
 ### Fuel prices can be marked ...
 
@@ -2275,75 +2349,5 @@ But the annual income or profits should not pay less income taxes and less than 
 [Data](articles/028d1eac.json)
 
 [Extended Data](ext_articles/028d1eac.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover at Rs1.9bn
-
-*2024-10-18 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-rs1-9bn-184134/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 0.18 percent, or 22.62 points, at 12,313; while the more liquid S&P SL20 Index closed up 0.26 percent, or 9.41 points, at 3,622.
-
-Turnover was 1.9 billion. The diversified financials sector brought in Rs648mn, while the food, beverage and tobacco counters brought in Rs346mn.
-
-“With the vehicle import ban likely to be reversed, there has been renewed local investor interest in leasing and finance companies,” Softlogic stockbrokers said.
-
-“There is expectation that growth will continue in non-banking finance institutions.”
-
-Crossings were recorded in Dialog Axiata (up at 10.90), LB Finance (up at 73.50), and Janashakthi Insurance (up at 42.70).
-
-“The crossing on LB Finance followed its positive results for 2Q FY2024, with earnings up by over 8 percent.”
-
-...
-
-[Data](articles/8ba9fa86.json)
-
-[Extended Data](ext_articles/8ba9fa86.ext.json)
-
----
-
-### 21 students admitted to hospital due to food allergies
-
-*2024-10-18 16:45:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-ஒவ்வாமையால்-21-மாணவர்கள்-வைத்தியசாலையில்-அனுமதி/175-345655) · `ta`
-
-Nuwara Eliya: 21 students hospitalized after eating school-provided breakfast. Symptoms attributed to food allergies. Students' conditions reported as stable.
-
-🟩
-
-21 students studying in a school in the Nuwara Eliya - Valappanai - Patolla area have been admitted to the hospital this morning.
-
-Students have been sick due to breakfast allergies provided at the school, hospital sources said.
-
-Hospital sources said that the physical condition of the illicit students is not worrisome.
-
-◼️
-
-[Data](articles/b8a588d9.json)
-
-[Extended Data](ext_articles/b8a588d9.ext.json)
-
----
-
-### Russia tests readiness of nuclear missile unit
-
-*2024-10-18 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102783/russia-tests-readiness-of-nuclear-missile-unit) · `en`
-
-Russia is testing the combat readiness of a unit equipped with Yars intercontinental ballistic missiles in a region northwest of Moscow, news agencies quoted the defence ministry as saying on Friday.
-
-The Yars, which can be deployed in silos or mounted on mobile launchers, has a range of up to 11,000 km (6,835 miles) and is capable of delivering multiple nuclear warheads.
-
-Russia has carried out a series of nuclear drills this year in what security analysts say are signals intended to deter the West from intervening more deeply in the war in Ukraine.
-
-The latest one is taking place in the same week that NATO conducted its annual nuclear exercise and Ukrainian President Volodymyr Zelenskiy unveiled his “victory plan“.
-
-Russian President Vladimir Putin said last month that Moscow had extended the list of scenarios that could prompt it to use nuclear weapons, effectively lowering the threshold for their use. Ukraine accused Moscow of nuclear blackmail.
-
-...
-
-[Data](articles/e42950b9.json)
-
-[Extended Data](ext_articles/e42950b9.ext.json)
 
 ---

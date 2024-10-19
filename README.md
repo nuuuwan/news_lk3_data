@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 14:58:04**
+As of **2024-10-19 15:08:51**
 
 ## Newspaper Stats
 
-*Scraped **50,272** Articles*
+*Scraped **50,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,953
 tamilmirrorlk | 6,884
 virakesarilk | 8,052
-adaderanasinhalalk | 8,718
+adaderanasinhalalk | 8,720
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,272 (100.0%) of 50,272 articles have been extended.
+50,274 (100.0%) of 50,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Israeli Prime Minister is a drone attack on Benjamin's home
+
+*2024-10-19 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202340) · `si`
+
+Israeli PM Netanyahu's home targeted in drone attack. No injuries reported. Attack observed from Lebanon. Defense forces intercepted 3 drones, 2 confirmed as hostile. Incident under investigation.
+
+🟩
+
+The Israeli Prime Minister of Prime Minister Benjamin was aimed at a drone strike.
+
+Foreign media reports that the Prime Minister's residence in Caesareiya, northern Lebanon, has been attacked at home.
+
+The Prime Minister Nethanyahu's media spokesman has said that no person has been injured in the attack.
+
+The Israeli security forces have observed this attack from Lebanon.
+
+The Israeli defense sector has acted three drones from Lebanon and 2 of them.
+
+The attack is yet to be stated on whether the attack.
+
+◼️
+
+[Data](articles/48797de4.json)
+
+[Extended Data](ext_articles/48797de4.ext.json)
+
+---
+
+### Good news of elephants collided on train
+
+*2024-10-19 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202339) · `si`
+
+Elephants collide with train near Minneriya. One killed, two injured. Wildlife vet treats 8-year-old elephant.
+
+🟩
+
+The anniversary of the elephant officials were treated with the injured who were injured when the Minneriya Rotawewa Junction yesterday (19).
+
+A wild elephant was killed in the morning of the Colombo-Batticaloa main railway line while two elephants were killed and one elephant was injured.
+
+Wildlife veterinary officers in charge of the Mahaweli Zone and have been treated and released to the Minneriya Reserve.
+
+Wildlife Veterinary Sameera, Kalagu Arachchi, who was treated the Wanlanda, said that the injured elephant was about 8 years old.
+
+◼️
+
+[Data](articles/eaa3365d.json)
+
+[Extended Data](ext_articles/eaa3365d.ext.json)
+
+---
 
 ### Back to Jaffna Devi - Happy news to people
 
@@ -2273,69 +2325,5 @@ He says he has visited Chennai to meet a professor of Rameshwaram.
 [Data](articles/00bbd93e.json)
 
 [Extended Data](ext_articles/00bbd93e.ext.json)
-
----
-
-### Allen - Film Review
-
-*2024-10-18 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196587) · `ta`
-
-Here's a 200-character summary of the film review:
-
-
-
-"Alan" explores themes of writing, spirituality, and love set against the backdrop of a writer's journey. The film features strong performances from its cast, particularly the actresses playing Janani Thomas and Lotus. While the director's use of linear storytelling is criticized, the cinematography and music showcase the film's strengths. Overall, "Alan" falls short of fully realizing its potential as a celebration of writing and writers.
-
-🟩
-
-Actors: Victory, Mathura, Anu Siddara, Harish Peradi, 'Falls' Madan Kumar, Vivek Prasanna, Karunakaran and many others.
-
-Businessman from Singapore. Siva. So he wants to make a film 'Alan', which he wants to make a life of a writer.
-
-Did the film 'Alan', which is ready to celebrate the writing and writer, meet the expectations of all sides?Or not?Let us continue to see.
-
-Four brothers live as a joint family in a Western Ghats village.
-
-The son of the elder brother Tyagu. He likes to read and write books. He begins to write with his grandfather's encouragement.
-
-But he loses his parents in an accident due to the maneuvering of his will. He also considers the lotus who has loved himself. The accident causes him a shocking shock.
-
-Thus he travels without targeting and arrives. One of the preachers living in Kasi extends the hand of the sacrifice of the martyr during the season.
-
-For ten years, he has been training to live in a state of disrepair.
-
-...
-
-[Data](articles/2ce72b72.json)
-
-[Extended Data](ext_articles/2ce72b72.ext.json)
-
----
-
-### Keerthi Suresh starrer 'Rivolver Rita'
-
-*2024-10-18 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/196578) · `ta`
-
-Keerthi Suresh stars in "Rivolver Rita". She won a National Award for Best Actress. The film features Radhika Sarathkumar, Sunil, and others. Directed by J.K., music by Dinesh Krishnan. Produced by Sudan Sundaram and Jagadish Palanisamy. Post-production ongoing.
-
-🟩
-
-Actress Keerthi Suresh, who won the National Award for Best Actress, has been released as the leading role of the film 'Rivolver Rita'.
-
-Director J. K. Keerthi Suresh, Radhika Sarathkumar, Sunil, Ajay Ghosh, Redin Kingsley, Super Subbarayan, John Vijay and many others have starred in the film 'Rivolver Rita'.
-
-B.. The film, which is being recorded by Dinesh Krishnan, has composed the film.
-
-The film is being produced by Producer Sudan Sundaram and Jagadish Palanisamy on behalf of Fashion Studios and The Root.
-
-The shooting of the film is over and the post -shooting technical work is going on.
-
-Who is Keerthi Suresh, the hero of the story?The film crew has raised the question by the characters and answered the title.
-
-◼️
-
-[Data](articles/7c5bcb66.json)
-
-[Extended Data](ext_articles/7c5bcb66.ext.json)
 
 ---

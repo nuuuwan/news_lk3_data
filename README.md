@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 09:12:20**
+As of **2024-10-19 09:23:49**
 
 ## Newspaper Stats
 
-*Scraped **50,241** Articles*
+*Scraped **50,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,948
 tamilmirrorlk | 6,874
 virakesarilk | 8,047
-adaderanasinhalalk | 8,710
+adaderanasinhalalk | 8,711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,241 (100.0%) of 50,241 articles have been extended.
+50,242 (100.0%) of 50,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Youth arrested for alleged killing
+
+*2024-10-19 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202329) · `si`
+
+Youth arrested for alleged killing: Police claim suspect wanted to take charge of murdering a 58-year-old woman in September. The 22-year-old suspect was arrested in the Balandummahara area and found with 600mg of ice.
+
+🟩
+
+Police said that a suspect wanted to take charge of killing a woman, police said.
+
+පසුගිය සැප්තැම්බර් මස වැලිවේරිය, ඇඹරලුව දකුණ ප්‍රදේශයේ වයස අවුරුදු 58ක කාන්තාවක් ඝාතනය කිරීමේ අපරාධයට අදාළව වැලිවේරිය පොලීසිය විසින් සිදුකළ විමර්ශනයක ප්‍රතිඵලයක් ලෙස මෙම අත්අඩංගුවට ගැනීමට සිදුකර ඇත.
+
+When she was arrested in connection with the murder, she was arrested in the Balandummahara area yesterday and 600 milligrams of ice.
+
+අත්අඩංගුවට ගත් සැකකාරිය වයස අවුරුදු 22ක් වන කලු බෝවිටියාන ප්‍රදේශයේ පදිංචිකාරියක් බව වැලිවේරිය පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/9d688b8a.json)
+
+[Extended Data](ext_articles/9d688b8a.ext.json)
+
+---
 
 ### மஹிந்தவின் வாகனங்களை மீளகேட்கும் அரசாங்கம்
 
@@ -2369,25 +2393,5 @@ He has been appointed by the Minister of Rural, Urban Development and Housing an
 [Data](articles/21f0e7b5.json)
 
 [Extended Data](ext_articles/21f0e7b5.ext.json)
-
----
-
-### Tourist arrivals exceed 15 lakhs
-
-*2024-10-18 13:00:32* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-පැමිණීම-ලක්ෂ-15-ඉක්මවයි/11-412555) · `si`
-
-Sri Lanka tourist arrivals exceed 1.5 million in 2023, surpassing previous record of 550,000.
-
-🟩
-
-Tourist arrivals to Sri Lanka this year have exceeded Rs. At the 13th of this month, tourists arriving in Sri Lanka is 1 540 161.
-
-The number of tourist arrivals to Sri Lanka was 55 353 in Sri Lanka.
-
-◼️
-
-[Data](articles/9433d366.json)
-
-[Extended Data](ext_articles/9433d366.ext.json)
 
 ---

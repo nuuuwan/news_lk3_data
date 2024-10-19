@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 18:00:03**
+As of **2024-10-19 18:19:51**
 
 ## Newspaper Stats
 
-*Scraped **50,294** Articles*
+*Scraped **50,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,077
 dailyftlk | 3,433
 adalk | 4,663
 dailymirrorlk | 4,733
-adaderanalk | 5,957
+adaderanalk | 5,958
 tamilmirrorlk | 6,888
 virakesarilk | 8,057
 adaderanasinhalalk | 8,727
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,727
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,294 (100.0%) of 50,294 articles have been extended.
+50,295 (100.0%) of 50,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### Govt says privileges accorded to former Presidents not withdrawn
+
+*2024-10-19 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102799/govt-says-privileges-accorded-to-former-presidents-not-withdrawn) · `en`
+
+The Government Information Department has issued a special statement clarifying that the privileges accorded to former Presidents have not been withdrawn.
+
+Issued in response to the media reports alleging that vehicles provided to ex-Presidents have been taken back, the statement said that former Heads of State still retain their privileges and that only the additional vehicles have been returned thus far.
+
+Accordingly, the statement issued by the Director General of Government Information reveals that former President Mahinda Rajapaksa has returned 8 out of 16 vehicles which were in his possession and that former President Ranil Wickremesinghe has 11 vehicles.
+
+◼️
+
+[Data](articles/a3aa8943.json)
+
+[Extended Data](ext_articles/a3aa8943.ext.json)
+
+---
 
 ### A number of vehicles collided with each other on Southern Expressway
 
@@ -2299,41 +2317,5 @@ We need to give the government a chance to be powerful. That's our honest effort
 [Data](articles/6ee560e8.json)
 
 [Extended Data](ext_articles/6ee560e8.ext.json)
-
----
-
-### Large scale mill owners accused of the shortage of rice
-
-*2024-10-18 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202321) · `si`
-
-Sri Lanka: Rice shortage blamed on large-scale mill owners. Former Agriculture Director calls for government intervention. Consumers struggle with high prices. Consumer Affairs Authority lacks power to control rice mafia. New government plans to empower agency to address issue.
-
-🟩
-
-Former Director of Agriculture KB The former Agriculture Director KB Director KB. Says Mr. Gunaratne.
-
-He points out that the government should intervene to prevent this situation expeditiously.
-
-There is a severe shortage of nadu, white and red rice in the retail market.
-
-The shortage of nadu rice has become more difficult for consumers.
-
-The government's control prices are also unable to buy rice.
-
-However, murders rice manufacturers point out that the rice to the consumers have been a problem.
-
-Meanwhile, the reconciliation polls pointed out that rice was allowed to the rest of the government due to lack of government intervention.
-
-We inquired about whether the Consumer Affairs Authority of the Consumer Affairs Authority is not capable of controlling rice mafia in Sri Lanka.
-
-Speaking, the Director of Consumer Affairs Authority (raids and Special Investigations) Sanjaya Iasinghe said that the bill had not had the powers.
-
-He said that action is being amended to the Act in the future, he said.
-
-...
-
-[Data](articles/bb0ba688.json)
-
-[Extended Data](ext_articles/bb0ba688.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-19 11:39:44**
+As of **2024-10-19 11:59:16**
 
 ## Newspaper Stats
 
-*Scraped **50,253** Articles*
+*Scraped **50,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ bbccomsinhala | 504
 islandlk | 2,984
 economynextcom | 3,076
 dailyftlk | 3,433
-adalk | 4,662
+adalk | 4,663
 dailymirrorlk | 4,733
 adaderanalk | 5,951
 tamilmirrorlk | 6,878
 virakesarilk | 8,049
-adaderanasinhalalk | 8,712
+adaderanasinhalalk | 8,714
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,253 (100.0%) of 50,253 articles have been extended.
+50,256 (100.0%) of 50,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-19 (Saturday)
+
+### 'Lady Tharushi' renews an old record for 39 years
+
+*2024-10-19 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202333) · `si`
+
+"Lady Tharushi breaks 39-year-old record in Sri Lankan youth championships. She set the mark of 4:35.7 in 1985 at age 16."
+
+🟩
+
+Sri Lanka Youth Amarasca was renewed a 39-year-old Sri Lankan junior (Under 20 years old).
+
+The female athletics Championships held at the Sugathadasa Stadium in the Sugathadasa Stadium, he established this special record.
+
+The junior Sri Lanka record that was completed by 4:35.7 in 1985, the 16-year-old Tharushi.
+
+◼️
+
+[Data](articles/3fd5f580.json)
+
+[Extended Data](ext_articles/3fd5f580.ext.json)
+
+---
+
+### Colombo-Batticaloa railway trains restored
+
+*2024-10-19 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202331) · `si`
+
+Sri Lanka Railways restores service between Colombo and Batticaloa after repairing damaged track caused by train collision involving fuel transport. Accident occurred near Rothalawewa, killing two wild elephants.
+
+🟩
+
+The Sri Lanka Railways Department announced today (19) that train services were restored between Colombo Fort and Batticaloa.
+
+The train has begun running due to repairing the dilapidated railway line due to a train after a train.
+
+The accident occurred yesterday in the Rothalawewa area between the minority and Hingurakgoda yesterday.
+
+The accident had occurred when a herd of fuel transported from the Kolonnawa Oil Storage Terminal.
+
+The railway line was severely damaged and the train had fuel tanks. Two wild elephants were also killed.
+
+◼️
+
+[Data](articles/dbb97f1f.json)
+
+[Extended Data](ext_articles/dbb97f1f.ext.json)
+
+---
 
 ### Colombo-Batticaloa train services resume
 
@@ -65,6 +113,32 @@ Weliweriya Police stated that the arrested suspect is a 22-year-old resident of 
 [Data](articles/6feffd5a.json)
 
 [Extended Data](ext_articles/6feffd5a.ext.json)
+
+---
+
+### Rs. Businessman arrested with ice of ice
+
+*2024-10-19 09:56:05* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-25ක-අයිස්-සමග-ව්‍යාපාරිකයෙක්-අල්ලයි/11-412558) · `si`
+
+Businessman arrested at Katunayaka Airport with 109kg of ice. Arrived on Malaysian Airlines from Kuala Lumpur. Customs officials detained him at baggage screening. Case handed over to Police Narcotics Division for further investigation.
+
+🟩
+
+A road passenger has been arrested by the Katunayaka Airport and Katunayaka Airport and Katunayaka airport.
+
+He is a 35 year old businessman from Dematagoda, Colombo. He had arrived at the Malaysian Airlines from Kuala Lumpur from Kuala Lumpur, Malaysia at 11.30 pm on 10.30 pm.
+
+The arrest was carried out by customs officials while the Katunayake airport is not trying to get out of the airport.
+
+In the baggage he brought, the customs personnel had been arrested by customs while 109 kg of ice crumbs.
+
+Steps have been taken to hand over the Katunayaka Airport to the Police Narcotics Division for further investigations into further investigations into the investigation.
+
+◼️
+
+[Data](articles/bfcde8c6.json)
+
+[Extended Data](ext_articles/bfcde8c6.ext.json)
 
 ---
 
@@ -2279,83 +2353,5 @@ However, even under the management of the Ceylon Electricity Board, Diesel has n
 [Data](articles/c3bb805b.json)
 
 [Extended Data](ext_articles/c3bb805b.ext.json)
-
----
-
-### New Chairman appointment to City Residential Development Authority
-
-*2024-10-18 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/196574) · `ta`
-
-New Chairman Asanga Abeywardena appointed City Residential Development Authority. Minister Vijitha Herath names him. Served 30+ years in public service. Director General Vijayananda Herath present.
-
-🟩
-
-Asanga Abeywardena took over his duties as the new Chairman of the City Residential Development Authority.
-
-Rural, Urban Development and Housing and Construction Minister Vijitha Herath has appointed a new chairman of the Urbun Settlement Development Authority to the Urbun Settlement Development Authority.
-
-The new leader Asanga Abeywardena, who received a letter from the minister's exclusive secretary, Chandana Bandara, took over his new post in his office.
-
-Asanga Abeywardena, who has served as the Governor of the Trincomalee District and the Additional Governor of the Ampara District, has devoted himself to public services for more than 30 years as a rewarding officer in the public administration.
-
-Director General of the City Residential Development Authority Vijayananda Herath and a team of senior officials of the company were also present at the event.
-
-◼️
-
-[Data](articles/4ef97e84.json)
-
-[Extended Data](ext_articles/4ef97e84.ext.json)
-
----
-
-### Health Ministry explains facts about HPV vaccine
-
-*2024-10-18 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202313) · `si`
-
-HPV vaccine side effects reported in five schoolgirls. Health Ministry advises caution but no long-term reactions found. Investigations underway. Parents urged to monitor children after vaccination.
-
-🟩
-
-Five students of a school in Kalutara district have been taken to minimize the risk of cervical cancer.
-
-It stated that the symptoms observed in the girls inscription that does not suffer long-term reactivity.
-
-The statement issued by the Ministry of Health in the Ministry of Health stated that they have been adapted to medical attention to the students.
-
-පාසල් එන්නත් වැඩසටහන්වලදී එවැනි ප්‍රතික්‍රියා දැකිය හැකි අතර, අනවශ්‍ය කැළඹීමකට පත් නොවිය යුතු බවද එම නිවේදනයේ සඳහන්ව ඇත.
-
-කෙසේ වෙතත් සිද්ධිය සම්බන්ධව සාමාන්‍ය ක්‍රියාදාම යටතේ සෞඛ්‍ය අමාත්‍යංශය විසින් පරීක්ෂණ ආරම්භ කර ඇතැයි ද එහි සඳහන් වේ.
-
-The Ministry of Health has requested all parents to ensure their children to ensure their children and to ensure the safety of the HPV vaccine.
-
-◼️
-
-[Data](articles/54bdeebe.json)
-
-[Extended Data](ext_articles/54bdeebe.ext.json)
-
----
-
-### Sri Lanka’s Mahima Herath wins third place in Australia’s Humanitarian Innovation Pitch
-
-*2024-10-18 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102780/sri-lankas-mahima-herath-wins-third-place-in-australias-humanitarian-innovation-pitch) · `en`
-
-Mahima Pivithuru Herath, a postgraduate student at Griffith University from Sri Lanka has secured third place in the prestigious Humanitarian Innovation Pitch competition.
-
-His research focuses on enhancing access to primary healthcare services for the lives of Syrian refugees in the 70,000 person Zaatari Refugee Camp, Jordan.
-
-Mahima’s project aims to create a model that improves health and well-being in this highly vulnerable community.
-
-The first place of the competition was awarded to Emily Nabong from the University of Sydney, whose innovative research develops a simulation tool for policymakers.
-
-Phyllis Wairimu Ngugi from Bond University claimed second place with her work on modernizing and scaling traditional solar drying methods.
-
-The Humanitarian Innovation Pitch is an annual event that highlights the impactful research of postgraduate and higher degree by research (HDR) students addressing critical issues faced by underserved communities.
-
-...
-
-[Data](articles/d157cbae.json)
-
-[Extended Data](ext_articles/d157cbae.ext.json)
 
 ---

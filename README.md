@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 06:12:37**
+As of **2024-10-20 07:28:02**
 
 ## Newspaper Stats
 
-*Scraped **50,330** Articles*
+*Scraped **50,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,962
 tamilmirrorlk | 6,890
 virakesarilk | 8,058
-adaderanasinhalalk | 8,734
+adaderanasinhalalk | 8,735
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,321 (100.0%) of 50,330 articles have been extended.
+50,324 (100.0%) of 50,331 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Weather today
+
+*2024-10-20 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202358) · `si`
+
+Northern Province: Showers/thundershowers. Western, Sabaragamuwa, Southern, North-Western provinces: Several showers. Kandy, Nuwara Eliya: Multiple showers. Evening/night: Thundershowers in Uva, Eastern, North-central areas. Public advised to prepare for wind/lightning risks.
+
+🟩
+
+Showers or thundershowers will occur at times in the Northern Province today (20).
+
+The department states that several showers may occur in the Western, Sabaragamuwa, Southern and North-Western provinces and several times in the Kandy and Nuwara Eliya districts.
+
+Thundershowers will develop at several places in the evening or night in the evening or night in the Uva, Eastern and North-central areas.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/f1820717.json)
+
+[Extended Data](ext_articles/f1820717.ext.json)
+
+---
 
 ### Ceylinco Insurance leads annual beach clean-up across 100 km coastline
 
@@ -138,6 +162,8 @@ In setting out to draft the Administrative Regulations under the Act, I came acr
 
 [Data](articles/84762b14.json)
 
+[Extended Data](ext_articles/84762b14.ext.json)
+
 ---
 
 ### The recent IMF visit and the new ‘economic team’
@@ -151,6 +177,8 @@ This is the team –Anil Jayantha, Chair of the NPP Economic Policy Council & Se
 ...
 
 [Data](articles/1f28396f.json)
+
+[Extended Data](ext_articles/1f28396f.ext.json)
 
 ---
 
@@ -2265,21 +2293,5 @@ As Breast Cancer Awareness Month returns this October, Hemas Hospitals is steppi
 [Data](articles/cec3b2b3.json)
 
 [Extended Data](ext_articles/cec3b2b3.ext.json)
-
----
-
-### Govt is facing a harsh reality, says Harsha
-
-*2024-10-19 03:58:00* · [`islandlk`](http://island.lk/govt-is-facing-a-harsh-reality-says-harsha/) · `en`
-
-The Jathika Jana Balawegaya (JJB) government is raising debt more acutely than the previous government despite its heavy criticism against the ballooning of the government debt stock, when it was running for office, Dr. Harsha de Silva, former MP of Samagi Jana Balawegaya told the media yesterday.
-
-“JJB which is in administration now, made a vociferous protest on the political stage during the election campaign that the previous government was raising debt by issuing government securities for monetary operations on a big scale, but today it appears to be doing the same thing at a bigger rate, he said.
-
-...
-
-[Data](articles/e8438dfe.json)
-
-[Extended Data](ext_articles/e8438dfe.ext.json)
 
 ---

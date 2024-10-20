@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 16:11:50**
+As of **2024-10-20 16:39:21**
 
 ## Newspaper Stats
 
-*Scraped **50,390** Articles*
+*Scraped **50,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,083
 dailyftlk | 3,433
-adalk | 4,675
+adalk | 4,676
 dailymirrorlk | 4,733
 adaderanalk | 5,971
 tamilmirrorlk | 6,905
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,748
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,390 (100.0%) of 50,390 articles have been extended.
+50,391 (100.0%) of 50,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### President to visit the island today
+
+*2024-10-20 15:33:06* · [`adalk`](https://www.ada.lk/breaking_news/සියේරා-ලියෝන්-ජනාධිපති-අද-දිවයිනට/11-412571) · `si`
+
+Sri Lanka: President Julius Margo arrives today for CHOGM meeting. To meet Foreign Affairs Minister Vijitha Herath.
+
+🟩
+
+President Julius Margo is due to arrive in Sri Lanka today (20).
+
+He said that he will come to the island while attending the Commonwealth Heads of Government Meeting (CHOGM) from the 26th.
+
+President Mado is due to meet with foreign affairs minister Vijitha Herath.
+
+◼️
+
+[Data](articles/8f868ba6.json)
+
+[Extended Data](ext_articles/8f868ba6.ext.json)
+
+---
 
 ### Telicom leader resigns
 
@@ -2301,25 +2323,5 @@ It is noteworthy that the government has appointed the three -member committee d
 [Data](articles/7b800e28.json)
 
 [Extended Data](ext_articles/7b800e28.ext.json)
-
----
-
-### Sri Lankan youth killed in vehicle accident in Italy
-
-*2024-10-19 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196656) · `ta`
-
-Sri Lankan youth dies in Italy car crash. Recently returned for wedding. Killed by foreign driver.
-
-🟩
-
-The young man, who has been working in Italy for many years, has recently returned to Italy for his wedding.
-
-In the meantime, the young man was killed and died of a car driver in a foreign citizen.
-
-◼️
-
-[Data](articles/7017d570.json)
-
-[Extended Data](ext_articles/7017d570.ext.json)
 
 ---

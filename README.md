@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 13:23:54**
+As of **2024-10-20 13:40:42**
 
 ## Newspaper Stats
 
-*Scraped **50,376** Articles*
+*Scraped **50,377** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,083
 dailyftlk | 3,433
-adalk | 4,670
+adalk | 4,671
 dailymirrorlk | 4,733
 adaderanalk | 5,969
 tamilmirrorlk | 6,902
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,744
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,376 (100.0%) of 50,376 articles have been extended.
+50,377 (100.0%) of 50,377 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -321,6 +321,34 @@ In addition, Dissanayake, who has recovered two patients' cars at the homes of W
 [Data](articles/24ce1893.json)
 
 [Extended Data](ext_articles/24ce1893.ext.json)
+
+---
+
+### The Romanian torto's dollars stolen $ 600
+
+*2024-10-20 10:50:46* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-වදින්න-ගිය-රුමේනියානු-සංචාරිකාවගේ-ඩොලර්-600ක්-සොරකම්-කරලා/11-412565) · `si`
+
+Romanian tortoise theft: $600 stolen, police investigating. Woman complains about money loss. Suspect identified through hotel security footage. Inspector Ruwan Wijesinghe leading investigation.
+
+🟩
+
+Kalutara South Police are conducting further investigations on a number of Rs.
+
+The investigations have commenced investigations on a complaint by a woman named Christina.
+
+It is said that the complainant woman has been brought to Sri Lanka, and US $ 800 is transferred to the security.
+
+She went to the Dalada Maligawa, Kandy and returned to the sale of vehicle rent.
+
+The suspect is acting to be arrested after inspection of the hotel security cameras.
+
+Kalutara South Headquarters Inspector Ruwan Wijesinghe is conducting further investigations.
+
+◼️
+
+[Data](articles/acaadbac.json)
+
+[Extended Data](ext_articles/acaadbac.ext.json)
 
 ---
 
@@ -2313,25 +2341,5 @@ This agreement was the result of projects that were agreed over the course of la
 [Data](articles/bb91aa59.json)
 
 [Extended Data](ext_articles/bb91aa59.ext.json)
-
----
-
-### Back to Jaffna Devi - Happy news to people
-
-*2024-10-19 14:16:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-யாழ்-தேவி-மக்களுக்கு-மகிழ்ச்சியான-செய்தி/175-345684) · `ta`
-
-Railway Department resumes train services from Northern Railway line starting Monday. Jaffna train service reinstated after decision made.
-
-🟩
-
-The Railway Department has said that it has decided to re -carry out train services from the Northern Railway line from Monday (21).
-
-Accordingly, a senior official of the Department said that it was decided to serve the Jaffna train that day.R
-
-◼️
-
-[Data](articles/3f5f0b28.json)
-
-[Extended Data](ext_articles/3f5f0b28.ext.json)
 
 ---

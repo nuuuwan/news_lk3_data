@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 23:39:45**
+As of **2024-10-20 23:59:03**
 
 ## Newspaper Stats
 
-*Scraped **50,445** Articles*
+*Scraped **50,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 4,681
 dailymirrorlk | 4,733
 adaderanalk | 5,976
 tamilmirrorlk | 6,907
-virakesarilk | 8,092
+virakesarilk | 8,093
 adaderanasinhalalk | 8,761
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,445 (100.0%) of 50,445 articles have been extended.
+50,446 (100.0%) of 50,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### New Zealand is the first time in the ICC Women's R20 World Cup
+
+*2024-10-20 23:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196737) · `ta`
+
+New Zealand wins inaugural ICC Women's R20 World Cup, defeating South Africa in UAE final.
+
+🟩
+
+New Zealand won the Champions title for the first time in the 9th ICC Women's R20 World Cup chapter in the United Arab Emirates.
+
+For the first time, the two teams have come up with the aim of taking the ICC Women's R20 World Cup.
+
+New Zealand scored 158 runs for the loss of 5 wickets in 20 overs, scoring first in the final of the final at the Dubai International Cricket Stadium on Sunday (20).
+
+South Africa lost 9 wickets in 20 overs and lost 126 runs.
+
+◼️
+
+[Data](articles/bed634b6.json)
+
+[Extended Data](ext_articles/bed634b6.ext.json)
+
+---
 
 ### Madushka and Swarf Sounds win Sri Lanka
 
@@ -2377,25 +2401,5 @@ The Chilaw police said that the mother, father and their child had died in a fir
 [Data](articles/13880d12.json)
 
 [Extended Data](ext_articles/13880d12.ext.json)
-
----
-
-### Advisory issued for heavy rain, strong winds and rough seas
-
-*2024-10-20 08:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102805/advisory-issued-for-heavy-rain-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued an ‘Amber’ level advisory for r heavy rain, strong winds and rough seas for Multi-day boats in the East-Central Bay of Bengal deep sea areas.
-
-In its advisory, the department said a low-pressure area is likely to form over the East-Central Bay of Bengal and adjoining North Andaman Sea tomorrow (21). It is likely to move Northwestwards and intensify further into a depression by 23rd October.
-
-Temporarily very strong winds 70-80 kmph accompanied with heavy rainfalls and very rough seas are likely over above sea areas, it added.
-
-Thus, naval and fishing communities are requested to be vigilant while engaging in fishing and naval activities in the above-sea areas.
-
-◼️
-
-[Data](articles/2c010150.json)
-
-[Extended Data](ext_articles/2c010150.ext.json)
 
 ---

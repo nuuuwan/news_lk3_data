@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 09:58:47**
+As of **2024-10-20 10:11:57**
 
 ## Newspaper Stats
 
-*Scraped **50,348** Articles*
+*Scraped **50,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,966
 tamilmirrorlk | 6,895
 virakesarilk | 8,058
-adaderanasinhalalk | 8,739
+adaderanasinhalalk | 8,740
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,348 (100.0%) of 50,348 articles have been extended.
+50,349 (100.0%) of 50,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Israel attacked by north Gaza
+
+*2024-10-20 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202363) · `si`
+
+Israel attacks North Gaza, killing 73 civilians. Foreign media reports women and children casualties. Israeli forces claim Hamas targets.
+
+🟩
+
+73 people were killed in the North Gaza.
+
+The foreign media reports are among the women and children.
+
+It has been reported that the attack has been reported as counterfeit to the Israeli security forces.
+
+The Israeli security forces say that the attack on the attack is a target of Hamas terrorists.
+
+◼️
+
+[Data](articles/64a72b70.json)
+
+[Extended Data](ext_articles/64a72b70.ext.json)
+
+---
 
 ### Three killed in fire
 
@@ -2305,27 +2329,5 @@ He has served as a senior partner and adviser to Sri Lanka and the Maldives of E
 [Data](articles/478d5578.json)
 
 [Extended Data](ext_articles/478d5578.ext.json)
-
----
-
-### Nine arrested in violation of election rules
-
-*2024-10-19 09:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-விதிமுறைகளை-மீறிய-09-பேர்-கைது/175-345677) · `ta`
-
-Nine arrested for election rule violations. Police received 8 complaints. Election commissioner threatens disciplinary action against non-compliant officials.
-
-🟩
-
-Nine persons have been arrested in connection with the complaints received regarding the general election, police said.
-
-The number of complaints received by the police on election law violations is 8.
-
-All those complaints have been received in connection with the violation of election laws. Meanwhile, the Commissioner General of Elections Saman Sri Ratnayake has said that disciplinary action will be taken against the authorities including the police who are not acting against the election laws.. (That)
-
-◼️
-
-[Data](articles/8327d3e9.json)
-
-[Extended Data](ext_articles/8327d3e9.ext.json)
 
 ---

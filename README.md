@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 01:39:21**
+As of **2024-10-21 01:58:16**
 
 ## Newspaper Stats
 
-*Scraped **50,453** Articles*
+*Scraped **50,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 505
 colombotelegraphcom | 507
 islandlk | 2,998
 economynextcom | 3,084
-dailyftlk | 3,436
+dailyftlk | 3,437
 adalk | 4,681
 dailymirrorlk | 4,733
 adaderanalk | 5,976
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,453 (100.0%) of 50,453 articles have been extended.
+50,454 (100.0%) of 50,454 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -217,6 +217,20 @@ Prabowo, who unsuccessfully ran for the presidency twice before, said in a fiery
 [Data](articles/61f1f249.json)
 
 [Extended Data](ext_articles/61f1f249.ext.json)
+
+---
+
+### What can AKD (and also SP and RW) learn from Economics Nobel Laureates in 2024?
+
+*2024-10-20 22:09:46* · [`dailyftlk`](https://www.ft.lk/columns/What-can-AKD-and-also-SP-and-RW-learn-from-Economics-Nobel-Laureates-in-2024/4-768187) · `en`
+
+In economics, institutions are not merely the formal organisations that we find in contemporary society. They are broader in scope and have a socio-cultural value dimension. According to North, institutions are any form of formal or informal limitation or restriction that human beings devise to shape human interaction. Formal constraints are rules that humans follow when interacting with others; informal are societal conventions and codes of behaviour that they adhere to when doing societal dealings
+
+...
+
+[Data](articles/cd27c15f.json)
+
+[Extended Data](ext_articles/cd27c15f.ext.json)
 
 ---
 
@@ -2357,27 +2371,5 @@ The 42 -year -old father, a 40 -year -old mother and their 15 -year -old daughte
 [Data](articles/100f9881.json)
 
 [Extended Data](ext_articles/100f9881.ext.json)
-
----
-
-### Sri Lanka restructures China Exim Loans, recapitalizing US$200mn in interest
-
-*2024-10-20 08:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-restructures-china-exim-loans-recapitalizing-us200mn-in-interest-184244/) · `en`
-
-ECONOMYNEXT  – Sri Lanka has restructured about 4 billion dollars of loans from the Export Import of Bank of China, capitalizing 200.9 million dollars of interest in arrears, a Finance Ministry report showed.
-
-By March 2024 Sri Lanka owed 3,993 million dollars of loan to China’s Exim Bank, which included 903.8 million US dollars of principle in arrears.
-
-China Exim Bank funded Sri Lanka’s Norochcholai coal plant, which was described by the island’s auditor general as the best investment made since, Mahaweli program with its hydro power plants in the 1980s. Coal provides the cheapest base load other than large hydros.
-
-China Exim is the first bilateral creditor to re-schedule its loans, and went ahead without waiting for sovereign bond holders to complete their restructure.
-
-A Finance Ministry report said China Exim Bank had capitalized 200.9 million US dollars of interest in arrears.
-
-...
-
-[Data](articles/14e3c69f.json)
-
-[Extended Data](ext_articles/14e3c69f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 20:10:09**
+As of **2024-10-20 20:23:47**
 
 ## Newspaper Stats
 
-*Scraped **50,413** Articles*
+*Scraped **50,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ dailymirrorlk | 4,733
 adaderanalk | 5,974
 tamilmirrorlk | 6,907
 virakesarilk | 8,072
-adaderanasinhalalk | 8,753
+adaderanasinhalalk | 8,754
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,413 (100.0%) of 50,413 articles have been extended.
+50,414 (100.0%) of 50,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Three members of the same family die?
+
+*2024-10-20 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202379) · `si`
+
+Fire in Chilaw house kills 3 family members. Police investigate suspected murder. Bodies found in bedroom and living room. Jewelry worth 25 lakhs missing.
+
+🟩
+
+Police suspect that a fire in a house in Sinhapura area in Chilaw can be a murder
+
+The Chilaw Headquarters Police have launched a special investigation into the incident.
+
+The Chilaw police had received a fire in a two storied house in Sinhapura, Chilaw.
+
+Accordingly, the Chilaw Police and the Fire French Unit had gone there and the fire was taken to curb the fire.
+
+The bodies of three were later found at the investigating officers in the house.
+
+The victim was 51 year old SG. The homeowner of Senaratne, 44 year old Manjula Niroshi, his wife and their 15-year-old daughter Nethmi Nihamesha was identified.
+
+The mother's dead body was found on the bed of the bedroom in the bedroom and the police said that her neck was cut off.
+
+The bodies of father and daughter were found in the living room at home.
+
+The deceased is a development officer of the Chilaw Divisional Secretariat and has also served as a teacher of the Dhamma School in the area.
+
+...
+
+[Data](articles/24c09b85.json)
+
+[Extended Data](ext_articles/24c09b85.ext.json)
+
+---
 
 ### World Cup final battle is South Africa
 
@@ -2323,23 +2357,5 @@ It is nothing short of three red rags waved by the speakers to the enraged bull 
 [Data](articles/03c42d4f.json)
 
 [Extended Data](ext_articles/03c42d4f.ext.json)
-
----
-
-### The JVP has a bitter history of fiercely opposing all attempts at finding a political solution to the national ethnic problem. There was no place for the phrase ‘devolution of power’ in its political lexicon.
-
-*2024-10-19 20:59:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84937) · `en`
-
-Almost one month has elapsed since Anura Kumara Dissanayake (AKD) took oath as the ninth Executive President of Sri Lanka.
-
-During this period, he and other prominent leaders of the National People’s Power (NPP), especially the Janatha Vimukthi Peramuna (JVP), have been talking with pride about what they view as changes in the country’s political landscape following the regime change. They describe the decision by many politicians belonging to the mainstream parties not to contest the Parliamentary Elections as a significant change.
-
-President Dissanayake, who said that the term ‘retirement’ had now been introduced by the NPP into Sri Lankan politics, which has a history of politicians retiring only if they lost or died, noted that the withdrawal of most of the former Members of Parliament (MPs) from contesting the elections was one of the changes expected by the people.
-
-...
-
-[Data](articles/842973cc.json)
-
-[Extended Data](ext_articles/842973cc.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 14:24:35**
+As of **2024-10-20 14:39:23**
 
 ## Newspaper Stats
 
@@ -26,27 +26,37 @@ adaderanasinhalalk | 8,747
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,379 (100.0%) of 50,380 articles have been extended.
+50,380 (100.0%) of 50,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
 
-### කාසියේ වාසිය කොදෙව්වන්ට
+### West Indies
 
 *2024-10-20 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202370) · `si`
 
-ශ්‍රී ලංකාව සහ බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමග තරග තුනකින් සමන්විත එක්දින තරගාවලියේ පළමු තරගය අද (20) පැවැත්වෙයි.
+Here's a 200-character summary:
 
-එම තරගයේ කාසියේ වාසිය දිනාගැනීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමත් විය.
 
-තරගය තව සුළු මොහොතකින් පල්ලේකැළේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී ආරම්භ වීමට නියමිතය.
 
-දෙරට අතර මේ වනවිට එක්දින තරගාවලි 9ක් පවත්වා ඇති අතර ඉන් තරගාවලි 5ක ජය ශ්‍රී ලංකාව සතුවෙද්දි බටහිර ඉන්දිය කොදෙව් කණ්ඩායම තරගාවලි 3ක ජය අත්කරගෙන තිබේ.
+"Today: Sri Lanka vs West Indies cricket match at Pallekela. West Indies won the toss. This is their 10th ODI meeting; West Indies lead 3-6."
+
+🟩
+
+Sri Lanka and the West Indies team will be held today (20).
+
+West Indies won the toss and win the coin.
+
+The competition is scheduled to commence at Palleketa International Cricket Stadium.
+
+9 ODIs have been held between the two ODIs and the West Indies won three tournaments.
 
 ◼️
 
 [Data](articles/75994ebd.json)
+
+[Extended Data](ext_articles/75994ebd.ext.json)
 
 ---
 

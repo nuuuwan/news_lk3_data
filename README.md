@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 21:39:33**
+As of **2024-10-20 22:12:32**
 
 ## Newspaper Stats
 
-*Scraped **50,434** Articles*
+*Scraped **50,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,083
 dailyftlk | 3,433
-adalk | 4,679
+adalk | 4,680
 dailymirrorlk | 4,733
-adaderanalk | 5,974
+adaderanalk | 5,975
 tamilmirrorlk | 6,907
 virakesarilk | 8,091
-adaderanasinhalalk | 8,755
+adaderanasinhalalk | 8,758
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,434 (100.0%) of 50,434 articles have been extended.
+50,437 (100.0%) of 50,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Police suspect murder after 3 bodies found following Chilaw house fire
+
+*2024-10-20 21:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102817/police-suspect-murder-after-3-bodies-found-following-chilaw-house-fire) · `en`
+
+Police investigations with regard to the three bodies found inside a two-storey house which was on fire in the Sinhapura area in Chilaw, are progressing on the suspicion of a possible homicide as one of the bodies was found with her throat slit, the police spokesman said.
+
+A 42-year-old man, his 40-year-old wife and their 15-year-old daughter were found dead inside the house after the fire was extinguished. The mother was found dead on a bed inside the house while the father and daughter were found dead in the living room.
+
+Initially it was believed that the family of three died from the fire, however, it was later revealed that the throat of the woman had been slit.
+
+“The throat of the woman found dead on a bed in the house was observed to be somewhat split open and we believe that her throat was most likely slit.”
+
+...
+
+[Data](articles/81ece0d5.json)
+
+[Extended Data](ext_articles/81ece0d5.ext.json)
+
+---
+
+### The resurgence of the revolution in 1956 was the resurgence - Dilith
+
+*2024-10-20 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202381) · `si`
+
+Dilith Jayaweera, leader of the Universal Revolution, speaks about rewriting history and promoting entrepreneurship over self-serving politics. He references the 1956 Bandaranaike Revolution, emphasizing its significance and relevance today.
+
+🟩
+
+The Leader of the Universal Revolution, entrepreneur, says that the Bandaranaike Revolution is redesigneous by the universal power in 1956.
+
+He made these comments addressing a public meeting in Horana today (20) today (20).
+
+Mr. Sanjeewa Kulathilaka was organized by Chief Ongo Dr. Sanjeewa Kulathilaka Bandaragama Chief Organizer of Bandaragama.
+
+The leader of the universal authority, entrepreneur Dilith Jayaweera,
+
+"I wish the best. As a politician, we came from a rural environment like us. It is very clear that there is no program to have no program. Our courageous opposition is coming to the opposition of a good. Not waiting for presidential falls. Our motherland falls if he falls. So the only solution it has entrepreneurship concept. The resurgence of the revolution in 1956 this Bandaranaike in 1956 was the resurgence of the revolution. Re-writing History. We're writing unselfish politics. We end that politics that take their belly more than. That's our pledge. "
+
+◼️
+
+[Data](articles/2a5cb30d.json)
+
+[Extended Data](ext_articles/2a5cb30d.ext.json)
+
+---
 
 ### Sri Lanka is the target of Sri Lanka after the rain
 
@@ -120,6 +166,24 @@ Tellippalai Mahajana College player S.. Tushanthan took the gold medal.
 
 ---
 
+### ආසන්නම හිටපු ජනපති ඉල්ලූ දේ ජනපති අනුර හෙළි කරයි - ඉල්ලීම් නොදෙන බවත්  ජනපති කියයි
+
+*2024-10-20 19:22:11* · [`adalk`](https://www.ada.lk/breaking_news/ආසන්නම-හිටපු-ජනපති-ඉල්ලූ-දේ-ජනපති-අනුර-හෙළි-කරයි---ඉල්ලීම්-නොදෙන-බවත්--ජනපති-කියයි/11-412575) · `si`
+
+අපේ ආණ්ඩුව  ලෝක වාර්තාවක් තියපු ආණ්ඩුවක් ජනාධිපති  වරයයි ඇමතිවරු දෙකයි.කිසිවක් බිඳ වැටෙන්නැතිව කරගෙන යනව."ජනාධිපති අනුර කුමාර දිසානායක මහතා තංගල්ලේදී  පැවසීය.පපාර්ලිමේන්තු මැතිවරණය වෙනුවෙන් තංගල්ලේ පැවති මංගල ජනරැලිය අමතමින් මෙී බව ඔහු පැවැසීය.
+
+නොවැම්බර් 14 වනදාට අන්න පාර්ලිමේන්තුව පිරිසිදු කිරීමෙී කාර්යභාරයට මෙී රටෙී ජනතාව  හිමිකම් කියනව. එම කාර්ය අකුරට ඉටුකරන බවට විශ්වාසය තියෙනව. නොවැම්බර් 14 වනදා  ශක්තිමත් ,බලවත්, පාර්ලිමේන්තුවක් ජාතික ජනබලවෙීගය  විසින් ලබාගතයුතුයි.
+
+නොවැම්බර් 14  වනදා පාර්ලිමේන්තුව පිරිසිදු කරන්න කලින්  සමහර අය ස්වෙීච්චාවෙන්ම පිරිසිදු වෙනව.එහෙම නේද?විශේෂයෙන්ම  හම්බන්තොට අවුරුදු 88කට පස්සෙ පොඩි කාලයක් නෙවෙයි. හොඳද? නම නැහැ ඡන්ද  පත්‍රිකාවෙ.හොයල බැලුවම පේනව 60කට වැඩි පිරිසක් ස්වෙීච්චාවෙන්ම අස්වෙලා තියෙනව .ඉතුරු පිරිස පිරිසිදු කිරීම  මෙී රටෙී ජනතාව අකුරට ඉටුකරන බව  අපි දන්නව.
+
+රාජ්‍ය වියදම්,නාස්ති  කිරීම් නතර කිරීමට අපි කටයුතු  ආරම්භ  කරල තියෙන්නෙ .ඒවට සාමාන්‍ය ජනතාව පෙළ ගැහිල තියෙන්නෙ.
+
+...
+
+[Data](articles/f5d20c61.json)
+
+---
+
 ### World Cup final battle is South Africa
 
 *2024-10-20 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202378) · `si`
@@ -139,6 +203,42 @@ Although both of these teams had previously served the final, they could not win
 [Data](articles/bf180b8f.json)
 
 [Extended Data](ext_articles/bf180b8f.ext.json)
+
+---
+
+### Borders change in two countries in Europe
+
+*2024-10-20 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202377) · `si`
+
+Italy and Switzerland reset borders due to glacier changes. Alpine regions affected. Negotiations underway for Sormen region border adjustments. SMC ski resort crucial for both nations' interests. Reconstruction efforts ongoing since 2023.
+
+🟩
+
+The borders have been resetted between Italy and Switzerland.
+
+This step has to be taken by the glaciers in the border between the two countries.
+
+These countries have decided to rebuild their borders again, bordering each other near the Alps.
+
+As a result of the weather forecasts over the past few years, the Sarmath Regional characteristics of the two countries has changed almost entirely.
+
+That is how the two countries had to commence negotiations to redress the borders of the Sormen region.
+
+It is reported that the SMC, a popular snow resort in Europe, is very important to both countries as both geopolitical and economically.
+
+Italy and Switzerland agreed to reconstruct borders between the two countries in 2023.
+
+The Swiss government has already completed the relevant official affairs and the ITIs has commenced the approval of the ITI.
+
+In addition to the Swiss government, several more glaciers are melting.
+
+It is said that their opinions will have to be rebuilt among countries.
+
+◼️
+
+[Data](articles/81b7c8c4.json)
+
+[Extended Data](ext_articles/81b7c8c4.ext.json)
 
 ---
 
@@ -231,6 +331,30 @@ The war has now been ahead of the Middle East as part of the decades of US imper
 [Data](articles/af7b695d.json)
 
 [Extended Data](ext_articles/af7b695d.ext.json)
+
+---
+
+### තැපැල් ඡන්ද අයදුම්කරුවන්ගේ ඉල්ලුමේ වෙනසක්
+
+*2024-10-20 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202376) · `si`
+
+මෙවර මහ මැතිවරණය සඳහා ඉල්ලුම්කර ඇති තැපැල් ඡන්ද අයදුම්කරුවන් සංඛ්‍යාව පසුගිය ජනාධිපතිවරණයට වඩා ඉහළ ගොස් ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+එහි ප්‍රකාශකයෙකු සඳහන් කළේ ඉදිරිපත්වී ඇති තැපැල් ඡන්ද අයදුම්පත් සියල්ල මේ වන විට මැතිවරණ කොමිෂන් සභාව වෙත ලැබී ඇති බවය.
+
+පසුගිය ජනාධිපතිවරණය සඳහා තැපැල් ඡන්ද දායකයින් 712,319 දෙනෙකු ඡන්දය ප්‍රකාශ කිරීම සඳහා සුදුසුකම් ලබා තිබුණි.
+
+මේ අතර 2024 මහ මැතිවරණයට අදාළ තැපැල් ඡන්ද රක්ෂණ පැකට් ලබන බදාදා දින භාර ගැනීමට කටයුතු කරන බව තැපැල් දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව අදාළ තැපැල් ඡන්ද රක්ෂණ පැකට් කඩිනමින් සහතික කිරීමේ නිලධාරීන් වෙත ලබා දීමට සැලසුම් කර ඇති බව නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා පැවසුවේය.
+
+මේ අතර මහ මැතිවරණයට අදාළ තැපැල් ඡන්ද සලකුණු කිරීමේ කටයුතු ඔක්තෝබර් මස 30, නොවැම්බර් 01 සහ 04 යන දින වල සිදු කිරීමට නියමිතය.
+
+අදාළ දින වල ඡන්දය භාවිත කිරීමට නොහැකි වන තැපැල් ඡන්ද දායකයින්ට නොවැම්බර් 07 සහ 08 යන අතිරේක දින දෙක තුළ ඡන්දය භාවිත කිරීමට අවස්ථාව ලබා දෙන බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+◼️
+
+[Data](articles/ff61e5ad.json)
 
 ---
 
@@ -2245,133 +2369,5 @@ Meanwhile, the cartoon was killed in a culprian when a motorbike was in the oppo
 [Data](articles/fe7a6bc6.json)
 
 [Extended Data](ext_articles/fe7a6bc6.ext.json)
-
----
-
-### Can join hands with the President
-
-*2024-10-20 06:22:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-கைகோர்க்க-முடியும்/175-345704) · `ta`
-
-Sajith Premadasa offers alliance with president for election victory. Emphasizes unity over competition, focusing on national development.
-
-🟩
-
-United People's Power President Sajith Premadasa says he can join hands with the president to successfully face the upcoming general election.
-
-He was speaking at an event held in Ruwanwella area. As he further stated,
-
-Apart from short political purposes, a country that ensures the thoughts and wishes of 220 million people must be created.
-
-In this program, you need to unite and develop the country than to be competitive.. Should focus on this. He said this was the need for time. (A)
-
-◼️
-
-[Data](articles/bef7413e.json)
-
-[Extended Data](ext_articles/bef7413e.ext.json)
-
----
-
-### Weather today
-
-*2024-10-20 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202358) · `si`
-
-Northern Province: Showers/thundershowers. Western, Sabaragamuwa, Southern, North-Western provinces: Several showers. Kandy, Nuwara Eliya: Multiple showers. Evening/night: Thundershowers in Uva, Eastern, North-central areas. Public advised to prepare for wind/lightning risks.
-
-🟩
-
-Showers or thundershowers will occur at times in the Northern Province today (20).
-
-The department states that several showers may occur in the Western, Sabaragamuwa, Southern and North-Western provinces and several times in the Kandy and Nuwara Eliya districts.
-
-Thundershowers will develop at several places in the evening or night in the evening or night in the Uva, Eastern and North-central areas.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/f1820717.json)
-
-[Extended Data](ext_articles/f1820717.ext.json)
-
----
-
-### Do you know about the condoms for women?
-
-*2024-10-20 03:28:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kj0gnm247o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Women's condoms provide safe alternative pregnancy prevention and STD protection. Less common than male condoms, they offer similar benefits. Easily usable without medical training. Available in Sri Lanka through health organizations.
-
-🟩
-
-Street-bowledical prevalence is common to protect and prevail unexpected pregnancies.
-
-Most of different types of shape and tastes are more designed to wear to men.
-
-But do you know that the condoms have been created today for women?
-
-Women's condoms can be called a safe alternative to prevent the health of women's health care.
-
-The health aspects of the health sector have been focused on the development of the British Condom (FEMALE CONDOM) in Sri Lanka.
-
-'Still, the book of the school has not been able to put the word condom': Is Sri Lankan sex education enough?
-
-Women condoms say: "If the man does not want to use a condom, the women protect women from STDs," said Specialist Dr. Tilani Ratnayake.
-
-"This is just like the male condom. If used, HIV and other STDs are able to avoid. Sometimes the Internet condoms called the Internet condom. "
-
-The specialist donation of the women's condom vague, "put in the vagina in the vagina. The male condom is effective, "said.
-
-...
-
-[Data](articles/e75fcdd1.json)
-
-[Extended Data](ext_articles/e75fcdd1.ext.json)
-
----
-
-### Ceylinco Insurance leads annual beach clean-up across 100 km coastline
-
-*2024-10-20 01:57:00* · [`islandlk`](http://island.lk/ceylinco-insurance-leads-annual-beach-clean-up-across-100-km-coastline/) · `en`
-
-Ceylinco General Insurance conducted its annual Beach Clean-up program along over 100 km of Sri Lanka’s coastline, with participation from staff across its branches and head office. Held for the third consecutive year, the initiative aims to combat increasing pollution along tourist and densely populated beaches. Over 1,250 employees volunteered, collecting and segregating plastics and other waste, which was then responsibly disposed of through local municipal councils. The project’s goal is to restore the coastline’s natural beauty, protect marine life, and encourage other organizations and citizens to maintain clean beaches.
-
-Ceylinco Life Sports Festival 2024 sees more than 1,000 participants
-
-GSCS International and JAAF drive sustainable development in apparel sector
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/a445fe31.json)
-
-[Extended Data](ext_articles/a445fe31.ext.json)
-
----
-
-### Ceylinco Life Sports Festival 2024 sees more than 1,000 participants
-
-*2024-10-20 01:56:00* · [`islandlk`](http://island.lk/ceylinco-life-sports-festival-2024-sees-more-than-1000-participants/) · `en`
-
-More than 1,000 employees of Ceylinco Life congregated at the Sugathadasa Stadium in Colombo recently to participate in the annual sports festival of Sri Lanka’s life insurance market leader. The track and field events worked out on the day were closely contested in a spirit of camaraderie and saw the ‘AS’ Group emerge winners and the ‘PK’ Group Runners-up.
-
-The best male athlete for 2024 was R. M. Farzath of the ‘NS/KS’ Group while the best female athlete was G. K. S. Madhuwanthi of the ‘PK’ Group.
-
-The track and field events were preceded by cricket, volleyball and netball tournaments that were conducted over several days in August. The Men’s cricket tournament was won by the ‘AS’ group and the Women’s tournament by the ‘PK’ Group. The ‘ST’ Group was the winner of the volleyball tournament while the Netball tournament was won by ‘PK’ Group.
-
-Ceylinco Insurance leads annual beach clean-up across 100 km coastline
-
-...
-
-[Data](articles/f83e7a71.json)
-
-[Extended Data](ext_articles/f83e7a71.ext.json)
 
 ---

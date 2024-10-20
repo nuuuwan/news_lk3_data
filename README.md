@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 10:24:11**
+As of **2024-10-20 10:39:29**
 
 ## Newspaper Stats
 
-*Scraped **50,349** Articles*
+*Scraped **50,352** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 406
+dbsjeyarajcom | 408
 bbccomsinhala | 505
 colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,081
 dailyftlk | 3,433
-adalk | 4,666
+adalk | 4,667
 dailymirrorlk | 4,733
 adaderanalk | 5,966
 tamilmirrorlk | 6,895
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,349 (100.0%) of 50,349 articles have been extended.
+50,352 (100.0%) of 50,352 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -119,6 +119,28 @@ The Department of Meteorology further states that strong winds (70-80 km per hou
 [Data](articles/1dd19a4d.json)
 
 [Extended Data](ext_articles/1dd19a4d.ext.json)
+
+---
+
+### Food poisoning in Katunayake Factory
+
+*2024-10-20 08:31:38* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-කර්මාන්ත-ශාලාවක-ආහාර-විෂ-වෙයි/11-412562) · `si`
+
+Katunayake Factory food poisoning incident: 35 employees hospitalized at Negombo General Hospital due to severe vomiting and illness.
+
+🟩
+
+A group of employees in the 11-phase of the 11-phase of the Katunayake Free Trade Zone has been included in the Negombo General Hospital.
+
+About 35 employees in the factory have been admitted to the Negombo General Hospital.
+
+The employees have been sick due to heavy vomiting and the slowdown.
+
+◼️
+
+[Data](articles/03ca68fe.json)
+
+[Extended Data](ext_articles/03ca68fe.ext.json)
 
 ---
 
@@ -831,6 +853,42 @@ Speaking further the Leader of the Gampaha District and Gampaha District Candid 
 [Data](articles/22e105c3.json)
 
 [Extended Data](ext_articles/22e105c3.ext.json)
+
+---
+
+### Ex-Presidents  Chandrika,Ranil and Maithripala were responsible for corruption running rampant in the public/political sector when they handled the reins of executive office.
+
+*2024-10-19 20:59:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84933) · `en`
+
+The hideous sight of three former Presidents of Sri Lanka laughing their heads off on the national stage when invited by the country’s accounting professionals to speak on a corruption culture that brought the nation to ruinous bankruptcy in 2022 sums up exactly why the political parties that they lead have been resoundingly rejected by the people.
+
+No more and no less. Certainly there is nothing wrong with a pithy joke or two in addressing an audience. But wholesale cynical cackling by the ex-Presidents (Wickremesinghe, Kumaratunga and Sirisena) in addressing the 45th National Conference of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) on the viciously entrenched corruption-cancer of the body politic is another matter.
+
+It is nothing short of three red rags waved by the speakers to the enraged bull of the Sri Lankan public, with the session moderator performing the role of a less than skilled matador.
+
+...
+
+[Data](articles/03c42d4f.json)
+
+[Extended Data](ext_articles/03c42d4f.ext.json)
+
+---
+
+### The JVP has a bitter history of fiercely opposing all attempts at finding a political solution to the national ethnic problem. There was no place for the phrase ‘devolution of power’ in its political lexicon.
+
+*2024-10-19 20:59:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84937) · `en`
+
+Almost one month has elapsed since Anura Kumara Dissanayake (AKD) took oath as the ninth Executive President of Sri Lanka.
+
+During this period, he and other prominent leaders of the National People’s Power (NPP), especially the Janatha Vimukthi Peramuna (JVP), have been talking with pride about what they view as changes in the country’s political landscape following the regime change. They describe the decision by many politicians belonging to the mainstream parties not to contest the Parliamentary Elections as a significant change.
+
+President Dissanayake, who said that the term ‘retirement’ had now been introduced by the NPP into Sri Lankan politics, which has a history of politicians retiring only if they lost or died, noted that the withdrawal of most of the former Members of Parliament (MPs) from contesting the elections was one of the changes expected by the people.
+
+...
+
+[Data](articles/842973cc.json)
+
+[Extended Data](ext_articles/842973cc.ext.json)
 
 ---
 
@@ -2265,69 +2323,5 @@ Sri Lanka’s central bank has provided exceptional monetary stability in 2024, 
 [Data](articles/4a663bb4.json)
 
 [Extended Data](ext_articles/4a663bb4.ext.json)
-
----
-
-### Sri Lanka state spending contained below budget to August amid monetary stability
-
-*2024-10-19 09:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-spending-sharply-below-budget-amid-monetary-stability-184182/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state spending is running sharply below budget, official data show, with the central bank also providing exceptional monetary stability bringing prices down absolutely.
-
-Recurrent expenditure grew only 4.4 percent to 2,042 billion rupees by August 2024, against a 14.5 percent budgeted number, with non-interest expenditure rising 4.6 percent, compared to a budgeted 8.7 percent.
-
-Salaries and wages were up 6.7 percent, against a budgeted 12.5 percent.
-
-However more taxes collected from the people will have to be spent on state salaries in the future, due to slashing of spending power in the 2022 currency collapse.
-
-Spending on goods and services were up 8.2 percent against a budgeted 13.7 percent and subsidies and transfers were up 1.5 percent against a budgeted 3.9 percent.
-
-Sri Lanka’s central bank has provided exceptional monetary stability in 2024, allowing the currency to appreciate amid deflationary open market operations.
-
-...
-
-[Data](articles/8563b40e.json)
-
-[Extended Data](ext_articles/8563b40e.ext.json)
-
----
-
-### Resolution of the Ministry of Education on professional education
-
-*2024-10-19 09:42:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழில்முறை-கல்வி-குறித்து-கல்வி-அமைச்சின்-தீர்மானம்/175-345678) · `ta`
-
-Ministry of Education: Students enroll High Quality Professional Division by 31st. Zonal offices boost vocational curriculum interest. Principals notified about grade 12 admissions for 2024/2025 academic year.
-
-🟩
-
-The Ministry of Education said that students will be enrolled to the High Quality Professional Division until the 31st of this month, based on the normal quality results of 2023/2024.
-
-Zonal education offices have been instructed to prepare a plan to increase the interest of the vocational curriculum than the number of students who have been enrolled over the past years.
-
-In addition, the Ministry of Education has sent a letter to all principals on the admission of students to grade 12 for the higher quality professional course for the academic year 2024/2025 for the academic year.
-
-◼️
-
-[Data](articles/345835a9.json)
-
-[Extended Data](ext_articles/345835a9.ext.json)
-
----
-
-### New Chairman appointed to Sri Lanka Investment Council
-
-*2024-10-19 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196625) · `ta`
-
-Sri Lanka appoints new Chairman for Investment Council. He previously worked at Ernst & Young, serving as senior partner and advisor for both countries.
-
-🟩
-
-He has served as a senior partner and adviser to Sri Lanka and the Maldives of Ernst and Young.
-
-◼️
-
-[Data](articles/478d5578.json)
-
-[Extended Data](ext_articles/478d5578.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 21:23:52**
+As of **2024-10-20 21:39:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,755
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,432 (100.0%) of 50,434 articles have been extended.
+50,434 (100.0%) of 50,434 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -540,27 +540,43 @@ The best people can be elected by the best people. In the past, the resolution o
 
 ---
 
-### மோசடி முகாம்களின் பின்னணி என்ன?
+### What is the background of fraudulent camps?
 
 *2024-10-20 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196691) · `ta`
 
-சீன இணைய மோசடிக் கும்பலை கண்டறிவதற்கு, சீனாவின் உதவி இலங்கை அரசாங்கத்திற்கு தேவை. சீனாவின்  நெருக்கமான ஒத்துழைப்பு இல்லாமல் இவர்களை ஒடுக்க முடியாது. சீனாவின் பொதுப் பாதுகாப்பு அமைச்சின் கீழ் உள்ள புலனாய்வு பிரிவினர் 10 பேர் கொழும்புக்கு வந்து எத்தகைய விசாரணைகளை முன்னெடுத்தனர், யாருடன் இணைந்து செயல்பட்டனர், என்பது போன்ற கேள்விகளுக்கு எந்த பதிலும் அரசாங்கத்தினால் வழங்கப்படவில்லை.
+Fraudulent camps background: China aids Sri Lanka against Chinese cybercrime gangs. Cooperation crucial but details unclear. Investigations ongoing, involving China's Public Security Ministry. Government seeks answers about process and participants.
+
+🟩
+
+China's help to Sri Lankan government to detect Chinese Internet fraudulent gang. They cannot suppress them without the close cooperation of China. The government has not been given any answer to questions such as what investigations and whom the investigations have come to Colombo and who have worked together with China's Public Security Ministry.
 
 ◼️
 
 [Data](articles/6d8b0610.json)
 
+[Extended Data](ext_articles/6d8b0610.ext.json)
+
 ---
 
-### தமிழ் மக்களை குறிவைக்கும் ஜே.வி.பி.
+### JVP targeting Tamil people
 
 *2024-10-20 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196690) · `ta`
 
-ஜே.வி.பி.யின் பொதுச் செயலாளர் ரில்வின் சில்வா  இளையவர்களிடம் பொறுப்புக்களை ஒப்படைப்பதற்காக கூறியிருந்தார். ஆனால், அதனை அவர் உடனடியாக செய்யத் தயாராக இல்லை.  ஏனென்றால் அநுரகுமார திசாநாயக்கவின் அரசாங்கத்துக்கு கடிவாளம் போடும்  வேலை அவருக்கு இருக்கிறது.எதிர்க்கட்சி வரிசையில் இருந்து கொண்டு மக்களின் பிரச்சினையை தீர்க்க முடியாது என்பதால் தான், ஜே.வி.பி. அதிகாரத்தை கைப்பற்றியது.  அதுபோன்று தான் தமிழ் மக்களும் தங்களுக்கு அதிகாரத்தை கைப்பற்ற முனைகிறார்கள்.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+JVP leader Rilvin Silva transfers responsibilities but delays action due to Anura Dissanayake's government control. Tamils also aim to seize power.
+
+🟩
+
+JVP General Secretary Rilvin Silva told the younger ones to hand over responsibility. But, he is not ready to do it immediately. Because of the work of the government of Anuragumara Dissanayake.. Captured power. Similarly, the Tamil people seek to seize power.
 
 ◼️
 
 [Data](articles/f7eebdbe.json)
+
+[Extended Data](ext_articles/f7eebdbe.ext.json)
 
 ---
 

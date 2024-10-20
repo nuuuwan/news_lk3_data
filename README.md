@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 00:23:41**
+As of **2024-10-21 00:39:19**
 
 ## Newspaper Stats
 
-*Scraped **50,449** Articles*
+*Scraped **50,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 505
 colombotelegraphcom | 507
 islandlk | 2,998
 economynextcom | 3,084
-dailyftlk | 3,433
+dailyftlk | 3,436
 adalk | 4,681
 dailymirrorlk | 4,733
 adaderanalk | 5,976
@@ -26,9 +26,25 @@ adaderanasinhalalk | 8,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,449 (100.0%) of 50,449 articles have been extended.
+50,449 (100.0%) of 50,452 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-21 (Monday)
+
+### Rights of children with disabilities: Challenge for new President and incoming Government
+
+*2024-10-21 00:18:15* · [`dailyftlk`](https://www.ft.lk/columns/Rights-of-children-with-disabilities-Challenge-for-new-President-and-incoming-Government/4-768193) · `en`
+
+The main challenges for children living with disabilities in benefiting from education cited a lack of skilled teachers, a lack of appropriate infrastructure in schools, limited scope in curricula and the overall quality of education
+
+The current administrative arrangements do not seem to have brought the required equality and equity to children with disabilities and addressed the challenges faced by them although some headway has been made over time. A high-level State agency is needed for policy formulation, to coordinate implementation of policies and to monitoring progress
+
+...
+
+[Data](articles/86b8dfca.json)
+
+---
 
 ### 2024-10-20 (Sunday)
 
@@ -85,6 +101,34 @@ The 5th wicket scored 137 off 109 balls.
 [Data](articles/dfe82e5e.json)
 
 [Extended Data](ext_articles/dfe82e5e.ext.json)
+
+---
+
+### Why two-third majority for NPP?
+
+*2024-10-20 23:02:19* · [`dailyftlk`](https://www.ft.lk/columns/Why-two-third-majority-for-NPP/4-768190) · `en`
+
+A supportive parliament with two-third majority for NPP is an absolute must for the new regime to translate its promises into action
+
+AKD expects his JVP-led NPP to win a majority of seats in the legislature to make his task easier. The question is whether that majority should be a simple working majority or a solid two-third majority. Disastrous consequences under governments that ruled with two-third majority in the past had provoked political pundits and opinion makers to question the wisdom of electing governments with two-third majority. Without questioning their wisdom however, a special case could be argued in favour of such a majority to the regime (the terminology is employed neutrally) headed by President AKD.
+
+...
+
+[Data](articles/6899b3d5.json)
+
+---
+
+### Undue attack on President Anura Kumara Dissanayake and the NPP
+
+*2024-10-20 22:57:59* · [`dailyftlk`](https://www.ft.lk/columns/Undue-attack-on-President-Anura-Kumara-Dissanayake-and-the-NPP/4-768189) · `en`
+
+The people have confidence that AKD, with his progressive policies and a genuine agenda for national development, is the leader who can guide the country forward
+
+Unlike the traditional political parties that have operated under a “you scratch my back, I’ll scratch yours” arrangement, the NPP under President AKD stands independent, promising nothing but results for the people. The parties that have suffered crushing defeats are now devoid of manifestos or visions, as they have plundered the nation’s resources and sold off valuable assets. It is crucial that the public be vigilant in casting their votes, ensuring that corrupt individuals do not return to power
+
+...
+
+[Data](articles/babe359a.json)
 
 ---
 
@@ -2319,75 +2363,5 @@ The main suspect has been arrested in connection with the incident and two more 
 [Data](articles/e8078d40.json)
 
 [Extended Data](ext_articles/e8078d40.ext.json)
-
----
-
-### Change in 24 hours
-
-*2024-10-20 08:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-ஏற்படவுள்ள-மாற்றம்/175-345707) · `ta`
-
-Heavy rains, strong winds, and rough seas expected in Middle East and North Andaman Sea over next 24 hours. Low pressure system developing, moving northwest towards Bay of Bengal. Wind speeds reaching 70-80 km/h, causing turbulence in seas.
-
-🟩
-
-The Meteorological Department has warned that heavy rains, heavy winds and sea rage for the next 24 hours.
-
-The Department of Meteorology said that low winds are likely to develop tomorrow (21) in the Middle East and North Andaman Sea in the Bay of Bengal.
-
-Later, it was moved to the northwest and said that on October 23, the windmill would be formed.
-
-The Department of Meteorology further states that strong winds (70-80 km per hour) are blowing, and heavy rainfall in those seas and seas are very turbulent.. Remble
-
-◼️
-
-[Data](articles/1dd19a4d.json)
-
-[Extended Data](ext_articles/1dd19a4d.ext.json)
-
----
-
-### Change in weather in 24 hours
-
-*2024-10-20 08:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-வானிலையில்-மாற்றம்/175-345707) · `ta`
-
-Heavy rains, strong winds, and rough seas expected in Middle East and North Andaman Sea over next 24 hours. Low pressure system developing, moving northwest towards India. Strong gusts (70-80 km/h) and heavy rainfall predicted.
-
-🟩
-
-The Meteorological Department has warned that heavy rains, heavy winds and sea rage for the next 24 hours.
-
-The Department of Meteorology said that low winds are likely to develop tomorrow (21) in the Middle East and North Andaman Sea in the Bay of Bengal.
-
-Later, it was moved to the northwest and said that on October 23, the windmill would be formed.
-
-The Department of Meteorology further states that strong winds (70-80 km per hour) are blowing, and heavy rainfall in those seas and seas are very turbulent.. Remble
-
-◼️
-
-[Data](articles/97dd7714.json)
-
-[Extended Data](ext_articles/97dd7714.ext.json)
-
----
-
-### Food poisoning in Katunayake Factory
-
-*2024-10-20 08:31:38* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-කර්මාන්ත-ශාලාවක-ආහාර-විෂ-වෙයි/11-412562) · `si`
-
-Katunayake Factory food poisoning incident: 35 employees hospitalized at Negombo General Hospital due to severe vomiting and illness.
-
-🟩
-
-A group of employees in the 11-phase of the 11-phase of the Katunayake Free Trade Zone has been included in the Negombo General Hospital.
-
-About 35 employees in the factory have been admitted to the Negombo General Hospital.
-
-The employees have been sick due to heavy vomiting and the slowdown.
-
-◼️
-
-[Data](articles/03ca68fe.json)
-
-[Extended Data](ext_articles/03ca68fe.ext.json)
 
 ---

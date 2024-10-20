@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 14:57:56**
+As of **2024-10-20 15:09:09**
 
 ## Newspaper Stats
 
-*Scraped **50,380** Articles*
+*Scraped **50,381** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,083
 dailyftlk | 3,433
 adalk | 4,671
 dailymirrorlk | 4,733
-adaderanalk | 5,969
+adaderanalk | 5,970
 tamilmirrorlk | 6,902
 virakesarilk | 8,063
 adaderanasinhalalk | 8,747
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,747
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,380 (100.0%) of 50,380 articles have been extended.
+50,381 (100.0%) of 50,381 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Dilith says ‘Sarvajana Balaya’ alliance aims to build a brave and strong opposition
+
+*2024-10-20 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102812/dilith-says-sarvajana-balaya-alliance-aims-to-build-a-brave-and-strong-opposition) · `en`
+
+Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District candidate, entrepreneur Dilith Jayaweera, stated that a brave and strong opposition can only be established by the ‘Sarvajana Balaya’ alliance.
+
+He made these remarks at a public meeting held in Kurunegala.
+
+“The ‘Sarvajana Balaya’ alliance was formed with a vision. We wanted to safeguard our patriotism which is escaping from us. We are embarking on a strategic political journey. We approach this political journey with bravery and courage,” he said.
+
+He further noted that in this election, they are not contesting to become the Prime Minister, rather, they are aiming to establish a brave opposition. Jayaweera said they are committed to forming an opposition that will acknowledge what is right and what is wrong and halt actions that are incorrect.
+
+He questioned as to what can be achieved in this country by making Sajith Premadasa the leader of the opposition again.
+
+...
+
+[Data](articles/50cac979.json)
+
+[Extended Data](ext_articles/50cac979.ext.json)
+
+---
 
 ### West Indies
 
@@ -2305,45 +2327,5 @@ In September, Yemen’s Houthi rebels launched a ballistic missile toward Ben Gu
 [Data](articles/33f37253.json)
 
 [Extended Data](ext_articles/33f37253.ext.json)
-
----
-
-### Warning on Cream Types of Skin White - Ministry of Health
-
-*2024-10-19 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196643) · `ta`
-
-Ministry of Health warns about risks of skin whitening creams:
-
-
-
-1. Risk of nerve infections
-
-2. High chance of skin cancer 
-
-3. Potential damage to blood vessels
-
-4. Exceeds mercury limits (Act No. 09, 2003)
-
-5. Caution advised when using such products
-
-
-
-[200 characters]
-
-🟩
-
-The Ministry of Health said that the use of skin white cream is at risk of infection in the nerves.
-
-This is highly chances of skin cancer and blood vessels.
-
-According to the Consumer Affairs Authority Act No. 09, 2003, one milligram of mercury per kg of cosmetics and cream varieties.. But, more mercury is more than the permitted range of creams that whitewash the skin.
-
-Therefore, the Ministry of Health added that it is very careful when using the skin that is white.
-
-◼️
-
-[Data](articles/d63f6427.json)
-
-[Extended Data](ext_articles/d63f6427.ext.json)
 
 ---

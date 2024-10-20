@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 09:00:37**
+As of **2024-10-20 09:15:02**
 
 ## Newspaper Stats
 
-*Scraped **50,343** Articles*
+*Scraped **50,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,433
 adalk | 4,665
 dailymirrorlk | 4,733
 adaderanalk | 5,966
-tamilmirrorlk | 6,892
+tamilmirrorlk | 6,895
 virakesarilk | 8,058
 adaderanasinhalalk | 8,739
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 8,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,338 (100.0%) of 50,343 articles have been extended.
+50,345 (100.0%) of 50,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Three killed in fire
+
+*2024-10-20 08:52:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீ-விபத்தில்-மூவர்-பலி/175-345709) · `ta`
+
+Fire kills three family members: 42-year-old father, 40-year-old mother, and 15-year-old daughter found dead in Chilaw-Singhapura area.
+
+🟩
+
+The bodies of three members of the same family have been found from a fire in the Chilaw - Singhapura area.
+
+The 42 -year -old father, a 40 -year -old mother and their 15 -year -old daughter have been recovered.
+
+◼️
+
+[Data](articles/100f9881.json)
+
+[Extended Data](ext_articles/100f9881.ext.json)
+
+---
+
+### Three arrests with fake currency notes
+
+*2024-10-20 08:40:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-நாணயத்தாள்களுடன்-மூவர்-கைது/175-345708) · `ta`
+
+Arrests made during STF road raid: Three men (34, 43, 46) from Kaluwanchikudi/Batticaloa caught with fake currency. Main suspect and two companions detained.
+
+🟩
+
+The suspects are from Kaluwanchikudi and Batticaloa, aged 34,43 and 46 years old.
+
+During the sudden road raid carried out by the Special Task Force, the fake currency notes were found when a car was inspected.
+
+The main suspect has been arrested in connection with the incident and two more people traveling with him in the car have been arrested.
+
+◼️
+
+[Data](articles/e8078d40.json)
+
+[Extended Data](ext_articles/e8078d40.ext.json)
+
+---
+
+### Change in 24 hours
+
+*2024-10-20 08:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-ஏற்படவுள்ள-மாற்றம்/175-345707) · `ta`
+
+Heavy rains, strong winds, and rough seas expected in Middle East and North Andaman Sea over next 24 hours. Low pressure system developing, moving northwest towards Bay of Bengal. Wind speeds reaching 70-80 km/h, causing turbulence in seas.
+
+🟩
+
+The Meteorological Department has warned that heavy rains, heavy winds and sea rage for the next 24 hours.
+
+The Department of Meteorology said that low winds are likely to develop tomorrow (21) in the Middle East and North Andaman Sea in the Bay of Bengal.
+
+Later, it was moved to the northwest and said that on October 23, the windmill would be formed.
+
+The Department of Meteorology further states that strong winds (70-80 km per hour) are blowing, and heavy rainfall in those seas and seas are very turbulent.. Remble
+
+◼️
+
+[Data](articles/1dd19a4d.json)
+
+[Extended Data](ext_articles/1dd19a4d.ext.json)
+
+---
 
 ### Three killed in house fire in Chilaw
 
@@ -490,6 +556,8 @@ Why this sudden realization of the point at which the certainty of age-related d
 
 [Data](articles/e1cdfb92.json)
 
+[Extended Data](ext_articles/e1cdfb92.ext.json)
+
 ---
 
 ### Sri Lanka wins 100 goals at Asian Netball Championships with Saudi
@@ -704,21 +772,31 @@ Elections Commissioner General Saman Sri Ratnayake said that the election was he
 
 ---
 
-### ඉන්දියාවේ සිට ආපු ගුවන් යානයේ බෝම්බ බියක්
+### Bombs of the aircraft from India
 
 *2024-10-19 19:50:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-සිට-ආපු-ගුවන්-යානයේ-බෝම්බ-බියක්/11-412560) · `si`
 
-ඉන්දියාවේ මුම්බායි නුවර සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි විස්තාරා ( Vistara ) ගුවන් සේවයේ ගුවන් යානය තුළ බෝම්බ ඇති බවට , ඉන්දියාවේ මෙම ගුවන් සමාගමේ මූලස්ථානය වෙත සිදු කරනු ලැබූ දැනුම් දීමක් මත , මෙම ගුවන් යානය කටුනායක ගුවන් තොටුපොළ වෙත හදිසි  ගොඩ බැස්සවීමක් ( Emergency Landing )  සිදු කර තිබේ.
+India-bound Vistara flight diverted after bomb threat; Sri Lanka airport security checks conducted; Airbus A320 carrying 104 passengers; No explosives found; Investigation ongoing
 
-ඉන්  අනතුරුව , කටුනායක ගුවන් තොටුපොළ තුළ , ධාවන පථයේ කෙළවර විශේෂ ස්ථානයක රදවා විමර්ශන කටයුතු සිදු කළ අතර එවැනි පුපුරන ද්‍රව්‍ය  කිසිවක් එම ගුවන් යානය තුළින් සොයා ගෙන නොමැති බව  කටුනායක ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය .
+🟩
 
-විස්තාරා ගුවන් සේවයේ යූ.කේ.- 131 දරන  මෙම ගුවන් යානය  10/19 දින ඉන්දියාවේ මුම්බායි නුවරින් පස්වරු 12.25 ට කටුනායක බලා පැමිණීම සදහා පිටත් වී තිබුණි . මෙම ගුවන් යානය  පස්වරු 03.00 ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණීමට නියමිතව තිබුණ ද , මෙම ගුවන් යානය පස්වරු 02.51 ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+In the event of a speech to the Katunayake airport, India's headquarters, the airline was landed at the Bandaranaike International Airport (Vistara)Has been done.
 
-එයාර් බස් ඒ.- 320 වර්ගයේ ගුවන් යානක් වූ මෙම යානය තුළ ගුවන් මගීන් 96 දෙනෙකු සහ කාර්යය මණ්ඩලය 08 සිට තිබේ .
+Subsequently, at the Katunayake airport, the track correction was held at the Bandaranaike International Airport that no such explosives had not been recovered from the aircraft.
+
+The plane was placed on Katunayake from 12.25 pm in Mumbai, India, the NK.. The flight was due to arrive at the Katunayake airport at 03:00 pm at the Katunayake airport.
+
+Air Bus A.- ​​320 aircraft have ranged at 96 passengers and 08 passengers.
+
+An anonymous telephone call from India's anonymous phone call, the bombs were informed in the airplane arriving in Sri Lanka.
+
+Accordingly, the Bandaranaike International Airport Bomb Disposal, Aviation and Army Commandors, Doctors, Nursing Staffs, and Surgery Sectors and Mobs, Communication Sectors and Mobs and Survey Staffs, and the aircraft were invited.
 
 ...
 
 [Data](articles/6119efbc.json)
+
+[Extended Data](ext_articles/6119efbc.ext.json)
 
 ---
 
@@ -2245,75 +2323,5 @@ When she was arrested in connection with the murder, she was arrested in the Bal
 [Data](articles/9d688b8a.json)
 
 [Extended Data](ext_articles/9d688b8a.ext.json)
-
----
-
-### The government to reset Mahinda's vehicles
-
-*2024-10-19 08:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மஹிந்தவின்-வாகனங்களை-மீளகேட்கும்-அரசாங்கம்/150-345676) · `ta`
-
-Sri Lanka government demands return of vehicles from former President Mahinda Rajapaksa due to committee recommendations. Rajapaksa claims threat to safety, criticizes decision.
-
-🟩
-
-Former President and President of the Sri Lanka PA, Mahinda Rajapaksa, has been asked to hand over three security vehicles to the government for the protection of the government.
-
-Former president's sources say that the vehicles will be handed over after he arrived in Colombo as the former president is staying at home in Tangalle.
-
-In this case, the recommendations of the President -appointed Committee to investigate the privileges of the former presidents have caused many people to take such action.
-
-When asked by the Secretary of the Sri Lanka PA, the Secretary of the Sri Lanka PA, and the former Member of Parliament, Sakara Kariyawasam, it was revealed that the government had issued a notice to hand over some of the vehicles used by Mahinda Rajapaksa's bodyguards.
-
-Former President Mahinda Rajapakse is threatened with his life as the leader who ended the war in this country.. He also said that it was wrong to act like this without thinking of this threat to him.
-
-◼️
-
-[Data](articles/60ce9f3b.json)
-
-[Extended Data](ext_articles/60ce9f3b.ext.json)
-
----
-
-### மஹிந்தவின் வாகனங்களை மீளகேட்கும் அரசாங்கம்
-
-*2024-10-19 08:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-வாகனங்களை-மீளகேட்கும்-அரசாங்கம்/175-345676) · `ta`
-
-Sri Lanka government demands return of vehicles from former President Mahinda Rajapaksa. He claims threats to his safety due to his role in ending the war. The move follows committee recommendations on presidential privileges.
-
-🟩
-
-Former President and President of the Sri Lanka PA, Mahinda Rajapaksa, has been asked to hand over three security vehicles to the government for the protection of the government.
-
-Former President -related sources say that the vehicles will be handed over after he arrived in Colombo as the former president is staying at home in Tangalle.
-
-In this case, the recommendations of the President -appointed Committee to investigate the privileges of the former presidents have caused many people to take such action.
-
-When asked by the Secretary of the Sri Lanka PA, the Secretary of the Sri Lanka PA, and the former Member of Parliament, Sakara Kariyawasam, it was revealed that the government had issued a notice to hand over some of the vehicles used by Mahinda Rajapaksa's bodyguards.
-
-...
-
-[Data](articles/77e6d91b.json)
-
-[Extended Data](ext_articles/77e6d91b.ext.json)
-
----
-
-### Arjuna Herath appointed Chairman of BOI
-
-*2024-10-19 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102789/arjuna-herath-appointed-chairman-of-boi) · `en`
-
-Former Senior Partner and Head of Consulting at Ernst & Young in Sri Lanka and the Maldives, and former Chairman of the Sri Lanka Personal Data Protection Authority, Arjuna Herath, has been appointed as the Chairman of the Board of Investment (BOI) of Sri Lanka.
-
-He currently holds the position of a Board Member at the Colombo Stock Exchange and has previously served on the boards of the Sri Lanka Accounting and Auditing Standards Monitoring Board and the Securities and Exchange Commission of Sri Lanka.
-
-Further, his career also includes roles as Marketing Development Manager at Ceylon Tobacco Company and Director of Corporate Finance at the Merchant Bank of Sri Lanka.
-
-A distinguished Senior Chartered Accountant, Herath is a Past President of the Institute of Chartered Accountants of Sri Lanka and has been actively involved in international accounting forums.
-
-...
-
-[Data](articles/cd9a223d.json)
-
-[Extended Data](ext_articles/cd9a223d.ext.json)
 
 ---

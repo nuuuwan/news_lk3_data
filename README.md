@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 22:57:48**
+As of **2024-10-20 23:23:29**
 
 ## Newspaper Stats
 
-*Scraped **50,442** Articles*
+*Scraped **50,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,976
 tamilmirrorlk | 6,907
 virakesarilk | 8,092
-adaderanasinhalalk | 8,759
+adaderanasinhalalk | 8,760
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,442 (100.0%) of 50,442 articles have been extended.
+50,443 (100.0%) of 50,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### T20 Women's World Cup to New Zealand
+
+*2024-10-20 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202383) · `si`
+
+New Zealand wins T20 Women's World Cup, defeating South Africa by 32 runs. This is New Zealand's first victory in the tournament. The final match was held in Dubai, UAE. It's New Zealand's third appearance in the final, having been runners-up in 2009 and 2010.
+
+🟩
+
+New African team defeated by 32 runs and New Zealand won the championship of the Twenty20 Women Cricket.
+
+Accordingly, this was the first World Cup in women's cricket to win New Zealand.
+
+The finals of the tournament in the United Arab Emirates were held today (20) at Dubai.
+
+In response to the target of 159 runs in New Zealand, South Africa were able to score only 126 runs in the 20 overs.
+
+This is the third time New Zealand played a final in T20 Women's World Cup history.
+
+They had previously played the final match of the years 2009 and 2010, but they had to be satisfied with the runner-up.
+
+◼️
+
+[Data](articles/50e38620.json)
+
+[Extended Data](ext_articles/50e38620.ext.json)
+
+---
 
 ### Prabowo becomes Indonesia’s eighth president, vows to tackle corruption
 
@@ -2351,33 +2379,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/581ad355.json)
 
 [Extended Data](ext_articles/581ad355.ext.json)
-
----
-
-### Next 24 Hours Be Care
-
-*2024-10-20 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202361) · `si`
-
-Heavy rain, strong winds, rough seas expected in coastal areas for next 24 hours due to low-pressure system moving northwestward.
-
-🟩
-
-The Department of Meteorology has issued an announcement announcement on heavy rain, strong winds and sea floor.
-
-Today (20). The announcement issued at 07.00 will be valid for nearly 24 hours.
-
-The Department of Meteorology announces a Thaguna Fisheries and Maritra vessels sailing in the deep sea area of ​​the Bay Bay Bay of Baying area.
-
-Department of Meteorology says that low pressure in the Bay of Bay of Bay of Bay of Bayoral and Northern Province
-
-Later, the system will continue to grow in the Northwest, the Department of External Affairs.
-
-Towers strong winds (s) temporarily in those sea areas. 70-80) Heavy showers can stand and the sea areas can be very rough.
-
-◼️
-
-[Data](articles/c742f976.json)
-
-[Extended Data](ext_articles/c742f976.ext.json)
 
 ---

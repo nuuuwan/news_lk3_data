@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 10:57:52**
+As of **2024-10-20 11:10:23**
 
 ## Newspaper Stats
 
-*Scraped **50,352** Articles*
+*Scraped **50,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 3,081
 dailyftlk | 3,433
 adalk | 4,667
 dailymirrorlk | 4,733
-adaderanalk | 5,966
+adaderanalk | 5,967
 tamilmirrorlk | 6,895
 virakesarilk | 8,058
-adaderanasinhalalk | 8,740
+adaderanasinhalalk | 8,741
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,352 (100.0%) of 50,352 articles have been extended.
+50,354 (100.0%) of 50,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### STEM teacher training for plantation schools successfully concludes
+
+*2024-10-20 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102809/stem-teacher-training-for-plantation-schools-successfully-concludes) · `en`
+
+The closing ceremony of the 3-month long teacher-training program in STEM subjects under Indian grant assistance for schools in the plantation regions of Sri Lanka was held recently at the Ministry of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure.
+
+The event was attended by the High Commissioner of India to Sri Lanka Santosh Jha, Secretary, Ministry of Education and Science and Technology Mrs. J.M. Thilaka Jayasundara and senior officials of the Ministry of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure and the Ministry of Education, Science and Technology and the National Institute of Education of Sri Lanka, according to a statement issued by the High Commission of India.
+
+...
+
+[Data](articles/202b3ff6.json)
+
+[Extended Data](ext_articles/202b3ff6.ext.json)
+
+---
+
+### Women's World Cup 20 Final Today
+
+*2024-10-20 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202364) · `si`
+
+Women's World Cup T20: NZ vs SA today at 7:30 PM in Dubai. Sri Lankan judge Nimali Perera to officiate, marking her country's first participation in a World Cup final.
+
+🟩
+
+The finals of the World Cup Women's Twenty20 Women's Cricket Tournament will be held today (20).
+
+The match between New Zealand and South African femeless women's teams will commence at 7.30 pm today at Dubai.
+
+A Sri Lankan judge Nimali Perera has received the opportunity to act as a judge in the final player of the Women's World Cup.
+
+Accordingly, she will become the first Sri Lankan judge to act as a judge in the field of a World Cup.
+
+◼️
+
+[Data](articles/863852b0.json)
+
+[Extended Data](ext_articles/863852b0.ext.json)
+
+---
 
 ### Israel attacked by north Gaza
 
@@ -173,6 +213,10 @@ The government announced that 8 out of the 16 government vehicles used by former
 Three members of the same family including a child were reportedly killed in a house fire in the Sinhapura area of Chilaw.
 
 The victims, a mother, father, and their child died in the fire, which broke out last night (19), according to the Chilaw Police.
+
+Police reported that the bodies were discovered during a search following information they received. The deceased have been identified as a 42-year-old man, a 40-year-old woman, and a 15-year-old girl.
+
+The cause of the fire is yet to be determined, and Chilaw Police have launched an investigation into the incident.
 
 ◼️
 
@@ -2275,53 +2319,5 @@ The passenger, a 35-year-old resident of Dematagoda, along with the drugs consig
 [Data](articles/7a280a4b.json)
 
 [Extended Data](ext_articles/7a280a4b.ext.json)
-
----
-
-### The right criterion will be followed in releasing movies
-
-*2024-10-19 09:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரைப்படங்களை-வெளியிடுவதில்-சரியான-அளவுகோல்-பின்பற்றப்படும்/175-345679) · `ta`
-
-Minister Vijitha Herath promises fair film releases, denies irregularities. National Film Corporation renewal planned to compete with private sector. New directors tasked with orderly film distribution.
-
-🟩
-
-Media Minister Vijitha Herath said that the allegations of irregularities in the release of films would be issued by the current government that the current government would not be able to cause such irregularities and dislikes and publish films in a proper order.
-
-The Minister was speaking at a function appointed by the Board of Directors of the Sri Lanka National Film Corporation (NFC) and the Sri Lanka Foundation Institute on Friday.
-
-He said that the National Film Corporation should be renewed in modern times and competed with the private sector.
-
-The Minister said that the new directors should intervene and take steps to release the films fairly. The films were previously released at personal discretion.
-
-◼️
-
-[Data](articles/196d4581.json)
-
-[Extended Data](ext_articles/196d4581.ext.json)
-
----
-
-### Sri Lanka state spending contained below budget to August amid monetary stability
-
-*2024-10-19 09:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-spending-contained-below-budget-to-august-amid-monetary-stability-184182/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state spending is running sharply below budget, official data show, with the central bank also providing exceptional monetary stability bringing prices down absolutely.
-
-Recurrent expenditure grew only 4.4 percent to 2,042 billion rupees by August 2024, against a 14.5 percent budgeted number, with non-interest expenditure rising 4.6 percent, compared to a budgeted 8.7 percent.
-
-Salaries and wages were up 6.7 percent, against a budgeted 12.5 percent.
-
-However more taxes collected from the people will have to be spent on state salaries in the future, due to slashing of spending power in the 2022 currency collapse.
-
-Spending on goods and services were up 8.2 percent against a budgeted 13.7 percent and subsidies and transfers were up 1.5 percent against a budgeted 3.9 percent.
-
-Sri Lanka’s central bank has provided exceptional monetary stability in 2024, allowing the currency to appreciate amid deflationary open market operations.
-
-...
-
-[Data](articles/4a663bb4.json)
-
-[Extended Data](ext_articles/4a663bb4.ext.json)
 
 ---

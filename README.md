@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 19:39:16**
+As of **2024-10-20 19:57:40**
 
 ## Newspaper Stats
 
-*Scraped **50,412** Articles*
+*Scraped **50,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,083
 dailyftlk | 3,433
-adalk | 4,678
+adalk | 4,679
 dailymirrorlk | 4,733
 adaderanalk | 5,974
 tamilmirrorlk | 6,907
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,753
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,412 (100.0%) of 50,412 articles have been extended.
+50,413 (100.0%) of 50,413 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -281,6 +281,26 @@ According to the confession of the suspect, it has been revealed that the stolen
 [Data](articles/e7e5af38.json)
 
 [Extended Data](ext_articles/e7e5af38.ext.json)
+
+---
+
+### Rain interrupted from West Indies
+
+*2024-10-20 17:15:30* · [`adalk`](https://www.ada.lk/sports/කොදෙව්---ශ්‍රී-ලංකා-තරගයට-වර්ෂාවෙන්-බාධා/9-412574) · `si`
+
+West Indies vs Sri Lanka ODI match halted due to rain. West Indies chose to bat after winning the toss. Rain prevented play beyond 38 overs, limiting the innings to 185 runs.
+
+🟩
+
+The West Indies team and the first one-day match between the Sri Lanka team have been stopped due to rain.
+
+The West Indies won the toss and elected due to rain, 185 were widened for over 38 overs.
+
+◼️
+
+[Data](articles/0494a466.json)
+
+[Extended Data](ext_articles/0494a466.ext.json)
 
 ---
 
@@ -2321,27 +2341,5 @@ President Dissanayake, who said that the term ‘retirement’ had now been intr
 [Data](articles/842973cc.json)
 
 [Extended Data](ext_articles/842973cc.ext.json)
-
----
-
-### New nomination for local government elections
-
-*2024-10-19 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202354) · `si`
-
-Local Government Elections: Nominations open, Elections Commissioner General Saman Sri Ratnayake confirms. Candidates may replace deceased nominees within legal limits.
-
-🟩
-
-The Elections Commission says that nominations will be called for the next Local Government Elections.
-
-Elections Commissioner General Saman Sri Ratnayake said that the election was held on the previous nomination.
-
-"We are implementing the written law passing the specified. If a candidate died, there is a possibility of replacing him. Only the legal limit on pill transfers and other matters have the ability to deal with it. "
-
-◼️
-
-[Data](articles/63f178b4.json)
-
-[Extended Data](ext_articles/63f178b4.ext.json)
 
 ---

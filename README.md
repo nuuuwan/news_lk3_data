@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 20:58:06**
+As of **2024-10-20 21:11:07**
 
 ## Newspaper Stats
 
-*Scraped **50,415** Articles*
+*Scraped **50,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,679
 dailymirrorlk | 4,733
 adaderanalk | 5,974
 tamilmirrorlk | 6,907
-virakesarilk | 8,072
+virakesarilk | 8,091
 adaderanasinhalalk | 8,755
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,415 (100.0%) of 50,415 articles have been extended.
+50,424 (100.0%) of 50,434 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,6 +90,36 @@ The deceased is a development officer of the Chilaw Divisional Secretariat and h
 
 ---
 
+### All Ceylon Schools Sports Festival;Northern, central provincial soldiers
+
+*2024-10-20 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196733) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Ceylon Schools Sports Festival highlights: Northern/Central provinces excel. Gold medals awarded in athletic events. Notable winners include Mannar's Nirushika and Arunodaya's Sayanthika. Jaffna schools shine in jumping competitions. Matale Hindu National School's Dudi Harshithan wins silver in 1500m race.
+
+🟩
+
+Northern and Central Provincial Schools Medals have won medals in the last feature of the All Ceylon Schools Sports Festival.
+
+Athletic competitions organized by the Ministry of Education are being held at the Sugathadasa Stadium in Colombo.
+
+Mannar and Estate Government Tamil Kalavan School. Yadurshika recorded a gold medal of 37.39 meters. This is the first time a heroine won a medal on behalf of the Mannar District Schools in the All Ceylon Schools Sports Sports Festival.
+
+Arunodaya College Hero Say 2.90 meters. Nirushika acquired the gold medal. His fellow school hero. Dilakshika (2.70 m) won the bronze medal.
+
+Tellippalai Mahajana College player S.. Tushanthan took the gold medal.
+
+...
+
+[Data](articles/98ea5bec.json)
+
+[Extended Data](ext_articles/98ea5bec.ext.json)
+
+---
+
 ### World Cup final battle is South Africa
 
 *2024-10-20 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202378) · `si`
@@ -112,6 +142,160 @@ Although both of these teams had previously served the final, they could not win
 
 ---
 
+### Arjun's 'Sita Travel' film update
+
+*2024-10-20 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/196725) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Akshan King directs "Sita Till" for Arjun's Sri Ram Film International. Newcomer Niranjan Sudheendra debuts as hero. Film produced in Tamil, Telugu, Kannada.
+
+🟩
+
+Actor and director Akshan King has released information about the hero of the film 'Sita Tilli' which is being produced by Arjun.
+
+Newcomer Niranjan Sudheendra makes his debut as the hero of the story in 'Abhi' in the new movie 'Sita Till', directed by 'Action King'.
+
+The hero of the story, Niranjan Sudeep, has a young look and a sexy magnetic eyes with the hairstyle of today's younger generation.
+
+The film is being produced by Arjuna's Sri Ram Film International in three languages- Tamil and Telugu-Kannada.
+
+◼️
+
+[Data](articles/456fd30f.json)
+
+[Extended Data](ext_articles/456fd30f.ext.json)
+
+---
+
+### Motorcycle accident in Moranduduwa;Youth
+
+*2024-10-20 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/196724) · `ta`
+
+Motorcycle crash kills youth in Moranduduwa. Vehicle lost control near Parakastota, Horana road. Passenger injured, died at Konaduwa hospital. Police investigating incident.
+
+🟩
+
+A youth was killed when a motorcycle crashed in Mahawela area in Parakastota, Moranduduwa - Horana road, police said.
+
+Police said the motorcycle from Millaia to Moranduduwa lost its speed control and crashed away from the road.
+
+A motorcycle passenger was injured in the accident and died after being admitted to the Konaduwa hospital.
+
+The body is being kept in the corpse of the Konaduwa Hospital and the Moranduduwa police are conducting further investigations.
+
+◼️
+
+[Data](articles/a81c1a49.json)
+
+[Extended Data](ext_articles/a81c1a49.ext.json)
+
+---
+
+### The Nobel Prize for Literature is also silent
+
+*2024-10-20 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196722) · `ta`
+
+Nobel Prize for Literature remains silent. Words' power compared to disasters. Absence felt through silence. Speaking out against injustice crucial. Russia, Iran, Belarus excluded from previous awards. Israel's participation uncertain this year.
+
+🟩
+
+If the portrait he tried to compare the consequences of the disaster, the power of the words, the power of the words?The fact that one does not speak becomes like his absence. This silence will be more than what happened. Therefore, to speak against injustice. Russia, Iran and Belarus were not invited for last year's Nobel Prizes. It is not known whether Israel will not be called this time.
+
+◼️
+
+[Data](articles/0d5d6874.json)
+
+[Extended Data](ext_articles/0d5d6874.ext.json)
+
+---
+
+### Israel's demand on Palestinians
+
+*2024-10-20 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196723) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Israel's actions against Palestinians stem from broader US-led interventions in the Middle East, continuing patterns seen in invasions of Afghanistan (2001), Iraq (2003), Libya, and Syria. These actions are part of a larger strategy of US imperialism in the region.
+
+🟩
+
+The war has now been ahead of the Middle East as part of the decades of US imperialism to enslave the Middle East, Central Asia and North Africa.. This is a continuation of the invasion of Afghanistan in 2001, the invasion of Iraq in 2003 and the regime change in Libya and Syria.
+
+◼️
+
+[Data](articles/af7b695d.json)
+
+[Extended Data](ext_articles/af7b695d.ext.json)
+
+---
+
+### Challenge of Muslims: Protecting representation and initiation of change
+
+*2024-10-20 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196721) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Muslims face unique challenges in political representation. Outside North/East regions, they often support Sinhala candidates. In some areas, Muslims must vote for non-Muslims, limiting their influence. This situation varies across territories, highlighting complexities in Muslim political participation.
+
+🟩
+
+The representation of the Muslim community is different in territories outside the North and East. Sinhala people vote for many Muslim politicians. In some areas, Muslims have to vote for Sinhala candidates.
+
+◼️
+
+[Data](articles/4caaee91.json)
+
+[Extended Data](ext_articles/4caaee91.ext.json)
+
+---
+
+### Lorry - motorcycle accident;One killed
+
+*2024-10-20 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/196720) · `ta`
+
+Motorcycle accident: 74-year-old killed when lorry overtakes on Kandy-Colombo road.
+
+🟩
+
+One person was killed when a lorry collided with a motorcycle on the Kandy -Colombo main road in Kandy -Colombo main road, police said yesterday (19).
+
+The deceased is a 74 -year -old man from Kadawatha Grillawala.
+
+Police said the incident occurred when a lorry traveling from Kandy to Colombo was trying to overtake the motorcycle that was traveling in the same direction.
+
+◼️
+
+[Data](articles/d86ec91d.json)
+
+[Extended Data](ext_articles/d86ec91d.ext.json)
+
+---
+
+### Millions of children who are sexually abused in the world
+
+*2024-10-20 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196719) · `ta`
+
+UNICEF report: 79 million girls/women face sexual violence globally, affecting 22% of populations across regions.
+
+🟩
+
+According to the UNICEF report, the number of girls and women who suffer from sexual violence in the sub -co -regional region 79 million. It is 22 per cent of the total population. This is 75 million in the East and Southeast Asian region (8 %). 73 million (9 per cent) in the Central and South Asian region. 68 million (14 percent) in Europe and North America. 45 million (18 percent) in Latin America and Caribbean region. 29 million (15 per cent) in North Africa and West Asia. 6 million (34 per cent) in the Oceania region.
+
+◼️
+
+[Data](articles/956be5d0.json)
+
+[Extended Data](ext_articles/956be5d0.ext.json)
+
+---
+
 ### Over 400 election related complaints received by EC
 
 *2024-10-20 18:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102816/over-400-election-related-complaints-received-by-ec) · `en`
@@ -129,6 +313,112 @@ The commission further stated that out of the 401 complaints received, 309 have 
 [Data](articles/99366329.json)
 
 [Extended Data](ext_articles/99366329.ext.json)
+
+---
+
+### The power of power and nationalism
+
+*2024-10-20 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196715) · `ta`
+
+Nationalist leaders leverage criticism and public pressure to advance their agenda, balancing power and popular support.
+
+🟩
+
+The leaderships that aims nationalism will be able to express their views on the aims of power when the strategic move is to move on to the inevitable actions by making excessive criticism and pressure from the local sector organizations and the central general public.
+
+◼️
+
+[Data](articles/f6f86f64.json)
+
+[Extended Data](ext_articles/f6f86f64.ext.json)
+
+---
+
+### எதிர்க்கட்சி வரிசையில் அமர்வதற்காக தேர்தல்களில் போட்டியிட வேண்டுமா?
+
+*2024-10-20 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196713) · `ta`
+
+தொலைபேசி சின்னத்தில் போட்டியிட்டு வெற்றியீட்டினாலும் பாராளுமன்றத்தில் சுயாதீனமாக இயங்க வேண்டிய காரணங்களைக் கூறி இருதரப்பினரும் ஒரு புரிந்துணர்வு உடன்படிக்கையில் கைச்சாத்திடலாம். அவ்வாறு நடந்தால் அநுர அரசாங்கத்தில் இணைந்து அமைச்சுப்பதவிகளையோ அல்லது பிரதி அமைச்சுப் பொறுப்புகளையோ பெறுவதற்கு சந்தர்ப்பங்கள் இருக்கின்றன.
+
+◼️
+
+[Data](articles/7338a45a.json)
+
+---
+
+### தமிழ் மக்கள் கூட்டணியே தகுதியான வேட்பாளர்களை களமிறக்கியுள்ளது -  தவச் செல்வம் சிற்பரன் விசேட செவ்வி
+
+*2024-10-20 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196712) · `ta`
+
+தமிழரசு கட்சியிலிருந்து பல ஆளுமைமிக்கவர்கள் வெளியேறிவிட்டனர். அந்தக்கட்சியின் காலாவதி காலம் வந்துவிட்டது என்று அதனால்தான் கூறுகிறேன்.  இது மாற்றத்துக்கான காலம். தெற்கில் நடைபெற்றதை போன்று யாழிலும் இந்த நிலை உள்ளது. தமிழரசு கட்சியிலிருந்து மட்டுமல்ல எந்தவொரு கட்சியுடையதும் ஊழலற்ற ஆளுமைமிக்கவர்களை நாங்கள் ஒன்றுசேர்த்து எமது அரசியல் அணியை உருவாக்க விரும்புகிறோம். எனவே இது சாதகமான நிலையை தோற்றுவித்துள்ளது.
+
+◼️
+
+[Data](articles/4a62f785.json)
+
+---
+
+### அடுத்த வருடத்துக்கான வரவு செலவு திட்டத்தை சமர்ப்பிக்காமல் இருப்பது பாரிய பிரச்சினையை ஏற்படுத்தும் - சுசில் பிரேமஜயந்த
+
+*2024-10-20 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/196710) · `ta`
+
+அரசாங்கம் அடுத்த வருடத்துக்கான வரவு செலவு திட்ட அறிக்கையை சமர்ப்பிக்காமல் இருப்பது பாரிய பிரச்சினையாகும். ஏனெனில், அடுத்த வருடத்துக்கான வருமான இலக்குகளை அடிப்படையாகக் கொண்டே செலவுகளை திட்டமிட முடியும். இடைக்கால கணக்கு வாக்கெடுப்பை அனுமதித்துக்கொள்வதன் மூலம் அபிவிருத்தி திட்டங்களுக்கு நிதி ஒதுக்க முடியாது. வருமான வழிகளையும் திட்டமிட முடியாது என முன்னாள் அமைச்சரும் புதிய ஜனநாயக முன்னணியின் கொழும்பு மாவட்ட வேட்பாளருமான சுசில் பிரேமஜயந்த தெரிவித்தார்.
+
+புதிய ஜனநாயக முன்னணி கொழும்பில் ஞாயிற்றுக்கிழமை (20) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நடைபெறவுள்ள பாராளுமன்ற தேர்தலில் புதிய ஜனநாயக முன்னணி 19 மாவட்டங்களில் சிலிண்டர் சின்னத்தில் போட்டியிடுவதுடன்  3 மாவட்டங்களில் எமது பங்காளி கட்சியான ஐக்கிய தேசிய கட்சியின் யானை சின்னத்தில் போட்டியிடுகிறது. கடந்த ஜனாதிபதி தேர்தலில் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு 23 இலட்சம் வாக்குகள் கிடைக்கப்பெற்றன.
+
+...
+
+[Data](articles/967560f0.json)
+
+---
+
+### சிறிதரனின் எதிர்காலம்
+
+*2024-10-20 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196708) · `ta`
+
+தன்னை கட்சியை விட்டு வெளியேற்ற நினைக்கின்ற தரப்புடன் சிறிதரன் மல்லுக் கட்ட போவதாக பகிரங்கமாக போர்ப்பிரகடனம் செய்திருக்கிறார் சிறிதரன். யாழ்ப்பாண மாவட்டத்தில்  இரண்டு ஆசனங்கள் கிடைக்குமானால், தமிழரசு கட்சிக்குள் சிறிதரனுக்கான நெருக்கடி இன்னமும் அதிகரிக்கும். இது வெளிப்படையான விடயம்.
+
+◼️
+
+[Data](articles/ba72cfd7.json)
+
+---
+
+### ஈஸ்டர் ஞாயிறு அரசியல்
+
+*2024-10-20 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196706) · `ta`
+
+உதய கம்மன்பில, ஈஸ்டர் ஞாயிறு தாக்குதலை வைத்து அரசியல் செய்தவர்.  இப்போதும் அதையே செய்கிறார்.  அரசாங்கத்தை இரகசியங்களை வைத்தும் அரசியல் செய்ய  முனைந்திருக்கிறார். இதன் விளைவு அவருக்கு பாரதூரமானதாகவும் இருக்கக் கூடும்.
+
+◼️
+
+[Data](articles/ac530cd9.json)
+
+---
+
+### யாருக்கு, எத்தனை ஆசனங்கள்?
+
+*2024-10-20 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196705) · `ta`
+
+பாராளுமன்ற தேர்தலில்,வடக்கு கிழக்கில் அதிகபட்சமாக 18 ஆசனங்களை தமிழ்க் கட்சிகளால் பெற்றுக் கொள்ள முடியும் என முன்னாள் பாராளுமன்ற உறுப்பினர்கள்  கஜேந்திரகுமார் பொன்னம்பலம் கூறியிருக்கிறார்.
+
+◼️
+
+[Data](articles/c9de6023.json)
+
+---
+
+### பிரிக்ஸ் மாநாடு – இலங்கை விலகியது ஏன்?
+
+*2024-10-20 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/196701) · `ta`
+
+“பிரிக்ஸ் அமைப்பில் இணைந்து கொள்வதற்கு இலங்கையே விண்ணப்பித்தது.  அவ்வாறு விண்ணப்பித்து விட்டு அழைப்பை ஏற்காமல் தவிர்ப்பது பிரிக்ஸ் அமைப்பை உதாசீனப்படுத்துவதாக கருதப்படும்”
+
+◼️
+
+[Data](articles/1985abf3.json)
 
 ---
 
@@ -177,6 +467,42 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/9d71348a.json)
 
 [Extended Data](ext_articles/9d71348a.ext.json)
+
+---
+
+### புதிய அரசியல் கலாசாரம் புதிய மாற்றம்
+
+*2024-10-20 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196692) · `ta`
+
+சிறந்த மக்களினால்தான் சிறந்த தலைவர்களை தேர்தெடுக்க முடியும். கடந்த காலங்களில் நாட்டுக்கு பொருத்தமற்ற தலைவர்களும், பாராளுமன்ற உறுப்பினர்களும் தெரிவு செய்யப்பட்டதன் விளைவுதான் நாட்டின் சீரழிவுகளுக்கு காரணமென்று வெறுமனே சொல்லிக் கொண்டால் மாத்திரம் தீர்வு கிடைக்காது. அந்த சீரழிவுகளுக்கு யார் காரணமென்றும் கண்டறிய வேண்டும்.
+
+◼️
+
+[Data](articles/22e92adc.json)
+
+---
+
+### மோசடி முகாம்களின் பின்னணி என்ன?
+
+*2024-10-20 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196691) · `ta`
+
+சீன இணைய மோசடிக் கும்பலை கண்டறிவதற்கு, சீனாவின் உதவி இலங்கை அரசாங்கத்திற்கு தேவை. சீனாவின்  நெருக்கமான ஒத்துழைப்பு இல்லாமல் இவர்களை ஒடுக்க முடியாது. சீனாவின் பொதுப் பாதுகாப்பு அமைச்சின் கீழ் உள்ள புலனாய்வு பிரிவினர் 10 பேர் கொழும்புக்கு வந்து எத்தகைய விசாரணைகளை முன்னெடுத்தனர், யாருடன் இணைந்து செயல்பட்டனர், என்பது போன்ற கேள்விகளுக்கு எந்த பதிலும் அரசாங்கத்தினால் வழங்கப்படவில்லை.
+
+◼️
+
+[Data](articles/6d8b0610.json)
+
+---
+
+### தமிழ் மக்களை குறிவைக்கும் ஜே.வி.பி.
+
+*2024-10-20 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196690) · `ta`
+
+ஜே.வி.பி.யின் பொதுச் செயலாளர் ரில்வின் சில்வா  இளையவர்களிடம் பொறுப்புக்களை ஒப்படைப்பதற்காக கூறியிருந்தார். ஆனால், அதனை அவர் உடனடியாக செய்யத் தயாராக இல்லை.  ஏனென்றால் அநுரகுமார திசாநாயக்கவின் அரசாங்கத்துக்கு கடிவாளம் போடும்  வேலை அவருக்கு இருக்கிறது.எதிர்க்கட்சி வரிசையில் இருந்து கொண்டு மக்களின் பிரச்சினையை தீர்க்க முடியாது என்பதால் தான், ஜே.வி.பி. அதிகாரத்தை கைப்பற்றியது.  அதுபோன்று தான் தமிழ் மக்களும் தங்களுக்கு அதிகாரத்தை கைப்பற்ற முனைகிறார்கள்.
+
+◼️
+
+[Data](articles/f7eebdbe.json)
 
 ---
 
@@ -1973,395 +2299,5 @@ Ceylinco Insurance leads annual beach clean-up across 100 km coastline
 [Data](articles/f83e7a71.json)
 
 [Extended Data](ext_articles/f83e7a71.ext.json)
-
----
-
-### My Wedding, my father’s funeral and a portrait of Mr. Bandaranaike
-
-*2024-10-20 01:51:00* · [`islandlk`](http://island.lk/my-wedding-my-fathers-funeral-and-a-portrait-of-mr-bandaranaike/) · `en`
-
-(Excerpted from Render unto Caesar – Memoirs of Bradman Weerakoon)
-
-Two highly personal life-defining events occurred in 1956. One was my marriage in August to Damayanthi and the other the death of my father in late September.
-
-Damayanthi Gunasekera was the third daughter of a friend of my father’s who joined the colonial police at about the same time as Station House Officers. They both served for 35 years before retiring as superintendent in charge of districts. But more than that, Damayanthi’s mother was a Weerakoon from the same village as my father – Payagala in the Kalutara district – and a second or third cousin as well.
-
-Damayanthi’s mother who wed at the age of 14 was said to be a beauty and it was rumoured in family circles that my father. as a young police officer, was seriously interested in her. Be that as it may my parents were really pleased when the proposal from the Gunasekera side came along.
-
-...
-
-[Data](articles/ba8cd78e.json)
-
-[Extended Data](ext_articles/ba8cd78e.ext.json)
-
----
-
-### Real estate deals in the UK including buying a house that once belonged to Margaret Thatcher
-
-*2024-10-20 01:49:00* · [`islandlk`](http://island.lk/real-estate-deals-in-the-uk-including-buying-a-house-that-once-belonged-to-margaret-thatcher/) · `en`
-
-(Excerpted from Simply Nahil: A Maverick with a Midas touch, biography of Nahil Wijesuriya)
-
-Nahil and the family moved to London and Nahil decided to continue staying in the UK, living at College Gardens in Dulwich. The children were 10 and 12 years old and the family enjoyed living here.The real estate market in the UK was at an interesting paradigm. The regulations for rates were based on the square footage of a property with the taxable rate being any area above five square feet.
-
-The basement areas under the regulated height were used for storage, considering this space was not taxable. Over the years the rules changed with taxes based on the regions etc. Nahil took advantage of the changes in tax regulations, adding an extra floor by digging into the basement of his property up to foundation level, creating a seven-foot basement which was the regular height and space, equivalent to an extra floor thus adding more value to his property.
-
-...
-
-[Data](articles/174bdbb6.json)
-
-[Extended Data](ext_articles/174bdbb6.ext.json)
-
----
-
-### A New Passion in Writing & Getting Published
-
-*2024-10-20 01:33:00* · [`islandlk`](http://island.lk/a-new-passion-in-writing-getting-published/) · `en`
-
-As General Manager of Mount Lavinia Hotel (MLH), I led a diverse team of departmental heads. Some had been with the hotel for decades and held traditional views, while others were more adaptable to new trends. Among them was Executive Chef Publis Silva, who had worked at MLH since 1956, starting at the lowest level in the kitchen. Though rooted in tradition, Chef Publis had a flexible, collaborative approach and an unmatched work ethic. Leading his brigade of 80 chefs with distinction, he earned the respect of everyone. When the Chairman of the company, Sanath Ukwatte, decided to reward ‘The Manager of the Year,’ I recommended Chef Publis for the honour. It was awarded to him, with a car as the prize, a testament to his leadership.
-
-...
-
-[Data](articles/117a6654.json)
-
-[Extended Data](ext_articles/117a6654.ext.json)
-
----
-
-### My clash with Philip Gunawardene in the parliament restaurant
-
-*2024-10-20 01:18:00* · [`islandlk`](http://island.lk/my-clash-with-philip-gunawardene-in-the-parliament-restaurant/) · `en`
-
-In early 1958, I was appointed Deputy Commissioner of the Agrarian Services Department, in charge of implementing the Paddy Lands Act of 1958, under the general direction of the Commissioner. As an officer of the CCS I already had some training and experience in law and administration as well as experience in wet and dry zone agriculture and irrigation.
-
-In setting out to draft the Administrative Regulations under the Act, I came across a number of structural, legal and operational considerations, which probably had not been foreseen by its authors – probably because this was the first time it was being looked at by an administrator with field experience.
-
-...
-
-[Data](articles/84762b14.json)
-
-[Extended Data](ext_articles/84762b14.ext.json)
-
----
-
-### The recent IMF visit and the new ‘economic team’
-
-*2024-10-20 01:07:00* · [`islandlk`](http://island.lk/the-recent-imf-visit-and-the-new-economic-team/) · `en`
-
-A new economic team, representing SL has gone into a meeting with the IMF. A President Media Division release dated October 2, 2024, says that the IMF visit was to hold discussions on the progress of the IMF programme and the release of the fourth tranche and that the following “economic team” has been appointed by the new government for discussions with the IMF.
-
-This is the team –Anil Jayantha, Chair of the NPP Economic Policy Council & Senior Advisor to the President on Economic Affairs & Finance, Duminda Hulangamuwa, Senior Advisor to the President, Sunil Handunnetti, JVP Politician, Seetha Bandara Ranathunga, Sunil Gamage, Nandasiri Keembiyahetti, O. G. Dayaratne Banda and Amarasena Athukorala.
-
-...
-
-[Data](articles/1f28396f.json)
-
-[Extended Data](ext_articles/1f28396f.ext.json)
-
----
-
-### Deep State – Sow a Wind and Reap a Whirlwind
-
-*2024-10-20 01:02:00* · [`islandlk`](http://island.lk/deep-state-sow-a-wind-and-reap-a-whirlwind/) · `en`
-
-“If they did prosper and increase in riches, yet they should not long enjoy them themselves, but be pillaged and spoiled of them” Hosea 8:7
-
-The above is quoted from the Bible and is self-explanatory. Since, the concept of Deep State in Sri Lanka is closely connected, to the Easter Bombing, the Bible verse has been referred to due to its significance.
-
-For the first time in Sri Lanka, Deep State has been discussed publicly, by Sunanda Deshapriya, writing about it in his recent book about the Easter Attack. His book is about the fourth publication on the Easter Sunday attack. I have always had great respect for Sunanda as I had been reading his articles from the nineties.
-
-Although I still have not read this book, skimming through it I think it is well researched. He refers to Deep State as ‘Paaraa Rajya’ in Sinhala. Attorney Kishali Pinto Jayawardena too has written about the danger of Deep State in her articles.
-
-...
-
-[Data](articles/32532dee.json)
-
-[Extended Data](ext_articles/32532dee.ext.json)
-
----
-
-### Kumar David: Left Intellectual, Friend, Rascal
-
-*2024-10-20 00:56:00* · [`islandlk`](http://island.lk/kumar-david-left-intellectual-friend-rascal/) · `en`
-
-Much will be written in the coming days about the much-loved Kumar David— electrical engineer, brilliant academic, Left intellectual, and writer who passed away on Monday in Los Angeles. Others will write about his academic achievements, his contribution to the Sri Lankan Left, his writings, etc. My short piece is more anecdotal. Kumar had been unwell for some time. In his last email to me on 14 August, he wrote: ‘I am still in LA. Health not too good. Hope to be in SL early 2025 if my health improves.’ Irrepressible as he always was, he added: ‘I understand that you are conning the poor b….s in Papua New Guinea or some such place on Constitutional matters.’
-
-...
-
-[Data](articles/d0ecf6b0.json)
-
-[Extended Data](ext_articles/d0ecf6b0.ext.json)
-
----
-
-### Father and Daughter – unique persons
-
-*2024-10-20 00:53:00* · [`islandlk`](http://island.lk/father-and-daughter-unique-persons/) · `en`
-
-In my last Sunday’s (October 6) article The Reality of the Present and Memories of the Past, I wrote about a young Tamil Australian from western Sydney – S Shakthidharan – whose play Counting and Cracking has been a resounding success in Australia and more recently in New York. I knew who’s who he was but did not wish to mention his family, except for the one fact that he is a great grandson of C Suntheralingam, a colossus of his time. This reticence since I had not got permission from a family member to mention them.
-
-Memories of a grandaunt of the playwright whom I befriended and admired very much kept twirling in my mind. The memories needed exposure through writing. Hence I wrote to her son Architect C Anjalendran for permission to write about her; permission kindly given. I suppose he could not refuse old me though he shies away from publicity. Thus I mean to dedicate this article to my friend Vatha and mention her father, both truly unique persons.
-
-...
-
-[Data](articles/818c2e4a.json)
-
-[Extended Data](ext_articles/818c2e4a.ext.json)
-
----
-
-### Kumar David: Left Intellectual, Activist, Friend, Rascal
-
-*2024-10-20 00:39:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kumar-david-left-intellectual-activist-friend-rascal/) · `en`
-
-Much has already been written, and more will be written in the coming days about the much-loved Kumar David— electrical engineer, brilliant academic, Left intellectual, activist and writer who passed away on Monday in Los Angeles. Others will write about his academic achievements, his contribution to the Sri Lankan Left, his writings, etc. My short piece is more anecdotal.
-
-Kumar had been unwell for some time. In his last email to me on 14 August, he wrote: ‘I am still in LA. Health not too good. Hope to be in SL early 2025 if my health improves.’ Irrepressible as he always was, he added: ‘I understand that you are conning the poor buggers in Papua New Guinea or some such place on Constitutional matters.’
-
-...
-
-[Data](articles/29a9f10b.json)
-
-[Extended Data](ext_articles/29a9f10b.ext.json)
-
----
-
-### RUNNING SCARED?
-
-*2024-10-20 00:38:00* · [`islandlk`](http://island.lk/running-scared/) · `en`
-
-Never in our recent political history has there been such a simultaneous exodus of political stalwarts, declaring their intent to retire from politics. This is akin to the story of Noah’s Ark, where the threat of imminent disaster, ignited an escape, spurred by a natural existential threat.
-
-Why this sudden realization of the point at which the certainty of age-related decadence, overtakes the myth of the limitless benefit of experience? There has to be something more. Some of these suddenly awakened denizens, may be smelling a so far suppressed and cocooned, visitation by justice as the consequence of moral default and sustained larceny.
-
-...
-
-[Data](articles/e1cdfb92.json)
-
-[Extended Data](ext_articles/e1cdfb92.ext.json)
-
----
-
-### Sri Lanka wins 100 goals at Asian Netball Championships with Saudi
-
-*2024-10-20 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/196663) · `ta`
-
-Sri Lanka dominates Saudi Arabia 118-5 in Asian Netball Championship. Tissa Alkama scores 76 goals, while Hasitha Mendis and Rashmi Perera contribute 29 goals each. Sri Lanka faces India next.
-
-🟩
-
-Sri Lanka won Saudi Arabia at the Asian Network A group against Saudi Arabia on Saturday night (19) at the Koramangalam Indoor Stadium, India, India, and won by a margin of 118 - 5.
-
-Sri Lanka played the first quarter -hour game 27 - 2 from the beginning to the end.
-
-The Sri Lankan -up part of the second quarter -hour play was a 32 - 0.
-
-Sri Lanka took the lead by 59 - 2 during the break.
-
-After the break, Sri Lanka also made the third quarter -hour game at 32 - 1.
-
-Tissala Alkama, who scored 76 goals, was restored in the 4th -quarter -hour match.
-
-However, Hashitha Mendis scored 13 goals and Rashmi Perera 14 goals and 27 - 2 won by a total of 118 - 5.
-
-Hasitha Mendis, who played more effectively than Tisala Alkama, scored 16 goals and Rashmi Perera 24 goals.
-
-Sri Lanka will oppose India, the reception country on Sunday (20).
-
-◼️
-
-[Data](articles/c45e383c.json)
-
-[Extended Data](ext_articles/c45e383c.ext.json)
-
----
-
-### Sri Lanka Aviation clears bomb scare on Vistara amid threat to scores of Indian flights
-
-*2024-10-20 00:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-aviation-clears-bomb-scare-on-vistara-amid-threat-to-scores-of-indian-flights-184237/) · `en`
-
-ECONOMYNEXT – State-run Sri Lanka’s Airport and Aviation Services (Sri Lanka) (Private) Limited cleared bomb scare to India’s Vistara flight at the island nation’s main airport, an official said, amid similar threats to more than 70 Indian carriers across the world, foreign media reported.
-
-India-based Economic Times said more than 70 flights of Indian airlines have received bomb threats since Saturday morning including planes from Air India, IndiGo, Akasa Air, Vistara, SpiceJet, Star Air, and Alliance Air.
-
-It said multiple flights were affected, and necessary precautions are being taken by airlines in coordination with authorities, while the threats have been declared hoaxes.
-
-A top official at the Airport and Aviation Services (Sri Lanka) (Private) Limited (AASL) said there was no threat over the reported bomb scare on the Vistara Flight UK 131 (A320 Neo) from Mumbai to Colombo.
-
-...
-
-[Data](articles/10c5ffae.json)
-
-[Extended Data](ext_articles/10c5ffae.ext.json)
-
----
-
-### 2024-10-19 (Saturday)
-
-### Mahinda's report on vehicles
-
-*2024-10-19 23:42:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனங்கள்-குறித்து-மஹிந்த-வெளியிட்ட-அறிக்கை/175-345702) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Mahinda Rajapaksa's media unit denies allegations about his vehicle security. They claim only 3 out of 6 official vehicles were used on a specific date. The Presidential Secretariat allegedly directed this information.
-
-🟩
-
-Mahinda Rajapaksa's media unit has issued a statement that the information on the alleged vehicles in the security of Mahinda Rajapaksa is not correct.
-
-However, according to the written directive provided by the Presidential Secretariat, Mahinda Rajapaksa's media unit further stated that 3 of the six official vehicles used for the security of Mahinda Rajapaksa on Monday 21st of this month.. Remble
-
-◼️
-
-[Data](articles/730b7eb1.json)
-
-[Extended Data](ext_articles/730b7eb1.ext.json)
-
----
-
-### President's observation on salary increase
-
-*2024-10-19 23:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளம்-அதிகரிப்பு-தொடர்பில்-ஜனாதிபதி-அவதானம்/175-345701) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake announces salary increases for public servants in the upcoming February-March 2025 budget. Also promises to boost allowances for students, poor, and those with special needs.
-
-🟩
-
-President Anura Kumara Dissanayake has said that the budget brought in February 2025 will be paid to increase the salaries of public servants.
-
-The President made this statement when the first people's rally of the National People's Power was held in Tangalle today (19) ahead of the parliamentary election.
-
-We have proven that there is nothing impossible by brave people. Initially, our biggest challenge was to represent economic stability.
-
-In a short time, we have made the best contracts with the democratic organizations that are favorable to the country and created a trusted economy.
-
-The budget is scheduled to be filed by February and March. We have paid attention to the increase in the salary of public servants and the allowances to be made to school children.
-
-In the upcoming budget, we will definitely increase the allowance offered to the poor and the special needs. ”. Remble
-
-◼️
-
-[Data](articles/f05ea16f.json)
-
-[Extended Data](ext_articles/f05ea16f.ext.json)
-
----
-
-### Former President's Media Unit announced
-
-*2024-10-19 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202357) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former President Mahinda Rajapaksa's media unit released a statement about security measures. It clarified incorrect vehicle custody information and mentioned actions taken regarding six officers protecting the Presidential Secretariat. The announcement was made through the Department of Government Information.
-
-🟩
-
-The Media Unit has issued a statement regarding the officers who have been deployed on behalf of the security for the security measures, including the use of former President Mahinda Rajapaksa issued by the Department of Government Information.
-
-The release states that information on vehicles shown to be in custody is not the correct information.
-
-However, action has been taken to re-handed over the 21st of the six officers who have been deployed to protect the Presidential Secretariat, including the use of the Presidential Secretariat.
-
-The amendment issued by former President Mahinda Rajapaksa is further below,
-
-◼️
-
-[Data](articles/751893f3.json)
-
-[Extended Data](ext_articles/751893f3.ext.json)
-
----
-
-### EU Ambassador and ADB Director call on Prime Minister Harini
-
-*2024-10-19 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102802/eu-ambassador-and-adb-director-call-on-prime-minister-harini) · `en`
-
-The Ambassador of the European Union (EU) to Sri Lanka, Carmen Moreno, has paid a courtesy call on the Prime Minister of Sri Lanka, Dr. Harini Amarasuriya, at the Prime Minister’s Office in Colombo.
-
-The meeting was an opportunity to reaffirm the strong and enduring relationship between the European Union and Sri Lanka, which is built on mutual respect and cooperation, the Prime Minister’s Office said.
-
-Prime Minister Dr. Amarasuriya highlighted the importance of the EU’s continued support for the GSP+ trade scheme, which has been instrumental in boosting Sri Lankan exports and also outlined her government’s vision to attract more foreign investment by eliminating corruption and strengthening institutions such as the Board of Investment (BoI).
-
-Meanwhile, the Sri Lanka Director of the Asian Development Bank (ADB), Takafumi Kadono, has also met with Prime Minister Dr. Harini Amarasuriya at the Prime Minister’s Office yesterday (18) for a discussion.
-
-...
-
-[Data](articles/2ea46be7.json)
-
-[Extended Data](ext_articles/2ea46be7.ext.json)
-
----
-
-### Lalith Kannangara's disciple caught
-
-*2024-10-19 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202356) · `si`
-
-STF arrests two suspects in Labugama for drug racket. Suspects from Hanwella handed over to Hanwella police for investigation.
-
-🟩
-
-The Police Special Task Force has arrested two suspects who have conducted drug racket in Sri Lanka, a drug dealer and drug dealer.
-
-The STF has arrested the suspects in Labugama, Damageda, Damadugama, Damageda, Damadugama.
-
-They have also been stored in addition to the drug trafficking, in addition to the drug trafficking, in addition to the drug trafficking.
-
-The suspects were residents of Hanwella, the residents of Hanwella.
-
-The suspects were handed over to the Hanwella police station for further investigations.
-
-◼️
-
-[Data](articles/75239ad1.json)
-
-[Extended Data](ext_articles/75239ad1.ext.json)
-
----
-
-### We need opposition that leads to them - Dilith
-
-*2024-10-19 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202355) · `si`
-
-Dilith Jayaweera calls for strong opposition to lead the country forward. He criticizes current political leaders and advocates for a third force to guide the government effectively.
-
-🟩
-
-Dilith Jayaweera, the Leader of the Universal Entrepreneurs, calls for power to build a strong opposition to proceed to the country.
-
-He started the request at the rally rally in Anuradhapura with the election campaign to this year's general election.
-
-Speaking further the Leader of the Gampaha District and Gampaha District Candid Entrepreneurship Dilith Jayaweera
-
-"Now if we assume that 47% of the votes vote for the JVP vote that 47% of the votes vote that it is a wrong assumption. The other 57% has become no political helpers. Because they can't understand what he says, and they have made a third force to make a third force to be a president.
-
-...
-
-[Data](articles/22e105c3.json)
-
-[Extended Data](ext_articles/22e105c3.ext.json)
-
----
-
-### The  Brazen Abduction and  Brutal Murder of Militant Turned Journalist “Taraki” Sivaram.
-
-*2024-10-19 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84927) · `en`
-
-President Anura Kumara Dissanayake frequently emphasised during his election campaign that he would re-open investigations into incidents  of colossal fraud,mass murder and assassinations where the course of justice was  allegedly obstructed or thwarted by those in power in the past. Recent happenings indicate that president Dissanayake and his Government are serious about their campaign promises and  are initiating follow up action in this regard. With parliamentary polls   due next month, electoral  prospects for the ruling National Peoples Power(NPP) Govt would be brighter if it  can demonstrate, that it is taking stern  action to ensure justice will be done in these matters.
-
-...
-
-[Data](articles/b93eae9c.json)
-
-[Extended Data](ext_articles/b93eae9c.ext.json)
 
 ---

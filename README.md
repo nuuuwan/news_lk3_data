@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 17:40:11**
+As of **2024-10-20 18:00:17**
 
 ## Newspaper Stats
 
-*Scraped **50,401** Articles*
+*Scraped **50,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ dailymirrorlk | 4,733
 adaderanalk | 5,972
 tamilmirrorlk | 6,905
 virakesarilk | 8,068
-adaderanasinhalalk | 8,750
+adaderanasinhalalk | 8,751
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,401 (100.0%) of 50,401 articles have been extended.
+50,402 (100.0%) of 50,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### People stand against the collapse of electricity
+
+*2024-10-20 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202374) · `si`
+
+Cuba faces severe power crisis due to US sanctions and fuel shortages. Electricity collapsed nationwide, prompting protests and government appeals for patience. The crisis affects 10 million Cubans, impacting food, medicine, and fuel supplies.
+
+🟩
+
+Cuba operating as a socialist country is currently facing a serious power crisis.
+
+As a result, electricity across the country was collapsed in 24 hours and the government is asking for the people to be patient with the current crisis.
+
+US sanctions have contributed to the impact of Milton's becomfort and the crisis in Venezuela in Cuba.
+
+The people are very embarrassed by the country's national power supply in such a situation.
+
+Farmers who were a twice due to the collapse of the power supply within 24 hours had been streets and opposed the streets.
+
+The people of Havana The people of the capital were blocked by the road and protesting their women knocking into cooking.
+
+Cuban power supply is due to cover up the largest power plant on the island.
+
+It is reported that the fuel crisis has been closed down due to the closure of the power plant.
+
+Although the power supply is restored back, but some regions have not yet been provided with electricity.
+
+...
+
+[Data](articles/e70ace74.json)
+
+[Extended Data](ext_articles/e70ace74.ext.json)
+
+---
 
 ### Sri Lankan racer Yevan David wins on Euroformula debut at Monza
 
@@ -2295,29 +2329,5 @@ The Perth-based AirlineRatings.com, an aviation portal that rates carriers and a
 [Data](articles/edea09c3.json)
 
 [Extended Data](ext_articles/edea09c3.ext.json)
-
----
-
-### A number of vehicles collided with each other on Southern Expressway
-
-*2024-10-19 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202350) · `si`
-
-Multiple vehicles crashed on Southern Expressway near Colombo. Accident caused by driver error. No injuries reported. Road reopened after clearing vehicles. Incident occurred on 19th.
-
-🟩
-
-Several vehicles on the Southern Expressway have clashed.
-
-The accident had occurred at Galle to Colombo this afternoon near Colombo to Colombo today (19).
-
-The expressway said that the accident had occurred due to an error in one vehicle.
-
-No one has been injured in the accident and removed vehicles and the road has been opened to the vehicle.
-
-◼️
-
-[Data](articles/09cec935.json)
-
-[Extended Data](ext_articles/09cec935.ext.json)
 
 ---

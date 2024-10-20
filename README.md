@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 08:47:41**
+As of **2024-10-20 09:00:37**
 
 ## Newspaper Stats
 
-*Scraped **50,341** Articles*
+*Scraped **50,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,081
 dailyftlk | 3,433
-adalk | 4,664
+adalk | 4,665
 dailymirrorlk | 4,733
-adaderanalk | 5,965
+adaderanalk | 5,966
 tamilmirrorlk | 6,892
 virakesarilk | 8,058
 adaderanasinhalalk | 8,739
@@ -26,23 +26,49 @@ adaderanasinhalalk | 8,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,332 (100.0%) of 50,341 articles have been extended.
+50,338 (100.0%) of 50,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
 
-### හලාවත නිවසක ඇතිවූ ගින්නකින් තිදෙනෙකු ජීවිතක්ෂයට
+### Three killed in house fire in Chilaw
+
+*2024-10-20 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102806/three-killed-in-house-fire-in-chilaw) · `en`
+
+Three members of the same family including a child were reportedly killed in a house fire in the Sinhapura area of Chilaw.
+
+The victims, a mother, father, and their child died in the fire, which broke out last night (19), according to the Chilaw Police.
+
+◼️
+
+[Data](articles/894efaee.json)
+
+[Extended Data](ext_articles/894efaee.ext.json)
+
+---
+
+### Three killed in Chilaw House
 
 *2024-10-20 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202362) · `si`
 
-හලාවත, සිංහපුර ප්‍රදේශයේ නිවසක ඇතිවූ ගින්නකින් තිදෙනෙකු ජීවිතක්ෂයට පත්ව ඇතැයි වාර්තා වෙයි.
+Here's a 200-character summary:
 
-හලාවත පොලිසිය සඳහන් කළේ ඊයේ (19) රාත්‍රියේ ඇතිවූ ගින්නෙන් එලෙස මියගොස් ඇත්තේ මව, පියා සහ ඔවුන්ගේ දරුවෙකු බවය.
+
+
+"Chilaw: Fire kills family of three in Sinhapurapura. Mother, father, and child perished in blaze. Police investigation ongoing."
+
+🟩
+
+Three persons were killed in a fire that occurred at a house in Sinhapurapura area in Chilaw.
+
+The Chilaw police said that the mother, father and their child had died in a fire that had occurred yesterday.
 
 ◼️
 
 [Data](articles/13880d12.json)
+
+[Extended Data](ext_articles/13880d12.ext.json)
 
 ---
 
@@ -62,6 +88,8 @@ Thus, naval and fishing communities are requested to be vigilant while engaging 
 
 [Data](articles/2c010150.json)
 
+[Extended Data](ext_articles/2c010150.ext.json)
+
 ---
 
 ### At least 7 dead after ferry dock gangway collapses on Georgia’s Sapelo Island
@@ -80,6 +108,8 @@ A gangway at the dock collapsed, sending people plunging into the water, Jones s
 
 [Data](articles/2d02caa2.json)
 
+[Extended Data](ext_articles/2d02caa2.ext.json)
+
 ---
 
 ### Showers expected in parts of the country
@@ -95,6 +125,8 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/581ad355.json)
+
+[Extended Data](ext_articles/581ad355.ext.json)
 
 ---
 
@@ -442,6 +474,8 @@ Kumar had been unwell for some time. In his last email to me on 14 August, he wr
 
 [Data](articles/29a9f10b.json)
 
+[Extended Data](ext_articles/29a9f10b.ext.json)
+
 ---
 
 ### RUNNING SCARED?
@@ -667,6 +701,24 @@ Elections Commissioner General Saman Sri Ratnayake said that the election was he
 [Data](articles/63f178b4.json)
 
 [Extended Data](ext_articles/63f178b4.ext.json)
+
+---
+
+### ඉන්දියාවේ සිට ආපු ගුවන් යානයේ බෝම්බ බියක්
+
+*2024-10-19 19:50:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-සිට-ආපු-ගුවන්-යානයේ-බෝම්බ-බියක්/11-412560) · `si`
+
+ඉන්දියාවේ මුම්බායි නුවර සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි විස්තාරා ( Vistara ) ගුවන් සේවයේ ගුවන් යානය තුළ බෝම්බ ඇති බවට , ඉන්දියාවේ මෙම ගුවන් සමාගමේ මූලස්ථානය වෙත සිදු කරනු ලැබූ දැනුම් දීමක් මත , මෙම ගුවන් යානය කටුනායක ගුවන් තොටුපොළ වෙත හදිසි  ගොඩ බැස්සවීමක් ( Emergency Landing )  සිදු කර තිබේ.
+
+ඉන්  අනතුරුව , කටුනායක ගුවන් තොටුපොළ තුළ , ධාවන පථයේ කෙළවර විශේෂ ස්ථානයක රදවා විමර්ශන කටයුතු සිදු කළ අතර එවැනි පුපුරන ද්‍රව්‍ය  කිසිවක් එම ගුවන් යානය තුළින් සොයා ගෙන නොමැති බව  කටුනායක ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය .
+
+විස්තාරා ගුවන් සේවයේ යූ.කේ.- 131 දරන  මෙම ගුවන් යානය  10/19 දින ඉන්දියාවේ මුම්බායි නුවරින් පස්වරු 12.25 ට කටුනායක බලා පැමිණීම සදහා පිටත් වී තිබුණි . මෙම ගුවන් යානය  පස්වරු 03.00 ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණීමට නියමිතව තිබුණ ද , මෙම ගුවන් යානය පස්වරු 02.51 ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+එයාර් බස් ඒ.- 320 වර්ගයේ ගුවන් යානක් වූ මෙම යානය තුළ ගුවන් මගීන් 96 දෙනෙකු සහ කාර්යය මණ්ඩලය 08 සිට තිබේ .
+
+...
+
+[Data](articles/6119efbc.json)
 
 ---
 
@@ -2263,55 +2315,5 @@ A distinguished Senior Chartered Accountant, Herath is a Past President of the I
 [Data](articles/cd9a223d.json)
 
 [Extended Data](ext_articles/cd9a223d.ext.json)
-
----
-
-### Sri Lankan hopes break down in final
-
-*2024-10-19 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202328) · `si`
-
-Sri Lankan cricket team loses first match in Asian Emerging Nations Tournament. Afghanistan A team defeated Sri Lanka A by 11 runs in Oman.
-
-🟩
-
-ඕමානයේ පැවැත්වෙන ආසියානු නැගීඑන කණ්ඩායම් කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම ක්‍රීඩාකළ පළමු තරගයෙන් ඇෆ්ගනිස්තාන 'A' කණ්ඩායම හමුවේ ලකුණු 11ක පරාජයක් ලැබීමට සිදුවිය.
-
-මෙම තරගය මස්කට් අගනුවර අල් ඇමරට් ක්‍රීඩාංගණයේදී ඊයේ (18) රාත්‍රියේදී පැවැත්විණි.
-
-පළමු පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම පන්දුවාර 20 තුළදී කඩුලු 7ක් දැවී ලකුණු 166ක් රැස්කිරීමට සමත් විය.
-
-ඊට පිළිතුරු ලෙස ශ්‍රී ලංකාව පන්දුවාර 19.3කදී සියලු දෙනා දැවී රැස්කළේ ලකුණු 155ක් පමණි.
-
-ශ්‍රී ලංකාව අවසන් පන්දුවාරයේදී ලකුණු 13ක් රැස්කළ යුතු වුවත්, ඔවුන්ට කිසිදු ලකුණක් රැස්කිරීමට නොහැකි විය.
-
-ආසියාවේ නැගීඑන ක්‍රීඩකයන් වෙනුවෙන් ආසියානු ක්‍රිකට් කවුන්සිලය විසින් සංවිධානය කරන මෙම තරගාවලිය කණ්ඩායම් 8ක සහභාගිත්වයෙන් පැවැත්වේ.
-
-මේ සඳහා ශ්‍රී ලංකාව සමග ඉන්දියාව, පාකිස්තානය, බංග්ලාදේශය සහ ඇෆ්ගනිස්තානය නියෝජනය කරමින් ‘A’කණ්ඩායම් එක්ව සිටියි.
-
-කෙසේ නමුත් හොංකොං, ඕමානය සහ එක්සත් අරාබි එමීර් රාජ්‍යය නියෝජනය කරමින් එම රටවල ජාතික කණ්ඩායම් මෙහිදී ක්‍රීඩා කරයි.
-
-...
-
-[Data](articles/0375c517.json)
-
-[Extended Data](ext_articles/0375c517.ext.json)
-
----
-
-### Israel and Hamas signal resistance to ending Gaza war after Sinwar’s death
-
-*2024-10-19 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102788/israel-and-hamas-signal-resistance-to-ending-gaza-war-after-sinwars-death) · `en`
-
-Hamas confirmed Friday that its leader, Yahya Sinwar, was killed by Israeli forces in Gaza and reiterated its stance that hostages the militant group took from Israel a year ago will not be released until there is a cease-fire in Gaza and a withdrawal of Israeli troops.
-
-The group’s staunch position pushed back against a statement by Israeli Prime Minister Benjamin a day earlier that his country’s military will keep fighting until the hostages are released and will remain in Gaza to prevent a severely weakened Hamas from rearming.
-
-The conflicting stands signal continued deep resistance on both sides to ending the war, even as President Joe Biden and other world leaders press the case that Sinwar’s death is a turning point that should be used to unlock stalled cease-fire negotiations.
-
-...
-
-[Data](articles/86ed65e5.json)
-
-[Extended Data](ext_articles/86ed65e5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 03:23:37**
+As of **2024-10-21 03:39:22**
 
 ## Newspaper Stats
 
-*Scraped **50,461** Articles*
+*Scraped **50,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 505
 colombotelegraphcom | 507
 islandlk | 2,998
 economynextcom | 3,084
-dailyftlk | 3,443
+dailyftlk | 3,446
 adalk | 4,681
 dailymirrorlk | 4,733
 adaderanalk | 5,976
@@ -26,11 +26,79 @@ adaderanasinhalalk | 8,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,461 (100.0%) of 50,461 articles have been extended.
+50,464 (100.0%) of 50,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Marikkar slams Govt. for failing to deliver on key promises
+
+*2024-10-21 02:58:40* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-slams-Govt-for-failing-to-deliver-on-key-promises/56-768223) · `en`
+
+Expresses disappointment over escalating cost of living and heavy tax burden faced by people
+
+Says despite having been in power for 28 days, has yet to provide any substantial relief to the public
+
+Calls for establishment of a balanced Parliament, one that includes experienced and capable persons from across party lines
+
+Samagi Jana Balawegaya (SJB) Colombo district candidate S.M. Marikkar voiced strong criticism over the weekend against the current National People’s Power (NPP) Government, highlighting their failure to deliver on key promises made during their election campaign.
+
+Marikkar expressed disappointment over the escalating cost of living and heavy tax burden faced by the public, while accusing the Government of prioritising media campaigns over meaningful governance.
+
+...
+
+[Data](articles/b1dbded4.json)
+
+[Extended Data](ext_articles/b1dbded4.ext.json)
+
+---
+
+### Imthiaz slams Govt. refusal to sign joint UN letter condemning Israel
+
+*2024-10-21 02:57:39* · [`dailyftlk`](https://www.ft.lk/news/Imthiaz-slams-Govt-refusal-to-sign-joint-UN-letter-condemning-Israel/56-768222) · `en`
+
+Says letter reaffirms the crucial role of UN in mediating global conflicts and reflects growing call for justice and peace
+
+Recalls SL’s consistent backing of Palestinian rights at the UN and says country has proud history of upholding international peace and justice
+
+Stresses refusal to sign letter signals unfortunate shift away from such values when global instability demands SL remain committed to multilateral diplomacy
+
+Requests SL to reconsider position and align foreign policy with efforts that uphold dialogue and fairness
+
+Former Samagi Jana Balawegaya (SJB) MP Imthiaz Bakeer Markar expressed deep concern over Sri Lanka’s recent decision not to sign the joint letter issued by 105 countries condemning Israel’s ban on UN Secretary-General António Guterres from entering the country.
+
+...
+
+[Data](articles/49898ce7.json)
+
+[Extended Data](ext_articles/49898ce7.ext.json)
+
+---
+
+### Gammanpila reminds President of deadline to release Easter attack reports
+
+*2024-10-21 02:55:30* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-reminds-President-of-deadline-to-release-Easter-attack-reports/56-768221) · `en`
+
+Says deadline given to President Anura Kumara Dissanayake to release reports will lapse today morning
+
+Claims it is Dissanayake’s constitutional responsibility to release reports, and failure to do so could lead to severe consequences
+
+Notes he will release the reports if President fails to, even if it risks him being imprisoned
+
+Claims similar to Imran Khan using AI to send messages while imprisoned, he will use same technology to release reports, even from behind bars
+
+Former MP Udaya Gammanpila has issued a warning to President Anura Kumara Dissanayake regarding the release of two unpublished reports related to the 2019 Easter Sunday attacks.
+
+Speaking at a press briefing yesterday, Gammanpila reminded Dissanayake that the deadline he had given the latter to release the reports will expire at 10 a.m. today.
+
+...
+
+[Data](articles/0077eb6d.json)
+
+[Extended Data](ext_articles/0077eb6d.ext.json)
+
+---
 
 ### Ex-President Mahinda contests Govt. claims on official vehicle allocations
 
@@ -2253,73 +2321,5 @@ Police said that the interior of the air conditioner was completely destroyed by
 [Data](articles/8030db25.json)
 
 [Extended Data](ext_articles/8030db25.ext.json)
-
----
-
-### The Romanian torto's dollars stolen $ 600
-
-*2024-10-20 10:50:46* · [`adalk`](https://www.ada.lk/breaking_news/දළඳා-වදින්න-ගිය-රුමේනියානු-සංචාරිකාවගේ-ඩොලර්-600ක්-සොරකම්-කරලා/11-412565) · `si`
-
-Romanian tortoise theft: $600 stolen, police investigating. Woman complains about money loss. Suspect identified through hotel security footage. Inspector Ruwan Wijesinghe leading investigation.
-
-🟩
-
-Kalutara South Police are conducting further investigations on a number of Rs.
-
-The investigations have commenced investigations on a complaint by a woman named Christina.
-
-It is said that the complainant woman has been brought to Sri Lanka, and US $ 800 is transferred to the security.
-
-She went to the Dalada Maligawa, Kandy and returned to the sale of vehicle rent.
-
-The suspect is acting to be arrested after inspection of the hotel security cameras.
-
-Kalutara South Headquarters Inspector Ruwan Wijesinghe is conducting further investigations.
-
-◼️
-
-[Data](articles/acaadbac.json)
-
-[Extended Data](ext_articles/acaadbac.ext.json)
-
----
-
-### STEM teacher training for plantation schools successfully concludes
-
-*2024-10-20 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102809/stem-teacher-training-for-plantation-schools-successfully-concludes) · `en`
-
-The closing ceremony of the 3-month long teacher-training program in STEM subjects under Indian grant assistance for schools in the plantation regions of Sri Lanka was held recently at the Ministry of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure.
-
-The event was attended by the High Commissioner of India to Sri Lanka Santosh Jha, Secretary, Ministry of Education and Science and Technology Mrs. J.M. Thilaka Jayasundara and senior officials of the Ministry of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure and the Ministry of Education, Science and Technology and the National Institute of Education of Sri Lanka, according to a statement issued by the High Commission of India.
-
-...
-
-[Data](articles/202b3ff6.json)
-
-[Extended Data](ext_articles/202b3ff6.ext.json)
-
----
-
-### Women's World Cup 20 Final Today
-
-*2024-10-20 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202364) · `si`
-
-Women's World Cup T20: NZ vs SA today at 7:30 PM in Dubai. Sri Lankan judge Nimali Perera to officiate, marking her country's first participation in a World Cup final.
-
-🟩
-
-The finals of the World Cup Women's Twenty20 Women's Cricket Tournament will be held today (20).
-
-The match between New Zealand and South African femeless women's teams will commence at 7.30 pm today at Dubai.
-
-A Sri Lankan judge Nimali Perera has received the opportunity to act as a judge in the final player of the Women's World Cup.
-
-Accordingly, she will become the first Sri Lankan judge to act as a judge in the field of a World Cup.
-
-◼️
-
-[Data](articles/863852b0.json)
-
-[Extended Data](ext_articles/863852b0.ext.json)
 
 ---

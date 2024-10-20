@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 22:39:25**
+As of **2024-10-20 22:57:48**
 
 ## Newspaper Stats
 
-*Scraped **50,441** Articles*
+*Scraped **50,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,083
 dailyftlk | 3,433
 adalk | 4,680
 dailymirrorlk | 4,733
-adaderanalk | 5,975
+adaderanalk | 5,976
 tamilmirrorlk | 6,907
 virakesarilk | 8,092
 adaderanasinhalalk | 8,759
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,759
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,441 (100.0%) of 50,441 articles have been extended.
+50,442 (100.0%) of 50,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Prabowo becomes Indonesia’s eighth president, vows to tackle corruption
+
+*2024-10-20 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102818/prabowo-becomes-indonesias-eighth-president-vows-to-tackle-corruption) · `en`
+
+Indonesia’s Prabowo Subianto on Sunday took over as president of the world’s third-largest democracy, vowing to combat internal issues such as corruption that plague the country and to make it more self-sufficient.
+
+The 73-year-old has undergone a remarkable transformation, from being a former military commander facing unproven allegations of rights abuses to sweeping the polls and now leading the country of 280 million people.
+
+Wearing a traditional black hat and navy suit with a woven maroon and golden sarong, Prabowo officially became Indonesia’s eighth president on Sunday morning after he was sworn in during a ceremony at Indonesia’s parliament.
+
+Prabowo, who unsuccessfully ran for the presidency twice before, said in a fiery speech to lawmakers he would be president for all Indonesians and challenged the nation to help him face down the country’s problems.
+
+“We must always realise that a free nation is where the people are free,” Prabowo said, at times raising his voice.
+
+...
+
+[Data](articles/61f1f249.json)
+
+[Extended Data](ext_articles/61f1f249.ext.json)
+
+---
 
 ### President conducts fair investigations into the Passover attack - President
 
@@ -2357,27 +2379,5 @@ Towers strong winds (s) temporarily in those sea areas. 70-80) Heavy showers can
 [Data](articles/c742f976.json)
 
 [Extended Data](ext_articles/c742f976.ext.json)
-
----
-
-### Sri Lanka and West Indies Day commences today
-
-*2024-10-20 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202360) · `si`
-
-Sri Lanka vs West Indies cricket series begins today. Three-day ODI match at Pallekale stadium. Sri Lanka won previous T20 series 2-1.
-
-🟩
-
-The West Indies team and the three-day one-day cricket tournament between the Sri Lanka team will commence today (20).
-
-The tournament will be held at the Pallekale International Cricket Stadium.
-
-Sri Lanka won the 3-match T20 cricket tournament 2-1.
-
-◼️
-
-[Data](articles/2d2087fc.json)
-
-[Extended Data](ext_articles/2d2087fc.ext.json)
 
 ---

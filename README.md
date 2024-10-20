@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 11:40:01**
+As of **2024-10-20 11:59:20**
 
 ## Newspaper Stats
 
-*Scraped **50,361** Articles*
+*Scraped **50,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 408
 bbccomsinhala | 505
 colombotelegraphcom | 505
 islandlk | 2,998
-economynextcom | 3,081
+economynextcom | 3,083
 dailyftlk | 3,433
-adalk | 4,668
+adalk | 4,669
 dailymirrorlk | 4,733
 adaderanalk | 5,967
-tamilmirrorlk | 6,897
+tamilmirrorlk | 6,898
 virakesarilk | 8,061
 adaderanasinhalalk | 8,742
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,361 (100.0%) of 50,361 articles have been extended.
+50,365 (100.0%) of 50,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Why not sign a strict letter?
+
+*2024-10-20 11:25:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டிப்புக்-கடிதத்தில்-கையெழுத்திடாதது-ஏன்/175-345713) · `ta`
+
+Sri Lanka refuses to sign joint letter condemning Israel's UN ban. This goes against the country's history of supporting peace and justice globally. It raises questions about Sri Lanka's stance on international issues and its commitment to diplomacy.
+
+🟩
+
+Mr. Imtiyas Pakir Markar's report on Sri Lanka's decision not to sign a joint letter condemning Israel's ban on UN Secretary -General
+
+Sri Lanka has a long and proud history of supporting multi -faceted, peace and justice in the global arena. Our country continues to support international efforts to resolve conflict and uphold the rights of the oppressed, including our firm support for Palestine in the United Nations.
+
+It is very worrying that Sri Lanka has decided not to sign a joint letter issued by 105 countries, denouncing Israel's ban on entering the country.
+
+The letter, especially in the ongoing Middle East crisis, reiterates the essential role of the United Nations in mediation and humanitarian assistance.. The refusal to join this joint call for justice and peace indicates a significant deviation from our concrete diplomatic traditions.
+
+...
+
+[Data](articles/9de22f6c.json)
+
+[Extended Data](ext_articles/9de22f6c.ext.json)
+
+---
 
 ### Gammanpila's challenge again
 
@@ -162,6 +186,36 @@ Further, the cause of the fire has not yet been identified and the Chilaw police
 
 ---
 
+### The cab driver who went to kill people under a cab
+
+*2024-10-20 10:02:23* · [`adalk`](https://www.ada.lk/breaking_news/කැබ්රියකට-යටකර-පුද්ගලයන්-මරා-දැමිමට-ගිය-කැබ්-රියදුරු-අල්ලයි/11-412564) · `si`
+
+Cab driver kills passengers Moneragala Wellassa arrest ongoing
+
+🟩
+
+In the Moneragala Wellassa area, two persons have been arrested in connection with the cabal and the cabin of the crime, said Moneragala Police.
+
+It has been identified as a resident of Moneragala, Moneragala, Kumbukaana, Kumbukana.
+
+According to the police, the suspect to kill the injured and the suspenses of the injured and the suspension of the injured, the suspects revealed that the accident had been revealed.
+
+The Kandy General Hospital is receiving critical injuries in the accident, the police said.
+
+A spokesman for the Moneragala at the Moneragala hospital stated that the condition of the injured was quite serious.
+
+The police said that the injured have been attended by a group of suspects in the accident, and a group of suspects had a conflict with the injured.
+
+In the Moneragala area, the police were present at the Moneragala, the Moneragala, the Moneragala area to travel to the Moneragala, Wellawaya main road.It was revealed at the table.
+
+...
+
+[Data](articles/0f439943.json)
+
+[Extended Data](ext_articles/0f439943.ext.json)
+
+---
+
 ### Shoots the co-ordinance of police orders
 
 *2024-10-20 09:47:42* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-අණ-නොතකා-ගිය-කැබ්රියට-වෙඩි-තබයි/11-412563) · `si`
@@ -289,6 +343,28 @@ The 42 -year -old father, a 40 -year -old mother and their 15 -year -old daughte
 [Data](articles/100f9881.json)
 
 [Extended Data](ext_articles/100f9881.ext.json)
+
+---
+
+### Sri Lanka restructures China Exim Loans, recapitalizing US$200mn in interest
+
+*2024-10-20 08:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-restructures-china-exim-loans-recapitalizing-us200mn-in-interest-184244/) · `en`
+
+ECONOMYNEXT  – Sri Lanka has restructured about 4 billion dollars of loans from the Export Import of Bank of China, capitalizing 200.9 million dollars of interest in arrears, a Finance Ministry report showed.
+
+By March 2024 Sri Lanka owed 3,993 million dollars of loan to China’s Exim Bank, which included 903.8 million US dollars of principle in arrears.
+
+China Exim Bank funded Sri Lanka’s Norochcholai coal plant, which was described by the island’s auditor general as the best investment made since, Mahaweli program with its hydro power plants in the 1980s. Coal provides the cheapest base load other than large hydros.
+
+China Exim is the first bilateral creditor to re-schedule its loans, and went ahead without waiting for sovereign bond holders to complete their restructure.
+
+A Finance Ministry report said China Exim Bank had capitalized 200.9 million US dollars of interest in arrears.
+
+...
+
+[Data](articles/14e3c69f.json)
+
+[Extended Data](ext_articles/14e3c69f.ext.json)
 
 ---
 
@@ -917,6 +993,26 @@ Sri Lanka will oppose India, the reception country on Sunday (20).
 [Data](articles/c45e383c.json)
 
 [Extended Data](ext_articles/c45e383c.ext.json)
+
+---
+
+### Sri Lanka Aviation clears bomb scare on Vistara amid threat to scores of Indian flights
+
+*2024-10-20 00:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-aviation-clears-bomb-scare-on-vistara-amid-threat-to-scores-of-indian-flights-184237/) · `en`
+
+ECONOMYNEXT – State-run Sri Lanka’s Airport and Aviation Services (Sri Lanka) (Private) Limited cleared bomb scare to India’s Vistara flight at the island nation’s main airport, an official said, amid similar threats to more than 70 Indian carriers across the world, foreign media reported.
+
+India-based Economic Times said more than 70 flights of Indian airlines have received bomb threats since Saturday morning including planes from Air India, IndiGo, Akasa Air, Vistara, SpiceJet, Star Air, and Alliance Air.
+
+It said multiple flights were affected, and necessary precautions are being taken by airlines in coordination with authorities, while the threats have been declared hoaxes.
+
+A top official at the Airport and Aviation Services (Sri Lanka) (Private) Limited (AASL) said there was no threat over the reported bomb scare on the Vistara Flight UK 131 (A320 Neo) from Mumbai to Colombo.
+
+...
+
+[Data](articles/10c5ffae.json)
+
+[Extended Data](ext_articles/10c5ffae.ext.json)
 
 ---
 
@@ -2239,91 +2335,5 @@ The Ports and Shipping sector has used only 3 percent of the budgeted capital in
 [Data](articles/b58ef302.json)
 
 [Extended Data](ext_articles/b58ef302.ext.json)
-
----
-
-### The train service returned to us
-
-*2024-10-19 11:53:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழமைக்கு-திரும்பிய-ரயில்-சேவை/175-345681) · `ta`
-
-Sri Lanka Railways resumes normal train service between Colombo Fort and Batticaloa as of today (19).
-
-🟩
-
-The Sri Lanka Railways Department has announced that the train service between Colombo Fort and Batticaloa has returned to normal today (19). Remble
-
-◼️
-
-[Data](articles/15af0aee.json)
-
-[Extended Data](ext_articles/15af0aee.ext.json)
-
----
-
-### Yuvati arrested in connection with murder
-
-*2024-10-19 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196632) · `ta`
-
-Woman arrested for murder in Gampaha. Police seize drugs. Second suspect caught.
-
-🟩
-
-Weliweriya police said that a woman has been arrested in connection with the murder of a 58 -year -old woman in September last September in the south of Gampaha, Weliweriya and Embaraaluwa.
-
-The second suspect, the second suspect of the murder, was arrested in the Bal Mahara area, police said.
-
-Police said that 05 grams of 600 milligrams of ice was seized from the arrested woman.
-
-◼️
-
-[Data](articles/ba4c235e.json)
-
-[Extended Data](ext_articles/ba4c235e.ext.json)
-
----
-
-### Epidase
-
-*2024-10-19 11:36:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சல்-பரவும்-அபாயம்/175-345680) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Epidase: Ministry warns of urinary pollution risk from mouse contamination. Officials advise injured individuals to avoid water contact due to potential germ entry through wounds."
-
-🟩
-
-The Ministry of Health said that the urinary pollution of the mice could be contaminated and the germs that cause rats can enter the body through wounds.
-
-As a precaution, health officials have advised people with injuries to avoid contact with water. (An)
-
-◼️
-
-[Data](articles/514d8d80.json)
-
-[Extended Data](ext_articles/514d8d80.ext.json)
-
----
-
-### 'Lady Tharushi' renews an old record for 39 years
-
-*2024-10-19 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202333) · `si`
-
-"Lady Tharushi breaks 39-year-old record in Sri Lankan youth championships. She set the mark of 4:35.7 in 1985 at age 16."
-
-🟩
-
-Sri Lanka Youth Amarasca was renewed a 39-year-old Sri Lankan junior (Under 20 years old).
-
-The female athletics Championships held at the Sugathadasa Stadium in the Sugathadasa Stadium, he established this special record.
-
-The junior Sri Lanka record that was completed by 4:35.7 in 1985, the 16-year-old Tharushi.
-
-◼️
-
-[Data](articles/3fd5f580.json)
-
-[Extended Data](ext_articles/3fd5f580.ext.json)
 
 ---

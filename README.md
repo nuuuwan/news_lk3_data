@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 05:45:59**
+As of **2024-10-20 06:12:37**
 
 ## Newspaper Stats
 
-*Scraped **50,328** Articles*
+*Scraped **50,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 406
 colombotelegraphcom | 504
 bbccomsinhala | 504
-islandlk | 2,996
+islandlk | 2,998
 economynextcom | 3,081
 dailyftlk | 3,433
 adalk | 4,664
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,734
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,319 (100.0%) of 50,328 articles have been extended.
+50,321 (100.0%) of 50,330 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -108,6 +108,22 @@ The basement areas under the regulated height were used for storage, considering
 
 [Data](articles/174bdbb6.json)
 
+[Extended Data](ext_articles/174bdbb6.ext.json)
+
+---
+
+### A New Passion in Writing & Getting Published
+
+*2024-10-20 01:33:00* · [`islandlk`](http://island.lk/a-new-passion-in-writing-getting-published/) · `en`
+
+As General Manager of Mount Lavinia Hotel (MLH), I led a diverse team of departmental heads. Some had been with the hotel for decades and held traditional views, while others were more adaptable to new trends. Among them was Executive Chef Publis Silva, who had worked at MLH since 1956, starting at the lowest level in the kitchen. Though rooted in tradition, Chef Publis had a flexible, collaborative approach and an unmatched work ethic. Leading his brigade of 80 chefs with distinction, he earned the respect of everyone. When the Chairman of the company, Sanath Ukwatte, decided to reward ‘The Manager of the Year,’ I recommended Chef Publis for the honour. It was awarded to him, with a car as the prize, a testament to his leadership.
+
+...
+
+[Data](articles/117a6654.json)
+
+[Extended Data](ext_articles/117a6654.ext.json)
+
 ---
 
 ### My clash with Philip Gunawardene in the parliament restaurant
@@ -153,6 +169,18 @@ Although I still have not read this book, skimming through it I think it is well
 ...
 
 [Data](articles/32532dee.json)
+
+---
+
+### Kumar David: Left Intellectual, Friend, Rascal
+
+*2024-10-20 00:56:00* · [`islandlk`](http://island.lk/kumar-david-left-intellectual-friend-rascal/) · `en`
+
+Much will be written in the coming days about the much-loved Kumar David— electrical engineer, brilliant academic, Left intellectual, and writer who passed away on Monday in Los Angeles. Others will write about his academic achievements, his contribution to the Sri Lankan Left, his writings, etc. My short piece is more anecdotal. Kumar had been unwell for some time. In his last email to me on 14 August, he wrote: ‘I am still in LA. Health not too good. Hope to be in SL early 2025 if my health improves.’ Irrepressible as he always was, he added: ‘I understand that you are conning the poor b….s in Papua New Guinea or some such place on Constitutional matters.’
+
+...
+
+[Data](articles/d0ecf6b0.json)
 
 ---
 
@@ -2253,37 +2281,5 @@ The Jathika Jana Balawegaya (JJB) government is raising debt more acutely than t
 [Data](articles/e8438dfe.json)
 
 [Extended Data](ext_articles/e8438dfe.ext.json)
-
----
-
-### GSCS International and JAAF drive sustainable development in apparel sector
-
-*2024-10-19 03:54:00* · [`islandlk`](http://island.lk/gscs-international-and-jaaf-drive-sustainable-development-in-apparel-sector/) · `en`
-
-GSCS International Ltd, with a global presence in over 35 countries, offers steady, sustainable, and enduring development as a provider of certification, assessment, audit, verification, inspection, and capacity-building services. GSCS International – Sri Lanka successfully organized the SustainSphere 2.0 program, aimed at innovating tomorrow’s industry through sustainability.
-
-A press release said: ‘Held in Sri Lanka, the event attracted a diverse audience, including representatives from academic institutions, government bodies, trade associations, brands, and various client organizations, all gathered to explore the future of sustainable development in the apparel industry.
-
-‘The first keynote address was delivered by Dr. Harshini Mallawarachchi, Senior Lecturer at the Department of Facilities Management, University of Moratuwa, Sri Lanka. Dr. Mallawarachchi emphasized Circular Economy: A Pathway for Net-Zero Apparel Manufacturing.
-
-...
-
-[Data](articles/348212a6.json)
-
----
-
-### Sampath Bank partners with Symphony Orchestra of Sri Lanka to launch historic trilingual concert
-
-*2024-10-19 03:13:00* · [`islandlk`](http://island.lk/sampath-bank-partners-with-symphony-orchestra-of-sri-lanka-to-launch-historic-trilingual-concert/) · `en`
-
-Sampath Bank is proud to announce its sponsorship of the Symphony Orchestra of Sri Lanka’s (SOSL) groundbreaking trilingual concert, set to take place on the 19th and 20th of October at Bishop’s College Auditorium. This landmark event will not only introduce the concept of a trilingual symphony orchestra concert for the first time in Sri Lanka but also serve to revive the beloved Pops Concert tradition, showcasing the versatility and talent of SOSL.
-
-As the sole sponsor, Sampath Bank PLC is thrilled to support this pioneering initiative, which reaffirms the Bank’s commitment to promoting the arts and fostering cultural inclusivity. This sponsorship aligns with Sampath Bank’s heritage as a truly Sri Lankan bank, where merging Western classical traditions with Sri Lankan music creates a future enriched by the magnificence of orchestral sounds, as the Symphony Orchestra of Sri Lanka pays homage to the nation’s rich diversity.
-
-...
-
-[Data](articles/6a26f3f0.json)
-
-[Extended Data](ext_articles/6a26f3f0.ext.json)
 
 ---

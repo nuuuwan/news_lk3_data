@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 17:09:07**
+As of **2024-10-20 17:23:47**
 
 ## Newspaper Stats
 
-*Scraped **50,398** Articles*
+*Scraped **50,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,083
 dailyftlk | 3,433
 adalk | 4,676
 dailymirrorlk | 4,733
-adaderanalk | 5,971
+adaderanalk | 5,972
 tamilmirrorlk | 6,905
 virakesarilk | 8,068
 adaderanasinhalalk | 8,750
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,750
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,398 (100.0%) of 50,398 articles have been extended.
+50,399 (100.0%) of 50,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Sri Lankan racer Yevan David wins on Euroformula debut at Monza
+
+*2024-10-20 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102814/sri-lankan-racer-yevan-david-wins-on-euroformula-debut-at-monza) · `en`
+
+Motopark’s Yevan David won on his Euroformula debut at a damp Monza. The 17-year-old is the first ever Sri Lankan to participate in this category having advanced from F4 racing.
+
+It was close at the top in practice, with a 1m43.444s from Jose Garfias in FP2 putting him ahead 0.05 seconds ahead of champion and FP1 pacesetter Brad Benavides.
+
+BVM Racing’s Francesco Simonazzi trailed by 0.496s in third and David was 0.744s back in fourth. STK Melnik’s Roman Roubicek was 9.669s slower than Garfias in eighth and last place.
+
+The track remained dry for qualifying on Saturday morning, and there was small gaps again. Benavides set a 1m41.418s to take pole by a slim 0.125s over David.
+
+Garfias and Fernando Barrichello were 0.435s and 0.52s back respectively, and Simonazzi was 0.643s off pole in fifth as his car bounced down the straights. Roubicek cut his gap to the pack by four seconds.
+
+...
+
+[Data](articles/2efb2d27.json)
+
+[Extended Data](ext_articles/2efb2d27.ext.json)
+
+---
 
 ### Donational election complaints
 
@@ -2313,33 +2335,5 @@ The Petta was evaluated to maintain a lifestyle free lifestyle from the meat.
 [Data](articles/a96163a5.json)
 
 [Extended Data](ext_articles/a96163a5.ext.json)
-
----
-
-### A cell phone exploding in Hatton
-
-*2024-10-19 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202347) · `si`
-
-Cell phone explodes during inspection at e-school in Hatton. Employee checks battery, causing sudden eruption. Experts warn about risk of overheating explosions in lithium-ion batteries.
-
-🟩
-
-It has erupted and destroyed when a server is inspected by an employee of a finished clothing.
-
-The incident had taken place in an e-school in Hatton town today (19).
-
-A servant has been given to his friend that the battery on his cell phone does not work long hours and inspected.
-
-When he is checking the mobile phone in that chance, the battery on the mobile phone has erupted at once.
-
-Mobile phone reparentrs said that this was the reason why the mobile phone batteries are overwhelmed.
-
-They say that batteries are at risk of swimming explosion.
-
-◼️
-
-[Data](articles/374c5fa9.json)
-
-[Extended Data](ext_articles/374c5fa9.ext.json)
 
 ---

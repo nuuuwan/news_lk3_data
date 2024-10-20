@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 12:58:01**
+As of **2024-10-20 13:09:24**
 
 ## Newspaper Stats
 
-*Scraped **50,370** Articles*
+*Scraped **50,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,90 @@ adalk | 4,670
 dailymirrorlk | 4,733
 adaderanalk | 5,968
 tamilmirrorlk | 6,901
-virakesarilk | 8,061
-adaderanasinhalalk | 8,742
+virakesarilk | 8,063
+adaderanasinhalalk | 8,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,370 (100.0%) of 50,370 articles have been extended.
+50,373 (100.0%) of 50,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Provincial Councils Risk
+
+*2024-10-20 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196686) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Provincial Councils Risk: SCC Ilangovan criticizes successor politics, highlighting crucial moment in North and East Tamil politics."
+
+🟩
+
+“I did not enter direct politics as the criticism of successor politics. There is now an important moment in the North and East Tamil politics ... ” - SCC Ilangovan
+
+◼️
+
+[Data](articles/41127f1a.json)
+
+[Extended Data](ext_articles/41127f1a.ext.json)
+
+---
+
+### Two persons arrested with ice drugs in Kalkisa
+
+*2024-10-20 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196679) · `ta`
+
+Two arrests made in Kalkisa: 27-year-old from Moratuwa and 28-year-old from Ratmalana found with 20g of ice drugs near Mount Lavinia police division.
+
+🟩
+
+Two persons have been arrested yesterday (19) with ice drugs near the Tanteenia Mawatha and Ratmalana railway station belonging to the Mount Lavinia Police Division.
+
+They have been arrested during a round -up by the information received by the group of Mount Lavinia.
+
+The arrested persons are from Moratuwa and Ratmalana, aged 27 and 28.
+
+10 grams of 100 milligrams and 10 g of 200 milligrams of ice have been seized from the arrested suspects.
+
+◼️
+
+[Data](articles/8e3ab939.json)
+
+[Extended Data](ext_articles/8e3ab939.ext.json)
+
+---
+
+### President to President Sierra Leom
+
+*2024-10-20 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202366) · `si`
+
+Sri Lanka: President Julius Mada Wanto arrives for CHOGM meeting. Private visit planned. Met by External Affairs Minister Vijitha Herath. Commonwealth Conference begins tomorrow in Samova.
+
+🟩
+
+President Julius Mada Wanto is due to arrive in Sri Lanka.
+
+The President is to arrive at the Commonwealth Heads of Government Meeting (CHOGM) in Samov.
+
+He will come to Sri Lanka for a private visit and Samoa will leave for the Kingdom tomorrow.
+
+President of Sierra Leon, arriving in the island, is to be met with External Affairs Vijitha Herath.
+
+The Commonwealth Conference will be held from tomorrow (21) and will be held in Samova from the 21st tomorrow.
+
+◼️
+
+[Data](articles/ff850958.json)
+
+[Extended Data](ext_articles/ff850958.ext.json)
+
+---
 
 ### Gammanpila sets deadline for President to release Easter attack reports
 
@@ -2267,73 +2339,5 @@ Speaking at a news conference held in Kandy, Ratnayake further noted that any pa
 [Data](articles/ff151ed5.json)
 
 [Extended Data](ext_articles/ff151ed5.ext.json)
-
----
-
-### Fuel prices can be reduced ...
-
-*2024-10-19 13:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையை-குறைக்க-முடியும்/175-345683) · `ta`
-
-Fuel prices may drop 15-20 rupees on Nov 1st, says former minister Kanjana Wijeesera. She urges commentators to reveal truths about fuel costs.
-
-🟩
-
-Former Minister Kanjana Wijeesera has said that the price of fuel will be reduced between 15 to 20 rupees on the first day of November.
-
-Former Minister Kanjana Wijeesera has said that those who have commented on fuel prices in the past should tell the people the truth at the time.. Remble
-
-◼️
-
-[Data](articles/a4573daa.json)
-
-[Extended Data](ext_articles/a4573daa.ext.json)
-
----
-
-### Fuel prices can be marked ...
-
-*2024-10-19 13:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலையை-குறிக்க-முடியும்/175-345683) · `ta`
-
-Fuel prices may drop 15-20 rupees on Nov 1st, says former minister Kanjana Wijeesera. She urges commentators to reveal truths about fuel costs.
-
-🟩
-
-Former Minister Kanjana Wijeesera has said that the price of fuel will be reduced between 15 to 20 rupees on the first day of November.
-
-Former Minister Kanjana Wijeesera has said that those who have commented on fuel prices in the past should tell the people the truth at the time.. Remble
-
-◼️
-
-[Data](articles/dcf0fae2.json)
-
-[Extended Data](ext_articles/dcf0fae2.ext.json)
-
----
-
-### Election campaigns of the executive power begins Anuradhapura
-
-*2024-10-19 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202336) · `si`
-
-Anuradhapura election campaign starts today. Dilith Jayaweera inaugurates at Sri Maha Bodhi. He emphasizes economic improvement over political gain. Campaign focuses on national development rather than personal interests.
-
-🟩
-
-The election campaign to the upcoming general election begins today (19), Anuradhapura.
-
-Prior to the beginning of the propaganda, Dilith Jayaweera gave birth to the Sri Maha Bodhi and Ruwanwue Great of Anuradhapura.
-
-Meanwhile, a Gampaha District Leader of the UNP, the party leader Dilith Jayaweera was also present at the universality held in the Kudaggedihena area yesterday.
-
-He said that he was not politics, not politics, not a man of money, and he was expensive.
-
-"We do not know the politics of the hand, not politics, who runs out of anyone. This country needs to be determined to improve the country's economy. It's for that we work hard. "
-
-"We have the chance of gold. The result of this road may be a result. "
-
-◼️
-
-[Data](articles/ee57dfbc.json)
-
-[Extended Data](ext_articles/ee57dfbc.ext.json)
 
 ---

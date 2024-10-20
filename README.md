@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 11:23:41**
+As of **2024-10-20 11:40:01**
 
 ## Newspaper Stats
 
-*Scraped **50,357** Articles*
+*Scraped **50,361** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,081
 dailyftlk | 3,433
-adalk | 4,667
+adalk | 4,668
 dailymirrorlk | 4,733
 adaderanalk | 5,967
-tamilmirrorlk | 6,895
+tamilmirrorlk | 6,897
 virakesarilk | 8,061
-adaderanasinhalalk | 8,741
+adaderanasinhalalk | 8,742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,357 (100.0%) of 50,357 articles have been extended.
+50,361 (100.0%) of 50,361 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Gammanpila's challenge again
+
+*2024-10-20 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202365) · `si`
+
+Udaya Gammanpila challenges President over delayed release of student reports related to Easter attacks. Threatens impeachment if reports aren't published under Section 38 of the Constitution. Deadline set for tomorrow morning.
+
+🟩
+
+Former Parliamentarian Udaya Gammanpila says that the time given to the President to publish the two students who were not promoting the two students who were not promoting the two students regarding the terrorist attack.
+
+"The time I had given the President to publish the two reports of the Passover attack will be completed tomorrow morning. Then you have the risk of risk to the president in the morning to publish these reports to be published in the Constitution and avoid the risk of bringing an impeachment motion against him. However, if the president will defart the issue of Section 38 of the Constitution, I will definitely submit these reports. "
+
+◼️
+
+[Data](articles/2c7f617e.json)
+
+[Extended Data](ext_articles/2c7f617e.ext.json)
+
+---
+
+### “400 files will be opened for legal action”
+
+*2024-10-20 11:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/400-கோப்புகள்-சட்ட-நடவடிக்கைக்காக-திறக்கப்படும்/175-345712) · `ta`
+
+"400 corruption/fraud cases to be prosecuted: President Anura Kumara Dissanayake announces legal action against 400 files involving corruption and fraud during election rally."
+
+🟩
+
+President Anura Kumara Dissanayake said that 400 files related to corruption and fraud have to be with the Attorney General and all of them will be opened for legal action.
+
+The President made this statement while addressing the election rally in support of his party in Tangalle.
+
+He added that the government will never be tired of taking these measures legally and formally.
+
+◼️
+
+[Data](articles/1e07b99f.json)
+
+[Extended Data](ext_articles/1e07b99f.ext.json)
+
+---
+
+### Anura denied Ranil's request
+
+*2024-10-20 11:11:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-கோரிக்கையை-மறுத்தார்-அநுர/175-345711) · `ta`
+
+President Anura Kumara Dissanayake rejects Ranil Wickremesinghe's requests: denies 163 cooks, 163 security personnel, 30 umbrellas, over 20 vehicles. Offers only 3 vehicles as per current regulations. Introduces new law against former presidents using public funds. Recovered two patients' cars from Wickremesinghe and Mahinda Rajapaksa's homes, stating these facilities are not personal property.
+
+🟩
+
+President Anura Kumara Dissanayake has said that he has rejected comprehensive concessions including former President Ranil Wickremesinghe, 163 cooks, 163 security personnel, 30 umbrellas and more than 20 vehicles.
+
+The president said in a general rally that Wickremesinghe will be given only three vehicles in accordance with the current government regulations.
+
+He added that the government would introduce a new law to prevent former presidents from supporting public funds.
+
+In addition, Dissanayake, who has recovered two patients' cars at the homes of Wickremesinghe and former President Mahinda Rajapaksa, stressed that these facilities should not be considered a personal property.
+
+◼️
+
+[Data](articles/24ce1893.json)
+
+[Extended Data](ext_articles/24ce1893.ext.json)
+
+---
 
 ### STEM teacher training for plantation schools successfully concludes
 
@@ -93,6 +159,32 @@ Further, the cause of the fire has not yet been identified and the Chilaw police
 [Data](articles/a008f2cb.json)
 
 [Extended Data](ext_articles/a008f2cb.ext.json)
+
+---
+
+### Shoots the co-ordinance of police orders
+
+*2024-10-20 09:47:42* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-අණ-නොතකා-ගිය-කැබ්රියට-වෙඩි-තබයි/11-412563) · `si`
+
+Udugama police station reports incident at junction. Three flee, cows and buffalo found. Suspects identified, one arrested. Investigations ongoing.
+
+🟩
+
+The Udugama police station has spoken by the Udugama police station at the Udugama Junction at the Udugama Junction at Udugama Junction, in the Hiniduma area.
+
+Three people in the corporation have fled.In checking, a cow and a buffalo is found to be put in place.
+
+The cattle are loaded from the Hiniduma area and the Hiniduma Police have passed the suspects at the Hiniduma Police raid.
+
+One suspect who fled was arrested by the Udugama Police. The suspect is a resident of Hambantota.
+
+Udugama Police are conducting investigations to find other suspects. OIC Chief Inspector Duminda Kannara, OIC of Udugama Police is conducting investigations.
+
+◼️
+
+[Data](articles/f990aa1f.json)
+
+[Extended Data](ext_articles/f990aa1f.ext.json)
 
 ---
 
@@ -981,6 +1073,20 @@ Speaking further the Leader of the Gampaha District and Gampaha District Candid 
 [Data](articles/22e105c3.json)
 
 [Extended Data](ext_articles/22e105c3.ext.json)
+
+---
+
+### The  Brazen Abduction and  Brutal Murder of Militant Turned Journalist “Taraki” Sivaram.
+
+*2024-10-19 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84927) · `en`
+
+President Anura Kumara Dissanayake frequently emphasised during his election campaign that he would re-open investigations into incidents  of colossal fraud,mass murder and assassinations where the course of justice was  allegedly obstructed or thwarted by those in power in the past. Recent happenings indicate that president Dissanayake and his Government are serious about their campaign promises and  are initiating follow up action in this regard. With parliamentary polls   due next month, electoral  prospects for the ruling National Peoples Power(NPP) Govt would be brighter if it  can demonstrate, that it is taking stern  action to ensure justice will be done in these matters.
+
+...
+
+[Data](articles/b93eae9c.json)
+
+[Extended Data](ext_articles/b93eae9c.ext.json)
 
 ---
 
@@ -2219,121 +2325,5 @@ The junior Sri Lanka record that was completed by 4:35.7 in 1985, the 16-year-ol
 [Data](articles/3fd5f580.json)
 
 [Extended Data](ext_articles/3fd5f580.ext.json)
-
----
-
-### Arjuna Herath appointed chairman of the Board of Investment
-
-*2024-10-19 11:19:25* · [`adalk`](https://www.ada.lk/breaking_news/ආයෝජන-මණ්ඩලයේ-සභාපති-ධුරයට-අර්ජුන-හේරත්/11-412559) · `si`
-
-Arjuna Herath named Chairman of Sri Lanka's Board of Investment. Formerly led Institute of Chartered Accountants and Colombo Stock Exchange. Served on data protection authority and accounting standards board. Senior Chartered Accountant with extensive experience.
-
-🟩
-
-An arjuna Herath, a senior Chartered Accountant, as the new Chairman of the Board of Investment of Sri Lanka, has been appointed as a Senior Chartered Accountant.
-
-Ajuna Herath is a former Chairman of the Institute of Chartered Accountants of Sri Lanka and has also held higher levels of higher rates.
-
-He has also served as a member of the Colombo Stock Exchange, the former Chairman of the Sri Lanka Private Data Protection Authority, Sri Lanka Accounts and Audit Standards.
-
-◼️
-
-[Data](articles/f1e537ab.json)
-
-[Extended Data](ext_articles/f1e537ab.ext.json)
-
----
-
-### Colombo-Batticaloa railway trains restored
-
-*2024-10-19 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202331) · `si`
-
-Sri Lanka Railways restores service between Colombo and Batticaloa after repairing damaged track caused by train collision involving fuel transport. Accident occurred near Rothalawewa, killing two wild elephants.
-
-🟩
-
-The Sri Lanka Railways Department announced today (19) that train services were restored between Colombo Fort and Batticaloa.
-
-The train has begun running due to repairing the dilapidated railway line due to a train after a train.
-
-The accident occurred yesterday in the Rothalawewa area between the minority and Hingurakgoda yesterday.
-
-The accident had occurred when a herd of fuel transported from the Kolonnawa Oil Storage Terminal.
-
-The railway line was severely damaged and the train had fuel tanks. Two wild elephants were also killed.
-
-◼️
-
-[Data](articles/dbb97f1f.json)
-
-[Extended Data](ext_articles/dbb97f1f.ext.json)
-
----
-
-### Students don't be afraid of HPV vaccine - Ministry of Health
-
-*2024-10-19 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/196629) · `ta`
-
-Ministry of Health reassures students about HPV vaccine safety. Side effects reported in few cases were temporary and treated. No long-term health risks. Vaccine prevents cervical cancer.
-
-🟩
-
-The Ministry of Health has said that schoolchildren should not be unnecessarily worried about the side effects of the HPV vaccine, which is aimed at preventing cervical cancer.
-
-After the HPV vaccine was injected to five students in an elementary school in Kalutara, the students have signs of abdominal pain, nausea and headaches.
-
-However, they have been healed after being given appropriate medical treatment to students who are ill.
-
-The report further stated that these conditions are due to fear of students when the vaccine is injected.
-
-◼️
-
-[Data](articles/e64fa9d9.json)
-
-[Extended Data](ext_articles/e64fa9d9.ext.json)
-
----
-
-### Colombo-Batticaloa train services resume
-
-*2024-10-19 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102792/colombo-batticaloa-train-services-resume) · `en`
-
-Train services between Colombo Fort and Batticaloa have resumed today after the tracks were cleared following yesterday’s accident involving a fuel train near the Minneriya Rotawewa area, according to Sri Lanka Railways.
-
-All train services between Batticaloa and Colombo Fort were canceled yesterday (18), following the derailment of a train after colliding a herd of wild elephants.
-
-Six daily trains operate on this route, but services were suspended due to a collision involving a train transporting fuel.
-
-The incident occurred between the Minneriya and Higurakgoda railway stations when the train, en route from the Kolonnawa petroleum storage terminal to Batticaloa, struck a herd of wild elephants.
-
-The incident tragically resulted in the death of two wild elephants and left another seriously injured. The train, en route to Batticaloa, was transporting fuel when it struck the elephants, causing the derailment.
-
-...
-
-[Data](articles/bd8bcf13.json)
-
-[Extended Data](ext_articles/bd8bcf13.ext.json)
-
----
-
-### 22 year-old female arrested over murder in Weliweriya
-
-*2024-10-19 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102791/22-year-old-female-arrested-over-murder-in-weliweriya) · `en`
-
-Police have arrested a female suspect wanted for the murder of a 58-year-old woman in Embaraluwa South, Weliweriya.
-
-The arrest was made following an investigation into the murder, which took place in September, by the Weliweriya Police.
-
-The arrested woman, the second suspect in the murder, had fled the area after the incident but was apprehended yesterday in the Balummahara area.
-
-During her arrest, officers also found 5 grams and 600 milligrams of ‘Ice’ (crystal methamphetamine) in her possession.
-
-Weliweriya Police stated that the arrested suspect is a 22-year-old resident of Kalubowitiyana.
-
-◼️
-
-[Data](articles/6feffd5a.json)
-
-[Extended Data](ext_articles/6feffd5a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 23:59:03**
+As of **2024-10-21 00:12:20**
 
 ## Newspaper Stats
 
-*Scraped **50,446** Articles*
+*Scraped **50,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 408
 bbccomsinhala | 505
 colombotelegraphcom | 505
 islandlk | 2,998
-economynextcom | 3,083
+economynextcom | 3,084
 dailyftlk | 3,433
 adalk | 4,681
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,446 (100.0%) of 50,446 articles have been extended.
+50,447 (100.0%) of 50,447 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1400,6 +1400,34 @@ He questioned as to what can be achieved in this country by making Sajith Premad
 
 ---
 
+### Sri Lanka to buy medical supplies from local companies for one year
+
+*2024-10-20 14:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-buy-medical-supplies-from-local-companies-for-one-year-184260/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s cabinet has approved a plan by the Ministry of Health to buy medical supplies from local companies for one year, according to a government statement.
+
+The Medical Supplies Division of the Ministry of Health has found that 49 local companies could supply 454 types of medical supplies including medicines.
+
+The cabinet had approved entering into agreements with identified companies for one year for medical supplies and medicines.
+
+Sri Lanka’s government in 2013 had decided to purchase medicines from local companies without tender under so-called ‘buy back agreements’ for 15 years through the State Pharmaceuticals Corporation.
+
+In 2018 the, a decision was made to have buy back agreements without competitive tenders for 10 years.
+
+Originally the priviledge was to be given for only 5 years, under a so-called ‘infant industry’ argument.
+
+Sri Lanka gives 10-year ‘buyback’ deals to local drug makers
+
+Malaysia firm to build US$10mn pharma industrial zone in Sri Lanka
+
+...
+
+[Data](articles/4170838c.json)
+
+[Extended Data](ext_articles/4170838c.ext.json)
+
+---
+
 ### West Indies toss the toss
 
 *2024-10-20 14:04:08* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-කොදෙව්-කණ්ඩායමට/9-412570) · `si`
@@ -2377,29 +2405,5 @@ The cause of the fire is yet to be determined, and Chilaw Police have launched a
 [Data](articles/894efaee.json)
 
 [Extended Data](ext_articles/894efaee.ext.json)
-
----
-
-### Three killed in Chilaw House
-
-*2024-10-20 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202362) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Chilaw: Fire kills family of three in Sinhapurapura. Mother, father, and child perished in blaze. Police investigation ongoing."
-
-🟩
-
-Three persons were killed in a fire that occurred at a house in Sinhapurapura area in Chilaw.
-
-The Chilaw police said that the mother, father and their child had died in a fire that had occurred yesterday.
-
-◼️
-
-[Data](articles/13880d12.json)
-
-[Extended Data](ext_articles/13880d12.ext.json)
 
 ---

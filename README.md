@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 00:12:20**
+As of **2024-10-21 00:23:41**
 
 ## Newspaper Stats
 
-*Scraped **50,447** Articles*
+*Scraped **50,449** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 408
 bbccomsinhala | 505
-colombotelegraphcom | 505
+colombotelegraphcom | 507
 islandlk | 2,998
 economynextcom | 3,084
 dailyftlk | 3,433
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,447 (100.0%) of 50,447 articles have been extended.
+50,449 (100.0%) of 50,449 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -713,6 +713,32 @@ Current President Anura Kumara Dissanayake received 55 lakh votes. Sajith Premad
 [Data](articles/967560f0.json)
 
 [Extended Data](ext_articles/967560f0.ext.json)
+
+---
+
+### Confronting The Low Levels Of Female Representation In Parliament; Are Nominations Enough?
+
+*2024-10-20 18:32:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/confronting-the-low-levels-of-female-representation-in-parliament-are-nominations-enough/) · `en`
+
+...
+
+[Data](articles/cce8c6d0.json)
+
+[Extended Data](ext_articles/cce8c6d0.ext.json)
+
+---
+
+### Is AKD The Robin Hood Of Sri Lanka?
+
+*2024-10-20 18:30:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-akd-the-robin-hood-of-sri-lanka/) · `en`
+
+Robin Hood was a legend in the middle ages, who took away wealth from the Sheriff and the rich, to give the poor. In many of the stories about him, he was depicted as a heroic outlaw and rebel against tyranny. He was living in the Sherwood forest in England, with his loyal comrades fighting for justice, while facing tremendous hardships.
+
+...
+
+[Data](articles/3be2fa6a.json)
+
+[Extended Data](ext_articles/3be2fa6a.ext.json)
 
 ---
 
@@ -2363,47 +2389,5 @@ The employees have been sick due to heavy vomiting and the slowdown.
 [Data](articles/03ca68fe.json)
 
 [Extended Data](ext_articles/03ca68fe.ext.json)
-
----
-
-### 8 out of the 16 vehicles handed over to Ranil
-
-*2024-10-20 08:28:32* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දගේ-වාහන-16න්-8ක්-යළි-භාරදෙයි---රනිල්ට-වාහන-11ක්/11-412561) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former President Mahinda Rajapaksa's government transferred 8 out of 16 vehicles to current Prime Minister Ranil Wickremesinghe. The announcement highlights the handover of 11 vehicles from Rajapaksa's fleet to Wickremesinghe's office.
-
-🟩
-
-The government announced that 8 out of the 16 government vehicles used by former President Mahinda Rajapaksa has handed over 11 vehicles in Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/6a8bfe52.json)
-
-[Extended Data](ext_articles/6a8bfe52.ext.json)
-
----
-
-### Three killed in house fire in Chilaw
-
-*2024-10-20 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102806/three-killed-in-house-fire-in-chilaw) · `en`
-
-Three members of the same family including a teenager were reportedly killed in a house fire in the Sinhapura area of Chilaw.
-
-The victims, a mother, father, and their daughter died in the fire, which broke out last night (19), according to the Chilaw Police.
-
-Police reported that the bodies were discovered during a search following information they received regarding a house fire. The deceased have been identified as a 42-year-old man, a 40-year-old woman, and a 15-year-old girl.
-
-The cause of the fire is yet to be determined, and Chilaw Police have launched an investigation into the incident.
-
-◼️
-
-[Data](articles/894efaee.json)
-
-[Extended Data](ext_articles/894efaee.ext.json)
 
 ---

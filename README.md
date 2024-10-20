@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 15:39:26**
+As of **2024-10-20 15:58:17**
 
 ## Newspaper Stats
 
-*Scraped **50,387** Articles*
+*Scraped **50,390** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,083
 dailyftlk | 3,433
-adalk | 4,674
+adalk | 4,675
 dailymirrorlk | 4,733
 adaderanalk | 5,971
-tamilmirrorlk | 6,903
+tamilmirrorlk | 6,905
 virakesarilk | 8,063
 adaderanasinhalalk | 8,748
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 8,748
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,387 (100.0%) of 50,387 articles have been extended.
+50,390 (100.0%) of 50,390 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Telicom leader resigns
+
+*2024-10-20 15:24:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெலிகொம்-தலைவர்-இராஜினாமா/175-345726) · `ta`
+
+Sri Lanka Telecom PLC: Telicom leader resigns. Resignation letter sent to Board of Directors on 18th. Effective October 16, 2024.
+
+🟩
+
+The resignation letter in this regard has been sent to the Board of Directors of the Sri Lanka Telecom PLC on the 18th.
+
+The report also stated that the resignation of A.'s resignation as the Executive Director of the Sri Lanka Telecom PLC will come into effect on October 16, 2024.
+
+◼️
+
+[Data](articles/3d10cbee.json)
+
+[Extended Data](ext_articles/3d10cbee.ext.json)
+
+---
+
+### Target for the exclusive secretary firing
+
+*2024-10-20 15:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரத்தியேக-செயலாளர்-துப்பாக்கிச்-சூட்டுக்கு-இலக்கு/175-345725) · `ta`
+
+Former MP and ministerial aide killed in Kandy shooting incident. Police investigation ongoing.
+
+🟩
+
+Hospital sources and Kandy police say that a man who served as a former parliamentarian of the Kandy district and the exclusive secretary of the former Minister of State was admitted to the Kandy National Hospital after being admitted to the Kandy National Hospital.
+
+Senior Superintendent of Police Anurutha Bandaranaike said that the man was shot dead in the Mahayawa area and whether he was shot himself.
+
+◼️
+
+[Data](articles/d0a8e6fb.json)
+
+[Extended Data](ext_articles/d0a8e6fb.ext.json)
+
+---
 
 ### Lohan Ratwatte Meets Secret of Secretary
 
@@ -217,6 +257,30 @@ The moon is that young youths have come to this party from various parts of the 
 [Data](articles/2bf1143e.json)
 
 [Extended Data](ext_articles/2bf1143e.ext.json)
+
+---
+
+### India to be found in New Zealand
+
+*2024-10-20 13:19:10* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තය-හමුවේ-ඉන්දියාව-ලද-පරාජය/9-412569) · `si`
+
+New Zealand defeats India in cricket test match. India bats first, scores 92 runs. New Zealand chases 107, wins by 8 wickets. Second innings: India 462/10, New Zealand 402/10.
+
+🟩
+
+Tourist New Zealand beat India by eight wickets in the first Test match against the Indian team.
+
+Chasing a target of 107, New Zealand won the match with 110 runs.
+
+Batting first, India scored 46 legs and innerground 46 runs for the first innings of New Zealand scored 402 runs for the first innings.
+
+The second innings, the Indian team scored 462 runs for the loss of 462 runs.
+
+◼️
+
+[Data](articles/dd8a702a.json)
+
+[Extended Data](ext_articles/dd8a702a.ext.json)
 
 ---
 
@@ -2257,67 +2321,5 @@ In the meantime, the young man was killed and died of a car driver in a foreign 
 [Data](articles/7017d570.json)
 
 [Extended Data](ext_articles/7017d570.ext.json)
-
----
-
-### Drone attacks on Israel's Prime Minister's house
-
-*2024-10-19 15:58:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-பிரதமர்-வீட்டின்-மீது-ட்ரோன்-தாக்குதல்/50-345685) · `ta`
-
-Drone attack damages Netanyahu's house; Israel-Lebanon conflict escalates
-
-🟩
-
-It has been reported that the drone sent from Lebanon has exploded near the house of Israel's Prime Minister Benjamin Netanyahu, and part of the building has been damaged.
-
-The war has been going on for the past year between Hamas and Israel, which operates in the Gaza region of Palestine. On the orders of Israeli Prime Minister Benjamin Netanyahu, the country's forces entered Gaza and continue to attack. The war continues a year later.
-
-Israel's political wing, Ismail Honey, was settled last June. Israel's resolution was set up by an air strike on the house where Ismail Honey was staying, as Iran's new President Masood Besseskian went to the swearing -in ceremony.
-
-...
-
-[Data](articles/516f734c.json)
-
-[Extended Data](ext_articles/516f734c.ext.json)
-
----
-
-### Indian Navy ship ‘Kalpeni’ visits Colombo
-
-*2024-10-19 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102797/indian-navy-ship-kalpeni-visits-colombo) · `en`
-
-Indian Navy’s ship, INS Kalpeni, arrived in Colombo today (19), according to a statement issued by the High Commission of India.
-
-The High Commission noted that the ship was warmly welcomed by the Sri Lanka Navy in accordance with naval traditions. The Commanding Officer, Commander Sunil Kulhari will call on Commander, Western Naval Area, Rear Admiral Chinthaka Kumarasinghe during the stay.
-
-INS Kalpeni is a Car Nicobar class Waterjet FAC of the Indian Navy commissioned on 14 October 2010. The ship is named after Kalpeni Island in the Lakshadweep group of Islands. The ship is based at Kochi with the primary role of Coastal Surveillance and Defence.  The ship specialises in anti-smuggling, Vessel Boarding Search & Seizure as well as Search & Rescue operations.
-
-...
-
-[Data](articles/147c2c3e.json)
-
-[Extended Data](ext_articles/147c2c3e.ext.json)
-
----
-
-### Hesbullah unmanned air strikes on Israeli prime minister's house
-
-*2024-10-19 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196652) · `ta`
-
-Hesbullah launches drone attack on Netanyahu's home. Three drones enter Israel from Lebanon; two intercepted, one hits building. No injuries as PM not present.
-
-🟩
-
-Hesbullah has launched an unmanned air strike on the house of Israeli Prime Minister Benjamin Netanyahu, a coastal city of Israel.
-
-According to the Israeli Security Forces, three unmanned flights have been entered into Israel crossing the Lebanon border and 2 unmanned flights have been intercepted and destroyed.
-
-At the same time, another unmanned aircraft reportedly hit the building wall. However, the Israeli Security Forces said that Benjamin Netanyaku and his wife were not in the house and no one was injured in the incident.
-
-◼️
-
-[Data](articles/e3fe4f9b.json)
-
-[Extended Data](ext_articles/e3fe4f9b.ext.json)
 
 ---

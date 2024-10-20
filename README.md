@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 17:23:47**
+As of **2024-10-20 17:40:11**
 
 ## Newspaper Stats
 
-*Scraped **50,399** Articles*
+*Scraped **50,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,083
 dailyftlk | 3,433
-adalk | 4,676
+adalk | 4,678
 dailymirrorlk | 4,733
 adaderanalk | 5,972
 tamilmirrorlk | 6,905
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,750
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,399 (100.0%) of 50,399 articles have been extended.
+50,401 (100.0%) of 50,401 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,32 @@ Of the 401 complaints received, 309 have already been solved, the Commission add
 [Data](articles/cd300a9b.json)
 
 [Extended Data](ext_articles/cd300a9b.ext.json)
+
+---
+
+### With the deportation of Chinese deportation, Katunayake's telephone calls
+
+*2024-10-20 16:37:28* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ජාතිකයන්-පිටුවහල්-කිරීමත්-සමග-කටුනායකට-බලපෑම්-සහිත-දුරකතන-ඇමතුම්/11-412573) · `si`
+
+Chinese nationals deported from Katunayake airport due to alleged involvement in cybercrime and money laundering. Two individuals, aged 36 and 37, were sent back to Thailand after questioning by immigration officials. The incident sparked anonymous phone calls to the Department of Immigration and Emigration.
+
+🟩
+
+The officers of the SLFP have taken place on the night of 10/19 to deport two allegations of the suspension of the Katunayake airport.
+
+These suspensions were inactivated by the Chinese national passports, while their national passports were born in Chinese national passports, they had a village name and Turkish national, true passports (genuine passport)Have.
+
+According to the Chinese government's law, the country's citizenship will not be able to keep dual citizenship.
+
+The two 36-year-old and 37 were 37 years old at 09.35 pm Thailand from Bangkok from Bangkok from Bangkok from Bangkok from Bangkok from Bangkok from Bangkok from Bangkok, UL, and pay for the Katunayake Airport on 403
+
+The reason for the visit to Sri Lanka was inquired by the Department of Immigration and the Department.
+
+...
+
+[Data](articles/4b5c4971.json)
+
+[Extended Data](ext_articles/4b5c4971.ext.json)
 
 ---
 
@@ -133,6 +159,24 @@ Police said there was no casualties caused by the fire and the property damage w
 [Data](articles/a1b70f09.json)
 
 [Extended Data](ext_articles/a1b70f09.ext.json)
+
+---
+
+### Former State Minister Lohan's secretary killed
+
+*2024-10-20 15:46:22* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-අමාත්‍ය-ලොහාන්​ගේ-ලේකම්වරයෙක්-වෙඩි-වැදී-ජීවිතක්ෂයට/11-412572) · `si`
+
+Former Minister Lohan Ratwatte assassinated by his own private secretary.
+
+🟩
+
+Former Minister Lohan Ratwatte has been shot dead by the private secretary of former Minister Lohan Ratwatte.
+
+◼️
+
+[Data](articles/ac3130d8.json)
+
+[Extended Data](ext_articles/ac3130d8.ext.json)
 
 ---
 
@@ -2275,65 +2319,5 @@ No one has been injured in the accident and removed vehicles and the road has be
 [Data](articles/09cec935.json)
 
 [Extended Data](ext_articles/09cec935.ext.json)
-
----
-
-### European Union Ambassador to Sri Lanka with Prime Minister
-
-*2024-10-19 16:57:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமருடன்-இலங்கைக்கான-ஐரோப்பிய-ஒன்றியத்தின்-தூதுவர்-சந்திப்பு/175-345688) · `ta`
-
-EU Ambassador meets Sri Lanka PM: Discusses GSP+ scheme, foreign investment, and anti-corruption efforts. Strengthens bilateral ties.
-
-🟩
-
-A meeting was held at the Colombo Prime Minister's Office on Friday (18) between the European Union Ambassador to Sri Lanka Carmen Moreno and Prime Minister Dr. Harini Amarasuriya.
-
-Strong and long -term contacts between the EU and Sri Lanka have been further strengthened through this meeting.
-
-The Prime Minister pointed out the importance of the continued cooperation of the European Union for the GSP + Business Scheme, which contributed to increasing Sri Lanka's exports.
-
-The Prime Minister said his government's aim was to increase foreign investment by strengthening corruption and strengthening corporations such as the Investment Board. (An)
-
-◼️
-
-[Data](articles/da8fd01d.json)
-
-[Extended Data](ext_articles/da8fd01d.ext.json)
-
----
-
-### Rumor of India is the vegetarian actress jacleen
-
-*2024-10-19 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202348) · `si`
-
-Here's a 200-character summary:
-
-
-
-Jacqueline Fernandes, a Sri Lankan-Malaysian actress, adopted a vegetarian lifestyle. She began her Bollywood career in 2010, starring in films like "Aladin." The US-based NGO Petta recognized her as a vegetarian actress, highlighting her commitment to animal welfare and compassion.
-
-🟩
-
-The Sri Lankan origin, the Bollywood actress of Sri Lankan origin as the vegetarian actress, has been evaluated as the vegetarian actress.
-
-Jacqueline Fernandes is the "Vegetarian Actress" by the Petta, an US-based NGO, who appearing for animals.
-
-It is a respect for the sacrificial of the animal welfare and to the maintenance of pity and mercy.
-
-The father of Jacqueline is a Sri Lankan origin and her mother is a woman with a Malaysian origin.
-
-Jacquel has migrated to Bahrain, and later she had begun career in the image of the imagery.
-
-Jacquel that converts the universal universal in Sri Lanka in 2006, Jacquel to visit India and entered Bollywood cinema by photographing Jasmin's role across the movie Alading.
-
-The best illustration of the merger of a vegetarian lifestyle is the best illustration of the freshness of the animals, and the best illustration of the freshly emission she has caught his voice.
-
-The Petta was evaluated to maintain a lifestyle free lifestyle from the meat.
-
-◼️
-
-[Data](articles/a96163a5.json)
-
-[Extended Data](ext_articles/a96163a5.ext.json)
 
 ---

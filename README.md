@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 12:13:40**
+As of **2024-10-20 12:24:32**
 
 ## Newspaper Stats
 
-*Scraped **50,367** Articles*
+*Scraped **50,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,433
 adalk | 4,670
 dailymirrorlk | 4,733
 adaderanalk | 5,968
-tamilmirrorlk | 6,898
+tamilmirrorlk | 6,900
 virakesarilk | 8,061
 adaderanasinhalalk | 8,742
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,367 (100.0%) of 50,367 articles have been extended.
+50,369 (100.0%) of 50,369 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -135,6 +135,28 @@ He added that the government will never be tired of taking these measures legall
 [Data](articles/1e07b99f.json)
 
 [Extended Data](ext_articles/1e07b99f.ext.json)
+
+---
+
+### “400 files will be opened for legal action”
+
+*2024-10-20 11:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்ட-நடவடிக்கைக்காக-400-கோப்புகள்-திறக்கப்படும்/175-345712) · `ta`
+
+"400 corruption cases to be pursued legally: President Dissanayake announces at election rally."
+
+🟩
+
+President Anura Kumara Dissanayake said that 400 files related to corruption and fraud have to be with the Attorney General and all of them will be opened for legal action.
+
+The President made this statement while addressing the election rally in support of his party in Tangalle.
+
+He added that the government will never be tired of taking these measures legally and formally.
+
+◼️
+
+[Data](articles/c677296b.json)
+
+[Extended Data](ext_articles/c677296b.ext.json)
 
 ---
 
@@ -451,6 +473,30 @@ The Department of Meteorology further states that strong winds (70-80 km per hou
 [Data](articles/1dd19a4d.json)
 
 [Extended Data](ext_articles/1dd19a4d.ext.json)
+
+---
+
+### Change in weather in 24 hours
+
+*2024-10-20 08:39:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-வானிலையில்-மாற்றம்/175-345707) · `ta`
+
+Heavy rains, strong winds, and rough seas expected in Middle East and North Andaman Sea over next 24 hours. Low pressure system developing, moving northwest towards India. Strong gusts (70-80 km/h) and heavy rainfall predicted.
+
+🟩
+
+The Meteorological Department has warned that heavy rains, heavy winds and sea rage for the next 24 hours.
+
+The Department of Meteorology said that low winds are likely to develop tomorrow (21) in the Middle East and North Andaman Sea in the Bay of Bengal.
+
+Later, it was moved to the northwest and said that on October 23, the windmill would be formed.
+
+The Department of Meteorology further states that strong winds (70-80 km per hour) are blowing, and heavy rainfall in those seas and seas are very turbulent.. Remble
+
+◼️
+
+[Data](articles/97dd7714.json)
+
+[Extended Data](ext_articles/97dd7714.ext.json)
 
 ---
 
@@ -2287,51 +2333,5 @@ Speaking at a press conference held in Kandy, he added that this decision could 
 [Data](articles/13791dfe.json)
 
 [Extended Data](ext_articles/13791dfe.ext.json)
-
----
-
-### Trader arrested with Rs 25 crore ice
-
-*2024-10-19 13:04:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-25-கோடி-ஐஸுடன்-வர்த்தகர்-கைது/175-345682) · `ta`
-
-Businessman caught smuggling 10kg of ice drugs worth Rs 25 crore at Katunayake airport. Hidden in tea powder packages. Arrested after arriving from Kuala Lumpur.
-
-🟩
-
-An air passenger who smuggled ice drugs worth about Rs.
-
-Investigations revealed that he was a 35 -year -old businessman in the Themattagoda area in Colombo.
-
-He arrived at the Katunayake airport from Kuala Lumpur, Malaysian Airlines, Malaysian Airlines flight from Kuala Lumpur, Malaysia at around 11.30 pm last night.
-
-From the travel bag he brought, 10 kg of Ice Ice Customs Officers found hidden in tea powder packages. (An)
-
-◼️
-
-[Data](articles/85350a04.json)
-
-[Extended Data](ext_articles/85350a04.ext.json)
-
----
-
-### India doubles grant to support education in Sri Lanka’s plantation community
-
-*2024-10-19 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102793/india-doubles-grant-to-support-education-in-sri-lankas-plantation-community) · `en`
-
-India has doubled its grant to Rs 600 million to support education in Sri Lanka’s plantation areas for the Indian-origin Tamil community.
-
-Indian High Commission to Sri Lanka Santosh Jha and Secretary of Sri Lanka’s Ministry of Education and Science and Technology J M Thilaka Jayasundara on Friday signed and exchanged diplomatic letters to formalise the modalities.
-
-“The project envisages the upgradation of infrastructure of 9 plantation schools identified by the Government of Sri Lanka. These include 6 schools in the plantation areas of Central Province and one school each in Uva, Sabaragamuwa and Southern Province,” Jha said.
-
-With the additional funds infused at the request of the Government of Sri Lanka, India’s total commitment to the project now stands at 600 million Sri Lanka rupees (INR 172.25 million).
-
-The project would add to India’s numerous past and ongoing development partnership initiatives in Sri Lanka in the important sector of education.
-
-...
-
-[Data](articles/75bd3ea3.json)
-
-[Extended Data](ext_articles/75bd3ea3.ext.json)
 
 ---

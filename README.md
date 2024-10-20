@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 09:39:37**
+As of **2024-10-20 09:58:47**
 
 ## Newspaper Stats
 
-*Scraped **50,347** Articles*
+*Scraped **50,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,081
 dailyftlk | 3,433
-adalk | 4,665
+adalk | 4,666
 dailymirrorlk | 4,733
 adaderanalk | 5,966
 tamilmirrorlk | 6,895
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,347 (100.0%) of 50,347 articles have been extended.
+50,348 (100.0%) of 50,348 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -95,6 +95,28 @@ The Department of Meteorology further states that strong winds (70-80 km per hou
 [Data](articles/1dd19a4d.json)
 
 [Extended Data](ext_articles/1dd19a4d.ext.json)
+
+---
+
+### 8 out of the 16 vehicles handed over to Ranil
+
+*2024-10-20 08:28:32* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දගේ-වාහන-16න්-8ක්-යළි-භාරදෙයි---රනිල්ට-වාහන-11ක්/11-412561) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former President Mahinda Rajapaksa's government transferred 8 out of 16 vehicles to current Prime Minister Ranil Wickremesinghe. The announcement highlights the handover of 11 vehicles from Rajapaksa's fleet to Wickremesinghe's office.
+
+🟩
+
+The government announced that 8 out of the 16 government vehicles used by former President Mahinda Rajapaksa has handed over 11 vehicles in Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/6a8bfe52.json)
+
+[Extended Data](ext_articles/6a8bfe52.ext.json)
 
 ---
 
@@ -2305,37 +2327,5 @@ All those complaints have been received in connection with the violation of elec
 [Data](articles/8327d3e9.json)
 
 [Extended Data](ext_articles/8327d3e9.ext.json)
-
----
-
-### Rainfall in some parts of the Northern Province
-
-*2024-10-19 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196622) · `ta`
-
-Northern Province: Rain/thunderstorms possible. Sabaragamuwa, Western, North Western, Galle, Matara, Kandy, Nuwara Eliya districts affected. Uva, Eastern Provinces: Evening/night rain/thunderstorms likely. Strong winds/lightning warnings issued. Sea regions: Puttalam-Colombo-Galle, Mannar-Trincomalee-Kankesanthurai experiencing rainfall. Southwest winds 25-35 km/h, increasing to 45 km/h in some areas. Turbulent sea conditions reported.
-
-🟩
-
-Senior Weather Officer of the Atmospheric Department, Dr. Mohamed Salihin said rain or thunderstorms are likely to occur in some parts of the Northern Province.
-
-Rainfall is likely to occur in Sabaragamuwa, Western and North Western Provinces as well as Galle, Matara, Kandy and Nuwara Eliya districts.
-
-In some parts of the Uva and the Eastern Provinces, there is a chance of rain or thunderstorms in the evening or night.
-
-The public is asked to take care in the events of strong winds and lightning.
-
-Rainfall is expected in the sea regions from Puttalam to Colombo and Galle.
-
-Rainfall is expected in many parts of the sea regions from Mannar to Trincomalee via Kankesanthurai.
-
-Winds from the southwestern direction at speeds of 25 - 35 km / h in the sea regions around the country.
-
-From the beginning of the Kankesanthurai to Mannar, the sea can often increase at 45 km / h in the sea regions from Hambantota to Pottuvil.. In such cases, these sea regions are somewhat turbulent.
-
-...
-
-[Data](articles/71d5bbc2.json)
-
-[Extended Data](ext_articles/71d5bbc2.ext.json)
 
 ---

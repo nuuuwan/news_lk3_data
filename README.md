@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 19:23:36**
+As of **2024-10-20 19:39:16**
 
 ## Newspaper Stats
 
-*Scraped **50,411** Articles*
+*Scraped **50,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,974
 tamilmirrorlk | 6,907
 virakesarilk | 8,072
-adaderanasinhalalk | 8,752
+adaderanasinhalalk | 8,753
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,411 (100.0%) of 50,411 articles have been extended.
+50,412 (100.0%) of 50,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### World Cup final battle is South Africa
+
+*2024-10-20 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202378) · `si`
+
+South Africa vs New Zealand in T20 Women's World Cup final. Teams chose to bat first. Match being played in Dubai after UAE leg. Both teams have reached finals before but never won title.
+
+🟩
+
+New Zealand and South Africa won the toss and elected to bathe in the final match of the Twenty20 Women's World Cup today (20).
+
+The final will be held in Dubai, which was held in the United Arab Emirates for several weeks.
+
+Although both of these teams had previously served the final, they could not win the championship.
+
+◼️
+
+[Data](articles/bf180b8f.json)
+
+[Extended Data](ext_articles/bf180b8f.ext.json)
+
+---
 
 ### Over 400 election related complaints received by EC
 
@@ -2321,33 +2343,5 @@ Elections Commissioner General Saman Sri Ratnayake said that the election was he
 [Data](articles/63f178b4.json)
 
 [Extended Data](ext_articles/63f178b4.ext.json)
-
----
-
-### Bombs of the aircraft from India
-
-*2024-10-19 19:50:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-සිට-ආපු-ගුවන්-යානයේ-බෝම්බ-බියක්/11-412560) · `si`
-
-India-bound Vistara flight diverted after bomb threat; Sri Lanka airport security checks conducted; Airbus A320 carrying 104 passengers; No explosives found; Investigation ongoing
-
-🟩
-
-In the event of a speech to the Katunayake airport, India's headquarters, the airline was landed at the Bandaranaike International Airport (Vistara)Has been done.
-
-Subsequently, at the Katunayake airport, the track correction was held at the Bandaranaike International Airport that no such explosives had not been recovered from the aircraft.
-
-The plane was placed on Katunayake from 12.25 pm in Mumbai, India, the NK.. The flight was due to arrive at the Katunayake airport at 03:00 pm at the Katunayake airport.
-
-Air Bus A.- ​​320 aircraft have ranged at 96 passengers and 08 passengers.
-
-An anonymous telephone call from India's anonymous phone call, the bombs were informed in the airplane arriving in Sri Lanka.
-
-Accordingly, the Bandaranaike International Airport Bomb Disposal, Aviation and Army Commandors, Doctors, Nursing Staffs, and Surgery Sectors and Mobs, Communication Sectors and Mobs and Survey Staffs, and the aircraft were invited.
-
-...
-
-[Data](articles/6119efbc.json)
-
-[Extended Data](ext_articles/6119efbc.ext.json)
 
 ---

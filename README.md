@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 13:09:24**
+As of **2024-10-20 13:23:54**
 
 ## Newspaper Stats
 
-*Scraped **50,373** Articles*
+*Scraped **50,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 3,083
 dailyftlk | 3,433
 adalk | 4,670
 dailymirrorlk | 4,733
-adaderanalk | 5,968
-tamilmirrorlk | 6,901
+adaderanalk | 5,969
+tamilmirrorlk | 6,902
 virakesarilk | 8,063
-adaderanasinhalalk | 8,743
+adaderanasinhalalk | 8,744
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,373 (100.0%) of 50,373 articles have been extended.
+50,376 (100.0%) of 50,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### We're making a bold opposition - Dilith
+
+*2024-10-20 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202367) · `si`
+
+Here's a 200-character summary:
+
+
+
+Dilith Jayaweera emphasizes building strong opposition through courage and strategic politics. He aims to protect borders and lead boldly, even without being PM. The opposition should focus on stopping wrong actions rather than seeking leadership roles.
+
+🟩
+
+Dilith Entrepreneurship Dilith Jayaweera says that a courage and strong opposition can only build a strong and strong opposition can only be built to the Almighty.
+
+"The exangerative power was built with a vision. We wanted to protect our border love that could be lost from us. We're going to a strategic political journey. We are boldly, boldly, boldly. We will not be the Prime Minister in this election, as a bold opposition. If we are right, we are trying to stop the work that can stop when he is wrong.
+
+"What is your happiness in this country to be the Opposition Leader in this country? The gas tank is the Gas Tank Ravi Karunanayake. He is running around the country to make a national list MP. This medal is the medal of the nation of the people's neck. "
+
+◼️
+
+[Data](articles/d63d7417.json)
+
+[Extended Data](ext_articles/d63d7417.ext.json)
+
+---
+
+### Salary Increase in Budget February
+
+*2024-10-20 12:55:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-பட்ஜெட்டில்-சம்பள-அதிகரிப்பு/175-345719) · `ta`
+
+President Anura Kumara Dissanayake announces plans to increase public servant salaries in upcoming February-March budget. Focuses on economic stability and education support. Emphasizes need for strong governance and political leadership.
+
+🟩
+
+We will file an interim budget (budget) in December. The new budget will be filed by February-March. President Anura Kumara Dissanayake said on Saturday (19) at Tangalle that he would focus on increasing the salary of public servants in the budget.
+
+The President said this while addressing a meeting of the National People's Power in the inauguration of the parliamentary elections to be held this year.
+
+Initially, stabilizing the economy was our biggest challenge. We have done it. We are focusing on paying school students in the proposed budget.
+
+Our country needs new political culture. We have the main responsibility to create it. We, the leaders of the government, must express their commitment. Have a strong state. He said that we must be strong in Parliament, and we must be strong with the attributes of the team we represent, and we are responsible for taking this country gradually on the path of success.
+
+◼️
+
+[Data](articles/34ae3159.json)
+
+[Extended Data](ext_articles/34ae3159.ext.json)
+
+---
+
+### Israeli strikes in northern Gaza cause scores of casualties, doctors say
+
+*2024-10-20 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102811/israeli-strikes-in-northern-gaza-cause-scores-of-casualties-doctors-say) · `en`
+
+An Israeli airstrike that hit several houses and a multi-storey residential building in Beit Lahiya town in northern Gaza on Saturday caused dozens of casualties, doctors and officials said, with rescue operations still underway.
+
+The Hamas media office said at least 73 people had been killed in the strike. No official casualty figures were immediately available from the health ministry however Medway Abbas, a senior health ministry official, said the figures were accurate.
+
+The Israeli military said it was looking into the incident but said the numbers issued by the Hamas media office were exaggerated. It said the figures did not align with its own information, the precise munitions used or the accuracy of the strike, which it said was directed at a Hamas target.
+
+...
+
+[Data](articles/e7f08f4d.json)
+
+[Extended Data](ext_articles/e7f08f4d.ext.json)
+
+---
 
 ### Provincial Councils Risk
 
@@ -2265,79 +2333,5 @@ Accordingly, a senior official of the Department said that it was decided to ser
 [Data](articles/3f5f0b28.json)
 
 [Extended Data](ext_articles/3f5f0b28.ext.json)
-
----
-
-### A revelation of white cream
-
-*2024-10-19 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202338) · `si`
-
-Consumer Affairs Authority raids illegal skin-whitening creams from pharmacies. Products marketed as scar treatments but used for cosmetic purposes. Only available by prescription. Many users resorting to unlicensed use.
-
-🟩
-
-Several coats used on medical recommendations and marketable coatings have been raided by the Consumer Affairs Authority.
-
-The revealed that they are carrying out the skin to whitewash the skin.
-
-The Consumer Affairs Authority was taken into custody several coatings in the emergency raid, which was conducted in Pettah area yesterday.
-
-The Consumer Affairs Authority (CEB) stated that the plump is used to delete the scars in some burn.
-
-However, the types of coatings can only be obtained on a medical recommendation, only registered pharmacies.
-
-However, the Consumer Affairs Authority points out that many people have resorted to the skin to whitewash the skin.
-
-Sanjeewa Weerasinghe, Director of the Consumer Affairs Authority (raid and special investigations) Director
-
-"There's a great desire to be white. Not only young girls but also boys were using these plums. This is not good for the body. These coatings were found in 16 shops in Pettah. "
-
-◼️
-
-[Data](articles/3f236101.json)
-
-[Extended Data](ext_articles/3f236101.ext.json)
-
----
-
-### Country of living in the world's largest poor people
-
-*2024-10-19 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202337) · `si`
-
-UN report: 1.1 billion suffer extreme poverty globally. 584 million under 18 affected. 83.2% in Saharan Africa and South Asia. India has highest percentage of poor population.
-
-🟩
-
-According to a UN report, 1.1 billion of the world's population suffered from extreme poverty.
-
-Half of them are people living in countries where the war is 584 million people under 18 million.
-
-According to the report, 83.2 percent of the world's most poor people in the world have residents of Sahara Africa and South Asia.
-
-According to the country, India, which lives in the world, is living in the world's most poor popular country.
-
-◼️
-
-[Data](articles/d25e4af4.json)
-
-[Extended Data](ext_articles/d25e4af4.ext.json)
-
----
-
-### Commissioner General announces special decision on LG Elections
-
-*2024-10-19 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102794/commissioner-general-announces-special-decision-on-lg-elections) · `en`
-
-The Commissioner General of Elections, Saman Sri Ratnayake, has announced that no new nominations will be called for the upcoming local government elections.
-
-He clarified that the election will proceed based on the nominations that were previously submitted.
-
-Speaking at a news conference held in Kandy, Ratnayake further noted that any party who feels this decision has caused them injustice has the option of seeking legal recourse through the courts.
-
-◼️
-
-[Data](articles/ff151ed5.json)
-
-[Extended Data](ext_articles/ff151ed5.ext.json)
 
 ---

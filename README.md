@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 21:11:07**
+As of **2024-10-20 21:23:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,755
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,424 (100.0%) of 50,434 articles have been extended.
+50,432 (100.0%) of 50,434 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -334,91 +334,139 @@ The leaderships that aims nationalism will be able to express their views on the
 
 ---
 
-### எதிர்க்கட்சி வரிசையில் அமர்வதற்காக தேர்தல்களில் போட்டியிட வேண்டுமா?
+### Want to contest elections to sit in the opposition line?
 
 *2024-10-20 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196713) · `ta`
 
-தொலைபேசி சின்னத்தில் போட்டியிட்டு வெற்றியீட்டினாலும் பாராளுமன்றத்தில் சுயாதீனமாக இயங்க வேண்டிய காரணங்களைக் கூறி இருதரப்பினரும் ஒரு புரிந்துணர்வு உடன்படிக்கையில் கைச்சாத்திடலாம். அவ்வாறு நடந்தால் அநுர அரசாங்கத்தில் இணைந்து அமைச்சுப்பதவிகளையோ அல்லது பிரதி அமைச்சுப் பொறுப்புகளையோ பெறுவதற்கு சந்தர்ப்பங்கள் இருக்கின்றன.
+Contesting elections as opposition: Both parties may sign MoU, agreeing to run independently in Parliament despite sharing phone symbols. This could lead to joining the government or taking on ministerial roles.
+
+🟩
+
+Both sides may sign a Memorandum of Understanding (MoU), claiming that they have to run independently in Parliament even if they contest the telephone symbol. If this happens, there are opportunities to join the government or the responsibilities of the Ministry of Ministry.
 
 ◼️
 
 [Data](articles/7338a45a.json)
 
+[Extended Data](ext_articles/7338a45a.ext.json)
+
 ---
 
-### தமிழ் மக்கள் கூட்டணியே தகுதியான வேட்பாளர்களை களமிறக்கியுள்ளது -  தவச் செல்வம் சிற்பரன் விசேட செவ்வி
+### The Tamil People's Alliance has fielded eligible candidates
 
 *2024-10-20 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196712) · `ta`
 
-தமிழரசு கட்சியிலிருந்து பல ஆளுமைமிக்கவர்கள் வெளியேறிவிட்டனர். அந்தக்கட்சியின் காலாவதி காலம் வந்துவிட்டது என்று அதனால்தான் கூறுகிறேன்.  இது மாற்றத்துக்கான காலம். தெற்கில் நடைபெற்றதை போன்று யாழிலும் இந்த நிலை உள்ளது. தமிழரசு கட்சியிலிருந்து மட்டுமல்ல எந்தவொரு கட்சியுடையதும் ஊழலற்ற ஆளுமைமிக்கவர்களை நாங்கள் ஒன்றுசேர்த்து எமது அரசியல் அணியை உருவாக்க விரும்புகிறோம். எனவே இது சாதகமான நிலையை தோற்றுவித்துள்ளது.
+Tamil People's Alliance fields candidates; TNA faces personnel loss; party expiration imminent; Jaffna sees change; unity against corruption sought; political team formation underway; favorable position created.
+
+🟩
+
+Many personnel have left the TNA party. That is why I say that the expiration of the party has come. This is the period of change. This is the case in Jaffna. We want to unite the corrupt personality of any party not only from the Tamil party but to create our political team. So this has created a favorable position.
 
 ◼️
 
 [Data](articles/4a62f785.json)
 
+[Extended Data](ext_articles/4a62f785.ext.json)
+
 ---
 
-### அடுத்த வருடத்துக்கான வரவு செலவு திட்டத்தை சமர்ப்பிக்காமல் இருப்பது பாரிய பிரச்சினையை ஏற்படுத்தும் - சுசில் பிரேமஜயந்த
+### The lack of submitting the budget for next year will cause a huge problem - Susil Premajayantha
 
 *2024-10-20 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/196710) · `ta`
 
-அரசாங்கம் அடுத்த வருடத்துக்கான வரவு செலவு திட்ட அறிக்கையை சமர்ப்பிக்காமல் இருப்பது பாரிய பிரச்சினையாகும். ஏனெனில், அடுத்த வருடத்துக்கான வருமான இலக்குகளை அடிப்படையாகக் கொண்டே செலவுகளை திட்டமிட முடியும். இடைக்கால கணக்கு வாக்கெடுப்பை அனுமதித்துக்கொள்வதன் மூலம் அபிவிருத்தி திட்டங்களுக்கு நிதி ஒதுக்க முடியாது. வருமான வழிகளையும் திட்டமிட முடியாது என முன்னாள் அமைச்சரும் புதிய ஜனநாயக முன்னணியின் கொழும்பு மாவட்ட வேட்பாளருமான சுசில் பிரேமஜயந்த தெரிவித்தார்.
+Lack of submitted budget causes problems: Costs unplanable, no funds for development projects, taxpayers affected. Government's inability to plan income and comply with IMF requirements. Massive issue for governance and economic growth.
 
-புதிய ஜனநாயக முன்னணி கொழும்பில் ஞாயிற்றுக்கிழமை (20) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நடைபெறவுள்ள பாராளுமன்ற தேர்தலில் புதிய ஜனநாயக முன்னணி 19 மாவட்டங்களில் சிலிண்டர் சின்னத்தில் போட்டியிடுவதுடன்  3 மாவட்டங்களில் எமது பங்காளி கட்சியான ஐக்கிய தேசிய கட்சியின் யானை சின்னத்தில் போட்டியிடுகிறது. கடந்த ஜனாதிபதி தேர்தலில் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு 23 இலட்சம் வாக்குகள் கிடைக்கப்பெற்றன.
+It is a massive problem for the government not to submit a budget report for next year. This is because the costs can be planned based on income goals for next year. Will not allocate funds for development projects by permitting an interim account referendum. Former minister and Colombo district candidate of the New Democratic Front said that the income cannot be planned.
+
+He was speaking at a press conference held in Colombo on Sunday (20) in Colombo.
+
+The new Democratic Front is contesting in 19 districts in the upcoming parliamentary election and is contesting the cylinder symbol and the elephant symbol of our partners in 3 districts. Former President Ranil Wickremesinghe received 23 lakh votes in the last presidential election.
+
+Current President Anura Kumara Dissanayake received 55 lakh votes. Sajith Premadasa got 44 lakh votes. But, no one received more votes for 50 percent. So 57 percent of the votes have been cast against the current president.
 
 ...
 
 [Data](articles/967560f0.json)
 
+[Extended Data](ext_articles/967560f0.ext.json)
+
 ---
 
-### சிறிதரனின் எதிர்காலம்
+### The future of Sridharan
 
 *2024-10-20 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196708) · `ta`
 
-தன்னை கட்சியை விட்டு வெளியேற்ற நினைக்கின்ற தரப்புடன் சிறிதரன் மல்லுக் கட்ட போவதாக பகிரங்கமாக போர்ப்பிரகடனம் செய்திருக்கிறார் சிறிதரன். யாழ்ப்பாண மாவட்டத்தில்  இரண்டு ஆசனங்கள் கிடைக்குமானால், தமிழரசு கட்சிக்குள் சிறிதரனுக்கான நெருக்கடி இன்னமும் அதிகரிக்கும். இது வெளிப்படையான விடயம்.
+Sridharan's departure from the party may lead to a crisis within TNA if two seats become available in Jaffna district. This situation could intensify political tensions and challenges for the party.
+
+🟩
+
+Sridharan has publicly delegated to the party that he is going to leave the party.. If two seats are available in the Jaffna district, the crisis for the Sridharan will still increase within the TNA. This is an obvious issue.
 
 ◼️
 
 [Data](articles/ba72cfd7.json)
 
+[Extended Data](ext_articles/ba72cfd7.ext.json)
+
 ---
 
-### ஈஸ்டர் ஞாயிறு அரசியல்
+### Easter Sunday Politics
 
 *2024-10-20 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196706) · `ta`
 
-உதய கம்மன்பில, ஈஸ்டர் ஞாயிறு தாக்குதலை வைத்து அரசியல் செய்தவர்.  இப்போதும் அதையே செய்கிறார்.  அரசாங்கத்தை இரகசியங்களை வைத்தும் அரசியல் செய்ய  முனைந்திருக்கிறார். இதன் விளைவு அவருக்கு பாரதூரமானதாகவும் இருக்கக் கூடும்.
+Here's a 200-character summary:
+
+
+
+Udaya Kammanpila, linked to Easter Sunday attacks, continues political career focused on maintaining government secrecy. His actions may benefit him politically but raise concerns about transparency and accountability.
+
+🟩
+
+Udaya Kammanpila, the politician of Easter Sunday attack. Still doing the same thing. Sought to make politics that keeps the government secrets. The result may be great for him.
 
 ◼️
 
 [Data](articles/ac530cd9.json)
 
+[Extended Data](ext_articles/ac530cd9.ext.json)
+
 ---
 
-### யாருக்கு, எத்தனை ஆசனங்கள்?
+### To whom, how many seats?
 
 *2024-10-20 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196705) · `ta`
 
-பாராளுமன்ற தேர்தலில்,வடக்கு கிழக்கில் அதிகபட்சமாக 18 ஆசனங்களை தமிழ்க் கட்சிகளால் பெற்றுக் கொள்ள முடியும் என முன்னாள் பாராளுமன்ற உறுப்பினர்கள்  கஜேந்திரகுமார் பொன்னம்பலம் கூறியிருக்கிறார்.
+Gajendrakumar Ponnambalam predicts Tamil parties may secure up to 18 seats in Northern and Eastern regions during parliamentary elections.
+
+🟩
+
+Former MP Gajendrakumar Ponnambalam has said that in the parliamentary elections, the Tamil parties can win a maximum of 18 seats in the North and East.
 
 ◼️
 
 [Data](articles/c9de6023.json)
 
+[Extended Data](ext_articles/c9de6023.ext.json)
+
 ---
 
-### பிரிக்ஸ் மாநாடு – இலங்கை விலகியது ஏன்?
+### BRICS Conference - Why did Sri Lanka quit?
 
 *2024-10-20 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/196701) · `ta`
 
-“பிரிக்ஸ் அமைப்பில் இணைந்து கொள்வதற்கு இலங்கையே விண்ணப்பித்தது.  அவ்வாறு விண்ணப்பித்து விட்டு அழைப்பை ஏற்காமல் தவிர்ப்பது பிரிக்ஸ் அமைப்பை உதாசீனப்படுத்துவதாக கருதப்படும்”
+Sri Lanka joined BRICS but withdrew due to economic challenges and geopolitical shifts. The country initially sought membership to strengthen its international standing and gain access to BRICS' development funds. However, it later decided to leave, citing difficulties in meeting the criteria and potential conflicts with existing alliances. This decision reflects Sri Lanka's evolving foreign policy priorities and economic realities.
+
+🟩
+
+“Sri Lanka applied to join the BRICS system. Applying and avoiding the invitation will be considered to help the BRICS system. ”
 
 ◼️
 
 [Data](articles/1985abf3.json)
+
+[Extended Data](ext_articles/1985abf3.ext.json)
 
 ---
 
@@ -470,15 +518,25 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
-### புதிய அரசியல் கலாசாரம் புதிய மாற்றம்
+### New political culture new change
 
 *2024-10-20 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196692) · `ta`
 
-சிறந்த மக்களினால்தான் சிறந்த தலைவர்களை தேர்தெடுக்க முடியும். கடந்த காலங்களில் நாட்டுக்கு பொருத்தமற்ற தலைவர்களும், பாராளுமன்ற உறுப்பினர்களும் தெரிவு செய்யப்பட்டதன் விளைவுதான் நாட்டின் சீரழிவுகளுக்கு காரணமென்று வெறுமனே சொல்லிக் கொண்டால் மாத்திரம் தீர்வு கிடைக்காது. அந்த சீரழிவுகளுக்கு யார் காரணமென்றும் கண்டறிய வேண்டும்.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"New political culture calls for electing capable leaders. Past issues stemmed from elected officials' actions. Identifying root causes crucial for progress."
+
+🟩
+
+The best people can be elected by the best people. In the past, the resolution of the country's degradation is the result of the elected leaders and MPs in the past.. It is necessary to find out who the cause of those degradation.
 
 ◼️
 
 [Data](articles/22e92adc.json)
+
+[Extended Data](ext_articles/22e92adc.ext.json)
 
 ---
 

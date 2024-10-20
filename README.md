@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 02:57:45**
+As of **2024-10-21 03:08:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,456 (100.0%) of 50,461 articles have been extended.
+50,461 (100.0%) of 50,461 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ It also pointed out that Rajapaksa, who served as the fifth Executive President 
 
 [Data](articles/8f112087.json)
 
+[Extended Data](ext_articles/8f112087.ext.json)
+
 ---
 
 ### Tea industry crucial to economic growth: Minister Vijitha Herath
@@ -63,6 +65,8 @@ Herath called for a collective effort from all stakeholders to strengthen the se
 ...
 
 [Data](articles/15162deb.json)
+
+[Extended Data](ext_articles/15162deb.ext.json)
 
 ---
 
@@ -82,6 +86,8 @@ De Zoysa is also experienced in the tourism and hospitality sector taking over a
 
 [Data](articles/eb35d832.json)
 
+[Extended Data](ext_articles/eb35d832.ext.json)
+
 ---
 
 ### Alliance Finance and Regen Solar unite to power greener future with sustainable energy solutions
@@ -95,6 +101,8 @@ In a bid to promote sustainability across their entire organisation, Alliance Fi
 ...
 
 [Data](articles/79387a6a.json)
+
+[Extended Data](ext_articles/79387a6a.ext.json)
 
 ---
 
@@ -113,6 +121,8 @@ This invoice of tea was purchased by M/S Shan Teas Ltd., and the sale was conduc
 ◼️
 
 [Data](articles/f40ee61e.json)
+
+[Extended Data](ext_articles/f40ee61e.ext.json)
 
 ---
 

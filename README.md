@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 11:59:20**
+As of **2024-10-20 12:13:40**
 
 ## Newspaper Stats
 
-*Scraped **50,365** Articles*
+*Scraped **50,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,083
 dailyftlk | 3,433
-adalk | 4,669
+adalk | 4,670
 dailymirrorlk | 4,733
-adaderanalk | 5,967
+adaderanalk | 5,968
 tamilmirrorlk | 6,898
 virakesarilk | 8,061
 adaderanasinhalalk | 8,742
@@ -26,11 +26,51 @@ adaderanasinhalalk | 8,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,365 (100.0%) of 50,365 articles have been extended.
+50,367 (100.0%) of 50,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Gammanpila sets deadline for President to release Easter attack reports
+
+*2024-10-20 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102810/gammanpila-sets-deadline-for-president-to-release-easter-attack-reports) · `en`
+
+Former Member of Parliament Udaya Gammanpila says the deadline given for the President to release the two unpublished reports regarding the Easter Sunday attacks will expire at 10:00 a.m. tomorrow (21).
+
+Speaking to the media today (20), Gammanpila stated, “The time I have given the President to release the two reports, which he is hesitant to make public regarding the Easter attack, ends at 10:00 a.m. tomorrow.”
+
+He emphasized that the President has until tomorrow morning to release the reports and fulfill the constitutional responsibility. Failure to do so, Gammanpila warned, could result in the risk of impeachment.
+
+Gammanpila added, “If the President violates Article 38 of the Constitution and fails to release the reports by tomorrow, I will certainly make them public.”
+
+◼️
+
+[Data](articles/e5af5b17.json)
+
+[Extended Data](ext_articles/e5af5b17.ext.json)
+
+---
+
+### West Indies - Sri Lanka's first ODI match today
+
+*2024-10-20 11:26:34* · [`adalk`](https://www.ada.lk/sports/කොදෙව්---ශ්‍රී-ලංකා-පළමු-එක්දින-ක්‍රිකට්-තරගය-අද/9-412568) · `si`
+
+Sri Lanka vs West Indies ODI match today at Pallekele International Cricket Stadium in Kandy at 2:30 pm.
+
+🟩
+
+West Indies team and the Sri Lankan team will be played between the Sri Lanka EDIs today (20).
+
+The match will be held at Pallekele International Cricket Stadium in Kandy today at 2.30 pm today.
+
+◼️
+
+[Data](articles/f2c52019.json)
+
+[Extended Data](ext_articles/f2c52019.ext.json)
+
+---
 
 ### Why not sign a strict letter?
 
@@ -2293,47 +2333,5 @@ The project would add to India’s numerous past and ongoing development partner
 [Data](articles/75bd3ea3.json)
 
 [Extended Data](ext_articles/75bd3ea3.ext.json)
-
----
-
-### Avoid consuming spinach during the rainy season - nutritional experts
-
-*2024-10-19 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196637) · `ta`
-
-Experts advise against eating spinach during rainy seasons due to potential health risks. Floodwaters may contain harmful contaminants, increasing the risk of diarrhea. Drinking boiled water is recommended to stay safe.
-
-🟩
-
-Nutritional experts have said that although the floods have gradually declined, the eating of spinach in the flood waters.
-
-“Due to heavy rains, the wastewater from the toilets is mixed with water and stagnant in the ground is very dangerous.
-
-In addition, due to heavy rains, diarrhea and diarrhea are more likely to spread, and they have to drink boiling water as much as possible.
-
-◼️
-
-[Data](articles/c96790de.json)
-
-[Extended Data](ext_articles/c96790de.ext.json)
-
----
-
-### Only 36-pct of Sri Lanka’s 2024 capital investment utilized in Jan-Aug; port, energy used least
-
-*2024-10-19 12:16:00* · [`economynextcom`](https://economynext.com/only-36-pct-of-sri-lankas-2024-capital-investment-utilized-in-jan-aug-port-energy-used-least-184205/) · `en`
-
-ECONOMYNEXT – Sri Lanka has utilized only 36 percent of its 2024 capital investment budget in the first eight months of the year with ports, energy, and health sectors receiving lower allocated funds, a Finance Ministry report showed.
-
-Pre-Election Budgetary Position Report 2024 released by the Finance Ministry this week showed only 389.6 billion rupees out of the budgeted 1,259.8 billion for capital investment has been used in the first eight months.
-
-The previous government increased the allocation for capital investment this year by 35 percent from last year’s 932.7 billion rupees.
-
-The Ports and Shipping sector has used only 3 percent of the budgeted capital investment, 10.8 percent by Power and Energy Sector, and 18.9 percent by health sector, the official data showed.
-
-...
-
-[Data](articles/b58ef302.json)
-
-[Extended Data](ext_articles/b58ef302.ext.json)
 
 ---

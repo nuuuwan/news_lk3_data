@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 15:23:40**
+As of **2024-10-20 15:39:26**
 
 ## Newspaper Stats
 
-*Scraped **50,384** Articles*
+*Scraped **50,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 3,083
 dailyftlk | 3,433
 adalk | 4,674
 dailymirrorlk | 4,733
-adaderanalk | 5,970
-tamilmirrorlk | 6,902
+adaderanalk | 5,971
+tamilmirrorlk | 6,903
 virakesarilk | 8,063
-adaderanasinhalalk | 8,747
+adaderanasinhalalk | 8,748
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,384 (100.0%) of 50,384 articles have been extended.
+50,387 (100.0%) of 50,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Lohan Ratwatte Meets Secret of Secretary
+
+*2024-10-20 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202371) · `si`
+
+Body of Lohan Ratwatte's private secretary found in Kandy. Gunfire wounds, firearm nearby. Police investigating cause of death. Victim identified as 49-year-old local resident.
+
+🟩
+
+The body of the private secretary of former State Minister Lohan Ratwatte has been found in the Katugastota area in Kandy.
+
+Police say he had gunfire in his body and a firearm was near.
+
+Accordingly, the police have not yet revealed that the murder or suicide, police said.
+
+The man is a 49 year old resident of Written in Katugastota.
+
+◼️
+
+[Data](articles/2338ec84.json)
+
+[Extended Data](ext_articles/2338ec84.ext.json)
+
+---
+
+### Lohan Ratwatte’s private secretary found dead with gunshot wounds
+
+*2024-10-20 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102813/lohan-ratwattes-private-secretary-found-dead-with-gunshot-wounds) · `en`
+
+A private secretary of former State Minister Lohan Ratwatte has been found dead in a house in the Katugastota area today (20).
+
+Police said he was found dead with gunshot injuries and that a firearm was also discovered near the body.
+
+Police are yet to determine whether the death was a suicide or a homicide.
+
+The deceased is a 49-year old resident of Werellagama in Katugastota while he had served as a private secretary to former State Minister Lohan Ratwatte.
+
+◼️
+
+[Data](articles/916533f7.json)
+
+[Extended Data](ext_articles/916533f7.ext.json)
+
+---
 
 ### Dilith says ‘Sarvajana Balaya’ alliance aims to build a brave and strong opposition
 
@@ -103,6 +147,26 @@ The competition is scheduled to commence at Palleketa International Cricket Stad
 [Data](articles/75994ebd.json)
 
 [Extended Data](ext_articles/75994ebd.ext.json)
+
+---
+
+### Kanjana to criticize the NPP government
+
+*2024-10-20 14:00:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-அரசாங்கத்தை-விமர்சிக்கும்-காஞ்சன/175-345723) · `ta`
+
+Kanjana Wijesekera criticizes NPP government over unfulfilled promises on fuel prices, electricity bills, and state sector salaries. She mentions the failure to reduce fuel prices as promised by November 1.
+
+🟩
+
+Former minister Kanjana Wijesekera has criticized the National People's Power Government for failing to fulfill its promises on fuel prices, electricity bills and state sector salaries.
+
+Wijesekera told the government that the promise made by the fuel prices would be significantly reduced by November 1.
+
+◼️
+
+[Data](articles/011291c4.json)
+
+[Extended Data](ext_articles/011291c4.ext.json)
 
 ---
 
@@ -2255,79 +2319,5 @@ At the same time, another unmanned aircraft reportedly hit the building wall. Ho
 [Data](articles/e3fe4f9b.json)
 
 [Extended Data](ext_articles/e3fe4f9b.ext.json)
-
----
-
-### Govt. Announces the official vehicles owned by Mahinda and Ranil
-
-*2024-10-19 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202343) · `si`
-
-Government announces official vehicles owned by Mahinda and Ranil. Statement clarifies no presidential assets lost. Current status: 8 vehicles from 16 belonging to Mahinda Rajapaksa; 11 vehicles from 16 belonging to Ranil Wickremesinghe.
-
-🟩
-
-The government has issued a statement that no official presidents have officially lost anything.
-
-Director General of Government Information H. S. K. The release issued by JJ, the statement issued by the Government Information Department today is explained by the Government Information Department today.
-
-According to the report, there are currently eight vehicles from the 16 vehicles in the custody of former President Mahinda Rajapaksa and 11 vehicles of former President Ranil Wickremesinghe are currently in custody.
-
-◼️
-
-[Data](articles/55743dbf.json)
-
-[Extended Data](ext_articles/55743dbf.ext.json)
-
----
-
-### Suddenly exploding the mobile phone!
-
-*2024-10-19 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/196649) · `ta`
-
-Mobile phone explodes at garment shop in Hatton. Battery suspected cause. Long-term charging may lead to explosion. Incident occurs during battery check.
-
-🟩
-
-A mobile phone in the hands of a person at a garment shop in Hatton area has suddenly exploded.
-
-The accident occurred while checking the mobile phone battery.
-
-The handheld telephone exploded on the Sisirvi camera at the dressing stall station.
-
-Repairs to handheld phones have said that the battery is at risk of exploding due to the long -term charging of mobile phones.
-
-◼️
-
-[Data](articles/7541df83.json)
-
-[Extended Data](ext_articles/7541df83.ext.json)
-
----
-
-### Causes of problems in weather forecast
-
-*2024-10-19 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202342) · `si`
-
-Weather forecast issues: Radar system loss, equipment mismanagement, reduced operational capacity, financial waste, and incomplete installation of Doppler radar systems.
-
-🟩
-
-The National Auditor General's office has been revealed that the Department of National Auditor General has been diagnosed with the propaganda of the Department of Meteorological and Forecholacts.
-
-It states that the country has lost a modern technique radar system that has donated from Japan due to the irregular program of the officers.
-
-The weather is essential to maintain the preservation of the world's weather forecast, but the country's weather department is essential to such equipment.
-
-The Department of Meteorological Department has operated only 70 rainfalls, from 31 2023, from May 31, 2023.
-
-Accordingly, about 52 rainfalls have been inactive and only 36 rain were maintained on November 30 last year.
-
-The report issued by the Auditor General's office that 44 continuously excluding 453 traditional rainyers and 44 consecutive rainy explosives across the country.
-
-...
-
-[Data](articles/44dbf9f2.json)
-
-[Extended Data](ext_articles/44dbf9f2.ext.json)
 
 ---

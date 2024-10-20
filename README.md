@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 12:24:32**
+As of **2024-10-20 12:58:01**
 
 ## Newspaper Stats
 
-*Scraped **50,369** Articles*
+*Scraped **50,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,433
 adalk | 4,670
 dailymirrorlk | 4,733
 adaderanalk | 5,968
-tamilmirrorlk | 6,900
+tamilmirrorlk | 6,901
 virakesarilk | 8,061
 adaderanasinhalalk | 8,742
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,369 (100.0%) of 50,369 articles have been extended.
+50,370 (100.0%) of 50,370 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -847,8 +847,6 @@ The specialist donation of the women's condom vague, "put in the vagina in the v
 Ceylinco General Insurance conducted its annual Beach Clean-up program along over 100 km of Sri Lanka’s coastline, with participation from staff across its branches and head office. Held for the third consecutive year, the initiative aims to combat increasing pollution along tourist and densely populated beaches. Over 1,250 employees volunteered, collecting and segregating plastics and other waste, which was then responsibly disposed of through local municipal councils. The project’s goal is to restore the coastline’s natural beauty, protect marine life, and encourage other organizations and citizens to maintain clean beaches.
 
 Ceylinco Life Sports Festival 2024 sees more than 1,000 participants
-
-GSCS International and JAAF drive sustainable development in apparel sector
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
@@ -1782,6 +1780,32 @@ I was telling my guru, Nelson, the story of the film. He promised to make your s
 
 ### New Front led by former presidents?
 
+*2024-10-19 16:04:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முன்னாள்-ஜனாதிபதிகளின்-தலைமையில்-புதிய-முன்னணி/150-345686) · `ta`
+
+Former presidents unite against privilege removal. Chartered Accountants' involvement sparks debate. Three-member committee reviews ex-presidents' benefits amid public concern.
+
+🟩
+
+Focusing on the formation of a leading leadership led by former presidents in the face of voice against the elimination of their privileges.
+
+It is well known that many former presidents have already commented that it is beneficial to work together than to fight personally.
+
+Chartered Accountors Company. Political sources say that many former presidents participated in the recent intellectual discussion.
+
+In this case, the former presidents have already presented issues to the three -member committee appointed to review the privileges of the former presidents.
+
+It is noteworthy that the government has appointed the three -member committee due to social talk that former presidents are currently facing more facilities.
+
+◼️
+
+[Data](articles/577ec3b8.json)
+
+[Extended Data](ext_articles/577ec3b8.ext.json)
+
+---
+
+### New Front led by former presidents?
+
 *2024-10-19 16:04:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முன்னாள்-ஜனாதிபதிகளின்-தலைமையில்-புதிய-முன்னணி-உதயம்/150-345686) · `ta`
 
 Former presidents form alliance against privilege removal. They argue cooperation benefits over personal conflicts. A chartered accounting company facilitates discussions. The group presents concerns to a three-member committee reviewing ex-presidents' perks. This move comes amid public debate about excessive benefits for former leaders.
@@ -2311,27 +2335,5 @@ He said that he was not politics, not politics, not a man of money, and he was e
 [Data](articles/ee57dfbc.json)
 
 [Extended Data](ext_articles/ee57dfbc.ext.json)
-
----
-
-### Special decision related to local government elections
-
-*2024-10-19 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202334) · `si`
-
-Saman Sri Ratnayake: New nominations not valid for next local government election. Current nominations apply. Decision may face legal challenges.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake says that new nominations are not used to the next local government election.
-
-He points out that the election will be held under the nominations.
-
-Speaking at a press conference held in Kandy, he added that this decision could be found in the courts.
-
-◼️
-
-[Data](articles/13791dfe.json)
-
-[Extended Data](ext_articles/13791dfe.ext.json)
 
 ---

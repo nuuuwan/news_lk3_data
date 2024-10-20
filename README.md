@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 07:28:02**
+As of **2024-10-20 08:04:50**
 
 ## Newspaper Stats
 
-*Scraped **50,331** Articles*
+*Scraped **50,334** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 406
-colombotelegraphcom | 504
 bbccomsinhala | 504
+colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,081
 dailyftlk | 3,433
@@ -20,17 +20,75 @@ dailymirrorlk | 4,733
 adaderanalk | 5,962
 tamilmirrorlk | 6,890
 virakesarilk | 8,058
-adaderanasinhalalk | 8,735
+adaderanasinhalalk | 8,737
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,324 (100.0%) of 50,331 articles have been extended.
+50,327 (100.0%) of 50,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Sri Lanka and West Indies Day commences today
+
+*2024-10-20 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202360) · `si`
+
+Sri Lanka vs West Indies cricket series begins today. Three-day ODI match at Pallekale stadium. Sri Lanka won previous T20 series 2-1.
+
+🟩
+
+The West Indies team and the three-day one-day cricket tournament between the Sri Lanka team will commence today (20).
+
+The tournament will be held at the Pallekale International Cricket Stadium.
+
+Sri Lanka won the 3-match T20 cricket tournament 2-1.
+
+◼️
+
+[Data](articles/2d2087fc.json)
+
+[Extended Data](ext_articles/2d2087fc.ext.json)
+
+---
+
+### Four killed in road accidents
+
+*2024-10-20 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202359) · `si`
+
+Road accidents claim 4 lives: 3-wheeler crash in Jaffna, motorcycle collision in Horana, truck smash in Kandy-Colombo highway.
+
+🟩
+
+Four persons including a woman and four persons were killed in road accidents that took place in the past 24 hours.
+
+The accidents were reported yesterday at Morotuduwa, Kopay, Karandeniya and Kadawatha yesterday.
+
+A 21-year-old youth has died in a motorcycle accident in Maharatuduwa - Horana road.
+
+The motorcycle, which was from the Millani to Morontuduwa to Morontuduwa, was impossible to control and clashed with a bulk in a bulk.
+
+The motorcyclist has been seriously injured and killed after being admitted to the Gonadu hospital.
+
+The deceased has been identified as a 21 year old resident of Morontuduwa.
+
+Meanwhile, a three-wheeler traveled by a three-wheeler traveled through Point Pedro from Point Pedro, Jaffna.
+
+The pavement was seriously injured and died on admission to the Jaffna Hospital.
+
+The deceased has been identified as a 68 year old resident of Jaffna.
+
+Meanwhile, the cartoon was killed in a culprian when a motorbike was in the opposite directory in the Amarandiya Amarakyirdigama.
+
+...
+
+[Data](articles/fe7a6bc6.json)
+
+[Extended Data](ext_articles/fe7a6bc6.ext.json)
+
+---
 
 ### Weather today
 
@@ -198,6 +256,8 @@ Although I still have not read this book, skimming through it I think it is well
 
 [Data](articles/32532dee.json)
 
+[Extended Data](ext_articles/32532dee.ext.json)
+
 ---
 
 ### Kumar David: Left Intellectual, Friend, Rascal
@@ -223,6 +283,20 @@ Memories of a grandaunt of the playwright whom I befriended and admired very muc
 ...
 
 [Data](articles/818c2e4a.json)
+
+---
+
+### Kumar David: Left Intellectual, Activist, Friend, Rascal
+
+*2024-10-20 00:39:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kumar-david-left-intellectual-activist-friend-rascal/) · `en`
+
+Much has already been written, and more will be written in the coming days about the much-loved Kumar David— electrical engineer, brilliant academic, Left intellectual, activist and writer who passed away on Monday in Los Angeles. Others will write about his academic achievements, his contribution to the Sri Lankan Left, his writings, etc. My short piece is more anecdotal.
+
+Kumar had been unwell for some time. In his last email to me on 14 August, he wrote: ‘I am still in LA. Health not too good. Hope to be in SL early 2025 if my health improves.’ Irrepressible as he always was, he added: ‘I understand that you are conning the poor buggers in Papua New Guinea or some such place on Constitutional matters.’
+
+...
+
+[Data](articles/29a9f10b.json)
 
 ---
 
@@ -2249,49 +2323,5 @@ National Record Holder: She currently holds the Sri Lankan national record for t
 ...
 
 [Data](articles/615b0193.json)
-
----
-
-### Standard Chartered Sri Lanka sets national benchmark as only EDGE Move certified organisation in Sri Lanka
-
-*2024-10-19 04:02:00* · [`islandlk`](http://island.lk/standard-chartered-sri-lanka-sets-national-benchmark-as-only-edge-move-certified-organisation-in-sri-lanka/) · `en`
-
-Standard Chartered Sri Lanka has announced a milestone achievement, obtaining the EDGE Move certification for the second consecutive time, in its commitment to nurture gender equality in the workplace. The certification, the second-highest level offered by the EDGE Certified Foundation (Equity, Diversity, and Gender Equality), is also a national benchmark, as Standard Chartered Sri Lanka is the only organisation in the country to attain the distinguished recognition.
-
-...
-
-[Data](articles/7e12230f.json)
-
----
-
-### Optimism over corporate sector quarterly results energizes CSE
-
-*2024-10-19 04:02:00* · [`islandlk`](http://island.lk/optimism-over-corporate-sector-quarterly-results-energizes-cse/) · `en`
-
-Stock market investor sentiment was positive yesterday as most local and foreign investors were optimistic that quarterly results of corporate sector entities would remain positive, as was the case with the last quarterly results, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 27.16 points, while S and P SL20 rose by 13.72 points.
-
-Turnover stood at Rs 1.9 billion with three crossings. Those crossings were reported in LB Finance, which crossed 4.8 million shares to the tune of Rs 346 million; its shares traded at Rs 71.50, Dialog 5million shares crossed for Rs 55 million; its shares traded at Rs 11 and Janashakthi Insurance 500,000 shares crossed for Rs 20 million; its shares sold at Rs 40.
-
-...
-
-[Data](articles/9a3e89f2.json)
-
-[Extended Data](ext_articles/9a3e89f2.ext.json)
-
----
-
-### Hemas Hospitals launches ‘BreastOber 2024’ – A renewed commitment to champion breast cancer awareness
-
-*2024-10-19 04:02:00* · [`islandlk`](http://island.lk/hemas-hospitals-launches-breastober-2024-a-renewed-commitment-to-champion-breast-cancer-awareness/) · `en`
-
-As Breast Cancer Awareness Month returns this October, Hemas Hospitals is stepping up its commitment with the launch of ‘BreastOber 2024.’ This annual initiative is aimed at educating women on the importance of early detection while improving access to life-saving diagnostic tools. With breast cancer remaining the most common form of cancer among women globally, the need for awareness and action is more critical than ever.
-
-...
-
-[Data](articles/cec3b2b3.json)
-
-[Extended Data](ext_articles/cec3b2b3.ext.json)
 
 ---

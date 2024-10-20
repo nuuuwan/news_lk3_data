@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 02:39:19**
+As of **2024-10-21 02:57:45**
 
 ## Newspaper Stats
 
-*Scraped **50,454** Articles*
+*Scraped **50,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 505
 colombotelegraphcom | 507
 islandlk | 2,998
 economynextcom | 3,084
-dailyftlk | 3,437
+dailyftlk | 3,443
 adalk | 4,681
 dailymirrorlk | 4,733
 adaderanalk | 5,976
-tamilmirrorlk | 6,907
+tamilmirrorlk | 6,908
 virakesarilk | 8,094
 adaderanasinhalalk | 8,761
 
@@ -26,11 +26,159 @@ adaderanasinhalalk | 8,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,454 (100.0%) of 50,454 articles have been extended.
+50,456 (100.0%) of 50,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Ex-President Mahinda contests Govt. claims on official vehicle allocations
+
+*2024-10-21 02:51:09* · [`dailyftlk`](https://www.ft.lk/news/Ex-President-Mahinda-contests-Govt-claims-on-official-vehicle-allocations/56-768220) · `en`
+
+Former President Mahinda Rajapaksa’s media unit on Saturday issued a statement contesting recent claims by the Government Information Department regarding the number of vehicles allocated for his use and security purposes.
+
+The statement called the figures released by the Department inaccurate, asserting that they do not reflect the actual number of vehicles in his possession.
+
+According to the media unit, Rajapaksa currently uses six vehicles, three of which are scheduled to be returned today (21), following written instructions from the Presidential Secretariat.
+
+It also pointed out that Rajapaksa, who served as the fifth Executive President of Sri Lanka, is the most threatened past leader in terms of assessment by the intelligence authorities, and that these vehicles were used for his security.
+
+...
+
+[Data](articles/8f112087.json)
+
+---
+
+### Tea industry crucial to economic growth: Minister Vijitha Herath
+
+*2024-10-21 02:47:27* · [`dailyftlk`](https://www.ft.lk/business/Tea-industry-crucial-to-economic-growth-Minister-Vijitha-Herath/34-768219) · `en`
+
+Industries Minister Vijitha Herath last week underscored the critical role of the tea industry in driving economic growth, job creation and international recognition during his address at the 34th Annual General Meeting (AGM).
+
+Herath called for a collective effort from all stakeholders to strengthen the sector, highlighting the importance of collaboration between tea factory owners, exporters, labourers and the Government to ensure a prosperous future for the industry.
+
+“The tea industry remains a cornerstone of our economy. The industry is not only a key source of revenue and employment generation, but also brings global recognition to Sri Lanka through a humble cup of Ceylon Tea,” he said, reassuring the Government’s commitment to supporting the sector while navigating the complexities of maintaining worker satisfaction and boosting productivity.
+
+...
+
+[Data](articles/15162deb.json)
+
+---
+
+### Virann de Zoysa appointed to Nawaloka Hospitals Board
+
+*2024-10-21 02:45:34* · [`dailyftlk`](https://www.ft.lk/business/Virann-de-Zoysa-appointed-to-Nawaloka-Hospitals-Board/34-768218) · `en`
+
+Virann de Zoysa has been appointed as an Independent Non-Executive Director of Nawaloka Hospitals PLC.
+
+De Zoysa is the holder of an Undergraduate Degree in Finance and Accounting from Clarion University, USA and also holds a Master of Business Administration from Edith Cowan University, Australia.
+
+Having gained experience in both the Finance and Project Management fields at Parker Hunter Finance PA and Virtusa Inc. De Zoysa made the move to Associated Motorways Ltd., in 2004 taking up positions in Automotive Marketing After Sales Service and Brand Management. He currently serves as a Director Associated Motorways Ltd.
+
+De Zoysa is also experienced in the tourism and hospitality sector taking over as a Director of Arika Villas Dambulla, a boutique hotel in Dambulla, Sri Lanka. He was recently appointed as the Chairman of the Ceylon Motor Traders’ Association, an affiliate of the Ceylon Chamber of Commerce, representing the automotive industry in Sri Lanka.
+
+◼️
+
+[Data](articles/eb35d832.json)
+
+---
+
+### Alliance Finance and Regen Solar unite to power greener future with sustainable energy solutions
+
+*2024-10-21 02:43:13* · [`dailyftlk`](https://www.ft.lk/business/Alliance-Finance-and-Regen-Solar-unite-to-power-greener-future-with-sustainable-energy-solutions/34-768217) · `en`
+
+Regen Solar MD/CEO Dr. Lakmal Fernando (fourth from left) with Alliance Finance Company Deputy Chairman/Managing Director Romani De Silva (fifth from left) at the signing
+
+In a bid to promote sustainability across their entire organisation, Alliance Finance Company PLC (AFC) recently partnered with Regen Renewables Ltd. to implement a solar power initiative across its branch network. This collaboration will see the commissioning of 173kW of solar power through Regen Solar’s innovative and eco-friendly solutions.
+
+...
+
+[Data](articles/79387a6a.json)
+
+---
+
+### All-time record price for Uplands Tea Factory
+
+*2024-10-21 02:40:29* · [`dailyftlk`](https://www.ft.lk/business/All-time-record-price-for-Uplands-Tea-Factory/34-768216) · `en`
+
+Uplands Tea Factory located in Gampola, Kandy established yet another record price of Rs. 2,800 per kilogram for a PKE1 grade and Rs. 2,200 per kilo for a BOP grade in the medium grown category, at the auction held on 15 and 16 October.
+
+This surpassed their previous record price of Rs. 2,550 for PKE1 grade, reflecting a significant achievement.
+
+Uplands Tea Factory is owned by P. Sawarimuttu Retti & Sons Ltd., and the team is keen on producing premium quality teas for weekly tea auctions which was bought for premium blends by the buyer community.
+
+This invoice of tea was purchased by M/S Shan Teas Ltd., and the sale was conducted by Mercantile Produce Brokers Ltd.
+
+◼️
+
+[Data](articles/f40ee61e.json)
+
+---
+
+### Russia - the exchange of Ukraine inmates
+
+*2024-10-21 02:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யா-உக்ரைன்-கைதிகள்-பரிமாற்றம்/50-345745) · `ta`
+
+Russia-Ukraine prisoner swap: 190 captives exchanged after 3-year conflict. 95 Ukrainians freed from Russia, 95 Russians from Ukraine. Negotiations led to release of both sides' soldiers.
+
+🟩
+
+The two countries have exchanged 190 war prisoners as a major twist of the conflict that lasted for about 3 years between Russia and Ukraine.
+
+Negotiations were held on the release of the captives between Russia and Ukraine.Following this, 95 Ukrainian soldiers who were currently holding Russia have been released.
+
+Similarly, Ukraine has released 95 Russian soldiers. Liberated warriors have returned to their own countries happy. (A)
+
+◼️
+
+[Data](articles/41a70a82.json)
+
+[Extended Data](ext_articles/41a70a82.ext.json)
+
+---
+
+### Zellers reintroduces iconic chocolates with new flavours
+
+*2024-10-21 02:30:00* · [`dailyftlk`](https://www.ft.lk/business/Zellers-reintroduces-iconic-chocolates-with-new-flavours/34-768214) · `en`
+
+The new range of Zellers Chocolates unveiling by Maliban Group Chairperson/Managing Director A.G. Kumudika Fernando, CEO Ravi Jayawardene, Director A.G. Tharangitha Samaraweera, and Director A.G. Shanaka Wickramapala with Maliban Group officials at the event – Pic by Ruwan Walpola
+
+The return of Zellers Chocolates aims to reshape Sri Lanka’s premium chocolate market while reviving cherished memories from the past.
+
+Zellers stands as a pioneer in local craftsmanship and innovation, as fine chocolates have become a beloved indulgence and synonymous with amazing moments. Now, the brand aims to bring Sri Lankans world-class chocolates with a local twist, paying homage to the fond memories of time-honoured generations, while helping a whole new generation create their own.
+
+...
+
+[Data](articles/442d0e9d.json)
+
+[Extended Data](ext_articles/442d0e9d.ext.json)
+
+---
+
+### New Zealand is the first time in the ICC Women's R20 World Cup
+
+*2024-10-21 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196737) · `ta`
+
+New Zealand wins inaugural ICC Women's R20 World Cup, defeating South Africa in UAE final.
+
+🟩
+
+New Zealand won the Champions title for the first time in the 9th ICC Women's R20 World Cup chapter in the United Arab Emirates.
+
+For the first time, the two teams have come up with the aim of taking the ICC Women's R20 World Cup.
+
+New Zealand scored 158 runs for the loss of 5 wickets in 20 overs, scoring first in the final of the final at the Dubai International Cricket Stadium on Sunday (20).
+
+South Africa lost 9 wickets in 20 overs and lost 126 runs.
+
+◼️
+
+[Data](articles/bed634b6.json)
+
+[Extended Data](ext_articles/bed634b6.ext.json)
+
+---
 
 ### Rights of children with disabilities: Challenge for new President and incoming Government
 
@@ -79,30 +227,6 @@ Avishka Fernando (5), Kusal Mendis (13) and Sadheera Samarawickrama (18) lost th
 [Data](articles/3bbe44ae.json)
 
 [Extended Data](ext_articles/3bbe44ae.ext.json)
-
----
-
-### New Zealand is the first time in the ICC Women's R20 World Cup
-
-*2024-10-20 23:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196737) · `ta`
-
-New Zealand wins inaugural ICC Women's R20 World Cup, defeating South Africa in UAE final.
-
-🟩
-
-New Zealand won the Champions title for the first time in the 9th ICC Women's R20 World Cup chapter in the United Arab Emirates.
-
-For the first time, the two teams have come up with the aim of taking the ICC Women's R20 World Cup.
-
-New Zealand scored 158 runs for the loss of 5 wickets in 20 overs, scoring first in the final of the final at the Dubai International Cricket Stadium on Sunday (20).
-
-South Africa lost 9 wickets in 20 overs and lost 126 runs.
-
-◼️
-
-[Data](articles/bed634b6.json)
-
-[Extended Data](ext_articles/bed634b6.ext.json)
 
 ---
 
@@ -2187,189 +2311,5 @@ Accordingly, she will become the first Sri Lankan judge to act as a judge in the
 [Data](articles/863852b0.json)
 
 [Extended Data](ext_articles/863852b0.ext.json)
-
----
-
-### Chilaw - Fire in Singapura
-
-*2024-10-20 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/196666) · `ta`
-
-Fire in Chilaw, Singapura: Three family members killed. Police investigating cause.
-
-🟩
-
-Three people were killed in a fire that broke out on Saturday (19) in a house in Chilaw, Singapura, police said.
-
-Chilaw police said that the mother, father and their daughter died in the fire.
-
-The 42 -year -old male, a 40 -year -old woman and a 15 -year -old girl died, police said.
-
-Further, the cause of the fire has not yet been identified and the Chilaw police are conducting further investigations.
-
-◼️
-
-[Data](articles/a008f2cb.json)
-
-[Extended Data](ext_articles/a008f2cb.ext.json)
-
----
-
-### The cab driver who went to kill people under a cab
-
-*2024-10-20 10:02:23* · [`adalk`](https://www.ada.lk/breaking_news/කැබ්රියකට-යටකර-පුද්ගලයන්-මරා-දැමිමට-ගිය-කැබ්-රියදුරු-අල්ලයි/11-412564) · `si`
-
-Cab driver kills passengers Moneragala Wellassa arrest ongoing
-
-🟩
-
-In the Moneragala Wellassa area, two persons have been arrested in connection with the cabal and the cabin of the crime, said Moneragala Police.
-
-It has been identified as a resident of Moneragala, Moneragala, Kumbukaana, Kumbukana.
-
-According to the police, the suspect to kill the injured and the suspenses of the injured and the suspension of the injured, the suspects revealed that the accident had been revealed.
-
-The Kandy General Hospital is receiving critical injuries in the accident, the police said.
-
-A spokesman for the Moneragala at the Moneragala hospital stated that the condition of the injured was quite serious.
-
-The police said that the injured have been attended by a group of suspects in the accident, and a group of suspects had a conflict with the injured.
-
-In the Moneragala area, the police were present at the Moneragala, the Moneragala, the Moneragala area to travel to the Moneragala, Wellawaya main road.It was revealed at the table.
-
-...
-
-[Data](articles/0f439943.json)
-
-[Extended Data](ext_articles/0f439943.ext.json)
-
----
-
-### Shoots the co-ordinance of police orders
-
-*2024-10-20 09:47:42* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-අණ-නොතකා-ගිය-කැබ්රියට-වෙඩි-තබයි/11-412563) · `si`
-
-Udugama police station reports incident at junction. Three flee, cows and buffalo found. Suspects identified, one arrested. Investigations ongoing.
-
-🟩
-
-The Udugama police station has spoken by the Udugama police station at the Udugama Junction at the Udugama Junction at Udugama Junction, in the Hiniduma area.
-
-Three people in the corporation have fled.In checking, a cow and a buffalo is found to be put in place.
-
-The cattle are loaded from the Hiniduma area and the Hiniduma Police have passed the suspects at the Hiniduma Police raid.
-
-One suspect who fled was arrested by the Udugama Police. The suspect is a resident of Hambantota.
-
-Udugama Police are conducting investigations to find other suspects. OIC Chief Inspector Duminda Kannara, OIC of Udugama Police is conducting investigations.
-
-◼️
-
-[Data](articles/f990aa1f.json)
-
-[Extended Data](ext_articles/f990aa1f.ext.json)
-
----
-
-### Israel attacked by north Gaza
-
-*2024-10-20 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202363) · `si`
-
-Israel attacks North Gaza, killing 73 civilians. Foreign media reports women and children casualties. Israeli forces claim Hamas targets.
-
-🟩
-
-73 people were killed in the North Gaza.
-
-The foreign media reports are among the women and children.
-
-It has been reported that the attack has been reported as counterfeit to the Israeli security forces.
-
-The Israeli security forces say that the attack on the attack is a target of Hamas terrorists.
-
-◼️
-
-[Data](articles/64a72b70.json)
-
-[Extended Data](ext_articles/64a72b70.ext.json)
-
----
-
-### In some places the intermittent rain
-
-*2024-10-20 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/196664) · `ta`
-
-Intermittent rain forecasted in several provinces. Thunderstorms possible with strong winds and lightning. Sea regions may experience turbulence due to high-speed gusts. Public advised to remain vigilant.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that there will be frequent showers or thunderstorms in the Northern Province.
-
-Rainfall is likely to occur in Sabaragamuwa, Upper, North Western and Southern Provinces as well as Kandy and Nuwara Eliya districts.
-
-There are many places in the Uva, Eastern and North Central Provinces in the evening or night.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Rainfall is expected in the sea regions from Puttalam to Colombo and Galle.
-
-Winds from the southwestern direction at speeds of 25 - 35 km / h in the sea regions around the country.
-
-From the beginning of the Kankesanthurai to Mannar, as well as the speed of over 40 to 45 km per hour in the sea regions from Hambantota to Pottuvil, the wind can be increased.. In such cases, these sea regions are somewhat turbulent.
-
-But when the thunderstorm is raining, strong winds are blowing and the sea regions are temporarily in a very turbulent.
-
-◼️
-
-[Data](articles/5f7e20be.json)
-
-[Extended Data](ext_articles/5f7e20be.ext.json)
-
----
-
-### Pa. Ranjith Published. J.. Balaji's 'Paravasal' film Burst Look
-
-*2024-10-20 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196661) · `ta`
-
-J. Balaji stars in "Paravasal," a new film directed by Siddharth Viswanath. Produced by Swipe Right Studios, it's about a prisoner in paradise. First look released; production ongoing.
-
-🟩
-
-Actor and director. J.. The new film, which plays the role of the hero of the Balaji story, has been named 'Paravasal' and its first look has been released.
-
-Director and producer Pa. Ranjith posted on his web page and congratulated the film crew.
-
-In the film 'Parakavasal' directed by Siddharth Viswanath. J.. Balaji plays the hero of the story.
-
-The film, which is a different angle, has been produced by Swipe Right Studios.
-
-The shooting of the film is completed and the technical work of the film is currently underway.
-
-In this case, the film's title and Burst Look have been released. In this r. J.. Balaji appears to be a prisoner and is a 'paradise' in the title of the film.
-
-◼️
-
-[Data](articles/82390b93.json)
-
-[Extended Data](ext_articles/82390b93.ext.json)
-
----
-
-### Three killed in fire
-
-*2024-10-20 08:52:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீ-விபத்தில்-மூவர்-பலி/175-345709) · `ta`
-
-Fire kills three family members: 42-year-old father, 40-year-old mother, and 15-year-old daughter found dead in Chilaw-Singhapura area.
-
-🟩
-
-The bodies of three members of the same family have been found from a fire in the Chilaw - Singhapura area.
-
-The 42 -year -old father, a 40 -year -old mother and their 15 -year -old daughter have been recovered.
-
-◼️
-
-[Data](articles/100f9881.json)
-
-[Extended Data](ext_articles/100f9881.ext.json)
 
 ---

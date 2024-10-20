@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 09:25:38**
+As of **2024-10-20 09:39:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,346 (100.0%) of 50,347 articles have been extended.
+50,347 (100.0%) of 50,347 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -352,25 +352,41 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### කාන්තාවන් වෙනුවෙන් ම ඇති කොන්ඩම් ගැන ඔබ දන්නවා ද?
+### Do you know about the condoms for women?
 
 *2024-10-20 03:28:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kj0gnm247o) · `si`
 
-ලිංගාශ්‍රිතව බෝවන රෝගවලින් ආරක්ෂා වීමට මෙන් ම අනපේක්ෂිත ගැබ් ගැනීම් වැළැක්වීමට ‘කොන්ඩම්’ හෙවත් උපත් පාලන කොපු බහුලව භාවිත කරනු ලබයි.
+Here's a 200-character summary:
 
-විවිධ වර්ගවලින්, හැඩයෙන් සහ රසයෙන් යුක්තව නිපදවා ඇති කොන්ඩම් වැඩි වශයෙන් නිර්මාණය කර ඇත්තේ පිරිමින්ට පැළඳීම සඳහා ය.
 
-එහෙත්, කාන්තාවන් වෙනුවෙන් පවා අද වන විට කොන්ඩම් නිර්මාණය කර ඇති බව ඔබ දන්නවා ද?
 
-කාන්තාවන්ගේ සෞඛ්‍ය ආරක්ෂාව උදෙසා HIV හා ලිංගාශ්‍රිත රෝගවලින් මෙන් ම අනපේක්ෂිත ගැබ් ගැනීම් වළක්වා ගැනීම වෙනුවෙන් වූ ආරක්ෂාකාරී විකල්පයක් ලෙස කාන්තා කොන්ඩම් හැඳින්විය හැකිය.
+Women's condoms provide safe alternative pregnancy prevention and STD protection. Less common than male condoms, they offer similar benefits. Easily usable without medical training. Available in Sri Lanka through health organizations.
 
-ලොව පුරා ප්‍රචලිත වෙමින් පවතින කාන්තා කොන්ඩම් (Internal Condom ‍| Female Condom) මේ වන විට ශ්‍රී ලංකාව තුළ ප්‍රචලිත කිරිම කෙරෙහි සෞඛ්‍ය අංශවල අවධානය යොමුව ඇති අතර දැනටමත් ඒ සඳහා වැඩසටහන් ක්‍රියාත්මකව පවතියි.
+🟩
 
-'තාමත් ඉස්කොලේ පොතට කොන්ඩම් කියන වචනය දාගන්න බැරිවෙලා තියෙනවා':මෙරට ලිංගික අධ්‍යාපනය ප්‍රමාණවත්ද?
+Street-bowledical prevalence is common to protect and prevail unexpected pregnancies.
+
+Most of different types of shape and tastes are more designed to wear to men.
+
+But do you know that the condoms have been created today for women?
+
+Women's condoms can be called a safe alternative to prevent the health of women's health care.
+
+The health aspects of the health sector have been focused on the development of the British Condom (FEMALE CONDOM) in Sri Lanka.
+
+'Still, the book of the school has not been able to put the word condom': Is Sri Lankan sex education enough?
+
+Women condoms say: "If the man does not want to use a condom, the women protect women from STDs," said Specialist Dr. Tilani Ratnayake.
+
+"This is just like the male condom. If used, HIV and other STDs are able to avoid. Sometimes the Internet condoms called the Internet condom. "
+
+The specialist donation of the women's condom vague, "put in the vagina in the vagina. The male condom is effective, "said.
 
 ...
 
 [Data](articles/e75fcdd1.json)
+
+[Extended Data](ext_articles/e75fcdd1.ext.json)
 
 ---
 

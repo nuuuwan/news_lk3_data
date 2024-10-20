@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 01:08:44**
+As of **2024-10-21 01:23:40**
 
 ## Newspaper Stats
 
-*Scraped **50,452** Articles*
+*Scraped **50,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,681
 dailymirrorlk | 4,733
 adaderanalk | 5,976
 tamilmirrorlk | 6,907
-virakesarilk | 8,093
+virakesarilk | 8,094
 adaderanasinhalalk | 8,761
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,452 (100.0%) of 50,452 articles have been extended.
+50,453 (100.0%) of 50,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,38 @@ The current administrative arrangements do not seem to have brought the required
 ---
 
 ### 2024-10-20 (Sunday)
+
+### Sri Lanka won the West Indies by 5 wickets in the Duckworth Louis system;Madhushka, Asalann ODI has made it easy
+
+*2024-10-20 23:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196738) · `ta`
+
+Sri Lanka wins West Indies ODI by 5 wickets. Madhushka and Asalanka share 137-run partnership. Rain delays impact match. Sri Lanka leads 1-0 in series.
+
+🟩
+
+Sri Lanka won the West Indies by 5 wickets in the West Indies, according to the West Indies, in the first ODI match, which was blocked by rain on Sunday (20) at the Pallekel International Cricket Stadium in Kandy.
+
+The half -century of debutant Nishan Madushka and team captain Sarith Asalan and the 137 runs shared in the 4th wicket led to Sri Lanka's victory.
+
+With this victory, Sri Lanka is leading 1 - 0 in the ODI series with three matches.
+
+West Indies, who decided to bat first, were disrupted by the rain when it rained 185 runs for the loss of 4 wickets in 38.3 overs.
+
+Sharefan Radhabard did not play with 74 runs and Roston Chase 33.
+
+When the banned game at 5.00 pm continued again at 8.25 pm, Sri Lanka's Duckworth Lewis system was set to 232 in 37 overs.
+
+Sri Lanka scored 234 runs for the loss of 5 wickets in 31.5 overs.
+
+Avishka Fernando (5), Kusal Mendis (13) and Sadheera Samarawickrama (18) lost the game when Sri Lanka was bowled out.. (45 - 3 wig.)
+
+...
+
+[Data](articles/3bbe44ae.json)
+
+[Extended Data](ext_articles/3bbe44ae.ext.json)
+
+---
 
 ### New Zealand is the first time in the ICC Women's R20 World Cup
 
@@ -2347,27 +2379,5 @@ A Finance Ministry report said China Exim Bank had capitalized 200.9 million US 
 [Data](articles/14e3c69f.json)
 
 [Extended Data](ext_articles/14e3c69f.ext.json)
-
----
-
-### Three arrests with fake currency notes
-
-*2024-10-20 08:40:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-நாணயத்தாள்களுடன்-மூவர்-கைது/175-345708) · `ta`
-
-Arrests made during STF road raid: Three men (34, 43, 46) from Kaluwanchikudi/Batticaloa caught with fake currency. Main suspect and two companions detained.
-
-🟩
-
-The suspects are from Kaluwanchikudi and Batticaloa, aged 34,43 and 46 years old.
-
-During the sudden road raid carried out by the Special Task Force, the fake currency notes were found when a car was inspected.
-
-The main suspect has been arrested in connection with the incident and two more people traveling with him in the car have been arrested.
-
-◼️
-
-[Data](articles/e8078d40.json)
-
-[Extended Data](ext_articles/e8078d40.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 13:40:42**
+As of **2024-10-20 13:59:19**
 
 ## Newspaper Stats
 
-*Scraped **50,377** Articles*
+*Scraped **50,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,969
 tamilmirrorlk | 6,902
 virakesarilk | 8,063
-adaderanasinhalalk | 8,744
+adaderanasinhalalk | 8,745
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,377 (100.0%) of 50,377 articles have been extended.
+50,378 (100.0%) of 50,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### 31 youths arrested for carrying drugs to party
+
+*2024-10-20 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202368) · `si`
+
+31 youths arrested for drug possession at Nuwara Eliya party. Police seized ice, alcohol, and cannabis. Attendees came from across the island.
+
+🟩
+
+31 youths have been arrested for a Facebook party planned to be held at the Nuwara Eliya public resort.
+
+The Nuwara Eliya Headquarters Police said that they were taken into custody including ice, alcohol and cannabis they had.
+
+The moon is that young youths have come to this party from various parts of the island.
+
+◼️
+
+[Data](articles/2bf1143e.json)
+
+[Extended Data](ext_articles/2bf1143e.ext.json)
+
+---
 
 ### We're making a bold opposition - Dilith
 
@@ -2317,29 +2339,5 @@ Wildlife Veterinary Sameera, Kalagu Arachchi, who was treated the Wanlanda, said
 [Data](articles/eaa3365d.json)
 
 [Extended Data](ext_articles/eaa3365d.ext.json)
-
----
-
-### India doubles grant to upgrade Sri Lanka plantation sector schools: former minister
-
-*2024-10-19 14:30:00* · [`economynextcom`](https://economynext.com/india-doubles-grant-to-upgrade-sri-lanka-plantation-sector-schools-former-minister-184217/) · `en`
-
-ECONOMYNEXT – The Government of India has formally doubled their grant support for upgrading 9 schools in the plantation sector, at a total of cost of 600 million rupees, former minister Jeevan Thondaman said.
-
-“Glad to announce that the Government of India has formally doubled their grant support for upgrading 9 schools in the plantation sector – a total of Rs. 600 million,” Thondaman said on X.
-
-“These and many other projects that will launch in the coming months are part of a Rs. 2.6 billion (INR. 750m) grant India agreed to provide us last year.”
-
-Once the school projects are completed, they will make a transformative impact on the lives of the students in the plantation sector, Thondaman said.
-
-This agreement was the result of projects that were agreed over the course of last year during his time as minister, he said.
-
-“The core of my work as a Cabinet Minister for 1 1/2 years has been to improve access to education and better education facilities for the plantation community.
-
-...
-
-[Data](articles/bb91aa59.json)
-
-[Extended Data](ext_articles/bb91aa59.ext.json)
 
 ---

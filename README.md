@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 14:12:55**
+As of **2024-10-20 14:24:35**
 
 ## Newspaper Stats
 
-*Scraped **50,379** Articles*
+*Scraped **50,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,969
 tamilmirrorlk | 6,902
 virakesarilk | 8,063
-adaderanasinhalalk | 8,746
+adaderanasinhalalk | 8,747
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,379 (100.0%) of 50,379 articles have been extended.
+50,379 (100.0%) of 50,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### කාසියේ වාසිය කොදෙව්වන්ට
+
+*2024-10-20 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202370) · `si`
+
+ශ්‍රී ලංකාව සහ බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමග තරග තුනකින් සමන්විත එක්දින තරගාවලියේ පළමු තරගය අද (20) පැවැත්වෙයි.
+
+එම තරගයේ කාසියේ වාසිය දිනාගැනීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමත් විය.
+
+තරගය තව සුළු මොහොතකින් පල්ලේකැළේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී ආරම්භ වීමට නියමිතය.
+
+දෙරට අතර මේ වනවිට එක්දින තරගාවලි 9ක් පවත්වා ඇති අතර ඉන් තරගාවලි 5ක ජය ශ්‍රී ලංකාව සතුවෙද්දි බටහිර ඉන්දිය කොදෙව් කණ්ඩායම තරගාවලි 3ක ජය අත්කරගෙන තිබේ.
+
+◼️
+
+[Data](articles/75994ebd.json)
+
+---
 
 ### Scholars gathered before the BRICS summit
 
@@ -766,11 +784,11 @@ The government announced that 8 out of the 16 government vehicles used by former
 
 *2024-10-20 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102806/three-killed-in-house-fire-in-chilaw) · `en`
 
-Three members of the same family including a child were reportedly killed in a house fire in the Sinhapura area of Chilaw.
+Three members of the same family including a teenager were reportedly killed in a house fire in the Sinhapura area of Chilaw.
 
-The victims, a mother, father, and their child died in the fire, which broke out last night (19), according to the Chilaw Police.
+The victims, a mother, father, and their daughter died in the fire, which broke out last night (19), according to the Chilaw Police.
 
-Police reported that the bodies were discovered during a search following information they received. The deceased have been identified as a 42-year-old man, a 40-year-old woman, and a 15-year-old girl.
+Police reported that the bodies were discovered during a search following information they received regarding a house fire. The deceased have been identified as a 42-year-old man, a 40-year-old woman, and a 15-year-old girl.
 
 The cause of the fire is yet to be determined, and Chilaw Police have launched an investigation into the incident.
 
@@ -1065,6 +1083,8 @@ The specialist donation of the women's condom vague, "put in the vagina in the v
 Ceylinco General Insurance conducted its annual Beach Clean-up program along over 100 km of Sri Lanka’s coastline, with participation from staff across its branches and head office. Held for the third consecutive year, the initiative aims to combat increasing pollution along tourist and densely populated beaches. Over 1,250 employees volunteered, collecting and segregating plastics and other waste, which was then responsibly disposed of through local municipal councils. The project’s goal is to restore the coastline’s natural beauty, protect marine life, and encourage other organizations and citizens to maintain clean beaches.
 
 Ceylinco Life Sports Festival 2024 sees more than 1,000 participants
+
+GSCS International and JAAF drive sustainable development in apparel sector
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
@@ -2315,33 +2335,5 @@ Therefore, the Ministry of Health added that it is very careful when using the s
 [Data](articles/d63f6427.json)
 
 [Extended Data](ext_articles/d63f6427.ext.json)
-
----
-
-### Israeli Prime Minister is a drone attack on Benjamin's home
-
-*2024-10-19 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202340) · `si`
-
-Israeli PM Netanyahu's home targeted in drone attack. No injuries reported. Attack observed from Lebanon. Defense forces intercepted 3 drones, 2 confirmed as hostile. Incident under investigation.
-
-🟩
-
-The Israeli Prime Minister of Prime Minister Benjamin was aimed at a drone strike.
-
-Foreign media reports that the Prime Minister's residence in Caesareiya, northern Lebanon, has been attacked at home.
-
-The Prime Minister Nethanyahu's media spokesman has said that no person has been injured in the attack.
-
-The Israeli security forces have observed this attack from Lebanon.
-
-The Israeli defense sector has acted three drones from Lebanon and 2 of them.
-
-The attack is yet to be stated on whether the attack.
-
-◼️
-
-[Data](articles/48797de4.json)
-
-[Extended Data](ext_articles/48797de4.ext.json)
 
 ---

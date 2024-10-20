@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 18:33:27**
+As of **2024-10-20 18:44:19**
 
 ## Newspaper Stats
 
-*Scraped **50,407** Articles*
+*Scraped **50,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,083
 dailyftlk | 3,433
 adalk | 4,678
 dailymirrorlk | 4,733
-adaderanalk | 5,972
-tamilmirrorlk | 6,905
+adaderanalk | 5,973
+tamilmirrorlk | 6,907
 virakesarilk | 8,072
 adaderanasinhalalk | 8,752
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 8,752
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,407 (100.0%) of 50,407 articles have been extended.
+50,407 (100.0%) of 50,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### ஓய்வு பெற்ற அதிபருடன் இளைஞன் ஓரினச்சேர்க்கை
+
+*2024-10-20 18:21:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வு-பெற்ற-அதிபருடன்-இளைஞன்-ஓரினச்சேர்க்கை/175-345730) · `ta`
+
+ஓய்வு பெற்ற 63 வயதான அதிபர் ஒருவருடன் ஓரினசேர்க்கையில் ஈடுபட்ட 21 வயதான இளைஞன், அதனை வீடியோவாக எடுத்து அவரிடம் அச்சுறுத்தி கப்பமாக 25 ஆயிரம் ரூபாய் பணம்  கோரியிருந்த நிலையில், அவ்விளைஞன்,   சனிக்கிழமை (19) கைது செய்யப்பட்டுள்ளார். இந்த சம்பவம், ஏறாவூரில் இடம்பெற்றுள்ளது.
+
+இந்த இளைஞன், வேறு ஒரு பாடசாலையில் கல்விகற்று வந்துள்ளான். அங்கு    சிறுமி ஒருவருடன் ஏற்பட்ட தகாத உறவை அடுத்து, அவ்விளைஞன், கைது செய்யப்பட்டு, குறித்த அதிபர் 2014 ஆ​ம் ஆ ண்டு கடமையாற்றிய  பாடசாலைக்கு இடமாற்றப்பட்டு  அனுமதிக்கப்பட்டான்.
+
+இந்த நிலையில் குறித்த சிறுவனுடன் அதிபர் ஓரினச்சேர்க்கையில் ஈடுபட்டுவந்துள்ளார்.  அதிபர் கடந்த 3 வருடங்களுக்கு முன்னர் ஓய்வு பெற்றுள்ளார்.  சிறுவனும் இளைஞனாகி, பாடசாலை கல்வியை முடித்து வெளியேறியுள்ளான். எனினும், இருவரும் தொடர்ந்து ஓரின சேர்க்கையில் ஈடுபட்டுவந்துள்ளனர். அதனை அவ்விளைஞன் இளைஞன் வீடியோ எடுத்துள்ளான்.
+
+...
+
+[Data](articles/f74eca75.json)
+
+---
+
+### Heavy showers above 100mm expected in Northern Province
+
+*2024-10-20 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102815/heavy-showers-above-100mm-expected-in-northern-province) · `en`
+
+The Department of Meteorology says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces and in Jaffna, Mannar and Kilinochchi districts.
+
+Showers or thundershowers will occur at several places in the other areas of the island during the evening or night.
+
+Heavy showers above 100mm are likely at some places in Northern Province, it said, adding that fairly heavy showers above 50mm are likely at some places elsewhere.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/9d71348a.json)
+
+---
+
+### தேர்தல்களை முன்னிட்டு SLPP புதிய தீர்மானம்
+
+*2024-10-20 18:09:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்களை-முன்னிட்டு-SLPP-புதிய-தீர்மானம்/175-345728) · `ta`
+
+தேர்தலை வெற்றிகரமாக நடத்துவதற்குத் தேவையான ஆதரவை வழங்குவதற்கும், எதிர்காலத் தீர்மானங்களுக்கு தலைமைத்துவம் மற்றும் சரியான வழிகாட்டுதலை வழங்குவதற்கும் மூலோபாயக் குழுவொன்றை அமைக்க ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) தீர்மானித்துள்ளது.
+
+எதிர்வரும் பொதுத் தேர்தல் மற்றும் மாகாண சபைத் தேர்தலை இலக்கு வைத்து அக்கட்சி இந்த தீர்மானத்தை எடுத்துள்ளது.
+
+இந்த வியூகக் குழுவை அமைப்பதன் முக்கிய நோக்கம், வரவிருக்கும் தேர்தல்களை ஒரு கட்சியாக எதிர்கொள்வதற்கான வலிமையையும் வழிகாட்டலையும் வேட்பாளர்களுக்கு வழங்குவதாகும்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளரும் முன்னாள் அமைச்சருமான நாமல் ராஜபக்ச தனது எக்ஸ் பக்கத்தில் இந்த விடயம் குறித்து தெளிவுபடுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/35e9ba32.json)
+
+---
 
 ### Yewan David, who renewed Sri Lanka Motor Running History
 
@@ -2279,79 +2331,5 @@ The management of Bandaranaike International Airport (BIA) together with all rel
 [Data](articles/9b1f59bf.json)
 
 [Extended Data](ext_articles/9b1f59bf.ext.json)
-
----
-
-### 2025 Budget to be presented in February or March - President
-
-*2024-10-19 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102800/2025-budget-to-be-presented-in-february-or-march-president) · `en`
-
-President Anura Kumara Dissanayake has announced that the 2025 Budget proposal will be presented in February or March 2025.
-
-He stated that the budget proposal will focus on increasing salaries of the state sector, providing allowances for school children, and also increasing allowances for the underprivileged and disabled communities.
-
-President Dissanayake also stated that the new government will present a Vote on Account in December this year.
-
-◼️
-
-[Data](articles/2afe08b2.json)
-
-[Extended Data](ext_articles/2afe08b2.ext.json)
-
----
-
-### President's attention to increase the salaries of public servants from the budget
-
-*2024-10-19 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202353) · `si`
-
-President Anura Kumara Dissanayake announces plan to increase public servant salaries in February 2025 budget. Focuses on economic stability and supporting vulnerable citizens.
-
-🟩
-
-President Anura Kumara Dissanayake says that the budget of February 2025 will focus on increasing the salaries of public servants.
-
-The President was speaking at the first election rally in Tangalle today (19).
-
-"We have shown that the courage is not able to do. Initially, our strongest challenge was to represent the economic stability. We created a trusted economy with international organizations with international organizations in a very short year.. We offer an interim standard in December. The budget has been planned by February, March. We have focused on the increase in the salary workers' salary workers in the budget. We will be sure that the allowance offers the poor and disabled citizens. "
-
-◼️
-
-[Data](articles/bcdbd040.json)
-
-[Extended Data](ext_articles/bcdbd040.ext.json)
-
----
-
-### There is no bomb on the plane bomb
-
-*2024-10-19 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202352) · `si`
-
-Bomb scare on Indian Airlines flight 131: No explosive found after emergency landing at Katunayake Airport. Passengers evacuated safely. False alarm caused by anonymous tip about bombings in Sri Lanka. Similar incidents reported involving other Indian flights.
-
-🟩
-
-Investigations carried out on the aircraft of an emergency landing due to a bomb were revealed that there was no threat in bomb fury.
-
-The 96 passengers were taken out at a special place in a special position at the Katunayake Airport and its staff members.
-
-However, the officer in charge of the Katunayake airport work was later confirmed by the officer in charge of the explosives.
-
-The airport and the airline also confirmed a press release this afternoon.
-
-Indian Vitara Airlines UK. The flight of 131 flew from Mumbai, India, at 12.25 pm today.
-
-The 320 aircraft was located on the 36 passengers and 8 passengers.
-
-The aircraft is coming to the country and received an anonymous phone call.
-
-The call was informed that bombs were bombing in Sri Lanka.
-
-With the informs of the aircraft in the Katunayake airport, air and military commandos, doctors, nurses, firefighters, fire ex-rescue staff were prepared.
-
-...
-
-[Data](articles/d68b1196.json)
-
-[Extended Data](ext_articles/d68b1196.ext.json)
 
 ---

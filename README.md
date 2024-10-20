@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 22:23:57**
+As of **2024-10-20 22:39:25**
 
 ## Newspaper Stats
 
@@ -26,43 +26,57 @@ adaderanasinhalalk | 8,759
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,439 (100.0%) of 50,441 articles have been extended.
+50,441 (100.0%) of 50,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
 
-### පාස්කු ප්‍රහාරය ගැන සාධාරණ පරීක්ෂණයක් කරනවා - ජනපති
+### President conducts fair investigations into the Passover attack - President
 
 *2024-10-20 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202382) · `si`
 
-පාස්කු ප්‍රහාරය පිළිබඳ විධිමත් පරීක්ෂණයක් ආරම්භ කරන ලෙස පොලිස්පතිවරයාට සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට තමා උපදෙස් ලබාදී ඇති බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+President Anura Kumara Dissanayake instructs IGP and CID to investigate Passover attack. Promises fair inquiry and transparency. Criticizes previous suppression attempts. Emphasizes revealing truth without political interference.
 
-ජාතික ජන බලවේගය අද (20) කටුනායක පැවැත් වූ ජන රැලියට එක්වෙමින් ඔහු මේ බව කියා සිටියේය.
+🟩
 
-"විශේෂයෙන්ම අවධානය යොමුකළා පාස්කු ප්‍රහාරය ගැන. අපි පොලිස් දෙපාර්තමේන්තුව පරීක්ෂණය සඳහා සුදුසු දෙපාර්තමේන්තුවක් බවට පරිවර්ථනය කළා. දැන් එතකොට කට්ටිය කලබලා වෙලා තියෙනවා. 2019 පාස්කු ප්‍රහාරයෙන් බලය ගන්න පාස්කු ප්‍රහාරය මතුර මතුර ගියපු අය අවුරුදු 5කට පස්සේ අවදි වෙලා. දැන් කියනවා අර වාර්තාව දෙන්න, මේ වාර්තාව දෙන්න කියලා. ඒ වාර්තා දෙකම රනිල් වික්‍රමසිංහගේ වාර්තා. ඒ දෙකම විමර්ශන කමිටු නෙමෙයි. මම එනකොට හිටපු ජනපති ලේකම්ගෙන් ඇහුවා ඒ වාර්තාවලට මොකද වුණේ කියලා.
+President Anura Kumara Dissanayake says he has instructed the IGP and the CID to commence a proper investigation into the Passover attack.
+
+He was speaking at a rally rally held in Katunayake today (20).
+
+"Especially the Passover attack on the Passover attack. We translate the Police Department into an appropriate department for the investigation. Now the guys have been stumble. The Passover attack is awakened after the Easter attack is awakened after the Passover attack. Now give that report, to give this report. Both reports Ranil Wickremesinghe records. Both is not under review committees. When I arrived, the secretary of the secretary asked the secretary what happened.
+
+Ranil Wickremesinghe wanted to suppress this test. We instructed the IGP and the CID to the Department of Criminal Investigation into the Passover attack. Then the coma was awakened.Stop it, blossom.This person's involvement is not to discover true convictions.
 
 ...
 
 [Data](articles/1ca97b94.json)
 
+[Extended Data](ext_articles/1ca97b94.ext.json)
+
 ---
 
-### தேர்தல் முறைப்பாடுகள் நாளுக்கு நாள் அதிகரிப்பு -  தேர்தல்கள் ஆணைக்குழு
+### Election Complaints Increase Day by Day - Elections Commission
 
 *2024-10-20 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196735) · `ta`
 
-பாராளுமன்ற தேர்தல் தொடர்பாக தேர்தல்கள் ஆணைக்குழுவிற்கு கிடைக்கப்பெற்றுள்ள முறைப்பாடுகளின் எண்ணிக்கை 400ஐ தாண்டியுள்ளது.
+Election Commission reports 401 complaints, 58 new daily. All relate to election law violations. 309 resolved so far.
 
-கடந்த தினத்தில் ஆணைக்குழுவிற்கு 58 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாகவும் இதுவரை கிடைக்கப்பெற்ற மொத்த முறைப்பாடுகளின் எண்ணிக்கை 401 ஆக அதிகரித்துள்ளதாகவும் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-அந்த முறைப்பாடுகள் அனைத்தும் தேர்தல் சட்ட மீறல்கள் தொடர்பானவை என்றும் வன்முறை தொடர்பான முறைப்பாடுகள் எதுவும் இதுவரை பதிவாகவில்லை என்றும் தேர்தல் ஆணைக்குழு மேலும் தெரிவித்துள்ளது.
+The number of complaints received by the Election Commission regarding the parliamentary election has exceeded 400.
 
-கிடைக்கப்பெற்ற 401 முறைப்பாடுகளில் 309 முறைப்பாடுகளுக்கு ஏற்கனவே தீர்வு காணப்பட்டுள்ளதாகவும் ஆணைக்குழு தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+The Commission has received 58 complaints in the past day and the total number of complaints has increased to 401.
+
+The Election Commission further stated that all those complaints were related to election law violations and no complaints have been made yet.
+
+The Commission said that over 401 complaints have already been resolved for 309 complaints.
 
 ◼️
 
 [Data](articles/6a23f8f5.json)
+
+[Extended Data](ext_articles/6a23f8f5.ext.json)
 
 ---
 

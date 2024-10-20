@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 20:39:19**
+As of **2024-10-20 20:58:06**
 
 ## Newspaper Stats
 
-*Scraped **50,414** Articles*
+*Scraped **50,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,974
 tamilmirrorlk | 6,907
 virakesarilk | 8,072
-adaderanasinhalalk | 8,754
+adaderanasinhalalk | 8,755
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,414 (100.0%) of 50,414 articles have been extended.
+50,415 (100.0%) of 50,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Sri Lanka is the target of Sri Lanka after the rain
+
+*2024-10-20 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202380) · `si`
+
+Sri Lanka wins cricket match against West Indies due to rain. Match reduced from 50 overs to 37. Sri Lanka scores 232/7, West Indies 185/4. Rain stops play after first day.
+
+🟩
+
+Sri Lanka and Tourism. The first one day cricket match held at Pallekele has been stopped due to the rainfall.
+
+The West Indies was banding first when the rain was bowled first and scored 185 runs for the loss of 4 wickets in 4 overs.
+
+However, for more than two hours, the rain decided to reduce the number of overs of the match and decided to bat Sri Lanka.
+
+Accordingly, Sri Lanka has won 232 runs in 37 overs.
+
+◼️
+
+[Data](articles/96b202c6.json)
+
+[Extended Data](ext_articles/96b202c6.ext.json)
+
+---
 
 ### Three members of the same family die?
 
@@ -2339,23 +2363,5 @@ President Anura Kumara Dissanayake frequently emphasised during his election cam
 [Data](articles/b93eae9c.json)
 
 [Extended Data](ext_articles/b93eae9c.ext.json)
-
----
-
-### Ex-Presidents  Chandrika,Ranil and Maithripala were responsible for corruption running rampant in the public/political sector when they handled the reins of executive office.
-
-*2024-10-19 20:59:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84933) · `en`
-
-The hideous sight of three former Presidents of Sri Lanka laughing their heads off on the national stage when invited by the country’s accounting professionals to speak on a corruption culture that brought the nation to ruinous bankruptcy in 2022 sums up exactly why the political parties that they lead have been resoundingly rejected by the people.
-
-No more and no less. Certainly there is nothing wrong with a pithy joke or two in addressing an audience. But wholesale cynical cackling by the ex-Presidents (Wickremesinghe, Kumaratunga and Sirisena) in addressing the 45th National Conference of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) on the viciously entrenched corruption-cancer of the body politic is another matter.
-
-It is nothing short of three red rags waved by the speakers to the enraged bull of the Sri Lankan public, with the session moderator performing the role of a less than skilled matador.
-
-...
-
-[Data](articles/03c42d4f.json)
-
-[Extended Data](ext_articles/03c42d4f.ext.json)
 
 ---

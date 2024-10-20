@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 13:59:19**
+As of **2024-10-20 14:12:55**
 
 ## Newspaper Stats
 
-*Scraped **50,378** Articles*
+*Scraped **50,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,969
 tamilmirrorlk | 6,902
 virakesarilk | 8,063
-adaderanasinhalalk | 8,745
+adaderanasinhalalk | 8,746
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,378 (100.0%) of 50,378 articles have been extended.
+50,379 (100.0%) of 50,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Scholars gathered before the BRICS summit
+
+*2024-10-20 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202369) · `si`
+
+Scholars gather for BRICS summit in Beijing. Theme: Global development, civilization. Chinese Communist Party officials attend. Minister promotes global initiatives. Special bridge to be built. This year's BRICS heads meet in Kazan from 22nd to 24th.
+
+🟩
+
+The global southern scholarlural prices were held recently at Beijing, China.
+
+The theme of the Central Committee of the Communist Party and the general foregoing of the Central Committee of the Communist Party was organized by the general foregoing department and the general foregoing dialogue of the Chinese Media Group.
+
+The 16th Conference of Heads of State for the recently industrialized countries will commence in Russia on the 22nd.
+
+The global southern scholarlingscipitalic client recently held the BRICS summit recently at Beijing, China.
+
+This was organized by the Central Committee of the Central Committee of the Communist Party and the general leading of the Chinese Media Group.
+
+The Chinese Communist Party's top officials, government representatives, scholars and media representatives joined online and non-online.
+
+...
+
+[Data](articles/932793b6.json)
+
+[Extended Data](ext_articles/932793b6.ext.json)
+
+---
 
 ### 31 youths arrested for carrying drugs to party
 
@@ -2315,29 +2343,5 @@ The attack is yet to be stated on whether the attack.
 [Data](articles/48797de4.json)
 
 [Extended Data](ext_articles/48797de4.ext.json)
-
----
-
-### Good news of elephants collided on train
-
-*2024-10-19 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202339) · `si`
-
-Elephants collide with train near Minneriya. One killed, two injured. Wildlife vet treats 8-year-old elephant.
-
-🟩
-
-The anniversary of the elephant officials were treated with the injured who were injured when the Minneriya Rotawewa Junction yesterday (19).
-
-A wild elephant was killed in the morning of the Colombo-Batticaloa main railway line while two elephants were killed and one elephant was injured.
-
-Wildlife veterinary officers in charge of the Mahaweli Zone and have been treated and released to the Minneriya Reserve.
-
-Wildlife Veterinary Sameera, Kalagu Arachchi, who was treated the Wanlanda, said that the injured elephant was about 8 years old.
-
-◼️
-
-[Data](articles/eaa3365d.json)
-
-[Extended Data](ext_articles/eaa3365d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 15:09:09**
+As of **2024-10-20 15:23:40**
 
 ## Newspaper Stats
 
-*Scraped **50,381** Articles*
+*Scraped **50,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,083
 dailyftlk | 3,433
-adalk | 4,671
+adalk | 4,674
 dailymirrorlk | 4,733
 adaderanalk | 5,970
 tamilmirrorlk | 6,902
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,747
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,381 (100.0%) of 50,381 articles have been extended.
+50,384 (100.0%) of 50,384 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,30 @@ He questioned as to what can be achieved in this country by making Sajith Premad
 [Data](articles/50cac979.json)
 
 [Extended Data](ext_articles/50cac979.ext.json)
+
+---
+
+### West Indies toss the toss
+
+*2024-10-20 14:04:08* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-කොදෙව්-කණ්ඩායමට/9-412570) · `si`
+
+Here's a 200-character summary:
+
+
+
+"West Indies vs Sri Lanka EDI match: West Indies wins toss, bats first. Match scheduled for today (20)."
+
+🟩
+
+West Indies team and the Sri Lankan team will be played between the Sri Lanka EDIs today (20).
+
+West Indies won the toss and elected to bat first.
+
+◼️
+
+[Data](articles/a1279c1c.json)
+
+[Extended Data](ext_articles/a1279c1c.ext.json)
 
 ---
 
@@ -421,6 +445,58 @@ In addition, Dissanayake, who has recovered two patients' cars at the homes of W
 [Data](articles/24ce1893.json)
 
 [Extended Data](ext_articles/24ce1893.ext.json)
+
+---
+
+### The little election can be held between 40 to 40 days
+
+*2024-10-20 11:08:56* · [`adalk`](https://www.ada.lk/breaking_news/පුංචි-ඡන්දය-දින-35ක්-40ක්-අතර-පැවැත්විය-හැකියි/11-412567) · `si`
+
+Local government elections can be held within 40-40 days after parliamentary polls. Election Commissioner Saman Sri Ratnayake stated that the commission will adhere to existing laws regarding nominations and campaign regulations. The president's order prioritizes holding local government elections alongside the presidential election, ensuring a smooth transition.
+
+🟩
+
+Celebration of some of the nominations of the nominations for the local government election and the election commission is applicable to a number of election platforms, according to the nominations of the existing law.Elections Commissioner General Saman Sri Ratnayake said.
+
+The Commissioner General of Elections was attended by the Introduction of Intenives to educate journalists on election reporting.
+
+The local government elections may be a good question on the political culture of the country and there are any problems with the local government pollution.
+
+He said that the Commission would act in accordance with the existing law, according to the law that the Commission is not interrupted by the law, such as a person who gave a nomination person in the event.
+
+.
+
+...
+
+[Data](articles/55b53f1c.json)
+
+[Extended Data](ext_articles/55b53f1c.ext.json)
+
+---
+
+### Fire extinguishes in the official residence of the MP
+
+*2024-10-20 10:56:53* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-නිල-නිවසේ-ඇතිවූ-ගින්න-නිවා-දමයි/11-412566) · `si`
+
+Fire breaks out in MP Namal Rajapaksa's official residence in Colombo 7. Two-story building damaged. Power disconnected since August. Firefighters respond. Investigation ongoing.
+
+🟩
+
+Kurunduruwatta Police say that the sudden fire in a state of government MP, Colombo 7, Colombo.
+
+The two-storey official residence has been resident of MP Namal Rajapaksa over eight months ago and the power was disconnected.
+
+Police investigations have occurred when the government's quarters were reserved by the Ceylon Electricity Corporation from the Ceylon Electricity to the Ceylon Electricity (19th) while the repair of the Government of Sri Lanka had been rested.Has been detected.
+
+Two fire extinguishers of the Colombo Municipal Council had taken measures to be fully escalated and controlled by the Colombo Municipal Council.
+
+Police said that the interior of the air conditioner was completely destroyed by fire
+
+◼️
+
+[Data](articles/8030db25.json)
+
+[Extended Data](ext_articles/8030db25.ext.json)
 
 ---
 
@@ -2253,79 +2329,5 @@ The report issued by the Auditor General's office that 44 continuously excluding
 [Data](articles/44dbf9f2.json)
 
 [Extended Data](ext_articles/44dbf9f2.ext.json)
-
----
-
-### ‘Sarvajana Balaya’ launches general election campaign from Anuradhapura
-
-*2024-10-19 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102796/sarvajana-balaya-launches-general-election-campaign-from-anuradhapura) · `en`
-
-The election campaign of the ‘Sarvajana Balaya’ alliance, in preparation for the upcoming general election, commenced today (19) in Anuradhapura.
-
-Prior to the campaign’s launch, the leader of the alliance, entrepreneur Dilith Jayaweera, visited the sacred Jaya Sri Maha Bodhi and Ruwanweli Maha Saya in Anuradhapura to receive blessings.
-
-In addition to that, Jayaweera attended a meeting with the Gampaha District divisional leadership of ‘Sarvajana Balaya,’ held yesterday (18) in Kalgedihena.
-
-During the meeting, he emphasized that his approach to politics is self-funded, stating, “We are doing politics by spending our own money, not by extorting money from others. No matter how the country’s economy develops, it’s crucial that the nation is preserved. That’s what we’re working hard for.”
-
-He also highlighted the significance of the upcoming election, stating, “This is a golden opportunity for us. The result this time may be a surprising one.”
-
-◼️
-
-[Data](articles/ed99c06a.json)
-
-[Extended Data](ext_articles/ed99c06a.ext.json)
-
----
-
-### Is the Jeyan Sneak Head fit for human consumption?
-
-*2024-10-19 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202341) · `si`
-
-Jeyan Sneak Head fish safety for humans: Study confirms edible, but concerns remain about reservoir damage and aggressive behavior.
-
-🟩
-
-North Western Province Fisheries Ministry officials say that although the fisheries of the reservoir, which is widely damaged in the reservoir, is harmful to the spread of the reservoir.
-
-They confirmed this after a special operation conducted in three fishing ferries in the reservoir of the Deduru Oya Reservoir.
-
-The recently fishermen had accused the fish harvesting of the aggressive fisheries, which have been expanded by the Deduru Oya.
-
-It is said that the fish species named Jeywant Sneak Hede is swallowing other fish.
-
-Three operates three in the Deduru Oya, Mahawa - Kanewatta, Ganewatta - Kakuwela and Wariyapola.
-
-With this allegation, North Western Provincial Fisheries Ministries have conducted a special study and the fish specifies is suitable for human food.
-
-They were also launched a special operation throughout the three ports yesterday.
-
-The fishermen, the fishermen, the fishermen, the NSF and the Ganewatta Divisional Secretariat.
-
-...
-
-[Data](articles/2db8646b.json)
-
-[Extended Data](ext_articles/2db8646b.ext.json)
-
----
-
-### Drone strike launched toward Israeli prime minister’s house
-
-*2024-10-19 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102795/drone-strike-launched-toward-israeli-prime-ministers-house) · `en`
-
-Israel’s government said a drone was launched toward the prime minister’s house Saturday, with no casualties as Iran’s supreme leader vowed that Hamas would continue its fight against Israel following the killing of the mastermind of last year’s deadly Oct. 7 attack.
-
-In Gaza, at least 21 people were killed in several Israeli strikes, including children, according to hospital officials and an AP reporter.
-
-Sirens wailed Saturday morning in Israel, warning of incoming fire from Lebanon, with a drone launched toward Israeli Prime Minister Benjamin Netanyahu’s house in Caesarea, the Israeli government said. Neither he nor his wife were home and there were no casualties, said his spokesperson in a statement.
-
-In September, Yemen’s Houthi rebels launched a ballistic missile toward Ben Gurion Airport when Netanyahu’s plane was landing. The missile was intercepted.
-
-...
-
-[Data](articles/33f37253.json)
-
-[Extended Data](ext_articles/33f37253.ext.json)
 
 ---

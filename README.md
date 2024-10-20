@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 16:39:21**
+As of **2024-10-20 17:09:07**
 
 ## Newspaper Stats
 
-*Scraped **50,391** Articles*
+*Scraped **50,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,100 @@ adalk | 4,676
 dailymirrorlk | 4,733
 adaderanalk | 5,971
 tamilmirrorlk | 6,905
-virakesarilk | 8,063
-adaderanasinhalalk | 8,748
+virakesarilk | 8,068
+adaderanasinhalalk | 8,750
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,391 (100.0%) of 50,391 articles have been extended.
+50,398 (100.0%) of 50,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Donational election complaints
+
+*2024-10-20 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202373) · `si`
+
+Elections Commission receives 401 complaints about election law violations. 309 resolved. No violence reports.
+
+🟩
+
+The Elections Commission has received over 400 complaints regarding the parliamentary election.
+
+The Commission has received 58 complaints on the last day and the total number of complaints has been increased to 401.
+
+All these complaints are related to election laws violations and no complaints regarding violence have been reported so far.
+
+Of the 401 complaints received, 309 have already been solved, the Commission added.
+
+◼️
+
+[Data](articles/cd300a9b.json)
+
+[Extended Data](ext_articles/cd300a9b.ext.json)
+
+---
+
+### New Zealand beat New Zealand in 36 years
+
+*2024-10-20 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202372) · `si`
+
+New Zealand beats India in 36 years. NZ wins 1st Test 1-0. Scored 402/10, India 462 all out. Target 107, achieved 2 wickets down. First NZ win in India since 1988.
+
+🟩
+
+New Zealand was able to win eight wickets in the first Test match of the first Test match that ended today (20) in Bangloro.
+
+With this winner, New Zealand in the forefront of the three matches match 1-0.
+
+The New Zealand team won a 107 runs easier for the win, and they were able to cross the loss of only 2 wickets.
+
+Launched on the 16th, the first day of the match had to be abandoned due to rain.
+
+However, the first innings began to limit the first innings to 46 runs.
+
+In response, New Zealand team scored 402 runs for the loss of everyone.
+
+India was set to commence the second innings following 356 runs.
+
+However, they were bowled out for 462 in their second innings, and it was only a target of 107 runs.
+
+New Zealand won the two-digit team in World Test Rankings, and the winner of 36 years later, they win the first Test in India.
+
+The last time they defeated India in India and won the match in the Wangkadu Stadium, Mumbai, 1988.
+
+...
+
+[Data](articles/cacd6329.json)
+
+[Extended Data](ext_articles/cacd6329.ext.json)
+
+---
+
+### Fire in Colombo - Cinua Garden
+
+*2024-10-20 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196698) · `ta`
+
+Colombo: Fire breaks out in state apartment. No casualties reported. Property damage unknown. Police and firefighters responded quickly. Incident occurred in Malalasekara Mawatha area.
+
+🟩
+
+A fire broke out at a state apartment in Malalasekara Mawatha, which belongs to the Colombo -Cinnamon Estate Police Division, police said.
+
+Police officers and fire department officials who were acting immediately on the basis of information received from 119 station to Cinnamon Garden Police, police said.
+
+Police said there was no casualties caused by the fire and the property damage was not yet estimated.
+
+◼️
+
+[Data](articles/a1b70f09.json)
+
+[Extended Data](ext_articles/a1b70f09.ext.json)
+
+---
 
 ### President to visit the island today
 
@@ -135,6 +217,28 @@ The deceased is a 49-year old resident of Werellagama in Katugastota while he ha
 [Data](articles/916533f7.json)
 
 [Extended Data](ext_articles/916533f7.ext.json)
+
+---
+
+### Arrested with heroin in Borelle
+
+*2024-10-20 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/196693) · `ta`
+
+Borella police arrest youth with heroin. Raid by Colombo Crime Branch seizes 20 grams of heroin. Incident occurred on Saturday, 19th.
+
+🟩
+
+A youth who had heroin in the Saranapala Thera Mawatha, belonging to the Borella Police Division, was arrested by the Borella police on Saturday (19).
+
+The youth was arrested during a raid conducted by a team of officials of the Colombo Crime Branch.
+
+20 grams of 860 milligrams of heroin was seized by the police.
+
+◼️
+
+[Data](articles/815c1dcb.json)
+
+[Extended Data](ext_articles/815c1dcb.ext.json)
 
 ---
 
@@ -257,6 +361,88 @@ The Chinese Communist Party's top officials, government representatives, scholar
 [Data](articles/932793b6.json)
 
 [Extended Data](ext_articles/932793b6.ext.json)
+
+---
+
+### JVP to accept the basic principle of Tamils. Not ready - Gajendrakumar Ponnambalam
+
+*2024-10-20 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196680) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Gajendrakumar Ponnambalam: JVP accepts Tamil rights principles. No alternative but unity in United Sri Lanka. Compliance crucial; apply pressure for acceptable terms.
+
+🟩
+
+To find a solution within the United Sri Lanka. There is no alternative in it. But it is important to know what kind of compliance you are going. We can exercise various pressures to come to such an acceptable compliance.
+
+◼️
+
+[Data](articles/1b06b2aa.json)
+
+[Extended Data](ext_articles/1b06b2aa.ext.json)
+
+---
+
+### Arrested with heroin in Ekoda
+
+*2024-10-20 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196683) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Fisherman arrested in Ekoda for heroin possession. 38-year-old suspect from Moratuwa caught with 14g of heroin in Jaya Mawatha.
+
+🟩
+
+A fisherman belonging to the Ekoda Police Division has been arrested by a suspect in the heroin in Jaya Mawatha on Saturday (19) by the Ekoda Police.
+
+The suspect was 38 years old from Moratuwa.
+
+Fourteen grams of heroin was seized by the police by the police.
+
+◼️
+
+[Data](articles/14bdcd5f.json)
+
+[Extended Data](ext_articles/14bdcd5f.ext.json)
+
+---
+
+### Increasing enemy scams
+
+*2024-10-20 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196682) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Rising enemy scams: Avoid sharing personal info online, especially on social media. Contact banks for email transaction issues. Be cautious of fake websites. Many arrests made recently in Sri Lanka targeting financial fraud. Stay vigilant about protecting your bank accounts.
+
+🟩
+
+If there are any problems during e -mail transactions, it is necessary to contact the bank involved and ensure security.
+
+It is very important to avoid accessing fake website connections that are shared through social websites, while sharing the passage provided with third parties for the safety of bank accounts.
+
+This is because in many parts of the country, a large number of foreign nationals have been arrested in connection with enemy financial fraud within this month.
+
+On the 13th, 31 Chinese citizens have been arrested for suspicious accommodation in Kandy and Ethulkotte.
+
+126 Chinese citizens, 02 Vietnam citizens and Thailand citizen were arrested on the 12th of this month.
+
+Investigations have been carried out by the Criminal Investigation Department regarding 161 foreigners who were arrested in these areas only in two days, police said.
+
+On the 6th of last week, 30 Chinese, 4 Indians and 6 Thailand citizens were arrested during a special search operation in two other areas in Hangwella.
+
+...
+
+[Data](articles/87e3e0b9.json)
+
+[Extended Data](ext_articles/87e3e0b9.ext.json)
 
 ---
 
@@ -2155,173 +2341,5 @@ They say that batteries are at risk of swimming explosion.
 [Data](articles/374c5fa9.json)
 
 [Extended Data](ext_articles/374c5fa9.ext.json)
-
----
-
-### Indian flight lands at BIA due to bombs scare; search underway
-
-*2024-10-19 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102798/indian-flight-lands-at-bia-due-to-bombs-scare-search-underway) · `en`
-
-An Indian passenger flight arriving from Mumbai has made an emergency landing at the Bandaranaike International Airport (BIA) in Katunayake due to a bomb scare.
-
-All 96 passengers and 08 crew members of the flight have been evacuated and a special search operation is being carried out in the aircraft at the BIA, Sri Lanka’s Police Spokesman DIG Nihal Thalduwa said.
-
-Meanwhile, the Airport and Aviation Services (Sri Lanka) (Private) Limited has issued a statement regarding the matter confirming that there is no threat over the reported bomb scare on the Vistara flight UK 131 (A320 Neo) from Mumbai to Colombo.
-
-It said that the management of Bandaranaike International Airport (BIA) adopted all precautionary and preventive measures in response to a reported bomb scare on the Vistara flight from Mumbai to Colombo, which was scheduled to arrive at 14:51 hrs at the BIA.
-
-...
-
-[Data](articles/0a3795ea.json)
-
-[Extended Data](ext_articles/0a3795ea.ext.json)
-
----
-
-### Indian flight lands at BIA due to bombs scare; AASL says no threat
-
-*2024-10-19 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102798/indian-flight-lands-at-bia-due-to-bombs-scare-aasl-says-no-threat) · `en`
-
-An Indian passenger flight arriving from Mumbai has made an emergency landing at the Bandaranaike International Airport (BIA) in Katunayake due to a bomb scare.
-
-All 96 passengers and 08 crew members of the flight have been evacuated and a special search operation is being carried out in the aircraft at the BIA, Sri Lanka’s Police Spokesman DIG Nihal Thalduwa said.
-
-Meanwhile, the Airport and Aviation Services (Sri Lanka) (Private) Limited has issued a statement regarding the matter confirming that there is no threat over the reported bomb scare on the Vistara flight UK 131 (A320 Neo) from Mumbai to Colombo.
-
-It said that the management of Bandaranaike International Airport (BIA) adopted all precautionary and preventive measures in response to a reported bomb scare on the Vistara flight from Mumbai to Colombo, which was scheduled to arrive at 14:51 hrs at the BIA.
-
-...
-
-[Data](articles/b696c74c.json)
-
-[Extended Data](ext_articles/b696c74c.ext.json)
-
----
-
-### A plane lands to Katunayake due to a bomb scared
-
-*2024-10-19 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202346) · `si`
-
-Plane lands at Katunayake airport after bomb scare. 96 passengers and 8 crew members evacuated safely. Indian aircraft diverted due to security threat.
-
-🟩
-
-The Indian aircraft has suddenly landed at the Katunayake airport due to a bomb.
-
-It has been reported that 96 passengers and eight staff have been reported here.
-
-◼️
-
-[Data](articles/9bff3cfe.json)
-
-[Extended Data](ext_articles/9bff3cfe.ext.json)
-
----
-
-### 35 employees affected by food allergies
-
-*2024-10-19 16:11:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-ஒவ்வாமையால்-35-ஊழியர்கள்-பாதிப்பு/175-345687) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-35 garment factory workers hospitalized in Negombo General Hospital due to food allergies. Katunayake Police and Health Medical Officers investigating incident.
-
-🟩
-
-35 employees of a garment factory located in the 11th phase of the Katunayake Free Trade Zone have been admitted to the Negombo General Hospital due to allergies today.
-
-The Katunayake Police and the Health Medical Officers in charge of the Katunayake police are conducting investigations. (An)
-
-◼️
-
-[Data](articles/aa68d1e9.json)
-
-[Extended Data](ext_articles/aa68d1e9.ext.json)
-
----
-
-### Actor Gavin's Preview Release
-
-*2024-10-19 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196660) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Actor Gavin stars in "Bloody Becker" preview. Directed by Shiva Palan Muthukumar, produced by Nelson Dileepkumar. Cast includes Redin Kingsley, Maruti Prakashraj. Set for global release on Diwali. Over 2 million viewers watched preview, sparking high fan expectations.
-
-🟩
-
-After the success of 'Tata' and 'Star', the preview of the film 'Bloody Becker', which plays the hero of the rising actor Gavin's story in the Tamil film industry.
-
-Gavin, Redin Kingsley, Maruti Prakashraj, Sunil Sukhada, TM. Karthik, Padam Venu Kumar, Harshad, Miss Salima, Priyadarshini Rajkumar, Akshaya Hariharan and many others have been cast.
-
-The film was produced by Nelson Dileepkumar, director and producer on behalf of Flment Pictures.
-
-The film will be released at the film House worldwide on Diwali on the 31st of this month.
-
-Speaking at the event, director Shiva Palan Muthukumar said, “Actor Gavin is my friend. I had told him the story of the film as he was a friend before the work of the film started.
-
-I was telling my guru, Nelson, the story of the film. He promised to make your story if he succeeded in 'Jailer', according to the success of the film, and started the work of 'Bluddy Becker'.
-
-...
-
-[Data](articles/fc660865.json)
-
-[Extended Data](ext_articles/fc660865.ext.json)
-
----
-
-### New Front led by former presidents?
-
-*2024-10-19 16:04:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முன்னாள்-ஜனாதிபதிகளின்-தலைமையில்-புதிய-முன்னணி/150-345686) · `ta`
-
-Former presidents unite against privilege removal. Chartered Accountants' involvement sparks debate. Three-member committee reviews ex-presidents' benefits amid public concern.
-
-🟩
-
-Focusing on the formation of a leading leadership led by former presidents in the face of voice against the elimination of their privileges.
-
-It is well known that many former presidents have already commented that it is beneficial to work together than to fight personally.
-
-Chartered Accountors Company. Political sources say that many former presidents participated in the recent intellectual discussion.
-
-In this case, the former presidents have already presented issues to the three -member committee appointed to review the privileges of the former presidents.
-
-It is noteworthy that the government has appointed the three -member committee due to social talk that former presidents are currently facing more facilities.
-
-◼️
-
-[Data](articles/577ec3b8.json)
-
-[Extended Data](ext_articles/577ec3b8.ext.json)
-
----
-
-### New Front led by former presidents?
-
-*2024-10-19 16:04:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முன்னாள்-ஜனாதிபதிகளின்-தலைமையில்-புதிய-முன்னணி-உதயம்/150-345686) · `ta`
-
-Former presidents form alliance against privilege removal. They argue cooperation benefits over personal conflicts. A chartered accounting company facilitates discussions. The group presents concerns to a three-member committee reviewing ex-presidents' perks. This move comes amid public debate about excessive benefits for former leaders.
-
-🟩
-
-Focusing on the formation of a leading leadership led by former presidents in the face of voice against the elimination of their privileges.
-
-It is well known that many former presidents have already commented that it is beneficial to work together than to fight personally.
-
-Chartered Accounting Company. Political sources say that many former presidents participated in the recent intellectual discussion.
-
-In this case, the former presidents have already presented issues to the three -member committee appointed to review the privileges of the former presidents.
-
-It is noteworthy that the government has appointed the three -member committee due to social talk that former presidents are currently facing more facilities.
-
-◼️
-
-[Data](articles/7b800e28.json)
-
-[Extended Data](ext_articles/7b800e28.ext.json)
 
 ---

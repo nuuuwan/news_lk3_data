@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 18:58:47**
+As of **2024-10-20 19:09:46**
 
 ## Newspaper Stats
 
-*Scraped **50,410** Articles*
+*Scraped **50,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,083
 dailyftlk | 3,433
 adalk | 4,678
 dailymirrorlk | 4,733
-adaderanalk | 5,973
+adaderanalk | 5,974
 tamilmirrorlk | 6,907
 virakesarilk | 8,072
 adaderanasinhalalk | 8,752
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,752
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,410 (100.0%) of 50,410 articles have been extended.
+50,411 (100.0%) of 50,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Over 400 election related complaints received by EC
+
+*2024-10-20 18:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102816/over-400-election-related-complaints-received-by-ec) · `en`
+
+The number of complaints received by the Election Commission in relation to the upcoming parliamentary election has exceeded 400.
+
+A total of 58 complaints were received by the commission within yesterday and the total number of complaints received so far has increased to 401.
+
+All those complaints are related to violations of election laws and no complaints related to election-related violence have been reported so far, the Election Commission said.
+
+The commission further stated that out of the 401 complaints received, 309 have already been resolved.
+
+◼️
+
+[Data](articles/99366329.json)
+
+[Extended Data](ext_articles/99366329.ext.json)
+
+---
 
 ### Young man gay with retired Chancellor
 
@@ -2329,27 +2349,5 @@ Accordingly, the Bandaranaike International Airport Bomb Disposal, Aviation and 
 [Data](articles/6119efbc.json)
 
 [Extended Data](ext_articles/6119efbc.ext.json)
-
----
-
-### Emergency declared at BIA over ‘bomb scare’ on Indian flight called off
-
-*2024-10-19 19:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102801/emergency-declared-at-bia-over-bomb-scare-on-indian-flight-called-off) · `en`
-
-The management of Bandaranaike International Airport (BIA) announced that the emergency situation declared after the reported bomb scare on the Vistara flight arrived at BIA from Mumbai today, has been called off.
-
-Further, after the investigations by the relevant authorities, nothing suspicious was found related to the reported bomb threat on the Vistara flight, the statement said.
-
-The management of Bandaranaike International Airport (BIA) together with all relevant authorities adopted all precautionary and preventive measures on the reported incident to ensure the safety of the passengers, it said.
-
-“We hereby inform our valued passengers and airport users that flight operations at Bandaranaike International Airport (BIA) continue as usual without any disruption to the airport’s normal operations.”
-
-“We sincerely regret any inconvenience this situation may have caused to our valued guests and airport users and appreciate their understanding,” the statement further said.
-
-...
-
-[Data](articles/9b1f59bf.json)
-
-[Extended Data](ext_articles/9b1f59bf.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 18:00:17**
+As of **2024-10-20 18:20:13**
 
 ## Newspaper Stats
 
-*Scraped **50,402** Articles*
+*Scraped **50,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,74 @@ adalk | 4,678
 dailymirrorlk | 4,733
 adaderanalk | 5,972
 tamilmirrorlk | 6,905
-virakesarilk | 8,068
-adaderanasinhalalk | 8,751
+virakesarilk | 8,072
+adaderanasinhalalk | 8,752
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,402 (100.0%) of 50,402 articles have been extended.
+50,407 (100.0%) of 50,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Yewan David, who renewed Sri Lanka Motor Running History
+
+*2024-10-20 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202375) · `si`
+
+Yewan David, 17, wins 8th stage of EUR Euro Formula Open Motor Race, marking first time Sri Lankan participates in major vehicle race.
+
+🟩
+
+Sri Lanka's 17-year-old Sri Lanka Motor Runner Yawan David won the 8th phase of the 8th phase of the EUR Euro Formula Open Motor Race.
+
+This is stated that this is the first time Sri Lanka car run has attended a Mount F3 Motor Track.
+
+Yvan David, a 17-year-old motor racing, participated in its first F3 motor race yesterday (19).
+
+It is for the 8th stage of the euro Formula Open Motor Track at the Italy's Mosa track.
+
+This was the first time a Sri Lankan player participated in a major vehicle race.
+
+The 17-year-old Reviewers were evaluated by the 17-year-old Yuan, which was entitled to the MANA track with experienced riders in his wedding F3 race.
+
+Sri Lanka won the 16-minute race in the Mosa Track, and won the 8th stage of the EUR Euro Formula Open Motor Track.
+
+This victory was the highest achievements of a player in Sri Lanka Motor Radyfare.
+
+◼️
+
+[Data](articles/da4f03f2.json)
+
+[Extended Data](ext_articles/da4f03f2.ext.json)
+
+---
+
+### Motorcycle - Bicycle accident;One killed
+
+*2024-10-20 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196709) · `ta`
+
+Motorcycle collides with bicycle, killing one rider. Driver arrested. Incident occurred in Amarakirthakama area. Victim taken to hospitals for treatment.
+
+🟩
+
+Karandeniya police said that one person was killed when a motorcycle collided head -on with a bicycle in the Amarakirtikama area under the Karandeniya Police Division yesterday (19).
+
+Police said that the motorcycle traveling from Borakantha to Amarakirthakama collided face -to -face with a bicycle from the opposite side.
+
+The traveler was admitted to the Borakanda Hospital for further treatment and was transferred to the Palapitiya Hospital for further treatment, police said.
+
+The body has been placed in the funeral room of the Balapitiya hospital and the motorcycle driver has been arrested.
+
+◼️
+
+[Data](articles/ed560430.json)
+
+[Extended Data](ext_articles/ed560430.ext.json)
+
+---
 
 ### People stand against the collapse of electricity
 
@@ -66,6 +122,54 @@ Although the power supply is restored back, but some regions have not yet been p
 
 ---
 
+### One person arrested with heroin in Maligawatte
+
+*2024-10-20 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196694) · `ta`
+
+Heroin arrest in Maligawatte: Police raided a house, apprehending one individual on Saturday. The operation was based on intelligence from local authorities.
+
+🟩
+
+A woman with heroin was arrested by the police on Saturday (19) by police in a house in Maligawatta, Colombo.
+
+He was arrested during a raid carried out on the basis of information received by a team of police officers from the Maligawatta police station.
+
+◼️
+
+[Data](articles/9b888599.json)
+
+[Extended Data](ext_articles/9b888599.ext.json)
+
+---
+
+### Two persons arrested for selling stolen property and buying poison
+
+*2024-10-20 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196676) · `ta`
+
+Two persons arrested for selling stolen goods and buying poison. One suspect identified as a registered criminal and drug addict. Confession reveals stolen property sold through another suspect. Some assets seized by police. Further investigation ongoing.
+
+🟩
+
+A person who was suspiciously near the Peliyagoda Police Division was arrested on the 15th and another suspect was arrested by a team of officials of the Kelaniya Divisional Criminal Investigation Division on Saturday (19).
+
+The suspect, who was arrested on the 15th, is from Nellikahawatta, 23, from Peliyagoda.
+
+He has been identified as a registered criminal and a person who is addicted to toxic drugs, and has been identified as a suspect who has been searched for 14 crimes through the opening and fingerprints of five pending criminal cases in the Aluthgada court.
+
+Meanwhile, the investigation has also revealed that the money was sold in houses, shops and schools and purchased poison drugs.
+
+After the suspect was produced before the Magistrate's Court in Aluthgada, it was ordered to be remanded until the 22nd of this month.
+
+According to the confession of the suspect, it has been revealed that the stolen property has been sold through another suspect.
+
+...
+
+[Data](articles/e7e5af38.json)
+
+[Extended Data](ext_articles/e7e5af38.ext.json)
+
+---
+
 ### Sri Lankan racer Yevan David wins on Euroformula debut at Monza
 
 *2024-10-20 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102814/sri-lankan-racer-yevan-david-wins-on-euroformula-debut-at-monza) · `en`
@@ -85,6 +189,24 @@ Garfias and Fernando Barrichello were 0.435s and 0.52s back respectively, and Si
 [Data](articles/2efb2d27.json)
 
 [Extended Data](ext_articles/2efb2d27.ext.json)
+
+---
+
+### Why do Sri Lankans reluctant to pay taxes?
+
+*2024-10-20 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196674) · `ta`
+
+Sri Lankans hesitant to pay taxes due to lack of understanding benefits. Public campaigns needed to educate citizens on tax contributions. Simplifying bureaucracy and providing clear guidelines can increase compliance and create tax awareness culture.
+
+🟩
+
+Public campaigns to be launched to teach citizens about how they contribute to the benefits of tax payments and goods and services. It can create tax awareness and accountability culture.. Reducing bureaucrats and practices and providing clear guidelines will facilitate the process of individuals and businesses.
+
+◼️
+
+[Data](articles/3abf28b1.json)
+
+[Extended Data](ext_articles/3abf28b1.ext.json)
 
 ---
 
@@ -2231,103 +2353,5 @@ With the informs of the aircraft in the Katunayake airport, air and military com
 [Data](articles/d68b1196.json)
 
 [Extended Data](ext_articles/d68b1196.ext.json)
-
----
-
-### Over 300 election related complaints
-
-*2024-10-19 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202351) · `si`
-
-Elections Commission reports 343 election-related complaints in 24 hours, including 21 about law violations and 145 to divisional secretariats. No violence complaints since Oct 18.
-
-🟩
-
-The Elections Commission says that over 300 complaints have been received in connection with the upcoming parliamentary election.
-
-The Commission said that the total number of complaints received within the past 24 hours was 343 complaints.
-
-The National Elections Complaint Management Center has received a complaint to 21 complaints and the District Elections Management Center regarding violating election laws in the past 24 hours.
-
-Accordingly, no complaints have been received regarding violence from the 18th of October and have received the complaints only to violate election laws.
-
-The complaints have been received by 145 complaints to the National Elections Complaint Management Center and another 070 Divisional Secretariat Management Center.
-
-◼️
-
-[Data](articles/b5197a94.json)
-
-[Extended Data](ext_articles/b5197a94.ext.json)
-
----
-
-### Govt says privileges accorded to former Presidents not withdrawn
-
-*2024-10-19 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102799/govt-says-privileges-accorded-to-former-presidents-not-withdrawn) · `en`
-
-The Government Information Department has issued a special statement clarifying that the privileges accorded to former Presidents have not been withdrawn.
-
-Issued in response to the media reports alleging that vehicles provided to ex-Presidents have been taken back, the statement said that former Heads of State still retain their privileges and that only the additional vehicles have been returned thus far.
-
-Accordingly, the statement issued by the Director General of Government Information reveals that former President Mahinda Rajapaksa has returned 8 out of 16 vehicles which were in his possession and that former President Ranil Wickremesinghe has 11 vehicles.
-
-◼️
-
-[Data](articles/a3aa8943.json)
-
-[Extended Data](ext_articles/a3aa8943.ext.json)
-
----
-
-### My Dad Was My Hero: A Eulogy Of Prof A. Kumar David
-
-*2024-10-19 17:48:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/my-dad-was-my-hero-a-eulogy-of-prof-a-kumar-david/) · `en`
-
-So I’m going to start by telling you all a little secret. You see, my dad was was my hero.
-
-I didn’t grow up with Batman or Superman I grew up with my dad. My father who in all honesty I modeled my life after in many ways. You see my father was so many things to so many people; one man who in his time played many parts. For some he was a leader of Marxist thought and rioter (in today’s vernacular that’s “an advocate for social change”). For others he was a teacher, a lecturer, a professor; an expert on electrical engineering and power systems, solar and wind (pun intended for he could clear a room). The details of my father’s accomplishments on these fields (except the wind) are sadly beyond my knowledge. However, from what I have read and heard the impact has been lasting.
-
-...
-
-[Data](articles/b417d554.json)
-
-[Extended Data](ext_articles/b417d554.ext.json)
-
----
-
-### In Defense Of Royal College Rugby: Addressing Baseless Tarnishing Efforts
-
-*2024-10-19 17:30:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-defense-of-royal-college-rugby-addressing-baseless-tarnishing-efforts/) · `en`
-
-Recently, Royal College’s proud rugby tradition has come under unwarranted scrutiny, with certain quarters attempting to tarnish the reputation of this historic institution. Royal College, which has long been synonymous with excellence in academics, sports, and leadership, has especially shone in the realm of rugby, a sport that has been a bedrock of its identity for over a century.
-
-However, the recent baseless efforts to discredit this remarkable legacy deserve close examination. In an environment where sportsmanship, dedication, and teamwork are core values, such efforts appear not only misinformed but also damaging to the young athletes who devote themselves to both their education and the sport, unfortunately.
-
-...
-
-[Data](articles/76a3f66d.json)
-
-[Extended Data](ext_articles/76a3f66d.ext.json)
-
----
-
-### SriLankan pilot ejects after mid-air clash, aviation portal downgrades carrier
-
-*2024-10-19 17:22:00* · [`economynextcom`](https://economynext.com/srilankan-pilot-ejects-after-mid-air-clash-aviation-portal-downgrades-carrier-184226/) · `en`
-
-ECONOMYNEXT –  A pilot at state-run SriLankan Airlines has resigned ahead of an investigation into a mid-air incident, industry officials said, while an aviation portal has downgraded its top safety rating.
-
-The captain of SriLankan Airlines flight UL607 from Sydney to Colombo locked his female co-pilot out of the cockpit of the Airbus A330 following a dispute over her toilet break.
-
-Although the aircraft reached Colombo safely, the incident triggered an investigation by the Civil Aviation Authority. The captain, who was suspended pending the inquiry, resigned last week while the investigation was still underway.
-
-The Perth-based AirlineRatings.com, an aviation portal that rates carriers and aircraft announced that it downgraded SriLankan Airlines’s safey rating from 7 to 6 following the widely reported incident.
-
-“AirlineRatings.com deems this incident extremely serious and has downgraded SriLankan Airlines’ safety rating,” according to the portal.
-
-...
-
-[Data](articles/edea09c3.json)
-
-[Extended Data](ext_articles/edea09c3.ext.json)
 
 ---

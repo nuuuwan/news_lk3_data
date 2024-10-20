@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 05:23:39**
+As of **2024-10-20 05:45:59**
 
 ## Newspaper Stats
 
-*Scraped **50,316** Articles*
+*Scraped **50,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 406
 colombotelegraphcom | 504
 bbccomsinhala | 504
-islandlk | 2,984
+islandlk | 2,996
 economynextcom | 3,081
 dailyftlk | 3,433
 adalk | 4,664
@@ -26,11 +26,163 @@ adaderanasinhalalk | 8,734
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,316 (100.0%) of 50,316 articles have been extended.
+50,319 (100.0%) of 50,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Ceylinco Insurance leads annual beach clean-up across 100 km coastline
+
+*2024-10-20 01:57:00* · [`islandlk`](http://island.lk/ceylinco-insurance-leads-annual-beach-clean-up-across-100-km-coastline/) · `en`
+
+Ceylinco General Insurance conducted its annual Beach Clean-up program along over 100 km of Sri Lanka’s coastline, with participation from staff across its branches and head office. Held for the third consecutive year, the initiative aims to combat increasing pollution along tourist and densely populated beaches. Over 1,250 employees volunteered, collecting and segregating plastics and other waste, which was then responsibly disposed of through local municipal councils. The project’s goal is to restore the coastline’s natural beauty, protect marine life, and encourage other organizations and citizens to maintain clean beaches.
+
+Ceylinco Life Sports Festival 2024 sees more than 1,000 participants
+
+GSCS International and JAAF drive sustainable development in apparel sector
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/a445fe31.json)
+
+[Extended Data](ext_articles/a445fe31.ext.json)
+
+---
+
+### Ceylinco Life Sports Festival 2024 sees more than 1,000 participants
+
+*2024-10-20 01:56:00* · [`islandlk`](http://island.lk/ceylinco-life-sports-festival-2024-sees-more-than-1000-participants/) · `en`
+
+More than 1,000 employees of Ceylinco Life congregated at the Sugathadasa Stadium in Colombo recently to participate in the annual sports festival of Sri Lanka’s life insurance market leader. The track and field events worked out on the day were closely contested in a spirit of camaraderie and saw the ‘AS’ Group emerge winners and the ‘PK’ Group Runners-up.
+
+The best male athlete for 2024 was R. M. Farzath of the ‘NS/KS’ Group while the best female athlete was G. K. S. Madhuwanthi of the ‘PK’ Group.
+
+The track and field events were preceded by cricket, volleyball and netball tournaments that were conducted over several days in August. The Men’s cricket tournament was won by the ‘AS’ group and the Women’s tournament by the ‘PK’ Group. The ‘ST’ Group was the winner of the volleyball tournament while the Netball tournament was won by ‘PK’ Group.
+
+Ceylinco Insurance leads annual beach clean-up across 100 km coastline
+
+...
+
+[Data](articles/f83e7a71.json)
+
+[Extended Data](ext_articles/f83e7a71.ext.json)
+
+---
+
+### My Wedding, my father’s funeral and a portrait of Mr. Bandaranaike
+
+*2024-10-20 01:51:00* · [`islandlk`](http://island.lk/my-wedding-my-fathers-funeral-and-a-portrait-of-mr-bandaranaike/) · `en`
+
+(Excerpted from Render unto Caesar – Memoirs of Bradman Weerakoon)
+
+Two highly personal life-defining events occurred in 1956. One was my marriage in August to Damayanthi and the other the death of my father in late September.
+
+Damayanthi Gunasekera was the third daughter of a friend of my father’s who joined the colonial police at about the same time as Station House Officers. They both served for 35 years before retiring as superintendent in charge of districts. But more than that, Damayanthi’s mother was a Weerakoon from the same village as my father – Payagala in the Kalutara district – and a second or third cousin as well.
+
+Damayanthi’s mother who wed at the age of 14 was said to be a beauty and it was rumoured in family circles that my father. as a young police officer, was seriously interested in her. Be that as it may my parents were really pleased when the proposal from the Gunasekera side came along.
+
+...
+
+[Data](articles/ba8cd78e.json)
+
+[Extended Data](ext_articles/ba8cd78e.ext.json)
+
+---
+
+### Real estate deals in the UK including buying a house that once belonged to Margaret Thatcher
+
+*2024-10-20 01:49:00* · [`islandlk`](http://island.lk/real-estate-deals-in-the-uk-including-buying-a-house-that-once-belonged-to-margaret-thatcher/) · `en`
+
+(Excerpted from Simply Nahil: A Maverick with a Midas touch, biography of Nahil Wijesuriya)
+
+Nahil and the family moved to London and Nahil decided to continue staying in the UK, living at College Gardens in Dulwich. The children were 10 and 12 years old and the family enjoyed living here.The real estate market in the UK was at an interesting paradigm. The regulations for rates were based on the square footage of a property with the taxable rate being any area above five square feet.
+
+The basement areas under the regulated height were used for storage, considering this space was not taxable. Over the years the rules changed with taxes based on the regions etc. Nahil took advantage of the changes in tax regulations, adding an extra floor by digging into the basement of his property up to foundation level, creating a seven-foot basement which was the regular height and space, equivalent to an extra floor thus adding more value to his property.
+
+...
+
+[Data](articles/174bdbb6.json)
+
+---
+
+### My clash with Philip Gunawardene in the parliament restaurant
+
+*2024-10-20 01:18:00* · [`islandlk`](http://island.lk/my-clash-with-philip-gunawardene-in-the-parliament-restaurant/) · `en`
+
+In early 1958, I was appointed Deputy Commissioner of the Agrarian Services Department, in charge of implementing the Paddy Lands Act of 1958, under the general direction of the Commissioner. As an officer of the CCS I already had some training and experience in law and administration as well as experience in wet and dry zone agriculture and irrigation.
+
+In setting out to draft the Administrative Regulations under the Act, I came across a number of structural, legal and operational considerations, which probably had not been foreseen by its authors – probably because this was the first time it was being looked at by an administrator with field experience.
+
+...
+
+[Data](articles/84762b14.json)
+
+---
+
+### The recent IMF visit and the new ‘economic team’
+
+*2024-10-20 01:07:00* · [`islandlk`](http://island.lk/the-recent-imf-visit-and-the-new-economic-team/) · `en`
+
+A new economic team, representing SL has gone into a meeting with the IMF. A President Media Division release dated October 2, 2024, says that the IMF visit was to hold discussions on the progress of the IMF programme and the release of the fourth tranche and that the following “economic team” has been appointed by the new government for discussions with the IMF.
+
+This is the team –Anil Jayantha, Chair of the NPP Economic Policy Council & Senior Advisor to the President on Economic Affairs & Finance, Duminda Hulangamuwa, Senior Advisor to the President, Sunil Handunnetti, JVP Politician, Seetha Bandara Ranathunga, Sunil Gamage, Nandasiri Keembiyahetti, O. G. Dayaratne Banda and Amarasena Athukorala.
+
+...
+
+[Data](articles/1f28396f.json)
+
+---
+
+### Deep State – Sow a Wind and Reap a Whirlwind
+
+*2024-10-20 01:02:00* · [`islandlk`](http://island.lk/deep-state-sow-a-wind-and-reap-a-whirlwind/) · `en`
+
+“If they did prosper and increase in riches, yet they should not long enjoy them themselves, but be pillaged and spoiled of them” Hosea 8:7
+
+The above is quoted from the Bible and is self-explanatory. Since, the concept of Deep State in Sri Lanka is closely connected, to the Easter Bombing, the Bible verse has been referred to due to its significance.
+
+For the first time in Sri Lanka, Deep State has been discussed publicly, by Sunanda Deshapriya, writing about it in his recent book about the Easter Attack. His book is about the fourth publication on the Easter Sunday attack. I have always had great respect for Sunanda as I had been reading his articles from the nineties.
+
+Although I still have not read this book, skimming through it I think it is well researched. He refers to Deep State as ‘Paaraa Rajya’ in Sinhala. Attorney Kishali Pinto Jayawardena too has written about the danger of Deep State in her articles.
+
+...
+
+[Data](articles/32532dee.json)
+
+---
+
+### Father and Daughter – unique persons
+
+*2024-10-20 00:53:00* · [`islandlk`](http://island.lk/father-and-daughter-unique-persons/) · `en`
+
+In my last Sunday’s (October 6) article The Reality of the Present and Memories of the Past, I wrote about a young Tamil Australian from western Sydney – S Shakthidharan – whose play Counting and Cracking has been a resounding success in Australia and more recently in New York. I knew who’s who he was but did not wish to mention his family, except for the one fact that he is a great grandson of C Suntheralingam, a colossus of his time. This reticence since I had not got permission from a family member to mention them.
+
+Memories of a grandaunt of the playwright whom I befriended and admired very much kept twirling in my mind. The memories needed exposure through writing. Hence I wrote to her son Architect C Anjalendran for permission to write about her; permission kindly given. I suppose he could not refuse old me though he shies away from publicity. Thus I mean to dedicate this article to my friend Vatha and mention her father, both truly unique persons.
+
+...
+
+[Data](articles/818c2e4a.json)
+
+---
+
+### RUNNING SCARED?
+
+*2024-10-20 00:38:00* · [`islandlk`](http://island.lk/running-scared/) · `en`
+
+Never in our recent political history has there been such a simultaneous exodus of political stalwarts, declaring their intent to retire from politics. This is akin to the story of Noah’s Ark, where the threat of imminent disaster, ignited an escape, spurred by a natural existential threat.
+
+Why this sudden realization of the point at which the certainty of age-related decadence, overtakes the myth of the limitless benefit of experience? There has to be something more. Some of these suddenly awakened denizens, may be smelling a so far suppressed and cocooned, visitation by justice as the consequence of moral default and sustained larceny.
+
+...
+
+[Data](articles/e1cdfb92.json)
+
+---
 
 ### Sri Lanka wins 100 goals at Asian Netball Championships with Saudi
 
@@ -2026,6 +2178,36 @@ It has been revealed that the attackers are working on private buses. Vavuniya p
 
 ---
 
+### Softlogic Life backs Tharushi Karunarathne to take on the world
+
+*2024-10-19 04:03:00* · [`islandlk`](http://island.lk/softlogic-life-backs-tharushi-karunarathne-to-take-on-the-world/) · `en`
+
+In a proud moment for the country’s athletics, Sri Lanka’s second-largest life insurer, Softlogic Life, announced its unwavering support for the country’s young and promising athlete, Tharushi Karunarathne, by extending sponsorship for one of the nation’s most promising young athletes until Olympics 2028.
+
+Tharushi, a rising star in track and field, has already made significant strides on both the national and international stage. At just 19 years old, she has demonstrated remarkable dedication, resilience, and talent, positioning herself as a formidable competitor in middle-distance running and has the distinction of having represented Sri Lanka at the Olympics earlier this year.
+
+Gold Medal at the Asian U-20 Championships: Tharushi clinched gold in the 800m race, a testament to her exceptional speed and stamina.
+
+National Record Holder: She currently holds the Sri Lankan national record for the 800m event, marking her as one of the fastest athletes in the country’s history.
+
+...
+
+[Data](articles/615b0193.json)
+
+---
+
+### Standard Chartered Sri Lanka sets national benchmark as only EDGE Move certified organisation in Sri Lanka
+
+*2024-10-19 04:02:00* · [`islandlk`](http://island.lk/standard-chartered-sri-lanka-sets-national-benchmark-as-only-edge-move-certified-organisation-in-sri-lanka/) · `en`
+
+Standard Chartered Sri Lanka has announced a milestone achievement, obtaining the EDGE Move certification for the second consecutive time, in its commitment to nurture gender equality in the workplace. The certification, the second-highest level offered by the EDGE Certified Foundation (Equity, Diversity, and Gender Equality), is also a national benchmark, as Standard Chartered Sri Lanka is the only organisation in the country to attain the distinguished recognition.
+
+...
+
+[Data](articles/7e12230f.json)
+
+---
+
 ### Optimism over corporate sector quarterly results energizes CSE
 
 *2024-10-19 04:02:00* · [`islandlk`](http://island.lk/optimism-over-corporate-sector-quarterly-results-energizes-cse/) · `en`
@@ -2074,6 +2256,22 @@ The Jathika Jana Balawegaya (JJB) government is raising debt more acutely than t
 
 ---
 
+### GSCS International and JAAF drive sustainable development in apparel sector
+
+*2024-10-19 03:54:00* · [`islandlk`](http://island.lk/gscs-international-and-jaaf-drive-sustainable-development-in-apparel-sector/) · `en`
+
+GSCS International Ltd, with a global presence in over 35 countries, offers steady, sustainable, and enduring development as a provider of certification, assessment, audit, verification, inspection, and capacity-building services. GSCS International – Sri Lanka successfully organized the SustainSphere 2.0 program, aimed at innovating tomorrow’s industry through sustainability.
+
+A press release said: ‘Held in Sri Lanka, the event attracted a diverse audience, including representatives from academic institutions, government bodies, trade associations, brands, and various client organizations, all gathered to explore the future of sustainable development in the apparel industry.
+
+‘The first keynote address was delivered by Dr. Harshini Mallawarachchi, Senior Lecturer at the Department of Facilities Management, University of Moratuwa, Sri Lanka. Dr. Mallawarachchi emphasized Circular Economy: A Pathway for Net-Zero Apparel Manufacturing.
+
+...
+
+[Data](articles/348212a6.json)
+
+---
+
 ### Sampath Bank partners with Symphony Orchestra of Sri Lanka to launch historic trilingual concert
 
 *2024-10-19 03:13:00* · [`islandlk`](http://island.lk/sampath-bank-partners-with-symphony-orchestra-of-sri-lanka-to-launch-historic-trilingual-concert/) · `en`
@@ -2087,239 +2285,5 @@ As the sole sponsor, Sampath Bank PLC is thrilled to support this pioneering ini
 [Data](articles/6a26f3f0.json)
 
 [Extended Data](ext_articles/6a26f3f0.ext.json)
-
----
-
-### ComBank Digital launches new-paradigm ‘H2H’ services for corporate clients
-
-*2024-10-19 03:12:00* · [`islandlk`](http://island.lk/combank-digital-launches-new-paradigm-h2h-services-for-corporate-clients/) · `en`
-
-The Commercial Bank of Ceylon has announced the launch of Host-to-Host (H2H) payment services for corporate clients as the latest addition to ComBank Digital Enterprise Solutions – the Bank’s comprehensive and powerful suite of cutting-edge digital banking solutions for SMEs and corporates.
-
-H2H is an automated and secure solution that integrates directly with a corporate client’s Enterprise Resource Planning (ERP) system, and is designed to facilitate the electronic transfer of data between banks and their corporate clients. This technology eliminates the need for manual processes involved in payment transfers and reconciliations, making overall transaction management more efficient and reliable, the Bank said.
-
-...
-
-[Data](articles/ffbc7c18.json)
-
-[Extended Data](ext_articles/ffbc7c18.ext.json)
-
----
-
-### Does President AKD Borrow Money Like Ex-Prez Ranil?
-
-*2024-10-19 02:51:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/does-president-akd-borrow-money-like-ex-prez-ranil/) · `en`
-
-“Admission of ignorance is often the first step in our education” ~ Stephen Covey
-
-Recent bitter criticisms by some opposition ex-parliamentarians regarding government borrowing (i.e., President Anura Kumara Dissanayake) have no substance; it is for mudslinging and due to ignorance of the subject matter. President AKD is performing his mandatory work responsibilities as the Minister of Finance, similar to ex-Prez Ranil Wickremesinghe. Borrowing by President AKD has no burden on the total debt or Debt to GDP as per the IMF Program. Payment to pensioners, fertilizer, and fuel subsidies are within the fiscal space. No funds have been borrowed and wasted at all. Fertilizer and fuel subsidies greatly benefit the economy in numerous ways. Given the recent meeting by President AKD with the agricultural officials, formulating a National Agricultural Policy and having a public discussion on the same is a top priority of the government in the right direction.
-
-...
-
-[Data](articles/295b75f7.json)
-
-[Extended Data](ext_articles/295b75f7.ext.json)
-
----
-
-### NMSJ criticises lack of consultation on dismantling National People’s Council
-
-*2024-10-19 01:36:40* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-criticises-lack-of-consultation-on-dismantling-National-People-s-Council/56-768176) · `en`
-
-Says Govt. should have consulted civil society groups before abolishing the NPC, it would have shown respect
-
-Highlights work carried out by NMSJ to bring about NPC and says it is merely an attempt to highlight importance and not challenge Govt.’s decision
-
-Claims if Govt. wishes to pursue any shared goals that serve the public interest it is ready to provide its full support
-
-The National Movement for Social Justice (NMSJ) led by former Speaker Karu Jayasuriya has said the Government should have consulted the organisation before abolishing the National People’s Council proposed by it which was intended to function as a participatory democratic model promoting active public involvement. Following the election of President Anura Kumara Dissanayake, a decision was also taken by the Cabinet to dismantle the National People’s Council Secretariat set up to implement the concept which had been allocated Rs. 700 million through the last Budget.
-
-...
-
-[Data](articles/f4197138.json)
-
-[Extended Data](ext_articles/f4197138.ext.json)
-
----
-
-### Catholic Church warns Gammanpila against politicising Easter tragedy
-
-*2024-10-19 01:36:29* · [`dailyftlk`](https://www.ft.lk/news/Catholic-Church-warns-Gammanpila-against-politicising-Easter-tragedy/56-768175) · `en`
-
-Rev. Father Cyril Gamini Fernando has stressed ongoing CID investigations must continue without interference
-
-Says Church has no interest in reports that former MP Gammanpila plans to make public
-
-Calls on former MP to refrain from disrupting or interfering with investigation process
-
-Archdiocese of Colombo Spokesperson Rev. Father Cyril Gamini Fernando has demanded former Member of Parliament Udaya Gammanpila to refrain from exploiting the 2019 Easter Sunday tragedy for political gain.
-
-Speaking to the media yesterday regarding the MP’s threats to publicise two committee reports on the Easter tragedy, Father Cyril Gamini Fernando stressed that the ongoing investigations by the Criminal Investigation Department (CID) must continue without interference. He urged the MP to refrain from disrupting or interfering with the investigation process.
-
-...
-
-[Data](articles/e8ad05fe.json)
-
-[Extended Data](ext_articles/e8ad05fe.ext.json)
-
----
-
-### Commemorating Vap Full Moon Poya Day, India’s Rich Buddhist Heritage Exhibition reaches Uva Province
-
-*2024-10-19 01:36:17* · [`dailyftlk`](https://www.ft.lk/news/Commemorating-Vap-Full-Moon-Poya-Day-India-s-Rich-Buddhist-Heritage-Exhibition-reaches-Uva-Province/56-768174) · `en`
-
-The ninth edition of the India’s Rich Buddhist Heritage Exhibition, organised by the High Commission of India in Colombo was held at Dematamal Viharaya in Okkampitiya on the occasion of Vap Full Moon Poya Day.
-
-The exhibition was inaugurated by Ven. Galtemwatte Pugnananda Theroand the Indian Consul General of Hambantota Harvinder Singh.
-
-The exhibition showcased India’s Rich Buddhist heritage through a series of photographs depicting significant episodes from the life of the Buddha and important Buddhist pilgrimage sites in India.
-
-The India’s Rich Buddhist Heritage Exhibition series, initiated by the High Commission, has been held at various significant Buddhist places of worship across the country during each Poya day.
-
-It began at the Kalutara Bodhi premises on Navam Poya day and has since travelled to several temples, including:
-
-...
-
-[Data](articles/1bbcf321.json)
-
-[Extended Data](ext_articles/1bbcf321.ext.json)
-
----
-
-### DNA asks SC to halt Vanni elections over nomination rejection
-
-*2024-10-19 01:34:30* · [`dailyftlk`](https://www.ft.lk/news/DNA-asks-SC-to-halt-Vanni-elections-over-nomination-rejection/56-768173) · `en`
-
-Party is also seeking writ overturning district returning officer’s decision to reject DNA’s nomination papers
-
-Argues rejection is illegal as DNA had duly submitted all requisite documentation
-
-The Democratic National Alliance (DNA) led by Pararajasingham Udayarasa has filed a petition before the Supreme Court challenging the rejection of the party’s nomination papers for the upcoming General Election in the Vanni electoral district.
-
-The petition was submitted following the District Returning Officer’s decision to reject DNA’s nomination papers.
-
-Pararajasingham Udayarasa, the authorised officer of the DNA along with two others, filed the petition, naming the Commissioner General of the Election Commission of Sri Lanka, its members, the Vanni District Returning Officer, and several others as respondents.
-
-...
-
-[Data](articles/f95f767e.json)
-
-[Extended Data](ext_articles/f95f767e.ext.json)
-
----
-
-### Senior Professor Kapila Seneviratne appointed as new Chairman of UGC
-
-*2024-10-19 01:34:19* · [`dailyftlk`](https://www.ft.lk/news/Senior-Professor-Kapila-Seneviratne-appointed-as-new-Chairman-of-UGC/56-768172) · `en`
-
-Senior Professor Kapila Seneviratne has been appointed as the new Chairman of the University Grants Commission (UGC) by President Anura Kumara Dissanayake.
-
-The official letter of appointment was handed over to him yesterday at the Presidential Secretariat by Secretary to the President Dr. Nandika Sanath Kumanayake.
-
-Additionally, Senior Professor K.L. Wasantha Kumara has been appointed as the new Vice Chairman of the UGC.
-
-Other members appointed to the Commission include Senior Professors Rahula Athalage, O.G. Dayaratne, Subramaniam Raviraj, and President’s Counsel C.K.W. Unamboowa.
-
-◼️
-
-[Data](articles/18ecd234.json)
-
-[Extended Data](ext_articles/18ecd234.ext.json)
-
----
-
-### New Board of Directors appointed to National Film Corporation and Sri Lanka Foundation Institute
-
-*2024-10-19 01:33:41* · [`dailyftlk`](https://www.ft.lk/news/New-Board-of-Directors-appointed-to-National-Film-Corporation-and-Sri-Lanka-Foundation-Institute/56-768171) · `en`
-
-Buddha Sasana, Religious and Cultural Affairs, National Integration, Social Security and Mass Media Minister Vijitha Herath emphasised the need for the National Film Corporation (NFC) to adapt to contemporary times, compete with private entities, and progress accordingly.
-
-He made these remarks during a meeting held yesterday at the Ministry of Mass Media Auditorium, appointing the Boards of Directors for the National Film Corporation and the Sri Lanka Foundation Institute.
-
-The minister revealed the previous concerns about favouritism in film releases in the past, and urged the new board of Directors to ensure fair practices in this regard.
-
-He also noted that representatives from all communities — Sinhalese, Tamils, and Muslims — were appointed back in 2004/2005, and Tamil cinema has yet to establish and develop itself as a viable industry in Sri Lanka in the future.
-
-...
-
-[Data](articles/c24c365e.json)
-
-[Extended Data](ext_articles/c24c365e.ext.json)
-
----
-
-### CMA Sri Lanka and Rajarata University of Sri Lanka sign MoU to equip undergraduates with professional skills for future-ready management accountants
-
-*2024-10-19 01:16:17* · [`dailyftlk`](https://www.ft.lk/business/CMA-Sri-Lanka-and-Rajarata-University-of-Sri-Lanka-sign-MoU-to-equip-undergraduates-with-professional-skills-for-future-ready-management-accountants/34-768169) · `en`
-
-University of Rajarata Vice Chancellor Prof. GAS Ginigaddara (centre) with Faculty of Management Studies Dean Prof. P.M.B. Jayathilake, Head – Department of Accountancy and Finance Dr. R.M.N.C. Swarnapali, Head – Department of Business Management Dr. W.M.R.B. Weerasooriya, Head – Department of Human Resource Management K.A.K.S. Rathnakara, Department of Accountancy and Finance Senior Lecturer Dr. A.L.M. Jameel, Department of Accountancy and Finance Senior Lecturer Dr. C.T.  Gamage, Department of Accountancy and Finance Senior Lecturer Dr. J.S. Kumari, Department of Accountancy and Finance Senior Lecturer D.D.K. Sugathadasa, Department of Accountancy and Finance Coordinator, Faculty Industry Interaction Cell, Lecturer V.G.N. Sameera, Department of Accountancy and Finance Lecturer G.M.H.P.K. Rathwatta, Department of Accountancy and Finance Lecturer J.M.N. Wijekumara, and Department of Accountancy and Finance Assistant Lecturer A.H. Kelumdeniya
-
-...
-
-[Data](articles/077dcbd3.json)
-
-[Extended Data](ext_articles/077dcbd3.ext.json)
-
----
-
-### CMA Sri Lanka and Rajarata University sign MoU
-
-*2024-10-19 01:16:17* · [`dailyftlk`](https://www.ft.lk/business/CMA-Sri-Lanka-and-Rajarata-University-sign-MoU/34-768169) · `en`
-
-University of Rajarata Vice Chancellor Prof. GAS Ginigaddara (centre) with Faculty of Management Studies Dean Prof. P.M.B. Jayathilake, Head – Department of Accountancy and Finance Dr. R.M.N.C. Swarnapali, Head – Department of Business Management Dr. W.M.R.B. Weerasooriya, Head – Department of Human Resource Management K.A.K.S. Rathnakara, Department of Accountancy and Finance Senior Lecturer Dr. A.L.M. Jameel, Department of Accountancy and Finance Senior Lecturer Dr. C.T.  Gamage, Department of Accountancy and Finance Senior Lecturer Dr. J.S. Kumari, Department of Accountancy and Finance Senior Lecturer D.D.K. Sugathadasa, Department of Accountancy and Finance Coordinator, Faculty Industry Interaction Cell, Lecturer V.G.N. Sameera, Department of Accountancy and Finance Lecturer G.M.H.P.K. Rathwatta, Department of Accountancy and Finance Lecturer J.M.N. Wijekumara, and Department of Accountancy and Finance Assistant Lecturer A.H. Kelumdeniya
-
-...
-
-[Data](articles/56e0f4f2.json)
-
-[Extended Data](ext_articles/56e0f4f2.ext.json)
-
----
-
-### Adaaran Resorts triumphs with multiple awards at FHAM 2024
-
-*2024-10-19 01:14:44* · [`dailyftlk`](https://www.ft.lk/business/Adaaran-Resorts-triumphs-with-multiple-awards-at-FHAM-2024/34-768168) · `en`
-
-Aitken Spence Hotels’ Adaaran Select Hudhuranfushi, Adaaran Prestige Vadoo, and Adaaran Select Meedhupparu achieved remarkable recognition at the Food and Hospitality Asia Maldives Global Culinary Challenge and Exhibition 2024 (FHAM).
-
-Each resort showcased its culinary excellence, securing a multitude of prestigious awards.
-
-Adaaran Select Hudhuran Fushi, a 24-hour Premium All-inclusive resort, garnered 11 awards, including four Gold Awards. Adaaran Prestige Vadoo, an exclusive adults-only haven, claimed a total of nine accolades, including four Gold Awards and a special award. Adaaran Select Meedhupparu, also a 24-hour Premium All-Inclusive resort nestled within a lush mature island, celebrated six noteworthy awards.
-
-...
-
-[Data](articles/bffb1ac3.json)
-
-[Extended Data](ext_articles/bffb1ac3.ext.json)
-
----
-
-### Hemanthabara bowl bowled;Sri Lanka A team defeated Afghan A by 11 runs
-
-*2024-10-19 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/196619) · `ta`
-
-Sri Lanka A lost to Afghanistan A by 11 runs in their first match. Hemanthabara bowled well, taking 6 wickets. Sri Lanka scored 155 in 19.3 overs, while Afghanistan made 166 in 20 overs.
-
-🟩
-
-ஓமானில் நடைபெற்றுவரும் வளர்ந்துவரும் வீரர்களைக் கொண்ட அணிகளுக்கான ரி20 ஆசிய கிண்ண கிரிக்கெட் போட்டியில் இலங்கை ஏ அணி தனது ஆரம்பப் போட்டியில் ஆப்கானிஸ்தானிடம் 11 ஓட்டங்களால் தோல்வி அடைந்தது.
-
-Sri Lanka's spin bowler Dushan Hemantha took only 23 runs in 4 overs and his attempt was finally fallen.
-
-முதலில் துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் ஏ அணி 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 166 ஓட்டங்களைக் குவித்தது.
-
-ஸுபைத் அக்பாரி 57 ஓட்டங்களையும் சிதிக்குல்லா அத்தல் 83 ஓட்டங்களைப் பெற்றதுடன் முதலாவது விக்கெட்டில் 142 ஓட்டங்களைப் பகிர்ந்து ஆப்கானிஸ்தான் ஏ அணியை பலமான நிலையில் இட்டனர்.
-
-6ஆவதாக  பந்து வீச அழைக்கப்பட்ட துஷான் ஹேமன்த 6 விக்கெட்களை வீழ்த்தினார். மற்றைய விக்கெட் ரன் அவுட் முறையில் வீழ்ந்தது.
-
-பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை ஏ அணி19.3 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 155 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
-
-அணித் தலைவர் நுவனிது பெர்னாண்டோ 51 ஓட்டங்களையும் அஹான் விக்ரமசிங்க 31 ஓட்டங்களையும் பெற்றனர். அவர்களை விட வேறு எவரும் துடுப்பாட்டத்தில் பிரகாசிக்கவில்லை.
-
-...
-
-[Data](articles/2ccf0ce4.json)
-
-[Extended Data](ext_articles/2ccf0ce4.ext.json)
 
 ---

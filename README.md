@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 23:23:29**
+As of **2024-10-20 23:39:45**
 
 ## Newspaper Stats
 
-*Scraped **50,443** Articles*
+*Scraped **50,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ colombotelegraphcom | 505
 islandlk | 2,998
 economynextcom | 3,083
 dailyftlk | 3,433
-adalk | 4,680
+adalk | 4,681
 dailymirrorlk | 4,733
 adaderanalk | 5,976
 tamilmirrorlk | 6,907
 virakesarilk | 8,092
-adaderanasinhalalk | 8,760
+adaderanasinhalalk | 8,761
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,443 (100.0%) of 50,443 articles have been extended.
+50,445 (100.0%) of 50,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-20 (Sunday)
+
+### Madushka and Swarf Sounds win Sri Lanka
+
+*2024-10-20 23:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202384) · `si`
+
+Sri Lanka wins first ODI against West Indies. Madushka and Swarf Sounds shine. Rain reduces overs but SL scores 232/7 in 37 overs. Charth Consent hits 77* in debut ODI. SL takes series 1-0.
+
+🟩
+
+Tourist bi. The Sri Lankan team was able to win the first one-day match by defeating West Indies.
+
+With this Jayath, Sri Lanka took the three-match tournament.
+
+The West Indies was banded first while they were bowled out for 185 runs for the loss of 4 wickets in 38 balls.
+
+For more than two hours, the rain was reduced to reduce the number of overs of the match.
+
+Sri Lanka won 232 runs in 37 overs.
+
+Charth Consent of Charth Consent (77) and his first ODI was playing half-century.
+
+They took 3 wickets for 45 runs to 182 runs.
+
+The 5th wicket scored 137 off 109 balls.
+
+◼️
+
+[Data](articles/dfe82e5e.json)
+
+[Extended Data](ext_articles/dfe82e5e.ext.json)
+
+---
 
 ### T20 Women's World Cup to New Zealand
 
@@ -173,6 +205,30 @@ The leader of the universal authority, entrepreneur Dilith Jayaweera,
 [Data](articles/2a5cb30d.json)
 
 [Extended Data](ext_articles/2a5cb30d.ext.json)
+
+---
+
+### Sri Lanka a target of 232 runs
+
+*2024-10-20 21:17:42* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවට-ලකු‍ණු-232ක-ඉලක්කයක්/11-412576) · `si`
+
+Sri Lanka wins match against West Indies. Target: 232 runs. Achieved in 37 overs. Duckworth-Lewis method adjusts score to 237. Sri Lanka lost 3 wickets for 62 runs in 9 overs.
+
+🟩
+
+Sri Lanka won a target of 232 runs in 37 overs.
+
+The West Indies first scored the 4 wickets in 38.3 overs.
+
+Accordingly, according to the Duckworth Lewis theory, Sri Lanka won 237 runs in 37 overs.
+
+Sri Lanka have scored 62 runs for the 3 wickets in 9 overs.
+
+◼️
+
+[Data](articles/871065d9.json)
+
+[Extended Data](ext_articles/871065d9.ext.json)
 
 ---
 
@@ -2341,43 +2397,5 @@ Thus, naval and fishing communities are requested to be vigilant while engaging 
 [Data](articles/2c010150.json)
 
 [Extended Data](ext_articles/2c010150.ext.json)
-
----
-
-### At least 7 dead after ferry dock gangway collapses on Georgia’s Sapelo Island
-
-*2024-10-20 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102804/at-least-7-dead-after-ferry-dock-gangway-collapses-on-georgias-sapelo-island) · `en`
-
-Authorities said at least seven people were killed Saturday when part of a ferry dock collapsed on Georgia’s Sapelo Island, where crowds had gathered for a fall celebration by the island’s tiny Gullah-Geechee community of Black slave descendants.
-
-Eight people were taken to hospitals, at least six of them with critical injuries, and crews from the U.S. Coast Guard, the McIntosh County Fire Department, the Georgia Department of Natural Resources and others were searching the water, according to Natural Resources spokesperson Tyler Jones. The agency operates the dock and ferry boats that transport people between the island and the mainland.
-
-A gangway at the dock collapsed, sending people plunging into the water, Jones said. A team of engineers and construction specialists planned to be on site early Sunday to begin investigating why the walkway failed, he said.
-
-“There was no collision” with a boat or anything else, Jones said. “The thing just collapsed. We don’t know why.”
-
-...
-
-[Data](articles/2d02caa2.json)
-
-[Extended Data](ext_articles/2d02caa2.ext.json)
-
----
-
-### Showers expected in parts of the country
-
-*2024-10-20 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102803/showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Northern province. Several spells of showers may occur in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at several places in Uva, Eastern and North-central provinces during the evening or night, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers
-
-◼️
-
-[Data](articles/581ad355.json)
-
-[Extended Data](ext_articles/581ad355.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-20 11:10:23**
+As of **2024-10-20 11:23:41**
 
 ## Newspaper Stats
 
-*Scraped **50,354** Articles*
+*Scraped **50,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,667
 dailymirrorlk | 4,733
 adaderanalk | 5,967
 tamilmirrorlk | 6,895
-virakesarilk | 8,058
+virakesarilk | 8,061
 adaderanasinhalalk | 8,741
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,354 (100.0%) of 50,354 articles have been extended.
+50,357 (100.0%) of 50,357 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,6 +72,30 @@ Accordingly, she will become the first Sri Lankan judge to act as a judge in the
 
 ---
 
+### Chilaw - Fire in Singapura
+
+*2024-10-20 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/196666) · `ta`
+
+Fire in Chilaw, Singapura: Three family members killed. Police investigating cause.
+
+🟩
+
+Three people were killed in a fire that broke out on Saturday (19) in a house in Chilaw, Singapura, police said.
+
+Chilaw police said that the mother, father and their daughter died in the fire.
+
+The 42 -year -old male, a 40 -year -old woman and a 15 -year -old girl died, police said.
+
+Further, the cause of the fire has not yet been identified and the Chilaw police are conducting further investigations.
+
+◼️
+
+[Data](articles/a008f2cb.json)
+
+[Extended Data](ext_articles/a008f2cb.ext.json)
+
+---
+
 ### Israel attacked by north Gaza
 
 *2024-10-20 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202363) · `si`
@@ -93,6 +117,66 @@ The Israeli security forces say that the attack on the attack is a target of Ham
 [Data](articles/64a72b70.json)
 
 [Extended Data](ext_articles/64a72b70.ext.json)
+
+---
+
+### In some places the intermittent rain
+
+*2024-10-20 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/196664) · `ta`
+
+Intermittent rain forecasted in several provinces. Thunderstorms possible with strong winds and lightning. Sea regions may experience turbulence due to high-speed gusts. Public advised to remain vigilant.
+
+🟩
+
+Senior Weather Officer Dr. Mohamed Saliheen said that there will be frequent showers or thunderstorms in the Northern Province.
+
+Rainfall is likely to occur in Sabaragamuwa, Upper, North Western and Southern Provinces as well as Kandy and Nuwara Eliya districts.
+
+There are many places in the Uva, Eastern and North Central Provinces in the evening or night.
+
+The public is asked to act with vigilance in the events of strong winds and lightning.
+
+Rainfall is expected in the sea regions from Puttalam to Colombo and Galle.
+
+Winds from the southwestern direction at speeds of 25 - 35 km / h in the sea regions around the country.
+
+From the beginning of the Kankesanthurai to Mannar, as well as the speed of over 40 to 45 km per hour in the sea regions from Hambantota to Pottuvil, the wind can be increased.. In such cases, these sea regions are somewhat turbulent.
+
+But when the thunderstorm is raining, strong winds are blowing and the sea regions are temporarily in a very turbulent.
+
+◼️
+
+[Data](articles/5f7e20be.json)
+
+[Extended Data](ext_articles/5f7e20be.ext.json)
+
+---
+
+### Pa. Ranjith Published. J.. Balaji's 'Paravasal' film Burst Look
+
+*2024-10-20 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196661) · `ta`
+
+J. Balaji stars in "Paravasal," a new film directed by Siddharth Viswanath. Produced by Swipe Right Studios, it's about a prisoner in paradise. First look released; production ongoing.
+
+🟩
+
+Actor and director. J.. The new film, which plays the role of the hero of the Balaji story, has been named 'Paravasal' and its first look has been released.
+
+Director and producer Pa. Ranjith posted on his web page and congratulated the film crew.
+
+In the film 'Parakavasal' directed by Siddharth Viswanath. J.. Balaji plays the hero of the story.
+
+The film, which is a different angle, has been produced by Swipe Right Studios.
+
+The shooting of the film is completed and the technical work of the film is currently underway.
+
+In this case, the film's title and Burst Look have been released. In this r. J.. Balaji appears to be a prisoner and is a 'paradise' in the title of the film.
+
+◼️
+
+[Data](articles/82390b93.json)
+
+[Extended Data](ext_articles/82390b93.ext.json)
 
 ---
 
@@ -2251,73 +2335,5 @@ Weliweriya Police stated that the arrested suspect is a 22-year-old resident of 
 [Data](articles/6feffd5a.json)
 
 [Extended Data](ext_articles/6feffd5a.ext.json)
-
----
-
-### Rs. Businessman arrested with ice of ice
-
-*2024-10-19 09:56:05* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-25ක-අයිස්-සමග-ව්‍යාපාරිකයෙක්-අල්ලයි/11-412558) · `si`
-
-Businessman arrested at Katunayaka Airport with 109kg of ice. Arrived on Malaysian Airlines from Kuala Lumpur. Customs officials detained him at baggage screening. Case handed over to Police Narcotics Division for further investigation.
-
-🟩
-
-A road passenger has been arrested by the Katunayaka Airport and Katunayaka Airport and Katunayaka airport.
-
-He is a 35 year old businessman from Dematagoda, Colombo. He had arrived at the Malaysian Airlines from Kuala Lumpur from Kuala Lumpur, Malaysia at 11.30 pm on 10.30 pm.
-
-The arrest was carried out by customs officials while the Katunayake airport is not trying to get out of the airport.
-
-In the baggage he brought, the customs personnel had been arrested by customs while 109 kg of ice crumbs.
-
-Steps have been taken to hand over the Katunayaka Airport to the Police Narcotics Division for further investigations into further investigations into the investigation.
-
-◼️
-
-[Data](articles/bfcde8c6.json)
-
-[Extended Data](ext_articles/bfcde8c6.ext.json)
-
----
-
-### Man arrested with drugs of 250 million
-
-*2024-10-19 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202330) · `si`
-
-Sri Lankan man arrested at Katunayake Airport with 250 million rupees worth of ice drugs. Found over 10 kilograms of illegal substance.
-
-🟩
-
-A person was arrested at the Katunayake Airport with heavy ice drugs worth over Rs. 250 million.
-
-Sri Lanka, a Sri Lankan from Malaysia, has found more than 10 ice drugs.
-
-◼️
-
-[Data](articles/f117c733.json)
-
-[Extended Data](ext_articles/f117c733.ext.json)
-
----
-
-### Passenger arrested with over 10kg of ‘Ice’ drugs at BIA
-
-*2024-10-19 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102790/passenger-arrested-with-over-10kg-of-ice-drugs-at-bia) · `en`
-
-Sri Lanka Customs officers have arrested a Sri Lankan passenger arriving from Malaysia while in possession of over 10 kilograms of ‘Ice’ (crystal methamphetamine), estimated to be worth around Rs. 250 million, at the Bandaranaike International Airport (BIA) in Katunayake.
-
-Customs officers have discovered approximately 10.197 kilograms of ‘Ice’ drugs hidden inside tea packets in the luggage of the passenger, who had arrived at BIA from Kuala Lumpur in Malaysia, onboard flight MH 179, at around 11.30 p.m. last night (18).
-
-The suspect had attempted to exit through the green channel without declaring the items to customs.
-
-The street value of the seized drugs is estimated at Rs. 250 million, according to Sri Lanka Customs.
-
-The passenger, a 35-year-old resident of Dematagoda, along with the drugs consignment, have been handed over to the Police Narcotics Bureau (PNB) for further investigation.
-
-◼️
-
-[Data](articles/7a280a4b.json)
-
-[Extended Data](ext_articles/7a280a4b.ext.json)
 
 ---

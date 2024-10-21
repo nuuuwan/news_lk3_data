@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 14:25:30**
+As of **2024-10-21 14:59:04**
 
 ## Newspaper Stats
 
-*Scraped **50,556** Articles*
+*Scraped **50,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,80 @@ colombotelegraphcom | 507
 islandlk | 3,008
 economynextcom | 3,087
 dailyftlk | 3,446
-adalk | 4,690
+adalk | 4,691
 dailymirrorlk | 4,733
 adaderanalk | 5,988
 tamilmirrorlk | 6,930
 virakesarilk | 8,111
-adaderanasinhalalk | 8,777
+adaderanasinhalalk | 8,779
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,549 (100.0%) of 50,556 articles have been extended.
+50,557 (100.0%) of 50,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
 
-### வத்தளையில் ஹெரோயினுடன் ஒருவர் கைது
+### හිටපු ජනපති මහින්ද භාරදුන් වාහන
+
+*2024-10-21 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202403) · `si`
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ භාවිතය ස﻿ඳහා ලබාදී තිබූ වාහන තුනක් නැවත භාරදී තිබේ.
+
+අප වාර්තාකරු පැවසුවේ, එම වාහන ජනාධිපති ලේකම් කාර්යාලයට ගෙනැවිත් භාර දී ඇති බවය.
+
+◼️
+
+[Data](articles/5afa129a.json)
+
+---
+
+### What happened to the building of the building that was hired by the Ministry of Agriculture?
+
+*2024-10-21 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202402) · `si`
+
+Ministry of Agriculture discovers irregularities in building acquisition. No bank guarantee obtained. Secretary comments on rice shortage, summons officers to set prices. Government intervention sought to stabilize markets and provide relief programs.
+
+🟩
+
+Land, Agriculture, Livestock, Irrigation and Aquatic Resources is conducting further irregularities in the past governments.. P. N. Says Mr. Wickremesinghe.
+
+Speaking to the media today (21), he had a revelation on the deposit of the building of the Ministry of Agriculture today.
+
+"The Ministry of Agriculture has now discovered some irregularities. The Ministry of Agriculture has taken a building recently. Generally obtains a bond from a bank. It's not taken. Currently the building has been handed over to them. But the deposit has not yet been obtained. "
+
+The secretary has commented on the shortage of nadu rice shorter.
+
+...
+
+[Data](articles/38760663.json)
+
+[Extended Data](ext_articles/38760663.ext.json)
+
+---
+
+### Arrested with heroin in Wattala
 
 *2024-10-21 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196777) · `ta`
 
-வத்தளை பொலிஸ் பிரிவுக்கு உட்பட்ட களுபாலத்திற்கு அருகில் ஹெரோயின் மற்றும் போதைப்பொருள் கடத்தல் மூலம் சம்பாதித்ததாக சந்தேகிக்கப்படும் பணத்துடன் சந்தேக நபரொருவர் பொலிஸ் விசேட அதிரடிப்படையினரால் நேற்று ஞாயிற்றுக்கிழமை (20) கைது செய்யப்பட்டுள்ளார்.
+Heroin arrest in Wattala: Suspect caught with 258g drugs and 3 million rupees.
 
-பொலிஸ் விசேட அதிரடிப்படையினருக்கு கிடைத்த தகவலின் பேரில் மேற்கொண்ட சுற்றிவளைப்பின் போதே சந்தேக நபர்  கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 258 கிராம் ஹெரோயின், போதைப்பொருள் கடத்தல் மூலம் சம்பாதித்ததாக சந்தேகிக்கப்படும் 3,069,890 ரூபா பணம் மற்றும் கார் என்பன கைப்பற்றப்பட்டுள்ளன.
+A suspect has been arrested by the Special Task Force on Sunday (20) with money suspected of earning heroin and drug trafficking near Kalupalam, which belongs to the Wattala Police Division.
+
+The suspect has been arrested during a roundup of information received by the Special Task Force.
+
+A total of 3,069,890 rupees and car suspected of earning 258 grams of heroin from the arrested suspect have been seized.
 
 ◼️
 
 [Data](articles/7d150522.json)
+
+[Extended Data](ext_articles/7d150522.ext.json)
 
 ---
 
@@ -130,17 +174,23 @@ Therefore, the President should apologize to the public for not using power prop
 
 ---
 
-### பண்டாரவளையில் வீதி தாழ் இறக்கம்
+### Downtime
 
 *2024-10-21 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/196764) · `ta`
 
-பண்டாரவளை பிதுனுவெவ -  திக்உல்பத கிரிஓருவ வீதி தாழ் இறங்கியதன் காரணமாக வீதியின் 25 மீற்றர் நிலப்பகுதி உடைந்து சேதமடைந்துள்ளதாக வீதி அபிவிருத்தி அதிகார சபையின் தியத்தலாவ பிரதேச பொறியியலாளர் ஜனக ரத்நாயக்க தெரிவித்தார்.
+Road damage reported on Bandarawewa-Thikulpatha Giriwaru route. Passenger buses affected between Bandarawela and Giriwa. Road Development Authority investigating.
 
-இந்த வீதியூடாக பண்டாரவளை பிதுனுவெவயிலிருந்து திக்உல்பத கிரிஓருவ வரை பயணிகள் போக்குவரத்து பஸ்கள் பயணிக்கின்றன.
+🟩
+
+Bandarawewa Bidunuwewa -Thikulpatha Giriwaru Road has been damaged by the road to the road and the road has been damaged and the road has been damaged and the road development authority of the Road Development Authority, Diyatalawa Divisional Engineer Janaka Ratnayake said.
+
+Through this road, passenger transport buses travel from Bandarawela to Giriwa.
 
 ◼️
 
 [Data](articles/c6a905a5.json)
+
+[Extended Data](ext_articles/c6a905a5.ext.json)
 
 ---
 
@@ -250,69 +300,111 @@ President’s Counsel Maithree Gunaratne, who is representing several suspects w
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-10-21 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196769) · `ta`
 
-இன்று  திங்கட்கிழமை (21) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 288.6142 ரூபாவாகவும், விற்பனை விலை 297.6054 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+US dollar exchange rate: 288.6142 rupees buying, 297.6054 selling. Released by Central Bank on Monday, March 21.
+
+🟩
+
+The US dollar purchasing price was 288.6142 rupees and the sales price were 297.6054 rupees based on a currency exchange rate released by the Central Bank on Monday (21).
 
 ◼️
 
 [Data](articles/88b5689e.json)
 
+[Extended Data](ext_articles/88b5689e.ext.json)
+
 ---
 
-### மாத்தறையில் ஒருவர் சுட்டுக் கொலை ;  இருவர் கைது
+### Shoot and murder in Matara;Two arrests
 
 *2024-10-21 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196755) · `ta`
 
-மாத்தறை, நாவிமன, ருவன்வெல்ல பிரதேசத்தில் நபர் ஒருவர் சுட்டுக் கொலை செய்யப்பட்ட சம்பவத்துடன் தொடர்புடைய இரண்டு சந்தேக நபர்கள் பொலிஸ் விசேட அதிரடிப்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+Matara shooting: Two suspects (26, 29) arrested by STF. Victim shot in three-wheeler on 15th. Suspects handed over to Matara Police Station for further investigation.
 
-கைது செய்யப்பட்டவர்கள் மாத்தறை கேகனதுர மற்றும் தோட்டமுன பிரதேசங்களைச் சேர்ந்த 26 ,29 வயதுடையவர்கள் ஆவர்.
+🟩
 
-மாத்தறை, நாவிமன, ருவன்வெல்ல பிரதேசத்திற்கு கடந்த 15ஆம் திகதி காரில் வந்த இனங்காணாத நபர்கள் சிலர் முச்சக்கரவண்டியில் இருந்த நபர் ஒருவரை துப்பாக்கியால் சுட்டுக் காலை செய்துவிட்டு அங்கிருந்த தப்பிச் சென்றிருந்தனர்.
+Two suspects have been arrested by the Special Task Force in connection with the shooting of a man in Ruwanwella area in Matara, Navimana and Matara.
 
-இதனையடுத்து பொலிஸாரால் மேற்கொள்ளப்பட்ட விசாரணையில், இந்த துப்பாக்கிச் சூட்டு சம்பவத்துடன் தொடர்புடைய பிரதான துப்பாக்கி தாரி மற்றும் காரை செலுத்திச் சென்ற நபர் ஆகியோர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+The arrested were 26 and 29 year olds from Matara and Kettamuna areas.
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் மேலதிக விசாரணைகளுக்காக மாத்தறை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+On the 15th of last month, some of the uninhabitable persons who had come to the Ruwanwella area in Matara, Navimana and Ruwanwella had fired a man in the three -wheeler.
+
+Investigations carried out by the police have been arrested by the police.
+
+The arrested suspects have been handed over to the Matara Police Station for further investigations.
 
 ◼️
 
 [Data](articles/96d2694c.json)
 
+[Extended Data](ext_articles/96d2694c.ext.json)
+
 ---
 
-### யாழ். தெல்லிப்பளையில் பற்றைக்காட்டில் சொகுசு கார் மீட்பு
+### Yall. Luxury car recovery at Tellippalai
 
 *2024-10-21 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/196773) · `ta`
 
-யாழ்ப்பாணம் தெல்லிப்பளை பகுதியில் பற்றைக்காடொன்றில் இருந்து சொகுசு கார் ஒன்று பொலிஸாரினால் மீட்கப்பட்டுள்ளது.
+Luxury car recovered in Jaffna: Police find fake plates and documents. Vehicle may be unrelated to criminal activity. Ongoing investigation.
 
-பற்றைக்காடு ஒன்றினுள் சொகுசு கார் ஒன்று மறைத்து வைக்கப்பட்டுள்ளதாக பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு சென்ற பொலிஸார் காரை மீட்டு பொலிஸ் நிலையம் கொண்டு சென்றுள்ளனர்.
+🟩
 
-பொலிஸ் நிலையத்தில் காரின் இலக்க தகட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த வேளை , அது போலியானது என தெரிய வந்துள்ளது. அத்துடன் காரில் இருந்த ஆவணங்களும் போலியானவை என்பது தெரிய வந்துள்ளது.
+A luxury car has been recovered by police from a barrier in Tellippalai area in Jaffna.
 
-குற்றச்செயல்களுடன் தொடர்புடைய காராக இருக்காமல் என பொலிஸார் சந்தேகிக்கின்றனர். கார் தொடர்பான மேலதிக விசாரணைகளை முன்னெடுத்துள்ளனர்.
+Based on the confidential information received by the police that a luxury car was hidden inside a paddy field, the police had rescued the car and took the car to the police station.
+
+According to the car's digit plate at the police station, it was revealed that it was fake. It has also been revealed that the documents in the car are fake.
+
+Police suspect that it is not a car associated with crime. Further investigations are being carried out by the car.
 
 ◼️
 
 [Data](articles/e1789933.json)
 
+[Extended Data](ext_articles/e1789933.ext.json)
+
 ---
 
-### தொழில்நுட்பக் கோளாறு ; கோட்டை -  மருதானை இடையே ரயில் சேவை தாமதம்
+### Technical disorder;Rail service delayed between Fort -Maradana
 
 *2024-10-21 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196772) · `ta`
 
-கோட்டை ரயில் நிலையத்தில் ஏற்பட்ட தொழில்நுட்ப கோளாறினால் கொழும்பு - கோட்டை மற்றும் மருதானை இடையிலான ரயில் சேவையில் தாமதம் ஏற்பட்டுள்ளதாக இலங்கை திணைக்களம் தெரிவித்துள்ளது.
+Train service delayed between Fort-Maradana due to technical issue at Fort Railway Station. All trains suspended until repairs complete.
 
-ரயில்வே சுவிட்சுகளில் ஏற்பட்டப தொழில்நுட்ப  கோளாறுகளினால் மருதானை நோக்கிச் செல்லும் அனைத்து ரயில்களும் இடைநிறுத்தப்பட்டுள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-தொழில்நுட்பக் கோளாறு சரிசெய்ய குழுக்கள் செயல்படுவதால் ரயில் சேவைகள் தாமதமாகும் என  தெரிவிக்கப்பட்டுள்ளது.
+The Sri Lanka Department said that a technical failure at the Fort Railway Station has delayed the train service between Colombo and Maradana.
+
+All trains heading towards Maradana have been suspended due to technical disorders in the railway switches, the department said.
+
+Rail services are expected to delay as groups are working to repair the technical disorder.
 
 ◼️
 
 [Data](articles/f5f9d884.json)
+
+[Extended Data](ext_articles/f5f9d884.ext.json)
+
+---
+
+### ගිනි අවි 50ක් ආපසු භාර දෙයි
+
+*2024-10-21 12:22:22* · [`adalk`](https://www.ada.lk/breaking_news/ගිනි-අවි-50ක්-ආපසු-භාර-දෙයි/11-412586) · `si`
+
+ජීවිත ආරක්ෂාව වෙනුවෙන් සිවිල් පුද්ගලයින්ට ලබා දී ඇති ගිනිඅවි සහ පතරොම් තාවකාලිකව රජයට ලබාදෙන ලෙස සිදුකළ දැනුම්දීමට අනුව  ගිනිඅවි 50කට අධික සංඛ්‍යාවක් යළි ලබා දී ඇති බව වාර්තා වෙයි.
+
+මෙම ගිනිඅවි පිළිබඳව සමාලෝචනයක් සිදුකිරීමෙන් පසු නැවත ලබා දීමට යටත්ව තාවකාලික පදනම මත මෙසේ ආපසු රජයට භාර දිය යුතු වෙයි.
+
+ඒ අනුව අදාළ ගිනිඅවි සහ පතරොම් නාවික හමුදාවේ වැලිසර පිහිටි රජයේ වාණිජ පුපුරණ ද්‍රව්‍ය ගබඩාව වෙත නොවැම්බර් මස 07වන දිනට පෙර භාර දෙන ලෙස සියලු බලපත්‍රලාභීන් වෙත ආරක්ෂක අමාත්‍යංශය දැනුම් දී තිබුණි.
+
+ආරක්ෂක අමාත්‍යංශය විසින් මේ වනවිට ගිනිඅවි බලපත්‍ර 1650ක් පමණ විවිධ හේතුන් මත නිකුත් කර ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/0b1f6811.json)
 
 ---
 
@@ -484,21 +576,27 @@ Two Easter reports were made public and published today.
 
 ---
 
-### சூரியவெவ பகுதியில் துப்பாக்கி தயாரிக்கும் தொழிற்சாலையை நடத்தி வந்த நபர் கைது !
+### A man arrested for running a gunfight in Surveva area
 
 *2024-10-21 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196763) · `ta`
 
-சூரியவெவ, வெவேகம பகுதியில்  மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது  துப்பாக்கி தயாரிக்கும் தொழிற்சாலையை நடத்தி வந்த நபரொருவர்  கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Man arrested for running illegal gun factory in Surveva, Vevegama. Police seized T-rifles, weapon parts. Suspect handed to Suryawewa police for investigation.
 
-அம்பாந்தோட்டை விசேட அதிரடிப்படையினரின் முகாம் அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று ஞாயிற்றுக்கிழமை (20) சுற்றிவளைப்பு மேற்கொள்ளப்பட்டுள்ளது.
+🟩
 
-உள்நாட்டில் உற்பத்தி செய்யப்பட்ட T ரக துப்பாக்கி,  துப்பாக்கி தயாரிக்க பயன்படுத்தப்படும் பாகங்கள் மற்றும் ஆயுதங்கள் என்பன  கைப்பற்றப்பட்டதாக  பொலிஸார் தெரிவித்தனர்.
+A man who operated a gunfight factory has been arrested during a roundabout carried out in Surveva, Vevegama area, police said.
 
-மேலும், சம்பவம் தொடர்பில் மேலதிக விசாரணைகளுக்காக சந்தேகநபர்  சூரியவெவ பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The raid was carried out yesterday (20) on the basis of information received by the officials of the Special Task Force (STF) in Hambantota.
+
+Police said the locally manufactured T -rifle, parts and weapons used to make a gun were seized.
+
+In addition, the suspect has been handed over to the Suryawewa police station for further investigations into the incident, police said.
 
 ◼️
 
 [Data](articles/ac66a5c5.json)
+
+[Extended Data](ext_articles/ac66a5c5.ext.json)
 
 ---
 
@@ -2265,63 +2363,5 @@ Similarly, Ukraine has released 95 Russian soldiers. Liberated warriors have ret
 [Data](articles/41a70a82.json)
 
 [Extended Data](ext_articles/41a70a82.ext.json)
-
----
-
-### Zellers reintroduces iconic chocolates with new flavours
-
-*2024-10-21 02:30:00* · [`dailyftlk`](https://www.ft.lk/business/Zellers-reintroduces-iconic-chocolates-with-new-flavours/34-768214) · `en`
-
-The new range of Zellers Chocolates unveiling by Maliban Group Chairperson/Managing Director A.G. Kumudika Fernando, CEO Ravi Jayawardene, Director A.G. Tharangitha Samaraweera, and Director A.G. Shanaka Wickramapala with Maliban Group officials at the event – Pic by Ruwan Walpola
-
-The return of Zellers Chocolates aims to reshape Sri Lanka’s premium chocolate market while reviving cherished memories from the past.
-
-Zellers stands as a pioneer in local craftsmanship and innovation, as fine chocolates have become a beloved indulgence and synonymous with amazing moments. Now, the brand aims to bring Sri Lankans world-class chocolates with a local twist, paying homage to the fond memories of time-honoured generations, while helping a whole new generation create their own.
-
-...
-
-[Data](articles/442d0e9d.json)
-
-[Extended Data](ext_articles/442d0e9d.ext.json)
-
----
-
-### Sri Lanka struggles with high poultry feed costs amid maize trade controls
-
-*2024-10-21 01:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-struggles-with-high-poultry-feed-costs-amid-maize-trade-controls-184263/) · `en`
-
-ECONOMYNEXT  – Sri Lanka is trying to find a solution to high costs of poultry feed amid import duties and trade controls for maize, which is keeping eggs and meat prices high, in a country which has high child malnutrition.
-
-To give unusually high profits to maize farmers and maize collectors, generally called the ‘maize mafia’, Sri Lanka has not only imposed 25 rupees a kilo import taxes (about 86 dollars a tonne), but also imposes quantity restrictions through a license raj.
-
-As a result, license holders can control prices even if imports are allowed.
-
-Sri Lanka recently issued licenses to import 300,000 tonnes of maize, as the Yala season harvests is usually low. Sri Lanka has also banned the use of rice for animal feed.
-
-“About 300,000 tonnes of imports were allowed, but it is on a quota system,” Minister Vijitha Herath said.
-
-“Many people are saying maize can be imported for about 110 rupees a kilo (about 376 dollars a tonne), but it is sold at about 160 rupees (about 547 dollars a tonne).
-
-...
-
-[Data](articles/4539cbf6.json)
-
-[Extended Data](ext_articles/4539cbf6.ext.json)
-
----
-
-### Rights of children with disabilities: Challenge for new President and incoming Government
-
-*2024-10-21 00:18:15* · [`dailyftlk`](https://www.ft.lk/columns/Rights-of-children-with-disabilities-Challenge-for-new-President-and-incoming-Government/4-768193) · `en`
-
-The main challenges for children living with disabilities in benefiting from education cited a lack of skilled teachers, a lack of appropriate infrastructure in schools, limited scope in curricula and the overall quality of education
-
-The current administrative arrangements do not seem to have brought the required equality and equity to children with disabilities and addressed the challenges faced by them although some headway has been made over time. A high-level State agency is needed for policy formulation, to coordinate implementation of policies and to monitoring progress
-
-...
-
-[Data](articles/86b8dfca.json)
-
-[Extended Data](ext_articles/86b8dfca.ext.json)
 
 ---

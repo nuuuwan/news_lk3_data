@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 18:20:44**
+As of **2024-10-21 18:36:07**
 
 ## Newspaper Stats
 
-*Scraped **50,588** Articles*
+*Scraped **50,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ bbccomsinhala | 508
 islandlk | 3,011
 economynextcom | 3,091
 dailyftlk | 3,446
-adalk | 4,696
+adalk | 4,698
 dailymirrorlk | 4,733
-adaderanalk | 5,993
+adaderanalk | 5,994
 tamilmirrorlk | 6,936
 virakesarilk | 8,111
-adaderanasinhalalk | 8,784
+adaderanasinhalalk | 8,785
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,588 (100.0%) of 50,588 articles have been extended.
+50,592 (100.0%) of 50,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Notice of 18 persons against Wasantha Mudali
+
+*2024-10-21 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202409) · `si`
+
+Inter University Students Federation of the Inter University Students Federation (Inter University Students) for the suspects were a manner in the past struggle, police today (21)) The Colombo Magistrate informed the Magistrate.
+
+The complaint was called before Colombo Major Magistrate Thilina Gamage, and the suspects including Wasantha Mudali appeared in court.
+
+The Cinnamon Gardens Police stated that investigations into the incident have been referred to the Attorney General's Department for consulting files.
+
+The police also informed the proceedings of the legal action after the Attorney General's advice.
+
+The Court sentenceded the complaint on February 10.
+
+◼️
+
+[Data](articles/48d0a788.json)
+
+[Extended Data](ext_articles/48d0a788.ext.json)
+
+---
+
+### Pharaoh eradicates Egypt after 100 years of attempts
+
+*2024-10-21 17:52:09* · [`adalk`](https://www.ada.lk/breaking_news/පාරාවොන්ටත්-වැළඳුනු-රෝගය-වසර-100ක-උත්සාහයෙන්-පසු-ඊජිප්තුව-තුරන්-කරයි/11-412593) · `si`
+
+The World Health Organization has announced that Egypt was eradicated after 100 years.
+
+Maleria is as old as Egyptian civilization, and Pharaohs say they have suffered from preventing the disease.
+
+◼️
+
+[Data](articles/32347b36.json)
+
+[Extended Data](ext_articles/32347b36.ext.json)
+
+---
+
+### Rabbada is 300 taiuge 200
+
+*2024-10-21 17:39:13* · [`adalk`](https://www.ada.lk/sports/රබාඩා-300-කඩද්දි-ටයිජුල්-200-කඩයි/9-412592) · `si`
+
+The first day of the first Test match between the tourist South African and the Bangladesh team, the match was completed today (21).
+
+At the end of the day, South African group scored 140 runs for the loss of 6 wickets at the end of 41 overs.
+
+The Bangladesh team scored 106 runs for the loss of all bowled out.
+
+The South African team is 34 runs more than 34 runs.
+
+South Africa fast bowlers of the South African fast bowlers were able to secure their 300th Taijul Islam.
+
+◼️
+
+[Data](articles/cbaa20be.json)
+
+[Extended Data](ext_articles/cbaa20be.ext.json)
+
+---
 
 ### Sri Lanka’s rough rice forecast hiked to 2.02mn tonnes for 2024 Yala season
 
@@ -55,6 +115,26 @@ Due to years of protection, Sri Lanka’s rice is usually not export grade and t
 [Data](articles/3ab138e7.json)
 
 [Extended Data](ext_articles/3ab138e7.ext.json)
+
+---
+
+### Gammanpila makes shocking claims regarding unreleased Easter attack reports
+
+*2024-10-21 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102835/gammanpila-makes-shocking-claims-regarding-unreleased-easter-attack-reports) · `en`
+
+Pivithuru Hela Urumaya (PHU) leader and former MP Udaya Gammanpila says that former Senior DIG Ravi Seneviratne, who has been named as a main accused in an investigative committee reports on the Easter Sunday attacks, should be immediately removed from the post of Secretary to the Ministry of Public Security.
+
+He made these comments at a press conference held in Colombo this morning (21), for the alleged publicizing of two previously unreleased reports regarding the Easter Sunday terror attacks.
+
+Gammanpila had yesterday stated that he would give President Anura Kumara Dissanayake time until 10.00 a.m. this morning (21) to make public the two investigative reports in question and vowed to release them himself if the President fails to do so.
+
+Accordingly, speaking at a press conference today after the said deadline had ended, he emphasized that one of the two reports will be publicized today whereas the remaining report will be released to the public next Monday.
+
+...
+
+[Data](articles/534fba78.json)
+
+[Extended Data](ext_articles/534fba78.ext.json)
 
 ---
 
@@ -2249,101 +2329,5 @@ Somatha Somaratne said that the modernization of the modernization of the lack o
 [Data](articles/5346a360.json)
 
 [Extended Data](ext_articles/5346a360.ext.json)
-
----
-
-### Recovery of two more vehicles from Kandy
-
-*2024-10-21 08:18:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியிலிருந்து-மேலும்-இரண்டு-வாகனங்கள்-மீட்பு/76-345751) · `ta`
-
-Kandy CID seizes BMW, Brado jeep worth Rs 6 crore from former port minister's home. Vehicles suspected of illegal export, to be handed over to government inspector.
-
-🟩
-
-The Kandy Criminal Investigation Department (Kandy) has seized a BMW car and a Brado jeep worth about Rs 6 crore, hidden at the home of a former port minister in Anivatta, Kandy.
-
-According to information received by Senior Superintendent of Police Anurutha Bandaranaike, Kandy, a group of Criminal Investigations led by Chief Inspector Tilak Samaranayake has arrested two vehicles that were secretly hidden in the garage of the house in Anivatta.
-
-Two cars have been confiscated as no one in the house can legally claim for these two cars.
-
-Former Minister Rohitha Abeygunawardena, who is running a traffic shop in Mahiyava area in Kandy, has held a high position in the port authority during his tenure as the Port Minister.
-
-The two cars suspected of being illegally exported from the port and the cars will be handed over to the Government Inspector.
-
-◼️
-
-[Data](articles/c9ee4945.json)
-
-[Extended Data](ext_articles/c9ee4945.ext.json)
-
----
-
-### New President Subianto announces Indonesia’s largest-ever Cabinet, with 109 members
-
-*2024-10-21 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102820/new-president-subianto-announces-indonesias-largest-ever-cabinet-with-109-members) · `en`
-
-Newly inaugurated President Prabowo Subianto announced Indonesia’s largest-ever Cabinet late Sunday, with 109 members representing his pledge for a strong government.
-
-He named his Cabinet of ministers, vice ministers and head of national agencies the “Red and White Cabinet,” referring to the colors of Indonesia’s flag.
-
-Subianto became the eighth president of Southeast Asia’s largest economy on Sunday.
-
-The Cabinet of Subianto’s predecessor, Joko Widodo, had 34 ministers and head of government agencies.
-
-Subianto has said earlier that he needs a strong administration, even though analysts said that his “fat” Cabinet would bloat the bureaucracy.
-
-“I want to create a strong government that would unite our multicultural society and diverse political interests,” Subianto said before inviting more than 100 people for interviews at his residence last week. “It must be a big coalition, and some will say my Cabinet is fat.”
-
-...
-
-[Data](articles/039b8177.json)
-
-[Extended Data](ext_articles/039b8177.ext.json)
-
----
-
-### Shooting in Canada: Jaffna. Family member
-
-*2024-10-21 07:59:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடாவில்-துப்பாக்கிச்சூடு-யாழ்-குடும்பஸ்தர்-பலி/175-345750) · `ta`
-
-Jaffna youth killed in Canada shooting. Panchalingam Parthiban, 44, shot at home in Markham, Ontario. Incident occurred early morning. Victim died from injuries.
-
-🟩
-
-A Jaffna young man died on the spot during the shooting incident in Canada.
-
-Panchalingam Parthiban (age-44), a resident of Markam, Ontario and Canada, was trapped in the shooting incident.
-
-The shooting was carried out by unidentified persons in the early hours of this morning at his doorstep in Markham, Ontario, Canada.
-
-During this time, the person was struggling for life with serious injuries. He was reportedly dead when he arrived at the scene.
-
-◼️
-
-[Data](articles/900b70a7.json)
-
-[Extended Data](ext_articles/900b70a7.ext.json)
-
----
-
-### Heavy rain today
-
-*2024-10-21 07:55:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பலத்த-மழை/175-345749) · `ta`
-
-Heavy rain expected across southern regions today, with over 100mm predicted in some areas. Thunderstorms forecasted for western, central, and northern districts.
-
-🟩
-
-The Department of Meteorology has forecast rainfall in many parts of the country today.
-
-According to the weather forecast, the department has announced that more than 100 mm will be reported in some parts of the Southern Province.
-
-Accordingly, the Department of Meteorology has forecast rain or thunderstorms in the Western, Sabaragamuwa, South, North Western and Trincomalee District.. (A)
-
-◼️
-
-[Data](articles/c124caf8.json)
-
-[Extended Data](ext_articles/c124caf8.ext.json)
 
 ---

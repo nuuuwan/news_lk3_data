@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 00:25:18**
+As of **2024-10-22 01:08:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,632 (100.0%) of 50,639 articles have been extended.
+50,639 (100.0%) of 50,639 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ As part of its transformation journey, an industry veteran, Bannet Gamalath, joi
 
 [Data](articles/340890af.json)
 
+[Extended Data](ext_articles/340890af.ext.json)
+
 ---
 
 ### First-ever Sri Lanka Property Investment Forum in Australia on Friday by Home Lands
@@ -63,6 +65,8 @@ The forum, to be held at Springvale City Hall in Melbourne on 25 October, is an 
 ...
 
 [Data](articles/88033763.json)
+
+[Extended Data](ext_articles/88033763.ext.json)
 
 ---
 
@@ -102,6 +106,8 @@ In 2023, Sri Lanka’s goods and services exports made up nearly 20.4% of GDP, w
 
 [Data](articles/340d8d0f.json)
 
+[Extended Data](ext_articles/340d8d0f.ext.json)
+
 ---
 
 ### Driving global change: GSCS International and JAAF lead the way in sustainable development
@@ -120,6 +126,8 @@ The first keynote address was delivered by University of Moratuwa Department of 
 
 [Data](articles/2f03cccf.json)
 
+[Extended Data](ext_articles/2f03cccf.ext.json)
+
 ---
 
 ### Continuing the business of government in between regime or leadership change
@@ -136,6 +144,8 @@ The State apparatus consists of the executive, ministries, departments and publi
 
 [Data](articles/ef2cd7ab.json)
 
+[Extended Data](ext_articles/ef2cd7ab.ext.json)
+
 ---
 
 ### Should Sri Lanka allow politicians to play the pork barrel game in the future?
@@ -151,6 +161,8 @@ In the 19th century, barrels filled with salted pork were considered a significa
 ...
 
 [Data](articles/1f7b021c.json)
+
+[Extended Data](ext_articles/1f7b021c.ext.json)
 
 ---
 
@@ -169,6 +181,8 @@ In 2005, Sri Lanka introduced the Budgetary Relief Allowance of Workers Act, No.
 ...
 
 [Data](articles/d5f07d5f.json)
+
+[Extended Data](ext_articles/d5f07d5f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 06:11:02**
+As of **2024-10-21 06:44:55**
 
 ## Newspaper Stats
 
-*Scraped **50,464** Articles*
+*Scraped **50,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 408
 bbccomsinhala | 505
 colombotelegraphcom | 507
-islandlk | 2,998
+islandlk | 3,006
 economynextcom | 3,084
 dailyftlk | 3,446
 adalk | 4,681
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,464 (100.0%) of 50,464 articles have been extended.
+50,471 (100.0%) of 50,472 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,6 +76,40 @@ Former Samagi Jana Balawegaya (SJB) MP Imthiaz Bakeer Markar expressed deep conc
 
 ---
 
+### Seylan Cards and Hayleys Travels present return air tickets to final winners of swipe and win draw
+
+*2024-10-21 02:57:00* · [`islandlk`](http://island.lk/seylan-cards-and-hayleys-travels-present-return-air-tickets-to-final-winners-of-swipe-and-win-draw/) · `en`
+
+As a result of the exciting partnership between Seylan Cards and Hayleys Travels, Menaka Silva and Madavi Padmakumara emerged as the lucky winners of two return air tickets to Singapore from the May and June draws respectively. Taking place at Seylan Towers amidst officials from both institutions, this concluded the Swipe & Win Promotion 2024. A total of 6 return tickets to Singapore were won by 3 lucky card holders throughout the duration of the Promo.
+
+DIMO and SDF boost farmers’ access to modern agriculture machinery
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/43ccfa25.json)
+
+[Extended Data](ext_articles/43ccfa25.ext.json)
+
+---
+
+### Home Lands Group to present first-ever Sri Lanka Property Investment Forum in Australia
+
+*2024-10-21 02:56:00* · [`islandlk`](http://island.lk/home-lands-group-to-present-first-ever-sri-lanka-property-investment-forum-in-australia/) · `en`
+
+Home Lands Group of Companies, is set to make history by becoming the first Sri Lankan developer to conduct a Property Investment Forum in Australia to create interest in residential investment options in Sri Lanka.
+
+...
+
+[Data](articles/fbb759ff.json)
+
+[Extended Data](ext_articles/fbb759ff.ext.json)
+
+---
+
 ### Gammanpila reminds President of deadline to release Easter attack reports
 
 *2024-10-21 02:55:30* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-reminds-President-of-deadline-to-release-Easter-attack-reports/56-768221) · `en`
@@ -97,6 +131,60 @@ Speaking at a press briefing yesterday, Gammanpila reminded Dissanayake that the
 [Data](articles/0077eb6d.json)
 
 [Extended Data](ext_articles/0077eb6d.ext.json)
+
+---
+
+### PR Wire enters policy advisory landscape with LexAG Collaboration
+
+*2024-10-21 02:55:00* · [`islandlk`](http://island.lk/pr-wire-enters-policy-advisory-landscape-with-lexag-collaboration/) · `en`
+
+PR Wire Sri Lanka (PRW), a member of the Wire Communication Consultancy Holdings Group (WCCG), announced a strategic partnership with LexAG – Legal Consultants, a renowned legal consultancy firm based in Colombo, Sri Lanka, further enhancing its service portfolio into policy advisory services. This collaboration represents a significant milestone for PR Wire as it expands its service offerings into the policy and advisory domain, enabling its clients to effectively navigate the complexities of the legal, economic, and political landscape.
+
+...
+
+[Data](articles/98d3b8d5.json)
+
+[Extended Data](ext_articles/98d3b8d5.ext.json)
+
+---
+
+### Chairman Urban Settlement Development Authority assumes duties
+
+*2024-10-21 02:54:00* · [`islandlk`](http://island.lk/chairman-urban-settlement-development-authority-assumes-duties/) · `en`
+
+Asanka Abeywardene who has been appointed as the new Chairman of Urban Settlement Development Authority (USDA) assumed duties recently.
+
+Abeywardene obtained his letter of appointment from the Personal Secretary to Minister of Rural and Urban Development, Housing and Urban Settlement Vijitha Hearth.
+
+Abeywardene was one time District Secretary of Trincomalee, and Deputy District Secretary of Ampara.    Director General Urban Settlement Development Authority Vijayananda Herath and other senior officials of the institution participated in the ceremony.
+
+Ranil urges voters to elect MPs with experience to handle ongoing economic crisis
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/2661896e.json)
+
+[Extended Data](ext_articles/2661896e.ext.json)
+
+---
+
+### Zellers reintroduces chocolates with new flavours
+
+*2024-10-21 02:54:00* · [`islandlk`](http://island.lk/zellers-reintroduces-chocolates-with-new-flavours/) · `en`
+
+The return of Zellers Chocolates aims to reshape Sri Lanka’s premium chocolate market while reviving cherished memories from the past. Zellers stands as a pioneer in local craftsmanship and innovation, as fine chocolates have become a beloved indulgence and synonymous with amazing moments. Now, the brand aims to bring Sri Lankans world-class chocolates with a local twist, paying homage to the fond memories of time-honoured generations, while helping a whole new generation create their own.
+
+As Sri Lanka’s first homegrown chocolate manufacturer, founded in 1964 by A.G. Hinniappuhami – the visionary Founding Chairman of Maliban – Zellers has a special place in the hearts of Sri Lankans. Known for its use of premium cocoa and its commitment to the ‘bean-to-bar’ concept, Zellers created chocolates that were not only rich in flavour but also in heritage, and it is this very tradition that the brand aims to revive with a range of new offerings.
+
+...
+
+[Data](articles/396dad3f.json)
+
+[Extended Data](ext_articles/396dad3f.ext.json)
 
 ---
 
@@ -191,6 +279,46 @@ This invoice of tea was purchased by M/S Shan Teas Ltd., and the sale was conduc
 [Data](articles/f40ee61e.json)
 
 [Extended Data](ext_articles/f40ee61e.ext.json)
+
+---
+
+### Ranil urges voters to elect MPs with experience to handle ongoing economic crisis
+
+*2024-10-21 02:34:00* · [`islandlk`](http://island.lk/ranil-urges-voters-to-elect-mps-with-experience-to-handle-ongoing-economic-crisis/) · `en`
+
+Former president and Leader of the United National Party Ranil Wickremesinghe last week urged voters to elect candidates with proven experience in managing economic crisis, at the upcoming general election.
+
+With Sri Lanka facing ongoing financial challenges, Wickremesinghe emphasised the need for seasoned leadership to guide the country forward.
+
+Making a special yet brief statement, he highlighted the importance of electing leaders who understand the intricacies of economic recovery.
+
+“In these difficult times, it is vital that we have leaders in parliament who know how to handle an economic crisis”, he stated.
+
+Wickremesinghe urged voters across party-lines to support candidates who worked alongside him in the past two years as they played a key role in the recovery process and have the necessary experience.
+
+...
+
+[Data](articles/aa697614.json)
+
+[Extended Data](ext_articles/aa697614.ext.json)
+
+---
+
+### Nawaloka Hospitals PLC records profit growth in 2023/24
+
+*2024-10-21 02:32:00* · [`islandlk`](http://island.lk/nawaloka-hospitals-plc-records-profit-growth-in-2023-24/) · `en`
+
+Nawaloka Hospitals PLC, South Asia’s pioneer in AI-driven healthcare, achieved remarkable financial success for the fiscal year ending March 31, 2024.
+
+The Group’s revenue surged to Rs. 10 billion, reflecting a Year-on-Year (YoY) growth of 11.54%. The hospital’s Profit Before Tax (PBT) reached Rs. 576.2 million, marking an impressive 178.61% increase compared to the previous year. This growth, despite economic challenges, underscores Nawaloka’s operational resilience and its dedication to delivering cutting-edge healthcare.
+
+Operating profits for the Group saw a significant turnaround, climbing from a loss of Rs. 73.4 million in 2023 to Rs. 1.02 billion in 2024. The Company’s operating profits grew by 158.28%, reaching Rs. 1.32 billion. Additionally, Nawaloka Hospitals’ Earnings Per Share (EPS) rose from a negative -0.46 to a positive 0.41, further solidifying the hospital’s financial recovery and enhancing shareholder value.
+
+...
+
+[Data](articles/4a0e39b4.json)
+
+[Extended Data](ext_articles/4a0e39b4.ext.json)
 
 ---
 
@@ -2157,169 +2285,5 @@ The match will be held at Pallekele International Cricket Stadium in Kandy today
 [Data](articles/f2c52019.json)
 
 [Extended Data](ext_articles/f2c52019.ext.json)
-
----
-
-### Why not sign a strict letter?
-
-*2024-10-20 11:25:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டிப்புக்-கடிதத்தில்-கையெழுத்திடாதது-ஏன்/175-345713) · `ta`
-
-Sri Lanka refuses to sign joint letter condemning Israel's UN ban. This goes against the country's history of supporting peace and justice globally. It raises questions about Sri Lanka's stance on international issues and its commitment to diplomacy.
-
-🟩
-
-Mr. Imtiyas Pakir Markar's report on Sri Lanka's decision not to sign a joint letter condemning Israel's ban on UN Secretary -General
-
-Sri Lanka has a long and proud history of supporting multi -faceted, peace and justice in the global arena. Our country continues to support international efforts to resolve conflict and uphold the rights of the oppressed, including our firm support for Palestine in the United Nations.
-
-It is very worrying that Sri Lanka has decided not to sign a joint letter issued by 105 countries, denouncing Israel's ban on entering the country.
-
-The letter, especially in the ongoing Middle East crisis, reiterates the essential role of the United Nations in mediation and humanitarian assistance.. The refusal to join this joint call for justice and peace indicates a significant deviation from our concrete diplomatic traditions.
-
-...
-
-[Data](articles/9de22f6c.json)
-
-[Extended Data](ext_articles/9de22f6c.ext.json)
-
----
-
-### Gammanpila's challenge again
-
-*2024-10-20 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202365) · `si`
-
-Udaya Gammanpila challenges President over delayed release of student reports related to Easter attacks. Threatens impeachment if reports aren't published under Section 38 of the Constitution. Deadline set for tomorrow morning.
-
-🟩
-
-Former Parliamentarian Udaya Gammanpila says that the time given to the President to publish the two students who were not promoting the two students who were not promoting the two students regarding the terrorist attack.
-
-"The time I had given the President to publish the two reports of the Passover attack will be completed tomorrow morning. Then you have the risk of risk to the president in the morning to publish these reports to be published in the Constitution and avoid the risk of bringing an impeachment motion against him. However, if the president will defart the issue of Section 38 of the Constitution, I will definitely submit these reports. "
-
-◼️
-
-[Data](articles/2c7f617e.json)
-
-[Extended Data](ext_articles/2c7f617e.ext.json)
-
----
-
-### “400 files will be opened for legal action”
-
-*2024-10-20 11:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/400-கோப்புகள்-சட்ட-நடவடிக்கைக்காக-திறக்கப்படும்/175-345712) · `ta`
-
-"400 corruption/fraud cases to be prosecuted: President Anura Kumara Dissanayake announces legal action against 400 files involving corruption and fraud during election rally."
-
-🟩
-
-President Anura Kumara Dissanayake said that 400 files related to corruption and fraud have to be with the Attorney General and all of them will be opened for legal action.
-
-The President made this statement while addressing the election rally in support of his party in Tangalle.
-
-He added that the government will never be tired of taking these measures legally and formally.
-
-◼️
-
-[Data](articles/1e07b99f.json)
-
-[Extended Data](ext_articles/1e07b99f.ext.json)
-
----
-
-### “400 files will be opened for legal action”
-
-*2024-10-20 11:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்ட-நடவடிக்கைக்காக-400-கோப்புகள்-திறக்கப்படும்/175-345712) · `ta`
-
-"400 corruption cases to be pursued legally: President Dissanayake announces at election rally."
-
-🟩
-
-President Anura Kumara Dissanayake said that 400 files related to corruption and fraud have to be with the Attorney General and all of them will be opened for legal action.
-
-The President made this statement while addressing the election rally in support of his party in Tangalle.
-
-He added that the government will never be tired of taking these measures legally and formally.
-
-◼️
-
-[Data](articles/c677296b.json)
-
-[Extended Data](ext_articles/c677296b.ext.json)
-
----
-
-### Anura denied Ranil's request
-
-*2024-10-20 11:11:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-கோரிக்கையை-மறுத்தார்-அநுர/175-345711) · `ta`
-
-President Anura Kumara Dissanayake rejects Ranil Wickremesinghe's requests: denies 163 cooks, 163 security personnel, 30 umbrellas, over 20 vehicles. Offers only 3 vehicles as per current regulations. Introduces new law against former presidents using public funds. Recovered two patients' cars from Wickremesinghe and Mahinda Rajapaksa's homes, stating these facilities are not personal property.
-
-🟩
-
-President Anura Kumara Dissanayake has said that he has rejected comprehensive concessions including former President Ranil Wickremesinghe, 163 cooks, 163 security personnel, 30 umbrellas and more than 20 vehicles.
-
-The president said in a general rally that Wickremesinghe will be given only three vehicles in accordance with the current government regulations.
-
-He added that the government would introduce a new law to prevent former presidents from supporting public funds.
-
-In addition, Dissanayake, who has recovered two patients' cars at the homes of Wickremesinghe and former President Mahinda Rajapaksa, stressed that these facilities should not be considered a personal property.
-
-◼️
-
-[Data](articles/24ce1893.json)
-
-[Extended Data](ext_articles/24ce1893.ext.json)
-
----
-
-### The little election can be held between 40 to 40 days
-
-*2024-10-20 11:08:56* · [`adalk`](https://www.ada.lk/breaking_news/පුංචි-ඡන්දය-දින-35ක්-40ක්-අතර-පැවැත්විය-හැකියි/11-412567) · `si`
-
-Local government elections can be held within 40-40 days after parliamentary polls. Election Commissioner Saman Sri Ratnayake stated that the commission will adhere to existing laws regarding nominations and campaign regulations. The president's order prioritizes holding local government elections alongside the presidential election, ensuring a smooth transition.
-
-🟩
-
-Celebration of some of the nominations of the nominations for the local government election and the election commission is applicable to a number of election platforms, according to the nominations of the existing law.Elections Commissioner General Saman Sri Ratnayake said.
-
-The Commissioner General of Elections was attended by the Introduction of Intenives to educate journalists on election reporting.
-
-The local government elections may be a good question on the political culture of the country and there are any problems with the local government pollution.
-
-He said that the Commission would act in accordance with the existing law, according to the law that the Commission is not interrupted by the law, such as a person who gave a nomination person in the event.
-
-.
-
-...
-
-[Data](articles/55b53f1c.json)
-
-[Extended Data](ext_articles/55b53f1c.ext.json)
-
----
-
-### Fire extinguishes in the official residence of the MP
-
-*2024-10-20 10:56:53* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-නිල-නිවසේ-ඇතිවූ-ගින්න-නිවා-දමයි/11-412566) · `si`
-
-Fire breaks out in MP Namal Rajapaksa's official residence in Colombo 7. Two-story building damaged. Power disconnected since August. Firefighters respond. Investigation ongoing.
-
-🟩
-
-Kurunduruwatta Police say that the sudden fire in a state of government MP, Colombo 7, Colombo.
-
-The two-storey official residence has been resident of MP Namal Rajapaksa over eight months ago and the power was disconnected.
-
-Police investigations have occurred when the government's quarters were reserved by the Ceylon Electricity Corporation from the Ceylon Electricity to the Ceylon Electricity (19th) while the repair of the Government of Sri Lanka had been rested.Has been detected.
-
-Two fire extinguishers of the Colombo Municipal Council had taken measures to be fully escalated and controlled by the Colombo Municipal Council.
-
-Police said that the interior of the air conditioner was completely destroyed by fire
-
-◼️
-
-[Data](articles/8030db25.json)
-
-[Extended Data](ext_articles/8030db25.ext.json)
 
 ---

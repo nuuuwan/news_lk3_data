@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 16:24:43**
+As of **2024-10-21 16:39:25**
 
 ## Newspaper Stats
 
-*Scraped **50,568** Articles*
+*Scraped **50,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 3,087
 dailyftlk | 3,446
 adalk | 4,692
 dailymirrorlk | 4,733
-adaderanalk | 5,990
-tamilmirrorlk | 6,931
+adaderanalk | 5,991
+tamilmirrorlk | 6,932
 virakesarilk | 8,111
-adaderanasinhalalk | 8,781
+adaderanasinhalalk | 8,782
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,563 (100.0%) of 50,568 articles have been extended.
+50,569 (100.0%) of 50,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### King Charles heckled by Indigenous lawmaker at Australian parliament
+
+*2024-10-21 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102833/king-charles-heckled-by-indigenous-lawmaker-at-australian-parliament) · `en`
+
+King Charles was accused of “genocide” by an Indigenous senator at Australia’s Parliament House on Monday, moments after he delivered a speech in which he paid his “respects to the traditional owners of the lands”.
+
+Charles, on his 16th official visit to Australia and his first major foreign trip since being diagnosed with cancer, had finished speaking when independent senator and Indigenous activist Lidia Thorpe shouted that she did not accept Charles’ sovereignty over Australia.
+
+“You committed genocide against our people,” she said. “Give us our land back. Give us what you stole from us - our bones, our skulls, our babies, our people. You destroyed our land. Give us a treaty. We want treaty.”
+
+Thorpe, who has disrupted previous events protesting over the colonisation of Australia, was stopped from approaching the king, who spoke quietly to Prime Minister Anthony Albanese on the podium but was otherwise unfazed. Thorpe was then escorted out of the chamber.
+
+...
+
+[Data](articles/a27b3b24.json)
+
+[Extended Data](ext_articles/a27b3b24.ext.json)
+
+---
+
+### Petition to court demanding a ruling that the election is contrary to the constitution
+
+*2024-10-21 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202406) · `si`
+
+The decision to be held on November 14rd, a petition has been filed in the Supreme Court to hold a decision that is contrary to the Constitution.
+
+Convener of the Sri Lanka National Organization of the Sri Lanka National Organization as well as a civil organization activist. M. Priyantha Herath has presented the petition.
+
+The Attorney General and the Presidential Secretary and the Attorney General of the Elections Commission have been named as the respondents.
+
+The petitioner claims that the calling for nomination of the Parliamentary Election Act to the 4th of October to October 11.
+
+The petition points out that the date of nomination should be paid for five weeks and not more than five weeks and not more than five weeks since the end of the election.
+
+The five-week period will be completed on November 11 since the end of the nomination scheme.
+
+...
+
+[Data](articles/eee57e90.json)
+
+[Extended Data](ext_articles/eee57e90.ext.json)
+
+---
 
 ### Sri Lanka’s inflation drops to -0.2% in September
 
@@ -50,21 +94,45 @@ The overall rate of inflation as measured by the NCPI on a Year-over Year basis 
 
 [Data](articles/7eefa2ba.json)
 
+[Extended Data](ext_articles/7eefa2ba.ext.json)
+
 ---
 
-### උද්ධමනය ඍණ වෙයි
+### Inflation is negative
 
 *2024-10-21 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202405) · `si`
 
-ජාතික පාරිභෝගික මිල දර්ශකය මත පදනම් වූ මෙරට වාර්ෂික උද්ධමනය 2024 සැප්තැම්බර් මාසයේදී -0.2% දක්වා අඩු වී ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
+The annual inflation in Sri Lanka, based on the National Customer Price Index, has reduced to-10.2% in September 2024, the Department of Census and Statistics.
 
-2024 අගෝස්තු මාසයේ දී 2.3% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 සැප්තැම්බර් මාසයේ දී  0.5%ක් දක්වා අඩු වී ඇත.
+In August 2024, the point inflation of the food category of food was up to 0.5% in September 2024.
 
-එමෙන්ම, 2024 අගෝස්තු මාසයේ දී 0.2% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 සැප්තැම්බර් මාසයේ දී -0.7% ක් දක්වා අඩු වී ඇත.
+In August 2024, 0.2% of food inflation increased to-1.7% in September 2024.
 
 ◼️
 
 [Data](articles/8c211b25.json)
+
+[Extended Data](ext_articles/8c211b25.ext.json)
+
+---
+
+### India - Pakistan marriage ended on the Internet
+
+*2024-10-21 15:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-பாகிஸ்தான்-திருமணம்-இணையத்தில்-முடிந்தது/175-345783) · `ta`
+
+India's son of Bharatiya Janata Party (BJP) and young woman from Pakistan's Lahore. The reason for this is that the bride and his family have not received a visa to see the bride.
+
+The bridegroom without a visa, Abbas Haider, his father Dasheen Shaheeb. A few days ago, Abbas Haider, Dasin Shaheeb and family applied for a visa to go to Pakistan for wedding. But the Pakistani government did not issue a visa as the wedding day approached.
+
+The visa crisis was shocked by the visa crisis for the bride of Anthleep Sahara and her mother Rana Yasmeen, who is being treated at the intensive care unit at the hospital in Lahore, who is sick.
+
+Accordingly, the bridegroom and his family members joined Johnpur in Uttar Pradesh, India and completed the wedding ceremonies.
+
+◼️
+
+[Data](articles/d0468591.json)
+
+[Extended Data](ext_articles/d0468591.ext.json)
 
 ---
 
@@ -81,6 +149,8 @@ At the end of the (London security) course, High Commissioner Tilak Gooneratne, 
 ...
 
 [Data](articles/263f1000.json)
+
+[Extended Data](ext_articles/263f1000.ext.json)
 
 ---
 
@@ -101,6 +171,38 @@ Economists agree that during the last four years, the economy has performed rema
 ...
 
 [Data](articles/cfe8d75d.json)
+
+---
+
+### Kumar David: An Accomplished Academic and a Broadminded Marxist
+
+*2024-10-21 15:21:00* · [`islandlk`](http://island.lk/kumar-david-an-accomplished-academic-and-a-broadminded-marxist/) · `en`
+
+One by one the lights go out. In a span of seven months, Sri Lanka’s Engineering fraternity and the country’s progressive political fraternity have lost three of their kind, one after another. Chris Rodrigo was the first to go in March, then it was Bahu in July, and now it is Kumar David, the oldest of the three. Professor Kumar David passed away in Los Angeles, on Monday, October 14. He was 83 years old.
+
+He had been in declining health for some time after a cataract surgery that did not go as smoothly as such surgeries do. But on his annual visit to Sri Lanka earlier in May, he seemed to be in good spirits, and he was closely following from LA the results of the September presidential election in Sri Lanka. He was obviously pleased with the results and would have been hoping to see their consolidation in November. That was not to be. His was a long life, well lived, yet the end came too suddenly and too painfully for many of us.
+
+...
+
+[Data](articles/fe4fe930.json)
+
+[Extended Data](ext_articles/fe4fe930.ext.json)
+
+---
+
+### The recent IMF visit and the new ‘economic team’
+
+*2024-10-21 15:15:00* · [`islandlk`](http://island.lk/the-recent-imf-visit-and-the-new-economic-team/) · `en`
+
+A new economic team, representing SL has gone into a meeting with the IMF. A President Media Division release dated October 2, 2024, says that the IMF visit was to hold discussions on the progress of the IMF programme and the release of the fourth tranche and that the following “economic team” has been appointed by the new government for discussions with the IMF.
+
+This is the team –Anil Jayantha, Chair of the NPP Economic Policy Council & Senior Advisor to the President on Economic Affairs & Finance, Duminda Hulangamuwa, Senior Advisor to the President, Sunil Handunnetti, JVP Politician, Seetha Bandara Ranathunga, Sunil Gamage, Nandasiri Keembiyahetti, O. G. Dayaratne Banda and Amarasena Athukorala.
+
+...
+
+[Data](articles/1f28396f.json)
+
+[Extended Data](ext_articles/1f28396f.ext.json)
 
 ---
 
@@ -2273,103 +2375,5 @@ Home Lands Group of Companies, is set to make history by becoming the first Sri 
 [Data](articles/fbb759ff.json)
 
 [Extended Data](ext_articles/fbb759ff.ext.json)
-
----
-
-### Gammanpila reminds President of deadline to release Easter attack reports
-
-*2024-10-21 02:55:30* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-reminds-President-of-deadline-to-release-Easter-attack-reports/56-768221) · `en`
-
-Says deadline given to President Anura Kumara Dissanayake to release reports will lapse today morning
-
-Claims it is Dissanayake’s constitutional responsibility to release reports, and failure to do so could lead to severe consequences
-
-Notes he will release the reports if President fails to, even if it risks him being imprisoned
-
-Claims similar to Imran Khan using AI to send messages while imprisoned, he will use same technology to release reports, even from behind bars
-
-Former MP Udaya Gammanpila has issued a warning to President Anura Kumara Dissanayake regarding the release of two unpublished reports related to the 2019 Easter Sunday attacks.
-
-Speaking at a press briefing yesterday, Gammanpila reminded Dissanayake that the deadline he had given the latter to release the reports will expire at 10 a.m. today.
-
-...
-
-[Data](articles/0077eb6d.json)
-
-[Extended Data](ext_articles/0077eb6d.ext.json)
-
----
-
-### PR Wire enters policy advisory landscape with LexAG Collaboration
-
-*2024-10-21 02:55:00* · [`islandlk`](http://island.lk/pr-wire-enters-policy-advisory-landscape-with-lexag-collaboration/) · `en`
-
-PR Wire Sri Lanka (PRW), a member of the Wire Communication Consultancy Holdings Group (WCCG), announced a strategic partnership with LexAG – Legal Consultants, a renowned legal consultancy firm based in Colombo, Sri Lanka, further enhancing its service portfolio into policy advisory services. This collaboration represents a significant milestone for PR Wire as it expands its service offerings into the policy and advisory domain, enabling its clients to effectively navigate the complexities of the legal, economic, and political landscape.
-
-...
-
-[Data](articles/98d3b8d5.json)
-
-[Extended Data](ext_articles/98d3b8d5.ext.json)
-
----
-
-### Chairman Urban Settlement Development Authority assumes duties
-
-*2024-10-21 02:54:00* · [`islandlk`](http://island.lk/chairman-urban-settlement-development-authority-assumes-duties/) · `en`
-
-Asanka Abeywardene who has been appointed as the new Chairman of Urban Settlement Development Authority (USDA) assumed duties recently.
-
-Abeywardene obtained his letter of appointment from the Personal Secretary to Minister of Rural and Urban Development, Housing and Urban Settlement Vijitha Hearth.
-
-Abeywardene was one time District Secretary of Trincomalee, and Deputy District Secretary of Ampara.    Director General Urban Settlement Development Authority Vijayananda Herath and other senior officials of the institution participated in the ceremony.
-
-Ranil urges voters to elect MPs with experience to handle ongoing economic crisis
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/2661896e.json)
-
-[Extended Data](ext_articles/2661896e.ext.json)
-
----
-
-### Zellers reintroduces chocolates with new flavours
-
-*2024-10-21 02:54:00* · [`islandlk`](http://island.lk/zellers-reintroduces-chocolates-with-new-flavours/) · `en`
-
-The return of Zellers Chocolates aims to reshape Sri Lanka’s premium chocolate market while reviving cherished memories from the past. Zellers stands as a pioneer in local craftsmanship and innovation, as fine chocolates have become a beloved indulgence and synonymous with amazing moments. Now, the brand aims to bring Sri Lankans world-class chocolates with a local twist, paying homage to the fond memories of time-honoured generations, while helping a whole new generation create their own.
-
-As Sri Lanka’s first homegrown chocolate manufacturer, founded in 1964 by A.G. Hinniappuhami – the visionary Founding Chairman of Maliban – Zellers has a special place in the hearts of Sri Lankans. Known for its use of premium cocoa and its commitment to the ‘bean-to-bar’ concept, Zellers created chocolates that were not only rich in flavour but also in heritage, and it is this very tradition that the brand aims to revive with a range of new offerings.
-
-...
-
-[Data](articles/396dad3f.json)
-
-[Extended Data](ext_articles/396dad3f.ext.json)
-
----
-
-### Ex-President Mahinda contests Govt. claims on official vehicle allocations
-
-*2024-10-21 02:51:09* · [`dailyftlk`](https://www.ft.lk/news/Ex-President-Mahinda-contests-Govt-claims-on-official-vehicle-allocations/56-768220) · `en`
-
-Former President Mahinda Rajapaksa’s media unit on Saturday issued a statement contesting recent claims by the Government Information Department regarding the number of vehicles allocated for his use and security purposes.
-
-The statement called the figures released by the Department inaccurate, asserting that they do not reflect the actual number of vehicles in his possession.
-
-According to the media unit, Rajapaksa currently uses six vehicles, three of which are scheduled to be returned today (21), following written instructions from the Presidential Secretariat.
-
-It also pointed out that Rajapaksa, who served as the fifth Executive President of Sri Lanka, is the most threatened past leader in terms of assessment by the intelligence authorities, and that these vehicles were used for his security.
-
-...
-
-[Data](articles/8f112087.json)
-
-[Extended Data](ext_articles/8f112087.ext.json)
 
 ---

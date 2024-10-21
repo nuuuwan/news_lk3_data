@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 20:39:54**
+As of **2024-10-21 20:58:38**
 
 ## Newspaper Stats
 
-*Scraped **50,616** Articles*
+*Scraped **50,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 508
 islandlk | 3,011
 economynextcom | 3,091
 dailyftlk | 3,446
-adalk | 4,701
+adalk | 4,702
 dailymirrorlk | 4,733
 adaderanalk | 5,997
 tamilmirrorlk | 6,941
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,616 (100.0%) of 50,616 articles have been extended.
+50,617 (100.0%) of 50,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### If the two vehicles prove myself, they will say to politics
+
+*2024-10-21 20:15:35* · [`adalk`](https://www.ada.lk/breaking_news/සැප-වාහන-දෙක-මගේ-කියා-ඔප්පු-කළොත්-දේශපාලනයෙන්-සමුගන්නවා/11-412603) · `si`
+
+Former Ports Minister Rohitha Abeygunawardena said that if he had been concealed in a house was concealed in a house in the Kandy area, he said.
+
+The former Minister said that a special statement made by the media in Kalutara yesterday (21 million) was arrested by the Kandy Divisional Criminal Investigation Unit, which was worth a port of Rs.Reported by the media.
+
+"First said that my son-in-law is involved in the vehicles. Later, son-in-law's i was nothing to do with these vehicles. If you prove that is true, I will say goodbye in politics. Moreover, even the general election will be resigned. Never came into politics to cheat or steal politics. Accusing what is not. I call for the truth here.
+
+Clearly means don't use these to mud. These vehicles have no connection to me or the nephew. I have. These are all registered vehicles. I want to be held responsible for something else. If I have done something wrong, you will challenge to prove.
+
+...
+
+[Data](articles/02b41f40.json)
+
+[Extended Data](ext_articles/02b41f40.ext.json)
+
+---
 
 ### Notice of water supply in several areas
 
@@ -2243,31 +2263,5 @@ Critics have said CPC is overstaffed and has procurement inefficiencies.
 [Data](articles/1e3e2ad8.json)
 
 [Extended Data](ext_articles/1e3e2ad8.ext.json)
-
----
-
-### Student's body recovered from the river!
-
-*2024-10-21 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196747) · `ta`
-
-Body of student found in river; second student involved in accident
-
-🟩
-
-A student of Mahiyanganai has been recovered from the Lokkal Oya River on Monday (21), police said.
-
-The body of the body, along with another student, left the house, claiming to go to the upper classes in Badulla.
-
-The parents of the student have lodged a complaint at the Badulla Police Station as the two students who went out did not return home.
-
-In this case, the other student who went with the body of the body has been handed over to the Rithimaliya police as the motorcycle driver has crashed into a motorcycle riding on the road.
-
-The student is currently under the control of the Rithimaliya police.
-
-◼️
-
-[Data](articles/c846c122.json)
-
-[Extended Data](ext_articles/c846c122.ext.json)
 
 ---

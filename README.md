@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 01:39:49**
+As of **2024-10-22 02:10:18**
 
 ## Newspaper Stats
 
-*Scraped **50,639** Articles*
+*Scraped **50,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,453
 adalk | 4,704
 dailymirrorlk | 4,733
 adaderanalk | 5,998
-tamilmirrorlk | 6,944
+tamilmirrorlk | 6,945
 virakesarilk | 8,127
 adaderanasinhalalk | 8,789
 
@@ -26,9 +26,33 @@ adaderanasinhalalk | 8,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,639 (100.0%) of 50,639 articles have been extended.
+50,640 (100.0%) of 50,640 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-22 (Tuesday)
+
+### Hand recovery
+
+*2024-10-22 01:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைக்குண்டு-மீட்பு/175-345819) · `ta`
+
+Gun found at house in Ampara District. STF and forensic police investigating. Incident to be cleared on Tuesday.
+
+🟩
+
+A handgun was found on Monday evening at a house on Pasar 7th Road, Samanthurai, which belongs to the Samanthurai Police Division in Ampara District.
+
+Further investigations were carried out by the Special Task Force (STF) and the Criminal Forensic Police.
+
+Police said that the incident will be dismissed from the scene of the incident on Tuesday.. (A)
+
+◼️
+
+[Data](articles/824daac5.json)
+
+[Extended Data](ext_articles/824daac5.ext.json)
+
+---
 
 ### 2024-10-21 (Monday)
 
@@ -2361,33 +2385,5 @@ The Defense Ministry states that about 1650 firearm doctors have been issued on 
 [Data](articles/0b1f6811.json)
 
 [Extended Data](ext_articles/0b1f6811.ext.json)
-
----
-
-### 21/4 Report Affairs; President Action
-
-*2024-10-21 12:21:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-அறிக்கை-விவகாரம்-ஜனாதிபதி-அதிரடி/175-345773) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Presidential Commission reports on Easter attacks not confidential. New investigations ordered. Former President accused of forming groups to hinder inquiries. Current government committed to uncovering truth behind attacks.
-
-🟩
-
-President Anura Kumara Dissanayake yesterday (20) said that those who have been unconsciously in a coma for the Easter Sunday attack have now begun to question the reports of the Presidential Commission.
-
-He said that some people were confused after the government launched a proper investigation into the Easter attacks and that the Easter attack reports were not confidential.
-
-Speaking at a rally in Katunayake, the President said that the President had informed him that the President had submitted two reports of the Presidential Commission, which was investigating the Easter attacks, had been submitted to the Attorney General, Defense Secretary, Secretary to the Ministry of Public Security and the Archbishop Secretary of the Colombo Archbishop.. So he stressed that they are not confidential statements.
-
-However, the president said that the committees were not investigating committees and that former President Ranil Wickremesinghe had formed some groups to suppress the investigation.
-
-...
-
-[Data](articles/82d2bcb8.json)
-
-[Extended Data](ext_articles/82d2bcb8.ext.json)
 
 ---

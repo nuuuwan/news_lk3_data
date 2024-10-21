@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 11:59:50**
+As of **2024-10-21 12:15:09**
 
 ## Newspaper Stats
 
-*Scraped **50,524** Articles*
+*Scraped **50,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,182 @@ colombotelegraphcom | 507
 islandlk | 3,008
 economynextcom | 3,084
 dailyftlk | 3,446
-adalk | 4,685
+adalk | 4,688
 dailymirrorlk | 4,733
 adaderanalk | 5,985
-tamilmirrorlk | 6,924
+tamilmirrorlk | 6,927
 virakesarilk | 8,104
-adaderanasinhalalk | 8,770
+adaderanasinhalalk | 8,771
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,524 (100.0%) of 50,524 articles have been extended.
+50,531 (100.0%) of 50,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Here's what Gammanpila told about Easter reports
+
+*2024-10-21 11:54:26* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-වාර්තා-ගැන-ගම්මන්පිල-අද-කිව්ව-දේ-මෙන්න/11-412584) · `si`
+
+Gammanpila: Removed Easter report, discussed with President. Defense Secretary Ravi Seneviratne accused of misconduct.
+
+🟩
+
+Mahaniya Gammanpila, Minister of Public Defense to be removed from a non-famous Easter report, Plandani Gammanpila, leader of the Hon.
+
+Two Easter reports were made public and published today.
+
+"I am talking to the President and delibes the report to the President and deliberately delibes the report to the President and deliberately deliberately delivering the report to the President.. "
+
+"People Defense Secretary Ravi Seneviratne has become a prosecutive of the committee that the committee should be prosecuted by the crime in this backdrop.. "
+
+◼️
+
+[Data](articles/a4db5bba.json)
+
+[Extended Data](ext_articles/a4db5bba.ext.json)
+
+---
+
+### Gold jewelry theft;Arrest of husband and wife
+
+*2024-10-21 11:42:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தங்க-நகை-திருட்டு-கணவன்-மனைவி-கைது/73-345771) · `ta`
+
+Gold jewelry theft: Husband-wife duo arrested for stealing Rs 260,000 worth of gold from a rental property. Recovered items include a gold garland and ATM card. Suspects to appear in court.
+
+🟩
+
+Kattankudy Police Station Respondent AMSA. Rahim said
+
+When the owner of a house located in Thiruchendur locked up the house and went to a birthday party, he had come to the house and immediately came home after a short message that he had purchased goods from his account.
+
+During the complaint, the couple who had rented the house to the house had stolen the golden route from the house and sold the golden route in a jewelery shop in Batticaloa for Rs 2,60,000..
+
+The persons involved in the incident were identified and arrested when they examined the CCTV camera of the supermarket.
+
+A gold garland and one lakh five thousand rupees of ATM card have been recovered from them.
+
+In addition, Kattankudy police are conducting further investigations and the suspects are to be produced before the Batticaloa Court of Justice.
+
+◼️
+
+[Data](articles/1f1afab6.json)
+
+[Extended Data](ext_articles/1f1afab6.ext.json)
+
+---
+
+### Most of the dengue patients registered in Colombo
+
+*2024-10-21 11:41:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-அதிகளவான-டெங்கு-நோயாளர்கள்-பதிவு/175-345770) · `ta`
+
+Colombo reports high dengue cases: 1,874 patients identified since start of month, 41,285 total cases this year. Western Province leads with 17,549 cases, followed by Jaffna (4,832), Kandy (4,288), and Sabaragamuwa (4,177).
+
+🟩
+
+The National Dengue Eradication Unit said 1,874 people have been identified from the beginning of this month due to inclement weather in the country.
+
+Accordingly, 41,285 dengue cases have been reported from the beginning of this year.
+
+In particular, 17,549 patients have been reported in the Western Province, Colombo, Kalutara and Gampaha districts and the highest number of dengue patients are reported.
+
+Also, Jaffna. 4,832 patients in the district, 4,288 patients in the Kandy district of Central Province and 4,177 patients in the Sabaragamuwa Province, Kegalle and Ratnapura district, the National Dengue Eradication Unit said.
+
+◼️
+
+[Data](articles/bc33a4b3.json)
+
+[Extended Data](ext_articles/bc33a4b3.ext.json)
+
+---
+
+### The suspect who panicled posters to High Court Judge has fled the house
+
+*2024-10-21 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202395) · `si`
+
+Main suspect flees after posting bail; police search ongoing. Four others remanded until Nov 4. Case adjourned due to lack of evidence.
+
+🟩
+
+The police today also informed the Magistrate's Court today that investigations are being investigated to arrest the main suspect in the Mannar High Court Judge.
+
+The complaint was called before Colombo Chief Magistrate Thilina Gamage.
+
+The Colombo Crimes Division (CCD) officials will be taken to investigate the main suspect in the court.
+
+The police informed the court that the main suspect is not at home.
+
+President's Counsel Maithree Gunaratne appeared in behalf of the suspects in connection with the incident, he pointed out that the people who were remanded in the incident were in the case.
+
+The President's Counsel to be remanded in this way to be remanded in this way, the prosecutor's lawyer is now failing to prove the police.
+
+After considering the following, the Magistrate ordered four suspects who were remanded in connection with the incident.
+
+The four other suspects were ordered to be remanded till November 4.
+
+◼️
+
+[Data](articles/d6a5adba.json)
+
+[Extended Data](ext_articles/d6a5adba.ext.json)
+
+---
+
+### What happened to the elephant, which is an hour of work for an hour
+
+*2024-10-21 11:40:44* · [`adalk`](https://www.ada.lk/breaking_news/පැයකට-වැඩිකාලයක්-වන-අලියා-ග්‍රහණයේසිටි--පුද්ගයකුට-සිදුවූ-දේ/11-412583) · `si`
+
+Elephant attacks man in Sri Lanka. Victim, 65, killed while protecting palm trees. Residents claim elephant harmed locals. Incident occurred near Dambulla.
+
+🟩
+
+Sigiriya police say that a person who is traveling to protect the palms of the Alakolawewa, Atlawewewa, Alakolawewa, Alakolawewa in Aklakewewa, Alakolawewa and Alakolawewa area.
+
+The role has been identified from Hatton to Hatta, Dambulla, a rental workers in Dambulla
+
+The deceased was a sixty-five-year-old inspiration, police said that he was about sixty-five-year-old information.
+
+The Elephant's assault is to be assaulted by the lament of the dead and hearing the lamentation of the dead and hearing the dies of the deceased.He noted that he lifted and lifted up a nearby tree
+
+Residents point out that the elephant was unable to save the person who was more than an hour and was more an hour.
+
+The elephant has shown that the elephant is harming the people of the area and the people of the area has been severely damaged in the area.
+
+...
+
+[Data](articles/2013b3b6.json)
+
+[Extended Data](ext_articles/2013b3b6.ext.json)
+
+---
+
+### Udaya Kammanpila at a special press conference ...
+
+*2024-10-21 11:40:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-செய்தியாளர்-சந்திப்பில்-உதய-கம்மன்பில/175-345769) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Udaya Kammanpila threatens to expose Easter Sunday bombing reports unless President Anuragumara Dissanayake reveals them at a press conference.
+
+🟩
+
+Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya Party, is currently holding a special press conference.
+
+It is noteworthy that if President Anuragumara Dissanayake does not reveal two reports on the Easter Sunday bombings, I will make public a special press conference today.. Remble
+
+◼️
+
+[Data](articles/9239b61f.json)
+
+[Extended Data](ext_articles/9239b61f.ext.json)
+
+---
 
 ### Israeli air strikes to banks
 
@@ -307,6 +467,32 @@ Mr. Gammanpila said that the Passover attack will be revealed at the press confe
 [Data](articles/6ffe23aa.json)
 
 [Extended Data](ext_articles/6ffe23aa.ext.json)
+
+---
+
+### Before removing Mahinda's safety
+
+*2024-10-21 10:09:14* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දගේ-ආරක්ෂාව-ඉවත්-කිරීමට-පෙර-සිතා-බලන්න/11-412581) · `si`
+
+Sri Lanka's government focuses on former president Mahinda Rajapaksa's safety amid ongoing regional threats. Security measures reduced, concerns raised about potential risks. Political leaders emphasize development and addressing public issues.
+
+🟩
+
+The Government of Sri Lanka's presidential leader Indika Agathan said that the Government of Sri Lanka should focus on the safety of the former president's safety.
+
+He was speaking at a public election campaign to open the main election campaign in Makola.
+
+This was opened under the purpose of the Gampaha District candidate and the former Vice President of the Biyagama Pradeshiya Sabha.. Former State Minister Indika Anura repairs, said,
+
+President Mahinda Rajapaksa has finished the cruel war in the country for thirty years.. However, steps have been taken to remove the security guards and security vehicles used by the present government.As a result, his safety is emerging.
+
+Are the terms of regional threats today. The organization has not yet been eliminated if the LTTE was eliminated. . Therefore, the threats from the LTTE to the former President have not yet gone away. We need to understand this. Therefore, before he reduces his security, it is necessary to think about twice.
+
+...
+
+[Data](articles/dd8551c4.json)
+
+[Extended Data](ext_articles/dd8551c4.ext.json)
 
 ---
 
@@ -2165,153 +2351,5 @@ The war has now been ahead of the Middle East as part of the decades of US imper
 [Data](articles/af7b695d.json)
 
 [Extended Data](ext_articles/af7b695d.ext.json)
-
----
-
-### No change in demand for postal voting applicants
-
-*2024-10-20 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202376) · `si`
-
-Postal voting applicant numbers unchanged from last election. 712,319 eligible voters. Applications processed by Elections Commission. Voting dates set for Nov 30-Dec 4. Certification process underway.
-
-🟩
-
-The number of postal voting applicants who have applied for this year's general election has increased the last presidential election.
-
-All the postal voting applications provided by a spokesperson have been received by the Elections Commission.
-
-Last presidential election 712,319 postal voters were eligible to vote.
-
-Meanwhile, postal voting for the 2024 general election will be taken to take over Wednesdays on Wednesdays.
-
-According to Deputy Postal Rajitha Ranasinghe, Deputy Postal Rajitha Ranasinghe said that the relevant postal voting will be provided with the expeditious certification officers.
-
-Meanwhile, postal voting on the general election is scheduled to take place on November 30, November 30 and 04.
-
-The Elections Commission says that the postal voters in which the polls cannot be voted on November 07 and 8.
-
-◼️
-
-[Data](articles/ff61e5ad.json)
-
-[Extended Data](ext_articles/ff61e5ad.ext.json)
-
----
-
-### Challenge of Muslims: Protecting representation and initiation of change
-
-*2024-10-20 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196721) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Muslims face unique challenges in political representation. Outside North/East regions, they often support Sinhala candidates. In some areas, Muslims must vote for non-Muslims, limiting their influence. This situation varies across territories, highlighting complexities in Muslim political participation.
-
-🟩
-
-The representation of the Muslim community is different in territories outside the North and East. Sinhala people vote for many Muslim politicians. In some areas, Muslims have to vote for Sinhala candidates.
-
-◼️
-
-[Data](articles/4caaee91.json)
-
-[Extended Data](ext_articles/4caaee91.ext.json)
-
----
-
-### Lorry - motorcycle accident;One killed
-
-*2024-10-20 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/196720) · `ta`
-
-Motorcycle accident: 74-year-old killed when lorry overtakes on Kandy-Colombo road.
-
-🟩
-
-One person was killed when a lorry collided with a motorcycle on the Kandy -Colombo main road in Kandy -Colombo main road, police said yesterday (19).
-
-The deceased is a 74 -year -old man from Kadawatha Grillawala.
-
-Police said the incident occurred when a lorry traveling from Kandy to Colombo was trying to overtake the motorcycle that was traveling in the same direction.
-
-◼️
-
-[Data](articles/d86ec91d.json)
-
-[Extended Data](ext_articles/d86ec91d.ext.json)
-
----
-
-### Millions of children who are sexually abused in the world
-
-*2024-10-20 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/196719) · `ta`
-
-UNICEF report: 79 million girls/women face sexual violence globally, affecting 22% of populations across regions.
-
-🟩
-
-According to the UNICEF report, the number of girls and women who suffer from sexual violence in the sub -co -regional region 79 million. It is 22 per cent of the total population. This is 75 million in the East and Southeast Asian region (8 %). 73 million (9 per cent) in the Central and South Asian region. 68 million (14 percent) in Europe and North America. 45 million (18 percent) in Latin America and Caribbean region. 29 million (15 per cent) in North Africa and West Asia. 6 million (34 per cent) in the Oceania region.
-
-◼️
-
-[Data](articles/956be5d0.json)
-
-[Extended Data](ext_articles/956be5d0.ext.json)
-
----
-
-### Over 400 election related complaints received by EC
-
-*2024-10-20 18:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102816/over-400-election-related-complaints-received-by-ec) · `en`
-
-The number of complaints received by the Election Commission in relation to the upcoming parliamentary election has exceeded 400.
-
-A total of 58 complaints were received by the commission within yesterday and the total number of complaints received so far has increased to 401.
-
-All those complaints are related to violations of election laws and no complaints related to election-related violence have been reported so far, the Election Commission said.
-
-The commission further stated that out of the 401 complaints received, 309 have already been resolved.
-
-◼️
-
-[Data](articles/99366329.json)
-
-[Extended Data](ext_articles/99366329.ext.json)
-
----
-
-### The power of power and nationalism
-
-*2024-10-20 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196715) · `ta`
-
-Nationalist leaders leverage criticism and public pressure to advance their agenda, balancing power and popular support.
-
-🟩
-
-The leaderships that aims nationalism will be able to express their views on the aims of power when the strategic move is to move on to the inevitable actions by making excessive criticism and pressure from the local sector organizations and the central general public.
-
-◼️
-
-[Data](articles/f6f86f64.json)
-
-[Extended Data](ext_articles/f6f86f64.ext.json)
-
----
-
-### Want to contest elections to sit in the opposition line?
-
-*2024-10-20 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196713) · `ta`
-
-Contesting elections as opposition: Both parties may sign MoU, agreeing to run independently in Parliament despite sharing phone symbols. This could lead to joining the government or taking on ministerial roles.
-
-🟩
-
-Both sides may sign a Memorandum of Understanding (MoU), claiming that they have to run independently in Parliament even if they contest the telephone symbol. If this happens, there are opportunities to join the government or the responsibilities of the Ministry of Ministry.
-
-◼️
-
-[Data](articles/7338a45a.json)
-
-[Extended Data](ext_articles/7338a45a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 17:23:47**
+As of **2024-10-21 17:40:46**
 
 ## Newspaper Stats
 
-*Scraped **50,579** Articles*
+*Scraped **50,581** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ dailymirrorlk | 4,733
 adaderanalk | 5,992
 tamilmirrorlk | 6,935
 virakesarilk | 8,111
-adaderanasinhalalk | 8,782
+adaderanasinhalalk | 8,784
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,579 (100.0%) of 50,579 articles have been extended.
+50,581 (100.0%) of 50,581 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Another leap from Damitha
+
+*2024-10-21 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202408) · `si`
+
+Veteran Performance Mr. Damitha Abeyratne has decided to join the Democratic National Alliance.
+
+Addressing a special media briefing held today (21), she said that the decision was taken after several rounds.
+
+She added that he would quit all the posts of the people's post and everyone who helped everyone thanked.
+
+◼️
+
+[Data](articles/f34e3616.json)
+
+[Extended Data](ext_articles/f34e3616.ext.json)
+
+---
+
+### Whose luxury vehicles found in the city?
+
+*2024-10-21 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202407) · `si`
+
+A unregistered manner and jeep have been recovered from a son-owner of a leader of former Minister Rohitha Abeygunawardena.
+
+The police said that they were found to have found the same vehicles according to information received by the 1997 number.
+
+The two cars were taken into custody after a statement from the owner of the vehicle.
+
+Meanwhile, Gayan Saram, who is said to be a complaint with a lawyer today (21) and a lawyer.
+
+He said he had come to a complaint requesting to investigate the charge.
+
+"I'm the son-in-law of Rohitha Abeygunawardena. I and my wife's dad and mud propaganda. It was a complaint to be lodged. Found two vehicles. I'm trying to confuse me and my Wife's father. My Residence in Colombo. This is just a city. "
+
+Meanwhile, former Minister Rohitha Abeygunawardena says he will resign from politics if they prove it.
+
+...
+
+[Data](articles/e5bbe8f9.json)
+
+[Extended Data](ext_articles/e5bbe8f9.ext.json)
+
+---
 
 ### Transport buses were removed from service
 
@@ -2323,59 +2367,5 @@ The bodies have been placed at the Kahatagasdigiliya Police, while Kahatagasdigi
 [Data](articles/241d2be0.json)
 
 [Extended Data](ext_articles/241d2be0.ext.json)
-
----
-
-### Today is mm. Tight over 100
-
-*2024-10-21 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202386) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Showers/thundershowers forecasted for Western, Sabaragamuwa, Southern, and Northern provinces. Heavy rains possible in Southern Province. Evening/night thundershowers elsewhere. Public advised to prepare for strong winds and lightning."
-
-🟩
-
-The Meteorological Department says that showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and Northern provinces.
-
-The announcement states that the Southern Province is located mm. Heavy rains can occur at over 100.
-
-Thundershowers will occur at several places in the evening, in the evening or night in the other areas of the island.
-
-The public is requested to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/d8943409.json)
-
-[Extended Data](ext_articles/d8943409.ext.json)
-
----
-
-### Although the national people are identified as the power of the people, the political decision powers are in the JVP - Gajendrakumar Ponnambalam
-
-*2024-10-21 05:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196742) · `ta`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-Gajendrakumar Ponnambalam criticizes JVP's stance on Tamil rights. He warns TNA won't negotiate with JVP unless they withdraw views on Tamil issues. Ponnambalam emphasizes TNA's commitment to Tamil welfare and federalism.
-
-🟩
-
-A few days ago, Rilvin Silva says that the 13th Amendment or the power of the Tamils ​​did not need the Tamils ​​and that the political parties were only talking about it.. They have revealed the message that they were not prepared to consider the basics that have been put forward by the Tamil people for a long time.
-
-Even if they are now identified as the national power of the people, the entire powers to make political decisions have the possession of the Janatha Vimukthi Peramuna. Therefore, if the National People's Power does not withdraw its views, we will not negotiate with them after the general election, said Gajendrakumar Ponnambalam, the leader of the Tamil National Alliance (TNA) and the Jaffna district candidate.
-
-He said this during a special interview with the 'Weerakesari' weekly in the wake of the Tamil National Political Base in the wake of the upcoming general election on November 14.. The complete form of the interview with him is as follows:
-
-...
-
-[Data](articles/e46b53a7.json)
-
-[Extended Data](ext_articles/e46b53a7.ext.json)
 
 ---

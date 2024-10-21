@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 22:39:54**
+As of **2024-10-21 22:58:16**
 
 ## Newspaper Stats
 
@@ -26,45 +26,61 @@ adaderanasinhalalk | 8,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,623 (100.0%) of 50,628 articles have been extended.
+50,627 (100.0%) of 50,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
 
-### இன பிரச்சினை தீர்க்கப்பட வேண்டும் என்ற விடயத்தில் பலமான ஒரு கூட்டணியாக எமது கூட்டணி உள்ளது : சிவசக்தி ஆனந்தன்
+### Our alliance is a strong alliance on the issue of the ethnic issue to be resolved: Sivasakthi Anandan
 
 *2024-10-21 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196806) · `ta`
 
-அரசாங்கம் தமிழ் மக்களுக்கு தேசிய இனப்பிரச்சினை என்ற ஒன்று இல்லை என்பதை கூறி கொண்டுள்ள  நேரத்தில் வடக்கு கிழக்கில் போட்டியிடுகின்ற ஜனநாயக தமிழ் தேசிய கூட்டணி யை தவிர ஏனையவர்கள் தேசிய இனப்பிரச்சினை என்று ஒன்று இல்லை என்பதை அரசாங்கத்தின் அதே நிலைப்பாட்டுடன் ஆதரவாக   செயல்பட்டு  வருவதாக முன்னாள் பாராளுமன்ற உறுப்பினர் சிவசக்தி ஆனந்தன் தெரிவித்தார்.
+Sivasakthi Anandan former MP says Tamil ethnic issue unresolved. TNA contests parliamentary elections in North East. Government denies ethnic problem. Thousands died fighting peacefully. TNA seeks support for Tamil rights.
 
-மன்னாரில் உள்ள அலுவலகத்தில் இன்று திங்கட்கிழமை (21) மாலை இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-எதிர்வரும் பாராளுமன்ற தேர்தலை முன்னிட்டு வடக்கு கிழக்கில் இம்முறை போட்டியிடுகின்ற மிக பலமான கூட்டணியாக ஜனநாயக தமிழ் தேசிய கூட்டணி சங்கு சின்னத்தில் போட்டியிடுகிறது.
+Former parliamentarian Sivasakthi Anandan said that when the government claims that there is no national ethnic problem for the Tamil people, the North East is working in favor of the government that there is no national ethnic problem.
 
-அதே வேளை இத் தேர்தலானது அதிகூடிய பாராளுமன்ற வேட்பாளர்களை கொண்டு வெற்றி பெற்று பாராளுமன்றம் செல்லுகின்ற ஒரு கூட்டணியாக ஜனநாயக தமிழ் தேசிய கூட்டணியாக காணப்படுகின்றது.
+He was speaking at a media briefing held at the office in Mannar on Monday evening.
 
-தமிழ் மக்களின் தேசிய இன பிரச்சினை தீர்க்கப்பட வேண்டும் என்கிற விடையத்தில் பலமான ஒரு கூட்டணியாக எமது கூட்டணி காணப்படுகின்றது.
+The Democratic TNA is contesting the most powerful alliance in the North and East ahead of the upcoming parliamentary elections.
+
+At the same time, the election is seen as a democratic Tamil coalition as a coalition that win the parliamentary candidates with the highest number of parliamentary candidates.
+
+Our coalition is a strong coalition in the answer to the national ethnic problem of the Tamil people.
+
+The Tamil people have been a national ethnic problem for the past 75 years. The Tamil people have been fighting non -violently and democratically for the national ethnic problem. Thousands have died.
 
 ...
 
 [Data](articles/04f0bbed.json)
 
+[Extended Data](ext_articles/04f0bbed.ext.json)
+
 ---
 
-### பெருந்தோட்ட பகுதி பாடசாலைகளைத் தரமுயர்த்தல் : நன்கொடை உதவியை இரு மடங்காக அதிகரித்தது இந்தியா
+### Plantation area schools upgrading: India has doubled aid
 
 *2024-10-21 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196809) · `ta`
 
-இலங்கையின் பெருந்தோட்ட பகுதிகளில் உள்ள 9 பாடசாலைகளை தரமுயர்த்துவதற்காக இந்திய அரசாங்கத்தினால் வழங்கப்பட்ட நன்கொடை உதவித் தொகையினை இரு மடங்காக அதிகரிக்கும் நடவடிக்கைகளுக்கான முறைமைகளை உறுதிப்படுத்தும் இராஜதந்திர ஆவணங்களில் இலங்கைக்கான இந்திய உயர் ஸ்தானிகர் கௌரவ சந்தோஷ் ஜா மற்றும் கல்வி, விஞ்ஞானம் மற்றும் தொழில்நுட்ப அமைச்சின் செயலாளர் திருமதி ஜே.எம்.திலகா ஜயசுந்தர ஆகியோர் 2024 ஒக்டோபர் 18 ஆம் திகதி கைச்சாத்திட்டதுடன், அதற்கான  இராஜதந்திர ஆவணங்களும் பரிமாறப்பட்டன.
+India doubles aid for 9 plantation schools in Sri Lanka, totaling 600 million Sri Lankan rupees. Funds allocated for infrastructure improvement in Central, Uva, Sabaragamuwa, and Southern Provinces. Part of broader education development initiatives in Sri Lanka.
 
-இலங்கை அரசாங்கத்தின் கோரிக்கைக்கு அமைவாக இந்த மேலதிக நிதி ஒதுக்கீடு மேற்கொள்ளப்பட்டிருக்கும் நிலையில், இத்திட்டத்திற்கான இந்திய அரசாங்கத்தின் ஒட்டுமொத்த ஒதுக்கீடு 600 மில்லியன் இலங்கை ரூபாவாக அதிகரித்துள்ளது.
+🟩
 
-குறித்த ஒதுக்கீட்டின் அடிப்படையில், இலங்கை அரசாங்கத்தினால் அடையாளம் காணப்பட்ட 9 பெருந்தோட்டப் பாடசாலைகளின் உட்கட்டமைப்பை மேம்படுத்துவதற்கு உத்தேசிக்கப்படுள்ளது. இவற்றில் மத்திய மாகாணத்தின் பெருந்தோட்டப் பகுதிகளில் 6 பாடசாலைகளும் ஊவா, சப்ரகமுவ மற்றும் தென் மாகாணத்தில் தலா ஒரு பாடசாலையும் உள்ளடங்குகின்றன.
+Hon. Santosh Ja, the Ministry of Indian High Commission in Sri Lanka, Mrs. JM Tilaka Jayasundara on the 18th of October, in the diplomatic documents that will double the donation of donations issued by the Government of India to upgrade 9 schools in the plantation areas of Sri Lanka.Diplomatic documents were also exchanged.
+
+With the further allocation of funds at the request of the Sri Lankan government, the total allocation of the Indian government has increased to 600 million Sri Lankan rupees.
+
+Based on the allocation, it is intended to improve the infrastructure of 9 plantation schools identified by the Sri Lankan government. These include 6 schools in the plantation areas of the Central Province and one school in Uva, Sabaragamuwa and Southern Province.
+
+The scheme is included in the long list, including the projects launched in the educational fields in Sri Lanka, as well as the ongoing development share efforts.
 
 ...
 
 [Data](articles/133d3fe7.json)
+
+[Extended Data](ext_articles/133d3fe7.ext.json)
 
 ---
 
@@ -92,6 +108,10 @@ He further mentioned that the delivery of ballot papers for postal voting will b
 
 *2024-10-21 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202414) · `si`
 
+Udaya Gammanpila accuses National Folk Force of undermining credibility of Ravi Seneviratne and Shani Abeysekera in court regarding Passover attack investigation. Claims retired UPS Alwis report recommends charging them with criminal negligence. Cites lack of proper investigation due to witness tampering.
+
+🟩
+
 The National Folk Force is trying to break the credibility of Ravi Seneviratne and Shani Abeysekera's credibility in courts of the Passover attack.
 
 President's Counsel Upul Kumarapparama, responding to the revelation of the reports of the Passover attack.
@@ -107,6 +127,10 @@ President's Counsel Upul Kumarapparama, responding to the revelation of the repo
 ### The underground scholarship problem is reopened
 
 *2024-10-21 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202413) · `si`
+
+Underground scholarship scandal resurfaces. Students seek Supreme Court intervention, demanding full marks for three exam questions deemed unfair. Petition claims violation of basic human rights.
+
+🟩
 
 A fundamental rights petition filed before the Supreme Court to issue a decision to issue complete marks for three scholarship examination.
 
@@ -132,6 +156,14 @@ They begging the judiciary to make a decision that the action is violated by bas
 
 *2024-10-21 20:46:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-விநியோகம்-குறித்து-முக்கிய-அறிவிப்பு/175-345804) · `ta`
 
+Here's a summary of the key notice on water supply in 200 characters:
+
+
+
+Water Supply Notice: Wattala, Mabola, Ja-Ela, Katunayake areas to receive water from Wattala, Biyagama, Mahara, Thompa, Ja-Ela, Katana, Minuwangoda at 12 noon tomorrow.
+
+🟩
+
 The Water Supply and Drainage Board said that the Wattala, Mabola, Ja-Ela, Katunayake-Sita Municipal Council areas will be supplied at the Wattala, Biyagama, Mahara, Thompa, Ja-Ela, Katana and Minuwangoda Pradeshiya Sabha at 12 noon tomorrow (22) at 12 noon..R
 
 ◼️
@@ -145,6 +177,10 @@ The Water Supply and Drainage Board said that the Wattala, Mabola, Ja-Ela, Katun
 ### Five arrests for the posters
 
 *2024-10-21 20:43:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவரொட்டிகளை-ஒட்டிய-ஐவர்-கைது/175-345803) · `ta`
+
+Borella police arrest five for illegal election posters. Individuals caught pasting near cemetery on three-wheeler and motorcycle. Police responsible for vehicles used.
+
+🟩
 
 Five persons have been arrested by the Borella police on the posters of a candidate for a general election in violation of election laws in Borella.
 
@@ -163,6 +199,10 @@ Police are also responsible for the three -wheeler and motorcycle used to paste 
 ### If the two vehicles prove myself, they will say to politics
 
 *2024-10-21 20:15:35* · [`adalk`](https://www.ada.lk/breaking_news/සැප-වාහන-දෙක-මගේ-කියා-ඔප්පු-කළොත්-දේශපාලනයෙන්-සමුගන්නවා/11-412603) · `si`
+
+Former Ports Minister Rohitha Abeygunawardena denies involvement in vehicles scandal, threatens resignation from politics if proven false. Claims innocence and calls for truth, stating vehicles are registered and unrelated to him or his nephew.
+
+🟩
 
 Former Ports Minister Rohitha Abeygunawardena said that if he had been concealed in a house was concealed in a house in the Kandy area, he said.
 
@@ -183,6 +223,10 @@ Clearly means don't use these to mud. These vehicles have no connection to me or
 ### Notice of water supply in several areas
 
 *2024-10-21 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202411) · `si`
+
+Water supply issues in Gampaha district due to pipeline damage. Affected areas: Wattala, Mabala, Ja-Ela, Katunayake-Seeduwa, Biyagama, Mahara, Katana, Minuwangoda. Repair work ongoing; restoration expected by tomorrow afternoon.
+
+🟩
 
 The National Water Supply and Drainage Board (NPF) says that the water supply of water has under pressure from the Gampaha District due to a sudden death of a water supply pipeline.
 
@@ -222,25 +266,35 @@ The people living in the aforementioned areas are advised to use water sparingly
 
 ---
 
-### උද්ධමනය තවදුරටත් පහළට
+### Inflation further down
 
 *2024-10-21 19:39:27* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවදුරටත්-පහළට/11-412600) · `si`
 
-මෙරට උද්ධමනය සැප්තැම්බර් මාසයේ දී පහළ බැස ඇත. 2024 අගෝස්තු මාසයේ දී 1.1% ක් ලෙස වාර්තා වූ  උද්ධමනය සැප්තැම්බර් මාසය සඳහා -0.2% ක් දක්වා අඩු වී තිබේ.
+Sri Lanka's inflation drops sharply: from 1.1% in August to -0.2% in September. Food category inflation decreases from 2.3% to 0.5%, while non-food category deflation increases from 0.2% to -10.7%.
 
-අගෝස්තු මාසයේ දී 2.3% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය සැප්තැම්බර් මාසයේ දී 0.5% ක් දක්වා අඩු වී තිබේ.
+🟩
 
-එමෙන්ම, අගෝස්තු මාසයේ දී 0.2% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය සැප්තැම්බර් මාසයේ දී -0.7%ක් දක්වා අඩු වී ඇත.
+Inflation in Sri Lanka has dropped down in September. Inflation, which was 1.1% in August 2024, has been reduced to -0.2% for September.
+
+The point of the food category recorded as 2.3% in August, the point inflation was reduced to 0.5% in September.
+
+Also, the non-food category of food, 0.2% in August, has reduced to-10.7% in September.
 
 ◼️
 
 [Data](articles/90b2cffb.json)
+
+[Extended Data](ext_articles/90b2cffb.ext.json)
 
 ---
 
 ### The only Tamil question paper for 8 and 9
 
 *2024-10-21 19:33:35* · [`adalk`](https://www.ada.lk/breaking_news/8-හා-9-වැනි-සඳහා-එකම-දෙමළ-ප්‍රශ්න-පත්‍රය-දීලා/11-412599) · `si`
+
+Tamil question papers for 8th and 9th grades released by Department of Education. 9th grade students received papers with interpreter. Director investigating issue. Ceylon Teachers' Service Union Secretary Stalin criticizes administrative weaknesses causing educational crisis.
+
+🟩
 
 The Tamil curriculum has been established in the second term by the Department of Education by the Department of Education.
 
@@ -266,6 +320,10 @@ The event is not considered as granted, and the state of Stalin has gone to the 
 
 *2024-10-21 19:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவின-அறிக்கைகள்-பொதுமக்களின்-பார்வைக்கு/175-345801) · `ta`
 
+Public can view election spending reports online from Oct 24, 2024, 9am-4pm. Reports submitted by candidates, parties, and coordinators under Elections Act 2023. Section 03 compliance required.
+
+🟩
+
 Certificates of the election spending reports submitted to the Election Commission by the candidates contested in the 2024 presidential election are now open to the public's view.
 
 These reports, handed over by candidates, secretaries of recognized political parties and voters who coordinated candidates, and the Elections Act of 2023.. Made according to section 03 of 3.
@@ -283,6 +341,14 @@ The public can review these reports from 9:00 am to 4:00 pm on the week of Octob
 ### The mystery of the shaken death of the cry
 
 *2024-10-21 19:02:56* · [`adalk`](https://www.ada.lk/picture_story/හලාවතම-කම්පා-කළ-මරණ-වල-අභිරහස-එළියට/10-412596) · `si`
+
+Here's a 200-character summary:
+
+
+
+Murderous businessman killed wife and daughter in Chilaw. Wife's body burned, daughter's throat cut. Police investigating financial disputes. Businessman suspected of orchestrating murders.
+
+🟩
 
 The murder of the murder was cut off and the murderous businessman had been buried in the house, the murder was filed by the murder of a large number of murderers in Chilaw.The Chilaw Headquarters Police said that the death inspections were revealed.
 
@@ -306,6 +372,10 @@ At the same time, the murdering businessman's body has been revealed in the post
 
 *2024-10-21 18:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கட்சியில்-இணைந்தார்-தமிதா/175-345800) · `ta`
 
+Tamitha Abeyratne joins DNA, leaves SJB over nomination controversy. Sajith Premadasa cites lack of justice and democratic rights.
+
+🟩
+
 Actress and political activist Tamitha Abeyratne has joined the Democratic National Alliance (DNA) in the upcoming general election in the upcoming general election and announced that he would withdraw from the United People's Power (SJB).
 
 SJP leader Sajith Premadasa told the media that I decided to leave the SJP because I did not give me justice and not uphold my democratic rights.
@@ -323,6 +393,10 @@ The last day of the acceptance of the nominations on October 11 was the controve
 ### When Lady Dimuthu arrived in Sri Lanka
 
 *2024-10-21 18:47:47* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-දිමුතු-ලංකාවට-එද්දී-අල්ලයි/11-412595) · `si`
+
+Lady Dimuthu arrested at Katunayake airport CID investigation Mathettitia Resources dispute organized crime leader
+
+🟩
 
 Mathettitia Resources, Dimuthu Sampath, who was serving in Galle, Ratgama Police Officers, at the Katunayake airport, 10/21 by the Criminal Investigations Department (CID).The arrested
 
@@ -365,6 +439,10 @@ The petition further points out that according to the Parliamentary Elections Ac
 ### Revelation on rejected postal voting applications
 
 *2024-10-21 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202410) · `si`
+
+Elections Commission reports 21,160 rejected postal voting apps out of 759,200 submitted. 738,050 accepted. Increase of 25,731 postal votes from previous election. Postal ballots issued on 23rd. Official ballot papers distribution set for 26th. Candidates meeting scheduled for 27th at Colombo District Secretariat. Political party representatives notified.
+
+🟩
 
 The Elections Commission says that 21,160 applications have been rejected by the postal voting applications presented this year.
 
@@ -410,6 +488,14 @@ It has been revealed that Senarathne was involved in the business of selling lan
 
 *2024-10-21 18:13:20* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-ගැසට්ටුව-අත්හිටුවන්නැයි-ශ්‍රේෂ්ඨාධිකරණයට-පෙත්සමක්/11-412594) · `si`
 
+Here's a 200-character summary:
+
+
+
+Civilian activist Priyantha Herath petitions Supreme Court to suspend electoral gazette. Challenges President's order for general election, citing legal violations. Requests hearing on fundamental rights.
+
+🟩
+
 Priyantha Herath, a civilian activist Priyantha Herath, a civilian activist, has filed a fundamental rights petition to the Supreme Court today (21).
 
 President Anura Kumara Dissanayake ordered the correspondingment of the general election and the gazette notification issued by the Gazette Notification issued by the Petitioner has requested the fundamental rights petition.
@@ -429,6 +515,10 @@ Anura Kumara Dissanayake, a civil activist who said he was appointed as the Pres
 ### Notice of 18 persons against Wasantha Mudali
 
 *2024-10-21 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202409) · `si`
+
+Colombo Magistrate Court case: 18 accused, including Wasantha Mudali, charged over past protests. Police investigation handed to AG's office. Court hearing scheduled for Feb 10.
+
+🟩
 
 Inter University Students Federation of the Inter University Students Federation (Inter University Students) for the suspects were a manner in the past struggle, police today (21)) The Colombo Magistrate informed the Magistrate.
 
@@ -452,6 +542,10 @@ The Court sentenceded the complaint on February 10.
 
 *2024-10-21 18:00:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நன்கொடையை-இரு-மடங்காக-அதிகரித்தது-இந்தியா/76-345799) · `ta`
 
+India doubles education aid to Sri Lanka, allocating 600 million rupees for 9 schools in plantation areas. Funds will support infrastructure, equipment, and teacher training programs.
+
+🟩
+
 Indian High Commissioner to Santosh Ja, Ministry of Education, Science and Technology, Mrs. JM Thilaka Jayasundara, on the 18th of October, on the 18th of October, in the diplomatic documents that confirm the systems of the Government of India to double the donation assistance issued by the Government of India to upgrade nine schools in the plantation areas of Sri Lanka.
 
 Diplomatic documents were also exchanged. With the further allocation of funds at the request of the Sri Lankan government, the total allocation of the Government of India has increased to 600 million Sri Lankan rupees.
@@ -469,6 +563,14 @@ Diplomatic documents were also exchanged. With the further allocation of funds a
 ### Representatives who care about representations ....!
 
 *2024-10-21 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196812) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil representatives' concerns about representation in Sri Lankan politics. Historical context of Tamil representation in parliament since 1947. Current divisions among Tamil parties affecting community welfare.
+
+🟩
 
 None of the candidates supported by the Tamil party in the presidential election. In some areas, Tamils ​​gave their votes to the national people's power. Upcountry representatives have expressed concern that Tamil representations should be protected.
 
@@ -490,6 +592,10 @@ Prior to 1977, the hill country representatives decorated the royal council. The
 
 *2024-10-21 17:52:09* · [`adalk`](https://www.ada.lk/breaking_news/පාරාවොන්ටත්-වැළඳුනු-රෝගය-වසර-100ක-උත්සාහයෙන්-පසු-ඊජිප්තුව-තුරන්-කරයි/11-412593) · `si`
 
+Egypt eradicated after 100 years: WHO announcement. Malaria, present since ancient times, finally eliminated under Pharaoh's efforts.
+
+🟩
+
 The World Health Organization has announced that Egypt was eradicated after 100 years.
 
 Maleria is as old as Egyptian civilization, and Pharaohs say they have suffered from preventing the disease.
@@ -506,6 +612,10 @@ Maleria is as old as Egyptian civilization, and Pharaohs say they have suffered 
 
 *2024-10-21 17:45:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பொதுத்-தேர்தலை-சவாலுக்கு-உட்படுத்தி-மனு/150-345798) · `ta`
 
+Civil society activist challenges Election Commission's decision to hold parliamentary election on Nov 14. Petitioner claims EC failed to follow nomination rules and set proper election date. Case filed in Supreme Court.
+
+🟩
+
 A civil society activist has filed a fundamental rights petition in the Supreme Court challenging the decision of the Election Commission to hold a parliamentary election on November 14.
 
 The petition was filed by Priyantha Herath, Coordinator of Abhi Sri Lanka, claiming that the Elections Commission had failed to demand nominations in accordance with the rules of parliamentary elections and to determine the date of the general election.
@@ -521,6 +631,10 @@ The petition was filed by Priyantha Herath, Coordinator of Abhi Sri Lanka, claim
 ### Rabbada is 300 taiuge 200
 
 *2024-10-21 17:39:13* · [`adalk`](https://www.ada.lk/sports/රබාඩා-300-කඩද්දි-ටයිජුල්-200-කඩයි/9-412592) · `si`
+
+South Africa vs Bangladesh Test: Day 1 summary. South Africans score 140/6 in 41 overs, Bangladesh 106 all out. South Africa leads by 34 runs. Fast bowler secures 300th wicket milestone.
+
+🟩
 
 The first day of the first Test match between the tourist South African and the Bangladesh team, the match was completed today (21).
 
@@ -544,6 +658,10 @@ South Africa fast bowlers of the South African fast bowlers were able to secure 
 
 *2024-10-21 17:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலாபம்-முக்கொலை-இரகசியம்-அம்பலம்/175-345797) · `ta`
 
+Chilaw: Murder-suicide at Business House. Autopsy reveals 2 women killed, 3 family members died in fire. Bodies of father, mother, and 15-year-old daughter found. Incident occurred on Saturday night, discovered Sunday morning.
+
+🟩
+
 An autopsy conducted at the Chilaw General Hospital revealed that the murder and suicide was held at the Business House in Chilaw, Singapura.
 
 According to the autopsy of Ilangaratne Banda's autopsy, two women have been murdered and thrown into the fire.
@@ -565,6 +683,10 @@ The daughter of the deceased Neth Nimesha is a student of Chilaw Ananda National
 ### Hotel Emporium Hon.
 
 *2024-10-21 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/196797) · `ta`
+
+Hotel Emporium wins World Supporting Awards for sustainability in hospitality. Founded in 2003, it serves 20,000 hotels globally. CEO Andy de Silva emphasizes eco-friendly practices and responsible travel. The company develops products like Liquifill Volume and ECO POD to combat plastic waste.
+
+🟩
 
 WORLD SUPPORTING AWARDS (WSHTHA) has been honored at the First World Stabbing Travel and Hospitality Awards (WSTHA) ியில்Hotel Emporium (Hotel Emporium) boasts.
 
@@ -611,6 +733,10 @@ Due to years of protection, Sri Lanka’s rice is usually not export grade and t
 ### The shooting of the unnamed film starring Wimal
 
 *2024-10-21 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196805) · `ta`
+
+Wimal stars in upcoming Tamil film directed by Abdul Majeed. Cast includes K., Gokul, Baiju Jacob, E J Johnson. Comedy genre, produced by Confidant Film Cafe. Shooting completed, teaser release soon.
+
+🟩
 
 The film crew has been enthusiastically announced that the shooting of the unnamed film, which is playing the hero of the actor Wimal, the market -worth star in the Tamil film industry.
 
@@ -694,19 +820,29 @@ A bond maturing on 15.09.2029 closed stable at 11.90/12.05 percent. (Colombo/Oct
 
 ---
 
-### ஜனாதிபதிக்கு எதிராக குற்றப்பிரேரணை கொண்டு வர முடியும் விசாரணைகளை திரிபுப்படுத்தவா செனவிரத்ன, சானி மீளிணைப்பு ரவி செனவிரத்னவை உடன் பதவி நீக்குங்கள்    -உதய கம்மன்பில
+### Seneviratne, Sani Recovery Ravi Seneviratne
 
 *2024-10-21 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196800) · `ta`
 
-நாட்டு மக்களின் சிந்திக்கும் மற்றும் தகவலறியும் உரிமைகளை ஜனாதிபதி வேண்டுமென்றே மீறியுள்ளார்.  அரசியலமைப்பின் 38 ஆவது ஏற்பாடுகளை மீறியுள்ள ஜனாதிபதிக்கு எதிராக குற்றப்பிரேரணையை கொண்டு வர முடியும். குண்டுத்தாக்குதல் சம்பவத்தின் பிரதான குற்றவாளியாக பெயர் குறிப்பிடப்பட்டுள்ள ரவி செனவிரத்னவை பொதுமக்கள் பாதுகாப்பு அமைச்சின் செயலாளர் பதவியில் இருந்து உடனடியாக நீக்க வேண்டும் என முன்னாள் பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில தெரிவித்தார்.
+Here's a 200-character summary:
 
-புறக்கோட்டை பகுதியில் உள்ள பிவிதுரு ஹெல உறுமய கட்சி காரியாலயத்தில் நேற்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது அல்விஸ்' அறிக்கையை பகிரங்கப்படுத்தி அறிக்கையின் பிரதான உள்ளடக்கங்களை குறிப்பிடுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-சிறந்த முறையில் நாட்டை நிர்வகிக்க வேண்டுமாயின் ஜனாதிபதி  சிறந்தவர்களையும், அறிவானவர்களையும் உயர் பதவிகளுக்கு நியமிக்க வேண்டும். ஜனாதிபதி பதவியேற்றவுடன் மூன்று உயர் பதவிகளுக்கு நியமனங்களை வழங்கினார். அதில் இரண்டு பதவிகளுக்கு நியமித்தவர்கள் அந்த பதவிக்கு தகுதியற்றவர்கள்.
+
+President accused of violating constitutional rights and information. Calls for removal of Ravi Seneviratne, alleged bomber incident culprit, from public safety ministry position. Criticism of appointment process and lack of transparency in investigations.
+
+🟩
+
+The president has deliberately violated the rights and information of the people.The crime can be brought against the president who violates the 38th arrangements of the Constitution. Former Parliamentarian Udaya Kammanpila said that Ravi Seneviratne, the main culprit of the bombing incident, should be immediately removed from the post of Secretary to the Ministry of Public Defense.
+
+During a media briefing held at the Pivithuru Hela Urumaya (JHU) office in Pettah, he made the above mentioned the main content of the report.
+
+In order to manage the country in the best way, the President must appoint the best and the wise to the top positions. The president presented appointments to three high positions after taking office. Those who have appointed two positions are not eligible for the post.
 
 ...
 
 [Data](articles/3e01f25b.json)
+
+[Extended Data](ext_articles/3e01f25b.ext.json)
 
 ---
 

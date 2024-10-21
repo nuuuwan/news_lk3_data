@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 13:10:02**
+As of **2024-10-21 13:24:00**
 
 ## Newspaper Stats
 
-*Scraped **50,540** Articles*
+*Scraped **50,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ economynextcom | 3,087
 dailyftlk | 3,446
 adalk | 4,689
 dailymirrorlk | 4,733
-adaderanalk | 5,986
+adaderanalk | 5,988
 tamilmirrorlk | 6,929
 virakesarilk | 8,104
-adaderanasinhalalk | 8,773
+adaderanasinhalalk | 8,774
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,540 (100.0%) of 50,540 articles have been extended.
+50,541 (100.0%) of 50,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Fire breaks out at Kudawella Fisheries Harbour
+
+*2024-10-21 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102830/fire-breaks-out-at-kudawella-fisheries-harbour) · `en`
+
+Three fishing vessels have been damaged in a fire that broke out this morning (21) in a fishing vessel that was docked at the Kudawella Fisheries Harbour.
+
+Ada Derana reporter said that a fire broke out in the multi-day fishing vessel “Tushani” and the vessel was destroyed by the fire.
+
+Another multi-day fishing vessel and a small vessel docked near that boat were also damaged due to the fire.
+
+Police suspect that the fire may have been caused by a gas leak.
+
+◼️
+
+[Data](articles/6aca8a23.json)
+
+---
+
+### Advisory issued for heavy rain, strong winds and rough seas
+
+*2024-10-21 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102829/advisory-issued-for-heavy-rain-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ level advisory for heavy rain, strong winds and rough seas for multi-day boats in the East-Central Bay of Bengal deep sea areas.
+
+In its advisory, the department said a low-pressure area is likely to form over the East-Central Bay of Bengal and adjoining north Andaman Sea in the next 24 hours. Thereafter, it is very likely to move West-Northwestwards and intensify into a depression around 0000 UTC of 22nd October and into a cyclonic storm by 23rd October, 2024 over East-central Bay of Bengal.
+
+Temporarily very strong winds of 70-80 kmph accompanied with heavy rainfalls and very rough seas are likely over above sea areas, it added.
+
+Thus, naval and fishing communities are requested to be vigilant while engaging in fishing and naval activities in the above-sea areas.
+
+◼️
+
+[Data](articles/0a9ec94c.json)
+
+---
+
+### Fire at Kudawella Fisheries Harbor
+
+*2024-10-21 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202398) · `si`
+
+Kudawella Fisheries Harbor fire damages three vessels. "Thushani" multi-day boat destroyed. Police investigating possible gas leak cause.
+
+🟩
+
+Three fishing vessels were damaged this morning of a fire that had been parked at Kudawella Fisheries Harbor today (21).
+
+A fire has erupted in "Thushani" multi-day fishing vessel, our correspondent said that the vessel was completely destroyed by fire.
+
+Another multi-day fishing vessel and small-scale vessel was damaged due to the fire.
+
+Police suspect that this fire may be a leak.
+
+◼️
+
+[Data](articles/62e142ad.json)
+
+[Extended Data](ext_articles/62e142ad.ext.json)
+
+---
 
 ### Defamatory posters against Mannar HC Judge: Main suspect evading arrest
 
@@ -2291,61 +2351,5 @@ Sri Lanka have scored 62 runs for the 3 wickets in 9 overs.
 [Data](articles/871065d9.json)
 
 [Extended Data](ext_articles/871065d9.ext.json)
-
----
-
-### The  Brazen Abduction and  Brutal Murder of Militant Turned Journalist “Taraki” Sivaram.
-
-*2024-10-20 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84927) · `en`
-
-President Anura Kumara Dissanayake frequently emphasised during his election campaign that he would re-open investigations into incidents  of colossal fraud,mass murder and assassinations where the course of justice was  allegedly obstructed or thwarted by those in power in the past. Recent happenings indicate that president Dissanayake and his Government are serious about their campaign promises and  are initiating follow up action in this regard. With parliamentary polls   due next month, electoral  prospects for the ruling National Peoples Power(NPP) Govt would be brighter if it  can demonstrate, that it is taking stern  action to ensure justice will be done in these matters.
-
-...
-
-[Data](articles/b93eae9c.json)
-
-[Extended Data](ext_articles/b93eae9c.ext.json)
-
----
-
-### The JVP’s commendable evolution on matters economic has not been paralleled in the ethnic problem arena. The NPP was remarkably reticent on the subject in its  presidential manifesto.  Behind a non-racist façade, the JVP is as regressive about the Tamil question today, as it was in the past.
-
-*2024-10-20 20:58:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84942) · `en`
-
-“The future is cloth waiting to be cut.” Seamus Heaney (The Burial at Thebes)
-
-The point had been made often enough. Without a Gotabaya Rajapaksa presidency, there wouldn’t have been an Anura Kumara Dissanayake presidency. For the NPP/JVP to go from 3 percent to 42 percent in four plus years, the system had to be broken from within by the very leaders entrusted with its care by a majority of voters. Gotabaya Rajapaksa achieved that feat in ways inconceivable even by his most stringent critics (who in their sane minds could have imagined the fertiliser fiasco?).
-
-But President Dissanayake’s victory has two other fathers: Ranil Wickremesinghe and Sajith Premadasa. President Dissanayake won because the competition was so uninspiring. It was more a case of Sajith Premadasa and Ranil Wickremesinghe losing rather than President Dissanayake winning. While the NPP’s rise was meteoric, President Dissanayake failed to gain 50 percent mark of the vote. He is Sri Lanka’s first minority president.
-
-...
-
-[Data](articles/ae03f339.json)
-
-[Extended Data](ext_articles/ae03f339.ext.json)
-
----
-
-### Sri Lanka is the target of Sri Lanka after the rain
-
-*2024-10-20 20:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202380) · `si`
-
-Sri Lanka wins cricket match against West Indies due to rain. Match reduced from 50 overs to 37. Sri Lanka scores 232/7, West Indies 185/4. Rain stops play after first day.
-
-🟩
-
-Sri Lanka and Tourism. The first one day cricket match held at Pallekele has been stopped due to the rainfall.
-
-The West Indies was banding first when the rain was bowled first and scored 185 runs for the loss of 4 wickets in 4 overs.
-
-However, for more than two hours, the rain decided to reduce the number of overs of the match and decided to bat Sri Lanka.
-
-Accordingly, Sri Lanka has won 232 runs in 37 overs.
-
-◼️
-
-[Data](articles/96b202c6.json)
-
-[Extended Data](ext_articles/96b202c6.ext.json)
 
 ---

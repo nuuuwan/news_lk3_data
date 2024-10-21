@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 15:59:12**
+As of **2024-10-21 16:14:05**
 
 ## Newspaper Stats
 
-*Scraped **50,563** Articles*
+*Scraped **50,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 409
 bbccomsinhala | 507
 colombotelegraphcom | 507
-islandlk | 3,009
+islandlk | 3,011
 economynextcom | 3,087
 dailyftlk | 3,446
 adalk | 4,691
@@ -20,17 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,989
 tamilmirrorlk | 6,931
 virakesarilk | 8,111
-adaderanasinhalalk | 8,780
+adaderanasinhalalk | 8,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,563 (100.0%) of 50,563 articles have been extended.
+50,563 (100.0%) of 50,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### උද්ධමනය ඍණ වෙයි
+
+*2024-10-21 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202405) · `si`
+
+ජාතික පාරිභෝගික මිල දර්ශකය මත පදනම් වූ මෙරට වාර්ෂික උද්ධමනය 2024 සැප්තැම්බර් මාසයේදී -0.2% දක්වා අඩු වී ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
+
+2024 අගෝස්තු මාසයේ දී 2.3% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 සැප්තැම්බර් මාසයේ දී  0.5%ක් දක්වා අඩු වී ඇත.
+
+එමෙන්ම, 2024 අගෝස්තු මාසයේ දී 0.2% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 සැප්තැම්බර් මාසයේ දී -0.7% ක් දක්වා අඩු වී ඇත.
+
+◼️
+
+[Data](articles/8c211b25.json)
+
+---
+
+### Visit to Brussels and quiet diplomacy with the Soviets in Colombo
+
+*2024-10-21 15:31:00* · [`islandlk`](http://island.lk/visit-to-brussels-and-quiet-diplomacy-with-the-soviets-in-colombo/) · `en`
+
+Person identified as KGB agent at embassy sent off sans publicity
+
+(Excerpted from the autobiography of MDD Pieris, Secretary to the Prime Minister)
+
+At the end of the (London security) course, High Commissioner Tilak Gooneratne, who had an appointment in the European Common Market in Brussels with Sir Christopher Soames, External Commissioner for the European Common Market, took me along with him. He knew Sir Christopher, who was the son-in-law of Sir Winston Churchill, quite well and was keen that I should meet him, and also see at first hand certain common market arrangements.
+
+...
+
+[Data](articles/263f1000.json)
+
+---
+
+### Trump creates an even bigger threat than “immigrant vermin” – The Enemy Within
+
+*2024-10-21 15:26:00* · [`islandlk`](http://island.lk/trump-creates-an-even-bigger-threat-than-immigrant-vermin-the-enemy-within/) · `en`
+
+The American economy is the envy of the world – The Economist, Oct. 19, 2024
+
+The November presidential election, a mere two weeks away, still remains deadlocked.
+
+The Trump campaign keeps gloating that Trump has the confidence of the American electorate on two key issues – management of the economy and immigration.
+
+This week’s Economist follows its headline as shown above with the sub-head that the American economy has left the economies of other rich countries in the dust.
+
+Economists agree that during the last four years, the economy has performed remarkably well. The Biden/Harris economy has achieved a record job growth of 15.7 million new jobs within four years, the highest new job growth for a presidential term in history. Wages are increasing faster than prices – the annual inflation rate is now at 2.2%. The Federal Reserve Board reduced interest rates by half a point in September, and is expected to reduce rates another half point in November.
+
+...
+
+[Data](articles/cfe8d75d.json)
+
+---
 
 ### Deaths reveal in Chilaw II
 
@@ -2319,63 +2371,5 @@ De Zoysa is also experienced in the tourism and hospitality sector taking over a
 [Data](articles/eb35d832.json)
 
 [Extended Data](ext_articles/eb35d832.ext.json)
-
----
-
-### Alliance Finance and Regen Solar unite to power greener future with sustainable energy solutions
-
-*2024-10-21 02:43:13* · [`dailyftlk`](https://www.ft.lk/business/Alliance-Finance-and-Regen-Solar-unite-to-power-greener-future-with-sustainable-energy-solutions/34-768217) · `en`
-
-Regen Solar MD/CEO Dr. Lakmal Fernando (fourth from left) with Alliance Finance Company Deputy Chairman/Managing Director Romani De Silva (fifth from left) at the signing
-
-In a bid to promote sustainability across their entire organisation, Alliance Finance Company PLC (AFC) recently partnered with Regen Renewables Ltd. to implement a solar power initiative across its branch network. This collaboration will see the commissioning of 173kW of solar power through Regen Solar’s innovative and eco-friendly solutions.
-
-...
-
-[Data](articles/79387a6a.json)
-
-[Extended Data](ext_articles/79387a6a.ext.json)
-
----
-
-### All-time record price for Uplands Tea Factory
-
-*2024-10-21 02:40:29* · [`dailyftlk`](https://www.ft.lk/business/All-time-record-price-for-Uplands-Tea-Factory/34-768216) · `en`
-
-Uplands Tea Factory located in Gampola, Kandy established yet another record price of Rs. 2,800 per kilogram for a PKE1 grade and Rs. 2,200 per kilo for a BOP grade in the medium grown category, at the auction held on 15 and 16 October.
-
-This surpassed their previous record price of Rs. 2,550 for PKE1 grade, reflecting a significant achievement.
-
-Uplands Tea Factory is owned by P. Sawarimuttu Retti & Sons Ltd., and the team is keen on producing premium quality teas for weekly tea auctions which was bought for premium blends by the buyer community.
-
-This invoice of tea was purchased by M/S Shan Teas Ltd., and the sale was conducted by Mercantile Produce Brokers Ltd.
-
-◼️
-
-[Data](articles/f40ee61e.json)
-
-[Extended Data](ext_articles/f40ee61e.ext.json)
-
----
-
-### An increase in election complaints
-
-*2024-10-21 02:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைப்பாடுகள்-அதிகரிப்பு/175-345746) · `ta`
-
-Election complaints surge: 401 filed, 309 resolved, 92 pending. No violence reports.
-
-🟩
-
-The Elections Commission has announced that 401 complaints have been received so far.
-
-However, it has been stated that no complaints have been made on election violence.
-
-So far, 309 complaints have been resolved in the general election and 92 complaints are being taken, the Elections Commission said the Commission said.. (A)
-
-◼️
-
-[Data](articles/f13fe6f3.json)
-
-[Extended Data](ext_articles/f13fe6f3.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 08:25:27**
+As of **2024-10-21 08:03:35**
 
 ## Newspaper Stats
 
-*Scraped **50,483** Articles*
+*Scraped **50,478** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 409
+dbsjeyarajcom | 408
 bbccomsinhala | 505
 colombotelegraphcom | 507
 islandlk | 3,007
@@ -17,92 +17,20 @@ economynextcom | 3,084
 dailyftlk | 3,446
 adalk | 4,681
 dailymirrorlk | 4,733
-adaderanalk | 5,977
+adaderanalk | 5,976
 tamilmirrorlk | 6,908
 virakesarilk | 8,098
-adaderanasinhalalk | 8,765
+adaderanasinhalalk | 8,762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,478 (100.0%) of 50,483 articles have been extended.
+50,478 (100.0%) of 50,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
-
-### ව්‍යාජ දුරකථන ඇමතුමක් පිළිබඳ පොලීසියෙන් දැනුම්දීමක්
-
-*2024-10-21 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202389) · `si`
-
-ව්‍යාජ දුරකථන ඇමතුම් මගින් වංචා සහගත ලෙස මුදල් ලබා ගැනීමේ සිදුවීමක් සම්බන්ධව පොලීසිය මහජනතාවට අනතුරු ඇඟවීමක් කර තිබේ.
-
-එහි සඳහන්ව ඇත්තේ දිවයිනේ විවිධ ප්‍රදේශවල ලංකා ගමනාගමන මණ්ඩලයේ ඩිපෝ 09කට පමණ ව්‍යාජ දුරකථන ඇමතුම් ලබා දී එම ඩිපෝවල කළමනාකරු, ජ්‍යෙෂ්ඨ නිලධාරියෙකු හෝ ඔවුන්ගේ පවුලේ ඥාතීන් යම්කිසි ස්ථානයක හදිසි ආපදාවකට ලක්ව ඇති බවට දුරකථන ඇමතුම් ලැබී ඇති බවය.
-
-ඉන් පසු ඔවුන් පැමිණි වාහනය අලුත්වැඩියා කර ගැනීම සඳහා රුපියල් 10,000ක් වැනි හදිසි මුදලක් ඊෂිකෑෂ් ක්‍රමයට එවන ලෙස අදාළ පාර්ශවයන් වෙතට දැනුම් දී ඇති බවත් හෙළිව තිබේ.
-
-මේ පිළිබඳව විවිධ පොලිස් ස්ථාන වෙත පැමිණිලි ලැබී ඇති බවද එහිදී ඇතැම් ස්ථාන මගින් මුදල් ලබා දීම් සිදුකර ඇති බවට තොරතුරු වාර්තා වී ඇතැයි ද පොලීසිය පවසයි.
-
-පොලීසිය සඳහන් කර ඇත්තේ ඇතැම් විට මෙහිදී දුරකථන ඇමතුම් ලබා දෙන පුද්ගලයින් ගරාජයක හිමිකරුවෙකු නැතහොත් එම ස්ථානයට පැමිණි පොලිස් නිලධාරියෙකු හෝ වෙනත් විශේෂිත පුද්ගලයෙකු ලෙස හඟවමින් සැලසුම් සහගත ලෙස උපක්‍රමශීලීව කථා කරමින් මෙම මුදල් වංචා කිරීම් සිදුකරන බවය.
-
-...
-
-[Data](articles/b68a3f5d.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-10-21 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102819/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern, North-western and Northern provinces and in Trincomalee district.
-
-Heavy showers above 100 mm are likely at some places in Southern province.
-
-Showers or thundershowers will occur at several places in the other areas of the island during the evening or night and fairly heavy showers above 50 mm are likely at some places, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers
-
-◼️
-
-[Data](articles/fa9914ca.json)
-
----
-
-### මාරක රිය අනතුරක් - 17 හැවිරිදි තරුණයාට දිවි අහිමි වෙයි
-
-*2024-10-21 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202388) · `si`
-
-රාගම, තේවත්ත දඹුව හන්දිය අතුරු මාර්ගයේ දී තේවත්ත දෙස සිට දඹුව හන්දිය දෙසට ධාවනය වූ යතුරු පැදියක් පැදිකරුට පාලනය කර ගත නොහැකිව මාර්ගයෙන් ඉවතට පැන විදුලි රැහැන් කණුවක ගැටී අනතුරක් සිදුව ඇත.
-
-අනතුරින් බරපතළ තුවාල ලැබූ පැදිකරු රාගම රෝහලට ඇතුළත් කිරීමේදී මිය ගොස් ඇති බව පොලීසිය පවසයි.
-
-මෙලෙස මියගොස් ඇත්තේ අවුරුදු 17 ක් වයසැති කැන්දලියද්දපාලුව, රාගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-◼️
-
-[Data](articles/18f42de0.json)
-
----
-
-### දියේ ගිලී තරුණයින් දෙදෙනෙක් මරුට
-
-*2024-10-21 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202387) · `si`
-
-කහටගස්දිගිලිය, ඉහළ කංහිදිගම වැවේ දියනෑමට ගිය තරුණයින් දෙදෙනෙකු දියේ ගිලී මියගොස් තිබේ.
-
-මෙලෙස මියගොස් ඇත්තේ  අවුරුදු 24 හා 34 යන වයස්වල පසුවන පොල්ගහවෙල හා පූජාපිටිය ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
-
-මොවුන් දෙදෙනා ඊයේ (20) සවස තවත් දෙදෙනකු සමග මත්පැන් පානය කර ඉහළ කංහිදිගම වැවේ දියනෑමට ගොස් සිටියදී මෙලෙස දියේ ගිලී ඇති බව විමර්ශන වලදී අනාවරණය වී ඇත.
-
-මෘත ශරීර පශ්චාත් මරණ පරීක්ෂණ සඳහා කහටගස්දිගිලිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර කහටගස්දිගිලිය පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/241d2be0.json)
-
----
 
 ### Today is mm. Tight over 100
 
@@ -889,22 +817,6 @@ Sri Lanka have scored 62 runs for the 3 wickets in 9 overs.
 [Data](articles/871065d9.json)
 
 [Extended Data](ext_articles/871065d9.ext.json)
-
----
-
-### The JVP’s commendable evolution on matters economic has not been paralleled in the ethnic problem arena. The NPP was remarkably reticent on the subject in its  presidential manifesto.  Behind a non-racist façade, the JVP is as regressive about the Tamil question today, as it was in the past.
-
-*2024-10-20 20:58:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84942) · `en`
-
-“The future is cloth waiting to be cut.” Seamus Heaney (The Burial at Thebes)
-
-The point had been made often enough. Without a Gotabaya Rajapaksa presidency, there wouldn’t have been an Anura Kumara Dissanayake presidency. For the NPP/JVP to go from 3 percent to 42 percent in four plus years, the system had to be broken from within by the very leaders entrusted with its care by a majority of voters. Gotabaya Rajapaksa achieved that feat in ways inconceivable even by his most stringent critics (who in their sane minds could have imagined the fertiliser fiasco?).
-
-But President Dissanayake’s victory has two other fathers: Ranil Wickremesinghe and Sajith Premadasa. President Dissanayake won because the competition was so uninspiring. It was more a case of Sajith Premadasa and Ranil Wickremesinghe losing rather than President Dissanayake winning. While the NPP’s rise was meteoric, President Dissanayake failed to gain 50 percent mark of the vote. He is Sri Lanka’s first minority president.
-
-...
-
-[Data](articles/ae03f339.json)
 
 ---
 
@@ -2251,5 +2163,135 @@ Fourteen grams of heroin was seized by the police by the police.
 [Data](articles/14bdcd5f.json)
 
 [Extended Data](ext_articles/14bdcd5f.ext.json)
+
+---
+
+### Increasing enemy scams
+
+*2024-10-20 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196682) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Rising enemy scams: Avoid sharing personal info online, especially on social media. Contact banks for email transaction issues. Be cautious of fake websites. Many arrests made recently in Sri Lanka targeting financial fraud. Stay vigilant about protecting your bank accounts.
+
+🟩
+
+If there are any problems during e -mail transactions, it is necessary to contact the bank involved and ensure security.
+
+It is very important to avoid accessing fake website connections that are shared through social websites, while sharing the passage provided with third parties for the safety of bank accounts.
+
+This is because in many parts of the country, a large number of foreign nationals have been arrested in connection with enemy financial fraud within this month.
+
+On the 13th, 31 Chinese citizens have been arrested for suspicious accommodation in Kandy and Ethulkotte.
+
+126 Chinese citizens, 02 Vietnam citizens and Thailand citizen were arrested on the 12th of this month.
+
+Investigations have been carried out by the Criminal Investigation Department regarding 161 foreigners who were arrested in these areas only in two days, police said.
+
+On the 6th of last week, 30 Chinese, 4 Indians and 6 Thailand citizens were arrested during a special search operation in two other areas in Hangwella.
+
+...
+
+[Data](articles/87e3e0b9.json)
+
+[Extended Data](ext_articles/87e3e0b9.ext.json)
+
+---
+
+### 31 youths arrested for carrying drugs to party
+
+*2024-10-20 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202368) · `si`
+
+31 youths arrested for drug possession at Nuwara Eliya party. Police seized ice, alcohol, and cannabis. Attendees came from across the island.
+
+🟩
+
+31 youths have been arrested for a Facebook party planned to be held at the Nuwara Eliya public resort.
+
+The Nuwara Eliya Headquarters Police said that they were taken into custody including ice, alcohol and cannabis they had.
+
+The moon is that young youths have come to this party from various parts of the island.
+
+◼️
+
+[Data](articles/2bf1143e.json)
+
+[Extended Data](ext_articles/2bf1143e.ext.json)
+
+---
+
+### India to be found in New Zealand
+
+*2024-10-20 13:19:10* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තය-හමුවේ-ඉන්දියාව-ලද-පරාජය/9-412569) · `si`
+
+New Zealand defeats India in cricket test match. India bats first, scores 92 runs. New Zealand chases 107, wins by 8 wickets. Second innings: India 462/10, New Zealand 402/10.
+
+🟩
+
+Tourist New Zealand beat India by eight wickets in the first Test match against the Indian team.
+
+Chasing a target of 107, New Zealand won the match with 110 runs.
+
+Batting first, India scored 46 legs and innerground 46 runs for the first innings of New Zealand scored 402 runs for the first innings.
+
+The second innings, the Indian team scored 462 runs for the loss of 462 runs.
+
+◼️
+
+[Data](articles/dd8a702a.json)
+
+[Extended Data](ext_articles/dd8a702a.ext.json)
+
+---
+
+### We're making a bold opposition - Dilith
+
+*2024-10-20 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202367) · `si`
+
+Here's a 200-character summary:
+
+
+
+Dilith Jayaweera emphasizes building strong opposition through courage and strategic politics. He aims to protect borders and lead boldly, even without being PM. The opposition should focus on stopping wrong actions rather than seeking leadership roles.
+
+🟩
+
+Dilith Entrepreneurship Dilith Jayaweera says that a courage and strong opposition can only build a strong and strong opposition can only be built to the Almighty.
+
+"The exangerative power was built with a vision. We wanted to protect our border love that could be lost from us. We're going to a strategic political journey. We are boldly, boldly, boldly. We will not be the Prime Minister in this election, as a bold opposition. If we are right, we are trying to stop the work that can stop when he is wrong.
+
+"What is your happiness in this country to be the Opposition Leader in this country? The gas tank is the Gas Tank Ravi Karunanayake. He is running around the country to make a national list MP. This medal is the medal of the nation of the people's neck. "
+
+◼️
+
+[Data](articles/d63d7417.json)
+
+[Extended Data](ext_articles/d63d7417.ext.json)
+
+---
+
+### Salary Increase in Budget February
+
+*2024-10-20 12:55:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-பட்ஜெட்டில்-சம்பள-அதிகரிப்பு/175-345719) · `ta`
+
+President Anura Kumara Dissanayake announces plans to increase public servant salaries in upcoming February-March budget. Focuses on economic stability and education support. Emphasizes need for strong governance and political leadership.
+
+🟩
+
+We will file an interim budget (budget) in December. The new budget will be filed by February-March. President Anura Kumara Dissanayake said on Saturday (19) at Tangalle that he would focus on increasing the salary of public servants in the budget.
+
+The President said this while addressing a meeting of the National People's Power in the inauguration of the parliamentary elections to be held this year.
+
+Initially, stabilizing the economy was our biggest challenge. We have done it. We are focusing on paying school students in the proposed budget.
+
+Our country needs new political culture. We have the main responsibility to create it. We, the leaders of the government, must express their commitment. Have a strong state. He said that we must be strong in Parliament, and we must be strong with the attributes of the team we represent, and we are responsible for taking this country gradually on the path of success.
+
+◼️
+
+[Data](articles/34ae3159.json)
+
+[Extended Data](ext_articles/34ae3159.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 15:11:19**
+As of **2024-10-21 15:23:47**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ adaderanasinhalalk | 8,780
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,559 (100.0%) of 50,560 articles have been extended.
+50,560 (100.0%) of 50,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
 
-### හලාවත අබිරහස ගැන මරණ පරීක්ෂණයේ දී හෙළිවෙයි
+### Deaths reveal in Chilaw II
 
 *2024-10-21 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202404) · `si`
 
-හලාවත සිංහපුර ප්‍රදේශයේ ගිනිගත් දෙමහල් නිවසකින් හමුවූ මරණ සම්බන්ධයෙන් අද (21) පශ්චාත් මරණ පරීක්ෂණය සිදුකළේය.
+The post mortem was conducted today regarding the deaths in Sinhapura Singupura, Chilaw.
 
-එහිදී අනාවරණය වුයේ මියගිය කාන්තාවගේ සහ දියණියගේ ගෙල කපා ඝාතනය සිදුකර පසුව සිරුරු ගිනි තබා ඇති බවය.
+It was revealed that the bodies were set on fire after the deceased woman and daughter were cut.
 
 ◼️
 
 [Data](articles/54afae4a.json)
+
+[Extended Data](ext_articles/54afae4a.ext.json)
 
 ---
 

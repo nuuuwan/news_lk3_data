@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 22:58:16**
+As of **2024-10-21 23:10:40**
 
 ## Newspaper Stats
 
-*Scraped **50,628** Articles*
+*Scraped **50,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,704
 dailymirrorlk | 4,733
 adaderanalk | 5,998
 tamilmirrorlk | 6,943
-virakesarilk | 8,126
+virakesarilk | 8,127
 adaderanasinhalalk | 8,789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,627 (100.0%) of 50,628 articles have been extended.
+50,628 (100.0%) of 50,629 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,28 @@ The Tamil people have been a national ethnic problem for the past 75 years. The 
 [Data](articles/04f0bbed.json)
 
 [Extended Data](ext_articles/04f0bbed.ext.json)
+
+---
+
+### சார் - திரைப்பட விமர்சனம்
+
+*2024-10-21 22:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196808) · `ta`
+
+நடிகர்கள் : விமல், சாயா தேவி, சரவணன், ரமா, எஸ். சிராஜ், சரவண சக்தி, எழுத்தாளர் ஜெயபாலன் மற்றும் பலர்.
+
+நடிகரும், இயக்குநருமான போஸ் வெங்கட் இயக்கத்தில் உருவாகி இருக்கும் இரண்டாவது திரைப்படம் 'சார்'. இந்தத் திரைப்படத்தை பார்த்து ரசித்து, இது சமூகத்திற்கு சொல்லப்பட வேண்டிய கருத்து என வியந்து தன்னுடைய நிறுவனத்தின் மூலம் இயக்குநர் வெற்றிமாறன் பார்வையாளர்களுக்கு வழங்கி இருக்கிறார்.
+
+வெற்றிமாறனின் பங்களிப்பிற்கு பிறகு படத்தைப் பற்றிய எதிர்பார்ப்பு அதிகரித்தது.‌ இந்நிலையில் இந்த திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+மாங்கொல்லை எனும் கிராமத்தில் அரசாங்க அனுசரணையுடன் இயங்கி வரும் பாடசாலையில் தலைமையாசிரியராக பணியாற்றுகிறார் பொன்னரசன்.
+
+இவரது தந்தை அண்ணாதுரையும் இந்த பாடசாலையில் தலைமை ஆசிரியராக பணியாற்றி ஓய்வு பெற்றவர் .
+
+அவர் தற்போது புத்தி பேதலித்த நிலையில் சங்கிலியால் கட்டப்பட்டிருக்கிறார். இவரது இயலாமையை ஊரில் உள்ள பாடசாலையில் படிக்கும் மாணவர்கள் தூண்டிவிட்டு வேடிக்கை பார்க்கிறார்கள்.
+
+...
+
+[Data](articles/a87b5e08.json)
 
 ---
 
@@ -850,6 +872,10 @@ In order to manage the country in the best way, the President must appoint the b
 
 *2024-10-21 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202408) · `si`
 
+Damitha Abeyratne joins Democratic National Alliance. He quits all political positions. Decision made after careful consideration.
+
+🟩
+
 Veteran Performance Mr. Damitha Abeyratne has decided to join the Democratic National Alliance.
 
 Addressing a special media briefing held today (21), she said that the decision was taken after several rounds.
@@ -867,6 +893,14 @@ She added that he would quit all the posts of the people's post and everyone who
 ### The 'Vettayan' film crew thanked the fans and the media
 
 *2024-10-21 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196802) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Vettayan" film crew thanks fans, media for success. Starring Rajinikanth, produced by Leica Productions. Mixed reviews but set box office record. Director praises Rajinikanth's courage in choosing project.
+
+🟩
 
 Starring Super Star Rajinikanth, Produced by Leica Productions, Director The. Cm. The film 'Vettayan', which was released in the film mansions worldwide on the 10th of the last day, was a collectional success.
 
@@ -894,6 +928,10 @@ I would like to express my sincere gratitude to Super Star Rajinikanth and the f
 
 *2024-10-21 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196799) · `ta`
 
+Sasikumar stars in "Freedam," directed by Satya Siva. The film follows suicide bombers planning to infiltrate India and assassinate a political leader. A debut video featuring militants questioning their presence in India has sparked fan interest and political attention.
+
+🟩
+
 The star actor Sasikumar has released a special debut video of the film 'Freedam' which plays the role of the hero of the story.
 
 Directed by director Satya Siva, Sasikumar, Lijomol Jose, Malavika Avinash, Bose Venkat, Ramesh Kanna, Sudhev Nair, 'Poyes' Manikandan.
@@ -919,6 +957,10 @@ Instead it features the title of the film.Thus the expectation of the film has i
 ### Actor Krishna's new movie inauguration
 
 *2024-10-21 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196798) · `ta`
+
+Actor Krishna stars in new film "Untitled" alongside Varsha Viswanath. Directed by debutant Appadurai Bharathiraja, it's a suspenseful action thriller produced by Don Creations. Shooting occurs in Tamil Nadu and Madurai suburbs. Special guest Sathya Siva from "Eagle" attends premiere.
+
+🟩
 
 After a short break, actor and producer Krishna was once again the hero of the unnamed new film in Chennai.
 
@@ -946,6 +988,10 @@ It is noteworthy that the film was released earlier this year, starring actor Kr
 
 *2024-10-21 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202407) · `si`
 
+Luxury vehicles seized from politician's son. Police investigation underway. Former minister denies involvement, threatens resignation if linked.
+
+🟩
+
 A unregistered manner and jeep have been recovered from a son-owner of a leader of former Minister Rohitha Abeygunawardena.
 
 The police said that they were found to have found the same vehicles according to information received by the 1997 number.
@@ -968,25 +1014,39 @@ Meanwhile, former Minister Rohitha Abeygunawardena says he will resign from poli
 
 ---
 
-### நாணய நிதியத்தின் இணக்கப்பாடுகளை பாதுகாத்துக்கொண்டு வாக்குறுதிகளை நிறைவேற்றுவது அரசாங்கத்திற்கு பாரிய சவால் -  முன்னாள் நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க
+### Massive Challenge to the Government
 
 *2024-10-21 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196796) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் இணக்கப்பாடுகளை பாதுகாத்துக்கொண்டே அரசாங்கம் மக்களுக்கு வழங்கிய வாக்குறுதிகளை நிறைவேற்ற வேண்டி இருக்கிறது. இது இந்த அரசாங்கம் எதிர்கொண்டுள்ள பாரிய சவாலாகும். அவ்வாறு செயற்படாவிட்டால் நாடு மீண்டும் வீழ்ச்சியடையும் ஆபத்து இருக்கிறது என முன்னாள் நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+Government faces massive challenge fulfilling IMF compliance promises. Former Finance Minister warns country may fall again if not met. Economic growth achieved under Ranil Wickremesinghe's leadership. New government expected to fulfill election promises without affecting economy. State income targets set for 13.1% and 15% increase. International Monetary Fund compliance crucial for economic stability.
 
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் உத்தியோகபூர்வ இல்லத்தில் திங்கட்கிழமை (21) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-2022ஆம் ஆண்டு நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடி மூலம் நிகழ்ந்த சமூக, அரசியல் நெருக்கடிக்கு ரணில் விக்ரமசிங்க தலைமையிலான எமது அரசாங்கம் மிகமிவும் அர்ப்பணிப்புடன் நாட்டின் பொருளாதாரத்தை கட்டியெழுப்பும் நடவடிக்கை ஆரம்பித்தோம். அந்த நடவடிக்கை மிகவும் கஷ்டமானதாகும்.
+The government has to fulfill the promises made by the people to protect the International Monetary Fund's compliance. This is a huge challenge faced by this government. Former Finance Minister Xihan Semasinghe said that if it does not do so, the country is in danger of falling again.
+
+He was speaking at a press conference held at the official residence of former President Ranil Wickremesinghe on Monday (21).
+
+Ranil Wickremesinghe led by Ranil Wickremesinghe for the social and political crisis in the country of 2022, we began to build the country's economy with the most dedicated.. That action is very difficult.
+
+Former President Ranil Wickremesinghe's defeat on September 21 was the most difficult decisions to build the collapse economy and create an economic transmission.
+
+The politicians had to make difficult decisions for the people. That is why the economy is in stability today.
 
 ...
 
 [Data](articles/54fe0667.json)
+
+[Extended Data](ext_articles/54fe0667.ext.json)
 
 ---
 
 ### The remaining father's skeleton will be met
 
 *2024-10-21 16:54:41* · [`adalk`](https://www.ada.lk/breaking_news/ගෙදර-එන-විට-ඉතිරි-සිය-පියාගේ-ඇට-සැකිල්ල-මපණයි/11-412591) · `si`
+
+A 70-year-old father in Kalutara, Sri Lanka, was found dead after 6 months without contact. His son in Italy discovered the body when returning home. Police investigation followed, including forensic analysis and DNA testing.
+
+🟩
 
 The son of Italy could see what he could see what was about to find out what had happened to her father for 6 months to find out what he had done to her father.. The 70-year-old father of Bhikku resort in Kalutara is living at home alone.
 
@@ -1005,6 +1065,10 @@ Don has returned to Sri Lanka on the 19th and returned home to find out what had
 ### Transport buses were removed from service
 
 *2024-10-21 16:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போக்குவரத்து-பஸ்கள்-சேவையிலிருந்து-நீக்கப்பட்டன/175-345788) · `ta`
+
+Buses removed due to incompetence. Parents concerned about school transport safety. Police crackdown on unlicensed vehicles.
+
+🟩
 
 The 12 buses and vans used to transport school students have been removed as incompetent.
 
@@ -1030,6 +1094,10 @@ It is noteworthy that the parents of schoolchildren using these vehicles express
 
 *2024-10-21 16:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகுதியற்ற-பஸ்கள்-நீக்கப்பட்டன/175-345788) · `ta`
 
+School bus removals: Unqualified drivers' incompetence leads to 12 vehicles being removed and licenses seized. Parents express concern over safety.
+
+🟩
+
 The 12 buses and vans used to transport school students have been removed as incompetent.
 
 Nuwara Eliya District Chief Vehicle Inspector Taminda Dissanayake has taken a decision on Monday (21).
@@ -1054,6 +1122,10 @@ It is noteworthy that the parents of schoolchildren who use these vehicles expre
 
 *2024-10-21 16:50:17* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-දිනය-ගැන-ගැටළුවක්---ශ්‍රේෂ්ඨාධිකරණයට-පෙත්සමක්-ඉදිරිපත්-කෙරේ/11-412590) · `si`
 
+Sri Lanka Supreme Court petition challenges Election Day constitutionality. National Alliance convener files case against holding general election on 14th as it violates constitutional norms.
+
+🟩
+
 The decision to hold general election on the 14th of this month has filed a petition to the Supreme Court demanding a decision that is contrary to the Constitution.
 
 The petition has been presented by the Convener of the Sri Lanka National Alliance today (21).
@@ -1070,6 +1142,10 @@ The petition has been presented by the Convener of the Sri Lanka National Allian
 
 *2024-10-21 16:29:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-வாக்கெடுப்பு-நாளை-விசாரணை/175-345787) · `ta`
 
+Supreme Court considers petition to suspend Vanni district referendum due to upcoming general election. Decision made on 21st day.
+
+🟩
+
 The Supreme Court today (21) decided to consider a petition filed by the Democratic National Alliance demanding an interim order to suspend a referendum for the Vanni district in the upcoming general election.
 
 ◼️
@@ -1083,6 +1159,10 @@ The Supreme Court today (21) decided to consider a petition filed by the Democra
 ### Arrested
 
 *2024-10-21 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196793) · `ta`
+
+Arrested: Suspect found digging treasure in Hewanathenna, Kurunegala. Police seized tools, explosives, and chemicals.
+
+🟩
 
 A suspect who allegedly excavated treasure in Hewanathenna area, which belongs to the Melsiripura police division, Kurunegala, has been arrested on Sunday (20), Melsiripura police said.
 
@@ -1126,6 +1206,10 @@ Issued in response to the media reports alleging that vehicles provided to ex-Pr
 
 *2024-10-21 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196790) · `ta`
 
+Heroes Day preparations underway at Vannivilangulam Knights Home, Mullaitivu District, 2024.11.27. Organized by Wanniwilangulam Hero Home Working Committee, Task Force responsible for arrangements.
+
+🟩
+
 The work of the Heroes Day is being carried out at the Vannivilangulam Knights Home in the Mullaitivu District, 2024.11.27.
 
 This difficult task has been commenced under the arrangement of the Wanniwilangulam Hero Home Home Working Committee.
@@ -1143,6 +1227,14 @@ It is noteworthy that this year, the work of the Heroes' Day, 2024.11.27, all th
 ### Livestock Health Certificate is essential when carrying pigs
 
 *2024-10-21 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196795) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Livestock Health Certificate now mandatory for pig transport due to Porcine Reproductive and Respiratory Syndrome outbreak. Farm owners must obtain certificate from vet before moving pigs. Violators face strict penalties.
+
+🟩
 
 The Department of Livestock Production and Health has decided to make it mandatory for cattle health certificates while transporting pigs.
 
@@ -1165,6 +1257,10 @@ Carrying pigs without proper health certificate is strictly prohibited. This wil
 ### Five women who committed adultery are fined Rs. 500
 
 *2024-10-21 16:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விபசாரம்-செய்த-ஐந்து-பெண்களுக்கு-ரூ-500-அபராதம்/76-345785) · `ta`
+
+Women fined Rs. 500 for adultery in Nuwara Eliya court. Five women aged 40-50 arrested for operating massage center. Manager and owner also charged.
+
+🟩
 
 Nuwara Eliya Magistrate Prabhupika Lanka on Monday (21) imposed a fine of Rs.
 
@@ -1232,6 +1328,10 @@ There was a net foreign outflow of 109 million rupees. (Colombo/Oct21/2024)
 
 *2024-10-21 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202406) · `si`
 
+Sri Lanka Supreme Court petition challenges election timing constitutionality. Petitioner argues nomination deadline violates laws. Requests court intervention to ensure democratic process integrity.
+
+🟩
+
 The decision to be held on November 14rd, a petition has been filed in the Supreme Court to hold a decision that is contrary to the Constitution.
 
 Convener of the Sri Lanka National Organization of the Sri Lanka National Organization as well as a civil organization activist. M. Priyantha Herath has presented the petition.
@@ -1256,6 +1356,10 @@ The five-week period will be completed on November 11 since the end of the nomin
 
 *2024-10-21 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196788) · `ta`
 
+School transport crisis: 12 buses/vans removed due to safety concerns. Parents arrested after complaints. Private vehicles now handle transportation in affected areas.
+
+🟩
+
 12 buses and vans used to transport school children in Nuwara Eliya district have been removed from service this morning.
 
 Nuwara Eliya District Chief Vehicle Inspector Taminda Dissanayake has taken this action.
@@ -1279,6 +1383,10 @@ Parents of students who traveled to school in these vehicles have been taken int
 ### 'You are not my king "
 
 *2024-10-21 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196792) · `ta`
+
+Australian Senator rejects British monarchy, calls Charles "not my king" during his visit. Security removes Indigenous representative Lydia Thorpe after she protests against royal treatment. Debate over Australia's future as republic intensifies.
+
+🟩
 
 An Australian Senator has shouted that you are not my monarch for British King Charlsin who has visited Australia.
 
@@ -2313,33 +2421,5 @@ The four other suspects were ordered to be remanded till November 4.
 [Data](articles/d6a5adba.json)
 
 [Extended Data](ext_articles/d6a5adba.ext.json)
-
----
-
-### What happened to the elephant, which is an hour of work for an hour
-
-*2024-10-21 11:40:44* · [`adalk`](https://www.ada.lk/breaking_news/පැයකට-වැඩිකාලයක්-වන-අලියා-ග්‍රහණයේසිටි--පුද්ගයකුට-සිදුවූ-දේ/11-412583) · `si`
-
-Elephant attacks man in Sri Lanka. Victim, 65, killed while protecting palm trees. Residents claim elephant harmed locals. Incident occurred near Dambulla.
-
-🟩
-
-Sigiriya police say that a person who is traveling to protect the palms of the Alakolawewa, Atlawewewa, Alakolawewa, Alakolawewa in Aklakewewa, Alakolawewa and Alakolawewa area.
-
-The role has been identified from Hatton to Hatta, Dambulla, a rental workers in Dambulla
-
-The deceased was a sixty-five-year-old inspiration, police said that he was about sixty-five-year-old information.
-
-The Elephant's assault is to be assaulted by the lament of the dead and hearing the lamentation of the dead and hearing the dies of the deceased.He noted that he lifted and lifted up a nearby tree
-
-Residents point out that the elephant was unable to save the person who was more than an hour and was more an hour.
-
-The elephant has shown that the elephant is harming the people of the area and the people of the area has been severely damaged in the area.
-
-...
-
-[Data](articles/2013b3b6.json)
-
-[Extended Data](ext_articles/2013b3b6.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 19:39:18**
+As of **2024-10-21 19:58:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,786
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,610 (100.0%) of 50,612 articles have been extended.
+50,612 (100.0%) of 50,612 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -812,43 +812,53 @@ The five-week period will be completed on November 11 since the end of the nomin
 
 ---
 
-### 12 பாடசாலை போக்குவரத்து பஸ்கள், வேன்கள் சேவையில் இருந்து நீக்கம்
+### 12 school transport buses, removal from vans service
 
 *2024-10-21 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196788) · `ta`
 
-நுவரெலியா மாவட்டத்தில் பாடசாலை மாணவர்களை ஏற்றிச் செல்வதற்காக பயன்படுத்தப்பட்ட 12 பஸ்கள் மற்றும் வேன்கள்  இன்று திங்கட்கிழமை (21) காலை சேவையிலிருந்து நீக்கப்பட்டுள்ளன.
+12 buses and vans used to transport school children in Nuwara Eliya district have been removed from service this morning.
 
-நுவரெலியா மாவட்ட பிரதான வாகன பரிசோதகர் தமிந்த திஸாநாயக்க இந்த நடவடிக்கையை  எடுத்துள்ளார்.
+Nuwara Eliya District Chief Vehicle Inspector Taminda Dissanayake has taken this action.
 
-மஸ்கெலியா, சாமிமலை, பொகவந்தலாவை, நோர்டன் பிரிட்ஜ், தலவாக்கலை, கொட்டகலை உள்ளிட்ட பகுதிகளில் இருந்து நாளாந்தம் பாடசாலை போக்குவரத்து சேவையில் ஈடுப்படும்  30 தனியார் பஸ்கள் மற்றும் வேன்களை  பரிசோதித்து  ஏதேனும் குறைபாடுகள்  உள்ளனவான என கண்டறியுமாறு ஹட்டன் பொலிஸ் போக்குவரத்து பிரிவு அதிகாரிகள் நுவரெலியா மாவட்ட பிரதான மோட்டார் வாகன பரிசோதகருக்கு பணிப்புரை விடுத்திருந்தனர்.
+Hatton Police Department officials have issued a directive to the Nuwara Eliya District Chief Motor Veteran Examiner to find out that there are 30 private buses and vans to check on the daily school transport service from Maskeliya, Samimalai, Bogawantalawa, Nordon Bridge, Talawakelle and Kotagala.
 
-அதன்படி, கடந்த 14 நாட்களாக இப்பகுதிகளில் பாடசாலை மாணவர்களை ஏற்றிச் செல்லும் வாகனங்களை  கடுமையாக பரிசோதித்த போது  அதில் 12 வாகனங்களில் குறைப்பாடுகள் கண்டறியப்பட்டுள்ளன.
+Accordingly, when the vehicles carrying school children in these areas have been severely inspected for the past 14 days, 12 vehicles have been found.
 
-இந்நிலையில், குறித்த வாகனங்கள் சேவையிலிருந்து நீக்கப்பட்டு, அவற்றின் வாகன வருமான அனுமதிப்பத்திரங்கள் கைப்பற்றப்பட்டுள்ளன.
+In this case, the vehicles have been removed from the service and their vehicle income permits have been seized.
 
-...
+Parents of students who traveled to school in these vehicles have been taken into custody after lodging a complaint with the police.
+
+◼️
 
 [Data](articles/ac0a06dc.json)
 
+[Extended Data](ext_articles/ac0a06dc.ext.json)
+
 ---
 
-### 'நீங்கள் எனது மன்னரில்லை"- அவுஸ்திரேலியாவிற்கு விஜயம் மேற்கொண்டுள்ள சார்ல்ஸின் நிகழ்வில்  கோசமெழுப்பிய பெண் செனெட்டர்
+### 'You are not my king "
 
 *2024-10-21 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196792) · `ta`
 
-அவுஸ்திரேலியாவிற்கு விஜயம் மேற்கொண்டுள்ள பிரித்தானிய மன்னர் சார்ல்சினை பார்த்து நீங்கள் எனது மன்னரில்லை என அவுஸ்திரேலிய செனெட்டர் ஒருவர் கோசமிட்டுள்ளார்.
+An Australian Senator has shouted that you are not my monarch for British King Charlsin who has visited Australia.
 
-அவுஸ்திரேலிய விஜயத்தி;ன் இரண்டாவது நாளான இன்று அவுஸ்திரேலிய நாடாளுமன்றத்தில் சார்ல்ஸ் உரையாற்றிய பின்னர் சுயேட்சை கட்சியின் செனெட்டர் ஒருவர் நீங்கள் எனது மன்னரில்லை என கோசம்எழுப்பியுள்ளார்.
+Today, the second day of Australia's visit to the Australian Parliament, Charles has said that you are not my king.
 
-அவுஸ்திரேலியாவின் பூர்வீககுடிகளான அபோர்ஜினிகளை பிரதிநிதித்துவம் செய்யும் லிடியா தோர்ப்பே இவ்வாறு சத்தமிட்டு;ள்ளார். அவரை பாதுகாப்பு ஊழியர்கள் வெளியேற்றியுள்ளனர்.
+Lydia Thorbe, who represents the natives of Australia, is shouting.. He has been evicted by security staff.
 
-அவுஸ்திரேலியாவின் பூர்வீககுடிகளை பிரிட்டன் இனப்படுகொலைக்கு உட்படுத்தியது என சத்தமிட்ட செனெட்டர் இது உங்களது நிலமில்லை நீங்கள் எங்கள் மன்னரும் இல்லை என தெரிவித்துள்ளார்.
+The Senator, who shouted that Britain has subjected to Australia's natives, said, "You are not our king."
 
-இதன் பின்னர் பிபிசிக்கு கருத்து தெரிவித்துள்ள செனெட்டர் மன்னர் சார்ல்சிற்கு தெளிவான செய்தியை தான் தெரிவிக்க விரும்பியதாக குறிப்பிட்டுள்ளார்.
+After this, Senator King Charles, who later commented to the BBC, said he wanted to make a clear message.
 
-...
+If you want to be sovereignty, you must be this land, and we are not prepared to bow down to the royalists about the peace treaty with the natives of Australia.
+
+Charles is the head of the Commonwealth, Australia, but debates on the Republic have intensified in Australia.
+
+◼️
 
 [Data](articles/7054a466.json)
+
+[Extended Data](ext_articles/7054a466.ext.json)
 
 ---
 
@@ -989,6 +999,20 @@ Economists agree that during the last four years, the economy has performed rema
 [Data](articles/cfe8d75d.json)
 
 [Extended Data](ext_articles/cfe8d75d.ext.json)
+
+---
+
+### The possible future of foreign policy in Sri Lanka
+
+*2024-10-21 15:24:00* · [`islandlk`](http://island.lk/the-possible-future-of-foreign-policy-in-sri-lanka/) · `en`
+
+The last two weeks suggest that the NPP is moving to the centre, most probably in a bid to grapple with the challenges of a slim majority. The new government has announced that it will oppose the upcoming UNHRC resolution on Sri Lanka. This indicates that it is moving to embrace the nationalist space that was previously held by Mahinda Rajapaksa and his family, but has since bifurcated, if not trifurcated. As Harendra Dassanayake and Rajni Gamage recently observed, the Sinhala Buddhist space in Sri Lanka currently lacks a leader. The NPP appears to have caught the most vocally articulate sections of this milieu.
+
+...
+
+[Data](articles/ed6ee59d.json)
+
+[Extended Data](ext_articles/ed6ee59d.ext.json)
 
 ---
 
@@ -2255,25 +2279,5 @@ Are the terms of regional threats today. The organization has not yet been elimi
 [Data](articles/dd8551c4.json)
 
 [Extended Data](ext_articles/dd8551c4.ext.json)
-
----
-
-### Two dies after alcohol party
-
-*2024-10-21 09:59:01* · [`adalk`](https://www.ada.lk/breaking_news/මත්පැන්-සාදයෙන්-පසුව-දෙදෙනෙක්-දියේ-ගිල‍ි-මරුට/11-412580) · `si`
-
-Two men drown in Kanagama tank, Kahatagasdigiliya. Residents of Polgahawela and Pothandu. Incident occurred during alcohol party.
-
-🟩
-
-Two persons drowned in high kanagama tank in Kahatagasdigiliya. Deathters will be residents of Polgahawela and Potchandu
-
-The deceased has been in danger when he was drinking with two others yesterday.
-
-◼️
-
-[Data](articles/0a639916.json)
-
-[Extended Data](ext_articles/0a639916.ext.json)
 
 ---

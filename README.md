@@ -1,36 +1,228 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 08:03:35**
+As of **2024-10-21 08:46:57**
 
 ## Newspaper Stats
 
-*Scraped **50,478** Articles*
+*Scraped **50,489** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 408
+dbsjeyarajcom | 409
 bbccomsinhala | 505
 colombotelegraphcom | 507
 islandlk | 3,007
 economynextcom | 3,084
 dailyftlk | 3,446
-adalk | 4,681
+adalk | 4,682
 dailymirrorlk | 4,733
-adaderanalk | 5,976
-tamilmirrorlk | 6,908
+adaderanalk | 5,978
+tamilmirrorlk | 6,912
 virakesarilk | 8,098
-adaderanasinhalalk | 8,762
+adaderanasinhalalk | 8,765
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,478 (100.0%) of 50,478 articles have been extended.
+50,489 (100.0%) of 50,489 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Recovery of two more vehicles from Kandy
+
+*2024-10-21 08:18:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியிலிருந்து-மேலும்-இரண்டு-வாகனங்கள்-மீட்பு/76-345751) · `ta`
+
+Kandy CID seizes BMW, Brado jeep worth Rs 6 crore from former port minister's home. Vehicles suspected of illegal export, to be handed over to government inspector.
+
+🟩
+
+The Kandy Criminal Investigation Department (Kandy) has seized a BMW car and a Brado jeep worth about Rs 6 crore, hidden at the home of a former port minister in Anivatta, Kandy.
+
+According to information received by Senior Superintendent of Police Anurutha Bandaranaike, Kandy, a group of Criminal Investigations led by Chief Inspector Tilak Samaranayake has arrested two vehicles that were secretly hidden in the garage of the house in Anivatta.
+
+Two cars have been confiscated as no one in the house can legally claim for these two cars.
+
+Former Minister Rohitha Abeygunawardena, who is running a traffic shop in Mahiyava area in Kandy, has held a high position in the port authority during his tenure as the Port Minister.
+
+The two cars suspected of being illegally exported from the port and the cars will be handed over to the Government Inspector.
+
+◼️
+
+[Data](articles/c9ee4945.json)
+
+[Extended Data](ext_articles/c9ee4945.ext.json)
+
+---
+
+### New President Subianto announces Indonesia’s largest-ever Cabinet, with 109 members
+
+*2024-10-21 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102820/new-president-subianto-announces-indonesias-largest-ever-cabinet-with-109-members) · `en`
+
+Newly inaugurated President Prabowo Subianto announced Indonesia’s largest-ever Cabinet late Sunday, with 109 members representing his pledge for a strong government.
+
+He named his Cabinet of ministers, vice ministers and head of national agencies the “Red and White Cabinet,” referring to the colors of Indonesia’s flag.
+
+Subianto became the eighth president of Southeast Asia’s largest economy on Sunday.
+
+The Cabinet of Subianto’s predecessor, Joko Widodo, had 34 ministers and head of government agencies.
+
+Subianto has said earlier that he needs a strong administration, even though analysts said that his “fat” Cabinet would bloat the bureaucracy.
+
+“I want to create a strong government that would unite our multicultural society and diverse political interests,” Subianto said before inviting more than 100 people for interviews at his residence last week. “It must be a big coalition, and some will say my Cabinet is fat.”
+
+...
+
+[Data](articles/039b8177.json)
+
+[Extended Data](ext_articles/039b8177.ext.json)
+
+---
+
+### Shooting in Canada: Jaffna. Family member
+
+*2024-10-21 07:59:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடாவில்-துப்பாக்கிச்சூடு-யாழ்-குடும்பஸ்தர்-பலி/175-345750) · `ta`
+
+Jaffna youth killed in Canada shooting. Panchalingam Parthiban, 44, shot at home in Markham, Ontario. Incident occurred early morning. Victim died from injuries.
+
+🟩
+
+A Jaffna young man died on the spot during the shooting incident in Canada.
+
+Panchalingam Parthiban (age-44), a resident of Markam, Ontario and Canada, was trapped in the shooting incident.
+
+The shooting was carried out by unidentified persons in the early hours of this morning at his doorstep in Markham, Ontario, Canada.
+
+During this time, the person was struggling for life with serious injuries. He was reportedly dead when he arrived at the scene.
+
+◼️
+
+[Data](articles/900b70a7.json)
+
+[Extended Data](ext_articles/900b70a7.ext.json)
+
+---
+
+### Heavy rain today
+
+*2024-10-21 07:55:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பலத்த-மழை/175-345749) · `ta`
+
+Heavy rain expected across southern regions today, with over 100mm predicted in some areas. Thunderstorms forecasted for western, central, and northern districts.
+
+🟩
+
+The Department of Meteorology has forecast rainfall in many parts of the country today.
+
+According to the weather forecast, the department has announced that more than 100 mm will be reported in some parts of the Southern Province.
+
+Accordingly, the Department of Meteorology has forecast rain or thunderstorms in the Western, Sabaragamuwa, South, North Western and Trincomalee District.. (A)
+
+◼️
+
+[Data](articles/c124caf8.json)
+
+[Extended Data](ext_articles/c124caf8.ext.json)
+
+---
+
+### A notice of a fake phone call
+
+*2024-10-21 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202389) · `si`
+
+Fake phone calls scam: Police warn public about fraudulent money requests. Scammers impersonate managers, officers, or relatives claiming car repairs need Rs. 10,000. Police suspect garage owners, officers, or specialists involved. Calls often traced to drug-related activities. Public advised to report suspicious calls immediately.
+
+🟩
+
+The police have warned the public in connection with a fraudulent money incident by fake phone calls.
+
+It has said that there has been telephone calls that have been reported from a manager, senior officer, senior officer, or relatives of these depots in various parts of the country.
+
+It has been revealed that the relevant parties have been informed to send an amount of Rs. 10,000 to repair the vehicle they arrive.
+
+It has been reported that some places have been paid to some places, the police say that some places have been paid by some places.
+
+Police states that the money is being carried out using a garage owner or a police officer who has come to the scene, or another specialized person.
+
+It has been revealed that the number of these numbers deceased or the Simcordered elements of the number deceased persons or foreigners.
+
+The police say that these persons are often uncovered to be an organized act of drug addicted or related to drug trafficking.
+
+...
+
+[Data](articles/b68a3f5d.json)
+
+[Extended Data](ext_articles/b68a3f5d.ext.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-10-21 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102819/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern, North-western and Northern provinces and in Trincomalee district.
+
+Heavy showers above 100 mm are likely at some places in Southern province.
+
+Showers or thundershowers will occur at several places in the other areas of the island during the evening or night and fairly heavy showers above 50 mm are likely at some places, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers
+
+◼️
+
+[Data](articles/fa9914ca.json)
+
+[Extended Data](ext_articles/fa9914ca.ext.json)
+
+---
+
+### Woman's 17-year-old youth losing lives
+
+*2024-10-21 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202388) · `si`
+
+Motorcycle crash kills 17-year-old near Ragama. Victim rushed to hospital after collision at Talawatta Dambuwa Junction.
+
+🟩
+
+The motorcycle raided at the Talawatta Dambuwa Junction in Ragama and a motorcycle driven towards the Dambuwa Junction towards Dambuwa Junction.
+
+The bus was killed in admission to the Ragama hospital.
+
+The victim is a 17 year old resident of the Ragama area.
+
+◼️
+
+[Data](articles/18f42de0.json)
+
+[Extended Data](ext_articles/18f42de0.ext.json)
+
+---
+
+### Two killed and two youths killed
+
+*2024-10-21 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202387) · `si`
+
+Two youths drowned in Kanatagasdigiliya. Identified as residents of Polgahawela and Poomalai. Police investigating incident. Bodies at Kahatagasdigiliya police station.
+
+🟩
+
+Two youths were drowned in the upper Kanatagasdigiliya, Kahatagasdigiliya.
+
+The deceased have been identified as residents of Polgahawela and Poomalai areas where 24 and 34.
+
+Investigations have revealed that the two were alloyed with two other people yesterday evening and had drowning while they were trying to break up.
+
+The bodies have been placed at the Kahatagasdigiliya Police, while Kahatagasdigiliya police are conducting further investigations.
+
+◼️
+
+[Data](articles/241d2be0.json)
+
+[Extended Data](ext_articles/241d2be0.ext.json)
+
+---
 
 ### Today is mm. Tight over 100
 
@@ -420,6 +612,28 @@ This invoice of tea was purchased by M/S Shan Teas Ltd., and the sale was conduc
 
 ---
 
+### An increase in election complaints
+
+*2024-10-21 02:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைப்பாடுகள்-அதிகரிப்பு/175-345746) · `ta`
+
+Election complaints surge: 401 filed, 309 resolved, 92 pending. No violence reports.
+
+🟩
+
+The Elections Commission has announced that 401 complaints have been received so far.
+
+However, it has been stated that no complaints have been made on election violence.
+
+So far, 309 complaints have been resolved in the general election and 92 complaints are being taken, the Elections Commission said the Commission said.. (A)
+
+◼️
+
+[Data](articles/f13fe6f3.json)
+
+[Extended Data](ext_articles/f13fe6f3.ext.json)
+
+---
+
 ### Ranil urges voters to elect MPs with experience to handle ongoing economic crisis
 
 *2024-10-21 02:34:00* · [`islandlk`](http://island.lk/ranil-urges-voters-to-elect-mps-with-experience-to-handle-ongoing-economic-crisis/) · `en`
@@ -638,6 +852,28 @@ Unlike the traditional political parties that have operated under a “you scrat
 
 ---
 
+### President of Zearion, President
+
+*2024-10-20 22:56:43* · [`adalk`](https://www.ada.lk/breaking_news/සියරාලියොන්-ජනපති-ඒයි/11-412577) · `si`
+
+Zaralione's first foreign president Julius Mada Bie visited Sri Lanka. He arrived at Katunayake Airport with a delegation of nine others. A senior official from the Ministry of External Affairs welcomed them.
+
+🟩
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා පත් වීමෙන් පසු මෙරටට පැමිණි පළමු විදේශීය ජනාධිපතිවරයා ලෙස සියරාලියෝන් රාජ්‍යයේ ජනාධිපති ජූලියස් මාඩා බීඕ මහතා දෙදින සංචාරයක් සදහා 10/20 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය .
+
+As a delegation with him, nine others were also present.They had arrived at the Katunayake airport at 05.20 pm on Friday at Zaralione.
+
+A senior officials of the Ministry of External Affairs was present at the Bandaranaike International Airyaka to accept them.
+
+◼️
+
+[Data](articles/07b7d570.json)
+
+[Extended Data](ext_articles/07b7d570.ext.json)
+
+---
+
 ### T20 Women's World Cup to New Zealand
 
 *2024-10-20 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202383) · `si`
@@ -817,6 +1053,24 @@ Sri Lanka have scored 62 runs for the 3 wickets in 9 overs.
 [Data](articles/871065d9.json)
 
 [Extended Data](ext_articles/871065d9.ext.json)
+
+---
+
+### The JVP’s commendable evolution on matters economic has not been paralleled in the ethnic problem arena. The NPP was remarkably reticent on the subject in its  presidential manifesto.  Behind a non-racist façade, the JVP is as regressive about the Tamil question today, as it was in the past.
+
+*2024-10-20 20:58:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84942) · `en`
+
+“The future is cloth waiting to be cut.” Seamus Heaney (The Burial at Thebes)
+
+The point had been made often enough. Without a Gotabaya Rajapaksa presidency, there wouldn’t have been an Anura Kumara Dissanayake presidency. For the NPP/JVP to go from 3 percent to 42 percent in four plus years, the system had to be broken from within by the very leaders entrusted with its care by a majority of voters. Gotabaya Rajapaksa achieved that feat in ways inconceivable even by his most stringent critics (who in their sane minds could have imagined the fertiliser fiasco?).
+
+But President Dissanayake’s victory has two other fathers: Ranil Wickremesinghe and Sajith Premadasa. President Dissanayake won because the competition was so uninspiring. It was more a case of Sajith Premadasa and Ranil Wickremesinghe losing rather than President Dissanayake winning. While the NPP’s rise was meteoric, President Dissanayake failed to gain 50 percent mark of the vote. He is Sri Lanka’s first minority president.
+
+...
+
+[Data](articles/ae03f339.json)
+
+[Extended Data](ext_articles/ae03f339.ext.json)
 
 ---
 
@@ -2015,283 +2269,5 @@ Malaysia firm to build US$10mn pharma industrial zone in Sri Lanka
 [Data](articles/4170838c.json)
 
 [Extended Data](ext_articles/4170838c.ext.json)
-
----
-
-### West Indies toss the toss
-
-*2024-10-20 14:04:08* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-කොදෙව්-කණ්ඩායමට/9-412570) · `si`
-
-Here's a 200-character summary:
-
-
-
-"West Indies vs Sri Lanka EDI match: West Indies wins toss, bats first. Match scheduled for today (20)."
-
-🟩
-
-West Indies team and the Sri Lankan team will be played between the Sri Lanka EDIs today (20).
-
-West Indies won the toss and elected to bat first.
-
-◼️
-
-[Data](articles/a1279c1c.json)
-
-[Extended Data](ext_articles/a1279c1c.ext.json)
-
----
-
-### West Indies
-
-*2024-10-20 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202370) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Today: Sri Lanka vs West Indies cricket match at Pallekela. West Indies won the toss. This is their 10th ODI meeting; West Indies lead 3-6."
-
-🟩
-
-Sri Lanka and the West Indies team will be held today (20).
-
-West Indies won the toss and win the coin.
-
-The competition is scheduled to commence at Palleketa International Cricket Stadium.
-
-9 ODIs have been held between the two ODIs and the West Indies won three tournaments.
-
-◼️
-
-[Data](articles/75994ebd.json)
-
-[Extended Data](ext_articles/75994ebd.ext.json)
-
----
-
-### Kanjana to criticize the NPP government
-
-*2024-10-20 14:00:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-அரசாங்கத்தை-விமர்சிக்கும்-காஞ்சன/175-345723) · `ta`
-
-Kanjana Wijesekera criticizes NPP government over unfulfilled promises on fuel prices, electricity bills, and state sector salaries. She mentions the failure to reduce fuel prices as promised by November 1.
-
-🟩
-
-Former minister Kanjana Wijesekera has criticized the National People's Power Government for failing to fulfill its promises on fuel prices, electricity bills and state sector salaries.
-
-Wijesekera told the government that the promise made by the fuel prices would be significantly reduced by November 1.
-
-◼️
-
-[Data](articles/011291c4.json)
-
-[Extended Data](ext_articles/011291c4.ext.json)
-
----
-
-### Scholars gathered before the BRICS summit
-
-*2024-10-20 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202369) · `si`
-
-Scholars gather for BRICS summit in Beijing. Theme: Global development, civilization. Chinese Communist Party officials attend. Minister promotes global initiatives. Special bridge to be built. This year's BRICS heads meet in Kazan from 22nd to 24th.
-
-🟩
-
-The global southern scholarlural prices were held recently at Beijing, China.
-
-The theme of the Central Committee of the Communist Party and the general foregoing of the Central Committee of the Communist Party was organized by the general foregoing department and the general foregoing dialogue of the Chinese Media Group.
-
-The 16th Conference of Heads of State for the recently industrialized countries will commence in Russia on the 22nd.
-
-The global southern scholarlingscipitalic client recently held the BRICS summit recently at Beijing, China.
-
-This was organized by the Central Committee of the Central Committee of the Communist Party and the general leading of the Chinese Media Group.
-
-The Chinese Communist Party's top officials, government representatives, scholars and media representatives joined online and non-online.
-
-...
-
-[Data](articles/932793b6.json)
-
-[Extended Data](ext_articles/932793b6.ext.json)
-
----
-
-### JVP to accept the basic principle of Tamils. Not ready - Gajendrakumar Ponnambalam
-
-*2024-10-20 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196680) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Gajendrakumar Ponnambalam: JVP accepts Tamil rights principles. No alternative but unity in United Sri Lanka. Compliance crucial; apply pressure for acceptable terms.
-
-🟩
-
-To find a solution within the United Sri Lanka. There is no alternative in it. But it is important to know what kind of compliance you are going. We can exercise various pressures to come to such an acceptable compliance.
-
-◼️
-
-[Data](articles/1b06b2aa.json)
-
-[Extended Data](ext_articles/1b06b2aa.ext.json)
-
----
-
-### Arrested with heroin in Ekoda
-
-*2024-10-20 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196683) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Fisherman arrested in Ekoda for heroin possession. 38-year-old suspect from Moratuwa caught with 14g of heroin in Jaya Mawatha.
-
-🟩
-
-A fisherman belonging to the Ekoda Police Division has been arrested by a suspect in the heroin in Jaya Mawatha on Saturday (19) by the Ekoda Police.
-
-The suspect was 38 years old from Moratuwa.
-
-Fourteen grams of heroin was seized by the police by the police.
-
-◼️
-
-[Data](articles/14bdcd5f.json)
-
-[Extended Data](ext_articles/14bdcd5f.ext.json)
-
----
-
-### Increasing enemy scams
-
-*2024-10-20 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196682) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Rising enemy scams: Avoid sharing personal info online, especially on social media. Contact banks for email transaction issues. Be cautious of fake websites. Many arrests made recently in Sri Lanka targeting financial fraud. Stay vigilant about protecting your bank accounts.
-
-🟩
-
-If there are any problems during e -mail transactions, it is necessary to contact the bank involved and ensure security.
-
-It is very important to avoid accessing fake website connections that are shared through social websites, while sharing the passage provided with third parties for the safety of bank accounts.
-
-This is because in many parts of the country, a large number of foreign nationals have been arrested in connection with enemy financial fraud within this month.
-
-On the 13th, 31 Chinese citizens have been arrested for suspicious accommodation in Kandy and Ethulkotte.
-
-126 Chinese citizens, 02 Vietnam citizens and Thailand citizen were arrested on the 12th of this month.
-
-Investigations have been carried out by the Criminal Investigation Department regarding 161 foreigners who were arrested in these areas only in two days, police said.
-
-On the 6th of last week, 30 Chinese, 4 Indians and 6 Thailand citizens were arrested during a special search operation in two other areas in Hangwella.
-
-...
-
-[Data](articles/87e3e0b9.json)
-
-[Extended Data](ext_articles/87e3e0b9.ext.json)
-
----
-
-### 31 youths arrested for carrying drugs to party
-
-*2024-10-20 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202368) · `si`
-
-31 youths arrested for drug possession at Nuwara Eliya party. Police seized ice, alcohol, and cannabis. Attendees came from across the island.
-
-🟩
-
-31 youths have been arrested for a Facebook party planned to be held at the Nuwara Eliya public resort.
-
-The Nuwara Eliya Headquarters Police said that they were taken into custody including ice, alcohol and cannabis they had.
-
-The moon is that young youths have come to this party from various parts of the island.
-
-◼️
-
-[Data](articles/2bf1143e.json)
-
-[Extended Data](ext_articles/2bf1143e.ext.json)
-
----
-
-### India to be found in New Zealand
-
-*2024-10-20 13:19:10* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තය-හමුවේ-ඉන්දියාව-ලද-පරාජය/9-412569) · `si`
-
-New Zealand defeats India in cricket test match. India bats first, scores 92 runs. New Zealand chases 107, wins by 8 wickets. Second innings: India 462/10, New Zealand 402/10.
-
-🟩
-
-Tourist New Zealand beat India by eight wickets in the first Test match against the Indian team.
-
-Chasing a target of 107, New Zealand won the match with 110 runs.
-
-Batting first, India scored 46 legs and innerground 46 runs for the first innings of New Zealand scored 402 runs for the first innings.
-
-The second innings, the Indian team scored 462 runs for the loss of 462 runs.
-
-◼️
-
-[Data](articles/dd8a702a.json)
-
-[Extended Data](ext_articles/dd8a702a.ext.json)
-
----
-
-### We're making a bold opposition - Dilith
-
-*2024-10-20 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202367) · `si`
-
-Here's a 200-character summary:
-
-
-
-Dilith Jayaweera emphasizes building strong opposition through courage and strategic politics. He aims to protect borders and lead boldly, even without being PM. The opposition should focus on stopping wrong actions rather than seeking leadership roles.
-
-🟩
-
-Dilith Entrepreneurship Dilith Jayaweera says that a courage and strong opposition can only build a strong and strong opposition can only be built to the Almighty.
-
-"The exangerative power was built with a vision. We wanted to protect our border love that could be lost from us. We're going to a strategic political journey. We are boldly, boldly, boldly. We will not be the Prime Minister in this election, as a bold opposition. If we are right, we are trying to stop the work that can stop when he is wrong.
-
-"What is your happiness in this country to be the Opposition Leader in this country? The gas tank is the Gas Tank Ravi Karunanayake. He is running around the country to make a national list MP. This medal is the medal of the nation of the people's neck. "
-
-◼️
-
-[Data](articles/d63d7417.json)
-
-[Extended Data](ext_articles/d63d7417.ext.json)
-
----
-
-### Salary Increase in Budget February
-
-*2024-10-20 12:55:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-பட்ஜெட்டில்-சம்பள-அதிகரிப்பு/175-345719) · `ta`
-
-President Anura Kumara Dissanayake announces plans to increase public servant salaries in upcoming February-March budget. Focuses on economic stability and education support. Emphasizes need for strong governance and political leadership.
-
-🟩
-
-We will file an interim budget (budget) in December. The new budget will be filed by February-March. President Anura Kumara Dissanayake said on Saturday (19) at Tangalle that he would focus on increasing the salary of public servants in the budget.
-
-The President said this while addressing a meeting of the National People's Power in the inauguration of the parliamentary elections to be held this year.
-
-Initially, stabilizing the economy was our biggest challenge. We have done it. We are focusing on paying school students in the proposed budget.
-
-Our country needs new political culture. We have the main responsibility to create it. We, the leaders of the government, must express their commitment. Have a strong state. He said that we must be strong in Parliament, and we must be strong with the attributes of the team we represent, and we are responsible for taking this country gradually on the path of success.
-
-◼️
-
-[Data](articles/34ae3159.json)
-
-[Extended Data](ext_articles/34ae3159.ext.json)
 
 ---

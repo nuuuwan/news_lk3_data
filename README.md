@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 18:00:54**
+As of **2024-10-21 18:20:44**
 
 ## Newspaper Stats
 
-*Scraped **50,584** Articles*
+*Scraped **50,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 409
 colombotelegraphcom | 507
 bbccomsinhala | 508
 islandlk | 3,011
-economynextcom | 3,087
+economynextcom | 3,091
 dailyftlk | 3,446
 adalk | 4,696
 dailymirrorlk | 4,733
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,784
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,584 (100.0%) of 50,584 articles have been extended.
+50,588 (100.0%) of 50,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Sri Lanka’s rough rice forecast hiked to 2.02mn tonnes for 2024 Yala season
+
+*2024-10-21 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-rough-rice-forecast-hiked-to-2-02mn-tonnes-for-2024-yala-season-184318/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s minor (Yala) season rough rice crop is projected at 2.02 million metric tonnes with 488,957 hectares cultivated up to end August, the Department of Agriculture said.
+
+The projection is up from 1.77mn metric tonnes based in July based on cultivation progress at the time.
+
+After the seed paddy requirement of 80,000 MT, and abut 120,000MT of wastage, about 1.82 million metric tonnes of paddy would be available for milling.
+
+After milling, about 1.24 million metric tonnes of rice would be available for consumption.
+
+Sri Lanka harvested about 2.42 million metric tonnes of rice in the main Maha season that ends around March, which would give a total production of 4.24 million MT of paddy for the year or 2.88 million tonnes of rice.
+
+Based on current consumption trends, there would be excess of about 420,000 MT of rice this year.
+
+Due to years of protection, Sri Lanka’s rice is usually not export grade and the prices are also too high. (Colombo/Oct20/2024)
+
+◼️
+
+[Data](articles/3ab138e7.json)
+
+[Extended Data](ext_articles/3ab138e7.ext.json)
+
+---
 
 ### Gammanpila makes shocking claims regarding ungreased Easter attack reports
 
@@ -49,6 +75,26 @@ Accordingly, speaking at a press conference today after the said deadline had en
 [Data](articles/c0362220.json)
 
 [Extended Data](ext_articles/c0362220.ext.json)
+
+---
+
+### Sri Lanka rupee closes flat at 293.15/20 to dollar, bond yields up
+
+*2024-10-21 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-293-15-20-to-dollar-bond-yields-up-184321/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed flat at 293.15/20 to the US dollar Monday from 293.00/20 a day earlier, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.50/75 percent, up from 10.55/70 percent.
+
+A bond maturing on 15.12.2027 closed at 11.30/50 percent, up from 11.25/45 percent.
+
+A bond maturing on 15.09.2029 closed stable at 11.90/12.05 percent. (Colombo/Oct21/2024)
+
+◼️
+
+[Data](articles/17ca8014.json)
+
+[Extended Data](ext_articles/17ca8014.ext.json)
 
 ---
 
@@ -256,6 +302,30 @@ Thorpe, who has disrupted previous events protesting over the colonisation of Au
 
 ---
 
+### Sri Lanka stocks close on mixed sentiments
+
+*2024-10-21 16:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-on-mixed-sentiments-184309/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed on mixed sentiments on Monday, with the All Share Index down and the S&P SL20 up.
+
+The broader ASPI closed down 0.03 percent, or 3.77 points, at 12,309; while the more liquid S&P SL20 Index closed up 0.05 percent, or 1.81 points, at 3,624.
+
+Top positive contributors were Sampath Bank (up at 82.50), Cargills Ceylon (up at 395.25), Dialog Axiata (up at 11.20), ACL Cbales (up at 92.00) and Hemas Holdings (up at 80.50).
+
+Negative contributors included Hayleys (down at 101.50), Central Finance Company (down at 119.00), Royal Ceramics (down at 33.20), Aitken Spence (down at 120.50), and Lanka IOC (down at 115.00).
+
+Lanka IOC, a unit of Indian Oil Corporation has reported profits of 2,525 million rupees in the September 2024 quarter down 50 percent from a year earlier, with cost of sales growing faster than sales, interim accounts showed.
+
+There was a net foreign outflow of 109 million rupees. (Colombo/Oct21/2024)
+
+◼️
+
+[Data](articles/44ab342e.json)
+
+[Extended Data](ext_articles/44ab342e.ext.json)
+
+---
+
 ### Petition to court demanding a ruling that the election is contrary to the constitution
 
 *2024-10-21 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202406) · `si`
@@ -317,6 +387,26 @@ In August 2024, 0.2% of food inflation increased to-1.7% in September 2024.
 [Data](articles/8c211b25.json)
 
 [Extended Data](ext_articles/8c211b25.ext.json)
+
+---
+
+### Sri Lanka chamber delegation builds links with Indonesia
+
+*2024-10-21 15:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-delegation-builds-links-with-indonesia-184304/) · `en`
+
+ECONOMYEXT – A Sri Lanka–Indonesia Business Council (SLIBC) of the Ceylon Chamber of Commerce visited Indonesia and strengthened links with businesses in the two countries.
+
+“The missions’ primary aim  was to strengthen trade, investment, and business ties between Sri Lanka and Indonesia, while exploring opportunities for collaboration in key industries,” a statement from the Ceylon Chamber of Commerce said.
+
+The 14 member delegation respresenting food & beverage, logistics, pharmaceuticals, apparel, travel, IT, and recreation sectors was led by SLIBC President Vish Govindasamy and Vice President D S Wickramasingha.
+
+The delegation participated in various business fora, expos, and meetings with key stakeholders in Indonesia’s trade and business sectors.
+
+...
+
+[Data](articles/fc62713d.json)
+
+[Extended Data](ext_articles/fc62713d.ext.json)
 
 ---
 
@@ -2255,105 +2345,5 @@ Accordingly, the Department of Meteorology has forecast rain or thunderstorms in
 [Data](articles/c124caf8.json)
 
 [Extended Data](ext_articles/c124caf8.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-10-21 07:55:07* · [`adalk`](https://www.ada.lk/breaking_news/දකුණට-අද-තද-වැසි/11-412579) · `si`
-
-Heavy rains expected today: Southern Province (100mm+), showers/thundershowers in Western, Sabaragamuwa, North Western, and Northern provinces.
-
-🟩
-
-The southern province said that there will be rains from 100 mm present at some places in the Southern Province.
-
-Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, North Western and Northern provinces.
-
-◼️
-
-[Data](articles/408c8a34.json)
-
-[Extended Data](ext_articles/408c8a34.ext.json)
-
----
-
-### A notice of a fake phone call
-
-*2024-10-21 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202389) · `si`
-
-Fake phone calls scam: Police warn public about fraudulent money requests. Scammers impersonate managers, officers, or relatives claiming car repairs need Rs. 10,000. Police suspect garage owners, officers, or specialists involved. Calls often traced to drug-related activities. Public advised to report suspicious calls immediately.
-
-🟩
-
-The police have warned the public in connection with a fraudulent money incident by fake phone calls.
-
-It has said that there has been telephone calls that have been reported from a manager, senior officer, senior officer, or relatives of these depots in various parts of the country.
-
-It has been revealed that the relevant parties have been informed to send an amount of Rs. 10,000 to repair the vehicle they arrive.
-
-It has been reported that some places have been paid to some places, the police say that some places have been paid by some places.
-
-Police states that the money is being carried out using a garage owner or a police officer who has come to the scene, or another specialized person.
-
-It has been revealed that the number of these numbers deceased or the Simcordered elements of the number deceased persons or foreigners.
-
-The police say that these persons are often uncovered to be an organized act of drug addicted or related to drug trafficking.
-
-...
-
-[Data](articles/b68a3f5d.json)
-
-[Extended Data](ext_articles/b68a3f5d.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-10-21 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102819/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern, North-western and Northern provinces and in Trincomalee district.
-
-Heavy showers above 100 mm are likely at some places in Southern province.
-
-Showers or thundershowers will occur at several places in the other areas of the island during the evening or night and fairly heavy showers above 50 mm are likely at some places, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers
-
-◼️
-
-[Data](articles/fa9914ca.json)
-
-[Extended Data](ext_articles/fa9914ca.ext.json)
-
----
-
-### Elpitiya Pradeshiya Sabha: What is the election that is separately in the face of a general election?
-
-*2024-10-21 07:45:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1m9d445720o) · `si`
-
-Elpitiya Pradeshiya Sabha election summary: Separate from general election due to Supreme Court injunction in 2018. Held on October 26, 2023. Costed Rs. 131 million. Postponed twice due to legal challenges and ballot paper issues. 48 polling stations, over 50,000 voters.
-
-🟩
-
-Elpitiya Pradeshiya Sabha: What is the election that is separately in the face of a general election?
-
-On October 26, on October 26, is preparing for a single local government agency alone on October 26.
-
-It was the Elpitiya Pradeshiya Sabha elections. Why is Elpitiya Pradeshiya Sabha elections be held separately from the voters of other local government bodies?
-
-The last time was the Elpitiya Pradeshiya Sabha in the local government elections in Sri Lanka, the Supreme Court had issued an interim injunction.
-
-The Democratic United National Front was rejected by the Democratic United National Front to contest the 2018 local government elections, and the party secretary had filed a petition in the Supreme Court.
-
-Accordingly, the Supreme Court issued an interim injunction from holding the Elpitiya Pradeshiya Sabha election in the local government election in the year 2018.
-
-The Petition of the petition was issued in 2019, and the Supreme Court ordered the Election Commission to convey the election.
-
-...
-
-[Data](articles/435c242d.json)
-
-[Extended Data](ext_articles/435c242d.ext.json)
 
 ---

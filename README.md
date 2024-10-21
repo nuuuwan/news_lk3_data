@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 13:24:00**
+As of **2024-10-21 13:40:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,774
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,541 (100.0%) of 50,543 articles have been extended.
+50,543 (100.0%) of 50,543 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Police suspect that the fire may have been caused by a gas leak.
 
 [Data](articles/6aca8a23.json)
 
+[Extended Data](ext_articles/6aca8a23.ext.json)
+
 ---
 
 ### Advisory issued for heavy rain, strong winds and rough seas
@@ -65,6 +67,8 @@ Thus, naval and fishing communities are requested to be vigilant while engaging 
 ◼️
 
 [Data](articles/0a9ec94c.json)
+
+[Extended Data](ext_articles/0a9ec94c.ext.json)
 
 ---
 

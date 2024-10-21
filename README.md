@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 17:40:46**
+As of **2024-10-21 18:00:54**
 
 ## Newspaper Stats
 
-*Scraped **50,581** Articles*
+*Scraped **50,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 508
 islandlk | 3,011
 economynextcom | 3,087
 dailyftlk | 3,446
-adalk | 4,695
+adalk | 4,696
 dailymirrorlk | 4,733
-adaderanalk | 5,992
-tamilmirrorlk | 6,935
+adaderanalk | 5,993
+tamilmirrorlk | 6,936
 virakesarilk | 8,111
 adaderanasinhalalk | 8,784
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,784
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,581 (100.0%) of 50,581 articles have been extended.
+50,584 (100.0%) of 50,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Gammanpila makes shocking claims regarding ungreased Easter attack reports
+
+*2024-10-21 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102835/gammanpila-makes-shocking-claims-regarding-ungreased-easter-attack-reports-) · `en`
+
+Pivithuru Hela Urumaya (PHU) leader and former MP Udaya Gammanpila says that former Senior DIG Ravi Seneviratne, who has been named as a main accused in an investigative committee reports on the Easter Sunday attacks, should be immediately removed from the post of Secretary to the Ministry of Public Security.
+
+He made these comments at a press conference held in Colombo this morning (21), for the alleged publicizing of two previously unreleased reports regarding the Easter Sunday terror attacks.
+
+Gammanpila had yesterday stated that he would give President Anura Kumara Dissanayake time until 10.00 a.m. this morning (21) to make public the two investigative reports in question and vowed to release them himself if the President fails to do so.
+
+Accordingly, speaking at a press conference today after the said deadline had ended, he emphasized that one of the two reports will be publicized today whereas the remaining report will be released to the public next Monday.
+
+...
+
+[Data](articles/c0362220.json)
+
+[Extended Data](ext_articles/c0362220.ext.json)
+
+---
 
 ### Another leap from Damitha
 
@@ -76,6 +96,24 @@ Meanwhile, former Minister Rohitha Abeygunawardena says he will resign from poli
 
 ---
 
+### The remaining father's skeleton will be met
+
+*2024-10-21 16:54:41* · [`adalk`](https://www.ada.lk/breaking_news/ගෙදර-එන-විට-ඉතිරි-සිය-පියාගේ-ඇට-සැකිල්ල-මපණයි/11-412591) · `si`
+
+The son of Italy could see what he could see what was about to find out what had happened to her father for 6 months to find out what he had done to her father.. The 70-year-old father of Bhikku resort in Kalutara is living at home alone.
+
+The mother lived in this house ago was also killed. His son in Italy is living with his wife and children. The phone calls given to the father for 6 months have not received response. When he had asked her neighbors from Italy, they had said that the house had been diagnosed.
+
+Don has returned to Sri Lanka on the 19th and returned home to find out what had happened.. The son of the door was known to the son who had only melted the meat in the coalition of the doors.  මේ සම්බන්දයෙන් පොලිීසිය දැනුවත් කිරීමෙන් අනතුරුව මූලික විමර්ශන වලින් අනතුරුව ඇටසැකිල්ලක් බවට පත්ව තිබූ සිරුර නාගොඩ රෝහලට ගෙනගොස් ඇත. The Dead reported to ensure whether his father was made to ensure the DNA test.
+
+◼️
+
+[Data](articles/bd66eecd.json)
+
+[Extended Data](ext_articles/bd66eecd.ext.json)
+
+---
+
 ### Transport buses were removed from service
 
 *2024-10-21 16:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போக்குவரத்து-பஸ்கள்-சேவையிலிருந்து-நீக்கப்பட்டன/175-345788) · `ta`
@@ -97,6 +135,30 @@ It is noteworthy that the parents of schoolchildren using these vehicles express
 [Data](articles/354fa42f.json)
 
 [Extended Data](ext_articles/354fa42f.ext.json)
+
+---
+
+### Unqualified buses were removed
+
+*2024-10-21 16:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகுதியற்ற-பஸ்கள்-நீக்கப்பட்டன/175-345788) · `ta`
+
+The 12 buses and vans used to transport school students have been removed as incompetent.
+
+Nuwara Eliya District Chief Vehicle Inspector Taminda Dissanayake has taken a decision on Monday (21).
+
+Hatton Police Department officials have issued a directive to the Nuwara Eliya District Chief Motor Vehicle Inspector to check for 30 private buses and skies used for daily school transport from areas including Maskeliya, Samimalai, Bogawantalawa, Norton Bridge, Talawakelle and Kotagala.
+
+For the past 14 days, there has been a strict raid on vehicles carrying school children in these areas.
+
+The police conducted the raid and removed 12 vehicles from the service and confiscated their income licenses.
+
+It is noteworthy that the parents of schoolchildren who use these vehicles expressed their concerns to the local police.
+
+◼️
+
+[Data](articles/c8f3ca50.json)
+
+[Extended Data](ext_articles/c8f3ca50.ext.json)
 
 ---
 
@@ -2293,79 +2355,5 @@ The Petition of the petition was issued in 2019, and the Supreme Court ordered t
 [Data](articles/435c242d.json)
 
 [Extended Data](ext_articles/435c242d.ext.json)
-
----
-
-### Take a sword and PHI. The suspect's back suspect is worried
-
-*2024-10-21 07:30:08* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවක්-අරගෙන-පී-එච්-අයි--පසුපස-පැන්නූ-සැකකරුට-වැඩ-වරදියි/11-412578) · `si`
-
-A man wielding a sword was arrested by Ragama Police after attacking a resident in Kalagahawatta. He was taken to the police health inspector and later bailed out. A court case has been filed against him.
-
-🟩
-
-Officers of the Ragama Police have arrested a person who had been deployed to be taken to the police health inspector at the Ragama Police area.
-
-Ragama Police Chief Inspector Asela Perera has been released on bail of Rs.The Magistrate has ordered to file courts.
-
-The suspect was arrested and produced before the Ragama Medical Officer of Health.
-
-The complaint has been demanded to the home owner to the home owner, as the complaints have been dressed in civilian in front of the regulator in front of the regulator of the residence in Kalagahawatta area in Ragama, Kalawagama area.
-
-The suspect, the sword, went into the house and ran to the house and ran to the house and ran to the house and rescued his life
-
-The Dengueiner had lodged a complaint with the police that he had been duties in this unexpected incident and had become a huge shame and fear.
-
-◼️
-
-[Data](articles/1ef6e9ef.json)
-
-[Extended Data](ext_articles/1ef6e9ef.ext.json)
-
----
-
-### Woman's 17-year-old youth losing lives
-
-*2024-10-21 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202388) · `si`
-
-Motorcycle crash kills 17-year-old near Ragama. Victim rushed to hospital after collision at Talawatta Dambuwa Junction.
-
-🟩
-
-The motorcycle raided at the Talawatta Dambuwa Junction in Ragama and a motorcycle driven towards the Dambuwa Junction towards Dambuwa Junction.
-
-The bus was killed in admission to the Ragama hospital.
-
-The victim is a 17 year old resident of the Ragama area.
-
-◼️
-
-[Data](articles/18f42de0.json)
-
-[Extended Data](ext_articles/18f42de0.ext.json)
-
----
-
-### Two killed and two youths killed
-
-*2024-10-21 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202387) · `si`
-
-Two youths drowned in Kanatagasdigiliya. Identified as residents of Polgahawela and Poomalai. Police investigating incident. Bodies at Kahatagasdigiliya police station.
-
-🟩
-
-Two youths were drowned in the upper Kanatagasdigiliya, Kahatagasdigiliya.
-
-The deceased have been identified as residents of Polgahawela and Poomalai areas where 24 and 34.
-
-Investigations have revealed that the two were alloyed with two other people yesterday evening and had drowning while they were trying to break up.
-
-The bodies have been placed at the Kahatagasdigiliya Police, while Kahatagasdigiliya police are conducting further investigations.
-
-◼️
-
-[Data](articles/241d2be0.json)
-
-[Extended Data](ext_articles/241d2be0.ext.json)
 
 ---

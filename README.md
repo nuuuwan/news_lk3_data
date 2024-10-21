@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 14:59:04**
+As of **2024-10-21 15:11:19**
 
 ## Newspaper Stats
 
-*Scraped **50,559** Articles*
+*Scraped **50,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 5,988
 tamilmirrorlk | 6,930
 virakesarilk | 8,111
-adaderanasinhalalk | 8,779
+adaderanasinhalalk | 8,780
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,557 (100.0%) of 50,559 articles have been extended.
+50,559 (100.0%) of 50,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
 
-### හිටපු ජනපති මහින්ද භාරදුන් වාහන
+### හලාවත අබිරහස ගැන මරණ පරීක්ෂණයේ දී හෙළිවෙයි
+
+*2024-10-21 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202404) · `si`
+
+හලාවත සිංහපුර ප්‍රදේශයේ ගිනිගත් දෙමහල් නිවසකින් හමුවූ මරණ සම්බන්ධයෙන් අද (21) පශ්චාත් මරණ පරීක්ෂණය සිදුකළේය.
+
+එහිදී අනාවරණය වුයේ මියගිය කාන්තාවගේ සහ දියණියගේ ගෙල කපා ඝාතනය සිදුකර පසුව සිරුරු ගිනි තබා ඇති බවය.
+
+◼️
+
+[Data](articles/54afae4a.json)
+
+---
+
+### Vehicles handed over to former President Mahinda
 
 *2024-10-21 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202403) · `si`
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ භාවිතය ස﻿ඳහා ලබාදී තිබූ වාහන තුනක් නැවත භාරදී තිබේ.
+Former President Mahinda Rajapaksa received three vehicles at the Presidential Secretariat.
 
-අප වාර්තාකරු පැවසුවේ, එම වාහන ජනාධිපති ලේකම් කාර්යාලයට ගෙනැවිත් භාර දී ඇති බවය.
+🟩
+
+Three vehicles have been handed over to the use of former President Mahinda Rajapaksa.
+
+Our correspondent said that the vehicles were brought to the Presidential Secretariat and handed over to the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/5afa129a.json)
+
+[Extended Data](ext_articles/5afa129a.ext.json)
 
 ---
 
@@ -390,21 +410,31 @@ Rail services are expected to delay as groups are working to repair the technica
 
 ---
 
-### ගිනි අවි 50ක් ආපසු භාර දෙයි
+### 50 firearms return
 
 *2024-10-21 12:22:22* · [`adalk`](https://www.ada.lk/breaking_news/ගිනි-අවි-50ක්-ආපසු-භාර-දෙයි/11-412586) · `si`
 
-ජීවිත ආරක්ෂාව වෙනුවෙන් සිවිල් පුද්ගලයින්ට ලබා දී ඇති ගිනිඅවි සහ පතරොම් තාවකාලිකව රජයට ලබාදෙන ලෙස සිදුකළ දැනුම්දීමට අනුව  ගිනිඅවි 50කට අධික සංඛ්‍යාවක් යළි ලබා දී ඇති බව වාර්තා වෙයි.
+Here's a summary of the text in approximately 200 characters:
 
-මෙම ගිනිඅවි පිළිබඳව සමාලෝචනයක් සිදුකිරීමෙන් පසු නැවත ලබා දීමට යටත්ව තාවකාලික පදනම මත මෙසේ ආපසු රජයට භාර දිය යුතු වෙයි.
 
-ඒ අනුව අදාළ ගිනිඅවි සහ පතරොම් නාවික හමුදාවේ වැලිසර පිහිටි රජයේ වාණිජ පුපුරණ ද්‍රව්‍ය ගබඩාව වෙත නොවැම්බර් මස 07වන දිනට පෙර භාර දෙන ලෙස සියලු බලපත්‍රලාභීන් වෙත ආරක්ෂක අමාත්‍යංශය දැනුම් දී තිබුණි.
 
-ආරක්ෂක අමාත්‍යංශය විසින් මේ වනවිට ගිනිඅවි බලපත්‍ර 1650ක් පමණ විවිධ හේතුන් මත නිකුත් කර ඇති බව සඳහන් වේ.
+"Over 50 firearms returned to government custody temporarily. Defense Ministry issues 1650 firearm licenses. Owners must surrender weapons to Commerce Commercial Tropical Warehouse at Welisara Naval Base."
+
+🟩
+
+More than 50 firearm has been restored according to the informs of firearms and ammunition to protect civilians.
+
+Return to the government under a temporary basis subject to a temporary basis subject to a temporary basis subject to re-outlact after making a review of these firearms.
+
+Accordingly, the Ministry of Defense had informed all licensees to hand over the Commerce Commercial Tropical Warehouse at the Welisara of the Navy.
+
+The Defense Ministry states that about 1650 firearm doctors have been issued on various reasons.
 
 ◼️
 
 [Data](articles/0b1f6811.json)
+
+[Extended Data](ext_articles/0b1f6811.ext.json)
 
 ---
 
@@ -2341,27 +2371,5 @@ Operating profits for the Group saw a significant turnaround, climbing from a lo
 [Data](articles/4a0e39b4.json)
 
 [Extended Data](ext_articles/4a0e39b4.ext.json)
-
----
-
-### Russia - the exchange of Ukraine inmates
-
-*2024-10-21 02:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யா-உக்ரைன்-கைதிகள்-பரிமாற்றம்/50-345745) · `ta`
-
-Russia-Ukraine prisoner swap: 190 captives exchanged after 3-year conflict. 95 Ukrainians freed from Russia, 95 Russians from Ukraine. Negotiations led to release of both sides' soldiers.
-
-🟩
-
-The two countries have exchanged 190 war prisoners as a major twist of the conflict that lasted for about 3 years between Russia and Ukraine.
-
-Negotiations were held on the release of the captives between Russia and Ukraine.Following this, 95 Ukrainian soldiers who were currently holding Russia have been released.
-
-Similarly, Ukraine has released 95 Russian soldiers. Liberated warriors have returned to their own countries happy. (A)
-
-◼️
-
-[Data](articles/41a70a82.json)
-
-[Extended Data](ext_articles/41a70a82.ext.json)
 
 ---

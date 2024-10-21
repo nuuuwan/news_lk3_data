@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 09:14:57**
+As of **2024-10-21 09:25:47**
 
 ## Newspaper Stats
 
-*Scraped **50,498** Articles*
+*Scraped **50,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 4,683
 dailymirrorlk | 4,733
 adaderanalk | 5,979
 tamilmirrorlk | 6,917
-virakesarilk | 8,099
+virakesarilk | 8,100
 adaderanasinhalalk | 8,766
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,496 (100.0%) of 50,498 articles have been extended.
+50,499 (100.0%) of 50,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### A man arrested for 10 liters of leakage in Jaffna
+
+*2024-10-21 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196744) · `ta`
+
+Man arrested for 10-liter water leak in Jaffna. Police investigation ongoing at Kopay station after tip about temple area leak.
+
+🟩
+
+Police rushed to the scene on the basis of confidential information received by the police that a person was involved in a leak of leaks in a house near the temple of Amman.
+
+The police are conducting serious investigations by detaining the arrested person at the Kopay police station.
+
+◼️
+
+[Data](articles/15ffe49d.json)
+
+[Extended Data](ext_articles/15ffe49d.ext.json)
+
+---
 
 ### Back to Jaffna. Delay in the arrival of Goddess
 
@@ -210,21 +230,29 @@ Wijemuni Maduranga de Silva, 43, executive officer of a private company living i
 
 ---
 
-### வடக்கு புகையிரத மார்க்கத்தை திறப்பதற்கு அதிகாரிகள் போர்க்கொடி
+### Authorities to open the Northern Railway
 
 *2024-10-21 08:25:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வடக்கு-புகையிரத-மார்க்கத்தை-திறப்பதற்கு-அதிகாரிகள்-போர்க்கொடி/71-345752) · `ta`
 
-நவீனமயமாக்கப்பட்ட வடக்கு புகையிரதத்தின் மஹவ முதல் அநுராதபுரம் வரையான பகுதி நாளை (22ஆம் திகதி) திறக்கப்படவுள்ள போதிலும், இந்த இடைப்பட்ட நிலையங்களில் உள்ள ரயில்வே அதிகாரிகள் அனைத்துப் பொறுப்புக்களிலிருந்தும் விலகுவதற்கு தீர்மானித்துள்ளனர்.
+Northern Railway opening delayed due to unfinished safety measures and equipment removal. Authorities claim responsibility issues at stations between Mahawa and Anuradhapura. Modernization costs high but quality concerns raised. Passenger services may be affected until issues resolved.
 
-3,000 கோடி ரூபாய் செலவில் சீரமைக்கப்பட்ட இந்த புகையிரத மார்க்கத்தை, குறைபாடுகளுடன் ரயில்வே துறை கையகப்படுத்தியதே இதற்கு காரணம் என புகையிரத நிலைய அதிபர்கள் சங்கத்தின் தலைவர் சுமேதா சோமரத்ன நேற்று தெரிவித்தார்.
+🟩
 
-இந்த பாதை நவீனமயப்படுத்தப்படுவதற்கு மேலதிகமாக இருந்த சமிக்ஞை அமைப்பும் அகற்றப்பட்டுள்ளதாகவும், பாதுகாப்பற்ற நான்கு புகையிரத கடவைகளில் கேட்கள் பொருத்தப்படவில்லை எனவும் அவர் தெரிவித்தார்.
+Although the area from the Mahawa to Anuradhapura of the modernized Northern Railway will be opened tomorrow (22nd), the railway authorities in these intermittent stations have decided to quit all responsibilities.
 
-தலாவ, தம்புத்தேகம, கல்கமுவ மற்றும் அநுராதபுரம் புகையிரத நிலையங்களுக்கு அருகில் உள்ள கடவைகள் கையால் இயக்கப்படும் வாயில்களாக மாற்றப்படும் என அதிகாரிகள் உறுதியளித்த போதிலும் இதுவரை பாதுகாப்பு கதவுகள் பயன்படுத்தப்படவில்லை எனவும் அவர் தெரிவித்தார்.
+The railway department's acquisition of the railway line, which was renovated at a cost of Rs.
+
+He said that the signal system, which was in addition to the modernization of the route, had also been removed and that four unsafe railway crossings were not fitted.
+
+He said that although the authorities promised to be converted into hand -held gates near Talawa, Thambuttegama, Kalgamuwa and Anuradhapura railway stations, he said.
+
+Somatha Somaratne said that the modernization of the modernization of the lack of proper quality has been impaired and the work has been given to the train drivers at a speed of 40 km / h in the area from Mahawa to Anuradhapura.
 
 ...
 
 [Data](articles/5346a360.json)
+
+[Extended Data](ext_articles/5346a360.ext.json)
 
 ---
 
@@ -374,19 +402,31 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 ---
 
-### කඩුවක් අරගෙන පී.එච්.අයි. පසුපස පැන්නූ සැකකරුට වැඩ වරදියි
+### Take a sword and PHI. The suspect's back suspect is worried
 
 *2024-10-21 07:30:08* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවක්-අරගෙන-පී-එච්-අයි--පසුපස-පැන්නූ-සැකකරුට-වැඩ-වරදියි/11-412578) · `si`
 
-රාගම පොලිස්  බල ප්‍රදේශයට අයත් නිවසකට ඩෙංගු පරීක්ෂා කිරීම සදහා ගිය ප්‍රදේශයේ මහජන සෞඛ්‍ය පරීක්ෂකවරයාට පහරදීමට කඩුවක හැඩය ඇති  තියුණු  ආයුධයක් අමෝරා ගෙන පසුපස පැන්නූ  පුද්ගලයෙකු රාගම පොලිසියේ අපරාධ විමර්ශන අංශයේ නිලධාරීන් විසින් සැකපිට අත් අඩංගුවට ගෙන ඇත.
+A man wielding a sword was arrested by Ragama Police after attacking a resident in Kalagahawatta. He was taken to the police health inspector and later bailed out. A court case has been filed against him.
 
-රාජ්‍ය නිලධාරියෙකුගේ රාජකාරියට බාධා කිරීමේ වරද මත රාගම පොලිසියේ  දූෂණ මර්ධන අංශයේ  ස්ථානාධිපති  ප්‍රධාන පොලිස් පරීක්ෂක අසේල පෙරේරා මහතා විසින් අත් අඩංගුවට ගත් සැකකරු වත්තල  මහේස්ත්‍රාත්  වරයා වෙත ඉදිරිපත් කිරීමෙන් පසු රුපියල්  ලක්ෂ දෙකක ශරීර ඇපමත මුදාහැර ඇති අතර මෙම නඩුවට අදාල සියළු කරුණු 2025 වසරේ ජනවාරි මස 31 වනදා අධිකරණය හමුවේ ගොණුකරන ලෙස මහේස්ත්‍රාත්  වරයා නියෝග  කර ඇත.
+🟩
 
-ජාඇල ප්‍රාදේශීය සභාවට අනුයුක්තව ජාඇල සෞඛ්‍ය වෛද්‍ය  නිලධාරී කාර්‍යාලයේ ඩෙංගු මර්ධන  නිලධාරී ලෙස සේවයේ නිරත නිලධාරියෙකු විසින් රාගම පොලිසියට කල පැමිණිල්ලක්  මත සැකකරු අත් අඩංගුවට  ගෙන මෙලෙස අධිකරණයට ඉදිරිපත් කර තිබිණි.
+Officers of the Ragama Police have arrested a person who had been deployed to be taken to the police health inspector at the Ragama Police area.
 
-...
+Ragama Police Chief Inspector Asela Perera has been released on bail of Rs.The Magistrate has ordered to file courts.
+
+The suspect was arrested and produced before the Ragama Medical Officer of Health.
+
+The complaint has been demanded to the home owner to the home owner, as the complaints have been dressed in civilian in front of the regulator in front of the regulator of the residence in Kalagahawatta area in Ragama, Kalawagama area.
+
+The suspect, the sword, went into the house and ran to the house and ran to the house and ran to the house and rescued his life
+
+The Dengueiner had lodged a complaint with the police that he had been duties in this unexpected incident and had become a huge shame and fear.
+
+◼️
 
 [Data](articles/1ef6e9ef.json)
+
+[Extended Data](ext_articles/1ef6e9ef.ext.json)
 
 ---
 
@@ -2263,27 +2303,5 @@ The last time they defeated India in India and won the match in the Wangkadu Sta
 [Data](articles/cacd6329.json)
 
 [Extended Data](ext_articles/cacd6329.ext.json)
-
----
-
-### Fire in Colombo - Cinua Garden
-
-*2024-10-20 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196698) · `ta`
-
-Colombo: Fire breaks out in state apartment. No casualties reported. Property damage unknown. Police and firefighters responded quickly. Incident occurred in Malalasekara Mawatha area.
-
-🟩
-
-A fire broke out at a state apartment in Malalasekara Mawatha, which belongs to the Colombo -Cinnamon Estate Police Division, police said.
-
-Police officers and fire department officials who were acting immediately on the basis of information received from 119 station to Cinnamon Garden Police, police said.
-
-Police said there was no casualties caused by the fire and the property damage was not yet estimated.
-
-◼️
-
-[Data](articles/a1b70f09.json)
-
-[Extended Data](ext_articles/a1b70f09.ext.json)
 
 ---

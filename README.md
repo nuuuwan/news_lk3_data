@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 10:39:57**
+As of **2024-10-21 10:58:21**
 
 ## Newspaper Stats
 
-*Scraped **50,510** Articles*
+*Scraped **50,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 3,084
 dailyftlk | 3,446
 adalk | 4,684
 dailymirrorlk | 4,733
-adaderanalk | 5,982
-tamilmirrorlk | 6,920
+adaderanalk | 5,983
+tamilmirrorlk | 6,921
 virakesarilk | 8,101
-adaderanasinhalalk | 8,768
+adaderanasinhalalk | 8,769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,510 (100.0%) of 50,510 articles have been extended.
+50,513 (100.0%) of 50,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Two persons who went intoxicated
+
+*2024-10-21 10:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதையில்-சென்ற-இருவர்-வாவிக்கு-பலி/175-345761) · `ta`
+
+Two drunk individuals drown in Kahatagastikiliya, ages 24 and 34. Bodies sent for autopsy. Police investigating incident.
+
+🟩
+
+The incident of two drinking water in the Kahatagastikiliya, Ihala Ganghidigama Wavi was killed on Sunday (20).
+
+The people, aged 24 and 34, from Polgahawela and Poojapitiya areas, died, police said.
+
+It was revealed that the two men were drowned after drinking alcohol and drinking.
+
+The bodies of the deceased have been placed in the funeral room of the Kahatagastikiliya Hospital for autopsy and further investigations into the incident are being carried out by the Kahatagastikiliya police.
+
+◼️
+
+[Data](articles/fa9feae7.json)
+
+[Extended Data](ext_articles/fa9feae7.ext.json)
+
+---
+
+### Two suspects arrested in connection with Matara shooting
+
+*2024-10-21 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102825/two-suspects-arrested-in-connection-with-matara-shooting) · `en`
+
+The Police Special Task Force (STF) has apprehended two individuals who have aided and abetted the shooting and killing of a man in the Nawimana area of Matara.
+
+The suspects were arrested in a raid conducted based on a tip-off received by the Southern Provincial Operations Unit of the STF.
+
+On October 15, a 26-year-old man was shot and killed by two people who came in a car in the Nawimana area of Matara.
+
+The STF said that based on the investigations, the car’s driver was arrested in the Thotamuna area of Matara and he is a 29-year-old resident of the Ambalantota police division.
+
+Additionally, a 26-year-old man, believed to have served as the lookout to carry out the murder, was arrested in Kekanadura area.
+
+The Police Special Task Force stated that the arrested suspects were handed over to the Matara Police Station for further investigation after initial investigations.
+
+◼️
+
+[Data](articles/268dba2b.json)
+
+[Extended Data](ext_articles/268dba2b.ext.json)
+
+---
+
+### Udaya Gammanpila's Special Information
+
+*2024-10-21 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202393) · `si`
+
+Udaya Gammanpila discusses Passover attack details in upcoming press conference.
+
+🟩
+
+Former Parliamentarian Udaya Gammanpila is currently conducting a special news discussion.
+
+Mr. Gammanpila said that the Passover attack will be revealed at the press conference.
+
+◼️
+
+[Data](articles/6ffe23aa.json)
+
+[Extended Data](ext_articles/6ffe23aa.ext.json)
+
+---
 
 ### Over 50 firearms returned as per temporary handover notice by Defence Ministry
 
@@ -2207,67 +2275,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/9d71348a.json)
 
 [Extended Data](ext_articles/9d71348a.ext.json)
-
----
-
-### New political culture new change
-
-*2024-10-20 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196692) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"New political culture calls for electing capable leaders. Past issues stemmed from elected officials' actions. Identifying root causes crucial for progress."
-
-🟩
-
-The best people can be elected by the best people. In the past, the resolution of the country's degradation is the result of the elected leaders and MPs in the past.. It is necessary to find out who the cause of those degradation.
-
-◼️
-
-[Data](articles/22e92adc.json)
-
-[Extended Data](ext_articles/22e92adc.ext.json)
-
----
-
-### What is the background of fraudulent camps?
-
-*2024-10-20 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/196691) · `ta`
-
-Fraudulent camps background: China aids Sri Lanka against Chinese cybercrime gangs. Cooperation crucial but details unclear. Investigations ongoing, involving China's Public Security Ministry. Government seeks answers about process and participants.
-
-🟩
-
-China's help to Sri Lankan government to detect Chinese Internet fraudulent gang. They cannot suppress them without the close cooperation of China. The government has not been given any answer to questions such as what investigations and whom the investigations have come to Colombo and who have worked together with China's Public Security Ministry.
-
-◼️
-
-[Data](articles/6d8b0610.json)
-
-[Extended Data](ext_articles/6d8b0610.ext.json)
-
----
-
-### JVP targeting Tamil people
-
-*2024-10-20 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196690) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-JVP leader Rilvin Silva transfers responsibilities but delays action due to Anura Dissanayake's government control. Tamils also aim to seize power.
-
-🟩
-
-JVP General Secretary Rilvin Silva told the younger ones to hand over responsibility. But, he is not ready to do it immediately. Because of the work of the government of Anuragumara Dissanayake.. Captured power. Similarly, the Tamil people seek to seize power.
-
-◼️
-
-[Data](articles/f7eebdbe.json)
-
-[Extended Data](ext_articles/f7eebdbe.ext.json)
 
 ---

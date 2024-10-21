@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 19:24:32**
+As of **2024-10-21 19:39:18**
 
 ## Newspaper Stats
 
-*Scraped **50,611** Articles*
+*Scraped **50,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,446
 adalk | 4,699
 dailymirrorlk | 4,733
 adaderanalk | 5,996
-tamilmirrorlk | 6,940
+tamilmirrorlk | 6,941
 virakesarilk | 8,122
 adaderanasinhalalk | 8,786
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,786
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,606 (100.0%) of 50,611 articles have been extended.
+50,610 (100.0%) of 50,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### In public viewing of election spending statements
+
+*2024-10-21 19:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவின-அறிக்கைகள்-பொதுமக்களின்-பார்வைக்கு/175-345801) · `ta`
+
+Certificates of the election spending reports submitted to the Election Commission by the candidates contested in the 2024 presidential election are now open to the public's view.
+
+These reports, handed over by candidates, secretaries of recognized political parties and voters who coordinated candidates, and the Elections Act of 2023.. Made according to section 03 of 3.
+
+The public can review these reports from 9:00 am to 4:00 pm on the week of October 24, 2024.
+
+◼️
+
+[Data](articles/fe5d97bd.json)
+
+[Extended Data](ext_articles/fe5d97bd.ext.json)
+
+---
 
 ### Tamita joined the new party
 
@@ -622,21 +640,23 @@ The Supreme Court today (21) decided to consider a petition filed by the Democra
 
 ---
 
-### குருணாகலில் புதையல் தோண்டியவர் கைது
+### Arrested
 
 *2024-10-21 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196793) · `ta`
 
-குருணாகல், மெல்சிறிபுர பொலிஸ் பிரிவிற்கு உட்பட்ட ஹெவனதென்ன பிரதேசத்தில் புதையல் தோண்டியதாக கூறப்படும் சந்தேக நபரொருவர் நேற்று ஞாயிற்றுக்கிழமை (20) கைது செய்யப்பட்டுள்ளதாக மெல்சிறிபுர பொலிஸார் தெரிவித்தனர்.
+A suspect who allegedly excavated treasure in Hewanathenna area, which belongs to the Melsiripura police division, Kurunegala, has been arrested on Sunday (20), Melsiripura police said.
 
-மெல்சிறிபுர பொலிஸாருக்குக் கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+The suspect was arrested during a raid carried out on information received by the Melsiripura police.
 
-கைது செய்யப்பட்ட சந்தேக நபர் குருணாகல், மெல்சிறிபுர பகுதியைச் சேர்ந்த 40 வயதுடையவர் ஆவார்.
+The arrested suspect is a 40 -year -old from Melsiripura, Kurunegala.
 
-கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து, புதையல் தோண்டுவதற்கு பயன்படுத்தப்படும் பொருட்கள், 04 ஜெலட்நைட் குச்சிகள், 06 டெட்டனேட்டர் மற்றும் இரசாயனப் பொருட்கள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+From the arrested suspect, the police have seized items used for treasure, 04 gelatnite sticks, 06 tetanator and chemicals.
 
 ◼️
 
 [Data](articles/38da6bbf.json)
+
+[Extended Data](ext_articles/38da6bbf.ext.json)
 
 ---
 
@@ -662,39 +682,43 @@ Issued in response to the media reports alleging that vehicles provided to ex-Pr
 
 ---
 
-### வன்னிவிளாங்குளம் மாவீரர் துயிலும் இல்லத்தில் சிரமதானப் பணி
+### Vanniwilangulam Knights
 
 *2024-10-21 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196790) · `ta`
 
-மாவீரர் நாளினை உணர்வு பூர்வமாக அனுஸ்ரிக்கும் முகமாக 2024.11.27 முல்லைத்தீவு மாவட்டத்தில் உள்ள வன்னிவிளாங்குளம் மாவீரர் துயிலும் இல்லத்தில் சிரமதானப் பணி முன்னெடுக்கப்பட்டு வருகிறது.
+The work of the Heroes Day is being carried out at the Vannivilangulam Knights Home in the Mullaitivu District, 2024.11.27.
 
-வன்னிவிளாங்குளம் மாவீரர் துயிலும் இல்ல பணிக்குழுவின் ஏற்பாட்டில் இந்த சிரமதான பணி ஆரம்பிக்கப்பட்டுள்ளது.
+This difficult task has been commenced under the arrangement of the Wanniwilangulam Hero Home Home Working Committee.
 
-இந்த ஆண்டும் 2024.11.27 மாவீரர் நாளினை உணர்வு பூர்வமாக அனுஸ்ரிக்கும் முகமாக பணிக்குழுவினால்  அனைத்து ஏற்பாடுகளும் முன்னெடுக்கப்படவுள்ள நிலையில் அதன் ஆரம்ப கட்டமாக சிரமதான பணி ஆரம்பிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that this year, the work of the Heroes' Day, 2024.11.27, all the arrangements are being made by the Task Force, which has begun as an early stage.
 
 ◼️
 
 [Data](articles/239dd8b2.json)
 
+[Extended Data](ext_articles/239dd8b2.ext.json)
+
 ---
 
-### பன்றிகளை கொண்டு செல்லும்போது கால்நடை சுகாதார சான்றிதழ் அவசியம்
+### Livestock Health Certificate is essential when carrying pigs
 
 *2024-10-21 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196795) · `ta`
 
-பன்றிகளை ஏற்றிச் செல்லும் போது கால்நடை சுகாதார சான்றிதழ் வைத்திருப்பதை கட்டாயமாக்க கால்நடை உற்பத்தி மற்றும் சுகாதாரத்துறை தீர்மானித்துள்ளது.
+The Department of Livestock Production and Health has decided to make it mandatory for cattle health certificates while transporting pigs.
 
-நாட்டில் பன்றிகளிடையே 'Porcine Reproductive and Respiratory Syndrome' (PRRS) எனப்படும்  வைரஸ் தொற்று நோய் பரவி வருவதனால் குறித்த தீர்மானம் முன்னெடுக்கப்பட்டுள்ளது.
+The resolution has been taken on the spread of a viral infection called 'Porcine Reproductive and Respiratory Syndrome' among pigs in the country.
 
-கால்நடை உற்பத்தி மற்றும் சுகாதார திணைக்களத்தின் பணிப்பாளர் நாயகம் வைத்தியர் ஹேமலி கொத்தலாவல தெரிவித்துள்ளதாவது,
+Director General of the Department of Livestock Production and Health, Dr. Hemali Kotalawala said,
 
-பண்ணை உரிமையாளர்கள் கால்நடை சுகாதார சான்றிதழை அந்தந்த கால்நடை வைத்தியர்களிடம் பெற்றுக்கொள்வது கட்டாயமாகும்.
+It is mandatory for farm owners to obtain a livestock certificate from their respective veterinary doctors.
 
-சரியான சுகாதார சான்றிதழ் இல்லாமல் பன்றிகளை கொண்டு செல்வது கண்டிப்பாக தடைசெய்யப்பட்டுள்ளது. இது பன்றிகளை வைரஸ் நோய் தாக்கத்திலிருந்து பாதுகாப்பதை உறுதி செய்யும் என தெரிவித்துள்ளார்.
+Carrying pigs without proper health certificate is strictly prohibited. This will ensure that pigs protect the virus from the disease.
 
 ◼️
 
 [Data](articles/bc5397e8.json)
+
+[Extended Data](ext_articles/bc5397e8.ext.json)
 
 ---
 
@@ -2251,31 +2275,5 @@ The deceased has been in danger when he was drinking with two others yesterday.
 [Data](articles/0a639916.json)
 
 [Extended Data](ext_articles/0a639916.ext.json)
-
----
-
-### Easter attack: What did Gammanpila revealed?
-
-*2024-10-21 09:57:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5y31ywz56vo) · `si`
-
-Former Parliamentarian Gammanpila stressed the leader of the Senior DIG Ravi Seneviratne who has been named in a report of the Government Defense Ministry.
-
-He also emphasized that the President should apologize to the nation and the impeachment motion will bring an impeachment motion against the president in the next parliament.
-
-He was speaking at a media briefing in Colombo this morning (October 21).
-
-Government Championship Sunday Attack on Channel 4 Report What is the response of Channel 4 report?
-
-At the beginning of the press conference, Gammanpila said Gammanpila said that the President was given 10 times this morning to publicize the reports of the investigation committee.
-
-He also said that these reports have been made known to the people with the holy right of the people, as the President has made it known as a concessionary period of 20 minutes.
-
-Udaya Gammanpila accused the constitution that the President has violated the Constitution by being publicized.
-
-...
-
-[Data](articles/b87a858e.json)
-
-[Extended Data](ext_articles/b87a858e.ext.json)
 
 ---

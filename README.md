@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 06:44:55**
+As of **2024-10-21 07:27:50**
 
 ## Newspaper Stats
 
-*Scraped **50,472** Articles*
+*Scraped **50,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,118 @@ adalk | 4,681
 dailymirrorlk | 4,733
 adaderanalk | 5,976
 tamilmirrorlk | 6,908
-virakesarilk | 8,094
-adaderanasinhalalk | 8,761
+virakesarilk | 8,098
+adaderanasinhalalk | 8,762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,471 (100.0%) of 50,472 articles have been extended.
+50,473 (100.0%) of 50,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Today is mm. Tight over 100
+
+*2024-10-21 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202386) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Showers/thundershowers forecasted for Western, Sabaragamuwa, Southern, and Northern provinces. Heavy rains possible in Southern Province. Evening/night thundershowers elsewhere. Public advised to prepare for strong winds and lightning."
+
+🟩
+
+The Meteorological Department says that showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and Northern provinces.
+
+The announcement states that the Southern Province is located mm. Heavy rains can occur at over 100.
+
+Thundershowers will occur at several places in the evening, in the evening or night in the other areas of the island.
+
+The public is requested to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/d8943409.json)
+
+[Extended Data](ext_articles/d8943409.ext.json)
+
+---
+
+### Although the national people are identified as the power of the people, the political decision powers are in the JVP - Gajendrakumar Ponnambalam
+
+*2024-10-21 05:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196742) · `ta`
+
+Here's a summary of the key points in approximately 200 characters:
+
+
+
+Gajendrakumar Ponnambalam criticizes JVP's stance on Tamil rights. He warns TNA won't negotiate with JVP unless they withdraw views on Tamil issues. Ponnambalam emphasizes TNA's commitment to Tamil welfare and federalism.
+
+🟩
+
+A few days ago, Rilvin Silva says that the 13th Amendment or the power of the Tamils ​​did not need the Tamils ​​and that the political parties were only talking about it.. They have revealed the message that they were not prepared to consider the basics that have been put forward by the Tamil people for a long time.
+
+Even if they are now identified as the national power of the people, the entire powers to make political decisions have the possession of the Janatha Vimukthi Peramuna. Therefore, if the National People's Power does not withdraw its views, we will not negotiate with them after the general election, said Gajendrakumar Ponnambalam, the leader of the Tamil National Alliance (TNA) and the Jaffna district candidate.
+
+He said this during a special interview with the 'Weerakesari' weekly in the wake of the Tamil National Political Base in the wake of the upcoming general election on November 14.. The complete form of the interview with him is as follows:
+
+...
+
+[Data](articles/e46b53a7.json)
+
+[Extended Data](ext_articles/e46b53a7.ext.json)
+
+---
+
+### சர்வதேச நாணய நிதியத்துடனான இணக்கப்பாடு தொடர்பில் அரசாங்கத்திடம் தெளிவான கொள்கை இல்லை - சாகல ரத்நாயக்க
+
+*2024-10-21 04:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196741) · `ta`
+
+சர்வதேச நாணய நிதியத்துடனான இணக்கப்பாடு தொடர்பில் அரசாங்கத்திடம் தெளிவான கொள்கை இல்லை. ஜனாதிபதி உள்ளிட்ட தேசிய மக்கள் சக்தியினர் நாணய நிதியத்தின் நிபந்தனைகளை மாற்றுவதாக  தெரிவித்துவரும் நிலையில், நாணய நிதியத்தின் இணக்கப்பாடுகளை அவ்வாறே முன்னெடுத்து செல்வதாக அரசாங்கம் சர்வதேசத்துக்கு தெரிவித்துள்ளது என புதிய ஜனநாயக முன்னணியின் கொழும்பு மாவட்ட வேட்பாளரும் ஐக்கிய தேசிய கட்சியின் தேசிய அமைப்பாளருமான சாகல ரத்நாயக்க தெரிவித்தார்.
+
+புதிய ஜனநாயக முன்னணி கொழும்பில் ஞாயிற்றுக்கிழமை (20) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நாடு பொருளாதார நெருக்கடியை எதிர்கொண்டபோது, முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையிலான அரசாங்கம் சர்வதேச நாணய நிதியத்துடன் கலந்துரையாடி கடன் உதவிகளை பெற்றுக்கொள்ளவும் எமக்கு கடன் வழங்கிய நாடுகளுடன் கலந்துரையாடி கடன் மறுசீரமைப்பு நடவடிக்கைகளை மேற்கொள்ளவும் நடவடிக்கை எடுத்திருந்தது. அந்த நடவடிக்கைகள் அனைத்தும் கடந்த மாதம் செப்டெம்பர் மாதத்துடன்  இரு தரப்பு இணக்கப்பாடுகளுடன் பூரணப்படுத்தப்பட்டன.
+
+...
+
+[Data](articles/6def9a98.json)
+
+---
+
+### ரணில் விக்ரமசிங்கவிடம் 11 வாகனங்கள் இருப்பதாக தெரிவிக்கப்படும் செய்தியில் உண்மை இல்லை - சாகல ரத்நாயக்க
+
+*2024-10-21 04:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196740) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் அரசாங்க வாகனங்களில் அதிகமானவை மீள ஒப்படைக்கப்பட்டுள்ளன. இன்னும் சில வாகனங்களே இருக்கின்றன. 11 வாகனங்கள் இருப்பதாக தெரிவிக்கப்படும் செய்தியில் உண்மை இல்லை. அதேநேரம் ரணில் விக்ரமசிங்கவின் பாதுகாப்பு பிரிவினரே தங்களின் கடமையை செய்வதற்கு சில உபகரணங்களை அரசாங்கத்திடம் கேட்டிருக்கிறது என புதிய ஜனநாயக முன்னணியின் கொழும்பு மாவட்ட வேட்பாளரும் ஐக்கிய தேசிய கட்சியின் தேசிய அமைப்பாளருமான சாகல ரத்நாயக்க தெரிவித்தார்.
+
+புதிய ஜனநாயக முன்னணி கொழும்பில் ஞாயிற்றுக்கிழமை (20) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/588746c2.json)
+
+---
+
+### ஏறாவூரில் ஓய்வு பெற்ற அதிபருடன் ஓரினச் செயற்கையில் ஈடுபட்டு வீடியே எடுத்து கப்பம் கோரிய 21 வயது இளைஞன் கைது
+
+*2024-10-21 03:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196739) · `ta`
+
+ஏறாவூரில் ஓய்வு பெற்ற அதிபர் ஒருவருடன் ஓரின சேர்க்கையில் ஈடுபட்ட இளைஞன் ஒருவன் அதனை வீடியோ எடுத்து அவரிடம் அச்சுறுத்தி கப்பமாக 25 ஆயிரம் ரூபா பணம் கோரிய 21 வயது இளைஞன் ஒருவரை சனிக்கிழமை (19) கைது செய்துள்ளதாக பொலிசார் தெரிவித்தனர்.
+
+குறித்த பொலிஸ் பிரிவிலுள்ள பிரதேசம் ஒன்றில் உள்ள பாடசாலை ஒன்றில் 2014ம் ஆண்டு அதிபராக கடமையாற்றி வந்தபோது  வேறு ஒரு பாடசாலையில் கல்விகற்று வந்த சிறுவன் அங்கு சிறுமி ஒருவருடன் ஏற்பட்ட தகாத முறையினால் அவரை கைது செய்து பின்னர் அங்கிருந்து குறித்த அதிபரின் பாடசாலைக்கு இடமாற்றப்பட்டு  அனுமதிக்கப்பட்டான்.
+
+இந்த நிலையில் குறித்த சிறுவனுடன் அதிபர் ஓரினச்சேர்க்கையில் ஈடுபட்டுவந்துள்ள நிலையில் அதிபர் கடந்த 3 வருடங்களுக்கு முன்னர் ஓய்வு பெற்றுள்ளதுடன் சிறுவனும் பாடசாலை கல்வியை முடித்து வெளியேறியுள்ள நிலையில் இருவரும் தொடர்ந்து ஓரின செர்க்கையில் ஈடுபட்டுவந்துள்ளபோது அதனை குறித்த இளைஞன் வீடியோ எடுத்துள்ளான்.
+
+...
+
+[Data](articles/12bd9110.json)
+
+---
 
 ### Marikkar slams Govt. for failing to deliver on key promises
 
@@ -2173,117 +2273,5 @@ The Israeli military said it was looking into the incident but said the numbers 
 [Data](articles/e7f08f4d.json)
 
 [Extended Data](ext_articles/e7f08f4d.ext.json)
-
----
-
-### Provincial Councils Risk
-
-*2024-10-20 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196686) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Provincial Councils Risk: SCC Ilangovan criticizes successor politics, highlighting crucial moment in North and East Tamil politics."
-
-🟩
-
-“I did not enter direct politics as the criticism of successor politics. There is now an important moment in the North and East Tamil politics ... ” - SCC Ilangovan
-
-◼️
-
-[Data](articles/41127f1a.json)
-
-[Extended Data](ext_articles/41127f1a.ext.json)
-
----
-
-### Two persons arrested with ice drugs in Kalkisa
-
-*2024-10-20 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196679) · `ta`
-
-Two arrests made in Kalkisa: 27-year-old from Moratuwa and 28-year-old from Ratmalana found with 20g of ice drugs near Mount Lavinia police division.
-
-🟩
-
-Two persons have been arrested yesterday (19) with ice drugs near the Tanteenia Mawatha and Ratmalana railway station belonging to the Mount Lavinia Police Division.
-
-They have been arrested during a round -up by the information received by the group of Mount Lavinia.
-
-The arrested persons are from Moratuwa and Ratmalana, aged 27 and 28.
-
-10 grams of 100 milligrams and 10 g of 200 milligrams of ice have been seized from the arrested suspects.
-
-◼️
-
-[Data](articles/8e3ab939.json)
-
-[Extended Data](ext_articles/8e3ab939.ext.json)
-
----
-
-### President to President Sierra Leom
-
-*2024-10-20 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202366) · `si`
-
-Sri Lanka: President Julius Mada Wanto arrives for CHOGM meeting. Private visit planned. Met by External Affairs Minister Vijitha Herath. Commonwealth Conference begins tomorrow in Samova.
-
-🟩
-
-President Julius Mada Wanto is due to arrive in Sri Lanka.
-
-The President is to arrive at the Commonwealth Heads of Government Meeting (CHOGM) in Samov.
-
-He will come to Sri Lanka for a private visit and Samoa will leave for the Kingdom tomorrow.
-
-President of Sierra Leon, arriving in the island, is to be met with External Affairs Vijitha Herath.
-
-The Commonwealth Conference will be held from tomorrow (21) and will be held in Samova from the 21st tomorrow.
-
-◼️
-
-[Data](articles/ff850958.json)
-
-[Extended Data](ext_articles/ff850958.ext.json)
-
----
-
-### Gammanpila sets deadline for President to release Easter attack reports
-
-*2024-10-20 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102810/gammanpila-sets-deadline-for-president-to-release-easter-attack-reports) · `en`
-
-Former Member of Parliament Udaya Gammanpila says the deadline given for the President to release the two unpublished reports regarding the Easter Sunday attacks will expire at 10:00 a.m. tomorrow (21).
-
-Speaking to the media today (20), Gammanpila stated, “The time I have given the President to release the two reports, which he is hesitant to make public regarding the Easter attack, ends at 10:00 a.m. tomorrow.”
-
-He emphasized that the President has until tomorrow morning to release the reports and fulfill the constitutional responsibility. Failure to do so, Gammanpila warned, could result in the risk of impeachment.
-
-Gammanpila added, “If the President violates Article 38 of the Constitution and fails to release the reports by tomorrow, I will certainly make them public.”
-
-◼️
-
-[Data](articles/e5af5b17.json)
-
-[Extended Data](ext_articles/e5af5b17.ext.json)
-
----
-
-### West Indies - Sri Lanka's first ODI match today
-
-*2024-10-20 11:26:34* · [`adalk`](https://www.ada.lk/sports/කොදෙව්---ශ්‍රී-ලංකා-පළමු-එක්දින-ක්‍රිකට්-තරගය-අද/9-412568) · `si`
-
-Sri Lanka vs West Indies ODI match today at Pallekele International Cricket Stadium in Kandy at 2:30 pm.
-
-🟩
-
-West Indies team and the Sri Lankan team will be played between the Sri Lanka EDIs today (20).
-
-The match will be held at Pallekele International Cricket Stadium in Kandy today at 2.30 pm today.
-
-◼️
-
-[Data](articles/f2c52019.json)
-
-[Extended Data](ext_articles/f2c52019.ext.json)
 
 ---

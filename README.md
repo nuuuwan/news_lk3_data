@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 08:46:57**
+As of **2024-10-21 09:00:02**
 
 ## Newspaper Stats
 
-*Scraped **50,489** Articles*
+*Scraped **50,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ colombotelegraphcom | 507
 islandlk | 3,007
 economynextcom | 3,084
 dailyftlk | 3,446
-adalk | 4,682
+adalk | 4,683
 dailymirrorlk | 4,733
-adaderanalk | 5,978
+adaderanalk | 5,979
 tamilmirrorlk | 6,912
 virakesarilk | 8,098
-adaderanasinhalalk | 8,765
+adaderanasinhalalk | 8,766
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,489 (100.0%) of 50,489 articles have been extended.
+50,489 (100.0%) of 50,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### 17-year-old killed in motorcycle crash at Ragama
+
+*2024-10-21 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102821/17-year-old-killed-in-motorcycle-crash-at-ragama) · `en`
+
+A motorcyclist traveling from Thewatta towards Dambuwa Junction in Ragama had reportedly lost control of the bike, veered off the road, and crashed into an electricity pole on the byroad.
+
+According to the police, the motorcycle rider, who was seriously injured, succumbed to his injuries after being admitted to Ragama Hospital.
+
+The deceased was a 17-year-old resident of Kandaliyadda Paluwa, Ragama.
+
+◼️
+
+[Data](articles/18fb90d6.json)
+
+---
+
+### සිවිල් පුද්ගලයින්ට දුන් ගිනිඅවි 50ක් යලි භාරදෙයි
+
+*2024-10-21 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202390) · `si`
+
+සිවිල් පුද්ගලයින්ට ලබා දී ඇති ගිනිඅවි සහ පතරොම් තාවකාලිකව රජයට ලබා දෙන ලෙස සිදුකළ දැනුම් දීමට අනුව ගිනිඅවි 50කට අධික සංඛ්‍යාවක් යළි ලබා දී ඇති බව ආරක්ෂක අමාත්‍යංශ ආරංචි මාර්ග පවසයි.
+
+ආරක්ෂක අමාත්‍යංශය මගින් ජීවිත ආරක්ෂාව සදහා ලබා දී ඇති සියලුම ගිනිඅවි පිළිබඳව සමාලෝචනයක් සිදුකිරීමෙන් පසු නැවත ලබා දීමට යටත්ව තාවකාලික පදනම මත මෙම තීරණය ගනු ලැබීය.
+
+ඒ අනුව අදාළ ගිනිඅවි සහ පතරොම් නාවික හමුදාවේ වැලිසර පිහිටි රජයේ වාණිජ පුපුරණ ද්‍රව්‍ය ගබඩාව වෙත නොවැම්බර් මස 07වනදිනට පෙර භාර දෙන ලෙස සියලු බලපත්‍රලාභීන් වෙත ආරක්ෂක අමාත්‍යංශය දැනුම් දී තිබුණි.
+
+මෙම තත්ත්වය තුළ මේ වන විට ගිනිඅවි 50කට ආසන්න සංඛ්‍යාවක් යළි භාර දී ඇති බව වාර්තා වී තිබේ.
+
+කෙසේ වෙතත් ආරක්ෂක අමාත්‍යංශය විසින් මේ වනවිට ගිනිඅවි බලපත්‍ර 1650ක් පමණ විවිධ හේතුන් මත නිකුත් කර ඇති බව සදහන් වේ.
+
+මෙම තත්ත්වය තුළ සියලු ගිනිඅවි සහ පතරොම් අදාළ දිනයට පෙර භාර දෙන ලෙසද ආරක්ෂක අමාත්‍යංශය දැනුම් දී තිබේ.
+
+එසේ නොවුනහොත් 1916 අංක 33 දරන තුවක්කු ආඥා පනතට අනුව නීතිමය ක්‍රියාමාර්ග ගැනීමට සිදුවන බව ආරක්ෂක අමාත්‍යංශය අදාළ බලපත්‍රලාභීන් හට දැනුම් දී තිබේ.
+
+...
+
+[Data](articles/8308a008.json)
+
+---
 
 ### Recovery of two more vehicles from Kandy
 
@@ -175,6 +215,22 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/fa9914ca.json)
 
 [Extended Data](ext_articles/fa9914ca.ext.json)
+
+---
+
+### කඩුවක් අරගෙන පී.එච්.අයි. පසුපස පැන්නූ සැකකරුට වැඩ වරදියි
+
+*2024-10-21 07:30:08* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවක්-අරගෙන-පී-එච්-අයි--පසුපස-පැන්නූ-සැකකරුට-වැඩ-වරදියි/11-412578) · `si`
+
+රාගම පොලිස්  බල ප්‍රදේශයට අයත් නිවසකට ඩෙංගු පරීක්ෂා කිරීම සදහා ගිය ප්‍රදේශයේ මහජන සෞඛ්‍ය පරීක්ෂකවරයාට පහරදීමට කඩුවක හැඩය ඇති  තියුණු  ආයුධයක් අමෝරා ගෙන පසුපස පැන්නූ  පුද්ගලයෙකු රාගම පොලිසියේ අපරාධ විමර්ශන අංශයේ නිලධාරීන් විසින් සැකපිට අත් අඩංගුවට ගෙන ඇත.
+
+රාජ්‍ය නිලධාරියෙකුගේ රාජකාරියට බාධා කිරීමේ වරද මත රාගම පොලිසියේ  දූෂණ මර්ධන අංශයේ  ස්ථානාධිපති  ප්‍රධාන පොලිස් පරීක්ෂක අසේල පෙරේරා මහතා විසින් අත් අඩංගුවට ගත් සැකකරු වත්තල  මහේස්ත්‍රාත්  වරයා වෙත ඉදිරිපත් කිරීමෙන් පසු රුපියල්  ලක්ෂ දෙකක ශරීර ඇපමත මුදාහැර ඇති අතර මෙම නඩුවට අදාල සියළු කරුණු 2025 වසරේ ජනවාරි මස 31 වනදා අධිකරණය හමුවේ ගොණුකරන ලෙස මහේස්ත්‍රාත්  වරයා නියෝග  කර ඇත.
+
+ජාඇල ප්‍රාදේශීය සභාවට අනුයුක්තව ජාඇල සෞඛ්‍ය වෛද්‍ය  නිලධාරී කාර්‍යාලයේ ඩෙංගු මර්ධන  නිලධාරී ලෙස සේවයේ නිරත නිලධාරියෙකු විසින් රාගම පොලිසියට කල පැමිණිල්ලක්  මත සැකකරු අත් අඩංගුවට  ගෙන මෙලෙස අධිකරණයට ඉදිරිපත් කර තිබිණි.
+
+...
+
+[Data](articles/1ef6e9ef.json)
 
 ---
 
@@ -2197,77 +2253,5 @@ The deceased is a 49-year old resident of Werellagama in Katugastota while he ha
 [Data](articles/916533f7.json)
 
 [Extended Data](ext_articles/916533f7.ext.json)
-
----
-
-### Arrested with heroin in Borelle
-
-*2024-10-20 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/196693) · `ta`
-
-Borella police arrest youth with heroin. Raid by Colombo Crime Branch seizes 20 grams of heroin. Incident occurred on Saturday, 19th.
-
-🟩
-
-A youth who had heroin in the Saranapala Thera Mawatha, belonging to the Borella Police Division, was arrested by the Borella police on Saturday (19).
-
-The youth was arrested during a raid conducted by a team of officials of the Colombo Crime Branch.
-
-20 grams of 860 milligrams of heroin was seized by the police.
-
-◼️
-
-[Data](articles/815c1dcb.json)
-
-[Extended Data](ext_articles/815c1dcb.ext.json)
-
----
-
-### Dilith says ‘Sarvajana Balaya’ alliance aims to build a brave and strong opposition
-
-*2024-10-20 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102812/dilith-says-sarvajana-balaya-alliance-aims-to-build-a-brave-and-strong-opposition) · `en`
-
-Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District candidate, entrepreneur Dilith Jayaweera, stated that a brave and strong opposition can only be established by the ‘Sarvajana Balaya’ alliance.
-
-He made these remarks at a public meeting held in Kurunegala.
-
-“The ‘Sarvajana Balaya’ alliance was formed with a vision. We wanted to safeguard our patriotism which is escaping from us. We are embarking on a strategic political journey. We approach this political journey with bravery and courage,” he said.
-
-He further noted that in this election, they are not contesting to become the Prime Minister, rather, they are aiming to establish a brave opposition. Jayaweera said they are committed to forming an opposition that will acknowledge what is right and what is wrong and halt actions that are incorrect.
-
-He questioned as to what can be achieved in this country by making Sajith Premadasa the leader of the opposition again.
-
-...
-
-[Data](articles/50cac979.json)
-
-[Extended Data](ext_articles/50cac979.ext.json)
-
----
-
-### Sri Lanka to buy medical supplies from local companies for one year
-
-*2024-10-20 14:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-buy-medical-supplies-from-local-companies-for-one-year-184260/) · `en`
-
-ECONOMYNEXT  – Sri Lanka’s cabinet has approved a plan by the Ministry of Health to buy medical supplies from local companies for one year, according to a government statement.
-
-The Medical Supplies Division of the Ministry of Health has found that 49 local companies could supply 454 types of medical supplies including medicines.
-
-The cabinet had approved entering into agreements with identified companies for one year for medical supplies and medicines.
-
-Sri Lanka’s government in 2013 had decided to purchase medicines from local companies without tender under so-called ‘buy back agreements’ for 15 years through the State Pharmaceuticals Corporation.
-
-In 2018 the, a decision was made to have buy back agreements without competitive tenders for 10 years.
-
-Originally the priviledge was to be given for only 5 years, under a so-called ‘infant industry’ argument.
-
-Sri Lanka gives 10-year ‘buyback’ deals to local drug makers
-
-Malaysia firm to build US$10mn pharma industrial zone in Sri Lanka
-
-...
-
-[Data](articles/4170838c.json)
-
-[Extended Data](ext_articles/4170838c.ext.json)
 
 ---

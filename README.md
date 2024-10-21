@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 07:27:50**
+As of **2024-10-21 08:03:35**
 
 ## Newspaper Stats
 
-*Scraped **50,477** Articles*
+*Scraped **50,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 408
 bbccomsinhala | 505
 colombotelegraphcom | 507
-islandlk | 3,006
+islandlk | 3,007
 economynextcom | 3,084
 dailyftlk | 3,446
 adalk | 4,681
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,473 (100.0%) of 50,477 articles have been extended.
+50,478 (100.0%) of 50,478 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -86,49 +86,87 @@ He said this during a special interview with the 'Weerakesari' weekly in the wak
 
 ---
 
-### சர்வதேச நாணய நிதியத்துடனான இணக்கப்பாடு தொடர்பில் அரசாங்கத்திடம் தெளிவான கொள்கை இல்லை - சாகல ரத்நாயக்க
+### The government has no clear policy on compliance with the International Monetary Fund - Sagala Ratnayake
 
 *2024-10-21 04:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196741) · `ta`
 
-சர்வதேச நாணய நிதியத்துடனான இணக்கப்பாடு தொடர்பில் அரசாங்கத்திடம் தெளிவான கொள்கை இல்லை. ஜனாதிபதி உள்ளிட்ட தேசிய மக்கள் சக்தியினர் நாணய நிதியத்தின் நிபந்தனைகளை மாற்றுவதாக  தெரிவித்துவரும் நிலையில், நாணய நிதியத்தின் இணக்கப்பாடுகளை அவ்வாறே முன்னெடுத்து செல்வதாக அரசாங்கம் சர்வதேசத்துக்கு தெரிவித்துள்ளது என புதிய ஜனநாயக முன்னணியின் கொழும்பு மாவட்ட வேட்பாளரும் ஐக்கிய தேசிய கட்சியின் தேசிய அமைப்பாளருமான சாகல ரத்நாயக்க தெரிவித்தார்.
+Sri Lanka's government lacks clear IMF compliance policy. Former President Wickremesinghe implemented IMF program but current leader Dissanayake opposes it. Government seeks parliamentary approval for changes, citing need for two-thirds majority. This stance contradicts previous announcements about ongoing compliance.
 
-புதிய ஜனநாயக முன்னணி கொழும்பில் ஞாயிற்றுக்கிழமை (20) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாடு பொருளாதார நெருக்கடியை எதிர்கொண்டபோது, முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையிலான அரசாங்கம் சர்வதேச நாணய நிதியத்துடன் கலந்துரையாடி கடன் உதவிகளை பெற்றுக்கொள்ளவும் எமக்கு கடன் வழங்கிய நாடுகளுடன் கலந்துரையாடி கடன் மறுசீரமைப்பு நடவடிக்கைகளை மேற்கொள்ளவும் நடவடிக்கை எடுத்திருந்தது. அந்த நடவடிக்கைகள் அனைத்தும் கடந்த மாதம் செப்டெம்பர் மாதத்துடன்  இரு தரப்பு இணக்கப்பாடுகளுடன் பூரணப்படுத்தப்பட்டன.
+The government does not have a clear policy on compliance with the IMF. The new Democratic Front's Colombo district candidate and National Organizer of the New Democratic Front, Sagala Ratnayake, said that the government has informed the international community that the government is carrying out the coordinates of the monetary fund.
+
+He was speaking at a press conference held in Colombo on Sunday (20) in Colombo.
+
+When the country faced the economic crisis, the government led by former President Ranil Wickremesinghe had taken steps to obtain credit assistance with the International Monetary Fund and in consultation with the countries that had given us credit and rehabilitation.. All of those activities were completed in September last month with both sides compliance.
 
 ...
 
 [Data](articles/6def9a98.json)
 
+[Extended Data](ext_articles/6def9a98.ext.json)
+
 ---
 
-### ரணில் விக்ரமசிங்கவிடம் 11 வாகனங்கள் இருப்பதாக தெரிவிக்கப்படும் செய்தியில் உண்மை இல்லை - சாகல ரத்நாயக்க
+### Ranil Wickremesinghe is not true in the news that 11 vehicles have 11 vehicles - Sagala Ratnayake
 
 *2024-10-21 04:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196740) · `ta`
 
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் அரசாங்க வாகனங்களில் அதிகமானவை மீள ஒப்படைக்கப்பட்டுள்ளன. இன்னும் சில வாகனங்களே இருக்கின்றன. 11 வாகனங்கள் இருப்பதாக தெரிவிக்கப்படும் செய்தியில் உண்மை இல்லை. அதேநேரம் ரணில் விக்ரமசிங்கவின் பாதுகாப்பு பிரிவினரே தங்களின் கடமையை செய்வதற்கு சில உபகரணங்களை அரசாங்கத்திடம் கேட்டிருக்கிறது என புதிய ஜனநாயக முன்னணியின் கொழும்பு மாவட்ட வேட்பாளரும் ஐக்கிய தேசிய கட்சியின் தேசிய அமைப்பாளருமான சாகல ரத்நாயக்க தெரிவித்தார்.
+Sagala Ratnayake denies news of 11 vehicles for Ranil Wickremesinghe. Claims only additional vehicles were returned. Security forces requested equipment, not 30 umbrellas. Former President's senior advisor on national security did not receive position or relief after election announcement.
 
-புதிய ஜனநாயக முன்னணி கொழும்பில் ஞாயிற்றுக்கிழமை (20) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
+
+Former President Ranil Wickremesinghe has been handed over to more government vehicles. There are some more vehicles. The message that is reported to be 11 vehicles is not true. At the same time, Ranil Wickremesinghe's security forces have asked the government some equipment to perform their duty, said the new Democratic Front's Colombo district candidate and the national organizer of the United National Party.
+
+He was speaking at a press conference held in Colombo on Sunday (20) in Colombo.
+
+It has been reported that Ranil Wickremesinghe has 11 vehicles of the government and have sent a letter immediately to hand over it.. When Ranil Wickremesinghe's Security Division asked about this, they said that no letter was received.. But we have returned more vehicles in the vehicles provided for Ranil Wickremesinghe's protection. There are some more vehicles. As a former president, there are vehicles that need to be protected by the Constitution.
 
 ...
 
 [Data](articles/588746c2.json)
 
+[Extended Data](ext_articles/588746c2.ext.json)
+
 ---
 
-### ஏறாவூரில் ஓய்வு பெற்ற அதிபருடன் ஓரினச் செயற்கையில் ஈடுபட்டு வீடியே எடுத்து கப்பம் கோரிய 21 வயது இளைஞன் கைது
+### A 21 -year -old youth arrested for allegedly taking video of gay with a retired Chancellor in Eravur
 
 *2024-10-21 03:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196739) · `ta`
 
-ஏறாவூரில் ஓய்வு பெற்ற அதிபர் ஒருவருடன் ஓரின சேர்க்கையில் ஈடுபட்ட இளைஞன் ஒருவன் அதனை வீடியோ எடுத்து அவரிடம் அச்சுறுத்தி கப்பமாக 25 ஆயிரம் ரூபா பணம் கோரிய 21 வயது இளைஞன் ஒருவரை சனிக்கிழமை (19) கைது செய்துள்ளதாக பொலிசார் தெரிவித்தனர்.
+21-year-old arrested for blackmailing retired Chancellor over gay video demands 25k rupees
 
-குறித்த பொலிஸ் பிரிவிலுள்ள பிரதேசம் ஒன்றில் உள்ள பாடசாலை ஒன்றில் 2014ம் ஆண்டு அதிபராக கடமையாற்றி வந்தபோது  வேறு ஒரு பாடசாலையில் கல்விகற்று வந்த சிறுவன் அங்கு சிறுமி ஒருவருடன் ஏற்பட்ட தகாத முறையினால் அவரை கைது செய்து பின்னர் அங்கிருந்து குறித்த அதிபரின் பாடசாலைக்கு இடமாற்றப்பட்டு  அனுமதிக்கப்பட்டான்.
+🟩
 
-இந்த நிலையில் குறித்த சிறுவனுடன் அதிபர் ஓரினச்சேர்க்கையில் ஈடுபட்டுவந்துள்ள நிலையில் அதிபர் கடந்த 3 வருடங்களுக்கு முன்னர் ஓய்வு பெற்றுள்ளதுடன் சிறுவனும் பாடசாலை கல்வியை முடித்து வெளியேறியுள்ள நிலையில் இருவரும் தொடர்ந்து ஓரின செர்க்கையில் ஈடுபட்டுவந்துள்ளபோது அதனை குறித்த இளைஞன் வீடியோ எடுத்துள்ளான்.
+A 21 -year -old youth was arrested on Saturday (19) for demanding 25 thousand rupees of money as a young man who was gay with a retired Chancellor in Eravur.
+
+When he was working as principal in a school in the area of ​​the police division, a boy who had been educated in another school was arrested by a girl and was later transferred to the Chancellor's school.
+
+The Chancellor has retired three years ago as the Chancellor is engaged in homosexuality with the boy and the boy has been out of school as the boy has left school education.
+
+Video of the young man in such a situation;The Chancellor has given him the money to get a letter to the young man, as he requested the money to pay Rs.
+
+The young man then threatened to give him 5 thousand rupees to the retired 63 -year -old Chancellor, and he would give him only 25 thousand rupees.Initial investigations by the police revealed that the police had been arrested and arrested.
 
 ...
 
 [Data](articles/12bd9110.json)
+
+[Extended Data](ext_articles/12bd9110.ext.json)
+
+---
+
+### Emojot secures strategic investment from U.S. to accelerate growth
+
+*2024-10-21 03:00:00* · [`islandlk`](http://island.lk/emojot-secures-strategic-investment-from-u-s-to-accelerate-growth/) · `en`
+
+Emojot, a global leader in artificial intelligence (AI)-powered customer experience management, has announced a strategic leadership restructuring alongside securing a strategic investment from the United States (US).
+
+...
+
+[Data](articles/764425b3.json)
+
+[Extended Data](ext_articles/764425b3.ext.json)
 
 ---
 
@@ -2255,23 +2293,5 @@ Our country needs new political culture. We have the main responsibility to crea
 [Data](articles/34ae3159.json)
 
 [Extended Data](ext_articles/34ae3159.ext.json)
-
----
-
-### Israeli strikes in northern Gaza cause scores of casualties, doctors say
-
-*2024-10-20 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102811/israeli-strikes-in-northern-gaza-cause-scores-of-casualties-doctors-say) · `en`
-
-An Israeli airstrike that hit several houses and a multi-storey residential building in Beit Lahiya town in northern Gaza on Saturday caused dozens of casualties, doctors and officials said, with rescue operations still underway.
-
-The Hamas media office said at least 73 people had been killed in the strike. No official casualty figures were immediately available from the health ministry however Medway Abbas, a senior health ministry official, said the figures were accurate.
-
-The Israeli military said it was looking into the incident but said the numbers issued by the Hamas media office were exaggerated. It said the figures did not align with its own information, the precise munitions used or the accuracy of the strike, which it said was directed at a Hamas target.
-
-...
-
-[Data](articles/e7f08f4d.json)
-
-[Extended Data](ext_articles/e7f08f4d.ext.json)
 
 ---

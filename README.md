@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 15:23:47**
+As of **2024-10-21 15:39:42**
 
 ## Newspaper Stats
 
-*Scraped **50,560** Articles*
+*Scraped **50,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 409
 bbccomsinhala | 507
 colombotelegraphcom | 507
-islandlk | 3,008
+islandlk | 3,009
 economynextcom | 3,087
 dailyftlk | 3,446
 adalk | 4,691
 dailymirrorlk | 4,733
-adaderanalk | 5,988
-tamilmirrorlk | 6,930
+adaderanalk | 5,989
+tamilmirrorlk | 6,931
 virakesarilk | 8,111
 adaderanasinhalalk | 8,780
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,780
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,560 (100.0%) of 50,560 articles have been extended.
+50,563 (100.0%) of 50,563 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,28 @@ It was revealed that the bodies were set on fire after the deceased woman and da
 
 ---
 
+### Cardinal comment on the release of Easter Report
+
+*2024-10-21 15:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-அறிக்கை-வெளியீடு-குறித்து-கர்தினால்-கருத்து/175-345781) · `ta`
+
+Colombo Archbishop Malcolm Cardinal Ranjith says that efforts are being made to mislead the people on the 2019 Easter Sunday attacks.
+
+Speaking at a ceremony on Sunday, the Archbishop said a new committee, including former government officials and parliamentarians, is currently working on a confusion over the investigation.
+
+“One of the two reports of the former government includes the same recommendations made by the Presidential Commission to Investigate Easter attacks.
+
+The only twist is that the new report recommends legal action against two senior officials of the new government. It seems that the former government has given advice on the recommendations. ”
+
+Archbishop Malcolm Cardinal Ranjith, who said they did not accept these two reports, said the present president had promised to investigate the attacks and that the Church was waiting to see if it would be fulfilled.
+
+...
+
+[Data](articles/1da7e75a.json)
+
+[Extended Data](ext_articles/1da7e75a.ext.json)
+
+---
+
 ### Vehicles handed over to former President Mahinda
 
 *2024-10-21 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202403) · `si`
@@ -65,6 +87,28 @@ Our correspondent said that the vehicles were brought to the Presidential Secret
 [Data](articles/5afa129a.json)
 
 [Extended Data](ext_articles/5afa129a.ext.json)
+
+---
+
+### Dilith urges to entrust ‘Sarvajana Balaya’ with fulfilling responsibility of strong opposition
+
+*2024-10-21 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102831/dilith-urges-to-entrust-sarvajana-balaya-with-fulfilling-responsibility-of-strong-opposition-) · `en`
+
+Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District candidate, entrepreneur Dilith Jayaweera stated that the public should entrust the responsibility of forming a strong opposition to the ‘Sarvajana Balaya’ alliance after the upcoming parliamentary elections.
+
+He made these remarks during a public meeting held yesterday (20) in Panadura.
+
+“Now our President Anura Kumara is in a lot of trouble because he became President without an economic plan.” He stated that someone else had the plan, but they are not giving him the book, and that a few pages are missing from it.
+
+“Now, the President needs to call and ask what to do next. We are not like that,” he said.
+
+“We propose to Anura Kumara that we are coming to the opposition, and you will form your government. We will help you with any good work.”
+
+...
+
+[Data](articles/3548184b.json)
+
+[Extended Data](ext_articles/3548184b.ext.json)
 
 ---
 
@@ -2333,45 +2377,5 @@ So far, 309 complaints have been resolved in the general election and 92 complai
 [Data](articles/f13fe6f3.json)
 
 [Extended Data](ext_articles/f13fe6f3.ext.json)
-
----
-
-### Ranil urges voters to elect MPs with experience to handle ongoing economic crisis
-
-*2024-10-21 02:34:00* · [`islandlk`](http://island.lk/ranil-urges-voters-to-elect-mps-with-experience-to-handle-ongoing-economic-crisis/) · `en`
-
-Former president and Leader of the United National Party Ranil Wickremesinghe last week urged voters to elect candidates with proven experience in managing economic crisis, at the upcoming general election.
-
-With Sri Lanka facing ongoing financial challenges, Wickremesinghe emphasised the need for seasoned leadership to guide the country forward.
-
-Making a special yet brief statement, he highlighted the importance of electing leaders who understand the intricacies of economic recovery.
-
-“In these difficult times, it is vital that we have leaders in parliament who know how to handle an economic crisis”, he stated.
-
-Wickremesinghe urged voters across party-lines to support candidates who worked alongside him in the past two years as they played a key role in the recovery process and have the necessary experience.
-
-...
-
-[Data](articles/aa697614.json)
-
-[Extended Data](ext_articles/aa697614.ext.json)
-
----
-
-### Nawaloka Hospitals PLC records profit growth in 2023/24
-
-*2024-10-21 02:32:00* · [`islandlk`](http://island.lk/nawaloka-hospitals-plc-records-profit-growth-in-2023-24/) · `en`
-
-Nawaloka Hospitals PLC, South Asia’s pioneer in AI-driven healthcare, achieved remarkable financial success for the fiscal year ending March 31, 2024.
-
-The Group’s revenue surged to Rs. 10 billion, reflecting a Year-on-Year (YoY) growth of 11.54%. The hospital’s Profit Before Tax (PBT) reached Rs. 576.2 million, marking an impressive 178.61% increase compared to the previous year. This growth, despite economic challenges, underscores Nawaloka’s operational resilience and its dedication to delivering cutting-edge healthcare.
-
-Operating profits for the Group saw a significant turnaround, climbing from a loss of Rs. 73.4 million in 2023 to Rs. 1.02 billion in 2024. The Company’s operating profits grew by 158.28%, reaching Rs. 1.32 billion. Additionally, Nawaloka Hospitals’ Earnings Per Share (EPS) rose from a negative -0.46 to a positive 0.41, further solidifying the hospital’s financial recovery and enhancing shareholder value.
-
-...
-
-[Data](articles/4a0e39b4.json)
-
-[Extended Data](ext_articles/4a0e39b4.ext.json)
 
 ---

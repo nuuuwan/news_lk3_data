@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 00:13:54**
+As of **2024-10-22 00:25:18**
 
 ## Newspaper Stats
 
-*Scraped **50,630** Articles*
+*Scraped **50,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ dbsjeyarajcom | 409
 colombotelegraphcom | 507
 bbccomsinhala | 508
 islandlk | 3,011
-economynextcom | 3,091
-dailyftlk | 3,446
+economynextcom | 3,093
+dailyftlk | 3,453
 adalk | 4,704
 dailymirrorlk | 4,733
 adaderanalk | 5,998
@@ -26,11 +26,45 @@ adaderanasinhalalk | 8,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,630 (100.0%) of 50,630 articles have been extended.
+50,632 (100.0%) of 50,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Lanka Corrugated Industries enters new era
+
+*2024-10-21 23:26:49* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Corrugated-Industries-enters-new-era/34-768242) · `en`
+
+Lanka Corrugated Industries Ltd. (LCI), a long-standing player in Sri Lanka’s packaging sector, said this week it is entering a new phase of growth with a substantial upgrade in capacity and technology.
+
+A Board of Investment (BOI)-approved venture, LCI has provided reliable, high-quality packaging solutions for over two decades.
+
+Originally founded by entrepreneur Sydney Gajanayake, the company is now gearing up to reshape the industry with state-of-the-art equipment sourced from China and Europe.
+
+The company’s new facility in Millaniya, Bandaragama, spans 10 acres with over 100,000 square feet of operational space. Equipped with an advanced corrugator line capable of producing 4,000 metric tons per month, LCI is poised to meet the growing demands of its clients with greater efficiency and precision.
+
+As part of its transformation journey, an industry veteran, Bannet Gamalath, joined LCI as a shareholder and Managing Director.
+
+...
+
+[Data](articles/340890af.json)
+
+---
+
+### First-ever Sri Lanka Property Investment Forum in Australia on Friday by Home Lands
+
+*2024-10-21 23:03:08* · [`dailyftlk`](https://www.ft.lk/business/First-ever-Sri-Lanka-Property-Investment-Forum-in-Australia-on-Friday-by-Home-Lands/34-768241) · `en`
+
+The Home Lands Group of Companies is set to make history by becoming the first Sri Lankan developer to conduct a Property Investment Forum in Australia to create interest in residential investment options in Sri Lanka.
+
+The forum, to be held at Springvale City Hall in Melbourne on 25 October, is an invitees-only event expected to attract over 450 high-end investors.
+
+...
+
+[Data](articles/88033763.json)
+
+---
 
 ### Do not spots;Scholarship Students Action
 
@@ -55,6 +89,86 @@ The Commissioner General of Examinations, Education Minister Dr. Harini Amarasur
 [Data](articles/de31ff2b.json)
 
 [Extended Data](ext_articles/de31ff2b.ext.json)
+
+---
+
+### Sri Lanka’s road to global competitiveness: Insights from trade, energy, and agriculture policies
+
+*2024-10-21 22:50:54* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-road-to-global-competitiveness-Insights-from-trade-energy-and-agriculture-policies/14-768240) · `en`
+
+In 2023, Sri Lanka’s goods and services exports made up nearly 20.4% of GDP, with manufacturing exports contributing 14%. However, the country’s merchandise export mix remains highly concentrated, with 77% of export income coming from industrial goods, mainly apparel, and just 22% from agricultural exports. This lack of sufficient diversification leaves Sri Lanka’s export economy vulnerable, heavily dependent on the apparel sector and traditional sectors like tea and rubber.
+
+...
+
+[Data](articles/340d8d0f.json)
+
+---
+
+### Driving global change: GSCS International and JAAF lead the way in sustainable development
+
+*2024-10-21 22:47:01* · [`dailyftlk`](https://www.ft.lk/opinion/Driving-global-change-GSCS-International-and-JAAF-lead-the-way-in-sustainable-development/14-768239) · `en`
+
+GSCS International Ltd., with a global presence in over 35 countries, offers steady, sustainable, and enduring development as a provider of certification, assessment, audit, verification, inspection, and capacity-building services.
+
+GSCS International – Sri Lanka successfully organised the SustainSphere 2.0 program, aimed at innovating tomorrow’s industry through sustainability.
+
+Held in Sri Lanka, the event attracted a diverse audience, including representatives from academic institutions, government bodies, trade associations, brands, and various client organisations, all gathered to explore the future of sustainable development in the apparel industry.
+
+The first keynote address was delivered by University of Moratuwa Department of Facilities Management Senior Lecturer Dr. Harshini Mallawarachchi. Dr. Mallawarachchi emphasised Circular Economy: A Pathway for Net-Zero Apparel Manufacturing.
+
+...
+
+[Data](articles/2f03cccf.json)
+
+---
+
+### Continuing the business of government in between regime or leadership change
+
+*2024-10-21 22:43:20* · [`dailyftlk`](https://www.ft.lk/columns/Continuing-the-business-of-government-in-between-regime-or-leadership-change/4-768238) · `en`
+
+The University Grants Commission and the National Education Commission are appointed by the President for a fixed term. We should be able to trust the boards of these institutions to give a reasonable timetable for their resignation, even if legally they can serve until the end of their term
+
+This is not the first time that a regime changed, and the board members got marching orders from minions in their organisation who have now got close to the ears of the executive. People who have served with dedication have to leave like thieves at night even before a new board is in place. There must be a better way – not just for civility but for the benefit of the country
+
+The State apparatus consists of the executive, ministries, departments and public enterprises. A regime change is signified by the election of a new President and the formation of a new Cabinet of Ministers headed by the President. A Cabinet reshuffle also signifies a change in leadership of a ministry within the regime.
+
+...
+
+[Data](articles/ef2cd7ab.json)
+
+---
+
+### Should Sri Lanka allow politicians to play the pork barrel game in the future?
+
+*2024-10-21 22:37:20* · [`dailyftlk`](https://www.ft.lk/columns/Should-Sri-Lanka-allow-politicians-to-play-the-pork-barrel-game-in-the-future/4-768237) · `en`
+
+Principally, every rupee spent by the Government should maximise the social welfare of the citizens
+
+Pork-barrel politics can lead to a fragmented political system where representatives focus more on their individual districts rather than working collaboratively to address broader, more urgent national issues. It creates a system where narrow, localised interests dominate policy decisions
+
+In the 19th century, barrels filled with salted pork were considered a significant source of food, especially in rural America. This was a food preservation technique to make the meat last through the winter. Another interesting fact is that not every family had the capability to own such a barrel full of salted pork. This means that owning a pork barrel also served as a symbol of a prestigious social class with greater access to resources.
+
+...
+
+[Data](articles/1f7b021c.json)
+
+---
+
+### Evolution of minimum wages legislation in Sri Lanka: From 2000 to 2024
+
+*2024-10-21 22:30:51* · [`dailyftlk`](https://www.ft.lk/columns/Evolution-of-minimum-wages-legislation-in-Sri-Lanka-From-2000-to-2024/4-768235) · `en`
+
+Can employers sustain this hike in light of Sri Lanka’s current economic reality?
+
+Fair wages are essential to the financial security of workers, but can employers sustain a wage hike in a fragile economy? This article explores key milestones in Sri Lanka’s minimum wage legislation from 2000 onwards, examines the population below the poverty line, and discusses whether businesses can absorb the recent increases amidst the country’s economic challenges, including debt obligations and import restrictions.
+
+1. Early legislative efforts: Budgetary Relief Allowance of Workers Act, No. 36 of 2005
+
+In 2005, Sri Lanka introduced the Budgetary Relief Allowance of Workers Act, No. 36 of 2005, which required private sector employers to provide a monthly relief allowance of Rs. 1,000. While this was a modest step compared to modern standards, it helped support workers, particularly those in low-income sectors like plantations and textiles.
+
+...
+
+[Data](articles/d5f07d5f.json)
 
 ---
 
@@ -255,6 +369,26 @@ Police are also responsible for the three -wheeler and motorcycle used to paste 
 [Data](articles/e61826bf.json)
 
 [Extended Data](ext_articles/e61826bf.ext.json)
+
+---
+
+### Sri Lanka says backing letter condemning Israel’s ban on UN chief
+
+*2024-10-21 20:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-backing-letter-condemning-israels-ban-on-un-chief-184332/) · `en`
+
+ECONOMYNEXT – Sri Lanka, which was originally not signatory for a letter condemning Israel for banning the United Nations Secretary General (UNSG) entering into the country, said it is supporting the move which has been supported by more than 100 countries.
+
+The move comes after Sri Lanka’s stance on the issue raised concerns over the island nation’s consistent support for conflict-hit Palestine and foreign policy under new President Anura Kumara Dissanayake.
+
+“By Note Verbale dated 11 October 2024, Sri Lanka conveyed its desire to be a signatory to the Letter supporting the UN Secretary General, to the Permanent Mission of Chile in New York, which coordinated the Joint Letter,” Sri Lanka’s Ministry of Foreign Affairs said in a statement.
+
+However, the Ministry did not explain why the country’s name was not included in the list of 105 signatories who signed the letter released last week.
+
+...
+
+[Data](articles/748e5965.json)
+
+[Extended Data](ext_articles/748e5965.ext.json)
 
 ---
 
@@ -571,6 +705,30 @@ Anura Kumara Dissanayake, a civil activist who said he was appointed as the Pres
 [Data](articles/87f36a01.json)
 
 [Extended Data](ext_articles/87f36a01.ext.json)
+
+---
+
+### Sri Lanka sees foreign inflows into govt securities for fifth straight week
+
+*2024-10-21 18:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-inflows-into-govt-securities-for-fifth-straight-week-184328/) · `en`
+
+ECONOMYNEXT – Sri Lanka saw foreign inflows into its government securities for the fifth straight week ended on October 16, the Central Bank data showed.
+
+However, foreign exchange analysts said the demand for rupee-denominated government securities has slowed after yields fell last week.
+
+Sri Lanka witnessed 495 million rupees ($1,7 million at 1 US dollar = 295 LKR)  inflow into government securities in the week ended on October 16, but much lower than the previous week’s inflow of 6.9 billion rupees (($23.4 mln), the official data showed.
+
+The value of government securities held by foreign investors and funds was at 51,142 million rupees last week.
+
+“The yields were down and foreign investor appetite was low,” a currency dealer told EconomyNext.
+
+Analysts say Sri Lanka’s deflationary policies have helped to see inflows amid lowering market lending rates and appreciation in the rupee currency with curtailed imports.
+
+...
+
+[Data](articles/b3619017.json)
+
+[Extended Data](ext_articles/b3619017.ext.json)
 
 ---
 
@@ -2217,249 +2375,5 @@ However, the president said that the committees were not investigating committee
 [Data](articles/82d2bcb8.json)
 
 [Extended Data](ext_articles/82d2bcb8.ext.json)
-
----
-
-### Two forcibly enforced doctor's house and stole gold goods
-
-*2024-10-21 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202397) · `si`
-
-Two doctors robbed home, stole gold worth 700,000. Suspects arrested, to appear in court today. Investigation reveals drug addiction.
-
-🟩
-
-Two criminalized forced force and plundered money and gold rooted persons have been arrested by the Talangama Crimes Division.
-
-The suspects had been identified by the preliminary investigations carried out on a complaint lodged with the Thalangama Police on the 19th.
-
-The incident is a 43 year old medical professional working in the Sri Jayewardenepura Hospital.
-
-Investigations have revealed that they are severely addicted to drugs.
-
-The 45-year-old suspect had been staying outside the house and had a knife to the house and plundered her golden necklace and other gold.
-
-The total value of the stolen gold is nearly seven lakhs.
-
-The suspects had been identified using a neighbors at the time of the incident.
-
-They have been arrested by the Talangama Police yesterday and the two suspects today are to be produced before the Kaduwela Magistrate's Court today.
-
-◼️
-
-[Data](articles/d59e2bcf.json)
-
-[Extended Data](ext_articles/d59e2bcf.ext.json)
-
----
-
-### Gammanpila reveals the contents of the Passover Investigative Committee Report
-
-*2024-10-21 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202396) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Leader Gammanpila reveals Passover attack report contents. Accuses Ravi Seneviratne of negligence. Claims President violated Constitution. Demands apology. Report criticizes intelligence failures leading to Easter Sunday bombings.
-
-🟩
-
-Ravi Seneviratne, leader of the Government of Investigation Committee, has been identified as a major accused of the Passover attack, says the Leader of the Mahanayaka Gammanpila.
-
-He was speaking at a media briefing in Colombo today (21st) to popularize the reports of the Easter attack.
-
-Gammanpila said that the President would be given a statement to publish reports of the Passover attack this morning.
-
-Accordingly, one report on these two accounts will continue to reveal the other report today.
-
-Udaya Gammanpila continues, the President had violated the Constitution intentionally.
-
-Gammanpila said the President should immediately apologize to the nation.
-
-"I am talking about the two reports of the President of the President, Ranil Wickremesinghe ever promoting the president of the President.
-
-Retired Report S. I. The committee was handed over to the committee headed by the Minister of Imam on the 25th June 25, 2024 to the then President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/a8398390.json)
-
-[Extended Data](ext_articles/a8398390.ext.json)
-
----
-
-### New Zealand is the first time in the ICC Women's R20 World Cup
-
-*2024-10-21 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196737) · `ta`
-
-New Zealand wins inaugural ICC Women's R20 World Cup, defeating South Africa in UAE final.
-
-🟩
-
-New Zealand won the Champions title for the first time in the 9th ICC Women's R20 World Cup chapter in the United Arab Emirates.
-
-For the first time, the two teams have come up with the aim of taking the ICC Women's R20 World Cup.
-
-New Zealand scored 158 runs for the loss of 5 wickets in 20 overs, scoring first in the final of the final at the Dubai International Cricket Stadium on Sunday (20).
-
-South Africa lost 9 wickets in 20 overs and lost 126 runs.
-
-◼️
-
-[Data](articles/bed634b6.json)
-
-[Extended Data](ext_articles/bed634b6.ext.json)
-
----
-
-### Jagath, who is in Kuwait and bring medals for Sri Lanka
-
-*2024-10-21 11:56:23* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-සිටිමින්-ලංකාව-වෙනුවෙන්-පදක්කම්-ගේන-ජගත්/11-412585) · `si`
-
-Sri Lankan athlete Jagath Gunasekara wins gold medals in bodybuilding competitions in Warsaw and Budapest. He also participates in cycling events, representing Sri Lanka internationally.
-
-🟩
-
-Olympia Boduchar, representing the International Cycling Federation (INTERNATION OF BOILDING) representing Sri Lanka as a sports advisor of the Kuwait, participating in Sri Lanka.Jagath Gunasekara has won 2% to win 02.
-
-Jagath Gunasekara has won a gold medal in Warsaw, Poland on 10/12.
-
-In addition, Jagath Gunasekera, who contested in the Master Category in the Olympia Amachar Tournament, which participated in the 99 countries in Milan, was won by the 99 countries in Italy.
-
-The Ordinary Bodybuildbuilding Occupiers at the Master of Sri Lanka's MasterCard Tournament was won by the Fivest of 44 countries in Hungary on 10/20.
-
-◼️
-
-[Data](articles/ba7068f3.json)
-
-[Extended Data](ext_articles/ba7068f3.ext.json)
-
----
-
-### Here's what Gammanpila told about Easter reports
-
-*2024-10-21 11:54:26* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-වාර්තා-ගැන-ගම්මන්පිල-අද-කිව්ව-දේ-මෙන්න/11-412584) · `si`
-
-Gammanpila: Removed Easter report, discussed with President. Defense Secretary Ravi Seneviratne accused of misconduct.
-
-🟩
-
-Mahaniya Gammanpila, Minister of Public Defense to be removed from a non-famous Easter report, Plandani Gammanpila, leader of the Hon.
-
-Two Easter reports were made public and published today.
-
-"I am talking to the President and delibes the report to the President and deliberately delibes the report to the President and deliberately deliberately delivering the report to the President.. "
-
-"People Defense Secretary Ravi Seneviratne has become a prosecutive of the committee that the committee should be prosecuted by the crime in this backdrop.. "
-
-◼️
-
-[Data](articles/a4db5bba.json)
-
-[Extended Data](ext_articles/a4db5bba.ext.json)
-
----
-
-### A man arrested for running a gunfight in Surveva area
-
-*2024-10-21 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196763) · `ta`
-
-Man arrested for running illegal gun factory in Surveva, Vevegama. Police seized T-rifles, weapon parts. Suspect handed to Suryawewa police for investigation.
-
-🟩
-
-A man who operated a gunfight factory has been arrested during a roundabout carried out in Surveva, Vevegama area, police said.
-
-The raid was carried out yesterday (20) on the basis of information received by the officials of the Special Task Force (STF) in Hambantota.
-
-Police said the locally manufactured T -rifle, parts and weapons used to make a gun were seized.
-
-In addition, the suspect has been handed over to the Suryawewa police station for further investigations into the incident, police said.
-
-◼️
-
-[Data](articles/ac66a5c5.json)
-
-[Extended Data](ext_articles/ac66a5c5.ext.json)
-
----
-
-### Passport sequence that has ended
-
-*2024-10-21 11:47:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடிவுக்கு-வந்துள்ள-கடவுச்சீட்டு-வரிசை/175-345772) · `ta`
-
-New passport batch arrives; distribution starts Monday. Long lines end but 750k applications nearing exhaustion. Cabinet discusses uninterrupted supply. E-passport case pending in High Court.
-
-🟩
-
-Minister Vijitha Herath said that the distribution of passports in the country will be carried out on Monday (21).
-
-A batch of new foreign passport has arrived in the country. Passport distribution will take place accordingly.
-
-He noted that the long line of passport has come to an end.
-
-Also, 750,000 foreign passports that have been applied will soon be exhausted. This is likely to cause a passport crisis again.
-
-In this case, the Minister said that the Cabinet has been consulted on the purchase of the passport uninterrupted.
-
-The case relating to the electronic passport is pending in the High Court. The Minister added that the e-Passport case will be carried out once the solution is issued.
-
-◼️
-
-[Data](articles/bd2c4f14.json)
-
-[Extended Data](ext_articles/bd2c4f14.ext.json)
-
----
-
-### Gold jewelry theft;Arrest of husband and wife
-
-*2024-10-21 11:42:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தங்க-நகை-திருட்டு-கணவன்-மனைவி-கைது/73-345771) · `ta`
-
-Gold jewelry theft: Husband-wife duo arrested for stealing Rs 260,000 worth of gold from a rental property. Recovered items include a gold garland and ATM card. Suspects to appear in court.
-
-🟩
-
-Kattankudy Police Station Respondent AMSA. Rahim said
-
-When the owner of a house located in Thiruchendur locked up the house and went to a birthday party, he had come to the house and immediately came home after a short message that he had purchased goods from his account.
-
-During the complaint, the couple who had rented the house to the house had stolen the golden route from the house and sold the golden route in a jewelery shop in Batticaloa for Rs 2,60,000..
-
-The persons involved in the incident were identified and arrested when they examined the CCTV camera of the supermarket.
-
-A gold garland and one lakh five thousand rupees of ATM card have been recovered from them.
-
-In addition, Kattankudy police are conducting further investigations and the suspects are to be produced before the Batticaloa Court of Justice.
-
-◼️
-
-[Data](articles/1f1afab6.json)
-
-[Extended Data](ext_articles/1f1afab6.ext.json)
-
----
-
-### Most of the dengue patients registered in Colombo
-
-*2024-10-21 11:41:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-அதிகளவான-டெங்கு-நோயாளர்கள்-பதிவு/175-345770) · `ta`
-
-Colombo reports high dengue cases: 1,874 patients identified since start of month, 41,285 total cases this year. Western Province leads with 17,549 cases, followed by Jaffna (4,832), Kandy (4,288), and Sabaragamuwa (4,177).
-
-🟩
-
-The National Dengue Eradication Unit said 1,874 people have been identified from the beginning of this month due to inclement weather in the country.
-
-Accordingly, 41,285 dengue cases have been reported from the beginning of this year.
-
-In particular, 17,549 patients have been reported in the Western Province, Colombo, Kalutara and Gampaha districts and the highest number of dengue patients are reported.
-
-Also, Jaffna. 4,832 patients in the district, 4,288 patients in the Kandy district of Central Province and 4,177 patients in the Sabaragamuwa Province, Kegalle and Ratnapura district, the National Dengue Eradication Unit said.
-
-◼️
-
-[Data](articles/bc33a4b3.json)
-
-[Extended Data](ext_articles/bc33a4b3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 20:58:38**
+As of **2024-10-21 21:11:16**
 
 ## Newspaper Stats
 
-*Scraped **50,617** Articles*
+*Scraped **50,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,446
 adalk | 4,702
 dailymirrorlk | 4,733
 adaderanalk | 5,997
-tamilmirrorlk | 6,941
+tamilmirrorlk | 6,943
 virakesarilk | 8,122
 adaderanasinhalalk | 8,787
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 8,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,617 (100.0%) of 50,617 articles have been extended.
+50,619 (100.0%) of 50,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Key notice on water supply
+
+*2024-10-21 20:46:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-விநியோகம்-குறித்து-முக்கிய-அறிவிப்பு/175-345804) · `ta`
+
+The Water Supply and Drainage Board said that the Wattala, Mabola, Ja-Ela, Katunayake-Sita Municipal Council areas will be supplied at the Wattala, Biyagama, Mahara, Thompa, Ja-Ela, Katana and Minuwangoda Pradeshiya Sabha at 12 noon tomorrow (22) at 12 noon..R
+
+◼️
+
+[Data](articles/5314436b.json)
+
+[Extended Data](ext_articles/5314436b.ext.json)
+
+---
+
+### Five arrests for the posters
+
+*2024-10-21 20:43:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவரொட்டிகளை-ஒட்டிய-ஐவர்-கைது/175-345803) · `ta`
+
+Five persons have been arrested by the Borella police on the posters of a candidate for a general election in violation of election laws in Borella.
+
+Those who entered the three -wheeler and a motorcycle this morning were arrested when the posters were placed near the Borella cemetery.
+
+Police are also responsible for the three -wheeler and motorcycle used to paste the posters.. Remble
+
+◼️
+
+[Data](articles/e61826bf.json)
+
+[Extended Data](ext_articles/e61826bf.ext.json)
+
+---
 
 ### If the two vehicles prove myself, they will say to politics
 
@@ -2213,55 +2245,5 @@ The former Minister had claimed that important information related to the Easter
 [Data](articles/8dd759bb.json)
 
 [Extended Data](ext_articles/8dd759bb.ext.json)
-
----
-
-### Easter attack reveals the truth
-
-*2024-10-21 10:48:19* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-ගැන-ඇත්ත-හෙළි-කරනවා/11-412582) · `si`
-
-Here's a 200-character summary:
-
-
-
-Presidential investigation ordered into Easter attacks. President claims fair probe, police instructed to investigate thoroughly. Previous reports not reviewed, current inquiry aims to uncover truth behind bombings.
-
-🟩
-
-President Anura Kumara Dissanayake said that there was a fair investigation into the Passover attack.
-
-He was speaking at a public meeting held in Katunayake yesterday. He also said that the Police Department and the Criminal Investigation Department have been instructed to conduct a fair investigation.
-
-"The Passover attack has been wake up after five years after the Passover attack. Now give that report, to give this report. Both reports Ranil Wickremesinghe records. Both is not under review committees. When I arrived, the secretary of the secretary asked the secretary what happened.
-
-Ranil Wickremesinghe wanted to suppress this test. We instructed the IGP and the CID to the Department of Criminal Investigation into the Passover attack. And when the coma was awake. Disrupt it, compuls. This person's involvement is not to discover true convictions. "
-
-◼️
-
-[Data](articles/b01eea75.json)
-
-[Extended Data](ext_articles/b01eea75.ext.json)
-
----
-
-### Sri Lanka unit of IOC profits halves in Sept 2024 quarter
-
-*2024-10-21 10:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-unit-of-ioc-profits-halves-in-sept-2024-quarter-184289/) · `en`
-
-ECONOMYNEXT – Lanka IOC, a unit of Indian Oil Corporation has reported profits of 2,525 million rupees in the September 2024 quarter down 50 percent from a year earlier, with cost of sales growing faster than sales, interim account show.
-
-Lanka IOC still posted profits of 4.74 rupees per share in the quarter. In the six months to September the company posted earnings of 11.83 rupees per share, down from 14.10 rupees a year earlier on total profits of 6,301 million rupees.
-
-Revenues grew 19 percent to 73.51 billion rupees, cost of sales went up at a faster 27 percent to 68.61 billion rupees and gross profits fell 37 percent to 4.9 billion rupees.
-
-Lanka IOC usually piggy backs on the pricing of Ceylon Petroleum Corporation and makes profits.
-
-Critics have said CPC is overstaffed and has procurement inefficiencies.
-
-...
-
-[Data](articles/1e3e2ad8.json)
-
-[Extended Data](ext_articles/1e3e2ad8.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 19:13:10**
+As of **2024-10-21 19:24:32**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 8,786
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,600 (100.0%) of 50,611 articles have been extended.
+50,606 (100.0%) of 50,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
 
-### புதிய கட்சியில் இணைந்தார் தமிதா
+### Tamita joined the new party
 
 *2024-10-21 18:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கட்சியில்-இணைந்தார்-தமிதா/175-345800) · `ta`
 
-நடிகையும், அரசியல் ஆர்வலருமான தமிதா அபேரத்ன, எதிர்வரும் பொதுத் தேர்தலில் தபால் பெட்டி சின்னத்தில் போட்டியிடும் ஜனநாயக தேசியக் கூட்டமைப்பில் (DNA) இணைந்ததுடன், ஐக்கிய மக்கள் சக்தியிலிருந்து (SJB) விலகுவதாக அறிவித்துள்ளார்.
+Actress and political activist Tamitha Abeyratne has joined the Democratic National Alliance (DNA) in the upcoming general election in the upcoming general election and announced that he would withdraw from the United People's Power (SJB).
 
-எஸ்.ஜே.பி.யின் தலைவர் சஜித் பிரேமதாச எனக்கு நியாயம் வழங்காததாலும், எனது ஜனநாயக உரிமைகளை நிலைநாட்டாததாலும் நான் எஸ்.ஜே.பியை விட்டு வெளியேற தீர்மானித்தேன் என அபேரத்ன ஊடகங்களுக்கு தெரிவித்தார்.
+SJP leader Sajith Premadasa told the media that I decided to leave the SJP because I did not give me justice and not uphold my democratic rights.
 
-ஒக்டோபர் 11 ஆம் திகதி வேட்புமனுக்கள் ஏற்றுக்கொள்ளப்பட்ட இறுதி நாளான கடைசி நேரத்தில் இரத்தினபுரி மாவட்டத்திற்கான SJBயின் வேட்பாளர் பட்டியலில் தமிதாவின் பெயர் சர்ச்சைக்குரிய வகையில் நீக்கப்பட்டது குறிப்பிடத்தக்கது.
+The last day of the acceptance of the nominations on October 11 was the controversial removal of Tamitha's name in the SJB candidate list for the Ratnapura district.
 
 ◼️
 
 [Data](articles/1980c630.json)
+
+[Extended Data](ext_articles/1980c630.ext.json)
 
 ---
 
@@ -114,19 +116,23 @@ It has been revealed that Senarathne was involved in the business of selling lan
 
 ---
 
-### මැතිවරණ ගැසට්ටුව අත්හිටුවන්නැයි ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
+### Petition to the Supreme Court to suspend electoral gazette
 
 *2024-10-21 18:13:20* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-ගැසට්ටුව-අත්හිටුවන්නැයි-ශ්‍රේෂ්ඨාධිකරණයට-පෙත්සමක්/11-412594) · `si`
 
-මහ මැතිවරණය සඳහා නාම යෝජනා කැඳවීම සහ ඡන්දය පැවැත්වෙන දිනය ප්‍රකාශයට පත් කිරීම මැතිවරණ පනතේ විධිධානයන්ට පටහැනි හෙයින් මහ මැතිවරණය පැවැත්වීම ප්‍රකාශයට පත්කළ ගැසට් නිවේදනය අත්හිටුවන්නැයි ඉල්ලමින් සිවිල් ක්‍රියාකාරකයකු වන ප්‍රියන්ත හේරත් මහතා ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් අද (21) ගොනු කළේය.
+Priyantha Herath, a civilian activist Priyantha Herath, a civilian activist, has filed a fundamental rights petition to the Supreme Court today (21).
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් මහ මැතිවරණය සඳහා නාම යෝජනා කැඳවීම සහ ඡන්දය පැවැත්වෙන දිනය ප්‍රකාශයට පත් කරමින් නිකුත් කළ ගැසට් නිවේදනයේ ඇති වරද නිවැරදි කිරීමට නියෝග කරන්නැයිද පෙත්සම්කරු අදාළ මූලික අයිතිවාසිකම් පෙත්සමෙන් ඉල්ලීමක් කර ඇත.
+President Anura Kumara Dissanayake ordered the correspondingment of the general election and the gazette notification issued by the Gazette Notification issued by the Petitioner has requested the fundamental rights petition.
 
-‘අපි ශ්‍රී ලංකා’ ජාතික සංවිධානයේ කැඳවුම්කරු වන ශ්‍රීයන්ත හේරත් මහතා ගොනු කළ මෙම පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙනුවෙන් නීතිපතිවරයාද, මැතිවරණ කොමිසම, ජනාධිපති ලේකම් ආචාර්ය නන්දික කුමානායක මහතා නම් කර ඇත.
+The Attorney General, the Attorney General, the Attorney General, the Attorney General, the Attorney General, the Attorney General, the Attorney General, is named as respondents, the petitioners who have filed the Sri Lanka National Organization's convener.
+
+Anura Kumara Dissanayake, a civil activist who said he was appointed as the President of the country on September 24, was on October 4 to October 11th to the dissolution of Parliament on September 24.It is stated that the General Election will be held on November 14 that the General Elections will be held on November 14.
 
 ...
 
 [Data](articles/87f36a01.json)
+
+[Extended Data](ext_articles/87f36a01.ext.json)
 
 ---
 
@@ -312,23 +318,29 @@ Due to years of protection, Sri Lanka’s rice is usually not export grade and t
 
 ---
 
-### விமல் நடிக்கும் பெயரிடப்படாத படத்தின் படப்பிடிப்பு நிறைவு
+### The shooting of the unnamed film starring Wimal
 
 *2024-10-21 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196805) · `ta`
 
-தமிழ் திரையுலகில் சந்தை மதிப்புள்ள நட்சத்திரமான நடிகர் விமல் கதையின் நாயகனாக நடித்து வரும் பெயரிடப்படாத திரைப்படத்தின் படப்பிடிப்பு நிறைவடைந்ததாக பட குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் அறிவித்துள்ளனர்.
+The film crew has been enthusiastically announced that the shooting of the unnamed film, which is playing the hero of the actor Wimal, the market -worth star in the Tamil film industry.
 
-இயக்குநரும், தயாரிப்பாளருமான அப்துல் மஜீத் இயக்கத்தில் உருவாகி வரும் பெயரிடப்படாத திரைப்படத்தில் விமல், சாம்பிகா டயானா, யோகி பாபு, எம். எஸ். பாஸ்கர், ரவி மரியா, மொட்டை ராஜேந்திரன், ஜான் விஜய், சாம்ஸ், நமோ நாராயணன், ஞானசம்பந்தம், பவர் ஸ்டார் சீனிவாசன், பயில்வான் ரங்கநாதன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+Director and producer Abdul Majeed. S.. Bhaskar, Ravi Maria, Motti Rajendran, John Vijay, Sams, Namo Narayanan, Gnanasambandham, Power Star Srinivasan, Pathilvan Ranganathan and many others have been cast.
 
-கே. கோகுல் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு பைஜூ ஜேக்கப் மற்றும் இ ஜே ஜான்சன் ஆகிய இருவரும் இணைந்து இசையமைத்திருக்கிறார்கள்.
+K. The film, which has been recorded by Gokul, has composed the film, both Baiju Jacob and E J Johnson.
 
-காமெடி ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை கான்ஃபிடன்ட் ஃபிலிம் க கஃபே நிறுவனம் சார்பில் இயக்குநர் அப்துல் மஜீத் தயாரித்திருக்கிறார்.
+The film is being produced in Comedy Janer and produced by Director Abdul Majeed on behalf of Confidant Film Cafe.
 
-படத்தைப் பற்றி இயக்குநர் பேசுகையில் , '' தற்போதைய இளைய தலைமுறையினர் அனைத்து பணிகளையும் இடைத்தரகர்கள் மூலமாகவே மேற்கொள்கிறார்கள்.
+Commenting on the film, the director said, “The current younger generation is carrying out all the tasks through the intermediaries.
+
+Many moments are favorable and many moments are adverse through such intermediaries.
+
+The shooting of the film is over. Official information on the first look and teaser will be released soon in the title of the film. ”
 
 ...
 
 [Data](articles/f7525784.json)
+
+[Extended Data](ext_articles/f7525784.ext.json)
 
 ---
 
@@ -410,63 +422,81 @@ She added that he would quit all the posts of the people's post and everyone who
 
 ---
 
-### ரசிகர்களுக்கும், ஊடகத்திற்கும் நன்றி தெரிவித்த 'வேட்டையன்' படக் குழு
+### The 'Vettayan' film crew thanked the fans and the media
 
 *2024-10-21 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196802) · `ta`
 
-சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில், லைக்கா புரொடக்ஷன்ஸ் நிறுவனத்தின் தயாரிப்பில், இயக்குநர் த. செ. ஞானவேல் இயக்கத்தில் உருவாகி, கடந்த பத்தாம் திகதியன்று உலகம் முழுவதும் பட மாளிகைகளில் வெளியான 'வேட்டையன்' எனும் திரைப்படம் வசூல் ரீதியாக வெற்றியைப் பெற்றது.
+Starring Super Star Rajinikanth, Produced by Leica Productions, Director The. Cm. The film 'Vettayan', which was released in the film mansions worldwide on the 10th of the last day, was a collectional success.
 
-இதற்காக படக்குழுவினர் சென்னையில் ஒன்று கூடி 'வேட்டையன்' வெற்றிக்கு காரணமான ரசிகர்களுக்கும், ஊடகத்தினருக்கும் நன்றி தெரிவித்தனர்.
+The film crew gathered in Chennai and thanked the fans and the media for the success of 'Vettayan'.
 
-சுப்பர் ஸ்டார் ரஜினிகாந்த், பொலிவுட் நட்சத்திர நடிகர் அமிதாப்பச்சன், பகத் பாசில், ராணா டகுபதி, மஞ்சு வாரியர் ஆகிய நட்சத்திர பட்டாளங்களின் நடிப்பில் வெளியான 'வேட்டையன்' திரைப்படம் கலவையான விமர்சனங்களை பெற்றாலும், வசூலில் இந்திய மதிப்பில் 300 கோடி கடந்து சாதனை படைத்துக் கொண்டிருக்கிறது.
+The film 'Vettayan', starring Super Star Rajinikanth, Bollywood star actor Amitabh Bachchan, Bhagat Basil, Rana Dagupati and Manju Warrior, has received mixed reviews, but has set a record of 300 crores in Indian value.
 
-இதற்காக சென்னையில் நடைபெற்ற நன்றி அறிவிப்பு விழாவில் பங்கு பற்றி இயக்குநர் த. செ. ஞானவேல் பேசுகையில், '' ஜெயிலர் எனும் பிரம்மாண்டமான வெற்றியை கொடுத்த சுப்பர் ஸ்டார் ரஜினிகாந்த் அதனை தொடர்ந்து இப்படி ஒரு கதையம்சம் உள்ள படத்தை தெரிவு செய்ததற்கு மிகப்பெரும் துணிச்சல் வேண்டும்.
+Director of participation in the Thanksgiving Ceremony held in Chennai. Cm. Gnanvel said, “Super Star Rajinikanth, who gave a huge success, a jailer, is a great courage to choose a film with such a storyline.
+
+When I described the story to him, I explicitly expressed that creative freedom.
+
+Accepting it, he gave full freedom until the film was released.
+
+I would like to express my sincere gratitude to Super Star Rajinikanth and the film production company Laika.
 
 ...
 
 [Data](articles/e3934694.json)
 
+[Extended Data](ext_articles/e3934694.ext.json)
+
 ---
 
-### சசிகுமார் நடிக்கும் 'ஃபிரீடம் ' படத்தின் பிரத்யேக காணொளி வெளியீடு
+### Sasikumar starrer 'Freedam'
 
 *2024-10-21 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196799) · `ta`
 
-நட்சத்திர நடிகரான சசிகுமார் கதையின் நாயகனாக அழுத்தமான வேடத்தில் நடித்திருக்கும் 'ஃபிரீடம்' எனும் திரைப்படத்தின் பிரத்யேகமான அறிமுக காணொளி வெளியிடப்பட்டிருக்கிறது.
+The star actor Sasikumar has released a special debut video of the film 'Freedam' which plays the role of the hero of the story.
 
-இயக்குநர் சத்ய சிவா இயக்கத்தில் உருவாகி இருக்கும் ' ஃபிரீடம் ' எனும் திரைப்படத்தில் சசிகுமார், லிஜோமோல் ஜோஸ், மாளவிகா அவினாஷ், போஸ் வெங்கட், ரமேஷ் கண்ணா, சுதேவ் நாயர், 'பொய்ஸ்' மணிகண்டன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+Directed by director Satya Siva, Sasikumar, Lijomol Jose, Malavika Avinash, Bose Venkat, Ramesh Kanna, Sudhev Nair, 'Poyes' Manikandan.
 
-இந்த திரைப்படத்தை விஜயா கணபதி'ஸ் பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் பாண்டியன் பரசுராமன் தயாரித்திருக்கிறார்.
+The film was produced by Pandian Parasuraman on behalf of Vijaya Ganapathi's Pictures.
 
-ஈழ மண்ணின் விடுதலைக்காக போராடும் போராளி குழுவின் தற்கொலை படையினர் அண்டை நாடான இந்தியாவிற்குள் ஊடுருவி அங்கு செல்வாக்கு மிக்க அரசியல் தலைவர் ஒருவரை படுகொலை செய்ய திட்டமிடுகிறார்கள்.
+Suicide soldiers of the militant group fighting for the liberation of Eelam soil are planning to infiltrate the neighboring India and assassinate an influential political leader.
 
-இதன் அடிப்படையில் நடைபெற்ற உண்மை சம்பவத்தை தழுவி 'ஃபிரீடம்' திரைப்படம் தயாராகி இருப்பதால் திரையுலக ரசிகர்களை கடந்து சர்வதேச நாடுகளின் பார்வையாளர்களையும், இந்திய மற்றும் தமிழக அரசியல்வாதிகளின் கவனத்தையும் கவர்ந்திருக்கிறது.
+Based on this, the film 'Freedam' has been prepared by the film's fans and the attention of international countries and the attention of Indian and Tamil politicians.
 
-...
+In this exclusive video, the militants who are fighting for the liberation of Eelam said, 'What did you come to India?The police officer asks the question.
+
+Instead it features the title of the film.Thus the expectation of the film has increased in fans.
+
+◼️
 
 [Data](articles/2746fed3.json)
 
+[Extended Data](ext_articles/2746fed3.ext.json)
+
 ---
 
-### நடிகர் கிருஷ்ணா நடிக்கும் புதிய படத்தின் தொடக்க விழா
+### Actor Krishna's new movie inauguration
 
 *2024-10-21 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196798) · `ta`
 
-நடிகரும், தயாரிப்பாளருமான கிருஷ்ணா சிறிய இடைவெளிக்குப் பிறகு மீண்டும் கதையின் நாயகனாக நடிக்கும் பெயரிடப்படாத புதிய படத்தின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+After a short break, actor and producer Krishna was once again the hero of the unnamed new film in Chennai.
 
-அறிமுக இயக்குநர் அப்பாதுரை பாரதிராஜா இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் கிருஷ்ணா மற்றும் நடிகை வர்ஷா விஸ்வநாத் ஆகிய இருவரும் முதன்மையான கதாபாத்திரங்களில் நடிக்கிறார்கள்.
+Krishna and actress Varsha Viswanath are playing the lead roles in the untitled film directed by debutant director Appadurai Bharathiraja.
 
-சஸ்பென்ஸ் மற்றும் எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை டான் கிரியேஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் எல். கணேஷ் தயாரிக்கிறார்.
+The film is set to be a suspense and exercise entertainer on behalf of Don Creations Company.. Ganesh is producing.
 
-இதன் போது கிருஷ்ணா நடிப்பில் வெளியாகி வெற்றி பெற்ற 'கழுகு' எனும் திரைப்படத்தின் இயக்குநர் சத்ய சிவா சிறப்பு அதிதியாக பங்குபற்றினார்.
+Sathya Siva, director of the film 'Eagle', starred in Krishna starring in the film, participated as a special guest.
 
-படத்தைப் பற்றி இயக்குநர் பேசுகையில், '' கிராமத்துப் பின்னணியில் அனைத்து தரப்பு ரசிகர்களும் கவரும் வகையில் சஸ்பென்ஸ் மற்றும் ஆக்ஷன் கலந்த திரைக்கதையாக இப்படத்தின் கதை உருவாக்கப்பட்டிருக்கிறது.
+Commenting on the film, the director said, “The story of the film has been created as a suspense and action screenplay for all the fans in the village behind.
 
-இப்படத்தின் படப்பிடிப்பு தற்போது தமிழக மாநகர்களான திருச்சி மற்றும் மதுரை புறநகர் பகுதியில் நடைபெற்று வருகிறது.
+The shooting of the film is currently underway in the suburbs of Tamil Nadu and Madurai.
 
-...
+It is noteworthy that the film was released earlier this year, starring actor Krishna, and that he was only playing the role of a character in the last few years, and after a short break, he is playing the hero of the story.
+
+◼️
 
 [Data](articles/79b185e7.json)
+
+[Extended Data](ext_articles/79b185e7.ext.json)
 
 ---
 

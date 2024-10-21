@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 20:12:00**
+As of **2024-10-21 20:24:04**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ adaderanasinhalalk | 8,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,614 (100.0%) of 50,615 articles have been extended.
+50,615 (100.0%) of 50,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
 
-### ප්‍රදේශ කිහිපයක ජල සැපයුම ගැන දැනුම්දීමක්
+### Notice of water supply in several areas
 
 *2024-10-21 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202411) · `si`
 
-ජල සැපයුම් නල මාර්ගයක ඇතිවූ හදිසි බිඳ වැටීමක් හේතුවෙන් ගම්පහ දිස්තික්කයේ ප්‍රදේශ කිහිපයට ජල සැපයුම අඩු පීඩනයක් යටතේ සිදුවන බව ජාතික ජල සම්පාදන සහ ජලාපවාහන මණ්ඩලය පවසයි.
+The National Water Supply and Drainage Board (NPF) says that the water supply of water has under pressure from the Gampaha District due to a sudden death of a water supply pipeline.
 
-ඒ අනුව වත්තල, මාබෝල, ජා ඇල සහ කටුනායක-සීදුව නගර සභා ප්‍රදේශ සහ වත්තල, බියගම, මහර, ජා ඇල, කටාන සහ මිනුවන්ගොඩ ප්‍රාදේශීය සභා කලාප සඳහා අඩු පීඩනයක් යටතේ ජලය සැපයෙයි.
+Accordingly, water supply water for low pressure on Wattala, Mabala, Ja-Ela and Katunayake-Seeduwa Municipal Councils and Wattala, Biyagama, Mahara, Ja-Ela, Katana and Minuwangoda Pradeshiya Sabry.
 
-උස ස්ථානවල ජලය සැපයුමට බාධා එල්ලවෙතැයි ජාතික ජල සම්පාදන සහ ජලාපවාහන මණ්ඩලය පැවසීය.
+National Water Supply and Drainage Board said that the supply of water in heights are interrupted.
 
-මෙහි අලුත්වැඩියා කටයුතු සිදුකෙරෙන බවත් ජල සැපයුම හෙට දහවල් 12ට පමණ යථා තත්ත්වයට පත්කිරීමට හැකිවෙතැයි සඳහන් ය.
+It is said that the repair work will be carried out and the water supply will be restored tomorrow afternoon.
 
 ◼️
 
 [Data](articles/ab696d9b.json)
+
+[Extended Data](ext_articles/ab696d9b.ext.json)
 
 ---
 

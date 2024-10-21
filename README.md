@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 14:13:16**
+As of **2024-10-21 14:25:30**
 
 ## Newspaper Stats
 
-*Scraped **50,549** Articles*
+*Scraped **50,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 4,690
 dailymirrorlk | 4,733
 adaderanalk | 5,988
 tamilmirrorlk | 6,930
-virakesarilk | 8,104
+virakesarilk | 8,111
 adaderanasinhalalk | 8,777
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,549 (100.0%) of 50,549 articles have been extended.
+50,549 (100.0%) of 50,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### வத்தளையில் ஹெரோயினுடன் ஒருவர் கைது
+
+*2024-10-21 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196777) · `ta`
+
+வத்தளை பொலிஸ் பிரிவுக்கு உட்பட்ட களுபாலத்திற்கு அருகில் ஹெரோயின் மற்றும் போதைப்பொருள் கடத்தல் மூலம் சம்பாதித்ததாக சந்தேகிக்கப்படும் பணத்துடன் சந்தேக நபரொருவர் பொலிஸ் விசேட அதிரடிப்படையினரால் நேற்று ஞாயிற்றுக்கிழமை (20) கைது செய்யப்பட்டுள்ளார்.
+
+பொலிஸ் விசேட அதிரடிப்படையினருக்கு கிடைத்த தகவலின் பேரில் மேற்கொண்ட சுற்றிவளைப்பின் போதே சந்தேக நபர்  கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 258 கிராம் ஹெரோயின், போதைப்பொருள் கடத்தல் மூலம் சம்பாதித்ததாக சந்தேகிக்கப்படும் 3,069,890 ரூபா பணம் மற்றும் கார் என்பன கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/7d150522.json)
+
+---
 
 ### Investigation into Chilaw deaths
 
@@ -111,6 +127,20 @@ Therefore, the President should apologize to the public for not using power prop
 [Data](articles/78f31448.json)
 
 [Extended Data](ext_articles/78f31448.ext.json)
+
+---
+
+### பண்டாரவளையில் வீதி தாழ் இறக்கம்
+
+*2024-10-21 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/196764) · `ta`
+
+பண்டாரவளை பிதுனுவெவ -  திக்உல்பத கிரிஓருவ வீதி தாழ் இறங்கியதன் காரணமாக வீதியின் 25 மீற்றர் நிலப்பகுதி உடைந்து சேதமடைந்துள்ளதாக வீதி அபிவிருத்தி அதிகார சபையின் தியத்தலாவ பிரதேச பொறியியலாளர் ஜனக ரத்நாயக்க தெரிவித்தார்.
+
+இந்த வீதியூடாக பண்டாரவளை பிதுனுவெவயிலிருந்து திக்உல்பத கிரிஓருவ வரை பயணிகள் போக்குவரத்து பஸ்கள் பயணிக்கின்றன.
+
+◼️
+
+[Data](articles/c6a905a5.json)
 
 ---
 
@@ -220,6 +250,72 @@ President’s Counsel Maithree Gunaratne, who is representing several suspects w
 
 ---
 
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-10-21 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196769) · `ta`
+
+இன்று  திங்கட்கிழமை (21) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 288.6142 ரூபாவாகவும், விற்பனை விலை 297.6054 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/88b5689e.json)
+
+---
+
+### மாத்தறையில் ஒருவர் சுட்டுக் கொலை ;  இருவர் கைது
+
+*2024-10-21 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196755) · `ta`
+
+மாத்தறை, நாவிமன, ருவன்வெல்ல பிரதேசத்தில் நபர் ஒருவர் சுட்டுக் கொலை செய்யப்பட்ட சம்பவத்துடன் தொடர்புடைய இரண்டு சந்தேக நபர்கள் பொலிஸ் விசேட அதிரடிப்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்கள் மாத்தறை கேகனதுர மற்றும் தோட்டமுன பிரதேசங்களைச் சேர்ந்த 26 ,29 வயதுடையவர்கள் ஆவர்.
+
+மாத்தறை, நாவிமன, ருவன்வெல்ல பிரதேசத்திற்கு கடந்த 15ஆம் திகதி காரில் வந்த இனங்காணாத நபர்கள் சிலர் முச்சக்கரவண்டியில் இருந்த நபர் ஒருவரை துப்பாக்கியால் சுட்டுக் காலை செய்துவிட்டு அங்கிருந்த தப்பிச் சென்றிருந்தனர்.
+
+இதனையடுத்து பொலிஸாரால் மேற்கொள்ளப்பட்ட விசாரணையில், இந்த துப்பாக்கிச் சூட்டு சம்பவத்துடன் தொடர்புடைய பிரதான துப்பாக்கி தாரி மற்றும் காரை செலுத்திச் சென்ற நபர் ஆகியோர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் மேலதிக விசாரணைகளுக்காக மாத்தறை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/96d2694c.json)
+
+---
+
+### யாழ். தெல்லிப்பளையில் பற்றைக்காட்டில் சொகுசு கார் மீட்பு
+
+*2024-10-21 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/196773) · `ta`
+
+யாழ்ப்பாணம் தெல்லிப்பளை பகுதியில் பற்றைக்காடொன்றில் இருந்து சொகுசு கார் ஒன்று பொலிஸாரினால் மீட்கப்பட்டுள்ளது.
+
+பற்றைக்காடு ஒன்றினுள் சொகுசு கார் ஒன்று மறைத்து வைக்கப்பட்டுள்ளதாக பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு சென்ற பொலிஸார் காரை மீட்டு பொலிஸ் நிலையம் கொண்டு சென்றுள்ளனர்.
+
+பொலிஸ் நிலையத்தில் காரின் இலக்க தகட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த வேளை , அது போலியானது என தெரிய வந்துள்ளது. அத்துடன் காரில் இருந்த ஆவணங்களும் போலியானவை என்பது தெரிய வந்துள்ளது.
+
+குற்றச்செயல்களுடன் தொடர்புடைய காராக இருக்காமல் என பொலிஸார் சந்தேகிக்கின்றனர். கார் தொடர்பான மேலதிக விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/e1789933.json)
+
+---
+
+### தொழில்நுட்பக் கோளாறு ; கோட்டை -  மருதானை இடையே ரயில் சேவை தாமதம்
+
+*2024-10-21 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196772) · `ta`
+
+கோட்டை ரயில் நிலையத்தில் ஏற்பட்ட தொழில்நுட்ப கோளாறினால் கொழும்பு - கோட்டை மற்றும் மருதானை இடையிலான ரயில் சேவையில் தாமதம் ஏற்பட்டுள்ளதாக இலங்கை திணைக்களம் தெரிவித்துள்ளது.
+
+ரயில்வே சுவிட்சுகளில் ஏற்பட்டப தொழில்நுட்ப  கோளாறுகளினால் மருதானை நோக்கிச் செல்லும் அனைத்து ரயில்களும் இடைநிறுத்தப்பட்டுள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
+
+தொழில்நுட்பக் கோளாறு சரிசெய்ய குழுக்கள் செயல்படுவதால் ரயில் சேவைகள் தாமதமாகும் என  தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f5f9d884.json)
+
+---
+
 ### 21/4 Report Affairs; President Action
 
 *2024-10-21 12:21:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-அறிக்கை-விவகாரம்-ஜனாதிபதி-அதிரடி/175-345773) · `ta`
@@ -316,6 +412,30 @@ Retired Report S. I. The committee was handed over to the committee headed by th
 
 ---
 
+### New Zealand is the first time in the ICC Women's R20 World Cup
+
+*2024-10-21 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196737) · `ta`
+
+New Zealand wins inaugural ICC Women's R20 World Cup, defeating South Africa in UAE final.
+
+🟩
+
+New Zealand won the Champions title for the first time in the 9th ICC Women's R20 World Cup chapter in the United Arab Emirates.
+
+For the first time, the two teams have come up with the aim of taking the ICC Women's R20 World Cup.
+
+New Zealand scored 158 runs for the loss of 5 wickets in 20 overs, scoring first in the final of the final at the Dubai International Cricket Stadium on Sunday (20).
+
+South Africa lost 9 wickets in 20 overs and lost 126 runs.
+
+◼️
+
+[Data](articles/bed634b6.json)
+
+[Extended Data](ext_articles/bed634b6.ext.json)
+
+---
+
 ### Jagath, who is in Kuwait and bring medals for Sri Lanka
 
 *2024-10-21 11:56:23* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-සිටිමින්-ලංකාව-වෙනුවෙන්-පදක්කම්-ගේන-ජගත්/11-412585) · `si`
@@ -361,6 +481,24 @@ Two Easter reports were made public and published today.
 [Data](articles/a4db5bba.json)
 
 [Extended Data](ext_articles/a4db5bba.ext.json)
+
+---
+
+### சூரியவெவ பகுதியில் துப்பாக்கி தயாரிக்கும் தொழிற்சாலையை நடத்தி வந்த நபர் கைது !
+
+*2024-10-21 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196763) · `ta`
+
+சூரியவெவ, வெவேகம பகுதியில்  மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது  துப்பாக்கி தயாரிக்கும் தொழிற்சாலையை நடத்தி வந்த நபரொருவர்  கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+அம்பாந்தோட்டை விசேட அதிரடிப்படையினரின் முகாம் அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று ஞாயிற்றுக்கிழமை (20) சுற்றிவளைப்பு மேற்கொள்ளப்பட்டுள்ளது.
+
+உள்நாட்டில் உற்பத்தி செய்யப்பட்ட T ரக துப்பாக்கி,  துப்பாக்கி தயாரிக்க பயன்படுத்தப்படும் பாகங்கள் மற்றும் ஆயுதங்கள் என்பன  கைப்பற்றப்பட்டதாக  பொலிஸார் தெரிவித்தனர்.
+
+மேலும், சம்பவம் தொடர்பில் மேலதிக விசாரணைகளுக்காக சந்தேகநபர்  சூரியவெவ பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/ac66a5c5.json)
 
 ---
 
@@ -2172,30 +2310,6 @@ Sri Lanka recently issued licenses to import 300,000 tonnes of maize, as the Yal
 
 ---
 
-### New Zealand is the first time in the ICC Women's R20 World Cup
-
-*2024-10-21 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196737) · `ta`
-
-New Zealand wins inaugural ICC Women's R20 World Cup, defeating South Africa in UAE final.
-
-🟩
-
-New Zealand won the Champions title for the first time in the 9th ICC Women's R20 World Cup chapter in the United Arab Emirates.
-
-For the first time, the two teams have come up with the aim of taking the ICC Women's R20 World Cup.
-
-New Zealand scored 158 runs for the loss of 5 wickets in 20 overs, scoring first in the final of the final at the Dubai International Cricket Stadium on Sunday (20).
-
-South Africa lost 9 wickets in 20 overs and lost 126 runs.
-
-◼️
-
-[Data](articles/bed634b6.json)
-
-[Extended Data](ext_articles/bed634b6.ext.json)
-
----
-
 ### Rights of children with disabilities: Challenge for new President and incoming Government
 
 *2024-10-21 00:18:15* · [`dailyftlk`](https://www.ft.lk/columns/Rights-of-children-with-disabilities-Challenge-for-new-President-and-incoming-Government/4-768193) · `en`
@@ -2209,175 +2323,5 @@ The current administrative arrangements do not seem to have brought the required
 [Data](articles/86b8dfca.json)
 
 [Extended Data](ext_articles/86b8dfca.ext.json)
-
----
-
-### 2024-10-20 (Sunday)
-
-### Sri Lanka won the West Indies by 5 wickets in the Duckworth Louis system;Madhushka, Asalann ODI has made it easy
-
-*2024-10-20 23:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196738) · `ta`
-
-Sri Lanka wins West Indies ODI by 5 wickets. Madhushka and Asalanka share 137-run partnership. Rain delays impact match. Sri Lanka leads 1-0 in series.
-
-🟩
-
-Sri Lanka won the West Indies by 5 wickets in the West Indies, according to the West Indies, in the first ODI match, which was blocked by rain on Sunday (20) at the Pallekel International Cricket Stadium in Kandy.
-
-The half -century of debutant Nishan Madushka and team captain Sarith Asalan and the 137 runs shared in the 4th wicket led to Sri Lanka's victory.
-
-With this victory, Sri Lanka is leading 1 - 0 in the ODI series with three matches.
-
-West Indies, who decided to bat first, were disrupted by the rain when it rained 185 runs for the loss of 4 wickets in 38.3 overs.
-
-Sharefan Radhabard did not play with 74 runs and Roston Chase 33.
-
-When the banned game at 5.00 pm continued again at 8.25 pm, Sri Lanka's Duckworth Lewis system was set to 232 in 37 overs.
-
-Sri Lanka scored 234 runs for the loss of 5 wickets in 31.5 overs.
-
-Avishka Fernando (5), Kusal Mendis (13) and Sadheera Samarawickrama (18) lost the game when Sri Lanka was bowled out.. (45 - 3 wig.)
-
-...
-
-[Data](articles/3bbe44ae.json)
-
-[Extended Data](ext_articles/3bbe44ae.ext.json)
-
----
-
-### Madushka and Swarf Sounds win Sri Lanka
-
-*2024-10-20 23:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202384) · `si`
-
-Sri Lanka wins first ODI against West Indies. Madushka and Swarf Sounds shine. Rain reduces overs but SL scores 232/7 in 37 overs. Charth Consent hits 77* in debut ODI. SL takes series 1-0.
-
-🟩
-
-Tourist bi. The Sri Lankan team was able to win the first one-day match by defeating West Indies.
-
-With this Jayath, Sri Lanka took the three-match tournament.
-
-The West Indies was banded first while they were bowled out for 185 runs for the loss of 4 wickets in 38 balls.
-
-For more than two hours, the rain was reduced to reduce the number of overs of the match.
-
-Sri Lanka won 232 runs in 37 overs.
-
-Charth Consent of Charth Consent (77) and his first ODI was playing half-century.
-
-They took 3 wickets for 45 runs to 182 runs.
-
-The 5th wicket scored 137 off 109 balls.
-
-◼️
-
-[Data](articles/dfe82e5e.json)
-
-[Extended Data](ext_articles/dfe82e5e.ext.json)
-
----
-
-### Why two-third majority for NPP?
-
-*2024-10-20 23:02:19* · [`dailyftlk`](https://www.ft.lk/columns/Why-two-third-majority-for-NPP/4-768190) · `en`
-
-A supportive parliament with two-third majority for NPP is an absolute must for the new regime to translate its promises into action
-
-AKD expects his JVP-led NPP to win a majority of seats in the legislature to make his task easier. The question is whether that majority should be a simple working majority or a solid two-third majority. Disastrous consequences under governments that ruled with two-third majority in the past had provoked political pundits and opinion makers to question the wisdom of electing governments with two-third majority. Without questioning their wisdom however, a special case could be argued in favour of such a majority to the regime (the terminology is employed neutrally) headed by President AKD.
-
-...
-
-[Data](articles/6899b3d5.json)
-
-[Extended Data](ext_articles/6899b3d5.ext.json)
-
----
-
-### Undue attack on President Anura Kumara Dissanayake and the NPP
-
-*2024-10-20 22:57:59* · [`dailyftlk`](https://www.ft.lk/columns/Undue-attack-on-President-Anura-Kumara-Dissanayake-and-the-NPP/4-768189) · `en`
-
-The people have confidence that AKD, with his progressive policies and a genuine agenda for national development, is the leader who can guide the country forward
-
-Unlike the traditional political parties that have operated under a “you scratch my back, I’ll scratch yours” arrangement, the NPP under President AKD stands independent, promising nothing but results for the people. The parties that have suffered crushing defeats are now devoid of manifestos or visions, as they have plundered the nation’s resources and sold off valuable assets. It is crucial that the public be vigilant in casting their votes, ensuring that corrupt individuals do not return to power
-
-...
-
-[Data](articles/babe359a.json)
-
-[Extended Data](ext_articles/babe359a.ext.json)
-
----
-
-### President of Zearion, President
-
-*2024-10-20 22:56:43* · [`adalk`](https://www.ada.lk/breaking_news/සියරාලියොන්-ජනපති-ඒයි/11-412577) · `si`
-
-Zaralione's first foreign president Julius Mada Bie visited Sri Lanka. He arrived at Katunayake Airport with a delegation of nine others. A senior official from the Ministry of External Affairs welcomed them.
-
-🟩
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා පත් වීමෙන් පසු මෙරටට පැමිණි පළමු විදේශීය ජනාධිපතිවරයා ලෙස සියරාලියෝන් රාජ්‍යයේ ජනාධිපති ජූලියස් මාඩා බීඕ මහතා දෙදින සංචාරයක් සදහා 10/20 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය .
-
-As a delegation with him, nine others were also present.They had arrived at the Katunayake airport at 05.20 pm on Friday at Zaralione.
-
-A senior officials of the Ministry of External Affairs was present at the Bandaranaike International Airyaka to accept them.
-
-◼️
-
-[Data](articles/07b7d570.json)
-
-[Extended Data](ext_articles/07b7d570.ext.json)
-
----
-
-### T20 Women's World Cup to New Zealand
-
-*2024-10-20 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202383) · `si`
-
-New Zealand wins T20 Women's World Cup, defeating South Africa by 32 runs. This is New Zealand's first victory in the tournament. The final match was held in Dubai, UAE. It's New Zealand's third appearance in the final, having been runners-up in 2009 and 2010.
-
-🟩
-
-New African team defeated by 32 runs and New Zealand won the championship of the Twenty20 Women Cricket.
-
-Accordingly, this was the first World Cup in women's cricket to win New Zealand.
-
-The finals of the tournament in the United Arab Emirates were held today (20) at Dubai.
-
-In response to the target of 159 runs in New Zealand, South Africa were able to score only 126 runs in the 20 overs.
-
-This is the third time New Zealand played a final in T20 Women's World Cup history.
-
-They had previously played the final match of the years 2009 and 2010, but they had to be satisfied with the runner-up.
-
-◼️
-
-[Data](articles/50e38620.json)
-
-[Extended Data](ext_articles/50e38620.ext.json)
-
----
-
-### Prabowo becomes Indonesia’s eighth president, vows to tackle corruption
-
-*2024-10-20 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102818/prabowo-becomes-indonesias-eighth-president-vows-to-tackle-corruption) · `en`
-
-Indonesia’s Prabowo Subianto on Sunday took over as president of the world’s third-largest democracy, vowing to combat internal issues such as corruption that plague the country and to make it more self-sufficient.
-
-The 73-year-old has undergone a remarkable transformation, from being a former military commander facing unproven allegations of rights abuses to sweeping the polls and now leading the country of 280 million people.
-
-Wearing a traditional black hat and navy suit with a woven maroon and golden sarong, Prabowo officially became Indonesia’s eighth president on Sunday morning after he was sworn in during a ceremony at Indonesia’s parliament.
-
-Prabowo, who unsuccessfully ran for the presidency twice before, said in a fiery speech to lawmakers he would be president for all Indonesians and challenged the nation to help him face down the country’s problems.
-
-“We must always realise that a free nation is where the people are free,” Prabowo said, at times raising his voice.
-
-...
-
-[Data](articles/61f1f249.json)
-
-[Extended Data](ext_articles/61f1f249.ext.json)
 
 ---

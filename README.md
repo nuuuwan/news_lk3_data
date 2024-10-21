@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 12:26:09**
+As of **2024-10-21 12:39:30**
 
 ## Newspaper Stats
 
@@ -26,35 +26,41 @@ adaderanasinhalalk | 8,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,533 (100.0%) of 50,536 articles have been extended.
+50,536 (100.0%) of 50,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
 
-### වෛද්‍යවරියගේ නිවසට බලහත්කාරයෙන් ඇතුළුවී රන් භාණ්ඩ සොරකම් කළ දෙදෙනා අල්ලයි
+### Two forcibly enforced doctor's house and stole gold goods
 
 *2024-10-21 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202397) · `si`
 
-වෛද්‍යවරියකගේ නිවසට සාපරාධී ලෙස බලහත්කාරයෙන් ඇතුළු වී මුදල් හා රත්‍රං බඩු කොල්ල කෑ දෙදෙනෙකු තලංගම අපරාධ අංශය මගින් අත්ඩංගුවට ගෙන තිබේ.
+Two doctors robbed home, stole gold worth 700,000. Suspects arrested, to appear in court today. Investigation reveals drug addiction.
 
-පසුගිය 19 වනදා තලංගම පොලීසියට ලද පැමිණිල්ලකට අනුව සිදුකළ මූලික විමර්ශනවලදී මෙම සැකකරුවන් හඳුනාගෙන තිබුණි.
+🟩
 
-මෙම සිදුවීමට මුහුණ දී ඇත්තේ ශ්‍රී ජයවර්ධනපුර රෝහලේ සේවය කරන 43 හැවිරිදි වෛද්‍යවරියකි.
+Two criminalized forced force and plundered money and gold rooted persons have been arrested by the Talangama Crimes Division.
 
-විමර්ශනවලදී අනාවරණය වී ඇත්තේ ඔවුන් දැඩි ලෙස මත්ද්‍රව්‍ය සඳහා ඇබ්බැහි වී ඇති බවයි.
+The suspects had been identified by the preliminary investigations carried out on a complaint lodged with the Thalangama Police on the 19th.
 
-45 හැවිරිදි සැකකරු නිවසෙන් පිටත රැඳී සිට ඇති අතර අනෙක් සැකකරු නිවසට බලහත්කාරයෙන් පැන වෛද්‍යවරියගේ ගෙලට පිහියක් තබා ඇගේ රන් මාලය සහ අනෙකුත් රත්‍රං භාණ්ඩ කොල්ලකා පළා ගොස් ඇත.
+The incident is a 43 year old medical professional working in the Sri Jayewardenepura Hospital.
 
-මෙලෙස සොරකම් කරන ලද රත්‍රංවල මුළු වටිනාකම ලක්ෂ හතකට ආසන්න බව සඳහන් ය.
+Investigations have revealed that they are severely addicted to drugs.
 
-සිද්ධිය වූ අවස්ථාවේදී අසල්වාසියෙකු විසින් මෙම සිදුවීම පටිගත කර ඇති අතර එම වීඩියෝ දර්ශන සහ CCTV දර්ශන උපයෝගී කරගනිමින් මෙම සැකකරුවන් හඳුනාගෙන තිබුණි.
+The 45-year-old suspect had been staying outside the house and had a knife to the house and plundered her golden necklace and other gold.
 
-ඔවුන් ඊයේ (20) තලංගම පොලීසිය මගින් අත්තඩංගුවට ගෙන ඇති අතර අද (21) සැකකරුවන් දෙදෙනා කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත ය.
+The total value of the stolen gold is nearly seven lakhs.
+
+The suspects had been identified using a neighbors at the time of the incident.
+
+They have been arrested by the Talangama Police yesterday and the two suspects today are to be produced before the Kaduwela Magistrate's Court today.
 
 ◼️
 
 [Data](articles/d59e2bcf.json)
+
+[Extended Data](ext_articles/d59e2bcf.ext.json)
 
 ---
 
@@ -637,6 +643,8 @@ In equities, Colombo’s All Share Price Index opened up 0.04 percent, or 4.89 p
 ◼️
 
 [Data](articles/894d7afe.json)
+
+[Extended Data](ext_articles/894d7afe.ext.json)
 
 ---
 
@@ -1833,6 +1841,8 @@ Sri Lanka recently issued licenses to import 300,000 tonnes of maize, as the Yal
 ...
 
 [Data](articles/4539cbf6.json)
+
+[Extended Data](ext_articles/4539cbf6.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 11:40:16**
+As of **2024-10-21 11:59:50**
 
 ## Newspaper Stats
 
-*Scraped **50,523** Articles*
+*Scraped **50,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,985
 tamilmirrorlk | 6,924
 virakesarilk | 8,104
-adaderanasinhalalk | 8,769
+adaderanasinhalalk | 8,770
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,523 (100.0%) of 50,523 articles have been extended.
+50,524 (100.0%) of 50,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Israeli air strikes to banks
+
+*2024-10-21 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202394) · `si`
+
+Israel launches airstrikes on Hezbollah-controlled banks in Lebanon. Defense Minister claims targeting Iranian assets. Casualties reported as conflict escalates.
+
+🟩
+
+It is reported that Israel has launched air strikes to the banks maintained by the Hezbollat ​​in Bebange in Lebanon.
+
+The Israeli Defense Minister said that the Israeli defense minister was destroying Iran.
+
+It is said that 1,800 people have died since the commencement of the hezbollah in Lebanon last month.
+
+◼️
+
+[Data](articles/9de6e90d.json)
+
+[Extended Data](ext_articles/9de6e90d.ext.json)
+
+---
 
 ### Militants kill seven, including six migrant workers, in India’s Kashmir
 
@@ -44,7 +66,9 @@ The victims of Sunday’s attack were involved in the construction of tunnels me
 
 “At least two armed militants barged into the mess of the private construction company and fired at workers who were dining at the time of the attack,” said a senior police officer who did not want to be named.
 
-◼️
+Six workers and a doctor were killed and five others were injured in the attack, he said.
+
+...
 
 [Data](articles/f96523be.json)
 
@@ -2289,23 +2313,5 @@ Both sides may sign a Memorandum of Understanding (MoU), claiming that they have
 [Data](articles/7338a45a.json)
 
 [Extended Data](ext_articles/7338a45a.ext.json)
-
----
-
-### The Tamil People's Alliance has fielded eligible candidates
-
-*2024-10-20 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196712) · `ta`
-
-Tamil People's Alliance fields candidates; TNA faces personnel loss; party expiration imminent; Jaffna sees change; unity against corruption sought; political team formation underway; favorable position created.
-
-🟩
-
-Many personnel have left the TNA party. That is why I say that the expiration of the party has come. This is the period of change. This is the case in Jaffna. We want to unite the corrupt personality of any party not only from the Tamil party but to create our political team. So this has created a favorable position.
-
-◼️
-
-[Data](articles/4a62f785.json)
-
-[Extended Data](ext_articles/4a62f785.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 23:10:40**
+As of **2024-10-21 23:23:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,628 (100.0%) of 50,629 articles have been extended.
+50,629 (100.0%) of 50,629 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,25 +60,39 @@ The Tamil people have been a national ethnic problem for the past 75 years. The 
 
 ---
 
-### சார் - திரைப்பட விமர்சனம்
+### Sir - Movie Review
 
 *2024-10-21 22:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196808) · `ta`
 
-நடிகர்கள் : விமல், சாயா தேவி, சரவணன், ரமா, எஸ். சிராஜ், சரவண சக்தி, எழுத்தாளர் ஜெயபாலன் மற்றும் பலர்.
+Here's a 200-character summary of the movie review:
 
-நடிகரும், இயக்குநருமான போஸ் வெங்கட் இயக்கத்தில் உருவாகி இருக்கும் இரண்டாவது திரைப்படம் 'சார்'. இந்தத் திரைப்படத்தை பார்த்து ரசித்து, இது சமூகத்திற்கு சொல்லப்பட வேண்டிய கருத்து என வியந்து தன்னுடைய நிறுவனத்தின் மூலம் இயக்குநர் வெற்றிமாறன் பார்வையாளர்களுக்கு வழங்கி இருக்கிறார்.
 
-வெற்றிமாறனின் பங்களிப்பிற்கு பிறகு படத்தைப் பற்றிய எதிர்பார்ப்பு அதிகரித்தது.‌ இந்நிலையில் இந்த திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
 
-மாங்கொல்லை எனும் கிராமத்தில் அரசாங்க அனுசரணையுடன் இயங்கி வரும் பாடசாலையில் தலைமையாசிரியராக பணியாற்றுகிறார் பொன்னரசன்.
+"Sir" film review: Bose Venkat's directorial debut explores caste issues in 1950s-80s Tamil Nadu. Saravanan shines as Ponnarasan, while Vimal impresses in romantic and action scenes. Sayadevi makes a strong debut. Music by Sidhu Kumar adds depth. Some emotional scenes lack intensity. Overall, a powerful portrayal of educational rights for oppressed communities.
 
-இவரது தந்தை அண்ணாதுரையும் இந்த பாடசாலையில் தலைமை ஆசிரியராக பணியாற்றி ஓய்வு பெற்றவர் .
+🟩
 
-அவர் தற்போது புத்தி பேதலித்த நிலையில் சங்கிலியால் கட்டப்பட்டிருக்கிறார். இவரது இயலாமையை ஊரில் உள்ள பாடசாலையில் படிக்கும் மாணவர்கள் தூண்டிவிட்டு வேடிக்கை பார்க்கிறார்கள்.
+Actors: Wimal, Saya Devi, Saravanan, Rama, S. Siraj, Saravana Shakti, writer Jayapalan and others.
+
+Actor and Director Bose Venkat is the second film 'Sir'. Watching the film, the director has given the audience through his company, amazing that this should be said to the community.
+
+After the contribution of Vijayamaran, the expectation of the film increased.Or not?We will continue to see.
+
+Ponnarasan works as the headmaster in a school -sponsored school in the village of Mangollai.
+
+His father Annadurai was also retired as the headmaster of the school.
+
+He is currently being built by chains. Students studying in the school in the town are provoking his disability and having fun.
+
+Thus, Sivagnanam, the son of Ponnarasan, who is provoking, fights for justice for the students who mocked his grandfather.
+
+But because they are the dominant caste, his mother suppresses Sivagnanam that he should not go to fight.
 
 ...
 
 [Data](articles/a87b5e08.json)
+
+[Extended Data](ext_articles/a87b5e08.ext.json)
 
 ---
 
@@ -1436,6 +1450,10 @@ The overall rate of inflation as measured by the NCPI on a Year-over Year basis 
 
 *2024-10-21 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202405) · `si`
 
+Sri Lanka's inflation rate dropped to -10.2% in September 2024, according to the National Customer Price Index. Food prices saw a slight decrease from 0.5% in August to -1.7% in September.
+
+🟩
+
 The annual inflation in Sri Lanka, based on the National Customer Price Index, has reduced to-10.2% in September 2024, the Department of Census and Statistics.
 
 In August 2024, the point inflation of the food category of food was up to 0.5% in September 2024.
@@ -1473,6 +1491,10 @@ The delegation participated in various business fora, expos, and meetings with k
 ### India - Pakistan marriage ended on the Internet
 
 *2024-10-21 15:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-பாகிஸ்தான்-திருமணம்-இணையத்தில்-முடிந்தது/175-345783) · `ta`
+
+India-Pakistan couple marries online due to visa issues. Groom from BJP family and bride from Lahore wed virtually after Pakistani government denies visa.
+
+🟩
 
 India's son of Bharatiya Janata Party (BJP) and young woman from Pakistan's Lahore. The reason for this is that the bride and his family have not received a visa to see the bride.
 
@@ -1600,6 +1622,10 @@ This is the team –Anil Jayantha, Chair of the NPP Economic Policy Council & Se
 
 *2024-10-21 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202404) · `si`
 
+Chilaw II: Post-mortem reveals bodies burned after woman and daughter killed.
+
+🟩
+
 The post mortem was conducted today regarding the deaths in Sinhapura Singupura, Chilaw.
 
 It was revealed that the bodies were set on fire after the deceased woman and daughter were cut.
@@ -1615,6 +1641,10 @@ It was revealed that the bodies were set on fire after the deceased woman and da
 ### Cardinal comment on the release of Easter Report
 
 *2024-10-21 15:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-அறிக்கை-வெளியீடு-குறித்து-கர்தினால்-கருத்து/175-345781) · `ta`
+
+Cardinal criticizes misleading reports on 2019 Easter attacks, accuses former government of influencing current investigations.
+
+🟩
 
 Colombo Archbishop Malcolm Cardinal Ranjith says that efforts are being made to mislead the people on the 2019 Easter Sunday attacks.
 
@@ -1868,6 +1898,10 @@ He was speaking at a public meeting held in Panadura yesterday.
 
 *2024-10-21 13:06:56* · [`adalk`](https://www.ada.lk/breaking_news/ගම්මන්පිලගේ-රිලා-නැටුම්-බලන්න-නෙමෙයි-ජනතාව-ආණ්ඩුවක්-පත්-කළේ/11-412589) · `si`
 
+Sri Lanka Labor Party leader Chamira Perera criticizes Udaya Gammanpila over Rila Dancing controversy, accuses him of injustice and racial politics.
+
+🟩
+
 Sri Lanka Labor People's Front Leader Chamira Perera said that the people of the country had not appointed a government to see Udaya Gammanpila's Rila Dancing.
 
 Mr. Chamira Perera was told at a private festival in Hatton, Hatton.
@@ -1895,6 +1929,10 @@ Did Gotabhaya Rajapaksa inspected officers hearing them here?Then they could not
 ### A young man who came to the center of Palleketa to worship cricketers
 
 *2024-10-21 13:02:17* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-ක්‍රීඩකයන්ට-වැඳ-නමස්කාර-කිරිමට-පල්‍ලේකැලේදි-පිටිය-මැදට-ආපු-තරුණයා/9-412588) · `si`
+
+Young man arrested for worshiping cricketers at Pallekele cricket ground. Police investigation ongoing.
+
+🟩
 
 The Pallekele Police have arrested a person who broke out at the Pallekele International Cricket Ground at the Palleki International Cricket Ground at the Pallekele International Cricket Ground at the Pallekele International.
 

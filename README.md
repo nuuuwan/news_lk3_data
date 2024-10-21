@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 09:25:47**
+As of **2024-10-21 09:40:02**
 
 ## Newspaper Stats
 
-*Scraped **50,499** Articles*
+*Scraped **50,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ dailyftlk | 3,446
 adalk | 4,683
 dailymirrorlk | 4,733
 adaderanalk | 5,979
-tamilmirrorlk | 6,917
+tamilmirrorlk | 6,920
 virakesarilk | 8,100
-adaderanasinhalalk | 8,766
+adaderanasinhalalk | 8,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,499 (100.0%) of 50,499 articles have been extended.
+50,503 (100.0%) of 50,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Recovery of a student who went to private class
+
+*2024-10-21 09:17:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தனியார்-வகுப்புக்குச்-சென்ற-மாணவி-சடலமாக-மீட்பு/76-345758) · `ta`
+
+Body of 17-year-old student found after leaving home for private classes. Friend arrested. Parents filed complaint with police.
+
+🟩
+
+The body of one of the 17 -year -old students who left the house claiming to go to private classes, the body of Mahiyanganai has been found on Monday (21).
+
+The other student who accompanied her is currently under the control of Rithimaliatta police, police said.
+
+Investigations have revealed that the two students are friends in the same school.
+
+A motorcycle was parked on the highway on Sunday (20) night. The motorcycle driver loaded with the student.  பொலிஸ் வீதித்தடை அதிகாரிகளிடம் ஒப்படைக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+Parents have lodged a complaint with the Badulla police as they did not return home on Sunday morning (20), claiming to go to a private class in Badulla.
+
+◼️
+
+[Data](articles/6b1be4a1.json)
+
+[Extended Data](ext_articles/6b1be4a1.ext.json)
+
+---
+
+### Worker President: Elections Commission
+
+*2024-10-21 09:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணித்தார்-ஜனாதிபதி-இடைநிறுத்தியது-தேர்தல்கள்-ஆணைக்குழு/175-345757) · `ta`
+
+Elections Commission suspends President's order on District Coordinating Committees citing election law violations. Committees tasked with overseeing 2024 budget projects but inactive. President's Secretary to devise alternative mechanism.
+
+🟩
+
+The Elections Commission has suspended the order issued by President Anura Kumara Dissanayake to launch the projects implemented under the District Coordinating Committees under the supervision of the provincial governors.
+
+The Election Commission has suspended the order on the basis of a violation of election laws.
+
+This is because the provincial governor's post is a political appointment. President's Secretary Dr. NS to prepare the mechanism of continuing the activities of the District Coordinating Committees that have been deactivated after the dissolution of Parliament..  குமாநாயக்க இதற்கு முன்னர் பொது நிர்வாக அமைச்சின் செயலாளருக்கு எழுத்து மூலம் அறிவித்திருந்தார்.
+
+It is worth noting that the district coordinating committees have been appointed to conduct, supervise and review the district-level development projects in the 2024 budget for 2024 and have been halted due to the inaction of the District Coordinating Committees.
+
+◼️
+
+[Data](articles/7370dc54.json)
+
+[Extended Data](ext_articles/7370dc54.ext.json)
+
+---
 
 ### A man arrested for 10 liters of leakage in Jaffna
 
@@ -49,6 +99,52 @@ The police are conducting serious investigations by detaining the arrested perso
 [Data](articles/15ffe49d.json)
 
 [Extended Data](ext_articles/15ffe49d.ext.json)
+
+---
+
+### Man arrested for conducting firearm products
+
+*2024-10-21 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202391) · `si`
+
+Arrest made in Welwewewa for illegal firearm manufacturing. Raid uncovered locally-made guns and weapons. Suspect transferred to Suriyawewa Police Station.
+
+🟩
+
+A man who had run a firearms to manufacture firearms in a raid conducted in Welwewewa area.
+
+The raid was carried out yesterday (20), according to information received by the Special Task Force officials.
+
+The police said that the Tunas produced in the country has been found in the country, a half-based firearm and other weapons.
+
+The suspect has been handed over to Suriyawewa Police Station.
+
+◼️
+
+[Data](articles/1c9d0e96.json)
+
+[Extended Data](ext_articles/1c9d0e96.ext.json)
+
+---
+
+### Yall. Devi again in the arrival of the goddess
+
+*2024-10-21 08:53:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-தேவி-வருவதில்-மீண்டும்-தாமதம்/175-345756) · `ta`
+
+Northern Railway train services delayed due to security concerns. Only Colombo-Fort to Mahawa route operational.
+
+🟩
+
+The Railway Department said that there would be a delay in carrying out the train services of the Northern Railway Religion, which was decided to take place from today.
+
+The train regulators have said that the train cannot be operated on the route without proper security measures.
+
+Due to the amendment to the Northern Railway, only the Colombo -Fort to Mahawa is being carried out by the train service. (A)
+
+◼️
+
+[Data](articles/596655cb.json)
+
+[Extended Data](ext_articles/596655cb.ext.json)
 
 ---
 
@@ -2199,109 +2295,5 @@ Garfias and Fernando Barrichello were 0.435s and 0.52s back respectively, and Si
 [Data](articles/2efb2d27.json)
 
 [Extended Data](ext_articles/2efb2d27.ext.json)
-
----
-
-### Why do Sri Lankans reluctant to pay taxes?
-
-*2024-10-20 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196674) · `ta`
-
-Sri Lankans hesitant to pay taxes due to lack of understanding benefits. Public campaigns needed to educate citizens on tax contributions. Simplifying bureaucracy and providing clear guidelines can increase compliance and create tax awareness culture.
-
-🟩
-
-Public campaigns to be launched to teach citizens about how they contribute to the benefits of tax payments and goods and services. It can create tax awareness and accountability culture.. Reducing bureaucrats and practices and providing clear guidelines will facilitate the process of individuals and businesses.
-
-◼️
-
-[Data](articles/3abf28b1.json)
-
-[Extended Data](ext_articles/3abf28b1.ext.json)
-
----
-
-### Donational election complaints
-
-*2024-10-20 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202373) · `si`
-
-Elections Commission receives 401 complaints about election law violations. 309 resolved. No violence reports.
-
-🟩
-
-The Elections Commission has received over 400 complaints regarding the parliamentary election.
-
-The Commission has received 58 complaints on the last day and the total number of complaints has been increased to 401.
-
-All these complaints are related to election laws violations and no complaints regarding violence have been reported so far.
-
-Of the 401 complaints received, 309 have already been solved, the Commission added.
-
-◼️
-
-[Data](articles/cd300a9b.json)
-
-[Extended Data](ext_articles/cd300a9b.ext.json)
-
----
-
-### With the deportation of Chinese deportation, Katunayake's telephone calls
-
-*2024-10-20 16:37:28* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ජාතිකයන්-පිටුවහල්-කිරීමත්-සමග-කටුනායකට-බලපෑම්-සහිත-දුරකතන-ඇමතුම්/11-412573) · `si`
-
-Chinese nationals deported from Katunayake airport due to alleged involvement in cybercrime and money laundering. Two individuals, aged 36 and 37, were sent back to Thailand after questioning by immigration officials. The incident sparked anonymous phone calls to the Department of Immigration and Emigration.
-
-🟩
-
-The officers of the SLFP have taken place on the night of 10/19 to deport two allegations of the suspension of the Katunayake airport.
-
-These suspensions were inactivated by the Chinese national passports, while their national passports were born in Chinese national passports, they had a village name and Turkish national, true passports (genuine passport)Have.
-
-According to the Chinese government's law, the country's citizenship will not be able to keep dual citizenship.
-
-The two 36-year-old and 37 were 37 years old at 09.35 pm Thailand from Bangkok from Bangkok from Bangkok from Bangkok from Bangkok from Bangkok from Bangkok from Bangkok, UL, and pay for the Katunayake Airport on 403
-
-The reason for the visit to Sri Lanka was inquired by the Department of Immigration and the Department.
-
-...
-
-[Data](articles/4b5c4971.json)
-
-[Extended Data](ext_articles/4b5c4971.ext.json)
-
----
-
-### New Zealand beat New Zealand in 36 years
-
-*2024-10-20 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202372) · `si`
-
-New Zealand beats India in 36 years. NZ wins 1st Test 1-0. Scored 402/10, India 462 all out. Target 107, achieved 2 wickets down. First NZ win in India since 1988.
-
-🟩
-
-New Zealand was able to win eight wickets in the first Test match of the first Test match that ended today (20) in Bangloro.
-
-With this winner, New Zealand in the forefront of the three matches match 1-0.
-
-The New Zealand team won a 107 runs easier for the win, and they were able to cross the loss of only 2 wickets.
-
-Launched on the 16th, the first day of the match had to be abandoned due to rain.
-
-However, the first innings began to limit the first innings to 46 runs.
-
-In response, New Zealand team scored 402 runs for the loss of everyone.
-
-India was set to commence the second innings following 356 runs.
-
-However, they were bowled out for 462 in their second innings, and it was only a target of 107 runs.
-
-New Zealand won the two-digit team in World Test Rankings, and the winner of 36 years later, they win the first Test in India.
-
-The last time they defeated India in India and won the match in the Wangkadu Stadium, Mumbai, 1988.
-
-...
-
-[Data](articles/cacd6329.json)
-
-[Extended Data](ext_articles/cacd6329.ext.json)
 
 ---

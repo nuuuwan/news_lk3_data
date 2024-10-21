@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 18:48:49**
+As of **2024-10-21 18:36:07**
 
 ## Newspaper Stats
 
-*Scraped **50,597** Articles*
+*Scraped **50,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,58 +17,20 @@ economynextcom | 3,091
 dailyftlk | 3,446
 adalk | 4,698
 dailymirrorlk | 4,733
-adaderanalk | 5,995
-tamilmirrorlk | 6,939
+adaderanalk | 5,994
+tamilmirrorlk | 6,936
 virakesarilk | 8,111
-adaderanasinhalalk | 8,786
+adaderanasinhalalk | 8,785
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,592 (100.0%) of 50,597 articles have been extended.
+50,592 (100.0%) of 50,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
-
-### ප්‍රතික්ෂේප වූ තැපැල් ඡන්ද අයදුම්පත් ගැන හෙළිදරව්වක්
-
-*2024-10-21 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202410) · `si`
-
-මෙවර මහ මැතිවරණයට ඉදිරිපත් කර තිබූ තැපැල් ඡන්ද අයදුම්පත් අතුරින් අයදුම්පත් 21,160ක් ප්‍රතික්ෂේප වී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
-
-එහි සභාපති ආර්.ඒ.එම්.එල්. රත්නායක මහතා සඳහන් කළේ තැපැල් ඡන්ද අයදුම්පත් 759,210ක් මහ මැතිවරණය සඳහා ඉදිරිපත් වී තිබූ බවය.
-
-තැපැල් ඡන්ද අයදුම්පත් භාරගැනීමේ කටයුතු මේ වනවිට අවසන් වී තිබේ.
-
-මහ මැතිවරණයට අදාළ ඉදිරි කටයුතු සම්බන්ධයෙන් අදහස් පළකළ මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.ඒ.එම්.එල්. රත්නායක මහතා,
-
-...
-
-[Data](articles/d5eb9418.json)
-
----
-
-### 3 found dead inside burning Chilaw home: Double murder-suicide suspected
-
-*2024-10-21 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102836/3-found-dead-inside-burning-chilaw-home-double-murder-suicide-suspected-) · `en`
-
-The post-mortem examinations have been conducted today (21) with regard to the three bodies found inside a two-storey house which was on fire in the Sinhapura area in Chilaw yesterday.
-
-Accordingly, the autopsies have revealed that the deceased woman and her daughter had been murdered by slitting their throats before their bodies were set on fire.
-
-The Chilaw District General Hospital’s Judicial Medical Officer (JMO) carried out the post-mortem examination on the bodies of the woman and her daughter this afternoon at the hospital’s mortuary.
-
-The deceased are identified as Shaminidulage Gedara Senaratne (51), his wife Muhandiramlage Manjula Niroshani Bandara (44) and their 15-year-old daughter, Shaminidulage Gedara Nethmi Nimesha.
-
-It has been revealed that Senarathne was involved in the business of selling land plots, while his wife Manjula Niroshani was employed as the Economic Development Officer in charge of the the Munneswaram Division at the Chilaw Divisional Secretariat.
-
-...
-
-[Data](articles/d301c190.json)
-
----
 
 ### Notice of 18 persons against Wasantha Mudali
 
@@ -92,22 +54,6 @@ The Court sentenceded the complaint on February 10.
 
 ---
 
-### நன்கொடையை இரு மடங்காக அதிகரித்தது இந்தியா
-
-*2024-10-21 18:00:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நன்கொடையை-இரு-மடங்காக-அதிகரித்தது-இந்தியா/76-345799) · `ta`
-
-இலங்கையின் பெருந்தோட்ட பகுதிகளில் உள்ள 9 பாடசாலைகளை தரமுயர்த்துவதற்காக இந்திய அரசாங்கத்தினால் வழங்கப்பட்ட நன்கொடை உதவித் தொகையினை இரு மடங்காக அதிகரிக்கும் நடவடிக்கைகளுக்கான முறைமைகளை உறுதிப்படுத்தும் இராஜதந்திர ஆவணங்களில் இலங்கைக்கான இந்திய உயர் ஸ்தானிகர்  சந்தோஷ் ஜா மற்றும் கல்வி, விஞ்ஞானம் மற்றும் தொழில்நுட்ப அமைச்சின் செயலாளர் திருமதி ஜே.எம்.திலகா ஜயசுந்தர ஆகியோர் 2024 ஒக்டோபர் 18 ஆம் திகதி கைச்சாத்திட்டனர்.
-
-அதற்கான  இராஜதந்திர ஆவணங்களும் பரிமாறப்பட்டன. இலங்கை அரசாங்கத்தின் கோரிக்கைக்கு அமைவாக இந்த மேலதிக நிதி ஒதுக்கீடு மேற்கொள்ளப்பட்டிருக்கும் நிலையில், இத்திட்டத்திற்கான இந்திய அரசாங்கத்தின் ஒட்டுமொத்த ஒதுக்கீடு 600 மில்லியன் இலங்கை ரூபாவாக அதிகரித்துள்ளது.
-
-2.    குறித்த ஒதுக்கீட்டின் அடிப்படையில், இலங்கை அரசாங்கத்தினால் அடையாளம் காணப்பட்ட 9 பெருந்தோட்டப் பாடசாலைகளின் உட்கட்டமைப்பை மேம்படுத்துவதற்கு உத்தேசிக்கப்படுள்ளது. இவற்றில் மத்திய மாகாணத்தின் பெருந்தோட்டப் பகுதிகளில் 6 பாடசாலைகளும் ஊவா, சப்ரகமுவ மற்றும் தென் மாகாணத்தில் தலா ஒரு பாடசாலையும் உள்ளடங்குகின்றன.
-
-...
-
-[Data](articles/db5750a3.json)
-
----
-
 ### Pharaoh eradicates Egypt after 100 years of attempts
 
 *2024-10-21 17:52:09* · [`adalk`](https://www.ada.lk/breaking_news/පාරාවොන්ටත්-වැළඳුනු-රෝගය-වසර-100ක-උත්සාහයෙන්-පසු-ඊජිප්තුව-තුරන්-කරයි/11-412593) · `si`
@@ -121,20 +67,6 @@ Maleria is as old as Egyptian civilization, and Pharaohs say they have suffered 
 [Data](articles/32347b36.json)
 
 [Extended Data](ext_articles/32347b36.ext.json)
-
----
-
-### பொதுத் தேர்தலை சவாலுக்கு உட்படுத்தி மனு
-
-*2024-10-21 17:45:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பொதுத்-தேர்தலை-சவாலுக்கு-உட்படுத்தி-மனு/150-345798) · `ta`
-
-நவம்பர் 14ஆம் திகதியன்று பாராளுமன்றத் தேர்தலை நடத்த தேர்தல்கள் ஆணைக்குழு எடுத்த முடிவை எதிர்த்து சிவில் சமூக ஆர்வலர் ஒருவர் உயர் நீதிமன்றத்தில் அடிப்படை உரிமை மனு தாக்கல் செய்துள்ளார்.
-
-பாராளுமன்றத் தேர்தல்கள் சட்ட விதிகளுக்கு அமைய வேட்புமனுக்களை கோருவதற்கும் பொதுத் தேர்தலுக்கான திகதியை நிர்ணயம் செய்வதற்கும் தேர்தல்கள் ஆணைக்குழு தவறிவிட்டதாகக் கூறி, 'அபி ஸ்ரீலங்கா' அமைப்பின் ஒருங்கிணைப்பாளர் பிரியந்த ஹேரத் இந்த மனுவை தாக்கல் செய்தார்.
-
-◼️
-
-[Data](articles/8060416c.json)
 
 ---
 
@@ -157,26 +89,6 @@ South Africa fast bowlers of the South African fast bowlers were able to secure 
 [Data](articles/cbaa20be.json)
 
 [Extended Data](ext_articles/cbaa20be.ext.json)
-
----
-
-### சிலாபம் முக்கொலை: இரகசியம் அம்பலம்
-
-*2024-10-21 17:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலாபம்-முக்கொலை-இரகசியம்-அம்பலம்/175-345797) · `ta`
-
-சிலாபம் பொது வைத்தியசாலையில் நடத்தப்பட்ட பிரேதப் பரிசோதனையில், சிலாபம், சிங்கபுரவில் உள்ள வர்த்தக இல்லத்தில் இடம்பெற்றது கொலை மற்றும் தற்கொலை எனத் தெரியவந்துள்ளது.
-
-இதன்படி, சிலாபம்  பொது வைத்தியசாலையின் சட்ட வைத்திய அதிகாரி  இளங்கரத்ன பண்டாவின் பிரேதப் பரிசோதனையில் இரண்டு பெண்களும் கழுத்து அறுக்கப்பட்டு கொலை செய்யப்பட்டு, தீயில் தூக்கி வீசப்பட்டுள்ளனர் என்றும்,  தந்தை தீயில் குதித்து கருகி உயிரிழந்துள்ளதாக தெரியவந்துள்ளது.
-
-சிலாபம், சிங்கபுர பிரதேசத்தில் வீடொன்று தீப்பிடித்ததில் 15 வயது சிறுமி உட்பட ஒரே குடும்பத்தைச் சேர்ந்த மூவர் உயிரிழந்துள்ளனர்.
-
-இச்சம்பவத்தில் 51 வயதுடைய வர்த்தகர் சேனாரத்ன (தந்தை) 44 வயதான மஞ்சுளா நிரோஷனி பண்டார (தாய்) மற்றும் 15 வயதான ஏ. நேத்மி நிமேஷா (மகள்) ஆகியோரே சடலங்களாக மீட்கப்பட்டுள்ளனர்.
-
-உயிரிழந்த நெத் நிமேஷாவின் மகள் சிலாபம் ஆனந்த தேசிய பாடசாலையின் மாணவியாவார். இந்த சம்பவம் சனிக்கிழமை (19) இரவு இடம்பெற்றிருக்கலாம் என சிலாபம் தலைமையக பொலிஸார் தெரிவித்தனர். எனினும், ஞாயிற்றுக்கிழமை (20) காலை வரையிலும் வீடு எரிந்துகொண்டிருந்துள்ளது.
-
-◼️
-
-[Data](articles/8a7ecb58.json)
 
 ---
 
@@ -2287,5 +2199,135 @@ The wind speeds are likely to increase to 40-45 km per hour in the seas beyond K
 [Data](articles/424abf35.json)
 
 [Extended Data](ext_articles/424abf35.ext.json)
+
+---
+
+### Sierra Leone's president visited
+
+*2024-10-21 08:40:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சியரா-லியோன்-ஜனாதிபதி-வருகைதந்தார்/175-345754) · `ta`
+
+Sierra Leone's President Julius Mada Pio arrives in Sri Lanka. He landed at Katunayake airport on a 9 HV11 flight. A team from the Sri Lankan Foreign Ministry greeted him. This visit marks the first time a Sierra Leonean president has visited Sri Lanka since Anura Kumara Dissanayake took office.
+
+🟩
+
+Sierra Leone's President Julius Mada Pio arrived at the Katunayake airport on Sunday (20).
+
+After the appointment of President Anura Kumara Dissanayake, Sri Lanka was the first foreign President Julius to come to Sri Lanka as a delegation.
+
+They arrived at the Katunayake airport on a 9 HV11 flight from Sierra Leone at 5 pm on Sunday (20).
+
+A team of senior officials of the Sri Lankan Foreign Ministry welcomed them to the Katunayake airport special guest room.
+
+◼️
+
+[Data](articles/248328e6.json)
+
+[Extended Data](ext_articles/248328e6.ext.json)
+
+---
+
+### 17-year-old killed in motorcycle crash at Ragama
+
+*2024-10-21 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102821/17-year-old-killed-in-motorcycle-crash-at-ragama) · `en`
+
+A motorcyclist traveling from Thewatta towards Dambuwa Junction in Ragama had reportedly lost control of the bike, veered off the road, and crashed into an electricity pole on the byroad.
+
+According to the police, the motorcycle rider, who was seriously injured, succumbed to his injuries after being admitted to Ragama Hospital.
+
+The deceased was a 17-year-old resident of Kandaliyadda Paluwa, Ragama.
+
+◼️
+
+[Data](articles/18fb90d6.json)
+
+[Extended Data](ext_articles/18fb90d6.ext.json)
+
+---
+
+### 50 firearms to civilians have reunited
+
+*2024-10-21 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202390) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Over 50 firearms returned to government; Defense Ministry orders return by Nov 7th; 1650 firearms still in circulation; non-compliance may violate Gun Ordinance No. 33 of 1916."
+
+🟩
+
+More than 50 firearm sources said that the firearms and amaries provided to civilians have been issued to the government have been restored to the government.
+
+This decision was taken on a temporary basis subject to a temporary basis subject to a temporary basis for a review of all firearms provided by the Defense Ministry.
+
+Accordingly, the Defense Ministry has informed all licensees to hand over the Navy's commercial explosive store at the Welisara of the Navy before the 07th of November.
+
+It has been reported that nearly 50 firearm has been handed over to this situation.
+
+However, the Defense Ministry states that around 1650 firearm ministries have been issued on various reasons.
+
+The Ministry of Defense has informed all firearms and ammunition before the date on the date.
+
+If not, according to the gun ordinance of the Gunkan Ordinance No 33 of 1916, the Defense Ministry has informed the relevant licenses.
+
+...
+
+[Data](articles/8308a008.json)
+
+[Extended Data](ext_articles/8308a008.ext.json)
+
+---
+
+### Death sentence for his wife and sons
+
+*2024-10-21 08:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவி-மகன்களை-கொன்றவருக்கு-மரண-தண்டனை/175-345753) · `ta`
+
+A man was sentenced to death for killing his wife and two young sons. He strangled them and burned their necks while they slept. His motive was to marry another woman. The court upheld the conviction based on witness testimony and forensic evidence.
+
+🟩
+
+The Court of Appeal has confirmed the death sentence of a private company official in the case of strangling and burning the necks of his wife and a three -year -old son and a month -old son who was asleep as a school teacher.
+
+With the intention of marrying another young woman. The fact that he has understood these crimes has been exposed through investigations.
+
+The Colombo High Court sentenced the accused to the accused only after the accused in the resident of Ratmalana was confirmed by the trial testimony and scientific evidence.
+
+The Court of Appeal, who rejected the appeal against the Supreme Court ruling, confirmed that the Supreme Court ruling was deliberately accused.
+
+The Court of Appeal has confirmed the 38 -page verdict rejected by the appeal filed against the Supreme Court's decision.
+
+Wijemuni Maduranga de Silva, 43, executive officer of a private company living in Kolumadama junction in Ratmalana, has been sentenced to death.
+
+...
+
+[Data](articles/6879450b.json)
+
+[Extended Data](ext_articles/6879450b.ext.json)
+
+---
+
+### Authorities to open the Northern Railway
+
+*2024-10-21 08:25:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வடக்கு-புகையிரத-மார்க்கத்தை-திறப்பதற்கு-அதிகாரிகள்-போர்க்கொடி/71-345752) · `ta`
+
+Northern Railway opening delayed due to unfinished safety measures and equipment removal. Authorities claim responsibility issues at stations between Mahawa and Anuradhapura. Modernization costs high but quality concerns raised. Passenger services may be affected until issues resolved.
+
+🟩
+
+Although the area from the Mahawa to Anuradhapura of the modernized Northern Railway will be opened tomorrow (22nd), the railway authorities in these intermittent stations have decided to quit all responsibilities.
+
+The railway department's acquisition of the railway line, which was renovated at a cost of Rs.
+
+He said that the signal system, which was in addition to the modernization of the route, had also been removed and that four unsafe railway crossings were not fitted.
+
+He said that although the authorities promised to be converted into hand -held gates near Talawa, Thambuttegama, Kalgamuwa and Anuradhapura railway stations, he said.
+
+Somatha Somaratne said that the modernization of the modernization of the lack of proper quality has been impaired and the work has been given to the train drivers at a speed of 40 km / h in the area from Mahawa to Anuradhapura.
+
+...
+
+[Data](articles/5346a360.json)
+
+[Extended Data](ext_articles/5346a360.ext.json)
 
 ---

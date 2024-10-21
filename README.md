@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 09:58:58**
+As of **2024-10-21 10:12:59**
 
 ## Newspaper Stats
 
-*Scraped **50,506** Articles*
+*Scraped **50,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 3,084
 dailyftlk | 3,446
 adalk | 4,683
 dailymirrorlk | 4,733
-adaderanalk | 5,981
+adaderanalk | 5,982
 tamilmirrorlk | 6,920
 virakesarilk | 8,101
-adaderanasinhalalk | 8,767
+adaderanasinhalalk | 8,768
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,506 (100.0%) of 50,506 articles have been extended.
+50,508 (100.0%) of 50,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Over 50 firearms returned as per temporary handover notice by Defence Ministry
+
+*2024-10-21 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102824/over-50-firearms-returned-as-per-temporary-handover-notice-by-defence-ministry-) · `en`
+
+More than 50 firearms have been returned in response to the notice requiring civilians to temporarily hand over firearms and ammunition issued to them, according to Ministry of Defence sources.
+
+This decision was taken in compliance with the powers vested in the Defence Secretary under Sections 6(1) and 6(2) of the Firearms Ordinance Act No. 33 of 1916, allowing the government to takeover firearms temporarily. The Ministry stated that these firearms would be reissued after a review process.
+
+The Ministry of Defence informed all licensees to submit their firearms and ammunition to the Commercial Explosive Firearms and Ammunition Procurement Unit (CEFAP) at the Sri Lanka Navy camp in Welisara before November 7, 2024.
+
+As of now, it has been reported that nearly 50 firearms have been returned. However, around 1,650 firearm licenses have been issued by the Ministry for various reasons.
+
+...
+
+[Data](articles/7a1f6dde.json)
+
+[Extended Data](ext_articles/7a1f6dde.ext.json)
+
+---
+
+### Two persons involved in the murder in Matara were trapped
+
+*2024-10-21 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202392) · `si`
+
+Two persons arrested for murder in Matara. Suspects fled after killing 26-year-old man. Car found during investigation. Both handed over to Matara Police for further inquiry.
+
+🟩
+
+Two persons have been arrested by the STF personnel who supported the killing of a person in the Nawalana area in Matara.
+
+The suspects have been arrested in a ratification conducted on information received by the Special Task Force Southern Provincial Operations Unit.
+
+Two persons who came in a car in the Nawalama on the 15th and had fled the 26-year-old man.
+
+The police special task force said that the car was arrested in the Thatawana area in Matara while investigating.
+
+A 26-year-old man was arrested in Kekanadura, a 26 year old man who had observed the murder.
+
+The suspects were handed over to the Matara Police Station for further investigations.
+
+◼️
+
+[Data](articles/9e50f151.json)
+
+[Extended Data](ext_articles/9e50f151.ext.json)
+
+---
 
 ### Two people drowned in drinking water
 
@@ -1464,6 +1512,20 @@ Sri Lanka have scored 62 runs for the 3 wickets in 9 overs.
 
 ---
 
+### The  Brazen Abduction and  Brutal Murder of Militant Turned Journalist “Taraki” Sivaram.
+
+*2024-10-20 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84927) · `en`
+
+President Anura Kumara Dissanayake frequently emphasised during his election campaign that he would re-open investigations into incidents  of colossal fraud,mass murder and assassinations where the course of justice was  allegedly obstructed or thwarted by those in power in the past. Recent happenings indicate that president Dissanayake and his Government are serious about their campaign promises and  are initiating follow up action in this regard. With parliamentary polls   due next month, electoral  prospects for the ruling National Peoples Power(NPP) Govt would be brighter if it  can demonstrate, that it is taking stern  action to ensure justice will be done in these matters.
+
+...
+
+[Data](articles/b93eae9c.json)
+
+[Extended Data](ext_articles/b93eae9c.ext.json)
+
+---
+
 ### The JVP’s commendable evolution on matters economic has not been paralleled in the ethnic problem arena. The NPP was remarkably reticent on the subject in its  presidential manifesto.  Behind a non-racist façade, the JVP is as regressive about the Tamil question today, as it was in the past.
 
 *2024-10-20 20:58:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84942) · `en`
@@ -2207,83 +2269,5 @@ This victory was the highest achievements of a player in Sri Lanka Motor Radyfar
 [Data](articles/da4f03f2.json)
 
 [Extended Data](ext_articles/da4f03f2.ext.json)
-
----
-
-### Motorcycle - Bicycle accident;One killed
-
-*2024-10-20 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196709) · `ta`
-
-Motorcycle collides with bicycle, killing one rider. Driver arrested. Incident occurred in Amarakirthakama area. Victim taken to hospitals for treatment.
-
-🟩
-
-Karandeniya police said that one person was killed when a motorcycle collided head -on with a bicycle in the Amarakirtikama area under the Karandeniya Police Division yesterday (19).
-
-Police said that the motorcycle traveling from Borakantha to Amarakirthakama collided face -to -face with a bicycle from the opposite side.
-
-The traveler was admitted to the Borakanda Hospital for further treatment and was transferred to the Palapitiya Hospital for further treatment, police said.
-
-The body has been placed in the funeral room of the Balapitiya hospital and the motorcycle driver has been arrested.
-
-◼️
-
-[Data](articles/ed560430.json)
-
-[Extended Data](ext_articles/ed560430.ext.json)
-
----
-
-### People stand against the collapse of electricity
-
-*2024-10-20 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202374) · `si`
-
-Cuba faces severe power crisis due to US sanctions and fuel shortages. Electricity collapsed nationwide, prompting protests and government appeals for patience. The crisis affects 10 million Cubans, impacting food, medicine, and fuel supplies.
-
-🟩
-
-Cuba operating as a socialist country is currently facing a serious power crisis.
-
-As a result, electricity across the country was collapsed in 24 hours and the government is asking for the people to be patient with the current crisis.
-
-US sanctions have contributed to the impact of Milton's becomfort and the crisis in Venezuela in Cuba.
-
-The people are very embarrassed by the country's national power supply in such a situation.
-
-Farmers who were a twice due to the collapse of the power supply within 24 hours had been streets and opposed the streets.
-
-The people of Havana The people of the capital were blocked by the road and protesting their women knocking into cooking.
-
-Cuban power supply is due to cover up the largest power plant on the island.
-
-It is reported that the fuel crisis has been closed down due to the closure of the power plant.
-
-Although the power supply is restored back, but some regions have not yet been provided with electricity.
-
-...
-
-[Data](articles/e70ace74.json)
-
-[Extended Data](ext_articles/e70ace74.ext.json)
-
----
-
-### One person arrested with heroin in Maligawatte
-
-*2024-10-20 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196694) · `ta`
-
-Heroin arrest in Maligawatte: Police raided a house, apprehending one individual on Saturday. The operation was based on intelligence from local authorities.
-
-🟩
-
-A woman with heroin was arrested by the police on Saturday (19) by police in a house in Maligawatta, Colombo.
-
-He was arrested during a raid carried out on the basis of information received by a team of police officers from the Maligawatta police station.
-
-◼️
-
-[Data](articles/9b888599.json)
-
-[Extended Data](ext_articles/9b888599.ext.json)
 
 ---

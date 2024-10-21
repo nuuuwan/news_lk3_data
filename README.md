@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 21:39:45**
+As of **2024-10-21 21:58:59**
 
 ## Newspaper Stats
 
-*Scraped **50,619** Articles*
+*Scraped **50,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 508
 islandlk | 3,011
 economynextcom | 3,091
 dailyftlk | 3,446
-adalk | 4,702
+adalk | 4,703
 dailymirrorlk | 4,733
 adaderanalk | 5,997
 tamilmirrorlk | 6,943
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,619 (100.0%) of 50,619 articles have been extended.
+50,620 (100.0%) of 50,620 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -123,6 +123,30 @@ The people living in the aforementioned areas are advised to use water sparingly
 [Data](articles/075f03bb.json)
 
 [Extended Data](ext_articles/075f03bb.ext.json)
+
+---
+
+### The only Tamil question paper for 8 and 9
+
+*2024-10-21 19:33:35* · [`adalk`](https://www.ada.lk/breaking_news/8-හා-9-වැනි-සඳහා-එකම-දෙමළ-ප්‍රශ්න-පත්‍රය-දීලා/11-412599) · `si`
+
+The Tamil curriculum has been established in the second term by the Department of Education by the Department of Education.
+
+The question paper of the year, which was prepared in the year, which was prepared in the year (21) at the time of the period.
+
+He said that the question paper had been issued to the 9th Grade Studies with the interpreter of the question paper in this regard.
+
+The director who was looking into the incident will be restored to the 9th Grade Students issue.
+
+The Secretary of the Ceylon Teachers' Service Union Stalin said that the education of the province of the province was in a large crash and the main reason is administrative weaknesses.
+
+The event is not considered as granted, and the state of Stalin has gone to the end of the last days, "he said,
+
+◼️
+
+[Data](articles/8f3cdfa5.json)
+
+[Extended Data](ext_articles/8f3cdfa5.ext.json)
 
 ---
 
@@ -2229,21 +2253,5 @@ The man who was injured in the accident has been admitted to the Ragama Hospital
 [Data](articles/71ce78dc.json)
 
 [Extended Data](ext_articles/71ce78dc.ext.json)
-
----
-
-### Gammanpila’s special press conference to reveal Easter attack reports
-
-*2024-10-21 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102826/gammanpilas-special-press-conference-to-reveal-easter-attack-reports-) · `en`
-
-Former Member of Parliament Udaya Gammanpila is currently holding a special press conference.
-
-The former Minister had claimed that important information related to the Easter Sunday attacks would be disclosed during the press conference.
-
-◼️
-
-[Data](articles/8dd759bb.json)
-
-[Extended Data](ext_articles/8dd759bb.ext.json)
 
 ---

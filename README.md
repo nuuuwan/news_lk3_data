@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 22:14:17**
+As of **2024-10-21 22:39:54**
 
 ## Newspaper Stats
 
-*Scraped **50,622** Articles*
+*Scraped **50,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,92 @@ bbccomsinhala | 508
 islandlk | 3,011
 economynextcom | 3,091
 dailyftlk | 3,446
-adalk | 4,703
+adalk | 4,704
 dailymirrorlk | 4,733
-adaderanalk | 5,997
+adaderanalk | 5,998
 tamilmirrorlk | 6,943
-virakesarilk | 8,122
+virakesarilk | 8,126
 adaderanasinhalalk | 8,789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,621 (100.0%) of 50,622 articles have been extended.
+50,623 (100.0%) of 50,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
 
-### ගම්මන්පිල ට චෝදනාවක්
+### இன பிரச்சினை தீர்க்கப்பட வேண்டும் என்ற விடயத்தில் பலமான ஒரு கூட்டணியாக எமது கூட்டணி உள்ளது : சிவசக்தி ஆனந்தன்
+
+*2024-10-21 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196806) · `ta`
+
+அரசாங்கம் தமிழ் மக்களுக்கு தேசிய இனப்பிரச்சினை என்ற ஒன்று இல்லை என்பதை கூறி கொண்டுள்ள  நேரத்தில் வடக்கு கிழக்கில் போட்டியிடுகின்ற ஜனநாயக தமிழ் தேசிய கூட்டணி யை தவிர ஏனையவர்கள் தேசிய இனப்பிரச்சினை என்று ஒன்று இல்லை என்பதை அரசாங்கத்தின் அதே நிலைப்பாட்டுடன் ஆதரவாக   செயல்பட்டு  வருவதாக முன்னாள் பாராளுமன்ற உறுப்பினர் சிவசக்தி ஆனந்தன் தெரிவித்தார்.
+
+மன்னாரில் உள்ள அலுவலகத்தில் இன்று திங்கட்கிழமை (21) மாலை இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+எதிர்வரும் பாராளுமன்ற தேர்தலை முன்னிட்டு வடக்கு கிழக்கில் இம்முறை போட்டியிடுகின்ற மிக பலமான கூட்டணியாக ஜனநாயக தமிழ் தேசிய கூட்டணி சங்கு சின்னத்தில் போட்டியிடுகிறது.
+
+அதே வேளை இத் தேர்தலானது அதிகூடிய பாராளுமன்ற வேட்பாளர்களை கொண்டு வெற்றி பெற்று பாராளுமன்றம் செல்லுகின்ற ஒரு கூட்டணியாக ஜனநாயக தமிழ் தேசிய கூட்டணியாக காணப்படுகின்றது.
+
+தமிழ் மக்களின் தேசிய இன பிரச்சினை தீர்க்கப்பட வேண்டும் என்கிற விடையத்தில் பலமான ஒரு கூட்டணியாக எமது கூட்டணி காணப்படுகின்றது.
+
+...
+
+[Data](articles/04f0bbed.json)
+
+---
+
+### பெருந்தோட்ட பகுதி பாடசாலைகளைத் தரமுயர்த்தல் : நன்கொடை உதவியை இரு மடங்காக அதிகரித்தது இந்தியா
+
+*2024-10-21 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196809) · `ta`
+
+இலங்கையின் பெருந்தோட்ட பகுதிகளில் உள்ள 9 பாடசாலைகளை தரமுயர்த்துவதற்காக இந்திய அரசாங்கத்தினால் வழங்கப்பட்ட நன்கொடை உதவித் தொகையினை இரு மடங்காக அதிகரிக்கும் நடவடிக்கைகளுக்கான முறைமைகளை உறுதிப்படுத்தும் இராஜதந்திர ஆவணங்களில் இலங்கைக்கான இந்திய உயர் ஸ்தானிகர் கௌரவ சந்தோஷ் ஜா மற்றும் கல்வி, விஞ்ஞானம் மற்றும் தொழில்நுட்ப அமைச்சின் செயலாளர் திருமதி ஜே.எம்.திலகா ஜயசுந்தர ஆகியோர் 2024 ஒக்டோபர் 18 ஆம் திகதி கைச்சாத்திட்டதுடன், அதற்கான  இராஜதந்திர ஆவணங்களும் பரிமாறப்பட்டன.
+
+இலங்கை அரசாங்கத்தின் கோரிக்கைக்கு அமைவாக இந்த மேலதிக நிதி ஒதுக்கீடு மேற்கொள்ளப்பட்டிருக்கும் நிலையில், இத்திட்டத்திற்கான இந்திய அரசாங்கத்தின் ஒட்டுமொத்த ஒதுக்கீடு 600 மில்லியன் இலங்கை ரூபாவாக அதிகரித்துள்ளது.
+
+குறித்த ஒதுக்கீட்டின் அடிப்படையில், இலங்கை அரசாங்கத்தினால் அடையாளம் காணப்பட்ட 9 பெருந்தோட்டப் பாடசாலைகளின் உட்கட்டமைப்பை மேம்படுத்துவதற்கு உத்தேசிக்கப்படுள்ளது. இவற்றில் மத்திய மாகாணத்தின் பெருந்தோட்டப் பகுதிகளில் 6 பாடசாலைகளும் ஊவா, சப்ரகமுவ மற்றும் தென் மாகாணத்தில் தலா ஒரு பாடசாலையும் உள்ளடங்குகின்றன.
+
+...
+
+[Data](articles/133d3fe7.json)
+
+---
+
+### General Election: Over 21,000 postal voting applications rejected
+
+*2024-10-21 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102839/general-election-over-21000-postal-voting-applications-rejected) · `en`
+
+A total of 21,160 postal voting applications have been rejected out of the total applications submitted for 2024 General Election, according to the Election Commission.
+
+The chairman of the Election Commision, R.M.A.L. Rathnayake stated that a total of 759,210 postal voting applications were received for the upcoming general election.
+
+"The process of accepting postal voting applications has now been completed. Out of the 759,210 applications submitted, 738,050 have been accepted. This marks an increase of 25,731 postal votes compared to the recent presidential election," Rathnayake explained.
+
+He further mentioned that the delivery of ballot papers for postal voting will begin on October 23. Additionally, the official ballot papers are scheduled for release on October 26.
+
+...
+
+[Data](articles/04c4d53b.json)
+
+[Extended Data](ext_articles/04c4d53b.ext.json)
+
+---
+
+### Gammanpila alleges
 
 *2024-10-21 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202414) · `si`
 
-පාස්කු ප්‍රහාරය සම්බන්ධයෙන් අධිකරණවල විභාගවන නඩුවල ප්‍රධාන සාක්ෂිකරුවන් වී සිටින රවී සෙනෙවිරත්න සහ ශානි අබේසේකරගේ විශ්වසනීයත්වය බිඳහෙළීමට හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා උත්සාහ දරන බව ජාතික ජන බලවේගය පවසයි.
+The National Folk Force is trying to break the credibility of Ravi Seneviratne and Shani Abeysekera's credibility in courts of the Passover attack.
 
-පාස්කු ප්‍රහාරයේ විමර්ශන කමිටු වාර්තා ප්‍රසිද්ධ කිරීම වෙනුවෙන් අද (21) පෙරවරුවේ කොළඹ දී පැවැති මාධ්‍ය හමුවකදී ගම්මන්පිල මහතා සිදුකළ හෙළිදරව්වට ප්‍රතිචාර දක්වමින් ජාතික ජන බලවේගයේ නීතිඥ සාමුහිකයේ විධායක සභික ජනාධිපති නීතිඥ උපුල් කුමරප්පෙරුම මහතා ඒ බව සඳහන් කළේය.
+President's Counsel Upul Kumarapparama, responding to the revelation of the reports of the Passover attack.
 
 ...
 
 [Data](articles/6a4db67f.json)
+
+[Extended Data](ext_articles/6a4db67f.ext.json)
 
 ---
 
@@ -161,6 +219,22 @@ The people living in the aforementioned areas are advised to use water sparingly
 [Data](articles/075f03bb.json)
 
 [Extended Data](ext_articles/075f03bb.ext.json)
+
+---
+
+### උද්ධමනය තවදුරටත් පහළට
+
+*2024-10-21 19:39:27* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවදුරටත්-පහළට/11-412600) · `si`
+
+මෙරට උද්ධමනය සැප්තැම්බර් මාසයේ දී පහළ බැස ඇත. 2024 අගෝස්තු මාසයේ දී 1.1% ක් ලෙස වාර්තා වූ  උද්ධමනය සැප්තැම්බර් මාසය සඳහා -0.2% ක් දක්වා අඩු වී තිබේ.
+
+අගෝස්තු මාසයේ දී 2.3% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය සැප්තැම්බර් මාසයේ දී 0.5% ක් දක්වා අඩු වී තිබේ.
+
+එමෙන්ම, අගෝස්තු මාසයේ දී 0.2% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය සැප්තැම්බර් මාසයේ දී -0.7%ක් දක්වා අඩු වී ඇත.
+
+◼️
+
+[Data](articles/90b2cffb.json)
 
 ---
 
@@ -620,6 +694,22 @@ A bond maturing on 15.09.2029 closed stable at 11.90/12.05 percent. (Colombo/Oct
 
 ---
 
+### ஜனாதிபதிக்கு எதிராக குற்றப்பிரேரணை கொண்டு வர முடியும் விசாரணைகளை திரிபுப்படுத்தவா செனவிரத்ன, சானி மீளிணைப்பு ரவி செனவிரத்னவை உடன் பதவி நீக்குங்கள்    -உதய கம்மன்பில
+
+*2024-10-21 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196800) · `ta`
+
+நாட்டு மக்களின் சிந்திக்கும் மற்றும் தகவலறியும் உரிமைகளை ஜனாதிபதி வேண்டுமென்றே மீறியுள்ளார்.  அரசியலமைப்பின் 38 ஆவது ஏற்பாடுகளை மீறியுள்ள ஜனாதிபதிக்கு எதிராக குற்றப்பிரேரணையை கொண்டு வர முடியும். குண்டுத்தாக்குதல் சம்பவத்தின் பிரதான குற்றவாளியாக பெயர் குறிப்பிடப்பட்டுள்ள ரவி செனவிரத்னவை பொதுமக்கள் பாதுகாப்பு அமைச்சின் செயலாளர் பதவியில் இருந்து உடனடியாக நீக்க வேண்டும் என முன்னாள் பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில தெரிவித்தார்.
+
+புறக்கோட்டை பகுதியில் உள்ள பிவிதுரு ஹெல உறுமய கட்சி காரியாலயத்தில் நேற்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது அல்விஸ்' அறிக்கையை பகிரங்கப்படுத்தி அறிக்கையின் பிரதான உள்ளடக்கங்களை குறிப்பிடுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+சிறந்த முறையில் நாட்டை நிர்வகிக்க வேண்டுமாயின் ஜனாதிபதி  சிறந்தவர்களையும், அறிவானவர்களையும் உயர் பதவிகளுக்கு நியமிக்க வேண்டும். ஜனாதிபதி பதவியேற்றவுடன் மூன்று உயர் பதவிகளுக்கு நியமனங்களை வழங்கினார். அதில் இரண்டு பதவிகளுக்கு நியமித்தவர்கள் அந்த பதவிக்கு தகுதியற்றவர்கள்.
+
+...
+
+[Data](articles/3e01f25b.json)
+
+---
+
 ### Another leap from Damitha
 
 *2024-10-21 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202408) · `si`
@@ -739,6 +829,22 @@ Meanwhile, former Minister Rohitha Abeygunawardena says he will resign from poli
 [Data](articles/e5bbe8f9.json)
 
 [Extended Data](ext_articles/e5bbe8f9.ext.json)
+
+---
+
+### நாணய நிதியத்தின் இணக்கப்பாடுகளை பாதுகாத்துக்கொண்டு வாக்குறுதிகளை நிறைவேற்றுவது அரசாங்கத்திற்கு பாரிய சவால் -  முன்னாள் நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க
+
+*2024-10-21 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196796) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் இணக்கப்பாடுகளை பாதுகாத்துக்கொண்டே அரசாங்கம் மக்களுக்கு வழங்கிய வாக்குறுதிகளை நிறைவேற்ற வேண்டி இருக்கிறது. இது இந்த அரசாங்கம் எதிர்கொண்டுள்ள பாரிய சவாலாகும். அவ்வாறு செயற்படாவிட்டால் நாடு மீண்டும் வீழ்ச்சியடையும் ஆபத்து இருக்கிறது என முன்னாள் நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் உத்தியோகபூர்வ இல்லத்தில் திங்கட்கிழமை (21) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+2022ஆம் ஆண்டு நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடி மூலம் நிகழ்ந்த சமூக, அரசியல் நெருக்கடிக்கு ரணில் விக்ரமசிங்க தலைமையிலான எமது அரசாங்கம் மிகமிவும் அர்ப்பணிப்புடன் நாட்டின் பொருளாதாரத்தை கட்டியெழுப்பும் நடவடிக்கை ஆரம்பித்தோம். அந்த நடவடிக்கை மிகவும் கஷ்டமானதாகும்.
+
+...
+
+[Data](articles/54fe0667.json)
 
 ---
 
@@ -2099,153 +2205,5 @@ The elephant has shown that the elephant is harming the people of the area and t
 [Data](articles/2013b3b6.json)
 
 [Extended Data](ext_articles/2013b3b6.ext.json)
-
----
-
-### Udaya Kammanpila at a special press conference ...
-
-*2024-10-21 11:40:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-செய்தியாளர்-சந்திப்பில்-உதய-கம்மன்பில/175-345769) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Udaya Kammanpila threatens to expose Easter Sunday bombing reports unless President Anuragumara Dissanayake reveals them at a press conference.
-
-🟩
-
-Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya Party, is currently holding a special press conference.
-
-It is noteworthy that if President Anuragumara Dissanayake does not reveal two reports on the Easter Sunday bombings, I will make public a special press conference today.. Remble
-
-◼️
-
-[Data](articles/9239b61f.json)
-
-[Extended Data](ext_articles/9239b61f.ext.json)
-
----
-
-### Israeli air strikes to banks
-
-*2024-10-21 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202394) · `si`
-
-Israel launches airstrikes on Hezbollah-controlled banks in Lebanon. Defense Minister claims targeting Iranian assets. Casualties reported as conflict escalates.
-
-🟩
-
-It is reported that Israel has launched air strikes to the banks maintained by the Hezbollat ​​in Bebange in Lebanon.
-
-The Israeli Defense Minister said that the Israeli defense minister was destroying Iran.
-
-It is said that 1,800 people have died since the commencement of the hezbollah in Lebanon last month.
-
-◼️
-
-[Data](articles/9de6e90d.json)
-
-[Extended Data](ext_articles/9de6e90d.ext.json)
-
----
-
-### Militants kill seven, including six migrant workers, in India’s Kashmir
-
-*2024-10-21 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102827/militants-kill-seven-including-six-migrant-workers-in-indias-kashmir) · `en`
-
-At least six migrant workers and a doctor were shot dead in India’s Kashmir region on Sunday night when militants opened fire near a tunnel construction site, officials said, days after a new government was formed in the territory.
-
-An opposition alliance took power in the region this month after winning its first polls in a decade, and the first since its special status was revoked and it was split into two federally administered territories - Jammu and Kashmir, and Ladakh.
-
-The victims of Sunday’s attack were involved in the construction of tunnels meant to provide all-weather connectivity to the militarily strategic Ladakh region, which shares a border with China and Pakistan.
-
-“At least two armed militants barged into the mess of the private construction company and fired at workers who were dining at the time of the attack,” said a senior police officer who did not want to be named.
-
-Six workers and a doctor were killed and five others were injured in the attack, he said.
-
-...
-
-[Data](articles/f96523be.json)
-
-[Extended Data](ext_articles/f96523be.ext.json)
-
----
-
-### The resolution on concessions has not yet reached
-
-*2024-10-21 11:15:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைகள்-குறித்த-தீர்மானம்-இன்னும்-எட்டப்படவில்லை/175-345766) · `ta`
-
-Government delays reducing ex-presidents' perks due to legal hurdles. Committee's recommendations awaited before amending laws. Former presidents retain luxury benefits despite election promises.
-
-🟩
-
-A high -level sources said that the government is still waiting for the recommendations of the committee appointed to investigate the reducing the concessions of the former presidents and their pioneers.
-
-Former presidents and their wives are entitled to concessions, including houses, vehicles and pension, according to the President's Right to the President's Rights Act.
-
-The government has now decided to reduce such concessions, but the law is an obstacle.
-
-President Anura Kumara Dissanayake made the election promise as the presidential election is scheduled for September 21st.. However, it is not easy to do because of the law.
-
-The question of whether the law will be amended is that it depends on the recommendations of the committee.
-
-A former president is entitled to three vehicles, including a car, a jeep and a double cart.
-
-Recently, the government has recovered additional vehicles allocated to former presidents Mahinda Rajapaksa and Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/1d28a0d9.json)
-
-[Extended Data](ext_articles/1d28a0d9.ext.json)
-
----
-
-### Fort - Maradana trains delay
-
-*2024-10-21 11:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-மருதானை-ரயில்கள்-தாமதம்/175-345765) · `ta`
-
-Colombo-Fort to Maradana train service delayed due to technical issue at Fort Railway Station. All trains halted until further notice. Sri Lanka Railways announcement.
-
-🟩
-
-Sri Lanka Railways today announced that trains between Colombo - Fort and Maradana have been delayed.
-
-The delays were caused by a technical failure on the railway station at the Fort Railway Station, the department said.
-
-The department added that all the train travels to Maradana had been stopped and there was a delay.
-
-◼️
-
-[Data](articles/c792d926.json)
-
-[Extended Data](ext_articles/c792d926.ext.json)
-
----
-
-### I will make public today
-
-*2024-10-21 11:00:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நான்-பகிரங்கப்படுத்துவேன்/175-345764) · `ta`
-
-Sri Lanka Easter Sunday bombings report release delayed due to security concerns. Intelligence agency investigation ongoing. Former President Ranil Wickremesinghe-era documents reveal sensitive information. Public disclosure expected soon.
-
-🟩
-
-President Anuragumara Dissanayake has made public the two reports of the Easter Sunday bombings, I will make public today, said Udaya Kammanpila.
-
-Mr. Kammanpila told reporters that the deadline I had given to the government was to be completed to publish the contents of these reports with security-sensitive details.
-
-He said the president had time to date to make them public.
-
-He said that if the details of these reports, which were appointed during the time of former President Ranil Wickremesinghe, would be sentenced to 14 years in prison for revealing state secrets.
-
-The intelligence agencies are dealing with the role of the apparatus during the attack, and the other is based on the discovery after the hearing of the allegations raised in the Channel 4 documentary.
-
-Mr. Kammanpila said that Catholics have died in the 2019 bomb blasts, including 45 foreign nationals, including 45 foreign nationals.
-
-◼️
-
-[Data](articles/4b2cf56c.json)
-
-[Extended Data](ext_articles/4b2cf56c.ext.json)
 
 ---

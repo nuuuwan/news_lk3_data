@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 20:24:04**
+As of **2024-10-21 20:39:54**
 
 ## Newspaper Stats
 
-*Scraped **50,615** Articles*
+*Scraped **50,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 508
 islandlk | 3,011
 economynextcom | 3,091
 dailyftlk | 3,446
-adalk | 4,700
+adalk | 4,701
 dailymirrorlk | 4,733
 adaderanalk | 5,997
 tamilmirrorlk | 6,941
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,615 (100.0%) of 50,615 articles have been extended.
+50,616 (100.0%) of 50,616 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -89,6 +89,28 @@ The public can review these reports from 9:00 am to 4:00 pm on the week of Octob
 [Data](articles/fe5d97bd.json)
 
 [Extended Data](ext_articles/fe5d97bd.ext.json)
+
+---
+
+### The mystery of the shaken death of the cry
+
+*2024-10-21 19:02:56* · [`adalk`](https://www.ada.lk/picture_story/හලාවතම-කම්පා-කළ-මරණ-වල-අභිරහස-එළියට/10-412596) · `si`
+
+The murder of the murder was cut off and the murderous businessman had been buried in the house, the murder was filed by the murder of a large number of murderers in Chilaw.The Chilaw Headquarters Police said that the death inspections were revealed.
+
+Chilaw General Hospital Specialist Judicial Medical Officer of the Chilaw HospitalThe 15-year-old daughter and her mother's neck have been cut into a sharp weapon and later killed.
+
+The murdered businessman's body was set on fire in the bedroom at the daughter and wife in the house and then buried a large number of fuel in the bedroom.Concluded.
+
+The post mortem examinations of the death shock in Chilaw shock, the police said that severely injured throughout the daughter's body.
+
+At the same time, the murdering businessman's body has been revealed in the post mortem examination.
+
+...
+
+[Data](articles/e87351bc.json)
+
+[Extended Data](ext_articles/e87351bc.ext.json)
 
 ---
 
@@ -2247,29 +2269,5 @@ The student is currently under the control of the Rithimaliya police.
 [Data](articles/c846c122.json)
 
 [Extended Data](ext_articles/c846c122.ext.json)
-
----
-
-### Two persons who went intoxicated
-
-*2024-10-21 10:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதையில்-சென்ற-இருவர்-வாவிக்கு-பலி/175-345761) · `ta`
-
-Two drunk individuals drown in Kahatagastikiliya, ages 24 and 34. Bodies sent for autopsy. Police investigating incident.
-
-🟩
-
-The incident of two drinking water in the Kahatagastikiliya, Ihala Ganghidigama Wavi was killed on Sunday (20).
-
-The people, aged 24 and 34, from Polgahawela and Poojapitiya areas, died, police said.
-
-It was revealed that the two men were drowned after drinking alcohol and drinking.
-
-The bodies of the deceased have been placed in the funeral room of the Kahatagastikiliya Hospital for autopsy and further investigations into the incident are being carried out by the Kahatagastikiliya police.
-
-◼️
-
-[Data](articles/fa9feae7.json)
-
-[Extended Data](ext_articles/fa9feae7.ext.json)
 
 ---

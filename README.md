@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 09:00:02**
+As of **2024-10-21 09:14:57**
 
 ## Newspaper Stats
 
-*Scraped **50,492** Articles*
+*Scraped **50,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,117 @@ dailyftlk | 3,446
 adalk | 4,683
 dailymirrorlk | 4,733
 adaderanalk | 5,979
-tamilmirrorlk | 6,912
-virakesarilk | 8,098
+tamilmirrorlk | 6,917
+virakesarilk | 8,099
 adaderanasinhalalk | 8,766
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,489 (100.0%) of 50,492 articles have been extended.
+50,496 (100.0%) of 50,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Back to Jaffna. Delay in the arrival of Goddess
+
+*2024-10-21 08:53:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-யாழ்-தேவி-வருவதில்-தாமதம்/175-345756) · `ta`
+
+Jaffna: Train delays due to security concerns. Only Colombo-Fort to Mahawa route operational.
+
+🟩
+
+The Railway Department said that there would be a delay in carrying out the train services of the Northern Railway Religion, which was decided to take place from today.
+
+The train regulators have said that the train cannot be operated on the route without proper security measures.
+
+Due to the amendment to the Northern Railway, only the Colombo -Fort to Mahawa is being carried out by the train service. (A)
+
+◼️
+
+[Data](articles/aa511061.json)
+
+[Extended Data](ext_articles/aa511061.ext.json)
+
+---
+
+### Suddenly Increased Price - Emergency Meeting headed by the president
+
+*2024-10-21 08:52:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-அதிகரித்த-விலை-ஜனாதிபதி-தலைமையில்-அவசர-கூட்டம்/175-345755) · `ta`
+
+Emergency meeting: President Anura Kumara Dissanayake addresses rising food costs, particularly rice, coconut, and eggs. Rice shortages hinder price controls.
+
+🟩
+
+A special discussion will be held tomorrow (22) at the Presidential Secretariat headed by President Anura Kumara Dissanayake on the rise of food items including rice, coconut and eggs.
+
+Secretary to the Ministry of Agriculture. Wickremesinghe said.
+
+Rice mill owners say that although a kilo of rice is 220 rupees, rice cannot be sold at this control price due to a shortage of rice.
+
+It is reported that the President's leadership will be focused on issues such as rice crisis, coconut and egg prices rise.. Remble
+
+◼️
+
+[Data](articles/c0888190.json)
+
+[Extended Data](ext_articles/c0888190.ext.json)
+
+---
+
+### Rainfall in many areas
+
+*2024-10-21 08:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/196743) · `ta`
+
+Heavy rainfall warning issued for Western, Sabaragamuwa, Southern, and North Western Provinces. Thunderstorms possible in evening/night across country. Wind speeds 25-35 km/h in coastal areas, potentially increasing to 40-45 km/h. Sea conditions turbulent in certain regions. Public advised to take precautions against lightning impacts.
+
+🟩
+
+There is a possibility of occasional rain or thundershowers in the Western, Sabaragamuwa, Southern and North Western Provinces and Trincomalee District. Senior weather officer of the Department, Dr. Mohamed Saliheen, said more than 100mm of heavy rainfall is expected in some parts of the Southern Province.
+
+In the rest of the country, there is a possibility of rainfall or thundershowers in the evening or at night. In some places, more than 50 millimeters of heavy rainfall is expected.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the effects of lightning impacts.
+
+Rainfall or thunderstorms are possible in many parts of the seas around the country.
+
+In the seas around the country, the wind is blowing from the southwest direction and the speed of the wind is expected to be 25-35 km per hour.
+
+The wind speeds are likely to increase to 40-45 km per hour in the seas beyond Kankesanthurai to Mannar via Mannar.
+
+...
+
+[Data](articles/424abf35.json)
+
+[Extended Data](ext_articles/424abf35.ext.json)
+
+---
+
+### Sierra Leone's president visited
+
+*2024-10-21 08:40:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சியரா-லியோன்-ஜனாதிபதி-வருகைதந்தார்/175-345754) · `ta`
+
+Sierra Leone's President Julius Mada Pio arrives in Sri Lanka. He landed at Katunayake airport on a 9 HV11 flight. A team from the Sri Lankan Foreign Ministry greeted him. This visit marks the first time a Sierra Leonean president has visited Sri Lanka since Anura Kumara Dissanayake took office.
+
+🟩
+
+Sierra Leone's President Julius Mada Pio arrived at the Katunayake airport on Sunday (20).
+
+After the appointment of President Anura Kumara Dissanayake, Sri Lanka was the first foreign President Julius to come to Sri Lanka as a delegation.
+
+They arrived at the Katunayake airport on a 9 HV11 flight from Sierra Leone at 5 pm on Sunday (20).
+
+A team of senior officials of the Sri Lankan Foreign Ministry welcomed them to the Katunayake airport special guest room.
+
+◼️
+
+[Data](articles/248328e6.json)
+
+[Extended Data](ext_articles/248328e6.ext.json)
+
+---
 
 ### 17-year-old killed in motorcycle crash at Ragama
 
@@ -46,29 +144,87 @@ The deceased was a 17-year-old resident of Kandaliyadda Paluwa, Ragama.
 
 [Data](articles/18fb90d6.json)
 
+[Extended Data](ext_articles/18fb90d6.ext.json)
+
 ---
 
-### සිවිල් පුද්ගලයින්ට දුන් ගිනිඅවි 50ක් යලි භාරදෙයි
+### 50 firearms to civilians have reunited
 
 *2024-10-21 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202390) · `si`
 
-සිවිල් පුද්ගලයින්ට ලබා දී ඇති ගිනිඅවි සහ පතරොම් තාවකාලිකව රජයට ලබා දෙන ලෙස සිදුකළ දැනුම් දීමට අනුව ගිනිඅවි 50කට අධික සංඛ්‍යාවක් යළි ලබා දී ඇති බව ආරක්ෂක අමාත්‍යංශ ආරංචි මාර්ග පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-ආරක්ෂක අමාත්‍යංශය මගින් ජීවිත ආරක්ෂාව සදහා ලබා දී ඇති සියලුම ගිනිඅවි පිළිබඳව සමාලෝචනයක් සිදුකිරීමෙන් පසු නැවත ලබා දීමට යටත්ව තාවකාලික පදනම මත මෙම තීරණය ගනු ලැබීය.
 
-ඒ අනුව අදාළ ගිනිඅවි සහ පතරොම් නාවික හමුදාවේ වැලිසර පිහිටි රජයේ වාණිජ පුපුරණ ද්‍රව්‍ය ගබඩාව වෙත නොවැම්බර් මස 07වනදිනට පෙර භාර දෙන ලෙස සියලු බලපත්‍රලාභීන් වෙත ආරක්ෂක අමාත්‍යංශය දැනුම් දී තිබුණි.
 
-මෙම තත්ත්වය තුළ මේ වන විට ගිනිඅවි 50කට ආසන්න සංඛ්‍යාවක් යළි භාර දී ඇති බව වාර්තා වී තිබේ.
+"Over 50 firearms returned to government; Defense Ministry orders return by Nov 7th; 1650 firearms still in circulation; non-compliance may violate Gun Ordinance No. 33 of 1916."
 
-කෙසේ වෙතත් ආරක්ෂක අමාත්‍යංශය විසින් මේ වනවිට ගිනිඅවි බලපත්‍ර 1650ක් පමණ විවිධ හේතුන් මත නිකුත් කර ඇති බව සදහන් වේ.
+🟩
 
-මෙම තත්ත්වය තුළ සියලු ගිනිඅවි සහ පතරොම් අදාළ දිනයට පෙර භාර දෙන ලෙසද ආරක්ෂක අමාත්‍යංශය දැනුම් දී තිබේ.
+More than 50 firearm sources said that the firearms and amaries provided to civilians have been issued to the government have been restored to the government.
 
-එසේ නොවුනහොත් 1916 අංක 33 දරන තුවක්කු ආඥා පනතට අනුව නීතිමය ක්‍රියාමාර්ග ගැනීමට සිදුවන බව ආරක්ෂක අමාත්‍යංශය අදාළ බලපත්‍රලාභීන් හට දැනුම් දී තිබේ.
+This decision was taken on a temporary basis subject to a temporary basis subject to a temporary basis for a review of all firearms provided by the Defense Ministry.
+
+Accordingly, the Defense Ministry has informed all licensees to hand over the Navy's commercial explosive store at the Welisara of the Navy before the 07th of November.
+
+It has been reported that nearly 50 firearm has been handed over to this situation.
+
+However, the Defense Ministry states that around 1650 firearm ministries have been issued on various reasons.
+
+The Ministry of Defense has informed all firearms and ammunition before the date on the date.
+
+If not, according to the gun ordinance of the Gunkan Ordinance No 33 of 1916, the Defense Ministry has informed the relevant licenses.
 
 ...
 
 [Data](articles/8308a008.json)
+
+[Extended Data](ext_articles/8308a008.ext.json)
+
+---
+
+### Death sentence for his wife and sons
+
+*2024-10-21 08:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவி-மகன்களை-கொன்றவருக்கு-மரண-தண்டனை/175-345753) · `ta`
+
+A man was sentenced to death for killing his wife and two young sons. He strangled them and burned their necks while they slept. His motive was to marry another woman. The court upheld the conviction based on witness testimony and forensic evidence.
+
+🟩
+
+The Court of Appeal has confirmed the death sentence of a private company official in the case of strangling and burning the necks of his wife and a three -year -old son and a month -old son who was asleep as a school teacher.
+
+With the intention of marrying another young woman. The fact that he has understood these crimes has been exposed through investigations.
+
+The Colombo High Court sentenced the accused to the accused only after the accused in the resident of Ratmalana was confirmed by the trial testimony and scientific evidence.
+
+The Court of Appeal, who rejected the appeal against the Supreme Court ruling, confirmed that the Supreme Court ruling was deliberately accused.
+
+The Court of Appeal has confirmed the 38 -page verdict rejected by the appeal filed against the Supreme Court's decision.
+
+Wijemuni Maduranga de Silva, 43, executive officer of a private company living in Kolumadama junction in Ratmalana, has been sentenced to death.
+
+...
+
+[Data](articles/6879450b.json)
+
+[Extended Data](ext_articles/6879450b.ext.json)
+
+---
+
+### வடக்கு புகையிரத மார்க்கத்தை திறப்பதற்கு அதிகாரிகள் போர்க்கொடி
+
+*2024-10-21 08:25:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வடக்கு-புகையிரத-மார்க்கத்தை-திறப்பதற்கு-அதிகாரிகள்-போர்க்கொடி/71-345752) · `ta`
+
+நவீனமயமாக்கப்பட்ட வடக்கு புகையிரதத்தின் மஹவ முதல் அநுராதபுரம் வரையான பகுதி நாளை (22ஆம் திகதி) திறக்கப்படவுள்ள போதிலும், இந்த இடைப்பட்ட நிலையங்களில் உள்ள ரயில்வே அதிகாரிகள் அனைத்துப் பொறுப்புக்களிலிருந்தும் விலகுவதற்கு தீர்மானித்துள்ளனர்.
+
+3,000 கோடி ரூபாய் செலவில் சீரமைக்கப்பட்ட இந்த புகையிரத மார்க்கத்தை, குறைபாடுகளுடன் ரயில்வே துறை கையகப்படுத்தியதே இதற்கு காரணம் என புகையிரத நிலைய அதிபர்கள் சங்கத்தின் தலைவர் சுமேதா சோமரத்ன நேற்று தெரிவித்தார்.
+
+இந்த பாதை நவீனமயப்படுத்தப்படுவதற்கு மேலதிகமாக இருந்த சமிக்ஞை அமைப்பும் அகற்றப்பட்டுள்ளதாகவும், பாதுகாப்பற்ற நான்கு புகையிரத கடவைகளில் கேட்கள் பொருத்தப்படவில்லை எனவும் அவர் தெரிவித்தார்.
+
+தலாவ, தம்புத்தேகம, கல்கமுவ மற்றும் அநுராதபுரம் புகையிரத நிலையங்களுக்கு அருகில் உள்ள கடவைகள் கையால் இயக்கப்படும் வாயில்களாக மாற்றப்படும் என அதிகாரிகள் உறுதியளித்த போதிலும் இதுவரை பாதுகாப்பு கதவுகள் பயன்படுத்தப்படவில்லை எனவும் அவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/5346a360.json)
 
 ---
 
@@ -2129,129 +2285,5 @@ Police said there was no casualties caused by the fire and the property damage w
 [Data](articles/a1b70f09.json)
 
 [Extended Data](ext_articles/a1b70f09.ext.json)
-
----
-
-### Former State Minister Lohan's secretary killed
-
-*2024-10-20 15:46:22* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-අමාත්‍ය-ලොහාන්​ගේ-ලේකම්වරයෙක්-වෙඩි-වැදී-ජීවිතක්ෂයට/11-412572) · `si`
-
-Former Minister Lohan Ratwatte assassinated by his own private secretary.
-
-🟩
-
-Former Minister Lohan Ratwatte has been shot dead by the private secretary of former Minister Lohan Ratwatte.
-
-◼️
-
-[Data](articles/ac3130d8.json)
-
-[Extended Data](ext_articles/ac3130d8.ext.json)
-
----
-
-### President to visit the island today
-
-*2024-10-20 15:33:06* · [`adalk`](https://www.ada.lk/breaking_news/සියේරා-ලියෝන්-ජනාධිපති-අද-දිවයිනට/11-412571) · `si`
-
-Sri Lanka: President Julius Margo arrives today for CHOGM meeting. To meet Foreign Affairs Minister Vijitha Herath.
-
-🟩
-
-President Julius Margo is due to arrive in Sri Lanka today (20).
-
-He said that he will come to the island while attending the Commonwealth Heads of Government Meeting (CHOGM) from the 26th.
-
-President Mado is due to meet with foreign affairs minister Vijitha Herath.
-
-◼️
-
-[Data](articles/8f868ba6.json)
-
-[Extended Data](ext_articles/8f868ba6.ext.json)
-
----
-
-### Telicom leader resigns
-
-*2024-10-20 15:24:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெலிகொம்-தலைவர்-இராஜினாமா/175-345726) · `ta`
-
-Sri Lanka Telecom PLC: Telicom leader resigns. Resignation letter sent to Board of Directors on 18th. Effective October 16, 2024.
-
-🟩
-
-The resignation letter in this regard has been sent to the Board of Directors of the Sri Lanka Telecom PLC on the 18th.
-
-The report also stated that the resignation of A.'s resignation as the Executive Director of the Sri Lanka Telecom PLC will come into effect on October 16, 2024.
-
-◼️
-
-[Data](articles/3d10cbee.json)
-
-[Extended Data](ext_articles/3d10cbee.ext.json)
-
----
-
-### Target for the exclusive secretary firing
-
-*2024-10-20 15:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரத்தியேக-செயலாளர்-துப்பாக்கிச்-சூட்டுக்கு-இலக்கு/175-345725) · `ta`
-
-Former MP and ministerial aide killed in Kandy shooting incident. Police investigation ongoing.
-
-🟩
-
-Hospital sources and Kandy police say that a man who served as a former parliamentarian of the Kandy district and the exclusive secretary of the former Minister of State was admitted to the Kandy National Hospital after being admitted to the Kandy National Hospital.
-
-Senior Superintendent of Police Anurutha Bandaranaike said that the man was shot dead in the Mahayawa area and whether he was shot himself.
-
-◼️
-
-[Data](articles/d0a8e6fb.json)
-
-[Extended Data](ext_articles/d0a8e6fb.ext.json)
-
----
-
-### Lohan Ratwatte Meets Secret of Secretary
-
-*2024-10-20 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202371) · `si`
-
-Body of Lohan Ratwatte's private secretary found in Kandy. Gunfire wounds, firearm nearby. Police investigating cause of death. Victim identified as 49-year-old local resident.
-
-🟩
-
-The body of the private secretary of former State Minister Lohan Ratwatte has been found in the Katugastota area in Kandy.
-
-Police say he had gunfire in his body and a firearm was near.
-
-Accordingly, the police have not yet revealed that the murder or suicide, police said.
-
-The man is a 49 year old resident of Written in Katugastota.
-
-◼️
-
-[Data](articles/2338ec84.json)
-
-[Extended Data](ext_articles/2338ec84.ext.json)
-
----
-
-### Lohan Ratwatte’s private secretary found dead with gunshot wounds
-
-*2024-10-20 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102813/lohan-ratwattes-private-secretary-found-dead-with-gunshot-wounds) · `en`
-
-A private secretary of former State Minister Lohan Ratwatte has been found dead in a house in the Katugastota area today (20).
-
-Police said he was found dead with gunshot injuries and that a firearm was also discovered near the body.
-
-Police are yet to determine whether the death was a suicide or a homicide.
-
-The deceased is a 49-year old resident of Werellagama in Katugastota while he had served as a private secretary to former State Minister Lohan Ratwatte.
-
-◼️
-
-[Data](articles/916533f7.json)
-
-[Extended Data](ext_articles/916533f7.ext.json)
 
 ---

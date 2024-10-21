@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 16:14:05**
+As of **2024-10-21 16:24:43**
 
 ## Newspaper Stats
 
-*Scraped **50,566** Articles*
+*Scraped **50,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 507
 islandlk | 3,011
 economynextcom | 3,087
 dailyftlk | 3,446
-adalk | 4,691
+adalk | 4,692
 dailymirrorlk | 4,733
-adaderanalk | 5,989
+adaderanalk | 5,990
 tamilmirrorlk | 6,931
 virakesarilk | 8,111
 adaderanasinhalalk | 8,781
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,781
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,563 (100.0%) of 50,566 articles have been extended.
+50,563 (100.0%) of 50,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Sri Lanka’s inflation drops to -0.2% in September
+
+*2024-10-21 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102832/sri-lankas-inflation-drops-to-02-in-september) · `en`
+
+The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has decreased to -0.2% in September 2024 from 1.1% in August 2024, according to the latest data released by  the Department of Census and Statistics.
+
+Meanwhile, food inflation also decreased to 0.5% in September, down from 2.3% in August.
+
+The NCPI for all items for the month of September 2024 is 203.1 and it records a decrease of 1.0 in index points compared to August 2024.
+
+The NCPI for all items for the months of September 2024 is 203.1. A decrease of 1.0 index points or 0.48 percentage compared to August 2024 for which the index was 204.1. This decrease represents a decrease in expenditure value of Rs. 500.25 in the “market basket”.
+
+The overall rate of inflation as measured by the NCPI on a Year-over Year basis was -0.2% in September 2024 and inflation calculated for the August 2024 was 1.1%.
+
+...
+
+[Data](articles/7eefa2ba.json)
+
+---
 
 ### උද්ධමනය ඍණ වෙයි
 
@@ -369,6 +389,24 @@ Thus, naval and fishing communities are requested to be vigilant while engaging 
 [Data](articles/0a9ec94c.json)
 
 [Extended Data](ext_articles/0a9ec94c.ext.json)
+
+---
+
+### දීපවාලියට හැටන් ප්‍රධාන වීදිය ඇතුළු වීදි කිහිපයක පදික වෙළඳාම තහනම්
+
+*2024-10-21 12:55:55* · [`adalk`](https://www.ada.lk/breaking_news/දීපවාලියට-හැටන්-ප්‍රධාන-වීදිය-ඇතුළු-වීදි-කිහිපයක-පදික-වෙළඳාම-තහනම්/11-412587) · `si`
+
+දිපවාලි උත්සව සමය තුලදි හැටන් නගරයේ ප්‍රධාන විදිය ඇතුළු ස්ථාන කිපයක පදික වෙළදාම් තහනම් කිරිමට හැටන් දික්ඔය නගර සභාව මගින් පියවර ගෙන ඇත.
+
+මේ පිලිබදව කරන ලද විමසිමකදි අදහස් දැක්වු හැටන් දික්ඔය නගර සභාවේ ලේකම් ඩි. වි. පි. බණ්ඩා මහතා පවසන ලද්දේ දිපවාලි උත්සව සමය තුලදි හැටන් ප්‍රධාන විදිය පැති විදිය ඇතුළු ස්ථාන කිපයක පදික වෙළදාම් තහනම් කිරිමට තිරණයව කර ඇති බවත්ය.
+
+දිපවාලි උත්සව සමය තුලදි විශාල පිරිසක් තමන්ට අවශ්‍ය බඩු භාන්ඩ ලබා ගැනිම සදහා හැටන් නගරයට පැමිනෙන බවත් එවන් අවස්ථාවලදි හැටන් ප්‍රධාන විදිය පැති විදිය යන ප්‍රදේශවල පදික වෙළදාම් කිරිම් හේතුවෙන් පදිකයන්ට මාර්ගයේ ගමන් කිරිමට සිදු විමෙන් එම පදිකයන් විවිධ අනතුරුවලට ලක් විමේ අවදානමක් පවතින බවත්ය.
+
+එම තත්වයන් පිලිබදව අවදානය යොමු කර නගරයට පැමිනෙන පදිකයන්ගේ ආරක්ෂාව වෙනුවෙන් මෙසේ පදික වෙලදාම් තහනම් කර පදික මාර්ග පදිකයන්ගේ ගමන් පහසුව ලබා දිමට පියවර ගන්නා බවද බණ්ඩාර මහතා වැඩි දුරටත් පැවසිය.
+
+◼️
+
+[Data](articles/d8de31dc.json)
 
 ---
 
@@ -2333,43 +2371,5 @@ It also pointed out that Rajapaksa, who served as the fifth Executive President 
 [Data](articles/8f112087.json)
 
 [Extended Data](ext_articles/8f112087.ext.json)
-
----
-
-### Tea industry crucial to economic growth: Minister Vijitha Herath
-
-*2024-10-21 02:47:27* · [`dailyftlk`](https://www.ft.lk/business/Tea-industry-crucial-to-economic-growth-Minister-Vijitha-Herath/34-768219) · `en`
-
-Industries Minister Vijitha Herath last week underscored the critical role of the tea industry in driving economic growth, job creation and international recognition during his address at the 34th Annual General Meeting (AGM).
-
-Herath called for a collective effort from all stakeholders to strengthen the sector, highlighting the importance of collaboration between tea factory owners, exporters, labourers and the Government to ensure a prosperous future for the industry.
-
-“The tea industry remains a cornerstone of our economy. The industry is not only a key source of revenue and employment generation, but also brings global recognition to Sri Lanka through a humble cup of Ceylon Tea,” he said, reassuring the Government’s commitment to supporting the sector while navigating the complexities of maintaining worker satisfaction and boosting productivity.
-
-...
-
-[Data](articles/15162deb.json)
-
-[Extended Data](ext_articles/15162deb.ext.json)
-
----
-
-### Virann de Zoysa appointed to Nawaloka Hospitals Board
-
-*2024-10-21 02:45:34* · [`dailyftlk`](https://www.ft.lk/business/Virann-de-Zoysa-appointed-to-Nawaloka-Hospitals-Board/34-768218) · `en`
-
-Virann de Zoysa has been appointed as an Independent Non-Executive Director of Nawaloka Hospitals PLC.
-
-De Zoysa is the holder of an Undergraduate Degree in Finance and Accounting from Clarion University, USA and also holds a Master of Business Administration from Edith Cowan University, Australia.
-
-Having gained experience in both the Finance and Project Management fields at Parker Hunter Finance PA and Virtusa Inc. De Zoysa made the move to Associated Motorways Ltd., in 2004 taking up positions in Automotive Marketing After Sales Service and Brand Management. He currently serves as a Director Associated Motorways Ltd.
-
-De Zoysa is also experienced in the tourism and hospitality sector taking over as a Director of Arika Villas Dambulla, a boutique hotel in Dambulla, Sri Lanka. He was recently appointed as the Chairman of the Ceylon Motor Traders’ Association, an affiliate of the Ceylon Chamber of Commerce, representing the automotive industry in Sri Lanka.
-
-◼️
-
-[Data](articles/eb35d832.json)
-
-[Extended Data](ext_articles/eb35d832.ext.json)
 
 ---

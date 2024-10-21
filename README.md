@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 19:01:37**
+As of **2024-10-21 19:13:10**
 
 ## Newspaper Stats
 
-*Scraped **50,609** Articles*
+*Scraped **50,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 508
 islandlk | 3,011
 economynextcom | 3,091
 dailyftlk | 3,446
-adalk | 4,698
+adalk | 4,699
 dailymirrorlk | 4,733
 adaderanalk | 5,996
-tamilmirrorlk | 6,939
+tamilmirrorlk | 6,940
 virakesarilk | 8,122
 adaderanasinhalalk | 8,786
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,786
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,597 (100.0%) of 50,609 articles have been extended.
+50,600 (100.0%) of 50,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### புதிய கட்சியில் இணைந்தார் தமிதா
+
+*2024-10-21 18:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கட்சியில்-இணைந்தார்-தமிதா/175-345800) · `ta`
+
+நடிகையும், அரசியல் ஆர்வலருமான தமிதா அபேரத்ன, எதிர்வரும் பொதுத் தேர்தலில் தபால் பெட்டி சின்னத்தில் போட்டியிடும் ஜனநாயக தேசியக் கூட்டமைப்பில் (DNA) இணைந்ததுடன், ஐக்கிய மக்கள் சக்தியிலிருந்து (SJB) விலகுவதாக அறிவித்துள்ளார்.
+
+எஸ்.ஜே.பி.யின் தலைவர் சஜித் பிரேமதாச எனக்கு நியாயம் வழங்காததாலும், எனது ஜனநாயக உரிமைகளை நிலைநாட்டாததாலும் நான் எஸ்.ஜே.பியை விட்டு வெளியேற தீர்மானித்தேன் என அபேரத்ன ஊடகங்களுக்கு தெரிவித்தார்.
+
+ஒக்டோபர் 11 ஆம் திகதி வேட்புமனுக்கள் ஏற்றுக்கொள்ளப்பட்ட இறுதி நாளான கடைசி நேரத்தில் இரத்தினபுரி மாவட்டத்திற்கான SJBயின் வேட்பாளர் பட்டியலில் தமிதாவின் பெயர் சர்ச்சைக்குரிய வகையில் நீக்கப்பட்டது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1980c630.json)
+
+---
 
 ### Petition filed against 2024 General Election date
 
@@ -49,6 +65,8 @@ The petition further points out that according to the Parliamentary Elections Ac
 ...
 
 [Data](articles/c79a91f9.json)
+
+[Extended Data](ext_articles/c79a91f9.ext.json)
 
 ---
 
@@ -96,6 +114,22 @@ It has been revealed that Senarathne was involved in the business of selling lan
 
 ---
 
+### මැතිවරණ ගැසට්ටුව අත්හිටුවන්නැයි ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
+
+*2024-10-21 18:13:20* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-ගැසට්ටුව-අත්හිටුවන්නැයි-ශ්‍රේෂ්ඨාධිකරණයට-පෙත්සමක්/11-412594) · `si`
+
+මහ මැතිවරණය සඳහා නාම යෝජනා කැඳවීම සහ ඡන්දය පැවැත්වෙන දිනය ප්‍රකාශයට පත් කිරීම මැතිවරණ පනතේ විධිධානයන්ට පටහැනි හෙයින් මහ මැතිවරණය පැවැත්වීම ප්‍රකාශයට පත්කළ ගැසට් නිවේදනය අත්හිටුවන්නැයි ඉල්ලමින් සිවිල් ක්‍රියාකාරකයකු වන ප්‍රියන්ත හේරත් මහතා ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සමක් අද (21) ගොනු කළේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් මහ මැතිවරණය සඳහා නාම යෝජනා කැඳවීම සහ ඡන්දය පැවැත්වෙන දිනය ප්‍රකාශයට පත් කරමින් නිකුත් කළ ගැසට් නිවේදනයේ ඇති වරද නිවැරදි කිරීමට නියෝග කරන්නැයිද පෙත්සම්කරු අදාළ මූලික අයිතිවාසිකම් පෙත්සමෙන් ඉල්ලීමක් කර ඇත.
+
+‘අපි ශ්‍රී ලංකා’ ජාතික සංවිධානයේ කැඳවුම්කරු වන ශ්‍රීයන්ත හේරත් මහතා ගොනු කළ මෙම පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙනුවෙන් නීතිපතිවරයාද, මැතිවරණ කොමිසම, ජනාධිපති ලේකම් ආචාර්ය නන්දික කුමානායක මහතා නම් කර ඇත.
+
+...
+
+[Data](articles/87f36a01.json)
+
+---
+
 ### Notice of 18 persons against Wasantha Mudali
 
 *2024-10-21 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202409) · `si`
@@ -136,19 +170,23 @@ Diplomatic documents were also exchanged. With the further allocation of funds a
 
 ---
 
-### பிரதிநிதித்துவங்கள் பற்றி கவலை கொள்ளும் பிரதிநிதிகள்....!
+### Representatives who care about representations ....!
 
 *2024-10-21 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196812) · `ta`
 
-ஜனாதிபதித் தேர்தலில்  தமிழ்த் தரப்பினர் ஆதரவளித்த வேட்பாளர்கள் எவரும் வெற்றி பெறவில்லை. சில பிரதேசங்களில் தமிழர்கள் தேசிய மக்கள் சக்திக்கு தமது வாக்குகளை வழங்கியிருந்தனர். இந்நிலையில் தமிழர் பிரதிநிதித்துவங்கள் பாதுகாக்கப்படல் வேண்டும் என மலையக பிரதிநிதிகள் கவலை வெளியிட்டுள்ளனர்.
+None of the candidates supported by the Tamil party in the presidential election. In some areas, Tamils ​​gave their votes to the national people's power. Upcountry representatives have expressed concern that Tamil representations should be protected.
 
-அதாவது தாம் எதிர்க்கட்சி வரிசையில் அமர்ந்தாலும் பரவாயில்லை, பாராளுமன்றத்தில் இருந்தால் மாத்திரமே  மலையக சமூகத்துக்கு பாதுகாப்பு என்ற ரீதியில் இவர்களது பிரசாரம் அமைந்துள்ளது. ஆனால் இது அவர்களின் அரசியல் இருப்பு குறித்த கவலையாகவே இருக்கின்றதே ஒழிய, சமூகம் பற்றிய அக்கறையாகத் தெரியவில்லை.  பெருந்தோட்டத் தொழிலாளர் வர்க்கம் மற்றும் மலையக சமூகத்தின் பாராளுமன்றப் பிரதிநிதித்துவத்தின் வயது 47 வருடங்களாகும்.
+That is, it is okay to sit in the opposition party.. But this is a concern for their political existence, but it does not seem to be a concern for the community.The age of the parliamentary representation of the plantation working class and the upcountry community is 47 years.
 
-சுதந்திரத்துக்குப்பிறகு இடம்பெற்ற தேர்தலில் 1977 ஆம் ஆண்டே நுவரெலியா மாவட்ட மக்கள் தமது பிரதிநிதி ஒருவரை நுவரெலியா – மஸ்கெலியா தொகுதியிலிருந்து நேரடியாக தெரிவு செய்திருந்தனர்.
+In 1977, the people of Nuwara Eliya district had elected their representative from the Nuwara Eliya -Maskeliya constituency in 1977.
+
+Prior to 1977, the hill country representatives decorated the royal council. The present younger community must know the history that seven people representing the Sri Lanka Indian Congress during the 1947 general election represented the then parliament.
 
 ...
 
 [Data](articles/831b28dc.json)
+
+[Extended Data](ext_articles/831b28dc.ext.json)
 
 ---
 
@@ -228,19 +266,23 @@ The daughter of the deceased Neth Nimesha is a student of Chilaw Ananda National
 
 ---
 
-### உலக நிலைபேறான பயணம் மற்றும் விருந்தோம்பல் விருதுகளில் ஹோட்டல் எம்போரியம் பிரதம நிறைவேற்று அதிகாரிக்கு கௌரவம் !
+### Hotel Emporium Hon.
 
 *2024-10-21 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/196797) · `ta`
 
-தமது இணை நிறுவுனரும் பிரதம நிறைவேற்று அதிகாரியுமான அண்டி டி சில்வாவிற்கு, முதலாவது உலக நிலைபேறான பயணம் மற்றும் விருந்தோம்பல் விருது வழங்கும் விழாவில் (World Sustainable Travel & Hospitality Awards - WSTHA) ‘World’s Leading Sustainability Leader of Tomorrow 2024’ எனும் விருது வழங்கி கௌரவிக்கப்பட்டுள்ளது என்பதை அறிவிப்பதில், உயர்ரக ஹோட்டல் வசதிகளை வழங்குவதில் முன்னணியில் திகழும் Hotel Emporium (ஹோட்டல் எம்போரியம்) பெருமிதம் கொள்கிறது.
+WORLD SUPPORTING AWARDS (WSHTHA) has been honored at the First World Stabbing Travel and Hospitality Awards (WSTHA) ியில்Hotel Emporium (Hotel Emporium) boasts.
 
-உலகளாவிய விருந்தோம்பல் துறையில் சுற்றுச்சூழலைப் பாதுகாப்பதில் அண்டியின் அர்ப்பணிப்பை இவ்விருது எடுத்துக்காட்டுவதோடு, நிலைபேறான பயணத்தில் இலங்கையர் ஒருவர் இத்தகைய அங்கீகாரத்தைப் பெறுவது இதுவே முதல் தடவையாகும்.
+This is the first time that a Sri Lankan has gained such recognition on a sustainable journey, with the dedication of the neighbors to protect the environment in the global hospitality industry.
 
-COP28 இல் ஆரம்பிக்கப்பட்ட உலக நிலைபேறான பயணம் மற்றும் விருந்தோம்பல் விருதுகள், பாரம்பரிய சுற்றுலா சேவைகளுக்கு அப்பால் நிலைபேறான தன்மை மற்றும் சுற்றுச்சூழல் பொறுப்புணர்வுகளுக்கு முன்னுரிமை அளிக்கும் நிறுவனங்களை கௌரவிக்கின்றன.
+The World Stabbthical Travel and Hospitality Awards, which started at COP28, honor companies that prioritize stabilization and environmental responsibility beyond traditional tourism services.
+
+The award shows the role of the company in expedition of sustainable travel and tourism, including its major efforts, including implementing eco -friendly practices, promoting cultural safety and promoting responsible travel experiences.
 
 ...
 
 [Data](articles/9dc29a42.json)
+
+[Extended Data](ext_articles/9dc29a42.ext.json)
 
 ---
 
@@ -2205,47 +2247,5 @@ Udaya Gammanpila accused the constitution that the President has violated the Co
 [Data](articles/b87a858e.json)
 
 [Extended Data](ext_articles/b87a858e.ext.json)
-
----
-
-### Over 50 firearms returned as per temporary handover notice by Defence Ministry
-
-*2024-10-21 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102824/over-50-firearms-returned-as-per-temporary-handover-notice-by-defence-ministry-) · `en`
-
-More than 50 firearms have been returned in response to the notice requiring civilians to temporarily hand over firearms and ammunition issued to them, according to Ministry of Defence sources.
-
-This decision was taken in compliance with the powers vested in the Defence Secretary under Sections 6(1) and 6(2) of the Firearms Ordinance Act No. 33 of 1916, allowing the government to takeover firearms temporarily. The Ministry stated that these firearms would be reissued after a review process.
-
-The Ministry of Defence informed all licensees to submit their firearms and ammunition to the Commercial Explosive Firearms and Ammunition Procurement Unit (CEFAP) at the Sri Lanka Navy camp in Welisara before November 7, 2024.
-
-As of now, it has been reported that nearly 50 firearms have been returned. However, around 1,650 firearm licenses have been issued by the Ministry for various reasons.
-
-...
-
-[Data](articles/7a1f6dde.json)
-
-[Extended Data](ext_articles/7a1f6dde.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 292.90/293.10 to US dollar, bond yields up
-
-*2024-10-21 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-292-90-293-10-to-us-dollar-bond-yields-up-184287/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened slightly stronger at 292.90/293.10 to the US dollar on Monday, from 293.00/20 a day earlier, while bond yields were up dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 11.30/40 percent, up from 11.25/45 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.70/75 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.90/12.10 percent, up from 11.90/12.05 percent.
-
-In equities, Colombo’s All Share Price Index opened up 0.04 percent, or 4.89 points higher at 12,317, while the S&P SL20 of more liquid stocks was trading up 0.13 percent or 4.89 points higher at 3,627.
-
-◼️
-
-[Data](articles/894d7afe.json)
-
-[Extended Data](ext_articles/894d7afe.ext.json)
 
 ---

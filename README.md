@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 09:40:02**
+As of **2024-10-21 09:58:58**
 
 ## Newspaper Stats
 
-*Scraped **50,503** Articles*
+*Scraped **50,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,44 @@ economynextcom | 3,084
 dailyftlk | 3,446
 adalk | 4,683
 dailymirrorlk | 4,733
-adaderanalk | 5,979
+adaderanalk | 5,981
 tamilmirrorlk | 6,920
-virakesarilk | 8,100
+virakesarilk | 8,101
 adaderanasinhalalk | 8,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,503 (100.0%) of 50,503 articles have been extended.
+50,506 (100.0%) of 50,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Two people drowned in drinking water
+
+*2024-10-21 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/196745) · `ta`
+
+Two men died drowning in a reservoir near Polgahawela. Police say alcohol was involved. Ages 24 and 34. Investigation ongoing.
+
+🟩
+
+Two persons who were drowned in the water of Kahatagastikiliya, Ihala Ganghidigama Wawi on Sunday (20), were drowned, police said.
+
+The victims were from Polgahawela and Poojapitiya, aged 24 and 34, police said.
+
+Investigations revealed that the two victims were drowned when they drowned with alcohol and drowned.
+
+In addition, the Kahatagastikiliya police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/14f2bbd4.json)
+
+[Extended Data](ext_articles/14f2bbd4.ext.json)
+
+---
 
 ### Recovery of a student who went to private class
 
@@ -58,6 +82,44 @@ Parents have lodged a complaint with the Badulla police as they did not return h
 
 ---
 
+### Man arrested for operating illegal firearms workshop in Sooriyawewa
+
+*2024-10-21 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102823/man-arrested-for-operating-illegal-firearms-workshop-in-sooriyawewa) · `en`
+
+A person operating an illegal firearms manufacturing workshop in Wawegama, Sooriyawewa, was arrested during a raid conducted by the Special Task Force (STF) personnel from the Hambantota camp.
+
+Police reported that a locally-made ‘T-Katas’ type firearm, parts of an unfinished firearm, and other weapon components were found during the operation.
+
+The arrested suspect, a 33-year-old resident of the area, has been handed over to the Sooriyawewa Police Station for further investigation.
+
+◼️
+
+[Data](articles/e3e4b47a.json)
+
+[Extended Data](ext_articles/e3e4b47a.ext.json)
+
+---
+
+### A man arrested for 10 liters of leakage in Jaffna
+
+*2024-10-21 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196744) · `ta`
+
+Man arrested for 10-liter water leak in Jaffna. Police investigation ongoing at Kopay station after tip about temple area leak.
+
+🟩
+
+Police rushed to the scene on the basis of confidential information received by the police that a person was involved in a leak of leaks in a house near the temple of Amman.
+
+The police are conducting serious investigations by detaining the arrested person at the Kopay police station.
+
+◼️
+
+[Data](articles/15ffe49d.json)
+
+[Extended Data](ext_articles/15ffe49d.ext.json)
+
+---
+
 ### Worker President: Elections Commission
 
 *2024-10-21 09:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணித்தார்-ஜனாதிபதி-இடைநிறுத்தியது-தேர்தல்கள்-ஆணைக்குழு/175-345757) · `ta`
@@ -82,23 +144,21 @@ It is worth noting that the district coordinating committees have been appointed
 
 ---
 
-### A man arrested for 10 liters of leakage in Jaffna
+### Two youths drown in Kahatagasdigiliya
 
-*2024-10-21 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196744) · `ta`
+*2024-10-21 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102822/two-youths-drown-in-kahatagasdigiliya) · `en`
 
-Man arrested for 10-liter water leak in Jaffna. Police investigation ongoing at Kopay station after tip about temple area leak.
+Two youths, aged 24 and 34, have drowned while bathing in the ‘Ihala Kanhidigama’ lake in Kahatagasdigiliya, according to police.
 
-🟩
+Investigations have revealed that the two drowned last evening (20) after drinking alcohol with two others and then going to bathe in the ‘Ihala Kanhidigama’ lake.
 
-Police rushed to the scene on the basis of confidential information received by the police that a person was involved in a leak of leaks in a house near the temple of Amman.
-
-The police are conducting serious investigations by detaining the arrested person at the Kopay police station.
+The bodies have been sent to Kahatagasdigiliya Hospital for a post-mortem examination, and further investigations are underway by Kahatagasdigiliya Police.
 
 ◼️
 
-[Data](articles/15ffe49d.json)
+[Data](articles/22e62422.json)
 
-[Extended Data](ext_articles/15ffe49d.ext.json)
+[Extended Data](ext_articles/22e62422.ext.json)
 
 ---
 
@@ -2225,75 +2285,5 @@ He was arrested during a raid carried out on the basis of information received b
 [Data](articles/9b888599.json)
 
 [Extended Data](ext_articles/9b888599.ext.json)
-
----
-
-### Two persons arrested for selling stolen property and buying poison
-
-*2024-10-20 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196676) · `ta`
-
-Two persons arrested for selling stolen goods and buying poison. One suspect identified as a registered criminal and drug addict. Confession reveals stolen property sold through another suspect. Some assets seized by police. Further investigation ongoing.
-
-🟩
-
-A person who was suspiciously near the Peliyagoda Police Division was arrested on the 15th and another suspect was arrested by a team of officials of the Kelaniya Divisional Criminal Investigation Division on Saturday (19).
-
-The suspect, who was arrested on the 15th, is from Nellikahawatta, 23, from Peliyagoda.
-
-He has been identified as a registered criminal and a person who is addicted to toxic drugs, and has been identified as a suspect who has been searched for 14 crimes through the opening and fingerprints of five pending criminal cases in the Aluthgada court.
-
-Meanwhile, the investigation has also revealed that the money was sold in houses, shops and schools and purchased poison drugs.
-
-After the suspect was produced before the Magistrate's Court in Aluthgada, it was ordered to be remanded until the 22nd of this month.
-
-According to the confession of the suspect, it has been revealed that the stolen property has been sold through another suspect.
-
-...
-
-[Data](articles/e7e5af38.json)
-
-[Extended Data](ext_articles/e7e5af38.ext.json)
-
----
-
-### Rain interrupted from West Indies
-
-*2024-10-20 17:15:30* · [`adalk`](https://www.ada.lk/sports/කොදෙව්---ශ්‍රී-ලංකා-තරගයට-වර්ෂාවෙන්-බාධා/9-412574) · `si`
-
-West Indies vs Sri Lanka ODI match halted due to rain. West Indies chose to bat after winning the toss. Rain prevented play beyond 38 overs, limiting the innings to 185 runs.
-
-🟩
-
-The West Indies team and the first one-day match between the Sri Lanka team have been stopped due to rain.
-
-The West Indies won the toss and elected due to rain, 185 were widened for over 38 overs.
-
-◼️
-
-[Data](articles/0494a466.json)
-
-[Extended Data](ext_articles/0494a466.ext.json)
-
----
-
-### Sri Lankan racer Yevan David wins on Euroformula debut at Monza
-
-*2024-10-20 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102814/sri-lankan-racer-yevan-david-wins-on-euroformula-debut-at-monza) · `en`
-
-Motopark’s Yevan David won on his Euroformula debut at a damp Monza. The 17-year-old is the first ever Sri Lankan to participate in this category having advanced from F4 racing.
-
-It was close at the top in practice, with a 1m43.444s from Jose Garfias in FP2 putting him ahead 0.05 seconds ahead of champion and FP1 pacesetter Brad Benavides.
-
-BVM Racing’s Francesco Simonazzi trailed by 0.496s in third and David was 0.744s back in fourth. STK Melnik’s Roman Roubicek was 9.669s slower than Garfias in eighth and last place.
-
-The track remained dry for qualifying on Saturday morning, and there was small gaps again. Benavides set a 1m41.418s to take pole by a slim 0.125s over David.
-
-Garfias and Fernando Barrichello were 0.435s and 0.52s back respectively, and Simonazzi was 0.643s off pole in fifth as his car bounced down the straights. Roubicek cut his gap to the pack by four seconds.
-
-...
-
-[Data](articles/2efb2d27.json)
-
-[Extended Data](ext_articles/2efb2d27.ext.json)
 
 ---

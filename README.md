@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 12:15:09**
+As of **2024-10-21 12:26:09**
 
 ## Newspaper Stats
 
-*Scraped **50,531** Articles*
+*Scraped **50,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,86 @@ dbsjeyarajcom | 409
 bbccomsinhala | 506
 colombotelegraphcom | 507
 islandlk | 3,008
-economynextcom | 3,084
+economynextcom | 3,087
 dailyftlk | 3,446
 adalk | 4,688
 dailymirrorlk | 4,733
 adaderanalk | 5,985
 tamilmirrorlk | 6,927
 virakesarilk | 8,104
-adaderanasinhalalk | 8,771
+adaderanasinhalalk | 8,773
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,531 (100.0%) of 50,531 articles have been extended.
+50,533 (100.0%) of 50,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### වෛද්‍යවරියගේ නිවසට බලහත්කාරයෙන් ඇතුළුවී රන් භාණ්ඩ සොරකම් කළ දෙදෙනා අල්ලයි
+
+*2024-10-21 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202397) · `si`
+
+වෛද්‍යවරියකගේ නිවසට සාපරාධී ලෙස බලහත්කාරයෙන් ඇතුළු වී මුදල් හා රත්‍රං බඩු කොල්ල කෑ දෙදෙනෙකු තලංගම අපරාධ අංශය මගින් අත්ඩංගුවට ගෙන තිබේ.
+
+පසුගිය 19 වනදා තලංගම පොලීසියට ලද පැමිණිල්ලකට අනුව සිදුකළ මූලික විමර්ශනවලදී මෙම සැකකරුවන් හඳුනාගෙන තිබුණි.
+
+මෙම සිදුවීමට මුහුණ දී ඇත්තේ ශ්‍රී ජයවර්ධනපුර රෝහලේ සේවය කරන 43 හැවිරිදි වෛද්‍යවරියකි.
+
+විමර්ශනවලදී අනාවරණය වී ඇත්තේ ඔවුන් දැඩි ලෙස මත්ද්‍රව්‍ය සඳහා ඇබ්බැහි වී ඇති බවයි.
+
+45 හැවිරිදි සැකකරු නිවසෙන් පිටත රැඳී සිට ඇති අතර අනෙක් සැකකරු නිවසට බලහත්කාරයෙන් පැන වෛද්‍යවරියගේ ගෙලට පිහියක් තබා ඇගේ රන් මාලය සහ අනෙකුත් රත්‍රං භාණ්ඩ කොල්ලකා පළා ගොස් ඇත.
+
+මෙලෙස සොරකම් කරන ලද රත්‍රංවල මුළු වටිනාකම ලක්ෂ හතකට ආසන්න බව සඳහන් ය.
+
+සිද්ධිය වූ අවස්ථාවේදී අසල්වාසියෙකු විසින් මෙම සිදුවීම පටිගත කර ඇති අතර එම වීඩියෝ දර්ශන සහ CCTV දර්ශන උපයෝගී කරගනිමින් මෙම සැකකරුවන් හඳුනාගෙන තිබුණි.
+
+ඔවුන් ඊයේ (20) තලංගම පොලීසිය මගින් අත්තඩංගුවට ගෙන ඇති අතර අද (21) සැකකරුවන් දෙදෙනා කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත ය.
+
+◼️
+
+[Data](articles/d59e2bcf.json)
+
+---
+
+### Gammanpila reveals the contents of the Passover Investigative Committee Report
+
+*2024-10-21 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202396) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Leader Gammanpila reveals Passover attack report contents. Accuses Ravi Seneviratne of negligence. Claims President violated Constitution. Demands apology. Report criticizes intelligence failures leading to Easter Sunday bombings.
+
+🟩
+
+Ravi Seneviratne, leader of the Government of Investigation Committee, has been identified as a major accused of the Passover attack, says the Leader of the Mahanayaka Gammanpila.
+
+He was speaking at a media briefing in Colombo today (21st) to popularize the reports of the Easter attack.
+
+Gammanpila said that the President would be given a statement to publish reports of the Passover attack this morning.
+
+Accordingly, one report on these two accounts will continue to reveal the other report today.
+
+Udaya Gammanpila continues, the President had violated the Constitution intentionally.
+
+Gammanpila said the President should immediately apologize to the nation.
+
+"I am talking about the two reports of the President of the President, Ranil Wickremesinghe ever promoting the president of the President.
+
+Retired Report S. I. The committee was handed over to the committee headed by the Minister of Imam on the 25th June 25, 2024 to the then President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/a8398390.json)
+
+[Extended Data](ext_articles/a8398390.ext.json)
+
+---
 
 ### Here's what Gammanpila told about Easter reports
 
@@ -376,6 +438,28 @@ The former Minister had claimed that important information related to the Easter
 
 ---
 
+### Sri Lanka unit of IOC profits halves in Sept 2024 quarter
+
+*2024-10-21 10:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-unit-of-ioc-profits-halves-in-sept-2024-quarter-184289/) · `en`
+
+ECONOMYNEXT – Lanka IOC, a unit of Indian Oil Corporation has reported profits of 2,525 million rupees in the September 2024 quarter down 50 percent from a year earlier, with cost of sales growing faster than sales, interim account show.
+
+Lanka IOC still posted profits of 4.74 rupees per share in the quarter. In the six months to September the company posted earnings of 11.83 rupees per share, down from 14.10 rupees a year earlier on total profits of 6,301 million rupees.
+
+Revenues grew 19 percent to 73.51 billion rupees, cost of sales went up at a faster 27 percent to 68.61 billion rupees and gross profits fell 37 percent to 4.9 billion rupees.
+
+Lanka IOC usually piggy backs on the pricing of Ceylon Petroleum Corporation and makes profits.
+
+Critics have said CPC is overstaffed and has procurement inefficiencies.
+
+...
+
+[Data](articles/1e3e2ad8.json)
+
+[Extended Data](ext_articles/1e3e2ad8.ext.json)
+
+---
+
 ### Student's body recovered from the river!
 
 *2024-10-21 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196747) · `ta`
@@ -533,6 +617,26 @@ As of now, it has been reported that nearly 50 firearms have been returned. Howe
 [Data](articles/7a1f6dde.json)
 
 [Extended Data](ext_articles/7a1f6dde.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 292.90/293.10 to US dollar, bond yields up
+
+*2024-10-21 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-292-90-293-10-to-us-dollar-bond-yields-up-184287/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened slightly stronger at 292.90/293.10 to the US dollar on Monday, from 293.00/20 a day earlier, while bond yields were up dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.30/40 percent, up from 11.25/45 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.70/75 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.90/12.10 percent, up from 11.90/12.05 percent.
+
+In equities, Colombo’s All Share Price Index opened up 0.04 percent, or 4.89 points higher at 12,317, while the S&P SL20 of more liquid stocks was trading up 0.13 percent or 4.89 points higher at 3,627.
+
+◼️
+
+[Data](articles/894d7afe.json)
 
 ---
 
@@ -1710,6 +1814,28 @@ Zellers stands as a pioneer in local craftsmanship and innovation, as fine choco
 
 ---
 
+### Sri Lanka struggles with high poultry feed costs amid maize trade controls
+
+*2024-10-21 01:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-struggles-with-high-poultry-feed-costs-amid-maize-trade-controls-184263/) · `en`
+
+ECONOMYNEXT  – Sri Lanka is trying to find a solution to high costs of poultry feed amid import duties and trade controls for maize, which is keeping eggs and meat prices high, in a country which has high child malnutrition.
+
+To give unusually high profits to maize farmers and maize collectors, generally called the ‘maize mafia’, Sri Lanka has not only imposed 25 rupees a kilo import taxes (about 86 dollars a tonne), but also imposes quantity restrictions through a license raj.
+
+As a result, license holders can control prices even if imports are allowed.
+
+Sri Lanka recently issued licenses to import 300,000 tonnes of maize, as the Yala season harvests is usually low. Sri Lanka has also banned the use of rice for animal feed.
+
+“About 300,000 tonnes of imports were allowed, but it is on a quota system,” Minister Vijitha Herath said.
+
+“Many people are saying maize can be imported for about 110 rupees a kilo (about 376 dollars a tonne), but it is sold at about 160 rupees (about 547 dollars a tonne).
+
+...
+
+[Data](articles/4539cbf6.json)
+
+---
+
 ### New Zealand is the first time in the ICC Women's R20 World Cup
 
 *2024-10-21 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196737) · `ta`
@@ -2223,133 +2349,5 @@ Although both of these teams had previously served the final, they could not win
 [Data](articles/bf180b8f.json)
 
 [Extended Data](ext_articles/bf180b8f.ext.json)
-
----
-
-### Borders change in two countries in Europe
-
-*2024-10-20 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202377) · `si`
-
-Italy and Switzerland reset borders due to glacier changes. Alpine regions affected. Negotiations underway for Sormen region border adjustments. SMC ski resort crucial for both nations' interests. Reconstruction efforts ongoing since 2023.
-
-🟩
-
-The borders have been resetted between Italy and Switzerland.
-
-This step has to be taken by the glaciers in the border between the two countries.
-
-These countries have decided to rebuild their borders again, bordering each other near the Alps.
-
-As a result of the weather forecasts over the past few years, the Sarmath Regional characteristics of the two countries has changed almost entirely.
-
-That is how the two countries had to commence negotiations to redress the borders of the Sormen region.
-
-It is reported that the SMC, a popular snow resort in Europe, is very important to both countries as both geopolitical and economically.
-
-Italy and Switzerland agreed to reconstruct borders between the two countries in 2023.
-
-The Swiss government has already completed the relevant official affairs and the ITIs has commenced the approval of the ITI.
-
-In addition to the Swiss government, several more glaciers are melting.
-
-It is said that their opinions will have to be rebuilt among countries.
-
-◼️
-
-[Data](articles/81b7c8c4.json)
-
-[Extended Data](ext_articles/81b7c8c4.ext.json)
-
----
-
-### Arjun's 'Sita Travel' film update
-
-*2024-10-20 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/196725) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Akshan King directs "Sita Till" for Arjun's Sri Ram Film International. Newcomer Niranjan Sudheendra debuts as hero. Film produced in Tamil, Telugu, Kannada.
-
-🟩
-
-Actor and director Akshan King has released information about the hero of the film 'Sita Tilli' which is being produced by Arjun.
-
-Newcomer Niranjan Sudheendra makes his debut as the hero of the story in 'Abhi' in the new movie 'Sita Till', directed by 'Action King'.
-
-The hero of the story, Niranjan Sudeep, has a young look and a sexy magnetic eyes with the hairstyle of today's younger generation.
-
-The film is being produced by Arjuna's Sri Ram Film International in three languages- Tamil and Telugu-Kannada.
-
-◼️
-
-[Data](articles/456fd30f.json)
-
-[Extended Data](ext_articles/456fd30f.ext.json)
-
----
-
-### Motorcycle accident in Moranduduwa;Youth
-
-*2024-10-20 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/196724) · `ta`
-
-Motorcycle crash kills youth in Moranduduwa. Vehicle lost control near Parakastota, Horana road. Passenger injured, died at Konaduwa hospital. Police investigating incident.
-
-🟩
-
-A youth was killed when a motorcycle crashed in Mahawela area in Parakastota, Moranduduwa - Horana road, police said.
-
-Police said the motorcycle from Millaia to Moranduduwa lost its speed control and crashed away from the road.
-
-A motorcycle passenger was injured in the accident and died after being admitted to the Konaduwa hospital.
-
-The body is being kept in the corpse of the Konaduwa Hospital and the Moranduduwa police are conducting further investigations.
-
-◼️
-
-[Data](articles/a81c1a49.json)
-
-[Extended Data](ext_articles/a81c1a49.ext.json)
-
----
-
-### The Nobel Prize for Literature is also silent
-
-*2024-10-20 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196722) · `ta`
-
-Nobel Prize for Literature remains silent. Words' power compared to disasters. Absence felt through silence. Speaking out against injustice crucial. Russia, Iran, Belarus excluded from previous awards. Israel's participation uncertain this year.
-
-🟩
-
-If the portrait he tried to compare the consequences of the disaster, the power of the words, the power of the words?The fact that one does not speak becomes like his absence. This silence will be more than what happened. Therefore, to speak against injustice. Russia, Iran and Belarus were not invited for last year's Nobel Prizes. It is not known whether Israel will not be called this time.
-
-◼️
-
-[Data](articles/0d5d6874.json)
-
-[Extended Data](ext_articles/0d5d6874.ext.json)
-
----
-
-### Israel's demand on Palestinians
-
-*2024-10-20 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196723) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Israel's actions against Palestinians stem from broader US-led interventions in the Middle East, continuing patterns seen in invasions of Afghanistan (2001), Iraq (2003), Libya, and Syria. These actions are part of a larger strategy of US imperialism in the region.
-
-🟩
-
-The war has now been ahead of the Middle East as part of the decades of US imperialism to enslave the Middle East, Central Asia and North Africa.. This is a continuation of the invasion of Afghanistan in 2001, the invasion of Iraq in 2003 and the regime change in Libya and Syria.
-
-◼️
-
-[Data](articles/af7b695d.json)
-
-[Extended Data](ext_articles/af7b695d.ext.json)
 
 ---

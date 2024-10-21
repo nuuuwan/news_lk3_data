@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 12:39:30**
+As of **2024-10-21 13:10:02**
 
 ## Newspaper Stats
 
-*Scraped **50,536** Articles*
+*Scraped **50,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 507
 islandlk | 3,008
 economynextcom | 3,087
 dailyftlk | 3,446
-adalk | 4,688
+adalk | 4,689
 dailymirrorlk | 4,733
-adaderanalk | 5,985
-tamilmirrorlk | 6,927
+adaderanalk | 5,986
+tamilmirrorlk | 6,929
 virakesarilk | 8,104
 adaderanasinhalalk | 8,773
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 8,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,536 (100.0%) of 50,536 articles have been extended.
+50,540 (100.0%) of 50,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Defamatory posters against Mannar HC Judge: Main suspect evading arrest
+
+*2024-10-21 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102828/defamatory-posters-against-mannar-hc-judge-main-suspect-evading-arrest-) · `en`
+
+Police have informed the Colombo Magistrate’s Court today (21) that they are launching investigations to apprehend the primary suspect involved in the incident of pasting defamatory posters targeting the Mannar High Court Judge.
+
+The relevant plaint was called before Colombo Chief Magistrate Thilina Gamage today.
+
+The officers of the Colombo Crime Division (CCD) have presented facts to the court, stating that investigations are ongoing to apprehend the main suspect in the incident.
+
+Police informed the court that the primary suspect has fled his home and is evading arrest and that investigations are being carried out to locate him.
+
+President’s Counsel Maithree Gunaratne, who is representing several suspects who have been remanded related to this case, presented the facts before the court stating that the persons remanded in custody are only witnesses of this incident
+
+...
+
+[Data](articles/d8f5cf2f.json)
+
+[Extended Data](ext_articles/d8f5cf2f.ext.json)
+
+---
+
+### 21/4 Report Affairs; President Action
+
+*2024-10-21 12:21:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-அறிக்கை-விவகாரம்-ஜனாதிபதி-அதிரடி/175-345773) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Presidential Commission reports on Easter attacks not confidential. New investigations ordered. Former President accused of forming groups to hinder inquiries. Current government committed to uncovering truth behind attacks.
+
+🟩
+
+President Anura Kumara Dissanayake yesterday (20) said that those who have been unconsciously in a coma for the Easter Sunday attack have now begun to question the reports of the Presidential Commission.
+
+He said that some people were confused after the government launched a proper investigation into the Easter attacks and that the Easter attack reports were not confidential.
+
+Speaking at a rally in Katunayake, the President said that the President had informed him that the President had submitted two reports of the Presidential Commission, which was investigating the Easter attacks, had been submitted to the Attorney General, Defense Secretary, Secretary to the Ministry of Public Security and the Archbishop Secretary of the Colombo Archbishop.. So he stressed that they are not confidential statements.
+
+However, the president said that the committees were not investigating committees and that former President Ranil Wickremesinghe had formed some groups to suppress the investigation.
+
+...
+
+[Data](articles/82d2bcb8.json)
+
+[Extended Data](ext_articles/82d2bcb8.ext.json)
+
+---
 
 ### Two forcibly enforced doctor's house and stole gold goods
 
@@ -121,6 +171,34 @@ Two Easter reports were made public and published today.
 [Data](articles/a4db5bba.json)
 
 [Extended Data](ext_articles/a4db5bba.ext.json)
+
+---
+
+### Passport sequence that has ended
+
+*2024-10-21 11:47:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடிவுக்கு-வந்துள்ள-கடவுச்சீட்டு-வரிசை/175-345772) · `ta`
+
+New passport batch arrives; distribution starts Monday. Long lines end but 750k applications nearing exhaustion. Cabinet discusses uninterrupted supply. E-passport case pending in High Court.
+
+🟩
+
+Minister Vijitha Herath said that the distribution of passports in the country will be carried out on Monday (21).
+
+A batch of new foreign passport has arrived in the country. Passport distribution will take place accordingly.
+
+He noted that the long line of passport has come to an end.
+
+Also, 750,000 foreign passports that have been applied will soon be exhausted. This is likely to cause a passport crisis again.
+
+In this case, the Minister said that the Cabinet has been consulted on the purchase of the passport uninterrupted.
+
+The case relating to the electronic passport is pending in the High Court. The Minister added that the e-Passport case will be carried out once the solution is issued.
+
+◼️
+
+[Data](articles/bd2c4f14.json)
+
+[Extended Data](ext_articles/bd2c4f14.ext.json)
 
 ---
 
@@ -441,6 +519,34 @@ The former Minister had claimed that important information related to the Easter
 [Data](articles/8dd759bb.json)
 
 [Extended Data](ext_articles/8dd759bb.ext.json)
+
+---
+
+### Easter attack reveals the truth
+
+*2024-10-21 10:48:19* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-ගැන-ඇත්ත-හෙළි-කරනවා/11-412582) · `si`
+
+Here's a 200-character summary:
+
+
+
+Presidential investigation ordered into Easter attacks. President claims fair probe, police instructed to investigate thoroughly. Previous reports not reviewed, current inquiry aims to uncover truth behind bombings.
+
+🟩
+
+President Anura Kumara Dissanayake said that there was a fair investigation into the Passover attack.
+
+He was speaking at a public meeting held in Katunayake yesterday. He also said that the Police Department and the Criminal Investigation Department have been instructed to conduct a fair investigation.
+
+"The Passover attack has been wake up after five years after the Passover attack. Now give that report, to give this report. Both reports Ranil Wickremesinghe records. Both is not under review committees. When I arrived, the secretary of the secretary asked the secretary what happened.
+
+Ranil Wickremesinghe wanted to suppress this test. We instructed the IGP and the CID to the Department of Criminal Investigation into the Passover attack. And when the coma was awake. Disrupt it, compuls. This person's involvement is not to discover true convictions. "
+
+◼️
+
+[Data](articles/b01eea75.json)
+
+[Extended Data](ext_articles/b01eea75.ext.json)
 
 ---
 
@@ -2241,123 +2347,5 @@ Accordingly, Sri Lanka has won 232 runs in 37 overs.
 [Data](articles/96b202c6.json)
 
 [Extended Data](ext_articles/96b202c6.ext.json)
-
----
-
-### Three members of the same family die?
-
-*2024-10-20 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202379) · `si`
-
-Fire in Chilaw house kills 3 family members. Police investigate suspected murder. Bodies found in bedroom and living room. Jewelry worth 25 lakhs missing.
-
-🟩
-
-Police suspect that a fire in a house in Sinhapura area in Chilaw can be a murder
-
-The Chilaw Headquarters Police have launched a special investigation into the incident.
-
-The Chilaw police had received a fire in a two storied house in Sinhapura, Chilaw.
-
-Accordingly, the Chilaw Police and the Fire French Unit had gone there and the fire was taken to curb the fire.
-
-The bodies of three were later found at the investigating officers in the house.
-
-The victim was 51 year old SG. The homeowner of Senaratne, 44 year old Manjula Niroshi, his wife and their 15-year-old daughter Nethmi Nihamesha was identified.
-
-The mother's dead body was found on the bed of the bedroom in the bedroom and the police said that her neck was cut off.
-
-The bodies of father and daughter were found in the living room at home.
-
-The deceased is a development officer of the Chilaw Divisional Secretariat and has also served as a teacher of the Dhamma School in the area.
-
-...
-
-[Data](articles/24c09b85.json)
-
-[Extended Data](ext_articles/24c09b85.ext.json)
-
----
-
-### All Ceylon Schools Sports Festival;Northern, central provincial soldiers
-
-*2024-10-20 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/196733) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Ceylon Schools Sports Festival highlights: Northern/Central provinces excel. Gold medals awarded in athletic events. Notable winners include Mannar's Nirushika and Arunodaya's Sayanthika. Jaffna schools shine in jumping competitions. Matale Hindu National School's Dudi Harshithan wins silver in 1500m race.
-
-🟩
-
-Northern and Central Provincial Schools Medals have won medals in the last feature of the All Ceylon Schools Sports Festival.
-
-Athletic competitions organized by the Ministry of Education are being held at the Sugathadasa Stadium in Colombo.
-
-Mannar and Estate Government Tamil Kalavan School. Yadurshika recorded a gold medal of 37.39 meters. This is the first time a heroine won a medal on behalf of the Mannar District Schools in the All Ceylon Schools Sports Sports Festival.
-
-Arunodaya College Hero Say 2.90 meters. Nirushika acquired the gold medal. His fellow school hero. Dilakshika (2.70 m) won the bronze medal.
-
-Tellippalai Mahajana College player S.. Tushanthan took the gold medal.
-
-...
-
-[Data](articles/98ea5bec.json)
-
-[Extended Data](ext_articles/98ea5bec.ext.json)
-
----
-
-### President reveals what former President's request has been revealed - President says
-
-*2024-10-20 19:22:11* · [`adalk`](https://www.ada.lk/breaking_news/ආසන්නම-හිටපු-ජනපති-ඉල්ලූ-දේ-ජනපති-අනුර-හෙළි-කරයි---ඉල්ලීම්-නොදෙන-බවත්--ජනපති-කියයි/11-412575) · `si`
-
-Here's a 200-character summary:
-
-
-
-Former President requests 16 vehicles from current administration. Current President vows to reduce government spending, establish transparency, and strengthen economy within 5 years. Aims to make Sri Lanka self-sufficient and technologically advanced.
-
-🟩
-
-The president of our government and the president of our president will collapse. "President Anura Kumara Dissanayake said he was speaking at the Tangalle in Tangalle.
-
-On November 14, I claim the people of Meee to clean the parliamentary role. It is believed that the work is fulfilled. On November 14, a strong, powerful, parliament should be obtained by the national economy.
-
-Before the parliament cleaned on November 14, some people are delicious. Isn't it?. Is good?The name is not the case with more than 60 years.
-
-We have started to stop government spending and wastes.
-
-We have established a political culture that the people have never experienced in Mei. How to celebrate the victory
-
-Our weightener is the immediate strengthening of the economy.
-
-...
-
-[Data](articles/f5d20c61.json)
-
-[Extended Data](ext_articles/f5d20c61.ext.json)
-
----
-
-### World Cup final battle is South Africa
-
-*2024-10-20 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202378) · `si`
-
-South Africa vs New Zealand in T20 Women's World Cup final. Teams chose to bat first. Match being played in Dubai after UAE leg. Both teams have reached finals before but never won title.
-
-🟩
-
-New Zealand and South Africa won the toss and elected to bathe in the final match of the Twenty20 Women's World Cup today (20).
-
-The final will be held in Dubai, which was held in the United Arab Emirates for several weeks.
-
-Although both of these teams had previously served the final, they could not win the championship.
-
-◼️
-
-[Data](articles/bf180b8f.json)
-
-[Extended Data](ext_articles/bf180b8f.ext.json)
 
 ---

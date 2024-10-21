@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 19:58:10**
+As of **2024-10-21 20:12:00**
 
 ## Newspaper Stats
 
-*Scraped **50,612** Articles*
+*Scraped **50,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ bbccomsinhala | 508
 islandlk | 3,011
 economynextcom | 3,091
 dailyftlk | 3,446
-adalk | 4,699
+adalk | 4,700
 dailymirrorlk | 4,733
-adaderanalk | 5,996
+adaderanalk | 5,997
 tamilmirrorlk | 6,941
 virakesarilk | 8,122
-adaderanasinhalalk | 8,786
+adaderanasinhalalk | 8,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,612 (100.0%) of 50,612 articles have been extended.
+50,614 (100.0%) of 50,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### ප්‍රදේශ කිහිපයක ජල සැපයුම ගැන දැනුම්දීමක්
+
+*2024-10-21 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202411) · `si`
+
+ජල සැපයුම් නල මාර්ගයක ඇතිවූ හදිසි බිඳ වැටීමක් හේතුවෙන් ගම්පහ දිස්තික්කයේ ප්‍රදේශ කිහිපයට ජල සැපයුම අඩු පීඩනයක් යටතේ සිදුවන බව ජාතික ජල සම්පාදන සහ ජලාපවාහන මණ්ඩලය පවසයි.
+
+ඒ අනුව වත්තල, මාබෝල, ජා ඇල සහ කටුනායක-සීදුව නගර සභා ප්‍රදේශ සහ වත්තල, බියගම, මහර, ජා ඇල, කටාන සහ මිනුවන්ගොඩ ප්‍රාදේශීය සභා කලාප සඳහා අඩු පීඩනයක් යටතේ ජලය සැපයෙයි.
+
+උස ස්ථානවල ජලය සැපයුමට බාධා එල්ලවෙතැයි ජාතික ජල සම්පාදන සහ ජලාපවාහන මණ්ඩලය පැවසීය.
+
+මෙහි අලුත්වැඩියා කටයුතු සිදුකෙරෙන බවත් ජල සැපයුම හෙට දහවල් 12ට පමණ යථා තත්ත්වයට පත්කිරීමට හැකිවෙතැයි සඳහන් ය.
+
+◼️
+
+[Data](articles/ab696d9b.json)
+
+---
+
+### Low-pressure water supply to several areas due to breakdown
+
+*2024-10-21 19:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102838/low-pressure-water-supply-to-several-areas-due-to-breakdown) · `en`
+
+The National Water Supply and Drainage Board says that the water supply to several areas in the Western Province will be under low pressure due to a sudden breakdown in the transmission pipeline to the Church Hill Reservoir.
+
+Accordingly, the water supply will be under low pressure in the following areas:
+
+Meanwhile, the Water Board said that high elevated areas may experience supply interruptions.
+
+It further said that repair work is in progress and that the expected restore time is 12.00 noon tomorrow (22).
+
+The people living in the aforementioned areas are advised to use water sparingly.
+
+◼️
+
+[Data](articles/075f03bb.json)
+
+[Extended Data](ext_articles/075f03bb.ext.json)
+
+---
 
 ### In public viewing of election spending statements
 
@@ -65,6 +105,26 @@ The last day of the acceptance of the nominations on October 11 was the controve
 [Data](articles/1980c630.json)
 
 [Extended Data](ext_articles/1980c630.ext.json)
+
+---
+
+### When Lady Dimuthu arrived in Sri Lanka
+
+*2024-10-21 18:47:47* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-දිමුතු-ලංකාවට-එද්දී-අල්ලයි/11-412595) · `si`
+
+Mathettitia Resources, Dimuthu Sampath, who was serving in Galle, Ratgama Police Officers, at the Katunayake airport, 10/21 by the Criminal Investigations Department (CID).The arrested
+
+The 28 year old is a resident of Galliyagoda, Galliyagoda, the Galagoda. Police reveal that police officers named Dimuthuth Balandra, who was engaged in a dispute with the organized crime leader of the South, had been arrested in the Headdagama Police Division in the Headdagama Police Division.Have been taken.
+
+The arrested Dimuthu Resource was reached from Sergea, the opening of Sataebita, 18/21 at 321 days at 3 10 days.
+
+This was taken to the Colombo Criminal Investigation Department Headquarters for further investigations into the detention of the Katunayake Airport Criminal Investigation Unit.. .
+
+◼️
+
+[Data](articles/1c82c3f5.json)
+
+[Extended Data](ext_articles/1c82c3f5.ext.json)
 
 ---
 
@@ -2209,75 +2269,5 @@ The bodies of the deceased have been placed in the funeral room of the Kahatagas
 [Data](articles/fa9feae7.json)
 
 [Extended Data](ext_articles/fa9feae7.ext.json)
-
----
-
-### Two suspects arrested in connection with Matara shooting
-
-*2024-10-21 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102825/two-suspects-arrested-in-connection-with-matara-shooting) · `en`
-
-The Police Special Task Force (STF) has apprehended two individuals who have aided and abetted the shooting and killing of a man in the Nawimana area of Matara.
-
-The suspects were arrested in a raid conducted based on a tip-off received by the Southern Provincial Operations Unit of the STF.
-
-On October 15, a 26-year-old man was shot and killed by two people who came in a car in the Nawimana area of Matara.
-
-The STF said that based on the investigations, the car’s driver was arrested in the Thotamuna area of Matara and he is a 29-year-old resident of the Ambalantota police division.
-
-Additionally, a 26-year-old man, believed to have served as the lookout to carry out the murder, was arrested in Kekanadura area.
-
-The Police Special Task Force stated that the arrested suspects were handed over to the Matara Police Station for further investigation after initial investigations.
-
-◼️
-
-[Data](articles/268dba2b.json)
-
-[Extended Data](ext_articles/268dba2b.ext.json)
-
----
-
-### Udaya Gammanpila's Special Information
-
-*2024-10-21 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202393) · `si`
-
-Udaya Gammanpila discusses Passover attack details in upcoming press conference.
-
-🟩
-
-Former Parliamentarian Udaya Gammanpila is currently conducting a special news discussion.
-
-Mr. Gammanpila said that the Passover attack will be revealed at the press conference.
-
-◼️
-
-[Data](articles/6ffe23aa.json)
-
-[Extended Data](ext_articles/6ffe23aa.ext.json)
-
----
-
-### Before removing Mahinda's safety
-
-*2024-10-21 10:09:14* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දගේ-ආරක්ෂාව-ඉවත්-කිරීමට-පෙර-සිතා-බලන්න/11-412581) · `si`
-
-Sri Lanka's government focuses on former president Mahinda Rajapaksa's safety amid ongoing regional threats. Security measures reduced, concerns raised about potential risks. Political leaders emphasize development and addressing public issues.
-
-🟩
-
-The Government of Sri Lanka's presidential leader Indika Agathan said that the Government of Sri Lanka should focus on the safety of the former president's safety.
-
-He was speaking at a public election campaign to open the main election campaign in Makola.
-
-This was opened under the purpose of the Gampaha District candidate and the former Vice President of the Biyagama Pradeshiya Sabha.. Former State Minister Indika Anura repairs, said,
-
-President Mahinda Rajapaksa has finished the cruel war in the country for thirty years.. However, steps have been taken to remove the security guards and security vehicles used by the present government.As a result, his safety is emerging.
-
-Are the terms of regional threats today. The organization has not yet been eliminated if the LTTE was eliminated. . Therefore, the threats from the LTTE to the former President have not yet gone away. We need to understand this. Therefore, before he reduces his security, it is necessary to think about twice.
-
-...
-
-[Data](articles/dd8551c4.json)
-
-[Extended Data](ext_articles/dd8551c4.ext.json)
 
 ---

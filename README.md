@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 21:58:59**
+As of **2024-10-21 22:14:17**
 
 ## Newspaper Stats
 
-*Scraped **50,620** Articles*
+*Scraped **50,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ dailymirrorlk | 4,733
 adaderanalk | 5,997
 tamilmirrorlk | 6,943
 virakesarilk | 8,122
-adaderanasinhalalk | 8,787
+adaderanasinhalalk | 8,789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,620 (100.0%) of 50,620 articles have been extended.
+50,621 (100.0%) of 50,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### ගම්මන්පිල ට චෝදනාවක්
+
+*2024-10-21 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202414) · `si`
+
+පාස්කු ප්‍රහාරය සම්බන්ධයෙන් අධිකරණවල විභාගවන නඩුවල ප්‍රධාන සාක්ෂිකරුවන් වී සිටින රවී සෙනෙවිරත්න සහ ශානි අබේසේකරගේ විශ්වසනීයත්වය බිඳහෙළීමට හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා උත්සාහ දරන බව ජාතික ජන බලවේගය පවසයි.
+
+පාස්කු ප්‍රහාරයේ විමර්ශන කමිටු වාර්තා ප්‍රසිද්ධ කිරීම වෙනුවෙන් අද (21) පෙරවරුවේ කොළඹ දී පැවැති මාධ්‍ය හමුවකදී ගම්මන්පිල මහතා සිදුකළ හෙළිදරව්වට ප්‍රතිචාර දක්වමින් ජාතික ජන බලවේගයේ නීතිඥ සාමුහිකයේ විධායක සභික ජනාධිපති නීතිඥ උපුල් කුමරප්පෙරුම මහතා ඒ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/6a4db67f.json)
+
+---
+
+### The underground scholarship problem is reopened
+
+*2024-10-21 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202413) · `si`
+
+A fundamental rights petition filed before the Supreme Court to issue a decision to issue complete marks for three scholarship examination.
+
+The petition has been presented by the students who sat for the examination in the Badulla District and their parents.
+
+The Commissioner General of Examinations, Commissioner General of Examinations, Prime Minister Dr. Weli Amarasuriya, the DIG and the Attorney General in charge of the Criminal Investigations of the Criminal Investigations.
+
+The petitioners say that three questions have been exhausted in the first part of the Year 05 scholarship examination last year.
+
+The petitioners point out that the students have decided to give full scores to all the students who sat for the examination for three questions.
+
+They begging the judiciary to make a decision that the action is violated by basic human rights.
+
+...
+
+[Data](articles/f958fb12.json)
+
+[Extended Data](ext_articles/f958fb12.ext.json)
+
+---
 
 ### Key notice on water supply
 
@@ -2209,49 +2247,5 @@ Mr. Kammanpila said that Catholics have died in the 2019 bomb blasts, including 
 [Data](articles/4b2cf56c.json)
 
 [Extended Data](ext_articles/4b2cf56c.ext.json)
-
----
-
-### Two lorries collided face -to -face;Five injured including couple
-
-*2024-10-21 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196752) · `ta`
-
-Two lorries crashed head-on near a school in Sri Lanka. Five people, including a couple, were hurt. They were taken to hospital.
-
-🟩
-
-Bandaragama police said that five people, including a couple, were injured when two lorries collided head -on in front of school in Kitelpitiya area in Bandaragama.
-
-Police said the accident occurred when a lorry traveling from Kesbewa to Bandaragama collided head -on with a lorry with the couple.
-
-During the accident, five people who were injured in both lorries were admitted to the Panadura Hospital for treatment.
-
-◼️
-
-[Data](articles/9f48eda4.json)
-
-[Extended Data](ext_articles/9f48eda4.ext.json)
-
----
-
-### Motorcycle accident in Ragama;Youth killed
-
-*2024-10-21 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196750) · `ta`
-
-Motorcycle crash kills youth in Ragama. Rider lost control near power lines, vehicle damaged. Victim hospitalized.
-
-🟩
-
-Ragama police said that a youth was killed in an accident on Sunday night (20) night at Ragama, Devadam and Thambuwa Junction Road.
-
-The accident occurred when a motorcycle traveling from Devathi to Thambuwa jumped and crashed into a nearby wiring.
-
-The man who was injured in the accident has been admitted to the Ragama Hospital after being admitted to the Ragama Hospital.
-
-◼️
-
-[Data](articles/71ce78dc.json)
-
-[Extended Data](ext_articles/71ce78dc.ext.json)
 
 ---

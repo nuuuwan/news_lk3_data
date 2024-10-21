@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 11:11:25**
+As of **2024-10-21 11:24:03**
 
 ## Newspaper Stats
 
-*Scraped **50,514** Articles*
+*Scraped **50,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,084
 dailyftlk | 3,446
 adalk | 4,684
 dailymirrorlk | 4,733
-adaderanalk | 5,983
-tamilmirrorlk | 6,921
+adaderanalk | 5,984
+tamilmirrorlk | 6,923
 virakesarilk | 8,101
 adaderanasinhalalk | 8,769
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 8,769
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,514 (100.0%) of 50,514 articles have been extended.
+50,517 (100.0%) of 50,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Fort - Maradana trains delay
+
+*2024-10-21 11:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-மருதானை-ரயில்கள்-தாமதம்/175-345765) · `ta`
+
+Colombo-Fort to Maradana train service delayed due to technical issue at Fort Railway Station. All trains halted until further notice. Sri Lanka Railways announcement.
+
+🟩
+
+Sri Lanka Railways today announced that trains between Colombo - Fort and Maradana have been delayed.
+
+The delays were caused by a technical failure on the railway station at the Fort Railway Station, the department said.
+
+The department added that all the train travels to Maradana had been stopped and there was a delay.
+
+◼️
+
+[Data](articles/c792d926.json)
+
+[Extended Data](ext_articles/c792d926.ext.json)
+
+---
+
+### I will make public today
+
+*2024-10-21 11:00:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நான்-பகிரங்கப்படுத்துவேன்/175-345764) · `ta`
+
+Sri Lanka Easter Sunday bombings report release delayed due to security concerns. Intelligence agency investigation ongoing. Former President Ranil Wickremesinghe-era documents reveal sensitive information. Public disclosure expected soon.
+
+🟩
+
+President Anuragumara Dissanayake has made public the two reports of the Easter Sunday bombings, I will make public today, said Udaya Kammanpila.
+
+Mr. Kammanpila told reporters that the deadline I had given to the government was to be completed to publish the contents of these reports with security-sensitive details.
+
+He said the president had time to date to make them public.
+
+He said that if the details of these reports, which were appointed during the time of former President Ranil Wickremesinghe, would be sentenced to 14 years in prison for revealing state secrets.
+
+The intelligence agencies are dealing with the role of the apparatus during the attack, and the other is based on the discovery after the hearing of the allegations raised in the Channel 4 documentary.
+
+Mr. Kammanpila said that Catholics have died in the 2019 bomb blasts, including 45 foreign nationals, including 45 foreign nationals.
+
+◼️
+
+[Data](articles/4b2cf56c.json)
+
+[Extended Data](ext_articles/4b2cf56c.ext.json)
+
+---
+
+### Gammanpila’s special press conference to reveal Easter attack reports
+
+*2024-10-21 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102826/gammanpilas-special-press-conference-to-reveal-easter-attack-reports-) · `en`
+
+Former Member of Parliament Udaya Gammanpila is currently holding a special press conference.
+
+The former Minister had claimed that important information related to the Easter Sunday attacks would be disclosed during the press conference.
+
+◼️
+
+[Data](articles/8dd759bb.json)
+
+[Extended Data](ext_articles/8dd759bb.ext.json)
+
+---
 
 ### Two persons who went intoxicated
 
@@ -2209,71 +2275,5 @@ Former MP Gajendrakumar Ponnambalam has said that in the parliamentary elections
 [Data](articles/c9de6023.json)
 
 [Extended Data](ext_articles/c9de6023.ext.json)
-
----
-
-### BRICS Conference - Why did Sri Lanka quit?
-
-*2024-10-20 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/196701) · `ta`
-
-Sri Lanka joined BRICS but withdrew due to economic challenges and geopolitical shifts. The country initially sought membership to strengthen its international standing and gain access to BRICS' development funds. However, it later decided to leave, citing difficulties in meeting the criteria and potential conflicts with existing alliances. This decision reflects Sri Lanka's evolving foreign policy priorities and economic realities.
-
-🟩
-
-“Sri Lanka applied to join the BRICS system. Applying and avoiding the invitation will be considered to help the BRICS system. ”
-
-◼️
-
-[Data](articles/1985abf3.json)
-
-[Extended Data](ext_articles/1985abf3.ext.json)
-
----
-
-### Young man gay with retired Chancellor
-
-*2024-10-20 18:21:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வு-பெற்ற-அதிபருடன்-இளைஞன்-ஓரினச்சேர்க்கை/175-345730) · `ta`
-
-Here's a 200-character summary:
-
-
-
-21-year-old man arrested for threatening retired 63-year-old Chancellor with explicit video demanding ₹25,000. Incident occurred in Eravur. Man was educated at different school than Chancellor, who retired 3 years ago. Both engaged in homosexuality, threatening to release compromising footage unless paid ₹9 lakhs. Police intervened, arrested youth after receiving complaint.
-
-🟩
-
-A 21 -year -old youth who was involved in homosexuality with a retired 63 -year -old Chancellor has been arrested on Saturday (19) after he threatened him with a video of Rs 25,000.. The incident took place in Eravur.
-
-This young man has been educated in a different school. In the aftermath of the inappropriate ties with a girl, the man was arrested and transferred to the school where the Chancellor was arrested in 2014.
-
-The Chancellor is engaged in homosexuality with the boy.  அதிபர் கடந்த 3 வருடங்களுக்கு முன்னர் ஓய்வு பெற்றுள்ளார்.  சிறுவனும் இளைஞனாகி, பாடசாலை கல்வியை முடித்து வெளியேறியுள்ளான். However, both are constantly engaged in homosexuality. It was taken by the young man.
-
-In this case, he threatened to release the video he has taken on this relationship and demands a sum of Rs 9 lakhs..    இளைஞனிடம் பணம் வழங்கியதற்கான கடிதம் ஒன்றை வாங்கி கொண்டு அந்த பணத்தை அதிபர் அவனுக்கு வழங்கியுள்ளார்.
-
-...
-
-[Data](articles/f74eca75.json)
-
-[Extended Data](ext_articles/f74eca75.ext.json)
-
----
-
-### Heavy showers above 100mm expected in Northern Province
-
-*2024-10-20 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102815/heavy-showers-above-100mm-expected-in-northern-province) · `en`
-
-The Department of Meteorology says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern and North-western provinces and in Jaffna, Mannar and Kilinochchi districts.
-
-Showers or thundershowers will occur at several places in the other areas of the island during the evening or night.
-
-Heavy showers above 100mm are likely at some places in Northern Province, it said, adding that fairly heavy showers above 50mm are likely at some places elsewhere.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/9d71348a.json)
-
-[Extended Data](ext_articles/9d71348a.ext.json)
 
 ---

@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 10:24:20**
+As of **2024-10-21 10:39:57**
 
 ## Newspaper Stats
 
-*Scraped **50,508** Articles*
+*Scraped **50,510** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 409
-bbccomsinhala | 505
+bbccomsinhala | 506
 colombotelegraphcom | 507
 islandlk | 3,007
 economynextcom | 3,084
 dailyftlk | 3,446
-adalk | 4,683
+adalk | 4,684
 dailymirrorlk | 4,733
 adaderanalk | 5,982
 tamilmirrorlk | 6,920
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,768
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,508 (100.0%) of 50,508 articles have been extended.
+50,510 (100.0%) of 50,510 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -556,6 +556,26 @@ Accordingly, the Department of Meteorology has forecast rain or thunderstorms in
 
 ---
 
+### Heavy rains today
+
+*2024-10-21 07:55:07* · [`adalk`](https://www.ada.lk/breaking_news/දකුණට-අද-තද-වැසි/11-412579) · `si`
+
+Heavy rains expected today: Southern Province (100mm+), showers/thundershowers in Western, Sabaragamuwa, North Western, and Northern provinces.
+
+🟩
+
+The southern province said that there will be rains from 100 mm present at some places in the Southern Province.
+
+Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, North Western and Northern provinces.
+
+◼️
+
+[Data](articles/408c8a34.json)
+
+[Extended Data](ext_articles/408c8a34.ext.json)
+
+---
+
 ### A notice of a fake phone call
 
 *2024-10-21 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202389) · `si`
@@ -731,6 +751,42 @@ He said this during a special interview with the 'Weerakesari' weekly in the wak
 [Data](articles/e46b53a7.json)
 
 [Extended Data](ext_articles/e46b53a7.ext.json)
+
+---
+
+### Srilankan Airlines: Why is two bidding Hayleys's problem with the Board of Directors?
+
+*2024-10-21 04:30:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c62dyzyp770o) · `si`
+
+Here's a 200-character summary:
+
+
+
+SriLankan Airlines faces controversy over two Hayleys directors on its board. Critics argue this creates conflicts due to Hayleys' aviation interests. The airline struggles financially, with outdated planes and high maintenance costs.
+
+🟩
+
+Srilankan Airlines: Why is two bidding Hayleys's problem with the Board of Directors?
+
+After the appointment of Anura Kumara Dissanayake, the Sri Lankan national flight, Sri Lanka's national flight, has decided to a new decision.
+
+It is further maintained as the National Airlines without privatizing the airline.
+
+However, the new government establishing the next election is to be verified.
+
+The SriLankan Airlines Critical Communications Manager Deepal Perera expressed his views to BBC Sinhala.
+
+"As the government was to power, they claimed that the Airline not privatized by SriLankan. The President had said that all the holled is all the next. The new Parliament announces that under a specific program, they will be announced. "
+
+Earlier, President Ranil Wickremesinghe had decided to privatize the SriLankan Airlines.
+
+Accordingly, SriLankan has been submitted to the state owned enterprise the restructuring unit to be "creating a burden to state finances" (SRU).
+
+...
+
+[Data](articles/ed42c8b7.json)
+
+[Extended Data](ext_articles/ed42c8b7.ext.json)
 
 ---
 
@@ -2213,61 +2269,5 @@ JVP General Secretary Rilvin Silva told the younger ones to hand over responsibi
 [Data](articles/f7eebdbe.json)
 
 [Extended Data](ext_articles/f7eebdbe.ext.json)
-
----
-
-### SLPP new resolution ahead of elections
-
-*2024-10-20 18:09:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்களை-முன்னிட்டு-SLPP-புதிய-தீர்மானம்/175-345728) · `ta`
-
-SLPP forms strategic committee for election support. Targets general and provincial council elections. Aims to strengthen candidates' performance. National organizer Namal Rajapaksa announced the move on social media.
-
-🟩
-
-The Sri Lanka PA (SLPP) has decided to set up a strategic committee to provide support for the success of the election and to provide leadership and proper guidance for future resolutions.
-
-The party has taken the decision to target the upcoming general election and provincial council election.
-
-The main objective to form this strategy is to provide candidates the strength and guidance to face the upcoming elections as a party.
-
-Namal Rajapaksa, the national organizer and former minister of the Sri Lanka PA's Peramuna, has made clear the matter on his X page.
-
-◼️
-
-[Data](articles/35e9ba32.json)
-
-[Extended Data](ext_articles/35e9ba32.ext.json)
-
----
-
-### Yewan David, who renewed Sri Lanka Motor Running History
-
-*2024-10-20 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202375) · `si`
-
-Yewan David, 17, wins 8th stage of EUR Euro Formula Open Motor Race, marking first time Sri Lankan participates in major vehicle race.
-
-🟩
-
-Sri Lanka's 17-year-old Sri Lanka Motor Runner Yawan David won the 8th phase of the 8th phase of the EUR Euro Formula Open Motor Race.
-
-This is stated that this is the first time Sri Lanka car run has attended a Mount F3 Motor Track.
-
-Yvan David, a 17-year-old motor racing, participated in its first F3 motor race yesterday (19).
-
-It is for the 8th stage of the euro Formula Open Motor Track at the Italy's Mosa track.
-
-This was the first time a Sri Lankan player participated in a major vehicle race.
-
-The 17-year-old Reviewers were evaluated by the 17-year-old Yuan, which was entitled to the MANA track with experienced riders in his wedding F3 race.
-
-Sri Lanka won the 16-minute race in the Mosa Track, and won the 8th stage of the EUR Euro Formula Open Motor Track.
-
-This victory was the highest achievements of a player in Sri Lanka Motor Radyfare.
-
-◼️
-
-[Data](articles/da4f03f2.json)
-
-[Extended Data](ext_articles/da4f03f2.ext.json)
 
 ---

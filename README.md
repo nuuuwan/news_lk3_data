@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 16:39:25**
+As of **2024-10-21 16:57:50**
 
 ## Newspaper Stats
 
-*Scraped **50,571** Articles*
+*Scraped **50,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 507
 islandlk | 3,011
 economynextcom | 3,087
 dailyftlk | 3,446
-adalk | 4,692
+adalk | 4,693
 dailymirrorlk | 4,733
-adaderanalk | 5,991
+adaderanalk | 5,992
 tamilmirrorlk | 6,932
 virakesarilk | 8,111
 adaderanasinhalalk | 8,782
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,782
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,569 (100.0%) of 50,571 articles have been extended.
+50,571 (100.0%) of 50,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### 3 vehicles used by ex-president Mahinda returned to presidential secretariat
+
+*2024-10-21 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102834/3-vehicles-used-by-ex-president-mahinda-returned-to-presidential-secretariat) · `en`
+
+Three vehicles previously assigned for the use of former President Mahinda Rajapaksa have been returned to the Presidential Secretariat in Colombo.
+
+The vehicles returned today include an ambulance, a van and a double-cab, said Ada Derana reporter.
+
+On October 1, the vehicles that had been brought to the Presidential Secretariat from various government institutions, including Ministries and Departments, were returned to their respective agencies at the parking area near the secretariat.
+
+On October 19, the Government Information Department had issued a special statement clarifying that the privileges accorded to former Presidents have not been withdrawn.
+
+Issued in response to the media reports alleging that vehicles provided to ex-Presidents have been taken back, the statement said that former Heads of State still retain their privileges and that only the additional vehicles have been returned thus far.
+
+...
+
+[Data](articles/614b557b.json)
+
+[Extended Data](ext_articles/614b557b.ext.json)
+
+---
 
 ### King Charles heckled by Indigenous lawmaker at Australian parliament
 
@@ -136,6 +158,26 @@ Accordingly, the bridegroom and his family members joined Johnpur in Uttar Prade
 
 ---
 
+### My Wedding, my father’s funeral and a portrait of Mr. Bandaranaike
+
+*2024-10-21 15:33:00* · [`islandlk`](http://island.lk/my-wedding-my-fathers-funeral-and-a-portrait-of-mr-bandaranaike/) · `en`
+
+(Excerpted from Render unto Caesar – Memoirs of Bradman Weerakoon)
+
+Two highly personal life-defining events occurred in 1956. One was my marriage in August to Damayanthi and the other the death of my father in late September.
+
+Damayanthi Gunasekera was the third daughter of a friend of my father’s who joined the colonial police at about the same time as Station House Officers. They both served for 35 years before retiring as superintendent in charge of districts. But more than that, Damayanthi’s mother was a Weerakoon from the same village as my father – Payagala in the Kalutara district – and a second or third cousin as well.
+
+Damayanthi’s mother who wed at the age of 14 was said to be a beauty and it was rumoured in family circles that my father. as a young police officer, was seriously interested in her. Be that as it may my parents were really pleased when the proposal from the Gunasekera side came along.
+
+...
+
+[Data](articles/ba8cd78e.json)
+
+[Extended Data](ext_articles/ba8cd78e.ext.json)
+
+---
+
 ### Visit to Brussels and quiet diplomacy with the Soviets in Colombo
 
 *2024-10-21 15:31:00* · [`islandlk`](http://island.lk/visit-to-brussels-and-quiet-diplomacy-with-the-soviets-in-colombo/) · `en`
@@ -171,6 +213,22 @@ Economists agree that during the last four years, the economy has performed rema
 ...
 
 [Data](articles/cfe8d75d.json)
+
+[Extended Data](ext_articles/cfe8d75d.ext.json)
+
+---
+
+### The possible future of foreign policy in Sri Lanka
+
+*2024-10-21 15:24:00* · [`islandlk`](http://island.lk/the-possible-future-of-foreign-policy-in-sri-lanka/) · `en`
+
+The last two weeks suggest that the NPP is moving to the centre, most probably in a bid to grapple with the challenges of a slim majority. The new government has announced that it will oppose the upcoming UNHRC resolution on Sri Lanka. This indicates that it is moving to embrace the nationalist space that was previously held by Mahinda Rajapaksa and his family, but has since bifurcated, if not trifurcated. As Harendra Dassanayake and Rajni Gamage recently observed, the Sinhala Buddhist space in Sri Lanka currently lacks a leader. The NPP appears to have caught the most vocally articulate sections of this milieu.
+
+...
+
+[Data](articles/ed6ee59d.json)
+
+[Extended Data](ext_articles/ed6ee59d.ext.json)
 
 ---
 
@@ -471,6 +529,26 @@ He was speaking at a public meeting held in Panadura yesterday.
 [Data](articles/e1fe99a7.json)
 
 [Extended Data](ext_articles/e1fe99a7.ext.json)
+
+---
+
+### ක්‍රිකට් ක්‍රීඩකයන්ට වැඳ නමස්කාර කිරිමට පල්‍ලේකැලේදි පිටිය මැදට ආපු තරුණයා
+
+*2024-10-21 13:02:17* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-ක්‍රීඩකයන්ට-වැඳ-නමස්කාර-කිරිමට-පල්‍ලේකැලේදි-පිටිය-මැදට-ආපු-තරුණයා/9-412588) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් පිල සහ බටහිර ඉන්දීයකොදෙව් ක්‍රිකට් පිල අතර පල්ලෙ කැලේ ජාත්‍යන්තර ක්‍රිකට් පිටියේදී පැවති එක් දින සීමිත ඕවර ක්‍රිකට් තරගය අවස්ථාවේදී ක්‍රීඩා පිටියට කඩාවැදුන පුද්ගලයෙකු පල්ලෙකැලේ පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම තරගය සඳහා වැස්සෙන් බාධා වීමෙන් අනතුරුව ශ්‍රී ලංකා ක්‍රිකට් පිල පන්දුවට පහර දීම සඳහා ක්‍රීඩා පිටියට පැමිණි අවස්ථාවේදී අධික බීමතින් සිටි බව කියන එම පුද්ගලයා එක්වරම ක්‍රීඩාපිටියට පැන පන්දුවට පහර දීමට පැමිණ සිටි ශ්‍රී ලංකා පිතිකරුවන් දෙදෙනා අසලට පැමිණි අවස්ථාවේදී පොලිස් නිලධාරීන් ඔහුව අත්අඩංගුවට ගෙන තිබේ .
+
+පොලිසිය ඔහුගෙන් ප්‍රශ්න කළ අවස්ථාවේදී ඔහු පවසා ඇත්තේ ශ්‍රී ලංකා පිතිකරුවන්ට වැඳ නමස්කාර කිරීම සඳහා ඔහු ක්‍රීඩාපිටියට ඇතුළු වූ බවයි .
+
+එසේ අත්අඩංගුවට පත්ව ඇත්තේ කටුගස්තොට ප්‍රදේශයේ පදිංචිකරුවෙකු වන 22 හැවිරිදි තරුණයෙකි .
+
+අයුතු ඇතුල්වීම සහ බීමත්ව අශෝබන ලෙස හැසිරීම යන චෝදනා යටතේ සැකකරු අද (21) තෙල්දෙණිය මහේස්ත්‍රත් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+
+...
+
+[Data](articles/93e487e5.json)
 
 ---
 
@@ -2297,83 +2375,5 @@ Emojot, a global leader in artificial intelligence (AI)-powered customer experie
 [Data](articles/764425b3.json)
 
 [Extended Data](ext_articles/764425b3.ext.json)
-
----
-
-### Marikkar slams Govt. for failing to deliver on key promises
-
-*2024-10-21 02:58:40* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-slams-Govt-for-failing-to-deliver-on-key-promises/56-768223) · `en`
-
-Expresses disappointment over escalating cost of living and heavy tax burden faced by people
-
-Says despite having been in power for 28 days, has yet to provide any substantial relief to the public
-
-Calls for establishment of a balanced Parliament, one that includes experienced and capable persons from across party lines
-
-Samagi Jana Balawegaya (SJB) Colombo district candidate S.M. Marikkar voiced strong criticism over the weekend against the current National People’s Power (NPP) Government, highlighting their failure to deliver on key promises made during their election campaign.
-
-Marikkar expressed disappointment over the escalating cost of living and heavy tax burden faced by the public, while accusing the Government of prioritising media campaigns over meaningful governance.
-
-...
-
-[Data](articles/b1dbded4.json)
-
-[Extended Data](ext_articles/b1dbded4.ext.json)
-
----
-
-### Imthiaz slams Govt. refusal to sign joint UN letter condemning Israel
-
-*2024-10-21 02:57:39* · [`dailyftlk`](https://www.ft.lk/news/Imthiaz-slams-Govt-refusal-to-sign-joint-UN-letter-condemning-Israel/56-768222) · `en`
-
-Says letter reaffirms the crucial role of UN in mediating global conflicts and reflects growing call for justice and peace
-
-Recalls SL’s consistent backing of Palestinian rights at the UN and says country has proud history of upholding international peace and justice
-
-Stresses refusal to sign letter signals unfortunate shift away from such values when global instability demands SL remain committed to multilateral diplomacy
-
-Requests SL to reconsider position and align foreign policy with efforts that uphold dialogue and fairness
-
-Former Samagi Jana Balawegaya (SJB) MP Imthiaz Bakeer Markar expressed deep concern over Sri Lanka’s recent decision not to sign the joint letter issued by 105 countries condemning Israel’s ban on UN Secretary-General António Guterres from entering the country.
-
-...
-
-[Data](articles/49898ce7.json)
-
-[Extended Data](ext_articles/49898ce7.ext.json)
-
----
-
-### Seylan Cards and Hayleys Travels present return air tickets to final winners of swipe and win draw
-
-*2024-10-21 02:57:00* · [`islandlk`](http://island.lk/seylan-cards-and-hayleys-travels-present-return-air-tickets-to-final-winners-of-swipe-and-win-draw/) · `en`
-
-As a result of the exciting partnership between Seylan Cards and Hayleys Travels, Menaka Silva and Madavi Padmakumara emerged as the lucky winners of two return air tickets to Singapore from the May and June draws respectively. Taking place at Seylan Towers amidst officials from both institutions, this concluded the Swipe & Win Promotion 2024. A total of 6 return tickets to Singapore were won by 3 lucky card holders throughout the duration of the Promo.
-
-DIMO and SDF boost farmers’ access to modern agriculture machinery
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/43ccfa25.json)
-
-[Extended Data](ext_articles/43ccfa25.ext.json)
-
----
-
-### Home Lands Group to present first-ever Sri Lanka Property Investment Forum in Australia
-
-*2024-10-21 02:56:00* · [`islandlk`](http://island.lk/home-lands-group-to-present-first-ever-sri-lanka-property-investment-forum-in-australia/) · `en`
-
-Home Lands Group of Companies, is set to make history by becoming the first Sri Lankan developer to conduct a Property Investment Forum in Australia to create interest in residential investment options in Sri Lanka.
-
-...
-
-[Data](articles/fbb759ff.json)
-
-[Extended Data](ext_articles/fbb759ff.ext.json)
 
 ---

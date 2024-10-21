@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 02:23:39**
+As of **2024-10-22 02:39:28**
 
 ## Newspaper Stats
 
-*Scraped **50,640** Articles*
+*Scraped **50,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 507
 bbccomsinhala | 508
 islandlk | 3,011
 economynextcom | 3,093
-dailyftlk | 3,453
+dailyftlk | 3,458
 adalk | 4,704
 dailymirrorlk | 4,733
 adaderanalk | 5,998
@@ -26,11 +26,93 @@ adaderanasinhalalk | 8,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,640 (100.0%) of 50,640 articles have been extended.
+50,645 (100.0%) of 50,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Foreign Ministry says SL a signatory to Joint Letter supporting UN Secretary-General
+
+*2024-10-22 02:13:11* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Ministry-says-SL-a-signatory-to-Joint-Letter-supportingUN-Secretary-General/56-768266) · `en`
+
+The Foreign Affairs Ministry yesterday said Sri Lanka is a signatory to the Joint Letter supporting the UN Secretary-General, in response to the recent declaration by the Israel Foreign Affairs Minister designating the UN Secretary-General as “persona non grata”.
+
+It said, by note verbale dated 11 October 2024, Sri Lanka conveyed its desire to be a signatory to the Letter supporting the UN Secretary-General to the Permanent Mission of Chile in New York, which coordinated the Joint Letter.
+
+The Foreign Affairs Ministry was responding to recent reports to the contrary.
+
+It said Sri Lanka has continued its long-standing and unwavering support for the Palestinian cause and has expressed solidarity with the Palestinian people throughout the years. Sri Lanka has voiced serious concerns regarding the current dire humanitarian situation in Gaza at multiple multilateral fora and supported the call for an immediate ceasefire.
+
+...
+
+[Data](articles/5b34ff26.json)
+
+[Extended Data](ext_articles/5b34ff26.ext.json)
+
+---
+
+### Petition filed against holding election on 14 Nov.
+
+*2024-10-22 02:11:02* · [`dailyftlk`](https://www.ft.lk/news/Petition-filed-against-holding-election-on-14-Nov/56-768265) · `en`
+
+Activist and ‘Api Sri Lanka’ National Organisation Convenor Priyantha Herath yesterday filed a petition before the Supreme Court seeking a ruling that the decision to hold Parliamentary elections on 14 November is unconstitutional.
+
+The respondents named in the petition include the Attorney General, the President’s Secretary, the Election Commission Chairman, and other relevant members representing the President.
+
+...
+
+[Data](articles/8cb89436.json)
+
+[Extended Data](ext_articles/8cb89436.ext.json)
+
+---
+
+### Peaceful protest seeking justice for Easter terror attack
+
+*2024-10-22 02:10:11* · [`dailyftlk`](https://www.ft.lk/news/Peaceful-protest-seeking-justice-for-Easter-terror-attack/56-768264) · `en`
+
+A peaceful protest took place at the Baldi Junction, along the Katuwapitiya Road in Negombo yesterday, with demonstrators urging the Government to deliver justice for the victims of the Easter Sunday terrorist attack.
+
+Catholic clergy, activists, and residents carried placards questioning the role of intelligence agencies in the incident and reminding President Anura Kumara Dissanayake of his promise to ensure justice for those affected.
+
+◼️
+
+[Data](articles/3f3028e3.json)
+
+[Extended Data](ext_articles/3f3028e3.ext.json)
+
+---
+
+### The Ceylon Chamber’s SLIBC leads Business Promotion Mission to Indonesia
+
+*2024-10-22 02:08:29* · [`dailyftlk`](https://www.ft.lk/business/The-Ceylon-Chamber-s-SLIBC-leads-Business-Promotion-Mission-to-Indonesia/34-768263) · `en`
+
+The Sri Lanka-Indonesia Business Council (SLIBC) of The Ceylon Chamber of Commerce successfully conducted a Business Promotion Mission to Indonesia from 6 October to 11 October 2024.
+
+The missions’ primary aim was to strengthen trade, investment, and business ties between Sri Lanka and Indonesia, while exploring opportunities for collaboration in key industries. The delegation comprised 14 Sri Lankan business professionals representing diverse sectors, including food & beverage, logistics, pharmaceuticals, apparel, travel, IT, and recreation industries. The mission was led by SLIBC President Vish Govindasamy and Vice President D. S. Wickramasingha.
+
+...
+
+[Data](articles/e0e650dc.json)
+
+[Extended Data](ext_articles/e0e650dc.ext.json)
+
+---
+
+### Sri Lanka Institute of Directors appoints Anitra Perera as CEO
+
+*2024-10-22 02:06:36* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Institute-of-Directors-appoints-Anitra-Perera-as-CEO/34-768262) · `en`
+
+The Sri Lanka Institute of Directors (SLID) recently announced the appointment of Anitra Perera as its new Chief Executive Officer (CEO), effective September 2024. With a distinguished career in education, strategic consulting, and leadership, Perera brings a wealth of experience that will be instrumental in advancing the mission of SLID.
+
+...
+
+[Data](articles/08150eb7.json)
+
+[Extended Data](ext_articles/08150eb7.ext.json)
+
+---
 
 ### Hand recovery
 
@@ -2267,123 +2349,5 @@ President’s Counsel Maithree Gunaratne, who is representing several suspects w
 [Data](articles/d8f5cf2f.json)
 
 [Extended Data](ext_articles/d8f5cf2f.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-10-21 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196769) · `ta`
-
-US dollar exchange rate: 288.6142 rupees buying, 297.6054 selling. Released by Central Bank on Monday, March 21.
-
-🟩
-
-The US dollar purchasing price was 288.6142 rupees and the sales price were 297.6054 rupees based on a currency exchange rate released by the Central Bank on Monday (21).
-
-◼️
-
-[Data](articles/88b5689e.json)
-
-[Extended Data](ext_articles/88b5689e.ext.json)
-
----
-
-### Shoot and murder in Matara;Two arrests
-
-*2024-10-21 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196755) · `ta`
-
-Matara shooting: Two suspects (26, 29) arrested by STF. Victim shot in three-wheeler on 15th. Suspects handed over to Matara Police Station for further investigation.
-
-🟩
-
-Two suspects have been arrested by the Special Task Force in connection with the shooting of a man in Ruwanwella area in Matara, Navimana and Matara.
-
-The arrested were 26 and 29 year olds from Matara and Kettamuna areas.
-
-On the 15th of last month, some of the uninhabitable persons who had come to the Ruwanwella area in Matara, Navimana and Ruwanwella had fired a man in the three -wheeler.
-
-Investigations carried out by the police have been arrested by the police.
-
-The arrested suspects have been handed over to the Matara Police Station for further investigations.
-
-◼️
-
-[Data](articles/96d2694c.json)
-
-[Extended Data](ext_articles/96d2694c.ext.json)
-
----
-
-### Yall. Luxury car recovery at Tellippalai
-
-*2024-10-21 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/196773) · `ta`
-
-Luxury car recovered in Jaffna: Police find fake plates and documents. Vehicle may be unrelated to criminal activity. Ongoing investigation.
-
-🟩
-
-A luxury car has been recovered by police from a barrier in Tellippalai area in Jaffna.
-
-Based on the confidential information received by the police that a luxury car was hidden inside a paddy field, the police had rescued the car and took the car to the police station.
-
-According to the car's digit plate at the police station, it was revealed that it was fake. It has also been revealed that the documents in the car are fake.
-
-Police suspect that it is not a car associated with crime. Further investigations are being carried out by the car.
-
-◼️
-
-[Data](articles/e1789933.json)
-
-[Extended Data](ext_articles/e1789933.ext.json)
-
----
-
-### Technical disorder;Rail service delayed between Fort -Maradana
-
-*2024-10-21 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196772) · `ta`
-
-Train service delayed between Fort-Maradana due to technical issue at Fort Railway Station. All trains suspended until repairs complete.
-
-🟩
-
-The Sri Lanka Department said that a technical failure at the Fort Railway Station has delayed the train service between Colombo and Maradana.
-
-All trains heading towards Maradana have been suspended due to technical disorders in the railway switches, the department said.
-
-Rail services are expected to delay as groups are working to repair the technical disorder.
-
-◼️
-
-[Data](articles/f5f9d884.json)
-
-[Extended Data](ext_articles/f5f9d884.ext.json)
-
----
-
-### 50 firearms return
-
-*2024-10-21 12:22:22* · [`adalk`](https://www.ada.lk/breaking_news/ගිනි-අවි-50ක්-ආපසු-භාර-දෙයි/11-412586) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Over 50 firearms returned to government custody temporarily. Defense Ministry issues 1650 firearm licenses. Owners must surrender weapons to Commerce Commercial Tropical Warehouse at Welisara Naval Base."
-
-🟩
-
-More than 50 firearm has been restored according to the informs of firearms and ammunition to protect civilians.
-
-Return to the government under a temporary basis subject to a temporary basis subject to a temporary basis subject to re-outlact after making a review of these firearms.
-
-Accordingly, the Ministry of Defense had informed all licensees to hand over the Commerce Commercial Tropical Warehouse at the Welisara of the Navy.
-
-The Defense Ministry states that about 1650 firearm doctors have been issued on various reasons.
-
-◼️
-
-[Data](articles/0b1f6811.json)
-
-[Extended Data](ext_articles/0b1f6811.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 13:40:20**
+As of **2024-10-21 13:59:13**
 
 ## Newspaper Stats
 
-*Scraped **50,543** Articles*
+*Scraped **50,548** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 409
-bbccomsinhala | 506
+bbccomsinhala | 507
 colombotelegraphcom | 507
 islandlk | 3,008
 economynextcom | 3,087
@@ -18,19 +18,101 @@ dailyftlk | 3,446
 adalk | 4,689
 dailymirrorlk | 4,733
 adaderanalk | 5,988
-tamilmirrorlk | 6,929
+tamilmirrorlk | 6,930
 virakesarilk | 8,104
-adaderanasinhalalk | 8,774
+adaderanasinhalalk | 8,777
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,543 (100.0%) of 50,543 articles have been extended.
+50,548 (100.0%) of 50,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Investigation into Chilaw deaths
+
+*2024-10-21 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202401) · `si`
+
+Chilaw post-mortem investigation underway after mother-daughter bodies discovered in two-story house. Police seeking cause of death. Victims identified as 51-year-old SG Senaratne and his family members.
+
+🟩
+
+Post mortem examination on the body of the two family in the Singhapura area in Chilaw will be held with a two-storied house.
+
+Police said that the surprise behind death will be detected.
+
+The mother and daughter found dead yesterday that the mother and daughter was found in the same household two storied two stories in Chilaw, Chilaw.
+
+The victim was 51 year old SG. The homeowner of Senaratne, 44 year old Manjula Niroshi, his wife and their 15-year-old daughter Nethmi Nihamesha was identified.
+
+◼️
+
+[Data](articles/e6f1b1fb.json)
+
+[Extended Data](ext_articles/e6f1b1fb.ext.json)
+
+---
+
+### Hirunika and others will be called for a complaint with a complaint
+
+*2024-10-21 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202400) · `si`
+
+Complaint filed against Hirunika and others in Colombo Magistrate's Court. Case adjourned until Feb 10. Police investigation ongoing. Attorney General's advice awaited. Suspects' lawyer claims protest aimed at educating society. Magistrate directs further action based on AG's instructions.
+
+🟩
+
+The Colombo Magistrate's Court presented the complaint on the 10th of February.
+
+The complaint was called before Colombo Chief Magistrate Thilina Gamage.
+
+The Cinnamon Gardens Police informed the court that investigations into the incident have been directed to advise the Attorney General's Department.
+
+The police said that the Attorney General has not yet received advice in relation to the case.
+
+Attorney-at-Law Athula Ranagala, who appeared for the suspects, said that the suspects were protested by the suspects to educate the society.
+
+However, the magistrate said the files have been directed to obtain the Attorney General's instructions and action will be taken to address the Attorney General.
+
+The complaint was then ordered to be called on February 10.
+
+◼️
+
+[Data](articles/52240e2a.json)
+
+[Extended Data](ext_articles/52240e2a.ext.json)
+
+---
+
+### Delete Ravi: Kampanpila request
+
+*2024-10-21 13:21:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியை-நீக்கு-கம்பன்பில-கோரிக்கை/175-345778) · `ta`
+
+Former MP calls for immediate removal of Public Safety Minister over alleged misconduct related to Easter bombings investigation.
+
+🟩
+
+Udaya Kammanpila, a former Member of Parliament, said that the Secretary to the Ministry of Public Safety Ravi Seneviratne should be removed immediately.
+
+The “ANJ is appointed as the“ Life Sunday Day Attack. The. Udaya Kammanpila, a former leader of Pivithuru Helavarumaya, released the report of the Presidential Investigation Committee today (21).
+
+ANJ. In the statement of The Alwis, he said that there were massive allegations against the current Secretary to the Ministry of Public Security Ravi Seneviratne.
+
+In this case, President Anura Kumara Dissanayake has not issued these statements for his political gain and to protect his colleagues.
+
+Ravi Seneviratne should be removed from office. If not, police officers cannot expect justice. The victims of the lifeblood Sunday attack will not get justice.
+
+Therefore, the President should apologize to the public for not using power properly and covering up reports.
+
+...
+
+[Data](articles/78f31448.json)
+
+[Extended Data](ext_articles/78f31448.ext.json)
+
+---
 
 ### Fire breaks out at Kudawella Fisheries Harbour
 
@@ -49,6 +131,26 @@ Police suspect that the fire may have been caused by a gas leak.
 [Data](articles/6aca8a23.json)
 
 [Extended Data](ext_articles/6aca8a23.ext.json)
+
+---
+
+### Dilith is a proposal
+
+*2024-10-21 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202399) · `si`
+
+Dilith Jayaweera proposes transferring roles after elections. He criticizes current leadership, suggesting Anura Kumara's government needs improvement. Jayaweera advocates for increased public servant salaries and lower fuel prices. He questions the necessity of an opposition leader, implying Sajith Premadasa lacks justification for the position.
+
+🟩
+
+The Leader of the Leader Dilith Jayaweera says that the people should be transferred to the role of a strong opposition after the coming parliamentary election.
+
+He was speaking at a public meeting held in Panadura yesterday.
+
+...
+
+[Data](articles/e1fe99a7.json)
+
+[Extended Data](ext_articles/e1fe99a7.ext.json)
 
 ---
 
@@ -1392,6 +1494,36 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 ---
 
+### Elpitiya Pradeshiya Sabha: What is the election that is separately in the face of a general election?
+
+*2024-10-21 07:45:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1m9d445720o) · `si`
+
+Elpitiya Pradeshiya Sabha election summary: Separate from general election due to Supreme Court injunction in 2018. Held on October 26, 2023. Costed Rs. 131 million. Postponed twice due to legal challenges and ballot paper issues. 48 polling stations, over 50,000 voters.
+
+🟩
+
+Elpitiya Pradeshiya Sabha: What is the election that is separately in the face of a general election?
+
+On October 26, on October 26, is preparing for a single local government agency alone on October 26.
+
+It was the Elpitiya Pradeshiya Sabha elections. Why is Elpitiya Pradeshiya Sabha elections be held separately from the voters of other local government bodies?
+
+The last time was the Elpitiya Pradeshiya Sabha in the local government elections in Sri Lanka, the Supreme Court had issued an interim injunction.
+
+The Democratic United National Front was rejected by the Democratic United National Front to contest the 2018 local government elections, and the party secretary had filed a petition in the Supreme Court.
+
+Accordingly, the Supreme Court issued an interim injunction from holding the Elpitiya Pradeshiya Sabha election in the local government election in the year 2018.
+
+The Petition of the petition was issued in 2019, and the Supreme Court ordered the Election Commission to convey the election.
+
+...
+
+[Data](articles/435c242d.json)
+
+[Extended Data](ext_articles/435c242d.ext.json)
+
+---
+
 ### Take a sword and PHI. The suspect's back suspect is worried
 
 *2024-10-21 07:30:08* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවක්-අරගෙන-පී-එච්-අයි--පසුපස-පැන්නූ-සැකකරුට-වැඩ-වරදියි/11-412578) · `si`
@@ -2237,123 +2369,5 @@ In economics, institutions are not merely the formal organisations that we find 
 [Data](articles/cd27c15f.json)
 
 [Extended Data](ext_articles/cd27c15f.ext.json)
-
----
-
-### President conducts fair investigations into the Passover attack - President
-
-*2024-10-20 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202382) · `si`
-
-President Anura Kumara Dissanayake instructs IGP and CID to investigate Passover attack. Promises fair inquiry and transparency. Criticizes previous suppression attempts. Emphasizes revealing truth without political interference.
-
-🟩
-
-President Anura Kumara Dissanayake says he has instructed the IGP and the CID to commence a proper investigation into the Passover attack.
-
-He was speaking at a rally rally held in Katunayake today (20).
-
-"Especially the Passover attack on the Passover attack. We translate the Police Department into an appropriate department for the investigation. Now the guys have been stumble. The Passover attack is awakened after the Easter attack is awakened after the Passover attack. Now give that report, to give this report. Both reports Ranil Wickremesinghe records. Both is not under review committees. When I arrived, the secretary of the secretary asked the secretary what happened.
-
-Ranil Wickremesinghe wanted to suppress this test. We instructed the IGP and the CID to the Department of Criminal Investigation into the Passover attack. Then the coma was awakened.Stop it, blossom.This person's involvement is not to discover true convictions.
-
-...
-
-[Data](articles/1ca97b94.json)
-
-[Extended Data](ext_articles/1ca97b94.ext.json)
-
----
-
-### Election Complaints Increase Day by Day - Elections Commission
-
-*2024-10-20 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196735) · `ta`
-
-Election Commission reports 401 complaints, 58 new daily. All relate to election law violations. 309 resolved so far.
-
-🟩
-
-The number of complaints received by the Election Commission regarding the parliamentary election has exceeded 400.
-
-The Commission has received 58 complaints in the past day and the total number of complaints has increased to 401.
-
-The Election Commission further stated that all those complaints were related to election law violations and no complaints have been made yet.
-
-The Commission said that over 401 complaints have already been resolved for 309 complaints.
-
-◼️
-
-[Data](articles/6a23f8f5.json)
-
-[Extended Data](ext_articles/6a23f8f5.ext.json)
-
----
-
-### Police suspect murder after 3 bodies found following Chilaw house fire
-
-*2024-10-20 21:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102817/police-suspect-murder-after-3-bodies-found-following-chilaw-house-fire) · `en`
-
-Police investigations with regard to the three bodies found inside a two-storey house which was on fire in the Sinhapura area in Chilaw, are progressing on the suspicion of a possible homicide as one of the bodies was found with her throat slit, the police spokesman said.
-
-A 42-year-old man, his 40-year-old wife and their 15-year-old daughter were found dead inside the house after the fire was extinguished. The mother was found dead on a bed inside the house while the father and daughter were found dead in the living room.
-
-Initially it was believed that the family of three died from the fire, however, it was later revealed that the throat of the woman had been slit.
-
-“The throat of the woman found dead on a bed in the house was observed to be somewhat split open and we believe that her throat was most likely slit.”
-
-...
-
-[Data](articles/81ece0d5.json)
-
-[Extended Data](ext_articles/81ece0d5.ext.json)
-
----
-
-### The resurgence of the revolution in 1956 was the resurgence - Dilith
-
-*2024-10-20 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202381) · `si`
-
-Dilith Jayaweera, leader of the Universal Revolution, speaks about rewriting history and promoting entrepreneurship over self-serving politics. He references the 1956 Bandaranaike Revolution, emphasizing its significance and relevance today.
-
-🟩
-
-The Leader of the Universal Revolution, entrepreneur, says that the Bandaranaike Revolution is redesigneous by the universal power in 1956.
-
-He made these comments addressing a public meeting in Horana today (20) today (20).
-
-Mr. Sanjeewa Kulathilaka was organized by Chief Ongo Dr. Sanjeewa Kulathilaka Bandaragama Chief Organizer of Bandaragama.
-
-The leader of the universal authority, entrepreneur Dilith Jayaweera,
-
-"I wish the best. As a politician, we came from a rural environment like us. It is very clear that there is no program to have no program. Our courageous opposition is coming to the opposition of a good. Not waiting for presidential falls. Our motherland falls if he falls. So the only solution it has entrepreneurship concept. The resurgence of the revolution in 1956 this Bandaranaike in 1956 was the resurgence of the revolution. Re-writing History. We're writing unselfish politics. We end that politics that take their belly more than. That's our pledge. "
-
-◼️
-
-[Data](articles/2a5cb30d.json)
-
-[Extended Data](ext_articles/2a5cb30d.ext.json)
-
----
-
-### Sri Lanka a target of 232 runs
-
-*2024-10-20 21:17:42* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවට-ලකු‍ණු-232ක-ඉලක්කයක්/11-412576) · `si`
-
-Sri Lanka wins match against West Indies. Target: 232 runs. Achieved in 37 overs. Duckworth-Lewis method adjusts score to 237. Sri Lanka lost 3 wickets for 62 runs in 9 overs.
-
-🟩
-
-Sri Lanka won a target of 232 runs in 37 overs.
-
-The West Indies first scored the 4 wickets in 38.3 overs.
-
-Accordingly, according to the Duckworth Lewis theory, Sri Lanka won 237 runs in 37 overs.
-
-Sri Lanka have scored 62 runs for the 3 wickets in 9 overs.
-
-◼️
-
-[Data](articles/871065d9.json)
-
-[Extended Data](ext_articles/871065d9.ext.json)
 
 ---

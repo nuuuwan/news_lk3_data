@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 23:23:44**
+As of **2024-10-21 23:39:50**
 
 ## Newspaper Stats
 
-*Scraped **50,629** Articles*
+*Scraped **50,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,446
 adalk | 4,704
 dailymirrorlk | 4,733
 adaderanalk | 5,998
-tamilmirrorlk | 6,943
+tamilmirrorlk | 6,944
 virakesarilk | 8,127
 adaderanasinhalalk | 8,789
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,629 (100.0%) of 50,629 articles have been extended.
+50,630 (100.0%) of 50,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Do not spots;Scholarship Students Action
+
+*2024-10-21 23:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புள்ளிகள்-வேண்டாம்-புலமைப்பரிசில்-மாணவர்கள்-அதிரடி/175-345818) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Fundamental rights petition filed against scholarship exam resolution. Students and parents from Badulla district challenge three questions. Defendants include Commissioner General of Examinations, Education Minister, Deputy IG of CID, and Attorney General.
+
+🟩
+
+The fundamental rights petition has been filed for the cancellation of the resolution issued to the three questions that have been released in the scholarship examination.
+
+The petition was submitted by a group of students and their parents who examined the exam from the Badulla district.
+
+The Commissioner General of Examinations, Education Minister Dr. Harini Amarasuriya, Deputy Inspector General of Police in charge of the Criminal Investigation Department and the Attorney General have been referred to as defendants.. Remble
+
+◼️
+
+[Data](articles/de31ff2b.json)
+
+[Extended Data](ext_articles/de31ff2b.ext.json)
+
+---
 
 ### Our alliance is a strong alliance on the issue of the ethnic issue to be resolved: Sivasakthi Anandan
 
@@ -1978,6 +2004,14 @@ Thus, naval and fishing communities are requested to be vigilant while engaging 
 
 *2024-10-21 12:55:55* · [`adalk`](https://www.ada.lk/breaking_news/දීපවාලියට-හැටන්-ප්‍රධාන-වීදිය-ඇතුළු-වීදි-කිහිපයක-පදික-වෙළඳාම-තහනම්/11-412587) · `si`
 
+Here's a 200-character summary:
+
+
+
+Hatton Dickoya Urban Council bans pedestrian trade on main streets during Deepavali festival. Steps taken to ensure public safety.
+
+🟩
+
 The Hatton Dickoya Urban Council has taken steps to ban the paving a few other places in Hatton main two major places in Hatton.
 
 Hatton Dikoya Municipal Council Secretary to the inquiry. Disciple. P. Banda has said that the Desangali festival was held in the Desavaly's festival.
@@ -2427,37 +2461,5 @@ Also, Jaffna. 4,832 patients in the district, 4,288 patients in the Kandy distri
 [Data](articles/bc33a4b3.json)
 
 [Extended Data](ext_articles/bc33a4b3.ext.json)
-
----
-
-### The suspect who panicled posters to High Court Judge has fled the house
-
-*2024-10-21 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202395) · `si`
-
-Main suspect flees after posting bail; police search ongoing. Four others remanded until Nov 4. Case adjourned due to lack of evidence.
-
-🟩
-
-The police today also informed the Magistrate's Court today that investigations are being investigated to arrest the main suspect in the Mannar High Court Judge.
-
-The complaint was called before Colombo Chief Magistrate Thilina Gamage.
-
-The Colombo Crimes Division (CCD) officials will be taken to investigate the main suspect in the court.
-
-The police informed the court that the main suspect is not at home.
-
-President's Counsel Maithree Gunaratne appeared in behalf of the suspects in connection with the incident, he pointed out that the people who were remanded in the incident were in the case.
-
-The President's Counsel to be remanded in this way to be remanded in this way, the prosecutor's lawyer is now failing to prove the police.
-
-After considering the following, the Magistrate ordered four suspects who were remanded in connection with the incident.
-
-The four other suspects were ordered to be remanded till November 4.
-
-◼️
-
-[Data](articles/d6a5adba.json)
-
-[Extended Data](ext_articles/d6a5adba.ext.json)
 
 ---

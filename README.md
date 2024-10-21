@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 16:57:50**
+As of **2024-10-21 17:23:47**
 
 ## Newspaper Stats
 
-*Scraped **50,573** Articles*
+*Scraped **50,579** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 409
-bbccomsinhala | 507
 colombotelegraphcom | 507
+bbccomsinhala | 508
 islandlk | 3,011
 economynextcom | 3,087
 dailyftlk | 3,446
-adalk | 4,693
+adalk | 4,695
 dailymirrorlk | 4,733
 adaderanalk | 5,992
-tamilmirrorlk | 6,932
+tamilmirrorlk | 6,935
 virakesarilk | 8,111
 adaderanasinhalalk | 8,782
 
@@ -26,11 +26,65 @@ adaderanasinhalalk | 8,782
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,571 (100.0%) of 50,573 articles have been extended.
+50,579 (100.0%) of 50,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Transport buses were removed from service
+
+*2024-10-21 16:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போக்குவரத்து-பஸ்கள்-சேவையிலிருந்து-நீக்கப்பட்டன/175-345788) · `ta`
+
+The 12 buses and vans used to transport school students have been removed as incompetent.
+
+Nuwara Eliya District Chief Vehicle Inspector Taminda Dissanayake has taken a decision on Monday (21).
+
+Hatton Police Department officials have issued a directive to the Nuwara Eliya District Chief Motor Vehicle Inspector to check 30 private buses and skies used for daily school transport from areas including Maskeliya, Samimalai, Bogawantalawa, Norton Bridge, Talawakalai and Kotagala.
+
+For the past 14 days, there has been a strict raid on vehicles carrying school children in these areas.
+
+The police conducted the raid and removed 12 vehicles from the service and confiscated their income licenses.
+
+It is noteworthy that the parents of schoolchildren using these vehicles expressed their concerns to the local police.
+
+◼️
+
+[Data](articles/354fa42f.json)
+
+[Extended Data](ext_articles/354fa42f.ext.json)
+
+---
+
+### Election Day is a problem - a petition filed by the Supreme Court
+
+*2024-10-21 16:50:17* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-දිනය-ගැන-ගැටළුවක්---ශ්‍රේෂ්ඨාධිකරණයට-පෙත්සමක්-ඉදිරිපත්-කෙරේ/11-412590) · `si`
+
+The decision to hold general election on the 14th of this month has filed a petition to the Supreme Court demanding a decision that is contrary to the Constitution.
+
+The petition has been presented by the Convener of the Sri Lanka National Alliance today (21).
+
+◼️
+
+[Data](articles/30b91823.json)
+
+[Extended Data](ext_articles/30b91823.ext.json)
+
+---
+
+### Vanni polls: tomorrow's hearing
+
+*2024-10-21 16:29:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-வாக்கெடுப்பு-நாளை-விசாரணை/175-345787) · `ta`
+
+The Supreme Court today (21) decided to consider a petition filed by the Democratic National Alliance demanding an interim order to suspend a referendum for the Vanni district in the upcoming general election.
+
+◼️
+
+[Data](articles/b4750da0.json)
+
+[Extended Data](ext_articles/b4750da0.ext.json)
+
+---
 
 ### 3 vehicles used by ex-president Mahinda returned to presidential secretariat
 
@@ -51,6 +105,28 @@ Issued in response to the media reports alleging that vehicles provided to ex-Pr
 [Data](articles/614b557b.json)
 
 [Extended Data](ext_articles/614b557b.ext.json)
+
+---
+
+### Five women who committed adultery are fined Rs. 500
+
+*2024-10-21 16:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விபசாரம்-செய்த-ஐந்து-பெண்களுக்கு-ரூ-500-அபராதம்/76-345785) · `ta`
+
+Nuwara Eliya Magistrate Prabhupika Lanka on Monday (21) imposed a fine of Rs.
+
+The manager of the massage station, the owner of the building, who was conducting a business for sale for money for money, and five women pleaded guilty at the Nuwara Eliya Magistrate's Court in Nuwara Eliya.
+
+The magistrate ordered the manager to pay Rs.
+
+Based on information received by the Nuwara Eliya police that women were selling money under the guise of a massage center in Nuwara Eliya, the manager, owner and five women were arrested on the 8th and produced at the Nuwara Eliya Magistrate's Court on Monday (21).
+
+Investigations have been found that five women who were arrested on suspicion were between the ages of 40-50 and that they were from Polonnaruwa and Kurunegala.
+
+◼️
+
+[Data](articles/d8602d17.json)
+
+[Extended Data](ext_articles/d8602d17.ext.json)
 
 ---
 
@@ -215,20 +291,6 @@ Economists agree that during the last four years, the economy has performed rema
 [Data](articles/cfe8d75d.json)
 
 [Extended Data](ext_articles/cfe8d75d.ext.json)
-
----
-
-### The possible future of foreign policy in Sri Lanka
-
-*2024-10-21 15:24:00* · [`islandlk`](http://island.lk/the-possible-future-of-foreign-policy-in-sri-lanka/) · `en`
-
-The last two weeks suggest that the NPP is moving to the centre, most probably in a bid to grapple with the challenges of a slim majority. The new government has announced that it will oppose the upcoming UNHRC resolution on Sri Lanka. This indicates that it is moving to embrace the nationalist space that was previously held by Mahinda Rajapaksa and his family, but has since bifurcated, if not trifurcated. As Harendra Dassanayake and Rajni Gamage recently observed, the Sinhala Buddhist space in Sri Lanka currently lacks a leader. The NPP appears to have caught the most vocally articulate sections of this milieu.
-
-...
-
-[Data](articles/ed6ee59d.json)
-
-[Extended Data](ext_articles/ed6ee59d.ext.json)
 
 ---
 
@@ -532,23 +594,55 @@ He was speaking at a public meeting held in Panadura yesterday.
 
 ---
 
-### ක්‍රිකට් ක්‍රීඩකයන්ට වැඳ නමස්කාර කිරිමට පල්‍ලේකැලේදි පිටිය මැදට ආපු තරුණයා
+### Not to see Gammanpila's Rila Dancing, but the people appointed a government
 
-*2024-10-21 13:02:17* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-ක්‍රීඩකයන්ට-වැඳ-නමස්කාර-කිරිමට-පල්‍ලේකැලේදි-පිටිය-මැදට-ආපු-තරුණයා/9-412588) · `si`
+*2024-10-21 13:06:56* · [`adalk`](https://www.ada.lk/breaking_news/ගම්මන්පිලගේ-රිලා-නැටුම්-බලන්න-නෙමෙයි-ජනතාව-ආණ්ඩුවක්-පත්-කළේ/11-412589) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් පිල සහ බටහිර ඉන්දීයකොදෙව් ක්‍රිකට් පිල අතර පල්ලෙ කැලේ ජාත්‍යන්තර ක්‍රිකට් පිටියේදී පැවති එක් දින සීමිත ඕවර ක්‍රිකට් තරගය අවස්ථාවේදී ක්‍රීඩා පිටියට කඩාවැදුන පුද්ගලයෙකු පල්ලෙකැලේ පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+Sri Lanka Labor People's Front Leader Chamira Perera said that the people of the country had not appointed a government to see Udaya Gammanpila's Rila Dancing.
 
-එම තරගය සඳහා වැස්සෙන් බාධා වීමෙන් අනතුරුව ශ්‍රී ලංකා ක්‍රිකට් පිල පන්දුවට පහර දීම සඳහා ක්‍රීඩා පිටියට පැමිණි අවස්ථාවේදී අධික බීමතින් සිටි බව කියන එම පුද්ගලයා එක්වරම ක්‍රීඩාපිටියට පැන පන්දුවට පහර දීමට පැමිණ සිටි ශ්‍රී ලංකා පිතිකරුවන් දෙදෙනා අසලට පැමිණි අවස්ථාවේදී පොලිස් නිලධාරීන් ඔහුව අත්අඩංගුවට ගෙන තිබේ .
+Mr. Chamira Perera was told at a private festival in Hatton, Hatton.
 
-පොලිසිය ඔහුගෙන් ප්‍රශ්න කළ අවස්ථාවේදී ඔහු පවසා ඇත්තේ ශ්‍රී ලංකා පිතිකරුවන්ට වැඳ නමස්කාර කිරීම සඳහා ඔහු ක්‍රීඩාපිටියට ඇතුළු වූ බවයි .
+Speaking further on this press conference, Mr. Chamira Perera said that the Passover has committed a political prosecutor, and on the time we saw it, the newly came out, Gammanpila drama.
 
-එසේ අත්අඩංගුවට පත්ව ඇත්තේ කටුගස්තොට ප්‍රදේශයේ පදිංචිකරුවෙකු වන 22 හැවිරිදි තරුණයෙකි .
+Gammanpila's Rila was not to see the Rila Dancing of Rila Dancing, Udaya Gammanpila politicians, he is doing not to do justice to victims, doing his vote fight.
 
-අයුතු ඇතුල්වීම සහ බීමත්ව අශෝබන ලෙස හැසිරීම යන චෝදනා යටතේ සැකකරු අද (21) තෙල්දෙණිය මහේස්ත්‍රත් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+After the Passover attack, he was a Ven.
+
+Gammanpila is one of the torture play, including tortured and poingement, including tortured potential torture.
+
+Did Gammanpila sleep with a powerful minister to sow racial vocabulary and to power that Gotabhaya Rajapaksa was brought to power?
+
+Did Gotabhaya Rajapaksa inspected officers hearing them here?Then they could not speak.
 
 ...
 
+[Data](articles/9ddb3102.json)
+
+[Extended Data](ext_articles/9ddb3102.ext.json)
+
+---
+
+### A young man who came to the center of Palleketa to worship cricketers
+
+*2024-10-21 13:02:17* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-ක්‍රීඩකයන්ට-වැඳ-නමස්කාර-කිරිමට-පල්‍ලේකැලේදි-පිටිය-මැදට-ආපු-තරුණයා/9-412588) · `si`
+
+The Pallekele Police have arrested a person who broke out at the Pallekele International Cricket Ground at the Palleki International Cricket Ground at the Pallekele International Cricket Ground at the Pallekele International.
+
+The police were arrested when the Sri Lankan batsmen who had come to the play of the playground at the time of the rains to bat first.
+
+When the police questioned him, he had said that he entered the sports of the players to worship the batsmen.
+
+The 22-year-old youth is a resident of Katugastota.
+
+The suspect was due to be produced before the Teldeniya Magistrate's Court today (21) under the allegations of misuse and drunken adjustments.
+
+Further investigations are being investigated under the direction of Mr. Pallekele Police OIC Chief Inspector Krishantha.
+
+◼️
+
 [Data](articles/93e487e5.json)
+
+[Extended Data](ext_articles/93e487e5.ext.json)
 
 ---
 
@@ -572,21 +666,23 @@ Thus, naval and fishing communities are requested to be vigilant while engaging 
 
 ---
 
-### දීපවාලියට හැටන් ප්‍රධාන වීදිය ඇතුළු වීදි කිහිපයක පදික වෙළඳාම තහනම්
+### Pedestrian trade in Hatton main street to Deepaval
 
 *2024-10-21 12:55:55* · [`adalk`](https://www.ada.lk/breaking_news/දීපවාලියට-හැටන්-ප්‍රධාන-වීදිය-ඇතුළු-වීදි-කිහිපයක-පදික-වෙළඳාම-තහනම්/11-412587) · `si`
 
-දිපවාලි උත්සව සමය තුලදි හැටන් නගරයේ ප්‍රධාන විදිය ඇතුළු ස්ථාන කිපයක පදික වෙළදාම් තහනම් කිරිමට හැටන් දික්ඔය නගර සභාව මගින් පියවර ගෙන ඇත.
+The Hatton Dickoya Urban Council has taken steps to ban the paving a few other places in Hatton main two major places in Hatton.
 
-මේ පිලිබදව කරන ලද විමසිමකදි අදහස් දැක්වු හැටන් දික්ඔය නගර සභාවේ ලේකම් ඩි. වි. පි. බණ්ඩා මහතා පවසන ලද්දේ දිපවාලි උත්සව සමය තුලදි හැටන් ප්‍රධාන විදිය පැති විදිය ඇතුළු ස්ථාන කිපයක පදික වෙළදාම් තහනම් කිරිමට තිරණයව කර ඇති බවත්ය.
+Hatton Dikoya Municipal Council Secretary to the inquiry. Disciple. P. Banda has said that the Desangali festival was held in the Desavaly's festival.
 
-දිපවාලි උත්සව සමය තුලදි විශාල පිරිසක් තමන්ට අවශ්‍ය බඩු භාන්ඩ ලබා ගැනිම සදහා හැටන් නගරයට පැමිනෙන බවත් එවන් අවස්ථාවලදි හැටන් ප්‍රධාන විදිය පැති විදිය යන ප්‍රදේශවල පදික වෙළදාම් කිරිම් හේතුවෙන් පදිකයන්ට මාර්ගයේ ගමන් කිරිමට සිදු විමෙන් එම පදිකයන් විවිධ අනතුරුවලට ලක් විමේ අවදානමක් පවතින බවත්ය.
+In such cases, a large number of people will come to Hatton to the Hatton to the Hatton to Hatton to the Dipali festive season.
 
-එම තත්වයන් පිලිබදව අවදානය යොමු කර නගරයට පැමිනෙන පදිකයන්ගේ ආරක්ෂාව වෙනුවෙන් මෙසේ පදික වෙලදාම් තහනම් කර පදික මාර්ග පදිකයන්ගේ ගමන් පහසුව ලබා දිමට පියවර ගන්නා බවද බණ්ඩාර මහතා වැඩි දුරටත් පැවසිය.
+He further said that steps will be taken to prohibit the parks and predemes for the safety of predams to the city.
 
 ◼️
 
 [Data](articles/d8de31dc.json)
+
+[Extended Data](ext_articles/d8de31dc.ext.json)
 
 ---
 
@@ -1484,6 +1580,32 @@ The deceased has been in danger when he was drinking with two others yesterday.
 
 ---
 
+### Easter attack: What did Gammanpila revealed?
+
+*2024-10-21 09:57:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5y31ywz56vo) · `si`
+
+Former Parliamentarian Gammanpila stressed the leader of the Senior DIG Ravi Seneviratne who has been named in a report of the Government Defense Ministry.
+
+He also emphasized that the President should apologize to the nation and the impeachment motion will bring an impeachment motion against the president in the next parliament.
+
+He was speaking at a media briefing in Colombo this morning (October 21).
+
+Government Championship Sunday Attack on Channel 4 Report What is the response of Channel 4 report?
+
+At the beginning of the press conference, Gammanpila said Gammanpila said that the President was given 10 times this morning to publicize the reports of the investigation committee.
+
+He also said that these reports have been made known to the people with the holy right of the people, as the President has made it known as a concessionary period of 20 minutes.
+
+Udaya Gammanpila accused the constitution that the President has violated the Constitution by being publicized.
+
+...
+
+[Data](articles/b87a858e.json)
+
+[Extended Data](ext_articles/b87a858e.ext.json)
+
+---
+
 ### Over 50 firearms returned as per temporary handover notice by Defence Ministry
 
 *2024-10-21 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102824/over-50-firearms-returned-as-per-temporary-handover-notice-by-defence-ministry-) · `en`
@@ -2255,125 +2377,5 @@ He said this during a special interview with the 'Weerakesari' weekly in the wak
 [Data](articles/e46b53a7.json)
 
 [Extended Data](ext_articles/e46b53a7.ext.json)
-
----
-
-### Srilankan Airlines: Why is two bidding Hayleys's problem with the Board of Directors?
-
-*2024-10-21 04:30:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c62dyzyp770o) · `si`
-
-Here's a 200-character summary:
-
-
-
-SriLankan Airlines faces controversy over two Hayleys directors on its board. Critics argue this creates conflicts due to Hayleys' aviation interests. The airline struggles financially, with outdated planes and high maintenance costs.
-
-🟩
-
-Srilankan Airlines: Why is two bidding Hayleys's problem with the Board of Directors?
-
-After the appointment of Anura Kumara Dissanayake, the Sri Lankan national flight, Sri Lanka's national flight, has decided to a new decision.
-
-It is further maintained as the National Airlines without privatizing the airline.
-
-However, the new government establishing the next election is to be verified.
-
-The SriLankan Airlines Critical Communications Manager Deepal Perera expressed his views to BBC Sinhala.
-
-"As the government was to power, they claimed that the Airline not privatized by SriLankan. The President had said that all the holled is all the next. The new Parliament announces that under a specific program, they will be announced. "
-
-Earlier, President Ranil Wickremesinghe had decided to privatize the SriLankan Airlines.
-
-Accordingly, SriLankan has been submitted to the state owned enterprise the restructuring unit to be "creating a burden to state finances" (SRU).
-
-...
-
-[Data](articles/ed42c8b7.json)
-
-[Extended Data](ext_articles/ed42c8b7.ext.json)
-
----
-
-### The government has no clear policy on compliance with the International Monetary Fund - Sagala Ratnayake
-
-*2024-10-21 04:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196741) · `ta`
-
-Sri Lanka's government lacks clear IMF compliance policy. Former President Wickremesinghe implemented IMF program but current leader Dissanayake opposes it. Government seeks parliamentary approval for changes, citing need for two-thirds majority. This stance contradicts previous announcements about ongoing compliance.
-
-🟩
-
-The government does not have a clear policy on compliance with the IMF. The new Democratic Front's Colombo district candidate and National Organizer of the New Democratic Front, Sagala Ratnayake, said that the government has informed the international community that the government is carrying out the coordinates of the monetary fund.
-
-He was speaking at a press conference held in Colombo on Sunday (20) in Colombo.
-
-When the country faced the economic crisis, the government led by former President Ranil Wickremesinghe had taken steps to obtain credit assistance with the International Monetary Fund and in consultation with the countries that had given us credit and rehabilitation.. All of those activities were completed in September last month with both sides compliance.
-
-...
-
-[Data](articles/6def9a98.json)
-
-[Extended Data](ext_articles/6def9a98.ext.json)
-
----
-
-### Ranil Wickremesinghe is not true in the news that 11 vehicles have 11 vehicles - Sagala Ratnayake
-
-*2024-10-21 04:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196740) · `ta`
-
-Sagala Ratnayake denies news of 11 vehicles for Ranil Wickremesinghe. Claims only additional vehicles were returned. Security forces requested equipment, not 30 umbrellas. Former President's senior advisor on national security did not receive position or relief after election announcement.
-
-🟩
-
-Former President Ranil Wickremesinghe has been handed over to more government vehicles. There are some more vehicles. The message that is reported to be 11 vehicles is not true. At the same time, Ranil Wickremesinghe's security forces have asked the government some equipment to perform their duty, said the new Democratic Front's Colombo district candidate and the national organizer of the United National Party.
-
-He was speaking at a press conference held in Colombo on Sunday (20) in Colombo.
-
-It has been reported that Ranil Wickremesinghe has 11 vehicles of the government and have sent a letter immediately to hand over it.. When Ranil Wickremesinghe's Security Division asked about this, they said that no letter was received.. But we have returned more vehicles in the vehicles provided for Ranil Wickremesinghe's protection. There are some more vehicles. As a former president, there are vehicles that need to be protected by the Constitution.
-
-...
-
-[Data](articles/588746c2.json)
-
-[Extended Data](ext_articles/588746c2.ext.json)
-
----
-
-### A 21 -year -old youth arrested for allegedly taking video of gay with a retired Chancellor in Eravur
-
-*2024-10-21 03:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196739) · `ta`
-
-21-year-old arrested for blackmailing retired Chancellor over gay video demands 25k rupees
-
-🟩
-
-A 21 -year -old youth was arrested on Saturday (19) for demanding 25 thousand rupees of money as a young man who was gay with a retired Chancellor in Eravur.
-
-When he was working as principal in a school in the area of ​​the police division, a boy who had been educated in another school was arrested by a girl and was later transferred to the Chancellor's school.
-
-The Chancellor has retired three years ago as the Chancellor is engaged in homosexuality with the boy and the boy has been out of school as the boy has left school education.
-
-Video of the young man in such a situation;The Chancellor has given him the money to get a letter to the young man, as he requested the money to pay Rs.
-
-The young man then threatened to give him 5 thousand rupees to the retired 63 -year -old Chancellor, and he would give him only 25 thousand rupees.Initial investigations by the police revealed that the police had been arrested and arrested.
-
-...
-
-[Data](articles/12bd9110.json)
-
-[Extended Data](ext_articles/12bd9110.ext.json)
-
----
-
-### Emojot secures strategic investment from U.S. to accelerate growth
-
-*2024-10-21 03:00:00* · [`islandlk`](http://island.lk/emojot-secures-strategic-investment-from-u-s-to-accelerate-growth/) · `en`
-
-Emojot, a global leader in artificial intelligence (AI)-powered customer experience management, has announced a strategic leadership restructuring alongside securing a strategic investment from the United States (US).
-
-...
-
-[Data](articles/764425b3.json)
-
-[Extended Data](ext_articles/764425b3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 13:59:13**
+As of **2024-10-21 14:13:16**
 
 ## Newspaper Stats
 
-*Scraped **50,548** Articles*
+*Scraped **50,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 507
 islandlk | 3,008
 economynextcom | 3,087
 dailyftlk | 3,446
-adalk | 4,689
+adalk | 4,690
 dailymirrorlk | 4,733
 adaderanalk | 5,988
 tamilmirrorlk | 6,930
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,777
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,548 (100.0%) of 50,548 articles have been extended.
+50,549 (100.0%) of 50,549 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -313,6 +313,30 @@ Retired Report S. I. The committee was handed over to the committee headed by th
 [Data](articles/a8398390.json)
 
 [Extended Data](ext_articles/a8398390.ext.json)
+
+---
+
+### Jagath, who is in Kuwait and bring medals for Sri Lanka
+
+*2024-10-21 11:56:23* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-සිටිමින්-ලංකාව-වෙනුවෙන්-පදක්කම්-ගේන-ජගත්/11-412585) · `si`
+
+Sri Lankan athlete Jagath Gunasekara wins gold medals in bodybuilding competitions in Warsaw and Budapest. He also participates in cycling events, representing Sri Lanka internationally.
+
+🟩
+
+Olympia Boduchar, representing the International Cycling Federation (INTERNATION OF BOILDING) representing Sri Lanka as a sports advisor of the Kuwait, participating in Sri Lanka.Jagath Gunasekara has won 2% to win 02.
+
+Jagath Gunasekara has won a gold medal in Warsaw, Poland on 10/12.
+
+In addition, Jagath Gunasekera, who contested in the Master Category in the Olympia Amachar Tournament, which participated in the 99 countries in Milan, was won by the 99 countries in Italy.
+
+The Ordinary Bodybuildbuilding Occupiers at the Master of Sri Lanka's MasterCard Tournament was won by the Fivest of 44 countries in Hungary on 10/20.
+
+◼️
+
+[Data](articles/ba7068f3.json)
+
+[Extended Data](ext_articles/ba7068f3.ext.json)
 
 ---
 
@@ -2355,19 +2379,5 @@ Prabowo, who unsuccessfully ran for the presidency twice before, said in a fiery
 [Data](articles/61f1f249.json)
 
 [Extended Data](ext_articles/61f1f249.ext.json)
-
----
-
-### What can AKD (and also SP and RW) learn from Economics Nobel Laureates in 2024?
-
-*2024-10-20 22:09:46* · [`dailyftlk`](https://www.ft.lk/columns/What-can-AKD-and-also-SP-and-RW-learn-from-Economics-Nobel-Laureates-in-2024/4-768187) · `en`
-
-In economics, institutions are not merely the formal organisations that we find in contemporary society. They are broader in scope and have a socio-cultural value dimension. According to North, institutions are any form of formal or informal limitation or restriction that human beings devise to shape human interaction. Formal constraints are rules that humans follow when interacting with others; informal are societal conventions and codes of behaviour that they adhere to when doing societal dealings
-
-...
-
-[Data](articles/cd27c15f.json)
-
-[Extended Data](ext_articles/cd27c15f.ext.json)
 
 ---

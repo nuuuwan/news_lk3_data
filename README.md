@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-21 11:24:03**
+As of **2024-10-21 11:40:16**
 
 ## Newspaper Stats
 
-*Scraped **50,517** Articles*
+*Scraped **50,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ colombotelegraphcom | 507
 islandlk | 3,008
 economynextcom | 3,084
 dailyftlk | 3,446
-adalk | 4,684
+adalk | 4,685
 dailymirrorlk | 4,733
-adaderanalk | 5,984
-tamilmirrorlk | 6,923
-virakesarilk | 8,101
+adaderanalk | 5,985
+tamilmirrorlk | 6,924
+virakesarilk | 8,104
 adaderanasinhalalk | 8,769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,517 (100.0%) of 50,517 articles have been extended.
+50,523 (100.0%) of 50,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-21 (Monday)
+
+### Militants kill seven, including six migrant workers, in India’s Kashmir
+
+*2024-10-21 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102827/militants-kill-seven-including-six-migrant-workers-in-indias-kashmir) · `en`
+
+At least six migrant workers and a doctor were shot dead in India’s Kashmir region on Sunday night when militants opened fire near a tunnel construction site, officials said, days after a new government was formed in the territory.
+
+An opposition alliance took power in the region this month after winning its first polls in a decade, and the first since its special status was revoked and it was split into two federally administered territories - Jammu and Kashmir, and Ladakh.
+
+The victims of Sunday’s attack were involved in the construction of tunnels meant to provide all-weather connectivity to the militarily strategic Ladakh region, which shares a border with China and Pakistan.
+
+“At least two armed militants barged into the mess of the private construction company and fired at workers who were dining at the time of the attack,” said a senior police officer who did not want to be named.
+
+◼️
+
+[Data](articles/f96523be.json)
+
+[Extended Data](ext_articles/f96523be.ext.json)
+
+---
+
+### The resolution on concessions has not yet reached
+
+*2024-10-21 11:15:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைகள்-குறித்த-தீர்மானம்-இன்னும்-எட்டப்படவில்லை/175-345766) · `ta`
+
+Government delays reducing ex-presidents' perks due to legal hurdles. Committee's recommendations awaited before amending laws. Former presidents retain luxury benefits despite election promises.
+
+🟩
+
+A high -level sources said that the government is still waiting for the recommendations of the committee appointed to investigate the reducing the concessions of the former presidents and their pioneers.
+
+Former presidents and their wives are entitled to concessions, including houses, vehicles and pension, according to the President's Right to the President's Rights Act.
+
+The government has now decided to reduce such concessions, but the law is an obstacle.
+
+President Anura Kumara Dissanayake made the election promise as the presidential election is scheduled for September 21st.. However, it is not easy to do because of the law.
+
+The question of whether the law will be amended is that it depends on the recommendations of the committee.
+
+A former president is entitled to three vehicles, including a car, a jeep and a double cart.
+
+Recently, the government has recovered additional vehicles allocated to former presidents Mahinda Rajapaksa and Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/1d28a0d9.json)
+
+[Extended Data](ext_articles/1d28a0d9.ext.json)
+
+---
 
 ### Fort - Maradana trains delay
 
@@ -82,6 +132,50 @@ Mr. Kammanpila said that Catholics have died in the 2019 bomb blasts, including 
 
 ---
 
+### Two lorries collided face -to -face;Five injured including couple
+
+*2024-10-21 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196752) · `ta`
+
+Two lorries crashed head-on near a school in Sri Lanka. Five people, including a couple, were hurt. They were taken to hospital.
+
+🟩
+
+Bandaragama police said that five people, including a couple, were injured when two lorries collided head -on in front of school in Kitelpitiya area in Bandaragama.
+
+Police said the accident occurred when a lorry traveling from Kesbewa to Bandaragama collided head -on with a lorry with the couple.
+
+During the accident, five people who were injured in both lorries were admitted to the Panadura Hospital for treatment.
+
+◼️
+
+[Data](articles/9f48eda4.json)
+
+[Extended Data](ext_articles/9f48eda4.ext.json)
+
+---
+
+### Motorcycle accident in Ragama;Youth killed
+
+*2024-10-21 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/196750) · `ta`
+
+Motorcycle crash kills youth in Ragama. Rider lost control near power lines, vehicle damaged. Victim hospitalized.
+
+🟩
+
+Ragama police said that a youth was killed in an accident on Sunday night (20) night at Ragama, Devadam and Thambuwa Junction Road.
+
+The accident occurred when a motorcycle traveling from Devathi to Thambuwa jumped and crashed into a nearby wiring.
+
+The man who was injured in the accident has been admitted to the Ragama Hospital after being admitted to the Ragama Hospital.
+
+◼️
+
+[Data](articles/71ce78dc.json)
+
+[Extended Data](ext_articles/71ce78dc.ext.json)
+
+---
+
 ### Gammanpila’s special press conference to reveal Easter attack reports
 
 *2024-10-21 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102826/gammanpilas-special-press-conference-to-reveal-easter-attack-reports-) · `en`
@@ -95,6 +189,32 @@ The former Minister had claimed that important information related to the Easter
 [Data](articles/8dd759bb.json)
 
 [Extended Data](ext_articles/8dd759bb.ext.json)
+
+---
+
+### Student's body recovered from the river!
+
+*2024-10-21 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196747) · `ta`
+
+Body of student found in river; second student involved in accident
+
+🟩
+
+A student of Mahiyanganai has been recovered from the Lokkal Oya River on Monday (21), police said.
+
+The body of the body, along with another student, left the house, claiming to go to the upper classes in Badulla.
+
+The parents of the student have lodged a complaint at the Badulla Police Station as the two students who went out did not return home.
+
+In this case, the other student who went with the body of the body has been handed over to the Rithimaliya police as the motorcycle driver has crashed into a motorcycle riding on the road.
+
+The student is currently under the control of the Rithimaliya police.
+
+◼️
+
+[Data](articles/c846c122.json)
+
+[Extended Data](ext_articles/c846c122.ext.json)
 
 ---
 
@@ -163,6 +283,26 @@ Mr. Gammanpila said that the Passover attack will be revealed at the press confe
 [Data](articles/6ffe23aa.json)
 
 [Extended Data](ext_articles/6ffe23aa.ext.json)
+
+---
+
+### Two dies after alcohol party
+
+*2024-10-21 09:59:01* · [`adalk`](https://www.ada.lk/breaking_news/මත්පැන්-සාදයෙන්-පසුව-දෙදෙනෙක්-දියේ-ගිල‍ි-මරුට/11-412580) · `si`
+
+Two men drown in Kanagama tank, Kahatagasdigiliya. Residents of Polgahawela and Pothandu. Incident occurred during alcohol party.
+
+🟩
+
+Two persons drowned in high kanagama tank in Kahatagasdigiliya. Deathters will be residents of Polgahawela and Potchandu
+
+The deceased has been in danger when he was drinking with two others yesterday.
+
+◼️
+
+[Data](articles/0a639916.json)
+
+[Extended Data](ext_articles/0a639916.ext.json)
 
 ---
 
@@ -2167,113 +2307,5 @@ Many personnel have left the TNA party. That is why I say that the expiration of
 [Data](articles/4a62f785.json)
 
 [Extended Data](ext_articles/4a62f785.ext.json)
-
----
-
-### The lack of submitting the budget for next year will cause a huge problem - Susil Premajayantha
-
-*2024-10-20 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/196710) · `ta`
-
-Lack of submitted budget causes problems: Costs unplanable, no funds for development projects, taxpayers affected. Government's inability to plan income and comply with IMF requirements. Massive issue for governance and economic growth.
-
-🟩
-
-It is a massive problem for the government not to submit a budget report for next year. This is because the costs can be planned based on income goals for next year. Will not allocate funds for development projects by permitting an interim account referendum. Former minister and Colombo district candidate of the New Democratic Front said that the income cannot be planned.
-
-He was speaking at a press conference held in Colombo on Sunday (20) in Colombo.
-
-The new Democratic Front is contesting in 19 districts in the upcoming parliamentary election and is contesting the cylinder symbol and the elephant symbol of our partners in 3 districts. Former President Ranil Wickremesinghe received 23 lakh votes in the last presidential election.
-
-Current President Anura Kumara Dissanayake received 55 lakh votes. Sajith Premadasa got 44 lakh votes. But, no one received more votes for 50 percent. So 57 percent of the votes have been cast against the current president.
-
-...
-
-[Data](articles/967560f0.json)
-
-[Extended Data](ext_articles/967560f0.ext.json)
-
----
-
-### Confronting The Low Levels Of Female Representation In Parliament; Are Nominations Enough?
-
-*2024-10-20 18:32:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/confronting-the-low-levels-of-female-representation-in-parliament-are-nominations-enough/) · `en`
-
-...
-
-[Data](articles/cce8c6d0.json)
-
-[Extended Data](ext_articles/cce8c6d0.ext.json)
-
----
-
-### Is AKD The Robin Hood Of Sri Lanka?
-
-*2024-10-20 18:30:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-akd-the-robin-hood-of-sri-lanka/) · `en`
-
-Robin Hood was a legend in the middle ages, who took away wealth from the Sheriff and the rich, to give the poor. In many of the stories about him, he was depicted as a heroic outlaw and rebel against tyranny. He was living in the Sherwood forest in England, with his loyal comrades fighting for justice, while facing tremendous hardships.
-
-...
-
-[Data](articles/3be2fa6a.json)
-
-[Extended Data](ext_articles/3be2fa6a.ext.json)
-
----
-
-### The future of Sridharan
-
-*2024-10-20 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196708) · `ta`
-
-Sridharan's departure from the party may lead to a crisis within TNA if two seats become available in Jaffna district. This situation could intensify political tensions and challenges for the party.
-
-🟩
-
-Sridharan has publicly delegated to the party that he is going to leave the party.. If two seats are available in the Jaffna district, the crisis for the Sridharan will still increase within the TNA. This is an obvious issue.
-
-◼️
-
-[Data](articles/ba72cfd7.json)
-
-[Extended Data](ext_articles/ba72cfd7.ext.json)
-
----
-
-### Easter Sunday Politics
-
-*2024-10-20 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/196706) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Udaya Kammanpila, linked to Easter Sunday attacks, continues political career focused on maintaining government secrecy. His actions may benefit him politically but raise concerns about transparency and accountability.
-
-🟩
-
-Udaya Kammanpila, the politician of Easter Sunday attack. Still doing the same thing. Sought to make politics that keeps the government secrets. The result may be great for him.
-
-◼️
-
-[Data](articles/ac530cd9.json)
-
-[Extended Data](ext_articles/ac530cd9.ext.json)
-
----
-
-### To whom, how many seats?
-
-*2024-10-20 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196705) · `ta`
-
-Gajendrakumar Ponnambalam predicts Tamil parties may secure up to 18 seats in Northern and Eastern regions during parliamentary elections.
-
-🟩
-
-Former MP Gajendrakumar Ponnambalam has said that in the parliamentary elections, the Tamil parties can win a maximum of 18 seats in the North and East.
-
-◼️
-
-[Data](articles/c9de6023.json)
-
-[Extended Data](ext_articles/c9de6023.ext.json)
 
 ---

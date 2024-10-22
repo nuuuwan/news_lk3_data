@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 08:44:46**
+As of **2024-10-22 08:59:28**
 
 ## Newspaper Stats
 
-*Scraped **50,667** Articles*
+*Scraped **50,669** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 409
 colombotelegraphcom | 508
-bbccomsinhala | 508
+bbccomsinhala | 509
 islandlk | 3,021
 economynextcom | 3,093
 dailyftlk | 3,458
@@ -20,17 +20,31 @@ dailymirrorlk | 4,733
 adaderanalk | 6,000
 tamilmirrorlk | 6,948
 virakesarilk | 8,127
-adaderanasinhalalk | 8,794
+adaderanasinhalalk | 8,795
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,661 (100.0%) of 50,667 articles have been extended.
+50,661 (100.0%) of 50,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### මාතර වෙඩික්කරුවෝ කොටුවෙති
+
+*2024-10-22 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202421) · `si`
+
+මාතර කැකනදුර ප්‍රදේශයේදී වෙඩිතබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිදුවීමට සම්බන්ධ වෙඩික්කරුවන් දෙදෙනා පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පසුගිය 15 වෙනිදා ත්‍රිරෝද රථයකින් ගමන් කරමින් සිටි පුද්ගලයෙකුට මෝටර් රථයකින් පැමිණි පුද්ගලයෙකු විසින් වෙඩිතබා පළාගොස් තිබුණි.
+
+◼️
+
+[Data](articles/c1531d08.json)
+
+---
 
 ### 3,000 complaints on Bribery Commission in the first nine months of this year
 
@@ -335,6 +349,28 @@ The Sri Lanka Institute of Directors (SLID) recently announced the appointment o
 [Data](articles/08150eb7.json)
 
 [Extended Data](ext_articles/08150eb7.ext.json)
+
+---
+
+### මහ මැතිවරණය 2024: ඡන්දය දෙන්න කලින් මේ ගැන දැන ගන්න
+
+*2024-10-22 01:44:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwyl99vj23vo) · `si`
+
+2024 මහ මැතිවරණය නොවැම්බර් 14 වන දා පැවැත් වීමට කටයුතු යොදා තිබේ.
+
+ඉදිරි වසර 5 සඳහා රටේ දිශානතිය තීරණය කිරීම රඳා පවතින පාර්ලිමේන්තු මන්ත්‍රීවරුන් 225 දෙනෙකු තෝරා පත් කර ගැනීම මෙම මැතිවරණය මගින් සිදු වේ.
+
+2022 වසරේ රටේ ඇතිවූ දැවැන්ත ආර්ථික අර්බුදයෙන් පසු සහ ඉකුත් සැප්තැම්බර් මස පවත්වන ලද ජනාධිපතිවරණයෙන් පසු පැවැත්වෙන පළමු මහ මැතිවරණය මෙය යි.
+
+මෙවර ඡන්ද සටනට සහභාගී වන සමස්ථ අපේක්ෂකයින් සංඛ්‍යාව 8,821කි. අපේක්ෂකයින් 469 දෙනෙක් ජාතික ලැයිස්තුවෙන් ඉදිරිපත් වෙති.
+
+ශ්‍රී ලංකාවේ ආණ්ඩුව ක්‍රියාත්මක වන්නේ අර්ධ-ජනාධිපති රාමුවක් තුළ වන අතර එහිදී ජනාධිපතිවරයා විසින් පත් කරන ලද අගමැතිවරයෙකු සහ අගමැතිවරයා විසින් යෝජනා කරන ලද කැබිනට් මණ්ඩලයක් සමග වැඩ කරන අතර ජනාධිපතිවරයා විධායක බලයක් දරයි.
+
+පක්ෂ විසින් මැතිවරණ කොට්ඨාසය (මැතිවරණ දිස්ත්‍රික්කය) තුළ ලබා ගන්නා ලද මුළු ඡන්ද සංඛ්‍යාවට අනුපාතයක් ලෙස මන්ත්‍රී ධූර බෙදී යාමේ ක්‍රමවේදය සමානුපාතික නියෝජන ක්‍රමය වේ.
+
+...
+
+[Data](articles/f0d6be97.json)
 
 ---
 
@@ -2267,51 +2303,5 @@ This is the team –Anil Jayantha, Chair of the NPP Economic Policy Council & Se
 [Data](articles/1f28396f.json)
 
 [Extended Data](ext_articles/1f28396f.ext.json)
-
----
-
-### Deaths reveal in Chilaw II
-
-*2024-10-21 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202404) · `si`
-
-Chilaw II: Post-mortem reveals bodies burned after woman and daughter killed.
-
-🟩
-
-The post mortem was conducted today regarding the deaths in Sinhapura Singupura, Chilaw.
-
-It was revealed that the bodies were set on fire after the deceased woman and daughter were cut.
-
-◼️
-
-[Data](articles/54afae4a.json)
-
-[Extended Data](ext_articles/54afae4a.ext.json)
-
----
-
-### Cardinal comment on the release of Easter Report
-
-*2024-10-21 15:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-அறிக்கை-வெளியீடு-குறித்து-கர்தினால்-கருத்து/175-345781) · `ta`
-
-Cardinal criticizes misleading reports on 2019 Easter attacks, accuses former government of influencing current investigations.
-
-🟩
-
-Colombo Archbishop Malcolm Cardinal Ranjith says that efforts are being made to mislead the people on the 2019 Easter Sunday attacks.
-
-Speaking at a ceremony on Sunday, the Archbishop said a new committee, including former government officials and parliamentarians, is currently working on a confusion over the investigation.
-
-“One of the two reports of the former government includes the same recommendations made by the Presidential Commission to Investigate Easter attacks.
-
-The only twist is that the new report recommends legal action against two senior officials of the new government. It seems that the former government has given advice on the recommendations. ”
-
-Archbishop Malcolm Cardinal Ranjith, who said they did not accept these two reports, said the present president had promised to investigate the attacks and that the Church was waiting to see if it would be fulfilled.
-
-...
-
-[Data](articles/1da7e75a.json)
-
-[Extended Data](ext_articles/1da7e75a.ext.json)
 
 ---

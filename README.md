@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 19:23:50**
+As of **2024-10-22 19:58:17**
 
 ## Newspaper Stats
 
-*Scraped **50,774** Articles*
+*Scraped **50,777** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 409
 colombotelegraphcom | 509
-bbccomsinhala | 512
+bbccomsinhala | 513
 islandlk | 3,021
 economynextcom | 3,104
 dailyftlk | 3,458
 adalk | 4,716
 dailymirrorlk | 4,733
 adaderanalk | 6,017
-tamilmirrorlk | 6,975
+tamilmirrorlk | 6,977
 virakesarilk | 8,146
 adaderanasinhalalk | 8,811
 
@@ -26,29 +26,95 @@ adaderanasinhalalk | 8,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,773 (100.0%) of 50,774 articles have been extended.
+50,777 (100.0%) of 50,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
 
-### ප්‍රජාතන්ත්‍රවාදී ජාතික සන්ධානයේ පෙත්සම ගැන ශ්‍රේෂ්ඨාධිකරණ තීන්දුව හෙට
+### “Can't testify in the Jaffna court”
+
+*2024-10-22 19:27:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-நீதிமன்றத்தில்-சாட்சியமளிக்க-முடியாது/175-345871) · `ta`
+
+Gotabhaya Rajapakse refuses to testify in Jaffna court over human rights activists' disappearance in 2011. His lawyer states readiness to testify elsewhere in Sri Lanka. Case adjourned until March 18, 2025.
+
+🟩
+
+Former President of Sri Lanka Gotabhaya Rajapakse has said that he is ready to testify in any of the country's court except the Jaffna Magistrate's Court on two human rights activists who went missing in 2011.
+
+The report was released through his lawyer Romesh de Silva during a hearing of the case in the High Court today (22).
+
+Kota, the then Defense Secretary, was first invited to testify at the Jaffna Magistrate's Court on the abduction of Lalith Veeraj and Kugan Murugananthan in Jaffna in 2011.. However, he said he was unable to attend due to security reasons.
+
+Rajapakse's lawyer told the High Court that the former president could not appear before the Jaffna court and was ready to submit witnesses in any other court in Sri Lanka.
+
+The petition filed by relatives of the missing persons was taken up for hearing today, challenging the previous verdict of the Court of Appeal.
+
+In the previous ruling, it was noted that Gotabhaya Rajapakse could not be called as president.
+
+...
+
+[Data](articles/33fc1465.json)
+
+[Extended Data](ext_articles/33fc1465.ext.json)
+
+---
+
+### Sriranga in Vavuniya: Gibsiriyam
+
+*2024-10-22 19:09:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியாவில்-ஸ்ரீரங்கா-சொப்பே-மகன்-கிப்சிறியாம்/175-345869) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Colombo Chief Magistrate Thilina Kamage investigates former MP J. Sreeranga's arrest. Former Minister Rishad Bathiudeen accused of threatening judges. President Anura Kumara Dissanayake calls for re-investigation. Posters targeting Sreeranga and judges found. Arressts made, but case remains unresolved.
+
+🟩
+
+Colombo Chief Magistrate Thilina Kamage has met with journalists in Vavuniya on Tuesday (22) as Colombo Chief Magistrate Kamage has ordered the Colombo Criminal Investigation Division on Monday (21) if he is involved in the arrest of former MP J. Sreeranga with muddy posters.
+
+At the time, John in the 2012 Mannar Court, John the Inquiry into the Investigation.. Sriranga has demanded.
+
+Vanni electoral constituency independent committee candidate J. At a media briefing held in Sriranga, Vavuniya,
+
+Judge Judson complained that when he was a court judge, the court had threatened the court and threatened Rishad Bathiudeen. Chief Justice Shirani Bandaranayake, who closed the Supreme Court, said that it was not properly investigated by the High Court and High Court Judges.. The investigation was later held.
+
+At this juncture, Chief Justice Shirani Bandaranaike sent home through MPs claiming that the case against Rishad Bathiudeen was against the state.
+
+...
+
+[Data](articles/7f4daa5e.json)
+
+[Extended Data](ext_articles/7f4daa5e.ext.json)
+
+---
+
+### Supreme Court decision on the petition of the Democratic National Alliance
 
 *2024-10-22 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202437) · `si`
 
-වන්නි දිස්ත්‍රික්කය වෙනුවෙන් භාරදුන් සිය නාමයෝජනා පත්‍රය ප්‍රතික්ෂේප කිරීමට දිස්ත්‍රික් තේරීම්භාර නිලධාරියා ගනු ලබූ තීරණය බලරහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා ප්‍රජාතන්ත්‍රවාදී ජාතික සන්ධානය විසින් ගොනුකළ  පෙත්සමේ තීන්දුව හෙට (23) දින ප්‍රකාශයට පත්කරන බව ශ්‍රේෂ්ඨාධිකරණය නිවේදනය කළේය.
+Supreme Court rules on Democratic National Alliance petition regarding Vanni District election nomination rejection. Decision to be announced tomorrow. Petitioners claim selection officer rejected nomination papers. Requested interim injunction until hearing on November 14.
 
-දෙපාර්ශය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් පසුව ශ්‍රේෂ්ඨාධිකරණය  පෙන්වා දුන්නේ ප්‍රතික්ෂේප කළ නාමයෝජනා පත්‍රය පවතින නීතියට අනුකූලව අදාළ තේරීම්භාර නිලධාරියා විසින් භාරගත යුතු  බවයි.
+🟩
 
-ඒ අනුව මෙම කරුණට අදාළ තීන්දුව සහ ඊට හේතු හෙට දින ප්‍රකාශයට පත් කරන බවත් ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල නියෝග කළේය.
+The Supreme Court announced that the decision filed by the Democratic National Alliance (Democratic National Alliance) to issue the decision of the District Return to the Vanni District is announced tomorrow (23).
 
-මෙම පෙත්සම අද ප්‍රීති පද්මන් සූරසේන, ශිරාන් ගුණරත්න සහ අචල වෙංගප්පූලි යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+After considering the facts presented by the two parties, the Supreme Court pointed out that the selected officer should be accepted in accordance with the existing nomination.
 
-මෙම පෙත්සම ඉදිරිපත් කර ඇත්තේ අදාළ පක්ෂයේ බලයලත් නිලධාරී පරරාජසිංගම් උදය රාසා සහ තවත් අපේක්ෂකයින් දෙදෙනෙකු විසිනි.
+Accordingly, the three-member Supreme Court Judge is ordered that the verdict and the reasons for this matter will declare tomorrow.
+
+The petition was called before the Supreme Court Bench comprised of today's journalist Judiciary today.
+
+The petition was presented by the Authorized Officer Pararajasangam Udaya Raza and two other candidates.
+
+The Chairman of the Elections and its members of the Vanni district, including the Chairman of the Vanni District, has been named as the respondents.
 
 ...
 
 [Data](articles/4eab3501.json)
+
+[Extended Data](ext_articles/4eab3501.ext.json)
 
 ---
 
@@ -1392,6 +1458,34 @@ Colombo Chief Magistrate Dilina Kamage on Monday (22) ordered him to appear to h
 
 ---
 
+### Gotabhaya says it is ready to testify in any courts of the country except Jaffna
+
+*2024-10-22 12:43:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3dvdzzg9v7o) · `si`
+
+Gotabhaya Rajapakse willing to testify in all courts except Jaffna. Disappearance case witness. Petition against him dismissed. Life threats reason for avoiding Jaffna court.
+
+🟩
+
+Gotabhaya says it is ready to testify in any courts of the country except Jaffna
+
+Former President's Gotabhaya Rajapakse, who is a witness to the disappearance of the trial in the case, is ready to give evidence of the case in any case of the Trial to the disappearance of two human rights activists, Lalith Weeraraj and Kagan Muruganandan.He said in front of the Supreme Court.
+
+President's Counsel Romesh de Silva, who appeared on behalf of former President Gotabhaya Rajapakse, was called for a petition against former President Gotabhaya Rajapakse was summoned against the decision of the Court of Appeal.
+
+The petition was called to the Supreme Court Judge Bench, Surren Gunaratne, Shiran Gunaratne, and Achala Weddappendi.
+
+President's Counsel Romesh de Silva stated in court to the President's Counsel Romesh de Silva, who appeared on behalf of Gotabhaya Rajapaksa.
+
+However, the President's Counsel stated that he willingly testify in a court except Jaffna court.
+
+...
+
+[Data](articles/16c2b886.json)
+
+[Extended Data](ext_articles/16c2b886.ext.json)
+
+---
+
 ### Gammanpila does not accept the report on Easter attack - Sri Lanka Catholic Church
 
 *2024-10-22 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202427) · `si`
@@ -2393,73 +2487,5 @@ On the 15th, a person who was traveling in a three-wheeler was shot by a car.
 [Data](articles/c1531d08.json)
 
 [Extended Data](ext_articles/c1531d08.ext.json)
-
----
-
-### Sri Lanka runs BOP surplus of US$2,185mn amid deflationary policy up to Aug
-
-*2024-10-22 08:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-runs-bop-surplus-of-us2185mn-amid-deflationary-policy-up-to-aug-184335/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has generated a 2,184 million dollar balance of payments surplus up to August 2024, running slightly ahead of last year, official data show.
-
-Sri Lanka’s central bank has allowed the exchange rate to appreciate amid deflationary policy since scrapping a surrender rule in 2024.
-
-A pegged central bank has to run deflationary monetary policy (selling securities held by the agency to the banking system to curtail domestic credit from rupees generated through from dollar purchases) to generate a balance of payments surplus.
-
-When a BOP surplus (every day or every week) is generated by the central bank it is easy to allow the exchange rate to appreciate by purchasing less than the excess dollars created by deflationary policy.
-
-...
-
-[Data](articles/dbba89bd.json)
-
-[Extended Data](ext_articles/dbba89bd.ext.json)
-
----
-
-### 3,000 complaints on Bribery Commission in the first nine months of this year
-
-*2024-10-22 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202420) · `si`
-
-3,045 bribery complaints in 9 months; 81 raids, 67 arrests; 68 cases filed, 56 resolved; 237 active cases; 19 convictions.
-
-🟩
-
-Over 3,000 complaints have been received by the Commission to Investigate Allegations of Bribery or Corruption in the first nine months of this year.
-
-Bribery Commission said that 3,045 complaints were received from the first day of January to September 30, said the Commission.
-
-At that time, 81 raids were carried out island wide and 67 persons have been arrested in raids.
-
-There are 20 police officers, three Grama Niladharis, three Grama Niladharis and three other government officials including two revenue inspectors.
-
-In addition, 22 civilians have been arrested in raids.
-
-In the first nine months of this year, 68 people have been filed against Bribery or Corruption Commission that 56 cases have been completed during that period.
-
-There are 237 cases in bribery or corruption charges and 19 accused have become convicted of this year.
-
-◼️
-
-[Data](articles/2db87b73.json)
-
-[Extended Data](ext_articles/2db87b73.ext.json)
-
----
-
-### IMF encouraged by Sri Lanka commitment to safeguard gains under program
-
-*2024-10-22 08:15:00* · [`economynextcom`](https://economynext.com/imf-encouraged-by-sri-lanka-authorities-to-safeguard-gains-under-imf-program-md-184373/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund was encouraged by Sri Lanka’s commitment to continue reforms to safeguard gains under its program, Managing Director has said in a twitter post.
-
-“Encouraged by the authorities’ commitment to continue the reform efforts to safeguard the hard-won gains under the IMF-supported program,” she said after meeting Central bank Governor Nandalal Weerasinghe.
-
-“The IMF remains committed to supporting Sri Lanka build a better future for its people.” (Colombo/Oct22/2024)
-
-◼️
-
-[Data](articles/92a9a11c.json)
-
-[Extended Data](ext_articles/92a9a11c.ext.json)
 
 ---

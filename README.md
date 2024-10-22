@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 04:58:35**
+As of **2024-10-23 05:09:15**
 
 ## Newspaper Stats
 
-*Scraped **50,797** Articles*
+*Scraped **50,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,460
 adalk | 4,720
 dailymirrorlk | 4,733
 adaderanalk | 6,020
-tamilmirrorlk | 6,980
+tamilmirrorlk | 6,984
 virakesarilk | 8,148
 adaderanasinhalalk | 8,815
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,797 (100.0%) of 50,797 articles have been extended.
+50,800 (100.0%) of 50,801 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,94 @@ He said only a group of representatives comprising the senior officers of the Fo
 [Data](articles/554fb60c.json)
 
 [Extended Data](ext_articles/554fb60c.ext.json)
+
+---
+
+### We are traveling with alternative ideas
+
+*2024-10-23 03:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றுக்-கருத்துகளுடனே-நாங்கள்-பயணிக்கின்றோம்/175-345891) · `ta`
+
+Candidate contests election with alternative ideas, promising solutions to local issues like worker pay, pension problems, road maintenance, and unemployment. Claims to address challenges faced by political parties in the region.
+
+🟩
+
+"We have come to contest this parliamentary election with a variety of alternative ideas that are possible," said Wimalasanthan Tanarupan, a Samimalai Ruben, who is contesting in the Independent Committee in the Nuwara Eliya district. "
+
+"Even if everyone wants a change in the scholar, we must come up with a change. We have come forward to make that change on that basis."
+
+There are many issues in the Nuwara Eliya district, for example, not only the payroll issue of plantation workers, but also the problems of the EPF and the ETF, as well as the renovation of the hill roads, and the unemployment problems.
+
+Therefore, if we are selected, we will solve these problems.When the journalist questioned what the reason for you to contest independently, though many political parties in the Nuwara Eliya district ...
+
+...
+
+[Data](articles/7e9579f2.json)
+
+[Extended Data](ext_articles/7e9579f2.ext.json)
+
+---
+
+### The new session will not be represented 225
+
+*2024-10-23 03:34:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமர்வில்-225-பிரதிநிதித்துவம்-இருக்காது/175-345890) · `ta`
+
+New session lacks full representation due to delayed appointments. Elections Commissioner warns of incomplete 225-member Parliament on Nov 21. National List MP nominations must be submitted promptly to ensure full attendance.
+
+🟩
+
+Elections Commissioner Saman Sri Ratnayake said that if the political parties delayed the appointment of representatives to the National List Member of Parliament after the public election results, there would be no full representation of 225 members when the Parliament met on November 21.
+
+He added that the votes will be released on November 15 or 16, and the national list of parliamentary members will be given to each party and independent committee based on the votes received.
+
+Speaking at a media briefing in Kandy, the Election Commissioner General Ratnayake said that there is about a week between the date of the election and the date of parliament and the names of MPs appointed as people who have been appointed as people's representatives on November 18 or 19.
+
+...
+
+[Data](articles/651773f7.json)
+
+[Extended Data](ext_articles/651773f7.ext.json)
+
+---
+
+### I am a tiger
+
+*2024-10-23 03:11:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுங்கியிருந்து-பாயும்-புலி-நான்/175-345889) · `ta`
+
+Anusha Chandrasekaran, candidate for Nuwara Eliya district, emphasizes her commitment to improving hill country. She criticizes previous leaders' lack of progress and promises better education and services. Her campaign focuses on supporting local youth and ensuring a brighter future for hill country residents.
+
+🟩
+
+As a woman I take up the hilltop. We have the responsibility of treating the hill country properly. That is why I am in the Mike Emblem this time, ”said Anusha Chandrasekaran, candidate for the Nuwara Eliya district of the National Voice of the party.
+
+This time, I am in the Mike Emblem through the United Democratic Voice. Many opposite sides say I have been running after the election last time. But, not so. I don't run away. Not as well as. I am in the same hill country.
+
+My father failed when he asked for election in 1989. First he got the failure. Early members know that. Until 1994, he was jailed because of political revenge.
+
+If one thinks new in the hill country will make him political revenge. After the last time I heard the election, I had a lot of political casualties.
+
+Made revenge on those who worked for us. So I thought I had to be silent;Sometimes in some politics we have to be silent. That's what I did.
+
+I was hiding in the parliamentary election when I was hiding.
+
+...
+
+[Data](articles/fd261906.json)
+
+[Extended Data](ext_articles/fd261906.ext.json)
+
+---
+
+### தமிழரசுக்கட்சி இம்முறை ’அதிகமாக கைப்பற்றும்’
+
+*2024-10-23 03:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்கட்சி-இம்முறை-அதிகமாக-கைப்பற்றும்/175-345888) · `ta`
+
+தமிழரசுக்கட்சி இம்முறை அதிக ஆசனங்களைக்  கைப்பற்றும் போதுதான் பேரம் பேசும் சக்தியாக பாராளுமன்றத்தில் திகழும், அந்த பேரம் பேசும் சக்தியைக் கொடுப்பதற்கு மக்கள் அனைவரும் எமது சின்னமான வீட்டுச் சின்னத்துக்கு வாக்களிக்கவேண்டும். என்று இலங்கைத் தமிழரசுக்கட்சியிப் சார்பில் பாராளுமன்றத் தேர்தலில் போட்டியிடும் மட்டக்களப்பு மாநகர சபையின் முன்னாள் மேயரும் மாவட்ட வேட்பாளர் தியாகராஜா சரவணபவன் தெரிவித்தார்.
+
+மட்டக்களப்பு மாநகரின் முதல்வராக 5 வருடங்கள் சிறப்பான பணியினை வழங்கியிருந்தேன். மட்டக்களப்பு நகரத்துக்கு எனக்கு கிடைத்த அதிகாரம் மாவட்டத்துக்கு விரிவுபடுத்தப்படவேண்டும் என்பதற்காகவே இந்தப் பாராளுமன்றத் தேர்தலில் போட்டியிடுகிறேன். இத் தேர்தலில் வெற்றிபெறும் போது, எமது வளங்களான விவசாயம், மீன்பிடி, கால்நடை என ஏனைய பொருளாதார அபிவிருத்திச் செயற்பாடுகளுக்கு எமது ஒத்துழைப்புடன் முன்னேற்றக்கூடிய வகையில் எமது திட்டங்கள் வகைப்படுத்தப்படும்.
+
+...
+
+[Data](articles/186a9f4e.json)
 
 ---
 
@@ -2409,93 +2497,5 @@ The Sri Lankan delegation also includes Finance Secretary Mahinda Siriwardena an
 [Data](articles/e3817cc0.json)
 
 [Extended Data](ext_articles/e3817cc0.ext.json)
-
----
-
-### Shanani and Ravi Seneviratne cannot be removed from the posts of Udaya Kammanpila - Vijitha Herath
-
-*2024-10-22 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196835) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka: Cabinet spokesperson Vijitha Herath states Shanani Abeeshekara and Ravi Seneviratne cannot be removed from positions held by Udaya Kammanpila.
-
-🟩
-
-Cabinet spokesman Vijitha Herath said that Shanani Abeeshekara and Ravi Seneviratne could not be removed from the posts of Udaya Kammanpila.
-
-◼️
-
-[Data](articles/cf0329d0.json)
-
-[Extended Data](ext_articles/cf0329d0.ext.json)
-
----
-
-### Life Sunday Attack: The Alvis Committee is not going to accept the report - the government
-
-*2024-10-22 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196834) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Government rejects Alwis Committee report on Sunday attacks. Committee findings not accepted."
-
-🟩
-
-The government has said it will not accept the report of the Alwis Committee on the Sunday attacks.
-
-◼️
-
-[Data](articles/7ff51ed9.json)
-
-[Extended Data](ext_articles/7ff51ed9.ext.json)
-
----
-
-### Passport in a new look
-
-*2024-10-22 10:56:11* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-ගමන්-බලපත්‍රය-නව-පෙනුමකින්/11-412606) · `si`
-
-New passports issued: Blue instead of red-brown. Contains 64 pages, improved design. Distributed starting yesterday.
-
-🟩
-
-The Department of Immigration and Emigration has taken steps to issue a new passports yesterday (21st) to conclude the issuance of passports for several months.The Cabinet Minister Vijitha Herath has said that the new foreign passports were received at night and distributed from yesterday (21).
-
-The passport of red brown has been released in blue.
-
-The new passport has changed the color of N. It is blue.The new passport contains a beautiful photograph with beautiful photographs and 64 pages of an old passport. The new passport is used in the passports of the N.
-
-Sri Duthazara Kavala, Jaffna Nallur Kovil, Colombo Lelum Tower, Colombo Fisheries and Ritipan FisheriesThe new passport is equipped with.
-
-◼️
-
-[Data](articles/e18cb528.json)
-
-[Extended Data](ext_articles/e18cb528.ext.json)
-
----
-
-### Sri Lanka leader to skip CHOGM due to elections
-
-*2024-10-22 10:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-to-skip-chogm-due-to-elections-184382/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake will not attend the 2024 Commonwealth Heads of Government Meeting (CHOGM) to be held in Samoa from 25–26 October, due to general elections in the island nation, Minister Vijitha Herath said.
-
-This will be the 27th Meeting of the Heads of Government of the Commonwealth of Nations.
-
-The meeting is preceded by ministerial meetings, fora and side events from Monday (21), which Herath who is Foreign Minister, will also not be attending.
-
-Sri Lanka’s current leaders are also skipping the BRICS summit in Russia, instead relying on Ministry officials to represent the country at significant global fora.
-
-...
-
-[Data](articles/ef34525e.json)
-
-[Extended Data](ext_articles/ef34525e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 14:13:10**
+As of **2024-10-22 14:25:30**
 
 ## Newspaper Stats
 
-*Scraped **50,716** Articles*
+*Scraped **50,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ adalk | 4,712
 dailymirrorlk | 4,733
 adaderanalk | 6,008
 tamilmirrorlk | 6,961
-virakesarilk | 8,134
+virakesarilk | 8,136
 adaderanasinhalalk | 8,801
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,716 (100.0%) of 50,716 articles have been extended.
+50,718 (100.0%) of 50,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Today's currency exchange rate
+
+*2024-10-22 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/196837) · `ta`
+
+Here's a summary of the currency exchange rate in 200 characters:
+
+
+
+US Dollar (USD) vs Indian Rupee (INR):
+
+Purchasing price: 288.6592 INR
+
+Sales price: 297.6578 INR
+
+Date: Tuesday, 22nd February
+
+🟩
+
+The US dollar purchasing price was 288.6592 rupees and the sales price were 297.6578 on Tuesday (22).
+
+◼️
+
+[Data](articles/027f6179.json)
+
+[Extended Data](ext_articles/027f6179.ext.json)
+
+---
+
+### A roof breaks in Akuresa and falls on his head
+
+*2024-10-22 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196830) · `ta`
+
+Akuressa: Roof collapse kills 54-year-old man during renovation work. Incident occurred near shopping center in Matara district.
+
+🟩
+
+A roof of an old building near a shopping center in Akuressa, Matara, collapsed and a man died on the spot, police said.
+
+The deceased is 54 -year -old Hewa Pettake Rajith Priyantha, a resident of Kathirathahena, Matara.
+
+Two people are in the process of removing the concentrated base of the second floor of an old building in Akuressa.
+
+One part of the roof has collapsed on the head of one of them.
+
+◼️
+
+[Data](articles/0d81ce9a.json)
+
+[Extended Data](ext_articles/0d81ce9a.ext.json)
+
+---
 
 ### Recovery of two bodies in Kandy
 
@@ -2323,55 +2375,5 @@ Chairman of Elections Commissioner Chairman of the Election of Elections. Ratnay
 [Data](articles/d5eb9418.json)
 
 [Extended Data](ext_articles/d5eb9418.ext.json)
-
----
-
-### 3 found dead inside burning Chilaw home: Double murder-suicide suspected
-
-*2024-10-21 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102836/3-found-dead-inside-burning-chilaw-home-double-murder-suicide-suspected-) · `en`
-
-The post-mortem examinations have been conducted today (21) with regard to the three bodies found inside a two-storey house which was on fire in the Sinhapura area in Chilaw yesterday.
-
-Accordingly, the autopsies have revealed that the deceased woman and her daughter had been murdered by slitting their throats before their bodies were set on fire.
-
-The Chilaw District General Hospital’s Judicial Medical Officer (JMO) carried out the post-mortem examination on the bodies of the woman and her daughter this afternoon at the hospital’s mortuary.
-
-The deceased are identified as Shaminidulage Gedara Senaratne (51), his wife Muhandiramlage Manjula Niroshani Bandara (44) and their 15-year-old daughter, Shaminidulage Gedara Nethmi Nimesha.
-
-It has been revealed that Senarathne was involved in the business of selling land plots, while his wife Manjula Niroshani was employed as the Economic Development Officer in charge of the the Munneswaram Division at the Chilaw Divisional Secretariat.
-
-...
-
-[Data](articles/d301c190.json)
-
-[Extended Data](ext_articles/d301c190.ext.json)
-
----
-
-### Petition to the Supreme Court to suspend electoral gazette
-
-*2024-10-21 18:13:20* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-ගැසට්ටුව-අත්හිටුවන්නැයි-ශ්‍රේෂ්ඨාධිකරණයට-පෙත්සමක්/11-412594) · `si`
-
-Here's a 200-character summary:
-
-
-
-Civilian activist Priyantha Herath petitions Supreme Court to suspend electoral gazette. Challenges President's order for general election, citing legal violations. Requests hearing on fundamental rights.
-
-🟩
-
-Priyantha Herath, a civilian activist Priyantha Herath, a civilian activist, has filed a fundamental rights petition to the Supreme Court today (21).
-
-President Anura Kumara Dissanayake ordered the correspondingment of the general election and the gazette notification issued by the Gazette Notification issued by the Petitioner has requested the fundamental rights petition.
-
-The Attorney General, the Attorney General, the Attorney General, the Attorney General, the Attorney General, the Attorney General, the Attorney General, is named as respondents, the petitioners who have filed the Sri Lanka National Organization's convener.
-
-Anura Kumara Dissanayake, a civil activist who said he was appointed as the President of the country on September 24, was on October 4 to October 11th to the dissolution of Parliament on September 24.It is stated that the General Election will be held on November 14 that the General Elections will be held on November 14.
-
-...
-
-[Data](articles/87f36a01.json)
-
-[Extended Data](ext_articles/87f36a01.ext.json)
 
 ---

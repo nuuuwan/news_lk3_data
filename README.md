@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 08:59:28**
+As of **2024-10-22 09:13:09**
 
 ## Newspaper Stats
 
-*Scraped **50,669** Articles*
+*Scraped **50,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 509
 islandlk | 3,021
 economynextcom | 3,093
 dailyftlk | 3,458
-adalk | 4,705
+adalk | 4,706
 dailymirrorlk | 4,733
 adaderanalk | 6,000
 tamilmirrorlk | 6,948
@@ -26,23 +26,29 @@ adaderanasinhalalk | 8,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,661 (100.0%) of 50,669 articles have been extended.
+50,666 (100.0%) of 50,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
 
-### මාතර වෙඩික්කරුවෝ කොටුවෙති
+### Matara shooter in Matara
 
 *2024-10-22 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202421) · `si`
 
-මාතර කැකනදුර ප්‍රදේශයේදී වෙඩිතබා පුද්ගලයෙකු ඝාතනය කිරීමේ සිදුවීමට සම්බන්ධ වෙඩික්කරුවන් දෙදෙනා පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Two shooters arrested in Matara for murder. Victim killed while riding three-wheeler on 15th. Police Special Task Force involved.
 
-පසුගිය 15 වෙනිදා ත්‍රිරෝද රථයකින් ගමන් කරමින් සිටි පුද්ගලයෙකුට මෝටර් රථයකින් පැමිණි පුද්ගලයෙකු විසින් වෙඩිතබා පළාගොස් තිබුණි.
+🟩
+
+The two shooters have been arrested by the Police Special Task Force on the murder of a victim in Kekanadura.
+
+On the 15th, a person who was traveling in a three-wheeler was shot by a car.
 
 ◼️
 
 [Data](articles/c1531d08.json)
+
+[Extended Data](ext_articles/c1531d08.ext.json)
 
 ---
 
@@ -352,25 +358,37 @@ The Sri Lanka Institute of Directors (SLID) recently announced the appointment o
 
 ---
 
-### මහ මැතිවරණය 2024: ඡන්දය දෙන්න කලින් මේ ගැන දැන ගන්න
+### General Election 2024: Know this after the vote
 
 *2024-10-22 01:44:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwyl99vj23vo) · `si`
 
-2024 මහ මැතිවරණය නොවැම්බර් 14 වන දා පැවැත් වීමට කටයුතු යොදා තිබේ.
+Here's a 200-character summary:
 
-ඉදිරි වසර 5 සඳහා රටේ දිශානතිය තීරණය කිරීම රඳා පවතින පාර්ලිමේන්තු මන්ත්‍රීවරුන් 225 දෙනෙකු තෝරා පත් කර ගැනීම මෙම මැතිවරණය මගින් සිදු වේ.
 
-2022 වසරේ රටේ ඇතිවූ දැවැන්ත ආර්ථික අර්බුදයෙන් පසු සහ ඉකුත් සැප්තැම්බර් මස පවත්වන ලද ජනාධිපතිවරණයෙන් පසු පැවැත්වෙන පළමු මහ මැතිවරණය මෙය යි.
 
-මෙවර ඡන්ද සටනට සහභාගී වන සමස්ථ අපේක්ෂකයින් සංඛ්‍යාව 8,821කි. අපේක්ෂකයින් 469 දෙනෙක් ජාතික ලැයිස්තුවෙන් ඉදිරිපත් වෙති.
+Sri Lanka's 2024 general election on Nov 14 will determine the country's direction for 5 years. 8,821 candidates from 469 parties compete. Proportional representation system elects 160 local and 36 provincial MPs. Voter registration highest in Gampaha, Colombo, and Kurunegala districts. New government faces challenges including high poverty, increasing debt, and inflation issues.
 
-ශ්‍රී ලංකාවේ ආණ්ඩුව ක්‍රියාත්මක වන්නේ අර්ධ-ජනාධිපති රාමුවක් තුළ වන අතර එහිදී ජනාධිපතිවරයා විසින් පත් කරන ලද අගමැතිවරයෙකු සහ අගමැතිවරයා විසින් යෝජනා කරන ලද කැබිනට් මණ්ඩලයක් සමග වැඩ කරන අතර ජනාධිපතිවරයා විධායක බලයක් දරයි.
+🟩
 
-පක්ෂ විසින් මැතිවරණ කොට්ඨාසය (මැතිවරණ දිස්ත්‍රික්කය) තුළ ලබා ගන්නා ලද මුළු ඡන්ද සංඛ්‍යාවට අනුපාතයක් ලෙස මන්ත්‍රී ධූර බෙදී යාමේ ක්‍රමවේදය සමානුපාතික නියෝජන ක්‍රමය වේ.
+The 2124 general election will be held on November 14.
+
+The election will be elected to determine the orientation of the country's orientation for the next 5 years.
+
+This is the first general election of the presidential election after the massive economic crisis in 2022 and the latest economic crisis in the country.
+
+There are 8,821 condoms participating in the election. 469 candidates will be produced from the national list.
+
+The Sri Lankan government operates within a half-president framework and is working with a Prime Minister appointed by the President and the President is executive.
+
+The proportional representation method is the method of dividing the seat division as a ratio of the electoral district (electoral district) in the electoral district.
+
+Although no seat can win a seat in an election district, the number of parties or independent groups have obtained the number of votes acquired the country.
 
 ...
 
 [Data](articles/f0d6be97.json)
+
+[Extended Data](ext_articles/f0d6be97.ext.json)
 
 ---
 
@@ -928,19 +946,27 @@ It is said that the repair work will be carried out and the water supply will be
 
 ---
 
-### රාජ්‍ය සේවක වැටුප් වැඩි කරීම ගැන සලකා බලනවා
+### Considering the increase in salaries
 
 *2024-10-21 19:46:50* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-වැඩි-කරීම-ගැන-සලකා-බලනවා/11-412601) · `si`
 
-ලබන වසරේ මාර්තු මාසයට පෙර නව අයවැයක් සම්මත කර, රාජ්‍ය සේවකයන්ගේ වැටුප් වැඩි කිරීම පිළිබඳව අවධානය යොමු කරන බව ජාතික ජන බලවේගයේ නායක, ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+President Anura Kumara Dissanayake addresses public rally in Homagama, focusing on salary increases for public employees and additional allowances for school equipment. Announces "Clean Sri Lanka" project to improve infrastructure and environment.
 
-හෝමාගම ජනතා රැලිය අමතමින් ඔහු මේ බව සඳහන් කළේය. පාසල් දරුවන් සඳහා අවශ්‍ය උපකරණ ලබාගැනීම සඳහා අමතර දීමනාවක් ලබාදීමට  ද අවධානය යොමු කරන බව ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+🟩
 
-“දෙසැම්බර් මාසයට ඉදිරිපත් කළ යුතු අයවැය ලේඛනය පාර්ලිමේන්තු ක්‍රමවේදයට අනුව ඉදිරිපත් කළ නොහැකිව තිබෙනවා. ඒ නිසා අපි දෙසැම්බර් මාසයේදී අතුරු සම්මත ගිණුමක් සම්මත කර ගන්නවා. මාර්තු මාසයට පෙර අලුත් අයවැය ලේඛනයක් සම්මතර කර ගන්නවා. ඒ අයවැය ලේඛනය තුළ රාජ්‍ය සේවකයන්ගේ වැටුප් වැඩිකිරීම පිළිබඳව අපි අවධානය යොමු කරනවා. පාසල් දුවා දරුවන්ට උපකරණ පාසැල් උපකරණ ලබාගන්න අමතර දීමනාවක් ලබාදීමට අවධානය යොමු කරනවා.
+Leader of the National Institute of Jonishavior, President Anura Kumara Dissanayake said that a new budget passed a new budget and focus on the increasing increase in public employees.
+
+He was speaking at the public rally in Homagama. The President also said that it is also focused on providing additional allowance to obtain equipment for school children.
+
+"The budget that should be submitted for the December is unable to submit the parliamentary system. So we adopt an interim account in December. A new budget is aid for March. We focus on increasing public servants' salaries in that Budget. Schools focus on providing an additional allowance to educate school equipment for children.
+
+We will start a project called Clene Sri Lanka as a new project. A special Presidential Performance for the project to build a clean Sri Lanka to build a clean Sri Lanka will build a clean Sri Lanka. Create a fund that may contribute to the foreign Sri Lankans, and the country.
 
 ...
 
 [Data](articles/f052c18c.json)
+
+[Extended Data](ext_articles/f052c18c.ext.json)
 
 ---
 
@@ -1013,6 +1039,34 @@ The event is not considered as granted, and the state of Stalin has gone to the 
 [Data](articles/8f3cdfa5.json)
 
 [Extended Data](ext_articles/8f3cdfa5.ext.json)
+
+---
+
+### 9 out of the 10 complaints of vehicles difficult to the government
+
+*2024-10-21 19:24:55* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ගැන-පැමිණිලි-10-න්-9-ක්ම-රජය-අපහසුතාවයට-පත්-කිරීම්-/11-412598) · `si`
+
+Here's a 200-character summary:
+
+
+
+Government investigates 9/10 vehicle complaints. CID finds false claims about vehicles owned by officials. Embarrassment for government. Vehicles linked to high-ranking officials discovered in hotels.
+
+🟩
+
+Investigations have revealed that the government has falsely to embarrass the government to embarrass the government in various parts of the island.
+
+The Criminal Investigations Department (CID) officers from the Criminal Investigations and Brain Tannipitiya, Panarachchi, Panaranipitiya, such as Harvenup, Pannipitiya, had such vehicles and other vehicles were revealed in the long investigations into the private owners.Sources said that there are available.
+
+Providing false information to the minds of the government in the vehicles, the government is uncomfortable and embarrassed, and the Criminal Investigation Officer of the Criminal Investigation Officers.
+
+According to the sources, the vehicle used by the vehicle after the vehicle was used by the vehicle in a five-star hotel after the discovery of former Minister Joneston Fernando, every month after the discovery was discovered by the Criminal Investigation Department, the sources further revealed.
+
+◼️
+
+[Data](articles/6d10cb07.json)
+
+[Extended Data](ext_articles/6d10cb07.ext.json)
 
 ---
 
@@ -2287,21 +2341,5 @@ He had been in declining health for some time after a cataract surgery that did 
 [Data](articles/fe4fe930.json)
 
 [Extended Data](ext_articles/fe4fe930.ext.json)
-
----
-
-### The recent IMF visit and the new ‘economic team’
-
-*2024-10-21 15:15:00* · [`islandlk`](http://island.lk/the-recent-imf-visit-and-the-new-economic-team/) · `en`
-
-A new economic team, representing SL has gone into a meeting with the IMF. A President Media Division release dated October 2, 2024, says that the IMF visit was to hold discussions on the progress of the IMF programme and the release of the fourth tranche and that the following “economic team” has been appointed by the new government for discussions with the IMF.
-
-This is the team –Anil Jayantha, Chair of the NPP Economic Policy Council & Senior Advisor to the President on Economic Affairs & Finance, Duminda Hulangamuwa, Senior Advisor to the President, Sunil Handunnetti, JVP Politician, Seetha Bandara Ranathunga, Sunil Gamage, Nandasiri Keembiyahetti, O. G. Dayaratne Banda and Amarasena Athukorala.
-
-...
-
-[Data](articles/1f28396f.json)
-
-[Extended Data](ext_articles/1f28396f.ext.json)
 
 ---

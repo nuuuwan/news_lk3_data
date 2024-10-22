@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 22:14:09**
+As of **2024-10-22 22:26:10**
 
 ## Newspaper Stats
 
-*Scraped **50,785** Articles*
+*Scraped **50,786** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 6,019
 tamilmirrorlk | 6,979
 virakesarilk | 8,146
-adaderanasinhalalk | 8,813
+adaderanasinhalalk | 8,814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,784 (100.0%) of 50,785 articles have been extended.
+50,786 (100.0%) of 50,786 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Coconut savation program launches
+
+*2024-10-22 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202440) · `si`
+
+Coconut Savation Program launched: Mobile marketing vehicle to address high consumer prices. Coconuts priced at Rs. 1000 each. Distributed through police stations and government offices. Implemented in major cities, covering all districts. Daily supply of 10,000 coconuts based on weekly demand.
+
+🟩
+
+Steps will be taken to start a mobile marketing vehicle from the Coconut Cultivation Board as a solution to the difficulty faced by the consumer prices.
+
+Sri Jayawardenuwa, Colombo, Colombo, Colombo, Colombo, Sri Jayawardene operations operates on the robbery of the Pura, Kaduwela Municipal Council bodies.
+
+The coconut bound will be given a cost of Rs. 1000 and per customers.
+
+It is to be distributed by the Welikada Police Station, Kirulapondana Police Station, Kirulapondana Police Station and Kirula Premons and Finance Ministry.
+
+The Coconut Distribution Mobile Program will be implemented near Welikada Police Ongoing and Nugegoda, Welikada Police Station and Nugegoda Ananda Samarakoon Outdoor Theater.
+
+The Sethsiripaya government office premises covering Kaduwela and Battaramulla areas have been approved by the Sethsiripaya government office premises and the Coconut Cultivation Board has facilitated the location of coconut.
+
+...
+
+[Data](articles/242d98b3.json)
+
+[Extended Data](ext_articles/242d98b3.ext.json)
+
+---
 
 ### Supreme Court to deliver decision on DNA’s petition tomorrow
 
@@ -45,6 +73,8 @@ After considering the facts presented from both parties, the Supreme Court point
 ...
 
 [Data](articles/1debf925.json)
+
+[Extended Data](ext_articles/1debf925.ext.json)
 
 ---
 
@@ -2477,29 +2507,5 @@ According to police, the body of a young man who died on a side road under the p
 [Data](articles/ecd9885d.json)
 
 [Extended Data](ext_articles/ecd9885d.ext.json)
-
----
-
-### Water supply at low pressure in many parts of Gampaha
-
-*2024-10-22 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196824) · `ta`
-
-Gampaha: Low-pressure water supply until 12pm Tuesday due to pipe failure affecting Wattala, Mabola, Ja-Ela, Katunayake-Seeduwa, Wattala, Piyagama, Mahara, Ja-Ela, Kandana, Minuwangoda areas.
-
-🟩
-
-The National Water Supply and Drainage Board said that the water supply will be supplied at low pressure till 12 noon on Tuesday (22).
-
-Accordingly, water will be distributed to the areas under the Wattala, Mabola, Ja-Ela and Katunayake-Seeduwa Urban Council and the areas under the Local Government Council of Wattala, Piyagama, Mahara, Ja-Ela, Kandana and Minuwangoda Local Government Council.
-
-Due to the sudden failure of the water supply pipe, the water is supplied at low pressure.
-
-Meanwhile, the National Water Supply and Drainage Board said that water supply has been blocked to various areas.
-
-◼️
-
-[Data](articles/a2b9b9f1.json)
-
-[Extended Data](ext_articles/a2b9b9f1.ext.json)
 
 ---

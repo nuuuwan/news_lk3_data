@@ -1,36 +1,80 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 17:40:44**
+As of **2024-10-22 18:00:52**
 
 ## Newspaper Stats
 
-*Scraped **50,751** Articles*
+*Scraped **50,754** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 409
 colombotelegraphcom | 509
-bbccomsinhala | 511
+bbccomsinhala | 512
 islandlk | 3,021
 economynextcom | 3,104
 dailyftlk | 3,458
 adalk | 4,714
 dailymirrorlk | 4,733
-adaderanalk | 6,015
+adaderanalk | 6,016
 tamilmirrorlk | 6,971
 virakesarilk | 8,136
-adaderanasinhalalk | 8,807
+adaderanasinhalalk | 8,808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,748 (100.0%) of 50,751 articles have been extended.
+50,754 (100.0%) of 50,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### 28 injured in head-on collision between two buses in Avissawella
+
+*2024-10-22 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102857/28-injured-in-head-on-collision-between-two-buses-in-avissawella) · `en`
+
+Two private passenger transported buses were involved in a head–on collision this afternoon (22) near the Dewrum Pitiya bend in the Avissawella police division, injuring around 28 people who were subsequently hospitalized.
+
+The injured persons have been admitted to the Avissawella Base Hospital, while it is reported that three of them are in critical condition.
+
+The collision had involved a private bus traveling from Colombo to Embilipitiya and another private bus plying from Ratnapura to Colombo.
+
+◼️
+
+[Data](articles/448e076e.json)
+
+[Extended Data](ext_articles/448e076e.ext.json)
+
+---
+
+### Sri Lankans in the United Arab Emirates
+
+*2024-10-22 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202434) · `si`
+
+Sri Lankan residents in UAE: Public season ends Oct 31, 2024. Exit certificates delayed. Temporary travel documents needed before Oct 25. Consulate assists visa-less Sri Lankans. Office committed to services during public season.
+
+🟩
+
+The public season of the United Arab Emirates is due to end on October 31, 2024, according to the Sri Lanka Consul General Office of Dubai.
+
+Therefore, as the UAE takes time to issue the exit certificate issued by the United Arab Emirates, Sri Lankans who do not have a valid passport or passport have been the temporary travel document that they want to go to Sri Lanka on or before the 25th of this month (TTD).Notice to come.
+
+During this public period, the Consulate's office has been committed to providing services to Sri Lankans who need assistance.
+
+Sri Lankans who stay in the United Arab Emirates have been prepared to be prepared for the United Arab Emirates without a valid visa without a valid visa.
+
+The Consul General's Office further requests the use of Sri Lankans who cannot be safely returned to Sri Lanka.
+
+◼️
+
+[Data](articles/86ae6757.json)
+
+[Extended Data](ext_articles/86ae6757.ext.json)
+
+---
 
 ### Sri Lanka ministry secretary to address BRICS leaders summit
 
@@ -800,6 +844,8 @@ Additional Director General of the Department of National Planning J M S D Rathn
 
 [Data](articles/50424074.json)
 
+[Extended Data](ext_articles/50424074.ext.json)
+
 ---
 
 ### Muddy Poster poster: Ranga ordered to arrest
@@ -1082,6 +1128,8 @@ The cabinet had approved the proposal by the Minister of Transport, Ports and Ci
 
 [Data](articles/f67e7b68.json)
 
+[Extended Data](ext_articles/f67e7b68.ext.json)
+
 ---
 
 ### The main resolutions that saved the Boston Globe Media of the United States
@@ -1158,7 +1206,11 @@ However, he stated that the government will conduct a new investigation into the
 
 He revealed this stance while speaking during the Cabinet press briefing in Colombo today (22).
 
-◼️
+Divulging the contents of a previously unreleased investigative committee report on the Easter Sunday attacks during a press conference yesterday (21), Gammanpila had claimed that former Senior DIG Ravi Seneviratne has been named as an accused in the report and called for his immediate removal from the post of Secretary to the Ministry of Public Security.
+
+He had also alleged that the report recommends filing criminal charges against former Senior DIG Ravi Seneviratne and former CID Director Shani Abeysekera for their failure to adequately perform their duties.
+
+...
 
 [Data](articles/f055aff0.json)
 
@@ -1211,6 +1263,36 @@ Q. No one will be appointed to a crime and commits legal action. Don't you think
 [Data](articles/b0abf344.json)
 
 [Extended Data](ext_articles/b0abf344.ext.json)
+
+---
+
+### Johnston Fernando: What did the Court have inquired about the car?
+
+*2024-10-22 11:11:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4grgl60dkdo) · `si`
+
+Court inquiry about car ownership in Hilton Hotel case involving former minister Johnston Fernando.
+
+🟩
+
+Johnston Fernando: What did the Court have inquired about the car?
+
+Former Minister Joneston Fernando informed the Court of Appeal today (October 22), the Criminal Investigations Department (CID) will be given to the investigation into the investigation of the Hilton Hotel.
+
+The petition filed by Johnston Fernando to issue an order to issue an order to issue an order in the incident.
+
+Johnston Fernando informed the court through his lawyer.
+
+This petition is Mohammed Lafar Thahaire and P. The Court of Appeal, Kumaran Ratnam was called before the judge.
+
+Attorney-at-Law Amila church court, Attorney-at-Law Amida's Court of Atila Palliyaduwa, the Criminal Investigation Department has filed a foreign travel ban against his clientSaid.
+
+The lawyer said that several statements have been made regarding this incident and that the vehicle ownership has a complex on the ownership of the vehicle.
+
+...
+
+[Data](articles/c94760e5.json)
+
+[Extended Data](ext_articles/c94760e5.ext.json)
 
 ---
 
@@ -1904,6 +1986,8 @@ ECONOMYNEXT – The International Monetary Fund was encouraged by Sri Lanka’s 
 
 [Data](articles/adcf450b.json)
 
+[Extended Data](ext_articles/adcf450b.ext.json)
+
 ---
 
 ### Helicopter crashes into radio tower in Houston, killing 4
@@ -2347,67 +2431,5 @@ Given the parliamentary election on 14 Movement 2024, the public can hear unique
 [Data](articles/b9aa80c8.json)
 
 [Extended Data](ext_articles/b9aa80c8.ext.json)
-
----
-
-### Hand recovery
-
-*2024-10-22 01:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைக்குண்டு-மீட்பு/175-345819) · `ta`
-
-Gun found at house in Ampara District. STF and forensic police investigating. Incident to be cleared on Tuesday.
-
-🟩
-
-A handgun was found on Monday evening at a house on Pasar 7th Road, Samanthurai, which belongs to the Samanthurai Police Division in Ampara District.
-
-Further investigations were carried out by the Special Task Force (STF) and the Criminal Forensic Police.
-
-Police said that the incident will be dismissed from the scene of the incident on Tuesday.. (A)
-
-◼️
-
-[Data](articles/824daac5.json)
-
-[Extended Data](ext_articles/824daac5.ext.json)
-
----
-
-### 2024-10-21 (Monday)
-
-### Lanka Corrugated Industries enters new era
-
-*2024-10-21 23:26:49* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Corrugated-Industries-enters-new-era/34-768242) · `en`
-
-Lanka Corrugated Industries Ltd. (LCI), a long-standing player in Sri Lanka’s packaging sector, said this week it is entering a new phase of growth with a substantial upgrade in capacity and technology.
-
-A Board of Investment (BOI)-approved venture, LCI has provided reliable, high-quality packaging solutions for over two decades.
-
-Originally founded by entrepreneur Sydney Gajanayake, the company is now gearing up to reshape the industry with state-of-the-art equipment sourced from China and Europe.
-
-The company’s new facility in Millaniya, Bandaragama, spans 10 acres with over 100,000 square feet of operational space. Equipped with an advanced corrugator line capable of producing 4,000 metric tons per month, LCI is poised to meet the growing demands of its clients with greater efficiency and precision.
-
-As part of its transformation journey, an industry veteran, Bannet Gamalath, joined LCI as a shareholder and Managing Director.
-
-...
-
-[Data](articles/340890af.json)
-
-[Extended Data](ext_articles/340890af.ext.json)
-
----
-
-### First-ever Sri Lanka Property Investment Forum in Australia on Friday by Home Lands
-
-*2024-10-21 23:03:08* · [`dailyftlk`](https://www.ft.lk/business/First-ever-Sri-Lanka-Property-Investment-Forum-in-Australia-on-Friday-by-Home-Lands/34-768241) · `en`
-
-The Home Lands Group of Companies is set to make history by becoming the first Sri Lankan developer to conduct a Property Investment Forum in Australia to create interest in residential investment options in Sri Lanka.
-
-The forum, to be held at Springvale City Hall in Melbourne on 25 October, is an invitees-only event expected to attract over 450 high-end investors.
-
-...
-
-[Data](articles/88033763.json)
-
-[Extended Data](ext_articles/88033763.ext.json)
 
 ---

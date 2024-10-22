@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 18:00:52**
+As of **2024-10-22 18:20:39**
 
 ## Newspaper Stats
 
-*Scraped **50,754** Articles*
+*Scraped **50,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,47 @@ dailyftlk | 3,458
 adalk | 4,714
 dailymirrorlk | 4,733
 adaderanalk | 6,016
-tamilmirrorlk | 6,971
-virakesarilk | 8,136
+tamilmirrorlk | 6,972
+virakesarilk | 8,146
 adaderanasinhalalk | 8,808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,754 (100.0%) of 50,754 articles have been extended.
+50,760 (100.0%) of 50,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### No more passport shortage - government
+
+*2024-10-22 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/196867) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Government addresses passport shortage: 42,000 available today, 100,000 in November. Previous delays blamed on supplier. Steps taken to rectify issues. No immediate rush needed. Measures to prevent future shortages.
+
+🟩
+
+Gradually a solution to the passport issue. Cabinet spokesman Vijitha Herath said that 42,000 passports will be available today and one lakh passports will be received in November.
+
+He further stated that when the Cabinet decisions were held on Tuesday (22), the Cabinet decisions were held.
+
+Passport issue is established by the last government. The company, which was supplied by that government, did not distribute passports in a timely manner. However, we have taken steps to address that problem.
+
+We are currently working to correct the mistake made by the last government. 7,500 passports were available last Saturday. 42,000 passports will be available on Wednesday. So people don't need to get riotous. There is currently no shortage of Kadavasi.
+
+...
+
+[Data](articles/220ce4ba.json)
+
+[Extended Data](ext_articles/220ce4ba.ext.json)
+
+---
 
 ### 28 injured in head-on collision between two buses in Avissawella
 
@@ -47,6 +75,30 @@ The collision had involved a private bus traveling from Colombo to Embilipitiya 
 [Data](articles/448e076e.json)
 
 [Extended Data](ext_articles/448e076e.ext.json)
+
+---
+
+### Problem in rescuing Sri Lankans joining the Russian army - government
+
+*2024-10-22 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196866) · `ta`
+
+Sri Lankan government seeks rescue of citizens joining Russian army unofficially. Ministry of Foreign Affairs engaged in diplomatic efforts. Rescue operations challenging due to illegal enlistment status.
+
+🟩
+
+As a Ministry of Foreign Affairs, we are paying attention to Sri Lankans joining the Russian Army. The government has said that they have been in a diplomatic approach to the issue as they have joined the unofficial army.
+
+Cabinet spokesman Vijitha Herath made this statement when the press conference announced on Tuesday (22).
+
+Former Army soldiers joined the Russian Army for employment opportunities. Most of the people who are thus have disappeared. In this regard, the Russian Ambassador in Sri Lanka has been in agreement.
+
+Accordingly, it has been requested that such people be re -incorporated into the Russian army and to provide information on the missing persons.. It is not easy to find out those who disappeared during the war. Today, that fierce war is taking place.
+
+...
+
+[Data](articles/86a485d0.json)
+
+[Extended Data](ext_articles/86a485d0.ext.json)
 
 ---
 
@@ -73,6 +125,56 @@ The Consul General's Office further requests the use of Sri Lankans who cannot b
 [Data](articles/86ae6757.json)
 
 [Extended Data](ext_articles/86ae6757.ext.json)
+
+---
+
+### Police Inspector arrested for murder
+
+*2024-10-22 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/196856) · `ta`
+
+Sri Lanka: Former police inspector arrested upon return for alleged involvement in colleague's murder. Accused linked to dispute with terrorist gang leader.
+
+🟩
+
+Former Police Inspector of the Ambalangoda Police Criminal Investigation Division, Thedimuni Balendrasinghe, was arrested at the Katunayake airport on Monday (21).
+
+He was arrested by the Department of Immigration and Criminal Investigation when he arrived in Sri Lanka from Sharjah on a Arabia flight.
+
+The 28 -year -old is a native of Ambalangoda, Kulikoda and Kaladapada.
+
+Police Inspector Temuni Balendrasinghe, who was on duty at the Ratgama Police Division on October 9 last year, was shot dead by two unidentified persons on a motorcycle while he was returning to the Balapitiya High Court.
+
+The murder was due to a dispute with Podi Lessi, the leader of a terrorist gang in the south, and it was revealed that the powder of Podi Timuthu, who was arrested yesterday, has been spying.
+
+◼️
+
+[Data](articles/b9aff91b.json)
+
+[Extended Data](ext_articles/b9aff91b.ext.json)
+
+---
+
+### New Officers Appointment to Treasury's High Management
+
+*2024-10-22 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196863) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Government appoints officials to Treasury's high management. New officers include Deputy Secretary, Director Generals, and Additional Director Generals. Appointments made based on proposals from Finance Minister Anura Kumara Dissanayake.
+
+🟩
+
+The government has decided to appoint authorities to the Treasury's higher management. Accordingly, the Cabinet has approved the new appointments according to the proposal submitted by President Anura Kumara Dissanayake as the Minister of Finance, Economic Development, Policy Class, Planning and Tourism.
+
+The Special Quality Officer of the Sri Lanka Accountant Service, who is currently serving as the Director General of the Treasury Activities Department, will be appointed as the Deputy Secretary of the Treasury as Deputy Secretary of the Treasury.The Cabinet has approved the appointment of TAP Abeesekera, a special officer of the Sri Lanka Planning Service, which serves as the Director General of the Department.
+
+...
+
+[Data](articles/903934f6.json)
+
+[Extended Data](ext_articles/903934f6.ext.json)
 
 ---
 
@@ -226,6 +328,34 @@ Police said that the reason for the attack was a personal dispute.
 
 ---
 
+### 'Single Palm Tree' won the International Film Awards in Tamil Nadu on the 25th of this month
+
+*2024-10-22 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196855) · `ta`
+
+"Single Palm Tree" wins award in Tamil Nadu. Directed by Puthivan Rasaya, starring Navan Rasiah and Nava Yuka. Won 15+ international film festival awards. Set in Tamil Eelam, based on true events. To release in Tamil Nadu theaters on 25th. Produced by RSS Pictures. Director confident of local support.
+
+🟩
+
+The movie 'Single Palm Tree', which plays the lead role in the role of the Navan Rasiah and the Nava Yuka, has screened more than fifteen awards at international film festivals.
+
+It has been officially announced that the film will be released in Tamil Nadu theaters on the 25th.
+
+Internationally attracted internationally, director Puthivan Rasaya has starred in the film 'Single Palm Tree' and starred in the film 'Single Palm Tree'.
+
+Ashwamitra has composed the film, which has been recorded by Mahinda Abeysinghe. The film is being produced by RSS Pictures, which has been produced by S Tanika Vale.
+
+Commenting on the film, the director said, “The screenplay of the 'Single Palm Tree' has been created in the Tamil Eelam field, which focuses on the fact that the people are meeting in the contemporary time.
+
+The film, which is based on true events, has been screened at international film festivals and won 17 awards. We are confident that the film will be supported by the people of Tamil Nadu. ”
+
+◼️
+
+[Data](articles/a8c27b58.json)
+
+[Extended Data](ext_articles/a8c27b58.ext.json)
+
+---
+
 ### Rs.. China helped 30 million
 
 *2024-10-22 16:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-30-மில்லியனை-உதவி-செய்தது-சீனா/175-345862) · `ta`
@@ -249,6 +379,68 @@ Due to the recent heavy rains, many districts flooded. Thousands of families hav
 [Data](articles/3d2b919f.json)
 
 [Extended Data](ext_articles/3d2b919f.ext.json)
+
+---
+
+### Surya starring 'Ganguva' starring Surya
+
+*2024-10-22 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196854) · `ta`
+
+Surya stars in "Ganguva" alongside Disha Patani, Bobby Deol, and Yogi Babu. Directed by Siva, composed by Devi Sri Prasad. Song "Kiss Me" lyrics by Viveka, music by Devi Sri Prasad and Lapido Lobo. Released with English and Tamil words.
+
+🟩
+
+Actor Surya, who is trying to rise as an Indian star, has been released in the movie 'Yo Lo' in the movie 'Gangua' and the lyrical video for the song.
+
+Surya, Disha Patani, Bobby Deol, Yogi Babu and many others have starred in the film 'Gangua' directed by director Siva.. The film has been composed by 'Rockstar' Devi Sri Prasad.
+
+Producer K.. E.. Gnanvel Raja -Vamsi -Pramod has co -produced.
+
+The Holt M.. Huck m.. The song that starts with Kiss Me .. and the lyrical video for the song has been released.
+
+The song was written by songwriter Viveka, playback singer and composer Devi Sri Prasad and Lapido Lobo.
+
+The song has been released with the words of Rockstar Devi Sri Prasad's exclusive throbbing, with English and Tamil words.
+
+Within a short time of the song, more than four million viewers were visited and achieved.
+
+◼️
+
+[Data](articles/db6c53c2.json)
+
+[Extended Data](ext_articles/db6c53c2.ext.json)
+
+---
+
+### சாதனை படைத்து வரும் நடிகர் துல்கர்  சல்மானின் 'லக்கி பாஸ்கர்' பட முன்னோட்டம்
+
+*2024-10-22 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196851) · `ta`
+
+தென்னிந்திய திரையுலகின் முன்னணி நட்சத்திர நடிகரான துல்கர் சல்மான் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'லக்கி பாஸ்கர்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. இந்த முன்னோட்டம் வெளியான குறுகிய கால அவகாசத்திற்குள் இரண்டு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.
+
+இயக்குநர் வெங்கி அட்லூரி இயக்கத்தில் உருவாகி இருக்கும் 'லக்கி பாஸ்கர்' எனும் திரைப்படத்தில் துல்கர் சல்மான், மீனாட்சி சவுத்ரி, ஆயிஷா கான், ஹைபர் ஆதி, சாய் குமார், சச்சின் கடேகர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். நிமிஷ் ரவி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார்.
+
+இந்தத் திரைப்படத்தை சித்தாரா என்டர்டெய்ன்மெண்ட்ஸ் மற்றும் ஃபார்ச்சூன் ஃபோர் சினிமாஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது. மேலும் இந்த திரைப்படத்தை ஸ்ரீ கரா ஸ்டுடியோஸ் வழங்குகிறது.
+
+...
+
+[Data](articles/8c5faab5.json)
+
+---
+
+### நடிகர் ஆர். ஜே. பாலாஜி நடிக்கும் 'சொர்க்க வாசல்' படத்தின் கிளர்வோட்டம்  வெளியீடு
+
+*2024-10-22 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196852) · `ta`
+
+தொகுப்பாளரும், துடுப்பாட்ட வர்ணனையாளரும் , நடிகரும் , இயக்குநருமான ஆர். ஜே. பாலாஜி கதையின் நாயகனாக உணர்வுபூர்வமான கதாபாத்திரத்தில் நடித்திருக்கும் 'சொர்க்கவாசல்' எனும் திரைப்படத்தின் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+அறிமுக இயக்குநர் சித்தார்த் விஸ்வநாத் இயக்கத்தில் உருவாகி இருக்கும் 'சொர்க்க வாசல்' எனும் திரைப்படத்தில் ஆர். ஜே. பாலாஜி, செல்வ ராகவன், நட்டி என்கிற நட்ராஜ், சானியா ஐயப்பன், ஷஃரப் உதீன், ஹக்கீம் ஷா, பாலாஜி சக்திவேல், கருணாஸ், ரவி ராகவேந்திரா, அந்தோணி தாசன், சாமுவேல் ஜான்சன், மவுரிஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+பிரின்ஸ் ஆண்டர்சன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கிறிஸ்டோ சேவியர் இசையமைத்திருக்கிறார். சிறைச்சாலை மற்றும் சிறை கைதிகளின் வாழ்வியலை உணர்வு பூர்வமாக விவரிக்கும் இந்த திரைப்படத்தை ஸ்வைப் ரைட் ஸ்டுடியோஸ் மற்றும் திங்க் ஸ்டுடியோஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சித்தார்த் ராவ் மற்றும் பல்லவி சிங் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/d2cc8ff4.json)
 
 ---
 
@@ -311,6 +503,24 @@ Foreign buying was seen on JKH, Commercial Bank voting (down at 108.25), Sampath
 [Data](articles/c342702b.json)
 
 [Extended Data](ext_articles/c342702b.ext.json)
+
+---
+
+### 50 துப்பாக்கிகள் மாத்திரமே மீளக் கையளிப்பு
+
+*2024-10-22 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196845) · `ta`
+
+கடந்த காலங்களில் பொதுமக்களுக்கு பாதுகாப்புக்கு வழங்கப்பட்ட துப்பாக்கிகளில் சுமார் 50 துப்பாக்கிகளே கையளிக்கப்பட்டுள்ளதாக பாதுகாப்பு அமைச்சின் வட்டாரங்கள் தெரிவிக்கின்றன.
+
+பொதுமக்களுக்கு வழங்கப்பட்ட துப்பாக்கிகள் மற்றும் வெடிபொருட்களை எதிர்வரும் நவம்பர் மாதம் 7ஆம் திகதிக்கு முன்னர் ஒப்படைக்குமாறு அரசாங்கம் அண்மையில் அறிவித்திருந்தது.
+
+துப்பாக்கிகள் மற்றும் வெடிபொருட்கள் வெலிசறையில் உள்ள அரசாங்கத்தின் வர்த்தக வெடிபொருள் களஞ்சியசாலையில் ஒப்படைக்கப்பட வேண்டும் என தெரிவித்துள்ளது.
+
+உரிய திகதிக்கு முன்னர் துப்பாக்கிகள் மற்றும் வெடிமருந்துகளை ஒப்படைக்காவிட்டால் சட்ட நடவடிக்கை எடுக்கப்படும் என பாதுகாப்பு அமைச்சு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/21201841.json)
 
 ---
 
@@ -459,6 +669,24 @@ When a request made by two petitions filed by two members of the Socialist Youth
 [Data](articles/61f5d0c5.json)
 
 [Extended Data](ext_articles/61f5d0c5.ext.json)
+
+---
+
+### கிழக்கு கொள்கலன் முனையக் கருத்திட்டத்தை விசேட கருத்திட்டமாக பிரகடனப்படுத்த அரசாங்கம் தீர்மானம்
+
+*2024-10-22 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196846) · `ta`
+
+இலங்கை துறைமுக அதிகாரசபையால் கொழும்பு தெற்கு துறைமுகக் கருத்திட்டத்தின் கிழக்குக் கொள்கலன் முனையத்தை கட்டம் கட்டமாக அபிவிருத்தி செய்வதற்கு துறைமுக அதிகாரசபைக்கு முழுமையான உரித்துடன் கூடிய கொள்கலன் முனையமாக இயக்குவதற்கு கடந்த 2021 பெப்ரவரி முதலாம் திகதி இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+அதற்கமைய, குறித்த சிவில் வேலைகளுக்கான ஒப்பந்தம் தற்போது வழங்கப்பட்டுள்ளதுடன், அந்த கொள்கலன் முனையத்திற்குத் தேவையான பாரந்தூக்கிகளைக் கொள்வனவு செய்வதற்கான பெறுகையும் தற்போது வழங்கப்பட்டுள்ளது.
+
+கொழும்பு துறைமுகத்தின் தனியார் கொள்கலன் இயக்குபவர்கள் மற்றும் சேவை வழங்குநர்களுக்கு மூலோபாய அபிவிருத்திச் சட்டம் மற்றும் முதலீட்டு சபைச் சட்டத்தின் கீழ் காணப்படும் பல்வேறுபட்ட வரிச் சலுகைகள் வழங்கப்பட்டுள்ளன.
+
+குறித்த விடயங்களைக் கருத்தில் கொண்டு கிழக்கு கொள்கலன் முனையக் கருத்திட்டத்தை 'விசேட கருத்திட்டமாக' நிதி விடயதான அமைச்சரால் வெளியிடுவதற்காக போக்குவரத்து, அதிவேக வீதி, துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சர் சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/894a38b4.json)
 
 ---
 
@@ -2175,261 +2403,5 @@ Source: IMF Country Report No. 23/116, March 2023, Calculated by the author of t
 [Data](articles/d151bdb5.json)
 
 [Extended Data](ext_articles/d151bdb5.ext.json)
-
----
-
-### Heavy rains in several areas
-
-*2024-10-22 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202415) · `si`
-
-Heavy rains expected in Western, Sabaragamuwa, Southern, and Northern provinces today. Showers/thundershowers possible in Kandy and Nuwara Eliya districts. Public advised to take precautions against lightning and strong winds.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and Northern provinces today (22) in general area Kandy and Nuwara Eliya districts.
-
-The department states that the department states in some places in the Western, Sabaragamuwa, South and Northern provinces. Heavy rains can be raining more than 50.
-
-The Department of Meteorology announces that showers or thundershowers at night in the evening or night in other parts of the island.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/41038cf6.json)
-
-[Extended Data](ext_articles/41038cf6.ext.json)
-
----
-
-### Clection, based on evidence to the Presidential Commission?
-
-*2024-10-22 03:37:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1484lz44rko) · `si`
-
-Based on the information provided, it seems there may be some confusion or misinformation in the text regarding the Presidential Commission of Inquiry and its relationship with the judiciary and prosecution. Let me clarify some key points:
-
-
-
-1. Presidential Commissions of Inquiry in Sri Lanka are investigative bodies appointed by the President to inquire into specific matters. They are not judicial bodies and cannot issue criminal charges or prosecute individuals.
-
-
-
-2. The commissions can make recommendations based on their investigations, but these recommendations are advisory and not legally binding.
-
-
-
-3. The Attorney General's Department has the authority to decide whether to prosecute based on evidence presented to the commission. However, this does not mean the commission itself can prosecute.
-
-
-
-4. There is a separate legal process for prosecuting crimes, involving the police, courts, and the Attorney General's Department.
-
-
-
-5. The commissions are meant to investigate and report findings to the President, who may then take action based on those findings.
-
-
-
-Regarding the specific cases mentioned:
-
-
-
-- The Paskarealingam case: The Supreme Court ruled against the commission's recommendation due to procedural issues, not because the commission could prosecute.
-
-
-
-- The Wijayapala Mendis case: The Supreme Court found the commission did not have proper evidence and lacked legal authority.
-
-
-
-- The Sirisena Cooray case: The Supreme Court ruled against the commission's findings due to procedural errors.
-
-
-
-- The cases involving Ranil Wickremesinghe, Anura Kumara Dissanayake, etc.: The Court of Appeal upheld the right to challenge the commission's recommendations.
-
-
-
-In summary, while presidential commissions can make recommendations, they do not have the power to prosecute individuals or issue legally binding judgments. Any prosecution would need to go through separate legal channels involving the police, courts, and the Attorney General's Department.
-
-🟩
-
-Clection, based on evidence to the Presidential Commission?
-
-The appointment of a report on the Passover Committee on the attack has been reached.
-
-As soon as a controversial event has a controversial event, the appointment of the investigation commissions are common.
-
-Is there an effective role in the instanding investigations in the country?It is questionable.
-
-Some people allege that the Commission will appoint these tests to calm the masses under the problem.
-
-There are other allegations that the information revealed in such commissions have been tempted to carry out the legal functions and their efforts and time and money.
-
-Accordingly, the conclusions and recommendations issued by the Presidential Commission of Initance Commission established in the country have a number of occasions as well as the judiciary of the judiciary.This is about this.
-
-...
-
-[Data](articles/968718fb.json)
-
-[Extended Data](ext_articles/968718fb.ext.json)
-
----
-
-### Foreign Ministry says SL a signatory to Joint Letter supporting UN Secretary-General
-
-*2024-10-22 02:13:11* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Ministry-says-SL-a-signatory-to-Joint-Letter-supportingUN-Secretary-General/56-768266) · `en`
-
-The Foreign Affairs Ministry yesterday said Sri Lanka is a signatory to the Joint Letter supporting the UN Secretary-General, in response to the recent declaration by the Israel Foreign Affairs Minister designating the UN Secretary-General as “persona non grata”.
-
-It said, by note verbale dated 11 October 2024, Sri Lanka conveyed its desire to be a signatory to the Letter supporting the UN Secretary-General to the Permanent Mission of Chile in New York, which coordinated the Joint Letter.
-
-The Foreign Affairs Ministry was responding to recent reports to the contrary.
-
-It said Sri Lanka has continued its long-standing and unwavering support for the Palestinian cause and has expressed solidarity with the Palestinian people throughout the years. Sri Lanka has voiced serious concerns regarding the current dire humanitarian situation in Gaza at multiple multilateral fora and supported the call for an immediate ceasefire.
-
-...
-
-[Data](articles/5b34ff26.json)
-
-[Extended Data](ext_articles/5b34ff26.ext.json)
-
----
-
-### Petition filed against holding election on 14 Nov.
-
-*2024-10-22 02:11:02* · [`dailyftlk`](https://www.ft.lk/news/Petition-filed-against-holding-election-on-14-Nov/56-768265) · `en`
-
-Activist and ‘Api Sri Lanka’ National Organisation Convenor Priyantha Herath yesterday filed a petition before the Supreme Court seeking a ruling that the decision to hold Parliamentary elections on 14 November is unconstitutional.
-
-The respondents named in the petition include the Attorney General, the President’s Secretary, the Election Commission Chairman, and other relevant members representing the President.
-
-...
-
-[Data](articles/8cb89436.json)
-
-[Extended Data](ext_articles/8cb89436.ext.json)
-
----
-
-### Peaceful protest seeking justice for Easter terror attack
-
-*2024-10-22 02:10:11* · [`dailyftlk`](https://www.ft.lk/news/Peaceful-protest-seeking-justice-for-Easter-terror-attack/56-768264) · `en`
-
-A peaceful protest took place at the Baldi Junction, along the Katuwapitiya Road in Negombo yesterday, with demonstrators urging the Government to deliver justice for the victims of the Easter Sunday terrorist attack.
-
-Catholic clergy, activists, and residents carried placards questioning the role of intelligence agencies in the incident and reminding President Anura Kumara Dissanayake of his promise to ensure justice for those affected.
-
-◼️
-
-[Data](articles/3f3028e3.json)
-
-[Extended Data](ext_articles/3f3028e3.ext.json)
-
----
-
-### The Ceylon Chamber’s SLIBC leads Business Promotion Mission to Indonesia
-
-*2024-10-22 02:08:29* · [`dailyftlk`](https://www.ft.lk/business/The-Ceylon-Chamber-s-SLIBC-leads-Business-Promotion-Mission-to-Indonesia/34-768263) · `en`
-
-The Sri Lanka-Indonesia Business Council (SLIBC) of The Ceylon Chamber of Commerce successfully conducted a Business Promotion Mission to Indonesia from 6 October to 11 October 2024.
-
-The missions’ primary aim was to strengthen trade, investment, and business ties between Sri Lanka and Indonesia, while exploring opportunities for collaboration in key industries. The delegation comprised 14 Sri Lankan business professionals representing diverse sectors, including food & beverage, logistics, pharmaceuticals, apparel, travel, IT, and recreation industries. The mission was led by SLIBC President Vish Govindasamy and Vice President D. S. Wickramasingha.
-
-...
-
-[Data](articles/e0e650dc.json)
-
-[Extended Data](ext_articles/e0e650dc.ext.json)
-
----
-
-### Sri Lanka Institute of Directors appoints Anitra Perera as CEO
-
-*2024-10-22 02:06:36* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Institute-of-Directors-appoints-Anitra-Perera-as-CEO/34-768262) · `en`
-
-The Sri Lanka Institute of Directors (SLID) recently announced the appointment of Anitra Perera as its new Chief Executive Officer (CEO), effective September 2024. With a distinguished career in education, strategic consulting, and leadership, Perera brings a wealth of experience that will be instrumental in advancing the mission of SLID.
-
-...
-
-[Data](articles/08150eb7.json)
-
-[Extended Data](ext_articles/08150eb7.ext.json)
-
----
-
-### General Election 2024: Know this after the vote
-
-*2024-10-22 01:44:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwyl99vj23vo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's 2024 general election on Nov 14 will determine the country's direction for 5 years. 8,821 candidates from 469 parties compete. Proportional representation system elects 160 local and 36 provincial MPs. Voter registration highest in Gampaha, Colombo, and Kurunegala districts. New government faces challenges including high poverty, increasing debt, and inflation issues.
-
-🟩
-
-The 2124 general election will be held on November 14.
-
-The election will be elected to determine the orientation of the country's orientation for the next 5 years.
-
-This is the first general election of the presidential election after the massive economic crisis in 2022 and the latest economic crisis in the country.
-
-There are 8,821 condoms participating in the election. 469 candidates will be produced from the national list.
-
-The Sri Lankan government operates within a half-president framework and is working with a Prime Minister appointed by the President and the President is executive.
-
-The proportional representation method is the method of dividing the seat division as a ratio of the electoral district (electoral district) in the electoral district.
-
-Although no seat can win a seat in an election district, the number of parties or independent groups have obtained the number of votes acquired the country.
-
-...
-
-[Data](articles/f0d6be97.json)
-
-[Extended Data](ext_articles/f0d6be97.ext.json)
-
----
-
-### Falling of primary inflation
-
-*2024-10-22 01:31:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதன்மை-பணவீக்கம்-வீழ்ச்சி/175-345820) · `ta`
-
-Primary inflation falls: National Consumer Price Index drops from 1.1% to 0.2%, food inflation decreases from 2.3% to 0.5%. Report cites Department of Value and Statistics.
-
-🟩
-
-National Consumer Price -based primary inflation fell last September.
-
-This was stated in a renewed report issued by the Department of Value and Statistics.
-
-Accordingly, the National Consumer Price Index, which was 1.1 per cent in August, fell to 0.2 per cent in September.
-
-Meanwhile, food inflation, which recorded 2.3 per cent in August, fell to 0.5 per cent in September.
-
-Food inflation was recorded at 0.2 per cent last August. It was recorded in September 0.7 per cent in the report of the Department of Statistics and Statistics. (A)
-
-◼️
-
-[Data](articles/ee1e192b.json)
-
-[Extended Data](ext_articles/ee1e192b.ext.json)
-
----
-
-### Irrational Behaviour Of RW & MR Vs Rational Behaviour Of AKD
-
-*2024-10-22 01:26:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/irrational-behaviour-of-rw-mr-vs-rational-behaviour-of-akd/) · `en`
-
-As a well-educated veteran politician who has served in parliament for nearly 50 years and has been the leader of UNP for a long time, the public expects that Ex-President Ranil Wickremesinghe (RW) will behave and respond rationally. The above can also be well applied to Ex-President MR. However, this article shows that their irrational behavior can be compared with the rational behavior of President Anura Kumara Dissanayake (AKD). Along with 50 years in politics, RW and MR failed to achieve political maturity in the right direction that the President/AKD achieved within 20 years of politics; the young politicians who follow AKD can learn all. But those who follow RW and MR are lost.
-
-Given the parliamentary election on 14 Movement 2024, the public can hear unique and surprising things about politics, particularly from political rallies. This article aims to discuss a few of the above so that voters can better understand whom to cast their votes for.
-
-...
-
-[Data](articles/b9aa80c8.json)
-
-[Extended Data](ext_articles/b9aa80c8.ext.json)
 
 ---

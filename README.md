@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 10:58:16**
+As of **2024-10-22 11:11:21**
 
 ## Newspaper Stats
 
-*Scraped **50,685** Articles*
+*Scraped **50,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,458
 adalk | 4,708
 dailymirrorlk | 4,733
 adaderanalk | 6,003
-tamilmirrorlk | 6,953
+tamilmirrorlk | 6,955
 virakesarilk | 8,129
 adaderanasinhalalk | 8,797
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 8,797
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,685 (100.0%) of 50,685 articles have been extended.
+50,687 (100.0%) of 50,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### “I will quit politics if proven”
+
+*2024-10-22 10:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிரூபிக்கப்பட்டால்-அரசியலில்-இருந்து-விலகுவேன்/175-345834) · `ta`
+
+Former Minister Rohitha Abeygunawardena denies involvement in seized luxury vehicles. He vows to quit politics if proven guilty. Claims innocence, shifts blame to relatives. Threatens to withdraw from upcoming election if found responsible.
+
+🟩
+
+Former Minister Rohitha Abeygunawardena has said that he will quit politics if he is proven to be involved with two recently seized luxury vehicles.
+
+Commenting on the media, Rohitha Abeygunawardena denied that the vehicles had nothing to do with him.
+
+“I am not involved in politics for corruption and fraud. If such incidents happen, I would like to talk about the truth after finding the truth. ”
+
+He said that the vehicles are now the brother -in -law's brother's brother, saying, “If a partner is wrong, is it my fault?Should I take responsibility? "
+
+Rohitha Abeygunawardena added that if he had done wrong, he would make allegations against him.
+
+The former minister said he would withdraw from politics and quit the nomination in the upcoming parliamentary election if he was proven to be involved in the two luxury vehicles.
+
+He made this statement after the Kandy Criminal Investigation Division recently invented a BMW and a Luxury SUV vehicle in a vehicle parking lot in Anivatta, Kandy.
+
+...
+
+[Data](articles/e7120404.json)
+
+[Extended Data](ext_articles/e7120404.ext.json)
+
+---
+
+### Death of Lohan's Secretary;Trial
+
+*2024-10-22 10:38:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-செயலாளர்-மரணம்-CID-யிடம்-சென்ற-விசாரணை/175-345833) · `ta`
+
+Former Secretary of State Lohan Ratwatta's personal secretary found dead at party office. Suicide suspected, case handed to Criminal Investigation Department due to public interest.
+
+🟩
+
+Investigations into the death of former Secretary of State Lohan Ratwatta have been handed over to the Criminal Investigation Department.
+
+At the party's office of former Minister of State in Katugastota, Kandy, his personal secretary BMAS. Basnayake (50 years old) was recovered.
+
+In it, he said, “He has been treated for months due to pain but has not healed. I was treated with many doctors. But not worthless. My depression severely affects me, so I can no longer bear this pain.
+
+So I decided to leave my life. I would love to end my funeral soon, ”the letter said.
+
+According to preliminary inquiries, it has been confirmed that it is suicide, but since it is a heavily spoken incident in the community, further investigations have been handed over to the Criminal Investigation Department, a senior police official said that it was handed over to the Criminal Investigation Department.. Remble
+
+◼️
+
+[Data](articles/0cc51270.json)
+
+[Extended Data](ext_articles/0cc51270.ext.json)
+
+---
 
 ### What is the position of the Church on the report?
 
@@ -2359,57 +2415,5 @@ Issued in response to the media reports alleging that vehicles provided to ex-Pr
 [Data](articles/614b557b.json)
 
 [Extended Data](ext_articles/614b557b.ext.json)
-
----
-
-### Vanniwilangulam Knights
-
-*2024-10-21 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196790) · `ta`
-
-Heroes Day preparations underway at Vannivilangulam Knights Home, Mullaitivu District, 2024.11.27. Organized by Wanniwilangulam Hero Home Working Committee, Task Force responsible for arrangements.
-
-🟩
-
-The work of the Heroes Day is being carried out at the Vannivilangulam Knights Home in the Mullaitivu District, 2024.11.27.
-
-This difficult task has been commenced under the arrangement of the Wanniwilangulam Hero Home Home Working Committee.
-
-It is noteworthy that this year, the work of the Heroes' Day, 2024.11.27, all the arrangements are being made by the Task Force, which has begun as an early stage.
-
-◼️
-
-[Data](articles/239dd8b2.json)
-
-[Extended Data](ext_articles/239dd8b2.ext.json)
-
----
-
-### Livestock Health Certificate is essential when carrying pigs
-
-*2024-10-21 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196795) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Livestock Health Certificate now mandatory for pig transport due to Porcine Reproductive and Respiratory Syndrome outbreak. Farm owners must obtain certificate from vet before moving pigs. Violators face strict penalties.
-
-🟩
-
-The Department of Livestock Production and Health has decided to make it mandatory for cattle health certificates while transporting pigs.
-
-The resolution has been taken on the spread of a viral infection called 'Porcine Reproductive and Respiratory Syndrome' among pigs in the country.
-
-Director General of the Department of Livestock Production and Health, Dr. Hemali Kotalawala said,
-
-It is mandatory for farm owners to obtain a livestock certificate from their respective veterinary doctors.
-
-Carrying pigs without proper health certificate is strictly prohibited. This will ensure that pigs protect the virus from the disease.
-
-◼️
-
-[Data](articles/bc5397e8.json)
-
-[Extended Data](ext_articles/bc5397e8.ext.json)
 
 ---

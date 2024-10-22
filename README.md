@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 14:25:30**
+As of **2024-10-22 14:39:28**
 
 ## Newspaper Stats
 
-*Scraped **50,718** Articles*
+*Scraped **50,719** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,097
 dailyftlk | 3,458
 adalk | 4,712
 dailymirrorlk | 4,733
-adaderanalk | 6,008
+adaderanalk | 6,009
 tamilmirrorlk | 6,961
 virakesarilk | 8,136
 adaderanasinhalalk | 8,801
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,718 (100.0%) of 50,718 articles have been extended.
+50,719 (100.0%) of 50,719 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,24 @@ The US dollar purchasing price was 288.6592 rupees and the sales price were 297.
 [Data](articles/027f6179.json)
 
 [Extended Data](ext_articles/027f6179.ext.json)
+
+---
+
+### Sri Lanka to obtain $30 mln loan from ADB for Moragolla hydropower project
+
+*2024-10-22 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102850/sri-lanka-to-obtain-30-mln-loan-from-adb-for-moragolla-hydropower-project) · `en`
+
+The Cabinet of Ministers has approved the proposal to obtain a loan of US$ 30 million from the general capital resources of the Asian Development Bank (ADB), directly to the Ceylon Electricity Board (CEB) in two instalments, for the completion of the Moragolla hydropower project.
+
+Cabinet Spokesman Minister Vijitha Herath stated that considering the current economic crisis in Sri Lanka, the ADB has agreed to grant US$ 30 million from its general capital resources under small cost financial facilities for the completion of construction and post-construction activities of the Moragolla hydroelectric project and for the implementation of complementary projects targeted at the development of renewable energy.
+
+Accordingly, the Cabinet of Ministers has agreed to the proposal presented by the President, in his capacity as the Minister of Power and Energy, to obtain the said loan amount directly for the Ceylon Electricity Board in two instalments, he said.
+
+◼️
+
+[Data](articles/91c4e2e6.json)
+
+[Extended Data](ext_articles/91c4e2e6.ext.json)
 
 ---
 
@@ -2349,31 +2367,5 @@ The petition further points out that according to the Parliamentary Elections Ac
 [Data](articles/c79a91f9.json)
 
 [Extended Data](ext_articles/c79a91f9.ext.json)
-
----
-
-### Revelation on rejected postal voting applications
-
-*2024-10-21 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202410) · `si`
-
-Elections Commission reports 21,160 rejected postal voting apps out of 759,200 submitted. 738,050 accepted. Increase of 25,731 postal votes from previous election. Postal ballots issued on 23rd. Official ballot papers distribution set for 26th. Candidates meeting scheduled for 27th at Colombo District Secretariat. Political party representatives notified.
-
-🟩
-
-The Elections Commission says that 21,160 applications have been rejected by the postal voting applications presented this year.
-
-Its Chairman. Rathnayake said that 759,200 postal voting applications had come forward for the general election.
-
-Postal voting applications have been completed.
-
-Chairman of Elections Commissioner Chairman of the Election of Elections. Ratnayake,
-
-"Postal voting applications have been completed. The total postal voting applications received 759,210. 738,050 have been accepted. There is an increase of 25,731 postal votes than the last presidential election. Issuing postal ballots is carried out on the 23 23rd. Also, this month has been sentenced to the 26th of the issue of official ballot papers. Also, the number of candidates who come to the competition have been made at the Head of Colombo District Secretariat tomorrow. Representatives of the authorized representatives and groups of all political parties have already been informed. "
-
-◼️
-
-[Data](articles/d5eb9418.json)
-
-[Extended Data](ext_articles/d5eb9418.ext.json)
 
 ---

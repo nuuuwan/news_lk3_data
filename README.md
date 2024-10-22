@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 10:12:47**
+As of **2024-10-22 10:39:28**
 
 ## Newspaper Stats
 
-*Scraped **50,677** Articles*
+*Scraped **50,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 510
 islandlk | 3,021
 economynextcom | 3,093
 dailyftlk | 3,458
-adalk | 4,707
+adalk | 4,708
 dailymirrorlk | 4,733
 adaderanalk | 6,002
-tamilmirrorlk | 6,950
+tamilmirrorlk | 6,951
 virakesarilk | 8,127
 adaderanasinhalalk | 8,796
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,796
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,677 (100.0%) of 50,677 articles have been extended.
+50,679 (100.0%) of 50,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Re -headed scholarship examination
+
+*2024-10-22 10:16:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தலைதூக்கும்-புலமைப்பரிசில்-பரீட்சை-விவகாரம்/175-345828) · `ta`
+
+High Court petition challenges decision to award full marks to all students in Grade 5 scholarship exam over controversial questions. Petitioners claim it violates basic human rights and could negatively impact students' future prospects.
+
+🟩
+
+A fundamental rights petition has been filed in the High Court demanding the cancellation of the resolution taken to issue a full score of three questions.
+
+The petition was submitted by a group of students and their parents who examined the exam from the Badulla district.
+
+The Commissioner General of Examinations, Education Minister Harini Amarasuriya, Deputy Inspector General of Police in charge of the Criminal Investigation Department and the Attorney General have been referred to as defendants of the petition.
+
+Petitioners have said that the students who appeared for the exam have been unjust due to alleged incident in the first section of the Grade 5 scholarship examination of the Grade 5 scholarship examination.
+
+...
+
+[Data](articles/ad8ed499.json)
+
+[Extended Data](ext_articles/ad8ed499.ext.json)
+
+---
 
 ### Bribery Commission receives over 3,000 complaints in first 9 months of 2024
 
@@ -73,6 +97,26 @@ Five people have been killed following explosion of a cylinda in the Bulndyasar 
 [Data](articles/3bfa22bb.json)
 
 [Extended Data](ext_articles/3bfa22bb.ext.json)
+
+---
+
+### Ajith Ariyaratne passes away my mind
+
+*2024-10-22 08:58:09* · [`adalk`](https://www.ada.lk/breaking_news/තනිවෙන්න-ඉඩ-දෙන්න-මටයි-මගේ-හිතටයි-කියු-අජිත්-ආරියරත්න-අභාවප්‍රාප්ත-වෙයි/11-412604) · `si`
+
+Ajith Ariyaratne, 59, sentenced to death. He said: "I'll be alone," "I'm my mind." Known for song "Throughout the Heart."
+
+🟩
+
+He was 59 years old when he was sentenced to death.
+
+He said, "I will be alone ',' I am my mind ',' I have a popular songs like 'throughout the heart'.
+
+◼️
+
+[Data](articles/00e3860d.json)
+
+[Extended Data](ext_articles/00e3860d.ext.json)
 
 ---
 
@@ -2379,49 +2423,5 @@ Charles is the head of the Commonwealth, Australia, but debates on the Republic 
 [Data](articles/7054a466.json)
 
 [Extended Data](ext_articles/7054a466.ext.json)
-
----
-
-### Sri Lanka’s inflation drops to -0.2% in September
-
-*2024-10-21 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102832/sri-lankas-inflation-drops-to-02-in-september) · `en`
-
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has decreased to -0.2% in September 2024 from 1.1% in August 2024, according to the latest data released by  the Department of Census and Statistics.
-
-Meanwhile, food inflation also decreased to 0.5% in September, down from 2.3% in August.
-
-The NCPI for all items for the month of September 2024 is 203.1 and it records a decrease of 1.0 in index points compared to August 2024.
-
-The NCPI for all items for the months of September 2024 is 203.1. A decrease of 1.0 index points or 0.48 percentage compared to August 2024 for which the index was 204.1. This decrease represents a decrease in expenditure value of Rs. 500.25 in the “market basket”.
-
-The overall rate of inflation as measured by the NCPI on a Year-over Year basis was -0.2% in September 2024 and inflation calculated for the August 2024 was 1.1%.
-
-...
-
-[Data](articles/7eefa2ba.json)
-
-[Extended Data](ext_articles/7eefa2ba.ext.json)
-
----
-
-### Inflation is negative
-
-*2024-10-21 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202405) · `si`
-
-Sri Lanka's inflation rate dropped to -10.2% in September 2024, according to the National Customer Price Index. Food prices saw a slight decrease from 0.5% in August to -1.7% in September.
-
-🟩
-
-The annual inflation in Sri Lanka, based on the National Customer Price Index, has reduced to-10.2% in September 2024, the Department of Census and Statistics.
-
-In August 2024, the point inflation of the food category of food was up to 0.5% in September 2024.
-
-In August 2024, 0.2% of food inflation increased to-1.7% in September 2024.
-
-◼️
-
-[Data](articles/8c211b25.json)
-
-[Extended Data](ext_articles/8c211b25.ext.json)
 
 ---

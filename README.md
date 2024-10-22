@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 19:58:17**
+As of **2024-10-22 20:23:49**
 
 ## Newspaper Stats
 
-*Scraped **50,777** Articles*
+*Scraped **50,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 513
 islandlk | 3,021
 economynextcom | 3,104
 dailyftlk | 3,458
-adalk | 4,716
+adalk | 4,717
 dailymirrorlk | 4,733
 adaderanalk | 6,017
-tamilmirrorlk | 6,977
+tamilmirrorlk | 6,978
 virakesarilk | 8,146
 adaderanasinhalalk | 8,811
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,777 (100.0%) of 50,777 articles have been extended.
+50,779 (100.0%) of 50,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### The drug trapped at the airport
+
+*2024-10-22 19:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-சிக்கிய-போதைப்பொருள்/175-345880) · `ta`
+
+Large Language Model: Here's a summary of the text in approximately 200 characters:
+
+
+
+"7kg ice & 1.1kg kush seized at Bandaranaike Intl Airport. Estimated value over Rs 8 crore. Drugs found in Katunayake airport barn."
+
+🟩
+
+7 kg of ice drugs and 1.1 kg kush drugs have been found at the Bandaranaike International Airport.
+
+The value of this drug reserve is more than Rs 8 crore.
+
+It is also reported that the drug sent to Sri Lanka by plane was found from the barn at the Katunayake airport.. Remble
+
+◼️
+
+[Data](articles/e163adec.json)
+
+[Extended Data](ext_articles/e163adec.ext.json)
+
+---
 
 ### “Can't testify in the Jaffna court”
 
@@ -137,6 +163,24 @@ He added that Sri Lanka is struggling to repay the loan to pay by 2028 and that 
 [Data](articles/b403689c.json)
 
 [Extended Data](ext_articles/b403689c.ext.json)
+
+---
+
+### A program from the government bassing the price
+
+*2024-10-22 18:54:58* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-මිල-බස්සන්න-රජයෙන්-වැඩසටහනක්/11-412614) · `si`
+
+Government initiative: Mobile vehicle service selling coconuts at fixed prices (Rs. 100-Rs. 1000) to help affected consumers due to rising costs.
+
+🟩
+
+The Government has set up a mobile vehicle service to sell the coconut marketing customers who have affected consumers in the face of rising coconut prices. The government announces that the public can be able to buy coconuts from Rs. 100 to Rs. 1000.
+
+◼️
+
+[Data](articles/d6a499a4.json)
+
+[Extended Data](ext_articles/d6a499a4.ext.json)
 
 ---
 
@@ -2441,51 +2485,5 @@ The official said that such crimes can be reduced if adequate security. Remble
 [Data](articles/8a8b66ca.json)
 
 [Extended Data](ext_articles/8a8b66ca.ext.json)
-
----
-
-### Great problem in catching citizens
-
-*2024-10-22 08:28:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிமகன்களை-பிடிப்பதில்-பெரும்-சிக்கல்/175-345823) · `ta`
-
-Sri Lanka police struggle with drunk driver arrests due to lack of breathalyzers. Steps taken to import high-quality devices but issues persist with faulty equipment. Police HQ rejects substandard instruments, plans new procurement process.
-
-🟩
-
-Due to inadequate equipment at police stations to arrest drunk drivers, there is a problem with the arrest of drunk drivers.
-
-Police headquarters sources say that no police station has a test tube.
-
-Drinking drivers who are drinking drunken driving, as they do not have the test equipment used to arrest drunk drivers in Sri Lanka, have to recommend to the doctor to ensure that they are drunk.
-
-Steps have been taken to distribute drunken drivers from France for the first time and the 1970 respiratory tract, which was imported from France, has been obtained for the first time and there is no problem with its quality.
-
-In the study of 14,803 test pipes purchased as the second part of those boxes, it revealed that the gas was out of the air. Police Media Spokesperson Nihal Talduwa said that the Government Inspector's Department has also confirmed this.
-
-...
-
-[Data](articles/7df51f2a.json)
-
-[Extended Data](ext_articles/7df51f2a.ext.json)
-
----
-
-### Matara shooter in Matara
-
-*2024-10-22 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202421) · `si`
-
-Two shooters arrested in Matara for murder. Victim killed while riding three-wheeler on 15th. Police Special Task Force involved.
-
-🟩
-
-The two shooters have been arrested by the Police Special Task Force on the murder of a victim in Kekanadura.
-
-On the 15th, a person who was traveling in a three-wheeler was shot by a car.
-
-◼️
-
-[Data](articles/c1531d08.json)
-
-[Extended Data](ext_articles/c1531d08.ext.json)
 
 ---

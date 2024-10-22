@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 14:39:28**
+As of **2024-10-22 14:58:40**
 
 ## Newspaper Stats
 
-*Scraped **50,719** Articles*
+*Scraped **50,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,097
 dailyftlk | 3,458
 adalk | 4,712
 dailymirrorlk | 4,733
-adaderanalk | 6,009
-tamilmirrorlk | 6,961
+adaderanalk | 6,010
+tamilmirrorlk | 6,964
 virakesarilk | 8,136
 adaderanasinhalalk | 8,801
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 8,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,719 (100.0%) of 50,719 articles have been extended.
+50,719 (100.0%) of 50,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### President directs Governors to prepare new proposal to rationalize Provincial Council system
+
+*2024-10-22 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102851/president-directs-governors-to-prepare-new-proposal-to-rationalize-provincial-council-system) · `en`
+
+President Anura Kumara Dissanayake has instructed the Provincial Governors to prepare and submit a new proposal aimed at rationalizing the Provincial Council mechanism.
+
+The President also stated that, given the current government’s transitional period, the provincial councils must strive to deliver the best possible services to improve the living conditions of the people.
+
+President Dissanayake made these remarks during a discussion held with the Governors this morning (22) at the Presidential Secretariat.
+
+He urged the Governors to engage in all possible economic and social initiatives to improve the living conditions of the public, the President’s Media Division (PMD) said.
+
+During the meeting, the President also highlighted the importance of establishing a new political culture and reiterated that the trust placed in him by the people should be fulfilled through effective action.
+
+...
+
+[Data](articles/6b79e825.json)
+
+---
+
+### 1997 அழையுங்கள்
+
+*2024-10-22 14:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1997-அழையுங்கள்/175-345851) · `ta`
+
+பொலிஸார் தொடர்பில் ஏதேனும் முறைகேடு அல்லது மோசடி நடந்தால் அது குறித்து தெரிவிக்க பொதுமக்களுக்காக பொலிஸார் அவசர தொலைபேசி எண்ணை அறிமுகப்படுத்தியுள்ளனர்.
+
+இதன்படி, 1997 என்ற தொலைபேசி இலக்கத்தின் ஊடாக அறிவிக்குமாறு பதில் பொலிஸ் மா அதிபர் பொதுமக்களிடம் கேட்டுக்கொண்டுள்ளார்.
+
+◼️
+
+[Data](articles/fb247f19.json)
+
+---
 
 ### Today's currency exchange rate
 
@@ -147,6 +181,26 @@ According to the section 3(1) (a) of the said Act, three of the members are appo
 [Data](articles/a71a3e62.json)
 
 [Extended Data](ext_articles/a71a3e62.ext.json)
+
+---
+
+### சேறு பூசும் சுவரொட்டி: ரங்காவை கைது செய்ய உத்தரவு
+
+*2024-10-22 12:43:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேறு-பூசும்-சுவரொட்டி-ரங்காவை-கைது-செய்ய-உத்தரவு/175-345844) · `ta`
+
+சேறு பூசும் சுவரொட்டிகளுடன் முன்னாள் பாராளுமன்ற உறுப்பினர் ஜே.ஸ்ரீரங்காவுக்கு தொடர்பு இருக்குமாயின், அவரை கைது செய்து நீதிமன்றத்தில் நிறுத்துமாறு, கொழும்பு  பிரதம நீதவான் திலின கமகே, கொழும்பு குற்றப்புலனாய்வு பிரிவினருக்கு உத்தரவிட்டுள்ளார்.
+
+மன்னார் மேல் நீதிமன்ற நீதிபதி மொஹம்மட் மிஹாலுக்கு எதிராக, சேறு பூசும் வகையிலான சுவரொட்டிகள் கொழும்பில்  ஒட்டப்பட்டிருந்தமை தொடர்பில் விசாரணை நடத்திய பொலிஸார்   ஒருவரை கைது செய்தனர்.
+
+இந்த சுவரொட்டிகளை ஒட்டுமாறு முன்னாள் பாராளுமன்ற உறுப்பினர் ஸ்ரீரங்கா, கூறினார் என, அவர், பொலிஸாருக்கு வாக்குமூலமளித்தார்.
+
+நீதிமன்ற உத்தரவின் பேரில் ரங்காவை கைது செய்ய கொழும்பு குற்றப்புலனாய்வு பொலிஸார் ரங்காவின் வீட்டுக்கு சென்றபோதும் அங்கு அவர் இருக்கவில்லை.
+
+இதனால், உடனடியாக அவரை தேடிக்கண்டுபிடித்து மன்றில் ஆஜர் செய்யுமாறு கொழும்பு  பிரதம நீதவான் திலின கமகே, ​திங்கட்கிழமை (22) உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/3e844697.json)
 
 ---
 
@@ -867,6 +921,22 @@ In equities, Colombo’s All Share Price Index opened down 0.07 percent, or 9.12
 [Data](articles/c3ce6435.json)
 
 [Extended Data](ext_articles/c3ce6435.ext.json)
+
+---
+
+### அடையாளம் தெரியாத இரண்டு சடலங்கள் மீட்பு
+
+*2024-10-22 10:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அடையாளம்-தெரியாத-இரண்டு-சடலங்கள்-மீட்பு/76-345827) · `ta`
+
+கண்டி பொலிஸ் பிரிவிற்கு உட்பட்ட பகுதியில் அடையாளம் தெரியாத இரண்டு சடலங்கள் கண்டெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கண்டி லேக் சர்க்கிளில் உள்ள சங்கராஜ மாவத்தையில் உள்ள சுவிஸ் ஹோட்டலுக்கு முன்பாக உள்ள ஏரியில் யுவதி ஒருவரின் சடலம் மிதப்பதாகவும், அவர்களின் அடையாளம் இதுவரை அடையாளம் காணப்படவில்லை எனவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+பேராதனை வீதியில் பிரிம்ரோஸ் தோட்டத்திற்கு கீழே பக்க வீதியொன்றில் உயிரிழந்த இளைஞனின் சடலம் ஒன்று காணப்படுவதாகவும் ஆனால் சடலத்தின் அடையாளம் இதுவரை அடையாளம் காணப்படவில்லை எனவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/ecd9885d.json)
 
 ---
 
@@ -2269,103 +2339,5 @@ The public can review these reports from 9:00 am to 4:00 pm on the week of Octob
 [Data](articles/fe5d97bd.json)
 
 [Extended Data](ext_articles/fe5d97bd.ext.json)
-
----
-
-### The mystery of the shaken death of the cry
-
-*2024-10-21 19:02:56* · [`adalk`](https://www.ada.lk/picture_story/හලාවතම-කම්පා-කළ-මරණ-වල-අභිරහස-එළියට/10-412596) · `si`
-
-Here's a 200-character summary:
-
-
-
-Murderous businessman killed wife and daughter in Chilaw. Wife's body burned, daughter's throat cut. Police investigating financial disputes. Businessman suspected of orchestrating murders.
-
-🟩
-
-The murder of the murder was cut off and the murderous businessman had been buried in the house, the murder was filed by the murder of a large number of murderers in Chilaw.The Chilaw Headquarters Police said that the death inspections were revealed.
-
-Chilaw General Hospital Specialist Judicial Medical Officer of the Chilaw HospitalThe 15-year-old daughter and her mother's neck have been cut into a sharp weapon and later killed.
-
-The murdered businessman's body was set on fire in the bedroom at the daughter and wife in the house and then buried a large number of fuel in the bedroom.Concluded.
-
-The post mortem examinations of the death shock in Chilaw shock, the police said that severely injured throughout the daughter's body.
-
-At the same time, the murdering businessman's body has been revealed in the post mortem examination.
-
-...
-
-[Data](articles/e87351bc.json)
-
-[Extended Data](ext_articles/e87351bc.ext.json)
-
----
-
-### Tamita joined the new party
-
-*2024-10-21 18:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கட்சியில்-இணைந்தார்-தமிதா/175-345800) · `ta`
-
-Tamitha Abeyratne joins DNA, leaves SJB over nomination controversy. Sajith Premadasa cites lack of justice and democratic rights.
-
-🟩
-
-Actress and political activist Tamitha Abeyratne has joined the Democratic National Alliance (DNA) in the upcoming general election in the upcoming general election and announced that he would withdraw from the United People's Power (SJB).
-
-SJP leader Sajith Premadasa told the media that I decided to leave the SJP because I did not give me justice and not uphold my democratic rights.
-
-The last day of the acceptance of the nominations on October 11 was the controversial removal of Tamitha's name in the SJB candidate list for the Ratnapura district.
-
-◼️
-
-[Data](articles/1980c630.json)
-
-[Extended Data](ext_articles/1980c630.ext.json)
-
----
-
-### When Lady Dimuthu arrived in Sri Lanka
-
-*2024-10-21 18:47:47* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-දිමුතු-ලංකාවට-එද්දී-අල්ලයි/11-412595) · `si`
-
-Lady Dimuthu arrested at Katunayake airport CID investigation Mathettitia Resources dispute organized crime leader
-
-🟩
-
-Mathettitia Resources, Dimuthu Sampath, who was serving in Galle, Ratgama Police Officers, at the Katunayake airport, 10/21 by the Criminal Investigations Department (CID).The arrested
-
-The 28 year old is a resident of Galliyagoda, Galliyagoda, the Galagoda. Police reveal that police officers named Dimuthuth Balandra, who was engaged in a dispute with the organized crime leader of the South, had been arrested in the Headdagama Police Division in the Headdagama Police Division.Have been taken.
-
-The arrested Dimuthu Resource was reached from Sergea, the opening of Sataebita, 18/21 at 321 days at 3 10 days.
-
-This was taken to the Colombo Criminal Investigation Department Headquarters for further investigations into the detention of the Katunayake Airport Criminal Investigation Unit.. .
-
-◼️
-
-[Data](articles/1c82c3f5.json)
-
-[Extended Data](ext_articles/1c82c3f5.ext.json)
-
----
-
-### Petition filed against 2024 General Election date
-
-*2024-10-21 18:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102837/petition-filed-against-2024-general-election-date) · `en`
-
-A petition has been filed with the Supreme Court challenging the decision to hold the General Election on November 14, seeking an order declaring that the decision violates the Constitution.
-
-The relevant petition has been filed by the civil society activist and convenor of the “Api Sri Lanka” national organization” H.M Priyantha Herath.
-
-The Attorney General, the Secretary to the President, the Chairman of the Election Commission and its members have been named as respondents in the petition.
-
-The petitioner has claimed that as per Section 10 of the Parliamentary Elections Act, the period for accepting nominations was declared from October 4 to October 11.
-
-The petition further points out that according to the Parliamentary Elections Act, the date for polling should be scheduled not less than five weeks and not more than seven weeks from the date of closing of nominations.
-
-...
-
-[Data](articles/c79a91f9.json)
-
-[Extended Data](ext_articles/c79a91f9.ext.json)
 
 ---

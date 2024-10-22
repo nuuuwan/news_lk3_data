@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 20:39:39**
+As of **2024-10-22 20:58:44**
 
 ## Newspaper Stats
 
-*Scraped **50,780** Articles*
+*Scraped **50,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 513
 islandlk | 3,021
 economynextcom | 3,104
 dailyftlk | 3,458
-adalk | 4,717
+adalk | 4,718
 dailymirrorlk | 4,733
 adaderanalk | 6,018
 tamilmirrorlk | 6,978
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,780 (100.0%) of 50,780 articles have been extended.
+50,781 (100.0%) of 50,781 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,36 @@ The Consulate General further stated it remains committed to assisting the Sri L
 [Data](articles/6de14a41.json)
 
 [Extended Data](ext_articles/6de14a41.ext.json)
+
+---
+
+### There is no difference in the rice control price
+
+*2024-10-22 19:54:20* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-පාලන-මිලෙහි-කිසිදු-වෙනසක්-නැහැ/11-412615) · `si`
+
+No change in rice control price expected. Long-term plan to benefit farmers. SMEs mills face financial difficulties. Meeting focuses on fair pricing mechanism and reducing input costs.
+
+🟩
+
+A formal mechanism requires a formal mechanism to obtain fair paddy purchaser from the farmer community and give customers a fair pricing rice
+
+Attention to reduce the prices of inputs to encourage SMEs and Medium Scale Mill
+
+President Anura Kumara Dissanayake stated that no changes in the rice control price is expected to be expected.
+
+The President pointed out that the organized agriculture plan is planning to implement a long term program to benefit the farmer community.
+
+President Anura Kumara Dissanayake made these comments at the Presidential Secretariat today (22) with the rice businessmen and the officials of the Department of Agriculture.
+
+The discussion focused on the consumer prices currently in the current consumer goods and the need to maintain rice in control as a key diet of the people.
+
+The President said that the rice was purchased from the farmers after the imposition of control.
+
+...
+
+[Data](articles/e7911c36.json)
+
+[Extended Data](ext_articles/e7911c36.ext.json)
 
 ---
 
@@ -2457,25 +2487,5 @@ He said, "I will be alone ',' I am my mind ',' I have a popular songs like 'thro
 [Data](articles/00e3860d.json)
 
 [Extended Data](ext_articles/00e3860d.ext.json)
-
----
-
-### SLBFE warns job seekers of fraudulent calls demanding payments
-
-*2024-10-22 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102842/slbfe-warns-job-seekers-of-fraudulent-calls-demanding-payments-) · `en`
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) has clarified that it is not associated with any calls informing those seeking employment in Israel to make additional payments.
-
-Additional General Manager of International Affairs of the SLBFE Gamini Senarath Yapa stated that job candidates who have already settled their payments do not need to proceed with any additional payments.
-
-The SLBEF received multiple complaints yesterday (21) regarding a person making phone calls and claiming that those seeking employment in Israel must pay a sum of Rs.14,700.
-
-Gamini Senarath Yapa explained that all candidates preparing to work in Israel’s agricultural sector have already settled their payments with the SLBEF.
-
-...
-
-[Data](articles/8265a0b5.json)
-
-[Extended Data](ext_articles/8265a0b5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 15:58:35**
+As of **2024-10-22 16:12:14**
 
 ## Newspaper Stats
 
-*Scraped **50,729** Articles*
+*Scraped **50,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,097
 dailyftlk | 3,458
 adalk | 4,712
 dailymirrorlk | 4,733
-adaderanalk | 6,011
+adaderanalk | 6,012
 tamilmirrorlk | 6,966
 virakesarilk | 8,136
 adaderanasinhalalk | 8,804
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,804
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,729 (100.0%) of 50,729 articles have been extended.
+50,730 (100.0%) of 50,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Peru ex-President Toledo convicted of bribe-taking, sentenced to 20 years in prison
+
+*2024-10-22 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102853/peru-ex-president-toledo-convicted-of-bribe-taking-sentenced-to-20-years-in-prison) · `en`
+
+Peruvian former President Alejandro Toledo was convicted of taking bribes from Brazilian construction giant Odebrecht and sentenced to 20 years and six months in prison on Monday.
+
+The verdict marks Peru’s first high-profile conviction related to Brazil’s continent-spanning Lava Jato corruption scandal.
+
+Toledo, a 78-year-old economist who holds a doctorate from Stanford University, governed the Andean nation between 2001 and 2006.
+
+He was convicted of taking $35 million in bribes from the company formerly known as Odebrecht, according to prosecutors, in exchange for letting it win a contract to build the road that now connects Peru’s southern coast with an Amazonian area in western Brazil.
+
+During the year-long trial, Toledo denied the money-laundering and collusion charges.
+
+Odebrecht, now known as Novonor, was at the center of Latin America’s largest graft scandal, after admitting in 2016 that it bribed officials in a dozen countries to secure public works contracts.
+
+...
+
+[Data](articles/7c4f6ea6.json)
+
+[Extended Data](ext_articles/7c4f6ea6.ext.json)
+
+---
 
 ### Sri Lanka’s Catholic Church also rejects Gammanpila’s Easter attacks report
 
@@ -2355,29 +2379,5 @@ It is said that the repair work will be carried out and the water supply will be
 [Data](articles/ab696d9b.json)
 
 [Extended Data](ext_articles/ab696d9b.ext.json)
-
----
-
-### New Government's First Invitation to Cuban Prime Minister
-
-*2024-10-21 19:53:11* · [`adalk`](https://www.ada.lk/breaking_news/නව-රජයේ-පළමු-ආරාධනය-කියුබානු-අගමැතිට/11-412602) · `si`
-
-Sri Lanka's new government extends invitation to Cuba's PM, sparking controversy. Critics question economic ties and Cuba's economic state. Focus shifts from Cuba to strengthening relations with India, emphasizing tourism, education, and cultural exchange as key areas for cooperation.
-
-🟩
-
-The current government has been invited to the neighboring India and the current government is invited to visit the Prime Minister of Cuba and travels a wide road.
-
-He was speaking at a media briefing held at the Colombo Society of Colombo today (21).
-
-"We have taken this government to the Prime Minister of Ceba.It's really a joke popular. What is the economic relationship between Cuba and Sri Lanka?What is the social bond?We don't see one. Where is the economy of Cuba?Cuba is a country that has collapsed. These people can be the heroes of Cuba because Fidel Castro. But we have no value to the country with Chiba.
-
-Event at the history, our neighbor, our friend, our views, and our sadness, and sadness, India. Our brotherhood was always strengthened. The brother country is where the country's service economy is opened in the future.The economy in the brotherly country is that we should win. Millionaires and billionaires in the brotherhood should attract us to Sri Lanka.
-
-...
-
-[Data](articles/9faf0b8b.json)
-
-[Extended Data](ext_articles/9faf0b8b.ext.json)
 
 ---

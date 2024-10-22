@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 06:10:22**
+As of **2024-10-22 06:45:02**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 8,790
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,645 (100.0%) of 50,646 articles have been extended.
+50,646 (100.0%) of 50,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
 
-### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
+### Heavy rains in several areas
 
 *2024-10-22 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202415) · `si`
 
-බස්නාහිර, සබරගමුව, දකුණ, වයඹ සහ උතුරු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (22) දිනයේ විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains expected in Western, Sabaragamuwa, Southern, and Northern provinces today. Showers/thundershowers possible in Kandy and Nuwara Eliya districts. Public advised to take precautions against lightning and strong winds.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, දකුණ සහ උතුරු පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 50ට වැඩි තරමක් තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන අතර ඇතැම් ස්ථානවල මි.මී.75ට වැඩි තරමක් තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and Northern provinces today (22) in general area Kandy and Nuwara Eliya districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The department states that the department states in some places in the Western, Sabaragamuwa, South and Northern provinces. Heavy rains can be raining more than 50.
+
+The Department of Meteorology announces that showers or thundershowers at night in the evening or night in other parts of the island.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/41038cf6.json)
+
+[Extended Data](ext_articles/41038cf6.ext.json)
 
 ---
 

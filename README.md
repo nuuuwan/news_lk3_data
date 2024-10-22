@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 21:10:58**
+As of **2024-10-22 21:24:05**
 
 ## Newspaper Stats
 
-*Scraped **50,782** Articles*
+*Scraped **50,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 3,458
 adalk | 4,718
 dailymirrorlk | 4,733
 adaderanalk | 6,018
-tamilmirrorlk | 6,978
+tamilmirrorlk | 6,979
 virakesarilk | 8,146
-adaderanasinhalalk | 8,812
+adaderanasinhalalk | 8,813
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,782 (100.0%) of 50,782 articles have been extended.
+50,784 (100.0%) of 50,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### The need for a new political force emerged - Dilith
+
+*2024-10-22 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202439) · `si`
+
+New political force emerges in Sri Lanka: Dilith Jayaweera launches movement against corruption and injustice.
+
+🟩
+
+The Leader of the Entrepreneral Dilith Jayaweera said that the politics of the people of Sri Lanka have launched across the exangeration.
+
+He was speaking at a public briefing yesterday (21) at a public briefing in the Kabandage area yesterday.
+
+"This road was voted 43%.. Those who were angry with hate to the composition. Everyone asked who would give them to those who. A reasonable question. When Asapunapapi sees the corrupt activities of the people for a long time, when the little man is crushed.. The one who had emerged as an opposition was voted.
+
+His views are now joke in social media. The backyment of his statements had no basis. The people of Sri Lanka were called the last Poya. Now it was the poin.. There is no hal.
+
+The need for a new political force in this country has arisen. That's what we're trying to re-create this. Nobody will let anyone fall in Beira Lake. We can be proud of a politics. We didn't earn this. "
+
+...
+
+[Data](articles/36b0311f.json)
+
+[Extended Data](ext_articles/36b0311f.ext.json)
+
+---
+
+### Indian High Commissioner-President Meeting
+
+*2024-10-22 20:58:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-ஜனாதிபதி-செயலாளர்-சந்திப்பு/175-345886) · `ta`
+
+Indian High Commissioner meets Sri Lankan President. Focuses on resolving North Sea fisheries disputes. Emphasizes long-term solutions for fishermen cooperation. Discusses joint challenges and reviews ongoing Indian projects in Sri Lanka.
+
+🟩
+
+Indian High Commissioner to Sri Lanka Santosh JHA met with the President of the President at the Presidential Office today (22).
+
+Special attention has been paid to solving fisheries issues in the North Sea.
+
+Accordingly, the two sides emphasized the need for a long -term solution to the problems of the fishermen of the two countries by improving cooperation.
+
+Moreover, the steps to be taken to succeed in the common challenges faced by the two countries were also investigated.
+
+The meeting also reviewed the ongoing Indian projects in Sri Lanka.
+
+The current progress of the projects funded by Indian credit assistance was further investigated and the need to expedite those tasks for completing the project in a timely manner.
+
+◼️
+
+[Data](articles/7afac659.json)
+
+[Extended Data](ext_articles/7afac659.ext.json)
+
+---
 
 ### More information on the acid of the acid
 
@@ -2457,49 +2511,5 @@ The commission further said that 237 cases related to bribery and corruption are
 [Data](articles/39f2333b.json)
 
 [Extended Data](ext_articles/39f2333b.ext.json)
-
----
-
-### Four people, including a helicopter collision on a radio tower in the United States
-
-*2024-10-22 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196823) · `ta`
-
-Helicopter collision kills 4, including child, near Houston radio tower. Incident occurred Sunday. Mayor confirms 4 fatalities. Residents safe. Crash happened during Elinkon helicopter departure from airport. Video footage spreading online.
-
-🟩
-
-Four people, including a child, were killed in a helicopter collision on the radio tower in the United States.
-
-The incident took place on Sunday in Houston, the largest city in the US state of Texas.
-
-Houston Mayor John Whitmire has confirmed that 4 people, including a child, were killed in the crash.
-
-Tonight It's a sad event. This is a sad death toll. However the residents are safe. The helicopter, who was involved in the crash, said that Elinkon had departed from the airport.
-
-The helicopter clash on the radio tower is going viral on video websites.
-
-◼️
-
-[Data](articles/8c08f6d9.json)
-
-[Extended Data](ext_articles/8c08f6d9.ext.json)
-
----
-
-### Five people from an explosion of an Uttar Pradesh of India
-
-*2024-10-22 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202422) · `si`
-
-Explosion in Bulandshahr, UP: Five killed. Cylinder blast causes death. Incident occurred in Bulandshahr district.
-
-🟩
-
-Five people have been killed following explosion of a cylinda in the Bulndyasar district of Uttar, India.
-
-◼️
-
-[Data](articles/3bfa22bb.json)
-
-[Extended Data](ext_articles/3bfa22bb.ext.json)
 
 ---

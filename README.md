@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 11:11:21**
+As of **2024-10-22 11:23:45**
 
 ## Newspaper Stats
 
-*Scraped **50,687** Articles*
+*Scraped **50,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ bbccomsinhala | 510
 islandlk | 3,021
 economynextcom | 3,093
 dailyftlk | 3,458
-adalk | 4,708
+adalk | 4,709
 dailymirrorlk | 4,733
-adaderanalk | 6,003
+adaderanalk | 6,004
 tamilmirrorlk | 6,955
-virakesarilk | 8,129
+virakesarilk | 8,131
 adaderanasinhalalk | 8,797
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,687 (100.0%) of 50,687 articles have been extended.
+50,691 (100.0%) of 50,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Encouraged by Sri Lanka’s commitment to continue reform efforts - IMF chief
+
+*2024-10-22 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102845/encouraged-by-sri-lankas-commitment-to-continue-reform-efforts-imf-chief-) · `en`
+
+The Managing Director of the International Monetary Fund (IMF) Kristalina Georgieva has met with Sri Lanka’s delegation led by the Governor of the Central Bank, Dr. Nandalal Weerasinghe.
+
+The discussion took place on the sidelines of the 2024 Annual Meetings of the International Monetary Fund (IMF) and the World Bank Group (WBG) in Washington DC.
+
+Posting on ‘X’ (formerly Twitter), the IMF Managing Director said that she is encouraged by the Sri Lankan authorities’ commitment to continue the reform efforts to safeguard the hard-won gains under the IMF-supported program.
+
+She further assures that the IMF remains committed to supporting Sri Lanka build a better future for its people.
+
+The Sri Lankan delegation also includes Finance Secretary Mahinda Siriwardena and Senior Economic Advisor to the President Duminda Hulangamuwa.
+
+◼️
+
+[Data](articles/e3817cc0.json)
+
+[Extended Data](ext_articles/e3817cc0.ext.json)
+
+---
+
+### Shanani and Ravi Seneviratne cannot be removed from the posts of Udaya Kammanpila - Vijitha Herath
+
+*2024-10-22 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/196835) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka: Cabinet spokesperson Vijitha Herath states Shanani Abeeshekara and Ravi Seneviratne cannot be removed from positions held by Udaya Kammanpila.
+
+🟩
+
+Cabinet spokesman Vijitha Herath said that Shanani Abeeshekara and Ravi Seneviratne could not be removed from the posts of Udaya Kammanpila.
+
+◼️
+
+[Data](articles/cf0329d0.json)
+
+[Extended Data](ext_articles/cf0329d0.ext.json)
+
+---
+
+### Life Sunday Attack: The Alvis Committee is not going to accept the report - the government
+
+*2024-10-22 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196834) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Government rejects Alwis Committee report on Sunday attacks. Committee findings not accepted."
+
+🟩
+
+The government has said it will not accept the report of the Alwis Committee on the Sunday attacks.
+
+◼️
+
+[Data](articles/7ff51ed9.json)
+
+[Extended Data](ext_articles/7ff51ed9.ext.json)
+
+---
 
 ### “I will quit politics if proven”
 
@@ -2256,6 +2322,32 @@ The politicians had to make difficult decisions for the people. That is why the 
 
 ---
 
+### The rest of the remaining father is only the left
+
+*2024-10-21 16:54:41* · [`adalk`](https://www.ada.lk/breaking_news/ගෙදර-එන-විට-ඉතිරි-සිය-පියාගේ-ඇට-සැකිල්ල-පමණයි/11-412591) · `si`
+
+Here's a 200-character summary:
+
+
+
+Father found dead after 6-month silence. Son returns to Sri Lanka to investigate. Police investigation leads to forensic examination. DNA test confirms identity.
+
+🟩
+
+The son of Italy could see what he could see what was about to find out what had happened to her father for 6 months to find out what he had done to her father.. The 70-year-old father of Bhikku resort in Kalutara is living at home alone.
+
+The mother lived in this house ago was also killed. His son in Italy is living with his wife and children. The phone calls given to the father for 6 months have not received response. When he had asked her neighbors from Italy, they have told the house.
+
+Don has returned to Sri Lanka on the 19th and returned home to find out what had happened.. The son of the door was known to the son who had only melted the meat in collapse as there were home coolers.  මේ සම්බන්දයෙන් පොලිීසිය දැනුවත් කිරීමෙන් අනතුරුව මූලික විමර්ශන වලින් පසු ඇටසැකිල්ලක් බවට පත්ව තිබූ සිරුර නාගොඩ රෝහලට ගෙනගොස් ඇත. The Dead reported to ensure whether his father was made to ensure the DNA test.
+
+◼️
+
+[Data](articles/12a8974b.json)
+
+[Extended Data](ext_articles/12a8974b.ext.json)
+
+---
+
 ### The remaining father's skeleton will be met
 
 *2024-10-21 16:54:41* · [`adalk`](https://www.ada.lk/breaking_news/ගෙදර-එන-විට-ඉතිරි-සිය-පියාගේ-ඇට-සැකිල්ල-මපණයි/11-412591) · `si`
@@ -2331,89 +2423,5 @@ It is noteworthy that the parents of schoolchildren who use these vehicles expre
 [Data](articles/c8f3ca50.json)
 
 [Extended Data](ext_articles/c8f3ca50.ext.json)
-
----
-
-### Election Day is a problem - a petition filed by the Supreme Court
-
-*2024-10-21 16:50:17* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-දිනය-ගැන-ගැටළුවක්---ශ්‍රේෂ්ඨාධිකරණයට-පෙත්සමක්-ඉදිරිපත්-කෙරේ/11-412590) · `si`
-
-Sri Lanka Supreme Court petition challenges Election Day constitutionality. National Alliance convener files case against holding general election on 14th as it violates constitutional norms.
-
-🟩
-
-The decision to hold general election on the 14th of this month has filed a petition to the Supreme Court demanding a decision that is contrary to the Constitution.
-
-The petition has been presented by the Convener of the Sri Lanka National Alliance today (21).
-
-◼️
-
-[Data](articles/30b91823.json)
-
-[Extended Data](ext_articles/30b91823.ext.json)
-
----
-
-### Vanni polls: tomorrow's hearing
-
-*2024-10-21 16:29:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-வாக்கெடுப்பு-நாளை-விசாரணை/175-345787) · `ta`
-
-Supreme Court considers petition to suspend Vanni district referendum due to upcoming general election. Decision made on 21st day.
-
-🟩
-
-The Supreme Court today (21) decided to consider a petition filed by the Democratic National Alliance demanding an interim order to suspend a referendum for the Vanni district in the upcoming general election.
-
-◼️
-
-[Data](articles/b4750da0.json)
-
-[Extended Data](ext_articles/b4750da0.ext.json)
-
----
-
-### Arrested
-
-*2024-10-21 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196793) · `ta`
-
-Arrested: Suspect found digging treasure in Hewanathenna, Kurunegala. Police seized tools, explosives, and chemicals.
-
-🟩
-
-A suspect who allegedly excavated treasure in Hewanathenna area, which belongs to the Melsiripura police division, Kurunegala, has been arrested on Sunday (20), Melsiripura police said.
-
-The suspect was arrested during a raid carried out on information received by the Melsiripura police.
-
-The arrested suspect is a 40 -year -old from Melsiripura, Kurunegala.
-
-From the arrested suspect, the police have seized items used for treasure, 04 gelatnite sticks, 06 tetanator and chemicals.
-
-◼️
-
-[Data](articles/38da6bbf.json)
-
-[Extended Data](ext_articles/38da6bbf.ext.json)
-
----
-
-### 3 vehicles used by ex-president Mahinda returned to presidential secretariat
-
-*2024-10-21 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102834/3-vehicles-used-by-ex-president-mahinda-returned-to-presidential-secretariat) · `en`
-
-Three vehicles previously assigned for the use of former President Mahinda Rajapaksa have been returned to the Presidential Secretariat in Colombo.
-
-The vehicles returned today include an ambulance, a van and a double-cab, said Ada Derana reporter.
-
-On October 1, the vehicles that had been brought to the Presidential Secretariat from various government institutions, including Ministries and Departments, were returned to their respective agencies at the parking area near the secretariat.
-
-On October 19, the Government Information Department had issued a special statement clarifying that the privileges accorded to former Presidents have not been withdrawn.
-
-Issued in response to the media reports alleging that vehicles provided to ex-Presidents have been taken back, the statement said that former Heads of State still retain their privileges and that only the additional vehicles have been returned thus far.
-
-...
-
-[Data](articles/614b557b.json)
-
-[Extended Data](ext_articles/614b557b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 17:23:54**
+As of **2024-10-22 17:40:44**
 
 ## Newspaper Stats
 
-*Scraped **50,742** Articles*
+*Scraped **50,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 409
 colombotelegraphcom | 509
 bbccomsinhala | 511
 islandlk | 3,021
-economynextcom | 3,097
+economynextcom | 3,104
 dailyftlk | 3,458
 adalk | 4,714
 dailymirrorlk | 4,733
-adaderanalk | 6,014
-tamilmirrorlk | 6,970
+adaderanalk | 6,015
+tamilmirrorlk | 6,971
 virakesarilk | 8,136
 adaderanasinhalalk | 8,807
 
@@ -26,11 +26,105 @@ adaderanasinhalalk | 8,807
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,742 (100.0%) of 50,742 articles have been extended.
+50,748 (100.0%) of 50,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Sri Lanka ministry secretary to address BRICS leaders summit
+
+*2024-10-22 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-ministry-secretary-to-address-brics-leaders-summit-184425/) · `en`
+
+ECONOMYNEXT – Secretary to Sri Lanka’s Ministry of Foreign Affairs Aruni Wijewardane will address the upcoming BRICS Outreach and BRICS Plus Summit in Kazan, Russian Federation, on behalf of President Anura Dissanayake, the ministry said.
+
+“She will also meet senior representatives from BRICS member countries to discuss Sri Lanka’s application to join BRICS as well as other issues of bilateral interest,” the MFA said.
+
+Under the previous government, Sri Lanka initiated the process to join BRICS and its New Development Bank.
+
+BRICS, which consists of Brazil, Russia, India, China and South Africa recently expanded its membership to include Iran, Egypt, Ethiopia, and the United Arab Emirates.
+
+The forum is an important platform for cooperation among emerging markets and developing countries.
+
+...
+
+[Data](articles/52f7708c.json)
+
+[Extended Data](ext_articles/52f7708c.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 293.23/27 to dollar, bond yields steady
+
+*2024-10-22 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-23-27-to-dollar-bond-yields-steady-184415/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 293.23/27 to the US dollar Tuesday from 293.15/20 a day earlier, dealers said, while bond yields were steady ahead of a Treasury bill auction on Wednesday.
+
+A bond maturing on 15.12.2026 closed at 10.50/60 percent, down from 10.50/75 percent.
+
+A bond maturing on 15.12.2027 closed at 11.40/55 percent, down from 11.30/50 percent.
+
+A bond maturing on 15.09.2029 closed stable at 11.90/12.05 percent.
+
+Meanwhile the central bank announced that it will issue 125,000 million rupees in Treasury bills through an auction tomorrow (23). (Colombo/Oct22/2024)
+
+◼️
+
+[Data](articles/9b20f0b8.json)
+
+[Extended Data](ext_articles/9b20f0b8.ext.json)
+
+---
+
+### Control price of rice will remain unchanged - President tells rice millers
+
+*2024-10-22 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102856/control-price-of-rice-will-remain-unchanged-president-tells-rice-millers) · `en`
+
+President Anura Kumara Dissanayake has stated the controlled price of rice will not change.
+
+He also highlighted that plans are underway for a long-term program to create an organized agricultural plan, which would provide greater benefits to farmers.
+
+President Dissanayake made these remarks during a discussion held today (22) at the Presidential Secretariat with rice millers and officials from the Department of Agriculture, the President’s Media Division (PMD) reported.
+
+During this meeting, participants focused on the current prices of consumer goods, emphasizing the importance of controlling the price of rice, which is a staple food for the population.
+
+The President noted to the rice millers that they had purchased paddy from farmers after the controlled price was established, and he believes it is unfair to alter the price of rice at this stage, the PMD said.
+
+...
+
+[Data](articles/e8c85bab.json)
+
+[Extended Data](ext_articles/e8c85bab.ext.json)
+
+---
+
+### "There is no change in the fixed price of the rice"
+
+*2024-10-22 16:56:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியின்-நிர்ணய-விலையில்-எந்த-மாற்றமுமில்லை/175-345864) · `ta`
+
+No change in rice price: President Anura Kumara Dissanayake addresses rice merchants and agriculture officials about maintaining stable prices and implementing long-term programs for farmers.
+
+🟩
+
+President Anuragumara Dissanayake said he did not expect any change in the price of the rice.
+
+The President also pointed out that he plans to create an organized agricultural plan and implement a long -term program for farmers to benefit.
+
+President Anura Kumara Dissanayake said this during a discussion held at the Presidential Secretariat on Tuesday (22) with officials of the Rice Merchants and Agriculture Department.
+
+In this case, the current price of consumption was discussed and the need to control the price of rice used as the main food of the people.
+
+The President told the rice merchants that the paddy was purchased from the farmers after the implementation of the price and that it was not fair to change the price of rice.
+
+The President pointed out that there is a proper mechanism to get rice from farmers at reasonable prices and provide rice at a reasonable price to consumers.
+
+...
+
+[Data](articles/385966eb.json)
+
+[Extended Data](ext_articles/385966eb.ext.json)
+
+---
 
 ### Buses collided face -to -face - 28 injured
 
@@ -149,6 +243,30 @@ Meanwhile, the Cabinet of Ministers has also granted approval to appoint Dr. T.M
 [Data](articles/42750398.json)
 
 [Extended Data](ext_articles/42750398.ext.json)
+
+---
+
+### Sri Lanka stocks close down amidst some profit taking
+
+*2024-10-22 16:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amidst-some-profit-taking-184411/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed on mixed sentiments on Tuesday, with the All Share Index down and the S&P SL20 up.
+
+The broader ASPI closed down 0.08 percent, or 9.31 points, at 12,300; while the more liquid S&P SL20 Index closed up 0.11 percent, or 4.05 points, at 3,628.
+
+This could be due to some profit taking, market participants said.
+
+Top positive contributors to the ASPI were John Keells Holdings (up at 199.00), Lion Brewery (up at 1,060), Sampath Bank (up at 82.90), Hatton National Bank (up at 215.75), and Central Finance (up at 120.00).
+
+Top turnover generators were JKH, Hikkaduwa Beach Resort (Citrus) (down at 3.50), Sampath Bank, Hela Apparel (flat at 7.20) and Melstacorp (flat at 90.00).
+
+Foreign buying was seen on JKH, Commercial Bank voting (down at 108.25), Sampath Bank, Convenience Foods (Lankasoy) (down at 730.25), Richar Pieris and Co (down at 21.80) and Windforce (flat at 20.50).
+
+...
+
+[Data](articles/c342702b.json)
+
+[Extended Data](ext_articles/c342702b.ext.json)
 
 ---
 
@@ -618,6 +736,24 @@ According to police, the body of a young man who died on a side road under the p
 
 ---
 
+### Sri Lanka’s export economy heavily concentrated around apparel: IPS
+
+*2024-10-22 13:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-export-economy-heavily-concentrated-around-apparel-ips-184407/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s goods and services exports accounted for nearly 20.4 percent of GDP in 2023, with manufacturing exports contributing 14 percent, the Institute of Policy Studies (IPS) said, noting however that the country’s export economy remains heavily concentrated around industrial goods, particularly apparel.
+
+IPS said in a statement that industrial goods—primarily apparel—make up 77 percent of export income, while agricultural exports contribute just 22 percent. This lack of diversification has left Sri Lanka vulnerable, with its economy highly dependent on apparel and traditional agricultural sectors like tea and rubber, the institute said.
+
+These vulnerabilities, exacerbated by recent economic challenges, raise the critical question of whether reforms in trade, energy, and agriculture can provide the boost needed for recovery, IPS said citing talking points raised at a recent event organised by institute to launch its State of the Economy 2024 report.
+
+...
+
+[Data](articles/ab6ba496.json)
+
+[Extended Data](ext_articles/ab6ba496.ext.json)
+
+---
+
 ### New chairman and members appointed to NTC
 
 *2024-10-22 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102849/new-chairman-and-members-appointed-to-ntc) · `en`
@@ -641,6 +777,28 @@ According to the section 3(1) (a) of the said Act, three of the members are appo
 [Data](articles/a71a3e62.json)
 
 [Extended Data](ext_articles/a71a3e62.ext.json)
+
+---
+
+### Sri Lanka appoints new deputy treasury secretary, promotes other officers
+
+*2024-10-22 12:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-new-deputy-treasury-secretary-promotes-other-officers-184399/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has appointed H C D L Silva as the deputy secretary of the Treasury, and promoted other officers, a cabinet statement said.
+
+Silva is the Director General of the Department of Treasury Operations at present.
+
+D A P Abesekara, Director General of the Department of External Resources, will be appointed to the post of deputy secretary of the Treasury after the retirement of the current incumbent R M P Rathnayaka on November 6.
+
+Additional Director General of the Department of Public Finance A N Hapugala is appointed Director General of the Department of Public Finance.
+
+N S M P Ranjith, currently serving as Acting Director General of the Department of Project Management and Monitoring, is appointed to the post of Director General of the same Department.
+
+Additional Director General of the Department of National Planning J M S D Rathnayaka is appointed as the Director General of the same Department. (Colombo/Oct22/2024)
+
+◼️
+
+[Data](articles/50424074.json)
 
 ---
 
@@ -903,6 +1061,26 @@ Further, the procurement for the purchase of cranes has already been awarded.
 [Data](articles/c6572c7d.json)
 
 [Extended Data](ext_articles/c6572c7d.ext.json)
+
+---
+
+### Sri Lanka to restrict railway scrap metal tenders to local bidders
+
+*2024-10-22 11:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-restrict-railway-scrap-metal-tenders-to-local-bidders-184394/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has decided to restrict tenders for disposal of scrap metal by state railway and bus companies, to local bidders only, Minister Vijitha Herath said.
+
+Sri Lanka’s cabinet had decided in June 2024 to call international tenders to sell scrap metal.
+
+The two state transport agencies had large volumes of scrap metal, a post-cabinet statement said.
+
+The cabinet had decided to restrict tenders to local buyers to help local industries which needed scrap metal.
+
+The cabinet had approved the proposal by the Minister of Transport, Ports and Civil Aviation to only allow local companies to bid. (Colombo/Oct22/2024)
+
+◼️
+
+[Data](articles/f67e7b68.json)
 
 ---
 
@@ -1712,6 +1890,22 @@ ECONOMYNEXT – The International Monetary Fund was encouraged by Sri Lanka’s 
 
 ---
 
+### IMF encouraged by Sri Lanka commitment to safeguard gains under program
+
+*2024-10-22 08:15:00* · [`economynextcom`](https://economynext.com/imf-encouraged-by-sri-lanka-commitment-to-safeguard-gains-under-program-184373/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund was encouraged by Sri Lanka’s commitment to continue reforms to safeguard gains under its program, Managing Director has said in a twitter post.
+
+“Encouraged by the authorities’ commitment to continue the reform efforts to safeguard the hard-won gains under the IMF-supported program,” she said after meeting Central bank Governor Nandalal Weerasinghe.
+
+“The IMF remains committed to supporting Sri Lanka build a better future for its people.” (Colombo/Oct22/2024)
+
+◼️
+
+[Data](articles/adcf450b.json)
+
+---
+
 ### Helicopter crashes into radio tower in Houston, killing 4
 
 *2024-10-22 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102841/helicopter-crashes-into-radio-tower-in-houston-killing-4) · `en`
@@ -2215,201 +2409,5 @@ The forum, to be held at Springvale City Hall in Melbourne on 25 October, is an 
 [Data](articles/88033763.json)
 
 [Extended Data](ext_articles/88033763.ext.json)
-
----
-
-### Do not spots;Scholarship Students Action
-
-*2024-10-21 23:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புள்ளிகள்-வேண்டாம்-புலமைப்பரிசில்-மாணவர்கள்-அதிரடி/175-345818) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Fundamental rights petition filed against scholarship exam resolution. Students and parents from Badulla district challenge three questions. Defendants include Commissioner General of Examinations, Education Minister, Deputy IG of CID, and Attorney General.
-
-🟩
-
-The fundamental rights petition has been filed for the cancellation of the resolution issued to the three questions that have been released in the scholarship examination.
-
-The petition was submitted by a group of students and their parents who examined the exam from the Badulla district.
-
-The Commissioner General of Examinations, Education Minister Dr. Harini Amarasuriya, Deputy Inspector General of Police in charge of the Criminal Investigation Department and the Attorney General have been referred to as defendants.. Remble
-
-◼️
-
-[Data](articles/de31ff2b.json)
-
-[Extended Data](ext_articles/de31ff2b.ext.json)
-
----
-
-### Sri Lanka’s road to global competitiveness: Insights from trade, energy, and agriculture policies
-
-*2024-10-21 22:50:54* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-road-to-global-competitiveness-Insights-from-trade-energy-and-agriculture-policies/14-768240) · `en`
-
-In 2023, Sri Lanka’s goods and services exports made up nearly 20.4% of GDP, with manufacturing exports contributing 14%. However, the country’s merchandise export mix remains highly concentrated, with 77% of export income coming from industrial goods, mainly apparel, and just 22% from agricultural exports. This lack of sufficient diversification leaves Sri Lanka’s export economy vulnerable, heavily dependent on the apparel sector and traditional sectors like tea and rubber.
-
-...
-
-[Data](articles/340d8d0f.json)
-
-[Extended Data](ext_articles/340d8d0f.ext.json)
-
----
-
-### Driving global change: GSCS International and JAAF lead the way in sustainable development
-
-*2024-10-21 22:47:01* · [`dailyftlk`](https://www.ft.lk/opinion/Driving-global-change-GSCS-International-and-JAAF-lead-the-way-in-sustainable-development/14-768239) · `en`
-
-GSCS International Ltd., with a global presence in over 35 countries, offers steady, sustainable, and enduring development as a provider of certification, assessment, audit, verification, inspection, and capacity-building services.
-
-GSCS International – Sri Lanka successfully organised the SustainSphere 2.0 program, aimed at innovating tomorrow’s industry through sustainability.
-
-Held in Sri Lanka, the event attracted a diverse audience, including representatives from academic institutions, government bodies, trade associations, brands, and various client organisations, all gathered to explore the future of sustainable development in the apparel industry.
-
-The first keynote address was delivered by University of Moratuwa Department of Facilities Management Senior Lecturer Dr. Harshini Mallawarachchi. Dr. Mallawarachchi emphasised Circular Economy: A Pathway for Net-Zero Apparel Manufacturing.
-
-...
-
-[Data](articles/2f03cccf.json)
-
-[Extended Data](ext_articles/2f03cccf.ext.json)
-
----
-
-### Continuing the business of government in between regime or leadership change
-
-*2024-10-21 22:43:20* · [`dailyftlk`](https://www.ft.lk/columns/Continuing-the-business-of-government-in-between-regime-or-leadership-change/4-768238) · `en`
-
-The University Grants Commission and the National Education Commission are appointed by the President for a fixed term. We should be able to trust the boards of these institutions to give a reasonable timetable for their resignation, even if legally they can serve until the end of their term
-
-This is not the first time that a regime changed, and the board members got marching orders from minions in their organisation who have now got close to the ears of the executive. People who have served with dedication have to leave like thieves at night even before a new board is in place. There must be a better way – not just for civility but for the benefit of the country
-
-The State apparatus consists of the executive, ministries, departments and public enterprises. A regime change is signified by the election of a new President and the formation of a new Cabinet of Ministers headed by the President. A Cabinet reshuffle also signifies a change in leadership of a ministry within the regime.
-
-...
-
-[Data](articles/ef2cd7ab.json)
-
-[Extended Data](ext_articles/ef2cd7ab.ext.json)
-
----
-
-### A low productivity trap? Strengthening skills, jobs and public sector efficiency in Sri Lanka
-
-*2024-10-21 22:40:00* · [`islandlk`](http://island.lk/a-low-productivity-trap-strengthening-skills-jobs-and-public-sector-efficiency-in-sri-lanka/) · `en`
-
-Himani Vithanage is a Research Assistant working on health, education, and labour policy at IPS. She received the IPS’ Saman Kelegama Memorial Research Grant for 2021. Himani holds a BA in Economics with First Class Honours from the University of Colombo. Himani also holds a BSc in Economics and Finance with First Class Honours from the London School of Economics and Political Science (LSE).
-
-Sri Lanka experienced six consecutive quarters of negative economic growth up to the third quarter of 2023. This downturn has had a direct impact on the labour market, leading to lower wage rates and discouraging workforce participation and skill development. As a result, productivity levels continue to fall, creating a vicious cycle known as the “low productivity trap”, which hampers further economic recovery.
-
-...
-
-[Data](articles/a3bf4cea.json)
-
-[Extended Data](ext_articles/a3bf4cea.ext.json)
-
----
-
-### Should Sri Lanka allow politicians to play the pork barrel game in the future?
-
-*2024-10-21 22:37:20* · [`dailyftlk`](https://www.ft.lk/columns/Should-Sri-Lanka-allow-politicians-to-play-the-pork-barrel-game-in-the-future/4-768237) · `en`
-
-Principally, every rupee spent by the Government should maximise the social welfare of the citizens
-
-Pork-barrel politics can lead to a fragmented political system where representatives focus more on their individual districts rather than working collaboratively to address broader, more urgent national issues. It creates a system where narrow, localised interests dominate policy decisions
-
-In the 19th century, barrels filled with salted pork were considered a significant source of food, especially in rural America. This was a food preservation technique to make the meat last through the winter. Another interesting fact is that not every family had the capability to own such a barrel full of salted pork. This means that owning a pork barrel also served as a symbol of a prestigious social class with greater access to resources.
-
-...
-
-[Data](articles/1f7b021c.json)
-
-[Extended Data](ext_articles/1f7b021c.ext.json)
-
----
-
-### Evolution of minimum wages legislation in Sri Lanka: From 2000 to 2024
-
-*2024-10-21 22:30:51* · [`dailyftlk`](https://www.ft.lk/columns/Evolution-of-minimum-wages-legislation-in-Sri-Lanka-From-2000-to-2024/4-768235) · `en`
-
-Can employers sustain this hike in light of Sri Lanka’s current economic reality?
-
-Fair wages are essential to the financial security of workers, but can employers sustain a wage hike in a fragile economy? This article explores key milestones in Sri Lanka’s minimum wage legislation from 2000 onwards, examines the population below the poverty line, and discusses whether businesses can absorb the recent increases amidst the country’s economic challenges, including debt obligations and import restrictions.
-
-1. Early legislative efforts: Budgetary Relief Allowance of Workers Act, No. 36 of 2005
-
-In 2005, Sri Lanka introduced the Budgetary Relief Allowance of Workers Act, No. 36 of 2005, which required private sector employers to provide a monthly relief allowance of Rs. 1,000. While this was a modest step compared to modern standards, it helped support workers, particularly those in low-income sectors like plantations and textiles.
-
-...
-
-[Data](articles/d5f07d5f.json)
-
-[Extended Data](ext_articles/d5f07d5f.ext.json)
-
----
-
-### Our alliance is a strong alliance on the issue of the ethnic issue to be resolved: Sivasakthi Anandan
-
-*2024-10-21 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196806) · `ta`
-
-Sivasakthi Anandan former MP says Tamil ethnic issue unresolved. TNA contests parliamentary elections in North East. Government denies ethnic problem. Thousands died fighting peacefully. TNA seeks support for Tamil rights.
-
-🟩
-
-Former parliamentarian Sivasakthi Anandan said that when the government claims that there is no national ethnic problem for the Tamil people, the North East is working in favor of the government that there is no national ethnic problem.
-
-He was speaking at a media briefing held at the office in Mannar on Monday evening.
-
-The Democratic TNA is contesting the most powerful alliance in the North and East ahead of the upcoming parliamentary elections.
-
-At the same time, the election is seen as a democratic Tamil coalition as a coalition that win the parliamentary candidates with the highest number of parliamentary candidates.
-
-Our coalition is a strong coalition in the answer to the national ethnic problem of the Tamil people.
-
-The Tamil people have been a national ethnic problem for the past 75 years. The Tamil people have been fighting non -violently and democratically for the national ethnic problem. Thousands have died.
-
-...
-
-[Data](articles/04f0bbed.json)
-
-[Extended Data](ext_articles/04f0bbed.ext.json)
-
----
-
-### Sir - Movie Review
-
-*2024-10-21 22:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196808) · `ta`
-
-Here's a 200-character summary of the movie review:
-
-
-
-"Sir" film review: Bose Venkat's directorial debut explores caste issues in 1950s-80s Tamil Nadu. Saravanan shines as Ponnarasan, while Vimal impresses in romantic and action scenes. Sayadevi makes a strong debut. Music by Sidhu Kumar adds depth. Some emotional scenes lack intensity. Overall, a powerful portrayal of educational rights for oppressed communities.
-
-🟩
-
-Actors: Wimal, Saya Devi, Saravanan, Rama, S. Siraj, Saravana Shakti, writer Jayapalan and others.
-
-Actor and Director Bose Venkat is the second film 'Sir'. Watching the film, the director has given the audience through his company, amazing that this should be said to the community.
-
-After the contribution of Vijayamaran, the expectation of the film increased.Or not?We will continue to see.
-
-Ponnarasan works as the headmaster in a school -sponsored school in the village of Mangollai.
-
-His father Annadurai was also retired as the headmaster of the school.
-
-He is currently being built by chains. Students studying in the school in the town are provoking his disability and having fun.
-
-Thus, Sivagnanam, the son of Ponnarasan, who is provoking, fights for justice for the students who mocked his grandfather.
-
-But because they are the dominant caste, his mother suppresses Sivagnanam that he should not go to fight.
-
-...
-
-[Data](articles/a87b5e08.json)
-
-[Extended Data](ext_articles/a87b5e08.ext.json)
 
 ---

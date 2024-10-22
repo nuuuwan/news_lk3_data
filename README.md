@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 20:58:44**
+As of **2024-10-22 21:10:58**
 
 ## Newspaper Stats
 
-*Scraped **50,781** Articles*
+*Scraped **50,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ dailymirrorlk | 4,733
 adaderanalk | 6,018
 tamilmirrorlk | 6,978
 virakesarilk | 8,146
-adaderanasinhalalk | 8,811
+adaderanasinhalalk | 8,812
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,781 (100.0%) of 50,781 articles have been extended.
+50,782 (100.0%) of 50,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### More information on the acid of the acid
+
+*2024-10-22 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202438) · `si`
+
+Father saves son from police jeep abduction, seriously injured, dies. Youth flees after attack. Police investigate dispute cause.
+
+🟩
+
+A father who was trying to save his son from a jeep abducted by a group of police officers was reported from the Eheliyagoda Parakaduwa.
+
+A house in Parakaduwa, Eheliyagoda had arrived in a jeep.
+
+When they were handled by handcuffing at home, their parents were protesting, where the group was forcibly tried to carry the youth to carry the young man.
+
+The father had moved and interrupted the father, which was hanged in the jeep and interrupted them.
+
+The police said that the driver of the jeep had been forwarded before the vehicle.
+
+The 65-year-old father who was seriously injured were immediately taken to hospital but he died.
+
+The abducted youth was taken to a stomach in Eheliyagoda and launched a severe actor attacked and he had fled the site, police said.
+
+The young man who went to a house in the nearby house has informed his relative by a phone.
+
+Police said that the causes of a dispute with a group of people in a neighboring house were suspected.
+
+...
+
+[Data](articles/5443072c.json)
+
+[Extended Data](ext_articles/5443072c.ext.json)
+
+---
 
 ### Announcement on assistance for Sri Lankans during UAE visa amnesty
 
@@ -2467,25 +2501,5 @@ Five people have been killed following explosion of a cylinda in the Bulndyasar 
 [Data](articles/3bfa22bb.json)
 
 [Extended Data](ext_articles/3bfa22bb.ext.json)
-
----
-
-### Ajith Ariyaratne passes away my mind
-
-*2024-10-22 08:58:09* · [`adalk`](https://www.ada.lk/breaking_news/තනිවෙන්න-ඉඩ-දෙන්න-මටයි-මගේ-හිතටයි-කියු-අජිත්-ආරියරත්න-අභාවප්‍රාප්ත-වෙයි/11-412604) · `si`
-
-Ajith Ariyaratne, 59, sentenced to death. He said: "I'll be alone," "I'm my mind." Known for song "Throughout the Heart."
-
-🟩
-
-He was 59 years old when he was sentenced to death.
-
-He said, "I will be alone ',' I am my mind ',' I have a popular songs like 'throughout the heart'.
-
-◼️
-
-[Data](articles/00e3860d.json)
-
-[Extended Data](ext_articles/00e3860d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 14:58:40**
+As of **2024-10-22 15:10:32**
 
 ## Newspaper Stats
 
-*Scraped **50,723** Articles*
+*Scraped **50,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,81 @@ dailymirrorlk | 4,733
 adaderanalk | 6,010
 tamilmirrorlk | 6,964
 virakesarilk | 8,136
-adaderanasinhalalk | 8,801
+adaderanasinhalalk | 8,804
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,719 (100.0%) of 50,723 articles have been extended.
+50,723 (100.0%) of 50,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### පෙත්සම් 2ක වගඋත්තරකරුවකු ලෙස රනිල් ව නම් කිරීමට අවසර
+
+*2024-10-22 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202430) · `si`
+
+2022 වසරේ සමාජවාදී තරුණ සංගමය විසින් පැවැත්වූ විරෝධතා ව්‍යාපාරයකට පොලීසිය විසින් පහරදී විසුරුවා හැරීමට එරෙහිව ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සම්වල වගඋත්තරකරුවකු ලෙස හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නම් කිරීමට ශ්‍රේෂ්ඨාධිකරණය අවසර ලබාදී තිබේ.
+
+සමාජවාදී තරුණ සංගමයේ සාමාජිකයින් පිරිසක් ගොනුකර තිබූ පෙත්සම් දෙකක් අද (22) කැඳවූ අවස්ථාවේදී පෙත්සම්කාර පාර්ශ්වයේ නීතීඥවරුන් කළ ඉල්ලීමක් සලකාබැලීමෙන් අනතුරුව මෙම අවසරය ලබාදී ඇත.
+
+◼️
+
+[Data](articles/61f5d0c5.json)
+
+---
+
+### විත්තිකරුවෙකුගේ ඇපකරුවන්ට ලක්ෂ 90ක් දඩ
+
+*2024-10-22 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202429) · `si`
+
+මේ වනවිට අධිකරණය මගහැර සිටින රජිත අසන්ත නමැති විත්තිකරුගේ ඇපකරුවන් තිදෙනාට කොළඹ මහාධිකරණය විසින් රුපියල් ලක්ෂ 90ක දඩයක් නියම කර තිබේ.
+
+හෙරොයින් මත්ද්‍රව්‍ය ජාවාරම තුළින් රුපියල් ලක්ෂ 100කට අධික  වත්කම් හා දේපොළ උපයාගත් ආකාරය හෙළිදරව් කිරීමට අපොහොසත් වීම සම්බන්ධයෙන් මුදල් විශුද්ධීකරණය වැළැක්වීමේ පනත යටතේ රජිත අසන්ත චෝදනා ලබා සිටී.
+
+කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා විසින් මෙම තීන්දුව ලබාදුනි.
+
+අදාළ විත්තිකරු මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී   ඔහු වෙනුවෙන් තුෂාර ඉන්ද්‍රජිත්, අමිල ප්‍රනාන්දු සහ මොහොමඩ්  ඉක්‍රම් යන පුද්ගලයින් තුන්දෙනා මෙම විත්තිකරුගේ ඇපකරුවන් වශයෙන් ඉදිරිපත් වී තිබුණි.
+
+ඒ වෙනුවෙන් ඔවුන් රුපියල් ලක්ෂ 100 බැගින් වූ ඇප බැඳුම්කරවලට අත්සන් කර තිබූ බවත් නඩුවේ විභාගයේදී අනාවරණය වුණි.
+
+එහෙත් විත්තිකරු අධිකරණය මගහැර පළ ගොස් සිටීම හේතුවෙන් එම ඇපකරුවන් තුන්දෙනා අධිකරණය හමුවට කැඳවනු ලැබීය.
+
+...
+
+[Data](articles/ea4bed0a.json)
+
+---
+
+### පුතාව බේරාගැනීමට උත්සාහ කළ පියාට දිවි අහිමිවෙයි
+
+*2024-10-22 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202428) · `si`
+
+පිරිසක් විසින් ජීප් රථයකින් පැහැරගෙන යමින් සිටි සිය පුත්‍රයාව බේරාගැනීමට උත්සාහ කළ පියෙකු එම ජීප් රථයට යටකර ඝාතනය කර ඇති බව වාර්තා වී තිබේ.
+
+පුත්‍රයාට ද අදාළ පිරිස විසින් ඇසිඩ් ප්‍රහාරයක් එල්ලකර ඇති බව පොලීසිය පැවසුවේ ය.
+
+ඇහැළියගොඩ, පරකඩුව ප්‍රදේශයේ නිවසකට පසුගිය 19 වනදා සවස, පොලිස් නිලධාරීන් බව පවසා පිරිසක් ජීප් රථයකින් පැමිණ තිබුණි.
+
+එම පිරිස නිවසේ සිටි තරුණයෙකුට මාංචු දමා ඇසිඩ් ගසා බලහත්කාරයෙන් රැගෙන යාමට තැත්කිරීමේදී ඔහුගේ පියා එය වැළැක්වීමට උත්සාහ කර ඇති බව පොලීසිය පැවසුවේ ය.
+
+එහිදී පියා ජීප් රථයේ එල්ලී ඇති අතර එය නොනවත්වා ධාවනය කිරීම නිසා ඔහු ඉන් වැටී ඇති බව සඳහන් ය.
+
+එහිදී ජීප් රථයේ රියදුරු එම පුද්ගලයා ව යටකරමින් රථය ඉදිරියට පදවා ඇති බව පැවසෙයි.
+
+පොලීසිය සඳහන් කළේ අනතුරුට ලක්වූ 65 හැවිරිදි එම පුද්ගලයා රෝහල්ගත කිරීමෙන් පසු මියගොස් ඇති බවය.
+
+පැහැරගැනීමට ලක් වූ පුත්‍රයා තුවාල සහිතව මහමඟ දමාගොස් සිටියදී ඥාතීන් රෝහල්ගත කර තිබුණි.
+
+පෞද්ගලික ආරවුලක් මෙම පහරදීමට හේතුව ලෙස සැකකරන බව පොලීසිය සඳහන් කළේ ය.
+
+◼️
+
+[Data](articles/1947114d.json)
+
+---
 
 ### President directs Governors to prepare new proposal to rationalize Provincial Council system
 
@@ -50,19 +114,31 @@ During the meeting, the President also highlighted the importance of establishin
 
 [Data](articles/6b79e825.json)
 
+[Extended Data](ext_articles/6b79e825.ext.json)
+
 ---
 
-### 1997 அழையுங்கள்
+### Call 1997
 
 *2024-10-22 14:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1997-அழையுங்கள்/175-345851) · `ta`
 
-பொலிஸார் தொடர்பில் ஏதேனும் முறைகேடு அல்லது மோசடி நடந்தால் அது குறித்து தெரிவிக்க பொதுமக்களுக்காக பொலிஸார் அவசர தொலைபேசி எண்ணை அறிமுகப்படுத்தியுள்ளனர்.
+Here's a 200-character summary:
 
-இதன்படி, 1997 என்ற தொலைபேசி இலக்கத்தின் ஊடாக அறிவிக்குமாறு பதில் பொலிஸ் மா அதிபர் பொதுமக்களிடம் கேட்டுக்கொண்டுள்ளார்.
+
+
+Police introduce emergency hotline 1997 for reporting abuse or fraud. Public urged to use this number to inform authorities about misconduct.
+
+🟩
+
+The police have introduced an emergency telephone number to the public to report on any abuse or fraud regarding the police.
+
+Accordingly, the Inspector General of Police has asked the public to announce through the telephone number 1997.
 
 ◼️
 
 [Data](articles/fb247f19.json)
+
+[Extended Data](ext_articles/fb247f19.ext.json)
 
 ---
 
@@ -184,23 +260,29 @@ According to the section 3(1) (a) of the said Act, three of the members are appo
 
 ---
 
-### சேறு பூசும் சுவரொட்டி: ரங்காவை கைது செய்ய உத்தரவு
+### Muddy Poster poster: Ranga ordered to arrest
 
 *2024-10-22 12:43:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேறு-பூசும்-சுவரொட்டி-ரங்காவை-கைது-செய்ய-உத்தரவு/175-345844) · `ta`
 
-சேறு பூசும் சுவரொட்டிகளுடன் முன்னாள் பாராளுமன்ற உறுப்பினர் ஜே.ஸ்ரீரங்காவுக்கு தொடர்பு இருக்குமாயின், அவரை கைது செய்து நீதிமன்றத்தில் நிறுத்துமாறு, கொழும்பு  பிரதம நீதவான் திலின கமகே, கொழும்பு குற்றப்புலனாய்வு பிரிவினருக்கு உத்தரவிட்டுள்ளார்.
+Colombo Chief Magistrate orders CID to arrest former MP J. Sreeranga over muddy posters. Police investigate connection to Mannar High Court Judge Mohammed Mihal. Ranga claims posters stuck to police vehicles.
 
-மன்னார் மேல் நீதிமன்ற நீதிபதி மொஹம்மட் மிஹாலுக்கு எதிராக, சேறு பூசும் வகையிலான சுவரொட்டிகள் கொழும்பில்  ஒட்டப்பட்டிருந்தமை தொடர்பில் விசாரணை நடத்திய பொலிஸார்   ஒருவரை கைது செய்தனர்.
+🟩
 
-இந்த சுவரொட்டிகளை ஒட்டுமாறு முன்னாள் பாராளுமன்ற உறுப்பினர் ஸ்ரீரங்கா, கூறினார் என, அவர், பொலிஸாருக்கு வாக்குமூலமளித்தார்.
+Colombo Chief Magistrate Thilina Kamage has ordered the Colombo Criminal Investigation Division (CID) to arrest him and put him in court if former MP J. Sreeranga is linked to the muddy posters.
 
-நீதிமன்ற உத்தரவின் பேரில் ரங்காவை கைது செய்ய கொழும்பு குற்றப்புலனாய்வு பொலிஸார் ரங்காவின் வீட்டுக்கு சென்றபோதும் அங்கு அவர் இருக்கவில்லை.
+Police have arrested a man who was investigating the muddy passenger posters against the Mannar High Court Judge Mohammed Mihal.
 
-இதனால், உடனடியாக அவரை தேடிக்கண்டுபிடித்து மன்றில் ஆஜர் செய்யுமாறு கொழும்பு  பிரதம நீதவான் திலின கமகே, ​திங்கட்கிழமை (22) உத்தரவிட்டார்.
+Former parliamentarian Sriranga said that the posters were sticking to the police.
+
+The Colombo Criminal Investigation Police went to Ranga's house to arrest Ranga on a court order.
+
+Colombo Chief Magistrate Dilina Kamage on Monday (22) ordered him to appear to him immediately.
 
 ◼️
 
 [Data](articles/3e844697.json)
+
+[Extended Data](ext_articles/3e844697.ext.json)
 
 ---
 
@@ -924,19 +1006,25 @@ In equities, Colombo’s All Share Price Index opened down 0.07 percent, or 9.12
 
 ---
 
-### அடையாளம் தெரியாத இரண்டு சடலங்கள் மீட்பு
+### Recovery of two unidentified bodies
 
 *2024-10-22 10:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அடையாளம்-தெரியாத-இரண்டு-சடலங்கள்-மீட்பு/76-345827) · `ta`
 
-கண்டி பொலிஸ் பிரிவிற்கு உட்பட்ட பகுதியில் அடையாளம் தெரியாத இரண்டு சடலங்கள் கண்டெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Unidentified bodies found: one near Kandy Lake, another on Peradeniya Road. Police investigating identities.
 
-கண்டி லேக் சர்க்கிளில் உள்ள சங்கராஜ மாவத்தையில் உள்ள சுவிஸ் ஹோட்டலுக்கு முன்பாக உள்ள ஏரியில் யுவதி ஒருவரின் சடலம் மிதப்பதாகவும், அவர்களின் அடையாளம் இதுவரை அடையாளம் காணப்படவில்லை எனவும் பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-பேராதனை வீதியில் பிரிம்ரோஸ் தோட்டத்திற்கு கீழே பக்க வீதியொன்றில் உயிரிழந்த இளைஞனின் சடலம் ஒன்று காணப்படுவதாகவும் ஆனால் சடலத்தின் அடையாளம் இதுவரை அடையாளம் காணப்படவில்லை எனவும் பொலிஸார் தெரிவிக்கின்றனர்.
+Two unidentified bodies have been found in the area of ​​the Kandy Police Division, police said.
+
+According to police, the body of a young woman in the lake in front of the Swiss hotel in Sankaraja Mawatha in Kandy Lake Circle and their identity has not yet been identified.
+
+According to police, the body of a young man who died on a side road under the primrose estate on Peradeniya Road, but the identity of the body has not yet been identified.
 
 ◼️
 
 [Data](articles/ecd9885d.json)
+
+[Extended Data](ext_articles/ecd9885d.ext.json)
 
 ---
 
@@ -2261,83 +2349,5 @@ Also, the non-food category of food, 0.2% in August, has reduced to-10.7% in Sep
 [Data](articles/90b2cffb.json)
 
 [Extended Data](ext_articles/90b2cffb.ext.json)
-
----
-
-### The only Tamil question paper for 8 and 9
-
-*2024-10-21 19:33:35* · [`adalk`](https://www.ada.lk/breaking_news/8-හා-9-වැනි-සඳහා-එකම-දෙමළ-ප්‍රශ්න-පත්‍රය-දීලා/11-412599) · `si`
-
-Tamil question papers for 8th and 9th grades released by Department of Education. 9th grade students received papers with interpreter. Director investigating issue. Ceylon Teachers' Service Union Secretary Stalin criticizes administrative weaknesses causing educational crisis.
-
-🟩
-
-The Tamil curriculum has been established in the second term by the Department of Education by the Department of Education.
-
-The question paper of the year, which was prepared in the year, which was prepared in the year (21) at the time of the period.
-
-He said that the question paper had been issued to the 9th Grade Studies with the interpreter of the question paper in this regard.
-
-The director who was looking into the incident will be restored to the 9th Grade Students issue.
-
-The Secretary of the Ceylon Teachers' Service Union Stalin said that the education of the province of the province was in a large crash and the main reason is administrative weaknesses.
-
-The event is not considered as granted, and the state of Stalin has gone to the end of the last days, "he said,
-
-◼️
-
-[Data](articles/8f3cdfa5.json)
-
-[Extended Data](ext_articles/8f3cdfa5.ext.json)
-
----
-
-### 9 out of the 10 complaints of vehicles difficult to the government
-
-*2024-10-21 19:24:55* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ගැන-පැමිණිලි-10-න්-9-ක්ම-රජය-අපහසුතාවයට-පත්-කිරීම්-/11-412598) · `si`
-
-Here's a 200-character summary:
-
-
-
-Government investigates 9/10 vehicle complaints. CID finds false claims about vehicles owned by officials. Embarrassment for government. Vehicles linked to high-ranking officials discovered in hotels.
-
-🟩
-
-Investigations have revealed that the government has falsely to embarrass the government to embarrass the government in various parts of the island.
-
-The Criminal Investigations Department (CID) officers from the Criminal Investigations and Brain Tannipitiya, Panarachchi, Panaranipitiya, such as Harvenup, Pannipitiya, had such vehicles and other vehicles were revealed in the long investigations into the private owners.Sources said that there are available.
-
-Providing false information to the minds of the government in the vehicles, the government is uncomfortable and embarrassed, and the Criminal Investigation Officer of the Criminal Investigation Officers.
-
-According to the sources, the vehicle used by the vehicle after the vehicle was used by the vehicle in a five-star hotel after the discovery of former Minister Joneston Fernando, every month after the discovery was discovered by the Criminal Investigation Department, the sources further revealed.
-
-◼️
-
-[Data](articles/6d10cb07.json)
-
-[Extended Data](ext_articles/6d10cb07.ext.json)
-
----
-
-### In public viewing of election spending statements
-
-*2024-10-21 19:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவின-அறிக்கைகள்-பொதுமக்களின்-பார்வைக்கு/175-345801) · `ta`
-
-Public can view election spending reports online from Oct 24, 2024, 9am-4pm. Reports submitted by candidates, parties, and coordinators under Elections Act 2023. Section 03 compliance required.
-
-🟩
-
-Certificates of the election spending reports submitted to the Election Commission by the candidates contested in the 2024 presidential election are now open to the public's view.
-
-These reports, handed over by candidates, secretaries of recognized political parties and voters who coordinated candidates, and the Elections Act of 2023.. Made according to section 03 of 3.
-
-The public can review these reports from 9:00 am to 4:00 pm on the week of October 24, 2024.
-
-◼️
-
-[Data](articles/fe5d97bd.json)
-
-[Extended Data](ext_articles/fe5d97bd.ext.json)
 
 ---

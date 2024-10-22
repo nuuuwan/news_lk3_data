@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 23:23:49**
+As of **2024-10-22 23:39:55**
 
 ## Newspaper Stats
 
-*Scraped **50,792** Articles*
+*Scraped **50,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,104
 dailyftlk | 3,458
 adalk | 4,720
 dailymirrorlk | 4,733
-adaderanalk | 6,019
+adaderanalk | 6,020
 tamilmirrorlk | 6,980
 virakesarilk | 8,148
 adaderanasinhalalk | 8,815
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,792 (100.0%) of 50,792 articles have been extended.
+50,793 (100.0%) of 50,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### ‘Ice’, ‘Mandy’ and Kush found in parcels sent to Sri Lanka
+
+*2024-10-22 23:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102861/ice-mandy-and-kush-found-in-parcels-sent-to-sri-lanka) · `en`
+
+Police Narcotics Bureau (PNB) officers at the Bandaranaike International Airport (BIA) in Katunayake have seized large quantities of a variety of drugs including ‘Ice’, ‘Mandy’ and Kush cannabis concealed in seven parcels which were sent to the country via air cargo from several foreign countries.
+
+Following information received from an air freight company at the BIA premises, the PNB officers had opened and inspected the suspicious parcels at the air freight company yesterday (21).
+
+Accordingly, upon inspection in total 07 kg and 21 g of ‘Ice’ (Crystal Methamphetamine), 01 kg and 338 g of ‘Mandy,’ a synthetic chemical drug also known as MDMA, and 01 kg and 143 g of ‘Kush’ cannabis were found concealed in seven parcels.
+
+The Police Narcotics Bureau is conducting further investigations to arrest the suspects who had imported the drugs into the country.
+
+◼️
+
+[Data](articles/c9f40329.json)
+
+[Extended Data](ext_articles/c9f40329.ext.json)
+
+---
 
 ### News to Sri Lankans in the United Arab Emirates
 
@@ -2509,23 +2529,5 @@ However, during a sermon on Sunday, Cardinal Malcolm Ranjith rejected the allega
 [Data](articles/9e5d67e6.json)
 
 [Extended Data](ext_articles/9e5d67e6.ext.json)
-
----
-
-### Two gunmen arrested in connection with Matara shooting
-
-*2024-10-22 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102844/two-gunmen-arrested-in-connection-with-matara-shooting) · `en`
-
-The Police Special Task Force (STF) has apprehended the two gunmen involved in the shooting and killing of a person in the Kekanadura area of Matara.
-
-On October 15, a person who was travelling in a three-wheeler was shot dead by an individual who had arrived in a car and fled the scene.
-
-It was also reported that the shooting victim had been operating as a “vehicle seizer”.
-
-◼️
-
-[Data](articles/b55f5191.json)
-
-[Extended Data](ext_articles/b55f5191.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 07:27:36**
+As of **2024-10-22 08:02:33**
 
 ## Newspaper Stats
 
-*Scraped **50,657** Articles*
+*Scraped **50,658** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 409
-colombotelegraphcom | 507
+colombotelegraphcom | 508
 bbccomsinhala | 508
 islandlk | 3,021
 economynextcom | 3,093
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,790
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,649 (100.0%) of 50,657 articles have been extended.
+50,650 (100.0%) of 50,658 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -161,6 +161,22 @@ Food inflation was recorded at 0.2 per cent last August. It was recorded in Sept
 [Data](articles/ee1e192b.json)
 
 [Extended Data](ext_articles/ee1e192b.ext.json)
+
+---
+
+### Irrational Behaviour Of RW & MR Vs Rational Behaviour Of AKD
+
+*2024-10-22 01:26:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/irrational-behaviour-of-rw-mr-vs-rational-behaviour-of-akd/) · `en`
+
+As a well-educated veteran politician who has served in parliament for nearly 50 years and has been the leader of UNP for a long time, the public expects that Ex-President Ranil Wickremesinghe (RW) will behave and respond rationally. The above can also be well applied to Ex-President MR. However, this article shows that their irrational behavior can be compared with the rational behavior of President Anura Kumara Dissanayake (AKD). Along with 50 years in politics, RW and MR failed to achieve political maturity in the right direction that the President/AKD achieved within 20 years of politics; the young politicians who follow AKD can learn all. But those who follow RW and MR are lost.
+
+Given the parliamentary election on 14 Movement 2024, the public can hear unique and surprising things about politics, particularly from political rallies. This article aims to discuss a few of the above so that voters can better understand whom to cast their votes for.
+
+...
+
+[Data](articles/b9aa80c8.json)
+
+[Extended Data](ext_articles/b9aa80c8.ext.json)
 
 ---
 
@@ -2287,25 +2303,5 @@ Police suspect that the fire may have been caused by a gas leak.
 [Data](articles/6aca8a23.json)
 
 [Extended Data](ext_articles/6aca8a23.ext.json)
-
----
-
-### Dilith is a proposal
-
-*2024-10-21 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202399) · `si`
-
-Dilith Jayaweera proposes transferring roles after elections. He criticizes current leadership, suggesting Anura Kumara's government needs improvement. Jayaweera advocates for increased public servant salaries and lower fuel prices. He questions the necessity of an opposition leader, implying Sajith Premadasa lacks justification for the position.
-
-🟩
-
-The Leader of the Leader Dilith Jayaweera says that the people should be transferred to the role of a strong opposition after the coming parliamentary election.
-
-He was speaking at a public meeting held in Panadura yesterday.
-
-...
-
-[Data](articles/e1fe99a7.json)
-
-[Extended Data](ext_articles/e1fe99a7.ext.json)
 
 ---

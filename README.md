@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 04:23:58**
+As of **2024-10-23 04:39:46**
 
 ## Newspaper Stats
 
-*Scraped **50,795** Articles*
+*Scraped **50,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 509
 bbccomsinhala | 513
 islandlk | 3,021
 economynextcom | 3,106
-dailyftlk | 3,458
+dailyftlk | 3,460
 adalk | 4,720
 dailymirrorlk | 4,733
 adaderanalk | 6,020
@@ -26,9 +26,41 @@ adaderanasinhalalk | 8,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,795 (100.0%) of 50,795 articles have been extended.
+50,796 (100.0%) of 50,797 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-23 (Wednesday)
+
+### Rise and fall of Ruhunu Rajapaksa dynasty
+
+*2024-10-23 04:12:28* · [`dailyftlk`](https://www.ft.lk/columns/Rise-and-fall-of-Ruhunu-Rajapaksa-dynasty/4-768281) · `en`
+
+‘Is the “House of Rajapaksa” Falling Down?’ was the heading of an article written by me for our sister paper the “Daily Mirror” two and a half years ago. The article was published on 23 April 2022 when the “Aragalaya” (struggle) protests were going on. The article focused on the Rajapaksa family and its struggle to stay afloat in power despite the rising tide of public resentment and anger. The following two paragraphs are excerpted from that article:
+
+...
+
+[Data](articles/4e216096.json)
+
+[Extended Data](ext_articles/4e216096.ext.json)
+
+---
+
+### President skips 2024 CHOGM amid Parliamentary Elections
+
+*2024-10-23 04:05:35* · [`dailyftlk`](https://www.ft.lk/news/President-skips-2024-CHOGM-amid-Parliamentary-Elections/56-768280) · `en`
+
+Amidst the upcoming General Elections, President Anura Kumara Dissanayake will not attend the 2024 Commonwealth Heads of Government Meeting (CHOGM) to be held in Samoa from 24 to 26 October.
+
+“Neither the President nor myself as the Foreign Minister are participating at this year’s CHOGM,” Cabinet Spokesman and Minister Vijitha Herath said at the weekly post-Cabinet meeting media briefing yesterday.
+
+He said only a group of representatives comprising the senior officers of the Foreign Affairs Ministry and Sri Lanka High Commission in London will participate at this year’s events representing Sri Lanka.
+
+◼️
+
+[Data](articles/554fb60c.json)
+
+---
 
 ### 2024-10-22 (Tuesday)
 
@@ -2463,59 +2495,5 @@ Sri Lanka’s current leaders are also skipping the BRICS summit in Russia, inst
 [Data](articles/ef34525e.json)
 
 [Extended Data](ext_articles/ef34525e.ext.json)
-
----
-
-### “I will quit politics if proven”
-
-*2024-10-22 10:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிரூபிக்கப்பட்டால்-அரசியலில்-இருந்து-விலகுவேன்/175-345834) · `ta`
-
-Former Minister Rohitha Abeygunawardena denies involvement in seized luxury vehicles. He vows to quit politics if proven guilty. Claims innocence, shifts blame to relatives. Threatens to withdraw from upcoming election if found responsible.
-
-🟩
-
-Former Minister Rohitha Abeygunawardena has said that he will quit politics if he is proven to be involved with two recently seized luxury vehicles.
-
-Commenting on the media, Rohitha Abeygunawardena denied that the vehicles had nothing to do with him.
-
-“I am not involved in politics for corruption and fraud. If such incidents happen, I would like to talk about the truth after finding the truth. ”
-
-He said that the vehicles are now the brother -in -law's brother's brother, saying, “If a partner is wrong, is it my fault?Should I take responsibility? "
-
-Rohitha Abeygunawardena added that if he had done wrong, he would make allegations against him.
-
-The former minister said he would withdraw from politics and quit the nomination in the upcoming parliamentary election if he was proven to be involved in the two luxury vehicles.
-
-He made this statement after the Kandy Criminal Investigation Division recently invented a BMW and a Luxury SUV vehicle in a vehicle parking lot in Anivatta, Kandy.
-
-...
-
-[Data](articles/e7120404.json)
-
-[Extended Data](ext_articles/e7120404.ext.json)
-
----
-
-### Easter Sunday
-
-*2024-10-22 10:40:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20m054d7klo) · `si`
-
-Cardinal Ranjith criticizes investigation timing ahead of election, rejects reports under political pressure, questions impartiality of committees investigating defense officials.
-
-🟩
-
-Easter Sunday
-
-Archbishoya Maligama Kadinal Ranjith, near the presidential election, has been confidentially designed to be held in a short period of political influence today (October 22).Said.
-
-"I see the kirts of our Bishop to make a statement quickly before the election. Preparing these reports, our lawyers or other external lawyers were not allowed to comment on behalf of the parties. Since these secretial investigations were on political pressure, we do not accept those reports, "Kadinal Thero said.
-
-"The Presidential Investigation Commission investigated. The number of responsibility recognized and offered allegations. Among that is Ravi Seneviratne or Shani. They are not the case in the parliamentary select committee. Do these two suddenly puts a committee, who is not receiving a commission, a group of community?It's a big problem, "the Cardinal Owners Syripp Gamini said.
-
-...
-
-[Data](articles/c809efd6.json)
-
-[Extended Data](ext_articles/c809efd6.ext.json)
 
 ---

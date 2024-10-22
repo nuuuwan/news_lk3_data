@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 05:45:22**
+As of **2024-10-22 06:10:22**
 
 ## Newspaper Stats
 
-*Scraped **50,645** Articles*
+*Scraped **50,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,998
 tamilmirrorlk | 6,945
 virakesarilk | 8,127
-adaderanasinhalalk | 8,789
+adaderanasinhalalk | 8,790
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,645 (100.0%) of 50,645 articles have been extended.
+50,645 (100.0%) of 50,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
+
+*2024-10-22 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202415) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණ, වයඹ සහ උතුරු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (22) දිනයේ විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, දකුණ සහ උතුරු පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 50ට වැඩි තරමක් තද වැසි ඇතිවිය හැකි බවය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන අතර ඇතැම් ස්ථානවල මි.මී.75ට වැඩි තරමක් තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/41038cf6.json)
+
+---
 
 ### Foreign Ministry says SL a signatory to Joint Letter supporting UN Secretary-General
 
@@ -2327,27 +2345,5 @@ Police suspect that this fire may be a leak.
 [Data](articles/62e142ad.json)
 
 [Extended Data](ext_articles/62e142ad.ext.json)
-
----
-
-### Defamatory posters against Mannar HC Judge: Main suspect evading arrest
-
-*2024-10-21 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102828/defamatory-posters-against-mannar-hc-judge-main-suspect-evading-arrest-) · `en`
-
-Police have informed the Colombo Magistrate’s Court today (21) that they are launching investigations to apprehend the primary suspect involved in the incident of pasting defamatory posters targeting the Mannar High Court Judge.
-
-The relevant plaint was called before Colombo Chief Magistrate Thilina Gamage today.
-
-The officers of the Colombo Crime Division (CCD) have presented facts to the court, stating that investigations are ongoing to apprehend the main suspect in the incident.
-
-Police informed the court that the primary suspect has fled his home and is evading arrest and that investigations are being carried out to locate him.
-
-President’s Counsel Maithree Gunaratne, who is representing several suspects who have been remanded related to this case, presented the facts before the court stating that the persons remanded in custody are only witnesses of this incident
-
-...
-
-[Data](articles/d8f5cf2f.json)
-
-[Extended Data](ext_articles/d8f5cf2f.ext.json)
 
 ---

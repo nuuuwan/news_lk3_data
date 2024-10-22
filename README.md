@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 12:25:29**
+As of **2024-10-22 12:39:28**
 
 ## Newspaper Stats
 
-*Scraped **50,707** Articles*
+*Scraped **50,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 510
 islandlk | 3,021
 economynextcom | 3,097
 dailyftlk | 3,458
-adalk | 4,710
+adalk | 4,711
 dailymirrorlk | 4,733
-adaderanalk | 6,006
+adaderanalk | 6,007
 tamilmirrorlk | 6,958
 virakesarilk | 8,134
 adaderanasinhalalk | 8,800
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,800
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,707 (100.0%) of 50,707 articles have been extended.
+50,709 (100.0%) of 50,709 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,20 @@ Responding to a question whether the government would remove the two officials b
 [Data](articles/40d792de.json)
 
 [Extended Data](ext_articles/40d792de.ext.json)
+
+---
+
+### Johnston to record statement at CID over luxury car found at hotel
+
+*2024-10-22 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102848/johnston-to-record-statement-at-cid-over-luxury-car-found-at-hotel-) · `en`
+
+Former Minister Johnston Fernando’s attorneys have informed the Court of Appeal that he will appear before the CID tomorrow to provide a statement regarding the unregistered luxury car allegedly belonging to him, which was found parked at a star-class hotel in Colombo.
+
+◼️
+
+[Data](articles/25c7a3bd.json)
+
+[Extended Data](ext_articles/25c7a3bd.ext.json)
 
 ---
 
@@ -371,6 +385,30 @@ The government has said it will not accept the report of the Alwis Committee on 
 [Data](articles/7ff51ed9.json)
 
 [Extended Data](ext_articles/7ff51ed9.ext.json)
+
+---
+
+### Passport in a new look
+
+*2024-10-22 10:56:11* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-ගමන්-බලපත්‍රය-නව-පෙනුමකින්/11-412606) · `si`
+
+New passports issued: Blue instead of red-brown. Contains 64 pages, improved design. Distributed starting yesterday.
+
+🟩
+
+The Department of Immigration and Emigration has taken steps to issue a new passports yesterday (21st) to conclude the issuance of passports for several months.The Cabinet Minister Vijitha Herath has said that the new foreign passports were received at night and distributed from yesterday (21).
+
+The passport of red brown has been released in blue.
+
+The new passport has changed the color of N. It is blue.The new passport contains a beautiful photograph with beautiful photographs and 64 pages of an old passport. The new passport is used in the passports of the N.
+
+Sri Duthazara Kavala, Jaffna Nallur Kovil, Colombo Lelum Tower, Colombo Fisheries and Ritipan FisheriesThe new passport is equipped with.
+
+◼️
+
+[Data](articles/e18cb528.json)
+
+[Extended Data](ext_articles/e18cb528.ext.json)
 
 ---
 
@@ -2335,55 +2373,5 @@ South Africa fast bowlers of the South African fast bowlers were able to secure 
 [Data](articles/cbaa20be.json)
 
 [Extended Data](ext_articles/cbaa20be.ext.json)
-
----
-
-### Chilaw
-
-*2024-10-21 17:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலாபம்-முக்கொலை-இரகசியம்-அம்பலம்/175-345797) · `ta`
-
-Chilaw: Murder-suicide at Business House. Autopsy reveals 2 women killed, 3 family members died in fire. Bodies of father, mother, and 15-year-old daughter found. Incident occurred on Saturday night, discovered Sunday morning.
-
-🟩
-
-An autopsy conducted at the Chilaw General Hospital revealed that the murder and suicide was held at the Business House in Chilaw, Singapura.
-
-According to the autopsy of Ilangaratne Banda's autopsy, two women have been murdered and thrown into the fire.
-
-Three people from the same family, including a 15 -year -old girl, died in a fire in Singapura, Chilaw, Chilaw.
-
-51 -year -old businessman Senaratne (father) 44 -year -old Manjula Niroshani Bandara (Mother) and 15 -year -old A.. Natmi Nimesha (daughter) has been recovered as bodies.
-
-The daughter of the deceased Neth Nimesha is a student of Chilaw Ananda National School. The incident may have taken place on Saturday night (19), Chilaw Headquarters Police said. However, the house was burning until Sunday morning.
-
-◼️
-
-[Data](articles/8a7ecb58.json)
-
-[Extended Data](ext_articles/8a7ecb58.ext.json)
-
----
-
-### Hotel Emporium Hon.
-
-*2024-10-21 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/196797) · `ta`
-
-Hotel Emporium wins World Supporting Awards for sustainability in hospitality. Founded in 2003, it serves 20,000 hotels globally. CEO Andy de Silva emphasizes eco-friendly practices and responsible travel. The company develops products like Liquifill Volume and ECO POD to combat plastic waste.
-
-🟩
-
-WORLD SUPPORTING AWARDS (WSHTHA) has been honored at the First World Stabbing Travel and Hospitality Awards (WSTHA) ியில்Hotel Emporium (Hotel Emporium) boasts.
-
-This is the first time that a Sri Lankan has gained such recognition on a sustainable journey, with the dedication of the neighbors to protect the environment in the global hospitality industry.
-
-The World Stabbthical Travel and Hospitality Awards, which started at COP28, honor companies that prioritize stabilization and environmental responsibility beyond traditional tourism services.
-
-The award shows the role of the company in expedition of sustainable travel and tourism, including its major efforts, including implementing eco -friendly practices, promoting cultural safety and promoting responsible travel experiences.
-
-...
-
-[Data](articles/9dc29a42.json)
-
-[Extended Data](ext_articles/9dc29a42.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 12:39:28**
+As of **2024-10-22 12:58:43**
 
 ## Newspaper Stats
 
-*Scraped **50,709** Articles*
+*Scraped **50,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 6,007
 tamilmirrorlk | 6,958
 virakesarilk | 8,134
-adaderanasinhalalk | 8,800
+adaderanasinhalalk | 8,801
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,709 (100.0%) of 50,709 articles have been extended.
+50,710 (100.0%) of 50,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Gammanpila does not accept the report on Easter attack - Sri Lanka Catholic Church
+
+*2024-10-22 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202427) · `si`
+
+Sri Lanka Catholic Church rejects Easter attack report due to alleged bias. Archbishop claims committee led by accused person compromised investigation integrity. Church demands independent probe.
+
+🟩
+
+Retired Umphallus Awarded to the Passover attack. M. The Hon.
+
+The Hon
+
+Speaking at a media briefing in Borella, Archbishop, Fr.
+
+"The sister of Prasanna Alwis, the sister of criminal allegations of murder investigation and destroying. M. A clear fact that Mrs. J Alwis is the head of this committee, it is clear that a conflict between the conventions. Therefore, we cannot accept a report presented by a committee headed by a committee headed by a shortage and independent report. So let's turn the record completely. "
+
+◼️
+
+[Data](articles/3e10d243.json)
+
+[Extended Data](ext_articles/3e10d243.ext.json)
+
+---
 
 ### “They will not be sacked for anything”
 
@@ -2347,31 +2371,5 @@ The petition was filed by Priyantha Herath, Coordinator of Abhi Sri Lanka, claim
 [Data](articles/8060416c.json)
 
 [Extended Data](ext_articles/8060416c.ext.json)
-
----
-
-### Rabbada is 300 taiuge 200
-
-*2024-10-21 17:39:13* · [`adalk`](https://www.ada.lk/sports/රබාඩා-300-කඩද්දි-ටයිජුල්-200-කඩයි/9-412592) · `si`
-
-South Africa vs Bangladesh Test: Day 1 summary. South Africans score 140/6 in 41 overs, Bangladesh 106 all out. South Africa leads by 34 runs. Fast bowler secures 300th wicket milestone.
-
-🟩
-
-The first day of the first Test match between the tourist South African and the Bangladesh team, the match was completed today (21).
-
-At the end of the day, South African group scored 140 runs for the loss of 6 wickets at the end of 41 overs.
-
-The Bangladesh team scored 106 runs for the loss of all bowled out.
-
-The South African team is 34 runs more than 34 runs.
-
-South Africa fast bowlers of the South African fast bowlers were able to secure their 300th Taijul Islam.
-
-◼️
-
-[Data](articles/cbaa20be.json)
-
-[Extended Data](ext_articles/cbaa20be.ext.json)
 
 ---

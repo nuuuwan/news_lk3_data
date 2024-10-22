@@ -1,36 +1,54 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 09:24:29**
+As of **2024-10-22 09:59:03**
 
 ## Newspaper Stats
 
-*Scraped **50,671** Articles*
+*Scraped **50,676** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 409
 colombotelegraphcom | 508
-bbccomsinhala | 509
+bbccomsinhala | 510
 islandlk | 3,021
 economynextcom | 3,093
 dailyftlk | 3,458
-adalk | 4,706
+adalk | 4,707
 dailymirrorlk | 4,733
 adaderanalk | 6,001
-tamilmirrorlk | 6,948
+tamilmirrorlk | 6,950
 virakesarilk | 8,127
-adaderanasinhalalk | 8,795
+adaderanasinhalalk | 8,796
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,669 (100.0%) of 50,671 articles have been extended.
+50,675 (100.0%) of 50,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Five people from an explosion of an Uttar Pradesh of India
+
+*2024-10-22 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202422) · `si`
+
+Explosion in Bulandshahr, UP: Five killed. Cylinder blast causes death. Incident occurred in Bulandshahr district.
+
+🟩
+
+Five people have been killed following explosion of a cylinda in the Bulndyasar district of Uttar, India.
+
+◼️
+
+[Data](articles/3bfa22bb.json)
+
+[Extended Data](ext_articles/3bfa22bb.ext.json)
+
+---
 
 ### SLBFE warns job seekers of fraudulent calls demanding payments
 
@@ -49,6 +67,60 @@ Gamini Senarath Yapa explained that all candidates preparing to work in Israel�
 [Data](articles/8265a0b5.json)
 
 [Extended Data](ext_articles/8265a0b5.ext.json)
+
+---
+
+### Threatening the security of the railway sector
+
+*2024-10-22 08:45:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்வே-துறையின்-பாதுகாப்புக்கு-அச்சுறுத்தல்/175-345824) · `ta`
+
+Railway sector faces security threats due to retiring staff shortage. Over 500 security officers set to retire next year, leaving fewer than 400 to protect 719 positions. This has led to increased passenger robberies. Adequate staffing crucial to reduce crime.
+
+🟩
+
+The railway sector has become a threat to the railway sector as 75 per cent of the total employees of the Railway Security Department are due to retire next year.
+
+More than five hundred security officers are to retire simultaneously, a senior official of the Railway Safety Division headquarters said.
+
+There should be 719 people in the Railway Safety Service but currently have less than 400 security officers.
+
+The official said that due to the lack of recruitment for many years, the railway sector is also in trouble.
+
+This has resulted in robbery and robbery of passengers during train travel.
+
+The official said that such crimes can be reduced if adequate security. Remble
+
+◼️
+
+[Data](articles/8a8b66ca.json)
+
+[Extended Data](ext_articles/8a8b66ca.ext.json)
+
+---
+
+### Great problem in catching citizens
+
+*2024-10-22 08:28:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிமகன்களை-பிடிப்பதில்-பெரும்-சிக்கல்/175-345823) · `ta`
+
+Sri Lanka police struggle with drunk driver arrests due to lack of breathalyzers. Steps taken to import high-quality devices but issues persist with faulty equipment. Police HQ rejects substandard instruments, plans new procurement process.
+
+🟩
+
+Due to inadequate equipment at police stations to arrest drunk drivers, there is a problem with the arrest of drunk drivers.
+
+Police headquarters sources say that no police station has a test tube.
+
+Drinking drivers who are drinking drunken driving, as they do not have the test equipment used to arrest drunk drivers in Sri Lanka, have to recommend to the doctor to ensure that they are drunk.
+
+Steps have been taken to distribute drunken drivers from France for the first time and the 1970 respiratory tract, which was imported from France, has been obtained for the first time and there is no problem with its quality.
+
+In the study of 14,803 test pipes purchased as the second part of those boxes, it revealed that the gas was out of the air. Police Media Spokesperson Nihal Talduwa said that the Government Inspector's Department has also confirmed this.
+
+...
+
+[Data](articles/7df51f2a.json)
+
+[Extended Data](ext_articles/7df51f2a.ext.json)
 
 ---
 
@@ -293,6 +365,80 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/41038cf6.json)
 
 [Extended Data](ext_articles/41038cf6.ext.json)
+
+---
+
+### Clection, based on evidence to the Presidential Commission?
+
+*2024-10-22 03:37:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1484lz44rko) · `si`
+
+Based on the information provided, it seems there may be some confusion or misinformation in the text regarding the Presidential Commission of Inquiry and its relationship with the judiciary and prosecution. Let me clarify some key points:
+
+
+
+1. Presidential Commissions of Inquiry in Sri Lanka are investigative bodies appointed by the President to inquire into specific matters. They are not judicial bodies and cannot issue criminal charges or prosecute individuals.
+
+
+
+2. The commissions can make recommendations based on their investigations, but these recommendations are advisory and not legally binding.
+
+
+
+3. The Attorney General's Department has the authority to decide whether to prosecute based on evidence presented to the commission. However, this does not mean the commission itself can prosecute.
+
+
+
+4. There is a separate legal process for prosecuting crimes, involving the police, courts, and the Attorney General's Department.
+
+
+
+5. The commissions are meant to investigate and report findings to the President, who may then take action based on those findings.
+
+
+
+Regarding the specific cases mentioned:
+
+
+
+- The Paskarealingam case: The Supreme Court ruled against the commission's recommendation due to procedural issues, not because the commission could prosecute.
+
+
+
+- The Wijayapala Mendis case: The Supreme Court found the commission did not have proper evidence and lacked legal authority.
+
+
+
+- The Sirisena Cooray case: The Supreme Court ruled against the commission's findings due to procedural errors.
+
+
+
+- The cases involving Ranil Wickremesinghe, Anura Kumara Dissanayake, etc.: The Court of Appeal upheld the right to challenge the commission's recommendations.
+
+
+
+In summary, while presidential commissions can make recommendations, they do not have the power to prosecute individuals or issue legally binding judgments. Any prosecution would need to go through separate legal channels involving the police, courts, and the Attorney General's Department.
+
+🟩
+
+Clection, based on evidence to the Presidential Commission?
+
+The appointment of a report on the Passover Committee on the attack has been reached.
+
+As soon as a controversial event has a controversial event, the appointment of the investigation commissions are common.
+
+Is there an effective role in the instanding investigations in the country?It is questionable.
+
+Some people allege that the Commission will appoint these tests to calm the masses under the problem.
+
+There are other allegations that the information revealed in such commissions have been tempted to carry out the legal functions and their efforts and time and money.
+
+Accordingly, the conclusions and recommendations issued by the Presidential Commission of Initance Commission established in the country have a number of occasions as well as the judiciary of the judiciary.This is about this.
+
+...
+
+[Data](articles/968718fb.json)
+
+[Extended Data](ext_articles/968718fb.ext.json)
 
 ---
 
@@ -963,6 +1109,30 @@ It is said that the repair work will be carried out and the water supply will be
 [Data](articles/ab696d9b.json)
 
 [Extended Data](ext_articles/ab696d9b.ext.json)
+
+---
+
+### New Government's First Invitation to Cuban Prime Minister
+
+*2024-10-21 19:53:11* · [`adalk`](https://www.ada.lk/breaking_news/නව-රජයේ-පළමු-ආරාධනය-කියුබානු-අගමැතිට/11-412602) · `si`
+
+Sri Lanka's new government extends invitation to Cuba's PM, sparking controversy. Critics question economic ties and Cuba's economic state. Focus shifts from Cuba to strengthening relations with India, emphasizing tourism, education, and cultural exchange as key areas for cooperation.
+
+🟩
+
+The current government has been invited to the neighboring India and the current government is invited to visit the Prime Minister of Cuba and travels a wide road.
+
+He was speaking at a media briefing held at the Colombo Society of Colombo today (21).
+
+"We have taken this government to the Prime Minister of Ceba.It's really a joke popular. What is the economic relationship between Cuba and Sri Lanka?What is the social bond?We don't see one. Where is the economy of Cuba?Cuba is a country that has collapsed. These people can be the heroes of Cuba because Fidel Castro. But we have no value to the country with Chiba.
+
+Event at the history, our neighbor, our friend, our views, and our sadness, and sadness, India. Our brotherhood was always strengthened. The brother country is where the country's service economy is opened in the future.The economy in the brotherly country is that we should win. Millionaires and billionaires in the brotherhood should attract us to Sri Lanka.
+
+...
+
+[Data](articles/9faf0b8b.json)
+
+[Extended Data](ext_articles/9faf0b8b.ext.json)
 
 ---
 
@@ -2247,103 +2417,5 @@ The delegation participated in various business fora, expos, and meetings with k
 [Data](articles/fc62713d.json)
 
 [Extended Data](ext_articles/fc62713d.ext.json)
-
----
-
-### India - Pakistan marriage ended on the Internet
-
-*2024-10-21 15:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-பாகிஸ்தான்-திருமணம்-இணையத்தில்-முடிந்தது/175-345783) · `ta`
-
-India-Pakistan couple marries online due to visa issues. Groom from BJP family and bride from Lahore wed virtually after Pakistani government denies visa.
-
-🟩
-
-India's son of Bharatiya Janata Party (BJP) and young woman from Pakistan's Lahore. The reason for this is that the bride and his family have not received a visa to see the bride.
-
-The bridegroom without a visa, Abbas Haider, his father Dasheen Shaheeb. A few days ago, Abbas Haider, Dasin Shaheeb and family applied for a visa to go to Pakistan for wedding. But the Pakistani government did not issue a visa as the wedding day approached.
-
-The visa crisis was shocked by the visa crisis for the bride of Anthleep Sahara and her mother Rana Yasmeen, who is being treated at the intensive care unit at the hospital in Lahore, who is sick.
-
-Accordingly, the bridegroom and his family members joined Johnpur in Uttar Pradesh, India and completed the wedding ceremonies.
-
-◼️
-
-[Data](articles/d0468591.json)
-
-[Extended Data](ext_articles/d0468591.ext.json)
-
----
-
-### My Wedding, my father’s funeral and a portrait of Mr. Bandaranaike
-
-*2024-10-21 15:33:00* · [`islandlk`](http://island.lk/my-wedding-my-fathers-funeral-and-a-portrait-of-mr-bandaranaike/) · `en`
-
-(Excerpted from Render unto Caesar – Memoirs of Bradman Weerakoon)
-
-Two highly personal life-defining events occurred in 1956. One was my marriage in August to Damayanthi and the other the death of my father in late September.
-
-Damayanthi Gunasekera was the third daughter of a friend of my father’s who joined the colonial police at about the same time as Station House Officers. They both served for 35 years before retiring as superintendent in charge of districts. But more than that, Damayanthi’s mother was a Weerakoon from the same village as my father – Payagala in the Kalutara district – and a second or third cousin as well.
-
-Damayanthi’s mother who wed at the age of 14 was said to be a beauty and it was rumoured in family circles that my father. as a young police officer, was seriously interested in her. Be that as it may my parents were really pleased when the proposal from the Gunasekera side came along.
-
-...
-
-[Data](articles/ba8cd78e.json)
-
-[Extended Data](ext_articles/ba8cd78e.ext.json)
-
----
-
-### Visit to Brussels and quiet diplomacy with the Soviets in Colombo
-
-*2024-10-21 15:31:00* · [`islandlk`](http://island.lk/visit-to-brussels-and-quiet-diplomacy-with-the-soviets-in-colombo/) · `en`
-
-Person identified as KGB agent at embassy sent off sans publicity
-
-(Excerpted from the autobiography of MDD Pieris, Secretary to the Prime Minister)
-
-At the end of the (London security) course, High Commissioner Tilak Gooneratne, who had an appointment in the European Common Market in Brussels with Sir Christopher Soames, External Commissioner for the European Common Market, took me along with him. He knew Sir Christopher, who was the son-in-law of Sir Winston Churchill, quite well and was keen that I should meet him, and also see at first hand certain common market arrangements.
-
-...
-
-[Data](articles/263f1000.json)
-
-[Extended Data](ext_articles/263f1000.ext.json)
-
----
-
-### Trump creates an even bigger threat than “immigrant vermin” – The Enemy Within
-
-*2024-10-21 15:26:00* · [`islandlk`](http://island.lk/trump-creates-an-even-bigger-threat-than-immigrant-vermin-the-enemy-within/) · `en`
-
-The American economy is the envy of the world – The Economist, Oct. 19, 2024
-
-The November presidential election, a mere two weeks away, still remains deadlocked.
-
-The Trump campaign keeps gloating that Trump has the confidence of the American electorate on two key issues – management of the economy and immigration.
-
-This week’s Economist follows its headline as shown above with the sub-head that the American economy has left the economies of other rich countries in the dust.
-
-Economists agree that during the last four years, the economy has performed remarkably well. The Biden/Harris economy has achieved a record job growth of 15.7 million new jobs within four years, the highest new job growth for a presidential term in history. Wages are increasing faster than prices – the annual inflation rate is now at 2.2%. The Federal Reserve Board reduced interest rates by half a point in September, and is expected to reduce rates another half point in November.
-
-...
-
-[Data](articles/cfe8d75d.json)
-
-[Extended Data](ext_articles/cfe8d75d.ext.json)
-
----
-
-### The possible future of foreign policy in Sri Lanka
-
-*2024-10-21 15:24:00* · [`islandlk`](http://island.lk/the-possible-future-of-foreign-policy-in-sri-lanka/) · `en`
-
-The last two weeks suggest that the NPP is moving to the centre, most probably in a bid to grapple with the challenges of a slim majority. The new government has announced that it will oppose the upcoming UNHRC resolution on Sri Lanka. This indicates that it is moving to embrace the nationalist space that was previously held by Mahinda Rajapaksa and his family, but has since bifurcated, if not trifurcated. As Harendra Dassanayake and Rajni Gamage recently observed, the Sinhala Buddhist space in Sri Lanka currently lacks a leader. The NPP appears to have caught the most vocally articulate sections of this milieu.
-
-...
-
-[Data](articles/ed6ee59d.json)
-
-[Extended Data](ext_articles/ed6ee59d.ext.json)
 
 ---

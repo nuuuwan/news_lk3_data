@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 18:48:39**
+As of **2024-10-22 19:01:18**
 
 ## Newspaper Stats
 
-*Scraped **50,767** Articles*
+*Scraped **50,769** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ bbccomsinhala | 512
 islandlk | 3,021
 economynextcom | 3,104
 dailyftlk | 3,458
-adalk | 4,714
+adalk | 4,715
 dailymirrorlk | 4,733
 adaderanalk | 6,016
 tamilmirrorlk | 6,973
 virakesarilk | 8,146
-adaderanasinhalalk | 8,809
+adaderanasinhalalk | 8,810
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,767 (100.0%) of 50,767 articles have been extended.
+50,767 (100.0%) of 50,769 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### හදිසි ගංවතුර සහනාධාර ලෙස චීනයෙන් රුපියල් මිලියන 30ක්
+
+*2024-10-22 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202436) · `si`
+
+චීන රජයෙන් රුපියල් මිලියන 30ක (USD 100,000) මුදලක් මෙරටට පරිත්‍යාග කර තිබේ.
+
+ඒ, පසුගියදා ඇතිවූ හදිසි ගංවතුර තත්ත්වයෙන් විපතට පත්වූවන්ට සහන සැලසීම සඳහා ය.
+
+අද (22) පස්වරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවූ ශ්‍රී ලංකාවේ චීන තානාපති Qi Zhenhong මහතා එම  මුදල නිල වශයෙන් ජනාධිපතිවරයා වෙත භාරදී ඇත.
+
+◼️
+
+[Data](articles/de0f00b4.json)
+
+---
 
 ### Allow Ranil to be referred to as defendant
 
@@ -433,6 +449,20 @@ Due to the recent heavy rains, many districts flooded. Thousands of families hav
 [Data](articles/3d2b919f.json)
 
 [Extended Data](ext_articles/3d2b919f.ext.json)
+
+---
+
+### අවිස්සාවෙල්ලේදී 28 දෙනෙකු රෝහල් ගත කළ බස් රථ අනතුර
+
+*2024-10-22 16:39:46* · [`adalk`](https://www.ada.lk/breaking_news/අවිස්සාවෙල්ලේදී-28-දෙනෙකු-රෝහල්-ගත-කළ-බස්-රථ-අනතුර/11-412612) · `si`
+
+අවිස්සාවේල්ල ප්‍රදේශයේදී පෞද්ගලික බස් රථ දෙකක් අද (22දා) එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+
+අනතුරින් තුවාල ලැබූ පුද්ගලයන් 28 දෙනෙකු රෝහල් ගත කර ඇති බව පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/2f3ba269.json)
 
 ---
 
@@ -2399,59 +2429,5 @@ Accordingly, the water supply of Wattala, Mabala, Ja Ela, Seeduwa, Seedra, Mahar
 [Data](articles/eb21c95a.json)
 
 [Extended Data](ext_articles/eb21c95a.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-10-22 07:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102840/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern, North-western and Northern provinces and in Kandy and Nuwara-eliya districts.
-
-Fairly heavy showers above 50 mm are likely at some places in Western, Sabaragamuwa, Southern and Northern provinces.
-
-Showers or thundershowers will occur at several places in the other areas of the island during the evening or night and fairly heavy showers above 75 mm are likely at some places, it adde.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/1c881cdd.json)
-
-[Extended Data](ext_articles/1c881cdd.ext.json)
-
----
-
-### Three motorcyclists killed in road accidents
-
-*2024-10-22 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202418) · `si`
-
-Motorcycle accidents claim 3 lives: 2 in rain-related crashes, 1 hit by truck. Victims aged 59, 75, 34. Incidents occurred in Kahawatta, Wennappuwa, Thirukkovil.
-
-🟩
-
-Three people were killed in three accidents in the country.
-
-The accident occurred yesterday (21) at Kahawatta, Wennappuwa and Thirukkovil.
-
-A motorbike slipped in the Wellanda road in the Pelmadulla road and killed a motorbike due to the rainy weather and killed a small lorry.
-
-The deceased has been identified as 59 year old resident of Balangoda, Balangoda.
-
-Meanwhile, a person was killed after a motorcycle hit by a lorry road from the Chilaw-Colombo-Colombo-Colombo road.
-
-The deceased has been identified as a 75 year old resident of the Wennappuwa, Wennappuwa.
-
-A motorcycle accident occurred in Thambatttu Periyaya area in Thambuttu Periya area on Akkaraipattu.
-
-The motorbike was traveling with a motorcycle, a motorbike towards Pottuvil to Pottuvil, and the motorbike was not able to control the motorcycle speed.
-
-The motorcyclist and a subsequent vehicle was admitted to the Thirukkovil hospital and was admitted to the Thirukkovil Hospital and was admitted to the Thirukkovil Hospital.
-
-...
-
-[Data](articles/dabc7f2e.json)
-
-[Extended Data](ext_articles/dabc7f2e.ext.json)
 
 ---

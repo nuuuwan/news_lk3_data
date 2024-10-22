@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 12:14:22**
+As of **2024-10-22 12:25:29**
 
 ## Newspaper Stats
 
-*Scraped **50,704** Articles*
+*Scraped **50,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,97 @@ dailyftlk | 3,458
 adalk | 4,710
 dailymirrorlk | 4,733
 adaderanalk | 6,006
-tamilmirrorlk | 6,957
+tamilmirrorlk | 6,958
 virakesarilk | 8,134
-adaderanasinhalalk | 8,798
+adaderanasinhalalk | 8,800
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,704 (100.0%) of 50,704 articles have been extended.
+50,707 (100.0%) of 50,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### “They will not be sacked for anything”
+
+*2024-10-22 12:08:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதற்காகவும்-பதவியிலிருந்து-நீக்கப்பட-மாட்டார்கள்/175-345839) · `ta`
+
+Minister Vijitha Herath defends officials: "They will not be sacked" due to lack of evidence. Government denies pressure from Presidential Commission or Parliament. Claims Supreme Court didn't find them guilty in Easter Sunday bombing case. Promises action only if officials found guilty after thorough investigation.
+
+🟩
+
+Minister Vijitha Herath today said that the Secretary of the Ministry of Public Security, Ravi Senaviratne, and the Director of the Criminal Investigation Division of the Criminal Investigation Division, former Director of the Criminal Investigation Division and SSP Shanni Abeysekera will not be sacked for the reason.
+
+At a weekly media briefing announcing the Cabinet decisions, he said that those who have been forced to sack the two officers are doing this with signatures and that the government will not submit such efforts.
+
+Responding to a question whether the government would remove the two officials before the new hearing, the Minister said that the Presidential Commission or Parliamentary Committee headed by High Court Judge Janak de Silva was not responsible for the Sunday bombing of Shanani Abeysekera.
+
+...
+
+[Data](articles/40d792de.json)
+
+[Extended Data](ext_articles/40d792de.ext.json)
+
+---
+
+### Johnston is ready to give a statement under the CID
+
+*2024-10-22 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202426) · `si`
+
+Former Minister Johnston Fernando agrees to give statement to Criminal Investigation Department tomorrow, as per court order requested in his petition.
+
+🟩
+
+Former Minister Johnston Fernando has informed the Court of Appeal today (23) to provide a statement from the Criminal Investigation Department tomorrow (23).
+
+A petition filed by Mr. Johnston Fernando called for the issue of an order to issue an order in the incident.
+
+Johnston Fernando informed the court through his lawyer to give a statement from the Criminal Investigation Division of the Criminal Investigation Department tomorrow.
+
+◼️
+
+[Data](articles/3e186afb.json)
+
+[Extended Data](ext_articles/3e186afb.ext.json)
+
+---
+
+### New Board of Directors to the Transport Commission
+
+*2024-10-22 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202425) · `si`
+
+New Board of Directors appointed to National Transport Commission. Chairman Dr. Bandura Dilipa Vitharana, members W.Ravi Prasad de Mel, Dr. Namali Tharanga Sirisomer, A.I.U. Mr. Perera. Appointments approved by Cabinet, three-year terms.
+
+🟩
+
+A new Chairman and the Board of Directors have been appointed to the National Transport Commission.
+
+Cabinet spokesman said that the appointments were approved by the Cabinet yesterday (21).
+
+Accordingly, Dr. Bandura Dilipa Vitharana has been appointed as its Chairman.. He is a senior lecturer at the Open University of Sri Lanka.
+
+W. Ravi Prasad de Mel - Senior Lecturer of the University of Sri Jayewardenepura
+
+Dr. Namali Tharanga Sirisomer - Sir General John Kotelawala Defense Universor
+
+A. I. U. Mr. Perera - Commissioner of Inland Revenue
+
+According to the provisions of the National Transport Commission Act No. 37 of 1991, the Commission should consist of eight members.
+
+According to Section 3 (1) (a) (a) (a), three of them are officially appointed by the Ministry of Transport, Policy Planning and Finance.
+
+The Minister of Transport has to be appointed as the approval of the Cabinet of Ministers with the approval of the Cabinet of Section 3 (1) (b) and their term of office is three years.
+
+...
+
+[Data](articles/4aad1067.json)
+
+[Extended Data](ext_articles/4aad1067.ext.json)
+
+---
 
 ### At the Chogm conference, the authorities participate
 
@@ -2307,81 +2385,5 @@ The award shows the role of the company in expedition of sustainable travel and 
 [Data](articles/9dc29a42.json)
 
 [Extended Data](ext_articles/9dc29a42.ext.json)
-
----
-
-### Sri Lanka’s rough rice forecast hiked to 2.02mn tonnes for 2024 Yala season
-
-*2024-10-21 17:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-rough-rice-forecast-hiked-to-2-02mn-tonnes-for-2024-yala-season-184318/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s minor (Yala) season rough rice crop is projected at 2.02 million metric tonnes with 488,957 hectares cultivated up to end August, the Department of Agriculture said.
-
-The projection is up from 1.77mn metric tonnes based in July based on cultivation progress at the time.
-
-After the seed paddy requirement of 80,000 MT, and abut 120,000MT of wastage, about 1.82 million metric tonnes of paddy would be available for milling.
-
-After milling, about 1.24 million metric tonnes of rice would be available for consumption.
-
-Sri Lanka harvested about 2.42 million metric tonnes of rice in the main Maha season that ends around March, which would give a total production of 4.24 million MT of paddy for the year or 2.88 million tonnes of rice.
-
-Based on current consumption trends, there would be excess of about 420,000 MT of rice this year.
-
-Due to years of protection, Sri Lanka’s rice is usually not export grade and the prices are also too high. (Colombo/Oct20/2024)
-
-◼️
-
-[Data](articles/3ab138e7.json)
-
-[Extended Data](ext_articles/3ab138e7.ext.json)
-
----
-
-### The shooting of the unnamed film starring Wimal
-
-*2024-10-21 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/196805) · `ta`
-
-Wimal stars in upcoming Tamil film directed by Abdul Majeed. Cast includes K., Gokul, Baiju Jacob, E J Johnson. Comedy genre, produced by Confidant Film Cafe. Shooting completed, teaser release soon.
-
-🟩
-
-The film crew has been enthusiastically announced that the shooting of the unnamed film, which is playing the hero of the actor Wimal, the market -worth star in the Tamil film industry.
-
-Director and producer Abdul Majeed. S.. Bhaskar, Ravi Maria, Motti Rajendran, John Vijay, Sams, Namo Narayanan, Gnanasambandham, Power Star Srinivasan, Pathilvan Ranganathan and many others have been cast.
-
-K. The film, which has been recorded by Gokul, has composed the film, both Baiju Jacob and E J Johnson.
-
-The film is being produced in Comedy Janer and produced by Director Abdul Majeed on behalf of Confidant Film Cafe.
-
-Commenting on the film, the director said, “The current younger generation is carrying out all the tasks through the intermediaries.
-
-Many moments are favorable and many moments are adverse through such intermediaries.
-
-The shooting of the film is over. Official information on the first look and teaser will be released soon in the title of the film. ”
-
-...
-
-[Data](articles/f7525784.json)
-
-[Extended Data](ext_articles/f7525784.ext.json)
-
----
-
-### Gammanpila makes shocking claims regarding unreleased Easter attack reports
-
-*2024-10-21 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102835/gammanpila-makes-shocking-claims-regarding-unreleased-easter-attack-reports) · `en`
-
-Pivithuru Hela Urumaya (PHU) leader and former MP Udaya Gammanpila says that former Senior DIG Ravi Seneviratne, who has been named as a main accused in an investigative committee reports on the Easter Sunday attacks, should be immediately removed from the post of Secretary to the Ministry of Public Security.
-
-He made these comments at a press conference held in Colombo this morning (21), for the alleged publicizing of two previously unreleased reports regarding the Easter Sunday terror attacks.
-
-Gammanpila had yesterday stated that he would give President Anura Kumara Dissanayake time until 10.00 a.m. this morning (21) to make public the two investigative reports in question and vowed to release them himself if the President fails to do so.
-
-Accordingly, speaking at a press conference today after the said deadline had ended, he emphasized that one of the two reports will be publicized today whereas the remaining report will be released to the public next Monday.
-
-...
-
-[Data](articles/534fba78.json)
-
-[Extended Data](ext_articles/534fba78.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 11:23:45**
+As of **2024-10-22 11:40:09**
 
 ## Newspaper Stats
 
-*Scraped **50,691** Articles*
+*Scraped **50,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 510
 islandlk | 3,021
 economynextcom | 3,093
 dailyftlk | 3,458
-adalk | 4,709
+adalk | 4,710
 dailymirrorlk | 4,733
 adaderanalk | 6,004
 tamilmirrorlk | 6,955
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,797
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,691 (100.0%) of 50,691 articles have been extended.
+50,692 (100.0%) of 50,692 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -245,6 +245,28 @@ It is noteworthy that Ravi Seneviratne was demanding the removal of Ravi Senevir
 [Data](articles/9bb62969.json)
 
 [Extended Data](ext_articles/9bb62969.ext.json)
+
+---
+
+### Showers at least 50 mm today.
+
+*2024-10-22 10:19:27* · [`adalk`](https://www.ada.lk/breaking_news/අද-දිනයේ-මි-මී-50ට-වැඩි-වැසි/11-412605) · `si`
+
+Heavy rainfall warning issued for Kandy, Nuwara Eliya, Western, Sabaragamuwa, Southern provinces. Thunderstorms expected with over 50mm of rain today. Some areas may receive more than 75mm.
+
+🟩
+
+The Department of Meteorology Announces Thunder of the Kandy and Nuwara Eliya districts of the Western, Sabaragamuwa, Southern provinces today (22).
+
+There will be more than Rs. 50 in some places in the North, Sabaragamuwa, Southern skin.
+
+In the evening or night, during the evening or night, during the evening, there are several places in the evening.. Heavy showers more than 75 times.
+
+◼️
+
+[Data](articles/0db20753.json)
+
+[Extended Data](ext_articles/0db20753.ext.json)
 
 ---
 
@@ -2395,33 +2417,5 @@ It is noteworthy that the parents of schoolchildren using these vehicles express
 [Data](articles/354fa42f.json)
 
 [Extended Data](ext_articles/354fa42f.ext.json)
-
----
-
-### Unqualified buses were removed
-
-*2024-10-21 16:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தகுதியற்ற-பஸ்கள்-நீக்கப்பட்டன/175-345788) · `ta`
-
-School bus removals: Unqualified drivers' incompetence leads to 12 vehicles being removed and licenses seized. Parents express concern over safety.
-
-🟩
-
-The 12 buses and vans used to transport school students have been removed as incompetent.
-
-Nuwara Eliya District Chief Vehicle Inspector Taminda Dissanayake has taken a decision on Monday (21).
-
-Hatton Police Department officials have issued a directive to the Nuwara Eliya District Chief Motor Vehicle Inspector to check for 30 private buses and skies used for daily school transport from areas including Maskeliya, Samimalai, Bogawantalawa, Norton Bridge, Talawakelle and Kotagala.
-
-For the past 14 days, there has been a strict raid on vehicles carrying school children in these areas.
-
-The police conducted the raid and removed 12 vehicles from the service and confiscated their income licenses.
-
-It is noteworthy that the parents of schoolchildren who use these vehicles expressed their concerns to the local police.
-
-◼️
-
-[Data](articles/c8f3ca50.json)
-
-[Extended Data](ext_articles/c8f3ca50.ext.json)
 
 ---

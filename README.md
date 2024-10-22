@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 05:09:15**
+As of **2024-10-23 05:23:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,800 (100.0%) of 50,801 articles have been extended.
+50,801 (100.0%) of 50,801 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -138,17 +138,23 @@ I was hiding in the parliamentary election when I was hiding.
 
 ---
 
-### தமிழரசுக்கட்சி இம்முறை ’அதிகமாக கைப்பற்றும்’
+### TNA
 
 *2024-10-23 03:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்கட்சி-இம்முறை-அதிகமாக-கைப்பற்றும்/175-345888) · `ta`
 
-தமிழரசுக்கட்சி இம்முறை அதிக ஆசனங்களைக்  கைப்பற்றும் போதுதான் பேரம் பேசும் சக்தியாக பாராளுமன்றத்தில் திகழும், அந்த பேரம் பேசும் சக்தியைக் கொடுப்பதற்கு மக்கள் அனைவரும் எமது சின்னமான வீட்டுச் சின்னத்துக்கு வாக்களிக்கவேண்டும். என்று இலங்கைத் தமிழரசுக்கட்சியிப் சார்பில் பாராளுமன்றத் தேர்தலில் போட்டியிடும் மட்டக்களப்பு மாநகர சபையின் முன்னாள் மேயரும் மாவட்ட வேட்பாளர் தியாகராஜா சரவணபவன் தெரிவித்தார்.
+TNA seeks more seats in parliament to increase bargaining power. Former mayor aims to expand Batticaloa city authority to district level. Promises economic development through agriculture, fishing, and other initiatives. Aims to provide support for war widows and combat poverty. Emphasizes importance of choosing honest, efficient MPs. Supports Tamil nationalism but opposes actions against it.
 
-மட்டக்களப்பு மாநகரின் முதல்வராக 5 வருடங்கள் சிறப்பான பணியினை வழங்கியிருந்தேன். மட்டக்களப்பு நகரத்துக்கு எனக்கு கிடைத்த அதிகாரம் மாவட்டத்துக்கு விரிவுபடுத்தப்படவேண்டும் என்பதற்காகவே இந்தப் பாராளுமன்றத் தேர்தலில் போட்டியிடுகிறேன். இத் தேர்தலில் வெற்றிபெறும் போது, எமது வளங்களான விவசாயம், மீன்பிடி, கால்நடை என ஏனைய பொருளாதார அபிவிருத்திச் செயற்பாடுகளுக்கு எமது ஒத்துழைப்புடன் முன்னேற்றக்கூடிய வகையில் எமது திட்டங்கள் வகைப்படுத்தப்படும்.
+🟩
+
+It is only when the TNA seizes more seats is the bargaining force in Parliament.. Thiagarajah Saravanapavan, former mayor of the Batticaloa Municipal Council, said that the district candidate of the Batticaloa Municipal Council, who is contesting the parliamentary election on behalf of the Sri Lankan Tamil party.
+
+I had been working as the Chief Minister of the Batticaloa Municipality for 5 years. I am contesting this parliamentary election so that the authority I got to the Batticaloa city should be expanded to the district. When we win this election, our projects will be classified with our cooperation with our resources such as agriculture, fishing and other economic development activities.
 
 ...
 
 [Data](articles/186a9f4e.json)
+
+[Extended Data](ext_articles/186a9f4e.ext.json)
 
 ---
 

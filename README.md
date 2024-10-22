@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 08:23:17**
+As of **2024-10-22 08:44:46**
 
 ## Newspaper Stats
 
-*Scraped **50,658** Articles*
+*Scraped **50,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,222 @@ bbccomsinhala | 508
 islandlk | 3,021
 economynextcom | 3,093
 dailyftlk | 3,458
-adalk | 4,704
+adalk | 4,705
 dailymirrorlk | 4,733
-adaderanalk | 5,998
-tamilmirrorlk | 6,946
+adaderanalk | 6,000
+tamilmirrorlk | 6,948
 virakesarilk | 8,127
-adaderanasinhalalk | 8,790
+adaderanasinhalalk | 8,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,650 (100.0%) of 50,658 articles have been extended.
+50,661 (100.0%) of 50,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### 3,000 complaints on Bribery Commission in the first nine months of this year
+
+*2024-10-22 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202420) · `si`
+
+3,045 bribery complaints in 9 months; 81 raids, 67 arrests; 68 cases filed, 56 resolved; 237 active cases; 19 convictions.
+
+🟩
+
+Over 3,000 complaints have been received by the Commission to Investigate Allegations of Bribery or Corruption in the first nine months of this year.
+
+Bribery Commission said that 3,045 complaints were received from the first day of January to September 30, said the Commission.
+
+At that time, 81 raids were carried out island wide and 67 persons have been arrested in raids.
+
+There are 20 police officers, three Grama Niladharis, three Grama Niladharis and three other government officials including two revenue inspectors.
+
+In addition, 22 civilians have been arrested in raids.
+
+In the first nine months of this year, 68 people have been filed against Bribery or Corruption Commission that 56 cases have been completed during that period.
+
+There are 237 cases in bribery or corruption charges and 19 accused have become convicted of this year.
+
+◼️
+
+[Data](articles/2db87b73.json)
+
+[Extended Data](ext_articles/2db87b73.ext.json)
+
+---
+
+### Helicopter crashes into radio tower in Houston, killing 4
+
+*2024-10-22 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102841/helicopter-crashes-into-radio-tower-in-houston-killing-4) · `en`
+
+Four people aboard a helicopter were killed when it crashed into a radio tower in Houston and burst into flames, officials said.
+
+The helicopter went down just before 8 p.m. Sunday in a neighborhood east of downtown after taking off from Ellington Field, about 15 miles (24 kilometers) away, Mayor John Whitmire said at a news conference. He didn’t know the flight’s destination.
+
+Officials said no one on the ground was injured, and no nearby homes were damaged, though some vehicles were. The crash sparked a fire that burned about 100 to 200 yards (91 to 183 meters) of grass, officials said.
+
+Firefighters at a nearby station heard the crash and responded, Whitmire said. He said it was a “terrible accident scene” and that the tower and helicopter were destroyed. Some area residents lost power, Whitmire said.
+
+“It is surrounded by residences and that’s where we were very fortunate — that it didn’t topple in one direction or another,” Whitmire said. “And the fireball pretty much was isolated.”
+
+...
+
+[Data](articles/400f17d1.json)
+
+[Extended Data](ext_articles/400f17d1.ext.json)
+
+---
+
+### Initially the new passport distribution
+
+*2024-10-22 08:06:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கடவுச்சீட்டு-விநியோகம்-ஆரம்பம்/175-345822) · `ta`
+
+New passports issued: Blue color, 48 pages. Distribution resolved after months.
+
+🟩
+
+According to the Department of Immigration and Emigration, the issue of passport distribution has been resolved for several months.
+
+The new normal passport, which has been distributed since yesterday, is reported to have a blue color.The new passport has 48 pages. (A)
+
+◼️
+
+[Data](articles/431130fd.json)
+
+[Extended Data](ext_articles/431130fd.ext.json)
+
+---
+
+### Voter Card Distribution is the beginning of 26
+
+*2024-10-22 07:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகம்-26-இல்-ஆரம்பம்/175-345821) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Voter card distribution starts 26th. Election officials advise candidates to submit expense reports."
+
+🟩
+
+Work on distributing official voter cards for the upcoming general election will begin on the 26th.
+
+He also advised candidates to hold their expenses reports. (A)
+
+◼️
+
+[Data](articles/fc7c80e5.json)
+
+[Extended Data](ext_articles/fc7c80e5.ext.json)
+
+---
+
+### Special notice to the Gampaha people
+
+*2024-10-22 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202419) · `si`
+
+Gampaha district water crisis: NBRO reports Churchill reservoir pipeline breakdown affecting Wattala, Mabala, Ja Ela areas. Repair work underway; water supply restoration expected.
+
+🟩
+
+The National Water Supply and Drainage Board (NBRO) says that due to a breakdown in the Gampaha District due to a breakdown in the Gampaha District.
+
+They point out that the Chaurchill reservoir is due to a breakdown of the transmission pipeline in the Chaurchill reservoir.
+
+Accordingly, the water supply of Wattala, Mabala, Ja Ela, Seeduwa, Seedra, Mahara, Mahara, Mahara, Mahara, Mahara, Mahara, Mahara, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Katana, Minuwangoda Pradeshiya Sabhas.
+
+...
+
+[Data](articles/eb21c95a.json)
+
+[Extended Data](ext_articles/eb21c95a.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the country
+
+*2024-10-22 07:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102840/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern, North-western and Northern provinces and in Kandy and Nuwara-eliya districts.
+
+Fairly heavy showers above 50 mm are likely at some places in Western, Sabaragamuwa, Southern and Northern provinces.
+
+Showers or thundershowers will occur at several places in the other areas of the island during the evening or night and fairly heavy showers above 75 mm are likely at some places, it adde.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/1c881cdd.json)
+
+[Extended Data](ext_articles/1c881cdd.ext.json)
+
+---
+
+### Three motorcyclists killed in road accidents
+
+*2024-10-22 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202418) · `si`
+
+Motorcycle accidents claim 3 lives: 2 in rain-related crashes, 1 hit by truck. Victims aged 59, 75, 34. Incidents occurred in Kahawatta, Wennappuwa, Thirukkovil.
+
+🟩
+
+Three people were killed in three accidents in the country.
+
+The accident occurred yesterday (21) at Kahawatta, Wennappuwa and Thirukkovil.
+
+A motorbike slipped in the Wellanda road in the Pelmadulla road and killed a motorbike due to the rainy weather and killed a small lorry.
+
+The deceased has been identified as 59 year old resident of Balangoda, Balangoda.
+
+Meanwhile, a person was killed after a motorcycle hit by a lorry road from the Chilaw-Colombo-Colombo-Colombo road.
+
+The deceased has been identified as a 75 year old resident of the Wennappuwa, Wennappuwa.
+
+A motorcycle accident occurred in Thambatttu Periyaya area in Thambuttu Periya area on Akkaraipattu.
+
+The motorbike was traveling with a motorcycle, a motorbike towards Pottuvil to Pottuvil, and the motorbike was not able to control the motorcycle speed.
+
+The motorcyclist and a subsequent vehicle was admitted to the Thirukkovil hospital and was admitted to the Thirukkovil Hospital and was admitted to the Thirukkovil Hospital.
+
+...
+
+[Data](articles/dabc7f2e.json)
+
+[Extended Data](ext_articles/dabc7f2e.ext.json)
+
+---
+
+### Fake country is a job racket
+
+*2024-10-22 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202417) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+A scam targeting job seekers for Israel involves fake calls claiming to be from the Foreign Employment Bureau. Scammers demand payment of Rs. 14,700 before sending job offers. The bureau denies issuing such instructions, warning victims about potential fraud.
+
+🟩
+
+The Foreign Employment Bureau says that no calls to pay for Israel's employers to pay for the job candidates.
+
+Deputy General Manager General Manager General Manager Grounds, General Manager Grounds, there is no need to pay anyone back in Israel's job candidates.
+
+The Foreign Employment Bureau has received a few complaints that there has been a few complaints that there has been 14,700 to pay a sum of Rs. 14,700.
+
+Deputy General Manager of International Affairs of the Foreign Employment Bureau of the Foreign Employment Bureau Mr. Gamini Senarath Yapa,
+
+...
+
+[Data](articles/2e80e96d.json)
+
+[Extended Data](ext_articles/2e80e96d.ext.json)
+
+---
 
 ### Heavy rains in several areas
 
@@ -512,6 +712,8 @@ Sri Lanka Institute of Directors Appoints Anitra Perera as CEO
 
 [Data](articles/41a07f05.json)
 
+[Extended Data](ext_articles/41a07f05.ext.json)
+
 ---
 
 ### Gammanpila alleges
@@ -545,6 +747,8 @@ The All Share Price Index went down by 5.02 points, while the S and P SL20 rose 
 ...
 
 [Data](articles/fee4051d.json)
+
+[Extended Data](ext_articles/fee4051d.ext.json)
 
 ---
 
@@ -685,6 +889,22 @@ It is said that the repair work will be carried out and the water supply will be
 [Data](articles/ab696d9b.json)
 
 [Extended Data](ext_articles/ab696d9b.ext.json)
+
+---
+
+### රාජ්‍ය සේවක වැටුප් වැඩි කරීම ගැන සලකා බලනවා
+
+*2024-10-21 19:46:50* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-වැඩි-කරීම-ගැන-සලකා-බලනවා/11-412601) · `si`
+
+ලබන වසරේ මාර්තු මාසයට පෙර නව අයවැයක් සම්මත කර, රාජ්‍ය සේවකයන්ගේ වැටුප් වැඩි කිරීම පිළිබඳව අවධානය යොමු කරන බව ජාතික ජන බලවේගයේ නායක, ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+හෝමාගම ජනතා රැලිය අමතමින් ඔහු මේ බව සඳහන් කළේය. පාසල් දරුවන් සඳහා අවශ්‍ය උපකරණ ලබාගැනීම සඳහා අමතර දීමනාවක් ලබාදීමට  ද අවධානය යොමු කරන බව ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+
+“දෙසැම්බර් මාසයට ඉදිරිපත් කළ යුතු අයවැය ලේඛනය පාර්ලිමේන්තු ක්‍රමවේදයට අනුව ඉදිරිපත් කළ නොහැකිව තිබෙනවා. ඒ නිසා අපි දෙසැම්බර් මාසයේදී අතුරු සම්මත ගිණුමක් සම්මත කර ගන්නවා. මාර්තු මාසයට පෙර අලුත් අයවැය ලේඛනයක් සම්මතර කර ගන්නවා. ඒ අයවැය ලේඛනය තුළ රාජ්‍ය සේවකයන්ගේ වැටුප් වැඩිකිරීම පිළිබඳව අපි අවධානය යොමු කරනවා. පාසල් දුවා දරුවන්ට උපකරණ පාසැල් උපකරණ ලබාගන්න අමතර දීමනාවක් ලබාදීමට අවධානය යොමු කරනවා.
+
+...
+
+[Data](articles/f052c18c.json)
 
 ---
 
@@ -2093,215 +2313,5 @@ Archbishop Malcolm Cardinal Ranjith, who said they did not accept these two repo
 [Data](articles/1da7e75a.json)
 
 [Extended Data](ext_articles/1da7e75a.ext.json)
-
----
-
-### Vehicles handed over to former President Mahinda
-
-*2024-10-21 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202403) · `si`
-
-Former President Mahinda Rajapaksa received three vehicles at the Presidential Secretariat.
-
-🟩
-
-Three vehicles have been handed over to the use of former President Mahinda Rajapaksa.
-
-Our correspondent said that the vehicles were brought to the Presidential Secretariat and handed over to the Presidential Secretariat.
-
-◼️
-
-[Data](articles/5afa129a.json)
-
-[Extended Data](ext_articles/5afa129a.ext.json)
-
----
-
-### Dilith urges to entrust ‘Sarvajana Balaya’ with fulfilling responsibility of strong opposition
-
-*2024-10-21 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102831/dilith-urges-to-entrust-sarvajana-balaya-with-fulfilling-responsibility-of-strong-opposition-) · `en`
-
-Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District candidate, entrepreneur Dilith Jayaweera stated that the public should entrust the responsibility of forming a strong opposition to the ‘Sarvajana Balaya’ alliance after the upcoming parliamentary elections.
-
-He made these remarks during a public meeting held yesterday (20) in Panadura.
-
-“Now our President Anura Kumara is in a lot of trouble because he became President without an economic plan.” He stated that someone else had the plan, but they are not giving him the book, and that a few pages are missing from it.
-
-“Now, the President needs to call and ask what to do next. We are not like that,” he said.
-
-“We propose to Anura Kumara that we are coming to the opposition, and you will form your government. We will help you with any good work.”
-
-...
-
-[Data](articles/3548184b.json)
-
-[Extended Data](ext_articles/3548184b.ext.json)
-
----
-
-### What happened to the building of the building that was hired by the Ministry of Agriculture?
-
-*2024-10-21 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202402) · `si`
-
-Ministry of Agriculture discovers irregularities in building acquisition. No bank guarantee obtained. Secretary comments on rice shortage, summons officers to set prices. Government intervention sought to stabilize markets and provide relief programs.
-
-🟩
-
-Land, Agriculture, Livestock, Irrigation and Aquatic Resources is conducting further irregularities in the past governments.. P. N. Says Mr. Wickremesinghe.
-
-Speaking to the media today (21), he had a revelation on the deposit of the building of the Ministry of Agriculture today.
-
-"The Ministry of Agriculture has now discovered some irregularities. The Ministry of Agriculture has taken a building recently. Generally obtains a bond from a bank. It's not taken. Currently the building has been handed over to them. But the deposit has not yet been obtained. "
-
-The secretary has commented on the shortage of nadu rice shorter.
-
-...
-
-[Data](articles/38760663.json)
-
-[Extended Data](ext_articles/38760663.ext.json)
-
----
-
-### Arrested with heroin in Wattala
-
-*2024-10-21 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/196777) · `ta`
-
-Heroin arrest in Wattala: Suspect caught with 258g drugs and 3 million rupees.
-
-🟩
-
-A suspect has been arrested by the Special Task Force on Sunday (20) with money suspected of earning heroin and drug trafficking near Kalupalam, which belongs to the Wattala Police Division.
-
-The suspect has been arrested during a roundup of information received by the Special Task Force.
-
-A total of 3,069,890 rupees and car suspected of earning 258 grams of heroin from the arrested suspect have been seized.
-
-◼️
-
-[Data](articles/7d150522.json)
-
-[Extended Data](ext_articles/7d150522.ext.json)
-
----
-
-### Investigation into Chilaw deaths
-
-*2024-10-21 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202401) · `si`
-
-Chilaw post-mortem investigation underway after mother-daughter bodies discovered in two-story house. Police seeking cause of death. Victims identified as 51-year-old SG Senaratne and his family members.
-
-🟩
-
-Post mortem examination on the body of the two family in the Singhapura area in Chilaw will be held with a two-storied house.
-
-Police said that the surprise behind death will be detected.
-
-The mother and daughter found dead yesterday that the mother and daughter was found in the same household two storied two stories in Chilaw, Chilaw.
-
-The victim was 51 year old SG. The homeowner of Senaratne, 44 year old Manjula Niroshi, his wife and their 15-year-old daughter Nethmi Nihamesha was identified.
-
-◼️
-
-[Data](articles/e6f1b1fb.json)
-
-[Extended Data](ext_articles/e6f1b1fb.ext.json)
-
----
-
-### Hirunika and others will be called for a complaint with a complaint
-
-*2024-10-21 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202400) · `si`
-
-Complaint filed against Hirunika and others in Colombo Magistrate's Court. Case adjourned until Feb 10. Police investigation ongoing. Attorney General's advice awaited. Suspects' lawyer claims protest aimed at educating society. Magistrate directs further action based on AG's instructions.
-
-🟩
-
-The Colombo Magistrate's Court presented the complaint on the 10th of February.
-
-The complaint was called before Colombo Chief Magistrate Thilina Gamage.
-
-The Cinnamon Gardens Police informed the court that investigations into the incident have been directed to advise the Attorney General's Department.
-
-The police said that the Attorney General has not yet received advice in relation to the case.
-
-Attorney-at-Law Athula Ranagala, who appeared for the suspects, said that the suspects were protested by the suspects to educate the society.
-
-However, the magistrate said the files have been directed to obtain the Attorney General's instructions and action will be taken to address the Attorney General.
-
-The complaint was then ordered to be called on February 10.
-
-◼️
-
-[Data](articles/52240e2a.json)
-
-[Extended Data](ext_articles/52240e2a.ext.json)
-
----
-
-### Delete Ravi: Kampanpila request
-
-*2024-10-21 13:21:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியை-நீக்கு-கம்பன்பில-கோரிக்கை/175-345778) · `ta`
-
-Former MP calls for immediate removal of Public Safety Minister over alleged misconduct related to Easter bombings investigation.
-
-🟩
-
-Udaya Kammanpila, a former Member of Parliament, said that the Secretary to the Ministry of Public Safety Ravi Seneviratne should be removed immediately.
-
-The “ANJ is appointed as the“ Life Sunday Day Attack. The. Udaya Kammanpila, a former leader of Pivithuru Helavarumaya, released the report of the Presidential Investigation Committee today (21).
-
-ANJ. In the statement of The Alwis, he said that there were massive allegations against the current Secretary to the Ministry of Public Security Ravi Seneviratne.
-
-In this case, President Anura Kumara Dissanayake has not issued these statements for his political gain and to protect his colleagues.
-
-Ravi Seneviratne should be removed from office. If not, police officers cannot expect justice. The victims of the lifeblood Sunday attack will not get justice.
-
-Therefore, the President should apologize to the public for not using power properly and covering up reports.
-
-...
-
-[Data](articles/78f31448.json)
-
-[Extended Data](ext_articles/78f31448.ext.json)
-
----
-
-### Downtime
-
-*2024-10-21 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/196764) · `ta`
-
-Road damage reported on Bandarawewa-Thikulpatha Giriwaru route. Passenger buses affected between Bandarawela and Giriwa. Road Development Authority investigating.
-
-🟩
-
-Bandarawewa Bidunuwewa -Thikulpatha Giriwaru Road has been damaged by the road to the road and the road has been damaged and the road has been damaged and the road development authority of the Road Development Authority, Diyatalawa Divisional Engineer Janaka Ratnayake said.
-
-Through this road, passenger transport buses travel from Bandarawela to Giriwa.
-
-◼️
-
-[Data](articles/c6a905a5.json)
-
-[Extended Data](ext_articles/c6a905a5.ext.json)
-
----
-
-### Fire breaks out at Kudawella Fisheries Harbour
-
-*2024-10-21 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102830/fire-breaks-out-at-kudawella-fisheries-harbour) · `en`
-
-Three fishing vessels have been damaged in a fire that broke out this morning (21) in a fishing vessel that was docked at the Kudawella Fisheries Harbour.
-
-Ada Derana reporter said that a fire broke out in the multi-day fishing vessel “Tushani” and the vessel was destroyed by the fire.
-
-Another multi-day fishing vessel and a small vessel docked near that boat were also damaged due to the fire.
-
-Police suspect that the fire may have been caused by a gas leak.
-
-◼️
-
-[Data](articles/6aca8a23.json)
-
-[Extended Data](ext_articles/6aca8a23.ext.json)
 
 ---

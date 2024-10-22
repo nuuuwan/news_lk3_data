@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 11:40:09**
+As of **2024-10-22 11:59:33**
 
 ## Newspaper Stats
 
-*Scraped **50,692** Articles*
+*Scraped **50,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,126 @@ dbsjeyarajcom | 409
 colombotelegraphcom | 508
 bbccomsinhala | 510
 islandlk | 3,021
-economynextcom | 3,093
+economynextcom | 3,097
 dailyftlk | 3,458
 adalk | 4,710
 dailymirrorlk | 4,733
 adaderanalk | 6,004
 tamilmirrorlk | 6,955
-virakesarilk | 8,131
-adaderanasinhalalk | 8,797
+virakesarilk | 8,134
+adaderanasinhalalk | 8,798
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,692 (100.0%) of 50,692 articles have been extended.
+50,695 (100.0%) of 50,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### The main resolutions that saved the Boston Globe Media of the United States
+
+*2024-10-22 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196838) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Boston Globe survived bankruptcy through strategic decisions: separating print and digital operations, increasing online subscription fees, offering free trials, maintaining paywalls during COVID-19, diversifying revenue streams including advertising and licensing.
+
+🟩
+
+Like many popular businesses, the Boston Globe was relegated to bankruptcy in 2009.
+
+Today, the Boston Global Digital Age is seen as an example of a magazine to survive and thrive.
+
+Recently, the chief business officer of the company, Gaywan Salmanpur, has described how his company won many Pulitzer prizes.
+
+Boston Globe has not released its financial conditions but today 1000 employees are working in the company.
+
+Asked what was the cause of the company's current situation, its chief business officer described the situation in 2009 (that was seen as part of the Boston Globe New York Times -1993 -the company was joining the Boston Globe in 1993)
+
+We were losing readers to the Internet, Google was impacting our classifide trade, as well as facing our trade profit.
+
+The first resolution is the separation of the Boston Komin from the globe.
+
+Boston Kom publishes common news and livestyle -related issues and the Boston Globe is looking for readers towards Globe Kom.
+
+...
+
+[Data](articles/5ee9438d.json)
+
+[Extended Data](ext_articles/5ee9438d.ext.json)
+
+---
+
+### Senior officials of the Sri Lankan High Commission in London will attend the Commonwealth Heads of Government Meeting
+
+*2024-10-22 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/196836) · `ta`
+
+Sri Lankan High Commission officials to attend Commonwealth Heads of Government Meeting in London. Cabinet spokesperson Vijitha Herath confirms representation.
+
+🟩
+
+Cabinet spokesman Vijitha Herath said that a group of senior officials of the Sri Lanka High Commission in London will represent Sri Lanka at the Commonwealth Heads of Government Meeting.
+
+◼️
+
+[Data](articles/4d39c115.json)
+
+[Extended Data](ext_articles/4d39c115.ext.json)
+
+---
+
+### Gammanpila reveals Minister Vijitha
+
+*2024-10-22 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202424) · `si`
+
+Here's a 200-character summary:
+
+
+
+Former MP Udaya Gammanpila accuses Ravi Seneviratne and Shani Abeysekera of misconduct. Minister Vijitha Herath denies political motives behind inquiry. Committee formed to investigate allegations against two officials. Government rejects committee report, calls for fair investigation.
+
+🟩
+
+Cabinet spokesman, spokesman Vijitha Herath says that Ravi Seneviratne and Shani Abeysekera is not prepared to remove the current posts from current positions.
+
+Former MP Udaya Gammanpila, the Minister said that the two officers have targeted the two employees on the need to remove the current positions.
+
+Addressing the press conference held today (22), the minister said that the two officers were in the past about the Passover attack.
+
+Minister Vijitha Herath said that even the Passover victims know that the two officers are concerned and those who have different needs are necessary to dismiss them.
+
+Q. No one will be appointed to a crime and commits legal action. Don't you think that you have appointed other officials of the government and have done this after this.
+
+...
+
+[Data](articles/b0abf344.json)
+
+[Extended Data](ext_articles/b0abf344.ext.json)
+
+---
+
+### மீகலேவ பிரதேச வைத்தியசாலையில் மரக்கறிச் செய்கை !
+
+*2024-10-22 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/196826) · `ta`
+
+குருணாகல் மாவட்டத்தின் வடமேற்கு மாகாணத்தில் அநுராதபுர மாவட்டத்திற்கும் குருணாகல் மாவட்டத்திற்கும் இடையிலான எல்லையில் அமைந்துள்ள மீகலேவ பிரதேச வைத்தியசாலையில் நோயாளர்களின் மனநலத்தை பேணும் வகையில் மரக்கறிச் செய்கை முன்னெடுக்கப்படுகின்றது.
+
+மீகலேவ பிரதேச வைத்தியசாலைக்கு பொறுப்பான வைத்திய அதிகாரி மஹிந்த உயங்கொட அவர்களின் பணிப்புரையின் கீழ் வைத்தியர் திலினி அபேவர்தன, வைத்திய சமிகா விக்கிரமசிங்க மற்றும் ஏனைய வைத்தியர்கள், தாதியர்கள் மற்றும் வைத்தியசாலையின் ஏனைய ஊழியர்களின் உதவியுடன் இந்த மரக்கறிச் செய்கை மேற்கொள்ளப்பட்டு வருகின்றது.
+
+இந்த நிலத்தில் ஏராளமான உருளைக்கிழங்கு, தக்காளி, முள்ளங்கி, கிழங்கு, வெண்டை, வாழை, மிளகாய், சோளம் போன்றவை பயிரிடப்பட்டுள்ளன.
+
+வைத்தியசாலையில் பணிபுரியும் அனைத்து ஊழியர்களும் தங்களுக்கு கிடைக்கும் ஒவ்வொரு ஓய்வு நேரத்திலும் இந்த மரக்கறிச் செய்கையை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/5f0db50d.json)
+
+---
 
 ### Encouraged by Sri Lanka’s commitment to continue reform efforts - IMF chief
 
@@ -95,6 +197,24 @@ The government has said it will not accept the report of the Alwis Committee on 
 [Data](articles/7ff51ed9.json)
 
 [Extended Data](ext_articles/7ff51ed9.ext.json)
+
+---
+
+### Sri Lanka leader to skip CHOGM due to elections
+
+*2024-10-22 10:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-to-skip-chogm-due-to-elections-184382/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake will not attend the 2024 Commonwealth Heads of Government Meeting (CHOGM) to be held in Samoa from 25–26 October, due to general elections in the island nation, Minister Vijitha Herath said.
+
+This will be the 27th Meeting of the Heads of Government of the Commonwealth of Nations.
+
+The meeting is preceded by ministerial meetings, fora and side events from Monday (21), which Herath who is Foreign Minister, will also not be attending.
+
+Sri Lanka’s current leaders are also skipping the BRICS summit in Russia, instead relying on Ministry officials to represent the country at significant global fora.
+
+...
+
+[Data](articles/ef34525e.json)
 
 ---
 
@@ -291,6 +411,28 @@ Petitioners have said that the students who appeared for the exam have been unju
 [Data](articles/ad8ed499.json)
 
 [Extended Data](ext_articles/ad8ed499.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 293.20/35 to US dollar, bond yields up
+
+*2024-10-22 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-293-20-35-to-us-dollar-bond-yields-up-184369/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 293.20/35 to the US dollar on Tuesday, from 293.15/20 a day earlier, while bond yields were broadly steady dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.35/45 percent, down from 11.30/50 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.71/80 percent, down from 11.75/80 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.90/95 percent, down from 11.90/12.05 percent.
+
+A bond maturing on 15.05.2030 was quoted at 12.15/40 percent.
+
+In equities, Colombo’s All Share Price Index opened down 0.07 percent, or 9.12 points higher at 12,300, while the S&P SL20 of more liquid stocks was trading up 0.13 percent or 4.81 points higher at 3,629.
+
+◼️
+
+[Data](articles/c3ce6435.json)
 
 ---
 
@@ -502,6 +644,24 @@ On the 15th, a person who was traveling in a three-wheeler was shot by a car.
 
 ---
 
+### Sri Lanka runs BOP surplus of US$2,185mn amid deflationary policy up to Aug
+
+*2024-10-22 08:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-runs-bop-surplus-of-us2185mn-amid-deflationary-policy-up-to-aug-184335/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has generated a 2,184 million dollar balance of payments surplus up to August 2024, running slightly ahead of last year, official data show.
+
+Sri Lanka’s central bank has allowed the exchange rate to appreciate amid deflationary policy since scrapping a surrender rule in 2024.
+
+A pegged central bank has to run deflationary monetary policy (selling securities held by the agency to the banking system to curtail domestic credit from rupees generated through from dollar purchases) to generate a balance of payments surplus.
+
+When a BOP surplus (every day or every week) is generated by the central bank it is easy to allow the exchange rate to appreciate by purchasing less than the excess dollars created by deflationary policy.
+
+...
+
+[Data](articles/dbba89bd.json)
+
+---
+
 ### 3,000 complaints on Bribery Commission in the first nine months of this year
 
 *2024-10-22 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202420) · `si`
@@ -529,6 +689,22 @@ There are 237 cases in bribery or corruption charges and 19 accused have become 
 [Data](articles/2db87b73.json)
 
 [Extended Data](ext_articles/2db87b73.ext.json)
+
+---
+
+### IMF encouraged by Sri Lanka authorities to safeguard gains under IMF program: MD
+
+*2024-10-22 08:15:00* · [`economynextcom`](https://economynext.com/imf-encouraged-by-sri-lanka-authorities-to-safeguard-gains-under-imf-program-md-184373/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund was encouraged by Sri Lanka’s commitment to continue reforms to safeguard gains under its program, Managing Director has said in a twitter post.
+
+“Encouraged by the authorities’ commitment to continue the reform efforts to safeguard the hard-won gains under the IMF-supported program,” she said after meeting Central bank Governor Nandalal Weerasinghe.
+
+“The IMF remains committed to supporting Sri Lanka build a better future for its people.” (Colombo/Oct22/2024)
+
+◼️
+
+[Data](articles/92a9a11c.json)
 
 ---
 
@@ -2191,231 +2367,5 @@ She added that he would quit all the posts of the people's post and everyone who
 [Data](articles/f34e3616.json)
 
 [Extended Data](ext_articles/f34e3616.ext.json)
-
----
-
-### The 'Vettayan' film crew thanked the fans and the media
-
-*2024-10-21 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196802) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Vettayan" film crew thanks fans, media for success. Starring Rajinikanth, produced by Leica Productions. Mixed reviews but set box office record. Director praises Rajinikanth's courage in choosing project.
-
-🟩
-
-Starring Super Star Rajinikanth, Produced by Leica Productions, Director The. Cm. The film 'Vettayan', which was released in the film mansions worldwide on the 10th of the last day, was a collectional success.
-
-The film crew gathered in Chennai and thanked the fans and the media for the success of 'Vettayan'.
-
-The film 'Vettayan', starring Super Star Rajinikanth, Bollywood star actor Amitabh Bachchan, Bhagat Basil, Rana Dagupati and Manju Warrior, has received mixed reviews, but has set a record of 300 crores in Indian value.
-
-Director of participation in the Thanksgiving Ceremony held in Chennai. Cm. Gnanvel said, “Super Star Rajinikanth, who gave a huge success, a jailer, is a great courage to choose a film with such a storyline.
-
-When I described the story to him, I explicitly expressed that creative freedom.
-
-Accepting it, he gave full freedom until the film was released.
-
-I would like to express my sincere gratitude to Super Star Rajinikanth and the film production company Laika.
-
-...
-
-[Data](articles/e3934694.json)
-
-[Extended Data](ext_articles/e3934694.ext.json)
-
----
-
-### Sasikumar starrer 'Freedam'
-
-*2024-10-21 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/196799) · `ta`
-
-Sasikumar stars in "Freedam," directed by Satya Siva. The film follows suicide bombers planning to infiltrate India and assassinate a political leader. A debut video featuring militants questioning their presence in India has sparked fan interest and political attention.
-
-🟩
-
-The star actor Sasikumar has released a special debut video of the film 'Freedam' which plays the role of the hero of the story.
-
-Directed by director Satya Siva, Sasikumar, Lijomol Jose, Malavika Avinash, Bose Venkat, Ramesh Kanna, Sudhev Nair, 'Poyes' Manikandan.
-
-The film was produced by Pandian Parasuraman on behalf of Vijaya Ganapathi's Pictures.
-
-Suicide soldiers of the militant group fighting for the liberation of Eelam soil are planning to infiltrate the neighboring India and assassinate an influential political leader.
-
-Based on this, the film 'Freedam' has been prepared by the film's fans and the attention of international countries and the attention of Indian and Tamil politicians.
-
-In this exclusive video, the militants who are fighting for the liberation of Eelam said, 'What did you come to India?The police officer asks the question.
-
-Instead it features the title of the film.Thus the expectation of the film has increased in fans.
-
-◼️
-
-[Data](articles/2746fed3.json)
-
-[Extended Data](ext_articles/2746fed3.ext.json)
-
----
-
-### Actor Krishna's new movie inauguration
-
-*2024-10-21 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196798) · `ta`
-
-Actor Krishna stars in new film "Untitled" alongside Varsha Viswanath. Directed by debutant Appadurai Bharathiraja, it's a suspenseful action thriller produced by Don Creations. Shooting occurs in Tamil Nadu and Madurai suburbs. Special guest Sathya Siva from "Eagle" attends premiere.
-
-🟩
-
-After a short break, actor and producer Krishna was once again the hero of the unnamed new film in Chennai.
-
-Krishna and actress Varsha Viswanath are playing the lead roles in the untitled film directed by debutant director Appadurai Bharathiraja.
-
-The film is set to be a suspense and exercise entertainer on behalf of Don Creations Company.. Ganesh is producing.
-
-Sathya Siva, director of the film 'Eagle', starred in Krishna starring in the film, participated as a special guest.
-
-Commenting on the film, the director said, “The story of the film has been created as a suspense and action screenplay for all the fans in the village behind.
-
-The shooting of the film is currently underway in the suburbs of Tamil Nadu and Madurai.
-
-It is noteworthy that the film was released earlier this year, starring actor Krishna, and that he was only playing the role of a character in the last few years, and after a short break, he is playing the hero of the story.
-
-◼️
-
-[Data](articles/79b185e7.json)
-
-[Extended Data](ext_articles/79b185e7.ext.json)
-
----
-
-### Whose luxury vehicles found in the city?
-
-*2024-10-21 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202407) · `si`
-
-Luxury vehicles seized from politician's son. Police investigation underway. Former minister denies involvement, threatens resignation if linked.
-
-🟩
-
-A unregistered manner and jeep have been recovered from a son-owner of a leader of former Minister Rohitha Abeygunawardena.
-
-The police said that they were found to have found the same vehicles according to information received by the 1997 number.
-
-The two cars were taken into custody after a statement from the owner of the vehicle.
-
-Meanwhile, Gayan Saram, who is said to be a complaint with a lawyer today (21) and a lawyer.
-
-He said he had come to a complaint requesting to investigate the charge.
-
-"I'm the son-in-law of Rohitha Abeygunawardena. I and my wife's dad and mud propaganda. It was a complaint to be lodged. Found two vehicles. I'm trying to confuse me and my Wife's father. My Residence in Colombo. This is just a city. "
-
-Meanwhile, former Minister Rohitha Abeygunawardena says he will resign from politics if they prove it.
-
-...
-
-[Data](articles/e5bbe8f9.json)
-
-[Extended Data](ext_articles/e5bbe8f9.ext.json)
-
----
-
-### Massive Challenge to the Government
-
-*2024-10-21 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196796) · `ta`
-
-Government faces massive challenge fulfilling IMF compliance promises. Former Finance Minister warns country may fall again if not met. Economic growth achieved under Ranil Wickremesinghe's leadership. New government expected to fulfill election promises without affecting economy. State income targets set for 13.1% and 15% increase. International Monetary Fund compliance crucial for economic stability.
-
-🟩
-
-The government has to fulfill the promises made by the people to protect the International Monetary Fund's compliance. This is a huge challenge faced by this government. Former Finance Minister Xihan Semasinghe said that if it does not do so, the country is in danger of falling again.
-
-He was speaking at a press conference held at the official residence of former President Ranil Wickremesinghe on Monday (21).
-
-Ranil Wickremesinghe led by Ranil Wickremesinghe for the social and political crisis in the country of 2022, we began to build the country's economy with the most dedicated.. That action is very difficult.
-
-Former President Ranil Wickremesinghe's defeat on September 21 was the most difficult decisions to build the collapse economy and create an economic transmission.
-
-The politicians had to make difficult decisions for the people. That is why the economy is in stability today.
-
-...
-
-[Data](articles/54fe0667.json)
-
-[Extended Data](ext_articles/54fe0667.ext.json)
-
----
-
-### The rest of the remaining father is only the left
-
-*2024-10-21 16:54:41* · [`adalk`](https://www.ada.lk/breaking_news/ගෙදර-එන-විට-ඉතිරි-සිය-පියාගේ-ඇට-සැකිල්ල-පමණයි/11-412591) · `si`
-
-Here's a 200-character summary:
-
-
-
-Father found dead after 6-month silence. Son returns to Sri Lanka to investigate. Police investigation leads to forensic examination. DNA test confirms identity.
-
-🟩
-
-The son of Italy could see what he could see what was about to find out what had happened to her father for 6 months to find out what he had done to her father.. The 70-year-old father of Bhikku resort in Kalutara is living at home alone.
-
-The mother lived in this house ago was also killed. His son in Italy is living with his wife and children. The phone calls given to the father for 6 months have not received response. When he had asked her neighbors from Italy, they have told the house.
-
-Don has returned to Sri Lanka on the 19th and returned home to find out what had happened.. The son of the door was known to the son who had only melted the meat in collapse as there were home coolers.  මේ සම්බන්දයෙන් පොලිීසිය දැනුවත් කිරීමෙන් අනතුරුව මූලික විමර්ශන වලින් පසු ඇටසැකිල්ලක් බවට පත්ව තිබූ සිරුර නාගොඩ රෝහලට ගෙනගොස් ඇත. The Dead reported to ensure whether his father was made to ensure the DNA test.
-
-◼️
-
-[Data](articles/12a8974b.json)
-
-[Extended Data](ext_articles/12a8974b.ext.json)
-
----
-
-### The remaining father's skeleton will be met
-
-*2024-10-21 16:54:41* · [`adalk`](https://www.ada.lk/breaking_news/ගෙදර-එන-විට-ඉතිරි-සිය-පියාගේ-ඇට-සැකිල්ල-මපණයි/11-412591) · `si`
-
-A 70-year-old father in Kalutara, Sri Lanka, was found dead after 6 months without contact. His son in Italy discovered the body when returning home. Police investigation followed, including forensic analysis and DNA testing.
-
-🟩
-
-The son of Italy could see what he could see what was about to find out what had happened to her father for 6 months to find out what he had done to her father.. The 70-year-old father of Bhikku resort in Kalutara is living at home alone.
-
-The mother lived in this house ago was also killed. His son in Italy is living with his wife and children. The phone calls given to the father for 6 months have not received response. When he had asked her neighbors from Italy, they had said that the house had been diagnosed.
-
-Don has returned to Sri Lanka on the 19th and returned home to find out what had happened.. The son of the door was known to the son who had only melted the meat in the coalition of the doors.  මේ සම්බන්දයෙන් පොලිීසිය දැනුවත් කිරීමෙන් අනතුරුව මූලික විමර්ශන වලින් අනතුරුව ඇටසැකිල්ලක් බවට පත්ව තිබූ සිරුර නාගොඩ රෝහලට ගෙනගොස් ඇත. The Dead reported to ensure whether his father was made to ensure the DNA test.
-
-◼️
-
-[Data](articles/bd66eecd.json)
-
-[Extended Data](ext_articles/bd66eecd.ext.json)
-
----
-
-### Transport buses were removed from service
-
-*2024-10-21 16:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போக்குவரத்து-பஸ்கள்-சேவையிலிருந்து-நீக்கப்பட்டன/175-345788) · `ta`
-
-Buses removed due to incompetence. Parents concerned about school transport safety. Police crackdown on unlicensed vehicles.
-
-🟩
-
-The 12 buses and vans used to transport school students have been removed as incompetent.
-
-Nuwara Eliya District Chief Vehicle Inspector Taminda Dissanayake has taken a decision on Monday (21).
-
-Hatton Police Department officials have issued a directive to the Nuwara Eliya District Chief Motor Vehicle Inspector to check 30 private buses and skies used for daily school transport from areas including Maskeliya, Samimalai, Bogawantalawa, Norton Bridge, Talawakalai and Kotagala.
-
-For the past 14 days, there has been a strict raid on vehicles carrying school children in these areas.
-
-The police conducted the raid and removed 12 vehicles from the service and confiscated their income licenses.
-
-It is noteworthy that the parents of schoolchildren using these vehicles expressed their concerns to the local police.
-
-◼️
-
-[Data](articles/354fa42f.json)
-
-[Extended Data](ext_articles/354fa42f.ext.json)
 
 ---

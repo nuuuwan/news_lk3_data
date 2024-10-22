@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 22:26:10**
+As of **2024-10-22 22:39:24**
 
 ## Newspaper Stats
 
-*Scraped **50,786** Articles*
+*Scraped **50,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ adalk | 4,718
 dailymirrorlk | 4,733
 adaderanalk | 6,019
 tamilmirrorlk | 6,979
-virakesarilk | 8,146
-adaderanasinhalalk | 8,814
+virakesarilk | 8,148
+adaderanasinhalalk | 8,815
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,786 (100.0%) of 50,786 articles have been extended.
+50,789 (100.0%) of 50,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Airborne Drugs
+
+*2024-10-22 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202441) · `si`
+
+Sri Lanka Police Narcotics Bureau arrests suspects after raid at Katunayake airport. 7 parcels containing 21kg ice drugs, Marni narcotics, and 1kg rash drugs seized. Further investigation ongoing.
+
+🟩
+
+The Police Narcotics Bureau has been taken into custody by the Police Narcotha Bureau.
+
+The raid was carried out by a SLAF-parcel in Katunayake airport premises to Sri Lanka from several foreign countries.
+
+Police said that there were a variety of drugs in seven parcels.
+
+The parcels have been found 21 kg of ice drugs, Marni narcotics and 1kk kills 1kg of rash drugs.
+
+The Police Narcotics Bureau is conducting further investigations to arrest the suspects.
+
+◼️
+
+[Data](articles/2ac0f60b.json)
+
+[Extended Data](ext_articles/2ac0f60b.ext.json)
+
+---
+
+### Drug Recovery from packages sent by aircraft postal service
+
+*2024-10-22 22:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196864) · `ta`
+
+Sri Lanka airport bust: 8 crore rupees worth drugs seized from fake addresses. Ice, kush, and chemicals found in packages from US, UK, Canada. Investigations ongoing.
+
+🟩
+
+In a raid carried out on the seven packages sent to the Katunayake airport by air postal service, about eight crore crores of rupees worth Rs.
+
+Investigations have revealed that these packages have been sent to fake addresses in various parts of Sri Lanka from the US, the UK and Canada.
+
+Also, when examining their addresses, they have been confirmed as fake addresses.
+
+Captured drugs include 07 kg 21 g of ice, 01 kg 143 g kush drug and 01 kg 338 grams of chemical drugs.
+
+Further investigations are being carried out by officials of the Katunayake Airport Police Drug Prevention Unit.
+
+◼️
+
+[Data](articles/27cee92e.json)
+
+[Extended Data](ext_articles/27cee92e.ext.json)
+
+---
 
 ### Coconut savation program launches
 
@@ -75,6 +127,36 @@ After considering the facts presented from both parties, the Supreme Court point
 [Data](articles/1debf925.json)
 
 [Extended Data](ext_articles/1debf925.ext.json)
+
+---
+
+### Introduction of Regional Action Plan to strengthen climate change in India and Sri Lanka
+
+*2024-10-22 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196869) · `ta`
+
+Here's a 200-character summary:
+
+
+
+UN WFP launches ADAPT4R: 5-year plan to enhance food security & livelihoods in India & Sri Lanka. Focuses on climate-resilient farming practices, targeting vulnerable communities. $14 million funding aims to adapt agriculture to climate change impacts.
+
+🟩
+
+The Regional Project (WFP) has been introduced to strengthen climate change in India and Sri Lanka.
+
+The United Nations World Food Scheme (WFP) in collaboration with the Colombo -India and Sri Lanka Ministry of Environment (WFP) launched the ADAPT4R event on Monday (21).
+
+This five -year plan is aimed at improving the food safety and livelihoods of the agrarian communities that face the challenges of the climate.
+
+The project, which is implemented by the US $ 14 million contribution to the US Fund, focuses on farmers in the districts of agriculture and rural livelihoods in both countries.
+
+By providing information through climate services and upgrading existing systems, ADAPT4R can make farmers, especially women, their agriculture and livelihoods, tolerate climate change.
+
+...
+
+[Data](articles/aeff2c2d.json)
+
+[Extended Data](ext_articles/aeff2c2d.ext.json)
 
 ---
 
@@ -2437,75 +2519,5 @@ In the evening or night, during the evening or night, during the evening, there 
 [Data](articles/0db20753.json)
 
 [Extended Data](ext_articles/0db20753.ext.json)
-
----
-
-### Re -headed scholarship examination
-
-*2024-10-22 10:16:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தலைதூக்கும்-புலமைப்பரிசில்-பரீட்சை-விவகாரம்/175-345828) · `ta`
-
-High Court petition challenges decision to award full marks to all students in Grade 5 scholarship exam over controversial questions. Petitioners claim it violates basic human rights and could negatively impact students' future prospects.
-
-🟩
-
-A fundamental rights petition has been filed in the High Court demanding the cancellation of the resolution taken to issue a full score of three questions.
-
-The petition was submitted by a group of students and their parents who examined the exam from the Badulla district.
-
-The Commissioner General of Examinations, Education Minister Harini Amarasuriya, Deputy Inspector General of Police in charge of the Criminal Investigation Department and the Attorney General have been referred to as defendants of the petition.
-
-Petitioners have said that the students who appeared for the exam have been unjust due to alleged incident in the first section of the Grade 5 scholarship examination of the Grade 5 scholarship examination.
-
-...
-
-[Data](articles/ad8ed499.json)
-
-[Extended Data](ext_articles/ad8ed499.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 293.20/35 to US dollar, bond yields up
-
-*2024-10-22 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-293-20-35-to-us-dollar-bond-yields-up-184369/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 293.20/35 to the US dollar on Tuesday, from 293.15/20 a day earlier, while bond yields were broadly steady dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 11.35/45 percent, down from 11.30/50 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.71/80 percent, down from 11.75/80 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.90/95 percent, down from 11.90/12.05 percent.
-
-A bond maturing on 15.05.2030 was quoted at 12.15/40 percent.
-
-In equities, Colombo’s All Share Price Index opened down 0.07 percent, or 9.12 points higher at 12,300, while the S&P SL20 of more liquid stocks was trading up 0.13 percent or 4.81 points higher at 3,629.
-
-◼️
-
-[Data](articles/c3ce6435.json)
-
-[Extended Data](ext_articles/c3ce6435.ext.json)
-
----
-
-### Recovery of two unidentified bodies
-
-*2024-10-22 10:06:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அடையாளம்-தெரியாத-இரண்டு-சடலங்கள்-மீட்பு/76-345827) · `ta`
-
-Unidentified bodies found: one near Kandy Lake, another on Peradeniya Road. Police investigating identities.
-
-🟩
-
-Two unidentified bodies have been found in the area of ​​the Kandy Police Division, police said.
-
-According to police, the body of a young woman in the lake in front of the Swiss hotel in Sankaraja Mawatha in Kandy Lake Circle and their identity has not yet been identified.
-
-According to police, the body of a young man who died on a side road under the primrose estate on Peradeniya Road, but the identity of the body has not yet been identified.
-
-◼️
-
-[Data](articles/ecd9885d.json)
-
-[Extended Data](ext_articles/ecd9885d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 21:59:09**
+As of **2024-10-22 22:14:09**
 
 ## Newspaper Stats
 
-*Scraped **50,784** Articles*
+*Scraped **50,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,104
 dailyftlk | 3,458
 adalk | 4,718
 dailymirrorlk | 4,733
-adaderanalk | 6,018
+adaderanalk | 6,019
 tamilmirrorlk | 6,979
 virakesarilk | 8,146
 adaderanasinhalalk | 8,813
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,813
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,784 (100.0%) of 50,784 articles have been extended.
+50,784 (100.0%) of 50,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Supreme Court to deliver decision on DNA’s petition tomorrow
+
+*2024-10-22 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102860/supreme-court-to-deliver-decision-on-dnas-petition-tomorrow) · `en`
+
+The Supreme Court has announced that it will deliver its decision tomorrow (23) regarding the petition submitted by the Democratic National Alliance (DNA), seeking a writ order invalidating the decision of the District Returning Officer to reject their nomination for the Vanni Electoral District in the General Election.
+
+The DNA had filed this petition on October 18 following the decision by the Vanni District Returning Officer to reject their nomination submission and the petition requests the Supreme Court to issue a writ order invalidating the decision.
+
+After considering the facts presented from both parties, the Supreme Court pointed out that that the rejected nomination paper should be accepted by the relevant District Returning Officer in accordance with the existing laws.
+
+...
+
+[Data](articles/1debf925.json)
+
+---
 
 ### The need for a new political force emerged - Dilith
 
@@ -2485,31 +2501,5 @@ Meanwhile, the National Water Supply and Drainage Board said that water supply h
 [Data](articles/a2b9b9f1.json)
 
 [Extended Data](ext_articles/a2b9b9f1.ext.json)
-
----
-
-### Bribery Commission receives over 3,000 complaints in first 9 months of 2024
-
-*2024-10-22 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102843/bribery-commission-receives-over-3000-complaints-in-first-9-months-of-2024) · `en`
-
-Over 3,000 complaints concerning incidents of bribery and corruption have been received in the first 9 months of 2024, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said.
-
-Accordingly, the CIABOC reported that a total of 3,045 complaints have been received from 01 January until 30 September 2024.
-
-During this period, 81 raids have been conducted across the island, leading to the arrest of 67 individuals.
-
-Among the people arrested are 45 government officials including 20 police officers, 03 Grama Niladhari officers, 03 Kathi Court Judges and 02 revenue inspectors.
-
-In addition to this, 22 civilians have been arrested in raids.
-
-In the first 9 months of this year, 68 people were prosecuted and 56 cases have been resolved, the CIABOC said.
-
-The commission further said that 237 cases related to bribery and corruption are still being heard in courts and that 19 defendants have been proven guilty within this year.
-
-◼️
-
-[Data](articles/39f2333b.json)
-
-[Extended Data](ext_articles/39f2333b.ext.json)
 
 ---

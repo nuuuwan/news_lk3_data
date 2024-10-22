@@ -1,36 +1,156 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 16:39:18**
+As of **2024-10-22 17:09:00**
 
 ## Newspaper Stats
 
-*Scraped **50,735** Articles*
+*Scraped **50,742** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 409
 colombotelegraphcom | 509
-bbccomsinhala | 510
+bbccomsinhala | 511
 islandlk | 3,021
 economynextcom | 3,097
 dailyftlk | 3,458
-adalk | 4,713
+adalk | 4,714
 dailymirrorlk | 4,733
-adaderanalk | 6,012
-tamilmirrorlk | 6,968
+adaderanalk | 6,014
+tamilmirrorlk | 6,970
 virakesarilk | 8,136
-adaderanasinhalalk | 8,806
+adaderanasinhalalk | 8,807
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,733 (100.0%) of 50,735 articles have been extended.
+50,742 (100.0%) of 50,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Buses collided face -to -face - 28 injured
+
+*2024-10-22 16:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்துகள்-நேருக்கு-நேர்-மோதி-விபத்து-28-பேர்-காயம்/175-345863) · `ta`
+
+Two buses collided near Avissawella, injuring 28 people. Three critically injured at hospital. Buses were traveling between Colombo and Embilipitiya/Ratnapura.
+
+🟩
+
+28 people were injured when a private passenger bus crashed on Tuesday (22) near the Thevar and Pittiya curve of the Avissawella police division.
+
+The victims have been admitted to the Avissawella Resource Hospital and the condition of three people is in critical condition.
+
+The accident occurred when a private bus traveling from Colombo to Embilipitiya and a private bus traveling from Ratnapura to Colombo collided.
+
+◼️
+
+[Data](articles/aaf9a913.json)
+
+[Extended Data](ext_articles/aaf9a913.ext.json)
+
+---
+
+### The unfortunate incident of the Parakada - Son to house to address the father last
+
+*2024-10-22 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202433) · `si`
+
+Eheliyagoda: Father killed, son injured in acid attack. Group abducts son, attacks father with acid. Father dies after hospitalization. Police cite personal dispute as motive.
+
+🟩
+
+An incident was killed in the jewel of the jeep where his son was abducted by a group of people. Eheliyagoda, Ven
+
+The son had also launched an acid attack by the people and saw the father's body to see the father's body today (22).
+
+A group of people had come from a jeep to a house in Parakaduwa, Eheliyagoda.
+
+His father had attempted to prevent it when they were handcuffed to a young man at home and tried to take acid.
+
+There, the father was hanging in the jeep, and he was fallen by running it.
+
+The driver of the jeep had been forwarded forward in submerged by the person.
+
+The police said that the 65-year-old man had died after hospitalization.
+
+The relatives were hospitalized while the abducted son was rubbed with injuries.
+
+Police said that the reason for the attack was a personal dispute.
+
+◼️
+
+[Data](articles/56037033.json)
+
+[Extended Data](ext_articles/56037033.ext.json)
+
+---
+
+### Rs.. China helped 30 million
+
+*2024-10-22 16:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-30-மில்லியனை-உதவி-செய்தது-சீனா/175-345862) · `ta`
+
+China gifts $100k to Sri Lanka for flood relief. Ambassador hands over aid to President. Focus on emergency support and long-term flood prevention strategies. Heavy rains cause widespread flooding, displacement, and damage.
+
+🟩
+
+The Chinese government has gifted 30 million rupees (USD 100,000) to Sri Lanka to provide relief to people affected by the recent sudden floods.
+
+Chinese Ambassador to Sri Lanka, Qi Zhenhong, officially handed over the assistance to the President at the Presidential Office on Tuesday afternoon.
+
+The meeting was examined to provide emergency relief to victims of the disaster and the long -term strategies of flood prevention and management.
+
+In addition, focus on the standard solutions and methods that can be followed to prevent future flood conditions and improve the ability to face such situations.
+
+Due to the recent heavy rains, many districts flooded. Thousands of families have been displaced and reportedly damaged infrastructure and agriculture.
+
+◼️
+
+[Data](articles/3d2b919f.json)
+
+[Extended Data](ext_articles/3d2b919f.ext.json)
+
+---
+
+### Ex-President Ranil named as respondent in two FR petition
+
+*2024-10-22 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102855/ex-president-ranil-named-as-respondent-in-two-fr-petition) · `en`
+
+The Supreme Court has granted permission to name former President Ranil Wickremesinghe as a respondent in Fundamental Rights (FR) petitions filed regarding the alleged police attack and dispersing of a protest organized by the Socialist Youth Union (SYU) in 2022.
+
+The permission was granted by the court after considering a request made by attorneys of the petitioning party when two petitions filed by a group of members of the SYU were taken up for consideration today (22).
+
+◼️
+
+[Data](articles/4d0e4b18.json)
+
+[Extended Data](ext_articles/4d0e4b18.ext.json)
+
+---
+
+### New DGs appointed to Coast Conservation Dept. and Central Cultural Fund
+
+*2024-10-22 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102854/new-dgs-appointed-to-coast-conservation-dept-and-central-cultural-fund) · `en`
+
+The Cabinet of Ministers has granted approval to appoint Rear Admiral Y.R. Serasinghe as the new Director General of the Sri Lanka Coast Conservation Department.
+
+Rear Admiral Pujitha Vithana, who had served as the Director General of Sri Lanka Coast Conservation Department, retired from the service on September 13, 2024 after the completion of 55 years of service.
+
+Accordingly, the Cabinet of Ministers has approved the proposal presented by the President, in his capacity as the Minister of Defense, to appoint Rear Admiral Y.R. Serasinghe to the said post of Director General of the Sri Lanka Coast Conservation Department.
+
+Serasinghe is serving as a Deputy Director General of the Department of Coast Conservation at present.
+
+Meanwhile, the Cabinet of Ministers has also granted approval to appoint Dr. T.M.J. Nilan Cooray to the post of Director General of the Central Cultural Fund (CCF) on a contract basis.
+
+...
+
+[Data](articles/42750398.json)
+
+[Extended Data](ext_articles/42750398.ext.json)
+
+---
 
 ### Two passenger bus collide - 28 hospitalized
 
@@ -54,17 +174,23 @@ The accident occurred when a private bus was traveling from Colombo to Sooriyawe
 
 ---
 
-### காஸ் விலை கூடுமா?
+### Can Gas prices?
 
 *2024-10-22 15:59:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஸ்-விலை-கூடுமா/175-345860) · `ta`
 
-காஸ் விலையை அதிகரிக்கபோவதாக காஸ் நிறுவனங்கள் அறிவித்துள்ளனவா? காஸ் விலைகள் எதிர்காலத்தில் அதிகரிக்குமா? என இன்று (22) நடைபெற்ற வாராந்த அமைச்சரவை முடிவுகளை அறிவிக்கும் ஊடகவியலாளர் சந்திப்பில் கேட்கப்பட்ட கேள்விக்கு பதிலளித்த அமைச்சரவை பேச்சாளர் அமைச்சர் விஜித ஹேரத்,
+Gas prices may increase due to Cass company announcements. Cabinet spokesperson denies future price hikes, citing lack of information.
 
-விலைகளை அதிகரிப்பதற்கு முறைமையொன்று உள்ளது. அவை தொடர்பில், காஸ் நிறுவனங்கள் ஊடக அறிக்கைகள் மூலம் அறிவிக்கும். எனினும், விலைகள் எதிர்காலத்தில் அதிகரிக்குமா? என்பது தொடர்பில் தகவல்கள் கிடைக்கவில்லை என்றார்.
+🟩
+
+Cass companies have announced that it will increase the price of Gas?Will Gas prices increase in the future?Cabinet spokesman Minister Vijitha Herath, responding to a question asked at a media briefing announcing the weekly cabinet decisions held today (22).
+
+There is a system to increase prices. In connection with them, Cass companies will announce through media reports. However, will the prices increase in the future?He said there were no information on the matter.
 
 ◼️
 
 [Data](articles/511a37a3.json)
+
+[Extended Data](ext_articles/511a37a3.ext.json)
 
 ---
 
@@ -111,6 +237,26 @@ Odebrecht, now known as Novonor, was at the center of Latin America’s largest 
 [Data](articles/7c4f6ea6.json)
 
 [Extended Data](ext_articles/7c4f6ea6.ext.json)
+
+---
+
+### Two trains collide - 15 killed, 15 injured
+
+*2024-10-22 15:43:13* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-දෙකක්-එකිනෙක-ගැටෙයි----අයෙකු-මරුට--15ට-තුවාල/11-412611) · `si`
+
+Two trains collide in Wales: 15 dead, 15 hurt. BTP reports.
+
+🟩
+
+In a criminal accident, two trains collided with two trains in Wales.
+
+The British News Service (BTP) has also stated that 15 others were injured in the accident.
+
+◼️
+
+[Data](articles/0cd06203.json)
+
+[Extended Data](ext_articles/0cd06203.ext.json)
 
 ---
 
@@ -182,25 +328,35 @@ Recalling the people's mandate to initiate a new political culture, the presiden
 
 ---
 
-### “மாகாண சபை பொறிமுறை வேண்டும்: ஜனாதிபதி
+### “Provincial Council Mechanism: The President
 
 *2024-10-22 14:54:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-சபை-பொறிமுறை-வேண்டும்-ஜனாதிபதி/175-345855) · `ta`
 
-மாகாண சபை பொறிமுறையை நெறிப்படுத்துவதற்கான பரிந்துரையொன்றைத் தயாரித்து சமர்ப்பிக்குமாறு  மாகாண ஆளுநர்களுக்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க அறிவித்துள்ளார்.
+Here's a 200-character summary:
 
-மாகாண சபைகளின் கீழ் உள்ள சுகாதாரம் மற்றும் கல்வித் துறைகளில் உள்ள வெற்றிடங்கள் தொடர்பில் கவனம் செலுத்தப்பட்டதோடு அதற்குச் சாதகமான தீர்வுகளை வழங்கவும் தீர்மானிக்கப்பட்டது.
 
-தற்போதைய  நிலைமாறு காலத்தில் மக்களின் வாழ்வாதாரத்தை இலகுபடுத்துவதற்கு மாகாண சபைகளினால் வழங்கக் கூடிய உச்ச சேவையை வழங்க  நடவடிக்கை எடுக்குமாறும் ஜனாதிபதி குறிப்பிட்டார்.
 
-ஜனாதிபதி செயலகத்தில் செவ்வாய்க்கிழமை (22) நடைபெற்ற மாகாண ஆளுநர்களுடனான கலந்துரையாடலின் போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+President Anurakumara Dissanayake addresses provincial governors on council reforms. Focuses on health and education vacancies. Emphasizes economic interventions and quality public service. Governors present include Nagalingam Vedanayagan, Samba Janaki Rajaratne, Jayantha Ratnasekara, Kapila Jayasekara, Bandula Harischandra, Sarath Samarasinghe.
 
-மக்களின் வாழ்க்கையை இலகுவாக்கும் வகையில் மாகாண சபைகளினால் சாத்தியமான அனைத்து பொருளாதார மற்றும் சமூக தலையீடுகளையும் மேற்கொள்ளுமாறு மாகாண ஆளுநர்களுக்கு  ஜனாதிபதி பணிப்புரை விடுத்தார்.
+🟩
 
-புதிய அரசியல் கலாசாரமொன்றை ஆரம்பிப்பதற்காகக் கிடைத்துள்ள மக்கள் ஆணையை நினைவு கூர்ந்த ஜனாதிபதி, மக்களின் எதிர்பார்ப்பை பாதிக்காத வகையில் செயற்படுமாறும் வலியுறுத்தினார்.
+President Anurakumara Dissanayake has announced to the provincial governors to prepare and submit a recommendation to regulate the Provincial Council mechanism.
+
+It was decided to focus on the vacancies in the health and education sectors under the provincial councils and provide favorable solutions.
+
+The President also stated that the provincial councils will take steps to provide the peak service provided by the provincial councils to ease the livelihood of the people during the current change.
+
+The President said this during a discussion with provincial governors held at the Presidential Secretariat on Tuesday (22).
+
+The President issued a directive to the provincial governors to make all possible economic and social interventions by provincial councils to make the people the lives of the people.
+
+Recalling the people's mandate to initiate a new political culture, the president also urged the people to act so as not to affect the expectations of the people.
 
 ...
 
 [Data](articles/d85ee826.json)
+
+[Extended Data](ext_articles/d85ee826.ext.json)
 
 ---
 
@@ -1041,6 +1197,30 @@ He made this statement after the Kandy Criminal Investigation Division recently 
 [Data](articles/e7120404.json)
 
 [Extended Data](ext_articles/e7120404.ext.json)
+
+---
+
+### Easter Sunday
+
+*2024-10-22 10:40:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20m054d7klo) · `si`
+
+Cardinal Ranjith criticizes investigation timing ahead of election, rejects reports under political pressure, questions impartiality of committees investigating defense officials.
+
+🟩
+
+Easter Sunday
+
+Archbishoya Maligama Kadinal Ranjith, near the presidential election, has been confidentially designed to be held in a short period of political influence today (October 22).Said.
+
+"I see the kirts of our Bishop to make a statement quickly before the election. Preparing these reports, our lawyers or other external lawyers were not allowed to comment on behalf of the parties. Since these secretial investigations were on political pressure, we do not accept those reports, "Kadinal Thero said.
+
+"The Presidential Investigation Commission investigated. The number of responsibility recognized and offered allegations. Among that is Ravi Seneviratne or Shani. They are not the case in the parliamentary select committee. Do these two suddenly puts a committee, who is not receiving a commission, a group of community?It's a big problem, "the Cardinal Owners Syripp Gamini said.
+
+...
+
+[Data](articles/c809efd6.json)
+
+[Extended Data](ext_articles/c809efd6.ext.json)
 
 ---
 
@@ -2231,147 +2411,5 @@ But because they are the dominant caste, his mother suppresses Sivagnanam that h
 [Data](articles/a87b5e08.json)
 
 [Extended Data](ext_articles/a87b5e08.ext.json)
-
----
-
-### Plantation area schools upgrading: India has doubled aid
-
-*2024-10-21 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196809) · `ta`
-
-India doubles aid for 9 plantation schools in Sri Lanka, totaling 600 million Sri Lankan rupees. Funds allocated for infrastructure improvement in Central, Uva, Sabaragamuwa, and Southern Provinces. Part of broader education development initiatives in Sri Lanka.
-
-🟩
-
-Hon. Santosh Ja, the Ministry of Indian High Commission in Sri Lanka, Mrs. JM Tilaka Jayasundara on the 18th of October, in the diplomatic documents that will double the donation of donations issued by the Government of India to upgrade 9 schools in the plantation areas of Sri Lanka.Diplomatic documents were also exchanged.
-
-With the further allocation of funds at the request of the Sri Lankan government, the total allocation of the Indian government has increased to 600 million Sri Lankan rupees.
-
-Based on the allocation, it is intended to improve the infrastructure of 9 plantation schools identified by the Sri Lankan government. These include 6 schools in the plantation areas of the Central Province and one school in Uva, Sabaragamuwa and Southern Province.
-
-The scheme is included in the long list, including the projects launched in the educational fields in Sri Lanka, as well as the ongoing development share efforts.
-
-...
-
-[Data](articles/133d3fe7.json)
-
-[Extended Data](ext_articles/133d3fe7.ext.json)
-
----
-
-### General Election: Over 21,000 postal voting applications rejected
-
-*2024-10-21 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102839/general-election-over-21000-postal-voting-applications-rejected) · `en`
-
-A total of 21,160 postal voting applications have been rejected out of the total applications submitted for 2024 General Election, according to the Election Commission.
-
-The chairman of the Election Commision, R.M.A.L. Rathnayake stated that a total of 759,210 postal voting applications were received for the upcoming general election.
-
-"The process of accepting postal voting applications has now been completed. Out of the 759,210 applications submitted, 738,050 have been accepted. This marks an increase of 25,731 postal votes compared to the recent presidential election," Rathnayake explained.
-
-He further mentioned that the delivery of ballot papers for postal voting will begin on October 23. Additionally, the official ballot papers are scheduled for release on October 26.
-
-...
-
-[Data](articles/04c4d53b.json)
-
-[Extended Data](ext_articles/04c4d53b.ext.json)
-
----
-
-### Sri Lanka Institute of Directors Appoints Anitra Perera as CEO
-
-*2024-10-21 22:08:00* · [`islandlk`](http://island.lk/sri-lanka-institute-of-directors-appoints-anitra-perera-as-ceo/) · `en`
-
-The Sri Lanka Institute of Directors (SLID) announces the appointment of Anitra Perera as its new Chief Executive Officer (CEO), effective September 2024. With a distinguished career in education, strategic consulting, and leadership, Ms. Perera brings a wealth of experience that will be instrumental in advancing the mission of SLID.
-
-...
-
-[Data](articles/71a135da.json)
-
-[Extended Data](ext_articles/71a135da.ext.json)
-
----
-
-### Kabir Hashim shares insights on ‘Responsive Evaluation’
-
-*2024-10-21 22:06:00* · [`islandlk`](http://island.lk/kabir-hashim-shares-insights-on-responsive-evaluation/) · `en`
-
-Kabir Hashim, former Parliamentarian for the Kegalle District and Chair of the Global Parliamentarian Forum for Evaluation, was invited as an esteemed panelist at the 8th National Evaluation Capacities (NEC) Conference 2024. This prestigious event was held from October 14 to 18 in Yanqing District, Beijing, China, and was organized by the UNDP Independent Evaluation Office (IEO) in collaboration with the China International Development Cooperation Agency (CIDCA) and the Global Evaluation Initiative (GEI).
-
-The NEC Conference, now in its eighth edition, gathers international leaders, policymakers, and evaluation experts under the theme, “Responsive Evaluation: For Government, For Inclusion, For the Future.” The focus of this year’s event is on the critical role of national evaluation systems in achieving development.
-
-Heritance Aarah named Most Outstanding Culinary Organisation at FHAM 2024
-
-Sri Lanka Institute of Directors Appoints Anitra Perera as CEO
-
-...
-
-[Data](articles/41a07f05.json)
-
-[Extended Data](ext_articles/41a07f05.ext.json)
-
----
-
-### Gammanpila alleges
-
-*2024-10-21 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202414) · `si`
-
-Udaya Gammanpila accuses National Folk Force of undermining credibility of Ravi Seneviratne and Shani Abeysekera in court regarding Passover attack investigation. Claims retired UPS Alwis report recommends charging them with criminal negligence. Cites lack of proper investigation due to witness tampering.
-
-🟩
-
-The National Folk Force is trying to break the credibility of Ravi Seneviratne and Shani Abeysekera's credibility in courts of the Passover attack.
-
-President's Counsel Upul Kumarapparama, responding to the revelation of the reports of the Passover attack.
-
-...
-
-[Data](articles/6a4db67f.json)
-
-[Extended Data](ext_articles/6a4db67f.ext.json)
-
----
-
-### In a day of mixed fortunes for bourse, Dialog proves biggest contributor to turnover
-
-*2024-10-21 22:03:00* · [`islandlk`](http://island.lk/in-a-day-of-mixed-fortunes-for-bourse-dialog-proves-biggest-contributor-to-turnover/) · `en`
-
-The investor sentiment at the CSE yesterday reflected sensitivity to the latest developments on the economic front. Consequently, the market indicated a somewhat gloomy outlook, resulting in the market projecting mixed reactions, stock market analysts said.
-
-The All Share Price Index went down by 5.02 points, while the S and P SL20 rose by 1.92 points. Turnover stood at Rs 1.49 billion with one crossing. The crossing was reported in Dialog, which crossed 7.7 million shares to the tune of Rs 85.8 million; its shares traded at Rs 11.10.
-
-...
-
-[Data](articles/fee4051d.json)
-
-[Extended Data](ext_articles/fee4051d.ext.json)
-
----
-
-### The underground scholarship problem is reopened
-
-*2024-10-21 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202413) · `si`
-
-Underground scholarship scandal resurfaces. Students seek Supreme Court intervention, demanding full marks for three exam questions deemed unfair. Petition claims violation of basic human rights.
-
-🟩
-
-A fundamental rights petition filed before the Supreme Court to issue a decision to issue complete marks for three scholarship examination.
-
-The petition has been presented by the students who sat for the examination in the Badulla District and their parents.
-
-The Commissioner General of Examinations, Commissioner General of Examinations, Prime Minister Dr. Weli Amarasuriya, the DIG and the Attorney General in charge of the Criminal Investigations of the Criminal Investigations.
-
-The petitioners say that three questions have been exhausted in the first part of the Year 05 scholarship examination last year.
-
-The petitioners point out that the students have decided to give full scores to all the students who sat for the examination for three questions.
-
-They begging the judiciary to make a decision that the action is violated by basic human rights.
-
-...
-
-[Data](articles/f958fb12.json)
-
-[Extended Data](ext_articles/f958fb12.ext.json)
 
 ---

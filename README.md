@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 18:20:39**
+As of **2024-10-22 18:35:12**
 
 ## Newspaper Stats
 
-*Scraped **50,765** Articles*
+*Scraped **50,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 3,458
 adalk | 4,714
 dailymirrorlk | 4,733
 adaderanalk | 6,016
-tamilmirrorlk | 6,972
+tamilmirrorlk | 6,973
 virakesarilk | 8,146
-adaderanasinhalalk | 8,808
+adaderanasinhalalk | 8,809
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,760 (100.0%) of 50,765 articles have been extended.
+50,767 (100.0%) of 50,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Allow Ranil to be referred to as defendant
+
+*2024-10-22 18:05:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-பிரதிவாதியாக-குறிப்பிட-அனுமதி/175-345865) · `ta`
+
+Supreme Court allows referring Ranil Wickremesinghe as defendant in Socialist Youth Association's petition against alleged attack on protests and violation of fundamental rights.
+
+🟩
+
+In a petition filed by the Socialist Youth Association for allegedly attacking the protest movement and violating fundamental rights, the Supreme Court on Tuesday (22) granted permission to refer to former President Ranil Wickremesinghe as defendant.
+
+In the petition of the Socialist Youth Association, which is allegedly violated, the Supreme Court has approved the amendment of the petition by the lawyer of the petitioners to refer to the former president as a defendant.
+
+High Court Judges. The petition was considered in the presence of a panel of High Court Judges, including Durairaja, Kumuduni Wickramasinghe and Priyantha Fernando.
+
+In a petition filed by a member of the Socialist Youth Association, Mahesh Hindu, the Group of Officers in charge of the Cinnamon Garden, Maradana and Kombancha Road Police Stations said.
+
+On September 27, the petitioner said that the petitioner Mahesh Hindu was arrested in Mahesh Hindu near Lipton, Colombo.
+
+...
+
+[Data](articles/bafd2cde.json)
+
+[Extended Data](ext_articles/bafd2cde.ext.json)
+
+---
+
+### Troops advance to governors
+
+*2024-10-22 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202435) · `si`
+
+President Anura Kumara Dissanayake instructs governors to reform Provincial Council system, emphasizing quality of life improvements during transition period.
+
+🟩
+
+President Anura Kumara Dissanayake has informed the Provincial Governors to formulate and submit a proposal to regulate the Provincial Council mechanism.
+
+The President made this observation at a meeting with the governors of the Presidential Secretariat this morning.
+
+The Presidential Media Union stated that the Presidential Media Unit stated that the vacancies in health and educational services under the Provincial Council have also decided to provide effective solutions.
+
+The President has also said to be able to provide the maximum service of the provincial councils to facilitate the quality of life of the people during the existing transition period.
+
+The President has instructed the provincial governors to carry out all the interventions of the provincial councils to facilitate the lives of the people.
+
+He also emphasized that the president recalls the mandate of the mandate to start a new political culture.
+
+...
+
+[Data](articles/8f69ea85.json)
+
+[Extended Data](ext_articles/8f69ea85.ext.json)
+
+---
 
 ### No more passport shortage - government
 
@@ -412,35 +466,61 @@ Within a short time of the song, more than four million viewers were visited and
 
 ---
 
-### சாதனை படைத்து வரும் நடிகர் துல்கர்  சல்மானின் 'லக்கி பாஸ்கர்' பட முன்னோட்டம்
+### Actor Dulquer Salman's 'Lucky Bhaskar' preview
 
 *2024-10-22 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196851) · `ta`
 
-தென்னிந்திய திரையுலகின் முன்னணி நட்சத்திர நடிகரான துல்கர் சல்மான் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'லக்கி பாஸ்கர்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. இந்த முன்னோட்டம் வெளியான குறுகிய கால அவகாசத்திற்குள் இரண்டு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.
+"Lucky Bhaskar" preview: Dulquer Salman stars in Tamil, Telugu, Malayalam, Kannada, Hindi. Directed by Venki Atheruri, produced by Siddhartha Entertainment and Fortune For Cinemas. Release date: March 31.
 
-இயக்குநர் வெங்கி அட்லூரி இயக்கத்தில் உருவாகி இருக்கும் 'லக்கி பாஸ்கர்' எனும் திரைப்படத்தில் துல்கர் சல்மான், மீனாட்சி சவுத்ரி, ஆயிஷா கான், ஹைபர் ஆதி, சாய் குமார், சச்சின் கடேகர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். நிமிஷ் ரவி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார்.
+🟩
 
-இந்தத் திரைப்படத்தை சித்தாரா என்டர்டெய்ன்மெண்ட்ஸ் மற்றும் ஃபார்ச்சூன் ஃபோர் சினிமாஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது. மேலும் இந்த திரைப்படத்தை ஸ்ரீ கரா ஸ்டுடியோஸ் வழங்குகிறது.
+Dulquer Salman, the leading star of the South Indian film industry, has been released as the lead role of the film 'Lucky Bhaskar'.. Within a short time of this preview, more than two million viewers have been visited and achieved.
 
-...
+Dulquer Salman, Meenakshi Chaudhry, Aisha Khan, Hyper Adi, Sai Kumar, Sachin Katekar, directed by director Venki Atheruri.. Nimish Ravi has recorded the film.. V.. Prakash Kumar has composed the music.
+
+The film was co -produced by Siddara Entertainment and Fortune For Cinemas.. The film also offers Sri Kara Studios.
+
+The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 31st of this month.
+
+In this, Dulquer Salman, the hero of the story, is getting into an economic problem after marrying his own hero.
+
+Gambling and financial fraud in order to escape from it. The consequences are the film, which has caused great anticipation for fans.
+
+◼️
 
 [Data](articles/8c5faab5.json)
 
+[Extended Data](ext_articles/8c5faab5.ext.json)
+
 ---
 
-### நடிகர் ஆர். ஜே. பாலாஜி நடிக்கும் 'சொர்க்க வாசல்' படத்தின் கிளர்வோட்டம்  வெளியீடு
+### Actor r. J.. Balaji starrer 'Paradise Vasal'
 
 *2024-10-22 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196852) · `ta`
 
-தொகுப்பாளரும், துடுப்பாட்ட வர்ணனையாளரும் , நடிகரும் , இயக்குநருமான ஆர். ஜே. பாலாஜி கதையின் நாயகனாக உணர்வுபூர்வமான கதாபாத்திரத்தில் நடித்திருக்கும் 'சொர்க்கவாசல்' எனும் திரைப்படத்தின் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது.
+Here's a 200-character summary:
 
-அறிமுக இயக்குநர் சித்தார்த் விஸ்வநாத் இயக்கத்தில் உருவாகி இருக்கும் 'சொர்க்க வாசல்' எனும் திரைப்படத்தில் ஆர். ஜே. பாலாஜி, செல்வ ராகவன், நட்டி என்கிற நட்ராஜ், சானியா ஐயப்பன், ஷஃரப் உதீன், ஹக்கீம் ஷா, பாலாஜி சக்திவேல், கருணாஸ், ரவி ராகவேந்திரா, அந்தோணி தாசன், சாமுவேல் ஜான்சன், மவுரிஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-பிரின்ஸ் ஆண்டர்சன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கிறிஸ்டோ சேவியர் இசையமைத்திருக்கிறார். சிறைச்சாலை மற்றும் சிறை கைதிகளின் வாழ்வியலை உணர்வு பூர்வமாக விவரிக்கும் இந்த திரைப்படத்தை ஸ்வைப் ரைட் ஸ்டுடியோஸ் மற்றும் திங்க் ஸ்டுடியோஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சித்தார்த் ராவ் மற்றும் பல்லவி சிங் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
 
-...
+R.J. Balaji stars in "Paradise Vasal," directed by Christo Xavier. High-budget film featuring cricket commentators, actors, and directors. Released after completing all tasks, it explores life, relationships, and prison themes. Produced by Swipe Right Studios and Think Studios.
+
+🟩
+
+Editor, Cricket commentator, actor, director. J.. Balaji has been released in the film 'Parakavasal' which plays the hero of the story.
+
+R. R. R.. J.. Balaji, Selvam Raghavan, Nati alias Natraj, Sania Iyyappan, Shafrab Udin, Hakeem Shah, Balaji Sakthivel, Karunas, Ravi Raghavendra, Anthony Dasan, Samuel Johnson, Maurya and many others.
+
+Christo Xavier has composed the film, which is being recorded by Prince Anderson. The film is being produced by Siddharth Rao and Pallavi Singh on behalf of Swipe Right Studios and Think Studios.
+
+All the tasks of the film are completed and waiting for the release. R. J.. Balaji starring in the film, which is a high -budget film in his films.In this case, the film has been released.
+
+The scenes described in the life, relations and relationships of the prison in prison have caused great anticipation among fans.
+
+◼️
 
 [Data](articles/d2cc8ff4.json)
+
+[Extended Data](ext_articles/d2cc8ff4.ext.json)
 
 ---
 
@@ -506,21 +586,31 @@ Foreign buying was seen on JKH, Commercial Bank voting (down at 108.25), Sampath
 
 ---
 
-### 50 துப்பாக்கிகள் மாத்திரமே மீளக் கையளிப்பு
+### Only 50 guns are re -handled
 
 *2024-10-22 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196845) · `ta`
 
-கடந்த காலங்களில் பொதுமக்களுக்கு பாதுகாப்புக்கு வழங்கப்பட்ட துப்பாக்கிகளில் சுமார் 50 துப்பாக்கிகளே கையளிக்கப்பட்டுள்ளதாக பாதுகாப்பு அமைச்சின் வட்டாரங்கள் தெரிவிக்கின்றன.
+Here's a 200-character summary:
 
-பொதுமக்களுக்கு வழங்கப்பட்ட துப்பாக்கிகள் மற்றும் வெடிபொருட்களை எதிர்வரும் நவம்பர் மாதம் 7ஆம் திகதிக்கு முன்னர் ஒப்படைக்குமாறு அரசாங்கம் அண்மையில் அறிவித்திருந்தது.
 
-துப்பாக்கிகள் மற்றும் வெடிபொருட்கள் வெலிசறையில் உள்ள அரசாங்கத்தின் வர்த்தக வெடிபொருள் களஞ்சியசாலையில் ஒப்படைக்கப்பட வேண்டும் என தெரிவித்துள்ளது.
 
-உரிய திகதிக்கு முன்னர் துப்பாக்கிகள் மற்றும் வெடிமருந்துகளை ஒப்படைக்காவிட்டால் சட்ட நடவடிக்கை எடுக்கப்படும் என பாதுகாப்பு அமைச்சு அறிவித்துள்ளது.
+"About 50 guns handed over to public; deadline Nov 7; failure may lead to legal action."
+
+🟩
+
+According to sources in the Ministry of Defense, about 50 guns have been handed over to the public in the past.
+
+The government recently announced that the guns and ammunition provided to the public will be handed over before November 7.
+
+The government's commercial ammunition in Welisara said the guns and ammunition should be handed over to the repository.
+
+The Ministry of Defense has announced that legal action will be taken if the guns and ammunition is not handed over before the appropriate date.
 
 ◼️
 
 [Data](articles/21201841.json)
+
+[Extended Data](ext_articles/21201841.ext.json)
 
 ---
 
@@ -672,21 +762,27 @@ When a request made by two petitions filed by two members of the Socialist Youth
 
 ---
 
-### கிழக்கு கொள்கலன் முனையக் கருத்திட்டத்தை விசேட கருத்திட்டமாக பிரகடனப்படுத்த அரசாங்கம் தீர்மானம்
+### Government resolution to declare the Eastern container terminal project as a special project
 
 *2024-10-22 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196846) · `ta`
 
-இலங்கை துறைமுக அதிகாரசபையால் கொழும்பு தெற்கு துறைமுகக் கருத்திட்டத்தின் கிழக்குக் கொள்கலன் முனையத்தை கட்டம் கட்டமாக அபிவிருத்தி செய்வதற்கு துறைமுக அதிகாரசபைக்கு முழுமையான உரித்துடன் கூடிய கொள்கலன் முனையமாக இயக்குவதற்கு கடந்த 2021 பெப்ரவரி முதலாம் திகதி இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+Sri Lanka Ports Authority approves Eastern container terminal project as special development initiative. Cabinet grants tax concessions under Strategic Development Act and Investment Board Act to private operators and service providers. Contract issued for civil work, purchase of equipment available. Project aims to enhance Port Authority capabilities.
 
-அதற்கமைய, குறித்த சிவில் வேலைகளுக்கான ஒப்பந்தம் தற்போது வழங்கப்பட்டுள்ளதுடன், அந்த கொள்கலன் முனையத்திற்குத் தேவையான பாரந்தூக்கிகளைக் கொள்வனவு செய்வதற்கான பெறுகையும் தற்போது வழங்கப்பட்டுள்ளது.
+🟩
 
-கொழும்பு துறைமுகத்தின் தனியார் கொள்கலன் இயக்குபவர்கள் மற்றும் சேவை வழங்குநர்களுக்கு மூலோபாய அபிவிருத்திச் சட்டம் மற்றும் முதலீட்டு சபைச் சட்டத்தின் கீழ் காணப்படும் பல்வேறுபட்ட வரிச் சலுகைகள் வழங்கப்பட்டுள்ளன.
+At the Cabinet meeting held on the 1st of February 2021, the Sri Lanka Ports Authority has approved the east container terminal of the Colombo South Port Project as a fully -wide container terminal to develop the Port Authority.
 
-குறித்த விடயங்களைக் கருத்தில் கொண்டு கிழக்கு கொள்கலன் முனையக் கருத்திட்டத்தை 'விசேட கருத்திட்டமாக' நிதி விடயதான அமைச்சரால் வெளியிடுவதற்காக போக்குவரத்து, அதிவேக வீதி, துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சர் சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+Accordingly, the contract for the civil work has been issued and the receipt of the container terminal is now available for the purchase of parambles for the container terminal.
+
+Various tax concessions found under the Strategic Development Act and the Investment Board Act have been granted to private container operators and service providers of the Port of Colombo.
+
+The Cabinet has approved the proposal submitted by the Minister of Transport, Highway, Ports and Civil Services to publish the Eastern Container terminal project as a special project by the Minister of Finance.
 
 ◼️
 
 [Data](articles/894a38b4.json)
+
+[Extended Data](ext_articles/894a38b4.ext.json)
 
 ---
 
@@ -2357,51 +2453,5 @@ The motorcyclist and a subsequent vehicle was admitted to the Thirukkovil hospit
 [Data](articles/dabc7f2e.json)
 
 [Extended Data](ext_articles/dabc7f2e.ext.json)
-
----
-
-### Fake country is a job racket
-
-*2024-10-22 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202417) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-A scam targeting job seekers for Israel involves fake calls claiming to be from the Foreign Employment Bureau. Scammers demand payment of Rs. 14,700 before sending job offers. The bureau denies issuing such instructions, warning victims about potential fraud.
-
-🟩
-
-The Foreign Employment Bureau says that no calls to pay for Israel's employers to pay for the job candidates.
-
-Deputy General Manager General Manager General Manager Grounds, General Manager Grounds, there is no need to pay anyone back in Israel's job candidates.
-
-The Foreign Employment Bureau has received a few complaints that there has been a few complaints that there has been 14,700 to pay a sum of Rs. 14,700.
-
-Deputy General Manager of International Affairs of the Foreign Employment Bureau of the Foreign Employment Bureau Mr. Gamini Senarath Yapa,
-
-...
-
-[Data](articles/2e80e96d.json)
-
-[Extended Data](ext_articles/2e80e96d.ext.json)
-
----
-
-### Sri Lanka Needs A Change In Exchange Rate Policy
-
-*2024-10-22 06:53:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-needs-a-change-in-exchange-rate-policy/) · `en`
-
-The IMF promotes a floating exchange rate mechanism. CBSL governor Dr. Nandalal Weerasinghe agrees with it, I think. Some economists too insist that CBSL cannot regulate the exchange rate, hence should allow the rupee to float. SJB has a different idea. They say that they allow first floating the currency to permit market forces to reveal the equilibrium rate , and then stabilizing that rate through CBSL intervention. I am not sure about the ideological stance of president Anura Kumara Dissanayake as the Minister of Finance.
-
-The IMF never assumed that Sri Lanka should have a stable rate of exchange when they entered into an agreement to approve Extended Fund Facility (EFF) in March 2023. In this agreement the forecasted or estimated exchange rates were as follows:
-
-Source: IMF Country Report No. 23/116, March 2023, Calculated by the author of this essay
-
-...
-
-[Data](articles/d151bdb5.json)
-
-[Extended Data](ext_articles/d151bdb5.ext.json)
 
 ---

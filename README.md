@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 16:12:14**
+As of **2024-10-22 16:24:46**
 
 ## Newspaper Stats
 
-*Scraped **50,730** Articles*
+*Scraped **50,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ bbccomsinhala | 510
 islandlk | 3,021
 economynextcom | 3,097
 dailyftlk | 3,458
-adalk | 4,712
+adalk | 4,713
 dailymirrorlk | 4,733
 adaderanalk | 6,012
 tamilmirrorlk | 6,966
 virakesarilk | 8,136
-adaderanasinhalalk | 8,804
+adaderanasinhalalk | 8,806
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,730 (100.0%) of 50,730 articles have been extended.
+50,733 (100.0%) of 50,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Two passenger bus collide - 28 hospitalized
+
+*2024-10-22 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202432) · `si`
+
+Two passenger buses collided near Avissawella, injuring 28. Accident occurred during journey from Colombo to Embilipitiya.
+
+🟩
+
+About 28 persons were injured in two afternoon of two private passenger buses and two private passenger buses have collided.
+
+The accident had occurred near the Deviliya area in Avissawella police force.
+
+The accident occurred when a private bus was traveling from Colombo to Sooriyawewa from Colombo to Embilipitiya to Embilipitiya to Embilipitiya to Colombo.
+
+◼️
+
+[Data](articles/eb9d1896.json)
+
+[Extended Data](ext_articles/eb9d1896.ext.json)
+
+---
+
+### There is no difference in rice control price - President
+
+*2024-10-22 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202431) · `si`
+
+No change in rice control price: President Anura Kumara Dissanayake. Long-term plan for farmers' benefits announced. Meeting held at Presidential Secretariat with rice traders and Agriculture Department officials.
+
+🟩
+
+President Anura Kumara Dissanayake says that the rice control price is not expected to make any changes.
+
+The President pointed out that the organized agriculture plan is planning to implement a long term program to benefit the farmer community.
+
+President Anura Kumara Dissanayake made these comments at the Presidential Secretariat today (22) with rice businessmen and the officials of the Department of Agriculture.
+
+◼️
+
+[Data](articles/d204372a.json)
+
+[Extended Data](ext_articles/d204372a.ext.json)
+
+---
 
 ### Peru ex-President Toledo convicted of bribe-taking, sentenced to 20 years in prison
 
@@ -215,6 +259,32 @@ Police said that the cause of a personal dispute is the cause of the attack.
 [Data](articles/1947114d.json)
 
 [Extended Data](ext_articles/1947114d.ext.json)
+
+---
+
+### The committee that has targeted the political revenge of Ranil
+
+*2024-10-22 14:25:03* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-දේශපාලන-පළිගැනීම-ඉලක්ක-කරගෙන-පත්-කරපු-කමිටුව-පිළිගන්නේ-නෑ/11-412610) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+President Ranil Wickremesinghe formed a committee targeting political revenge. Cabinet Spokesperson Vijitha Herath criticized this move, stating it undermines Wickremesinghe's retirement due to political interests. The committee's legitimacy is questioned by officials.
+
+🟩
+
+Cabinet Spokesperson Vijitha Herath said that the committee appointed by President Ranil Wickremesinghe targeting political revenge.
+
+He was speaking at a media briefing to the Cabinet Decision.
+
+"We do not accept the committee that has targeted the political revenge of Ranil Wickremesinghe, who had been sentenced to retirement on the political interests.. "
+
+◼️
+
+[Data](articles/ecd4db1d.json)
+
+[Extended Data](ext_articles/ecd4db1d.ext.json)
 
 ---
 
@@ -2311,73 +2381,5 @@ Police are also responsible for the three -wheeler and motorcycle used to paste 
 [Data](articles/e61826bf.json)
 
 [Extended Data](ext_articles/e61826bf.ext.json)
-
----
-
-### Sri Lanka says backing letter condemning Israel’s ban on UN chief
-
-*2024-10-21 20:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-backing-letter-condemning-israels-ban-on-un-chief-184332/) · `en`
-
-ECONOMYNEXT – Sri Lanka, which was originally not signatory for a letter condemning Israel for banning the United Nations Secretary General (UNSG) entering into the country, said it is supporting the move which has been supported by more than 100 countries.
-
-The move comes after Sri Lanka’s stance on the issue raised concerns over the island nation’s consistent support for conflict-hit Palestine and foreign policy under new President Anura Kumara Dissanayake.
-
-“By Note Verbale dated 11 October 2024, Sri Lanka conveyed its desire to be a signatory to the Letter supporting the UN Secretary General, to the Permanent Mission of Chile in New York, which coordinated the Joint Letter,” Sri Lanka’s Ministry of Foreign Affairs said in a statement.
-
-However, the Ministry did not explain why the country’s name was not included in the list of 105 signatories who signed the letter released last week.
-
-...
-
-[Data](articles/748e5965.json)
-
-[Extended Data](ext_articles/748e5965.ext.json)
-
----
-
-### If the two vehicles prove myself, they will say to politics
-
-*2024-10-21 20:15:35* · [`adalk`](https://www.ada.lk/breaking_news/සැප-වාහන-දෙක-මගේ-කියා-ඔප්පු-කළොත්-දේශපාලනයෙන්-සමුගන්නවා/11-412603) · `si`
-
-Former Ports Minister Rohitha Abeygunawardena denies involvement in vehicles scandal, threatens resignation from politics if proven false. Claims innocence and calls for truth, stating vehicles are registered and unrelated to him or his nephew.
-
-🟩
-
-Former Ports Minister Rohitha Abeygunawardena said that if he had been concealed in a house was concealed in a house in the Kandy area, he said.
-
-The former Minister said that a special statement made by the media in Kalutara yesterday (21 million) was arrested by the Kandy Divisional Criminal Investigation Unit, which was worth a port of Rs.Reported by the media.
-
-"First said that my son-in-law is involved in the vehicles. Later, son-in-law's i was nothing to do with these vehicles. If you prove that is true, I will say goodbye in politics. Moreover, even the general election will be resigned. Never came into politics to cheat or steal politics. Accusing what is not. I call for the truth here.
-
-Clearly means don't use these to mud. These vehicles have no connection to me or the nephew. I have. These are all registered vehicles. I want to be held responsible for something else. If I have done something wrong, you will challenge to prove.
-
-...
-
-[Data](articles/02b41f40.json)
-
-[Extended Data](ext_articles/02b41f40.ext.json)
-
----
-
-### Notice of water supply in several areas
-
-*2024-10-21 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202411) · `si`
-
-Water supply issues in Gampaha district due to pipeline damage. Affected areas: Wattala, Mabala, Ja-Ela, Katunayake-Seeduwa, Biyagama, Mahara, Katana, Minuwangoda. Repair work ongoing; restoration expected by tomorrow afternoon.
-
-🟩
-
-The National Water Supply and Drainage Board (NPF) says that the water supply of water has under pressure from the Gampaha District due to a sudden death of a water supply pipeline.
-
-Accordingly, water supply water for low pressure on Wattala, Mabala, Ja-Ela and Katunayake-Seeduwa Municipal Councils and Wattala, Biyagama, Mahara, Ja-Ela, Katana and Minuwangoda Pradeshiya Sabry.
-
-National Water Supply and Drainage Board said that the supply of water in heights are interrupted.
-
-It is said that the repair work will be carried out and the water supply will be restored tomorrow afternoon.
-
-◼️
-
-[Data](articles/ab696d9b.json)
-
-[Extended Data](ext_articles/ab696d9b.ext.json)
 
 ---

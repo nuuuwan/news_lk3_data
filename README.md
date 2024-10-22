@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 06:45:02**
+As of **2024-10-22 07:27:36**
 
 ## Newspaper Stats
 
-*Scraped **50,646** Articles*
+*Scraped **50,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 409
 colombotelegraphcom | 507
 bbccomsinhala | 508
-islandlk | 3,011
+islandlk | 3,021
 economynextcom | 3,093
 dailyftlk | 3,458
 adalk | 4,704
 dailymirrorlk | 4,733
 adaderanalk | 5,998
-tamilmirrorlk | 6,945
+tamilmirrorlk | 6,946
 virakesarilk | 8,127
 adaderanasinhalalk | 8,790
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,790
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,646 (100.0%) of 50,646 articles have been extended.
+50,649 (100.0%) of 50,657 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -135,6 +135,32 @@ The Sri Lanka Institute of Directors (SLID) recently announced the appointment o
 [Data](articles/08150eb7.json)
 
 [Extended Data](ext_articles/08150eb7.ext.json)
+
+---
+
+### Falling of primary inflation
+
+*2024-10-22 01:31:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதன்மை-பணவீக்கம்-வீழ்ச்சி/175-345820) · `ta`
+
+Primary inflation falls: National Consumer Price Index drops from 1.1% to 0.2%, food inflation decreases from 2.3% to 0.5%. Report cites Department of Value and Statistics.
+
+🟩
+
+National Consumer Price -based primary inflation fell last September.
+
+This was stated in a renewed report issued by the Department of Value and Statistics.
+
+Accordingly, the National Consumer Price Index, which was 1.1 per cent in August, fell to 0.2 per cent in September.
+
+Meanwhile, food inflation, which recorded 2.3 per cent in August, fell to 0.5 per cent in September.
+
+Food inflation was recorded at 0.2 per cent last August. It was recorded in September 0.7 per cent in the report of the Department of Statistics and Statistics. (A)
+
+◼️
+
+[Data](articles/ee1e192b.json)
+
+[Extended Data](ext_articles/ee1e192b.ext.json)
 
 ---
 
@@ -275,6 +301,22 @@ The State apparatus consists of the executive, ministries, departments and publi
 [Data](articles/ef2cd7ab.json)
 
 [Extended Data](ext_articles/ef2cd7ab.ext.json)
+
+---
+
+### A low productivity trap? Strengthening skills, jobs and public sector efficiency in Sri Lanka
+
+*2024-10-21 22:40:00* · [`islandlk`](http://island.lk/a-low-productivity-trap-strengthening-skills-jobs-and-public-sector-efficiency-in-sri-lanka/) · `en`
+
+Himani Vithanage is a Research Assistant working on health, education, and labour policy at IPS. She received the IPS’ Saman Kelegama Memorial Research Grant for 2021. Himani holds a BA in Economics with First Class Honours from the University of Colombo. Himani also holds a BSc in Economics and Finance with First Class Honours from the London School of Economics and Political Science (LSE).
+
+Sri Lanka experienced six consecutive quarters of negative economic growth up to the third quarter of 2023. This downturn has had a direct impact on the labour market, leading to lower wage rates and discouraging workforce participation and skill development. As a result, productivity levels continue to fall, creating a vicious cycle known as the “low productivity trap”, which hampers further economic recovery.
+
+...
+
+[Data](articles/a3bf4cea.json)
+
+[Extended Data](ext_articles/a3bf4cea.ext.json)
 
 ---
 
@@ -424,6 +466,38 @@ He further mentioned that the delivery of ballot papers for postal voting will b
 
 ---
 
+### Sri Lanka Institute of Directors Appoints Anitra Perera as CEO
+
+*2024-10-21 22:08:00* · [`islandlk`](http://island.lk/sri-lanka-institute-of-directors-appoints-anitra-perera-as-ceo/) · `en`
+
+The Sri Lanka Institute of Directors (SLID) announces the appointment of Anitra Perera as its new Chief Executive Officer (CEO), effective September 2024. With a distinguished career in education, strategic consulting, and leadership, Ms. Perera brings a wealth of experience that will be instrumental in advancing the mission of SLID.
+
+...
+
+[Data](articles/71a135da.json)
+
+[Extended Data](ext_articles/71a135da.ext.json)
+
+---
+
+### Kabir Hashim shares insights on ‘Responsive Evaluation’
+
+*2024-10-21 22:06:00* · [`islandlk`](http://island.lk/kabir-hashim-shares-insights-on-responsive-evaluation/) · `en`
+
+Kabir Hashim, former Parliamentarian for the Kegalle District and Chair of the Global Parliamentarian Forum for Evaluation, was invited as an esteemed panelist at the 8th National Evaluation Capacities (NEC) Conference 2024. This prestigious event was held from October 14 to 18 in Yanqing District, Beijing, China, and was organized by the UNDP Independent Evaluation Office (IEO) in collaboration with the China International Development Cooperation Agency (CIDCA) and the Global Evaluation Initiative (GEI).
+
+The NEC Conference, now in its eighth edition, gathers international leaders, policymakers, and evaluation experts under the theme, “Responsive Evaluation: For Government, For Inclusion, For the Future.” The focus of this year’s event is on the critical role of national evaluation systems in achieving development.
+
+Heritance Aarah named Most Outstanding Culinary Organisation at FHAM 2024
+
+Sri Lanka Institute of Directors Appoints Anitra Perera as CEO
+
+...
+
+[Data](articles/41a07f05.json)
+
+---
+
 ### Gammanpila alleges
 
 *2024-10-21 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202414) · `si`
@@ -441,6 +515,20 @@ President's Counsel Upul Kumarapparama, responding to the revelation of the repo
 [Data](articles/6a4db67f.json)
 
 [Extended Data](ext_articles/6a4db67f.ext.json)
+
+---
+
+### In a day of mixed fortunes for bourse, Dialog proves biggest contributor to turnover
+
+*2024-10-21 22:03:00* · [`islandlk`](http://island.lk/in-a-day-of-mixed-fortunes-for-bourse-dialog-proves-biggest-contributor-to-turnover/) · `en`
+
+The investor sentiment at the CSE yesterday reflected sensitivity to the latest developments on the economic front. Consequently, the market indicated a somewhat gloomy outlook, resulting in the market projecting mixed reactions, stock market analysts said.
+
+The All Share Price Index went down by 5.02 points, while the S and P SL20 rose by 1.92 points. Turnover stood at Rs 1.49 billion with one crossing. The crossing was reported in Dialog, which crossed 7.7 million shares to the tune of Rs 85.8 million; its shares traded at Rs 11.10.
+
+...
+
+[Data](articles/fee4051d.json)
 
 ---
 
@@ -2219,137 +2307,5 @@ He was speaking at a public meeting held in Panadura yesterday.
 [Data](articles/e1fe99a7.json)
 
 [Extended Data](ext_articles/e1fe99a7.ext.json)
-
----
-
-### Not to see Gammanpila's Rila Dancing, but the people appointed a government
-
-*2024-10-21 13:06:56* · [`adalk`](https://www.ada.lk/breaking_news/ගම්මන්පිලගේ-රිලා-නැටුම්-බලන්න-නෙමෙයි-ජනතාව-ආණ්ඩුවක්-පත්-කළේ/11-412589) · `si`
-
-Sri Lanka Labor Party leader Chamira Perera criticizes Udaya Gammanpila over Rila Dancing controversy, accuses him of injustice and racial politics.
-
-🟩
-
-Sri Lanka Labor People's Front Leader Chamira Perera said that the people of the country had not appointed a government to see Udaya Gammanpila's Rila Dancing.
-
-Mr. Chamira Perera was told at a private festival in Hatton, Hatton.
-
-Speaking further on this press conference, Mr. Chamira Perera said that the Passover has committed a political prosecutor, and on the time we saw it, the newly came out, Gammanpila drama.
-
-Gammanpila's Rila was not to see the Rila Dancing of Rila Dancing, Udaya Gammanpila politicians, he is doing not to do justice to victims, doing his vote fight.
-
-After the Passover attack, he was a Ven.
-
-Gammanpila is one of the torture play, including tortured and poingement, including tortured potential torture.
-
-Did Gammanpila sleep with a powerful minister to sow racial vocabulary and to power that Gotabhaya Rajapaksa was brought to power?
-
-Did Gotabhaya Rajapaksa inspected officers hearing them here?Then they could not speak.
-
-...
-
-[Data](articles/9ddb3102.json)
-
-[Extended Data](ext_articles/9ddb3102.ext.json)
-
----
-
-### A young man who came to the center of Palleketa to worship cricketers
-
-*2024-10-21 13:02:17* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-ක්‍රීඩකයන්ට-වැඳ-නමස්කාර-කිරිමට-පල්‍ලේකැලේදි-පිටිය-මැදට-ආපු-තරුණයා/9-412588) · `si`
-
-Young man arrested for worshiping cricketers at Pallekele cricket ground. Police investigation ongoing.
-
-🟩
-
-The Pallekele Police have arrested a person who broke out at the Pallekele International Cricket Ground at the Palleki International Cricket Ground at the Pallekele International Cricket Ground at the Pallekele International.
-
-The police were arrested when the Sri Lankan batsmen who had come to the play of the playground at the time of the rains to bat first.
-
-When the police questioned him, he had said that he entered the sports of the players to worship the batsmen.
-
-The 22-year-old youth is a resident of Katugastota.
-
-The suspect was due to be produced before the Teldeniya Magistrate's Court today (21) under the allegations of misuse and drunken adjustments.
-
-Further investigations are being investigated under the direction of Mr. Pallekele Police OIC Chief Inspector Krishantha.
-
-◼️
-
-[Data](articles/93e487e5.json)
-
-[Extended Data](ext_articles/93e487e5.ext.json)
-
----
-
-### Advisory issued for heavy rain, strong winds and rough seas
-
-*2024-10-21 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102829/advisory-issued-for-heavy-rain-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued an ‘Amber’ level advisory for heavy rain, strong winds and rough seas for multi-day boats in the East-Central Bay of Bengal deep sea areas.
-
-In its advisory, the department said a low-pressure area is likely to form over the East-Central Bay of Bengal and adjoining north Andaman Sea in the next 24 hours. Thereafter, it is very likely to move West-Northwestwards and intensify into a depression around 0000 UTC of 22nd October and into a cyclonic storm by 23rd October, 2024 over East-central Bay of Bengal.
-
-Temporarily very strong winds of 70-80 kmph accompanied with heavy rainfalls and very rough seas are likely over above sea areas, it added.
-
-Thus, naval and fishing communities are requested to be vigilant while engaging in fishing and naval activities in the above-sea areas.
-
-◼️
-
-[Data](articles/0a9ec94c.json)
-
-[Extended Data](ext_articles/0a9ec94c.ext.json)
-
----
-
-### Pedestrian trade in Hatton main street to Deepaval
-
-*2024-10-21 12:55:55* · [`adalk`](https://www.ada.lk/breaking_news/දීපවාලියට-හැටන්-ප්‍රධාන-වීදිය-ඇතුළු-වීදි-කිහිපයක-පදික-වෙළඳාම-තහනම්/11-412587) · `si`
-
-Here's a 200-character summary:
-
-
-
-Hatton Dickoya Urban Council bans pedestrian trade on main streets during Deepavali festival. Steps taken to ensure public safety.
-
-🟩
-
-The Hatton Dickoya Urban Council has taken steps to ban the paving a few other places in Hatton main two major places in Hatton.
-
-Hatton Dikoya Municipal Council Secretary to the inquiry. Disciple. P. Banda has said that the Desangali festival was held in the Desavaly's festival.
-
-In such cases, a large number of people will come to Hatton to the Hatton to the Hatton to Hatton to the Dipali festive season.
-
-He further said that steps will be taken to prohibit the parks and predemes for the safety of predams to the city.
-
-◼️
-
-[Data](articles/d8de31dc.json)
-
-[Extended Data](ext_articles/d8de31dc.ext.json)
-
----
-
-### Fire at Kudawella Fisheries Harbor
-
-*2024-10-21 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202398) · `si`
-
-Kudawella Fisheries Harbor fire damages three vessels. "Thushani" multi-day boat destroyed. Police investigating possible gas leak cause.
-
-🟩
-
-Three fishing vessels were damaged this morning of a fire that had been parked at Kudawella Fisheries Harbor today (21).
-
-A fire has erupted in "Thushani" multi-day fishing vessel, our correspondent said that the vessel was completely destroyed by fire.
-
-Another multi-day fishing vessel and small-scale vessel was damaged due to the fire.
-
-Police suspect that this fire may be a leak.
-
-◼️
-
-[Data](articles/62e142ad.json)
-
-[Extended Data](ext_articles/62e142ad.ext.json)
 
 ---

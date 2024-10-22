@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 22:39:24**
+As of **2024-10-22 22:57:46**
 
 ## Newspaper Stats
 
-*Scraped **50,789** Articles*
+*Scraped **50,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,458
 adalk | 4,718
 dailymirrorlk | 4,733
 adaderanalk | 6,019
-tamilmirrorlk | 6,979
+tamilmirrorlk | 6,980
 virakesarilk | 8,148
 adaderanasinhalalk | 8,815
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,789 (100.0%) of 50,789 articles have been extended.
+50,790 (100.0%) of 50,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### News to Sri Lankans in the United Arab Emirates
+
+*2024-10-22 22:22:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-அரபு-அமீரகத்தில்-உள்ள-இலங்கையர்களுக்கான-செய்தி/175-345887) · `ta`
+
+Sri Lankan Embassy Dubai: Amnesty ends Oct 31, 2024. Unregistered Sri Lankans must leave UAE by Oct 25. Obtain legal visa during amnesty period. Safe return to Sri Lanka encouraged.
+
+🟩
+
+The Sri Lankan Embassy in Dubai has announced that the amnesty period announced for Sri Lankans who have no valid visa or visa in the UAE will end on October 31, 2024.
+
+Therefore, it has been announced that Sri Lankans who do not have a valid visa or visa will come to Sri Lanka on the 25th of this month, as it requires some time to issue a certificate of exit certificate.
+
+During this public amnesty, the consulate has announced that it is determined to provide services to Sri Lankans who need assistance.
+
+Sri Lankans, who are staying without a valid visa in the United Arab Emirates, have been asked to obtain a legal visa using a public amnesty period.
+
+The conslator also requested that Sri Lankans who cannot do so use this opportunity safely return to Sri Lanka. Remble
+
+◼️
+
+[Data](articles/1f8b2e6f.json)
+
+[Extended Data](ext_articles/1f8b2e6f.ext.json)
+
+---
 
 ### Airborne Drugs
 
@@ -2497,27 +2523,5 @@ It is noteworthy that Ravi Seneviratne was demanding the removal of Ravi Senevir
 [Data](articles/9bb62969.json)
 
 [Extended Data](ext_articles/9bb62969.ext.json)
-
----
-
-### Showers at least 50 mm today.
-
-*2024-10-22 10:19:27* · [`adalk`](https://www.ada.lk/breaking_news/අද-දිනයේ-මි-මී-50ට-වැඩි-වැසි/11-412605) · `si`
-
-Heavy rainfall warning issued for Kandy, Nuwara Eliya, Western, Sabaragamuwa, Southern provinces. Thunderstorms expected with over 50mm of rain today. Some areas may receive more than 75mm.
-
-🟩
-
-The Department of Meteorology Announces Thunder of the Kandy and Nuwara Eliya districts of the Western, Sabaragamuwa, Southern provinces today (22).
-
-There will be more than Rs. 50 in some places in the North, Sabaragamuwa, Southern skin.
-
-In the evening or night, during the evening or night, during the evening, there are several places in the evening.. Heavy showers more than 75 times.
-
-◼️
-
-[Data](articles/0db20753.json)
-
-[Extended Data](ext_articles/0db20753.ext.json)
 
 ---

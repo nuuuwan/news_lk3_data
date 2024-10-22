@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 11:59:33**
+As of **2024-10-22 12:14:22**
 
 ## Newspaper Stats
 
-*Scraped **50,700** Articles*
+*Scraped **50,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,097
 dailyftlk | 3,458
 adalk | 4,710
 dailymirrorlk | 4,733
-adaderanalk | 6,004
-tamilmirrorlk | 6,955
+adaderanalk | 6,006
+tamilmirrorlk | 6,957
 virakesarilk | 8,134
 adaderanasinhalalk | 8,798
 
@@ -26,15 +26,59 @@ adaderanasinhalalk | 8,798
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,695 (100.0%) of 50,700 articles have been extended.
+50,704 (100.0%) of 50,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
 
+### At the Chogm conference, the authorities participate
+
+*2024-10-22 11:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CHOGM-மாநாட்டில்-அதிகாரிகளே-பங்குபற்றுகின்றனர்/175-345837) · `ta`
+
+Sri Lanka to attend CHOGM 2024 in Samoa Apia. Cabinet approves participation led by Foreign Affairs Minister Vijitha Herath. Team includes senior officials from Ministry of Foreign Affairs and Sri Lanka High Commission in London.
+
+🟩
+
+The Commonwealth Heads of Government Meeting (CHOGM) will be held under the 24th of October 2024 to the SAMOA APIA (SAMOA APIA).
+
+The Cabinet has approved the proposal submitted by External Affairs Minister Vijitha Herath to represent Sri Lanka by a team of senior officials of the Ministry of Foreign Affairs and the Sri Lanka High Commission in London.
+
+Cabinet Spokesperson Minister Vijitha Herath said this while attending a media briefing at the Government Information Department on Tuesday (22).
+
+◼️
+
+[Data](articles/2b44b42d.json)
+
+[Extended Data](ext_articles/2b44b42d.ext.json)
+
+---
+
+### Colombo Port’s ECT Project declares as a ‘special project’
+
+*2024-10-22 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102847/colombo-ports-ect-project-declares-as-a-special-project) · `en`
+
+The Cabinet of Ministers has granted approval to declare the Colombo Port’s Eastern Container Terminal (ECT) Project as a “special project.”
+
+This decision follows a proposal presented by the Minister of Transport, Highways, Ports and Civil Aviation, Vijitha Herath.
+
+Approval had been granted at the cabinet meeting held on 01-02-2021 to develop the Eastern Container Terminal of the Colombo South Development Project in stages by the Sri Lanka Ports Authority and to implement it as a container terminal with the full ownership of the Sri Lanka Ports Authority.
+
+The contract for civil work has already been awarded, and the construction is being proceeded, the Cabinet Spokesman Minister Vijitha Herath said while attending a press conference held today (22).
+
+Further, the procurement for the purchase of cranes has already been awarded.
+
+...
+
+[Data](articles/c6572c7d.json)
+
+[Extended Data](ext_articles/c6572c7d.ext.json)
+
+---
+
 ### The main resolutions that saved the Boston Globe Media of the United States
 
-*2024-10-22 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196838) · `ta`
+*2024-10-22 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/196838) · `ta`
 
 Here's a summary of the text in approximately 200 characters:
 
@@ -65,6 +109,52 @@ Boston Kom publishes common news and livestyle -related issues and the Boston Gl
 [Data](articles/5ee9438d.json)
 
 [Extended Data](ext_articles/5ee9438d.ext.json)
+
+---
+
+### 20 years in jail for the former president
+
+*2024-10-22 11:36:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-ஜனாதிபதிக்கு-20-ஆண்டு-சிறை/50-345836) · `ta`
+
+Peru's ex-president sentenced 20 years prison corruption bribery allegations
+
+🟩
+
+Former President of Peru has been sentenced to 20 years in prison after Peru's former president of Peru.
+
+Brazil has been sentenced to 20 years and 6 months in prison for alleged corruption.
+
+Investigations have revealed that he has bribed millions of dollars at the construction company.
+
+Officials have accused Dolido of bribing $ 35 million from Odebect a construction company for allowing the highway to be built in the South American country of Peru.
+
+From 2001 to 2006, Alejantro Tolido was the Chancellor of Peru.
+
+The US investigated the case. Accordingly, the United States started its investigation in Mexico, Guatemala and Ecuador. In addition, the authorities have accused four presidents of Peru, including Tolido, in the investigation.
+
+◼️
+
+[Data](articles/de00c3d5.json)
+
+[Extended Data](ext_articles/de00c3d5.ext.json)
+
+---
+
+### Govt rejects Easter attacks report released by Gammanpila, assures fresh probe
+
+*2024-10-22 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102846/govt-rejects-easter-attacks-report-released-by-gammanpila-assures-fresh-probe) · `en`
+
+The government does not accept the investigative committee report on the Easter Sunday bomb attacks, which was released by former MP Udaya Gammanpila yesterday (21), Cabinet Spokesman Minister Vijitha Herath said.
+
+However, he stated that the government will conduct a new investigation into the incidents.
+
+He revealed this stance while speaking during the Cabinet press briefing in Colombo today (22).
+
+◼️
+
+[Data](articles/f055aff0.json)
+
+[Extended Data](ext_articles/f055aff0.ext.json)
 
 ---
 
@@ -116,21 +206,27 @@ Q. No one will be appointed to a crime and commits legal action. Don't you think
 
 ---
 
-### மீகலேவ பிரதேச வைத்தியசாலையில் மரக்கறிச் செய்கை !
+### Vegetables at Meegalewa Divisional Hospital
 
 *2024-10-22 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/196826) · `ta`
 
-குருணாகல் மாவட்டத்தின் வடமேற்கு மாகாணத்தில் அநுராதபுர மாவட்டத்திற்கும் குருணாகல் மாவட்டத்திற்கும் இடையிலான எல்லையில் அமைந்துள்ள மீகலேவ பிரதேச வைத்தியசாலையில் நோயாளர்களின் மனநலத்தை பேணும் வகையில் மரக்கறிச் செய்கை முன்னெடுக்கப்படுகின்றது.
+Meegalewa Divisional Hospital promotes mental health through gardening. Patients grow vegetables like potatoes, tomatoes, and bananas during free time. Doctors and staff supervise under Medical Officer Mahinda Eyyangoda.
 
-மீகலேவ பிரதேச வைத்தியசாலைக்கு பொறுப்பான வைத்திய அதிகாரி மஹிந்த உயங்கொட அவர்களின் பணிப்புரையின் கீழ் வைத்தியர் திலினி அபேவர்தன, வைத்திய சமிகா விக்கிரமசிங்க மற்றும் ஏனைய வைத்தியர்கள், தாதியர்கள் மற்றும் வைத்தியசாலையின் ஏனைய ஊழியர்களின் உதவியுடன் இந்த மரக்கறிச் செய்கை மேற்கொள்ளப்பட்டு வருகின்றது.
+🟩
 
-இந்த நிலத்தில் ஏராளமான உருளைக்கிழங்கு, தக்காளி, முள்ளங்கி, கிழங்கு, வெண்டை, வாழை, மிளகாய், சோளம் போன்றவை பயிரிடப்பட்டுள்ளன.
+In the North Western Province of Kurunegala District, the Migaleva Divisional Hospital, located on the border between the Anuradhapura district and the Kurunegala district, is being carried out to maintain the mental health of the patients.
 
-வைத்தியசாலையில் பணிபுரியும் அனைத்து ஊழியர்களும் தங்களுக்கு கிடைக்கும் ஒவ்வொரு ஓய்வு நேரத்திலும் இந்த மரக்கறிச் செய்கையை மேற்கொண்டு வருகின்றனர்.
+Under the direction of the Medical Officer in charge of the Meegalewa Divisional Hospital, Mahinda Eyyangoda, the woodworker is being carried out with the help of Dr. Thilini Abeywardena, Dr. Samika Wickremesinghe and other doctors, nurses and other staff of the hospital.
+
+The land has a large number of potatoes, tomatoes, radish, tuber, beetle, banana, chilli and corn.
+
+All employees working in the hospital are carrying out this vegetable performing at their leisure time.
 
 ◼️
 
 [Data](articles/5f0db50d.json)
+
+[Extended Data](ext_articles/5f0db50d.ext.json)
 
 ---
 
@@ -215,6 +311,8 @@ Sri Lanka’s current leaders are also skipping the BRICS summit in Russia, inst
 ...
 
 [Data](articles/ef34525e.json)
+
+[Extended Data](ext_articles/ef34525e.ext.json)
 
 ---
 
@@ -433,6 +531,8 @@ In equities, Colombo’s All Share Price Index opened down 0.07 percent, or 9.12
 ◼️
 
 [Data](articles/c3ce6435.json)
+
+[Extended Data](ext_articles/c3ce6435.ext.json)
 
 ---
 
@@ -660,6 +760,8 @@ When a BOP surplus (every day or every week) is generated by the central bank it
 
 [Data](articles/dbba89bd.json)
 
+[Extended Data](ext_articles/dbba89bd.ext.json)
+
 ---
 
 ### 3,000 complaints on Bribery Commission in the first nine months of this year
@@ -692,7 +794,7 @@ There are 237 cases in bribery or corruption charges and 19 accused have become 
 
 ---
 
-### IMF encouraged by Sri Lanka authorities to safeguard gains under IMF program: MD
+### IMF encouraged by Sri Lanka commitment to safeguard gains under program
 
 *2024-10-22 08:15:00* · [`economynextcom`](https://economynext.com/imf-encouraged-by-sri-lanka-authorities-to-safeguard-gains-under-imf-program-md-184373/) · `en`
 
@@ -705,6 +807,8 @@ ECONOMYNEXT – The International Monetary Fund was encouraged by Sri Lanka’s 
 ◼️
 
 [Data](articles/92a9a11c.json)
+
+[Extended Data](ext_articles/92a9a11c.ext.json)
 
 ---
 
@@ -2279,93 +2383,5 @@ Accordingly, speaking at a press conference today after the said deadline had en
 [Data](articles/534fba78.json)
 
 [Extended Data](ext_articles/534fba78.ext.json)
-
----
-
-### Gammanpila makes shocking claims regarding ungreased Easter attack reports
-
-*2024-10-21 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102835/gammanpila-makes-shocking-claims-regarding-ungreased-easter-attack-reports-) · `en`
-
-Pivithuru Hela Urumaya (PHU) leader and former MP Udaya Gammanpila says that former Senior DIG Ravi Seneviratne, who has been named as a main accused in an investigative committee reports on the Easter Sunday attacks, should be immediately removed from the post of Secretary to the Ministry of Public Security.
-
-He made these comments at a press conference held in Colombo this morning (21), for the alleged publicizing of two previously unreleased reports regarding the Easter Sunday terror attacks.
-
-Gammanpila had yesterday stated that he would give President Anura Kumara Dissanayake time until 10.00 a.m. this morning (21) to make public the two investigative reports in question and vowed to release them himself if the President fails to do so.
-
-Accordingly, speaking at a press conference today after the said deadline had ended, he emphasized that one of the two reports will be publicized today whereas the remaining report will be released to the public next Monday.
-
-...
-
-[Data](articles/c0362220.json)
-
-[Extended Data](ext_articles/c0362220.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 293.15/20 to dollar, bond yields up
-
-*2024-10-21 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-293-15-20-to-dollar-bond-yields-up-184321/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed flat at 293.15/20 to the US dollar Monday from 293.00/20 a day earlier, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 10.50/75 percent, up from 10.55/70 percent.
-
-A bond maturing on 15.12.2027 closed at 11.30/50 percent, up from 11.25/45 percent.
-
-A bond maturing on 15.09.2029 closed stable at 11.90/12.05 percent. (Colombo/Oct21/2024)
-
-◼️
-
-[Data](articles/17ca8014.json)
-
-[Extended Data](ext_articles/17ca8014.ext.json)
-
----
-
-### Seneviratne, Sani Recovery Ravi Seneviratne
-
-*2024-10-21 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196800) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President accused of violating constitutional rights and information. Calls for removal of Ravi Seneviratne, alleged bomber incident culprit, from public safety ministry position. Criticism of appointment process and lack of transparency in investigations.
-
-🟩
-
-The president has deliberately violated the rights and information of the people.The crime can be brought against the president who violates the 38th arrangements of the Constitution. Former Parliamentarian Udaya Kammanpila said that Ravi Seneviratne, the main culprit of the bombing incident, should be immediately removed from the post of Secretary to the Ministry of Public Defense.
-
-During a media briefing held at the Pivithuru Hela Urumaya (JHU) office in Pettah, he made the above mentioned the main content of the report.
-
-In order to manage the country in the best way, the President must appoint the best and the wise to the top positions. The president presented appointments to three high positions after taking office. Those who have appointed two positions are not eligible for the post.
-
-...
-
-[Data](articles/3e01f25b.json)
-
-[Extended Data](ext_articles/3e01f25b.ext.json)
-
----
-
-### Another leap from Damitha
-
-*2024-10-21 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202408) · `si`
-
-Damitha Abeyratne joins Democratic National Alliance. He quits all political positions. Decision made after careful consideration.
-
-🟩
-
-Veteran Performance Mr. Damitha Abeyratne has decided to join the Democratic National Alliance.
-
-Addressing a special media briefing held today (21), she said that the decision was taken after several rounds.
-
-She added that he would quit all the posts of the people's post and everyone who helped everyone thanked.
-
-◼️
-
-[Data](articles/f34e3616.json)
-
-[Extended Data](ext_articles/f34e3616.ext.json)
 
 ---

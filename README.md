@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 10:39:28**
+As of **2024-10-22 10:58:16**
 
 ## Newspaper Stats
 
-*Scraped **50,679** Articles*
+*Scraped **50,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,114 @@ economynextcom | 3,093
 dailyftlk | 3,458
 adalk | 4,708
 dailymirrorlk | 4,733
-adaderanalk | 6,002
-tamilmirrorlk | 6,951
-virakesarilk | 8,127
-adaderanasinhalalk | 8,796
+adaderanalk | 6,003
+tamilmirrorlk | 6,953
+virakesarilk | 8,129
+adaderanasinhalalk | 8,797
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,679 (100.0%) of 50,679 articles have been extended.
+50,685 (100.0%) of 50,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### What is the position of the Church on the report?
+
+*2024-10-22 10:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறிக்கை-விவகாரத்தில்-திருச்சபையின்-நிலைப்பாடு-என்ன/175-345832) · `ta`
+
+Catholic Church rejects allegations against officials in Easter Sunday attack report. Cardinal Ranjith denies claims, vows investigation into bombing perpetrators and security lapses.
+
+🟩
+
+The Catholic Church will officially reject the allegations leveled against two state officials in the Presidential Commission's report on the Easter Sunday attack released by former minister Udaya Kammanpila.
+
+The Church is expected to officially reject Mr. Kammanpila's expressions and the allegations leveled against Cardinal Ranjith today.
+
+"We will present the official statement today and reveal our position on the allegations leveled by Mr. Kammanpila against Cardinal Ranjith.". Cyril Gamini Fernando told the Daily Mirror.
+
+However, during a sermon on Sunday, Cardinal Malcolm Ranjith rejected the allegations leveled against two state officials.
+
+“A committee was appointed to investigate the report submitted by the Presidential Commission. The group pulled up two officials of the current government. This has been done to distort the facts.
+
+...
+
+[Data](articles/9e5d67e6.json)
+
+[Extended Data](ext_articles/9e5d67e6.ext.json)
+
+---
+
+### Two gunmen arrested in connection with Matara shooting
+
+*2024-10-22 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102844/two-gunmen-arrested-in-connection-with-matara-shooting) · `en`
+
+The Police Special Task Force (STF) has apprehended the two gunmen involved in the shooting and killing of a person in the Kekanadura area of Matara.
+
+On October 15, a person who was travelling in a three-wheeler was shot dead by an individual who had arrived in a car and fled the scene.
+
+It was also reported that the shooting victim had been operating as a “vehicle seizer”.
+
+◼️
+
+[Data](articles/b55f5191.json)
+
+[Extended Data](ext_articles/b55f5191.ext.json)
+
+---
+
+### Mass rewards of the Colombo Port
+
+*2024-10-22 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202423) · `si`
+
+Colombo Port: Eastern Container Terminal named specialized project. Cabinet approves full ownership container status. Contract awarded for civilian work. Tax concessions for private operators under Strategic Development Act and BOI Law.
+
+🟩
+
+Cabinet approval has been paid to name the Eastern Container Terminal project as a "specialized project".
+
+The decision has been taken according to a proposal by the Minister of Transport, Highways, Ports and Civil Aviation.
+
+The Sri Lanka Ports Authority has granted approval at the Cabinet Meeting held at the Eastern Container Terminal of the Colombo South Port Project as a full ownership container in 2021-02.
+
+Accordingly, the contract for the relevant civilian work has been awarded and joining the Cabinet at the press conference today, Minister Vijitha Herath said.
+
+Also, the procurement of the temples required for the Container Terminal has also been given.
+
+Accordingly, private terminal operators and service providers at the Colombo port are various tax concessions under the Strategic Development Act and BOI Law.
+
+◼️
+
+[Data](articles/d928897e.json)
+
+[Extended Data](ext_articles/d928897e.ext.json)
+
+---
+
+### Will Ravi Seneviratne be sacked?
+
+*2024-10-22 10:25:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவி-செனவிரத்ன-பதவி-நீக்கப்படுவாரா/175-345831) · `ta`
+
+Ravi Seneviratne sack rumors amid Easter attack allegations. National People's Power government silent so far. Cabinet meeting today may reveal decision. Media pressure mounts for his dismissal.
+
+🟩
+
+Although there were serious allegations against a top official, the National People's Power (NPP) -led government did not respond yesterday.
+
+However, as the media is eager to find out the government's response to the demand for the sacking of Public Security Ministry secretary Ravi Seneviratne, who allegedly neglected the Easter during the Sunday attack, the Cabinet spokesman for today's Cabinet meeting is expected to receive a response from Minister Vijitha Herath.
+
+It is noteworthy that Ravi Seneviratne was demanding the removal of Ravi Seneviratne at a media briefing held yesterday.
+
+◼️
+
+[Data](articles/9bb62969.json)
+
+[Extended Data](ext_articles/9bb62969.ext.json)
+
+---
 
 ### Re -headed scholarship examination
 
@@ -53,6 +147,30 @@ Petitioners have said that the students who appeared for the exam have been unju
 [Data](articles/ad8ed499.json)
 
 [Extended Data](ext_articles/ad8ed499.ext.json)
+
+---
+
+### Water supply at low pressure in many parts of Gampaha
+
+*2024-10-22 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196824) · `ta`
+
+Gampaha: Low-pressure water supply until 12pm Tuesday due to pipe failure affecting Wattala, Mabola, Ja-Ela, Katunayake-Seeduwa, Wattala, Piyagama, Mahara, Ja-Ela, Kandana, Minuwangoda areas.
+
+🟩
+
+The National Water Supply and Drainage Board said that the water supply will be supplied at low pressure till 12 noon on Tuesday (22).
+
+Accordingly, water will be distributed to the areas under the Wattala, Mabola, Ja-Ela and Katunayake-Seeduwa Urban Council and the areas under the Local Government Council of Wattala, Piyagama, Mahara, Ja-Ela, Kandana and Minuwangoda Local Government Council.
+
+Due to the sudden failure of the water supply pipe, the water is supplied at low pressure.
+
+Meanwhile, the National Water Supply and Drainage Board said that water supply has been blocked to various areas.
+
+◼️
+
+[Data](articles/a2b9b9f1.json)
+
+[Extended Data](ext_articles/a2b9b9f1.ext.json)
 
 ---
 
@@ -79,6 +197,32 @@ The commission further said that 237 cases related to bribery and corruption are
 [Data](articles/39f2333b.json)
 
 [Extended Data](ext_articles/39f2333b.ext.json)
+
+---
+
+### Four people, including a helicopter collision on a radio tower in the United States
+
+*2024-10-22 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196823) · `ta`
+
+Helicopter collision kills 4, including child, near Houston radio tower. Incident occurred Sunday. Mayor confirms 4 fatalities. Residents safe. Crash happened during Elinkon helicopter departure from airport. Video footage spreading online.
+
+🟩
+
+Four people, including a child, were killed in a helicopter collision on the radio tower in the United States.
+
+The incident took place on Sunday in Houston, the largest city in the US state of Texas.
+
+Houston Mayor John Whitmire has confirmed that 4 people, including a child, were killed in the crash.
+
+Tonight It's a sad event. This is a sad death toll. However the residents are safe. The helicopter, who was involved in the crash, said that Elinkon had departed from the airport.
+
+The helicopter clash on the radio tower is going viral on video websites.
+
+◼️
+
+[Data](articles/8c08f6d9.json)
+
+[Extended Data](ext_articles/8c08f6d9.ext.json)
 
 ---
 
@@ -2267,161 +2411,5 @@ Carrying pigs without proper health certificate is strictly prohibited. This wil
 [Data](articles/bc5397e8.json)
 
 [Extended Data](ext_articles/bc5397e8.ext.json)
-
----
-
-### Five women who committed adultery are fined Rs. 500
-
-*2024-10-21 16:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விபசாரம்-செய்த-ஐந்து-பெண்களுக்கு-ரூ-500-அபராதம்/76-345785) · `ta`
-
-Women fined Rs. 500 for adultery in Nuwara Eliya court. Five women aged 40-50 arrested for operating massage center. Manager and owner also charged.
-
-🟩
-
-Nuwara Eliya Magistrate Prabhupika Lanka on Monday (21) imposed a fine of Rs.
-
-The manager of the massage station, the owner of the building, who was conducting a business for sale for money for money, and five women pleaded guilty at the Nuwara Eliya Magistrate's Court in Nuwara Eliya.
-
-The magistrate ordered the manager to pay Rs.
-
-Based on information received by the Nuwara Eliya police that women were selling money under the guise of a massage center in Nuwara Eliya, the manager, owner and five women were arrested on the 8th and produced at the Nuwara Eliya Magistrate's Court on Monday (21).
-
-Investigations have been found that five women who were arrested on suspicion were between the ages of 40-50 and that they were from Polonnaruwa and Kurunegala.
-
-◼️
-
-[Data](articles/d8602d17.json)
-
-[Extended Data](ext_articles/d8602d17.ext.json)
-
----
-
-### King Charles heckled by Indigenous lawmaker at Australian parliament
-
-*2024-10-21 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102833/king-charles-heckled-by-indigenous-lawmaker-at-australian-parliament) · `en`
-
-King Charles was accused of “genocide” by an Indigenous senator at Australia’s Parliament House on Monday, moments after he delivered a speech in which he paid his “respects to the traditional owners of the lands”.
-
-Charles, on his 16th official visit to Australia and his first major foreign trip since being diagnosed with cancer, had finished speaking when independent senator and Indigenous activist Lidia Thorpe shouted that she did not accept Charles’ sovereignty over Australia.
-
-“You committed genocide against our people,” she said. “Give us our land back. Give us what you stole from us - our bones, our skulls, our babies, our people. You destroyed our land. Give us a treaty. We want treaty.”
-
-Thorpe, who has disrupted previous events protesting over the colonisation of Australia, was stopped from approaching the king, who spoke quietly to Prime Minister Anthony Albanese on the podium but was otherwise unfazed. Thorpe was then escorted out of the chamber.
-
-...
-
-[Data](articles/a27b3b24.json)
-
-[Extended Data](ext_articles/a27b3b24.ext.json)
-
----
-
-### Sri Lanka stocks close on mixed sentiments
-
-*2024-10-21 16:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-on-mixed-sentiments-184309/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed on mixed sentiments on Monday, with the All Share Index down and the S&P SL20 up.
-
-The broader ASPI closed down 0.03 percent, or 3.77 points, at 12,309; while the more liquid S&P SL20 Index closed up 0.05 percent, or 1.81 points, at 3,624.
-
-Top positive contributors were Sampath Bank (up at 82.50), Cargills Ceylon (up at 395.25), Dialog Axiata (up at 11.20), ACL Cbales (up at 92.00) and Hemas Holdings (up at 80.50).
-
-Negative contributors included Hayleys (down at 101.50), Central Finance Company (down at 119.00), Royal Ceramics (down at 33.20), Aitken Spence (down at 120.50), and Lanka IOC (down at 115.00).
-
-Lanka IOC, a unit of Indian Oil Corporation has reported profits of 2,525 million rupees in the September 2024 quarter down 50 percent from a year earlier, with cost of sales growing faster than sales, interim accounts showed.
-
-There was a net foreign outflow of 109 million rupees. (Colombo/Oct21/2024)
-
-◼️
-
-[Data](articles/44ab342e.json)
-
-[Extended Data](ext_articles/44ab342e.ext.json)
-
----
-
-### Petition to court demanding a ruling that the election is contrary to the constitution
-
-*2024-10-21 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202406) · `si`
-
-Sri Lanka Supreme Court petition challenges election timing constitutionality. Petitioner argues nomination deadline violates laws. Requests court intervention to ensure democratic process integrity.
-
-🟩
-
-The decision to be held on November 14rd, a petition has been filed in the Supreme Court to hold a decision that is contrary to the Constitution.
-
-Convener of the Sri Lanka National Organization of the Sri Lanka National Organization as well as a civil organization activist. M. Priyantha Herath has presented the petition.
-
-The Attorney General and the Presidential Secretary and the Attorney General of the Elections Commission have been named as the respondents.
-
-The petitioner claims that the calling for nomination of the Parliamentary Election Act to the 4th of October to October 11.
-
-The petition points out that the date of nomination should be paid for five weeks and not more than five weeks and not more than five weeks since the end of the election.
-
-The five-week period will be completed on November 11 since the end of the nomination scheme.
-
-...
-
-[Data](articles/eee57e90.json)
-
-[Extended Data](ext_articles/eee57e90.ext.json)
-
----
-
-### 12 school transport buses, removal from vans service
-
-*2024-10-21 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196788) · `ta`
-
-School transport crisis: 12 buses/vans removed due to safety concerns. Parents arrested after complaints. Private vehicles now handle transportation in affected areas.
-
-🟩
-
-12 buses and vans used to transport school children in Nuwara Eliya district have been removed from service this morning.
-
-Nuwara Eliya District Chief Vehicle Inspector Taminda Dissanayake has taken this action.
-
-Hatton Police Department officials have issued a directive to the Nuwara Eliya District Chief Motor Veteran Examiner to find out that there are 30 private buses and vans to check on the daily school transport service from Maskeliya, Samimalai, Bogawantalawa, Nordon Bridge, Talawakelle and Kotagala.
-
-Accordingly, when the vehicles carrying school children in these areas have been severely inspected for the past 14 days, 12 vehicles have been found.
-
-In this case, the vehicles have been removed from the service and their vehicle income permits have been seized.
-
-Parents of students who traveled to school in these vehicles have been taken into custody after lodging a complaint with the police.
-
-◼️
-
-[Data](articles/ac0a06dc.json)
-
-[Extended Data](ext_articles/ac0a06dc.ext.json)
-
----
-
-### 'You are not my king "
-
-*2024-10-21 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/196792) · `ta`
-
-Australian Senator rejects British monarchy, calls Charles "not my king" during his visit. Security removes Indigenous representative Lydia Thorpe after she protests against royal treatment. Debate over Australia's future as republic intensifies.
-
-🟩
-
-An Australian Senator has shouted that you are not my monarch for British King Charlsin who has visited Australia.
-
-Today, the second day of Australia's visit to the Australian Parliament, Charles has said that you are not my king.
-
-Lydia Thorbe, who represents the natives of Australia, is shouting.. He has been evicted by security staff.
-
-The Senator, who shouted that Britain has subjected to Australia's natives, said, "You are not our king."
-
-After this, Senator King Charles, who later commented to the BBC, said he wanted to make a clear message.
-
-If you want to be sovereignty, you must be this land, and we are not prepared to bow down to the royalists about the peace treaty with the natives of Australia.
-
-Charles is the head of the Commonwealth, Australia, but debates on the Republic have intensified in Australia.
-
-◼️
-
-[Data](articles/7054a466.json)
-
-[Extended Data](ext_articles/7054a466.ext.json)
 
 ---

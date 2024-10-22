@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 22:57:46**
+As of **2024-10-22 23:10:13**
 
 ## Newspaper Stats
 
-*Scraped **50,790** Articles*
+*Scraped **50,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 513
 islandlk | 3,021
 economynextcom | 3,104
 dailyftlk | 3,458
-adalk | 4,718
+adalk | 4,720
 dailymirrorlk | 4,733
 adaderanalk | 6,019
 tamilmirrorlk | 6,980
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,790 (100.0%) of 50,790 articles have been extended.
+50,792 (100.0%) of 50,792 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -186,6 +186,34 @@ By providing information through climate services and upgrading existing systems
 
 ---
 
+### China as an emergency flood subsidy. Rs. 30
+
+*2024-10-22 21:31:46* · [`adalk`](https://www.ada.lk/breaking_news/හදිසි-ගංවතුර-සහනාධාර-ලෙස--චීනයෙන්-රු--මි--30ක්/11-412617) · `si`
+
+China provides Rs. 30 million emergency flood aid to Sri Lanka. President Anura Kumara Dissanayake receives funds from Chinese Ambassador Cha Zhenhonga at Presidential Secretariat. Discussion focuses on immediate relief strategies and future sustainable solutions for flood prevention and management. Heavy rains cause displacement in several areas, affecting thousands of families.
+
+🟩
+
+The Government of China has donated Rs.
+
+President Anura Kumara Dissanayake met at the Presidential Secretariat this afternoon
+
+Chinese ambassador to Sri Lanka Cha. Zhenhonga handed over the money to the President.
+
+The meeting was discussed at the meeting of the prolonged strategies to provide immediate relief to the victims and the prevention of floods and management.
+
+The focus was also focused on sustainable solutions and methods that can be followed in the future.
+
+There was a significant level of floods in several areas due to heavy rains. Reports have been displaced, while thousands of families have been displaced.
+
+◼️
+
+[Data](articles/77834bdd.json)
+
+[Extended Data](ext_articles/77834bdd.ext.json)
+
+---
+
 ### The need for a new political force emerged - Dilith
 
 *2024-10-22 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202439) · `si`
@@ -291,6 +319,32 @@ The Consulate General further stated it remains committed to assisting the Sri L
 [Data](articles/6de14a41.json)
 
 [Extended Data](ext_articles/6de14a41.ext.json)
+
+---
+
+### Giant shark of 3000 kilos with the net
+
+*2024-10-22 20:05:47* · [`adalk`](https://www.ada.lk/breaking_news/දැලේ-පැටලුණ-කිලෝ-3000ක-යෝධ-මෝරා/11-412616) · `si`
+
+Here's a 200-character summary:
+
+
+
+Massive 3,000kg shark caught off coast. Fishermen struggle to move it. Police, Navy, Coast Guard assist. Spectacle draws crowds.
+
+🟩
+
+A giant shark weighing about 3,000 kilograms has been caught at the Sea Ampara, Ampara.
+
+Fisheries were unable to carry the giant shark to the deep sea, which was unable to bring fish in the net.
+
+At the same time, the police, the Navy, the Coast Guard were also spectacle at a deep sea.
+
+◼️
+
+[Data](articles/5ab921a3.json)
+
+[Extended Data](ext_articles/5ab921a3.ext.json)
 
 ---
 
@@ -2473,55 +2527,5 @@ It was also reported that the shooting victim had been operating as a “vehicle
 [Data](articles/b55f5191.json)
 
 [Extended Data](ext_articles/b55f5191.ext.json)
-
----
-
-### Mass rewards of the Colombo Port
-
-*2024-10-22 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202423) · `si`
-
-Colombo Port: Eastern Container Terminal named specialized project. Cabinet approves full ownership container status. Contract awarded for civilian work. Tax concessions for private operators under Strategic Development Act and BOI Law.
-
-🟩
-
-Cabinet approval has been paid to name the Eastern Container Terminal project as a "specialized project".
-
-The decision has been taken according to a proposal by the Minister of Transport, Highways, Ports and Civil Aviation.
-
-The Sri Lanka Ports Authority has granted approval at the Cabinet Meeting held at the Eastern Container Terminal of the Colombo South Port Project as a full ownership container in 2021-02.
-
-Accordingly, the contract for the relevant civilian work has been awarded and joining the Cabinet at the press conference today, Minister Vijitha Herath said.
-
-Also, the procurement of the temples required for the Container Terminal has also been given.
-
-Accordingly, private terminal operators and service providers at the Colombo port are various tax concessions under the Strategic Development Act and BOI Law.
-
-◼️
-
-[Data](articles/d928897e.json)
-
-[Extended Data](ext_articles/d928897e.ext.json)
-
----
-
-### Will Ravi Seneviratne be sacked?
-
-*2024-10-22 10:25:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவி-செனவிரத்ன-பதவி-நீக்கப்படுவாரா/175-345831) · `ta`
-
-Ravi Seneviratne sack rumors amid Easter attack allegations. National People's Power government silent so far. Cabinet meeting today may reveal decision. Media pressure mounts for his dismissal.
-
-🟩
-
-Although there were serious allegations against a top official, the National People's Power (NPP) -led government did not respond yesterday.
-
-However, as the media is eager to find out the government's response to the demand for the sacking of Public Security Ministry secretary Ravi Seneviratne, who allegedly neglected the Easter during the Sunday attack, the Cabinet spokesman for today's Cabinet meeting is expected to receive a response from Minister Vijitha Herath.
-
-It is noteworthy that Ravi Seneviratne was demanding the removal of Ravi Seneviratne at a media briefing held yesterday.
-
-◼️
-
-[Data](articles/9bb62969.json)
-
-[Extended Data](ext_articles/9bb62969.ext.json)
 
 ---

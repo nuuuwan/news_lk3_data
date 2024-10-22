@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 00:24:52**
+As of **2024-10-23 00:39:40**
 
 ## Newspaper Stats
 
-*Scraped **50,793** Articles*
+*Scraped **50,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 409
 colombotelegraphcom | 509
 bbccomsinhala | 513
 islandlk | 3,021
-economynextcom | 3,104
+economynextcom | 3,106
 dailyftlk | 3,458
 adalk | 4,720
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,793 (100.0%) of 50,793 articles have been extended.
+50,795 (100.0%) of 50,795 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -319,6 +319,26 @@ Police said that the causes of a dispute with a group of people in a neighboring
 [Data](articles/5443072c.json)
 
 [Extended Data](ext_articles/5443072c.ext.json)
+
+---
+
+### China donates Rs.30mn for Sri Lanka’s emergency flood relief
+
+*2024-10-22 20:17:00* · [`economynextcom`](https://economynext.com/china-donates-rs-30mn-for-sri-lankas-emergency-flood-relief-184458/) · `en`
+
+ECONOMYNEXT – Chinese Ambassador to Sri Lank, Qi Zhenhong handed over 30 million rupee donation to President Anura Kumara Dissanayake for the island nation’s emergency relief from the recent floods, the President’s Media Division (PMD) said in a statement.
+
+At least three people have been killed in the recent heavy rains which has resulted floods in the capital Colombo and other regions of the island nation. The heavy rains have flooded homes, fields and roads, and affected 158,000 people in at least 12 districts, the government has said.
+
+“During their meeting, Ambassador Qi made a donation of LKR 30 million (USD 100,000) as emergency flood relief to assist those affected by the recent flooding in the country,” the PMD said in a statement.
+
+“In addition to immediate relief measures, the discussion also extended to a dialogue about long-term flood prevention and management strategies. They discussed sustainable approaches to enhance the resilience of communities against future flooding.”
+
+...
+
+[Data](articles/6ed8af0e.json)
+
+[Extended Data](ext_articles/6ed8af0e.ext.json)
 
 ---
 
@@ -853,6 +873,26 @@ The Special Quality Officer of the Sri Lanka Accountant Service, who is currentl
 [Data](articles/903934f6.json)
 
 [Extended Data](ext_articles/903934f6.ext.json)
+
+---
+
+### Sri Lanka to get $30mn from ADB for Moragolla hydro power plant
+
+*2024-10-22 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-30mn-from-adb-for-moragolla-hydro-power-plant-184456/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved borrowing 30 million dollars to complete a hydro power project in Moragolla and do ancillary post construction work, Minister Vijitha Herath said.
+
+The ADB has agreed to provide the money from its Ordinary Capital Resources facility.
+
+The cabinet has approved the proposal submitted the proposal by President Anura Dissanayake.
+
+The money will be borrowed by state-run Ceylon Electricity Board in two instalments.
+
+◼️
+
+[Data](articles/e0db5ea2.json)
+
+[Extended Data](ext_articles/e0db5ea2.ext.json)
 
 ---
 
@@ -2477,57 +2517,5 @@ Archbishoya Maligama Kadinal Ranjith, near the presidential election, has been c
 [Data](articles/c809efd6.json)
 
 [Extended Data](ext_articles/c809efd6.ext.json)
-
----
-
-### Death of Lohan's Secretary;Trial
-
-*2024-10-22 10:38:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-செயலாளர்-மரணம்-CID-யிடம்-சென்ற-விசாரணை/175-345833) · `ta`
-
-Former Secretary of State Lohan Ratwatta's personal secretary found dead at party office. Suicide suspected, case handed to Criminal Investigation Department due to public interest.
-
-🟩
-
-Investigations into the death of former Secretary of State Lohan Ratwatta have been handed over to the Criminal Investigation Department.
-
-At the party's office of former Minister of State in Katugastota, Kandy, his personal secretary BMAS. Basnayake (50 years old) was recovered.
-
-In it, he said, “He has been treated for months due to pain but has not healed. I was treated with many doctors. But not worthless. My depression severely affects me, so I can no longer bear this pain.
-
-So I decided to leave my life. I would love to end my funeral soon, ”the letter said.
-
-According to preliminary inquiries, it has been confirmed that it is suicide, but since it is a heavily spoken incident in the community, further investigations have been handed over to the Criminal Investigation Department, a senior police official said that it was handed over to the Criminal Investigation Department.. Remble
-
-◼️
-
-[Data](articles/0cc51270.json)
-
-[Extended Data](ext_articles/0cc51270.ext.json)
-
----
-
-### What is the position of the Church on the report?
-
-*2024-10-22 10:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறிக்கை-விவகாரத்தில்-திருச்சபையின்-நிலைப்பாடு-என்ன/175-345832) · `ta`
-
-Catholic Church rejects allegations against officials in Easter Sunday attack report. Cardinal Ranjith denies claims, vows investigation into bombing perpetrators and security lapses.
-
-🟩
-
-The Catholic Church will officially reject the allegations leveled against two state officials in the Presidential Commission's report on the Easter Sunday attack released by former minister Udaya Kammanpila.
-
-The Church is expected to officially reject Mr. Kammanpila's expressions and the allegations leveled against Cardinal Ranjith today.
-
-"We will present the official statement today and reveal our position on the allegations leveled by Mr. Kammanpila against Cardinal Ranjith.". Cyril Gamini Fernando told the Daily Mirror.
-
-However, during a sermon on Sunday, Cardinal Malcolm Ranjith rejected the allegations leveled against two state officials.
-
-“A committee was appointed to investigate the report submitted by the Presidential Commission. The group pulled up two officials of the current government. This has been done to distort the facts.
-
-...
-
-[Data](articles/9e5d67e6.json)
-
-[Extended Data](ext_articles/9e5d67e6.ext.json)
 
 ---

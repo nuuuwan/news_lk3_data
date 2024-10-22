@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 20:23:49**
+As of **2024-10-22 20:39:39**
 
 ## Newspaper Stats
 
-*Scraped **50,779** Articles*
+*Scraped **50,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,104
 dailyftlk | 3,458
 adalk | 4,717
 dailymirrorlk | 4,733
-adaderanalk | 6,017
+adaderanalk | 6,018
 tamilmirrorlk | 6,978
 virakesarilk | 8,146
 adaderanasinhalalk | 8,811
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,779 (100.0%) of 50,779 articles have been extended.
+50,780 (100.0%) of 50,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Announcement on assistance for Sri Lankans during UAE visa amnesty
+
+*2024-10-22 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102859/announcement-on-assistance-for-sri-lankans-during-uae-visa-amnesty-) · `en`
+
+The Consulate General of Sri Lanka to Dubai and Northern Emirates says it has been actively supporting the Sri Lankan community in the UAE during the ongoing UAE amnesty programme - 2024, which commenced on 01 September and will continue until 31 October 2024.
+
+The programme provides an opportunity for individuals to regularize their visa status or return to Sri Lanka without facing penalties.
+
+The Consulate General urges all Sri Lankans without a valid passport/lost passport to apply for a Temporary Travel Document (TTD) on or before 25 October 2024, allocating sufficient time to process the request to obtain United Arab Emirates (UAE) outpass and return to Sri Lanka.
+
+The Consulate General further stated it remains committed to assisting the Sri Lankan community during this amnesty period and encourages all eligible individuals to make use of the available services to regularize their visa status or return home safely.
+
+...
+
+[Data](articles/6de14a41.json)
+
+[Extended Data](ext_articles/6de14a41.ext.json)
+
+---
 
 ### The drug trapped at the airport
 
@@ -2457,33 +2477,5 @@ Gamini Senarath Yapa explained that all candidates preparing to work in Israel�
 [Data](articles/8265a0b5.json)
 
 [Extended Data](ext_articles/8265a0b5.ext.json)
-
----
-
-### Threatening the security of the railway sector
-
-*2024-10-22 08:45:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்வே-துறையின்-பாதுகாப்புக்கு-அச்சுறுத்தல்/175-345824) · `ta`
-
-Railway sector faces security threats due to retiring staff shortage. Over 500 security officers set to retire next year, leaving fewer than 400 to protect 719 positions. This has led to increased passenger robberies. Adequate staffing crucial to reduce crime.
-
-🟩
-
-The railway sector has become a threat to the railway sector as 75 per cent of the total employees of the Railway Security Department are due to retire next year.
-
-More than five hundred security officers are to retire simultaneously, a senior official of the Railway Safety Division headquarters said.
-
-There should be 719 people in the Railway Safety Service but currently have less than 400 security officers.
-
-The official said that due to the lack of recruitment for many years, the railway sector is also in trouble.
-
-This has resulted in robbery and robbery of passengers during train travel.
-
-The official said that such crimes can be reduced if adequate security. Remble
-
-◼️
-
-[Data](articles/8a8b66ca.json)
-
-[Extended Data](ext_articles/8a8b66ca.ext.json)
 
 ---

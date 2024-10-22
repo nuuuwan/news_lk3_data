@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 13:59:22**
+As of **2024-10-22 14:13:10**
 
 ## Newspaper Stats
 
-*Scraped **50,714** Articles*
+*Scraped **50,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 510
 islandlk | 3,021
 economynextcom | 3,097
 dailyftlk | 3,458
-adalk | 4,711
+adalk | 4,712
 dailymirrorlk | 4,733
 adaderanalk | 6,008
-tamilmirrorlk | 6,960
+tamilmirrorlk | 6,961
 virakesarilk | 8,134
 adaderanasinhalalk | 8,801
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,714 (100.0%) of 50,714 articles have been extended.
+50,716 (100.0%) of 50,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Recovery of two bodies in Kandy
+
+*2024-10-22 13:35:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-இரண்டு-சடலங்கள்-மீட்பு/76-345846) · `ta`
+
+Kandy: Two unidentified bodies found. Woman discovered in lake near Swiss Hotel. Man found on Peradeniya Road. Both identities unknown.
+
+🟩
+
+Two unidentified bodies have been found in the Kandy Police Division, police said.
+
+The body of a young woman was recovered after floating in a lake in front of Swiss hotel in Sankaraja Mawatha at Kandy Lake Circle. Police say who has not yet been identified.
+
+According to police, the body of a young man who died on a side road under the primrose plantation on Peradeniya Road has not yet been identified.
+
+◼️
+
+[Data](articles/e4696af7.json)
+
+[Extended Data](ext_articles/e4696af7.ext.json)
+
+---
 
 ### New chairman and members appointed to NTC
 
@@ -129,6 +151,26 @@ The minister said the committee was already expected to submit its report on Sep
 [Data](articles/4b39c236.json)
 
 [Extended Data](ext_articles/4b39c236.ext.json)
+
+---
+
+### 78-year-old ex-President's prison for 20 years
+
+*2024-10-22 12:15:16* · [`adalk`](https://www.ada.lk/breaking_news/78-හැවිරිදි-හිටපු-ජනපතිට-වසර-20ක-සිර-ඳඩුවමක්/11-412607) · `si`
+
+Alejandro Toledo, former Peruvian president, sentenced to 20 years and 6 months for bribery related to a $35 million payment from a Brazilian construction company for a contract.
+
+🟩
+
+Former President of Peru (2001-2006) Alejandro Toledo has been sentenced to 20 years and a six-month head of hearing.
+
+A Brazil Construction Company to obtain a bribe of $ 35 million from a Brazil Construction Company for a contract for the construction of a Peru-Termination.
+
+◼️
+
+[Data](articles/dfe82362.json)
+
+[Extended Data](ext_articles/dfe82362.ext.json)
 
 ---
 
@@ -2331,55 +2373,5 @@ Anura Kumara Dissanayake, a civil activist who said he was appointed as the Pres
 [Data](articles/87f36a01.json)
 
 [Extended Data](ext_articles/87f36a01.ext.json)
-
----
-
-### Sri Lanka sees foreign inflows into govt securities for fifth straight week
-
-*2024-10-21 18:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-inflows-into-govt-securities-for-fifth-straight-week-184328/) · `en`
-
-ECONOMYNEXT – Sri Lanka saw foreign inflows into its government securities for the fifth straight week ended on October 16, the Central Bank data showed.
-
-However, foreign exchange analysts said the demand for rupee-denominated government securities has slowed after yields fell last week.
-
-Sri Lanka witnessed 495 million rupees ($1,7 million at 1 US dollar = 295 LKR)  inflow into government securities in the week ended on October 16, but much lower than the previous week’s inflow of 6.9 billion rupees (($23.4 mln), the official data showed.
-
-The value of government securities held by foreign investors and funds was at 51,142 million rupees last week.
-
-“The yields were down and foreign investor appetite was low,” a currency dealer told EconomyNext.
-
-Analysts say Sri Lanka’s deflationary policies have helped to see inflows amid lowering market lending rates and appreciation in the rupee currency with curtailed imports.
-
-...
-
-[Data](articles/b3619017.json)
-
-[Extended Data](ext_articles/b3619017.ext.json)
-
----
-
-### Notice of 18 persons against Wasantha Mudali
-
-*2024-10-21 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202409) · `si`
-
-Colombo Magistrate Court case: 18 accused, including Wasantha Mudali, charged over past protests. Police investigation handed to AG's office. Court hearing scheduled for Feb 10.
-
-🟩
-
-Inter University Students Federation of the Inter University Students Federation (Inter University Students) for the suspects were a manner in the past struggle, police today (21)) The Colombo Magistrate informed the Magistrate.
-
-The complaint was called before Colombo Major Magistrate Thilina Gamage, and the suspects including Wasantha Mudali appeared in court.
-
-The Cinnamon Gardens Police stated that investigations into the incident have been referred to the Attorney General's Department for consulting files.
-
-The police also informed the proceedings of the legal action after the Attorney General's advice.
-
-The Court sentenceded the complaint on February 10.
-
-◼️
-
-[Data](articles/48d0a788.json)
-
-[Extended Data](ext_articles/48d0a788.ext.json)
 
 ---

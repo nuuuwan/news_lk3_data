@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 09:59:03**
+As of **2024-10-22 10:12:47**
 
 ## Newspaper Stats
 
-*Scraped **50,676** Articles*
+*Scraped **50,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,093
 dailyftlk | 3,458
 adalk | 4,707
 dailymirrorlk | 4,733
-adaderanalk | 6,001
+adaderanalk | 6,002
 tamilmirrorlk | 6,950
 virakesarilk | 8,127
 adaderanasinhalalk | 8,796
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,796
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,675 (100.0%) of 50,676 articles have been extended.
+50,677 (100.0%) of 50,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Bribery Commission receives over 3,000 complaints in first 9 months of 2024
+
+*2024-10-22 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102843/bribery-commission-receives-over-3000-complaints-in-first-9-months-of-2024) · `en`
+
+Over 3,000 complaints concerning incidents of bribery and corruption have been received in the first 9 months of 2024, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said.
+
+Accordingly, the CIABOC reported that a total of 3,045 complaints have been received from 01 January until 30 September 2024.
+
+During this period, 81 raids have been conducted across the island, leading to the arrest of 67 individuals.
+
+Among the people arrested are 45 government officials including 20 police officers, 03 Grama Niladhari officers, 03 Kathi Court Judges and 02 revenue inspectors.
+
+In addition to this, 22 civilians have been arrested in raids.
+
+In the first 9 months of this year, 68 people were prosecuted and 56 cases have been resolved, the CIABOC said.
+
+The commission further said that 237 cases related to bribery and corruption are still being heard in courts and that 19 defendants have been proven guilty within this year.
+
+◼️
+
+[Data](articles/39f2333b.json)
+
+[Extended Data](ext_articles/39f2333b.ext.json)
+
+---
 
 ### Five people from an explosion of an Uttar Pradesh of India
 
@@ -2397,25 +2423,5 @@ In August 2024, 0.2% of food inflation increased to-1.7% in September 2024.
 [Data](articles/8c211b25.json)
 
 [Extended Data](ext_articles/8c211b25.ext.json)
-
----
-
-### Sri Lanka chamber delegation builds links with Indonesia
-
-*2024-10-21 15:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-delegation-builds-links-with-indonesia-184304/) · `en`
-
-ECONOMYEXT – A Sri Lanka–Indonesia Business Council (SLIBC) of the Ceylon Chamber of Commerce visited Indonesia and strengthened links with businesses in the two countries.
-
-“The missions’ primary aim  was to strengthen trade, investment, and business ties between Sri Lanka and Indonesia, while exploring opportunities for collaboration in key industries,” a statement from the Ceylon Chamber of Commerce said.
-
-The 14 member delegation respresenting food & beverage, logistics, pharmaceuticals, apparel, travel, IT, and recreation sectors was led by SLIBC President Vish Govindasamy and Vice President D S Wickramasingha.
-
-The delegation participated in various business fora, expos, and meetings with key stakeholders in Indonesia’s trade and business sectors.
-
-...
-
-[Data](articles/fc62713d.json)
-
-[Extended Data](ext_articles/fc62713d.ext.json)
 
 ---

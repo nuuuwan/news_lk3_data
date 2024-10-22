@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 13:11:42**
+As of **2024-10-22 13:24:06**
 
 ## Newspaper Stats
 
-*Scraped **50,711** Articles*
+*Scraped **50,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,097
 dailyftlk | 3,458
 adalk | 4,711
 dailymirrorlk | 4,733
-adaderanalk | 6,007
-tamilmirrorlk | 6,958
+adaderanalk | 6,008
+tamilmirrorlk | 6,960
 virakesarilk | 8,134
 adaderanasinhalalk | 8,801
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 8,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,711 (100.0%) of 50,711 articles have been extended.
+50,714 (100.0%) of 50,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### New chairman and members appointed to NTC
+
+*2024-10-22 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102849/new-chairman-and-members-appointed-to-ntc) · `en`
+
+A new chairman and commission members have been appointed to the National Transport Commission (NTC).
+
+Cabinet Spokesman Minister Vijitha Herath stated that the Cabinet of Ministers has granted approval to these appointments yesterday (21).
+
+Accordingly, Dr. Bandura Dileepa Witharana has been appointed as the Chairman of the National Transport Commission. He is a Senior Lecturer at the Open University of Sri Lanka.
+
+• W. Ravi Prasad De Mel - Senior Lecturer at University of Sri Jayawardenapura
+
+• Mrs. Dr. Namali Tharanga Sirisoma - Senior Lecturer at Sir John Kotelawala Defence University
+
+As per the provisions of the National Transport Commission Act 37 of 1991, the commission should be comprised of 8 members.
+
+According to the section 3(1) (a) of the said Act, three of the members are appointed on ex officio representing the Ministries of Transport, Policy Planning and Finance.
+
+...
+
+[Data](articles/a71a3e62.json)
+
+[Extended Data](ext_articles/a71a3e62.ext.json)
+
+---
+
+### Muddy Poster: Uttara to arrest Ranga
+
+*2024-10-22 12:43:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேறு-பூசும்-சுவரொட்டி-ரங்காவை-கைது-செய்ய-உத்தவு/175-345844) · `ta`
+
+Colombo Chief Magistrate orders CID to arrest former MP J. Sreeranga over muddy posters linking him to investigation. Police arrested man probing posters against judge. Ranga claims posters stuck to police.
+
+🟩
+
+Colombo Chief Magistrate Thilina Kamage has ordered the Colombo Criminal Investigation Division (CID) to arrest him and put him in court if former MP J. Sreeranga is linked to the muddy posters.
+
+Police have arrested a man who was investigating the muddy passenger posters against the Mannar High Court Judge Mohammed Mihal.
+
+Former parliamentarian Sriranga said that the posters were sticking to the police.
+
+The Colombo Criminal Investigation Police went to Ranga's house to arrest Ranga on a court order.
+
+Colombo Chief Magistrate Dilina Kamage on Monday (22) ordered him to appear to him immediately.
+
+◼️
+
+[Data](articles/4c8eb920.json)
+
+[Extended Data](ext_articles/4c8eb920.ext.json)
+
+---
 
 ### Gammanpila does not accept the report on Easter attack - Sri Lanka Catholic Church
 
@@ -53,6 +105,30 @@ Speaking at a media briefing in Borella, Archbishop, Fr.
 [Data](articles/3e10d243.json)
 
 [Extended Data](ext_articles/3e10d243.ext.json)
+
+---
+
+### “The government will not accept the committee report”
+
+*2024-10-22 12:27:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழு-அறிக்கையை-அரசாங்கம்-ஏற்றுக்-கொள்ளாது/175-345843) · `ta`
+
+Government rejects committee report on Easter bombings. Minister claims panel focused solely on two officials. Committee deadline set before presidential election.
+
+🟩
+
+Retired Judge ANJ who fully explored Easter Sunday bombing. Minister Vijitha Herath says the government will not accept the report of the committee headed by the de Alwis -led committee.
+
+He said at a weekly media briefing to announce the Cabinet decisions that the committee was only aimed at the former Senior Deputy Inspector General of Police (DIG) Ravi Seneviratne and former CIT Director Shani Abeesekera at the retired police council of the National People's Power (NPP).
+
+The NPP's retired police council was formed on June 09, 2024, and three days after the retired police council was opened, the committee (Retired Judge ANJJ. He said the committee headed by D Alwis was appointed.
+
+The minister said the committee was already expected to submit its report on September 15, just before the presidential election within three months.
+
+◼️
+
+[Data](articles/4b39c236.json)
+
+[Extended Data](ext_articles/4b39c236.ext.json)
 
 ---
 
@@ -2299,75 +2375,5 @@ The Court sentenceded the complaint on February 10.
 [Data](articles/48d0a788.json)
 
 [Extended Data](ext_articles/48d0a788.ext.json)
-
----
-
-### India has doubled the donation
-
-*2024-10-21 18:00:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நன்கொடையை-இரு-மடங்காக-அதிகரித்தது-இந்தியா/76-345799) · `ta`
-
-India doubles education aid to Sri Lanka, allocating 600 million rupees for 9 schools in plantation areas. Funds will support infrastructure, equipment, and teacher training programs.
-
-🟩
-
-Indian High Commissioner to Santosh Ja, Ministry of Education, Science and Technology, Mrs. JM Thilaka Jayasundara, on the 18th of October, on the 18th of October, in the diplomatic documents that confirm the systems of the Government of India to double the donation assistance issued by the Government of India to upgrade nine schools in the plantation areas of Sri Lanka.
-
-Diplomatic documents were also exchanged. With the further allocation of funds at the request of the Sri Lankan government, the total allocation of the Government of India has increased to 600 million Sri Lankan rupees.
-
-2.. These include 6 schools in the plantation areas of the Central Province and one school in Uva, Sabaragamuwa and Southern Province.
-
-...
-
-[Data](articles/db5750a3.json)
-
-[Extended Data](ext_articles/db5750a3.ext.json)
-
----
-
-### Representatives who care about representations ....!
-
-*2024-10-21 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196812) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil representatives' concerns about representation in Sri Lankan politics. Historical context of Tamil representation in parliament since 1947. Current divisions among Tamil parties affecting community welfare.
-
-🟩
-
-None of the candidates supported by the Tamil party in the presidential election. In some areas, Tamils ​​gave their votes to the national people's power. Upcountry representatives have expressed concern that Tamil representations should be protected.
-
-That is, it is okay to sit in the opposition party.. But this is a concern for their political existence, but it does not seem to be a concern for the community.The age of the parliamentary representation of the plantation working class and the upcountry community is 47 years.
-
-In 1977, the people of Nuwara Eliya district had elected their representative from the Nuwara Eliya -Maskeliya constituency in 1977.
-
-Prior to 1977, the hill country representatives decorated the royal council. The present younger community must know the history that seven people representing the Sri Lanka Indian Congress during the 1947 general election represented the then parliament.
-
-...
-
-[Data](articles/831b28dc.json)
-
-[Extended Data](ext_articles/831b28dc.ext.json)
-
----
-
-### Pharaoh eradicates Egypt after 100 years of attempts
-
-*2024-10-21 17:52:09* · [`adalk`](https://www.ada.lk/breaking_news/පාරාවොන්ටත්-වැළඳුනු-රෝගය-වසර-100ක-උත්සාහයෙන්-පසු-ඊජිප්තුව-තුරන්-කරයි/11-412593) · `si`
-
-Egypt eradicated after 100 years: WHO announcement. Malaria, present since ancient times, finally eliminated under Pharaoh's efforts.
-
-🟩
-
-The World Health Organization has announced that Egypt was eradicated after 100 years.
-
-Maleria is as old as Egyptian civilization, and Pharaohs say they have suffered from preventing the disease.
-
-◼️
-
-[Data](articles/32347b36.json)
-
-[Extended Data](ext_articles/32347b36.ext.json)
 
 ---

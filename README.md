@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 12:58:43**
+As of **2024-10-22 13:11:42**
 
 ## Newspaper Stats
 
-*Scraped **50,710** Articles*
+*Scraped **50,711** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 409
-colombotelegraphcom | 508
+colombotelegraphcom | 509
 bbccomsinhala | 510
 islandlk | 3,021
 economynextcom | 3,097
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,710 (100.0%) of 50,710 articles have been extended.
+50,711 (100.0%) of 50,711 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1119,6 +1119,24 @@ Deputy General Manager of International Affairs of the Foreign Employment Bureau
 [Data](articles/2e80e96d.json)
 
 [Extended Data](ext_articles/2e80e96d.ext.json)
+
+---
+
+### Sri Lanka Needs A Change In Exchange Rate Policy
+
+*2024-10-22 06:53:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lanka-needs-a-change-in-exchange-rate-policy/) · `en`
+
+The IMF promotes a floating exchange rate mechanism. CBSL governor Dr. Nandalal Weerasinghe agrees with it, I think. Some economists too insist that CBSL cannot regulate the exchange rate, hence should allow the rupee to float. SJB has a different idea. They say that they allow first floating the currency to permit market forces to reveal the equilibrium rate , and then stabilizing that rate through CBSL intervention. I am not sure about the ideological stance of president Anura Kumara Dissanayake as the Minister of Finance.
+
+The IMF never assumed that Sri Lanka should have a stable rate of exchange when they entered into an agreement to approve Extended Fund Facility (EFF) in March 2023. In this agreement the forecasted or estimated exchange rates were as follows:
+
+Source: IMF Country Report No. 23/116, March 2023, Calculated by the author of this essay
+
+...
+
+[Data](articles/d151bdb5.json)
+
+[Extended Data](ext_articles/d151bdb5.ext.json)
 
 ---
 
@@ -2351,25 +2369,5 @@ Maleria is as old as Egyptian civilization, and Pharaohs say they have suffered 
 [Data](articles/32347b36.json)
 
 [Extended Data](ext_articles/32347b36.ext.json)
-
----
-
-### Petition to challenge the general election
-
-*2024-10-21 17:45:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பொதுத்-தேர்தலை-சவாலுக்கு-உட்படுத்தி-மனு/150-345798) · `ta`
-
-Civil society activist challenges Election Commission's decision to hold parliamentary election on Nov 14. Petitioner claims EC failed to follow nomination rules and set proper election date. Case filed in Supreme Court.
-
-🟩
-
-A civil society activist has filed a fundamental rights petition in the Supreme Court challenging the decision of the Election Commission to hold a parliamentary election on November 14.
-
-The petition was filed by Priyantha Herath, Coordinator of Abhi Sri Lanka, claiming that the Elections Commission had failed to demand nominations in accordance with the rules of parliamentary elections and to determine the date of the general election.
-
-◼️
-
-[Data](articles/8060416c.json)
-
-[Extended Data](ext_articles/8060416c.ext.json)
 
 ---

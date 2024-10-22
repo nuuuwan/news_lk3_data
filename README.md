@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 09:13:09**
+As of **2024-10-22 09:24:29**
 
 ## Newspaper Stats
 
-*Scraped **50,670** Articles*
+*Scraped **50,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,093
 dailyftlk | 3,458
 adalk | 4,706
 dailymirrorlk | 4,733
-adaderanalk | 6,000
+adaderanalk | 6,001
 tamilmirrorlk | 6,948
 virakesarilk | 8,127
 adaderanasinhalalk | 8,795
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,795
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,666 (100.0%) of 50,670 articles have been extended.
+50,669 (100.0%) of 50,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### SLBFE warns job seekers of fraudulent calls demanding payments
+
+*2024-10-22 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102842/slbfe-warns-job-seekers-of-fraudulent-calls-demanding-payments-) · `en`
+
+The Sri Lanka Bureau of Foreign Employment (SLBFE) has clarified that it is not associated with any calls informing those seeking employment in Israel to make additional payments.
+
+Additional General Manager of International Affairs of the SLBFE Gamini Senarath Yapa stated that job candidates who have already settled their payments do not need to proceed with any additional payments.
+
+The SLBEF received multiple complaints yesterday (21) regarding a person making phone calls and claiming that those seeking employment in Israel must pay a sum of Rs.14,700.
+
+Gamini Senarath Yapa explained that all candidates preparing to work in Israel’s agricultural sector have already settled their payments with the SLBEF.
+
+...
+
+[Data](articles/8265a0b5.json)
+
+[Extended Data](ext_articles/8265a0b5.ext.json)
+
+---
 
 ### Matara shooter in Matara
 
@@ -2325,21 +2345,5 @@ The last two weeks suggest that the NPP is moving to the centre, most probably i
 [Data](articles/ed6ee59d.json)
 
 [Extended Data](ext_articles/ed6ee59d.ext.json)
-
----
-
-### Kumar David: An Accomplished Academic and a Broadminded Marxist
-
-*2024-10-21 15:21:00* · [`islandlk`](http://island.lk/kumar-david-an-accomplished-academic-and-a-broadminded-marxist/) · `en`
-
-One by one the lights go out. In a span of seven months, Sri Lanka’s Engineering fraternity and the country’s progressive political fraternity have lost three of their kind, one after another. Chris Rodrigo was the first to go in March, then it was Bahu in July, and now it is Kumar David, the oldest of the three. Professor Kumar David passed away in Los Angeles, on Monday, October 14. He was 83 years old.
-
-He had been in declining health for some time after a cataract surgery that did not go as smoothly as such surgeries do. But on his annual visit to Sri Lanka earlier in May, he seemed to be in good spirits, and he was closely following from LA the results of the September presidential election in Sri Lanka. He was obviously pleased with the results and would have been hoping to see their consolidation in November. That was not to be. His was a long life, well lived, yet the end came too suddenly and too painfully for many of us.
-
-...
-
-[Data](articles/fe4fe930.json)
-
-[Extended Data](ext_articles/fe4fe930.ext.json)
 
 ---

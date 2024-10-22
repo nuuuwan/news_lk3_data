@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 15:23:50**
+As of **2024-10-22 15:39:31**
 
 ## Newspaper Stats
 
-*Scraped **50,726** Articles*
+*Scraped **50,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,097
 dailyftlk | 3,458
 adalk | 4,712
 dailymirrorlk | 4,733
-adaderanalk | 6,010
-tamilmirrorlk | 6,964
+adaderanalk | 6,011
+tamilmirrorlk | 6,966
 virakesarilk | 8,136
 adaderanasinhalalk | 8,804
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,804
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,726 (100.0%) of 50,726 articles have been extended.
+50,729 (100.0%) of 50,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-22 (Tuesday)
+
+### Sri Lanka’s Catholic Church also rejects Gammanpila’s Easter attacks report
+
+*2024-10-22 15:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102852/sri-lankas-catholic-church-also-rejects-gammanpilas-easter-attacks-report-) · `en`
+
+Rev. Fr. Cyril Gamini Fernando, Director of Communications for the Archdiocese of Colombo, says that they reject the report of the Committee of Inquiry, chaired by retired High Court Judge A.N.J. De Alwis.
+
+He made this statement in response to comments made by Pivithuru Hela Urumaya (PHU) leader and former MP Udaya Gammanpila during a press conference held in Colombo yesterday (21) where he disclosed the contents of a previously unreleased report regarding the Easter Sunday terror attacks.
+
+Speaking at a press conference held today (22) at the Archbishop’s House in Borella, Rev. Fr. Gamini stated: “It is clear that a conflict of interest will immediately arise by appointing A.N.J. De Alwis, the sister of Prasanna De Alwis, who is accused of concealing and destroying evidence in a murder investigation, as the head of this committee.”
+
+He further stated that a report produced under these circumstances cannot be regarded as impartial or independent.
+
+...
+
+[Data](articles/3d647483.json)
+
+[Extended Data](ext_articles/3d647483.ext.json)
+
+---
 
 ### Permission to be named Ranil as a 2 petitions
 
@@ -49,6 +69,60 @@ When a request made by two petitions filed by two members of the Socialist Youth
 [Data](articles/61f5d0c5.json)
 
 [Extended Data](ext_articles/61f5d0c5.ext.json)
+
+---
+
+### President Meeting with Provincial Governors
+
+*2024-10-22 14:54:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-ஆளுநர்களுடனான-ஜனாதிபதி-சந்திப்பு/175-345855) · `ta`
+
+President Anurakumara Dissanayake met with provincial governors to discuss regulating Provincial Councils. Focus on healthcare and education vacancies. Emphasized improving services to benefit citizens. Directed governors to implement economic and social interventions. Urged commitment to quality public service and transparency in asset usage.
+
+🟩
+
+President Anurakumara Dissanayake has announced to the provincial governors to prepare and submit a recommendation to regulate the Provincial Council mechanism.
+
+It was decided to focus on the vacancies in the health and education sectors under the provincial councils and provide favorable solutions.
+
+The President also stated that the provincial councils will take steps to provide the peak service provided by the provincial councils to ease the livelihood of the people during the current change.
+
+The President said this during a discussion with provincial governors held at the Presidential Secretariat on Tuesday (22).
+
+The President issued a directive to the provincial governors to make all possible economic and social interventions by provincial councils to make the people the lives of the people.
+
+Recalling the people's mandate to initiate a new political culture, the president also urged the people to act so as not to affect the expectations of the people.
+
+...
+
+[Data](articles/32b3212e.json)
+
+[Extended Data](ext_articles/32b3212e.ext.json)
+
+---
+
+### Can't Forgive YouTube Irfan
+
+*2024-10-22 14:53:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூபர்-இர்பானை-மன்னிக்க-முடியாது/175-345854) · `ta`
+
+Here's a 200-character summary:
+
+
+
+YouTube Irfan shares childbirth video, sparking controversy. Minister Ma Subramanian condemns act, vows action against doctor and hospital. Video removed after DMS notice. Health Department to punish wrongdoers.
+
+🟩
+
+The Minister of Medicine and Public Welfare, Ma Subramanian, has said that the video of the child's umbilical cord cutting the flag of the child cannot be forgiven by Irfan.
+
+Chennai -based youtuban - Asifa couple gave birth to a girl at a private hospital on July 24. When the baby was born, he shared a video of the baby's umbilical cord cutting the baby's umbilical cord on his YouTube channel. In the video, he has posted a video of the juice from the house to the hospital, the pre -delivery care and the events during childbirth.. Doctors and community activists have strongly condemned Irfan's act.
+
+Already, Irfan released the video of the child who was born last year and released the video related to it.. The Medical and Rural Welfare Directorate (DMS) sent a notice to Irfan to respond to the video. Subsequently, the video was removed from YouTube.
+
+...
+
+[Data](articles/23e8cabc.json)
+
+[Extended Data](ext_articles/23e8cabc.ext.json)
 
 ---
 
@@ -2305,73 +2379,5 @@ Event at the history, our neighbor, our friend, our views, and our sadness, and 
 [Data](articles/9faf0b8b.json)
 
 [Extended Data](ext_articles/9faf0b8b.ext.json)
-
----
-
-### Considering the increase in salaries
-
-*2024-10-21 19:46:50* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-වැඩි-කරීම-ගැන-සලකා-බලනවා/11-412601) · `si`
-
-President Anura Kumara Dissanayake addresses public rally in Homagama, focusing on salary increases for public employees and additional allowances for school equipment. Announces "Clean Sri Lanka" project to improve infrastructure and environment.
-
-🟩
-
-Leader of the National Institute of Jonishavior, President Anura Kumara Dissanayake said that a new budget passed a new budget and focus on the increasing increase in public employees.
-
-He was speaking at the public rally in Homagama. The President also said that it is also focused on providing additional allowance to obtain equipment for school children.
-
-"The budget that should be submitted for the December is unable to submit the parliamentary system. So we adopt an interim account in December. A new budget is aid for March. We focus on increasing public servants' salaries in that Budget. Schools focus on providing an additional allowance to educate school equipment for children.
-
-We will start a project called Clene Sri Lanka as a new project. A special Presidential Performance for the project to build a clean Sri Lanka to build a clean Sri Lanka will build a clean Sri Lanka. Create a fund that may contribute to the foreign Sri Lankans, and the country.
-
-...
-
-[Data](articles/f052c18c.json)
-
-[Extended Data](ext_articles/f052c18c.ext.json)
-
----
-
-### Low-pressure water supply to several areas due to breakdown
-
-*2024-10-21 19:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102838/low-pressure-water-supply-to-several-areas-due-to-breakdown) · `en`
-
-The National Water Supply and Drainage Board says that the water supply to several areas in the Western Province will be under low pressure due to a sudden breakdown in the transmission pipeline to the Church Hill Reservoir.
-
-Accordingly, the water supply will be under low pressure in the following areas:
-
-Meanwhile, the Water Board said that high elevated areas may experience supply interruptions.
-
-It further said that repair work is in progress and that the expected restore time is 12.00 noon tomorrow (22).
-
-The people living in the aforementioned areas are advised to use water sparingly.
-
-◼️
-
-[Data](articles/075f03bb.json)
-
-[Extended Data](ext_articles/075f03bb.ext.json)
-
----
-
-### Inflation further down
-
-*2024-10-21 19:39:27* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවදුරටත්-පහළට/11-412600) · `si`
-
-Sri Lanka's inflation drops sharply: from 1.1% in August to -0.2% in September. Food category inflation decreases from 2.3% to 0.5%, while non-food category deflation increases from 0.2% to -10.7%.
-
-🟩
-
-Inflation in Sri Lanka has dropped down in September. Inflation, which was 1.1% in August 2024, has been reduced to -0.2% for September.
-
-The point of the food category recorded as 2.3% in August, the point inflation was reduced to 0.5% in September.
-
-Also, the non-food category of food, 0.2% in August, has reduced to-10.7% in September.
-
-◼️
-
-[Data](articles/90b2cffb.json)
-
-[Extended Data](ext_articles/90b2cffb.ext.json)
 
 ---

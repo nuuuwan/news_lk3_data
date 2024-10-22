@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-22 13:24:06**
+As of **2024-10-22 13:40:05**
 
 ## Newspaper Stats
 
@@ -159,6 +159,12 @@ Responding to a question whether the government would remove the two officials b
 *2024-10-22 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102848/johnston-to-record-statement-at-cid-over-luxury-car-found-at-hotel-) · `en`
 
 Former Minister Johnston Fernando’s attorneys have informed the Court of Appeal that he will appear before the CID tomorrow to provide a statement regarding the unregistered luxury car allegedly belonging to him, which was found parked at a star-class hotel in Colombo.
+
+A petition filed by former MP Johnston Fernando seeking an order to prevent his arrest over the incident was taken up for consideration today (22).
+
+During this, his attorneys informed the court that Fernando is prepared to appear before the Criminal Investigation Department tomorrow to provide a statement regarding the incident.
+
+The court subsequently ordered the petition to be called again on October 25.
 
 ◼️
 

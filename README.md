@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 20:24:24**
+As of **2024-10-23 20:39:41**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 8,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,989 (100.0%) of 50,991 articles have been extended.
+50,991 (100.0%) of 50,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
 
-### තුර්කියේ ත්‍රස්ත ප්‍රහාරයක්
+### Terror attack in Turkey
 
 *2024-10-23 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202483) · `si`
 
-තුර්කියේ ඇන්කාරා නගරය ආසන්නයේ සිදුකළ ප්‍රහාරයකින් විශාල පිරිසක් මියගොස් තවත් පිරිසක් තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Turkey terror attack: Multiple casualties reported in Ankara. Attack occurred near airline company.
 
-තුර්කියේ අභ්‍යන්තර කටයුතු පිළිබඳ අමාත්‍යවරයා පැවසුවේ එරට ගුවන්සේවා සමාගමක් අසල එම ප්‍රහාරය සිදුකර ඇති බවයි.
+🟩
+
+A large number of people were killed and another injured were injured in an attack on Ankara town in Turkey.
+
+The internal affairs of the Turkey said that the attack had been carried out near the Airline Company.
 
 ◼️
 
 [Data](articles/c069f9f3.json)
+
+[Extended Data](ext_articles/c069f9f3.ext.json)
 
 ---
 
@@ -300,23 +306,31 @@ We have discussed and advised the incident in terms of the president of the Defe
 
 ---
 
-### வடக்கு மாகாண  ஆளுநருக்கும்   அமெரிக்க தூதுவருக்குமிடையில் சந்திப்பு!
+### Meeting between Governor of the Northern Province and US Ambassador
 
 *2024-10-23 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196942) · `ta`
 
-இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் (Julie Chung) வடக்கு மாகாண  ஆளுநர்  நாகலிங்கம் வேதநாயகன் அவர்களை சந்தித்தார் .
+Governor Nagalingam Vedanayagan met US Ambassador Julie Chung at the Northern Provincial Governor's Office. They discussed development, education, tourism, land release, transportation, employment, and investments. The ambassador asked about land release processes and the governor requested cooperation in gaining market opportunities for Northern Province products.
 
-வடக்கு மாகாண  ஆளுநர் நாகலிங்கம் வேதநாயகன் அவர்களுக்கும், இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் (Julie Chung) அவர்களுக்கும் இடையில் இன்று  புதன்கிழமை  (23) வடக்கு மாகாண ஆளுநர் அலுவலகத்தில் இச்சந்திப்பு நடைபெற்றது.
+🟩
 
-வடக்கு மாகாண அபிவிருத்தி செயற்பாடுகள், கல்வி, சுற்றுலாத்துறை, காணி விடுவிப்பு, போக்குவரத்து வசதிகள், தொழில் வாய்ப்புகள், முதலீட்டு நடவடிக்கைகள் உள்ளிட்ட பல விடயங்கள் சம்பந்தமாக கலந்துரையாடப்பட்டது.
+US Ambassador to Sri Lanka Julie Chung met Nagalingam Vedanayagan, Governor of the Northern Province.
 
-அமெரிக்க தூதுவர், காணி விடுவிப்பு தொடர்பாக விபரங்களை  ஆளுநரிடம் கேட்டறிந்து கொண்டார். தற்போது  ஜனாதிபதியின் வழிகாட்டுதல்களுக்கு அமைய காணி விடுவிப்பு நடவடிக்கைகள் முன்னெடுக்கப்பட உள்ளன என ஆளுநர் தெரிவித்தார்.
+The meeting was held at the Governor's Office at the Northern Provincial Governor's Office on Wednesday (23) between the Governor of the Northern Province Nagalingam Vedanayagan and the US Ambassador to Sri Lanka Julie Chung.
 
-ஆளுநர் அவர்கள் வடக்கு மாகாணத்தில் காணி சம்பந்தப்பட்ட பிணக்குகள் சட்டவிரோத காணி ஆக்கிரமிப்புகள் பாரியளவில் காணப்படுகின்றன எனவும் அவற்றை தீர்ப்பதற்கு தற்போது உள்ள அரசாங்கத்துடன் கலந்தாலோசித்து சாதகமான நடவடிக்கை மேற்கொள்ளப்படும் எனவும் தெரிவித்தார்.
+The Northern Province has discussed a number of issues including development activities, education, tourism, land release, transportation facilities, employment opportunities and investment activities.
+
+US Ambassador asked the governor about land release. The governor said that the land release process is to be carried out in accordance with the president's guidelines.
+
+The Governor said that the land -related disputes in the Northern Province are in large numbers of land encroachments.
+
+He asked the US Ambassador to Sri Lanka to cooperate with the process of gaining market opportunities for products in the North.
 
 ...
 
 [Data](articles/90407e77.json)
+
+[Extended Data](ext_articles/90407e77.ext.json)
 
 ---
 

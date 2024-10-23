@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 20:11:45**
+As of **2024-10-23 20:24:24**
 
 ## Newspaper Stats
 
-*Scraped **50,990** Articles*
+*Scraped **50,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,97 +20,147 @@ adalk | 4,744
 adaderanalk | 6,048
 tamilmirrorlk | 7,020
 virakesarilk | 8,172
-adaderanasinhalalk | 8,853
+adaderanasinhalalk | 8,854
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,984 (100.0%) of 50,990 articles have been extended.
+50,989 (100.0%) of 50,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
 
-### සිම්බාබ්වේ 20යි 20 ලෝක වාර්තා අලුත් කරයි
+### තුර්කියේ ත්‍රස්ත ප්‍රහාරයක්
+
+*2024-10-23 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202483) · `si`
+
+තුර්කියේ ඇන්කාරා නගරය ආසන්නයේ සිදුකළ ප්‍රහාරයකින් විශාල පිරිසක් මියගොස් තවත් පිරිසක් තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+තුර්කියේ අභ්‍යන්තර කටයුතු පිළිබඳ අමාත්‍යවරයා පැවසුවේ එරට ගුවන්සේවා සමාගමක් අසල එම ප්‍රහාරය සිදුකර ඇති බවයි.
+
+◼️
+
+[Data](articles/c069f9f3.json)
+
+---
+
+### Zimbabwe 20 will renew world records
 
 *2024-10-23 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202482) · `si`
 
-20යි 20 ජාත්‍යන්තර ක්‍රිකට් තරගයකදී කණ්ඩායමක් රැස්කළ වැඩිම ලකුණු සංඛ්‍යාව රැස් කිරීමට සිම්බාබ්වේ කණ්ඩායම අද (23) සමත් විය.
+Zimbabwe breaks cricket records: Sikandar Raza scores century in 33 balls, team sets new mark with 6 sixes.
 
-ඒ ගැම්බියා කණ්ඩායමට එරෙහිව සිය පන්දු ඕවර 20දී කඩුලු 4ක් දැවී ලකුණු 344ක් රැස්කර ගනිමිනි.
+🟩
 
-සිම්බාබ්වේ වෙනුවෙන් සිකන්දර් රාසා පන්දු 33කදී ශතකයක් රැස්කළේය. ඔහු නොදැවී ලකුණු 133ක් රැස්කළ අතර ඊට 6 පහර 15ක් ඇතුළත් විය.
+The Zimbabwe Bhaya was scored as the highest number of runs in the match.
 
-කණ්ඩායමේ අනෙක් පිතිකරුවන් 6 පහර 12ක් එල්ලකළ අතර ඒ අනුව කණ්ඩායම ඔවුන්ගේ ඉනිමට 6 පහර 27ක් ඇතුළත් විය. එයද ලෝක වාර්තාවකි.
+The Gamambia scored 344 runs for the loss of 4 wickets in the loss of 4 wickets.
 
-ඔවුන් විසින් බිඳ දැමුවේ නේපාල කණ්ඩායම ලකුණු 314ක් රැස්කර තබා තිබූ වාර්තාවකි. නේපාල ඉනිමට 6 පහර 26ක් ඇතුළත් වුණි.
+Sikandrer Raza scored a century in 33 balls with Zimbabwe. He scored 133 runs and the 6 six surp.
+
+Other batsmen in the group launched 12 hits, which included the team 6 hits. It is also a world record.
+
+They broke out the Nepal Group 314 runs. Nepal innings included 26 hits.
 
 ◼️
 
 [Data](articles/6922ec04.json)
 
+[Extended Data](ext_articles/6922ec04.ext.json)
+
 ---
 
-### இலங்கையின் மோசமான களத்தடுப்பு மேற்கிந்தியத் தீவுகளை கௌரவமான நிலையில் இட்டது; இலங்கைக்கு வெற்றி இலக்கு 190
+### Sri Lanka's worst fields have been honored with the West Indies;Winning target for Sri Lanka 190
 
 *2024-10-23 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196951) · `ta`
 
-கண்டி பல்லேகலை சர்வதேச விளையாட்டரங்கில் நடைபெற்றுவரும் 2ஆவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட மேற்கிந்தியத் தீவுகள் 36 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 189 ஓட்டங்களைக் குவித்தது.
+Sri Lanka vs West Indies: West Indies scores 189/10 in 36 overs. Rain delays start. Hazaranga takes 4 wickets. Sri Lanka needs 190 in 44 overs to win.
 
-மழை காரணமாக 2 மணி நேரம் தாமதித்து ஆரம்பித்த இன்றைய போட்டி அணிக்கு 44 ஓவர்கள் என நிர்ணயிக்கப்பட்டது.
+🟩
 
-குடாகேஷ் மோட்டி 31 ஓட்டங்களைப் பெற்றிருந்தபோது கொடுத்த மிக உயரமான பிடியை ஜனித் லியனகே தவறவிட்டது மேற்கிந்தியத் தீவுகளுக்கு சாதமாக அமைந்தது.
+The West Indies, which were first invited to bat first in the 2nd ODI in the Kandy Pallekele International Stadium, scored 189 runs for the loss of all wickets in 36 overs.
 
-அப்போது மேற்கிந்தியத் தீவுகளின் மொத்த எண்ணிக்கை 16ஆவது ஓவரில் 58 ஓட்டங்களுக்கு 8 விக்கெட்களாக இருந்தது.
+Today's match, which started 2 hours due to rain, was set to be 44 overs.
 
-இதனைத் தொடர்ந்து ஷேரஃபேன் ரதர்ஃபர்ட், குடாகேஷ் மோட்டி ஆகிய இருவரும் அரைச் சதங்கள் குவித்ததுடன் 9ஆவது விக்கெட்டில் சாதனைமிகு 119 ஓட்டங்களைப் பகிர்ந்து மேற்கிந்தியத் தீவுகளின் மொத்த எண்ணிக்கைக்கு பலம் சேர்த்தனர்.
+Janith Liyanage missed the tallest grip when Kudakesh Moti scored 31 runs and the West Indies favored.
 
-பந்துவீச்சில் வனிந்து ஹசரங்க 4 விக்கெட்களையும் மஹீஷ் தீக்ஷன, அசித்த பெர்னாண்டோ ஆகிய இருவரும் தலா 3 விக்கெட்களையும் கைப்பற்றினர்.
+The total number of the West Indies was 8 wickets for 58 runs in 16th over.
 
-...
+Following this, Sherafan Rutherford and Gudakesh Moti scored half -centuries and shared 119 runs in the 9th wicket and added to the total number of West Indies.
+
+Hazaranga took 4 wickets in bowling, while Mahish Deekshana and Asitha Fernando took 3 wickets each.
+
+The Sri Lankan team will win 190 runs in 44 overs and win a short time.
+
+◼️
 
 [Data](articles/fd280c5f.json)
 
+[Extended Data](ext_articles/fd280c5f.ext.json)
+
 ---
 
-### ආරුගම්බේ ප්‍රහාර සැලසුම ගැන ඉන්දීය බුද්ධි අංශ සැපයු තොරතුරු
+### Indian intelligence services provisional information on arugam attack plan
 
 *2024-10-23 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202481) · `si`
 
-ආරුගම්බේ ප්‍රහාර සැලසුම සම්බන්ධයෙන් ශ්‍රී ලංකා ආරක්ෂක අංශ දැනුවත් කර ඇත්තේ ඉන්දීය බුද්ධි අංශ විසින් බව අද (23) හෙළිදරව් විය.
+Here's a 200-character summary:
 
-අම්පාර දිස්ත්‍රික්කයේ පොතුවිල් ආසන්නයේ පිහිටි ආරුගම්බේ, සර්ෆින් ක්‍රීඩාවට ප්‍රචලිත සංචාරකයන් බහුලව පැමිණෙන ලොව ආකර්ෂණීයම සංචාරක කලාපයකි.
 
-එවන් පසුබිමක ආරුගම්බේ ප්‍රදේශයේ රැඳීසිටින ඊශ්‍රායල ජාතිකයන් ඉලක්ක කර ප්‍රහාරයක් එල්ලකිරීමේ සැලසුමක් ඇතැයි ඉන්දීය බුද්ධි අංශ පසුගිය දිනක මෙරට ආරක්ෂක අංශ දැනුම්ත් කර ඇත.
 
-අදාළ ප්‍රහාරය ඔක්තෝබර් 19ත් 23ත් අතර කාලය තුළදී එල්ලවිය හැකි බවට ඉන්දීය බුද්ධි අංශ දැනුම්දී තිබේ.
+Indian intel warns of planned attack in Arugam Bay, Sri Lanka. Targets Israelis and tourists. Attackers funded, likely from Iraq. Security forces strengthen measures. Israeli citizens advised to leave coastal areas. Embassies warn citizens.
 
-ප්‍රහාරය එල්ල කිරීම සඳහා ලාංකික පුද්ගලයන් දෙදෙනෙකු සූදානමින් සිටින බවත් ඔවුන් දෙදෙනාගෙන් අයෙක් ඉරාකයේ සිට පැමිණි අයෙක් බවත් බුද්ධි අංශ වෙත වාර්තා වී තිබුණි.
+🟩
 
-ප්‍රහාරය සඳහා ඔවුන් දෙදෙනාට රුපියල් ලක්ෂ 50ක පමණ මුදලක් ලබාදී ඇතැයිද එම තොරතුරුවල සඳහන් වේ.
+The Indian intelligence divisions have revealed that the Sri Lankan security forces have been informed by the Sri Lankan security forces regarding the arugamization attacks.
 
-ඒ අනුව අදාළ පුද්ගලයන් දෙදෙනාගේ නම්ගම් ඇතුළු සියලු තොරතුරු ඉන්දීය බුද්ධි අංශ මගින් මෙරට ආරක්ෂක අංශ වෙත ලබාදී තිබේ.
+Arugambay, near Pottuvil, is an attractive tourist world attractive tourist arrivals.
+
+Indian intelligence services have been informed that there is a plan to attack Israel, where Israel has been attacked by such a context.
+
+Indian intelligence has been informed that the attack can be launched between the 19th and 23rd.
+
+Intelligence reports, two Sri Lankans were ready to launch the attack and that two of them were from Iraq.
+
+The two men have been provided with Rs. 50 lakhs.
+
+Accordingly, Indian intelligence services have been provided with all the details, including the number of persons and the number of people.
+
+The information has been revealed that the attack was launched in the country as revenge in Israel's recent leaders to kill the Hezbollah leaders.
 
 ...
 
 [Data](articles/ad8f04b8.json)
 
+[Extended Data](ext_articles/ad8f04b8.ext.json)
+
 ---
 
-### කොදෙව්වෝ ලකුණු 189ට දැවී යයි
+### West Indies score 189
 
 *2024-10-23 19:29:27* · [`adalk`](https://www.ada.lk/breaking_news/කොදෙව්වෝ-ලකුණු-189ට-දැවී-යයි/11-412646) · `si`
 
-සංචාරක කොදෙව් කණ්ඩායම හා ශ්‍රී ලංකා කණ්ඩායම අතර පල්ලෙකැලේ පිටියේ පැවැත්වෙන දෙවැනි එක්දින තරගයේදී මුලින්ම පන්දුවට පහරදුන් කොදෙව් කණ්ඩායම ලකුණු 189කට ශ්‍රී ලංකා පන්දු යවන්නෝ සමත්වූහ.
+Here's a 200-character summary:
 
-කොදෙව් කණ්ඩායමේ මුල් කඩුලු 8 ලකුණු 58ක් තුළ දැවී ගියත් 9 වැනි කඩුල්ල වෙනුවෙන් වාර්තා ගත ලකුණු 119ක සබඳතාවක් පවත්වමින් කොදෙව් ලකුනු පුවරුව ඉහළ දැමීමට රදර්ෆෝඩ් (80) හා මොටියේ (50*) සමත්වූහ.
 
-මෙම සබඳතාව කොදෙව් එක්දින ක්‍රිකට් ඉතිහාසය තුළ 9 වැනි කඩුල්ල වෙනුවෙන් පිහිටවූ හොඳම සබඳතාවය වෙයි. එසේම ලෝක එක්දින ක්‍රිකට් පිටිය තුළ 9 වැනි කඩුල්ල වෙනුවෙන් පිහිටවූ සිව්වැනි ඉහළම සබඳතාවයද වෙයි.
+
+West Indies scored 189 against Sri Lanka in the second ODI. Their 9th wicket partnership of 119 was the best in West Indies ODI history and 4th highest globally.
+
+🟩
+
+The West Indies first scored the bowlers for 189 runs in the second ODI between the Sri Lankan team.
+
+West Indies' first wicket 8 runs scored 58 runs in 58 runs, but also held a network of 119 and recorded the West Indies.
+
+This relationship is the best relationship for the 9th wicket in West Indies ODI cricket history. The fourth highest relationship formed for the 9th wicket in the World ODI cricket.
 
 ◼️
 
 [Data](articles/a3061969.json)
+
+[Extended Data](ext_articles/a3061969.ext.json)
 
 ---
 
@@ -166,25 +216,37 @@ President Anura Kumara Dissanayake says that it is not a vote on November 14 and
 
 ---
 
-### ஹொங்கொங் சிக்சஸ் கிரிக்கெட் இலங்கை குழாத்தில் ஏழு வீரர்கள்
+### Seven players in Hong Kong Sixes Cricket Sri Lanka
 
 *2024-10-23 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196950) · `ta`
 
-ஹொங்கொங்கில் நடைபெறவுள்ள ஹொங்கொங்  சக்சஸ் என அழைக்கப்படும் அணிக்கு அறுவர் 6 கிரிக்கெட் போட்டியில் இலங்கையும் பங்குபற்றவுள்ளது.
+Here's a 200-character summary:
 
-வேகப்பந்து வீச்சு சகலதுறை வீரரான மதுஷன்க, 4 சர்வதேச ஒருநாள் கிரிக்கெட் போட்டிகளிலும் 3 சர்வதேச ரி20 கிரிக்கெட் போட்டிகளிலும் விளையாடியுள்ளார்.
 
-ஐக்கிய அரபு இராச்சியத்தில் 2021இல் நடைபெற்ற ஐசிசி ஆடவர் ரி20 உலகக் கிண்ணப் போட்டிக்கான இலங்கை குழாத்தில் லஹிரு மதுஷன்க பெயரிடப்பட்டிருந்தார்.
 
-ஆனால் அவரது துரதிர்ஷடம் அதற்கு முன்னர் நடைபெற்ற தென் ஆபிரிக்காவுக்கு எதிரான ரி20 தொடரின்போது அவரது கழுத்தில் காயம் ஏற்பட்டதால் அவருக்கு உலகக் கிண்ணத்தில் விளையாட முடியாமல் போனது.
+Sri Lanka participates in Hong Kong Sixes Cricket. Team includes Madhushan, Lahiru Madushankan, and others. Tournament features 12 teams, including current champions South Africa. Held Nov 1-3, 2023.
 
-32 வயதான மதுசன்க உட்பட அணியில் பெயரிடப்பட்டுள்ள அறுவர் சகலதுறை வீரர்கள் ஆவர். சந்துன் வீரக்கொடி விக்கெட் காப்பாளராக விளையாடுவார். அணியில் பெயரிடப்பட்டுள்ள 7 வீரர்களில் ஐந்து பேர் இலங்கை அணிக்காக சர்வதேச ஒரு நாள் அல்லது சர்வதேச ரி20 போட்டிகளில் விளையாடியவர்களாவர்.
+🟩
 
-தரிந்து ரத்நாயக்க, தனுக்க தாபரே ஆகிய இருவரே தேசிய அணியை பிரதிநிதித்துவப்படுத்தாத இரண்டு வீரர்களாவர்.
+Sri Lanka will also participate in the 6 -cricket match for the team called Hong Kong Success to be held in Hong Kong.
+
+Madhushan, a fast bowler, has played 4 International ODIs and 3 International T20 cricket matches.
+
+Lahiru Madushankan was named in the Sri Lankan group for the ICC men's T20 World Cup in 2021 in the United Arab Emirates.
+
+But his misfortune was unable to play in the World Cup due to his neck injury during the T20 series against South Africa.
+
+The team, including the 32 -year -old Madusanka, is all the players. Chandun will play as a wicketkeeper. Five of the seven players named in the squad have played the international one -day or international T20 matches for the Sri Lankan team.
+
+Two players who do not represent the national team - Dharru Ratnayake and Tanuka Tabare.
+
+He has played 68 wickets in 60 first T20 matches and scored 1352 runs. The other player, Tanuka Tabare, played 33 matches in the domestic T20 stage and took 15 wickets and scored 661 runs.
 
 ...
 
 [Data](articles/3c45b649.json)
+
+[Extended Data](ext_articles/3c45b649.ext.json)
 
 ---
 
@@ -2395,23 +2457,5 @@ As the trio failed to produce the culprits in court, each of them was charged wi
 [Data](articles/1720d9ff.json)
 
 [Extended Data](ext_articles/1720d9ff.ext.json)
-
----
-
-### G24 Director calls for debt talks framework for Sri Lanka and middle-income countries
-
-*2024-10-23 11:30:00* · [`economynextcom`](https://economynext.com/g24-director-calls-for-debt-talks-framework-for-sri-lanka-and-middle-income-countries-184508/) · `en`
-
-ECONOMYNEXT – The Director of the Group of 24 (G24), Iyabo Masha, has called for the establishment of a comprehensive debt resolution framework for middle-income countries, emphasising its relevance for nations like Sri Lanka, which continues to grapple with debt sustainability challenges.
-
-“I would say that Sri Lanka has come a long way from where it was 2 years ago. The last IMF Article IV Consultation assessment does show that growth is picking up, that fiscal buffers are coming up, and also import duties are rising, so that indicates that the countries are making some recovery,” Masha stated, highlighting the gradual economic progress Sri Lanka has achieved.
-
-She further stressed that while Sri Lanka’s economic recovery is underway, addressing its substantial debt burden remains a priority.
-
-...
-
-[Data](articles/ae1d5d64.json)
-
-[Extended Data](ext_articles/ae1d5d64.ext.json)
 
 ---

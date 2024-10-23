@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 09:24:30**
+As of **2024-10-23 09:40:19**
 
 ## Newspaper Stats
 
-*Scraped **50,850** Articles*
+*Scraped **50,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,108
 dailyftlk | 3,474
 adalk | 4,722
 dailymirrorlk | 4,733
-adaderanalk | 6,025
+adaderanalk | 6,026
 tamilmirrorlk | 6,991
 virakesarilk | 8,148
 adaderanasinhalalk | 8,823
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,843 (100.0%) of 50,850 articles have been extended.
+50,846 (100.0%) of 50,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Postal workers’ leave cancelled until General Election ends
+
+*2024-10-23 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102867/postal-workers-leave-cancelled-until-general-election-ends) · `en`
+
+Steps have been taken to cancel the leave of all employees of the Postal Department in preparation for the upcoming General Election.
+
+Deputy Postmaster General Rajitha Ranasinghe announced that the leave of all Postal Department employees has been cancelled, effective from today (23) until November 14.
+
+However, any postal worker requiring leave for essential reasons must obtain permission from the Deputy Postmaster General in charge of their province, he added.
+
+Ranasinghe also mentioned that the acceptance of registered postal vote reserve packets related to the General Election is scheduled for today.
+
+◼️
+
+[Data](articles/1dac8749.json)
+
+[Extended Data](ext_articles/1dac8749.ext.json)
+
+---
 
 ### The Johnston CID
 
@@ -1192,21 +1212,33 @@ After considering the facts presented from both parties, the Supreme Court point
 
 ---
 
-### ගම්පිලගේ ප්‍රකාශය කන්දක් විලිලා මීයෙක් වැදුවා වගෙයි
+### Gampha's statement was like a mountain of a mountain
 
 *2024-10-22 21:38:45* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පිලගේ-ප්‍රකාශය-කන්දක්-විලිලා-මීයෙක්-වැදුවා-වගෙයි/11-412618) · `si`
 
-උදය ගම්මන්පිළ පසුගියදා පාස්කු ප්‍රහාරය පිළිබඳව සිදු කළ හෙළිදරව් කිරීම විශාල කාළබෝම්බයක් වේ යැයි තමන් බලාපොරොත්තු වූවත් එය කන්දක් විළිළා මීයෙක් වැදුවා වගේ වූ බවත් රටේ ජනතාව එම ප්‍රකාශ ගනන් ගන්නේ නැති බවත්  ප්‍රවීන රංගන ශිල්පි රන්ජන් රාමනායක මහතා 10/22 දින පෙරවරුවේ  මීගමුව ඇවෙන්ඩ්‍රා ගාර්ඩන් හෝටලයේ පැවති එක්සත් ප්‍රජාතන්ත්‍රවාදී හඩ පක්ෂයේ වැඩමුළුවක දී පැවසීය.
+Here's a 200-character summary:
 
-නව රජය බලයට පත් වී තවමත් මාසයක කාලයක් සම්පූර්ණ වී නොමැති මෙවන් අවස්ථාවක රජයටත් යම් කලයක් අවස්ථාවක් ලබා දිය යුතු බව තම පක්ෂයේත් , තමාගේත් පෞද්ගලික අදහස බව රන්ජන් රාමනායක මහතා පැවසීය .
 
-පසුගිය පොදු පෙරමුණු ආණ්ඩුව බලයට පත් වූයේ ද "පාස්කු ප්‍රහාරය" විකුණා ගෙන බවත් එම රජයේ අමාත්‍යවරයෙකු වූ උදය ගම්මන්පිළ තම රජය බලයට පත් කර ගැනීමට " ජාතික ආරක්ෂාව " ද විකුණා ගත් බව ද අවධාරණය කළේය.
 
-තම පක්ෂය ශ්‍රී ලංකාවේ දිස්ත්‍රික් 09 කට පමණක් තරග කරන බවත් , ඒ අනුව ගම්පහ දිස්ත්‍රික්කය සදහා තරග කරන අපේක්ෂකයන් සදහා මෙම වැඩමුළුව පවත්වන බවත් පැවසීය .
+Easque Gammanpila made significant claims about the new government. Ranjan Ramanayake criticized the government's response time. Udaya Gammanpala was involved in the Passover attack sale. The party plans to contest 9 districts, starting with Gampaha. UNP officials attended the event.
 
-...
+🟩
+
+The people of the country have noted that the revelation of the Easque Gammanpila was a large number of claims that the people were expected to be held recently.He said at a workshop party workshop party.
+
+Ranjan Ramanayake said that when the new government came to power and had not yet completed a month, the government should also respond to his personal or her personal idea.
+
+The government's president came to power that the Passover attack was sold and sold to the government minister Udaya Gammanpala, a government minister, Udaya Gammanpala.
+
+He said his party will contest for 9 districts in Sri Lanka and the workshop will be held for the Gampaha district.
+
+The United Democratic Acid Party Media Spokesperson Ravi, Kududeschy, National Organizer of the UNP, was also present at the occasion.
+
+◼️
 
 [Data](articles/aac2fbb8.json)
+
+[Extended Data](ext_articles/aac2fbb8.ext.json)
 
 ---
 
@@ -2329,27 +2361,5 @@ The Ministry of Defense has announced that legal action will be taken if the gun
 [Data](articles/21201841.json)
 
 [Extended Data](ext_articles/21201841.ext.json)
-
----
-
-### Two passenger bus collide - 28 hospitalized
-
-*2024-10-22 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202432) · `si`
-
-Two passenger buses collided near Avissawella, injuring 28. Accident occurred during journey from Colombo to Embilipitiya.
-
-🟩
-
-About 28 persons were injured in two afternoon of two private passenger buses and two private passenger buses have collided.
-
-The accident had occurred near the Deviliya area in Avissawella police force.
-
-The accident occurred when a private bus was traveling from Colombo to Sooriyawewa from Colombo to Embilipitiya to Embilipitiya to Embilipitiya to Colombo.
-
-◼️
-
-[Data](articles/eb9d1896.json)
-
-[Extended Data](ext_articles/eb9d1896.ext.json)
 
 ---

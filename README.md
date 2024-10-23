@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 11:40:11**
+As of **2024-10-23 11:59:41**
 
 ## Newspaper Stats
 
-*Scraped **50,875** Articles*
+*Scraped **50,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 410
 colombotelegraphcom | 509
 bbccomsinhala | 514
 islandlk | 3,030
-economynextcom | 3,108
+economynextcom | 3,112
 dailyftlk | 3,474
-adalk | 4,725
+adalk | 4,726
 dailymirrorlk | 4,733
 adaderanalk | 6,031
-tamilmirrorlk | 6,999
+tamilmirrorlk | 7,001
 virakesarilk | 8,152
 adaderanasinhalalk | 8,827
 
@@ -26,11 +26,89 @@ adaderanasinhalalk | 8,827
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,875 (100.0%) of 50,875 articles have been extended.
+50,881 (100.0%) of 50,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### The new leader of the Hizbullah telephone system is also killed?
+
+*2024-10-23 11:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹிஸ்புல்லா-அமைப்பின்-புதிய-தலைவரும்-உயிரிழப்பு/50-345914) · `ta`
+
+Israeli military claims Hashem Sabidin, newly elected Hezbollah leader, killed. Hezbollah denies report. Conflict escalates between Israel and Hezbollah in Lebanon.
+
+🟩
+
+The Israeli military has said that Hashem Sabidin, who was elected as the new leader of the Hizbullah movement, has also been killed.
+
+The Hizbullah movement operating in Lebanon in the war between Israel-Kasa's Hamas Organization is in favor of Hamas. The movement is attacking Israel.
+
+Israel is also actively attacking Lebanon. Hasbullah Movement President Hasan Nasrallah and the main commanders of the movement have been killed.
+
+Hashem Sabideen was elected as the new leader of the Hizbullah movement after Nasrallah was killed. Meanwhile, it has been reported that Sabitin has also been killed.
+
+On the 8th of this month, Israeli Prime Minister Netanyahu said that Hizbullah's next leaders were killed.
+
+But Hashem does not mention the name of Sabidin. The military has confirmed the killing of Hashem Sabidin.
+
+However, it is noteworthy that the Hizbullah movement has not yet confirmed this message.
+
+◼️
+
+[Data](articles/a2898dd2.json)
+
+[Extended Data](ext_articles/a2898dd2.ext.json)
+
+---
+
+### Problem
+
+*2024-10-23 11:31:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவைப்-பிணை-எடுத்தவர்களுக்கு-சிக்கல்/175-345913) · `ta`
+
+Colombo High Court sentences Rajitha Asantha under Prevention of Money Laundering Act for failing to disclose 10 million assets from heroin trafficking. Tushara Indrajit, Aila Fernando, Mohamed Igram charged Rs 3 million each for failing to produce accused in court.
+
+🟩
+
+The Colombo High Court has sentenced Rajitha Asantha, who is not attending a court hearing, has been fined Rs.
+
+Rajitha Asantha has been charged under the Prevention of Money Laundering Act for failing to make public about 10 million assets and property earned by heroin trafficking.
+
+When the accused was produced before the court, Tushara Indrajit, Aila Fernando and Mohamed Igram were present on bail for the accused.
+
+It was reported in court that all three had signed up to 10 million worth of bail.
+
+However, the defendant did not attend his trial, and the three bodybuilders were summoned to court.
+
+During a recent court hearing, the Colombo High Court judge pointed out that if a suspect or accused, if a person appears on bail, is obliged to appear in court.
+
+As the trio failed to produce the culprits in court, each of them was charged with Rs 3 million and a total of Rs.
+
+◼️
+
+[Data](articles/1720d9ff.json)
+
+[Extended Data](ext_articles/1720d9ff.ext.json)
+
+---
+
+### G24 Director calls for debt talks framework for Sri Lanka and middle-income countries
+
+*2024-10-23 11:30:00* · [`economynextcom`](https://economynext.com/g24-director-calls-for-debt-talks-framework-for-sri-lanka-and-middle-income-countries-184508/) · `en`
+
+ECONOMYNEXT – The Director of the Group of 24 (G24), Iyabo Masha, has called for the establishment of a comprehensive debt resolution framework for middle-income countries, emphasising its relevance for nations like Sri Lanka, which continues to grapple with debt sustainability challenges.
+
+“I would say that Sri Lanka has come a long way from where it was 2 years ago. The last IMF Article IV Consultation assessment does show that growth is picking up, that fiscal buffers are coming up, and also import duties are rising, so that indicates that the countries are making some recovery,” Masha stated, highlighting the gradual economic progress Sri Lanka has achieved.
+
+She further stressed that while Sri Lanka’s economic recovery is underway, addressing its substantial debt burden remains a priority.
+
+...
+
+[Data](articles/ae1d5d64.json)
+
+[Extended Data](ext_articles/ae1d5d64.ext.json)
+
+---
 
 ### The price of gold touched the peak in Sri Lanka
 
@@ -103,6 +181,30 @@ Moreover, former minister Udaya Kammanpila seems to have joined the contract to 
 [Data](articles/71830583.json)
 
 [Extended Data](ext_articles/71830583.ext.json)
+
+---
+
+### Sri Lanka boosting tourist security amid Middle East war, police hotline 1997
+
+*2024-10-23 11:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-boosting-tourist-security-amid-middle-east-war-police-hotline-1997-184510/) · `en`
+
+ECONOMYNEXT – Sri Lanka is beefing up tourist security amid wars Middle East and Europe, police said as the US embassy warned of credible information on attacks in the Arugam Bay, an area where there has been a surge in Israeli tourists.
+
+The US Embassy said Wednesday that  received “credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.”
+
+Tourist industry sources say small areas have sprung with high concentration of Israeli visitors and establishments catering to them.
+
+RELATED US warns citizens off Sri Lanka’s Arugam Bay citing possible attack
+
+Israel has attacked the Gaza strip killing thousands of women and children drawing charges of genocide as it sought to eliminate the Hamas group that runs the area. A new front has also been opened in Lebanon, targeting the Hezbollah group, leading to more civilian deaths.
+
+Over the past year or more Sri Lanka has also seen an influx of Russian and Ukrainian tourists.
+
+...
+
+[Data](articles/a44bfdf2.json)
+
+[Extended Data](ext_articles/a44bfdf2.ext.json)
 
 ---
 
@@ -216,6 +318,28 @@ The Colombo High Court today issued an arrest warrant on former Minister Johnsto
 
 ---
 
+### University student falls from hostel
+
+*2024-10-23 10:42:45* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-සිසුවා-නේවාසිකාගාරයෙන්-වැටී-ජීවිතක්ෂයට/11-412623) · `si`
+
+Student dies after falling from 4th floor of University of Kelaniya hostel. Identified as Prince Raju Bandara, 20, from Ridimaliyadda. Injured student admitted to Kiribathgoda hospital but succumbed to injuries. Incident occurred in Kannangara hostel, where student resided in room 416.
+
+🟩
+
+University of Kelaniya University. W. W.W.. A student has died after fourth floor of the Kannangara hostel.
+
+The deceased has been identified as Prince Raju Bandara, a resident of Ridimaliyadda, who built the Faculty of the Department of Commerce and Management Studies of the University of Kelaniya.A young man.
+
+The student who was known in the University of Sanda, Sanda, was residing in the 416-year-old room at the Kannangara hostel.The injured student has been admitted to the Kiribathgoda hospital but he died before he was treated.
+
+◼️
+
+[Data](articles/d6dcc84c.json)
+
+[Extended Data](ext_articles/d6dcc84c.ext.json)
+
+---
+
 ### The university student dies from the hostel
 
 *2024-10-23 10:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடுதியில்-இருந்து-விழுந்த-பல்கலைக்கழக-மாணவன்-மரணம்/175-345905) · `ta`
@@ -273,6 +397,26 @@ The case was taken up before Colombo High Court Judge Manjula Tilakaratne and he
 [Data](articles/f2bd1105.json)
 
 [Extended Data](ext_articles/f2bd1105.ext.json)
+
+---
+
+### Sri Lanka to review deals signed by previous govt after election
+
+*2024-10-23 10:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-review-deals-signed-by-previous-govt-after-election-184497/) · `en`
+
+ECONOMYNEXT – Sri Lanka will review each deal signed under the previous government individually after the parliament election and it will not go for any new deal during the current interim government, Cabinet Spokesman Vijitha Herath said.
+
+President Anura Kumara Dissanayaka has vowed to review all the deals the government has signed in the past amid allegations over corruption and misappropriation of public funds.
+
+During his presidential campaign, he promised strong anti corruption measures and to review deals that have been tainted with corruption allegations.
+
+However, he is now heading an interim government with a three-member cabinet ahead of November 14 parliamentary elections.
+
+...
+
+[Data](articles/34bdf801.json)
+
+[Extended Data](ext_articles/34bdf801.ext.json)
 
 ---
 
@@ -391,6 +535,30 @@ Foreign tourist arrivals to Sri Lanka, foreign tourist arrests, the exciting sta
 [Data](articles/900c2fb5.json)
 
 [Extended Data](ext_articles/900c2fb5.ext.json)
+
+---
+
+### US warns citizens off Sri Lanka’s Arugam Bay citing possible attack
+
+*2024-10-23 09:56:00* · [`economynextcom`](https://economynext.com/us-warns-citizens-off-sri-lankas-arugam-bay-citing-possible-attack-184485/) · `en`
+
+ECONOMYNEXT  – The United States embassy has asked nationals to avoid Arugam Bay in Sri Lanka’s Eastern Coast, a popular tourist destination, saying there is credible information of an attack.
+
+“The Embassy received credible information warning of an attack targeting popular tourist locations in the Arugam Bay area,” the US embassy said in notice on its website.
+
+“Due to the serious risk posed by this threat, the Embassy imposed a travel restriction on Embassy personnel for Arugam Bay effective immediately and until further notice.
+
+“U.S. citizens are strongly urged to avoid the Arugam Bay area until further notice.”
+
+The embassy did not give a reason, but the areas has seen an influx of Israeli visitors of late.
+
+Sri Lanka’s police said it was deploying new measures to strenghten tourist security around the island working with intelligence services.
+
+The British travel advisory page for Sri Lanka also reproduced the warning issued by the US embassy.(Colombo/Oct23/2024)
+
+◼️
+
+[Data](articles/8f101067.json)
 
 ---
 
@@ -2133,177 +2301,5 @@ The Chairman of the Elections and its members of the Vanni district, including t
 [Data](articles/4eab3501.json)
 
 [Extended Data](ext_articles/4eab3501.ext.json)
-
----
-
-### “We can negotiate with IMF”
-
-*2024-10-22 18:56:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-உடன்-பேச்சுவார்த்தை-நடாத்த-எம்மால்-முடியும்/175-345868) · `ta`
-
-SJB Chairman Sajith Premadasa claims party can negotiate with IMF for Sri Lanka's benefit. Cites past failures of governments to engage with IMF. Emphasizes need for strong economic growth strategy due to repayment challenges by 2028.
-
-🟩
-
-United People's Power (SJB) Chairman Sajith Premadasa said his party could negotiate with the International Monetary Fund for the benefit of the people and that the past and current governments have failed to do so.
-
-Speaking at a meeting held in Borella, Premadasa stressed that the SJB has been involved in several discussions with the International Monetary Fund and has achieved many understanding.
-
-He added that Sri Lanka is struggling to repay the loan to pay by 2028 and that the economic situation is challenging and that a strong economic growth strategy is needed.
-
-◼️
-
-[Data](articles/b403689c.json)
-
-[Extended Data](ext_articles/b403689c.ext.json)
-
----
-
-### A program from the government bassing the price
-
-*2024-10-22 18:54:58* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-මිල-බස්සන්න-රජයෙන්-වැඩසටහනක්/11-412614) · `si`
-
-Government initiative: Mobile vehicle service selling coconuts at fixed prices (Rs. 100-Rs. 1000) to help affected consumers due to rising costs.
-
-🟩
-
-The Government has set up a mobile vehicle service to sell the coconut marketing customers who have affected consumers in the face of rising coconut prices. The government announces that the public can be able to buy coconuts from Rs. 100 to Rs. 1000.
-
-◼️
-
-[Data](articles/d6a499a4.json)
-
-[Extended Data](ext_articles/d6a499a4.ext.json)
-
----
-
-### China donates Rs. 30 million to Sri Lanka as emergency flood relief
-
-*2024-10-22 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102858/china-donates-rs-30-million-to-sri-lanka-as-emergency-flood-relief) · `en`
-
-The Chinese Ambassador to Sri Lanka, Qi Zhenhong, met with President Anura Kumara Dissanayake this afternoon (22) at the Presidential Secretariat in Colombo.
-
-During their meeting, Ambassador Qi made a donation of LKR 30 million (USD 100,000) as emergency flood relief to assist those affected by the recent flooding in the country, the President’s Media Division (PMD) stated.
-
-In addition to immediate relief measures, the discussion also extended to a dialogue about long-term flood prevention and management strategies, the statement said.
-
-They discussed sustainable approaches to enhance the resilience of communities against future flooding, it added.
-
-Recent reports indicate that heavy rains have led to significant flooding in several provinces, displacing thousands of families and causing extensive damage to infrastructure and agriculture.
-
-◼️
-
-[Data](articles/862df427.json)
-
-[Extended Data](ext_articles/862df427.ext.json)
-
----
-
-### US $ 30 million as emergency flood subsidy
-
-*2024-10-22 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202436) · `si`
-
-Chinese government donates USD 100,000 for Sri Lanka flood relief. Funds handed over to President Anura Kumara Dissanayake. Discussion on sustainable measures for future emergencies.
-
-🟩
-
-The Chinese government has donated Rs. 30 million (USD 100,000).
-
-That was to provide relief to the victims of the recent floods.
-
-Sri Lanka's Ambassador to Sri Lanka's Chinese Ambassador to President Anura Kumara Dissanayake, the Chinese Ambassador to President Mahinda Rajapaksa, has been officially handed over to the President.
-
-The meeting has also been discussed at the meeting with the prospect of emergency relief to disaster and prevent the prevention and management of floods.
-
-The Presidential Media Union stated that the Presidential Media Unit has also focused on sustainable reservation and methods that can be carried out in the future and to develop the possibility of improving such quality.
-
-◼️
-
-[Data](articles/de0f00b4.json)
-
-[Extended Data](ext_articles/de0f00b4.ext.json)
-
----
-
-### Vanni nomination rejection: Tomorrow's verdict
-
-*2024-10-22 18:42:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-வேட்பு-மனு-நிராகரிப்பு-நாளை-தீர்ப்பு/175-345867) · `ta`
-
-Supreme Court to deliver verdict on DNA nomination rejection case tomorrow. Election officer cited sections 19(1)(A), 15(4), and 15(5) of the Parliamentary Election Act as reasons for rejection. Lawyers representing both parties present in court.
-
-🟩
-
-The Vanni District Election Officer filed a writ petition against the decision of the Vanni District Election Officer who rejected the nomination papers filed by the Democratic National Alliance (DNA) in the Vanni district.
-
-The Supreme Court of the Supreme Court, comprising Justices Preethi Padman Surasena, Shiran Gunaratne and Achala Venkapuli, announced that the verdict of the case (reasons) was mentioned in the court tomorrow (23).
-
-The Election Officer announced that the nomination was rejected under Section 19 (1) (A) of the Parliamentary Election Act and did not meet the requirements specified under Section 19 (1) (A) and Section 15 (4) and 15 (5).
-
-At the instructions of Sanath Wijewardena, lawyers Namik Nafat, Shehni de Alwis and Sunaga Perera were also present for MUM Ali Sabri petitioners and Attorney Eresa de Silva for the Elections Commission.
-
-◼️
-
-[Data](articles/860345f9.json)
-
-[Extended Data](ext_articles/860345f9.ext.json)
-
----
-
-### No bad precedents before use state property
-
-*2024-10-22 18:40:54* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-දේපළ-භාවිතයේදී-පෙර-නරක-පූර්වාදර්ශ-එපා/11-412613) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-President Anura Kumara Dissanayake addresses provincial governors about implementing Provincial Council reforms. He emphasizes maintaining public trust, addressing healthcare and education vacancies, and ensuring efficient governance. The discussion covers state property usage, regional development, and agricultural issues.
-
-🟩
-
-Attention on Vacancies in Education and Health Employees under the Provincial Council
-
-The belief in the people of a new political culture should not be damaged
-
-President Anura Kumara Dissanayake informed the governors of the Provincial Governors to formulate and submit a proposal to regularize the Provincial Council mechanism.
-
-It was also decided to provide vacancies in health and education services under the Provincial Council, and it was also decided to provide effective solutions.
-
-The President also said to be able to provide the maximum service of the provincial councils to facilitate the quality of life of the people during the existing transition period.
-
-President Anura Kumara Dissanayake made these comments at a discussion with the governor of the Presidential Secretariat this morning.
-
-The President instructed the provincial governors to carry out all the interventions of the provincial councils to facilitate the lives of the people.
-
-...
-
-[Data](articles/1e422a3c.json)
-
-[Extended Data](ext_articles/1e422a3c.ext.json)
-
----
-
-### Allow Ranil to be referred to as defendant
-
-*2024-10-22 18:05:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலை-பிரதிவாதியாக-குறிப்பிட-அனுமதி/175-345865) · `ta`
-
-Supreme Court allows referring Ranil Wickremesinghe as defendant in Socialist Youth Association's petition against alleged attack on protests and violation of fundamental rights.
-
-🟩
-
-In a petition filed by the Socialist Youth Association for allegedly attacking the protest movement and violating fundamental rights, the Supreme Court on Tuesday (22) granted permission to refer to former President Ranil Wickremesinghe as defendant.
-
-In the petition of the Socialist Youth Association, which is allegedly violated, the Supreme Court has approved the amendment of the petition by the lawyer of the petitioners to refer to the former president as a defendant.
-
-High Court Judges. The petition was considered in the presence of a panel of High Court Judges, including Durairaja, Kumuduni Wickramasinghe and Priyantha Fernando.
-
-In a petition filed by a member of the Socialist Youth Association, Mahesh Hindu, the Group of Officers in charge of the Cinnamon Garden, Maradana and Kombancha Road Police Stations said.
-
-On September 27, the petitioner said that the petitioner Mahesh Hindu was arrested in Mahesh Hindu near Lipton, Colombo.
-
-...
-
-[Data](articles/bafd2cde.json)
-
-[Extended Data](ext_articles/bafd2cde.ext.json)
 
 ---

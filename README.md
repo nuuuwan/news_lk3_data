@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 22:57:58**
+As of **2024-10-23 23:10:43**
 
 ## Newspaper Stats
 
-*Scraped **51,005** Articles*
+*Scraped **51,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 4,747
 adaderanalk | 6,050
 tamilmirrorlk | 7,022
 virakesarilk | 8,174
-adaderanasinhalalk | 8,859
+adaderanasinhalalk | 8,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,005 (100.0%) of 51,005 articles have been extended.
+51,006 (100.0%) of 51,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### 10 school students leave tomorrow due to landslide risk
+
+*2024-10-23 22:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202489) · `si`
+
+Kurunegala school cancels classes due to landslide risk. 10 students granted holiday. Heavy rain prompts decision.
+
+🟩
+
+School authorities have decided to grant 10 holidays at the Kurunegala school tomorrow due to a landslide risk.
+
+All children in the Magican Maha Vidyalaya, who are in the inclement weather these days have decided to grant school leave tomorrow (24).
+
+There was a mound of a five-storey landslide behind the two storied building, which is maintained grade 06 and 8 of the Heijjawila Royal College.
+
+This decision has been taken by taking into consideration the heavy rain that occurred today.
+
+◼️
+
+[Data](articles/19ebbaad.json)
+
+[Extended Data](ext_articles/19ebbaad.ext.json)
+
+---
 
 ### Sri Lanka wins second match
 
@@ -2443,31 +2467,5 @@ Further investigations are underway under the leadership of Chief Inspector of P
 [Data](articles/9a7b9455.json)
 
 [Extended Data](ext_articles/9a7b9455.ext.json)
-
----
-
-### West Indies - Sri Lanka's second ODI today
-
-*2024-10-23 12:46:37* · [`adalk`](https://www.ada.lk/sports/කොදෙව්---ශ්‍රී-ලංකා-දෙවන-එක්දින-තරගය-අද/9-412629) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Today: West Indies vs Sri Lanka, 2nd ODI. Match at Pallekele Int'l Cricket Stadium, Kandy at 2:30 PM. Sri Lanka leads series 1-0."
-
-🟩
-
-The West Indies group and the Sri Lankan team will be held today (23).
-
-The match will be held at Pallekele International Cricket Stadium in Kandy today at 2.30 pm today.
-
-Sri Lanka won the first match between the two countries, the tournament is a zero.
-
-◼️
-
-[Data](articles/fd35fc1c.json)
-
-[Extended Data](ext_articles/fd35fc1c.ext.json)
 
 ---

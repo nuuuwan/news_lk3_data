@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 07:26:39**
+As of **2024-10-23 08:02:26**
 
 ## Newspaper Stats
 
-*Scraped **50,822** Articles*
+*Scraped **50,824** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 409
+dbsjeyarajcom | 410
 colombotelegraphcom | 509
 bbccomsinhala | 513
 islandlk | 3,030
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 6,020
 tamilmirrorlk | 6,987
 virakesarilk | 8,148
-adaderanasinhalalk | 8,816
+adaderanasinhalalk | 8,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,809 (100.0%) of 50,822 articles have been extended.
+50,815 (100.0%) of 50,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Shooting in Ratmalana Railway Yard
+
+*2024-10-23 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202446) · `si`
+
+Ratmalana Railway Yard shooting: Person injured, 5 suspects attacked by security, one hospitalized. Suspects fled scene.
+
+🟩
+
+At the time, a person suffered injuries in the Ratmalana Railway Yard today (23).
+
+The police media division said that five persons who had entered the stolen property have been attacked by a security duties.
+
+The suspects have been shot by a railway guard.
+
+One suspect was injured and other suspects were fled.
+
+The suspect was admitted to the Kalubowila hospital.
+
+◼️
+
+[Data](articles/f820d9b8.json)
+
+[Extended Data](ext_articles/f820d9b8.ext.json)
+
+---
 
 ### Showers over 75mm
 
@@ -160,6 +186,8 @@ Emphasises that a proper investigation must look into factors that drove attacke
 
 [Data](articles/9ecd185d.json)
 
+[Extended Data](ext_articles/9ecd185d.ext.json)
+
 ---
 
 ### China first with flood relief help
@@ -171,6 +199,8 @@ Chinese Ambassador Qi Zhenhong yesterday met with President Anura Dissanayake an
 ◼️
 
 [Data](articles/bf8f0b6a.json)
+
+[Extended Data](ext_articles/bf8f0b6a.ext.json)
 
 ---
 
@@ -188,6 +218,8 @@ The incident took place in September 2022, when the SYU organised a protest agai
 
 [Data](articles/3022c461.json)
 
+[Extended Data](ext_articles/3022c461.ext.json)
+
 ---
 
 ### Rise and fall of Ruhunu Rajapaksa dynasty
@@ -204,23 +236,31 @@ The incident took place in September 2022, when the SYU organised a protest agai
 
 ---
 
-### 21/4 விவகார அறிக்கைகள் குறித்து ஆராய்வு
+### A review of 21/4 affair reports
 
 *2024-10-23 04:05:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-விவகார-அறிக்கைகள்-குறித்து-ஆராய்வு/175-345894) · `ta`
 
-முன்னாள் பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில வெளியிட்டுள்ள அறிக்கைகள் உட்பட உயிர்த்த ஞாயிறு தாக்குதல் விசாரணை அறிக்கைகள் குறித்து அரசாங்கம் முழுமையான விசாரணைகளை ஆரம்பித்துள்ளதாக அமைச்சரவை பேச்சாளர் விஜித ஹேரத்  தெரிவித்துள்ளார்.
+Government investigates 2021 attacks claims. Cabinet denies political motives. No decision on new commission. Previous probes cleared officials. Supreme Court criticizes leadership failures. Compensation ordered but not enforced.
 
-இரண்டு அறிக்கைகளும் அரசியல் நோக்கத்துடனேயே வெளியிடப்பட்டுள்ளதாக  குறிப்பிட்டுள்ள அவர், அரசாங்கம் ஏற்கனவே விசாரணைகளை ஆரம்பித்துள்ளது. விசாரணைகள் பூர்த்தியான பின்னர் உரிய நடவடிக்கைகள் எடுக்கப்படும் என்றார்.
+🟩
 
-இதற்காக புதிய ஜனாதிபதி ஆணைக்குழுவை நியமிக்கவேண்டுமா என்பது குறித்து இன்னமும் தீர்மானிக்கவில்லை.எனினும் விசாரணைகளின் பின்னர் இது குறித்து தீர்மானிக்கப்படும்.
+Cabinet spokesman Vijitha Herath has said that the government has begun a thorough investigation into the resurrection reports made by former parliamentarian Udaya Kammanpila.
 
-2019 இல் நியமிக்கப்பட்ட ஜனாதிபதி ஆணைக்குழுவும், உயர்நீதிமன்றமும் இரண்டு சிஐடி உத்தியோகத்தர்கள் மீது எந்த குற்றச்சாட்டையும் சுமத்தவில்லை.
+He said the two reports were published with political motive, and the government has already begun investigations. He said appropriate action would be taken after the inquiries were completed.
 
-உயர்நீதிமன்றமும் ஆணைக்குழுவும் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன உட்பட பல அரசாங்க அதிகாரிகள் தாக்குதலை தடுக்க தவறியமையால் குற்றவாளிகள் என தெரிவித்திருந்தது. உரிய புலனாய்வு தகவல்கள் கிடைத்த போதிலும் அவர்கள் அதனை தடுத்து நிறுத்த தவறினார்கள் என நீதிமன்றம் தெரிவித்திருந்தது.
+It has not yet been decided whether to appoint a new Presidential Commission for this purpose.
 
-...
+The Presidential Commission appointed in 2019 and the Supreme Court have not charged two CIT officials.
+
+The Supreme Court and the Commission said that many government officials, including former President Maithripala Sirisena, failed to prevent the attack.. The court said that despite receiving appropriate intelligence, they failed to stop it.
+
+The court ordered them to pay compensation.. He said the government would not eliminate them.
+
+◼️
 
 [Data](articles/a46fb011.json)
+
+[Extended Data](ext_articles/a46fb011.ext.json)
 
 ---
 
@@ -455,6 +495,8 @@ This year’s seven-day rigorous workshop, held from September 28 to October 4, 
 ...
 
 [Data](articles/fc67250e.json)
+
+[Extended Data](ext_articles/fc67250e.ext.json)
 
 ---
 
@@ -2383,29 +2425,5 @@ Speaking at a media briefing in Borella, Archbishop, Fr.
 [Data](articles/3e10d243.json)
 
 [Extended Data](ext_articles/3e10d243.ext.json)
-
----
-
-### “The government will not accept the committee report”
-
-*2024-10-22 12:27:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழு-அறிக்கையை-அரசாங்கம்-ஏற்றுக்-கொள்ளாது/175-345843) · `ta`
-
-Government rejects committee report on Easter bombings. Minister claims panel focused solely on two officials. Committee deadline set before presidential election.
-
-🟩
-
-Retired Judge ANJ who fully explored Easter Sunday bombing. Minister Vijitha Herath says the government will not accept the report of the committee headed by the de Alwis -led committee.
-
-He said at a weekly media briefing to announce the Cabinet decisions that the committee was only aimed at the former Senior Deputy Inspector General of Police (DIG) Ravi Seneviratne and former CIT Director Shani Abeesekera at the retired police council of the National People's Power (NPP).
-
-The NPP's retired police council was formed on June 09, 2024, and three days after the retired police council was opened, the committee (Retired Judge ANJJ. He said the committee headed by D Alwis was appointed.
-
-The minister said the committee was already expected to submit its report on September 15, just before the presidential election within three months.
-
-◼️
-
-[Data](articles/4b39c236.json)
-
-[Extended Data](ext_articles/4b39c236.ext.json)
 
 ---

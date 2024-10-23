@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 17:23:50**
+As of **2024-10-23 17:40:32**
 
 ## Newspaper Stats
 
-*Scraped **50,958** Articles*
+*Scraped **50,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
 adalk | 4,738
-adaderanalk | 6,045
+adaderanalk | 6,046
 tamilmirrorlk | 7,015
 virakesarilk | 8,164
-adaderanasinhalalk | 8,844
+adaderanasinhalalk | 8,846
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,958 (100.0%) of 50,958 articles have been extended.
+50,961 (100.0%) of 50,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Former Minister Johnston Fernando remanded
+
+*2024-10-23 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102885/former-minister-johnston-fernando-remanded-) · `en`
+
+Former Minister Johnston Fernando, who was arrested by the CID over the incident of a luxury vehicle allegedly belonging to him found parked at a star-class hotel premises, has been remanded until October 30 by Colombo Fort Magistrate.
+
+◼️
+
+[Data](articles/b4b27611.json)
+
+[Extended Data](ext_articles/b4b27611.ext.json)
+
+---
+
+### Johnston remanded
+
+*2024-10-23 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202474) · `si`
+
+Former Minister Johnston Fernando remanded until Oct 30 after arriving at CID. Colombo High Court issues arrest warrant due to non-appearance in bribery case.
+
+🟩
+
+Former Minister Johnston Fernando was remanded until October 30, who was arrested by the Criminal Investigation Department.
+
+He was arrested after he arrived at the Criminal Investigation Department (CID) before he was arrested by the CID today (23).
+
+Former Minister Johnston Fernando had informed the Court of Appeal by his lawyer yesterday (22).
+
+Meanwhile, the Colombo High Court today issued a warrant to arrest former minister Johnston Fernando as he did not appeal to a case filed by the Bribery Commission.
+
+Johnston Fernando did not appear before the court when the case was taken up before Colombo High Court Judge Manjula Tilakaratne.
+
+◼️
+
+[Data](articles/81a40994.json)
+
+[Extended Data](ext_articles/81a40994.ext.json)
+
+---
+
+### Do you work with understanding?Do you work to the law?President asks President rice mill owners
+
+*2024-10-23 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202475) · `si`
+
+Sri Lanka's president denies rice shortage, urges local production over imports. Meeting with mill owners confirms domestic supply adequacy. Government increases fertilizer subsidies to boost cultivation.
+
+🟩
+
+President Anura Kumara Dissanayake says that there is no shortage of rice in the market, but there is no shortage of rice in the country.
+
+The President made this observation at a meeting held in Trincomalee today (23).
+
+"I met the rice mill owners yesterday. There is no shortage of rice in the country. Is this what a shortage of artificial rice has not been aware of them?Do you work to the law?Working with our first will. But if someone does not know if someone doesn't work out, we said the law was ready to work. There is no shortage of rice in the country. There is no shortage of rice in the country. Therefore, it does not import a rice from foreign tourism from foreign tourism. You grow. As a start, 15,000 allowance given to the fertilizer subsidy increased to 25,000. You have to build this country to get into the lands. "
+
+◼️
+
+[Data](articles/9bb2ea99.json)
+
+[Extended Data](ext_articles/9bb2ea99.ext.json)
+
+---
 
 ### Israel issues travel warning to parts of Sri Lanka over terrorism threat
 
@@ -2335,71 +2397,5 @@ Foreign tourist arrivals to Sri Lanka, foreign tourist arrests, the exciting sta
 [Data](articles/900c2fb5.json)
 
 [Extended Data](ext_articles/900c2fb5.ext.json)
-
----
-
-### US warns citizens off Sri Lanka’s Arugam Bay citing possible attack
-
-*2024-10-23 09:56:00* · [`economynextcom`](https://economynext.com/us-warns-citizens-off-sri-lankas-arugam-bay-citing-possible-attack-184485/) · `en`
-
-ECONOMYNEXT  – The United States embassy has asked nationals to avoid Arugam Bay in Sri Lanka’s Eastern Coast, a popular tourist destination, saying there is credible information of an attack.
-
-“The Embassy received credible information warning of an attack targeting popular tourist locations in the Arugam Bay area,” the US embassy said in notice on its website.
-
-“Due to the serious risk posed by this threat, the Embassy imposed a travel restriction on Embassy personnel for Arugam Bay effective immediately and until further notice.
-
-“U.S. citizens are strongly urged to avoid the Arugam Bay area until further notice.”
-
-The embassy did not give a reason, but the areas has seen an influx of Israeli visitors of late.
-
-Sri Lanka’s police said it was deploying new measures to strenghten tourist security around the island working with intelligence services.
-
-The British travel advisory page for Sri Lanka also reproduced the warning issued by the US embassy.(Colombo/Oct23/2024)
-
-◼️
-
-[Data](articles/8f101067.json)
-
-[Extended Data](ext_articles/8f101067.ext.json)
-
----
-
-### US Embassy warns citizens to avoid Arugam Bay due to ‘credible threat’
-
-*2024-10-23 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102869/us-embassy-warns-citizens-to-avoid-arugam-bay-due-to-credible-threat) · `en`
-
-The U.S. Embassy in Colombo has strongly advised its citizens to avoid the Arugam Bay area until further notice, citing credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.
-
-The Embassy says it has received credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.
-
-“Due to the serious risk posed by this threat, the Embassy imposed a travel restriction on Embassy personnel for Arugam Bay effective immediately and until further notice.”
-
-“U.S. citizens are strongly urged to avoid the Arugam Bay area until further notice,” the security alert said.
-
-◼️
-
-[Data](articles/4d4e95d9.json)
-
-[Extended Data](ext_articles/4d4e95d9.ext.json)
-
----
-
-### The US embassy warns that Arugam Bay area can attack
-
-*2024-10-23 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202453) · `si`
-
-US Embassy warning: Avoid Arugam Bay due to potential attacks. American citizens advised not to return to this coastal region.
-
-🟩
-
-The US embassy warns that Arugam Bay area can attack
-
-US citizens have warned the American embassy in Colombo to avoid returning to the Arugam Bay area.
-
-◼️
-
-[Data](articles/cb188894.json)
-
-[Extended Data](ext_articles/cb188894.ext.json)
 
 ---

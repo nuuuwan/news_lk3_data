@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 13:40:11**
+As of **2024-10-23 13:59:24**
 
 ## Newspaper Stats
 
-*Scraped **50,905** Articles*
+*Scraped **50,913** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 410
 colombotelegraphcom | 509
-bbccomsinhala | 514
+bbccomsinhala | 515
 islandlk | 3,030
 economynextcom | 3,114
 dailyftlk | 3,474
 adalk | 4,730
 dailymirrorlk | 4,733
-adaderanalk | 6,032
-tamilmirrorlk | 7,004
+adaderanalk | 6,035
+tamilmirrorlk | 7,008
 virakesarilk | 8,160
 adaderanasinhalalk | 8,832
 
@@ -26,11 +26,119 @@ adaderanasinhalalk | 8,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,905 (100.0%) of 50,905 articles have been extended.
+50,913 (100.0%) of 50,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Israel says it killed Nasrallah’s heir apparent
+
+*2024-10-23 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102876/israel-says-it-killed-nasrallahs-heir-apparent) · `en`
+
+The Israeli military say they killed the cleric tipped to succeed the late Hezbollah leader, Hassan Nasrallah, in an air strike nearly three weeks ago.
+
+Hashem Safieddine died in air strikes on the southern suburbs of the Lebanese capital, Beirut, according to the Israel Defense Forces (IDF).
+
+Hezbollah, a powerful Lebanese Shia Muslim organisation fighting Israel, has not confirmed Safieddine’s death.
+
+Its previous leader, Nasrallah, was killed by an Israeli air strike on Beirut on 27 September.
+
+After air strikes near the city’s airport on 4 October, Hezbollah officials said they had lost contact with Safieddine, while US media cited Israeli officials as saying the cleric had been the target of the bombing.
+
+Huge blasts shook the city that night, leaving plumes of smoke that could still be seen into the morning.
+
+...
+
+[Data](articles/742c56be.json)
+
+[Extended Data](ext_articles/742c56be.ext.json)
+
+---
+
+### Fake video to slander the military
+
+*2024-10-23 13:27:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவத்தினருக்கு-அவதூறு-ஏற்படுத்தும்-வகையில்-போலி-வீடியோ/175-345921) · `ta`
+
+Sri Lankan military reports fake videos slandering forces spread false information online. Military denies claims, calls for public vigilance against misinformation threatening national security.
+
+🟩
+
+The Sri Lankan military has reported that some of the military -related information on social networks has been published in the past few days, with slander for the military and to disgust the military without confidence in the military.
+
+In a statement issued by the military, he said, “Some have created these videos with the aim of promoting their personal social media accounts without properly confirming the false information provided by some members of the military.
+
+As stated in these videos, establishing the soldiers of military camps in new places is not a short -term end and this is part of the long -term project of the military's fitness and extent regulation.
+
+In addition, the operation is being carried out under the full supervision and guidance of the Army's Command and Administration, Commander of the Armed Forces, the Minister of Defense and the Ministry of Defense.
+
+...
+
+[Data](articles/0f08c03b.json)
+
+[Extended Data](ext_articles/0f08c03b.ext.json)
+
+---
+
+### Jaffna
+
+*2024-10-23 13:25:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-வேட்பாளர்-திடீர்-மரணம்/175-345920) · `ta`
+
+Candidate Senthivel Thamilinian dies suddenly in Jaffna hospital. He was contesting for Democratic National Alliance in local elections. Cause of death: untreated illness.
+
+🟩
+
+Senthivel Thamilinian, who is contesting in the Jaffna election district, died on Wednesday (23).
+
+Due to the sudden illness, he was admitted to the Jaffna Bodhana Hospital and died without treatment.
+
+The deceased young candidate contested the postal box of the Democratic National Alliance under the leadership of Anganan Ramanathan.
+
+◼️
+
+[Data](articles/3c304b4f.json)
+
+[Extended Data](ext_articles/3c304b4f.ext.json)
+
+---
+
+### 10 foreign nationals sentenced to death for heroin smuggling
+
+*2024-10-23 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102875/10-foreign-nationals-sentenced-to-death-for-heroin-smuggling-) · `en`
+
+The Negombo High Court has sentenced to death 10 foreigners, including 9 Iranians and a Pakistani national, for the possession and smuggling of 146 kg of heroin in 2016.
+
+◼️
+
+[Data](articles/089f9726.json)
+
+[Extended Data](ext_articles/089f9726.ext.json)
+
+---
+
+### The boy tried to bathe in the fire
+
+*2024-10-23 13:15:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தீயில்-குளித்து-தன்னுயிரை-மாய்க்க-சிறுவன்-முயற்சி/76-345919) · `ta`
+
+Boy sets self on fire during family dispute. 12-year-old hospitalized after attempted suicide. Police investigating incident in Bogawantalawa.
+
+🟩
+
+The 12 -year -old boy, the incident where he was setting fire to himself, Bogawantalawa. Bogawantalawa police said that the plantation area was held at around 10 pm on Tuesday (22).
+
+On the day of the incident, there was a fight between the father and the mother. Initial investigations have revealed that the boy warned that he was setting fire to his mother.
+
+The boy, who was suffering from burns, has been admitted to the Dikoya-Klangan Base Hospital for further treatment after being admitted to the District Hospital, Bogawantalawa.
+
+Investigations have also revealed that the company does not go to school and is an intermittent student.
+
+◼️
+
+[Data](articles/90332e15.json)
+
+[Extended Data](ext_articles/90332e15.ext.json)
+
+---
 
 ### Ready to play with 'Tilskup' in politics - Tilson
 
@@ -123,6 +231,52 @@ The American Embassy in Sri Lanka has been told to leave the country as a result
 [Data](articles/574fabba.json)
 
 [Extended Data](ext_articles/574fabba.ext.json)
+
+---
+
+### UK updates travel advice for Sri Lanka
+
+*2024-10-23 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102874/uk-updates-travel-advice-for-sri-lanka) · `en`
+
+The United Kingdom (UK) has updated its travel advice for Sri Lanka based on the latest travel alert issued by the U.S. Embassy regarding potential threats in the Arugam Bay area.
+
+The U.S. Embassy in Colombo today issued a security alert for American citizens in Sri Lanka strongly advising them to avoid the Arugam Bay area until further notice, citing credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.
+
+The Embassy says it has received credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.
+
+“Due to the serious risk posed by this threat, the Embassy imposed a travel restriction on Embassy personnel for Arugam Bay effective immediately and until further notice.”
+
+“U.S. citizens are strongly urged to avoid the Arugam Bay area until further notice,” the security alert said.
+
+...
+
+[Data](articles/e57a7176.json)
+
+[Extended Data](ext_articles/e57a7176.ext.json)
+
+---
+
+### 9 boys abuse: Piku arrested
+
+*2024-10-23 12:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/9-சிறுவர்கள்-துஷ்பிரயோகம்-பிக்கு-கைது/76-345918) · `ta`
+
+Pikku arrested for abusing 5 grade 9 boys. Police investigation ongoing. Children hospitalized for medical exam.
+
+🟩
+
+Complete police said that a man of Vihara had been arrested on charges of abusing five students of a popular school.
+
+The Kalanayan police said that the Kalanai police have arrested Pikku on a complaint lodged by the police after the children who were abused by school teachers and parents informed them.
+
+The police said that complaints have been received that five boys who are studying in grade 9 in the school are located near the same school.. The children have been admitted to the Kalayan Base Hospital for medical examination, Kalanai police said.
+
+Further investigations are underway under the leadership of Chief Inspector of Police Vasantha Herath in connection with the incident.
+
+◼️
+
+[Data](articles/9a7b9455.json)
+
+[Extended Data](ext_articles/9a7b9455.ext.json)
 
 ---
 
@@ -1726,6 +1880,34 @@ The suspect was admitted to the Kalubowila hospital.
 
 ---
 
+### Sri Lanka - West Indies: How rain will tour Pallekele Stadium today?
+
+*2024-10-23 06:48:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20n4njy905o) · `si`
+
+Heavy showers forecasted for Western, Sabaragamuwa, Southern and Northwestern provinces. Rainfall exceeding 100mm possible. Impact on cricket match uncertain but more significant in western regions. Meteorologist expects reduced rainfall in Kandy area but cautions against complete dismissal of rain possibility.
+
+🟩
+
+Sri Lanka - West Indies: How rain will tour Pallekele Stadium today?
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and Northwestern provinces and in the Mannar district.. Heavy showers exceeding 100, the Met Department said.
+
+The department said this in announcing an announcement on heavy rains.
+
+In addition, during the evening or night, during the evening, there will be showers at night in the evening or night.
+
+In response to the Meteorological Department, the Meteorologist Kasun Pascuel said the Meteorologist was looking to increase the increase in the western part of Sri Lanka.
+
+"The western part of Sri Lanka is from Puttalam, Kurunegala, Western Province, Sabaragamuwa Province, Galle and Matara can also raise heavy rains in the Hambantota district. Currently we have issued a warning announcement that can come up with over 100, in those areas. There is a specific weather condition. Most times, there is a heavy rainy rainy. "
+
+...
+
+[Data](articles/6cf9456c.json)
+
+[Extended Data](ext_articles/6cf9456c.ext.json)
+
+---
+
 ### Simplifying personal income taxes
 
 *2024-10-23 06:37:26* · [`dailyftlk`](https://www.ft.lk/columns/Simplifying-personal-income-taxes/4-768307) · `en`
@@ -2097,211 +2279,5 @@ He said only a group of representatives comprising the senior officers of the Fo
 [Data](articles/554fb60c.json)
 
 [Extended Data](ext_articles/554fb60c.ext.json)
-
----
-
-### We are not going to get sorch
-
-*2024-10-23 03:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-சோரம்-போகவில்லை/175-345893) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil National People's Front leader contests Mannar seat, vows no corruption, seeks full support for election victory.
-
-🟩
-
-The party's Mannar district candidate Somanathan Prasad said that the Tamil National People's Front was a movement that continued to voice the rights of the people after the end of the war in 2009.
-
-The media meeting organized by the Mannar Branch of the Tamil National People's Front (TNA) was held in Mannar on Tuesday (22).
-
-He said this while participating in the event. As he added,
-
-For the past 15 years since the silence of the war, our party has been traveling unchanged without any corruption scandals.
-
-We are not going for any concessions and concessions. It is the only witness to our integrity. Our leadership is a firm leadership.
-
-I am contesting from Mannar in the Vanni electorate on behalf of our party in the upcoming parliamentary elections.
-
-Our people have to give me full support.. We are asking for people's decree today. So pay me your vote and make me win, ”he added.
-
-◼️
-
-[Data](articles/1b61dbba.json)
-
-[Extended Data](ext_articles/1b61dbba.ext.json)
-
----
-
-### We will edit together if the majority is available
-
-*2024-10-23 03:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்பான்மை-கிடைத்தால்-இணைந்து-திருத்துவோம்/175-345892) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Expectations rise as Anura Kumara Dissanayake's government prepares to discuss tax reform with IMF. Sajith Premadasa vows to reduce direct and indirect taxes, citing unfair practices under previous administration. United People's Power promises to modify IMF agreements to alleviate burdens on citizens.
-
-🟩
-
-People expected that the improper taxation implemented by the former president -led government will soon change. People expected that the government of Anura Kumara Dissanayake would discuss the tax system in discussion with the IMF.. They have to change what they said, not just in speech but also in practice. Sajith Premadasa said millions of people are expecting their direct and indirect taxes to be reduced.
-
-After giving the majority of the majority in Parliament, the United People's Power Council will work with the President and change the anti -people rules in the IMF (IMF) agreement and not bring the burden to the people from the people.Sajith Premadasa, the coalition leader and leader.
-
-...
-
-[Data](articles/51ba1e3e.json)
-
-[Extended Data](ext_articles/51ba1e3e.ext.json)
-
----
-
-### We are traveling with alternative ideas
-
-*2024-10-23 03:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றுக்-கருத்துகளுடனே-நாங்கள்-பயணிக்கின்றோம்/175-345891) · `ta`
-
-Candidate contests election with alternative ideas, promising solutions to local issues like worker pay, pension problems, road maintenance, and unemployment. Claims to address challenges faced by political parties in the region.
-
-🟩
-
-"We have come to contest this parliamentary election with a variety of alternative ideas that are possible," said Wimalasanthan Tanarupan, a Samimalai Ruben, who is contesting in the Independent Committee in the Nuwara Eliya district. "
-
-"Even if everyone wants a change in the scholar, we must come up with a change. We have come forward to make that change on that basis."
-
-There are many issues in the Nuwara Eliya district, for example, not only the payroll issue of plantation workers, but also the problems of the EPF and the ETF, as well as the renovation of the hill roads, and the unemployment problems.
-
-Therefore, if we are selected, we will solve these problems.When the journalist questioned what the reason for you to contest independently, though many political parties in the Nuwara Eliya district ...
-
-...
-
-[Data](articles/7e9579f2.json)
-
-[Extended Data](ext_articles/7e9579f2.ext.json)
-
----
-
-### The new session will not be represented 225
-
-*2024-10-23 03:34:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமர்வில்-225-பிரதிநிதித்துவம்-இருக்காது/175-345890) · `ta`
-
-New session lacks full representation due to delayed appointments. Elections Commissioner warns of incomplete 225-member Parliament on Nov 21. National List MP nominations must be submitted promptly to ensure full attendance.
-
-🟩
-
-Elections Commissioner Saman Sri Ratnayake said that if the political parties delayed the appointment of representatives to the National List Member of Parliament after the public election results, there would be no full representation of 225 members when the Parliament met on November 21.
-
-He added that the votes will be released on November 15 or 16, and the national list of parliamentary members will be given to each party and independent committee based on the votes received.
-
-Speaking at a media briefing in Kandy, the Election Commissioner General Ratnayake said that there is about a week between the date of the election and the date of parliament and the names of MPs appointed as people who have been appointed as people's representatives on November 18 or 19.
-
-...
-
-[Data](articles/651773f7.json)
-
-[Extended Data](ext_articles/651773f7.ext.json)
-
----
-
-### I am a tiger
-
-*2024-10-23 03:11:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுங்கியிருந்து-பாயும்-புலி-நான்/175-345889) · `ta`
-
-Anusha Chandrasekaran, candidate for Nuwara Eliya district, emphasizes her commitment to improving hill country. She criticizes previous leaders' lack of progress and promises better education and services. Her campaign focuses on supporting local youth and ensuring a brighter future for hill country residents.
-
-🟩
-
-As a woman I take up the hilltop. We have the responsibility of treating the hill country properly. That is why I am in the Mike Emblem this time, ”said Anusha Chandrasekaran, candidate for the Nuwara Eliya district of the National Voice of the party.
-
-This time, I am in the Mike Emblem through the United Democratic Voice. Many opposite sides say I have been running after the election last time. But, not so. I don't run away. Not as well as. I am in the same hill country.
-
-My father failed when he asked for election in 1989. First he got the failure. Early members know that. Until 1994, he was jailed because of political revenge.
-
-If one thinks new in the hill country will make him political revenge. After the last time I heard the election, I had a lot of political casualties.
-
-Made revenge on those who worked for us. So I thought I had to be silent;Sometimes in some politics we have to be silent. That's what I did.
-
-I was hiding in the parliamentary election when I was hiding.
-
-...
-
-[Data](articles/fd261906.json)
-
-[Extended Data](ext_articles/fd261906.ext.json)
-
----
-
-### TNA
-
-*2024-10-23 03:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்கட்சி-இம்முறை-அதிகமாக-கைப்பற்றும்/175-345888) · `ta`
-
-TNA seeks more seats in parliament to increase bargaining power. Former mayor aims to expand Batticaloa city authority to district level. Promises economic development through agriculture, fishing, and other initiatives. Aims to provide support for war widows and combat poverty. Emphasizes importance of choosing honest, efficient MPs. Supports Tamil nationalism but opposes actions against it.
-
-🟩
-
-It is only when the TNA seizes more seats is the bargaining force in Parliament.. Thiagarajah Saravanapavan, former mayor of the Batticaloa Municipal Council, said that the district candidate of the Batticaloa Municipal Council, who is contesting the parliamentary election on behalf of the Sri Lankan Tamil party.
-
-I had been working as the Chief Minister of the Batticaloa Municipality for 5 years. I am contesting this parliamentary election so that the authority I got to the Batticaloa city should be expanded to the district. When we win this election, our projects will be classified with our cooperation with our resources such as agriculture, fishing and other economic development activities.
-
-...
-
-[Data](articles/186a9f4e.json)
-
-[Extended Data](ext_articles/186a9f4e.ext.json)
-
----
-
-### Adding money in schools 'headaches'
-
-*2024-10-23 02:22:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwylyl0900qo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Money collection headaches in Sri Lankan schools. Parents burdened with excessive fees and donations. Ministry circulars attempt to stop illegal collections. Parents struggle with financial demands affecting education quality.
-
-🟩
-
-Minister of Education at the age of 1943, Dr. CWW. The Free Education Bill was introduced by Kannangara at the State Council. After many debates, it was approved to implement it and the free education policy was implemented on October 1, 1945.
-
-Due to that free education policy, many people have the opportunity to study free education.
-
-However, due to raising money in the schools in Sri Lanka, the parents have been able to send their children to their children economically and mentally.
-
-In some schools, some schools have been created to provide multiple gifts to teachers and money collection in schools have been created to provide multiple gifts.
-
-The man said that his daughter was studying at a major school in Colombo expressed his parents' education, he told BBC Sinhala on the promise of not revealing his identity.
-
-He further stated that the teachers have even given their food even their food at present.
-
-...
-
-[Data](articles/7a9a033d.json)
-
-[Extended Data](ext_articles/7a9a033d.ext.json)
-
----
-
-### 2024-10-22 (Tuesday)
-
-### ‘Ice’, ‘Mandy’ and Kush found in parcels sent to Sri Lanka
-
-*2024-10-22 23:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102861/ice-mandy-and-kush-found-in-parcels-sent-to-sri-lanka) · `en`
-
-Police Narcotics Bureau (PNB) officers at the Bandaranaike International Airport (BIA) in Katunayake have seized large quantities of a variety of drugs including ‘Ice’, ‘Mandy’ and Kush cannabis concealed in seven parcels which were sent to the country via air cargo from several foreign countries.
-
-Following information received from an air freight company at the BIA premises, the PNB officers had opened and inspected the suspicious parcels at the air freight company yesterday (21).
-
-Accordingly, upon inspection in total 07 kg and 21 g of ‘Ice’ (Crystal Methamphetamine), 01 kg and 338 g of ‘Mandy,’ a synthetic chemical drug also known as MDMA, and 01 kg and 143 g of ‘Kush’ cannabis were found concealed in seven parcels.
-
-The Police Narcotics Bureau is conducting further investigations to arrest the suspects who had imported the drugs into the country.
-
-◼️
-
-[Data](articles/c9f40329.json)
-
-[Extended Data](ext_articles/c9f40329.ext.json)
 
 ---

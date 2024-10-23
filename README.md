@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 01:08:58**
+As of **2024-10-24 01:23:55**
 
 ## Newspaper Stats
 
-*Scraped **51,014** Articles*
+*Scraped **51,015** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,40 @@ dailymirrorlk | 4,733
 adalk | 4,748
 adaderanalk | 6,050
 tamilmirrorlk | 7,023
-virakesarilk | 8,175
+virakesarilk | 8,176
 adaderanasinhalalk | 8,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,014 (100.0%) of 51,014 articles have been extended.
+51,015 (100.0%) of 51,015 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-24 (Thursday)
+
+### Landslide in Matara;The school that gave holidays to 10 classes
+
+*2024-10-24 01:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/196957) · `ta`
+
+Matara landslide forces school holiday for 10th graders due to safety concerns. Grade 06 and 08 students also affected. Incident occurred behind two-storey building.
+
+🟩
+
+School authorities have decided to grant a holiday on Thursday (24) for 10th grade students of a school due to the risk of landslides in Matara.
+
+Due to the inclement weather these days, all the children who are studying in Grade 06 and 08 at the Telajjila Raja Maha Vidyalaya have decided to grant school holidays on Thursday (24th).
+
+A slightly landslide has occurred in the back of the two -storey building running the Grade 06 and 08 Grade 08 and 08.
+
+◼️
+
+[Data](articles/d4a0f2ac.json)
+
+[Extended Data](ext_articles/d4a0f2ac.ext.json)
+
+---
 
 ### 2024-10-23 (Wednesday)
 
@@ -2447,19 +2471,5 @@ The Negombo High Court has sentenced to death 10 foreigners, including 9 Iranian
 [Data](articles/089f9726.json)
 
 [Extended Data](ext_articles/089f9726.ext.json)
-
----
-
-### 10 foreign nationals sentenced to life in prison for heroin smuggling
-
-*2024-10-23 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102875/10-foreign-nationals-sentenced-to-life-in-prison-for-heroin-smuggling-) · `en`
-
-The Negombo High Court has sentenced 10 foreigners, including 9 Iranians and a Pakistani national, to life imprisonment for the possession and smuggling of 146 kg of heroin in 2016.
-
-◼️
-
-[Data](articles/89f47f37.json)
-
-[Extended Data](ext_articles/89f47f37.ext.json)
 
 ---

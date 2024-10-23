@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 22:26:23**
+As of **2024-10-23 22:40:04**
 
 ## Newspaper Stats
 
-*Scraped **51,002** Articles*
+*Scraped **51,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 3,030
 economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
-adalk | 4,746
+adalk | 4,747
 adaderanalk | 6,050
 tamilmirrorlk | 7,022
 virakesarilk | 8,174
-adaderanasinhalalk | 8,857
+adaderanasinhalalk | 8,859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,002 (100.0%) of 51,002 articles have been extended.
+51,004 (100.0%) of 51,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### දෙවෙනි තරගයේ ජයත් ශ්‍රී ලංකාවට
+
+*2024-10-23 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202488) · `si`
+
+බටහිර ඉන්දිය කොදෙව් කණ්ඩයම සමග අද (23) පැවැති දෙවැනි එක්දින තරගය කඩුලු 5කින් ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
+
+තරගයේ පළමුව පන්දුවට පහරදුන් බටහිර ඉන්දීය කොදෙව් කණ්ඩායම පන්දුවාර 36ක් අවසානයේ සියල්ලන් දැවී ලකුණු 189ක් රැස් කළේය.
+
+පිළිතුරු ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 38යි පන්දු 02ක් අවසානයේ කඩුලු 5ක් දැවී ලකුණු 190ක් ලබා සිය ජයග්‍රහණය වාර්තා කළේය.
+
+අද දහවල් ඇතිවූ වර්ෂාව හේතුවෙන් තරගය පන්දු ඕවර 44කට සීමා කිරීමට තරග බලධාරීන් තීරණය කළේය.
+
+ඒ අනුව තවත් එක් තරගයක් ඉතිරිව තිබියදී තරගාවලියේ ජය හිමිකර ගැනීමට ශ්‍රී ලංකා කණ්ඩායමට හැකිවිය.
+
+සංචාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම පරාජය කර පළමු එක්දින ක්‍රිකට් තරගයෙන් කඩුලු 5ක පහසු ජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායම සමත් වී තිබුණි.
+
+දෙරට අතර පැවැත්වෙන තෙවෙනි සහ අවසන් එක්දින තරගය එළඹෙන 26 වනදා පල්ලෙකැලේදී පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/d0d456db.json)
+
+---
+
+### A police officer arrested for bribery
+
+*2024-10-23 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202487) · `si`
+
+Police officer arrested for bribery: OIC of Gampola Police Division detained by Investigation Commission for demanding fuel bribe during investigation.
+
+🟩
+
+The OIC of the Gampola Police Division has been arrested in connection with a bribery this afternoon.
+
+The suspect has been arrested by the Investigation Commission in Bribery or Corruption.
+
+It is in connection with a bribery demand for a investigation to provide fuel for a investigation.
+
+◼️
+
+[Data](articles/dbcafc08.json)
+
+[Extended Data](ext_articles/dbcafc08.ext.json)
+
+---
 
 ### Notification for Sri Lankans in Lebanon
 
@@ -377,6 +423,32 @@ The information has been revealed that the attack was launched in the country as
 [Data](articles/ad8f04b8.json)
 
 [Extended Data](ext_articles/ad8f04b8.ext.json)
+
+---
+
+### 1056 million rupees to victims
+
+*2024-10-23 19:38:29* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-රැකියා-වංචාකරුවන්ගෙන්-රුපියල්-ලක්ෂ-1056ක්-වින්දිතයින්ට-ලබාදෙයි/11-412647) · `si`
+
+Sri Lanka Foreign Employment Bureau reports 1056 million rupees compensation to victims of fraudulent activities. In 9 months, 570 cases filed, 1177 resolved, 104 arrests made. Bureau warns public about job scams in Israel, South Korea, Japan, Romania, Canada. Contact 1989 for information.
+
+🟩
+
+According to the Sri Lanka Foreign Employment Bureau, the number of foreign employment fraudulent activities of foreign employment and licensed employment agencies have been paid to the victims.
+
+The prosecutions were carried out on the complaints received by the Special Raid and Bureau of Nelum Samarase, Deputy General Manager of the Bureau lawyer.
+
+Accordingly, within the last 9 months, the courts filed against foreign employment fraudsters is 570. 3351 complaints have been received during that period, of which 1177 were resolved. There are 19 raids carried out by the Special Investigation Division of the Bureau during this period and 104 persons have been arrested. There are 17 Licensed Employees Institutions.
+
+Since Israel is giving jobs in Israel, South Korea, Japan, Japan, Ramania and Canada, the Bureau informs the public.
+
+The Bureau requests the 1989 Telephone Number of the Information Bureau of the Information Bureau on the recent past.
+
+◼️
+
+[Data](articles/cdf67a55.json)
+
+[Extended Data](ext_articles/cdf67a55.ext.json)
 
 ---
 
@@ -2391,79 +2463,5 @@ Sri Lanka won the first match between the two countries, the tournament is a zer
 [Data](articles/fd35fc1c.json)
 
 [Extended Data](ext_articles/fd35fc1c.ext.json)
-
----
-
-### Special program for tourist protection
-
-*2024-10-23 12:42:37* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරකයන්ගේ-ආරක්ෂාවට-විශේෂ-වැඩසටහනක්/11-412628) · `si`
-
-Sri Lanka tourism safety initiative: Police announce enhanced security measures for popular tourist destinations.
-
-🟩
-
-The police headquarters announces that Sri Lanka can visit the next tourist area of ​​tourism
-
-◼️
-
-[Data](articles/60884cf0.json)
-
-[Extended Data](ext_articles/60884cf0.ext.json)
-
----
-
-### Augkambe attack affair; DIG description
-
-*2024-10-23 12:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-தாக்குதல்-விவகாரம்-DIGவிளக்கம்/175-345917) · `ta`
-
-Here's a 200-character summary:
-
-
-
-US Embassy warns citizens of potential threats in Colombo. Sri Lankan police increase security measures in Bay of Manugam due to rising Israeli tourist presence. Social activist reports establishment of Jewish worship site, sparking local concerns over Israel-Palestine tensions.
-
-🟩
-
-The Sri Lankan police said that the increase in Israeli tourists and the occupation of the building in the Bay of Manugam has prompted the US embassy in Colombo to provide travel suggestions to threaten its citizens in Colombo.
-
-Speaking to the media today, police media spokesman Nihal Talduwa said that Israeli tourists have been identified as the most preferred holiday in Sri Lanka due to the entertainment activities, including drift entertainment.
-
-“Because of their interest in them, a large number of Israeli tourists visit the hexagonal bay, which as a result of a building in the area.. We have been informed in recent times about the possibility of threatening them, as the area is currently the most population of Israeli tourists, ”he said.
-
-The police media spokesman said that the police have already set up road restrictions as a preliminary operation and the usual raids on vehicles and public.
-
-...
-
-[Data](articles/77a9a2fd.json)
-
-[Extended Data](ext_articles/77a9a2fd.ext.json)
-
----
-
-### Preparing to testify in any court except in Jaffna - Gotabhaya is notified
-
-*2024-10-23 12:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202459) · `si`
-
-Gotabhaya Rajapaksa agrees to testify in courts except Jaffna. He's willing to provide evidence about human rights activists' disappearances in 2011. The case involves delays and life threats, prompting a 2019 motion seeking protection.
-
-🟩
-
-Former President Gotabhaya Rajapaksa, who has been a witness to the disappearance of Human Rights activists in 2011, is ready to give evidence in any other court of the case.
-
-President's Counsel Romesh de Silva, who appeared on behalf of former President Gotabhaya Rajapakse, appeared for the judiciary against the Court of Appeal, informed the Court of President Gotabhaya Rajapaksa to investigate the evidence in the case of the Jaffna Magistrate's Court..
-
-The petition was called before the Supreme Court Judge Shiran Gunaratne, Shiran Gunaratne, and Achala Vingappoley.
-
-President's Counsel Romesh de Silva stated in court to the court on behalf of Gotabhaya Rajapaksa.
-
-However, the President's Counsel stated that he willingly testify in a court except Jaffna court.
-
-The court ordered that the petition was also taken to be summoned on March 18 to consider further matters.
-
-...
-
-[Data](articles/ab7c347c.json)
-
-[Extended Data](ext_articles/ab7c347c.ext.json)
 
 ---

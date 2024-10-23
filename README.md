@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 12:58:11**
+As of **2024-10-23 13:10:36**
 
 ## Newspaper Stats
 
-*Scraped **50,892** Articles*
+*Scraped **50,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ bbccomsinhala | 514
 islandlk | 3,030
 economynextcom | 3,114
 dailyftlk | 3,474
-adalk | 4,728
+adalk | 4,730
 dailymirrorlk | 4,733
 adaderanalk | 6,032
-tamilmirrorlk | 7,003
-virakesarilk | 8,152
-adaderanasinhalalk | 8,830
+tamilmirrorlk | 7,004
+virakesarilk | 8,158
+adaderanasinhalalk | 8,831
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,892 (100.0%) of 50,892 articles have been extended.
+50,898 (100.0%) of 50,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### ආරුගම්බේ ගැන බ්‍රිතාන්‍යයෙනුත් නිවේදනයක්
+
+*2024-10-23 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202460) · `si`
+
+ආරුගම්බේ ප්‍රදේශය සඳහා අමෙරිකානු තානාපති කාර්යාලය නිකුත් කළ අනතුරු ඇඟවීම මත පදනම්ව බ්‍රිතාන්‍ය රජය විසින් ද ශ්‍රී ලංකාව සඳහා වන සංචාරක උපදෙස් යාවත්කාලීන කර තිබේ.
+
+ආරුගම්බේ ප්‍රදේශයේ සංචාරක මර්මස්ථාන ඉලක්ක කර ගනිමින් කිසියම් ප්‍රහාරයක් එල්ල විය හැකි බවට තොරතුරු ලැබී ඇති බැවින් එම ප්‍රදේශයේ සංචාරය කිරීමෙන් වළකින ලෙස ශ්‍රී ලංකාවේ අමෙරිකානු තානාපති කාර්යාලය මෙරට රැඳී සිටින අමෙරිකානු ජාතිකයින්ට දැනුම් දීමක් සිදුකර තිබුණි.
+
+◼️
+
+[Data](articles/574fabba.json)
+
+---
+
+### West Indies - Sri Lanka's second ODI today
+
+*2024-10-23 12:46:37* · [`adalk`](https://www.ada.lk/sports/කොදෙව්---ශ්‍රී-ලංකා-දෙවන-එක්දින-තරගය-අද/9-412629) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Today: West Indies vs Sri Lanka, 2nd ODI. Match at Pallekele Int'l Cricket Stadium, Kandy at 2:30 PM. Sri Lanka leads series 1-0."
+
+🟩
+
+The West Indies group and the Sri Lankan team will be held today (23).
+
+The match will be held at Pallekele International Cricket Stadium in Kandy today at 2.30 pm today.
+
+Sri Lanka won the first match between the two countries, the tournament is a zero.
+
+◼️
+
+[Data](articles/fd35fc1c.json)
+
+[Extended Data](ext_articles/fd35fc1c.ext.json)
+
+---
 
 ### Augkambe attack affair; DIG description
 
@@ -85,6 +125,32 @@ The court ordered that the petition was also taken to be summoned on March 18 to
 [Data](articles/ab7c347c.json)
 
 [Extended Data](ext_articles/ab7c347c.ext.json)
+
+---
+
+### Israelis - the most of the Israelis - the building - the police spokesman
+
+*2024-10-23 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196901) · `ta`
+
+Sri Lanka police warn of potential attack on Israeli tourists in Augamkuda due to occupation of a building. Security forces deployed to check vehicles and public.
+
+🟩
+
+Police spokesman Nihal Duttuwa said the US may have warned that Sri Lanka could be attacked in the area because of the large number of tourists from Israeli and occupying a building in Arukamguda.
+
+Israelis who are touring Sri Lanka are most likely to go to Augamkuda. That area is their most worthy part, where they engage in swimming.
+
+We have recently received information that the tourists have occupied a building, and there is a threat to Israeli tourists in this area.
+
+As an initial measure, we have already set up streets and are engaged in checking vehicles and the public.
+
+Police, Special Task Force, Marines and State Department Department of State Investigation Department are engaged in security measures.
+
+◼️
+
+[Data](articles/464943b4.json)
+
+[Extended Data](ext_articles/464943b4.ext.json)
 
 ---
 
@@ -234,6 +300,40 @@ He was speaking at a special media briefing held today (23).
 
 ---
 
+### There are some occasions that Sri Lankan politicians focus on their personal interests - Japanese Ambassador to his experiences in Sri Lanka
+
+*2024-10-23 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196900) · `ta`
+
+Here's a summary of the key points in approximately 200 characters:
+
+
+
+Sri Lankan politicians often prioritize personal interests over national needs. The Japanese Ambassador notes lack of transparency in trade practices. Current government maintains IMF program structure. Corruption remains a significant issue, hindering foreign investment. Delays in customs processes affect business operations. Political figures like former Minister Nimal Siripala De Silva have been accused of demanding bribes. Overall, political instability and corruption continue to impact Sri Lanka's economic development and foreign relations.
+
+🟩
+
+There are opportunities for Sri Lankan politicians to act on their interests, they are looking forward to their interests, Japanese Ambassador to Sri Lanka Missukoshi Hidaygi said.
+
+He said that there is no open trade environment in Sri Lanka, but Japanese companies do not follow the rules.
+
+The Ambassador, who stated that they are not bribed, "he said," it is customary for Japanese to leave the country. "
+
+Question - We are currently in the midst of the IMF plan. How far you are confident that the current government will continue to carry out this?
+
+Answer: I have already negotiated with the President's Foreign Minister. With these negotiations, the new government is concerned that the new government is maintaining the main structure of the IMF program.
+
+They have re -appointed the Secretary of the Treasury, who was negotiating with the International Monetary Fund.
+
+This is the best signal that the new government respects the agreement with the International Monetary Fund.
+
+...
+
+[Data](articles/e1598601.json)
+
+[Extended Data](ext_articles/e1598601.ext.json)
+
+---
+
 ### The new leader of the Hizbullah telephone system is also killed?
 
 *2024-10-23 11:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹிஸ்புல்லா-அமைப்பின்-புதிய-தலைவரும்-உயிரிழப்பு/50-345914) · `ta`
@@ -261,6 +361,36 @@ However, it is noteworthy that the Hizbullah movement has not yet confirmed this
 [Data](articles/a2898dd2.json)
 
 [Extended Data](ext_articles/a2898dd2.ext.json)
+
+---
+
+### The new leader of the Hizbullah telephone system is also killed?
+
+*2024-10-23 11:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹிஸ்புல்லா-அமைப்பின்-புதிய-தலைவரும்-பலி/50-345914) · `ta`
+
+Israeli military claims Hashem Sabidin, newly elected Hezbollah leader, killed. Hezbollah denies report. Conflict escalates between Israel and Hezbollah in Lebanon.
+
+🟩
+
+The Israeli military has said that Hashem Sabidin, who was elected as the new leader of the Hizbullah movement, has also been killed.
+
+The Hizbullah movement operating in Lebanon in the war between Israel-Kasa's Hamas Organization is in favor of Hamas. The movement is attacking Israel.
+
+Israel is also actively attacking Lebanon. Hasbullah Movement President Hasan Nasrallah and other major commanders of the movement have been killed.
+
+Following Nasralla's killing, his cousin Hashem Sabideen was elected as the new leader of the Hizbullah movement. Meanwhile, it has been reported that Safidin has also been killed.
+
+On the 8th of this month, Israeli Prime Minister Netanyahu said that Hizbullah's next leaders were killed.
+
+But Hashem did not mention the name of Sabidin. The military has confirmed the killing of Hashem Sabidin.
+
+However, it is noteworthy that the Hizbullah movement has not yet confirmed this message.
+
+◼️
+
+[Data](articles/b0960856.json)
+
+[Extended Data](ext_articles/b0960856.ext.json)
 
 ---
 
@@ -329,6 +459,58 @@ The warning has been committed to claiming that he had a risk of an attack targe
 [Data](articles/1dc17a98.json)
 
 [Extended Data](ext_articles/1dc17a98.ext.json)
+
+---
+
+### An inspector arrested five students abused at Kalawana school
+
+*2024-10-23 11:26:13* · [`adalk`](https://www.ada.lk/breaking_news/කලවාන-පාසලක-සිසුන්-පහක්-අපයෝජනය-කළ-චීවරධාරියෙක්-අල්ලයි/11-412624) · `si`
+
+Inspector arrests monk over abuse claims at Kalawana school. Five students allegedly abused, hospitalized. Investigation ongoing.
+
+🟩
+
+According to the Kalawana Police said that a Buddhist monastery was arrested in a popular school in Kalawana.
+
+The monk said that the monk was arrested following a complaint lodged by the school teachers and parents by the abused children following a complaint lodged by the Kalawana Police.
+
+The temple is located near the school and has received complaints that five children named school, police said that five children have been abused. Children have been admitted to the Kalawana Base Hospital for medical examination.
+
+The OIC Chief Inspector Wasantha Herath is conducting further investigations.
+
+◼️
+
+[Data](articles/11610215.json)
+
+[Extended Data](ext_articles/11610215.ext.json)
+
+---
+
+### The reason why the government is not accepting the Alvis report is childish - Kammanpila
+
+*2024-10-23 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/196898) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Kammanpila criticizes government over Alvis report handling. Questions judge's tenure and Ravi Seneviratne's actions. Accuses government of protecting specific individuals. Demands transparency.
+
+🟩
+
+Udaya Kammanpila said that the government's referring to the Alvis report is a child.
+
+Can Judge (Retired), who held the post of chairman of the committee, be canceled from 2006 to 2023?Udaya Kammanpila has also questioned.
+
+At the same time, is it true that Ravi Seneviratne covered the confidential information about the bombing for 12 days?Lying?Udaya Kammanpila also urged the government to announce the people.
+
+The Alvis report mentioned the names of 17 people, including Niladha, Poojitha and Patriot. Udaya Kammanpila has also questioned why the government should try to protect only Ravi Seneviratne and Sani Abeysekara.
+
+◼️
+
+[Data](articles/b1be2668.json)
+
+[Extended Data](ext_articles/b1be2668.ext.json)
 
 ---
 
@@ -570,6 +752,22 @@ The case is scheduled to be heard again on January 27, 2025.
 
 ---
 
+### நம்பத்தகுந்த தாக்குதல் குறித்து தகவல் : சுற்றுலாப் பயணிகள் மற்றும் பொதுமக்கள் பாதுகாப்பை உறுதிப்படுத்தும் வகையில் பாதுகாப்பு நடவடிக்கைகள் முன்னெடுப்பு - பொலிஸ் திணைக்களம்
+
+*2024-10-23 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/196894) · `ta`
+
+நம்பத்தகுந்த தாக்குதல் குறித்து தகவல் கிடைந்துள்ளமையினால் சுற்றுலாப் பயணிகள் மற்றும் பொதுமக்கள் பாதுகாப்பை உறுதிப்படுத்தும் வகையில் பாதுகாப்பு நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாக பொலிஸ் திணைக்களம் தெரிவித்துள்ளது.
+
+பொது பாதுகாப்பு அமைச்சின் வழிகாட்டுதலின் கீழ் பொலிஸ் மற்றும் புலனாய்வுப் பிரிவுகள் எந்தவொரு அச்சுறுத்தல்களுக்கும் எதிராக சுற்றுலாப் பயணிகள் மற்றும் பொதுமக்கள்  பாதுகாப்பை உறுதி செய்வதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸ் திணைக்களம் தெரிவித்துள்ளது.
+
+விசேட அறிக்கையொன்றை வெளியிட்ட பொலிஸ் திணைக்களம், பொதுமக்கள் மற்றும் சுற்றுலாப் பயணிகள் ஏதேனும் அவசரநிலை அல்லது  தகவல்களை ‘1997’ என்ற அவசர தொலைபேசி இலக்கத்தைத் தொடர்புகொண்டு தெரிவிக்குமாறு கேட்டுக்கொண்டுள்ளது.
+
+◼️
+
+[Data](articles/cfcc1653.json)
+
+---
+
 ### University student falls from hostel
 
 *2024-10-23 10:42:45* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-සිසුවා-නේවාසිකාගාරයෙන්-වැටී-ජීවිතක්ෂයට/11-412623) · `si`
@@ -672,6 +870,20 @@ However, he is now heading an interim government with a three-member cabinet ahe
 
 ---
 
+### பிரிக்ஸ் அபிவிருத்தி வங்கியில் அங்கத்துவம் பெற இலங்கை தீர்மானம்
+
+*2024-10-23 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/196887) · `ta`
+
+பிரிக்ஸ் அமைப்பினால் ஸ்தாபிக்கப்பட்ட புதிய அபிவிருத்தி வங்கியில் அங்கத்துவம் பெற இலங்கை திட்டமிட்டுள்ளது.
+
+பிரிக்ஸ் பிளஸ் அவுட்ரீச் மாநாட்டில் பங்கேற்பதற்காக தற்போது கசான் சென்றுள்ள இலங்கையின் வெளிவிவகார அமைச்சின் செயலாளர் அருணி விஜேவர்தன புதிய அபிவிருத்தி வங்கியின் தலைவர் டில்மா ரூசெப்பை சந்தித்து கலந்துரையாடினார்.
+
+◼️
+
+[Data](articles/8ea481b6.json)
+
+---
+
 ### Sri Lanka to reduce maize imports by 50% next year
 
 *2024-10-23 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102871/sri-lanka-to-reduce-maize-imports-by-50-next-year) · `en`
@@ -693,6 +905,22 @@ M.P.N.M. Wickramasinghe also noted that a program is being prepared to produce t
 [Data](articles/28b10791.json)
 
 [Extended Data](ext_articles/28b10791.ext.json)
+
+---
+
+### குற்றப்புலனாய்வு திணைக்களத்தில் முன்னிலையானார் ஜோன்ஸ்டன் பெர்னாண்டோ
+
+*2024-10-23 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/196890) · `ta`
+
+முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோ குற்றப்புலனாய்வு திணைக்களத்தில் இன்று புதன்கிழமை (23) முன்னிலையாகியுள்ளார்.
+
+சட்டவிரோதமாகப் பதிவு செய்யப்பட்ட பி.எம்.டபிள்யூ ரக வாகனத்தைப் பயன்படுத்தியதாக முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோ மீது குற்றஞ்சாட்டப்பட்டுள்ளது.
+
+இந்நிலையில்,  வாக்கு மூலம் அளிப்பதற்காக வருகை தருமாறு விடுக்கப்பட்ட அழைப்பிணை தொடர்ந்தே குற்றப்புலனாய்வு திணைக்களத்தில் முன்னிலையாகியுள்ளார்.
+
+◼️
+
+[Data](articles/fd0e238c.json)
 
 ---
 
@@ -2041,249 +2269,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/b72165fe.json)
 
 [Extended Data](ext_articles/b72165fe.ext.json)
-
----
-
-### Sri Lanka Economic Summit to be held in January 2025
-
-*2024-10-22 22:17:00* · [`islandlk`](http://island.lk/sri-lanka-economic-summit-to-be-held-in-january-2025/) · `en`
-
-The Ceylon Chamber of Commerce announces that its flagship event, the Sri Lanka Economic Summit, originally scheduled for November 2024, has been rescheduled to January 28 and 29, 2025, in light of the forthcoming General Election.
-
-Under the theme ‘Shaping Sri Lanka’s Future: Transformational Growth Rooted in Sound Economic Policies,’ the Summit will provide an essential platform for discussing the path forward at a time when Sri Lanka’s economic and political landscapehas had significant changes.. After two years of economic contraction, the country is now striving for accelerated growth. With the recent conclusion of debt restructuring and the Presidential elections, and the forthcoming General Election , it is imperative to lay the groundwork for a decade of sustainable, inclusive growth starting in 2025.
-
-...
-
-[Data](articles/b20c52ba.json)
-
-[Extended Data](ext_articles/b20c52ba.ext.json)
-
----
-
-### Airborne Drugs
-
-*2024-10-22 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202441) · `si`
-
-Sri Lanka Police Narcotics Bureau arrests suspects after raid at Katunayake airport. 7 parcels containing 21kg ice drugs, Marni narcotics, and 1kg rash drugs seized. Further investigation ongoing.
-
-🟩
-
-The Police Narcotics Bureau has been taken into custody by the Police Narcotha Bureau.
-
-The raid was carried out by a SLAF-parcel in Katunayake airport premises to Sri Lanka from several foreign countries.
-
-Police said that there were a variety of drugs in seven parcels.
-
-The parcels have been found 21 kg of ice drugs, Marni narcotics and 1kk kills 1kg of rash drugs.
-
-The Police Narcotics Bureau is conducting further investigations to arrest the suspects.
-
-◼️
-
-[Data](articles/2ac0f60b.json)
-
-[Extended Data](ext_articles/2ac0f60b.ext.json)
-
----
-
-### Investor expectations of stable governance rise ahead of general election
-
-*2024-10-22 22:14:00* · [`islandlk`](http://island.lk/investor-expectations-of-stable-governance-rise-ahead-of-general-election/) · `en`
-
-Local and foreign investors were adopting a cautious stance yesterday until the conduct of the general election, anticipating the ushering of a stable government by that time that would enable them to actively invest in the bourse. As a result, mixed reactions were reflected in CSE indices, market analysts said.
-
-The All Share Price Index went down by 12.48 points, while the S and P SL20 rose by 6.46 points. Turnover stood at Rs 1.9 billion with one crossing. The crossing was reported in JKH, which crossed 986,000 shares to the tune of Rs 195 million; its shares traded at Rs 198.
-
-...
-
-[Data](articles/3e46cfd1.json)
-
-[Extended Data](ext_articles/3e46cfd1.ext.json)
-
----
-
-### Drug Recovery from packages sent by aircraft postal service
-
-*2024-10-22 22:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196864) · `ta`
-
-Sri Lanka airport bust: 8 crore rupees worth drugs seized from fake addresses. Ice, kush, and chemicals found in packages from US, UK, Canada. Investigations ongoing.
-
-🟩
-
-In a raid carried out on the seven packages sent to the Katunayake airport by air postal service, about eight crore crores of rupees worth Rs.
-
-Investigations have revealed that these packages have been sent to fake addresses in various parts of Sri Lanka from the US, the UK and Canada.
-
-Also, when examining their addresses, they have been confirmed as fake addresses.
-
-Captured drugs include 07 kg 21 g of ice, 01 kg 143 g kush drug and 01 kg 338 grams of chemical drugs.
-
-Further investigations are being carried out by officials of the Katunayake Airport Police Drug Prevention Unit.
-
-◼️
-
-[Data](articles/27cee92e.json)
-
-[Extended Data](ext_articles/27cee92e.ext.json)
-
----
-
-### Coconut savation program launches
-
-*2024-10-22 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202440) · `si`
-
-Coconut Savation Program launched: Mobile marketing vehicle to address high consumer prices. Coconuts priced at Rs. 1000 each. Distributed through police stations and government offices. Implemented in major cities, covering all districts. Daily supply of 10,000 coconuts based on weekly demand.
-
-🟩
-
-Steps will be taken to start a mobile marketing vehicle from the Coconut Cultivation Board as a solution to the difficulty faced by the consumer prices.
-
-Sri Jayawardenuwa, Colombo, Colombo, Colombo, Colombo, Sri Jayawardene operations operates on the robbery of the Pura, Kaduwela Municipal Council bodies.
-
-The coconut bound will be given a cost of Rs. 1000 and per customers.
-
-It is to be distributed by the Welikada Police Station, Kirulapondana Police Station, Kirulapondana Police Station and Kirula Premons and Finance Ministry.
-
-The Coconut Distribution Mobile Program will be implemented near Welikada Police Ongoing and Nugegoda, Welikada Police Station and Nugegoda Ananda Samarakoon Outdoor Theater.
-
-The Sethsiripaya government office premises covering Kaduwela and Battaramulla areas have been approved by the Sethsiripaya government office premises and the Coconut Cultivation Board has facilitated the location of coconut.
-
-...
-
-[Data](articles/242d98b3.json)
-
-[Extended Data](ext_articles/242d98b3.ext.json)
-
----
-
-### Supreme Court to deliver decision on DNA’s petition tomorrow
-
-*2024-10-22 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102860/supreme-court-to-deliver-decision-on-dnas-petition-tomorrow) · `en`
-
-The Supreme Court has announced that it will deliver its decision tomorrow (23) regarding the petition submitted by the Democratic National Alliance (DNA), seeking a writ order invalidating the decision of the District Returning Officer to reject their nomination for the Vanni Electoral District in the General Election.
-
-The DNA had filed this petition on October 18 following the decision by the Vanni District Returning Officer to reject their nomination submission and the petition requests the Supreme Court to issue a writ order invalidating the decision.
-
-After considering the facts presented from both parties, the Supreme Court pointed out that that the rejected nomination paper should be accepted by the relevant District Returning Officer in accordance with the existing laws.
-
-...
-
-[Data](articles/1debf925.json)
-
-[Extended Data](ext_articles/1debf925.ext.json)
-
----
-
-### Gampha's statement was like a mountain of a mountain
-
-*2024-10-22 21:38:45* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පිලගේ-ප්‍රකාශය-කන්දක්-විලිලා-මීයෙක්-වැදුවා-වගෙයි/11-412618) · `si`
-
-Here's a 200-character summary:
-
-
-
-Easque Gammanpila made significant claims about the new government. Ranjan Ramanayake criticized the government's response time. Udaya Gammanpala was involved in the Passover attack sale. The party plans to contest 9 districts, starting with Gampaha. UNP officials attended the event.
-
-🟩
-
-The people of the country have noted that the revelation of the Easque Gammanpila was a large number of claims that the people were expected to be held recently.He said at a workshop party workshop party.
-
-Ranjan Ramanayake said that when the new government came to power and had not yet completed a month, the government should also respond to his personal or her personal idea.
-
-The government's president came to power that the Passover attack was sold and sold to the government minister Udaya Gammanpala, a government minister, Udaya Gammanpala.
-
-He said his party will contest for 9 districts in Sri Lanka and the workshop will be held for the Gampaha district.
-
-The United Democratic Acid Party Media Spokesperson Ravi, Kududeschy, National Organizer of the UNP, was also present at the occasion.
-
-◼️
-
-[Data](articles/aac2fbb8.json)
-
-[Extended Data](ext_articles/aac2fbb8.ext.json)
-
----
-
-### Introduction of Regional Action Plan to strengthen climate change in India and Sri Lanka
-
-*2024-10-22 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196869) · `ta`
-
-Here's a 200-character summary:
-
-
-
-UN WFP launches ADAPT4R: 5-year plan to enhance food security & livelihoods in India & Sri Lanka. Focuses on climate-resilient farming practices, targeting vulnerable communities. $14 million funding aims to adapt agriculture to climate change impacts.
-
-🟩
-
-The Regional Project (WFP) has been introduced to strengthen climate change in India and Sri Lanka.
-
-The United Nations World Food Scheme (WFP) in collaboration with the Colombo -India and Sri Lanka Ministry of Environment (WFP) launched the ADAPT4R event on Monday (21).
-
-This five -year plan is aimed at improving the food safety and livelihoods of the agrarian communities that face the challenges of the climate.
-
-The project, which is implemented by the US $ 14 million contribution to the US Fund, focuses on farmers in the districts of agriculture and rural livelihoods in both countries.
-
-By providing information through climate services and upgrading existing systems, ADAPT4R can make farmers, especially women, their agriculture and livelihoods, tolerate climate change.
-
-...
-
-[Data](articles/aeff2c2d.json)
-
-[Extended Data](ext_articles/aeff2c2d.ext.json)
-
----
-
-### China as an emergency flood subsidy. Rs. 30
-
-*2024-10-22 21:31:46* · [`adalk`](https://www.ada.lk/breaking_news/හදිසි-ගංවතුර-සහනාධාර-ලෙස--චීනයෙන්-රු--මි--30ක්/11-412617) · `si`
-
-China provides Rs. 30 million emergency flood aid to Sri Lanka. President Anura Kumara Dissanayake receives funds from Chinese Ambassador Cha Zhenhonga at Presidential Secretariat. Discussion focuses on immediate relief strategies and future sustainable solutions for flood prevention and management. Heavy rains cause displacement in several areas, affecting thousands of families.
-
-🟩
-
-The Government of China has donated Rs.
-
-President Anura Kumara Dissanayake met at the Presidential Secretariat this afternoon
-
-Chinese ambassador to Sri Lanka Cha. Zhenhonga handed over the money to the President.
-
-The meeting was discussed at the meeting of the prolonged strategies to provide immediate relief to the victims and the prevention of floods and management.
-
-The focus was also focused on sustainable solutions and methods that can be followed in the future.
-
-There was a significant level of floods in several areas due to heavy rains. Reports have been displaced, while thousands of families have been displaced.
-
-◼️
-
-[Data](articles/77834bdd.json)
-
-[Extended Data](ext_articles/77834bdd.ext.json)
-
----
-
-### The need for a new political force emerged - Dilith
-
-*2024-10-22 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202439) · `si`
-
-New political force emerges in Sri Lanka: Dilith Jayaweera launches movement against corruption and injustice.
-
-🟩
-
-The Leader of the Entrepreneral Dilith Jayaweera said that the politics of the people of Sri Lanka have launched across the exangeration.
-
-He was speaking at a public briefing yesterday (21) at a public briefing in the Kabandage area yesterday.
-
-"This road was voted 43%.. Those who were angry with hate to the composition. Everyone asked who would give them to those who. A reasonable question. When Asapunapapi sees the corrupt activities of the people for a long time, when the little man is crushed.. The one who had emerged as an opposition was voted.
-
-His views are now joke in social media. The backyment of his statements had no basis. The people of Sri Lanka were called the last Poya. Now it was the poin.. There is no hal.
-
-The need for a new political force in this country has arisen. That's what we're trying to re-create this. Nobody will let anyone fall in Beira Lake. We can be proud of a politics. We didn't earn this. "
-
-...
-
-[Data](articles/36b0311f.json)
-
-[Extended Data](ext_articles/36b0311f.ext.json)
 
 ---

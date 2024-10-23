@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 17:40:32**
+As of **2024-10-23 18:00:35**
 
 ## Newspaper Stats
 
-*Scraped **50,961** Articles*
+*Scraped **50,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
 adalk | 4,738
-adaderanalk | 6,046
+adaderanalk | 6,047
 tamilmirrorlk | 7,015
 virakesarilk | 8,164
 adaderanasinhalalk | 8,846
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,846
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,961 (100.0%) of 50,961 articles have been extended.
+50,962 (100.0%) of 50,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Security forces fully aware of Arugam Bay threat; Security tightened days ago
+
+*2024-10-23 17:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102886/security-forces-fully-aware-of-arugam-bay-threat-security-tightened-days-ago) · `en`
+
+Sri Lanka’s security forces were reportedly fully aware of the information warning of a possible attack targeting popular tourist locations in the Arugam Bay area, as mentioned in the U.S. Embassy’s security alert for American citizens in Sri Lanka today (23).
+
+Is it stated that consequently, steps were taken several days ago to bolster security in the region.
+
+Around 500 police officers and Special Task Force (STF) personnel had already been deployed to enhance security in the Arugam Bay tourist zone.
+
+Police Media Spokesman DIG Nihal Thalduwa also confirmed that intelligence agencies and other security forces are focused on strengthening security measures in the area.
+
+He further emphasized that no intelligence reports have been received regarding such threats in Colombo or any other areas of the country thus far, and therefore urged the public not to have any undue fears.
+
+Additionally, special attention is being given to ensure the safety of tourists visiting Arugam Bay and other provinces.
+
+...
+
+[Data](articles/4033d365.json)
+
+[Extended Data](ext_articles/4033d365.ext.json)
+
+---
 
 ### Former Minister Johnston Fernando remanded
 
@@ -2371,31 +2395,5 @@ The gap between these expectations and the actual actions of the government has 
 [Data](articles/a72c1a4e.json)
 
 [Extended Data](ext_articles/a72c1a4e.ext.json)
-
----
-
-### Police announce urgent protection in foreign tourists
-
-*2024-10-23 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202454) · `si`
-
-Sri Lanka Police implements special security program for foreign tourists amid Middle East conflict. Measures include strengthening tourist division and coordinating with defense ministries. Hotel owners and locals urged to protect visitors from potential threats. US Embassy warns Americans against visiting Arugam Bay due to safety concerns.
-
-🟩
-
-The Sri Lanka Police and Intelligence Divisions are to be implemented on the instructions of the Ministry of Defense and the Public Defense Ministry to implement a special program for foreigners.
-
-They have taken this step in considering the war environment in the Middle East as well.
-
-The information received by the information has been observed that a large number of foreign tourists will visit Sri Lanka in the future.
-
-It is an opportunity for Sri Lanka's economy and the trust and honor of foreign nationals on Sri Lanka.
-
-Foreign tourist arrivals to Sri Lanka, foreign tourist arrests, the exciting state of foreign tourists, will become the responsibility of creating the entertainment of the pleasure they expect and to free the knowledge they seek.
-
-...
-
-[Data](articles/900c2fb5.json)
-
-[Extended Data](ext_articles/900c2fb5.ext.json)
 
 ---

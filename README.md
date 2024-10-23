@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 15:39:48**
+As of **2024-10-23 15:58:24**
 
 ## Newspaper Stats
 
-*Scraped **50,932** Articles*
+*Scraped **50,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,152 @@ economynextcom | 3,114
 dailyftlk | 3,474
 dailymirrorlk | 4,733
 adalk | 4,734
-adaderanalk | 6,040
-tamilmirrorlk | 7,011
-virakesarilk | 8,162
+adaderanalk | 6,041
+tamilmirrorlk | 7,014
+virakesarilk | 8,164
 adaderanasinhalalk | 8,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,932 (100.0%) of 50,932 articles have been extended.
+50,938 (100.0%) of 50,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### More details revealed after Kelaniya Uni. Student falls to death
+
+*2024-10-23 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102880/more-details-revealed-after-kelaniya-uni-student-falls-to-death) · `en`
+
+It has been revealed that the student who fell to his death from an upper floor of the C.W.W. Kannangara Hostel at the University of Kelaniya had been consuming alcohol excessively.
+
+Speaking at a press conference held today (23), Police Spokesman DIG Nihal Thalduwa stated that the student had been drinking alcohol within the university premises.
+
+He also mentioned that an alcohol-fueled party had been held last night (22) to celebrate a fellow student’s birthday.
+
+After the party, the intoxicated student was taken to his room located on the fourth floor of the C.W.W. Kannangara Hostel, while the other friends had then left the area.
+
+According to the Police Media Spokesman, it is suspected that the student may have fallen from the window of the hotel room due to excessive consumption of alcohol.
+
+He added that the magistrate is set to inspect the room where the incident had occurred, and the Government Analyst and Judicial Medical Officer (JMO) have also been called to the scene.
+
+...
+
+[Data](articles/0879d128.json)
+
+[Extended Data](ext_articles/0879d128.ext.json)
+
+---
+
+### Repeatedly rape: teacher arrested
+
+*2024-10-23 15:25:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலமுறை-பலாத்காரம்-ஆசிரியர்-கைது/175-345929) · `ta`
+
+Teacher accused of repeatedly raping 16-year-old student in Sri Lanka. Arrested after parents report incident. Victim hospitalized. Police investigating. Parents threaten legal action if perpetrator not punished.
+
+🟩
+
+The shocking incident has shocked a 16 -year -old schoolgirl, who has been raped by a 16 -year -old schoolgirl under the Welikanda Education Division of Dimbukalala.
+
+Welikanda police said that the teacher was arrested on Tuesday (22) based on a complaint made by the victim's parents in connection with the incident.
+
+Police said that the 25 -year -old unmarried person who came to teach mathematics from Anuradhapura. When it is revealed more than the incident,
+
+It is also reported that the parents of the math have been related to the math and the telephone soundtrack spoke to her girlfriend about the incidents of her rape by the teacher.
+
+Parents have informed the police that if the suspect is not arrested and punished, the Prime Minister and all departments will be informed of the security of the children in the area.
+
+The girl has been admitted to the Welikanda Divisional Hospital and has been transferred to the Polonnaruwa General Hospital for examination.
+
+...
+
+[Data](articles/bbb9f971.json)
+
+[Extended Data](ext_articles/bbb9f971.ext.json)
+
+---
+
+### Bore. Two suspects arrested near Zion Church
+
+*2024-10-23 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196919) · `ta`
+
+Two suspects arrested near Zion Church in Batticaloa. Police detained 35-year-old and 25-year-old after public tip-off. Fingerprint identification confirmed their identities.
+
+🟩
+
+Police have arrested two persons from the Kurunegala area who were suspiciously located in the nearby area of ​​Batticaloa.
+
+A Muslim from Kurunegala has been contacted with a teacher at the newly constructed Zion Church on the Mantasa Road, Batticaloa to cure the eloquent disease in the eye.
+
+Subsequently, the sick man and the two were traveling from Kurunegala to help him and arrived in Batticaloa this morning.
+
+In this case, the public, who observed the suspicion, informed the police and immediately arrested the two men, aged 35 and 25.
+
+Police said they were identified as the fingerprint of the two arrested on suspicion.
+
+◼️
+
+[Data](articles/66e30b6f.json)
+
+[Extended Data](ext_articles/66e30b6f.ext.json)
+
+---
+
+### Two persons arrested in Batticaloa
+
+*2024-10-23 15:22:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பில்-அதிரடியாக-இருவர்-கைது/175-345928) · `ta`
+
+Two men from Kurunegala arrested in Batticaloa for suspicious behavior near Zion Church. Police detained them after receiving a tip-off. Their fingerprints are being analyzed.
+
+🟩
+
+Two men from Kurunegala area have been arrested on Wednesday (23).
+
+A man from Kurunegala has been involved in the newly constructed Zion Church at the Menraza Road, Batticaloa to cure an eye on the eye.
+
+Subsequently, the two men were traveling in the area on Wednesday morning (10) morning to help him to go to the Zion Church on Wednesday morning (10) morning.
+
+The police, who observed that they were walking suspiciously, informed the police emergency number and immediately arrested the two men aged 35 and 25 years old.
+
+Police said that the fingerprint of the two arrested on suspicion is being identified.
+
+◼️
+
+[Data](articles/b10de64c.json)
+
+[Extended Data](ext_articles/b10de64c.ext.json)
+
+---
+
+### Rejection
+
+*2024-10-23 15:17:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூபர்-அஷேனின்-மனு-நிராகரிப்பு/175-345927) · `ta`
+
+Supreme Court rejects YouTuber Ashan Senaratne's appeal against National Election Commission's rejection of nomination. Commission claims unauthorized submission. Senaratne expresses frustration, submits documents outside. Election Commission states nominations must be submitted by specific individuals.
+
+🟩
+
+The Supreme Court today rejected a petition filed by YouTubeyuber Ashan Senaratne against the decision of the National Election Commission, which rejected its nomination for the upcoming general election.
+
+The National Election Commission had earlier rejected the list of nominations of the Independent Committee of the famous Yudubar Ashan Senaratne in Colombo district.
+
+The Commission disqualified the Independent Committee, claiming that the nominations were submitted by an unauthorized person.
+
+In a video posted on social media at the time, Senaratne expressed his frustration over the incident and said that he was asked to wait outside, which led to submitting documents.
+
+Commenting on the issue, the Election Commission stated that nominations should be submitted by certain persons and that the failure to follow this rule would be disqualified.
+
+Following this, Ashan Senaratna filed a case in the High Court last week against the decision of the Election Commission.
+
+◼️
+
+[Data](articles/e5a395ec.json)
+
+[Extended Data](ext_articles/e5a395ec.ext.json)
+
+---
 
 ### UN keen to assist Sri Lanka in process of empowering women
 
@@ -51,6 +183,26 @@ Also in attendance were the Secretary to the Prime Minister, Pradeep Saputhanthr
 [Data](articles/019413ea.json)
 
 [Extended Data](ext_articles/019413ea.ext.json)
+
+---
+
+### Johnston Fernando arrested
+
+*2024-10-23 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196917) · `ta`
+
+Former Minister Johnston Fernando arrested by CID for illegal car recovery vote.
+
+🟩
+
+Former Minister Johnston Fernando was arrested by the Criminal Investigation Department officials today (23).
+
+Former Minister Johnston Fernando appeared in the Criminal Investigation Department today to vote for the recovery of illegal car recovery from a hotel in Colombo.
+
+◼️
+
+[Data](articles/1e18a54b.json)
+
+[Extended Data](ext_articles/1e18a54b.ext.json)
 
 ---
 
@@ -2227,145 +2379,5 @@ Railway security officer who was injured in the attack. Remble
 [Data](articles/3d5fed93.json)
 
 [Extended Data](ext_articles/3d5fed93.ext.json)
-
----
-
-### AIDS of AIDS in Anuradhapura
-
-*2024-10-23 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202448) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Ajith Karawita reports rising unreported AIDS cases in Anuradhapura district."
-
-🟩
-
-Ajith Karawita says that the growth of people who have unwindged AIDS has shown a growth in the Anuradhapura district.
-
-◼️
-
-[Data](articles/1cf0bf34.json)
-
-[Extended Data](ext_articles/1cf0bf34.ext.json)
-
----
-
-### 850 lakhs arrested
-
-*2024-10-23 07:46:53* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ 850ක-මත්ද්‍රව්‍ය-අල්ලයි/11-412619) · `si`
-
-Sri Lanka: 850 lakh arrests at Katunayake Airport. Customs and police seize 7kg ice, 1kg each of cubicaries, kash drugs, and mandy chemicals. Parcels sent to fake addresses across Sri Lanka. Investigation ongoing.
-
-🟩
-
-CARGO VILLAGE at Katunayake Airport Airport. The officers of the Customs and the Police Narcotics Division, who was not present at the bondous warehouse, were recovered and the officers of the Customs and the Police Narcotics Division of the Customs and the Police Narcotics Unit were recovered.
-
-The parcels had been sent to the false addresses in various parts of Sri Lanka to Sri Lanka's various parts of Sri Lanka.
-
-The owners were not present to accept the parcels and had confirmed that they were false addresses in search of their addresses.
-
-Among the drug was arrested, seven kilograms of ice narcotics, 1 kg of cubicaries, 1 kg of Kash drugs and 1 kg of chemicals called Mandy.
-
-The suspension of the drug is being carried out by the Police Narcotics Division of Katunayake airport for further investigations.
-
-◼️
-
-[Data](articles/a337dcff.json)
-
-[Extended Data](ext_articles/a337dcff.ext.json)
-
----
-
-### Change of the majority of the majority
-
-*2024-10-23 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202447) · `si`
-
-Sajith Premadasa proposes amending IMF agreement post-election. Aims to reduce relief burden, lower direct and indirect taxes. Promises cooperation between Parliament and President to implement changes benefiting citizens.
-
-🟩
-
-Sajith Premadasa says that soon after the majority of Parliament has received the majority of Parliament in this year's general election, Sajith Premadasa says the IMF agreement is amended.
-
-He says steps will be taken to reduce the relief to the people, reducing unfairly and indirect taxes on the government.
-
-"Today the people of this country expect the unfair government formulas that have implemented the unfair government's unfair government. Their direct taxes and indirect tax tax vines are waiting for less. Provide the majority of parliament without fear. Along with the President of Parliament, the majority of parliament has worked together with the President of Parliament and change all of the people in the IMF agreement, give the people to a reconciliation to the forest resignation."
-
-◼️
-
-[Data](articles/81a31cda.json)
-
-[Extended Data](ext_articles/81a31cda.ext.json)
-
----
-
-### Shooting in Ratmalana Railway Yard
-
-*2024-10-23 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202446) · `si`
-
-Ratmalana Railway Yard shooting: Person injured, 5 suspects attacked by security, one hospitalized. Suspects fled scene.
-
-🟩
-
-At the time, a person suffered injuries in the Ratmalana Railway Yard today (23).
-
-The police media division said that five persons who had entered the stolen property have been attacked by a security duties.
-
-The suspects have been shot by a railway guard.
-
-One suspect was injured and other suspects were fled.
-
-The suspect was admitted to the Kalubowila hospital.
-
-◼️
-
-[Data](articles/f820d9b8.json)
-
-[Extended Data](ext_articles/f820d9b8.ext.json)
-
----
-
-### Sri Lanka - West Indies: How rain will tour Pallekele Stadium today?
-
-*2024-10-23 06:48:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20n4njy905o) · `si`
-
-Heavy showers forecasted for Western, Sabaragamuwa, Southern and Northwestern provinces. Rainfall exceeding 100mm possible. Impact on cricket match uncertain but more significant in western regions. Meteorologist expects reduced rainfall in Kandy area but cautions against complete dismissal of rain possibility.
-
-🟩
-
-Sri Lanka - West Indies: How rain will tour Pallekele Stadium today?
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and Northwestern provinces and in the Mannar district.. Heavy showers exceeding 100, the Met Department said.
-
-The department said this in announcing an announcement on heavy rains.
-
-In addition, during the evening or night, during the evening, there will be showers at night in the evening or night.
-
-In response to the Meteorological Department, the Meteorologist Kasun Pascuel said the Meteorologist was looking to increase the increase in the western part of Sri Lanka.
-
-"The western part of Sri Lanka is from Puttalam, Kurunegala, Western Province, Sabaragamuwa Province, Galle and Matara can also raise heavy rains in the Hambantota district. Currently we have issued a warning announcement that can come up with over 100, in those areas. There is a specific weather condition. Most times, there is a heavy rainy rainy. "
-
-...
-
-[Data](articles/6cf9456c.json)
-
-[Extended Data](ext_articles/6cf9456c.ext.json)
-
----
-
-### Simplifying personal income taxes
-
-*2024-10-23 06:37:26* · [`dailyftlk`](https://www.ft.lk/columns/Simplifying-personal-income-taxes/4-768307) · `en`
-
-The deadline to file personal income tax returns for the Year of Assessment 2023/24 is 30 November 2024 and is fast approaching and many individuals are in a panic trying to figure out their tax status and tax compliance obligations. This article intends to address in an FAQ format some common but important questions individuals have with respect to their tax obligations.
-
-At the outset it must be noted that the tax payment deadlines on a self-assessment basis have already lapsed for the Year of Assessment 2023/24. However, it is a commonly known fact that people work best after the deadline has passed and when they are in a panic!
-
-...
-
-[Data](articles/e5d32b65.json)
-
-[Extended Data](ext_articles/e5d32b65.ext.json)
 
 ---

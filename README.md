@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 00:25:06**
+As of **2024-10-24 00:39:24**
 
 ## Newspaper Stats
 
-*Scraped **51,010** Articles*
+*Scraped **51,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 410
 colombotelegraphcom | 510
 bbccomsinhala | 517
 islandlk | 3,030
-economynextcom | 3,117
+economynextcom | 3,121
 dailyftlk | 3,474
 dailymirrorlk | 4,733
 adalk | 4,748
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,010 (100.0%) of 51,010 articles have been extended.
+51,014 (100.0%) of 51,014 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1140,6 +1140,28 @@ He was arrested by the Criminal Investigations Department this afternoon.
 
 ---
 
+### Israel asks citizens to leave Sri Lanka coastal towns, hide nationality
+
+*2024-10-23 17:16:00* · [`economynextcom`](https://economynext.com/israel-asks-citizens-to-leave-sri-lanka-coastal-towns-hide-nationality-184608/) · `en`
+
+ECONOMYNEXT – Israel has asked citizens to avoid non-essential travel to Sri Lanka, leave coastal tourist areas including Arugam Bay and stop overt displays of Hebrew language in clothes or other signs that could lead to identification.
+
+The warning came after the US embassy in Colombo warned citizens not to travel to Arugam Bay in the island’s Eastern Coast as there was credible information of an attack.
+
+Related US warns citizens off Sri Lanka’s Arugam Bay citing possible attack
+
+“The travel alert for Arugam Bay and the coastal areas in south and west Sri Lanka (including for the cities Ahangame, Galle, Hikkaduwa and Weligama) has been raised to level 4,” the Israel’s National Security Council said in a statement.
+
+“We recommend leaving these areas immediately. For those currently in these areas, we recommend leaving the country or at least traveling to the capital city Colombo, where there is heavier presence of local security forces.”
+
+...
+
+[Data](articles/44faa2f3.json)
+
+[Extended Data](ext_articles/44faa2f3.ext.json)
+
+---
+
 ### Former Minister Johnston Fernando remanded
 
 *2024-10-23 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102885/former-minister-johnston-fernando-remanded-) · `en`
@@ -1183,6 +1205,28 @@ The Security Council does not refer to the exact nature of the threat and call f
 [Data](articles/abd255c7.json)
 
 [Extended Data](ext_articles/abd255c7.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 293.45/55 to dollar, bond yields steady
+
+*2024-10-23 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-45-55-to-dollar-bond-yields-steady-184618/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 293.45/55 to the US dollar Wednesday from 293.23/27 a day earlier, dealers said, while bond yields were steady after a Treasury bill auction earlier in the day.
+
+A bond maturing on 15.12.2026 closed at 10.50/75 percent, up from 10.50/60 percent.
+
+A bond maturing on 15.12.2027 closed at 11.35/50 percent, down from 11.40/55 percent.
+
+A bond maturing on 15.09.2029 closed at 11.95/12.10 percent, up from 11.90/12.05 percent.
+
+Meanwhile the central bank announced that it will issue 32,500 million rupees in Treasury bonds through an auction on October 28. (Colombo/Oct23/2024)
+
+◼️
+
+[Data](articles/5c8c553c.json)
+
+[Extended Data](ext_articles/5c8c553c.ext.json)
 
 ---
 
@@ -1245,6 +1289,28 @@ The President made this observation at a meeting held in Trincomalee today (23).
 [Data](articles/ff4f1bb5.json)
 
 [Extended Data](ext_articles/ff4f1bb5.ext.json)
+
+---
+
+### Sri Lanka stocks close up, interest in JKH continues
+
+*2024-10-23 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-interest-in-jkh-continues-184606/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader ASPI closed up 0.47 percent, or 57.43 points, at 12,357; while the more liquid S&P SL20 Index closed up 0.95 percent, or 34.60 points, at 3,663.
+
+Top turnover generators were John Keells Holdings (up at 203.00), Sampath Bank (up at 84.00), Commercial Bank (up at 110.25), Hayleys (up at 103.00), and Hemas Holdings (up at 81.00)
+
+Crossings were recorded on Commercial Bank, Sampath Bank, Hayleys, JKH, Hemas, Ambeon Holdings (down at 14.20), Sunshine Holdings (up at 66.40), and Central Finance Company (up at 123.00).
+
+Foreign buying interest was seen in Commercial, JKH, Sampath, Richard Pieris and Co (up at 22.00), Lanka IOC (down at 112.25), and Ceylon Grain Elevators (up at 170.50).
+
+...
+
+[Data](articles/8437a917.json)
+
+[Extended Data](ext_articles/8437a917.ext.json)
 
 ---
 
@@ -1689,6 +1755,28 @@ Accordingly, 738,050 people have been given the opportunity for postal voting. T
 [Data](articles/7125ee60.json)
 
 [Extended Data](ext_articles/7125ee60.ext.json)
+
+---
+
+### Sri Lanka sells Rs125bn in treasury bills, yields steady across maturities
+
+*2024-10-23 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs125bn-in-treasury-bills-yields-steady-across-maturities-184564/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were flat across maturities at Wednesday’s auction with all offered 125 billion rupees of bills sold, data from the debt office showed.
+
+The 3-month yield held steady at 9.32 percent, with 40 billion offered and 66.4 billion rupees bills sold.
+
+The 6-month yield held steady at 9.65 percent, with 42.5 billion offered and 45.7 billion rupees of bills sold.
+
+The 12-month bills held steady at 9.95 percent, with 42.5 billion offered and 12.8 billion rupees of bills sold.
+
+The 6 and 9 month bills are available on tap after the auction. (Colombo/Oct23/2024)
+
+◼️
+
+[Data](articles/0bc3e2c2.json)
+
+[Extended Data](ext_articles/0bc3e2c2.ext.json)
 
 ---
 
@@ -2373,105 +2461,5 @@ The Negombo High Court has sentenced 10 foreigners, including 9 Iranians and a P
 [Data](articles/89f47f37.json)
 
 [Extended Data](ext_articles/89f47f37.ext.json)
-
----
-
-### Deposit of intelligence information is a serious problem
-
-*2024-10-23 13:18:08* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-තොරතුරු-හෙළිකිරීම-බරපතල-ප්‍රශ්ණයක්/11-412630) · `si`
-
-Sri Lanka faces intelligence issues: Defense Minister warns of foreign interference, intelligence decline, and security threats. Government urged to act swiftly to resolve problems and restore confidence in intelligence operations.
-
-🟩
-
-The last government has been able to restructure the country with a serious problem without having a serious problem in the country without interpreting such intelligence shows without any external tourist country.Defense Minister Pipaina Bandara Tennakoon said 26th.
-
-When attending a public meeting raised by a public meeting in Dambulla, Praise Bandara Tennakoon said that the travel alarm imposed from a foreign country was a serious problem.
-
-The former government defense minister said that there was a decline in the Buddision of intelligence in Sri Lanka.
-
-He said that some collapse of the country would think that they would not be as low enough to do politics to politics.
-
-He said that the government could resolve the bruise and issue a complaint with the bodies of a government.
-
-He also emphasized that many such incidents were reported during the last two and a half years.
-
-...
-
-[Data](articles/d91467a6.json)
-
-[Extended Data](ext_articles/d91467a6.ext.json)
-
----
-
-### The boy tried to bathe in the fire
-
-*2024-10-23 13:15:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தீயில்-குளித்து-தன்னுயிரை-மாய்க்க-சிறுவன்-முயற்சி/76-345919) · `ta`
-
-Boy sets self on fire during family dispute. 12-year-old hospitalized after attempted suicide. Police investigating incident in Bogawantalawa.
-
-🟩
-
-The 12 -year -old boy, the incident where he was setting fire to himself, Bogawantalawa. Bogawantalawa police said that the plantation area was held at around 10 pm on Tuesday (22).
-
-On the day of the incident, there was a fight between the father and the mother. Initial investigations have revealed that the boy warned that he was setting fire to his mother.
-
-The boy, who was suffering from burns, has been admitted to the Dikoya-Klangan Base Hospital for further treatment after being admitted to the District Hospital, Bogawantalawa.
-
-Investigations have also revealed that the company does not go to school and is an intermittent student.
-
-◼️
-
-[Data](articles/90332e15.json)
-
-[Extended Data](ext_articles/90332e15.ext.json)
-
----
-
-### Ready to play with 'Tilskup' in politics - Tilson
-
-*2024-10-23 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196906) · `ta`
-
-Former cricketer Tilakaratne Tilson enters politics, aims to replicate cricket success. Introduced digital village program in 2018, benefiting 57,000 families. Plans to implement projects nationwide in Sri Lanka.
-
-🟩
-
-Former cricketer Tilakaratne Tilson has said that he is ready to play in politics.
-
-He has expressed his desire to get involved in politics and said that I would get the name of Dilskup in politics like cricket.
-
-In 2018, I introduced the digital village program to strengthen women and raise the livelihood of families at the village level.
-
-With this scheme, 57,000 families are currently benefiting from my party, I will introduce projects in the entire Sri Lanka through my party.
-
-◼️
-
-[Data](articles/6ebd0a17.json)
-
-[Extended Data](ext_articles/6ebd0a17.ext.json)
-
----
-
-### Israel confirms that Hezbollah Succession Leader died
-
-*2024-10-23 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202461) · `si`
-
-Israel confirms death of Hezbollah succession leader Hashim Shafyaden. Hezbollah denies claim. Israeli attack targets building in Lebanon.
-
-🟩
-
-Hezzan Nasaralla, Head of Hezbollah, Lebanon, Hasan Nasaralla was killed in a month ago.
-
-Meanwhile, Israel has officially confirmed Hashhim Shafyaden, who was supposed to be the successor leader of the organization.
-
-Although Israel said that he had died in the attack targeting Shafydans, Hezbollah has not accepted it yet.
-
-In the meantime, Israel's attack was a building in Lebanon, reports foreign media.
-
-◼️
-
-[Data](articles/c44334a0.json)
-
-[Extended Data](ext_articles/c44334a0.ext.json)
 
 ---

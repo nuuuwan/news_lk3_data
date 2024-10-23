@@ -1,36 +1,82 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 08:44:08**
+As of **2024-10-23 08:59:17**
 
 ## Newspaper Stats
 
-*Scraped **50,837** Articles*
+*Scraped **50,840** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 410
 colombotelegraphcom | 509
-bbccomsinhala | 513
+bbccomsinhala | 514
 islandlk | 3,030
 economynextcom | 3,108
 dailyftlk | 3,474
 adalk | 4,721
 dailymirrorlk | 4,733
-adaderanalk | 6,021
+adaderanalk | 6,022
 tamilmirrorlk | 6,988
 virakesarilk | 8,148
-adaderanasinhalalk | 8,819
+adaderanasinhalalk | 8,820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,826 (100.0%) of 50,837 articles have been extended.
+50,829 (100.0%) of 50,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### One injured in shooting at Ratmalana railway yard
+
+*2024-10-23 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102863/one-injured-in-shooting-at-ratmalana-railway-yard) · `en`
+
+A person was injured in a shooting incident at the Ratmalana railway yard in the early hours of today (23).
+
+According to the Police Media Division, five individuals had entered the yard to steal property and had assaulted and injured a railway security officer on duty.
+
+In response, the security officer had opened fire at the suspects, injuring one, while the others have fled.
+
+Both the injured suspect and the security officer, who was injured in the attack, have been admitted to Kalubowila Hospital.
+
+Mount Lavinia Police is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/a31c0b6f.json)
+
+[Extended Data](ext_articles/a31c0b6f.ext.json)
+
+---
+
+### All postal workers' leave canceled
+
+*2024-10-23 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202449) · `si`
+
+Postal workers' leave canceled until Nov 14. Exceptions for illness require provincial deputy postmaster approval. General elections registration deadline today.
+
+🟩
+
+Steps have been made to cancel the loses of all employees of the Postal Department at the next general election.
+
+Rajitha Ranasinghe said that the holidays had been carried out from today (23) to 14th November 14.
+
+However, it is said that if any illness or leave, however, the approval of the Deputy Postrent to approve the approval of the province.
+
+Rajitha Ranasinghe said that Registration of Registered Postal Vote for General Elections is due to be accepted today.
+
+◼️
+
+[Data](articles/fd51b0d1.json)
+
+[Extended Data](ext_articles/fd51b0d1.ext.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -352,6 +398,8 @@ I had my first ‘impactful’ failure in a corporate role and my first acquaint
 
 [Data](articles/7dc54b50.json)
 
+[Extended Data](ext_articles/7dc54b50.ext.json)
+
 ---
 
 ### Relevance of neutral foreign policy
@@ -665,6 +713,26 @@ I had been working as the Chief Minister of the Batticaloa Municipality for 5 ye
 [Data](articles/186a9f4e.json)
 
 [Extended Data](ext_articles/186a9f4e.ext.json)
+
+---
+
+### දෙමව්පියන්ට 'හිසරදයක්' වූ පාසල්වල මුදල් එකතු කිරීම
+
+*2024-10-23 02:22:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwylyl0900qo) · `si`
+
+1943 දී එවක අධ්‍යාපන අමාත්‍ය ආචාර්ය සී.ඩබ්ලිව්.ඩබ්ලිව්. කන්නන්ගර විසින් නිදහස් අධ්‍යාපන පනත් කෙටුම්පත රාජ්‍ය කවුන්සිලයේදී හඳුන්වා දෙන ලදී. බොහෝ විවාදවලින් පසුව එය ක්‍රියාත්මක කිරීම සඳහා අනුමත කරන ලද අතර 1945 ඔක්තෝබර් 01 වැනි දින නිදහස් අධ්‍යාපන ප්‍රතිපත්තිය ක්‍රියාත්මක විය.
+
+එම නිදහස් අධ්‍යාපන ප්‍රතිපත්තිය හේතුවෙන් මෙරට බොහෝ දෙනෙකුට නොමිලේ අධ්‍යාපනය හැදෑරීමට අවස්ථාව උදාවිය.
+
+එසේ වුවද අද වනවිට මෙරට පාසල්වල ක්‍රියාත්මක වන මුදල් රැස් කිරීම හේතුවෙන් මව්පියන්ට තම දරුවන් පාසල් යැවීමට සිදුවීම ආර්ථික මෙන්ම මානසිකව ද ගැටළු සහගත තත්ත්වයකට පත්ව තිබේ.
+
+පාසල්වල සංවර්ධන කටයුතුවලට පමණක් සීමා නොවී ඇතැම් පාසල්වල ගුරුවරුන්ට විවිධ තෑගිබෝග ලබාදීමට ද මුදල් එකතු කරන තත්ත්වයක් මේ වන නිර්මාණය වී ඇති බව බීබීසී සිංහල වෙත අදහස් දක්වමින් පාසල් යන වයසේ සිටින දියණියකගේ පියෙක් පැවසීය.
+
+කොළඹ පිහිටි ප්‍රධාන පාසලක සිය දියණිය අධ්‍යාපනය හදාරන බව පැවසූ එම පුද්ගලයා බීබීසී සිංහල වෙත අදහස් පළ කළේ, සිය අනන්‍යතාව හෙළි නොකිරීමේ පොරොන්දුව මත ය.
+
+...
+
+[Data](articles/7a9a033d.json)
 
 ---
 
@@ -2273,99 +2341,5 @@ Already, Irfan released the video of the child who was born last year and releas
 [Data](articles/23e8cabc.json)
 
 [Extended Data](ext_articles/23e8cabc.ext.json)
-
----
-
-### 90 million fines for a defendant's collapse
-
-*2024-10-22 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202429) · `si`
-
-Colombo High Court imposes 90 million fine on guarantors for defendant's failure to appear. Three individuals charged under drug laws after signing 100 million rupee bail bond. Judge cites legal obligations for guarantors to produce accused.
-
-🟩
-
-The Colombo High Court has fined the three guarantors of the accused of the court.
-
-Rajitha Asadantha charges are available under the Failure to expose the influence of heroin to expose over Rs.
-
-The decision was issued by Colombo High Court Judge Navasinghe.
-
-When the defendant was produced before the Magistrate's Court, three people on behalf of him Thusila Indrajith, Amila Fernando and Mohammed Ikram were guaranteed.
-
-They had signed a bail bonds of Rs. 100 lakhs.
-
-However, the three guarantors were summoned to court as a result of the court of the accused.
-
-The High Court Judge said that if a person would be guaranteed for a suspect or defendant, the guarantor was bound by the guarantor to produce the accused.
-
-Deputy Sudarshana De Silva, who appeared in behalf of the Attorney General, was asked to act in accordance with the legal provisions of the court.
-
-Accordingly, the defendants of the case failing to submit the defendant to submit the accused by 90 lakhs of Rs.
-
-◼️
-
-[Data](articles/ea4bed0a.json)
-
-[Extended Data](ext_articles/ea4bed0a.ext.json)
-
----
-
-### Father who tried to save his son
-
-*2024-10-22 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202428) · `si`
-
-Father killed saving son from abductors. Acid attack injures both. Police blame personal dispute.
-
-🟩
-
-A father who was trying to save his son abducted by a group of people was killed in the jeep.
-
-The Son has also launched an acid attack by the people.
-
-A group of people had come from a jeep to a house in Parakaduwa, Eheliyagoda.
-
-The police said that their father had attempted to prevent it from trying to take handcuffed to a young man at home and tried to take acid.
-
-The father was hanging in the jeep and that he had fallen to running it.
-
-The driver of the jeep has been driven by the vehicle.
-
-The police said that the 65 year old man was killed after hospitalization.
-
-The relatives were hospitalized while the abducted son was rubbed with injuries.
-
-Police said that the cause of a personal dispute is the cause of the attack.
-
-◼️
-
-[Data](articles/1947114d.json)
-
-[Extended Data](ext_articles/1947114d.ext.json)
-
----
-
-### The committee that has targeted the political revenge of Ranil
-
-*2024-10-22 14:25:03* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-දේශපාලන-පළිගැනීම-ඉලක්ක-කරගෙන-පත්-කරපු-කමිටුව-පිළිගන්නේ-නෑ/11-412610) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-President Ranil Wickremesinghe formed a committee targeting political revenge. Cabinet Spokesperson Vijitha Herath criticized this move, stating it undermines Wickremesinghe's retirement due to political interests. The committee's legitimacy is questioned by officials.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath said that the committee appointed by President Ranil Wickremesinghe targeting political revenge.
-
-He was speaking at a media briefing to the Cabinet Decision.
-
-"We do not accept the committee that has targeted the political revenge of Ranil Wickremesinghe, who had been sentenced to retirement on the political interests.. "
-
-◼️
-
-[Data](articles/ecd4db1d.json)
-
-[Extended Data](ext_articles/ecd4db1d.ext.json)
 
 ---

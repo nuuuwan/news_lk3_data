@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 09:13:12**
+As of **2024-10-23 09:24:30**
 
 ## Newspaper Stats
 
-*Scraped **50,846** Articles*
+*Scraped **50,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 3,108
 dailyftlk | 3,474
 adalk | 4,722
 dailymirrorlk | 4,733
-adaderanalk | 6,023
+adaderanalk | 6,025
 tamilmirrorlk | 6,991
 virakesarilk | 8,148
-adaderanasinhalalk | 8,821
+adaderanasinhalalk | 8,823
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,829 (100.0%) of 50,846 articles have been extended.
+50,843 (100.0%) of 50,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### The Johnston CID
+
+*2024-10-23 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202452) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+CID: Criminal Investigations Department arrives to take statement from former MP Johnston Fernando.
+
+🟩
+
+The Criminal Investigations Department has arrived at the CID to provide a statement former Parliamentarian Johnston Fernando.
+
+◼️
+
+[Data](articles/a3f552ca.json)
+
+[Extended Data](ext_articles/a3f552ca.ext.json)
+
+---
+
+### McDonald’s burgers linked to E. coli outbreak in the US
+
+*2024-10-23 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102866/mcdonalds-burgers-linked-to-e-coli-outbreak-in-the-us) · `en`
+
+A McDonald’s sandwich has been making people sick in the US, according to the Centers for Disease Control and Prevention (CDC).
+
+E. coli, a type of bacteria that can cause serious stomach problems, has been found in McDonald’s Quarter Pounder sandwiches, the CDC announced on Tuesday.
+
+So far, the CDC has recorded 49 cases of illness across 10 states. Ten cases resulted in patients being admitted to hospital and one person has died.
+
+Most of the cases were recorded in western and Midwest states, according to the CDC.
+
+The fast-food restaurant is working with investigators to determine which ingredients caused the outbreak, according to a statement from the CDC.
+
+“McDonald’s has pulled ingredients for these burgers, and they won’t be available for sale in some states,” the agency said.
+
+“It is not yet known which specific food ingredient is contaminated,” the CDC added, noting that McDonald’s has already “stopped using fresh slivered onions and quarter-pound beef patties in several states”.
+
+...
+
+[Data](articles/cd0c4a1e.json)
+
+[Extended Data](ext_articles/cd0c4a1e.ext.json)
+
+---
+
+### A Kelaniya University student falls off the upper flow of the hostel
+
+*2024-10-23 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202451) · `si`
+
+Student fell from upper floor of Kelaniya University hostel during study session. Incident occurred at educational institution.
+
+🟩
+
+A student who was studying at the Kelaniya University has fallen in a high floor of the university hostel.
+
+◼️
+
+[Data](articles/e8e65990.json)
+
+[Extended Data](ext_articles/e8e65990.ext.json)
+
+---
+
+### Student falls to death from upper floor of hostel at Kelaniya Uni.
+
+*2024-10-23 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102865/student-falls-to-death-from-upper-floor-of-hostel-at-kelaniya-uni-) · `en`
+
+A male student has reportedly fallen to his death from an upper floor of the C.W.W. Kannangara Hostel at the University of Kelaniya, said Police.
+
+◼️
+
+[Data](articles/21469c94.json)
+
+[Extended Data](ext_articles/21469c94.ext.json)
+
+---
 
 ### Putin hosts Global South leaders at BRICS summit meant to counterbalance Western clout
 
@@ -48,75 +128,109 @@ The alliance that initially included Brazil, Russia, India, China and South Afri
 
 [Data](articles/863707e3.json)
 
+[Extended Data](ext_articles/863707e3.ext.json)
+
 ---
 
-### ලබන වසරේ බඩඉරිඟු ආනයනය අඩුකිරීමට පියවර
+### Steps to reduce the import of maize next year
 
 *2024-10-23 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202450) · `si`
 
-ලබන වසරේ ආනයනය කරණු ලබන බඩඉරිඟු ප්‍රමාණය මෙක්ට්‍රික් ටොන් එක් ලක්ෂ පනස් දහසක් දක්වා අඩුකිරීමට පියවර ගන්නා ලෙස උපදෙස් ලැබී ඇති බව කෘෂිකර්ම අමාත්‍යාශයේ ලේකම් එම්. පී. එන්. එම් වික්‍රමසිංහ මහතා පවසයි.
+Sri Lanka aims to reduce maize imports by 150,000 MT next year. The Ministry of Agriculture instructs to decrease maize cultivation. A program to manufacture seeds domestically is underway. Land allocation for maize increased this year to boost production.
 
-ඔහු සඳහන් කළේ, දැනට වාර්ෂිකව බඩඉරිඟු මෙක්ට්‍රික් ටොන් ලක්ෂ තුනක් ආනයන කරන බවය.
+🟩
 
-"මේ සඳහා විශාල මුදල් ප්‍රමාණයක් ඩොලර් වශයෙන් රටින් පිට යනවා. ඒ නිසා අපිට උපදෙස් ලැබිලා තියෙනවා ලබන අවුරුද්දේ මෙක්ට්‍රික් ටොන් එක් ලක්ෂ පනස් දහසක් දක්වා අඩුකරන්න ඕනේ. ඒ සඳහා අපි දැනට කරන නිෂ්පාදනය වැඩි කරන්න ඕනේ. මේ අවුරුද්දේ අපි බඩඉරිඟු සඳහා යොදන ඉඩම් ප්‍රමාණය වැඩි කරලා තියෙනවා. ඒ අනුව අපි විශ්වාස කරනවා ලොකු ඩොලර් ප්‍රමාණයක් රටින් පිටට යන එක අඩු කරගන්න පුළුවන් කියලා."
+Ministry of Agriculture, the Ministry of Agriculture has been instructed to reduce the maize content of maize next year to Rs.. P. N. Says Mr. Wickremesinghe.
 
-විදේශවලින් බීජ ආනයනය කිරීමකින් තොරව එම බීජ මෙරටදීම නිෂ්පාදනය කිරීම සඳහා වැඩපිළිවලක් සකස් කරමින් පවතින බව ද එම්.පී.එන්.එම් වික්‍රමසිංහ මහතා සඳහන් කළේය.
+He said that there are two hundred tons of maize malek at present.
+
+"A large amount of money goes out of dollar. Therefore, we have been instructed to reduce one hundred and fifty thousand MIYC ton the next year. We need to increase the product that we do. This year, we have increased the land for maize. So we believe that the bigger dollars can reduce the country. "
+
+He also said that there is a program to manufacture the seeds in Sri Lanka without importation of seeds from abroad.
 
 ◼️
 
 [Data](articles/7cfc37d9.json)
 
+[Extended Data](ext_articles/7cfc37d9.ext.json)
+
 ---
 
-### சுமார் 10,000 சிறுவர்கள் குறித்து அதிர்ச்சி அறிக்கை
+### Shock report on about 10,000 boys
 
 *2024-10-23 08:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமார்-10-000-சிறுவர்கள்-குறித்து-அதிர்ச்சி-அறிக்கை/175-345899) · `ta`
 
-இலங்கையில் ஐந்து வயதுக்குட்பட்ட 10,323 சிறுவர்கள் கடுமையான போஷாக்குக் குறைபாட்டினால் பாதிக்கப்பட்டுள்ளதாக குடும்ப சுகாதாரப் பணியகம் வெளியிட்டுள்ள சமீபத்திய அறிக்கை காட்டுகிறது.
+Here's a summary of the report in approximately 200 characters:
 
-அறிக்கையின்படி, ஒரு வயதுக்குட்பட்ட குழந்தைகளிலும், ஒன்று முதல் இரண்டு வயது வரையிலான குழந்தைகளிலும், இரண்டு முதல் ஐந்து வயது வரையிலான குழந்தைகளிலும் ஊட்டச்சத்து குறைபாடு அதிகரித்துள்ளது.
 
-எனினும், இந்த எண்ணிக்கை கடந்த ஆண்டுடன் ஒப்பிடும் போது குறைந்துள்ளது. கடந்த ஆண்டு கடுமையான ஊட்டச்சத்து குறைபாட்டால் பாதிக்கப்பட்ட குழந்தைகளின் எண்ணிக்கை 15,763 ஆக இருந்தது.
 
-ஐந்து வயதுக்குட்பட்ட 13,1649 சிறார்களை பதிவு செய்து நடத்தப்பட்ட கணக்கெடுப்பில் இது தெரியவந்துள்ளது.
+"New data reveals 10,323 children under 5 suffer severe malnutrition. Rates have decreased but remain concerning. Survey of 13,1649 children shows declining weights across all districts."
 
-இந்த மதிப்பீட்டில், நாடளாவிய ரீதியில் அனைத்து மாவட்டங்களிலும் ஐந்து வயதுக்குட்பட்ட குழந்தைகளின் எடையில் குறைவு ஏற்பட்டுள்ளதாக கண்டறியப்பட்டுள்ளது. R
+🟩
+
+A recent report by the Family Health Bureau shows that 10,323 children under the age of five are suffering from severe nutritional deficiency.
+
+According to the report, malnutrition has increased in children under one age, children aged one to two, and children aged two to five.
+
+However, this number has declined compared to last year. The number of children suffering from severe malnutrition last year was 15,763.
+
+This is revealed in a survey conducted by 13,1649 children under the age of five.
+
+In this assessment, the weight of children under the age of five in all districts across the country has been reduced to weight.. Remble
 
 ◼️
 
 [Data](articles/db670575.json)
 
+[Extended Data](ext_articles/db670575.ext.json)
+
 ---
 
-### ஜோன்ஸ்டனை கைது செய்ய சென்றது CID
+### CID went to arrest Johnston
 
 *2024-10-23 08:42:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோன்ஸ்டனை-கைது-செய்ய-சென்றது-CID/175-345897) · `ta`
 
-சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட அதிசொகுசு BMW கார் தொடர்பில் சந்தேகநபரான முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோவை கைது செய்ய குற்றப் புலனாய்வுத் திணைக்களத்தின் விசேட அதிகாரிகள் குழுவொன்று நேற்று (22ஆம் திகதி) கொழும்பில் இருந்து குருநாகல் நோக்கிச் சென்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+CID arrests Johnston Fernando over illegal BMW import case. Allegations: unregistered vehicle, fake license plate, hiding at Hilton Hotel. Formal inquiry pending.
 
-மோட்டார் வாகனப் பதிவுத் திணைக்களத்தில் பதிவு செய்யப்படாத வரி ஏய்ப்பு செய்து சட்டவிரோதமாக இலங்கைக்கு கொண்டு வரப்பட்ட வாகனத்தைப் பயன்படுத்துதல், குறித்த காருக்கு திருடப்பட்ட போலி இலக்கத் தகட்டைப் பயன்படுத்துதல் மற்றும் கொழும்பு ஹில்டன் ஹோட்டலில் மறைத்து வைக்குமாறு கட்டளையிட்டமை உள்ளிட்ட குற்றச்சாட்டுக்களின் கீழ் முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோவை கைது செய்வதற்கான விசாரணைகள் முன்னெடுக்கப்பட்டு வருவதாக குற்றப் புலனாய்வு திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-...
+A team of special officials of the Criminal Investigation Department (CID) has reportedly traveled from Colombo to Kurunegala yesterday (22nd) to arrest former minister Johnston Fernando in connection with the illegal imported BMW car.
+
+Investigations are underway to arrest former minister Johnston Fernando under allegations including the use of a vehicle that is not registered in the Motor Vehicle Registration Department and illegally brought to Sri Lanka, the use of a pseudo -digit plate for the car and ordered to be hidden at the Hilton Hotel in Colombo.
+
+Criminal Investigations Department officials told Fort Magistrate Dhanuja Lakmali that the suspect, Johnston Fernando, had committed punishable offenses under the Sri Lanka Penal Code and Motor Vehicle Act.
+
+Criminal Investigation Department officials have informed the Fort Magistrate that a formal inquiry will be carried out on the allegations leveled against former minister Johnston Fernando.. Remble
+
+◼️
 
 [Data](articles/e7e1a73f.json)
 
+[Extended Data](ext_articles/e7e1a73f.ext.json)
+
 ---
 
-### இன்று இடியுடன் கூடிய மழை பெய்யும்
+### Thundershowers are raining today
 
 *2024-10-23 08:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை-பெய்யும்/175-345896) · `ta`
 
-மேல், சப்ரகமுவ, தெற்கு, வடமேற்கு மற்றும் வடக்கு மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் இன்று (23) அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் கூறியுள்ளது.
+Heavy rain/thunderstorms forecasted for Kandy, Nuwara Eliya, and other provinces. Over 75mm rainfall expected in some areas. Thunderstorm warnings issued. Residents advised to prepare for strong winds and lightning.
 
-மேற்கு, சப்ரகமுவ, தெற்கு மற்றும் வடக்கு மாகாணங்களில் சில இடங்களில் 75மில்லிமீற்றருக்கும் அதிகமாக மழை பெய்ய வாய்ப்புள்ளதாகவும் துறை குறிப்பிடுகிறது.
+🟩
 
-நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதுடன், சில இடங்களில் 75 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும்.
+The Department of Meteorology has said that rain or thunderstorms are expected today (23) in the Kandy and Nuwara Eliya districts.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளையில்,  தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+More than 75 millimeters of rainfall in some parts of the West, Sabaragamuwa, Southern and Northern Provinces are likely to occur.
+
+Other parts of the country are likely to experience rain or thunderstorms in the evening or night, and more than 75 millimeters of heavy rainfall in some places.
+
+The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes in the event of thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/7ae1a7df.json)
+
+[Extended Data](ext_articles/7ae1a7df.ext.json)
 
 ---
 
@@ -230,23 +344,29 @@ Ajith Karawita says that the growth of people who have unwindged AIDS has shown 
 
 ---
 
-### ලක්ෂ 850ක මත්ද්‍රව්‍ය අල්ලයි
+### 850 lakhs arrested
 
 *2024-10-23 07:46:53* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ 850ක-මත්ද්‍රව්‍ය-අල්ලයි/11-412619) · `si`
 
-කටුනායක ගුවන් තොටුපොළ ගුවන් භාණ්ඩ ගම්මානයේ ( Cargo Village ) යූ.පී.එස්. බන්ධිත ගුදම තුළ හිමිකරුවන් ඉදිරිපත් නොවු ගුවන් තැපැල් පාර්සල් 07 ක් 10/21 දින රාත්‍රී විවෘත කර පරීක්ෂා කළ රේගු සහ පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් ඒවා තුළ තිබී රුපියල් අට කෝටි පනස් ලක්ෂයක් පමණ වටිනා විදේශීය මත්ද්‍රව්‍ය තොගයක් සොයා ගෙන අත් අඩංගුවට ගෙන  තිබේ.
+Sri Lanka: 850 lakh arrests at Katunayake Airport. Customs and police seize 7kg ice, 1kg each of cubicaries, kash drugs, and mandy chemicals. Parcels sent to fake addresses across Sri Lanka. Investigation ongoing.
 
-මෙම පාර්සල් ඇමෙරිකාව, එංගලන්තය, කැනඩාව යන රටවල සිට ශ්‍රී ලංකාවේ විවිධ ප්‍රදේශ වල පිහිටි ව්‍යාජ ලිපිනයන් වෙත එවා තිබුණි.
+🟩
 
-දීර්ඝ කාළයක් මෙම පාර්සල් භාර ගැනීමට හිමිකරුවන් පැමිණ නොසිටි අතර ඒවායේ සදහන් ලිපිනයන් පිළිබඳ සොයා බැලීමේ දී ඒවා ව්‍යාජ ලිපිනයන් බව තහවුරු වී තිබුණි .
+CARGO VILLAGE at Katunayake Airport Airport. The officers of the Customs and the Police Narcotics Division, who was not present at the bondous warehouse, were recovered and the officers of the Customs and the Police Narcotics Division of the Customs and the Police Narcotics Unit were recovered.
 
-මෙසේ අත් අඩංගුවට ගත් මත්ද්‍රව්‍ය අතර අයිස් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 07 යි ග්‍රෑම්  021 ක් , කුෂ් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 01 යි ග්‍රෑම් 143 ක් සහ මැන්ඩි නැමැති රසායනික මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 01 යි ග්‍රෑම් 338 ක් ද තිබී ඇත .
+The parcels had been sent to the false addresses in various parts of Sri Lanka to Sri Lanka's various parts of Sri Lanka.
 
-මෙම මත්ද්‍රව්‍ය තොගය වැඩිදුර විමර්ශන කටයුතු සදහා කටුනායක ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් විසින් සිදු කරමින් සිටිති.
+The owners were not present to accept the parcels and had confirmed that they were false addresses in search of their addresses.
+
+Among the drug was arrested, seven kilograms of ice narcotics, 1 kg of cubicaries, 1 kg of Kash drugs and 1 kg of chemicals called Mandy.
+
+The suspension of the drug is being carried out by the Police Narcotics Division of Katunayake airport for further investigations.
 
 ◼️
 
 [Data](articles/a337dcff.json)
+
+[Extended Data](ext_articles/a337dcff.ext.json)
 
 ---
 
@@ -824,23 +944,35 @@ I had been working as the Chief Minister of the Batticaloa Municipality for 5 ye
 
 ---
 
-### දෙමව්පියන්ට 'හිසරදයක්' වූ පාසල්වල මුදල් එකතු කිරීම
+### Adding money in schools 'headaches'
 
 *2024-10-23 02:22:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwylyl0900qo) · `si`
 
-1943 දී එවක අධ්‍යාපන අමාත්‍ය ආචාර්ය සී.ඩබ්ලිව්.ඩබ්ලිව්. කන්නන්ගර විසින් නිදහස් අධ්‍යාපන පනත් කෙටුම්පත රාජ්‍ය කවුන්සිලයේදී හඳුන්වා දෙන ලදී. බොහෝ විවාදවලින් පසුව එය ක්‍රියාත්මක කිරීම සඳහා අනුමත කරන ලද අතර 1945 ඔක්තෝබර් 01 වැනි දින නිදහස් අධ්‍යාපන ප්‍රතිපත්තිය ක්‍රියාත්මක විය.
+Here's a summary of the text in approximately 200 characters:
 
-එම නිදහස් අධ්‍යාපන ප්‍රතිපත්තිය හේතුවෙන් මෙරට බොහෝ දෙනෙකුට නොමිලේ අධ්‍යාපනය හැදෑරීමට අවස්ථාව උදාවිය.
 
-එසේ වුවද අද වනවිට මෙරට පාසල්වල ක්‍රියාත්මක වන මුදල් රැස් කිරීම හේතුවෙන් මව්පියන්ට තම දරුවන් පාසල් යැවීමට සිදුවීම ආර්ථික මෙන්ම මානසිකව ද ගැටළු සහගත තත්ත්වයකට පත්ව තිබේ.
 
-පාසල්වල සංවර්ධන කටයුතුවලට පමණක් සීමා නොවී ඇතැම් පාසල්වල ගුරුවරුන්ට විවිධ තෑගිබෝග ලබාදීමට ද මුදල් එකතු කරන තත්ත්වයක් මේ වන නිර්මාණය වී ඇති බව බීබීසී සිංහල වෙත අදහස් දක්වමින් පාසල් යන වයසේ සිටින දියණියකගේ පියෙක් පැවසීය.
+Money collection headaches in Sri Lankan schools. Parents burdened with excessive fees and donations. Ministry circulars attempt to stop illegal collections. Parents struggle with financial demands affecting education quality.
 
-කොළඹ පිහිටි ප්‍රධාන පාසලක සිය දියණිය අධ්‍යාපනය හදාරන බව පැවසූ එම පුද්ගලයා බීබීසී සිංහල වෙත අදහස් පළ කළේ, සිය අනන්‍යතාව හෙළි නොකිරීමේ පොරොන්දුව මත ය.
+🟩
+
+Minister of Education at the age of 1943, Dr. CWW. The Free Education Bill was introduced by Kannangara at the State Council. After many debates, it was approved to implement it and the free education policy was implemented on October 1, 1945.
+
+Due to that free education policy, many people have the opportunity to study free education.
+
+However, due to raising money in the schools in Sri Lanka, the parents have been able to send their children to their children economically and mentally.
+
+In some schools, some schools have been created to provide multiple gifts to teachers and money collection in schools have been created to provide multiple gifts.
+
+The man said that his daughter was studying at a major school in Colombo expressed his parents' education, he told BBC Sinhala on the promise of not revealing his identity.
+
+He further stated that the teachers have even given their food even their food at present.
 
 ...
 
 [Data](articles/7a9a033d.json)
+
+[Extended Data](ext_articles/7a9a033d.ext.json)
 
 ---
 
@@ -926,6 +1058,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/b72165fe.json)
 
+[Extended Data](ext_articles/b72165fe.ext.json)
+
 ---
 
 ### Sri Lanka Economic Summit to be held in January 2025
@@ -939,6 +1073,8 @@ Under the theme ‘Shaping Sri Lanka’s Future: Transformational Growth Rooted 
 ...
 
 [Data](articles/b20c52ba.json)
+
+[Extended Data](ext_articles/b20c52ba.ext.json)
 
 ---
 
@@ -979,6 +1115,8 @@ The All Share Price Index went down by 12.48 points, while the S and P SL20 rose
 ...
 
 [Data](articles/3e46cfd1.json)
+
+[Extended Data](ext_articles/3e46cfd1.ext.json)
 
 ---
 
@@ -2213,91 +2351,5 @@ The accident occurred when a private bus was traveling from Colombo to Sooriyawe
 [Data](articles/eb9d1896.json)
 
 [Extended Data](ext_articles/eb9d1896.ext.json)
-
----
-
-### Can Gas prices?
-
-*2024-10-22 15:59:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஸ்-விலை-கூடுமா/175-345860) · `ta`
-
-Gas prices may increase due to Cass company announcements. Cabinet spokesperson denies future price hikes, citing lack of information.
-
-🟩
-
-Cass companies have announced that it will increase the price of Gas?Will Gas prices increase in the future?Cabinet spokesman Minister Vijitha Herath, responding to a question asked at a media briefing announcing the weekly cabinet decisions held today (22).
-
-There is a system to increase prices. In connection with them, Cass companies will announce through media reports. However, will the prices increase in the future?He said there were no information on the matter.
-
-◼️
-
-[Data](articles/511a37a3.json)
-
-[Extended Data](ext_articles/511a37a3.ext.json)
-
----
-
-### There is no difference in rice control price - President
-
-*2024-10-22 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202431) · `si`
-
-No change in rice control price: President Anura Kumara Dissanayake. Long-term plan for farmers' benefits announced. Meeting held at Presidential Secretariat with rice traders and Agriculture Department officials.
-
-🟩
-
-President Anura Kumara Dissanayake says that the rice control price is not expected to make any changes.
-
-The President pointed out that the organized agriculture plan is planning to implement a long term program to benefit the farmer community.
-
-President Anura Kumara Dissanayake made these comments at the Presidential Secretariat today (22) with rice businessmen and the officials of the Department of Agriculture.
-
-◼️
-
-[Data](articles/d204372a.json)
-
-[Extended Data](ext_articles/d204372a.ext.json)
-
----
-
-### Peru ex-President Toledo convicted of bribe-taking, sentenced to 20 years in prison
-
-*2024-10-22 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102853/peru-ex-president-toledo-convicted-of-bribe-taking-sentenced-to-20-years-in-prison) · `en`
-
-Peruvian former President Alejandro Toledo was convicted of taking bribes from Brazilian construction giant Odebrecht and sentenced to 20 years and six months in prison on Monday.
-
-The verdict marks Peru’s first high-profile conviction related to Brazil’s continent-spanning Lava Jato corruption scandal.
-
-Toledo, a 78-year-old economist who holds a doctorate from Stanford University, governed the Andean nation between 2001 and 2006.
-
-He was convicted of taking $35 million in bribes from the company formerly known as Odebrecht, according to prosecutors, in exchange for letting it win a contract to build the road that now connects Peru’s southern coast with an Amazonian area in western Brazil.
-
-During the year-long trial, Toledo denied the money-laundering and collusion charges.
-
-Odebrecht, now known as Novonor, was at the center of Latin America’s largest graft scandal, after admitting in 2016 that it bribed officials in a dozen countries to secure public works contracts.
-
-...
-
-[Data](articles/7c4f6ea6.json)
-
-[Extended Data](ext_articles/7c4f6ea6.ext.json)
-
----
-
-### Two trains collide - 15 killed, 15 injured
-
-*2024-10-22 15:43:13* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-දෙකක්-එකිනෙක-ගැටෙයි----අයෙකු-මරුට--15ට-තුවාල/11-412611) · `si`
-
-Two trains collide in Wales: 15 dead, 15 hurt. BTP reports.
-
-🟩
-
-In a criminal accident, two trains collided with two trains in Wales.
-
-The British News Service (BTP) has also stated that 15 others were injured in the accident.
-
-◼️
-
-[Data](articles/0cd06203.json)
-
-[Extended Data](ext_articles/0cd06203.ext.json)
 
 ---

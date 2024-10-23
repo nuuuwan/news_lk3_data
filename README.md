@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 15:58:24**
+As of **2024-10-23 16:12:52**
 
 ## Newspaper Stats
 
-*Scraped **50,938** Articles*
+*Scraped **50,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,030
 economynextcom | 3,114
 dailyftlk | 3,474
 dailymirrorlk | 4,733
-adalk | 4,734
+adalk | 4,735
 adaderanalk | 6,041
-tamilmirrorlk | 7,014
+tamilmirrorlk | 7,015
 virakesarilk | 8,164
 adaderanasinhalalk | 8,837
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,837
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,938 (100.0%) of 50,938 articles have been extended.
+50,940 (100.0%) of 50,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Notification relating to voter card distribution
+
+*2024-10-23 15:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகம்-தொடர்பான-அறிவிப்பு/175-345930) · `ta`
+
+Election Commissioner announces voter card distribution dates: Oct 27, Nov 3. Postal voter cards issued Sat, work ongoing at district secretariats. 738,050 eligible for postal voting, up from previous election.
+
+🟩
+
+The Commissioner General of Elections Saman Sri Ratnayake said that the special day for the distribution of the official voter card on 2024 will be considered on October 27 and November 3.
+
+He also said that official voter cards will be issued to the post office on Saturday (26).
+
+“Work on issuing postal voter cards on the general election is being carried out on Tuesday (26) at the District Secretariats of the country.
+
+The total number of postal voter applications is 759,210. Of them, 21,160 were rejected.
+
+Accordingly, 738,050 people have been given the opportunity for postal voting. This is an increase in compared to the last presidential election. ”
+
+◼️
+
+[Data](articles/7125ee60.json)
+
+[Extended Data](ext_articles/7125ee60.ext.json)
+
+---
 
 ### More details revealed after Kelaniya Uni. Student falls to death
 
@@ -279,6 +305,28 @@ The plaintiff has expanded its restaurant network in many countries around the w
 [Data](articles/5e4de1c2.json)
 
 [Extended Data](ext_articles/5e4de1c2.ext.json)
+
+---
+
+### If the Alwis Committee report is not accepted, judge rejects 17 years?
+
+*2024-10-23 14:41:44* · [`adalk`](https://www.ada.lk/breaking_news/අල්විස්-කමිටු-වාර්තාව-පිළිනොගන්නේ-නම්-විනිසුරුවරිය-වසර-17ක්-ලබා-දුන්-තීන්දු-ප්‍රතික්ෂේප-කරනවාද-/11-412632) · `si`
+
+Alwis Committee report rejection implications: Leader Gammanpila claims 17-year judicial impact if rejected. Minister Herath denies report validity, calls it false. Potential consequences for judges appointed between 2006-2023.
+
+🟩
+
+Leader of the Call Oya Gammanpila said that if the Alwis committee was refused to reject all 17 years after the non-service was refused.
+
+He was speaking at a media briefing held in Colombo today (23).
+
+"Minister Vijitha Herath did not proclaim this report was a fake record. And in his statement, his statement was noted that the contents of the Alwis report was baseless falsehood. Minister Vijitha Herath rejects the report of the committee. If he refuses to reject the report on the basis of the minister of Vijitha Herath, he rejects all over the judges of the judge in 2006 to 2023? "
+
+◼️
+
+[Data](articles/3764163a.json)
+
+[Extended Data](ext_articles/3764163a.ext.json)
 
 ---
 
@@ -2337,47 +2385,5 @@ Rajitha Ranasinghe said that Registration of Registered Postal Vote for General 
 [Data](articles/fd51b0d1.json)
 
 [Extended Data](ext_articles/fd51b0d1.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-10-23 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102862/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern, North-western and Northern provinces and in Kandy and Nuwara-eliya districts.
-
-Fairly heavy showers above 75 mm are likely at some places in Western, Sabaragamuwa, Southernand Northern provinces.
-
-Showers or thundershowers will occur at several places in the other areas of the island during the evening or night and fairly heavy showers above 75 mm are likely at some places, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/ca7ec421.json)
-
-[Extended Data](ext_articles/ca7ec421.ext.json)
-
----
-
-### Firing in Ratmalana
-
-*2024-10-23 08:07:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்மலானையில்-துப்பாக்கிச்-சூடு/175-345895) · `ta`
-
-Ratmalana train yard robbery: Police report suspects attacked railway security officer, one suspect injured, others escaped.
-
-🟩
-
-According to the police media unit, some of the robbers who entered the Ratmalana train yard have attacked and injured a railway security officer who was on duty.
-
-One of the suspects was injured in the shooting and other suspects fled.
-
-Railway security officer who was injured in the attack. Remble
-
-◼️
-
-[Data](articles/3d5fed93.json)
-
-[Extended Data](ext_articles/3d5fed93.ext.json)
 
 ---

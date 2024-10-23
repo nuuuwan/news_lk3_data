@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 05:23:30**
+As of **2024-10-23 05:45:15**
 
 ## Newspaper Stats
 
-*Scraped **50,801** Articles*
+*Scraped **50,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,460
 adalk | 4,720
 dailymirrorlk | 4,733
 adaderanalk | 6,020
-tamilmirrorlk | 6,984
+tamilmirrorlk | 6,985
 virakesarilk | 8,148
 adaderanasinhalalk | 8,815
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,801 (100.0%) of 50,801 articles have been extended.
+50,802 (100.0%) of 50,802 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,30 @@ He said only a group of representatives comprising the senior officers of the Fo
 [Data](articles/554fb60c.json)
 
 [Extended Data](ext_articles/554fb60c.ext.json)
+
+---
+
+### We will edit together if the majority is available
+
+*2024-10-23 03:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்பான்மை-கிடைத்தால்-இணைந்து-திருத்துவோம்/175-345892) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Expectations rise as Anura Kumara Dissanayake's government prepares to discuss tax reform with IMF. Sajith Premadasa vows to reduce direct and indirect taxes, citing unfair practices under previous administration. United People's Power promises to modify IMF agreements to alleviate burdens on citizens.
+
+🟩
+
+People expected that the improper taxation implemented by the former president -led government will soon change. People expected that the government of Anura Kumara Dissanayake would discuss the tax system in discussion with the IMF.. They have to change what they said, not just in speech but also in practice. Sajith Premadasa said millions of people are expecting their direct and indirect taxes to be reduced.
+
+After giving the majority of the majority in Parliament, the United People's Power Council will work with the President and change the anti -people rules in the IMF (IMF) agreement and not bring the burden to the people from the people.Sajith Premadasa, the coalition leader and leader.
+
+...
+
+[Data](articles/51ba1e3e.json)
+
+[Extended Data](ext_articles/51ba1e3e.ext.json)
 
 ---
 
@@ -2481,27 +2505,5 @@ All employees working in the hospital are carrying out this vegetable performing
 [Data](articles/5f0db50d.json)
 
 [Extended Data](ext_articles/5f0db50d.ext.json)
-
----
-
-### Encouraged by Sri Lanka’s commitment to continue reform efforts - IMF chief
-
-*2024-10-22 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102845/encouraged-by-sri-lankas-commitment-to-continue-reform-efforts-imf-chief-) · `en`
-
-The Managing Director of the International Monetary Fund (IMF) Kristalina Georgieva has met with Sri Lanka’s delegation led by the Governor of the Central Bank, Dr. Nandalal Weerasinghe.
-
-The discussion took place on the sidelines of the 2024 Annual Meetings of the International Monetary Fund (IMF) and the World Bank Group (WBG) in Washington DC.
-
-Posting on ‘X’ (formerly Twitter), the IMF Managing Director said that she is encouraged by the Sri Lankan authorities’ commitment to continue the reform efforts to safeguard the hard-won gains under the IMF-supported program.
-
-She further assures that the IMF remains committed to supporting Sri Lanka build a better future for its people.
-
-The Sri Lankan delegation also includes Finance Secretary Mahinda Siriwardena and Senior Economic Advisor to the President Duminda Hulangamuwa.
-
-◼️
-
-[Data](articles/e3817cc0.json)
-
-[Extended Data](ext_articles/e3817cc0.ext.json)
 
 ---

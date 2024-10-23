@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 14:58:28**
+As of **2024-10-23 15:10:26**
 
 ## Newspaper Stats
 
-*Scraped **50,924** Articles*
+*Scraped **50,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ bbccomsinhala | 515
 islandlk | 3,030
 economynextcom | 3,114
 dailyftlk | 3,474
-adalk | 4,732
+adalk | 4,733
 dailymirrorlk | 4,733
 adaderanalk | 6,038
 tamilmirrorlk | 7,009
 virakesarilk | 8,162
-adaderanasinhalalk | 8,835
+adaderanasinhalalk | 8,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,924 (100.0%) of 50,924 articles have been extended.
+50,927 (100.0%) of 50,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Rain interrupted in the second match
+
+*2024-10-23 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202466) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Rain interrupts 2nd match between West Indies tourists and Sri Lankan team today (23). Match set to start at Pallekele Stadium, Kandy. Sri Lanka won 1st ODI against West Indies by 5 wickets."
+
+🟩
+
+Tourist West Indies and the Sri Lankan team will be held today (23).
+
+It is reported that the match is scheduled to begin at Pallekele Stadium, Kandy.
+
+Sri Lanka were able to win the first ODI in five wickets in the West Indies by 5 wickets.
+
+◼️
+
+[Data](articles/6ef6a357.json)
+
+[Extended Data](ext_articles/6ef6a357.ext.json)
+
+---
 
 ### Ex-Minister Johnston Fernando arrested by CID
 
@@ -75,6 +101,32 @@ They said that the US embassy in Colombo has taken the move on a travel suggesti
 [Data](articles/7ca99b66.json)
 
 [Extended Data](ext_articles/7ca99b66.ext.json)
+
+---
+
+### Johnston arrested
+
+*2024-10-23 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202465) · `si`
+
+Johnston Fernando arrested over BMW discovery case. Former MP failed to appear in court, warrant issued.
+
+🟩
+
+Former Parliamentarian Johnston Fernando had come to the CID this morning.
+
+The investigations into the discovery of a BMW car have been found in the Hilton Hotel's car parks.
+
+Former Minister Johnston Fernando had informed the Court of Appeal by his lawyer yesterday (22).
+
+Meanwhile, the Colombo High Court today issued a warrant to arrest former minister Johnston Fernando as he did not appeal to a case filed by the Bribery Commission.
+
+Johnston Fernando did not appear before the court when the case was taken up before Colombo High Court Judge Manjula Tilakaratne.
+
+◼️
+
+[Data](articles/f6076fd2.json)
+
+[Extended Data](ext_articles/f6076fd2.ext.json)
 
 ---
 
@@ -153,6 +205,34 @@ He has asked the authorities to find an emergency on the issue and said that if 
 [Data](articles/a1ae48c7.json)
 
 [Extended Data](ext_articles/a1ae48c7.ext.json)
+
+---
+
+### Train engines stolen diceel
+
+*2024-10-23 14:07:00* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-එංජිමෙන්-ඩිසල්-සොරකම්-කරලා/11-412631) · `si`
+
+Train engines stolen: 60 liters diesel missing from Anuradhapura Railway Station. Investigation underway involving railway officials and police.
+
+🟩
+
+Investigations have commenced in an investigation into the stolen of 60 liters of the engine, which had been investigated by the North railway line from the northern railway line.
+
+The train was arrived at the Anuradhapura Railway Station three days ago and parked on the third platform.
+
+Despite the timetables to leave again, even though this train arrives again,
+
+It has revealed that the robbery had revealed the robbery when it took action to travel the next day.
+
+According to information received by two liters of diesel, two liters of diesel, was in line with a tip in a playground to Anuradhapura railway station, police said that it was brought to the police as cases
+
+Police said that a team of police officers investigate a suspect that a railway secretary has been involved in the diesel roof.
+
+◼️
+
+[Data](articles/e4c7d6c4.json)
+
+[Extended Data](ext_articles/e4c7d6c4.ext.json)
 
 ---
 
@@ -2283,57 +2363,5 @@ During this meeting, participants focused on the current prices of consumer good
 [Data](articles/7c9a64b3.json)
 
 [Extended Data](ext_articles/7c9a64b3.ext.json)
-
----
-
-### Ceylon Chamber reschedules Sri Lanka Economic Summit in January
-
-*2024-10-23 06:12:59* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-reschedules-Sri-Lanka-Economic-Summit-in-January/34-768299) · `en`
-
-The Ceylon Chamber of Commerce yesterday announced that its flagship event, the Sri Lanka Economic Summit, originally scheduled for November 2024, has been rescheduled to 28 to 29 January, 2025, in light of the forthcoming General Election.
-
-Under the theme ‘Shaping Sri Lanka’s Future: Transformational Growth Rooted in Sound Economic Policies,’ the Summit will provide an essential platform for discussing the path forward at a time when Sri Lanka’s economic and political landscape has had significant changes.
-
-...
-
-[Data](articles/92bb002a.json)
-
-[Extended Data](ext_articles/92bb002a.ext.json)
-
----
-
-### Sri Lanka tackles passport shortage with 50,000 new arrivals
-
-*2024-10-23 06:12:34* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-tackles-passport-shortage-with-50-000-new-arrivals/34-768298) · `en`
-
-Sri Lanka has received around 7,500 passports on Saturday, with an additional 42,000 expected to arrive today (23), bringing the total to 50,000 passports this week.
-
-The move comes as part of the Government’s efforts to resolve a shortage that led to a long queue in recent months.
-
-Cabinet Spokesman and Public Security Minister Vijitha Herath yesterday announced that the Government plans to import another 100,000 passports next month, which is expected to significantly ease the backlog and reduce waiting times for applicants. This quantity is part of the 750,000 consignment.
-
-...
-
-[Data](articles/cdd0e26f.json)
-
-[Extended Data](ext_articles/cdd0e26f.ext.json)
-
----
-
-### Free Trade Zone Manufacturers Association congratulates new BOI Chairman
-
-*2024-10-23 06:11:39* · [`dailyftlk`](https://www.ft.lk/business/Free-Trade-Zone-Manufacturers-Association-congratulates-new-BOI-Chairman/34-768297) · `en`
-
-Free Trade Zone Manufacturers Association (FTZMA) has congratulated Arjuna Herath on his appointment as the new Chairman of the Board of Investment (BOI).
-
-FTZMA said being a board member at the Colombo Stock Exchange and a distinguished Senior Chartered Accountant and a Past President of the Institute of Chartered Accountants of Sri Lanka whilst actively involved in international accounting forums such as South Asian Federation of Accountants and the Confederation of Asia Pacific Accountants, it undoubtedly believes that the wisdom and experience gained could steer the BOI to the limelight of investment and strengthen the economy of  the country.
-
-“Moreover we are quite confident that you would develop BOI as a one-stop shop in meeting our expectations thereby making it more focused and useful to the existing and potential investors is the right way forward,” said FTZMA President Dhammika Fernando in the letter on behalf of the Executive Committee and members.
-
-◼️
-
-[Data](articles/65cee391.json)
-
-[Extended Data](ext_articles/65cee391.ext.json)
 
 ---

@@ -1,36 +1,130 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 18:00:35**
+As of **2024-10-23 18:20:38**
 
 ## Newspaper Stats
 
-*Scraped **50,962** Articles*
+*Scraped **50,969** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 410
 colombotelegraphcom | 509
-bbccomsinhala | 516
+bbccomsinhala | 517
 islandlk | 3,030
 economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
 adalk | 4,738
-adaderanalk | 6,047
-tamilmirrorlk | 7,015
+adaderanalk | 6,048
+tamilmirrorlk | 7,018
 virakesarilk | 8,164
-adaderanasinhalalk | 8,846
+adaderanasinhalalk | 8,848
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,962 (100.0%) of 50,962 articles have been extended.
+50,969 (100.0%) of 50,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Here is complete information about Arugam's incident
+
+*2024-10-23 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202477) · `si`
+
+Arugam incident summary: Acting IGP Priyantha Weerasuriya stated intelligence received threats against Sri Lanka. Defense Council discussed security measures for foreigners and religious sites. Police, STF, and intelligence officers implemented security plans. No threat to locals confirmed.
+
+🟩
+
+Acting IGP Priyantha Weerasuriya made a special statement today (23) regarding the security of arugam.
+
+"Intelligence has made a well-endancious duties because Sri Lanka has any threat to Sri Lanka. By October 7, we received intelligence. "
+
+The Defense Council discussed three weeks after the JANPL. It was advised. "
+
+"Police, STF, intelligence officers provided the security of the foreigners and safeguards in those foreigners, security and religious places."
+
+"The security measures have launched a security plan from yesterday (22). The reason is that the information is specified. "
+
+"The Security Council met this morning. The heads of the Defense Forces and Commanders also discussed there. The information received by the information received confirmed the security of foreigners. The embassies informed us in this regard. "
+
+"There is no threat to local individuals locally and not."
+
+◼️
+
+[Data](articles/643929c5.json)
+
+[Extended Data](ext_articles/643929c5.ext.json)
+
+---
+
+### Acting IGP assures security of foreigners in Sri Lanka
+
+*2024-10-23 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102887/acting-igp-assures-security-of-foreigners-in-sri-lanka) · `en`
+
+Acting Inspector General of Police (IGP) Priyantha Weerasooriya stated that the security of all foreigners in the country has been assured and that diplomatic missions have been informed.
+
+He made these comments while addressing a special press conference at the Polonnaruwa SSP’s Office, regarding the security measures taken following information received warning of a possible attack targeting popular tourist locations in the Arugam Bay area.
+
+◼️
+
+[Data](articles/0a81913b.json)
+
+[Extended Data](ext_articles/0a81913b.ext.json)
+
+---
+
+### Order to accept the denied nomination
+
+*2024-10-23 17:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மறுக்கப்பட்ட-வேட்புமனுவை-ஏற்குமாறு-உத்தரவு/175-345934) · `ta`
+
+Sri Lanka High Court orders Elections Commission to accept nomination for 2024 general election after rejecting candidate's papers due to improper submission. Candidate petitions court, arguing documents were correctly submitted. Supreme Court rules rejection was unlawful, ordering Elections Commission to recognize candidacy.
+
+🟩
+
+The Sri Lankan High Court today ordered the Elections Commission to accept the nomination of Pararajasingham Udayarasa of the Democratic National Alliance for the 2024 general election.
+
+Pararajasingham from the Vanni district had earlier been rejected by the Vanni Election Officer saying that the nomination papers of Udayarasa were not formally submitted.
+
+Subsequently, a petition was filed in the High Court by Pararajasingham Udayarasa and both.
+
+The petitioners said that although all the documents were properly submitted, the district election officer, Pararajasingham Udayarasa's nomination papers.
+
+The petitioners demanded that the decision of the District Election Officer be contrary to the law and order the decision to not be valid.
+
+Considering the facts, the Supreme Court ruled that the decision taken to reject Pararajasingham Udayarasa's candidature was contrary to the law.
+
+...
+
+[Data](articles/1b6eacd6.json)
+
+[Extended Data](ext_articles/1b6eacd6.ext.json)
+
+---
+
+### Acting Inspiration Inspector General of Arugamse
+
+*2024-10-23 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202476) · `si`
+
+Acting IGP Priyantha Weerasuriya stated foreigner safety in Sri Lanka. He ensured all embassies were informed about this assurance.
+
+🟩
+
+Acting IGP Priyantha Weerasuriya made a special statement on arugamic protection.
+
+He said he had established the safety of all the foreigners in the country and all embassies have been informed of it.
+
+◼️
+
+[Data](articles/12f36d3f.json)
+
+[Extended Data](ext_articles/12f36d3f.ext.json)
+
+---
 
 ### Security forces fully aware of Arugam Bay threat; Security tightened days ago
 
@@ -56,17 +150,75 @@ Additionally, special attention is being given to ensure the safety of tourists 
 
 ---
 
+### “The powerful government is needed, not the opposition”
+
+*2024-10-23 17:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சக்தி-வாய்ந்த-அரசாங்கமே-தேவை-எதிர்க்கட்சியல்ல/175-345933) · `ta`
+
+President Anura Kumara Dissanayake emphasizes strong government over opposition. He urges support for NPP candidates in Gampaha district. Claims previous agreements need review. Assures stable governance despite critics' predictions of short-term rule.
+
+🟩
+
+President Anura Kumara Dissanayake, at a recent election meeting in Katunayake, urged the people's actions to take action to complete the NPP (National People's Power) in November 14 in the November 14 general election.
+
+In a speech to strengthen the NPP candidates representing the Gampaha district, the President said that a powerful government needs a strong mandate to make sure to make firm decisions.
+
+The President said that many agreements have been made in the past and that they should be reviewed in the past.
+
+"That's all, we need a strong government. The next parliament must be filled by the cleaners.
+
+Responding to criticism that the new government will collapse in a few more months, he said that they are daydreaming for the tendency and that his government will progress uninterrupted until the expectations of the people are met.
+
+◼️
+
+[Data](articles/ceebb1c4.json)
+
+[Extended Data](ext_articles/ceebb1c4.ext.json)
+
+---
+
 ### Former Minister Johnston Fernando remanded
 
 *2024-10-23 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102885/former-minister-johnston-fernando-remanded-) · `en`
 
 Former Minister Johnston Fernando, who was arrested by the CID over the incident of a luxury vehicle allegedly belonging to him found parked at a star-class hotel premises, has been remanded until October 30 by Colombo Fort Magistrate.
 
-◼️
+He has been arrested by the Criminal Investigation Department (CID) over the possession of an illegally assembled luxury vehicle and produced before the Colombo Fort Magistrate’s Court this evening.
+
+The Former MP was arrested after he had arrived at the CID this morning (23) to provide a statement regarding the unregistered BMW car, allegedly belonging to him, which was recently found suspiciously parked at a star-class hotel in Colombo.
+
+A petition filed by Fernando, seeking an order to prevent his arrest over the incident, was taken up for consideration yesterday (22).
+
+During the hearing, his attorneys informed the court that Fernando was prepared to appear before the CID today to give a statement on the matter.
+
+...
 
 [Data](articles/b4b27611.json)
 
 [Extended Data](ext_articles/b4b27611.ext.json)
+
+---
+
+### Notifying the Israelites immediately
+
+*2024-10-23 17:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலியர்களை-உடனடியாக-வெளியேறுமாறு-அறிவித்தல்/175-345931) · `ta`
+
+Israel warns tourists: Avoid Sri Lanka beaches due to terror threats. National Security Council advises caution in public gatherings. Defense Ministry monitoring situation closely.
+
+🟩
+
+The Israeli National Security Council announced on Wednesday to the Israeli to leave some tourist areas in Sri Lanka due to the threat of terrorist attacks.
+
+The company said the warning on the beaches of the Gulf of Health and the southern and west of Sri Lanka was issued on the basis of "the threat of terrorism centered on tourism and beaches."
+
+The Security Council does not refer to the exact nature of the threat and call for warning the Israelites in other parts of Sri Lanka and to avoid holding major meetings in public places.
+
+“Israeli Defense Organization ... He is in close contact with the security officials in Sri Lanka and is following the progress of the situation. ”
+
+◼️
+
+[Data](articles/abd255c7.json)
+
+[Extended Data](ext_articles/abd255c7.ext.json)
 
 ---
 
@@ -1858,6 +2010,32 @@ According to today's situation, the price of an ounce of gold is 804,893 rupees.
 
 ---
 
+### General Election 2024: The Supreme Court rejects Ashe's petition
+
+*2024-10-23 11:12:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0rgwq1dje2o) · `si`
+
+Supreme Court rejects Ashe's petition for Colombo district nomination. Three-judge bench rules against candidate's claim. Election Commission cites legal grounds for rejection. Decision impacts future presidential election voter numbers.
+
+🟩
+
+The Supreme Court was rejected by the Supreme Court, Ashen Senaratne, who was appointed as the District Referral Order to reject its nomination papers for the Colombo district at the next general election.
+
+After considering the petition regarding the petition, the order was issued by a three-member judge with a three-member judiciary and Priyantha Fernando three-member papers.
+
+Attorney-at-Law Advanced Legal Devendra, who appeared for the petitioner, stated that his client had been submitted to the selection officer in accordance with the election law.
+
+Is there suitable age to handle the control of a country? Will there be eight lakhs of voters in the future presidential election?
+
+Attorney-at-law pointed out that the decision taken by the Selection Officer is contrary to the law to reject the nomination paper at the time of handing it.
+
+...
+
+[Data](articles/d18c1686.json)
+
+[Extended Data](ext_articles/d18c1686.ext.json)
+
+---
+
 ### Arugamization protection is thus
 
 *2024-10-23 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202456) · `si`
@@ -2215,185 +2393,5 @@ Aruni Wijewardena, Secretary to the Ministry of Foreign Affairs of Sri Lanka, wh
 [Data](articles/8ea481b6.json)
 
 [Extended Data](ext_articles/8ea481b6.ext.json)
-
----
-
-### Sri Lanka to reduce maize imports by 50% next year
-
-*2024-10-23 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102871/sri-lanka-to-reduce-maize-imports-by-50-next-year) · `en`
-
-The Secretary of the Ministry of Agriculture, M.P.N.M Wickramasinghe, says that they have been instructed to reduce maize imports to 150,000 metric tons next year.
-
-He stated that Sri Lanka currently imports around 300,000 metric tons of maize annually.
-
-He explained that this reduction is aimed at minimizing the significant outflow of foreign exchange spent on maize imports.
-
-“For this purpose, we need to increase the current production. This year, we have increased the land used for maize cultivation.”
-
-Accordingly, he said that they believe this will help to decrease the outflow of foreign exchange from the country.
-
-M.P.N.M. Wickramasinghe also noted that a program is being prepared to produce the necessary seeds locally without importing seeds from abroad.
-
-◼️
-
-[Data](articles/28b10791.json)
-
-[Extended Data](ext_articles/28b10791.ext.json)
-
----
-
-### The attack may be carried out!- American Messenger Travel Warning!
-
-*2024-10-23 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196892) · `ta`
-
-US Embassy warns tourists about potential attacks in Arukamguda. Avoid travel until further notice. Contact 119 for suspicious incidents. Use secure communication methods and check local news.
-
-🟩
-
-The US embassy in Sri Lanka has said that it has been reported that the Tourist places in the Arukamguda area may be attacked.
-
-It is noteworthy that the US embassy has instructed its national citizens to avoid tourism until re -notice to the area.
-
-Meanwhile, the US Messenger has made it clear to its national citizens to inform the telephone numbers 119 if there are suspicious incidents.
-
-The US embassy has appealed to its nationals to have telephone -like communications and visit the local media of Sri Lanka.
-
-◼️
-
-[Data](articles/a030a10d.json)
-
-[Extended Data](ext_articles/a030a10d.ext.json)
-
----
-
-### What is the threat to Arugamay area?
-
-*2024-10-23 10:23:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq8v2vdlxd3o) · `si`
-
-Threats to Arugam Bay area:
-
-
-
-US Embassy warns tourists due to potential security risks.
-
-
-
-Increased police presence and roadblocks in the area.
-
-
-
-Reports of Israeli involvement in purchasing properties and establishing facilities.
-
-
-
-Concerns about surveillance and monitoring of tourists.
-
-
-
-Reduced tourist arrivals since 2019 Easter bombings and economic crisis.
-
-🟩
-
-The US embassy in Sri Lanka has issued an announcement today (Oct: 23) as a popular destination among foreign tourists.
-
-The Embassy has stated that the embassy information has been received at the popular tourist sites in Arugambay.
-
-The announcement indicates that it has been issued to prevent his staff as well as US citizens of Sri Lanka.
-
-Skip Twitter Post, Do you agree to reach content 1twitter? This article contains the content provided by Twitter. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Twitter cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The content is not responsible for the content of the external web sites.
-
-Meanwhile, the British High Commission in Sri Lanka has also issued an announcement by informing Sri Lanka's visit to Sri Lanka.
-
-...
-
-[Data](articles/548aa166.json)
-
-[Extended Data](ext_articles/548aa166.ext.json)
-
----
-
-### Johnston Fernando was present at the Criminal Investigation Department
-
-*2024-10-23 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/196890) · `ta`
-
-Former Minister Johnston Fernando visited Criminal Investigation Department on 23rd regarding allegations of using illegally registered BMW vehicle. He attended after receiving summons.
-
-🟩
-
-Former Minister Johnston Fernando appeared before the Criminal Investigation Department today (23).
-
-Former minister Johnston Fernando has been accused of using the illegal registered BMW vehicle.
-
-In this case, he has come to the Criminal Investigation Department following the invitation to vote by voting.
-
-◼️
-
-[Data](articles/fd0e238c.json)
-
-[Extended Data](ext_articles/fd0e238c.ext.json)
-
----
-
-### Security measures to safeguard tourists and citizens from potential threats - Sri Lanka Police
-
-*2024-10-23 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102870/security-measures-to-safeguard-tourists-and-citizens-from-potential-threats-sri-lanka-police) · `en`
-
-The police and intelligence divisions, under the direction of the Ministry of Public Security, are taking proactive measures to ensure the safety of tourists and citizens against any potential threats, Sri Lanka Police said.
-
-Issuing a special statement, the police department urged the public and tourists to report any emergencies or relevant information by contacting the emergency hotline ‘1997’.
-
-The Police Media Division stated that it has been observed from the information received thus far that a large number of foreign tourists are expected to visit Sri Lanka in the upcoming tourist season.
-
-This presents a significant opportunity to strengthen the economy of Sri Lanka and enhance the trust and respect that foreign nationals have in the country, the statement said.
-
-...
-
-[Data](articles/4db42351.json)
-
-[Extended Data](ext_articles/4db42351.ext.json)
-
----
-
-### Sri Lanka Police to implement special program to ensure safety of tourists
-
-*2024-10-23 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102870/sri-lanka-police-to-implement-special-program-to-ensure-safety-of-tourists) · `en`
-
-The police and intelligence divisions, under the direction of the Ministry of Public Security, are taking proactive measures to ensure the safety of tourists and citizens against any potential threats, Sri Lanka Police said.
-
-Issuing a special statement, the police department urged the public and tourists to report any emergencies or relevant information by contacting the emergency hotline ‘1997’.
-
-The Police Media Division stated that It has been observed from the information received so far that a large number of tourists are scheduled to visit Sri Lanka in the upcoming tourist season.
-
-This opens up a great opportunity for Sri Lanka to boost its economy while earning the trust and respect of foreign nationals towards Sri Lanka, the statement said.
-
-...
-
-[Data](articles/b552f314.json)
-
-[Extended Data](ext_articles/b552f314.ext.json)
-
----
-
-### Rhetoric
-
-*2024-10-23 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/196886) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Corruption concerns persist despite election promises. Former presidents acknowledge inadequate handling of corruption. New government faces criticism over slow progress. Economic risks and international relations remain concerns.
-
-🟩
-
-Although promised during election campaigns during election campaigns, there is a feeling among the people that there has been insufficient measures to take accountability of previous corrupt officials or to prevent corruption in government agencies.. The rapid rise of the national popular power to power created great expectations among the people. There is an expectation that the economic risk is to be ended in particular.
-
-The gap between these expectations and the actual actions of the government has led to the departure of dissatisfaction from various sects of the community. It represents in the media. The government said it was going to review international agreements. Some of them are associated with corrupt practices.
-
-...
-
-[Data](articles/a72c1a4e.json)
-
-[Extended Data](ext_articles/a72c1a4e.ext.json)
 
 ---

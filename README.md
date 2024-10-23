@@ -1,36 +1,174 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 16:12:52**
+As of **2024-10-23 16:39:18**
 
 ## Newspaper Stats
 
-*Scraped **50,940** Articles*
+*Scraped **50,947** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 410
 colombotelegraphcom | 509
-bbccomsinhala | 515
+bbccomsinhala | 516
 islandlk | 3,030
 economynextcom | 3,114
 dailyftlk | 3,474
 dailymirrorlk | 4,733
 adalk | 4,735
-adaderanalk | 6,041
+adaderanalk | 6,043
 tamilmirrorlk | 7,015
 virakesarilk | 8,164
-adaderanasinhalalk | 8,837
+adaderanasinhalalk | 8,841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,940 (100.0%) of 50,940 articles have been extended.
+50,947 (100.0%) of 50,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Protection of security from many days ago arrogam
+
+*2024-10-23 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202470) · `si`
+
+Sri Lanka strengthens security in Arugamay area ahead of potential attack. Police deploy 500 officers, STF, and intelligence forces. Special security measures implemented for tourists. No intelligence reports of threats in Colombo or elsewhere.
+
+🟩
+
+It is reported that Sri Lanka has been fully aware of the plan to attack the Arugamay area today (23).
+
+So it is said that steps have been taken to strengthen the security of Arumbe area.
+
+It is reported that about 500 police officers and the STF have been sent to strengthen the security zone of the Arugam Tour Zone.
+
+Attorney at Law, police spokesman, Nihal Talduuwa said that the intelligence and other security forces were also focused on the architecture of the area.
+
+Meanwhile, police spokesman Nihal Talduuwa added that there is no intelligence reports of such an accident in Colombo or elsewhere.
+
+He also said that the police and the security forces are in particular regarding the safety of tourists visiting Arugamay and other provinces.
+
+...
+
+[Data](articles/d431f6bb.json)
+
+[Extended Data](ext_articles/d431f6bb.ext.json)
+
+---
+
+### If salaries unable to increase, what happened to the money allocated - Ranil
+
+*2024-10-23 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202469) · `si`
+
+Ranil Wickremesinghe urges immediate implementation of salary increase decision. Money allocation fate unclear without salary hike. Meeting held at New Democratic Front office in Colombo.
+
+🟩
+
+Former President Ranil Wickremesinghe says that the legal cabinet decision he had taken to increase the salaries should be implemented immediately.
+
+He was speaking at a trade union representative meeting today (23).
+
+Former President Ranil Wickremesinghe said that if the Presidential election was planned from January, he said.
+
+The discussion was held at the New Democratic Front Office on Flower Road, Colombo.
+
+◼️
+
+[Data](articles/63b3668d.json)
+
+[Extended Data](ext_articles/63b3668d.ext.json)
+
+---
+
+### Johnston to be arrested
+
+*2024-10-23 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202468) · `si`
+
+Former Minister Johnston Fernando arrested by Criminal Investigation Court. BMW car seized during arrest. Incident occurred on 23rd.
+
+🟩
+
+Former Minister Johnston Fernando was arrested by the Criminal Investigation Court.
+
+A BMW car was arrested this morning after he was arrested following the CID today (23).
+
+◼️
+
+[Data](articles/eafdb55f.json)
+
+[Extended Data](ext_articles/eafdb55f.ext.json)
+
+---
+
+### Suspect arrested for shooting incident
+
+*2024-10-23 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202467) · `si`
+
+Arrest made in Matara-Ruwanwella shooting case. Suspect detained in Kesbewa, handed to police. Pistol and vehicles seized.
+
+🟩
+
+A suspicion of a person who supported the shot dead in the Matara-Ruwanwella area has been arrested.
+
+The suspect was arrested in the Kesbewa area in the evening yesterday (22) and later handed over the suspect to the Matara Police Station.
+
+The suspect has been identified as a resident of Kesbewa Road, Gonamadiththa Road, Gonamaditta Road.
+
+According to the suspects revealed, a pistol firearm and 13 am, a car and van were also seized by a car and van suspected of murder.
+
+◼️
+
+[Data](articles/df5802b4.json)
+
+[Extended Data](ext_articles/df5802b4.ext.json)
+
+---
+
+### India, Sri Lanka discuss fishermen issue and India-funded projects
+
+*2024-10-23 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102882/india-sri-lanka-discuss-fishermen-issue-and-india-funded-projects) · `en`
+
+The Indian High Commissioner to Sri Lanka, Santhosh Jha, has met with the Secretary to the President, Dr. Nandika Kumanayake at the Presidential Secretariat.
+
+Their discussions yesterday (22) focused on resolving the on-going fishing issues in the Northern Sea, according to the President’s Media Division (PMD).
+
+Both parties emphasized the need for a long-term solution that would address the concerns of fishermen from both countries while fostering cooperation, the PMD said.
+
+The conversation also included a review of the current Indian-granted projects in Sri Lanka, with both sides addressing existing challenges and discussing ways to overcome these hurdles.
+
+They further examined the progress of projects funded through Indian loans and agreed on the necessity of expediting the remaining work to ensure timely completion, the statement said.
+
+...
+
+[Data](articles/da21ff85.json)
+
+[Extended Data](ext_articles/da21ff85.ext.json)
+
+---
+
+### Distribution of polling cards for 2024 General Election to begin
+
+*2024-10-23 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102881/distribution-of-polling-cards-for-2024-general-election-to-begin-) · `en`
+
+The Commissioner General of Elections Saman Sri Ratnayake says that October 27 and November 03 will be designated as special days for the distribution of official polling cards for the upcoming General Election.
+
+Speaking to the media today (23), he stated that the official polling cards will be handed over to the Department of Posts on Saturday (26).
+
+“The issuing of the postal polling cards for the general election is being carried out today at District Secretariats across the island,” he said, adding that the total number of postal voting applications is 759,210 and that 21,160 them were rejected.
+
+Accordingly, postal polling cards will be issued for 738,050 applications, which is an increase compared to the last presidential election, the Commissioner General of Elections said.
+
+◼️
+
+[Data](articles/665e75f5.json)
+
+[Extended Data](ext_articles/665e75f5.ext.json)
+
+---
 
 ### Notification relating to voter card distribution
 
@@ -1804,6 +1942,52 @@ The US embassy has appealed to its nationals to have telephone -like communicati
 
 ---
 
+### What is the threat to Arugamay area?
+
+*2024-10-23 10:23:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq8v2vdlxd3o) · `si`
+
+Threats to Arugam Bay area:
+
+
+
+US Embassy warns tourists due to potential security risks.
+
+
+
+Increased police presence and roadblocks in the area.
+
+
+
+Reports of Israeli involvement in purchasing properties and establishing facilities.
+
+
+
+Concerns about surveillance and monitoring of tourists.
+
+
+
+Reduced tourist arrivals since 2019 Easter bombings and economic crisis.
+
+🟩
+
+The US embassy in Sri Lanka has issued an announcement today (Oct: 23) as a popular destination among foreign tourists.
+
+The Embassy has stated that the embassy information has been received at the popular tourist sites in Arugambay.
+
+The announcement indicates that it has been issued to prevent his staff as well as US citizens of Sri Lanka.
+
+Skip Twitter Post, Do you agree to reach content 1twitter? This article contains the content provided by Twitter. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Twitter cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The content is not responsible for the content of the external web sites.
+
+Meanwhile, the British High Commission in Sri Lanka has also issued an announcement by informing Sri Lanka's visit to Sri Lanka.
+
+...
+
+[Data](articles/548aa166.json)
+
+[Extended Data](ext_articles/548aa166.ext.json)
+
+---
+
 ### Johnston Fernando was present at the Criminal Investigation Department
 
 *2024-10-23 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/196890) · `ta`
@@ -2217,173 +2401,5 @@ This country cannot be made with relief. The national propagation does not matte
 [Data](articles/7f2746ea.json)
 
 [Extended Data](ext_articles/7f2746ea.ext.json)
-
----
-
-### Putin hosts Global South leaders at BRICS summit meant to counterbalance Western clout
-
-*2024-10-23 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102864/putin-hosts-global-south-leaders-at-brics-summit-meant-to-counterbalance-western-clout) · `en`
-
-China’s Xi Jinping, India’s Narendra Modi and other world leaders arrived Tuesday in the Russian city of Kazan for a summit of the BRICS bloc of developing economies that the Kremlin hopes to turn into a rallying point for defying Western influence in global affairs.
-
-For Russian President Vladimir Putin, the three-day meeting also offers a powerful way to demonstrate the failure of U.S.-led efforts to isolate Russia over its actions in Ukraine.
-
-Kremlin foreign affairs adviser Yuri Ushakov called it “the largest foreign policy event ever held” by Russia, with 36 countries attending and more than 20 of them represented by heads of state.
-
-The alliance that initially included Brazil, Russia, India, China and South Africa has expanded rapidly to embrace Iran, Egypt, Ethiopia, the United Arab Emirates and Saudi Arabia. Turkey, Azerbaijan and Malaysia have formally applied to become members, and a few others have expressed interest in joining.
-
-...
-
-[Data](articles/863707e3.json)
-
-[Extended Data](ext_articles/863707e3.ext.json)
-
----
-
-### Steps to reduce the import of maize next year
-
-*2024-10-23 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202450) · `si`
-
-Sri Lanka aims to reduce maize imports by 150,000 MT next year. The Ministry of Agriculture instructs to decrease maize cultivation. A program to manufacture seeds domestically is underway. Land allocation for maize increased this year to boost production.
-
-🟩
-
-Ministry of Agriculture, the Ministry of Agriculture has been instructed to reduce the maize content of maize next year to Rs.. P. N. Says Mr. Wickremesinghe.
-
-He said that there are two hundred tons of maize malek at present.
-
-"A large amount of money goes out of dollar. Therefore, we have been instructed to reduce one hundred and fifty thousand MIYC ton the next year. We need to increase the product that we do. This year, we have increased the land for maize. So we believe that the bigger dollars can reduce the country. "
-
-He also said that there is a program to manufacture the seeds in Sri Lanka without importation of seeds from abroad.
-
-◼️
-
-[Data](articles/7cfc37d9.json)
-
-[Extended Data](ext_articles/7cfc37d9.ext.json)
-
----
-
-### Shock report on about 10,000 boys
-
-*2024-10-23 08:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமார்-10-000-சிறுவர்கள்-குறித்து-அதிர்ச்சி-அறிக்கை/175-345899) · `ta`
-
-Here's a summary of the report in approximately 200 characters:
-
-
-
-"New data reveals 10,323 children under 5 suffer severe malnutrition. Rates have decreased but remain concerning. Survey of 13,1649 children shows declining weights across all districts."
-
-🟩
-
-A recent report by the Family Health Bureau shows that 10,323 children under the age of five are suffering from severe nutritional deficiency.
-
-According to the report, malnutrition has increased in children under one age, children aged one to two, and children aged two to five.
-
-However, this number has declined compared to last year. The number of children suffering from severe malnutrition last year was 15,763.
-
-This is revealed in a survey conducted by 13,1649 children under the age of five.
-
-In this assessment, the weight of children under the age of five in all districts across the country has been reduced to weight.. Remble
-
-◼️
-
-[Data](articles/db670575.json)
-
-[Extended Data](ext_articles/db670575.ext.json)
-
----
-
-### CID went to arrest Johnston
-
-*2024-10-23 08:42:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோன்ஸ்டனை-கைது-செய்ய-சென்றது-CID/175-345897) · `ta`
-
-CID arrests Johnston Fernando over illegal BMW import case. Allegations: unregistered vehicle, fake license plate, hiding at Hilton Hotel. Formal inquiry pending.
-
-🟩
-
-A team of special officials of the Criminal Investigation Department (CID) has reportedly traveled from Colombo to Kurunegala yesterday (22nd) to arrest former minister Johnston Fernando in connection with the illegal imported BMW car.
-
-Investigations are underway to arrest former minister Johnston Fernando under allegations including the use of a vehicle that is not registered in the Motor Vehicle Registration Department and illegally brought to Sri Lanka, the use of a pseudo -digit plate for the car and ordered to be hidden at the Hilton Hotel in Colombo.
-
-Criminal Investigations Department officials told Fort Magistrate Dhanuja Lakmali that the suspect, Johnston Fernando, had committed punishable offenses under the Sri Lanka Penal Code and Motor Vehicle Act.
-
-Criminal Investigation Department officials have informed the Fort Magistrate that a formal inquiry will be carried out on the allegations leveled against former minister Johnston Fernando.. Remble
-
-◼️
-
-[Data](articles/e7e1a73f.json)
-
-[Extended Data](ext_articles/e7e1a73f.ext.json)
-
----
-
-### Thundershowers are raining today
-
-*2024-10-23 08:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை-பெய்யும்/175-345896) · `ta`
-
-Heavy rain/thunderstorms forecasted for Kandy, Nuwara Eliya, and other provinces. Over 75mm rainfall expected in some areas. Thunderstorm warnings issued. Residents advised to prepare for strong winds and lightning.
-
-🟩
-
-The Department of Meteorology has said that rain or thunderstorms are expected today (23) in the Kandy and Nuwara Eliya districts.
-
-More than 75 millimeters of rainfall in some parts of the West, Sabaragamuwa, Southern and Northern Provinces are likely to occur.
-
-Other parts of the country are likely to experience rain or thunderstorms in the evening or night, and more than 75 millimeters of heavy rainfall in some places.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes in the event of thunderstorms.. Remble
-
-◼️
-
-[Data](articles/7ae1a7df.json)
-
-[Extended Data](ext_articles/7ae1a7df.ext.json)
-
----
-
-### One injured in shooting at Ratmalana railway yard
-
-*2024-10-23 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102863/one-injured-in-shooting-at-ratmalana-railway-yard) · `en`
-
-A person was injured in a shooting incident at the Ratmalana railway yard in the early hours of today (23).
-
-According to the Police Media Division, five individuals had entered the yard to steal property and had assaulted and injured a railway security officer on duty.
-
-In response, the security officer had opened fire at the suspects, injuring one, while the others have fled.
-
-The injured suspect and the two security officers, who were injured in the attack, have been admitted to Kalubowila Hospital.
-
-Mount Lavinia Police is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/a31c0b6f.json)
-
-[Extended Data](ext_articles/a31c0b6f.ext.json)
-
----
-
-### All postal workers' leave canceled
-
-*2024-10-23 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202449) · `si`
-
-Postal workers' leave canceled until Nov 14. Exceptions for illness require provincial deputy postmaster approval. General elections registration deadline today.
-
-🟩
-
-Steps have been made to cancel the loses of all employees of the Postal Department at the next general election.
-
-Rajitha Ranasinghe said that the holidays had been carried out from today (23) to 14th November 14.
-
-However, it is said that if any illness or leave, however, the approval of the Deputy Postrent to approve the approval of the province.
-
-Rajitha Ranasinghe said that Registration of Registered Postal Vote for General Elections is due to be accepted today.
-
-◼️
-
-[Data](articles/fd51b0d1.json)
-
-[Extended Data](ext_articles/fd51b0d1.ext.json)
 
 ---

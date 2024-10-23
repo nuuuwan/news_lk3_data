@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 10:39:51**
+As of **2024-10-23 11:11:42**
 
 ## Newspaper Stats
 
-*Scraped **50,862** Articles*
+*Scraped **50,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,174 @@ bbccomsinhala | 514
 islandlk | 3,030
 economynextcom | 3,108
 dailyftlk | 3,474
-adalk | 4,724
+adalk | 4,725
 dailymirrorlk | 4,733
-adaderanalk | 6,029
-tamilmirrorlk | 6,991
+adaderanalk | 6,030
+tamilmirrorlk | 6,996
 virakesarilk | 8,152
-adaderanasinhalalk | 8,825
+adaderanasinhalalk | 8,826
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,858 (100.0%) of 50,862 articles have been extended.
+50,870 (100.0%) of 50,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Diwali Previous;Senthil's action
+
+*2024-10-23 10:52:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தீபாவளி-முற்பணம்-செந்தில்-நடவடிக்கை/76-345908) · `ta`
+
+Here's a 200-character summary:
+
+
+
+CWC leader Senthil Thondaman announced steps to support plantation workers on Diwali, a major Tamil festival.
+
+🟩
+
+CWC leader Senthil Thondaman has said that steps have been taken to provide plantation workers to the plantation workers on Thursday (24) on Thursday (24).
+
+Diwali is celebrated as one of the main festivals of Tamils.
+
+◼️
+
+[Data](articles/649c02b7.json)
+
+[Extended Data](ext_articles/649c02b7.ext.json)
+
+---
+
+### US Embassy alerts to attack
+
+*2024-10-23 10:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதல்-குறித்து-அமெரிக்க-தூதரகம்-எச்சரிக்கை/175-345907) · `ta`
+
+US Embassy warns tourists: Avoid Augkambai Kutta area due to potential attacks.
+
+🟩
+
+The US Embassy in Colombo has warned that he has received reliable information that the popular tourist attractions in the Augkambai Kutta area can be targeted.
+
+Therefore, the US embassy has advised its citizens not to go to the hexagonal area until the re -announcement.
+
+◼️
+
+[Data](articles/cee4620f.json)
+
+[Extended Data](ext_articles/cee4620f.ext.json)
+
+---
+
+### Johnston Fernando is the presence of CID
+
+*2024-10-23 10:48:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CID-யில்-முன்னிலையானார்-ஜொன்ஸ்டன்-பெர்னாண்டோ/175-345906) · `ta`
+
+Former Minister Johnston Fernando appears at CID to confess regarding controversial BMW case. He was previously evasive but now cooperating with investigation.
+
+🟩
+
+Former Minister Johnston Fernando has appeared at the Criminal Investigation Department this morning to make a confession.
+
+He was accused of violating laws in connection with the controversial BMW car.
+
+It was reported that the Criminal Investigation Department had gone to Kurunegala to arrest him because he was not present.
+
+Former Minister Johnston Fernando announced in the Court of Appeal yesterday that he said that he was ready to appear in the Criminal Investigation Department yesterday.. Remble
+
+◼️
+
+[Data](articles/713a4b3b.json)
+
+[Extended Data](ext_articles/713a4b3b.ext.json)
+
+---
+
+### The university student dies from the hostel
+
+*2024-10-23 10:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடுதியில்-இருந்து-விழுந்த-பல்கலைக்கழக-மாணவன்-மரணம்/175-345905) · `ta`
+
+University student falls from hostel, death under investigation as possible murder or suicide. Police probing incident at Kelaniya University's C.W.W Kannangara student hostel.
+
+🟩
+
+A student of Kelaniya University has died after falling from the top floor of the C.W.W Kannangara student hostel, police said.
+
+Police are investigating whether this is murder or suicide. Remble
+
+◼️
+
+[Data](articles/9f6ffb89.json)
+
+[Extended Data](ext_articles/9f6ffb89.ext.json)
+
+---
+
+### The postal staff's holidays are also canceled
+
+*2024-10-23 10:40:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-ஊழியர்களின்-விடுமுறைகளும்-இரத்து/175-345904) · `ta`
+
+Postal staff holidays canceled due to elections. Deputy Chief Minister Rajitha Ranasinghe announced cancellation from Nov 23 to Nov 14.
+
+🟩
+
+The Postal Department said that the holidays of all postal staff have been canceled from Wednesday (23) to November 14.
+
+Deputy Chief Minister Rajitha Ranasinghe said that steps have been taken to cancel the vacation of postal staff due to the actions of the parliamentary general election to be held on November 14.
+
+◼️
+
+[Data](articles/d0186cd0.json)
+
+[Extended Data](ext_articles/d0186cd0.ext.json)
+
+---
+
+### Warrant for Johnston
+
+*2024-10-23 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202455) · `si`
+
+Colombo High Court issues warrant for former Minister Johnston Fernando over bribery case. He failed to appear in court.
+
+🟩
+
+The Colombo High Court today issued a warrant today to arrest former Minister Johnston Fernando to be arrested and submitting a case filed by the Bribery Commission.
+
+The case was taken up before Colombo High Court Judge Manjula Tilakaratne and he did not appear in court.
+
+◼️
+
+[Data](articles/f2bd1105.json)
+
+[Extended Data](ext_articles/f2bd1105.ext.json)
+
+---
+
+### Sri Lanka to reduce maize imports by 50% next year
+
+*2024-10-23 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102871/sri-lanka-to-reduce-maize-imports-by-50-next-year) · `en`
+
+The Secretary of the Ministry of Agriculture, M.P.N.M Wickramasinghe, says that they have been instructed to reduce maize imports to 150,000 metric tons next year.
+
+He stated that Sri Lanka currently imports around 300,000 metric tons of maize annually.
+
+He explained that this reduction is aimed at minimizing the significant outflow of foreign exchange spent on maize imports.
+
+“For this purpose, we need to increase the current production. This year, we have increased the land used for maize cultivation.”
+
+Accordingly, he said that they believe this will help to decrease the outflow of foreign exchange from the country.
+
+M.P.N.M. Wickramasinghe also noted that a program is being prepared to produce the necessary seeds locally without importing seeds from abroad.
+
+◼️
+
+[Data](articles/28b10791.json)
+
+[Extended Data](ext_articles/28b10791.ext.json)
+
+---
 
 ### Security measures to safeguard tourists and citizens from potential threats - Sri Lanka Police
 
@@ -98,23 +250,29 @@ The US embassy has appealed to its nationals to have telephone -like communicati
 
 ---
 
-### විදේශීය සංචාරකයන්ගේ ආරක්ෂාව ගැන පොලීසියෙන් හදිසි නිවේදනයක්
+### Police announce urgent protection in foreign tourists
 
 *2024-10-23 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202454) · `si`
 
-විදේශිකයන්ගේ ආරක්ෂාව සඳහා විශේෂ වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට ආරක්ෂක අමාත්‍යාංශයේ සහ මහජන ආරක්ෂක අමාත්‍යාංශයේ උපදෙස් මත ශ්‍රී ලංකා පොලීසිය සහ බුද්ධි අංශ විශේෂ වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට නියමිත බව පොලීසිය නිවේදනය කරයි.
+Sri Lanka Police implements special security program for foreign tourists amid Middle East conflict. Measures include strengthening tourist division and coordinating with defense ministries. Hotel owners and locals urged to protect visitors from potential threats. US Embassy warns Americans against visiting Arugam Bay due to safety concerns.
 
-මැදපෙරදිග මෙන්ම නැගෙනහිර යුරෝපයේ පවතින යුදමය වාතාවරණය සැලකිල්ලට ගනිමින් ඔවුන් මෙම පියවර ගෙන තිබේ.
+🟩
 
-ඉදිරි සංචාරක වාරය තුළ විදේශීය සංචාරකයන් විශාල ප්‍රමාණයක් ශ්‍රී ලංකාවේ සංචාරය කිරීමට නියමිත බවට මේ වන විට ලැබී තිබෙන තොරතුරු මඟින් නිරීක්ෂණය වී ඇත.
+The Sri Lanka Police and Intelligence Divisions are to be implemented on the instructions of the Ministry of Defense and the Public Defense Ministry to implement a special program for foreigners.
 
-මෙය ශ්‍රී ලංකාවේ ආර්ථිකය ශක්තිමත් කිරීමට මෙන්ම ශ්‍රී ලංකාව පිළිබඳව විදේශීය ජාතිකයින් ඇති කර ගනු ලබන විශ්වාසය මෙන්ම ගෞරවයටද මහඟු අවස්ථාවක් උදාවීමකි.
+They have taken this step in considering the war environment in the Middle East as well.
 
-විදේශීය සංචාරකයින්ගේ ආකර්ශණය පවතින රාජ්‍යක් ලෙස මෙරටට පැමිණෙන විදේශීය සංචාරකයන්ගේ ආරක්ෂාව, ඔවුන් අපේක්ෂා කරන සතුට විනෝදය මෙන්ම දැනුම නිදහස්ව ලබා ගැනීමට අවශ්‍ය පරිසරය සැකසීම අප කාගේත් වගකීමක් බවට පත් වේ.
+The information received by the information has been observed that a large number of foreign tourists will visit Sri Lanka in the future.
+
+It is an opportunity for Sri Lanka's economy and the trust and honor of foreign nationals on Sri Lanka.
+
+Foreign tourist arrivals to Sri Lanka, foreign tourist arrests, the exciting state of foreign tourists, will become the responsibility of creating the entertainment of the pleasure they expect and to free the knowledge they seek.
 
 ...
 
 [Data](articles/900c2fb5.json)
+
+[Extended Data](ext_articles/900c2fb5.ext.json)
 
 ---
 
@@ -133,6 +291,8 @@ The Embassy says it has received credible information warning of an attack targe
 ◼️
 
 [Data](articles/4d4e95d9.json)
+
+[Extended Data](ext_articles/4d4e95d9.ext.json)
 
 ---
 
@@ -198,15 +358,49 @@ Meanwhile, speaking to the media, Fernando remarked, “Let’s see what happens
 
 ---
 
-### புத்தளம் மார்க்கத்தில் ரயில் சேவை தாமதம்
+### Women's candidates Janasetha forest
+
+*2024-10-23 09:19:46* · [`adalk`](https://www.ada.lk/breaking_news/වැඩම-කාන්තා-අපේක්ෂිකාවන්-ජනසෙත-පෙරමුණෙන්ලු/11-412621) · `si`
+
+Here's a 200-character summary of the text:
+
+
+
+Janasetha Peramuna party presents 44 female candidates in Sri Lanka general election. Party emphasizes women representation and good governance. Despite financial challenges, they aim to promote gender equality in politics.
+
+🟩
+
+The Janasha Palarathana Thero said that forty-four female candidates representing the districts of Sri Lanka have been presented to the general election in the future.
+
+The Janasetha Peramuna (Janasetha Peramuna representing the General Election on November 14 was the Silarathana when he had received the blessing of the historic Warrajamapola.
+
+The party said that the party, which was given the highest number of women candidates in recent history, and the Janasetha Peramuna had not sufted the funds.
+
+The Thero emphasized that the party's good is the only objective of the people that the party's name is also the common sense of candidates.
+
+◼️
+
+[Data](articles/3b0377bd.json)
+
+[Extended Data](ext_articles/3b0377bd.ext.json)
+
+---
+
+### Rail service delay in Puttalam
 
 *2024-10-23 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/196884) · `ta`
 
-ஜா-எல ரயில்  நிலையத்துக்கு அருகிலுள்ள சமிக்ஞையில் ஏற்பட்ட தொழில்நுட்ப கோளாறினால் சேவை தாமதமடைந்துள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+Puttalam rail service delayed due to signal failure near Ja-Ela station. Railway department cited technical issue as cause.
+
+🟩
+
+The railway department said that the service was delayed due to a technical failure in a signal near the Ja-Ela railway station.
 
 ◼️
 
 [Data](articles/0144af55.json)
+
+[Extended Data](ext_articles/0144af55.ext.json)
 
 ---
 
@@ -230,17 +424,23 @@ Ranasinghe also mentioned that the acceptance of registered postal vote reserve 
 
 ---
 
-### தபால் ஊழியர்களின் விடுமுறை இரத்து !
+### Postal workers' holidays!
 
 *2024-10-23 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196882) · `ta`
 
-தபால் ஊழியர்களின் விடுமுறை பொதுத் தேர்தல் முடியும் வரை இரத்து செய்யப்பட்டுள்ளதாக  தபால் திணைக்களம் தெரிவித்துள்ளது.
+Postal workers' holidays canceled due to general election. Deputy Chief Minister Rajitha Ranasinghe announced cancellation from Wednesday to November 14.
 
-அதன்படி, இன்று புதன்கிழமை (23) முதல் நவம்பர் 14 ஆம் திகதி வரை அனைத்து ஊழியர்களின் விடுமுறையையும் இரத்து செய்யப்பட்டுள்ளதாக பிரதி தபால் மா அதிபர் ராஜித ரணசிங்க குறிப்பிட்டார்.
+🟩
+
+The Postal Department said that the postal staff's holiday has been canceled until the general election.
+
+Accordingly, Deputy Chief Minister Rajitha Ranasinghe said that the holidays of all employees have been canceled from Wednesday (23) to November 14.
 
 ◼️
 
 [Data](articles/4b721c46.json)
+
+[Extended Data](ext_articles/4b721c46.ext.json)
 
 ---
 
@@ -2111,191 +2311,5 @@ The Consul General's Office further requests the use of Sri Lankans who cannot b
 [Data](articles/86ae6757.json)
 
 [Extended Data](ext_articles/86ae6757.ext.json)
-
----
-
-### Police Inspector arrested for murder
-
-*2024-10-22 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/196856) · `ta`
-
-Sri Lanka: Former police inspector arrested upon return for alleged involvement in colleague's murder. Accused linked to dispute with terrorist gang leader.
-
-🟩
-
-Former Police Inspector of the Ambalangoda Police Criminal Investigation Division, Thedimuni Balendrasinghe, was arrested at the Katunayake airport on Monday (21).
-
-He was arrested by the Department of Immigration and Criminal Investigation when he arrived in Sri Lanka from Sharjah on a Arabia flight.
-
-The 28 -year -old is a native of Ambalangoda, Kulikoda and Kaladapada.
-
-Police Inspector Temuni Balendrasinghe, who was on duty at the Ratgama Police Division on October 9 last year, was shot dead by two unidentified persons on a motorcycle while he was returning to the Balapitiya High Court.
-
-The murder was due to a dispute with Podi Lessi, the leader of a terrorist gang in the south, and it was revealed that the powder of Podi Timuthu, who was arrested yesterday, has been spying.
-
-◼️
-
-[Data](articles/b9aff91b.json)
-
-[Extended Data](ext_articles/b9aff91b.ext.json)
-
----
-
-### New Officers Appointment to Treasury's High Management
-
-*2024-10-22 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196863) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Government appoints officials to Treasury's high management. New officers include Deputy Secretary, Director Generals, and Additional Director Generals. Appointments made based on proposals from Finance Minister Anura Kumara Dissanayake.
-
-🟩
-
-The government has decided to appoint authorities to the Treasury's higher management. Accordingly, the Cabinet has approved the new appointments according to the proposal submitted by President Anura Kumara Dissanayake as the Minister of Finance, Economic Development, Policy Class, Planning and Tourism.
-
-The Special Quality Officer of the Sri Lanka Accountant Service, who is currently serving as the Director General of the Treasury Activities Department, will be appointed as the Deputy Secretary of the Treasury as Deputy Secretary of the Treasury.The Cabinet has approved the appointment of TAP Abeesekera, a special officer of the Sri Lanka Planning Service, which serves as the Director General of the Department.
-
-...
-
-[Data](articles/903934f6.json)
-
-[Extended Data](ext_articles/903934f6.ext.json)
-
----
-
-### Sri Lanka to get $30mn from ADB for Moragolla hydro power plant
-
-*2024-10-22 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-30mn-from-adb-for-moragolla-hydro-power-plant-184456/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved borrowing 30 million dollars to complete a hydro power project in Moragolla and do ancillary post construction work, Minister Vijitha Herath said.
-
-The ADB has agreed to provide the money from its Ordinary Capital Resources facility.
-
-The cabinet has approved the proposal submitted the proposal by President Anura Dissanayake.
-
-The money will be borrowed by state-run Ceylon Electricity Board in two instalments.
-
-◼️
-
-[Data](articles/e0db5ea2.json)
-
-[Extended Data](ext_articles/e0db5ea2.ext.json)
-
----
-
-### Sri Lanka ministry secretary to address BRICS leaders summit
-
-*2024-10-22 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-ministry-secretary-to-address-brics-leaders-summit-184425/) · `en`
-
-ECONOMYNEXT – Secretary to Sri Lanka’s Ministry of Foreign Affairs Aruni Wijewardane will address the upcoming BRICS Outreach and BRICS Plus Summit in Kazan, Russian Federation, on behalf of President Anura Dissanayake, the ministry said.
-
-“She will also meet senior representatives from BRICS member countries to discuss Sri Lanka’s application to join BRICS as well as other issues of bilateral interest,” the MFA said.
-
-Under the previous government, Sri Lanka initiated the process to join BRICS and its New Development Bank.
-
-BRICS, which consists of Brazil, Russia, India, China and South Africa recently expanded its membership to include Iran, Egypt, Ethiopia, and the United Arab Emirates.
-
-The forum is an important platform for cooperation among emerging markets and developing countries.
-
-...
-
-[Data](articles/52f7708c.json)
-
-[Extended Data](ext_articles/52f7708c.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 293.23/27 to dollar, bond yields steady
-
-*2024-10-22 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-23-27-to-dollar-bond-yields-steady-184415/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 293.23/27 to the US dollar Tuesday from 293.15/20 a day earlier, dealers said, while bond yields were steady ahead of a Treasury bill auction on Wednesday.
-
-A bond maturing on 15.12.2026 closed at 10.50/60 percent, down from 10.50/75 percent.
-
-A bond maturing on 15.12.2027 closed at 11.40/55 percent, down from 11.30/50 percent.
-
-A bond maturing on 15.09.2029 closed stable at 11.90/12.05 percent.
-
-Meanwhile the central bank announced that it will issue 125,000 million rupees in Treasury bills through an auction tomorrow (23). (Colombo/Oct22/2024)
-
-◼️
-
-[Data](articles/9b20f0b8.json)
-
-[Extended Data](ext_articles/9b20f0b8.ext.json)
-
----
-
-### Control price of rice will remain unchanged - President tells rice millers
-
-*2024-10-22 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102856/control-price-of-rice-will-remain-unchanged-president-tells-rice-millers) · `en`
-
-President Anura Kumara Dissanayake has stated the controlled price of rice will not change.
-
-He also highlighted that plans are underway for a long-term program to create an organized agricultural plan, which would provide greater benefits to farmers.
-
-President Dissanayake made these remarks during a discussion held today (22) at the Presidential Secretariat with rice millers and officials from the Department of Agriculture, the President’s Media Division (PMD) reported.
-
-During this meeting, participants focused on the current prices of consumer goods, emphasizing the importance of controlling the price of rice, which is a staple food for the population.
-
-The President noted to the rice millers that they had purchased paddy from farmers after the controlled price was established, and he believes it is unfair to alter the price of rice at this stage, the PMD said.
-
-...
-
-[Data](articles/e8c85bab.json)
-
-[Extended Data](ext_articles/e8c85bab.ext.json)
-
----
-
-### "There is no change in the fixed price of the rice"
-
-*2024-10-22 16:56:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியின்-நிர்ணய-விலையில்-எந்த-மாற்றமுமில்லை/175-345864) · `ta`
-
-No change in rice price: President Anura Kumara Dissanayake addresses rice merchants and agriculture officials about maintaining stable prices and implementing long-term programs for farmers.
-
-🟩
-
-President Anuragumara Dissanayake said he did not expect any change in the price of the rice.
-
-The President also pointed out that he plans to create an organized agricultural plan and implement a long -term program for farmers to benefit.
-
-President Anura Kumara Dissanayake said this during a discussion held at the Presidential Secretariat on Tuesday (22) with officials of the Rice Merchants and Agriculture Department.
-
-In this case, the current price of consumption was discussed and the need to control the price of rice used as the main food of the people.
-
-The President told the rice merchants that the paddy was purchased from the farmers after the implementation of the price and that it was not fair to change the price of rice.
-
-The President pointed out that there is a proper mechanism to get rice from farmers at reasonable prices and provide rice at a reasonable price to consumers.
-
-...
-
-[Data](articles/385966eb.json)
-
-[Extended Data](ext_articles/385966eb.ext.json)
-
----
-
-### Buses collided face -to -face - 28 injured
-
-*2024-10-22 16:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்துகள்-நேருக்கு-நேர்-மோதி-விபத்து-28-பேர்-காயம்/175-345863) · `ta`
-
-Two buses collided near Avissawella, injuring 28 people. Three critically injured at hospital. Buses were traveling between Colombo and Embilipitiya/Ratnapura.
-
-🟩
-
-28 people were injured when a private passenger bus crashed on Tuesday (22) near the Thevar and Pittiya curve of the Avissawella police division.
-
-The victims have been admitted to the Avissawella Resource Hospital and the condition of three people is in critical condition.
-
-The accident occurred when a private bus traveling from Colombo to Embilipitiya and a private bus traveling from Ratnapura to Colombo collided.
-
-◼️
-
-[Data](articles/aaf9a913.json)
-
-[Extended Data](ext_articles/aaf9a913.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 11:59:41**
+As of **2024-10-23 12:25:36**
 
 ## Newspaper Stats
 
-*Scraped **50,882** Articles*
+*Scraped **50,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,170 @@ dbsjeyarajcom | 410
 colombotelegraphcom | 509
 bbccomsinhala | 514
 islandlk | 3,030
-economynextcom | 3,112
+economynextcom | 3,114
 dailyftlk | 3,474
-adalk | 4,726
+adalk | 4,728
 dailymirrorlk | 4,733
-adaderanalk | 6,031
-tamilmirrorlk | 7,001
+adaderanalk | 6,032
+tamilmirrorlk | 7,002
 virakesarilk | 8,152
-adaderanasinhalalk | 8,827
+adaderanasinhalalk | 8,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,881 (100.0%) of 50,882 articles have been extended.
+50,890 (100.0%) of 50,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Sri Lanka’s People’s Leasing and Finance ‘A-(lka)’ rating confirmed by Fitch; Outlook Stable
+
+*2024-10-23 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-peoples-leasing-and-finance-a-lka-rating-confirmed-by-fitch-outlook-stable-184535/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has affirmed People’s Leasing & Finance’s (PLC) National Long-Term Rating at ‘A-(lka)’. The Outlook is Stable, the company said in a stock exchange filing.
+
+The rating reflects PLC’s financial strength as a large finance and leasing company (FLC) focusing on vehicle financing and other asset-backed loans, Fitch said.
+
+“A gradual easing in vehicle import bans may further underpin growth, albeit with some collateral value risk.”
+
+PLC’s franchise also benefits from the linkages with its parent, state-owned People’s Bank (A(lka)/Stable), the country’s second-largest bank, the rating agency said.
+
+Fitch noted that the operating environment for Sri Lanka’s finance and leasing companies (FLCs) continues to stabilise, with improving GDP growth.
+
+“We expect PLC’s core vehicle financing business to benefit from improving economic conditions and the potential liberalisation of vehicle imports.”
+
+Fitch Affirms People’s Leasing & Finance at ‘A- (lka)’; Outlook Stable
+
+...
+
+[Data](articles/df97cba7.json)
+
+[Extended Data](ext_articles/df97cba7.ext.json)
+
+---
+
+### Sri Lanka rupee trades flat at 293.23/29 to US dollar, bond yields steady
+
+*2024-10-23 11:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-flat-at-293-23-29-to-us-dollar-bond-yields-steady-184504/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading at 293.23/29 to the US dollar on Wednesday, from 293.23/27 a day earlier, while bond yields were broadly steady dealers said.
+
+An auction of 125,000 million rupees of Treasury bills was ongoing.
+
+A bond maturing on 15.12.2027 was quoted at 11.35/45 percent, down from 11.40/55 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.71/75 percent, down from 11.75/80 percent.
+
+A bond maturing on 15.06.2029 was quoted at 11.90/12.00 percent.
+
+In equities, Colombo’s All Share Price Index was trading down 0.23 percent, or 28.00 points lower at 12,272, while the S&P SL20 of more liquid stocks was trading up 0.08 percent or 3 points higher at 3,631.
+
+◼️
+
+[Data](articles/efa35106.json)
+
+[Extended Data](ext_articles/efa35106.ext.json)
+
+---
+
+### University flooring and crying to life
+
+*2024-10-23 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202458) · `si`
+
+Student dies in University of Kelaniya hostel after excessive alcohol consumption. Police investigation underway.
+
+🟩
+
+It has been revealed that the student who died of the hostel building at the University of Kelaniya has been excessively alcohol.
+
+Addressing a media briefing held at a media briefing held today (23), police spokesman, Nihal Talduuwa said that alcohol has been drunk from the university.
+
+The police spokesman said yesterday (22) a student had held a student's birthday.
+
+The student had then gone to the hostel, and the student had gone to his room in the fourth floor of the CWW Kannadanganara hostel.
+
+According to the police spokesman, the police spokesman said that the police have suspected that the student dies down from the window of the hostel room due to heavy drinking.
+
+The room is to be inspected by the Magistrate and the Government Analyst and the Judicial Medical Officer has been summoned.
+
+The deceased has been identified as a fourth year of the Faculty of Accountants of the University of Kelaniya and the Faculty of Accountants of the University of Kelaniya.
+
+...
+
+[Data](articles/7dc205e0.json)
+
+[Extended Data](ext_articles/7dc205e0.ext.json)
+
+---
+
+### Police strengthen security in Arugam Bay over reports of potential threats
+
+*2024-10-23 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102873/police-strengthen-security-in-arugam-bay-over-reports-of-potential-threats-) · `en`
+
+Sri Lanka Police have announced special measures to bolster security in the Arugam Bay area following information received regarding potential threats to tourists in the area.
+
+It is reported that around 500 police officers and Special Task Force (STF) personnel have been deployed to enhance the security of the Arugam Bay tourist area.
+
+Intelligence agencies and other security forces are also focusing on strengthening security in the region, the police spokesman said.
+
+Police Spokesman DIG Nihal Thalduwa clarified that Israelis frequent the Arugam Bay and Pottuvil areas due to popular surfing locations in those areas, and that recent information received has indicated a possible threat targeting them.
+
+He further emphasized that no intelligence reports have been received regarding such threats in Colombo or any other areas of the country thus far, and therefore urged the public not to have any undue fears.
+
+...
+
+[Data](articles/9a3dd7c8.json)
+
+[Extended Data](ext_articles/9a3dd7c8.ext.json)
+
+---
+
+### Announcement on the Days Distribution of Official Elections
+
+*2024-10-23 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202457) · `si`
+
+Sri Lanka Election Commission announcement: Ballot distribution Oct 27- Nov. 1. 738,050 postal votes issued, 759,210 applied, 21,160 rejected.
+
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake says that official ballot papers regarding the general election will be treated on October 27 and November.
+
+Speaking to the media today, he said he was handed over to the appointment of the postal elections to be held on the date of hand.
+
+"The issuance of postal ballots related to the general election is taking matters at District Secretariats today. 759,210 applications of total postal voters. 21,160 rejected. Postal ballot issues will be held for 738,050. This will be seen in the last presidential election. "
+
+◼️
+
+[Data](articles/fee8c27a.json)
+
+[Extended Data](ext_articles/fee8c27a.ext.json)
+
+---
+
+### Disclosure of the targets of arrogawa - security is also strengthened
+
+*2024-10-23 11:49:00* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්බේදී-ප්‍රහාරයට-ඉලක්ක-වන-පිරිස-ගැන-අනාවරණයක්----ආරක්ෂාවත්-තර-කෙරේ/11-412626) · `si`
+
+Israel strengthens security in Arugambay due to potential threats. Police, STF, Navy, and Army deployed for enhanced protection. Intelligence officers involved in monitoring situation.
+
+🟩
+
+Police Media Spokesperson DIG, Spokesperson DIG, said that the security of Israel was targeting the protection of Israel in Arugambay area.
+
+He was speaking at a special media briefing held today (23).
+
+"There is a building established by Israeli people in Aruuambay. A place like a hall. Arugambay has become an attractive place of Israel. The past few days have received some information that the Israeli nationals may be in danger. Therefore, the Senior DIG of Eastern Province has implemented the preliminary measures. Vehicles and individuals were inspected by road barriers in the past few days. Today, there is a special security in the area. Police, STF and the Navy and the Army have used the necessary role and used intelligence officers. "
+
+◼️
+
+[Data](articles/d30b42a7.json)
+
+[Extended Data](ext_articles/d30b42a7.ext.json)
+
+---
 
 ### The new leader of the Hizbullah telephone system is also killed?
 
@@ -107,6 +253,26 @@ She further stressed that while Sri Lanka’s economic recovery is underway, add
 [Data](articles/ae1d5d64.json)
 
 [Extended Data](ext_articles/ae1d5d64.ext.json)
+
+---
+
+### Risk of attack on Arugam Tour Zone - The US embassy
+
+*2024-10-23 11:27:38* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්බේ-සංචාරක-කලාපයට-ප්‍රහාරයක්-එල්ල-වීමේ-අවධානමක්----අමෙරිකානු-තානාපති-කාර්යාලය-අනතුරු-අගවයි/11-412625) · `si`
+
+US embassy warns of potential attack on Arugam Tour Zone. Officials advised to take precautions.
+
+🟩
+
+The US embassy has warned the officials of the country and the American Embassy by the Embassy of the United States.
+
+The warning has been committed to claiming that he had a risk of an attack targeting the Arugam Tour Zone.
+
+◼️
+
+[Data](articles/1dc17a98.json)
+
+[Extended Data](ext_articles/1dc17a98.ext.json)
 
 ---
 
@@ -280,6 +446,28 @@ Therefore, the US embassy has advised its citizens not to go to the hexagonal ar
 
 ---
 
+### US Embassy alerts to attack
+
+*2024-10-23 10:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தாக்குதல்-குறித்து-அமெரிக்க-தூதரகம்-எச்சரிக்கை/150-345907) · `ta`
+
+US Embassy warns tourists: Avoid Augkambai Kutta area due to potential attacks. Citizens advised to stay away until further notice. Report suspicious activities to 119.
+
+🟩
+
+The US Embassy in Colombo has warned that he has received reliable information that the popular tourist attractions in the Augkambai Kutta area can be targeted.
+
+Therefore, the US embassy has advised its citizens not to go to the hexagonal area until the re -announcement.
+
+The US Embassy has also called for an invitation to 119 on suspicious activities or emergency.
+
+◼️
+
+[Data](articles/e692b3ea.json)
+
+[Extended Data](ext_articles/e692b3ea.ext.json)
+
+---
+
 ### Johnston Fernando is the presence of CID
 
 *2024-10-23 10:48:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CID-யில்-முன்னிலையானார்-ஜொன்ஸ்டன்-பெர்னாண்டோ/175-345906) · `ta`
@@ -309,6 +497,14 @@ Former Minister Johnston Fernando announced in the Court of Appeal yesterday tha
 *2024-10-23 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102872/colombo-hc-issues-arrest-warrant-on-johnston-fernando) · `en`
 
 The Colombo High Court today issued an arrest warrant on former Minister Johnston Fernando, for failing to appear before court over a case against him for allegedly involving Sathosa employees in election work from 2010 to 2014.
+
+Three persons including the former minister stand accused of using 153 ‘Lanka Sathosa’ employees for political purposes, while Fernando was serving as the Minister of Co-operatives Internal Trade, resulting in a losses amounting to Rs. 40 million to the government.
+
+When the case was called before Colombo High Court judge Manjula Thilakartne this morning (Oct 23), the arrest warrant was issued as Johnston Fernando failed to appear before the court.
+
+His attorney informed the court that his client was at the Criminal Investigation Department (CID) providing a statement regarding the unregistered luxury car allegedly belonging to him, which was found parked at a star-class hotel in Colombo.
+
+The case is scheduled to be heard again on January 27, 2025.
 
 ◼️
 
@@ -559,6 +755,8 @@ The British travel advisory page for Sri Lanka also reproduced the warning issue
 ◼️
 
 [Data](articles/8f101067.json)
+
+[Extended Data](ext_articles/8f101067.ext.json)
 
 ---
 
@@ -972,7 +1170,7 @@ According to the Police Media Division, five individuals had entered the yard to
 
 In response, the security officer had opened fire at the suspects, injuring one, while the others have fled.
 
-Both the injured suspect and the security officer, who was injured in the attack, have been admitted to Kalubowila Hospital.
+The injured suspect and the two security officers, who were injured in the attack, have been admitted to Kalubowila Hospital.
 
 Mount Lavinia Police is conducting further investigations into the incident.
 
@@ -2093,213 +2291,5 @@ Police said that the causes of a dispute with a group of people in a neighboring
 [Data](articles/5443072c.json)
 
 [Extended Data](ext_articles/5443072c.ext.json)
-
----
-
-### China donates Rs.30mn for Sri Lanka’s emergency flood relief
-
-*2024-10-22 20:17:00* · [`economynextcom`](https://economynext.com/china-donates-rs-30mn-for-sri-lankas-emergency-flood-relief-184458/) · `en`
-
-ECONOMYNEXT – Chinese Ambassador to Sri Lank, Qi Zhenhong handed over 30 million rupee donation to President Anura Kumara Dissanayake for the island nation’s emergency relief from the recent floods, the President’s Media Division (PMD) said in a statement.
-
-At least three people have been killed in the recent heavy rains which has resulted floods in the capital Colombo and other regions of the island nation. The heavy rains have flooded homes, fields and roads, and affected 158,000 people in at least 12 districts, the government has said.
-
-“During their meeting, Ambassador Qi made a donation of LKR 30 million (USD 100,000) as emergency flood relief to assist those affected by the recent flooding in the country,” the PMD said in a statement.
-
-“In addition to immediate relief measures, the discussion also extended to a dialogue about long-term flood prevention and management strategies. They discussed sustainable approaches to enhance the resilience of communities against future flooding.”
-
-...
-
-[Data](articles/6ed8af0e.json)
-
-[Extended Data](ext_articles/6ed8af0e.ext.json)
-
----
-
-### Announcement on assistance for Sri Lankans during UAE visa amnesty
-
-*2024-10-22 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102859/announcement-on-assistance-for-sri-lankans-during-uae-visa-amnesty-) · `en`
-
-The Consulate General of Sri Lanka to Dubai and Northern Emirates says it has been actively supporting the Sri Lankan community in the UAE during the ongoing UAE amnesty programme - 2024, which commenced on 01 September and will continue until 31 October 2024.
-
-The programme provides an opportunity for individuals to regularize their visa status or return to Sri Lanka without facing penalties.
-
-The Consulate General urges all Sri Lankans without a valid passport/lost passport to apply for a Temporary Travel Document (TTD) on or before 25 October 2024, allocating sufficient time to process the request to obtain United Arab Emirates (UAE) outpass and return to Sri Lanka.
-
-The Consulate General further stated it remains committed to assisting the Sri Lankan community during this amnesty period and encourages all eligible individuals to make use of the available services to regularize their visa status or return home safely.
-
-...
-
-[Data](articles/6de14a41.json)
-
-[Extended Data](ext_articles/6de14a41.ext.json)
-
----
-
-### Giant shark of 3000 kilos with the net
-
-*2024-10-22 20:05:47* · [`adalk`](https://www.ada.lk/breaking_news/දැලේ-පැටලුණ-කිලෝ-3000ක-යෝධ-මෝරා/11-412616) · `si`
-
-Here's a 200-character summary:
-
-
-
-Massive 3,000kg shark caught off coast. Fishermen struggle to move it. Police, Navy, Coast Guard assist. Spectacle draws crowds.
-
-🟩
-
-A giant shark weighing about 3,000 kilograms has been caught at the Sea Ampara, Ampara.
-
-Fisheries were unable to carry the giant shark to the deep sea, which was unable to bring fish in the net.
-
-At the same time, the police, the Navy, the Coast Guard were also spectacle at a deep sea.
-
-◼️
-
-[Data](articles/5ab921a3.json)
-
-[Extended Data](ext_articles/5ab921a3.ext.json)
-
----
-
-### There is no difference in the rice control price
-
-*2024-10-22 19:54:20* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-පාලන-මිලෙහි-කිසිදු-වෙනසක්-නැහැ/11-412615) · `si`
-
-No change in rice control price expected. Long-term plan to benefit farmers. SMEs mills face financial difficulties. Meeting focuses on fair pricing mechanism and reducing input costs.
-
-🟩
-
-A formal mechanism requires a formal mechanism to obtain fair paddy purchaser from the farmer community and give customers a fair pricing rice
-
-Attention to reduce the prices of inputs to encourage SMEs and Medium Scale Mill
-
-President Anura Kumara Dissanayake stated that no changes in the rice control price is expected to be expected.
-
-The President pointed out that the organized agriculture plan is planning to implement a long term program to benefit the farmer community.
-
-President Anura Kumara Dissanayake made these comments at the Presidential Secretariat today (22) with the rice businessmen and the officials of the Department of Agriculture.
-
-The discussion focused on the consumer prices currently in the current consumer goods and the need to maintain rice in control as a key diet of the people.
-
-The President said that the rice was purchased from the farmers after the imposition of control.
-
-...
-
-[Data](articles/e7911c36.json)
-
-[Extended Data](ext_articles/e7911c36.ext.json)
-
----
-
-### The drug trapped at the airport
-
-*2024-10-22 19:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-சிக்கிய-போதைப்பொருள்/175-345880) · `ta`
-
-Large Language Model: Here's a summary of the text in approximately 200 characters:
-
-
-
-"7kg ice & 1.1kg kush seized at Bandaranaike Intl Airport. Estimated value over Rs 8 crore. Drugs found in Katunayake airport barn."
-
-🟩
-
-7 kg of ice drugs and 1.1 kg kush drugs have been found at the Bandaranaike International Airport.
-
-The value of this drug reserve is more than Rs 8 crore.
-
-It is also reported that the drug sent to Sri Lanka by plane was found from the barn at the Katunayake airport.. Remble
-
-◼️
-
-[Data](articles/e163adec.json)
-
-[Extended Data](ext_articles/e163adec.ext.json)
-
----
-
-### “Can't testify in the Jaffna court”
-
-*2024-10-22 19:27:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-நீதிமன்றத்தில்-சாட்சியமளிக்க-முடியாது/175-345871) · `ta`
-
-Gotabhaya Rajapakse refuses to testify in Jaffna court over human rights activists' disappearance in 2011. His lawyer states readiness to testify elsewhere in Sri Lanka. Case adjourned until March 18, 2025.
-
-🟩
-
-Former President of Sri Lanka Gotabhaya Rajapakse has said that he is ready to testify in any of the country's court except the Jaffna Magistrate's Court on two human rights activists who went missing in 2011.
-
-The report was released through his lawyer Romesh de Silva during a hearing of the case in the High Court today (22).
-
-Kota, the then Defense Secretary, was first invited to testify at the Jaffna Magistrate's Court on the abduction of Lalith Veeraj and Kugan Murugananthan in Jaffna in 2011.. However, he said he was unable to attend due to security reasons.
-
-Rajapakse's lawyer told the High Court that the former president could not appear before the Jaffna court and was ready to submit witnesses in any other court in Sri Lanka.
-
-The petition filed by relatives of the missing persons was taken up for hearing today, challenging the previous verdict of the Court of Appeal.
-
-In the previous ruling, it was noted that Gotabhaya Rajapakse could not be called as president.
-
-...
-
-[Data](articles/33fc1465.json)
-
-[Extended Data](ext_articles/33fc1465.ext.json)
-
----
-
-### Sriranga in Vavuniya: Gibsiriyam
-
-*2024-10-22 19:09:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியாவில்-ஸ்ரீரங்கா-சொப்பே-மகன்-கிப்சிறியாம்/175-345869) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo Chief Magistrate Thilina Kamage investigates former MP J. Sreeranga's arrest. Former Minister Rishad Bathiudeen accused of threatening judges. President Anura Kumara Dissanayake calls for re-investigation. Posters targeting Sreeranga and judges found. Arressts made, but case remains unresolved.
-
-🟩
-
-Colombo Chief Magistrate Thilina Kamage has met with journalists in Vavuniya on Tuesday (22) as Colombo Chief Magistrate Kamage has ordered the Colombo Criminal Investigation Division on Monday (21) if he is involved in the arrest of former MP J. Sreeranga with muddy posters.
-
-At the time, John in the 2012 Mannar Court, John the Inquiry into the Investigation.. Sriranga has demanded.
-
-Vanni electoral constituency independent committee candidate J. At a media briefing held in Sriranga, Vavuniya,
-
-Judge Judson complained that when he was a court judge, the court had threatened the court and threatened Rishad Bathiudeen. Chief Justice Shirani Bandaranayake, who closed the Supreme Court, said that it was not properly investigated by the High Court and High Court Judges.. The investigation was later held.
-
-At this juncture, Chief Justice Shirani Bandaranaike sent home through MPs claiming that the case against Rishad Bathiudeen was against the state.
-
-...
-
-[Data](articles/7f4daa5e.json)
-
-[Extended Data](ext_articles/7f4daa5e.ext.json)
-
----
-
-### Supreme Court decision on the petition of the Democratic National Alliance
-
-*2024-10-22 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202437) · `si`
-
-Supreme Court rules on Democratic National Alliance petition regarding Vanni District election nomination rejection. Decision to be announced tomorrow. Petitioners claim selection officer rejected nomination papers. Requested interim injunction until hearing on November 14.
-
-🟩
-
-The Supreme Court announced that the decision filed by the Democratic National Alliance (Democratic National Alliance) to issue the decision of the District Return to the Vanni District is announced tomorrow (23).
-
-After considering the facts presented by the two parties, the Supreme Court pointed out that the selected officer should be accepted in accordance with the existing nomination.
-
-Accordingly, the three-member Supreme Court Judge is ordered that the verdict and the reasons for this matter will declare tomorrow.
-
-The petition was called before the Supreme Court Bench comprised of today's journalist Judiciary today.
-
-The petition was presented by the Authorized Officer Pararajasangam Udaya Raza and two other candidates.
-
-The Chairman of the Elections and its members of the Vanni district, including the Chairman of the Vanni District, has been named as the respondents.
-
-...
-
-[Data](articles/4eab3501.json)
-
-[Extended Data](ext_articles/4eab3501.ext.json)
 
 ---

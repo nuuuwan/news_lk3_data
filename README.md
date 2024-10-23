@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 15:10:26**
+As of **2024-10-23 15:23:49**
 
 ## Newspaper Stats
 
-*Scraped **50,927** Articles*
+*Scraped **50,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 515
 islandlk | 3,030
 economynextcom | 3,114
 dailyftlk | 3,474
-adalk | 4,733
 dailymirrorlk | 4,733
-adaderanalk | 6,038
+adalk | 4,734
+adaderanalk | 6,039
 tamilmirrorlk | 7,009
 virakesarilk | 8,162
 adaderanasinhalalk | 8,837
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,837
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,927 (100.0%) of 50,927 articles have been extended.
+50,929 (100.0%) of 50,929 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,21 +58,41 @@ Sri Lanka were able to win the first ODI in five wickets in the West Indies by 5
 
 ---
 
+### Johnston Fernando arrested
+
+*2024-10-23 14:49:29* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්-ප්‍රනාන්දු-අත්අඩංගුවට-ගනී/11-412633) · `si`
+
+Johnston Fernando, former MP, arrested by CID after Colombo High Court issues warrant. He arrived at Criminal Investigation Department to make a statement.
+
+🟩
+
+Former Parliamentarian Johnston Fernando has been arrested shortly before the CID.
+
+To give a statement, he came to the Criminal Investigation Department this morning.
+
+The Colombo High Court today issued warrants to arrest Johnston Fernando.
+
+◼️
+
+[Data](articles/8a10cb5e.json)
+
+[Extended Data](ext_articles/8a10cb5e.ext.json)
+
+---
+
 ### Ex-Minister Johnston Fernando arrested by CID
 
 *2024-10-23 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102878/ex-minister-johnston-fernando-arrested-by-cid) · `en`
 
-Former Minister Johnston Fernando has been arrested by the Criminal Investigation Department (CID).
+Former Minister Johnston Fernando has been arrested by the Criminal Investigation Department (CID) over the possession of an illegally assembled luxury vehicle.
 
-He had arrived at the CID this morning (23) to provide a statement regarding the unregistered luxury car, allegedly belonging to him, which was found parked at a star-class hotel in Colombo.
+He had arrived at the CID this morning (23) to provide a statement regarding the unregistered BMW car, allegedly belonging to him, which was recently found suspiciously parked at a star-class hotel in Colombo.
 
 A petition filed by Fernando, seeking an order to prevent his arrest over the incident, was taken up for consideration yesterday (22).
 
-During the hearing, his attorneys had informed the court that Fernando was prepared to appear before the CID today to give a statement on the matter.
+During the hearing, his attorneys informed the court that Fernando was prepared to appear before the CID today to give a statement on the matter.
 
-The consideration of the petition was postponed until October 25.
-
-Meanwhile, the Colombo High Court today also issued an arrest warrant on former Minister Johnston Fernando, for failing to appear before the court over a case against him for allegedly involving Sathosa employees in election work from 2010 to 2014.
+Meanwhile, the Colombo High Court today also issued an arrest warrant on former parliamentarian Johnston Fernando, for failing to appear before the court over a case against him for allegedly involving Sathosa employees in election work from 2010 to 2014.
 
 ...
 
@@ -1554,6 +1574,26 @@ This presents a significant opportunity to strengthen the economy of Sri Lanka a
 
 ---
 
+### Sri Lanka Police to implement special program to ensure safety of tourists
+
+*2024-10-23 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102870/sri-lanka-police-to-implement-special-program-to-ensure-safety-of-tourists) · `en`
+
+The police and intelligence divisions, under the direction of the Ministry of Public Security, are taking proactive measures to ensure the safety of tourists and citizens against any potential threats, Sri Lanka Police said.
+
+Issuing a special statement, the police department urged the public and tourists to report any emergencies or relevant information by contacting the emergency hotline ‘1997’.
+
+The Police Media Division stated that It has been observed from the information received so far that a large number of tourists are scheduled to visit Sri Lanka in the upcoming tourist season.
+
+This opens up a great opportunity for Sri Lanka to boost its economy while earning the trust and respect of foreign nationals towards Sri Lanka, the statement said.
+
+...
+
+[Data](articles/b552f314.json)
+
+[Extended Data](ext_articles/b552f314.ext.json)
+
+---
+
 ### Rhetoric
 
 *2024-10-23 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/196886) · `ta`
@@ -2319,49 +2359,5 @@ The certification, issued by Control Union under rigorous ISO standards, applies
 [Data](articles/39e62360.json)
 
 [Extended Data](ext_articles/39e62360.ext.json)
-
----
-
-### IMF flags risks to global economy from elections and policy shifts
-
-*2024-10-23 06:16:00* · [`economynextcom`](https://economynext.com/imf-flags-risks-to-global-economy-from-elections-and-policy-shifts-184468/) · `en`
-
-ECONOMYNEXT – The level of uncertainty surrounding the global economic outlook remains elevated as change in governments could bring about significant shifts in trade and fiscal policy, the International Monetary Fund (IMF) said in its latest World Economic Outlook (WEO) report.
-
-The report titled ‘Policy Pivot, Rising Threats’ noted that nearly half of the world’s population has already gone or is expected to go to the polls this year, underscoring the potential for political transitions to reshape economic policies.
-
-“The potential for significant swings in economic policy as a result of elections this year, with negative spillovers to the rest of the world, has increased the uncertainty around the baseline.” the report released on October 22, said.
-
-...
-
-[Data](articles/1e5533f4.json)
-
-[Extended Data](ext_articles/1e5533f4.ext.json)
-
----
-
-### President says control price of rice remains unchanged
-
-*2024-10-23 06:14:34* · [`dailyftlk`](https://www.ft.lk/business/President-says-control-price-of-rice-remains-unchanged/34-768300) · `en`
-
-Calls for formal mechanism to ensure fair pricing for farmers and consumers at meeting with rice millers and officials from Department of Agriculture
-
-At meeting with rice millers and officials from Department of Agriculture calls for formal mechanism to ensure fair pricing for farmers and consumers
-
-Says efforts underway to lower input costs for SME rice millers
-
-President Anura Kumara Dissanayake yesterday emphasised that the controlled price of rice will not change.
-
-He also highlighted that plans are underway for a long-term program to create an organised agricultural plan, which would provide greater benefits to farmers.
-
-President Dissanayake made these remarks during a discussion with rice millers and officials from the Department of Agriculture.
-
-During this meeting, participants focused on the current prices of consumer goods, emphasising the importance of controlling the price of rice, which is a staple food for the population.
-
-...
-
-[Data](articles/7c9a64b3.json)
-
-[Extended Data](ext_articles/7c9a64b3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 08:59:17**
+As of **2024-10-23 09:13:12**
 
 ## Newspaper Stats
 
-*Scraped **50,840** Articles*
+*Scraped **50,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,110 @@ bbccomsinhala | 514
 islandlk | 3,030
 economynextcom | 3,108
 dailyftlk | 3,474
-adalk | 4,721
+adalk | 4,722
 dailymirrorlk | 4,733
-adaderanalk | 6,022
-tamilmirrorlk | 6,988
+adaderanalk | 6,023
+tamilmirrorlk | 6,991
 virakesarilk | 8,148
-adaderanasinhalalk | 8,820
+adaderanasinhalalk | 8,821
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,829 (100.0%) of 50,840 articles have been extended.
+50,829 (100.0%) of 50,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Putin hosts Global South leaders at BRICS summit meant to counterbalance Western clout
+
+*2024-10-23 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102864/putin-hosts-global-south-leaders-at-brics-summit-meant-to-counterbalance-western-clout) · `en`
+
+China’s Xi Jinping, India’s Narendra Modi and other world leaders arrived Tuesday in the Russian city of Kazan for a summit of the BRICS bloc of developing economies that the Kremlin hopes to turn into a rallying point for defying Western influence in global affairs.
+
+For Russian President Vladimir Putin, the three-day meeting also offers a powerful way to demonstrate the failure of U.S.-led efforts to isolate Russia over its actions in Ukraine.
+
+Kremlin foreign affairs adviser Yuri Ushakov called it “the largest foreign policy event ever held” by Russia, with 36 countries attending and more than 20 of them represented by heads of state.
+
+The alliance that initially included Brazil, Russia, India, China and South Africa has expanded rapidly to embrace Iran, Egypt, Ethiopia, the United Arab Emirates and Saudi Arabia. Turkey, Azerbaijan and Malaysia have formally applied to become members, and a few others have expressed interest in joining.
+
+...
+
+[Data](articles/863707e3.json)
+
+---
+
+### ලබන වසරේ බඩඉරිඟු ආනයනය අඩුකිරීමට පියවර
+
+*2024-10-23 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202450) · `si`
+
+ලබන වසරේ ආනයනය කරණු ලබන බඩඉරිඟු ප්‍රමාණය මෙක්ට්‍රික් ටොන් එක් ලක්ෂ පනස් දහසක් දක්වා අඩුකිරීමට පියවර ගන්නා ලෙස උපදෙස් ලැබී ඇති බව කෘෂිකර්ම අමාත්‍යාශයේ ලේකම් එම්. පී. එන්. එම් වික්‍රමසිංහ මහතා පවසයි.
+
+ඔහු සඳහන් කළේ, දැනට වාර්ෂිකව බඩඉරිඟු මෙක්ට්‍රික් ටොන් ලක්ෂ තුනක් ආනයන කරන බවය.
+
+"මේ සඳහා විශාල මුදල් ප්‍රමාණයක් ඩොලර් වශයෙන් රටින් පිට යනවා. ඒ නිසා අපිට උපදෙස් ලැබිලා තියෙනවා ලබන අවුරුද්දේ මෙක්ට්‍රික් ටොන් එක් ලක්ෂ පනස් දහසක් දක්වා අඩුකරන්න ඕනේ. ඒ සඳහා අපි දැනට කරන නිෂ්පාදනය වැඩි කරන්න ඕනේ. මේ අවුරුද්දේ අපි බඩඉරිඟු සඳහා යොදන ඉඩම් ප්‍රමාණය වැඩි කරලා තියෙනවා. ඒ අනුව අපි විශ්වාස කරනවා ලොකු ඩොලර් ප්‍රමාණයක් රටින් පිටට යන එක අඩු කරගන්න පුළුවන් කියලා."
+
+විදේශවලින් බීජ ආනයනය කිරීමකින් තොරව එම බීජ මෙරටදීම නිෂ්පාදනය කිරීම සඳහා වැඩපිළිවලක් සකස් කරමින් පවතින බව ද එම්.පී.එන්.එම් වික්‍රමසිංහ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/7cfc37d9.json)
+
+---
+
+### சுமார் 10,000 சிறுவர்கள் குறித்து அதிர்ச்சி அறிக்கை
+
+*2024-10-23 08:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமார்-10-000-சிறுவர்கள்-குறித்து-அதிர்ச்சி-அறிக்கை/175-345899) · `ta`
+
+இலங்கையில் ஐந்து வயதுக்குட்பட்ட 10,323 சிறுவர்கள் கடுமையான போஷாக்குக் குறைபாட்டினால் பாதிக்கப்பட்டுள்ளதாக குடும்ப சுகாதாரப் பணியகம் வெளியிட்டுள்ள சமீபத்திய அறிக்கை காட்டுகிறது.
+
+அறிக்கையின்படி, ஒரு வயதுக்குட்பட்ட குழந்தைகளிலும், ஒன்று முதல் இரண்டு வயது வரையிலான குழந்தைகளிலும், இரண்டு முதல் ஐந்து வயது வரையிலான குழந்தைகளிலும் ஊட்டச்சத்து குறைபாடு அதிகரித்துள்ளது.
+
+எனினும், இந்த எண்ணிக்கை கடந்த ஆண்டுடன் ஒப்பிடும் போது குறைந்துள்ளது. கடந்த ஆண்டு கடுமையான ஊட்டச்சத்து குறைபாட்டால் பாதிக்கப்பட்ட குழந்தைகளின் எண்ணிக்கை 15,763 ஆக இருந்தது.
+
+ஐந்து வயதுக்குட்பட்ட 13,1649 சிறார்களை பதிவு செய்து நடத்தப்பட்ட கணக்கெடுப்பில் இது தெரியவந்துள்ளது.
+
+இந்த மதிப்பீட்டில், நாடளாவிய ரீதியில் அனைத்து மாவட்டங்களிலும் ஐந்து வயதுக்குட்பட்ட குழந்தைகளின் எடையில் குறைவு ஏற்பட்டுள்ளதாக கண்டறியப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/db670575.json)
+
+---
+
+### ஜோன்ஸ்டனை கைது செய்ய சென்றது CID
+
+*2024-10-23 08:42:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோன்ஸ்டனை-கைது-செய்ய-சென்றது-CID/175-345897) · `ta`
+
+சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட அதிசொகுசு BMW கார் தொடர்பில் சந்தேகநபரான முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோவை கைது செய்ய குற்றப் புலனாய்வுத் திணைக்களத்தின் விசேட அதிகாரிகள் குழுவொன்று நேற்று (22ஆம் திகதி) கொழும்பில் இருந்து குருநாகல் நோக்கிச் சென்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+மோட்டார் வாகனப் பதிவுத் திணைக்களத்தில் பதிவு செய்யப்படாத வரி ஏய்ப்பு செய்து சட்டவிரோதமாக இலங்கைக்கு கொண்டு வரப்பட்ட வாகனத்தைப் பயன்படுத்துதல், குறித்த காருக்கு திருடப்பட்ட போலி இலக்கத் தகட்டைப் பயன்படுத்துதல் மற்றும் கொழும்பு ஹில்டன் ஹோட்டலில் மறைத்து வைக்குமாறு கட்டளையிட்டமை உள்ளிட்ட குற்றச்சாட்டுக்களின் கீழ் முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோவை கைது செய்வதற்கான விசாரணைகள் முன்னெடுக்கப்பட்டு வருவதாக குற்றப் புலனாய்வு திணைக்களம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/e7e1a73f.json)
+
+---
+
+### இன்று இடியுடன் கூடிய மழை பெய்யும்
+
+*2024-10-23 08:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை-பெய்யும்/175-345896) · `ta`
+
+மேல், சப்ரகமுவ, தெற்கு, வடமேற்கு மற்றும் வடக்கு மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் இன்று (23) அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் கூறியுள்ளது.
+
+மேற்கு, சப்ரகமுவ, தெற்கு மற்றும் வடக்கு மாகாணங்களில் சில இடங்களில் 75மில்லிமீற்றருக்கும் அதிகமாக மழை பெய்ய வாய்ப்புள்ளதாகவும் துறை குறிப்பிடுகிறது.
+
+நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதுடன், சில இடங்களில் 75 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும்.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளையில்,  தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/7ae1a7df.json)
+
+---
 
 ### One injured in shooting at Ratmalana railway yard
 
@@ -139,6 +227,26 @@ Ajith Karawita says that the growth of people who have unwindged AIDS has shown 
 [Data](articles/1cf0bf34.json)
 
 [Extended Data](ext_articles/1cf0bf34.ext.json)
+
+---
+
+### ලක්ෂ 850ක මත්ද්‍රව්‍ය අල්ලයි
+
+*2024-10-23 07:46:53* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ 850ක-මත්ද්‍රව්‍ය-අල්ලයි/11-412619) · `si`
+
+කටුනායක ගුවන් තොටුපොළ ගුවන් භාණ්ඩ ගම්මානයේ ( Cargo Village ) යූ.පී.එස්. බන්ධිත ගුදම තුළ හිමිකරුවන් ඉදිරිපත් නොවු ගුවන් තැපැල් පාර්සල් 07 ක් 10/21 දින රාත්‍රී විවෘත කර පරීක්ෂා කළ රේගු සහ පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් ඒවා තුළ තිබී රුපියල් අට කෝටි පනස් ලක්ෂයක් පමණ වටිනා විදේශීය මත්ද්‍රව්‍ය තොගයක් සොයා ගෙන අත් අඩංගුවට ගෙන  තිබේ.
+
+මෙම පාර්සල් ඇමෙරිකාව, එංගලන්තය, කැනඩාව යන රටවල සිට ශ්‍රී ලංකාවේ විවිධ ප්‍රදේශ වල පිහිටි ව්‍යාජ ලිපිනයන් වෙත එවා තිබුණි.
+
+දීර්ඝ කාළයක් මෙම පාර්සල් භාර ගැනීමට හිමිකරුවන් පැමිණ නොසිටි අතර ඒවායේ සදහන් ලිපිනයන් පිළිබඳ සොයා බැලීමේ දී ඒවා ව්‍යාජ ලිපිනයන් බව තහවුරු වී තිබුණි .
+
+මෙසේ අත් අඩංගුවට ගත් මත්ද්‍රව්‍ය අතර අයිස් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 07 යි ග්‍රෑම්  021 ක් , කුෂ් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 01 යි ග්‍රෑම් 143 ක් සහ මැන්ඩි නැමැති රසායනික මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 01 යි ග්‍රෑම් 338 ක් ද තිබී ඇත .
+
+මෙම මත්ද්‍රව්‍ය තොගය වැඩිදුර විමර්ශන කටයුතු සදහා කටුනායක ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් විසින් සිදු කරමින් සිටිති.
+
+◼️
+
+[Data](articles/a337dcff.json)
 
 ---
 
@@ -2191,155 +2299,5 @@ The British News Service (BTP) has also stated that 15 others were injured in th
 [Data](articles/0cd06203.json)
 
 [Extended Data](ext_articles/0cd06203.ext.json)
-
----
-
-### Sri Lanka’s Catholic Church also rejects Gammanpila’s Easter attacks report
-
-*2024-10-22 15:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102852/sri-lankas-catholic-church-also-rejects-gammanpilas-easter-attacks-report-) · `en`
-
-Rev. Fr. Cyril Gamini Fernando, Director of Communications for the Archdiocese of Colombo, says that they reject the report of the Committee of Inquiry, chaired by retired High Court Judge A.N.J. De Alwis.
-
-He made this statement in response to comments made by Pivithuru Hela Urumaya (PHU) leader and former MP Udaya Gammanpila during a press conference held in Colombo yesterday (21) where he disclosed the contents of a previously unreleased report regarding the Easter Sunday terror attacks.
-
-Speaking at a press conference held today (22) at the Archbishop’s House in Borella, Rev. Fr. Gamini stated: “It is clear that a conflict of interest will immediately arise by appointing A.N.J. De Alwis, the sister of Prasanna De Alwis, who is accused of concealing and destroying evidence in a murder investigation, as the head of this committee.”
-
-He further stated that a report produced under these circumstances cannot be regarded as impartial or independent.
-
-...
-
-[Data](articles/3d647483.json)
-
-[Extended Data](ext_articles/3d647483.ext.json)
-
----
-
-### Permission to be named Ranil as a 2 petitions
-
-*2024-10-22 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202430) · `si`
-
-Supreme Court allows naming former President Ranil Wickremesinghe as respondent in Fundamental Rights case filed by Socialist Youth Union in 2022. Two petitions made by SYU members requesting lawyers' summons.
-
-🟩
-
-The Supreme Court has given a permission to name former President Ranil Wickremesinghe as a respondent in the Fundamental Rights of the Socialist Youth Union in 2022.
-
-When a request made by two petitions filed by two members of the Socialist Youth Union (SYU) summoned a demand for the petitioner's lawyers.
-
-◼️
-
-[Data](articles/61f5d0c5.json)
-
-[Extended Data](ext_articles/61f5d0c5.ext.json)
-
----
-
-### Government resolution to declare the Eastern container terminal project as a special project
-
-*2024-10-22 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196846) · `ta`
-
-Sri Lanka Ports Authority approves Eastern container terminal project as special development initiative. Cabinet grants tax concessions under Strategic Development Act and Investment Board Act to private operators and service providers. Contract issued for civil work, purchase of equipment available. Project aims to enhance Port Authority capabilities.
-
-🟩
-
-At the Cabinet meeting held on the 1st of February 2021, the Sri Lanka Ports Authority has approved the east container terminal of the Colombo South Port Project as a fully -wide container terminal to develop the Port Authority.
-
-Accordingly, the contract for the civil work has been issued and the receipt of the container terminal is now available for the purchase of parambles for the container terminal.
-
-Various tax concessions found under the Strategic Development Act and the Investment Board Act have been granted to private container operators and service providers of the Port of Colombo.
-
-The Cabinet has approved the proposal submitted by the Minister of Transport, Highway, Ports and Civil Services to publish the Eastern Container terminal project as a special project by the Minister of Finance.
-
-◼️
-
-[Data](articles/894a38b4.json)
-
-[Extended Data](ext_articles/894a38b4.ext.json)
-
----
-
-### President Meeting with Provincial Governors
-
-*2024-10-22 14:54:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-ஆளுநர்களுடனான-ஜனாதிபதி-சந்திப்பு/175-345855) · `ta`
-
-President Anurakumara Dissanayake met with provincial governors to discuss regulating Provincial Councils. Focus on healthcare and education vacancies. Emphasized improving services to benefit citizens. Directed governors to implement economic and social interventions. Urged commitment to quality public service and transparency in asset usage.
-
-🟩
-
-President Anurakumara Dissanayake has announced to the provincial governors to prepare and submit a recommendation to regulate the Provincial Council mechanism.
-
-It was decided to focus on the vacancies in the health and education sectors under the provincial councils and provide favorable solutions.
-
-The President also stated that the provincial councils will take steps to provide the peak service provided by the provincial councils to ease the livelihood of the people during the current change.
-
-The President said this during a discussion with provincial governors held at the Presidential Secretariat on Tuesday (22).
-
-The President issued a directive to the provincial governors to make all possible economic and social interventions by provincial councils to make the people the lives of the people.
-
-Recalling the people's mandate to initiate a new political culture, the president also urged the people to act so as not to affect the expectations of the people.
-
-...
-
-[Data](articles/32b3212e.json)
-
-[Extended Data](ext_articles/32b3212e.ext.json)
-
----
-
-### “Provincial Council Mechanism: The President
-
-*2024-10-22 14:54:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாகாண-சபை-பொறிமுறை-வேண்டும்-ஜனாதிபதி/175-345855) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anurakumara Dissanayake addresses provincial governors on council reforms. Focuses on health and education vacancies. Emphasizes economic interventions and quality public service. Governors present include Nagalingam Vedanayagan, Samba Janaki Rajaratne, Jayantha Ratnasekara, Kapila Jayasekara, Bandula Harischandra, Sarath Samarasinghe.
-
-🟩
-
-President Anurakumara Dissanayake has announced to the provincial governors to prepare and submit a recommendation to regulate the Provincial Council mechanism.
-
-It was decided to focus on the vacancies in the health and education sectors under the provincial councils and provide favorable solutions.
-
-The President also stated that the provincial councils will take steps to provide the peak service provided by the provincial councils to ease the livelihood of the people during the current change.
-
-The President said this during a discussion with provincial governors held at the Presidential Secretariat on Tuesday (22).
-
-The President issued a directive to the provincial governors to make all possible economic and social interventions by provincial councils to make the people the lives of the people.
-
-Recalling the people's mandate to initiate a new political culture, the president also urged the people to act so as not to affect the expectations of the people.
-
-...
-
-[Data](articles/d85ee826.json)
-
-[Extended Data](ext_articles/d85ee826.ext.json)
-
----
-
-### Can't Forgive YouTube Irfan
-
-*2024-10-22 14:53:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூபர்-இர்பானை-மன்னிக்க-முடியாது/175-345854) · `ta`
-
-Here's a 200-character summary:
-
-
-
-YouTube Irfan shares childbirth video, sparking controversy. Minister Ma Subramanian condemns act, vows action against doctor and hospital. Video removed after DMS notice. Health Department to punish wrongdoers.
-
-🟩
-
-The Minister of Medicine and Public Welfare, Ma Subramanian, has said that the video of the child's umbilical cord cutting the flag of the child cannot be forgiven by Irfan.
-
-Chennai -based youtuban - Asifa couple gave birth to a girl at a private hospital on July 24. When the baby was born, he shared a video of the baby's umbilical cord cutting the baby's umbilical cord on his YouTube channel. In the video, he has posted a video of the juice from the house to the hospital, the pre -delivery care and the events during childbirth.. Doctors and community activists have strongly condemned Irfan's act.
-
-Already, Irfan released the video of the child who was born last year and released the video related to it.. The Medical and Rural Welfare Directorate (DMS) sent a notice to Irfan to respond to the video. Subsequently, the video was removed from YouTube.
-
-...
-
-[Data](articles/23e8cabc.json)
-
-[Extended Data](ext_articles/23e8cabc.ext.json)
 
 ---

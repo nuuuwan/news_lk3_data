@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 14:25:50**
+As of **2024-10-23 14:39:44**
 
 ## Newspaper Stats
 
-*Scraped **50,919** Articles*
+*Scraped **50,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 6,037
 tamilmirrorlk | 7,008
 virakesarilk | 8,161
-adaderanasinhalalk | 8,834
+adaderanasinhalalk | 8,835
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,919 (100.0%) of 50,919 articles have been extended.
+50,920 (100.0%) of 50,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### A warning of the Russian Embassy
+
+*2024-10-23 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202464) · `si`
+
+Warning from Russian Embassy: Avoid areas near LTTE attacks. Sri Lanka Police alert issued. British High Commission updates. US Embassy advises caution due to potential threats in Arugambay region.
+
+🟩
+
+The Russian Embassy in Colombo has been announced by the Russian nationals in Sri Lanka.
+
+Russian had informed Russian and informed Russian to avoid being attentive and treated.
+
+The Sri Lanka Police have issued an official announcement that the foreign nationals have been at risk of an attack on the LTTE in Aruugambay, the Russian embassy in Colombo says.
+
+Meanwhile, the British High Commission in Sri Lanka has also been updated to Sri Lanka.
+
+They have said that the US embassy in Colombo was based on the tourism consultation issued by the tourism center in Arugambay area.
+
+◼️
+
+[Data](articles/641ecd52.json)
+
+[Extended Data](ext_articles/641ecd52.ext.json)
+
+---
 
 ### The only opposition is the exangeration power - But
 
@@ -2273,21 +2299,5 @@ Sri Lankan Governments over seven decades have been, in general, centrally plann
 [Data](articles/95742fad.json)
 
 [Extended Data](ext_articles/95742fad.ext.json)
-
----
-
-### Embracing change and having a strong, capable team to navigate through transitions are important
-
-*2024-10-23 05:55:20* · [`dailyftlk`](https://www.ft.lk/columns/Embracing-change-and-having-a-strong-capable-team-to-navigate-through-transitions-are-important/4-768292) · `en`
-
-It is essential to focus on their ability to perform and define what makes an effective MP
-
-The recent election in Sri Lanka was a significant turning point, as a new leader was elected. It is crucial to form a capable team to govern the country and address the needs of the people. We have made significant progress in evaluating the qualities necessary for Members of Parliament and establishing fair and transparent selection procedures. However, we must prioritise the capabilities of the politicians over their identity and backgrounds. It is essential to focus on their ability to perform and define what makes an effective MP.
-
-...
-
-[Data](articles/6d336395.json)
-
-[Extended Data](ext_articles/6d336395.ext.json)
 
 ---

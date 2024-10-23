@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 19:39:45**
+As of **2024-10-23 20:11:45**
 
 ## Newspaper Stats
 
-*Scraped **50,982** Articles*
+*Scraped **50,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,133 @@ islandlk | 3,030
 economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
-adalk | 4,742
+adalk | 4,744
 adaderanalk | 6,048
 tamilmirrorlk | 7,020
-virakesarilk | 8,169
-adaderanasinhalalk | 8,850
+virakesarilk | 8,172
+adaderanasinhalalk | 8,853
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,982 (100.0%) of 50,982 articles have been extended.
+50,984 (100.0%) of 50,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### සිම්බාබ්වේ 20යි 20 ලෝක වාර්තා අලුත් කරයි
+
+*2024-10-23 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202482) · `si`
+
+20යි 20 ජාත්‍යන්තර ක්‍රිකට් තරගයකදී කණ්ඩායමක් රැස්කළ වැඩිම ලකුණු සංඛ්‍යාව රැස් කිරීමට සිම්බාබ්වේ කණ්ඩායම අද (23) සමත් විය.
+
+ඒ ගැම්බියා කණ්ඩායමට එරෙහිව සිය පන්දු ඕවර 20දී කඩුලු 4ක් දැවී ලකුණු 344ක් රැස්කර ගනිමිනි.
+
+සිම්බාබ්වේ වෙනුවෙන් සිකන්දර් රාසා පන්දු 33කදී ශතකයක් රැස්කළේය. ඔහු නොදැවී ලකුණු 133ක් රැස්කළ අතර ඊට 6 පහර 15ක් ඇතුළත් විය.
+
+කණ්ඩායමේ අනෙක් පිතිකරුවන් 6 පහර 12ක් එල්ලකළ අතර ඒ අනුව කණ්ඩායම ඔවුන්ගේ ඉනිමට 6 පහර 27ක් ඇතුළත් විය. එයද ලෝක වාර්තාවකි.
+
+ඔවුන් විසින් බිඳ දැමුවේ නේපාල කණ්ඩායම ලකුණු 314ක් රැස්කර තබා තිබූ වාර්තාවකි. නේපාල ඉනිමට 6 පහර 26ක් ඇතුළත් වුණි.
+
+◼️
+
+[Data](articles/6922ec04.json)
+
+---
+
+### இலங்கையின் மோசமான களத்தடுப்பு மேற்கிந்தியத் தீவுகளை கௌரவமான நிலையில் இட்டது; இலங்கைக்கு வெற்றி இலக்கு 190
+
+*2024-10-23 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196951) · `ta`
+
+கண்டி பல்லேகலை சர்வதேச விளையாட்டரங்கில் நடைபெற்றுவரும் 2ஆவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட மேற்கிந்தியத் தீவுகள் 36 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 189 ஓட்டங்களைக் குவித்தது.
+
+மழை காரணமாக 2 மணி நேரம் தாமதித்து ஆரம்பித்த இன்றைய போட்டி அணிக்கு 44 ஓவர்கள் என நிர்ணயிக்கப்பட்டது.
+
+குடாகேஷ் மோட்டி 31 ஓட்டங்களைப் பெற்றிருந்தபோது கொடுத்த மிக உயரமான பிடியை ஜனித் லியனகே தவறவிட்டது மேற்கிந்தியத் தீவுகளுக்கு சாதமாக அமைந்தது.
+
+அப்போது மேற்கிந்தியத் தீவுகளின் மொத்த எண்ணிக்கை 16ஆவது ஓவரில் 58 ஓட்டங்களுக்கு 8 விக்கெட்களாக இருந்தது.
+
+இதனைத் தொடர்ந்து ஷேரஃபேன் ரதர்ஃபர்ட், குடாகேஷ் மோட்டி ஆகிய இருவரும் அரைச் சதங்கள் குவித்ததுடன் 9ஆவது விக்கெட்டில் சாதனைமிகு 119 ஓட்டங்களைப் பகிர்ந்து மேற்கிந்தியத் தீவுகளின் மொத்த எண்ணிக்கைக்கு பலம் சேர்த்தனர்.
+
+பந்துவீச்சில் வனிந்து ஹசரங்க 4 விக்கெட்களையும் மஹீஷ் தீக்ஷன, அசித்த பெர்னாண்டோ ஆகிய இருவரும் தலா 3 விக்கெட்களையும் கைப்பற்றினர்.
+
+...
+
+[Data](articles/fd280c5f.json)
+
+---
+
+### ආරුගම්බේ ප්‍රහාර සැලසුම ගැන ඉන්දීය බුද්ධි අංශ සැපයු තොරතුරු
+
+*2024-10-23 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202481) · `si`
+
+ආරුගම්බේ ප්‍රහාර සැලසුම සම්බන්ධයෙන් ශ්‍රී ලංකා ආරක්ෂක අංශ දැනුවත් කර ඇත්තේ ඉන්දීය බුද්ධි අංශ විසින් බව අද (23) හෙළිදරව් විය.
+
+අම්පාර දිස්ත්‍රික්කයේ පොතුවිල් ආසන්නයේ පිහිටි ආරුගම්බේ, සර්ෆින් ක්‍රීඩාවට ප්‍රචලිත සංචාරකයන් බහුලව පැමිණෙන ලොව ආකර්ෂණීයම සංචාරක කලාපයකි.
+
+එවන් පසුබිමක ආරුගම්බේ ප්‍රදේශයේ රැඳීසිටින ඊශ්‍රායල ජාතිකයන් ඉලක්ක කර ප්‍රහාරයක් එල්ලකිරීමේ සැලසුමක් ඇතැයි ඉන්දීය බුද්ධි අංශ පසුගිය දිනක මෙරට ආරක්ෂක අංශ දැනුම්ත් කර ඇත.
+
+අදාළ ප්‍රහාරය ඔක්තෝබර් 19ත් 23ත් අතර කාලය තුළදී එල්ලවිය හැකි බවට ඉන්දීය බුද්ධි අංශ දැනුම්දී තිබේ.
+
+ප්‍රහාරය එල්ල කිරීම සඳහා ලාංකික පුද්ගලයන් දෙදෙනෙකු සූදානමින් සිටින බවත් ඔවුන් දෙදෙනාගෙන් අයෙක් ඉරාකයේ සිට පැමිණි අයෙක් බවත් බුද්ධි අංශ වෙත වාර්තා වී තිබුණි.
+
+ප්‍රහාරය සඳහා ඔවුන් දෙදෙනාට රුපියල් ලක්ෂ 50ක පමණ මුදලක් ලබාදී ඇතැයිද එම තොරතුරුවල සඳහන් වේ.
+
+ඒ අනුව අදාළ පුද්ගලයන් දෙදෙනාගේ නම්ගම් ඇතුළු සියලු තොරතුරු ඉන්දීය බුද්ධි අංශ මගින් මෙරට ආරක්ෂක අංශ වෙත ලබාදී තිබේ.
+
+...
+
+[Data](articles/ad8f04b8.json)
+
+---
+
+### කොදෙව්වෝ ලකුණු 189ට දැවී යයි
+
+*2024-10-23 19:29:27* · [`adalk`](https://www.ada.lk/breaking_news/කොදෙව්වෝ-ලකුණු-189ට-දැවී-යයි/11-412646) · `si`
+
+සංචාරක කොදෙව් කණ්ඩායම හා ශ්‍රී ලංකා කණ්ඩායම අතර පල්ලෙකැලේ පිටියේ පැවැත්වෙන දෙවැනි එක්දින තරගයේදී මුලින්ම පන්දුවට පහරදුන් කොදෙව් කණ්ඩායම ලකුණු 189කට ශ්‍රී ලංකා පන්දු යවන්නෝ සමත්වූහ.
+
+කොදෙව් කණ්ඩායමේ මුල් කඩුලු 8 ලකුණු 58ක් තුළ දැවී ගියත් 9 වැනි කඩුල්ල වෙනුවෙන් වාර්තා ගත ලකුණු 119ක සබඳතාවක් පවත්වමින් කොදෙව් ලකුනු පුවරුව ඉහළ දැමීමට රදර්ෆෝඩ් (80) හා මොටියේ (50*) සමත්වූහ.
+
+මෙම සබඳතාව කොදෙව් එක්දින ක්‍රිකට් ඉතිහාසය තුළ 9 වැනි කඩුල්ල වෙනුවෙන් පිහිටවූ හොඳම සබඳතාවය වෙයි. එසේම ලෝක එක්දින ක්‍රිකට් පිටිය තුළ 9 වැනි කඩුල්ල වෙනුවෙන් පිහිටවූ සිව්වැනි ඉහළම සබඳතාවයද වෙයි.
+
+◼️
+
+[Data](articles/a3061969.json)
+
+---
+
+### A target of 190s
+
+*2024-10-23 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202480) · `si`
+
+West Indies won against Sri Lanka's Irum in cricket match. Rutherford (80) and Miath (50) key scorers. Wannu Hasara bowled 4/40. Second ODI at Pallekele International Cricket Stadium. Heavy rain limited match to 44 overs.
+
+🟩
+
+Surfen Rutherford and Gudkh Shametha's militant Irum received a victorious West Indies for 58 runs.
+
+Rutherford scored 80 runs while Miath scored 50 runs.
+
+They scored 119 runs for the 9th wicket.
+
+Wannu Hasara was taken 4 wickets for 40 runs in their bowling. Mahish insight and Asapha Fernando took 3 wickets each.
+
+The second ODI series will be held at the Pallekele International Cricket Stadium.
+
+Sri Lanka captain Charith won the toss and elected to the West team to bat first.
+
+The rains had decided to limit the match to 44 overs due to the heavy rains.
+
+◼️
+
+[Data](articles/1cda79a4.json)
+
+[Extended Data](ext_articles/1cda79a4.ext.json)
+
+---
 
 ### වංචනිකයන්ට දූෂිතයින්ට දඬුවම්දීම නාටකයක් නෙමෙයි - ජනපති
 
@@ -51,6 +163,28 @@ President Anura Kumara Dissanayake says that it is not a vote on November 14 and
 [Data](articles/4f441c67.json)
 
 [Extended Data](ext_articles/4f441c67.ext.json)
+
+---
+
+### ஹொங்கொங் சிக்சஸ் கிரிக்கெட் இலங்கை குழாத்தில் ஏழு வீரர்கள்
+
+*2024-10-23 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196950) · `ta`
+
+ஹொங்கொங்கில் நடைபெறவுள்ள ஹொங்கொங்  சக்சஸ் என அழைக்கப்படும் அணிக்கு அறுவர் 6 கிரிக்கெட் போட்டியில் இலங்கையும் பங்குபற்றவுள்ளது.
+
+வேகப்பந்து வீச்சு சகலதுறை வீரரான மதுஷன்க, 4 சர்வதேச ஒருநாள் கிரிக்கெட் போட்டிகளிலும் 3 சர்வதேச ரி20 கிரிக்கெட் போட்டிகளிலும் விளையாடியுள்ளார்.
+
+ஐக்கிய அரபு இராச்சியத்தில் 2021இல் நடைபெற்ற ஐசிசி ஆடவர் ரி20 உலகக் கிண்ணப் போட்டிக்கான இலங்கை குழாத்தில் லஹிரு மதுஷன்க பெயரிடப்பட்டிருந்தார்.
+
+ஆனால் அவரது துரதிர்ஷடம் அதற்கு முன்னர் நடைபெற்ற தென் ஆபிரிக்காவுக்கு எதிரான ரி20 தொடரின்போது அவரது கழுத்தில் காயம் ஏற்பட்டதால் அவருக்கு உலகக் கிண்ணத்தில் விளையாட முடியாமல் போனது.
+
+32 வயதான மதுசன்க உட்பட அணியில் பெயரிடப்பட்டுள்ள அறுவர் சகலதுறை வீரர்கள் ஆவர். சந்துன் வீரக்கொடி விக்கெட் காப்பாளராக விளையாடுவார். அணியில் பெயரிடப்பட்டுள்ள 7 வீரர்களில் ஐந்து பேர் இலங்கை அணிக்காக சர்வதேச ஒரு நாள் அல்லது சர்வதேச ரி20 போட்டிகளில் விளையாடியவர்களாவர்.
+
+தரிந்து ரத்நாயக்க, தனுக்க தாபரே ஆகிய இருவரே தேசிய அணியை பிரதிநிதித்துவப்படுத்தாத இரண்டு வீரர்களாவர்.
+
+...
+
+[Data](articles/3c45b649.json)
 
 ---
 
@@ -80,9 +214,57 @@ Deputy Solicitor General Rural de Silva, who appeared on behalf of the Electoral
 
 ---
 
+### The information about an attack was known for three weeks
+
+*2024-10-23 18:36:17* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රහාරයක්-ගැන-තොරතුරු-සති-තුනක-සිට-දැනගෙන-සිටියා/11-412641) · `si`
+
+Sri Lanka terror threat: Attack planned against locals and national security. Intelligence agencies prepared for foreign targets. Special Task Force deployed. Security measures implemented. Public warned of potential threats.
+
+🟩
+
+Acting IGP Priyantha Weerasuriya, a special media briefing today (23), was concluded at the SSP's Office Auditorium in the evening.
+
+Accordingly, the attacks have been planned to attack the local people, not the local people but also to the national security in Sri Lanka.
+
+"At October 7, on October 7, when the war was started in the Middle East 7, as the end of October 2024, was in terms of terrorists or various parties on terrorist activities. As the intelligence agencies were duties, as the intelligence agencies were duties as Sri Lanka had any doubts, we were ready to launch an attack targeting the foreign nationals.
+
+We have discussed and advised the incident in terms of the president of the Defense Council.. The Special Task Force protected security at a special security plan in a special security plan for some foreigners.
+
+...
+
+[Data](articles/9be46c44.json)
+
+[Extended Data](ext_articles/9be46c44.ext.json)
+
+---
+
+### வடக்கு மாகாண  ஆளுநருக்கும்   அமெரிக்க தூதுவருக்குமிடையில் சந்திப்பு!
+
+*2024-10-23 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196942) · `ta`
+
+இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் (Julie Chung) வடக்கு மாகாண  ஆளுநர்  நாகலிங்கம் வேதநாயகன் அவர்களை சந்தித்தார் .
+
+வடக்கு மாகாண  ஆளுநர் நாகலிங்கம் வேதநாயகன் அவர்களுக்கும், இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் (Julie Chung) அவர்களுக்கும் இடையில் இன்று  புதன்கிழமை  (23) வடக்கு மாகாண ஆளுநர் அலுவலகத்தில் இச்சந்திப்பு நடைபெற்றது.
+
+வடக்கு மாகாண அபிவிருத்தி செயற்பாடுகள், கல்வி, சுற்றுலாத்துறை, காணி விடுவிப்பு, போக்குவரத்து வசதிகள், தொழில் வாய்ப்புகள், முதலீட்டு நடவடிக்கைகள் உள்ளிட்ட பல விடயங்கள் சம்பந்தமாக கலந்துரையாடப்பட்டது.
+
+அமெரிக்க தூதுவர், காணி விடுவிப்பு தொடர்பாக விபரங்களை  ஆளுநரிடம் கேட்டறிந்து கொண்டார். தற்போது  ஜனாதிபதியின் வழிகாட்டுதல்களுக்கு அமைய காணி விடுவிப்பு நடவடிக்கைகள் முன்னெடுக்கப்பட உள்ளன என ஆளுநர் தெரிவித்தார்.
+
+ஆளுநர் அவர்கள் வடக்கு மாகாணத்தில் காணி சம்பந்தப்பட்ட பிணக்குகள் சட்டவிரோத காணி ஆக்கிரமிப்புகள் பாரியளவில் காணப்படுகின்றன எனவும் அவற்றை தீர்ப்பதற்கு தற்போது உள்ள அரசாங்கத்துடன் கலந்தாலோசித்து சாதகமான நடவடிக்கை மேற்கொள்ளப்படும் எனவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/90407e77.json)
+
+---
+
 ### ලංකාවේ සිටින ඊශ්‍රායෙල සංචාරකයන් එරටින් විශේෂ දැනුම් දීමක්
 
 *2024-10-23 18:28:12* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සිටින-ඊශ්‍රායෙල-සංචාරකයන්-එරටින්-විශේෂ-දැනුම්-දීමක්/11-412640) · `si`
+
+Sri Lanka: Israeli tourists warned due to terror threat. Israel National Security Council advises immediate evacuation from southern region. Threats unspecified but general warning issued for other areas.
+
+🟩
 
 ත්‍රස්තවාදී ප්‍රහාරයක් එල්ල වීමේ අවධානම හේතුවනේ හේතුවෙන් දැනට ශ්‍රී ලංකාවේ දකුණු කළාපයේ සංචාරවල නිරතවන ඊශ්‍රායෙල ජාතිකයන්ට එම  ප්‍රදේශවලින් වහාම ඉවත් වන ලෙස ඊශ්‍රායල ජාතික ආරක්ෂක කවුන්සිලය බදාදා ඊශ්‍රායල ජාතිකයන්ගෙන් ඉල්ලා සිටියේය.
 
@@ -2231,201 +2413,5 @@ She further stressed that while Sri Lanka’s economic recovery is underway, add
 [Data](articles/ae1d5d64.json)
 
 [Extended Data](ext_articles/ae1d5d64.ext.json)
-
----
-
-### Risk of attack on Arugam Tour Zone - The US embassy
-
-*2024-10-23 11:27:38* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්බේ-සංචාරක-කලාපයට-ප්‍රහාරයක්-එල්ල-වීමේ-අවධානමක්----අමෙරිකානු-තානාපති-කාර්යාලය-අනතුරු-අගවයි/11-412625) · `si`
-
-US embassy warns of potential attack on Arugam Tour Zone. Officials advised to take precautions.
-
-🟩
-
-The US embassy has warned the officials of the country and the American Embassy by the Embassy of the United States.
-
-The warning has been committed to claiming that he had a risk of an attack targeting the Arugam Tour Zone.
-
-◼️
-
-[Data](articles/1dc17a98.json)
-
-[Extended Data](ext_articles/1dc17a98.ext.json)
-
----
-
-### An inspector arrested five students abused at Kalawana school
-
-*2024-10-23 11:26:13* · [`adalk`](https://www.ada.lk/breaking_news/කලවාන-පාසලක-සිසුන්-පහක්-අපයෝජනය-කළ-චීවරධාරියෙක්-අල්ලයි/11-412624) · `si`
-
-Inspector arrests monk over abuse claims at Kalawana school. Five students allegedly abused, hospitalized. Investigation ongoing.
-
-🟩
-
-According to the Kalawana Police said that a Buddhist monastery was arrested in a popular school in Kalawana.
-
-The monk said that the monk was arrested following a complaint lodged by the school teachers and parents by the abused children following a complaint lodged by the Kalawana Police.
-
-The temple is located near the school and has received complaints that five children named school, police said that five children have been abused. Children have been admitted to the Kalawana Base Hospital for medical examination.
-
-The OIC Chief Inspector Wasantha Herath is conducting further investigations.
-
-◼️
-
-[Data](articles/11610215.json)
-
-[Extended Data](ext_articles/11610215.ext.json)
-
----
-
-### The reason why the government is not accepting the Alvis report is childish - Kammanpila
-
-*2024-10-23 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/196898) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Kammanpila criticizes government over Alvis report handling. Questions judge's tenure and Ravi Seneviratne's actions. Accuses government of protecting specific individuals. Demands transparency.
-
-🟩
-
-Udaya Kammanpila said that the government's referring to the Alvis report is a child.
-
-Can Judge (Retired), who held the post of chairman of the committee, be canceled from 2006 to 2023?Udaya Kammanpila has also questioned.
-
-At the same time, is it true that Ravi Seneviratne covered the confidential information about the bombing for 12 days?Lying?Udaya Kammanpila also urged the government to announce the people.
-
-The Alvis report mentioned the names of 17 people, including Niladha, Poojitha and Patriot. Udaya Kammanpila has also questioned why the government should try to protect only Ravi Seneviratne and Sani Abeysekara.
-
-◼️
-
-[Data](articles/b1be2668.json)
-
-[Extended Data](ext_articles/b1be2668.ext.json)
-
----
-
-### The price of gold touched the peak in Sri Lanka
-
-*2024-10-23 11:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-உச்சத்தை-தொட்டது-தங்கத்தின்-விலை/175-345912) · `ta`
-
-Gold prices surge in Sri Lanka: 22-carat gold reaches 201,600 rupees per ounce, 804,893 rupees per ounce overall increase over recent days.
-
-🟩
-
-Over the past few days, the price of gold in the country has been increasing day by day.
-
-Accordingly, the price of 22 carats of gold has been raised today (23) at 201,600 rupees.
-
-According to today's situation, the price of an ounce of gold is 804,893 rupees.
-
-◼️
-
-[Data](articles/ff1d3715.json)
-
-[Extended Data](ext_articles/ff1d3715.ext.json)
-
----
-
-### General Election 2024: The Supreme Court rejects Ashe's petition
-
-*2024-10-23 11:12:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0rgwq1dje2o) · `si`
-
-Supreme Court rejects Ashe's petition for Colombo district nomination. Three-judge bench rules against candidate's claim. Election Commission cites legal grounds for rejection. Decision impacts future presidential election voter numbers.
-
-🟩
-
-The Supreme Court was rejected by the Supreme Court, Ashen Senaratne, who was appointed as the District Referral Order to reject its nomination papers for the Colombo district at the next general election.
-
-After considering the petition regarding the petition, the order was issued by a three-member judge with a three-member judiciary and Priyantha Fernando three-member papers.
-
-Attorney-at-Law Advanced Legal Devendra, who appeared for the petitioner, stated that his client had been submitted to the selection officer in accordance with the election law.
-
-Is there suitable age to handle the control of a country? Will there be eight lakhs of voters in the future presidential election?
-
-Attorney-at-law pointed out that the decision taken by the Selection Officer is contrary to the law to reject the nomination paper at the time of handing it.
-
-...
-
-[Data](articles/d18c1686.json)
-
-[Extended Data](ext_articles/d18c1686.ext.json)
-
----
-
-### Arugamization protection is thus
-
-*2024-10-23 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202456) · `si`
-
-Arugamay security strengthened: 500 police/STF deployed; Israeli-built facility; roadblocks implemented due to perceived risks.
-
-🟩
-
-Steps have been taken to strengthen the security of Arugamay, police said.
-
-It is reported that about 500 police officers and STF officers have been sent to strengthen the security zone of the Arugam Tour Zone.
-
-"There is a building established by Israeli nationals in Aruugambay. A place like a hall. Israeli nationals often have a foreign attraction of their attraction. Pottuvil and Arroumbay. Especially because of surfin. Israelians like that area. That's why they installed a place in it. In recent days, the Israeli nationals could be some kind of risk. Therefore, the SDIG was taken in charge of the area. Protecting the area using roadblocks. Vehicles, individuals were tested from time to time. "
-
-◼️
-
-[Data](articles/7fa0a95d.json)
-
-[Extended Data](ext_articles/7fa0a95d.ext.json)
-
----
-
-### "Ranil's group is doubtful"
-
-*2024-10-23 11:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-குழு-சந்தேகத்திற்குரியது/175-345911) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Cardinal Ranjith questions motives behind committee investigating 2019 Easter bombings. Suspects political scapegoating of officials. Criticizes involvement of former minister Udaya Kammanpila.
-
-🟩
-
-Archbishop Cardinal Malcolm Ranjith has questioned what is behind the appointment of a committee headed by retired Justice ANJ Alwis, headed by retired Justice ANJ Alwis, to investigate the actions taken by the intelligence officials before the 2019 Easter Sunday bombing.
-
-The committee was appointed to investigate the activities of the previous intelligence service (SIS), the National Intelligence Agency (CNI) and other relevant authorities on the attack on the attack on April 21, 2019.
-
-Cardinal Ranjith said at a media briefing that Wickremesinghe's appointment of a new committee was "suspicious".
-
-We suspect that the former president has appointed a committee headed by Mrs. Alwis to make officials Shanani Abeysekera and Ravi Seneviratne politically scapegoat.
-
-Moreover, former minister Udaya Kammanpila seems to have joined the contract to divert an investigation into the Sunday bombings.
-
-...
-
-[Data](articles/71830583.json)
-
-[Extended Data](ext_articles/71830583.ext.json)
-
----
-
-### Sri Lanka boosting tourist security amid Middle East war, police hotline 1997
-
-*2024-10-23 11:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-boosting-tourist-security-amid-middle-east-war-police-hotline-1997-184510/) · `en`
-
-ECONOMYNEXT – Sri Lanka is beefing up tourist security amid wars Middle East and Europe, police said as the US embassy warned of credible information on attacks in the Arugam Bay, an area where there has been a surge in Israeli tourists.
-
-The US Embassy said Wednesday that  received “credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.”
-
-Tourist industry sources say small areas have sprung with high concentration of Israeli visitors and establishments catering to them.
-
-RELATED US warns citizens off Sri Lanka’s Arugam Bay citing possible attack
-
-Israel has attacked the Gaza strip killing thousands of women and children drawing charges of genocide as it sought to eliminate the Hamas group that runs the area. A new front has also been opened in Lebanon, targeting the Hezbollah group, leading to more civilian deaths.
-
-Over the past year or more Sri Lanka has also seen an influx of Russian and Ukrainian tourists.
-
-...
-
-[Data](articles/a44bfdf2.json)
-
-[Extended Data](ext_articles/a44bfdf2.ext.json)
 
 ---

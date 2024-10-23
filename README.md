@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 11:23:55**
+As of **2024-10-23 11:40:11**
 
 ## Newspaper Stats
 
-*Scraped **50,871** Articles*
+*Scraped **50,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 3,108
 dailyftlk | 3,474
 adalk | 4,725
 dailymirrorlk | 4,733
-adaderanalk | 6,030
-tamilmirrorlk | 6,997
+adaderanalk | 6,031
+tamilmirrorlk | 6,999
 virakesarilk | 8,152
-adaderanasinhalalk | 8,826
+adaderanasinhalalk | 8,827
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,871 (100.0%) of 50,871 articles have been extended.
+50,875 (100.0%) of 50,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### The price of gold touched the peak in Sri Lanka
+
+*2024-10-23 11:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-உச்சத்தை-தொட்டது-தங்கத்தின்-விலை/175-345912) · `ta`
+
+Gold prices surge in Sri Lanka: 22-carat gold reaches 201,600 rupees per ounce, 804,893 rupees per ounce overall increase over recent days.
+
+🟩
+
+Over the past few days, the price of gold in the country has been increasing day by day.
+
+Accordingly, the price of 22 carats of gold has been raised today (23) at 201,600 rupees.
+
+According to today's situation, the price of an ounce of gold is 804,893 rupees.
+
+◼️
+
+[Data](articles/ff1d3715.json)
+
+[Extended Data](ext_articles/ff1d3715.ext.json)
+
+---
+
+### Arugamization protection is thus
+
+*2024-10-23 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202456) · `si`
+
+Arugamay security strengthened: 500 police/STF deployed; Israeli-built facility; roadblocks implemented due to perceived risks.
+
+🟩
+
+Steps have been taken to strengthen the security of Arugamay, police said.
+
+It is reported that about 500 police officers and STF officers have been sent to strengthen the security zone of the Arugam Tour Zone.
+
+"There is a building established by Israeli nationals in Aruugambay. A place like a hall. Israeli nationals often have a foreign attraction of their attraction. Pottuvil and Arroumbay. Especially because of surfin. Israelians like that area. That's why they installed a place in it. In recent days, the Israeli nationals could be some kind of risk. Therefore, the SDIG was taken in charge of the area. Protecting the area using roadblocks. Vehicles, individuals were tested from time to time. "
+
+◼️
+
+[Data](articles/7fa0a95d.json)
+
+[Extended Data](ext_articles/7fa0a95d.ext.json)
+
+---
+
+### "Ranil's group is doubtful"
+
+*2024-10-23 11:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-குழு-சந்தேகத்திற்குரியது/175-345911) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Cardinal Ranjith questions motives behind committee investigating 2019 Easter bombings. Suspects political scapegoating of officials. Criticizes involvement of former minister Udaya Kammanpila.
+
+🟩
+
+Archbishop Cardinal Malcolm Ranjith has questioned what is behind the appointment of a committee headed by retired Justice ANJ Alwis, headed by retired Justice ANJ Alwis, to investigate the actions taken by the intelligence officials before the 2019 Easter Sunday bombing.
+
+The committee was appointed to investigate the activities of the previous intelligence service (SIS), the National Intelligence Agency (CNI) and other relevant authorities on the attack on the attack on April 21, 2019.
+
+Cardinal Ranjith said at a media briefing that Wickremesinghe's appointment of a new committee was "suspicious".
+
+We suspect that the former president has appointed a committee headed by Mrs. Alwis to make officials Shanani Abeysekera and Ravi Seneviratne politically scapegoat.
+
+Moreover, former minister Udaya Kammanpila seems to have joined the contract to divert an investigation into the Sunday bombings.
+
+...
+
+[Data](articles/71830583.json)
+
+[Extended Data](ext_articles/71830583.ext.json)
+
+---
 
 ### Special security for tourists
 
@@ -128,6 +202,20 @@ Former Minister Johnston Fernando announced in the Court of Appeal yesterday tha
 
 ---
 
+### Colombo HC issues arrest warrant on Johnston Fernando
+
+*2024-10-23 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102872/colombo-hc-issues-arrest-warrant-on-johnston-fernando) · `en`
+
+The Colombo High Court today issued an arrest warrant on former Minister Johnston Fernando, for failing to appear before court over a case against him for allegedly involving Sathosa employees in election work from 2010 to 2014.
+
+◼️
+
+[Data](articles/12cbf712.json)
+
+[Extended Data](ext_articles/12cbf712.ext.json)
+
+---
+
 ### The university student dies from the hostel
 
 *2024-10-23 10:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடுதியில்-இருந்து-விழுந்த-பல்கலைக்கழக-மாணவன்-மரணம்/175-345905) · `ta`
@@ -220,9 +308,11 @@ The police and intelligence divisions, under the direction of the Ministry of Pu
 
 Issuing a special statement, the police department urged the public and tourists to report any emergencies or relevant information by contacting the emergency hotline ‘1997’.
 
-Security measures to safeguard tourists and citizens from potential threats - Sri Lanka Police by Adaderana Online on Scribd
+The Police Media Division stated that it has been observed from the information received thus far that a large number of foreign tourists are expected to visit Sri Lanka in the upcoming tourist season.
 
-◼️
+This presents a significant opportunity to strengthen the economy of Sri Lanka and enhance the trust and respect that foreign nationals have in the country, the statement said.
+
+...
 
 [Data](articles/4db42351.json)
 
@@ -2215,103 +2305,5 @@ On September 27, the petitioner said that the petitioner Mahesh Hindu was arrest
 [Data](articles/bafd2cde.json)
 
 [Extended Data](ext_articles/bafd2cde.ext.json)
-
----
-
-### Troops advance to governors
-
-*2024-10-22 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202435) · `si`
-
-President Anura Kumara Dissanayake instructs governors to reform Provincial Council system, emphasizing quality of life improvements during transition period.
-
-🟩
-
-President Anura Kumara Dissanayake has informed the Provincial Governors to formulate and submit a proposal to regulate the Provincial Council mechanism.
-
-The President made this observation at a meeting with the governors of the Presidential Secretariat this morning.
-
-The Presidential Media Union stated that the Presidential Media Unit stated that the vacancies in health and educational services under the Provincial Council have also decided to provide effective solutions.
-
-The President has also said to be able to provide the maximum service of the provincial councils to facilitate the quality of life of the people during the existing transition period.
-
-The President has instructed the provincial governors to carry out all the interventions of the provincial councils to facilitate the lives of the people.
-
-He also emphasized that the president recalls the mandate of the mandate to start a new political culture.
-
-...
-
-[Data](articles/8f69ea85.json)
-
-[Extended Data](ext_articles/8f69ea85.ext.json)
-
----
-
-### No more passport shortage - government
-
-*2024-10-22 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/196867) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Government addresses passport shortage: 42,000 available today, 100,000 in November. Previous delays blamed on supplier. Steps taken to rectify issues. No immediate rush needed. Measures to prevent future shortages.
-
-🟩
-
-Gradually a solution to the passport issue. Cabinet spokesman Vijitha Herath said that 42,000 passports will be available today and one lakh passports will be received in November.
-
-He further stated that when the Cabinet decisions were held on Tuesday (22), the Cabinet decisions were held.
-
-Passport issue is established by the last government. The company, which was supplied by that government, did not distribute passports in a timely manner. However, we have taken steps to address that problem.
-
-We are currently working to correct the mistake made by the last government. 7,500 passports were available last Saturday. 42,000 passports will be available on Wednesday. So people don't need to get riotous. There is currently no shortage of Kadavasi.
-
-...
-
-[Data](articles/220ce4ba.json)
-
-[Extended Data](ext_articles/220ce4ba.ext.json)
-
----
-
-### 28 injured in head-on collision between two buses in Avissawella
-
-*2024-10-22 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102857/28-injured-in-head-on-collision-between-two-buses-in-avissawella) · `en`
-
-Two private passenger transported buses were involved in a head–on collision this afternoon (22) near the Dewrum Pitiya bend in the Avissawella police division, injuring around 28 people who were subsequently hospitalized.
-
-The injured persons have been admitted to the Avissawella Base Hospital, while it is reported that three of them are in critical condition.
-
-The collision had involved a private bus traveling from Colombo to Embilipitiya and another private bus plying from Ratnapura to Colombo.
-
-◼️
-
-[Data](articles/448e076e.json)
-
-[Extended Data](ext_articles/448e076e.ext.json)
-
----
-
-### Problem in rescuing Sri Lankans joining the Russian army - government
-
-*2024-10-22 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196866) · `ta`
-
-Sri Lankan government seeks rescue of citizens joining Russian army unofficially. Ministry of Foreign Affairs engaged in diplomatic efforts. Rescue operations challenging due to illegal enlistment status.
-
-🟩
-
-As a Ministry of Foreign Affairs, we are paying attention to Sri Lankans joining the Russian Army. The government has said that they have been in a diplomatic approach to the issue as they have joined the unofficial army.
-
-Cabinet spokesman Vijitha Herath made this statement when the press conference announced on Tuesday (22).
-
-Former Army soldiers joined the Russian Army for employment opportunities. Most of the people who are thus have disappeared. In this regard, the Russian Ambassador in Sri Lanka has been in agreement.
-
-Accordingly, it has been requested that such people be re -incorporated into the Russian army and to provide information on the missing persons.. It is not easy to find out those who disappeared during the war. Today, that fierce war is taking place.
-
-...
-
-[Data](articles/86a485d0.json)
-
-[Extended Data](ext_articles/86a485d0.ext.json)
 
 ---

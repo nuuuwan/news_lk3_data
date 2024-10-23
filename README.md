@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 09:40:19**
+As of **2024-10-23 09:59:02**
 
 ## Newspaper Stats
 
-*Scraped **50,851** Articles*
+*Scraped **50,852** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,108
 dailyftlk | 3,474
 adalk | 4,722
 dailymirrorlk | 4,733
-adaderanalk | 6,026
+adaderanalk | 6,027
 tamilmirrorlk | 6,991
 virakesarilk | 8,148
 adaderanasinhalalk | 8,823
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,823
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,846 (100.0%) of 50,851 articles have been extended.
+50,851 (100.0%) of 50,852 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Former minister Johnston Fernando arrives at CID
+
+*2024-10-23 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102868/former-minister-johnston-fernando-arrives-at-cid) · `en`
+
+Former Minister Johnston Fernando has arrived at the Criminal Investigation Department (CID) to provide a statement regarding the unregistered luxury car allegedly belonging to him, which was found parked at a star-class hotel in Colombo.
+
+◼️
+
+[Data](articles/07c7f3bf.json)
+
+[Extended Data](ext_articles/07c7f3bf.ext.json)
+
+---
 
 ### Postal workers’ leave cancelled until General Election ends
 
@@ -2333,33 +2347,5 @@ Foreign buying was seen on JKH, Commercial Bank voting (down at 108.25), Sampath
 [Data](articles/c342702b.json)
 
 [Extended Data](ext_articles/c342702b.ext.json)
-
----
-
-### Only 50 guns are re -handled
-
-*2024-10-22 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/196845) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"About 50 guns handed over to public; deadline Nov 7; failure may lead to legal action."
-
-🟩
-
-According to sources in the Ministry of Defense, about 50 guns have been handed over to the public in the past.
-
-The government recently announced that the guns and ammunition provided to the public will be handed over before November 7.
-
-The government's commercial ammunition in Welisara said the guns and ammunition should be handed over to the repository.
-
-The Ministry of Defense has announced that legal action will be taken if the guns and ammunition is not handed over before the appropriate date.
-
-◼️
-
-[Data](articles/21201841.json)
-
-[Extended Data](ext_articles/21201841.ext.json)
 
 ---

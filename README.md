@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 15:23:49**
+As of **2024-10-23 15:39:48**
 
 ## Newspaper Stats
 
-*Scraped **50,929** Articles*
+*Scraped **50,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,114
 dailyftlk | 3,474
 dailymirrorlk | 4,733
 adalk | 4,734
-adaderanalk | 6,039
-tamilmirrorlk | 7,009
+adaderanalk | 6,040
+tamilmirrorlk | 7,011
 virakesarilk | 8,162
 adaderanasinhalalk | 8,837
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,837
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,929 (100.0%) of 50,929 articles have been extended.
+50,932 (100.0%) of 50,932 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### UN keen to assist Sri Lanka in process of empowering women
+
+*2024-10-23 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102879/un-keen-to-assist-sri-lanka-in-process-of-empowering-women-) · `en`
+
+The United Nations Resident Coordinator in Sri Lanka Mr. Marc-André Franchehas paid a courtesy call on Prime Minister Dr. Harini Amarasuriya at her office.
+
+Mr. Franche extended his best wishes to the Prime Minister and reaffirmed the UN’s commitment to assist Sri Lanka in its development Initiatives, according to the Prime Minister’s Media Division.
+
+UN offered its support to Sri Lanka’s poverty reduction agenda and digitalisation programme .
+
+The meeting held yesterday (22) also highlighted the issue of woman empowerment with the UN saying it is keen to assist in the process of empowering women in Sri Lanka, it added.
+
+Also in attendance were the Secretary to the Prime Minister, Pradeep Saputhanthri, Additional Secretary to the Prime Minister, Mahinda Gunarathna, Director General of the United Nations and Human Rights Division, Dayani Mendis, at the Ministry of Foreign Affairs, along with Patrick Mc Carthy and Nethmini Medawala from the Office of the UN Resident Coordinator.
+
+◼️
+
+[Data](articles/019413ea.json)
+
+[Extended Data](ext_articles/019413ea.ext.json)
+
+---
 
 ### Rain interrupted in the second match
 
@@ -77,6 +99,56 @@ The Colombo High Court today issued warrants to arrest Johnston Fernando.
 [Data](articles/8a10cb5e.json)
 
 [Extended Data](ext_articles/8a10cb5e.ext.json)
+
+---
+
+### The Model of Minery is prohibited by the Model of Grapp
+
+*2024-10-23 14:46:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மினிஸ்ட்ரி-ஒப்-கிராப்-இன்-மாதிரிக்கு-தடை/175-345925) · `ta`
+
+Sri Lanka Business High Court prohibits restaurant from using "Crab" trademark due to trademark infringement case filed by King Grab Pvt Ltd against Ministry of Crip restaurant owned by former cricket stars Mahela Jayawardena and Kumara Sangakkara.
+
+🟩
+
+Business High Court Judge KP Bernando has issued two prohibitions for a popular restaurant to use the "Crab" trademark of the "Ministry of Crip" restaurant, owned by former leaders of the Sri Lankan cricket team, Mahela Jayawardena and Kumara Sangakkara.
+
+The magistrate, considering the case filed by King Grab (Pvt) Limited by the King Grab (Pvt) Limited, issued the order.
+
+The Colombo 03, which is located in Colombo 03, is the chief chef of the private company and the King Graf Restaurant, which was named as defendants.
+
+Attorney Manoj Bandara appeared on the instructions of Sudath Perera Associat, on behalf of the petitioner.
+
+The petitioner's lawyer noted that the main cook, who had previously worked in the petitioner's restaurant chain, would leave the company and serve customers using its color and verses of the company using the reputation and reputation of the company.
+
+The plaintiff has expanded its restaurant network in many countries around the world.
+
+...
+
+[Data](articles/5e4de1c2.json)
+
+[Extended Data](ext_articles/5e4de1c2.ext.json)
+
+---
+
+### Johnston Fernando arrested
+
+*2024-10-23 14:40:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோன்ஸ்டன்-பெர்னாண்டோ-கைது/175-345924) · `ta`
+
+Johnston Fernando arrested after confessing about an unregistered luxury car found at Star Hotel Colombo. His arrest was requested in a previous court petition.
+
+🟩
+
+He had come to the Criminal Investigation Division this morning (23) to make a confession on an unrucated luxury car that belonged to him, which had been parked at the Star Hotel in Colombo.
+
+Earlier, a petition filed by Fernando demanding that he was arrested in connection with the incident was taken up yesterday (22).
+
+During the hearing, his lawyers announced in court that Fernando was ready to appear before the Criminal Investigation Division today.
+
+◼️
+
+[Data](articles/d6eba582.json)
+
+[Extended Data](ext_articles/d6eba582.ext.json)
 
 ---
 
@@ -2295,69 +2367,5 @@ At the outset it must be noted that the tax payment deadlines on a self-assessme
 [Data](articles/e5d32b65.json)
 
 [Extended Data](ext_articles/e5d32b65.ext.json)
-
----
-
-### Showers over 75mm
-
-*2024-10-23 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202444) · `si`
-
-Heavy rainfall warning: Showers >75mm expected in Western, Sabaragamuwa, Southern, North Western & Northern provinces. Thunderstorms possible in evening/night across Sri Lanka. Public advised to prepare for strong winds & lightning.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, Southern, North Western and Northern provinces.
-
-Department of Meteorologicals to some places in the Western, Sabaragamuwa, South and Northern provinces. Heavy rains can be ranked over 75.
-
-Thundershowers will occur at several places in the evening or night in the rest of the island.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/98b0fa1f.json)
-
-[Extended Data](ext_articles/98b0fa1f.ext.json)
-
----
-
-### Controversial Easter Sunday committee clears Sri Lanka Ex-President
-
-*2024-10-23 06:23:00* · [`economynextcom`](https://economynext.com/controversial-easter-sunday-committee-clears-sri-lanka-ex-president-184473/) · `en`
-
-ECONOMYNEXT – A committee appointed to investigate lapses by criminal investigators and intelligence agencies leading to the Easter Sunday bombings has made a bombshell finding, clearing then-president Maithripala Sirisena of negligence.
-
-The report of the three-member panel, headed by retired High Court judge Aadambaragay Nilanthi Jayaki de Alwis, disagreed with a five-judge panel of the Supreme Court that fined Sirisena 100 million rupees for failing to prevent the bombing on April 21, 2019.
-
-The main reason for the Supreme Court finding Sirisena responsible was the assertion that he had been made aware of a prior intelligence warning of the attack, which killed 280 and wounded 500.
-
-An Indian intelligence agency had provided details of the impending attack.
-
-...
-
-[Data](articles/8eedbb1f.json)
-
-[Extended Data](ext_articles/8eedbb1f.ext.json)
-
----
-
-### ATIRE unveils world’s first certified carbon-neutral industrial tire range
-
-*2024-10-23 06:20:25* · [`dailyftlk`](https://www.ft.lk/business/ATIRE-unveils-world-s-first-certified-carbon-neutral-industrial-tire-range/34-768302) · `en`
-
-From left:  Control Union Inspections Ltd., Scheme Manager- Sustainability Assessment & Verification Gayan Ranasinghe,  Managing Director Roshan Ranawake, ATIRE Ltd., Director/CEO Saveen Anjana Abeyratne and Director Sonali  Abeyratne
-
-ATIRE, a fast-emerging leader in industrial tires, has announced a global first: the launch of its certified carbon-neutral solid tire range.
-
-This groundbreaking achievement positions ATIRE as the world’s first company to offer carbon-neutral industrial tires, reflecting a significant leap forward in sustainable manufacturing.
-
-The certification, issued by Control Union under rigorous ISO standards, applies to ATIRE’s premium range of solid tires, including products for forklifts, telehandlers, skid-steer loaders, scissor lifts, and port applications. These tires are not just durable and high-performing; they are also carbon-neutral, covering emissions from raw materials, manufacturing processes, and the product’s journey up to the factory gate.
-
-...
-
-[Data](articles/39e62360.json)
-
-[Extended Data](ext_articles/39e62360.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 18:20:38**
+As of **2024-10-23 18:35:44**
 
 ## Newspaper Stats
 
-*Scraped **50,969** Articles*
+*Scraped **50,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ islandlk | 3,030
 economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
-adalk | 4,738
+adalk | 4,740
 adaderanalk | 6,048
-tamilmirrorlk | 7,018
-virakesarilk | 8,164
+tamilmirrorlk | 7,020
+virakesarilk | 8,169
 adaderanasinhalalk | 8,848
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,969 (100.0%) of 50,969 articles have been extended.
+50,977 (100.0%) of 50,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Explanation for Johnstan
+
+*2024-10-23 17:58:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோன்ஸ்டனுக்கு-விளக்கமறியல்/175-345935) · `ta`
+
+Former Minister Johnston Fernando remanded until 30th. Magistrate orders CID to investigate incident progress announcement on 30th.
+
+🟩
+
+Fort Magistrate Mrs. Tanuja Lakmali has ordered former minister Johnston Fernando to be remanded until the 30th of this month.
+
+Considering the arguments made by the incident, the magistrate put the accident suspect in the interrogation and ordered the Criminal Investigation Department to announce the progress of the incident on the 30th.
+
+◼️
+
+[Data](articles/c4459503.json)
+
+[Extended Data](ext_articles/c4459503.ext.json)
+
+---
 
 ### Here is complete information about Arugam's incident
 
@@ -78,6 +98,28 @@ He made these comments while addressing a special press conference at the Polonn
 
 ---
 
+### Breast Cancer Awareness Walker in Mannar - Nanatan
+
+*2024-10-23 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196938) · `ta`
+
+Breast Cancer Awareness Walk in Mannar: Event summary (200 chars)
+
+🟩
+
+Breast Cancer Awareness Walking in the Mannar Nanatan Health Officer Division was held on Wednesday (23).
+
+The awareness walk was launched at Murugan Road at 9.30 am today, led by Nanatan Health Medical Officer, led by Nanattan Health Medical Officer.
+
+The event was attended by Mannar Deputy Health Medical Officer Dr. Osman Deni, Nanattan Madhu Health Officers and Staff, Nanattan Public Health Officers, Nanatan Pradeshiya Sabha and Divisional Secretariat Officers and many others.
+
+◼️
+
+[Data](articles/3507bf3b.json)
+
+[Extended Data](ext_articles/3507bf3b.ext.json)
+
+---
+
 ### Order to accept the denied nomination
 
 *2024-10-23 17:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மறுக்கப்பட்ட-வேட்புமனுவை-ஏற்குமாறு-உத்தரவு/175-345934) · `ta`
@@ -103,6 +145,34 @@ Considering the facts, the Supreme Court ruled that the decision taken to reject
 [Data](articles/1b6eacd6.json)
 
 [Extended Data](ext_articles/1b6eacd6.ext.json)
+
+---
+
+### Order to accept Udayarasa's nomination
+
+*2024-10-23 17:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உதயராசாவின்-வேட்புமனுவை-ஏற்குமாறு-உத்தரவு/175-345934) · `ta`
+
+Sri Lanka High Court orders Elections Commission to accept nomination of Pararajasingham Udayarasa for 2024 general election after rejecting it due to improper submission.
+
+🟩
+
+The Sri Lankan High Court today ordered the Elections Commission to accept the nomination of Pararajasingham Udayarasa of the Democratic National Alliance for the 2024 general election.
+
+Pararajasingham from the Vanni district had earlier been rejected by the Vanni Election Officer claiming that the nomination papers were not formally submitted.
+
+Subsequently, a petition was filed in the High Court by Pararajasingham Udayarasa and both.
+
+The petitioners said that although all the documents were properly submitted, the district election officer, Pararajasingham, rejected Udayarasa's nomination.
+
+The petitioners demanded that the decision of the District Election Officer be contrary to the law and order the decision to not be valid.
+
+Considering the facts, the Supreme Court ruled that Pararajasingham's decision to reject Udayarasa's candidature was contrary to the law.
+
+...
+
+[Data](articles/66fb8e5b.json)
+
+[Extended Data](ext_articles/66fb8e5b.ext.json)
 
 ---
 
@@ -173,6 +243,48 @@ Responding to criticism that the new government will collapse in a few more mont
 [Data](articles/ceebb1c4.json)
 
 [Extended Data](ext_articles/ceebb1c4.ext.json)
+
+---
+
+### Explanation for Johnston Fernando
+
+*2024-10-23 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196939) · `ta`
+
+Former Minister Johnston Fernando detained by court order after arrest by CID. Remanded until 30th for illegal car recovery case.
+
+🟩
+
+The court has ordered the detention of former minister Johnston Fernando, who was arrested by the Criminal Investigation Department.
+
+Johnston Fernando appeared at the Criminal Investigation Department on Wednesday (23) to vote for the recovery of illegal car recovery from a hotel in Colombo.
+
+In this case, the court has ordered Johnston Fernando to be remanded until the 30th.
+
+◼️
+
+[Data](articles/ba479ced.json)
+
+[Extended Data](ext_articles/ba479ced.ext.json)
+
+---
+
+### The order received by Johnston reserves
+
+*2024-10-23 17:17:50* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්-රක්ෂිත-බන්ධනාගාර-ගත-කරමින්-දැන්-ලැබුණු-නියෝගය/11-412638) · `si`
+
+Johnston Fernando, former MP, remanded until 30th. Arrested by CID today.
+
+🟩
+
+Former Parliamentarian Johnston Fernando has been remanded until the 30th of this month.
+
+He was arrested by the Criminal Investigations Department this afternoon.
+
+◼️
+
+[Data](articles/dfb86728.json)
+
+[Extended Data](ext_articles/dfb86728.ext.json)
 
 ---
 
@@ -267,6 +379,56 @@ The President made this observation at a meeting held in Trincomalee today (23).
 [Data](articles/9bb2ea99.json)
 
 [Extended Data](ext_articles/9bb2ea99.ext.json)
+
+---
+
+### Nimalarajan to be killed in the international community to uphold justice
+
+*2024-10-23 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196933) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil journalist Nimalarajan assassinated 2000. No justice despite 24 years. Mullaitivu Journalists Association demands international intervention. New government resumes some cases but lacks clarity on others. State security harasses Tamil-speaking journalists. Media freedom threatened.
+
+🟩
+
+A Wanni Soil Journalist Organization, which has demanded justice for 24 years after the death of a Tamil journalist in the Sri Lankan security forces controlled by the Sri Lankan security forces, has insisted that it is not enough to provide justice.
+
+The Mullaitivu Journalists Association's president has been asked to protect journalists through an investigation into the 24th anniversary of the Nimalarajan Mayilwanam, the silence of the shooting, known as a fearless, simple journalist.
+
+“Justice for Nimalarajan is not just about resolving a case and eliminating the structure that helps to prolong violence and fear. Therefore, we are demanding an immediate action by the international media monitors, investigators and legal experts as an immediate measure to be held accountable for these crimes and ensure security for all journalists. ”
+
+...
+
+[Data](articles/8714f21e.json)
+
+[Extended Data](ext_articles/8714f21e.ext.json)
+
+---
+
+### Water fish stopped at once
+
+*2024-10-23 16:51:26* · [`adalk`](https://www.ada.lk/breaking_news/ජල-පීල්ල-එකවර-නතරඋනා-නාය-යාමක්ද/11-412637) · `si`
+
+Landslide warning issued by DMC near Lunugala Madandagala school. Water levels rising due to heavy rainfall. National Building Research Institute investigating.
+
+🟩
+
+The Disaster Management Center (DMC) says that the water has been informed about the landslide rising of the landslides in the area.
+
+The center was laundering at the last 2023 near the Lunugala Madandagala school.
+
+Disaster Relief Service Officer said that the water attacked with water from a paddy fields below the landslide.
+
+The Disaster Management Center (DMC) says that the National Building Research Institute has educated the officials of the National Building Research Institute to investigate these days, while landslides have emerged.
+
+◼️
+
+[Data](articles/b22a9b65.json)
+
+[Extended Data](ext_articles/b22a9b65.ext.json)
 
 ---
 
@@ -374,6 +536,36 @@ The competition was delayed due to anniversary and one batch charged 45 overs.
 
 ---
 
+### NASA's new task
+
+*2024-10-23 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196922) · `ta`
+
+Here's a 200-character summary:
+
+
+
+NASA's Apollo 7 broadcast marked a historic moment in space communication. Recent advancements in laser communication have improved efficiency. NASA's latest mission, Escapade, aims to explore Mars' magnetic field and solar wind interactions, providing insights into planetary atmosphere formation and loss.
+
+🟩
+
+During the Apollo 7 trip on October 14, 1968, NASA astronauts hosted the first direct television broadcast from space. Following the disaster of the Apollo 1, the first task of the Apollo project is the Apollo 7 task.
+
+This live broadcast, just a major milestone in both space exploration and communication technology. It allowed people around the world to see and ask for astronauts in space for the first time.
+
+This event set the field for future broadcasts from space. The NASA Research Center, which has this long history, has been making many achievements on space to date.
+
+NASA has made amazing improvements with laser communication. For the first time, laser communications were successfully sent to space.
+
+Technology experts promise to revolutionize how this technology is sent between earth and space. It provides significantly faster and efficient transactions than traditional radio waves.
+
+...
+
+[Data](articles/6e24a1cf.json)
+
+[Extended Data](ext_articles/6e24a1cf.ext.json)
+
+---
+
 ### Sri Lanka to benefit
 
 *2024-10-23 16:21:12* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට---පන්දුවාර-සංඛ්‍යාව-අඩු-වෙයි/9-412636) · `si`
@@ -393,6 +585,24 @@ The rain was interrupted by rain before the match and accordingly, one innings h
 [Data](articles/c191d60c.json)
 
 [Extended Data](ext_articles/c191d60c.ext.json)
+
+---
+
+### அறுகம்பை பகுதியில் சோதனை நடவடிக்கை
+
+*2024-10-23 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196923) · `ta`
+
+பொலிஸ், விசேட அதிரடிப்படை, கடற்படை, இராணுவம் மற்றும் அரச புலனாய்வு சேவைகள் பொத்துவில், அருகம்பை விரிகுடாவில் விசேட பாதுகாப்பு நடவடிக்கைகளை மேற்கொள்ளப்பட்டுள்ளன என பொலிஸ் ஊடகப்பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+இஸ்ரேலிய சுற்றுலாப் பயணிகளின் அதிகரிப்பு மற்றும் அறுகம்பை விரிகுடா பகுதிக்கு  வருகை தரும் தனது பிரஜைகளுக்கு  அறிவுறுத்தல்  பயண ஆலோசனையை  கொழும்பில் உள்ள அமெரிக்க தூதரகம் வழங்கியுள்ளதாக இலங்கை பொலிஸ் தெரிவித்துள்ளது.
+
+இன்று ஊடகங்களுக்கு கருத்து தெரிவித்த பொலிஸ் ஊடகப்பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ,
+
+அலைச்சறுக்கு (Surfing) பொழுதுபோக்கு செயற்பாடுகள் ஈடுப்பட இஸ்ரேலிய சுற்றுலாப் பயணிகளுக்கு இலங்கையில் அறுகம்பை மற்றும் பொத்துவில் மிகவும் விருப்பமான விடுமுறை இடமாக அடையாளம் காணப்பட்டுள்ளது.
+
+...
+
+[Data](articles/5892d4ca.json)
 
 ---
 
@@ -2203,195 +2413,5 @@ The US Embassy has also called for an invitation to 119 on suspicious activities
 [Data](articles/e692b3ea.json)
 
 [Extended Data](ext_articles/e692b3ea.ext.json)
-
----
-
-### Johnston Fernando is the presence of CID
-
-*2024-10-23 10:48:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CID-யில்-முன்னிலையானார்-ஜொன்ஸ்டன்-பெர்னாண்டோ/175-345906) · `ta`
-
-Former Minister Johnston Fernando appears at CID to confess regarding controversial BMW case. He was previously evasive but now cooperating with investigation.
-
-🟩
-
-Former Minister Johnston Fernando has appeared at the Criminal Investigation Department this morning to make a confession.
-
-He was accused of violating laws in connection with the controversial BMW car.
-
-It was reported that the Criminal Investigation Department had gone to Kurunegala to arrest him because he was not present.
-
-Former Minister Johnston Fernando announced in the Court of Appeal yesterday that he said that he was ready to appear in the Criminal Investigation Department yesterday.. Remble
-
-◼️
-
-[Data](articles/713a4b3b.json)
-
-[Extended Data](ext_articles/713a4b3b.ext.json)
-
----
-
-### Colombo HC issues arrest warrant on Johnston Fernando
-
-*2024-10-23 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102872/colombo-hc-issues-arrest-warrant-on-johnston-fernando) · `en`
-
-The Colombo High Court today issued an arrest warrant on former Minister Johnston Fernando, for failing to appear before court over a case against him for allegedly involving Sathosa employees in election work from 2010 to 2014.
-
-Three persons including the former minister stand accused of using 153 ‘Lanka Sathosa’ employees for political purposes, while Fernando was serving as the Minister of Co-operatives Internal Trade, resulting in a losses amounting to Rs. 40 million to the government.
-
-When the case was called before Colombo High Court judge Manjula Thilakartne this morning (Oct 23), the arrest warrant was issued as Johnston Fernando failed to appear before the court.
-
-His attorney informed the court that his client was at the Criminal Investigation Department (CID) providing a statement regarding the unregistered luxury car allegedly belonging to him, which was found parked at a star-class hotel in Colombo.
-
-The case is scheduled to be heard again on January 27, 2025.
-
-◼️
-
-[Data](articles/12cbf712.json)
-
-[Extended Data](ext_articles/12cbf712.ext.json)
-
----
-
-### Information on reliable attack: Security measures to ensure tourists and public safety
-
-*2024-10-23 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/196894) · `ta`
-
-Security measures implemented by police to protect tourists and citizens from potential threats. Public advised to contact emergency hotline 1997 for assistance.
-
-🟩
-
-The police department said that security measures have been taken to ensure the safety of tourists and civilians due to information on the reliable attack.
-
-The Police Department said that under the guidance of the Ministry of Public Security, the Police and Intelligence Unit are taking steps to ensure the safety of tourists and the public against any threats.
-
-The Department of Police, which issued a special report, has asked the public and tourists to contact the emergency telephone number of the 1997 telephone number.
-
-◼️
-
-[Data](articles/cfcc1653.json)
-
-[Extended Data](ext_articles/cfcc1653.ext.json)
-
----
-
-### University student falls from hostel
-
-*2024-10-23 10:42:45* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-සිසුවා-නේවාසිකාගාරයෙන්-වැටී-ජීවිතක්ෂයට/11-412623) · `si`
-
-Student dies after falling from 4th floor of University of Kelaniya hostel. Identified as Prince Raju Bandara, 20, from Ridimaliyadda. Injured student admitted to Kiribathgoda hospital but succumbed to injuries. Incident occurred in Kannangara hostel, where student resided in room 416.
-
-🟩
-
-University of Kelaniya University. W. W.W.. A student has died after fourth floor of the Kannangara hostel.
-
-The deceased has been identified as Prince Raju Bandara, a resident of Ridimaliyadda, who built the Faculty of the Department of Commerce and Management Studies of the University of Kelaniya.A young man.
-
-The student who was known in the University of Sanda, Sanda, was residing in the 416-year-old room at the Kannangara hostel.The injured student has been admitted to the Kiribathgoda hospital but he died before he was treated.
-
-◼️
-
-[Data](articles/d6dcc84c.json)
-
-[Extended Data](ext_articles/d6dcc84c.ext.json)
-
----
-
-### The university student dies from the hostel
-
-*2024-10-23 10:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடுதியில்-இருந்து-விழுந்த-பல்கலைக்கழக-மாணவன்-மரணம்/175-345905) · `ta`
-
-University student falls from hostel, death under investigation as possible murder or suicide. Police probing incident at Kelaniya University's C.W.W Kannangara student hostel.
-
-🟩
-
-A student of Kelaniya University has died after falling from the top floor of the C.W.W Kannangara student hostel, police said.
-
-Police are investigating whether this is murder or suicide. Remble
-
-◼️
-
-[Data](articles/9f6ffb89.json)
-
-[Extended Data](ext_articles/9f6ffb89.ext.json)
-
----
-
-### The postal staff's holidays are also canceled
-
-*2024-10-23 10:40:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-ஊழியர்களின்-விடுமுறைகளும்-இரத்து/175-345904) · `ta`
-
-Postal staff holidays canceled due to elections. Deputy Chief Minister Rajitha Ranasinghe announced cancellation from Nov 23 to Nov 14.
-
-🟩
-
-The Postal Department said that the holidays of all postal staff have been canceled from Wednesday (23) to November 14.
-
-Deputy Chief Minister Rajitha Ranasinghe said that steps have been taken to cancel the vacation of postal staff due to the actions of the parliamentary general election to be held on November 14.
-
-◼️
-
-[Data](articles/d0186cd0.json)
-
-[Extended Data](ext_articles/d0186cd0.ext.json)
-
----
-
-### Warrant for Johnston
-
-*2024-10-23 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202455) · `si`
-
-Colombo High Court issues warrant for former Minister Johnston Fernando over bribery case. He failed to appear in court.
-
-🟩
-
-The Colombo High Court today issued a warrant today to arrest former Minister Johnston Fernando to be arrested and submitting a case filed by the Bribery Commission.
-
-The case was taken up before Colombo High Court Judge Manjula Tilakaratne and he did not appear in court.
-
-◼️
-
-[Data](articles/f2bd1105.json)
-
-[Extended Data](ext_articles/f2bd1105.ext.json)
-
----
-
-### Sri Lanka to review deals signed by previous govt after election
-
-*2024-10-23 10:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-review-deals-signed-by-previous-govt-after-election-184497/) · `en`
-
-ECONOMYNEXT – Sri Lanka will review each deal signed under the previous government individually after the parliament election and it will not go for any new deal during the current interim government, Cabinet Spokesman Vijitha Herath said.
-
-President Anura Kumara Dissanayaka has vowed to review all the deals the government has signed in the past amid allegations over corruption and misappropriation of public funds.
-
-During his presidential campaign, he promised strong anti corruption measures and to review deals that have been tainted with corruption allegations.
-
-However, he is now heading an interim government with a three-member cabinet ahead of November 14 parliamentary elections.
-
-...
-
-[Data](articles/34bdf801.json)
-
-[Extended Data](ext_articles/34bdf801.ext.json)
-
----
-
-### Sri Lanka Resolution to Membership at BRICS Development Bank
-
-*2024-10-23 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/196887) · `ta`
-
-Sri Lanka seeks membership in BRICS Development Bank. Aruni Wijewardena meets bank chairman Dilma Roussef at BRICS Plus conference.
-
-🟩
-
-Sri Lanka plans to make a member of the new Development Bank founded by the BRICS.
-
-Aruni Wijewardena, Secretary to the Ministry of Foreign Affairs of Sri Lanka, who is currently attending the BRICS Plus Outreach Conference, met with the new Development Bank Chairman Dilma Roussef.
-
-◼️
-
-[Data](articles/8ea481b6.json)
-
-[Extended Data](ext_articles/8ea481b6.ext.json)
 
 ---

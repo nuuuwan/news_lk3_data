@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 02:58:07**
+As of **2024-10-24 03:09:13**
 
 ## Newspaper Stats
 
-*Scraped **51,018** Articles*
+*Scraped **51,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,474
 dailymirrorlk | 4,733
 adalk | 4,748
 adaderanalk | 6,050
-tamilmirrorlk | 7,023
+tamilmirrorlk | 7,024
 virakesarilk | 8,179
 adaderanasinhalalk | 8,860
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,018 (100.0%) of 51,018 articles have been extended.
+51,019 (100.0%) of 51,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Fire at Mahawewa Shop
+
+*2024-10-24 02:22:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹாவெவ-கடையொன்றில்-தீப்பரவல்/175-345953) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Fire at Mahawewa shop causes traffic disruption on Halawatta-Kollupitiya main road, police report.
+
+🟩
+
+இதன் காரணமாக ஹலவத்தை - கொழும்பு பிரதான வீதியின் போக்குவரத்து பாதிக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர். (A)
+
+◼️
+
+[Data](articles/d1f4646e.json)
+
+[Extended Data](ext_articles/d1f4646e.ext.json)
+
+---
 
 ### Indian High Commission - Meeting Between President of President;Analysis on the need to resolve the issue of fishermen
 
@@ -2461,27 +2483,5 @@ Huge blasts shook the city that night, leaving plumes of smoke that could still 
 [Data](articles/742c56be.json)
 
 [Extended Data](ext_articles/742c56be.ext.json)
-
----
-
-### Negombo High Court sentenced to life in prison for 10 foreign nationals
-
-*2024-10-23 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202462) · `si`
-
-Negombo High Court sentenced 10 foreign nationals to life imprisonment for heroin possession in 2016. Nine Iranians and one Pakistani received the maximum penalty for holding 146 kg of heroin.
-
-🟩
-
-The Negombo High Court has sentenced 10 foreign national prison sentences.
-
-The 10 foreign nationals had filed charges against the possession of 146 kilograms of heroin in 2016.
-
-The sentence is sentenced to nine Iranians and a Pakistani.
-
-◼️
-
-[Data](articles/3e1d9be0.json)
-
-[Extended Data](ext_articles/3e1d9be0.ext.json)
 
 ---

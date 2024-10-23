@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 13:10:36**
+As of **2024-10-23 13:24:07**
 
 ## Newspaper Stats
 
-*Scraped **50,902** Articles*
+*Scraped **50,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,92 @@ adalk | 4,730
 dailymirrorlk | 4,733
 adaderanalk | 6,032
 tamilmirrorlk | 7,004
-virakesarilk | 8,158
-adaderanasinhalalk | 8,831
+virakesarilk | 8,160
+adaderanasinhalalk | 8,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,898 (100.0%) of 50,902 articles have been extended.
+50,902 (100.0%) of 50,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
 
-### ආරුගම්බේ ගැන බ්‍රිතාන්‍යයෙනුත් නිවේදනයක්
+### அரசியலிலும் 'டில்ஸ்கூப்" விளையாட தயார் - டில்சான்
+
+*2024-10-23 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/196906) · `ta`
+
+அரசியலில்டில்ஸ்கூப் விளையாடுவதற்கு தயார் என முன்னாள் கிரிக்கெட் வீரர் திலகரட்ண டில்சான்  தெரிவித்துள்ளார்.
+
+கறைபடியாத அரசியலில் ஈடுபடுவதற்கு விருப்பம் வெளியிட்டுள்ள அவர் கிரிக்கெட் போல அரசியலிலும் டில்ஸ்கூப் விளையாடினார் என்ற பெயர் எனக்கு கிடைக்கும் என தெரிவித்துள்ளார்.
+
+2018 இல் நான் பெண்களை வலுப்படுத்தும்,கிராமிய மட்டத்தில் குடும்பங்களின் வாழ்வாதாரத்தை உயர்த்தும் டிஜிட்டல் கிராமிய திட்டத்தை அறிமுகப்படுத்தினேன்.
+
+இந்த திட்டத்தின் மூலம் தற்போது 57.000 குடும்பங்கள் பலன்அடைந்துள்ளன,எனது கட்சி மூலம் முழு இலங்கையிலும் திட்டங்களை அறிமுகப்படுத்தவுள்ளேன், பெண்களை வலுப்படுத்தாவிட்டால் நாட்டை வலுப்படுத்த முடியாது என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/6ebd0a17.json)
+
+---
+
+### හිස්බුල්ලා අනුප්‍රාප්තික නායකයා මියගිය බවට ඊශ්‍රායලය තහවුරු කරයි
+
+*2024-10-23 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202461) · `si`
+
+ලෙබනනයේ හිස්බුල්ලා සංවිධානයේ ප්‍රධානී හසන් නස්රල්ලා ඊශ්‍රායල ප්‍රහාරයකින් ඝාතනයට ලක්වූයේ මීට මසකට පමණ පෙරයි.
+
+ඒ අතරතුර සංවිධානයේ අනුප්‍රාප්තික නායකයා වීමට නියමිතව සිටි හෂීම් ෂෆායිඩීන් තම ප්‍රහාරයකින් ඝාතනයට ලක්වූ බවට ඊශ්‍රායලය නිල වශයෙන් තහවුරු කර තිබේ.
+
+ෂෆායිඩීන් ඉලක්ක කරගෙන සති තුනකට පෙර එල්ල වූ ප්‍රහාරයෙන් ඔහු මියගිය බවට ඊශ්‍රායලය මීට පෙරත් පැවසුවත්, හිස්බුල්ලා සංවිධානය මෙතෙක් එය පිළිගෙන නැහැ.
+
+මේ අතර ඊශ්‍රායලය එල්ල කළ ප්‍රහාරයකින් ලෙබනනයේ ගොඩනැගිල්ලක් සම්පූර්ණයෙන්ම කඩා වැටෙන අයුරු විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/c44334a0.json)
+
+---
+
+### பிரித்தானியா இலங்கைக்குரிய பயண ஆலோசனைகளை புதுப்பித்துள்ளது!
+
+*2024-10-23 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/196905) · `ta`
+
+அறுகம்குடா பகுதியில் சுற்றுலாத் தலங்களை இலக்கு வைத்து தாக்குதல் நடத்தப்படலாம் என தகவல் கிடைத்துள்ளதாக அமெரிக்க தூதரகம் தெரிவித்துள்ளது.
+
+இந்நிலையில்,  பிரித்தானியா தமது பிரஜைகளுக்கான இலங்கைக்குரிய பயண ஆலோசனைகளை (Travel Advisory) புதுப்பித்துள்ளது.
+
+அறுகம்குடா பகுதியில் சுற்றுலாத் தலங்களை இலக்கு வைத்து தாக்குதல் நடத்தப்படலாம் என தகவல் கிடைத்துள்ளதால் குறித்த பகுதிக்கு மறு அறிவித்தல் விடுக்கப்படும் வரை சுற்றுலா செல்வதை தவிர்க்குமாறு தமது நாட்டுப் பிரஜைகளுக்கு அமெரிக்கத் தூதரகம் அறிவுறுத்தல் விடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+இதேவேளை, சந்தேகத்திற்கு இடமான முறையில் சம்பவங்கள் இடம்பெற்றால் 119 என்ற தொலைபேசி இலக்கங்களுக்கு அறிவிக்குமாறு தனது நாட்டுப் பிரஜைகளுக்கு அமெரிக்கத்தூதரகம் தெளிவுபடுத்தியுள்ளது.
+
+தொலைபேசி போன்ற தொடர்பு சாதனங்களை வைத்திருக்குமாறும் இலங்கையின் உள்ளூர் ஊடகங்களை பார்வையிடுமாறும் தனது நாட்டுப் பிரஜைகளிடம் அமெரிக்கத் தூதரகம் வேண்டுகோள் விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/f8066b4b.json)
+
+---
+
+### British announcement about Arugamaye
 
 *2024-10-23 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202460) · `si`
 
-ආරුගම්බේ ප්‍රදේශය සඳහා අමෙරිකානු තානාපති කාර්යාලය නිකුත් කළ අනතුරු ඇඟවීම මත පදනම්ව බ්‍රිතාන්‍ය රජය විසින් ද ශ්‍රී ලංකාව සඳහා වන සංචාරක උපදෙස් යාවත්කාලීන කර තිබේ.
+British update travel advice for Sri Lanka due to US embassy warning about Arugambay. American Embassy advised to evacuate area targeted for tourism.
 
-ආරුගම්බේ ප්‍රදේශයේ සංචාරක මර්මස්ථාන ඉලක්ක කර ගනිමින් කිසියම් ප්‍රහාරයක් එල්ල විය හැකි බවට තොරතුරු ලැබී ඇති බැවින් එම ප්‍රදේශයේ සංචාරය කිරීමෙන් වළකින ලෙස ශ්‍රී ලංකාවේ අමෙරිකානු තානාපති කාර්යාලය මෙරට රැඳී සිටින අමෙරිකානු ජාතිකයින්ට දැනුම් දීමක් සිදුකර තිබුණි.
+🟩
+
+The British Government has also updated the travel advice for Sri Lanka based on the warning issued by the American Embassy for Arugambay.
+
+The American Embassy in Sri Lanka has been told to leave the country as a result of a targeting of tourism in Arugambay.
 
 ◼️
 
 [Data](articles/574fabba.json)
+
+[Extended Data](ext_articles/574fabba.ext.json)
 
 ---
 
@@ -752,19 +814,25 @@ The case is scheduled to be heard again on January 27, 2025.
 
 ---
 
-### நம்பத்தகுந்த தாக்குதல் குறித்து தகவல் : சுற்றுலாப் பயணிகள் மற்றும் பொதுமக்கள் பாதுகாப்பை உறுதிப்படுத்தும் வகையில் பாதுகாப்பு நடவடிக்கைகள் முன்னெடுப்பு - பொலிஸ் திணைக்களம்
+### Information on reliable attack: Security measures to ensure tourists and public safety
 
 *2024-10-23 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/196894) · `ta`
 
-நம்பத்தகுந்த தாக்குதல் குறித்து தகவல் கிடைந்துள்ளமையினால் சுற்றுலாப் பயணிகள் மற்றும் பொதுமக்கள் பாதுகாப்பை உறுதிப்படுத்தும் வகையில் பாதுகாப்பு நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாக பொலிஸ் திணைக்களம் தெரிவித்துள்ளது.
+Security measures implemented by police to protect tourists and citizens from potential threats. Public advised to contact emergency hotline 1997 for assistance.
 
-பொது பாதுகாப்பு அமைச்சின் வழிகாட்டுதலின் கீழ் பொலிஸ் மற்றும் புலனாய்வுப் பிரிவுகள் எந்தவொரு அச்சுறுத்தல்களுக்கும் எதிராக சுற்றுலாப் பயணிகள் மற்றும் பொதுமக்கள்  பாதுகாப்பை உறுதி செய்வதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸ் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-விசேட அறிக்கையொன்றை வெளியிட்ட பொலிஸ் திணைக்களம், பொதுமக்கள் மற்றும் சுற்றுலாப் பயணிகள் ஏதேனும் அவசரநிலை அல்லது  தகவல்களை ‘1997’ என்ற அவசர தொலைபேசி இலக்கத்தைத் தொடர்புகொண்டு தெரிவிக்குமாறு கேட்டுக்கொண்டுள்ளது.
+The police department said that security measures have been taken to ensure the safety of tourists and civilians due to information on the reliable attack.
+
+The Police Department said that under the guidance of the Ministry of Public Security, the Police and Intelligence Unit are taking steps to ensure the safety of tourists and the public against any threats.
+
+The Department of Police, which issued a special report, has asked the public and tourists to contact the emergency telephone number of the 1997 telephone number.
 
 ◼️
 
 [Data](articles/cfcc1653.json)
+
+[Extended Data](ext_articles/cfcc1653.ext.json)
 
 ---
 
@@ -870,17 +938,23 @@ However, he is now heading an interim government with a three-member cabinet ahe
 
 ---
 
-### பிரிக்ஸ் அபிவிருத்தி வங்கியில் அங்கத்துவம் பெற இலங்கை தீர்மானம்
+### Sri Lanka Resolution to Membership at BRICS Development Bank
 
 *2024-10-23 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/196887) · `ta`
 
-பிரிக்ஸ் அமைப்பினால் ஸ்தாபிக்கப்பட்ட புதிய அபிவிருத்தி வங்கியில் அங்கத்துவம் பெற இலங்கை திட்டமிட்டுள்ளது.
+Sri Lanka seeks membership in BRICS Development Bank. Aruni Wijewardena meets bank chairman Dilma Roussef at BRICS Plus conference.
 
-பிரிக்ஸ் பிளஸ் அவுட்ரீச் மாநாட்டில் பங்கேற்பதற்காக தற்போது கசான் சென்றுள்ள இலங்கையின் வெளிவிவகார அமைச்சின் செயலாளர் அருணி விஜேவர்தன புதிய அபிவிருத்தி வங்கியின் தலைவர் டில்மா ரூசெப்பை சந்தித்து கலந்துரையாடினார்.
+🟩
+
+Sri Lanka plans to make a member of the new Development Bank founded by the BRICS.
+
+Aruni Wijewardena, Secretary to the Ministry of Foreign Affairs of Sri Lanka, who is currently attending the BRICS Plus Outreach Conference, met with the new Development Bank Chairman Dilma Roussef.
 
 ◼️
 
 [Data](articles/8ea481b6.json)
+
+[Extended Data](ext_articles/8ea481b6.ext.json)
 
 ---
 
@@ -908,19 +982,49 @@ M.P.N.M. Wickramasinghe also noted that a program is being prepared to produce t
 
 ---
 
-### குற்றப்புலனாய்வு திணைக்களத்தில் முன்னிலையானார் ஜோன்ஸ்டன் பெர்னாண்டோ
+### The attack may be carried out!- American Messenger Travel Warning!
+
+*2024-10-23 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/196892) · `ta`
+
+US Embassy warns tourists about potential attacks in Arukamguda. Avoid travel until further notice. Contact 119 for suspicious incidents. Use secure communication methods and check local news.
+
+🟩
+
+The US embassy in Sri Lanka has said that it has been reported that the Tourist places in the Arukamguda area may be attacked.
+
+It is noteworthy that the US embassy has instructed its national citizens to avoid tourism until re -notice to the area.
+
+Meanwhile, the US Messenger has made it clear to its national citizens to inform the telephone numbers 119 if there are suspicious incidents.
+
+The US embassy has appealed to its nationals to have telephone -like communications and visit the local media of Sri Lanka.
+
+◼️
+
+[Data](articles/a030a10d.json)
+
+[Extended Data](ext_articles/a030a10d.ext.json)
+
+---
+
+### Johnston Fernando was present at the Criminal Investigation Department
 
 *2024-10-23 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/196890) · `ta`
 
-முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோ குற்றப்புலனாய்வு திணைக்களத்தில் இன்று புதன்கிழமை (23) முன்னிலையாகியுள்ளார்.
+Former Minister Johnston Fernando visited Criminal Investigation Department on 23rd regarding allegations of using illegally registered BMW vehicle. He attended after receiving summons.
 
-சட்டவிரோதமாகப் பதிவு செய்யப்பட்ட பி.எம்.டபிள்யூ ரக வாகனத்தைப் பயன்படுத்தியதாக முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோ மீது குற்றஞ்சாட்டப்பட்டுள்ளது.
+🟩
 
-இந்நிலையில்,  வாக்கு மூலம் அளிப்பதற்காக வருகை தருமாறு விடுக்கப்பட்ட அழைப்பிணை தொடர்ந்தே குற்றப்புலனாய்வு திணைக்களத்தில் முன்னிலையாகியுள்ளார்.
+Former Minister Johnston Fernando appeared before the Criminal Investigation Department today (23).
+
+Former minister Johnston Fernando has been accused of using the illegal registered BMW vehicle.
+
+In this case, he has come to the Criminal Investigation Department following the invitation to vote by voting.
 
 ◼️
 
 [Data](articles/fd0e238c.json)
+
+[Extended Data](ext_articles/fd0e238c.ext.json)
 
 ---
 
@@ -965,30 +1069,6 @@ The gap between these expectations and the actual actions of the government has 
 [Data](articles/a72c1a4e.json)
 
 [Extended Data](ext_articles/a72c1a4e.ext.json)
-
----
-
-### The attack may be carried out!- American Messenger Travel Warning!
-
-*2024-10-23 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196892) · `ta`
-
-US Embassy warns tourists about potential attacks in Arukamguda. Avoid travel until further notice. Contact 119 for suspicious incidents. Use secure communication methods and check local news.
-
-🟩
-
-The US embassy in Sri Lanka has said that it has been reported that the Tourist places in the Arukamguda area may be attacked.
-
-It is noteworthy that the US embassy has instructed its national citizens to avoid tourism until re -notice to the area.
-
-Meanwhile, the US Messenger has made it clear to its national citizens to inform the telephone numbers 119 if there are suspicious incidents.
-
-The US embassy has appealed to its nationals to have telephone -like communications and visit the local media of Sri Lanka.
-
-◼️
-
-[Data](articles/a030a10d.json)
-
-[Extended Data](ext_articles/a030a10d.ext.json)
 
 ---
 
@@ -2205,69 +2285,5 @@ The Police Narcotics Bureau is conducting further investigations to arrest the s
 [Data](articles/c9f40329.json)
 
 [Extended Data](ext_articles/c9f40329.ext.json)
-
----
-
-### News to Sri Lankans in the United Arab Emirates
-
-*2024-10-22 22:22:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-அரபு-அமீரகத்தில்-உள்ள-இலங்கையர்களுக்கான-செய்தி/175-345887) · `ta`
-
-Sri Lankan Embassy Dubai: Amnesty ends Oct 31, 2024. Unregistered Sri Lankans must leave UAE by Oct 25. Obtain legal visa during amnesty period. Safe return to Sri Lanka encouraged.
-
-🟩
-
-The Sri Lankan Embassy in Dubai has announced that the amnesty period announced for Sri Lankans who have no valid visa or visa in the UAE will end on October 31, 2024.
-
-Therefore, it has been announced that Sri Lankans who do not have a valid visa or visa will come to Sri Lanka on the 25th of this month, as it requires some time to issue a certificate of exit certificate.
-
-During this public amnesty, the consulate has announced that it is determined to provide services to Sri Lankans who need assistance.
-
-Sri Lankans, who are staying without a valid visa in the United Arab Emirates, have been asked to obtain a legal visa using a public amnesty period.
-
-The conslator also requested that Sri Lankans who cannot do so use this opportunity safely return to Sri Lanka. Remble
-
-◼️
-
-[Data](articles/1f8b2e6f.json)
-
-[Extended Data](ext_articles/1f8b2e6f.ext.json)
-
----
-
-### CMA Australia concludes groundbreaking CMA Qualifying Programme
-
-*2024-10-22 22:19:00* · [`islandlk`](http://island.lk/cma-australia-concludes-groundbreaking-cma-qualifying-programme/) · `en`
-
-The Institute of Certified Management Accountants (ICMA) Australia recently concluded a groundbreaking CMA Qualifying Programme, showcasing its commitment to shaping the future of corporate leadership in the country.
-
-A qualified accountant, finance degree-holder or holder of a Masters specialising in finance can become a Certified Management Accountant (Australia) by completing the seven-day intensive master’s level modules and the assessments covering Strategic Cost Management and Strategic Business Analysis.
-
-This year’s seven-day rigorous workshop, held from September 28 to October 4, 2024, at the Galle Face Hotel in Colombo, was attended by 75 high-calibre professionals from nine countries. The programme covered cutting-edge topics integrating the latest developments in big data, AI, IoT, and blockchain technologies.
-
-...
-
-[Data](articles/fc67250e.json)
-
-[Extended Data](ext_articles/fc67250e.ext.json)
-
----
-
-### Japanese business group in SL to explore investment opportunities
-
-*2024-10-22 22:18:00* · [`islandlk`](http://island.lk/japanese-business-group-in-sl-to-explore-investment-opportunities/) · `en`
-
-Rowelmark Group, a Sri Lankan conglomerate, as per the brainchild and invitation of its chairman, Dr. Ruwan Perera announces the arrival of the Hanabi Tour, a group of 45 Japanese business personnel, in Sri Lanka. This visit coincides with the ongoing construction of the 153-room Colombo International Airport Hotel (CIAH) by Rowelmark’s subsidiary.
-
-The Hanabi Tour, facilitated by Rowelmark Travel, will explore Sri Lanka’s investment opportunities and cultural heritage sites. As part of their itinerary, the group donated a newly constructed water tank and a dancing room to Kimbissa Maha Vidyalaya on October 20. This contribution, made possible by Little Japan and the tour group, will significantly benefit the school’s students.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/b72165fe.json)
-
-[Extended Data](ext_articles/b72165fe.ext.json)
 
 ---

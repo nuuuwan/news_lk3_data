@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 10:24:18**
+As of **2024-10-23 10:39:51**
 
 ## Newspaper Stats
 
-*Scraped **50,855** Articles*
+*Scraped **50,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,124 @@ economynextcom | 3,108
 dailyftlk | 3,474
 adalk | 4,724
 dailymirrorlk | 4,733
-adaderanalk | 6,027
+adaderanalk | 6,029
 tamilmirrorlk | 6,991
-virakesarilk | 8,148
-adaderanasinhalalk | 8,824
+virakesarilk | 8,152
+adaderanasinhalalk | 8,825
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,855 (100.0%) of 50,855 articles have been extended.
+50,858 (100.0%) of 50,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Security measures to safeguard tourists and citizens from potential threats - Sri Lanka Police
+
+*2024-10-23 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102870/security-measures-to-safeguard-tourists-and-citizens-from-potential-threats-sri-lanka-police) · `en`
+
+The police and intelligence divisions, under the direction of the Ministry of Public Security, are taking proactive measures to ensure the safety of tourists and citizens against any potential threats, Sri Lanka Police said.
+
+Issuing a special statement, the police department urged the public and tourists to report any emergencies or relevant information by contacting the emergency hotline ‘1997’.
+
+Security measures to safeguard tourists and citizens from potential threats - Sri Lanka Police by Adaderana Online on Scribd
+
+◼️
+
+[Data](articles/4db42351.json)
+
+[Extended Data](ext_articles/4db42351.ext.json)
+
+---
+
+### Rhetoric
+
+*2024-10-23 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/196886) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Corruption concerns persist despite election promises. Former presidents acknowledge inadequate handling of corruption. New government faces criticism over slow progress. Economic risks and international relations remain concerns.
+
+🟩
+
+Although promised during election campaigns during election campaigns, there is a feeling among the people that there has been insufficient measures to take accountability of previous corrupt officials or to prevent corruption in government agencies.. The rapid rise of the national popular power to power created great expectations among the people. There is an expectation that the economic risk is to be ended in particular.
+
+The gap between these expectations and the actual actions of the government has led to the departure of dissatisfaction from various sects of the community. It represents in the media. The government said it was going to review international agreements. Some of them are associated with corrupt practices.
+
+...
+
+[Data](articles/a72c1a4e.json)
+
+[Extended Data](ext_articles/a72c1a4e.ext.json)
+
+---
+
+### The attack may be carried out!- American Messenger Travel Warning!
+
+*2024-10-23 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196892) · `ta`
+
+US Embassy warns tourists about potential attacks in Arukamguda. Avoid travel until further notice. Contact 119 for suspicious incidents. Use secure communication methods and check local news.
+
+🟩
+
+The US embassy in Sri Lanka has said that it has been reported that the Tourist places in the Arukamguda area may be attacked.
+
+It is noteworthy that the US embassy has instructed its national citizens to avoid tourism until re -notice to the area.
+
+Meanwhile, the US Messenger has made it clear to its national citizens to inform the telephone numbers 119 if there are suspicious incidents.
+
+The US embassy has appealed to its nationals to have telephone -like communications and visit the local media of Sri Lanka.
+
+◼️
+
+[Data](articles/a030a10d.json)
+
+[Extended Data](ext_articles/a030a10d.ext.json)
+
+---
+
+### විදේශීය සංචාරකයන්ගේ ආරක්ෂාව ගැන පොලීසියෙන් හදිසි නිවේදනයක්
+
+*2024-10-23 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202454) · `si`
+
+විදේශිකයන්ගේ ආරක්ෂාව සඳහා විශේෂ වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට ආරක්ෂක අමාත්‍යාංශයේ සහ මහජන ආරක්ෂක අමාත්‍යාංශයේ උපදෙස් මත ශ්‍රී ලංකා පොලීසිය සහ බුද්ධි අංශ විශේෂ වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට නියමිත බව පොලීසිය නිවේදනය කරයි.
+
+මැදපෙරදිග මෙන්ම නැගෙනහිර යුරෝපයේ පවතින යුදමය වාතාවරණය සැලකිල්ලට ගනිමින් ඔවුන් මෙම පියවර ගෙන තිබේ.
+
+ඉදිරි සංචාරක වාරය තුළ විදේශීය සංචාරකයන් විශාල ප්‍රමාණයක් ශ්‍රී ලංකාවේ සංචාරය කිරීමට නියමිත බවට මේ වන විට ලැබී තිබෙන තොරතුරු මඟින් නිරීක්ෂණය වී ඇත.
+
+මෙය ශ්‍රී ලංකාවේ ආර්ථිකය ශක්තිමත් කිරීමට මෙන්ම ශ්‍රී ලංකාව පිළිබඳව විදේශීය ජාතිකයින් ඇති කර ගනු ලබන විශ්වාසය මෙන්ම ගෞරවයටද මහඟු අවස්ථාවක් උදාවීමකි.
+
+විදේශීය සංචාරකයින්ගේ ආකර්ශණය පවතින රාජ්‍යක් ලෙස මෙරටට පැමිණෙන විදේශීය සංචාරකයන්ගේ ආරක්ෂාව, ඔවුන් අපේක්ෂා කරන සතුට විනෝදය මෙන්ම දැනුම නිදහස්ව ලබා ගැනීමට අවශ්‍ය පරිසරය සැකසීම අප කාගේත් වගකීමක් බවට පත් වේ.
+
+...
+
+[Data](articles/900c2fb5.json)
+
+---
+
+### US Embassy warns citizens to avoid Arugam Bay due to ‘credible threat’
+
+*2024-10-23 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102869/us-embassy-warns-citizens-to-avoid-arugam-bay-due-to-credible-threat) · `en`
+
+The U.S. Embassy in Colombo has strongly advised its citizens to avoid the Arugam Bay area until further notice, citing credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.
+
+The Embassy says it has received credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.
+
+“Due to the serious risk posed by this threat, the Embassy imposed a travel restriction on Embassy personnel for Arugam Bay effective immediately and until further notice.”
+
+“U.S. citizens are strongly urged to avoid the Arugam Bay area until further notice,” the security alert said.
+
+◼️
+
+[Data](articles/4d4e95d9.json)
+
+---
 
 ### The US embassy warns that Arugam Bay area can attack
 
@@ -78,11 +182,31 @@ He has come to a statement regarding the investigation into the investigation in
 
 Former Minister Johnston Fernando has arrived at the Criminal Investigation Department (CID) to provide a statement regarding the unregistered luxury car allegedly belonging to him, which was found parked at a star-class hotel in Colombo.
 
+A petition filed by Fernando, seeking an order to prevent his arrest over the incident, was taken up for consideration yesterday (22).
+
+During the hearing, his attorneys informed the court that Fernando was prepared to appear before the CID today to give a statement on the matter.
+
+The court has scheduled the petition to be called again on October 25.
+
+Meanwhile, speaking to the media, Fernando remarked, “Let’s see what happens. Time will answer the questions. Truth will prevail.”
+
 ◼️
 
 [Data](articles/07c7f3bf.json)
 
 [Extended Data](ext_articles/07c7f3bf.ext.json)
+
+---
+
+### புத்தளம் மார்க்கத்தில் ரயில் சேவை தாமதம்
+
+*2024-10-23 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/196884) · `ta`
+
+ஜா-எல ரயில்  நிலையத்துக்கு அருகிலுள்ள சமிக்ஞையில் ஏற்பட்ட தொழில்நுட்ப கோளாறினால் சேவை தாமதமடைந்துள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/0144af55.json)
 
 ---
 
@@ -103,6 +227,20 @@ Ranasinghe also mentioned that the acceptance of registered postal vote reserve 
 [Data](articles/1dac8749.json)
 
 [Extended Data](ext_articles/1dac8749.ext.json)
+
+---
+
+### தபால் ஊழியர்களின் விடுமுறை இரத்து !
+
+*2024-10-23 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196882) · `ta`
+
+தபால் ஊழியர்களின் விடுமுறை பொதுத் தேர்தல் முடியும் வரை இரத்து செய்யப்பட்டுள்ளதாக  தபால் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, இன்று புதன்கிழமை (23) முதல் நவம்பர் 14 ஆம் திகதி வரை அனைத்து ஊழியர்களின் விடுமுறையையும் இரத்து செய்யப்பட்டுள்ளதாக பிரதி தபால் மா அதிபர் ராஜித ரணசிங்க குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/4b721c46.json)
 
 ---
 
@@ -177,6 +315,10 @@ A student who was studying at the Kelaniya University has fallen in a high floor
 *2024-10-23 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102865/student-falls-to-death-from-upper-floor-of-hostel-at-kelaniya-uni-) · `en`
 
 A male student has reportedly fallen to his death from an upper floor of the C.W.W. Kannangara Hostel at the University of Kelaniya, said Police.
+
+The student was rushed to the Kiribathgoda Base Hospital following the incident, however, he was pronounced dead upon admission to the hospital.
+
+The deceased has been identified as a fourth-year student from the Department of Accountancy in the Faculty of Commerce and Management Studies.
 
 ◼️
 
@@ -2155,201 +2297,5 @@ The accident occurred when a private bus traveling from Colombo to Embilipitiya 
 [Data](articles/aaf9a913.json)
 
 [Extended Data](ext_articles/aaf9a913.ext.json)
-
----
-
-### The unfortunate incident of the Parakada - Son to house to address the father last
-
-*2024-10-22 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202433) · `si`
-
-Eheliyagoda: Father killed, son injured in acid attack. Group abducts son, attacks father with acid. Father dies after hospitalization. Police cite personal dispute as motive.
-
-🟩
-
-An incident was killed in the jewel of the jeep where his son was abducted by a group of people. Eheliyagoda, Ven
-
-The son had also launched an acid attack by the people and saw the father's body to see the father's body today (22).
-
-A group of people had come from a jeep to a house in Parakaduwa, Eheliyagoda.
-
-His father had attempted to prevent it when they were handcuffed to a young man at home and tried to take acid.
-
-There, the father was hanging in the jeep, and he was fallen by running it.
-
-The driver of the jeep had been forwarded forward in submerged by the person.
-
-The police said that the 65-year-old man had died after hospitalization.
-
-The relatives were hospitalized while the abducted son was rubbed with injuries.
-
-Police said that the reason for the attack was a personal dispute.
-
-◼️
-
-[Data](articles/56037033.json)
-
-[Extended Data](ext_articles/56037033.ext.json)
-
----
-
-### 'Single Palm Tree' won the International Film Awards in Tamil Nadu on the 25th of this month
-
-*2024-10-22 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/196855) · `ta`
-
-"Single Palm Tree" wins award in Tamil Nadu. Directed by Puthivan Rasaya, starring Navan Rasiah and Nava Yuka. Won 15+ international film festival awards. Set in Tamil Eelam, based on true events. To release in Tamil Nadu theaters on 25th. Produced by RSS Pictures. Director confident of local support.
-
-🟩
-
-The movie 'Single Palm Tree', which plays the lead role in the role of the Navan Rasiah and the Nava Yuka, has screened more than fifteen awards at international film festivals.
-
-It has been officially announced that the film will be released in Tamil Nadu theaters on the 25th.
-
-Internationally attracted internationally, director Puthivan Rasaya has starred in the film 'Single Palm Tree' and starred in the film 'Single Palm Tree'.
-
-Ashwamitra has composed the film, which has been recorded by Mahinda Abeysinghe. The film is being produced by RSS Pictures, which has been produced by S Tanika Vale.
-
-Commenting on the film, the director said, “The screenplay of the 'Single Palm Tree' has been created in the Tamil Eelam field, which focuses on the fact that the people are meeting in the contemporary time.
-
-The film, which is based on true events, has been screened at international film festivals and won 17 awards. We are confident that the film will be supported by the people of Tamil Nadu. ”
-
-◼️
-
-[Data](articles/a8c27b58.json)
-
-[Extended Data](ext_articles/a8c27b58.ext.json)
-
----
-
-### Rs.. China helped 30 million
-
-*2024-10-22 16:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-30-மில்லியனை-உதவி-செய்தது-சீனா/175-345862) · `ta`
-
-China gifts $100k to Sri Lanka for flood relief. Ambassador hands over aid to President. Focus on emergency support and long-term flood prevention strategies. Heavy rains cause widespread flooding, displacement, and damage.
-
-🟩
-
-The Chinese government has gifted 30 million rupees (USD 100,000) to Sri Lanka to provide relief to people affected by the recent sudden floods.
-
-Chinese Ambassador to Sri Lanka, Qi Zhenhong, officially handed over the assistance to the President at the Presidential Office on Tuesday afternoon.
-
-The meeting was examined to provide emergency relief to victims of the disaster and the long -term strategies of flood prevention and management.
-
-In addition, focus on the standard solutions and methods that can be followed to prevent future flood conditions and improve the ability to face such situations.
-
-Due to the recent heavy rains, many districts flooded. Thousands of families have been displaced and reportedly damaged infrastructure and agriculture.
-
-◼️
-
-[Data](articles/3d2b919f.json)
-
-[Extended Data](ext_articles/3d2b919f.ext.json)
-
----
-
-### 28 hospitalized bus accident at Avissawella
-
-*2024-10-22 16:39:46* · [`adalk`](https://www.ada.lk/breaking_news/අවිස්සාවෙල්ලේදී-28-දෙනෙකු-රෝහල්-ගත-කළ-බස්-රථ-අනතුර/11-412612) · `si`
-
-Avissawella bus accident: 2 private buses involved. 28 passengers hospitalized. Incident occurred on 22nd. Police investigation ongoing.
-
-🟩
-
-Two private buses have been reported in Avissawella yesterday (22).
-
-28 persons were hospitalized after hospital, police said.
-
-◼️
-
-[Data](articles/2f3ba269.json)
-
-[Extended Data](ext_articles/2f3ba269.ext.json)
-
----
-
-### Surya starring 'Ganguva' starring Surya
-
-*2024-10-22 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196854) · `ta`
-
-Surya stars in "Ganguva" alongside Disha Patani, Bobby Deol, and Yogi Babu. Directed by Siva, composed by Devi Sri Prasad. Song "Kiss Me" lyrics by Viveka, music by Devi Sri Prasad and Lapido Lobo. Released with English and Tamil words.
-
-🟩
-
-Actor Surya, who is trying to rise as an Indian star, has been released in the movie 'Yo Lo' in the movie 'Gangua' and the lyrical video for the song.
-
-Surya, Disha Patani, Bobby Deol, Yogi Babu and many others have starred in the film 'Gangua' directed by director Siva.. The film has been composed by 'Rockstar' Devi Sri Prasad.
-
-Producer K.. E.. Gnanvel Raja -Vamsi -Pramod has co -produced.
-
-The Holt M.. Huck m.. The song that starts with Kiss Me .. and the lyrical video for the song has been released.
-
-The song was written by songwriter Viveka, playback singer and composer Devi Sri Prasad and Lapido Lobo.
-
-The song has been released with the words of Rockstar Devi Sri Prasad's exclusive throbbing, with English and Tamil words.
-
-Within a short time of the song, more than four million viewers were visited and achieved.
-
-◼️
-
-[Data](articles/db6c53c2.json)
-
-[Extended Data](ext_articles/db6c53c2.ext.json)
-
----
-
-### Actor Dulquer Salman's 'Lucky Bhaskar' preview
-
-*2024-10-22 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196851) · `ta`
-
-"Lucky Bhaskar" preview: Dulquer Salman stars in Tamil, Telugu, Malayalam, Kannada, Hindi. Directed by Venki Atheruri, produced by Siddhartha Entertainment and Fortune For Cinemas. Release date: March 31.
-
-🟩
-
-Dulquer Salman, the leading star of the South Indian film industry, has been released as the lead role of the film 'Lucky Bhaskar'.. Within a short time of this preview, more than two million viewers have been visited and achieved.
-
-Dulquer Salman, Meenakshi Chaudhry, Aisha Khan, Hyper Adi, Sai Kumar, Sachin Katekar, directed by director Venki Atheruri.. Nimish Ravi has recorded the film.. V.. Prakash Kumar has composed the music.
-
-The film was co -produced by Siddara Entertainment and Fortune For Cinemas.. The film also offers Sri Kara Studios.
-
-The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 31st of this month.
-
-In this, Dulquer Salman, the hero of the story, is getting into an economic problem after marrying his own hero.
-
-Gambling and financial fraud in order to escape from it. The consequences are the film, which has caused great anticipation for fans.
-
-◼️
-
-[Data](articles/8c5faab5.json)
-
-[Extended Data](ext_articles/8c5faab5.ext.json)
-
----
-
-### Actor r. J.. Balaji starrer 'Paradise Vasal'
-
-*2024-10-22 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196852) · `ta`
-
-Here's a 200-character summary:
-
-
-
-R.J. Balaji stars in "Paradise Vasal," directed by Christo Xavier. High-budget film featuring cricket commentators, actors, and directors. Released after completing all tasks, it explores life, relationships, and prison themes. Produced by Swipe Right Studios and Think Studios.
-
-🟩
-
-Editor, Cricket commentator, actor, director. J.. Balaji has been released in the film 'Parakavasal' which plays the hero of the story.
-
-R. R. R.. J.. Balaji, Selvam Raghavan, Nati alias Natraj, Sania Iyyappan, Shafrab Udin, Hakeem Shah, Balaji Sakthivel, Karunas, Ravi Raghavendra, Anthony Dasan, Samuel Johnson, Maurya and many others.
-
-Christo Xavier has composed the film, which is being recorded by Prince Anderson. The film is being produced by Siddharth Rao and Pallavi Singh on behalf of Swipe Right Studios and Think Studios.
-
-All the tasks of the film are completed and waiting for the release. R. J.. Balaji starring in the film, which is a high -budget film in his films.In this case, the film has been released.
-
-The scenes described in the life, relations and relationships of the prison in prison have caused great anticipation among fans.
-
-◼️
-
-[Data](articles/d2cc8ff4.json)
-
-[Extended Data](ext_articles/d2cc8ff4.ext.json)
 
 ---

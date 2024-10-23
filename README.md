@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 21:11:33**
+As of **2024-10-23 21:23:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,995 (100.0%) of 50,996 articles have been extended.
+50,996 (100.0%) of 50,996 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,23 +74,29 @@ Considering the extraordinary situation in the Middle East and Eastern Europe, a
 
 ---
 
-### இந்திய பிரதமர் மோடி ரஷ்ய அதிபர் புடினுக்கு இந்தியா வருகை தருமாறு அழைப்பு
+### Indian Prime Minister Modi invites Russian President Putin to visit India
 
 *2024-10-23 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196952) · `ta`
 
-இந்திய பிரதமர் நரேந்திர மோடி இந்த அழைப்பை விடுத்துள்ளதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+Indian PM Modi invites Putin to India for 23rd India-Russia annual conference. Their second meeting this year, reviewing bilateral cooperation in politics, economics, security, energy, and relations.
 
-16வது பிரிக்ஸ் மாநாட்டில், ரஷ்யாவின் கசான் நகரில் பிரதமர் நரேந்திர மோடி ரஷ்ய அதிபர் விளாடிமிர் புடினை சந்தித்தார்.
+🟩
 
-அடுத்த ஆண்டு 23-ஆவது இந்தியா - ரஷ்யா ஆண்டு மாநாட்டில் பங்கேற்க பிரதமர் மோடி புடினுக்கு அழைப்பு விடுத்துள்ளார்.
+Foreign media reports that Indian Prime Minister Narendra Modi made the call.
 
-அரசியல், பொருளாதாரம், பாதுகாப்பு, எரிசக்தி மற்றும் மக்களிடையேயான உறவுகள் உள்ளிட்ட பல்வேறு துறைகளில் இருதரப்பு ஒத்துழைப்பை இரு தலைவர்களும் மதிப்பாய்வு செய்ததாக இந்திய பிரதமர் அலுவலகம் செய்திக்குறிப்பில் தெரிவித்துள்ளது.
+At the 16th BRICS conference, Prime Minister Narendra Modi met Russian President Vladimir Putin in Kazan, Russia.
 
-22 ஜூலை 2024 இந்தியா-ரஷ்யா வருடாந்திர உச்சிமாநாட்டிற்காக இரு தலைவர்களும் முன்னதாக மாஸ்கோவில் சந்தித்ததால், இந்த ஆண்டு இது அவர்களின் இரண்டாவது சந்திப்பு என்று வெளிநாட்டு ஊடகங்கள் மேலும் தெரிவித்தன.
+Prime Minister Modi has called on Putin to attend the 23rd India -Russian annual conference next year.
+
+The Indian Prime Minister's Office said in a press release that the two leaders have reviewed bilateral cooperation in various sectors, including politics, economics, security, energy and relations.
+
+22 July 2024 Foreign media further stated that this was their second meeting this year as the two leaders met in Moscow earlier for the Indo-Russia annual summit.
 
 ◼️
 
 [Data](articles/48154a83.json)
+
+[Extended Data](ext_articles/48154a83.ext.json)
 
 ---
 

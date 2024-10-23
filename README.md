@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 21:39:59**
+As of **2024-10-23 22:00:44**
 
 ## Newspaper Stats
 
-*Scraped **50,997** Articles*
+*Scraped **50,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adalk | 4,746
 adaderanalk | 6,049
 tamilmirrorlk | 7,022
 virakesarilk | 8,173
-adaderanasinhalalk | 8,854
+adaderanasinhalalk | 8,855
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,997 (100.0%) of 50,997 articles have been extended.
+50,998 (100.0%) of 50,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### The bullet bullet boring for a young man hit a young man?
+
+*2024-10-23 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202484) · `si`
+
+Young man shot in Horana, hospitalized with bullet wound. Police investigating incident.
+
+🟩
+
+At the hospital, a youth who was injured in a young lightner in Kumbuwara, Horana was hospitalized, he had been hospitalized.
+
+Police suspect that the young man's hand was hit during a shooting at the police STF training school.
+
+A dealer father in Kumbuka in Horana was engaged in farming with his two sons yesterday (22).
+
+On the occasion, the left hand of one son and the right hand of the right hand have begun to cover blood.
+
+"We spent the three of us on the time. There was a hatry. He screamed and grieved in the hands of. When looked down that road. At the same time after three
+
+"He said the hand was profound. Went to the hospital. He did not hurt the hand, "
+
+Residents were then taken to Horana Base Hospital, suspect, suspected that lightning was hit.
+
+However, he had revealed him in the hospital in the hospital.
+
+The doctors had then taken measures to be surgery and removed the same Mooniarium.
+
+The victim was 36 year old Chinthaka Weathganaranga Herath, a resident of Kumbukka North Gonate.
+
+...
+
+[Data](articles/8196ac0a.json)
+
+[Extended Data](ext_articles/8196ac0a.ext.json)
+
+---
 
 ### Attack at Turkey aviation site leaves some dead, injured
 
@@ -2425,27 +2461,5 @@ The deceased has been identified as a fourth year of the Faculty of Accountants 
 [Data](articles/7dc205e0.json)
 
 [Extended Data](ext_articles/7dc205e0.ext.json)
-
----
-
-### Police strengthen security in Arugam Bay over reports of potential threats
-
-*2024-10-23 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102873/police-strengthen-security-in-arugam-bay-over-reports-of-potential-threats-) · `en`
-
-Sri Lanka Police have announced special measures to bolster security in the Arugam Bay area following information received regarding potential threats to tourists in the area.
-
-It is reported that around 500 police officers and Special Task Force (STF) personnel have been deployed to enhance the security of the Arugam Bay tourist area.
-
-Intelligence agencies and other security forces are also focusing on strengthening security in the region, the police spokesman said.
-
-Police Spokesman DIG Nihal Thalduwa clarified that Israelis frequent the Arugam Bay and Pottuvil areas due to popular surfing locations in those areas, and that recent information received has indicated a possible threat targeting them.
-
-He further emphasized that no intelligence reports have been received regarding such threats in Colombo or any other areas of the country thus far, and therefore urged the public not to have any undue fears.
-
-...
-
-[Data](articles/9a3dd7c8.json)
-
-[Extended Data](ext_articles/9a3dd7c8.ext.json)
 
 ---

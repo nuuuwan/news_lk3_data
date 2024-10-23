@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 05:09:05**
+As of **2024-10-24 05:24:05**
 
 ## Newspaper Stats
 
-*Scraped **51,019** Articles*
+*Scraped **51,027** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 510
 bbccomsinhala | 517
 islandlk | 3,030
 economynextcom | 3,121
-dailyftlk | 3,474
+dailyftlk | 3,482
 dailymirrorlk | 4,733
 adalk | 4,748
 adaderanalk | 6,050
@@ -26,11 +26,155 @@ adaderanasinhalalk | 8,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,019 (100.0%) of 51,019 articles have been extended.
+51,024 (100.0%) of 51,027 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Central Engineering Services gets contract to renovate State-owned tourist bungalows
+
+*2024-10-24 04:50:18* · [`dailyftlk`](https://www.ft.lk/business/Central-Engineering-Services-gets-contract-to-renovate-State-owned-tourist-bungalows/34-768339) · `en`
+
+The Cabinet of Ministers on Monday approved awarding a contract to renovate the Ekgaloya and Riverston tourist bungalows to Central Engineering Services Ltd., under the supervision of the Central Engineering Consultancy Bureau.
+
+These renovations are part of a broader initiative to revive nine State-owned tourist bungalows identified by the Department of Forest Conservation.
+
+The renovation plan follows the recommendations of a committee tasked with developing a strategy for the efficient use of resorts and tourist bungalows owned by Government institutions.
+
+“An estimated budget of Rs. 166.93 million has been allocated for the project, with a target to complete all renovations by the end of this year,” Cabinet Spokesman and Minister Vijitha Herath said at the post-Cabinet meeting media briefing on Tuesday.
+
+...
+
+[Data](articles/9ecb5c31.json)
+
+[Extended Data](ext_articles/9ecb5c31.ext.json)
+
+---
+
+### Sri Lanka India Society commemorates 78th Independence Day of India
+
+*2024-10-24 04:48:40* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-India-Society-commemorates-78th-Independence-Day-of-India/56-768338) · `en`
+
+Presenting traditional hand-painted Indian art to Foreign Affairs Minister Vijitha Herath (centre) by SLIS President Kishore Reddy (left) and Indian High Commissioner to Sri Lanka Santosh Jha
+
+Minister Vijitha Herath and High Commissioner Santosh Jha joined by Sri Lanka India Society President Kishore Reddy and the EXCO
+
+Indian High Commissioner Santosh Jha highlights “we come into an era of supporting Sri Lanka through an investment-driven model, rather than burdening the nation with debt”
+
+Resonating President Anura Kumara Dissanayake's phrase, SLIS President Kishore Reddy says “Api ekatuwela rata hadamu – “Together let’s build the nation”
+
+Foreign Affairs Minister Vijitha Herath says “India and Sri Lanka have immense potential to develop beyond just traditional economic interactions. Sri Lanka values this partnership”
+
+...
+
+[Data](articles/a14d2f15.json)
+
+[Extended Data](ext_articles/a14d2f15.ext.json)
+
+---
+
+### WFP launches regional project to strengthen climate change adaptation across Sri Lanka and India
+
+*2024-10-24 04:45:08* · [`dailyftlk`](https://www.ft.lk/news/WFP-launches-regional-project-to-strengthen-climate-change-adaptation-across-Sri-Lanka-and-India/56-768337) · `en`
+
+From left: UN Resident Coordinator for India Shombi Sharp, Government of India MoEFCC Economic Advisor Rajasree Ray, Environment Ministry Sri Lanka Additional Secretary – Environment Projects and Education Training W.G. Kumaragama, WFP Sri Lanka Deputy Country Director Gerard Rebello, and WFP India Country Director Elisabeth Faure
+
+The United Nations World Food Program (WFP), together with the Environment Ministries of Sri Lanka and India this week launched its Adaptation for Resilience (ADAPT4R) project.
+
+The five-year initiative aims to enhance the food security and livelihoods of farming communities facing climate-induced challenges.
+
+...
+
+[Data](articles/a526a942.json)
+
+[Extended Data](ext_articles/a526a942.ext.json)
+
+---
+
+### SLCFA commends China’s generous support for flood relief efforts in Sri Lanka
+
+*2024-10-24 04:44:03* · [`dailyftlk`](https://www.ft.lk/news/SLCFA-commends-China-s-generous-support-for-flood-relief-efforts-in-Sri-Lanka/56-768336) · `en`
+
+The Sri Lanka-China Friendship Association (SLCFA) extended its profound appreciation to the People’s Republic of China for once again coming forward to assist the people of Sri Lanka in times of crisis.
+
+“On 22 October, Ambassador Qi Zhenhong, representing the Chinese Government, handed over Rs. 30 million in emergency humanitarian relief funds to President Anura Kumara Dissanayake. This generous donation will provide essential support to those affected by the recent floods, aiding their recovery and helping them rebuild their homes.”
+
+“The Chinese Government and the people of China have consistently demonstrated their unwavering commitment to standing by Sri Lanka during difficult times. Be it floods, droughts, the COVID-19 pandemic, or shortages of critical medicines, China has extended its friendship, treating the people of Sri Lanka with care and compassion, as if they were their own.
+
+...
+
+[Data](articles/ec7a589b.json)
+
+[Extended Data](ext_articles/ec7a589b.ext.json)
+
+---
+
+### Victims of IPKF Jaffna hospital massacre remembered
+
+*2024-10-24 04:43:05* · [`dailyftlk`](https://www.ft.lk/news/Victims-of-IPKF-Jaffna-hospital-massacre-remembered/56-768335) · `en`
+
+The 37th commemoration of the Jaffna Teaching Hospital Massacre by the Indian Peacekeeping Forces (IPKF) in 1987 was held on Monday at the hospital. Hospital staff and attendees paid tribute to the victims by lighting flowers in remembrance of those who lost their lives in the attack.
+
+Family members of the 68 unarmed victims, including 21 hospital staff and 47 patients, attended the event.
+
+The attack, carried out by the IPKF under the command of Lt. Gen. Dipendra Singh, was part of a series of mass killings in Northern Sri Lanka. The IPKF had been deployed under the Indo-Sri Lanka Accord of 1987, which sought to bring peace to the region, but the massacre marked a tragic and violent episode in the conflict.
+
+...
+
+[Data](articles/2b8ff074.json)
+
+[Extended Data](ext_articles/2b8ff074.ext.json)
+
+---
+
+### TISL launches General Election 2024 watchdog
+
+*2024-10-24 04:40:33* · [`dailyftlk`](https://www.ft.lk/news/TISL-launches-General-Election-2024-watchdog/56-768334) · `en`
+
+TISL National Coordinator Thushanie Kandilpana (centre) flanked by Senior Program Manager Gowriswaran Kirupairajah (left) and Political Sector Program Manager Shaveendra Senarath – Pic by Lasantha Kumara
+
+The Transparency International Sri Lanka (TISL) yesterday announced the launch of its 2024 General Election Observation program, focusing on the critical issue of public resource misuse by politicians for campaigning.
+
+Speaking about their organisation’s mission for the 14 November General Election at a media briefing yesterday, TISL outlined their efforts to foster an accountable and fairer electoral process, crucial for strengthening democratic integrity.
+
+TISL said it has been committed to election monitoring since its inception in 2002, aiming to alleviate corruptive practices in campaigning while promoting greater transparency within the public over the misuse of their public resources – a persistent crisis in Sri Lankan politics for over decades.
+
+...
+
+[Data](articles/605196e3.json)
+
+---
+
+### Ariyanethran denies reports of summons by TID
+
+*2024-10-24 04:36:32* · [`dailyftlk`](https://www.ft.lk/news/Ariyanethran-denies-reports-of-summons-by-TID/56-768333) · `en`
+
+Former Member of Parliament P. Ariyanethran, who ran as the Common Tamil Candidate in the September Presidential election, has denied media reports that he received a summons from the Terrorism Investigation Division (TID) of the Sri Lanka Police.
+
+Ariyanethran clarified that he had not been contacted via telephone or any other means to appear before the TID for questioning, refuting claims made in recent media reports.
+
+His denial follows a report published on Tuesday, which alleged that Ariyanethran, along with his campaign supporters, had been summoned by the TID for interrogation. The report, quoting Rajkumar Rajeevkanth of the People’s Struggle Alliance (PSA), claimed that the investigation was focused on the sources of Ariyanethran’s campaign funding, raising concerns about the scrutiny placed on his finances. According to the report, Rajeevkanth had made these claims while addressing a rally in Colombo recently.
+
+...
+
+[Data](articles/d30861a7.json)
+
+---
+
+### SC rules against rejection of DNA nomination papers in Vanni
+
+*2024-10-24 04:34:26* · [`dailyftlk`](https://www.ft.lk/news/SC-rules-against-rejection-of-DNA-nomination-papers-in-Vanni/56-768332) · `en`
+
+The Supreme Court has ruled that the rejection of the Democratic National Alliance (DNA) nomination papers for the Vanni District in the upcoming General Election was in violation of election laws. The decision follows a petition filed by DNA leader Pararajasingham Udayarasa on 18 October, challenging the Returning Officer’s decision to reject the party’s nomination papers.
+
+During the hearing, Udayarasa, along with two other petitioners, argued that all necessary documents had been duly submitted, and the rejection was therefore unlawful. The petition named the Commissioner General of the Election Commission of Sri Lanka (ECSL), members of the Election Commission, the Vanni District Returning Officer, and other officials as respondents.
+
+...
+
+[Data](articles/b9fef54a.json)
+
+---
 
 ### Fire at Mahawewa Shop
 
@@ -2279,209 +2423,5 @@ They said that the US embassy in Colombo has taken the move on a travel suggesti
 [Data](articles/7ca99b66.json)
 
 [Extended Data](ext_articles/7ca99b66.ext.json)
-
----
-
-### Johnston arrested
-
-*2024-10-23 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202465) · `si`
-
-Johnston Fernando arrested over BMW discovery case. Former MP failed to appear in court, warrant issued.
-
-🟩
-
-Former Parliamentarian Johnston Fernando had come to the CID this morning.
-
-The investigations into the discovery of a BMW car have been found in the Hilton Hotel's car parks.
-
-Former Minister Johnston Fernando had informed the Court of Appeal by his lawyer yesterday (22).
-
-Meanwhile, the Colombo High Court today issued a warrant to arrest former minister Johnston Fernando as he did not appeal to a case filed by the Bribery Commission.
-
-Johnston Fernando did not appear before the court when the case was taken up before Colombo High Court Judge Manjula Tilakaratne.
-
-◼️
-
-[Data](articles/f6076fd2.json)
-
-[Extended Data](ext_articles/f6076fd2.ext.json)
-
----
-
-### A warning of the Russian Embassy
-
-*2024-10-23 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202464) · `si`
-
-Warning from Russian Embassy: Avoid areas near LTTE attacks. Sri Lanka Police alert issued. British High Commission updates. US Embassy advises caution due to potential threats in Arugambay region.
-
-🟩
-
-The Russian Embassy in Colombo has been announced by the Russian nationals in Sri Lanka.
-
-Russian had informed Russian and informed Russian to avoid being attentive and treated.
-
-The Sri Lanka Police have issued an official announcement that the foreign nationals have been at risk of an attack on the LTTE in Aruugambay, the Russian embassy in Colombo says.
-
-Meanwhile, the British High Commission in Sri Lanka has also been updated to Sri Lanka.
-
-They have said that the US embassy in Colombo was based on the tourism consultation issued by the tourism center in Arugambay area.
-
-◼️
-
-[Data](articles/641ecd52.json)
-
-[Extended Data](ext_articles/641ecd52.ext.json)
-
----
-
-### US Ambassador visited the north
-
-*2024-10-23 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196908) · `ta`
-
-US Ambassador visits Jaffna, Mannar, Vavuniya to strengthen US-Sri Lanka ties. Highlights cultural heritage at Nakuleswaram Temple. Emphasizes US support for Sri Lanka's diversity and development challenges.
-
-🟩
-
-I have visited Jaffna, Mannar and Vavuniya in the North to highlight the US -Sri Lankan alliances and have a favorable impact.
-
-I made his first trip to the Nakuleswaram Temple, one of the most important places in the Sri Lankans in the North and South, the Varalathu Kirimalai Nakuleswaram Temple in Jaffna.
-
-The United States is proud to support the protection of such cultural identities, reflecting the commitment to Sri Lanka's diversity.
-
-"We are eagerly awaiting the challenges faced by the people here during this visit and how the US can continue to help with their progress."
-
-◼️
-
-[Data](articles/7c18302b.json)
-
-[Extended Data](ext_articles/7c18302b.ext.json)
-
----
-
-### Rehan warns the Israelites who are engaged in the occupation of the nearby neighborhood
-
-*2024-10-23 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196914) · `ta`
-
-Sri Lanka faces security threat due to Israeli tourists' illegal activities. Former mayor Rehan Jayawickrama calls for immediate action, urging authorities to address the issue before it escalates further.
-
-🟩
-
-Former Weligama's former mayor and United People's Power candidate Rehan Jayawickrama has called for immediate action to stop Israeli tourists in Sri Lanka.
-
-Commenting on the US warning on a security threat in nearby, Sri Lanka is currently facing a serious security threat, which said the country's efforts for the recovery of tourism could be affected.
-
-In the social media post, he said that the illegal activities of Israel's tourists continues to continue.
-
-He said the government had neglected it, despite repeated requests that the government should find a solution to this.
-
-He has asked the authorities to find an emergency on the issue and said that if we continue to ignore the warnings, the reactions may be worse than we expect.
-
-"I want to convey one thing to the Israelites that are confusing, and you cannot illegally occupy our soil, as did the rest of the world, you cannot engage in illegal trade activities, and we cannot destroy the opportunities of others.Rehan Jayawickrama said.
-
-◼️
-
-[Data](articles/a1ae48c7.json)
-
-[Extended Data](ext_articles/a1ae48c7.ext.json)
-
----
-
-### Train engines stolen diceel
-
-*2024-10-23 14:07:00* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-එංජිමෙන්-ඩිසල්-සොරකම්-කරලා/11-412631) · `si`
-
-Train engines stolen: 60 liters diesel missing from Anuradhapura Railway Station. Investigation underway involving railway officials and police.
-
-🟩
-
-Investigations have commenced in an investigation into the stolen of 60 liters of the engine, which had been investigated by the North railway line from the northern railway line.
-
-The train was arrived at the Anuradhapura Railway Station three days ago and parked on the third platform.
-
-Despite the timetables to leave again, even though this train arrives again,
-
-It has revealed that the robbery had revealed the robbery when it took action to travel the next day.
-
-According to information received by two liters of diesel, two liters of diesel, was in line with a tip in a playground to Anuradhapura railway station, police said that it was brought to the police as cases
-
-Police said that a team of police officers investigate a suspect that a railway secretary has been involved in the diesel roof.
-
-◼️
-
-[Data](articles/e4c7d6c4.json)
-
-[Extended Data](ext_articles/e4c7d6c4.ext.json)
-
----
-
-### The only opposition is the exangeration power - But
-
-*2024-10-23 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202463) · `si`
-
-Dilith Jayaweera claims only opposition remains in Sri Lankan politics. He emphasizes bravery and explains importance to democracy and governance. Meanwhile, appointments made in Matara district: Lakshmi Kodituwakku as National Trade Union Handrich, Prasanna Rasinghe as Digital Media Coordinator.
-
-🟩
-
-The Leader of the Leader Dilith Jayaweera says that the only opposition is the only opposition in Sri Lankan politics.
-
-He was speaking at the United Representatives of the Matara district today at the same time (23).
-
-"We have only the only opposition left in the earth today. That's why we say we are a brave opposition. We need to explain these earth to the people and explain to the people and make that effect on democracy. Do this effect to show the right orientation to the government and to move to a parliament that is fulfilled in this country. "
-
-Meanwhile, a group of representatives of the Matara district participated in the oronoon power today.
-
-According to Mr. AH Nattikumara, the Matara District Organizer and Lakshmi Kodituwakku has been appointed as the National Trade Union Handrich.
-
-Mr. H.A.Punhthi was also known as the Pitchgamuwa Divisional Organizing and Volunteer Organization and Volunteers of the Matara District.
-
-...
-
-[Data](articles/3ff8ca32.json)
-
-[Extended Data](ext_articles/3ff8ca32.ext.json)
-
----
-
-### Russians Embassy alerts citizens in Sri Lanka over threat of attacks in Arugam Bay
-
-*2024-10-23 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102877/russians-embassy-alerts-citizens-in-sri-lanka-over-threat-of-attacks-in-arugam-bay) · `en`
-
-In connection with the official statement by Sri Lanka Police regarding the possible threat of attacks against foreign tourists in Arugam Bay, the Russian Embassy in Colombo has requested Russian citizens in Sri Lanka to remain vigilant and to avoid large gatherings.
-
-Meanwhile, the United Kingdom (UK) had also updated its travel advice for Sri Lanka based on the latest travel alert issued by the U.S. Embassy regarding potential threats in the Arugam Bay area.
-
-The U.S. Embassy in Colombo also today issued a security alert for American citizens in Sri Lanka strongly advising them to avoid the Arugam Bay area until further notice, citing credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.
-
-The Embassy says it has received credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.
-
-...
-
-[Data](articles/6e8d5b12.json)
-
-[Extended Data](ext_articles/6e8d5b12.ext.json)
-
----
-
-### Israel says it killed Nasrallah’s heir apparent
-
-*2024-10-23 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102876/israel-says-it-killed-nasrallahs-heir-apparent) · `en`
-
-The Israeli military say they killed the cleric tipped to succeed the late Hezbollah leader, Hassan Nasrallah, in an air strike nearly three weeks ago.
-
-Hashem Safieddine died in air strikes on the southern suburbs of the Lebanese capital, Beirut, according to the Israel Defense Forces (IDF).
-
-Hezbollah, a powerful Lebanese Shia Muslim organisation fighting Israel, has not confirmed Safieddine’s death.
-
-Its previous leader, Nasrallah, was killed by an Israeli air strike on Beirut on 27 September.
-
-After air strikes near the city’s airport on 4 October, Hezbollah officials said they had lost contact with Safieddine, while US media cited Israeli officials as saying the cleric had been the target of the bombing.
-
-Huge blasts shook the city that night, leaving plumes of smoke that could still be seen into the morning.
-
-...
-
-[Data](articles/742c56be.json)
-
-[Extended Data](ext_articles/742c56be.ext.json)
 
 ---

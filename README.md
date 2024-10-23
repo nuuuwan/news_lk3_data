@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 20:39:41**
+As of **2024-10-23 20:58:53**
 
 ## Newspaper Stats
 
-*Scraped **50,991** Articles*
+*Scraped **50,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,474
 dailymirrorlk | 4,733
 adalk | 4,744
 adaderanalk | 6,048
-tamilmirrorlk | 7,020
+tamilmirrorlk | 7,021
 virakesarilk | 8,172
 adaderanasinhalalk | 8,854
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,991 (100.0%) of 50,991 articles have been extended.
+50,992 (100.0%) of 50,992 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,28 @@ The internal affairs of the Turkey said that the attack had been carried out nea
 [Data](articles/c069f9f3.json)
 
 [Extended Data](ext_articles/c069f9f3.ext.json)
+
+---
+
+### Drone that fell on the power plant
+
+*2024-10-23 20:06:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-உற்பத்தி-நிலையத்தின்-மீது-விழுந்த-ட்ரோன்/175-345937) · `ta`
+
+Drone crashes at Lakwijaya Power Plant. Air Force investigates incident. Unmanned aerial vehicle captures facility images.
+
+🟩
+
+A drone camera flew this afternoon on the Lakwijaya Power Plant has fallen on the power plant.
+
+A senior police officer in Puttam said that the Air Force and other security forces have launched an investigation into the matter.
+
+Security sources said that photos of the Lakwijaya power plant have been taken by the camera of the unmanned aircraft.
+
+◼️
+
+[Data](articles/483ceb30.json)
+
+[Extended Data](ext_articles/483ceb30.ext.json)
 
 ---
 
@@ -2441,35 +2463,5 @@ However, it is noteworthy that the Hizbullah movement has not yet confirmed this
 [Data](articles/b0960856.json)
 
 [Extended Data](ext_articles/b0960856.ext.json)
-
----
-
-### Problem
-
-*2024-10-23 11:31:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிதவைப்-பிணை-எடுத்தவர்களுக்கு-சிக்கல்/175-345913) · `ta`
-
-Colombo High Court sentences Rajitha Asantha under Prevention of Money Laundering Act for failing to disclose 10 million assets from heroin trafficking. Tushara Indrajit, Aila Fernando, Mohamed Igram charged Rs 3 million each for failing to produce accused in court.
-
-🟩
-
-The Colombo High Court has sentenced Rajitha Asantha, who is not attending a court hearing, has been fined Rs.
-
-Rajitha Asantha has been charged under the Prevention of Money Laundering Act for failing to make public about 10 million assets and property earned by heroin trafficking.
-
-When the accused was produced before the court, Tushara Indrajit, Aila Fernando and Mohamed Igram were present on bail for the accused.
-
-It was reported in court that all three had signed up to 10 million worth of bail.
-
-However, the defendant did not attend his trial, and the three bodybuilders were summoned to court.
-
-During a recent court hearing, the Colombo High Court judge pointed out that if a suspect or accused, if a person appears on bail, is obliged to appear in court.
-
-As the trio failed to produce the culprits in court, each of them was charged with Rs 3 million and a total of Rs.
-
-◼️
-
-[Data](articles/1720d9ff.json)
-
-[Extended Data](ext_articles/1720d9ff.ext.json)
 
 ---

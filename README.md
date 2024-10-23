@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 21:23:45**
+As of **2024-10-23 21:39:59**
 
 ## Newspaper Stats
 
-*Scraped **50,996** Articles*
+*Scraped **50,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,030
 economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
-adalk | 4,745
+adalk | 4,746
 adaderanalk | 6,049
 tamilmirrorlk | 7,022
 virakesarilk | 8,173
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,996 (100.0%) of 50,996 articles have been extended.
+50,997 (100.0%) of 50,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -343,6 +343,34 @@ He has played 68 wickets in 60 first T20 matches and scored 1352 runs. The other
 [Data](articles/3c45b649.json)
 
 [Extended Data](ext_articles/3c45b649.ext.json)
+
+---
+
+### Norochcholay kills Lakvijaya Power Plant
+
+*2024-10-23 19:08:46* · [`adalk`](https://www.ada.lk/breaking_news/ඩ්‍රෝන-කැමරාවක්-නොරෝච්චෝල-ලක්විජය-බලාගාරයට-කඩා-වැටිලා/11-412644) · `si`
+
+Drone camera captures Lakvijaya Power Plant footage. Security forces investigate illegal activity. High-ranking police protect facility after incident.
+
+🟩
+
+A veteran and other security personnel have commenced a special investigation with the drone and the other security forces with a drone camera flying over the Lakvijaya Power Plant from Noroichchuwa.
+
+The drone camera was flying over 23 days, the security forces that the Lakvijaya Power Plant was flying over the Lakvijaya Power Plant, security sources said.
+
+The security forces say that the drone camera has taken a photograph of Lakvijaya Power Plant.
+
+However, it is an illegal activities that the drone lounge the plant in the upheaval plant is an illegal.
+
+A special investigation has been launched to find out what the drone camera has taken on the way.
+
+With the incident, the high-ranking police officers go to power plant in the protection of the power plant.
+
+◼️
+
+[Data](articles/a431b4b7.json)
+
+[Extended Data](ext_articles/a431b4b7.ext.json)
 
 ---
 
@@ -2419,27 +2447,5 @@ He further emphasized that no intelligence reports have been received regarding 
 [Data](articles/9a3dd7c8.json)
 
 [Extended Data](ext_articles/9a3dd7c8.ext.json)
-
----
-
-### Announcement on the Days Distribution of Official Elections
-
-*2024-10-23 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202457) · `si`
-
-Sri Lanka Election Commission announcement: Ballot distribution Oct 27- Nov. 1. 738,050 postal votes issued, 759,210 applied, 21,160 rejected.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake says that official ballot papers regarding the general election will be treated on October 27 and November.
-
-Speaking to the media today, he said he was handed over to the appointment of the postal elections to be held on the date of hand.
-
-"The issuance of postal ballots related to the general election is taking matters at District Secretariats today. 759,210 applications of total postal voters. 21,160 rejected. Postal ballot issues will be held for 738,050. This will be seen in the last presidential election. "
-
-◼️
-
-[Data](articles/fee8c27a.json)
-
-[Extended Data](ext_articles/fee8c27a.ext.json)
 
 ---

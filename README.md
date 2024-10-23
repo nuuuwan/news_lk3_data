@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 06:44:50**
+As of **2024-10-23 07:26:39**
 
 ## Newspaper Stats
 
-*Scraped **50,818** Articles*
+*Scraped **50,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,86 @@ dbsjeyarajcom | 409
 colombotelegraphcom | 509
 bbccomsinhala | 513
 islandlk | 3,030
-economynextcom | 3,106
+economynextcom | 3,108
 dailyftlk | 3,466
 adalk | 4,720
 dailymirrorlk | 4,733
 adaderanalk | 6,020
-tamilmirrorlk | 6,986
+tamilmirrorlk | 6,987
 virakesarilk | 8,148
-adaderanasinhalalk | 8,815
+adaderanasinhalalk | 8,816
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,805 (100.0%) of 50,818 articles have been extended.
+50,809 (100.0%) of 50,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Showers over 75mm
+
+*2024-10-23 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202444) · `si`
+
+Heavy rainfall warning: Showers >75mm expected in Western, Sabaragamuwa, Southern, North Western & Northern provinces. Thunderstorms possible in evening/night across Sri Lanka. Public advised to prepare for strong winds & lightning.
+
+🟩
+
+Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, Southern, North Western and Northern provinces.
+
+Department of Meteorologicals to some places in the Western, Sabaragamuwa, South and Northern provinces. Heavy rains can be ranked over 75.
+
+Thundershowers will occur at several places in the evening or night in the rest of the island.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/98b0fa1f.json)
+
+[Extended Data](ext_articles/98b0fa1f.ext.json)
+
+---
+
+### Controversial Easter Sunday committee clears Sri Lanka Ex-President
+
+*2024-10-23 06:23:00* · [`economynextcom`](https://economynext.com/controversial-easter-sunday-committee-clears-sri-lanka-ex-president-184473/) · `en`
+
+ECONOMYNEXT – A committee appointed to investigate lapses by criminal investigators and intelligence agencies leading to the Easter Sunday bombings has made a bombshell finding, clearing then-president Maithripala Sirisena of negligence.
+
+The report of the three-member panel, headed by retired High Court judge Aadambaragay Nilanthi Jayaki de Alwis, disagreed with a five-judge panel of the Supreme Court that fined Sirisena 100 million rupees for failing to prevent the bombing on April 21, 2019.
+
+The main reason for the Supreme Court finding Sirisena responsible was the assertion that he had been made aware of a prior intelligence warning of the attack, which killed 280 and wounded 500.
+
+An Indian intelligence agency had provided details of the impending attack.
+
+...
+
+[Data](articles/8eedbb1f.json)
+
+[Extended Data](ext_articles/8eedbb1f.ext.json)
+
+---
+
+### IMF flags risks to global economy from elections and policy shifts
+
+*2024-10-23 06:16:00* · [`economynextcom`](https://economynext.com/imf-flags-risks-to-global-economy-from-elections-and-policy-shifts-184468/) · `en`
+
+ECONOMYNEXT – The level of uncertainty surrounding the global economic outlook remains elevated as change in governments could bring about significant shifts in trade and fiscal policy, the International Monetary Fund (IMF) said in its latest World Economic Outlook (WEO) report.
+
+The report titled ‘Policy Pivot, Rising Threats’ noted that nearly half of the world’s population has already gone or is expected to go to the polls this year, underscoring the potential for political transitions to reshape economic policies.
+
+“The potential for significant swings in economic policy as a result of elections this year, with negative spillovers to the rest of the world, has increased the uncertainty around the baseline.” the report released on October 22, said.
+
+...
+
+[Data](articles/1e5533f4.json)
+
+[Extended Data](ext_articles/1e5533f4.ext.json)
+
+---
 
 ### Relevance of neutral foreign policy
 
@@ -73,6 +135,8 @@ The recent election in Sri Lanka was a significant turning point, as a new leade
 ...
 
 [Data](articles/6d336395.json)
+
+[Extended Data](ext_articles/6d336395.ext.json)
 
 ---
 
@@ -137,6 +201,26 @@ The incident took place in September 2022, when the SYU organised a protest agai
 [Data](articles/4e216096.json)
 
 [Extended Data](ext_articles/4e216096.ext.json)
+
+---
+
+### 21/4 விவகார அறிக்கைகள் குறித்து ஆராய்வு
+
+*2024-10-23 04:05:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-விவகார-அறிக்கைகள்-குறித்து-ஆராய்வு/175-345894) · `ta`
+
+முன்னாள் பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில வெளியிட்டுள்ள அறிக்கைகள் உட்பட உயிர்த்த ஞாயிறு தாக்குதல் விசாரணை அறிக்கைகள் குறித்து அரசாங்கம் முழுமையான விசாரணைகளை ஆரம்பித்துள்ளதாக அமைச்சரவை பேச்சாளர் விஜித ஹேரத்  தெரிவித்துள்ளார்.
+
+இரண்டு அறிக்கைகளும் அரசியல் நோக்கத்துடனேயே வெளியிடப்பட்டுள்ளதாக  குறிப்பிட்டுள்ள அவர், அரசாங்கம் ஏற்கனவே விசாரணைகளை ஆரம்பித்துள்ளது. விசாரணைகள் பூர்த்தியான பின்னர் உரிய நடவடிக்கைகள் எடுக்கப்படும் என்றார்.
+
+இதற்காக புதிய ஜனாதிபதி ஆணைக்குழுவை நியமிக்கவேண்டுமா என்பது குறித்து இன்னமும் தீர்மானிக்கவில்லை.எனினும் விசாரணைகளின் பின்னர் இது குறித்து தீர்மானிக்கப்படும்.
+
+2019 இல் நியமிக்கப்பட்ட ஜனாதிபதி ஆணைக்குழுவும், உயர்நீதிமன்றமும் இரண்டு சிஐடி உத்தியோகத்தர்கள் மீது எந்த குற்றச்சாட்டையும் சுமத்தவில்லை.
+
+உயர்நீதிமன்றமும் ஆணைக்குழுவும் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன உட்பட பல அரசாங்க அதிகாரிகள் தாக்குதலை தடுக்க தவறியமையால் குற்றவாளிகள் என தெரிவித்திருந்தது. உரிய புலனாய்வு தகவல்கள் கிடைத்த போதிலும் அவர்கள் அதனை தடுத்து நிறுத்த தவறினார்கள் என நீதிமன்றம் தெரிவித்திருந்தது.
+
+...
+
+[Data](articles/a46fb011.json)
 
 ---
 
@@ -2323,89 +2407,5 @@ The minister said the committee was already expected to submit its report on Sep
 [Data](articles/4b39c236.json)
 
 [Extended Data](ext_articles/4b39c236.ext.json)
-
----
-
-### 78-year-old ex-President's prison for 20 years
-
-*2024-10-22 12:15:16* · [`adalk`](https://www.ada.lk/breaking_news/78-හැවිරිදි-හිටපු-ජනපතිට-වසර-20ක-සිර-ඳඩුවමක්/11-412607) · `si`
-
-Alejandro Toledo, former Peruvian president, sentenced to 20 years and 6 months for bribery related to a $35 million payment from a Brazilian construction company for a contract.
-
-🟩
-
-Former President of Peru (2001-2006) Alejandro Toledo has been sentenced to 20 years and a six-month head of hearing.
-
-A Brazil Construction Company to obtain a bribe of $ 35 million from a Brazil Construction Company for a contract for the construction of a Peru-Termination.
-
-◼️
-
-[Data](articles/dfe82362.json)
-
-[Extended Data](ext_articles/dfe82362.ext.json)
-
----
-
-### “They will not be sacked for anything”
-
-*2024-10-22 12:08:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதற்காகவும்-பதவியிலிருந்து-நீக்கப்பட-மாட்டார்கள்/175-345839) · `ta`
-
-Minister Vijitha Herath defends officials: "They will not be sacked" due to lack of evidence. Government denies pressure from Presidential Commission or Parliament. Claims Supreme Court didn't find them guilty in Easter Sunday bombing case. Promises action only if officials found guilty after thorough investigation.
-
-🟩
-
-Minister Vijitha Herath today said that the Secretary of the Ministry of Public Security, Ravi Senaviratne, and the Director of the Criminal Investigation Division of the Criminal Investigation Division, former Director of the Criminal Investigation Division and SSP Shanni Abeysekera will not be sacked for the reason.
-
-At a weekly media briefing announcing the Cabinet decisions, he said that those who have been forced to sack the two officers are doing this with signatures and that the government will not submit such efforts.
-
-Responding to a question whether the government would remove the two officials before the new hearing, the Minister said that the Presidential Commission or Parliamentary Committee headed by High Court Judge Janak de Silva was not responsible for the Sunday bombing of Shanani Abeysekera.
-
-...
-
-[Data](articles/40d792de.json)
-
-[Extended Data](ext_articles/40d792de.ext.json)
-
----
-
-### Johnston to record statement at CID over luxury car found at hotel
-
-*2024-10-22 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102848/johnston-to-record-statement-at-cid-over-luxury-car-found-at-hotel-) · `en`
-
-Former Minister Johnston Fernando’s attorneys have informed the Court of Appeal that he will appear before the CID tomorrow to provide a statement regarding the unregistered luxury car allegedly belonging to him, which was found parked at a star-class hotel in Colombo.
-
-A petition filed by former MP Johnston Fernando seeking an order to prevent his arrest over the incident was taken up for consideration today (22).
-
-During this, his attorneys informed the court that Fernando is prepared to appear before the Criminal Investigation Department tomorrow to provide a statement regarding the incident.
-
-The court subsequently ordered the petition to be called again on October 25.
-
-◼️
-
-[Data](articles/25c7a3bd.json)
-
-[Extended Data](ext_articles/25c7a3bd.ext.json)
-
----
-
-### Johnston is ready to give a statement under the CID
-
-*2024-10-22 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202426) · `si`
-
-Former Minister Johnston Fernando agrees to give statement to Criminal Investigation Department tomorrow, as per court order requested in his petition.
-
-🟩
-
-Former Minister Johnston Fernando has informed the Court of Appeal today (23) to provide a statement from the Criminal Investigation Department tomorrow (23).
-
-A petition filed by Mr. Johnston Fernando called for the issue of an order to issue an order in the incident.
-
-Johnston Fernando informed the court through his lawyer to give a statement from the Criminal Investigation Division of the Criminal Investigation Department tomorrow.
-
-◼️
-
-[Data](articles/3e186afb.json)
-
-[Extended Data](ext_articles/3e186afb.ext.json)
 
 ---

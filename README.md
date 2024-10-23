@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 09:59:02**
+As of **2024-10-23 10:12:25**
 
 ## Newspaper Stats
 
-*Scraped **50,852** Articles*
+*Scraped **50,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ bbccomsinhala | 514
 islandlk | 3,030
 economynextcom | 3,108
 dailyftlk | 3,474
-adalk | 4,722
+adalk | 4,724
 dailymirrorlk | 4,733
 adaderanalk | 6,027
 tamilmirrorlk | 6,991
 virakesarilk | 8,148
-adaderanasinhalalk | 8,823
+adaderanasinhalalk | 8,824
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,851 (100.0%) of 50,852 articles have been extended.
+50,855 (100.0%) of 50,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### The US embassy warns that Arugam Bay area can attack
+
+*2024-10-23 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202453) · `si`
+
+US Embassy warning: Avoid Arugam Bay due to potential attacks. American citizens advised not to return to this coastal region.
+
+🟩
+
+The US embassy warns that Arugam Bay area can attack
+
+US citizens have warned the American embassy in Colombo to avoid returning to the Arugam Bay area.
+
+◼️
+
+[Data](articles/cb188894.json)
+
+[Extended Data](ext_articles/cb188894.ext.json)
+
+---
+
+### Johnston Fernando CID. Under the
+
+*2024-10-23 09:39:44* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්-ප්‍රනාන්දු-සී-අයි-ඩී--යට/11-412622) · `si`
+
+Former MP Johnston Fernando visits CID to make a statement about his involvement in a case under investigation in Colombo.
+
+🟩
+
+Former Parliamentarian Johnston Fernando has arrived in the Criminal Investigation Department to provide a statement.
+
+He has come to a statement regarding the investigation into the investigation into the discovery of him in Colombo.
+
+◼️
+
+[Data](articles/9e0db1c5.json)
+
+[Extended Data](ext_articles/9e0db1c5.ext.json)
+
+---
 
 ### Former minister Johnston Fernando arrives at CID
 
@@ -143,6 +183,32 @@ A male student has reportedly fallen to his death from an upper floor of the C.W
 [Data](articles/21469c94.json)
 
 [Extended Data](ext_articles/21469c94.ext.json)
+
+---
+
+### Ready to take the responsibility of the opposition
+
+*2024-10-23 08:52:21* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂයේ-වගකීම-ගන්න-සූදානම්/11-412620) · `si`
+
+Opposition leader Roshan Ranasinghe vows to take responsibility for the country. He emphasizes readiness to govern without waiting for the current administration's collapse. Ranasinghe highlights the opposition's expertise in entrepreneurship and its alignment with the people. He criticizes corruption and calls for leadership against the incumbent government.
+
+🟩
+
+Kalutara District Leader Roshan Ranasinghe said that the Almighty is ready to take responsibility for the people of the country.. He was speaking at the media in Panadura yesterday afternoon.
+
+Speaking further Mr. Herath said,. "We do not act as a traditional opposition. The government is ready to take over the people of the country. We are not a group that runs.
+
+We're not waiting for this government to collapse. But if we can't do, we are ready to accept the country as the country falls
+
+We are good, expertise, entrepreneurs have been presented to the country. The people of the country are aligned by the opposition alive to the party.
+
+This country cannot be made with relief. The national propagation does not matter. Ten more to this government and send corrupt people home. Now the people are sitting on the people.
+
+...
+
+[Data](articles/7f2746ea.json)
+
+[Extended Data](ext_articles/7f2746ea.ext.json)
 
 ---
 
@@ -2285,67 +2351,5 @@ The scenes described in the life, relations and relationships of the prison in p
 [Data](articles/d2cc8ff4.json)
 
 [Extended Data](ext_articles/d2cc8ff4.ext.json)
-
----
-
-### Ex-President Ranil named as respondent in two FR petition
-
-*2024-10-22 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102855/ex-president-ranil-named-as-respondent-in-two-fr-petition) · `en`
-
-The Supreme Court has granted permission to name former President Ranil Wickremesinghe as a respondent in Fundamental Rights (FR) petitions filed regarding the alleged police attack and dispersing of a protest organized by the Socialist Youth Union (SYU) in 2022.
-
-The permission was granted by the court after considering a request made by attorneys of the petitioning party when two petitions filed by a group of members of the SYU were taken up for consideration today (22).
-
-◼️
-
-[Data](articles/4d0e4b18.json)
-
-[Extended Data](ext_articles/4d0e4b18.ext.json)
-
----
-
-### New DGs appointed to Coast Conservation Dept. and Central Cultural Fund
-
-*2024-10-22 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102854/new-dgs-appointed-to-coast-conservation-dept-and-central-cultural-fund) · `en`
-
-The Cabinet of Ministers has granted approval to appoint Rear Admiral Y.R. Serasinghe as the new Director General of the Sri Lanka Coast Conservation Department.
-
-Rear Admiral Pujitha Vithana, who had served as the Director General of Sri Lanka Coast Conservation Department, retired from the service on September 13, 2024 after the completion of 55 years of service.
-
-Accordingly, the Cabinet of Ministers has approved the proposal presented by the President, in his capacity as the Minister of Defense, to appoint Rear Admiral Y.R. Serasinghe to the said post of Director General of the Sri Lanka Coast Conservation Department.
-
-Serasinghe is serving as a Deputy Director General of the Department of Coast Conservation at present.
-
-Meanwhile, the Cabinet of Ministers has also granted approval to appoint Dr. T.M.J. Nilan Cooray to the post of Director General of the Central Cultural Fund (CCF) on a contract basis.
-
-...
-
-[Data](articles/42750398.json)
-
-[Extended Data](ext_articles/42750398.ext.json)
-
----
-
-### Sri Lanka stocks close down amidst some profit taking
-
-*2024-10-22 16:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amidst-some-profit-taking-184411/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed on mixed sentiments on Tuesday, with the All Share Index down and the S&P SL20 up.
-
-The broader ASPI closed down 0.08 percent, or 9.31 points, at 12,300; while the more liquid S&P SL20 Index closed up 0.11 percent, or 4.05 points, at 3,628.
-
-This could be due to some profit taking, market participants said.
-
-Top positive contributors to the ASPI were John Keells Holdings (up at 199.00), Lion Brewery (up at 1,060), Sampath Bank (up at 82.90), Hatton National Bank (up at 215.75), and Central Finance (up at 120.00).
-
-Top turnover generators were JKH, Hikkaduwa Beach Resort (Citrus) (down at 3.50), Sampath Bank, Hela Apparel (flat at 7.20) and Melstacorp (flat at 90.00).
-
-Foreign buying was seen on JKH, Commercial Bank voting (down at 108.25), Sampath Bank, Convenience Foods (Lankasoy) (down at 730.25), Richar Pieris and Co (down at 21.80) and Windforce (flat at 20.50).
-
-...
-
-[Data](articles/c342702b.json)
-
-[Extended Data](ext_articles/c342702b.ext.json)
 
 ---

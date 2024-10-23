@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 22:15:10**
+As of **2024-10-23 22:26:23**
 
 ## Newspaper Stats
 
-*Scraped **50,998** Articles*
+*Scraped **51,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,130 @@ economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
 adalk | 4,746
-adaderanalk | 6,049
+adaderanalk | 6,050
 tamilmirrorlk | 7,022
-virakesarilk | 8,173
-adaderanasinhalalk | 8,855
+virakesarilk | 8,174
+adaderanasinhalalk | 8,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,998 (100.0%) of 50,998 articles have been extended.
+51,002 (100.0%) of 51,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Notification for Sri Lankans in Lebanon
+
+*2024-10-23 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202486) · `si`
+
+Sri Lanka's embassy in Lebanon warns Sri Lankans due to military changes. Priority evacuation based on registration. Air strikes cause concern. Embassy alerts for emergencies.
+
+🟩
+
+Sri Lanka's embassy in Lebanon says that the militarism of Lebanon is gradually changing, Sri Lankan embassy in Lebanon said.
+
+Sri Lanka's Embassy in Lebanon pointed out an announcement, if Sri Lankans living in Lebanon is some insecure to protect Sri Lanka's embassy for departure.
+
+You will describe how the priority will be given and departed on the basis of the registration.
+
+At the time the air strikes, the anti-air strikes are also known to be concerned about incorporation and to prevent unnecessary travels.
+
+If a Sri Lankan is an unexpected trouble, the Sri Lankan embassy is immediately aware.
+
+◼️
+
+[Data](articles/c8bfdefb.json)
+
+[Extended Data](ext_articles/c8bfdefb.ext.json)
+
+---
+
+### United National Alliance (UNP) chief candidate Aravindakumar
+
+*2024-10-23 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196955) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Aravindakumar leads UNP in Badulla district. Claims team untainted by allegations. Competes separately due to Tamil representation pressure. Seeks over 25,000 votes to retain Tamil seat. Urges community to vote responsibly.
+
+🟩
+
+Our team, the United National Alliance, is unprecedented. The organizers of our team, activists, affiliates and paddians are seen as an unbearable, unable to be blamed by all sides.
+
+Former diplomatic minister Arunachalam Aravindakumar said that although various allegations have been criticized against other parties and the candidates of those parties, there are no such allegations or criticism against me or our team.
+
+He said this while addressing the election campaign meeting held at the Bandarawela Nay Beta Estate.
+
+This time the parliamentary election is a very different and an election that our people can think and vote.
+
+It was on those reasons that we decided to think differently and compete separately.Although the decision was decided to contest separately, the decision was made under the guidance of supporters and intellectuals.
+
+...
+
+[Data](articles/fecca376.json)
+
+[Extended Data](ext_articles/fecca376.ext.json)
+
+---
+
+### Dilith says ‘Sarvajana Balaya’ is the only viable opposition
+
+*2024-10-23 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102889/dilith-says-sarvajana-balaya-is-the-only-viable-opposition) · `en`
+
+Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District candidate, entrepreneur Dilith Jayaweera says that the only opposition remaining in the country’s politics is the ‘Sarvajana Balaya’ alliance.
+
+He made this statement when a group of representatives of the United Republic Front from the Matara District joined the ‘Sarvajana Balaya’ alliance today (23).
+
+“Today, we have become the only opposition remaining country. That is why we say we are a brave opposition,” Dilith Jayaweera said.
+
+He also stated that he aims to clarify the existing political reality to the public and make the impact necessary for democracy. He further stated that it’s crucial to guide the government in the right direction that aligns with the people’s expectations and to work toward a parliament that can fulfil those needs.
+
+Meanwhile, a group of representatives from the United Republican Front in the Matara District joined ‘Sarvajana Balaya’ alliance today.
+
+...
+
+[Data](articles/bd04755d.json)
+
+[Extended Data](ext_articles/bd04755d.ext.json)
+
+---
+
+### BMW said to be Johnston
+
+*2024-10-23 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202485) · `si`
+
+Former Minister Johnston Fernando accused of possessing stolen BMW car. Car allegedly stolen in England in 2021. CID investigation ongoing.
+
+🟩
+
+It is said that the unregistered BMW type car of the former Minister Johnston Fernando was the robbery in England.
+
+Investigations have revealed that this was a car stolen from England in 2021 in the event of the International Police Database in the International Police.
+
+Former Minister Johnston Fernando was arrested in connection with the possession of a unregistered BMW car in Sri Lanka.
+
+The suspect was produced before the Colombo Fort Metetethrassera today afternoon.
+
+Former Minister Johnston Fernando was produced before the Fort Magistrate's Court after a statement for nearly four hours.
+
+The Investigation Department of the Criminal Investigation Department (CID) was investigated by former Minister Johnston Fernando as the main suspect in the case of the BMW car.
+
+Investigations officers further stated that the question of the question is used as a stolen portfolio of the vehicle.
+
+Investigations were revealed that this was a car stolen from England in 2021 in the international police data.
+
+...
+
+[Data](articles/e6ee57b9.json)
+
+[Extended Data](ext_articles/e6ee57b9.ext.json)
+
+---
 
 ### The bullet bullet boring for a young man hit a young man?
 
@@ -2355,111 +2465,5 @@ The court ordered that the petition was also taken to be summoned on March 18 to
 [Data](articles/ab7c347c.json)
 
 [Extended Data](ext_articles/ab7c347c.ext.json)
-
----
-
-### Israelis - the most of the Israelis - the building - the police spokesman
-
-*2024-10-23 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196901) · `ta`
-
-Sri Lanka police warn of potential attack on Israeli tourists in Augamkuda due to occupation of a building. Security forces deployed to check vehicles and public.
-
-🟩
-
-Police spokesman Nihal Duttuwa said the US may have warned that Sri Lanka could be attacked in the area because of the large number of tourists from Israeli and occupying a building in Arukamguda.
-
-Israelis who are touring Sri Lanka are most likely to go to Augamkuda. That area is their most worthy part, where they engage in swimming.
-
-We have recently received information that the tourists have occupied a building, and there is a threat to Israeli tourists in this area.
-
-As an initial measure, we have already set up streets and are engaged in checking vehicles and the public.
-
-Police, Special Task Force, Marines and State Department Department of State Investigation Department are engaged in security measures.
-
-◼️
-
-[Data](articles/464943b4.json)
-
-[Extended Data](ext_articles/464943b4.ext.json)
-
----
-
-### Sri Lanka’s People’s Leasing and Finance ‘A-(lka)’ rating confirmed by Fitch; Outlook Stable
-
-*2024-10-23 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-peoples-leasing-and-finance-a-lka-rating-confirmed-by-fitch-outlook-stable-184535/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has affirmed People’s Leasing & Finance’s (PLC) National Long-Term Rating at ‘A-(lka)’. The Outlook is Stable, the company said in a stock exchange filing.
-
-The rating reflects PLC’s financial strength as a large finance and leasing company (FLC) focusing on vehicle financing and other asset-backed loans, Fitch said.
-
-“A gradual easing in vehicle import bans may further underpin growth, albeit with some collateral value risk.”
-
-PLC’s franchise also benefits from the linkages with its parent, state-owned People’s Bank (A(lka)/Stable), the country’s second-largest bank, the rating agency said.
-
-Fitch noted that the operating environment for Sri Lanka’s finance and leasing companies (FLCs) continues to stabilise, with improving GDP growth.
-
-“We expect PLC’s core vehicle financing business to benefit from improving economic conditions and the potential liberalisation of vehicle imports.”
-
-Fitch Affirms People’s Leasing & Finance at ‘A- (lka)’; Outlook Stable
-
-...
-
-[Data](articles/df97cba7.json)
-
-[Extended Data](ext_articles/df97cba7.ext.json)
-
----
-
-### Sri Lanka rupee trades flat at 293.23/29 to US dollar, bond yields steady
-
-*2024-10-23 11:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-flat-at-293-23-29-to-us-dollar-bond-yields-steady-184504/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading at 293.23/29 to the US dollar on Wednesday, from 293.23/27 a day earlier, while bond yields were broadly steady dealers said.
-
-An auction of 125,000 million rupees of Treasury bills was ongoing.
-
-A bond maturing on 15.12.2027 was quoted at 11.35/45 percent, down from 11.40/55 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.71/75 percent, down from 11.75/80 percent.
-
-A bond maturing on 15.06.2029 was quoted at 11.90/12.00 percent.
-
-In equities, Colombo’s All Share Price Index was trading down 0.23 percent, or 28.00 points lower at 12,272, while the S&P SL20 of more liquid stocks was trading up 0.08 percent or 3 points higher at 3,631.
-
-◼️
-
-[Data](articles/efa35106.json)
-
-[Extended Data](ext_articles/efa35106.ext.json)
-
----
-
-### University flooring and crying to life
-
-*2024-10-23 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202458) · `si`
-
-Student dies in University of Kelaniya hostel after excessive alcohol consumption. Police investigation underway.
-
-🟩
-
-It has been revealed that the student who died of the hostel building at the University of Kelaniya has been excessively alcohol.
-
-Addressing a media briefing held at a media briefing held today (23), police spokesman, Nihal Talduuwa said that alcohol has been drunk from the university.
-
-The police spokesman said yesterday (22) a student had held a student's birthday.
-
-The student had then gone to the hostel, and the student had gone to his room in the fourth floor of the CWW Kannadanganara hostel.
-
-According to the police spokesman, the police spokesman said that the police have suspected that the student dies down from the window of the hostel room due to heavy drinking.
-
-The room is to be inspected by the Magistrate and the Government Analyst and the Judicial Medical Officer has been summoned.
-
-The deceased has been identified as a fourth year of the Faculty of Accountants of the University of Kelaniya and the Faculty of Accountants of the University of Kelaniya.
-
-...
-
-[Data](articles/7dc205e0.json)
-
-[Extended Data](ext_articles/7dc205e0.ext.json)
 
 ---

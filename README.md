@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 11:11:42**
+As of **2024-10-23 11:23:55**
 
 ## Newspaper Stats
 
-*Scraped **50,870** Articles*
+*Scraped **50,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,474
 adalk | 4,725
 dailymirrorlk | 4,733
 adaderanalk | 6,030
-tamilmirrorlk | 6,996
+tamilmirrorlk | 6,997
 virakesarilk | 8,152
 adaderanasinhalalk | 8,826
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 8,826
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,870 (100.0%) of 50,870 articles have been extended.
+50,871 (100.0%) of 50,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Special security for tourists
+
+*2024-10-23 10:59:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளுக்கு-விசேட-பாதுகாப்பு/175-345909) · `ta`
+
+Sri Lankan police launch special security program for foreign tourists due to global conflicts. Joint effort between police, intelligence, defense ministries. Tourists can now report security concerns via 1997 emergency hotline.
+
+🟩
+
+Sri Lankan police have said that steps have been taken to implement a special security program to ensure the safety of foreign tourists and ensure their safety.
+
+It is a joint responsibility to create a safe environment for tourists coming to Sri Lanka, police said.
+
+Accordingly, the Sri Lankan police and intelligence agencies have decided to prepare and implement a special protection program for the protection of foreign tourists, considering the prevailing conflicts in the Middle East and Eastern Europe.
+
+The program is being carried out in collaboration with the Ministry of Defense and the Ministry of Public Defense, police said.
+
+In response, the Police Tourism Unit will be strengthened as all the police stations will be given special instructions by the Inspector General of Police Priyantha Weerasuriya.
+
+From today, tourists can report the security issues of the Sri Lankan police on the emergency telephone number of 1997.
+
+◼️
+
+[Data](articles/13bd5b4d.json)
+
+[Extended Data](ext_articles/13bd5b4d.ext.json)
+
+---
 
 ### Diwali Previous;Senthil's action
 
@@ -2285,31 +2313,5 @@ Accordingly, it has been requested that such people be re -incorporated into the
 [Data](articles/86a485d0.json)
 
 [Extended Data](ext_articles/86a485d0.ext.json)
-
----
-
-### Sri Lankans in the United Arab Emirates
-
-*2024-10-22 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202434) · `si`
-
-Sri Lankan residents in UAE: Public season ends Oct 31, 2024. Exit certificates delayed. Temporary travel documents needed before Oct 25. Consulate assists visa-less Sri Lankans. Office committed to services during public season.
-
-🟩
-
-The public season of the United Arab Emirates is due to end on October 31, 2024, according to the Sri Lanka Consul General Office of Dubai.
-
-Therefore, as the UAE takes time to issue the exit certificate issued by the United Arab Emirates, Sri Lankans who do not have a valid passport or passport have been the temporary travel document that they want to go to Sri Lanka on or before the 25th of this month (TTD).Notice to come.
-
-During this public period, the Consulate's office has been committed to providing services to Sri Lankans who need assistance.
-
-Sri Lankans who stay in the United Arab Emirates have been prepared to be prepared for the United Arab Emirates without a valid visa without a valid visa.
-
-The Consul General's Office further requests the use of Sri Lankans who cannot be safely returned to Sri Lanka.
-
-◼️
-
-[Data](articles/86ae6757.json)
-
-[Extended Data](ext_articles/86ae6757.ext.json)
 
 ---

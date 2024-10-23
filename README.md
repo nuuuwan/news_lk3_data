@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 19:58:03**
+As of **2024-10-23 19:39:45**
 
 ## Newspaper Stats
 
-*Scraped **50,984** Articles*
+*Scraped **50,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,45 +16,21 @@ islandlk | 3,030
 economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
-adalk | 4,743
+adalk | 4,742
 adaderanalk | 6,048
 tamilmirrorlk | 7,020
 virakesarilk | 8,169
-adaderanasinhalalk | 8,851
+adaderanasinhalalk | 8,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,982 (100.0%) of 50,984 articles have been extended.
+50,982 (100.0%) of 50,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
-
-### ශ්‍රී ලංකාවට 190ක ඉලක්කයක්
-
-*2024-10-23 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202480) · `si`
-
-ලකුණු 58කට කඩුලු 8ක් දැවී ඉතා අසරණව සිටි බටහිර ඉන්දීය කොදෙව් ඉනිමට ශර්ෆෙන් රදර්ෆඩ් සහ ගුඩකේෂ් මෝතී ගේ සටන්කාමී ඉනිම් හේතුවෙන් ශක්තියක් ලැබුණි.
-
-රදර්ෆඩ් ලකුණු 80ක් ලබාගත් අතර මෝතී ලකුණු නොදැවී ලකුණු 50ක් රැස්කළේය.
-
-ඔවුන් දෙදෙනා 9 වැනි කඩුල්ල සඳහා රැස්කළ ලකුණු සංඛ්‍යාව 119කි.
-
-පන්දු යැවීමේ දී වනිඳු හසරංග ලකුණු 40කට කඩුලු 4ක් දවාගත් අතර මහීෂ් තීක්ෂණ සහ අසිත ප්‍රනාන්දු කඩුලු 3 බැගින් දවා ගත්තේය.
-
-තරග 3කින් සමන්විත මෙම තරගාවලියේ දෙවැනි එක්දින ජාත්‍යන්තර තරගය මේ වනවිට පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වෙයි.
-
-එහිදී කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා නායක චරිත් අසලංක, පළමුවෙන් පන්දුවට පහරදීමට සංචාරක කොදෙව් කණ්ඩායමට ආරාධනය කළේය.
-
-අද දහවල් ඇතිවූ වර්ෂාව හේතුවෙන් තරගය පන්දු ඕවර 44කට සීමා කිරීමට තරග බලධාරීන් තීරණය කළේය.
-
-◼️
-
-[Data](articles/1cda79a4.json)
-
----
 
 ### වංචනිකයන්ට දූෂිතයින්ට දඬුවම්දීම නාටකයක් නෙමෙයි - ජනපති
 
@@ -104,29 +80,9 @@ Deputy Solicitor General Rural de Silva, who appeared on behalf of the Electoral
 
 ---
 
-### ප්‍රහාරයක් ගැන තොරතුරු සති තුනක සිට දැනගෙන සිටියා
-
-*2024-10-23 18:36:17* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රහාරයක්-ගැන-තොරතුරු-සති-තුනක-සිට-දැනගෙන-සිටියා/11-412641) · `si`
-
-විදේශික ජාතිකයෙකුට යම්කිසි තර්ජනයක් ප්‍රහාරයක් එල්ල කරන්න සැලසුමක් හෝ කුමක් හෝ තිබෙනවා නම් ඒ සම්බන්ධයෙන් 1997  දැනුම් දෙන්න යයි වැඩ බලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා අද (23) සවස් වරුවේ පොළොන්නරුව ජේෂ්ඨ පොලිස් අධිකාරී කාර්යාල ශ්‍රවණාගාරයේදී  විශේෂ මාධ්‍ය හමුවක් කැඳවමින් පැවසිය.
-
-මේ අනුව දේශීය ජනතාවට නොව  විදේශිකයන් ඉලක්ක කරගෙන මෙම ප්‍රහාර එල්ල කිරීමටත් සැලසුම් කර ඇති බවත් දැනට ශ්‍රී ලංකාවේ ජාතික ආරක්ෂාව උපරිමය යොදවා ඇති බව වැඩ බලන පොලිස් ප්‍රතිවරයා හෙතෙම පැවසිය.
-
-"2023 ඔක්තෝම්බර් 7 මැද පෙරදිග යුද වාතාවරණය ආරම්භ වීමත් සමගම 2024 ඔක්තෝබර් අවසාන වන විට ත්‍රස්තවාදී කටයුතු සම්බන්ධයෙන් එහෙම නැත්නම් දෙපාර්ශ්වයම නැත්නම් විවිධාකාර පාර්ශවයන් ත්‍රස්තවාදී සටන් ක්‍රියාත්මක වී තිබුණා. ශ්‍රී ලංකාවටත් යම් කිසි සැකයක් ඇතිවේ යැයි නිසා බුද්ධි අංශ ආවෙක්ෂණ රාජකාරී කරපු නිසා ඔක්තෝබර් හත වන විට අපිට බුද්ධි තොරතුරු ලැබුණා යම්කිසි විදේශ ජාතිකයන් ඉලක්ක කරගෙන යම්කිසි ප්‍රහාරයක් එල්ල කරන්න සූදානම් කියා.
-
-...
-
-[Data](articles/9be46c44.json)
-
----
-
 ### ලංකාවේ සිටින ඊශ්‍රායෙල සංචාරකයන් එරටින් විශේෂ දැනුම් දීමක්
 
 *2024-10-23 18:28:12* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සිටින-ඊශ්‍රායෙල-සංචාරකයන්-එරටින්-විශේෂ-දැනුම්-දීමක්/11-412640) · `si`
-
-Sri Lanka: Israeli tourists warned due to terror threat. Israel National Security Council advises immediate evacuation from southern region. Threats unspecified but general warning issued for other areas.
-
-🟩
 
 ත්‍රස්තවාදී ප්‍රහාරයක් එල්ල වීමේ අවධානම හේතුවනේ හේතුවෙන් දැනට ශ්‍රී ලංකාවේ දකුණු කළාපයේ සංචාරවල නිරතවන ඊශ්‍රායෙල ජාතිකයන්ට එම  ප්‍රදේශවලින් වහාම ඉවත් වන ලෙස ඊශ්‍රායල ජාතික ආරක්ෂක කවුන්සිලය බදාදා ඊශ්‍රායල ජාතිකයන්ගෙන් ඉල්ලා සිටියේය.
 
@@ -2417,5 +2373,59 @@ It is reported that about 500 police officers and STF officers have been sent to
 [Data](articles/7fa0a95d.json)
 
 [Extended Data](ext_articles/7fa0a95d.ext.json)
+
+---
+
+### "Ranil's group is doubtful"
+
+*2024-10-23 11:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-குழு-சந்தேகத்திற்குரியது/175-345911) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Cardinal Ranjith questions motives behind committee investigating 2019 Easter bombings. Suspects political scapegoating of officials. Criticizes involvement of former minister Udaya Kammanpila.
+
+🟩
+
+Archbishop Cardinal Malcolm Ranjith has questioned what is behind the appointment of a committee headed by retired Justice ANJ Alwis, headed by retired Justice ANJ Alwis, to investigate the actions taken by the intelligence officials before the 2019 Easter Sunday bombing.
+
+The committee was appointed to investigate the activities of the previous intelligence service (SIS), the National Intelligence Agency (CNI) and other relevant authorities on the attack on the attack on April 21, 2019.
+
+Cardinal Ranjith said at a media briefing that Wickremesinghe's appointment of a new committee was "suspicious".
+
+We suspect that the former president has appointed a committee headed by Mrs. Alwis to make officials Shanani Abeysekera and Ravi Seneviratne politically scapegoat.
+
+Moreover, former minister Udaya Kammanpila seems to have joined the contract to divert an investigation into the Sunday bombings.
+
+...
+
+[Data](articles/71830583.json)
+
+[Extended Data](ext_articles/71830583.ext.json)
+
+---
+
+### Sri Lanka boosting tourist security amid Middle East war, police hotline 1997
+
+*2024-10-23 11:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-boosting-tourist-security-amid-middle-east-war-police-hotline-1997-184510/) · `en`
+
+ECONOMYNEXT – Sri Lanka is beefing up tourist security amid wars Middle East and Europe, police said as the US embassy warned of credible information on attacks in the Arugam Bay, an area where there has been a surge in Israeli tourists.
+
+The US Embassy said Wednesday that  received “credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.”
+
+Tourist industry sources say small areas have sprung with high concentration of Israeli visitors and establishments catering to them.
+
+RELATED US warns citizens off Sri Lanka’s Arugam Bay citing possible attack
+
+Israel has attacked the Gaza strip killing thousands of women and children drawing charges of genocide as it sought to eliminate the Hamas group that runs the area. A new front has also been opened in Lebanon, targeting the Hezbollah group, leading to more civilian deaths.
+
+Over the past year or more Sri Lanka has also seen an influx of Russian and Ukrainian tourists.
+
+...
+
+[Data](articles/a44bfdf2.json)
+
+[Extended Data](ext_articles/a44bfdf2.ext.json)
 
 ---

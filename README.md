@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 19:24:00**
+As of **2024-10-23 19:39:45**
 
 ## Newspaper Stats
 
-*Scraped **50,980** Articles*
+*Scraped **50,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 3,030
 economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
-adalk | 4,741
+adalk | 4,742
 adaderanalk | 6,048
 tamilmirrorlk | 7,020
 virakesarilk | 8,169
-adaderanasinhalalk | 8,849
+adaderanasinhalalk | 8,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,980 (100.0%) of 50,980 articles have been extended.
+50,982 (100.0%) of 50,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### වංචනිකයන්ට දූෂිතයින්ට දඬුවම්දීම නාටකයක් නෙමෙයි - ජනපති
+
+*2024-10-23 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202479) · `si`
+
+<PHIND_TIMEOUT>
+
+🟩
+
+President Anura Kumara Dissanayake says that it is not a vote on November 14 and is a great effort.
+
+ඔහු මේ බව පැවසුවේ පොළොන්නරුව ප්‍රදේශයේ අද (23) පැවති මැතිවරණ රැළිය අමතමිනි.
+
+මහා මැතිවරණය පැවැත්වෙන දිනය යනු ශ්‍රී ලංකා පාර්ලිමේතුන පිරිසිඳු කිරීමේ දිනය බව ජනාධිපතිවරයා පැවසීය.
+
+...
+
+[Data](articles/4f441c67.json)
+
+[Extended Data](ext_articles/4f441c67.ext.json)
+
+---
 
 ### Ashen's petition twenty
 
@@ -55,6 +77,24 @@ Deputy Solicitor General Rural de Silva, who appeared on behalf of the Electoral
 [Data](articles/71b7e22e.json)
 
 [Extended Data](ext_articles/71b7e22e.ext.json)
+
+---
+
+### ලංකාවේ සිටින ඊශ්‍රායෙල සංචාරකයන් එරටින් විශේෂ දැනුම් දීමක්
+
+*2024-10-23 18:28:12* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සිටින-ඊශ්‍රායෙල-සංචාරකයන්-එරටින්-විශේෂ-දැනුම්-දීමක්/11-412640) · `si`
+
+ත්‍රස්තවාදී ප්‍රහාරයක් එල්ල වීමේ අවධානම හේතුවනේ හේතුවෙන් දැනට ශ්‍රී ලංකාවේ දකුණු කළාපයේ සංචාරවල නිරතවන ඊශ්‍රායෙල ජාතිකයන්ට එම  ප්‍රදේශවලින් වහාම ඉවත් වන ලෙස ඊශ්‍රායල ජාතික ආරක්ෂක කවුන්සිලය බදාදා ඊශ්‍රායල ජාතිකයන්ගෙන් ඉල්ලා සිටියේය.
+
+මෙම අනතුරු ඇඟවීම ආරුගම් බොක්ක ප්‍රදේශයට සහ ශ්‍රී ලංකාවේ දකුණේ සහ බටහිර වෙරළ තීරයන්ට අදාළ ව බව එම කවුන්සිලය සඳහන් කර ඇතැයි රොයිටර්ස් පුවත් සේවය තොරතුරු වාර්තා කරයි.
+
+ආරක්ෂක කවුන්සිලය තර්ජනයේ නිශ්චිත ස්වභාවය නිශ්චිතව සඳහන් නොකළ අතර ශ්‍රී ලංකාවේ සෙසු ප්‍රදේශවල සිටින ඊශ්‍රායල ජාතිකයන්ට ප්‍රවේශම් වන ලෙසත් පොදු ස්ථානවල විශාල රැස්වීම් පැවැත්වෙන ස්ථානවලට යාමෙන් වළකින ලෙසත් ආරක්ෂක කවුන්සිලය ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/12e23a53.json)
+
+[Extended Data](ext_articles/12e23a53.ext.json)
 
 ---
 
@@ -140,11 +180,15 @@ The Defense Council discussed three weeks after the JANPL. It was advised. "
 
 *2024-10-23 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102887/acting-igp-assures-security-of-foreigners-in-sri-lanka) · `en`
 
-Acting Inspector General of Police (IGP) Priyantha Weerasooriya stated that the security of all foreigners in the country has been assured and that diplomatic missions have been informed.
+Sri Lanka’s Acting Inspector General of Police (IGP) Priyantha Weerasooriya stated that the security of all foreigners in the country has been assured and that diplomatic missions have been informed.
 
-He made these comments while addressing a special press conference at the Polonnaruwa SSP’s Office, regarding the security measures taken following information received warning of a possible attack targeting popular tourist locations in the Arugam Bay area.
+He made these comments while addressing a special press conference today (23) at the Polonnaruwa SSP’s Office, regarding the security measures taken following the information received warning of a possible attack targeting popular tourist locations in the Arugam Bay area.
 
-◼️
+“As there was a suspicion that there could also be a threat to Sri Lanka, the intelligence agencies did very good surveillance duties in that regard. We received intelligence regarding that by October 07.”
+
+The Acting IGP said that the possibility of attempts to carry out attacks targeting a specific nationality of tourists was discussed in the Security Council chaired by the President from 3 weeks ago. “We received instructions in that regard.”
+
+...
 
 [Data](articles/0a81913b.json)
 
@@ -2383,57 +2427,5 @@ Over the past year or more Sri Lanka has also seen an influx of Russian and Ukra
 [Data](articles/a44bfdf2.json)
 
 [Extended Data](ext_articles/a44bfdf2.ext.json)
-
----
-
-### Special security for tourists
-
-*2024-10-23 10:59:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளுக்கு-விசேட-பாதுகாப்பு/175-345909) · `ta`
-
-Sri Lankan police launch special security program for foreign tourists due to global conflicts. Joint effort between police, intelligence, defense ministries. Tourists can now report security concerns via 1997 emergency hotline.
-
-🟩
-
-Sri Lankan police have said that steps have been taken to implement a special security program to ensure the safety of foreign tourists and ensure their safety.
-
-It is a joint responsibility to create a safe environment for tourists coming to Sri Lanka, police said.
-
-Accordingly, the Sri Lankan police and intelligence agencies have decided to prepare and implement a special protection program for the protection of foreign tourists, considering the prevailing conflicts in the Middle East and Eastern Europe.
-
-The program is being carried out in collaboration with the Ministry of Defense and the Ministry of Public Defense, police said.
-
-In response, the Police Tourism Unit will be strengthened as all the police stations will be given special instructions by the Inspector General of Police Priyantha Weerasuriya.
-
-From today, tourists can report the security issues of the Sri Lankan police on the emergency telephone number of 1997.
-
-◼️
-
-[Data](articles/13bd5b4d.json)
-
-[Extended Data](ext_articles/13bd5b4d.ext.json)
-
----
-
-### Diwali Previous;Senthil's action
-
-*2024-10-23 10:52:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தீபாவளி-முற்பணம்-செந்தில்-நடவடிக்கை/76-345908) · `ta`
-
-Here's a 200-character summary:
-
-
-
-CWC leader Senthil Thondaman announced steps to support plantation workers on Diwali, a major Tamil festival.
-
-🟩
-
-CWC leader Senthil Thondaman has said that steps have been taken to provide plantation workers to the plantation workers on Thursday (24) on Thursday (24).
-
-Diwali is celebrated as one of the main festivals of Tamils.
-
-◼️
-
-[Data](articles/649c02b7.json)
-
-[Extended Data](ext_articles/649c02b7.ext.json)
 
 ---

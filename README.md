@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 12:25:36**
+As of **2024-10-23 12:39:33**
 
 ## Newspaper Stats
 
-*Scraped **50,890** Articles*
+*Scraped **50,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 6,032
 tamilmirrorlk | 7,002
 virakesarilk | 8,152
-adaderanasinhalalk | 8,829
+adaderanasinhalalk | 8,830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,890 (100.0%) of 50,890 articles have been extended.
+50,891 (100.0%) of 50,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Preparing to testify in any court except in Jaffna - Gotabhaya is notified
+
+*2024-10-23 12:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202459) · `si`
+
+Gotabhaya Rajapaksa agrees to testify in courts except Jaffna. He's willing to provide evidence about human rights activists' disappearances in 2011. The case involves delays and life threats, prompting a 2019 motion seeking protection.
+
+🟩
+
+Former President Gotabhaya Rajapaksa, who has been a witness to the disappearance of Human Rights activists in 2011, is ready to give evidence in any other court of the case.
+
+President's Counsel Romesh de Silva, who appeared on behalf of former President Gotabhaya Rajapakse, appeared for the judiciary against the Court of Appeal, informed the Court of President Gotabhaya Rajapaksa to investigate the evidence in the case of the Jaffna Magistrate's Court..
+
+The petition was called before the Supreme Court Judge Shiran Gunaratne, Shiran Gunaratne, and Achala Vingappoley.
+
+President's Counsel Romesh de Silva stated in court to the court on behalf of Gotabhaya Rajapaksa.
+
+However, the President's Counsel stated that he willingly testify in a court except Jaffna court.
+
+The court ordered that the petition was also taken to be summoned on March 18 to consider further matters.
+
+...
+
+[Data](articles/ab7c347c.json)
+
+[Extended Data](ext_articles/ab7c347c.ext.json)
+
+---
 
 ### Sri Lanka’s People’s Leasing and Finance ‘A-(lka)’ rating confirmed by Fitch; Outlook Stable
 
@@ -2257,39 +2285,5 @@ The current progress of the projects funded by Indian credit assistance was furt
 [Data](articles/7afac659.json)
 
 [Extended Data](ext_articles/7afac659.ext.json)
-
----
-
-### More information on the acid of the acid
-
-*2024-10-22 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202438) · `si`
-
-Father saves son from police jeep abduction, seriously injured, dies. Youth flees after attack. Police investigate dispute cause.
-
-🟩
-
-A father who was trying to save his son from a jeep abducted by a group of police officers was reported from the Eheliyagoda Parakaduwa.
-
-A house in Parakaduwa, Eheliyagoda had arrived in a jeep.
-
-When they were handled by handcuffing at home, their parents were protesting, where the group was forcibly tried to carry the youth to carry the young man.
-
-The father had moved and interrupted the father, which was hanged in the jeep and interrupted them.
-
-The police said that the driver of the jeep had been forwarded before the vehicle.
-
-The 65-year-old father who was seriously injured were immediately taken to hospital but he died.
-
-The abducted youth was taken to a stomach in Eheliyagoda and launched a severe actor attacked and he had fled the site, police said.
-
-The young man who went to a house in the nearby house has informed his relative by a phone.
-
-Police said that the causes of a dispute with a group of people in a neighboring house were suspected.
-
-...
-
-[Data](articles/5443072c.json)
-
-[Extended Data](ext_articles/5443072c.ext.json)
 
 ---

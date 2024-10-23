@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 13:59:24**
+As of **2024-10-23 14:25:50**
 
 ## Newspaper Stats
 
-*Scraped **50,913** Articles*
+*Scraped **50,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ bbccomsinhala | 515
 islandlk | 3,030
 economynextcom | 3,114
 dailyftlk | 3,474
-adalk | 4,730
+adalk | 4,731
 dailymirrorlk | 4,733
-adaderanalk | 6,035
+adaderanalk | 6,037
 tamilmirrorlk | 7,008
-virakesarilk | 8,160
-adaderanasinhalalk | 8,832
+virakesarilk | 8,161
+adaderanasinhalalk | 8,834
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,913 (100.0%) of 50,913 articles have been extended.
+50,919 (100.0%) of 50,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### The only opposition is the exangeration power - But
+
+*2024-10-23 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202463) · `si`
+
+Dilith Jayaweera claims only opposition remains in Sri Lankan politics. He emphasizes bravery and explains importance to democracy and governance. Meanwhile, appointments made in Matara district: Lakshmi Kodituwakku as National Trade Union Handrich, Prasanna Rasinghe as Digital Media Coordinator.
+
+🟩
+
+The Leader of the Leader Dilith Jayaweera says that the only opposition is the only opposition in Sri Lankan politics.
+
+He was speaking at the United Representatives of the Matara district today at the same time (23).
+
+"We have only the only opposition left in the earth today. That's why we say we are a brave opposition. We need to explain these earth to the people and explain to the people and make that effect on democracy. Do this effect to show the right orientation to the government and to move to a parliament that is fulfilled in this country. "
+
+Meanwhile, a group of representatives of the Matara district participated in the oronoon power today.
+
+According to Mr. AH Nattikumara, the Matara District Organizer and Lakshmi Kodituwakku has been appointed as the National Trade Union Handrich.
+
+Mr. H.A.Punhthi was also known as the Pitchgamuwa Divisional Organizing and Volunteer Organization and Volunteers of the Matara District.
+
+...
+
+[Data](articles/3ff8ca32.json)
+
+[Extended Data](ext_articles/3ff8ca32.ext.json)
+
+---
+
+### Russians Embassy alerts citizens in Sri Lanka over threat of attacks in Arugam Bay
+
+*2024-10-23 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102877/russians-embassy-alerts-citizens-in-sri-lanka-over-threat-of-attacks-in-arugam-bay) · `en`
+
+In connection with the official statement by Sri Lanka Police regarding the possible threat of attacks against foreign tourists in Arugam Bay, the Russian Embassy in Colombo has requested Russian citizens in Sri Lanka to remain vigilant and to avoid large gatherings.
+
+Meanwhile, the United Kingdom (UK) had also updated its travel advice for Sri Lanka based on the latest travel alert issued by the U.S. Embassy regarding potential threats in the Arugam Bay area.
+
+The U.S. Embassy in Colombo also today issued a security alert for American citizens in Sri Lanka strongly advising them to avoid the Arugam Bay area until further notice, citing credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.
+
+The Embassy says it has received credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.
+
+...
+
+[Data](articles/6e8d5b12.json)
+
+[Extended Data](ext_articles/6e8d5b12.ext.json)
+
+---
+
+### US Ambassador visited the north
+
+*2024-10-23 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196908) · `ta`
+
+US Ambassador visits Jaffna, Mannar, Vavuniya to strengthen US-Sri Lanka ties. Highlights cultural heritage at Nakuleswaram Temple. Emphasizes US support for Sri Lanka's diversity and development challenges.
+
+🟩
+
+I have visited Jaffna, Mannar and Vavuniya in the North to highlight the US -Sri Lankan alliances and have a favorable impact.
+
+I made his first trip to the Nakuleswaram Temple, one of the most important places in the Sri Lankans in the North and South, the Varalathu Kirimalai Nakuleswaram Temple in Jaffna.
+
+The United States is proud to support the protection of such cultural identities, reflecting the commitment to Sri Lanka's diversity.
+
+"We are eagerly awaiting the challenges faced by the people here during this visit and how the US can continue to help with their progress."
+
+◼️
+
+[Data](articles/7c18302b.json)
+
+[Extended Data](ext_articles/7c18302b.ext.json)
+
+---
 
 ### Israel says it killed Nasrallah’s heir apparent
 
@@ -53,6 +125,28 @@ Huge blasts shook the city that night, leaving plumes of smoke that could still 
 [Data](articles/742c56be.json)
 
 [Extended Data](ext_articles/742c56be.ext.json)
+
+---
+
+### Negombo High Court sentenced to life in prison for 10 foreign nationals
+
+*2024-10-23 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202462) · `si`
+
+Negombo High Court sentenced 10 foreign nationals to life imprisonment for heroin possession in 2016. Nine Iranians and one Pakistani received the maximum penalty for holding 146 kg of heroin.
+
+🟩
+
+The Negombo High Court has sentenced 10 foreign national prison sentences.
+
+The 10 foreign nationals had filed charges against the possession of 146 kilograms of heroin in 2016.
+
+The sentence is sentenced to nine Iranians and a Pakistani.
+
+◼️
+
+[Data](articles/3e1d9be0.json)
+
+[Extended Data](ext_articles/3e1d9be0.ext.json)
 
 ---
 
@@ -113,6 +207,20 @@ The Negombo High Court has sentenced to death 10 foreigners, including 9 Iranian
 [Data](articles/089f9726.json)
 
 [Extended Data](ext_articles/089f9726.ext.json)
+
+---
+
+### 10 foreign nationals sentenced to life in prison for heroin smuggling
+
+*2024-10-23 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102875/10-foreign-nationals-sentenced-to-life-in-prison-for-heroin-smuggling-) · `en`
+
+The Negombo High Court has sentenced 10 foreigners, including 9 Iranians and a Pakistani national, to life imprisonment for the possession and smuggling of 146 kg of heroin in 2016.
+
+◼️
+
+[Data](articles/89f47f37.json)
+
+[Extended Data](ext_articles/89f47f37.ext.json)
 
 ---
 
@@ -303,6 +411,24 @@ Sri Lanka won the first match between the two countries, the tournament is a zer
 [Data](articles/fd35fc1c.json)
 
 [Extended Data](ext_articles/fd35fc1c.ext.json)
+
+---
+
+### Special program for tourist protection
+
+*2024-10-23 12:42:37* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරකයන්ගේ-ආරක්ෂාවට-විශේෂ-වැඩසටහනක්/11-412628) · `si`
+
+Sri Lanka tourism safety initiative: Police announce enhanced security measures for popular tourist destinations.
+
+🟩
+
+The police headquarters announces that Sri Lanka can visit the next tourist area of ​​tourism
+
+◼️
+
+[Data](articles/60884cf0.json)
+
+[Extended Data](ext_articles/60884cf0.ext.json)
 
 ---
 
@@ -2163,121 +2289,5 @@ The recent election in Sri Lanka was a significant turning point, as a new leade
 [Data](articles/6d336395.json)
 
 [Extended Data](ext_articles/6d336395.ext.json)
-
----
-
-### Cardinal publicly rejects De Alwis and Imam committee reports on Easter Sunday terror attack
-
-*2024-10-23 05:49:18* · [`dailyftlk`](https://www.ft.lk/news/Cardinal-publicly-rejects-De-Alwis-and-Imam-committee-reports-on-Easter-Sunday-terror-attack/56-768289) · `en`
-
-Rev. Fr. Jude Krishantha, Archbishop of Colombo Cardinal Malcolm Ranjith and Rev. Fr. Cyril Gamini Fernando at press briefing in Colombo yesterday – Pic by Ruwan Walpola
-
-Says two reports were not based on a thorough analysis of incident nor conducted through transparent investigation process
-
-Opines setting up of two committees by former President Ranil Wickremesinghe and their hurried reports were mere eyewash prior to 2014 Presidential Election
-
-Stresses Catholic Church has no interest in either report as they lack a fair and transparent inquiry
-
-Confirms it however accepts the PCoI report on the attacks as legitimate despite the many information gaps
-
-Emphasises that a proper investigation must look into factors that drove attackers to extremism, politicians and officials who had prior warnings but failed to act, and sources of funding and training for the attackers
-
-...
-
-[Data](articles/9ecd185d.json)
-
-[Extended Data](ext_articles/9ecd185d.ext.json)
-
----
-
-### China first with flood relief help
-
-*2024-10-23 05:47:54* · [`dailyftlk`](https://www.ft.lk/news/China-first-with-flood-relief-help/56-768288) · `en`
-
-Chinese Ambassador Qi Zhenhong yesterday met with President Anura Dissanayake and handed over Rs. 30 million in emergency humanitarian relief funds from the Chinese Government to help the people affected by the floods in Sri Lanka overcome difficulties and rebuild their homes.  The Ambassador said Chinese Government and people share the feelings with Sri Lankan people. China believes that under the leadership of President Anura Dissanayake, the Sri Lankan Government and people will be able to overcome the disaster and tide over the difficulties. China is the first country to provide relief funds to Sri Lanka to help the people affected by the floods, a statement issued by the Chinese Embassy added.
-
-◼️
-
-[Data](articles/bf8f0b6a.json)
-
-[Extended Data](ext_articles/bf8f0b6a.ext.json)
-
----
-
-### Ranil named as respondent in FRs filed over crackdown on 2022 SYU protest
-
-*2024-10-23 05:46:45* · [`dailyftlk`](https://www.ft.lk/news/Ranil-named-as-respondent-in-FRs-filed-over-crackdown-on-2022-SYU-protest/56-768287) · `en`
-
-The Supreme Court granted permission yesterday for former President Ranil Wickremesinghe to be named as a respondent in the fundamental rights petitions filed against the Police for attacking and dispersing a protest organised by the Socialist Youth Union (SYU) in 2022.
-
-The decision was made after the Court considered a request from the petitioners’ legal team during the hearing of two petitions brought forward by members of the SYU. These petitions were called before the Supreme Court yesterday.
-
-The incident took place in September 2022, when the SYU organised a protest against Wickremesinghe under the theme, “Rulers who destroyed the dreams of youth, withdraw the oppression! Resign immediately!”
-
-...
-
-[Data](articles/3022c461.json)
-
-[Extended Data](ext_articles/3022c461.ext.json)
-
----
-
-### Rise and fall of Ruhunu Rajapaksa dynasty
-
-*2024-10-23 04:12:28* · [`dailyftlk`](https://www.ft.lk/columns/Rise-and-fall-of-Ruhunu-Rajapaksa-dynasty/4-768281) · `en`
-
-‘Is the “House of Rajapaksa” Falling Down?’ was the heading of an article written by me for our sister paper the “Daily Mirror” two and a half years ago. The article was published on 23 April 2022 when the “Aragalaya” (struggle) protests were going on. The article focused on the Rajapaksa family and its struggle to stay afloat in power despite the rising tide of public resentment and anger. The following two paragraphs are excerpted from that article:
-
-...
-
-[Data](articles/4e216096.json)
-
-[Extended Data](ext_articles/4e216096.ext.json)
-
----
-
-### A review of 21/4 affair reports
-
-*2024-10-23 04:05:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-விவகார-அறிக்கைகள்-குறித்து-ஆராய்வு/175-345894) · `ta`
-
-Government investigates 2021 attacks claims. Cabinet denies political motives. No decision on new commission. Previous probes cleared officials. Supreme Court criticizes leadership failures. Compensation ordered but not enforced.
-
-🟩
-
-Cabinet spokesman Vijitha Herath has said that the government has begun a thorough investigation into the resurrection reports made by former parliamentarian Udaya Kammanpila.
-
-He said the two reports were published with political motive, and the government has already begun investigations. He said appropriate action would be taken after the inquiries were completed.
-
-It has not yet been decided whether to appoint a new Presidential Commission for this purpose.
-
-The Presidential Commission appointed in 2019 and the Supreme Court have not charged two CIT officials.
-
-The Supreme Court and the Commission said that many government officials, including former President Maithripala Sirisena, failed to prevent the attack.. The court said that despite receiving appropriate intelligence, they failed to stop it.
-
-The court ordered them to pay compensation.. He said the government would not eliminate them.
-
-◼️
-
-[Data](articles/a46fb011.json)
-
-[Extended Data](ext_articles/a46fb011.ext.json)
-
----
-
-### President skips 2024 CHOGM amid Parliamentary Elections
-
-*2024-10-23 04:05:35* · [`dailyftlk`](https://www.ft.lk/news/President-skips-2024-CHOGM-amid-Parliamentary-Elections/56-768280) · `en`
-
-Amidst the upcoming General Elections, President Anura Kumara Dissanayake will not attend the 2024 Commonwealth Heads of Government Meeting (CHOGM) to be held in Samoa from 24 to 26 October.
-
-“Neither the President nor myself as the Foreign Minister are participating at this year’s CHOGM,” Cabinet Spokesman and Minister Vijitha Herath said at the weekly post-Cabinet meeting media briefing yesterday.
-
-He said only a group of representatives comprising the senior officers of the Foreign Affairs Ministry and Sri Lanka High Commission in London will participate at this year’s events representing Sri Lanka.
-
-◼️
-
-[Data](articles/554fb60c.json)
-
-[Extended Data](ext_articles/554fb60c.ext.json)
 
 ---

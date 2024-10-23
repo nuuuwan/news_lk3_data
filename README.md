@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 12:39:33**
+As of **2024-10-23 12:58:11**
 
 ## Newspaper Stats
 
-*Scraped **50,891** Articles*
+*Scraped **50,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,474
 adalk | 4,728
 dailymirrorlk | 4,733
 adaderanalk | 6,032
-tamilmirrorlk | 7,002
+tamilmirrorlk | 7,003
 virakesarilk | 8,152
 adaderanasinhalalk | 8,830
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 8,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,891 (100.0%) of 50,891 articles have been extended.
+50,892 (100.0%) of 50,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Augkambe attack affair; DIG description
+
+*2024-10-23 12:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-தாக்குதல்-விவகாரம்-DIGவிளக்கம்/175-345917) · `ta`
+
+Here's a 200-character summary:
+
+
+
+US Embassy warns citizens of potential threats in Colombo. Sri Lankan police increase security measures in Bay of Manugam due to rising Israeli tourist presence. Social activist reports establishment of Jewish worship site, sparking local concerns over Israel-Palestine tensions.
+
+🟩
+
+The Sri Lankan police said that the increase in Israeli tourists and the occupation of the building in the Bay of Manugam has prompted the US embassy in Colombo to provide travel suggestions to threaten its citizens in Colombo.
+
+Speaking to the media today, police media spokesman Nihal Talduwa said that Israeli tourists have been identified as the most preferred holiday in Sri Lanka due to the entertainment activities, including drift entertainment.
+
+“Because of their interest in them, a large number of Israeli tourists visit the hexagonal bay, which as a result of a building in the area.. We have been informed in recent times about the possibility of threatening them, as the area is currently the most population of Israeli tourists, ”he said.
+
+The police media spokesman said that the police have already set up road restrictions as a preliminary operation and the usual raids on vehicles and public.
+
+...
+
+[Data](articles/77a9a2fd.json)
+
+[Extended Data](ext_articles/77a9a2fd.ext.json)
+
+---
 
 ### Preparing to testify in any court except in Jaffna - Gotabhaya is notified
 
@@ -2257,33 +2285,5 @@ The need for a new political force in this country has arisen. That's what we're
 [Data](articles/36b0311f.json)
 
 [Extended Data](ext_articles/36b0311f.ext.json)
-
----
-
-### Indian High Commissioner-President Meeting
-
-*2024-10-22 20:58:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-ஜனாதிபதி-செயலாளர்-சந்திப்பு/175-345886) · `ta`
-
-Indian High Commissioner meets Sri Lankan President. Focuses on resolving North Sea fisheries disputes. Emphasizes long-term solutions for fishermen cooperation. Discusses joint challenges and reviews ongoing Indian projects in Sri Lanka.
-
-🟩
-
-Indian High Commissioner to Sri Lanka Santosh JHA met with the President of the President at the Presidential Office today (22).
-
-Special attention has been paid to solving fisheries issues in the North Sea.
-
-Accordingly, the two sides emphasized the need for a long -term solution to the problems of the fishermen of the two countries by improving cooperation.
-
-Moreover, the steps to be taken to succeed in the common challenges faced by the two countries were also investigated.
-
-The meeting also reviewed the ongoing Indian projects in Sri Lanka.
-
-The current progress of the projects funded by Indian credit assistance was further investigated and the need to expedite those tasks for completing the project in a timely manner.
-
-◼️
-
-[Data](articles/7afac659.json)
-
-[Extended Data](ext_articles/7afac659.ext.json)
 
 ---

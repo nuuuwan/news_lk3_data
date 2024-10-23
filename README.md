@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 14:39:44**
+As of **2024-10-23 14:58:28**
 
 ## Newspaper Stats
 
-*Scraped **50,920** Articles*
+*Scraped **50,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ bbccomsinhala | 515
 islandlk | 3,030
 economynextcom | 3,114
 dailyftlk | 3,474
-adalk | 4,731
+adalk | 4,732
 dailymirrorlk | 4,733
-adaderanalk | 6,037
-tamilmirrorlk | 7,008
-virakesarilk | 8,161
+adaderanalk | 6,038
+tamilmirrorlk | 7,009
+virakesarilk | 8,162
 adaderanasinhalalk | 8,835
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,920 (100.0%) of 50,920 articles have been extended.
+50,924 (100.0%) of 50,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Ex-Minister Johnston Fernando arrested by CID
+
+*2024-10-23 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102878/ex-minister-johnston-fernando-arrested-by-cid) · `en`
+
+Former Minister Johnston Fernando has been arrested by the Criminal Investigation Department (CID).
+
+He had arrived at the CID this morning (23) to provide a statement regarding the unregistered luxury car, allegedly belonging to him, which was found parked at a star-class hotel in Colombo.
+
+A petition filed by Fernando, seeking an order to prevent his arrest over the incident, was taken up for consideration yesterday (22).
+
+During the hearing, his attorneys had informed the court that Fernando was prepared to appear before the CID today to give a statement on the matter.
+
+The consideration of the petition was postponed until October 25.
+
+Meanwhile, the Colombo High Court today also issued an arrest warrant on former Minister Johnston Fernando, for failing to appear before the court over a case against him for allegedly involving Sathosa employees in election work from 2010 to 2014.
+
+...
+
+[Data](articles/bb61230a.json)
+
+[Extended Data](ext_articles/bb61230a.ext.json)
+
+---
+
+### Warning
+
+*2024-10-23 14:33:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-தூதரகம்-விடுத்துள்ள-எச்சரிக்கை/175-345923) · `ta`
+
+Russian Embassy warns citizens about potential attacks in Augkampai area due to US embassy's travel advisory.
+
+🟩
+
+The Russian Embassy in Colombo has issued a special announcement to Russian citizens in Sri Lanka.
+
+The Russian Embassy in Colombo said that Sri Lankan police have issued an official notification on the basis of reports that there is a risk of attacking foreigners in the Augkampai area.
+
+They said that the US embassy in Colombo has taken the move on a travel suggestion that the tourism centers in the Augkamam area can be attacked.
+
+◼️
+
+[Data](articles/7ca99b66.json)
+
+[Extended Data](ext_articles/7ca99b66.ext.json)
+
+---
 
 ### A warning of the Russian Embassy
 
@@ -55,6 +101,58 @@ They have said that the US embassy in Colombo was based on the tourism consultat
 [Data](articles/641ecd52.json)
 
 [Extended Data](ext_articles/641ecd52.ext.json)
+
+---
+
+### US Ambassador visited the north
+
+*2024-10-23 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/196908) · `ta`
+
+US Ambassador visits Jaffna, Mannar, Vavuniya to strengthen US-Sri Lanka ties. Highlights cultural heritage at Nakuleswaram Temple. Emphasizes US support for Sri Lanka's diversity and development challenges.
+
+🟩
+
+I have visited Jaffna, Mannar and Vavuniya in the North to highlight the US -Sri Lankan alliances and have a favorable impact.
+
+I made his first trip to the Nakuleswaram Temple, one of the most important places in the Sri Lankans in the North and South, the Varalathu Kirimalai Nakuleswaram Temple in Jaffna.
+
+The United States is proud to support the protection of such cultural identities, reflecting the commitment to Sri Lanka's diversity.
+
+"We are eagerly awaiting the challenges faced by the people here during this visit and how the US can continue to help with their progress."
+
+◼️
+
+[Data](articles/7c18302b.json)
+
+[Extended Data](ext_articles/7c18302b.ext.json)
+
+---
+
+### Rehan warns the Israelites who are engaged in the occupation of the nearby neighborhood
+
+*2024-10-23 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196914) · `ta`
+
+Sri Lanka faces security threat due to Israeli tourists' illegal activities. Former mayor Rehan Jayawickrama calls for immediate action, urging authorities to address the issue before it escalates further.
+
+🟩
+
+Former Weligama's former mayor and United People's Power candidate Rehan Jayawickrama has called for immediate action to stop Israeli tourists in Sri Lanka.
+
+Commenting on the US warning on a security threat in nearby, Sri Lanka is currently facing a serious security threat, which said the country's efforts for the recovery of tourism could be affected.
+
+In the social media post, he said that the illegal activities of Israel's tourists continues to continue.
+
+He said the government had neglected it, despite repeated requests that the government should find a solution to this.
+
+He has asked the authorities to find an emergency on the issue and said that if we continue to ignore the warnings, the reactions may be worse than we expect.
+
+"I want to convey one thing to the Israelites that are confusing, and you cannot illegally occupy our soil, as did the rest of the world, you cannot engage in illegal trade activities, and we cannot destroy the opportunities of others.Rehan Jayawickrama said.
+
+◼️
+
+[Data](articles/a1ae48c7.json)
+
+[Extended Data](ext_articles/a1ae48c7.ext.json)
 
 ---
 
@@ -103,30 +201,6 @@ The Embassy says it has received credible information warning of an attack targe
 [Data](articles/6e8d5b12.json)
 
 [Extended Data](ext_articles/6e8d5b12.ext.json)
-
----
-
-### US Ambassador visited the north
-
-*2024-10-23 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/196908) · `ta`
-
-US Ambassador visits Jaffna, Mannar, Vavuniya to strengthen US-Sri Lanka ties. Highlights cultural heritage at Nakuleswaram Temple. Emphasizes US support for Sri Lanka's diversity and development challenges.
-
-🟩
-
-I have visited Jaffna, Mannar and Vavuniya in the North to highlight the US -Sri Lankan alliances and have a favorable impact.
-
-I made his first trip to the Nakuleswaram Temple, one of the most important places in the Sri Lankans in the North and South, the Varalathu Kirimalai Nakuleswaram Temple in Jaffna.
-
-The United States is proud to support the protection of such cultural identities, reflecting the commitment to Sri Lanka's diversity.
-
-"We are eagerly awaiting the challenges faced by the people here during this visit and how the US can continue to help with their progress."
-
-◼️
-
-[Data](articles/7c18302b.json)
-
-[Extended Data](ext_articles/7c18302b.ext.json)
 
 ---
 
@@ -247,6 +321,34 @@ The Negombo High Court has sentenced 10 foreigners, including 9 Iranians and a P
 [Data](articles/89f47f37.json)
 
 [Extended Data](ext_articles/89f47f37.ext.json)
+
+---
+
+### Deposit of intelligence information is a serious problem
+
+*2024-10-23 13:18:08* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-තොරතුරු-හෙළිකිරීම-බරපතල-ප්‍රශ්ණයක්/11-412630) · `si`
+
+Sri Lanka faces intelligence issues: Defense Minister warns of foreign interference, intelligence decline, and security threats. Government urged to act swiftly to resolve problems and restore confidence in intelligence operations.
+
+🟩
+
+The last government has been able to restructure the country with a serious problem without having a serious problem in the country without interpreting such intelligence shows without any external tourist country.Defense Minister Pipaina Bandara Tennakoon said 26th.
+
+When attending a public meeting raised by a public meeting in Dambulla, Praise Bandara Tennakoon said that the travel alarm imposed from a foreign country was a serious problem.
+
+The former government defense minister said that there was a decline in the Buddision of intelligence in Sri Lanka.
+
+He said that some collapse of the country would think that they would not be as low enough to do politics to politics.
+
+He said that the government could resolve the bruise and issue a complaint with the bodies of a government.
+
+He also emphasized that many such incidents were reported during the last two and a half years.
+
+...
+
+[Data](articles/d91467a6.json)
+
+[Extended Data](ext_articles/d91467a6.ext.json)
 
 ---
 
@@ -2233,71 +2335,5 @@ FTZMA said being a board member at the Colombo Stock Exchange and a distinguishe
 [Data](articles/65cee391.json)
 
 [Extended Data](ext_articles/65cee391.ext.json)
-
----
-
-### Cabinet nod to limit scrap metal tenders to local bidders to boost industries
-
-*2024-10-23 06:11:22* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-limit-scrap-metal-tenders-to-local-bidders-to-boost-industries/34-768296) · `en`
-
-The Cabinet of Ministers at their meeting on Monday decided restricting tenders for the disposal of scrap metal by State-owned transport companies to local bidders only, to support domestic industries.
-
-Earlier, in June 2024 the Government approved a proposal to call for international tenders to sell the large volumes of scrap metal accumulated by the Sri Lanka Railway Department and the Sri Lanka Transport Board.
-
-“The new decision restricts the bidding process to local companies; a shift intended to address the raw material needs of manufacturers. The move is aimed at boosting local industries that rely on scrap metal for production,” Cabinet Spokesman and Minister Vijitha Herath said at the weekly post-Cabinet meeting media briefing yesterday.
-
-He said the market has faced shortages of raw materials and the Government hopes that by keeping these resources within the country, local businesses will benefit from more affordable and accessible scrap metal.
-
-...
-
-[Data](articles/86e0977f.json)
-
-[Extended Data](ext_articles/86e0977f.ext.json)
-
----
-
-### Sri Lankan corporates can be braver on psychological safety
-
-*2024-10-23 06:10:23* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lankan-corporates-can-be-braver-on-psychological-safety/4-768295) · `en`
-
-Psychological safety is that exhilarating comfort which drives all human beings to give their best efforts to everything they do whether they are at home, work, and school or in society
-
-I had my first ‘impactful’ failure in a corporate role and my first acquaintance with psychological safety in mid-1975. I was an employee of Lever Brothers (Ceylon) Ltd. (Levers), as it was then called. Six months prior to the subject incident, I had on completing my accounting examinations, been transferred from the Accounting Department to the Planning Department with the task of infusing management accounting thinking in the planning discipline.
-
-...
-
-[Data](articles/7dc54b50.json)
-
-[Extended Data](ext_articles/7dc54b50.ext.json)
-
----
-
-### Relevance of neutral foreign policy
-
-*2024-10-23 06:06:01* · [`dailyftlk`](https://www.ft.lk/columns/Relevance-of-neutral-foreign-policy/4-768294) · `en`
-
-The front page of the Daily FT (9 Oct. 2024) carries a front page report titled “Sri Lanka reaffirms neutral diplomacy” (https://www.ft.lk/front-page/Sri-Lanka-reaffirms-neutral-diplomacy/44-767745). The report states: “The Cabinet Spokesman and Foreign Minister Vijitha Herath yesterday had assured that Sri Lanka maintains balanced diplomatic relations with all countries, reaffirming its policy of friends of all and enemy of none.” Quoting the Foreign Minister, the report states: “There is no favouritism. We do not consider any country to be special. Whether it is big or small, Sri Lanka maintains diplomatic relations with all countries – China, India, the US, Russia, Cuba, or Vietnam. We have no bias in our approach, he said…”
-
-...
-
-[Data](articles/98f8c2cf.json)
-
-[Extended Data](ext_articles/98f8c2cf.ext.json)
-
----
-
-### Socialism and Vietnam
-
-*2024-10-23 06:01:33* · [`dailyftlk`](https://www.ft.lk/columns/Socialism-and-Vietnam/4-768293) · `en`
-
-The Doi Moi reforms were accompanied by a series of pivotal legal changes that facilitated Vietnam’s transition from a centrally planned economy to a market-oriented one
-
-Sri Lankan Governments over seven decades have been, in general, centrally planning the economy and society. This central planning overrides the choices made by individuals. The author Dr. Rainer Zitelmann, in his books ‘The Power of Capitalism’ and ‘In Defence of Capitalism’, provides many examples of the damaging effects of central planning.
-
-...
-
-[Data](articles/95742fad.json)
-
-[Extended Data](ext_articles/95742fad.ext.json)
 
 ---

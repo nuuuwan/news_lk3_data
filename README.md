@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 18:35:44**
+As of **2024-10-23 19:00:23**
 
 ## Newspaper Stats
 
-*Scraped **50,978** Articles*
+*Scraped **50,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,030
 economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
-adalk | 4,740
+adalk | 4,741
 adaderanalk | 6,048
 tamilmirrorlk | 7,020
 virakesarilk | 8,169
@@ -26,11 +26,39 @@ adaderanasinhalalk | 8,848
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,977 (100.0%) of 50,978 articles have been extended.
+50,979 (100.0%) of 50,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### What happened to the money to increase the salaries of public servants?
+
+*2024-10-23 18:14:14* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-වැඩි-කිරීමට-මුදල්-නැන්තම්-තිබුණ-මුදලට-මොකද-වුණේ-/11-412639) · `si`
+
+Ranil Wickremesinghe defends cabinet decision on public servant salary increase. Government aims for 12% income growth in 2024, 13% in 2025. Claims funds available for salary hike. Acknowledges requests for higher increases, citing economic hardship.
+
+🟩
+
+Former President Ranil Wickremesinghe said that the decision of his cabinet was legitimated regarding the increase in the salaries of public servants.
+
+He was speaking at a program held at Sirikotha. He added that the payments may be paid to increase the salaries of public servants.
+
+He said that the income of the government should be 12 percent next year and 13 percent in the next year.
+
+He also said that the government had money to pay the increased salary and would say what was the money.
+
+"There were requests to increase the weights. It's true. By 2022, the value of their stuff was down 50 percent. Lived hard. Sold property. I had little relief.
+
+I told it that. Some asked for 2000. 2024 Rs. We decided to give 10000. We gave it. It's not enough. "
+
+◼️
+
+[Data](articles/1735502d.json)
+
+[Extended Data](ext_articles/1735502d.ext.json)
+
+---
 
 ### Explanation for Johnstan
 
@@ -588,21 +616,31 @@ The rain was interrupted by rain before the match and accordingly, one innings h
 
 ---
 
-### அறுகம்பை பகுதியில் சோதனை நடவடிக்கை
+### Test action
 
 *2024-10-23 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196923) · `ta`
 
-பொலிஸ், விசேட அதிரடிப்படை, கடற்படை, இராணுவம் மற்றும் அரச புலனாய்வு சேவைகள் பொத்துவில், அருகம்பை விரிகுடாவில் விசேட பாதுகாப்பு நடவடிக்கைகளை மேற்கொள்ளப்பட்டுள்ளன என பொலிஸ் ஊடகப்பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+Security measures implemented in Pottuvil due to increased Israeli tourism. Police, military, and intelligence services deployed. US embassy issues travel advisory. Road restrictions and vehicle checks in place. STF soldiers stationed in Sinakok area to protect tourists from potential threats.
 
-இஸ்ரேலிய சுற்றுலாப் பயணிகளின் அதிகரிப்பு மற்றும் அறுகம்பை விரிகுடா பகுதிக்கு  வருகை தரும் தனது பிரஜைகளுக்கு  அறிவுறுத்தல்  பயண ஆலோசனையை  கொழும்பில் உள்ள அமெரிக்க தூதரகம் வழங்கியுள்ளதாக இலங்கை பொலிஸ் தெரிவித்துள்ளது.
+🟩
 
-இன்று ஊடகங்களுக்கு கருத்து தெரிவித்த பொலிஸ் ஊடகப்பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ,
+Police, Special Task Force, Navy, Army, Army and State Intelligence Services have taken special security measures in Pottuvil, nearby, police spokesman Deputy Inspector General of Police Nihal Dalduwa said.
 
-அலைச்சறுக்கு (Surfing) பொழுதுபோக்கு செயற்பாடுகள் ஈடுப்பட இஸ்ரேலிய சுற்றுலாப் பயணிகளுக்கு இலங்கையில் அறுகம்பை மற்றும் பொத்துவில் மிகவும் விருப்பமான விடுமுறை இடமாக அடையாளம் காணப்பட்டுள்ளது.
+The US embassy in Colombo has issued a travel advice to its citizens who visit the Bay of Israeli and the increase in Israeli tourists.
+
+Deputy Inspector General of Police Nihal Talduwa, who spoke to the media today,
+
+Israeli tourists have been identified as the best holiday place in Sri Lanka and Pottuvil for surfing entertainment activities.
+
+Thus, Israeli tourists have visited the bay of moon, resulting in a building in the area.. In recent years, we have been informed about the possibilities of threatening them, as the area is currently on the rise of Israeli tourists.
+
+As a preliminary operation, the police have already set up road restrictions and the usual tests of vehicles and public.
 
 ...
 
 [Data](articles/5892d4ca.json)
+
+[Extended Data](ext_articles/5892d4ca.ext.json)
 
 ---
 
@@ -2391,27 +2429,5 @@ Therefore, the US embassy has advised its citizens not to go to the hexagonal ar
 [Data](articles/cee4620f.json)
 
 [Extended Data](ext_articles/cee4620f.ext.json)
-
----
-
-### US Embassy alerts to attack
-
-*2024-10-23 10:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தாக்குதல்-குறித்து-அமெரிக்க-தூதரகம்-எச்சரிக்கை/150-345907) · `ta`
-
-US Embassy warns tourists: Avoid Augkambai Kutta area due to potential attacks. Citizens advised to stay away until further notice. Report suspicious activities to 119.
-
-🟩
-
-The US Embassy in Colombo has warned that he has received reliable information that the popular tourist attractions in the Augkambai Kutta area can be targeted.
-
-Therefore, the US embassy has advised its citizens not to go to the hexagonal area until the re -announcement.
-
-The US Embassy has also called for an invitation to 119 on suspicious activities or emergency.
-
-◼️
-
-[Data](articles/e692b3ea.json)
-
-[Extended Data](ext_articles/e692b3ea.ext.json)
 
 ---

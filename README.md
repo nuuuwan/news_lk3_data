@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 05:45:15**
+As of **2024-10-23 06:44:50**
 
 ## Newspaper Stats
 
-*Scraped **50,802** Articles*
+*Scraped **50,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 409
 colombotelegraphcom | 509
 bbccomsinhala | 513
-islandlk | 3,021
+islandlk | 3,030
 economynextcom | 3,106
-dailyftlk | 3,460
+dailyftlk | 3,466
 adalk | 4,720
 dailymirrorlk | 4,733
 adaderanalk | 6,020
-tamilmirrorlk | 6,985
+tamilmirrorlk | 6,986
 virakesarilk | 8,148
 adaderanasinhalalk | 8,815
 
@@ -26,11 +26,105 @@ adaderanasinhalalk | 8,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,802 (100.0%) of 50,802 articles have been extended.
+50,805 (100.0%) of 50,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Relevance of neutral foreign policy
+
+*2024-10-23 06:06:01* · [`dailyftlk`](https://www.ft.lk/columns/Relevance-of-neutral-foreign-policy/4-768294) · `en`
+
+The front page of the Daily FT (9 Oct. 2024) carries a front page report titled “Sri Lanka reaffirms neutral diplomacy” (https://www.ft.lk/front-page/Sri-Lanka-reaffirms-neutral-diplomacy/44-767745). The report states: “The Cabinet Spokesman and Foreign Minister Vijitha Herath yesterday had assured that Sri Lanka maintains balanced diplomatic relations with all countries, reaffirming its policy of friends of all and enemy of none.” Quoting the Foreign Minister, the report states: “There is no favouritism. We do not consider any country to be special. Whether it is big or small, Sri Lanka maintains diplomatic relations with all countries – China, India, the US, Russia, Cuba, or Vietnam. We have no bias in our approach, he said…”
+
+...
+
+[Data](articles/98f8c2cf.json)
+
+[Extended Data](ext_articles/98f8c2cf.ext.json)
+
+---
+
+### Socialism and Vietnam
+
+*2024-10-23 06:01:33* · [`dailyftlk`](https://www.ft.lk/columns/Socialism-and-Vietnam/4-768293) · `en`
+
+The Doi Moi reforms were accompanied by a series of pivotal legal changes that facilitated Vietnam’s transition from a centrally planned economy to a market-oriented one
+
+Sri Lankan Governments over seven decades have been, in general, centrally planning the economy and society. This central planning overrides the choices made by individuals. The author Dr. Rainer Zitelmann, in his books ‘The Power of Capitalism’ and ‘In Defence of Capitalism’, provides many examples of the damaging effects of central planning.
+
+...
+
+[Data](articles/95742fad.json)
+
+[Extended Data](ext_articles/95742fad.ext.json)
+
+---
+
+### Embracing change and having a strong, capable team to navigate through transitions are important
+
+*2024-10-23 05:55:20* · [`dailyftlk`](https://www.ft.lk/columns/Embracing-change-and-having-a-strong-capable-team-to-navigate-through-transitions-are-important/4-768292) · `en`
+
+It is essential to focus on their ability to perform and define what makes an effective MP
+
+The recent election in Sri Lanka was a significant turning point, as a new leader was elected. It is crucial to form a capable team to govern the country and address the needs of the people. We have made significant progress in evaluating the qualities necessary for Members of Parliament and establishing fair and transparent selection procedures. However, we must prioritise the capabilities of the politicians over their identity and backgrounds. It is essential to focus on their ability to perform and define what makes an effective MP.
+
+...
+
+[Data](articles/6d336395.json)
+
+---
+
+### Cardinal publicly rejects De Alwis and Imam committee reports on Easter Sunday terror attack
+
+*2024-10-23 05:49:18* · [`dailyftlk`](https://www.ft.lk/news/Cardinal-publicly-rejects-De-Alwis-and-Imam-committee-reports-on-Easter-Sunday-terror-attack/56-768289) · `en`
+
+Rev. Fr. Jude Krishantha, Archbishop of Colombo Cardinal Malcolm Ranjith and Rev. Fr. Cyril Gamini Fernando at press briefing in Colombo yesterday – Pic by Ruwan Walpola
+
+Says two reports were not based on a thorough analysis of incident nor conducted through transparent investigation process
+
+Opines setting up of two committees by former President Ranil Wickremesinghe and their hurried reports were mere eyewash prior to 2014 Presidential Election
+
+Stresses Catholic Church has no interest in either report as they lack a fair and transparent inquiry
+
+Confirms it however accepts the PCoI report on the attacks as legitimate despite the many information gaps
+
+Emphasises that a proper investigation must look into factors that drove attackers to extremism, politicians and officials who had prior warnings but failed to act, and sources of funding and training for the attackers
+
+...
+
+[Data](articles/9ecd185d.json)
+
+---
+
+### China first with flood relief help
+
+*2024-10-23 05:47:54* · [`dailyftlk`](https://www.ft.lk/news/China-first-with-flood-relief-help/56-768288) · `en`
+
+Chinese Ambassador Qi Zhenhong yesterday met with President Anura Dissanayake and handed over Rs. 30 million in emergency humanitarian relief funds from the Chinese Government to help the people affected by the floods in Sri Lanka overcome difficulties and rebuild their homes.  The Ambassador said Chinese Government and people share the feelings with Sri Lankan people. China believes that under the leadership of President Anura Dissanayake, the Sri Lankan Government and people will be able to overcome the disaster and tide over the difficulties. China is the first country to provide relief funds to Sri Lanka to help the people affected by the floods, a statement issued by the Chinese Embassy added.
+
+◼️
+
+[Data](articles/bf8f0b6a.json)
+
+---
+
+### Ranil named as respondent in FRs filed over crackdown on 2022 SYU protest
+
+*2024-10-23 05:46:45* · [`dailyftlk`](https://www.ft.lk/news/Ranil-named-as-respondent-in-FRs-filed-over-crackdown-on-2022-SYU-protest/56-768287) · `en`
+
+The Supreme Court granted permission yesterday for former President Ranil Wickremesinghe to be named as a respondent in the fundamental rights petitions filed against the Police for attacking and dispersing a protest organised by the Socialist Youth Union (SYU) in 2022.
+
+The decision was made after the Court considered a request from the petitioners’ legal team during the hearing of two petitions brought forward by members of the SYU. These petitions were called before the Supreme Court yesterday.
+
+The incident took place in September 2022, when the SYU organised a protest against Wickremesinghe under the theme, “Rulers who destroyed the dreams of youth, withdraw the oppression! Resign immediately!”
+
+...
+
+[Data](articles/3022c461.json)
+
+---
 
 ### Rise and fall of Ruhunu Rajapaksa dynasty
 
@@ -61,6 +155,40 @@ He said only a group of representatives comprising the senior officers of the Fo
 [Data](articles/554fb60c.json)
 
 [Extended Data](ext_articles/554fb60c.ext.json)
+
+---
+
+### We are not going to get sorch
+
+*2024-10-23 03:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-சோரம்-போகவில்லை/175-345893) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil National People's Front leader contests Mannar seat, vows no corruption, seeks full support for election victory.
+
+🟩
+
+The party's Mannar district candidate Somanathan Prasad said that the Tamil National People's Front was a movement that continued to voice the rights of the people after the end of the war in 2009.
+
+The media meeting organized by the Mannar Branch of the Tamil National People's Front (TNA) was held in Mannar on Tuesday (22).
+
+He said this while participating in the event. As he added,
+
+For the past 15 years since the silence of the war, our party has been traveling unchanged without any corruption scandals.
+
+We are not going for any concessions and concessions. It is the only witness to our integrity. Our leadership is a firm leadership.
+
+I am contesting from Mannar in the Vanni electorate on behalf of our party in the upcoming parliamentary elections.
+
+Our people have to give me full support.. We are asking for people's decree today. So pay me your vote and make me win, ”he added.
+
+◼️
+
+[Data](articles/1b61dbba.json)
+
+[Extended Data](ext_articles/1b61dbba.ext.json)
 
 ---
 
@@ -230,6 +358,54 @@ The conslator also requested that Sri Lankans who cannot do so use this opportun
 
 ---
 
+### CMA Australia concludes groundbreaking CMA Qualifying Programme
+
+*2024-10-22 22:19:00* · [`islandlk`](http://island.lk/cma-australia-concludes-groundbreaking-cma-qualifying-programme/) · `en`
+
+The Institute of Certified Management Accountants (ICMA) Australia recently concluded a groundbreaking CMA Qualifying Programme, showcasing its commitment to shaping the future of corporate leadership in the country.
+
+A qualified accountant, finance degree-holder or holder of a Masters specialising in finance can become a Certified Management Accountant (Australia) by completing the seven-day intensive master’s level modules and the assessments covering Strategic Cost Management and Strategic Business Analysis.
+
+This year’s seven-day rigorous workshop, held from September 28 to October 4, 2024, at the Galle Face Hotel in Colombo, was attended by 75 high-calibre professionals from nine countries. The programme covered cutting-edge topics integrating the latest developments in big data, AI, IoT, and blockchain technologies.
+
+...
+
+[Data](articles/fc67250e.json)
+
+---
+
+### Japanese business group in SL to explore investment opportunities
+
+*2024-10-22 22:18:00* · [`islandlk`](http://island.lk/japanese-business-group-in-sl-to-explore-investment-opportunities/) · `en`
+
+Rowelmark Group, a Sri Lankan conglomerate, as per the brainchild and invitation of its chairman, Dr. Ruwan Perera announces the arrival of the Hanabi Tour, a group of 45 Japanese business personnel, in Sri Lanka. This visit coincides with the ongoing construction of the 153-room Colombo International Airport Hotel (CIAH) by Rowelmark’s subsidiary.
+
+The Hanabi Tour, facilitated by Rowelmark Travel, will explore Sri Lanka’s investment opportunities and cultural heritage sites. As part of their itinerary, the group donated a newly constructed water tank and a dancing room to Kimbissa Maha Vidyalaya on October 20. This contribution, made possible by Little Japan and the tour group, will significantly benefit the school’s students.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/b72165fe.json)
+
+---
+
+### Sri Lanka Economic Summit to be held in January 2025
+
+*2024-10-22 22:17:00* · [`islandlk`](http://island.lk/sri-lanka-economic-summit-to-be-held-in-january-2025/) · `en`
+
+The Ceylon Chamber of Commerce announces that its flagship event, the Sri Lanka Economic Summit, originally scheduled for November 2024, has been rescheduled to January 28 and 29, 2025, in light of the forthcoming General Election.
+
+Under the theme ‘Shaping Sri Lanka’s Future: Transformational Growth Rooted in Sound Economic Policies,’ the Summit will provide an essential platform for discussing the path forward at a time when Sri Lanka’s economic and political landscapehas had significant changes.. After two years of economic contraction, the country is now striving for accelerated growth. With the recent conclusion of debt restructuring and the Presidential elections, and the forthcoming General Election , it is imperative to lay the groundwork for a decade of sustainable, inclusive growth starting in 2025.
+
+...
+
+[Data](articles/b20c52ba.json)
+
+---
+
 ### Airborne Drugs
 
 *2024-10-22 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202441) · `si`
@@ -253,6 +429,20 @@ The Police Narcotics Bureau is conducting further investigations to arrest the s
 [Data](articles/2ac0f60b.json)
 
 [Extended Data](ext_articles/2ac0f60b.ext.json)
+
+---
+
+### Investor expectations of stable governance rise ahead of general election
+
+*2024-10-22 22:14:00* · [`islandlk`](http://island.lk/investor-expectations-of-stable-governance-rise-ahead-of-general-election/) · `en`
+
+Local and foreign investors were adopting a cautious stance yesterday until the conduct of the general election, anticipating the ushering of a stable government by that time that would enable them to actively invest in the bourse. As a result, mixed reactions were reflected in CSE indices, market analysts said.
+
+The All Share Price Index went down by 12.48 points, while the S and P SL20 rose by 6.46 points. Turnover stood at Rs 1.9 billion with one crossing. The crossing was reported in JKH, which crossed 986,000 shares to the tune of Rs 195 million; its shares traded at Rs 198.
+
+...
+
+[Data](articles/3e46cfd1.json)
 
 ---
 
@@ -2217,293 +2407,5 @@ Johnston Fernando informed the court through his lawyer to give a statement from
 [Data](articles/3e186afb.json)
 
 [Extended Data](ext_articles/3e186afb.ext.json)
-
----
-
-### New Board of Directors to the Transport Commission
-
-*2024-10-22 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202425) · `si`
-
-New Board of Directors appointed to National Transport Commission. Chairman Dr. Bandura Dilipa Vitharana, members W.Ravi Prasad de Mel, Dr. Namali Tharanga Sirisomer, A.I.U. Mr. Perera. Appointments approved by Cabinet, three-year terms.
-
-🟩
-
-A new Chairman and the Board of Directors have been appointed to the National Transport Commission.
-
-Cabinet spokesman said that the appointments were approved by the Cabinet yesterday (21).
-
-Accordingly, Dr. Bandura Dilipa Vitharana has been appointed as its Chairman.. He is a senior lecturer at the Open University of Sri Lanka.
-
-W. Ravi Prasad de Mel - Senior Lecturer of the University of Sri Jayewardenepura
-
-Dr. Namali Tharanga Sirisomer - Sir General John Kotelawala Defense Universor
-
-A. I. U. Mr. Perera - Commissioner of Inland Revenue
-
-According to the provisions of the National Transport Commission Act No. 37 of 1991, the Commission should consist of eight members.
-
-According to Section 3 (1) (a) (a) (a), three of them are officially appointed by the Ministry of Transport, Policy Planning and Finance.
-
-The Minister of Transport has to be appointed as the approval of the Cabinet of Ministers with the approval of the Cabinet of Section 3 (1) (b) and their term of office is three years.
-
-...
-
-[Data](articles/4aad1067.json)
-
-[Extended Data](ext_articles/4aad1067.ext.json)
-
----
-
-### At the Chogm conference, the authorities participate
-
-*2024-10-22 11:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CHOGM-மாநாட்டில்-அதிகாரிகளே-பங்குபற்றுகின்றனர்/175-345837) · `ta`
-
-Sri Lanka to attend CHOGM 2024 in Samoa Apia. Cabinet approves participation led by Foreign Affairs Minister Vijitha Herath. Team includes senior officials from Ministry of Foreign Affairs and Sri Lanka High Commission in London.
-
-🟩
-
-The Commonwealth Heads of Government Meeting (CHOGM) will be held under the 24th of October 2024 to the SAMOA APIA (SAMOA APIA).
-
-The Cabinet has approved the proposal submitted by External Affairs Minister Vijitha Herath to represent Sri Lanka by a team of senior officials of the Ministry of Foreign Affairs and the Sri Lanka High Commission in London.
-
-Cabinet Spokesperson Minister Vijitha Herath said this while attending a media briefing at the Government Information Department on Tuesday (22).
-
-◼️
-
-[Data](articles/2b44b42d.json)
-
-[Extended Data](ext_articles/2b44b42d.ext.json)
-
----
-
-### Colombo Port’s ECT Project declares as a ‘special project’
-
-*2024-10-22 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102847/colombo-ports-ect-project-declares-as-a-special-project) · `en`
-
-The Cabinet of Ministers has granted approval to declare the Colombo Port’s Eastern Container Terminal (ECT) Project as a “special project.”
-
-This decision follows a proposal presented by the Minister of Transport, Highways, Ports and Civil Aviation, Vijitha Herath.
-
-Approval had been granted at the cabinet meeting held on 01-02-2021 to develop the Eastern Container Terminal of the Colombo South Development Project in stages by the Sri Lanka Ports Authority and to implement it as a container terminal with the full ownership of the Sri Lanka Ports Authority.
-
-The contract for civil work has already been awarded, and the construction is being proceeded, the Cabinet Spokesman Minister Vijitha Herath said while attending a press conference held today (22).
-
-Further, the procurement for the purchase of cranes has already been awarded.
-
-...
-
-[Data](articles/c6572c7d.json)
-
-[Extended Data](ext_articles/c6572c7d.ext.json)
-
----
-
-### Sri Lanka to restrict railway scrap metal tenders to local bidders
-
-*2024-10-22 11:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-restrict-railway-scrap-metal-tenders-to-local-bidders-184394/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has decided to restrict tenders for disposal of scrap metal by state railway and bus companies, to local bidders only, Minister Vijitha Herath said.
-
-Sri Lanka’s cabinet had decided in June 2024 to call international tenders to sell scrap metal.
-
-The two state transport agencies had large volumes of scrap metal, a post-cabinet statement said.
-
-The cabinet had decided to restrict tenders to local buyers to help local industries which needed scrap metal.
-
-The cabinet had approved the proposal by the Minister of Transport, Ports and Civil Aviation to only allow local companies to bid. (Colombo/Oct22/2024)
-
-◼️
-
-[Data](articles/f67e7b68.json)
-
-[Extended Data](ext_articles/f67e7b68.ext.json)
-
----
-
-### The main resolutions that saved the Boston Globe Media of the United States
-
-*2024-10-22 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/196838) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Boston Globe survived bankruptcy through strategic decisions: separating print and digital operations, increasing online subscription fees, offering free trials, maintaining paywalls during COVID-19, diversifying revenue streams including advertising and licensing.
-
-🟩
-
-Like many popular businesses, the Boston Globe was relegated to bankruptcy in 2009.
-
-Today, the Boston Global Digital Age is seen as an example of a magazine to survive and thrive.
-
-Recently, the chief business officer of the company, Gaywan Salmanpur, has described how his company won many Pulitzer prizes.
-
-Boston Globe has not released its financial conditions but today 1000 employees are working in the company.
-
-Asked what was the cause of the company's current situation, its chief business officer described the situation in 2009 (that was seen as part of the Boston Globe New York Times -1993 -the company was joining the Boston Globe in 1993)
-
-We were losing readers to the Internet, Google was impacting our classifide trade, as well as facing our trade profit.
-
-The first resolution is the separation of the Boston Komin from the globe.
-
-Boston Kom publishes common news and livestyle -related issues and the Boston Globe is looking for readers towards Globe Kom.
-
-...
-
-[Data](articles/5ee9438d.json)
-
-[Extended Data](ext_articles/5ee9438d.ext.json)
-
----
-
-### 20 years in jail for the former president
-
-*2024-10-22 11:36:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-ஜனாதிபதிக்கு-20-ஆண்டு-சிறை/50-345836) · `ta`
-
-Peru's ex-president sentenced 20 years prison corruption bribery allegations
-
-🟩
-
-Former President of Peru has been sentenced to 20 years in prison after Peru's former president of Peru.
-
-Brazil has been sentenced to 20 years and 6 months in prison for alleged corruption.
-
-Investigations have revealed that he has bribed millions of dollars at the construction company.
-
-Officials have accused Dolido of bribing $ 35 million from Odebect a construction company for allowing the highway to be built in the South American country of Peru.
-
-From 2001 to 2006, Alejantro Tolido was the Chancellor of Peru.
-
-The US investigated the case. Accordingly, the United States started its investigation in Mexico, Guatemala and Ecuador. In addition, the authorities have accused four presidents of Peru, including Tolido, in the investigation.
-
-◼️
-
-[Data](articles/de00c3d5.json)
-
-[Extended Data](ext_articles/de00c3d5.ext.json)
-
----
-
-### Govt rejects Easter attacks report released by Gammanpila, assures fresh probe
-
-*2024-10-22 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102846/govt-rejects-easter-attacks-report-released-by-gammanpila-assures-fresh-probe) · `en`
-
-The government does not accept the investigative committee report on the Easter Sunday bomb attacks, which was released by former MP Udaya Gammanpila yesterday (21), Cabinet Spokesman Minister Vijitha Herath said.
-
-However, he stated that the government will conduct a new investigation into the incidents.
-
-He revealed this stance while speaking during the Cabinet press briefing in Colombo today (22).
-
-Divulging the contents of a previously unreleased investigative committee report on the Easter Sunday attacks during a press conference yesterday (21), Gammanpila had claimed that former Senior DIG Ravi Seneviratne has been named as an accused in the report and called for his immediate removal from the post of Secretary to the Ministry of Public Security.
-
-He had also alleged that the report recommends filing criminal charges against former Senior DIG Ravi Seneviratne and former CID Director Shani Abeysekera for their failure to adequately perform their duties.
-
-...
-
-[Data](articles/f055aff0.json)
-
-[Extended Data](ext_articles/f055aff0.ext.json)
-
----
-
-### Senior officials of the Sri Lankan High Commission in London will attend the Commonwealth Heads of Government Meeting
-
-*2024-10-22 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/196836) · `ta`
-
-Sri Lankan High Commission officials to attend Commonwealth Heads of Government Meeting in London. Cabinet spokesperson Vijitha Herath confirms representation.
-
-🟩
-
-Cabinet spokesman Vijitha Herath said that a group of senior officials of the Sri Lanka High Commission in London will represent Sri Lanka at the Commonwealth Heads of Government Meeting.
-
-◼️
-
-[Data](articles/4d39c115.json)
-
-[Extended Data](ext_articles/4d39c115.ext.json)
-
----
-
-### Gammanpila reveals Minister Vijitha
-
-*2024-10-22 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202424) · `si`
-
-Here's a 200-character summary:
-
-
-
-Former MP Udaya Gammanpila accuses Ravi Seneviratne and Shani Abeysekera of misconduct. Minister Vijitha Herath denies political motives behind inquiry. Committee formed to investigate allegations against two officials. Government rejects committee report, calls for fair investigation.
-
-🟩
-
-Cabinet spokesman, spokesman Vijitha Herath says that Ravi Seneviratne and Shani Abeysekera is not prepared to remove the current posts from current positions.
-
-Former MP Udaya Gammanpila, the Minister said that the two officers have targeted the two employees on the need to remove the current positions.
-
-Addressing the press conference held today (22), the minister said that the two officers were in the past about the Passover attack.
-
-Minister Vijitha Herath said that even the Passover victims know that the two officers are concerned and those who have different needs are necessary to dismiss them.
-
-Q. No one will be appointed to a crime and commits legal action. Don't you think that you have appointed other officials of the government and have done this after this.
-
-...
-
-[Data](articles/b0abf344.json)
-
-[Extended Data](ext_articles/b0abf344.ext.json)
-
----
-
-### Johnston Fernando: What did the Court have inquired about the car?
-
-*2024-10-22 11:11:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4grgl60dkdo) · `si`
-
-Court inquiry about car ownership in Hilton Hotel case involving former minister Johnston Fernando.
-
-🟩
-
-Johnston Fernando: What did the Court have inquired about the car?
-
-Former Minister Joneston Fernando informed the Court of Appeal today (October 22), the Criminal Investigations Department (CID) will be given to the investigation into the investigation of the Hilton Hotel.
-
-The petition filed by Johnston Fernando to issue an order to issue an order to issue an order in the incident.
-
-Johnston Fernando informed the court through his lawyer.
-
-This petition is Mohammed Lafar Thahaire and P. The Court of Appeal, Kumaran Ratnam was called before the judge.
-
-Attorney-at-Law Amila church court, Attorney-at-Law Amida's Court of Atila Palliyaduwa, the Criminal Investigation Department has filed a foreign travel ban against his clientSaid.
-
-The lawyer said that several statements have been made regarding this incident and that the vehicle ownership has a complex on the ownership of the vehicle.
-
-...
-
-[Data](articles/c94760e5.json)
-
-[Extended Data](ext_articles/c94760e5.ext.json)
-
----
-
-### Vegetables at Meegalewa Divisional Hospital
-
-*2024-10-22 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/196826) · `ta`
-
-Meegalewa Divisional Hospital promotes mental health through gardening. Patients grow vegetables like potatoes, tomatoes, and bananas during free time. Doctors and staff supervise under Medical Officer Mahinda Eyyangoda.
-
-🟩
-
-In the North Western Province of Kurunegala District, the Migaleva Divisional Hospital, located on the border between the Anuradhapura district and the Kurunegala district, is being carried out to maintain the mental health of the patients.
-
-Under the direction of the Medical Officer in charge of the Meegalewa Divisional Hospital, Mahinda Eyyangoda, the woodworker is being carried out with the help of Dr. Thilini Abeywardena, Dr. Samika Wickremesinghe and other doctors, nurses and other staff of the hospital.
-
-The land has a large number of potatoes, tomatoes, radish, tuber, beetle, banana, chilli and corn.
-
-All employees working in the hospital are carrying out this vegetable performing at their leisure time.
-
-◼️
-
-[Data](articles/5f0db50d.json)
-
-[Extended Data](ext_articles/5f0db50d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 20:58:53**
+As of **2024-10-23 21:11:33**
 
 ## Newspaper Stats
 
-*Scraped **50,992** Articles*
+*Scraped **50,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ islandlk | 3,030
 economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
-adalk | 4,744
-adaderanalk | 6,048
-tamilmirrorlk | 7,021
-virakesarilk | 8,172
+adalk | 4,745
+adaderanalk | 6,049
+tamilmirrorlk | 7,022
+virakesarilk | 8,173
 adaderanasinhalalk | 8,854
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,992 (100.0%) of 50,992 articles have been extended.
+50,995 (100.0%) of 50,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Attack at Turkey aviation site leaves some dead, injured
+
+*2024-10-23 20:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102888/attack-at-turkey-aviation-site-leaves-some-dead-injured) · `en`
+
+A deadly attack was carried out at the Turkish Aerospace Industries’ headquarters near Ankara on Wednesday, the government said, as broadcasters showed footage of several armed assailants entering the building amid reports of gunfire and a loud explosion.
+
+“A terrorist attack was carried out against the TUSAS facilities in Kahramankazan, Ankara. Unfortunately, we have martyrs and injured people,” Interior Minister Ali Yerlikaya said on social media X, referring to the Aerospace Industries.
+
+The cause and perpetrators of the blast and subsequent gunfire remained unclear. Some media reports claimed a suicide attack had occurred and that there were hostages inside the building. Officials have not confirmed this.
+
+Witnesses told Reuters that employees inside the building were taken by authorities to shelters and no one was permitted to leave. They said bombings may have taken place at different exits as employees were leaving work for the day.
+
+...
+
+[Data](articles/1186c6f3.json)
+
+[Extended Data](ext_articles/1186c6f3.ext.json)
+
+---
+
+### Call for 1997 immediately ...
+
+*2024-10-23 20:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடனடியாக-1997-க்கு-அழையுங்கள்/175-345939) · `ta`
+
+Tourist hotline launched: Call 1997 for immediate assistance. Police HQ urges foreigners to report security concerns amid Middle East/Eastern Europe tensions. Special safety program implemented with cooperation from all security forces.
+
+🟩
+
+The telephone number has been launched from today for the protection of all tourists, the police headquarters said.
+
+Accordingly, any tourists can inform the police about their security issue, the police headquarters said.
+
+Considering the extraordinary situation in the Middle East and Eastern Europe, a special program will be prepared and implemented with the cooperation of all security forces to implement a special security program for the safety of foreign tourists, the Police Headquarters said.R
+
+◼️
+
+[Data](articles/02e1b506.json)
+
+[Extended Data](ext_articles/02e1b506.ext.json)
+
+---
+
+### இந்திய பிரதமர் மோடி ரஷ்ய அதிபர் புடினுக்கு இந்தியா வருகை தருமாறு அழைப்பு
+
+*2024-10-23 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196952) · `ta`
+
+இந்திய பிரதமர் நரேந்திர மோடி இந்த அழைப்பை விடுத்துள்ளதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+
+16வது பிரிக்ஸ் மாநாட்டில், ரஷ்யாவின் கசான் நகரில் பிரதமர் நரேந்திர மோடி ரஷ்ய அதிபர் விளாடிமிர் புடினை சந்தித்தார்.
+
+அடுத்த ஆண்டு 23-ஆவது இந்தியா - ரஷ்யா ஆண்டு மாநாட்டில் பங்கேற்க பிரதமர் மோடி புடினுக்கு அழைப்பு விடுத்துள்ளார்.
+
+அரசியல், பொருளாதாரம், பாதுகாப்பு, எரிசக்தி மற்றும் மக்களிடையேயான உறவுகள் உள்ளிட்ட பல்வேறு துறைகளில் இருதரப்பு ஒத்துழைப்பை இரு தலைவர்களும் மதிப்பாய்வு செய்ததாக இந்திய பிரதமர் அலுவலகம் செய்திக்குறிப்பில் தெரிவித்துள்ளது.
+
+22 ஜூலை 2024 இந்தியா-ரஷ்யா வருடாந்திர உச்சிமாநாட்டிற்காக இரு தலைவர்களும் முன்னதாக மாஸ்கோவில் சந்தித்ததால், இந்த ஆண்டு இது அவர்களின் இரண்டாவது சந்திப்பு என்று வெளிநாட்டு ஊடகங்கள் மேலும் தெரிவித்தன.
+
+◼️
+
+[Data](articles/48154a83.json)
+
+---
 
 ### Terror attack in Turkey
 
@@ -102,7 +164,7 @@ They broke out the Nepal Group 314 runs. Nepal innings included 26 hits.
 
 ### Sri Lanka's worst fields have been honored with the West Indies;Winning target for Sri Lanka 190
 
-*2024-10-23 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/196951) · `ta`
+*2024-10-23 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196951) · `ta`
 
 Sri Lanka vs West Indies: West Indies scores 189/10 in 36 overs. Rain delays start. Hazaranga takes 4 wickets. Sri Lanka needs 190 in 44 overs to win.
 
@@ -301,6 +363,32 @@ Deputy Solicitor General Rural de Silva, who appeared on behalf of the Electoral
 [Data](articles/71b7e22e.json)
 
 [Extended Data](ext_articles/71b7e22e.ext.json)
+
+---
+
+### The attention of two youths prevent a great danger
+
+*2024-10-23 18:50:41* · [`adalk`](https://www.ada.lk/breaking_news/තරුණයන්-දෙදෙනෙකුගේ-අවධානය-නිසා-විශාල-අනතුරක්-වැළකෙයි/11-412642) · `si`
+
+Two youths prevented a dangerous situation near Wadduwa Railway Station. They noticed an issue on the coastal railway line and informed authorities. The station manager quickly responded, closing the line temporarily for repairs. Their alertness likely prevented a potential train accident.
+
+🟩
+
+The Wadduwa Railway Station states that a young man in the area has abstained from an educational incident in the coastal railway line (23).
+
+Two youths in Waskaduwewa Youth in Kalutara and Wadduwa Railway Stations have been made to educate the Colombo North and Wadduwa area in Kalutara.
+
+Accordingly, Mr. U I P Rodrigo, the OIC of the Wadduwa Railway, was immediately implemented in the Wadduwa Road Division, to instantly, and the machinery was taken to repair the machinery.
+
+The coastal railway line has taken steps to close the railway line over an hour during the reappointment period.
+
+The railway spokesperson also said that the awareness of the two youths, as well as the train, said the train accident said.
+
+◼️
+
+[Data](articles/182dffa2.json)
+
+[Extended Data](ext_articles/182dffa2.ext.json)
 
 ---
 
@@ -595,6 +683,26 @@ Additionally, special attention is being given to ensure the safety of tourists 
 [Data](articles/4033d365.json)
 
 [Extended Data](ext_articles/4033d365.ext.json)
+
+---
+
+### Johnston Fernando arrested
+
+*2024-10-23 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196917) · `ta`
+
+Former Minister Johnston Fernando arrested by CID for illegal car recovery vote.
+
+🟩
+
+Former Minister Johnston Fernando was arrested by the Criminal Investigation Department officials today (23).
+
+Former Minister Johnston Fernando appeared in the Criminal Investigation Department today to vote for the recovery of illegal car recovery from a hotel in Colombo.
+
+◼️
+
+[Data](articles/1e18a54b.json)
+
+[Extended Data](ext_articles/1e18a54b.ext.json)
 
 ---
 
@@ -1397,26 +1505,6 @@ Also in attendance were the Secretary to the Prime Minister, Pradeep Saputhanthr
 [Data](articles/019413ea.json)
 
 [Extended Data](ext_articles/019413ea.ext.json)
-
----
-
-### Johnston Fernando arrested
-
-*2024-10-23 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196917) · `ta`
-
-Former Minister Johnston Fernando arrested by CID for illegal car recovery vote.
-
-🟩
-
-Former Minister Johnston Fernando was arrested by the Criminal Investigation Department officials today (23).
-
-Former Minister Johnston Fernando appeared in the Criminal Investigation Department today to vote for the recovery of illegal car recovery from a hotel in Colombo.
-
-◼️
-
-[Data](articles/1e18a54b.json)
-
-[Extended Data](ext_articles/1e18a54b.ext.json)
 
 ---
 
@@ -2347,121 +2435,5 @@ Speaking to the media today, he said he was handed over to the appointment of th
 [Data](articles/fee8c27a.json)
 
 [Extended Data](ext_articles/fee8c27a.ext.json)
-
----
-
-### Disclosure of the targets of arrogawa - security is also strengthened
-
-*2024-10-23 11:49:00* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්බේදී-ප්‍රහාරයට-ඉලක්ක-වන-පිරිස-ගැන-අනාවරණයක්----ආරක්ෂාවත්-තර-කෙරේ/11-412626) · `si`
-
-Israel strengthens security in Arugambay due to potential threats. Police, STF, Navy, and Army deployed for enhanced protection. Intelligence officers involved in monitoring situation.
-
-🟩
-
-Police Media Spokesperson DIG, Spokesperson DIG, said that the security of Israel was targeting the protection of Israel in Arugambay area.
-
-He was speaking at a special media briefing held today (23).
-
-"There is a building established by Israeli people in Aruuambay. A place like a hall. Arugambay has become an attractive place of Israel. The past few days have received some information that the Israeli nationals may be in danger. Therefore, the Senior DIG of Eastern Province has implemented the preliminary measures. Vehicles and individuals were inspected by road barriers in the past few days. Today, there is a special security in the area. Police, STF and the Navy and the Army have used the necessary role and used intelligence officers. "
-
-◼️
-
-[Data](articles/d30b42a7.json)
-
-[Extended Data](ext_articles/d30b42a7.ext.json)
-
----
-
-### There are some occasions that Sri Lankan politicians focus on their personal interests - Japanese Ambassador to his experiences in Sri Lanka
-
-*2024-10-23 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/196900) · `ta`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-Sri Lankan politicians often prioritize personal interests over national needs. The Japanese Ambassador notes lack of transparency in trade practices. Current government maintains IMF program structure. Corruption remains a significant issue, hindering foreign investment. Delays in customs processes affect business operations. Political figures like former Minister Nimal Siripala De Silva have been accused of demanding bribes. Overall, political instability and corruption continue to impact Sri Lanka's economic development and foreign relations.
-
-🟩
-
-There are opportunities for Sri Lankan politicians to act on their interests, they are looking forward to their interests, Japanese Ambassador to Sri Lanka Missukoshi Hidaygi said.
-
-He said that there is no open trade environment in Sri Lanka, but Japanese companies do not follow the rules.
-
-The Ambassador, who stated that they are not bribed, "he said," it is customary for Japanese to leave the country. "
-
-Question - We are currently in the midst of the IMF plan. How far you are confident that the current government will continue to carry out this?
-
-Answer: I have already negotiated with the President's Foreign Minister. With these negotiations, the new government is concerned that the new government is maintaining the main structure of the IMF program.
-
-They have re -appointed the Secretary of the Treasury, who was negotiating with the International Monetary Fund.
-
-This is the best signal that the new government respects the agreement with the International Monetary Fund.
-
-...
-
-[Data](articles/e1598601.json)
-
-[Extended Data](ext_articles/e1598601.ext.json)
-
----
-
-### The new leader of the Hizbullah telephone system is also killed?
-
-*2024-10-23 11:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹிஸ்புல்லா-அமைப்பின்-புதிய-தலைவரும்-உயிரிழப்பு/50-345914) · `ta`
-
-Israeli military claims Hashem Sabidin, newly elected Hezbollah leader, killed. Hezbollah denies report. Conflict escalates between Israel and Hezbollah in Lebanon.
-
-🟩
-
-The Israeli military has said that Hashem Sabidin, who was elected as the new leader of the Hizbullah movement, has also been killed.
-
-The Hizbullah movement operating in Lebanon in the war between Israel-Kasa's Hamas Organization is in favor of Hamas. The movement is attacking Israel.
-
-Israel is also actively attacking Lebanon. Hasbullah Movement President Hasan Nasrallah and the main commanders of the movement have been killed.
-
-Hashem Sabideen was elected as the new leader of the Hizbullah movement after Nasrallah was killed. Meanwhile, it has been reported that Sabitin has also been killed.
-
-On the 8th of this month, Israeli Prime Minister Netanyahu said that Hizbullah's next leaders were killed.
-
-But Hashem does not mention the name of Sabidin. The military has confirmed the killing of Hashem Sabidin.
-
-However, it is noteworthy that the Hizbullah movement has not yet confirmed this message.
-
-◼️
-
-[Data](articles/a2898dd2.json)
-
-[Extended Data](ext_articles/a2898dd2.ext.json)
-
----
-
-### The new leader of the Hizbullah telephone system is also killed?
-
-*2024-10-23 11:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹிஸ்புல்லா-அமைப்பின்-புதிய-தலைவரும்-பலி/50-345914) · `ta`
-
-Israeli military claims Hashem Sabidin, newly elected Hezbollah leader, killed. Hezbollah denies report. Conflict escalates between Israel and Hezbollah in Lebanon.
-
-🟩
-
-The Israeli military has said that Hashem Sabidin, who was elected as the new leader of the Hizbullah movement, has also been killed.
-
-The Hizbullah movement operating in Lebanon in the war between Israel-Kasa's Hamas Organization is in favor of Hamas. The movement is attacking Israel.
-
-Israel is also actively attacking Lebanon. Hasbullah Movement President Hasan Nasrallah and other major commanders of the movement have been killed.
-
-Following Nasralla's killing, his cousin Hashem Sabideen was elected as the new leader of the Hizbullah movement. Meanwhile, it has been reported that Safidin has also been killed.
-
-On the 8th of this month, Israeli Prime Minister Netanyahu said that Hizbullah's next leaders were killed.
-
-But Hashem did not mention the name of Sabidin. The military has confirmed the killing of Hashem Sabidin.
-
-However, it is noteworthy that the Hizbullah movement has not yet confirmed this message.
-
-◼️
-
-[Data](articles/b0960856.json)
-
-[Extended Data](ext_articles/b0960856.ext.json)
 
 ---

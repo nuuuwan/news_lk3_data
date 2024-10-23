@@ -1,36 +1,76 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 23:10:43**
+As of **2024-10-23 23:24:00**
 
 ## Newspaper Stats
 
-*Scraped **51,006** Articles*
+*Scraped **51,010** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 410
-colombotelegraphcom | 509
+colombotelegraphcom | 510
 bbccomsinhala | 517
 islandlk | 3,030
 economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
-adalk | 4,747
+adalk | 4,748
 adaderanalk | 6,050
-tamilmirrorlk | 7,022
-virakesarilk | 8,174
+tamilmirrorlk | 7,023
+virakesarilk | 8,175
 adaderanasinhalalk | 8,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,006 (100.0%) of 51,006 articles have been extended.
+51,008 (100.0%) of 51,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### நாட்டின் தேசிய பாதுகாப்புக்கு அச்சுறுத்தல்?
+
+*2024-10-23 23:19:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-தேசிய-பாதுகாப்புக்கு-அச்சுறுத்தல்/175-345952) · `ta`
+
+இலங்கையில் சில வெளிநாட்டு பிரஜைகளை குறிவைத்து தாக்குதல் நடத்த தயாராக உள்ளதாக கடந்த 3 வாரங்களுக்கு முன்னர் ஜனாதிபதி தலைமையில் பாதுகாப்பு சபையில் பேசப்பட்டது.
+
+இதையடுத்து, வெளிநாட்டவர்களின் பாதுகாப்பு, அவர்கள் உள்ள இடங்களின் பாதுகாப்பு, மத வழிபாட்டுத் தலங்களுக்கு சிறப்பு பாதுகாப்புத் திட்டத்தின் கீழ் பொலிஸ், விசேட அதிரடிப்படை மற்றும் புலனாய்வு அதிகாரிகள் பாதுகாப்பு அளித்தனர்.
+
+இந்த பாதுகாப்பு பணிக்காக நேற்று (22) முதல் விசேட பாதுகாப்பு திட்டம் ஆரம்பிக்கப்பட்டதாக பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரிய தெரிவித்தார்.
+
+இதேவேளை, தேசிய பாதுகாப்புக்கு அச்சுறுத்தல் இல்லை எனவும் பதில் பொலிஸ் மா அதிபர்  பிரியந்த வீரசூரிய மேலும் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/9947649c.json)
+
+---
+
+### இலங்கையின் 5 விக்கெட் வெற்றியில் முக்கிய பங்காற்றிய தீக்ஷன, ஹசரங்க, அசலன்க; தொடரும் இலங்கை வசமானது
+
+*2024-10-23 22:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/196956) · `ta`
+
+கண்டி, பல்லேகலை சர்வதேச விளையாட்டரங்கில் புதன்கிழமை (23) நடைபெற்ற மேற்கிந்தியத் தீவுகளுக்கு எதிரான 2ஆவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் 5 விக்கெட்களால் மிக இலகுவாக இலங்கை வெற்றியீட்டியது.
+
+இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட சர்வதேச ஒருநாள் கிரிக்கெட் தொடரை ஒரு போட்டி மீதம் இருக்க 2 - 0 என்ற ஆட்டங்கள் வித்தியாசத்தில் இலங்கை தனதாக்கிக்கொண்டது.
+
+மஹீஷ் தீக்ஷன, வனிந்து ஹசரங்க, அசித்த பெர்னாண்டோ ஆகியோரது துல்லியமான பந்துவீச்சுகளும் அணித் தலைவர் சரித் அசலன்கவின் திறமையான துடுப்பாட்டமும் இலங்கையின் வெற்றியை இலகுவாக்கின.
+
+இந்தப் போட்டி ஆரம்பமாவதற்கு முன்னர் சுமார் ஒரு மணி நேரம் மழை பெய்ததால் ஆட்டத்தை ஆரம்பிப்பதில் 2 மணி நேரம் தாமதம் ஏற்பட்டது.
+
+போட்டி பிற்பகல் 4.30 மணிக்கு ஆரம்பிக்கப்பட்டபோது அணிக்கு 44 ஓவர்கள் என நிர்ணயிக்கப்பட்டது.
+
+மேற்கிந்தியத் தீவுகளால் நிர்ணயிக்கப்பட்ட 190 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை 38.2 ஓவர்களில் 5 விக்கெட்களை இழந்து 190 ஓட்டங்களைப் பெற்று மிகவும் இலகுவாக வெற்றிபெற்றது.
+
+...
+
+[Data](articles/126c0479.json)
+
+---
 
 ### 10 school students leave tomorrow due to landslide risk
 
@@ -361,6 +401,32 @@ Security sources said that photos of the Lakwijaya power plant have been taken b
 [Data](articles/483ceb30.json)
 
 [Extended Data](ext_articles/483ceb30.ext.json)
+
+---
+
+### There is no shortage of rice - rice is not imported
+
+*2024-10-23 20:03:09* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-හිඟයක්-නෑ---සහල්-ආනයනය-කරන්නෙත්-නෑ/11-412648) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan President Anura Kumara Dissanayake addresses Trincomalee rally, stating no rice shortage, economy not broken, and national unity. Emphasizes building a country for all ethnic groups: Sinhalese, Tamils, and Muslims.
+
+🟩
+
+President Anura Kumara Dissanayake said three national immense services would not be taken to break the economy without being broken down and to break the economy in the country.. The President stated that the rice mill owners of the country had no shortage of rice in the country.
+
+Therefore, the rice is not imported other than rice required for tourism.The President said that the new government's first budget was given to the public to be a short-term group of people after the first budget of the new government to be brought in February next year.Addressing the Rally of the Trincomalee People's Rally, the President said.
+
+"We won the presidential election to make the most powerful change in Sri Lanka. Subsequently, within a short period of time, the people were dissolved and allowed to build a new administration. After the general election, we maintain a government of Sri Lanka and the history of Sri Lanka and in the world and the history of the world.
+
+...
+
+[Data](articles/623ce2cf.json)
+
+[Extended Data](ext_articles/623ce2cf.ext.json)
 
 ---
 
@@ -1147,6 +1213,20 @@ The President made this observation at a meeting held in Trincomalee today (23).
 [Data](articles/9bb2ea99.json)
 
 [Extended Data](ext_articles/9bb2ea99.ext.json)
+
+---
+
+### Accountants – Watchdogs Or Facilitators Of Financial Crimes!
+
+*2024-10-23 17:03:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/accountants-watchdogs-or-facilitators-of-financial-crimes/) · `en`
+
+“To steal you don’t need a mask and a gun- just a three-piece suit and a briefcase” ~ the motto of the new mafia.
+
+...
+
+[Data](articles/ff4f1bb5.json)
+
+[Extended Data](ext_articles/ff4f1bb5.ext.json)
 
 ---
 
@@ -2375,97 +2455,5 @@ In the meantime, Israel's attack was a building in Lebanon, reports foreign medi
 [Data](articles/c44334a0.json)
 
 [Extended Data](ext_articles/c44334a0.ext.json)
-
----
-
-### Britain updates Sri Lankan travel advice!
-
-*2024-10-23 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/196905) · `ta`
-
-US embassy warns tourists about potential attacks in Arukamguda. Britain updates travel advisory. Avoid area until further notice. Contact 119 for suspicious incidents. Stay informed through local media.
-
-🟩
-
-The US embassy has said that it has received information that the tourist attractions may be attacked in the Arukamguda area.
-
-In this case, Britain has updated Travel Advisory for its citizens.
-
-It is noteworthy that the US embassy has instructed its citizens to avoid tourism until it is re -notified in the area as it has been informed that tourist attractions can be attacked.
-
-Meanwhile, the US Messenger has made it clear to its national citizens to inform the telephone numbers 119 if there are suspicious incidents.
-
-The US embassy has appealed to its nationals to have telephone -like communications and visit the local media of Sri Lanka.
-
-◼️
-
-[Data](articles/f8066b4b.json)
-
-[Extended Data](ext_articles/f8066b4b.ext.json)
-
----
-
-### British announcement about Arugamaye
-
-*2024-10-23 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202460) · `si`
-
-British update travel advice for Sri Lanka due to US embassy warning about Arugambay. American Embassy advised to evacuate area targeted for tourism.
-
-🟩
-
-The British Government has also updated the travel advice for Sri Lanka based on the warning issued by the American Embassy for Arugambay.
-
-The American Embassy in Sri Lanka has been told to leave the country as a result of a targeting of tourism in Arugambay.
-
-◼️
-
-[Data](articles/574fabba.json)
-
-[Extended Data](ext_articles/574fabba.ext.json)
-
----
-
-### UK updates travel advice for Sri Lanka
-
-*2024-10-23 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102874/uk-updates-travel-advice-for-sri-lanka) · `en`
-
-The United Kingdom (UK) has updated its travel advice for Sri Lanka based on the latest travel alert issued by the U.S. Embassy regarding potential threats in the Arugam Bay area.
-
-The U.S. Embassy in Colombo today issued a security alert for American citizens in Sri Lanka strongly advising them to avoid the Arugam Bay area until further notice, citing credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.
-
-The Embassy says it has received credible information warning of an attack targeting popular tourist locations in the Arugam Bay area.
-
-“Due to the serious risk posed by this threat, the Embassy imposed a travel restriction on Embassy personnel for Arugam Bay effective immediately and until further notice.”
-
-“U.S. citizens are strongly urged to avoid the Arugam Bay area until further notice,” the security alert said.
-
-...
-
-[Data](articles/e57a7176.json)
-
-[Extended Data](ext_articles/e57a7176.ext.json)
-
----
-
-### 9 boys abuse: Piku arrested
-
-*2024-10-23 12:49:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/9-சிறுவர்கள்-துஷ்பிரயோகம்-பிக்கு-கைது/76-345918) · `ta`
-
-Pikku arrested for abusing 5 grade 9 boys. Police investigation ongoing. Children hospitalized for medical exam.
-
-🟩
-
-Complete police said that a man of Vihara had been arrested on charges of abusing five students of a popular school.
-
-The Kalanayan police said that the Kalanai police have arrested Pikku on a complaint lodged by the police after the children who were abused by school teachers and parents informed them.
-
-The police said that complaints have been received that five boys who are studying in grade 9 in the school are located near the same school.. The children have been admitted to the Kalayan Base Hospital for medical examination, Kalanai police said.
-
-Further investigations are underway under the leadership of Chief Inspector of Police Vasantha Herath in connection with the incident.
-
-◼️
-
-[Data](articles/9a7b9455.json)
-
-[Extended Data](ext_articles/9a7b9455.ext.json)
 
 ---

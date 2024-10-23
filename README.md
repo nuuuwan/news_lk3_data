@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 08:23:10**
+As of **2024-10-23 08:02:26**
 
 ## Newspaper Stats
 
-*Scraped **50,834** Articles*
+*Scraped **50,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,39 +14,23 @@ colombotelegraphcom | 509
 bbccomsinhala | 513
 islandlk | 3,030
 economynextcom | 3,108
-dailyftlk | 3,474
-adalk | 4,721
+dailyftlk | 3,466
+adalk | 4,720
 dailymirrorlk | 4,733
 adaderanalk | 6,020
 tamilmirrorlk | 6,987
 virakesarilk | 8,148
-adaderanasinhalalk | 8,818
+adaderanasinhalalk | 8,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,815 (100.0%) of 50,834 articles have been extended.
+50,815 (100.0%) of 50,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
-
-### බහුතරය ලැබුණ ගමන් සජිත් කරන වෙනස
-
-*2024-10-23 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202447) · `si`
-
-මෙවර මහ මැතිවරණයෙන් පාර්ලිමේන්තුවේ බහුතරය ලැබුණු වහාම ජනාධිපති සමඟ එක්ව IMF ගිවිසුම සංශෝධනය කරන බව සජිත් ප්‍රේමදාස මහතා පවසයි.
-
-ඔහු පවසන්නේ, පසුගිය රජය ක්‍රියාත්මක කර ඇති අසාධාරණ සෘජු සහ වක්‍ර බදු අඩු කරමින් ජනතාවට සහන සැලසීම සඳහා පියවර ගන්නා බවය.
-
-"අද මේ රටේ ජනතාව බලාපොරොත්තු වෙනවා හිටපු ජනාධිපතිවරයා ප්‍රමුඛ ආණ්ඩුව ක්‍රියාත්මක කරපු අසාධාරණ බදු සුත්‍රය ඉක්මනින්ම වෙනස් වෙයි කියලා. තමන්ගේ ඍජු බදු සහ වක්‍ර බදු PAYE Tax වැට් එක අඩුවෙනකල් බලාගෙන ඉන්නවා. බය නැතුව පාර්ලිමේන්තුවේ බහුතරය සමගි ජන බලවේගයට ලබාදෙන්න. අනුර කුමාර දිසානායක ජනාධිපතිවරයා සමග සමගි ජන බලවේග පාර්ලිමේන්තුවේ බහුතරය එකට වැඩ කරලා, IMF ගිවිසුමේ තිබෙන ජනතා විරෝධී සියලුම විධිවිධාන වෙනස් කරලා, ජනතාවට බරක් පටවෙන්නේ නැති පොදු ජනතාවට උහුලා ගත හැකි ජන ජීවිතයක් නිර්මාණය කළ හැකි IMF අලුත් ගිවිසුමකට යන්න නම් ඔබගේ වරම සමගි ජන බලවේගයට ලබාදෙන්න."
-
-◼️
-
-[Data](articles/81a31cda.json)
-
----
 
 ### Shooting in Ratmalana Railway Yard
 
@@ -71,20 +55,6 @@ The suspect was admitted to the Kalubowila hospital.
 [Data](articles/f820d9b8.json)
 
 [Extended Data](ext_articles/f820d9b8.ext.json)
-
----
-
-### Simplifying personal income taxes
-
-*2024-10-23 06:37:26* · [`dailyftlk`](https://www.ft.lk/columns/Simplifying-personal-income-taxes/4-768307) · `en`
-
-The deadline to file personal income tax returns for the Year of Assessment 2023/24 is 30 November 2024 and is fast approaching and many individuals are in a panic trying to figure out their tax status and tax compliance obligations. This article intends to address in an FAQ format some common but important questions individuals have with respect to their tax obligations.
-
-At the outset it must be noted that the tax payment deadlines on a self-assessment basis have already lapsed for the Year of Assessment 2023/24. However, it is a commonly known fact that people work best after the deadline has passed and when they are in a panic!
-
-...
-
-[Data](articles/e5d32b65.json)
 
 ---
 
@@ -132,24 +102,6 @@ An Indian intelligence agency had provided details of the impending attack.
 
 ---
 
-### ATIRE unveils world’s first certified carbon-neutral industrial tire range
-
-*2024-10-23 06:20:25* · [`dailyftlk`](https://www.ft.lk/business/ATIRE-unveils-world-s-first-certified-carbon-neutral-industrial-tire-range/34-768302) · `en`
-
-From left:  Control Union Inspections Ltd., Scheme Manager- Sustainability Assessment & Verification Gayan Ranasinghe,  Managing Director Roshan Ranawake, ATIRE Ltd., Director/CEO Saveen Anjana Abeyratne and Director Sonali  Abeyratne
-
-ATIRE, a fast-emerging leader in industrial tires, has announced a global first: the launch of its certified carbon-neutral solid tire range.
-
-This groundbreaking achievement positions ATIRE as the world’s first company to offer carbon-neutral industrial tires, reflecting a significant leap forward in sustainable manufacturing.
-
-The certification, issued by Control Union under rigorous ISO standards, applies to ATIRE’s premium range of solid tires, including products for forklifts, telehandlers, skid-steer loaders, scissor lifts, and port applications. These tires are not just durable and high-performing; they are also carbon-neutral, covering emissions from raw materials, manufacturing processes, and the product’s journey up to the factory gate.
-
-...
-
-[Data](articles/39e62360.json)
-
----
-
 ### IMF flags risks to global economy from elections and policy shifts
 
 *2024-10-23 06:16:00* · [`economynextcom`](https://economynext.com/imf-flags-risks-to-global-economy-from-elections-and-policy-shifts-184468/) · `en`
@@ -165,108 +117,6 @@ The report titled ‘Policy Pivot, Rising Threats’ noted that nearly half of t
 [Data](articles/1e5533f4.json)
 
 [Extended Data](ext_articles/1e5533f4.ext.json)
-
----
-
-### President says control price of rice remains unchanged
-
-*2024-10-23 06:14:34* · [`dailyftlk`](https://www.ft.lk/business/President-says-control-price-of-rice-remains-unchanged/34-768300) · `en`
-
-Calls for formal mechanism to ensure fair pricing for farmers and consumers at meeting with rice millers and officials from Department of Agriculture
-
-At meeting with rice millers and officials from Department of Agriculture calls for formal mechanism to ensure fair pricing for farmers and consumers
-
-Says efforts underway to lower input costs for SME rice millers
-
-President Anura Kumara Dissanayake yesterday emphasised that the controlled price of rice will not change.
-
-He also highlighted that plans are underway for a long-term program to create an organised agricultural plan, which would provide greater benefits to farmers.
-
-President Dissanayake made these remarks during a discussion with rice millers and officials from the Department of Agriculture.
-
-During this meeting, participants focused on the current prices of consumer goods, emphasising the importance of controlling the price of rice, which is a staple food for the population.
-
-...
-
-[Data](articles/7c9a64b3.json)
-
----
-
-### Ceylon Chamber reschedules Sri Lanka Economic Summit in January
-
-*2024-10-23 06:12:59* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-reschedules-Sri-Lanka-Economic-Summit-in-January/34-768299) · `en`
-
-The Ceylon Chamber of Commerce yesterday announced that its flagship event, the Sri Lanka Economic Summit, originally scheduled for November 2024, has been rescheduled to 28 to 29 January, 2025, in light of the forthcoming General Election.
-
-Under the theme ‘Shaping Sri Lanka’s Future: Transformational Growth Rooted in Sound Economic Policies,’ the Summit will provide an essential platform for discussing the path forward at a time when Sri Lanka’s economic and political landscape has had significant changes.
-
-...
-
-[Data](articles/92bb002a.json)
-
----
-
-### Sri Lanka tackles passport shortage with 50,000 new arrivals
-
-*2024-10-23 06:12:34* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-tackles-passport-shortage-with-50-000-new-arrivals/34-768298) · `en`
-
-Sri Lanka has received around 7,500 passports on Saturday, with an additional 42,000 expected to arrive today (23), bringing the total to 50,000 passports this week.
-
-The move comes as part of the Government’s efforts to resolve a shortage that led to a long queue in recent months.
-
-Cabinet Spokesman and Public Security Minister Vijitha Herath yesterday announced that the Government plans to import another 100,000 passports next month, which is expected to significantly ease the backlog and reduce waiting times for applicants. This quantity is part of the 750,000 consignment.
-
-...
-
-[Data](articles/cdd0e26f.json)
-
----
-
-### Free Trade Zone Manufacturers Association congratulates new BOI Chairman
-
-*2024-10-23 06:11:39* · [`dailyftlk`](https://www.ft.lk/business/Free-Trade-Zone-Manufacturers-Association-congratulates-new-BOI-Chairman/34-768297) · `en`
-
-Free Trade Zone Manufacturers Association (FTZMA) has congratulated Arjuna Herath on his appointment as the new Chairman of the Board of Investment (BOI).
-
-FTZMA said being a board member at the Colombo Stock Exchange and a distinguished Senior Chartered Accountant and a Past President of the Institute of Chartered Accountants of Sri Lanka whilst actively involved in international accounting forums such as South Asian Federation of Accountants and the Confederation of Asia Pacific Accountants, it undoubtedly believes that the wisdom and experience gained could steer the BOI to the limelight of investment and strengthen the economy of  the country.
-
-“Moreover we are quite confident that you would develop BOI as a one-stop shop in meeting our expectations thereby making it more focused and useful to the existing and potential investors is the right way forward,” said FTZMA President Dhammika Fernando in the letter on behalf of the Executive Committee and members.
-
-◼️
-
-[Data](articles/65cee391.json)
-
----
-
-### Cabinet nod to limit scrap metal tenders to local bidders to boost industries
-
-*2024-10-23 06:11:22* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-nod-to-limit-scrap-metal-tenders-to-local-bidders-to-boost-industries/34-768296) · `en`
-
-The Cabinet of Ministers at their meeting on Monday decided restricting tenders for the disposal of scrap metal by State-owned transport companies to local bidders only, to support domestic industries.
-
-Earlier, in June 2024 the Government approved a proposal to call for international tenders to sell the large volumes of scrap metal accumulated by the Sri Lanka Railway Department and the Sri Lanka Transport Board.
-
-“The new decision restricts the bidding process to local companies; a shift intended to address the raw material needs of manufacturers. The move is aimed at boosting local industries that rely on scrap metal for production,” Cabinet Spokesman and Minister Vijitha Herath said at the weekly post-Cabinet meeting media briefing yesterday.
-
-He said the market has faced shortages of raw materials and the Government hopes that by keeping these resources within the country, local businesses will benefit from more affordable and accessible scrap metal.
-
-...
-
-[Data](articles/86e0977f.json)
-
----
-
-### Sri Lankan corporates can be braver on psychological safety
-
-*2024-10-23 06:10:23* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lankan-corporates-can-be-braver-on-psychological-safety/4-768295) · `en`
-
-Psychological safety is that exhilarating comfort which drives all human beings to give their best efforts to everything they do whether they are at home, work, and school or in society
-
-I had my first ‘impactful’ failure in a corporate role and my first acquaintance with psychological safety in mid-1975. I was an employee of Lever Brothers (Ceylon) Ltd. (Levers), as it was then called. Six months prior to the subject incident, I had on completing my accounting examinations, been transferred from the Accounting Department to the Planning Department with the task of infusing management accounting thinking in the planning discipline.
-
-...
-
-[Data](articles/7dc54b50.json)
 
 ---
 
@@ -791,24 +641,6 @@ After considering the facts presented from both parties, the Supreme Court point
 [Data](articles/1debf925.json)
 
 [Extended Data](ext_articles/1debf925.ext.json)
-
----
-
-### ගම්පිලගේ ප්‍රකාශය කන්දක් විලිලා මීයෙක් වැදුවා වගෙයි
-
-*2024-10-22 21:38:45* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පිලගේ-ප්‍රකාශය-කන්දක්-විලිලා-මීයෙක්-වැදුවා-වගෙයි/11-412618) · `si`
-
-උදය ගම්මන්පිළ පසුගියදා පාස්කු ප්‍රහාරය පිළිබඳව සිදු කළ හෙළිදරව් කිරීම විශාල කාළබෝම්බයක් වේ යැයි තමන් බලාපොරොත්තු වූවත් එය කන්දක් විළිළා මීයෙක් වැදුවා වගේ වූ බවත් රටේ ජනතාව එම ප්‍රකාශ ගනන් ගන්නේ නැති බවත්  ප්‍රවීන රංගන ශිල්පි රන්ජන් රාමනායක මහතා 10/22 දින පෙරවරුවේ  මීගමුව ඇවෙන්ඩ්‍රා ගාර්ඩන් හෝටලයේ පැවති එක්සත් ප්‍රජාතන්ත්‍රවාදී හඩ පක්ෂයේ වැඩමුළුවක දී පැවසීය.
-
-නව රජය බලයට පත් වී තවමත් මාසයක කාලයක් සම්පූර්ණ වී නොමැති මෙවන් අවස්ථාවක රජයටත් යම් කලයක් අවස්ථාවක් ලබා දිය යුතු බව තම පක්ෂයේත් , තමාගේත් පෞද්ගලික අදහස බව රන්ජන් රාමනායක මහතා පැවසීය .
-
-පසුගිය පොදු පෙරමුණු ආණ්ඩුව බලයට පත් වූයේ ද "පාස්කු ප්‍රහාරය" විකුණා ගෙන බවත් එම රජයේ අමාත්‍යවරයෙකු වූ උදය ගම්මන්පිළ තම රජය බලයට පත් කර ගැනීමට " ජාතික ආරක්ෂාව " ද විකුණා ගත් බව ද අවධාරණය කළේය.
-
-තම පක්ෂය ශ්‍රී ලංකාවේ දිස්ත්‍රික් 09 කට පමණක් තරග කරන බවත් , ඒ අනුව ගම්පහ දිස්ත්‍රික්කය සදහා තරග කරන අපේක්ෂකයන් සදහා මෙම වැඩමුළුව පවත්වන බවත් පැවසීය .
-
-...
-
-[Data](articles/aac2fbb8.json)
 
 ---
 
@@ -2357,5 +2189,241 @@ The US dollar purchasing price was 288.6592 rupees and the sales price were 297.
 [Data](articles/027f6179.json)
 
 [Extended Data](ext_articles/027f6179.ext.json)
+
+---
+
+### Sri Lanka to obtain $30 mln loan from ADB for Moragolla hydropower project
+
+*2024-10-22 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102850/sri-lanka-to-obtain-30-mln-loan-from-adb-for-moragolla-hydropower-project) · `en`
+
+The Cabinet of Ministers has approved the proposal to obtain a loan of US$ 30 million from the general capital resources of the Asian Development Bank (ADB), directly to the Ceylon Electricity Board (CEB) in two instalments, for the completion of the Moragolla hydropower project.
+
+Cabinet Spokesman Minister Vijitha Herath stated that considering the current economic crisis in Sri Lanka, the ADB has agreed to grant US$ 30 million from its general capital resources under small cost financial facilities for the completion of construction and post-construction activities of the Moragolla hydroelectric project and for the implementation of complementary projects targeted at the development of renewable energy.
+
+Accordingly, the Cabinet of Ministers has agreed to the proposal presented by the President, in his capacity as the Minister of Power and Energy, to obtain the said loan amount directly for the Ceylon Electricity Board in two instalments, he said.
+
+◼️
+
+[Data](articles/91c4e2e6.json)
+
+[Extended Data](ext_articles/91c4e2e6.ext.json)
+
+---
+
+### A roof breaks in Akuresa and falls on his head
+
+*2024-10-22 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196830) · `ta`
+
+Akuressa: Roof collapse kills 54-year-old man during renovation work. Incident occurred near shopping center in Matara district.
+
+🟩
+
+A roof of an old building near a shopping center in Akuressa, Matara, collapsed and a man died on the spot, police said.
+
+The deceased is 54 -year -old Hewa Pettake Rajith Priyantha, a resident of Kathirathahena, Matara.
+
+Two people are in the process of removing the concentrated base of the second floor of an old building in Akuressa.
+
+One part of the roof has collapsed on the head of one of them.
+
+◼️
+
+[Data](articles/0d81ce9a.json)
+
+[Extended Data](ext_articles/0d81ce9a.ext.json)
+
+---
+
+### Recovery of two bodies in Kandy
+
+*2024-10-22 13:35:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-இரண்டு-சடலங்கள்-மீட்பு/76-345846) · `ta`
+
+Kandy: Two unidentified bodies found. Woman discovered in lake near Swiss Hotel. Man found on Peradeniya Road. Both identities unknown.
+
+🟩
+
+Two unidentified bodies have been found in the Kandy Police Division, police said.
+
+The body of a young woman was recovered after floating in a lake in front of Swiss hotel in Sankaraja Mawatha at Kandy Lake Circle. Police say who has not yet been identified.
+
+According to police, the body of a young man who died on a side road under the primrose plantation on Peradeniya Road has not yet been identified.
+
+◼️
+
+[Data](articles/e4696af7.json)
+
+[Extended Data](ext_articles/e4696af7.ext.json)
+
+---
+
+### Sri Lanka’s export economy heavily concentrated around apparel: IPS
+
+*2024-10-22 13:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-export-economy-heavily-concentrated-around-apparel-ips-184407/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s goods and services exports accounted for nearly 20.4 percent of GDP in 2023, with manufacturing exports contributing 14 percent, the Institute of Policy Studies (IPS) said, noting however that the country’s export economy remains heavily concentrated around industrial goods, particularly apparel.
+
+IPS said in a statement that industrial goods—primarily apparel—make up 77 percent of export income, while agricultural exports contribute just 22 percent. This lack of diversification has left Sri Lanka vulnerable, with its economy highly dependent on apparel and traditional agricultural sectors like tea and rubber, the institute said.
+
+These vulnerabilities, exacerbated by recent economic challenges, raise the critical question of whether reforms in trade, energy, and agriculture can provide the boost needed for recovery, IPS said citing talking points raised at a recent event organised by institute to launch its State of the Economy 2024 report.
+
+...
+
+[Data](articles/ab6ba496.json)
+
+[Extended Data](ext_articles/ab6ba496.ext.json)
+
+---
+
+### New chairman and members appointed to NTC
+
+*2024-10-22 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102849/new-chairman-and-members-appointed-to-ntc) · `en`
+
+A new chairman and commission members have been appointed to the National Transport Commission (NTC).
+
+Cabinet Spokesman Minister Vijitha Herath stated that the Cabinet of Ministers has granted approval to these appointments yesterday (21).
+
+Accordingly, Dr. Bandura Dileepa Witharana has been appointed as the Chairman of the National Transport Commission. He is a Senior Lecturer at the Open University of Sri Lanka.
+
+• W. Ravi Prasad De Mel - Senior Lecturer at University of Sri Jayawardenapura
+
+• Mrs. Dr. Namali Tharanga Sirisoma - Senior Lecturer at Sir John Kotelawala Defence University
+
+As per the provisions of the National Transport Commission Act 37 of 1991, the commission should be comprised of 8 members.
+
+According to the section 3(1) (a) of the said Act, three of the members are appointed on ex officio representing the Ministries of Transport, Policy Planning and Finance.
+
+...
+
+[Data](articles/a71a3e62.json)
+
+[Extended Data](ext_articles/a71a3e62.ext.json)
+
+---
+
+### Sri Lanka appoints new deputy treasury secretary, promotes other officers
+
+*2024-10-22 12:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-new-deputy-treasury-secretary-promotes-other-officers-184399/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has appointed H C D L Silva as the deputy secretary of the Treasury, and promoted other officers, a cabinet statement said.
+
+Silva is the Director General of the Department of Treasury Operations at present.
+
+D A P Abesekara, Director General of the Department of External Resources, will be appointed to the post of deputy secretary of the Treasury after the retirement of the current incumbent R M P Rathnayaka on November 6.
+
+Additional Director General of the Department of Public Finance A N Hapugala is appointed Director General of the Department of Public Finance.
+
+N S M P Ranjith, currently serving as Acting Director General of the Department of Project Management and Monitoring, is appointed to the post of Director General of the same Department.
+
+Additional Director General of the Department of National Planning J M S D Rathnayaka is appointed as the Director General of the same Department. (Colombo/Oct22/2024)
+
+◼️
+
+[Data](articles/50424074.json)
+
+[Extended Data](ext_articles/50424074.ext.json)
+
+---
+
+### Muddy Poster poster: Ranga ordered to arrest
+
+*2024-10-22 12:43:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேறு-பூசும்-சுவரொட்டி-ரங்காவை-கைது-செய்ய-உத்தரவு/175-345844) · `ta`
+
+Colombo Chief Magistrate orders CID to arrest former MP J. Sreeranga over muddy posters. Police investigate connection to Mannar High Court Judge Mohammed Mihal. Ranga claims posters stuck to police vehicles.
+
+🟩
+
+Colombo Chief Magistrate Thilina Kamage has ordered the Colombo Criminal Investigation Division (CID) to arrest him and put him in court if former MP J. Sreeranga is linked to the muddy posters.
+
+Police have arrested a man who was investigating the muddy passenger posters against the Mannar High Court Judge Mohammed Mihal.
+
+Former parliamentarian Sriranga said that the posters were sticking to the police.
+
+The Colombo Criminal Investigation Police went to Ranga's house to arrest Ranga on a court order.
+
+Colombo Chief Magistrate Dilina Kamage on Monday (22) ordered him to appear to him immediately.
+
+◼️
+
+[Data](articles/3e844697.json)
+
+[Extended Data](ext_articles/3e844697.ext.json)
+
+---
+
+### Muddy Poster: Uttara to arrest Ranga
+
+*2024-10-22 12:43:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேறு-பூசும்-சுவரொட்டி-ரங்காவை-கைது-செய்ய-உத்தவு/175-345844) · `ta`
+
+Colombo Chief Magistrate orders CID to arrest former MP J. Sreeranga over muddy posters linking him to investigation. Police arrested man probing posters against judge. Ranga claims posters stuck to police.
+
+🟩
+
+Colombo Chief Magistrate Thilina Kamage has ordered the Colombo Criminal Investigation Division (CID) to arrest him and put him in court if former MP J. Sreeranga is linked to the muddy posters.
+
+Police have arrested a man who was investigating the muddy passenger posters against the Mannar High Court Judge Mohammed Mihal.
+
+Former parliamentarian Sriranga said that the posters were sticking to the police.
+
+The Colombo Criminal Investigation Police went to Ranga's house to arrest Ranga on a court order.
+
+Colombo Chief Magistrate Dilina Kamage on Monday (22) ordered him to appear to him immediately.
+
+◼️
+
+[Data](articles/4c8eb920.json)
+
+[Extended Data](ext_articles/4c8eb920.ext.json)
+
+---
+
+### Gotabhaya says it is ready to testify in any courts of the country except Jaffna
+
+*2024-10-22 12:43:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3dvdzzg9v7o) · `si`
+
+Gotabhaya Rajapakse willing to testify in all courts except Jaffna. Disappearance case witness. Petition against him dismissed. Life threats reason for avoiding Jaffna court.
+
+🟩
+
+Gotabhaya says it is ready to testify in any courts of the country except Jaffna
+
+Former President's Gotabhaya Rajapakse, who is a witness to the disappearance of the trial in the case, is ready to give evidence of the case in any case of the Trial to the disappearance of two human rights activists, Lalith Weeraraj and Kagan Muruganandan.He said in front of the Supreme Court.
+
+President's Counsel Romesh de Silva, who appeared on behalf of former President Gotabhaya Rajapakse, was called for a petition against former President Gotabhaya Rajapakse was summoned against the decision of the Court of Appeal.
+
+The petition was called to the Supreme Court Judge Bench, Surren Gunaratne, Shiran Gunaratne, and Achala Weddappendi.
+
+President's Counsel Romesh de Silva stated in court to the President's Counsel Romesh de Silva, who appeared on behalf of Gotabhaya Rajapaksa.
+
+However, the President's Counsel stated that he willingly testify in a court except Jaffna court.
+
+...
+
+[Data](articles/16c2b886.json)
+
+[Extended Data](ext_articles/16c2b886.ext.json)
+
+---
+
+### Gammanpila does not accept the report on Easter attack - Sri Lanka Catholic Church
+
+*2024-10-22 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202427) · `si`
+
+Sri Lanka Catholic Church rejects Easter attack report due to alleged bias. Archbishop claims committee led by accused person compromised investigation integrity. Church demands independent probe.
+
+🟩
+
+Retired Umphallus Awarded to the Passover attack. M. The Hon.
+
+The Hon
+
+Speaking at a media briefing in Borella, Archbishop, Fr.
+
+"The sister of Prasanna Alwis, the sister of criminal allegations of murder investigation and destroying. M. A clear fact that Mrs. J Alwis is the head of this committee, it is clear that a conflict between the conventions. Therefore, we cannot accept a report presented by a committee headed by a committee headed by a shortage and independent report. So let's turn the record completely. "
+
+◼️
+
+[Data](articles/3e10d243.json)
+
+[Extended Data](ext_articles/3e10d243.ext.json)
 
 ---

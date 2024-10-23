@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 16:39:18**
+As of **2024-10-23 16:56:53**
 
 ## Newspaper Stats
 
-*Scraped **50,947** Articles*
+*Scraped **50,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,115 @@ islandlk | 3,030
 economynextcom | 3,114
 dailyftlk | 3,474
 dailymirrorlk | 4,733
-adalk | 4,735
-adaderanalk | 6,043
+adalk | 4,737
+adaderanalk | 6,044
 tamilmirrorlk | 7,015
 virakesarilk | 8,164
-adaderanasinhalalk | 8,841
+adaderanasinhalalk | 8,843
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,947 (100.0%) of 50,947 articles have been extended.
+50,952 (100.0%) of 50,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Johnston Fernando produced before court
+
+*2024-10-23 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102883/johnston-fernando-produced-before-court) · `en`
+
+Former Minister Johnston Fernando, who was arrested by the Criminal Investigation Department (CID) over the possession of an illegally assembled luxury vehicle, has been produced before the Colombo Fort Magistrate’s Court.
+
+Fernando was arrested following his appearance at the CID this morning (23) to provide a statement regarding an unregistered BMW car allegedly linked to him, which was recently found suspiciously parked at a star-class hotel in Colombo.
+
+A petition filed by Fernando, seeking an order to prevent his arrest over the incident, was taken up for consideration yesterday (22).
+
+During the hearing, his attorneys informed the court that Fernando was prepared to appear before the CID today to give a statement on the matter.
+
+Meanwhile, the Colombo High Court today also issued an arrest warrant on former parliamentarian Johnston Fernando, for failing to appear before the court over a case against him for allegedly involving Sathosa employees in election work from 2010 to 2014.
+
+...
+
+[Data](articles/9dd1634d.json)
+
+[Extended Data](ext_articles/9dd1634d.ext.json)
+
+---
+
+### Sri Lanka Cricket Stop, Hong Kong
+
+*2024-10-23 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202472) · `si`
+
+Sri Lanka Cricket team heads to Hong Kong for international six-a-side tournament from Nov 1-3. Sports minister approval granted.
+
+🟩
+
+The Sri Lankan squad that attends the Hong Kong International Sixast Tournament.
+
+Dr. Harini Amarasuriya said that sports ministers were approved for the tournament for November 1 - 3rd.
+
+◼️
+
+[Data](articles/1f155acc.json)
+
+[Extended Data](ext_articles/1f155acc.ext.json)
+
+---
+
+### Sri Lanka to benefit the coin
+
+*2024-10-23 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202471) · `si`
+
+Sri Lanka hosts West Indies cricket match at Pallekele. Sri Lankan team replaces coach Jeffrey Vanderspar with Mahesh Rangaswamy. Match delayed due to anniversary celebration and reduced overs from 50 to 45.
+
+🟩
+
+Sri Lanka and the West Indies between the West Indies will be held at the Pallekele International Cricket Stadium today (23).
+
+Sri Lankan team has made a different decision for this competition. It is called Mah Meh Superness instead of Jeffrey Vandh.
+
+The competition was delayed due to anniversary and one batch charged 45 overs.
+
+◼️
+
+[Data](articles/0da71fa9.json)
+
+[Extended Data](ext_articles/0da71fa9.ext.json)
+
+---
+
+### The grain is the path after knowing that the friend who came to be the flower
+
+*2024-10-23 16:16:46* · [`adalk`](https://www.ada.lk/breaking_news/කරතබා-පැමිණි-මිතුරා-මල-බව-දැන-ගැනීමෙන්-පසු-මහ-මග-තබා-ගොසින්/11-412635) · `si`
+
+Here's a 200-character summary:
+
+
+
+A 39-year-old Trinity College alumnus died in Kandy's Primary Park area. Police suspect heroin overdose. He had chest pain near home before collapsing. A local man was arrested fleeing the scene.
+
+🟩
+
+The death of a 39-year-old man who had died in the lower part of the Primary Park area in Kandy is not a suspicion death.
+
+The deceased was a residents of Primros Park area in Kandy. He is a past pupil of Trinity College, Kandy.
+
+Police say that he was a person who was heroin addicted to drugs.
+
+After saying that he had a chest pain with another man near his home, he had fled the road after he had died while he was going to work.
+
+Police have arrested the fleeing man and he was a resident near the house of the deceased. (I J)
+
+◼️
+
+[Data](articles/2459754b.json)
+
+[Extended Data](ext_articles/2459754b.ext.json)
+
+---
 
 ### Protection of security from many days ago arrogam
 
@@ -367,6 +461,30 @@ Former Minister Johnston Fernando appeared in the Criminal Investigation Departm
 [Data](articles/1e18a54b.json)
 
 [Extended Data](ext_articles/1e18a54b.ext.json)
+
+---
+
+### Embassy warns for Russian citizens in Sri Lanka
+
+*2024-10-23 15:06:52* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-වෙසෙන-රුසියානු-පුරවැසියන්ට-තානාපති-කාර්යාලයෙන්-අනතුරු-ඇඟවීමක්/11-412634) · `si`
+
+Russian Embassy warns citizens in Sri Lanka due to reported attacks.
+
+🟩
+
+With the statements that an attack was attacked by Arugambay, the Russian embassy has been diagnosed with Russian people in Sri Lanka.
+
+The Russian Embassy in Sri Lanka has stated that as a result of the reporting that there is a attack on the attack, the Russian embassy in Sri Lanka has said a note.
+
+Свя свя свя свяальным зици свици свциальным зициици с явльным ницидр в аннк систористористов туристов туристов туристов г г г ак обращьссство ососось о просьбоссть г глейя людей.H люейя людей.H люейi. //t.co/elzkxxsxwg Pic.twitter.com / jgzdcsno
+
+- RUSIAN EMBASSY IN SRIANA (@RSEMBSRILAN) October 23, 2024
+
+◼️
+
+[Data](articles/f4de2275.json)
+
+[Extended Data](ext_articles/f4de2275.ext.json)
 
 ---
 
@@ -2291,115 +2409,5 @@ Accordingly, Deputy Chief Minister Rajitha Ranasinghe said that the holidays of 
 [Data](articles/4b721c46.json)
 
 [Extended Data](ext_articles/4b721c46.ext.json)
-
----
-
-### The Johnston CID
-
-*2024-10-23 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202452) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-CID: Criminal Investigations Department arrives to take statement from former MP Johnston Fernando.
-
-🟩
-
-The Criminal Investigations Department has arrived at the CID to provide a statement former Parliamentarian Johnston Fernando.
-
-◼️
-
-[Data](articles/a3f552ca.json)
-
-[Extended Data](ext_articles/a3f552ca.ext.json)
-
----
-
-### McDonald’s burgers linked to E. coli outbreak in the US
-
-*2024-10-23 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102866/mcdonalds-burgers-linked-to-e-coli-outbreak-in-the-us) · `en`
-
-A McDonald’s sandwich has been making people sick in the US, according to the Centers for Disease Control and Prevention (CDC).
-
-E. coli, a type of bacteria that can cause serious stomach problems, has been found in McDonald’s Quarter Pounder sandwiches, the CDC announced on Tuesday.
-
-So far, the CDC has recorded 49 cases of illness across 10 states. Ten cases resulted in patients being admitted to hospital and one person has died.
-
-Most of the cases were recorded in western and Midwest states, according to the CDC.
-
-The fast-food restaurant is working with investigators to determine which ingredients caused the outbreak, according to a statement from the CDC.
-
-“McDonald’s has pulled ingredients for these burgers, and they won’t be available for sale in some states,” the agency said.
-
-“It is not yet known which specific food ingredient is contaminated,” the CDC added, noting that McDonald’s has already “stopped using fresh slivered onions and quarter-pound beef patties in several states”.
-
-...
-
-[Data](articles/cd0c4a1e.json)
-
-[Extended Data](ext_articles/cd0c4a1e.ext.json)
-
----
-
-### A Kelaniya University student falls off the upper flow of the hostel
-
-*2024-10-23 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202451) · `si`
-
-Student fell from upper floor of Kelaniya University hostel during study session. Incident occurred at educational institution.
-
-🟩
-
-A student who was studying at the Kelaniya University has fallen in a high floor of the university hostel.
-
-◼️
-
-[Data](articles/e8e65990.json)
-
-[Extended Data](ext_articles/e8e65990.ext.json)
-
----
-
-### Student falls to death from upper floor of hostel at Kelaniya Uni.
-
-*2024-10-23 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102865/student-falls-to-death-from-upper-floor-of-hostel-at-kelaniya-uni-) · `en`
-
-A male student has reportedly fallen to his death from an upper floor of the C.W.W. Kannangara Hostel at the University of Kelaniya, said Police.
-
-The student was rushed to the Kiribathgoda Base Hospital following the incident, however, he was pronounced dead upon admission to the hospital.
-
-The deceased has been identified as a fourth-year student from the Department of Accountancy in the Faculty of Commerce and Management Studies.
-
-◼️
-
-[Data](articles/21469c94.json)
-
-[Extended Data](ext_articles/21469c94.ext.json)
-
----
-
-### Ready to take the responsibility of the opposition
-
-*2024-10-23 08:52:21* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂයේ-වගකීම-ගන්න-සූදානම්/11-412620) · `si`
-
-Opposition leader Roshan Ranasinghe vows to take responsibility for the country. He emphasizes readiness to govern without waiting for the current administration's collapse. Ranasinghe highlights the opposition's expertise in entrepreneurship and its alignment with the people. He criticizes corruption and calls for leadership against the incumbent government.
-
-🟩
-
-Kalutara District Leader Roshan Ranasinghe said that the Almighty is ready to take responsibility for the people of the country.. He was speaking at the media in Panadura yesterday afternoon.
-
-Speaking further Mr. Herath said,. "We do not act as a traditional opposition. The government is ready to take over the people of the country. We are not a group that runs.
-
-We're not waiting for this government to collapse. But if we can't do, we are ready to accept the country as the country falls
-
-We are good, expertise, entrepreneurs have been presented to the country. The people of the country are aligned by the opposition alive to the party.
-
-This country cannot be made with relief. The national propagation does not matter. Ten more to this government and send corrupt people home. Now the people are sitting on the people.
-
-...
-
-[Data](articles/7f2746ea.json)
-
-[Extended Data](ext_articles/7f2746ea.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-23 16:56:53**
+As of **2024-10-23 17:09:08**
 
 ## Newspaper Stats
 
-*Scraped **50,952** Articles*
+*Scraped **50,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,64 @@ dbsjeyarajcom | 410
 colombotelegraphcom | 509
 bbccomsinhala | 516
 islandlk | 3,030
-economynextcom | 3,114
+economynextcom | 3,117
 dailyftlk | 3,474
 dailymirrorlk | 4,733
-adalk | 4,737
-adaderanalk | 6,044
+adalk | 4,738
+adaderanalk | 6,045
 tamilmirrorlk | 7,015
 virakesarilk | 8,164
-adaderanasinhalalk | 8,843
+adaderanasinhalalk | 8,844
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-50,952 (100.0%) of 50,952 articles have been extended.
+50,958 (100.0%) of 50,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-23 (Wednesday)
+
+### Israel issues travel warning to parts of Sri Lanka over terrorism threat
+
+*2024-10-23 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102884/israel-issues-travel-warning-to-parts-of-sri-lanka-over-terrorism-threat) · `en`
+
+Israel’s national security council on Wednesday called on Israelis to immediately leave some tourist areas in southern Sri Lanka over the threat of a possible terrorist attack.
+
+The agency said the warning pertained to the area of Arugam Bay and beaches in the south and west of Sri Lanka, and stemmed from “current information about a terrorist threat focused on tourist areas and beaches”.
+
+The security council did not specify the exact nature of the threat and called on Israelis in the rest of Sri Lanka to be cautious and refrain from holding large gatherings in public areas.
+
+“The Israeli security establishment ... is in close contact with the security authorities in Sri Lanka and is following the developments,” it said.
+
+◼️
+
+[Data](articles/5d342b4b.json)
+
+[Extended Data](ext_articles/5d342b4b.ext.json)
+
+---
+
+### Israel warning of Israel's people in Sri Lanka
+
+*2024-10-23 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202473) · `si`
+
+Israel warns citizens in Sri Lanka: Terrorist threats in tourist areas. National Security Council advises immediate evacuation.
+
+🟩
+
+Israeli nationals in Sri Lanka have made special notice today (23).
+
+The National Security Council has informed the Israelite security council to immediately resign from some tourist areas, as it can cause terrorist attacks.
+
+◼️
+
+[Data](articles/d0665f14.json)
+
+[Extended Data](ext_articles/d0665f14.ext.json)
+
+---
 
 ### Johnston Fernando produced before court
 
@@ -93,6 +133,28 @@ The competition was delayed due to anniversary and one batch charged 45 overs.
 [Data](articles/0da71fa9.json)
 
 [Extended Data](ext_articles/0da71fa9.ext.json)
+
+---
+
+### Sri Lanka to benefit
+
+*2024-10-23 16:21:12* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට---පන්දුවාර-සංඛ්‍යාව-අඩු-වෙයි/9-412636) · `si`
+
+Sri Lanka wins toss, bowls first in 2nd ODI vs West Indies. Rain reduces match to 44 overs per side.
+
+🟩
+
+Sri Lanka won the toss and win the toss of the Second ODI match against the tourist West Indies.
+
+Sri Lanka captain Charith decided to bowl first.
+
+The rain was interrupted by rain before the match and accordingly, one innings have been decided to limit one evening to 44 overs.
+
+◼️
+
+[Data](articles/c191d60c.json)
+
+[Extended Data](ext_articles/c191d60c.ext.json)
 
 ---
 
@@ -244,6 +306,22 @@ They further examined the progress of projects funded through Indian loans and a
 
 ---
 
+### UK, Australia, Russia also issue advisories on Arugam Bay, Sri Lanka
+
+*2024-10-23 15:46:00* · [`economynextcom`](https://economynext.com/uk-australia-russia-also-issue-advisories-on-arugam-bay-sri-lanka-184573/) · `en`
+
+ECONOMYNEXT — The governments of Australia, the United Kingdom and Russia have followed the United States in warning their citizens of a possible attack in the coastal town of Arugam Bay, a popular surfing destination in the island’s east.
+
+“There is an ongoing risk of terrorist attacks in Sri Lanka. Terrorists may target areas popular with foreigners and tourists, including in regional and coastal towns (see ‘Safety’). The ongoing conflict in the Middle East could lead to an increased threat of attacks against Israeli interests in other regions. The US Embassy in Colombo issued a security alert on 23 October, strongly urging US citizens to avoid the Arugam Bay area until further notice,” Smart Traveller, an Australian government initiative said on its website.
+
+...
+
+[Data](articles/42e2495a.json)
+
+[Extended Data](ext_articles/42e2495a.ext.json)
+
+---
+
 ### Distribution of polling cards for 2024 General Election to begin
 
 *2024-10-23 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102881/distribution-of-polling-cards-for-2024-general-election-to-begin-) · `en`
@@ -287,6 +365,28 @@ Accordingly, 738,050 people have been given the opportunity for postal voting. T
 [Data](articles/7125ee60.json)
 
 [Extended Data](ext_articles/7125ee60.ext.json)
+
+---
+
+### Sri Lanka sells Rs125bn in treasury bills, yields steady across maturities
+
+*2024-10-23 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs125mn-in-treasury-bills-yields-steady-across-maturities-184564/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were flat across maturities at Wednesday’s auction with all offered 125 billion rupees of bills sold, data from the debt office showed.
+
+The 3-month yield held steady at 9.32 percent, with 40 billion offered and 66.4 billion rupees bills sold.
+
+The 6-month yield held steady at 9.65 percent, with 42.5 billion offered and 45.7 billion rupees of bills sold.
+
+The 12-month bills held steady at 9.95 percent, with 42.5 billion offered and 12.8 billion rupees of bills sold.
+
+The 6 and 9 month bills are available on tap after the auction. (Colombo/Oct23/2024)
+
+◼️
+
+[Data](articles/c1bfff86.json)
+
+[Extended Data](ext_articles/c1bfff86.ext.json)
 
 ---
 
@@ -391,6 +491,26 @@ Police said that the fingerprint of the two arrested on suspicion is being ident
 [Data](articles/b10de64c.json)
 
 [Extended Data](ext_articles/b10de64c.ext.json)
+
+---
+
+### Sri Lanka president continues campaigning as foreign missions issue travel warnings
+
+*2024-10-23 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-continues-campaigning-as-foreign-missions-issue-travel-warnings-184566/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake continued campaigning for his National People’s Power party in the upcoming general election, amidst the US, UK, Australian and Russian diplomatic missions issuing travel warnings to citizens visiting Arugam Bay.
+
+“A heartfelt gratitude to the thousands who attended the inaugural victorious public rally series (‘Building the Nation Together—We are for Malimawa!’) held this morning (23) in Trincomalee. Your unwavering support is truly appreciated,” Dissanayake said on X (twitter).
+
+A heartfelt gratitude to the thousands who attended the inaugural victorious public rally series ('Building the Nation Together—We are for Malimawa!') held this morning (23) in Trincomalee. Your unwavering support is truly appreciated. pic.twitter.com/67Lp1mDtRU
+
+Earlier Wednesday the United States embassy asked nationals to avoid Arugam Bay in Sri Lanka’s Eastern Coast, a popular tourist destination, saying there is credible information of an attack.
+
+...
+
+[Data](articles/11ee07a6.json)
+
+[Extended Data](ext_articles/11ee07a6.ext.json)
 
 ---
 
@@ -2281,133 +2401,5 @@ US citizens have warned the American embassy in Colombo to avoid returning to th
 [Data](articles/cb188894.json)
 
 [Extended Data](ext_articles/cb188894.ext.json)
-
----
-
-### Johnston Fernando CID. Under the
-
-*2024-10-23 09:39:44* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්-ප්‍රනාන්දු-සී-අයි-ඩී--යට/11-412622) · `si`
-
-Former MP Johnston Fernando visits CID to make a statement about his involvement in a case under investigation in Colombo.
-
-🟩
-
-Former Parliamentarian Johnston Fernando has arrived in the Criminal Investigation Department to provide a statement.
-
-He has come to a statement regarding the investigation into the investigation into the discovery of him in Colombo.
-
-◼️
-
-[Data](articles/9e0db1c5.json)
-
-[Extended Data](ext_articles/9e0db1c5.ext.json)
-
----
-
-### Former minister Johnston Fernando arrives at CID
-
-*2024-10-23 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102868/former-minister-johnston-fernando-arrives-at-cid) · `en`
-
-Former Minister Johnston Fernando has arrived at the Criminal Investigation Department (CID) to provide a statement regarding the unregistered luxury car allegedly belonging to him, which was found parked at a star-class hotel in Colombo.
-
-A petition filed by Fernando, seeking an order to prevent his arrest over the incident, was taken up for consideration yesterday (22).
-
-During the hearing, his attorneys informed the court that Fernando was prepared to appear before the CID today to give a statement on the matter.
-
-The court has scheduled the petition to be called again on October 25.
-
-Meanwhile, speaking to the media, Fernando remarked, “Let’s see what happens. Time will answer the questions. Truth will prevail.”
-
-◼️
-
-[Data](articles/07c7f3bf.json)
-
-[Extended Data](ext_articles/07c7f3bf.ext.json)
-
----
-
-### Women's candidates Janasetha forest
-
-*2024-10-23 09:19:46* · [`adalk`](https://www.ada.lk/breaking_news/වැඩම-කාන්තා-අපේක්ෂිකාවන්-ජනසෙත-පෙරමුණෙන්ලු/11-412621) · `si`
-
-Here's a 200-character summary of the text:
-
-
-
-Janasetha Peramuna party presents 44 female candidates in Sri Lanka general election. Party emphasizes women representation and good governance. Despite financial challenges, they aim to promote gender equality in politics.
-
-🟩
-
-The Janasha Palarathana Thero said that forty-four female candidates representing the districts of Sri Lanka have been presented to the general election in the future.
-
-The Janasetha Peramuna (Janasetha Peramuna representing the General Election on November 14 was the Silarathana when he had received the blessing of the historic Warrajamapola.
-
-The party said that the party, which was given the highest number of women candidates in recent history, and the Janasetha Peramuna had not sufted the funds.
-
-The Thero emphasized that the party's good is the only objective of the people that the party's name is also the common sense of candidates.
-
-◼️
-
-[Data](articles/3b0377bd.json)
-
-[Extended Data](ext_articles/3b0377bd.ext.json)
-
----
-
-### Rail service delay in Puttalam
-
-*2024-10-23 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/196884) · `ta`
-
-Puttalam rail service delayed due to signal failure near Ja-Ela station. Railway department cited technical issue as cause.
-
-🟩
-
-The railway department said that the service was delayed due to a technical failure in a signal near the Ja-Ela railway station.
-
-◼️
-
-[Data](articles/0144af55.json)
-
-[Extended Data](ext_articles/0144af55.ext.json)
-
----
-
-### Postal workers’ leave cancelled until General Election ends
-
-*2024-10-23 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102867/postal-workers-leave-cancelled-until-general-election-ends) · `en`
-
-Steps have been taken to cancel the leave of all employees of the Postal Department in preparation for the upcoming General Election.
-
-Deputy Postmaster General Rajitha Ranasinghe announced that the leave of all Postal Department employees has been cancelled, effective from today (23) until November 14.
-
-However, any postal worker requiring leave for essential reasons must obtain permission from the Deputy Postmaster General in charge of their province, he added.
-
-Ranasinghe also mentioned that the acceptance of registered postal vote reserve packets related to the General Election is scheduled for today.
-
-◼️
-
-[Data](articles/1dac8749.json)
-
-[Extended Data](ext_articles/1dac8749.ext.json)
-
----
-
-### Postal workers' holidays!
-
-*2024-10-23 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/196882) · `ta`
-
-Postal workers' holidays canceled due to general election. Deputy Chief Minister Rajitha Ranasinghe announced cancellation from Wednesday to November 14.
-
-🟩
-
-The Postal Department said that the postal staff's holiday has been canceled until the general election.
-
-Accordingly, Deputy Chief Minister Rajitha Ranasinghe said that the holidays of all employees have been canceled from Wednesday (23) to November 14.
-
-◼️
-
-[Data](articles/4b721c46.json)
-
-[Extended Data](ext_articles/4b721c46.ext.json)
 
 ---

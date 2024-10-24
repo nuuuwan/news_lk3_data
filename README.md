@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 09:13:06**
+As of **2024-10-24 09:24:25**
 
 ## Newspaper Stats
 
-*Scraped **51,064** Articles*
+*Scraped **51,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,121
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,750
-adaderanalk | 6,052
+adaderanalk | 6,054
 tamilmirrorlk | 7,033
 virakesarilk | 8,179
 adaderanasinhalalk | 8,866
@@ -26,11 +26,41 @@ adaderanasinhalalk | 8,866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,052 (100.0%) of 51,064 articles have been extended.
+51,052 (100.0%) of 51,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Presidential Election candidates’ expense reports to be released today
+
+*2024-10-24 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102893/-presidential-election-candidates-expense-reports-to-be-released-today) · `en`
+
+The Election Commission says that the election expense reports submitted by presidential candidates who contested for the 2024 Presidential Election will be made public from today onwards (24).
+
+The Commissioner General of Elections Saman Sri Ratnayake stated that these income and expenditure reports will be made public at every District Secretariat.
+
+◼️
+
+[Data](articles/b5bc6ab5.json)
+
+---
+
+### Sri Lankan Navy detains 16 Indian fishermen
+
+*2024-10-24 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102892/sri-lankan-navy-detains-16-indian-fishermen) · `en`
+
+Sixteen Tamil Nadu fishermen were apprehended by the Sri Lankan Navy for allegedly trespassing into the territorial waters of the island nation on Wednesday evening.
+
+VP Sesuraja, president of the Traditional Indian Fishermen Welfare Association, said those arrested fishermen set out to sea off Rameswaram by two mechanised boats on Wednesday after obtaining permit tokens from Fisheries Department.
+
+Condemning the arrest, he said it was unfortunate that the fishermen were being arrested frequently. He sought the intervention of state and central government authorities to help get them released from Sri Lanka.
+
+◼️
+
+[Data](articles/f3a0820b.json)
+
+---
 
 ### Fairly heavy showers expected in several provinces
 
@@ -2331,47 +2361,5 @@ Meanwhile, the Colombo High Court today also issued an arrest warrant on former 
 [Data](articles/9dd1634d.json)
 
 [Extended Data](ext_articles/9dd1634d.ext.json)
-
----
-
-### Sri Lanka Cricket Stop, Hong Kong
-
-*2024-10-23 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202472) · `si`
-
-Sri Lanka Cricket team heads to Hong Kong for international six-a-side tournament from Nov 1-3. Sports minister approval granted.
-
-🟩
-
-The Sri Lankan squad that attends the Hong Kong International Sixast Tournament.
-
-Dr. Harini Amarasuriya said that sports ministers were approved for the tournament for November 1 - 3rd.
-
-◼️
-
-[Data](articles/1f155acc.json)
-
-[Extended Data](ext_articles/1f155acc.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-10-23 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202471) · `si`
-
-Sri Lanka hosts West Indies cricket match at Pallekele. Sri Lankan team replaces coach Jeffrey Vanderspar with Mahesh Rangaswamy. Match delayed due to anniversary celebration and reduced overs from 50 to 45.
-
-🟩
-
-Sri Lanka and the West Indies between the West Indies will be held at the Pallekele International Cricket Stadium today (23).
-
-Sri Lankan team has made a different decision for this competition. It is called Mah Meh Superness instead of Jeffrey Vandh.
-
-The competition was delayed due to anniversary and one batch charged 45 overs.
-
-◼️
-
-[Data](articles/0da71fa9.json)
-
-[Extended Data](ext_articles/0da71fa9.ext.json)
 
 ---

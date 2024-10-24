@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 18:35:49**
+As of **2024-10-24 19:00:56**
 
 ## Newspaper Stats
 
-*Scraped **51,187** Articles*
+*Scraped **51,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,141 @@ islandlk | 3,040
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,767
-adaderanalk | 6,065
-tamilmirrorlk | 7,054
+adalk | 4,769
+adaderanalk | 6,066
+tamilmirrorlk | 7,056
 virakesarilk | 8,224
-adaderanasinhalalk | 8,888
+adaderanasinhalalk | 8,890
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,175 (100.0%) of 51,187 articles have been extended.
+51,182 (100.0%) of 51,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### සියලු පුරවැසියන්ගේ ආරක්ෂාව තහවුරුයි - ජනපති
+
+*2024-10-24 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202521) · `si`
+
+ලංකාවේ සියලු පුරවැසියන්ගේ ආරක්ෂාව තහවුරු කර ඇති බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+අද (24) පුත්තලමේ පැවැති ජන හමුවක් අමතමින් ජනපතිවරයා මේ බව පැවසීය.
+
+"අපේ වගකීම තමයි පුරවැසියන්ගේ ආරක්ෂාව තහවුරු කිරීම. අපි අදාළ ප්‍රදේශවල වේගයෙන් ආරක්ෂාව තහවුුරු කරන්න කටයුතු කළා. ඒ විතරක් නෙමෙයි බුද්ධි අංශ තොරතුරු මත වේගයෙන් කටයුතු කළා, ඒ ස﻿ඳහා සැකයට තුඩු දෙන කීප දෙනෙක්ව අත්අඩංගුවට ගන්නත් අපි කටයුතු කලා. අපි අද කියන්න කැමතියි ලංකාවේ සියලු පුරවැසියන්ගේ ආරක්ෂාව අපි සහතික කරලා තියනවා."
+
+◼️
+
+[Data](articles/e09c50d0.json)
+
+---
+
+### "Kill me for this"
+
+*2024-10-24 18:28:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதற்கு-என்னைக்-கொல்வதே-மேல்/175-346000) · `ta`
+
+Sri Lanka politician Rohitha Abeygunawardena threatens self-sacrifice over reputation attacks.
+
+🟩
+
+Former Member of the Sri Lanka PA (SLPP), Rohitha Abeygunawardena has said that it is more to kill him than to tarnish his reputation.
+
+Speaking at a political meeting, the former MP said it was not easy to bring down himself through muddy campaigns.
+
+"I would like to tell me to hate those who hate my life, and destroy my life just as many leaders were shot or killed, without spoiling my reputation."
+
+Rohitha Abeygunawardena has said that he is ready to sacrifice his life for the nation and politics.
+
+“It's better than muddy. It is better to kill me rather than destroy my character. ”
+
+◼️
+
+[Data](articles/2256b555.json)
+
+[Extended Data](ext_articles/2256b555.ext.json)
+
+---
+
+### A Beach Kraft from Australia for Air Force
+
+*2024-10-24 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202520) · `si`
+
+The Sri Lanka Air Force has given a beach craft jagged by the Australian Royal Air Force.
+
+It is scheduled to begin in the future of the Air Force No. 03 to begin duties.
+
+The aircraft is a grant of Australian government to enhance maritime conditions in Sri Lanka.
+
+It is said that the discovery and rescue performed in the region will be allowed to eliminate international crimes and human smuggles.
+
+◼️
+
+[Data](articles/53338d73.json)
+
+[Extended Data](ext_articles/53338d73.ext.json)
+
+---
+
+### Emergency at BIA called off after another bomb scare on Vistara flight
+
+*2024-10-24 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102907/emergency-at-bia-called-off-after-another-bomb-scare-on-vistara-flight) · `en`
+
+The emergency declared at Bandaranaike International Airport (BIA) in Katunayake following another bomb scare on a Vistara flight has been called off, according to the airport management.
+
+Flight operations at the BIA are continuing as usual without any disruption to the airport’s normal operations, says Airport and Aviation Services Sri Lanka (AASL).
+
+The management of Bandaranaike International Airport (BIA) declared a full emergency in response to another reported bomb scare on a Vistara flight from Mumbai to Colombo, which was scheduled to arrive at BIA at 15:15 hrs today (October 24).
+
+A nonspecific call on a bomb threat had been reported to the flight before landing at BIA. Accordingly, the security agencies and relevant authorities adopted all precautionary and preventive measures in line with the protocol, AASL said in a statement.
+
+...
+
+[Data](articles/f1f2f4ee.json)
+
+[Extended Data](ext_articles/f1f2f4ee.ext.json)
+
+---
+
+### Why do Sri Lankan forces provide security?
+
+*2024-10-24 18:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏன்-இலங்கைப்-படைகள்-பாதுகாப்பு-வழங்குகின்றன/175-345999) · `ta`
+
+Sri Lankan forces protect Israeli businesses despite supporting Palestine. United People's Power MP calls for correcting foreign policy due to Middle East crisis.
+
+🟩
+
+United People's Power (SJB) MP Mujibur Rahman today said that Sri Lanka should correct its foreign policy following the rising Middle East crisis.
+
+While countries like the United States support Israel, countries like Iran and Russia support Palestine, and the world has been severely split in the Middle East conflict.. Sri Lanka stands for the independence of Palestine. The new government should take note of this, ”he said.
+
+He also questioned why Sri Lankan forces provide protection to Israeli companies in Colombo and elsewhere.
+
+◼️
+
+[Data](articles/4d50718b.json)
+
+[Extended Data](ext_articles/4d50718b.ext.json)
+
+---
+
+### ඊශ්‍රායෙල් ජාතිකයන් නැවතී සිටින මහනුවර හෝටල්වලට විශේෂ ආරක්ෂාවක්
+
+*2024-10-24 18:13:58* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙල්-ජාතිකයන්-නැවතී-සිටින-මහනුවර-හෝටල්වලට-විශේෂ-ආරක්ෂාවක්/11-412669) · `si`
+
+ඊශ්‍රායල් ජාතිකයන් නැවතී සිටින මහනුවර සංචාරක හෝටල් වලට විශේෂ ආරක්ෂාවක් යෙදවීමට පොලිසිය පියවර ගෙන තිබේ.
+
+මහනුවර පොලිස් කොට්ඨාසය තුළ ඇති සංචාරක හෝටල් වලට පැමිණෙන විදේශීය සංචාරකයන් පිළිබඳව දෛනික වාර්තා ලබා ගැනීමට පොලිසියද පියවර ගෙන ඇති අතර ඒ අතරින් ඊශ්‍රායල් ජාතිකයන් නවාතැන් ගන්නා සංචාරක හෝටල්වලට විශේෂ ආරක්ෂාවක් යෙදවීමටද පොලිසිය පියවර ගෙන තිබේ .
+
+මහනුවර කොට්ඨාස භාර ජේෂ්ඨ පොලිස් අධිකාරි අනුරුද්ධ බණ්ඩාරනායක මහතාගේඋපදෙස් පරිදි ක්‍රියාත්මක මෙම ආරක්ෂක වැඩපිළිවෙල යටතේ එම සංචාරක හෝටල් ආශ්‍රිතව විශේෂ මුර සංචාර වැඩපිළිවෙලක්ද ක්‍රියාත්මක කොට තිබේ.
+
+◼️
+
+[Data](articles/ac4d10a3.json)
+
+---
 
 ### Bomb wax on Katunayake's second flight
 
@@ -160,23 +280,33 @@ After that, the web series came forward to produce famous producer Abirami Raman
 
 ---
 
-### 'என் ஹீரோ லக்கி பாஸ்கர் கிரே ஷேடு உள்ளவர்' - இயக்குநர் வெங்கி
+### 'My Hero Lucky Bhaskar Gray Shade' - Director Venki
 
 *2024-10-24 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197026) · `ta`
 
-சித்தாரா என்டர்டெய்ன்மென்ட் மற்றும் ஃபார்ச்சூன் ஃபோர் சினிமாஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கும் 'லக்கி பாஸ்கர்' எனும் திரைப்படம் தீபாவளி திருநாளான ஒக்டோபர் 31 ஆம் திகதியன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகிறது.
+"Lucky Bhaskar" film summary: Directed by Venki Atluuri, starring Dulquer Salmaan, Ramki. Set in 1980s, focuses on bank employees. Music by V. Prakash Kumar. Released worldwide on Oct 31, Diwali.
 
-இதனை முன்னிட்டு படத்தினை விளம்பரப்படுத்தும் நிகழ்வு சென்னையில் நடைபெற்றது. இந்தத் தருணத்தில் படத்தின் இயக்குநர் வெங்கி அட்லூரி, படத்தின் நாயகன் துல்கர் சல்மான், படத்தில் முக்கிய வேடத்தில் நடித்திருக்கும் நடிகர் ராம்கி ஆகியோர் பங்கு பற்றினர்.
+🟩
 
-இயக்குநர் வெங்கி அட்லூரி இயக்கத்தில் உருவாகி இருக்கும் 'லக்கி பாஸ்கர்' எனும் திரைப்படத்தில் துல்கர் சல்மான், மீனாட்சி சவுத்ரி, ராம்கி, சச்சின் கடேகர், ஸ்ரீ ஹரி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+The film 'Lucky Bhaskar', co -produced by Siddara Entertainment and Fortune for Cinemas, will be released worldwide on October 31, Diwali.
 
-நிமிஷ் ரவி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார்.
+The film was held in Chennai. At this moment, the film's director Venki Atluuri, the hero of the film, Dulquer Salman and actor Ramki, who played the lead role in the film.
 
-படத்தைப் பற்றி இயக்குநர் பேசுகையில், '' வாத்தி படத்திற்குப் பிறகு வித்தியாசமாக திரைப்படத்தை இயக்க வேண்டும் என தீர்மானித்தேன். அத்துடன் என் ஹீரோ கிரே ஷேடில் இருக்க வேண்டும் என்றும் திட்டமிட்டேன்.
+Dulquer Salman, Meenakshi Chaudhry, Ramki, Sachin Gatekar, Sri Hari and many others have starred in the film 'Lucky Bhaskar' directed by director Venki Atheruri.
 
-...
+Nimish Ravi has recorded the film.. V.. Prakash Kumar has composed the music.
+
+Speaking of the film, the director said, “I decided to direct the film differently after the film. I also planned to be in my hero Gray Shade.
+
+'Lucky Bhaskar' is the character created in that respect. We love the verse of Super Star Rajinikanth in 'Annamalai'.
+
+With this in mind, I started writing the story of the film. The film is centered on the bank-bank employees. And I hope that the story of the story is in the backdrop of the 1980s. ”
+
+◼️
 
 [Data](articles/52b4f5dd.json)
+
+[Extended Data](ext_articles/52b4f5dd.ext.json)
 
 ---
 
@@ -206,39 +336,71 @@ The two candidates have been arrested on charges of campaigning in violation of 
 
 ---
 
-### நீர்கொழும்பில் சட்டவிரோத சிகரெட்டுகளுடன் ஒருவர் கைது
+### නව රජය පැවැත්වූ දෙවැනි ආරක්ෂක කවුන්සිල රැස්වීමට ප්‍රහාරය ගැන තොරතුරු ආවා
+
+*2024-10-24 17:50:42* · [`adalk`](https://www.ada.lk/breaking_news/නව-රජය-පැවැත්වූ-දෙවැනි-ආරක්ෂක-කවුන්සිල-රැස්වීමට-ප්‍රහාරය-ගැන-තොරතුරු-ආවා/11-412667) · `si`
+
+නව රජය බලයට පත්වීමෙන් පසුව පැවැත්වූ දෙවැනි ආරක්ෂක කවුන්සිල රැස්වීමේදී ප්‍රහාරයක් පිළිබඳව තොරතුරු වාර්තා වූ බව අමාත්‍ය විජිත හේරත් මහතා පැවැසීය.
+
+ඒ අනුව වහාම ක්‍රියාත්මක වෙමින් ආරුගම්බේ, ඇල්ල හා වැලිගම ප්‍ර දේශයන්හි ආරක්ෂාව තරකර බවද අමාත්‍යවරයා පැවැසීය.
+
+අදාළ ප්‍රහාර සැලසුම සම්බන්ධයෙන් මේ වන විට පුද්ගලයන් තිදෙනෙක් අත්අඩංගුවට ගෙන ඇති බවත් ඔවුන්ගෙන් තොරතුරු ලබා ගනිමින් සිටින බවත් අමාත්‍යවරයා කීය.
+
+එම ලබා ගන්නා තොරතුරු මත ඉදිරි පරීක්ෂණ කටයුතු සිදුකරන බවත් ඔහු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/eb2d7c6d.json)
+
+---
+
+### Arrested with illegal cigarettes in Negombo
 
 *2024-10-24 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197017) · `ta`
 
-நீர்கொழும்பு பொலிஸ் பிரிவுக்குட்பட்ட பிரதேசத்தில் சட்டவிரோதமான முறையில் நாட்டிற்கு கொண்டு வரப்பட்ட 6,000 சிகரெட்டுகளுடன் ஒருவர் நேற்று புதன்கிழமை (23) கைது செய்யப்பட்டுள்ளார்.
+Negombo police arrest man with 6,000 illegal cigarettes during raid.
 
-பொலிஸ் விசேட அதிரடிப்படையின் ஒழுங்கமைக்கப்பட்ட குற்றத்தடுப்பு பிரிவின் அதிகாரிகள் குழுவொன்று நீர்கொழும்பு பகுதியில் மேற்கொண்ட சுற்றிவளைப்பின் போது இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
+
+A man was arrested yesterday (23) with 6,000 cigarettes who have been illegally brought to the country in the Negombo Police Division.
+
+He was arrested during a raid in Negombo in Negombo.
 
 ◼️
 
 [Data](articles/85a3241f.json)
 
+[Extended Data](ext_articles/85a3241f.ext.json)
+
 ---
 
-### සෑම 4දෙනෙකුගෙන් එක් අයෙකුට දියවැඩියාව
+### Diabetes of each of every 4
 
 *2024-10-24 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202519) · `si`
 
-මෙරට තුළ සිටින සෑම වැඩිහිටි පුද්ගලයින් සිව්දෙනෙකුගෙන් එක් අයෙකුට දියවැඩියාව පවතින බව මාධ්‍ය හමුවක් පවත්වමින් ශ්‍රී ලංකා වෛද්‍ය සංගමය පැවසීය.
+Sri Lanka: 1/4 adults have diabetes. Most cases in Colombo and Jaffna districts. High sugar intake causes blood damage, kidney issues, nerve problems. Avoid sugary foods, reduce coconut oil consumption. Proper diet and medication control diabetes growth and prevent complications.
 
-ඊයේ (23) පැවැති මාධ්‍ය හමුවකදී එම සංගමය නියෝජනය කරමින් විශේෂඥ ශල්‍ය වෛද්‍ය මහාචාර්ය මන්දික විජේරත්න මහතා සඳහන් කළේ, මෑතකදී සිදුකළ පරීක්ෂණයකදී ඒ බව අනාවරණ වී ඇති බවය.
+🟩
 
-දියවැඩියාව රෝගීන් වැඩිම පිරිසක් කොළඹ සහ යාපනය දිස්ත්‍රික්කවලින් වාර්තාවී තිබේ.
+The Sri Lanka Media Union said that one of every four adult people in Sri Lanka holds diabetes.
 
-දියවැඩියාව යනු රුධිරගත සීනි, නියමිත සීමාව ඉක්මවා පාලනයකින් තොරව ඉහළයාම මත ඇති වන රෝගී තත්ත්වයකි.
+Specialist surgical Surgeons representing the union at a media briefing yesterday (23) was revealed that this was revealed in a recent investigation.
 
-එහි ප්‍රතිඵල ලෙස රුධිරනාලවලට හානිවීම, වකුගඩු, ඇස්, ස්නායු පද්ධතියට හානිකර බලපෑම් එල්ල කිරීම ආදියෙන් නොනැවතී මරණීය ප්‍රතිවිපාක ද ඇති කළ හැකිය.
+Most of the diabetes have been reported from the Colombo and Jaffna Districts.
 
-"හඳුනාගෙන තියෙනවා වයස 40ට එහා හැම හතරදෙනාගෙන් එක්කෙනෙකුටම දියවැඩියාව තියෙනවා. කොළඹ , යාපනය 33% තියෙනවා. ඒ කියන්නේ තුන්දෙනෙක්ගෙන එක් අයෙකුට මේක. බොහොම භයානය තත්ත්වයක්. දියවැඩියාව කාලයක් තියෙනකොට යටිපතුල්වල ඇඟිලිවල හිරිවැටීම දැනීම තමයි නැතිවෙන්නේ. එතනින් එහා තමයි කකුල්වල තුවාල ඇති වෙන්නේ. තුවාල නිසා කකුල් අහිමිවීම පටන් ගන්නේ එතැනින්. "
+Diabetes is a condition that is caused by the blood sugar, the prescribed limit.
+
+As the result, it can also cause death consequences, effects on the damage to blood, kidney, eyes, the nervous system.
+
+"It has been identified by one of every four of every four diabetes. There are 33% of Colombo, Jaffna. That means three and one to one. The most of the most kindness. Diabetes is time, it is lost to know numbness in the undersides of the underside. There are legs injured beyond that. Injury, the loss of legs begins from there. "
+
+You will be able to avoid diabetes if you are notified about the cause of diabetic condition and the symptoms.
 
 ...
 
 [Data](articles/7f2c96ae.json)
+
+[Extended Data](ext_articles/7f2c96ae.ext.json)
 
 ---
 
@@ -2227,149 +2389,5 @@ Vivekanandan Indrani, speaking to the media after a discussion with the provinci
 [Data](articles/2eb3deb9.json)
 
 [Extended Data](ext_articles/2eb3deb9.ext.json)
-
----
-
-### Increase in the water level of the Nilwala Ganga;Flood warning to several areas
-
-*2024-10-24 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196964) · `ta`
-
-Nilwala Ganga water level increase causes flooding. Flood warnings issued for multiple areas including Paskoda, Kottabola, Pitabethara, Akuresa, Athura Eliya, Malimbada, Kamburupitiya, Tihagoda, Matara, and Devinuwara.
-
-🟩
-
-Due to this, the Department of Irrigation has issued a flood warning to the Divisional Secretariats of Paskoda, Kottabola, Pitabethara, Akuresa, Athura Eliya, Malimbada, Kamburupitiya, Tihagoda, Matara and Devinuwara.
-
-◼️
-
-[Data](articles/38a30bfa.json)
-
-[Extended Data](ext_articles/38a30bfa.ext.json)
-
----
-
-### Sri Lanka chamber to host economic summit
-
-*2024-10-24 10:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-to-host-economic-summit-184726/) · `en`
-
-ECONOMYNEXT – The Sri Lanka Economic Summit, to be held in January, will provide a platform for discussing the path forward for the country, the Ceylon Chamber of Commerce said.
-
-“The Summit will provide an essential platform for discussing the path forward at a time when Sri Lanka’s economic and political landscape has had significant changes,” the chamber said in a statement.
-
-The summit will explore “the right policies to be implemented in achieving an export-led investment model, focusing on leveraging Sri Lanka’s strategic location, its access to rapidly growing regional markets, and the necessary domestic reforms to unlock key export sectors.
-
-Breakout sessions will focus on tourism, agriculture and value-added manufacturing.
-
-...
-
-[Data](articles/5bbacd4f.json)
-
-[Extended Data](ext_articles/5bbacd4f.ext.json)
-
----
-
-### Suspect arrested for breaking houses in Kalutara
-
-*2024-10-24 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/196966) · `ta`
-
-Kalutara: Suspect arrested for housebreaking, stolen gold worth 1.5 million recovered. Additional investigations ongoing.
-
-🟩
-
-A suspect has been arrested on Wednesday (23) for stealing property in the Thekkawatte area of ​​the Kalutara Southern Police Division.
-
-கைது செய்யப்பட்ட சந்தேக நபர் களுத்துறை தெற்கு தேக்கவத்தை பகுதியைச் சேர்ந்த "மிஹிகடவத்தை பகலா”  என அழைக்கப்படும் 35 வயதுடையவராவார்.
-
-சந்தேகநபர் நீண்டகாலமாக வீடுகளுக்குள் புகுந்து திருடுவது தொடர்பாக களுத்துறை குற்றப்புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது  களுத்துறை மிஹிகடவத்தை பிரதேசத்தில் உள்ள அவரது வீட்டில் வைத்து கைது செய்யப்பட்டுள்ளார்.
-
-சந்தேகநபர் வீடுகளில் இருந்து திருடப்படி விற்ற சுமார்  15 இலட்சம் பெறுமதியான தங்கப் பொருட்களை பொலிஸார் கைப்பற்றியுள்ளனர்.
-
-மேலும்,  6 கைத்தொலைபேசிகள், கைத்தொலைபேசியின் பாகங்கள் மற்றும் பல்வேறு நபர்களுக்கு விற்பனை செய்து மறைத்து வைக்கப்பட்டிருந்த இலத்திரனியல் உபகரணங்கள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
-
-...
-
-[Data](articles/af130f54.json)
-
-[Extended Data](ext_articles/af130f54.ext.json)
-
----
-
-### පොහොට්ටුවේ ප්‍රබලයෙක් සී.අයි.ඩී.යට
-
-*2024-10-24 10:39:47* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-ප්‍රබලයෙක්-සී-අයි-ඩී-යට/11-412652) · `si`
-
-Namal Rajapaksa arrives at CID for statement. Media present.
-
-🟩
-
-Namal Rajapaksa has arrived at the Criminal Investigation Department
-
-ප්‍රකාශයක් ලබා දීම සඳහා තමාට පැමිණෙන ලෙස දැනුම් දී ඇති බව එහිදී මාධ්‍ය වෙත අදහස් පළ කරමින් හෙතෙම සඳහන් කළේය.
-
-◼️
-
-[Data](articles/688fe652.json)
-
-[Extended Data](ext_articles/688fe652.ext.json)
-
----
-
-### சிஐடியில் முன்னிலையானார் நாமல் ராஜபக்ஷ
-
-*2024-10-24 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196969) · `ta`
-
-Namal Rajapakse, former Sri Lankan parliamentarian, appeared at CID headquarters on Thursday morning to provide a statement.
-
-🟩
-
-Former Parliamentarian Namal Rajapakse appeared before the Criminal Investigation Department on Thursday morning to make a statement.
-
-◼️
-
-[Data](articles/4e3ae5c4.json)
-
-[Extended Data](ext_articles/4e3ae5c4.ext.json)
-
----
-
-### Namal Rajapaksa arrives at CID
-
-*2024-10-24 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102897/namal-rajapaksa-arrives-at-cid) · `en`
-
-Former Member of Parliament Namal Rajapaksa arrived at the Criminal Investigation Department (CID) at around 9.00 a.m. this morning to provide a statement, Ada Derana Reporter said.
-
-Responding to a question from journalists as to why he was summoned to the CID, Namal responded saying that he was unsure and needed to find out the reason himself.
-
-In response to further inquiries, he stated, “I don’t know the matter.  It’s better to be called in. The only way to get rid of the accusations against us is to come here. Because some lie with conviction. We are not those who lie with conviction. We will go and give our statement with conviction and come.”
-
-◼️
-
-[Data](articles/14e7e7f8.json)
-
-[Extended Data](ext_articles/14e7e7f8.ext.json)
-
----
-
-### Call for foreign tourists
-
-*2024-10-24 10:19:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வௌிநாட்டு-சுற்றுலா-பயணிகளுக்கு-அழைப்பு/175-345970) · `ta`
-
-Sri Lanka invites foreign tourists without fear, emphasizing maximum security measures. The Tourism Promotion Unit assures safety for current visitors. US Embassy warns of potential attacks.
-
-🟩
-
-எந்தவித அச்சமும் இன்றி இலங்கைக்கு சுற்றுலாப் பயணம் மேற்கொள்ளுமாறு வௌிநாட்டு சுற்றுலா பயணிகளுக்கு இலங்கை  சுற்றுலா ஊக்குவிப்பு பிரிவு பகிரங்க அழைப்பு விடுத்துள்ளது.
-
-In Sri Lanka, the Division has pointed out that the Ministry of Defense has taken steps to provide maximum security to tourists.
-
-The Tourism Promotion Unit has not threatened the safety of tourists currently staying in Sri Lanka.
-
-The US Embassy in Colombo said yesterday (23) that he had received reliable information that the attack could be attacked.
-
-◼️
-
-[Data](articles/8d208ae8.json)
-
-[Extended Data](ext_articles/8d208ae8.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 19:39:59**
+As of **2024-10-24 19:58:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,891
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,200 (100.0%) of 51,202 articles have been extended.
+51,202 (100.0%) of 51,202 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -888,15 +888,21 @@ He noted that egg production has increased by 85 lakhs per day and is released f
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-10-24 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/197015) · `ta`
 
-இன்று  வியாழக்கிழமை (24) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 289.0028 ரூபாவாகவும், விற்பனை விலை 298.1109 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+US dollar exchange rate: 289.0028 INR buying, 298.1109 INR selling. Released by Central Bank on Thursday, 24th.
+
+🟩
+
+The US dollar purchasing price was 289.0028 rupees and the sales price were 298.1109 rupees based on a currency exchange rate released by the Central Bank on Thursday (24).
 
 ◼️
 
 [Data](articles/65f48e09.json)
+
+[Extended Data](ext_articles/65f48e09.ext.json)
 
 ---
 
@@ -1880,21 +1886,35 @@ However, when the security forces arrived, the collapsed in the hotel room had d
 
 ---
 
-### ආරුගම්බේ තර්ජනය සම්බන්ධයෙන් අප මෙතෙක් දන්නේ මොනවා ද?
+### What do we so far do we so far about the threat of arroga?
 
 *2024-10-24 13:26:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg578lj2p6yo) · `si`
 
-විදේශීය සංචාරකයින්ගේ ජනප්‍රිය ගමනාන්තයක් වන ශ්‍රී ලංකාවේ අම්පාර දිස්ත්‍රික්කයේ පිහිටි ආරුගම්බේ ප්‍රදේශය පිළිබඳව දැඩි කතා බහක් ඇති වූයේ, කොළඹ ඇමෙරිකානු තානාපති කාර්යාලය විසින් සිය පුරවැසියන්ට එහි සංචාරය කිරීමෙන් වළකින ලෙස නිකුත් කරන ලද සංචාරක මාර්ගෝපදේශයත් සමගයි.
+Here's a 200-character summary:
 
-ඉන් අනතුරුව, ශ්‍රී ලංකාවේ පිහිටි බ්‍රිතාන්‍ය මහ කොමසාරිස් කාර්යාලය ඇතුළු තවත් විදෙස් තානාපති කාර්යාල කිහිපයක් ශ්‍රී ලංකාවේ සංචාරයේ නිරත වන සිය පුරවැසියන්ට ඒ සම්බන්ධයෙන් අවධානයෙන් පසුවන ලෙස දැනුම් දීමට පියවර ගත්තේ ය.
 
-මහජන ආරක්ෂක අමාත්‍ය විජිත් හේරත් අද (ඔක්:24) වැනිදා මාධ්‍ය හමුවක් පවත්වමින් පැවසුවේ ආරුගම්බේ සිදුවීම සම්බන්ධයෙන් මේ වන විට සැකපිට පුද්ගලයින් තිදෙනෙකු අත්අඩංගුවට ගෙන ඇති බවයි.
 
-මේ, ආරුගම්බේ ආරක්ෂක තර්ජනය ගැන වාර්තා වීමෙන් පසු මෙතෙක් සිදුවූ තොරතුරු පිළිබඳව කෙරෙන විමසා බැලීමකි.
+US Embassy issues tourist advisory for Ampara district. British High Commission informs UK citizens. Three arrests made over alleged Arugambay threat. Police deny involvement of foreigners or weapons. Minister warns against misinformation. Diplomatic discussions ongoing regarding security measures.
+
+🟩
+
+The US embassy in Ampara, the popular destinations of foreign tourists, has a strong conversation with the tourist guideline issued by the US embassy in the Ampara District.
+
+Thereafter, the British High Commission in Sri Lanka, including the British High Commission in Sri Lanka, took steps to inform the citizens of Sri Lanka as closely.
+
+Public Defense Minister Vijith Herath held a media briefing today (October), three persons have been arrested on suspicion over Arugambay.
+
+This is an inquiry on information that has been reported since being reported about the threat of arugambay.
+
+According to intelligence information that the Sri Lankan reigns have been arrested, three persons have been arrested on suspicion that the police have arrested three persons have been arrested by the police.
+
+The Minister further stated that the three persons in custody are further questioned.
 
 ...
 
 [Data](articles/a34f4ee5.json)
+
+[Extended Data](ext_articles/a34f4ee5.ext.json)
 
 ---
 

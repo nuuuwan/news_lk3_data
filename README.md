@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 23:39:55**
+As of **2024-10-24 23:59:51**
 
 ## Newspaper Stats
 
-*Scraped **51,219** Articles*
+*Scraped **51,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 411
 colombotelegraphcom | 510
 bbccomsinhala | 519
 islandlk | 3,040
-economynextcom | 3,124
+economynextcom | 3,131
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,774
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,219 (100.0%) of 51,219 articles have been extended.
+51,223 (100.0%) of 51,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Sri Lanka’s corruption watchdog urges ruling NPP to respect election laws
+
+*2024-10-24 23:01:00* · [`economynextcom`](https://economynext.com/sri-lankas-corruption-watchdog-urges-ruling-npp-to-respect-election-laws-184821/) · `en`
+
+ECONOMYNEXT – Transparency International Sri Lanka (TISL), the local corruption watchdog urged President Anura Kumara Dissanayake’s National People’s Power (NPP) government respect election laws amid complaints about politically-motivated appointments to the public sector.
+
+The TISL said it had deployed approximately 160 election observers across all districts to monitor the misuse of public resources during the General Election 2024.
+
+Since October 14, TISL has received 70 complaints, with many related to new appointments made in public institutions, it said.
+
+“We have received information about a contesting candidate being appointed to a public service Position. A formal complaint was lodged with the Election Commission regarding this,” Thushanie Kandilpana, TISL’s National Coordinator of the Programme for the Protection of Public Resources (PPPR) told reporters at a media briefing on Thursday (24).
+
+...
+
+[Data](articles/425fb1cb.json)
+
+[Extended Data](ext_articles/425fb1cb.ext.json)
+
+---
 
 ### The Prime Minister met security chiefs
 
@@ -1176,6 +1196,24 @@ Subsequently, Vadivel Suresh Pradeesh discussed with the people of the youth, th
 
 ---
 
+### EXPLAINER – US warning over attack on Sri Lanka’s Eastern tourism hotspot
+
+*2024-10-24 17:35:00* · [`economynextcom`](https://economynext.com/explainer-us-warning-over-attack-on-sri-lankas-eastern-tourism-hotspot-184786/) · `en`
+
+ECONOMYNEXT – Since the United States Embassy in Colombo issued a travel warning on Wednesday, many countries including the United Kingdom, Israel, Australia, and Russia have also asked their nationals to be more cautious in travelling to Sri Lanka.
+
+Sri Lanka Police said it has already tightened security in Arugam Bay, a popular tourist destination for surfing in the island nation’s eastern coast.
+
+Here are some questions (Q) and answers (A) on the warning and the Sri Lanka government’s responses to possible security threats that could derail the island nation’s tourism boom in the peak season starting next month.
+
+...
+
+[Data](articles/e293618e.json)
+
+[Extended Data](ext_articles/e293618e.ext.json)
+
+---
+
 ### South Asian Women's Football Championship: Sri Lanka - Nepal
 
 *2024-10-24 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197024) · `ta`
@@ -1310,6 +1348,28 @@ He noted that egg production has increased by 85 lakhs per day and is released f
 
 ---
 
+### Sri Lanka rupee closes weaker at 293.78/82 to dollar, bond yields steady
+
+*2024-10-24 17:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-78-82-to-dollar-bond-yields-steady-184758/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 293.78/82 to the US dollar Thursday from 293.45/55 a day earlier, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 10.50/70 percent, down from 10.50/75 percent.
+
+A bond maturing on 15.12.2027 closed at 11.50/55 percent, up from 11.35/50 percent.
+
+A bond maturing on 15.03.2028 closed at 11.75/80 percent, up from 11.70/80 percent.
+
+A bond maturing on 15.05.2030 closed at 12.20/30 percent. (Colombo/Oct24/2024)
+
+◼️
+
+[Data](articles/5a2659ca.json)
+
+[Extended Data](ext_articles/5a2659ca.ext.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-10-24 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/197015) · `ta`
@@ -1347,6 +1407,28 @@ Accordingly, the next hearing of the petition has been fixed for November 18 to 
 [Data](articles/764f177d.json)
 
 [Extended Data](ext_articles/764f177d.ext.json)
+
+---
+
+### Sri Lanka stocks close up, Sampath and Hayleys push turnover
+
+*2024-10-24 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-sampath-and-hayleys-push-turnover-184754/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader ASPI closed up 0.94 percent, or 116.05 points, at 12,473; while the more liquid S&P SL20 Index closed up 1.55 percent, or 56.90 points, at 3,720.
+
+Crossings on Sampath Bank and Hayleys added over 1.3 billion to the turnover.
+
+Foreign buying interest was seen in Sampath, JKH, Commercial, Cargills (Ceylon) (down at 395.00), Richard Pieris and Co (flat at 22.00), and Haycarb (down at 76.80).
+
+Foreign selling was seen in CIC Holdings (up at 76.60), Hayleys, Rhesus Energy (up at 27.80), John Keells Hotels (down at 16.90), Vallibel Finance (up at 45.00), and Dipped Products (down at 38.40).
+
+◼️
+
+[Data](articles/37b13fc4.json)
+
+[Extended Data](ext_articles/37b13fc4.ext.json)
 
 ---
 
@@ -1734,6 +1816,30 @@ He was arrested during a roundup of information received by the police station b
 
 ---
 
+### Sri Lanka arrests three over Arugam Bay warning
+
+*2024-10-24 15:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-arrests-three-over-arugam-bay-warning-184746/) · `en`
+
+ECONOMYNEXT- Sri Lanka has arrested 3 persons after warnings were issued by foreign missions of a possible attack on tourists in the Arugam Bay area.
+
+“All three are Sri Lankan nationals,” Minister Vijitha Herath said. “Investigations are continuing.”
+
+Herath said investigations are in the initial stages and that they have only been taken into custody on suspicion.
+
+No conclusive evidence against them linking them to any planned attacks have been uncovered so far, he said.
+
+No explosives or any other devices were found on them, he said.
+
+Israel asks citizens to leave Sri Lanka coastal towns, hide nationality
+
+On Wednesday, the US embassy in Colombo warned citizens not to travel to Arugam Bay in the island’s Eastern Coast as there was credible information of an attack. Several other foreign missions followed suit.
+
+...
+
+[Data](articles/8998f76d.json)
+
+---
+
 ### Augkambe affair: trio arrested
 
 *2024-10-24 15:03:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-விவகாரம்-மூவர்-கைது/175-345991) · `ta`
@@ -2037,6 +2143,26 @@ South Africa Competition ICC. Test is held under the World Championship.
 [Data](articles/342d29c3.json)
 
 [Extended Data](ext_articles/342d29c3.ext.json)
+
+---
+
+### Sri Lanka-USA Business Council re-elects Charithra Hettiarachchi as president
+
+*2024-10-24 14:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-usa-business-council-re-elects-charithra-hettiarachchi-as-president-184736/) · `en`
+
+ECONOMYNEXT – The Sri Lanka–USA Business Council (SLUSABC) of the Ceylon Chamber of Commerce is hoping to expand partnerships with USAID, the EDB, and BOI, the chamber said.
+
+The Council re-elected Charithra Hettiarachchi, CEO of WICHY Plantation Company (Pvt) Ltd, as President for the 2024/2025 term at its 8th annual general meeting held recently.
+
+“Looking ahead, the council is excited to expand partnerships with USAID, the EDB, and BOI to further support Sri Lankan businesses and communities,” Hettiarachchi was quoted in a statement by the Chamber.
+
+He highlighted the council’s key initiatives over the past year, including sessions on US visitor visas, the SelectUSA Investment Summit, and human trafficking awareness.
+
+The council’s efforts to strengthen trade relations and business travel between the two nations, particularly in sectors like agriculture, were explained.
+
+...
+
+[Data](articles/05aaeb70.json)
 
 ---
 
@@ -2363,161 +2489,5 @@ Professor Anand Singh (Video), Professor of the Buddhist Cultural Department of 
 [Data](articles/36060b10.json)
 
 [Extended Data](ext_articles/36060b10.ext.json)
-
----
-
-### 271 gem stones owned in a bank for 60 years
-
-*2024-10-24 13:24:19* · [`adalk`](https://www.ada.lk/breaking_news/කෞතුකාගාරය-සතු-මැණික්-ගල්-271-ක්-වසර-60-ක්-තිස්සේ-බැංකුවක/11-412662) · `si`
-
-Bank holds 271 gemstones since 1993. Audit recommends assessing current value. Gemology Division to evaluate. Department of National Museums responsible.
-
-🟩
-
-The National Audit Office reveals that the current value of 271 gem stones has not been assessed to the Gemological Branch of Bank of Sri Lanka to the Gemology Division of the Department of National Museums.
-
-The Department of Museum Department has been placed in the bank to protect 272 gem stones in 1993 and that the audit office was conducted at 271 stones in the bank, these audits were carried out in the bank to be an artificial stone.The report states under audit observation.
-
-Museums to the Auditorium to assess the gem and jewelry authority to assess the value of these gems.The estimate of the department has been informed.
-
-Museum Department's Rule Officer of the Museum Department is expected to take the approval of the Secretary of the Museum, the Secretary to the Ministry is inappropriate to take the approval of the Secretary of the Museum.Further has been informed.
-
-...
-
-[Data](articles/8561f1d1.json)
-
-[Extended Data](ext_articles/8561f1d1.ext.json)
-
----
-
-### බංග්ලාදේශ සිසු විරෝධතා නැවතත්
-
-*2024-10-24 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202506) · `si`
-
-Bangladesh student protests resume against government policies. Demonstrators attempted to storm President's House, demanding removal of current administration. Protests sparked by opposition to new education policy. Security forces reportedly suppressed the movement. Current president faces allegations of election irregularities in 2014, 2018, and 2024 polls.
-
-🟩
-
-During these objections, they had tried to raid the President's House during the protests that resigtee the President.
-
-බංග්ලාදේශ රජය ගෙනා රැකියා කෝටා ක්‍රමවේදයකට එරෙහිව පසුගිය ජූලි මාසයේදී එරට ආරම්භ වූ ශිෂ්‍ය විරෝධතා අවසන්වූයේ එරට අගමැතිනී ෂෙයික් හසීනාට ධුරය ද අහිමි කරමිනි.
-
-විරෝධතාකරුවන් අගමැති මැඳුරට කඩා වැදීමෙන් මොහොතකට පෙර රටින් පලාගිය හසීනා එතැන් සිට රැඳී සිටින්නේ ඉන්දියාවේ ය.
-
-The student protesters were taken to bring a new administrator to the country.
-
-The participation of those student leaders and alerted an interim government of Mohammed Yunus.
-
-Although the daily role of the country has come to normal, a series of massive protests have begun again.
-
-සිසුන් නැවතත් මෙලෙස විරෝධතා ආරම්භ කර ඇත්තේ කරුණු පහක් ඉටුකරන්නැයි රජයට බලකරමින් වන අතර 2023 වසරේ සිට ධුරය දරමින් සිටින වත්මන් ජනාධිපති මොහොමඩ් ෂහාබදීන් ධුරයෙන් වහාම ඉවත්කිරීම එම ඉල්ලීම්වලින් එකකි.
-
-Accordingly, protesters met with the President's House and break into the President.
-
-...
-
-[Data](articles/7987318d.json)
-
-[Extended Data](ext_articles/7987318d.ext.json)
-
----
-
-### Flood warning
-
-*2024-10-24 13:01:44* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-අනතුරු-ඇඟවීමක්/11-412661) · `si`
-
-Flood warning issued for upper central Nilwala Ganga basin areas. Low-bathing warnings for Pasagoda, Kotapola, Pitabachabadara, Akuressa, Athuraliya, Malimbada, Kamburupitiya, Matara Divisional Secretariat Divisions from yesterday morning.
-
-🟩
-
-The river has been substantially significant to the upper and central areas of the Nilwala Ganga basin from yesterday this morning.
-
-The warning has been issued for low-bathing in Pasagoda, Kotapola, Pitabachabadara, Akuressa, Athuraliya, Malimbada, Kamburupitiya and Matara Divisional Secretariat Divisions.
-
-◼️
-
-[Data](articles/54693b00.json)
-
-[Extended Data](ext_articles/54693b00.ext.json)
-
----
-
-### Emergency Phone Number for the safety of Israeli citizens - police
-
-*2024-10-24 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196981) · `ta`
-
-Israeli citizens visiting Sri Lanka can contact 071-8592651 for police assistance. Deputy Inspector General Damayantha Vijayasree handles tourism and maritime affairs. Provide identity information for verification. Police will take appropriate action based on personal needs.
-
-🟩
-
-The Israeli citizen who visits Sri Lanka for other purposes or other purposes can contact the telephone number and get the necessary help with the police headquarters.
-
-Deputy Inspector General of Police Damayantha Vijayasree has been announced to contact 071- 8592651 in charge of tourism and maritime affairs.
-
-The Police Headquarters has requested that the information he requested by the information as he requested.
-
-The Deputy Inspector General of Police will take appropriate action on the basis of personal needs, police said.
-
-For identity verification, tourists are asked to provide the necessary information when accessing for help.
-
-◼️
-
-[Data](articles/9f489ed2.json)
-
-[Extended Data](ext_articles/9f489ed2.ext.json)
-
----
-
-### A group of Israelites return
-
-*2024-10-24 12:57:53* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙල්-සංචාරකයන්-පිරිසක්-ආපසු-යති/11-412660) · `si`
-
-Israelis return to Sri Lanka: 22 citizens arrive at Katunayake airport. They flew from Dubai after being stranded due to lack of flights from Colombo. The trip marks a significant moment in diplomatic relations between Israel and Sri Lanka.
-
-🟩
-
-There were 22 Israeli nationals left the Katunayake airport on the early 10/24th day to visit Sri Lanka.
-
-As the US embassy and the Israeli government to be resurrected in Sri Lanka, the Israeli government was safe to be taken to the Katunayake airport and had taken steps to the Katunayake airport..
-
-These Israeli people fired Flai Dubai Airlines on Dubai 03.03 days at 03.03 am.
-
-The Israeli people are due to go to Dubai, as they have no aircraft from the Bandaranaike International Airport, to go to Dubai and leaving Israel from Israel.
-
-◼️
-
-[Data](articles/90ae04d7.json)
-
-[Extended Data](ext_articles/90ae04d7.ext.json)
-
----
-
-### Couple arrested for breaking the forefathers
-
-*2024-10-24 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202505) · `si`
-
-Couple arrested for fraudulently providing clothes to pre-schoolers. Police claim they operated a money-making scheme involving fake medical services. Both suspects remanded by magistrate court.
-
-🟩
-
-The Mahiyanganaya Police have arrested the Mahiyanganaya Police.
-
-A small daughter and a couple who come to pre-school children for their daughter's birthday had been informed to provide a dress and footwear on their daughter's birthday.
-
-They had taken the pre-school wardens, claiming that the neck of several children had taken measures to provide garments to their children.
-
-According to police, children in pre-schools in the pre-schools in the area of ​​Mahiyanganaya and Rigimaliyadda Divisional Secretariat areas have taken place.
-
-According to the complaints received by the police, the suspect in the Diyatalawa area and the suspect, a resident of Kandana, has been arrested.
-
-Police say that the couple had also had a racket of money that the couple had to do to make surgeries.
-
-The suspect had been remanded after being produced before the Mahiyanganaya Magistrate's Court.
-
-◼️
-
-[Data](articles/16f3b324.json)
-
-[Extended Data](ext_articles/16f3b324.ext.json)
 
 ---

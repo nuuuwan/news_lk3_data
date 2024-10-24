@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 18:35:49**
+As of **2024-10-24 18:48:29**
 
 ## Newspaper Stats
 
-*Scraped **51,187** Articles*
+*Scraped **51,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,767
-adaderanalk | 6,065
-tamilmirrorlk | 7,054
+adaderanalk | 6,066
+tamilmirrorlk | 7,056
 virakesarilk | 8,224
-adaderanasinhalalk | 8,888
+adaderanasinhalalk | 8,889
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,175 (100.0%) of 51,187 articles have been extended.
+51,175 (100.0%) of 51,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### ”இதற்கு என்னைக் கொல்வதே மேல்”
+
+*2024-10-24 18:28:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதற்கு-என்னைக்-கொல்வதே-மேல்/175-346000) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) முன்னாள் உறுப்பினர் ரோஹித அபேகுணவர்தன தனது நற்பெயருக்கு களங்கம் ஏற்படுத்துவதை விட அவரைக் கொலை செய்வதே மேல் என தெரிவித்துள்ளார்.
+
+அரசியல் கூட்டமொன்றில் உரையாற்றிய முன்னாள் எம்.பி, சேறு பூசும் பிரச்சாரங்கள் மூலம் தம்மை வீழ்த்துவது எளிதல்ல என்றார்.
+
+"சேறுபூசி என் நற்பெயரைக் கெடுக்காமல், பல தலைவர்கள் சுட்டுக் கொல்லப்பட்டது அல்லது கொல்லப்பட்டது போல் என் வாழ்க்கையையும் அழித்துவிடுங்கள் என்று என்னை வெறுப்பவர்களிடம் கூற விரும்புகிறேன்".
+
+தேசத்திற்காகவும் அரசியலுக்காகவும் தனது உயிரை தியாகம் செய்ய தயார் என ரோஹித அபேகுணவர்தன தெரிவித்துள்ளார்.
+
+“இது சேறு பூசுவதை விட சிறந்தது. என் குணத்தை அழிப்பதை விட என்னைக் கொல்வது மேல்” என்று அவர் வலியுறுத்தினார்.
+
+◼️
+
+[Data](articles/2256b555.json)
+
+---
+
+### ගුවන් හමුදාවට ඔස්ට්‍රේලියාවෙන් බීච් ක්‍රාෆ්ට් යානයක්
+
+*2024-10-24 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202520) · `si`
+
+ඔස්ට්‍රේලියානු රාජකීය ගුවන් හමුදාව විසින් භාවිත කරන ලද බීච් ක්‍රාෆ්ට් කින්ග් වර්ගයේ නිරීක්ෂණ ගුවන් යානයක් ශ්‍රී ලංකා ගුවන් හමුදාවට ලබා දී තිබේ.
+
+එය ඉදිරියේදී ගුවන් හමුදා අංක 03 සමුද්‍රීය බලඝනයට අනුයුක්තව රාජකාරි ඇරඹීමට නියමිතව ඇත.
+
+ශ්‍රී ලංකාවට අයත් මුහුදු කලාපයේ සමුද්‍රීය ආවේක්ෂණ හැකියාව වර්ධනය කිරීම සඳහා මෙම ගුවන් යානය ඔස්ට්‍රේලියානු රජයේ ප්‍රදානයක් ලෙස හිමිව ඇත.
+
+මේ තුළින් එම කලාපය තුළ සිදුකරනු ලබන සොයාගැනීම් සහ මුදවාගැනීම්, අන්තර්ජාතින මට්ටමින් සිදුකරනු ලබන අපරාධ සහ මිනිස් ජාවාරම් තුරන් කිරීමට අවශ්‍ය පියවර ගැනීම අවස්ථාව ලැබෙන බව සඳහන් ය.
+
+◼️
+
+[Data](articles/53338d73.json)
+
+---
+
+### Emergency at BIA called off after another bomb scare on Vistara flight
+
+*2024-10-24 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102907/emergency-at-bia-called-off-after-another-bomb-scare-on-vistara-flight) · `en`
+
+The emergency declared at Bandaranaike International Airport (BIA) in Katunayake following another bomb scare on a Vistara flight has been called off, according to the airport management.
+
+Flight operations at the BIA are continuing as usual without any disruption to the airport’s normal operations, says Airport and Aviation Services Sri Lanka (AASL).
+
+The management of Bandaranaike International Airport (BIA) declared a full emergency in response to another reported bomb scare on a Vistara flight from Mumbai to Colombo, which was scheduled to arrive at BIA at 15:15 hrs today (October 24).
+
+A nonspecific call on a bomb threat had been reported to the flight before landing at BIA. Accordingly, the security agencies and relevant authorities adopted all precautionary and preventive measures in line with the protocol, AASL said in a statement.
+
+...
+
+[Data](articles/f1f2f4ee.json)
+
+---
+
+### ஏன் இலங்கைப் படைகள் பாதுகாப்பு வழங்குகின்றன?
+
+*2024-10-24 18:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏன்-இலங்கைப்-படைகள்-பாதுகாப்பு-வழங்குகின்றன/175-345999) · `ta`
+
+அதிகரித்து வரும் மத்திய கிழக்கு நெருக்கடியை அடுத்து இலங்கை தனது வெளியுறவுக் கொள்கையை சரி செய்ய வேண்டும் என்று ஐக்கிய மக்கள் சக்தி (SJB) பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் இன்று தெரிவித்தார்.
+
+அமெரிக்கா போன்ற நாடுகள் இஸ்ரேலை ஆதரிக்கும் அதே வேளையில், ஈரான், ரஷ்யா போன்ற நாடுகள் பாலஸ்தீனத்தை ஆதரிப்பதால், மத்திய கிழக்கில் நிலவும் மோதலில் உலகம் கடுமையாக பிளவுபட்டுள்ளது. பாலஸ்தீனத்தின் சுதந்திரத்திற்காக இலங்கை நிற்கிறது. புதிய அரசாங்கம் இதை கவனத்தில் கொள்ள வேண்டும்” என அவர் கூறினார்.
+
+கொழும்பிலும் ஏனைய இடங்களிலும் உள்ள இஸ்ரேலிய நிறுவனங்களுக்கு ஏன் இலங்கைப் படைகள் பாதுகாப்பு வழங்குகின்றன எனவும் அவர் கேள்வி எழுப்பியுள்ளார்.
+
+◼️
+
+[Data](articles/4d50718b.json)
+
+---
 
 ### Bomb wax on Katunayake's second flight
 
@@ -2291,85 +2363,5 @@ A suspect has been arrested on Wednesday (23) for stealing property in the Thekk
 [Data](articles/af130f54.json)
 
 [Extended Data](ext_articles/af130f54.ext.json)
-
----
-
-### පොහොට්ටුවේ ප්‍රබලයෙක් සී.අයි.ඩී.යට
-
-*2024-10-24 10:39:47* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-ප්‍රබලයෙක්-සී-අයි-ඩී-යට/11-412652) · `si`
-
-Namal Rajapaksa arrives at CID for statement. Media present.
-
-🟩
-
-Namal Rajapaksa has arrived at the Criminal Investigation Department
-
-ප්‍රකාශයක් ලබා දීම සඳහා තමාට පැමිණෙන ලෙස දැනුම් දී ඇති බව එහිදී මාධ්‍ය වෙත අදහස් පළ කරමින් හෙතෙම සඳහන් කළේය.
-
-◼️
-
-[Data](articles/688fe652.json)
-
-[Extended Data](ext_articles/688fe652.ext.json)
-
----
-
-### சிஐடியில் முன்னிலையானார் நாமல் ராஜபக்ஷ
-
-*2024-10-24 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196969) · `ta`
-
-Namal Rajapakse, former Sri Lankan parliamentarian, appeared at CID headquarters on Thursday morning to provide a statement.
-
-🟩
-
-Former Parliamentarian Namal Rajapakse appeared before the Criminal Investigation Department on Thursday morning to make a statement.
-
-◼️
-
-[Data](articles/4e3ae5c4.json)
-
-[Extended Data](ext_articles/4e3ae5c4.ext.json)
-
----
-
-### Namal Rajapaksa arrives at CID
-
-*2024-10-24 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102897/namal-rajapaksa-arrives-at-cid) · `en`
-
-Former Member of Parliament Namal Rajapaksa arrived at the Criminal Investigation Department (CID) at around 9.00 a.m. this morning to provide a statement, Ada Derana Reporter said.
-
-Responding to a question from journalists as to why he was summoned to the CID, Namal responded saying that he was unsure and needed to find out the reason himself.
-
-In response to further inquiries, he stated, “I don’t know the matter.  It’s better to be called in. The only way to get rid of the accusations against us is to come here. Because some lie with conviction. We are not those who lie with conviction. We will go and give our statement with conviction and come.”
-
-◼️
-
-[Data](articles/14e7e7f8.json)
-
-[Extended Data](ext_articles/14e7e7f8.ext.json)
-
----
-
-### Call for foreign tourists
-
-*2024-10-24 10:19:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வௌிநாட்டு-சுற்றுலா-பயணிகளுக்கு-அழைப்பு/175-345970) · `ta`
-
-Sri Lanka invites foreign tourists without fear, emphasizing maximum security measures. The Tourism Promotion Unit assures safety for current visitors. US Embassy warns of potential attacks.
-
-🟩
-
-எந்தவித அச்சமும் இன்றி இலங்கைக்கு சுற்றுலாப் பயணம் மேற்கொள்ளுமாறு வௌிநாட்டு சுற்றுலா பயணிகளுக்கு இலங்கை  சுற்றுலா ஊக்குவிப்பு பிரிவு பகிரங்க அழைப்பு விடுத்துள்ளது.
-
-In Sri Lanka, the Division has pointed out that the Ministry of Defense has taken steps to provide maximum security to tourists.
-
-The Tourism Promotion Unit has not threatened the safety of tourists currently staying in Sri Lanka.
-
-The US Embassy in Colombo said yesterday (23) that he had received reliable information that the attack could be attacked.
-
-◼️
-
-[Data](articles/8d208ae8.json)
-
-[Extended Data](ext_articles/8d208ae8.ext.json)
 
 ---

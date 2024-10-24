@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 01:39:50**
+As of **2024-10-25 01:58:48**
 
 ## Newspaper Stats
 
-*Scraped **51,230** Articles*
+*Scraped **51,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 510
 bbccomsinhala | 519
 islandlk | 3,040
 economynextcom | 3,131
-dailyftlk | 3,491
+dailyftlk | 3,493
 dailymirrorlk | 4,733
 adalk | 4,774
 adaderanalk | 6,069
@@ -26,11 +26,47 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,230 (100.0%) of 51,230 articles have been extended.
+51,232 (100.0%) of 51,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Marikkar calls for strong opposition to safeguard democracy
+
+*2024-10-25 01:37:06* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-calls-for-strong-opposition-to-safeguard-democracy/56-768394) · `en`
+
+Says Govt. is downplaying need for an opposition and stresses it undermines democracy
+
+Claims “communist parties” are aiming to establish a one-party State and it is a grave threat
+
+Samagi Jana Balawegaya (SJB) Colombo district candidate S.M. Marikkar has strongly criticised the current Government’s approach to governance, calling for a robust opposition to safeguard the country’s democracy.
+
+Adressing a press conference at the Samagi Jana Sandhana head office in Colombo yesterday Marikkar highlighted that the present Government has downplayed the need for an opposition. He said such a stance undermines the very foundation of democracy.  “The majority of the people in the country are not represented by the current Government. It is essential to protect democracy, which is a primary responsibility of any Government. Equally, it is the responsibility of the people to ensure that this democracy is preserved,” he said.
+
+...
+
+[Data](articles/da956c45.json)
+
+[Extended Data](ext_articles/da956c45.ext.json)
+
+---
+
+### “Baseless Allegations”: Ranil responds to Cardinal’s critique on Easter Sunday reports
+
+*2024-10-25 01:35:53* · [`dailyftlk`](https://www.ft.lk/news/Baseless-Allegations-Ranil-responds-to-Cardinal-s-critique-on-Easter-Sunday-reports/56-768393) · `en`
+
+Former President Ranil Wickremesinghe has called on all political parties and others to refrain from using the reports on the 2019 Easter Sunday attacks for political gain.
+
+In a press release issued yesterday, Wickremesinghe responded to recent criticism from Colombo’s Archbishop, Malcolm Cardinal Ranjith, who had questioned the credibility of the reports compiled by the Judges A.N.J. De Alwis and Syed Ishrat Imam committees appointed by Wickremesinghe during his tenure
+
+...
+
+[Data](articles/776d57a2.json)
+
+[Extended Data](ext_articles/776d57a2.ext.json)
+
+---
 
 ### Celebrating 100 years of Toastmasters International: Journey of empowering voices
 
@@ -2421,53 +2457,5 @@ Meanwhile, the District Election Complaint Management Center has received four c
 [Data](articles/6009f7ee.json)
 
 [Extended Data](ext_articles/6009f7ee.ext.json)
-
----
-
-### A man arrested with ice drugs in Kalkisa
-
-*2024-10-24 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196980) · `ta`
-
-Man arrested with ice drugs in Kalkisa. 28-year-old suspect held 10g of 900mg ice. Raid conducted based on Mount Lavinia Police tip.
-
-🟩
-
-A man has been arrested for holding ice drugs in Sri Dharmapala Mawatha, which belongs to the Kalkissa police division, police said.
-
-He was arrested on Wednesday (23) during a raid carried out on information received by the Mount Lavinia Police Station.
-
-The arrested suspect is 28 years old from Kalkisai.
-
-10 grams of 900 milligrams of ice has been seized by the police.
-
-◼️
-
-[Data](articles/a059cef6.json)
-
-[Extended Data](ext_articles/a059cef6.ext.json)
-
----
-
-### Youth arrested with ice drugs in Madhavachi
-
-*2024-10-24 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/196977) · `ta`
-
-Youth arrested for ice drugs in Madawachi during police raid. 02 grams of 800mg ice seized. Suspect produced at local police station for investigation.
-
-🟩
-
-A youth has been arrested for possessing ice drugs in the Kanadarawa area under the Madawachi police division, police said.
-
-He was arrested on Wednesday (23) during a raid on confidential information received by the Chettikulam Police Special Task Force.
-
-02 grams of 800 milligrams of ice has been seized by the police.
-
-Meanwhile, the suspect has been produced at the Madawachi Police Station for further investigations.
-
-◼️
-
-[Data](articles/1a9b0832.json)
-
-[Extended Data](ext_articles/1a9b0832.ext.json)
 
 ---

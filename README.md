@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 16:23:48**
+As of **2024-10-24 16:39:25**
 
 ## Newspaper Stats
 
-*Scraped **51,145** Articles*
+*Scraped **51,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ dailymirrorlk | 4,733
 adalk | 4,765
 adaderanalk | 6,063
 tamilmirrorlk | 7,051
-virakesarilk | 8,197
+virakesarilk | 8,206
 adaderanasinhalalk | 8,882
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,145 (100.0%) of 51,145 articles have been extended.
+51,153 (100.0%) of 51,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### France Ambassador - Prime Minister Harini Amarasuriya meets
+
+*2024-10-24 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196994) · `ta`
+
+French Ambassador Mari-Noil Duris met Sri Lankan PM Harini Amarasuriya. They discussed France-Sri Lanka alliance, emphasizing continued cooperation. The meeting highlighted the 75th anniversary of bilateral ties and potential collaborations across sectors.
+
+🟩
+
+A meeting between French Ambassador to Sri Lanka Mari - Noil Duris and Prime Minister Dr. Harini Amarasuriya
+
+During the meeting, France's long -term alliance with Sri Lanka was focused and discussed with continuous cooperation to Sri Lanka.
+
+The discussion was specially expressed in the 75 -year anniversary of diplomatic relations between Sri Lanka and France and focused on various sectors between the two countries.
+
+◼️
+
+[Data](articles/99e38e6f.json)
+
+[Extended Data](ext_articles/99e38e6f.ext.json)
+
+---
+
+### Bomb intimidation;Indian Airport in Katunayake
+
+*2024-10-24 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197001) · `ta`
+
+A-320 flight diverted to Katunayake airport after bomb threat. 108 passengers and 8 crew members safely landed at 2:56 pm on Thursday.
+
+🟩
+
+The Indian aircraft that departed from Mumbai landed at the Katunayake airport due to a bomb blast.
+
+The A-320 flight of 108 passengers and eight employees landed at Katunayake airport at 2:56 pm on Thursday (24).
+
+◼️
+
+[Data](articles/a675a386.json)
+
+[Extended Data](ext_articles/a675a386.ext.json)
+
+---
 
 ### Building a political power for the good of the country
 
@@ -51,6 +93,32 @@ The political revenge had never seen a political revenge in the political histor
 [Data](articles/2b32947b.json)
 
 [Extended Data](ext_articles/2b32947b.ext.json)
+
+---
+
+### American Tamil people vote for Kamala Harisu and help us find our missing children
+
+*2024-10-24 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197000) · `ta`
+
+Tamil Americans support Kamala Harris for US presidency, seeking help finding missing children and protecting Tamil sovereignty. Mothers of disappeared hope her leadership can bring justice and resolution to long-standing issues.
+
+🟩
+
+The Tamil people of the Tamil people have voted for Kamala Harisi and redeem our sovereignty and help our missing children.
+
+He said this while speaking to the media after a protest in Vavuniya on Thursday (24).
+
+Mothers of the missing in Vavuniya will support Haris to support Kamala Harisu for the post of US President, protect Tamil sovereignty and find their missing children.
+
+Today is the 2,804th day to find the missing Tamil children, protect Tamils ​​from the future genocide, and to seek the help of the US and the EU for the sovereignty of Tamils.. Our journey continues in this bet on the A-9 road in front of the Vavuniya Court.
+
+The mothers of the disappeared in Vavuniya have announced that Kamala Harris will support him in the attempt for the US president. They believe that his leadership can provide justice for Tamil sovereignty and help their missing children.
+
+...
+
+[Data](articles/14f944a2.json)
+
+[Extended Data](ext_articles/14f944a2.ext.json)
 
 ---
 
@@ -76,6 +144,32 @@ The Airbus A-320 aircraft has 108 passengers and 08 employees.
 
 ---
 
+### Mullaitivu District Government Agent
+
+*2024-10-24 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196997) · `ta`
+
+Keppapilavu residents meet Mullaitivu District Government Agent. ECDO hands over land to secretariat. Governor visits, discusses land issue. Residents protest, demand land release. Military controls remaining lands. Northern Province Governor meets locals, facilitates land handover.
+
+🟩
+
+The people of Keppapilavu ​​met with the Mullaitivu District Government Agent A. Umamakeswaran on Thursday (24) morning to release the land of Mullaitivu - Keppapulavu.
+
+The Environmental and Social Development Institute (ECDO) and Keppapilavu ​​Villagers have handed over to the Mullaitivu District Secretariat to the Mullaitivu District Secretariat.
+
+The Governor of the Mullaitivu District Secretariat said that the Governor's visit to the Mullaitivu District Secretariat on the 8th of this month and that the matter was being talked about.
+
+The people later told the media that they had lost their lands for years and lived amidst difficulties and that there were many protests and that the government should take steps to release their lands soon.
+
+Although the lands of the people of Keppapulavu have been released, the lands of the people are still under military control and action should be taken to release it.
+
+...
+
+[Data](articles/bbdb6f56.json)
+
+[Extended Data](ext_articles/bbdb6f56.ext.json)
+
+---
+
 ### Status relief in the next few days - Vijitha
 
 *2024-10-24 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202512) · `si`
@@ -95,6 +189,42 @@ He was speaking at a special press conference held at the Ministry of Defense to
 [Data](articles/036da891.json)
 
 [Extended Data](ext_articles/036da891.ext.json)
+
+---
+
+### Three arrests with guns in different areas!
+
+*2024-10-24 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/196999) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Police arrest three suspects with guns in separate raids: one in Oyagama, another in Tammidagama, and a third in Kobegane."
+
+🟩
+
+Three suspects were arrested by police on Wednesday (23) during the raid carried out in different areas.
+
+Police have arrested a suspect who had a domestic gun in the Oyagama area yesterday (23).
+
+He was arrested during a raid carried out on information received by police station officials.
+
+The suspect was 33 years old from Rambewa.
+
+Meanwhile, a suspect has been arrested by the police for holding two domestic guns in Tammidagama area under the Meegalewa police division.
+
+He was arrested during a roundup of information received by Meegalewa Police Station officials.
+
+In addition, a suspect has been arrested by the police for possessing a domestic gun in the Kobegane police division.
+
+He was arrested during a roundup of information received by the police station by the police station.
+
+◼️
+
+[Data](articles/9b6581b0.json)
+
+[Extended Data](ext_articles/9b6581b0.ext.json)
 
 ---
 
@@ -125,6 +255,88 @@ Minister Herath said that Sri Lankan authorities have received intelligence from
 [Data](articles/5c7e616e.json)
 
 [Extended Data](ext_articles/5c7e616e.ext.json)
+
+---
+
+### Rehabilitated Patient Hostel tomorrow at Narahenpitiya Police Hospital
+
+*2024-10-24 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/196985) · `ta`
+
+Narahenpita Police Hospital rehab handover tomorrow at 8:30 AM. IGP Priyantha Weerasuriya to attend ceremony. Event to take place at hospital premises.
+
+🟩
+
+The police media unit said that the rehabilitation of the Narahenpitiya Police Hospital will be handed over to the police inspectors tomorrow (25).
+
+The event will be held at the Narahenpitiya Police Hospital premises at 8.30 am tomorrow (25) under the patronage of Inspector General of Police Priyantha Weerasuriya.
+
+◼️
+
+[Data](articles/6407dd8f.json)
+
+[Extended Data](ext_articles/6407dd8f.ext.json)
+
+---
+
+### One arrested with heroin in Anuradhapura
+
+*2024-10-24 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196987) · `ta`
+
+Anuradhapura: Heroin arrest made. Suspect caught with 10g ice. Produced at police station for investigation.
+
+🟩
+
+A suspect in the Wijepura half -half of the Anuradhapura police division has been arrested by a suspect.
+
+He was arrested on Wednesday (23) during a roundup of secret information received by a team of officials of the Anuradhapura Divisional Criminal Investigation Division.
+
+10 grams of 150 milligrams of ice from the suspect was seized by the police.
+
+Meanwhile, the suspect has been produced at the Anuradhapura Police Station for further investigations.
+
+◼️
+
+[Data](articles/28945617.json)
+
+[Extended Data](ext_articles/28945617.ext.json)
+
+---
+
+### Come to Sri Lanka without fear: Invite foreign tourists - government
+
+*2024-10-24 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196992) · `ta`
+
+Sri Lanka invites foreign tourists, assures safety measures after arrests related to potential attacks. Public Security Minister emphasizes no credible threats against civilians or tourists.
+
+🟩
+
+Public Security Minister Vijitha Herath said that we are advising foreign tourists to visit Sri Lanka without fear, and we have taken security measures to foreign diplomats.
+
+Meanwhile, the Public Security Minister said that the three men have been arrested on suspicion of attacks on foreign tourists.
+
+The Minister of Public Safety said that strict measures have been taken to strengthen the safety of tourists and that there is no information that there will be no reports of attacks on civil citizens.
+
+Meanwhile, the Public Security Minister added that there is no information from the Indian Intelligence Unit of the attack on tourists.
+
+◼️
+
+[Data](articles/11496a78.json)
+
+[Extended Data](ext_articles/11496a78.ext.json)
+
+---
+
+### பொத்துவிலில் போலி நாணயத்தாள்களுடன் ஒருவர் கைது
+
+*2024-10-24 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196991) · `ta`
+
+பொத்துவில் பொலிஸ் பிரிவிற்குட்பட்ட, இலங்கை வங்கி வளாகத்தில் போலி 5 ஆயிரம் ரூபாய் நாணயத்தாள்களுடன் ஒருவர் நேற்று புதன்கிழமை (23) கைது செய்யப்பட்டுள்ளார்.
+
+பொத்துவில் பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த முறைப்பாட்டின் பேரில் இவர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/2fe4f1a4.json)
 
 ---
 
@@ -2231,207 +2443,5 @@ The Ministry of Defense has also taken necessary steps to ensure the safety of t
 [Data](articles/f71f50ca.json)
 
 [Extended Data](ext_articles/f71f50ca.ext.json)
-
----
-
-### Chinese chief meets President Secretary
-
-*2024-10-24 07:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனப்-பிரதானி-ஜனாதிபதி-செயலாளருடன்-சந்திப்பு/175-345958) · `ta`
-
-Chinese envoy meets Sri Lankan president's aide to boost bilateral ties in various sectors, recalling long-standing friendship and exploring new ways to strengthen social, cultural, and economic connections between the two nations.
-
-🟩
-
-Sue Yanwei, Deputy Chief of the Chinese embassy, ​​met with President's Secretary Dr. Nandika Sanath Kumanayake at the Presidential Secretariat yesterday.
-
-The meeting was extensively investigated to further expand China-Sri Lankan bilateral relations in various sectors.
-
-In addition, the long -term friendship and mutual respect between China and Sri Lanka were recalled and the new methods of further strengthening social, cultural and economic ties between the two countries were also investigated.. (A)
-
-◼️
-
-[Data](articles/f7cda2aa.json)
-
-[Extended Data](ext_articles/f7cda2aa.ext.json)
-
----
-
-### Heavy rains in some parts of the country
-
-*2024-10-24 07:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-பலத்த-மழை/175-345957) · `ta`
-
-Heavy rains forecasted in Western, Sabaragamuwa, South, North Western, Northern Provinces and Kandy, Nuwara Eliya districts. Rainfall expected up to 50mm in upper, Sabaragamuwa, Southern and Northern Provinces.
-
-🟩
-
-The Department of Meteorology has forecast rainfall in many parts of the country today.
-
-Rainfall or thunderstorms may be reported in the Western, Sabaragamuwa, South, North Western and Northern Provinces and Kandy and Nuwara Eliya districts.
-
-It has been reported that rainfall is likely to be recorded up to 50 mm in the upper, Sabaragamuwa, Southern and Northern Provinces.. (A)
-
-◼️
-
-[Data](articles/ccb2eade.json)
-
-[Extended Data](ext_articles/ccb2eade.ext.json)
-
----
-
-### Two arrested in connection with Israeli nationals
-
-*2024-10-24 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202492) · `si`
-
-Two arrests linked to Israeli nationals. Suspected plot to attack Israel. Intelligence shared with Sri Lanka. Security measures taken in Arugambay and surrounding areas. Israeli Defense Forces advised to leave certain regions. Hebrew symbols prohibited.
-
-🟩
-
-The Terrorism Investigation Division has arrested two persons on suspicion that Israeli people were planning to attack Israel.
-
-Indian intelligence divisions have been made to the Sri Lankan security forces regarding the arugam attack plan.
-
-Arugambay, near Pottuvil, is an attractive tourist world attractive tourist arrivals.
-
-Indian intelligence services have been informed that there is a plan to attack Israel, where Israel has been attacked by such a context.
-
-Indian intelligence has been informed that the attack can be launched between the 19th and 23rd.
-
-Intelligence reports, two Sri Lankans were ready to launch the attack and that two of them were from Iraq.
-
-Accordingly, the Indian intelligence services have been given all information on the two men and the number of people.
-
-The information has been revealed that the attack was launched in the country as a revenge in Israel as revenge in Israel.
-
-...
-
-[Data](articles/1795b8c8.json)
-
-[Extended Data](ext_articles/1795b8c8.ext.json)
-
----
-
-### Thunder showers in several areas
-
-*2024-10-24 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202490) · `si`
-
-Thunderstorms forecasted for Western, Sabaragamuwa, Southern, and Northern provinces. Strong winds and lightning possible. Public advised to be cautious during evening/night hours.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and Northern provinces, in the Kandy and Nuwara Eliya districts.
-
-MM to some places in the Western, Sabaragamuwa, Southern, North Western and Northern provinces. Shorters can occur in more than 50.
-
-Thundershowers will develop at several places in the evening or night in the evening or night in the rest of the island.
-
-From the North, Northern-Central, North Western and Central provinces and Trincomalee districts. (40-45) can cause strong winds.
-
-The public is requested to take necessary steps to reduce temporary strong winds and lightning accidents in thundershowers.
-
-◼️
-
-[Data](articles/60c5c5b1.json)
-
-[Extended Data](ext_articles/60c5c5b1.ext.json)
-
----
-
-### Noyon celebrates over century of lace heritage and 20 years of design and craftsmanship in Sri Lanka
-
-*2024-10-24 05:48:48* · [`dailyftlk`](https://www.ft.lk/business/Noyon-celebrates-over-century-of-lace-heritage-and-20-years-of-design-and-craftsmanship-in-Sri-Lanka/34-768357) · `en`
-
-From right: MAS Holdings Co-founder Sharad Amalean, Olivier Noyon, Shaila Amalean, MAS Holdings Chairman and Co-Founder Mahesh Amalean, Chargé d’Affaires a.i. of Embassy of France in Colombo Marie-Noelle Duris, MAS Holdings CEO Suren Fernando, Noyon Lanka CEO Husni Salieh, and other officials.
-
-From left: MAS Holdings Chairman and Co-Founder Mahesh Amalean, Olivier Noyon with Noyon Lanka CEO Husni Salieh
-
-MAS Holdings CEO Suren Fernando welcoming Chargé d’Affaires a.i. of Embassy of France in Colombo Marie-Noelle Duris
-
-...
-
-[Data](articles/7c05885d.json)
-
-[Extended Data](ext_articles/7c05885d.ext.json)
-
----
-
-### Hong Kong Trade Development Council and EDB join forces to boost Sri Lanka’s exports
-
-*2024-10-24 05:46:46* · [`dailyftlk`](https://www.ft.lk/business/Hong-Kong-Trade-Development-Council-and-EDB-join-forces-to-boost-Sri-Lanka-s-exports/34-768356) · `en`
-
-In a significant step towards strengthening trade and economic relations between Sri Lanka and Hong Kong, the Hong Kong Trade Development Council (HKTDC) and the Export Development Board (EDB) have come together to hosted a landmark roadshow at The Kingsbury Hotel, Colombo on 11 October 2024.
-
-This year’s HKTDC roadshow attracted around 80 representatives from a diverse range of Sri Lankan companies, spanning sectors like apparel, footwear, fashion accessories, food, ceramics, tea, spices, beauty and healthcare, electronics, ICT, gems and jewellery, and many more.
-
-A highlight of the event was an insightful presentation by HKTDC Consultant – Officer-in-charge Thailand and South Asia Vian Cheung, and HKTDC Associate Director – Business Development, Exhibitions and Digital Business Samuel Cheng provided a comprehensive overview of the tremendous opportunities available for Sri Lankan exporters in the Hong Kong market.
-
-...
-
-[Data](articles/559cf662.json)
-
-[Extended Data](ext_articles/559cf662.ext.json)
-
----
-
-### AKD’s call for a ‘powerful’ government: Implications for political system
-
-*2024-10-24 05:44:24* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-call-for-a-powerful-government-Implications-for-political-system/4-768355) · `en`
-
-In his stump speech on the General Election campaign trail, President AKD has called for the voters to produce a “powerful” (“balavath”, “prabala”) government.
-
-Interestingly, he did not call for a “strong” (shakthimath”) government which is conventionally the opposite of a “weak” one. Given where he’s coming from, that distinction and his choice of words should give us pause.
-
-Sri Lanka, Ceylon at the time, was not only the first in Afro-Asia to have universal franchise but it was also the first in South Asia to evolve a two-party system. India which was independent a year before Ceylon, maintained what was defined in the political science literature as a ‘one-party dominant’ system until 1977. That was the party of Independence, the Congress party. The term ‘one-party dominant’ was minted to differentiate such countries from those which had a ‘one-party system’ be it Fascist (e.g., Spain’s Falange) or Communist.
-
-...
-
-[Data](articles/03e1ae47.json)
-
-[Extended Data](ext_articles/03e1ae47.ext.json)
-
----
-
-### Presidential Elections 2024: Lessons for business
-
-*2024-10-24 05:38:39* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-Elections-2024-Lessons-for-business/4-768354) · `en`
-
-The 9th Executive President of Sri Lanka Anura Kumara Dissanayake
-
-One could not ask for a better market place than the recently staged Presidential election – 17.4 million consumers (voters), targeted essentially by four brands (though there were 38 Presidential candidates registered). Each brand had the stipulation of Rs. 1.8 billion within a two-month period. Given that Sri Lanka is an island nation, it was a ‘perfect market place’. All candidates had the freedom to travel, freedom to use any medium of communication. The candidate that secured the highest share was declared the winner. Let me pick up the key lessons for businesses.
-
-...
-
-[Data](articles/c3a3040a.json)
-
-[Extended Data](ext_articles/c3a3040a.ext.json)
-
----
-
-### Eight people killed when a 6 -storey building collapsed
-
-*2024-10-24 05:37:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாடி-கட்டிடம்-இடிந்து-வீழ்ந்ததில்-8-பேர்-பலி/175-345955) · `ta`
-
-Bangalore building collapse kills 8 workers. Heavy rains caused sudden collapse during construction. Rescue efforts underway. Building owner, son, contractor arrested. Prime Minister offers condolences and aid.
-
-🟩
-
-Karnataka - Bangalore
-
-Bengaluru - Hennur, Babusab Palaya area has been working on a new 6 -storey construction work.
-
-பெங்களூருவில் கடந்த ஒரு வாரத்துக்கும் மேலாக தொடர்ந்து அடைமழை பெய்து வருகின்ற நிலையில், செவ்வாய்க்கிழமை (22) பகல் 3 மணியளவில்,  அந்த  கட்டிடம் திடீரென இடிந்து விழுந்தது.
-
-The Northern Territory worker who worked inside the building was trapped in the wreckage.
-
-தகவலறிந்து சம்பவ இடத்துக்கு விரைந்த ஹெண்ணூர் பொலிஸார், மீட்பு படையினர் பொக்லைன் எந்திரம் உதவியுடன் அங்கு மீட்பு பணிகளை தொடங்கினர். In the meantime, 8 workers were killed in the accident.
-
-Following the incident, the building owner, his son and the contractor have been arrested.
-
-Prime Minister Modi has expressed his condolences to the families of the victims of the collapse of the Bangalore building and said that their family would be given a relief of Rs.
-
-◼️
-
-[Data](articles/12b9f478.json)
-
-[Extended Data](ext_articles/12b9f478.ext.json)
 
 ---

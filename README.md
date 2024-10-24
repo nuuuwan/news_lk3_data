@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 18:00:35**
+As of **2024-10-24 18:20:51**
 
 ## Newspaper Stats
 
-*Scraped **51,167** Articles*
+*Scraped **51,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,040
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,765
+adalk | 4,766
 adaderanalk | 6,065
-tamilmirrorlk | 7,052
+tamilmirrorlk | 7,054
 virakesarilk | 8,209
 adaderanasinhalalk | 8,887
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 8,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,167 (100.0%) of 51,167 articles have been extended.
+51,170 (100.0%) of 51,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Gajendrakumar Ponnambalam arrested
+
+*2024-10-24 17:51:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஜேந்திரகுமார்-பொன்னம்பலம்-கைது/175-345998) · `ta`
+
+Gajendrakumar Ponnambalam and Varadarajan Parthiban arrested for violating election rules during campaigns in Jaffna and Point Pedro.
+
+🟩
+
+General election candidates Gajendrakumar Ponnambalam and Varadarajan Parthiban have been arrested by the police.
+
+Many candidates contesting the upcoming parliamentary elections are leading a serious campaign.
+
+Accordingly, the Tamil National People's Munnanasi Party leader Gajendrakumar Ponnambalam was arrested during a campaign in Nelliyadi area in Jaffna.
+
+Similarly, Varadarajan Parthiban, candidate of the Tamil People's Alliance. He was arrested by the Point Pedro police while involved.
+
+The two candidates have been arrested on charges of campaigning in violation of election rules.
+
+◼️
+
+[Data](articles/d7bd6533.json)
+
+[Extended Data](ext_articles/d7bd6533.ext.json)
+
+---
+
+### Security has been strengthened in Colombo
+
+*2024-10-24 17:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-பாதுகாப்பு-பலப்படுத்தப்பட்டுள்ளது/175-345997) · `ta`
+
+Colombo strengthens security due to Israeli tourist threat. Special measures implemented around Sabad houses in Colombo, Augkam Kutta, Ella, Weligama areas. Police enhance security before embassy consultations. Minister Vijitha Herath launches early security measures in tourist areas.
+
+🟩
+
+Following a warning that Israeli tourists may be attacked, special security has been implemented around Sabad houses in many parts of the country, including Colombo.
+
+Accordingly, security has been enhanced near the Sabad houses in Colombo, Augkam Kutta, Ella and Weligama areas where Israel's tourists arrive.
+
+The police said that the area was provided with security before the consultation provided by the embassies.
+
+Minister Vijitha Herath said that special security measures have been launched early this month in the area where tourists are visiting Akkam Guda, Ella, Weligama and Ahungalla.
+
+◼️
+
+[Data](articles/e8698494.json)
+
+[Extended Data](ext_articles/e8698494.ext.json)
+
+---
 
 ### A plane in India to Katunayake
 
@@ -867,6 +917,30 @@ Protesters began gathering outside Shahabuddin’s compound in the capital Dhaka
 [Data](articles/22bfb6a4.json)
 
 [Extended Data](ext_articles/22bfb6a4.ext.json)
+
+---
+
+### Notice to Sri Lankans in Lebanon
+
+*2024-10-24 13:38:52* · [`adalk`](https://www.ada.lk/breaking_news/ලෙබනනයේ-සිටින-ලාංකිකයන්ට-දැනුම්-දිමක්/11-412663) · `si`
+
+Here's a summary of the notice in 200 characters:
+
+
+
+Sri Lankan community in Lebanon expresses concern about differences among members. If any feel unsafe, register with embassy for repatriation.
+
+🟩
+
+Sri Lankan embrace in Lebanon says that the Sri Lankans in Lebanon is very concerned with the Sri Lankans in Lebanon are gradually different.
+
+If Sri Lankans living in Lebanon feels something insecure to protect Sri Lanka, the embassy is also registered with the Sri Lankan Embassy for departure.
+
+◼️
+
+[Data](articles/cf7ec0e7.json)
+
+[Extended Data](ext_articles/cf7ec0e7.ext.json)
 
 ---
 
@@ -2389,81 +2463,5 @@ Condemning the arrest, he said it was unfortunate that the fishermen were being 
 [Data](articles/f3a0820b.json)
 
 [Extended Data](ext_articles/f3a0820b.ext.json)
-
----
-
-### Fairly heavy showers expected in several provinces
-
-*2024-10-24 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102891/fairly-heavy-showers-expected-in-several-provinces) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern, North-western and Northern provinces and in Kandy and Nuwara-Eliya districts.
-
-Fairly heavy showers above 50 mm are likely at some places in Western, Sabaragamuwa, Southern, North-western and Northern provinces.
-
-Showers or thundershowers will occur at several places in the other areas of the island during the evening or night, it added.
-
-Strong winds of about 40-45 kmph can be expected at times over Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/56c91024.json)
-
-[Extended Data](ext_articles/56c91024.ext.json)
-
----
-
-### Suspect arrested in possession of property
-
-*2024-10-24 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202496) · `si`
-
-Arrest made in Kalutara: 35-year-old suspect found with 100,000 lakhs of stolen gold, mobiles, and drugs.
-
-🟩
-
-Police said the suspect had been arrested yesterday (23), police said.
-
-The suspect was a 35 year old resident of the Kalutara South area.
-
-The arrest was carried out at the Mihikhawatta, Kalutara on a raid on information received by the Wadduwa, Kalutara and surrounding police divisions.
-
-He has been able to find nearly 100,000 lakhs of stolen gold in private mortgage centers.
-
-They have also taken into custody with six valuable mobile phones, mobile phone accessories and electronic devices and electronics.
-
-The suspect is excessively drug addicted to a few years in prison for several years.
-
-◼️
-
-[Data](articles/0b0a567f.json)
-
-[Extended Data](ext_articles/0b0a567f.ext.json)
-
----
-
-### 75 mm high rainfall
-
-*2024-10-24 08:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/75-மி-மீ-அதிக-மழைவீழ்ச்சி/175-345963) · `ta`
-
-Heavy rainfall (75mm+) forecasted in Sri Lanka's Northern, Eastern, Southern, and North-Western provinces. Thunderstorms and strong winds possible. Public advised to take precautions.
-
-🟩
-
-மேல், சப்ரகமுவ, தெற்கு, வடமேற்கு மற்றும் வடக்கு மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-மேல், சப்ரகமுவ, தெற்கு மற்றும் வடக்கு மாகாணங்களில் சில இடங்களில் 75 மில்லிமீற்றருக்கும் அதிக மழைவீழ்ச்சி பதிவாகலாம் எனவும் குறித்த திணைக்களம் வௌியிட்டுள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
-
-நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதுடன் சில இடங்களில் 75 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும்.
-
-Strong winds are expected to blow up to 40-45 km / h from time to time in the North, North Central, North Western and Central Provinces and Trincomalee and Hambantota districts.
-
-The Department of Meteorology has urged the public to take the necessary precautions to reduce the risk of temporary heavy winds and lightning with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/690ad84d.json)
-
-[Extended Data](ext_articles/690ad84d.ext.json)
 
 ---

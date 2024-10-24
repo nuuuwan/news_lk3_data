@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 07:26:57**
+As of **2024-10-24 08:02:22**
 
 ## Newspaper Stats
 
-*Scraped **51,040** Articles*
+*Scraped **51,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,489
 dailymirrorlk | 4,733
 adalk | 4,748
 adaderanalk | 6,050
-tamilmirrorlk | 7,025
+tamilmirrorlk | 7,028
 virakesarilk | 8,179
 adaderanasinhalalk | 8,861
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 8,861
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,033 (100.0%) of 51,040 articles have been extended.
+51,036 (100.0%) of 51,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Chinese chief meets President Secretary
+
+*2024-10-24 07:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனப்-பிரதானி-ஜனாதிபதி-செயலாளருடன்-சந்திப்பு/175-345958) · `ta`
+
+Chinese envoy meets Sri Lankan president's aide to boost bilateral ties in various sectors, recalling long-standing friendship and exploring new ways to strengthen social, cultural, and economic connections between the two nations.
+
+🟩
+
+Sue Yanwei, Deputy Chief of the Chinese embassy, ​​met with President's Secretary Dr. Nandika Sanath Kumanayake at the Presidential Secretariat yesterday.
+
+The meeting was extensively investigated to further expand China-Sri Lankan bilateral relations in various sectors.
+
+In addition, the long -term friendship and mutual respect between China and Sri Lanka were recalled and the new methods of further strengthening social, cultural and economic ties between the two countries were also investigated.. (A)
+
+◼️
+
+[Data](articles/f7cda2aa.json)
+
+[Extended Data](ext_articles/f7cda2aa.ext.json)
+
+---
+
+### Heavy rains in some parts of the country
+
+*2024-10-24 07:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-பலத்த-மழை/175-345957) · `ta`
+
+Heavy rains forecasted in Western, Sabaragamuwa, South, North Western, Northern Provinces and Kandy, Nuwara Eliya districts. Rainfall expected up to 50mm in upper, Sabaragamuwa, Southern and Northern Provinces.
+
+🟩
+
+The Department of Meteorology has forecast rainfall in many parts of the country today.
+
+Rainfall or thunderstorms may be reported in the Western, Sabaragamuwa, South, North Western and Northern Provinces and Kandy and Nuwara Eliya districts.
+
+It has been reported that rainfall is likely to be recorded up to 50 mm in the upper, Sabaragamuwa, Southern and Northern Provinces.. (A)
+
+◼️
+
+[Data](articles/ccb2eade.json)
+
+[Extended Data](ext_articles/ccb2eade.ext.json)
+
+---
 
 ### Thunder showers in several areas
 
@@ -167,6 +211,8 @@ This week’s 16th Conference of the Parties (CoP) to the Convention on Biologic
 ...
 
 [Data](articles/7edccd82.json)
+
+[Extended Data](ext_articles/7edccd82.ext.json)
 
 ---
 
@@ -351,6 +397,24 @@ During the hearing, Udayarasa, along with two other petitioners, argued that all
 [Data](articles/b9fef54a.json)
 
 [Extended Data](ext_articles/b9fef54a.ext.json)
+
+---
+
+### டானா புயல்: கொல்கத்தா விமான நிலையத்திற்கு பூட்டு
+
+*2024-10-24 02:38:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டானா-புயல்-கொல்கத்தா-விமான-நிலையத்திற்கு-பூட்டு/175-345954) · `ta`
+
+வடக்கு அந்தமான் கடற்பகுதியில் நிலவிய வளிமண்டல கீழடுக்கு சுழற்சி காரணமாக, மத்திய கிழக்கு வங்காள விரிகுடா மற்றும் அதனை அண்மித்த வடக்கு அந்தமான் கடற்பகுதிகளில் காற்றழுத்த தாழ்வு பகுதி உருவானது.
+
+இந்த காற்றழுத்த தாழ்வுப் பகுதி மேற்கு - வடமேற்கு திசையில் நகர்ந்து, மத்திய கிழக்கு வங்காள விரிகுடா பகுதிகளில், காற்றழுத்த தாழ்வு மண்டலமாக வலுப்பெற்றுள்ளது.
+
+டானா புயல் இன்று அதிகாலையில் வடமேற்கு வங்காள விரிகுடாவில் தீவிர புயலாக வலுப்பெறும் என இந்திய வானிலை ஆய்வு மையம் அறிவித்துள்ளது.
+
+இதனால் முன்னெச்சரிக்கையாகக் கொல்கத்தா விமான நிலையம், இன்று இரவு 8 மணி முதல் 15 மணி நேரத்திற்கு மூடப்படுவதாக அறிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/fbaa4ae5.json)
 
 ---
 
@@ -2317,79 +2381,5 @@ Police said they were identified as the fingerprint of the two arrested on suspi
 [Data](articles/66e30b6f.json)
 
 [Extended Data](ext_articles/66e30b6f.ext.json)
-
----
-
-### Two persons arrested in Batticaloa
-
-*2024-10-23 15:22:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பில்-அதிரடியாக-இருவர்-கைது/175-345928) · `ta`
-
-Two men from Kurunegala arrested in Batticaloa for suspicious behavior near Zion Church. Police detained them after receiving a tip-off. Their fingerprints are being analyzed.
-
-🟩
-
-Two men from Kurunegala area have been arrested on Wednesday (23).
-
-A man from Kurunegala has been involved in the newly constructed Zion Church at the Menraza Road, Batticaloa to cure an eye on the eye.
-
-Subsequently, the two men were traveling in the area on Wednesday morning (10) morning to help him to go to the Zion Church on Wednesday morning (10) morning.
-
-The police, who observed that they were walking suspiciously, informed the police emergency number and immediately arrested the two men aged 35 and 25 years old.
-
-Police said that the fingerprint of the two arrested on suspicion is being identified.
-
-◼️
-
-[Data](articles/b10de64c.json)
-
-[Extended Data](ext_articles/b10de64c.ext.json)
-
----
-
-### Sri Lanka president continues campaigning as foreign missions issue travel warnings
-
-*2024-10-23 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-continues-campaigning-as-foreign-missions-issue-travel-warnings-184566/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake continued campaigning for his National People’s Power party in the upcoming general election, amidst the US, UK, Australian and Russian diplomatic missions issuing travel warnings to citizens visiting Arugam Bay.
-
-“A heartfelt gratitude to the thousands who attended the inaugural victorious public rally series (‘Building the Nation Together—We are for Malimawa!’) held this morning (23) in Trincomalee. Your unwavering support is truly appreciated,” Dissanayake said on X (twitter).
-
-A heartfelt gratitude to the thousands who attended the inaugural victorious public rally series ('Building the Nation Together—We are for Malimawa!') held this morning (23) in Trincomalee. Your unwavering support is truly appreciated. pic.twitter.com/67Lp1mDtRU
-
-Earlier Wednesday the United States embassy asked nationals to avoid Arugam Bay in Sri Lanka’s Eastern Coast, a popular tourist destination, saying there is credible information of an attack.
-
-...
-
-[Data](articles/11ee07a6.json)
-
-[Extended Data](ext_articles/11ee07a6.ext.json)
-
----
-
-### Rejection
-
-*2024-10-23 15:17:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூபர்-அஷேனின்-மனு-நிராகரிப்பு/175-345927) · `ta`
-
-Supreme Court rejects YouTuber Ashan Senaratne's appeal against National Election Commission's rejection of nomination. Commission claims unauthorized submission. Senaratne expresses frustration, submits documents outside. Election Commission states nominations must be submitted by specific individuals.
-
-🟩
-
-The Supreme Court today rejected a petition filed by YouTubeyuber Ashan Senaratne against the decision of the National Election Commission, which rejected its nomination for the upcoming general election.
-
-The National Election Commission had earlier rejected the list of nominations of the Independent Committee of the famous Yudubar Ashan Senaratne in Colombo district.
-
-The Commission disqualified the Independent Committee, claiming that the nominations were submitted by an unauthorized person.
-
-In a video posted on social media at the time, Senaratne expressed his frustration over the incident and said that he was asked to wait outside, which led to submitting documents.
-
-Commenting on the issue, the Election Commission stated that nominations should be submitted by certain persons and that the failure to follow this rule would be disqualified.
-
-Following this, Ashan Senaratna filed a case in the High Court last week against the decision of the Election Commission.
-
-◼️
-
-[Data](articles/e5a395ec.json)
-
-[Extended Data](ext_articles/e5a395ec.ext.json)
 
 ---

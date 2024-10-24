@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 19:23:50**
+As of **2024-10-24 19:39:59**
 
 ## Newspaper Stats
 
-*Scraped **51,198** Articles*
+*Scraped **51,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ islandlk | 3,040
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,769
+adalk | 4,770
 adaderanalk | 6,067
 tamilmirrorlk | 7,057
-virakesarilk | 8,224
+virakesarilk | 8,227
 adaderanasinhalalk | 8,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,194 (100.0%) of 51,198 articles have been extended.
+51,200 (100.0%) of 51,202 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -104,6 +104,32 @@ The President made these remarks while addressing a public meeting held in Putta
 
 ---
 
+### Flight in Colombo in advance following the bomb threat
+
+*2024-10-24 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/197035) · `ta`
+
+Colombo airport emergency: Plane lands early due to bomb threat; 107 passengers safely evacuated; operations resume normally.
+
+🟩
+
+The airport and airlines private company said that the aircraft landed in advance and all passengers were safely evacuated after reports that there was a bomb on a passenger plane from Mumbai to Colombo.
+
+The Bandaranaike International Airport Administration has declared an emergency after the plane landed before the plane landed on the Vistara UK 131 aircraft, which was due to departure from India's Mumbai airport on Thursday (24).
+
+Subsequently, 107 passengers, one child and 8 flight attendants landed at the Bandaranaike International Airport at 2.55 am and all passengers were safely evacuated.
+
+The principles and guidelines that must be followed in such cases were followed by all the structures that are related to security related to the airport and airlines (Sri Lanka).
+
+Against this backdrop, the airlines at the Bandaranaike International Airport in Colombo have returned to normalcy without any hindrance.
+
+◼️
+
+[Data](articles/fe7bfc96.json)
+
+[Extended Data](ext_articles/fe7bfc96.ext.json)
+
+---
+
 ### Protection of all citizens
 
 *2024-10-24 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202521) · `si`
@@ -123,6 +149,30 @@ The President was addressing a meeting held in Puttalam today (24).
 [Data](articles/e09c50d0.json)
 
 [Extended Data](ext_articles/e09c50d0.ext.json)
+
+---
+
+### Gajendrakumar's bail
+
+*2024-10-24 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/197034) · `ta`
+
+Gajendrakumar Ponnambalam, former MP, released on bail after arrest for election rule violation during campaign in Jaffna. Another candidate, Varadarajan Parthiban, also arrested in separate incident.
+
+🟩
+
+Former parliamentarian Gajendrakumar Ponnambalam, who was arrested in Jaffna, has been released on bail.
+
+While engaged in an election campaign in Nelliyadi area, the All Ceylon Tamil Congress party candidate Gajendrakumar Ponnambalam was arrested by the police on Thursday evening on charges of violating election rules.
+
+The police have released the police on bail after registering voting sources after he was investigated by detaining the arrested Gajendrakumar Ponnambalam.
+
+Meanwhile, Varadarajan Parthiban, the candidate of the Tamil People's Alliance, who was involved in the election campaign in the Point Pedro area, was arrested by the Point Pedro Police.
+
+◼️
+
+[Data](articles/7cabc8cc.json)
+
+[Extended Data](ext_articles/7cabc8cc.ext.json)
 
 ---
 
@@ -173,6 +223,52 @@ It is said that the discovery and rescue performed in the region will be allowed
 [Data](articles/53338d73.json)
 
 [Extended Data](ext_articles/53338d73.ext.json)
+
+---
+
+### General Election Voting: Voter's left -handed finger will be identified - Elections Commission
+
+*2024-10-24 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197033) · `ta`
+
+Elections Commission identifies voters' left-handed fingers for general election. Right-hand fingers marked if no left-handed available. Official voter cards distributed via post. Postal votes on Nov 30, Dec 1 & 4. Late voting possible on Dec 7-8.
+
+🟩
+
+During the general election, the voter's left -handed finger has been decided to be appropriately identified. The Elections Commission has announced that if the voter does not have a left -handed finger, he will be appropriately identified on another finger on his right hand.
+
+During the voting of the presidential election, the voter's left -handed finger was appropriate. The Galle District, which is scheduled to take place tomorrow, is scheduled to have a proper identification of the voter's left -hander election in the Elpitiya Pradeshiya Sabha election.
+
+Against this backdrop, in accordance with Article 38 (3) of the Parliamentary Elections Act, No. 1 of 1981, to address the problems that arise in identifying voting during the voting during the voting.
+
+...
+
+[Data](articles/6f119880.json)
+
+[Extended Data](ext_articles/6f119880.ext.json)
+
+---
+
+### Petition against general election will be considered on November 4
+
+*2024-10-24 18:19:22* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයට-එරෙහි-පෙත්සම-නොවැම්බර්-04දා-සලකා-බලයි/11-412670) · `si`
+
+Supreme Court considers election date change from Nov 14 to Nov 4. Petitioner seeks constitutional correction. Respondents include Attorney General, Presidential Secretary, and Election Commissioner. Protesters must file objections by Nov 28.
+
+🟩
+
+The Supreme Court today (24), the Supreme Court today decided to consider the decision that the election was held on November 14.
+
+The Attorney General and the Presidential Secretary and the Attorney General of the Elections Commission have been named as the respondents in the petitioner of the Sri Lanka National Organization.
+
+Nominations have been set to the Memorandum of Parliament to the election of the election Act, on October 4 and the nomination bill should be specified for a period of five weeks and not more than five weeks and not more than five weeks and not more than five weeks.The petitioner states that the five-week period is completed on November 11 to November 15 and seven weeks will be completed on November 29.
+
+However, the petitioner who pointed out that the legal election is not contrary to the law on November 14, but it is stated that the Chairman of the Election will not be contrary to the law.
+
+...
+
+[Data](articles/e5c18bac.json)
+
+[Extended Data](ext_articles/e5c18bac.ext.json)
 
 ---
 
@@ -684,19 +780,25 @@ Tushani is playing the Sri Lankan team as the captain of the team and Baskaran S
 
 ---
 
-### பாளி மொழிக்கு செம்மொழி அந்தஸ்து வழங்கும் இந்தியாவின் தீர்மானத்துக்கு மோடி மகிழ்ச்சி
+### Modi's joy to India's resolution
 
 *2024-10-24 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197016) · `ta`
 
-இந்திய அரசாங்கத்தால் பாளி மொழிக்கு செம்மொழி அந்தஸ்து வழங்கப்பட்டமையைக் குறிக்கும் முகமாக கொழும்பில் உள்ள இந்திய உயர் ஸ்தானிகராலயத்தால் ஒழுங்கமைக்கப்பட்டிருந்த நிகழ்வில் இணைந்திருந்த கொழும்பிலுள்ள அறிஞர்கள் மற்றும் துறவிகளுக்கு இந்திய பிரதமர் நரேந்திர மோடி தனது நன்றியினையும் பாராட்டுகளையும் தெரிவித்துள்ளார்.
+Narendra Modi congratulates scholars and monks in Colombo for promoting Pali language recognition. Event highlights India's commitment to Buddhism and cultural preservation.
 
-“இந்திய அரசாங்கம் பாலி மொழிக்கு செம்மொழி அந்தஸ்து வழங்கியமை புத்த பெருமானின் சிந்தனைகளை பின்பற்றுபவர்கள் மத்தியில் மகிழ்ச்சியின் உத்வேகத்தை தூண்டியுள்ளமையையிட்டு பெருமகிழ்வடைகின்றேன். கொழும்பில் நடைபெற்ற இந்நிகழ்வில் பங்கேற்ற பல்வேறு நாடுகளின் அறிஞர்கள் மற்றும் துறவிகளுக்கு நன்றி” என பிரதமர் மோடி அவர்கள் தனது “ எக்ஸ்” தளத்தில் இன்று பதிவிட்டுள்ளார்.
+🟩
 
-இந்திய உயர் ஸ்தானிகராலயத்தின் சுவாமி விவேகானந்தா கலாசார நிலையம் 2024 ஒக்டோபர் 23 ஆம் திகதி கொழும்பிலுள்ள சுவாமி விவேகானந்தா கலாசார நிலையத்தில் ‘செம்மொழியாக பாளி” என்ற தலைப்பிலான குழுநிலைக் கலந்துரையாடல் ஒன்றை ஒழுங்கமைத்திருந்தது.
+Indian Prime Minister Narendra Modi expressed his gratitude and congratulations to the scholars and monks in Colombo who had joined the event by the Indian High Commission in Colombo to mark the status of the Pali language by the Government of India.
+
+“I am proud to have prompted the inspiration of happiness among the followers of the Buddha's ideas of the Indian government to give the Pali language the status of the Pali language.. Thanks to the scholars and monks of various countries who participated in the event in Colombo, ”Prime Minister Modi posted on his" X "site today.
+
+On October 23, 2024, the Swami Vivekananda Cultural Center of the Indian High Commission organized a group discussion titled 'Classical as Pali' at the Swami Vivekananda Cultural Center in Colombo.
 
 ...
 
 [Data](articles/62d26f7a.json)
+
+[Extended Data](ext_articles/62d26f7a.ext.json)
 
 ---
 
@@ -734,21 +836,29 @@ In the last 11 days, nearly 250 Indian airline aircraft have been threatened wit
 
 ---
 
-### மன்னாரில் கடும் மழை : வெள்ளத்தில் மூழ்கிய கிராமங்கள்
+### Heavy rains in Mannar: Villages in floods
 
 *2024-10-24 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197010) · `ta`
 
-மன்னார் மாவட்டத்தில் நேற்று புதன்கிழமை (23) இரவு முதல் இன்று வியாழன் (24) காலை வரை பெய்த தொடர் மழை காரணமாக மாவட்டத்தின் பல பகுதிகள் வெள்ளத்தில் மூழ்கியுள்ளன.
+Heavy rains flood villages in Mannar district. Thirty families displaced, homes affected. Emergency response underway.
 
-குறிப்பாக மன்னார் பிரதேச செயலாளர் பிரிவில் உள்ள சாந்திபுரம், சௌதார், எழுத்தூர், மூர்வீதி உள்ளடங்கலாக பல கிராமங்களில் வெள்ளம் ஏற்பட்டுள்ளது.
+🟩
 
-எழுத்தூர் பகுதியில் உள்ள 30 குடும்பங்களின் வீடுகளுக்குள் வெள்ள நீர் புகுந்ததன் காரணமாக முப்பது குடும்பங்களும் தற்போது எழுத்தூர் பாடசாலைக்கு மாற்றப்பட்டுள்ளதுடன்  மாவட்டத்தின் பல பாகங்களிலும் தேங்கியுள்ள வெள்ள நீரை வெளியேற்ற மக்கள் கிராம   நடவடிக்கைகளை முன்னெடுத்து வருகின்றனர். மேலும் பல வீடுகளில் வெள்ள நீர் புகுந்துள்ளது.
+Many parts of the district have been flooded due to heavy rains from Wednesday night to Thursday (24) morning in Mannar district.
 
-மன்னார் பிரதேசச் செயலாளர் எம்.பிரதீப் தலைமையிலான குழுவினர் குறித்த பகுதிக்குச் சென்று துரித நடவடிக்கைகளை முன்னெடுத்து வருகின்றனர்.
+Floods have been flooded, especially in the Mannar Divisional Secretariat Division, including Shantipuram, Saudar, Velur and Murvedi.
 
-...
+Thirty families have now been transferred to the school due to flooding in the houses of 30 families in the area.. Flood water has been flooded in many more houses.
+
+A delegation led by Mannar Divisional Secretary M.Pradeep is going to the area and is carrying out swift action.
+
+In addition, the Mannar District Disaster Management Division has asked the people to bring the District Secretariat Disaster Management Division to the attention of the Divisional Secretariat or Grama Niladhari in the Mannar District.
+
+◼️
 
 [Data](articles/d17b4120.json)
+
+[Extended Data](ext_articles/d17b4120.ext.json)
 
 ---
 
@@ -2385,93 +2495,5 @@ Customs officials are conducting further investigations into the seized copper r
 [Data](articles/55831db2.json)
 
 [Extended Data](ext_articles/55831db2.ext.json)
-
----
-
-### Sri Lanka Police introduce emergency telephone number for Israeli nationals
-
-*2024-10-24 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102899/sri-lanka-police-introduce-emergency-telephone-number-for-israeli-nationals-) · `en`
-
-Israeli nationals visiting Sri Lanka, whether for tourism or other purposes, can now directly request assistance to ensure personal protection, according to Sri Lankan Police.
-
-Visitors in need of assistance can contact the Deputy Inspector General of Police (DIG) in charge of the Tourist Range and Maritime Division, Mr. Damayantha Vijaya Sri, by calling +94718592651, the Police Media Division announced.
-
-If an Israelite, who has visited Sri Lanka as a tourist or for other purpose, feels the need to ensure his/her personal security, he/she may directly contact the above telephone number and get the necessary assistance, the statement said.
-
-Mr. Vijaya Sri will take necessary measures having taken the requirement into consideration, it said.
-
-Since it is necessary to verify the identity in such matters, the Israelites are kindly requested to provide the necessary information.
-
-◼️
-
-[Data](articles/5fef665f.json)
-
-[Extended Data](ext_articles/5fef665f.ext.json)
-
----
-
-### Arrests of bribed police
-
-*2024-10-24 11:37:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-பெற்ற-பொலிஸ்-கைது/175-345976) · `ta`
-
-Chief Inspector arrested for bribery: Rs 20,000 bribe sought, arrested at restaurant.
-
-🟩
-
-A Chief Inspector of the Gampola Headquarters Police Station has been arrested by the Commission on Bribery Corruption on charges of bribing Rs 20,000.
-
-According to the complaint of someone living in the carpet, the inspector is said to have sought a bribe of Rs.
-
-Accordingly, the police inspector was arrested by the authorities at a restaurant on the carpet on charges of bribery.
-
-◼️
-
-[Data](articles/2d1c33de.json)
-
-[Extended Data](ext_articles/2d1c33de.ext.json)
-
----
-
-### SriLankan Airlines’ safety rating restored after addressing cockpit incident
-
-*2024-10-24 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102898/srilankan-airlines-safety-rating-restored-after-addressing-cockpit-incident) · `en`
-
-In a swift move, Airlineratings.com last week downgraded SriLankan Airlines’ safety rating from 7 to 6 stars following a disturbing incident aboard flight UL 607. On September 21, 2024, the captain of the flight locked his co-pilot out of the cockpit. The incident was deemed serious enough to warrant an immediate reassessment of the airline’s safety credentials.
-
-However, after a thorough review and prompt response from the airline, the rating has been restored to 7 out of 7 stars, acknowledging SriLankan Airlines’ commitment to addressing the incident with transparency and urgency.
-
-On September 21, a flight from Colombo to Melbourne took an alarming turn when the captain of flight UL 607 locked the co-pilot out of the cockpit. This violation of standard operating procedures raised immediate safety concerns for the airline and SriLankan Airlines wasted no time in taking corrective action and has shared this exclusively with AIrlineRatings.com
-
-...
-
-[Data](articles/9c2402c5.json)
-
-[Extended Data](ext_articles/9c2402c5.ext.json)
-
----
-
-### Tarzan was present at the liferoom
-
-*2024-10-24 11:21:23* · [`adalk`](https://www.ada.lk/breaking_news/ටාසන්-දිවි-රඟමඩලට-සමුදෙයි/11-412654) · `si`
-
-Here's a 200-character summary:
-
-
-
-Tarzan actor Ron Eli died in 2001 after being attacked by animals while filming. He later published two enigmatic novels as an editor.
-
-🟩
-
-Ron Eli, acted in the role of world famous Tarzan, has been killed.
-
-ටාසන් චරිතය රඟදැක්වීමේදී අස්ථි බිඳීමට ලක්වීම මෙන්ම සතුන්ගේ ප්‍රහාර වලට මුහුණ දීමට ද ඔහුට සිදුව තිබේ.
-
-In 2001, Ron Eli has passed away from the river, and he has later launched two mysterious novels as an editor.
-
-◼️
-
-[Data](articles/65298606.json)
-
-[Extended Data](ext_articles/65298606.ext.json)
 
 ---

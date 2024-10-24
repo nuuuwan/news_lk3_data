@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 23:24:00**
+As of **2024-10-24 23:39:55**
 
 ## Newspaper Stats
 
-*Scraped **51,218** Articles*
+*Scraped **51,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,774
 adaderanalk | 6,069
-tamilmirrorlk | 7,059
+tamilmirrorlk | 7,060
 virakesarilk | 8,231
 adaderanasinhalalk | 8,895
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,218 (100.0%) of 51,218 articles have been extended.
+51,219 (100.0%) of 51,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### The Prime Minister met security chiefs
+
+*2024-10-24 22:54:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-பிரதானிகளை-சந்தித்தார்-பிரதமர்/175-346017) · `ta`
+
+Prime Minister meets security officials: Chief of Safety Committees, Army Commander, Navy Commander discuss matters.
+
+🟩
+
+A meeting was held today between the Chief of Safety Committees, the Army Commander, the Navy Commander and the Prime Minister.
+
+Accordingly, Savendra Silva, Chief of Security Committees, Army Commander Lieutenant General Vikum Liyanage and Navy Commander Vice Edmilal Priyantha Perera met the Prime Minister.. (A)
+
+◼️
+
+[Data](articles/6724b58c.json)
+
+[Extended Data](ext_articles/6724b58c.ext.json)
+
+---
 
 ### Young man dies
 
@@ -2499,29 +2519,5 @@ The suspect had been remanded after being produced before the Mahiyanganaya Magi
 [Data](articles/16f3b324.json)
 
 [Extended Data](ext_articles/16f3b324.ext.json)
-
----
-
-### Largeted heed to Nugegoda in Nugegoda
-
-*2024-10-24 12:39:54* · [`adalk`](https://www.ada.lk/breaking_news/නුගේගොඩටම-කුඩු-බෙදු-කැකුළි-අල්ලයි/11-412659) · `si`
-
-Nugegoda corruption unit arrests suspect aged 26 in Madiwela. Heroin found in Delkanda area. Investigation ongoing.
-
-🟩
-
-The Nugegoda Divisional Corruption Unit has been arrested by the Nugegoda Divisional Secretariat with a large scale of Rs.
-
-The suspect is the unmarried person who is the age of 26, in Madiwela, Rahulapura.
-
-According to a coordinator of a woman with heroin with heroin from Mount Lavinia, the heroin was taken into custody when the heroin had been submerged in the Delkanda area.
-
-According to the investigation, the suspect had been distributed from his home from his home from her home, police said.
-
-◼️
-
-[Data](articles/b25609b6.json)
-
-[Extended Data](ext_articles/b25609b6.ext.json)
 
 ---

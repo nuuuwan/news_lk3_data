@@ -1,36 +1,64 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 08:44:08**
+As of **2024-10-24 08:59:14**
 
 ## Newspaper Stats
 
-*Scraped **51,060** Articles*
+*Scraped **51,063** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 410
+dbsjeyarajcom | 411
 colombotelegraphcom | 510
 bbccomsinhala | 518
 islandlk | 3,038
 economynextcom | 3,121
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,749
+adalk | 4,750
 adaderanalk | 6,051
 tamilmirrorlk | 7,033
 virakesarilk | 8,179
-adaderanasinhalalk | 8,865
+adaderanasinhalalk | 8,866
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,050 (100.0%) of 51,060 articles have been extended.
+51,052 (100.0%) of 51,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Suspect arrested in possession of property
+
+*2024-10-24 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202496) · `si`
+
+Arrest made in Kalutara: 35-year-old suspect found with 100,000 lakhs of stolen gold, mobiles, and drugs.
+
+🟩
+
+Police said the suspect had been arrested yesterday (23), police said.
+
+The suspect was a 35 year old resident of the Kalutara South area.
+
+The arrest was carried out at the Mihikhawatta, Kalutara on a raid on information received by the Wadduwa, Kalutara and surrounding police divisions.
+
+He has been able to find nearly 100,000 lakhs of stolen gold in private mortgage centers.
+
+They have also taken into custody with six valuable mobile phones, mobile phone accessories and electronic devices and electronics.
+
+The suspect is excessively drug addicted to a few years in prison for several years.
+
+◼️
+
+[Data](articles/0b0a567f.json)
+
+[Extended Data](ext_articles/0b0a567f.ext.json)
+
+---
 
 ### More than 75 millimeters can be recorded
 
@@ -698,27 +726,37 @@ Fire at Mahawewa shop causes traffic disruption on Halawatta-Kollupitiya main ro
 
 ---
 
-### නිමක් නැති පාස්පෝට් පෝලිම අවසන් වන්නේ කවදා ද?
+### When will endless passport queue end?
 
 *2024-10-24 02:16:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjw03d64e79o) · `si`
 
-ආගමන විගමන දෙපාර්තමේන්තුව විසින් නිකුත් කරනු ලබන විදෙස් ගමන් බලපත්‍ර ලබා ගැනීම සඳහා අධික තදබදයක් පවතින්නේ දැනට වසර කිහිපයක සිට ය.
+Here's a summary of the text in approximately 200 characters:
 
-ආර්ථික අර්බුදයත් සමග බොහෝ දෙනෙකු රටින් පිටව යාමේ බලාපොරොත්තුවෙන් විදෙස් ගමන් බලපත්‍රයක් ලබා ගැනීමට පැමිණීම එයට හේතු විය.
 
-ඒ සමඟ මාර්ගත ක්‍රමවේදය ඔස්සේ වේලාවක් වෙන් කරගැනීමේ ක්‍රමවේදයක් හඳුන්වා දුන් අතර, ඒ අනුව එක් දින සේවාව සඳහා පැමිණෙන අය කලින් දින වෙන් කරවාගෙන පැමිණීමට සිදු විය.
 
-කෙසේනමුත් ඊ-පාස්පෝට් නියමිත දිනට ටෙන්ඩර් ලබාගත් සමාගමට ලබා දීමට නොහැකි වූ නිසා එම සමාගමට ම නැවත කලින් පැවති විදෙස් ගමන් බලපත්‍රයම ලබා දීමට පෙර රජය විසින් අනුමැතිය ලබා දී තිබිණි.
+Endless passport queues persist despite promises. Economic crisis fuels demand. New system struggles to cope. Minister vows improvements but delays continue. Applicants frustrated with lengthy waits and lack of clear guidance. Online system proposed but faces challenges.
 
-පෙර රජයේ එම තීරණය අභියෝගයට ලක් කරමින් මීට පෙර විදෙස් ගමන් බලපත්‍ර මුද්‍රණය කළ සමාගම අධිකරණය වෙත ගොස් තහනම් නියෝගයක් ලබාගෙන තිබිණි.
+🟩
 
-පසුව අධිකරණයේදී ඇති කර ගත් එකඟතාවක් මත පැරණි සමාගම විසින් නැවත විදෙස් ගමන් බලපත්‍ර මුද්‍රණයට එකඟ වී තිබේ.
+It is centuries since a few years now, there is a heavy traffic to obtain foreign passports issued by the Department of Immigration and Emigration.
 
-ඒ වන විට  මුද්‍රණය කරන ලද විදෙස් ගමන් බලපත්‍ර තොගය සීමිත වූ නිසා දිනකට නිකුත් කළ විදෙස් ගමන් බලපත්‍ර ප්‍රමාණය ද සීමා වීම තදබදයකට හේතු විය.
+With the economic crisis, many led to a foreign passport to leave the country.
+
+With that, a methodology was introduced to set up an instance of March methodology and the one-day service had to reserve the previous day.
+
+However, E-Passport could not be given to the company that tenders were obtained on the deadline and approved the company before the return of the previous passport.
+
+Previously, the foreign passport printing was issued to the court, who was challenging the decision of the government before.
+
+The old company has agreed to print overseas printing on an agreement in court.
+
+The foreign passports printed by the already limited foreign passports were also limited to a per day.
 
 ...
 
 [Data](articles/8637193e.json)
+
+[Extended Data](ext_articles/8637193e.ext.json)
 
 ---
 
@@ -1132,6 +1170,18 @@ The victim was 36 year old Chinthaka Weathganaranga Herath, a resident of Kumbuk
 
 ---
 
+### 
+
+*2024-10-23 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84953) · `en`
+
+Is the “House of Rajapaksa” Falling Down? was the heading of an article written by me for our sister paper the “Daily Mirror” two and a half  years ago. The article was   published on 23 April 2022 when the “Aragalaya”(struggle) protests were going on. The article focused on the  Rajapaksa family and its struggle to  stay afloat  in power despite the rising tide of public resentment and anger.The  following two paragraphs are excerpted from that article.-
+
+...
+
+[Data](articles/b22e338c.json)
+
+---
+
 ### Attack at Turkey aviation site leaves some dead, injured
 
 *2024-10-23 20:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102888/attack-at-turkey-aviation-site-leaves-some-dead-injured) · `en`
@@ -1461,6 +1511,24 @@ President Anura Kumara Dissanayake says that it is not a vote on November 14 and
 [Data](articles/4f441c67.json)
 
 [Extended Data](ext_articles/4f441c67.ext.json)
+
+---
+
+### වසරකට නියමිත පාසල් අධ්‍යයන දින ගණනින් දින 29  ක් 2025 දී  සිසුන්ට අහිමිවේ
+
+*2024-10-23 19:14:51* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-නියමිත-පාසල්-අධ්‍යයන-දින-ගණනින්-දින-29--ක්-2025-දී--සිසුන්ට-අහිමිවේ/11-412645) · `si`
+
+පාසල් පැවැත්වීමේ වාර සටහන සම්බන්ධයෙන් බලපැවත්වෙන අධ්‍යාපන අමාත්‍යාංශ චක්‍රලේඛයට අනුව සියලුම පාසල් එක් අධ්‍යයන වර්ෂයක් සඳහා දින 210  ක් පැවැත්විය යුතු බවට අවධාරණය කළත් ලබන 2025 වසරේදි  පාසල් පැවැත්වීමට සිදුව ඇත්තේ දින 181 ක් පමණි.
+
+ඒ අනුව එම වර්ෂයේදී රජයේ පාසල්,රජය අනුමත පෞද්ගලික පාසල් හා පිරිවෙන්  සිසුන්ට අධ්‍යයන දින 29 ක් අහිමි වෙයි.
+
+අධ්‍යාපන අමාත්‍යාංශය මගින්  2025 පාසල් වාර සටහන සම්බන්ධයෙන් ඊයේ (22) නිකුත් කළ චක්‍රලේඛය අනුව වාර තුනක් යටතේ අදියර හයකින් යුත්  2025 පාසල් වර්ෂය  ජනවාරි 27 දින ආරම්භවී දෙසැම්බර් 19 දිනෙන් අවසන්වීමට නියමිතය .
+
+එම වර්ෂයේ රජයේ  නිවාඩු දිනයන් හා 2025 පාසල් වර්ෂය ජනවාරි 27 ආරම්භ කිරීම හේතුවෙන් මෙලෙස 210 ක් වූ පැවැත්වීමට  නියමිත දින ගණනින් දින  181 ක් පමණක්  පැවැත්වීමට සිදුව ඇති බව අධ්‍යාපන අමාත්‍යාංශය එම චක්‍රලේඛයේ සඳහන් කරයි.
+
+◼️
+
+[Data](articles/15ac3689.json)
 
 ---
 
@@ -2315,85 +2383,5 @@ Technology experts promise to revolutionize how this technology is sent between 
 [Data](articles/6e24a1cf.json)
 
 [Extended Data](ext_articles/6e24a1cf.ext.json)
-
----
-
-### Sri Lanka to benefit
-
-*2024-10-23 16:21:12* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට---පන්දුවාර-සංඛ්‍යාව-අඩු-වෙයි/9-412636) · `si`
-
-Sri Lanka wins toss, bowls first in 2nd ODI vs West Indies. Rain reduces match to 44 overs per side.
-
-🟩
-
-Sri Lanka won the toss and win the toss of the Second ODI match against the tourist West Indies.
-
-Sri Lanka captain Charith decided to bowl first.
-
-The rain was interrupted by rain before the match and accordingly, one innings have been decided to limit one evening to 44 overs.
-
-◼️
-
-[Data](articles/c191d60c.json)
-
-[Extended Data](ext_articles/c191d60c.ext.json)
-
----
-
-### Test action
-
-*2024-10-23 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/196923) · `ta`
-
-Security measures implemented in Pottuvil due to increased Israeli tourism. Police, military, and intelligence services deployed. US embassy issues travel advisory. Road restrictions and vehicle checks in place. STF soldiers stationed in Sinakok area to protect tourists from potential threats.
-
-🟩
-
-Police, Special Task Force, Navy, Army, Army and State Intelligence Services have taken special security measures in Pottuvil, nearby, police spokesman Deputy Inspector General of Police Nihal Dalduwa said.
-
-The US embassy in Colombo has issued a travel advice to its citizens who visit the Bay of Israeli and the increase in Israeli tourists.
-
-Deputy Inspector General of Police Nihal Talduwa, who spoke to the media today,
-
-Israeli tourists have been identified as the best holiday place in Sri Lanka and Pottuvil for surfing entertainment activities.
-
-Thus, Israeli tourists have visited the bay of moon, resulting in a building in the area.. In recent years, we have been informed about the possibilities of threatening them, as the area is currently on the rise of Israeli tourists.
-
-As a preliminary operation, the police have already set up road restrictions and the usual tests of vehicles and public.
-
-...
-
-[Data](articles/5892d4ca.json)
-
-[Extended Data](ext_articles/5892d4ca.ext.json)
-
----
-
-### The grain is the path after knowing that the friend who came to be the flower
-
-*2024-10-23 16:16:46* · [`adalk`](https://www.ada.lk/breaking_news/කරතබා-පැමිණි-මිතුරා-මල-බව-දැන-ගැනීමෙන්-පසු-මහ-මග-තබා-ගොසින්/11-412635) · `si`
-
-Here's a 200-character summary:
-
-
-
-A 39-year-old Trinity College alumnus died in Kandy's Primary Park area. Police suspect heroin overdose. He had chest pain near home before collapsing. A local man was arrested fleeing the scene.
-
-🟩
-
-The death of a 39-year-old man who had died in the lower part of the Primary Park area in Kandy is not a suspicion death.
-
-The deceased was a residents of Primros Park area in Kandy. He is a past pupil of Trinity College, Kandy.
-
-Police say that he was a person who was heroin addicted to drugs.
-
-After saying that he had a chest pain with another man near his home, he had fled the road after he had died while he was going to work.
-
-Police have arrested the fleeing man and he was a resident near the house of the deceased. (I J)
-
-◼️
-
-[Data](articles/2459754b.json)
-
-[Extended Data](ext_articles/2459754b.ext.json)
 
 ---

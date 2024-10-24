@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 06:09:33**
+As of **2024-10-24 06:45:03**
 
 ## Newspaper Stats
 
-*Scraped **51,028** Articles*
+*Scraped **51,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 410
 colombotelegraphcom | 510
 bbccomsinhala | 517
-islandlk | 3,030
+islandlk | 3,031
 economynextcom | 3,121
-dailyftlk | 3,482
+dailyftlk | 3,489
 dailymirrorlk | 4,733
 adalk | 4,748
 adaderanalk | 6,050
@@ -26,11 +26,79 @@ adaderanasinhalalk | 8,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,028 (100.0%) of 51,028 articles have been extended.
+51,031 (100.0%) of 51,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Noyon celebrates over century of lace heritage and 20 years of design and craftsmanship in Sri Lanka
+
+*2024-10-24 05:48:48* · [`dailyftlk`](https://www.ft.lk/business/Noyon-celebrates-over-century-of-lace-heritage-and-20-years-of-design-and-craftsmanship-in-Sri-Lanka/34-768357) · `en`
+
+From right: MAS Holdings Co-founder Sharad Amalean, Olivier Noyon, Shaila Amalean, MAS Holdings Chairman and Co-Founder Mahesh Amalean, Chargé d’Affaires a.i. of Embassy of France in Colombo Marie-Noelle Duris, MAS Holdings CEO Suren Fernando, Noyon Lanka CEO Husni Salieh, and other officials.
+
+From left: MAS Holdings Chairman and Co-Founder Mahesh Amalean, Olivier Noyon with Noyon Lanka CEO Husni Salieh
+
+MAS Holdings CEO Suren Fernando welcoming Chargé d’Affaires a.i. of Embassy of France in Colombo Marie-Noelle Duris
+
+...
+
+[Data](articles/7c05885d.json)
+
+[Extended Data](ext_articles/7c05885d.ext.json)
+
+---
+
+### Hong Kong Trade Development Council and EDB join forces to boost Sri Lanka’s exports
+
+*2024-10-24 05:46:46* · [`dailyftlk`](https://www.ft.lk/business/Hong-Kong-Trade-Development-Council-and-EDB-join-forces-to-boost-Sri-Lanka-s-exports/34-768356) · `en`
+
+In a significant step towards strengthening trade and economic relations between Sri Lanka and Hong Kong, the Hong Kong Trade Development Council (HKTDC) and the Export Development Board (EDB) have come together to hosted a landmark roadshow at The Kingsbury Hotel, Colombo on 11 October 2024.
+
+This year’s HKTDC roadshow attracted around 80 representatives from a diverse range of Sri Lankan companies, spanning sectors like apparel, footwear, fashion accessories, food, ceramics, tea, spices, beauty and healthcare, electronics, ICT, gems and jewellery, and many more.
+
+A highlight of the event was an insightful presentation by HKTDC Consultant – Officer-in-charge Thailand and South Asia Vian Cheung, and HKTDC Associate Director – Business Development, Exhibitions and Digital Business Samuel Cheng provided a comprehensive overview of the tremendous opportunities available for Sri Lankan exporters in the Hong Kong market.
+
+...
+
+[Data](articles/559cf662.json)
+
+[Extended Data](ext_articles/559cf662.ext.json)
+
+---
+
+### AKD’s call for a ‘powerful’ government: Implications for political system
+
+*2024-10-24 05:44:24* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-call-for-a-powerful-government-Implications-for-political-system/4-768355) · `en`
+
+In his stump speech on the General Election campaign trail, President AKD has called for the voters to produce a “powerful” (“balavath”, “prabala”) government.
+
+Interestingly, he did not call for a “strong” (shakthimath”) government which is conventionally the opposite of a “weak” one. Given where he’s coming from, that distinction and his choice of words should give us pause.
+
+Sri Lanka, Ceylon at the time, was not only the first in Afro-Asia to have universal franchise but it was also the first in South Asia to evolve a two-party system. India which was independent a year before Ceylon, maintained what was defined in the political science literature as a ‘one-party dominant’ system until 1977. That was the party of Independence, the Congress party. The term ‘one-party dominant’ was minted to differentiate such countries from those which had a ‘one-party system’ be it Fascist (e.g., Spain’s Falange) or Communist.
+
+...
+
+[Data](articles/03e1ae47.json)
+
+[Extended Data](ext_articles/03e1ae47.ext.json)
+
+---
+
+### Presidential Elections 2024: Lessons for business
+
+*2024-10-24 05:38:39* · [`dailyftlk`](https://www.ft.lk/columns/Presidential-Elections-2024-Lessons-for-business/4-768354) · `en`
+
+The 9th Executive President of Sri Lanka Anura Kumara Dissanayake
+
+One could not ask for a better market place than the recently staged Presidential election – 17.4 million consumers (voters), targeted essentially by four brands (though there were 38 Presidential candidates registered). Each brand had the stipulation of Rs. 1.8 billion within a two-month period. Given that Sri Lanka is an island nation, it was a ‘perfect market place’. All candidates had the freedom to travel, freedom to use any medium of communication. The candidate that secured the highest share was declared the winner. Let me pick up the key lessons for businesses.
+
+...
+
+[Data](articles/c3a3040a.json)
+
+---
 
 ### Eight people killed when a 6 -storey building collapsed
 
@@ -59,6 +127,52 @@ Prime Minister Modi has expressed his condolences to the families of the victims
 [Data](articles/12b9f478.json)
 
 [Extended Data](ext_articles/12b9f478.ext.json)
+
+---
+
+### Financing biodiversity and nature amidst debt distress in Sri Lanka
+
+*2024-10-24 05:33:15* · [`dailyftlk`](https://www.ft.lk/columns/Financing-biodiversity-and-nature-amidst-debt-distress-in-Sri-Lanka/4-768352) · `en`
+
+This week’s 16th Conference of the Parties (CoP) to the Convention on Biological Diversity is crucial for global ambitions on nature conservation. Looking to advance progress towards the Kunming-Montreal Global Biodiversity Framework (GBF) goals and targets adopted by almost 200 countries (including Sri Lanka) at the last CoP in 2022, all attention this year is on the 700 billion dollar question, “So where will the money come from?” $ 700 billion is the annual biodiversity finance gap, identified in the GBF and analysed in detail by The Nature Conservancy. Recognising the urgent need to fill this gap, Target 19 of the GBF commits to “mobilise $ 200 billion per year for biodiversity from all sources”. As Conservation International’s Chief Strategy Officer remarked ahead of the summit in Cali, Colombia, “...negotiators cannot leave Cali without deciding where some of that funding will originate, when it will be delivered, and what groups will receive it”.
+
+...
+
+[Data](articles/7edccd82.json)
+
+---
+
+### Institute of Supply and Materials Management organises 2024 National Supply Chain Day celebrations today
+
+*2024-10-24 05:27:07* · [`dailyftlk`](https://www.ft.lk/business/Institute-of-Supply-and-Materials-Management-organises-2024-National-Supply-Chain-Day-celebrations-today/34-768351) · `en`
+
+The Institute of Supply and Materials Management (ISMM) in collaboration with the Ministry of Industries and Industries Development Board (IDB) will celebrate ‘National Supply Chain Day’ under the auspices of Prime Minister Dr. Harini Amarasuriya today at Shangri-la, Colombo followed by ‘National Supply Chain Excellence Awards’.
+
+ISMM being the only professional organisation enacted by Act of Parliament No. 3 of 1981 for fostering and conducting training on Supply Chain Management in Sri Lanka was established on 24 October in 1972.
+
+Considering the global and national importance of Supply Chain Management (SCM) and also to facilitate wider prosperity and growth of the country’s economic affairs through training and developing Supply Chain professionals, the Government has declared 24 October every year as the ‘National Supply Chain Day’.
+
+...
+
+[Data](articles/96578a74.json)
+
+---
+
+### Hameed Ashraff appointed to EDB Board
+
+*2024-10-24 05:07:45* · [`dailyftlk`](https://www.ft.lk/business/Hameed-Ashraff-appointed-to-EDB-Board/34-768340) · `en`
+
+Hameed Ashraff has been appointed as a Director of the Sri Lanka Export Development Board (EDB) by President Anura Kumara Dissanayake with effect from 15 October 2024.
+
+Hameed Ashraff is the Managing Director of Fantasia Elastics and counts 35 years’ experience in the manufacture and marketing of narrow fabric with experience at top-level-management and establishing strong supply chain partnerships in the industry. He is also widely travelled visiting global fairs, exhibitions, and forums, including all ITMA fairs since 1994-2015.
+
+He previously served as a member of the Board of the Industrial Technology Institute (ITI), the premier scientific research and development organisation in Sri Lanka, appointed by the Ministry of Science and Technology.
+
+Ashraff also served as Director of Bank of Ceylon Property Development and Management Ltd., a subsidiary of Bank of Ceylon from November 2015 to May 2019, appointed by the Ministry of Public Enterprises Development.
+
+...
+
+[Data](articles/1aefceb3.json)
 
 ---
 
@@ -2271,171 +2385,5 @@ Also in attendance were the Secretary to the Prime Minister, Pradeep Saputhanthr
 [Data](articles/019413ea.json)
 
 [Extended Data](ext_articles/019413ea.ext.json)
-
----
-
-### Embassy warns for Russian citizens in Sri Lanka
-
-*2024-10-23 15:06:52* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-වෙසෙන-රුසියානු-පුරවැසියන්ට-තානාපති-කාර්යාලයෙන්-අනතුරු-ඇඟවීමක්/11-412634) · `si`
-
-Russian Embassy warns citizens in Sri Lanka due to reported attacks.
-
-🟩
-
-With the statements that an attack was attacked by Arugambay, the Russian embassy has been diagnosed with Russian people in Sri Lanka.
-
-The Russian Embassy in Sri Lanka has stated that as a result of the reporting that there is a attack on the attack, the Russian embassy in Sri Lanka has said a note.
-
-Свя свя свя свяальным зици свици свциальным зициици с явльным ницидр в аннк систористористов туристов туристов туристов г г г ак обращьссство ососось о просьбоссть г глейя людей.H люейя людей.H люейi. //t.co/elzkxxsxwg Pic.twitter.com / jgzdcsno
-
-- RUSIAN EMBASSY IN SRIANA (@RSEMBSRILAN) October 23, 2024
-
-◼️
-
-[Data](articles/f4de2275.json)
-
-[Extended Data](ext_articles/f4de2275.ext.json)
-
----
-
-### Rain interrupted in the second match
-
-*2024-10-23 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202466) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Rain interrupts 2nd match between West Indies tourists and Sri Lankan team today (23). Match set to start at Pallekele Stadium, Kandy. Sri Lanka won 1st ODI against West Indies by 5 wickets."
-
-🟩
-
-Tourist West Indies and the Sri Lankan team will be held today (23).
-
-It is reported that the match is scheduled to begin at Pallekele Stadium, Kandy.
-
-Sri Lanka were able to win the first ODI in five wickets in the West Indies by 5 wickets.
-
-◼️
-
-[Data](articles/6ef6a357.json)
-
-[Extended Data](ext_articles/6ef6a357.ext.json)
-
----
-
-### Johnston Fernando arrested
-
-*2024-10-23 14:49:29* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්-ප්‍රනාන්දු-අත්අඩංගුවට-ගනී/11-412633) · `si`
-
-Johnston Fernando, former MP, arrested by CID after Colombo High Court issues warrant. He arrived at Criminal Investigation Department to make a statement.
-
-🟩
-
-Former Parliamentarian Johnston Fernando has been arrested shortly before the CID.
-
-To give a statement, he came to the Criminal Investigation Department this morning.
-
-The Colombo High Court today issued warrants to arrest Johnston Fernando.
-
-◼️
-
-[Data](articles/8a10cb5e.json)
-
-[Extended Data](ext_articles/8a10cb5e.ext.json)
-
----
-
-### The Model of Minery is prohibited by the Model of Grapp
-
-*2024-10-23 14:46:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மினிஸ்ட்ரி-ஒப்-கிராப்-இன்-மாதிரிக்கு-தடை/175-345925) · `ta`
-
-Sri Lanka Business High Court prohibits restaurant from using "Crab" trademark due to trademark infringement case filed by King Grab Pvt Ltd against Ministry of Crip restaurant owned by former cricket stars Mahela Jayawardena and Kumara Sangakkara.
-
-🟩
-
-Business High Court Judge KP Bernando has issued two prohibitions for a popular restaurant to use the "Crab" trademark of the "Ministry of Crip" restaurant, owned by former leaders of the Sri Lankan cricket team, Mahela Jayawardena and Kumara Sangakkara.
-
-The magistrate, considering the case filed by King Grab (Pvt) Limited by the King Grab (Pvt) Limited, issued the order.
-
-The Colombo 03, which is located in Colombo 03, is the chief chef of the private company and the King Graf Restaurant, which was named as defendants.
-
-Attorney Manoj Bandara appeared on the instructions of Sudath Perera Associat, on behalf of the petitioner.
-
-The petitioner's lawyer noted that the main cook, who had previously worked in the petitioner's restaurant chain, would leave the company and serve customers using its color and verses of the company using the reputation and reputation of the company.
-
-The plaintiff has expanded its restaurant network in many countries around the world.
-
-...
-
-[Data](articles/5e4de1c2.json)
-
-[Extended Data](ext_articles/5e4de1c2.ext.json)
-
----
-
-### If the Alwis Committee report is not accepted, judge rejects 17 years?
-
-*2024-10-23 14:41:44* · [`adalk`](https://www.ada.lk/breaking_news/අල්විස්-කමිටු-වාර්තාව-පිළිනොගන්නේ-නම්-විනිසුරුවරිය-වසර-17ක්-ලබා-දුන්-තීන්දු-ප්‍රතික්ෂේප-කරනවාද-/11-412632) · `si`
-
-Alwis Committee report rejection implications: Leader Gammanpila claims 17-year judicial impact if rejected. Minister Herath denies report validity, calls it false. Potential consequences for judges appointed between 2006-2023.
-
-🟩
-
-Leader of the Call Oya Gammanpila said that if the Alwis committee was refused to reject all 17 years after the non-service was refused.
-
-He was speaking at a media briefing held in Colombo today (23).
-
-"Minister Vijitha Herath did not proclaim this report was a fake record. And in his statement, his statement was noted that the contents of the Alwis report was baseless falsehood. Minister Vijitha Herath rejects the report of the committee. If he refuses to reject the report on the basis of the minister of Vijitha Herath, he rejects all over the judges of the judge in 2006 to 2023? "
-
-◼️
-
-[Data](articles/3764163a.json)
-
-[Extended Data](ext_articles/3764163a.ext.json)
-
----
-
-### Johnston Fernando arrested
-
-*2024-10-23 14:40:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோன்ஸ்டன்-பெர்னாண்டோ-கைது/175-345924) · `ta`
-
-Johnston Fernando arrested after confessing about an unregistered luxury car found at Star Hotel Colombo. His arrest was requested in a previous court petition.
-
-🟩
-
-He had come to the Criminal Investigation Division this morning (23) to make a confession on an unrucated luxury car that belonged to him, which had been parked at the Star Hotel in Colombo.
-
-Earlier, a petition filed by Fernando demanding that he was arrested in connection with the incident was taken up yesterday (22).
-
-During the hearing, his lawyers announced in court that Fernando was ready to appear before the Criminal Investigation Division today.
-
-◼️
-
-[Data](articles/d6eba582.json)
-
-[Extended Data](ext_articles/d6eba582.ext.json)
-
----
-
-### Ex-Minister Johnston Fernando arrested by CID
-
-*2024-10-23 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102878/ex-minister-johnston-fernando-arrested-by-cid) · `en`
-
-Former Minister Johnston Fernando has been arrested by the Criminal Investigation Department (CID) over the possession of an illegally assembled luxury vehicle.
-
-He had arrived at the CID this morning (23) to provide a statement regarding the unregistered BMW car, allegedly belonging to him, which was recently found suspiciously parked at a star-class hotel in Colombo.
-
-A petition filed by Fernando, seeking an order to prevent his arrest over the incident, was taken up for consideration yesterday (22).
-
-During the hearing, his attorneys informed the court that Fernando was prepared to appear before the CID today to give a statement on the matter.
-
-Meanwhile, the Colombo High Court today also issued an arrest warrant on former parliamentarian Johnston Fernando, for failing to appear before the court over a case against him for allegedly involving Sathosa employees in election work from 2010 to 2014.
-
-...
-
-[Data](articles/bb61230a.json)
-
-[Extended Data](ext_articles/bb61230a.ext.json)
 
 ---

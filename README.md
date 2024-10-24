@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 09:40:01**
+As of **2024-10-24 09:59:03**
 
 ## Newspaper Stats
 
-*Scraped **51,067** Articles*
+*Scraped **51,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,108 @@ economynextcom | 3,121
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,750
-adaderanalk | 6,054
+adaderanalk | 6,055
 tamilmirrorlk | 7,034
 virakesarilk | 8,179
-adaderanasinhalalk | 8,866
+adaderanasinhalalk | 8,868
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,060 (100.0%) of 51,067 articles have been extended.
+51,065 (100.0%) of 51,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### New Zealand Reserve Rest
+
+*2024-10-24 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202498) · `si`
+
+Here's a 200-character summary:
+
+
+
+New Zealand cricket squad named for ODI/T20 vs Sri Lanka. Mitchell Santner leads. Mithan Smiths called up. Kane Williamson rested. England tours NZ for Tests in Nov. Series starts in Dambulla, moves to Pallekele. Squad includes: Santner, Bracewell, Clark, Phillips, Southee, Williamson, Boult, Ferguson, Blundell, Latham, Mitchell, Henry, Sodhi, Tickner, Phillips.
+
+🟩
+
+A large number of players have been identified in the New Zealand squad, designated for the ODI and Twenty20 cricket tournament to begin against Sri Lanka.
+
+Mitchell Santnor is the acting leader of the nominated squad.
+
+The committee has taken steps to call on the 15 people of Mithan Smiths, which have not played any international cricket to the squad.
+
+Accordingly, Kane Williamson, Devon Conne, Tom Sedathel, Ruching Ravindra and Tim Sauseoo and Tim Sauseu Sri Lankan competition will be rest.
+
+The England team is constantly on a tour of New Zealand for a 3-match Test tournament in November.
+
+Sri Lanka and New Zealand will be held at Dambulla first two matches. The ODI series will then be held and three of three matches will be held at Pallekale.
+
+Michael Santner (Leader), Michael Bruswell, James Clakeson, Glenxy Falkson, Sudy Smith, Sudi, Sudi, Sudi, SudiYoung
+
+◼️
+
+[Data](articles/8ec99770.json)
+
+[Extended Data](ext_articles/8ec99770.ext.json)
+
+---
+
+### US says evidence shows North Korea has troops in Russia, possibly for Ukraine war
+
+*2024-10-24 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102894/us-says-evidence-shows-north-korea-has-troops-in-russia-possibly-for-ukraine-war) · `en`
+
+The United States said for the first time on Wednesday that it had seen evidence that North Korea has sent 3,000 troops to Russia for possible deployment in Ukraine, a move that could mark a significant escalation in Russia’s war against its neighbor.
+
+U.S. Defense Secretary Lloyd Austin, speaking in Rome, said it would be “very, very serious” if the North Koreans were preparing to fight alongside Russia in Ukraine, as Kyiv has alleged. But he said it remained to be seen what they would be doing there.
+
+“There is evidence that there are DPRK troops in Russia,” Austin told reporters, using North Korea’s formal name, the Democratic People’s Republic of Korea.
+
+Speaking to reporters later on Wednesday White House spokesperson John Kirby said the United States believes at least 3,000 North Korean troops are undergoing training at three military bases in eastern Russia.
+
+...
+
+[Data](articles/77b2d21b.json)
+
+[Extended Data](ext_articles/77b2d21b.ext.json)
+
+---
+
+### Turkish terror attack killed - 22 injured
+
+*2024-10-24 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202497) · `si`
+
+Turkey terror attack: 5 dead, 22 injured. Attackers linked to PKK. No claim of responsibility.
+
+🟩
+
+Five people were killed and 22 others wounded due to an attack on the headquarters at the capital city of Anneka, Turkey.
+
+It is reported that two attackers have been carried out by two attackers as a woman and male.
+
+The authorities have said that the attack is largely involved in the Kurdish rebel group PKK.
+
+PKK is a terrorist organization banned in Turkey, US and UK.
+
+However, no group has been accepted, however, has not taken responsibility for the attack.
+
+The Turkish Vice President has said that four of the deceased were officials and the other was a taxi driver.
+
+The attackers had come to attack the attack, foreign media reports say that the driver has been killed.
+
+It is reported that the attack has been carried out at the airline headquarters, no time to change the workshop.
+
+Among the 22 was among the injured in the attack and seven members of the Air Services Company are also confirmed.
+
+◼️
+
+[Data](articles/8c721f09.json)
+
+[Extended Data](ext_articles/8c721f09.ext.json)
+
+---
 
 ### Let's look at the cost details of the candidates from today
 
@@ -2319,69 +2407,5 @@ The Mullaitivu Journalists Association's president has been asked to protect jou
 [Data](articles/8714f21e.json)
 
 [Extended Data](ext_articles/8714f21e.ext.json)
-
----
-
-### Water fish stopped at once
-
-*2024-10-23 16:51:26* · [`adalk`](https://www.ada.lk/breaking_news/ජල-පීල්ල-එකවර-නතරඋනා-නාය-යාමක්ද/11-412637) · `si`
-
-Landslide warning issued by DMC near Lunugala Madandagala school. Water levels rising due to heavy rainfall. National Building Research Institute investigating.
-
-🟩
-
-The Disaster Management Center (DMC) says that the water has been informed about the landslide rising of the landslides in the area.
-
-The center was laundering at the last 2023 near the Lunugala Madandagala school.
-
-Disaster Relief Service Officer said that the water attacked with water from a paddy fields below the landslide.
-
-The Disaster Management Center (DMC) says that the National Building Research Institute has educated the officials of the National Building Research Institute to investigate these days, while landslides have emerged.
-
-◼️
-
-[Data](articles/b22a9b65.json)
-
-[Extended Data](ext_articles/b22a9b65.ext.json)
-
----
-
-### Israel issues travel warning to parts of Sri Lanka over terrorism threat
-
-*2024-10-23 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102884/israel-issues-travel-warning-to-parts-of-sri-lanka-over-terrorism-threat) · `en`
-
-Israel’s national security council on Wednesday called on Israelis to immediately leave some tourist areas in southern Sri Lanka over the threat of a possible terrorist attack.
-
-The agency said the warning pertained to the area of Arugam Bay and beaches in the south and west of Sri Lanka, and stemmed from “current information about a terrorist threat focused on tourist areas and beaches”.
-
-The security council did not specify the exact nature of the threat and called on Israelis in the rest of Sri Lanka to be cautious and refrain from holding large gatherings in public areas.
-
-“The Israeli security establishment ... is in close contact with the security authorities in Sri Lanka and is following the developments,” it said.
-
-◼️
-
-[Data](articles/5d342b4b.json)
-
-[Extended Data](ext_articles/5d342b4b.ext.json)
-
----
-
-### Israel warning of Israel's people in Sri Lanka
-
-*2024-10-23 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202473) · `si`
-
-Israel warns citizens in Sri Lanka: Terrorist threats in tourist areas. National Security Council advises immediate evacuation.
-
-🟩
-
-Israeli nationals in Sri Lanka have made special notice today (23).
-
-The National Security Council has informed the Israelite security council to immediately resign from some tourist areas, as it can cause terrorist attacks.
-
-◼️
-
-[Data](articles/d0665f14.json)
-
-[Extended Data](ext_articles/d0665f14.ext.json)
 
 ---

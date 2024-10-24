@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 05:24:05**
+As of **2024-10-24 05:45:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,024 (100.0%) of 51,027 articles have been extended.
+51,027 (100.0%) of 51,027 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -144,6 +144,8 @@ TISL said it has been committed to election monitoring since its inception in 20
 
 [Data](articles/605196e3.json)
 
+[Extended Data](ext_articles/605196e3.ext.json)
+
 ---
 
 ### Ariyanethran denies reports of summons by TID
@@ -160,6 +162,8 @@ His denial follows a report published on Tuesday, which alleged that Ariyanethra
 
 [Data](articles/d30861a7.json)
 
+[Extended Data](ext_articles/d30861a7.ext.json)
+
 ---
 
 ### SC rules against rejection of DNA nomination papers in Vanni
@@ -173,6 +177,8 @@ During the hearing, Udayarasa, along with two other petitioners, argued that all
 ...
 
 [Data](articles/b9fef54a.json)
+
+[Extended Data](ext_articles/b9fef54a.ext.json)
 
 ---
 

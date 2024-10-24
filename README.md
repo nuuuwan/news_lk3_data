@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 11:40:18**
+As of **2024-10-24 11:59:50**
 
 ## Newspaper Stats
 
-*Scraped **51,090** Articles*
+*Scraped **51,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,136 @@ dbsjeyarajcom | 411
 colombotelegraphcom | 510
 bbccomsinhala | 518
 islandlk | 3,038
-economynextcom | 3,121
+economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,752
-adaderanalk | 6,057
-tamilmirrorlk | 7,040
+adalk | 4,755
+adaderanalk | 6,058
+tamilmirrorlk | 7,041
 virakesarilk | 8,186
-adaderanasinhalalk | 8,871
+adaderanasinhalalk | 8,872
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,090 (100.0%) of 51,090 articles have been extended.
+51,099 (100.0%) of 51,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### SriLankan Airlines’ safety rating restored after addressing cockpit incident
+
+*2024-10-24 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102898/srilankan-airlines-safety-rating-restored-after-addressing-cockpit-incident) · `en`
+
+In a swift move, Airlineratings.com last week downgraded SriLankan Airlines’ safety rating from 7 to 6 stars following a disturbing incident aboard flight UL 607. On September 21, 2024, the captain of the flight locked his co-pilot out of the cockpit. The incident was deemed serious enough to warrant an immediate reassessment of the airline’s safety credentials.
+
+However, after a thorough review and prompt response from the airline, the rating has been restored to 7 out of 7 stars, acknowledging SriLankan Airlines’ commitment to addressing the incident with transparency and urgency.
+
+On September 21, a flight from Colombo to Melbourne took an alarming turn when the captain of flight UL 607 locked the co-pilot out of the cockpit. This violation of standard operating procedures raised immediate safety concerns for the airline and SriLankan Airlines wasted no time in taking corrective action and has shared this exclusively with AIrlineRatings.com
+
+...
+
+[Data](articles/9c2402c5.json)
+
+[Extended Data](ext_articles/9c2402c5.ext.json)
+
+---
+
+### Tarzan was present at the liferoom
+
+*2024-10-24 11:21:23* · [`adalk`](https://www.ada.lk/breaking_news/ටාසන්-දිවි-රඟමඩලට-සමුදෙයි/11-412654) · `si`
+
+Here's a 200-character summary:
+
+
+
+Tarzan actor Ron Eli died in 2001 after being attacked by animals while filming. He later published two enigmatic novels as an editor.
+
+🟩
+
+Ron Eli, acted in the role of world famous Tarzan, has been killed.
+
+ටාසන් චරිතය රඟදැක්වීමේදී අස්ථි බිඳීමට ලක්වීම මෙන්ම සතුන්ගේ ප්‍රහාර වලට මුහුණ දීමට ද ඔහුට සිදුව තිබේ.
+
+In 2001, Ron Eli has passed away from the river, and he has later launched two mysterious novels as an editor.
+
+◼️
+
+[Data](articles/65298606.json)
+
+[Extended Data](ext_articles/65298606.ext.json)
+
+---
+
+### Namal Azhar in CID
+
+*2024-10-24 11:19:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CID-யில்-நாமல்-ஆஜர்/175-345973) · `ta`
+
+Namal Rajapaksa, former MP, visited CID today. He was summoned to record a statement but didn't know the reason.
+
+🟩
+
+Former parliamentarian Namal Rajapaksa visited the Criminal Investigation Division this morning.
+
+He told the media that he had been summoned to the Criminal Investigation Division to record a confession but he did not know the reason.
+
+◼️
+
+[Data](articles/3f39acd3.json)
+
+[Extended Data](ext_articles/3f39acd3.ext.json)
+
+---
+
+### Two expeditious youth prevents a train accident
+
+*2024-10-24 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202502) · `si`
+
+Two quick-thinking youth prevent train crash near Wadduva station. They alert authorities, leading to swift action by railway officials. Train service temporarily suspended for safety checks. Incident highlights importance of public vigilance in preventing accidents.
+
+🟩
+
+According to the Department of Railways, two youths have abstained from a hurdle in a hut due to a hut in the coastal railway line.
+
+Two youths in the highway of the train towards Kalutara to Colombo and two miles of a railway station in a railway station had taken steps to educate the North and Wadduwa railway stations.
+
+ඒ අනුව වාද්දුව දුම්රිය ස්ථානාධිපති යූ. අයි. පී. රුද්‍රිගු මහතා වහාම ක්‍රියාත්මකවී ප්‍රධාන දුම්රිය පාලක මැදිරිය දැනුවත් කර වාද්දුව දුම්රිය මාර්ග අංශයේ කාර්මික නිලධාරීන් සහ යන්ත්‍ර සූත්‍ර සමග ඉක්මණින් එම ස්ථානයට යොමුකර අළුත්වැඩියාව සිදුකිරීමට පියවර ගත්බව දුම්රිය දෙපාර්තමේන්තු ප්‍රකාශකයෙක් පැවසීය.
+
+Steps have been taken to close the maritime railway line over an hour during the repair work.
+
+එම තරුණයන් දෙදෙනාගේ දැනුම්වත් කිරීම මෙන්ම වාද්දුව දුම්රිය ස්ථානාධිපති යූ. අයි. පී. Rodrigo has avoided a led train accident to the immediate effect.
+
+◼️
+
+[Data](articles/2573df39.json)
+
+[Extended Data](ext_articles/2573df39.ext.json)
+
+---
+
+### ගම්පොළ පොලීසියේ ලොක්කෙක් අල්ලස් ගනිද්දී අත්අඩංගුවට
+
+*2024-10-24 11:10:37* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පොළ-පොලීසියේ-ලොක්කෙක්-අල්ලස්-ගනිද්දී-අත්අඩංගුවට/11-412653) · `si`
+
+Gampola police officer arrested bribery allegations investigation Bribery Commission
+
+🟩
+
+Bribery Commission says that the OIC of the Gampola Police Station has been arrested in Gampola, Gampola police station. The arrested police inspector has been arrested.
+
+ගම්පොළ  ඉල්ල වතුර ප්‍රදේශයේ පුද්ගලයකු ගම්පොළ මූලස්ථාන පොලිසියට විරුද්ධව අල්ලස්සෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව වෙත පැමිණිල්ලක් කර තිබූ අතර ඔබ පැමිණිල්ලට අදාලව ගම්පොළ මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂකවරයාගේ හා අංශභාර ස්ථානාධිපතිවරුන්ගේ නාම ලේඛනයක් මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂකවරයාගේ රාජකාරී සම්බන්ධ වාර්තාවක් හා  පොලිසි ස්ථානය කරන ලද පැමිණිලිවල උදෘත හා නඩුවල නඩුවල තත්ත්වයන් ඇතුළු වාර්තා කීපයක් රැගෙන හෙට (25) අල්ලස්සෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව වෙත පැමිණෙන ලෙස සැකකාර ප්‍රධාන පොලිස් පරීක්ෂකවරයාට දැනුම් දී තිබිණි.
+
+එම වාර්තා රැගෙන කොළඹ යාම සඳහා මෝටර් රථයට ඉන්ධන ලබා ගැනීම සඳහා පැමිණිලිකරුගෙන් රුපියල් 20000/= ජ මුදලක් අල්ලස් වශයෙන් ඉල්ලා ඇති අතර පැමිණිලිකරුට සහාය වන පරිදි අල්ලස් කොමිෂන් සභාවට කරුණු දැක්වීමට හැකි බවත් මුදල් ලබා නොදෙන්නේ නම් පැමිණිලි කරොට අගති දායක ලෙස කටයුතු කරන බවටත් දන්වා බියගන්වා ඇත.
+
+...
+
+[Data](articles/fa90ab19.json)
+
+[Extended Data](ext_articles/fa90ab19.ext.json)
+
+---
 
 ### 23 thousand tons of copper;Customs by Customs!
 
@@ -98,6 +210,26 @@ Due to this, the Department of Irrigation has issued a flood warning to the Divi
 
 ---
 
+### Sri Lanka chamber to host economic summit
+
+*2024-10-24 10:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-to-host-economic-summit-184726/) · `en`
+
+ECONOMYNEXT – The Sri Lanka Economic Summit, to be held in January, will provide a platform for discussing the path forward for the country, the Ceylon Chamber of Commerce said.
+
+“The Summit will provide an essential platform for discussing the path forward at a time when Sri Lanka’s economic and political landscape has had significant changes,” the chamber said in a statement.
+
+The summit will explore “the right policies to be implemented in achieving an export-led investment model, focusing on leveraging Sri Lanka’s strategic location, its access to rapidly growing regional markets, and the necessary domestic reforms to unlock key export sectors.
+
+Breakout sessions will focus on tourism, agriculture and value-added manufacturing.
+
+...
+
+[Data](articles/5bbacd4f.json)
+
+[Extended Data](ext_articles/5bbacd4f.ext.json)
+
+---
+
 ### Suspect arrested for breaking houses in Kalutara
 
 *2024-10-24 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/196966) · `ta`
@@ -121,6 +253,26 @@ A suspect has been arrested on Wednesday (23) for stealing property in the Thekk
 [Data](articles/af130f54.json)
 
 [Extended Data](ext_articles/af130f54.ext.json)
+
+---
+
+### පොහොට්ටුවේ ප්‍රබලයෙක් සී.අයි.ඩී.යට
+
+*2024-10-24 10:39:47* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-ප්‍රබලයෙක්-සී-අයි-ඩී-යට/11-412652) · `si`
+
+Namal Rajapaksa arrives at CID for statement. Media present.
+
+🟩
+
+Namal Rajapaksa has arrived at the Criminal Investigation Department
+
+ප්‍රකාශයක් ලබා දීම සඳහා තමාට පැමිණෙන ලෙස දැනුම් දී ඇති බව එහිදී මාධ්‍ය වෙත අදහස් පළ කරමින් හෙතෙම සඳහන් කළේය.
+
+◼️
+
+[Data](articles/688fe652.json)
+
+[Extended Data](ext_articles/688fe652.ext.json)
 
 ---
 
@@ -312,6 +464,28 @@ It is sad that fishermen are frequently arrested. The Tamil Nadu and the Central
 
 ---
 
+### Sri Lanka rupee opens weaker at 293.60/80 to US dollar, bond yields steady
+
+*2024-10-24 10:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-293-60-80-to-us-dollar-bond-yields-steady-184715/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee depreciated slightly to open at 293.60/80 to the US dollar on Thursday, from 293.45/55 a day earlier, while bond yields were broadly steady dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.40/50 percent, up from 11.35/50 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.75/80 percent, down from 11.70/80 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.00/10 percent, up from 11.95/12.10 percent.
+
+In equities, Colombo’s All Share Price Index was trading up 0.48 percent, or 59.54 points higher at 12,416, while the S&P SL20 of more liquid stocks was trading up 0.74 percent or 27.29 points higher at 3,690.
+
+◼️
+
+[Data](articles/53655db9.json)
+
+[Extended Data](ext_articles/53655db9.ext.json)
+
+---
+
 ### Namal CID
 
 *2024-10-24 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202500) · `si`
@@ -477,6 +651,34 @@ Among the 22 was among the injured in the attack and seven members of the Air Se
 [Data](articles/8c721f09.json)
 
 [Extended Data](ext_articles/8c721f09.ext.json)
+
+---
+
+### Sri Lanka SOE container terminal to get tax exemptions as ‘special project’
+
+*2024-10-24 09:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-soe-container-terminal-to-get-tax-exemptions-as-special-project-184708/) · `en`
+
+ECONOMNYNEXT – A container terminal built by Sri Lanka Ports Authority has been named a ‘special project’ by the cabinet to give tax benefits Minister Vijitha Herath said.
+
+Private terminals in the port are given tax benefits under a Strategic Development Project law.
+
+The excessive length of tax breaks as well as exempting senior official’s companies from personal income tax under the SDP when people earning above 100,000 rupees are taxed has become a contentious issue.
+
+“The International Monetary Fund has objected to benefits under the Strategic Development Act law,” Minister Herath said.
+
+“This is not going under that process. It is going as a special project.”
+
+The SDP had come under fire also for negotiated tax breaks, which allegedly leads to corruption as there are no fixed rules.
+
+The East Terminal is now partially built and contracts for cranes have been awarded, a post-cabinet statement said.
+
+“The other two jetties have been given some tax exemptions,” Minister Herath explained.
+
+...
+
+[Data](articles/9b8f7152.json)
+
+[Extended Data](ext_articles/9b8f7152.ext.json)
 
 ---
 
@@ -2181,241 +2383,5 @@ The Ministry of Education states that the Ministry of Education has held only 18
 [Data](articles/15ac3689.json)
 
 [Extended Data](ext_articles/15ac3689.ext.json)
-
----
-
-### Seven players in Hong Kong Sixes Cricket Sri Lanka
-
-*2024-10-23 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/196950) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka participates in Hong Kong Sixes Cricket. Team includes Madhushan, Lahiru Madushankan, and others. Tournament features 12 teams, including current champions South Africa. Held Nov 1-3, 2023.
-
-🟩
-
-Sri Lanka will also participate in the 6 -cricket match for the team called Hong Kong Success to be held in Hong Kong.
-
-Madhushan, a fast bowler, has played 4 International ODIs and 3 International T20 cricket matches.
-
-Lahiru Madushankan was named in the Sri Lankan group for the ICC men's T20 World Cup in 2021 in the United Arab Emirates.
-
-But his misfortune was unable to play in the World Cup due to his neck injury during the T20 series against South Africa.
-
-The team, including the 32 -year -old Madusanka, is all the players. Chandun will play as a wicketkeeper. Five of the seven players named in the squad have played the international one -day or international T20 matches for the Sri Lankan team.
-
-Two players who do not represent the national team - Dharru Ratnayake and Tanuka Tabare.
-
-He has played 68 wickets in 60 first T20 matches and scored 1352 runs. The other player, Tanuka Tabare, played 33 matches in the domestic T20 stage and took 15 wickets and scored 661 runs.
-
-...
-
-[Data](articles/3c45b649.json)
-
-[Extended Data](ext_articles/3c45b649.ext.json)
-
----
-
-### Norochcholay kills Lakvijaya Power Plant
-
-*2024-10-23 19:08:46* · [`adalk`](https://www.ada.lk/breaking_news/ඩ්‍රෝන-කැමරාවක්-නොරෝච්චෝල-ලක්විජය-බලාගාරයට-කඩා-වැටිලා/11-412644) · `si`
-
-Drone camera captures Lakvijaya Power Plant footage. Security forces investigate illegal activity. High-ranking police protect facility after incident.
-
-🟩
-
-A veteran and other security personnel have commenced a special investigation with the drone and the other security forces with a drone camera flying over the Lakvijaya Power Plant from Noroichchuwa.
-
-The drone camera was flying over 23 days, the security forces that the Lakvijaya Power Plant was flying over the Lakvijaya Power Plant, security sources said.
-
-The security forces say that the drone camera has taken a photograph of Lakvijaya Power Plant.
-
-However, it is an illegal activities that the drone lounge the plant in the upheaval plant is an illegal.
-
-A special investigation has been launched to find out what the drone camera has taken on the way.
-
-With the incident, the high-ranking police officers go to power plant in the protection of the power plant.
-
-◼️
-
-[Data](articles/a431b4b7.json)
-
-[Extended Data](ext_articles/a431b4b7.ext.json)
-
----
-
-### Ashen's petition twenty
-
-*2024-10-23 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202478) · `si`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-The Leader of the Supreme Court today (23) rejected the Supreme Court to reject his nomination order to issue a nomination order to the Colombo district for the rejecting the decision of the Colombo District at the next general election.Did.
-
-After considering the petition regarding the petition, the order was issued with a three-member Supreme Court judge with Journal Surasena and Priyantha Fernando.
-
-Attorney-at-Law Devendra, who appeared for the petitioner, said his client had submitted his nomination for the election law in accordance with the election law.
-
-The lawyer pointed out that the decision taken by the Selection Officer is contrary to the law to reject the nomination paper at the time of handing over the nomination paper.
-
-Deputy Solicitor General Rural de Silva, who appeared on behalf of the Electoral Commission, said that the Petitioner had to offer its nomination law in accordance with the election law.
-
-...
-
-[Data](articles/71b7e22e.json)
-
-[Extended Data](ext_articles/71b7e22e.ext.json)
-
----
-
-### The attention of two youths prevent a great danger
-
-*2024-10-23 18:50:41* · [`adalk`](https://www.ada.lk/breaking_news/තරුණයන්-දෙදෙනෙකුගේ-අවධානය-නිසා-විශාල-අනතුරක්-වැළකෙයි/11-412642) · `si`
-
-Two youths prevented a dangerous situation near Wadduwa Railway Station. They noticed an issue on the coastal railway line and informed authorities. The station manager quickly responded, closing the line temporarily for repairs. Their alertness likely prevented a potential train accident.
-
-🟩
-
-The Wadduwa Railway Station states that a young man in the area has abstained from an educational incident in the coastal railway line (23).
-
-Two youths in Waskaduwewa Youth in Kalutara and Wadduwa Railway Stations have been made to educate the Colombo North and Wadduwa area in Kalutara.
-
-Accordingly, Mr. U I P Rodrigo, the OIC of the Wadduwa Railway, was immediately implemented in the Wadduwa Road Division, to instantly, and the machinery was taken to repair the machinery.
-
-The coastal railway line has taken steps to close the railway line over an hour during the reappointment period.
-
-The railway spokesperson also said that the awareness of the two youths, as well as the train, said the train accident said.
-
-◼️
-
-[Data](articles/182dffa2.json)
-
-[Extended Data](ext_articles/182dffa2.ext.json)
-
----
-
-### The information about an attack was known for three weeks
-
-*2024-10-23 18:36:17* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රහාරයක්-ගැන-තොරතුරු-සති-තුනක-සිට-දැනගෙන-සිටියා/11-412641) · `si`
-
-Sri Lanka terror threat: Attack planned against locals and national security. Intelligence agencies prepared for foreign targets. Special Task Force deployed. Security measures implemented. Public warned of potential threats.
-
-🟩
-
-Acting IGP Priyantha Weerasuriya, a special media briefing today (23), was concluded at the SSP's Office Auditorium in the evening.
-
-Accordingly, the attacks have been planned to attack the local people, not the local people but also to the national security in Sri Lanka.
-
-"At October 7, on October 7, when the war was started in the Middle East 7, as the end of October 2024, was in terms of terrorists or various parties on terrorist activities. As the intelligence agencies were duties, as the intelligence agencies were duties as Sri Lanka had any doubts, we were ready to launch an attack targeting the foreign nationals.
-
-We have discussed and advised the incident in terms of the president of the Defense Council.. The Special Task Force protected security at a special security plan in a special security plan for some foreigners.
-
-...
-
-[Data](articles/9be46c44.json)
-
-[Extended Data](ext_articles/9be46c44.ext.json)
-
----
-
-### Meeting between Governor of the Northern Province and US Ambassador
-
-*2024-10-23 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196942) · `ta`
-
-Governor Nagalingam Vedanayagan met US Ambassador Julie Chung at the Northern Provincial Governor's Office. They discussed development, education, tourism, land release, transportation, employment, and investments. The ambassador asked about land release processes and the governor requested cooperation in gaining market opportunities for Northern Province products.
-
-🟩
-
-US Ambassador to Sri Lanka Julie Chung met Nagalingam Vedanayagan, Governor of the Northern Province.
-
-The meeting was held at the Governor's Office at the Northern Provincial Governor's Office on Wednesday (23) between the Governor of the Northern Province Nagalingam Vedanayagan and the US Ambassador to Sri Lanka Julie Chung.
-
-The Northern Province has discussed a number of issues including development activities, education, tourism, land release, transportation facilities, employment opportunities and investment activities.
-
-US Ambassador asked the governor about land release. The governor said that the land release process is to be carried out in accordance with the president's guidelines.
-
-The Governor said that the land -related disputes in the Northern Province are in large numbers of land encroachments.
-
-He asked the US Ambassador to Sri Lanka to cooperate with the process of gaining market opportunities for products in the North.
-
-...
-
-[Data](articles/90407e77.json)
-
-[Extended Data](ext_articles/90407e77.ext.json)
-
----
-
-### ලංකාවේ සිටින ඊශ්‍රායෙල සංචාරකයන් එරටින් විශේෂ දැනුම් දීමක්
-
-*2024-10-23 18:28:12* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සිටින-ඊශ්‍රායෙල-සංචාරකයන්-එරටින්-විශේෂ-දැනුම්-දීමක්/11-412640) · `si`
-
-Sri Lanka: Israeli tourists warned due to terror threat. Israel National Security Council advises immediate evacuation from southern region. Threats unspecified but general warning issued for other areas.
-
-🟩
-
-ත්‍රස්තවාදී ප්‍රහාරයක් එල්ල වීමේ අවධානම හේතුවනේ හේතුවෙන් දැනට ශ්‍රී ලංකාවේ දකුණු කළාපයේ සංචාරවල නිරතවන ඊශ්‍රායෙල ජාතිකයන්ට එම  ප්‍රදේශවලින් වහාම ඉවත් වන ලෙස ඊශ්‍රායල ජාතික ආරක්ෂක කවුන්සිලය බදාදා ඊශ්‍රායල ජාතිකයන්ගෙන් ඉල්ලා සිටියේය.
-
-මෙම අනතුරු ඇඟවීම ආරුගම් බොක්ක ප්‍රදේශයට සහ ශ්‍රී ලංකාවේ දකුණේ සහ බටහිර වෙරළ තීරයන්ට අදාළ ව බව එම කවුන්සිලය සඳහන් කර ඇතැයි රොයිටර්ස් පුවත් සේවය තොරතුරු වාර්තා කරයි.
-
-ආරක්ෂක කවුන්සිලය තර්ජනයේ නිශ්චිත ස්වභාවය නිශ්චිතව සඳහන් නොකළ අතර ශ්‍රී ලංකාවේ සෙසු ප්‍රදේශවල සිටින ඊශ්‍රායල ජාතිකයන්ට ප්‍රවේශම් වන ලෙසත් පොදු ස්ථානවල විශාල රැස්වීම් පැවැත්වෙන ස්ථානවලට යාමෙන් වළකින ලෙසත් ආරක්ෂක කවුන්සිලය ඉල්ලා සිටියි.
-
-◼️
-
-[Data](articles/12e23a53.json)
-
-[Extended Data](ext_articles/12e23a53.ext.json)
-
----
-
-### What happened to the money to increase the salaries of public servants?
-
-*2024-10-23 18:14:14* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-වැඩි-කිරීමට-මුදල්-නැන්තම්-තිබුණ-මුදලට-මොකද-වුණේ-/11-412639) · `si`
-
-Ranil Wickremesinghe defends cabinet decision on public servant salary increase. Government aims for 12% income growth in 2024, 13% in 2025. Claims funds available for salary hike. Acknowledges requests for higher increases, citing economic hardship.
-
-🟩
-
-Former President Ranil Wickremesinghe said that the decision of his cabinet was legitimated regarding the increase in the salaries of public servants.
-
-He was speaking at a program held at Sirikotha. He added that the payments may be paid to increase the salaries of public servants.
-
-He said that the income of the government should be 12 percent next year and 13 percent in the next year.
-
-He also said that the government had money to pay the increased salary and would say what was the money.
-
-"There were requests to increase the weights. It's true. By 2022, the value of their stuff was down 50 percent. Lived hard. Sold property. I had little relief.
-
-I told it that. Some asked for 2000. 2024 Rs. We decided to give 10000. We gave it. It's not enough. "
-
-◼️
-
-[Data](articles/1735502d.json)
-
-[Extended Data](ext_articles/1735502d.ext.json)
-
----
-
-### Explanation for Johnstan
-
-*2024-10-23 17:58:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோன்ஸ்டனுக்கு-விளக்கமறியல்/175-345935) · `ta`
-
-Former Minister Johnston Fernando remanded until 30th. Magistrate orders CID to investigate incident progress announcement on 30th.
-
-🟩
-
-Fort Magistrate Mrs. Tanuja Lakmali has ordered former minister Johnston Fernando to be remanded until the 30th of this month.
-
-Considering the arguments made by the incident, the magistrate put the accident suspect in the interrogation and ordered the Criminal Investigation Department to announce the progress of the incident on the 30th.
-
-◼️
-
-[Data](articles/c4459503.json)
-
-[Extended Data](ext_articles/c4459503.ext.json)
 
 ---

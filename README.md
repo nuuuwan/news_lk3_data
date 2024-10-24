@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 12:58:01**
+As of **2024-10-24 13:09:47**
 
 ## Newspaper Stats
 
-*Scraped **51,112** Articles*
+*Scraped **51,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,757
-adaderanalk | 6,060
+adaderanalk | 6,061
 tamilmirrorlk | 7,046
 virakesarilk | 8,188
-adaderanasinhalalk | 8,874
+adaderanasinhalalk | 8,875
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,112 (100.0%) of 51,112 articles have been extended.
+51,114 (100.0%) of 51,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Couple arrested for breaking the forefathers
+
+*2024-10-24 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202505) · `si`
+
+Couple arrested for fraudulently providing clothes to pre-schoolers. Police claim they operated a money-making scheme involving fake medical services. Both suspects remanded by magistrate court.
+
+🟩
+
+The Mahiyanganaya Police have arrested the Mahiyanganaya Police.
+
+A small daughter and a couple who come to pre-school children for their daughter's birthday had been informed to provide a dress and footwear on their daughter's birthday.
+
+They had taken the pre-school wardens, claiming that the neck of several children had taken measures to provide garments to their children.
+
+According to police, children in pre-schools in the pre-schools in the area of ​​Mahiyanganaya and Rigimaliyadda Divisional Secretariat areas have taken place.
+
+According to the complaints received by the police, the suspect in the Diyatalawa area and the suspect, a resident of Kandana, has been arrested.
+
+Police say that the couple had also had a racket of money that the couple had to do to make surgeries.
+
+The suspect had been remanded after being produced before the Mahiyanganaya Magistrate's Court.
+
+◼️
+
+[Data](articles/16f3b324.json)
+
+[Extended Data](ext_articles/16f3b324.ext.json)
+
+---
+
+### Canada to cut immigration numbers, government source says
+
+*2024-10-24 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102901/-canada-to-cut-immigration-numbers-government-source-says) · `en`
+
+Canada will sharply lower the number of immigrants it allows into the country for the first time in years, marking a notable shift in policy for the government as it tries to remain in power.
+
+Canada will bring in 395,000 new permanent residents in 2025, 380,000 in 2026 and 365,000 in 2027, down from 485,000 in 2024, according to a government source.
+
+The number of temporary residents, meanwhile, will decrease by about 30,000 to around 300,000 in 2025, the source said.
+
+Canada has long prided itself on welcoming newcomers, but in recent years, the national debate around immigrants has shifted in part due to rising housing prices.
+
+Many Canadians have been priced out of the housing market since interest rates started rising two years ago. At the same time, a huge influx of immigrants has pushed Canada’s population to record levels, further boosting housing demand and prices.
+
+...
+
+[Data](articles/cea752f9.json)
+
+[Extended Data](ext_articles/cea752f9.ext.json)
+
+---
 
 ### Namal leaves CID after recording statement
 
@@ -2311,47 +2363,5 @@ Is the “House of Rajapaksa” Falling Down? was the heading of an article writ
 [Data](articles/b22e338c.json)
 
 [Extended Data](ext_articles/b22e338c.ext.json)
-
----
-
-### Attack at Turkey aviation site leaves some dead, injured
-
-*2024-10-23 20:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102888/attack-at-turkey-aviation-site-leaves-some-dead-injured) · `en`
-
-A deadly attack was carried out at the Turkish Aerospace Industries’ headquarters near Ankara on Wednesday, the government said, as broadcasters showed footage of several armed assailants entering the building amid reports of gunfire and a loud explosion.
-
-“A terrorist attack was carried out against the TUSAS facilities in Kahramankazan, Ankara. Unfortunately, we have martyrs and injured people,” Interior Minister Ali Yerlikaya said on social media X, referring to the Aerospace Industries.
-
-The cause and perpetrators of the blast and subsequent gunfire remained unclear. Some media reports claimed a suicide attack had occurred and that there were hostages inside the building. Officials have not confirmed this.
-
-Witnesses told Reuters that employees inside the building were taken by authorities to shelters and no one was permitted to leave. They said bombings may have taken place at different exits as employees were leaving work for the day.
-
-...
-
-[Data](articles/1186c6f3.json)
-
-[Extended Data](ext_articles/1186c6f3.ext.json)
-
----
-
-### Call for 1997 immediately ...
-
-*2024-10-23 20:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடனடியாக-1997-க்கு-அழையுங்கள்/175-345939) · `ta`
-
-Tourist hotline launched: Call 1997 for immediate assistance. Police HQ urges foreigners to report security concerns amid Middle East/Eastern Europe tensions. Special safety program implemented with cooperation from all security forces.
-
-🟩
-
-The telephone number has been launched from today for the protection of all tourists, the police headquarters said.
-
-Accordingly, any tourists can inform the police about their security issue, the police headquarters said.
-
-Considering the extraordinary situation in the Middle East and Eastern Europe, a special program will be prepared and implemented with the cooperation of all security forces to implement a special security program for the safety of foreign tourists, the Police Headquarters said.R
-
-◼️
-
-[Data](articles/02e1b506.json)
-
-[Extended Data](ext_articles/02e1b506.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 10:12:48**
+As of **2024-10-24 10:24:39**
 
 ## Newspaper Stats
 
-*Scraped **51,075** Articles*
+*Scraped **51,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 4,751
 adaderanalk | 6,055
 tamilmirrorlk | 7,037
 virakesarilk | 8,179
-adaderanasinhalalk | 8,869
+adaderanasinhalalk | 8,870
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,073 (100.0%) of 51,075 articles have been extended.
+51,076 (100.0%) of 51,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Namal CID
+
+*2024-10-24 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202500) · `si`
+
+Former MP Namal Rajapaksa appeared before police for questioning on January 24th around 9 AM regarding alleged crimes.
+
+🟩
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා අද (24) පෙරවරු 9ට පමණ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණියේය.
+
+නාමල් රාජපක්ෂ මහතා ප්‍රකාශයක් ලබාදීමට එලෙස පැමිණි බව අප වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/6a8f78f9.json)
+
+[Extended Data](ext_articles/6a8f78f9.ext.json)
+
+---
 
 ### Tarzan comes to life
 
@@ -2395,27 +2415,5 @@ The Security Council does not refer to the exact nature of the threat and call f
 [Data](articles/abd255c7.json)
 
 [Extended Data](ext_articles/abd255c7.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 293.45/55 to dollar, bond yields steady
-
-*2024-10-23 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-45-55-to-dollar-bond-yields-steady-184618/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 293.45/55 to the US dollar Wednesday from 293.23/27 a day earlier, dealers said, while bond yields were steady after a Treasury bill auction earlier in the day.
-
-A bond maturing on 15.12.2026 closed at 10.50/75 percent, up from 10.50/60 percent.
-
-A bond maturing on 15.12.2027 closed at 11.35/50 percent, down from 11.40/55 percent.
-
-A bond maturing on 15.09.2029 closed at 11.95/12.10 percent, up from 11.90/12.05 percent.
-
-Meanwhile the central bank announced that it will issue 32,500 million rupees in Treasury bonds through an auction on October 28. (Colombo/Oct23/2024)
-
-◼️
-
-[Data](articles/5c8c553c.json)
-
-[Extended Data](ext_articles/5c8c553c.ext.json)
 
 ---

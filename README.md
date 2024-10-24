@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 10:24:39**
+As of **2024-10-24 10:39:39**
 
 ## Newspaper Stats
 
-*Scraped **51,076** Articles*
+*Scraped **51,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,122 @@ economynextcom | 3,121
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,751
-adaderanalk | 6,055
-tamilmirrorlk | 7,037
-virakesarilk | 8,179
-adaderanasinhalalk | 8,870
+adaderanalk | 6,056
+tamilmirrorlk | 7,038
+virakesarilk | 8,182
+adaderanasinhalalk | 8,871
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,076 (100.0%) of 51,076 articles have been extended.
+51,082 (100.0%) of 51,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Flood warnings issued for low-lying areas of Nilwala River valley
+
+*2024-10-24 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102896/flood-warnings-issued-for-low-lying-areas-of-nilwala-river-valley) · `en`
+
+The Irrigation Department has issued a flood warning for several low-lying areas of Nilwala River valley, effective until 2.00 a.m. on October 26.
+
+It states that considerable rainfall has occurred in most of the Upstream and Middle Reach catchment areas of Nilwala River Basin as of 1.00 am today (24).
+
+By analyzing the current rainfall situation and river water levels of Hydrological Stations in the Nilwala River, there is a possibility a flood situation occurring in low-lying areas of the Nilwala River valley situated in Pasgoda, Kotapola, Pitabeddara, Akuressa, Athuraliya, Malimbada, Thihagoda, Kamburupitiya, Matara and Devinuwara divisional secretariat (DS) Divisions.
+
+Accordingly, it is requested to pay high attention in this regard by the residents in those areas and motorists driving through those areas.
+
+Disaster Management Authorities are requested to take adequate precautions in this regard.
+
+◼️
+
+[Data](articles/cb184c10.json)
+
+[Extended Data](ext_articles/cb184c10.ext.json)
+
+---
+
+### Floods risk for several areas
+
+*2024-10-24 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202501) · `si`
+
+Flood warnings issued for several areas due to heavy rainfall in Nilwala River basin. Minor flooding reported. Department urges residents and drivers to exercise caution.
+
+🟩
+
+නිල්වලා ගංඟා ද්‍රෝණියේ ඉහළ සහ මධ්‍යම ධාරා ප්‍රදේශවල ස්ථාන කිහිපයකට අද (24) අළුයමදී සැලකියයුතු වර්ෂාපතනයක් ලැබී ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+The department released on this issue said that nearly 100 millimes had received a rainfall.
+
+As a result, a small flood in Nilwala river basin has developed.
+
+In a warning statement, the Department of Introduction further stated that minor floods have been increased by the Dr. Panadugama Dr. Panaduwela.
+
+The Department of Irvades point out that if a significant rainfall will be increased today (24th), it is a risk of growth.
+
+Accordingly, the Colombo-Pittabadara, Akurepola, Pitabodara, Akurepola, Akuregoda, Kamburupitiya, Akurewagoda, Kamburupitiya, Kamburupitiya, Kamburupitiya, Kamburupitiya, Matara and Devinuwara Divisional Secretariat areas floodsA situation may occur.
+
+මේ තත්ත්වය සම්බන්ධයෙන් දැඩි සැලකිල්ලකින් කටයුතු කරන ලෙස එම ප්‍රදේශවල පදිංචි ජනතාවගෙන් සහ ප්‍රදේශ හරහා ගමන් ගන්නා වාහන පදවන්නන්ගෙන් වාරිමාර්ග දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/0b3476c9.json)
+
+[Extended Data](ext_articles/0b3476c9.ext.json)
+
+---
+
+### Two persons arrested for illegally in the Eastern Sea
+
+*2024-10-24 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/196967) · `ta`
+
+Two men arrested in Trincomalee for illegal nighttime fishing. Navy conducted raid on October 21. Suspects aged 39 and 57 years. Boat and equipment seized. Handed over to fisheries inspector for legal proceedings.
+
+🟩
+
+Two persons have been arrested in the Eastern Province for illegally night -time operations in Salliko, Trincomalee.
+
+They were arrested on October 21 during a round -up raid carried out by the Navy.
+
+The Marines are constantly carrying out surveillance activities to prevent illegal fishing in the Sri Lankan -owned maritime and coastal zone.
+
+The suspects belong to the 39 and 57 year old Salli Sampaldee. They have been handed over to the Trincomalee Fisheries Inspector for legal action, along with boat and seized items.
+
+◼️
+
+[Data](articles/444006f6.json)
+
+[Extended Data](ext_articles/444006f6.ext.json)
+
+---
+
+### 16 Indian fishermen arrested for entering Sri Lankan waters
+
+*2024-10-24 10:14:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-கடல்-எல்லைக்குள்-நுழைந்த-16-இந்திய-மீனவர்கள்-கைது/175-345968) · `ta`
+
+Indian fishermen arrested in Sri Lankan waters. 16 detained near Nedundevu sea. To be handed over to Fisheries Department. Fishermen claim frequent arrests. Tamil Nadu and central government urged to intervene.
+
+🟩
+
+16 Tamil Nadu fishermen were arrested by the Sri Lankan navy last night for allegedly entering the Sri Lankan waters.
+
+Navy spokesman Gayan Wickramasuriya said that 8 fishermen in a boat have been arrested on 2 boat and 16 Indian fishermen have been arrested in the Nedundevu sea.
+
+The arrested fishermen will be brought to the Kankesanthurai port and handed over to the Fisheries Department officials today (24).
+
+இந்த நிலையில், இதுகுறித்து பாரம்பரிய இந்திய மீனவர் நலச் சங்கத் தலைவர் வி.பி.சேசுராஜா கூறியதாவது: “கைது செய்யப்பட்ட மீனவர்கள், மீன்வளத் துறையிடம் அனுமதி பெற்று, இரண்டு இயந்திரப் படகுகள் மூலம் ராமேஸ்வரம் கடலுக்கு புதன்கிழமை புறப்பட்டனர்.
+
+மீனவர்கள் அடிக்கடி கைது செய்யப்படுவது வருத்தமளிக்கிறது. The Tamil Nadu and the Central Government should intervene to release them from Sri Lanka. ”
+
+◼️
+
+[Data](articles/833fdb9d.json)
+
+[Extended Data](ext_articles/833fdb9d.ext.json)
+
+---
 
 ### Namal CID
 
@@ -49,6 +151,34 @@ Former MP Namal Rajapaksa appeared before police for questioning on January 24th
 [Data](articles/6a8f78f9.json)
 
 [Extended Data](ext_articles/6a8f78f9.ext.json)
+
+---
+
+### 16 இந்திய மீனவர்கள் கைது
+
+*2024-10-24 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/196965) · `ta`
+
+Sri Lankan navy arrests 16 Tamil Nadu fishermen for illegal fishing near coast. Fishermen had permission from Indian department. Local association condemns arrest. Government intervention sought for release.
+
+🟩
+
+இலங்கை கடற்பரப்புக்குள் அத்துமீறி மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் 16 தமிழக மீனவர்கள் இலங்கை கடற்படையினரால் கைதுசெய்யப்பட்டுள்ளனர்.
+
+Yall. The Sri Lankan navy patrolled the area on Wednesday night (23) night (23) and arrested two Sri Lankan navy and 16 fishermen from it.
+
+The Navy has taken steps to hand over the detainees to the Department of Fisheries and Aquatic Resources for further legal action after investigations.
+
+Indian Fisheries Welfare Association President VP Sesuraja has condemned the arrest of fishermen.
+
+The arrested fishermen obtained permission from the Indian Fisheries Department and went to Rameswaram Sea on Wednesday by two machine boats.
+
+The Sri Lankan navy continues to arrest Tamil Nadu fishermen. He said that the state and central government officials should intervene to release the fishermen from Sri Lanka.
+
+◼️
+
+[Data](articles/8ef3a7c1.json)
+
+[Extended Data](ext_articles/8ef3a7c1.ext.json)
 
 ---
 
@@ -169,6 +299,24 @@ Among the 22 was among the injured in the attack and seven members of the Air Se
 [Data](articles/8c721f09.json)
 
 [Extended Data](ext_articles/8c721f09.ext.json)
+
+---
+
+### Increase in the water level of the Nilwala Ganga;Flood warning to several areas
+
+*2024-10-24 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196964) · `ta`
+
+Nilwala Ganga water level increase causes flooding. Flood warnings issued for multiple areas including Paskoda, Kottabola, Pitabethara, Akuresa, Athura Eliya, Malimbada, Kamburupitiya, Tihagoda, Matara, and Devinuwara.
+
+🟩
+
+Due to this, the Department of Irrigation has issued a flood warning to the Divisional Secretariats of Paskoda, Kottabola, Pitabethara, Akuresa, Athura Eliya, Malimbada, Kamburupitiya, Tihagoda, Matara and Devinuwara.
+
+◼️
+
+[Data](articles/38a30bfa.json)
+
+[Extended Data](ext_articles/38a30bfa.ext.json)
 
 ---
 
@@ -2279,141 +2427,5 @@ Former Minister Johnston Fernando appeared in the Criminal Investigation Departm
 [Data](articles/1e18a54b.json)
 
 [Extended Data](ext_articles/1e18a54b.ext.json)
-
----
-
-### “The powerful government is needed, not the opposition”
-
-*2024-10-23 17:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சக்தி-வாய்ந்த-அரசாங்கமே-தேவை-எதிர்க்கட்சியல்ல/175-345933) · `ta`
-
-President Anura Kumara Dissanayake emphasizes strong government over opposition. He urges support for NPP candidates in Gampaha district. Claims previous agreements need review. Assures stable governance despite critics' predictions of short-term rule.
-
-🟩
-
-President Anura Kumara Dissanayake, at a recent election meeting in Katunayake, urged the people's actions to take action to complete the NPP (National People's Power) in November 14 in the November 14 general election.
-
-In a speech to strengthen the NPP candidates representing the Gampaha district, the President said that a powerful government needs a strong mandate to make sure to make firm decisions.
-
-The President said that many agreements have been made in the past and that they should be reviewed in the past.
-
-"That's all, we need a strong government. The next parliament must be filled by the cleaners.
-
-Responding to criticism that the new government will collapse in a few more months, he said that they are daydreaming for the tendency and that his government will progress uninterrupted until the expectations of the people are met.
-
-◼️
-
-[Data](articles/ceebb1c4.json)
-
-[Extended Data](ext_articles/ceebb1c4.ext.json)
-
----
-
-### Explanation for Johnston Fernando
-
-*2024-10-23 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196939) · `ta`
-
-Former Minister Johnston Fernando detained by court order after arrest by CID. Remanded until 30th for illegal car recovery case.
-
-🟩
-
-The court has ordered the detention of former minister Johnston Fernando, who was arrested by the Criminal Investigation Department.
-
-Johnston Fernando appeared at the Criminal Investigation Department on Wednesday (23) to vote for the recovery of illegal car recovery from a hotel in Colombo.
-
-In this case, the court has ordered Johnston Fernando to be remanded until the 30th.
-
-◼️
-
-[Data](articles/ba479ced.json)
-
-[Extended Data](ext_articles/ba479ced.ext.json)
-
----
-
-### The order received by Johnston reserves
-
-*2024-10-23 17:17:50* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්-රක්ෂිත-බන්ධනාගාර-ගත-කරමින්-දැන්-ලැබුණු-නියෝගය/11-412638) · `si`
-
-Johnston Fernando, former MP, remanded until 30th. Arrested by CID today.
-
-🟩
-
-Former Parliamentarian Johnston Fernando has been remanded until the 30th of this month.
-
-He was arrested by the Criminal Investigations Department this afternoon.
-
-◼️
-
-[Data](articles/dfb86728.json)
-
-[Extended Data](ext_articles/dfb86728.ext.json)
-
----
-
-### Israel asks citizens to leave Sri Lanka coastal towns, hide nationality
-
-*2024-10-23 17:16:00* · [`economynextcom`](https://economynext.com/israel-asks-citizens-to-leave-sri-lanka-coastal-towns-hide-nationality-184608/) · `en`
-
-ECONOMYNEXT – Israel has asked citizens to avoid non-essential travel to Sri Lanka, leave coastal tourist areas including Arugam Bay and stop overt displays of Hebrew language in clothes or other signs that could lead to identification.
-
-The warning came after the US embassy in Colombo warned citizens not to travel to Arugam Bay in the island’s Eastern Coast as there was credible information of an attack.
-
-Acting police chief Priyantha Weerasooriya told reporters that in October 07, intelligence information was given to Sri Lanka and the matter was discussed by Sri Lanka’s National Security Council.
-
-Related US warns citizens off Sri Lanka’s Arugam Bay citing possible attack
-
-“The travel alert for Arugam Bay and the coastal areas in south and west Sri Lanka (including for the cities Ahangame, Galle, Hikkaduwa and Weligama) has been raised to level 4,” the Israel’s National Security Council said in a statement.
-
-...
-
-[Data](articles/44faa2f3.json)
-
-[Extended Data](ext_articles/44faa2f3.ext.json)
-
----
-
-### Former Minister Johnston Fernando remanded
-
-*2024-10-23 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102885/former-minister-johnston-fernando-remanded-) · `en`
-
-Former Minister Johnston Fernando, who was arrested by the CID over the incident of a luxury vehicle allegedly belonging to him found parked at a star-class hotel premises, has been remanded until October 30 by Colombo Fort Magistrate.
-
-He has been arrested by the Criminal Investigation Department (CID) over the possession of an illegally assembled luxury vehicle and produced before the Colombo Fort Magistrate’s Court this evening.
-
-The Former MP was arrested after he had arrived at the CID this morning (23) to provide a statement regarding the unregistered BMW car, allegedly belonging to him, which was recently found suspiciously parked at a star-class hotel in Colombo.
-
-A petition filed by Fernando, seeking an order to prevent his arrest over the incident, was taken up for consideration yesterday (22).
-
-During the hearing, his attorneys informed the court that Fernando was prepared to appear before the CID today to give a statement on the matter.
-
-...
-
-[Data](articles/b4b27611.json)
-
-[Extended Data](ext_articles/b4b27611.ext.json)
-
----
-
-### Notifying the Israelites immediately
-
-*2024-10-23 17:15:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலியர்களை-உடனடியாக-வெளியேறுமாறு-அறிவித்தல்/175-345931) · `ta`
-
-Israel warns tourists: Avoid Sri Lanka beaches due to terror threats. National Security Council advises caution in public gatherings. Defense Ministry monitoring situation closely.
-
-🟩
-
-The Israeli National Security Council announced on Wednesday to the Israeli to leave some tourist areas in Sri Lanka due to the threat of terrorist attacks.
-
-The company said the warning on the beaches of the Gulf of Health and the southern and west of Sri Lanka was issued on the basis of "the threat of terrorism centered on tourism and beaches."
-
-The Security Council does not refer to the exact nature of the threat and call for warning the Israelites in other parts of Sri Lanka and to avoid holding major meetings in public places.
-
-“Israeli Defense Organization ... He is in close contact with the security officials in Sri Lanka and is following the progress of the situation. ”
-
-◼️
-
-[Data](articles/abd255c7.json)
-
-[Extended Data](ext_articles/abd255c7.ext.json)
 
 ---

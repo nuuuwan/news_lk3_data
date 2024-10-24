@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 11:11:36**
+As of **2024-10-24 11:40:18**
 
 ## Newspaper Stats
 
-*Scraped **51,084** Articles*
+*Scraped **51,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,129 @@ dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,752
 adaderanalk | 6,057
-tamilmirrorlk | 7,038
-virakesarilk | 8,182
+tamilmirrorlk | 7,040
+virakesarilk | 8,186
 adaderanasinhalalk | 8,871
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,084 (100.0%) of 51,084 articles have been extended.
+51,090 (100.0%) of 51,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### 23 thousand tons of copper;Customs by Customs!
+
+*2024-10-24 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/196968) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Copper worth ₹50 crore seized from Hong Kong-bound shipment. Officials investigating illegal export from factory in Paleiakota area.
+
+🟩
+
+செப்பு குாழாய் பொருத்திகளை கப்பலில் ஹொங்கொங்கிற்கு அனுப்புவதாகக் கூறி சுமார் ஐந்து கோடி ரூபா பெறுமதியான 23,000 தொன் செப்பு உலோகத்தை அனுப்பத் தயாராகிக்கொண்டிருந்த போது சுங்க அதிகாரிகளால் நேற்று புதன்கிழமை (23) கைப்பற்றப்பட்டுள்ளது.
+
+Customs officials have seized copper metal containers in the export terminal.
+
+பேலியகொட பகுதியில் உள்ள தொழிற்சாலை ஒன்றில் இருந்து செப்பு உலோகங்களை உருக்கி, ஏற்றுமதி செய்யப்பட்டுள்ளமை  சுங்க அதிகாரிகளின் விசாரணையில் இருந்து தெரியவந்துள்ளது.
+
+Customs officials are conducting further investigations into the seized copper reserves.
+
+◼️
+
+[Data](articles/55831db2.json)
+
+[Extended Data](ext_articles/55831db2.ext.json)
+
+---
+
+### Vanni Mothers meet the president's northern representative
+
+*2024-10-24 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196972) · `ta`
+
+A group of Tamil mothers led by the war -torn Mullaitivu district have asked the new president's provincial representative to take action to release their lands occupied by state institutions, including the military, for many years.
+
+Mullaitivu Tamils ​​have come to the Northern Province Governor's Office in Jaffna yesterday (21) demanding the release of the lands of Keppapulavu Tamils ​​who were seized in Mullaitivu and the land of the Mahaweli L (L) Zone.
+
+Only two members of the group from Mullaitivu have had the opportunity to discuss with the new Governor Nagalingam Vedanayake appointed by President Anura Kumara Dissanayake.
+
+Vivekanandan Indrani, speaking to the media after a discussion with the provincial governor, says that even after the end of the war, five presidents were in office in the country.
+
+...
+
+[Data](articles/2eb3deb9.json)
+
+[Extended Data](ext_articles/2eb3deb9.ext.json)
+
+---
+
+### Increase in the water level of the Nilwala Ganga;Flood warning to several areas
+
+*2024-10-24 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/196964) · `ta`
+
+Nilwala Ganga water level increase causes flooding. Flood warnings issued for multiple areas including Paskoda, Kottabola, Pitabethara, Akuresa, Athura Eliya, Malimbada, Kamburupitiya, Tihagoda, Matara, and Devinuwara.
+
+🟩
+
+Due to this, the Department of Irrigation has issued a flood warning to the Divisional Secretariats of Paskoda, Kottabola, Pitabethara, Akuresa, Athura Eliya, Malimbada, Kamburupitiya, Tihagoda, Matara and Devinuwara.
+
+◼️
+
+[Data](articles/38a30bfa.json)
+
+[Extended Data](ext_articles/38a30bfa.ext.json)
+
+---
+
+### Suspect arrested for breaking houses in Kalutara
+
+*2024-10-24 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/196966) · `ta`
+
+Kalutara: Suspect arrested for housebreaking, stolen gold worth 1.5 million recovered. Additional investigations ongoing.
+
+🟩
+
+A suspect has been arrested on Wednesday (23) for stealing property in the Thekkawatte area of ​​the Kalutara Southern Police Division.
+
+கைது செய்யப்பட்ட சந்தேக நபர் களுத்துறை தெற்கு தேக்கவத்தை பகுதியைச் சேர்ந்த "மிஹிகடவத்தை பகலா”  என அழைக்கப்படும் 35 வயதுடையவராவார்.
+
+சந்தேகநபர் நீண்டகாலமாக வீடுகளுக்குள் புகுந்து திருடுவது தொடர்பாக களுத்துறை குற்றப்புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது  களுத்துறை மிஹிகடவத்தை பிரதேசத்தில் உள்ள அவரது வீட்டில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேகநபர் வீடுகளில் இருந்து திருடப்படி விற்ற சுமார்  15 இலட்சம் பெறுமதியான தங்கப் பொருட்களை பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+மேலும்,  6 கைத்தொலைபேசிகள், கைத்தொலைபேசியின் பாகங்கள் மற்றும் பல்வேறு நபர்களுக்கு விற்பனை செய்து மறைத்து வைக்கப்பட்டிருந்த இலத்திரனியல் உபகரணங்கள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+...
+
+[Data](articles/af130f54.json)
+
+[Extended Data](ext_articles/af130f54.ext.json)
+
+---
+
+### சிஐடியில் முன்னிலையானார் நாமல் ராஜபக்ஷ
+
+*2024-10-24 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/196969) · `ta`
+
+Namal Rajapakse, former Sri Lankan parliamentarian, appeared at CID headquarters on Thursday morning to provide a statement.
+
+🟩
+
+Former Parliamentarian Namal Rajapakse appeared before the Criminal Investigation Department on Thursday morning to make a statement.
+
+◼️
+
+[Data](articles/4e3ae5c4.json)
+
+[Extended Data](ext_articles/4e3ae5c4.ext.json)
+
+---
 
 ### Namal Rajapaksa arrives at CID
 
@@ -47,6 +157,30 @@ In response to further inquiries, he stated, “I don’t know the matter.  It�
 [Data](articles/14e7e7f8.json)
 
 [Extended Data](ext_articles/14e7e7f8.ext.json)
+
+---
+
+### Call for foreign tourists
+
+*2024-10-24 10:19:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வௌிநாட்டு-சுற்றுலா-பயணிகளுக்கு-அழைப்பு/175-345970) · `ta`
+
+Sri Lanka invites foreign tourists without fear, emphasizing maximum security measures. The Tourism Promotion Unit assures safety for current visitors. US Embassy warns of potential attacks.
+
+🟩
+
+எந்தவித அச்சமும் இன்றி இலங்கைக்கு சுற்றுலாப் பயணம் மேற்கொள்ளுமாறு வௌிநாட்டு சுற்றுலா பயணிகளுக்கு இலங்கை  சுற்றுலா ஊக்குவிப்பு பிரிவு பகிரங்க அழைப்பு விடுத்துள்ளது.
+
+In Sri Lanka, the Division has pointed out that the Ministry of Defense has taken steps to provide maximum security to tourists.
+
+The Tourism Promotion Unit has not threatened the safety of tourists currently staying in Sri Lanka.
+
+The US Embassy in Colombo said yesterday (23) that he had received reliable information that the attack could be attacked.
+
+◼️
+
+[Data](articles/8d208ae8.json)
+
+[Extended Data](ext_articles/8d208ae8.ext.json)
 
 ---
 
@@ -149,6 +283,32 @@ The arrested fishermen will be brought to the Kankesanthurai port and handed ove
 [Data](articles/833fdb9d.json)
 
 [Extended Data](ext_articles/833fdb9d.ext.json)
+
+---
+
+### 16 Indian fishermen arrested
+
+*2024-10-24 10:14:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-இந்திய-மீனவர்கள்-கைது/175-345968) · `ta`
+
+Indian fishermen arrested by Sri Lankan navy for alleged illegal entry. 16 detained, to be handed over to fisheries department. Fishermen claim they had permission to fish in Ramaswaram waters. Tamil Nadu government urged to intervene for release.
+
+🟩
+
+16 Tamil Nadu fishermen were arrested by the Sri Lankan navy last night for allegedly entering the Sri Lankan waters.
+
+Navy spokesman Gayan Wickramasuriya said that 8 fishermen in a boat have been arrested on 2 boat and 16 Indian fishermen have been arrested in the Nedundevu sea.
+
+The arrested fishermen will be brought to the Kankesanthurai port and handed over to the Fisheries Department officials today (24).
+
+இந்த நிலையில், இதுகுறித்து பாரம்பரிய இந்திய மீனவர் நலச் சங்கத் தலைவர் வி.பி.சேசுராஜா கூறியதாவது: “கைது செய்யப்பட்ட மீனவர்கள், மீன்வளத் துறையிடம் அனுமதி பெற்று, இரண்டு இயந்திரப் படகுகள் மூலம் ராமேஸ்வரம் கடலுக்கு புதன்கிழமை புறப்பட்டனர்.
+
+It is sad that fishermen are frequently arrested. The Tamil Nadu and the Central Government should intervene to release them from Sri Lanka. ”
+
+◼️
+
+[Data](articles/e80baa26.json)
+
+[Extended Data](ext_articles/e80baa26.ext.json)
 
 ---
 
@@ -317,24 +477,6 @@ Among the 22 was among the injured in the attack and seven members of the Air Se
 [Data](articles/8c721f09.json)
 
 [Extended Data](ext_articles/8c721f09.ext.json)
-
----
-
-### Increase in the water level of the Nilwala Ganga;Flood warning to several areas
-
-*2024-10-24 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196964) · `ta`
-
-Nilwala Ganga water level increase causes flooding. Flood warnings issued for multiple areas including Paskoda, Kottabola, Pitabethara, Akuresa, Athura Eliya, Malimbada, Kamburupitiya, Tihagoda, Matara, and Devinuwara.
-
-🟩
-
-Due to this, the Department of Irrigation has issued a flood warning to the Divisional Secretariats of Paskoda, Kottabola, Pitabethara, Akuresa, Athura Eliya, Malimbada, Kamburupitiya, Tihagoda, Matara and Devinuwara.
-
-◼️
-
-[Data](articles/38a30bfa.json)
-
-[Extended Data](ext_articles/38a30bfa.ext.json)
 
 ---
 
@@ -2275,153 +2417,5 @@ Considering the arguments made by the incident, the magistrate put the accident 
 [Data](articles/c4459503.json)
 
 [Extended Data](ext_articles/c4459503.ext.json)
-
----
-
-### Here is complete information about Arugam's incident
-
-*2024-10-23 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202477) · `si`
-
-Arugam incident summary: Acting IGP Priyantha Weerasuriya stated intelligence received threats against Sri Lanka. Defense Council discussed security measures for foreigners and religious sites. Police, STF, and intelligence officers implemented security plans. No threat to locals confirmed.
-
-🟩
-
-Acting IGP Priyantha Weerasuriya made a special statement today (23) regarding the security of arugam.
-
-"Intelligence has made a well-endancious duties because Sri Lanka has any threat to Sri Lanka. By October 7, we received intelligence. "
-
-The Defense Council discussed three weeks after the JANPL. It was advised. "
-
-"Police, STF, intelligence officers provided the security of the foreigners and safeguards in those foreigners, security and religious places."
-
-"The security measures have launched a security plan from yesterday (22). The reason is that the information is specified. "
-
-"The Security Council met this morning. The heads of the Defense Forces and Commanders also discussed there. The information received by the information received confirmed the security of foreigners. The embassies informed us in this regard. "
-
-"There is no threat to local individuals locally and not."
-
-◼️
-
-[Data](articles/643929c5.json)
-
-[Extended Data](ext_articles/643929c5.ext.json)
-
----
-
-### Acting IGP assures security of foreigners in Sri Lanka
-
-*2024-10-23 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102887/acting-igp-assures-security-of-foreigners-in-sri-lanka) · `en`
-
-Sri Lanka’s Acting Inspector General of Police (IGP) Priyantha Weerasooriya stated that the security of all foreigners in the country has been assured and that diplomatic missions have been informed.
-
-He made these comments while addressing a special press conference today (23) at the Polonnaruwa SSP’s Office, regarding the security measures taken following the information received warning of a possible attack targeting popular tourist locations in the Arugam Bay area.
-
-“As there was a suspicion that there could also be a threat to Sri Lanka, the intelligence agencies did very good surveillance duties in that regard. We received intelligence regarding that by October 07.”
-
-The Acting IGP said that the possibility of attempts to carry out attacks targeting a specific nationality of tourists was discussed in the Security Council chaired by the President from 3 weeks ago. “We received instructions in that regard.”
-
-...
-
-[Data](articles/0a81913b.json)
-
-[Extended Data](ext_articles/0a81913b.ext.json)
-
----
-
-### Breast Cancer Awareness Walker in Mannar - Nanatan
-
-*2024-10-23 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/196938) · `ta`
-
-Breast Cancer Awareness Walk in Mannar: Event summary (200 chars)
-
-🟩
-
-Breast Cancer Awareness Walking in the Mannar Nanatan Health Officer Division was held on Wednesday (23).
-
-The awareness walk was launched at Murugan Road at 9.30 am today, led by Nanatan Health Medical Officer, led by Nanattan Health Medical Officer.
-
-The event was attended by Mannar Deputy Health Medical Officer Dr. Osman Deni, Nanattan Madhu Health Officers and Staff, Nanattan Public Health Officers, Nanatan Pradeshiya Sabha and Divisional Secretariat Officers and many others.
-
-◼️
-
-[Data](articles/3507bf3b.json)
-
-[Extended Data](ext_articles/3507bf3b.ext.json)
-
----
-
-### Order to accept the denied nomination
-
-*2024-10-23 17:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மறுக்கப்பட்ட-வேட்புமனுவை-ஏற்குமாறு-உத்தரவு/175-345934) · `ta`
-
-Sri Lanka High Court orders Elections Commission to accept nomination for 2024 general election after rejecting candidate's papers due to improper submission. Candidate petitions court, arguing documents were correctly submitted. Supreme Court rules rejection was unlawful, ordering Elections Commission to recognize candidacy.
-
-🟩
-
-The Sri Lankan High Court today ordered the Elections Commission to accept the nomination of Pararajasingham Udayarasa of the Democratic National Alliance for the 2024 general election.
-
-Pararajasingham from the Vanni district had earlier been rejected by the Vanni Election Officer saying that the nomination papers of Udayarasa were not formally submitted.
-
-Subsequently, a petition was filed in the High Court by Pararajasingham Udayarasa and both.
-
-The petitioners said that although all the documents were properly submitted, the district election officer, Pararajasingham Udayarasa's nomination papers.
-
-The petitioners demanded that the decision of the District Election Officer be contrary to the law and order the decision to not be valid.
-
-Considering the facts, the Supreme Court ruled that the decision taken to reject Pararajasingham Udayarasa's candidature was contrary to the law.
-
-...
-
-[Data](articles/1b6eacd6.json)
-
-[Extended Data](ext_articles/1b6eacd6.ext.json)
-
----
-
-### Order to accept Udayarasa's nomination
-
-*2024-10-23 17:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உதயராசாவின்-வேட்புமனுவை-ஏற்குமாறு-உத்தரவு/175-345934) · `ta`
-
-Sri Lanka High Court orders Elections Commission to accept nomination of Pararajasingham Udayarasa for 2024 general election after rejecting it due to improper submission.
-
-🟩
-
-The Sri Lankan High Court today ordered the Elections Commission to accept the nomination of Pararajasingham Udayarasa of the Democratic National Alliance for the 2024 general election.
-
-Pararajasingham from the Vanni district had earlier been rejected by the Vanni Election Officer claiming that the nomination papers were not formally submitted.
-
-Subsequently, a petition was filed in the High Court by Pararajasingham Udayarasa and both.
-
-The petitioners said that although all the documents were properly submitted, the district election officer, Pararajasingham, rejected Udayarasa's nomination.
-
-The petitioners demanded that the decision of the District Election Officer be contrary to the law and order the decision to not be valid.
-
-Considering the facts, the Supreme Court ruled that Pararajasingham's decision to reject Udayarasa's candidature was contrary to the law.
-
-...
-
-[Data](articles/66fb8e5b.json)
-
-[Extended Data](ext_articles/66fb8e5b.ext.json)
-
----
-
-### Acting Inspiration Inspector General of Arugamse
-
-*2024-10-23 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202476) · `si`
-
-Acting IGP Priyantha Weerasuriya stated foreigner safety in Sri Lanka. He ensured all embassies were informed about this assurance.
-
-🟩
-
-Acting IGP Priyantha Weerasuriya made a special statement on arugamic protection.
-
-He said he had established the safety of all the foreigners in the country and all embassies have been informed of it.
-
-◼️
-
-[Data](articles/12f36d3f.json)
-
-[Extended Data](ext_articles/12f36d3f.ext.json)
 
 ---

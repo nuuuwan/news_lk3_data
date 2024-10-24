@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 08:02:22**
+As of **2024-10-24 08:22:56**
 
 ## Newspaper Stats
 
-*Scraped **51,043** Articles*
+*Scraped **51,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 410
 colombotelegraphcom | 510
 bbccomsinhala | 517
-islandlk | 3,034
+islandlk | 3,038
 economynextcom | 3,121
-dailyftlk | 3,489
+dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,748
+adalk | 4,749
 adaderanalk | 6,050
-tamilmirrorlk | 7,028
+tamilmirrorlk | 7,031
 virakesarilk | 8,179
 adaderanasinhalalk | 8,861
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 8,861
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,036 (100.0%) of 51,043 articles have been extended.
+51,043 (100.0%) of 51,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Plan to attack Israelis: two arrested in Batticaloa
+
+*2024-10-24 07:45:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலியர்களை-தாக்க-திட்டம்-மட்டக்களப்பில்-இருவர்-கைது/175-345961) · `ta`
+
+Two arrests made in Batticaloa over Israeli attack plot. Intelligence warns of potential threat against Israelis in Sri Lanka.
+
+🟩
+
+Two persons have been arrested by the Terrorist Investigation Division in Batticaloa as an intelligence warning has been issued that it is planning to attack the Israelis in Sri Lanka.
+
+Two men from Kurunegala area have been arrested for allegedly walking in the nearby area of ​​Zion Church in Batticaloa, police said.. (A)
+
+◼️
+
+[Data](articles/cc74eaee.json)
+
+[Extended Data](ext_articles/cc74eaee.ext.json)
+
+---
+
+### Indian intelligence agencies were first warned
+
+*2024-10-24 07:39:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-புலனாய்வு-அமைப்புகளே-முதலில்-எச்சரித்தன/175-345960) · `ta`
+
+Indian intelligence warns Sri Lanka about potential attacks on Israelis. Report received on October 7. Two suspects identified, one linked to Iraq. Names of relevant individuals provided. Attack allegedly planned recently.
+
+🟩
+
+Sri Lankan security forces have been warned by Indian intelligence agencies to attack Israeli
+
+Inspector General of Police Priyantha Weerasuriya said that the intelligence report on threats was first received on October 7.
+
+He said that we have information that we have the potential to attack foreign nationals.
+
+It was reported that two Sri Lankans were ready to carry out the attack.One is also said to be a base of Iraq.
+
+The Indian Intelligence Agency has provided all the relevant information, including the names of the relevant persons.
+
+According to reports, the attack is scheduled to be revealed in the recent past in the recent past.. (A)
+
+◼️
+
+[Data](articles/043b8b81.json)
+
+[Extended Data](ext_articles/043b8b81.ext.json)
+
+---
+
+### J. Sreeranga Pre -Refusal
+
+*2024-10-24 07:30:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜே-ஸ்ரீரங்காவிற்கு-முன்பிணை-மறுப்பு/175-345959) · `ta`
+
+Colombo Magistrate rejects ex-MP J. Sri Ranga's plea, citing government attorney's arguments. Police action against him upheld.
+
+🟩
+
+Mannar High Court Judge MMM. Colombo Chief Magistrate Thilina Kamage has refused to provide a former parliamentarian J. Sri Ranga, suspected of printing and displaying a slander poster in Colombo against Mihal.
+
+The plea has been rejected only after the reasons for the Government Attorney Jagoda Arachchi on behalf of the Colombo Crime Branch were taken up yesterday.
+
+The petition has been rejected by the Colombo Crime Branch filed by Sri Ranga seeking a precedent as the police have taken steps to arrest him.. (A)
+
+◼️
+
+[Data](articles/422ac465.json)
+
+[Extended Data](ext_articles/422ac465.ext.json)
+
+---
 
 ### Chinese chief meets President Secretary
 
@@ -230,6 +300,8 @@ Considering the global and national importance of Supply Chain Management (SCM) 
 
 [Data](articles/96578a74.json)
 
+[Extended Data](ext_articles/96578a74.ext.json)
+
 ---
 
 ### Hameed Ashraff appointed to EDB Board
@@ -247,6 +319,8 @@ Ashraff also served as Director of Bank of Ceylon Property Development and Manag
 ...
 
 [Data](articles/1aefceb3.json)
+
+[Extended Data](ext_articles/1aefceb3.ext.json)
 
 ---
 
@@ -400,21 +474,31 @@ During the hearing, Udayarasa, along with two other petitioners, argued that all
 
 ---
 
-### டானா புயல்: கொல்கத்தா விமான நிலையத்திற்கு பூட்டு
+### Dana Storm: Lock to Kolkata Airport
 
 *2024-10-24 02:38:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டானா-புயல்-கொல்கத்தா-விமான-நிலையத்திற்கு-பூட்டு/175-345954) · `ta`
 
-வடக்கு அந்தமான் கடற்பகுதியில் நிலவிய வளிமண்டல கீழடுக்கு சுழற்சி காரணமாக, மத்திய கிழக்கு வங்காள விரிகுடா மற்றும் அதனை அண்மித்த வடக்கு அந்தமான் கடற்பகுதிகளில் காற்றழுத்த தாழ்வு பகுதி உருவானது.
+Here's a 200-character summary:
 
-இந்த காற்றழுத்த தாழ்வுப் பகுதி மேற்கு - வடமேற்கு திசையில் நகர்ந்து, மத்திய கிழக்கு வங்காள விரிகுடா பகுதிகளில், காற்றழுத்த தாழ்வு மண்டலமாக வலுப்பெற்றுள்ளது.
 
-டானா புயல் இன்று அதிகாலையில் வடமேற்கு வங்காள விரிகுடாவில் தீவிர புயலாக வலுப்பெறும் என இந்திய வானிலை ஆய்வு மையம் அறிவித்துள்ளது.
 
-இதனால் முன்னெச்சரிக்கையாகக் கொல்கத்தா விமான நிலையம், இன்று இரவு 8 மணி முதல் 15 மணி நேரத்திற்கு மூடப்படுவதாக அறிவிக்கப்பட்டுள்ளது. (a)
+Dana Storm intensifies over NW Bengal Bay. Kolkata Airport closure from 8pm to 3pm due to strong winds and low-lying areas. Atmospheric rotation in Andaman Sea contributes to storm formation.
+
+🟩
+
+Due to the atmospheric rotation in the northern Andaman Sea, the Middle East Bengal bay and the neighboring northern Andaman seas have been formed.
+
+The windmill has moved in the western and northwestern direction and has strengthened the Middle East Bengal Bays as a low -lying zone.
+
+The Indian Meteorological Department has announced that the Dana Storm will be strengthened in the northwestern Bengal bay early this morning.
+
+As a result, Kolkata Airport is expected to be closed from 8 pm to 15 pm tonight.. (A)
 
 ◼️
 
 [Data](articles/fbaa4ae5.json)
+
+[Extended Data](ext_articles/fbaa4ae5.ext.json)
 
 ---
 
@@ -536,6 +620,22 @@ A slightly landslide has occurred in the back of the two -storey building runnin
 
 ### 2024-10-23 (Wednesday)
 
+### Terror attacks threat proves initial setback for bourse
+
+*2024-10-23 23:21:00* · [`islandlk`](http://island.lk/terror-attacks-threat-proves-initial-setback-for-bourse/) · `en`
+
+The stock market was hamstrung initially yesterday due to the US embassy in Colombo issuing a negative travel advisory to US tourists visiting local holiday resort, Arugam Bay, stemming from credible suspicion of a terror strike similar to the Bali attack in Indonesia on October 12, 2002, but later bounced back, market analysts said.
+
+Latterly both indices moved upwards. The All Share Price Index went up by 57.4 points while S and P SL20 rose by 46.9 points. Turnover stood at Rs 2.3 billion with a high number of crossings.
+
+...
+
+[Data](articles/676aab69.json)
+
+[Extended Data](ext_articles/676aab69.ext.json)
+
+---
+
 ### Threatening the national security of the country?
 
 *2024-10-23 23:19:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-தேசிய-பாதுகாப்புக்கு-அச்சுறுத்தல்/175-345952) · `ta`
@@ -615,6 +715,24 @@ This decision has been taken by taking into consideration the heavy rain that oc
 [Data](articles/19ebbaad.json)
 
 [Extended Data](ext_articles/19ebbaad.ext.json)
+
+---
+
+### ශ්‍රී ලංකාව හමුවේ ​කොදෙව්වන් දෙවන එක්දින තරගයත් පරාජයට පත්වෙයි
+
+*2024-10-23 22:32:11* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකාව-හමුවේ-​කොදෙව්වන්-දෙවන-එක්දින-තරගයත්-පරාජයට-පත්වෙයි/9-412650) · `si`
+
+සංචාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායමට එරෙහිව පැවති දෙවැනි එක්දින ක්‍රිකට් තරගයෙන් කඩුලු 05ක ජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායම මීට සුළු මොහොතකට පෙර සමත් විය.
+
+ඒ අනුව තරග තුනකින් සමන්විත එක්දින ක්‍රිකට් තරගාවලිය තවත් එක් තරගයක් ඉතිරිව තිබියදී තරග දෙකට බිංදුවක් ලෙස ජය ගැනීමට ශ්‍රී ලංකාවට හැකි විය.
+
+මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් බටහිර ඉන්දීය කොදෙව් කණ්ඩායම පන්දුවාර 39ක් අවසානයේ සියලුදෙනා දැවී ලකුණු 189ක් රැස් කළහ.
+
+ඊට පිළිතුරු ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 38යි පන්දු දෙකක් අවසානයේ කඩුලු 05ක් පමණක් දැවී ලකුණු 190ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළහ.
+
+◼️
+
+[Data](articles/ea1c4ac6.json)
 
 ---
 
@@ -2259,127 +2377,5 @@ Accordingly, 738,050 people have been given the opportunity for postal voting. T
 [Data](articles/7125ee60.json)
 
 [Extended Data](ext_articles/7125ee60.ext.json)
-
----
-
-### Sri Lanka sells Rs125bn in treasury bills, yields steady across maturities
-
-*2024-10-23 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs125bn-in-treasury-bills-yields-steady-across-maturities-184564/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were flat across maturities at Wednesday’s auction with all offered 125 billion rupees of bills sold, data from the debt office showed.
-
-The 3-month yield held steady at 9.32 percent, with 40 billion offered and 66.4 billion rupees bills sold.
-
-The 6-month yield held steady at 9.65 percent, with 42.5 billion offered and 45.7 billion rupees of bills sold.
-
-The 12-month bills held steady at 9.95 percent, with 42.5 billion offered and 12.8 billion rupees of bills sold.
-
-The 6 and 9 month bills are available on tap after the auction. (Colombo/Oct23/2024)
-
-◼️
-
-[Data](articles/0bc3e2c2.json)
-
-[Extended Data](ext_articles/0bc3e2c2.ext.json)
-
----
-
-### Sri Lanka sells Rs125bn in treasury bills, yields steady across maturities
-
-*2024-10-23 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs125mn-in-treasury-bills-yields-steady-across-maturities-184564/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were flat across maturities at Wednesday’s auction with all offered 125 billion rupees of bills sold, data from the debt office showed.
-
-The 3-month yield held steady at 9.32 percent, with 40 billion offered and 66.4 billion rupees bills sold.
-
-The 6-month yield held steady at 9.65 percent, with 42.5 billion offered and 45.7 billion rupees of bills sold.
-
-The 12-month bills held steady at 9.95 percent, with 42.5 billion offered and 12.8 billion rupees of bills sold.
-
-The 6 and 9 month bills are available on tap after the auction. (Colombo/Oct23/2024)
-
-◼️
-
-[Data](articles/c1bfff86.json)
-
-[Extended Data](ext_articles/c1bfff86.ext.json)
-
----
-
-### More details revealed after Kelaniya Uni. Student falls to death
-
-*2024-10-23 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102880/more-details-revealed-after-kelaniya-uni-student-falls-to-death) · `en`
-
-It has been revealed that the student who fell to his death from an upper floor of the C.W.W. Kannangara Hostel at the University of Kelaniya had been consuming alcohol excessively.
-
-Speaking at a press conference held today (23), Police Spokesman DIG Nihal Thalduwa stated that the student had been drinking alcohol within the university premises.
-
-He also mentioned that an alcohol-fueled party had been held last night (22) to celebrate a fellow student’s birthday.
-
-After the party, the intoxicated student was taken to his room located on the fourth floor of the C.W.W. Kannangara Hostel, while the other friends had then left the area.
-
-According to the Police Media Spokesman, it is suspected that the student may have fallen from the window of the hotel room due to excessive consumption of alcohol.
-
-He added that the magistrate is set to inspect the room where the incident had occurred, and the Government Analyst and Judicial Medical Officer (JMO) have also been called to the scene.
-
-...
-
-[Data](articles/0879d128.json)
-
-[Extended Data](ext_articles/0879d128.ext.json)
-
----
-
-### Repeatedly rape: teacher arrested
-
-*2024-10-23 15:25:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலமுறை-பலாத்காரம்-ஆசிரியர்-கைது/175-345929) · `ta`
-
-Teacher accused of repeatedly raping 16-year-old student in Sri Lanka. Arrested after parents report incident. Victim hospitalized. Police investigating. Parents threaten legal action if perpetrator not punished.
-
-🟩
-
-The shocking incident has shocked a 16 -year -old schoolgirl, who has been raped by a 16 -year -old schoolgirl under the Welikanda Education Division of Dimbukalala.
-
-Welikanda police said that the teacher was arrested on Tuesday (22) based on a complaint made by the victim's parents in connection with the incident.
-
-Police said that the 25 -year -old unmarried person who came to teach mathematics from Anuradhapura. When it is revealed more than the incident,
-
-It is also reported that the parents of the math have been related to the math and the telephone soundtrack spoke to her girlfriend about the incidents of her rape by the teacher.
-
-Parents have informed the police that if the suspect is not arrested and punished, the Prime Minister and all departments will be informed of the security of the children in the area.
-
-The girl has been admitted to the Welikanda Divisional Hospital and has been transferred to the Polonnaruwa General Hospital for examination.
-
-...
-
-[Data](articles/bbb9f971.json)
-
-[Extended Data](ext_articles/bbb9f971.ext.json)
-
----
-
-### Bore. Two suspects arrested near Zion Church
-
-*2024-10-23 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196919) · `ta`
-
-Two suspects arrested near Zion Church in Batticaloa. Police detained 35-year-old and 25-year-old after public tip-off. Fingerprint identification confirmed their identities.
-
-🟩
-
-Police have arrested two persons from the Kurunegala area who were suspiciously located in the nearby area of ​​Batticaloa.
-
-A Muslim from Kurunegala has been contacted with a teacher at the newly constructed Zion Church on the Mantasa Road, Batticaloa to cure the eloquent disease in the eye.
-
-Subsequently, the sick man and the two were traveling from Kurunegala to help him and arrived in Batticaloa this morning.
-
-In this case, the public, who observed the suspicion, informed the police and immediately arrested the two men, aged 35 and 25.
-
-Police said they were identified as the fingerprint of the two arrested on suspicion.
-
-◼️
-
-[Data](articles/66e30b6f.json)
-
-[Extended Data](ext_articles/66e30b6f.ext.json)
 
 ---

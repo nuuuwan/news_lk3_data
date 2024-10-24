@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 12:25:56**
+As of **2024-10-24 12:39:41**
 
 ## Newspaper Stats
 
-*Scraped **51,107** Articles*
+*Scraped **51,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,755
 adaderanalk | 6,059
-tamilmirrorlk | 7,044
+tamilmirrorlk | 7,046
 virakesarilk | 8,188
 adaderanasinhalalk | 8,874
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,107 (100.0%) of 51,107 articles have been extended.
+51,109 (100.0%) of 51,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### "Iyappa devotees need to ship"
+
+*2024-10-24 12:20:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐயப்ப-பக்தர்களுக்கு-கப்பல்-வேண்டும்/175-345981) · `ta`
+
+Iyappa devotees face high air ticket costs when traveling to Sabarimala from Sri Lanka. To address this issue, Minister Douglas Devananda is establishing a shipping service between Kankesanthurai and Karaikudi, reducing transportation costs. This initiative aims to make Iyappa pilgrimage more accessible to devotees from Sri Lanka.
+
+🟩
+
+The number of devotees traveling to Sabarimala annually from Sri Lanka is increasing. The Indian government is also offering a free visa for Iyappa pilgrimage. Many devotees have told the National List Member of the Eelam People's Democratic Party Babu Sharma that most of the pilgrims are in trouble due to the high cost of air tickets during their journey.
+
+Due to the efforts of Minister Douglas Devananda, the shipping service between the Kankesan Department and Karaikudi is underway.. At the same time, the cost of transportation is low.
+
+At the same time, the pilgrims have also appealed to Babu Sharma to the pilgrims not only for all the devotees of Colombo, but to all the devotees of Colombo to establish the shipping service through Douglas Devananda.
+
+Douglas Devananda has also made efforts to establish the consulate in Kerala for the benefit of the devotees.
+
+...
+
+[Data](articles/e86b8077.json)
+
+[Extended Data](ext_articles/e86b8077.ext.json)
+
+---
+
+### The Canadian government issued
+
+*2024-10-24 12:18:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனேடிய-அரசாங்கம்-விடுத்துள்ள-எச்சரிக்கை/175-345980) · `ta`
+
+Canadian government warns travelers about protests, terrorism, and crime risks in Sri Lanka and Gulf region.
+
+🟩
+
+The Canadian government has advised the travelers to act with great care due to protests in Sri Lanka, terrorist attacks and crimes, especially threats in the Gulf.
+
+◼️
+
+[Data](articles/7d7aa676.json)
+
+[Extended Data](ext_articles/7d7aa676.ext.json)
+
+---
 
 ### Emergency telephone number to Israelis
 
@@ -2315,53 +2357,5 @@ The internal affairs of the Turkey said that the attack had been carried out nea
 [Data](articles/c069f9f3.json)
 
 [Extended Data](ext_articles/c069f9f3.ext.json)
-
----
-
-### Drone that fell on the power plant
-
-*2024-10-23 20:06:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-உற்பத்தி-நிலையத்தின்-மீது-விழுந்த-ட்ரோன்/175-345937) · `ta`
-
-Drone crashes at Lakwijaya Power Plant. Air Force investigates incident. Unmanned aerial vehicle captures facility images.
-
-🟩
-
-A drone camera flew this afternoon on the Lakwijaya Power Plant has fallen on the power plant.
-
-A senior police officer in Puttam said that the Air Force and other security forces have launched an investigation into the matter.
-
-Security sources said that photos of the Lakwijaya power plant have been taken by the camera of the unmanned aircraft.
-
-◼️
-
-[Data](articles/483ceb30.json)
-
-[Extended Data](ext_articles/483ceb30.ext.json)
-
----
-
-### There is no shortage of rice - rice is not imported
-
-*2024-10-23 20:03:09* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-හිඟයක්-නෑ---සහල්-ආනයනය-කරන්නෙත්-නෑ/11-412648) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake addresses Trincomalee rally, stating no rice shortage, economy not broken, and national unity. Emphasizes building a country for all ethnic groups: Sinhalese, Tamils, and Muslims.
-
-🟩
-
-President Anura Kumara Dissanayake said three national immense services would not be taken to break the economy without being broken down and to break the economy in the country.. The President stated that the rice mill owners of the country had no shortage of rice in the country.
-
-Therefore, the rice is not imported other than rice required for tourism.The President said that the new government's first budget was given to the public to be a short-term group of people after the first budget of the new government to be brought in February next year.Addressing the Rally of the Trincomalee People's Rally, the President said.
-
-"We won the presidential election to make the most powerful change in Sri Lanka. Subsequently, within a short period of time, the people were dissolved and allowed to build a new administration. After the general election, we maintain a government of Sri Lanka and the history of Sri Lanka and in the world and the history of the world.
-
-...
-
-[Data](articles/623ce2cf.json)
-
-[Extended Data](ext_articles/623ce2cf.ext.json)
 
 ---

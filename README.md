@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 11:59:50**
+As of **2024-10-24 12:14:44**
 
 ## Newspaper Stats
 
-*Scraped **51,099** Articles*
+*Scraped **51,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,755
-adaderanalk | 6,058
-tamilmirrorlk | 7,041
+adaderanalk | 6,059
+tamilmirrorlk | 7,042
 virakesarilk | 8,186
 adaderanasinhalalk | 8,872
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 8,872
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,099 (100.0%) of 51,099 articles have been extended.
+51,101 (100.0%) of 51,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Sri Lanka Police introduce emergency telephone number for Israeli nationals
+
+*2024-10-24 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102899/sri-lanka-police-introduce-emergency-telephone-number-for-israeli-nationals-) · `en`
+
+Israeli nationals visiting Sri Lanka, whether for tourism or other purposes, can now directly request assistance to ensure personal protection, according to Sri Lankan Police.
+
+Visitors in need of assistance can contact the Deputy Inspector General of Police (DIG) in charge of the Tourist Range and Maritime Division, Mr. Damayantha Vijaya Sri, by calling +94718592651, the Police Media Division announced.
+
+If an Israelite, who has visited Sri Lanka as a tourist or for other purpose, feels the need to ensure his/her personal security, he/she may directly contact the above telephone number and get the necessary assistance, the statement said.
+
+Mr. Vijaya Sri will take necessary measures having taken the requirement into consideration, it said.
+
+Since it is necessary to verify the identity in such matters, the Israelites are kindly requested to provide the necessary information.
+
+◼️
+
+[Data](articles/5fef665f.json)
+
+[Extended Data](ext_articles/5fef665f.ext.json)
+
+---
+
+### Arrests of bribed police
+
+*2024-10-24 11:37:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-பெற்ற-பொலிஸ்-கைது/175-345976) · `ta`
+
+Chief Inspector arrested for bribery: Rs 20,000 bribe sought, arrested at restaurant.
+
+🟩
+
+A Chief Inspector of the Gampola Headquarters Police Station has been arrested by the Commission on Bribery Corruption on charges of bribing Rs 20,000.
+
+According to the complaint of someone living in the carpet, the inspector is said to have sought a bribe of Rs.
+
+Accordingly, the police inspector was arrested by the authorities at a restaurant on the carpet on charges of bribery.
+
+◼️
+
+[Data](articles/2d1c33de.json)
+
+[Extended Data](ext_articles/2d1c33de.ext.json)
+
+---
 
 ### SriLankan Airlines’ safety rating restored after addressing cockpit incident
 
@@ -2337,51 +2381,5 @@ The rains had decided to limit the match to 44 overs due to the heavy rains.
 [Data](articles/1cda79a4.json)
 
 [Extended Data](ext_articles/1cda79a4.ext.json)
-
----
-
-### වංචනිකයන්ට දූෂිතයින්ට දඬුවම්දීම නාටකයක් නෙමෙයි - ජනපති
-
-*2024-10-23 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202479) · `si`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-President Anura Kumara Dissanayake says that it is not a vote on November 14 and is a great effort.
-
-ඔහු මේ බව පැවසුවේ පොළොන්නරුව ප්‍රදේශයේ අද (23) පැවති මැතිවරණ රැළිය අමතමිනි.
-
-මහා මැතිවරණය පැවැත්වෙන දිනය යනු ශ්‍රී ලංකා පාර්ලිමේතුන පිරිසිඳු කිරීමේ දිනය බව ජනාධිපතිවරයා පැවසීය.
-
-...
-
-[Data](articles/4f441c67.json)
-
-[Extended Data](ext_articles/4f441c67.ext.json)
-
----
-
-### Students lose 29 days in 2025 days a year
-
-*2024-10-23 19:14:51* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-නියමිත-පාසල්-අධ්‍යයන-දින-ගණනින්-දින-29--ක්-2025-දී--සිසුන්ට-අහිමිවේ/11-412645) · `si`
-
-Students miss 29 out of 210 scheduled school days in 2025 due to COVID-19 pandemic. Government and private schools affected equally. Education Ministry aims to complete 1625 year curriculum by January 19, 2025.
-
-🟩
-
-According to the Ministry of Education, the Ministry of Education will continue to hold 210 days for each academic year, only 181 days have been held in 2025.
-
-Accordingly, the government, government schools, private schools and Piriven students lose 29 days to lose 29 days of study.
-
-According to the Ministry of Education, the six-staged six-staged 1625 year 2025 year 2025 year endemic, the six-staged 3-staged 2025, will be completed by January 19.
-
-The Ministry of Education states that the Ministry of Education has held only 181 days at the time of the commencement of the year and the year 2025 school year and the year 2025.
-
-◼️
-
-[Data](articles/15ac3689.json)
-
-[Extended Data](ext_articles/15ac3689.ext.json)
 
 ---

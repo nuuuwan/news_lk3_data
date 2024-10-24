@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 23:59:51**
+As of **2024-10-25 00:13:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,223 (100.0%) of 51,226 articles have been extended.
+51,226 (100.0%) of 51,226 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1838,6 +1838,8 @@ On Wednesday, the US embassy in Colombo warned citizens not to travel to Arugam 
 
 [Data](articles/8998f76d.json)
 
+[Extended Data](ext_articles/8998f76d.ext.json)
+
 ---
 
 ### Augkambe affair: trio arrested
@@ -2163,6 +2165,8 @@ The council’s efforts to strengthen trade relations and business travel betwee
 ...
 
 [Data](articles/05aaeb70.json)
+
+[Extended Data](ext_articles/05aaeb70.ext.json)
 
 ---
 

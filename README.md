@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 03:09:23**
+As of **2024-10-25 03:39:43**
 
 ## Newspaper Stats
 
-*Scraped **51,247** Articles*
+*Scraped **51,249** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 411
-colombotelegraphcom | 510
+colombotelegraphcom | 512
 bbccomsinhala | 519
 islandlk | 3,041
 economynextcom | 3,131
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,242 (100.0%) of 51,247 articles have been extended.
+51,246 (100.0%) of 51,249 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -280,6 +280,8 @@ His deep commitment to the Tata legacy of serving the country was reflected in h
 
 [Data](articles/fd1637e8.json)
 
+[Extended Data](ext_articles/fd1637e8.ext.json)
+
 ---
 
 ### Review of SEC regulations on directors’ appointments
@@ -293,6 +295,8 @@ These rules, while potentially useful in the long term, are impractical in the c
 ...
 
 [Data](articles/8b8809a0.json)
+
+[Extended Data](ext_articles/8b8809a0.ext.json)
 
 ---
 
@@ -311,6 +315,8 @@ The local population in Arugam Bay is predominantly Muslim, unlike the largely B
 ...
 
 [Data](articles/22645d67.json)
+
+[Extended Data](ext_articles/22645d67.ext.json)
 
 ---
 
@@ -365,6 +371,8 @@ Sri Lanka Bureau of Foreign Employment (SLBFE) has been in the limelight both in
 ...
 
 [Data](articles/512e91fe.json)
+
+[Extended Data](ext_articles/512e91fe.ext.json)
 
 ---
 
@@ -429,6 +437,20 @@ The body of the deceased has been taken to the Eravur Hospital and further inves
 [Data](articles/731d5841.json)
 
 [Extended Data](ext_articles/731d5841.ext.json)
+
+---
+
+### Should Sri Lanka Allow Politicians To Play The Pork Barrel Game In The Future?
+
+*2024-10-24 21:39:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/should-sri-lanka-allow-politicians-to-play-the-pork-barrel-game-in-the-future/) · `en`
+
+In the 19th century, barrels filled with salted pork were considered a significant source of food, especially in rural America. This was a food preservation technique to make the meat last through the winter. Another interesting fact is that not every family had the capability to own such a barrel full of salted pork. This means that owning a pork barrel also served as a symbol of a prestigious social class with greater access to resources.
+
+Some historians including Genovese (1972) have explained a practice among plantation owners at that time to win the loyalty of their enslaved workers. Those slaves were granted access occasionally to a pork barrel as a reward or to maintain peace. Therefore, slaves considered it a rare treat for them. Thereafter, this scenario has been used metaphorically as “the pork barrel game” to describe situations where some groups of people attempt to win the loyalty of others by selectively offering economic benefits.
+
+...
+
+[Data](articles/e3478f9a.json)
 
 ---
 
@@ -599,6 +621,22 @@ Accordingly, the next hearing of the petition has been postponed to November 18 
 [Data](articles/4b3bae98.json)
 
 [Extended Data](ext_articles/4b3bae98.ext.json)
+
+---
+
+### Socialism & Vietnam
+
+*2024-10-24 20:41:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/socialism-vietnam/) · `en`
+
+The recent presidential election revealed substantial public support for a pro-socialist/communist political party.
+
+Sri Lankan governments over seven decades have been, in general, centrally planning the economy and society. This central planning overrides the choices made by individuals. The author Dr. Rainer Zitelmann, in his books The Power of Capitalism and In Defence of Capitalism, provides many examples of the damaging effects of central planning.
+
+Instead of relying on theory, Dr. Zitelmann uses history to show why central planning fails. Not only does he compare society before and after central planning (e.g. China), he also compares societies that are of the same race, culture, religion, and language, yet divided by governance method—for example, East and West Germany, North and South Korea, and Venezuela and Chile. In every case, centrally planned societies struggled, while those with less government interference grew wealthier and more peaceful.
+
+...
+
+[Data](articles/bc1647c7.json)
 
 ---
 
@@ -2323,51 +2361,5 @@ Meanwhile, the Public Security Minister added that there is no information from 
 [Data](articles/11496a78.json)
 
 [Extended Data](ext_articles/11496a78.ext.json)
-
----
-
-### One arrested with fake currency notes in Pottuvil
-
-*2024-10-24 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196991) · `ta`
-
-Man arrested with fake 5000 rupee notes at Bank of Ceylon in Pottuvil. Complaint filed by police officers.
-
-🟩
-
-A man was arrested on Wednesday (23) with a fake 5 thousand rupee currency notes at the Bank of Ceylon, which belongs to the Pottuvil Police Division.
-
-He has been arrested on a complaint received by a group of police officers in Pottuvil.
-
-◼️
-
-[Data](articles/2fe4f1a4.json)
-
-[Extended Data](ext_articles/2fe4f1a4.ext.json)
-
----
-
-### Tarson's actor Ron Lali has passed away
-
-*2024-10-24 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/196978) · `ta`
-
-Ron Ili, actor from US TV series Tarson, died in 1960s aged 86. He portrayed a modern man turning wild in forest, appeared with chimpanzee and performed dangerous scenes. Starred in later TV shows despite injuries.
-
-🟩
-
-Ron Ili, who starred in the Tarson television series, passed away in the 1960s at the age of 86.
-
-From the US, he became famous for starring in the Tarson television series. அந்த படத்தில் அவர் நவீன உலகில் படித்த மனிதராக இருந்து பின்னர் அடர்ந்த காட்டுக்குச் செல்லும் ஒரு நபராக சித்தரிக்கப்பட்டிருந்தார்.
-
-In this series, he will be seen with a chimpanzee monkey wearing a piece of body strength.
-
-Also, he has acted in a fight scene without a tub. Meanwhile, there were many injuries and the lion had been bitten.
-
-Even after the two parts of the "Tarson" series in the 1990s, Ii continued to star in television series.
-
-◼️
-
-[Data](articles/8398f85e.json)
-
-[Extended Data](ext_articles/8398f85e.ext.json)
 
 ---

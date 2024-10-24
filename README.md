@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 21:59:08**
+As of **2024-10-24 22:14:04**
 
 ## Newspaper Stats
 
-*Scraped **51,212** Articles*
+*Scraped **51,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,040
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,772
+adalk | 4,773
 adaderanalk | 6,068
 tamilmirrorlk | 7,059
 virakesarilk | 8,228
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,212 (100.0%) of 51,212 articles have been extended.
+51,213 (100.0%) of 51,213 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -225,6 +225,34 @@ We see this as a messy manner in which our propaganda is planned. This is an act
 [Data](articles/8b3a4f48.json)
 
 [Extended Data](ext_articles/8b3a4f48.ext.json)
+
+---
+
+### Don't ask us to be put to the problems of the people
+
+*2024-10-24 19:05:10* · [`adalk`](https://www.ada.lk/breaking_news/අපෙන්-ප්‍රශ්න-කරලා--ජනතා-ප්‍රශ්න-යට-ගහන්න-හදන්න-එපා/11-412674) · `si`
+
+Namal Rajapaksa criticizes CID interrogation tactics, accuses government of covering up issues.
+
+🟩
+
+"Using us to use the political hunt, we have made the Rajapaksas ready to be arrested in jail for 8 hours questioning 10 questions questioned. Don't get ready to cover up the problems of the people, "MP Namal Rajapaksa said
+
+He was speaking to the CID today (24), and approximately after the Criminal Investigations Department
+
+"The political culture of our country is usually. The other government is being questioned and questioning. Come on, we're coming. We have a fundamental picture of us that the people of this country are false.
+
+Today, the duration of the 2010-2015 is to my offices.Money left and went. One husband has told an anonymous complaint .It does.
+
+The government has come and answered the complaints that came to you like this.. We have clearly come and support this.
+
+Whenever we get to the government, we are responding to the word of lied to false and knowing the world's loyalty to the Uganda. "
+
+◼️
+
+[Data](articles/3ca54373.json)
+
+[Extended Data](ext_articles/3ca54373.ext.json)
 
 ---
 
@@ -2489,29 +2517,5 @@ Elections Commissioner General Saman Sri Ratnayake further stated that the numbe
 [Data](articles/4cb41d28.json)
 
 [Extended Data](ext_articles/4cb41d28.ext.json)
-
----
-
-### "Iyappa devotees need to ship"
-
-*2024-10-24 12:20:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐயப்ப-பக்தர்களுக்கு-கப்பல்-வேண்டும்/175-345981) · `ta`
-
-Iyappa devotees face high air ticket costs when traveling to Sabarimala from Sri Lanka. To address this issue, Minister Douglas Devananda is establishing a shipping service between Kankesanthurai and Karaikudi, reducing transportation costs. This initiative aims to make Iyappa pilgrimage more accessible to devotees from Sri Lanka.
-
-🟩
-
-The number of devotees traveling to Sabarimala annually from Sri Lanka is increasing. The Indian government is also offering a free visa for Iyappa pilgrimage. Many devotees have told the National List Member of the Eelam People's Democratic Party Babu Sharma that most of the pilgrims are in trouble due to the high cost of air tickets during their journey.
-
-Due to the efforts of Minister Douglas Devananda, the shipping service between the Kankesan Department and Karaikudi is underway.. At the same time, the cost of transportation is low.
-
-At the same time, the pilgrims have also appealed to Babu Sharma to the pilgrims not only for all the devotees of Colombo, but to all the devotees of Colombo to establish the shipping service through Douglas Devananda.
-
-Douglas Devananda has also made efforts to establish the consulate in Kerala for the benefit of the devotees.
-
-...
-
-[Data](articles/e86b8077.json)
-
-[Extended Data](ext_articles/e86b8077.ext.json)
 
 ---

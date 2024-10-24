@@ -1,36 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 08:22:56**
+As of **2024-10-24 08:44:08**
 
 ## Newspaper Stats
 
-*Scraped **51,052** Articles*
+*Scraped **51,060** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 410
 colombotelegraphcom | 510
-bbccomsinhala | 517
+bbccomsinhala | 518
 islandlk | 3,038
 economynextcom | 3,121
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,749
-adaderanalk | 6,050
-tamilmirrorlk | 7,031
+adaderanalk | 6,051
+tamilmirrorlk | 7,033
 virakesarilk | 8,179
-adaderanasinhalalk | 8,861
+adaderanasinhalalk | 8,865
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,043 (100.0%) of 51,052 articles have been extended.
+51,050 (100.0%) of 51,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### More than 75 millimeters can be recorded
+
+*2024-10-24 08:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/75-மில்லிமீற்றருக்கும்-அதிக-மழைவீழ்ச்சி-பதிவாகலாம்/175-345963) · `ta`
+
+Heavy rainfall warning issued for Western, Sabaragamuwa, Southern, Northern provinces and Kandy/Nuwara Eliya districts. Rainfall exceeding 75mm possible. Thunderstorms and strong winds (up to 40-45km/h) forecasted. Public advised to take precautions against lightning and gusts.
+
+🟩
+
+The Department of Meteorology has said that rain or thunderstorms will occur from time to time in the Western, Sabaragamuwa, Southern, Northwest and Northern Provinces and Kandy and Nuwara Eliya districts.
+
+In some parts of the Western, Sabaragamuwa, Southern and Northern Provinces, more than 75 millimeters of rainfall could be received, the department said in a statement.
+
+Other parts of the country are likely to experience rain or thunderstorms in the evening or night, and more than 75 millimeters of heavy rainfall in some places.
+
+Strong winds are expected to blow up to 40-45 km / h from time to time in the North, North Central, North Western and Central Provinces and Trincomalee and Hambantota districts.
+
+The Department of Meteorology has urged the public to take the necessary precautions to reduce the risk of temporary heavy winds and lightning with thunderstorms.. Remble
+
+◼️
+
+[Data](articles/95218bdf.json)
+
+[Extended Data](ext_articles/95218bdf.ext.json)
+
+---
+
+### Was the controversial BMW car stolen in the UK?
+
+*2024-10-24 08:04:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்ச்சைக்குரிய-BMW-கார்-இங்கிலாந்தில்-திருடப்பட்டதா/175-345962) · `ta`
+
+Controversial BMW car theft case: Former Minister Johnston Fernando arrested in Sri Lanka for possessing unregistered BMW. Investigations reveal car was stolen in UK in 2021. Court orders Fernando remanded until October 30.
+
+🟩
+
+முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோவின் பதிவு செய்யப்படாத BMW ரக கார் குறித்து அதிர்ச்சி தகவல் வெளியாகி உள்ளது.
+
+Investigations officials said that when the BMW car was checked by international police data, it was revealed that it was a stolen car from the UK in 2021.
+
+The Fort Magistrate's Court yesterday (23) ordered that former minister Johnston Fernando, who was arrested on charges of possessing an unregistered BMW car in Sri Lanka, was remanded until October 30.
+
+The Criminal Investigation Department officials were produced before the Colombo Fort Magistrate's Court yesterday afternoon.
+
+Investigators further said that the BMW vehicle was used by the stolen digit plate and that it was not legally imported to the country in checking the data system of the Sri Lanka Customs Department.
+
+Investigations officials said that when the BMW car was checked by international police data, it was revealed that it was a stolen car from the UK in 2021.
+
+...
+
+[Data](articles/e49bc8be.json)
+
+[Extended Data](ext_articles/e49bc8be.ext.json)
+
+---
 
 ### Plan to attack Israelis: two arrested in Batticaloa
 
@@ -80,6 +134,50 @@ According to reports, the attack is scheduled to be revealed in the recent past 
 
 ---
 
+### An increase in the stroke patients
+
+*2024-10-24 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202495) · `si`
+
+Stroke cases increasing globally. Dr. Gamini Pathirana: 1 in 4 people may experience stroke. High blood pressure main cause. Regular exercise reduces risk. Awareness key to prevention.
+
+🟩
+
+වර්තාමානය වන විට ආඝාත රෝගීන්ගේ වාර්තා වීම ඉහළ ගොස් ඇති බව සෞඛ්‍ය අංශ පවසයි.
+
+Dr. Gamini Pathirana, Chairman of the National Purpose Association of Sri Lanka, said that one of every four people has a tendency to stroke during his lifetime.
+
+ලබන 29 වන දිනට යෙදී ඇති ලෝක ආඝාත දිනයට සමගාමීව සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවට එක්වෙමින් ජාතික ආඝාත සංගමයේ සභාපති විශේෂඥ වෛද්‍ය ගාමිණි පතිරණ මහතා මෙම අදහස් පළ කළේය.
+
+"There is a tendency for one of every 4 people in their lives. The stroke is a serious illness. There is no notice of that disease. From good and next at the next moment. මට රෝගීන් කියනවා, බයිසිකලය පැදගෙන ගියා එක පාරටම බැලන්ස් එක නැතිවුණා කකුල තියාගන්න උත්සාහ කරද්දි එහෙමම වැටුණා කියනවා. Can't get up and then brought to the hospital. There is no notice. From good and the next moment. There are 10 things that can be avoided by 90% of the patients who are born between the third and third place in many parts of the world.. In order to the stroke, it is less likely to embrace it. "
+
+...
+
+[Data](articles/d2e47dca.json)
+
+[Extended Data](ext_articles/d2e47dca.ext.json)
+
+---
+
+### Expenditure on presidential election will be published today
+
+*2024-10-24 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202494) · `si`
+
+Presidential election spending details to be released today. Candidates' expenses will be made public at district secretariats.
+
+🟩
+
+The Elections Commission says that the election costs submitted to the Elections Commission by the candidates who were presented to the Elections Commission will be published today (24).
+
+Elections Commissioner General Saman Sri Ratnayake said that action will be taken to publicize the revenue expenditure reports at every District Secretariat.
+
+◼️
+
+[Data](articles/8e86bd34.json)
+
+[Extended Data](ext_articles/8e86bd34.ext.json)
+
+---
+
 ### J. Sreeranga Pre -Refusal
 
 *2024-10-24 07:30:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜே-ஸ்ரீரங்காவிற்கு-முன்பிணை-மறுப்பு/175-345959) · `ta`
@@ -99,6 +197,50 @@ The petition has been rejected by the Colombo Crime Branch filed by Sri Ranga se
 [Data](articles/422ac465.json)
 
 [Extended Data](ext_articles/422ac465.ext.json)
+
+---
+
+### TID arrests two persons over threats to Israelis in Sri Lanka
+
+*2024-10-24 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102890/tid-arrests-two-persons-over-threats-to-israelis-in-sri-lanka) · `en`
+
+Sri Lanka Police says two persons have been arrested by the Terrorism Investigation Division (TID) on suspicion of allegedly planning to attack Israeli nationals in Sri Lanka.
+
+Security has been heightened at the popular surfing resort of Arugam Bay on Sri Lanka’s eastern coast, following reports of a potential attack targeting foreign tourists, particularly Israelis.
+
+“There is information about a possible attack targeting Israelis at a building where they are staying,” police spokesman Deputy Inspector General Nihal Thalduwa was quoted as saying.
+
+The increased security measures are focused on the Arugam Bay and Pottuvil areas, with around 500 police officers and Special Task Force personnel deployed.
+
+...
+
+[Data](articles/a20d10bf.json)
+
+[Extended Data](ext_articles/a20d10bf.ext.json)
+
+---
+
+### Notice from the Sri Lanka Tourism Promotion Bureau
+
+*2024-10-24 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202493) · `si`
+
+Sri Lanka Tourism Promotion Bureau invites global visitors during tourism season. Announcement ensures safe exploration of the island. Ministry of Defense implements measures to protect tourists' safety.
+
+🟩
+
+The Sri Lanka Tourism Promotion Bureau has issued an announcement that tourists around the world will be invited to visit Sri Lanka during the tourism period.
+
+The announcement shows that all tourists can enjoy the island's beauty safely.
+
+The announcement states that all tourists stay in Sri Lanka.
+
+The Ministry of Defense has also taken necessary steps to ensure the safety of tourists in the country, the Tourism Promotion Bureau said.
+
+◼️
+
+[Data](articles/f71f50ca.json)
+
+[Extended Data](ext_articles/f71f50ca.ext.json)
 
 ---
 
@@ -143,6 +285,38 @@ It has been reported that rainfall is likely to be recorded up to 50 mm in the u
 [Data](articles/ccb2eade.json)
 
 [Extended Data](ext_articles/ccb2eade.ext.json)
+
+---
+
+### Two arrested in connection with Israeli nationals
+
+*2024-10-24 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202492) · `si`
+
+Two arrests linked to Israeli nationals. Suspected plot to attack Israel. Intelligence shared with Sri Lanka. Security measures taken in Arugambay and surrounding areas. Israeli Defense Forces advised to leave certain regions. Hebrew symbols prohibited.
+
+🟩
+
+The Terrorism Investigation Division has arrested two persons on suspicion that Israeli people were planning to attack Israel.
+
+Indian intelligence divisions have been made to the Sri Lankan security forces regarding the arugam attack plan.
+
+Arugambay, near Pottuvil, is an attractive tourist world attractive tourist arrivals.
+
+Indian intelligence services have been informed that there is a plan to attack Israel, where Israel has been attacked by such a context.
+
+Indian intelligence has been informed that the attack can be launched between the 19th and 23rd.
+
+Intelligence reports, two Sri Lankans were ready to launch the attack and that two of them were from Iraq.
+
+Accordingly, the Indian intelligence services have been given all information on the two men and the number of people.
+
+The information has been revealed that the attack was launched in the country as a revenge in Israel as revenge in Israel.
+
+...
+
+[Data](articles/1795b8c8.json)
+
+[Extended Data](ext_articles/1795b8c8.ext.json)
 
 ---
 
@@ -521,6 +695,30 @@ Fire at Mahawewa shop causes traffic disruption on Halawatta-Kollupitiya main ro
 [Data](articles/d1f4646e.json)
 
 [Extended Data](ext_articles/d1f4646e.ext.json)
+
+---
+
+### නිමක් නැති පාස්පෝට් පෝලිම අවසන් වන්නේ කවදා ද?
+
+*2024-10-24 02:16:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjw03d64e79o) · `si`
+
+ආගමන විගමන දෙපාර්තමේන්තුව විසින් නිකුත් කරනු ලබන විදෙස් ගමන් බලපත්‍ර ලබා ගැනීම සඳහා අධික තදබදයක් පවතින්නේ දැනට වසර කිහිපයක සිට ය.
+
+ආර්ථික අර්බුදයත් සමග බොහෝ දෙනෙකු රටින් පිටව යාමේ බලාපොරොත්තුවෙන් විදෙස් ගමන් බලපත්‍රයක් ලබා ගැනීමට පැමිණීම එයට හේතු විය.
+
+ඒ සමඟ මාර්ගත ක්‍රමවේදය ඔස්සේ වේලාවක් වෙන් කරගැනීමේ ක්‍රමවේදයක් හඳුන්වා දුන් අතර, ඒ අනුව එක් දින සේවාව සඳහා පැමිණෙන අය කලින් දින වෙන් කරවාගෙන පැමිණීමට සිදු විය.
+
+කෙසේනමුත් ඊ-පාස්පෝට් නියමිත දිනට ටෙන්ඩර් ලබාගත් සමාගමට ලබා දීමට නොහැකි වූ නිසා එම සමාගමට ම නැවත කලින් පැවති විදෙස් ගමන් බලපත්‍රයම ලබා දීමට පෙර රජය විසින් අනුමැතිය ලබා දී තිබිණි.
+
+පෙර රජයේ එම තීරණය අභියෝගයට ලක් කරමින් මීට පෙර විදෙස් ගමන් බලපත්‍ර මුද්‍රණය කළ සමාගම අධිකරණය වෙත ගොස් තහනම් නියෝගයක් ලබාගෙන තිබිණි.
+
+පසුව අධිකරණයේදී ඇති කර ගත් එකඟතාවක් මත පැරණි සමාගම විසින් නැවත විදෙස් ගමන් බලපත්‍ර මුද්‍රණයට එකඟ වී තිබේ.
+
+ඒ වන විට  මුද්‍රණය කරන ලද විදෙස් ගමන් බලපත්‍ර තොගය සීමිත වූ නිසා දිනකට නිකුත් කළ විදෙස් ගමන් බලපත්‍ර ප්‍රමාණය ද සීමා වීම තදබදයකට හේතු විය.
+
+...
+
+[Data](articles/8637193e.json)
 
 ---
 
@@ -1770,11 +1968,11 @@ ECONOMYNEXT – Israel has asked citizens to avoid non-essential travel to Sri L
 
 The warning came after the US embassy in Colombo warned citizens not to travel to Arugam Bay in the island’s Eastern Coast as there was credible information of an attack.
 
+Acting police chief Priyantha Weerasooriya told reporters that in October 07, intelligence information was given to Sri Lanka and the matter was discussed by Sri Lanka’s National Security Council.
+
 Related US warns citizens off Sri Lanka’s Arugam Bay citing possible attack
 
 “The travel alert for Arugam Bay and the coastal areas in south and west Sri Lanka (including for the cities Ahangame, Galle, Hikkaduwa and Weligama) has been raised to level 4,” the Israel’s National Security Council said in a statement.
-
-“We recommend leaving these areas immediately. For those currently in these areas, we recommend leaving the country or at least traveling to the capital city Colombo, where there is heavier presence of local security forces.”
 
 ...
 
@@ -2197,185 +2395,5 @@ Police have arrested the fleeing man and he was a resident near the house of the
 [Data](articles/2459754b.json)
 
 [Extended Data](ext_articles/2459754b.ext.json)
-
----
-
-### Protection of security from many days ago arrogam
-
-*2024-10-23 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202470) · `si`
-
-Sri Lanka strengthens security in Arugamay area ahead of potential attack. Police deploy 500 officers, STF, and intelligence forces. Special security measures implemented for tourists. No intelligence reports of threats in Colombo or elsewhere.
-
-🟩
-
-It is reported that Sri Lanka has been fully aware of the plan to attack the Arugamay area today (23).
-
-So it is said that steps have been taken to strengthen the security of Arumbe area.
-
-It is reported that about 500 police officers and the STF have been sent to strengthen the security zone of the Arugam Tour Zone.
-
-Attorney at Law, police spokesman, Nihal Talduuwa said that the intelligence and other security forces were also focused on the architecture of the area.
-
-Meanwhile, police spokesman Nihal Talduuwa added that there is no intelligence reports of such an accident in Colombo or elsewhere.
-
-He also said that the police and the security forces are in particular regarding the safety of tourists visiting Arugamay and other provinces.
-
-...
-
-[Data](articles/d431f6bb.json)
-
-[Extended Data](ext_articles/d431f6bb.ext.json)
-
----
-
-### If salaries unable to increase, what happened to the money allocated - Ranil
-
-*2024-10-23 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202469) · `si`
-
-Ranil Wickremesinghe urges immediate implementation of salary increase decision. Money allocation fate unclear without salary hike. Meeting held at New Democratic Front office in Colombo.
-
-🟩
-
-Former President Ranil Wickremesinghe says that the legal cabinet decision he had taken to increase the salaries should be implemented immediately.
-
-He was speaking at a trade union representative meeting today (23).
-
-Former President Ranil Wickremesinghe said that if the Presidential election was planned from January, he said.
-
-The discussion was held at the New Democratic Front Office on Flower Road, Colombo.
-
-◼️
-
-[Data](articles/63b3668d.json)
-
-[Extended Data](ext_articles/63b3668d.ext.json)
-
----
-
-### Johnston to be arrested
-
-*2024-10-23 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202468) · `si`
-
-Former Minister Johnston Fernando arrested by Criminal Investigation Court. BMW car seized during arrest. Incident occurred on 23rd.
-
-🟩
-
-Former Minister Johnston Fernando was arrested by the Criminal Investigation Court.
-
-A BMW car was arrested this morning after he was arrested following the CID today (23).
-
-◼️
-
-[Data](articles/eafdb55f.json)
-
-[Extended Data](ext_articles/eafdb55f.ext.json)
-
----
-
-### Suspect arrested for shooting incident
-
-*2024-10-23 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202467) · `si`
-
-Arrest made in Matara-Ruwanwella shooting case. Suspect detained in Kesbewa, handed to police. Pistol and vehicles seized.
-
-🟩
-
-A suspicion of a person who supported the shot dead in the Matara-Ruwanwella area has been arrested.
-
-The suspect was arrested in the Kesbewa area in the evening yesterday (22) and later handed over the suspect to the Matara Police Station.
-
-The suspect has been identified as a resident of Kesbewa Road, Gonamadiththa Road, Gonamaditta Road.
-
-According to the suspects revealed, a pistol firearm and 13 am, a car and van were also seized by a car and van suspected of murder.
-
-◼️
-
-[Data](articles/df5802b4.json)
-
-[Extended Data](ext_articles/df5802b4.ext.json)
-
----
-
-### India, Sri Lanka discuss fishermen issue and India-funded projects
-
-*2024-10-23 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102882/india-sri-lanka-discuss-fishermen-issue-and-india-funded-projects) · `en`
-
-The Indian High Commissioner to Sri Lanka, Santhosh Jha, has met with the Secretary to the President, Dr. Nandika Kumanayake at the Presidential Secretariat.
-
-Their discussions yesterday (22) focused on resolving the on-going fishing issues in the Northern Sea, according to the President’s Media Division (PMD).
-
-Both parties emphasized the need for a long-term solution that would address the concerns of fishermen from both countries while fostering cooperation, the PMD said.
-
-The conversation also included a review of the current Indian-granted projects in Sri Lanka, with both sides addressing existing challenges and discussing ways to overcome these hurdles.
-
-They further examined the progress of projects funded through Indian loans and agreed on the necessity of expediting the remaining work to ensure timely completion, the statement said.
-
-...
-
-[Data](articles/da21ff85.json)
-
-[Extended Data](ext_articles/da21ff85.ext.json)
-
----
-
-### UK, Australia, Russia also issue advisories on Arugam Bay, Sri Lanka
-
-*2024-10-23 15:46:00* · [`economynextcom`](https://economynext.com/uk-australia-russia-also-issue-advisories-on-arugam-bay-sri-lanka-184573/) · `en`
-
-ECONOMYNEXT — The governments of Australia, the United Kingdom and Russia have followed the United States in warning their citizens of a possible attack in the coastal town of Arugam Bay, a popular surfing destination in the island’s east.
-
-“There is an ongoing risk of terrorist attacks in Sri Lanka. Terrorists may target areas popular with foreigners and tourists, including in regional and coastal towns (see ‘Safety’). The ongoing conflict in the Middle East could lead to an increased threat of attacks against Israeli interests in other regions. The US Embassy in Colombo issued a security alert on 23 October, strongly urging US citizens to avoid the Arugam Bay area until further notice,” Smart Traveller, an Australian government initiative said on its website.
-
-...
-
-[Data](articles/42e2495a.json)
-
-[Extended Data](ext_articles/42e2495a.ext.json)
-
----
-
-### Distribution of polling cards for 2024 General Election to begin
-
-*2024-10-23 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102881/distribution-of-polling-cards-for-2024-general-election-to-begin-) · `en`
-
-The Commissioner General of Elections Saman Sri Ratnayake says that October 27 and November 03 will be designated as special days for the distribution of official polling cards for the upcoming General Election.
-
-Speaking to the media today (23), he stated that the official polling cards will be handed over to the Department of Posts on Saturday (26).
-
-“The issuing of the postal polling cards for the general election is being carried out today at District Secretariats across the island,” he said, adding that the total number of postal voting applications is 759,210 and that 21,160 them were rejected.
-
-Accordingly, postal polling cards will be issued for 738,050 applications, which is an increase compared to the last presidential election, the Commissioner General of Elections said.
-
-◼️
-
-[Data](articles/665e75f5.json)
-
-[Extended Data](ext_articles/665e75f5.ext.json)
-
----
-
-### Notification relating to voter card distribution
-
-*2024-10-23 15:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகம்-தொடர்பான-அறிவிப்பு/175-345930) · `ta`
-
-Election Commissioner announces voter card distribution dates: Oct 27, Nov 3. Postal voter cards issued Sat, work ongoing at district secretariats. 738,050 eligible for postal voting, up from previous election.
-
-🟩
-
-The Commissioner General of Elections Saman Sri Ratnayake said that the special day for the distribution of the official voter card on 2024 will be considered on October 27 and November 3.
-
-He also said that official voter cards will be issued to the post office on Saturday (26).
-
-“Work on issuing postal voter cards on the general election is being carried out on Tuesday (26) at the District Secretariats of the country.
-
-The total number of postal voter applications is 759,210. Of them, 21,160 were rejected.
-
-Accordingly, 738,050 people have been given the opportunity for postal voting. This is an increase in compared to the last presidential election. ”
-
-◼️
-
-[Data](articles/7125ee60.json)
-
-[Extended Data](ext_articles/7125ee60.ext.json)
 
 ---

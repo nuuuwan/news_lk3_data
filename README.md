@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 22:57:53**
+As of **2024-10-24 23:10:26**
 
 ## Newspaper Stats
 
-*Scraped **51,217** Articles*
+*Scraped **51,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,040
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,773
+adalk | 4,774
 adaderanalk | 6,069
 tamilmirrorlk | 7,059
 virakesarilk | 8,231
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,217 (100.0%) of 51,217 articles have been extended.
+51,218 (100.0%) of 51,218 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -319,6 +319,32 @@ We see this as a messy manner in which our propaganda is planned. This is an act
 [Data](articles/8b3a4f48.json)
 
 [Extended Data](ext_articles/8b3a4f48.ext.json)
+
+---
+
+### A racket of cheating money saying that short-term jobs in Korea
+
+*2024-10-24 19:17:59* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-කෙටිකාලීන-රැකියා-දෙන-බව-පවසා-මුදල්-වංචා-කිරීමේ-ජාවාරමක්/11-412675) · `si`
+
+Sri Lanka Bureau warns against fraudulent E-8 Visa schemes for short-term jobs in South Korea. No official agreements between countries. Job seekers advised to avoid scams and report suspicious activities.
+
+🟩
+
+The Sri Lanka Bureau of Foreign Employment states that a racket is being carried out in South Korea under the E-8 Visa group.
+
+Additional General Manager (International) Senarath Yapa said that the two government should enter into agreements in South Korea and had not reached any agreement.
+
+Since 2004, Sri Lankans are directed to work in South Korea under the EPS-E9 Visa. The private sector has been directed to work in South Korea recently under the Visa category for the Veldar (Welder) job.
+
+And we looked at the sending of workers under the E-8 Visa category for the short term jobs in South Korea last year (SEASonal Worker. It was revealed that if the states of Sri Lanka should enter into the agreements with the states of South Korea.
+
+The Government of Sri Lanka has not taken any decision to direct workers in South Korea under this E-8 Visa.. Accordingly, workers will not be referred under the E-8 Visa category for agriculture and fisheries.
+
+...
+
+[Data](articles/721483ef.json)
+
+[Extended Data](ext_articles/721483ef.ext.json)
 
 ---
 
@@ -2497,33 +2523,5 @@ According to the investigation, the suspect had been distributed from his home f
 [Data](articles/b25609b6.json)
 
 [Extended Data](ext_articles/b25609b6.ext.json)
-
----
-
-### It is not an election on November 14
-
-*2024-10-24 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196976) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's Parliament election on Nov 14, not a regular election. President Anura Kumara Dissanayake addresses rally in Polonnaruwa, promising reforms and accountability. National People's Power aims to address corruption, digitize governance, and boost agriculture. Opposition criticized for lack of action and media-centric politics.
-
-🟩
-
-It is not an election on November 14, but a huge difficulty for cleaning. President Anura Kumara Dissanayake said that November 14 is the day when the Parliament of Sri Lanka is being held in Sri Lanka.
-
-President Anura Kumara Dissanayake said this while addressing a meeting held at Polonnaruwa on Wednesday (23).
-
-Tens of thousands of people are drenched in the rain and hold a meeting of historical significance in Polonnaruwa. The expectation, purpose, and solidarity that reflects from the people reveal the unique victory on November 14 from Polonnaruwa.
-
-In the Polonnaruwa district, the people of this country have given the National People's Power to send this country in the presidential election.. The Cabinet of three is working on the country with the necessary relief and the necessary plans to build the country.
-
-...
-
-[Data](articles/9a31474b.json)
-
-[Extended Data](ext_articles/9a31474b.ext.json)
 
 ---

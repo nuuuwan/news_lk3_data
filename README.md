@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 15:39:41**
+As of **2024-10-24 15:58:38**
 
 ## Newspaper Stats
 
-*Scraped **51,139** Articles*
+*Scraped **51,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 3,038
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,762
+adalk | 4,763
 adaderanalk | 6,063
-tamilmirrorlk | 7,049
+tamilmirrorlk | 7,051
 virakesarilk | 8,197
-adaderanasinhalalk | 8,881
+adaderanasinhalalk | 8,882
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,139 (100.0%) of 51,139 articles have been extended.
+51,143 (100.0%) of 51,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Bomb threat
+
+*2024-10-24 15:31:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஸ்தாரா-விமானத்தில்-வெடிகுண்டு-அச்சுறுத்தல்/175-345992) · `ta`
+
+Vistara flight UK-131 from Mumbai lands at Katunayake airport. Airbus A-320 carries 108 passengers and 8 crew members. Bomb threat reported.
+
+🟩
+
+The Vistara flight arrived at the Katunayake airport from Mumbai, India, which was reportedly landed on Thursday afternoon.
+
+The UK-131 Vistara Airlines flight from Mumbai, India, arrived at the Katunayake airport at 02.56 pm.
+
+The Airbus A-320 aircraft has 108 passengers and 08 employees.
+
+◼️
+
+[Data](articles/d13961a7.json)
+
+[Extended Data](ext_articles/d13961a7.ext.json)
+
+---
+
+### Status relief in the next few days - Vijitha
+
+*2024-10-24 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202512) · `si`
+
+Sri Lanka Defense Minister Vijitha Herath: Situation improving soon. US warnings may lift. Tourism unaffected. Security measures in place. No threat to citizens.
+
+🟩
+
+People's Defense Minister Vijitha Herath says that the situation is available in the next few days.
+
+He was speaking at a special press conference held at the Ministry of Defense today (24).
+
+"We restore this position in a few days. Then you can withdraw the warning message that has been provided in the United States and several other countries. They have already been satisfied with the actions we took. So they have faith in their parties to send their country's citizens to tourism in our country. Tourist arrivals have not been a stop. Israel had come to Sri Lanka in Sri Lanka. Those who come are free of their travel activities. They do not obstruct. So we have already controlled. All the steps we should take has been taken. So there is no need to make any kind of interest. It was not reported that it would be celebrated targeting the citizens of our country national. Therefore, such a situation should not be unduly afraid.
+
+...
+
+[Data](articles/036da891.json)
+
+[Extended Data](ext_articles/036da891.ext.json)
+
+---
+
+### Augkambe affair: trio arrested
+
+*2024-10-24 15:03:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-விவகாரம்-மூவர்-கைது/175-345991) · `ta`
+
+Here's a summary of the article in 200 characters:
+
+
+
+Sri Lanka arrests 3 for threatening Israelis in Ampara. Public Security Minister confirms investigation. Authorities received intel about potential attacks earlier. Government urges calm and warns against political exploitation. Comprehensive security measures in place for tourists.
+
+🟩
+
+Public Security Minister Vijitha Herath has said that three suspects have been arrested for allegedly threatening the Israeli citizens in the Alukampet area in Ampara.
+
+Speaking at a special media briefing held at the Government Information Department on Thursday evening, he confirmed that all the suspects, Sri Lankan citizens, are currently investigating the incidents.
+
+He said that further details of the suspects would not be reported to the public and that it would be a disruption to investigations.
+
+Minister Herath said that Sri Lankan authorities have received intelligence from foreign intelligence services on the possibility of attacking Israeli citizens earlier this month.
+
+"We did not inform the public until the information was confirmed, but we took security measures once the information was available," he added.
+
+...
+
+[Data](articles/5c7e616e.json)
+
+[Extended Data](ext_articles/5c7e616e.ext.json)
+
+---
 
 ### Three arrested over security threats to Israelis in Sri Lanka - Minister
 
@@ -40,7 +114,11 @@ Three persons have been arrested so far by the police over the intelligence repo
 
 Minister Herath revealed this during a press conference being held in this regard.
 
-◼️
+He further stated that the public, local as well as foreigners, need not entertain any fears on probable attacks on Israelis or any others, as all possible security measures have been taken to ensure their safety.
+
+Furthermore the Minister stated: “We will restore normalcy in a few days, allowing the travel advisories issued by the United States and other countries to be lifted. These nations are already satisfied with the measures we’ve implemented, and they have confidence in sending their citizens to Sri Lanka for tourism.”
+
+...
 
 [Data](articles/96af7687.json)
 
@@ -123,6 +201,28 @@ The method discussion of the country's current situation under the patronage of 
 [Data](articles/1ac50824.json)
 
 [Extended Data](ext_articles/1ac50824.ext.json)
+
+---
+
+### Here is the reason why Namal brought to CID - an anonymous complaint
+
+*2024-10-24 14:12:17* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-සී-අයි-ඩී​-යට-ගෙන්නූ-හේතුව-මෙන්න---නිර්නාමික-පැමිණිල්ලක්-ගැනත්-හෙළිදරව්වක්/11-412664) · `si`
+
+Namal Rajapaksa claims anonymous complaint led to CID investigation. He denies wrongdoing, citing previous acquittal. Accuses government of misleading public. Requests international cooperation from Uganda.
+
+🟩
+
+The National Organizer of the Commonwealth Front Namal Rajapaksa said that the war has been created with a misconception to the people of this country.
+
+He was speaking to the Department of Criminal Investigation Day to the Department of Criminal Investigations this morning (24).
+
+"Generally, the political culture of our country is the fact that the other government is being taken by the other government. We're coming when we call. The people of this country have mislead us a wrong picture.
+
+...
+
+[Data](articles/a82b79df.json)
+
+[Extended Data](ext_articles/a82b79df.ext.json)
 
 ---
 
@@ -2315,85 +2415,5 @@ Considering the global and national importance of Supply Chain Management (SCM) 
 [Data](articles/96578a74.json)
 
 [Extended Data](ext_articles/96578a74.ext.json)
-
----
-
-### Hameed Ashraff appointed to EDB Board
-
-*2024-10-24 05:07:45* · [`dailyftlk`](https://www.ft.lk/business/Hameed-Ashraff-appointed-to-EDB-Board/34-768340) · `en`
-
-Hameed Ashraff has been appointed as a Director of the Sri Lanka Export Development Board (EDB) by President Anura Kumara Dissanayake with effect from 15 October 2024.
-
-Hameed Ashraff is the Managing Director of Fantasia Elastics and counts 35 years’ experience in the manufacture and marketing of narrow fabric with experience at top-level-management and establishing strong supply chain partnerships in the industry. He is also widely travelled visiting global fairs, exhibitions, and forums, including all ITMA fairs since 1994-2015.
-
-He previously served as a member of the Board of the Industrial Technology Institute (ITI), the premier scientific research and development organisation in Sri Lanka, appointed by the Ministry of Science and Technology.
-
-Ashraff also served as Director of Bank of Ceylon Property Development and Management Ltd., a subsidiary of Bank of Ceylon from November 2015 to May 2019, appointed by the Ministry of Public Enterprises Development.
-
-...
-
-[Data](articles/1aefceb3.json)
-
-[Extended Data](ext_articles/1aefceb3.ext.json)
-
----
-
-### Central Engineering Services gets contract to renovate State-owned tourist bungalows
-
-*2024-10-24 04:50:18* · [`dailyftlk`](https://www.ft.lk/business/Central-Engineering-Services-gets-contract-to-renovate-State-owned-tourist-bungalows/34-768339) · `en`
-
-The Cabinet of Ministers on Monday approved awarding a contract to renovate the Ekgaloya and Riverston tourist bungalows to Central Engineering Services Ltd., under the supervision of the Central Engineering Consultancy Bureau.
-
-These renovations are part of a broader initiative to revive nine State-owned tourist bungalows identified by the Department of Forest Conservation.
-
-The renovation plan follows the recommendations of a committee tasked with developing a strategy for the efficient use of resorts and tourist bungalows owned by Government institutions.
-
-“An estimated budget of Rs. 166.93 million has been allocated for the project, with a target to complete all renovations by the end of this year,” Cabinet Spokesman and Minister Vijitha Herath said at the post-Cabinet meeting media briefing on Tuesday.
-
-...
-
-[Data](articles/9ecb5c31.json)
-
-[Extended Data](ext_articles/9ecb5c31.ext.json)
-
----
-
-### Sri Lanka India Society commemorates 78th Independence Day of India
-
-*2024-10-24 04:48:40* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-India-Society-commemorates-78th-Independence-Day-of-India/56-768338) · `en`
-
-Presenting traditional hand-painted Indian art to Foreign Affairs Minister Vijitha Herath (centre) by SLIS President Kishore Reddy (left) and Indian High Commissioner to Sri Lanka Santosh Jha
-
-Minister Vijitha Herath and High Commissioner Santosh Jha joined by Sri Lanka India Society President Kishore Reddy and the EXCO
-
-Indian High Commissioner Santosh Jha highlights “we come into an era of supporting Sri Lanka through an investment-driven model, rather than burdening the nation with debt”
-
-Resonating President Anura Kumara Dissanayake's phrase, SLIS President Kishore Reddy says “Api ekatuwela rata hadamu – “Together let’s build the nation”
-
-Foreign Affairs Minister Vijitha Herath says “India and Sri Lanka have immense potential to develop beyond just traditional economic interactions. Sri Lanka values this partnership”
-
-...
-
-[Data](articles/a14d2f15.json)
-
-[Extended Data](ext_articles/a14d2f15.ext.json)
-
----
-
-### WFP launches regional project to strengthen climate change adaptation across Sri Lanka and India
-
-*2024-10-24 04:45:08* · [`dailyftlk`](https://www.ft.lk/news/WFP-launches-regional-project-to-strengthen-climate-change-adaptation-across-Sri-Lanka-and-India/56-768337) · `en`
-
-From left: UN Resident Coordinator for India Shombi Sharp, Government of India MoEFCC Economic Advisor Rajasree Ray, Environment Ministry Sri Lanka Additional Secretary – Environment Projects and Education Training W.G. Kumaragama, WFP Sri Lanka Deputy Country Director Gerard Rebello, and WFP India Country Director Elisabeth Faure
-
-The United Nations World Food Program (WFP), together with the Environment Ministries of Sri Lanka and India this week launched its Adaptation for Resilience (ADAPT4R) project.
-
-The five-year initiative aims to enhance the food security and livelihoods of farming communities facing climate-induced challenges.
-
-...
-
-[Data](articles/a526a942.json)
-
-[Extended Data](ext_articles/a526a942.ext.json)
 
 ---

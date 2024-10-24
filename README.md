@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 02:23:55**
+As of **2024-10-25 02:39:44**
 
 ## Newspaper Stats
 
-*Scraped **51,232** Articles*
+*Scraped **51,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 510
 bbccomsinhala | 519
 islandlk | 3,040
 economynextcom | 3,131
-dailyftlk | 3,493
+dailyftlk | 3,496
 dailymirrorlk | 4,733
 adalk | 4,774
 adaderanalk | 6,069
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,232 (100.0%) of 51,232 articles have been extended.
+51,235 (100.0%) of 51,235 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Institute of British Examinations celebrates ISO 9001:2015 certification, announces future expansion plans
+
+*2024-10-25 02:14:24* · [`dailyftlk`](https://www.ft.lk/opinion/Institute-of-British-Examinations-celebrates-ISO-9001-2015-certification-announces-future-expansion-plans/14-768415) · `en`
+
+IBE Managing Director Gihan Fernando, IBE Academic Directress Ayesha Kumarihamy with their ISO 9001:2015 Standards Certification, which is yet another significant milestone achieved in recognition of the institute’s continuous commitment to quality education
+
+IBE team with esteemed invitees at the media conference on ‘Transnational prospects through learning Cambridge English with ISO 9001: 2015 standards integration’
+
+The Institute of British Examinations (IBE) recently announced a significant milestone in its ongoing pursuit of educational excellence with the attainment of ISO 9001:2015 certification.
+
+This platform is unveiling IBE’s future plans, including the introduction of unique facilities aimed at enhancing the student’s learning experience. These developments mark a new chapter in IBE’s mission to deliver world-class Cambridge English qualifications and further strengthen its position as a leader in Cambridge English education in Sri Lanka.
+
+...
+
+[Data](articles/3d0e223d.json)
+
+[Extended Data](ext_articles/3d0e223d.ext.json)
+
+---
 
 ### Marikkar calls for strong opposition to safeguard democracy
 
@@ -65,6 +85,44 @@ In a press release issued yesterday, Wickremesinghe responded to recent criticis
 [Data](articles/776d57a2.json)
 
 [Extended Data](ext_articles/776d57a2.ext.json)
+
+---
+
+### Royal College Principal says committed to upholding high standards and values
+
+*2024-10-25 01:02:13* · [`dailyftlk`](https://www.ft.lk/opinion/Royal-College-Principal-says-committed-to-upholding-high-standards-and-values/14-768385) · `en`
+
+Denies allegations regarding Royal College rugby team in both newspapers and on social media as unfounded
+
+Says if a genuine complaint is made, will ensure comprehensive inquiry takes place
+
+Insists will not be drawn into addressing historical grievances over discipline-related issues at Royal College unrelated to his tenure
+
+Following Daily FT’s assertion that the responses to a recent spate of articles in this newspaper on multiple issues concerning Royal College, Colombo should come first from the Principal of the school and not the Royal College Union (RCU), the Principal Thilak Waththuhewa this week issued the following statement.
+
+...
+
+[Data](articles/85cd50cd.json)
+
+[Extended Data](ext_articles/85cd50cd.ext.json)
+
+---
+
+### RCU responds to Daily FT Editor’s Note
+
+*2024-10-25 01:00:51* · [`dailyftlk`](https://www.ft.lk/opinion/RCU-responds-to-Daily-FT-Editor-s-Note/14-768384) · `en`
+
+The Royal College Union (RCU) Honorary Secretary Aruna Samarajewa has issued the following statement in response to the Daily FT Editor›s note published on 21 October on Page 13. (See https://www.ft.lk/sports/RCU-has-its-say-over-misleading-allegations-in-Daily-FT-regarding-Royal-College-Colombo/23-768192)
+
+At the outset, we do thank you, for acceding to our demand, to publish in full, our written communication, addressed to you, dated 16/10/2024, and titled - 'A concerned response to the misleading allegations regarding Royal College, Colombo'.
+
+By our said letter, we were constrained to take the special measure, of initiating a formal communication to you, in order to most emphatically complain and object, to your highly disturbing practice, of indulging in making unverified, unconfirmed, and extremely distorted and utterly destructive allegations, against Royal College, as well as Rugby and the Head Coach of Rugby at Royal College.
+
+...
+
+[Data](articles/cf395375.json)
+
+[Extended Data](ext_articles/cf395375.ext.json)
 
 ---
 
@@ -2383,79 +2441,5 @@ If Sri Lankans living in Lebanon feels something insecure to protect Sri Lanka, 
 [Data](articles/cf7ec0e7.json)
 
 [Extended Data](ext_articles/cf7ec0e7.ext.json)
-
----
-
-### Gammanpila postponed to submit written objections
-
-*2024-10-24 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202508) · `si`
-
-Colombo High Court postpones Gammanpila objection submission. Case against US MP Udaya Gammanpila rescheduled for November 25. Attorney General filed charges on September 26 and 25, 1996.
-
-🟩
-
-The Colombo High Court today ordered the US Parliamentarian Gammanpila on November 25, including the companies filed against the US MP Udaya Gammanpila on a cute anatony license.
-
-The case was called before Colombo High Court Judge Pradeep Abeyratne today.
-
-His lawyer, the other accused, Sydney Jayaratne, who appeared in the court, appeared before the court.
-
-After the submitted submitted, the court ordered the partnership to the case on November 25.
-
-The Attorney General has filed the case against two defendants including Udaya Gammanpila against September 26, 1996 and September 25, 1996.
-
-◼️
-
-[Data](articles/7662eab8.json)
-
-[Extended Data](ext_articles/7662eab8.ext.json)
-
----
-
-### Namal is out of CIT
-
-*2024-10-24 13:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிஐடியிலிருந்து-வெளியேறினார்-நாமல்/175-345984) · `ta`
-
-Namal Rajapaksa leaves CID after 2.5-hour questioning. Former MP denies allegations from 2010-2015. Claims political motives behind inquiry.
-
-🟩
-
-Former Member of Parliament Namal Rajapaksa left the Criminal Investigation Department for about two and a half hours.
-
-Namal Rajapaksa had come to the Criminal Investigation Department to make a confession at 09.00 am today.
-
-“When regime change, it has become a political culture of our country to call those who were in the previous government and question them
-
-If we tell us, we are coming, the people of the country have created a false picture about us. I came today to lie to it.
-
-2010 - 2015 I was invited to get a confession on a complaint that a person had come to my office and paid for it, ”Namal said.
-
-◼️
-
-[Data](articles/d5132be1.json)
-
-[Extended Data](ext_articles/d5132be1.ext.json)
-
----
-
-### 600 complaints have been lodged in the parliamentary election so far
-
-*2024-10-24 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/196983) · `ta`
-
-600 complaints filed in parliamentary election. 196 to national center, 385 to district centers. 4 complaints of violence, 15 others.
-
-🟩
-
-The Election Commission said that 600 complaints have been received from the parliamentary election (from September 26 to October 23).
-
-Accordingly, 196 complaints have been received to the National Election Complaint Management Center and 385 to the District Election Complaint Management Center for violating election laws.
-
-Meanwhile, the District Election Complaint Management Center has received four complaints on violence and 15 complaints.
-
-◼️
-
-[Data](articles/6009f7ee.json)
-
-[Extended Data](ext_articles/6009f7ee.ext.json)
 
 ---

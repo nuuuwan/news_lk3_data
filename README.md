@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 08:59:14**
+As of **2024-10-24 09:13:06**
 
 ## Newspaper Stats
 
-*Scraped **51,063** Articles*
+*Scraped **51,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,121
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,750
-adaderanalk | 6,051
+adaderanalk | 6,052
 tamilmirrorlk | 7,033
 virakesarilk | 8,179
 adaderanasinhalalk | 8,866
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,052 (100.0%) of 51,063 articles have been extended.
+51,052 (100.0%) of 51,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Fairly heavy showers expected in several provinces
+
+*2024-10-24 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102891/fairly-heavy-showers-expected-in-several-provinces) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Southern, North-western and Northern provinces and in Kandy and Nuwara-Eliya districts.
+
+Fairly heavy showers above 50 mm are likely at some places in Western, Sabaragamuwa, Southern, North-western and Northern provinces.
+
+Showers or thundershowers will occur at several places in the other areas of the island during the evening or night, it added.
+
+Strong winds of about 40-45 kmph can be expected at times over Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/56c91024.json)
+
+---
 
 ### Suspect arrested in possession of property
 
@@ -1170,7 +1190,7 @@ The victim was 36 year old Chinthaka Weathganaranga Herath, a resident of Kumbuk
 
 ---
 
-### 
+### The Rise and Fall  of the Medamulana  Rajapaksa Dynasty.
 
 *2024-10-23 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84953) · `en`
 
@@ -2353,35 +2373,5 @@ The competition was delayed due to anniversary and one batch charged 45 overs.
 [Data](articles/0da71fa9.json)
 
 [Extended Data](ext_articles/0da71fa9.ext.json)
-
----
-
-### NASA's new task
-
-*2024-10-23 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/196922) · `ta`
-
-Here's a 200-character summary:
-
-
-
-NASA's Apollo 7 broadcast marked a historic moment in space communication. Recent advancements in laser communication have improved efficiency. NASA's latest mission, Escapade, aims to explore Mars' magnetic field and solar wind interactions, providing insights into planetary atmosphere formation and loss.
-
-🟩
-
-During the Apollo 7 trip on October 14, 1968, NASA astronauts hosted the first direct television broadcast from space. Following the disaster of the Apollo 1, the first task of the Apollo project is the Apollo 7 task.
-
-This live broadcast, just a major milestone in both space exploration and communication technology. It allowed people around the world to see and ask for astronauts in space for the first time.
-
-This event set the field for future broadcasts from space. The NASA Research Center, which has this long history, has been making many achievements on space to date.
-
-NASA has made amazing improvements with laser communication. For the first time, laser communications were successfully sent to space.
-
-Technology experts promise to revolutionize how this technology is sent between earth and space. It provides significantly faster and efficient transactions than traditional radio waves.
-
-...
-
-[Data](articles/6e24a1cf.json)
-
-[Extended Data](ext_articles/6e24a1cf.ext.json)
 
 ---

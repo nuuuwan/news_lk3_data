@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 12:14:44**
+As of **2024-10-24 12:25:56**
 
 ## Newspaper Stats
 
-*Scraped **51,101** Articles*
+*Scraped **51,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,203 @@ dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,755
 adaderanalk | 6,059
-tamilmirrorlk | 7,042
-virakesarilk | 8,186
-adaderanasinhalalk | 8,872
+tamilmirrorlk | 7,044
+virakesarilk | 8,188
+adaderanasinhalalk | 8,874
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,101 (100.0%) of 51,101 articles have been extended.
+51,107 (100.0%) of 51,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Emergency telephone number to Israelis
+
+*2024-10-24 12:11:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலியர்களுக்கு-அவசர-தொலைபேசி-இலக்கம்/175-345978) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Israelis visiting Sri Lanka can call 071-8592651 for emergency assistance. The police's coastal and tourism division will respond. Provide identity details for verification.
+
+🟩
+
+Police on Thursday (24) have announced their exclusive telephone number to help Israeli tourists in Sri Lanka during emergencies.
+
+இஸ்ரேலிய சுற்றுலாப் பயணிகளுக்கு தனிப்பட்ட பாதுகாப்பு அல்லது உதவி தேவை என உணர்ந்தால், 071-8592651 என்ற எண்ணில் கரையோர மற்றும் சுற்றுலா பிரிவுக்குப் பொறுப்பான DIG தமயந்த விஜய ஸ்ரீயை தொடர்பு கொள்ளுமாறு கேட்டுக் கொள்ளப்படுகிறார்கள்.
+
+DIG will take appropriate action on the basis of personal needs, police said.
+
+For identity verification, tourists are asked to provide the necessary information when accessing for help.
+
+◼️
+
+[Data](articles/c9561058.json)
+
+[Extended Data](ext_articles/c9561058.ext.json)
+
+---
+
+### ආරක්ෂාව අවශ්‍ය ඊශ්‍රායල ජාතිකයින් ට සහායවීමට පොලීසිය සූදානමින්
+
+*2024-10-24 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202504) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka police prepare aid for Israeli nationals. Tourist support hotline introduced. TID arrests suspects planning attacks. Security forces enhance protection in areas with increased Israeli presence.
+
+🟩
+
+A phone number has been introduced to seek the necessary support for a tourist or other necessity.
+
+පොලිස් මූලස්ථානය පවසන්නේ ඒ සඳහා සංචාරක සහ නාවික දිසාව භාර නියෝජ්‍ය පොලිස්පති දමයන්ත විජය ශ්‍රී මහතා ව අමතන ලෙසට ය.
+
+Meanwhile, two persons have been arrested by the Terrorism Investigation Division (TID) that the Israeli people were planning to attack Israel.
+
+ආරුගම්බේ ප්‍රහාර සැලසුම සම්බන්ධයෙන් ශ්‍රී ලංකා ආරක්ෂක අංශ දැනුවත් කර තිබුණේ ඉන්දීය බුද්ධි අංශ විසිනි.
+
+Acting IGP Priyantha Weerasuriya said that the details were received on the same plan on October 7.
+
+මෙම තොරතුරත් සමගම ශ්‍රී ලංකාව තුළ ඊශ්‍රායල ජාතිකයින් වැඩිපුර ගැවසෙන ප්‍රදේශවල ආරක්ෂාව තර කිරීමට මෙරට ආරක්ෂක අංශ පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/1268c24a.json)
+
+[Extended Data](ext_articles/1268c24a.ext.json)
+
+---
+
+### The Namal CID leaves the CID after two and a half hours
+
+*2024-10-24 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202503) · `si`
+
+Former MP Namal Rajapaksa appeared before the Criminal Investigation Department for about two and a half hours today morning around 9:00 AM to make a statement regarding his summons.
+
+🟩
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පැය දෙක හමාරකට ආසන්න කාලයක් ප්‍රකාශයක් ලබාදී ඉන් පිටව ගොස් තිබේ.
+
+අද පෙරවරු 09.00ට පමණ හිටපු පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබුණේ ප්‍රකාශයක් ලබාදීම සඳහා තමාව කැඳවා ඇති බව පවසමින්ය.
+
+◼️
+
+[Data](articles/53a70fc9.json)
+
+[Extended Data](ext_articles/53a70fc9.ext.json)
+
+---
+
+### அறுகம்பை விவகாரம்;அரசாங்கத்தை சாடுகிறார் காஞ்சன
+
+*2024-10-24 11:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பை-விவகாரம்-அரசாங்கத்தை-சாடுகிறார்-காஞ்சன/175-345977) · `ta`
+
+Sri Lanka: Former Minister Kanchana Vijayaratne criticizes government over Israel tourism threat. She suggests calling emergency meetings with diplomatic missions to address concerns about potential attacks on tourists. Multiple countries have since reinstated travel advisories for Sri Lanka. Two suspects were arrested under terrorism investigation related to the alleged threat against Israeli tourists.
+
+🟩
+
+இலங்கையின் அறுகம் குடா பகுதியில் இஸ்ரேலிய சுற்றுலாப் பயணிகள் மீது தாக்குதல் நடாத்தப்படக்கூடிய அச்சுறுத்தல்கள் குறித்து ஒக்டோபர் 07 ஆம் திகதிக்கு முன்னர் தகவல் கிடைத்த போதிலும் தற்போதைய அரசாங்கம் அது தொடர்பில் நடவடிக்கை எடுக்காமல் இருந்தது குறித்து முன்னாள் அமைச்சர் காஞ்சன விஜேசேகர கவலை வெளியிட்டுள்ளார்.
+
+எச்சரிக்கப்பட்ட தாக்குதல்கள் பற்றிய தகவல்கள் தொடர்பாக முன்னெடுக்கப்பட்ட நடவடிக்கைகள் குறித்து வெளிநாட்டு இராஜதந்திர அதிகாரிகளுக்கு அரசாங்கம் ஏன் விளக்கமளிக்கவில்லை என்று காஞ்சன தனது எக்ஸ் பக்கத்தில் கேள்வி எழுப்பியுள்ளார்.
+
+"தேசிய பாதுகாப்புக்கு ஏற்படும் அச்சுறுத்தலை ஒருபோதும் சாதாரணமாக எடுத்துக் கொள்ளக்கூடாது, சுற்றுலா வருமானம் நாட்டின் மிக முக்கியமான வருமான ஆதாரங்களில் ஒன்றாகும்" என்று காஞ்சன விஜேசேகர கூறினார்.
+
+He pointed out that if the government had had an advance information and explained it to diplomatic embassies, he could have prevented Sri Lanka's travel advice alert on the basis of precautionary measures taken.
+
+...
+
+[Data](articles/f17b977e.json)
+
+[Extended Data](ext_articles/f17b977e.ext.json)
+
+---
+
+### We will build a country of "I am Sri Lankan" - President Anuragumara Dissanayake
+
+*2024-10-24 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196973) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan president Anura Kumara Dissanayake outlines vision for unified nation, emphasizing equal laws, national unity, economic development, and tourism growth.
+
+🟩
+
+சிங்கள, தமிழ், முஸ்லிம் மக்கள் அனைவரும் நம்புகின்ற அனைத்து மக்களினதும் நல்லாசி கிடைக்கின்ற அரசாங்கத்தை தேசிய மக்கள் சக்தியால் மாத்திரமே நிறுவ முடியும். We build a country with a law that is implemented equally. ஒரு சில தடையேற்படுத்தும் சட்டங்கள் இருக்குமாயின் அவற்றை மாற்றியமைத்து மக்களின் நன்மைக்காக ‘நான் இலங்கையன்” என்கின்ற உணர்வை கொண்ட ஒரு நாட்டை நாங்கள் கட்டியெழுப்புவோம். ‘நான் இலங்கையன்” என பெருமையுடன் கூறிக்கொள்ளக் கூடிய பின்புலத்தை தேசிய மக்கள் சக்தியின் அரசாங்கம் உருவாக்கிக்கொடுக்கும் என ஜனாதிபதி அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+
+President Anura Kumara Dissanayake said this while addressing the public meeting of the country -building compass in Trincomalee on Wednesday (23).
+
+இலங்கையில் பலம்பொருந்திய மாற்றத்தை மேற்கொள்வதற்காக தேசிய மக்கள் சக்தியைச் சேர்ந்த நாங்கள் ஜனாதிபதித் தேர்தலில் வெற்றி பெற்றோம். அதன் பின்னர் மிகக் குறுகிய காலத்தில் பாராளுமன்றத்தைக் கலைத்து புதிய ஆட்சியொன்றை உருவாக்குவதற்கான வாய்ப்பினை மக்களுக்கு பெற்றுக்கொடுத்தோம்.
+
+...
+
+[Data](articles/e60bde20.json)
+
+[Extended Data](ext_articles/e60bde20.ext.json)
+
+---
+
+### Tarson's actor Ron Lali has passed away
+
+*2024-10-24 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196978) · `ta`
+
+Ron Ili, actor from US TV series Tarson, died in 1960s aged 86. He portrayed a modern man turning wild in forest, appeared with chimpanzee and performed dangerous scenes. Starred in later TV shows despite injuries.
+
+🟩
+
+Ron Ili, who starred in the Tarson television series, passed away in the 1960s at the age of 86.
+
+From the US, he became famous for starring in the Tarson television series. அந்த படத்தில் அவர் நவீன உலகில் படித்த மனிதராக இருந்து பின்னர் அடர்ந்த காட்டுக்குச் செல்லும் ஒரு நபராக சித்தரிக்கப்பட்டிருந்தார்.
+
+In this series, he will be seen with a chimpanzee monkey wearing a piece of body strength.
+
+Also, he has acted in a fight scene without a tub. Meanwhile, there were many injuries and the lion had been bitten.
+
+Even after the two parts of the "Tarson" series in the 1990s, Ii continued to star in television series.
+
+◼️
+
+[Data](articles/8398f85e.json)
+
+[Extended Data](ext_articles/8398f85e.ext.json)
+
+---
+
+### 23 thousand tons of copper;Customs by Customs!
+
+*2024-10-24 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/196968) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Copper worth ₹50 crore seized from Hong Kong-bound shipment. Officials investigating illegal export from factory in Paleiakota area.
+
+🟩
+
+செப்பு குாழாய் பொருத்திகளை கப்பலில் ஹொங்கொங்கிற்கு அனுப்புவதாகக் கூறி சுமார் ஐந்து கோடி ரூபா பெறுமதியான 23,000 தொன் செப்பு உலோகத்தை அனுப்பத் தயாராகிக்கொண்டிருந்த போது சுங்க அதிகாரிகளால் நேற்று புதன்கிழமை (23) கைப்பற்றப்பட்டுள்ளது.
+
+Customs officials have seized copper metal containers in the export terminal.
+
+பேலியகொட பகுதியில் உள்ள தொழிற்சாலை ஒன்றில் இருந்து செப்பு உலோகங்களை உருக்கி, ஏற்றுமதி செய்யப்பட்டுள்ளமை  சுங்க அதிகாரிகளின் விசாரணையில் இருந்து தெரியவந்துள்ளது.
+
+Customs officials are conducting further investigations into the seized copper reserves.
+
+◼️
+
+[Data](articles/55831db2.json)
+
+[Extended Data](ext_articles/55831db2.ext.json)
+
+---
 
 ### Sri Lanka Police introduce emergency telephone number for Israeli nationals
 
@@ -188,37 +372,9 @@ Bribery Commission says that the OIC of the Gampola Police Station has been arre
 
 ---
 
-### 23 thousand tons of copper;Customs by Customs!
-
-*2024-10-24 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/196968) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Copper worth ₹50 crore seized from Hong Kong-bound shipment. Officials investigating illegal export from factory in Paleiakota area.
-
-🟩
-
-செப்பு குாழாய் பொருத்திகளை கப்பலில் ஹொங்கொங்கிற்கு அனுப்புவதாகக் கூறி சுமார் ஐந்து கோடி ரூபா பெறுமதியான 23,000 தொன் செப்பு உலோகத்தை அனுப்பத் தயாராகிக்கொண்டிருந்த போது சுங்க அதிகாரிகளால் நேற்று புதன்கிழமை (23) கைப்பற்றப்பட்டுள்ளது.
-
-Customs officials have seized copper metal containers in the export terminal.
-
-பேலியகொட பகுதியில் உள்ள தொழிற்சாலை ஒன்றில் இருந்து செப்பு உலோகங்களை உருக்கி, ஏற்றுமதி செய்யப்பட்டுள்ளமை  சுங்க அதிகாரிகளின் விசாரணையில் இருந்து தெரியவந்துள்ளது.
-
-Customs officials are conducting further investigations into the seized copper reserves.
-
-◼️
-
-[Data](articles/55831db2.json)
-
-[Extended Data](ext_articles/55831db2.ext.json)
-
----
-
 ### Vanni Mothers meet the president's northern representative
 
-*2024-10-24 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/196972) · `ta`
+*2024-10-24 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/196972) · `ta`
 
 A group of Tamil mothers led by the war -torn Mullaitivu district have asked the new president's provincial representative to take action to release their lands occupied by state institutions, including the military, for many years.
 
@@ -2207,179 +2363,5 @@ Therefore, the rice is not imported other than rice required for tourism.The Pre
 [Data](articles/623ce2cf.json)
 
 [Extended Data](ext_articles/623ce2cf.ext.json)
-
----
-
-### Zimbabwe 20 will renew world records
-
-*2024-10-23 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202482) · `si`
-
-Zimbabwe breaks cricket records: Sikandar Raza scores century in 33 balls, team sets new mark with 6 sixes.
-
-🟩
-
-The Zimbabwe Bhaya was scored as the highest number of runs in the match.
-
-The Gamambia scored 344 runs for the loss of 4 wickets in the loss of 4 wickets.
-
-Sikandrer Raza scored a century in 33 balls with Zimbabwe. He scored 133 runs and the 6 six surp.
-
-Other batsmen in the group launched 12 hits, which included the team 6 hits. It is also a world record.
-
-They broke out the Nepal Group 314 runs. Nepal innings included 26 hits.
-
-◼️
-
-[Data](articles/6922ec04.json)
-
-[Extended Data](ext_articles/6922ec04.ext.json)
-
----
-
-### Sri Lanka's worst fields have been honored with the West Indies;Winning target for Sri Lanka 190
-
-*2024-10-23 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196951) · `ta`
-
-Sri Lanka vs West Indies: West Indies scores 189/10 in 36 overs. Rain delays start. Hazaranga takes 4 wickets. Sri Lanka needs 190 in 44 overs to win.
-
-🟩
-
-The West Indies, which were first invited to bat first in the 2nd ODI in the Kandy Pallekele International Stadium, scored 189 runs for the loss of all wickets in 36 overs.
-
-Today's match, which started 2 hours due to rain, was set to be 44 overs.
-
-Janith Liyanage missed the tallest grip when Kudakesh Moti scored 31 runs and the West Indies favored.
-
-The total number of the West Indies was 8 wickets for 58 runs in 16th over.
-
-Following this, Sherafan Rutherford and Gudakesh Moti scored half -centuries and shared 119 runs in the 9th wicket and added to the total number of West Indies.
-
-Hazaranga took 4 wickets in bowling, while Mahish Deekshana and Asitha Fernando took 3 wickets each.
-
-The Sri Lankan team will win 190 runs in 44 overs and win a short time.
-
-◼️
-
-[Data](articles/fd280c5f.json)
-
-[Extended Data](ext_articles/fd280c5f.ext.json)
-
----
-
-### Indian intelligence services provisional information on arugam attack plan
-
-*2024-10-23 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202481) · `si`
-
-Here's a 200-character summary:
-
-
-
-Indian intel warns of planned attack in Arugam Bay, Sri Lanka. Targets Israelis and tourists. Attackers funded, likely from Iraq. Security forces strengthen measures. Israeli citizens advised to leave coastal areas. Embassies warn citizens.
-
-🟩
-
-The Indian intelligence divisions have revealed that the Sri Lankan security forces have been informed by the Sri Lankan security forces regarding the arugamization attacks.
-
-Arugambay, near Pottuvil, is an attractive tourist world attractive tourist arrivals.
-
-Indian intelligence services have been informed that there is a plan to attack Israel, where Israel has been attacked by such a context.
-
-Indian intelligence has been informed that the attack can be launched between the 19th and 23rd.
-
-Intelligence reports, two Sri Lankans were ready to launch the attack and that two of them were from Iraq.
-
-The two men have been provided with Rs. 50 lakhs.
-
-Accordingly, Indian intelligence services have been provided with all the details, including the number of persons and the number of people.
-
-The information has been revealed that the attack was launched in the country as revenge in Israel's recent leaders to kill the Hezbollah leaders.
-
-...
-
-[Data](articles/ad8f04b8.json)
-
-[Extended Data](ext_articles/ad8f04b8.ext.json)
-
----
-
-### 1056 million rupees to victims
-
-*2024-10-23 19:38:29* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-රැකියා-වංචාකරුවන්ගෙන්-රුපියල්-ලක්ෂ-1056ක්-වින්දිතයින්ට-ලබාදෙයි/11-412647) · `si`
-
-Sri Lanka Foreign Employment Bureau reports 1056 million rupees compensation to victims of fraudulent activities. In 9 months, 570 cases filed, 1177 resolved, 104 arrests made. Bureau warns public about job scams in Israel, South Korea, Japan, Romania, Canada. Contact 1989 for information.
-
-🟩
-
-According to the Sri Lanka Foreign Employment Bureau, the number of foreign employment fraudulent activities of foreign employment and licensed employment agencies have been paid to the victims.
-
-The prosecutions were carried out on the complaints received by the Special Raid and Bureau of Nelum Samarase, Deputy General Manager of the Bureau lawyer.
-
-Accordingly, within the last 9 months, the courts filed against foreign employment fraudsters is 570. 3351 complaints have been received during that period, of which 1177 were resolved. There are 19 raids carried out by the Special Investigation Division of the Bureau during this period and 104 persons have been arrested. There are 17 Licensed Employees Institutions.
-
-Since Israel is giving jobs in Israel, South Korea, Japan, Japan, Ramania and Canada, the Bureau informs the public.
-
-The Bureau requests the 1989 Telephone Number of the Information Bureau of the Information Bureau on the recent past.
-
-◼️
-
-[Data](articles/cdf67a55.json)
-
-[Extended Data](ext_articles/cdf67a55.ext.json)
-
----
-
-### West Indies score 189
-
-*2024-10-23 19:29:27* · [`adalk`](https://www.ada.lk/breaking_news/කොදෙව්වෝ-ලකුණු-189ට-දැවී-යයි/11-412646) · `si`
-
-Here's a 200-character summary:
-
-
-
-West Indies scored 189 against Sri Lanka in the second ODI. Their 9th wicket partnership of 119 was the best in West Indies ODI history and 4th highest globally.
-
-🟩
-
-The West Indies first scored the bowlers for 189 runs in the second ODI between the Sri Lankan team.
-
-West Indies' first wicket 8 runs scored 58 runs in 58 runs, but also held a network of 119 and recorded the West Indies.
-
-This relationship is the best relationship for the 9th wicket in West Indies ODI cricket history. The fourth highest relationship formed for the 9th wicket in the World ODI cricket.
-
-◼️
-
-[Data](articles/a3061969.json)
-
-[Extended Data](ext_articles/a3061969.ext.json)
-
----
-
-### A target of 190s
-
-*2024-10-23 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202480) · `si`
-
-West Indies won against Sri Lanka's Irum in cricket match. Rutherford (80) and Miath (50) key scorers. Wannu Hasara bowled 4/40. Second ODI at Pallekele International Cricket Stadium. Heavy rain limited match to 44 overs.
-
-🟩
-
-Surfen Rutherford and Gudkh Shametha's militant Irum received a victorious West Indies for 58 runs.
-
-Rutherford scored 80 runs while Miath scored 50 runs.
-
-They scored 119 runs for the 9th wicket.
-
-Wannu Hasara was taken 4 wickets for 40 runs in their bowling. Mahish insight and Asapha Fernando took 3 wickets each.
-
-The second ODI series will be held at the Pallekele International Cricket Stadium.
-
-Sri Lanka captain Charith won the toss and elected to the West team to bat first.
-
-The rains had decided to limit the match to 44 overs due to the heavy rains.
-
-◼️
-
-[Data](articles/1cda79a4.json)
-
-[Extended Data](ext_articles/1cda79a4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 01:09:02**
+As of **2024-10-25 01:23:53**
 
 ## Newspaper Stats
 
-*Scraped **51,228** Articles*
+*Scraped **51,230** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,774
 adaderanalk | 6,069
 tamilmirrorlk | 7,061
-virakesarilk | 8,231
+virakesarilk | 8,233
 adaderanasinhalalk | 8,895
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,228 (100.0%) of 51,228 articles have been extended.
+51,230 (100.0%) of 51,230 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1236,6 +1236,28 @@ Subsequently, Vadivel Suresh Pradeesh discussed with the people of the youth, th
 
 ---
 
+### If Anura Kumara Dissanayake takes action, all the assets stolen in the country can be recovered within a year - Candidate Shanaka Senanayake
+
+*2024-10-24 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197008) · `ta`
+
+Candidate Shanaka Senanayake claims assets stolen in Sri Lanka can be recovered within a year under UN policies. He suggests writing to UN for implementation of asset recovery programs like STAR initiative. No action taken yet despite President's support.
+
+🟩
+
+The President is backing up to do it, even though it is easy to take steps to steal the assets hidden abroad in our country.. திருடப்பட்ட சொத்து மீட்பு செயற்திட்டத்தை எமது நாட்டில் உள்வாங்குமாறு கோரி ஜனாதிபதி அநுரகுமார திஸாநாயக்க ஐக்கிய நாடுகள் அமைப்புக்கு ஒரு கடிதம் அனுப்பினால் ஒரு வருடத்துக்குள் திருடப்பட்ட அனைத்து சொத்துக்களையும் மீள பெற்றுக்கொள்ள முடியும் என ஐக்கிய மக்கள் சக்தியின் கம்பஹா மாவட்ட வேட்பாளர் சட்டத்தரணி ஷானக்க சேனாநாயக்க தெரிவித்தார்.
+
+கொழும்பில் வியாழக்கிழமை (24) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு இது தொடர்பில் கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+The United Nations allowed the anti -corruption policy plan in 2003. Our country has signed that policy plan.In Article 7 of the Policy Plan, there is a mechanism on how to recover the resources of solid assets in a country.
+
+...
+
+[Data](articles/61f5f186.json)
+
+[Extended Data](ext_articles/61f5f186.ext.json)
+
+---
+
 ### EXPLAINER – US warning over attack on Sri Lanka’s Eastern tourism hotspot
 
 *2024-10-24 17:35:00* · [`economynextcom`](https://economynext.com/explainer-us-warning-over-attack-on-sri-lankas-eastern-tourism-hotspot-184786/) · `en`
@@ -1407,6 +1429,34 @@ A bond maturing on 15.05.2030 closed at 12.20/30 percent. (Colombo/Oct24/2024)
 [Data](articles/5a2659ca.json)
 
 [Extended Data](ext_articles/5a2659ca.ext.json)
+
+---
+
+### Udaya Kammanpila charges against Ravi and Sani for personal enmity - Ranjan Ramanayake
+
+*2024-10-24 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197019) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Udaya Kammanpila accuses Ravi Senaviratne and Sanjeewa Abeysinghe of personal vendetta. Ranjan Ramanayake calls for investigation into Kammanpila's past actions promoting communalism. Kammanpila faces accusations related to bombings and investigations.
+
+🟩
+
+பொதுமக்கள் பாதுகாப்பு அமைச்சின் செயலாளர் ரவி செனவிரத்ன மற்றும் குற்றப்புலனாய்வு திணைக்களத்தின் முன்னாள் பணிப்பாளர் சானி அபேசேகர மீதான தனிப்பட்ட பகைமையை தீர்த்துக் கொள்வதற்காகவே உதய கம்மன்பில புதிய நாடகத்தை அரங்கேற்றியுள்ளார். முஸ்லிம் மற்றும் தமிழர்கள் மீது  இனவாதத்தை கட்டவிழ்த்து விட்டு இனவாத முரண்பாடுகளை தோற்றுவித்த உதய கம்மன்பிலவின் கடந்த காலத்தை மக்கள் ஆராய வேண்டும் என கம்பஹா மாவட்ட வேட்பாளர் ரஞ்சன் ராமநாயக்க தெரிவித்தார்.
+
+கொழும்பில் நேற்று வியாழக்கிழமை (24) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+Udaya Kammanpila, who was in the presence of those who promoted communalism against the Muslim and the Muslim and the Tamil community in the presence of the Chinese Sunday bombshell, was talking about the survival Sunday bombing five years later.
+
+The people of the country should investigate the past activities of Udaya Kammanpila. முஸ்லிம் மற்றும் தமிழர்களுக்கு எதிராக,இனவாதத்தை தூண்டி விட்டு,இனங்களுக்கிடையில் முரண்பாடுகளை தோற்றுவித்தார்.
+
+...
+
+[Data](articles/33acc58c.json)
+
+[Extended Data](ext_articles/33acc58c.ext.json)
 
 ---
 
@@ -2419,61 +2469,5 @@ Meanwhile, the suspect has been produced at the Madawachi Police Station for fur
 [Data](articles/1a9b0832.json)
 
 [Extended Data](ext_articles/1a9b0832.ext.json)
-
----
-
-### A man arrested with ice drugs in Peliyagoda
-
-*2024-10-24 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/196974) · `ta`
-
-Peliyagoda police arrest 57-year-old woman with 10g of 500mg ice drugs near Kalu Bridge.
-
-🟩
-
-A woman has been arrested with ice drugs near the Kalu Bridge belonging to the Peliyagoda police division, police said.
-
-He was arrested on Wednesday (23) during a raid on the basis of information received by the Peliyagoda police.
-
-The suspect was a 57 -year -old woman from Kelaniya.
-
-10 grams of 500 milligrams of Ice has been seized by the police.
-
-◼️
-
-[Data](articles/815a8e85.json)
-
-[Extended Data](ext_articles/815a8e85.ext.json)
-
----
-
-### The death inspection revealed in the mortality test of music
-
-*2024-10-24 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202507) · `si`
-
-Music star dies from internal bleeding after cocaine overdose. Authorities investigate cause of death. Body not released to family pending further tests.
-
-🟩
-
-The death of the former Dilogian band's death in the third floor of Argentina is revealed that internal bleeding.
-
-It is also revealed that the basic autopsy was revealed by the basic autopsy and the preliminary mortem of cocaine.
-
-The death researchers have been observed at the mortality investigation.
-
-However, the authorities say further investigations should be taken regarding the body.
-
-According to foreign media reports, his body has not yet been handed over to relatives, but about a week has been handed over to relatives.
-
-Among the music Lym of the Foreign Lolleine, a member of the Dicrees' Bar Branch was killed again ago.
-
-The hotel staff had informed the emergency call section of a person who behaves drunk violently before the building was down.
-
-However, when the security forces arrived, the collapsed in the hotel room had died.
-
-◼️
-
-[Data](articles/6d96d460.json)
-
-[Extended Data](ext_articles/6d96d460.ext.json)
 
 ---

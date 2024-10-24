@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 02:58:06**
+As of **2024-10-25 03:09:23**
 
 ## Newspaper Stats
 
-*Scraped **51,245** Articles*
+*Scraped **51,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,55 @@ newsfirstlk | 363
 dbsjeyarajcom | 411
 colombotelegraphcom | 510
 bbccomsinhala | 519
-islandlk | 3,040
+islandlk | 3,041
 economynextcom | 3,131
 dailyftlk | 3,506
 dailymirrorlk | 4,733
 adalk | 4,774
 adaderanalk | 6,069
 tamilmirrorlk | 7,061
-virakesarilk | 8,233
+virakesarilk | 8,234
 adaderanasinhalalk | 8,895
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,240 (100.0%) of 51,245 articles have been extended.
+51,242 (100.0%) of 51,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### South Asian Women's Football
+
+*2024-10-25 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197040) · `ta`
+
+Sri Lanka's women's football team impresses in South Asian Championships, defeating Nepal 0-6 despite limited training. Nepal's professional players struggle against Sri Lanka's determination and teamwork.
+
+🟩
+
+Sri Lanka's 0 - 6 scored in the South Asian Football Championships B team in the South Asian Football B Group on Thursday (23) against Nepal, who had similar appearance of men.
+
+It is commendable that the Sri Lankan women's team, who had been exercising only 40 days before the inauguration of the South Asian Women's Championships, restricted Nepal's team to the club -level professional football in Asia and France.
+
+Within 13 minutes of the match, Nepal scored 3 goals and the Sri Lankan players played 4 - 0 during the break.
+
+In the 8th minute of the match, Renuka Nagercoat lowered the ball from the right to Sapita Rana Mahar Kollaki Nepal 1 - 0.
+
+Four minutes later PK. Sabitra Bandari, who got the ball from Bimala, moved the ball a little bit and kicked the right leg and killed Nepal's 2nd murder.
+
+27 -year -old Bandari is playing a professional player in the Qiingambu football club in France.
+
+Nepal's goals rose to 3 in the next minute after the second goal scored.
+
+...
+
+[Data](articles/70c801bd.json)
+
+[Extended Data](ext_articles/70c801bd.ext.json)
+
+---
 
 ### Institute of British Examinations celebrates ISO 9001:2015 certification, announces future expansion plans
 
@@ -233,6 +263,8 @@ The IMF never assumed that Sri Lanka should have a stable rate of exchange when 
 ...
 
 [Data](articles/a16b2c3f.json)
+
+[Extended Data](ext_articles/a16b2c3f.ext.json)
 
 ---
 
@@ -2337,29 +2369,5 @@ Even after the two parts of the "Tarson" series in the 1990s, Ii continued to st
 [Data](articles/8398f85e.json)
 
 [Extended Data](ext_articles/8398f85e.ext.json)
-
----
-
-### Three arrested over security threats to Israelis in Sri Lanka - Minister
-
-*2024-10-24 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102904/three-arrested-over-security-threats-to-israelis-in-sri-lanka-minister-) · `en`
-
-Three persons have been arrested so far by the police over the intelligence reports on security threats to Israeli nationals in Sri Lanka, Public Security Minister Vijitha Herath said.
-
-Minister Herath revealed this during a press conference being held in this regard.
-
-Accordingly, the minister stated that the three arrested suspects are currently being interrogated.
-
-Minister Vijitha Herath, who further commented in this regard, said:
-
-“Given the conflict situation in the Middle East, it is our responsibility to ensure the safety of the tourists visiting Sri Lanka. Some information has been revealed that there may be potential threats to the safety of the tourists who visited Sri Lanka.”
-
-“Intelligence agencies received information about it. Upon receiving that information, we immediately took action. Today marks one month since this government took office. During the month, the security council met on several occasions.”
-
-...
-
-[Data](articles/96af7687.json)
-
-[Extended Data](ext_articles/96af7687.ext.json)
 
 ---

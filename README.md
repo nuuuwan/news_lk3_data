@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 14:39:36**
+As of **2024-10-24 14:58:35**
 
 ## Newspaper Stats
 
-*Scraped **51,136** Articles*
+*Scraped **51,138** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,038
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,761
-adaderanalk | 6,062
+adalk | 4,762
+adaderanalk | 6,063
 tamilmirrorlk | 7,049
 virakesarilk | 8,197
 adaderanasinhalalk | 8,880
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,880
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,134 (100.0%) of 51,136 articles have been extended.
+51,138 (100.0%) of 51,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Three arrested over security threats to Israelis in Sri Lanka - Minister
+
+*2024-10-24 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102904/three-arrested-over-security-threats-to-israelis-in-sri-lanka-minister-) · `en`
+
+Three persons have been arrested so far by the police over the intelligence reports on security threats to Israeli nationals in Sri Lanka, Public Security Minister Vijitha Herath said.
+
+Minister Herath revealed this during a press conference being held in this regard.
+
+◼️
+
+[Data](articles/96af7687.json)
+
+[Extended Data](ext_articles/96af7687.ext.json)
+
+---
+
+### Three arrested for Arugambay incident - Public Defense Minister
+
+*2024-10-24 14:23:15* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්බේ-සිද්ධියට-තිදෙනෙකු-අත්අඩංගුවට---මහජන-ආරක්ෂක-ඇමතිගෙන්-විශේෂ-ප්‍රකාශයක්/11-412665) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Three arrested Arugambay incident Defense Minister Vijitha Herath media briefing Colombo investigation ongoing
+
+🟩
+
+According to the General Secretary of Defense Vijitha Herath, three persons have been arrested on tests carried out on the information that was attacked in the area of ​​Arugambay.
+
+He was speaking at a media briefing in Colombo.
+
+"Three have already been arrested based on this information on suspicion. The three is being interrogated. There is an integrity or unwittingly or unwittingly, knowing whether they have an effort to know. Further investigations are being carried out on the information obtained. "
+
+◼️
+
+[Data](articles/4e0df5cf.json)
+
+[Extended Data](ext_articles/4e0df5cf.ext.json)
+
+---
 
 ### Special media conference to explain the current situation in the country
 
@@ -494,21 +536,27 @@ The suspect had been remanded after being produced before the Mahiyanganaya Magi
 
 ---
 
-### නුගේගොඩටම කුඩු බෙදු කැකුළි අල්ලයි
+### Largeted heed to Nugegoda in Nugegoda
 
 *2024-10-24 12:39:54* · [`adalk`](https://www.ada.lk/breaking_news/නුගේගොඩටම-කුඩු-බෙදු-කැකුළි-අල්ලයි/11-412659) · `si`
 
-නුගේගොඩ පොලිස් කොට්ඨාශයේ මහා පරිමාණයෙන් හෙරෝයින් ජාවාරමේ නියුතු " කැකුලී" නම් ජාවාරම් කාරිය අලෙවියට සන්තකයේ තබාගන යමින් සිටි රුපියල් තුන්ලක්ෂ පනස් දහසකට අධික වටිනා හෙරෝයින් මිලි ග්‍රෑම් 11000 ක් සමග දෙල්කඳ ප්‍රදේශයේදී නුගේගොඩ කොට්ඨාස දූෂණ මර්දන ඒකකය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලීසිය පැවසීය.
+Nugegoda corruption unit arrests suspect aged 26 in Madiwela. Heroin found in Delkanda area. Investigation ongoing.
 
-සැකකාරිය මාදිවල ,රාහුලපුර පදිංචිව සිටින වයස අවුරුදු (26) ක්ද වන අවිවාහක තැනැත්තියක් වේ .
+🟩
 
-ගල්කිස්ස බඩෝවිට සිට හෙරෝයින් තොගයක් සමග කාන්තාවක පැමිණෙන බවට කොට්ඨාස දූෂණ මර්දන ඒකකය පොලිස් සැරයන් 54478 වසන්ත මහතා වෙත ලද රහසිගත තොරතුරකට අනුව දෙල්කඳ ප්‍රදේශයේ රැකසිට සිදුකල වැටලීමේදී මෙම හෙරෝයින් තොගය ප්ලාස්ටික් බෝතලයක සූක්ෂ්ම ලෙස අසුරා තිබියදී පොලිස් භාරයට ගෙනඇත.
+The Nugegoda Divisional Corruption Unit has been arrested by the Nugegoda Divisional Secretariat with a large scale of Rs.
 
-සිදුකල විමර්ශනයට අනුව සැකකාරිය ගල්කිස්ස බඩෝවිට ප්‍රධාන තොග ජාවාරම් කරුවන්ගෙන් ගන්නා හෙරෝයින් තම නිවසේ සිට පැකට්කර රත්මලාන, දෙහිවල, නුගේගොඩ, දෙල්කඳ,මිරිහාන යන ප්‍රදේශවලට දීර්ඝකාලීනව බෙදාහැර ඇති බවට අනාවරණය වී ඇතැයිද පොලීසිය පැවසීය.
+The suspect is the unmarried person who is the age of 26, in Madiwela, Rahulapura.
+
+According to a coordinator of a woman with heroin with heroin from Mount Lavinia, the heroin was taken into custody when the heroin had been submerged in the Delkanda area.
+
+According to the investigation, the suspect had been distributed from his home from his home from her home, police said.
 
 ◼️
 
 [Data](articles/b25609b6.json)
+
+[Extended Data](ext_articles/b25609b6.ext.json)
 
 ---
 
@@ -828,21 +876,29 @@ Even after the two parts of the "Tarson" series in the 1990s, Ii continued to st
 
 ---
 
-### அறுகம்பே விவகாரம்;அரசாங்கத்தை சாடுகிறார் காஞ்சன
+### Kanchana
 
 *2024-10-24 11:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-விவகாரம்-அரசாங்கத்தை-சாடுகிறார்-காஞ்சன/175-345977) · `ta`
 
-இலங்கையின் அறுகம்பே பகுதியில் இஸ்ரேலிய சுற்றுலாப் பயணிகள் மீது தாக்குதல் நடாத்தப்படக்கூடிய அச்சுறுத்தல்கள் குறித்து ஒக்டோபர் 07 ஆம் திகதிக்கு முன்னர் தகவல் கிடைத்த போதிலும் தற்போதைய அரசாங்கம் அது தொடர்பில் நடவடிக்கை எடுக்காமல் இருந்தது குறித்து முன்னாள் அமைச்சர் காஞ்சன விஜேசேகர கவலை வெளியிட்டுள்ளார்.
+Former Minister Kanchana Wijesekera criticizes government handling of Israeli tourist threats. He argues lack of communication with foreign embassies led to travel advisories. Two suspects arrested by TID.
 
-எச்சரிக்கப்பட்ட தாக்குதல்கள் பற்றிய தகவல்கள் தொடர்பாக முன்னெடுக்கப்பட்ட நடவடிக்கைகள் குறித்து வெளிநாட்டு இராஜதந்திர அதிகாரிகளுக்கு அரசாங்கம் ஏன் விளக்கமளிக்கவில்லை என்று காஞ்சன தனது எக்ஸ் பக்கத்தில் கேள்வி எழுப்பியுள்ளார்.
+🟩
 
-"தேசிய பாதுகாப்புக்கு ஏற்படும் அச்சுறுத்தலை ஒருபோதும் சாதாரணமாக எடுத்துக் கொள்ளக்கூடாது, சுற்றுலா வருமானம் நாட்டின் மிக முக்கியமான வருமான ஆதாரங்களில் ஒன்றாகும்" என்று காஞ்சன விஜேசேகர கூறினார்.
+Former Minister Kanchana Wijeeskera has expressed concern over the threats of attacking Israeli tourists in the Sri Lankan area, despite the information on the current government, but the current government has not taken action.
 
-அரசாங்கத்திடம் முன்கூட்டியே தகவல் இருந்திருந்தால் மற்றும் இராஜதந்திர தூதரகங்களுக்கு அது பற்றி விளக்கியிருந்தால், எடுக்கப்பட்ட முன்னெச்சரிக்கை நடவடிக்கைகளின் அடிப்படையில் இலங்கைக்கான பயண ஆலோசனை எச்சரிக்கையை தடுத்திருக்கலாம் என்று அவர் சுட்டிக்காட்டினார்.
+Kanchana has questioned why the government did not explain to foreign diplomatic authorities about the actions taken on the warning attacks.
+
+"The threat to national security should never be taken, is one of the most important income sources in the country," said Kanjana Wijesekera.
+
+He pointed out that if the government had had an advance information and explained it to diplomatic embassies, he could have prevented Sri Lanka's travel advice alert on the basis of precautionary measures taken.
+
+"The government should at least call for a meeting with diplomatic embassies and security officials, explain to them the steps taken and work with foreign embassies to eliminate travel advice to Sri Lanka," the former minister added.
 
 ...
 
 [Data](articles/4a36dd9a.json)
+
+[Extended Data](ext_articles/4a36dd9a.ext.json)
 
 ---
 
@@ -2327,43 +2383,5 @@ The Sri Lanka-China Friendship Association (SLCFA) extended its profound appreci
 [Data](articles/ec7a589b.json)
 
 [Extended Data](ext_articles/ec7a589b.ext.json)
-
----
-
-### Victims of IPKF Jaffna hospital massacre remembered
-
-*2024-10-24 04:43:05* · [`dailyftlk`](https://www.ft.lk/news/Victims-of-IPKF-Jaffna-hospital-massacre-remembered/56-768335) · `en`
-
-The 37th commemoration of the Jaffna Teaching Hospital Massacre by the Indian Peacekeeping Forces (IPKF) in 1987 was held on Monday at the hospital. Hospital staff and attendees paid tribute to the victims by lighting flowers in remembrance of those who lost their lives in the attack.
-
-Family members of the 68 unarmed victims, including 21 hospital staff and 47 patients, attended the event.
-
-The attack, carried out by the IPKF under the command of Lt. Gen. Dipendra Singh, was part of a series of mass killings in Northern Sri Lanka. The IPKF had been deployed under the Indo-Sri Lanka Accord of 1987, which sought to bring peace to the region, but the massacre marked a tragic and violent episode in the conflict.
-
-...
-
-[Data](articles/2b8ff074.json)
-
-[Extended Data](ext_articles/2b8ff074.ext.json)
-
----
-
-### TISL launches General Election 2024 watchdog
-
-*2024-10-24 04:40:33* · [`dailyftlk`](https://www.ft.lk/news/TISL-launches-General-Election-2024-watchdog/56-768334) · `en`
-
-TISL National Coordinator Thushanie Kandilpana (centre) flanked by Senior Program Manager Gowriswaran Kirupairajah (left) and Political Sector Program Manager Shaveendra Senarath – Pic by Lasantha Kumara
-
-The Transparency International Sri Lanka (TISL) yesterday announced the launch of its 2024 General Election Observation program, focusing on the critical issue of public resource misuse by politicians for campaigning.
-
-Speaking about their organisation’s mission for the 14 November General Election at a media briefing yesterday, TISL outlined their efforts to foster an accountable and fairer electoral process, crucial for strengthening democratic integrity.
-
-TISL said it has been committed to election monitoring since its inception in 2002, aiming to alleviate corruptive practices in campaigning while promoting greater transparency within the public over the misuse of their public resources – a persistent crisis in Sri Lankan politics for over decades.
-
-...
-
-[Data](articles/605196e3.json)
-
-[Extended Data](ext_articles/605196e3.ext.json)
 
 ---

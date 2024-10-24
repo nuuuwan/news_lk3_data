@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 02:39:44**
+As of **2024-10-25 02:58:06**
 
 ## Newspaper Stats
 
-*Scraped **51,235** Articles*
+*Scraped **51,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 510
 bbccomsinhala | 519
 islandlk | 3,040
 economynextcom | 3,131
-dailyftlk | 3,496
+dailyftlk | 3,506
 dailymirrorlk | 4,733
 adalk | 4,774
 adaderanalk | 6,069
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,235 (100.0%) of 51,235 articles have been extended.
+51,240 (100.0%) of 51,245 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ This platform is unveiling IBE’s future plans, including the introduction of u
 [Data](articles/3d0e223d.json)
 
 [Extended Data](ext_articles/3d0e223d.ext.json)
+
+---
+
+### Imthiaz criticises NPP and President’s shift to traditional politics
+
+*2024-10-25 01:37:55* · [`dailyftlk`](https://www.ft.lk/news/Imthiaz-criticises-NPP-and-President-s-shift-to-traditional-politics/56-768395) · `en`
+
+Says President Anura Dissanayake’s decision to dissolve Parliament just three days after winning is a continuation of old political tactics
+
+Highlights Dissanayake’s shift from warning about dangers of power concentration to claiming there’s no need for an opposition
+
+Calls for national unity and a coalition of forces to overcome current political and economic crises
+
+Samagi Jana Balawegaya (SJB) national list candidate Imthiaz Bakeer Markar has sharply critiqued the National People’s Power (NPP) and its leader, President Anura Dissanayake at a press conference yesterday where he expressed concerns about the rapid shift in political behaviour and the dangers of continuing traditional political practices.
+
+...
+
+[Data](articles/c045d5bd.json)
+
+[Extended Data](ext_articles/c045d5bd.ext.json)
 
 ---
 
@@ -88,6 +108,78 @@ In a press release issued yesterday, Wickremesinghe responded to recent criticis
 
 ---
 
+### Overseas Realty records Rs. 4.5 b Profit Before Tax for nine months
+
+*2024-10-25 01:34:22* · [`dailyftlk`](https://www.ft.lk/business/Overseas-Realty-records-Rs-4-5-b-Profit-Before-Tax-for-nine-months/34-768392) · `en`
+
+Overseas Realty (Ceylon) PLC said yesterday it has recorded a Group Revenue of Rs. 5,499 million and a Group Profit Before Tax of Rs. 4,579 million for nine months ending on 30 September.
+
+The Company said the appreciation of the LKR resulted in a net exchange gain on foreign currency loans of Rs. 1,463 million compared to Rs. 2,422 million recorded in the corresponding period of last year. Net fair value gain recorded from Investment Properties was Rs. 1,160 million compared to a fair value loss of Rs. 33 million in the same period of last year.
+
+The company revenue of Rs. 1,990 million at the World Trade Center, Colombo, was 16% higher than the corresponding period of last year, due mainly to higher occupancy and rental rates.
+
+...
+
+[Data](articles/0f6f90db.json)
+
+[Extended Data](ext_articles/0f6f90db.ext.json)
+
+---
+
+### Indrajit Wickramasinghe appointed to Overseas Realty Board
+
+*2024-10-25 01:33:44* · [`dailyftlk`](https://www.ft.lk/business/Indrajit-Wickramasinghe-appointed-to-Overseas-Realty-Board/34-768391) · `en`
+
+Overseas Realty Ceylon PLC has announced the appointment of Indrajit Wickramasinghe as an Independent Non-Executive Director to its Board of Directors.
+
+In compliance with the CSE new listing rules on independent directors, the company also announced the retirement of Tissa Kumara Bandaranayake, who had distinguishably served on the Board for over 13 years.
+
+...
+
+[Data](articles/022f982f.json)
+
+[Extended Data](ext_articles/022f982f.ext.json)
+
+---
+
+### Sri Lanka’s gem legacy to shine at FACETS 2025
+
+*2024-10-25 01:32:58* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-gem-legacy-to-shine-at-FACETS-2025/34-768390) · `en`
+
+The 31st edition of FACETS Sri Lanka, the country’s premier international gem and jewellery exhibition, is set to take place from 4 to 6 January 2025 at the Cinnamon Grand Colombo. Organised by the Sri Lanka Gem and Jewellery Association (SLGJA), this event has long been a key platform for Sri Lanka’s gem and jewellery industry, cementing the nation’s position as a global leader in gemstone production and craftsmanship.
+
+FACETS Sri Lanka draws an international audience of traders, exporters, manufacturers, lapidarists, and collectors. With over three decades of history, the exhibition has become a vital trade hub, attracting buyers and exhibitors from markets worldwide. Sri Lanka’s reputation as one of the oldest sources of coloured gemstones, particularly sapphires, enhances the global allure of this annual event.
+
+...
+
+[Data](articles/f72feaae.json)
+
+[Extended Data](ext_articles/f72feaae.ext.json)
+
+---
+
+### Craft and education impact on Sri Lanka’s creative economy
+
+*2024-10-25 01:29:08* · [`dailyftlk`](https://www.ft.lk/business/Craft-and-education-impact-on-Sri-Lanka-s-creative-economy/34-768389) · `en`
+
+Festival Patron/former Vogue India Editor/Lifestyle Journalist and Sustainability Advocate Bandana Tewari
+
+OCAD University Associate Professor of Social Innovation Design Sarah Tranum
+
+Estethica Creating Agency Director and Central Saint Martins Pathway Leader for BA Fashion Tamsin Blanchard
+
+Fresh insights to unfold at SLDF 2024 Craft Leadership Forum
+
+South Asia, with countries like Sri Lanka and India with millennia-old craft heritages, is celebrated as a region heavy with cultural richness. However, the economic potential of these crafts and their associated creative cultures remain largely untapped. Their potential as a resource in contemporary design, and their ability to imbue stories, cultural significance and emotional value into products is yet to be fully and strategically utilised. The time has come to change that narrative.
+
+...
+
+[Data](articles/507a3972.json)
+
+[Extended Data](ext_articles/507a3972.ext.json)
+
+---
+
 ### Royal College Principal says committed to upholding high standards and values
 
 *2024-10-25 01:02:13* · [`dailyftlk`](https://www.ft.lk/opinion/Royal-College-Principal-says-committed-to-upholding-high-standards-and-values/14-768385) · `en`
@@ -123,6 +215,70 @@ By our said letter, we were constrained to take the special measure, of initiati
 [Data](articles/cf395375.json)
 
 [Extended Data](ext_articles/cf395375.ext.json)
+
+---
+
+### Sri Lanka needs stable exchange rate mechanism
+
+*2024-10-25 00:15:58* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-needs-stable-exchange-rate-mechanism/14-768383) · `en`
+
+Countries like ours should be exempted from requiring to maintain a strict floating rate of exchange
+
+(Source: IMF Country Report No. 23/116, March 2023, Calculated by the author of this essay)
+
+The IMF promotes a floating exchange rate mechanism. CBSL Governor Dr. Nandalal agrees with it, I think. Some economists too insist that CBSL cannot regulate the exchange rate, hence should allow the rupee to float. SJB has a different idea. They say that they allow first floating the currency to permit market forces to reveal the equilibrium rate, and then stabilising that rate through CBSL intervention. I am not sure about the ideological stance of President Anura Dissanayake as the Minister of Finance.
+
+The IMF never assumed that Sri Lanka should have a stable rate of exchange when they entered into an agreement to approve Extended Fund Facility (EFF) in March 2023. In this agreement the forecasted or estimated exchange rates were as given in the table.
+
+...
+
+[Data](articles/a16b2c3f.json)
+
+---
+
+### Ratan Tata’s recipe for business sustainability
+
+*2024-10-25 00:14:16* · [`dailyftlk`](https://www.ft.lk/columns/Ratan-Tata-s-recipe-for-business-sustainability/4-768382) · `en`
+
+Ratan Tata, one of India’s most respected industrialists and philanthropists, was widely celebrated for his transformational leadership at the Tata Group. His passing on 9 October 2024, marked the end of an era. I had the good fortune of meeting Ratan Tata twice, and the impressions that stand out are his noble and patriarchal demeanour. Under his leadership, the Tata Group expanded by investing in diverse industries, effectively diversifying the risk for the entire conglomerate.
+
+His deep commitment to the Tata legacy of serving the country was reflected in his insistence on allocating a significant portion of profits to social causes, particularly those benefiting the poor. His career, marked by bold decision making, high ethical standards, and visionary thinking, offers numerous leadership lessons. Here are my 5 key insights from Ratan Tata’s remarkable journey.
+
+...
+
+[Data](articles/fd1637e8.json)
+
+---
+
+### Review of SEC regulations on directors’ appointments
+
+*2024-10-25 00:10:43* · [`dailyftlk`](https://www.ft.lk/opinion/Review-of-SEC-regulations-on-directors-appointments/14-768381) · `en`
+
+In 2023/24, the Securities and Exchange Commission (SEC) and CSE introduced a set of new regulations aimed at improving corporate governance. While some of these regulations were progressive, aligning certain listing rules with banking regulations—a move based on the assumption that companies, like banks, operate on public deposits—there are two specific rules that require immediate review.
+
+These rules, while potentially useful in the long term, are impractical in the current economic context, especially given the country’s default status. The situation is further complicated by policy uncertainty with Marxist ideologies influencing policy decisions, despite a shift in chamber, consultancy/audit firm executives from one administration to another like our Parliamentarians, perhaps giving new meaning to bipartisanship and serving the interest of the country.
+
+...
+
+[Data](articles/8b8809a0.json)
+
+---
+
+### Déjà Vu – Travel Advisory
+
+*2024-10-25 00:09:20* · [`dailyftlk`](https://www.ft.lk/columns/Déjà-Vu-Travel-Advisory/4-768380) · `en`
+
+Is this some kind of cruel joke being played on Sri Lanka and its vital tourism industry, crucial to economic recovery, by a group of foreign Embassies?
+
+In early October, Sri Lankan authorities raised an alert on a potential threat in Arugam Bay, a remote village on the east coast popular with Israeli surfers, far from the usual tourist circuits.
+
+Such security alerts are commonplace globally. Following the alert, security measures were increased, two arrests were made, and no incidents were reported. Authorities are confident in their response.
+
+The local population in Arugam Bay is predominantly Muslim, unlike the largely Buddhist and Hindu rest of the country. Typically, over 50% of tourists in Arugam Bay are from Israel, many visiting after military service. Tensions arose between residents and tourists due to illegal businesses run by tourists using foreign currencies and issues related to visa overstays, which unfortunately have not been effectively addressed by the State.
+
+...
+
+[Data](articles/22645d67.json)
 
 ---
 
@@ -165,6 +321,20 @@ The committee was appointed to investigate the lack of proper action by the Indi
 ---
 
 ### 2024-10-24 (Thursday)
+
+### SLBFE Chairman’s call for whistleblowers to expose corrupt deals is long awaited step
+
+*2024-10-24 23:23:24* · [`dailyftlk`](https://www.ft.lk/columns/SLBFE-Chairman-s-call-for-whistleblowers-to-expose-corrupt-deals-is-long-awaited-step/4-768376) · `en`
+
+It is extremely doubtful whether the desired objectives of the WB could be established in the absence of the conducive institutional culture where most of the employees will be silent employees well knowing the dire consequences that they could face in today’s hostile institutional and political climate. WB policy must be grounded in an organisational culture based on mutual trust between the management and the employees in which the employee takes the responsibility for communicating corrupt deals to management before those unethical dealings get out of hand
+
+Sri Lanka Bureau of Foreign Employment (SLBFE) has been in the limelight both in the print and electronic media during the past few months not for good reasons. The Sunday Times exposed mega corruption allegations to the tune of Rs. 2 billion causing a massive loss of Rs. 567 million to the SLBEF.
+
+...
+
+[Data](articles/512e91fe.json)
+
+---
 
 ### Sri Lanka’s corruption watchdog urges ruling NPP to respect election laws
 
@@ -2191,255 +2361,5 @@ Minister Vijitha Herath, who further commented in this regard, said:
 [Data](articles/96af7687.json)
 
 [Extended Data](ext_articles/96af7687.ext.json)
-
----
-
-### Three arrested for plans to target Israeli nationals
-
-*2024-10-24 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202511) · `si`
-
-Sri Lanka arrests 3 over plot against Israelis. Defense Minister claims suspects planning attack. Interrogation ongoing. Intelligence led operation. Police involved. Investigation continues.
-
-🟩
-
-According to the Minister of Defense Vijitha Herath, three suspects have been arrested on suspicion of a plan to attack Israel.
-
-He was speaking at a special press conference held at the Ministry of Defense today to explain the current situation in the country.
-
-Accordingly, the three suspects are being interrogated by the Minister.
-
-It is our responsibility to ensure the safety of tourist arrivals to Sri Lanka with the Middle East. Any information revealed. The security of the visit to Sri Lanka can be obstructed. "
-
-"Intelligence has received information about it. With that information, we proceeded immediately. Right today this government is to power and the month. During the month, a few occasions meetings. "
-
-"With receipt of information, Ahaungalla Ella, Matara
-
-"The security of the police has taken action to deturn this month. This information was deeper in the Security Council. Investigations were conducted by the intelligence and police. "
-
-...
-
-[Data](articles/885fcaeb.json)
-
-[Extended Data](ext_articles/885fcaeb.ext.json)
-
----
-
-### Three arrested for Arugambay incident - Public Defense Minister
-
-*2024-10-24 14:23:15* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්බේ-සිද්ධියට-තිදෙනෙකු-අත්අඩංගුවට---මහජන-ආරක්ෂක-ඇමතිගෙන්-විශේෂ-ප්‍රකාශයක්/11-412665) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Three arrested Arugambay incident Defense Minister Vijitha Herath media briefing Colombo investigation ongoing
-
-🟩
-
-According to the General Secretary of Defense Vijitha Herath, three persons have been arrested on tests carried out on the information that was attacked in the area of ​​Arugambay.
-
-He was speaking at a media briefing in Colombo.
-
-"Three have already been arrested based on this information on suspicion. The three is being interrogated. There is an integrity or unwittingly or unwittingly, knowing whether they have an effort to know. Further investigations are being carried out on the information obtained. "
-
-◼️
-
-[Data](articles/4e0df5cf.json)
-
-[Extended Data](ext_articles/4e0df5cf.ext.json)
-
----
-
-### Special media conference to explain the current situation in the country
-
-*2024-10-24 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202510) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Media conference: Hon. Vijitha Herath discusses national situation. Key points: [Insert key points here]"
-
-🟩
-
-The method discussion of the country's current situation under the patronage of the country is under the patronage of Hon. Vijitha Herath is conducting the issue.
-
-◼️
-
-[Data](articles/1ac50824.json)
-
-[Extended Data](ext_articles/1ac50824.ext.json)
-
----
-
-### Here is the reason why Namal brought to CID - an anonymous complaint
-
-*2024-10-24 14:12:17* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-සී-අයි-ඩී​-යට-ගෙන්නූ-හේතුව-මෙන්න---නිර්නාමික-පැමිණිල්ලක්-ගැනත්-හෙළිදරව්වක්/11-412664) · `si`
-
-Namal Rajapaksa claims anonymous complaint led to CID investigation. He denies wrongdoing, citing previous acquittal. Accuses government of misleading public. Requests international cooperation from Uganda.
-
-🟩
-
-The National Organizer of the Commonwealth Front Namal Rajapaksa said that the war has been created with a misconception to the people of this country.
-
-He was speaking to the Department of Criminal Investigation Day to the Department of Criminal Investigations this morning (24).
-
-"Generally, the political culture of our country is the fact that the other government is being taken by the other government. We're coming when we call. The people of this country have mislead us a wrong picture.
-
-...
-
-[Data](articles/a82b79df.json)
-
-[Extended Data](ext_articles/a82b79df.ext.json)
-
----
-
-### South Africa beat South Africa
-
-*2024-10-24 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202509) · `si`
-
-South Africa won 1st Test vs Bangladesh. SA scored 308/3 in 1st innings, Bangladesh 106 & 307/9. SA reached target without losing 3 wickets. This is SA's 13th Test win over Bangladesh, maintaining unbeaten record. Victory marks SA's first Test win in Asia since 2017. SA now 4th in ICC World Test Championship standings.
-
-🟩
-
-South Africa were able to win the first Test cricket match today (24) in Mirpur today.
-
-Batting first Bangladesh could only score only 106 runs for Bangladesh for the first innings.
-
-However, South Africa wrote to 308 runs in the first innings.
-
-According to Bangladesh to begin the second innings from 202, but they scored 307 runs in their second innings.
-
-But due to the failure of the first innings, they were able to give them 106 runs.
-
-South Africa were able to cross the target without three wickets.
-
-The match was the 15th Test match between Bangladesh and South Africa, and this is the 13th Test win.
-
-They have not been defeated before Bangladesh until the end of two matches.
-
-The victory for South Africa is considered the first Test to receive a Test at the Asian tournament after 10 years.
-
-They had recorded a Test in Asia in Asia, against Sri Lanka in Galle.
-
-South Africa Competition ICC. Test is held under the World Championship.
-
-...
-
-[Data](articles/342d29c3.json)
-
-[Extended Data](ext_articles/342d29c3.ext.json)
-
----
-
-### Sri Lanka-USA Business Council re-elects Charithra Hettiarachchi as president
-
-*2024-10-24 14:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-usa-business-council-re-elects-charithra-hettiarachchi-as-president-184736/) · `en`
-
-ECONOMYNEXT – The Sri Lanka–USA Business Council (SLUSABC) of the Ceylon Chamber of Commerce is hoping to expand partnerships with USAID, the EDB, and BOI, the chamber said.
-
-The Council re-elected Charithra Hettiarachchi, CEO of WICHY Plantation Company (Pvt) Ltd, as President for the 2024/2025 term at its 8th annual general meeting held recently.
-
-“Looking ahead, the council is excited to expand partnerships with USAID, the EDB, and BOI to further support Sri Lankan businesses and communities,” Hettiarachchi was quoted in a statement by the Chamber.
-
-He highlighted the council’s key initiatives over the past year, including sessions on US visitor visas, the SelectUSA Investment Summit, and human trafficking awareness.
-
-The council’s efforts to strengthen trade relations and business travel between the two nations, particularly in sectors like agriculture, were explained.
-
-...
-
-[Data](articles/05aaeb70.json)
-
-[Extended Data](ext_articles/05aaeb70.ext.json)
-
----
-
-### Israelis who left Sri Lanka
-
-*2024-10-24 13:53:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையிலிருந்து-வெளியேறிய-இஸ்ரேலியர்கள்/175-345986) · `ta`
-
-Israeli citizens evacuate Sri Lanka due to terror threat. 22 Israelis leave Katunayake airport bound for Dubai en route to Israel. US embassy assists in evacuation.
-
-🟩
-
-22 Israeli citizens who traveled to Sri Lanka left the Katunayake airport early Thursday morning.
-
-The US embassy in Sri Lanka and the Israeli government have been safely brought to the Katunayake airport to send them to the Katunayake airport after the US embassy and the Israeli government announced that it was dangerous to stay in Sri Lanka as it was planning to launch a terrorist attack on Israelis in the East of Sri Lanka.
-
-It has been reported that they will go to Dubai from the Katunayake airport to Israel for a standard schedule.
-
-◼️
-
-[Data](articles/a334cd6c.json)
-
-[Extended Data](ext_articles/a334cd6c.ext.json)
-
----
-
-### Yall. Arrested with drugs in Chunnakam
-
-*2024-10-24 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/196984) · `ta`
-
-Chunnakam: Police arrest suspect, seize heroin & pills during raid.
-
-🟩
-
-A suspect has been arrested on the Mayilangadu Ezhalaya road belonging to the Jaffna and Chunnakam police division, police said.
-
-The suspect was arrested on Wednesday (23) during a raid carried out by a group of Chunnakam police station officials.
-
-The police seized 02 grams of 200 milligrams of heroin and 800 narcotics pills from the arrested suspect.
-
-◼️
-
-[Data](articles/5b7c3a9e.json)
-
-[Extended Data](ext_articles/5b7c3a9e.ext.json)
-
----
-
-### 30 injured in protests demanding Bangladeshi president resign
-
-*2024-10-24 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102902/30-injured-in-protests-demanding-bangladeshi-president-resign) · `en`
-
-A protest outside the Bangladeshi president’s home demanding his resignation ended when demonstrators clashed with riot police while trying to storm the compound, with 30 injured in the melee.
-
-President Mohammed Shahabuddin’s powers are largely ceremonial but he played a pivotal role at the height of an August student revolution that ousted autocratic ex-premier Sheikh Hasina.
-
-Shahabuddin announced his one-time ally had quit on the day she fled the country for neighbouring India, paving the way for the caretaker administration now running the South Asian country.
-
-But last week he said in a local media interview he had not actually seen a written letter from Hasina to that effect -raising the prospect that her resignation was unlawful.
-
-Protesters began gathering outside Shahabuddin’s compound in the capital Dhaka on Tuesday demanding he step down and accusing him of residual loyalty to Hasina and her Awami League party.
-
-...
-
-[Data](articles/22bfb6a4.json)
-
-[Extended Data](ext_articles/22bfb6a4.ext.json)
-
----
-
-### Notice to Sri Lankans in Lebanon
-
-*2024-10-24 13:38:52* · [`adalk`](https://www.ada.lk/breaking_news/ලෙබනනයේ-සිටින-ලාංකිකයන්ට-දැනුම්-දිමක්/11-412663) · `si`
-
-Here's a summary of the notice in 200 characters:
-
-
-
-Sri Lankan community in Lebanon expresses concern about differences among members. If any feel unsafe, register with embassy for repatriation.
-
-🟩
-
-Sri Lankan embrace in Lebanon says that the Sri Lankans in Lebanon is very concerned with the Sri Lankans in Lebanon are gradually different.
-
-If Sri Lankans living in Lebanon feels something insecure to protect Sri Lanka, the embassy is also registered with the Sri Lankan Embassy for departure.
-
-◼️
-
-[Data](articles/cf7ec0e7.json)
-
-[Extended Data](ext_articles/cf7ec0e7.ext.json)
 
 ---

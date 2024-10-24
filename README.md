@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 03:39:43**
+As of **2024-10-25 03:58:16**
 
 ## Newspaper Stats
 
-*Scraped **51,249** Articles*
+*Scraped **51,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,90 @@ dailymirrorlk | 4,733
 adalk | 4,774
 adaderanalk | 6,069
 tamilmirrorlk | 7,061
-virakesarilk | 8,234
+virakesarilk | 8,237
 adaderanasinhalalk | 8,895
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,246 (100.0%) of 51,249 articles have been extended.
+51,250 (100.0%) of 51,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Accident in Mannar Madhu Brahmanalangulam area;One injury
+
+*2024-10-25 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/197043) · `ta`
+
+Accident in Mannar: Three-wheeler crash injures one. Driver rescued, hospitalized. Police investigating.
+
+🟩
+
+A three -wheeler involved in the BAN business in the Vavuniya Chettikulam Menikpam area on Thursday evening (24)
+
+The driver of the three -wheeler, who was injured in the accident, was rescued with the help of the public and was taken to the Paramanalangulam Poovarasankulam Hospital.
+
+A three -wheeler from Chettikulam Menikpam area crashed into a vehicle parked at 500 meters from junction.
+
+It is noteworthy that the police are conducting further investigations into the accident.
+
+◼️
+
+[Data](articles/317f009d.json)
+
+[Extended Data](ext_articles/317f009d.ext.json)
+
+---
+
+### Preliminary Discussion with Divisional Secretaries on Parliamentary Elections
+
+*2024-10-25 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197042) · `ta`
+
+Discussion between Divisional Secretaries and Election Officials regarding rising invalid votes in Jaffna district. Meeting chaired by Jaffna District Government Agent Marudalingam Pradeepan. Assistant Commissioner of Elections K. Amalraj attended.
+
+🟩
+
+A discussion with the Divisional Secretaries on the 14th of this month was held at the Government Agent's Office at the Government Agent's Office under the patronage of Jaffna District Government Agent and Select Officer Marudalingam Pradeepan.
+
+Commenting on the issue, the officials of the Divisional Secretariat have asked the cooperation of the Divisional Secretariat to engage in the Divisional Secretariat, as the invalid votes in the Jaffna district are on the rise in the Jaffna district.
+
+The Divisional Secretariat Division was also investigated on the establishment of the Elections of the Divisional Secretariat in the Divisional Secretariats.
+
+Assistant Commissioner of Elections. K. Amalraj and all the Divisional Secretaries were present.
+
+◼️
+
+[Data](articles/d22b1bbf.json)
+
+[Extended Data](ext_articles/d22b1bbf.ext.json)
+
+---
+
+### Phone call at night that the Batticaloa court will bomb blastStrong security around the building night
+
+*2024-10-25 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197041) · `ta`
+
+Batticaloa court bomb threat: Police increase security after phone call. Strong measures taken around building. Special Task Force deployed. Main suspects in Zion Kasim case present in court.
+
+🟩
+
+Special security measures have been taken in the area following the telephone call on Thursday night (24).
+
+He immediately recognized the police after a telephone call to the court registrar that he was going to bomb the court building.
+
+Subsequently, police officers visited the court building, and strong security measures were taken to surround the building, and the special police patrols in the area are being monitored and the Special Task Force will be deployed from Friday (25).
+
+Meanwhile, the case of many and main masterminds suspected of being Zion Kasim's JSJS in Batticaloa is being held in the courtroom.
+
+◼️
+
+[Data](articles/45073368.json)
+
+[Extended Data](ext_articles/45073368.ext.json)
+
+---
 
 ### South Asian Women's Football
 
@@ -451,6 +523,8 @@ Some historians including Genovese (1972) have explained a practice among planta
 ...
 
 [Data](articles/e3478f9a.json)
+
+[Extended Data](ext_articles/e3478f9a.ext.json)
 
 ---
 
@@ -2293,73 +2367,5 @@ Minister Herath said that Sri Lankan authorities have received intelligence from
 [Data](articles/5c7e616e.json)
 
 [Extended Data](ext_articles/5c7e616e.ext.json)
-
----
-
-### Rehabilitated Patient Hostel tomorrow at Narahenpitiya Police Hospital
-
-*2024-10-24 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/196985) · `ta`
-
-Narahenpita Police Hospital rehab handover tomorrow at 8:30 AM. IGP Priyantha Weerasuriya to attend ceremony. Event to take place at hospital premises.
-
-🟩
-
-The police media unit said that the rehabilitation of the Narahenpitiya Police Hospital will be handed over to the police inspectors tomorrow (25).
-
-The event will be held at the Narahenpitiya Police Hospital premises at 8.30 am tomorrow (25) under the patronage of Inspector General of Police Priyantha Weerasuriya.
-
-◼️
-
-[Data](articles/6407dd8f.json)
-
-[Extended Data](ext_articles/6407dd8f.ext.json)
-
----
-
-### One arrested with heroin in Anuradhapura
-
-*2024-10-24 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/196987) · `ta`
-
-Anuradhapura: Heroin arrest made. Suspect caught with 10g ice. Produced at police station for investigation.
-
-🟩
-
-A suspect in the Wijepura half -half of the Anuradhapura police division has been arrested by a suspect.
-
-He was arrested on Wednesday (23) during a roundup of secret information received by a team of officials of the Anuradhapura Divisional Criminal Investigation Division.
-
-10 grams of 150 milligrams of ice from the suspect was seized by the police.
-
-Meanwhile, the suspect has been produced at the Anuradhapura Police Station for further investigations.
-
-◼️
-
-[Data](articles/28945617.json)
-
-[Extended Data](ext_articles/28945617.ext.json)
-
----
-
-### Come to Sri Lanka without fear: Invite foreign tourists - government
-
-*2024-10-24 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196992) · `ta`
-
-Sri Lanka invites foreign tourists, assures safety measures after arrests related to potential attacks. Public Security Minister emphasizes no credible threats against civilians or tourists.
-
-🟩
-
-Public Security Minister Vijitha Herath said that we are advising foreign tourists to visit Sri Lanka without fear, and we have taken security measures to foreign diplomats.
-
-Meanwhile, the Public Security Minister said that the three men have been arrested on suspicion of attacks on foreign tourists.
-
-The Minister of Public Safety said that strict measures have been taken to strengthen the safety of tourists and that there is no information that there will be no reports of attacks on civil citizens.
-
-Meanwhile, the Public Security Minister added that there is no information from the Indian Intelligence Unit of the attack on tourists.
-
-◼️
-
-[Data](articles/11496a78.json)
-
-[Extended Data](ext_articles/11496a78.ext.json)
 
 ---

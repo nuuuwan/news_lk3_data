@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 04:23:39**
+As of **2024-10-25 04:39:45**
 
 ## Newspaper Stats
 
-*Scraped **51,254** Articles*
+*Scraped **51,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,506
 dailymirrorlk | 4,733
 adalk | 4,774
 adaderanalk | 6,069
-tamilmirrorlk | 7,061
+tamilmirrorlk | 7,062
 virakesarilk | 8,237
 adaderanasinhalalk | 8,895
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,254 (100.0%) of 51,254 articles have been extended.
+51,255 (100.0%) of 51,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### வரி செலுத்தாத நிறுவன பணிப்பாளருக்கு சிறை
+
+*2024-10-25 03:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாத-நிறுவன-பணிப்பாளருக்கு-சிறை/175-346019) · `ta`
+
+Company director gets 6 years jail for unpaid taxes. Ordered to pay 64 lakhs in 24 installments. Failure to pay leads to 6 months imprisonment.
+
+🟩
+
+The Colombo District Court yesterday imposed a six -year rigorous imprisonment for a company's director for failing to pay taxes for the government for sixty -four lakhs (6443716.71).
+
+It was also ordered to pay the tax payable to the government in 24 equal installments.
+
+The order has been issued to T. Gunawardena, the main partner of AM Holding Pvt.
+
+The District Magistrate has also ordered that if you fail to pay taxes, he will be sentenced to six months in prison.
+
+◼️
+
+[Data](articles/3315bf27.json)
+
+[Extended Data](ext_articles/3315bf27.ext.json)
+
+---
 
 ### Accident in Mannar Madhu Brahmanalangulam area;One injury
 
@@ -732,9 +756,7 @@ Accordingly, the next hearing of the petition has been postponed to November 18 
 
 *2024-10-24 20:41:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/socialism-vietnam/) · `en`
 
-The recent presidential election revealed substantial public support for a pro-socialist/communist political party.
-
-Sri Lankan governments over seven decades have been, in general, centrally planning the economy and society. This central planning overrides the choices made by individuals. The author Dr. Rainer Zitelmann, in his books The Power of Capitalism and In Defence of Capitalism, provides many examples of the damaging effects of central planning.
+The recent presidential election revealed substantial public support for a pro-socialist/communist political party. Sri Lankan governments over seven decades have been, in general, centrally planning the economy and society. This central planning overrides the choices made by individuals. The author Dr. Rainer Zitelmann, in his books The Power of Capitalism and In Defence of Capitalism, provides many examples of the damaging effects of central planning.
 
 Instead of relying on theory, Dr. Zitelmann uses history to show why central planning fails. Not only does he compare society before and after central planning (e.g. China), he also compares societies that are of the same race, culture, religion, and language, yet divided by governance method—for example, East and West Germany, North and South Korea, and Venezuela and Chile. In every case, centrally planned societies struggled, while those with less government interference grew wealthier and more peaceful.
 
@@ -2307,41 +2329,5 @@ He was speaking at a special press conference held at the Ministry of Defense to
 [Data](articles/036da891.json)
 
 [Extended Data](ext_articles/036da891.ext.json)
-
----
-
-### Three arrests with guns in different areas!
-
-*2024-10-24 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/196999) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Police arrest three suspects with guns in separate raids: one in Oyagama, another in Tammidagama, and a third in Kobegane."
-
-🟩
-
-Three suspects were arrested by police on Wednesday (23) during the raid carried out in different areas.
-
-Police have arrested a suspect who had a domestic gun in the Oyagama area yesterday (23).
-
-He was arrested during a raid carried out on information received by police station officials.
-
-The suspect was 33 years old from Rambewa.
-
-Meanwhile, a suspect has been arrested by the police for holding two domestic guns in Tammidagama area under the Meegalewa police division.
-
-He was arrested during a roundup of information received by Meegalewa Police Station officials.
-
-In addition, a suspect has been arrested by the police for possessing a domestic gun in the Kobegane police division.
-
-He was arrested during a roundup of information received by the police station by the police station.
-
-◼️
-
-[Data](articles/9b6581b0.json)
-
-[Extended Data](ext_articles/9b6581b0.ext.json)
 
 ---

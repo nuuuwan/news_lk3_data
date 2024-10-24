@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 09:24:25**
+As of **2024-10-24 09:40:01**
 
 ## Newspaper Stats
 
-*Scraped **51,066** Articles*
+*Scraped **51,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,750
 adaderanalk | 6,054
-tamilmirrorlk | 7,033
+tamilmirrorlk | 7,034
 virakesarilk | 8,179
 adaderanasinhalalk | 8,866
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,052 (100.0%) of 51,066 articles have been extended.
+51,060 (100.0%) of 51,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Let's look at the cost details of the candidates from today
+
+*2024-10-24 09:07:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பாளர்களின்-செலவு-விவரங்களை-இன்று-முதல்-பார்க்கலாம்/175-345965) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Election Commission releases candidate cost reports publicly today. Commissioner Saman Sri Ratnayake states income and expense details available at district secretariats.
+
+🟩
+
+The Elections Commission said that the election reports submitted to the Election Commission will be made public from today (24).
+
+Elections Commissioner Saman Sri Ratnayake said the income and cost reports would be made public at each district secretariat.
+
+◼️
+
+[Data](articles/a8371b85.json)
+
+[Extended Data](ext_articles/a8371b85.ext.json)
+
+---
 
 ### Presidential Election candidates’ expense reports to be released today
 
@@ -43,6 +67,8 @@ The Commissioner General of Elections Saman Sri Ratnayake stated that these inco
 ◼️
 
 [Data](articles/b5bc6ab5.json)
+
+[Extended Data](ext_articles/b5bc6ab5.ext.json)
 
 ---
 
@@ -59,6 +85,8 @@ Condemning the arrest, he said it was unfortunate that the fishermen were being 
 ◼️
 
 [Data](articles/f3a0820b.json)
+
+[Extended Data](ext_articles/f3a0820b.ext.json)
 
 ---
 
@@ -79,6 +107,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/56c91024.json)
+
+[Extended Data](ext_articles/56c91024.ext.json)
 
 ---
 
@@ -1004,21 +1034,27 @@ This decision has been taken by taking into consideration the heavy rain that oc
 
 ---
 
-### ශ්‍රී ලංකාව හමුවේ ​කොදෙව්වන් දෙවන එක්දින තරගයත් පරාජයට පත්වෙයි
+### West Indies be defeated in Sri Lanka
 
 *2024-10-23 22:32:11* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකාව-හමුවේ-​කොදෙව්වන්-දෙවන-එක්දින-තරගයත්-පරාජයට-පත්වෙයි/9-412650) · `si`
 
-සංචාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායමට එරෙහිව පැවති දෙවැනි එක්දින ක්‍රිකට් තරගයෙන් කඩුලු 05ක ජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායම මීට සුළු මොහොතකට පෙර සමත් විය.
+Sri Lanka wins 2nd ODI vs West Indies. Defeated WI in 3-match series. SL: 190/5 (38 ov), WI: 189/9 (39 ov).
 
-ඒ අනුව තරග තුනකින් සමන්විත එක්දින ක්‍රිකට් තරගාවලිය තවත් එක් තරගයක් ඉතිරිව තිබියදී තරග දෙකට බිංදුවක් ලෙස ජය ගැනීමට ශ්‍රී ලංකාවට හැකි විය.
+🟩
 
-මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් බටහිර ඉන්දීය කොදෙව් කණ්ඩායම පන්දුවාර 39ක් අවසානයේ සියලුදෙනා දැවී ලකුණු 189ක් රැස් කළහ.
+The Sri Lankan team took a few moments before five wickets in the second ODI match against the tourist West Indies.
 
-ඊට පිළිතුරු ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 38යි පන්දු දෙකක් අවසානයේ කඩුලු 05ක් පමණක් දැවී ලකුණු 190ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළහ.
+Accordingly, Sri Lanka was able to win the two matches, despite the three-match ODI series.
+
+The West Indies scored 189 runs for the loss of 39 overs.
+
+In reply, Sri Lanka won the competition with 190 wickets at the end of 38 overs.
 
 ◼️
 
 [Data](articles/ea1c4ac6.json)
+
+[Extended Data](ext_articles/ea1c4ac6.ext.json)
 
 ---
 
@@ -1229,6 +1265,8 @@ Is the “House of Rajapaksa” Falling Down? was the heading of an article writ
 ...
 
 [Data](articles/b22e338c.json)
+
+[Extended Data](ext_articles/b22e338c.ext.json)
 
 ---
 
@@ -1564,21 +1602,27 @@ President Anura Kumara Dissanayake says that it is not a vote on November 14 and
 
 ---
 
-### වසරකට නියමිත පාසල් අධ්‍යයන දින ගණනින් දින 29  ක් 2025 දී  සිසුන්ට අහිමිවේ
+### Students lose 29 days in 2025 days a year
 
 *2024-10-23 19:14:51* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-නියමිත-පාසල්-අධ්‍යයන-දින-ගණනින්-දින-29--ක්-2025-දී--සිසුන්ට-අහිමිවේ/11-412645) · `si`
 
-පාසල් පැවැත්වීමේ වාර සටහන සම්බන්ධයෙන් බලපැවත්වෙන අධ්‍යාපන අමාත්‍යාංශ චක්‍රලේඛයට අනුව සියලුම පාසල් එක් අධ්‍යයන වර්ෂයක් සඳහා දින 210  ක් පැවැත්විය යුතු බවට අවධාරණය කළත් ලබන 2025 වසරේදි  පාසල් පැවැත්වීමට සිදුව ඇත්තේ දින 181 ක් පමණි.
+Students miss 29 out of 210 scheduled school days in 2025 due to COVID-19 pandemic. Government and private schools affected equally. Education Ministry aims to complete 1625 year curriculum by January 19, 2025.
 
-ඒ අනුව එම වර්ෂයේදී රජයේ පාසල්,රජය අනුමත පෞද්ගලික පාසල් හා පිරිවෙන්  සිසුන්ට අධ්‍යයන දින 29 ක් අහිමි වෙයි.
+🟩
 
-අධ්‍යාපන අමාත්‍යාංශය මගින්  2025 පාසල් වාර සටහන සම්බන්ධයෙන් ඊයේ (22) නිකුත් කළ චක්‍රලේඛය අනුව වාර තුනක් යටතේ අදියර හයකින් යුත්  2025 පාසල් වර්ෂය  ජනවාරි 27 දින ආරම්භවී දෙසැම්බර් 19 දිනෙන් අවසන්වීමට නියමිතය .
+According to the Ministry of Education, the Ministry of Education will continue to hold 210 days for each academic year, only 181 days have been held in 2025.
 
-එම වර්ෂයේ රජයේ  නිවාඩු දිනයන් හා 2025 පාසල් වර්ෂය ජනවාරි 27 ආරම්භ කිරීම හේතුවෙන් මෙලෙස 210 ක් වූ පැවැත්වීමට  නියමිත දින ගණනින් දින  181 ක් පමණක්  පැවැත්වීමට සිදුව ඇති බව අධ්‍යාපන අමාත්‍යාංශය එම චක්‍රලේඛයේ සඳහන් කරයි.
+Accordingly, the government, government schools, private schools and Piriven students lose 29 days to lose 29 days of study.
+
+According to the Ministry of Education, the six-staged six-staged 1625 year 2025 year 2025 year endemic, the six-staged 3-staged 2025, will be completed by January 19.
+
+The Ministry of Education states that the Ministry of Education has held only 181 days at the time of the commencement of the year and the year 2025 school year and the year 2025.
 
 ◼️
 
 [Data](articles/15ac3689.json)
+
+[Extended Data](ext_articles/15ac3689.ext.json)
 
 ---
 
@@ -2339,27 +2383,5 @@ The National Security Council has informed the Israelite security council to imm
 [Data](articles/d0665f14.json)
 
 [Extended Data](ext_articles/d0665f14.ext.json)
-
----
-
-### Johnston Fernando produced before court
-
-*2024-10-23 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102883/johnston-fernando-produced-before-court) · `en`
-
-Former Minister Johnston Fernando, who was arrested by the Criminal Investigation Department (CID) over the possession of an illegally assembled luxury vehicle, has been produced before the Colombo Fort Magistrate’s Court.
-
-Fernando was arrested following his appearance at the CID this morning (23) to provide a statement regarding an unregistered BMW car allegedly linked to him, which was recently found suspiciously parked at a star-class hotel in Colombo.
-
-A petition filed by Fernando, seeking an order to prevent his arrest over the incident, was taken up for consideration yesterday (22).
-
-During the hearing, his attorneys informed the court that Fernando was prepared to appear before the CID today to give a statement on the matter.
-
-Meanwhile, the Colombo High Court today also issued an arrest warrant on former parliamentarian Johnston Fernando, for failing to appear before the court over a case against him for allegedly involving Sathosa employees in election work from 2010 to 2014.
-
-...
-
-[Data](articles/9dd1634d.json)
-
-[Extended Data](ext_articles/9dd1634d.ext.json)
 
 ---

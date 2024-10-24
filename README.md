@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 04:11:12**
+As of **2024-10-25 04:23:39**
 
 ## Newspaper Stats
 
-*Scraped **51,252** Articles*
+*Scraped **51,254** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 411
-colombotelegraphcom | 512
+colombotelegraphcom | 514
 bbccomsinhala | 519
 islandlk | 3,041
 economynextcom | 3,131
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,251 (100.0%) of 51,252 articles have been extended.
+51,254 (100.0%) of 51,254 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -488,6 +488,20 @@ Accordingly, Savendra Silva, Chief of Security Committees, Army Commander Lieute
 
 ---
 
+### Tourism & Peace – Two Sides Of The Same Coin
+
+*2024-10-24 22:35:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/tourism-peace-two-sides-of-the-same-coin/) · `en`
+
+“Tourism and Peace,” is a topic that resonates deeply with Sri Lanka’s history and future aspirations. Sri Lanka’s tourism sector, despite decades of challenges, is now poised for a major resurgence. This optimism stems from recent political transformations, creating renewed hope for good governance and clear direction. As Millennials and Gen Zers witness these changes, they are positioned to drive the broader economic and social transformation ahead.
+
+...
+
+[Data](articles/9690ec6c.json)
+
+[Extended Data](ext_articles/9690ec6c.ext.json)
+
+---
+
 ### Young man dies
 
 *2024-10-24 22:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197039) · `ta`
@@ -509,6 +523,22 @@ The body of the deceased has been taken to the Eravur Hospital and further inves
 [Data](articles/731d5841.json)
 
 [Extended Data](ext_articles/731d5841.ext.json)
+
+---
+
+### Leadership & Unity In The Face Of Challenges, On AKD’s First Month
+
+*2024-10-24 22:04:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/leadership-unity-in-the-face-of-challenges-on-akds-first-month/) · `en`
+
+On October 13, President Anura Kumara Dissanayake delivered an inspiring speech addressed to the candidates of the National People’s Power (NPP) running for Parliament. His words echoed the energy and vision of past leaders like DS Senanayake, SWRD Bandaranaike, JR Jayewardena etc —leaders who, despite the challenges they faced, embodied a spirit of transformation and dedication to the country. While the successes of their social changes may be debated, Anura Kumara’s speech reflected the vigor of a leader who has achieved success through his own perseverance.
+
+However, it is clear that such energy can provoke resistance. Many who have demonstrated this kind of drive and potential have faced obstacles—often created by external forces. This resistance arises from fear, and as a result, it becomes crucial for AKD to be mindful of his safety. The verbal attacks on him are a clear indication of this threat, fueled by those who fear the transformative changes he represents.
+
+...
+
+[Data](articles/05e68e91.json)
+
+[Extended Data](ext_articles/05e68e91.ext.json)
 
 ---
 
@@ -2313,61 +2343,5 @@ He was arrested during a roundup of information received by the police station b
 [Data](articles/9b6581b0.json)
 
 [Extended Data](ext_articles/9b6581b0.ext.json)
-
----
-
-### Sri Lanka arrests three over Arugam Bay warning
-
-*2024-10-24 15:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-arrests-three-over-arugam-bay-warning-184746/) · `en`
-
-ECONOMYNEXT- Sri Lanka has arrested 3 persons after warnings were issued by foreign missions of a possible attack on tourists in the Arugam Bay area.
-
-“All three are Sri Lankan nationals,” Minister Vijitha Herath said. “Investigations are continuing.”
-
-Herath said investigations are in the initial stages and that they have only been taken into custody on suspicion.
-
-No conclusive evidence against them linking them to any planned attacks have been uncovered so far, he said.
-
-No explosives or any other devices were found on them, he said.
-
-Israel asks citizens to leave Sri Lanka coastal towns, hide nationality
-
-On Wednesday, the US embassy in Colombo warned citizens not to travel to Arugam Bay in the island’s Eastern Coast as there was credible information of an attack. Several other foreign missions followed suit.
-
-...
-
-[Data](articles/8998f76d.json)
-
-[Extended Data](ext_articles/8998f76d.ext.json)
-
----
-
-### Augkambe affair: trio arrested
-
-*2024-10-24 15:03:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-விவகாரம்-மூவர்-கைது/175-345991) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-Sri Lanka arrests 3 for threatening Israelis in Ampara. Public Security Minister confirms investigation. Authorities received intel about potential attacks earlier. Government urges calm and warns against political exploitation. Comprehensive security measures in place for tourists.
-
-🟩
-
-Public Security Minister Vijitha Herath has said that three suspects have been arrested for allegedly threatening the Israeli citizens in the Alukampet area in Ampara.
-
-Speaking at a special media briefing held at the Government Information Department on Thursday evening, he confirmed that all the suspects, Sri Lankan citizens, are currently investigating the incidents.
-
-He said that further details of the suspects would not be reported to the public and that it would be a disruption to investigations.
-
-Minister Herath said that Sri Lankan authorities have received intelligence from foreign intelligence services on the possibility of attacking Israeli citizens earlier this month.
-
-"We did not inform the public until the information was confirmed, but we took security measures once the information was available," he added.
-
-...
-
-[Data](articles/5c7e616e.json)
-
-[Extended Data](ext_articles/5c7e616e.ext.json)
 
 ---

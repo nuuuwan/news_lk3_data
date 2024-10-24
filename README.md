@@ -1,52 +1,106 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 19:12:35**
+As of **2024-10-24 19:23:50**
 
 ## Newspaper Stats
 
-*Scraped **51,195** Articles*
+*Scraped **51,198** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 411
 colombotelegraphcom | 510
-bbccomsinhala | 518
+bbccomsinhala | 519
 islandlk | 3,040
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,769
-adaderanalk | 6,066
+adaderanalk | 6,067
 tamilmirrorlk | 7,057
 virakesarilk | 8,224
-adaderanasinhalalk | 8,890
+adaderanasinhalalk | 8,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,190 (100.0%) of 51,195 articles have been extended.
+51,194 (100.0%) of 51,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
 
-### ”தோட்டத் தொழிலாளர்களை எவரும் கண்டு கொள்வதில்லை”
+### A letter from Ranil about the Passover report
+
+*2024-10-24 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202522) · `si`
+
+Ranil Wickremesinghe urges parties to avoid politicizing the Passover report, citing its controversial impact on the last presidential election. He emphasizes the need for national intelligence reform and proposes reorganizing the Parliamentary Select Committee to investigate Easter Sunday bombings and Passover attacks.
+
+🟩
+
+Former President Ranil Wickremesinghe says that they are requesting every party to do not politics.
+
+He says that this report has led to a great controversy at the last presidential election, but he refused to make the Passover attack on politics.
+
+The full announcement issued by Mr. Ranil Wickremesinghe was released below,
+
+"After I was appointed as the eighth Executive Presiden in Sri Lanka, I handed over the Easter commissions recorded by the Chairman of the Catholic Bishopies.
+
+The Catholic Bishop of Catholics had submitted a number of clarifications and advised the Attorney General to exchange all the relevant claims to the Attorney General.
+
+I had also submitted demands that the revelations were broadcast on Channel 4. I retired Supreme Court Judge SI. The three member committee was appointed to appoint Parrakkody and former Supreme Court Judge Harsha Shoza.
+
+...
+
+[Data](articles/ad164898.json)
+
+[Extended Data](ext_articles/ad164898.ext.json)
+
+---
+
+### “No one finds the plantation workers”
 
 *2024-10-24 18:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்டத்-தொழிலாளர்களை-எவரும்-கண்டு-கொள்வதில்லை/175-346001) · `ta`
 
-லிந்துலை லிப்பக்கலை பகுதியில் இன்று (24) மாலை தேர்தல் பிரசார நடவடிக்கையில் ஈடுபட்ட போது தொழிலாளர்களுடன் இணைந்து கொழுந்து பறித்து கொண்டு அவர் பொது மக்களுடன் கலந்துரையாடினார்.
+Vadivel Suresh Pradeesh discusses plantation worker salaries, youth education issues, and women's rights during election campaign. Emphasizes need for parliamentary representation to address these concerns.
 
-இதன் பொது தொடர்ந்து  உரையாற்றிய வடிவேல் சுரேஷ் பிரதீஷ், தொழிலாளர்களின் சம்பளப் பிரச்சினை முக்கியமானது ஆனால் நான் பாராளுமன்றத்திற்கு செல்லாமல் வீட்டிலிருந்து கதைத்து தீர்த்து வைக்க முடியாது.
+🟩
 
-அதேபோல் மலையகத்திலிருந்து ஏராளமான இளைஞர் யுவதிகள் கொழும்பில் தொழில் புரிந்து வருகின்றனர். ஆனால் அவர்களுக்கு ஒரு பாதுகாப்பு இல்லை, முன்னைய காலத்தில் இரவு நேர பாடசாலைகள் அதிகமாக இடம்பெற்றது ஆனால் அது தற்போது முற்றாக இல்லாமல் போய்விட்டது. இதனால் கல்வி நடவடிக்கை பாதிக்கப்பட்டுள்ளது. காலம் காலமாக கஷ்டப்படும் தோட்டத் தொழிலாளர்களை எவரும் கண்டு கொள்வதில்லை.
+He held a discussion with the public during the election campaign in Lindulai Lipakkalai this evening.
 
-அதேபோல் சிறு துளி மரியாதை கூட அவர்களுக்கு கிடைப்பதில்லை இவை அனைத்தும் எதிர்காலத்தில் அனைவருக்கும் கிடைக்க வேண்டுமென்றால் உங்கள் பெறுமதிமிக்க வாக்குகளால் என்னைப் பாராளுமன்ற தேர்தலில் வெற்றிப் பெற்று பாராளுமன்ற உறுப்பினராக தெரிவு செய்ய வேண்டும்.
+Speaking on the occasion, Vadivel Suresh Pradeesh said the workers' salary issue was important but I could not speak out of the house without going to parliament.
+
+Similarly, a large number of youth from the hill country are working in Colombo. But they had no protection, and in the past, night schools were more likely to be over the past but it is now completely gone. Thus the academic activity has been affected. No one finds the plantation workers who have been suffering for a long time.
+
+Similarly, if you want to get all these in the future, you have to win the parliamentary election and elect a Member of Parliament if all of them are available in the future.
+
+Thus, if I win the parliamentary election and go to parliament, I will be able to make a compulsory respect for the military workers.
 
 ...
 
 [Data](articles/8e215f40.json)
+
+[Extended Data](ext_articles/8e215f40.ext.json)
+
+---
+
+### President assures security of all citizens following recent intelligence reports
+
+*2024-10-24 18:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102908/president-assures-security-of-all-citizens-following-recent-intelligence-reports) · `en`
+
+President Anura Kumara Dissanayake has stated that the government has taken all necessary measures in response to recent intelligence reports and assures the security of all citizens.
+
+The President made these remarks while addressing a public meeting held in Puttalam today (24).
+
+“It is our responsibility to ensure the safety of our citizens. We’ve been enhancing security in various areas. Not only that, but the intelligence agencies acted swiftly on the information, and we have also taken action to arrest a few suspects. Today, I would like to assure that we have ensured the safety and security of all citizens of Sri Lanka,” he said.
+
+◼️
+
+[Data](articles/a35783b4.json)
+
+[Extended Data](ext_articles/a35783b4.ext.json)
 
 ---
 
@@ -604,23 +658,29 @@ Subsequently, Vadivel Suresh Pradeesh discussed with the people of the youth, th
 
 ---
 
-### தெற்காசிய மகளிர் கால்பந்தாட்ட சம்பியன்ஷிப்: இலங்கை - நேபாளம் இன்று மோதுகின்றன
+### South Asian Women's Football Championship: Sri Lanka - Nepal
 
 *2024-10-24 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197024) · `ta`
 
-நேபாளத் தலைநகர் கத்மண்டு தசரத் விளையாட்டரங்கில் நடைபெற்றுவரும் தெற்காசிய மகளிர் கால்பந்தாட்ட சம்பியன்ஷிப் 2024 போட்டியில் இலங்கையும் நேபாளமும் இன்னும் சற்று நேரத்தில் மோதவுள்ளன.
+Sri Lanka vs Nepal in South Asian Women's Football Championship. Sri Lanka aims to control Nepal. Sri Lankan team faces challenges against strong Nepal squad featuring Sabitra Bhandari. Tushani leads Sri Lanka with Baskaran Shanu, Selvaraj Yuvarani, Sivaneswaran Dharmika in starting lineup.
 
-பி குழுவுக்கான இப் போட்டியில் பலம்வாய்ந்த நேபாளத்தை கட்டுப்படுத்தும் குறிக்கோளுடன் இலங்கை களம் இறங்கவுள்ளது.
+🟩
 
-மாலைதீவுகளுடனான போட்டியில் 1 - 0 என வெற்றிபெற்ற இலங்கை அடுத்த போட்டியில் பூட்டானிடம் 1 - 4 என தோல்வி அடைந்தது.
+Sri Lanka and Nepal will clash at the South Asian Women's Football Championships at the Kathmandu Dasarat Stadium, the capital of Nepal.
 
-இக் குழுவில் 2 வெற்றிகளுடன் முதலிடத்தில் இருக்கும் நேபாள அணியில் பிரான்ஸ் கழகத்தில் விளையாடும் சபித்ரா பண்டாரி உட்பட தொழில்முறை வீராங்கனைகள் இடம்பெறுவதால் இப் போட்டி இலங்கை அணிக்கு கடினமாக அமையும் என்பதில் சந்தேகம் இல்லை.
+Sri Lanka will take up the aim of controlling Nepal in this competition for the B team.
 
-இலங்கை அணிக்கு துஷானி மதுஷிக்கா தலைவராக விளையாடுவதுடன் பாஸ்கரன் ஷானு, செல்வராஜ் யுவராணி, சிவனேஸ்வரன் தர்மிகா ஆகிய வீராங்கனைகளும் முதல் பதினொருவர் அணியில் இடம்பெறுகின்றனர்.
+Sri Lanka won 1 - 0 in the Maldives and lost 1 - 4 to Bhutan in the next match.
+
+There is no doubt that the tournament will be difficult for the Sri Lankan team, as the Nepal team, which has two wins in the Nepal team, is playing in the France Club, including Sabitra Bhandari.
+
+Tushani is playing the Sri Lankan team as the captain of the team and Baskaran Shanu, Selvaraj Yuvarani and Sivaneswaran Dharmika are also included in the first eleven team.
 
 ◼️
 
 [Data](articles/e5a51474.json)
+
+[Extended Data](ext_articles/e5a51474.ext.json)
 
 ---
 
@@ -1710,6 +1770,24 @@ However, when the security forces arrived, the collapsed in the hotel room had d
 
 ---
 
+### ආරුගම්බේ තර්ජනය සම්බන්ධයෙන් අප මෙතෙක් දන්නේ මොනවා ද?
+
+*2024-10-24 13:26:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg578lj2p6yo) · `si`
+
+විදේශීය සංචාරකයින්ගේ ජනප්‍රිය ගමනාන්තයක් වන ශ්‍රී ලංකාවේ අම්පාර දිස්ත්‍රික්කයේ පිහිටි ආරුගම්බේ ප්‍රදේශය පිළිබඳව දැඩි කතා බහක් ඇති වූයේ, කොළඹ ඇමෙරිකානු තානාපති කාර්යාලය විසින් සිය පුරවැසියන්ට එහි සංචාරය කිරීමෙන් වළකින ලෙස නිකුත් කරන ලද සංචාරක මාර්ගෝපදේශයත් සමගයි.
+
+ඉන් අනතුරුව, ශ්‍රී ලංකාවේ පිහිටි බ්‍රිතාන්‍ය මහ කොමසාරිස් කාර්යාලය ඇතුළු තවත් විදෙස් තානාපති කාර්යාල කිහිපයක් ශ්‍රී ලංකාවේ සංචාරයේ නිරත වන සිය පුරවැසියන්ට ඒ සම්බන්ධයෙන් අවධානයෙන් පසුවන ලෙස දැනුම් දීමට පියවර ගත්තේ ය.
+
+මහජන ආරක්ෂක අමාත්‍ය විජිත් හේරත් අද (ඔක්:24) වැනිදා මාධ්‍ය හමුවක් පවත්වමින් පැවසුවේ ආරුගම්බේ සිදුවීම සම්බන්ධයෙන් මේ වන විට සැකපිට පුද්ගලයින් තිදෙනෙකු අත්අඩංගුවට ගෙන ඇති බවයි.
+
+මේ, ආරුගම්බේ ආරක්ෂක තර්ජනය ගැන වාර්තා වීමෙන් පසු මෙතෙක් සිදුවූ තොරතුරු පිළිබඳව කෙරෙන විමසා බැලීමකි.
+
+...
+
+[Data](articles/a34f4ee5.json)
+
+---
+
 ### Sri Lanka welcomes India's decision to give Classical status to Pali language
 
 *2024-10-24 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196986) · `ta`
@@ -2395,73 +2473,5 @@ In 2001, Ron Eli has passed away from the river, and he has later launched two m
 [Data](articles/65298606.json)
 
 [Extended Data](ext_articles/65298606.ext.json)
-
----
-
-### Namal Azhar in CID
-
-*2024-10-24 11:19:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CID-யில்-நாமல்-ஆஜர்/175-345973) · `ta`
-
-Namal Rajapaksa, former MP, visited CID today. He was summoned to record a statement but didn't know the reason.
-
-🟩
-
-Former parliamentarian Namal Rajapaksa visited the Criminal Investigation Division this morning.
-
-He told the media that he had been summoned to the Criminal Investigation Division to record a confession but he did not know the reason.
-
-◼️
-
-[Data](articles/3f39acd3.json)
-
-[Extended Data](ext_articles/3f39acd3.ext.json)
-
----
-
-### Two expeditious youth prevents a train accident
-
-*2024-10-24 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202502) · `si`
-
-Two quick-thinking youth prevent train crash near Wadduva station. They alert authorities, leading to swift action by railway officials. Train service temporarily suspended for safety checks. Incident highlights importance of public vigilance in preventing accidents.
-
-🟩
-
-According to the Department of Railways, two youths have abstained from a hurdle in a hut due to a hut in the coastal railway line.
-
-Two youths in the highway of the train towards Kalutara to Colombo and two miles of a railway station in a railway station had taken steps to educate the North and Wadduwa railway stations.
-
-ඒ අනුව වාද්දුව දුම්රිය ස්ථානාධිපති යූ. අයි. පී. රුද්‍රිගු මහතා වහාම ක්‍රියාත්මකවී ප්‍රධාන දුම්රිය පාලක මැදිරිය දැනුවත් කර වාද්දුව දුම්රිය මාර්ග අංශයේ කාර්මික නිලධාරීන් සහ යන්ත්‍ර සූත්‍ර සමග ඉක්මණින් එම ස්ථානයට යොමුකර අළුත්වැඩියාව සිදුකිරීමට පියවර ගත්බව දුම්රිය දෙපාර්තමේන්තු ප්‍රකාශකයෙක් පැවසීය.
-
-Steps have been taken to close the maritime railway line over an hour during the repair work.
-
-එම තරුණයන් දෙදෙනාගේ දැනුම්වත් කිරීම මෙන්ම වාද්දුව දුම්රිය ස්ථානාධිපති යූ. අයි. පී. Rodrigo has avoided a led train accident to the immediate effect.
-
-◼️
-
-[Data](articles/2573df39.json)
-
-[Extended Data](ext_articles/2573df39.ext.json)
-
----
-
-### ගම්පොළ පොලීසියේ ලොක්කෙක් අල්ලස් ගනිද්දී අත්අඩංගුවට
-
-*2024-10-24 11:10:37* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පොළ-පොලීසියේ-ලොක්කෙක්-අල්ලස්-ගනිද්දී-අත්අඩංගුවට/11-412653) · `si`
-
-Gampola police officer arrested bribery allegations investigation Bribery Commission
-
-🟩
-
-Bribery Commission says that the OIC of the Gampola Police Station has been arrested in Gampola, Gampola police station. The arrested police inspector has been arrested.
-
-ගම්පොළ  ඉල්ල වතුර ප්‍රදේශයේ පුද්ගලයකු ගම්පොළ මූලස්ථාන පොලිසියට විරුද්ධව අල්ලස්සෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව වෙත පැමිණිල්ලක් කර තිබූ අතර ඔබ පැමිණිල්ලට අදාලව ගම්පොළ මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂකවරයාගේ හා අංශභාර ස්ථානාධිපතිවරුන්ගේ නාම ලේඛනයක් මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂකවරයාගේ රාජකාරී සම්බන්ධ වාර්තාවක් හා  පොලිසි ස්ථානය කරන ලද පැමිණිලිවල උදෘත හා නඩුවල නඩුවල තත්ත්වයන් ඇතුළු වාර්තා කීපයක් රැගෙන හෙට (25) අල්ලස්සෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව වෙත පැමිණෙන ලෙස සැකකාර ප්‍රධාන පොලිස් පරීක්ෂකවරයාට දැනුම් දී තිබිණි.
-
-එම වාර්තා රැගෙන කොළඹ යාම සඳහා මෝටර් රථයට ඉන්ධන ලබා ගැනීම සඳහා පැමිණිලිකරුගෙන් රුපියල් 20000/= ජ මුදලක් අල්ලස් වශයෙන් ඉල්ලා ඇති අතර පැමිණිලිකරුට සහාය වන පරිදි අල්ලස් කොමිෂන් සභාවට කරුණු දැක්වීමට හැකි බවත් මුදල් ලබා නොදෙන්නේ නම් පැමිණිලි කරොට අගති දායක ලෙස කටයුතු කරන බවටත් දන්වා බියගන්වා ඇත.
-
-...
-
-[Data](articles/fa90ab19.json)
-
-[Extended Data](ext_articles/fa90ab19.ext.json)
 
 ---

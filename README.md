@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 15:58:38**
+As of **2024-10-24 16:12:52**
 
 ## Newspaper Stats
 
-*Scraped **51,143** Articles*
+*Scraped **51,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,038
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,763
+adalk | 4,765
 adaderanalk | 6,063
 tamilmirrorlk | 7,051
 virakesarilk | 8,197
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,143 (100.0%) of 51,143 articles have been extended.
+51,143 (100.0%) of 51,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### රටේ යහපත උදෙසා දේශපාලන බලයක් ගොඩනැගීම
+
+*2024-10-24 15:43:35* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-යහපත-උදෙසා-දේශපාලන-බලයක්-ගොඩනැගීම/11-412666) · `si`
+
+එදාමෙදාතුර ලංකාවේ බිහිවූ සක්‍රීයම සහ දක්ෂතම දේශපාලනඥයන්ගෙන් අයෙක් වූ ගාමිණී දිසානායක මහතා, එල්.ටී.ටී.ඊ. සංවිධානය විසින් ඝාතනය කර අදට (24දා) තිස් වසරක් සම්පූර්ණ වේ. මෙම ලිපිය ඔහුට ගෞරවයක් ලෙස ලිවීමට මම අදහස් කළෙමි.
+
+මහවැලි සංවර්ධන වැඩසටහන සම්පූර්ණ කිරීම සඳහා නායකත්වය දීම, ශ්‍රී ලංකාවට ටෙස්ට් වරම් ලබා දීම, ස්වර්ණභූමි ඉඩම් ඔප්පු ජනතාවට ලබා දීම සහ 1987 ඉන්දු - ලංකා ගිවිසුම අත්සන් කිරීමේදී මූලිකත්වය ගෙන කටයුතු කළ බවට ඔහු ප්‍රසිද්ධය විය.
+
+ඔහු 1990 දැරූ වැවිලි කර්මාන්ත අමාත්‍ය ධුරයෙන් ඉවත් පසු, මෙරට දේශපාලන ඉතිහාසයේ කිසි කලෙක නොදුටු දේශපාලන පළිගැනීමක් සිදු විය. රැල්ෆ් බූල්ජන්ස් පැහැර ගැනීම සම්බන්ධයෙන් ඔහුට එරෙහිව අසත්‍ය අපරාධ චෝදනා එල්ල කරන ලද්දේ එම කාලයේදීය. මෙය දේශපාලන අරමුණු වෙනුවෙන් දේශපාලන වශයෙන් පසෙකට කර තැබීමේ උත්සාහයක් බව සියලු දෙනාම දැන සිටියහ.
+
+...
+
+[Data](articles/2b32947b.json)
+
+---
 
 ### Bomb threat
 
@@ -114,9 +130,13 @@ Three persons have been arrested so far by the police over the intelligence repo
 
 Minister Herath revealed this during a press conference being held in this regard.
 
-He further stated that the public, local as well as foreigners, need not entertain any fears on probable attacks on Israelis or any others, as all possible security measures have been taken to ensure their safety.
+Accordingly, the minister stated that the three arrested suspects are currently being interrogated.
 
-Furthermore the Minister stated: “We will restore normalcy in a few days, allowing the travel advisories issued by the United States and other countries to be lifted. These nations are already satisfied with the measures we’ve implemented, and they have confidence in sending their citizens to Sri Lanka for tourism.”
+Minister Vijitha Herath, who further commented in this regard, said:
+
+“Given the conflict situation in the Middle East, it is our responsibility to ensure the safety of the tourists visiting Sri Lanka. Some information has been revealed that there may be potential threats to the safety of the tourists who visited Sri Lanka.”
+
+“Intelligence agencies received information about it. Upon receiving that information, we immediately took action. Today marks one month since this government took office. During the month, the security council met on several occasions.”
 
 ...
 
@@ -531,6 +551,22 @@ Professor Anand Singh (Video), Professor of the Buddhist Cultural Department of 
 [Data](articles/36060b10.json)
 
 [Extended Data](ext_articles/36060b10.ext.json)
+
+---
+
+### කෞතුකාගාරය සතු මැණික් ගල් 271 ක් වසර 60 ක් තිස්සේ බැංකුවක
+
+*2024-10-24 13:24:19* · [`adalk`](https://www.ada.lk/breaking_news/කෞතුකාගාරය-සතු-මැණික්-ගල්-271-ක්-වසර-60-ක්-තිස්සේ-බැංකුවක/11-412662) · `si`
+
+ජාතික කෞතුකාගාර දෙපාර්තමේන්තුවේ භූ විද්‍යා අංශයට අයත්ව ලංකා බැංකුවේ මෙට්‍රොපොලිටන් ශාඛාවේ තැන්පත් කර ඇති මැණික් ගල් 271 ක වර්තමාන වටිනාකම තක්සේරු කිරීමට මේ දක්වා පියවර ගෙන නැතැයි  ජාතික විගණන කාර්යාලය විගණන වාර්තාවක් මගින් අනාවරණය කරයි.
+
+කෞතුකාගාර දෙපාර්තමේන්තුව මගින් මැණික් ගල් 272 ක් ආරක්ෂාව සඳහා 1964.09.18 දා සිට  බැංකුවේ තැන්පත් කර ඇති අතර 1993 දී සිදුකළ භෞතික පරීක්ෂාවකදී  එයින් එක් ගලක් කෘත්‍රිම ගලක් බවට හෙළිවී එය බැංකුවෙත් ඉවත්කරගත් පසු දැනට ගල් 271 ක් බැංකුවේ ඇති බව කෞතුකාගාර දෙපාර්තමේන්තුව සම්බන්ධයෙන්  විගණන කාර්යාලය සිදුකළ මෙම විගණන වාර්තාවේ විගණන නිරීක්ෂණ යටතේ  සඳහන් කරයි .
+
+මෙම මැණික්වල වටිනාකම තක්සේරු කර දෙන ලෙස මැණික් හා ස්වර්ණාභරණ අධිකාරිය වෙත අවස්ථා දෙකකදී ලිඛිතව ඉල්ලා සිටි නමුත් එම මැණික් ගල් තක්සේරු කිරීම බැංකුව තුළදී කළ නොහැකි බවත් ඒවා මැණික් හා ස්වර්ණාභරණ අධිකාරියේ රසායනාගාරය වෙත ගෙන යා යුතු බවත් එම අධිකාරිය දැනුම් දුන් බව මේ සම්බන්ධයෙන් විගණන කාර්යාලය වෙත කෞතුකාගාර දෙපාර්තමේන්තුවේ ගණන් දීමේ නිලධාරියා විසින් දන්වා  ඇත.
+
+...
+
+[Data](articles/8561f1d1.json)
 
 ---
 
@@ -2383,37 +2419,5 @@ Prime Minister Modi has expressed his condolences to the families of the victims
 [Data](articles/12b9f478.json)
 
 [Extended Data](ext_articles/12b9f478.ext.json)
-
----
-
-### Financing biodiversity and nature amidst debt distress in Sri Lanka
-
-*2024-10-24 05:33:15* · [`dailyftlk`](https://www.ft.lk/columns/Financing-biodiversity-and-nature-amidst-debt-distress-in-Sri-Lanka/4-768352) · `en`
-
-This week’s 16th Conference of the Parties (CoP) to the Convention on Biological Diversity is crucial for global ambitions on nature conservation. Looking to advance progress towards the Kunming-Montreal Global Biodiversity Framework (GBF) goals and targets adopted by almost 200 countries (including Sri Lanka) at the last CoP in 2022, all attention this year is on the 700 billion dollar question, “So where will the money come from?” $ 700 billion is the annual biodiversity finance gap, identified in the GBF and analysed in detail by The Nature Conservancy. Recognising the urgent need to fill this gap, Target 19 of the GBF commits to “mobilise $ 200 billion per year for biodiversity from all sources”. As Conservation International’s Chief Strategy Officer remarked ahead of the summit in Cali, Colombia, “...negotiators cannot leave Cali without deciding where some of that funding will originate, when it will be delivered, and what groups will receive it”.
-
-...
-
-[Data](articles/7edccd82.json)
-
-[Extended Data](ext_articles/7edccd82.ext.json)
-
----
-
-### Institute of Supply and Materials Management organises 2024 National Supply Chain Day celebrations today
-
-*2024-10-24 05:27:07* · [`dailyftlk`](https://www.ft.lk/business/Institute-of-Supply-and-Materials-Management-organises-2024-National-Supply-Chain-Day-celebrations-today/34-768351) · `en`
-
-The Institute of Supply and Materials Management (ISMM) in collaboration with the Ministry of Industries and Industries Development Board (IDB) will celebrate ‘National Supply Chain Day’ under the auspices of Prime Minister Dr. Harini Amarasuriya today at Shangri-la, Colombo followed by ‘National Supply Chain Excellence Awards’.
-
-ISMM being the only professional organisation enacted by Act of Parliament No. 3 of 1981 for fostering and conducting training on Supply Chain Management in Sri Lanka was established on 24 October in 1972.
-
-Considering the global and national importance of Supply Chain Management (SCM) and also to facilitate wider prosperity and growth of the country’s economic affairs through training and developing Supply Chain professionals, the Government has declared 24 October every year as the ‘National Supply Chain Day’.
-
-...
-
-[Data](articles/96578a74.json)
-
-[Extended Data](ext_articles/96578a74.ext.json)
 
 ---

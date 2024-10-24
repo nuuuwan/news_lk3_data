@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 09:59:03**
+As of **2024-10-24 10:12:48**
 
 ## Newspaper Stats
 
-*Scraped **51,070** Articles*
+*Scraped **51,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 3,038
 economynextcom | 3,121
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,750
+adalk | 4,751
 adaderanalk | 6,055
-tamilmirrorlk | 7,034
+tamilmirrorlk | 7,037
 virakesarilk | 8,179
-adaderanasinhalalk | 8,868
+adaderanasinhalalk | 8,869
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,065 (100.0%) of 51,070 articles have been extended.
+51,073 (100.0%) of 51,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Tarzan comes to life
+
+*2024-10-24 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202499) · `si`
+
+Here's a 200-character summary:
+
+
+
+Ron Eli, renowned American actor, passed away at 86. He portrayed Tarzan in TV series (1966) and numerous films. Known for acting, writing, coaching, and instructing.
+
+🟩
+
+ලෝක ප්‍රසිද්ධ ටාසන් චරිතයට පණදුන් අමෙරිකානු ප්‍රවීන රංගන ශිල්පී රොන් එලී අභාවප්‍රාප්ත වී තිබේ.
+
+According to foreign media reports, Ron Elli was 86 at the time of his death.
+
+The Tarzan Contact was the first time in 1966, Ron Ellie was broadcast on television.
+
+එම රූගත කිරීම් අතරතුර ඔහු සතුන්ගේ ප්‍රහාරවලට මෙන්ම විවිධ අනතුරුවලට ද ලක්වු බව වාර්තා වේ.
+
+ටාසන් කතාංගය ඇතුළු චිත්‍රපට ගණනාවකට රංගනයෙන් දායක වූ රොන් එලී 2001 වසරේ දී සිය රංගන දිවියෙන් විශ්‍රාම ගත් අතර පසුව ඔහු කතුවරයෙකු ලෙස ද කටයුතු කර තිබේ.
+
+Ron Elli has been a massive figure, an actor, writer, coach and instructor.
+
+◼️
+
+[Data](articles/ed51a43c.json)
+
+[Extended Data](ext_articles/ed51a43c.ext.json)
+
+---
 
 ### New Zealand Reserve Rest
 
@@ -117,6 +149,26 @@ Among the 22 was among the injured in the attack and seven members of the Air Se
 [Data](articles/8c721f09.json)
 
 [Extended Data](ext_articles/8c721f09.ext.json)
+
+---
+
+### Let's look at the cost details of the candidates
+
+*2024-10-24 09:07:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பாளர்களின்-செலவு-விவரங்களை-பார்க்கலாம்/175-345965) · `ta`
+
+Election Commission releases candidate cost reports publicly starting today. Reports available at district secretariats.
+
+🟩
+
+The Elections Commission said that the election reports submitted to the Election Commission will be made public from today (24).
+
+Elections Commissioner Saman Sri Ratnayake said the income and cost reports would be made public at each district secretariat.
+
+◼️
+
+[Data](articles/871d5f30.json)
+
+[Extended Data](ext_articles/871d5f30.ext.json)
 
 ---
 
@@ -228,6 +280,32 @@ The suspect is excessively drug addicted to a few years in prison for several ye
 
 ---
 
+### 75 mm high rainfall
+
+*2024-10-24 08:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/75-மி-மீ-அதிக-மழைவீழ்ச்சி/175-345963) · `ta`
+
+Heavy rainfall (75mm+) forecasted in Sri Lanka's Northern, Eastern, Southern, and North-Western provinces. Thunderstorms and strong winds possible. Public advised to take precautions.
+
+🟩
+
+மேல், சப்ரகமுவ, தெற்கு, வடமேற்கு மற்றும் வடக்கு மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல், சப்ரகமுவ, தெற்கு மற்றும் வடக்கு மாகாணங்களில் சில இடங்களில் 75 மில்லிமீற்றருக்கும் அதிக மழைவீழ்ச்சி பதிவாகலாம் எனவும் குறித்த திணைக்களம் வௌியிட்டுள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதுடன் சில இடங்களில் 75 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும்.
+
+Strong winds are expected to blow up to 40-45 km / h from time to time in the North, North Central, North Western and Central Provinces and Trincomalee and Hambantota districts.
+
+The Department of Meteorology has urged the public to take the necessary precautions to reduce the risk of temporary heavy winds and lightning with thunderstorms.. Remble
+
+◼️
+
+[Data](articles/690ad84d.json)
+
+[Extended Data](ext_articles/690ad84d.ext.json)
+
+---
+
 ### More than 75 millimeters can be recorded
 
 *2024-10-24 08:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/75-மில்லிமீற்றருக்கும்-அதிக-மழைவீழ்ச்சி-பதிவாகலாம்/175-345963) · `ta`
@@ -279,6 +357,26 @@ Investigations officials said that when the BMW car was checked by international
 [Data](articles/e49bc8be.json)
 
 [Extended Data](ext_articles/e49bc8be.ext.json)
+
+---
+
+### Plan to attack Israelis: two arrested
+
+*2024-10-24 07:45:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலியர்களை-தாக்க-திட்டம்-இருவர்-கைது/175-345961) · `ta`
+
+Two arrests made in Batticaloa over alleged Israeli attack plot. Men from Kurunegala detained near Zion Church. Intelligence warning issued regarding potential threat to Israelis in Sri Lanka.
+
+🟩
+
+Two persons have been arrested by the Terrorist Investigation Division in Batticaloa as an intelligence warning has been issued that it is planning to attack Israelis in Sri Lanka.
+
+Two men from Kurunegala area have been arrested for allegedly walking in the nearby area of ​​Zion Church in Batticaloa, police said.. (A)
+
+◼️
+
+[Data](articles/a5990b4d.json)
+
+[Extended Data](ext_articles/a5990b4d.ext.json)
 
 ---
 
@@ -1426,6 +1524,28 @@ The Indian Prime Minister's Office said in a press release that the two leaders 
 
 ---
 
+### Ten foreigners sentenced to life in Sri Lanka
+
+*2024-10-23 20:11:13* · [`adalk`](https://www.ada.lk/breaking_news/විදේශිකයන්-10කට-ලංකාවේදී-ජීවිතාන්තය-දක්වා-සිර-දඩුවම්/11-412649) · `si`
+
+Sri Lanka sentences 10 foreigners to life imprisonment for illegal drug smuggling. Nine Iranians arrested while attempting to transport heroin via boat. Court orders remaining defendants to be held in protective custody. Embassy representatives present during sentencing.
+
+🟩
+
+Negombo Ratnayake today (23), a nine Iranians who were indulgenting to be illegally arrested for smuggling by a trawler to smuggle a trawler.He was sentenced to prison.
+
+මෙම පිරිස ධීවරයන් ලෙස වෙස්වලාගෙන යාත්‍රාවක් මගින් ගාලු මුහුද තීරයේ හික්කඩුව දක්වා හෙරොයින්ද රැගෙන  ගමන් කරමින් සිටියදී 2016/03/26  වෙනි දින මත්ද්‍රව්‍ය නාශක කාර්යාංශය සහ නාවික හමුදාව හා එක්ව අත්අඩංගුවට ගෙන ඇත.ඉතිරි විත්ති කරුවන්  හත්දෙනා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමටද මහාධිකරණ විනිසුරු වරයා තවදුරටත්  නියෝග කළේය.
+
+The embassy has come to the court to express this order to the Iranian order and read the order. Mr. UR. Mr. UR.Appeared for Iranians.
+
+◼️
+
+[Data](articles/c62722c0.json)
+
+[Extended Data](ext_articles/c62722c0.ext.json)
+
+---
+
 ### Terror attack in Turkey
 
 *2024-10-23 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202483) · `si`
@@ -2297,115 +2417,5 @@ Meanwhile the central bank announced that it will issue 32,500 million rupees in
 [Data](articles/5c8c553c.json)
 
 [Extended Data](ext_articles/5c8c553c.ext.json)
-
----
-
-### Johnston remanded
-
-*2024-10-23 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202474) · `si`
-
-Former Minister Johnston Fernando remanded until Oct 30 after arriving at CID. Colombo High Court issues arrest warrant due to non-appearance in bribery case.
-
-🟩
-
-Former Minister Johnston Fernando was remanded until October 30, who was arrested by the Criminal Investigation Department.
-
-He was arrested after he arrived at the Criminal Investigation Department (CID) before he was arrested by the CID today (23).
-
-Former Minister Johnston Fernando had informed the Court of Appeal by his lawyer yesterday (22).
-
-Meanwhile, the Colombo High Court today issued a warrant to arrest former minister Johnston Fernando as he did not appeal to a case filed by the Bribery Commission.
-
-Johnston Fernando did not appear before the court when the case was taken up before Colombo High Court Judge Manjula Tilakaratne.
-
-◼️
-
-[Data](articles/81a40994.json)
-
-[Extended Data](ext_articles/81a40994.ext.json)
-
----
-
-### Do you work with understanding?Do you work to the law?President asks President rice mill owners
-
-*2024-10-23 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202475) · `si`
-
-Sri Lanka's president denies rice shortage, urges local production over imports. Meeting with mill owners confirms domestic supply adequacy. Government increases fertilizer subsidies to boost cultivation.
-
-🟩
-
-President Anura Kumara Dissanayake says that there is no shortage of rice in the market, but there is no shortage of rice in the country.
-
-The President made this observation at a meeting held in Trincomalee today (23).
-
-"I met the rice mill owners yesterday. There is no shortage of rice in the country. Is this what a shortage of artificial rice has not been aware of them?Do you work to the law?Working with our first will. But if someone does not know if someone doesn't work out, we said the law was ready to work. There is no shortage of rice in the country. There is no shortage of rice in the country. Therefore, it does not import a rice from foreign tourism from foreign tourism. You grow. As a start, 15,000 allowance given to the fertilizer subsidy increased to 25,000. You have to build this country to get into the lands. "
-
-◼️
-
-[Data](articles/9bb2ea99.json)
-
-[Extended Data](ext_articles/9bb2ea99.ext.json)
-
----
-
-### Accountants – Watchdogs Or Facilitators Of Financial Crimes!
-
-*2024-10-23 17:03:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/accountants-watchdogs-or-facilitators-of-financial-crimes/) · `en`
-
-“To steal you don’t need a mask and a gun- just a three-piece suit and a briefcase” ~ the motto of the new mafia.
-
-...
-
-[Data](articles/ff4f1bb5.json)
-
-[Extended Data](ext_articles/ff4f1bb5.ext.json)
-
----
-
-### Sri Lanka stocks close up, interest in JKH continues
-
-*2024-10-23 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-interest-in-jkh-continues-184606/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader ASPI closed up 0.47 percent, or 57.43 points, at 12,357; while the more liquid S&P SL20 Index closed up 0.95 percent, or 34.60 points, at 3,663.
-
-Top turnover generators were John Keells Holdings (up at 203.00), Sampath Bank (up at 84.00), Commercial Bank (up at 110.25), Hayleys (up at 103.00), and Hemas Holdings (up at 81.00)
-
-Crossings were recorded on Commercial Bank, Sampath Bank, Hayleys, JKH, Hemas, Ambeon Holdings (down at 14.20), Sunshine Holdings (up at 66.40), and Central Finance Company (up at 123.00).
-
-Foreign buying interest was seen in Commercial, JKH, Sampath, Richard Pieris and Co (up at 22.00), Lanka IOC (down at 112.25), and Ceylon Grain Elevators (up at 170.50).
-
-...
-
-[Data](articles/8437a917.json)
-
-[Extended Data](ext_articles/8437a917.ext.json)
-
----
-
-### Nimalarajan to be killed in the international community to uphold justice
-
-*2024-10-23 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/196933) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil journalist Nimalarajan assassinated 2000. No justice despite 24 years. Mullaitivu Journalists Association demands international intervention. New government resumes some cases but lacks clarity on others. State security harasses Tamil-speaking journalists. Media freedom threatened.
-
-🟩
-
-A Wanni Soil Journalist Organization, which has demanded justice for 24 years after the death of a Tamil journalist in the Sri Lankan security forces controlled by the Sri Lankan security forces, has insisted that it is not enough to provide justice.
-
-The Mullaitivu Journalists Association's president has been asked to protect journalists through an investigation into the 24th anniversary of the Nimalarajan Mayilwanam, the silence of the shooting, known as a fearless, simple journalist.
-
-“Justice for Nimalarajan is not just about resolving a case and eliminating the structure that helps to prolong violence and fear. Therefore, we are demanding an immediate action by the international media monitors, investigators and legal experts as an immediate measure to be held accountable for these crimes and ensure security for all journalists. ”
-
-...
-
-[Data](articles/8714f21e.json)
-
-[Extended Data](ext_articles/8714f21e.ext.json)
 
 ---

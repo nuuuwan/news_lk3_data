@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 12:39:41**
+As of **2024-10-24 12:58:01**
 
 ## Newspaper Stats
 
-*Scraped **51,109** Articles*
+*Scraped **51,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,038
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,755
-adaderanalk | 6,059
+adalk | 4,757
+adaderanalk | 6,060
 tamilmirrorlk | 7,046
 virakesarilk | 8,188
 adaderanasinhalalk | 8,874
@@ -26,11 +26,47 @@ adaderanasinhalalk | 8,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,109 (100.0%) of 51,109 articles have been extended.
+51,112 (100.0%) of 51,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Namal leaves CID after recording statement
+
+*2024-10-24 12:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102900/namal-leaves-cid-after-recording-statement) · `en`
+
+Former Member of Parliament Namal Rajapaksa has left the Criminal Investigation Department (CID), a short while ago, after providing a statement for about two and a half hours.
+
+Namal Rajapaksa arrived at the CID at around 9.00 a.m. this morning (24) to provide a statement following an anonymous complaint regarding the receipt of funds during the 2010 - 2015 period.
+
+◼️
+
+[Data](articles/8180904d.json)
+
+[Extended Data](ext_articles/8180904d.ext.json)
+
+---
+
+### The expenditure backed by the President
+
+*2024-10-24 12:25:08* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-වෙන්න-දරපු-වියදම්-දැන්-පෙන්වනවා/11-412657) · `si`
+
+Candidate expenditures announced today: District secretariats publish details.
+
+🟩
+
+The Elections Commission says that the candidates who have come to the population will be published today (24).
+
+Elections Commissioner General Saman Sri Ratnayake further stated that the number is published at every district secretariat.
+
+◼️
+
+[Data](articles/4cb41d28.json)
+
+[Extended Data](ext_articles/4cb41d28.ext.json)
+
+---
 
 ### "Iyappa devotees need to ship"
 
@@ -131,6 +167,34 @@ Acting IGP Priyantha Weerasuriya said that the details were received on the same
 [Data](articles/1268c24a.json)
 
 [Extended Data](ext_articles/1268c24a.ext.json)
+
+---
+
+### Two people who claimed that Arugampay was planned
+
+*2024-10-24 12:05:02* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්බේට-ප්‍රහාරයක්-සැලසුම්-කළ-බව-කියන-දෙන්නෙක්-අල්ලයි/11-412656) · `si`
+
+Here's a 200-character summary:
+
+
+
+Arugampay plot: Two suspects arrested in Colombo. Attack planned Oct 12-27. Advance payment made. Remaining funds due post-attack. Suspects from Jaffna and Colombo.
+
+🟩
+
+Two persons who are allegedly planned to be attacked by a group of foreign nationals targeting a group of foreign nationals in the area of ​​Arugambay.
+
+Two suspects have been arrested by a special police team in Colombo. Two of these suspects are permanently resident in Jaffna but a temporary resident of Colombo. The other person is a Colombo resident.
+
+He is the miracles that he was planning to implement this implementation. They have first paid an advance to the attack on the attack.
+
+The remaining rupees are scheduled to be provided after implementation of the attack. It is reported that the attack was planned between October 12 and 27.
+
+◼️
+
+[Data](articles/12cd3251.json)
+
+[Extended Data](ext_articles/12cd3251.ext.json)
 
 ---
 
@@ -2289,73 +2353,5 @@ Considering the extraordinary situation in the Middle East and Eastern Europe, a
 [Data](articles/02e1b506.json)
 
 [Extended Data](ext_articles/02e1b506.ext.json)
-
----
-
-### Indian Prime Minister Modi invites Russian President Putin to visit India
-
-*2024-10-23 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196952) · `ta`
-
-Indian PM Modi invites Putin to India for 23rd India-Russia annual conference. Their second meeting this year, reviewing bilateral cooperation in politics, economics, security, energy, and relations.
-
-🟩
-
-Foreign media reports that Indian Prime Minister Narendra Modi made the call.
-
-At the 16th BRICS conference, Prime Minister Narendra Modi met Russian President Vladimir Putin in Kazan, Russia.
-
-Prime Minister Modi has called on Putin to attend the 23rd India -Russian annual conference next year.
-
-The Indian Prime Minister's Office said in a press release that the two leaders have reviewed bilateral cooperation in various sectors, including politics, economics, security, energy and relations.
-
-22 July 2024 Foreign media further stated that this was their second meeting this year as the two leaders met in Moscow earlier for the Indo-Russia annual summit.
-
-◼️
-
-[Data](articles/48154a83.json)
-
-[Extended Data](ext_articles/48154a83.ext.json)
-
----
-
-### Ten foreigners sentenced to life in Sri Lanka
-
-*2024-10-23 20:11:13* · [`adalk`](https://www.ada.lk/breaking_news/විදේශිකයන්-10කට-ලංකාවේදී-ජීවිතාන්තය-දක්වා-සිර-දඩුවම්/11-412649) · `si`
-
-Sri Lanka sentences 10 foreigners to life imprisonment for illegal drug smuggling. Nine Iranians arrested while attempting to transport heroin via boat. Court orders remaining defendants to be held in protective custody. Embassy representatives present during sentencing.
-
-🟩
-
-Negombo Ratnayake today (23), a nine Iranians who were indulgenting to be illegally arrested for smuggling by a trawler to smuggle a trawler.He was sentenced to prison.
-
-මෙම පිරිස ධීවරයන් ලෙස වෙස්වලාගෙන යාත්‍රාවක් මගින් ගාලු මුහුද තීරයේ හික්කඩුව දක්වා හෙරොයින්ද රැගෙන  ගමන් කරමින් සිටියදී 2016/03/26  වෙනි දින මත්ද්‍රව්‍ය නාශක කාර්යාංශය සහ නාවික හමුදාව හා එක්ව අත්අඩංගුවට ගෙන ඇත.ඉතිරි විත්ති කරුවන්  හත්දෙනා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කිරීමටද මහාධිකරණ විනිසුරු වරයා තවදුරටත්  නියෝග කළේය.
-
-The embassy has come to the court to express this order to the Iranian order and read the order. Mr. UR. Mr. UR.Appeared for Iranians.
-
-◼️
-
-[Data](articles/c62722c0.json)
-
-[Extended Data](ext_articles/c62722c0.ext.json)
-
----
-
-### Terror attack in Turkey
-
-*2024-10-23 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202483) · `si`
-
-Turkey terror attack: Multiple casualties reported in Ankara. Attack occurred near airline company.
-
-🟩
-
-A large number of people were killed and another injured were injured in an attack on Ankara town in Turkey.
-
-The internal affairs of the Turkey said that the attack had been carried out near the Airline Company.
-
-◼️
-
-[Data](articles/c069f9f3.json)
-
-[Extended Data](ext_articles/c069f9f3.ext.json)
 
 ---

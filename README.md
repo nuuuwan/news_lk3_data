@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 06:45:03**
+As of **2024-10-24 07:26:57**
 
 ## Newspaper Stats
 
-*Scraped **51,036** Articles*
+*Scraped **51,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 410
 colombotelegraphcom | 510
 bbccomsinhala | 517
-islandlk | 3,031
+islandlk | 3,034
 economynextcom | 3,121
 dailyftlk | 3,489
 dailymirrorlk | 4,733
@@ -20,17 +20,43 @@ adalk | 4,748
 adaderanalk | 6,050
 tamilmirrorlk | 7,025
 virakesarilk | 8,179
-adaderanasinhalalk | 8,860
+adaderanasinhalalk | 8,861
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,031 (100.0%) of 51,036 articles have been extended.
+51,033 (100.0%) of 51,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Thunder showers in several areas
+
+*2024-10-24 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202490) · `si`
+
+Thunderstorms forecasted for Western, Sabaragamuwa, Southern, and Northern provinces. Strong winds and lightning possible. Public advised to be cautious during evening/night hours.
+
+🟩
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Southern and Northern provinces, in the Kandy and Nuwara Eliya districts.
+
+MM to some places in the Western, Sabaragamuwa, Southern, North Western and Northern provinces. Shorters can occur in more than 50.
+
+Thundershowers will develop at several places in the evening or night in the evening or night in the rest of the island.
+
+From the North, Northern-Central, North Western and Central provinces and Trincomalee districts. (40-45) can cause strong winds.
+
+The public is requested to take necessary steps to reduce temporary strong winds and lightning accidents in thundershowers.
+
+◼️
+
+[Data](articles/60c5c5b1.json)
+
+[Extended Data](ext_articles/60c5c5b1.ext.json)
+
+---
 
 ### Noyon celebrates over century of lace heritage and 20 years of design and craftsmanship in Sri Lanka
 
@@ -97,6 +123,8 @@ One could not ask for a better market place than the recently staged Presidentia
 ...
 
 [Data](articles/c3a3040a.json)
+
+[Extended Data](ext_articles/c3a3040a.ext.json)
 
 ---
 
@@ -2363,27 +2391,5 @@ Following this, Ashan Senaratna filed a case in the High Court last week against
 [Data](articles/e5a395ec.json)
 
 [Extended Data](ext_articles/e5a395ec.ext.json)
-
----
-
-### UN keen to assist Sri Lanka in process of empowering women
-
-*2024-10-23 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102879/un-keen-to-assist-sri-lanka-in-process-of-empowering-women-) · `en`
-
-The United Nations Resident Coordinator in Sri Lanka Mr. Marc-André Franchehas paid a courtesy call on Prime Minister Dr. Harini Amarasuriya at her office.
-
-Mr. Franche extended his best wishes to the Prime Minister and reaffirmed the UN’s commitment to assist Sri Lanka in its development Initiatives, according to the Prime Minister’s Media Division.
-
-UN offered its support to Sri Lanka’s poverty reduction agenda and digitalisation programme .
-
-The meeting held yesterday (22) also highlighted the issue of woman empowerment with the UN saying it is keen to assist in the process of empowering women in Sri Lanka, it added.
-
-Also in attendance were the Secretary to the Prime Minister, Pradeep Saputhanthri, Additional Secretary to the Prime Minister, Mahinda Gunarathna, Director General of the United Nations and Human Rights Division, Dayani Mendis, at the Ministry of Foreign Affairs, along with Patrick Mc Carthy and Nethmini Medawala from the Office of the UN Resident Coordinator.
-
-◼️
-
-[Data](articles/019413ea.json)
-
-[Extended Data](ext_articles/019413ea.ext.json)
 
 ---

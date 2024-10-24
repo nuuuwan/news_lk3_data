@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 16:39:25**
+As of **2024-10-24 16:56:59**
 
 ## Newspaper Stats
 
-*Scraped **51,154** Articles*
+*Scraped **51,155** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,765
-adaderanalk | 6,063
+adaderanalk | 6,064
 tamilmirrorlk | 7,051
 virakesarilk | 8,206
 adaderanasinhalalk | 8,882
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,153 (100.0%) of 51,154 articles have been extended.
+51,155 (100.0%) of 51,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Travel advisories for Sri Lanka can be withdrawn within 2-3 days – Minister
+
+*2024-10-24 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102905/travel-advisories-for-sri-lanka-can-be-withdrawn-within-2-3-days-minister) · `en`
+
+Public Security Minister Vijitha Herath says that the travel advisories issued by several foreign countries for Sri Lanka could be lifted within the next two to three days.
+
+Minister Herath stated this during a special press conference held in Colombo today (24), to brief on the steps taken following information received on possible attacks targeting foreign tourists in Sri Lanka.
+
+He reassured to public and the tourists that there is no cause for concern, as necessary security measures have been taken to ensure the security of the foreign tourists.
+
+“They have been informed through the hotels and the Tourism Authority. Police as well as the tri-forces have taken the required steps. So, tourists can travel freely. The countries that have imposed travel advisories will be able to withdraw them in two to three days,” the Minister said.
+
+...
+
+[Data](articles/80b8500e.json)
+
+[Extended Data](ext_articles/80b8500e.ext.json)
+
+---
 
 ### France Ambassador - Prime Minister Harini Amarasuriya meets
 
@@ -326,17 +346,23 @@ Meanwhile, the Public Security Minister added that there is no information from 
 
 ---
 
-### பொத்துவிலில் போலி நாணயத்தாள்களுடன் ஒருவர் கைது
+### One arrested with fake currency notes in Pottuvil
 
 *2024-10-24 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196991) · `ta`
 
-பொத்துவில் பொலிஸ் பிரிவிற்குட்பட்ட, இலங்கை வங்கி வளாகத்தில் போலி 5 ஆயிரம் ரூபாய் நாணயத்தாள்களுடன் ஒருவர் நேற்று புதன்கிழமை (23) கைது செய்யப்பட்டுள்ளார்.
+Man arrested with fake 5000 rupee notes at Bank of Ceylon in Pottuvil. Complaint filed by police officers.
 
-பொத்துவில் பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த முறைப்பாட்டின் பேரில் இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
+
+A man was arrested on Wednesday (23) with a fake 5 thousand rupee currency notes at the Bank of Ceylon, which belongs to the Pottuvil Police Division.
+
+He has been arrested on a complaint received by a group of police officers in Pottuvil.
 
 ◼️
 
 [Data](articles/2fe4f1a4.json)
+
+[Extended Data](ext_articles/2fe4f1a4.ext.json)
 
 ---
 
@@ -2419,29 +2445,5 @@ The increased security measures are focused on the Arugam Bay and Pottuvil areas
 [Data](articles/a20d10bf.json)
 
 [Extended Data](ext_articles/a20d10bf.ext.json)
-
----
-
-### Notice from the Sri Lanka Tourism Promotion Bureau
-
-*2024-10-24 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202493) · `si`
-
-Sri Lanka Tourism Promotion Bureau invites global visitors during tourism season. Announcement ensures safe exploration of the island. Ministry of Defense implements measures to protect tourists' safety.
-
-🟩
-
-The Sri Lanka Tourism Promotion Bureau has issued an announcement that tourists around the world will be invited to visit Sri Lanka during the tourism period.
-
-The announcement shows that all tourists can enjoy the island's beauty safely.
-
-The announcement states that all tourists stay in Sri Lanka.
-
-The Ministry of Defense has also taken necessary steps to ensure the safety of tourists in the country, the Tourism Promotion Bureau said.
-
-◼️
-
-[Data](articles/f71f50ca.json)
-
-[Extended Data](ext_articles/f71f50ca.ext.json)
 
 ---

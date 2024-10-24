@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 21:39:46**
+As of **2024-10-24 21:59:08**
 
 ## Newspaper Stats
 
-*Scraped **51,210** Articles*
+*Scraped **51,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,772
-adaderanalk | 6,067
+adaderanalk | 6,068
 tamilmirrorlk | 7,059
 virakesarilk | 8,228
-adaderanasinhalalk | 8,894
+adaderanasinhalalk | 8,895
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,210 (100.0%) of 51,210 articles have been extended.
+51,212 (100.0%) of 51,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### India evacuates hundreds of thousands of people and shuts schools as a tropical storm nears
+
+*2024-10-24 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102909/india-evacuates-hundreds-of-thousands-of-people-and-shuts-schools-as-a-tropical-storm-nears) · `en`
+
+Indian authorities have shut schools, evacuated hundreds of thousands of people and canceled trains in parts of the country as rescue teams braced on Thursday for a tropical storm brewing in the Bay of Bengal.
+
+Tropical Storm Dana is expected to intensify, bringing winds of 100-110 kph (62-68 mph) and gusts up to 120 kph (74 mph), as it pushes toward the country’s eastern coastline, where it is set to make landfall late Thursday and early Friday, according to the Indian Meteorological Department.
+
+Climate scientists say severe storms are becoming more frequent in South Asia. Global warming driven by planet-heating gases has caused them to become more extreme and unpredictable.
+
+The storm is expected to affect most parts of the eastern state of Odisha, which saw strong winds and rain on Thursday morning. Authorities have closed schools, canceled more than 200 trains, suspended flights and warned fishermen not to venture out to sea.
+
+...
+
+[Data](articles/959b09f7.json)
+
+[Extended Data](ext_articles/959b09f7.ext.json)
+
+---
+
+### An inquiry into the video that a mona was killed
+
+*2024-10-24 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202526) · `si`
+
+Wildlife investigation: Mona killed by indigenous people in Maduru Oya National Park. Foreigner charged alongside locals. Video shows hacking and burning of protected species.
+
+🟩
+
+The Department of Wildlife has launched an investigation into a video that a mona is unauthorized with four indigenous people with four indigenous people.
+
+UTube, 'Go Withubi' recently, 'Go With Ali', 'a foreigner and four indigenous people in partnership with four indigenous people in partnership with four indigenous people were hacked and burned along the channel.
+
+Director General of the Wildlife Conservation Chandana Sooriyabandara said that the four Independent of the Indigenous People who were involved in the incident and the location of the incident were started.
+
+The foreigner and others have been against the murder of an unauthorized in the Maduru Oya National Park and the release of such a safe bird in a socio-arrows.
+
+A foreigner who had entered the Maduru Oya National Park and a group of indigenous people in the Dambana area have been advertised by the Mahiyanganaya Magistrate's Court.
+
+◼️
+
+[Data](articles/f0390f40.json)
+
+[Extended Data](ext_articles/f0390f40.ext.json)
+
+---
 
 ### Ink on the left -hand index finger
 
@@ -2467,49 +2513,5 @@ Douglas Devananda has also made efforts to establish the consulate in Kerala for
 [Data](articles/e86b8077.json)
 
 [Extended Data](ext_articles/e86b8077.ext.json)
-
----
-
-### The Canadian government issued
-
-*2024-10-24 12:18:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனேடிய-அரசாங்கம்-விடுத்துள்ள-எச்சரிக்கை/175-345980) · `ta`
-
-Canadian government warns travelers about protests, terrorism, and crime risks in Sri Lanka and Gulf region.
-
-🟩
-
-The Canadian government has advised the travelers to act with great care due to protests in Sri Lanka, terrorist attacks and crimes, especially threats in the Gulf.
-
-◼️
-
-[Data](articles/7d7aa676.json)
-
-[Extended Data](ext_articles/7d7aa676.ext.json)
-
----
-
-### The government should immediately appoint a National Security Advisor - Sagala Ratnayake
-
-*2024-10-24 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/196979) · `ta`
-
-Sri Lanka needs a National Security Advisor to combat terrorism and protect its growing tourism industry. The government shares intelligence with other nations, maintaining relative peace. However, unguarded statements could harm the economy through negative foreign perception.
-
-🟩
-
-Former president's advisor Sakala Ratnayake has appealed to the government to appoint a national security advisor to address threats from terrorist groups.
-
-As the country's tourism industry is growing, reports of security threat can be affected.
-
-Our government has developed a mechanism for sharing intelligence with other countries, thereby exchanging important information and ensuring the safety of the people.
-
-Due to this, Sri Lanka has not faced any major threat for the past few years.
-
-He said the release of statements that would affect the country's name would create a foreign exchange problem that would affect the economy.
-
-◼️
-
-[Data](articles/732c7f19.json)
-
-[Extended Data](ext_articles/732c7f19.ext.json)
 
 ---

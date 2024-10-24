@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 00:13:54**
+As of **2024-10-25 00:25:17**
 
 ## Newspaper Stats
 
-*Scraped **51,226** Articles*
+*Scraped **51,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 510
 bbccomsinhala | 519
 islandlk | 3,040
 economynextcom | 3,131
-dailyftlk | 3,490
+dailyftlk | 3,491
 dailymirrorlk | 4,733
 adalk | 4,774
 adaderanalk | 6,069
-tamilmirrorlk | 7,060
+tamilmirrorlk | 7,061
 virakesarilk | 8,231
 adaderanasinhalalk | 8,895
 
@@ -26,9 +26,49 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,226 (100.0%) of 51,226 articles have been extended.
+51,228 (100.0%) of 51,228 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-25 (Friday)
+
+### Celebrating 100 years of Toastmasters International: Journey of empowering voices
+
+*2024-10-25 00:07:24* · [`dailyftlk`](https://www.ft.lk/opinion/Celebrating-100-years-of-Toastmasters-International-Journey-of-empowering-voices/14-768379) · `en`
+
+On 22 October 2024, Toastmasters International marked a century of transforming lives through communication and leadership development. Founded in 1924 by Dr. Ralph C. Smedley in Santa Ana, California, Toastmasters began as a small gathering aimed at helping individuals hone their speaking skills. Over the years, it grew into a global movement, empowering millions of members to become confident communicators and leaders.
+
+...
+
+[Data](articles/f42ab52f.json)
+
+[Extended Data](ext_articles/f42ab52f.ext.json)
+
+---
+
+### முன்னாள் ஜனாதிபதி ரணில் வெளியிட்ட விசேட அறிக்கை
+
+*2024-10-25 00:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதி-ரணில்-வெளியிட்ட-விசேட-அறிக்கை/175-346018) · `ta`
+
+Former President Ranil Wickremesinghe released a special statement on Easter Day Attack A.M.J.D. Alvarez report investigation. Committee formed to probe intelligence failure on potential terrorist attacks. Report criticized police officials including current Public Security Minister Ravi Senaratne and former criminal investigation officer Shanika Abeysinghe. Recommendations made against taking legal action against officers and Police Chief Deshapriya Tennekoon. Statement denies report was prepared against Ravi Senaratne and Shanika Abeysinghe.
+
+🟩
+
+Easter Day Attack A. எம். ஜே. டி அல்விஸ் அறிக்கை குறித்து முன்னாள் ஜனாதிபதியும் ஐக்கிய தேசிய கட்சியின் தலைவருமான ரணில் விக்கிரமசிங்க  விசேட அறிக்கை ஒன்றை வெளியிட்டுள்ளார்.
+
+ஏ. எம். ஜே. Dalvis -led group is not assigned to me personally. The Attorney General's Department also cooperated with the appointment of the committee.
+
+The committee was appointed to investigate the lack of proper action by the Indian intelligence report that a terrorist attack will take place in the country.
+
+மேலும் அந்த தகவல் தொடர்பில் போதுமான நடவடிக்கை எடுக்கப்பட்டிருந்ததா என்பது தொடர்பில் விசாரணை செய்வதும் இந்த குழுவுக்கு வழங்கப்பட்டிருந்த இன்னுமொரு கடமையாகும். அதே போன்று வவுனதீவு சம்பவம் எல். ரி. ரி. ஈ. When the Department of Investigation and Criminal Investigation announced that it was carried out by the organization?The committee was also informed to investigate what action was taken during that period.
+
+...
+
+[Data](articles/9f0f8a8c.json)
+
+[Extended Data](ext_articles/9f0f8a8c.ext.json)
+
+---
 
 ### 2024-10-24 (Thursday)
 
@@ -2435,63 +2475,5 @@ However, when the security forces arrived, the collapsed in the hotel room had d
 [Data](articles/6d96d460.json)
 
 [Extended Data](ext_articles/6d96d460.ext.json)
-
----
-
-### What do we so far do we so far about the threat of arroga?
-
-*2024-10-24 13:26:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg578lj2p6yo) · `si`
-
-Here's a 200-character summary:
-
-
-
-US Embassy issues tourist advisory for Ampara district. British High Commission informs UK citizens. Three arrests made over alleged Arugambay threat. Police deny involvement of foreigners or weapons. Minister warns against misinformation. Diplomatic discussions ongoing regarding security measures.
-
-🟩
-
-The US embassy in Ampara, the popular destinations of foreign tourists, has a strong conversation with the tourist guideline issued by the US embassy in the Ampara District.
-
-Thereafter, the British High Commission in Sri Lanka, including the British High Commission in Sri Lanka, took steps to inform the citizens of Sri Lanka as closely.
-
-Public Defense Minister Vijith Herath held a media briefing today (October), three persons have been arrested on suspicion over Arugambay.
-
-This is an inquiry on information that has been reported since being reported about the threat of arugambay.
-
-According to intelligence information that the Sri Lankan reigns have been arrested, three persons have been arrested on suspicion that the police have arrested three persons have been arrested by the police.
-
-The Minister further stated that the three persons in custody are further questioned.
-
-...
-
-[Data](articles/a34f4ee5.json)
-
-[Extended Data](ext_articles/a34f4ee5.ext.json)
-
----
-
-### Sri Lanka welcomes India's decision to give Classical status to Pali language
-
-*2024-10-24 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/196986) · `ta`
-
-Sri Lanka welcomes India's decision to grant Classical status to Pali language. Event at Swami Vivekananda Cultural Center discusses Pali's importance in Buddhist teachings. Speakers highlight India's commitment to preserving Buddhist heritage and culture. The decision opens opportunities for cooperation between Indian and Sri Lankan scholars in Pali research.
-
-🟩
-
-Swami Vivekananda Cultural Center of the Indian High Commission organized a group discussion on the topic of 'Pali as Pali' at the Swami Vivekananda Cultural Center on the 23rd.
-
-The Chief Guest of the Ministry of Buddhist, Religious and Cultural Affairs, National Integration Social Security and Media Ministry, Ranjith Aryaratne was the chief guest at the event.
-
-The event was organized by the Government of India to be given the status of the Pali language.
-
-The inaugural speech of the event was presented by Dr. Kirinde Asaji Thera, the chief priest of the Kangaram Vihara, and the next panel discussion was followed.
-
-Professor Anand Singh (Video), Professor of the Buddhist Cultural Department of the Buddhist Cultural Department of the Buddhist Cultural Department of the Buddhist University of Sri Lanka Club'sDr. Deniyaye Pannalaka Buddharakitha Thera, the Department of Pali and Buddhist Studies, and Dr. M Sukatasiri Thera, the Department of Buddhist Studies of the University of Colombo.
-
-...
-
-[Data](articles/36060b10.json)
-
-[Extended Data](ext_articles/36060b10.ext.json)
 
 ---

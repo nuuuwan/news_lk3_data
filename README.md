@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 19:00:56**
+As of **2024-10-24 19:12:35**
 
 ## Newspaper Stats
 
-*Scraped **51,194** Articles*
+*Scraped **51,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,769
 adaderanalk | 6,066
-tamilmirrorlk | 7,056
+tamilmirrorlk | 7,057
 virakesarilk | 8,224
 adaderanasinhalalk | 8,890
 
@@ -26,25 +26,49 @@ adaderanasinhalalk | 8,890
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,182 (100.0%) of 51,194 articles have been extended.
+51,190 (100.0%) of 51,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
 
-### සියලු පුරවැසියන්ගේ ආරක්ෂාව තහවුරුයි - ජනපති
+### ”தோட்டத் தொழிலாளர்களை எவரும் கண்டு கொள்வதில்லை”
+
+*2024-10-24 18:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்டத்-தொழிலாளர்களை-எவரும்-கண்டு-கொள்வதில்லை/175-346001) · `ta`
+
+லிந்துலை லிப்பக்கலை பகுதியில் இன்று (24) மாலை தேர்தல் பிரசார நடவடிக்கையில் ஈடுபட்ட போது தொழிலாளர்களுடன் இணைந்து கொழுந்து பறித்து கொண்டு அவர் பொது மக்களுடன் கலந்துரையாடினார்.
+
+இதன் பொது தொடர்ந்து  உரையாற்றிய வடிவேல் சுரேஷ் பிரதீஷ், தொழிலாளர்களின் சம்பளப் பிரச்சினை முக்கியமானது ஆனால் நான் பாராளுமன்றத்திற்கு செல்லாமல் வீட்டிலிருந்து கதைத்து தீர்த்து வைக்க முடியாது.
+
+அதேபோல் மலையகத்திலிருந்து ஏராளமான இளைஞர் யுவதிகள் கொழும்பில் தொழில் புரிந்து வருகின்றனர். ஆனால் அவர்களுக்கு ஒரு பாதுகாப்பு இல்லை, முன்னைய காலத்தில் இரவு நேர பாடசாலைகள் அதிகமாக இடம்பெற்றது ஆனால் அது தற்போது முற்றாக இல்லாமல் போய்விட்டது. இதனால் கல்வி நடவடிக்கை பாதிக்கப்பட்டுள்ளது. காலம் காலமாக கஷ்டப்படும் தோட்டத் தொழிலாளர்களை எவரும் கண்டு கொள்வதில்லை.
+
+அதேபோல் சிறு துளி மரியாதை கூட அவர்களுக்கு கிடைப்பதில்லை இவை அனைத்தும் எதிர்காலத்தில் அனைவருக்கும் கிடைக்க வேண்டுமென்றால் உங்கள் பெறுமதிமிக்க வாக்குகளால் என்னைப் பாராளுமன்ற தேர்தலில் வெற்றிப் பெற்று பாராளுமன்ற உறுப்பினராக தெரிவு செய்ய வேண்டும்.
+
+...
+
+[Data](articles/8e215f40.json)
+
+---
+
+### Protection of all citizens
 
 *2024-10-24 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202521) · `si`
 
-ලංකාවේ සියලු පුරවැසියන්ගේ ආරක්ෂාව තහවුරු කර ඇති බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+Sri Lanka President Anura Kumara Dissanayake ensures citizen safety. Addresses meeting in Puttalam, vows to secure areas rapidly and investigate suspicious activities. Confirms security measures in place for all citizens.
 
-අද (24) පුත්තලමේ පැවැති ජන හමුවක් අමතමින් ජනපතිවරයා මේ බව පැවසීය.
+🟩
 
-"අපේ වගකීම තමයි පුරවැසියන්ගේ ආරක්ෂාව තහවුරු කිරීම. අපි අදාළ ප්‍රදේශවල වේගයෙන් ආරක්ෂාව තහවුුරු කරන්න කටයුතු කළා. ඒ විතරක් නෙමෙයි බුද්ධි අංශ තොරතුරු මත වේගයෙන් කටයුතු කළා, ඒ ස﻿ඳහා සැකයට තුඩු දෙන කීප දෙනෙක්ව අත්අඩංගුවට ගන්නත් අපි කටයුතු කලා. අපි අද කියන්න කැමතියි ලංකාවේ සියලු පුරවැසියන්ගේ ආරක්ෂාව අපි සහතික කරලා තියනවා."
+President Anura Kumara Dissanayake says that the security of all citizens of Sri Lanka has been ensured.
+
+The President was addressing a meeting held in Puttalam today (24).
+
+"Our responsibility is to ensure the safety of citizens. We plan to confirm the rapid of the areas. We also worked on intelligence information and arrest several suspicions that led to the public. We want to say today we have assured the security of all citizens of all citizens. "
 
 ◼️
 
 [Data](articles/e09c50d0.json)
+
+[Extended Data](ext_articles/e09c50d0.ext.json)
 
 ---
 
@@ -77,6 +101,10 @@ Rohitha Abeygunawardena has said that he is ready to sacrifice his life for the 
 ### A Beach Kraft from Australia for Air Force
 
 *2024-10-24 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202520) · `si`
+
+Sri Lanka Air Force receives beach craft from Australia. Aircraft to join No. 03 Squadron. Gift from Australian government to improve maritime security. Aims to combat international crime and human smuggling in the region.
+
+🟩
 
 The Sri Lanka Air Force has given a beach craft jagged by the Australian Royal Air Force.
 
@@ -136,19 +164,37 @@ He also questioned why Sri Lankan forces provide protection to Israeli companies
 
 ---
 
-### ඊශ්‍රායෙල් ජාතිකයන් නැවතී සිටින මහනුවර හෝටල්වලට විශේෂ ආරක්ෂාවක්
+### Special protection for the Kandy-Kandy hotels
 
 *2024-10-24 18:13:58* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙල්-ජාතිකයන්-නැවතී-සිටින-මහනුවර-හෝටල්වලට-විශේෂ-ආරක්ෂාවක්/11-412669) · `si`
 
-ඊශ්‍රායල් ජාතිකයන් නැවතී සිටින මහනුවර සංචාරක හෝටල් වලට විශේෂ ආරක්ෂාවක් යෙදවීමට පොලිසිය පියවර ගෙන තිබේ.
+Kandy hotels receive enhanced police protection:
 
-මහනුවර පොලිස් කොට්ඨාසය තුළ ඇති සංචාරක හෝටල් වලට පැමිණෙන විදේශීය සංචාරකයන් පිළිබඳව දෛනික වාර්තා ලබා ගැනීමට පොලිසියද පියවර ගෙන ඇති අතර ඒ අතරින් ඊශ්‍රායල් ජාතිකයන් නවාතැන් ගන්නා සංචාරක හෝටල්වලට විශේෂ ආරක්ෂාවක් යෙදවීමටද පොලිසිය පියවර ගෙන තිබේ .
 
-මහනුවර කොට්ඨාස භාර ජේෂ්ඨ පොලිස් අධිකාරි අනුරුද්ධ බණ්ඩාරනායක මහතාගේඋපදෙස් පරිදි ක්‍රියාත්මක මෙම ආරක්ෂක වැඩපිළිවෙල යටතේ එම සංචාරක හෝටල් ආශ්‍රිතව විශේෂ මුර සංචාර වැඩපිළිවෙලක්ද ක්‍රියාත්මක කොට තිබේ.
+
+1. Daily foreign tourist reports from hotels
+
+2. Special patrols around tourist areas
+
+3. Increased security measures implemented
+
+
+
+This summary captures the key points about the special protection measures for Kandy's tourist hotels in approximately 200 characters.
+
+🟩
+
+Police have taken measures to provide special security to the tourist hotels in Kandy that stayed.
+
+Police have taken steps to obtain daily reports on foreign tourists visiting the tourist hotels in the Kandy Police Division.
+
+An Euruddha Bandaranaike's Abunajuna's favors have also implemented a special patrol program near the tourist hotels.
 
 ◼️
 
 [Data](articles/ac4d10a3.json)
+
+[Extended Data](ext_articles/ac4d10a3.ext.json)
 
 ---
 
@@ -336,21 +382,27 @@ The two candidates have been arrested on charges of campaigning in violation of 
 
 ---
 
-### නව රජය පැවැත්වූ දෙවැනි ආරක්ෂක කවුන්සිල රැස්වීමට ප්‍රහාරය ගැන තොරතුරු ආවා
+### The new government's second defense council meeting came about
 
 *2024-10-24 17:50:42* · [`adalk`](https://www.ada.lk/breaking_news/නව-රජය-පැවැත්වූ-දෙවැනි-ආරක්ෂක-කවුන්සිල-රැස්වීමට-ප්‍රහාරය-ගැන-තොරතුරු-ආවා/11-412667) · `si`
 
-නව රජය බලයට පත්වීමෙන් පසුව පැවැත්වූ දෙවැනි ආරක්ෂක කවුන්සිල රැස්වීමේදී ප්‍රහාරයක් පිළිබඳව තොරතුරු වාර්තා වූ බව අමාත්‍ය විජිත හේරත් මහතා පැවැසීය.
+New government's second defense council meeting summary: Minister Vijitha Herath reports on security measures for Ella and Weligama guards. Three arrests made regarding attack plans. Ongoing investigations continue.
 
-ඒ අනුව වහාම ක්‍රියාත්මක වෙමින් ආරුගම්බේ, ඇල්ල හා වැලිගම ප්‍ර දේශයන්හි ආරක්ෂාව තරකර බවද අමාත්‍යවරයා පැවැසීය.
+🟩
 
-අදාළ ප්‍රහාර සැලසුම සම්බන්ධයෙන් මේ වන විට පුද්ගලයන් තිදෙනෙක් අත්අඩංගුවට ගෙන ඇති බවත් ඔවුන්ගෙන් තොරතුරු ලබා ගනිමින් සිටින බවත් අමාත්‍යවරයා කීය.
+Minister Vijitha Herath said that the new government was reported at the Second Security Council meeting held after the coming to power.
 
-එම ලබා ගන්නා තොරතුරු මත ඉදිරි පරීක්ෂණ කටයුතු සිදුකරන බවත් ඔහු සඳහන් කළේය.
+Accordingly, the security of arguarders, Ella, Weligama, Weligama, the Minister said.
+
+The Minister said that three persons have been arrested in connection with the attack plan.
+
+He added that further investigations are conducted on the information available.
 
 ◼️
 
 [Data](articles/eb2d7c6d.json)
+
+[Extended Data](ext_articles/eb2d7c6d.ext.json)
 
 ---
 
@@ -404,69 +456,101 @@ You will be able to avoid diabetes if you are notified about the cause of diabet
 
 ---
 
-### மாற்றத்தை விரும்புவது மட்டுமல்ல மாற்றத்தை நடைமுறையிலும் உருவாக்க  வேண்டும் - முன்னாள் பாராளுமன்ற உறுப்பினர் மு. சந்திரகுமார்
+### Not only does the change but also make a change in practice - former Member of Parliament. Chandrakumar
 
 *2024-10-24 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197013) · `ta`
 
-பல்லினச் சமூகங்களின் இருப்பையும் அடையாளத்தையும் அழிப்பதையோ, மீறுவதையோ ஏற்கமுடியாது. ஆனால் மாற்றம், முன்னேற்றம், ஊழல் ஒழிப்பு என்ற அழகிய சொல்லாடலின் மூலம் எம்மை - தமிழ்பேசும் சமூகத்தினை அரசியல் அநாதைகளாக்குவற்கான முயற்சிகள் நடக்கின்றன. இதனால் தமிழ்பேசும் சமூகங்கள் பாதிக்கப்படும்  அபாயநிலை ஏற்பட்டுள்ளது. இதனை நாம் அனுமதிக்கவே முடியாது. மாற்றத்தை விரும்புவோராக மட்டுமல்ல, அந்த மாற்றத்தை நடைமுறையில் உருவாக்க வேண்டும் என்பதே எமது அரசியல் இலக்காகும் என முன்னாள் பாராளுமன்ற உறுப்பினரும் ஐக்கிய மக்கள் சக்தியின் யாழ் .கிளிநொச்சி தேர்தல் மாவட்டத்தின் முதன்மை வேட்பாளருமான மு. சந்திரகுமார் தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-நேற்று புதன்கிழமை (23) கிளிநொச்சி திருவையாறு கிராமத்தில் இடம்பெற்ற தேர்தல் பிரச்சார கூட்டத்தின் போதே அவர் இவ்வாறு தெரிவித்துள்ளார.
 
-நாம் ஏற்கனவே, மாற்றத்துக்கான அரசியற் தளத்திலேயே பணியாற்றிவருகிறோம். தொடர்ந்தும் அந்த அடிப்படையிலேயே பயணித்துக் கொண்டிருக்கிறோம்.
+
+Former MP Chandrakumar emphasizes change in practice, not just rhetoric. He warns against policies favoring one ethnic group over others, calling for equal representation.
+
+🟩
+
+It is impossible to destroy or violate the existence and identity of multi -ethnic communities. But through the beautiful rhetoric of change, progress, and corruption, we are trying to make us political orphans to political orphans.. This has resulted in the danger of being affected by Tamil. We cannot allow this. Former parliamentarian and the chief candidate of the United People's Power, Jaffna, Kilinochchi Election District, said that our political goal is to make that change not only as a change.. Chandrakumar said.
+
+He was speaking at an election campaign meeting held at Thiruvaiyaru village in Kilinochchi on Wednesday (23).
+
+We are already working on the political platform for change. We continue to travel on that basis.
+
+But it is not appropriate that any change is the only one who maintains the welfare of a single race. Or, not to walk without representation of other races. If that happens, we cannot allow it.
 
 ...
 
 [Data](articles/097cbf57.json)
 
+[Extended Data](ext_articles/097cbf57.ext.json)
+
 ---
 
-### யாழ்ப்பாணம் - ஊர்காவற்துறை பகுதியில் மறைத்து வைக்கப்பட்டிருந்த கூரிய ஆயுதங்கள் மீட்பு!
+### Recovery of sharp weapons hidden in Jaffna - Kayts area
 
 *2024-10-24 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197025) · `ta`
 
-யாழ்ப்பாணம் - ஊர்காவற்துறை பகுதியில் மறைத்து வைக்கப்பட்டிருந்த கூரிய ஆயுதங்கள் பொலிஸாரால் மீட்கப்பட்டது.
+Jaffna-Kayts: Police recover 7 sharp weapons, including 5 swords, during raid. No arrests made yet. Suspect claims police investigation ongoing.
 
-ஐந்து வாள்கள் உள்ளிட்ட 07 கூரிய ஆயுதங்கள் கைப்பற்றப்பட்டதுடன், சந்தேக நபர்கள் எவரும் கைதுசெய்யப்பட்டவில்லை என பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-ஊர்காவற்துறை பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கமைய இன்று காலை நடத்தப்பட்ட சோதனையின்போது வீடொன்றில் இருந்து ஆயுதங்கள் மீட்கப்பட்டுள்ளது.
+The sharp weapons hidden in the Jaffna -Kayts area were recovered by the police.
 
-வன்முறையில் ஈடுபடுவதற்கு தயாராக குறித்த ஆயுதங்கள் மறைத்து வைக்கப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகம் வெளியிட்டுள்ளனர்.
+Seven sharp weapons, including five swords, were seized and no suspects were arrested, police said.
 
-வீட்டில் வசித்த சந்தேக நபர் தலைமறைவான நிலையில் சம்பவம் தொடர்பாக விசாரணைகளை மேற்கொண்டுள்ள பொலிஸார் குறித்த நபரை கைது செய்ய நடவடிக்கை எடுத்துள்ளதாக தெரிவித்துள்ளனர்.
+Weapons were recovered from a house during a raid conducted this morning according to confidential information received by the Kayts police.
+
+Police suspect that the weapons that are ready to engage in violence may have been hidden.
+
+The suspect, who lived in the house, said that the police have been investigating the incident and have taken steps to arrest the man.
 
 ◼️
 
 [Data](articles/20ed5c65.json)
 
+[Extended Data](ext_articles/20ed5c65.ext.json)
+
 ---
 
-### புத்தளத்தில் துப்பாக்கிகளுடன் ஒருவர் கைது
+### One arrested with guns in Puttalam
 
 *2024-10-24 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197022) · `ta`
 
-புத்தளம் பொலிஸ் பிரிவுக்குட்பட்ட ஆணமடுவ, கொட்டுக்கச்சி பகுதியில்  வெளிநாட்டில் தயாரிக்கப்பட்ட துப்பாக்கி மற்றும்  உள்நாட்டு துப்பாக்கியுடன் சந்தேக நபர் ஒருவர் நேற்று புதன்கிழமை (23) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Arrest made in Puttalam: 23-year-old man caught with foreign-made gun and rifle during STF raid.
 
-பொலிஸ் விசேட அதிரடிப்படையின் புத்தளம் முகாமின் அதிகாரிகள் குழுவினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் கொட்டுகச்சி பிரதேசத்தை சேர்ந்த 23 வயதுடையவர் ஆவார்.
+A suspect has been arrested by police on Wednesday (23) with a gun and domestic rifle manufactured abroad.
+
+He was arrested during a raid carried out by a group of officers of the Puttalam Camp of the Police Special Task Force.
+
+The suspect was 23 years old from Kotugachi.
 
 ◼️
 
 [Data](articles/b408df18.json)
 
+[Extended Data](ext_articles/b408df18.ext.json)
+
 ---
 
-### அமெரிக்கத்தூதுவர் யாழ். பல்கலைக்கழகத்துக்கு விஜயம்!
+### US Ambassador Jaffna. Visit to the university!
 
 *2024-10-24 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197023) · `ta`
 
-இலங்கைக்கான ஐக்கிய அமெரிக்கத் தூதுவர் ஜுலி சங் மற்றும் தூதரக அதிகாரிகள் இன்று வியாழக்கிழமை (24 )  காலை யாழ். பல்கலைக்கழகத்துக்கு உத்தியோகபூர்வ விஜயமென்றினை மேற்கொண்டனர்.
+US Ambassador Julie Sung visits Jaffna University. She toured the "Agakam" intelligence center under the Social Synchronization and Reconciliation Project. Met with faculty, staff, and students from psychology and philosophy departments. Discussed ongoing projects and current situations with university officials.
 
-ஐக்கிய அமெரிக்கத் தூதரகத்தினால், யூ.எஸ். எயிட் நிதியுதவியுடன் யாழ்ப்பாணப் பல்கலைக்கழகக் கலைப்பீடத்தின் மெய்யியல் துறையினால் முன்னெடுக்கப்பட்டுவரும் சமூக ஒத்திசைவு மற்றும் நல்லிணக்க செயற்றிட்டத்தின் கீழ் நடாத்தப்படும் "அகம்" உளவளத்துணை நிலையத்துக்கே அமெரிக்கத் தூதுவர் தலைமையிலான குழுவினர் விஜயம் மேற்கொண்டிருந்தனர்.
+🟩
+
+US Ambassador to Sri Lanka Julie Sung and embassy officials this morning (24). They made an official visit to the university.
+
+By the US embassy, ​​the US. The US Ambassador -led delegation has visited the "Agakam" intelligence center under the Social Synchronization and Reconciliation Project, which is being carried out by the Department of Philosophy of the University of Jaffna.
+
+During this visit, with US Ambassador Julie Sung, the U.S.. Chief Officer Jayadevan Karthikeyan and Embassy Officers of Aid's Social Synchronization and Reconciliation Project. Senior Professor of Raghuram and High Degree Faculty. University officials and students of Psychology and Philosophy were also present, including Abirami Rajkumar, Head of the Department of Physics, Abirami Rajkumar, Senior Lecturer Dr. K. Kajavindan and Psychology Advisor R. Savitriti Devi.
 
 ...
 
 [Data](articles/c05f1aef.json)
+
+[Extended Data](ext_articles/c05f1aef.ext.json)
 
 ---
 
@@ -494,19 +578,29 @@ Minister Vijitha Herath said that special security measures have been launched e
 
 ---
 
-### இராணுவத்திற்கு கிடைக்கும் மரியாதை தோட்டத் தொழிலாளர்களுக்கும் கிடைக்க வேண்டும் - வடிவேல் சுரேஷ் பிரதீஷ்
+### The honor of the military should also be available to plantation workers - Vadivel Suresh Pradeesh
 
 *2024-10-24 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197021) · `ta`
 
-லிந்துலை லிப்பக்கலை பகுதியில் வியாழக்கிழமை (24) மாலை  தேர்தல் பிரசார நடவடிக்கையின் போது தொழிலாளர்களுடன் இணைந்து கொழுந்து பறித்து கொண்டு பொது மக்களுடன் கலந்துரையாடினார்.
+Vadivel Suresh Pradeesh advocates for military honors for plantation workers during election campaign. He emphasizes workers' rights and respect, promising action if elected to parliament.
 
-இதன் பொது தொடர்ந்து  உரையாற்றிய வடிவேல் சுரேஷ் பிரதீஷ் தொழிலாளர்களின் சம்பளப் பிரச்சினை முக்கியமானது ஆனால் நான் பாராளுமன்றத்திற்கு செல்லாமல் வீட்டிலிருந்து கதைத்து தீர்த்து வைக்க முடியாது அதேபோல் மலையகத்திலிருந்து ஏராளமான இளைஞர் யுவதிகள் கொழும்பில் தொழில் புரிந்து வருகின்றன.
+🟩
 
-அவர்களுக்கு ஒரு பாதுகாப்பு இல்லை, முன்னைய காலத்தில் இரவு நேர பாடசாலைகள் அதிகமாக இடம்பெற்றது ஆனால் அது தற்போது முற்றாக இல்லாமல் போய்விட்டது இதனால் கல்வி நடவடிக்கை பாதிக்கப்பட்டுள்ளது காலம் காலமாக கஷ்டப்படும் தோட்டத் தொழிலாளர்களை எவரும் கண்டு கொள்வதில்லை அதேபோல் சிறு துளி மரியாதை கூட அவர்களுக்கு கிடைப்பதில்லை இவை அனைத்தும் எதிர்காலத்தில் அனைவருக்கும் கிடைக்க வேண்டுமென்றால் உங்கள் பெருமதி மிக்க வாக்குகளால் என்னை நாடாளுமன்ற தேர்தலில் வெற்றிப் பெற்று நாடாளுமன்ற உறுப்பினராக தெரிவு செய்ய வேண்டும்.
+During the election campaign on Thursday evening at Lindulai Lipakkalai area, he held a discussion with the public with workers.
 
-...
+Speaking on the occasion, Vadivel Suresh Pradeesh workers' salary issue is important but I cannot speak from home without going to parliament and a large number of youth from the hill country are working in Colombo.
+
+They do not have a protection, there is a lot of night schools in the past, but it has not been complete now, and it is now affected by the academic activity. No one can find the hardship workers and even a small drop of respect for them.Win and be elected as a Member of Parliament.
+
+Thus, if I win the parliamentary election and go to parliament, I will be able to make a compulsory respect for the military workers.
+
+Subsequently, Vadivel Suresh Pradeesh discussed with the people of the youth, their basic problems, women and plantation workers, their basic life problems, and their policies.
+
+◼️
 
 [Data](articles/9b375c3a.json)
+
+[Extended Data](ext_articles/9b375c3a.ext.json)
 
 ---
 
@@ -2369,25 +2463,5 @@ Bribery Commission says that the OIC of the Gampola Police Station has been arre
 [Data](articles/fa90ab19.json)
 
 [Extended Data](ext_articles/fa90ab19.ext.json)
-
----
-
-### Vanni Mothers meet the president's northern representative
-
-*2024-10-24 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/196972) · `ta`
-
-A group of Tamil mothers led by the war -torn Mullaitivu district have asked the new president's provincial representative to take action to release their lands occupied by state institutions, including the military, for many years.
-
-Mullaitivu Tamils ​​have come to the Northern Province Governor's Office in Jaffna yesterday (21) demanding the release of the lands of Keppapulavu Tamils ​​who were seized in Mullaitivu and the land of the Mahaweli L (L) Zone.
-
-Only two members of the group from Mullaitivu have had the opportunity to discuss with the new Governor Nagalingam Vedanayake appointed by President Anura Kumara Dissanayake.
-
-Vivekanandan Indrani, speaking to the media after a discussion with the provincial governor, says that even after the end of the war, five presidents were in office in the country.
-
-...
-
-[Data](articles/2eb3deb9.json)
-
-[Extended Data](ext_articles/2eb3deb9.ext.json)
 
 ---

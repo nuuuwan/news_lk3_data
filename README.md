@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 22:25:52**
+As of **2024-10-24 22:39:33**
 
 ## Newspaper Stats
 
-*Scraped **51,213** Articles*
+*Scraped **51,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,773
-adaderanalk | 6,068
+adaderanalk | 6,069
 tamilmirrorlk | 7,059
-virakesarilk | 8,228
+virakesarilk | 8,231
 adaderanasinhalalk | 8,895
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,213 (100.0%) of 51,213 articles have been extended.
+51,217 (100.0%) of 51,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Young man dies
+
+*2024-10-24 22:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197039) · `ta`
+
+Young man dies after train collision in Eravur. Incident occurred Thursday night while train traveled from Batticaloa to Colombo. Body taken to hospital, investigation ongoing.
+
+🟩
+
+A young man dies after colliding with a train. The incident took place on Thursday night.
+
+The incident took place when the train traveling from Batticaloa to Colombo was traveling by the Eravur residential area.
+
+In this, a young man named Mujahid, a young man from the wild Mamara, Eravur, died in a train.
+
+The body of the deceased has been taken to the Eravur Hospital and further investigations are being carried out by the Eravur police.
+
+◼️
+
+[Data](articles/731d5841.json)
+
+[Extended Data](ext_articles/731d5841.ext.json)
+
+---
+
+### India evacuates hundreds of thousands and shuts schools as tropical storm nears
+
+*2024-10-24 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102909/india-evacuates-hundreds-of-thousands-and-shuts-schools-as-tropical-storm-nears) · `en`
+
+Indian authorities have shut schools, evacuated hundreds of thousands of people and canceled trains in parts of the country as rescue teams braced on Thursday for a tropical storm brewing in the Bay of Bengal.
+
+Tropical Storm Dana is expected to intensify, bringing winds of 100-110 kph (62-68 mph) and gusts up to 120 kph (74 mph), as it pushes toward the country’s eastern coastline, where it is set to make landfall late Thursday and early Friday, according to the Indian Meteorological Department.
+
+Climate scientists say severe storms are becoming more frequent in South Asia. Global warming driven by planet-heating gases has caused them to become more extreme and unpredictable.
+
+The storm is expected to affect most parts of the eastern state of Odisha, which saw strong winds and rain on Thursday morning. Authorities have closed schools, canceled more than 200 trains, suspended flights and warned fishermen not to venture out to sea.
+
+...
+
+[Data](articles/4d9bd57b.json)
+
+[Extended Data](ext_articles/4d9bd57b.ext.json)
+
+---
 
 ### India evacuates hundreds of thousands of people and shuts schools as a tropical storm nears
 
@@ -75,6 +119,32 @@ A foreigner who had entered the Maduru Oya National Park and a group of indigeno
 [Data](articles/f0390f40.json)
 
 [Extended Data](ext_articles/f0390f40.ext.json)
+
+---
+
+### The candidate who was arrested during the election campaign is released on bail
+
+*2024-10-24 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197038) · `ta`
+
+Candidate Varadarajan Parthiban, Tamil People's Alliance, arrested during election campaign in Jaffna, released on bail. Another candidate Gajendrakumar Ponnambalam also arrested and released on bail.
+
+🟩
+
+Varadarajan Parthiban, candidate of the Tamil People's Alliance, who was arrested during an election campaign in Vadamarachchi in Jaffna, was released on police bail.
+
+The Tamil People's Alliance (TNA) was arrested by the Point Pedro Police on Thursday evening.
+
+Arrest was carried out on charges of campaigning in violation of the election.
+
+After the affidavit was received at the Point Pedro Police Station, the two were released on police bail.
+
+Meanwhile, All Ceylon Tamil Congress candidate Gajendrakumar Ponnambalam was arrested and released on police bail.
+
+◼️
+
+[Data](articles/7c54c65a.json)
+
+[Extended Data](ext_articles/7c54c65a.ext.json)
 
 ---
 
@@ -153,6 +223,30 @@ Accordingly, the next hearing of the petition has been postponed to November 18 
 [Data](articles/4b3bae98.json)
 
 [Extended Data](ext_articles/4b3bae98.ext.json)
+
+---
+
+### Three -wheeler and van collided face -to -faceOne killed
+
+*2024-10-24 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197037) · `ta`
+
+A three-wheeler and van collided head-on, killing one driver and injuring three schoolchildren. The accident happened near Kalaya Mansandi on the Anuradhapura-Puttalam road.
+
+🟩
+
+One person was killed when a three -wheeler collided head -on on Thursday 24th near Kalaya Mansandi on the Anuradhapura - Puttalam road.
+
+Nochiyagama, father of two children who drove the three -wheeler, D.Sumith Ratnayake (age 47) from Adambana.
+
+The accident occurred while the deceased was taking his daughter, son and daughter's friend to school. Three school children were injured, police said.
+
+The accident occurred when the motorcycle crashed into a van, while the accident occurred when the accident was attempted to avoid the three -wheeler collision, police said.
+
+◼️
+
+[Data](articles/a77aaf41.json)
+
+[Extended Data](ext_articles/a77aaf41.ext.json)
 
 ---
 
@@ -2431,91 +2525,5 @@ In the Polonnaruwa district, the people of this country have given the National 
 [Data](articles/9a31474b.json)
 
 [Extended Data](ext_articles/9a31474b.ext.json)
-
----
-
-### Arugam's attack on the information from India
-
-*2024-10-24 12:34:22* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්බේ-ප්‍රහාරයක-සැලැස්ම-ගැන-තොරතුර-ඉන්දියාවෙන්/11-412658) · `si`
-
-Here's a 200-character summary of the text:
-
-
-
-Arugam attack on Israel's favorite tourist destination. Indian intelligence informed of potential attack between 19th-23rd. Sri Lankan security forces preparing countermeasures in Eastern Province.
-
-🟩
-
-It is reported that India has originally provided information to the Sri Lankan security forces to be attacked targeting an attractive tourist destination of Sri Lanka.
-
-ආරගම්බේ ඊශ්‍රායෙල ජාතිකයන්ගේ ප්‍රියතම සංචාරක ගමනාන්තයක් වන අතර පසුගිය දිනවලදි ඊශ්‍රායෙලය විසින්ම හිස්බුල්ලා සංවිධානයේ නායකයන් ඝාතනය කිරිමට පලිගැනිමක් වශයෙන් ඊශ්‍රායෙල ජාතිකයන් ඉලක්ක කර මෙම ප්‍රහාරය එල්ල කිරිමට සැලසුම් කර තිබේ.
-
-Indian intelligence has been informed that the attack can be launched between the 19th and 23rd.
-
-මෙම තොරතුරු ලැබීමත් සමග මීට සති දෙකකට පමණ පෙර සිටම වහාම ක්‍රියාත්මක වන පරිදි නැගෙනහිර පළාතේ ආරක්ෂාව තර කිරීමට ආරක්ෂක අංශ පියවර ගෙන තිබේ.
-
-◼️
-
-[Data](articles/8a950e71.json)
-
-[Extended Data](ext_articles/8a950e71.ext.json)
-
----
-
-### Canada to cut immigration numbers, government source says
-
-*2024-10-24 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102901/-canada-to-cut-immigration-numbers-government-source-says) · `en`
-
-Canada will sharply lower the number of immigrants it allows into the country for the first time in years, marking a notable shift in policy for the government as it tries to remain in power.
-
-Canada will bring in 395,000 new permanent residents in 2025, 380,000 in 2026 and 365,000 in 2027, down from 485,000 in 2024, according to a government source.
-
-The number of temporary residents, meanwhile, will decrease by about 30,000 to around 300,000 in 2025, the source said.
-
-Canada has long prided itself on welcoming newcomers, but in recent years, the national debate around immigrants has shifted in part due to rising housing prices.
-
-Many Canadians have been priced out of the housing market since interest rates started rising two years ago. At the same time, a huge influx of immigrants has pushed Canada’s population to record levels, further boosting housing demand and prices.
-
-...
-
-[Data](articles/cea752f9.json)
-
-[Extended Data](ext_articles/cea752f9.ext.json)
-
----
-
-### Namal leaves CID after recording statement
-
-*2024-10-24 12:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102900/namal-leaves-cid-after-recording-statement) · `en`
-
-Former Member of Parliament Namal Rajapaksa has left the Criminal Investigation Department (CID), a short while ago, after providing a statement for about two and a half hours.
-
-Namal Rajapaksa arrived at the CID at around 9.00 a.m. this morning (24) to provide a statement following an anonymous complaint regarding the receipt of funds during the 2010 - 2015 period.
-
-◼️
-
-[Data](articles/8180904d.json)
-
-[Extended Data](ext_articles/8180904d.ext.json)
-
----
-
-### The expenditure backed by the President
-
-*2024-10-24 12:25:08* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-වෙන්න-දරපු-වියදම්-දැන්-පෙන්වනවා/11-412657) · `si`
-
-Candidate expenditures announced today: District secretariats publish details.
-
-🟩
-
-The Elections Commission says that the candidates who have come to the population will be published today (24).
-
-Elections Commissioner General Saman Sri Ratnayake further stated that the number is published at every district secretariat.
-
-◼️
-
-[Data](articles/4cb41d28.json)
-
-[Extended Data](ext_articles/4cb41d28.ext.json)
 
 ---

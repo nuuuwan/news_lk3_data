@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 17:23:53**
+As of **2024-10-24 18:00:35**
 
 ## Newspaper Stats
 
-*Scraped **51,164** Articles*
+*Scraped **51,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,765
-adaderanalk | 6,064
-tamilmirrorlk | 7,051
+adaderanalk | 6,065
+tamilmirrorlk | 7,052
 virakesarilk | 8,209
-adaderanasinhalalk | 8,886
+adaderanasinhalalk | 8,887
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,162 (100.0%) of 51,164 articles have been extended.
+51,167 (100.0%) of 51,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### A plane in India to Katunayake
+
+*2024-10-24 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202518) · `si`
+
+Plane lands unexpectedly at Katunayake Airport due to security threat. 108 passengers and 8 crew members on board. Authorities inspect aircraft after receiving threatening calls about fake bombs targeting Indian airlines.
+
+🟩
+
+Katunayake Airport authorities say that the aircraft was conducted due to a telephone call from Indian Airlines from the Katunayake, India.
+
+The Sri Lanka Airport and Aviation Company issued a statement have been issued to Katunayake at 3:28 am.
+
+The airport administration says all necessary security measures have been taken after it is reported.
+
+108 passengers, including a small child, said that 8 staff were on the plane.
+
+The airline has been landed at around 2.55 and followed by the announcement that all the necessary security measures were taken safely.
+
+A sudden land landing on the Katunayaka airport was landing to the Katunayake airport by the 19th and a sudden land of the aircraft in the Mumbai, India.
+
+Meanwhile, more than 70 Indian aircraft have been threatened with fake bombs.
+
+Foreign media reports that he had threatened with aircraft belonging to India, Description and Indigo.
+
+In the last 11 days, nearly 250 Indian airline aircraft have been threatened with fake bombs.
+
+...
+
+[Data](articles/591a2184.json)
+
+[Extended Data](ext_articles/591a2184.ext.json)
+
+---
+
+### Egg prices decrease
+
+*2024-10-24 17:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-குறைகிறது/175-345996) · `ta`
+
+Egg prices drop below 41 rupees due to increased production and distribution agreements between producers and the Consumer Affairs Authority.
+
+🟩
+
+The Consumer Affairs Authority (CAA) has said that representatives of egg production associations have agreed to distribute eggs to the market to sell an egg at less than 41 rupees.
+
+Hemanta Samarakoon, Chairman of the Consumer Affairs Authority, said that the compliance was revealed during a special discussion held at the Ministry of Commerce with representatives of Egg Manufacturers Associations.
+
+The discussion was chaired by MM Naimuddin, Secretary to the Ministry of Commerce, Trade and Food Protection.
+
+Sarath Ratnayake, president of the All Ceylon Egg Producers Association, who participated in the special discussion, said that the market is currently being purchased at a retail price of less than 45 rupees.
+
+He noted that egg production has increased by 85 lakhs per day and is released from an egg farm for Rs 35 and 36 rupees at the total price.
+
+◼️
+
+[Data](articles/e502685d.json)
+
+[Extended Data](ext_articles/e502685d.ext.json)
+
+---
+
+### FR petition over Grade 5 Scholarship exam fixed for consideration
+
+*2024-10-24 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102906/fr-petition-over-grade-5-scholarship-exam-fixed-for-consideration-) · `en`
+
+The Supreme Court has ordered for the Fundamental Rights (FR) petition filed seeking an order preventing the release of the 2024 Grade 05 Scholarship Examination results and the cut-off marks, to be taken up for consideration on November 18.
+
+The petitioners have requested the Supreme Court through their FR petition that an order be issued invalidating question paper 01 of the 2024 Grade 05 Scholarship Examination of which certain questions are alleged to have been leaked, and that the exam be held again.
+
+The petition was taken up before Supreme Court Justice Arjuna Obeysekera today (24).
+
+The court ordered the respondents to submit any objections to the petition before November 5, and any further objections related to those were ordered to be submitted before November 12.
+
+Accordingly, the next hearing of the petition has been fixed for November 18 to confirm the facts of the petition.
+
+...
+
+[Data](articles/764f177d.json)
+
+[Extended Data](ext_articles/764f177d.ext.json)
+
+---
 
 ### Ranjan Ramanayake's nomination papers challenging court
 
@@ -2383,79 +2465,5 @@ The Department of Meteorology has urged the public to take the necessary precaut
 [Data](articles/690ad84d.json)
 
 [Extended Data](ext_articles/690ad84d.ext.json)
-
----
-
-### More than 75 millimeters can be recorded
-
-*2024-10-24 08:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/75-மில்லிமீற்றருக்கும்-அதிக-மழைவீழ்ச்சி-பதிவாகலாம்/175-345963) · `ta`
-
-Heavy rainfall warning issued for Western, Sabaragamuwa, Southern, Northern provinces and Kandy/Nuwara Eliya districts. Rainfall exceeding 75mm possible. Thunderstorms and strong winds (up to 40-45km/h) forecasted. Public advised to take precautions against lightning and gusts.
-
-🟩
-
-The Department of Meteorology has said that rain or thunderstorms will occur from time to time in the Western, Sabaragamuwa, Southern, Northwest and Northern Provinces and Kandy and Nuwara Eliya districts.
-
-In some parts of the Western, Sabaragamuwa, Southern and Northern Provinces, more than 75 millimeters of rainfall could be received, the department said in a statement.
-
-Other parts of the country are likely to experience rain or thunderstorms in the evening or night, and more than 75 millimeters of heavy rainfall in some places.
-
-Strong winds are expected to blow up to 40-45 km / h from time to time in the North, North Central, North Western and Central Provinces and Trincomalee and Hambantota districts.
-
-The Department of Meteorology has urged the public to take the necessary precautions to reduce the risk of temporary heavy winds and lightning with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/95218bdf.json)
-
-[Extended Data](ext_articles/95218bdf.ext.json)
-
----
-
-### Was the controversial BMW car stolen in the UK?
-
-*2024-10-24 08:04:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்ச்சைக்குரிய-BMW-கார்-இங்கிலாந்தில்-திருடப்பட்டதா/175-345962) · `ta`
-
-Controversial BMW car theft case: Former Minister Johnston Fernando arrested in Sri Lanka for possessing unregistered BMW. Investigations reveal car was stolen in UK in 2021. Court orders Fernando remanded until October 30.
-
-🟩
-
-முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோவின் பதிவு செய்யப்படாத BMW ரக கார் குறித்து அதிர்ச்சி தகவல் வெளியாகி உள்ளது.
-
-Investigations officials said that when the BMW car was checked by international police data, it was revealed that it was a stolen car from the UK in 2021.
-
-The Fort Magistrate's Court yesterday (23) ordered that former minister Johnston Fernando, who was arrested on charges of possessing an unregistered BMW car in Sri Lanka, was remanded until October 30.
-
-The Criminal Investigation Department officials were produced before the Colombo Fort Magistrate's Court yesterday afternoon.
-
-Investigators further said that the BMW vehicle was used by the stolen digit plate and that it was not legally imported to the country in checking the data system of the Sri Lanka Customs Department.
-
-Investigations officials said that when the BMW car was checked by international police data, it was revealed that it was a stolen car from the UK in 2021.
-
-...
-
-[Data](articles/e49bc8be.json)
-
-[Extended Data](ext_articles/e49bc8be.ext.json)
-
----
-
-### Plan to attack Israelis: two arrested
-
-*2024-10-24 07:45:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலியர்களை-தாக்க-திட்டம்-இருவர்-கைது/175-345961) · `ta`
-
-Two arrests made in Batticaloa over alleged Israeli attack plot. Men from Kurunegala detained near Zion Church. Intelligence warning issued regarding potential threat to Israelis in Sri Lanka.
-
-🟩
-
-Two persons have been arrested by the Terrorist Investigation Division in Batticaloa as an intelligence warning has been issued that it is planning to attack Israelis in Sri Lanka.
-
-Two men from Kurunegala area have been arrested for allegedly walking in the nearby area of ​​Zion Church in Batticaloa, police said.. (A)
-
-◼️
-
-[Data](articles/a5990b4d.json)
-
-[Extended Data](ext_articles/a5990b4d.ext.json)
 
 ---

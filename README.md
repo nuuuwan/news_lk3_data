@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 03:58:16**
+As of **2024-10-25 04:11:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,250 (100.0%) of 51,252 articles have been extended.
+51,251 (100.0%) of 51,252 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -711,6 +711,8 @@ Instead of relying on theory, Dr. Zitelmann uses history to show why central pl
 ...
 
 [Data](articles/bc1647c7.json)
+
+[Extended Data](ext_articles/bc1647c7.ext.json)
 
 ---
 

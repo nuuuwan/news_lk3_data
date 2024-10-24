@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 10:39:39**
+As of **2024-10-24 10:59:08**
 
 ## Newspaper Stats
 
-*Scraped **51,082** Articles*
+*Scraped **51,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,038
 economynextcom | 3,121
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,751
-adaderanalk | 6,056
+adalk | 4,752
+adaderanalk | 6,057
 tamilmirrorlk | 7,038
 virakesarilk | 8,182
 adaderanasinhalalk | 8,871
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,871
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,082 (100.0%) of 51,082 articles have been extended.
+51,083 (100.0%) of 51,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Namal Rajapaksa arrives at CID
+
+*2024-10-24 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102897/namal-rajapaksa-arrives-at-cid) · `en`
+
+Former Member of Parliament Namal Rajapaksa arrived at the Criminal Investigation Department (CID) at around 9.00 a.m. this morning to provide a statement, Ada Derana Reporter said.
+
+Responding to a question from journalists as to why he was summoned to the CID, Namal responded saying that he was unsure and needed to find out the reason himself.
+
+In response to further inquiries, he stated, “I don’t know the matter.  It’s better to be called in. The only way to get rid of the accusations against us is to come here. Because some lie with conviction. We are not those who lie with conviction. We will go and give our statement with conviction and come.”
+
+◼️
+
+[Data](articles/14e7e7f8.json)
+
+[Extended Data](ext_articles/14e7e7f8.ext.json)
+
+---
 
 ### Flood warnings issued for low-lying areas of Nilwala River valley
 
@@ -659,6 +677,22 @@ The petition has been rejected by the Colombo Crime Branch filed by Sri Ranga se
 [Data](articles/422ac465.json)
 
 [Extended Data](ext_articles/422ac465.ext.json)
+
+---
+
+### තවත් රටවල් ලංකාවට සංචාරක මාර්ගෝපදේශ නිකුත් කරයි
+
+*2024-10-24 07:26:43* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-රටවල්-ලංකාවට-සංචාරක-මාර්ගෝපදේශ-නිකුත්-කරයි/11-412651) · `si`
+
+විශේෂයෙන්ම ඊශ්‍රායෙල් ජාතිකයන් ඉලක්ක කර ගනිමින් ලංකාවේදි ත්‍රස්ත ප්‍රහාරයක් එල්ල විය හැකි බවට බුද්ධි තොරතුරු වාර්තා විමත් සමගින් ලංකාවේ සංචාරය කිරීම සම්බන්ධයෙන් තවත් රටවල් කිහිලයක්ම සිය ජාතිකයන් වෙනුවෙන් සංචාරක මාර්ගෝපදේශ නිකුත් කර තිබේ.
+
+මේ අනුව එංගලන්තය, ඔස්ට්‍රේලියාව, නවසීලන්තය, රුසියාව, ඇමෙරිකාව, ඊශ්‍රායෙලය, ඇමෙරිකාව යන රටවල් ලංකාව සම්බන්ධයෙන් සංචාරක මාර්ගෝපදේශ නිකුත් කර තිබේ.
+
+ප්‍රධාන වශයෙන්ම ශ්‍රී ලංකාවේ සංචාරය කිරිමේදි වැඩි ජනතාවක් ඒකරාශී වන තැන් මග හරින ලෙස ඔවුන් සිය රටවල සංචාරකයන්ට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/5ccc0c73.json)
 
 ---
 
@@ -2383,49 +2417,5 @@ He said he had established the safety of all the foreigners in the country and a
 [Data](articles/12f36d3f.json)
 
 [Extended Data](ext_articles/12f36d3f.ext.json)
-
----
-
-### Security forces fully aware of Arugam Bay threat; Security tightened days ago
-
-*2024-10-23 17:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102886/security-forces-fully-aware-of-arugam-bay-threat-security-tightened-days-ago) · `en`
-
-Sri Lanka’s security forces were reportedly fully aware of the information warning of a possible attack targeting popular tourist locations in the Arugam Bay area, as mentioned in the U.S. Embassy’s security alert for American citizens in Sri Lanka today (23).
-
-Is it stated that consequently, steps were taken several days ago to bolster security in the region.
-
-Around 500 police officers and Special Task Force (STF) personnel had already been deployed to enhance security in the Arugam Bay tourist zone.
-
-Police Media Spokesman DIG Nihal Thalduwa also confirmed that intelligence agencies and other security forces are focused on strengthening security measures in the area.
-
-He further emphasized that no intelligence reports have been received regarding such threats in Colombo or any other areas of the country thus far, and therefore urged the public not to have any undue fears.
-
-Additionally, special attention is being given to ensure the safety of tourists visiting Arugam Bay and other provinces.
-
-...
-
-[Data](articles/4033d365.json)
-
-[Extended Data](ext_articles/4033d365.ext.json)
-
----
-
-### Johnston Fernando arrested
-
-*2024-10-23 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/196917) · `ta`
-
-Former Minister Johnston Fernando arrested by CID for illegal car recovery vote.
-
-🟩
-
-Former Minister Johnston Fernando was arrested by the Criminal Investigation Department officials today (23).
-
-Former Minister Johnston Fernando appeared in the Criminal Investigation Department today to vote for the recovery of illegal car recovery from a hotel in Colombo.
-
-◼️
-
-[Data](articles/1e18a54b.json)
-
-[Extended Data](ext_articles/1e18a54b.ext.json)
 
 ---

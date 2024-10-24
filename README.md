@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 14:58:35**
+As of **2024-10-24 15:10:27**
 
 ## Newspaper Stats
 
-*Scraped **51,138** Articles*
+*Scraped **51,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 4,762
 adaderanalk | 6,063
 tamilmirrorlk | 7,049
 virakesarilk | 8,197
-adaderanasinhalalk | 8,880
+adaderanasinhalalk | 8,881
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,138 (100.0%) of 51,138 articles have been extended.
+51,139 (100.0%) of 51,139 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,36 @@ Minister Herath revealed this during a press conference being held in this regar
 [Data](articles/96af7687.json)
 
 [Extended Data](ext_articles/96af7687.ext.json)
+
+---
+
+### Three arrested for plans to target Israeli nationals
+
+*2024-10-24 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202511) · `si`
+
+Sri Lanka arrests 3 over plot against Israelis. Defense Minister claims suspects planning attack. Interrogation ongoing. Intelligence led operation. Police involved. Investigation continues.
+
+🟩
+
+According to the Minister of Defense Vijitha Herath, three suspects have been arrested on suspicion of a plan to attack Israel.
+
+He was speaking at a special press conference held at the Ministry of Defense today to explain the current situation in the country.
+
+Accordingly, the three suspects are being interrogated by the Minister.
+
+It is our responsibility to ensure the safety of tourist arrivals to Sri Lanka with the Middle East. Any information revealed. The security of the visit to Sri Lanka can be obstructed. "
+
+"Intelligence has received information about it. With that information, we proceeded immediately. Right today this government is to power and the month. During the month, a few occasions meetings. "
+
+"With receipt of information, Ahaungalla Ella, Matara
+
+"The security of the police has taken action to deturn this month. This information was deeper in the Security Council. Investigations were conducted by the intelligence and police. "
+
+...
+
+[Data](articles/885fcaeb.json)
+
+[Extended Data](ext_articles/885fcaeb.ext.json)
 
 ---
 
@@ -2365,23 +2395,5 @@ The five-year initiative aims to enhance the food security and livelihoods of fa
 [Data](articles/a526a942.json)
 
 [Extended Data](ext_articles/a526a942.ext.json)
-
----
-
-### SLCFA commends China’s generous support for flood relief efforts in Sri Lanka
-
-*2024-10-24 04:44:03* · [`dailyftlk`](https://www.ft.lk/news/SLCFA-commends-China-s-generous-support-for-flood-relief-efforts-in-Sri-Lanka/56-768336) · `en`
-
-The Sri Lanka-China Friendship Association (SLCFA) extended its profound appreciation to the People’s Republic of China for once again coming forward to assist the people of Sri Lanka in times of crisis.
-
-“On 22 October, Ambassador Qi Zhenhong, representing the Chinese Government, handed over Rs. 30 million in emergency humanitarian relief funds to President Anura Kumara Dissanayake. This generous donation will provide essential support to those affected by the recent floods, aiding their recovery and helping them rebuild their homes.”
-
-“The Chinese Government and the people of China have consistently demonstrated their unwavering commitment to standing by Sri Lanka during difficult times. Be it floods, droughts, the COVID-19 pandemic, or shortages of critical medicines, China has extended its friendship, treating the people of Sri Lanka with care and compassion, as if they were their own.
-
-...
-
-[Data](articles/ec7a589b.json)
-
-[Extended Data](ext_articles/ec7a589b.ext.json)
 
 ---

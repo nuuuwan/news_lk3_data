@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 13:09:47**
+As of **2024-10-24 13:24:03**
 
 ## Newspaper Stats
 
-*Scraped **51,114** Articles*
+*Scraped **51,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 3,038
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,757
+adalk | 4,758
 adaderanalk | 6,061
 tamilmirrorlk | 7,046
 virakesarilk | 8,188
-adaderanasinhalalk | 8,875
+adaderanasinhalalk | 8,876
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,114 (100.0%) of 51,114 articles have been extended.
+51,116 (100.0%) of 51,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### බංග්ලාදේශ සිසු විරෝධතා නැවතත්
+
+*2024-10-24 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202506) · `si`
+
+Bangladesh student protests resume against government policies. Demonstrators attempted to storm President's House, demanding removal of current administration. Protests sparked by opposition to new education policy. Security forces reportedly suppressed the movement. Current president faces allegations of election irregularities in 2014, 2018, and 2024 polls.
+
+🟩
+
+During these objections, they had tried to raid the President's House during the protests that resigtee the President.
+
+බංග්ලාදේශ රජය ගෙනා රැකියා කෝටා ක්‍රමවේදයකට එරෙහිව පසුගිය ජූලි මාසයේදී එරට ආරම්භ වූ ශිෂ්‍ය විරෝධතා අවසන්වූයේ එරට අගමැතිනී ෂෙයික් හසීනාට ධුරය ද අහිමි කරමිනි.
+
+විරෝධතාකරුවන් අගමැති මැඳුරට කඩා වැදීමෙන් මොහොතකට පෙර රටින් පලාගිය හසීනා එතැන් සිට රැඳී සිටින්නේ ඉන්දියාවේ ය.
+
+The student protesters were taken to bring a new administrator to the country.
+
+The participation of those student leaders and alerted an interim government of Mohammed Yunus.
+
+Although the daily role of the country has come to normal, a series of massive protests have begun again.
+
+සිසුන් නැවතත් මෙලෙස විරෝධතා ආරම්භ කර ඇත්තේ කරුණු පහක් ඉටුකරන්නැයි රජයට බලකරමින් වන අතර 2023 වසරේ සිට ධුරය දරමින් සිටින වත්මන් ජනාධිපති මොහොමඩ් ෂහාබදීන් ධුරයෙන් වහාම ඉවත්කිරීම එම ඉල්ලීම්වලින් එකකි.
+
+Accordingly, protesters met with the President's House and break into the President.
+
+...
+
+[Data](articles/7987318d.json)
+
+[Extended Data](ext_articles/7987318d.ext.json)
+
+---
 
 ### Couple arrested for breaking the forefathers
 
@@ -59,6 +91,34 @@ The suspect had been remanded after being produced before the Mahiyanganaya Magi
 [Data](articles/16f3b324.json)
 
 [Extended Data](ext_articles/16f3b324.ext.json)
+
+---
+
+### Arugam's attack on the information from India
+
+*2024-10-24 12:34:22* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්බේ-ප්‍රහාරයක-සැලැස්ම-ගැන-තොරතුර-ඉන්දියාවෙන්/11-412658) · `si`
+
+Here's a 200-character summary of the text:
+
+
+
+Arugam attack on Israel's favorite tourist destination. Indian intelligence informed of potential attack between 19th-23rd. Sri Lankan security forces preparing countermeasures in Eastern Province.
+
+🟩
+
+It is reported that India has originally provided information to the Sri Lankan security forces to be attacked targeting an attractive tourist destination of Sri Lanka.
+
+ආරගම්බේ ඊශ්‍රායෙල ජාතිකයන්ගේ ප්‍රියතම සංචාරක ගමනාන්තයක් වන අතර පසුගිය දිනවලදි ඊශ්‍රායෙලය විසින්ම හිස්බුල්ලා සංවිධානයේ නායකයන් ඝාතනය කිරිමට පලිගැනිමක් වශයෙන් ඊශ්‍රායෙල ජාතිකයන් ඉලක්ක කර මෙම ප්‍රහාරය එල්ල කිරිමට සැලසුම් කර තිබේ.
+
+Indian intelligence has been informed that the attack can be launched between the 19th and 23rd.
+
+මෙම තොරතුරු ලැබීමත් සමග මීට සති දෙකකට පමණ පෙර සිටම වහාම ක්‍රියාත්මක වන පරිදි නැගෙනහිර පළාතේ ආරක්ෂාව තර කිරීමට ආරක්ෂක අංශ පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/8a950e71.json)
+
+[Extended Data](ext_articles/8a950e71.ext.json)
 
 ---
 
@@ -2313,55 +2373,5 @@ Investigations were revealed that this was a car stolen from England in 2021 in 
 [Data](articles/e6ee57b9.json)
 
 [Extended Data](ext_articles/e6ee57b9.ext.json)
-
----
-
-### The bullet bullet boring for a young man hit a young man?
-
-*2024-10-23 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202484) · `si`
-
-Young man shot in Horana, hospitalized with bullet wound. Police investigating incident.
-
-🟩
-
-At the hospital, a youth who was injured in a young lightner in Kumbuwara, Horana was hospitalized, he had been hospitalized.
-
-Police suspect that the young man's hand was hit during a shooting at the police STF training school.
-
-A dealer father in Kumbuka in Horana was engaged in farming with his two sons yesterday (22).
-
-On the occasion, the left hand of one son and the right hand of the right hand have begun to cover blood.
-
-"We spent the three of us on the time. There was a hatry. He screamed and grieved in the hands of. When looked down that road. At the same time after three
-
-"He said the hand was profound. Went to the hospital. He did not hurt the hand, "
-
-Residents were then taken to Horana Base Hospital, suspect, suspected that lightning was hit.
-
-However, he had revealed him in the hospital in the hospital.
-
-The doctors had then taken measures to be surgery and removed the same Mooniarium.
-
-The victim was 36 year old Chinthaka Weathganaranga Herath, a resident of Kumbukka North Gonate.
-
-...
-
-[Data](articles/8196ac0a.json)
-
-[Extended Data](ext_articles/8196ac0a.ext.json)
-
----
-
-### The Rise and Fall  of the Medamulana  Rajapaksa Dynasty.
-
-*2024-10-23 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84953) · `en`
-
-Is the “House of Rajapaksa” Falling Down? was the heading of an article written by me for our sister paper the “Daily Mirror” two and a half  years ago. The article was   published on 23 April 2022 when the “Aragalaya”(struggle) protests were going on. The article focused on the  Rajapaksa family and its struggle to  stay afloat  in power despite the rising tide of public resentment and anger.The  following two paragraphs are excerpted from that article.-
-
-...
-
-[Data](articles/b22e338c.json)
-
-[Extended Data](ext_articles/b22e338c.ext.json)
 
 ---

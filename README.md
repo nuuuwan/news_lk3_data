@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 05:45:27**
+As of **2024-10-24 06:09:33**
 
 ## Newspaper Stats
 
-*Scraped **51,027** Articles*
+*Scraped **51,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,482
 dailymirrorlk | 4,733
 adalk | 4,748
 adaderanalk | 6,050
-tamilmirrorlk | 7,024
+tamilmirrorlk | 7,025
 virakesarilk | 8,179
 adaderanasinhalalk | 8,860
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 8,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,027 (100.0%) of 51,027 articles have been extended.
+51,028 (100.0%) of 51,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Eight people killed when a 6 -storey building collapsed
+
+*2024-10-24 05:37:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாடி-கட்டிடம்-இடிந்து-வீழ்ந்ததில்-8-பேர்-பலி/175-345955) · `ta`
+
+Bangalore building collapse kills 8 workers. Heavy rains caused sudden collapse during construction. Rescue efforts underway. Building owner, son, contractor arrested. Prime Minister offers condolences and aid.
+
+🟩
+
+Karnataka - Bangalore
+
+Bengaluru - Hennur, Babusab Palaya area has been working on a new 6 -storey construction work.
+
+பெங்களூருவில் கடந்த ஒரு வாரத்துக்கும் மேலாக தொடர்ந்து அடைமழை பெய்து வருகின்ற நிலையில், செவ்வாய்க்கிழமை (22) பகல் 3 மணியளவில்,  அந்த  கட்டிடம் திடீரென இடிந்து விழுந்தது.
+
+The Northern Territory worker who worked inside the building was trapped in the wreckage.
+
+தகவலறிந்து சம்பவ இடத்துக்கு விரைந்த ஹெண்ணூர் பொலிஸார், மீட்பு படையினர் பொக்லைன் எந்திரம் உதவியுடன் அங்கு மீட்பு பணிகளை தொடங்கினர். In the meantime, 8 workers were killed in the accident.
+
+Following the incident, the building owner, his son and the contractor have been arrested.
+
+Prime Minister Modi has expressed his condolences to the families of the victims of the collapse of the Bangalore building and said that their family would be given a relief of Rs.
+
+◼️
+
+[Data](articles/12b9f478.json)
+
+[Extended Data](ext_articles/12b9f478.ext.json)
+
+---
 
 ### Central Engineering Services gets contract to renovate State-owned tourist bungalows
 
@@ -2407,27 +2437,5 @@ Meanwhile, the Colombo High Court today also issued an arrest warrant on former 
 [Data](articles/bb61230a.json)
 
 [Extended Data](ext_articles/bb61230a.ext.json)
-
----
-
-### Warning
-
-*2024-10-23 14:33:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-தூதரகம்-விடுத்துள்ள-எச்சரிக்கை/175-345923) · `ta`
-
-Russian Embassy warns citizens about potential attacks in Augkampai area due to US embassy's travel advisory.
-
-🟩
-
-The Russian Embassy in Colombo has issued a special announcement to Russian citizens in Sri Lanka.
-
-The Russian Embassy in Colombo said that Sri Lankan police have issued an official notification on the basis of reports that there is a risk of attacking foreigners in the Augkampai area.
-
-They said that the US embassy in Colombo has taken the move on a travel suggestion that the tourism centers in the Augkamam area can be attacked.
-
-◼️
-
-[Data](articles/7ca99b66.json)
-
-[Extended Data](ext_articles/7ca99b66.ext.json)
 
 ---

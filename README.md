@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 20:12:07**
+As of **2024-10-24 20:24:15**
 
 ## Newspaper Stats
 
-*Scraped **51,202** Articles*
+*Scraped **51,204** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ islandlk | 3,040
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,770
+adalk | 4,771
 adaderanalk | 6,067
 tamilmirrorlk | 7,057
 virakesarilk | 8,227
-adaderanasinhalalk | 8,891
+adaderanasinhalalk | 8,892
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,202 (100.0%) of 51,202 articles have been extended.
+51,204 (100.0%) of 51,204 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### Heavy traffic congestion on Katunayake Expressway
+
+*2024-10-24 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202523) · `si`
+
+Katunayake Expressway: Heavy traffic congestion from Peliyagoda to Katunayake due to road maintenance. Reports indicate significant delays and jams.
+
+🟩
+
+Heavy traffic jam has occurred from Peliyagoda to Katunayake, reports say.
+
+It is reported that the vehicle traffic has been caused by a maintenance work on the road.
+
+◼️
+
+[Data](articles/3b9888ef.json)
+
+[Extended Data](ext_articles/3b9888ef.ext.json)
+
+---
 
 ### A letter from Ranil about the Passover report
 
@@ -127,6 +147,34 @@ Against this backdrop, the airlines at the Bandaranaike International Airport in
 [Data](articles/fe7bfc96.json)
 
 [Extended Data](ext_articles/fe7bfc96.ext.json)
+
+---
+
+### Internet cheating on the Internet. China asks for 5,000 crores to China
+
+*2024-10-24 18:44:20* · [`adalk`](https://www.ada.lk/breaking_news/අන්තර්ජාලය-හරහා-මුදල්-වංචාකර-රු--කෝටි-5000ක්-චීනයට-යැවූ-සැකකරුවන්ව-චීනයෙන්-ඉල්ලයි/11-412671) · `si`
+
+Chinese police request 5000 crore from Sri Lankan government. CID investigates 41 suspects from various countries. Foreigners arrested for internet cheating. Chief Magistrate orders separate investigation. Army assists CID in case.
+
+🟩
+
+The Crameter Police have informed the Chinese Chief Magistrate Thilina Gamage today that the Chinese police team had asked the Government of China to take over over Rs.
+
+The CID also further stated that the Chinese government has asked the Government of China to hand over the Commander of the Sri Lankan government to hand over the Chinese government from the Pan Bink, Senior Gunnet.
+
+The 41 suspects in the Anuradhapura, Pakistan, Pakistan, India, Bangladesh, Epitology, Algeria and Nepal in AnuradhapuraAppeared.
+
+The Indian police team who had come to the Sri Lankan government to investigate the suspects to investigate the suspects to investigate the suspects in relation to the incident.
+
+The Criminal Investigation Department (CPA) has said to the Attorney General's records regarding the Chinese national cheat and led to China to China.
+
+Attorneys-at-Law Sandunguuna, who appeared for the suspects, said his clients were foreign nationals who had come to Sri Lanka as tourists.
+
+...
+
+[Data](articles/f2fe5125.json)
+
+[Extended Data](ext_articles/f2fe5125.ext.json)
 
 ---
 
@@ -2461,59 +2509,5 @@ He pointed out that if the government had had an advance information and explain
 [Data](articles/f17b977e.json)
 
 [Extended Data](ext_articles/f17b977e.ext.json)
-
----
-
-### We will build a country of "I am Sri Lankan" - President Anuragumara Dissanayake
-
-*2024-10-24 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/196973) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan president Anura Kumara Dissanayake outlines vision for unified nation, emphasizing equal laws, national unity, economic development, and tourism growth.
-
-🟩
-
-சிங்கள, தமிழ், முஸ்லிம் மக்கள் அனைவரும் நம்புகின்ற அனைத்து மக்களினதும் நல்லாசி கிடைக்கின்ற அரசாங்கத்தை தேசிய மக்கள் சக்தியால் மாத்திரமே நிறுவ முடியும். We build a country with a law that is implemented equally. ஒரு சில தடையேற்படுத்தும் சட்டங்கள் இருக்குமாயின் அவற்றை மாற்றியமைத்து மக்களின் நன்மைக்காக ‘நான் இலங்கையன்” என்கின்ற உணர்வை கொண்ட ஒரு நாட்டை நாங்கள் கட்டியெழுப்புவோம். ‘நான் இலங்கையன்” என பெருமையுடன் கூறிக்கொள்ளக் கூடிய பின்புலத்தை தேசிய மக்கள் சக்தியின் அரசாங்கம் உருவாக்கிக்கொடுக்கும் என ஜனாதிபதி அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
-
-President Anura Kumara Dissanayake said this while addressing the public meeting of the country -building compass in Trincomalee on Wednesday (23).
-
-இலங்கையில் பலம்பொருந்திய மாற்றத்தை மேற்கொள்வதற்காக தேசிய மக்கள் சக்தியைச் சேர்ந்த நாங்கள் ஜனாதிபதித் தேர்தலில் வெற்றி பெற்றோம். அதன் பின்னர் மிகக் குறுகிய காலத்தில் பாராளுமன்றத்தைக் கலைத்து புதிய ஆட்சியொன்றை உருவாக்குவதற்கான வாய்ப்பினை மக்களுக்கு பெற்றுக்கொடுத்தோம்.
-
-...
-
-[Data](articles/e60bde20.json)
-
-[Extended Data](ext_articles/e60bde20.ext.json)
-
----
-
-### 23 thousand tons of copper;Customs by Customs!
-
-*2024-10-24 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/196968) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Copper worth ₹50 crore seized from Hong Kong-bound shipment. Officials investigating illegal export from factory in Paleiakota area.
-
-🟩
-
-செப்பு குாழாய் பொருத்திகளை கப்பலில் ஹொங்கொங்கிற்கு அனுப்புவதாகக் கூறி சுமார் ஐந்து கோடி ரூபா பெறுமதியான 23,000 தொன் செப்பு உலோகத்தை அனுப்பத் தயாராகிக்கொண்டிருந்த போது சுங்க அதிகாரிகளால் நேற்று புதன்கிழமை (23) கைப்பற்றப்பட்டுள்ளது.
-
-Customs officials have seized copper metal containers in the export terminal.
-
-பேலியகொட பகுதியில் உள்ள தொழிற்சாலை ஒன்றில் இருந்து செப்பு உலோகங்களை உருக்கி, ஏற்றுமதி செய்யப்பட்டுள்ளமை  சுங்க அதிகாரிகளின் விசாரணையில் இருந்து தெரியவந்துள்ளது.
-
-Customs officials are conducting further investigations into the seized copper reserves.
-
-◼️
-
-[Data](articles/55831db2.json)
-
-[Extended Data](ext_articles/55831db2.ext.json)
 
 ---

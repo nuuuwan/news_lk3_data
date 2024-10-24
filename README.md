@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 13:24:03**
+As of **2024-10-24 13:40:09**
 
 ## Newspaper Stats
 
-*Scraped **51,116** Articles*
+*Scraped **51,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ islandlk | 3,038
 economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
-adalk | 4,758
+adalk | 4,759
 adaderanalk | 6,061
 tamilmirrorlk | 7,046
-virakesarilk | 8,188
+virakesarilk | 8,191
 adaderanasinhalalk | 8,876
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,116 (100.0%) of 51,116 articles have been extended.
+51,119 (100.0%) of 51,120 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,6 +64,52 @@ Accordingly, protesters met with the President's House and break into the Presid
 
 ---
 
+### Flood warning
+
+*2024-10-24 13:01:44* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-අනතුරු-ඇඟවීමක්/11-412661) · `si`
+
+Flood warning issued for upper central Nilwala Ganga basin areas. Low-bathing warnings for Pasagoda, Kotapola, Pitabachabadara, Akuressa, Athuraliya, Malimbada, Kamburupitiya, Matara Divisional Secretariat Divisions from yesterday morning.
+
+🟩
+
+The river has been substantially significant to the upper and central areas of the Nilwala Ganga basin from yesterday this morning.
+
+The warning has been issued for low-bathing in Pasagoda, Kotapola, Pitabachabadara, Akuressa, Athuraliya, Malimbada, Kamburupitiya and Matara Divisional Secretariat Divisions.
+
+◼️
+
+[Data](articles/54693b00.json)
+
+[Extended Data](ext_articles/54693b00.ext.json)
+
+---
+
+### Emergency Phone Number for the safety of Israeli citizens - police
+
+*2024-10-24 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196981) · `ta`
+
+Israeli citizens visiting Sri Lanka can contact 071-8592651 for police assistance. Deputy Inspector General Damayantha Vijayasree handles tourism and maritime affairs. Provide identity information for verification. Police will take appropriate action based on personal needs.
+
+🟩
+
+The Israeli citizen who visits Sri Lanka for other purposes or other purposes can contact the telephone number and get the necessary help with the police headquarters.
+
+Deputy Inspector General of Police Damayantha Vijayasree has been announced to contact 071- 8592651 in charge of tourism and maritime affairs.
+
+The Police Headquarters has requested that the information he requested by the information as he requested.
+
+The Deputy Inspector General of Police will take appropriate action on the basis of personal needs, police said.
+
+For identity verification, tourists are asked to provide the necessary information when accessing for help.
+
+◼️
+
+[Data](articles/9f489ed2.json)
+
+[Extended Data](ext_articles/9f489ed2.ext.json)
+
+---
+
 ### Couple arrested for breaking the forefathers
 
 *2024-10-24 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202505) · `si`
@@ -91,6 +137,34 @@ The suspect had been remanded after being produced before the Mahiyanganaya Magi
 [Data](articles/16f3b324.json)
 
 [Extended Data](ext_articles/16f3b324.ext.json)
+
+---
+
+### It is not an election on November 14
+
+*2024-10-24 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/196976) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's Parliament election on Nov 14, not a regular election. President Anura Kumara Dissanayake addresses rally in Polonnaruwa, promising reforms and accountability. National People's Power aims to address corruption, digitize governance, and boost agriculture. Opposition criticized for lack of action and media-centric politics.
+
+🟩
+
+It is not an election on November 14, but a huge difficulty for cleaning. President Anura Kumara Dissanayake said that November 14 is the day when the Parliament of Sri Lanka is being held in Sri Lanka.
+
+President Anura Kumara Dissanayake said this while addressing a meeting held at Polonnaruwa on Wednesday (23).
+
+Tens of thousands of people are drenched in the rain and hold a meeting of historical significance in Polonnaruwa. The expectation, purpose, and solidarity that reflects from the people reveal the unique victory on November 14 from Polonnaruwa.
+
+In the Polonnaruwa district, the people of this country have given the National People's Power to send this country in the presidential election.. The Cabinet of three is working on the country with the necessary relief and the necessary plans to build the country.
+
+...
+
+[Data](articles/9a31474b.json)
+
+[Extended Data](ext_articles/9a31474b.ext.json)
 
 ---
 
@@ -222,6 +296,26 @@ The Canadian government has advised the travelers to act with great care due to 
 
 ---
 
+### அரசாங்கம் உடனடியாக தேசிய பாதுகாப்பு ஆலோசகரை நியமிக்கவேண்டும் - சாகல ரத்நாயக்க
+
+*2024-10-24 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/196979) · `ta`
+
+பயங்கரவாத குழுக்களிடமிருந்து எழக்கூடிய அச்சுறுத்தல்களை எதிர்கொள்வதற்காக அரசாங்கம் தேசிய பாதுகாப்பு ஆலோசகர் ஒருவரை நியமிக்கவேண்டும் என முன்னாள் ஜனாதிபதியின் ஆலோசகர் சகால ரத்நாயக்க வேண்டுகோள் விடுத்துள்ளார்.
+
+நாட்டின் சுற்றுலாத்துறை வளர்ச்சியடைந்து வரும் வேளையில் பாதுகாப்பு அச்சுறுத்தல் குறித்த செய்திகள் பாதிப்புகளை ஏற்படுத்தலாம்.
+
+எங்கள் அரசாங்கம் ஏனைய நாடுகளுடன் புலனாய்வு தகவல்களை பகிர்ந்துகொள்வதற்கான பொறிமுறையை உருவாக்கியிருந்தது,இதன் மூலம் முக்கியமான தகவல்களை பரிமாறிக்கொண்ட நாங்கள்  மக்களின் பாதுகாப்பை உறுதி செய்தோம்.
+
+இதன் காரணமாக கடந்த சில வருடங்களாக இலங்கை பாரிய அச்சுறுத்தல் எதனையும் எதிர்கொள்ளவில்லை.அச்சுறுத்தல்கள் குறித்து எங்களிற்கு தகவல்கள் கிடைத்தன நாங்கள் நடவடிக்கைகளை எடுத்தோம்.
+
+நாட்டின் பெயருக்கு பாதிப்பை ஏற்படுத்தும் அறிக்கைகளை வெளியிடுவது பொருளாதாரத்திற்கு பாதிப்பைஏற்படுத்தும் அந்நிய செலாவணி பிரச்சினையை உருவாக்கும்என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/732c7f19.json)
+
+---
+
 ### Emergency telephone number to Israelis
 
 *2024-10-24 12:11:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலியர்களுக்கு-அவசர-தொலைபேசி-இலக்கம்/175-345978) · `ta`
@@ -330,6 +424,32 @@ Former MP Namal Rajapaksa appeared before the Criminal Investigation Department 
 
 ---
 
+### Tarson's actor Ron Lali has passed away
+
+*2024-10-24 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196978) · `ta`
+
+Ron Ili, actor from US TV series Tarson, died in 1960s aged 86. He portrayed a modern man turning wild in forest, appeared with chimpanzee and performed dangerous scenes. Starred in later TV shows despite injuries.
+
+🟩
+
+Ron Ili, who starred in the Tarson television series, passed away in the 1960s at the age of 86.
+
+From the US, he became famous for starring in the Tarson television series. அந்த படத்தில் அவர் நவீன உலகில் படித்த மனிதராக இருந்து பின்னர் அடர்ந்த காட்டுக்குச் செல்லும் ஒரு நபராக சித்தரிக்கப்பட்டிருந்தார்.
+
+In this series, he will be seen with a chimpanzee monkey wearing a piece of body strength.
+
+Also, he has acted in a fight scene without a tub. Meanwhile, there were many injuries and the lion had been bitten.
+
+Even after the two parts of the "Tarson" series in the 1990s, Ii continued to star in television series.
+
+◼️
+
+[Data](articles/8398f85e.json)
+
+[Extended Data](ext_articles/8398f85e.ext.json)
+
+---
+
 ### அறுகம்பை விவகாரம்;அரசாங்கத்தை சாடுகிறார் காஞ்சன
 
 *2024-10-24 11:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பை-விவகாரம்-அரசாங்கத்தை-சாடுகிறார்-காஞ்சன/175-345977) · `ta`
@@ -377,32 +497,6 @@ President Anura Kumara Dissanayake said this while addressing the public meeting
 [Data](articles/e60bde20.json)
 
 [Extended Data](ext_articles/e60bde20.ext.json)
-
----
-
-### Tarson's actor Ron Lali has passed away
-
-*2024-10-24 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/196978) · `ta`
-
-Ron Ili, actor from US TV series Tarson, died in 1960s aged 86. He portrayed a modern man turning wild in forest, appeared with chimpanzee and performed dangerous scenes. Starred in later TV shows despite injuries.
-
-🟩
-
-Ron Ili, who starred in the Tarson television series, passed away in the 1960s at the age of 86.
-
-From the US, he became famous for starring in the Tarson television series. அந்த படத்தில் அவர் நவீன உலகில் படித்த மனிதராக இருந்து பின்னர் அடர்ந்த காட்டுக்குச் செல்லும் ஒரு நபராக சித்தரிக்கப்பட்டிருந்தார்.
-
-In this series, he will be seen with a chimpanzee monkey wearing a piece of body strength.
-
-Also, he has acted in a fight scene without a tub. Meanwhile, there were many injuries and the lion had been bitten.
-
-Even after the two parts of the "Tarson" series in the 1990s, Ii continued to star in television series.
-
-◼️
-
-[Data](articles/8398f85e.json)
-
-[Extended Data](ext_articles/8398f85e.ext.json)
 
 ---
 
@@ -2263,115 +2357,5 @@ It is in connection with a bribery demand for a investigation to provide fuel fo
 [Data](articles/dbcafc08.json)
 
 [Extended Data](ext_articles/dbcafc08.ext.json)
-
----
-
-### Notification for Sri Lankans in Lebanon
-
-*2024-10-23 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202486) · `si`
-
-Sri Lanka's embassy in Lebanon warns Sri Lankans due to military changes. Priority evacuation based on registration. Air strikes cause concern. Embassy alerts for emergencies.
-
-🟩
-
-Sri Lanka's embassy in Lebanon says that the militarism of Lebanon is gradually changing, Sri Lankan embassy in Lebanon said.
-
-Sri Lanka's Embassy in Lebanon pointed out an announcement, if Sri Lankans living in Lebanon is some insecure to protect Sri Lanka's embassy for departure.
-
-You will describe how the priority will be given and departed on the basis of the registration.
-
-At the time the air strikes, the anti-air strikes are also known to be concerned about incorporation and to prevent unnecessary travels.
-
-If a Sri Lankan is an unexpected trouble, the Sri Lankan embassy is immediately aware.
-
-◼️
-
-[Data](articles/c8bfdefb.json)
-
-[Extended Data](ext_articles/c8bfdefb.ext.json)
-
----
-
-### United National Alliance (UNP) chief candidate Aravindakumar
-
-*2024-10-23 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196955) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Aravindakumar leads UNP in Badulla district. Claims team untainted by allegations. Competes separately due to Tamil representation pressure. Seeks over 25,000 votes to retain Tamil seat. Urges community to vote responsibly.
-
-🟩
-
-Our team, the United National Alliance, is unprecedented. The organizers of our team, activists, affiliates and paddians are seen as an unbearable, unable to be blamed by all sides.
-
-Former diplomatic minister Arunachalam Aravindakumar said that although various allegations have been criticized against other parties and the candidates of those parties, there are no such allegations or criticism against me or our team.
-
-He said this while addressing the election campaign meeting held at the Bandarawela Nay Beta Estate.
-
-This time the parliamentary election is a very different and an election that our people can think and vote.
-
-It was on those reasons that we decided to think differently and compete separately.Although the decision was decided to contest separately, the decision was made under the guidance of supporters and intellectuals.
-
-...
-
-[Data](articles/fecca376.json)
-
-[Extended Data](ext_articles/fecca376.ext.json)
-
----
-
-### Dilith says ‘Sarvajana Balaya’ is the only viable opposition
-
-*2024-10-23 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102889/dilith-says-sarvajana-balaya-is-the-only-viable-opposition) · `en`
-
-Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District candidate, entrepreneur Dilith Jayaweera says that the only opposition remaining in the country’s politics is the ‘Sarvajana Balaya’ alliance.
-
-He made this statement when a group of representatives of the United Republic Front from the Matara District joined the ‘Sarvajana Balaya’ alliance today (23).
-
-“Today, we have become the only opposition remaining country. That is why we say we are a brave opposition,” Dilith Jayaweera said.
-
-He also stated that he aims to clarify the existing political reality to the public and make the impact necessary for democracy. He further stated that it’s crucial to guide the government in the right direction that aligns with the people’s expectations and to work toward a parliament that can fulfil those needs.
-
-Meanwhile, a group of representatives from the United Republican Front in the Matara District joined ‘Sarvajana Balaya’ alliance today.
-
-...
-
-[Data](articles/bd04755d.json)
-
-[Extended Data](ext_articles/bd04755d.ext.json)
-
----
-
-### BMW said to be Johnston
-
-*2024-10-23 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202485) · `si`
-
-Former Minister Johnston Fernando accused of possessing stolen BMW car. Car allegedly stolen in England in 2021. CID investigation ongoing.
-
-🟩
-
-It is said that the unregistered BMW type car of the former Minister Johnston Fernando was the robbery in England.
-
-Investigations have revealed that this was a car stolen from England in 2021 in the event of the International Police Database in the International Police.
-
-Former Minister Johnston Fernando was arrested in connection with the possession of a unregistered BMW car in Sri Lanka.
-
-The suspect was produced before the Colombo Fort Metetethrassera today afternoon.
-
-Former Minister Johnston Fernando was produced before the Fort Magistrate's Court after a statement for nearly four hours.
-
-The Investigation Department of the Criminal Investigation Department (CID) was investigated by former Minister Johnston Fernando as the main suspect in the case of the BMW car.
-
-Investigations officers further stated that the question of the question is used as a stolen portfolio of the vehicle.
-
-Investigations were revealed that this was a car stolen from England in 2021 in the international police data.
-
-...
-
-[Data](articles/e6ee57b9.json)
-
-[Extended Data](ext_articles/e6ee57b9.ext.json)
 
 ---

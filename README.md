@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 20:24:15**
+As of **2024-10-24 20:40:02**
 
 ## Newspaper Stats
 
-*Scraped **51,204** Articles*
+*Scraped **51,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ dailymirrorlk | 4,733
 adalk | 4,771
 adaderanalk | 6,067
 tamilmirrorlk | 7,057
-virakesarilk | 8,227
-adaderanasinhalalk | 8,892
+virakesarilk | 8,228
+adaderanasinhalalk | 8,893
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,204 (100.0%) of 51,204 articles have been extended.
+51,206 (100.0%) of 51,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### There is no other option to except the ovemon power - Dilith
+
+*2024-10-24 20:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202524) · `si`
+
+Dilith Jayaweera emphasizes universal power as only option. People must choose opposition without alternatives. He criticizes opposition leader Sajith Premadasa's growth from 3% to 43%. Former Minister HB. Semasinghe joins opposition in Anuradhapura district.
+
+🟩
+
+The leaders of the leading entrepreneral Dilith Jayaweera says that the people have no choice but to the people in selecting the opposition.
+
+He was addressing the Biyagama electoral Federational Meeting in the Universal Point.
+
+"The universal power is a historical creation. I think the first politicity that is trying to try after 1956 is the universal power.
+
+We mean to give public support to do the opposition's boasting role. The time to retaliate the role of our friend Sajith Premadasa of the Opposition Leader of the Legal Forces. But during the leadership of the opposition, 3% of the three-insufficient party has grown to 43% in the time of his opposition in Parliament. So I don't think the ovemonge is excluding the overajana power in selecting the opposition party that the people have an option. "
+
+Meanwhile, former Minister HB. Semasinghe and a local politicians in the Anuradhapura district joined the ovenoms today (24).
+
+...
+
+[Data](articles/95152728.json)
+
+[Extended Data](ext_articles/95152728.ext.json)
+
+---
 
 ### Heavy traffic congestion on Katunayake Expressway
 
@@ -49,6 +75,32 @@ It is reported that the vehicle traffic has been caused by a maintenance work on
 [Data](articles/3b9888ef.json)
 
 [Extended Data](ext_articles/3b9888ef.ext.json)
+
+---
+
+### Doubted whether the Point Pedro Police have acted in the instigation of some other parties to confuse our party's propaganda - V. Manivannan
+
+*2024-10-24 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197036) · `ta`
+
+TNA candidate V. Manivannan accuses Point Pedro Police of aiding rival parties to disrupt their campaign. He claims the arrests of his supporters and himself were politically motivated, violating their rights. The incident is seen as an attempt to confuse TNA's propaganda efforts during the election season.
+
+🟩
+
+V. Manivannan, the primary candidate and lawyer of the Tamil People's Alliance (TNA), has expressed doubts as to whether the Point Pedro Police have acted in the instigation of some other parties to confuse our party's propaganda.
+
+He was speaking to the media about the arrest of two persons, including Varadarajan Parthiban, the candidate of the Tamil People's Alliance, who was campaigning in the Point Pedro area.
+
+Further, Parthiban and supporters were arrested by the Point Pedro police while the team led by the Tamil People's Alliance candidate Varadarajan Parthiban was engaged in election campaign.
+
+The arrest of our parties is a disturbing act of our campaign. We are skeptical whether the police did this in the instigation of some other parties to confuse our party's propaganda.
+
+We see this as a messy manner in which our propaganda is planned. This is an activity that violates our fundamental rights. We strongly condemn this act.
+
+◼️
+
+[Data](articles/8b3a4f48.json)
+
+[Extended Data](ext_articles/8b3a4f48.ext.json)
 
 ---
 
@@ -2459,55 +2511,5 @@ Former MP Namal Rajapaksa appeared before the Criminal Investigation Department 
 [Data](articles/53a70fc9.json)
 
 [Extended Data](ext_articles/53a70fc9.ext.json)
-
----
-
-### Kanchana
-
-*2024-10-24 11:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-விவகாரம்-அரசாங்கத்தை-சாடுகிறார்-காஞ்சன/175-345977) · `ta`
-
-Former Minister Kanchana Wijesekera criticizes government handling of Israeli tourist threats. He argues lack of communication with foreign embassies led to travel advisories. Two suspects arrested by TID.
-
-🟩
-
-Former Minister Kanchana Wijeeskera has expressed concern over the threats of attacking Israeli tourists in the Sri Lankan area, despite the information on the current government, but the current government has not taken action.
-
-Kanchana has questioned why the government did not explain to foreign diplomatic authorities about the actions taken on the warning attacks.
-
-"The threat to national security should never be taken, is one of the most important income sources in the country," said Kanjana Wijesekera.
-
-He pointed out that if the government had had an advance information and explained it to diplomatic embassies, he could have prevented Sri Lanka's travel advice alert on the basis of precautionary measures taken.
-
-"The government should at least call for a meeting with diplomatic embassies and security officials, explain to them the steps taken and work with foreign embassies to eliminate travel advice to Sri Lanka," the former minister added.
-
-...
-
-[Data](articles/4a36dd9a.json)
-
-[Extended Data](ext_articles/4a36dd9a.ext.json)
-
----
-
-### அறுகம்பை விவகாரம்;அரசாங்கத்தை சாடுகிறார் காஞ்சன
-
-*2024-10-24 11:59:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பை-விவகாரம்-அரசாங்கத்தை-சாடுகிறார்-காஞ்சன/175-345977) · `ta`
-
-Sri Lanka: Former Minister Kanchana Vijayaratne criticizes government over Israel tourism threat. She suggests calling emergency meetings with diplomatic missions to address concerns about potential attacks on tourists. Multiple countries have since reinstated travel advisories for Sri Lanka. Two suspects were arrested under terrorism investigation related to the alleged threat against Israeli tourists.
-
-🟩
-
-இலங்கையின் அறுகம் குடா பகுதியில் இஸ்ரேலிய சுற்றுலாப் பயணிகள் மீது தாக்குதல் நடாத்தப்படக்கூடிய அச்சுறுத்தல்கள் குறித்து ஒக்டோபர் 07 ஆம் திகதிக்கு முன்னர் தகவல் கிடைத்த போதிலும் தற்போதைய அரசாங்கம் அது தொடர்பில் நடவடிக்கை எடுக்காமல் இருந்தது குறித்து முன்னாள் அமைச்சர் காஞ்சன விஜேசேகர கவலை வெளியிட்டுள்ளார்.
-
-எச்சரிக்கப்பட்ட தாக்குதல்கள் பற்றிய தகவல்கள் தொடர்பாக முன்னெடுக்கப்பட்ட நடவடிக்கைகள் குறித்து வெளிநாட்டு இராஜதந்திர அதிகாரிகளுக்கு அரசாங்கம் ஏன் விளக்கமளிக்கவில்லை என்று காஞ்சன தனது எக்ஸ் பக்கத்தில் கேள்வி எழுப்பியுள்ளார்.
-
-"தேசிய பாதுகாப்புக்கு ஏற்படும் அச்சுறுத்தலை ஒருபோதும் சாதாரணமாக எடுத்துக் கொள்ளக்கூடாது, சுற்றுலா வருமானம் நாட்டின் மிக முக்கியமான வருமான ஆதாரங்களில் ஒன்றாகும்" என்று காஞ்சன விஜேசேகர கூறினார்.
-
-He pointed out that if the government had had an advance information and explained it to diplomatic embassies, he could have prevented Sri Lanka's travel advice alert on the basis of precautionary measures taken.
-
-...
-
-[Data](articles/f17b977e.json)
-
-[Extended Data](ext_articles/f17b977e.ext.json)
 
 ---

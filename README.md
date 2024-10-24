@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-24 13:40:09**
+As of **2024-10-24 14:13:06**
 
 ## Newspaper Stats
 
-*Scraped **51,120** Articles*
+*Scraped **51,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 3,124
 dailyftlk | 3,490
 dailymirrorlk | 4,733
 adalk | 4,759
-adaderanalk | 6,061
+adaderanalk | 6,062
 tamilmirrorlk | 7,046
 virakesarilk | 8,191
-adaderanasinhalalk | 8,876
+adaderanasinhalalk | 8,878
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,119 (100.0%) of 51,120 articles have been extended.
+51,123 (100.0%) of 51,123 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-24 (Thursday)
+
+### 30 Injured In Protests Demanding Bangladeshi President Resign
+
+*2024-10-24 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102902/30-injured-in-protests-demanding-bangladeshi-president-resign) · `en`
+
+A protest outside the Bangladeshi president’s home demanding his resignation ended when demonstrators clashed with riot police while trying to storm the compound, with 30 injured in the melee.
+
+President Mohammed Shahabuddin’s powers are largely ceremonial but he played a pivotal role at the height of an August student revolution that ousted autocratic ex-premier Sheikh Hasina.
+
+Shahabuddin announced his one-time ally had quit on the day she fled the country for neighbouring India, paving the way for the caretaker administration now running the South Asian country.
+
+But last week he said in a local media interview he had not actually seen a written letter from Hasina to that effect -raising the prospect that her resignation was unlawful.
+
+Protesters began gathering outside Shahabuddin’s compound in the capital Dhaka on Tuesday demanding he step down and accusing him of residual loyalty to Hasina and her Awami League party.
+
+...
+
+[Data](articles/22bfb6a4.json)
+
+[Extended Data](ext_articles/22bfb6a4.ext.json)
+
+---
+
+### Gammanpila postponed to submit written objections
+
+*2024-10-24 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202508) · `si`
+
+Colombo High Court postpones Gammanpila objection submission. Case against US MP Udaya Gammanpila rescheduled for November 25. Attorney General filed charges on September 26 and 25, 1996.
+
+🟩
+
+The Colombo High Court today ordered the US Parliamentarian Gammanpila on November 25, including the companies filed against the US MP Udaya Gammanpila on a cute anatony license.
+
+The case was called before Colombo High Court Judge Pradeep Abeyratne today.
+
+His lawyer, the other accused, Sydney Jayaratne, who appeared in the court, appeared before the court.
+
+After the submitted submitted, the court ordered the partnership to the case on November 25.
+
+The Attorney General has filed the case against two defendants including Udaya Gammanpila against September 26, 1996 and September 25, 1996.
+
+◼️
+
+[Data](articles/7662eab8.json)
+
+[Extended Data](ext_articles/7662eab8.ext.json)
+
+---
+
+### The death inspection revealed in the mortality test of music
+
+*2024-10-24 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202507) · `si`
+
+Music star dies from internal bleeding after cocaine overdose. Authorities investigate cause of death. Body not released to family pending further tests.
+
+🟩
+
+The death of the former Dilogian band's death in the third floor of Argentina is revealed that internal bleeding.
+
+It is also revealed that the basic autopsy was revealed by the basic autopsy and the preliminary mortem of cocaine.
+
+The death researchers have been observed at the mortality investigation.
+
+However, the authorities say further investigations should be taken regarding the body.
+
+According to foreign media reports, his body has not yet been handed over to relatives, but about a week has been handed over to relatives.
+
+Among the music Lym of the Foreign Lolleine, a member of the Dicrees' Bar Branch was killed again ago.
+
+The hotel staff had informed the emergency call section of a person who behaves drunk violently before the building was down.
+
+However, when the security forces arrived, the collapsed in the hotel room had died.
+
+◼️
+
+[Data](articles/6d96d460.json)
+
+[Extended Data](ext_articles/6d96d460.ext.json)
+
+---
 
 ### බංග්ලාදේශ සිසු විරෝධතා නැවතත්
 
@@ -296,23 +376,29 @@ The Canadian government has advised the travelers to act with great care due to 
 
 ---
 
-### அரசாங்கம் உடனடியாக தேசிய பாதுகாப்பு ஆலோசகரை நியமிக்கவேண்டும் - சாகல ரத்நாயக்க
+### The government should immediately appoint a National Security Advisor - Sagala Ratnayake
 
 *2024-10-24 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/196979) · `ta`
 
-பயங்கரவாத குழுக்களிடமிருந்து எழக்கூடிய அச்சுறுத்தல்களை எதிர்கொள்வதற்காக அரசாங்கம் தேசிய பாதுகாப்பு ஆலோசகர் ஒருவரை நியமிக்கவேண்டும் என முன்னாள் ஜனாதிபதியின் ஆலோசகர் சகால ரத்நாயக்க வேண்டுகோள் விடுத்துள்ளார்.
+Sri Lanka needs a National Security Advisor to combat terrorism and protect its growing tourism industry. The government shares intelligence with other nations, maintaining relative peace. However, unguarded statements could harm the economy through negative foreign perception.
 
-நாட்டின் சுற்றுலாத்துறை வளர்ச்சியடைந்து வரும் வேளையில் பாதுகாப்பு அச்சுறுத்தல் குறித்த செய்திகள் பாதிப்புகளை ஏற்படுத்தலாம்.
+🟩
 
-எங்கள் அரசாங்கம் ஏனைய நாடுகளுடன் புலனாய்வு தகவல்களை பகிர்ந்துகொள்வதற்கான பொறிமுறையை உருவாக்கியிருந்தது,இதன் மூலம் முக்கியமான தகவல்களை பரிமாறிக்கொண்ட நாங்கள்  மக்களின் பாதுகாப்பை உறுதி செய்தோம்.
+Former president's advisor Sakala Ratnayake has appealed to the government to appoint a national security advisor to address threats from terrorist groups.
 
-இதன் காரணமாக கடந்த சில வருடங்களாக இலங்கை பாரிய அச்சுறுத்தல் எதனையும் எதிர்கொள்ளவில்லை.அச்சுறுத்தல்கள் குறித்து எங்களிற்கு தகவல்கள் கிடைத்தன நாங்கள் நடவடிக்கைகளை எடுத்தோம்.
+As the country's tourism industry is growing, reports of security threat can be affected.
 
-நாட்டின் பெயருக்கு பாதிப்பை ஏற்படுத்தும் அறிக்கைகளை வெளியிடுவது பொருளாதாரத்திற்கு பாதிப்பைஏற்படுத்தும் அந்நிய செலாவணி பிரச்சினையை உருவாக்கும்என அவர் தெரிவித்துள்ளார்.
+Our government has developed a mechanism for sharing intelligence with other countries, thereby exchanging important information and ensuring the safety of the people.
+
+Due to this, Sri Lanka has not faced any major threat for the past few years.
+
+He said the release of statements that would affect the country's name would create a foreign exchange problem that would affect the economy.
 
 ◼️
 
 [Data](articles/732c7f19.json)
+
+[Extended Data](ext_articles/732c7f19.ext.json)
 
 ---
 
@@ -2281,81 +2367,5 @@ This decision has been taken by taking into consideration the heavy rain that oc
 [Data](articles/19ebbaad.json)
 
 [Extended Data](ext_articles/19ebbaad.ext.json)
-
----
-
-### West Indies be defeated in Sri Lanka
-
-*2024-10-23 22:32:11* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකාව-හමුවේ-​කොදෙව්වන්-දෙවන-එක්දින-තරගයත්-පරාජයට-පත්වෙයි/9-412650) · `si`
-
-Sri Lanka wins 2nd ODI vs West Indies. Defeated WI in 3-match series. SL: 190/5 (38 ov), WI: 189/9 (39 ov).
-
-🟩
-
-The Sri Lankan team took a few moments before five wickets in the second ODI match against the tourist West Indies.
-
-Accordingly, Sri Lanka was able to win the two matches, despite the three-match ODI series.
-
-The West Indies scored 189 runs for the loss of 39 overs.
-
-In reply, Sri Lanka won the competition with 190 wickets at the end of 38 overs.
-
-◼️
-
-[Data](articles/ea1c4ac6.json)
-
-[Extended Data](ext_articles/ea1c4ac6.ext.json)
-
----
-
-### Sri Lanka wins second match
-
-*2024-10-23 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202488) · `si`
-
-Sri Lanka wins 2nd ODI vs West Indies: 190/5 (38) beats 189/9 (36). Heavy rain limits match to 44 overs. Next match on 26th.
-
-🟩
-
-Sri Lanka won the second ODI match in 5 wickets with the West India.
-
-Batting first, the West Indies scored 189 runs for the loss of 36 overs.
-
-In reply Sri Lanka won their victory over 190 runs for the loss of 5 wickets at the end of 38 overs.
-
-The rains had decided to limit the match to 44 overs due to the heavy rains.
-
-Accordingly, the Sri Lankan team was able to win the tournament.
-
-Sri Lanka were able to win the first one-day cricket match by defeating the West Indies team.
-
-The third and last-ODI will be held on the 26th of the 26th.
-
-◼️
-
-[Data](articles/d0d456db.json)
-
-[Extended Data](ext_articles/d0d456db.ext.json)
-
----
-
-### A police officer arrested for bribery
-
-*2024-10-23 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202487) · `si`
-
-Police officer arrested for bribery: OIC of Gampola Police Division detained by Investigation Commission for demanding fuel bribe during investigation.
-
-🟩
-
-The OIC of the Gampola Police Division has been arrested in connection with a bribery this afternoon.
-
-The suspect has been arrested by the Investigation Commission in Bribery or Corruption.
-
-It is in connection with a bribery demand for a investigation to provide fuel for a investigation.
-
-◼️
-
-[Data](articles/dbcafc08.json)
-
-[Extended Data](ext_articles/dbcafc08.ext.json)
 
 ---

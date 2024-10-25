@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 06:45:13**
+As of **2024-10-25 07:27:31**
 
 ## Newspaper Stats
 
-*Scraped **51,258** Articles*
+*Scraped **51,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,98 @@ dailymirrorlk | 4,733
 adalk | 4,774
 adaderanalk | 6,069
 tamilmirrorlk | 7,062
-virakesarilk | 8,240
-adaderanasinhalalk | 8,895
+virakesarilk | 8,242
+adaderanasinhalalk | 8,896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,258 (100.0%) of 51,258 articles have been extended.
+51,261 (100.0%) of 51,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Heavy rains today
+
+*2024-10-25 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202529) · `si`
+
+Heavy rain warning: Western, Sabaragamuwa, North Western, Northern provinces; Galle, Matara districts. Thunderstorms possible. Strong winds expected. Public advised to take precautions against damage from gusts and lightning.
+
+🟩
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, North Western and Northern provinces and in the Galle and Matara districts today (25).
+
+In Puttalam, Mannar, Jaffna and Kilinochchi districts. Showers may occur in more than 75.
+
+Showers or thundershowers at night in the evening or night in the rest of the island.
+
+Starch in Trincomalee and Hambantota districts, North, North Central and North Western provinces. The weather release also shows that strong winds can also occur over 40,000.
+
+The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
+
+◼️
+
+[Data](articles/2798eab0.json)
+
+[Extended Data](ext_articles/2798eab0.ext.json)
+
+---
+
+### The government should investigate whether the incident is an international conspiracy to disrupt the tourism industry
+
+*2024-10-25 06:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197020) · `ta`
+
+Government investigates potential international conspiracy disrupting Sri Lanka's tourism industry. Foreign intelligence warns of threats to tourist areas. Security forces request information, but concerns arise over lack of action. Politicians call for justice without politicizing the incident.
+
+🟩
+
+The government should look into the conspiracy to destabilize tourism in Sri Lanka through the propaganda of a terrorist attack targeting tourist areas in Sri Lanka.. Former parliamentarian Dullas Alahapperuma said the government should take action to bring justice to victims without turning the survival Sunday attack into an election auction.
+
+He was speaking at a media briefing held at the United People's Alliance headquarters on Thursday (24).
+
+Foreign Intelligence Services have warned us about the attack in Sri Lanka through their embassies. Foreign intelligence reports say that the Eastern Region, the South Region, the Western Region and the Tourism Geological areas, which are centered on tourism in Sri Lanka, have been threatened.
+
+Following the announcement of the US embassy and other embassies, the Sri Lankan security forces also requested the security forces to inform the security forces if they found any information about the incident.
+
+...
+
+[Data](articles/fc70b713.json)
+
+[Extended Data](ext_articles/fc70b713.ext.json)
+
+---
+
+### Video release for the song 'Brother' starring Jayam Ravi
+
+*2024-10-25 05:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197030) · `ta`
+
+"Song 'Mathukkuthu Kalu Rendu..' from 'Brother' starring Jayam Ravi released. Directed by M. Jaime Ravi, featuring Priyanka Arul Mohan. Composed by Harris Jayaraj. Over 1 million views."
+
+🟩
+
+The song 'Mathukkuthu Kalu Rendu ..', which is featured in the upcoming film 'Brother' starring Jayam Ravi, has been released.
+
+Director M. Jaime Ravi, Priyanka Arul Mohan, Natti alias Natraj, Bhumika Chawla, V TV Ganesh, Rao Ramesh, Achiyut Kumar, Saranya Ponvannan, Sita. S.. Bhaskar, Suresh Chakraborty and many others have been cast.
+
+Harris Jayaraj has composed the film, which has been recorded by Vivekananda Santosh.. The film was produced by Screen Sean Media Entertainment.
+
+The film 'Makka Mishi', which was released on the 31st of October, was released on October 31, the song 'Makka Mishi'.
+
+In this case, the movie 'Madukkudu Kalu is awes'.The song and the song for the song have been released. The song is written by Parvati Meera, the background singer Madhu Sri.
+
+The song, which sounds enthusiastically in the context of the wedding ceremony, can no longer be danced with all wedding events.
+
+The song has been visited by more than a million viewers within a short time of release.
+
+◼️
+
+[Data](articles/c79a6586.json)
+
+[Extended Data](ext_articles/c79a6586.ext.json)
+
+---
 
 ### To get the rights to the Liberation Tigers of Tamil Eelam (LTTE)
 
@@ -2271,73 +2351,5 @@ The discussion was specially expressed in the 75 -year anniversary of diplomatic
 [Data](articles/99e38e6f.json)
 
 [Extended Data](ext_articles/99e38e6f.ext.json)
-
----
-
-### Bomb intimidation;Indian Airport in Katunayake
-
-*2024-10-24 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197001) · `ta`
-
-A-320 flight diverted to Katunayake airport after bomb threat. 108 passengers and 8 crew members safely landed at 2:56 pm on Thursday.
-
-🟩
-
-The Indian aircraft that departed from Mumbai landed at the Katunayake airport due to a bomb blast.
-
-The A-320 flight of 108 passengers and eight employees landed at Katunayake airport at 2:56 pm on Thursday (24).
-
-◼️
-
-[Data](articles/a675a386.json)
-
-[Extended Data](ext_articles/a675a386.ext.json)
-
----
-
-### Building a political power for the good of the country
-
-*2024-10-24 15:43:35* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-යහපත-උදෙසා-දේශපාලන-බලයක්-ගොඩනැගීම/11-412666) · `si`
-
-Gamini Dissanayake: A visionary politician who led Sri Lanka's development and unity. His legacy includes completing the Mahaweli Project, negotiating the 1987 Indo-Lanka Accords, and fostering national reconciliation. Despite facing challenges like false accusations and political divisions, he remained committed to building a strong, united nation.
-
-🟩
-
-Gamini Dissanayake, who was the active and best politicians born in Sri Lanka in Sri Lanka.. Thirty years will be completed today (24th. I intended to write this letter as an honor of him.
-
-He was well-known for the completion of the Mahaweli Development Program and was taken to the Swarna Siranjukomemini and the 1987 Indo-Lanka Accords in the 1987 Indo-Lanka Accord.
-
-The political revenge had never seen a political revenge in the political history of the country after he left the portfolio of the plantation industries 1990s. In that period, false criminals were charged against him regarding the abduction of Ralph Boldings. Everyone knew that this was an attempt to keep political purposes.
-
-...
-
-[Data](articles/2b32947b.json)
-
-[Extended Data](ext_articles/2b32947b.ext.json)
-
----
-
-### American Tamil people vote for Kamala Harisu and help us find our missing children
-
-*2024-10-24 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197000) · `ta`
-
-Tamil Americans support Kamala Harris for US presidency, seeking help finding missing children and protecting Tamil sovereignty. Mothers of disappeared hope her leadership can bring justice and resolution to long-standing issues.
-
-🟩
-
-The Tamil people of the Tamil people have voted for Kamala Harisi and redeem our sovereignty and help our missing children.
-
-He said this while speaking to the media after a protest in Vavuniya on Thursday (24).
-
-Mothers of the missing in Vavuniya will support Haris to support Kamala Harisu for the post of US President, protect Tamil sovereignty and find their missing children.
-
-Today is the 2,804th day to find the missing Tamil children, protect Tamils ​​from the future genocide, and to seek the help of the US and the EU for the sovereignty of Tamils.. Our journey continues in this bet on the A-9 road in front of the Vavuniya Court.
-
-The mothers of the disappeared in Vavuniya have announced that Kamala Harris will support him in the attempt for the US president. They believe that his leadership can provide justice for Tamil sovereignty and help their missing children.
-
-...
-
-[Data](articles/14f944a2.json)
-
-[Extended Data](ext_articles/14f944a2.ext.json)
 
 ---

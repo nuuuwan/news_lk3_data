@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 15:10:45**
+As of **2024-10-25 15:23:58**
 
 ## Newspaper Stats
 
-*Scraped **51,342** Articles*
+*Scraped **51,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 3,049
 economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
-adalk | 4,781
+adalk | 4,782
 adaderanalk | 6,079
-tamilmirrorlk | 7,080
-virakesarilk | 8,254
+tamilmirrorlk | 7,082
+virakesarilk | 8,260
 adaderanasinhalalk | 8,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,342 (100.0%) of 51,342 articles have been extended.
+51,351 (100.0%) of 51,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### ’டானா’வால் கடல்சார் சமூகத்தினருக்கு எச்சரிக்கை
+
+*2024-10-25 15:01:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டானா-வால்-கடல்சார்-சமூகத்தினருக்கு-எச்சரிக்கை/175-346044) · `ta`
+
+Turbulent seas forecasted from Trincomalee to Kankesanthurai, Mannar to Puttalam, and Hambantota to Pottuvil. Wind speeds may reach 50-55 km/h. Fishermen and maritime communities advised to exercise caution.
+
+🟩
+
+The Department of Meteorology has said that the seas from Trincomalee to Kankesanthurai and Mannar to Puttalam and the seas from Hambantota to Pottuvil will continue to be turbulent.
+
+அந்த கடற்பரப்புகளில் காற்றின் வேகம் மணிக்கு 50 முதல் 55 கிலோமீற்றர் வரை அதிகரிக்க கூடும் எனவும், திணைக்களம் தெரிவித்துள்ளது.
+
+The Department of Meteorology has advised fishermen and maritime community to pay attention to this. AN
+
+◼️
+
+[Data](articles/afd45973.json)
+
+[Extended Data](ext_articles/afd45973.ext.json)
+
+---
+
+### குறைந்தபட்ச ஆதாரங்களுடனேயே எச்சரிக்கைகள் விடுக்கப்படுகின்றன
+
+*2024-10-25 14:55:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்தபட்ச-ஆதாரங்களுடனேயே-எச்சரிக்கைகள்-விடுக்கப்படுகின்றன/175-346043) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Diplomatic missions issue security advisories based on minimum requirements. This affects Sri Lanka's economy and tourism industry significantly.
+
+🟩
+
+பல நாடுகளின் தூதரகங்கள் குறைந்தபட்ச ஆதாரங்களுடன் பாதுகாப்பு எச்சரிக்கைகளை விடுத்துள்ளதாக, இலங்கை சுற்றுலா கூட்டமைப்பு தெரிவித்துள்ளது.
+
+மேலும், இது இலங்கையின் பொருளாதாரம் மற்றும் சுற்றுலாத்துறையினன் மீட்சிக்கு பாரதூரமான விளைவை ஏற்படுத்தும் எனவும் குறிப்பிடப்பட்டுள்ளது. That
+
+◼️
+
+[Data](articles/0a66fdb2.json)
+
+[Extended Data](ext_articles/0a66fdb2.ext.json)
+
+---
 
 ### 22 children hospitalized at a Balangoda school
 
@@ -132,6 +178,34 @@ Gampaha District Election Officer, Ranjan Ramanayake, Elections Commission and i
 
 ---
 
+### ஜேவிபியின் கிளர்ச்சியின் போது பலவந்தமாக காணாமலாக்கப்பட்டவர்களை நினைவுகூரும்  நிகழ்வு  ஞாயிற்றுக்கிழமை- ஜனாதிபதி கலந்துகொள்ளவேண்டும் என அழைப்பு
+
+*2024-10-25 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197090) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Missing persons from 1988-89 JVP uprising remembered. Relatives call for President to attend event. Over 60,000 youth disappeared/killed. Current president vows justice. Previous presidents lacked political will. Offices established but no resolution. Issue dates back to 1971. Official statistics lacking. Movement evolved from seeking justice for missing to all disappeared. Remembrance events crucial for families. Human rights activist Sunanda Deshapriya emphasizes importance of knowing fate of loved ones.
+
+🟩
+
+ரத்தொலுவையில் ஞாயிறுக்கிழமை இடம்பெறவுள்ள காணாமல் ஆக்கப்பட்டவர்களின் நினைவுதின நிகழ்வுகளில் ஜனாதிபதி  அனுரகுமாரதிசநாயக்கவும் கலந்துகொள்ளவேண்டும் என காணாமல்போனவர்களின் உறவினர்கள் வேண்டுகோள் விடுத்துள்ளனர்.
+
+Relatives of the missing during the JV's rebellion in 1988-89 made this request.
+
+வலிந்து காணாமலாக்கப்பட்டவர்களின் குடும்பத்தவர்கள் 33 வருடங்களாக நீதிக்காக போராடுகின்றனர் இந்த வருடம் 34வது வருடத்தை குறிக்கும் நிகழ்வுகள் இடம்பெறுகின்றன ஜனாதிபதியை கலந்துகொள்ளுமாறு அழைப்பு விடுக்கின்றோம் என அவர்கள் தெரிவித்துள்ளனர்.
+
+ஜேவியின் இரண்டாவது கிளர்ச்சி காலத்தின் போது 60,000க்கும் அதிகமான இளைஞர்கள் கொல்லப்பட்டனர்,கடத்தப்பட்டனர் அல்லது காணாமல்போயினர் என தெரிவிக்கப்படுகின்ற நிலையில் இது குறித்து விசாரணை செய்வதற்கான அரசியல் உறுதிப்பாடு முன்னைய அரசாங்கங்கள் எவற்றிடமும் இருந்ததில்லை என காணாமல்போனவர்களின் உறவினர்கள் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/11141334.json)
+
+[Extended Data](ext_articles/11141334.ext.json)
+
+---
+
 ### The two most expenditure on the presidential election
 
 *2024-10-25 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202546) · `si`
@@ -165,6 +239,26 @@ Namal Rajapaksa has no expenditure on his personal money for election campaigns,
 [Data](articles/56c7aa1f.json)
 
 [Extended Data](ext_articles/56c7aa1f.ext.json)
+
+---
+
+### Sri Lanka's position for the IMF third installment fund
+
+*2024-10-25 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197087) · `ta`
+
+Sri Lanka progresses in implementing reform program. IMF notes significant progress in economic reforms. Third installment of EFF scheme upgraded to support ongoing efforts.
+
+🟩
+
+சீர்த்திருத்த வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதில் குறிப்பிடத்தக்களவு முன்னேற்றத்தை இலங்கை அடைந்துள்ளதாக சர்வதேச நாணய நிதியம் தெரிவித்துள்ளது.
+
+According to Dr. Krishna Srinivasan, Director of the Asian and Pacific Department of the International Monetary Fund, said that the soon -to -be -expanded financial facility (EFF) scheme of the upcoming EFF project has been upgraded to the value of the third installment.
+
+◼️
+
+[Data](articles/7e989c93.json)
+
+[Extended Data](ext_articles/7e989c93.ext.json)
 
 ---
 
@@ -306,6 +400,106 @@ The Election Commission and its members, Ranjan Ramanayake, the Gampaha District
 
 ---
 
+### තාත්තයි පුතයි පොලිසියෙන් බේරගන්න පොලීසියට පහර දුන් කාන්තාවන් තිදෙනෙක් අල්ලයි
+
+*2024-10-25 12:46:28* · [`adalk`](https://www.ada.lk/breaking_news/තාත්තයි-පුතයි-පොලිසියෙන්-බේරගන්න-පොලීසියට-පහර-දුන්-කාන්තාවන්-තිදෙනෙක්-අල්ලයි/11-412683) · `si`
+
+Here's a 200-character summary:
+
+
+
+Three women arrested, police injured during raid. Two officers hurt, hospitalized. Suspects taken to court, remanded until 29th. Incident occurred in Oyamaduwa, Sri Lanka.
+
+🟩
+
+වරෙන්තු ලැබූ තාත්තයි පුතයි බේර ගන්න තියුණු ආයුධ වලින් සහ ගල් මුගුරුවලින් පොලිසියට පහර දී නිලධාරීන් දෙදෙනෙකුට තුවාල සිදු කල කාන්තාවන් 3ක් අත්අඩංගුවට .................
+
+Two women who were arrested by two police officers who were injured in the arrest of two warrants and the injured were transferred to the Anuradhapura Teaching Hospital.The Oyamaduwa Police said.
+
+The police say that two women aged 14 and 40 years old, a resident of the Oyamaduwa Vanni, the Oyamaduwa Vanni, Vanayakarambe, is a 14 year old daughter of the main suspect.
+
+පහර කෑමට ලක්ව තුවාල ලැබූ  පොලිස් කොස්තාපල්වරුන් දෙදෙනා ඇලයාපත්තුව  රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව වැඩි දුර ප්‍රතිකාර සඳහා, අනුරාධපුර  ශික්ෂන් රෝහල වෙත මාරු කර යවා ඇතැයි, ඔයාමඩුව පොලිසිය සඳහන් කළේය.
+
+අනුරාධපුර මහේස්ත්‍රාත් අධිකරණය මගින් නිකුත් කර තිබූ වරෙන්තුවකට අනුව ඔයාමඩුව, වැල්මල්ගම, ප්‍රදේශයේ පියෙකු සහ පුත්‍රයෙකු අත්අඩංගුවට ගැනීමට යාමේදී මෙම ප්‍රහාරය එල්ල වූ බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/bfe003a7.json)
+
+[Extended Data](ext_articles/bfe003a7.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-10-25 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/197084) · `ta`
+
+Today: RBI announces currency exchange rates. US Dollar buying price: ₹289.1548, selling price: ₹298.2096.
+
+🟩
+
+இன்று  வெள்ளிக்கிழமை (25) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 289.1548 ரூபாவாகவும், விற்பனை விலை 298.2096 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/aff39bbb.json)
+
+[Extended Data](ext_articles/aff39bbb.ext.json)
+
+---
+
+### Various military plans to face Israel's attacks - Iran's Spiritual Leader Order to Prepare Complete War - New York Times
+
+*2024-10-25 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197081) · `ta`
+
+Iran's spiritual leader orders military readiness amid tensions with Israel. Iran prepares for potential war, while Israel seeks to avoid conflict like Gaza and Lebanon. Iran vows retaliation against Israeli missile attacks but won't respond to drone strikes. Regional instability feared.
+
+🟩
+
+இஸ்ரேலின்  பதில் தாக்குதலிற்கு தயராகிவரும் ஈரான் தனது படையினரை யுத்தமொன்றிற்கு தயாராயிருக்குமாறு கேட்டுக்கொண்டுள்ளது என நியுயோர்க் டைம்ஸ் செய்தி வெளியிட்டுள்ளது.
+
+Israel's response is preparing for the attack and is trying to avoid a war as its peers have seen its peers in Gaza and Lebanon, while Iran has asked its soldiers to be prepared for a war.
+
+Iran's spiritual leader, Ayatollah Komani, has ordered the security forces to formulate several military programs to face Israel's response.
+
+Iran will retaliate if Israel retaliates to Iran's missile attacks this month will result in damage and casualties.
+
+On the contrary, Iran will not respond to small unmanned aircraft missile attacks on Israel's Iranian armed weapons and sites.
+
+எனினும் மத்திய கிழக்கிற்கும் பிராந்திய நாடுகளிற்கும் இதனால் பெரும் பாதிப்பு ஏற்படலாம்,ஈரானிற்கும் இஸ்ரேலிற்கும் இடையிலான முழுமையான யுத்தம் என்பது மேலும் குழப்பநிலையை காசா லெபனானில் யுத்தநிறுத்த்திற்கு எந்த வாய்ப்பும் இல்லாத நிலையை ஏற்படுத்திவிடும்
+
+◼️
+
+[Data](articles/091b28d7.json)
+
+[Extended Data](ext_articles/091b28d7.ext.json)
+
+---
+
+### Wild Elephant Attakasam enters the school
+
+*2024-10-25 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/197077) · `ta`
+
+A wild elephant entered a school in Sri Lanka on Friday, causing panic and damage. The animal reportedly knocked over a coconut tree, damaging the roof and tiles. Police were notified, and headmaster filed a complaint. Parents were evacuated as the school opened at 6 AM.
+
+🟩
+
+சேருவில கல்விப் பிரிவுக்குட்பட்ட தெஹிவத்தை மகா வித்தியாலயத்திற்குள் இன்று வெள்ளிக்கிழமை (25) காட்டு யானையொன்று புகுந்து அட்டகாசம் செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+Police said the roof of the building was damaged when a coconut tree fell on the roof of the school building due to the elephant.
+
+Headmaster Wijekumara has lodged a complaint with the police that the roof and tiles were damaged in the fall of the coconut tree that the elephant attacked on the roof of the school.
+
+The Chancellor said that when the school came to open the school at six o'clock in the morning, the elephant was inside the school and that the parents were chased away by the parents.
+
+◼️
+
+[Data](articles/316c14b6.json)
+
+[Extended Data](ext_articles/316c14b6.ext.json)
+
+---
+
 ### Tourist arrivals to our side will no more harm
 
 *2024-10-25 12:05:17* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-පැත්තට-එන-සංචාරකයන්ට-කිසිම-හානියක්-කරන්න-දෙන්නේ-නෑ/11-412682) · `si`
@@ -353,6 +547,30 @@ It is reported that rat fever is responsible for the death.One person died on Th
 [Data](articles/fe657ded.json)
 
 [Extended Data](ext_articles/fe657ded.ext.json)
+
+---
+
+### Young family death in Jaffna;Wife's wrong decision!
+
+*2024-10-25 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197071) · `ta`
+
+Tragic death of young husband in Jaffna due to wife's alleged overdose.
+
+🟩
+
+A young family member died tragically on Thursday (24) in a year after getting married in Jaffna. புலோலி தென்மேற்கு, பருத்தித்துறை பகுதியைச் சேர்ந்த சிவனேஸ்வரன் சிறிராஜ் (26) என்ற இளம் குடும்பஸ்தரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த குடும்பஸ்தவருக்கு கடந்த 22 ஆம் திகதி உடல் சுகயீனம் ஏற்பட்டது. இந்நிலையில் உறவினர்கள் அவரை மந்திகை வைத்தியசாலைக்கு அழைத்துச் சென்றனர். பின்னர் அன்றையதினமே யாழ்ப்பாணம் போதனா வைத்தியசாலையில் மேலதிக சிகிச்சைக்காக சேர்க்கப்பட்டார்.
+
+இருப்பினும் சிகிச்சை பலனின்றி அவர் நேற்றையதினம் உயிரிழந்துள்ளார். The death investigation into his body was carried out by Namasivayam Premkumar.
+
+It is reported that the wife has been admitted to the hospital with a large number of pills.
+
+◼️
+
+[Data](articles/2426b1d1.json)
+
+[Extended Data](ext_articles/2426b1d1.ext.json)
 
 ---
 
@@ -2239,161 +2457,5 @@ Following Daily FT’s assertion that the responses to a recent spate of article
 [Data](articles/85cd50cd.json)
 
 [Extended Data](ext_articles/85cd50cd.ext.json)
-
----
-
-### RCU responds to Daily FT Editor’s Note
-
-*2024-10-25 01:00:51* · [`dailyftlk`](https://www.ft.lk/opinion/RCU-responds-to-Daily-FT-Editor-s-Note/14-768384) · `en`
-
-The Royal College Union (RCU) Honorary Secretary Aruna Samarajewa has issued the following statement in response to the Daily FT Editor›s note published on 21 October on Page 13. (See https://www.ft.lk/sports/RCU-has-its-say-over-misleading-allegations-in-Daily-FT-regarding-Royal-College-Colombo/23-768192)
-
-At the outset, we do thank you, for acceding to our demand, to publish in full, our written communication, addressed to you, dated 16/10/2024, and titled - 'A concerned response to the misleading allegations regarding Royal College, Colombo'.
-
-By our said letter, we were constrained to take the special measure, of initiating a formal communication to you, in order to most emphatically complain and object, to your highly disturbing practice, of indulging in making unverified, unconfirmed, and extremely distorted and utterly destructive allegations, against Royal College, as well as Rugby and the Head Coach of Rugby at Royal College.
-
-...
-
-[Data](articles/cf395375.json)
-
-[Extended Data](ext_articles/cf395375.ext.json)
-
----
-
-### Havelock City Mall marks 1st anniversary
-
-*2024-10-25 00:53:00* · [`islandlk`](http://island.lk/havelock-city-mall-marks-1st-anniversary/) · `en`
-
-Havelock City Mall, Colombo’s premier destination for shopping, dining, and entertainment, proudly celebrated its 1st Year Anniversary with a series of successful events and promotions. The celebrations began on Saturday, 19th October, and will continue until Thursday, 24th October, featuring a weekend packed with exciting activities, exclusive promotions, and the launch of new initiatives that delighted visitors.
-
-Since its opening, Havelock City Mall had quickly established itself as a favorite destination for many shoppers. The mall offers a diverse range of experiences, including IMAX movies, a wide selection of international brands, a spacious food court, and the thrilling Wet & Wild Adventure Zone for children. With over 30+ food and beverage outlets, including pubs and restaurants, Havelock City Mall catered to a wide variety of tastes and preferences.
-
-...
-
-[Data](articles/e6aa03e0.json)
-
-[Extended Data](ext_articles/e6aa03e0.ext.json)
-
----
-
-### Fadna Arunella concludes successfully
-
-*2024-10-25 00:52:00* · [`islandlk`](http://island.lk/fadna-arunella-concludes-successfully-2/) · `en`
-
-Fadna a renowned brand in Sri Lanka that has contributed to the well-being of the nation for nearly two decades successfully held the 49th Fadna Arunella recently at Kesbewa Sri Wijayasundararamaya.
-
-...
-
-[Data](articles/3084c1e3.json)
-
-[Extended Data](ext_articles/3084c1e3.ext.json)
-
----
-
-### Sri Lanka needs stable exchange rate mechanism
-
-*2024-10-25 00:15:58* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-needs-stable-exchange-rate-mechanism/4-768383) · `en`
-
-Countries like ours should be exempted from requiring to maintain a strict floating rate of exchange
-
-(Source: IMF Country Report No. 23/116, March 2023, Calculated by the author of this essay)
-
-The IMF promotes a floating exchange rate mechanism. CBSL Governor Dr. Nandalal agrees with it, I think. Some economists too insist that CBSL cannot regulate the exchange rate, hence should allow the rupee to float. SJB has a different idea. They say that they allow first floating the currency to permit market forces to reveal the equilibrium rate, and then stabilising that rate through CBSL intervention. I am not sure about the ideological stance of President Anura Dissanayake as the Minister of Finance.
-
-The IMF never assumed that Sri Lanka should have a stable rate of exchange when they entered into an agreement to approve Extended Fund Facility (EFF) in March 2023. In this agreement the forecasted or estimated exchange rates were as given in the table.
-
-...
-
-[Data](articles/579aee58.json)
-
-[Extended Data](ext_articles/579aee58.ext.json)
-
----
-
-### Sri Lanka needs stable exchange rate mechanism
-
-*2024-10-25 00:15:58* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-needs-stable-exchange-rate-mechanism/14-768383) · `en`
-
-Countries like ours should be exempted from requiring to maintain a strict floating rate of exchange
-
-(Source: IMF Country Report No. 23/116, March 2023, Calculated by the author of this essay)
-
-The IMF promotes a floating exchange rate mechanism. CBSL Governor Dr. Nandalal agrees with it, I think. Some economists too insist that CBSL cannot regulate the exchange rate, hence should allow the rupee to float. SJB has a different idea. They say that they allow first floating the currency to permit market forces to reveal the equilibrium rate, and then stabilising that rate through CBSL intervention. I am not sure about the ideological stance of President Anura Dissanayake as the Minister of Finance.
-
-The IMF never assumed that Sri Lanka should have a stable rate of exchange when they entered into an agreement to approve Extended Fund Facility (EFF) in March 2023. In this agreement the forecasted or estimated exchange rates were as given in the table.
-
-...
-
-[Data](articles/a16b2c3f.json)
-
-[Extended Data](ext_articles/a16b2c3f.ext.json)
-
----
-
-### Ratan Tata’s recipe for business sustainability
-
-*2024-10-25 00:14:16* · [`dailyftlk`](https://www.ft.lk/columns/Ratan-Tata-s-recipe-for-business-sustainability/4-768382) · `en`
-
-Ratan Tata, one of India’s most respected industrialists and philanthropists, was widely celebrated for his transformational leadership at the Tata Group. His passing on 9 October 2024, marked the end of an era. I had the good fortune of meeting Ratan Tata twice, and the impressions that stand out are his noble and patriarchal demeanour. Under his leadership, the Tata Group expanded by investing in diverse industries, effectively diversifying the risk for the entire conglomerate.
-
-His deep commitment to the Tata legacy of serving the country was reflected in his insistence on allocating a significant portion of profits to social causes, particularly those benefiting the poor. His career, marked by bold decision making, high ethical standards, and visionary thinking, offers numerous leadership lessons. Here are my 5 key insights from Ratan Tata’s remarkable journey.
-
-...
-
-[Data](articles/fd1637e8.json)
-
-[Extended Data](ext_articles/fd1637e8.ext.json)
-
----
-
-### Review of SEC regulations on directors’ appointments
-
-*2024-10-25 00:10:43* · [`dailyftlk`](https://www.ft.lk/opinion/Review-of-SEC-regulations-on-directors-appointments/14-768381) · `en`
-
-In 2023/24, the Securities and Exchange Commission (SEC) and CSE introduced a set of new regulations aimed at improving corporate governance. While some of these regulations were progressive, aligning certain listing rules with banking regulations—a move based on the assumption that companies, like banks, operate on public deposits—there are two specific rules that require immediate review.
-
-These rules, while potentially useful in the long term, are impractical in the current economic context, especially given the country’s default status. The situation is further complicated by policy uncertainty with Marxist ideologies influencing policy decisions, despite a shift in chamber, consultancy/audit firm executives from one administration to another like our Parliamentarians, perhaps giving new meaning to bipartisanship and serving the interest of the country.
-
-...
-
-[Data](articles/8b8809a0.json)
-
-[Extended Data](ext_articles/8b8809a0.ext.json)
-
----
-
-### Review of SEC regulations on directors’ appointments
-
-*2024-10-25 00:10:43* · [`dailyftlk`](https://www.ft.lk/columns/Review-of-SEC-regulations-on-directors-appointments/4-768381) · `en`
-
-In 2023/24, the Securities and Exchange Commission (SEC) and CSE introduced a set of new regulations aimed at improving corporate governance. While some of these regulations were progressive, aligning certain listing rules with banking regulations—a move based on the assumption that companies, like banks, operate on public deposits—there are two specific rules that require immediate review.
-
-These rules, while potentially useful in the long term, are impractical in the current economic context, especially given the country’s default status. The situation is further complicated by policy uncertainty with Marxist ideologies influencing policy decisions, despite a shift in chamber, consultancy/audit firm executives from one administration to another like our Parliamentarians, perhaps giving new meaning to bipartisanship and serving the interest of the country.
-
-...
-
-[Data](articles/b2855319.json)
-
-[Extended Data](ext_articles/b2855319.ext.json)
-
----
-
-### Déjà Vu – Travel Advisory
-
-*2024-10-25 00:09:20* · [`dailyftlk`](https://www.ft.lk/columns/Déjà-Vu-Travel-Advisory/4-768380) · `en`
-
-Is this some kind of cruel joke being played on Sri Lanka and its vital tourism industry, crucial to economic recovery, by a group of foreign Embassies?
-
-In early October, Sri Lankan authorities raised an alert on a potential threat in Arugam Bay, a remote village on the east coast popular with Israeli surfers, far from the usual tourist circuits.
-
-Such security alerts are commonplace globally. Following the alert, security measures were increased, two arrests were made, and no incidents were reported. Authorities are confident in their response.
-
-The local population in Arugam Bay is predominantly Muslim, unlike the largely Buddhist and Hindu rest of the country. Typically, over 50% of tourists in Arugam Bay are from Israel, many visiting after military service. Tensions arose between residents and tourists due to illegal businesses run by tourists using foreign currencies and issues related to visa overstays, which unfortunately have not been effectively addressed by the State.
-
-...
-
-[Data](articles/22645d67.json)
-
-[Extended Data](ext_articles/22645d67.ext.json)
 
 ---

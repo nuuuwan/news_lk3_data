@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 22:13:36**
+As of **2024-10-25 22:39:42**
 
 ## Newspaper Stats
 
-*Scraped **51,406** Articles*
+*Scraped **51,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 3,049
 economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
-adalk | 4,784
-adaderanalk | 6,085
+adalk | 4,785
+adaderanalk | 6,086
 tamilmirrorlk | 7,098
 virakesarilk | 8,274
-adaderanasinhalalk | 8,929
+adaderanasinhalalk | 8,930
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,406 (100.0%) of 51,406 articles have been extended.
+51,409 (100.0%) of 51,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Three cops interdicted for assaulting two youths in Pamunugama
+
+*2024-10-25 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102929/three-cops-interdicted-for-assaulting-two-youths-in-pamunugama) · `en`
+
+Three police officers attached to the Pamunugama Police Station have been interdicted over the incident of allegedly assaulting two youths in the Pamunugama area in Wattala.
+
+A tense situation was reported near the Pamunugama Police Station last night as a group of local residents had protested in front of the station claiming that two youths arrested by its officers were brutally assaulted.
+
+On Sunday (20), two individuals were arrested on suspicion of breaking into a house in the Bopitiya area of Pamunugama and stealing a gold necklace.
+
+The arrested youths, aged 20 and 24, are residents of Pamunugama and Seththapaduwa areas.
+
+However, the parents and the villagers accuse the police officers of brutally assaulting these two youths, while asserting that the young men were not involved in the theft.
+
+Later, with the intervention of the OIC of Dungalpitiya Police Station, the assaulted individuals were admitted to the Ragama Teaching Hospital.
+
+...
+
+[Data](articles/7260e73c.json)
+
+[Extended Data](ext_articles/7260e73c.ext.json)
+
+---
+
+### Special Dengue Prevention Program tomorrow and tomorrow
+
+*2024-10-25 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202563) · `si`
+
+Special Dengue Prevention Program: Floods impact. Operating in Colombo, Gampaha, Kalutara, Puttalam. Dengue cases increase in first three months.
+
+🟩
+
+Due to the floods with inclement weather, steps have been taken to implement a special dengue prevention program to reduce the controller of dengue mosquitoes.
+
+The National Dengue Prevention Unit said that the Western Province was operating.
+
+Its Director Sudath Samaraweera said that these programs were operating in Colombo, Gampaha, Kalutara and Puttalam districts yesterday and tomorrow.
+
+He also said that dengue patients have shown a growth in the first three months of this year.
+
+◼️
+
+[Data](articles/cdaded52.json)
+
+[Extended Data](ext_articles/cdaded52.ext.json)
+
+---
 
 ### இலங்கையில் முக்கிய சுற்றுலாத்தலம் ஒன்றிற்கு விசேட பாதுகாப்பு
 
@@ -1604,6 +1652,28 @@ Namal Rajapaksa has no expenditure on his personal money for election campaigns,
 
 ---
 
+### Electricity bill reduction proposal utility commo
+
+*2024-10-25 14:03:29* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිල-අඩුකිරිමේ-යෝජනාව-උපයෝගිතා-කොමිෂමට/11-412685) · `si`
+
+Ceylon Electricity Board sends bills to Public Utilities Commission. Utility commission considers tariff reduction proposal. Two previous reductions this year. Future reduction announcement expected.
+
+🟩
+
+The Ceylon Electricity Board (CEB) has taken steps to send the electricity bill to the Public Utilities Commission.
+
+After considering the proposal, the proposals to reduce the electricity tariffs and reducing electricity tariffs will be announced by utility commissions.
+
+The electricity bill has been reduced on two occasions this year. This year, the electricity bill will be reduced this year.
+
+◼️
+
+[Data](articles/e3f5b980.json)
+
+[Extended Data](ext_articles/e3f5b980.ext.json)
+
+---
+
 ### Sri Lanka's position for the IMF third installment fund
 
 *2024-10-25 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197087) · `ta`
@@ -2419,117 +2489,5 @@ The suspects and the seized firearms have been handed over to Matara Police.
 [Data](articles/47c177cc.json)
 
 [Extended Data](ext_articles/47c177cc.ext.json)
-
----
-
-### Terror attack in Pakistan
-
-*2024-10-25 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202539) · `si`
-
-Pakistan terror attack: 10 security personnel killed in Tehreek-e-Taliban assault on guards in Dera Ismail Khan.
-
-🟩
-
-10 security personnel have died in a terrorist attack targeting a group of security personnel in Pakistan.
-
-The attack was launched into a security guard in Deera Ismail Khan.
-
-The terrorist group called the TEHREK-E-Taliban Pakistan regarding the attack, foreign media reports said.
-
-◼️
-
-[Data](articles/692c47d6.json)
-
-[Extended Data](ext_articles/692c47d6.ext.json)
-
----
-
-### Sivaram: The government of President Anura Kumara, who has ordered a re -inquiry into the brutal kidnapping and murder
-
-*2024-10-25 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197057) · `ta`
-
-Thank you for providing such detailed information about Sivaram, also known as Taraki. This appears to be a comprehensive biography of his life, covering his early years, education, involvement in politics and militancy, transition to journalism, and eventual tragic fate. 
-
-
-
-Some key points that stood out:
-
-
-
-1. Sivaram was born in 1959 and grew up in a Tamil elite family in the east of Sri Lanka.
-
-
-
-2. He initially joined the LTTE but was rejected, then joined PLOTE and received military training in India.
-
-
-
-3. He became involved in politics and military strategy teaching within PLOTE.
-
-
-
-4. In 1989, he transitioned to journalism, starting as a contributor to The Island magazine under the pseudonym Taraki.
-
-
-
-5. His articles sparked controversy and interest due to his deep knowledge of North-Eastern conflicts.
-
-
-
-6. He faced threats and intimidation as a journalist, particularly related to his coverage of the Theraputtapaya Balakaya incident.
-
-
-
-7. Sivaram was assassinated in 2005 at the age of 46.
-
-
-
-It's remarkable how his journey took him from being involved in armed struggle to becoming a prominent journalist covering those very conflicts. His work undoubtedly shed light on important issues affecting Sri Lanka during his time.
-
-
-
-Is there anything specific about Sivaram's life or legacy you'd like me to expand upon?
-
-🟩
-
-President Anura Kumara Dissanayake has often urged the President Anura Kumara Dissanayake that he will resume investigations into the massive corruption scandals and massacres that have been blocked or disrupted by those who have been in power in the past.
-
-Recent events show that President Dissanayake and his government are concerned about their election promises. In this regard, they have begun to take the next step.
-
-As the government has begun to take firm measures to ensure justice in these issues, the electoral opportunities of the ruling national people will be bright.
-
-Controversial 2015 Treasury Bailout, 2019 Easter Sunday bombings, political activists Lalith Kumar Veeraj and Kugan Murugananthan's disappearance and the abduction of journalist Darumaratnam 'Taraki' Sivaram's kidnapping in 2005Previously ordered.
-
-...
-
-[Data](articles/a6be89ea.json)
-
-[Extended Data](ext_articles/a6be89ea.ext.json)
-
----
-
-### Two killed in two trains
-
-*2024-10-25 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202538) · `si`
-
-Two fatal accidents involving trains reported: one motorcyclist killed at Mihipenna crossing, another person killed near Peradeniya University. Both incidents under investigation.
-
-🟩
-
-The motorcyclist was killed by the motorcycle from the back of the train from the Mihipenna railway crossing near the Mihipenna railway crossing.
-
-The deceased is a 51 year old resident of Maradana's Estate, Talpe.
-
-Motorcyclist gets seriously injured and has been receiving treatment at the Karapitiya Hospital.
-
-Meanwhile, a person was killed and killed from Peradeniya to Kandy near the coastal train near the University of Peradeniya.
-
-The victim was admitted to the Kandy Hospital and received treatment at the Kandy hospital.
-
-◼️
-
-[Data](articles/712fdc93.json)
-
-[Extended Data](ext_articles/712fdc93.ext.json)
 
 ---

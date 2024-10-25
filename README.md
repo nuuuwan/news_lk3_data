@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 10:13:20**
+As of **2024-10-25 10:25:03**
 
 ## Newspaper Stats
 
-*Scraped **51,299** Articles*
+*Scraped **51,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 4,777
 adaderanalk | 6,073
 tamilmirrorlk | 7,069
 virakesarilk | 8,247
-adaderanasinhalalk | 8,904
+adaderanasinhalalk | 8,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,299 (100.0%) of 51,299 articles have been extended.
+51,300 (100.0%) of 51,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Two killed in two trains
+
+*2024-10-25 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202538) · `si`
+
+Two fatal accidents involving trains reported: one motorcyclist killed at Mihipenna crossing, another person killed near Peradeniya University. Both incidents under investigation.
+
+🟩
+
+The motorcyclist was killed by the motorcycle from the back of the train from the Mihipenna railway crossing near the Mihipenna railway crossing.
+
+The deceased is a 51 year old resident of Maradana's Estate, Talpe.
+
+Motorcyclist gets seriously injured and has been receiving treatment at the Karapitiya Hospital.
+
+Meanwhile, a person was killed and killed from Peradeniya to Kandy near the coastal train near the University of Peradeniya.
+
+The victim was admitted to the Kandy Hospital and received treatment at the Kandy hospital.
+
+◼️
+
+[Data](articles/712fdc93.json)
+
+[Extended Data](ext_articles/712fdc93.ext.json)
+
+---
 
 ### Independent Trade Workers Losing Voting Rights
 
@@ -2277,33 +2303,5 @@ An Euruddha Bandaranaike's Abunajuna's favors have also implemented a special pa
 [Data](articles/ac4d10a3.json)
 
 [Extended Data](ext_articles/ac4d10a3.ext.json)
-
----
-
-### Bomb wax on Katunayake's second flight
-
-*2024-10-24 18:04:35* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ආපු-විස්තාරා-ගුවන්-යානයට-දෙවැනි-වරටත්-බෝම්බ-බියක්/11-412668) · `si`
-
-Katunayake airport emergency landing due to bomb threat. Airplane with 107 passengers made safe landing after thorough inspection. No explosives found. Second incident in two days.
-
-🟩
-
-The airport was made to an emergency landing on a message from the Indian Diyanadara Aviation to the Katunayake Airport, India from the Indian Airport, India.Steps were taken to be subjected to 10/24.
-
-Accordingly, the airport has been launched to the Katunayake airport at the Katunayake airport.
-
-The air bus is 107 passengers and eight aircraft staff were traveling on this flight.
-
-Firewomen, doctors, nurses, bomb authorization officers, trained dogs trained to discover explosives, to uncover the explosives, trained dogs, trained in this flight landing.A large number of people were gathered near the Katunayake airport.
-
-After completing the Natural airport, the airplane was taken to the Katunayake airport and was taken to the corner of the track.
-
-Passengers and staff attended the aircraft and were taken out and then the cargo storage area was inspected for the aircraft luggage.
-
-...
-
-[Data](articles/73ea14a5.json)
-
-[Extended Data](ext_articles/73ea14a5.ext.json)
 
 ---

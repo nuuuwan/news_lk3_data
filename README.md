@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 08:59:44**
+As of **2024-10-25 09:13:42**
 
 ## Newspaper Stats
 
-*Scraped **51,278** Articles*
+*Scraped **51,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,67 +16,157 @@ islandlk | 3,049
 economynextcom | 3,131
 dailyftlk | 3,506
 dailymirrorlk | 4,733
-adalk | 4,775
-adaderanalk | 6,069
+adalk | 4,776
+adaderanalk | 6,071
 tamilmirrorlk | 7,064
 virakesarilk | 8,243
-adaderanasinhalalk | 8,900
+adaderanasinhalalk | 8,901
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,273 (100.0%) of 51,278 articles have been extended.
+51,282 (100.0%) of 51,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
 
-### சீன பிரஜைகள் மூவர் கைது
+### State attention to establish digital zones
+
+*2024-10-25 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202534) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Prime Minister Dr. Harini Amarasuriya emphasizes digitizing state services and developing ICT policies. Focuses on Jaffna, Matara, and Eastern regions. Aims to foster relationships between international tech firms and local innovations. Prioritizes improving ICT education and supporting women in the digital sector."
+
+🟩
+
+Prime Minister Dr. Harini Amarasuriya says that the state service should be digitized to formulate and formalize the public service.
+
+The Prime Minister made this observation addressing the Information Technology National Awards held for the 26th Anniversary of the Information Technology Institute of IT in Sri Lanka.
+
+Prime Minister Dr. Harari Amarasuriya said that the present government had a clear vision to digitize the present government.
+
+The Prime Minister said that the country needs a policy based policy based on the development of the ICT industry, a policy based on a digital economy.
+
+Accordingly, the government has focused on Jaffna, Matara and Eastern central regions.
+
+The Prime Minister said that the Information Technology National Awards will also be required to establish a relationship between international digital companies and local ICT innovations.
+
+He also pointed out that the improvement of ICT education, facilitating and providing necessary allowances for professionals.
+
+...
+
+[Data](articles/2eec7954.json)
+
+[Extended Data](ext_articles/2eec7954.ext.json)
+
+---
+
+### Three Chinese citizens arrested
 
 *2024-10-25 08:39:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீன-பிரஜைகள்-மூவர்-கைது/175-346022) · `ta`
 
-ஹோட்டல் ஒன்றில் தங்கியிருந்து இணையத்தில் கணினி குற்றங்களில் ஈடுபட்ட சந்தேகத்தின் பேரில் சீன பிரஜைகள் மூவர் கைது செய்யப்பட்டுள்ளனர்.
+Chinese citizens arrested for internet crimes in Sri Lanka. Three suspects detained, police seize phones, passports, and bank cards. Investigation ongoing.
 
-காலி பொலிஸ் அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட இந்த சுற்றிவளைப்பில் சீன பிரஜைகள் மூவர் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-33 மற்றும் 38 வயதுடைய சந்தேக நபரகளிடம் இருந்து 05 அலைபேசிகள், உரிமையாளர் இல்லாத வெளிநாட்டு கடவுச்சீட்டு மற்றும் 04 வங்கி அட்டைகள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+Three Chinese citizens have been arrested on suspicion of computer crimes on the Internet.
 
-நேற்று (24ஆம் திகதி) மாலை கிந்தோட்ட பிரதேசத்தில் வைத்து சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளதுடன், சம்பவம் தொடர்பில் காலி பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Three Chinese citizens have been arrested in the raid based on information received by Galle Police Officers.
+
+Police have seized 05 cell phones, non -owned foreign passports and 04 bank cards from the 33 and 38 -year -old suspects.
+
+The suspects have been arrested in Kindota area yesterday evening (24th) and Galle police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/cac8f1ab.json)
 
+[Extended Data](ext_articles/cac8f1ab.ext.json)
+
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதல் அறிக்கைகளை அரசியல்மயப்படுத்தவேண்டாம் - விசேட அறிக்கையில் ரணில்
+### Don't politicize the survival Sunday attack reports - Ranil in a special statement
 
 *2024-10-25 08:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/197048) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதல் அறிக்கைகளை அரசியல்மயப்படுத்தவேண்டாம் என முன்னாள் ஜனாதிபதி ரணில்விக்கிரமசிங்க வேண்டுகோள் விடுத்துள்ளார்
+Ranil Wickremesinghe urges against politicizing Easter Sunday attacks. He released a statement saying the AMJDA Alvis Report wasn't made to target Ravi Seneviratne or Shanani Abayasekara. The report was received during his presidency but kept private due to no political intent.
 
-விசேட அறிக்கையொன்றை விடுத்துள்ள அவர் ஏஎம்ஜேடிஅல்விஸ் அறிக்கை பொதுமக்கள் பாதுகாப்பு அமைச்சின் தற்போதைய செயலாளர் ரவி செனிவிரட்ணவையோ சிஜடியின் முன்னாள் இயக்குநர் ஷானி அபயசேகரவையோ பழிவாங்கும் நோக்கில் தயாரிக்கப்படவில்லை என தெரிவித்துள்ளார்.
+🟩
 
-ஜனாதிபதி தேர்தலின்போதே அந்த அறிக்கை எனக்கு கிடைத்தது எனினும் உயிர்த்த ஞாயிறு தாக்குதலை அரசியலுடன் தொடர்புபடுத்தும் விருப்பம் இல்லாததால் நான் அறிக்கையை பகிரங்கப்படுத்தவில்லை என முன்னாள் ஜனாதிபதி தெரிவித்துள்ளார்.
+Former President Ranil Wickremesinghe has appealed for not politicizing the survival Sunday attacks
+
+He issued a special report and said that the AMJDA Alvis Report was not prepared to avenge the current Secretary of the Ministry of Public Security Ravi Seneviratne nor Shanani Abayasekara, former director of the Cijadi.
+
+I received the report during the presidential election, but the former president said that I did not make the report public because of the lack of intention to relate the resurrection Sunday attack with politics.
 
 ◼️
 
 [Data](articles/835d93cf.json)
 
+[Extended Data](ext_articles/835d93cf.ext.json)
+
 ---
 
-### எல்பிட்டிய தேர்தலுக்கான வாக்குப்பதிவு நாளை
+### Voting for the Elpitiya election tomorrow
 
 *2024-10-25 08:36:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டிய-தேர்தலுக்கான-வாக்குப்பதிவு-நாளை/175-346021) · `ta`
 
-இந்த நிலையில், எல்பிட்டிய உள்ளூராட்சி மன்றத் தேர்தலுக்குத் தேவையான உத்தியோகத்தர்கள், வாக்குச் சீட்டுகள் மற்றும் ஏனைய பொருட்கள் அனைத்தும் இன்று (25) உரிய நிலையங்களுக்கு எடுத்துச் செல்லப்படவுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+Elections Commission prepares for Elpitiya local government elections: 55,643 voters, 48 polling booths, 2018 locations. Voting materials distributed today for tomorrow's election.
 
-48 வாக்குச் சாவடிகளில் 55,643 வாக்காளர்கள் வாக்களிக்கத் தகுதி பெற்றுள்ளதாகவும், 2018ஆம் ஆண்டு வாக்காளர் பதிவுப் பட்டியலின்படி வாக்குப்பதிவு நடைபெறும் எனவும் தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+🟩
+
+In this context, the Elections Commission said that all officers, ballot and other items required for the Elpitiya Local Government Elections will be taken to the relevant stations today.
+
+The Elections Commission has announced that 55,643 voters are eligible to vote in 48 polling booths and that the voting will be held in 2018.
 
 ◼️
 
 [Data](articles/163442ef.json)
+
+[Extended Data](ext_articles/163442ef.ext.json)
+
+---
+
+### Three Chinese nationals arrested over online scams
+
+*2024-10-25 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102911/three-chinese-nationals-arrested-over-online-scams) · `en`
+
+Three Chinese nationals suspected to be involved in online financial frauds have been arrested at Gintota in Galle, police said.
+
+Three mobile phones and five credit cards found in the possession of the suspects at the time of arrest have also been  taken into custody.
+
+◼️
+
+[Data](articles/58c33eca.json)
+
+[Extended Data](ext_articles/58c33eca.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-10-25 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102910/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says showers or thundershowers will occur at times in Western, Sabaragamuwa, North-western and Northern provinces and in Galle and Matara districts.
+
+Fairly heavy showers above 75 mm are likely at some places in Puttalam, Mannar, Jaffna and Kilinochchi districts.
+
+Showers or thundershowers will occur at several places in the other areas of the island during the evening or night, it said.
+
+Strong winds of about 40-45 kmph can be expected at times over Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/2856d6b4.json)
+
+[Extended Data](ext_articles/2856d6b4.ext.json)
 
 ---
 
@@ -1306,19 +1396,53 @@ We see this as a messy manner in which our propaganda is planned. This is an act
 
 ---
 
-### යාපනයේ අපේක්ෂකයෙක් හදිසියේ මරුට
+### Jaffna candidate dies sudden
 
 *2024-10-24 19:49:35* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-අපේක්ෂකයෙක්-හදිසියේ-මරුට/11-412679) · `si`
 
-යාපනය දිස්ත්‍රික්කයෙන් මෙවර පාර්ලිමේන්තු මහමැතිවරණය වෙනුවෙන් ප්‍රජාතන්ත්‍රවාදී ජාතික සන්ධානයෙන් ඉදිරිපත්ව සිටි තරුණ අපෙක්ෂක්යෙකු හට ඇති වූ හදිසි අසනීප තත්වයක් හේතුවෙන් අද (23දා) දින මිය ගොස් ඇතැයි පේදුරුතුඩුව පොලීසිය පැවසීය.
+Candidate dies suddenly in Jaffna. Identified as serious illness during election campaign. Admitted to hospital 4 days before death.
 
-යාපනය වැල්වැටිතුරෙයි ප්‍රදේශයේ පදිංචි 33 හැවිරිදි සෙන්දිවේල් තිමිළණියන් නමැති අපේක්ෂකයා මෙවර පාර්ලිමේන්තු මහමැතිවරණය වෙනුවෙන් ප්‍රජාතන්ත්‍රවාදී ජාතික සන්ධානයෙන් (තැපල් පෙට්ටියෙන්) වැල්වැටිතුරෙයි උඩුප්පිඩ්ඩි ආසනය වෙනුවෙන් තරග වැදීම සඳහා අපේක්ෂකත්වය ලබාගෙන තිබේ.
+🟩
 
-දින 4 කට පෙර ඇති වූ හදිසි අසනීප තත්වයක් හේතුවෙන් ඔහු යාපනය වැල්වැටිතුරෙයි රෝහලට ඇතුළත් කොට පසුව වැඩිදුර ප්‍රතිකාර සඳහා පේදුරුතුඩුව රෝහලට ඇතුළත් කළ අතර පසුව එම රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මෙලස මිය ගොස් ඇත.මිය ගිය අපෙක්ෂකයා මීට පෙර වැල්වැටිතුරෙයි නගරසභාවේ ප්‍රජාතන්ත්‍රවාදී ජාතික සන්ධානයේ නාගරික මන්ත්‍රීවරයෙකු වශයෙන්ද කටයුතු කර තිබේ.
+The Pointuru Police said that the incident had been identified as a serious illness from the Democratic National Elections in the Jaffna district this year.
+
+The candidator of the Demondy National Alliance (CPC) has obtained the candidate for the General Election of the Democratic National Alliance (Postal Picture) for the Parliamentary National Alliance (Postcott Picture) for the General Election of Velvettithurai.
+
+He was admitted to the Point Pedro hospital for further treatment due to an emergency illness 4 days ago.Has been done.
 
 ◼️
 
 [Data](articles/339921a8.json)
+
+[Extended Data](ext_articles/339921a8.ext.json)
+
+---
+
+### 1000 cervical cancer patients per year in Sri Lanka
+
+*2024-10-24 19:30:28* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-වසරකට-ගැබ්‍ගෙල-පිළිකා-රෝගීන්-1000ක්/11-412676) · `si`
+
+Sri Lanka: 1000 cervical cancer cases annually. HPV vaccine administered to 10-year-old girls in schools. Two doses required, six months apart. Clinic availability for those unable to attend school clinics. No significant side effects reported.
+
+🟩
+
+The health sector calls for women to take the number of Human Papiloma Vaccine (HPV) interpretations of the cervical cancer per year in Sri Lanka.
+
+Dines of these two schools and every school in Sri Lanka is given to girls aged 10, and the second dose should be obtained after six months of obtaining the first dose.
+
+Accordingly, the injection clinic of the Medical Officer's Office is available to children who are unable to obtain the school medical clinic.
+
+Also, the Health Medical Officer of the School or the Public Health Inspector of the school can be informed that the parents have no reluctance to give the child to the child.
+
+Meanwhile public health inspector Sandun Ratnayake, who was involved in this further explanation,
+
+"The virus that causes cervical cancer is on the penis of men. But when a woman sexually intercours a man or several people sexual intercourse with several people, the Human Papilloma virus enters the women's vagina and it is multiplied.
+
+...
+
+[Data](articles/3568a47f.json)
+
+[Extended Data](ext_articles/3568a47f.ext.json)
 
 ---
 
@@ -2193,113 +2317,5 @@ Here are some questions (Q) and answers (A) on the warning and the Sri Lanka gov
 [Data](articles/e293618e.json)
 
 [Extended Data](ext_articles/e293618e.ext.json)
-
----
-
-### South Asian Women's Football Championship: Sri Lanka - Nepal
-
-*2024-10-24 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197024) · `ta`
-
-Sri Lanka vs Nepal in South Asian Women's Football Championship. Sri Lanka aims to control Nepal. Sri Lankan team faces challenges against strong Nepal squad featuring Sabitra Bhandari. Tushani leads Sri Lanka with Baskaran Shanu, Selvaraj Yuvarani, Sivaneswaran Dharmika in starting lineup.
-
-🟩
-
-Sri Lanka and Nepal will clash at the South Asian Women's Football Championships at the Kathmandu Dasarat Stadium, the capital of Nepal.
-
-Sri Lanka will take up the aim of controlling Nepal in this competition for the B team.
-
-Sri Lanka won 1 - 0 in the Maldives and lost 1 - 4 to Bhutan in the next match.
-
-There is no doubt that the tournament will be difficult for the Sri Lankan team, as the Nepal team, which has two wins in the Nepal team, is playing in the France Club, including Sabitra Bhandari.
-
-Tushani is playing the Sri Lankan team as the captain of the team and Baskaran Shanu, Selvaraj Yuvarani and Sivaneswaran Dharmika are also included in the first eleven team.
-
-◼️
-
-[Data](articles/e5a51474.json)
-
-[Extended Data](ext_articles/e5a51474.ext.json)
-
----
-
-### Modi's joy to India's resolution
-
-*2024-10-24 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197016) · `ta`
-
-Narendra Modi congratulates scholars and monks in Colombo for promoting Pali language recognition. Event highlights India's commitment to Buddhism and cultural preservation.
-
-🟩
-
-Indian Prime Minister Narendra Modi expressed his gratitude and congratulations to the scholars and monks in Colombo who had joined the event by the Indian High Commission in Colombo to mark the status of the Pali language by the Government of India.
-
-“I am proud to have prompted the inspiration of happiness among the followers of the Buddha's ideas of the Indian government to give the Pali language the status of the Pali language.. Thanks to the scholars and monks of various countries who participated in the event in Colombo, ”Prime Minister Modi posted on his" X "site today.
-
-On October 23, 2024, the Swami Vivekananda Cultural Center of the Indian High Commission organized a group discussion titled 'Classical as Pali' at the Swami Vivekananda Cultural Center in Colombo.
-
-...
-
-[Data](articles/62d26f7a.json)
-
-[Extended Data](ext_articles/62d26f7a.ext.json)
-
----
-
-### A plane in India to Katunayake
-
-*2024-10-24 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202518) · `si`
-
-Plane lands unexpectedly at Katunayake Airport due to security threat. 108 passengers and 8 crew members on board. Authorities inspect aircraft after receiving threatening calls about fake bombs targeting Indian airlines.
-
-🟩
-
-Katunayake Airport authorities say that the aircraft was conducted due to a telephone call from Indian Airlines from the Katunayake, India.
-
-The Sri Lanka Airport and Aviation Company issued a statement have been issued to Katunayake at 3:28 am.
-
-The airport administration says all necessary security measures have been taken after it is reported.
-
-108 passengers, including a small child, said that 8 staff were on the plane.
-
-The airline has been landed at around 2.55 and followed by the announcement that all the necessary security measures were taken safely.
-
-A sudden land landing on the Katunayaka airport was landing to the Katunayake airport by the 19th and a sudden land of the aircraft in the Mumbai, India.
-
-Meanwhile, more than 70 Indian aircraft have been threatened with fake bombs.
-
-Foreign media reports that he had threatened with aircraft belonging to India, Description and Indigo.
-
-In the last 11 days, nearly 250 Indian airline aircraft have been threatened with fake bombs.
-
-...
-
-[Data](articles/591a2184.json)
-
-[Extended Data](ext_articles/591a2184.ext.json)
-
----
-
-### Heavy rains in Mannar: Villages in floods
-
-*2024-10-24 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197010) · `ta`
-
-Heavy rains flood villages in Mannar district. Thirty families displaced, homes affected. Emergency response underway.
-
-🟩
-
-Many parts of the district have been flooded due to heavy rains from Wednesday night to Thursday (24) morning in Mannar district.
-
-Floods have been flooded, especially in the Mannar Divisional Secretariat Division, including Shantipuram, Saudar, Velur and Murvedi.
-
-Thirty families have now been transferred to the school due to flooding in the houses of 30 families in the area.. Flood water has been flooded in many more houses.
-
-A delegation led by Mannar Divisional Secretary M.Pradeep is going to the area and is carrying out swift action.
-
-In addition, the Mannar District Disaster Management Division has asked the people to bring the District Secretariat Disaster Management Division to the attention of the Divisional Secretariat or Grama Niladhari in the Mannar District.
-
-◼️
-
-[Data](articles/d17b4120.json)
-
-[Extended Data](ext_articles/d17b4120.ext.json)
 
 ---

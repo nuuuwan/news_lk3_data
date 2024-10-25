@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 12:39:27**
+As of **2024-10-25 12:58:11**
 
 ## Newspaper Stats
 
-*Scraped **51,328** Articles*
+*Scraped **51,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,049
 economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
-adalk | 4,779
+adalk | 4,780
 adaderanalk | 6,076
 tamilmirrorlk | 7,076
 virakesarilk | 8,254
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,910
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,328 (100.0%) of 51,328 articles have been extended.
+51,329 (100.0%) of 51,329 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -313,6 +313,26 @@ A hospital spokesman said that the two women who were injured were severely inju
 [Data](articles/30f9e18b.json)
 
 [Extended Data](ext_articles/30f9e18b.ext.json)
+
+---
+
+### The decisions of the scholarship examination will further delay
+
+*2024-10-25 11:10:25* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-විභාගයේ-තීන්දු-තීරණ-තවදුරටත්-පමා-වෙයි/11-412681) · `si`
+
+Scholarship exam delays due to petitions over price decisions. Protests filed by November 5th, analysis deadline set for November 12th.
+
+🟩
+
+The Mahalisena has fundamental rights petitions have been filed to be summoned by the petition as a petition demanding the prices of the decision to be able to provide full marks for three questions.
+
+Protests have been issued to file them before November 05. The relevant analysis has also been ordered to file ahead of November 12.
+
+◼️
+
+[Data](articles/5fc50e7f.json)
+
+[Extended Data](ext_articles/5fc50e7f.ext.json)
 
 ---
 
@@ -2297,27 +2317,5 @@ Meanwhile, All Ceylon Tamil Congress candidate Gajendrakumar Ponnambalam was arr
 [Data](articles/7c54c65a.json)
 
 [Extended Data](ext_articles/7c54c65a.ext.json)
-
----
-
-### Ink on the left -hand index finger
-
-*2024-10-24 21:04:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடது-கை-ஆள்காட்டி-விரலில்-மை/175-346004) · `ta`
-
-Election Commission decides to use left-hand index finger for ink in upcoming general election. Left-hand thumb was previously used for presidential election. Voters without usable fingers on left hand or right hand will use thumb for coding.
-
-🟩
-
-The Election Commission has decided to put ink on the left -handed finger for voters in the upcoming general election.
-
-Earlier, this decision has been made in the general election as the left -hand thumb will be used for the Elpitiya Pradeshiya Sabha election, as the left -handed finger has been used for the presidential election.
-
-Code on the thumb of voters who do not have a finger in the left hand or any other finger in the right hand. Remble
-
-◼️
-
-[Data](articles/2e73aa21.json)
-
-[Extended Data](ext_articles/2e73aa21.ext.json)
 
 ---

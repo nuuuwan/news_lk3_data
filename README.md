@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 02:58:20**
+As of **2024-10-26 03:10:34**
 
 ## Newspaper Stats
 
-*Scraped **51,430** Articles*
+*Scraped **51,431** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 516
 bbccomsinhala | 521
 islandlk | 3,049
 economynextcom | 3,141
-dailyftlk | 3,516
+dailyftlk | 3,517
 dailymirrorlk | 4,733
 adalk | 4,785
 adaderanalk | 6,087
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,932
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,430 (100.0%) of 51,430 articles have been extended.
+51,431 (100.0%) of 51,431 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Sri Lanka Tourism’s “unsung hero” Renton de Alwis
+
+*2024-10-26 02:48:13* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-Tourism-s-unsung-hero-Renton-de-Alwis/4-768448) · `en`
+
+I was lucky enough to associate with Renton for over two and a half decades. Maybe almost three, I believe. Memory goes back to “De Alwis Advertising Agency” owned by Anandatissa de Alwis, where Renton was driving the agency. I was the Marketing Manager for Elephant Lite Corporation Ltd. (ELCL). Marketing “Laxapana” dry cell batteries and ‘De Alwis’ was our advertising agency. When we launched “Fuji” batteries, as a very young marketing professional, strategic level advice received by visionary leader ‘Renton’ was unmatchable. Input I received for my launch presentation by him made me a different person. Teacher, Advisor, Consultant and dear friend, it is so sad to miss you suddenly and the message was shocking news to me.
+
+...
+
+[Data](articles/b222cf1a.json)
+
+[Extended Data](ext_articles/b222cf1a.ext.json)
+
+---
 
 ### The Colombo Plan officials meet Port and Aviation Ministry to strengthen partnership
 
@@ -2423,29 +2437,5 @@ It is reported that rat fever is responsible for the death.One person died on Th
 [Data](articles/fe657ded.json)
 
 [Extended Data](ext_articles/fe657ded.ext.json)
-
----
-
-### Young family death in Jaffna;Wife's wrong decision!
-
-*2024-10-25 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197071) · `ta`
-
-Tragic death of young husband in Jaffna due to wife's alleged overdose.
-
-🟩
-
-A young family member died tragically on Thursday (24) in a year after getting married in Jaffna. புலோலி தென்மேற்கு, பருத்தித்துறை பகுதியைச் சேர்ந்த சிவனேஸ்வரன் சிறிராஜ் (26) என்ற இளம் குடும்பஸ்தரே இவ்வாறு உயிரிழந்துள்ளார்.
-
-குறித்த குடும்பஸ்தவருக்கு கடந்த 22 ஆம் திகதி உடல் சுகயீனம் ஏற்பட்டது. இந்நிலையில் உறவினர்கள் அவரை மந்திகை வைத்தியசாலைக்கு அழைத்துச் சென்றனர். பின்னர் அன்றையதினமே யாழ்ப்பாணம் போதனா வைத்தியசாலையில் மேலதிக சிகிச்சைக்காக சேர்க்கப்பட்டார்.
-
-இருப்பினும் சிகிச்சை பலனின்றி அவர் நேற்றையதினம் உயிரிழந்துள்ளார். The death investigation into his body was carried out by Namasivayam Premkumar.
-
-It is reported that the wife has been admitted to the hospital with a large number of pills.
-
-◼️
-
-[Data](articles/2426b1d1.json)
-
-[Extended Data](ext_articles/2426b1d1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 03:23:56**
+As of **2024-10-26 03:58:21**
 
 ## Newspaper Stats
 
-*Scraped **51,431** Articles*
+*Scraped **51,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 516
 bbccomsinhala | 521
 islandlk | 3,049
 economynextcom | 3,141
-dailyftlk | 3,517
+dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,785
 adaderanalk | 6,087
@@ -26,11 +26,81 @@ adaderanasinhalalk | 8,932
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,431 (100.0%) of 51,431 articles have been extended.
+51,435 (100.0%) of 51,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### FR filed against Ranjan’s candidacy
+
+*2024-10-26 03:03:40* · [`dailyftlk`](https://www.ft.lk/news/FR-filed-against-Ranjan-s-candidacy/56-768452) · `en`
+
+A fundamental rights petition has been filed in the Supreme Court challenging the candidacy of former MP Ranjan Ramanayake in the upcoming 2024 General Elections. A member of an independent group contesting in the Gampaha district lodged the petition today, seeking to disqualify Ramanayake from running as a candidate representing the United Democratic Voice Party.
+
+The petitioner has requested the Supreme Court to reject Ramanayake’s nomination, asserting that he lacks both the right to vote and the right to hold Parliamentary office. Named respondents in the petition include Ramanayake, the National Election Commission, and Gampaha District Election Officers.
+
+...
+
+[Data](articles/78e4986e.json)
+
+[Extended Data](ext_articles/78e4986e.ext.json)
+
+---
+
+### Mahinda visits Johnston in remand prison
+
+*2024-10-26 03:01:51* · [`dailyftlk`](https://www.ft.lk/news/Mahinda-visits-Johnston-in-remand-prison/56-768451) · `en`
+
+Former President Mahinda Rajapaksa visited the New Magazine Prison in Welikada yesterday (25) to meet with former MP Johnston Fernando, who was remanded on 23 October. Fernando was arrested by the Criminal Investigation Department (CID) in relation to an unregistered BMW vehicle, illegally assembled in Sri Lanka, which was discovered in the car park of the Hilton Hotel, Colombo.
+
+...
+
+[Data](articles/30a740b9.json)
+
+[Extended Data](ext_articles/30a740b9.ext.json)
+
+---
+
+### Indian Prime Minister Narendra Modi praises decision to confer Classical Language status on Pali
+
+*2024-10-26 02:56:11* · [`dailyftlk`](https://www.ft.lk/news/Indian-Prime-Minister-Narendra-Modi-praises-decision-to-confer-Classical-Language-status-on-Pali/56-768450) · `en`
+
+Indian Prime Minister Narendra Modi extended his gratitude and appreciation to the scholars and monks in Colombo for joining in the celebration organised by the High Commission of India in Colombo to mark the recognition of Pali as a Classical Language by the Government of India (GoI).
+
+In a post via ‘X’ he noted, “Glad that the Indian Government’s decision of conferring Classical Language status on Pali has ignited a spirit of joy among those who believe in the thoughts of Bhagwan Buddha. Grateful to the scholars and monks from different nations who took part in this program in Colombo.” (https://x.com/narendramodi/status/1849299873591361982)
+
+On 23 October the Swami Vivekananda Cultural Centre (SVCC), the cultural arm of the High Commission of India, organised a panel discussion on ‘Pali as a Classical Language’ at SVCC, Colombo.
+
+...
+
+[Data](articles/478fc348.json)
+
+[Extended Data](ext_articles/478fc348.ext.json)
+
+---
+
+### Maldivian President’s drastic steps to rescue economy
+
+*2024-10-26 02:52:57* · [`dailyftlk`](https://www.ft.lk/columns/Maldivian-President-s-drastic-steps-to-rescue-economy/4-768449) · `en`
+
+Declares 50% salary cut for himself and 10% for other top public officials
+
+Maldivian President Mohamed Muizzu is contemplating drastic steps to rescue his country’s ailing economy. On Wednesday, he voluntarily announced that he will take a 50% cut in his salary while ordering other top public officials to take a 10% cut.
+
+The monthly salary of a sitting Maldivian President is MVR 100,000. However, President Muizzu will now receive only MVR 50,000.
+
+The salary cuts cover all political appointees and staff of all state-owned enterprises, excluding banks. The take-home salaries of heads of these enterprises will be capped at MVR 90,000. The President has proposed that the salaries of heads of independent institutions and those of heads of the Judiciary and Parliament also be reduced by 10%. However, persons earning less than MVR 12,000 will be exempt from these cuts.
+
+The cuts will be in effect for a two-year period, the President’s office said.
+
+...
+
+[Data](articles/66709d46.json)
+
+[Extended Data](ext_articles/66709d46.ext.json)
+
+---
 
 ### Sri Lanka Tourism’s “unsung hero” Renton de Alwis
 
@@ -2335,107 +2405,5 @@ To address this challenge, FAO has installed an advanced cooling system on a new
 [Data](articles/79123db1.json)
 
 [Extended Data](ext_articles/79123db1.ext.json)
-
----
-
-### Various military plans to face Israel's attacks - Iran's Spiritual Leader Order to Prepare Complete War - New York Times
-
-*2024-10-25 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197081) · `ta`
-
-Iran's spiritual leader orders military readiness amid tensions with Israel. Iran prepares for potential war, while Israel seeks to avoid conflict like Gaza and Lebanon. Iran vows retaliation against Israeli missile attacks but won't respond to drone strikes. Regional instability feared.
-
-🟩
-
-இஸ்ரேலின்  பதில் தாக்குதலிற்கு தயராகிவரும் ஈரான் தனது படையினரை யுத்தமொன்றிற்கு தயாராயிருக்குமாறு கேட்டுக்கொண்டுள்ளது என நியுயோர்க் டைம்ஸ் செய்தி வெளியிட்டுள்ளது.
-
-Israel's response is preparing for the attack and is trying to avoid a war as its peers have seen its peers in Gaza and Lebanon, while Iran has asked its soldiers to be prepared for a war.
-
-Iran's spiritual leader, Ayatollah Komani, has ordered the security forces to formulate several military programs to face Israel's response.
-
-Iran will retaliate if Israel retaliates to Iran's missile attacks this month will result in damage and casualties.
-
-On the contrary, Iran will not respond to small unmanned aircraft missile attacks on Israel's Iranian armed weapons and sites.
-
-எனினும் மத்திய கிழக்கிற்கும் பிராந்திய நாடுகளிற்கும் இதனால் பெரும் பாதிப்பு ஏற்படலாம்,ஈரானிற்கும் இஸ்ரேலிற்கும் இடையிலான முழுமையான யுத்தம் என்பது மேலும் குழப்பநிலையை காசா லெபனானில் யுத்தநிறுத்த்திற்கு எந்த வாய்ப்பும் இல்லாத நிலையை ஏற்படுத்திவிடும்
-
-◼️
-
-[Data](articles/091b28d7.json)
-
-[Extended Data](ext_articles/091b28d7.ext.json)
-
----
-
-### Wild Elephant Attakasam enters the school
-
-*2024-10-25 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/197077) · `ta`
-
-A wild elephant entered a school in Sri Lanka on Friday, causing panic and damage. The animal reportedly knocked over a coconut tree, damaging the roof and tiles. Police were notified, and headmaster filed a complaint. Parents were evacuated as the school opened at 6 AM.
-
-🟩
-
-சேருவில கல்விப் பிரிவுக்குட்பட்ட தெஹிவத்தை மகா வித்தியாலயத்திற்குள் இன்று வெள்ளிக்கிழமை (25) காட்டு யானையொன்று புகுந்து அட்டகாசம் செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-Police said the roof of the building was damaged when a coconut tree fell on the roof of the school building due to the elephant.
-
-Headmaster Wijekumara has lodged a complaint with the police that the roof and tiles were damaged in the fall of the coconut tree that the elephant attacked on the roof of the school.
-
-The Chancellor said that when the school came to open the school at six o'clock in the morning, the elephant was inside the school and that the parents were chased away by the parents.
-
-◼️
-
-[Data](articles/316c14b6.json)
-
-[Extended Data](ext_articles/316c14b6.ext.json)
-
----
-
-### Tourist arrivals to our side will no more harm
-
-*2024-10-25 12:05:17* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-පැත්තට-එන-සංචාරකයන්ට-කිසිම-හානියක්-කරන්න-දෙන්නේ-නෑ/11-412682) · `si`
-
-Sri Lanka Muslim Kongros leader Rauff Hakeem denies tourism impact, claims conspiracy against government. Assures tourists safe, rejects propaganda about Israeli involvement in Pottuvil area.
-
-🟩
-
-The Sri Lanka Muslim Kongros captain and the Kandy district recycling Rauff Hakeem said that the situation attempting to implement another conspiracy to implement another conspiracy to implement another conspiracy.
-
-Maunura District Candid MHA. He was speaking to the media after the opening of Mr. Hleim and Haleim and Hakeem.
-
-Mr. Hakeem added:
-
-"The panic that does not require times awaiting times again is an attempt to announce the claim of Israeli people in Pottuvil.We see that not only protection in those areas but also propaganda of the tourism industry in the area.
-
-One thing must be clear as a leader of a major party representing the Muslim community and more MPs in the area.
-
-Suspects that doubts that launch an attempt to break the government, to embarrass the government, to embarrass the government, to embarrass the government. But as a leader representing the Muslim people, I assure you that tourists will never be harassed and inquired by the people of the area. "
-
-◼️
-
-[Data](articles/569b545c.json)
-
-[Extended Data](ext_articles/569b545c.ext.json)
-
----
-
-### Eligious fever in Jaffna: Death
-
-*2024-10-25 11:52:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-எலிக்காய்ச்சல்-ஒருவர்-மரணம்/71-346037) · `ta`
-
-Rat fever outbreak in Jaffna claims life. 34-year-old Sivaskar dies at Jaffna Teaching Hospital after being transferred from another facility. Death occurs amid warnings about rising cases in the region.
-
-🟩
-
-The deceased is Siriskandarajah Sivaskar (age 34) from Vaddukoddai Sankara.
-
-Sanganai went to the hospital for treatment on the 22nd of last month. From there Jaffna. He was transferred to the Teaching Hospital for treatment, and he died without treatment.
-
-It is reported that rat fever is responsible for the death.One person died on Thursday (24) after a recent warning on a rat fever in Jaffna.
-
-◼️
-
-[Data](articles/fe657ded.json)
-
-[Extended Data](ext_articles/fe657ded.ext.json)
 
 ---

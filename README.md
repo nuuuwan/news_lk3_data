@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 15:58:45**
+As of **2024-10-25 16:12:54**
 
 ## Newspaper Stats
 
-*Scraped **51,355** Articles*
+*Scraped **51,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,125 @@ adalk | 4,782
 adaderanalk | 6,079
 tamilmirrorlk | 7,084
 virakesarilk | 8,262
-adaderanasinhalalk | 8,914
+adaderanasinhalalk | 8,918
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,355 (100.0%) of 51,355 articles have been extended.
+51,359 (100.0%) of 51,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Tourist protection confirmed
+
+*2024-10-25 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202551) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka President Anura Kumara Dissanayake met South African Minister Sandile Edwin Shokane. Discussed tourist safety, Ali-Minhas conflict resolution, international trade promotion, and South Africa's support in security, technology, agriculture, and tourism sectors.
+
+🟩
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ දකුණු අප්‍රිකාවේ මහ කොමසාරිස් සැන්ඩිල් එඩ්වින් ශෝක් මහතා අතර හමුවක් ජනාධිපති කාර්යාලයේ දී අද (25) පෙරවරුවේ සිදු ව තිබේ.
+
+ශ්‍රී ලංකාවේ වත්මන් ආරක්ෂක තත්ත්වය පිළිබඳ එහිදී විශේෂ අවධානයක් යොමු කෙරුණු අතර මෙරටට පැමිණ සිටින සංචාරකයින්ගේ සහ පුරවැසියන්ගේ ආරක්ෂාව මේ වන විටත් තහවුරු කර ඇති බව ජනාධිපතිවරයා එහිදි සඳහන් කර තිබේ.
+
+එසේම ශ්‍රි ලංකාවේ අලි - මිනිස් ගැටුමට විසඳුම් සෙවීමේදී දකුණු අප්‍රිකාවෙන් ලබා ගත හැකි සහාය පිළිබඳව ද මෙහිදී සාකච්ඡාවට ලක් කර තිබේ.
+
+දකුණු අප්‍රිකාවේ ක්‍රියාත්මක කරන සාම සහ ජාතික ප්‍රතිසන්ධාන ක්‍රියාවලිය ශ්‍රී ලංකාව තුළ අඛණ්ඩව ක්‍රියාත්මක කිරිමට ද සහාය ලබා දෙන බව දකුණු අප්‍රිකානු මහකොමසාරිස්වරයා ජනාධිපතිවරයා හමුවේ පවසා තිබේ.
+
+ශ්‍රී ලංකා වාණිජ මණ්ඩලය හා එක්ව ජාත්‍යන්තර වෙළඳාම ප්‍රවර්ධනය කිරිම සම්බන්ධයෙන් සහයෝගයෙන් කටයුතු කිරීමට ද මෙහිදී සාකච්ඡා කෙරුණු අතර ශ්‍රී ලංකාවේ ආරක්ෂක, තාක්ෂණ, කෘෂිකර්මාන්ත හා සංචාරක ක්ෂේත්‍රයන්හි ප්‍රවර්ධනයට දකුණු අප්‍රිකාවේ සහාය ලබා දෙන බව ද සැන්ඩිල් එඩ්වින් ස්කෝක් මහතා මෙහිදී සඳහන් කළේය.
+
+◼️
+
+[Data](articles/4e895dbc.json)
+
+[Extended Data](ext_articles/4e895dbc.ext.json)
+
+---
+
+### මඩකලපුව අධිකරණ පරිශ්‍රයේ විශේෂ පරීක්ෂාවක්
+
+*2024-10-25 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202550) · `si`
+
+Batticaloa Court Complex special investigation conducted by police and STF due to potential threat letters received. No suspicious activity found during search. Security measures enhanced and ongoing monitoring.
+
+🟩
+
+මඩකලපුව අධිකරණ සංකීර්ණය ඉලක්ක කරගනිමින් යම් ප්‍රහාරයක් එල්ල විය හැකි බවට ලියාපදිංචි තැපෑලෙන් යොමුකර තිබූ ලිපි දෙකක් පදනම් කරගනිමින්, මඩකලපුව පොලීසිය සහ පොලිස් විශේෂ කාර්ය බලකාය එක්ව අද (25) පෙරවරුවේ එම පරිශ්‍රය විශේෂ සෝදිසි කිරීමකට ලක් කළේය.
+
+කිසියම් පාර්ශ්වයක් අදාළ ලිපි මගින් ඔක්තෝබර් මස 24, 25 හෝ 28 යන දින තුනෙන් එකකදී මඩකලපුව අධිකරණ සංකීර්ණයට යම් ප්‍රහාරයක් එල්ල විය හැකි බවට දැනුම්දීමක් කර තිබේ.
+
+එම ලිපි මඩකලපුව නියෝජ්‍ය පොලිස්පතිවරයාට සහ මඩකලපුව මහේස්ත්‍රාත්වරියට යොමුකර ඇත.
+
+Accordingly, the Batticaloa Police and the STF collateral took steps to investigate the premises this morning.
+
+Police Media Spokesperson DIG PSP lawyer, said Nihal Talduuwa said that there was no suspicion in the premises.
+
+The following letters were referred to the registered post from the Batticaloa Post Office and the investigations were carried out on the party's party.
+
+The security of the Batticaloa court complex has been strengthened and two police teams have been operating in the incident.
+
+◼️
+
+[Data](articles/a4a8bda0.json)
+
+[Extended Data](ext_articles/a4a8bda0.ext.json)
+
+---
+
+### ඥානසාර හිමිගේ පෙත්සම විභාගයට දින නියම කෙරේ
+
+*2024-10-25 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202549) · `si`
+
+Gnanasara Thera's petition hearing scheduled April 3, 2023. He seeks release after serving four-year sentence. Court sets date for appeal review.
+
+🟩
+
+බොදු බල සේනා සංවිධානයේ මහලේකම් පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමි ඉදිරිපත් කර ඇති අභියාචනා පෙත්සමක් විභාගයට ගැනීමට අභියාචනාධිකරණය දින නියම කර තිබේ.
+
+තමන් වහන්සේට නියම වී ඇති  සිව් වසරක සිර දඬුවමින් නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමි එම පෙත්සම ඉදිරිපත් කර තිබේ.
+
+When the petition was summoned this petition today (25), the lawyer appearing on behalf of Gnanasara Thera asked the court to take a date to hear the appearance of this appeal.
+
+ඒ අනුව අදාළ අභියාචනය ලබන වසරේ අප්‍රේල් මස 03 වනදා විභාගයට ගැනීමට අධිකරණය නියෝග කළේය.
+
+In 2016, he was sentenced to four years in prison by Gnanasara Thera.
+
+◼️
+
+[Data](articles/43b4cb17.json)
+
+[Extended Data](ext_articles/43b4cb17.ext.json)
+
+---
+
+### Free permit to railway employees
+
+*2024-10-25 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202548) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Railway workers receive free permits for travel between home and work locations. Transport Minister Vijith Herath instructed relevant authorities to provide this service.
+
+🟩
+
+ඒ අනුව දුම්රිය සේවකයින් හට තම නිවාසය සහ සේවා ස්ථානය අතර ගමන් කිරීම සඳහා නිදහස් දුම්රිය අවසර පතක් ලබා දීමට ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍ය විජිත හේරත් මහතා විසින් අදාළ බලධාරීන්ට උපදෙස් ලබා දී ඇත.
+
+◼️
+
+[Data](articles/854040e1.json)
+
+[Extended Data](ext_articles/854040e1.ext.json)
+
+---
 
 ### Sri Lanka has to travel long distances before going on the path of strong and stable recovery - International Monetary Fund
 
@@ -2417,75 +2525,5 @@ The company revenue of Rs. 1,990 million at the World Trade Center, Colombo, was
 [Data](articles/0f6f90db.json)
 
 [Extended Data](ext_articles/0f6f90db.ext.json)
-
----
-
-### Indrajit Wickramasinghe appointed to Overseas Realty Board
-
-*2024-10-25 01:33:44* · [`dailyftlk`](https://www.ft.lk/business/Indrajit-Wickramasinghe-appointed-to-Overseas-Realty-Board/34-768391) · `en`
-
-Overseas Realty Ceylon PLC has announced the appointment of Indrajit Wickramasinghe as an Independent Non-Executive Director to its Board of Directors.
-
-In compliance with the CSE new listing rules on independent directors, the company also announced the retirement of Tissa Kumara Bandaranayake, who had distinguishably served on the Board for over 13 years.
-
-...
-
-[Data](articles/022f982f.json)
-
-[Extended Data](ext_articles/022f982f.ext.json)
-
----
-
-### Sri Lanka’s gem legacy to shine at FACETS 2025
-
-*2024-10-25 01:32:58* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-gem-legacy-to-shine-at-FACETS-2025/34-768390) · `en`
-
-The 31st edition of FACETS Sri Lanka, the country’s premier international gem and jewellery exhibition, is set to take place from 4 to 6 January 2025 at the Cinnamon Grand Colombo. Organised by the Sri Lanka Gem and Jewellery Association (SLGJA), this event has long been a key platform for Sri Lanka’s gem and jewellery industry, cementing the nation’s position as a global leader in gemstone production and craftsmanship.
-
-FACETS Sri Lanka draws an international audience of traders, exporters, manufacturers, lapidarists, and collectors. With over three decades of history, the exhibition has become a vital trade hub, attracting buyers and exhibitors from markets worldwide. Sri Lanka’s reputation as one of the oldest sources of coloured gemstones, particularly sapphires, enhances the global allure of this annual event.
-
-...
-
-[Data](articles/f72feaae.json)
-
-[Extended Data](ext_articles/f72feaae.ext.json)
-
----
-
-### Craft and education impact on Sri Lanka’s creative economy
-
-*2024-10-25 01:29:08* · [`dailyftlk`](https://www.ft.lk/business/Craft-and-education-impact-on-Sri-Lanka-s-creative-economy/34-768389) · `en`
-
-Festival Patron/former Vogue India Editor/Lifestyle Journalist and Sustainability Advocate Bandana Tewari
-
-OCAD University Associate Professor of Social Innovation Design Sarah Tranum
-
-Estethica Creating Agency Director and Central Saint Martins Pathway Leader for BA Fashion Tamsin Blanchard
-
-Fresh insights to unfold at SLDF 2024 Craft Leadership Forum
-
-South Asia, with countries like Sri Lanka and India with millennia-old craft heritages, is celebrated as a region heavy with cultural richness. However, the economic potential of these crafts and their associated creative cultures remain largely untapped. Their potential as a resource in contemporary design, and their ability to imbue stories, cultural significance and emotional value into products is yet to be fully and strategically utilised. The time has come to change that narrative.
-
-...
-
-[Data](articles/507a3972.json)
-
-[Extended Data](ext_articles/507a3972.ext.json)
-
----
-
-### SLT-MOBITEL unveils revolutionary 5G-Ready Apple iPhone 16 Series at Flagship Store
-
-*2024-10-25 01:22:00* · [`islandlk`](http://island.lk/slt-mobitel-unveils-revolutionary-5g-ready-apple-iphone-16-series-at-flagship-store/) · `en`
-
-SLT-MOBITEL unveiled Apple’s revolutionary iPhone 16 series at an exclusive event held on 21 October 2024, marking a significant milestone in its commitment to bringing cutting-edge technology to Sri Lanka. The event, attended by premium customers, distinguished guests and special representatives, underscored SLT-MOBITEL’s dedication to valuing long-standing customers while strengthening its partnership with prestigious global brands like Apple.
-
-At the exclusive gathering, pre-ordered devices were ceremoniously handed over to customers, giving attendees the unique opportunity to experience Apple’s latest innovation and preview the iPhone 16 range. Additionally, the event featured an in-depth product review, providing participants with a comprehensive understanding of the new iPhone 16 lineup.
-
-...
-
-[Data](articles/3bbaec91.json)
-
-[Extended Data](ext_articles/3bbaec91.ext.json)
 
 ---

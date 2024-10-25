@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 20:23:55**
+As of **2024-10-25 20:39:42**
 
 ## Newspaper Stats
 
-*Scraped **51,397** Articles*
+*Scraped **51,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 4,784
 adaderanalk | 6,085
 tamilmirrorlk | 7,096
 virakesarilk | 8,270
-adaderanasinhalalk | 8,927
+adaderanasinhalalk | 8,928
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,397 (100.0%) of 51,397 articles have been extended.
+51,398 (100.0%) of 51,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### President informs the kidmakers of protection
+
+*2024-10-25 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202561) · `si`
+
+Sri Lanka President briefs EU delegation on security measures, tourism safety, and economic ties. Discusses Iran relations and regional stability.
+
+🟩
+
+ශ්‍රී ලංකාවේ යුරෝපා සංගමයේ තානාපති කාර්මෙන් මොරේනෝ මහතා ප්‍රමුඛ යුරෝපා සංගමයේ නියෝජිත පිරිස අද (25) ජනාධිපති කාර්යාලයේ දී ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවිය.
+
+ශ්‍රී ලංකාවේ වත්මන් ආරක්ෂක තත්ත්වය පිළිබඳව ජනාධිපතිවරයා විසින් මෙහිදී යුරෝපා සංගම් නියෝජිත පිරිස දැනුම්වත් කර ඇති අතර, සංචාරකයන්ගේ සහ ශ්‍රී ලාංකික ජනතාවගේ ආරක්ෂාව තහවුරු කිරීම සඳහා මෑත කාලීනව ගනු ලැබූ ක්‍රියාමාර්ග පිළිබඳව ද දැනුම්වත් කර ඇත.
+
+The President has said that the rules with security protocol, especially the main tourism zones have been implemented and emergency services.
+
+The European Union is a decisive partner in Sri Lanka, as the second largest export and tourism market in Sri Lanka and is the third largest import market.
+
+මේ අතර ඉරාන තානාපති ආචාර්ය අලිරේසා ඩෙල්කොෂ් මහතා අද ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුව ඇත.
+
+...
+
+[Data](articles/6b26f283.json)
+
+[Extended Data](ext_articles/6b26f283.ext.json)
+
+---
 
 ### Warner removes a life-imposed ban
 
@@ -2507,31 +2533,5 @@ A bond maturing on 15.05.2030 was quoted at 12.15/25 percent up from 12.20/30 pe
 [Data](articles/cea9f2a8.json)
 
 [Extended Data](ext_articles/cea9f2a8.ext.json)
-
----
-
-### A sharp weapon attack on two women
-
-*2024-10-25 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202536) · `si`
-
-Sharp weapon attack on 2 women in Panadura. Suspects entered home, police suspect drug-related incident. Injured treated at Panadura Base Hospital.
-
-🟩
-
-Three women who covered their faces have been assaulted by a sharp weapons.
-
-The Pinwatta Police said that the suspects have entered the house.
-
-A two women who were living in a house in the Madatupitiya area in Panadura have been attacked.
-
-Police suspect that the attack on a drug racket has been carried out.
-
-The injured were receiving treatment at the Panadura Base Hospital.
-
-◼️
-
-[Data](articles/1572b815.json)
-
-[Extended Data](ext_articles/1572b815.ext.json)
 
 ---

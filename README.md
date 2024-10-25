@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 16:57:20**
+As of **2024-10-25 17:23:55**
 
 ## Newspaper Stats
 
-*Scraped **51,369** Articles*
+*Scraped **51,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,782
-adaderanalk | 6,081
-tamilmirrorlk | 7,088
+adaderanalk | 6,082
+tamilmirrorlk | 7,089
 virakesarilk | 8,265
-adaderanasinhalalk | 8,918
+adaderanasinhalalk | 8,921
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,369 (100.0%) of 51,369 articles have been extended.
+51,374 (100.0%) of 51,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### President instructs officials to solve the price problem
+
+*2024-10-25 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202554) · `si`
+
+President Anura Kumara Dissanayake meets Agricultural, Trade and Paddy Marketing Board. Discusses rice prices and conditions. Instructs officials on immediate action. Statement released.
+
+🟩
+
+President Anura Kumara Dissanayake met with the Agricultural, Trade and Paddy Marketing Board.
+
+The price of rice and current conditions have been discussed at length.
+
+The President has issued a statement saying that the President instructed officials on the accelerated measures to be taken in this regard.
+
+◼️
+
+[Data](articles/2f460e52.json)
+
+[Extended Data](ext_articles/2f460e52.ext.json)
+
+---
+
+### EC reveals candidates’ expenditure for 2024 Presidential Election
+
+*2024-10-25 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102923/ec-reveals-candidates-expenditure-for-2024-presidential-election) · `en`
+
+The Election Commission has made public the document detailing the expenses incurred by candidates who contested the last presidential election.
+
+Accordingly, the presidential candidate of the ‘Samagi Jana Balavegaya’ (SJB), Sajith Premadasa’s expenses are the highest in the 2024 presidential election, with the figure exceeding Rs. 1.12 billion.
+
+Specifically, he has spent a sum of Rs. 936,258,524.60 as a candidate, while the SJB has contributed Rs. 194,087,715.04 to this expense.
+
+The second-highest spender in the election was the independent candidate, Ranil Wickramasinghe, who spent Rs. 990,327,687.16, making him the highest spender among the independent candidates.
+
+The candidate of the National People’s Party (NPP), Anura Kumara Dissanayake, who won the presidential election this year, did not incur any personal expenses. However, the NPP has spent Rs. 527,999,889.38 on election-related activities.
+
+...
+
+[Data](articles/0510bc39.json)
+
+[Extended Data](ext_articles/0510bc39.ext.json)
+
+---
 
 ### Special test at the Batticaloa Court Complex
 
@@ -62,6 +106,36 @@ The security of the Batticaloa court complex has been strengthened and two polic
 
 ---
 
+### Protection of the airports
+
+*2024-10-25 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202553) · `si`
+
+Sri Lanka airport security heightened after receiving fake bomb threats from India. Authorities evacuated flights, increased vigilance. Meta and X companies informed about potential threats.
+
+🟩
+
+Airport and Aviation Company has announced that the security of airports and staff attends Sri Lankan airports.
+
+They have been issued this announcement with regard to the threat of fake bombors received from India on October 19 and 24.
+
+The aircraft was presented to the Katunayake Airport and removed the passengers and staffs in the aircraft due to the arrival of fake bombs.
+
+Airport and Aviation Company said that it was sad if someone was embarrassed.
+
+Large number of Indian aircraft has been threatened with fake bombs in the past few days and the authorities had acted strong security measures.
+
+Meanwhile, about 80 fake notifications have been received by Indian aircraft bombs yesterday.
+
+The Government has decided to inform meta and x companies to inform the Metta and x companies for information on the information of messages that are sent to these fake threats.
+
+◼️
+
+[Data](articles/64d9e1bf.json)
+
+[Extended Data](ext_articles/64d9e1bf.ext.json)
+
+---
+
 ### School students in Balangoda suddenly admitted to hospital
 
 *2024-10-25 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197098) · `ta`
@@ -79,6 +153,30 @@ Students who are ill have cleaned the school's toilet this morning using some ch
 [Data](articles/02f16952.json)
 
 [Extended Data](ext_articles/02f16952.ext.json)
+
+---
+
+### Sri Lanka's group is easy
+
+*2024-10-25 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202552) · `si`
+
+Sri Lanka's cricket team won the first semi-final against Pakistan, scoring 135/9 in 20 overs. They need 140 runs to qualify for the final. Opener Omar Yusuf scored 68 off 46 balls. Sri Lankan bowler Dushan Hemantha took 4 wickets for 21 runs.
+
+🟩
+
+The Sri Lanka Group of Sri Lanka and Pakistani T20 cricket team won the first semi cricket match and scored 135 runs for the loss of 9 wickets in the 20 overs.
+
+Accordingly, Sri Lanka won 140 runs in order to qualify for the final.
+
+The opener Omar Yusuf scored 68 balls with 68 runs off 46 balls with 68 runs.
+
+Aware of a talented bowler on behalf of Sri Lanka, Dushan Hemantha took 4 wickets for 21 runs.
+
+◼️
+
+[Data](articles/a9fd4e34.json)
+
+[Extended Data](ext_articles/a9fd4e34.ext.json)
 
 ---
 
@@ -407,6 +505,28 @@ The incident took place at a school in Balangoda, police said that the students 
 [Data](articles/14f1c1b8.json)
 
 [Extended Data](ext_articles/14f1c1b8.ext.json)
+
+---
+
+### Sewed students
+
+*2024-10-25 15:25:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலசலகூடத்தில்-மயங்கிய-மாணவர்கள்/175-346047) · `ta`
+
+Students cleaning toilets with chemical fluid caused illness in Balangoda. 17 hospitalized after fainting. Incident occurred at local school.
+
+🟩
+
+An incident where students who cleaned the school's rectum have taken place today in the Balangoda area.
+
+Seventeen students were sick and they were admitted to the Balangoda Primary Hospital, police said.
+
+The incident took place at a school in Balangoda, police said that the students were cleaning the toilets using some kind of chemical fluid and admitted to the hospital due to fainting.. Those
+
+◼️
+
+[Data](articles/7299a8da.json)
+
+[Extended Data](ext_articles/7299a8da.ext.json)
 
 ---
 
@@ -2403,131 +2523,5 @@ The song has been visited by more than a million viewers within a short time of 
 [Data](articles/c79a6586.json)
 
 [Extended Data](ext_articles/c79a6586.ext.json)
-
----
-
-### IMF in talks towards Sri Lanka program review
-
-*2024-10-25 05:44:00* · [`economynextcom`](https://economynext.com/imf-in-talks-towards-sri-lanka-program-review-184833/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund in talks with Sri Lanka’s new administration on its priorities and is working towards the next review to continue its Extended Fund Facility program with the island.
-
-A Sri Lankan delegation, led by the Central Bank Governor, the Finance Ministry Secretary, and the President’s Advisor on economic matters, Duminda Hulangamuwa, is currently engaged in these talks.
-
-“Under the programme we have elements which address some of the priorities of the new government including social protection and so on,” Krishna Srinivasan, Director of the IMF’s Asia Pacific Department said in Washington.
-
-“But the details of the programme are continuing and they’ll be happening this week in Washington.
-
-“And we are encouraged by what we’ve heard so far and hope that we can move fast toward the third review which should start soon.”
-
-...
-
-[Data](articles/b245951e.json)
-
-[Extended Data](ext_articles/b245951e.ext.json)
-
----
-
-### To get the rights to the Liberation Tigers of Tamil Eelam (LTTE)
-
-*2024-10-25 03:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197046) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil Liberation Tigers of Tamil Eelam (LTTE) seeks rights through Tamil National Alliance (TNA). LTTE leader calls for pure parliament and opposition party. Supports Udayasuriyan symbol for Tamil Muslim community. Criticizes use of conch symbol in presidential election but not in general elections. Proposes new alliance and symbol for Sri Lanka's future.
-
-🟩
-
-We will voice together to obtain the rights of losing. Former Nuwara Eliya district parliamentarian and media spokesman for Tamil Liberation Tigers of Tamil Eelam (LTTE), Mayilwakanam Tilakarajah said that we will take the TNA in the hands of our great leaders.
-
-He was speaking at a media briefing held in Vavuniya on Thursday (24).
-
-The two flags that led to the regime in this country have been important in the past. That is, the presidents were the flowers of the United National Party, which began at the beginning of the United National Party (SLFP) and then in different forms.. The current president has been found as a new venture as a plant that occasionally assisted the flags.
-
-There is no parliamentary authority to take legal principles to establish democracy in this country, except for the creation of an individual with the executive power of the executive power.
-
-...
-
-[Data](articles/d26fb128.json)
-
-[Extended Data](ext_articles/d26fb128.ext.json)
-
----
-
-### வரி செலுத்தாத நிறுவன பணிப்பாளருக்கு சிறை
-
-*2024-10-25 03:53:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாத-நிறுவன-பணிப்பாளருக்கு-சிறை/175-346019) · `ta`
-
-Company director gets 6 years jail for unpaid taxes. Ordered to pay 64 lakhs in 24 installments. Failure to pay leads to 6 months imprisonment.
-
-🟩
-
-The Colombo District Court yesterday imposed a six -year rigorous imprisonment for a company's director for failing to pay taxes for the government for sixty -four lakhs (6443716.71).
-
-It was also ordered to pay the tax payable to the government in 24 equal installments.
-
-The order has been issued to T. Gunawardena, the main partner of AM Holding Pvt.
-
-The District Magistrate has also ordered that if you fail to pay taxes, he will be sentenced to six months in prison.
-
-◼️
-
-[Data](articles/3315bf27.json)
-
-[Extended Data](ext_articles/3315bf27.ext.json)
-
----
-
-### I strongly condemn the lie that I have left the party - P.Ariyanethran
-
-*2024-10-25 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197045) · `ta`
-
-PA Ariyanethran denies leaving TNA, condemns false claims. He continues to campaign for TNA candidates despite not attending meetings due to party rules.
-
-🟩
-
-Former parliamentarian and presidential candidate PA Ariyanethran said that I strongly condemn the lie that I had left the party.
-
-I have not left the party so far.
-
-He was responding to a question raised by the journalist regarding the comment he had removed from the TNA.
-
-I have not been left from the party so far. Accordingly, I have sent the answer.
-
-I am still acting for the development of the TNA. According to the Central Committee resolution, a decision has been taken not to attend the Tamil National Alliance (TNA) meetings.I did not attend any of the meetings.
-
-I am carrying out campaigning with candidates for the victory of the TNA this time in the parliamentary election. It is my individual freedom that no one can forbid it.
-
-If you leave the party, there are many procedures according to the rules of the party.
-
-◼️
-
-[Data](articles/4567e4b4.json)
-
-[Extended Data](ext_articles/4567e4b4.ext.json)
-
----
-
-### The US Ambassador assured Gajendrakumar in the upcoming general election
-
-*2024-10-25 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197044) · `ta`
-
-US Ambassador Julie Sung assures Tamil people: No political solution in upcoming Sri Lankan election. Meeting with TNA candidate Gajendrakumar Ponnambalam. US urged to embrace policy change and cooperate.
-
-🟩
-
-US Ambassador to Sri Lanka Julie Sung has assured Gajendrakumar Ponnambalam Ponnambalam that the Tamil people of Sri Lanka will never act on the political solution in the upcoming general election.
-
-The meeting between the US Ambassador to Sri Lanka Julie Sung and the Tamil National Alliance (TNA) Jaffna District candidates Gajendrakumar Ponnambalam and Selvarajah Gajendran, who is on an official visit to the Northern Province, held an official visit to the Northern Province at 9.00 am yesterday.
-
-During the meeting, US ambassador Julie Sung Gajandrakumar questioned Ponnambalam about the tendency of the new government headed by President Anura Kumara Dissanayake on the issue of Tamil people.. In response, he pointed out that although the government was identified as a national power, all the powers of making political decisions have the possibility of the Janatha Vimukthi Peramuna.
-
-...
-
-[Data](articles/6c7fdb77.json)
-
-[Extended Data](ext_articles/6c7fdb77.ext.json)
 
 ---

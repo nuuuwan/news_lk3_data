@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 14:25:53**
+As of **2024-10-25 14:40:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,337 (100.0%) of 51,338 articles have been extended.
+51,338 (100.0%) of 51,338 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -206,21 +206,31 @@ The Election Commission and its members, Ranjan Ramanayake, the Gampaha District
 
 ---
 
-### අපේ පැත්තට එන සංචාරකයන්ට කිසිම හානියක් කරන්න දෙන්නේ නෑ
+### Tourist arrivals to our side will no more harm
 
 *2024-10-25 12:05:17* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-පැත්තට-එන-සංචාරකයන්ට-කිසිම-හානියක්-කරන්න-දෙන්නේ-නෑ/11-412682) · `si`
 
-පාස්කු ප්‍රහාරය වගේ තවත් කුමන්ත්‍රණයක් ක්‍රියාත්මක කරවීමට ඇතැම් පිරිස් උත්සාහ කරනවාද යන සැකය පොතුවිල් අරුගම්බේ ප්‍රදේශයට ප්‍රහාරයක්ඇති වන බවට සිදු කරන ප්‍රචාරයන් නිසා ඇති වන බව ශ්‍රී ලංකා මුස්ලිම් කෝන්ග්‍රසයේ නායක සහ මහනුවර දිස්ත්‍රික් සමගි ජන බලවේගයේ අපේක්ෂක රවුෆ් හකීම් මහතා කීය.
+Sri Lanka Muslim Kongros leader Rauff Hakeem denies tourism impact, claims conspiracy against government. Assures tourists safe, rejects propaganda about Israeli involvement in Pottuvil area.
 
-මහනුර දිස්ත්‍රික් අපේක්ෂක එම්.එච්.ඒ. හලීම් මහතාගේ සහ හකීම් මහතාගේ මෙහෙයුම් කාර්යාලයක් අකුරණ නගරයේ විවෘත කිරීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් හකීම් මහතා මේ බව කීය.
+🟩
 
-වත්මන් ආරක්ෂක තත්වය සම්බන්ධයෙන් තව දුරටත් අදහස් දක්වමින් හකීම් මහතා මෙසේද කීය.
+The Sri Lanka Muslim Kongros captain and the Kandy district recycling Rauff Hakeem said that the situation attempting to implement another conspiracy to implement another conspiracy to implement another conspiracy.
 
-“ මුස්ලිම් ජාතිකයින් අතර නැවත වාරයක් අවශ්‍ය නැති භීතිකාවක් උත්සාහයක් පොතුවිල් ප්‍රදේශයේ  ඊශ්‍රායල් ජාතිකයින්ට විරුද්ධව  ප්‍රහාරයක් එල්ල වන බව ප්‍රකාශ වීම නිසා ඇති කර තිබෙනවා.  එම ප්‍රදේශවල ආරක්ෂාව තර කිරිම  පමණක් නොව  එම ප්‍රදේශයේ සංචාරක කර්මාතය සම්පූර්ණයෙන් කඩා වැට්ටීමේ යම් ප්‍රචාරයන් යන බව අපි දකිනවා.
+Maunura District Candid MHA. He was speaking to the media after the opening of Mr. Hleim and Haleim and Hakeem.
 
-...
+Mr. Hakeem added:
+
+"The panic that does not require times awaiting times again is an attempt to announce the claim of Israeli people in Pottuvil.We see that not only protection in those areas but also propaganda of the tourism industry in the area.
+
+One thing must be clear as a leader of a major party representing the Muslim community and more MPs in the area.
+
+Suspects that doubts that launch an attempt to break the government, to embarrass the government, to embarrass the government, to embarrass the government. But as a leader representing the Muslim people, I assure you that tourists will never be harassed and inquired by the people of the area. "
+
+◼️
 
 [Data](articles/569b545c.json)
+
+[Extended Data](ext_articles/569b545c.ext.json)
 
 ---
 

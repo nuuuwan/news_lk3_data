@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 14:58:37**
+As of **2024-10-25 15:10:45**
 
 ## Newspaper Stats
 
-*Scraped **51,340** Articles*
+*Scraped **51,342** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,781
 adaderanalk | 6,079
-tamilmirrorlk | 7,079
+tamilmirrorlk | 7,080
 virakesarilk | 8,254
-adaderanasinhalalk | 8,913
+adaderanasinhalalk | 8,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,340 (100.0%) of 51,340 articles have been extended.
+51,342 (100.0%) of 51,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### 22 children hospitalized at a Balangoda school
+
+*2024-10-25 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202547) · `si`
+
+Balangoda school incident: 22 children hospitalized after exposure to chemical solution.
+
+🟩
+
+A group of children in Balangoda in Balangoda has been admitted to the Balangoda Base Hospital due to a sudden complications.
+
+Several girls in this school were cleaned with a chemical solution this morning.
+
+The children and other children who came to the toilet had to be hospitalized due to a sickness.
+
+Our correspondent said the Balangoda CC. 22 children of the Tamil Maha Vidyalaya were hospitalized.
+
+◼️
+
+[Data](articles/72a40930.json)
+
+[Extended Data](ext_articles/72a40930.ext.json)
+
+---
+
+### Investigation into the price of rice control
+
+*2024-10-25 14:37:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-கட்டுப்பாட்டு-விலை-தொடர்பாக-விசாரணை/175-346042) · `ta`
+
+Rice price control investigation underway. Consumer Affairs Authority conducting inspections. Rice mill owners agree to sell 1kg for 218 rupees. Market price set at 220 rupees. Legal action threatened against sellers above control price.
+
+🟩
+
+Investigations have been launched to whether the rice will be released to the market at control prices, the Ministry of Commerce said.
+
+Its secretary MM. Naimuddin said that the Consumer Affairs Authority officials had begun inspections at the district level.
+
+During a recent discussion with the president, rice mill owners agreed to release one kilogram of rice in the market for 218 rupees.
+
+Accordingly, the market can be sold for 220 rupees in the market, the secretary said.
+
+He also warned that legal action would be taken to detect places where rice was sold beyond the control price.
+
+◼️
+
+[Data](articles/98f5307c.json)
+
+[Extended Data](ext_articles/98f5307c.ext.json)
+
+---
 
 ### Voting for Elpitiya is ready
 
@@ -2345,43 +2395,5 @@ The local population in Arugam Bay is predominantly Muslim, unlike the largely B
 [Data](articles/22645d67.json)
 
 [Extended Data](ext_articles/22645d67.ext.json)
-
----
-
-### Celebrating 100 years of Toastmasters International: Journey of empowering voices
-
-*2024-10-25 00:07:24* · [`dailyftlk`](https://www.ft.lk/opinion/Celebrating-100-years-of-Toastmasters-International-Journey-of-empowering-voices/14-768379) · `en`
-
-On 22 October 2024, Toastmasters International marked a century of transforming lives through communication and leadership development. Founded in 1924 by Dr. Ralph C. Smedley in Santa Ana, California, Toastmasters began as a small gathering aimed at helping individuals hone their speaking skills. Over the years, it grew into a global movement, empowering millions of members to become confident communicators and leaders.
-
-...
-
-[Data](articles/f42ab52f.json)
-
-[Extended Data](ext_articles/f42ab52f.ext.json)
-
----
-
-### முன்னாள் ஜனாதிபதி ரணில் வெளியிட்ட விசேட அறிக்கை
-
-*2024-10-25 00:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதி-ரணில்-வெளியிட்ட-விசேட-அறிக்கை/175-346018) · `ta`
-
-Former President Ranil Wickremesinghe released a special statement on Easter Day Attack A.M.J.D. Alvarez report investigation. Committee formed to probe intelligence failure on potential terrorist attacks. Report criticized police officials including current Public Security Minister Ravi Senaratne and former criminal investigation officer Shanika Abeysinghe. Recommendations made against taking legal action against officers and Police Chief Deshapriya Tennekoon. Statement denies report was prepared against Ravi Senaratne and Shanika Abeysinghe.
-
-🟩
-
-Easter Day Attack A. எம். ஜே. டி அல்விஸ் அறிக்கை குறித்து முன்னாள் ஜனாதிபதியும் ஐக்கிய தேசிய கட்சியின் தலைவருமான ரணில் விக்கிரமசிங்க  விசேட அறிக்கை ஒன்றை வெளியிட்டுள்ளார்.
-
-ஏ. எம். ஜே. Dalvis -led group is not assigned to me personally. The Attorney General's Department also cooperated with the appointment of the committee.
-
-The committee was appointed to investigate the lack of proper action by the Indian intelligence report that a terrorist attack will take place in the country.
-
-மேலும் அந்த தகவல் தொடர்பில் போதுமான நடவடிக்கை எடுக்கப்பட்டிருந்ததா என்பது தொடர்பில் விசாரணை செய்வதும் இந்த குழுவுக்கு வழங்கப்பட்டிருந்த இன்னுமொரு கடமையாகும். அதே போன்று வவுனதீவு சம்பவம் எல். ரி. ரி. ஈ. When the Department of Investigation and Criminal Investigation announced that it was carried out by the organization?The committee was also informed to investigate what action was taken during that period.
-
-...
-
-[Data](articles/9f0f8a8c.json)
-
-[Extended Data](ext_articles/9f0f8a8c.ext.json)
 
 ---

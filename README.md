@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 00:00:09**
+As of **2024-10-26 00:13:46**
 
 ## Newspaper Stats
 
-*Scraped **51,413** Articles*
+*Scraped **51,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 411
 colombotelegraphcom | 516
 bbccomsinhala | 521
 islandlk | 3,049
-economynextcom | 3,135
+economynextcom | 3,141
 dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,785
 adaderanalk | 6,087
-tamilmirrorlk | 7,098
+tamilmirrorlk | 7,099
 virakesarilk | 8,275
 adaderanasinhalalk | 8,932
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 8,932
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,413 (100.0%) of 51,413 articles have been extended.
+51,419 (100.0%) of 51,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### President meets Iran's ambassador
+
+*2024-10-25 23:16:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-தூதுவருடன்-ஜனாதிபதி-சந்திப்பு/175-346060) · `ta`
+
+Sri Lanka's President Anurakumara Dissanayake met Iran's Ambassador Dr. Alresha Delgosh at the Presidential Office. The President congratulated Iran's leader and discussed security measures, tourism safety, and economic/political conditions. He emphasized strengthening bilateral ties in various sectors. The Iranian envoy pledged support for Sri Lanka in areas like trade, technology, culture, and education.
+
+🟩
+
+Iranian Ambassador Dr. Alresha Delgosh met with President Anurakumara Dissanayake today at the Presidential Office.
+
+Honoring the victory of the presidential election, President Anurakumara Dissanayake also handed over a special congratulations to Iran's President Masood Besashkian.
+
+The President also explained the current security arrangements in Sri Lanka on the current economic and political conditions.
+
+The President said that arrangements have been made to ensure the safety of tourists and the general public to Sri Lanka and to ensure the safe environment within the country.
+
+President Anura Kumara Dissanayake pointed out that the long -term bilateral links between Sri Lanka and Iran were recalled and that his aim was to strengthen Iran and Sri Lanka through many sectors.
+
+Iran's Ambassador, who made favorable answers to it, promised to provide assistance to Sri Lanka for new programs in the sectors including trade, technology, culture and education.. (A)
+
+◼️
+
+[Data](articles/4388fd63.json)
+
+[Extended Data](ext_articles/4388fd63.ext.json)
+
+---
 
 ### Indian team to fight Afghanistan
 
@@ -273,6 +301,28 @@ At the same time, like their stories, the stories of the families of the missing
 [Data](articles/53876733.json)
 
 [Extended Data](ext_articles/53876733.ext.json)
+
+---
+
+### Iran envoy pledges trade, technology support to Sri Lanka
+
+*2024-10-25 20:32:00* · [`economynextcom`](https://economynext.com/iran-envoy-pledges-trade-technology-support-to-sri-lanka-184960/) · `en`
+
+ECONOMYNEXT – Iranian Ambassador to Sri Lanka has pledged to support the island nation on trade and technology among many other sectors, the President Media Division (PMD)  said.
+
+President Anura Kumara Dissanayake met Iranian Ambassador, Alireza Delkhosh on Friday (25) at the Presidential Secretariat and discussed bilateral relationship between the two countries.
+
+President Dissanayake emphasized the longstanding relationship between Sri Lanka and Iran and expressed his desire to strengthen ties between both countries.
+
+“In response, the Ambassador reaffirmed Iran’s commitment to supporting Sri Lanka in trade, technology, culture, and education, as well as in new initiatives,” the PMD said in a stement.
+
+The PMD said the President discussed the current situation in the Middle East and briefed the Ambassador on Sri Lanka’s security situation and highlighting recent measures taken to improve safety for both tourists and residents.
+
+...
+
+[Data](articles/fdbfdb80.json)
+
+[Extended Data](ext_articles/fdbfdb80.ext.json)
 
 ---
 
@@ -606,6 +656,24 @@ The emergency has been withdrawn at the Katunayake Bandaranaike International Ai
 
 ---
 
+### Sri Lanka sells extra Rs12.5bn Treasury bills after auction
+
+*2024-10-25 18:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs12-5bn-treasury-bills-after-auction-184948/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 12.5 billion rupees of treasury bills offered on tap at average rates set at an auction earlier in the week, the state debt office said.
+
+On Wednesday (23) the debt office raised 125 billion rupees of 3, 6 and 12 month bills.
+
+Sri Lanka sells Rs125bn in treasury bills, yields steady across maturities
+
+◼️
+
+[Data](articles/61e9d701.json)
+
+[Extended Data](ext_articles/61e9d701.ext.json)
+
+---
+
 ### Workshop to solve the price of rice
 
 *2024-10-25 18:12:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-விலை-சிக்கலைத்-தீர்க்க-பணிப்பு/175-346054) · `ta`
@@ -782,6 +850,28 @@ Three more suspects have been arrested by the Yakkalai police in Nungamuwa and P
 
 ---
 
+### Sri Lanka rupee closes flat at 293.60/70 to dollar, bond yields steady
+
+*2024-10-25 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-293-60-70-to-dollar-bond-yields-steady-184938/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed broadly flat at 293.60/70 to the US dollar Friday from 293.78/82 a day earlier, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2027 closed at 11.50/60 percent, up from 11.50/55 percent.
+
+A bond maturing on 15.03.2028 closed at 11.75/85 percent, up from 11.75/80 percent.
+
+A bond maturing on 15.06.2029 closed at 12.00/10 percent up from 11.95/12.10 percent.
+
+The central bank announced 12,500 million Treasury Bonds will be issued through an auction on October 28, Monday. (Colombo/Oct25/2024)
+
+◼️
+
+[Data](articles/98e914d5.json)
+
+[Extended Data](ext_articles/98e914d5.ext.json)
+
+---
+
 ### Arughambe Incident - In the detainees detention
 
 *2024-10-25 17:13:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-சம்பவம்-கைதானவர்கள்-தடுப்பு-காவலில்/175-346053) · `ta`
@@ -893,6 +983,32 @@ The President has issued a statement saying that the President instructed offici
 [Data](articles/2f460e52.json)
 
 [Extended Data](ext_articles/2f460e52.ext.json)
+
+---
+
+### Sri Lanka stocks close up, Sampath and HNB contribute over 2bn to turnover
+
+*2024-10-25 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-sampath-and-hnb-contribute-over-2bn-to-turnover-184927/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange ended the week in green, data on its site showed.
+
+The broader ASPI closed up 0.35 percent, or 44.08 points, at 12,517; while the more liquid S&P SL20 Index closed up 1.05 percent, or 39.00 points, at 3,759.
+
+Turnover was 4.7 billion. This was led by local high net worth individuals and institutions, market participants said.
+
+Crossings took place on Hatton National Bank (down at 219.00), Sampath Bank (down at 85.00), CIC Holdings (up at 77.00), Hemas Holdings (up at 82.90) and Central Finance Company (up at 123.00).
+
+Trades in Sampath Bank contributed over 1 billion rupees to the turnover, and HNB contributed 1.3 billion.
+
+Other top turnover generators were John Keells Holdings (up at 214.00), Central Finance, and Commercial Bank (up at 113.50).
+
+Foreign buying interest was seen in Sampath Bank, Commercial Bank, Tokyo Cement (flat at 53.00), Nations Trust Bank (up at 138.75), Richard Pieris and Co (up at 22.20), and Haycarb (up at 76.90).
+
+...
+
+[Data](articles/3890c57d.json)
+
+[Extended Data](ext_articles/3890c57d.ext.json)
 
 ---
 
@@ -1536,6 +1652,26 @@ Diplomatic missions issue security advisories based on minimum requirements. Thi
 
 ---
 
+### Sri Lanka delegation to discuss Adani deal in January Indian visit: NPP member
+
+*2024-10-25 14:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-delegation-to-discuss-adani-deal-in-january-indian-visit-npp-member-184904/) · `en`
+
+ECONOMYNEXT – Sri Lanka will revisit and discuss the Adani renewable energy project when a government delegation visits New Delhi in January next year on the invitation of the Indian government, a ruling National People’s Power (NPP) member said.
+
+The renewable energy deal, which was given to India’s Adani group without any tender, has been challenged in Sri Lanka’s Supreme Court over environmental concerns amid industry experts citing expensive tariff.
+
+Sri Lanka’s interim government has sought time from the court to review Adani’s wind power deal in the island nation’s north-western coastal town of Mannar, as several legal cases are ongoing, Cabinet Spokesman Vijitha Herath said last week.
+
+Before the presidential election the NPP said it will approve any projects without open tenders and review the Adani project approved under the previous government.
+
+...
+
+[Data](articles/b071e229.json)
+
+[Extended Data](ext_articles/b071e229.ext.json)
+
+---
+
 ### 22 children hospitalized at a Balangoda school
 
 *2024-10-25 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202547) · `si`
@@ -1976,6 +2112,26 @@ Today: RBI announces currency exchange rates. US Dollar buying price: ₹289.154
 
 ---
 
+### Sri Lanka given diesel saving fishing boat tech, advanced cooling to cut fish loss: FAO
+
+*2024-10-25 12:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-given-diesel-saving-fishing-boat-tech-advanced-cooling-to-cut-fish-loss-fao-184884/) · `en`
+
+ECONOMYNEXT – The Food and Agricultural Organization and Norway have designed a bow which can be retrofitted to Sri Lanka’s multi-day fishing boats to cut fuel use, and also launched cooling system to cut fish losses.
+
+Sri Lanka multi-day fishing boats typically carry ice to cool fish. This practice compromises quality, leading to post-harvest losses.
+
+This results in an average quality loss of 41.4 percent in the catch from Sri Lanka’s multi-day fisheries, according to the Fish Loss and Waste (FLW) Assessment conducted by FAO in 2022–2023.
+
+To address this challenge, FAO has installed an advanced cooling system on a newly constructed multi-day fishing vessel to ensure fish are kept at optimal temperatures throughout the voyage.
+
+“This technology strengthens the resilience of fishing operations, ensuring higher-quality fish products reach the market while reducing waste and spoilage,” FAO said in a statement.
+
+...
+
+[Data](articles/79123db1.json)
+
+---
+
 ### Various military plans to face Israel's attacks - Iran's Spiritual Leader Order to Prepare Complete War - New York Times
 
 *2024-10-25 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197081) · `ta`
@@ -2337,161 +2493,5 @@ He said this while attending a media briefing in Colombo.
 [Data](articles/fd947fb6.json)
 
 [Extended Data](ext_articles/fd947fb6.ext.json)
-
----
-
-### Two women were injured with sharp weapons in Panadura
-
-*2024-10-25 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197055) · `ta`
-
-Two women hurt in Panadura attack. Masked men used sharp weapons. Police suspect drug trafficking link. Women treated at Panadura Base Hospital with severe hand and foot injuries.
-
-🟩
-
-Police said that the two men who had been masked, had been attacked by sharp weapons, breaking the door of a house in Panadura area.
-
-Police suspect that the attack may have been due to the contradiction of drug trafficking.
-
-The two injured women are being treated at the Panadura Base Hospital, police said.
-
-A hospital spokesman said that the two women who were injured were severely injured in their hands and feet.
-
-◼️
-
-[Data](articles/30f9e18b.json)
-
-[Extended Data](ext_articles/30f9e18b.ext.json)
-
----
-
-### The decisions of the scholarship examination will further delay
-
-*2024-10-25 11:10:25* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-විභාගයේ-තීන්දු-තීරණ-තවදුරටත්-පමා-වෙයි/11-412681) · `si`
-
-Scholarship exam delays due to petitions over price decisions. Protests filed by November 5th, analysis deadline set for November 12th.
-
-🟩
-
-The Mahalisena has fundamental rights petitions have been filed to be summoned by the petition as a petition demanding the prices of the decision to be able to provide full marks for three questions.
-
-Protests have been issued to file them before November 05. The relevant analysis has also been ordered to file ahead of November 12.
-
-◼️
-
-[Data](articles/5fc50e7f.json)
-
-[Extended Data](ext_articles/5fc50e7f.ext.json)
-
----
-
-### I will meet soon
-
-*2024-10-25 11:06:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவை-விரைவில்-சந்திப்பேன்/175-346031) · `ta`
-
-Douglas Devananda meets President Anura Kumara Dissanayake to discuss Sri Lankan-India fishermen issue.
-
-🟩
-
-"I will meet President Anura Kumara Dissanayake soon to discuss the issue of Sri Lankan-India fishermen," said Douglas Devananda, Secretary-General of the EPDP.
-
-He said this while attending a media briefing in Colombo.
-
-◼️
-
-[Data](articles/a87702ff.json)
-
-[Extended Data](ext_articles/a87702ff.ext.json)
-
----
-
-### Tense situation near Pamunugama Police over assault of arrested youths
-
-*2024-10-25 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102916/tense-situation-near-pamunugama-police-over-assault-of-arrested-youths) · `en`
-
-A group of local residents had protested in front of the Pamunugama Police Station last evening (24) claiming that two youths arrested by the police were brutally assaulted.
-
-Accordingly, a tense situation had prevailed near the police station last night, Ada Derana Reporter said.
-
-On Sunday (20), two individuals were arrested on suspicion of breaking into a house in the Bopitiya area of Pamunugama and stealing a gold necklace.
-
-The arrested youths aged 20 and 24 are residents of Pamunugama and Seththapaduwa areas.
-
-However, the parents and the villagers accuse the police officers of brutally assaulting these two youths, while asserting that the young men were not involved in the theft.
-
-Later, with the intervention of the OIC of Dungalpitiya Police Station, the assaulted individuals were admitted to the Ragama Teaching Hospital.
-
-With the assurance given by the Dungalpitiya OIC that justice would be served regarding the incident, the group had later dispersed.
-
-◼️
-
-[Data](articles/34be223f.json)
-
-[Extended Data](ext_articles/34be223f.ext.json)
-
----
-
-### Douglas is ready to cooperate with the Government of Anura
-
-*2024-10-25 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197066) · `ta`
-
-Douglas Devananda offers cooperation to Anura Kumara Dissanayake's government if it addresses Tamil issues. He predicts winning 4-5 seats to resolve Tamil political problems and past human rights violations.
-
-🟩
-
-The Eelam Democratic Party candidate Douglas Devananda said that if the government led by President Anura Kumara Dissanayake is working to address the basic, development and political issues of the Tamil people, they will cooperate with them.
-
-Douglas Devananda added that if we get 4 to 5 seats in the upcoming general election, we will be able to easily resolve the political issue of Tamils ​​and the violations of human rights in the past.
-
-◼️
-
-[Data](articles/7adf9e75.json)
-
-[Extended Data](ext_articles/7adf9e75.ext.json)
-
----
-
-### Petition demanding to reject Ranjan's nomination
-
-*2024-10-25 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202541) · `si`
-
-Supreme Court petitions rejection of Ranjan Ramanayake's UPFA nomination for general election. Requests denial of parliamentary seat and voting rights. Presented by Mahinda Senanayake, names Elections Commission and officials as respondents.
-
-🟩
-
-For the next general election, the Supreme Court has filed a petition to the Supreme Court demanding the rejecting of former MP Ranjan Ramanayake for the UPFA.
-
-Ranjan Ramanayake is also requested that there is no decision that there is no claim to seat and vote in Parliament.
-
-Independent groups candidate for Gampaha District KM. The petition has been presented by Mahinda Senanayake.
-
-The Elections Commission and its members, Ranjan Ramanayake, Gampaha District Referral Officer have been named as its respondents.
-
-◼️
-
-[Data](articles/7f37c4b0.json)
-
-[Extended Data](ext_articles/7f37c4b0.ext.json)
-
----
-
-### The President will meet the Ambassadors and the EU representatives
-
-*2024-10-25 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197063) · `ta`
-
-President Anura Kumara Dissanayake meets ambassadors and EU reps. Discusses strengthening bilateral ties, increasing cooperation in key sectors. Aims to enhance diplomatic, economic, political, and social relations globally.
-
-🟩
-
-President Anura Kumara Dissanayake will hold talks with South Africa and New Zealand High Commission, Iran and Myanmar Ambassadors and a delegation of the EU.
-
-The purpose of this discussion is to strengthen bilateral relations with those countries and examine the next steps to be taken to increase cooperation in many key sectors.
-
-Sri Lanka is still dedicated to maintaining strong international partnerships and the president's expectation is to improve diplomatic relations, economic, political and social cooperation with all the countries of the world.
-
-◼️
-
-[Data](articles/11fa2830.json)
-
-[Extended Data](ext_articles/11fa2830.ext.json)
 
 ---

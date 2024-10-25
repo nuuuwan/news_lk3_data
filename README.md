@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 05:24:01**
+As of **2024-10-25 05:45:39**
 
 ## Newspaper Stats
 
-*Scraped **51,255** Articles*
+*Scraped **51,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ dailymirrorlk | 4,733
 adalk | 4,774
 adaderanalk | 6,069
 tamilmirrorlk | 7,062
-virakesarilk | 8,237
+virakesarilk | 8,240
 adaderanasinhalalk | 8,895
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,255 (100.0%) of 51,255 articles have been extended.
+51,258 (100.0%) of 51,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### To get the rights to the Liberation Tigers of Tamil Eelam (LTTE)
+
+*2024-10-25 03:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197046) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil Liberation Tigers of Tamil Eelam (LTTE) seeks rights through Tamil National Alliance (TNA). LTTE leader calls for pure parliament and opposition party. Supports Udayasuriyan symbol for Tamil Muslim community. Criticizes use of conch symbol in presidential election but not in general elections. Proposes new alliance and symbol for Sri Lanka's future.
+
+🟩
+
+We will voice together to obtain the rights of losing. Former Nuwara Eliya district parliamentarian and media spokesman for Tamil Liberation Tigers of Tamil Eelam (LTTE), Mayilwakanam Tilakarajah said that we will take the TNA in the hands of our great leaders.
+
+He was speaking at a media briefing held in Vavuniya on Thursday (24).
+
+The two flags that led to the regime in this country have been important in the past. That is, the presidents were the flowers of the United National Party, which began at the beginning of the United National Party (SLFP) and then in different forms.. The current president has been found as a new venture as a plant that occasionally assisted the flags.
+
+There is no parliamentary authority to take legal principles to establish democracy in this country, except for the creation of an individual with the executive power of the executive power.
+
+...
+
+[Data](articles/d26fb128.json)
+
+[Extended Data](ext_articles/d26fb128.ext.json)
+
+---
 
 ### வரி செலுத்தாத நிறுவன பணிப்பாளருக்கு சிறை
 
@@ -53,6 +81,58 @@ The District Magistrate has also ordered that if you fail to pay taxes, he will 
 [Data](articles/3315bf27.json)
 
 [Extended Data](ext_articles/3315bf27.ext.json)
+
+---
+
+### I strongly condemn the lie that I have left the party - P.Ariyanethran
+
+*2024-10-25 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197045) · `ta`
+
+PA Ariyanethran denies leaving TNA, condemns false claims. He continues to campaign for TNA candidates despite not attending meetings due to party rules.
+
+🟩
+
+Former parliamentarian and presidential candidate PA Ariyanethran said that I strongly condemn the lie that I had left the party.
+
+I have not left the party so far.
+
+He was responding to a question raised by the journalist regarding the comment he had removed from the TNA.
+
+I have not been left from the party so far. Accordingly, I have sent the answer.
+
+I am still acting for the development of the TNA. According to the Central Committee resolution, a decision has been taken not to attend the Tamil National Alliance (TNA) meetings.I did not attend any of the meetings.
+
+I am carrying out campaigning with candidates for the victory of the TNA this time in the parliamentary election. It is my individual freedom that no one can forbid it.
+
+If you leave the party, there are many procedures according to the rules of the party.
+
+◼️
+
+[Data](articles/4567e4b4.json)
+
+[Extended Data](ext_articles/4567e4b4.ext.json)
+
+---
+
+### The US Ambassador assured Gajendrakumar in the upcoming general election
+
+*2024-10-25 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197044) · `ta`
+
+US Ambassador Julie Sung assures Tamil people: No political solution in upcoming Sri Lankan election. Meeting with TNA candidate Gajendrakumar Ponnambalam. US urged to embrace policy change and cooperate.
+
+🟩
+
+US Ambassador to Sri Lanka Julie Sung has assured Gajendrakumar Ponnambalam Ponnambalam that the Tamil people of Sri Lanka will never act on the political solution in the upcoming general election.
+
+The meeting between the US Ambassador to Sri Lanka Julie Sung and the Tamil National Alliance (TNA) Jaffna District candidates Gajendrakumar Ponnambalam and Selvarajah Gajendran, who is on an official visit to the Northern Province, held an official visit to the Northern Province at 9.00 am yesterday.
+
+During the meeting, US ambassador Julie Sung Gajandrakumar questioned Ponnambalam about the tendency of the new government headed by President Anura Kumara Dissanayake on the issue of Tamil people.. In response, he pointed out that although the government was identified as a national power, all the powers of making political decisions have the possibility of the Janatha Vimukthi Peramuna.
+
+...
+
+[Data](articles/6c7fdb77.json)
+
+[Extended Data](ext_articles/6c7fdb77.ext.json)
 
 ---
 
@@ -2259,75 +2339,5 @@ The mothers of the disappeared in Vavuniya have announced that Kamala Harris wil
 [Data](articles/14f944a2.json)
 
 [Extended Data](ext_articles/14f944a2.ext.json)
-
----
-
-### Bomb threat
-
-*2024-10-24 15:31:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஸ்தாரா-விமானத்தில்-வெடிகுண்டு-அச்சுறுத்தல்/175-345992) · `ta`
-
-Vistara flight UK-131 from Mumbai lands at Katunayake airport. Airbus A-320 carries 108 passengers and 8 crew members. Bomb threat reported.
-
-🟩
-
-The Vistara flight arrived at the Katunayake airport from Mumbai, India, which was reportedly landed on Thursday afternoon.
-
-The UK-131 Vistara Airlines flight from Mumbai, India, arrived at the Katunayake airport at 02.56 pm.
-
-The Airbus A-320 aircraft has 108 passengers and 08 employees.
-
-◼️
-
-[Data](articles/d13961a7.json)
-
-[Extended Data](ext_articles/d13961a7.ext.json)
-
----
-
-### Mullaitivu District Government Agent
-
-*2024-10-24 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/196997) · `ta`
-
-Keppapilavu residents meet Mullaitivu District Government Agent. ECDO hands over land to secretariat. Governor visits, discusses land issue. Residents protest, demand land release. Military controls remaining lands. Northern Province Governor meets locals, facilitates land handover.
-
-🟩
-
-The people of Keppapilavu ​​met with the Mullaitivu District Government Agent A. Umamakeswaran on Thursday (24) morning to release the land of Mullaitivu - Keppapulavu.
-
-The Environmental and Social Development Institute (ECDO) and Keppapilavu ​​Villagers have handed over to the Mullaitivu District Secretariat to the Mullaitivu District Secretariat.
-
-The Governor of the Mullaitivu District Secretariat said that the Governor's visit to the Mullaitivu District Secretariat on the 8th of this month and that the matter was being talked about.
-
-The people later told the media that they had lost their lands for years and lived amidst difficulties and that there were many protests and that the government should take steps to release their lands soon.
-
-Although the lands of the people of Keppapulavu have been released, the lands of the people are still under military control and action should be taken to release it.
-
-...
-
-[Data](articles/bbdb6f56.json)
-
-[Extended Data](ext_articles/bbdb6f56.ext.json)
-
----
-
-### Status relief in the next few days - Vijitha
-
-*2024-10-24 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202512) · `si`
-
-Sri Lanka Defense Minister Vijitha Herath: Situation improving soon. US warnings may lift. Tourism unaffected. Security measures in place. No threat to citizens.
-
-🟩
-
-People's Defense Minister Vijitha Herath says that the situation is available in the next few days.
-
-He was speaking at a special press conference held at the Ministry of Defense today (24).
-
-"We restore this position in a few days. Then you can withdraw the warning message that has been provided in the United States and several other countries. They have already been satisfied with the actions we took. So they have faith in their parties to send their country's citizens to tourism in our country. Tourist arrivals have not been a stop. Israel had come to Sri Lanka in Sri Lanka. Those who come are free of their travel activities. They do not obstruct. So we have already controlled. All the steps we should take has been taken. So there is no need to make any kind of interest. It was not reported that it would be celebrated targeting the citizens of our country national. Therefore, such a situation should not be unduly afraid.
-
-...
-
-[Data](articles/036da891.json)
-
-[Extended Data](ext_articles/036da891.ext.json)
 
 ---

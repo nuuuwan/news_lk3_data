@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 18:59:58**
+As of **2024-10-25 19:39:35**
 
 ## Newspaper Stats
 
-*Scraped **51,386** Articles*
+*Scraped **51,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,139 @@ islandlk | 3,049
 economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
-adalk | 4,783
-adaderanalk | 6,083
-tamilmirrorlk | 7,094
-virakesarilk | 8,268
-adaderanasinhalalk | 8,923
+adalk | 4,784
+adaderanalk | 6,085
+tamilmirrorlk | 7,095
+virakesarilk | 8,270
+adaderanasinhalalk | 8,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,386 (100.0%) of 51,386 articles have been extended.
+51,393 (100.0%) of 51,393 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Man arrested trying to sell 10kg of ambergris for Rs. 200 million
+
+*2024-10-25 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102928/man-arrested-trying-to-sell-10kg-of-ambergris-for-rs-200-million) · `en`
+
+An individual has been arrested while allegedly attempting to sell 10 kilograms of ‘Ambergris’ estimated to be worth around Rs. 200 million, police said.
+
+The suspect has been arrested by officers of the Western Province (North) Police Crimes Division and the Sri Lanka Air Force in the Ragama area.
+
+Ambergris, also called grey amber or whale vomit, is created by the bile duct of the sperm whale and is often referred to as “floating gold” due to the immense price it fetches in the international market for its use in luxury perfumes.
+
+◼️
+
+[Data](articles/59cc0692.json)
+
+[Extended Data](ext_articles/59cc0692.ext.json)
+
+---
+
+### 2nd Test against India: New Zealand
+
+*2024-10-25 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/197123) · `ta`
+
+India vs New Zealand 2nd Test summary: NZ leads after strong batting performance. Taven Konway and Rachin Ravindra scored half-centuries. Washington Sundar took 7 wickets for 59 runs. India struggled in both innings, losing key players including Rohit Sharma and Virat Kohli.
+
+🟩
+
+இந்தியாவுக்கும் நியூஸிலாந்துக்கும் இடையில் பூனே, மஹாராஷ்டிரா கிரிக்கெட் சங்க விளையாட்டரங்கில் நடைபெற்றுவரும் இரண்டாவது டெஸ்ட் கிரிக்கெட் போட்டியில் நியூஸிலாந்து பலம்வாய்ந்த நிலையில் இருக்கிறது.
+
+New Zealand, which has been in the first innings in the first innings, has increased that number to 301 runs.
+
+New Zealand, who first chose the first match in the upcoming upcoming match on Thursday (24), scored 259 runs in the first innings.
+
+Taven Konway (76) and Rachin Ravindra (65) were both capable of scoring half -centuries.
+
+கொன்வேயுடன் 3ஆவது விக்கெட்டில் 62 ஓட்டங்களையும் டெரில் மிச்செலுடன் 4ஆவது விக்கெட்டில் 59 ஓட்டங்களையும் ரச்சின் ரவிந்த்ரா பகிர்ந்தார்.
+
+தனது 5ஆவது டெஸ்ட் போட்டியில் விளையாடும் சுழல்பந்துவீச்சாளர் வொஷிங்டன் சுந்தர் 59 ஓட்டங்களுக்கு 7 விக்கெட்களை வீழ்த்தி தனது அதிசிறந்த டெஸ்ட் பந்துவீச்சுப் பெறுதியைப் பதிவுசெய்தார். This is his first 5 wicket pile.
+
+...
+
+[Data](articles/4f611281.json)
+
+[Extended Data](ext_articles/4f611281.ext.json)
+
+---
+
+### Israeli strikes kill 38 people in Gaza’s Khan Younis and 3 journalists in southern Lebanon
+
+*2024-10-25 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102927/israeli-strikes-kill-38-people-in-gazas-khan-younis-and-3-journalists-in-southern-lebanon) · `en`
+
+Israeli strikes killed 38 people in Gaza and three journalists in Lebanon on Friday as growing worries about supply shortages in Gaza and international pressure for a cease-fire mounted.
+
+The deaths reported by Gaza health officials were the latest in the southern Gaza city of Khan Younis, where people have in recent days lined up for bread outside the city’s only bakery in operation.
+
+They come a day after United States Secretary of State Antony Blinken said that Israel had accomplished its objective of “effectively dismantling” Hamas and implored both sides to revive negotiations.
+
+Also on Friday, an Israeli airstrike on guesthouses where journalists were staying in southeast Lebanon killed three media staffers working for news outlets that are seen as aligned with Lebanon’s Hezbollah group and its patron, Iran.
+
+Outside of now-collapsed buildings rented by various media outlets, cars marked “PRESS” lay covered in dust and rubble after the strike, Associated Press photos showed.
+
+...
+
+[Data](articles/fb1d3681.json)
+
+[Extended Data](ext_articles/fb1d3681.ext.json)
+
+---
+
+### Court of Appeal about Johnston's petition
+
+*2024-10-25 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202557) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Court of Appeal summons writ petition Nov 5. Former Minister Joneston Fernando's case adjourned. Petitioner remanded till Nov 30. Additional documents submitted to verify allegations. Judge orders CID to complete investigations by Nov 30.
+
+🟩
+
+The Court of Appeal was set to summon the writ petition on November 5 to ensure the writing of former Minister Joneston Fernando to issue an order to issue an order.
+
+මෙම පෙත්සම අද (25) අභියාචනාධිකරණ විනිසුරු මොහොමඩ් ලෆාර් තාහීර් සහ පී. The Court of Appeal consisting of Kumaran Ratnam was called before the judge.
+
+Attorney at Law Amila Palliage appearing on behalf of the petitioner, Mr. Amila Palliage said that his client was presented to the Criminal Investigation Department and remanded until the 30th of this month.
+
+The Magistrate's Court has ordered the Criminal Investigation Department to finish the tests that day.
+
+ඒ අනුව මෙම නඩුකරයට අදාළ අමතර ලේඛනද අධිකරණයට ඉදිරිපත් කර මෙම පෙත්සම කරුණු තහවුරු කිරීමට තමන් අපේක්ෂා කරන බවත් ඒ සඳහා දිනයක් ලබාදෙන ලෙසත් නීතිඥවරයා ඉල්ලා සිටියේය.
+
+ඒ අනුව අදාල පෙත්සම නොවැම්බර් මස 05 වනදා කැඳවීමට නියෝග කළ අභියාචනාධිකරණ විනිසුරු මඩුල්ල එදින කරුණු තහවුරු කිරීමට පියවර ගන්නා ලෙසත් නියෝග කළේය.
+
+◼️
+
+[Data](articles/ecf29732.json)
+
+[Extended Data](ext_articles/ecf29732.ext.json)
+
+---
+
+### Emergency withdrawal in Katunayake
+
+*2024-10-25 18:41:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்கவில்-அவசர-நிலை-வாபஸ்/175-346055) · `ta`
+
+Katunayake airport emergency: Bomb threat forces evacuation of Indian Vistara flight.
+
+🟩
+
+The emergency has been withdrawn at the Katunayake Bandaranaike International Airport due to a bomb threat on the Indian Vistrah aircraft.
+
+◼️
+
+[Data](articles/1781caf6.json)
+
+[Extended Data](ext_articles/1781caf6.ext.json)
+
+---
 
 ### Workshop to solve the price of rice
 
@@ -177,6 +295,34 @@ In this song, Arjun Das, the hero of the story, appeared as a singer on the stag
 [Data](articles/9aa3a3a5.json)
 
 [Extended Data](ext_articles/9aa3a3a5.ext.json)
+
+---
+
+### பல்வேறு திருட்டு சம்பவங்களுடன் தொடர்புடைய அறுவர் கைது
+
+*2024-10-25 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197108) · `ta`
+
+Six suspects arrested for various thefts. Three caught with drugs. Court orders police investigation. Stolen motorcycles found in several areas.
+
+🟩
+
+பல்வேறு திருட்டு சம்பவங்களுடன் தொடர்புடைய ஆறு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக யக்கலை பொலிஸார் தெரிவித்தனர்.
+
+யக்கலை பொலிஸ் பிரிவுக்குட்பட்ட பிரதேசத்தில் கடந்த 20 மற்றும் 21 ஆம் திகதிகளில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் பல்வேறு போதைப்பொருட்களுடன் மூன்று சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+இதனையடுத்து, சந்தேக நபர்கள் மூவரும் கம்பஹா நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட பின்னர் சந்தேக நபர்களை பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை நடத்துமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+Investigations carried out by the suspects have found that 06 motorcycles stolen in the areas of Wellampitiya, Minuwangoda, Dematagoda, Grandpass and Giripathkoda police divisions.
+
+Three more suspects have been arrested by the Yakkalai police in Nungamuwa and Pallewela areas on the 23rd of this month.
+
+கைது செய்யப்பட்டவர்கள் குபல்ஒலுவ மற்றும் பல்லேவெல பகுதியைச் சேர்ந்த 21 , 23 மற்றும் 37 வயதுடையவர்கள் ஆவர்.
+
+◼️
+
+[Data](articles/8f6ad681.json)
+
+[Extended Data](ext_articles/8f6ad681.ext.json)
 
 ---
 
@@ -1043,6 +1189,30 @@ Relatives of the missing during the JV's rebellion in 1988-89 made this request.
 [Data](articles/11141334.json)
 
 [Extended Data](ext_articles/11141334.ext.json)
+
+---
+
+### Travelers of Dambulla are filled with protection
+
+*2024-10-25 14:20:03* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ලේ-විදෙස්-සංචාරකයෝ-පිරිලා---ආරක්ෂාව-තර-කරයි/11-412687) · `si`
+
+Here's a 200-character summary:
+
+
+
+Dambulla sees surge in foreign tourists. Police implement strict security measures around tourist areas, temples, hotels. Special patrols and emergency response protocols in place. Tourists report feeling protected and enjoying visits.
+
+🟩
+
+විදේශීය සංචාරකයන්ගේ පැමිණීමේ සීඝ්ර වර්ධනයත් සමඟ දඹුල්ල නගරයේ සහ දඹුල්ල අවට සංචාරකයන් ගැවසෙන ප්රදේශවල 25 අළුයම සිට දැඩි ආරක්ෂක වැඩපිළිවෙළක් ක්රියාත්මක කළ බව මාතලේ ජ්යෙෂ්ඨ පොලිස් අධිකාරී රෝහණ ගමගේ මහතා පැවසීය
+
+According to the Rangiri Dambulu Rajamaha Viharaya, including the Rangiri Dambulu Rajamaha Viharaya, including the Rangiri Dambulu Rajamaha Viharaya and a large number of foreign tourists in various parts of the city, has been implemented throughout the country.
+
+...
+
+[Data](articles/ff1bbd43.json)
+
+[Extended Data](ext_articles/ff1bbd43.ext.json)
 
 ---
 
@@ -2361,181 +2531,5 @@ It is noteworthy that CEB has submitted a proposal to reduce electricity tariffs
 [Data](articles/5352c1bb.json)
 
 [Extended Data](ext_articles/5352c1bb.ext.json)
-
----
-
-### Australia provided surveillance flight to Sri Lanka
-
-*2024-10-25 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197049) · `ta`
-
-Australia provides surveillance aircraft to Sri Lanka. The Air Force receives Australian Air Force Surveillance Air 350 and Beechcraft King Air 350. These aircraft enhance maritime surveillance capabilities, contributing to regional security and stability. The collaboration strengthens ties between Australia and Sri Lanka, supporting anti-human trafficking efforts and maintaining peace in the Indian Ocean region.
-
-🟩
-
-Australia has provided free Australian Australian Air Force Surveillance Air 350, Beechcraft King Air 350.
-
-The aircraft will expand the Air Force's Air Force Maritime Surveillance and Intelligence and contribute to Sri Lanka's continued efforts to maintain a peaceful and secure Indian Ocean region.
-
-The Sri Lankan Air Force has said that the Australian aircraft has given Sri Lanka a strong coalition between the two countries and strengthening human trafficking and improvement of regional stability.
-
-◼️
-
-[Data](articles/0f02e44e.json)
-
-[Extended Data](ext_articles/0f02e44e.ext.json)
-
----
-
-### Threatening to break the Batticaloa Court
-
-*2024-10-25 09:03:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பு-நீதிமன்றத்தை-தகர்கப்-போவதாக-அச்சுறுத்தல்/73-346026) · `ta`
-
-Batticaloa court threatened; police increase security after bomb threat. Special patrols deployed. Case documents related to Zayon Devalaya suicide bombing stored in court building.
-
-🟩
-
-The Batticaloa court building was threatened last night (24).
-
-A special security measures have been carried out in the area due to this intimidation.
-
-A phone call to the court registrar had arrived last night that he was going to bomb the court building.
-
-Following this, police officers visited the court building and were taken to the area around the building.
-
-In addition, special police patrols in the area are also under surveillance.
-
-Meanwhile, the case of many and main masterminds suspected of being ISIS of Zayon Devalaya suicide bombing in Batticaloa is being filed in the court and the documents of the case have been placed in the repository of the court building.
-
-◼️
-
-[Data](articles/54c70fb3.json)
-
-[Extended Data](ext_articles/54c70fb3.ext.json)
-
----
-
-### Threatening to bomb the Batticaloa Court
-
-*2024-10-25 09:03:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பு-நீதிமன்றத்துக்கு-வெடிகுண்டு-வைக்கப்போவதாக-அச்சுறுத்தல்/73-346026) · `ta`
-
-Batticaloa court threatened with bombing. Special security measures implemented. Police investigation ongoing. Case documents related to ISIS suspects stored in court building.
-
-🟩
-
-The Batticaloa court building was threatened last night (24).
-
-A special security measures have been carried out in the area due to this intimidation.
-
-A phone call to the court registrar came last night that he was going to bomb the court building.
-
-Following this, police officers visited the court building and were taken to the area around the building.
-
-In addition, special police patrols in the area are also under surveillance.
-
-Meanwhile, the case of many and main masterminds suspected of being ISIS of Zayon Devalaya suicide bombing in Batticaloa is being filed in the court and the documents of the case have been placed in the repository of the court building.
-
-◼️
-
-[Data](articles/c4a333b0.json)
-
-[Extended Data](ext_articles/c4a333b0.ext.json)
-
----
-
-### Namal demands people's support
-
-*2024-10-25 08:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களின்-ஆதரவை-கோருகிறார்-நாமல்/175-346024) · `ta`
-
-Namal Rajapaksa urges support for SLPP in Parliament elections. He claims his party is the only one representing people's voices. The SLPP inaugurated a new office in Matale, attended by party members.
-
-🟩
-
-Namal Rajapaksa has said that it is only the Sri Lanka Peoples Freedom Alliance (PA) to voice the voice for the people and that the people should support more seats in Parliament.
-
-The Sri Lanka PA has opened the Matale constituency office under the leadership of Namal Rajapaksa and a group of party activists was also present at the event.
-
-◼️
-
-[Data](articles/376210d2.json)
-
-[Extended Data](ext_articles/376210d2.ext.json)
-
----
-
-### State attention to establish digital zones
-
-*2024-10-25 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202534) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Prime Minister Dr. Harini Amarasuriya emphasizes digitizing state services and developing ICT policies. Focuses on Jaffna, Matara, and Eastern regions. Aims to foster relationships between international tech firms and local innovations. Prioritizes improving ICT education and supporting women in the digital sector."
-
-🟩
-
-Prime Minister Dr. Harini Amarasuriya says that the state service should be digitized to formulate and formalize the public service.
-
-The Prime Minister made this observation addressing the Information Technology National Awards held for the 26th Anniversary of the Information Technology Institute of IT in Sri Lanka.
-
-Prime Minister Dr. Harari Amarasuriya said that the present government had a clear vision to digitize the present government.
-
-The Prime Minister said that the country needs a policy based policy based on the development of the ICT industry, a policy based on a digital economy.
-
-Accordingly, the government has focused on Jaffna, Matara and Eastern central regions.
-
-The Prime Minister said that the Information Technology National Awards will also be required to establish a relationship between international digital companies and local ICT innovations.
-
-He also pointed out that the improvement of ICT education, facilitating and providing necessary allowances for professionals.
-
-...
-
-[Data](articles/2eec7954.json)
-
-[Extended Data](ext_articles/2eec7954.ext.json)
-
----
-
-### Australia delivered a flight to Sri Lanka
-
-*2024-10-25 08:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-விமானம்-வழங்கிய-அவுஸ்திரேலியா/175-346023) · `ta`
-
-Australia gifts Beechcraft King Air 350 to Sri Lanka Air Force. Aircraft enhances maritime surveillance capabilities, strengthens bilateral ties, and supports anti-human trafficking efforts in the Indian Ocean region.
-
-🟩
-
-The Australian government has provided the Sri Lanka Air Force (SLAF) Beechcraft King Air 350 Royal Australian Air Force Surveillance.
-
-The aircraft will expand the Air Force's Air Force Maritime Surveillance and Intelligence and contribute to Sri Lanka's continued efforts to maintain a peaceful and secure Indian Ocean region.
-
-The Sri Lanka Air Force has said that Australia's giving of this aircraft to Sri Lanka emphasizes the strongest partnership between the two countries and strengthening human trafficking to fight human trafficking and enhance regional stability.
-
-◼️
-
-[Data](articles/4a713a9a.json)
-
-[Extended Data](ext_articles/4a713a9a.ext.json)
-
----
-
-### Don't politicize the survival Sunday attack reports - Ranil in a special statement
-
-*2024-10-25 08:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197048) · `ta`
-
-Ranil Wickremesinghe urges against politicizing Easter Sunday attacks. He released a statement saying the AMJDA Alvis Report wasn't made to target Ravi Seneviratne or Shanani Abayasekara. The report was received during his presidency but kept private due to no political intent.
-
-🟩
-
-Former President Ranil Wickremesinghe has appealed for not politicizing the survival Sunday attacks
-
-He issued a special report and said that the AMJDA Alvis Report was not prepared to avenge the current Secretary of the Ministry of Public Security Ravi Seneviratne nor Shanani Abayasekara, former director of the Cijadi.
-
-I received the report during the presidential election, but the former president said that I did not make the report public because of the lack of intention to relate the resurrection Sunday attack with politics.
-
-◼️
-
-[Data](articles/835d93cf.json)
-
-[Extended Data](ext_articles/835d93cf.ext.json)
 
 ---

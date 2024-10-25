@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 16:39:27**
+As of **2024-10-25 16:57:20**
 
 ## Newspaper Stats
 
-*Scraped **51,367** Articles*
+*Scraped **51,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,782
 adaderanalk | 6,081
-tamilmirrorlk | 7,087
-virakesarilk | 8,264
+tamilmirrorlk | 7,088
+virakesarilk | 8,265
 adaderanasinhalalk | 8,918
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,366 (100.0%) of 51,367 articles have been extended.
+51,369 (100.0%) of 51,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Special test at the Batticaloa Court Complex
+
+*2024-10-25 16:32:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பு-நீதிமன்ற-வளாகத்தில்-விசேட-சோதனை/175-346051) · `ta`
+
+Batticaloa Court Complex under siege: STF and police conduct raid after threat letters received. Security heightened; investigation ongoing.
+
+🟩
+
+The Batticaloa Police and the Special Task Force (STF) are conducting a special raid on the premises this morning, as it was warned that the attack on the Batticaloa court premises could be carried out.
+
+In three days of October 24, 25 or 28, letters have been announced by the Batticaloa court premises.
+
+Two letters have been sent to the Deputy Inspector General of Police in Batticaloa and the Batticaloa Magistrate.
+
+Accordingly, the Batticaloa Police and the Special Task Force (STF) took steps to check the campus this morning.
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that there was nothing suspicious on the premises.
+
+Police said the letters were sent from the Batticaloa post office to the registration post and that investigations are underway regarding the parties who sent letters.
+
+The security of the Batticaloa court complex has been strengthened and two police teams are involved in an investigation into the incident.. Remble
+
+◼️
+
+[Data](articles/5322fc14.json)
+
+[Extended Data](ext_articles/5322fc14.ext.json)
+
+---
+
+### School students in Balangoda suddenly admitted to hospital
+
+*2024-10-25 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197098) · `ta`
+
+Balangoda school incident: 22 students hospitalized after cleaning toilets with chemicals.
+
+🟩
+
+22 students who are studying at a school in Balangoda have been admitted to the hospital, police said.
+
+Students who are ill have cleaned the school's toilet this morning using some chemicals.
+
+◼️
+
+[Data](articles/02f16952.json)
+
+[Extended Data](ext_articles/02f16952.ext.json)
+
+---
 
 ### President assures strengthened security protocols across Sri Lanka’s key tourist areas
 
@@ -1376,6 +1426,8 @@ This becomes problematic because we are expecting ‘corrupt politicians’ to a
 
 [Data](articles/8132942e.json)
 
+[Extended Data](ext_articles/8132942e.ext.json)
+
 ---
 
 ### Sri Lanka cricket team crucial
@@ -2477,53 +2529,5 @@ During the meeting, US ambassador Julie Sung Gajandrakumar questioned Ponnambala
 [Data](articles/6c7fdb77.json)
 
 [Extended Data](ext_articles/6c7fdb77.ext.json)
-
----
-
-### Accident in Mannar Madhu Brahmanalangulam area;One injury
-
-*2024-10-25 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/197043) · `ta`
-
-Accident in Mannar: Three-wheeler crash injures one. Driver rescued, hospitalized. Police investigating.
-
-🟩
-
-A three -wheeler involved in the BAN business in the Vavuniya Chettikulam Menikpam area on Thursday evening (24)
-
-The driver of the three -wheeler, who was injured in the accident, was rescued with the help of the public and was taken to the Paramanalangulam Poovarasankulam Hospital.
-
-A three -wheeler from Chettikulam Menikpam area crashed into a vehicle parked at 500 meters from junction.
-
-It is noteworthy that the police are conducting further investigations into the accident.
-
-◼️
-
-[Data](articles/317f009d.json)
-
-[Extended Data](ext_articles/317f009d.ext.json)
-
----
-
-### Preliminary Discussion with Divisional Secretaries on Parliamentary Elections
-
-*2024-10-25 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197042) · `ta`
-
-Discussion between Divisional Secretaries and Election Officials regarding rising invalid votes in Jaffna district. Meeting chaired by Jaffna District Government Agent Marudalingam Pradeepan. Assistant Commissioner of Elections K. Amalraj attended.
-
-🟩
-
-A discussion with the Divisional Secretaries on the 14th of this month was held at the Government Agent's Office at the Government Agent's Office under the patronage of Jaffna District Government Agent and Select Officer Marudalingam Pradeepan.
-
-Commenting on the issue, the officials of the Divisional Secretariat have asked the cooperation of the Divisional Secretariat to engage in the Divisional Secretariat, as the invalid votes in the Jaffna district are on the rise in the Jaffna district.
-
-The Divisional Secretariat Division was also investigated on the establishment of the Elections of the Divisional Secretariat in the Divisional Secretariats.
-
-Assistant Commissioner of Elections. K. Amalraj and all the Divisional Secretaries were present.
-
-◼️
-
-[Data](articles/d22b1bbf.json)
-
-[Extended Data](ext_articles/d22b1bbf.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 09:13:42**
+As of **2024-10-25 09:25:07**
 
 ## Newspaper Stats
 
-*Scraped **51,282** Articles*
+*Scraped **51,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 514
 bbccomsinhala | 520
 islandlk | 3,049
 economynextcom | 3,131
-dailyftlk | 3,506
+dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,776
 adaderanalk | 6,071
-tamilmirrorlk | 7,064
+tamilmirrorlk | 7,067
 virakesarilk | 8,243
 adaderanasinhalalk | 8,901
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 8,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,282 (100.0%) of 51,282 articles have been extended.
+51,286 (100.0%) of 51,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Threatening to break the Batticaloa Court
+
+*2024-10-25 09:03:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பு-நீதிமன்றத்தை-தகர்கப்-போவதாக-அச்சுறுத்தல்/73-346026) · `ta`
+
+Batticaloa court threatened; police increase security after bomb threat. Special patrols deployed. Case documents related to Zayon Devalaya suicide bombing stored in court building.
+
+🟩
+
+The Batticaloa court building was threatened last night (24).
+
+A special security measures have been carried out in the area due to this intimidation.
+
+A phone call to the court registrar had arrived last night that he was going to bomb the court building.
+
+Following this, police officers visited the court building and were taken to the area around the building.
+
+In addition, special police patrols in the area are also under surveillance.
+
+Meanwhile, the case of many and main masterminds suspected of being ISIS of Zayon Devalaya suicide bombing in Batticaloa is being filed in the court and the documents of the case have been placed in the repository of the court building.
+
+◼️
+
+[Data](articles/54c70fb3.json)
+
+[Extended Data](ext_articles/54c70fb3.ext.json)
+
+---
+
+### Namal demands people's support
+
+*2024-10-25 08:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களின்-ஆதரவை-கோருகிறார்-நாமல்/175-346024) · `ta`
+
+Namal Rajapaksa urges support for SLPP in Parliament elections. He claims his party is the only one representing people's voices. The SLPP inaugurated a new office in Matale, attended by party members.
+
+🟩
+
+Namal Rajapaksa has said that it is only the Sri Lanka Peoples Freedom Alliance (PA) to voice the voice for the people and that the people should support more seats in Parliament.
+
+The Sri Lanka PA has opened the Matale constituency office under the leadership of Namal Rajapaksa and a group of party activists was also present at the event.
+
+◼️
+
+[Data](articles/376210d2.json)
+
+[Extended Data](ext_articles/376210d2.ext.json)
+
+---
 
 ### State attention to establish digital zones
 
@@ -63,6 +111,28 @@ He also pointed out that the improvement of ICT education, facilitating and prov
 [Data](articles/2eec7954.json)
 
 [Extended Data](ext_articles/2eec7954.ext.json)
+
+---
+
+### Australia delivered a flight to Sri Lanka
+
+*2024-10-25 08:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-விமானம்-வழங்கிய-அவுஸ்திரேலியா/175-346023) · `ta`
+
+Australia gifts Beechcraft King Air 350 to Sri Lanka Air Force. Aircraft enhances maritime surveillance capabilities, strengthens bilateral ties, and supports anti-human trafficking efforts in the Indian Ocean region.
+
+🟩
+
+The Australian government has provided the Sri Lanka Air Force (SLAF) Beechcraft King Air 350 Royal Australian Air Force Surveillance.
+
+The aircraft will expand the Air Force's Air Force Maritime Surveillance and Intelligence and contribute to Sri Lanka's continued efforts to maintain a peaceful and secure Indian Ocean region.
+
+The Sri Lanka Air Force has said that Australia's giving of this aircraft to Sri Lanka emphasizes the strongest partnership between the two countries and strengthening human trafficking to fight human trafficking and enhance regional stability.
+
+◼️
+
+[Data](articles/4a713a9a.json)
+
+[Extended Data](ext_articles/4a713a9a.ext.json)
 
 ---
 
@@ -138,7 +208,11 @@ The Elections Commission has announced that 55,643 voters are eligible to vote i
 
 Three Chinese nationals suspected to be involved in online financial frauds have been arrested at Gintota in Galle, police said.
 
-Three mobile phones and five credit cards found in the possession of the suspects at the time of arrest have also been  taken into custody.
+Five mobile phones, four credit cards and a passport with no owner found in the possession of the suspects at the time of arrest have also been taken into custody.
+
+The arrests were made following a information received by Galle Police regarding three Chinese nationals suspected of engaging in online scams while staying at a hotel.
+
+Accordingly, three Chinese nationals, aged 33 and 38, were apprehended yesterday (24) at a hotel on Bope Road in the Gintota area of the Galle police division.
 
 ◼️
 
@@ -878,6 +952,26 @@ Fadna a renowned brand in Sri Lanka that has contributed to the well-being of th
 
 ### Sri Lanka needs stable exchange rate mechanism
 
+*2024-10-25 00:15:58* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-needs-stable-exchange-rate-mechanism/4-768383) · `en`
+
+Countries like ours should be exempted from requiring to maintain a strict floating rate of exchange
+
+(Source: IMF Country Report No. 23/116, March 2023, Calculated by the author of this essay)
+
+The IMF promotes a floating exchange rate mechanism. CBSL Governor Dr. Nandalal agrees with it, I think. Some economists too insist that CBSL cannot regulate the exchange rate, hence should allow the rupee to float. SJB has a different idea. They say that they allow first floating the currency to permit market forces to reveal the equilibrium rate, and then stabilising that rate through CBSL intervention. I am not sure about the ideological stance of President Anura Dissanayake as the Minister of Finance.
+
+The IMF never assumed that Sri Lanka should have a stable rate of exchange when they entered into an agreement to approve Extended Fund Facility (EFF) in March 2023. In this agreement the forecasted or estimated exchange rates were as given in the table.
+
+...
+
+[Data](articles/579aee58.json)
+
+[Extended Data](ext_articles/579aee58.ext.json)
+
+---
+
+### Sri Lanka needs stable exchange rate mechanism
+
 *2024-10-25 00:15:58* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-needs-stable-exchange-rate-mechanism/14-768383) · `en`
 
 Countries like ours should be exempted from requiring to maintain a strict floating rate of exchange
@@ -925,6 +1019,20 @@ These rules, while potentially useful in the long term, are impractical in the c
 [Data](articles/8b8809a0.json)
 
 [Extended Data](ext_articles/8b8809a0.ext.json)
+
+---
+
+### Review of SEC regulations on directors’ appointments
+
+*2024-10-25 00:10:43* · [`dailyftlk`](https://www.ft.lk/columns/Review-of-SEC-regulations-on-directors-appointments/4-768381) · `en`
+
+In 2023/24, the Securities and Exchange Commission (SEC) and CSE introduced a set of new regulations aimed at improving corporate governance. While some of these regulations were progressive, aligning certain listing rules with banking regulations—a move based on the assumption that companies, like banks, operate on public deposits—there are two specific rules that require immediate review.
+
+These rules, while potentially useful in the long term, are impractical in the current economic context, especially given the country’s default status. The situation is further complicated by policy uncertainty with Marxist ideologies influencing policy decisions, despite a shift in chamber, consultancy/audit firm executives from one administration to another like our Parliamentarians, perhaps giving new meaning to bipartisanship and serving the interest of the country.
+
+...
+
+[Data](articles/b2855319.json)
 
 ---
 
@@ -2205,117 +2313,5 @@ The suspect was 23 years old from Kotugachi.
 [Data](articles/b408df18.json)
 
 [Extended Data](ext_articles/b408df18.ext.json)
-
----
-
-### US Ambassador Jaffna. Visit to the university!
-
-*2024-10-24 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197023) · `ta`
-
-US Ambassador Julie Sung visits Jaffna University. She toured the "Agakam" intelligence center under the Social Synchronization and Reconciliation Project. Met with faculty, staff, and students from psychology and philosophy departments. Discussed ongoing projects and current situations with university officials.
-
-🟩
-
-US Ambassador to Sri Lanka Julie Sung and embassy officials this morning (24). They made an official visit to the university.
-
-By the US embassy, ​​the US. The US Ambassador -led delegation has visited the "Agakam" intelligence center under the Social Synchronization and Reconciliation Project, which is being carried out by the Department of Philosophy of the University of Jaffna.
-
-During this visit, with US Ambassador Julie Sung, the U.S.. Chief Officer Jayadevan Karthikeyan and Embassy Officers of Aid's Social Synchronization and Reconciliation Project. Senior Professor of Raghuram and High Degree Faculty. University officials and students of Psychology and Philosophy were also present, including Abirami Rajkumar, Head of the Department of Physics, Abirami Rajkumar, Senior Lecturer Dr. K. Kajavindan and Psychology Advisor R. Savitriti Devi.
-
-...
-
-[Data](articles/c05f1aef.json)
-
-[Extended Data](ext_articles/c05f1aef.ext.json)
-
----
-
-### Security has been strengthened in Colombo
-
-*2024-10-24 17:38:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-பாதுகாப்பு-பலப்படுத்தப்பட்டுள்ளது/175-345997) · `ta`
-
-Colombo strengthens security due to Israeli tourist threat. Special measures implemented around Sabad houses in Colombo, Augkam Kutta, Ella, Weligama areas. Police enhance security before embassy consultations. Minister Vijitha Herath launches early security measures in tourist areas.
-
-🟩
-
-Following a warning that Israeli tourists may be attacked, special security has been implemented around Sabad houses in many parts of the country, including Colombo.
-
-Accordingly, security has been enhanced near the Sabad houses in Colombo, Augkam Kutta, Ella and Weligama areas where Israel's tourists arrive.
-
-The police said that the area was provided with security before the consultation provided by the embassies.
-
-Minister Vijitha Herath said that special security measures have been launched early this month in the area where tourists are visiting Akkam Guda, Ella, Weligama and Ahungalla.
-
-◼️
-
-[Data](articles/e8698494.json)
-
-[Extended Data](ext_articles/e8698494.ext.json)
-
----
-
-### The honor of the military should also be available to plantation workers - Vadivel Suresh Pradeesh
-
-*2024-10-24 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197021) · `ta`
-
-Vadivel Suresh Pradeesh advocates for military honors for plantation workers during election campaign. He emphasizes workers' rights and respect, promising action if elected to parliament.
-
-🟩
-
-During the election campaign on Thursday evening at Lindulai Lipakkalai area, he held a discussion with the public with workers.
-
-Speaking on the occasion, Vadivel Suresh Pradeesh workers' salary issue is important but I cannot speak from home without going to parliament and a large number of youth from the hill country are working in Colombo.
-
-They do not have a protection, there is a lot of night schools in the past, but it has not been complete now, and it is now affected by the academic activity. No one can find the hardship workers and even a small drop of respect for them.Win and be elected as a Member of Parliament.
-
-Thus, if I win the parliamentary election and go to parliament, I will be able to make a compulsory respect for the military workers.
-
-Subsequently, Vadivel Suresh Pradeesh discussed with the people of the youth, their basic problems, women and plantation workers, their basic life problems, and their policies.
-
-◼️
-
-[Data](articles/9b375c3a.json)
-
-[Extended Data](ext_articles/9b375c3a.ext.json)
-
----
-
-### If Anura Kumara Dissanayake takes action, all the assets stolen in the country can be recovered within a year - Candidate Shanaka Senanayake
-
-*2024-10-24 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197008) · `ta`
-
-Candidate Shanaka Senanayake claims assets stolen in Sri Lanka can be recovered within a year under UN policies. He suggests writing to UN for implementation of asset recovery programs like STAR initiative. No action taken yet despite President's support.
-
-🟩
-
-The President is backing up to do it, even though it is easy to take steps to steal the assets hidden abroad in our country.. திருடப்பட்ட சொத்து மீட்பு செயற்திட்டத்தை எமது நாட்டில் உள்வாங்குமாறு கோரி ஜனாதிபதி அநுரகுமார திஸாநாயக்க ஐக்கிய நாடுகள் அமைப்புக்கு ஒரு கடிதம் அனுப்பினால் ஒரு வருடத்துக்குள் திருடப்பட்ட அனைத்து சொத்துக்களையும் மீள பெற்றுக்கொள்ள முடியும் என ஐக்கிய மக்கள் சக்தியின் கம்பஹா மாவட்ட வேட்பாளர் சட்டத்தரணி ஷானக்க சேனாநாயக்க தெரிவித்தார்.
-
-கொழும்பில் வியாழக்கிழமை (24) நடத்திய செய்தியாளர் சந்திப்பில் கலந்துகொண்டு இது தொடர்பில் கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-The United Nations allowed the anti -corruption policy plan in 2003. Our country has signed that policy plan.In Article 7 of the Policy Plan, there is a mechanism on how to recover the resources of solid assets in a country.
-
-...
-
-[Data](articles/61f5f186.json)
-
-[Extended Data](ext_articles/61f5f186.ext.json)
-
----
-
-### EXPLAINER – US warning over attack on Sri Lanka’s Eastern tourism hotspot
-
-*2024-10-24 17:35:00* · [`economynextcom`](https://economynext.com/explainer-us-warning-over-attack-on-sri-lankas-eastern-tourism-hotspot-184786/) · `en`
-
-ECONOMYNEXT – Since the United States Embassy in Colombo issued a travel warning on Wednesday, many countries including the United Kingdom, Israel, Australia, and Russia have also asked their nationals to be more cautious in travelling to Sri Lanka.
-
-Sri Lanka Police said it has already tightened security in Arugam Bay, a popular tourist destination for surfing in the island nation’s eastern coast.
-
-Here are some questions (Q) and answers (A) on the warning and the Sri Lanka government’s responses to possible security threats that could derail the island nation’s tourism boom in the peak season starting next month.
-
-...
-
-[Data](articles/e293618e.json)
-
-[Extended Data](ext_articles/e293618e.ext.json)
 
 ---

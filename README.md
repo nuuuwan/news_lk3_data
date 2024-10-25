@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 10:39:39**
+As of **2024-10-25 10:58:36**
 
 ## Newspaper Stats
 
-*Scraped **51,300** Articles*
+*Scraped **51,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,138 @@ economynextcom | 3,131
 dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,777
-adaderanalk | 6,073
+adaderanalk | 6,074
 tamilmirrorlk | 7,069
-virakesarilk | 8,247
-adaderanasinhalalk | 8,905
+virakesarilk | 8,249
+adaderanasinhalalk | 8,907
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,300 (100.0%) of 51,300 articles have been extended.
+51,303 (100.0%) of 51,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### வனவிலங்கு சட்டங்களை மீறியதாக வெளிநாட்டு யூடியூபர் மீது விசாரணை
+
+*2024-10-25 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197059) · `ta`
+
+மாதுரு ஓயா தேசிய பூங்காவில் மயில் ஒன்றை வேட்டையாடி கொன்று சமைத்து உணவாக உட்கொண்ட  காட்சி சமூக ஊடகங்களில் ஒன்றான யூடியூப் தளத்தில் பகிரப்பட்ட காணொளி தொடர்பில் வெளிநாட்டு பிரஜை மற்றும் நான்கு வேடுவச் சமூகத்தினர் மீது வனவிலங்கு பாதுகாப்பு திணைக்களம் விசாரணைகளை ஆரம்பித்துள்ளது.
+
+இந்த காணொளி  ‘கோ வித் அலி’ (Go With Ali) என்ற யூடியூப் சேனலில் பகிரப்பட்டுள்ளது.
+
+அதில் தேசிய பூங்காவிற்குள் ஒரு குழுவினர் மயில் ஒன்றை வேட்டையாடி விறகு அடுப்பில் சமைத்து உட்கொள்ளும் காட்சி  காணொளியாக படம்பிடிக்கப்பட்டுள்ளது.
+
+இந்நிலையில், வெளிநாட்டு பிரஜை மற்றும் நான்கு வேடுவச் சமூகத்தினர் அடங்கிய குழுவினர் தேசிய பூங்காவிற்குள் சட்டவிரோதமாக உட்பிரவேசித்தமை தொடர்பில் முதல் கட்ட விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக வனவிலங்கு பாதுகாப்பு திணைக்களத்தின் பணிப்பாளர் நாயகம் சந்தன சூரியபண்டார தெரிவித்துள்ளார்.
+
+இதேவேளை, இவர்கள் மீது மாதுரு ஓயா தேசிய பூங்காவிற்குள் அத்துமீறி நுழைந்தமை, தீ மூட்டடியமை, பாதுகாக்கப்படும் பறவை இனத்தை வேட்டையாடி கொன்றமை, அதனை சமூக ஊடகங்களில் பகிர்ந்ததமை ஆகிய குற்றச்சாட்டுகள் பதிவுசெய்யப்பட்டுள்ளன.
+
+...
+
+[Data](articles/636e7512.json)
+
+---
+
+### Sri Lanka cricket team crucial
+
+*2024-10-25 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202540) · `si`
+
+Sri Lanka cricket team crucial in Group 20 T20 Trophy. Today's match against Afghanistan at 2:30 PM at Almeeta Stadium. Sri Lanka won one match, lost one, and won two out of three. Second semi-final at 7:00 PM between Afghanistan A and runner-up from group B. Tournament started in 2013 as Asia's Under-23 cricket, renamed in 2020. Sri Lanka won twice, Pakistan twice, and India twice.
+
+🟩
+
+The Sri Lanka Group 20 T20 Trophy cricket tournament will be held today (24).
+
+Competition From Sri Lanka. 2.30 is due to begin at the Almeater Stadium.
+
+The main round was held at the main round of participation in 8 teams, including Sri Lanka.
+
+Sri Lanka won one match, which was defeated in the 'A' and won 2 of the 3 matches played.
+
+Afgladesana A, Bangladesh national team played 'A' category. Sri Lanka only defeated to Afghanistan.
+
+Second semi-final. The match will be held at 7.00 and will be held between the Afghanistan A team and the second place in the 'B' Born in the 'B' Branch.
+
+The event was held in Sri Lanka, while the tournament was held in Sri Lanka, while the Pakistan A was won the championship.
+
+The tournament commenced in 2013 as Asia's Under-23 cricket tournament was changed in 2013 as the Asian Eastern Team Cricket Tournament in 2020.
+
+The Test cricket playing countries in Asia presents their groups, and other countries offer their national kids.
+
+...
+
+[Data](articles/172eae1b.json)
+
+[Extended Data](ext_articles/172eae1b.ext.json)
+
+---
+
+### Police raid illegal firearms workshop in Matara; 3 arrested with revolvers
+
+*2024-10-25 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102915/police-raid-illegal-firearms-workshop-in-matara-3-arrested-with-revolvers) · `en`
+
+Police officers have raided a workshop where revolver-type firearms were being manufactured and arrested a suspect in the Palatuwa area in the Matara police division.
+
+The operation was carried out based on a tip-off received by the officers of the Matara Division Crimes Bureau.
+
+During the raid, a 63-year-old resident from the Malimbada area in Palatuwa was apprehended with a locally-manufactured firearm, five rounds of 9mm ammunition, a welding plant and other equipment used in manufacturing firearms.
+
+Following the interrogation of the suspect, it has been revealed that 02 similar firearms have already been sold.
+
+Later, officers from the Matara Division Crimes Bureau had arrested two additional suspects, in the Ahangama police division, who were found in possession of the two sold firearms in question.
+
+The arrested suspects are aged 47 and 54 while they are both residents of the Ahangama area.
+
+The suspects and the seized firearms have been handed over to Matara Police.
+
+...
+
+[Data](articles/47c177cc.json)
+
+[Extended Data](ext_articles/47c177cc.ext.json)
+
+---
+
+### Terror attack in Pakistan
+
+*2024-10-25 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202539) · `si`
+
+Pakistan terror attack: 10 security personnel killed in Tehreek-e-Taliban assault on guards in Dera Ismail Khan.
+
+🟩
+
+10 security personnel have died in a terrorist attack targeting a group of security personnel in Pakistan.
+
+The attack was launched into a security guard in Deera Ismail Khan.
+
+The terrorist group called the TEHREK-E-Taliban Pakistan regarding the attack, foreign media reports said.
+
+◼️
+
+[Data](articles/692c47d6.json)
+
+[Extended Data](ext_articles/692c47d6.ext.json)
+
+---
+
+### பத்திரிகையாளராக மாறிய போராளி ' தராக்கி ' சிவராம் : கொடூரமான கடத்தலும் கொலையும் - மீண்டும் விசாரணைக்கு உத்தரவிட்டிருக்கும் ஜனாதிபதி அநுரா குமாரவின் அரசாங்கம்
+
+*2024-10-25 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197057) · `ta`
+
+கடந்த காலத்தில் அதிகாரத்தில் இருந்தவர்களினால் தடுக்கப்பட்ட அல்லது சீர்குலைக்கப்பட்டு நீதிகிடைக்காமல் போன பாரிய  ஊழல் மோசடிகள், படுகொலைகள் தொடர்பான விசாரணைகளை மீண்டும் ஆரம்பிக்கப் போவதாக ஜனாதிபதி அநுரா குமார திசாநாயக்க தனது தேர்தல் பிரசாரங்களின்போது அடிக்கடி வலியுறுத்திக் கூறினார்.
+
+அண்மைய நிகழ்வுகள்  தங்களது தேர்தல் வாக்குறுதிகள் குறித்து ஜனாதிபதி திசாநாயக்கவும் அவரது அரசாங்கமும் கரிசனையாக இருக்கிறார்கள் என்பதை வெளிக்காட்டுகின்றன. இது தொடர்பில் அவர்கள் அடுத்த கட்ட நடவடிக்கைகளை எடுக்கத் தொடங்கியிருக்கிறார்கள்.
+
+அடுத்த மாதம் பாராளுமன்ற தேர்தல் நடைபெறவிருக்கும் நிலையில், இந்த விவகாரங்களில் நீதியை உறுதிசெய்வதற்கு உறுதியான நடவடிக்கைகளை எடுக்கத் தொடங்கியிருப்பதை அரசாங்கம் மெய்ப்பித்துக் காட்டுமோயானால்  ஆளும் தேசிய மக்கள் சக்தியின் தேர்தல் வாய்ப்புகள் பிரகாசமானதாக இருக்கும்.
+
+...
+
+[Data](articles/a6be89ea.json)
+
+---
 
 ### Two killed in two trains
 
@@ -436,6 +554,28 @@ The Sri Lanka Air Force has said that Australia's giving of this aircraft to Sri
 
 ---
 
+### Don't politicize the survival Sunday attack reports - Ranil in a special statement
+
+*2024-10-25 08:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197048) · `ta`
+
+Ranil Wickremesinghe urges against politicizing Easter Sunday attacks. He released a statement saying the AMJDA Alvis Report wasn't made to target Ravi Seneviratne or Shanani Abayasekara. The report was received during his presidency but kept private due to no political intent.
+
+🟩
+
+Former President Ranil Wickremesinghe has appealed for not politicizing the survival Sunday attacks
+
+He issued a special report and said that the AMJDA Alvis Report was not prepared to avenge the current Secretary of the Ministry of Public Security Ravi Seneviratne nor Shanani Abayasekara, former director of the Cijadi.
+
+I received the report during the presidential election, but the former president said that I did not make the report public because of the lack of intention to relate the resurrection Sunday attack with politics.
+
+◼️
+
+[Data](articles/835d93cf.json)
+
+[Extended Data](ext_articles/835d93cf.ext.json)
+
+---
+
 ### Three Chinese citizens arrested
 
 *2024-10-25 08:39:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீன-பிரஜைகள்-மூவர்-கைது/175-346022) · `ta`
@@ -457,28 +597,6 @@ The suspects have been arrested in Kindota area yesterday evening (24th) and Gal
 [Data](articles/cac8f1ab.json)
 
 [Extended Data](ext_articles/cac8f1ab.ext.json)
-
----
-
-### Don't politicize the survival Sunday attack reports - Ranil in a special statement
-
-*2024-10-25 08:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/197048) · `ta`
-
-Ranil Wickremesinghe urges against politicizing Easter Sunday attacks. He released a statement saying the AMJDA Alvis Report wasn't made to target Ravi Seneviratne or Shanani Abayasekara. The report was received during his presidency but kept private due to no political intent.
-
-🟩
-
-Former President Ranil Wickremesinghe has appealed for not politicizing the survival Sunday attacks
-
-He issued a special report and said that the AMJDA Alvis Report was not prepared to avenge the current Secretary of the Ministry of Public Security Ravi Seneviratne nor Shanani Abayasekara, former director of the Cijadi.
-
-I received the report during the presidential election, but the former president said that I did not make the report public because of the lack of intention to relate the resurrection Sunday attack with politics.
-
-◼️
-
-[Data](articles/835d93cf.json)
-
-[Extended Data](ext_articles/835d93cf.ext.json)
 
 ---
 
@@ -2181,127 +2299,5 @@ It is said that the discovery and rescue performed in the region will be allowed
 [Data](articles/53338d73.json)
 
 [Extended Data](ext_articles/53338d73.ext.json)
-
----
-
-### General Election Voting: Voter's left -handed finger will be identified - Elections Commission
-
-*2024-10-24 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197033) · `ta`
-
-Elections Commission identifies voters' left-handed fingers for general election. Right-hand fingers marked if no left-handed available. Official voter cards distributed via post. Postal votes on Nov 30, Dec 1 & 4. Late voting possible on Dec 7-8.
-
-🟩
-
-During the general election, the voter's left -handed finger has been decided to be appropriately identified. The Elections Commission has announced that if the voter does not have a left -handed finger, he will be appropriately identified on another finger on his right hand.
-
-During the voting of the presidential election, the voter's left -handed finger was appropriate. The Galle District, which is scheduled to take place tomorrow, is scheduled to have a proper identification of the voter's left -hander election in the Elpitiya Pradeshiya Sabha election.
-
-Against this backdrop, in accordance with Article 38 (3) of the Parliamentary Elections Act, No. 1 of 1981, to address the problems that arise in identifying voting during the voting during the voting.
-
-...
-
-[Data](articles/6f119880.json)
-
-[Extended Data](ext_articles/6f119880.ext.json)
-
----
-
-### Petition against general election will be considered on November 4
-
-*2024-10-24 18:19:22* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයට-එරෙහි-පෙත්සම-නොවැම්බර්-04දා-සලකා-බලයි/11-412670) · `si`
-
-Supreme Court considers election date change from Nov 14 to Nov 4. Petitioner seeks constitutional correction. Respondents include Attorney General, Presidential Secretary, and Election Commissioner. Protesters must file objections by Nov 28.
-
-🟩
-
-The Supreme Court today (24), the Supreme Court today decided to consider the decision that the election was held on November 14.
-
-The Attorney General and the Presidential Secretary and the Attorney General of the Elections Commission have been named as the respondents in the petitioner of the Sri Lanka National Organization.
-
-Nominations have been set to the Memorandum of Parliament to the election of the election Act, on October 4 and the nomination bill should be specified for a period of five weeks and not more than five weeks and not more than five weeks and not more than five weeks.The petitioner states that the five-week period is completed on November 11 to November 15 and seven weeks will be completed on November 29.
-
-However, the petitioner who pointed out that the legal election is not contrary to the law on November 14, but it is stated that the Chairman of the Election will not be contrary to the law.
-
-...
-
-[Data](articles/e5c18bac.json)
-
-[Extended Data](ext_articles/e5c18bac.ext.json)
-
----
-
-### Emergency at BIA called off after another bomb scare on Vistara flight
-
-*2024-10-24 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102907/emergency-at-bia-called-off-after-another-bomb-scare-on-vistara-flight) · `en`
-
-The emergency declared at Bandaranaike International Airport (BIA) in Katunayake following another bomb scare on a Vistara flight has been called off, according to the airport management.
-
-Flight operations at the BIA are continuing as usual without any disruption to the airport’s normal operations, says Airport and Aviation Services Sri Lanka (AASL).
-
-The management of Bandaranaike International Airport (BIA) declared a full emergency in response to another reported bomb scare on a Vistara flight from Mumbai to Colombo, which was scheduled to arrive at BIA at 15:15 hrs today (October 24).
-
-A nonspecific call on a bomb threat had been reported to the flight before landing at BIA. Accordingly, the security agencies and relevant authorities adopted all precautionary and preventive measures in line with the protocol, AASL said in a statement.
-
-...
-
-[Data](articles/f1f2f4ee.json)
-
-[Extended Data](ext_articles/f1f2f4ee.ext.json)
-
----
-
-### Why do Sri Lankan forces provide security?
-
-*2024-10-24 18:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏன்-இலங்கைப்-படைகள்-பாதுகாப்பு-வழங்குகின்றன/175-345999) · `ta`
-
-Sri Lankan forces protect Israeli businesses despite supporting Palestine. United People's Power MP calls for correcting foreign policy due to Middle East crisis.
-
-🟩
-
-United People's Power (SJB) MP Mujibur Rahman today said that Sri Lanka should correct its foreign policy following the rising Middle East crisis.
-
-While countries like the United States support Israel, countries like Iran and Russia support Palestine, and the world has been severely split in the Middle East conflict.. Sri Lanka stands for the independence of Palestine. The new government should take note of this, ”he said.
-
-He also questioned why Sri Lankan forces provide protection to Israeli companies in Colombo and elsewhere.
-
-◼️
-
-[Data](articles/4d50718b.json)
-
-[Extended Data](ext_articles/4d50718b.ext.json)
-
----
-
-### Special protection for the Kandy-Kandy hotels
-
-*2024-10-24 18:13:58* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙල්-ජාතිකයන්-නැවතී-සිටින-මහනුවර-හෝටල්වලට-විශේෂ-ආරක්ෂාවක්/11-412669) · `si`
-
-Kandy hotels receive enhanced police protection:
-
-
-
-1. Daily foreign tourist reports from hotels
-
-2. Special patrols around tourist areas
-
-3. Increased security measures implemented
-
-
-
-This summary captures the key points about the special protection measures for Kandy's tourist hotels in approximately 200 characters.
-
-🟩
-
-Police have taken measures to provide special security to the tourist hotels in Kandy that stayed.
-
-Police have taken steps to obtain daily reports on foreign tourists visiting the tourist hotels in the Kandy Police Division.
-
-An Euruddha Bandaranaike's Abunajuna's favors have also implemented a special patrol program near the tourist hotels.
-
-◼️
-
-[Data](articles/ac4d10a3.json)
-
-[Extended Data](ext_articles/ac4d10a3.ext.json)
 
 ---

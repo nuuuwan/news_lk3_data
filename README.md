@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 11:23:49**
+As of **2024-10-25 11:40:11**
 
 ## Newspaper Stats
 
-*Scraped **51,308** Articles*
+*Scraped **51,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,45 @@ islandlk | 3,049
 economynextcom | 3,131
 dailyftlk | 3,508
 dailymirrorlk | 4,733
-adalk | 4,778
+adalk | 4,779
 adaderanalk | 6,075
 tamilmirrorlk | 7,069
 virakesarilk | 8,249
-adaderanasinhalalk | 8,908
+adaderanasinhalalk | 8,909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,308 (100.0%) of 51,308 articles have been extended.
+51,310 (100.0%) of 51,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Death to make Australia
+
+*2024-10-25 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202542) · `si`
+
+Australia: Woman killed, son arrested after domestic dispute. Police investigation ongoing.
+
+🟩
+
+The sister of Carl Safely Delegated as a Excellent Fast Bowel of Australia, the sister of her Brisbin has died after a clash at home.
+
+Police say that her son had witnessed that he had committed the murder.
+
+The 61-year-old Susie Saman was reportedly injured in a confrontation took seriously in a confrontation took place.
+
+Police have arrested the 29-year-old son.
+
+◼️
+
+[Data](articles/01aae849.json)
+
+[Extended Data](ext_articles/01aae849.ext.json)
+
+---
 
 ### Tense situation near Pamunugama Police over assault of arrested youths
 
@@ -277,6 +301,34 @@ The victim was admitted to the Kandy Hospital and received treatment at the Kand
 [Data](articles/712fdc93.json)
 
 [Extended Data](ext_articles/712fdc93.ext.json)
+
+---
+
+### Vegetable prices in Dambulla
+
+*2024-10-25 09:48:59* · [`adalk`](https://www.ada.lk/picture_story/දඹුල්ලේ-එළවළු-මිල-ලෙල්ලටම-බසියි/10-412680) · `si`
+
+Dambulla Economic Center vegetable prices drop. Vendors blame arrests and low sales. Farmers warn crops like eggplants, tomatoes may perish. High production costs cited.
+
+🟩
+
+Economic Center Tradesmen point out that vegetables in the Dambulla Economic Center rapidly reduced.
+
+They point out that the vendor of the vendors have been reduced due to the arrest of the vendors and the vendor of the merchants have declined due to their purchasing.
+
+The vendors claim that they are destroyed not vessels, but the people cannot be vehicles out of less than the cost of vegetables and other expenses.
+
+Farmers point out that many of the vegetables, eggplant, tomatoes, Kekplato, Kekar, Kekiri, Kekiri and the Kandyan areas will be destroyed.
+
+Farvings as well as vendors point out that the cost of production is very high and the need for a proper program
+
+We have found about the bulk price of a kilogram of economic centers in Dambulla. Below are the prices.
+
+◼️
+
+[Data](articles/ad614162.json)
+
+[Extended Data](ext_articles/ad614162.ext.json)
 
 ---
 
@@ -2299,55 +2351,5 @@ I had also submitted demands that the revelations were broadcast on Channel 4. I
 [Data](articles/ea9a2ad3.json)
 
 [Extended Data](ext_articles/ea9a2ad3.ext.json)
-
----
-
-### Internet cheating on the Internet. China asks for 5,000 crores to China
-
-*2024-10-24 18:44:20* · [`adalk`](https://www.ada.lk/breaking_news/අන්තර්ජාලය-හරහා-මුදල්-වංචාකර-රු--කෝටි-5000ක්-චීනයට-යැවූ-සැකකරුවන්ව-චීනයෙන්-ඉල්ලයි/11-412671) · `si`
-
-Chinese police request 5000 crore from Sri Lankan government. CID investigates 41 suspects from various countries. Foreigners arrested for internet cheating. Chief Magistrate orders separate investigation. Army assists CID in case.
-
-🟩
-
-The Crameter Police have informed the Chinese Chief Magistrate Thilina Gamage today that the Chinese police team had asked the Government of China to take over over Rs.
-
-The CID also further stated that the Chinese government has asked the Government of China to hand over the Commander of the Sri Lankan government to hand over the Chinese government from the Pan Bink, Senior Gunnet.
-
-The 41 suspects in the Anuradhapura, Pakistan, Pakistan, India, Bangladesh, Epitology, Algeria and Nepal in AnuradhapuraAppeared.
-
-The Indian police team who had come to the Sri Lankan government to investigate the suspects to investigate the suspects to investigate the suspects in relation to the incident.
-
-The Criminal Investigation Department (CPA) has said to the Attorney General's records regarding the Chinese national cheat and led to China to China.
-
-Attorneys-at-Law Sandunguuna, who appeared for the suspects, said his clients were foreign nationals who had come to Sri Lanka as tourists.
-
-...
-
-[Data](articles/f2fe5125.json)
-
-[Extended Data](ext_articles/f2fe5125.ext.json)
-
----
-
-### Protection of all citizens
-
-*2024-10-24 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202521) · `si`
-
-Sri Lanka President Anura Kumara Dissanayake ensures citizen safety. Addresses meeting in Puttalam, vows to secure areas rapidly and investigate suspicious activities. Confirms security measures in place for all citizens.
-
-🟩
-
-President Anura Kumara Dissanayake says that the security of all citizens of Sri Lanka has been ensured.
-
-The President was addressing a meeting held in Puttalam today (24).
-
-"Our responsibility is to ensure the safety of citizens. We plan to confirm the rapid of the areas. We also worked on intelligence information and arrest several suspicions that led to the public. We want to say today we have assured the security of all citizens of all citizens. "
-
-◼️
-
-[Data](articles/e09c50d0.json)
-
-[Extended Data](ext_articles/e09c50d0.ext.json)
 
 ---

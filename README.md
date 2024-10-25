@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 11:40:11**
+As of **2024-10-25 12:00:29**
 
 ## Newspaper Stats
 
-*Scraped **51,310** Articles*
+*Scraped **51,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,116 @@ dbsjeyarajcom | 411
 colombotelegraphcom | 514
 bbccomsinhala | 520
 islandlk | 3,049
-economynextcom | 3,131
+economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,779
-adaderanalk | 6,075
+adaderanalk | 6,076
 tamilmirrorlk | 7,069
-virakesarilk | 8,249
+virakesarilk | 8,254
 adaderanasinhalalk | 8,909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,310 (100.0%) of 51,310 articles have been extended.
+51,318 (100.0%) of 51,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Police obtain detention orders on suspects arrested over threats to Israelis
+
+*2024-10-25 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102917/police-obtain-detention-orders-on-suspects-arrested-over-threats-to-israelis) · `en`
+
+Police have obtained detention orders to question three suspects arrested in connection with alleged security threats to Israeli nationals in Sri Lanka, according to Police Spokesman DIG Nihal Thalduwa.
+
+◼️
+
+[Data](articles/acbf8d63.json)
+
+[Extended Data](ext_articles/acbf8d63.ext.json)
+
+---
+
+### Investigating foreign YouTube for violating wildlife laws
+
+*2024-10-25 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197059) · `ta`
+
+Foreigners investigated for poaching peacock in Sri Lanka's Madhuru Oya National Park. Video shared on YouTube. Wildlife officials launch probe into illegal activities. Similar incident occurred previously involving foreigners and local hunters. Case being heard in court.
+
+🟩
+
+The Department of Wildlife Protection has launched an investigation into foreign citizens and four people in connection with the video shared on the YouTube site, one of the scene of the Social Media, one of the scene of the Social Media, which was hunted and cooked at the Madhuru Oya National Park.
+
+The video is shared on the YouTube channel Go with Ali.
+
+It has been shot as a video of a group of people hunting a peacock inside the national park and cooked in a firewood oven.
+
+In this backdrop, the Director General of the Wildlife Conservation Department Chandana Suriyapandara said that the first phase of investigations have been launched in connection with the illegal entering the national park.
+
+Meanwhile, allegations have been made against them, the entry into the Madhuru Oya National Park, the fire, the killing of the protected bird, and the sharing of it on social media.
+
+...
+
+[Data](articles/636e7512.json)
+
+[Extended Data](ext_articles/636e7512.ext.json)
+
+---
+
+### Tourism Federation
+
+*2024-10-25 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197070) · `ta`
+
+Sri Lanka Tourism Federation denies security threats, condemns foreign travel warnings affecting tourism industry.
+
+🟩
+
+The Sri Lanka Tourism Federation has strongly condemned the foreign travel warning that there is a security threat in Sri Lanka.
+
+The Sri Lanka Tourism Federation has said that Sri Lanka's tourism industry could be a major setback due to a warning that a terrorist attack could occur.
+
+The US and other countries have subsequently issued a travel warning that may affect the tourism industry.
+
+Sri Lanka Tourism Federation President Malik J Fernando has questioned whether foreign embassies are involved in the ruthless fun of Sri Lanka and its economic recovery.
+
+Tourism officials have pointed out that Sri Lankan authorities have already taken action.
+
+The Sri Lanka Tourism Federation has revealed that the report of the new information that has not been amended and amends has revealed that Sri Lanka is not interested in its tourism sector.
+
+The Tourism Agency said that the Israeli media exaggerated the warning of the Augkam Kutta, which made the entire Sri Lankan unprecedented to the Israelis.
+
+◼️
+
+[Data](articles/f87d4f1a.json)
+
+[Extended Data](ext_articles/f87d4f1a.ext.json)
+
+---
+
+### More than 7 lakh households registered in Colombo by 2024!
+
+*2024-10-25 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197069) · `ta`
+
+Colombo: 7+ lakh households registered by 2024. 6.76 million individual units, 46k joint residences. 8.37 million buildings nationwide. Colombo district reports 752k households, Mannar 39k.
+
+🟩
+
+According to the value of 2024, 6,762,644 household components and 46,376 joint residences have been registered in the country.
+
+Meanwhile, a total of 8,377,895 buildings have been registered in the country in accordance with the "Building" program of 2024, the Department of Census and Housing.
+
+According to the Department of Public Administration Statistics, 751,585 households in the Colombo district and low 38,999 houses in the Mannar district have been reported in the district.
+
+◼️
+
+[Data](articles/4e90d231.json)
+
+[Extended Data](ext_articles/4e90d231.ext.json)
+
+---
 
 ### Death to make Australia
 
@@ -53,6 +145,30 @@ Police have arrested the 29-year-old son.
 [Data](articles/01aae849.json)
 
 [Extended Data](ext_articles/01aae849.ext.json)
+
+---
+
+### Two women were injured with sharp weapons in Panadura
+
+*2024-10-25 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197055) · `ta`
+
+Two women hurt in Panadura attack. Masked men used sharp weapons. Police suspect drug trafficking link. Women treated at Panadura Base Hospital with severe hand and foot injuries.
+
+🟩
+
+Police said that the two men who had been masked, had been attacked by sharp weapons, breaking the door of a house in Panadura area.
+
+Police suspect that the attack may have been due to the contradiction of drug trafficking.
+
+The two injured women are being treated at the Panadura Base Hospital, police said.
+
+A hospital spokesman said that the two women who were injured were severely injured in their hands and feet.
+
+◼️
+
+[Data](articles/30f9e18b.json)
+
+[Extended Data](ext_articles/30f9e18b.ext.json)
 
 ---
 
@@ -82,6 +198,26 @@ With the assurance given by the Dungalpitiya OIC that justice would be served re
 
 ---
 
+### Douglas is ready to cooperate with the Government of Anura
+
+*2024-10-25 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197066) · `ta`
+
+Douglas Devananda offers cooperation to Anura Kumara Dissanayake's government if it addresses Tamil issues. He predicts winning 4-5 seats to resolve Tamil political problems and past human rights violations.
+
+🟩
+
+The Eelam Democratic Party candidate Douglas Devananda said that if the government led by President Anura Kumara Dissanayake is working to address the basic, development and political issues of the Tamil people, they will cooperate with them.
+
+Douglas Devananda added that if we get 4 to 5 seats in the upcoming general election, we will be able to easily resolve the political issue of Tamils ​​and the violations of human rights in the past.
+
+◼️
+
+[Data](articles/7adf9e75.json)
+
+[Extended Data](ext_articles/7adf9e75.ext.json)
+
+---
+
 ### Petition demanding to reject Ranjan's nomination
 
 *2024-10-25 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202541) · `si`
@@ -106,29 +242,41 @@ The Elections Commission and its members, Ranjan Ramanayake, Gampaha District Re
 
 ---
 
-### Investigating foreign YouTube for violating wildlife laws
+### The President will meet the Ambassadors and the EU representatives
 
-*2024-10-25 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197059) · `ta`
+*2024-10-25 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197063) · `ta`
 
-Foreigners investigated for poaching peacock in Sri Lanka's Madhuru Oya National Park. Video shared on YouTube. Wildlife officials launch probe into illegal activities. Similar incident occurred previously involving foreigners and local hunters. Case being heard in court.
+President Anura Kumara Dissanayake meets ambassadors and EU reps. Discusses strengthening bilateral ties, increasing cooperation in key sectors. Aims to enhance diplomatic, economic, political, and social relations globally.
 
 🟩
 
-The Department of Wildlife Protection has launched an investigation into foreign citizens and four people in connection with the video shared on the YouTube site, one of the scene of the Social Media, one of the scene of the Social Media, which was hunted and cooked at the Madhuru Oya National Park.
+President Anura Kumara Dissanayake will hold talks with South Africa and New Zealand High Commission, Iran and Myanmar Ambassadors and a delegation of the EU.
 
-The video is shared on the YouTube channel Go with Ali.
+The purpose of this discussion is to strengthen bilateral relations with those countries and examine the next steps to be taken to increase cooperation in many key sectors.
 
-It has been shot as a video of a group of people hunting a peacock inside the national park and cooked in a firewood oven.
+Sri Lanka is still dedicated to maintaining strong international partnerships and the president's expectation is to improve diplomatic relations, economic, political and social cooperation with all the countries of the world.
 
-In this backdrop, the Director General of the Wildlife Conservation Department Chandana Suriyapandara said that the first phase of investigations have been launched in connection with the illegal entering the national park.
+◼️
 
-Meanwhile, allegations have been made against them, the entry into the Madhuru Oya National Park, the fire, the killing of the protected bird, and the sharing of it on social media.
+[Data](articles/11fa2830.json)
+
+[Extended Data](ext_articles/11fa2830.ext.json)
+
+---
+
+### BRICS Summit and India’s role
+
+*2024-10-25 10:49:00* · [`economynextcom`](https://economynext.com/brics-summit-and-indias-role-184877/) · `en`
+
+ECONOMYNEXT – Ruchita Beri, a senior fellow at the Vivekananda International Foundation, opines that rather than moving away from the SWIFT System and introducing a common currency, BRICS could build a coalition around the Unified Payment Interface (UPI), with India offering the technology to the global south.  It would, she says, be the answer to the contentious issue of a common currency for BRICS.
+
+Participating in a web talk on “BRICS Summit on Kazan: India’s Agenda”, organised by the Friedrich Naumann Foundation, South Asia, on October 18, Beri opined that while the anti-West bloc would like to see dedolarization, the focus is more on digital infrastructure and the use of local currencies for trade between BRICS members.
 
 ...
 
-[Data](articles/636e7512.json)
+[Data](articles/3ac489a7.json)
 
-[Extended Data](ext_articles/636e7512.ext.json)
+[Extended Data](ext_articles/3ac489a7.ext.json)
 
 ---
 
@@ -451,6 +599,52 @@ The Department of Meteorology and the public are asked to take necessary steps t
 [Data](articles/e32712ec.json)
 
 [Extended Data](ext_articles/e32712ec.ext.json)
+
+---
+
+### Sri Lanka in talks to end Israel linked travel advisories, full security to tourists: Minister
+
+*2024-10-25 09:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-to-end-israel-linked-travel-advisories-full-security-to-tourists-minister-184840/) · `en`
+
+ECONOMYNEXT  – Sri Lanka is in talks with foreign embassies to remove travel advisories after warnings of attacks on Israeli tourists in Arugam Bay, a beach resort in  the island’s East Coast, while further ensuring protection to tourists visiting the island, Minister Vijitha Herath said.
+
+“We are in discussions (to remove travel advisories),” Minister Herath told reporters Thursday.
+
+“What we should do is to take action to strengthen security. We have taken action, if required we will do more in the future.”
+
+The US issued a warning for citizens not to travel to Arugam Bay, saying there was credible information of a possible attacks in the area, which was repeated by the British and some other embassies.
+
+Israel asked citizens to leave Argugam Bay and several beach resorts and not to engage in activities that may show their nationality.
+
+Sri Lanka has arrested three persons, all Sri Lankans, for questioning related to the alleged plan to stage attacks Israelis.
+
+...
+
+[Data](articles/e48da47c.json)
+
+[Extended Data](ext_articles/e48da47c.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger, some bond yields up
+
+*2024-10-25 09:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-some-bond-yields-up-184849/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 293.60/65 to the US dollar Friday, stronger from 293.78/82 to the US dollar Thursday, while bond yields were largely unchanged, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.55/70 percent Friday up from 10.50/70 percent Thursday.
+
+A bond maturing on 15.12.2027 was quoted at 11.50/55 percent lower from 11.50/55 percent.
+
+A bond maturing on 15.03.2028 was quoted 10.75/80 percent unchanged from 11.75/80 percent.
+
+A bond maturing on 15.06.2029 was quoted at 12.03/05 percent, up from 11.95/12.10 percent.
+
+A bond maturing on 15.05.2030 was quoted at 12.15/25 percent up from 12.20/30 percent. (Colombo/Oct25/2024)
+
+◼️
+
+[Data](articles/cea9f2a8.json)
 
 ---
 
@@ -995,6 +1189,26 @@ The song has been visited by more than a million viewers within a short time of 
 [Data](articles/c79a6586.json)
 
 [Extended Data](ext_articles/c79a6586.ext.json)
+
+---
+
+### IMF in talks towards Sri Lanka program review
+
+*2024-10-25 05:44:00* · [`economynextcom`](https://economynext.com/imf-in-talks-towards-sri-lanka-program-review-184833/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund in talks with Sri Lanka’s new administration on its priorities and is working towards the next review to continue its Extended Fund Facility program with the island.
+
+A Sri Lankan delegation, led by the Central Bank Governor, the Finance Ministry Secretary, and the President’s Advisor on economic matters, Duminda Hulangamuwa, is currently engaged in these talks.
+
+“Under the programme we have elements which address some of the priorities of the new government including social protection and so on,” Krishna Srinivasan, Director of the IMF’s Asia Pacific Department said in Washington.
+
+“But the details of the programme are continuing and they’ll be happening this week in Washington.
+
+“And we are encouraged by what we’ve heard so far and hope that we can move fast toward the third review which should start soon.”
+
+...
+
+[Data](articles/b245951e.json)
 
 ---
 
@@ -2099,257 +2313,5 @@ He was admitted to the Point Pedro hospital for further treatment due to an emer
 [Data](articles/339921a8.json)
 
 [Extended Data](ext_articles/339921a8.ext.json)
-
----
-
-### Old iron sellers call on old iron sellers
-
-*2024-10-24 19:41:44* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියේ-පරණ-යකඩ-විකුණන්-මිල-ගණන්-කැඳවයි/11-412678) · `si`
-
-Railway Department sells large quantity old iron. Decision made Cabinet meeting Oct 21. Ministry of Transport instructs transfer to Ministry Secretary SS Mudalige.
-
-🟩
-
-The Railway Department has decided to provide the largest amount of old iron belonging to the Railway Department. This has been decided on an approved proposal at the Cabinet meeting last October 21.
-
-On the instructions of the Ministry of Transport, Highways, Ports, Ports and Civil Services will be taken to the Ministry Secretary, SS. Mudalige said.
-
-◼️
-
-[Data](articles/f75f06b1.json)
-
-[Extended Data](ext_articles/f75f06b1.ext.json)
-
----
-
-### Elpitiya elections tomorrow
-
-*2024-10-24 19:36:07* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-ඡන්ද-විමසීම-හෙට/11-412677) · `si`
-
-Elpitiya PS election tomorrow: 55,643 voters, including 1 independent group. Voting at Elpitiya PS chamber.
-
-🟩
-
-Elpitiya PS chamber's voting will be held tomorrow (26).
-
-The total number of voters registered for this election is 55,643 political parties and one independent group.
-
-The Elections Commission has decided to paint the head of the voter of the voter in the voter of the voter at the Presidential Election.
-
-◼️
-
-[Data](articles/4498301d.json)
-
-[Extended Data](ext_articles/4498301d.ext.json)
-
----
-
-### 1000 cervical cancer patients per year in Sri Lanka
-
-*2024-10-24 19:30:28* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-වසරකට-ගැබ්‍ගෙල-පිළිකා-රෝගීන්-1000ක්/11-412676) · `si`
-
-Sri Lanka: 1000 cervical cancer cases annually. HPV vaccine administered to 10-year-old girls in schools. Two doses required, six months apart. Clinic availability for those unable to attend school clinics. No significant side effects reported.
-
-🟩
-
-The health sector calls for women to take the number of Human Papiloma Vaccine (HPV) interpretations of the cervical cancer per year in Sri Lanka.
-
-Dines of these two schools and every school in Sri Lanka is given to girls aged 10, and the second dose should be obtained after six months of obtaining the first dose.
-
-Accordingly, the injection clinic of the Medical Officer's Office is available to children who are unable to obtain the school medical clinic.
-
-Also, the Health Medical Officer of the School or the Public Health Inspector of the school can be informed that the parents have no reluctance to give the child to the child.
-
-Meanwhile public health inspector Sandun Ratnayake, who was involved in this further explanation,
-
-"The virus that causes cervical cancer is on the penis of men. But when a woman sexually intercours a man or several people sexual intercourse with several people, the Human Papilloma virus enters the women's vagina and it is multiplied.
-
-...
-
-[Data](articles/3568a47f.json)
-
-[Extended Data](ext_articles/3568a47f.ext.json)
-
----
-
-### A racket of cheating money saying that short-term jobs in Korea
-
-*2024-10-24 19:17:59* · [`adalk`](https://www.ada.lk/breaking_news/කොරියාවේ-කෙටිකාලීන-රැකියා-දෙන-බව-පවසා-මුදල්-වංචා-කිරීමේ-ජාවාරමක්/11-412675) · `si`
-
-Sri Lanka Bureau warns against fraudulent E-8 Visa schemes for short-term jobs in South Korea. No official agreements between countries. Job seekers advised to avoid scams and report suspicious activities.
-
-🟩
-
-The Sri Lanka Bureau of Foreign Employment states that a racket is being carried out in South Korea under the E-8 Visa group.
-
-Additional General Manager (International) Senarath Yapa said that the two government should enter into agreements in South Korea and had not reached any agreement.
-
-Since 2004, Sri Lankans are directed to work in South Korea under the EPS-E9 Visa. The private sector has been directed to work in South Korea recently under the Visa category for the Veldar (Welder) job.
-
-And we looked at the sending of workers under the E-8 Visa category for the short term jobs in South Korea last year (SEASonal Worker. It was revealed that if the states of Sri Lanka should enter into the agreements with the states of South Korea.
-
-The Government of Sri Lanka has not taken any decision to direct workers in South Korea under this E-8 Visa.. Accordingly, workers will not be referred under the E-8 Visa category for agriculture and fisheries.
-
-...
-
-[Data](articles/721483ef.json)
-
-[Extended Data](ext_articles/721483ef.ext.json)
-
----
-
-### Don't ask us to be put to the problems of the people
-
-*2024-10-24 19:05:10* · [`adalk`](https://www.ada.lk/breaking_news/අපෙන්-ප්‍රශ්න-කරලා--ජනතා-ප්‍රශ්න-යට-ගහන්න-හදන්න-එපා/11-412674) · `si`
-
-Namal Rajapaksa criticizes CID interrogation tactics, accuses government of covering up issues.
-
-🟩
-
-"Using us to use the political hunt, we have made the Rajapaksas ready to be arrested in jail for 8 hours questioning 10 questions questioned. Don't get ready to cover up the problems of the people, "MP Namal Rajapaksa said
-
-He was speaking to the CID today (24), and approximately after the Criminal Investigations Department
-
-"The political culture of our country is usually. The other government is being questioned and questioning. Come on, we're coming. We have a fundamental picture of us that the people of this country are false.
-
-Today, the duration of the 2010-2015 is to my offices.Money left and went. One husband has told an anonymous complaint .It does.
-
-The government has come and answered the complaints that came to you like this.. We have clearly come and support this.
-
-Whenever we get to the government, we are responding to the word of lied to false and knowing the world's loyalty to the Uganda. "
-
-◼️
-
-[Data](articles/3ca54373.json)
-
-[Extended Data](ext_articles/3ca54373.ext.json)
-
----
-
-### A letter from Ranil about the Passover report
-
-*2024-10-24 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202522) · `si`
-
-Ranil Wickremesinghe urges parties to avoid politicizing the Passover report, citing its controversial impact on the last presidential election. He emphasizes the need for national intelligence reform and proposes reorganizing the Parliamentary Select Committee to investigate Easter Sunday bombings and Passover attacks.
-
-🟩
-
-Former President Ranil Wickremesinghe says that they are requesting every party to do not politics.
-
-He says that this report has led to a great controversy at the last presidential election, but he refused to make the Passover attack on politics.
-
-The full announcement issued by Mr. Ranil Wickremesinghe was released below,
-
-"After I was appointed as the eighth Executive Presiden in Sri Lanka, I handed over the Easter commissions recorded by the Chairman of the Catholic Bishopies.
-
-The Catholic Bishop of Catholics had submitted a number of clarifications and advised the Attorney General to exchange all the relevant claims to the Attorney General.
-
-I had also submitted demands that the revelations were broadcast on Channel 4. I retired Supreme Court Judge SI. The three member committee was appointed to appoint Parrakkody and former Supreme Court Judge Harsha Shoza.
-
-...
-
-[Data](articles/ad164898.json)
-
-[Extended Data](ext_articles/ad164898.ext.json)
-
----
-
-### “No one finds the plantation workers”
-
-*2024-10-24 18:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்டத்-தொழிலாளர்களை-எவரும்-கண்டு-கொள்வதில்லை/175-346001) · `ta`
-
-Vadivel Suresh Pradeesh discusses plantation worker salaries, youth education issues, and women's rights during election campaign. Emphasizes need for parliamentary representation to address these concerns.
-
-🟩
-
-He held a discussion with the public during the election campaign in Lindulai Lipakkalai this evening.
-
-Speaking on the occasion, Vadivel Suresh Pradeesh said the workers' salary issue was important but I could not speak out of the house without going to parliament.
-
-Similarly, a large number of youth from the hill country are working in Colombo. But they had no protection, and in the past, night schools were more likely to be over the past but it is now completely gone. Thus the academic activity has been affected. No one finds the plantation workers who have been suffering for a long time.
-
-Similarly, if you want to get all these in the future, you have to win the parliamentary election and elect a Member of Parliament if all of them are available in the future.
-
-Thus, if I win the parliamentary election and go to parliament, I will be able to make a compulsory respect for the military workers.
-
-...
-
-[Data](articles/8e215f40.json)
-
-[Extended Data](ext_articles/8e215f40.ext.json)
-
----
-
-### President assures security of all citizens following recent intelligence reports
-
-*2024-10-24 18:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102908/president-assures-security-of-all-citizens-following-recent-intelligence-reports) · `en`
-
-President Anura Kumara Dissanayake has stated that the government has taken all necessary measures in response to recent intelligence reports and assures the security of all citizens.
-
-The President made these remarks while addressing a public meeting held in Puttalam today (24).
-
-“It is our responsibility to ensure the safety of our citizens. We’ve been enhancing security in various areas. Not only that, but the intelligence agencies acted swiftly on the information, and we have also taken action to arrest a few suspects. Today, I would like to assure that we have ensured the safety and security of all citizens of Sri Lanka,” he said.
-
-◼️
-
-[Data](articles/a35783b4.json)
-
-[Extended Data](ext_articles/a35783b4.ext.json)
-
----
-
-### Flight in Colombo in advance following the bomb threat
-
-*2024-10-24 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/197035) · `ta`
-
-Colombo airport emergency: Plane lands early due to bomb threat; 107 passengers safely evacuated; operations resume normally.
-
-🟩
-
-The airport and airlines private company said that the aircraft landed in advance and all passengers were safely evacuated after reports that there was a bomb on a passenger plane from Mumbai to Colombo.
-
-The Bandaranaike International Airport Administration has declared an emergency after the plane landed before the plane landed on the Vistara UK 131 aircraft, which was due to departure from India's Mumbai airport on Thursday (24).
-
-Subsequently, 107 passengers, one child and 8 flight attendants landed at the Bandaranaike International Airport at 2.55 am and all passengers were safely evacuated.
-
-The principles and guidelines that must be followed in such cases were followed by all the structures that are related to security related to the airport and airlines (Sri Lanka).
-
-Against this backdrop, the airlines at the Bandaranaike International Airport in Colombo have returned to normalcy without any hindrance.
-
-◼️
-
-[Data](articles/fe7bfc96.json)
-
-[Extended Data](ext_articles/fe7bfc96.ext.json)
-
----
-
-### Don't take the Passover attack
-
-*2024-10-24 18:49:30* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරයට-දේශපාලනය-ගාව-ගන්න-එපා/11-412672) · `si`
-
-Here's a 200-character summary:
-
-
-
-Former President Wickremesinghe urges avoiding politicization of Passover attacks. He cites intelligence failures & proposes reforms. Recommends investigating Easter bombings through parliamentary committee. Emphasizes need for national security improvements.
-
-🟩
-
-Former President Ranil Wickremesinghe has issued a statement not to contact the Passover attack in politics.
-
-The former President also said that the reports of the Passover Sunday, which had been led by the presidential election, was not known due to the presidential election.
-
-"After I was appointed as the eighth Executive Presiden in Sri Lanka, I handed over the Easter commissions recorded by the Chairman of the Catholic Bishopies.
-
-The Catholic Bishop of Catholics had submitted a number of clarifications and advised the Attorney General to exchange all the relevant claims to the Attorney General.
-
-I had also submitted demands that the revelations were broadcast on Channel 4. I retired Supreme Court Judge SI. The three member committee was appointed to appoint Parrakkody and former Supreme Court Judge Harsha Shoza.
-
-...
-
-[Data](articles/ea9a2ad3.json)
-
-[Extended Data](ext_articles/ea9a2ad3.ext.json)
 
 ---

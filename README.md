@@ -1,54 +1,106 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 13:59:33**
+As of **2024-10-25 14:13:27**
 
 ## Newspaper Stats
 
-*Scraped **51,334** Articles*
+*Scraped **51,337** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 411
 colombotelegraphcom | 514
-bbccomsinhala | 520
+bbccomsinhala | 521
 islandlk | 3,049
 economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,780
-adaderanalk | 6,078
+adaderanalk | 6,079
 tamilmirrorlk | 7,077
 virakesarilk | 8,254
-adaderanasinhalalk | 8,912
+adaderanasinhalalk | 8,913
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,333 (100.0%) of 51,334 articles have been extended.
+51,335 (100.0%) of 51,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
 
-### தேர்தல் சுவரொட்டி ஒட்டியவர் மின்சாரம் தாக்கி பலி
+### ජනපතිවරණයට වැඩියෙන්ම වියදම් කළ දෙදෙනා
 
-*2024-10-25 13:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தேர்தல்-சுவரொட்டி-ஒட்டியவர்-மின்சாரம்-தாக்கி-பலி/72-346039) · `ta`
+*2024-10-25 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202546) · `si`
 
-முல்லைத்தீவு, ஒட்டுசுட்டான் பொலிஸ் பிரிவுக்குட்பட்ட முத்துவிநாயகபுரம் பகுதியில்  கட்சி ஒன்றின் தேர்தல் பரப்புரைக்கான சுவரொட்டி ஒட்டும் போது நபரொருவர் மின்சாரம் தாக்கி உயிரிழந்த சம்பவம் வியாழக்கிழமை (24)  இரவு பதிவாகியுள்ளது.
+පසුගිය ජනාධිපතිවරණයේදී අපේක්ෂකයින් සිදුකළ වියදම් ඇතුළත් ලේඛනය මැතිවරණ කොමිෂන් සභාව මගින් ප්‍රදර්ශනය කර තිබේ.
 
-முத்துவிநாயகபுரம் முத்துஐயன்கட்டு பகுதியில் கட்சி ஒன்றிற்கான தேர்தல் சுவரொட்டியை இரவு 11.00 மணியளவில் ஒட்ட முற்பட்டவர் யானைக்காக காணி வேலியில் இணைக்கப்பட்ட மின்சார இணைப்பில் இருந்து பாய்ந்த மின்சாரம் தாக்கி உயிரிழந்துள்ளார்.
+ඒ අනුව 2024 ජනාධිපතිවරණයේ වැඩිම මුදලක් වියදම් කර ඇත්තේ සමගි ජන බලවේගයේ අපේක්ෂකයා වූ සජිත් ප්‍රේමදාස මහතා වන අතර එම මුදල රුපියල් කෝටි 112කට අධිකය.
 
-தகரம் அடித்த குறித்த காணி வேலிக்கு முன்னால் காணி உரிமையாளரால் யானையில் இருந்து பாதுகாத்துக் கொள்வதற்காக மின்சார இணைப்பு போடப்பட்டிருந்தது. இது தெரியாமல் அவரது வேலி தகரத்தில்  சுவரொட்டி ஒட்ட முற்பபட்ட போது மின்சாரத்தில் சிக்குண்ட குறித்த நபர் உயிரிழந்துள்ளார்
+එහිදී ඔහු රුපියල්  936,258,524.60ක මුදලක් අපේක්ෂකයා ලෙස වැය කර ඇති අතර සමගි ජන බලවේගය ඔහු වෙනුවෙන් රුපියල් 194,087,715.04ක් වියදම් කර තිබේ.
 
-முத்துவிநாயகபுரம் முத்துஐயன்கட்டு ஒட்டுசுட்டானை சேர்ந்த 45 அகவையுடைய காசிலிங்கம் லங்காதீபன் என்பவே இவ்வாறு மின்சாரம் தாக்கி உயிரிழந்துள்ளார்.
+දෙවෙනියට වැඩිම වියදමක් දැරූ අපේක්ෂකයා වන්නේ ස්වාධීන අපේක්ෂකයෙකු වූ රනිල් වික්‍රමසිංහ මහතාය.
 
-இவரது உடலம் முல்லைத்தீவு மாவட்ட மருத்துவமனையில் வைக்கப்பட்டுள்ளது.சம்பவம் தொடர்பில் ஒட்டுசுடுட்டான் பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றார்கள்.
+ඔහු වියදම් කර ඇති මුදල රුපියල් 990,327,687.16ක් වන අතර ස්වාධීන අපේක්ෂකයින් අතරින් වැඩිම වියදමක් සිදුකළ අපේක්ෂකයා ද ඔහු වෙයි.
+
+මෙවර ජනාධිපතිවරණය ජයගත් ජාතික ජන බලවේගයේ අපේක්ෂක අනුර කුමාර දිසානායක මහතා කිසිඳු පෞද්ගලික වියදමක් දරා නොමැති බව ඔහු මැතිවරණ කොමිසමට එවූ වාර්තාවේ දැක්වෙයි.
+
+කෙසේවෙතත් ඔහු ඉදිරිපත් වූ පක්ෂය වන ජාතික ජනබලවේගය විසින් රුපියල් 527,999,889.38ක මුදලක් මැතිවරණ වැඩකටයුතු සඳහා වැය කර තිබේ.
 
 ...
 
+[Data](articles/56c7aa1f.json)
+
+---
+
+### Sri Lanka has long way to go to achieve strong, sustainable recovery – IMF
+
+*2024-10-25 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102920/sri-lanka-has-long-way-to-go-to-achieve-strong-sustainable-recovery-imf) · `en`
+
+Sri Lanka has made significant progress in implementing economic reforms, positioning itself to advance quickly toward the third review of the Sri Lanka EFF program, which is coming up soon, a senior International Monetary Fund official said on Thursday.
+
+Krishna Srinivasan, director of the International Monetary Fund’s Asia and Pacific Department, noted that when the new government took office recently, he led a high level team to Colombo to discuss and to engage with the authorities.
+
+He stated that they some very productive discussions with the new government and its team and that the discussions are continuing this week during the IMF-World Bank Annual Meetings.
+
+“Now, there was broad consensus, I would say unanimous consensus, that Sri Lanka, which was tearing at the abyss in 2022, has come a long way in terms of undertaking reforms which have led to some hard won gains, as you can know.”
+
+...
+
+[Data](articles/a7a2b222.json)
+
+[Extended Data](ext_articles/a7a2b222.ext.json)
+
+---
+
+### Election poster
+
+*2024-10-25 13:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தேர்தல்-சுவரொட்டி-ஒட்டியவர்-மின்சாரம்-தாக்கி-பலி/72-346039) · `ta`
+
+A 45-year-old man was electrocuted while pasting an election poster near an elephant enclosure in Mullaitivu. He touched a live electrical connection hidden behind a tin fence. The victim's body is at the local hospital. Investigations are ongoing regarding permission for the elephant enclosure.
+
+🟩
+
+The incident of a person who was electrocuted on Thursday night (24) night was reported to have been killed when a poster for a party's election campaign in the Mullaitivu and Oddusuttan police division of Mullaitivu.
+
+At around 11.00 pm, a man who tried to paste a party for a party in Muthu Nayakapuram Muthiyankattu area has died of electricity from an electric connection to the elephant.
+
+Electricity was laid to protect the elephant from the land owner in front of the land fence. Unbeknownst to him, his fence was killed when the poster was pasted on the tin.
+
+The 45 -year -old Kasalingam Ladyipan of Muthu Nayakapuram Muthuiyankattu Pattusuttan has been electrocuted.
+
+His body has been kept at the Mullaitivu District Hospital.
+
+Investigations are underway on whether the owner of the land has permitted the elephant.
+
+◼️
+
 [Data](articles/4cae334f.json)
+
+[Extended Data](ext_articles/4cae334f.ext.json)
 
 ---
 
@@ -1336,6 +1388,28 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
+### නව සංක්‍රමණ කප්පාදුව නිසා කැනඩාවේ පදිංචියට යාමේ සිහිනය 21%කින් බොඳ වෙයි
+
+*2024-10-25 08:12:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1wjnevx8epo) · `si`
+
+නව සංක්‍රමණ කප්පාදුව නිසා කැනඩාවේ පදිංචියට යාමේ සිහිනය 21%කින් බොඳ වෙයි
+
+කැනඩාවේ අග්‍රාමාත්‍ය ජස්ටින් ටෲඩෝගේ ආණ්ඩුවේ ප්‍රතිපත්තිවල කැපී පෙනෙන වෙනසක් සනිටුහන් කරමින් "ජනගහන වර්ධනයට විරාමයක්" තැබීමේ උත්සහයක් ලෙස රට තුළට ඒමට ඉඩදෙන සංක්‍රමණිකයන්ගේ සංඛ්‍යාවේ තියුණු කප්පාදුවක් නිවේදනය කර තිබේ.
+
+මෙම සංශෝධනවල කොටසක් ලෙස, 2025 වසර වන විට ස්ථිර පදිංචියට අවසර දීම පෙර පැවති 500,000ක ඉලක්කය, 395,000 දක්වා අඩු කිරීමට කැනඩාව පියවර ගනු ඇත. එය, 21%ක කප්පාදුවකි.
+
+අග්‍රාමාත්‍ය ටෲඩෝ පැවසුවේ, ශ්‍රම හිඟය විසඳීම සඳහා කොරෝනා වසංගත සමයෙන් පසු සංක්‍රමණ වැඩි කළ ද, සිය රජය එහි “සමතුලිතතාව පවත්වාගෙන යාමට අපොහොසත් වූ” බව ය.
+
+කැනඩාවේ සංක්‍රමණ සඳහා මහජන සහයෝගය අඩුවෙමින් පවතින අතර, වර්ධනය වන සංක්‍රමණිකයින් සංඛ්‍යාව සහ නිවාස හා සමාජ සේවා කෙරෙහි එහි බලපෑම පිළිබඳව සැලකිල්ල වැඩි වෙමින් පවතින බව මත විමසුම්වලින් යෝජනා වී තිබේ.
+
+ජාත්‍යන්තර සිසුන් සහ තාවකාලික විදේශ ශ්‍රමිකයන් යන දෙඅංශයෙන් ම දැනටමත් ප්‍රකාශයට පත් කරන ලද අඩු කරන ලද ඉලක්ක මත පදනම්ව මෙම පියවර ගෙන තිබේ.
+
+...
+
+[Data](articles/270a6c3d.json)
+
+---
+
 ### Insurance packets containing Colombo and Wanni Postal voting
 
 *2024-10-25 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202533) · `si`
@@ -2265,59 +2339,5 @@ Accordingly, Savendra Silva, Chief of Security Committees, Army Commander Lieute
 [Data](articles/6724b58c.json)
 
 [Extended Data](ext_articles/6724b58c.ext.json)
-
----
-
-### Tourism & Peace – Two Sides Of The Same Coin
-
-*2024-10-24 22:35:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/tourism-peace-two-sides-of-the-same-coin/) · `en`
-
-“Tourism and Peace,” is a topic that resonates deeply with Sri Lanka’s history and future aspirations. Sri Lanka’s tourism sector, despite decades of challenges, is now poised for a major resurgence. This optimism stems from recent political transformations, creating renewed hope for good governance and clear direction. As Millennials and Gen Zers witness these changes, they are positioned to drive the broader economic and social transformation ahead.
-
-...
-
-[Data](articles/9690ec6c.json)
-
-[Extended Data](ext_articles/9690ec6c.ext.json)
-
----
-
-### Young man dies
-
-*2024-10-24 22:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197039) · `ta`
-
-Young man dies after train collision in Eravur. Incident occurred Thursday night while train traveled from Batticaloa to Colombo. Body taken to hospital, investigation ongoing.
-
-🟩
-
-A young man dies after colliding with a train. The incident took place on Thursday night.
-
-The incident took place when the train traveling from Batticaloa to Colombo was traveling by the Eravur residential area.
-
-In this, a young man named Mujahid, a young man from the wild Mamara, Eravur, died in a train.
-
-The body of the deceased has been taken to the Eravur Hospital and further investigations are being carried out by the Eravur police.
-
-◼️
-
-[Data](articles/731d5841.json)
-
-[Extended Data](ext_articles/731d5841.ext.json)
-
----
-
-### Leadership & Unity In The Face Of Challenges, On AKD’s First Month
-
-*2024-10-24 22:04:52* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/leadership-unity-in-the-face-of-challenges-on-akds-first-month/) · `en`
-
-On October 13, President Anura Kumara Dissanayake delivered an inspiring speech addressed to the candidates of the National People’s Power (NPP) running for Parliament. His words echoed the energy and vision of past leaders like DS Senanayake, SWRD Bandaranaike, JR Jayewardena etc —leaders who, despite the challenges they faced, embodied a spirit of transformation and dedication to the country. While the successes of their social changes may be debated, Anura Kumara’s speech reflected the vigor of a leader who has achieved success through his own perseverance.
-
-However, it is clear that such energy can provoke resistance. Many who have demonstrated this kind of drive and potential have faced obstacles—often created by external forces. This resistance arises from fear, and as a result, it becomes crucial for AKD to be mindful of his safety. The verbal attacks on him are a clear indication of this threat, fueled by those who fear the transformative changes he represents.
-
-...
-
-[Data](articles/05e68e91.json)
-
-[Extended Data](ext_articles/05e68e91.ext.json)
 
 ---

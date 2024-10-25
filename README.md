@@ -1,36 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 08:02:59**
+As of **2024-10-25 08:45:55**
 
 ## Newspaper Stats
 
-*Scraped **51,271** Articles*
+*Scraped **51,275** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 411
 colombotelegraphcom | 514
-bbccomsinhala | 519
+bbccomsinhala | 520
 islandlk | 3,049
 economynextcom | 3,131
 dailyftlk | 3,506
 dailymirrorlk | 4,733
-adalk | 4,774
+adalk | 4,775
 adaderanalk | 6,069
 tamilmirrorlk | 7,062
 virakesarilk | 8,242
-adaderanasinhalalk | 8,898
+adaderanasinhalalk | 8,900
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,267 (100.0%) of 51,271 articles have been extended.
+51,273 (100.0%) of 51,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Insurance packets containing Colombo and Wanni Postal voting
+
+*2024-10-25 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202533) · `si`
+
+Colombo Wanni postal voting insurance packets update: Suspended packets accepted today under Election Commission supervision.
+
+🟩
+
+The insured packet of reserves contained in Colombo and the Vanni Electoral Districts in relation to the next parliamentary election, the insurance packets of Colombo will be accepted today (25).
+
+Reserved packets with postal votes were taken over the 23rd of the postal votes and suspended packets of postals in Colombo and the Wanni and the Vanni district have been suspended.
+
+Rajitha Ranasinghe said that the election commission notification of the Elections Commission is that the postal votes containing postal votes will be accepted today under the supervision of the election commission.
+
+Deputy Postal Rajitha Ranasinghe said that the postal votes containing postal votes before the 30th he said that he was inquired at an inquiry made.
+
+Speaking further Mr. Rajitha Ranasinghe said
+
+"Reserved packets with postal ballot papers related to the 2024 parliamentary election took place on the 23rd."
+
+"Reserve packets with postal voting in Colombo district have been suspended
+
+...
+
+[Data](articles/c8bea38b.json)
+
+[Extended Data](ext_articles/c8bea38b.ext.json)
+
+---
+
+### Three Chinese arrested
+
+*2024-10-25 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202532) · `si`
+
+Chinese nationals arrested Galle Police Division suspected computer crimes online
+
+🟩
+
+A group of Chinese nationals have been arrested on suspicion of being held in a hotel and committing computer crimes online.
+
+The raid was carried out on information received by the police officers of the Galle Police and three Chinese male has been arrested.
+
+Police have also seized five mobile phones, no owner without the owner.
+
+The suspects have been arrested in the Galle Police Division in the Galle Police Division, Bope Road, Gintota in Gintota.
+
+◼️
+
+[Data](articles/133dbb57.json)
+
+[Extended Data](ext_articles/133dbb57.ext.json)
+
+---
 
 ### Elpitiya elections tomorrow
 
@@ -384,6 +438,44 @@ This platform is unveiling IBE’s future plans, including the introduction of u
 
 ---
 
+### Is Sri Lanka's history of the history of the Speaker know these things?
+
+*2024-10-25 01:44:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjr4dpg45l1o) · `si`
+
+Here's a summary of Sri Lanka's Speaker history in approximately 200 characters:
+
+
+
+Sri Lanka's Speaker history spans over 90 years, starting with Francis Molameth in 1931. Notable Speakers include Albert F. Peiris, Stanley Tillekeratne, Dr. Ananda Tissa de Alwis, and Karu Jayasuriya. The current Speaker is Mahinda Yapa Abeywardena, serving since 2020.
+
+🟩
+
+Is Sri Lanka's history of the history of the Speaker know these things?
+
+Speaker of Sri Lanka is a significant respect for Sri Lanka's significant respect.
+
+The Sri Lankan Parliamentary history began in 1931, 21 MPs have taken steps to be the Speaker.
+
+Sri Lanka's first Speaker's first Speaker of Sri Lanka - Francis Molameth
+
+The first Speaker of Sri Lanka is the first Speaker of Sri Lanka is Francis Molame.
+
+He was appointed Speaker of the first state council from 1931 to 1931, on July 7, 1931.
+
+Francis was the first person to be appointed as the Legislative Council of Sri Lanka. He was educated at St. Thomas' College, Mount Lavinia and was a talented at school, as well as cricket.
+
+The politics of Sri Lanka's politics was a member of the Ceylon National Association.
+
+State Council was elected to the State Council from Digama seat in 1931. He was appointed Speaketial, at that time.
+
+...
+
+[Data](articles/17d31457.json)
+
+[Extended Data](ext_articles/17d31457.ext.json)
+
+---
+
 ### Imthiaz criticises NPP and President’s shift to traditional politics
 
 *2024-10-25 01:37:55* · [`dailyftlk`](https://www.ft.lk/news/Imthiaz-criticises-NPP-and-President-s-shift-to-traditional-politics/56-768395) · `en`
@@ -628,6 +720,8 @@ Since its opening, Havelock City Mall had quickly established itself as a favori
 
 [Data](articles/e6aa03e0.json)
 
+[Extended Data](ext_articles/e6aa03e0.ext.json)
+
 ---
 
 ### Fadna Arunella concludes successfully
@@ -639,6 +733,8 @@ Fadna a renowned brand in Sri Lanka that has contributed to the well-being of th
 ...
 
 [Data](articles/3084c1e3.json)
+
+[Extended Data](ext_articles/3084c1e3.ext.json)
 
 ---
 
@@ -1159,6 +1255,22 @@ We see this as a messy manner in which our propaganda is planned. This is an act
 [Data](articles/8b3a4f48.json)
 
 [Extended Data](ext_articles/8b3a4f48.ext.json)
+
+---
+
+### යාපනයේ අපේක්ෂකයෙක් හදිසියේ මරුට
+
+*2024-10-24 19:49:35* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-අපේක්ෂකයෙක්-හදිසියේ-මරුට/11-412679) · `si`
+
+යාපනය දිස්ත්‍රික්කයෙන් මෙවර පාර්ලිමේන්තු මහමැතිවරණය වෙනුවෙන් ප්‍රජාතන්ත්‍රවාදී ජාතික සන්ධානයෙන් ඉදිරිපත්ව සිටි තරුණ අපෙක්ෂක්යෙකු හට ඇති වූ හදිසි අසනීප තත්වයක් හේතුවෙන් අද (23දා) දින මිය ගොස් ඇතැයි පේදුරුතුඩුව පොලීසිය පැවසීය.
+
+යාපනය වැල්වැටිතුරෙයි ප්‍රදේශයේ පදිංචි 33 හැවිරිදි සෙන්දිවේල් තිමිළණියන් නමැති අපේක්ෂකයා මෙවර පාර්ලිමේන්තු මහමැතිවරණය වෙනුවෙන් ප්‍රජාතන්ත්‍රවාදී ජාතික සන්ධානයෙන් (තැපල් පෙට්ටියෙන්) වැල්වැටිතුරෙයි උඩුප්පිඩ්ඩි ආසනය වෙනුවෙන් තරග වැදීම සඳහා අපේක්ෂකත්වය ලබාගෙන තිබේ.
+
+දින 4 කට පෙර ඇති වූ හදිසි අසනීප තත්වයක් හේතුවෙන් ඔහු යාපනය වැල්වැටිතුරෙයි රෝහලට ඇතුළත් කොට පසුව වැඩිදුර ප්‍රතිකාර සඳහා පේදුරුතුඩුව රෝහලට ඇතුළත් කළ අතර පසුව එම රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මෙලස මිය ගොස් ඇත.මිය ගිය අපෙක්ෂකයා මීට පෙර වැල්වැටිතුරෙයි නගරසභාවේ ප්‍රජාතන්ත්‍රවාදී ජාතික සන්ධානයේ නාගරික මන්ත්‍රීවරයෙකු වශයෙන්ද කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/339921a8.json)
 
 ---
 
@@ -2217,87 +2329,5 @@ The people of the country should investigate the past activities of Udaya Kamman
 [Data](articles/33acc58c.json)
 
 [Extended Data](ext_articles/33acc58c.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-10-24 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/197015) · `ta`
-
-US dollar exchange rate: 289.0028 INR buying, 298.1109 INR selling. Released by Central Bank on Thursday, 24th.
-
-🟩
-
-The US dollar purchasing price was 289.0028 rupees and the sales price were 298.1109 rupees based on a currency exchange rate released by the Central Bank on Thursday (24).
-
-◼️
-
-[Data](articles/65f48e09.json)
-
-[Extended Data](ext_articles/65f48e09.ext.json)
-
----
-
-### FR petition over Grade 5 Scholarship exam fixed for consideration
-
-*2024-10-24 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102906/fr-petition-over-grade-5-scholarship-exam-fixed-for-consideration-) · `en`
-
-The Supreme Court has ordered for the Fundamental Rights (FR) petition filed seeking an order preventing the release of the 2024 Grade 05 Scholarship Examination results and the cut-off marks, to be taken up for consideration on November 18.
-
-The petitioners have requested the Supreme Court through their FR petition that an order be issued invalidating question paper 01 of the 2024 Grade 05 Scholarship Examination of which certain questions are alleged to have been leaked, and that the exam be held again.
-
-The petition was taken up before Supreme Court Justice Arjuna Obeysekera today (24).
-
-The court ordered the respondents to submit any objections to the petition before November 5, and any further objections related to those were ordered to be submitted before November 12.
-
-Accordingly, the next hearing of the petition has been fixed for November 18 to confirm the facts of the petition.
-
-...
-
-[Data](articles/764f177d.json)
-
-[Extended Data](ext_articles/764f177d.ext.json)
-
----
-
-### Sri Lanka stocks close up, Sampath and Hayleys push turnover
-
-*2024-10-24 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-sampath-and-hayleys-push-turnover-184754/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader ASPI closed up 0.94 percent, or 116.05 points, at 12,473; while the more liquid S&P SL20 Index closed up 1.55 percent, or 56.90 points, at 3,720.
-
-Crossings on Sampath Bank and Hayleys added over 1.3 billion to the turnover.
-
-Foreign buying interest was seen in Sampath, JKH, Commercial, Cargills (Ceylon) (down at 395.00), Richard Pieris and Co (flat at 22.00), and Haycarb (down at 76.80).
-
-Foreign selling was seen in CIC Holdings (up at 76.60), Hayleys, Rhesus Energy (up at 27.80), John Keells Hotels (down at 16.90), Vallibel Finance (up at 45.00), and Dipped Products (down at 38.40).
-
-◼️
-
-[Data](articles/37b13fc4.json)
-
-[Extended Data](ext_articles/37b13fc4.ext.json)
-
----
-
-### Ranjan Ramanayake's nomination papers challenging court
-
-*2024-10-24 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/197012) · `ta`
-
-Ranjan Ramanayake challenges nomination papers in Supreme Court. Contesting parliamentary election as main candidate for United Democratic Voice Party.
-
-🟩
-
-Former parliamentarian Ranjan Ramanayake has filed a petition in the Supreme Court, challenging the nomination papers filed in the general election.
-
-It is noteworthy that Ranjan Ramanayake is contesting the parliamentary election on November 14 as the main candidate of the United Democratic Voice Party.
-
-◼️
-
-[Data](articles/6c3597a8.json)
-
-[Extended Data](ext_articles/6c3597a8.ext.json)
 
 ---

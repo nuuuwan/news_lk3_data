@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 21:40:00**
+As of **2024-10-25 21:59:29**
 
 ## Newspaper Stats
 
-*Scraped **51,403** Articles*
+*Scraped **51,406** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 411
-colombotelegraphcom | 515
+colombotelegraphcom | 516
 bbccomsinhala | 521
 islandlk | 3,049
 economynextcom | 3,135
@@ -18,19 +18,69 @@ dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,784
 adaderanalk | 6,085
-tamilmirrorlk | 7,097
+tamilmirrorlk | 7,098
 virakesarilk | 8,274
-adaderanasinhalalk | 8,928
+adaderanasinhalalk | 8,929
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,403 (100.0%) of 51,403 articles have been extended.
+51,406 (100.0%) of 51,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### இலங்கையில் முக்கிய சுற்றுலாத்தலம் ஒன்றிற்கு விசேட பாதுகாப்பு
+
+*2024-10-25 21:25:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-முக்கிய-சுற்றுலாத்தலம்-ஒன்றிற்கு-விசேட-பாதுகாப்பு/175-346059) · `ta`
+
+Sri Lanka's major tourist attractions receive special protection measures due to potential attacks targeting foreign tourists. Security actions implemented at temples, restaurants, and other tourist sites.
+
+🟩
+
+இதன்படி, தம்புள்ளை ரஜமகா விகாரை, தம்புள்ளை உயவத்த ரஜமகாவிகாரை மற்றும் சுற்றுலாத்தளங்கள், உணவகங்கள் என்பவற்றில் விசேடப் பாதுகாப்பு நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன.
+
+இலங்கை வரும் சுற்றுலாப்பயணிகளை குறிவைத்து தாக்குதல் நடத்த திட்டமிடப்படுவதாக தெரிவிக்கப்பட்டதையடுத்து இந்த பாதுகாப்பு நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/6aef43ff.json)
+
+[Extended Data](ext_articles/6aef43ff.ext.json)
+
+---
+
+### පක්ෂීන් සහ උරග විශේෂ නීතිවිරෝධිව මුහුදු මගින් ප්‍රවාහනය කල 6කට ලක්ෂ 28ක දඩයක්
+
+*2024-10-25 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202562) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka: Marine law violation case involving birds and reptiles. Five Sri Lankan fishermen and one Indian national fined Rs. 18 lakhs each. Later reduced to Rs. 1.62 lakhs for five accused. Navy vessel seized. Animals transferred to National Zoological Gardens. Investigation ongoing.
+
+🟩
+
+පක්‍ෂීන් සහ උරග විශේෂ නීති විරෝධී ලෙස මුහුදු මාර්ගයෙන් ප්‍රවාහනය කල 06 දෙනෙකුට රුපියල් විසිඅට ලක්ෂ අසුදාහක දඩයක් නියම කිරීමට ගාල්ල අතිරේක මහෙස්ත්‍රාත්වරිය නියෝග කර තිබේ.
+
+මෙලෙස දඩ නියම වූයේ මීගමුව සහ කොච්චිකඩේ යන ප්‍රදේශයන් හි පදිංචි ධීවරයින් පස් දෙනෙකු සහ ඉන්දියානු ජාතිකයෙකුට ය.
+
+සැකකාර ධීවරයන් පස්දෙනා සහ ඉන්දියානු ජාතිකයා වරද පිළිගැනීමෙන් පසු එක් අයෙකුට රුපියල් හාර ලක්ෂ අසූ දහස බැගින් හයදෙනාට රුපියල් විසි අට ලක්ෂ අසූ දහසක දඩයක් නියම කිරීමට ගාල්ල අතිරේක මහෙස්ත්‍රාත් ලක්මිණි විදානගමගේ මහත්මිය ඊයේ (24) නියෝග කර ඇත.
+
+මෙම සතුන් ප්‍රවාහනය කළ නාවික හමුදා භාරයේ තිබු ධීවර යාත්‍රාව රාජසන්තක කිරීමට නියෝග කළ මහේස්ත්‍රාත්වරිය දැනට ජාතික සත්වෝද්‍යානය භාරයේ තිබෙන සතුන් සියලුම දෙනාද රාජසන්තක කර දෙහිවල ජාතික සත්වෝද්‍යානයට බාරදෙන ලෙසද නියෝග කළාය.
+
+පක්‍ෂීන් සහ උරග විශේෂ ජාවාරමක් සම්බන්ධයෙන් නාවික හමුදාවට ලද තොරතුරක් මත කල මෙහෙයුමකදි දකුණු මුහුදේ යාත්‍රා කරමින් තිබූ සැකකටයුතු මෙරට බහුදින ධීවර යාත්‍රාව පසුගිය ජූලි මස 07 වැනි දින අත්අඩංගුවට ගෙන තිබුණි.
+
+...
+
+[Data](articles/d13861b5.json)
+
+[Extended Data](ext_articles/d13861b5.ext.json)
+
+---
 
 ### A 15 -year -old male elephant dies in the village of MannarArresting
 
@@ -1059,6 +1109,22 @@ The security of the Batticaloa court complex has been strengthened and two polic
 [Data](articles/a4a8bda0.json)
 
 [Extended Data](ext_articles/a4a8bda0.ext.json)
+
+---
+
+### Potential Consequences Of Targeting Tourists
+
+*2024-10-25 15:50:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/potential-consequences-of-targeting-tourists/) · `en`
+
+A group of 22 Israeli nationals departed from Bandaranaike International Airport (BIA) in Katunayake on Wednesday, October 23, due to heightened security warnings about potential terrorist threats in the Arugam Bay area. This evacuation follows increased vigilance across Sri Lanka, prompted by travel advisories from multiple embassies, including those of the United States, United Kingdom, Australia, Canada, New Zealand, and Israel. These warnings specifically advised caution in regions like Arugam Bay, which has recently attracted a significant influx of Israeli tourists due to its reputation as a premier surfing destination.
+
+The targeting of tourists, including those of Jewish descent, in Sri Lanka—or anywhere else—must be unequivocally condemned. Such acts jeopardize innocent lives, tarnish a nation’s international reputation, and undermine its social and economic stability.
+
+...
+
+[Data](articles/95712088.json)
+
+[Extended Data](ext_articles/95712088.ext.json)
 
 ---
 
@@ -2465,75 +2531,5 @@ The victim was admitted to the Kandy Hospital and received treatment at the Kand
 [Data](articles/712fdc93.json)
 
 [Extended Data](ext_articles/712fdc93.ext.json)
-
----
-
-### Vegetable prices in Dambulla
-
-*2024-10-25 09:48:59* · [`adalk`](https://www.ada.lk/picture_story/දඹුල්ලේ-එළවළු-මිල-ලෙල්ලටම-බසියි/10-412680) · `si`
-
-Dambulla Economic Center vegetable prices drop. Vendors blame arrests and low sales. Farmers warn crops like eggplants, tomatoes may perish. High production costs cited.
-
-🟩
-
-Economic Center Tradesmen point out that vegetables in the Dambulla Economic Center rapidly reduced.
-
-They point out that the vendor of the vendors have been reduced due to the arrest of the vendors and the vendor of the merchants have declined due to their purchasing.
-
-The vendors claim that they are destroyed not vessels, but the people cannot be vehicles out of less than the cost of vegetables and other expenses.
-
-Farmers point out that many of the vegetables, eggplant, tomatoes, Kekplato, Kekar, Kekiri, Kekiri and the Kandyan areas will be destroyed.
-
-Farvings as well as vendors point out that the cost of production is very high and the need for a proper program
-
-We have found about the bulk price of a kilogram of economic centers in Dambulla. Below are the prices.
-
-◼️
-
-[Data](articles/ad614162.json)
-
-[Extended Data](ext_articles/ad614162.ext.json)
-
----
-
-### Independent Trade Workers Losing Voting Rights
-
-*2024-10-25 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197005) · `ta`
-
-Sri Lanka: Independent trade workers lose voting rights due to economic impact and distance from hometowns. Media briefing addresses challenges faced by 80,000 diaspora workers in free trade zones. Issues include lack of voting rights, high travel costs, and exploitation of labor. Women workers particularly affected, seeking solutions to protect voting rights and improve living conditions.
-
-🟩
-
-Sri Lanka's economy is a major impact in the post -Corona current context, with the impact of the impact of the industries in the industries that have been very impact, and the workers in the industries are facing major problems and losing their voting rights.
-
-A media briefing was held on Wednesday (23) at the Maradana CSR to address the problems faced by about 80,000 diaspora workers in Sri Lanka's free trade zones, including Katunayake, Piyagama, Vatupitivala and Mirigama.
-
-Sirambhamani Kendra Project Organizer Sukat Rajapaksa, Managing Director of the Tabindu Federation, Chandra Devanayana, and Red Devanarayana, on the issue of the right to vote from the current jobs in the upcoming general elections and raising awareness of the challenges and rights violations they face, without the environment to return to registered areas.Attorney -at -Law Human Rights activist Tarushi Tishara Fernando also participated.
-
-...
-
-[Data](articles/d54046a5.json)
-
-[Extended Data](ext_articles/d54046a5.ext.json)
-
----
-
-### Preparations underway for Elpitiya PS Election
-
-*2024-10-25 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102914/preparations-underway-for-elpitiya-ps-election) · `en`
-
-The Elections Commission says that the departure of relevant officials for duties related to the 2024 Elpitiya Pradeshiya Sabha Election and the transporting of ballot papers and ballot boxes to the relevant polling centers will take place today (25).
-
-A total of 55,643 voters are eligible to cast their votes at 48 polling centers and the polling will be held according to the 2018 voter registration list, the Election Commission announced.
-
-Meanwhile, the chairman of the Election Commission R.M.A.L. Rathnayake stated that voting for the Elpitiya Pradeshiya Sabha election will be held from 7.00 a.m. to 4.00 p.m. tomorrow (26), with all necessary security measures in place.
-
-Additionally, the Executive Director of People’s Action for Free & Fair Elections (PAFFREL) Rohana Hettiarachchi, stated that they will deploy their officials for monitoring at all the polling stations during the Elpitiya Pradeshiya Sabha Election.
-
-◼️
-
-[Data](articles/d0601cc9.json)
-
-[Extended Data](ext_articles/d0601cc9.ext.json)
 
 ---

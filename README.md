@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 13:23:53**
+As of **2024-10-25 13:40:11**
 
 ## Newspaper Stats
 
-*Scraped **51,331** Articles*
+*Scraped **51,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,780
-adaderanalk | 6,077
+adaderanalk | 6,078
 tamilmirrorlk | 7,076
 virakesarilk | 8,254
-adaderanasinhalalk | 8,911
+adaderanasinhalalk | 8,912
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,331 (100.0%) of 51,331 articles have been extended.
+51,333 (100.0%) of 51,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Donated Australian King Air arrives in Sri Lanka
+
+*2024-10-25 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102919/donated-australian-king-air-arrives-in-sri-lanka) · `en`
+
+A former Royal Australian Air Force King Air 350 arrived in Sri Lanka on October 24 following a ferry flight from Australia.
+
+The aircraft, A32-673, was earmarked for donation to the Sri Lankan Air Force in May 2023. It will be supported in Sri Lanka for 12 months by Australia, before responsibility is turned over to the Sri Lankan Air Force.
+
+It will be used to perform maritime domain awareness missions by the Sri Lankan Air Force, complementing a King Air 360ER provided by the US Government in early October.
+
+A32-673 was fitted with an intelligence, surveillance and reconnaissance pod before delivery to the Sri Lankan Air Force.
+
+In 2023, fourteen years after handing its four Beechcraft 350 Super King Air aircraft to Air Force, the Australian Army once again decided it needs a fixed-wing support capability.
+
+...
+
+[Data](articles/529049da.json)
+
+[Extended Data](ext_articles/529049da.ext.json)
+
+---
+
+### Treasure progress in Sri Lanka - IMF
+
+*2024-10-25 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202545) · `si`
+
+Sri Lanka makes progress on IMF reforms, third review underway under EFF program.
+
+🟩
+
+The International Monetary Fund (IMF) says Sri Lanka has made significant progress in implementing the IMF reforms for land.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ ආසියා පැසිෆික් කලාපයේ අධ්‍යක්ෂක ක්‍රිෂ්ණා ශ්‍රීනිවාසන් ඒ බව පෙන්වා දී තිබේ.
+
+ඔහු වැඩිදුරටත් සඳහන් කර ඇත්තේ ශ්‍රී ලංකාවේ විස්තීරණ ණය පහසුකම (EFF) යටතේ ළඟදීම පැමිණෙන තුන්වන සමාලෝචනය කරා කඩිනමින් ඉදිරියට යාමට අවස්ථාව උදාකර ඇති බවය.
+
+◼️
+
+[Data](articles/5b15c0e2.json)
+
+[Extended Data](ext_articles/5b15c0e2.ext.json)
+
+---
 
 ### LTTE terrorists have not been observed in Sri Lanka's attack - Police Media Spokesman
 
@@ -2271,45 +2315,5 @@ Some historians including Genovese (1972) have explained a practice among planta
 [Data](articles/e3478f9a.json)
 
 [Extended Data](ext_articles/e3478f9a.ext.json)
-
----
-
-### India evacuates hundreds of thousands and shuts schools as tropical storm nears
-
-*2024-10-24 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102909/india-evacuates-hundreds-of-thousands-and-shuts-schools-as-tropical-storm-nears) · `en`
-
-Indian authorities have shut schools, evacuated hundreds of thousands of people and canceled trains in parts of the country as rescue teams braced on Thursday for a tropical storm brewing in the Bay of Bengal.
-
-Tropical Storm Dana is expected to intensify, bringing winds of 100-110 kph (62-68 mph) and gusts up to 120 kph (74 mph), as it pushes toward the country’s eastern coastline, where it is set to make landfall late Thursday and early Friday, according to the Indian Meteorological Department.
-
-Climate scientists say severe storms are becoming more frequent in South Asia. Global warming driven by planet-heating gases has caused them to become more extreme and unpredictable.
-
-The storm is expected to affect most parts of the eastern state of Odisha, which saw strong winds and rain on Thursday morning. Authorities have closed schools, canceled more than 200 trains, suspended flights and warned fishermen not to venture out to sea.
-
-...
-
-[Data](articles/4d9bd57b.json)
-
-[Extended Data](ext_articles/4d9bd57b.ext.json)
-
----
-
-### India evacuates hundreds of thousands of people and shuts schools as a tropical storm nears
-
-*2024-10-24 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102909/india-evacuates-hundreds-of-thousands-of-people-and-shuts-schools-as-a-tropical-storm-nears) · `en`
-
-Indian authorities have shut schools, evacuated hundreds of thousands of people and canceled trains in parts of the country as rescue teams braced on Thursday for a tropical storm brewing in the Bay of Bengal.
-
-Tropical Storm Dana is expected to intensify, bringing winds of 100-110 kph (62-68 mph) and gusts up to 120 kph (74 mph), as it pushes toward the country’s eastern coastline, where it is set to make landfall late Thursday and early Friday, according to the Indian Meteorological Department.
-
-Climate scientists say severe storms are becoming more frequent in South Asia. Global warming driven by planet-heating gases has caused them to become more extreme and unpredictable.
-
-The storm is expected to affect most parts of the eastern state of Odisha, which saw strong winds and rain on Thursday morning. Authorities have closed schools, canceled more than 200 trains, suspended flights and warned fishermen not to venture out to sea.
-
-...
-
-[Data](articles/959b09f7.json)
-
-[Extended Data](ext_articles/959b09f7.ext.json)
 
 ---

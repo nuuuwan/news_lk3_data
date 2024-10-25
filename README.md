@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 01:10:17**
+As of **2024-10-26 01:39:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,932
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,423 (100.0%) of 51,424 articles have been extended.
+51,424 (100.0%) of 51,424 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,9 +36,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-10-26 00:50:21* · [`dailyftlk`](https://www.ft.lk/columns/State-hood-and-survival-Tamils-Palestinians-and-self-determination/4-768427) · `en`
 
-At the time of writing, there are reports of credible threats targeting Israeli establishments in Arugam Bay, travel advisories have already been issued by the UK, US, Australia and others. Sri Lanka is depending on a strong tourism season that starts proper in December, ‘the season’; forex flows and economic activity, are vital for the economy and debt-sustainability.
+Do Sri Lankan Tamil demands for a separate State or even ‘Eelam’ have the same status and legality within the international system as a Palestinian State?
 
-The drama on the east coast has created a social media storm over perceived Israeli commercial colonisation of parts of the east and south coastline through enterprises that many suggest operate illegally and use foreign payment systems to bypass regulation and taxation. There were also many comparisons and parallels drawn to the conflict in the Middle East and Israel’s role in it, and how many perceive Israel to be a colonial project of sorts.
+Ultimately, the relative strengths and legitimacy of Palestinian claims to State-hood vs. Tamil claims to State-hood are based on the balance between the right to self-determination of one group vs. the right to maintain the existing territorial integrity of the other group. An interesting point to note is that in this thought experiment, the Northern Tamils are more analogous to the Jews than to the Palestinians. If this sounds counterintuitive, it is because comparisons of the two projects for State-hood are tenuous, as are attempts to make the rationale for one, a precedent for the other
 
 ...
 
@@ -61,6 +61,8 @@ Bandara who is now domiciled in the UK has written with a sense of personal loss
 ...
 
 [Data](articles/234839c3.json)
+
+[Extended Data](ext_articles/234839c3.ext.json)
 
 ---
 

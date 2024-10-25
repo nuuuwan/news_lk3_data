@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 21:23:57**
+As of **2024-10-25 21:40:00**
 
 ## Newspaper Stats
 
-*Scraped **51,399** Articles*
+*Scraped **51,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,68 @@ dailymirrorlk | 4,733
 adalk | 4,784
 adaderanalk | 6,085
 tamilmirrorlk | 7,097
-virakesarilk | 8,270
+virakesarilk | 8,274
 adaderanasinhalalk | 8,928
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,399 (100.0%) of 51,399 articles have been extended.
+51,403 (100.0%) of 51,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### A 15 -year -old male elephant dies in the village of MannarArresting
+
+*2024-10-25 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197127) · `ta`
+
+Elephant dies illegally electrocuted Mannar Sri Lanka
+
+🟩
+
+A 15 -year -old male elephant has been found dead on Friday morning (25) in the village of Parakkadan village, which belongs to the Mannar Manthai West Divisional Secretariat.
+
+The people of the area have said that the elephant has recently spread the area in the area of ​​many agricultural lands and agricultural lands.
+
+The elephant died on Thursday night (24), the residents of the area said.
+
+Officials of the Forest Department, who arrived at the scene of the elephant's death, said that the elephant had died in an illegal electric fence.
+
+It is reported that one person has been arrested on suspicion by the Mannar District Wildlife Department officials in connection with the death incident.
+
+◼️
+
+[Data](articles/ae4f53a1.json)
+
+[Extended Data](ext_articles/ae4f53a1.ext.json)
+
+---
+
+### Families have the right to know the truth of relationships - American Ambassador Julie Sung
+
+*2024-10-25 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197126) · `ta`
+
+US Ambassador Julie Sung supports families' rights to truth about missing relatives in Sri Lanka. She met with families in Northern Province, listening to their stories and acknowledging their struggles. The ambassador emphasized that families deserve to know what happened to their loved ones, regardless of challenges faced.
+
+🟩
+
+US Ambassador to Sri Lanka Julie Sung said that families who are still looking for their relatives have the right to find out what happened to their loved ones.
+
+US ambassador to Sri Lanka, who is on an official visit to the Northern Province, met with relatives of the missing persons from Mannar district on Friday (25) and asked for their positions and demands.
+
+US ambassador Julie Sung, who has posted an official 'X' site on the meeting, said he was very saddened by their stories after a meeting with the family of the missing persons.
+
+At the same time, like their stories, the stories of the families of the missing persons who have been heard in the North and Eastern Provinces, like their stories, have revealed the greatness of the parties who are still looking for their relatives and fighting for truth and justice in the face of various challenges.
+
+...
+
+[Data](articles/53876733.json)
+
+[Extended Data](ext_articles/53876733.ext.json)
+
+---
 
 ### Again in the US electoral field
 
@@ -79,6 +129,38 @@ The European Union is a decisive partner in Sri Lanka, as the second largest exp
 [Data](articles/6b26f283.json)
 
 [Extended Data](ext_articles/6b26f283.ext.json)
+
+---
+
+### Asian Cup for Growing Players Team: Sri Lanka A team in finals
+
+*2024-10-25 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/197125) · `ta`
+
+Sri Lanka A team qualifies for Asian Cup final against adult players in Oman. They defeated Pakistan in semis, winning by 7 wickets. Key performances from Tushan Hemantha, Ahan Wickremasinghe, and Lahiru Udara.
+
+🟩
+
+The Sri Lankan A team qualified to play in the Asian Cup final between the grown -up players in Oman.
+
+The Sri Lankan A team advanced to the final by 7 wickets in the first semi -finals held against Shaheans in Pakistan on Friday afternoon.
+
+Tushan Hemantha's accurate bowling, Ahan Wickremasinghe and Lahiru Udara, have made Sri Lanka easier.
+
+Pakistan scored 135 runs for the loss of 9 wickets in 20 overs.
+
+Initial player Omir Yusuf Mataram captured 68 runs with 46 balls and 4 sixes in 46 balls.
+
+Dushan Hemantha took 4 wickets for 21 runs, Nippun Ranzika 2 wickets for 21 runs while Eshan Malinga took 2 wickets for 28 runs.
+
+In response to 136 runs, the Sri Lankan A team won the toss and elected to win only 3 wickets in 16.3 overs.
+
+Ahan Wickremesinghe scored 53 runs and Lahiru Udara 43 without losing the match and the two shared 64 runs in the 2nd wicket.
+
+◼️
+
+[Data](articles/b200e027.json)
+
+[Extended Data](ext_articles/b200e027.ext.json)
 
 ---
 
@@ -131,6 +213,30 @@ He was speaking at the opening of the election office of Colombo District Leader
 [Data](articles/e6f287ba.json)
 
 [Extended Data](ext_articles/e6f287ba.ext.json)
+
+---
+
+### If the government does not properly handle relations with the unions, economic reforms will be affected - Ali Sabri
+
+*2024-10-25 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197124) · `ta`
+
+Government handles unions well for economic reform success - Ali Sabri warns
+
+🟩
+
+Former External Affairs Minister Ali Sabri has warned that if the government does not properly handle its ties with the trade unions, the pressure on the industry may become an important obstacle to achieving economic restructuring and growth.
+
+Former minister Ali Sabri, who has posted a record on his official 'X' site, said that the current government has benefited from the support of the unions when the current government was opposed.. However, when they are in office, the connection is forced to recover and handle it properly.
+
+At the same time, Ali Sabri has warned that if it does not handle this properly, the pressure from the trade unions can become an important obstacle for economic restructuring and growth in the country.
+
+He therefore urged the government and the unions to be excessively understood about their roles and responsibilities in the current situation.
+
+◼️
+
+[Data](articles/f2844feb.json)
+
+[Extended Data](ext_articles/f2844feb.ext.json)
 
 ---
 
@@ -2429,109 +2535,5 @@ Additionally, the Executive Director of People’s Action for Free & Fair Electi
 [Data](articles/d0601cc9.json)
 
 [Extended Data](ext_articles/d0601cc9.ext.json)
-
----
-
-### Trees uprooted, power lines snapped as Cyclone Dana pummels India’s east coast
-
-*2024-10-25 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102912/trees-uprooted-power-lines-snapped-as-cyclone-dana-pummels-indias-east-coast) · `en`
-
-A ‘severe cyclonic storm’ pounded India’s eastern coast on Friday, uprooting trees, snapping power lines and inundating some areas, authorities said, adding that no deaths or injuries were reported.
-
-Cyclone ‘Dana‘ made landfall in Odisha state around midnight with wind speeds of 100-110 kmph (62-68 mph), gusting up to 120 kph (75 mph), and is expected to weaken into a cyclonic storm by forenoon, the weather department said.
-
-Odisha had closed schools, suspended flights to and from its capital city of Bhubaneswar until Friday morning, and evacuated more than half a million people in anticipation of the storm.
-
-“We don’t have any reports of damage to life or property, only damage to trees. Power in the affected area will be restored by late afternoon,” said Dilip Routrai, administrative chief of the region where the cyclone made landfall.
-
-...
-
-[Data](articles/61583a36.json)
-
-[Extended Data](ext_articles/61583a36.ext.json)
-
----
-
-### Residents in Pamunugama Police objection
-
-*2024-10-25 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202537) · `si`
-
-Pamunugama residents protest outside police station over alleged assault of two youths. Two men, ages 20 and 24, arrested for suspected gold theft. Parents claim innocence. Incident sparks community unrest.
-
-🟩
-
-Pamunugama was in front of the police station yesterday (24), accusing two policemen arrested.
-
-According to our correspondent, it was a warm situation near the police station.
-
-The villagers in front of Pamunugama Police have been protesting yesterday afternoon, alleging that two youths were brutally assaulted by the police.
-
-The two youths have been arrested on suspicion of storing a gold robbery on Sunday.
-
-The two youths were in the seed place where they were serving.
-
-Two youths aged 20, 24 years old residents of Pamunugama and Seleppear.
-
-However, parents, including parents, accused the two youths who are not involved in a gold blow to a gold blow.
-
-The two youths who had been assaulted by the OIC of the Police OIC had taken to the Ragama Teaching Hospital.
-
-A promise of the OIC of the Kanglpitiya has been scattered with a justice regarding the incident.
-
-◼️
-
-[Data](articles/421a165e.json)
-
-[Extended Data](ext_articles/421a165e.ext.json)
-
----
-
-### Today the rain will increase
-
-*2024-10-25 09:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மழை-அதிகரிக்கும்/175-346029) · `ta`
-
-Heavy rain expected in Western, Sabaragamuwa, North Western, Galle, and Matara districts. Thunderstorms possible in Puttalam, Mannar, Jaffna, and Kilinochchi. Evening/night rain forecasted elsewhere. Northern, North Central, and North Western provinces may experience temporary strong winds and lightning. Public advised to take precautions against potential dangers.
-
-🟩
-
-Thundershowers or thundershowers will occur in the Western, Sabaragamuwa, North Western and Galle and Matara districts today (25), the Department of Meteorology said.
-
-The department said that more than 75 mm of heavy rainfall could be reported in some areas in Puttalam, Mannar, Jaffna and Kilinochchi districts.
-
-Rain or thunderstorms can occur in the evening or night in other parts of the country.
-
-The northern, north Central and North Western Provinces and Trincomalee and Hambantota districts are from time to time.
-
-The Department of Meteorology and the public are asked to take necessary steps to reduce the dangers of temporary winds and lightning with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/e32712ec.json)
-
-[Extended Data](ext_articles/e32712ec.ext.json)
-
----
-
-### Sri Lanka in talks to end Israel linked travel advisories, full security to tourists: Minister
-
-*2024-10-25 09:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-talks-to-end-israel-linked-travel-advisories-full-security-to-tourists-minister-184840/) · `en`
-
-ECONOMYNEXT  – Sri Lanka is in talks with foreign embassies to remove travel advisories after warnings of attacks on Israeli tourists in Arugam Bay, a beach resort in  the island’s East Coast, while further ensuring protection to tourists visiting the island, Minister Vijitha Herath said.
-
-“We are in discussions (to remove travel advisories),” Minister Herath told reporters Thursday.
-
-“What we should do is to take action to strengthen security. We have taken action, if required we will do more in the future.”
-
-The US issued a warning for citizens not to travel to Arugam Bay, saying there was credible information of a possible attacks in the area, which was repeated by the British and some other embassies.
-
-Israel asked citizens to leave Argugam Bay and several beach resorts and not to engage in activities that may show their nationality.
-
-Sri Lanka has arrested three persons, all Sri Lankans, for questioning related to the alleged plan to stage attacks Israelis.
-
-...
-
-[Data](articles/e48da47c.json)
-
-[Extended Data](ext_articles/e48da47c.ext.json)
 
 ---

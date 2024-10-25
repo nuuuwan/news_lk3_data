@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 17:23:55**
+As of **2024-10-25 17:40:46**
 
 ## Newspaper Stats
 
-*Scraped **51,374** Articles*
+*Scraped **51,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,782
-adaderanalk | 6,082
-tamilmirrorlk | 7,089
+adaderanalk | 6,083
+tamilmirrorlk | 7,090
 virakesarilk | 8,265
 adaderanasinhalalk | 8,921
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,921
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,374 (100.0%) of 51,374 articles have been extended.
+51,376 (100.0%) of 51,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Arughambe Incident - In the detainees detention
+
+*2024-10-25 17:13:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-சம்பவம்-கைதானவர்கள்-தடுப்பு-காவலில்/175-346053) · `ta`
+
+Here's a 200-character summary of the Arughambe Incident:
+
+
+
+Israelis planned attack on Israeli prisons. Suspects arrested under police preventive custody order. Three suspects detained by Counter-Terrorism Investigation Division.
+
+🟩
+
+இந்நாட்டில் உள்ள இஸ்ரேலிய பிரஜைகளை இலக்கு வைத்து தாக்குதல் நடத்த திட்டமிட்ட சம்பவம் தொடர்பில் கைது செய்யப்பட்ட சந்தேக நபர்களை தடுத்து வைத்து விசாரணை செய்வதற்கு பொலிஸார் தடுப்பு காவல் உத்தரவினை பெற்றுள்ளனர்.
+
+சம்பவம் தொடர்பில் சந்தேகத்தின் பேரில் மூவர் பயங்கரவாத விசாரணை பிரிவினரால் கைது செய்யப்பட்டுள்ளமைகுறிப்பிடத்தக்கது. Remble
+
+◼️
+
+[Data](articles/0bcbc5c4.json)
+
+[Extended Data](ext_articles/0bcbc5c4.ext.json)
+
+---
+
+### CSE’s ASPI crosses 12,500 points
+
+*2024-10-25 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102924/cses-aspi-crosses-12500-points) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has crossed the 12,500 points mark today (04), for the first time since 10 May 2024.
+
+Accordingly, the ASPI increase by 44.08 points today to close at 12,517.58.
+
+Meanwhile, the market turnover was recorded at Rs.4.75 billion today.
+
+◼️
+
+[Data](articles/c504485a.json)
+
+[Extended Data](ext_articles/c504485a.ext.json)
+
+---
 
 ### President instructs officials to solve the price problem
 
@@ -2469,59 +2511,5 @@ The public requests the public to take necessary steps to reduce the damages cau
 [Data](articles/2798eab0.json)
 
 [Extended Data](ext_articles/2798eab0.ext.json)
-
----
-
-### The government should investigate whether the incident is an international conspiracy to disrupt the tourism industry
-
-*2024-10-25 06:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197020) · `ta`
-
-Government investigates potential international conspiracy disrupting Sri Lanka's tourism industry. Foreign intelligence warns of threats to tourist areas. Security forces request information, but concerns arise over lack of action. Politicians call for justice without politicizing the incident.
-
-🟩
-
-The government should look into the conspiracy to destabilize tourism in Sri Lanka through the propaganda of a terrorist attack targeting tourist areas in Sri Lanka.. Former parliamentarian Dullas Alahapperuma said the government should take action to bring justice to victims without turning the survival Sunday attack into an election auction.
-
-He was speaking at a media briefing held at the United People's Alliance headquarters on Thursday (24).
-
-Foreign Intelligence Services have warned us about the attack in Sri Lanka through their embassies. Foreign intelligence reports say that the Eastern Region, the South Region, the Western Region and the Tourism Geological areas, which are centered on tourism in Sri Lanka, have been threatened.
-
-Following the announcement of the US embassy and other embassies, the Sri Lankan security forces also requested the security forces to inform the security forces if they found any information about the incident.
-
-...
-
-[Data](articles/fc70b713.json)
-
-[Extended Data](ext_articles/fc70b713.ext.json)
-
----
-
-### Video release for the song 'Brother' starring Jayam Ravi
-
-*2024-10-25 05:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197030) · `ta`
-
-"Song 'Mathukkuthu Kalu Rendu..' from 'Brother' starring Jayam Ravi released. Directed by M. Jaime Ravi, featuring Priyanka Arul Mohan. Composed by Harris Jayaraj. Over 1 million views."
-
-🟩
-
-The song 'Mathukkuthu Kalu Rendu ..', which is featured in the upcoming film 'Brother' starring Jayam Ravi, has been released.
-
-Director M. Jaime Ravi, Priyanka Arul Mohan, Natti alias Natraj, Bhumika Chawla, V TV Ganesh, Rao Ramesh, Achiyut Kumar, Saranya Ponvannan, Sita. S.. Bhaskar, Suresh Chakraborty and many others have been cast.
-
-Harris Jayaraj has composed the film, which has been recorded by Vivekananda Santosh.. The film was produced by Screen Sean Media Entertainment.
-
-The film 'Makka Mishi', which was released on the 31st of October, was released on October 31, the song 'Makka Mishi'.
-
-In this case, the movie 'Madukkudu Kalu is awes'.The song and the song for the song have been released. The song is written by Parvati Meera, the background singer Madhu Sri.
-
-The song, which sounds enthusiastically in the context of the wedding ceremony, can no longer be danced with all wedding events.
-
-The song has been visited by more than a million viewers within a short time of release.
-
-◼️
-
-[Data](articles/c79a6586.json)
-
-[Extended Data](ext_articles/c79a6586.ext.json)
 
 ---

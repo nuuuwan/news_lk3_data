@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 13:40:11**
+As of **2024-10-25 13:59:33**
 
 ## Newspaper Stats
 
-*Scraped **51,333** Articles*
+*Scraped **51,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,780
 adaderanalk | 6,078
-tamilmirrorlk | 7,076
+tamilmirrorlk | 7,077
 virakesarilk | 8,254
 adaderanasinhalalk | 8,912
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,912
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,333 (100.0%) of 51,333 articles have been extended.
+51,333 (100.0%) of 51,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### தேர்தல் சுவரொட்டி ஒட்டியவர் மின்சாரம் தாக்கி பலி
+
+*2024-10-25 13:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தேர்தல்-சுவரொட்டி-ஒட்டியவர்-மின்சாரம்-தாக்கி-பலி/72-346039) · `ta`
+
+முல்லைத்தீவு, ஒட்டுசுட்டான் பொலிஸ் பிரிவுக்குட்பட்ட முத்துவிநாயகபுரம் பகுதியில்  கட்சி ஒன்றின் தேர்தல் பரப்புரைக்கான சுவரொட்டி ஒட்டும் போது நபரொருவர் மின்சாரம் தாக்கி உயிரிழந்த சம்பவம் வியாழக்கிழமை (24)  இரவு பதிவாகியுள்ளது.
+
+முத்துவிநாயகபுரம் முத்துஐயன்கட்டு பகுதியில் கட்சி ஒன்றிற்கான தேர்தல் சுவரொட்டியை இரவு 11.00 மணியளவில் ஒட்ட முற்பட்டவர் யானைக்காக காணி வேலியில் இணைக்கப்பட்ட மின்சார இணைப்பில் இருந்து பாய்ந்த மின்சாரம் தாக்கி உயிரிழந்துள்ளார்.
+
+தகரம் அடித்த குறித்த காணி வேலிக்கு முன்னால் காணி உரிமையாளரால் யானையில் இருந்து பாதுகாத்துக் கொள்வதற்காக மின்சார இணைப்பு போடப்பட்டிருந்தது. இது தெரியாமல் அவரது வேலி தகரத்தில்  சுவரொட்டி ஒட்ட முற்பபட்ட போது மின்சாரத்தில் சிக்குண்ட குறித்த நபர் உயிரிழந்துள்ளார்
+
+முத்துவிநாயகபுரம் முத்துஐயன்கட்டு ஒட்டுசுட்டானை சேர்ந்த 45 அகவையுடைய காசிலிங்கம் லங்காதீபன் என்பவே இவ்வாறு மின்சாரம் தாக்கி உயிரிழந்துள்ளார்.
+
+இவரது உடலம் முல்லைத்தீவு மாவட்ட மருத்துவமனையில் வைக்கப்பட்டுள்ளது.சம்பவம் தொடர்பில் ஒட்டுசுடுட்டான் பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றார்கள்.
+
+...
+
+[Data](articles/4cae334f.json)
+
+---
 
 ### Donated Australian King Air arrives in Sri Lanka
 
@@ -2299,21 +2319,5 @@ However, it is clear that such energy can provoke resistance. Many who have demo
 [Data](articles/05e68e91.json)
 
 [Extended Data](ext_articles/05e68e91.ext.json)
-
----
-
-### Should Sri Lanka Allow Politicians To Play The Pork Barrel Game In The Future?
-
-*2024-10-24 21:39:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/should-sri-lanka-allow-politicians-to-play-the-pork-barrel-game-in-the-future/) · `en`
-
-In the 19th century, barrels filled with salted pork were considered a significant source of food, especially in rural America. This was a food preservation technique to make the meat last through the winter. Another interesting fact is that not every family had the capability to own such a barrel full of salted pork. This means that owning a pork barrel also served as a symbol of a prestigious social class with greater access to resources.
-
-Some historians including Genovese (1972) have explained a practice among plantation owners at that time to win the loyalty of their enslaved workers. Those slaves were granted access occasionally to a pork barrel as a reward or to maintain peace. Therefore, slaves considered it a rare treat for them. Thereafter, this scenario has been used metaphorically as “the pork barrel game” to describe situations where some groups of people attempt to win the loyalty of others by selectively offering economic benefits.
-
-...
-
-[Data](articles/e3478f9a.json)
-
-[Extended Data](ext_articles/e3478f9a.ext.json)
 
 ---

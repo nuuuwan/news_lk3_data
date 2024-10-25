@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 23:10:41**
+As of **2024-10-25 23:24:09**
 
 ## Newspaper Stats
 
-*Scraped **51,411** Articles*
+*Scraped **51,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ dailymirrorlk | 4,733
 adalk | 4,785
 adaderanalk | 6,087
 tamilmirrorlk | 7,098
-virakesarilk | 8,274
-adaderanasinhalalk | 8,931
+virakesarilk | 8,275
+adaderanasinhalalk | 8,932
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,411 (100.0%) of 51,411 articles have been extended.
+51,413 (100.0%) of 51,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Indian team to fight Afghanistan
+
+*2024-10-25 23:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202565) · `si`
+
+India vs Afghanistan: India won the match, defeating Afghanistan in the second semi-final of the Asian Egun T20 cricket tournament. Afghanistan scored 206 runs in 20 overs, while India achieved 186 runs in 20 overs. This is Afghanistan's first time qualifying for the final. Sri Lanka won the first semi-final against Pakistan. The final match will be between Sri Lanka and Afghanistan on date 27.
+
+🟩
+
+The Afghan 'A' 'A' "A" group team was defeated in the second semi-final match against the Asian Egun T20 cricket tournament.
+
+The Afghan group scored 206 runs for the loss of 4 wickets in the 20 overs.
+
+කෙසේ නමුත් ඊට පිළිතුරු ලෙස ඉන්දීය කණ්ඩායමට පන්දුවාර 20 තුළදී කඩුලු 7ක් දැවී රැස්කළ හැකි වූයේ ලකුණු 186ක් පමණි.
+
+This is the first time the Afghan group of Afghan group is eligible for the final.
+
+Sri Lanka were able to win the Pakistan's team from the first semi-final.
+
+මෙම තරගාවලියේ අවසන් මහා තරගය ශ්‍රී ලංකා කණ්ඩායම හා ඇෆ්ගනිස්තාන  කණ්ඩායම අතර අනිද්දා (27) පැවැත්වීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/d08159c9.json)
+
+[Extended Data](ext_articles/d08159c9.ext.json)
+
+---
 
 ### No businessman will be permitted to exploit situation by unfairly raising rice prices - President
 
@@ -73,6 +101,30 @@ Sinhala police officers suspended after allegations of brutality against youth
 [Data](articles/a7f57678.json)
 
 [Extended Data](ext_articles/a7f57678.ext.json)
+
+---
+
+### President Anura - Former Minister Douglas meets
+
+*2024-10-25 22:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197128) · `ta`
+
+Former Minister Douglas Devananda met President Anura Kumara Dissanayake. They discussed ongoing projects and prioritized 38 issues. The EPDP aims to gain significant seats in the upcoming parliamentary election.
+
+🟩
+
+President Anura Kumara Dissanayake and the EPDP. The meeting between Douglas Devananda, the party secretary and former Minister of Fisheries, took place today.
+
+During the meeting, in the past, in the past, in the past, in the past, to continue the projects that have been identified and recommended, and to initiate the projects that have been initiated, and to initiate the project, the 38 issues of priority were taken to the President's attention on Friday (25).
+
+The meeting was completed smoothly as issues, including the political aspirations of the Tamil people, were taken advantage of the president.
+
+The EPDP in the upcoming parliamentary election. Significantly, the President congratulated the Parliament to get significant seats.
+
+◼️
+
+[Data](articles/73c2f25a.json)
+
+[Extended Data](ext_articles/73c2f25a.ext.json)
 
 ---
 
@@ -436,27 +488,9 @@ The arrested for the 'rare whale vomiting' was worth Rs. 200 million worth the v
 
 ---
 
-### Man arrested trying to sell 10kg of ambergris for Rs. 200 million
-
-*2024-10-25 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102928/man-arrested-trying-to-sell-10kg-of-ambergris-for-rs-200-million) · `en`
-
-An individual has been arrested while allegedly attempting to sell 10 kilograms of ‘Ambergris’ estimated to be worth around Rs. 200 million, police said.
-
-The suspect has been arrested by officers of the Western Province (North) Police Crimes Division and the Sri Lanka Air Force in the Ragama area.
-
-Ambergris, also called grey amber or whale vomit, is created by the bile duct of the sperm whale and is often referred to as “floating gold” due to the immense price it fetches in the international market for its use in luxury perfumes.
-
-◼️
-
-[Data](articles/59cc0692.json)
-
-[Extended Data](ext_articles/59cc0692.ext.json)
-
----
-
 ### 2nd Test against India: New Zealand
 
-*2024-10-25 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/197123) · `ta`
+*2024-10-25 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/197123) · `ta`
 
 India vs New Zealand 2nd Test summary: NZ leads after strong batting performance. Taven Konway and Rachin Ravindra scored half-centuries. Washington Sundar took 7 wickets for 59 runs. India struggled in both innings, losing key players including Rohit Sharma and Virat Kohli.
 
@@ -479,6 +513,24 @@ Taven Konway (76) and Rachin Ravindra (65) were both capable of scoring half -ce
 [Data](articles/4f611281.json)
 
 [Extended Data](ext_articles/4f611281.ext.json)
+
+---
+
+### Man arrested trying to sell 10kg of ambergris for Rs. 200 million
+
+*2024-10-25 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102928/man-arrested-trying-to-sell-10kg-of-ambergris-for-rs-200-million) · `en`
+
+An individual has been arrested while allegedly attempting to sell 10 kilograms of ‘Ambergris’ estimated to be worth around Rs. 200 million, police said.
+
+The suspect has been arrested by officers of the Western Province (North) Police Crimes Division and the Sri Lanka Air Force in the Ragama area.
+
+Ambergris, also called grey amber or whale vomit, is created by the bile duct of the sperm whale and is often referred to as “floating gold” due to the immense price it fetches in the international market for its use in luxury perfumes.
+
+◼️
+
+[Data](articles/59cc0692.json)
+
+[Extended Data](ext_articles/59cc0692.ext.json)
 
 ---
 
@@ -2441,37 +2493,5 @@ Sri Lanka is still dedicated to maintaining strong international partnerships an
 [Data](articles/11fa2830.json)
 
 [Extended Data](ext_articles/11fa2830.ext.json)
-
----
-
-### BRICS Summit and India’s role
-
-*2024-10-25 10:49:00* · [`economynextcom`](https://economynext.com/brics-summit-and-indias-role-184877/) · `en`
-
-ECONOMYNEXT – Ruchita Beri, a senior fellow at the Vivekananda International Foundation, opines that rather than moving away from the SWIFT System and introducing a common currency, BRICS could build a coalition around the Unified Payment Interface (UPI), with India offering the technology to the global south.  It would, she says, be the answer to the contentious issue of a common currency for BRICS.
-
-Participating in a web talk on “BRICS Summit on Kazan: India’s Agenda”, organised by the Friedrich Naumann Foundation, South Asia, on October 18, Beri opined that while the anti-West bloc would like to see dedolarization, the focus is more on digital infrastructure and the use of local currencies for trade between BRICS members.
-
-...
-
-[Data](articles/3ac489a7.json)
-
-[Extended Data](ext_articles/3ac489a7.ext.json)
-
----
-
-### Rooting Out Corruption Starts At Home: A Call To Sri Lankans For Virtuous Governance & Societal Change
-
-*2024-10-25 10:44:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rooting-out-corruption-starts-at-home-a-call-to-sri-lankans-for-virtuous-governance-societal-change/) · `en`
-
-I still stand by my statement published on Janatha Mathaya in 2018. I see a dire need to educate the public on their role in eradicating corruption in politics and transforming the political culture in Sri Lanka just as much as the need to stand against corrupt politicians. The state must implement systems, processes and institutions to support this cause however, the public’s input in this equation is pivotal.
-
-This becomes problematic because we are expecting ‘corrupt politicians’ to also implement systems and processes to prevent corruption.
-
-...
-
-[Data](articles/8132942e.json)
-
-[Extended Data](ext_articles/8132942e.ext.json)
 
 ---

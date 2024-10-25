@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 07:27:31**
+As of **2024-10-25 08:02:59**
 
 ## Newspaper Stats
 
-*Scraped **51,261** Articles*
+*Scraped **51,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 411
 colombotelegraphcom | 514
 bbccomsinhala | 519
-islandlk | 3,041
+islandlk | 3,049
 economynextcom | 3,131
 dailyftlk | 3,506
 dailymirrorlk | 4,733
@@ -20,17 +20,63 @@ adalk | 4,774
 adaderanalk | 6,069
 tamilmirrorlk | 7,062
 virakesarilk | 8,242
-adaderanasinhalalk | 8,896
+adaderanasinhalalk | 8,898
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,261 (100.0%) of 51,261 articles have been extended.
+51,267 (100.0%) of 51,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Elpitiya elections tomorrow
+
+*2024-10-25 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202531) · `si`
+
+Elpitiya Pradeshiya Sabha elections tomorrow: 55,643 voters, 48 polling centers, 7am-4pm voting hours, security measures in place, PAFFREL observers present.
+
+🟩
+
+The Elections Commission says that all officers of the Elpitiya Pradeshiya Sabha will be taken to the respective centers today (25).
+
+55,643 voters qualified to vote in 48 polling centers while the Elections Commission announced that the election was held on the 2018 voter register.
+
+Meanwhile, the Chairman of the Elections Commission R. M. A. L. Ratnayake said the vote was held from 7 am to 4 pm and the security arrangements have been deployed.
+
+Executive Director of PAFFREL, Rohana Hettiarachchi said that he will use his officials for observation work in the Elpitiya Pradeshiya Sabha elections.
+
+◼️
+
+[Data](articles/0026d0a2.json)
+
+[Extended Data](ext_articles/0026d0a2.ext.json)
+
+---
+
+### Suspect arrested for robbery
+
+*2024-10-25 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202530) · `si`
+
+28-year-old man from Pandukapura arrested for robbery after releasing 12 court warrants. Suspected in multiple police divisions including Ja-Ela, Negombo, Puttalam, and Anuradhapura.
+
+🟩
+
+A suspect who was released by a team of officers in the Ja-Ela Police Station was arrested yesterday (24).
+
+The suspect is a 28 year old resident of Pandukapura. He had released 12 warrants through the Welisara, Negombo, Medawachchiya and Kahatagasdigiliya Magistrate's Court.
+
+Investigations have revealed that the suspect was the suspect in Ja-Ela, Negombo, Puttalam, Puttalam, Anuradhapura and Kalukawala Police Divisions in Neala, Negombo, Puttalam and Kalukawala Police Divisions.
+
+◼️
+
+[Data](articles/3899ef1d.json)
+
+[Extended Data](ext_articles/3899ef1d.ext.json)
+
+---
 
 ### Heavy rains today
 
@@ -466,6 +512,72 @@ South Asia, with countries like Sri Lanka and India with millennia-old craft her
 
 ---
 
+### SLT-MOBITEL unveils revolutionary 5G-Ready Apple iPhone 16 Series at Flagship Store
+
+*2024-10-25 01:22:00* · [`islandlk`](http://island.lk/slt-mobitel-unveils-revolutionary-5g-ready-apple-iphone-16-series-at-flagship-store/) · `en`
+
+SLT-MOBITEL unveiled Apple’s revolutionary iPhone 16 series at an exclusive event held on 21 October 2024, marking a significant milestone in its commitment to bringing cutting-edge technology to Sri Lanka. The event, attended by premium customers, distinguished guests and special representatives, underscored SLT-MOBITEL’s dedication to valuing long-standing customers while strengthening its partnership with prestigious global brands like Apple.
+
+At the exclusive gathering, pre-ordered devices were ceremoniously handed over to customers, giving attendees the unique opportunity to experience Apple’s latest innovation and preview the iPhone 16 range. Additionally, the event featured an in-depth product review, providing participants with a comprehensive understanding of the new iPhone 16 lineup.
+
+...
+
+[Data](articles/3bbaec91.json)
+
+[Extended Data](ext_articles/3bbaec91.ext.json)
+
+---
+
+### Union Assurance crowned Best Digital Life Insurer of Sri Lanka 2024
+
+*2024-10-25 01:22:00* · [`islandlk`](http://island.lk/union-assurance-crowned-best-digital-life-insurer-of-sri-lanka-2024/) · `en`
+
+Union Assurance, Sri Lanka’s premier Life Insurer, was awarded as the ‘Best Digital Life Insurer – Sri Lanka 2024’ at the Global Business & Finance Magazine Awards. This esteemed platform recognises exceptional achievements in business and finance worldwide, celebrating individuals, companies and organisations that have made remarkable contributions to their industries.
+
+The accolade highlights Union Assurance’s leadership in driving digital transformation and its unwavering commitment towards revolutionising the Life Insurance industry through technology and customer-centric initiatives.
+
+Union Assurance has long been at the forefront of technological innovation in Sri Lanka’s Life Insurance sector, setting new industry benchmarks with groundbreaking initiatives that deliver exceptional customer experiences. The Company’s forward-thinking approach has played a pivotal role in bridging the protection gap across the nation, empowering individuals and communities alike.
+
+...
+
+[Data](articles/f39f1659.json)
+
+[Extended Data](ext_articles/f39f1659.ext.json)
+
+---
+
+### Siyapatha Finance ranked ‘Best Performing Finance Company’ by K Seeds
+
+*2024-10-25 01:16:00* · [`islandlk`](http://island.lk/siyapatha-finance-ranked-best-performing-finance-company-by-k-seeds/) · `en`
+
+In a recent comprehensive financial analysis carried out by K Seeds Investments (Pvt) Ltd, Siyapatha Finance PLC was ranked the “Best Performing Finance Company” in Category 2 among 32 licensed finance companies for the quarter ended 30th June,2024.
+
+Classified under the Second Category among four main categories, which enumerates listed financial companies with an asset base between Rs.50 billion and Rs.100 billion, Siyapatha recorded a Net Profit Margin of 9.34%. The company saw a Net Profit Growth of 372.05% in the quarter ended 30th June 2024, compared to the same period of analysis in the previous year.
+
+...
+
+[Data](articles/83f20288.json)
+
+[Extended Data](ext_articles/83f20288.ext.json)
+
+---
+
+### Lowering of bank interest rates injects robustness to CSE; turnover hits Rs. 4 billion
+
+*2024-10-25 01:15:00* · [`islandlk`](http://island.lk/lowering-of-bank-interest-rates-injects-robustness-to-cse-turnover-hits-rs-4-billion/) · `en`
+
+The stock market yesterday kicked off on a positive note and investor participation reached a satisfactory level while turnover touched more than Rs 4 billion due to lowering of bank interest rates. This enabled people to invest in the stock market, market analysts said.
+
+Both indices moved upwards. The All Share Price Index went up by 130.7 points while the S and P SL20 went up by 68.7 points. Turnover stood at Rs 4.7 billion with seven crossings.
+
+...
+
+[Data](articles/dd0803f3.json)
+
+[Extended Data](ext_articles/dd0803f3.ext.json)
+
+---
+
 ### Royal College Principal says committed to upholding high standards and values
 
 *2024-10-25 01:02:13* · [`dailyftlk`](https://www.ft.lk/opinion/Royal-College-Principal-says-committed-to-upholding-high-standards-and-values/14-768385) · `en`
@@ -501,6 +613,32 @@ By our said letter, we were constrained to take the special measure, of initiati
 [Data](articles/cf395375.json)
 
 [Extended Data](ext_articles/cf395375.ext.json)
+
+---
+
+### Havelock City Mall marks 1st anniversary
+
+*2024-10-25 00:53:00* · [`islandlk`](http://island.lk/havelock-city-mall-marks-1st-anniversary/) · `en`
+
+Havelock City Mall, Colombo’s premier destination for shopping, dining, and entertainment, proudly celebrated its 1st Year Anniversary with a series of successful events and promotions. The celebrations began on Saturday, 19th October, and will continue until Thursday, 24th October, featuring a weekend packed with exciting activities, exclusive promotions, and the launch of new initiatives that delighted visitors.
+
+Since its opening, Havelock City Mall had quickly established itself as a favorite destination for many shoppers. The mall offers a diverse range of experiences, including IMAX movies, a wide selection of international brands, a spacious food court, and the thrilling Wet & Wild Adventure Zone for children. With over 30+ food and beverage outlets, including pubs and restaurants, Havelock City Mall catered to a wide variety of tastes and preferences.
+
+...
+
+[Data](articles/e6aa03e0.json)
+
+---
+
+### Fadna Arunella concludes successfully
+
+*2024-10-25 00:52:00* · [`islandlk`](http://island.lk/fadna-arunella-concludes-successfully-2/) · `en`
+
+Fadna a renowned brand in Sri Lanka that has contributed to the well-being of the nation for nearly two decades successfully held the 49th Fadna Arunella recently at Kesbewa Sri Wijayasundararamaya.
+
+...
+
+[Data](articles/3084c1e3.json)
 
 ---
 
@@ -2161,195 +2299,5 @@ It is noteworthy that Ranjan Ramanayake is contesting the parliamentary election
 [Data](articles/6c3597a8.json)
 
 [Extended Data](ext_articles/6c3597a8.ext.json)
-
----
-
-### Gajendrakumar Ponnambalam arrested
-
-*2024-10-24 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/197009) · `ta`
-
-Gajendrakumar Ponnambalam, Tamil National People's Front leader, arrested by Nelliyadi police during campaign. Detained at local police station for investigation.
-
-🟩
-
-Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front and the parliamentary election candidate, has been arrested by the Nelliyadi police today.
-
-The arrest was carried out today that he was engaged in campaigns in the Nelliyadi area today.
-
-Investigations are being carried out as he is currently detained at the Nelliyadi police station.
-
-◼️
-
-[Data](articles/5183d8da.json)
-
-[Extended Data](ext_articles/5183d8da.ext.json)
-
----
-
-### Government statement on travel advisories
-
-*2024-10-24 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202517) · `si`
-
-Sri Lanka government assures foreign tourists' safety. US issues travel advisory due to potential attacks. Minister promises situation will improve within two days, allowing removal of warnings. Tourists can continue visiting freely.
-
-🟩
-
-The maximum measures have been taken to ensure the safety of foreign tourists who have arrived in Sri Lanka.
-
-Therefore, the government said the government expects the removal of the warning tourist consulting with foreign countries in the next two days.
-
-The United States issued a tourist advisory yesterday (23), saying that there could be an attack targeting foreign nationals in Arugambay.
-
-Minister Vijitha Herath said at a media briefing in Colombo today,
-
-...
-
-[Data](articles/9067ba10.json)
-
-[Extended Data](ext_articles/9067ba10.ext.json)
-
----
-
-### Travel advisories for Sri Lanka can be withdrawn within 2-3 days – Minister
-
-*2024-10-24 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102905/travel-advisories-for-sri-lanka-can-be-withdrawn-within-2-3-days-minister) · `en`
-
-Public Security Minister Vijitha Herath says that the travel advisories issued by several foreign countries for Sri Lanka could be lifted within the next two to three days.
-
-Minister Herath stated this during a special press conference held in Colombo today (24), to brief on the steps taken following information received on possible attacks targeting foreign tourists in Sri Lanka.
-
-He reassured to public and the tourists that there is no cause for concern, as necessary security measures have been taken to ensure the security of the foreign tourists.
-
-“They have been informed through the hotels and the Tourism Authority. Police as well as the tri-forces have taken the required steps. So, tourists can travel freely. The countries that have imposed travel advisories will be able to withdraw them in two to three days,” the Minister said.
-
-...
-
-[Data](articles/80b8500e.json)
-
-[Extended Data](ext_articles/80b8500e.ext.json)
-
----
-
-### Correct body recovery in Wariyapola!
-
-*2024-10-24 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197003) · `ta`
-
-Body recovered in Wariyapola: Motorcycle found near victim in Badeniya area. Police investigation ongoing.
-
-🟩
-
-The body was recovered on Wednesday (23) in the Badeniya area of ​​the Wariyapola police division, police said.
-
-Police investigations revealed that the motorcycle was lying in a nearby power pole near the body.
-
-◼️
-
-[Data](articles/32655a5c.json)
-
-[Extended Data](ext_articles/32655a5c.ext.json)
-
----
-
-### Petitions pertaining to the scholarship examination
-
-*2024-10-24 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202516) · `si`
-
-Supreme Court hears Grade 05 Scholarship Exam petitions. Judge Arjuna Obeysekera orders responses by Nov 5, summons Nov 18. Students and parents present cases.
-
-🟩
-
-The Supreme Court has set the fundamental rights petitions filed by the Grade 05 Scholarship Examination.
-
-The petition was called before Supreme Court Judge Arjuna Obeysekera.
-
-If the protesters have been filed against the petition, the judge ordered respondents to file them before November 05 would file contracts before November 12.
-
-The petition was then ordered to be summoned on November 18 to ensure the facts of the petition.
-
-A group of students who sat for the examination have presented these petitions with their parents.
-
-◼️
-
-[Data](articles/a05150a0.json)
-
-[Extended Data](ext_articles/a05150a0.ext.json)
-
----
-
-### Entrepreneurship State Concept to be Happy - Dilith
-
-*2024-10-24 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202514) · `si`
-
-Dilith Jayaweera emphasizes entrepreneurship as key to national happiness. He cites it as the only solution, similar to developed countries. The statement includes references to political power and opposition roles in governance.
-
-🟩
-
-To be happy the people of this country, the monoporative entrepreneur Entrepreneurship Dilith Jayaweera says that there is no alternative to the concept of entrepreneurship.
-
-Another phase of the Gamegama series of the Nittambuwa was held at Nittambuwa yesterday (24).
-
-"The universal power comes to politics in the world of this country. Our universal power believes that the people of this country should be happy. We have chosen as the way to do so, all the world's developed countries, including neighboring countries, the concept of entrepreneurship. This is the only solution.
-
-You know I don't have anything physically.  මෙවර 3%ක් අරගෙන හිටපු අය 43%ක් ගන්නකම් විපක්ෂයක් නිකන් බලාගෙන හිටියා. The buss were elding, Japanese, the pianos were. That's what happened that happened that. The government of Comrade Anura Kumara has approved 43% approved.
-
-...
-
-[Data](articles/2cb47dfb.json)
-
-[Extended Data](ext_articles/2cb47dfb.ext.json)
-
----
-
-### Petition to be convened on the 4th election
-
-*2024-10-24 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202513) · `si`
-
-Supreme Court sets petition date to Nov 4, summons on Nov 14. Judge orders responses by Oct 28. Petitioner challenges election nomination timeline. Convener Priyantha Herath presents case.
-
-🟩
-
-The Supreme Court has set the petition to be summoned to November 4 as the decision to be held on November 14.
-
-The petition was called before the Supreme Court Judge Arjuna Obeysekera.
-
-The judge ordered the respondous to the petition before the 28th of this month.
-
-If the contradictions have been filed before November 01.
-
-Convener of the Sri Lanka National Organization by a Civil Organization Actress as well. Priyantha Herath has presented the petition.
-
-The petitioner claims that the call for nomination of the Parliamentary Election Act until October 04 to October 11.
-
-The petition pointed out that nomination was less than five weeks and not more than five weeks and not more than five weeks after the end of the end of the election.
-
-Accordingly, five weeks after the end of nominations, five weeks will end on November 15 and seven weeks will be completed on November 29.
-
-...
-
-[Data](articles/77e084c7.json)
-
-[Extended Data](ext_articles/77e084c7.ext.json)
-
----
-
-### France Ambassador - Prime Minister Harini Amarasuriya meets
-
-*2024-10-24 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/196994) · `ta`
-
-French Ambassador Mari-Noil Duris met Sri Lankan PM Harini Amarasuriya. They discussed France-Sri Lanka alliance, emphasizing continued cooperation. The meeting highlighted the 75th anniversary of bilateral ties and potential collaborations across sectors.
-
-🟩
-
-A meeting between French Ambassador to Sri Lanka Mari - Noil Duris and Prime Minister Dr. Harini Amarasuriya
-
-During the meeting, France's long -term alliance with Sri Lanka was focused and discussed with continuous cooperation to Sri Lanka.
-
-The discussion was specially expressed in the 75 -year anniversary of diplomatic relations between Sri Lanka and France and focused on various sectors between the two countries.
-
-◼️
-
-[Data](articles/99e38e6f.json)
-
-[Extended Data](ext_articles/99e38e6f.ext.json)
 
 ---

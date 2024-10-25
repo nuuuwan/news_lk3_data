@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 00:13:46**
+As of **2024-10-26 00:24:54**
 
 ## Newspaper Stats
 
-*Scraped **51,420** Articles*
+*Scraped **51,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,68 @@ dailymirrorlk | 4,733
 adalk | 4,785
 adaderanalk | 6,087
 tamilmirrorlk | 7,099
-virakesarilk | 8,275
+virakesarilk | 8,277
 adaderanasinhalalk | 8,932
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,419 (100.0%) of 51,420 articles have been extended.
+51,422 (100.0%) of 51,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Elections Commission of Elections
+
+*2024-10-25 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197130) · `ta`
+
+Elpitiya Pradeshiya Sabha elections in Galle District today. 8 political parties, 1 independent group contesting. Postal voting completed. Voter ID process changed due to COVID-19.
+
+🟩
+
+Galle District Elpitiya Pradeshiya Sabha elections will be held today (Saturday). அங்கீகரிக்கப்பட்ட 8 அரசியல் கட்சிகள், 1 சுயேட்சை குழுக்கள் என்ற அடிப்படையில் வேட்பாளர்கள் போட்டியிடுகின்றனர்.
+
+சுதந்திரமானதும், நியாயமானதுமான தேர்தலை நடத்துவதற்கு அனைவரும் ஒத்துழைப்பு வழங்க வேண்டும் என தேர்தல்கள் ஆணைக்குழு வலியுறுத்தியுள்து. எல்பிட்டிய தேர்தல் தொகுதியை அண்மித்த பகுதியில் பொதுத்தேர்தலை இலக்காகக் கொண்டு தேர்தல் பிரச்சார நடவடிக்கையில் ஈடுபடுவது முற்றாக தடை செய்யப்பட்டுள்ளது.
+
+அரசியலமைப்பின் பிரகாரம் பதவி காலம் நிறைவடைந்துள்ள உள்ளூராட்சி மன்றத் தேர்தலை வெகுவிரைவில் நடத்துமாறு உயர்நீதிமன்றம் தேர்தல்கள் ஆணைக்குழுவுக்கு உத்தரவு பிறப்பித்துள்ளது. ஜனாதிபதித் தேர்தலை நிறைவு செய்ததன் பின்னர் உள்ளூராட்சி மன்றத் தேர்தலை நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழு உத்தேசித்திருந்த நிலையில் பாராளுமன்றத்தை கலைத்து பொதுத்தேர்தலை நடத்துவதற்கான அதிவிசேட வர்த்தமானியை ஜனாதிபதி கடந்த மாதம்  வெளியிட்டிருந்தார்.
+
+...
+
+[Data](articles/0df397ed.json)
+
+[Extended Data](ext_articles/0df397ed.ext.json)
+
+---
+
+### மாலைதீவுகளை வெற்றிகொண்ட இலங்கை அரை இறுதியில் ஹொங்கொங்கை எதிர்த்தாடுகிறது
+
+*2024-10-25 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197129) · `ta`
+
+Sri Lanka wins 13th Asian Beach Volleyball Championship defeating Maldives 80-32. In another match, Thailand beats Hong Kong 62-60. Sri Lanka faces current Asian champion in Hong Kong semi-finals tomorrow.
+
+🟩
+
+இந்தியாவின் பெங்களூரு, கோரமங்கலம் உள்ளக விளையாட்டரங்கில் இன்று வெள்ளிக்கிழமை நடைபெற்ற 13ஆவது ஆசிய வலைபந்தாட்ட சம்பியன்ஷிப்பில் ஏ குழுவுக்கான தனது கடைசி லீக் போட்டியில் மாலைதீவுகளை 80 - 32 என்ற கோல்கள் வித்தியாசத்தில் இலங்கை வெற்றி பெற்றது.
+
+இதேவேளை, சம அளவில் மோதிக்கொள்ளப்பட்ட மிகவும் பரபரப்பான பி குழு போட்டியில் தாய்லாந்தை 62 - 60 என்ற  கோல்கள்  வித்தியாசத்தில் ஹொங்கொங் வெற்றிகொண்டது.
+
+Sri Lanka will oppose the current Asian champion in Hong Kong in the first semi -finals to be held at 5.00 pm tomorrow after the two match results.
+
+In a match against the Maldives today, Sri Lankan athletes played very relaxed to avoid tiredness and disaster.
+
+எனினும் அவ்வப்போது சில தவறுகளை இழைத்ததால் எதிரணிக்கு இரட்டை கோல் வாய்ப்புகளைக் கொடுத்தனர்.
+
+போட்டியின் இரண்டாம், மூன்றாம் கால் மணி நேர ஆட்ட பகுதிகளில் தலா 20க்கும் மேற்பட்ட கோல்களைப் பெற்றதன் மூலம் இலங்கை இலகுவாக வெற்றி பெற வழிவகுத்தது.
+
+...
+
+[Data](articles/9b037ca7.json)
+
+[Extended Data](ext_articles/9b037ca7.ext.json)
+
+---
 
 ### President meets Iran's ambassador
 
@@ -2130,6 +2180,8 @@ To address this challenge, FAO has installed an advanced cooling system on a new
 
 [Data](articles/79123db1.json)
 
+[Extended Data](ext_articles/79123db1.ext.json)
+
 ---
 
 ### Various military plans to face Israel's attacks - Iran's Spiritual Leader Order to Prepare Complete War - New York Times
@@ -2447,51 +2499,5 @@ The Elections Commission and its members, including the Gampaha District Electio
 [Data](articles/07077ff1.json)
 
 [Extended Data](ext_articles/07077ff1.ext.json)
-
----
-
-### Death to make Australia
-
-*2024-10-25 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202542) · `si`
-
-Australia: Woman killed, son arrested after domestic dispute. Police investigation ongoing.
-
-🟩
-
-The sister of Carl Safely Delegated as a Excellent Fast Bowel of Australia, the sister of her Brisbin has died after a clash at home.
-
-Police say that her son had witnessed that he had committed the murder.
-
-The 61-year-old Susie Saman was reportedly injured in a confrontation took seriously in a confrontation took place.
-
-Police have arrested the 29-year-old son.
-
-◼️
-
-[Data](articles/01aae849.json)
-
-[Extended Data](ext_articles/01aae849.ext.json)
-
----
-
-### Prabhakaran kidnapped my brother
-
-*2024-10-25 11:11:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனே-எனது-தம்பியை-கடத்தினார்/175-346032) · `ta`
-
-Douglas Devananda claims LTTE leader Prabhakaran kidnapped his brother due to inability to capture him.
-
-🟩
-
-“Liberation Tigers of Tamil Eelam (LTTE) leader Prabhakaran abducted my brother,” said Douglas Devananda, Secretary -General of the EPDP.
-
-Also, Douglas said that Prabhakaran had abducted his brother because he was unable to catch him.
-
-He said this while attending a media briefing in Colombo.
-
-◼️
-
-[Data](articles/fd947fb6.json)
-
-[Extended Data](ext_articles/fd947fb6.ext.json)
 
 ---

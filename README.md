@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 01:58:54**
+As of **2024-10-26 02:10:36**
 
 ## Newspaper Stats
 
-*Scraped **51,424** Articles*
+*Scraped **51,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 516
 bbccomsinhala | 521
 islandlk | 3,049
 economynextcom | 3,141
-dailyftlk | 3,510
+dailyftlk | 3,516
 dailymirrorlk | 4,733
 adalk | 4,785
 adaderanalk | 6,087
@@ -26,11 +26,113 @@ adaderanasinhalalk | 8,932
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,424 (100.0%) of 51,424 articles have been extended.
+51,429 (100.0%) of 51,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### The Colombo Plan officials meet Port and Aviation Ministry to strengthen partnership
+
+*2024-10-26 02:00:24* · [`dailyftlk`](https://www.ft.lk/business/The-Colombo-Plan-officials-meet-Port-and-Aviation-Ministry-to-strengthen-partnership/34-768440) · `en`
+
+From left: Transport, Highways, Ports and Civil Aviation Ministry Secretary K.D.S. Ruwanchandra, The Colombo Plan Secretary General Dr. Benjamin Reyes, Ports and Civil Aviation Ministry Additional Secretary E.M.S.B. Jayasundara, SLPA Chairman (Rtd.) Admiral Sirimewan Ranasinghe WWV, RWP, VSV, USP, SLPA Vice Chairman Eng. Herath M.P. Jayawardhana, SLPA Managing Director Ganaka Hemachandra, SLPA Director – Marketing and BD Savia Mizkin, MAP Lead Consultant Rohan Masakorala, Senior Accountant Teshani Weerakoon, and MAP Project Assistant Tharushini Suriyaarachchi
+
+The recent courtesy visit by The Colombo Plan to the Transport, Highways, Ports and Civil Aviation Ministry Secretary K.D.S. Ruwanchandra and the management of the Sri Lanka Ports Authority (SLPA) represents a significant step in strengthening collaboration and updating attendees on recent developments and initiatives under the Maritime Advisory Program (MAP).
+
+...
+
+[Data](articles/99bf1700.json)
+
+---
+
+### High Commissioner Bogollagama promotes SL processed food products at Fortnum & Mason, London
+
+*2024-10-26 01:54:39* · [`dailyftlk`](https://www.ft.lk/business/High-Commissioner-Bogollagama-promotes-SL-processed-food-products-at-Fortnum-Mason-London/34-768439) · `en`
+
+Sri Lankan High Commissioner in London Rohitha Bogollagama met with Fortnum & Mason (F&M) CEO Tom Athron, and F&M Tea and coffee buyer Ottilie Cunningham, who recently visited Sri Lanka to source high quality Ceylon Tea.
+
+He was accompanied by the officials of the High Commission of Sri Lanka in the United Kingdom, and the meeting was held at the head office of F&M in London.
+
+The objective of the meeting was to promote Sri Lanka’s main and high-quality processed food export products to F&M. High Commissioner Bogollagama delivered a presentation introducing products from key potential export brands of Sri Lanka and encouraged F&M to engage with Sri Lanka’s processed food export portfolio.
+
+...
+
+[Data](articles/4d1550e9.json)
+
+[Extended Data](ext_articles/4d1550e9.ext.json)
+
+---
+
+### Nawaloka Hospital bags Merit award at National Business Excellence Awards 2024
+
+*2024-10-26 01:49:58* · [`dailyftlk`](https://www.ft.lk/business/Nawaloka-Hospital-bags-Merit-award-at-National-Business-Excellence-Awards-2024/34-768438) · `en`
+
+Nawaloka hospitals Finance manager (reporting) Sampath Thennakoon receiving the award
+
+In recognition of its resilience and commitment towards healthcare, Nawaloka Hospitals PLC has emerged as the Merit award winner in the Hospital Sector at the recently held National Business Excellence Awards (NBEA) 2024.
+
+The NBEA, a prestigious award ceremony organised by The National Chamber of Commerce of Sri Lanka aims to recognise enterprises with demonstrable excellence in business, while contributing to the economic progress of the country.
+
+Nawaloka Hospitals PLC is the leading private healthcare service provider, which offers a premium range of state-of-the-art diagnostic and treatment facilities. Equipped with a team of skilled medical professionals and advanced treatment facilities, Nawaloka Hospitals has always maintained a legacy of professionalism coupled with years of experience in the medical field.
+
+...
+
+[Data](articles/8264ddf1.json)
+
+[Extended Data](ext_articles/8264ddf1.ext.json)
+
+---
+
+### Hexnode appoints Allen Richard as Country Head of Global Strategic Alliances for India and SAARC region
+
+*2024-10-26 01:46:44* · [`dailyftlk`](https://www.ft.lk/business/Hexnode-appoints-Allen-Richard-as-Country-Head-of-Global-Strategic-Alliances-for-India-and-SAARC-region/34-768437) · `en`
+
+Hexnode, the enterprise software division of Mitsogo Inc., has named Allen Richard as the Country Head of Global Strategic Alliances for the India and SAARC region. In his new role, Allen will focus on establishing strategic partnerships and strengthening Hexnode’s market position, fostering mutually beneficial relationships, and securing key sponsorships at a global level.
+
+...
+
+[Data](articles/af2e28ed.json)
+
+[Extended Data](ext_articles/af2e28ed.ext.json)
+
+---
+
+### Metropolitan and People’s  Micro Commerce partner to boost SME business
+
+*2024-10-26 01:44:29* · [`dailyftlk`](https://www.ft.lk/business/Metropolitan-and-People-s-Micro-Commerce-partner-to-boost-SME-business/34-768436) · `en`
+
+Standing from left: Metropolitan Technologies Senior Manager – Brand Management and Marketing Saleem Muthaliph, Retail and SME Head Shamaz Hossen, Vice President – Retail Sector Praveen Samarakone, Director/CEO Ali Asgar Roshanali, People’s Micro Commerce Director/Chairman Pradeep Amirthanayagam, Executive Supervisory Officer Randhil Siriwardena, General Manager Wasantha Gunawardhana, Credit Head Sanjaya Sumedha Herath, and Legal Head Malsha Mihirani
+
+Metropolitan Technologies Ltd. has entered into a strategic partnership with People’s Micro Commerce Ltd. to support small and medium enterprises (SMEs).
+
+This collaboration aims to offer microcredit facilities for essential workplace solutions, alleviating financial burdens on startups and SMEs by providing funding for crucial overheads and equipment expenses at a concessionary rate, with funds accessible within 36 hours. The initiative is poised to significantly enhance SME and startup business activities in the region.
+
+...
+
+[Data](articles/98a29e26.json)
+
+[Extended Data](ext_articles/98a29e26.ext.json)
+
+---
+
+### ComBank steps up engagement with women entrepreneurs in 2024
+
+*2024-10-26 01:42:10* · [`dailyftlk`](https://www.ft.lk/business/ComBank-steps-up-engagement-with-women-entrepreneurs-in-2024/34-768435) · `en`
+
+Pictured here are some of the bank’s engagements with women entrepreneurs in 2024
+
+Women entrepreneurs received special attention from the Commercial Bank of Ceylon in 2024, with the bank stepping up its direct engagement with this important customer segment via a series of activities.
+
+These included entrepreneurship development programs, training programs on digital banking at the bank’s DigiZone in Wellawatte, and several certificate courses in SME skills development exclusively for women entrepreneurs, in collaboration with the Postgraduate Institute of Management (PIM) of the University of Sri Jayewardenepura.
+
+...
+
+[Data](articles/da35bc54.json)
+
+[Extended Data](ext_articles/da35bc54.ext.json)
+
+---
 
 ### State-hood and survival: Tamils, Palestinians and self-determination
 
@@ -2343,153 +2445,5 @@ It is reported that the wife has been admitted to the hospital with a large numb
 [Data](articles/2426b1d1.json)
 
 [Extended Data](ext_articles/2426b1d1.ext.json)
-
----
-
-### The three suspects who were tolerated into Arugam's incident
-
-*2024-10-25 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202543) · `si`
-
-Three suspects linked to Arugam incident detained. Police investigating alleged plot against Israeli tourists. Intelligence confirms planned attack on Israeli visitors.
-
-🟩
-
-Police have detained the suspects who were arrested in connection with the planning of Israel's Israeli nationals targeting the Israeli nationals.
-
-In the meantime, intelligence information has been made to ensure that the Israeli tourist arrangements were planned to attack Israeli tourists.
-
-◼️
-
-[Data](articles/91e3a269.json)
-
-[Extended Data](ext_articles/91e3a269.ext.json)
-
----
-
-### Police obtain detention orders on suspects arrested over threats to Israelis
-
-*2024-10-25 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102917/police-obtain-detention-orders-on-suspects-arrested-over-threats-to-israelis) · `en`
-
-Police have obtained detention orders to question three suspects arrested in connection with alleged security threats to Israeli nationals in Sri Lanka, according to Police Spokesman DIG Nihal Thalduwa.
-
-The three suspects had been arrested by the Terrorism Investigation Division (TID), it was reported yesterday.
-
-Public Security Minister Vijitha Herath, speaking at a press conference yesterday, confirmed the arrests were based on intelligence reports indicating potential threats to Israelis amidst heightened Middle Eastern tensions.
-
-“Intelligence agencies received information about it. Upon receiving that information, we immediately took action. Today marks one month since this government took office. During the month, the security council met on several occasions,” he said.
-
-He further stated that the public, local as well as foreigners, need not entertain any fears on probable attacks on Israelis or any others, as all possible security measures have been taken to ensure their safety.
-
-...
-
-[Data](articles/acbf8d63.json)
-
-[Extended Data](ext_articles/acbf8d63.ext.json)
-
----
-
-### Investigating foreign YouTube for violating wildlife laws
-
-*2024-10-25 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197059) · `ta`
-
-Foreigners investigated for poaching peacock in Sri Lanka's Madhuru Oya National Park. Video shared on YouTube. Wildlife officials launch probe into illegal activities. Similar incident occurred previously involving foreigners and local hunters. Case being heard in court.
-
-🟩
-
-The Department of Wildlife Protection has launched an investigation into foreign citizens and four people in connection with the video shared on the YouTube site, one of the scene of the Social Media, one of the scene of the Social Media, which was hunted and cooked at the Madhuru Oya National Park.
-
-The video is shared on the YouTube channel Go with Ali.
-
-It has been shot as a video of a group of people hunting a peacock inside the national park and cooked in a firewood oven.
-
-In this backdrop, the Director General of the Wildlife Conservation Department Chandana Suriyapandara said that the first phase of investigations have been launched in connection with the illegal entering the national park.
-
-Meanwhile, allegations have been made against them, the entry into the Madhuru Oya National Park, the fire, the killing of the protected bird, and the sharing of it on social media.
-
-...
-
-[Data](articles/636e7512.json)
-
-[Extended Data](ext_articles/636e7512.ext.json)
-
----
-
-### Tourism Federation
-
-*2024-10-25 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197070) · `ta`
-
-Sri Lanka Tourism Federation denies security threats, condemns foreign travel warnings affecting tourism industry.
-
-🟩
-
-The Sri Lanka Tourism Federation has strongly condemned the foreign travel warning that there is a security threat in Sri Lanka.
-
-The Sri Lanka Tourism Federation has said that Sri Lanka's tourism industry could be a major setback due to a warning that a terrorist attack could occur.
-
-The US and other countries have subsequently issued a travel warning that may affect the tourism industry.
-
-Sri Lanka Tourism Federation President Malik J Fernando has questioned whether foreign embassies are involved in the ruthless fun of Sri Lanka and its economic recovery.
-
-Tourism officials have pointed out that Sri Lankan authorities have already taken action.
-
-The Sri Lanka Tourism Federation has revealed that the report of the new information that has not been amended and amends has revealed that Sri Lanka is not interested in its tourism sector.
-
-The Tourism Agency said that the Israeli media exaggerated the warning of the Augkam Kutta, which made the entire Sri Lankan unprecedented to the Israelis.
-
-◼️
-
-[Data](articles/f87d4f1a.json)
-
-[Extended Data](ext_articles/f87d4f1a.ext.json)
-
----
-
-### Run -made location: trio arrested
-
-*2024-10-25 11:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-தயாரித்த-இடம்-சுற்றிவளைப்பு-மூவர்-கைது/175-346035) · `ta`
-
-Matara police arrest three suspects in illegal weapons operation. A 63-year-old man and two others (47 and 54) detained. Seized items include locally made gun, bullets, welding equipment. Investigation ongoing.
-
-🟩
-
-Three suspects have been arrested following a roundup of illegal weapons plant in Matara on Wednesday.
-
-Police said a 63 -year -old man was arrested during the roundabout and two suspects were arrested with two locally manufactured guns at Akangama.
-
-During the test, officials seized a locally made gun, five bullets of the 9mm rifle, a welding machine and various equipment.
-
-Investigations carried out by the suspect have revealed that he had sold two guns, after which the Matara police have found the buyers and arrested them with weapons.
-
-The arrested suspects were from Ahangama, aged 47 and 54.
-
-The suspects have been handed over to the Matara police with the seized items and they are conducting further investigations.
-
-◼️
-
-[Data](articles/c5c4400d.json)
-
-[Extended Data](ext_articles/c5c4400d.ext.json)
-
----
-
-### More than 7 lakh households registered in Colombo by 2024!
-
-*2024-10-25 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197069) · `ta`
-
-Colombo: 7+ lakh households registered by 2024. 6.76 million individual units, 46k joint residences. 8.37 million buildings nationwide. Colombo district reports 752k households, Mannar 39k.
-
-🟩
-
-According to the value of 2024, 6,762,644 household components and 46,376 joint residences have been registered in the country.
-
-Meanwhile, a total of 8,377,895 buildings have been registered in the country in accordance with the "Building" program of 2024, the Department of Census and Housing.
-
-According to the Department of Public Administration Statistics, 751,585 households in the Colombo district and low 38,999 houses in the Mannar district have been reported in the district.
-
-◼️
-
-[Data](articles/4e90d231.json)
-
-[Extended Data](ext_articles/4e90d231.ext.json)
 
 ---

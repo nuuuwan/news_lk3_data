@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 22:39:42**
+As of **2024-10-25 22:58:07**
 
 ## Newspaper Stats
 
-*Scraped **51,409** Articles*
+*Scraped **51,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,785
-adaderanalk | 6,086
+adaderanalk | 6,087
 tamilmirrorlk | 7,098
 virakesarilk | 8,274
 adaderanasinhalalk | 8,930
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,930
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,409 (100.0%) of 51,409 articles have been extended.
+51,410 (100.0%) of 51,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### No businessman will be permitted to exploit situation by unfairly raising rice prices - President
+
+*2024-10-25 22:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102930/no-businessman-will-be-permitted-to-exploit-situation-by-unfairly-raising-rice-prices-president) · `en`
+
+President Anura Kumara Dissanayake announced that the government will support small and medium-scale rice mill owners in enhancing their capacity to help stabilize the rice market.
+
+He made this statement today (25) during a discussion held with the rice mill owners at the Presidential Secretariat in Colombo.
+
+The President noted that since the government invests significantly in promoting agriculture, irrigation, and fertilizer subsidies, these businesses have a social responsibility to provide rice to the public.
+
+The meeting included an extensive discussion on measures to enhance the capacity of small and medium-scale rice mill owners to balance the market, the President’s Media Division (PMD) said.
+
+The President also stressed that no businessman will be permitted to exploit the situation by unfairly raising rice prices.
+
+...
+
+[Data](articles/85101c7a.json)
+
+[Extended Data](ext_articles/85101c7a.ext.json)
+
+---
 
 ### Three cops interdicted for assaulting two youths in Pamunugama
 
@@ -2463,31 +2485,5 @@ The Test cricket playing countries in Asia presents their groups, and other coun
 [Data](articles/172eae1b.json)
 
 [Extended Data](ext_articles/172eae1b.ext.json)
-
----
-
-### Police raid illegal firearms workshop in Matara; 3 arrested with revolvers
-
-*2024-10-25 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102915/police-raid-illegal-firearms-workshop-in-matara-3-arrested-with-revolvers) · `en`
-
-Police officers have raided a workshop where revolver-type firearms were being manufactured and arrested a suspect in the Palatuwa area in the Matara police division.
-
-The operation was carried out based on a tip-off received by the officers of the Matara Division Crimes Bureau.
-
-During the raid, a 63-year-old resident from the Malimbada area in Palatuwa was apprehended with a locally-manufactured firearm, five rounds of 9mm ammunition, a welding plant and other equipment used in manufacturing firearms.
-
-Following the interrogation of the suspect, it has been revealed that 02 similar firearms have already been sold.
-
-Later, officers from the Matara Division Crimes Bureau had arrested two additional suspects, in the Ahangama police division, who were found in possession of the two sold firearms in question.
-
-The arrested suspects are aged 47 and 54 while they are both residents of the Ahangama area.
-
-The suspects and the seized firearms have been handed over to Matara Police.
-
-...
-
-[Data](articles/47c177cc.json)
-
-[Extended Data](ext_articles/47c177cc.ext.json)
 
 ---

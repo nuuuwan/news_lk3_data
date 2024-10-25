@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 12:58:11**
+As of **2024-10-25 13:10:14**
 
 ## Newspaper Stats
 
-*Scraped **51,329** Articles*
+*Scraped **51,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,780
-adaderanalk | 6,076
+adaderanalk | 6,077
 tamilmirrorlk | 7,076
 virakesarilk | 8,254
-adaderanasinhalalk | 8,910
+adaderanasinhalalk | 8,911
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,329 (100.0%) of 51,329 articles have been extended.
+51,329 (100.0%) of 51,331 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### ශ්‍රී ලංකාවට එල්ලවිය හැකි ප්‍රහාරය ත්‍රස්ත ප්‍රහාරයක් කියලා නිරීක්ෂණය වී නෑ - පොලිස් මාධ්‍ය ප්‍රකාශක
+
+*2024-10-25 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202544) · `si`
+
+ආරුගම්බේ ඇතුළු දිවයිනේ ප්‍රදේශ කිහිපයක ප්‍රහාරයක් එල්ලවිය හැකි බවට සැලසුමක් ඇති බවට වාර්තා වූ තොරතුරු, හුදෙක් ඊශ්‍රායල ජාතිකයක් ඉලක්ක කර සැලසුම්කළ ප්‍රහාරයක් බව දැනට සිදුකෙරෙමින් පවතින විමර්ශනවලදී අනාවරණය වූ බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසීය.
+
+'අද දෙරණ බිග් ෆෝකස්' වැඩසටහනට එක්වෙමින් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා මේ බව පැවසීය.
+
+කෙසේ නමුත් මෙම ප්‍රහාර සැලසුමේ ඉලක්කය ඊශ්‍රායල නොවන විදෙස් ජාතිකයන්, ශ්‍රී ලාංකිකයන් හෝ වෙනත් කඩාකප්පල්කාරී ක්‍රියාවක් නොවන බවට තොරතුරු හෙළිවී ඇති බව හෙතෙම මෙහිදී පෙන්වා දුන්නේය.
+
+මේ වනවිට එම ප්‍රහාර සැලසුම සම්බන්ධයෙන් ශ්‍රී ලාංකික පුද්ගලයින් තිදෙනෙක් අත්අඩංගුවට ගෙන ඇති අතර ඔවුන්ගෙන් ප්‍රශ්න කිරීමට පොලීසිය රැඳවුම් නියෝග ලබාගෙන තිබේ.
+
+...
+
+[Data](articles/d6514307.json)
+
+---
+
+### Petition filed against Ranjan Ramanayake’s nomination for General Election
+
+*2024-10-25 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102918/petition-filed-against-ranjan-ramanayakes-nomination-for-general-election) · `en`
+
+A petition has been filed with the Supreme Court requesting an order to reject the nomination of former Member of Parliament Ranjan Ramanayake, who is contesting the upcoming general election under the “United Democratic Voice” party from the Gampaha District.
+
+The petition, submitted by Gampaha District independent candidate K.M. Mahinda Senanayake, also seeks a ruling declaring that Ramanayake does not have the right to obtain a parliamentary seat or vote.
+
+The Election Commission and its members, Ranjan Ramanayake, the Gampaha District Returning Officer, and several others have been named as respondents in the case.
+
+◼️
+
+[Data](articles/adf61a41.json)
+
+---
 
 ### Eligious fever in Jaffna: Death
 
@@ -2265,57 +2299,5 @@ The storm is expected to affect most parts of the eastern state of Odisha, which
 [Data](articles/959b09f7.json)
 
 [Extended Data](ext_articles/959b09f7.ext.json)
-
----
-
-### An inquiry into the video that a mona was killed
-
-*2024-10-24 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202526) · `si`
-
-Wildlife investigation: Mona killed by indigenous people in Maduru Oya National Park. Foreigner charged alongside locals. Video shows hacking and burning of protected species.
-
-🟩
-
-The Department of Wildlife has launched an investigation into a video that a mona is unauthorized with four indigenous people with four indigenous people.
-
-UTube, 'Go Withubi' recently, 'Go With Ali', 'a foreigner and four indigenous people in partnership with four indigenous people in partnership with four indigenous people were hacked and burned along the channel.
-
-Director General of the Wildlife Conservation Chandana Sooriyabandara said that the four Independent of the Indigenous People who were involved in the incident and the location of the incident were started.
-
-The foreigner and others have been against the murder of an unauthorized in the Maduru Oya National Park and the release of such a safe bird in a socio-arrows.
-
-A foreigner who had entered the Maduru Oya National Park and a group of indigenous people in the Dambana area have been advertised by the Mahiyanganaya Magistrate's Court.
-
-◼️
-
-[Data](articles/f0390f40.json)
-
-[Extended Data](ext_articles/f0390f40.ext.json)
-
----
-
-### The candidate who was arrested during the election campaign is released on bail
-
-*2024-10-24 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197038) · `ta`
-
-Candidate Varadarajan Parthiban, Tamil People's Alliance, arrested during election campaign in Jaffna, released on bail. Another candidate Gajendrakumar Ponnambalam also arrested and released on bail.
-
-🟩
-
-Varadarajan Parthiban, candidate of the Tamil People's Alliance, who was arrested during an election campaign in Vadamarachchi in Jaffna, was released on police bail.
-
-The Tamil People's Alliance (TNA) was arrested by the Point Pedro Police on Thursday evening.
-
-Arrest was carried out on charges of campaigning in violation of the election.
-
-After the affidavit was received at the Point Pedro Police Station, the two were released on police bail.
-
-Meanwhile, All Ceylon Tamil Congress candidate Gajendrakumar Ponnambalam was arrested and released on police bail.
-
-◼️
-
-[Data](articles/7c54c65a.json)
-
-[Extended Data](ext_articles/7c54c65a.ext.json)
 
 ---

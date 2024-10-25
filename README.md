@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 14:40:34**
+As of **2024-10-25 14:58:37**
 
 ## Newspaper Stats
 
-*Scraped **51,338** Articles*
+*Scraped **51,340** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,781
 adaderanalk | 6,079
-tamilmirrorlk | 7,077
+tamilmirrorlk | 7,079
 virakesarilk | 8,254
 adaderanasinhalalk | 8,913
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 8,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,338 (100.0%) of 51,338 articles have been extended.
+51,340 (100.0%) of 51,340 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Voting for Elpitiya is ready
+
+*2024-10-25 14:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டியவுக்கான-வாக்குபெட்டிகள்-தயார்/175-346041) · `ta`
+
+Elpitiya local council election voting begins tomorrow morning. Special security measures implemented at all polling stations. Votes will be counted after the referendum.
+
+🟩
+
+எல்பிட்டிய உள்ளூராட்சி மன்றத் தேர்தலுக்கான வாக்குப்பெட்டிகள்  நாளை (26) காலை கொண்டு செல்லப்படவுள்ளன.
+
+Elections Commission Chairman RMAL Ratnayake said that these activities will take place at the office of the Galle District Election Officer.
+
+மேலும், காலி மாவட்ட செயலகம் உட்பட ஒவ்வொரு வாக்களிப்பு நிலையத்தையும் உள்ளடக்கும் வகையில் விசேட பாதுகாப்பு வேலைத்திட்டம் அமுல்படுத்தப்பட்டுள்ளதாகவும், அவர் குறிப்பிட்டுள்ளார்.
+
+The chairman of the Election Commission added that votes will be counted at the polling stations after the referendum.(An)
+
+◼️
+
+[Data](articles/f30f72f7.json)
+
+[Extended Data](ext_articles/f30f72f7.ext.json)
+
+---
+
+### ரஞ்சனின் வேட்புமனு நிராகரிக்கப்படும்?
+
+*2024-10-25 14:25:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஞ்சனின்-வேட்புமனு-நிராகரிக்கப்படும்/175-346040) · `ta`
+
+Ranjan Ramanayake's election nomination rejected due to lack of voting eligibility. Former MP filed petition in Supreme Court challenging his candidacy. Gampaha district election officer named as defendant. United National Party submitted nomination for Ranjan Ramanayake for general election.
+
+🟩
+
+முன்னாள் நாடாளுமன்ற உறுப்பினர் ரஞ்சன் ராமநாயக்கவின் வேட்புமனுவை நிராகரித்து உத்தரவு பிறப்பிக்குமாறு கோரி, உயர்நீதிமன்றில் மனு சமர்ப்பிக்கப்பட்டுள்ளது.
+
+In the petition, Ranjan Ramanayake is not qualified to vote in Parliament.
+
+கம்பஹா மாவட்ட சுயேட்சைக்குழு வேட்பாளர் கே.எம்.  மஹிந்த சேனாநாயக்கவினால் இந்த மனு சமர்ப்பிக்கப்பட்டுள்ளது.
+
+Gampaha District Election Officer, Ranjan Ramanayake, Elections Commission and its members have been referred to as defendants.
+
+எதிர்வரும் பொதுத் தேர்தலில் ஐக்கிய ஜனநாயக குரல் அமைப்பினால் கம்பஹா மாவட்டத்திற்கான வேட்புமனுவை, ரஞ்சன் ராமநாயக்க தாக்கல் செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.(AN)
+
+◼️
+
+[Data](articles/26b0264d.json)
+
+[Extended Data](ext_articles/26b0264d.ext.json)
+
+---
 
 ### The two most expenditure on the presidential election
 
@@ -2333,43 +2383,5 @@ The committee was appointed to investigate the lack of proper action by the Indi
 [Data](articles/9f0f8a8c.json)
 
 [Extended Data](ext_articles/9f0f8a8c.ext.json)
-
----
-
-### 2024-10-24 (Thursday)
-
-### SLBFE Chairman’s call for whistleblowers to expose corrupt deals is long awaited step
-
-*2024-10-24 23:23:24* · [`dailyftlk`](https://www.ft.lk/columns/SLBFE-Chairman-s-call-for-whistleblowers-to-expose-corrupt-deals-is-long-awaited-step/4-768376) · `en`
-
-It is extremely doubtful whether the desired objectives of the WB could be established in the absence of the conducive institutional culture where most of the employees will be silent employees well knowing the dire consequences that they could face in today’s hostile institutional and political climate. WB policy must be grounded in an organisational culture based on mutual trust between the management and the employees in which the employee takes the responsibility for communicating corrupt deals to management before those unethical dealings get out of hand
-
-Sri Lanka Bureau of Foreign Employment (SLBFE) has been in the limelight both in the print and electronic media during the past few months not for good reasons. The Sunday Times exposed mega corruption allegations to the tune of Rs. 2 billion causing a massive loss of Rs. 567 million to the SLBEF.
-
-...
-
-[Data](articles/512e91fe.json)
-
-[Extended Data](ext_articles/512e91fe.ext.json)
-
----
-
-### Sri Lanka’s corruption watchdog urges ruling NPP to respect election laws
-
-*2024-10-24 23:01:00* · [`economynextcom`](https://economynext.com/sri-lankas-corruption-watchdog-urges-ruling-npp-to-respect-election-laws-184821/) · `en`
-
-ECONOMYNEXT – Transparency International Sri Lanka (TISL), the local corruption watchdog urged President Anura Kumara Dissanayake’s National People’s Power (NPP) government respect election laws amid complaints about politically-motivated appointments to the public sector.
-
-The TISL said it had deployed approximately 160 election observers across all districts to monitor the misuse of public resources during the General Election 2024.
-
-Since October 14, TISL has received 70 complaints, with many related to new appointments made in public institutions, it said.
-
-“We have received information about a contesting candidate being appointed to a public service Position. A formal complaint was lodged with the Election Commission regarding this,” Thushanie Kandilpana, TISL’s National Coordinator of the Programme for the Protection of Public Resources (PPPR) told reporters at a media briefing on Thursday (24).
-
-...
-
-[Data](articles/425fb1cb.json)
-
-[Extended Data](ext_articles/425fb1cb.ext.json)
 
 ---

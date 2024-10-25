@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 09:59:40**
+As of **2024-10-25 10:13:20**
 
 ## Newspaper Stats
 
-*Scraped **51,292** Articles*
+*Scraped **51,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ islandlk | 3,049
 economynextcom | 3,131
 dailyftlk | 3,508
 dailymirrorlk | 4,733
-adalk | 4,776
-adaderanalk | 6,071
+adalk | 4,777
+adaderanalk | 6,073
 tamilmirrorlk | 7,069
-virakesarilk | 8,243
+virakesarilk | 8,247
 adaderanasinhalalk | 8,904
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,292 (100.0%) of 51,292 articles have been extended.
+51,299 (100.0%) of 51,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Independent Trade Workers Losing Voting Rights
+
+*2024-10-25 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197005) · `ta`
+
+Sri Lanka: Independent trade workers lose voting rights due to economic impact and distance from hometowns. Media briefing addresses challenges faced by 80,000 diaspora workers in free trade zones. Issues include lack of voting rights, high travel costs, and exploitation of labor. Women workers particularly affected, seeking solutions to protect voting rights and improve living conditions.
+
+🟩
+
+Sri Lanka's economy is a major impact in the post -Corona current context, with the impact of the impact of the industries in the industries that have been very impact, and the workers in the industries are facing major problems and losing their voting rights.
+
+A media briefing was held on Wednesday (23) at the Maradana CSR to address the problems faced by about 80,000 diaspora workers in Sri Lanka's free trade zones, including Katunayake, Piyagama, Vatupitivala and Mirigama.
+
+Sirambhamani Kendra Project Organizer Sukat Rajapaksa, Managing Director of the Tabindu Federation, Chandra Devanayana, and Red Devanarayana, on the issue of the right to vote from the current jobs in the upcoming general elections and raising awareness of the challenges and rights violations they face, without the environment to return to registered areas.Attorney -at -Law Human Rights activist Tarushi Tishara Fernando also participated.
+
+...
+
+[Data](articles/d54046a5.json)
+
+[Extended Data](ext_articles/d54046a5.ext.json)
+
+---
+
+### Preparations underway for Elpitiya PS Election
+
+*2024-10-25 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102914/preparations-underway-for-elpitiya-ps-election) · `en`
+
+The Elections Commission says that the departure of relevant officials for duties related to the 2024 Elpitiya Pradeshiya Sabha Election and the transporting of ballot papers and ballot boxes to the relevant polling centers will take place today (25).
+
+A total of 55,643 voters are eligible to cast their votes at 48 polling centers and the polling will be held according to the 2018 voter registration list, the Election Commission announced.
+
+Meanwhile, the chairman of the Election Commission R.M.A.L. Rathnayake stated that voting for the Elpitiya Pradeshiya Sabha election will be held from 7.00 a.m. to 4.00 p.m. tomorrow (26), with all necessary security measures in place.
+
+Additionally, the Executive Director of People’s Action for Free & Fair Elections (PAFFREL) Rohana Hettiarachchi, stated that they will deploy their officials for monitoring at all the polling stations during the Elpitiya Pradeshiya Sabha Election.
+
+◼️
+
+[Data](articles/d0601cc9.json)
+
+[Extended Data](ext_articles/d0601cc9.ext.json)
+
+---
+
+### Trees uprooted, power lines snapped as Cyclone Dana pummels India’s east coast
+
+*2024-10-25 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102912/trees-uprooted-power-lines-snapped-as-cyclone-dana-pummels-indias-east-coast) · `en`
+
+A ‘severe cyclonic storm’ pounded India’s eastern coast on Friday, uprooting trees, snapping power lines and inundating some areas, authorities said, adding that no deaths or injuries were reported.
+
+Cyclone ‘Dana‘ made landfall in Odisha state around midnight with wind speeds of 100-110 kmph (62-68 mph), gusting up to 120 kph (75 mph), and is expected to weaken into a cyclonic storm by forenoon, the weather department said.
+
+Odisha had closed schools, suspended flights to and from its capital city of Bhubaneswar until Friday morning, and evacuated more than half a million people in anticipation of the storm.
+
+“We don’t have any reports of damage to life or property, only damage to trees. Power in the affected area will be restored by late afternoon,” said Dilip Routrai, administrative chief of the region where the cyclone made landfall.
+
+...
+
+[Data](articles/61583a36.json)
+
+[Extended Data](ext_articles/61583a36.ext.json)
+
+---
 
 ### Residents in Pamunugama Police objection
 
@@ -118,6 +180,52 @@ The injured were receiving treatment at the Panadura Base Hospital.
 
 ---
 
+### Excise fraud;Three Chinese citizens arrested
+
+*2024-10-25 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197050) · `ta`
+
+Chinese citizens arrested for alleged exercise fraud in Galle, Sri Lanka. Police seized phones, passports, and bank cards during raid. Further investigation ongoing.
+
+🟩
+
+Police have arrested three Chinese citizens who were allegedly involved in a hostel.
+
+The suspects have been arrested in Kindota area of ​​the Galle Police Division on Thursday (24) during the raid on the basis of information received by Galle Police Officers.
+
+05 mobile phones, foreign passports and 04 bank cards have been seized by the police.
+
+Galle police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/8aae583e.json)
+
+[Extended Data](ext_articles/8aae583e.ext.json)
+
+---
+
+### Prime Minister Meeting with Security Force chiefs
+
+*2024-10-25 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/197052) · `ta`
+
+New PM meets security forces: Harini Amarasuriya discusses defense strategies with top military officials, including Army Commander Vikku Liyanage and Navy Commander Priyantha Perera. First official meeting since assuming office.
+
+🟩
+
+Prime Minister Harini Amarasuriya held talks with Sri Lankan security forces on Thursday (24).
+
+Principal General Shavendra Silva, Chief of Security Forces, Army Commander Lieutenant General Vikku Liyanage and Navy Commander Vice Admiral Priyantha Perera were present at the meeting.
+
+This is the first time that the new Prime Minister has met with security chiefs after taking office.
+
+◼️
+
+[Data](articles/b5ba616e.json)
+
+[Extended Data](ext_articles/b5ba616e.ext.json)
+
+---
+
 ### Place of firearms raided
 
 *2024-10-25 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202535) · `si`
@@ -173,6 +281,28 @@ It is noteworthy that CEB has submitted a proposal to reduce electricity tariffs
 [Data](articles/5352c1bb.json)
 
 [Extended Data](ext_articles/5352c1bb.ext.json)
+
+---
+
+### Australia provided surveillance flight to Sri Lanka
+
+*2024-10-25 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197049) · `ta`
+
+Australia provides surveillance aircraft to Sri Lanka. The Air Force receives Australian Air Force Surveillance Air 350 and Beechcraft King Air 350. These aircraft enhance maritime surveillance capabilities, contributing to regional security and stability. The collaboration strengthens ties between Australia and Sri Lanka, supporting anti-human trafficking efforts and maintaining peace in the Indian Ocean region.
+
+🟩
+
+Australia has provided free Australian Australian Air Force Surveillance Air 350, Beechcraft King Air 350.
+
+The aircraft will expand the Air Force's Air Force Maritime Surveillance and Intelligence and contribute to Sri Lanka's continued efforts to maintain a peaceful and secure Indian Ocean region.
+
+The Sri Lankan Air Force has said that the Australian aircraft has given Sri Lanka a strong coalition between the two countries and strengthening human trafficking and improvement of regional stability.
+
+◼️
+
+[Data](articles/0f02e44e.json)
+
+[Extended Data](ext_articles/0f02e44e.ext.json)
 
 ---
 
@@ -1672,6 +1802,28 @@ He was admitted to the Point Pedro hospital for further treatment due to an emer
 
 ---
 
+### Elpitiya elections tomorrow
+
+*2024-10-24 19:36:07* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-ඡන්ද-විමසීම-හෙට/11-412677) · `si`
+
+Elpitiya PS election tomorrow: 55,643 voters, including 1 independent group. Voting at Elpitiya PS chamber.
+
+🟩
+
+Elpitiya PS chamber's voting will be held tomorrow (26).
+
+The total number of voters registered for this election is 55,643 political parties and one independent group.
+
+The Elections Commission has decided to paint the head of the voter of the voter in the voter of the voter at the Presidential Election.
+
+◼️
+
+[Data](articles/4498301d.json)
+
+[Extended Data](ext_articles/4498301d.ext.json)
+
+---
+
 ### 1000 cervical cancer patients per year in Sri Lanka
 
 *2024-10-24 19:30:28* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-වසරකට-ගැබ්‍ගෙල-පිළිකා-රෝගීන්-1000ක්/11-412676) · `si`
@@ -2153,185 +2305,5 @@ Passengers and staff attended the aircraft and were taken out and then the cargo
 [Data](articles/73ea14a5.json)
 
 [Extended Data](ext_articles/73ea14a5.ext.json)
-
----
-
-### Dengue testing in 500 homes with the help of police
-
-*2024-10-24 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197014) · `ta`
-
-Batticaloa Health Medical Officer Division conducted dengue eradication activities on National Dengue Eradication Day. Police and health officials collaborated in 10 sections, including the municipal council area. The operation aimed to control dengue disease during the monsoon season.
-
-🟩
-
-On the day of National Dengue Eradication Day, which was declared by the Ministry of Health, the Batticaloa Health Medical Officer Division has taken massive dengue eradication activities on Thursday (24).
-
-Dr. Udayakumar, Health Medical Officer, said that the work plan was organized to control the dengue disease in the Batticaloa Health Medical Officer Division.
-
-The dengue eradication programs were carried out with the cooperation of the police and health officials in 10 sections, including the Batticaloa Municipal Council area.
-
-The move was chaired by Dr. E Udayakumar, Health Officer.
-
-Dr. Udayakumar, Health Officer, added that the monsoon has begun the monsoon.
-
-◼️
-
-[Data](articles/f2becaad.json)
-
-[Extended Data](ext_articles/f2becaad.ext.json)
-
----
-
-### 'Amaran' film published by Indian Celebrities
-
-*2024-10-24 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197029) · `ta`
-
-"Amaran" film: Sivakarthikeyan stars; Bollywood Aamir Khan, Kannada Sivaraj Kumar, Telugu Nani, Malayalam Dovino Thomas, Kamal Haasan promote Tamil-Telugu-Malayalam-Kannada-Hindi production. Directed by Rajkumar Periyasamy, music by V. Prakash Kumar. Co-produced by Raj Kamal Film International and Sony Pictures International Productions. Biographical scenes impress viewers. Over 4 million watched preview. Expected to be critically and commercially successful. Sivakarthikeyan and Kamal Haasan likely to become top Indian actors after Rajinikanth.
-
-🟩
-
-The preview of the movie 'Amaran', which will be released on October 31, starring Sivakarthikeyan.
-
-Bollywood actor Aamir Khan, Kannada Super Star Sivaraj Kumar, Telugu star actor Nani, Malayalam star actor Dovino Thomas and 'World Man' Kamal Haasan have released the preview of the film, which is being produced in Tamil, Telugu, Malayalam, Kannada and Hindi.
-
-Sivakarthikeyan, Sai Pallavi, Rahul Bose, Geeta Kailasam and many others have starred in 'Amaran' directed by director Rajkumar Periyasamy.. C. H. Sai is a video of the film.. V.. Prakash Kumar has composed the music.
-
-Raj Kamal Film International and Sony Pictures International Productions are co -produced by Raj Kamal Film International and Sony Pictures International Productions.
-
-In the preview of the film, the biographical scenes of a soldier's life have been very impressed with the seizure and patriotism.. As well as the expectation of the image.
-
-...
-
-[Data](articles/ce53ce32.json)
-
-[Extended Data](ext_articles/ce53ce32.ext.json)
-
----
-
-### Suspect arrested for illegally transporting gravel stones in Mullaitivu
-
-*2024-10-24 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197028) · `ta`
-
-A suspect was arrested in Mullaitivu for illegally transporting gravel in a plowing machine. The arrest occurred during a raid by the Police Special Task Force in the Danduwan forest area.
-
-🟩
-
-Police have arrested a suspect who illegally transported gravel in a plowing machine in the Danduwan forest area of ​​the Mullaitivu Oddusudan police division.
-
-He was arrested during a raid carried out by a team of officers of the Mullaitivu Camp of the Police Special Task Force.
-
-◼️
-
-[Data](articles/eee1db9c.json)
-
-[Extended Data](ext_articles/eee1db9c.ext.json)
-
----
-
-### Sai Tanashika's 'Fifth Veda'
-
-*2024-10-24 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197027) · `ta`
-
-Here's a 200-character summary of Sai Tanashika's 'Fifth Veda':
-
-
-
-New web series "Fifth Veda" releases Oct 25. Combines spirituality, science, mystery, horror. Directed by Naga, produced by Abirami Ramanathan. Stars G.Magendran, Santosh Pratap, Ponvannan. Explores AI impact on humanity in 3 parts.
-
-🟩
-
-The new web series 'Fifth Veda', which will be released on the 25th of October on October 25, has been in the minds of the fans with a series of internet series such as 'Ayali', 'Kusa Munusamy', 'Chief Secretariat' and 'Sangalam'.. This internet series was held in Chennai, which is a combination of many aspects of spirituality - science - mystery - horror.
-
-Actors, actresses, technical team, G5 and producers participated in the Internet series. Director Naga said, “I have been writing this story for the last one decade.
-
-Submitted to G5 after completing the complete completion. Allowed them to start the work immediately because they liked. It is more than six months to write the screenplay of this internet series.
-
-After that, the web series came forward to produce famous producer Abirami Ramanathan. The quality of this internet series has increased after he joins our group. The web series will be formed in three parts.
-
-...
-
-[Data](articles/04584c67.json)
-
-[Extended Data](ext_articles/04584c67.ext.json)
-
----
-
-### 'My Hero Lucky Bhaskar Gray Shade' - Director Venki
-
-*2024-10-24 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197026) · `ta`
-
-"Lucky Bhaskar" film summary: Directed by Venki Atluuri, starring Dulquer Salmaan, Ramki. Set in 1980s, focuses on bank employees. Music by V. Prakash Kumar. Released worldwide on Oct 31, Diwali.
-
-🟩
-
-The film 'Lucky Bhaskar', co -produced by Siddara Entertainment and Fortune for Cinemas, will be released worldwide on October 31, Diwali.
-
-The film was held in Chennai. At this moment, the film's director Venki Atluuri, the hero of the film, Dulquer Salman and actor Ramki, who played the lead role in the film.
-
-Dulquer Salman, Meenakshi Chaudhry, Ramki, Sachin Gatekar, Sri Hari and many others have starred in the film 'Lucky Bhaskar' directed by director Venki Atheruri.
-
-Nimish Ravi has recorded the film.. V.. Prakash Kumar has composed the music.
-
-Speaking of the film, the director said, “I decided to direct the film differently after the film. I also planned to be in my hero Gray Shade.
-
-'Lucky Bhaskar' is the character created in that respect. We love the verse of Super Star Rajinikanth in 'Annamalai'.
-
-With this in mind, I started writing the story of the film. The film is centered on the bank-bank employees. And I hope that the story of the story is in the backdrop of the 1980s. ”
-
-◼️
-
-[Data](articles/52b4f5dd.json)
-
-[Extended Data](ext_articles/52b4f5dd.ext.json)
-
----
-
-### Gajendrakumar Ponnambalam arrested
-
-*2024-10-24 17:51:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஜேந்திரகுமார்-பொன்னம்பலம்-கைது/175-345998) · `ta`
-
-Gajendrakumar Ponnambalam and Varadarajan Parthiban arrested for violating election rules during campaigns in Jaffna and Point Pedro.
-
-🟩
-
-General election candidates Gajendrakumar Ponnambalam and Varadarajan Parthiban have been arrested by the police.
-
-Many candidates contesting the upcoming parliamentary elections are leading a serious campaign.
-
-Accordingly, the Tamil National People's Munnanasi Party leader Gajendrakumar Ponnambalam was arrested during a campaign in Nelliyadi area in Jaffna.
-
-Similarly, Varadarajan Parthiban, candidate of the Tamil People's Alliance. He was arrested by the Point Pedro police while involved.
-
-The two candidates have been arrested on charges of campaigning in violation of election rules.
-
-◼️
-
-[Data](articles/d7bd6533.json)
-
-[Extended Data](ext_articles/d7bd6533.ext.json)
-
----
-
-### The new government's second defense council meeting came about
-
-*2024-10-24 17:50:42* · [`adalk`](https://www.ada.lk/breaking_news/නව-රජය-පැවැත්වූ-දෙවැනි-ආරක්ෂක-කවුන්සිල-රැස්වීමට-ප්‍රහාරය-ගැන-තොරතුරු-ආවා/11-412667) · `si`
-
-New government's second defense council meeting summary: Minister Vijitha Herath reports on security measures for Ella and Weligama guards. Three arrests made regarding attack plans. Ongoing investigations continue.
-
-🟩
-
-Minister Vijitha Herath said that the new government was reported at the Second Security Council meeting held after the coming to power.
-
-Accordingly, the security of arguarders, Ella, Weligama, Weligama, the Minister said.
-
-The Minister said that three persons have been arrested in connection with the attack plan.
-
-He added that further investigations are conducted on the information available.
-
-◼️
-
-[Data](articles/eb2d7c6d.json)
-
-[Extended Data](ext_articles/eb2d7c6d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 15:39:35**
+As of **2024-10-25 15:58:45**
 
 ## Newspaper Stats
 
-*Scraped **51,351** Articles*
+*Scraped **51,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,119 @@ dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,782
 adaderanalk | 6,079
-tamilmirrorlk | 7,082
-virakesarilk | 8,260
+tamilmirrorlk | 7,084
+virakesarilk | 8,262
 adaderanasinhalalk | 8,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,351 (100.0%) of 51,351 articles have been extended.
+51,355 (100.0%) of 51,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Sri Lanka has to travel long distances before going on the path of strong and stable recovery - International Monetary Fund
+
+*2024-10-25 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197094) · `ta`
+
+Sri Lanka faces challenges in achieving strong, stable recovery. IMF Director Krishna Srinivasan notes progress but emphasizes need for further reform efforts and loan compliance. The new government prioritizes protecting vulnerable sectors. Long-term stability remains uncertain.
+
+🟩
+
+Krishna Srinivasan, Director of the Department of Asia, said that Sri Lanka has to travel long before going on the path of a strong and stable recovery.
+
+There is currently a widespread concept, and the unanimous concept is found. Sri Lanka has traveled a long way in carrying out the reforms found in Adalabadam in 2022, and has some successful success. All of you know it.
+
+The new government has issued a dedication that the most severely striking expanses will be protected.
+
+The next step is to reach the official compliance with all loans.
+
+You have to go a long way before you go on the path of a strong and stable recovery.
+
+◼️
+
+[Data](articles/31b98c3d.json)
+
+[Extended Data](ext_articles/31b98c3d.ext.json)
+
+---
+
+### Students who cleaned the rectum
+
+*2024-10-25 15:25:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலசலகூடத்தை-சுத்தம்-செய்த-மாணவர்கள்-வைத்தியசாலையில்-அனுமதி/175-346047) · `ta`
+
+17 students hospitalized after cleaning school toilets with chemical fluid in Balangoda. Incident occurred today.
+
+🟩
+
+An incident where students who cleaned the school's rectum have taken place today in the Balangoda area.
+
+Seventeen students were sick and they were admitted to the Balangoda Primary Hospital, police said.
+
+The incident took place at a school in Balangoda, police said that the students were cleaning the toilets using some kind of chemical fluid and admitted to the hospital due to fainting.. Those
+
+◼️
+
+[Data](articles/14f1c1b8.json)
+
+[Extended Data](ext_articles/14f1c1b8.ext.json)
+
+---
+
+### Indian businessman Ratan Tata has written property
+
+*2024-10-25 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197093) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Ratan Tata, 86, former Tata Sons president, left property to foster dogs & staff. Unusual in India, common in West. Willed assets to lifelong care of Tito, his German Shepherd. Also gifted to long-time employees & assistant. Awards to future generations.
+
+🟩
+
+Indian businessman Ratan Tata passed away at the age of 86. He is a former president of Tata Sons, the mother of Tata Group.
+
+He has millions of property in person. Ratan Tata will always be with foster dogs. The foster dogs are for him alive. He raised a dog named Tito from the German category in his home. Before he died, he had written property to his foster dog.
+
+Writing property for dogs in Western countries is nothing new. But in India, it is very rare to write property. Ratan Tata has written property to everyone who has been with him till the end.
+
+Tito adopted a foster dog 6 years ago. Ratan Tata had a different dog in the same name. Following the death of the dog, the newly adopted dog raised the same name. He has written property to maintain this tito for a lifetime.
+
+...
+
+[Data](articles/23e8ead3.json)
+
+[Extended Data](ext_articles/23e8ead3.ext.json)
+
+---
+
+### Attack on women by sharp weapons
+
+*2024-10-25 15:07:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரிய-ஆயுதங்களால்-பெண்கள்-மீது-தாக்குதல்/175-346045) · `ta`
+
+Two women (59, 46) attacked with sharp weapons in Panadura. Three-person group fled scene. Police claim victims involved in drug trafficking.
+
+🟩
+
+Panadura - Two women have been attacked with sharp weapons this morning.
+
+Three persons in the three -wheeler carried out the attack and fled the scene, police said.
+
+The two women are involved in drug trafficking, according to police sources.
+
+They are 59 and 46 year old women from Uranna Badavatta area. Those
+
+◼️
+
+[Data](articles/204e8fea.json)
+
+[Extended Data](ext_articles/204e8fea.ext.json)
+
+---
 
 ### ’டானா’வால் கடல்சார் சமூகத்தினருக்கு எச்சரிக்கை
 
@@ -2387,75 +2487,5 @@ At the exclusive gathering, pre-ordered devices were ceremoniously handed over t
 [Data](articles/3bbaec91.json)
 
 [Extended Data](ext_articles/3bbaec91.ext.json)
-
----
-
-### Union Assurance crowned Best Digital Life Insurer of Sri Lanka 2024
-
-*2024-10-25 01:22:00* · [`islandlk`](http://island.lk/union-assurance-crowned-best-digital-life-insurer-of-sri-lanka-2024/) · `en`
-
-Union Assurance, Sri Lanka’s premier Life Insurer, was awarded as the ‘Best Digital Life Insurer – Sri Lanka 2024’ at the Global Business & Finance Magazine Awards. This esteemed platform recognises exceptional achievements in business and finance worldwide, celebrating individuals, companies and organisations that have made remarkable contributions to their industries.
-
-The accolade highlights Union Assurance’s leadership in driving digital transformation and its unwavering commitment towards revolutionising the Life Insurance industry through technology and customer-centric initiatives.
-
-Union Assurance has long been at the forefront of technological innovation in Sri Lanka’s Life Insurance sector, setting new industry benchmarks with groundbreaking initiatives that deliver exceptional customer experiences. The Company’s forward-thinking approach has played a pivotal role in bridging the protection gap across the nation, empowering individuals and communities alike.
-
-...
-
-[Data](articles/f39f1659.json)
-
-[Extended Data](ext_articles/f39f1659.ext.json)
-
----
-
-### Siyapatha Finance ranked ‘Best Performing Finance Company’ by K Seeds
-
-*2024-10-25 01:16:00* · [`islandlk`](http://island.lk/siyapatha-finance-ranked-best-performing-finance-company-by-k-seeds/) · `en`
-
-In a recent comprehensive financial analysis carried out by K Seeds Investments (Pvt) Ltd, Siyapatha Finance PLC was ranked the “Best Performing Finance Company” in Category 2 among 32 licensed finance companies for the quarter ended 30th June,2024.
-
-Classified under the Second Category among four main categories, which enumerates listed financial companies with an asset base between Rs.50 billion and Rs.100 billion, Siyapatha recorded a Net Profit Margin of 9.34%. The company saw a Net Profit Growth of 372.05% in the quarter ended 30th June 2024, compared to the same period of analysis in the previous year.
-
-...
-
-[Data](articles/83f20288.json)
-
-[Extended Data](ext_articles/83f20288.ext.json)
-
----
-
-### Lowering of bank interest rates injects robustness to CSE; turnover hits Rs. 4 billion
-
-*2024-10-25 01:15:00* · [`islandlk`](http://island.lk/lowering-of-bank-interest-rates-injects-robustness-to-cse-turnover-hits-rs-4-billion/) · `en`
-
-The stock market yesterday kicked off on a positive note and investor participation reached a satisfactory level while turnover touched more than Rs 4 billion due to lowering of bank interest rates. This enabled people to invest in the stock market, market analysts said.
-
-Both indices moved upwards. The All Share Price Index went up by 130.7 points while the S and P SL20 went up by 68.7 points. Turnover stood at Rs 4.7 billion with seven crossings.
-
-...
-
-[Data](articles/dd0803f3.json)
-
-[Extended Data](ext_articles/dd0803f3.ext.json)
-
----
-
-### Royal College Principal says committed to upholding high standards and values
-
-*2024-10-25 01:02:13* · [`dailyftlk`](https://www.ft.lk/opinion/Royal-College-Principal-says-committed-to-upholding-high-standards-and-values/14-768385) · `en`
-
-Denies allegations regarding Royal College rugby team in both newspapers and on social media as unfounded
-
-Says if a genuine complaint is made, will ensure comprehensive inquiry takes place
-
-Insists will not be drawn into addressing historical grievances over discipline-related issues at Royal College unrelated to his tenure
-
-Following Daily FT’s assertion that the responses to a recent spate of articles in this newspaper on multiple issues concerning Royal College, Colombo should come first from the Principal of the school and not the Royal College Union (RCU), the Principal Thilak Waththuhewa this week issued the following statement.
-
-...
-
-[Data](articles/85cd50cd.json)
-
-[Extended Data](ext_articles/85cd50cd.ext.json)
 
 ---

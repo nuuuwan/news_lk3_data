@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 20:39:42**
+As of **2024-10-25 20:58:45**
 
 ## Newspaper Stats
 
-*Scraped **51,398** Articles*
+*Scraped **51,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,784
 adaderanalk | 6,085
-tamilmirrorlk | 7,096
+tamilmirrorlk | 7,097
 virakesarilk | 8,270
 adaderanasinhalalk | 8,928
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,928
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,398 (100.0%) of 51,398 articles have been extended.
+51,399 (100.0%) of 51,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Again in the US electoral field
+
+*2024-10-25 20:27:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-தேர்தல்-களத்தில்-மீண்டும்-பரபரப்பு/50-346058) · `ta`
+
+US presidential election controversy: Model Stacey Williams accuses Donald Trump of sexual misconduct in 1993 interview. Trump denies allegations. Harris campaign calls it "sick politics."
+
+🟩
+
+With the US presidential election to be held on November 5, another model brunette has now made a sexual accusation against former President Donald Trump.
+
+Trump is the one who has been convicted in the case of trying to rape a writer named Jean Carol. முன்னதாக டிரம்ப் பெண்களை பற்றி அந்தரங்கமாக பேசும் பதிவு ஒன்று ஆக்சஸ் ஹாலிவுட் டேப்ஸ் என்று பெயரில் 2016 ஆம் ஆண்டு அமெரிக்க தேர்தல் சமயத்தில் வெளியாகி பரபரப்பை ஏற்படுத்தியிருந்தது. இந்நிலையில் தற்போது டிரம்ப் மீது மற்றொரு மாடல் அழகி பாலியல் குற்றச்சாட்டை முன்வைத்துள்ளார்.
+
+ஸ்டேஷி வில்லியம்ஸ் என்ற அந்த மாடல் பிரபலம், ஆங்கில தொலைக்காட்சி ஊடகம் ஒன்றுக்கு அளித்த பேட்டியில், 1993ஆம் ஆண்டு டிரம்ப் தன்னை பாலியல் துன்புறுத்தல் செய்ததாக தெரிவித்துள்ளார்.
+
+மேலும், “கடந்த 1992 ஆம் ஆண்டில் கிறிஸ்துமஸ் சமயத்தில் நடந்த விருந்து ஒன்றில் வைத்து ட்ரம்ப்பை முதன்முதலில் சந்தித்தேன். அப்போது உடனிருந்த எனது நண்பர் எப்ஸ்டின் உடன் பேசிக் கொண்டே என்னிடம் டிரம்ப் பாலியல் ரீதியாக அத்துமீறினார்.
+
+...
+
+[Data](articles/eb6eed7d.json)
+
+[Extended Data](ext_articles/eb6eed7d.ext.json)
+
+---
 
 ### President informs the kidmakers of protection
 
@@ -2509,29 +2533,5 @@ Sri Lanka has arrested three persons, all Sri Lankans, for questioning related t
 [Data](articles/e48da47c.json)
 
 [Extended Data](ext_articles/e48da47c.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger, some bond yields up
-
-*2024-10-25 09:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-some-bond-yields-up-184849/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 293.60/65 to the US dollar Friday, stronger from 293.78/82 to the US dollar Thursday, while bond yields were largely unchanged, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.55/70 percent Friday up from 10.50/70 percent Thursday.
-
-A bond maturing on 15.12.2027 was quoted at 11.50/55 percent lower from 11.50/55 percent.
-
-A bond maturing on 15.03.2028 was quoted 10.75/80 percent unchanged from 11.75/80 percent.
-
-A bond maturing on 15.06.2029 was quoted at 12.03/05 percent, up from 11.95/12.10 percent.
-
-A bond maturing on 15.05.2030 was quoted at 12.15/25 percent up from 12.20/30 percent. (Colombo/Oct25/2024)
-
-◼️
-
-[Data](articles/cea9f2a8.json)
-
-[Extended Data](ext_articles/cea9f2a8.ext.json)
 
 ---

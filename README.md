@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 19:39:35**
+As of **2024-10-25 20:11:59**
 
 ## Newspaper Stats
 
-*Scraped **51,393** Articles*
+*Scraped **51,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,125 @@ dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,784
 adaderanalk | 6,085
-tamilmirrorlk | 7,095
+tamilmirrorlk | 7,096
 virakesarilk | 8,270
-adaderanasinhalalk | 8,924
+adaderanasinhalalk | 8,927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,393 (100.0%) of 51,393 articles have been extended.
+51,397 (100.0%) of 51,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Warner removes a life-imposed ban
+
+*2024-10-25 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202559) · `si`
+
+Here's a 200-character summary:
+
+
+
+Warner lifts lifetime ban from Australian cricket. Former captain removed from Big Bash League after ball-tampering scandal in 2018. Decision sparks debate among sports critics.
+
+🟩
+
+David Warner David Warner has decided to remove the ban on the lives of Australia.
+
+The ball in Cape Town, like a sand paper in the year 2018, was to be charged with a sand paper.
+
+In addition to Wariore, Stephen Smith and Cameron Bantofact was also banned, as a result of it.
+
+As a result, Australian cricket has banned a lifetime of the Big Bash League, in the Big Bash League, or any other tourist team in the country.
+
+However, the Australian Cricket Behavation of the Australian Cricket Behavation, however, has been canceled the leadership ban on the life of the Australian cricket.
+
+As a result, Sports critics point out that the Ionar who left the international cricket will lead the Sydney Thunder team at the Bigabash League.
+
+◼️
+
+[Data](articles/1408a7d2.json)
+
+[Extended Data](ext_articles/1408a7d2.ext.json)
+
+---
+
+### We have the philosophy of creating a happy thing - Dilith
+
+*2024-10-25 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202560) · `si`
+
+Dilith Jayaweera leads party emphasizing intelligent, adaptable candidates. Supports progressive policies but opposes threats to national security. Promotes disability representation in politics.
+
+🟩
+
+Dilitian leader Dilith Jayaweera says that people with intelligence and rational minds have joined hands with the autogeration power.
+
+He was speaking at the opening of the election office of Colombo District Leader of Colombo District Leader Upali Jayasekera yesterday.
+
+...
+
+[Data](articles/e6f287ba.json)
+
+[Extended Data](ext_articles/e6f287ba.ext.json)
+
+---
+
+### Airline's announcement on security
+
+*2024-10-25 19:34:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-குறித்து-விமான-நிறுவனத்தின்-அறிவிப்பு/175-346056) · `ta`
+
+Sri Lanka airport confirms passenger safety after bomb threats. Airline prioritizes security measures. International standards implemented. Administration ensures traveler comfort despite challenges.
+
+🟩
+
+Sri Lanka's airport has confirmed the safety of passengers and employees, the airport and airline said in a statement.
+
+On October 19 and 24, there is a fear among the public due to the threat of a bomb blast at the Bandaranaike International Airport (BIA).
+
+Airports and Airlines (Sri Lanka) (Pvt) Chairman Harsha Abeywickrama said:. And will be given priority to airport users.
+
+Internationally adopted ethics will be adopted to manage and respond effectively to such situations. ”
+
+He said that our administration is taking all the necessary steps in collaboration with other service providers to ensure that our valuable travelers enjoy a pleasant journey at our airport.
+
+The announcement further stated that our guests are willingly regretted and thankful for their understanding and cooperation in the event of any inconvenience to our guests due to these circumstances.
+
+◼️
+
+[Data](articles/249987ba.json)
+
+[Extended Data](ext_articles/249987ba.ext.json)
+
+---
+
+### Man arrested with land of 4 million
+
+*2024-10-25 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202558) · `si`
+
+Here's a 200-character summary:
+
+
+
+Man arrested in Ragama raid with 10kg substance worth Rs. 200 million. Air Force Intelligence Division involved.
+
+🟩
+
+A person was arrested by the Western Province North Criminal Division in the Ragama area with 10 kilograms.
+
+The arrest was made during a raid conducted on information received by the Air Force Intelligence Division.
+
+The arrested for the 'rare whale vomiting' was worth Rs. 200 million worth the value of this House of Amus.
+
+◼️
+
+[Data](articles/2b1c8c8f.json)
+
+[Extended Data](ext_articles/2b1c8c8f.ext.json)
+
+---
 
 ### Man arrested trying to sell 10kg of ambergris for Rs. 200 million
 
@@ -2427,109 +2533,5 @@ The injured were receiving treatment at the Panadura Base Hospital.
 [Data](articles/1572b815.json)
 
 [Extended Data](ext_articles/1572b815.ext.json)
-
----
-
-### Excise fraud;Three Chinese citizens arrested
-
-*2024-10-25 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197050) · `ta`
-
-Chinese citizens arrested for alleged exercise fraud in Galle, Sri Lanka. Police seized phones, passports, and bank cards during raid. Further investigation ongoing.
-
-🟩
-
-Police have arrested three Chinese citizens who were allegedly involved in a hostel.
-
-The suspects have been arrested in Kindota area of ​​the Galle Police Division on Thursday (24) during the raid on the basis of information received by Galle Police Officers.
-
-05 mobile phones, foreign passports and 04 bank cards have been seized by the police.
-
-Galle police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/8aae583e.json)
-
-[Extended Data](ext_articles/8aae583e.ext.json)
-
----
-
-### Prime Minister Meeting with Security Force chiefs
-
-*2024-10-25 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/197052) · `ta`
-
-New PM meets security forces: Harini Amarasuriya discusses defense strategies with top military officials, including Army Commander Vikku Liyanage and Navy Commander Priyantha Perera. First official meeting since assuming office.
-
-🟩
-
-Prime Minister Harini Amarasuriya held talks with Sri Lankan security forces on Thursday (24).
-
-Principal General Shavendra Silva, Chief of Security Forces, Army Commander Lieutenant General Vikku Liyanage and Navy Commander Vice Admiral Priyantha Perera were present at the meeting.
-
-This is the first time that the new Prime Minister has met with security chiefs after taking office.
-
-◼️
-
-[Data](articles/b5ba616e.json)
-
-[Extended Data](ext_articles/b5ba616e.ext.json)
-
----
-
-### Place of firearms raided
-
-*2024-10-25 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202535) · `si`
-
-Matara Police Division raid: Revolvers seized, 3 suspects arrested. 63-year-old from Malimbada held with 5mm firearm and welding equipment. Two guns sold to suspects from Ahangama. Further investigation ongoing.
-
-🟩
-
-Revolver firearms are raided in the Matara Police Division in the Matara Police Division.
-
-The raid was raided on information received by the officers of the Matara Division Criminal Investigation Bureau.
-
-Police stated that a suspect has been arrested by a firearm, 5 mm millimeters, 5 mm, welding plate and equipment.
-
-The suspect is the 63 year old resident of Malimbada.
-
-It has been revealed that 2 of the firearms have been sold to the suspects.
-
-The Matara Division Criminal Investigation Bureau officials were arrested by the Matara Criminal Investigation Bureau of the Matara Divisional Secretariat.
-
-The arrested suspects are residents of Ahangama, 47 and 54 years.
-
-The suspects were presented to the Matara Police Station and the Matara Division Criminal Investigation Bureau is conducting further investigations.
-
-◼️
-
-[Data](articles/aac02982.json)
-
-[Extended Data](ext_articles/aac02982.ext.json)
-
----
-
-### Proposal
-
-*2024-10-25 09:09:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டண-குறைப்பு-திட்டம்-முன்மொழிவு/175-346027) · `ta`
-
-Ceylon Electricity Board proposes reducing electricity tariffs. Proposal submitted to Public Utilities Commission of Sri Lanka. Review pending. Ministry of Power and Energy announces new PUCSL members appointment. Third such proposal this year.
-
-🟩
-
-The Ceylon Electricity Board (CEB) has said that the idea of ​​reducing the electricity tariff has been submitted to the Public Utilities Commission of Sri Lanka.
-
-The proposal is based on the current price formula, the Ceylon Electricity Board said.
-
-Review the PUCSL proposal and announce percentage reduction in electricity charges once it is approved.
-
-Meanwhile, the Ministry of Power and Energy has said that the President will appoint new members for the vacancies in PUCSL.
-
-It is noteworthy that CEB has submitted a proposal to reduce electricity tariffs for the third time this year.
-
-◼️
-
-[Data](articles/5352c1bb.json)
-
-[Extended Data](ext_articles/5352c1bb.ext.json)
 
 ---

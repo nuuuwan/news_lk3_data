@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 11:12:03**
+As of **2024-10-25 11:23:49**
 
 ## Newspaper Stats
 
-*Scraped **51,305** Articles*
+*Scraped **51,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,95 @@ islandlk | 3,049
 economynextcom | 3,131
 dailyftlk | 3,508
 dailymirrorlk | 4,733
-adalk | 4,777
-adaderanalk | 6,074
+adalk | 4,778
+adaderanalk | 6,075
 tamilmirrorlk | 7,069
 virakesarilk | 8,249
-adaderanasinhalalk | 8,907
+adaderanasinhalalk | 8,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,303 (100.0%) of 51,305 articles have been extended.
+51,308 (100.0%) of 51,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
 
-### வனவிலங்கு சட்டங்களை மீறியதாக வெளிநாட்டு யூடியூபர் மீது விசாரணை
+### Tense situation near Pamunugama Police over assault of arrested youths
+
+*2024-10-25 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102916/tense-situation-near-pamunugama-police-over-assault-of-arrested-youths) · `en`
+
+A group of local residents had protested in front of the Pamunugama Police Station last evening (24) claiming that two youths arrested by the police were brutally assaulted.
+
+Accordingly, a tense situation had prevailed near the police station last night, Ada Derana Reporter said.
+
+On Sunday (20), two individuals were arrested on suspicion of breaking into a house in the Bopitiya area of Pamunugama and stealing a gold necklace.
+
+The arrested youths aged 20 and 24 are residents of Pamunugama and Seththapaduwa areas.
+
+However, the parents and the villagers accuse the police officers of brutally assaulting these two youths, while asserting that the young men were not involved in the theft.
+
+Later, with the intervention of the OIC of Dungalpitiya Police Station, the assaulted individuals were admitted to the Ragama Teaching Hospital.
+
+With the assurance given by the Dungalpitiya OIC that justice would be served regarding the incident, the group had later dispersed.
+
+◼️
+
+[Data](articles/34be223f.json)
+
+[Extended Data](ext_articles/34be223f.ext.json)
+
+---
+
+### Petition demanding to reject Ranjan's nomination
+
+*2024-10-25 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202541) · `si`
+
+Supreme Court petitions rejection of Ranjan Ramanayake's UPFA nomination for general election. Requests denial of parliamentary seat and voting rights. Presented by Mahinda Senanayake, names Elections Commission and officials as respondents.
+
+🟩
+
+For the next general election, the Supreme Court has filed a petition to the Supreme Court demanding the rejecting of former MP Ranjan Ramanayake for the UPFA.
+
+Ranjan Ramanayake is also requested that there is no decision that there is no claim to seat and vote in Parliament.
+
+Independent groups candidate for Gampaha District KM. The petition has been presented by Mahinda Senanayake.
+
+The Elections Commission and its members, Ranjan Ramanayake, Gampaha District Referral Officer have been named as its respondents.
+
+◼️
+
+[Data](articles/7f37c4b0.json)
+
+[Extended Data](ext_articles/7f37c4b0.ext.json)
+
+---
+
+### Investigating foreign YouTube for violating wildlife laws
 
 *2024-10-25 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197059) · `ta`
 
-மாதுரு ஓயா தேசிய பூங்காவில் மயில் ஒன்றை வேட்டையாடி கொன்று சமைத்து உணவாக உட்கொண்ட  காட்சி சமூக ஊடகங்களில் ஒன்றான யூடியூப் தளத்தில் பகிரப்பட்ட காணொளி தொடர்பில் வெளிநாட்டு பிரஜை மற்றும் நான்கு வேடுவச் சமூகத்தினர் மீது வனவிலங்கு பாதுகாப்பு திணைக்களம் விசாரணைகளை ஆரம்பித்துள்ளது.
+Foreigners investigated for poaching peacock in Sri Lanka's Madhuru Oya National Park. Video shared on YouTube. Wildlife officials launch probe into illegal activities. Similar incident occurred previously involving foreigners and local hunters. Case being heard in court.
 
-இந்த காணொளி  ‘கோ வித் அலி’ (Go With Ali) என்ற யூடியூப் சேனலில் பகிரப்பட்டுள்ளது.
+🟩
 
-அதில் தேசிய பூங்காவிற்குள் ஒரு குழுவினர் மயில் ஒன்றை வேட்டையாடி விறகு அடுப்பில் சமைத்து உட்கொள்ளும் காட்சி  காணொளியாக படம்பிடிக்கப்பட்டுள்ளது.
+The Department of Wildlife Protection has launched an investigation into foreign citizens and four people in connection with the video shared on the YouTube site, one of the scene of the Social Media, one of the scene of the Social Media, which was hunted and cooked at the Madhuru Oya National Park.
 
-இந்நிலையில், வெளிநாட்டு பிரஜை மற்றும் நான்கு வேடுவச் சமூகத்தினர் அடங்கிய குழுவினர் தேசிய பூங்காவிற்குள் சட்டவிரோதமாக உட்பிரவேசித்தமை தொடர்பில் முதல் கட்ட விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக வனவிலங்கு பாதுகாப்பு திணைக்களத்தின் பணிப்பாளர் நாயகம் சந்தன சூரியபண்டார தெரிவித்துள்ளார்.
+The video is shared on the YouTube channel Go with Ali.
 
-இதேவேளை, இவர்கள் மீது மாதுரு ஓயா தேசிய பூங்காவிற்குள் அத்துமீறி நுழைந்தமை, தீ மூட்டடியமை, பாதுகாக்கப்படும் பறவை இனத்தை வேட்டையாடி கொன்றமை, அதனை சமூக ஊடகங்களில் பகிர்ந்ததமை ஆகிய குற்றச்சாட்டுகள் பதிவுசெய்யப்பட்டுள்ளன.
+It has been shot as a video of a group of people hunting a peacock inside the national park and cooked in a firewood oven.
+
+In this backdrop, the Director General of the Wildlife Conservation Department Chandana Suriyapandara said that the first phase of investigations have been launched in connection with the illegal entering the national park.
+
+Meanwhile, allegations have been made against them, the entry into the Madhuru Oya National Park, the fire, the killing of the protected bird, and the sharing of it on social media.
 
 ...
 
 [Data](articles/636e7512.json)
+
+[Extended Data](ext_articles/636e7512.ext.json)
 
 ---
 
@@ -134,19 +190,67 @@ The terrorist group called the TEHREK-E-Taliban Pakistan regarding the attack, f
 
 ---
 
-### பத்திரிகையாளராக மாறிய போராளி ' தராக்கி ' சிவராம் : கொடூரமான கடத்தலும் கொலையும் - மீண்டும் விசாரணைக்கு உத்தரவிட்டிருக்கும் ஜனாதிபதி அநுரா குமாரவின் அரசாங்கம்
+### Sivaram: The government of President Anura Kumara, who has ordered a re -inquiry into the brutal kidnapping and murder
 
 *2024-10-25 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197057) · `ta`
 
-கடந்த காலத்தில் அதிகாரத்தில் இருந்தவர்களினால் தடுக்கப்பட்ட அல்லது சீர்குலைக்கப்பட்டு நீதிகிடைக்காமல் போன பாரிய  ஊழல் மோசடிகள், படுகொலைகள் தொடர்பான விசாரணைகளை மீண்டும் ஆரம்பிக்கப் போவதாக ஜனாதிபதி அநுரா குமார திசாநாயக்க தனது தேர்தல் பிரசாரங்களின்போது அடிக்கடி வலியுறுத்திக் கூறினார்.
+Thank you for providing such detailed information about Sivaram, also known as Taraki. This appears to be a comprehensive biography of his life, covering his early years, education, involvement in politics and militancy, transition to journalism, and eventual tragic fate. 
 
-அண்மைய நிகழ்வுகள்  தங்களது தேர்தல் வாக்குறுதிகள் குறித்து ஜனாதிபதி திசாநாயக்கவும் அவரது அரசாங்கமும் கரிசனையாக இருக்கிறார்கள் என்பதை வெளிக்காட்டுகின்றன. இது தொடர்பில் அவர்கள் அடுத்த கட்ட நடவடிக்கைகளை எடுக்கத் தொடங்கியிருக்கிறார்கள்.
 
-அடுத்த மாதம் பாராளுமன்ற தேர்தல் நடைபெறவிருக்கும் நிலையில், இந்த விவகாரங்களில் நீதியை உறுதிசெய்வதற்கு உறுதியான நடவடிக்கைகளை எடுக்கத் தொடங்கியிருப்பதை அரசாங்கம் மெய்ப்பித்துக் காட்டுமோயானால்  ஆளும் தேசிய மக்கள் சக்தியின் தேர்தல் வாய்ப்புகள் பிரகாசமானதாக இருக்கும்.
+
+Some key points that stood out:
+
+
+
+1. Sivaram was born in 1959 and grew up in a Tamil elite family in the east of Sri Lanka.
+
+
+
+2. He initially joined the LTTE but was rejected, then joined PLOTE and received military training in India.
+
+
+
+3. He became involved in politics and military strategy teaching within PLOTE.
+
+
+
+4. In 1989, he transitioned to journalism, starting as a contributor to The Island magazine under the pseudonym Taraki.
+
+
+
+5. His articles sparked controversy and interest due to his deep knowledge of North-Eastern conflicts.
+
+
+
+6. He faced threats and intimidation as a journalist, particularly related to his coverage of the Theraputtapaya Balakaya incident.
+
+
+
+7. Sivaram was assassinated in 2005 at the age of 46.
+
+
+
+It's remarkable how his journey took him from being involved in armed struggle to becoming a prominent journalist covering those very conflicts. His work undoubtedly shed light on important issues affecting Sri Lanka during his time.
+
+
+
+Is there anything specific about Sivaram's life or legacy you'd like me to expand upon?
+
+🟩
+
+President Anura Kumara Dissanayake has often urged the President Anura Kumara Dissanayake that he will resume investigations into the massive corruption scandals and massacres that have been blocked or disrupted by those who have been in power in the past.
+
+Recent events show that President Dissanayake and his government are concerned about their election promises. In this regard, they have begun to take the next step.
+
+As the government has begun to take firm measures to ensure justice in these issues, the electoral opportunities of the ruling national people will be bright.
+
+Controversial 2015 Treasury Bailout, 2019 Easter Sunday bombings, political activists Lalith Kumar Veeraj and Kugan Murugananthan's disappearance and the abduction of journalist Darumaratnam 'Taraki' Sivaram's kidnapping in 2005Previously ordered.
 
 ...
 
 [Data](articles/a6be89ea.json)
+
+[Extended Data](ext_articles/a6be89ea.ext.json)
 
 ---
 
@@ -1946,6 +2050,26 @@ He was admitted to the Point Pedro hospital for further treatment due to an emer
 
 ---
 
+### Old iron sellers call on old iron sellers
+
+*2024-10-24 19:41:44* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියේ-පරණ-යකඩ-විකුණන්-මිල-ගණන්-කැඳවයි/11-412678) · `si`
+
+Railway Department sells large quantity old iron. Decision made Cabinet meeting Oct 21. Ministry of Transport instructs transfer to Ministry Secretary SS Mudalige.
+
+🟩
+
+The Railway Department has decided to provide the largest amount of old iron belonging to the Railway Department. This has been decided on an approved proposal at the Cabinet meeting last October 21.
+
+On the instructions of the Ministry of Transport, Highways, Ports, Ports and Civil Services will be taken to the Ministry Secretary, SS. Mudalige said.
+
+◼️
+
+[Data](articles/f75f06b1.json)
+
+[Extended Data](ext_articles/f75f06b1.ext.json)
+
+---
+
 ### Elpitiya elections tomorrow
 
 *2024-10-24 19:36:07* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-ඡන්ද-විමසීම-හෙට/11-412677) · `si`
@@ -2225,79 +2349,5 @@ The President was addressing a meeting held in Puttalam today (24).
 [Data](articles/e09c50d0.json)
 
 [Extended Data](ext_articles/e09c50d0.ext.json)
-
----
-
-### Gajendrakumar's bail
-
-*2024-10-24 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/197034) · `ta`
-
-Gajendrakumar Ponnambalam, former MP, released on bail after arrest for election rule violation during campaign in Jaffna. Another candidate, Varadarajan Parthiban, also arrested in separate incident.
-
-🟩
-
-Former parliamentarian Gajendrakumar Ponnambalam, who was arrested in Jaffna, has been released on bail.
-
-While engaged in an election campaign in Nelliyadi area, the All Ceylon Tamil Congress party candidate Gajendrakumar Ponnambalam was arrested by the police on Thursday evening on charges of violating election rules.
-
-The police have released the police on bail after registering voting sources after he was investigated by detaining the arrested Gajendrakumar Ponnambalam.
-
-Meanwhile, Varadarajan Parthiban, the candidate of the Tamil People's Alliance, who was involved in the election campaign in the Point Pedro area, was arrested by the Point Pedro Police.
-
-◼️
-
-[Data](articles/7cabc8cc.json)
-
-[Extended Data](ext_articles/7cabc8cc.ext.json)
-
----
-
-### "Kill me for this"
-
-*2024-10-24 18:28:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதற்கு-என்னைக்-கொல்வதே-மேல்/175-346000) · `ta`
-
-Sri Lanka politician Rohitha Abeygunawardena threatens self-sacrifice over reputation attacks.
-
-🟩
-
-Former Member of the Sri Lanka PA (SLPP), Rohitha Abeygunawardena has said that it is more to kill him than to tarnish his reputation.
-
-Speaking at a political meeting, the former MP said it was not easy to bring down himself through muddy campaigns.
-
-"I would like to tell me to hate those who hate my life, and destroy my life just as many leaders were shot or killed, without spoiling my reputation."
-
-Rohitha Abeygunawardena has said that he is ready to sacrifice his life for the nation and politics.
-
-“It's better than muddy. It is better to kill me rather than destroy my character. ”
-
-◼️
-
-[Data](articles/2256b555.json)
-
-[Extended Data](ext_articles/2256b555.ext.json)
-
----
-
-### A Beach Kraft from Australia for Air Force
-
-*2024-10-24 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202520) · `si`
-
-Sri Lanka Air Force receives beach craft from Australia. Aircraft to join No. 03 Squadron. Gift from Australian government to improve maritime security. Aims to combat international crime and human smuggling in the region.
-
-🟩
-
-The Sri Lanka Air Force has given a beach craft jagged by the Australian Royal Air Force.
-
-It is scheduled to begin in the future of the Air Force No. 03 to begin duties.
-
-The aircraft is a grant of Australian government to enhance maritime conditions in Sri Lanka.
-
-It is said that the discovery and rescue performed in the region will be allowed to eliminate international crimes and human smuggles.
-
-◼️
-
-[Data](articles/53338d73.json)
-
-[Extended Data](ext_articles/53338d73.ext.json)
 
 ---

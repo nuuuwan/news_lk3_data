@@ -1,36 +1,152 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 16:23:50**
+As of **2024-10-25 16:39:27**
 
 ## Newspaper Stats
 
-*Scraped **51,359** Articles*
+*Scraped **51,367** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 411
-colombotelegraphcom | 514
+colombotelegraphcom | 515
 bbccomsinhala | 521
 islandlk | 3,049
 economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,782
-adaderanalk | 6,079
-tamilmirrorlk | 7,084
-virakesarilk | 8,262
+adaderanalk | 6,081
+tamilmirrorlk | 7,087
+virakesarilk | 8,264
 adaderanasinhalalk | 8,918
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,359 (100.0%) of 51,359 articles have been extended.
+51,366 (100.0%) of 51,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### President assures strengthened security protocols across Sri Lanka’s key tourist areas
+
+*2024-10-25 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102922/president-assures-strengthened-security-protocols-across-sri-lankas-key-tourist-areas) · `en`
+
+President Anura Kumara Dissanayake met with the South African High Commissioner, Sandile Edwin Schalk, this morning (25) at the Presidential Secretariat in Colombo.
+
+During the meeting, the Ambassador presented a greeting message from the President of South Africa and reaffirmed South Africa’s commitment to strengthening bilateral relations with Sri Lanka, the President’s Media Division (PMD) said.
+
+He also expressed continued support for applying South Africa’s peace and national reconciliation model in Sri Lanka. The discussion also covered expanding international trade through the Ceylon Chamber of Commerce and enhancing the travel and tourism sector to benefit both nations.
+
+A detailed discussion was held on exchanging South Africa’s technology to address human-elephant conflict management.
+
+South Africa’s interest in collaborating on Sri Lanka’s defence, agriculture, and technology sectors was also highlighted, with a commitment to working closely in these areas.
+
+...
+
+[Data](articles/b746b1fb.json)
+
+[Extended Data](ext_articles/b746b1fb.ext.json)
+
+---
+
+### Governor of the Eastern Province - Trincomalee Local Government Secretaries Meeting
+
+*2024-10-25 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197100) · `ta`
+
+Meeting summary: Governor orders secretaries to boost local body income, improve waste collection, and manage vehicles. Issues discussed with solutions proposed.
+
+🟩
+
+The meeting between the Governor of the Eastern Province Professor Jayantalal Ratnasekara and the Secretaries of the Trincomalee District Local Government Councils took place today (25) at the Governor's Office in Trincomalee.
+
+Eastern Province Chief Secretary RMPS. Ratnayake, Secretary of the Eastern Province. LP Madanayake, Eastern Provincial Commissioner of Local Government M Manivannan and Local Government Commissioner of Trincomalee were also present.
+
+The Governor ordered the secretaries of local councils to increase the income of local bodies, to collect and collect waste, and to manage the waste, and to report on local government -owned vehicles.
+
+The issues facing each local council were discussed with the secretaries and the solutions to be taken.
+
+◼️
+
+[Data](articles/6e0a3f90.json)
+
+[Extended Data](ext_articles/6e0a3f90.ext.json)
+
+---
+
+### 22 students hospitalized after suddenly falling ill at school
+
+*2024-10-25 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102921/22-students-hospitalized-after-suddenly-falling-ill-at-school) · `en`
+
+A group of female students at a school in Balangoda has been admitted to Base Hospital Balangoda due to experiencing sudden health complications.
+
+It is reported that several girls from the school had cleaned the women’s toilet with a certain chemical solution.
+
+Subsequently, those students, as well as several other children who used the toilet, had fallen ill and required hospitalization.
+
+Accordingly, it is reported that a total of 22 students from C.C. Tamil Maha Vidyalaya in Balangoda were hospitalized following the incident.
+
+◼️
+
+[Data](articles/85095bee.json)
+
+[Extended Data](ext_articles/85095bee.ext.json)
+
+---
+
+### Message for train staff
+
+*2024-10-25 16:00:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-ஊழியர்களுக்கான-செய்தி/175-346050) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Minister Vijitha Herath directs railways to offer free travel passes to employees between home and work. Aims to boost employee morale and efficiency. May impact national economy.
+
+🟩
+
+Minister of Transport, Highways, Ports and Civil Aviation Services Vijitha Herath has issued a directive to the relevant authorities to provide free rail permits to travel between their homes and workplaces to the railway department employees.
+
+The Minister said that this will increase the glory of the train employees and the efficiency is expected to be taken to the higher level.
+
+The Minister said that this would have some impact on the country's economy. Those
+
+◼️
+
+[Data](articles/4da043fd.json)
+
+[Extended Data](ext_articles/4da043fd.ext.json)
+
+---
+
+### Bore. Three -wheeler accident in Ottamavadi;Student hurt!
+
+*2024-10-25 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197096) · `ta`
+
+Three-wheeler accident injures student near Batticaloa town hall. Student leaving school hit by vehicle traveling on main road. Admitted to hospital, police investigating incident.
+
+🟩
+
+A student was injured in a three -wheeler accident in front of the Ottamavadi Pradeshiya Sabha in Batticaloa.
+
+The accident occurred while the student left the school.
+
+The accident occurred when the three -wheeler traveled by the Ottamavadi main road was lost.
+
+The school student has been admitted to the Valaichenai Resource Hospital and the police are conducting further investigations.
+
+◼️
+
+[Data](articles/5724edb0.json)
+
+[Extended Data](ext_articles/5724edb0.ext.json)
+
+---
 
 ### Tourist protection confirmed
 
@@ -59,6 +175,36 @@ Sri Lanka President Anura Kumara Dissanayake met South African Minister Sandile 
 [Data](articles/4e895dbc.json)
 
 [Extended Data](ext_articles/4e895dbc.ext.json)
+
+---
+
+### Action to hand over Sambandan's residence
+
+*2024-10-25 15:52:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-வாசஸ்தலத்தை-ஒப்படைக்க-நடவடிக்கை/175-346049) · `ta`
+
+Sambandan's official residence handover: Steps taken to transfer property to government on 17th. Daughter confirms handover date. Residence granted after 2015 opposition leadership. Government pays utilities and maintenance costs.
+
+🟩
+
+Steps have been taken to hand over the official residence of the Opposition Leader government to the government on the 17th of this month.
+
+Sampanthan's daughter Justice, State Administration, Home Affairs, Provincial Council, Local Government and Labor Ministry was stated.
+
+Her daughter has stated that we will hand over the official residence of the Opposition Leader's government to the government on the 17th of this month.
+
+Even after the loss of the post of Leader of the Opposition in 2018, Sambandan had the opportunity to continue to live in this official residence.
+
+It was obtained by the Cabinet's approval for the Cabinet paper submitted by the then Land Minister Gayantha Karunathilaka during the government of goodwill.
+
+Sampanthan passed away on July 1.Three months have passed since he passed away, but the official residence given to him is still with his family members.
+
+After taking office as the Leader of the Opposition in 2015, Sampanthan got this official residence.
+
+...
+
+[Data](articles/e6a84664.json)
+
+[Extended Data](ext_articles/e6a84664.ext.json)
 
 ---
 
@@ -115,6 +261,32 @@ In 2016, he was sentenced to four years in prison by Gnanasara Thera.
 [Data](articles/43b4cb17.json)
 
 [Extended Data](ext_articles/43b4cb17.ext.json)
+
+---
+
+### President - South African High Commission
+
+*2024-10-25 15:37:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தென்னாபிரிக்க-உயர்ஸ்தானிகர்-சந்திப்பு/175-346048) · `ta`
+
+Meeting between President Anura Kumara Dissanayake and South African High Commissioner Sandile Edwin Schalk discussed Sri Lanka's security, tourist safety, elephant-human conflict, and international trade cooperation.
+
+🟩
+
+A meeting between President Anura Kumara Dissanayake and South African High Commissioner Sandile Edwin Schalk was held this morning at the Presidential Office.
+
+South African President Cyril Ramaphosa handed over the message to the President for the success of President Anura Kumara Dissanayake and held a discussion with the president.
+
+President Anura Kumara Dissanayake said that the current security of Sri Lanka has been paid special attention and the security of tourists and citizens who have come to Sri Lanka have already been confirmed.
+
+In addition, Sri Lanka's elephant -human conflict was also concerned with the cooperation of South Africa to find a solution to the human conflict.
+
+The High Commissioner also assured that the peace and national restructuring process in South Asia would be cooperated in Sri Lanka in Sri Lanka.
+
+...
+
+[Data](articles/c89d1555.json)
+
+[Extended Data](ext_articles/c89d1555.ext.json)
 
 ---
 
@@ -1189,6 +1361,20 @@ Participating in a web talk on “BRICS Summit on Kazan: India’s Agenda”, or
 [Data](articles/3ac489a7.json)
 
 [Extended Data](ext_articles/3ac489a7.ext.json)
+
+---
+
+### Rooting Out Corruption Starts At Home: A Call To Sri Lankans For Virtuous Governance & Societal Change
+
+*2024-10-25 10:44:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rooting-out-corruption-starts-at-home-a-call-to-sri-lankans-for-virtuous-governance-societal-change/) · `en`
+
+I still stand by my statement published on Janatha Mathaya in 2018. I see a dire need to educate the public on their role in eradicating corruption in politics and transforming the political culture in Sri Lanka just as much as the need to stand against corrupt politicians. The state must implement systems, processes and institutions to support this cause however, the public’s input in this equation is pivotal.
+
+This becomes problematic because we are expecting ‘corrupt politicians’ to also implement systems and processes to prevent corruption.
+
+...
+
+[Data](articles/8132942e.json)
 
 ---
 
@@ -2339,191 +2525,5 @@ Assistant Commissioner of Elections. K. Amalraj and all the Divisional Secretari
 [Data](articles/d22b1bbf.json)
 
 [Extended Data](ext_articles/d22b1bbf.ext.json)
-
----
-
-### Phone call at night that the Batticaloa court will bomb blastStrong security around the building night
-
-*2024-10-25 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197041) · `ta`
-
-Batticaloa court bomb threat: Police increase security after phone call. Strong measures taken around building. Special Task Force deployed. Main suspects in Zion Kasim case present in court.
-
-🟩
-
-Special security measures have been taken in the area following the telephone call on Thursday night (24).
-
-He immediately recognized the police after a telephone call to the court registrar that he was going to bomb the court building.
-
-Subsequently, police officers visited the court building, and strong security measures were taken to surround the building, and the special police patrols in the area are being monitored and the Special Task Force will be deployed from Friday (25).
-
-Meanwhile, the case of many and main masterminds suspected of being Zion Kasim's JSJS in Batticaloa is being held in the courtroom.
-
-◼️
-
-[Data](articles/45073368.json)
-
-[Extended Data](ext_articles/45073368.ext.json)
-
----
-
-### South Asian Women's Football
-
-*2024-10-25 02:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197040) · `ta`
-
-Sri Lanka's women's football team impresses in South Asian Championships, defeating Nepal 0-6 despite limited training. Nepal's professional players struggle against Sri Lanka's determination and teamwork.
-
-🟩
-
-Sri Lanka's 0 - 6 scored in the South Asian Football Championships B team in the South Asian Football B Group on Thursday (23) against Nepal, who had similar appearance of men.
-
-It is commendable that the Sri Lankan women's team, who had been exercising only 40 days before the inauguration of the South Asian Women's Championships, restricted Nepal's team to the club -level professional football in Asia and France.
-
-Within 13 minutes of the match, Nepal scored 3 goals and the Sri Lankan players played 4 - 0 during the break.
-
-In the 8th minute of the match, Renuka Nagercoat lowered the ball from the right to Sapita Rana Mahar Kollaki Nepal 1 - 0.
-
-Four minutes later PK. Sabitra Bandari, who got the ball from Bimala, moved the ball a little bit and kicked the right leg and killed Nepal's 2nd murder.
-
-27 -year -old Bandari is playing a professional player in the Qiingambu football club in France.
-
-Nepal's goals rose to 3 in the next minute after the second goal scored.
-
-...
-
-[Data](articles/70c801bd.json)
-
-[Extended Data](ext_articles/70c801bd.ext.json)
-
----
-
-### Institute of British Examinations celebrates ISO 9001:2015 certification, announces future expansion plans
-
-*2024-10-25 02:14:24* · [`dailyftlk`](https://www.ft.lk/opinion/Institute-of-British-Examinations-celebrates-ISO-9001-2015-certification-announces-future-expansion-plans/14-768415) · `en`
-
-IBE Managing Director Gihan Fernando, IBE Academic Directress Ayesha Kumarihamy with their ISO 9001:2015 Standards Certification, which is yet another significant milestone achieved in recognition of the institute’s continuous commitment to quality education
-
-IBE team with esteemed invitees at the media conference on ‘Transnational prospects through learning Cambridge English with ISO 9001: 2015 standards integration’
-
-The Institute of British Examinations (IBE) recently announced a significant milestone in its ongoing pursuit of educational excellence with the attainment of ISO 9001:2015 certification.
-
-This platform is unveiling IBE’s future plans, including the introduction of unique facilities aimed at enhancing the student’s learning experience. These developments mark a new chapter in IBE’s mission to deliver world-class Cambridge English qualifications and further strengthen its position as a leader in Cambridge English education in Sri Lanka.
-
-...
-
-[Data](articles/3d0e223d.json)
-
-[Extended Data](ext_articles/3d0e223d.ext.json)
-
----
-
-### Is Sri Lanka's history of the history of the Speaker know these things?
-
-*2024-10-25 01:44:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjr4dpg45l1o) · `si`
-
-Here's a summary of Sri Lanka's Speaker history in approximately 200 characters:
-
-
-
-Sri Lanka's Speaker history spans over 90 years, starting with Francis Molameth in 1931. Notable Speakers include Albert F. Peiris, Stanley Tillekeratne, Dr. Ananda Tissa de Alwis, and Karu Jayasuriya. The current Speaker is Mahinda Yapa Abeywardena, serving since 2020.
-
-🟩
-
-Is Sri Lanka's history of the history of the Speaker know these things?
-
-Speaker of Sri Lanka is a significant respect for Sri Lanka's significant respect.
-
-The Sri Lankan Parliamentary history began in 1931, 21 MPs have taken steps to be the Speaker.
-
-Sri Lanka's first Speaker's first Speaker of Sri Lanka - Francis Molameth
-
-The first Speaker of Sri Lanka is the first Speaker of Sri Lanka is Francis Molame.
-
-He was appointed Speaker of the first state council from 1931 to 1931, on July 7, 1931.
-
-Francis was the first person to be appointed as the Legislative Council of Sri Lanka. He was educated at St. Thomas' College, Mount Lavinia and was a talented at school, as well as cricket.
-
-The politics of Sri Lanka's politics was a member of the Ceylon National Association.
-
-State Council was elected to the State Council from Digama seat in 1931. He was appointed Speaketial, at that time.
-
-...
-
-[Data](articles/17d31457.json)
-
-[Extended Data](ext_articles/17d31457.ext.json)
-
----
-
-### Imthiaz criticises NPP and President’s shift to traditional politics
-
-*2024-10-25 01:37:55* · [`dailyftlk`](https://www.ft.lk/news/Imthiaz-criticises-NPP-and-President-s-shift-to-traditional-politics/56-768395) · `en`
-
-Says President Anura Dissanayake’s decision to dissolve Parliament just three days after winning is a continuation of old political tactics
-
-Highlights Dissanayake’s shift from warning about dangers of power concentration to claiming there’s no need for an opposition
-
-Calls for national unity and a coalition of forces to overcome current political and economic crises
-
-Samagi Jana Balawegaya (SJB) national list candidate Imthiaz Bakeer Markar has sharply critiqued the National People’s Power (NPP) and its leader, President Anura Dissanayake at a press conference yesterday where he expressed concerns about the rapid shift in political behaviour and the dangers of continuing traditional political practices.
-
-...
-
-[Data](articles/c045d5bd.json)
-
-[Extended Data](ext_articles/c045d5bd.ext.json)
-
----
-
-### Marikkar calls for strong opposition to safeguard democracy
-
-*2024-10-25 01:37:06* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-calls-for-strong-opposition-to-safeguard-democracy/56-768394) · `en`
-
-Says Govt. is downplaying need for an opposition and stresses it undermines democracy
-
-Claims “communist parties” are aiming to establish a one-party State and it is a grave threat
-
-Samagi Jana Balawegaya (SJB) Colombo district candidate S.M. Marikkar has strongly criticised the current Government’s approach to governance, calling for a robust opposition to safeguard the country’s democracy.
-
-Adressing a press conference at the Samagi Jana Sandhana head office in Colombo yesterday Marikkar highlighted that the present Government has downplayed the need for an opposition. He said such a stance undermines the very foundation of democracy.  “The majority of the people in the country are not represented by the current Government. It is essential to protect democracy, which is a primary responsibility of any Government. Equally, it is the responsibility of the people to ensure that this democracy is preserved,” he said.
-
-...
-
-[Data](articles/da956c45.json)
-
-[Extended Data](ext_articles/da956c45.ext.json)
-
----
-
-### “Baseless Allegations”: Ranil responds to Cardinal’s critique on Easter Sunday reports
-
-*2024-10-25 01:35:53* · [`dailyftlk`](https://www.ft.lk/news/Baseless-Allegations-Ranil-responds-to-Cardinal-s-critique-on-Easter-Sunday-reports/56-768393) · `en`
-
-Former President Ranil Wickremesinghe has called on all political parties and others to refrain from using the reports on the 2019 Easter Sunday attacks for political gain.
-
-In a press release issued yesterday, Wickremesinghe responded to recent criticism from Colombo’s Archbishop, Malcolm Cardinal Ranjith, who had questioned the credibility of the reports compiled by the Judges A.N.J. De Alwis and Syed Ishrat Imam committees appointed by Wickremesinghe during his tenure
-
-...
-
-[Data](articles/776d57a2.json)
-
-[Extended Data](ext_articles/776d57a2.ext.json)
-
----
-
-### Overseas Realty records Rs. 4.5 b Profit Before Tax for nine months
-
-*2024-10-25 01:34:22* · [`dailyftlk`](https://www.ft.lk/business/Overseas-Realty-records-Rs-4-5-b-Profit-Before-Tax-for-nine-months/34-768392) · `en`
-
-Overseas Realty (Ceylon) PLC said yesterday it has recorded a Group Revenue of Rs. 5,499 million and a Group Profit Before Tax of Rs. 4,579 million for nine months ending on 30 September.
-
-The Company said the appreciation of the LKR resulted in a net exchange gain on foreign currency loans of Rs. 1,463 million compared to Rs. 2,422 million recorded in the corresponding period of last year. Net fair value gain recorded from Investment Properties was Rs. 1,160 million compared to a fair value loss of Rs. 33 million in the same period of last year.
-
-The company revenue of Rs. 1,990 million at the World Trade Center, Colombo, was 16% higher than the corresponding period of last year, due mainly to higher occupancy and rental rates.
-
-...
-
-[Data](articles/0f6f90db.json)
-
-[Extended Data](ext_articles/0f6f90db.ext.json)
 
 ---

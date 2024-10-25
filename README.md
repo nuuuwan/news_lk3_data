@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 12:00:29**
+As of **2024-10-25 12:14:25**
 
 ## Newspaper Stats
 
-*Scraped **51,320** Articles*
+*Scraped **51,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailyftlk | 3,508
 dailymirrorlk | 4,733
 adalk | 4,779
 adaderanalk | 6,076
-tamilmirrorlk | 7,069
+tamilmirrorlk | 7,076
 virakesarilk | 8,254
-adaderanasinhalalk | 8,909
+adaderanasinhalalk | 8,910
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,318 (100.0%) of 51,320 articles have been extended.
+51,328 (100.0%) of 51,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### Eligious fever in Jaffna: Death
+
+*2024-10-25 11:52:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-எலிக்காய்ச்சல்-ஒருவர்-மரணம்/71-346037) · `ta`
+
+Rat fever outbreak in Jaffna claims life. 34-year-old Sivaskar dies at Jaffna Teaching Hospital after being transferred from another facility. Death occurs amid warnings about rising cases in the region.
+
+🟩
+
+The deceased is Siriskandarajah Sivaskar (age 34) from Vaddukoddai Sankara.
+
+Sanganai went to the hospital for treatment on the 22nd of last month. From there Jaffna. He was transferred to the Teaching Hospital for treatment, and he died without treatment.
+
+It is reported that rat fever is responsible for the death.One person died on Thursday (24) after a recent warning on a rat fever in Jaffna.
+
+◼️
+
+[Data](articles/fe657ded.json)
+
+[Extended Data](ext_articles/fe657ded.ext.json)
+
+---
+
+### The three suspects who were tolerated into Arugam's incident
+
+*2024-10-25 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202543) · `si`
+
+Three suspects linked to Arugam incident detained. Police investigating alleged plot against Israeli tourists. Intelligence confirms planned attack on Israeli visitors.
+
+🟩
+
+Police have detained the suspects who were arrested in connection with the planning of Israel's Israeli nationals targeting the Israeli nationals.
+
+In the meantime, intelligence information has been made to ensure that the Israeli tourist arrangements were planned to attack Israeli tourists.
+
+◼️
+
+[Data](articles/91e3a269.json)
+
+[Extended Data](ext_articles/91e3a269.ext.json)
+
+---
 
 ### Police obtain detention orders on suspects arrested over threats to Israelis
 
@@ -38,7 +80,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Police have obtained detention orders to question three suspects arrested in connection with alleged security threats to Israeli nationals in Sri Lanka, according to Police Spokesman DIG Nihal Thalduwa.
 
-◼️
+The three suspects had been arrested by the Terrorism Investigation Division (TID), it was reported yesterday.
+
+Public Security Minister Vijitha Herath, speaking at a press conference yesterday, confirmed the arrests were based on intelligence reports indicating potential threats to Israelis amidst heightened Middle Eastern tensions.
+
+“Intelligence agencies received information about it. Upon receiving that information, we immediately took action. Today marks one month since this government took office. During the month, the security council met on several occasions,” he said.
+
+He further stated that the public, local as well as foreigners, need not entertain any fears on probable attacks on Israelis or any others, as all possible security measures have been taken to ensure their safety.
+
+...
 
 [Data](articles/acbf8d63.json)
 
@@ -102,6 +152,34 @@ The Tourism Agency said that the Israeli media exaggerated the warning of the Au
 
 ---
 
+### Run -made location: trio arrested
+
+*2024-10-25 11:22:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-தயாரித்த-இடம்-சுற்றிவளைப்பு-மூவர்-கைது/175-346035) · `ta`
+
+Matara police arrest three suspects in illegal weapons operation. A 63-year-old man and two others (47 and 54) detained. Seized items include locally made gun, bullets, welding equipment. Investigation ongoing.
+
+🟩
+
+Three suspects have been arrested following a roundup of illegal weapons plant in Matara on Wednesday.
+
+Police said a 63 -year -old man was arrested during the roundabout and two suspects were arrested with two locally manufactured guns at Akangama.
+
+During the test, officials seized a locally made gun, five bullets of the 9mm rifle, a welding machine and various equipment.
+
+Investigations carried out by the suspect have revealed that he had sold two guns, after which the Matara police have found the buyers and arrested them with weapons.
+
+The arrested suspects were from Ahangama, aged 47 and 54.
+
+The suspects have been handed over to the Matara police with the seized items and they are conducting further investigations.
+
+◼️
+
+[Data](articles/c5c4400d.json)
+
+[Extended Data](ext_articles/c5c4400d.ext.json)
+
+---
+
 ### More than 7 lakh households registered in Colombo by 2024!
 
 *2024-10-25 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197069) · `ta`
@@ -121,6 +199,50 @@ According to the Department of Public Administration Statistics, 751,585 househo
 [Data](articles/4e90d231.json)
 
 [Extended Data](ext_articles/4e90d231.ext.json)
+
+---
+
+### Scholarship Examination issue: Resolution in 30?
+
+*2024-10-25 11:17:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-விவகாரம்-30இல்-தீர்மானம்/175-346034) · `ta`
+
+Human Rights Commission meeting on 30th to decide on Grade 5 scholarship exam issues. Criminal Investigation Department's final report submitted.
+
+🟩
+
+The Human Rights Commission will meet on the 30th of this month to make a decision on some questions that are alleged to have been held in the Grade 5 scholarship examination.
+
+The final report of the investigation by the Criminal Investigation Department has now been handed over to his Commission, its Commissioner of Attorney Nimal Punjihewa said.
+
+◼️
+
+[Data](articles/26a6f3d5.json)
+
+[Extended Data](ext_articles/26a6f3d5.ext.json)
+
+---
+
+### Petition demanding Ranjan's nomination
+
+*2024-10-25 11:16:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஞ்சனின்-வேட்புமனுவை-நிராகரிக்கக்-கோரி-மனு/175-346033) · `ta`
+
+Petition against Ranjan Ramanayake's nomination in Gampaha district. Former MP accused of voting rights issue. Submitted by Mahinda Senanayake. Elections Commission named as defendant.
+
+🟩
+
+A petition has been filed in the Supreme Court to reject the nomination of former parliamentarian Ranjan Ramanayake, who is contesting in the Gampaha district in the upcoming general election.
+
+It is also reported that Ranjan Ramanayake has been asked to order that he has no right to vote and vote.
+
+Gampaha District Independent Committee candidate KM. The petition has been submitted by Mahinda Senanayake.
+
+The Elections Commission and its members, including the Gampaha District Election Officer, Ranjan Ramanayake, have been referred to as defendants.
+
+◼️
+
+[Data](articles/07077ff1.json)
+
+[Extended Data](ext_articles/07077ff1.ext.json)
 
 ---
 
@@ -148,6 +270,28 @@ Police have arrested the 29-year-old son.
 
 ---
 
+### Prabhakaran kidnapped my brother
+
+*2024-10-25 11:11:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனே-எனது-தம்பியை-கடத்தினார்/175-346032) · `ta`
+
+Douglas Devananda claims LTTE leader Prabhakaran kidnapped his brother due to inability to capture him.
+
+🟩
+
+“Liberation Tigers of Tamil Eelam (LTTE) leader Prabhakaran abducted my brother,” said Douglas Devananda, Secretary -General of the EPDP.
+
+Also, Douglas said that Prabhakaran had abducted his brother because he was unable to catch him.
+
+He said this while attending a media briefing in Colombo.
+
+◼️
+
+[Data](articles/fd947fb6.json)
+
+[Extended Data](ext_articles/fd947fb6.ext.json)
+
+---
+
 ### Two women were injured with sharp weapons in Panadura
 
 *2024-10-25 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197055) · `ta`
@@ -169,6 +313,26 @@ A hospital spokesman said that the two women who were injured were severely inju
 [Data](articles/30f9e18b.json)
 
 [Extended Data](ext_articles/30f9e18b.ext.json)
+
+---
+
+### I will meet soon
+
+*2024-10-25 11:06:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவை-விரைவில்-சந்திப்பேன்/175-346031) · `ta`
+
+Douglas Devananda meets President Anura Kumara Dissanayake to discuss Sri Lankan-India fishermen issue.
+
+🟩
+
+"I will meet President Anura Kumara Dissanayake soon to discuss the issue of Sri Lankan-India fishermen," said Douglas Devananda, Secretary-General of the EPDP.
+
+He said this while attending a media briefing in Colombo.
+
+◼️
+
+[Data](articles/a87702ff.json)
+
+[Extended Data](ext_articles/a87702ff.ext.json)
 
 ---
 
@@ -646,6 +810,8 @@ A bond maturing on 15.05.2030 was quoted at 12.15/25 percent up from 12.20/30 pe
 
 [Data](articles/cea9f2a8.json)
 
+[Extended Data](ext_articles/cea9f2a8.ext.json)
+
 ---
 
 ### A sharp weapon attack on two women
@@ -825,6 +991,34 @@ Meanwhile, the case of many and main masterminds suspected of being ISIS of Zayo
 [Data](articles/54c70fb3.json)
 
 [Extended Data](ext_articles/54c70fb3.ext.json)
+
+---
+
+### Threatening to bomb the Batticaloa Court
+
+*2024-10-25 09:03:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பு-நீதிமன்றத்துக்கு-வெடிகுண்டு-வைக்கப்போவதாக-அச்சுறுத்தல்/73-346026) · `ta`
+
+Batticaloa court threatened with bombing. Special security measures implemented. Police investigation ongoing. Case documents related to ISIS suspects stored in court building.
+
+🟩
+
+The Batticaloa court building was threatened last night (24).
+
+A special security measures have been carried out in the area due to this intimidation.
+
+A phone call to the court registrar came last night that he was going to bomb the court building.
+
+Following this, police officers visited the court building and were taken to the area around the building.
+
+In addition, special police patrols in the area are also under surveillance.
+
+Meanwhile, the case of many and main masterminds suspected of being ISIS of Zayon Devalaya suicide bombing in Batticaloa is being filed in the court and the documents of the case have been placed in the repository of the court building.
+
+◼️
+
+[Data](articles/c4a333b0.json)
+
+[Extended Data](ext_articles/c4a333b0.ext.json)
 
 ---
 
@@ -1209,6 +1403,8 @@ A Sri Lankan delegation, led by the Central Bank Governor, the Finance Ministry 
 ...
 
 [Data](articles/b245951e.json)
+
+[Extended Data](ext_articles/b245951e.ext.json)
 
 ---
 
@@ -2123,195 +2319,5 @@ Code on the thumb of voters who do not have a finger in the left hand or any oth
 [Data](articles/2e73aa21.json)
 
 [Extended Data](ext_articles/2e73aa21.ext.json)
-
----
-
-### What foreigners were told about Sri Lanka's security
-
-*2024-10-24 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202525) · `si`
-
-Sri Lanka increased security after intelligence warned of potential attacks on Israeli tourists. Foreign visitors felt safe, but extra measures implemented in tourist areas like Arugambay and Weligama. Government plans to lift travel warnings soon. Three suspects arrested and questioned.
-
-🟩
-
-After consolidation of intelligence information that the Israeli tourists in the country was planning to attack the tourist arrangement, providing a strong security for the land.
-
-Foreigners who stayed in the country have been expressed these views.
-
-"I came from California in America. I didn't feel any dangerous. I didn't feel any uncomfortable. "
-
-The protection was also stirred in the coast of Arugambay, as well as in the tourist login area.
-
-Meanwhile, security regimes have been used in the tourism zones including foreigners, Weligama, Unapra.
-
-The Minister of Defense Vijitha Herath revealed that the security forces had received the intelligence of the matter before the presidential election.
-
-In foreign intelligence reports, the security forces of the Sri Lankan security forces had a plan to attack Israeli nationals targeting Israeli nationals at Arugambay area.
-
-The attack could be launched between October 19 and 23 and there are two Sri Lankans are ready.
-
-...
-
-[Data](articles/fc74d3f2.json)
-
-[Extended Data](ext_articles/fc74d3f2.ext.json)
-
----
-
-### Scholarship Examination - High Court announcement
-
-*2024-10-24 20:57:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்-பரிசில்-பரீட்சை-விவகாரம்-உயர்-நீதிமன்றம்-விடுத்த-அறிவிப்பு/175-346003) · `ta`
-
-Supreme Court announces hearing on Nov 18 regarding leaked questions in Grade 05 Scholarship Exam. Petitioners seek exam invalidation and re-conduct. Objections due Nov 5, final submissions by Nov 12.
-
-🟩
-
-The Supreme Court today (24) announced that the fundamental rights petition filed by the Grade 05 Scholarship Examination and Cuttups will be taken up on November 18.
-
-Petitioners have asked the Supreme Court through a fundamental rights violation petition to order that the query that was leaked before the examination should be ordered to be invalid and re -conduct the exam.
-
-The court has ordered the submission of objections before November 5 and submitted by November 12 if there are further objections.
-
-Accordingly, the next hearing of the petition has been postponed to November 18 to confirm the facts of the petition.. Remble
-
-◼️
-
-[Data](articles/4b3bae98.json)
-
-[Extended Data](ext_articles/4b3bae98.ext.json)
-
----
-
-### Socialism & Vietnam
-
-*2024-10-24 20:41:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/socialism-vietnam/) · `en`
-
-The recent presidential election revealed substantial public support for a pro-socialist/communist political party. Sri Lankan governments over seven decades have been, in general, centrally planning the economy and society. This central planning overrides the choices made by individuals. The author Dr. Rainer Zitelmann, in his books The Power of Capitalism and In Defence of Capitalism, provides many examples of the damaging effects of central planning.
-
-Instead of relying on theory, Dr. Zitelmann uses history to show why central planning fails. Not only does he compare society before and after central planning (e.g. China), he also compares societies that are of the same race, culture, religion, and language, yet divided by governance method—for example, East and West Germany, North and South Korea, and Venezuela and Chile. In every case, centrally planned societies struggled, while those with less government interference grew wealthier and more peaceful.
-
-...
-
-[Data](articles/bc1647c7.json)
-
-[Extended Data](ext_articles/bc1647c7.ext.json)
-
----
-
-### Three -wheeler and van collided face -to -faceOne killed
-
-*2024-10-24 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197037) · `ta`
-
-A three-wheeler and van collided head-on, killing one driver and injuring three schoolchildren. The accident happened near Kalaya Mansandi on the Anuradhapura-Puttalam road.
-
-🟩
-
-One person was killed when a three -wheeler collided head -on on Thursday 24th near Kalaya Mansandi on the Anuradhapura - Puttalam road.
-
-Nochiyagama, father of two children who drove the three -wheeler, D.Sumith Ratnayake (age 47) from Adambana.
-
-The accident occurred while the deceased was taking his daughter, son and daughter's friend to school. Three school children were injured, police said.
-
-The accident occurred when the motorcycle crashed into a van, while the accident occurred when the accident was attempted to avoid the three -wheeler collision, police said.
-
-◼️
-
-[Data](articles/a77aaf41.json)
-
-[Extended Data](ext_articles/a77aaf41.ext.json)
-
----
-
-### There is no other option to except the ovemon power - Dilith
-
-*2024-10-24 20:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202524) · `si`
-
-Dilith Jayaweera emphasizes universal power as only option. People must choose opposition without alternatives. He criticizes opposition leader Sajith Premadasa's growth from 3% to 43%. Former Minister HB. Semasinghe joins opposition in Anuradhapura district.
-
-🟩
-
-The leaders of the leading entrepreneral Dilith Jayaweera says that the people have no choice but to the people in selecting the opposition.
-
-He was addressing the Biyagama electoral Federational Meeting in the Universal Point.
-
-"The universal power is a historical creation. I think the first politicity that is trying to try after 1956 is the universal power.
-
-We mean to give public support to do the opposition's boasting role. The time to retaliate the role of our friend Sajith Premadasa of the Opposition Leader of the Legal Forces. But during the leadership of the opposition, 3% of the three-insufficient party has grown to 43% in the time of his opposition in Parliament. So I don't think the ovemonge is excluding the overajana power in selecting the opposition party that the people have an option. "
-
-Meanwhile, former Minister HB. Semasinghe and a local politicians in the Anuradhapura district joined the ovenoms today (24).
-
-...
-
-[Data](articles/95152728.json)
-
-[Extended Data](ext_articles/95152728.ext.json)
-
----
-
-### Heavy traffic congestion on Katunayake Expressway
-
-*2024-10-24 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202523) · `si`
-
-Katunayake Expressway: Heavy traffic congestion from Peliyagoda to Katunayake due to road maintenance. Reports indicate significant delays and jams.
-
-🟩
-
-Heavy traffic jam has occurred from Peliyagoda to Katunayake, reports say.
-
-It is reported that the vehicle traffic has been caused by a maintenance work on the road.
-
-◼️
-
-[Data](articles/3b9888ef.json)
-
-[Extended Data](ext_articles/3b9888ef.ext.json)
-
----
-
-### Doubted whether the Point Pedro Police have acted in the instigation of some other parties to confuse our party's propaganda - V. Manivannan
-
-*2024-10-24 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197036) · `ta`
-
-TNA candidate V. Manivannan accuses Point Pedro Police of aiding rival parties to disrupt their campaign. He claims the arrests of his supporters and himself were politically motivated, violating their rights. The incident is seen as an attempt to confuse TNA's propaganda efforts during the election season.
-
-🟩
-
-V. Manivannan, the primary candidate and lawyer of the Tamil People's Alliance (TNA), has expressed doubts as to whether the Point Pedro Police have acted in the instigation of some other parties to confuse our party's propaganda.
-
-He was speaking to the media about the arrest of two persons, including Varadarajan Parthiban, the candidate of the Tamil People's Alliance, who was campaigning in the Point Pedro area.
-
-Further, Parthiban and supporters were arrested by the Point Pedro police while the team led by the Tamil People's Alliance candidate Varadarajan Parthiban was engaged in election campaign.
-
-The arrest of our parties is a disturbing act of our campaign. We are skeptical whether the police did this in the instigation of some other parties to confuse our party's propaganda.
-
-We see this as a messy manner in which our propaganda is planned. This is an activity that violates our fundamental rights. We strongly condemn this act.
-
-◼️
-
-[Data](articles/8b3a4f48.json)
-
-[Extended Data](ext_articles/8b3a4f48.ext.json)
-
----
-
-### Jaffna candidate dies sudden
-
-*2024-10-24 19:49:35* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-අපේක්ෂකයෙක්-හදිසියේ-මරුට/11-412679) · `si`
-
-Candidate dies suddenly in Jaffna. Identified as serious illness during election campaign. Admitted to hospital 4 days before death.
-
-🟩
-
-The Pointuru Police said that the incident had been identified as a serious illness from the Democratic National Elections in the Jaffna district this year.
-
-The candidator of the Demondy National Alliance (CPC) has obtained the candidate for the General Election of the Democratic National Alliance (Postal Picture) for the Parliamentary National Alliance (Postcott Picture) for the General Election of Velvettithurai.
-
-He was admitted to the Point Pedro hospital for further treatment due to an emergency illness 4 days ago.Has been done.
-
-◼️
-
-[Data](articles/339921a8.json)
-
-[Extended Data](ext_articles/339921a8.ext.json)
 
 ---

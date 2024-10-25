@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 22:58:07**
+As of **2024-10-25 23:10:41**
 
 ## Newspaper Stats
 
-*Scraped **51,410** Articles*
+*Scraped **51,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 4,785
 adaderanalk | 6,087
 tamilmirrorlk | 7,098
 virakesarilk | 8,274
-adaderanasinhalalk | 8,930
+adaderanasinhalalk | 8,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,410 (100.0%) of 51,410 articles have been extended.
+51,411 (100.0%) of 51,411 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,28 @@ The President also stressed that no businessman will be permitted to exploit the
 [Data](articles/85101c7a.json)
 
 [Extended Data](ext_articles/85101c7a.ext.json)
+
+---
+
+### පොලිස් නිලධාරීන් තිදෙනෙකුගේ වැඩ තහනම්
+
+*2024-10-25 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202564) · `si`
+
+Sinhala police officers suspended after allegations of brutality against youth
+
+🟩
+
+පමුණුගම ප්‍රදේශයේදී තරුණයන් දෙදෙනෙකුට පහරදුන් බව කියන සිද්ධිය සම්බන්ධයෙන් පමුණුගම පොලීසියේ නිලධාරීන් තිදෙනෙකුගේ වැඩ තහනම් කර ඇති බව වාර්තා වේ.
+
+බෝපිටිය පමුණුගම පොලීසිය ඉදිරිපිටට පැමිණි ගම්වාසීන් පිරිසක් ඊයේ පස්වරුවේ මෙලෙස විරෝධතාවයේ නිරත වුණේ, අත්අඩංගුවට ගත් තරුණයින් දෙදෙනෙකුට පොලිස් නිලධාරීන් අමානුෂික ලෙස පහරදුන් බවට චෝදනා කරමින්.
+
+පසුගිය ඉරිදා දින බෝපිටිය පමුණුගම ප්‍රදේශයේ නිවසකට ඇතුළු වී රන්මාලයක් සොරාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් සැකපිට අදාළ තරුණයින් දෙදෙනා පොලිස් අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/a7f57678.json)
+
+[Extended Data](ext_articles/a7f57678.ext.json)
 
 ---
 
@@ -2451,39 +2473,5 @@ This becomes problematic because we are expecting ‘corrupt politicians’ to a
 [Data](articles/8132942e.json)
 
 [Extended Data](ext_articles/8132942e.ext.json)
-
----
-
-### Sri Lanka cricket team crucial
-
-*2024-10-25 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202540) · `si`
-
-Sri Lanka cricket team crucial in Group 20 T20 Trophy. Today's match against Afghanistan at 2:30 PM at Almeeta Stadium. Sri Lanka won one match, lost one, and won two out of three. Second semi-final at 7:00 PM between Afghanistan A and runner-up from group B. Tournament started in 2013 as Asia's Under-23 cricket, renamed in 2020. Sri Lanka won twice, Pakistan twice, and India twice.
-
-🟩
-
-The Sri Lanka Group 20 T20 Trophy cricket tournament will be held today (24).
-
-Competition From Sri Lanka. 2.30 is due to begin at the Almeater Stadium.
-
-The main round was held at the main round of participation in 8 teams, including Sri Lanka.
-
-Sri Lanka won one match, which was defeated in the 'A' and won 2 of the 3 matches played.
-
-Afgladesana A, Bangladesh national team played 'A' category. Sri Lanka only defeated to Afghanistan.
-
-Second semi-final. The match will be held at 7.00 and will be held between the Afghanistan A team and the second place in the 'B' Born in the 'B' Branch.
-
-The event was held in Sri Lanka, while the tournament was held in Sri Lanka, while the Pakistan A was won the championship.
-
-The tournament commenced in 2013 as Asia's Under-23 cricket tournament was changed in 2013 as the Asian Eastern Team Cricket Tournament in 2020.
-
-The Test cricket playing countries in Asia presents their groups, and other countries offer their national kids.
-
-...
-
-[Data](articles/172eae1b.json)
-
-[Extended Data](ext_articles/172eae1b.ext.json)
 
 ---

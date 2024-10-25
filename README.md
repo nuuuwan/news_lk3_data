@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-25 17:40:46**
+As of **2024-10-25 18:00:30**
 
 ## Newspaper Stats
 
-*Scraped **51,376** Articles*
+*Scraped **51,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 3,049
 economynextcom | 3,135
 dailyftlk | 3,508
 dailymirrorlk | 4,733
-adalk | 4,782
+adalk | 4,783
 adaderanalk | 6,083
 tamilmirrorlk | 7,090
-virakesarilk | 8,265
+virakesarilk | 8,268
 adaderanasinhalalk | 8,921
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,376 (100.0%) of 51,376 articles have been extended.
+51,379 (100.0%) of 51,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-25 (Friday)
+
+### First Look release of 'Messenger' starring actor Sri Ram Karthik
+
+*2024-10-25 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197112) · `ta`
+
+Sri Ram Karthik stars in Messenger, Tamil debut film. Directed by Ramesh, featuring Manisha Jashnani, Livingston, others. First look released, showcasing phone screen appearance.
+
+🟩
+
+The first look of 'Messenzer' has been released in a different role as the hero of the famous actor Sri Ram Karthik, making his debut in Tamil fans with the film 'Kanni Madam'.
+
+Directed by debutant director Ramesh, Sri Ram Karthik, Manisha Jashnani, Livingston, Jeeva Ravi, Priyadarshini Rajkumar, Prashant, Cool Suresh.
+
+The film, which is the creation of the pros and cons of the information technology, is the producer PV on behalf of PVK Film Factory. V.. K. Vijayan has produced.
+
+The shooting of the film is completed and the post -shooting technical work is currently underway.
+
+In this case, the first look of the film has been released. It has attracted fans as stars are designed to appear on the light screen emitted from a cell phone.
+
+◼️
+
+[Data](articles/ea0f9cd2.json)
+
+[Extended Data](ext_articles/ea0f9cd2.ext.json)
+
+---
+
+### Harris Jayaraj has released a special video of actor Arjun Dasin's 'Onsmore'
+
+*2024-10-25 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/197110) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Harris Jayaraj releases video Arjun Das song 'Miss Outti' from movie 'Onsmore'. Directed by Vignesh Srikanth, produced Million Studios. Arvind Viswanathan records music.
+
+🟩
+
+The song and the song 'Miss Outti ...', which is featured in the movie 'Onsmore' starring actor Arjun Das, has been released.
+
+Composer Harris Jayaraj posted this on his web page and congratulated the film crew.
+
+Arjun Das and Aditi Shankar are the first roles in the film 'Onsmore' directed by director Vignesh Srikanth.
+
+Hesham Abdul Wahab has composed the film, which is being recorded by Arvind Viswanathan. The film was produced by producer Yuvraj Ganesan on behalf of Million Studios.
+
+As the work of the film reaches the final stage, the song 'Miss Otti ..' has been released exclusively.
+
+In this song, Arjun Das, the hero of the story, appeared as a singer on the stage and scenes of his mind to the lover.
+
+◼️
+
+[Data](articles/9aa3a3a5.json)
+
+[Extended Data](ext_articles/9aa3a3a5.ext.json)
+
+---
 
 ### Arughambe Incident - In the detainees detention
 
@@ -71,6 +129,32 @@ Meanwhile, the market turnover was recorded at Rs.4.75 billion today.
 [Data](articles/c504485a.json)
 
 [Extended Data](ext_articles/c504485a.ext.json)
+
+---
+
+### Those who lose the presidential election tries to create problems or fiction and take over power - President
+
+*2024-10-25 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/197086) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Opposition creates fake issues post-election. Government denies claims of instability. Focuses on economic development, national unity, and environmental protection. Emphasizes truth-based movement and responsible governance.
+
+🟩
+
+During the last presidential election, those who have made all kinds of campaigns against us are now trying to create any problems or fiction and take over power again. They are starting to say that our government will fall in 3 or 6 months. I remind them that we are settling this country. President Anuragumara Dissanayake said that the national people's power is not going to stop without achieving it.
+
+President Anura Kumara Dissanayake said this while addressing the general election held in Puttalam on Thursday (24).
+
+This massive crowd ensures that we have won many constituencies in the last presidential election, as we have won the general election and all the constituencies of the district.
+
+...
+
+[Data](articles/010bd2a0.json)
+
+[Extended Data](ext_articles/010bd2a0.ext.json)
 
 ---
 
@@ -454,6 +538,34 @@ In 2016, he was sentenced to four years in prison by Gnanasara Thera.
 
 ---
 
+### Indian businessman Ratan Tata has written property
+
+*2024-10-25 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197093) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Ratan Tata, 86, former Tata Sons president, left property to foster dogs & staff. Unusual in India, common in West. Willed assets to lifelong care of Tito, his German Shepherd. Also gifted to long-time employees & assistant. Awards to future generations.
+
+🟩
+
+Indian businessman Ratan Tata passed away at the age of 86. He is a former president of Tata Sons, the mother of Tata Group.
+
+He has millions of property in person. Ratan Tata will always be with foster dogs. The foster dogs are for him alive. He raised a dog named Tito from the German category in his home. Before he died, he had written property to his foster dog.
+
+Writing property for dogs in Western countries is nothing new. But in India, it is very rare to write property. Ratan Tata has written property to everyone who has been with him till the end.
+
+Tito adopted a foster dog 6 years ago. Ratan Tata had a different dog in the same name. Following the death of the dog, the newly adopted dog raised the same name. He has written property to maintain this tito for a lifetime.
+
+...
+
+[Data](articles/23e8ead3.json)
+
+[Extended Data](ext_articles/23e8ead3.ext.json)
+
+---
+
 ### President - South African High Commission
 
 *2024-10-25 15:37:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தென்னாபிரிக்க-உயர்ஸ்தானிகர்-சந்திப்பு/175-346048) · `ta`
@@ -569,34 +681,6 @@ The incident took place at a school in Balangoda, police said that the students 
 [Data](articles/7299a8da.json)
 
 [Extended Data](ext_articles/7299a8da.ext.json)
-
----
-
-### Indian businessman Ratan Tata has written property
-
-*2024-10-25 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197093) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Ratan Tata, 86, former Tata Sons president, left property to foster dogs & staff. Unusual in India, common in West. Willed assets to lifelong care of Tito, his German Shepherd. Also gifted to long-time employees & assistant. Awards to future generations.
-
-🟩
-
-Indian businessman Ratan Tata passed away at the age of 86. He is a former president of Tata Sons, the mother of Tata Group.
-
-He has millions of property in person. Ratan Tata will always be with foster dogs. The foster dogs are for him alive. He raised a dog named Tito from the German category in his home. Before he died, he had written property to his foster dog.
-
-Writing property for dogs in Western countries is nothing new. But in India, it is very rare to write property. Ratan Tata has written property to everyone who has been with him till the end.
-
-Tito adopted a foster dog 6 years ago. Ratan Tata had a different dog in the same name. Following the death of the dog, the newly adopted dog raised the same name. He has written property to maintain this tito for a lifetime.
-
-...
-
-[Data](articles/23e8ead3.json)
-
-[Extended Data](ext_articles/23e8ead3.ext.json)
 
 ---
 
@@ -795,6 +879,24 @@ Relatives of the missing during the JV's rebellion in 1988-89 made this request.
 [Data](articles/11141334.json)
 
 [Extended Data](ext_articles/11141334.ext.json)
+
+---
+
+### මඩකලපුව උසාවිය ​​බෝම්බ තබා පුපුරවා හරින බවට දුරකථන ඇමතුමක්
+
+*2024-10-25 14:11:47* · [`adalk`](https://www.ada.lk/breaking_news/මඩකලපුව-උසාවිය-​​බෝම්බ-තබා-පුපුරවා-හරින-බවට-දුරකථන-ඇමතුමක්/11-412686) · `si`
+
+මඩකලපුව අධිකරණ ගොඩනැගිලි පරිශ්‍රයට බෝම්බ ප්‍රහාරයක් එල්ල කිරීමට යන බවට බ්‍රහස්පතින්දා (24) රාත්‍රියේ ලැබුණු දුරකථන ඇමතුමක් මත ප්‍රදේශයේ විශේෂ ආරක්ෂක විධිවිධාන යොදා තිබේ.
+
+සිද්ධිය වූ දින රාත්‍රියේ අධිකරණ රෙජිස්ට්‍රාර්වරයාට දුරකථන ඇමතුමක් ලැබීමෙන් පසු ඔහු වහාම පොලිසියට දන්වා සිටියේ ඉහත කී උසාවි ගොඩනැඟිල්ලට බෝම්බ ප්‍රහාරයක් එල්ල කරන බවටය.
+
+ඉන් අනතුරුව උසස් පොලිස් නිලධාරීන් අධිකරණ ගොඩනැගිලි පරිශ්‍රය වෙත ගිය අතර ගොඩනැගිල්ල වටා දැඩි ආරක්ෂක විධිවිධාන යොදා ඇති අතර ප්‍රදේශයේ විශේෂ පොලිස් මුර සංචාරවල නිරත වන අතර විමර්ශන නිලධාරීන් ද නිරීක්ෂණ කටයුතුවල නිරත වන අතර විශේෂ කාර්ය බලකාය මෙම ප්‍රදේශයේ ආරක්ෂාවට යොදවා ඇත.
+
+මේ අතර අද අලුයම විශේෂ කාර්ය  බළකායේ බෝම්බ නිෂ්ක්‍රීය අංශය කැඳවා අධිකරණ සංකීර්ණය සහ ගබඩා ප්‍රදේශය දැඩි ලෙස පරීක්ෂා කළ අතර සේවකයන්ට ඇතුළුවීමට ඉඩ නොතැබූ අතර අධිකරණයට ඉදිරිපත් කිරීමට පොලිසිය සූදානමින් සිටී සියලුම පරීක්ෂණ අවසන් කිරීමෙන් පසු අද පෙ ව  11 න් පසුව අධ්කරණ කටයුතු සිදුකිරීමට පොලිසිය අවශ්‍ය කටයුතු සිදු කරමින් සිට්
+
+◼️
+
+[Data](articles/c1381b82.json)
 
 ---
 
@@ -2415,101 +2517,5 @@ Speaking further Mr. Rajitha Ranasinghe said
 [Data](articles/c8bea38b.json)
 
 [Extended Data](ext_articles/c8bea38b.ext.json)
-
----
-
-### Three Chinese arrested
-
-*2024-10-25 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202532) · `si`
-
-Chinese nationals arrested Galle Police Division suspected computer crimes online
-
-🟩
-
-A group of Chinese nationals have been arrested on suspicion of being held in a hotel and committing computer crimes online.
-
-The raid was carried out on information received by the police officers of the Galle Police and three Chinese male has been arrested.
-
-Police have also seized five mobile phones, no owner without the owner.
-
-The suspects have been arrested in the Galle Police Division in the Galle Police Division, Bope Road, Gintota in Gintota.
-
-◼️
-
-[Data](articles/133dbb57.json)
-
-[Extended Data](ext_articles/133dbb57.ext.json)
-
----
-
-### Elpitiya elections tomorrow
-
-*2024-10-25 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202531) · `si`
-
-Elpitiya Pradeshiya Sabha elections tomorrow: 55,643 voters, 48 polling centers, 7am-4pm voting hours, security measures in place, PAFFREL observers present.
-
-🟩
-
-The Elections Commission says that all officers of the Elpitiya Pradeshiya Sabha will be taken to the respective centers today (25).
-
-55,643 voters qualified to vote in 48 polling centers while the Elections Commission announced that the election was held on the 2018 voter register.
-
-Meanwhile, the Chairman of the Elections Commission R. M. A. L. Ratnayake said the vote was held from 7 am to 4 pm and the security arrangements have been deployed.
-
-Executive Director of PAFFREL, Rohana Hettiarachchi said that he will use his officials for observation work in the Elpitiya Pradeshiya Sabha elections.
-
-◼️
-
-[Data](articles/0026d0a2.json)
-
-[Extended Data](ext_articles/0026d0a2.ext.json)
-
----
-
-### Suspect arrested for robbery
-
-*2024-10-25 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202530) · `si`
-
-28-year-old man from Pandukapura arrested for robbery after releasing 12 court warrants. Suspected in multiple police divisions including Ja-Ela, Negombo, Puttalam, and Anuradhapura.
-
-🟩
-
-A suspect who was released by a team of officers in the Ja-Ela Police Station was arrested yesterday (24).
-
-The suspect is a 28 year old resident of Pandukapura. He had released 12 warrants through the Welisara, Negombo, Medawachchiya and Kahatagasdigiliya Magistrate's Court.
-
-Investigations have revealed that the suspect was the suspect in Ja-Ela, Negombo, Puttalam, Puttalam, Anuradhapura and Kalukawala Police Divisions in Neala, Negombo, Puttalam and Kalukawala Police Divisions.
-
-◼️
-
-[Data](articles/3899ef1d.json)
-
-[Extended Data](ext_articles/3899ef1d.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-10-25 06:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202529) · `si`
-
-Heavy rain warning: Western, Sabaragamuwa, North Western, Northern provinces; Galle, Matara districts. Thunderstorms possible. Strong winds expected. Public advised to take precautions against damage from gusts and lightning.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, North Western and Northern provinces and in the Galle and Matara districts today (25).
-
-In Puttalam, Mannar, Jaffna and Kilinochchi districts. Showers may occur in more than 75.
-
-Showers or thundershowers at night in the evening or night in the rest of the island.
-
-Starch in Trincomalee and Hambantota districts, North, North Central and North Western provinces. The weather release also shows that strong winds can also occur over 40,000.
-
-The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
-
-◼️
-
-[Data](articles/2798eab0.json)
-
-[Extended Data](ext_articles/2798eab0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 00:56:30**
+As of **2024-10-26 01:10:17**
 
 ## Newspaper Stats
 
-*Scraped **51,422** Articles*
+*Scraped **51,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 516
 bbccomsinhala | 521
 islandlk | 3,049
 economynextcom | 3,141
-dailyftlk | 3,508
+dailyftlk | 3,510
 dailymirrorlk | 4,733
 adalk | 4,785
 adaderanalk | 6,087
@@ -26,9 +26,43 @@ adaderanasinhalalk | 8,932
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,422 (100.0%) of 51,422 articles have been extended.
+51,423 (100.0%) of 51,424 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-26 (Saturday)
+
+### State-hood and survival: Tamils, Palestinians and self-determination
+
+*2024-10-26 00:50:21* · [`dailyftlk`](https://www.ft.lk/columns/State-hood-and-survival-Tamils-Palestinians-and-self-determination/4-768427) · `en`
+
+At the time of writing, there are reports of credible threats targeting Israeli establishments in Arugam Bay, travel advisories have already been issued by the UK, US, Australia and others. Sri Lanka is depending on a strong tourism season that starts proper in December, ‘the season’; forex flows and economic activity, are vital for the economy and debt-sustainability.
+
+The drama on the east coast has created a social media storm over perceived Israeli commercial colonisation of parts of the east and south coastline through enterprises that many suggest operate illegally and use foreign payment systems to bypass regulation and taxation. There were also many comparisons and parallels drawn to the conflict in the Middle East and Israel’s role in it, and how many perceive Israel to be a colonial project of sorts.
+
+...
+
+[Data](articles/1387c0b4.json)
+
+[Extended Data](ext_articles/1387c0b4.ext.json)
+
+---
+
+### Peradeniya University student struggle of 1975-’76 and State suppression
+
+*2024-10-26 00:46:57* · [`dailyftlk`](https://www.ft.lk/opinion/Peradeniya-University-student-struggle-of-1975-76-and-State-suppression/14-768426) · `en`
+
+The death of Peradeniya University student W.M. Weerasuriya, who was shot dead by police on 12 November 1976 during a student protest, was the beginning of the end of the then Government of Sirimavo Bandaranaike. Her Government which took office in 1970 was deeply unpopular by then but the killing of Weerasuriya let loose public anger at her and led to the routing of the SLFP-led Government in the 1977 general elections.
+
+Rajasinghe Bandara was a fellow student at the Peradeniya University at the time and decades later he has written about the experience and the State suppression of students in a book released recently on the 1975-1976 student movement.
+
+Bandara who is now domiciled in the UK has written with a sense of personal loss on the authoritarian manner in which the student movement was crushed by the then Government and blood was spilt on the grounds of the University of Peradeniya.
+
+...
+
+[Data](articles/234839c3.json)
+
+---
 
 ### 2024-10-25 (Friday)
 
@@ -2455,49 +2489,5 @@ According to the Department of Public Administration Statistics, 751,585 househo
 [Data](articles/4e90d231.json)
 
 [Extended Data](ext_articles/4e90d231.ext.json)
-
----
-
-### Scholarship Examination issue: Resolution in 30?
-
-*2024-10-25 11:17:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-விவகாரம்-30இல்-தீர்மானம்/175-346034) · `ta`
-
-Human Rights Commission meeting on 30th to decide on Grade 5 scholarship exam issues. Criminal Investigation Department's final report submitted.
-
-🟩
-
-The Human Rights Commission will meet on the 30th of this month to make a decision on some questions that are alleged to have been held in the Grade 5 scholarship examination.
-
-The final report of the investigation by the Criminal Investigation Department has now been handed over to his Commission, its Commissioner of Attorney Nimal Punjihewa said.
-
-◼️
-
-[Data](articles/26a6f3d5.json)
-
-[Extended Data](ext_articles/26a6f3d5.ext.json)
-
----
-
-### Petition demanding Ranjan's nomination
-
-*2024-10-25 11:16:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஞ்சனின்-வேட்புமனுவை-நிராகரிக்கக்-கோரி-மனு/175-346033) · `ta`
-
-Petition against Ranjan Ramanayake's nomination in Gampaha district. Former MP accused of voting rights issue. Submitted by Mahinda Senanayake. Elections Commission named as defendant.
-
-🟩
-
-A petition has been filed in the Supreme Court to reject the nomination of former parliamentarian Ranjan Ramanayake, who is contesting in the Gampaha district in the upcoming general election.
-
-It is also reported that Ranjan Ramanayake has been asked to order that he has no right to vote and vote.
-
-Gampaha District Independent Committee candidate KM. The petition has been submitted by Mahinda Senanayake.
-
-The Elections Commission and its members, including the Gampaha District Election Officer, Ranjan Ramanayake, have been referred to as defendants.
-
-◼️
-
-[Data](articles/07077ff1.json)
-
-[Extended Data](ext_articles/07077ff1.ext.json)
 
 ---

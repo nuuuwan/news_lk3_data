@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 01:24:05**
+As of **2024-10-27 01:39:34**
 
 ## Newspaper Stats
 
-*Scraped **51,547** Articles*
+*Scraped **51,548** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 412
 colombotelegraphcom | 519
-bbccomsinhala | 522
+bbccomsinhala | 523
 islandlk | 3,057
 economynextcom | 3,143
 dailyftlk | 3,521
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,964
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,547 (100.0%) of 51,547 articles have been extended.
+51,548 (100.0%) of 51,548 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -461,6 +461,50 @@ However, the External Affairs Ministry of External Affairs further stated that n
 [Data](articles/02a46a23.json)
 
 [Extended Data](ext_articles/02a46a23.ext.json)
+
+---
+
+### Sri Lanka - West Indies: Several players upstreaming winning
+
+*2024-10-26 19:12:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1wjjqd4v1yo) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka vs West Indies cricket match: West Indies won by 8 wickets. Rain delay reduced game to 23 overs. Kusal Mendis top-scored for SL (56). Evin Lewis and Shafon Rutherford led WI victory.
+
+🟩
+
+Sri Lanka - West Indies: Several players upstreaming winning
+
+West Indies won the Third One Day Cricket match between Sri Lanka and the West Indies by eight wickets.
+
+According to the Duck and Lewis theory, 196 runs in 22 overs.
+
+West Indies captain was the advantage of West Indies captain, and he chose first bowling first.
+
+However, when the 18th ball of Sri Lanka opened the 18th ball, the match had to be temporarily stopped due to rain.
+
+Later, the match was restricted to 23 overs.
+
+Accordingly, Sri Lanka scored 156 runs for the loss of 3 wickets.
+
+Kusal Mendis scored 56 runs off 22 balls and scored 56 runs off 62 balls.
+
+Nishan Maduschka was included in the first competition in the first and second matches.
+
+According to the Duck and Lewis theory, the West Indies scored 195 runs in 23 overs.
+
+Accordingly, Brandon Kink was bowled out for 16 runs while Brandon Kink was hit by 16 runs.
+
+Opener batsman Evin Lewis and Sharfon Rutherford ruled West Indies.
+
+...
+
+[Data](articles/95340b7f.json)
+
+[Extended Data](ext_articles/95340b7f.ext.json)
 
 ---
 
@@ -2439,21 +2483,5 @@ Meanwhile, in addition to Iran, the Syrian government's news agency said that Is
 [Data](articles/985af1c7.json)
 
 [Extended Data](ext_articles/985af1c7.ext.json)
-
----
-
-### FR filed against Ranjan’s candidacy
-
-*2024-10-26 03:03:40* · [`dailyftlk`](https://www.ft.lk/news/FR-filed-against-Ranjan-s-candidacy/56-768452) · `en`
-
-A fundamental rights petition has been filed in the Supreme Court challenging the candidacy of former MP Ranjan Ramanayake in the upcoming 2024 General Elections. A member of an independent group contesting in the Gampaha district lodged the petition today, seeking to disqualify Ramanayake from running as a candidate representing the United Democratic Voice Party.
-
-The petitioner has requested the Supreme Court to reject Ramanayake’s nomination, asserting that he lacks both the right to vote and the right to hold Parliamentary office. Named respondents in the petition include Ramanayake, the National Election Commission, and Gampaha District Election Officers.
-
-...
-
-[Data](articles/78e4986e.json)
-
-[Extended Data](ext_articles/78e4986e.ext.json)
 
 ---

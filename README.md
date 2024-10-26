@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 11:40:00**
+As of **2024-10-26 11:59:26**
 
 ## Newspaper Stats
 
-*Scraped **51,472** Articles*
+*Scraped **51,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 411
 colombotelegraphcom | 518
 bbccomsinhala | 521
 islandlk | 3,057
-economynextcom | 3,141
+economynextcom | 3,142
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,786
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,472 (100.0%) of 51,472 articles have been extended.
+51,473 (100.0%) of 51,473 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -373,6 +373,28 @@ Officials have been deployed at tourist destinations including Augkampai, Hikkad
 [Data](articles/46ea1640.json)
 
 [Extended Data](ext_articles/46ea1640.ext.json)
+
+---
+
+### Sri Lanka banking system risk perceptions improve in 2024, though still negative
+
+*2024-10-26 08:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-risk-perceptions-improve-in-2024-though-still-negative-184965/) · `en`
+
+ECONOMYNEXT – Confidence in Sri Lanka’s banking system has started to improve steadily after plunging in 2022, according to a survey conducted among respondents in banking, insurance, finance companies, stock brokering and unit trusts.
+
+The Systemic Risk Survey (SRS) has been conducted every six months by the Central Bank since 2017 has shown an improvement in perceptions.
+
+“As a result, a substantial proportion of respondents expressed ‘fairly confident’ or better outlook reflecting their improved confidence towards financial system stability,” a Financial Stability Review by the central bank said.
+
+“Although the net percentage balance increased, it remained in the negative territory.”
+
+The net percentage balance is calculated by weighing 1 for ‘completely confident’, 0.5 for ‘very confident’, 0 for ‘fairly confident’, -0.5 for ‘not very confident’ and -1 for ‘not confident’ responses.
+
+...
+
+[Data](articles/2a11c3d7.json)
+
+[Extended Data](ext_articles/2a11c3d7.ext.json)
 
 ---
 
@@ -2297,29 +2319,5 @@ The Minister said that this would have some impact on the country's economy. Tho
 [Data](articles/4da043fd.json)
 
 [Extended Data](ext_articles/4da043fd.ext.json)
-
----
-
-### Bore. Three -wheeler accident in Ottamavadi;Student hurt!
-
-*2024-10-25 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197096) · `ta`
-
-Three-wheeler accident injures student near Batticaloa town hall. Student leaving school hit by vehicle traveling on main road. Admitted to hospital, police investigating incident.
-
-🟩
-
-A student was injured in a three -wheeler accident in front of the Ottamavadi Pradeshiya Sabha in Batticaloa.
-
-The accident occurred while the student left the school.
-
-The accident occurred when the three -wheeler traveled by the Ottamavadi main road was lost.
-
-The school student has been admitted to the Valaichenai Resource Hospital and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/5724edb0.json)
-
-[Extended Data](ext_articles/5724edb0.ext.json)
 
 ---

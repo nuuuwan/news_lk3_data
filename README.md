@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 08:36:38**
+As of **2024-10-26 08:22:01**
 
 ## Newspaper Stats
 
-*Scraped **51,455** Articles*
+*Scraped **51,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,141
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,785
-adaderanalk | 6,090
-tamilmirrorlk | 7,102
+adaderanalk | 6,089
+tamilmirrorlk | 7,101
 virakesarilk | 8,278
 adaderanasinhalalk | 8,935
 
@@ -26,43 +26,11 @@ adaderanasinhalalk | 8,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,447 (100.0%) of 51,455 articles have been extended.
+51,447 (100.0%) of 51,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
-
-### Elpitiya PS Election begins
-
-*2024-10-26 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102933/elpitiya-ps-election-begins) · `en`
-
-The Elpitiya Pradeshiya Sabha Election has commenced at 7:00 a.m. today (26), with eight recognized political parties and an independent group competing to elect 29 members.
-
-A total of 55,643 voters are eligible to cast their votes at 48 polling centers and the polling will be held according to the 2018 voter registration list, the Election Commission announced.
-
-Meanwhile, the chairman of the Election Commission R.M.A.L. Rathnayake stated that voting for the Elpitiya Pradeshiya Sabha election will be held from 7.00 a.m. to 4.00 p.m. today (26), with all necessary security measures in place.
-
-Additionally, the Executive Director of People’s Action for Free & Fair Elections (PAFFREL) Rohana Hettiarachchi, stated that they will deploy their officials for monitoring at all the polling stations during the Elpitiya Pradeshiya Sabha Election.
-
-◼️
-
-[Data](articles/9c1d8ddd.json)
-
----
-
-### இன்றும் மழை...
-
-*2024-10-26 08:12:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-மழை/175-346063) · `ta`
-
-மேல், சப்ரகமுவ, வடமேல் மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என, வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களில் சில இடங்களில் 75 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக் கூடும் எனவும், திணைக்களம் தெரிவித்துள்ளது. (AN)
-
-◼️
-
-[Data](articles/2a931d7d.json)
-
----
 
 ### MM in several areas. Heavy rains over 75
 
@@ -2295,5 +2263,55 @@ Before the presidential election the NPP said it will approve any projects witho
 [Data](articles/b071e229.json)
 
 [Extended Data](ext_articles/b071e229.ext.json)
+
+---
+
+### 22 children hospitalized at a Balangoda school
+
+*2024-10-25 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202547) · `si`
+
+Balangoda school incident: 22 children hospitalized after exposure to chemical solution.
+
+🟩
+
+A group of children in Balangoda in Balangoda has been admitted to the Balangoda Base Hospital due to a sudden complications.
+
+Several girls in this school were cleaned with a chemical solution this morning.
+
+The children and other children who came to the toilet had to be hospitalized due to a sickness.
+
+Our correspondent said the Balangoda CC. 22 children of the Tamil Maha Vidyalaya were hospitalized.
+
+◼️
+
+[Data](articles/72a40930.json)
+
+[Extended Data](ext_articles/72a40930.ext.json)
+
+---
+
+### Investigation into the price of rice control
+
+*2024-10-25 14:37:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-கட்டுப்பாட்டு-விலை-தொடர்பாக-விசாரணை/175-346042) · `ta`
+
+Rice price control investigation underway. Consumer Affairs Authority conducting inspections. Rice mill owners agree to sell 1kg for 218 rupees. Market price set at 220 rupees. Legal action threatened against sellers above control price.
+
+🟩
+
+Investigations have been launched to whether the rice will be released to the market at control prices, the Ministry of Commerce said.
+
+Its secretary MM. Naimuddin said that the Consumer Affairs Authority officials had begun inspections at the district level.
+
+During a recent discussion with the president, rice mill owners agreed to release one kilogram of rice in the market for 218 rupees.
+
+Accordingly, the market can be sold for 220 rupees in the market, the secretary said.
+
+He also warned that legal action would be taken to detect places where rice was sold beyond the control price.
+
+◼️
+
+[Data](articles/98f5307c.json)
+
+[Extended Data](ext_articles/98f5307c.ext.json)
 
 ---

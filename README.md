@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 09:59:04**
+As of **2024-10-26 10:12:21**
 
 ## Newspaper Stats
 
-*Scraped **51,460** Articles*
+*Scraped **51,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,141
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,786
-adaderanalk | 6,091
+adaderanalk | 6,092
 tamilmirrorlk | 7,105
 virakesarilk | 8,278
 adaderanasinhalalk | 8,935
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,460 (100.0%) of 51,460 articles have been extended.
+51,461 (100.0%) of 51,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### After wave of airstrikes, Israel says its retaliation against Iran is complete
+
+*2024-10-26 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102935/after-wave-of-airstrikes-israel-says-its-retaliation-against-iran-is-complete) · `en`
+
+The Israel Defense Forces (IDF) said that it has completed a series of airstrikes against Iranian military sites, termed “Days of Repentance,” in response to ongoing attacks from Iran, including a significant missile barrage on October 1.
+
+The operation involved dozens of Israeli aircraft, including fighter jets and refuelers, targeting military installations across various regions in Iran, approximately 1,600 kilometers from Israel. These strikes were executed in multiple waves over several hours, focusing on air defense systems and ballistic missile manufacturing sites linked to recent Iranian attacks on Israel.
+
+Meanwhile, Iran says its air defense system successfully countered Israel’s attacks with “limited damage” caused to some locations. In a statement, the Iranian forces stated that Israel attacked military targets in the provinces of Tehran, Khuzestan and Ilam.
+
+...
+
+[Data](articles/2f34ff5d.json)
+
+[Extended Data](ext_articles/2f34ff5d.ext.json)
+
+---
 
 ### Israel
 
@@ -2301,29 +2319,5 @@ The incident took place at a school in Balangoda, police said that the students 
 [Data](articles/7299a8da.json)
 
 [Extended Data](ext_articles/7299a8da.ext.json)
-
----
-
-### Attack on women by sharp weapons
-
-*2024-10-25 15:07:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரிய-ஆயுதங்களால்-பெண்கள்-மீது-தாக்குதல்/175-346045) · `ta`
-
-Two women (59, 46) attacked with sharp weapons in Panadura. Three-person group fled scene. Police claim victims involved in drug trafficking.
-
-🟩
-
-Panadura - Two women have been attacked with sharp weapons this morning.
-
-Three persons in the three -wheeler carried out the attack and fled the scene, police said.
-
-The two women are involved in drug trafficking, according to police sources.
-
-They are 59 and 46 year old women from Uranna Badavatta area. Those
-
-◼️
-
-[Data](articles/204e8fea.json)
-
-[Extended Data](ext_articles/204e8fea.ext.json)
 
 ---

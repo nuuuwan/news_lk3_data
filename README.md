@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 11:23:48**
+As of **2024-10-26 11:40:00**
 
 ## Newspaper Stats
 
-*Scraped **51,469** Articles*
+*Scraped **51,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 3,141
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,786
-adaderanalk | 6,092
-tamilmirrorlk | 7,112
+adaderanalk | 6,093
+tamilmirrorlk | 7,113
 virakesarilk | 8,278
-adaderanasinhalalk | 8,936
+adaderanasinhalalk | 8,937
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,469 (100.0%) of 51,469 articles have been extended.
+51,472 (100.0%) of 51,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### EU reaffirms assistance to Sri Lanka in expanding market access, employment opportunities
+
+*2024-10-26 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102936/eu-reaffirms-assistance-to-sri-lanka-in-expanding-market-access-employment-opportunities) · `en`
+
+President Anura Kumara Dissanayake met with the European Union (EU) Delegation, led by EU Ambassador H.E. Carmen Moreno, today (25) at the Presidential Secretariat.
+
+The President informed the EU Delegation about Sri Lanka’s current security situation, highlighting recent measures to improve safety for tourists and residents, the President’s Media Division (PMD) stated.
+
+He assured that security protocols in key tourist areas are strengthened with more law enforcement and emergency services deployed.
+
+The European Union is a critical partner for Sri Lanka, serving as its second-largest export and tourist market, and third-largest import market, the PMD added.
+
+The EU Delegation reaffirmed its commitment to supporting Sri Lanka in expanding its market access, enhancing employment opportunities within the EU, and boosting tourism. Additionally, the EU pledged support for knowledge exchange and implementing new mechanisms in education, social protection, and anti-corruption efforts.
+
+...
+
+[Data](articles/44bd7b45.json)
+
+[Extended Data](ext_articles/44bd7b45.ext.json)
+
+---
+
+### Here is the latest condition of Elpitiya elections
+
+*2024-10-26 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202570) · `si`
+
+Elpitiya election update: 48 polling centers opened at 7pm. 10 celebrations reported 25% voter turnout. Counting begins after polls close. 55,643 eligible voters participate.
+
+🟩
+
+Today (26). Elpitiya, which began 48 centers at 7.00 pm, Elpitiya. Ten Celebrations have been voted by 25% of voters. A. Dharmasiri said.
+
+Elections. He further stated that the counting of the election stations will begin at the election stations.
+
+55,643 voters qualified for the Elpitiya Pradeshiya Sabha elections were 55,643.
+
+◼️
+
+[Data](articles/c71466bf.json)
+
+[Extended Data](ext_articles/c71466bf.ext.json)
+
+---
+
+### Change on general election date?
+
+*2024-10-26 11:04:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பொதுதேர்தல்-திகதியில்-மாற்றம்/150-346074) · `ta`
+
+Parliamentary election date likely to change due to nomination deadline issue. Law requires 5-7 week notice before voting. Current date violates constitution and sovereignty. Election Commission to issue new gazette notification with revised date.
+
+🟩
+
+According to state sources, the date for the parliamentary election is likely to change in a couple of days.
+
+According to Article 10 of the Parliamentary Election Act, there is a major problem on the day of the election.
+
+Under the law, nominations were sought from October 4 to October 11.
+
+வேட்புமனுக்கள் ஏற்றுக்கொள்ளப்பட்ட நாளிலிருந்து ஐந்து வாரங்களுக்கு குறையாமலும் ஏழு வாரங்களுக்கு மிகையாகமலும் வாக்கெடுப்புக்கான திகதியை நிர்ணயிக்க வேண்டும் என்று, சட்டம் தெளிவாகக் கூறுகிறது என்று, நிபுணர்கள் சுட்டிக்காட்டுகின்றனர்.
+
+Accordingly, the five -week period, which will be calculated from October 11, will be completed on November 15 and the seven weeks' deadlines will be completed on November 29.
+
+However, they further pointed out that holding the parliamentary elections on that day is unconstitutional, as the current parliamentary election is not held on the 14th of November.
+
+...
+
+[Data](articles/f8e94dc2.json)
+
+[Extended Data](ext_articles/f8e94dc2.ext.json)
+
+---
 
 ### இலங்கையில் முதன்முறையாக தேர்தலில் போட்டியிடும் திருநங்கை
 
@@ -2249,95 +2321,5 @@ The school student has been admitted to the Valaichenai Resource Hospital and th
 [Data](articles/5724edb0.json)
 
 [Extended Data](ext_articles/5724edb0.ext.json)
-
----
-
-### Tourist protection confirmed
-
-*2024-10-25 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202551) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka President Anura Kumara Dissanayake met South African Minister Sandile Edwin Shokane. Discussed tourist safety, Ali-Minhas conflict resolution, international trade promotion, and South Africa's support in security, technology, agriculture, and tourism sectors.
-
-🟩
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ දකුණු අප්‍රිකාවේ මහ කොමසාරිස් සැන්ඩිල් එඩ්වින් ශෝක් මහතා අතර හමුවක් ජනාධිපති කාර්යාලයේ දී අද (25) පෙරවරුවේ සිදු ව තිබේ.
-
-ශ්‍රී ලංකාවේ වත්මන් ආරක්ෂක තත්ත්වය පිළිබඳ එහිදී විශේෂ අවධානයක් යොමු කෙරුණු අතර මෙරටට පැමිණ සිටින සංචාරකයින්ගේ සහ පුරවැසියන්ගේ ආරක්ෂාව මේ වන විටත් තහවුරු කර ඇති බව ජනාධිපතිවරයා එහිදි සඳහන් කර තිබේ.
-
-එසේම ශ්‍රි ලංකාවේ අලි - මිනිස් ගැටුමට විසඳුම් සෙවීමේදී දකුණු අප්‍රිකාවෙන් ලබා ගත හැකි සහාය පිළිබඳව ද මෙහිදී සාකච්ඡාවට ලක් කර තිබේ.
-
-දකුණු අප්‍රිකාවේ ක්‍රියාත්මක කරන සාම සහ ජාතික ප්‍රතිසන්ධාන ක්‍රියාවලිය ශ්‍රී ලංකාව තුළ අඛණ්ඩව ක්‍රියාත්මක කිරිමට ද සහාය ලබා දෙන බව දකුණු අප්‍රිකානු මහකොමසාරිස්වරයා ජනාධිපතිවරයා හමුවේ පවසා තිබේ.
-
-ශ්‍රී ලංකා වාණිජ මණ්ඩලය හා එක්ව ජාත්‍යන්තර වෙළඳාම ප්‍රවර්ධනය කිරිම සම්බන්ධයෙන් සහයෝගයෙන් කටයුතු කිරීමට ද මෙහිදී සාකච්ඡා කෙරුණු අතර ශ්‍රී ලංකාවේ ආරක්ෂක, තාක්ෂණ, කෘෂිකර්මාන්ත හා සංචාරක ක්ෂේත්‍රයන්හි ප්‍රවර්ධනයට දකුණු අප්‍රිකාවේ සහාය ලබා දෙන බව ද සැන්ඩිල් එඩ්වින් ස්කෝක් මහතා මෙහිදී සඳහන් කළේය.
-
-◼️
-
-[Data](articles/4e895dbc.json)
-
-[Extended Data](ext_articles/4e895dbc.ext.json)
-
----
-
-### Action to hand over Sambandan's residence
-
-*2024-10-25 15:52:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனின்-வாசஸ்தலத்தை-ஒப்படைக்க-நடவடிக்கை/175-346049) · `ta`
-
-Sambandan's official residence handover: Steps taken to transfer property to government on 17th. Daughter confirms handover date. Residence granted after 2015 opposition leadership. Government pays utilities and maintenance costs.
-
-🟩
-
-Steps have been taken to hand over the official residence of the Opposition Leader government to the government on the 17th of this month.
-
-Sampanthan's daughter Justice, State Administration, Home Affairs, Provincial Council, Local Government and Labor Ministry was stated.
-
-Her daughter has stated that we will hand over the official residence of the Opposition Leader's government to the government on the 17th of this month.
-
-Even after the loss of the post of Leader of the Opposition in 2018, Sambandan had the opportunity to continue to live in this official residence.
-
-It was obtained by the Cabinet's approval for the Cabinet paper submitted by the then Land Minister Gayantha Karunathilaka during the government of goodwill.
-
-Sampanthan passed away on July 1.Three months have passed since he passed away, but the official residence given to him is still with his family members.
-
-After taking office as the Leader of the Opposition in 2015, Sampanthan got this official residence.
-
-...
-
-[Data](articles/e6a84664.json)
-
-[Extended Data](ext_articles/e6a84664.ext.json)
-
----
-
-### මඩකලපුව අධිකරණ පරිශ්‍රයේ විශේෂ පරීක්ෂාවක්
-
-*2024-10-25 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202550) · `si`
-
-Batticaloa Court Complex special investigation conducted by police and STF due to potential threat letters received. No suspicious activity found during search. Security measures enhanced and ongoing monitoring.
-
-🟩
-
-මඩකලපුව අධිකරණ සංකීර්ණය ඉලක්ක කරගනිමින් යම් ප්‍රහාරයක් එල්ල විය හැකි බවට ලියාපදිංචි තැපෑලෙන් යොමුකර තිබූ ලිපි දෙකක් පදනම් කරගනිමින්, මඩකලපුව පොලීසිය සහ පොලිස් විශේෂ කාර්ය බලකාය එක්ව අද (25) පෙරවරුවේ එම පරිශ්‍රය විශේෂ සෝදිසි කිරීමකට ලක් කළේය.
-
-කිසියම් පාර්ශ්වයක් අදාළ ලිපි මගින් ඔක්තෝබර් මස 24, 25 හෝ 28 යන දින තුනෙන් එකකදී මඩකලපුව අධිකරණ සංකීර්ණයට යම් ප්‍රහාරයක් එල්ල විය හැකි බවට දැනුම්දීමක් කර තිබේ.
-
-එම ලිපි මඩකලපුව නියෝජ්‍ය පොලිස්පතිවරයාට සහ මඩකලපුව මහේස්ත්‍රාත්වරියට යොමුකර ඇත.
-
-Accordingly, the Batticaloa Police and the STF collateral took steps to investigate the premises this morning.
-
-Police Media Spokesperson DIG PSP lawyer, said Nihal Talduuwa said that there was no suspicion in the premises.
-
-The following letters were referred to the registered post from the Batticaloa Post Office and the investigations were carried out on the party's party.
-
-The security of the Batticaloa court complex has been strengthened and two police teams have been operating in the incident.
-
-◼️
-
-[Data](articles/a4a8bda0.json)
-
-[Extended Data](ext_articles/a4a8bda0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 20:58:30**
+As of **2024-10-26 21:09:44**
 
 ## Newspaper Stats
 
-*Scraped **51,529** Articles*
+*Scraped **51,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ dailymirrorlk | 4,733
 adalk | 4,789
 adaderanalk | 6,102
 tamilmirrorlk | 7,120
-virakesarilk | 8,290
-adaderanasinhalalk | 8,960
+virakesarilk | 8,296
+adaderanasinhalalk | 8,961
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,529 (100.0%) of 51,529 articles have been extended.
+51,529 (100.0%) of 51,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### වැස්සෙන් බාධා වුණු තරගය යළි ඇරඹෙයි
+
+*2024-10-26 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202599) · `si`
+
+ශ්‍රී ලංකාව සහ බටහිර ඉන්දීය කොදෙව් කණ්ඩායම අතර තරගය යළි ආරම්භ කර තිබේ.
+
+වර්ෂාව හේතුවෙන් තරගය එක් කණ්ඩායමටක පන්දුවාර 23කට සීමා කර තිබේ.
+
+◼️
+
+[Data](articles/cf50ea1c.json)
+
+---
 
 ### "We Are An Exemplary Opposition" - Dilith
 
@@ -316,6 +330,68 @@ The EU representatives confirmed the President to expand its market access to Sr
 
 ---
 
+### 'நடன புயல்' பிரபுதேவா நடிக்கும் 'ஜாலி ஓ ஜிம்கானா' பட அப்டேட்
+
+*2024-10-26 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/197185) · `ta`
+
+நடன இயக்குநரும் முன்னணி நட்சத்திர நடிகருமான பிரபுதேவா கதையின் நாயகனாக நடித்திருக்கும் 'ஜாலி ஓ ஜிம்கானா ' எனும் திரைப்படத்தில் இடம்பிடித்த புதிய பாடலையும் பாடலுக்கான காணொளியையும் பட குழுவினர் வெளியிட்டுள்ளனர்.
+
+இயக்குநர் ஷக்தி சிதம்பரம் இயக்கத்தில் உருவாகி இருக்கும் 'ஜாலி ஓ ஜிம்கானா' எனும் திரைப்படத்தில் பிரபுதேவா, மடோனோ செபாஸ்டியன், அபிராமி, யாஷிகா ஆனந்த், யோகி பாபு உள்ளிட்ட பல முன்னணி நட்சத்திர நடிகர்கள் , நடிகைகள் நடித்திருக்கிறார்கள்.
+
+இப்படத்தின் அனைத்து பணிகளும் நிறைவடைந்து வெளியீட்டிற்காக காத்திருக்கிறது. இந்நிலையில் இப்படத்தில் இடம்பெற்ற 'போலீஸ்காரன கட்டிக் கிட்டா' எனத் தொடங்கும் பாடலும் ,பாடலுக்கான காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் ஷக்தி சிதம்பரம் இந்தப் பாடலை எழுத, பின்னணி பாடகியும், நடிகையுமான ஆண்ட்ரியா பாடியிருக்கிறார்.
+
+துள்ளல் இசையாக உருவாகி இருக்கும் இந்த பாடலில் இடம்பெறும் வரிகளும், நடிகர், நடிகைகளின் நடன அசைவுகளும் ரசிகர்களை உற்சாகமடைய செய்திருக்கிறது.
+
+...
+
+[Data](articles/addb629f.json)
+
+---
+
+### இசை ரசிகர்களின் கவனத்தை ஈர்க்கும் 'பாய் பெஸ்டீ இல்லா சிங்கமே..'
+
+*2024-10-26 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/197184) · `ta`
+
+அறிமுக நாயகன் ஹரி பாஸ்கர் கதையின் நாயகனாக நடித்திருக்கும் 'மிஸ்டர் ஹவுஸ் கீப்பிங்' எனும் திரைப்படத்தில் இடம்பெற்ற 'பாய் பெஸ்டீ இல்லா சிங்கமே' எனத் தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோ மற்றும் காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+
+அறிமுக இயக்குநர் அருண் ரவிச்சந்திரன் இயக்கத்தில் உருவாகி இருக்கும் 'மிஸ்டர் ஹவுஸ்கீப்பிங்' எனும் திரைப்படத்தில் ஹரி பாஸ்கர் ,  லொஸ்லியா, இளவரசு, ஷா ரா, ரயான் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+திருமணத்திற்கு முந்தைய உடல் உறவு தொடர்பான விடயத்தை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை இன்வேடு மீடியா மற்றும் ஸ்ரீ தேனாண்டாள் பிலிம்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் என். ராமசாமி மற்றும் நிதின் மனோகர் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+விரைவில் வெளியிட திட்டமிடப்பட்டிருக்கும் இந்த திரைப்படத்தில் இடம் பெற்ற 'பாய் பெஸ்டீ இல்லா சிங்கமே' எனத் தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோ மற்றும் காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+
+இந்த பாடலை பாடலாசிரியர் ரிதுன் சாகர் எழுத, பின்னணி பாடகரும், இசையமைப்பாளருமான ஓஷோ வெங்கட் பாடியிருக்கிறார்.
+
+...
+
+[Data](articles/6f169b9b.json)
+
+---
+
+### சூர்யா - சேதுபதி அறிமுகமாகும் 'பீனிக்ஸ் - வீழான் ' படத்தின் முதல் பாடல் வெளியீடு
+
+*2024-10-26 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197183) · `ta`
+
+'மக்கள் செல்வன்' விஜய் சேதுபதியின் மகனும், நடிகருமான சூர்யா சேதுபதி கதையின் நாயகனாக அறிமுகமாகும் 'பீனிக்ஸ் -வீழான் 'எனும் திரைப்படத்தில் இடம் பெற்ற 'யாராண்ட' எனத் தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+முன்னணி சண்டை பயிற்சி இயக்குநரான அனல் அரசு , திரைப்பட இயக்குநராக அறிமுகமாகும் 'பீனிக்ஸ் வீழான் ' எனும் திரைப்படத்தில் சூர்யா சேதுபதி, வரலட்சுமி சரத்குமார், சம்பத் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+ஆர். வேல்ராஜ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சாம் சி .எஸ் .இசையமைத்திருக்கிறார்.
+
+குத்துச்சண்டை விளையாட்டு தொடர்பான திரைப்படமாக உருவாகும் இதனை ஏ கே பிரேவ்மேன் பிக்சர்ஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் ராஜலட்சுமி அனல் அரசு தயாரித்திருக்கிறார்.
+
+அனைத்து பணிகளும் நிறைவடைந்து வெளியீட்டிற்காக காத்திருக்கும் இந்த திரைப்படத்தில் இடம்பெற்ற :யாராண்ட' எனத் தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+இந்த பாடலை பாடலாசிரியை வித்யா திமேத்திரன் எழுத, பின்னணி பாடகர் சிவம் பாடியிருக்கிறார்.
+
+...
+
+[Data](articles/29b83e35.json)
+
+---
+
 ### CB. Protest against Ratnayake
 
 *2024-10-26 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202590) · `si`
@@ -415,6 +491,22 @@ Mitchell Santnor was able to break 13 wickets in two innings.
 [Data](articles/505ba556.json)
 
 [Extended Data](ext_articles/505ba556.ext.json)
+
+---
+
+### மாத்தளையில் உள்நாட்டுத் துப்பாக்கிகளுடன் இருவர் கைது
+
+*2024-10-26 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197180) · `ta`
+
+மாத்தளை, கலேவெல பொலிஸ் பிரிவுக்குட்பட்ட போகஹயாய பகுதியில் 02 உள்நாட்டுத் துப்பாக்கிகளுடன் இரண்டு சந்தேக நபர்கள் நேற்று வெள்ளிக்கிழமை (25) கலேவெல பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கலேவெல பொலிஸாருக்குக் கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போது இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் இருவரும் மாத்தளை, வஹகோட்டை பிரதேசத்தை சேர்ந்த 40 மற்றும் 53 வயதுடையவர்கள் ஆவர்.
+
+◼️
+
+[Data](articles/e559edff.json)
 
 ---
 
@@ -525,6 +617,36 @@ The Foreign Employment Bureau has said that despite the conflict situation in Is
 [Data](articles/7121bcc8.json)
 
 [Extended Data](ext_articles/7121bcc8.ext.json)
+
+---
+
+### வாதுவையில் சட்டவிரோத மதுபானம், கோடாவுடன் ஒருவர் கைது
+
+*2024-10-26 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197178) · `ta`
+
+களுத்துறை, வாதுவை பொலிஸ் பிரிவுக்கு உட்பட்ட பொத்துப்பிட்டிய பிரதேசத்தில் சட்டவிரோத மதுபானம் மற்றும் கோடாவுடன் இளைஞன் ஒருவன் நேற்று வெள்ளிக்கிழமை (25) கைது செய்யப்பட்டுள்ளதாக வாதுவை பொலிஸார் தெரிவித்தனர்.
+
+வாதுவை பொலிஸாருக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடமிருந்து  31 லீற்றர் (41 போத்தல்கள்) சட்டவிரோத மதுபானம்  மற்றும் 1,950 லீற்றர் (12 பீப்பாய்கள்) கோடா என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b0706e32.json)
+
+---
+
+### பழங்களின் விலை குறைவடைந்தது
+
+*2024-10-26 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197173) · `ta`
+
+அதன்படி, ஒரு கிலோ சர்க்கரை வாழைப்பழம் கிலோ 100 -120 ரூபாவாகவும், கோழிக்கூட்டு வாழைப்பழம் 200 ரூபாவாகவும், புளி வாழைப்பழம் 60  ரூபாவாகவும், அம்புல் வாழைப்பழம் 220 ரூபாவாகவும், ஆணை வாழைப்பழம் 100 ரூபாவாகவும் விற்பனை செய்யப்படுகின்றது.
+
+ஒரு கிலோ தர்பூசணி 100 ரூபாவாகவும், அன்னாசி 450 ரூபாவாகவும், அல்போன்சா மாம்பழம் 1200 ரூபாவாகவும், வெண்ணெய் 1000 ரூபாய்க்கும், பப்பாளி 120 ரூபாய்க்கும், விளாம்பழம்  100 ரூபாய்க்கும் விற்பனை செய்யப்படுகிறது.
+
+◼️
+
+[Data](articles/3e109d5c.json)
 
 ---
 
@@ -2161,127 +2283,5 @@ Amid those developments banking sector counters performed well especially with H
 [Data](articles/ed2ae625.json)
 
 [Extended Data](ext_articles/ed2ae625.ext.json)
-
----
-
-### Doctors without Borders focus on advancing humanitarian medical innovation and research
-
-*2024-10-26 01:13:00* · [`islandlk`](http://island.lk/doctors-without-borders-focus-on-advancing-humanitarian-medical-innovation-and-research/) · `en`
-
-Doctors without Borders – Asia 2024 held at the India Habitat Centre on 25th October, 2024 brought together over 200 researchers, academics, and patient representatives dedicated to advancing humanitarian medical innovation and research.
-
-The conference held in collaboration with Atal Bihari Vajpayee Institute of Medical Sciences and Dr. Ram Manohar Lohia (RML) Hospital featured a series of compelling presentations and discussions that highlighted the need for new solutions to health challenges in conflict-affected and resource-limited settings. This year’s agenda featured compelling discussions across four primary themes: ‘Driving Health Reform’, ‘Antimicrobial Resistance,’ ‘Health Inequities,’ and ‘Human Cost of Violence’.
-
-...
-
-[Data](articles/ce8a76d1.json)
-
-[Extended Data](ext_articles/ce8a76d1.ext.json)
-
----
-
-### SEC and CSE ratchet up investor education campaign
-
-*2024-10-26 01:11:00* · [`islandlk`](http://island.lk/sec-and-cse-ratchet-up-investor-education-campaign/) · `en`
-
-The Securities and Exchange Commission of Sri Lanka (SEC), in collaboration with the Colombo Stock Exchange (CSE), conducted an Investor Forum in Matale on 23rd October 2024 at The Grand Mountain Hotel, Matale. The forum is part of an ongoing effort to raise awareness on investor protection and emphasize the importance of educating the public about the investment opportunities in the stock market.
-
-Attracting over 130 participants, the event provided valuable insights to both potential and existing investors in the Matale region, underscoring the significance of financial literacy and investor education in making informed investment decisions.
-
-The event commenced with an introduction to the basics of investing at the Colombo Stock Exchange. The session, led by Thusitha Meegahakumbura, Branch Manager – Kurunegala, CSE, covered the fundamentals of investing, offering participants an understanding of the process and the benefits of entering the market.
-
-...
-
-[Data](articles/a10a09bd.json)
-
-[Extended Data](ext_articles/a10a09bd.ext.json)
-
----
-
-### Fitch affirms financial strength of HNB Assurance and HNB General Insurance
-
-*2024-10-26 01:10:00* · [`islandlk`](http://island.lk/fitch-affirms-financial-strength-of-hnb-assurance-and-hnb-general-insurance/) · `en`
-
-Fitch Ratings has affirmed the ‘A-(lka)’ National Insurer Financial Strength (IFS) Ratings of Sri Lanka-based life insurer HNB Assurance PLC (HNBA) and its fully owned non-life subsidiary HNB General Insurance Limited (HNBGI).
-
-The affirmation reflects the group’s ‘Favourable’ company profile and satisfactory regulatory capital position, offset by weaker non-life underwriting performance in recent periods. KEY RATING DRIVERS Strong Premium Growth: HNBA and HNBGI both achieved strong gross written premium (GWP) growth in 2023 and 1H24, outpacing industry benchmarks. Life GWP grew by 24% in 1H24 (2023: 23%), exceeding the industry’s growth rate of 17% (2023: 13%) in the same period. Meanwhile, non-life GWP rose by 14% in 1H24 (2023: 18%), while the industry’s grew at 6% in 1H24 (2023: 5%). An expanded agency network and stronger bancassurance partnerships drove the growth of the life segment.
-
-...
-
-[Data](articles/ee9e0b2b.json)
-
-[Extended Data](ext_articles/ee9e0b2b.ext.json)
-
----
-
-### INSEE Cement launches ‘INSEE Nawa Niwasa’ mobile app to simplify construction in Sri Lanka
-
-*2024-10-26 00:59:00* · [`islandlk`](http://island.lk/insee-cement-launches-insee-nawa-niwasa-mobile-app-to-simplify-construction-in-sri-lanka/) · `en`
-
-INSEE Cement has announced the official launch of the INSEE Nawa Niwasa Mobile App, a cutting-edge digital platform designed to transform the construction process and put essential services, materials, and expert guidance directly into the hands of our customers. With this user-friendly app, homeowners, architects, masons, and other stakeholders can now access everything they need for their projects—quickly, efficiently, and confidently—right at their fingertips.
-
-The INSEE Nawa Niwasa App empowers users by connecting them with qualified builders and trusted suppliers of INSEE Cement and premium building materials. The app simplifies project management so that users can tackle their construction challenges with ease, whether they are building a home or overseeing a larger project.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/a7639d8a.json)
-
-[Extended Data](ext_articles/a7639d8a.ext.json)
-
----
-
-### FAO introduces innovative technologies to build resilience in Sri Lanka’s fisheries sector
-
-*2024-10-26 00:59:00* · [`islandlk`](http://island.lk/fao-introduces-innovative-technologies-to-build-resilience-in-sri-lankas-fisheries-sector-2/) · `en`
-
-The Food and Agriculture Organization of the United Nations (FAO), with funding from the government of Norway, has taken a significant step toward enhancing resilience and sustainability in Sri Lanka’s fisheries sector by handing over a multi-day fishing boat equipped with advanced cooling technology and a fuel-saving bulbous bow. This initiative promotes the adoption of new technologies to reduce post-harvest losses, lower operational costs, and improve the quality of fish for both local and export markets.
-
-Sri Lanka’s multi-day fishing vessels, essential for deep-sea fishing, especially in the tuna export industry, often rely on ice to preserve fish during long voyages. However, this practice frequently compromises quality, leading to post-harvest losses. The Fish Loss and Waste (FLW) Assessment conducted by FAO in 2022–2023 found an average quality loss of 41.4% in the catch from Sri Lanka’s multi-day fisheries.
-
-...
-
-[Data](articles/b61188c5.json)
-
-[Extended Data](ext_articles/b61188c5.ext.json)
-
----
-
-### Sri Lanka Insurance Corporation appoints Nusith Kumaratunga as Chairman
-
-*2024-10-26 00:57:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-corporation-appoints-nusith-kumaratunga-as-chairman/) · `en`
-
-Sri Lanka Insurance Corporation (SLIC) is pleased to announce the appointment of Mr. Nusith Kumaratunga as the new Chairman, with effect from 18th of October 2024.  Mr. Kumaratunga assumed official duties on 22nd October 2024. A seasoned professional with extensive experience in finance, management, and entrepreneurship, Mr. Kumaratunga brings a wealth of knowledge and expertise to the leadership of Sri Lanka’s largest and most established insurance provider.
-
-Mr. Kumaratunga is a Fellow Member of the Institute of Chartered Accountants of Sri Lanka, having obtained his membership in 1997. He is also a member of the Institute of Certified Management Accountants of Sri Lanka. In addition, he holds a B.Sc. Special Degree in Estate Management and Valuation from the University of Sri Jayewardenepura.
-
-Fitch affirms financial strength of HNB Assurance and HNB General Insurance
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/a152fad4.json)
-
-[Extended Data](ext_articles/a152fad4.ext.json)
-
----
-
-### State-hood and survival: Tamils, Palestinians and self-determination
-
-*2024-10-26 00:50:21* · [`dailyftlk`](https://www.ft.lk/columns/State-hood-and-survival-Tamils-Palestinians-and-self-determination/4-768427) · `en`
-
-Do Sri Lankan Tamil demands for a separate State or even ‘Eelam’ have the same status and legality within the international system as a Palestinian State?
-
-Ultimately, the relative strengths and legitimacy of Palestinian claims to State-hood vs. Tamil claims to State-hood are based on the balance between the right to self-determination of one group vs. the right to maintain the existing territorial integrity of the other group. An interesting point to note is that in this thought experiment, the Northern Tamils are more analogous to the Jews than to the Palestinians. If this sounds counterintuitive, it is because comparisons of the two projects for State-hood are tenuous, as are attempts to make the rationale for one, a precedent for the other
-
-...
-
-[Data](articles/1387c0b4.json)
-
-[Extended Data](ext_articles/1387c0b4.ext.json)
 
 ---

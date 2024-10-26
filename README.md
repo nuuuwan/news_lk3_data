@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 13:59:00**
+As of **2024-10-26 14:11:45**
 
 ## Newspaper Stats
 
-*Scraped **51,487** Articles*
+*Scraped **51,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,71 @@ adalk | 4,786
 adaderanalk | 6,095
 tamilmirrorlk | 7,113
 virakesarilk | 8,287
-adaderanasinhalalk | 8,940
+adaderanasinhalalk | 8,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,487 (100.0%) of 51,487 articles have been extended.
+51,488 (100.0%) of 51,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### මත ගැටුම් ගැන යන කටකතාවලට හරිනි දුන් පිළිතුර
+
+*2024-10-26 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202578) · `si`
+
+තමා සහ ජනාධිපතිවරයා අතර මත ගැටුමක් ඇති බවට අසත්‍ය පුවත් ප්‍රචාරය කිරීමට ඇතැමුන් උත්සාහ ගනිමින් සිටින බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
+
+අත්තිඩිය ප්‍රදේශයේ පැවති ජන හමුවකට එක්වෙමින් අගමැතිනිය ඒ බව පැවසුවාය.
+
+ජාතික ජන බලවේගය මහ මැතිවරණය ඉලක්ක කරගනිමින් සංවිධාන කළ ජන හමුවක් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරියගේ ප්‍රධානත්වයෙන් අත්තඩියේදී ඊයේ පැවැත්වුණි.
+
+"මේ දවස්වල සුදුරුදු පරිදි බොරු කියන්නත් කතා මවන්නත් හරිම දක්ෂයි. අනුර සහෝදරයයි මමයි ෆුල් ෆයිට් එකේ කියලා දැන් කියනවා නේ. අපි දැන් කතා කරන්නේ නැහැලු. කවදද ඔය බොරුව එපා වෙන්නේ. මට ඕන එක්කෙනා නෙමෙයි ලු තේරුවේ... මට තරහ ගියාලු...අනුර සහෝදරයා එක්ක රණ්ඩු වුණා ලු. අනුර සහෝදරයා එයාට ඕන එක්කෙනා පත් කළාලු. අපි මේ තීරණ ගන්න කාමරවල ඒ අය හිටියා වගේ කියන්නේ. ඒක ඒ අයගේ බලාපොරොත්තුව වෙන්න පුළුවන්. හැබැයි ඒක නෙමෙයි ඇත්ත. අපි තීරණ ගන්නේ එකතුවෙලා. සාකච්ඡා කරලා. පවු ඇත්තටම පවු. අපි අතර තරගයක් නැහැ."
+
+◼️
+
+[Data](articles/11242aad.json)
+
+---
+
+### කාසියේ වාසිය කොදෙව්වන්ට
+
+*2024-10-26 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202577) · `si`
+
+ශ්‍රී ලංකාව හා බ.ඉ. කොදෙව් කණ්ඩායම අතර අද (26) පැවැත්වෙන තෙවැනි හා අවසන් එක්දින තරගයේ කාසියේ වාසිය දිනූ බ.ඉ. කොදෙව් කණ්ඩායම පළමුව පන්දු යැවීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/2e710260.json)
+
+---
+
+### Punchi son killed at home
+
+*2024-10-26 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202575) · `si`
+
+Child electrocuted while playing, identified as grade 1 student from Attanagalla area. Parents away when incident occurred. Child rushed to hospital but succumbed to injuries.
+
+🟩
+
+A child about six years old was electrocution, playing in Attanagalla, Attanagalla area.
+
+The deceased has been identified as a grade 1 student who was living in the Attanagalla area.
+
+The accident had occurred last afternoon and that the dead child was a regularly lonely child to play and playing electrical toys.
+
+When the child was electrification, the mother and father had been engaged in another bus and the child had been admitted to the Waterpiti Base Hospital.
+
+◼️
+
+[Data](articles/a50cafbd.json)
+
+[Extended Data](ext_articles/a50cafbd.ext.json)
+
+---
 
 ### We can't buy our opposition to money - Dilith
 
@@ -2243,75 +2297,5 @@ Three more suspects have been arrested by the Yakkalai police in Nungamuwa and P
 [Data](articles/8f6ad681.json)
 
 [Extended Data](ext_articles/8f6ad681.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 293.60/70 to dollar, bond yields steady
-
-*2024-10-25 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-293-60-70-to-dollar-bond-yields-steady-184938/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed broadly flat at 293.60/70 to the US dollar Friday from 293.78/82 a day earlier, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2027 closed at 11.50/60 percent, up from 11.50/55 percent.
-
-A bond maturing on 15.03.2028 closed at 11.75/85 percent, up from 11.75/80 percent.
-
-A bond maturing on 15.06.2029 closed at 12.00/10 percent up from 11.95/12.10 percent.
-
-The central bank announced 12,500 million Treasury Bonds will be issued through an auction on October 28, Monday. (Colombo/Oct25/2024)
-
-◼️
-
-[Data](articles/98e914d5.json)
-
-[Extended Data](ext_articles/98e914d5.ext.json)
-
----
-
-### Arughambe Incident - In the detainees detention
-
-*2024-10-25 17:13:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-சம்பவம்-கைதானவர்கள்-தடுப்பு-காவலில்/175-346053) · `ta`
-
-Here's a 200-character summary of the Arughambe Incident:
-
-
-
-Israelis planned attack on Israeli prisons. Suspects arrested under police preventive custody order. Three suspects detained by Counter-Terrorism Investigation Division.
-
-🟩
-
-இந்நாட்டில் உள்ள இஸ்ரேலிய பிரஜைகளை இலக்கு வைத்து தாக்குதல் நடத்த திட்டமிட்ட சம்பவம் தொடர்பில் கைது செய்யப்பட்ட சந்தேக நபர்களை தடுத்து வைத்து விசாரணை செய்வதற்கு பொலிஸார் தடுப்பு காவல் உத்தரவினை பெற்றுள்ளனர்.
-
-சம்பவம் தொடர்பில் சந்தேகத்தின் பேரில் மூவர் பயங்கரவாத விசாரணை பிரிவினரால் கைது செய்யப்பட்டுள்ளமைகுறிப்பிடத்தக்கது. Remble
-
-◼️
-
-[Data](articles/0bcbc5c4.json)
-
-[Extended Data](ext_articles/0bcbc5c4.ext.json)
-
----
-
-### அறுகம்பே சம்பவம்: மூவருக்கும் தடுப்பு காவல்
-
-*2024-10-25 17:13:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-சம்பவம்-மூவருக்கும்-தடுப்பு-காவல்/175-346053) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Israelis targeted, attack planned. Police arrest suspects under preventive detention order for investigation.
-
-🟩
-
-இந்நாட்டில் உள்ள இஸ்ரேலிய பிரஜைகளை இலக்கு வைத்து தாக்குதல் நடத்த திட்டமிட்ட சம்பவம் தொடர்பில் கைது செய்யப்பட்ட சந்தேக நபர்களை தடுத்து வைத்து விசாரணை செய்வதற்கு பொலிஸார் தடுப்பு காவல் உத்தரவினை பெற்றுள்ளனர்.
-
-Three suspects have been arrested by the terrorist unit on suspicion. R
-
-◼️
-
-[Data](articles/f92ba068.json)
-
-[Extended Data](ext_articles/f92ba068.ext.json)
 
 ---

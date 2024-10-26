@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 10:24:06**
+As of **2024-10-26 10:39:40**
 
 ## Newspaper Stats
 
-*Scraped **51,463** Articles*
+*Scraped **51,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,786
 adaderanalk | 6,092
-tamilmirrorlk | 7,107
+tamilmirrorlk | 7,108
 virakesarilk | 8,278
 adaderanasinhalalk | 8,935
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,463 (100.0%) of 51,463 articles have been extended.
+51,464 (100.0%) of 51,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Delayed ballot distribution today
+
+*2024-10-26 10:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமதமான-வாக்குச்சீட்டு-விநியோகம்-இன்று-ஆரம்பம்/175-346069) · `ta`
+
+Postal ballots distributed today. Colombo, Vanni districts. Legal issues resolved. 738,002 postal voters eligible for 2024 election.
+
+🟩
+
+The Postal Department said that the distribution of secured packages containing official postal ballot from Colombo and Vanni districts will be launched today (26).
+
+The Distribution of Colombo and Vanni District Bonds, which had been suspended due to legal proceedings, was handed over to the election officials of the particular districts yesterday, the Election Commission said.
+
+கொழும்பு மற்றும் வன்னி மாவட்டங்களுக்கான தபால் மூல வாக்களிப்பு ஒக்டோபர் 30, நவம்பர் 1 மற்றும் நவம்பர் 4ஆம் திகதிகளில் இடம்பெறும் என, தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்துள்ளார்.
+
+Meanwhile, the Elections Commission has announced that 738,002 postal voters are eligible to vote for the 2024 general election.
+
+◼️
+
+[Data](articles/44f28867.json)
+
+[Extended Data](ext_articles/44f28867.ext.json)
+
+---
 
 ### Israeli military announcement on the attack
 
@@ -2299,31 +2323,5 @@ Railway workers receive free permits for travel between home and work locations.
 [Data](articles/854040e1.json)
 
 [Extended Data](ext_articles/854040e1.ext.json)
-
----
-
-### Sri Lanka has to travel long distances before going on the path of strong and stable recovery - International Monetary Fund
-
-*2024-10-25 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197094) · `ta`
-
-Sri Lanka faces challenges in achieving strong, stable recovery. IMF Director Krishna Srinivasan notes progress but emphasizes need for further reform efforts and loan compliance. The new government prioritizes protecting vulnerable sectors. Long-term stability remains uncertain.
-
-🟩
-
-Krishna Srinivasan, Director of the Department of Asia, said that Sri Lanka has to travel long before going on the path of a strong and stable recovery.
-
-There is currently a widespread concept, and the unanimous concept is found. Sri Lanka has traveled a long way in carrying out the reforms found in Adalabadam in 2022, and has some successful success. All of you know it.
-
-The new government has issued a dedication that the most severely striking expanses will be protected.
-
-The next step is to reach the official compliance with all loans.
-
-You have to go a long way before you go on the path of a strong and stable recovery.
-
-◼️
-
-[Data](articles/31b98c3d.json)
-
-[Extended Data](ext_articles/31b98c3d.ext.json)
 
 ---

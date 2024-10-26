@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 18:59:05**
+As of **2024-10-26 19:10:02**
 
 ## Newspaper Stats
 
-*Scraped **51,522** Articles*
+*Scraped **51,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,142
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,789
-adaderanalk | 6,101
+adaderanalk | 6,102
 tamilmirrorlk | 7,120
 virakesarilk | 8,290
 adaderanasinhalalk | 8,954
@@ -26,31 +26,55 @@ adaderanasinhalalk | 8,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,521 (100.0%) of 51,522 articles have been extended.
+51,522 (100.0%) of 51,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
 
-### ඉදිරි පැය 36 ගැන අනතුරු ඇඟවීමක්
+### A warning about the next 36 hours
 
 *2024-10-26 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202592) · `si`
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් ඉදිරි පැය 36 සඳහා වලංගු වන පරිදි නවතම කාලගුණ අනාවැකියක් නිකුත් කර තිබේ.
+Weather alert: Showers/thundershowers expected in Western, Sabaragamuwa, and North Western provinces. Heavy rain possible. Thunderstorms may cause strong winds and lightning. Public advised to take precautions.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර සහ මන්නාරම දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+🟩
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology has issued a new weather forecast, which is valid for the next 36 hours.
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in the Western, Sabaragamuwa and Northwestern provinces.
 
-උතුරු, උතුරුමැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී 40ක පමණ තද සුළං ඇතිවිය හැකි බව එහි සඳහන් වෙයි.
+MM to some places in the Western, Sabaragamuwa and North Western Provinces. Heavy rains can occur at more than 75, the Met Department said.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Thundershowers will develop at several places in the evening or night during the evening or night.
+
+There will be about 40 hours in the North, North Central and North Western provinces, in Trincomalee and Hambantota districts.
+
+The Department of Meteorological Department requests the public to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
 
 ◼️
 
 [Data](articles/73e00e53.json)
+
+[Extended Data](ext_articles/73e00e53.ext.json)
+
+---
+
+### Candidate’s wife assaulted during election canvassing in Pannipitiya
+
+*2024-10-26 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102945/candidates-wife-assaulted-during-election-canvassing-in-pannipitiya) · `en`
+
+Kanthi Kodikara, the wife of parliamentary candidate Upali Kodikara, has reportedly been attacked in Pannipitiya while she was distributing election campaign leaflets.
+
+The incident occurred as Mrs. Kodikara was participating in her husband’s election campaigning activities, going door-to-door to engage with local residents.
+
+Following the attack, she has been admitted to Sri Jayawardenepura Hospital for treatment.
+
+Maharagama Police have since arrested the individual responsible for the assault, and further investigations are underway.
+
+◼️
+
+[Data](articles/f2e9fe1f.json)
 
 ---
 
@@ -2215,33 +2239,5 @@ Therefore, the Department of Meteorology has instructed the seas not to re -noti
 [Data](articles/27c79de0.json)
 
 [Extended Data](ext_articles/27c79de0.ext.json)
-
----
-
-### President meets Iran's ambassador
-
-*2024-10-25 23:16:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-தூதுவருடன்-ஜனாதிபதி-சந்திப்பு/175-346060) · `ta`
-
-Sri Lanka's President Anurakumara Dissanayake met Iran's Ambassador Dr. Alresha Delgosh at the Presidential Office. The President congratulated Iran's leader and discussed security measures, tourism safety, and economic/political conditions. He emphasized strengthening bilateral ties in various sectors. The Iranian envoy pledged support for Sri Lanka in areas like trade, technology, culture, and education.
-
-🟩
-
-Iranian Ambassador Dr. Alresha Delgosh met with President Anurakumara Dissanayake today at the Presidential Office.
-
-Honoring the victory of the presidential election, President Anurakumara Dissanayake also handed over a special congratulations to Iran's President Masood Besashkian.
-
-The President also explained the current security arrangements in Sri Lanka on the current economic and political conditions.
-
-The President said that arrangements have been made to ensure the safety of tourists and the general public to Sri Lanka and to ensure the safe environment within the country.
-
-President Anura Kumara Dissanayake pointed out that the long -term bilateral links between Sri Lanka and Iran were recalled and that his aim was to strengthen Iran and Sri Lanka through many sectors.
-
-Iran's Ambassador, who made favorable answers to it, promised to provide assistance to Sri Lanka for new programs in the sectors including trade, technology, culture and education.. (A)
-
-◼️
-
-[Data](articles/4388fd63.json)
-
-[Extended Data](ext_articles/4388fd63.ext.json)
 
 ---

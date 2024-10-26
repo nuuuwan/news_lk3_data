@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 10:12:21**
+As of **2024-10-26 10:24:06**
 
 ## Newspaper Stats
 
-*Scraped **51,461** Articles*
+*Scraped **51,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,786
 adaderanalk | 6,092
-tamilmirrorlk | 7,105
+tamilmirrorlk | 7,107
 virakesarilk | 8,278
 adaderanasinhalalk | 8,935
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 8,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,461 (100.0%) of 51,461 articles have been extended.
+51,463 (100.0%) of 51,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Israeli military announcement on the attack
+
+*2024-10-26 10:08:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாக்குதல்-குறித்து-இஸ்ரேல்-இராணுவம்-வெளியிட்ட-அறிவிப்பு/50-346068) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Israel claims air strikes hit Iranian targets. Tehran airspace closed. Attacks reported in Tehran, Khuzestan, Ilam. Iran denies damage at oil refinery."
+
+🟩
+
+The Israeli military claims that the military targets in Iran have been completed by air strikes on certain targets.
+
+Moreover, Israel and Iran have closed their airspace following the Israeli military attack on Iran's Tehran.
+
+The Israeli military has reportedly carried out attacks on Iranian military targets in response to Iran's attacks for several months.
+
+Israel is reported to have attacked military targets in Tehran, Kuusestan and Ilam provinces.
+
+However, Iran's local media has reported that there has been no fire or explosion at the oil refinery south of Tehran.. Remble
+
+◼️
+
+[Data](articles/d3588cf2.json)
+
+[Extended Data](ext_articles/d3588cf2.ext.json)
+
+---
+
+### Car recovery in Maharagama
+
+*2024-10-26 09:56:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹரகமயில்-கைவிடப்பட்ட-நிலையில்-கார்-மீட்பு/175-346067) · `ta`
+
+Car recovery in Maharagama: A sticker-covered vehicle was found abandoned near a garment shop. It was recovered after the Maharagama Trade Union received information about its location.
+
+🟩
+
+Maharagama police said that a sticker car pasted by a human rights organization was abandoned in front of a garment shop on Parana Road, Maharagama.
+
+The vehicle has been recovered following information provided to the Maharagama Trade Union. (That)
+
+◼️
+
+[Data](articles/b98dd1c7.json)
+
+[Extended Data](ext_articles/b98dd1c7.ext.json)
+
+---
 
 ### After wave of airstrikes, Israel says its retaliation against Iran is complete
 
@@ -2275,49 +2325,5 @@ You have to go a long way before you go on the path of a strong and stable recov
 [Data](articles/31b98c3d.json)
 
 [Extended Data](ext_articles/31b98c3d.ext.json)
-
----
-
-### Students who cleaned the rectum
-
-*2024-10-25 15:25:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலசலகூடத்தை-சுத்தம்-செய்த-மாணவர்கள்-வைத்தியசாலையில்-அனுமதி/175-346047) · `ta`
-
-17 students hospitalized after cleaning school toilets with chemical fluid in Balangoda. Incident occurred today.
-
-🟩
-
-An incident where students who cleaned the school's rectum have taken place today in the Balangoda area.
-
-Seventeen students were sick and they were admitted to the Balangoda Primary Hospital, police said.
-
-The incident took place at a school in Balangoda, police said that the students were cleaning the toilets using some kind of chemical fluid and admitted to the hospital due to fainting.. Those
-
-◼️
-
-[Data](articles/14f1c1b8.json)
-
-[Extended Data](ext_articles/14f1c1b8.ext.json)
-
----
-
-### Sewed students
-
-*2024-10-25 15:25:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலசலகூடத்தில்-மயங்கிய-மாணவர்கள்/175-346047) · `ta`
-
-Students cleaning toilets with chemical fluid caused illness in Balangoda. 17 hospitalized after fainting. Incident occurred at local school.
-
-🟩
-
-An incident where students who cleaned the school's rectum have taken place today in the Balangoda area.
-
-Seventeen students were sick and they were admitted to the Balangoda Primary Hospital, police said.
-
-The incident took place at a school in Balangoda, police said that the students were cleaning the toilets using some kind of chemical fluid and admitted to the hospital due to fainting.. Those
-
-◼️
-
-[Data](articles/7299a8da.json)
-
-[Extended Data](ext_articles/7299a8da.ext.json)
 
 ---

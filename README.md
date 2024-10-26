@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 22:39:42**
+As of **2024-10-26 22:57:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,962
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,537 (100.0%) of 51,538 articles have been extended.
+51,538 (100.0%) of 51,538 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Following the airstrikes, Iran’s Foreign Ministry said it had a right to self-
 ...
 
 [Data](articles/a7417c9a.json)
+
+[Extended Data](ext_articles/a7417c9a.ext.json)
 
 ---
 

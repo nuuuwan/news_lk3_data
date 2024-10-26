@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 22:12:58**
+As of **2024-10-26 22:24:08**
 
 ## Newspaper Stats
 
-*Scraped **51,536** Articles*
+*Scraped **51,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adalk | 4,789
 adaderanalk | 6,102
 tamilmirrorlk | 7,120
 virakesarilk | 8,296
-adaderanasinhalalk | 8,961
+adaderanasinhalalk | 8,962
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,536 (100.0%) of 51,536 articles have been extended.
+51,537 (100.0%) of 51,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Another revelation of endless online racket
+
+*2024-10-26 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202600) · `si`
+
+Online scams continue in Sri Lanka. CID investigates fraudulent internet banking activities. Scammers use social media and fake relationships to steal money. Organized groups target middle-aged adults and prominent figures. Despite reports, public remains vulnerable to these schemes.
+
+🟩
+
+The racketeering is still underway in the country.
+
+Recently, information was reported recently on the recently large-scale people's money robbery.
+
+Sri Lankans who have carried out various functions of the country and robbed the money online were taken into custody.
+
+The Criminal Investigations Department (CID) has detected the password fraudulently obtaining the ortp of direct conductations in the Internet Banking transactions as well as another major strategy.
+
+As one way, the identifying money to invest in social media and telephone calls, including Facebook, will invest money.
+
+In addition, it is another trick of the organized group to create false romantic relations with the medium-age and adults identified through social media.
+
+It is also reported on traffickers who are receiving money to various projects, highlighting as well as famous characters in society.
+
+No matter how much information regarding such rackets are reported, the people are constantly the ridiculent groups.
+
+◼️
+
+[Data](articles/fa1d4bac.json)
+
+[Extended Data](ext_articles/fa1d4bac.ext.json)
+
+---
 
 ### The race interrupted with rain
 
@@ -2323,21 +2355,5 @@ These included entrepreneurship development programs, training programs on digit
 [Data](articles/da35bc54.json)
 
 [Extended Data](ext_articles/da35bc54.ext.json)
-
----
-
-### Stock market ends the week with a bullish run
-
-*2024-10-26 01:14:00* · [`islandlk`](http://island.lk/stock-market-ends-the-week-with-a-bullish-run/) · `en`
-
-The stock market yesterday witnessed a significant performance due to satisfactory participation level of both institutional and retail market investors due to conducive market situation in the external and internal environment, market analysts said.
-
-Amid those developments banking sector counters performed well especially with HNB. Therefore, both indices moved upwards. All Share Price Index up by 57.59 points while S and P SL20 up by 44.05 points. Turnover stood at Rs 4.7 billion with five crossings.
-
-...
-
-[Data](articles/ed2ae625.json)
-
-[Extended Data](ext_articles/ed2ae625.ext.json)
 
 ---

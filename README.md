@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 20:39:46**
+As of **2024-10-26 20:58:30**
 
 ## Newspaper Stats
 
@@ -26,49 +26,63 @@ adaderanasinhalalk | 8,960
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,527 (100.0%) of 51,529 articles have been extended.
+51,529 (100.0%) of 51,529 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
 
-### "අපි ආදර්ශමත් විපක්ෂයක්" - දිලිත්
+### "We Are An Exemplary Opposition" - Dilith
 
 *2024-10-26 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202598) · `si`
 
-ආදර්ශමත් විපක්ෂයක් ලෙස හැසිරෙමින් ජනතාව අපේක්ෂා කරන ප්‍රබුද්ධ දේශපාලන සංස්කෘතිය පාර්ලිමේන්තුව තුළ ස්ථාපිත කරන බව සර්වජන බලයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera emphasizes establishing an exemplary opposition in Parliament to foster political enlightenment. He highlights the importance of listening to citizens' concerns and implementing strategic programs. Jayaweera urges voters to support the opposition, promising better governance over the next five years.
 
-සර්වජන බලයේ දිවුලපිටිය ආසන බලමණ්ඩල රැස්වීමට අද (26) දහවල් එක්වෙමින් ඔහු මේ බව පැවසීය.
+🟩
 
-"මේ දේශපාලනය... අතීතයේ පැවතුනේ මිනිසුන්ගෙන් කන්න නෙමෙයි... මිනිස්සුන්ට දෙන්න. දැන් මොකක්ද මෑත අතීතයේ වුණේ? පහුගිය දශක දෙකක තුනක කාලේ අහිංසක මිනිස්සු මෙහෙම ගෙනල්ලා දේශන පතබාලා මේ මිනිස්සුන්ගේ වෙලාවත් නාස්ති කරලා මෙන්න පාර්ලිමේන්තු යනවා... බයිසිකලෙන් ආපු මිනිහා V8 එකෙන් එනවා."
+Dilith Entrepreneur Entrepreneurship Dilith Jayaweera says that the enlightened political culture is being established as an exemplary opposition is established in Parliament.
 
-"මේ ඓතිහාසික ඡන්දයක්... අපි ජනතාවගෙන් ඉල්ලා සිටින්නේ මෙවර තමයි ලංකාවේ විශාලතම විපක්ෂය. 68%ක් ඡන්දය දෙන්න තීරණය කරලා තියන්නේ විපක්ෂයට. ඇයි ඔවුන්ට දුන්නේ 43%යි. ඉතුරු ටික ඔහුට විරුද්ධව දුන්නා. තවත් කොටසක් ගෙදර හිටියා. මේ ටික එකතු කළාම 68%ක්. එතකොට මේ 68% නියෝජනය කරන්නටයි එඩිතර විපක්ෂය අවශ්‍ය."
+He was speaking at a meeting of the Divulapitiya electorate in the Norrological Pooja today (26).
+
+"This is politics.. In the past, not to eat people.. Give people to people. What was the recent past now?Here is the parliament to bring the names of these people's time to the people of the innocent two decades three decades.. The man's man coming from the V8. "
+
+"This historical vote is. We urge the people this time the largest opposition in Sri Lanka. 68% has decided to vote for the opposition. Why gave them 43%. The rest against him. Another part was at home. 68% when this was added. Then the 68% will need hearing. "
 
 ...
 
 [Data](articles/8773d2ef.json)
 
+[Extended Data](ext_articles/8773d2ef.ext.json)
+
 ---
 
-### ලොහාන්ගේ බිරිඳට අයත් නිවසක අංක තහඩු නැති මෝටර් රථයක්
+### A car without number plates in a house belonging to Lohan's wife
 
 *2024-10-26 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202597) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතාගේ බිරිඳට අයත් නිවසක තිබී ලියාපදිංචි අංක තහඩු නොමැති මෝටර් රථයක් අද (26) සොයා ගැණුනි.
+Car without plates found in ex-minister's wife's home. Former Minister Lohan Ratwatte claims it belonged to him. Police investigation ongoing.
 
-හිටපු රාජ්‍ය අමාත්‍යවරයා සහ බිරිඳ පොලීසියට සාක්ෂි දී ඇත්තේ, අදාළ රථය නිවසේ ගරාජයට ගෙනැවිත් දැමුවේ මීට දින කිහිපයකට පෙර මියගිය සිය පෞද්ගලික ලේකම්වරයා බවය.
+🟩
 
-හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්ත මහතාගේ බිරිඳ වන ශෂී ප්‍රභා රත්වත්තේ මහත්මියට අයත් මිරිහාන ඇඹුල්දෙණිය ශාලාව පාරේ තෙමහල් නිවසක අංක තහඩු නොමැති සුඛෝපභෝගී මෝටර් රථයක් ඇති බවට පොලිස් මූලස්ථානයට තොරතුරක් ලැබී තිබුණි.
+A car without registration number plates was found today in a house belonging to the wife of former Minister of State Lhan Ratwatte.
 
-ඒ අනුව මිරිහාන පොලීසිය නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණයට කරුණු වාර්තා කර අදාළ නිවසට ගොස් එම රථය පරීක්ෂා කරනු ලැබීය.
+The former State Minister and his wife have witnessed to the police that the vehicle was brought to the house of the house and had died a few days ago.
 
-ඒ පිළිබඳව හිටපු අමාත්‍යවරයාගෙන් සහ ඔහුගේ බිරිඳගෙන් පොලීසිය ප්‍රකාශයක්ද ලබාගෙන තිබේ.
+Former State Minister Lohan Ratwatte's wife Shashhi Prabha Ratwatte, the wife of Shahi Prabha Ratwatte, had received information on the police headquarters.
 
-ඊට අනුව හිටපු අමාත්‍යවරයාගේ බිරිඳගේ මව අදාළ නිවසේ පදිංචිව සිටින අතර මීට දින කිහිපයකට පෙර මහනුවර කටුගස්තොට ප්‍රදේශයේදී වෙඩි වැදීමකින් ජීවිතක්ෂයට පත්වූ රත්වත්තේ මහතාගේ පෞද්ගලික ලේකම්වරයා සති 3කට පෙර අදාළ රථය සිය නිවෙසේ ගරාජයට ගෙනවිත් දැමූ බව ඔවුන් ලබාදුන් ප්‍රකාශයේ සඳහන්ය.
+Accordingly, Mirihana Police were reported to the Nugegoda Magistrate's Court and visited the vehicle.
+
+The police have also received a statement from the former minister and his wife.
+
+According to the statement that Mr. Ratwatte, who was shot dead in Katugastota in Kandy and was a few weeks ago in Katugastota in Kandy, stated that the vehicle was brought to the house of the house three weeks ago.
+
+The luxury car without registration number plates and the keys have been taken to the Mirihana Police today.
 
 ...
 
 [Data](articles/09b368e7.json)
+
+[Extended Data](ext_articles/09b368e7.ext.json)
 
 ---
 

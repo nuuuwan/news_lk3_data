@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 10:39:40**
+As of **2024-10-26 10:58:07**
 
 ## Newspaper Stats
 
-*Scraped **51,464** Articles*
+*Scraped **51,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,107 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,786
 adaderanalk | 6,092
-tamilmirrorlk | 7,108
+tamilmirrorlk | 7,110
 virakesarilk | 8,278
-adaderanasinhalalk | 8,935
+adaderanasinhalalk | 8,936
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,464 (100.0%) of 51,464 articles have been extended.
+51,467 (100.0%) of 51,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Sri Lanka to contest for honorurs win
+
+*2024-10-26 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202569) · `si`
+
+Sri Lanka leads West Indies 2-0 in ODI series. Today's match crucial for winning the 6th bilateral series. If Sri Lanka wins, it would be their 4th victory over West Indies in full series.
+
+🟩
+
+Sri Lanka and Tourism. The West Indies will play the third and final ODI cricket match today (26).
+
+The Sri Lankan team is now full of winners with both the first matches between the two countries.
+
+1975 වසරේ සිට ජාත්‍යන්තර එක්දින ක්‍රිකට් පිටියේ හමුවන ශ්‍රී ලංකාව හා කොදෙව් කණ්ඩායම් අද සිය 67 වැනි එක්දින තරගයට ක්‍රීඩා කිරීමට නියමිතව ඇත.
+
+Sri Lanka has won 32 matches and 31st teams have been won.. West Indies win. Only 3 matches have ended without solution.
+
+However, Sri Lanka is the most victories of the matches held in Sri Lanka.
+
+When Sri Lanka won 14 matches in Sri Lanka, the West Indies have won only 3 matches.
+
+Sri Lanka and Buddhism. The 10th Bilateral ODI series will be held between the West Indies.
+
+Sri Lanka has won five tournaments and West Indies won 3 tournaments. Only one tournament has been ended without the Jayatakera.
+
+...
+
+[Data](articles/d74b3287.json)
+
+[Extended Data](ext_articles/d74b3287.ext.json)
+
+---
+
+### The main notice of the Foreign Employment Bureau
+
+*2024-10-26 10:30:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-வேலைவாய்ப்பு-பணியகத்தின்-முக்கிய-அறிவிப்பு/175-346071) · `ta`
+
+Sri Lanka SLBFE warns against money laundering in South Korea's E-8 visa program. No official agreement for short-term jobs yet. Job seekers advised to report scams via hotline 1989.
+
+🟩
+
+The Sri Lanka Bureau of Foreign Employment (SLBFE) has reported that the money laundering has been issued under the E-8 visa section of South Korea.
+
+South Korea and Sri Lanka have to signed a contract to find short -term jobs in South Korea, but no such agreement has been reached so far, its additional general manager Gamini Senarath Yapa said.
+
+He added that if it is necessary to send workers for short -term jobs, the provincial councils of Sri Lanka should make appropriate agreements with the South Korean states.
+
+Under the E-8 Visa section, the Sri Lanka Foreign Employment Bureau advises job seekers to avoid paying money to any person or company to get jobs in South Korea, and to inform them of special inquiries if they know information about money fraudsters.
+
+For this, the Corporation of the Bureau or Hotline No. 1989 has been given. (That)
+
+◼️
+
+[Data](articles/abf6549e.json)
+
+[Extended Data](ext_articles/abf6549e.ext.json)
+
+---
+
+### Elections of Elpitiya Pradeshiya Sabha:
+
+*2024-10-26 10:21:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டிய-பிரதேச-சபை-தேர்தல்-நோட்டமிடும்-கண்காணிப்பாளர்கள்/175-346070) · `ta`
+
+Elpitiya Pradeshiya Sabha election: 48 monitors oversee voting for 55,000 eligible voters across 48 polling stations. 28 seats contested by 8 parties and 279 independent candidates. Voting runs from 7am to 4pm. Election Commission marks voters' left thumbs to prevent confusion.
+
+🟩
+
+As the Elpitiya Pradeshiya Sabha elections are being held today (26), many election monitors are overseeing.
+
+Rohana Hettiarachchi, Executive Director of the People's Organization for Independent and Fair Elections, said that 48 election monitors have been involved in monitoring today's election.
+
+Meanwhile, Manas McCin, Managing Director of the CAFFE campaign (CAFFE), said that 10 more monitors representing CAFFE have been sent for this purpose.
+
+About 55,000 voters are eligible to vote in 48 polling stations under the Elpitiya Pradeshiya Sabha.
+
+Of the 28 representative seats of the Elpitiya Pradeshiya Sabha, eight political parties and 279 candidates from the Independent Committee will contest.
+
+Voting for the Elpitiya Pradeshiya Sabha election will be held from 7 am to 4 pm today, Galle District Election Officer WA Dharmasiri said.
+
+He also assured that plans to solve them in the event of any emergency circumstances.
+
+...
+
+[Data](articles/768550f4.json)
+
+[Extended Data](ext_articles/768550f4.ext.json)
+
+---
 
 ### Delayed ballot distribution today
 
@@ -2247,81 +2335,5 @@ In 2016, he was sentenced to four years in prison by Gnanasara Thera.
 [Data](articles/43b4cb17.json)
 
 [Extended Data](ext_articles/43b4cb17.ext.json)
-
----
-
-### Indian businessman Ratan Tata has written property
-
-*2024-10-25 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197093) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Ratan Tata, 86, former Tata Sons president, left property to foster dogs & staff. Unusual in India, common in West. Willed assets to lifelong care of Tito, his German Shepherd. Also gifted to long-time employees & assistant. Awards to future generations.
-
-🟩
-
-Indian businessman Ratan Tata passed away at the age of 86. He is a former president of Tata Sons, the mother of Tata Group.
-
-He has millions of property in person. Ratan Tata will always be with foster dogs. The foster dogs are for him alive. He raised a dog named Tito from the German category in his home. Before he died, he had written property to his foster dog.
-
-Writing property for dogs in Western countries is nothing new. But in India, it is very rare to write property. Ratan Tata has written property to everyone who has been with him till the end.
-
-Tito adopted a foster dog 6 years ago. Ratan Tata had a different dog in the same name. Following the death of the dog, the newly adopted dog raised the same name. He has written property to maintain this tito for a lifetime.
-
-...
-
-[Data](articles/23e8ead3.json)
-
-[Extended Data](ext_articles/23e8ead3.ext.json)
-
----
-
-### President - South African High Commission
-
-*2024-10-25 15:37:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தென்னாபிரிக்க-உயர்ஸ்தானிகர்-சந்திப்பு/175-346048) · `ta`
-
-Meeting between President Anura Kumara Dissanayake and South African High Commissioner Sandile Edwin Schalk discussed Sri Lanka's security, tourist safety, elephant-human conflict, and international trade cooperation.
-
-🟩
-
-A meeting between President Anura Kumara Dissanayake and South African High Commissioner Sandile Edwin Schalk was held this morning at the Presidential Office.
-
-South African President Cyril Ramaphosa handed over the message to the President for the success of President Anura Kumara Dissanayake and held a discussion with the president.
-
-President Anura Kumara Dissanayake said that the current security of Sri Lanka has been paid special attention and the security of tourists and citizens who have come to Sri Lanka have already been confirmed.
-
-In addition, Sri Lanka's elephant -human conflict was also concerned with the cooperation of South Africa to find a solution to the human conflict.
-
-The High Commissioner also assured that the peace and national restructuring process in South Asia would be cooperated in Sri Lanka in Sri Lanka.
-
-...
-
-[Data](articles/c89d1555.json)
-
-[Extended Data](ext_articles/c89d1555.ext.json)
-
----
-
-### Free permit to railway employees
-
-*2024-10-25 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202548) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Railway workers receive free permits for travel between home and work locations. Transport Minister Vijith Herath instructed relevant authorities to provide this service.
-
-🟩
-
-ඒ අනුව දුම්රිය සේවකයින් හට තම නිවාසය සහ සේවා ස්ථානය අතර ගමන් කිරීම සඳහා නිදහස් දුම්රිය අවසර පතක් ලබා දීමට ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍ය විජිත හේරත් මහතා විසින් අදාළ බලධාරීන්ට උපදෙස් ලබා දී ඇත.
-
-◼️
-
-[Data](articles/854040e1.json)
-
-[Extended Data](ext_articles/854040e1.ext.json)
 
 ---

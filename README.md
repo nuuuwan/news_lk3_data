@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 18:42:57**
+As of **2024-10-26 18:59:05**
 
 ## Newspaper Stats
 
-*Scraped **51,518** Articles*
+*Scraped **51,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,119 @@ islandlk | 3,057
 economynextcom | 3,142
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,788
-adaderanalk | 6,100
+adalk | 4,789
+adaderanalk | 6,101
 tamilmirrorlk | 7,120
 virakesarilk | 8,290
-adaderanasinhalalk | 8,952
+adaderanasinhalalk | 8,954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,518 (100.0%) of 51,518 articles have been extended.
+51,521 (100.0%) of 51,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### ඉදිරි පැය 36 ගැන අනතුරු ඇඟවීමක්
+
+*2024-10-26 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202592) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් ඉදිරි පැය 36 සඳහා වලංගු වන පරිදි නවතම කාලගුණ අනාවැකියක් නිකුත් කර තිබේ.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර සහ මන්නාරම දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+උතුරු, උතුරුමැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී 40ක පමණ තද සුළං ඇතිවිය හැකි බව එහි සඳහන් වෙයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/73e00e53.json)
+
+---
+
+### Special census of rice stocks
+
+*2024-10-26 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202591) · `si`
+
+Consumer Affairs Authority conducts special rice census under President's orders. Census to be held on 26th and 27th. Report to be submitted on Monday. Recent complaints about rice shortages and stockpiling. President discusses rice prices with stakeholders.
+
+🟩
+
+The Consumer Affairs Authority has taken steps to conduct a special census of rice.
+
+It is said that the census is carried out on the instructions of President Anura Kumara Dissanayake.
+
+Accordingly, census of rice will be held today (26) and tomorrow (27).
+
+The Ministry of Agriculture stated that the relevant report is to be handed over to the President on Monday.
+
+Recently, customers have continually accused the number of rice shortages in the market and the rice held for sales.
+
+The President ordered a discussion by the President and held a discussion with the prices of rice.
+
+◼️
+
+[Data](articles/eff28795.json)
+
+[Extended Data](ext_articles/eff28795.ext.json)
+
+---
+
+### Heavy showers above 75 mm expected in parts of the island tomorrow
+
+*2024-10-26 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102944/heavy-showers-above-75-mm-expected-in-parts-of-the-island-tomorrow) · `en`
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle, Matara and Mannar districts tomorrow (27), the Department of Meteorology warned.
+
+Fairly heavy showers above 75 mm are likely at some places in Western, Sabaragamuwa and North-western provinces, according to the Met. Department.
+
+Showers or thundershowers will occur at several places in the other areas of the island during the evening or night.
+
+Meanwhile, strong winds about 40 kmph can be expected at times over Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/bd70c7cf.json)
+
+[Extended Data](ext_articles/bd70c7cf.ext.json)
+
+---
+
+### President tells Europe that ensured tourist protection
+
+*2024-10-26 18:14:58* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරකයන්ගේ-ආරක්ෂාව-තහවුරු-කර-ඇති-අයුරු-ජනපති-යුරෝපයට-කියයි/11-412690) · `si`
+
+Sri Lanka President ensures tourist protection, informs EU delegation about recent security measures. EU commits to expanding market access, increasing employment opportunities, and supporting tourism development.
+
+🟩
+
+President appoints representatives of the government's steps to ensure the safety of tourists and the people
+
+Ambassador of European Union's Ambassador to Sri Lanka (H.E. Carmen Morano) Mrs. President Anura Kumara Dissanayake at the Presidential Secretariat yesterday (25) at the Presidential Secretariat yesterday.
+
+The President made aware of the European Union delegation on the current situation in Sri Lanka and also informed the recent measures taken to ensure the security of the Sri Lankan and Sri Lankan people. The President said that the main tourism provisions were implemented in the main tourist zone and emergency services.
+
+The European Union is a decisive partner in Sri Lanka, as the second largest export and tourism market in Sri Lanka and is the third largest import market.
+
+The EU representatives confirmed the President to expand its market access to Sri Lanka, increase their employment opportunities in the European Union and supporting tourism.
+
+...
+
+[Data](articles/2c6d949a.json)
+
+[Extended Data](ext_articles/2c6d949a.ext.json)
+
+---
 
 ### CB. Protest against Ratnayake
 
@@ -2145,101 +2243,5 @@ Iran's Ambassador, who made favorable answers to it, promised to provide assista
 [Data](articles/4388fd63.json)
 
 [Extended Data](ext_articles/4388fd63.ext.json)
-
----
-
-### Indian team to fight Afghanistan
-
-*2024-10-25 23:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202565) · `si`
-
-India vs Afghanistan: India won the match, defeating Afghanistan in the second semi-final of the Asian Egun T20 cricket tournament. Afghanistan scored 206 runs in 20 overs, while India achieved 186 runs in 20 overs. This is Afghanistan's first time qualifying for the final. Sri Lanka won the first semi-final against Pakistan. The final match will be between Sri Lanka and Afghanistan on date 27.
-
-🟩
-
-The Afghan 'A' 'A' "A" group team was defeated in the second semi-final match against the Asian Egun T20 cricket tournament.
-
-The Afghan group scored 206 runs for the loss of 4 wickets in the 20 overs.
-
-කෙසේ නමුත් ඊට පිළිතුරු ලෙස ඉන්දීය කණ්ඩායමට පන්දුවාර 20 තුළදී කඩුලු 7ක් දැවී රැස්කළ හැකි වූයේ ලකුණු 186ක් පමණි.
-
-This is the first time the Afghan group of Afghan group is eligible for the final.
-
-Sri Lanka were able to win the Pakistan's team from the first semi-final.
-
-මෙම තරගාවලියේ අවසන් මහා තරගය ශ්‍රී ලංකා කණ්ඩායම හා ඇෆ්ගනිස්තාන  කණ්ඩායම අතර අනිද්දා (27) පැවැත්වීමට නියමිතව ඇත.
-
-◼️
-
-[Data](articles/d08159c9.json)
-
-[Extended Data](ext_articles/d08159c9.ext.json)
-
----
-
-### No businessman will be permitted to exploit situation by unfairly raising rice prices - President
-
-*2024-10-25 22:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102930/no-businessman-will-be-permitted-to-exploit-situation-by-unfairly-raising-rice-prices-president) · `en`
-
-President Anura Kumara Dissanayake announced that the government will support small and medium-scale rice mill owners in enhancing their capacity to help stabilize the rice market.
-
-He made this statement today (25) during a discussion held with the rice mill owners at the Presidential Secretariat in Colombo.
-
-The President noted that since the government invests significantly in promoting agriculture, irrigation, and fertilizer subsidies, these businesses have a social responsibility to provide rice to the public.
-
-The meeting included an extensive discussion on measures to enhance the capacity of small and medium-scale rice mill owners to balance the market, the President’s Media Division (PMD) said.
-
-The President also stressed that no businessman will be permitted to exploit the situation by unfairly raising rice prices.
-
-...
-
-[Data](articles/85101c7a.json)
-
-[Extended Data](ext_articles/85101c7a.ext.json)
-
----
-
-### පොලිස් නිලධාරීන් තිදෙනෙකුගේ වැඩ තහනම්
-
-*2024-10-25 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202564) · `si`
-
-Sinhala police officers suspended after allegations of brutality against youth
-
-🟩
-
-පමුණුගම ප්‍රදේශයේදී තරුණයන් දෙදෙනෙකුට පහරදුන් බව කියන සිද්ධිය සම්බන්ධයෙන් පමුණුගම පොලීසියේ නිලධාරීන් තිදෙනෙකුගේ වැඩ තහනම් කර ඇති බව වාර්තා වේ.
-
-බෝපිටිය පමුණුගම පොලීසිය ඉදිරිපිටට පැමිණි ගම්වාසීන් පිරිසක් ඊයේ පස්වරුවේ මෙලෙස විරෝධතාවයේ නිරත වුණේ, අත්අඩංගුවට ගත් තරුණයින් දෙදෙනෙකුට පොලිස් නිලධාරීන් අමානුෂික ලෙස පහරදුන් බවට චෝදනා කරමින්.
-
-පසුගිය ඉරිදා දින බෝපිටිය පමුණුගම ප්‍රදේශයේ නිවසකට ඇතුළු වී රන්මාලයක් සොරාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් සැකපිට අදාළ තරුණයින් දෙදෙනා පොලිස් අත්අඩංගුවට ගෙන තිබුණි.
-
-◼️
-
-[Data](articles/a7f57678.json)
-
-[Extended Data](ext_articles/a7f57678.ext.json)
-
----
-
-### President Anura - Former Minister Douglas meets
-
-*2024-10-25 22:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197128) · `ta`
-
-Former Minister Douglas Devananda met President Anura Kumara Dissanayake. They discussed ongoing projects and prioritized 38 issues. The EPDP aims to gain significant seats in the upcoming parliamentary election.
-
-🟩
-
-President Anura Kumara Dissanayake and the EPDP. The meeting between Douglas Devananda, the party secretary and former Minister of Fisheries, took place today.
-
-During the meeting, in the past, in the past, in the past, in the past, to continue the projects that have been identified and recommended, and to initiate the projects that have been initiated, and to initiate the project, the 38 issues of priority were taken to the President's attention on Friday (25).
-
-The meeting was completed smoothly as issues, including the political aspirations of the Tamil people, were taken advantage of the president.
-
-The EPDP in the upcoming parliamentary election. Significantly, the President congratulated the Parliament to get significant seats.
-
-◼️
-
-[Data](articles/73c2f25a.json)
-
-[Extended Data](ext_articles/73c2f25a.ext.json)
 
 ---

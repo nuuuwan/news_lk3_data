@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 08:59:06**
+As of **2024-10-26 09:23:57**
 
 ## Newspaper Stats
 
-*Scraped **51,457** Articles*
+*Scraped **51,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,057
 economynextcom | 3,141
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,785
+adalk | 4,786
 adaderanalk | 6,091
-tamilmirrorlk | 7,103
+tamilmirrorlk | 7,104
 virakesarilk | 8,278
 adaderanasinhalalk | 8,935
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,456 (100.0%) of 51,457 articles have been extended.
+51,459 (100.0%) of 51,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Continuing security for tourist destinations
+
+*2024-10-26 08:57:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாத்தலங்களுக்கு-தொடர்ந்தும்-பாதுகாப்பு/175-346065) · `ta`
+
+Security measures implemented at tourist hotspots: Police, military personnel, and officials stationed at popular locations like Augkampai, Hikkaduwa, Weligama, Mirissa, and Dikwella.
+
+🟩
+
+Police, Special Task Force, Army Officers, Air Force and Marines have been deployed for this purpose.
+
+Officials have been deployed at tourist destinations including Augkampai, Hikkaduwa, Weligama, Mirissa and Dikwella. (A)
+
+◼️
+
+[Data](articles/46ea1640.json)
+
+[Extended Data](ext_articles/46ea1640.ext.json)
+
+---
 
 ### Iraq suspends all air traffic as Israel strikes Iran: state media
 
@@ -43,6 +63,8 @@ Iraq suspended all air traffic Saturday at its airports until further notice aft
 ◼️
 
 [Data](articles/2173ac35.json)
+
+[Extended Data](ext_articles/2173ac35.ext.json)
 
 ---
 
@@ -2299,27 +2321,5 @@ The speed of wind in those seas may increase from 50 to 55 kilometers per hour, 
 [Data](articles/4e5c2113.json)
 
 [Extended Data](ext_articles/4e5c2113.ext.json)
-
----
-
-### ’டானா’வால் கடல்சார் சமூகத்தினருக்கு எச்சரிக்கை
-
-*2024-10-25 15:01:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டானா-வால்-கடல்சார்-சமூகத்தினருக்கு-எச்சரிக்கை/175-346044) · `ta`
-
-Turbulent seas forecasted from Trincomalee to Kankesanthurai, Mannar to Puttalam, and Hambantota to Pottuvil. Wind speeds may reach 50-55 km/h. Fishermen and maritime communities advised to exercise caution.
-
-🟩
-
-The Department of Meteorology has said that the seas from Trincomalee to Kankesanthurai and Mannar to Puttalam and the seas from Hambantota to Pottuvil will continue to be turbulent.
-
-அந்த கடற்பரப்புகளில் காற்றின் வேகம் மணிக்கு 50 முதல் 55 கிலோமீற்றர் வரை அதிகரிக்க கூடும் எனவும், திணைக்களம் தெரிவித்துள்ளது.
-
-The Department of Meteorology has advised fishermen and maritime community to pay attention to this. AN
-
-◼️
-
-[Data](articles/afd45973.json)
-
-[Extended Data](ext_articles/afd45973.ext.json)
 
 ---

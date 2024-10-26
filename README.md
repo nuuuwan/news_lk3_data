@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 16:24:05**
+As of **2024-10-26 16:39:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,947
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,506 (100.0%) of 51,508 articles have been extended.
+51,508 (100.0%) of 51,508 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -116,19 +116,25 @@ He said that after the counting officer, the Galle Selection Officer will provid
 
 ---
 
-### இரத்தினபுரியில் துப்பாக்கிச் சூடு
+### Firing
 
 *2024-10-26 15:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரியில்-துப்பாக்கிச்-சூடு/175-346078) · `ta`
 
-இரத்தினபுரி மாரப்பன தலாவ பிரதேசத்தில் அமைந்துள்ள வீடொன்றின் மீது இன்று (26) அதிகாலை 02 மணியளவில் துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+House fired upon in Ratnapura; no injuries; suspect linked to mining dispute
 
-துப்பாக்கிச் சூட்டுச் சம்பவத்தின் போது வீட்டின் உரிமையாளர், அவரது மனைவி, குழந்தை மற்றும் அவரது பெற்றோர்கள் இருந்துள்ள நிலையில், அவர்களில் யாருக்கும் காயங்கள் ஏதும் ஏற்படவில்லை என தெரிவிக்கப்படுகின்றது.
+🟩
 
-வீட்டின் உரிமையாளர் சுரங்க உரிமையாளர் எனவும், சுரங்கத் தகராறில் துப்பாக்கிச் சூடு நடத்தப்பட்டதாக சந்தேகிக்கப்படுவதாகவும் இரத்தினபுரி பொலிஸார் தெரிவித்தனர்.
+A house in the Marapana Thalawa area in Ratnapura was shot at around 2 am today.
+
+It is reported that none of them were injured when the owner of the house, his wife, child and his parents were present at the time of the shooting.
+
+Ratnapura police said that the owner of the house was a mining owner and suspected of shooting in a mining dispute.
 
 ◼️
 
 [Data](articles/217deb6d.json)
+
+[Extended Data](ext_articles/217deb6d.ext.json)
 
 ---
 
@@ -929,6 +935,8 @@ The victory of National People’s Power (Jathika Jana Balawegaya – NPP) at th
 ...
 
 [Data](articles/9ea939bc.json)
+
+[Extended Data](ext_articles/9ea939bc.ext.json)
 
 ---
 

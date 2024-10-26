@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 22:24:08**
+As of **2024-10-26 22:39:42**
 
 ## Newspaper Stats
 
-*Scraped **51,537** Articles*
+*Scraped **51,538** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,142
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,789
-adaderanalk | 6,102
+adaderanalk | 6,103
 tamilmirrorlk | 7,120
 virakesarilk | 8,296
 adaderanasinhalalk | 8,962
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,962
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,537 (100.0%) of 51,537 articles have been extended.
+51,537 (100.0%) of 51,538 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Iran raises the death toll from Israel’s attack to 4, all from its military air defense
+
+*2024-10-26 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102946/iran-raises-the-death-toll-from-israels-attack-to-4-all-from-its-military-air-defense) · `en`
+
+Iran has raised the death toll from Israel’s attack to four and said all served in the country’s military air defense.
+
+The state-run IRNA news agency announced the deaths Saturday night. It offered no details on where the four men were stationed in the country.
+
+Israel attacked military targets in Iran with pre-dawn airstrikes in retaliation for the barrage of ballistic missiles the Islamic Republic fired on Israel earlier this month. The strikes marked the first time Israel’s military has openly attacked Iran.
+
+Following the airstrikes, Iran’s Foreign Ministry said it had a right to self-defense, and “considers itself entitled and obligated to defend against foreign acts of aggression.” There was no official statement by the Revolutionary Guard’s commanders.
+
+...
+
+[Data](articles/a7417c9a.json)
+
+---
 
 ### Another revelation of endless online racket
 
@@ -2337,23 +2355,5 @@ This collaboration aims to offer microcredit facilities for essential workplace 
 [Data](articles/98a29e26.json)
 
 [Extended Data](ext_articles/98a29e26.ext.json)
-
----
-
-### ComBank steps up engagement with women entrepreneurs in 2024
-
-*2024-10-26 01:42:10* · [`dailyftlk`](https://www.ft.lk/business/ComBank-steps-up-engagement-with-women-entrepreneurs-in-2024/34-768435) · `en`
-
-Pictured here are some of the bank’s engagements with women entrepreneurs in 2024
-
-Women entrepreneurs received special attention from the Commercial Bank of Ceylon in 2024, with the bank stepping up its direct engagement with this important customer segment via a series of activities.
-
-These included entrepreneurship development programs, training programs on digital banking at the bank’s DigiZone in Wellawatte, and several certificate courses in SME skills development exclusively for women entrepreneurs, in collaboration with the Postgraduate Institute of Management (PIM) of the University of Sri Jayewardenepura.
-
-...
-
-[Data](articles/da35bc54.json)
-
-[Extended Data](ext_articles/da35bc54.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 15:39:39**
+As of **2024-10-26 16:12:55**
 
 ## Newspaper Stats
 
-*Scraped **51,501** Articles*
+*Scraped **51,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,130 @@ economynextcom | 3,142
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,787
-adaderanalk | 6,097
+adaderanalk | 6,099
 tamilmirrorlk | 7,116
 virakesarilk | 8,290
-adaderanasinhalalk | 8,944
+adaderanasinhalalk | 8,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,501 (100.0%) of 51,501 articles have been extended.
+51,503 (100.0%) of 51,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### ඇල්පිටියේ ඡන්දය ප්‍රකාශ කිරීම අවසන් - ගණනය කිරීම් ඇරඹෙයි
+
+*2024-10-26 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202583) · `si`
+
+ඇල්පිටිය ප්‍රාදේශීය සභා ඡන්ද විමසීමේ කටයුතු අද (26) පස්වරු 4.00ට අවසන් කෙරුණි.
+
+ගාල්ල දිස්ත්‍රික් තේරීම්භාර නිලධාරී ඩබ්ලිව්.ඒ. ධර්මසිරි මහතා සඳහන් කළේ අදාළ ඡන්ද මධ්‍යස්ථානවලදීම ඡන්දය ගණනය කිරීම් සිදුකෙරෙන බවය.
+
+එමෙන්ම ඡන්ද විමසීමේ කටයුතු ඉතා සාමකාමී තත්ත්වයක් තුළ පැවති බව ඔහු වැඩිදුරටත් සඳහන් කළේය.
+
+"අද පස්වරු 3 පමණ වනවිට නියමිත ඡන්ද ප්‍රමාණයෙන් ඡන්ද 51%ක ප්‍රමාණයක් ඡන්දය භාවිත කර තිබුණා. අද පස්වරු 4:30ට පමණ ඒ ඒ ඡන්ද පොළේදීම ඡන්දය ගණනය කිරීමේ කටයුතු ආරම්බ කෙරෙනවා."
+
+◼️
+
+[Data](articles/0b85c17b.json)
+
+---
+
+### McDonald’s formally ends franchise operations in Sri Lanka
+
+*2024-10-26 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102942/mcdonalds-formally-ends-franchise-operations-in-sri-lanka) · `en`
+
+McDonald’s Corporation and International Restaurant Systems (Private) Limited have mutually agreed to end their franchise relationship in Sri Lanka. The companies reached a legal settlement that both parties found agreeable.
+
+In a joint media statement, McDonald’s Corporation and International Restaurant Systems (Pvt) Ltd expressed their gratitude to the public for their support throughout their partnership.
+
+They also urged the public to disregard any rumors or speculation that had previously circulated in the media about their relationship.
+
+◼️
+
+[Data](articles/ea6a945d.json)
+
+---
+
+### Shooting reported in Ratnapura
+
+*2024-10-26 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102941/shooting-reported-in-ratnapura-) · `en`
+
+A house in the Marapana area of Ratnapura has been targeted in a shooting early this morning (26), at around 2.00 a.m.
+
+Police said that the homeowner, his wife, their child, and his parents were inside the house at the time, but fortunately escaped unharmed.
+
+According to Ratnapura Police, the homeowner is involved in the mining industry, and the shooting is suspected to be linked to a mining-related dispute.
+
+Police have launched an in-depth investigation to identify the motive and individuals involved in the attack.
+
+◼️
+
+[Data](articles/1f04bf59.json)
+
+---
+
+### This is how the Elpitiya electorates
+
+*2024-10-26 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202582) · `si`
+
+Elpitiya election process: 48 polling stations, 17 divisions. Results announced by Galle Selection Officer. Counting officers determine seat allocation based on vote counts. Statement issued on division winners and remaining seats.
+
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake says that the number of votes hall will be held in connection with the Elpitiya election.
+
+He said that after the counting officer, the Galle Selection Officer will provide the results and the number of votes obtained after the elected partnership.
+
+"The counting of the polling stage is the counting. There are 48 polling stations for 17 divisions. After handing over the voting results of the division, am each of the 17 division winners after handing over the 17 sum?And how much is the additional list of additional lists?It is done. That is, how many seats do they receive according to the number of votes obtained by each political parties?What is the division that the division won?How much is the remaining seats?Issuing the statement. "
+
+◼️
+
+[Data](articles/d6eb6f37.json)
+
+[Extended Data](ext_articles/d6eb6f37.ext.json)
+
+---
+
+### After Israel's attacks a warning to Iran
+
+*2024-10-26 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202581) · `si`
+
+Israel launches airstrikes on Iran's military headquarters in retaliation for missile attacks. Iran reports explosions in Tehran. Foreign media claims Iran plans revenge. Iraq closes borders. Israel confirms targeting Iranian missiles. US supports Israel's right to self-defense but urges restraint.
+
+🟩
+
+In response to the series of missiles targeting the missile strikes by Iran on October 1, Israel launched air strikes targeting the military headquarters today (26).
+
+However, the damage to Iran has been reported so far from Iran.
+
+However, it is reported that Iran's Tehran capital and explosion noises were reported.
+
+Foreign media reports that after the Iranian attack, the foreign media was planning to be planned to be repaid.
+
+Iran as well as Iraq and Iraq and Iraqi took steps to be closed until he was re-informed.
+
+The military headquarters in Iran and Southwest had been the main goal of Israel.
+
+The aircraft arrived safely in Israel, ending the attacks on the military targets to Iran's military targets, and later announced Israel.
+
+Israel has revealed that they targeted Iran missiles.
+
+Like the US and Britain, Britain, as well as Britain, says that Israel is the right to ensure its security for Iran.
+
+However, the United States has emphasized not to attack Israel again.
+
+◼️
+
+[Data](articles/3dc6928b.json)
+
+[Extended Data](ext_articles/3dc6928b.ext.json)
+
+---
 
 ### Conflict between the President and the Prime Minister?
 
@@ -2149,131 +2259,5 @@ As a result, Sports critics point out that the Ionar who left the international 
 [Data](articles/1408a7d2.json)
 
 [Extended Data](ext_articles/1408a7d2.ext.json)
-
----
-
-### We have the philosophy of creating a happy thing - Dilith
-
-*2024-10-25 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202560) · `si`
-
-Dilith Jayaweera leads party emphasizing intelligent, adaptable candidates. Supports progressive policies but opposes threats to national security. Promotes disability representation in politics.
-
-🟩
-
-Dilitian leader Dilith Jayaweera says that people with intelligence and rational minds have joined hands with the autogeration power.
-
-He was speaking at the opening of the election office of Colombo District Leader of Colombo District Leader Upali Jayasekera yesterday.
-
-...
-
-[Data](articles/e6f287ba.json)
-
-[Extended Data](ext_articles/e6f287ba.ext.json)
-
----
-
-### If the government does not properly handle relations with the unions, economic reforms will be affected - Ali Sabri
-
-*2024-10-25 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197124) · `ta`
-
-Government handles unions well for economic reform success - Ali Sabri warns
-
-🟩
-
-Former External Affairs Minister Ali Sabri has warned that if the government does not properly handle its ties with the trade unions, the pressure on the industry may become an important obstacle to achieving economic restructuring and growth.
-
-Former minister Ali Sabri, who has posted a record on his official 'X' site, said that the current government has benefited from the support of the unions when the current government was opposed.. However, when they are in office, the connection is forced to recover and handle it properly.
-
-At the same time, Ali Sabri has warned that if it does not handle this properly, the pressure from the trade unions can become an important obstacle for economic restructuring and growth in the country.
-
-He therefore urged the government and the unions to be excessively understood about their roles and responsibilities in the current situation.
-
-◼️
-
-[Data](articles/f2844feb.json)
-
-[Extended Data](ext_articles/f2844feb.ext.json)
-
----
-
-### Airline's announcement on security
-
-*2024-10-25 19:34:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-குறித்து-விமான-நிறுவனத்தின்-அறிவிப்பு/175-346056) · `ta`
-
-Sri Lanka airport confirms passenger safety after bomb threats. Airline prioritizes security measures. International standards implemented. Administration ensures traveler comfort despite challenges.
-
-🟩
-
-Sri Lanka's airport has confirmed the safety of passengers and employees, the airport and airline said in a statement.
-
-On October 19 and 24, there is a fear among the public due to the threat of a bomb blast at the Bandaranaike International Airport (BIA).
-
-Airports and Airlines (Sri Lanka) (Pvt) Chairman Harsha Abeywickrama said:. And will be given priority to airport users.
-
-Internationally adopted ethics will be adopted to manage and respond effectively to such situations. ”
-
-He said that our administration is taking all the necessary steps in collaboration with other service providers to ensure that our valuable travelers enjoy a pleasant journey at our airport.
-
-The announcement further stated that our guests are willingly regretted and thankful for their understanding and cooperation in the event of any inconvenience to our guests due to these circumstances.
-
-◼️
-
-[Data](articles/249987ba.json)
-
-[Extended Data](ext_articles/249987ba.ext.json)
-
----
-
-### Man arrested with land of 4 million
-
-*2024-10-25 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202558) · `si`
-
-Here's a 200-character summary:
-
-
-
-Man arrested in Ragama raid with 10kg substance worth Rs. 200 million. Air Force Intelligence Division involved.
-
-🟩
-
-A person was arrested by the Western Province North Criminal Division in the Ragama area with 10 kilograms.
-
-The arrest was made during a raid conducted on information received by the Air Force Intelligence Division.
-
-The arrested for the 'rare whale vomiting' was worth Rs. 200 million worth the value of this House of Amus.
-
-◼️
-
-[Data](articles/2b1c8c8f.json)
-
-[Extended Data](ext_articles/2b1c8c8f.ext.json)
-
----
-
-### 2nd Test against India: New Zealand
-
-*2024-10-25 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/197123) · `ta`
-
-India vs New Zealand 2nd Test summary: NZ leads after strong batting performance. Taven Konway and Rachin Ravindra scored half-centuries. Washington Sundar took 7 wickets for 59 runs. India struggled in both innings, losing key players including Rohit Sharma and Virat Kohli.
-
-🟩
-
-இந்தியாவுக்கும் நியூஸிலாந்துக்கும் இடையில் பூனே, மஹாராஷ்டிரா கிரிக்கெட் சங்க விளையாட்டரங்கில் நடைபெற்றுவரும் இரண்டாவது டெஸ்ட் கிரிக்கெட் போட்டியில் நியூஸிலாந்து பலம்வாய்ந்த நிலையில் இருக்கிறது.
-
-New Zealand, which has been in the first innings in the first innings, has increased that number to 301 runs.
-
-New Zealand, who first chose the first match in the upcoming upcoming match on Thursday (24), scored 259 runs in the first innings.
-
-Taven Konway (76) and Rachin Ravindra (65) were both capable of scoring half -centuries.
-
-கொன்வேயுடன் 3ஆவது விக்கெட்டில் 62 ஓட்டங்களையும் டெரில் மிச்செலுடன் 4ஆவது விக்கெட்டில் 59 ஓட்டங்களையும் ரச்சின் ரவிந்த்ரா பகிர்ந்தார்.
-
-தனது 5ஆவது டெஸ்ட் போட்டியில் விளையாடும் சுழல்பந்துவீச்சாளர் வொஷிங்டன் சுந்தர் 59 ஓட்டங்களுக்கு 7 விக்கெட்களை வீழ்த்தி தனது அதிசிறந்த டெஸ்ட் பந்துவீச்சுப் பெறுதியைப் பதிவுசெய்தார். This is his first 5 wicket pile.
-
-...
-
-[Data](articles/4f611281.json)
-
-[Extended Data](ext_articles/4f611281.ext.json)
 
 ---

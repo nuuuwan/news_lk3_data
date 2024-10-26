@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 15:09:21**
+As of **2024-10-26 15:23:55**
 
 ## Newspaper Stats
 
-*Scraped **51,497** Articles*
+*Scraped **51,500** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 411
+dbsjeyarajcom | 412
 colombotelegraphcom | 518
 bbccomsinhala | 521
 islandlk | 3,057
 economynextcom | 3,142
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,786
+adalk | 4,787
 adaderanalk | 6,097
-tamilmirrorlk | 7,114
+tamilmirrorlk | 7,115
 virakesarilk | 8,290
 adaderanasinhalalk | 8,944
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,944
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,497 (100.0%) of 51,497 articles have been extended.
+51,500 (100.0%) of 51,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Team appointment to monitor foreign intelligence
+
+*2024-10-26 15:01:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-உளவுத்துறையை-கண்காணிக்க-குழு-நியமனம்/175-346076) · `ta`
+
+Foreign intelligence monitoring teams formed to review reports and act on security threats. Government investigates allegations, strengthens tourism security after Israeli attack plot exposed. Three arrests made, ongoing investigation continues.
+
+🟩
+
+Three separate intelligence groups have been appointed to monitor information provided by foreign intelligence services on the country's security issues, government sources said.
+
+The responsibility of these groups is to review the intelligence reports from abroad and send information to the relevant departments and take appropriate action under the report.
+
+The allegations made by the Foreign Intelligence Unit of the Foreign Intelligence Unit have not been properly investigated. Considering the situation, the government's leaders have issued a new mechanism for the new mechanism.
+
+Indian intelligence recently released information on the plans to attack Israeli in tourism. Following this information, the state security forces took steps to tighten security measures in tourism.
+
+3 people have been arrested in connection with the attack plan. A special action has been initiated by the Security Intelligence Unit to arrest others involved.
+
+...
+
+[Data](articles/c84ffd4e.json)
+
+[Extended Data](ext_articles/c84ffd4e.ext.json)
+
+---
 
 ### Shooting in Ratnapura
 
@@ -933,6 +959,28 @@ Officials have been deployed at tourist destinations including Augkampai, Hikkad
 [Data](articles/46ea1640.json)
 
 [Extended Data](ext_articles/46ea1640.ext.json)
+
+---
+
+### President is a gazetted armed armed armed armed armed armed forces
+
+*2024-10-26 08:55:13* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-ආරක්ෂාවට-සන්නද්ධ-හමුදා-කැඳවමින්-ජනපතිගෙන්-අති-විශේෂ-ගැසට්ටුවක්/11-412688) · `si`
+
+Sri Lanka's President Anura Kumara Dissanayake has deployed armed forces under the Sri Lanka Navy and Air Force to maintain public order across the country. This move aims to address potential unrest in various administrative districts. The deployment is set to begin on March 27th.
+
+🟩
+
+President Anura Kumara Dissanayake has issued an armed forces called to maintain public peace in all the administrative districts of the country.
+
+The President released the Extent Gazette notification that included the law of the Sri Lanka Navy and all members of the Sri Lanka Air Force (SLAF) with the operation of tomorrow (27).
+
+The armed forces have been summoned to maintain public order in all the administrative districts of the island and allied districts in all the administrative districts of the island and allied local waterholders.
+
+◼️
+
+[Data](articles/cd612f22.json)
+
+[Extended Data](ext_articles/cd612f22.ext.json)
 
 ---
 
@@ -1906,6 +1954,20 @@ It is reported that one person has been arrested on suspicion by the Mannar Dist
 
 ---
 
+### The Rise and Fall  of the Medamulana  Rajapaksa Dynasty.
+
+*2024-10-25 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84953) · `en`
+
+Is the “House of Rajapaksa” Falling Down? was the heading of an article written by me for our sister paper the “Daily Mirror” two and a half  years ago. The article was   published on 23 April 2022 when the “Aragalaya”(struggle) protests were going on. The article focused on the  Rajapaksa family and its struggle to  stay afloat  in power despite the rising tide of public resentment and anger.The  following two paragraphs are excerpted from that article.-
+
+...
+
+[Data](articles/b22e338c.json)
+
+[Extended Data](ext_articles/b22e338c.ext.json)
+
+---
+
 ### Families have the right to know the truth of relationships - American Ambassador Julie Sung
 
 *2024-10-25 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197126) · `ta`
@@ -2207,77 +2269,5 @@ Ambergris, also called grey amber or whale vomit, is created by the bile duct of
 [Data](articles/59cc0692.json)
 
 [Extended Data](ext_articles/59cc0692.ext.json)
-
----
-
-### Israeli strikes kill 38 people in Gaza’s Khan Younis and 3 journalists in southern Lebanon
-
-*2024-10-25 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102927/israeli-strikes-kill-38-people-in-gazas-khan-younis-and-3-journalists-in-southern-lebanon) · `en`
-
-Israeli strikes killed 38 people in Gaza and three journalists in Lebanon on Friday as growing worries about supply shortages in Gaza and international pressure for a cease-fire mounted.
-
-The deaths reported by Gaza health officials were the latest in the southern Gaza city of Khan Younis, where people have in recent days lined up for bread outside the city’s only bakery in operation.
-
-They come a day after United States Secretary of State Antony Blinken said that Israel had accomplished its objective of “effectively dismantling” Hamas and implored both sides to revive negotiations.
-
-Also on Friday, an Israeli airstrike on guesthouses where journalists were staying in southeast Lebanon killed three media staffers working for news outlets that are seen as aligned with Lebanon’s Hezbollah group and its patron, Iran.
-
-Outside of now-collapsed buildings rented by various media outlets, cars marked “PRESS” lay covered in dust and rubble after the strike, Associated Press photos showed.
-
-...
-
-[Data](articles/fb1d3681.json)
-
-[Extended Data](ext_articles/fb1d3681.ext.json)
-
----
-
-### Court of Appeal about Johnston's petition
-
-*2024-10-25 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202557) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Court of Appeal summons writ petition Nov 5. Former Minister Joneston Fernando's case adjourned. Petitioner remanded till Nov 30. Additional documents submitted to verify allegations. Judge orders CID to complete investigations by Nov 30.
-
-🟩
-
-The Court of Appeal was set to summon the writ petition on November 5 to ensure the writing of former Minister Joneston Fernando to issue an order to issue an order.
-
-මෙම පෙත්සම අද (25) අභියාචනාධිකරණ විනිසුරු මොහොමඩ් ලෆාර් තාහීර් සහ පී. The Court of Appeal consisting of Kumaran Ratnam was called before the judge.
-
-Attorney at Law Amila Palliage appearing on behalf of the petitioner, Mr. Amila Palliage said that his client was presented to the Criminal Investigation Department and remanded until the 30th of this month.
-
-The Magistrate's Court has ordered the Criminal Investigation Department to finish the tests that day.
-
-ඒ අනුව මෙම නඩුකරයට අදාළ අමතර ලේඛනද අධිකරණයට ඉදිරිපත් කර මෙම පෙත්සම කරුණු තහවුරු කිරීමට තමන් අපේක්ෂා කරන බවත් ඒ සඳහා දිනයක් ලබාදෙන ලෙසත් නීතිඥවරයා ඉල්ලා සිටියේය.
-
-ඒ අනුව අදාල පෙත්සම නොවැම්බර් මස 05 වනදා කැඳවීමට නියෝග කළ අභියාචනාධිකරණ විනිසුරු මඩුල්ල එදින කරුණු තහවුරු කිරීමට පියවර ගන්නා ලෙසත් නියෝග කළේය.
-
-◼️
-
-[Data](articles/ecf29732.json)
-
-[Extended Data](ext_articles/ecf29732.ext.json)
-
----
-
-### Emergency withdrawal in Katunayake
-
-*2024-10-25 18:41:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்கவில்-அவசர-நிலை-வாபஸ்/175-346055) · `ta`
-
-Katunayake airport emergency: Bomb threat forces evacuation of Indian Vistara flight.
-
-🟩
-
-The emergency has been withdrawn at the Katunayake Bandaranaike International Airport due to a bomb threat on the Indian Vistrah aircraft.
-
-◼️
-
-[Data](articles/1781caf6.json)
-
-[Extended Data](ext_articles/1781caf6.ext.json)
 
 ---

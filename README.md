@@ -1,36 +1,60 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 06:09:01**
+As of **2024-10-26 07:25:48**
 
 ## Newspaper Stats
 
-*Scraped **51,435** Articles*
+*Scraped **51,448** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 411
-colombotelegraphcom | 516
+colombotelegraphcom | 518
 bbccomsinhala | 521
-islandlk | 3,049
+islandlk | 3,057
 economynextcom | 3,141
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,785
 adaderanalk | 6,087
-tamilmirrorlk | 7,099
+tamilmirrorlk | 7,101
 virakesarilk | 8,277
-adaderanasinhalalk | 8,932
+adaderanasinhalalk | 8,933
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,435 (100.0%) of 51,435 articles have been extended.
+51,440 (100.0%) of 51,448 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### ඊශ්‍රායලයෙන් ඉරානයට ගුවන් ප්‍රහාර
+
+*2024-10-26 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202566) · `si`
+
+ඉරානයේ තෝරාගත් හමුදා ඉලක්ක කිහිපයක් වෙත ඊශ්‍රායලය විසින් අද (26) අළුයම ගුවන් ප්‍රහාරයක් එල්ලකළ බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඉරානය විසින් ඉකුත් ඔක්තෝබර් 1 වැනිදා එල්ල කළ බැලස්ටික් මිසයිල ප්‍රහාර 200කට ආසන්නයට ප්‍රහාරය ඇතුළුව, ඉරාන පාලනය මාස කිහිපයක සිට තමන්ට එරෙහිව සිදුකරන අඛණ්ඩ ප්‍රහාරවලට ප්‍රතිචාර දක්වමින් මෙම ප්‍රහාරය දියත්කළ බව ඊශ්‍රායල ආරක්ෂක අංශ පවසයි.
+
+ඊශ්‍රායලයට ප්‍රතිචාර දැක්වීමට අයිතියක් සහ යුතුකමක් ඇති බවත්,  ආරක්‍ෂක සහ ප්‍රහාරාත්මක හැකියාවන් සම්පූර්ණයෙන්ම බලමුලු ගන්වා ඇති බවත් ඔවුන් වැඩිදුරටත් පවසයි.
+
+බී.බී.සී. පුවත් සේවයද වාර්තා කර සිටියේ, ඉරාන රාජ්‍ය මාධ්‍ය විසින් මීට ස්වල්ප වේලාවකට පෙර ඝෝෂාකාරී පිපිරීම් කිහිපයක් පිළිබඳ වාර්තා කළ බවයි.
+
+ඉරානයේ ටෙහෙරාන් අගනුවරට බටහිර ප්‍රදේශයෙන් මෙම පිපිරීම් හඬ ඇසී තිබේ.
+
+විශේෂයෙන් ඉරාන අගනුවරට බටහිර සහ නිරිත දෙසින් පිහිටි හමුදා කඳවුරු ඉලක්ක කර මෙම ගුවන් ප්‍රහාර එල්ල කර ඇති බව සඳහන්ය.
+
+කෙසේ නමුත් ප්‍රහාරවල ප්‍රමාණය සහ නිශ්චිත ඉලක්ක පිළිබඳ ඊශ්‍රායලය තවමත් පැහැදිලි ප්‍රකාශයක් සිදුකර නොමැත.
+
+...
+
+[Data](articles/985af1c7.json)
+
+---
 
 ### FR filed against Ranjan’s candidacy
 
@@ -220,6 +244,124 @@ These included entrepreneurship development programs, training programs on digit
 
 ---
 
+### Stock market ends the week with a bullish run
+
+*2024-10-26 01:14:00* · [`islandlk`](http://island.lk/stock-market-ends-the-week-with-a-bullish-run/) · `en`
+
+The stock market yesterday witnessed a significant performance due to satisfactory participation level of both institutional and retail market investors due to conducive market situation in the external and internal environment, market analysts said.
+
+Amid those developments banking sector counters performed well especially with HNB. Therefore, both indices moved upwards. All Share Price Index up by 57.59 points while S and P SL20 up by 44.05 points. Turnover stood at Rs 4.7 billion with five crossings.
+
+...
+
+[Data](articles/ed2ae625.json)
+
+[Extended Data](ext_articles/ed2ae625.ext.json)
+
+---
+
+### Doctors without Borders focus on advancing humanitarian medical innovation and research
+
+*2024-10-26 01:13:00* · [`islandlk`](http://island.lk/doctors-without-borders-focus-on-advancing-humanitarian-medical-innovation-and-research/) · `en`
+
+Doctors without Borders – Asia 2024 held at the India Habitat Centre on 25th October, 2024 brought together over 200 researchers, academics, and patient representatives dedicated to advancing humanitarian medical innovation and research.
+
+The conference held in collaboration with Atal Bihari Vajpayee Institute of Medical Sciences and Dr. Ram Manohar Lohia (RML) Hospital featured a series of compelling presentations and discussions that highlighted the need for new solutions to health challenges in conflict-affected and resource-limited settings. This year’s agenda featured compelling discussions across four primary themes: ‘Driving Health Reform’, ‘Antimicrobial Resistance,’ ‘Health Inequities,’ and ‘Human Cost of Violence’.
+
+...
+
+[Data](articles/ce8a76d1.json)
+
+[Extended Data](ext_articles/ce8a76d1.ext.json)
+
+---
+
+### SEC and CSE ratchet up investor education campaign
+
+*2024-10-26 01:11:00* · [`islandlk`](http://island.lk/sec-and-cse-ratchet-up-investor-education-campaign/) · `en`
+
+The Securities and Exchange Commission of Sri Lanka (SEC), in collaboration with the Colombo Stock Exchange (CSE), conducted an Investor Forum in Matale on 23rd October 2024 at The Grand Mountain Hotel, Matale. The forum is part of an ongoing effort to raise awareness on investor protection and emphasize the importance of educating the public about the investment opportunities in the stock market.
+
+Attracting over 130 participants, the event provided valuable insights to both potential and existing investors in the Matale region, underscoring the significance of financial literacy and investor education in making informed investment decisions.
+
+The event commenced with an introduction to the basics of investing at the Colombo Stock Exchange. The session, led by Thusitha Meegahakumbura, Branch Manager – Kurunegala, CSE, covered the fundamentals of investing, offering participants an understanding of the process and the benefits of entering the market.
+
+...
+
+[Data](articles/a10a09bd.json)
+
+[Extended Data](ext_articles/a10a09bd.ext.json)
+
+---
+
+### Fitch affirms financial strength of HNB Assurance and HNB General Insurance
+
+*2024-10-26 01:10:00* · [`islandlk`](http://island.lk/fitch-affirms-financial-strength-of-hnb-assurance-and-hnb-general-insurance/) · `en`
+
+Fitch Ratings has affirmed the ‘A-(lka)’ National Insurer Financial Strength (IFS) Ratings of Sri Lanka-based life insurer HNB Assurance PLC (HNBA) and its fully owned non-life subsidiary HNB General Insurance Limited (HNBGI).
+
+The affirmation reflects the group’s ‘Favourable’ company profile and satisfactory regulatory capital position, offset by weaker non-life underwriting performance in recent periods. KEY RATING DRIVERS Strong Premium Growth: HNBA and HNBGI both achieved strong gross written premium (GWP) growth in 2023 and 1H24, outpacing industry benchmarks. Life GWP grew by 24% in 1H24 (2023: 23%), exceeding the industry’s growth rate of 17% (2023: 13%) in the same period. Meanwhile, non-life GWP rose by 14% in 1H24 (2023: 18%), while the industry’s grew at 6% in 1H24 (2023: 5%). An expanded agency network and stronger bancassurance partnerships drove the growth of the life segment.
+
+...
+
+[Data](articles/ee9e0b2b.json)
+
+[Extended Data](ext_articles/ee9e0b2b.ext.json)
+
+---
+
+### INSEE Cement launches ‘INSEE Nawa Niwasa’ mobile app to simplify construction in Sri Lanka
+
+*2024-10-26 00:59:00* · [`islandlk`](http://island.lk/insee-cement-launches-insee-nawa-niwasa-mobile-app-to-simplify-construction-in-sri-lanka/) · `en`
+
+INSEE Cement has announced the official launch of the INSEE Nawa Niwasa Mobile App, a cutting-edge digital platform designed to transform the construction process and put essential services, materials, and expert guidance directly into the hands of our customers. With this user-friendly app, homeowners, architects, masons, and other stakeholders can now access everything they need for their projects—quickly, efficiently, and confidently—right at their fingertips.
+
+The INSEE Nawa Niwasa App empowers users by connecting them with qualified builders and trusted suppliers of INSEE Cement and premium building materials. The app simplifies project management so that users can tackle their construction challenges with ease, whether they are building a home or overseeing a larger project.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/a7639d8a.json)
+
+[Extended Data](ext_articles/a7639d8a.ext.json)
+
+---
+
+### FAO introduces innovative technologies to build resilience in Sri Lanka’s fisheries sector
+
+*2024-10-26 00:59:00* · [`islandlk`](http://island.lk/fao-introduces-innovative-technologies-to-build-resilience-in-sri-lankas-fisheries-sector-2/) · `en`
+
+The Food and Agriculture Organization of the United Nations (FAO), with funding from the government of Norway, has taken a significant step toward enhancing resilience and sustainability in Sri Lanka’s fisheries sector by handing over a multi-day fishing boat equipped with advanced cooling technology and a fuel-saving bulbous bow. This initiative promotes the adoption of new technologies to reduce post-harvest losses, lower operational costs, and improve the quality of fish for both local and export markets.
+
+Sri Lanka’s multi-day fishing vessels, essential for deep-sea fishing, especially in the tuna export industry, often rely on ice to preserve fish during long voyages. However, this practice frequently compromises quality, leading to post-harvest losses. The Fish Loss and Waste (FLW) Assessment conducted by FAO in 2022–2023 found an average quality loss of 41.4% in the catch from Sri Lanka’s multi-day fisheries.
+
+...
+
+[Data](articles/b61188c5.json)
+
+---
+
+### Sri Lanka Insurance Corporation appoints Nusith Kumaratunga as Chairman
+
+*2024-10-26 00:57:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-corporation-appoints-nusith-kumaratunga-as-chairman/) · `en`
+
+Sri Lanka Insurance Corporation (SLIC) is pleased to announce the appointment of Mr. Nusith Kumaratunga as the new Chairman, with effect from 18th of October 2024.  Mr. Kumaratunga assumed official duties on 22nd October 2024. A seasoned professional with extensive experience in finance, management, and entrepreneurship, Mr. Kumaratunga brings a wealth of knowledge and expertise to the leadership of Sri Lanka’s largest and most established insurance provider.
+
+Mr. Kumaratunga is a Fellow Member of the Institute of Chartered Accountants of Sri Lanka, having obtained his membership in 1997. He is also a member of the Institute of Certified Management Accountants of Sri Lanka. In addition, he holds a B.Sc. Special Degree in Estate Management and Valuation from the University of Sri Jayewardenepura.
+
+Fitch affirms financial strength of HNB Assurance and HNB General Insurance
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/a152fad4.json)
+
+---
+
 ### State-hood and survival: Tamils, Palestinians and self-determination
 
 *2024-10-26 00:50:21* · [`dailyftlk`](https://www.ft.lk/columns/State-hood-and-survival-Tamils-Palestinians-and-self-determination/4-768427) · `en`
@@ -251,6 +393,30 @@ Bandara who is now domiciled in the UK has written with a sense of personal loss
 [Data](articles/234839c3.json)
 
 [Extended Data](ext_articles/234839c3.ext.json)
+
+---
+
+### Electoral Preferences Of The Government Employees Of Sri Lanka
+
+*2024-10-26 00:46:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/electoral-preferences-of-the-government-employees-of-sri-lanka/) · `en`
+
+The only way to find out electoral preferences of the state sector employees is to study the way the postal votes were casted during the elections. Prior to 1982, results of postal votes were not available on the website of the Election Commission. Starting from the Presidential Election of 1982 the postal vote preferences were indicated under each district in both Presidential and Parliamentary Elections except for the Presidential Election held in 1999 where the main contestants were Chandrika Kumaratunga and Ranil Wickremesinghe. For this analysis I have considered only the results of the Presidential Elections held from 1982 to 2024 except in 1999.
+
+...
+
+[Data](articles/d8e3be27.json)
+
+---
+
+### The Role Of Ethnic Unity In National Development
+
+*2024-10-26 00:36:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-role-of-ethnic-unity-in-national-development/) · `en`
+
+Sri Lanka is a multi-ethnic, multi-religious island nation that has experienced both the triumphs and challenges of diversity. With a population comprised of Sinhalese, Tamils, Muslims, Burghers, and other ethnic groups, the country’s identity is inherently pluralistic. Ethnic diversity can be a source of strength, providing a rich tapestry of cultures, perspectives, and talents that can drive national development. However, Sri Lanka’s history also reflects the dangers of ethnic division, with conflicts that have significantly hampered progress.
+
+...
+
+[Data](articles/c2bbb1c9.json)
 
 ---
 
@@ -303,6 +469,36 @@ In a match against the Maldives today, Sri Lankan athletes played very relaxed t
 [Data](articles/9b037ca7.json)
 
 [Extended Data](ext_articles/9b037ca7.ext.json)
+
+---
+
+### இஸ்ரேல் தாக்குதல்: ஊடகவியலாளர்கள் மூவர் பலி
+
+*2024-10-25 23:32:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-தாக்குதல்-ஊடகவியலாளர்கள்-மூவர்-பலி/50-346062) · `ta`
+
+லெபனானின் தெற்கு ஹஸ்பையா பகுதியிலுள்ள தங்குமிடத்தின் மீது இஸ்ரேல் நடத்திய தாக்குதலில் அவர்கள் கொல்லப்பட்டுள்ளனர்.
+
+லெபனான் மீதான இஸ்ரேலின் தாக்குதல் குறித்து செய்தி சேகரிப்பில் ஈடுபட்டிருந்த ஊடகவியலாளர்களே இந்த தாக்குதலில் கொல்லப்பட்டுள்ளனர் என வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன. (a)
+
+◼️
+
+[Data](articles/04033361.json)
+
+---
+
+### காற்றின் வேகம் அதிகரிக்கும்
+
+*2024-10-25 23:23:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றின்-வேகம்-அதிகரிக்கும்/175-346061) · `ta`
+
+நாட்டை சூழவுள்ள கடற்பகுதிகளில் காற்றின் வேகமானது அதிகரித்து வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+வங்காள விரிகுடா கடல் பகுதியில் மணித்தியாலத்துக்கு 60 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் எனத் தெரிவிக்கப்பட்டுள்ளது.
+
+எனவே, குறித்த கடற்பகுதிகளுக்கு மறு அறிவித்தல் வரை செல்ல வேண்டாம் என வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தல் விடுத்துள்ளது. (a)
+
+◼️
+
+[Data](articles/27c79de0.json)
 
 ---
 
@@ -2119,291 +2315,5 @@ Meanwhile, the Special Task Force (STF) summoned the staff and storage area and 
 [Data](articles/c1381b82.json)
 
 [Extended Data](ext_articles/c1381b82.ext.json)
-
----
-
-### The two most expenditure on the presidential election
-
-*2024-10-25 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202546) · `si`
-
-Here's a summary of the two biggest expenditures in the presidential election in 200 characters:
-
-
-
-Sajith Premadasa (Samagi Jana Balavegaya) spent Rs. 936 million as candidate and Rs. 194 million from party. Ranil Wickremesinghe (independent) spent Rs. 90 million.
-
-🟩
-
-පසුගිය ජනාධිපතිවරණයේදී අපේක්ෂකයින් සිදුකළ වියදම් ඇතුළත් ලේඛනය මැතිවරණ කොමිෂන් සභාව මගින් ප්‍රදර්ශනය කර තිබේ.
-
-ඒ අනුව 2024 ජනාධිපතිවරණයේ වැඩිම මුදලක් වියදම් කර ඇත්තේ සමගි ජන බලවේගයේ අපේක්ෂකයා වූ සජිත් ප්‍රේමදාස මහතා වන අතර එම මුදල රුපියල් කෝටි 112කට අධිකය.
-
-එහිදී ඔහු රුපියල්  936,258,524.60ක මුදලක් අපේක්ෂකයා ලෙස වැය කර ඇති අතර සමගි ජන බලවේගය ඔහු වෙනුවෙන් රුපියල් 194,087,715.04ක් වියදම් කර තිබේ.
-
-දෙවෙනියට වැඩිම වියදමක් දැරූ අපේක්ෂකයා වන්නේ ස්වාධීන අපේක්ෂකයෙකු වූ රනිල් වික්‍රමසිංහ මහතාය.
-
-He has spent Rs. 90,327,687.16 and he is the highest expenditure of independent candidates.
-
-මෙවර ජනාධිපතිවරණය ජයගත් ජාතික ජන බලවේගයේ අපේක්ෂක අනුර කුමාර දිසානායක මහතා කිසිඳු පෞද්ගලික වියදමක් දරා නොමැති බව ඔහු මැතිවරණ කොමිසමට එවූ වාර්තාවේ දැක්වෙයි.
-
-කෙසේවෙතත් ඔහු ඉදිරිපත් වූ පක්ෂය වන ජාතික ජනබලවේගය විසින් රුපියල් 527,999,889.38ක මුදලක් මැතිවරණ වැඩකටයුතු සඳහා වැය කර තිබේ.
-
-Namal Rajapaksa has no expenditure on his personal money for election campaigns, which were fourth in the presidential election this year.
-
-...
-
-[Data](articles/56c7aa1f.json)
-
-[Extended Data](ext_articles/56c7aa1f.ext.json)
-
----
-
-### Electricity bill reduction proposal utility commo
-
-*2024-10-25 14:03:29* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිල-අඩුකිරිමේ-යෝජනාව-උපයෝගිතා-කොමිෂමට/11-412685) · `si`
-
-Ceylon Electricity Board sends bills to Public Utilities Commission. Utility commission considers tariff reduction proposal. Two previous reductions this year. Future reduction announcement expected.
-
-🟩
-
-The Ceylon Electricity Board (CEB) has taken steps to send the electricity bill to the Public Utilities Commission.
-
-After considering the proposal, the proposals to reduce the electricity tariffs and reducing electricity tariffs will be announced by utility commissions.
-
-The electricity bill has been reduced on two occasions this year. This year, the electricity bill will be reduced this year.
-
-◼️
-
-[Data](articles/e3f5b980.json)
-
-[Extended Data](ext_articles/e3f5b980.ext.json)
-
----
-
-### Sri Lanka's position for the IMF third installment fund
-
-*2024-10-25 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197087) · `ta`
-
-Sri Lanka progresses in implementing reform program. IMF notes significant progress in economic reforms. Third installment of EFF scheme upgraded to support ongoing efforts.
-
-🟩
-
-சீர்த்திருத்த வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதில் குறிப்பிடத்தக்களவு முன்னேற்றத்தை இலங்கை அடைந்துள்ளதாக சர்வதேச நாணய நிதியம் தெரிவித்துள்ளது.
-
-According to Dr. Krishna Srinivasan, Director of the Asian and Pacific Department of the International Monetary Fund, said that the soon -to -be -expanded financial facility (EFF) scheme of the upcoming EFF project has been upgraded to the value of the third installment.
-
-◼️
-
-[Data](articles/7e989c93.json)
-
-[Extended Data](ext_articles/7e989c93.ext.json)
-
----
-
-### Sri Lanka has long way to go to achieve strong, sustainable recovery – IMF
-
-*2024-10-25 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102920/sri-lanka-has-long-way-to-go-to-achieve-strong-sustainable-recovery-imf) · `en`
-
-Sri Lanka has made significant progress in implementing economic reforms, positioning itself to advance quickly toward the third review of the Sri Lanka EFF program, which is coming up soon, a senior International Monetary Fund official said on Thursday.
-
-Krishna Srinivasan, director of the International Monetary Fund’s Asia and Pacific Department, noted that when the new government took office recently, he led a high level team to Colombo to discuss and to engage with the authorities.
-
-He stated that they some very productive discussions with the new government and its team and that the discussions are continuing this week during the IMF-World Bank Annual Meetings.
-
-“Now, there was broad consensus, I would say unanimous consensus, that Sri Lanka, which was tearing at the abyss in 2022, has come a long way in terms of undertaking reforms which have led to some hard won gains, as you can know.”
-
-...
-
-[Data](articles/a7a2b222.json)
-
-[Extended Data](ext_articles/a7a2b222.ext.json)
-
----
-
-### Election poster
-
-*2024-10-25 13:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தேர்தல்-சுவரொட்டி-ஒட்டியவர்-மின்சாரம்-தாக்கி-பலி/72-346039) · `ta`
-
-A 45-year-old man was electrocuted while pasting an election poster near an elephant enclosure in Mullaitivu. He touched a live electrical connection hidden behind a tin fence. The victim's body is at the local hospital. Investigations are ongoing regarding permission for the elephant enclosure.
-
-🟩
-
-The incident of a person who was electrocuted on Thursday night (24) night was reported to have been killed when a poster for a party's election campaign in the Mullaitivu and Oddusuttan police division of Mullaitivu.
-
-At around 11.00 pm, a man who tried to paste a party for a party in Muthu Nayakapuram Muthiyankattu area has died of electricity from an electric connection to the elephant.
-
-Electricity was laid to protect the elephant from the land owner in front of the land fence. Unbeknownst to him, his fence was killed when the poster was pasted on the tin.
-
-The 45 -year -old Kasalingam Ladyipan of Muthu Nayakapuram Muthuiyankattu Pattusuttan has been electrocuted.
-
-His body has been kept at the Mullaitivu District Hospital.
-
-Investigations are underway on whether the owner of the land has permitted the elephant.
-
-◼️
-
-[Data](articles/4cae334f.json)
-
-[Extended Data](ext_articles/4cae334f.ext.json)
-
----
-
-### Donated Australian King Air arrives in Sri Lanka
-
-*2024-10-25 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102919/donated-australian-king-air-arrives-in-sri-lanka) · `en`
-
-A former Royal Australian Air Force King Air 350 arrived in Sri Lanka on October 24 following a ferry flight from Australia.
-
-The aircraft, A32-673, was earmarked for donation to the Sri Lankan Air Force in May 2023. It will be supported in Sri Lanka for 12 months by Australia, before responsibility is turned over to the Sri Lankan Air Force.
-
-It will be used to perform maritime domain awareness missions by the Sri Lankan Air Force, complementing a King Air 360ER provided by the US Government in early October.
-
-A32-673 was fitted with an intelligence, surveillance and reconnaissance pod before delivery to the Sri Lankan Air Force.
-
-In 2023, fourteen years after handing its four Beechcraft 350 Super King Air aircraft to Air Force, the Australian Army once again decided it needs a fixed-wing support capability.
-
-...
-
-[Data](articles/529049da.json)
-
-[Extended Data](ext_articles/529049da.ext.json)
-
----
-
-### Treasure progress in Sri Lanka - IMF
-
-*2024-10-25 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202545) · `si`
-
-Sri Lanka makes progress on IMF reforms, third review underway under EFF program.
-
-🟩
-
-The International Monetary Fund (IMF) says Sri Lanka has made significant progress in implementing the IMF reforms for land.
-
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ආසියා පැසිෆික් කලාපයේ අධ්‍යක්ෂක ක්‍රිෂ්ණා ශ්‍රීනිවාසන් ඒ බව පෙන්වා දී තිබේ.
-
-ඔහු වැඩිදුරටත් සඳහන් කර ඇත්තේ ශ්‍රී ලංකාවේ විස්තීරණ ණය පහසුකම (EFF) යටතේ ළඟදීම පැමිණෙන තුන්වන සමාලෝචනය කරා කඩිනමින් ඉදිරියට යාමට අවස්ථාව උදාකර ඇති බවය.
-
-◼️
-
-[Data](articles/5b15c0e2.json)
-
-[Extended Data](ext_articles/5b15c0e2.ext.json)
-
----
-
-### LTTE terrorists have not been observed in Sri Lanka's attack - Police Media Spokesman
-
-*2024-10-25 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202544) · `si`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Sri Lankan police spokesperson denies LTTE involvement in attacks. Investigations ongoing. Three suspects arrested under Prevention of Terrorism Act. No evidence of terrorist nature yet.
-
-🟩
-
-ආරුගම්බේ ඇතුළු දිවයිනේ ප්‍රදේශ කිහිපයක ප්‍රහාරයක් එල්ලවිය හැකි බවට සැලසුමක් ඇති බවට වාර්තා වූ තොරතුරු, හුදෙක් ඊශ්‍රායල ජාතිකයක් ඉලක්ක කර සැලසුම්කළ ප්‍රහාරයක් බව දැනට සිදුකෙරෙමින් පවතින විමර්ශනවලදී අනාවරණය වූ බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසීය.
-
-The Police Media Spokesperson said this while participating in Derana Big Chakz 'Program.
-
-However, he pointed out that the target design has revealed that the target of non-Israeli foreign nationals, Sri Lankans or other disruptive action.
-
-මේ වනවිට එම ප්‍රහාර සැලසුම සම්බන්ධයෙන් ශ්‍රී ලාංකික පුද්ගලයින් තිදෙනෙක් අත්අඩංගුවට ගෙන ඇති අතර ඔවුන්ගෙන් ප්‍රශ්න කිරීමට පොලීසිය රැඳවුම් නියෝග ලබාගෙන තිබේ.
-
-...
-
-[Data](articles/d6514307.json)
-
-[Extended Data](ext_articles/d6514307.ext.json)
-
----
-
-### Petition filed against Ranjan Ramanayake’s nomination for General Election
-
-*2024-10-25 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102918/petition-filed-against-ranjan-ramanayakes-nomination-for-general-election) · `en`
-
-A petition has been filed with the Supreme Court requesting an order to reject the nomination of former Member of Parliament Ranjan Ramanayake, who is contesting the upcoming general election under the “United Democratic Voice” party from the Gampaha District.
-
-The petition, submitted by Gampaha District independent candidate K.M. Mahinda Senanayake, also seeks a ruling declaring that Ramanayake does not have the right to obtain a parliamentary seat or vote.
-
-The Election Commission and its members, Ranjan Ramanayake, the Gampaha District Returning Officer, and several others have been named as respondents in the case.
-
-◼️
-
-[Data](articles/adf61a41.json)
-
-[Extended Data](ext_articles/adf61a41.ext.json)
-
----
-
-### තාත්තයි පුතයි පොලිසියෙන් බේරගන්න පොලීසියට පහර දුන් කාන්තාවන් තිදෙනෙක් අල්ලයි
-
-*2024-10-25 12:46:28* · [`adalk`](https://www.ada.lk/breaking_news/තාත්තයි-පුතයි-පොලිසියෙන්-බේරගන්න-පොලීසියට-පහර-දුන්-කාන්තාවන්-තිදෙනෙක්-අල්ලයි/11-412683) · `si`
-
-Here's a 200-character summary:
-
-
-
-Three women arrested, police injured during raid. Two officers hurt, hospitalized. Suspects taken to court, remanded until 29th. Incident occurred in Oyamaduwa, Sri Lanka.
-
-🟩
-
-වරෙන්තු ලැබූ තාත්තයි පුතයි බේර ගන්න තියුණු ආයුධ වලින් සහ ගල් මුගුරුවලින් පොලිසියට පහර දී නිලධාරීන් දෙදෙනෙකුට තුවාල සිදු කල කාන්තාවන් 3ක් අත්අඩංගුවට .................
-
-Two women who were arrested by two police officers who were injured in the arrest of two warrants and the injured were transferred to the Anuradhapura Teaching Hospital.The Oyamaduwa Police said.
-
-The police say that two women aged 14 and 40 years old, a resident of the Oyamaduwa Vanni, the Oyamaduwa Vanni, Vanayakarambe, is a 14 year old daughter of the main suspect.
-
-පහර කෑමට ලක්ව තුවාල ලැබූ  පොලිස් කොස්තාපල්වරුන් දෙදෙනා ඇලයාපත්තුව  රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව වැඩි දුර ප්‍රතිකාර සඳහා, අනුරාධපුර  ශික්ෂන් රෝහල වෙත මාරු කර යවා ඇතැයි, ඔයාමඩුව පොලිසිය සඳහන් කළේය.
-
-අනුරාධපුර මහේස්ත්‍රාත් අධිකරණය මගින් නිකුත් කර තිබූ වරෙන්තුවකට අනුව ඔයාමඩුව, වැල්මල්ගම, ප්‍රදේශයේ පියෙකු සහ පුත්‍රයෙකු අත්අඩංගුවට ගැනීමට යාමේදී මෙම ප්‍රහාරය එල්ල වූ බව පොලිසිය කියයි.
-
-...
-
-[Data](articles/bfe003a7.json)
-
-[Extended Data](ext_articles/bfe003a7.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-10-25 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/197084) · `ta`
-
-Today: RBI announces currency exchange rates. US Dollar buying price: ₹289.1548, selling price: ₹298.2096.
-
-🟩
-
-இன்று  வெள்ளிக்கிழமை (25) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 289.1548 ரூபாவாகவும், விற்பனை விலை 298.2096 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/aff39bbb.json)
-
-[Extended Data](ext_articles/aff39bbb.ext.json)
-
----
-
-### Sri Lanka given diesel saving fishing boat tech, advanced cooling to cut fish loss: FAO
-
-*2024-10-25 12:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-given-diesel-saving-fishing-boat-tech-advanced-cooling-to-cut-fish-loss-fao-184884/) · `en`
-
-ECONOMYNEXT – The Food and Agricultural Organization and Norway have designed a bow which can be retrofitted to Sri Lanka’s multi-day fishing boats to cut fuel use, and also launched cooling system to cut fish losses.
-
-Sri Lanka multi-day fishing boats typically carry ice to cool fish. This practice compromises quality, leading to post-harvest losses.
-
-This results in an average quality loss of 41.4 percent in the catch from Sri Lanka’s multi-day fisheries, according to the Fish Loss and Waste (FLW) Assessment conducted by FAO in 2022–2023.
-
-To address this challenge, FAO has installed an advanced cooling system on a newly constructed multi-day fishing vessel to ensure fish are kept at optimal temperatures throughout the voyage.
-
-“This technology strengthens the resilience of fishing operations, ensuring higher-quality fish products reach the market while reducing waste and spoilage,” FAO said in a statement.
-
-...
-
-[Data](articles/79123db1.json)
-
-[Extended Data](ext_articles/79123db1.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 16:12:55**
+As of **2024-10-26 16:24:05**
 
 ## Newspaper Stats
 
-*Scraped **51,506** Articles*
+*Scraped **51,508** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 412
-colombotelegraphcom | 518
+colombotelegraphcom | 519
 bbccomsinhala | 521
 islandlk | 3,057
 economynextcom | 3,142
@@ -18,7 +18,7 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,787
 adaderanalk | 6,099
-tamilmirrorlk | 7,116
+tamilmirrorlk | 7,117
 virakesarilk | 8,290
 adaderanasinhalalk | 8,947
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 8,947
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,503 (100.0%) of 51,506 articles have been extended.
+51,506 (100.0%) of 51,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
 
-### ඇල්පිටියේ ඡන්දය ප්‍රකාශ කිරීම අවසන් - ගණනය කිරීම් ඇරඹෙයි
+### Elpitiya finalized - calculations begin
 
 *2024-10-26 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202583) · `si`
 
-ඇල්පිටිය ප්‍රාදේශීය සභා ඡන්ද විමසීමේ කටයුතු අද (26) පස්වරු 4.00ට අවසන් කෙරුණි.
+Elpitiya PS Palace completion at 4pm. Vote counting begins after peaceful election. 51% votes cast by 3pm, counting ongoing.
 
-ගාල්ල දිස්ත්‍රික් තේරීම්භාර නිලධාරී ඩබ්ලිව්.ඒ. ධර්මසිරි මහතා සඳහන් කළේ අදාළ ඡන්ද මධ්‍යස්ථානවලදීම ඡන්දය ගණනය කිරීම් සිදුකෙරෙන බවය.
+🟩
 
-එමෙන්ම ඡන්ද විමසීමේ කටයුතු ඉතා සාමකාමී තත්ත්වයක් තුළ පැවති බව ඔහු වැඩිදුරටත් සඳහන් කළේය.
+Elpitiya PS Palace was completed at 4.00 pm today.
 
-"අද පස්වරු 3 පමණ වනවිට නියමිත ඡන්ද ප්‍රමාණයෙන් ඡන්ද 51%ක ප්‍රමාණයක් ඡන්දය භාවිත කර තිබුණා. අද පස්වරු 4:30ට පමණ ඒ ඒ ඡන්ද පොළේදීම ඡන්දය ගණනය කිරීමේ කටයුතු ආරම්බ කෙරෙනවා."
+Galle District Returning Officer WA. Dharmasiri said that the vote calculations are being carried out at the polling stations.
+
+He added that the voting was in peaceful.
+
+"At about 3 pm today 3 pm, 51% of votes were voted. About 4:20 pm today, the vote calculating the vote. "
 
 ◼️
 
 [Data](articles/0b85c17b.json)
+
+[Extended Data](ext_articles/0b85c17b.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ They also urged the public to disregard any rumors or speculation that had previ
 ◼️
 
 [Data](articles/ea6a945d.json)
+
+[Extended Data](ext_articles/ea6a945d.ext.json)
 
 ---
 
@@ -81,6 +89,8 @@ Police have launched an in-depth investigation to identify the motive and indivi
 ◼️
 
 [Data](articles/1f04bf59.json)
+
+[Extended Data](ext_articles/1f04bf59.ext.json)
 
 ---
 
@@ -103,6 +113,22 @@ He said that after the counting officer, the Galle Selection Officer will provid
 [Data](articles/d6eb6f37.json)
 
 [Extended Data](ext_articles/d6eb6f37.ext.json)
+
+---
+
+### இரத்தினபுரியில் துப்பாக்கிச் சூடு
+
+*2024-10-26 15:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரியில்-துப்பாக்கிச்-சூடு/175-346078) · `ta`
+
+இரத்தினபுரி மாரப்பன தலாவ பிரதேசத்தில் அமைந்துள்ள வீடொன்றின் மீது இன்று (26) அதிகாலை 02 மணியளவில் துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+
+துப்பாக்கிச் சூட்டுச் சம்பவத்தின் போது வீட்டின் உரிமையாளர், அவரது மனைவி, குழந்தை மற்றும் அவரது பெற்றோர்கள் இருந்துள்ள நிலையில், அவர்களில் யாருக்கும் காயங்கள் ஏதும் ஏற்படவில்லை என தெரிவிக்கப்படுகின்றது.
+
+வீட்டின் உரிமையாளர் சுரங்க உரிமையாளர் எனவும், சுரங்கத் தகராறில் துப்பாக்கிச் சூடு நடத்தப்பட்டதாக சந்தேகிக்கப்படுவதாகவும் இரத்தினபுரி பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/217deb6d.json)
 
 ---
 
@@ -891,6 +917,18 @@ He also assured that plans to solve them in the event of any emergency circumsta
 [Data](articles/768550f4.json)
 
 [Extended Data](ext_articles/768550f4.ext.json)
+
+---
+
+### Towards Stability, Equity & Prosperity
+
+*2024-10-26 10:19:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-stability-equity-prosperity/) · `en`
+
+The victory of National People’s Power (Jathika Jana Balawegaya – NPP) at the recent presidential election in Sri Lanka has changed the political landscape of the country. It has given rise to the expectation of a novel and fundamentally different approach towards governance. The electorate expects the government and the state to move away from an autocratic, nepotistic, and militaristic approach, which was the central demand of the “Aragalaya” movement. One of the key themes of the NPP campaign was the fight against corruption, wastage, and mismanagement of resources, which was also a theme that fuelled the “Aragalaya” campaign.
+
+...
+
+[Data](articles/9ea939bc.json)
 
 ---
 
@@ -2195,69 +2233,5 @@ The European Union is a decisive partner in Sri Lanka, as the second largest exp
 [Data](articles/6b26f283.json)
 
 [Extended Data](ext_articles/6b26f283.ext.json)
-
----
-
-### Asian Cup for Growing Players Team: Sri Lanka A team in finals
-
-*2024-10-25 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/197125) · `ta`
-
-Sri Lanka A team qualifies for Asian Cup final against adult players in Oman. They defeated Pakistan in semis, winning by 7 wickets. Key performances from Tushan Hemantha, Ahan Wickremasinghe, and Lahiru Udara.
-
-🟩
-
-The Sri Lankan A team qualified to play in the Asian Cup final between the grown -up players in Oman.
-
-The Sri Lankan A team advanced to the final by 7 wickets in the first semi -finals held against Shaheans in Pakistan on Friday afternoon.
-
-Tushan Hemantha's accurate bowling, Ahan Wickremasinghe and Lahiru Udara, have made Sri Lanka easier.
-
-Pakistan scored 135 runs for the loss of 9 wickets in 20 overs.
-
-Initial player Omir Yusuf Mataram captured 68 runs with 46 balls and 4 sixes in 46 balls.
-
-Dushan Hemantha took 4 wickets for 21 runs, Nippun Ranzika 2 wickets for 21 runs while Eshan Malinga took 2 wickets for 28 runs.
-
-In response to 136 runs, the Sri Lankan A team won the toss and elected to win only 3 wickets in 16.3 overs.
-
-Ahan Wickremesinghe scored 53 runs and Lahiru Udara 43 without losing the match and the two shared 64 runs in the 2nd wicket.
-
-◼️
-
-[Data](articles/b200e027.json)
-
-[Extended Data](ext_articles/b200e027.ext.json)
-
----
-
-### Warner removes a life-imposed ban
-
-*2024-10-25 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202559) · `si`
-
-Here's a 200-character summary:
-
-
-
-Warner lifts lifetime ban from Australian cricket. Former captain removed from Big Bash League after ball-tampering scandal in 2018. Decision sparks debate among sports critics.
-
-🟩
-
-David Warner David Warner has decided to remove the ban on the lives of Australia.
-
-The ball in Cape Town, like a sand paper in the year 2018, was to be charged with a sand paper.
-
-In addition to Wariore, Stephen Smith and Cameron Bantofact was also banned, as a result of it.
-
-As a result, Australian cricket has banned a lifetime of the Big Bash League, in the Big Bash League, or any other tourist team in the country.
-
-However, the Australian Cricket Behavation of the Australian Cricket Behavation, however, has been canceled the leadership ban on the life of the Australian cricket.
-
-As a result, Sports critics point out that the Ionar who left the international cricket will lead the Sydney Thunder team at the Bigabash League.
-
-◼️
-
-[Data](articles/1408a7d2.json)
-
-[Extended Data](ext_articles/1408a7d2.ext.json)
 
 ---

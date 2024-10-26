@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 23:24:10**
+As of **2024-10-26 23:39:48**
 
 ## Newspaper Stats
 
-*Scraped **51,541** Articles*
+*Scraped **51,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,789
 adaderanalk | 6,104
-tamilmirrorlk | 7,122
+tamilmirrorlk | 7,123
 virakesarilk | 8,296
 adaderanasinhalalk | 8,962
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,962
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,541 (100.0%) of 51,541 articles have been extended.
+51,542 (100.0%) of 51,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### கொழும்பு - யாழ்ப்பாணம் புகையிரத சேவை மீண்டும் ஆரம்பம்
+
+*2024-10-26 23:06:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-யாழ்ப்பாணம்-புகையிரத-சேவை-மீண்டும்-ஆரம்பம்/175-346084) · `ta`
+
+Colombo Fort to Kandy train service resumes. Trains depart Fort at 5:45 AM and 1:45 PM daily, reaching Anuradhapura at 9:30 AM and 6:15 PM respectively.
+
+🟩
+
+The Sri Lanka Railway Department said that the train service from Colombo Fort to Congo.
+
+After the rehabilitation of the railway line between Mahawa and Anuradhapura, action is to be taken.
+
+கொழும்பு கோட்டையிலிருந்து எதிர் வரும் திங்கட்கிழமை ஆரம்பமாகவுள்ள ரயில் சேவை கொழும்பு கோட்டையிலிருந்து அதிகாலை 5.45 மணிக்கு புறப்படவுள்ளதுடன் காலை 9.30 மணிக்கு அனுராதபுரத்துக்கும்  பகல் 1.23 க்கு காங்கேசன்துறைக்கும் செல்லும் இதே வேலை பகல் 1.45 க்கு புறப்படும் ரயில் மாலை 6.15க்கு அனுராதபுரத்துக்கு செல்லும். Remble
+
+◼️
+
+[Data](articles/b7903f9f.json)
+
+[Extended Data](ext_articles/b7903f9f.ext.json)
+
+---
 
 ### 63 per cent voting in the Elpitiya election
 
@@ -2349,23 +2371,5 @@ The recent courtesy visit by The Colombo Plan to the Transport, Highways, Ports 
 [Data](articles/99bf1700.json)
 
 [Extended Data](ext_articles/99bf1700.ext.json)
-
----
-
-### High Commissioner Bogollagama promotes SL processed food products at Fortnum & Mason, London
-
-*2024-10-26 01:54:39* · [`dailyftlk`](https://www.ft.lk/business/High-Commissioner-Bogollagama-promotes-SL-processed-food-products-at-Fortnum-Mason-London/34-768439) · `en`
-
-Sri Lankan High Commissioner in London Rohitha Bogollagama met with Fortnum & Mason (F&M) CEO Tom Athron, and F&M Tea and coffee buyer Ottilie Cunningham, who recently visited Sri Lanka to source high quality Ceylon Tea.
-
-He was accompanied by the officials of the High Commission of Sri Lanka in the United Kingdom, and the meeting was held at the head office of F&M in London.
-
-The objective of the meeting was to promote Sri Lanka’s main and high-quality processed food export products to F&M. High Commissioner Bogollagama delivered a presentation introducing products from key potential export brands of Sri Lanka and encouraged F&M to engage with Sri Lanka’s processed food export portfolio.
-
-...
-
-[Data](articles/4d1550e9.json)
-
-[Extended Data](ext_articles/4d1550e9.ext.json)
 
 ---

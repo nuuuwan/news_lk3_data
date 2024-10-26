@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 08:47:24**
+As of **2024-10-26 08:22:01**
 
 ## Newspaper Stats
 
-*Scraped **51,456** Articles*
+*Scraped **51,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,141
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,785
-adaderanalk | 6,090
-tamilmirrorlk | 7,103
+adaderanalk | 6,089
+tamilmirrorlk | 7,101
 virakesarilk | 8,278
 adaderanasinhalalk | 8,935
 
@@ -26,65 +26,11 @@ adaderanasinhalalk | 8,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,452 (100.0%) of 51,456 articles have been extended.
+51,447 (100.0%) of 51,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
-
-### பொலிஸ் உத்தியோகத்தர்கள் பணி இடைநீக்கம்
-
-*2024-10-26 08:19:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தர்கள்-பணி-இடைநீக்கம்/175-346064) · `ta`
-
-பமுனுகம பிரதேசத்தில் இளைஞர்கள் இருவரை தாக்கியதாக கூறப்படும் சம்பவம் தொடர்பில் பமுனுகம பொலிஸ் உத்தியோகத்தர்கள் மூவர் பணி இடைநீக்கம் செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
-
-தங்க நகையை திருடிய சந்தேகத்தின் பேரில் கடந்த ஞாயிற்றுக்கிழமை கைது செய்யப்பட்ட இரு இளைஞர்களை பொலிஸ் அதிகாரிகள் கொடூரமான முறையில் தாக்கியதாக குற்றம் சுமத்தி நேற்று பிற்பகல் போபிட்டிய பமுனுகம பொலிஸாருக்கு முன்பாக கிராம மக்கள் குழுவொன்று ஆர்ப்பாட்டத்தில் ஈடுபட்டமை குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/fecd8da8.json)
-
----
-
-### Elpitiya PS Election begins
-
-*2024-10-26 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102933/elpitiya-ps-election-begins) · `en`
-
-The Elpitiya Pradeshiya Sabha Election has commenced at 7:00 a.m. today (26), with eight recognized political parties and an independent group competing to elect 29 members.
-
-A total of 55,643 voters are eligible to cast their votes at 48 polling centers and the polling will be held according to the 2018 voter registration list, the Election Commission announced.
-
-Meanwhile, the chairman of the Election Commission R.M.A.L. Rathnayake stated that voting for the Elpitiya Pradeshiya Sabha election will be held from 7.00 a.m. to 4.00 p.m. today (26), with all necessary security measures in place.
-
-Additionally, the Executive Director of People’s Action for Free & Fair Elections (PAFFREL) Rohana Hettiarachchi, stated that they will deploy their officials for monitoring at all the polling stations during the Elpitiya Pradeshiya Sabha Election.
-
-◼️
-
-[Data](articles/9c1d8ddd.json)
-
-[Extended Data](ext_articles/9c1d8ddd.ext.json)
-
----
-
-### Rain today ...
-
-*2024-10-26 08:12:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-மழை/175-346063) · `ta`
-
-Rain expected in Western, Sabaragamuwa, North Western provinces and Galle, Matara districts. Heavy rainfall predicted in some areas, exceeding 75mm.
-
-🟩
-
-The Department of Meteorology has said that rain or thunderstorms are expected in the Western, Sabaragamuwa, North Western and North Western Provinces and Galle and Matara districts.
-
-Heavy rains are expected in some parts of the Western, Sabaragamuwa and North Western provinces, the department said that more than 75 millimeters are expected.. (That)
-
-◼️
-
-[Data](articles/2a931d7d.json)
-
-[Extended Data](ext_articles/2a931d7d.ext.json)
-
----
 
 ### MM in several areas. Heavy rains over 75
 
@@ -154,59 +100,45 @@ The Israeli military said Saturday it had launched “precise strikes on militar
 
 ---
 
-### Alpitting vote begins
+### ඇල්පිටියේ ඡන්දය ඇරඹෙයි
 
 *2024-10-26 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202567) · `si`
 
-Elpitiya Local Government Election summary: Voting starts at 7 AM. 55,643 eligible voters at 48 polling stations. 29 seats contested. Election Commissioner confirms process. PAFFREL deploying observers. Postal ballots to be handled by Postal Department.
+සභිකයන් 29 දෙනෙකු තෝරාපත්කර ගැනීම සඳහා පිළිගත් දේශපාලන පක්ෂ 08ක් සහ ස්වාධීන කණ්ඩායමක් තරගවදින ඇල්පිටිය පළාත් පාලන ඡන්ද විමසීම අද (26) පෙ.ව. 7.00ට ආරම්භ විය.
 
-🟩
+ඡන්ද මධ්‍යස්ථාන 48කදී ඡන්ද දායකයින් 55,643 දෙනෙකු ඡන්දය ප්‍රකාශ කිරීම සඳහා සුදුසුකම් ලබා සිටියි.
 
-Elpitiya Local Government Elections (26) will compete in the selection of 29 members. Started at 7.00.
+පෙරවරු 7 සිට පස්වරු 4 දක්වා කාලය තුළ ඡන්ද විමසීම පැවැත්වීම සඳහා සියලු කටයුතු සූදානම් කර ඇති බව මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්. එම්. ඒ .එල් රත්නායක මහතා සඳහන් කළේය.
 
-55,643 voters are eligible to vote in 48 polling centers.
+පැෆ්රල් සංවිධානයේ විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා සදහන් කළේ, ඇල්පිටිය ප්‍රාදේශීය සභා මැතිවරණයේ ඡන්දය භාවිතා කරනු ලබන ස්ථාන සියල්ලෙහිම නිරික්ෂණ කටයුතු සදහා තම නිලධාරින් යෙදවීමට පියවර ගෙන ඇති බවයි.
 
-Elections Commissioner Chairman R. Chairman of Elections. M. A.L Ratnayake said.
-
-Executive Director of PAFFREL Rohana Hettiarachchi said that steps have been taken to deploy their officials for observation activities in the Elpitiya Pradeshiya Sabha elections.
-
-Meanwhile, the postal ballot to the Postal Department is due to be handed over to the Postal Department to the postal election.
+මේ අතර මහ මැතිවරණයට අදාළ නිල ඡන්ද දැන්වීම් පත්‍රකා තැපැල් දෙපාර්තමේන්තුව වෙත භාරදීම අද සිදුකිරීමට නියමිත අතර, තැපැල් ඡන්ද සලකුණු කිරීම ඔක්තෝබර් මස 30 වනදා සහ නොවැම්බර් මස 4 වනදා සිදුකිරීමට නියමිතව ඇත.
 
 ◼️
 
 [Data](articles/417d1825.json)
 
-[Extended Data](ext_articles/417d1825.ext.json)
-
 ---
 
-### Air attack on Israel Iran
+### இஸ்ரேல் ஈரான் மீது வான் தாக்குதல்
 
 *2024-10-26 06:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197131) · `ta`
 
-Israel launches air strike on Iran in response to months-long attacks. Targets military installations, not energy infrastructure. US cooperation involved. Decision made after thorough review by security cabinet.
+இஸ்ரேல் ஈரான் மீது வான் தாக்குதலை ஆரம்பித்துள்ளது.ஈரானில் உள்ள இலக்குகள் மீது துல்லியமான தாக்குதலை மேற்கொள்வதாக இஸ்ரேல் இராணுவம் தெரிவித்துள்ளது.
 
-🟩
+பல மாதங்களாக ஈரான் மேற்கொண்ட தாக்குதலிற்கு பதிலடியாக இந்த தாக்குதல்களை மேற்கொள்வதாகஇஸ்ரேல் தெரிவித்துள்ளது.
 
-Israel has launched an air strike on Iran.
+ஈரானின் எரிசக்தி உட்கட்டமைப்புகளை இலக்குவைக்கவில்லை என தெரிவித்துள்ள இஸ்ரேலிய அதிகாரிகள் அமெரிக்காவின் ஒத்துழைப்புடனேயே இந்த தாக்குதல் இடம்பெறுகின்றது வான் பாதுகாப்பிற்கு அமெரிக்கா உதவுகின்றது என தெரிவித்துள்ளனர்.
 
-Israeli said the attacks were carried out in response to the Iranian attack for several months.
+ஈரானின் எரிசக்தி உட்கட்டமைப்புகளை இலக்குவைக்கவில்லை என தெரிவித்துள்ள இஸ்ரேலிய அதிகாரிகள் அமெரிக்காவின் ஒத்துழைப்புடனேயே இந்த தாக்குதல் இடம்பெறுகின்றது வான் பாதுகாப்பிற்கு அமெரிக்கா உதவுகின்றது என தெரிவித்துள்ளனர்.
 
-Israeli officials, who have said that Iran's energy infrastructure is not targeted, has said the attack is in the process of the US's cooperation.
+பல மாதங்களாக தொடர்ச்சியாக ஆராய்ந்த பின்னரே ஈரான் மீது தாக்குதல்களை மேற்கொள்வதற்கு முடிவு செய்ததாக இஸ்ரேலிய அதிகாரிகள் தெரிவித்துள்ளனர்.
 
-Israeli officials, who have said that Iran's energy infrastructure is not targeted, has said the attack is in the process of the US's cooperation.
+பாதுகாப்பு அமைச்சரவை பல மாதங்களாக இது குறித்து ஆராய்ந்தது தாக்குதல் எவ்வாறானதாக காணப்படவேண்டும் என ஆராய்ந்தது என இஸ்ரேலிய அதிகாரிகள் தெரிவித்துள்ளனர்.
 
-Israeli officials have said they have decided to carry out attacks on Iran only after several months of review.
-
-Israeli officials have said that the security cabinet has been investigating the matter for months.
-
-We decided to attack military targets in the end, the official said. The official said we decided to attack the goals that could be dangerous or dangerous.
-
-◼️
+...
 
 [Data](articles/3d2372de.json)
-
-[Extended Data](ext_articles/3d2372de.ext.json)
 
 ---
 
@@ -609,8 +541,6 @@ Sri Lanka is a multi-ethnic, multi-religious island nation that has experienced 
 ...
 
 [Data](articles/c2bbb1c9.json)
-
-[Extended Data](ext_articles/c2bbb1c9.ext.json)
 
 ---
 
@@ -2313,5 +2243,75 @@ Diplomatic missions issue security advisories based on minimum requirements. Thi
 [Data](articles/0a66fdb2.json)
 
 [Extended Data](ext_articles/0a66fdb2.ext.json)
+
+---
+
+### Sri Lanka delegation to discuss Adani deal in January Indian visit: NPP member
+
+*2024-10-25 14:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-delegation-to-discuss-adani-deal-in-january-indian-visit-npp-member-184904/) · `en`
+
+ECONOMYNEXT – Sri Lanka will revisit and discuss the Adani renewable energy project when a government delegation visits New Delhi in January next year on the invitation of the Indian government, a ruling National People’s Power (NPP) member said.
+
+The renewable energy deal, which was given to India’s Adani group without any tender, has been challenged in Sri Lanka’s Supreme Court over environmental concerns amid industry experts citing expensive tariff.
+
+Sri Lanka’s interim government has sought time from the court to review Adani’s wind power deal in the island nation’s north-western coastal town of Mannar, as several legal cases are ongoing, Cabinet Spokesman Vijitha Herath said last week.
+
+Before the presidential election the NPP said it will approve any projects without open tenders and review the Adani project approved under the previous government.
+
+...
+
+[Data](articles/b071e229.json)
+
+[Extended Data](ext_articles/b071e229.ext.json)
+
+---
+
+### 22 children hospitalized at a Balangoda school
+
+*2024-10-25 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202547) · `si`
+
+Balangoda school incident: 22 children hospitalized after exposure to chemical solution.
+
+🟩
+
+A group of children in Balangoda in Balangoda has been admitted to the Balangoda Base Hospital due to a sudden complications.
+
+Several girls in this school were cleaned with a chemical solution this morning.
+
+The children and other children who came to the toilet had to be hospitalized due to a sickness.
+
+Our correspondent said the Balangoda CC. 22 children of the Tamil Maha Vidyalaya were hospitalized.
+
+◼️
+
+[Data](articles/72a40930.json)
+
+[Extended Data](ext_articles/72a40930.ext.json)
+
+---
+
+### Investigation into the price of rice control
+
+*2024-10-25 14:37:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-கட்டுப்பாட்டு-விலை-தொடர்பாக-விசாரணை/175-346042) · `ta`
+
+Rice price control investigation underway. Consumer Affairs Authority conducting inspections. Rice mill owners agree to sell 1kg for 218 rupees. Market price set at 220 rupees. Legal action threatened against sellers above control price.
+
+🟩
+
+Investigations have been launched to whether the rice will be released to the market at control prices, the Ministry of Commerce said.
+
+Its secretary MM. Naimuddin said that the Consumer Affairs Authority officials had begun inspections at the district level.
+
+During a recent discussion with the president, rice mill owners agreed to release one kilogram of rice in the market for 218 rupees.
+
+Accordingly, the market can be sold for 220 rupees in the market, the secretary said.
+
+He also warned that legal action would be taken to detect places where rice was sold beyond the control price.
+
+◼️
+
+[Data](articles/98f5307c.json)
+
+[Extended Data](ext_articles/98f5307c.ext.json)
 
 ---

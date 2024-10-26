@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 23:39:48**
+As of **2024-10-26 23:59:14**
 
 ## Newspaper Stats
 
-*Scraped **51,542** Articles*
+*Scraped **51,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,87 @@ adalk | 4,789
 adaderanalk | 6,104
 tamilmirrorlk | 7,123
 virakesarilk | 8,296
-adaderanasinhalalk | 8,962
+adaderanasinhalalk | 8,964
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,542 (100.0%) of 51,542 articles have been extended.
+51,544 (100.0%) of 51,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### West Indies win
+
+*2024-10-26 23:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202602) · `si`
+
+West Indies defeat Sri Lanka in 6th ODI, winning by 8 wickets. Sri Lanka leads series 2-1 after 3 matches. Match delayed due to rain, resuming with 23 overs per side. Kusal Mendis top scores with 56 runs.
+
+🟩
+
+ශ්‍රී ලංකා කණ්ඩායම පරාජය කර තෙවන එක්දින ක්‍රිකට් තරගයෙන් කඩුලු 8ක පහසු ජයක් ලැබීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමත් විය.
+
+With this Jayath, Sri Lanka took the three-match tournament match 2-1.
+
+West Indies won the toss and invited Sri Lanka to bat first.
+
+Accordingly, the Sri Lankan opening batsmen and the wedding of Sri Lankan opening batsmen and the wish for the first wicket was set up for the first wicket for the first wicket.
+
+The contest was interrupted in the 18th and the competition, and the match was delayed for several hours.
+
+Accordingly, the match restarted one innings to 23 overs.
+
+Sri Lanka scored 156 runs for the loss of 3 wickets in the decads.
+
+Kusal Mendis scored 56 runs while Kusal Mendis scored 56 out of 22 balls.
+
+Accordingly, according to the Duckworth and Lewis theory, the West Indies were given 195 runs in 23 overs.
+
+◼️
+
+[Data](articles/7104a472.json)
+
+[Extended Data](ext_articles/7104a472.ext.json)
+
+---
+
+### Elpitiya Pradeshiya Sabha for composition
+
+*2024-10-26 23:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202601) · `si`
+
+Elpitiya Pradeshiya Sabha election results: National Folk wins with 17,295 seats. Other parties: Sri Lanka Civil Front (3,597), United Front of the Public United Front (2,612), Independent Group (2,568), United Nations United Freedom Alliance (1,350), National People's Party (521), Janasetha Peramuna (50).
+
+🟩
+
+According to the end result of the Elpitiya Pradeshiya Sabha elections, the national folk has won the party.
+
+17,295 MPs received the national folk force
+
+7924 votes polled 7924 votes
+
+3597 votes polled by the Sri Lanka Civil Front - 3597
+
+2612 MPs received the United Front of the Public United Front - 2
+
+2568 MPs who received the independent group received 2568 MPs
+
+1350 votes polled by the United Nations United Freedhip Alliance - 1
+
+521 MPs received the National People's Party - 1
+
+388 votes polled 388 votes
+
+50 votes polled by Janasetha Peramuna
+
+◼️
+
+[Data](articles/07455f45.json)
+
+[Extended Data](ext_articles/07455f45.ext.json)
+
+---
 
 ### கொழும்பு - யாழ்ப்பாணம் புகையிரத சேவை மீண்டும் ஆரம்பம்
 
@@ -2341,35 +2411,5 @@ The cuts will be in effect for a two-year period, the President’s office said.
 [Data](articles/66709d46.json)
 
 [Extended Data](ext_articles/66709d46.ext.json)
-
----
-
-### Sri Lanka Tourism’s “unsung hero” Renton de Alwis
-
-*2024-10-26 02:48:13* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-Tourism-s-unsung-hero-Renton-de-Alwis/4-768448) · `en`
-
-I was lucky enough to associate with Renton for over two and a half decades. Maybe almost three, I believe. Memory goes back to “De Alwis Advertising Agency” owned by Anandatissa de Alwis, where Renton was driving the agency. I was the Marketing Manager for Elephant Lite Corporation Ltd. (ELCL). Marketing “Laxapana” dry cell batteries and ‘De Alwis’ was our advertising agency. When we launched “Fuji” batteries, as a very young marketing professional, strategic level advice received by visionary leader ‘Renton’ was unmatchable. Input I received for my launch presentation by him made me a different person. Teacher, Advisor, Consultant and dear friend, it is so sad to miss you suddenly and the message was shocking news to me.
-
-...
-
-[Data](articles/b222cf1a.json)
-
-[Extended Data](ext_articles/b222cf1a.ext.json)
-
----
-
-### The Colombo Plan officials meet Port and Aviation Ministry to strengthen partnership
-
-*2024-10-26 02:00:24* · [`dailyftlk`](https://www.ft.lk/business/The-Colombo-Plan-officials-meet-Port-and-Aviation-Ministry-to-strengthen-partnership/34-768440) · `en`
-
-From left: Transport, Highways, Ports and Civil Aviation Ministry Secretary K.D.S. Ruwanchandra, The Colombo Plan Secretary General Dr. Benjamin Reyes, Ports and Civil Aviation Ministry Additional Secretary E.M.S.B. Jayasundara, SLPA Chairman (Rtd.) Admiral Sirimewan Ranasinghe WWV, RWP, VSV, USP, SLPA Vice Chairman Eng. Herath M.P. Jayawardhana, SLPA Managing Director Ganaka Hemachandra, SLPA Director – Marketing and BD Savia Mizkin, MAP Lead Consultant Rohan Masakorala, Senior Accountant Teshani Weerakoon, and MAP Project Assistant Tharushini Suriyaarachchi
-
-The recent courtesy visit by The Colombo Plan to the Transport, Highways, Ports and Civil Aviation Ministry Secretary K.D.S. Ruwanchandra and the management of the Sri Lanka Ports Authority (SLPA) represents a significant step in strengthening collaboration and updating attendees on recent developments and initiatives under the Maritime Advisory Program (MAP).
-
-...
-
-[Data](articles/99bf1700.json)
-
-[Extended Data](ext_articles/99bf1700.ext.json)
 
 ---

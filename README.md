@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 19:39:31**
+As of **2024-10-26 19:57:33**
 
 ## Newspaper Stats
 
-*Scraped **51,524** Articles*
+*Scraped **51,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ adalk | 4,789
 adaderanalk | 6,102
 tamilmirrorlk | 7,120
 virakesarilk | 8,290
-adaderanasinhalalk | 8,955
+adaderanasinhalalk | 8,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,524 (100.0%) of 51,524 articles have been extended.
+51,525 (100.0%) of 51,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### ශ්‍රී ලංකා දැල් පන්දු කණ්ඩායම ආසියානු ශූරතාවලියේ අවසන් තරගයට
+
+*2024-10-26 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202595) · `si`
+
+හොංකොං කණ්ඩායම ලකුණු 71- 47ක් ලෙස පහසුවෙන් පරාජය කර ආසියානු දැල්පන්දු ශූරතාවලියේ අවසන් මහා තරගය සුදුසුකම් ලබාගැනීමට ශ්‍රී ලංකා කණ්ඩායම අද (26) සමත් විය.
+
+තරගාවලියේ පළමු අවසන් පූර්ව තරගය ලෙසින් මෙය අද පස්වරුවේ පැවැත්විණි.
+
+කාර්තු 4හි ලකුණු තත්ත්වය 17-9, 19-12, 21-9 හා 14-17ක් ලෙසින් දැක්විණි.
+
+ආසියානු දැල්පන්දු ශූරතාවලියක අවසන් මහා තරගයක් සඳහා ශ්‍රී ලංකාව සුදුසුකම් ලැබූ 11වැනි  අවස්ථාව මෙයයි.
+
+◼️
+
+[Data](articles/8360c008.json)
+
+---
+
+### Expired foods, drugs and vitamin sold
+
+*2024-10-26 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202594) · `si`
+
+Consumer Affairs Authority officials uncovered a racket selling expired Chinese food, drugs, and vitamins. They raided warehouses, seizing large stocks of expired products. The agency warns against such illegal activities in the future.
+
+🟩
+
+The Consumer Affairs Authority officials were able to recover a racket that was changing and re-selling a day-selling racket after China imported from China.
+
+Chinese food, drugs and vitamins are sold in a publicatechable, pharmaceuticals, and vitamins.
+
+As well as Chinese, as well as Chinese, will visit Chinese food.
+
+In such a background, the labels are changed and re-selling the labels here.
+
+Accordingly, the raids on the Customer Service Affairs and Special Investigation Unit went to the scene.
+
+Accordingly, a large stock of expired foods found at the location.
+
+The pharmaceuticals and vitamins were also recovered from previously in the shop.
+
+The Consumer Affairs Authority officials were sealed to the warehouse of the three storied.
+
+The Ada Derana hawk was alert to "show" such illegal acts in the future.
+
+◼️
+
+[Data](articles/8f680c27.json)
+
+[Extended Data](ext_articles/8f680c27.ext.json)
+
+---
 
 ### Ministry of External Affairs reveals about war in the Middle East
 
@@ -2195,55 +2247,5 @@ Sri Lanka is a multi-ethnic, multi-religious island nation that has experienced 
 [Data](articles/c2bbb1c9.json)
 
 [Extended Data](ext_articles/c2bbb1c9.ext.json)
-
----
-
-### 2024-10-25 (Friday)
-
-### மாலைதீவுகளை வெற்றிகொண்ட இலங்கை அரை இறுதியில் ஹொங்கொங்கை எதிர்த்தாடுகிறது
-
-*2024-10-25 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197129) · `ta`
-
-Sri Lanka wins 13th Asian Beach Volleyball Championship defeating Maldives 80-32. In another match, Thailand beats Hong Kong 62-60. Sri Lanka faces current Asian champion in Hong Kong semi-finals tomorrow.
-
-🟩
-
-இந்தியாவின் பெங்களூரு, கோரமங்கலம் உள்ளக விளையாட்டரங்கில் இன்று வெள்ளிக்கிழமை நடைபெற்ற 13ஆவது ஆசிய வலைபந்தாட்ட சம்பியன்ஷிப்பில் ஏ குழுவுக்கான தனது கடைசி லீக் போட்டியில் மாலைதீவுகளை 80 - 32 என்ற கோல்கள் வித்தியாசத்தில் இலங்கை வெற்றி பெற்றது.
-
-இதேவேளை, சம அளவில் மோதிக்கொள்ளப்பட்ட மிகவும் பரபரப்பான பி குழு போட்டியில் தாய்லாந்தை 62 - 60 என்ற  கோல்கள்  வித்தியாசத்தில் ஹொங்கொங் வெற்றிகொண்டது.
-
-Sri Lanka will oppose the current Asian champion in Hong Kong in the first semi -finals to be held at 5.00 pm tomorrow after the two match results.
-
-In a match against the Maldives today, Sri Lankan athletes played very relaxed to avoid tiredness and disaster.
-
-எனினும் அவ்வப்போது சில தவறுகளை இழைத்ததால் எதிரணிக்கு இரட்டை கோல் வாய்ப்புகளைக் கொடுத்தனர்.
-
-போட்டியின் இரண்டாம், மூன்றாம் கால் மணி நேர ஆட்ட பகுதிகளில் தலா 20க்கும் மேற்பட்ட கோல்களைப் பெற்றதன் மூலம் இலங்கை இலகுவாக வெற்றி பெற வழிவகுத்தது.
-
-...
-
-[Data](articles/9b037ca7.json)
-
-[Extended Data](ext_articles/9b037ca7.ext.json)
-
----
-
-### Israel attack: Three journalists killed
-
-*2024-10-25 23:32:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-தாக்குதல்-ஊடகவியலாளர்கள்-மூவர்-பலி/50-346062) · `ta`
-
-Israel attack kills three journalists in Lebanon shelter strike. Foreign media confirms casualties during reporting on Israeli aggression against Lebanon.
-
-🟩
-
-They have been killed in an Israeli attack on the shelter in the southern Haspaya area of ​​Lebanon.
-
-Foreign media reports that journalists involved in news gathering on Israel's attack on Lebanon have been killed in the attack.. (A)
-
-◼️
-
-[Data](articles/04033361.json)
-
-[Extended Data](ext_articles/04033361.ext.json)
 
 ---

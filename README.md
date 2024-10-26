@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 20:23:56**
+As of **2024-10-26 20:39:46**
 
 ## Newspaper Stats
 
-*Scraped **51,526** Articles*
+*Scraped **51,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,79 @@ adalk | 4,789
 adaderanalk | 6,102
 tamilmirrorlk | 7,120
 virakesarilk | 8,290
-adaderanasinhalalk | 8,957
+adaderanasinhalalk | 8,960
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,526 (100.0%) of 51,526 articles have been extended.
+51,527 (100.0%) of 51,529 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### "අපි ආදර්ශමත් විපක්ෂයක්" - දිලිත්
+
+*2024-10-26 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202598) · `si`
+
+ආදර්ශමත් විපක්ෂයක් ලෙස හැසිරෙමින් ජනතාව අපේක්ෂා කරන ප්‍රබුද්ධ දේශපාලන සංස්කෘතිය පාර්ලිමේන්තුව තුළ ස්ථාපිත කරන බව සර්වජන බලයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+සර්වජන බලයේ දිවුලපිටිය ආසන බලමණ්ඩල රැස්වීමට අද (26) දහවල් එක්වෙමින් ඔහු මේ බව පැවසීය.
+
+"මේ දේශපාලනය... අතීතයේ පැවතුනේ මිනිසුන්ගෙන් කන්න නෙමෙයි... මිනිස්සුන්ට දෙන්න. දැන් මොකක්ද මෑත අතීතයේ වුණේ? පහුගිය දශක දෙකක තුනක කාලේ අහිංසක මිනිස්සු මෙහෙම ගෙනල්ලා දේශන පතබාලා මේ මිනිස්සුන්ගේ වෙලාවත් නාස්ති කරලා මෙන්න පාර්ලිමේන්තු යනවා... බයිසිකලෙන් ආපු මිනිහා V8 එකෙන් එනවා."
+
+"මේ ඓතිහාසික ඡන්දයක්... අපි ජනතාවගෙන් ඉල්ලා සිටින්නේ මෙවර තමයි ලංකාවේ විශාලතම විපක්ෂය. 68%ක් ඡන්දය දෙන්න තීරණය කරලා තියන්නේ විපක්ෂයට. ඇයි ඔවුන්ට දුන්නේ 43%යි. ඉතුරු ටික ඔහුට විරුද්ධව දුන්නා. තවත් කොටසක් ගෙදර හිටියා. මේ ටික එකතු කළාම 68%ක්. එතකොට මේ 68% නියෝජනය කරන්නටයි එඩිතර විපක්ෂය අවශ්‍ය."
+
+...
+
+[Data](articles/8773d2ef.json)
+
+---
+
+### ලොහාන්ගේ බිරිඳට අයත් නිවසක අංක තහඩු නැති මෝටර් රථයක්
+
+*2024-10-26 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202597) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතාගේ බිරිඳට අයත් නිවසක තිබී ලියාපදිංචි අංක තහඩු නොමැති මෝටර් රථයක් අද (26) සොයා ගැණුනි.
+
+හිටපු රාජ්‍ය අමාත්‍යවරයා සහ බිරිඳ පොලීසියට සාක්ෂි දී ඇත්තේ, අදාළ රථය නිවසේ ගරාජයට ගෙනැවිත් දැමුවේ මීට දින කිහිපයකට පෙර මියගිය සිය පෞද්ගලික ලේකම්වරයා බවය.
+
+හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්ත මහතාගේ බිරිඳ වන ශෂී ප්‍රභා රත්වත්තේ මහත්මියට අයත් මිරිහාන ඇඹුල්දෙණිය ශාලාව පාරේ තෙමහල් නිවසක අංක තහඩු නොමැති සුඛෝපභෝගී මෝටර් රථයක් ඇති බවට පොලිස් මූලස්ථානයට තොරතුරක් ලැබී තිබුණි.
+
+ඒ අනුව මිරිහාන පොලීසිය නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණයට කරුණු වාර්තා කර අදාළ නිවසට ගොස් එම රථය පරීක්ෂා කරනු ලැබීය.
+
+ඒ පිළිබඳව හිටපු අමාත්‍යවරයාගෙන් සහ ඔහුගේ බිරිඳගෙන් පොලීසිය ප්‍රකාශයක්ද ලබාගෙන තිබේ.
+
+ඊට අනුව හිටපු අමාත්‍යවරයාගේ බිරිඳගේ මව අදාළ නිවසේ පදිංචිව සිටින අතර මීට දින කිහිපයකට පෙර මහනුවර කටුගස්තොට ප්‍රදේශයේදී වෙඩි වැදීමකින් ජීවිතක්ෂයට පත්වූ රත්වත්තේ මහතාගේ පෞද්ගලික ලේකම්වරයා සති 3කට පෙර අදාළ රථය සිය නිවෙසේ ගරාජයට ගෙනවිත් දැමූ බව ඔවුන් ලබාදුන් ප්‍රකාශයේ සඳහන්ය.
+
+...
+
+[Data](articles/09b368e7.json)
+
+---
+
+### Discussions with IMF to bring a good budget - President
+
+*2024-10-26 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202596) · `si`
+
+IMF discussions for improved budget: President Anura Kumara Dissanayake addresses rally in Ratnapura, mentioning Finance Ministry talks with IMF for better budget formulation.
+
+🟩
+
+President Anura Kumara Dissanayake says that the Finance Ministry officials are discussing the International Monetary Fund, including an economic consultant to present a good budget.
+
+The President made these comments addressing a rally in Ratnapura this afternoon.
+
+"Officers of the Ministry of Finance and Finance Adviser are holding talks with the US International Monetary Fund .... In order to form a better budget. About our proposals. What did you tell us? ... Spokes of gas, the oil, and oil queue. We have restored the country when we may not have happened. "
+
+◼️
+
+[Data](articles/9d7ceaaf.json)
+
+[Extended Data](ext_articles/9d7ceaaf.ext.json)
+
+---
 
 ### Sri Lankan net balls for final match of the Asian Championship
 
@@ -2207,51 +2269,5 @@ Ultimately, the relative strengths and legitimacy of Palestinian claims to State
 [Data](articles/1387c0b4.json)
 
 [Extended Data](ext_articles/1387c0b4.ext.json)
-
----
-
-### Peradeniya University student struggle of 1975-’76 and State suppression
-
-*2024-10-26 00:46:57* · [`dailyftlk`](https://www.ft.lk/opinion/Peradeniya-University-student-struggle-of-1975-76-and-State-suppression/14-768426) · `en`
-
-The death of Peradeniya University student W.M. Weerasuriya, who was shot dead by police on 12 November 1976 during a student protest, was the beginning of the end of the then Government of Sirimavo Bandaranaike. Her Government which took office in 1970 was deeply unpopular by then but the killing of Weerasuriya let loose public anger at her and led to the routing of the SLFP-led Government in the 1977 general elections.
-
-Rajasinghe Bandara was a fellow student at the Peradeniya University at the time and decades later he has written about the experience and the State suppression of students in a book released recently on the 1975-1976 student movement.
-
-Bandara who is now domiciled in the UK has written with a sense of personal loss on the authoritarian manner in which the student movement was crushed by the then Government and blood was spilt on the grounds of the University of Peradeniya.
-
-...
-
-[Data](articles/234839c3.json)
-
-[Extended Data](ext_articles/234839c3.ext.json)
-
----
-
-### Electoral Preferences Of The Government Employees Of Sri Lanka
-
-*2024-10-26 00:46:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/electoral-preferences-of-the-government-employees-of-sri-lanka/) · `en`
-
-The only way to find out electoral preferences of the state sector employees is to study the way the postal votes were casted during the elections. Prior to 1982, results of postal votes were not available on the website of the Election Commission. Starting from the Presidential Election of 1982 the postal vote preferences were indicated under each district in both Presidential and Parliamentary Elections except for the Presidential Election held in 1999 where the main contestants were Chandrika Kumaratunga and Ranil Wickremesinghe. For this analysis I have considered only the results of the Presidential Elections held from 1982 to 2024 except in 1999.
-
-...
-
-[Data](articles/d8e3be27.json)
-
-[Extended Data](ext_articles/d8e3be27.ext.json)
-
----
-
-### The Role Of Ethnic Unity In National Development
-
-*2024-10-26 00:36:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-role-of-ethnic-unity-in-national-development/) · `en`
-
-Sri Lanka is a multi-ethnic, multi-religious island nation that has experienced both the triumphs and challenges of diversity. With a population comprised of Sinhalese, Tamils, Muslims, Burghers, and other ethnic groups, the country’s identity is inherently pluralistic. Ethnic diversity can be a source of strength, providing a rich tapestry of cultures, perspectives, and talents that can drive national development. However, Sri Lanka’s history also reflects the dangers of ethnic division, with conflicts that have significantly hampered progress.
-
-...
-
-[Data](articles/c2bbb1c9.json)
-
-[Extended Data](ext_articles/c2bbb1c9.ext.json)
 
 ---

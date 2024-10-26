@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 08:00:19**
+As of **2024-10-26 08:22:01**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 8,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,444 (100.0%) of 51,453 articles have been extended.
+51,447 (100.0%) of 51,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
 
-### අදත් ප්‍රදේශ කිහිපයකට මි.මී. 75ට වැඩි තද වැසි
+### MM in several areas. Heavy rains over 75
 
 *2024-10-26 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202568) · `si`
 
-අද (26) බස්නාහිර, සබරගමුව, වයඹ සහ උතුරු පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පැවසීය.
+Heavy rains expected in Western, Sabaragamuwa, North Western, and Northern provinces. Thundershowers possible in evening/night. Strong winds forecasted in North, North Central, and North Western provinces. Public advised to prepare for potential thunderstorm-related disruptions.
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 75 ට වැඩි තරමක් තද වැසි ඇතිවිය හැකිය.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක බවද එම දෙපාර්තමේන්තුව පවසයි.
+Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, North Western and Northern provinces today (26).
 
-මේ අතර උතුරු, උතුරුමැද සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ හම්බන්තොට දිස්ත්‍රික්කවලත් විටින් විට පැ.කි.මී. 40-45ක පමණ තද සුළං ඇතිවිය හැකිය.
+MM to some places in the Western, Sabaragamuwa and North Western Provinces. Showers may occur in more than 75.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+Thundershowers will develop at several places in the evening or night in the evening or night in the rest of the island.
+
+Meanwhile, in the North, North Central and North Western provinces, and Trincomalee districts are from time to time.. There may be 40-45-strong winds.
+
+The Meteorological Department urges the public to take necessary steps to reduce temporary strong winds and lalnes due to thunderstorms.
 
 ◼️
 
 [Data](articles/339bc08e.json)
+
+[Extended Data](ext_articles/339bc08e.ext.json)
 
 ---
 
@@ -70,6 +76,8 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 [Data](articles/4f7ca4ff.json)
 
+[Extended Data](ext_articles/4f7ca4ff.ext.json)
+
 ---
 
 ### Israel launches strikes on Iran, risking escalation in Mideast wars
@@ -87,6 +95,8 @@ The Israeli military said Saturday it had launched “precise strikes on militar
 ...
 
 [Data](articles/ec6b8664.json)
+
+[Extended Data](ext_articles/ec6b8664.ext.json)
 
 ---
 

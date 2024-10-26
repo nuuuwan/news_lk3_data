@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 19:57:33**
+As of **2024-10-26 20:10:01**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 8,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,525 (100.0%) of 51,526 articles have been extended.
+51,526 (100.0%) of 51,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
 
-### ශ්‍රී ලංකා දැල් පන්දු කණ්ඩායම ආසියානු ශූරතාවලියේ අවසන් තරගයට
+### Sri Lankan net balls for final match of the Asian Championship
 
 *2024-10-26 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202595) · `si`
 
-හොංකොං කණ්ඩායම ලකුණු 71- 47ක් ලෙස පහසුවෙන් පරාජය කර ආසියානු දැල්පන්දු ශූරතාවලියේ අවසන් මහා තරගය සුදුසුකම් ලබාගැනීමට ශ්‍රී ලංකා කණ්ඩායම අද (26) සමත් විය.
+Sri Lanka qualifies for Asian Netball Championship final, defeating Hong Kong 71-47. This is their 11th final appearance.
 
-තරගාවලියේ පළමු අවසන් පූර්ව තරගය ලෙසින් මෙය අද පස්වරුවේ පැවැත්විණි.
+🟩
 
-කාර්තු 4හි ලකුණු තත්ත්වය 17-9, 19-12, 21-9 හා 14-17ක් ලෙසින් දැක්විණි.
+Sri Lanka were able to defeat Hong Kong as 71- 47 runs and qualify for the finals of the Asian Netball Championship.
 
-ආසියානු දැල්පන්දු ශූරතාවලියක අවසන් මහා තරගයක් සඳහා ශ්‍රී ලංකාව සුදුසුකම් ලැබූ 11වැනි  අවස්ථාව මෙයයි.
+The first seminar of the tournament was held this afternoon.
+
+The score of quarter 4 was 17-9, 19-12, 21-9 and 14-17.
+
+This is the 11th occasion of Sri Lanka for a final of the Asian Netball Championships.
 
 ◼️
 
 [Data](articles/8360c008.json)
+
+[Extended Data](ext_articles/8360c008.ext.json)
 
 ---
 

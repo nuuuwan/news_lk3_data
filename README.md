@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 00:12:39**
+As of **2024-10-27 00:24:04**
 
 ## Newspaper Stats
 
-*Scraped **51,545** Articles*
+*Scraped **51,547** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 412
 colombotelegraphcom | 519
-bbccomsinhala | 521
+bbccomsinhala | 522
 islandlk | 3,057
 economynextcom | 3,143
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,789
 adaderanalk | 6,104
-tamilmirrorlk | 7,123
+tamilmirrorlk | 7,124
 virakesarilk | 8,296
 adaderanasinhalalk | 8,964
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 8,964
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,545 (100.0%) of 51,545 articles have been extended.
+51,547 (100.0%) of 51,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Election of Elpitiya Pradeshiya Sabha: Official results
+
+*2024-10-26 23:47:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டிய-பிரதேச-சபை-தேர்தல்-உத்தியோகபூர்வ-முடிவுகள்/175-346085) · `ta`
+
+Elpitiya Pradeshiya Sabha election results:
+
+
+
+National People's Power: 15 seats, 17,295 votes
+
+United People's Power: 6 seats, 7,924 votes
+
+Sri Lanka PA: 3 seats, 3,597 votes
+
+United Freedom Alliance: 2 seats, 2,612 votes
+
+Independent Committee: 1 seat, 2,568 votes
+
+PA: 1 seat, 1,350 votes
+
+National People's Party: 1 seat, 521 votes
+
+🟩
+
+The official results of the Elpitiya Pradeshiya Sabha elections, which were held today, have been announced.
+
+Galle District Elections Officer WA Dharmasiri announced these decisions at a special press conference.
+
+Accordingly, the National People's Power won 15 seats with 17,295 votes.
+
+The United People's Power has won 7,924 votes and captured 6 seats. The Sri Lanka PA has won three seats, with three thousand 597 votes.
+
+In addition, the United Freedom Alliance (UPFA) has won 2 seats with 2,612 votes.The number of votes received by the Independent Committee was 2,568.
+
+The PA received a seat with a thousand 350 votes.
+
+The National People's Party won a seat with 521 votes. (A)
+
+◼️
+
+[Data](articles/219e786f.json)
+
+[Extended Data](ext_articles/219e786f.ext.json)
+
+---
 
 ### West Indies win
 
@@ -513,6 +559,38 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/bd70c7cf.json)
 
 [Extended Data](ext_articles/bd70c7cf.ext.json)
+
+---
+
+### How the outcome of the Elpitiya Little Polls affect the general election?
+
+*2024-10-26 18:22:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpqdz28x7neo) · `si`
+
+Here's a 200-character summary of the key points:
+
+
+
+Elpitiya Pradeshiya Sabha election results may influence upcoming general election. National People's Power won 15 seats. Political landscape changing rapidly. Some former MPs retiring. Local government elections postponed due to lack of funds. Supreme Court orders early local elections. These developments impact democratic process and party dynamics in Sri Lanka.
+
+🟩
+
+The national popular power was won by Elpitiya Pradeshiya Sabha elections. This is a significant victory for the national popular victory due to the first election after the presidential election.
+
+ඇල්පිටිය පුංචි ඡන්දය පැවැත්වුණේ, නොවැම්බර් මස 14 වැනිදා පැවැත්වීමට නියමිත මැතිවරණයේ ඡන්ද උණුසුම මැදය.
+
+The National Guideline beat 15 seats in the Elpitiya Pradeshiya Sabha which consists of 30 seats. සමගි ජනබලවේගය ආසන 6ක් සහ ශ්‍රී ලංකා පොදුජන පෙරමුණ ආසන 3ක් හිමිකර ගත්තේ ය. The People's Alliance and independent group won 2 seats.
+
+One independent group and eight political parties competed for the Elpitiya Pradeshiya Sabha election.
+
+ජාතික ජන බලවේගය, ශ්‍රී ලංකා පොදුජන පෙරමුණ, ජනසෙත පෙරමුණ, සමගි ජනබලවේගය, පොදුජන එක්සත් පෙරමුණ, එක්සත් ජනතා නිදහස් සන්ධානය, ජාතික ජනතා පක්ෂය, දෙවන පෙරමුණ එම පක්ෂ අතරට අයත් ය.
+
+How can this election in less than 20 days in less than 20 days to hold general election polls affect the forward parliamentary election?
+
+...
+
+[Data](articles/69c25010.json)
+
+[Extended Data](ext_articles/69c25010.ext.json)
 
 ---
 
@@ -2377,37 +2455,5 @@ The petitioner has requested the Supreme Court to reject Ramanayake’s nominati
 [Data](articles/78e4986e.json)
 
 [Extended Data](ext_articles/78e4986e.ext.json)
-
----
-
-### Mahinda visits Johnston in remand prison
-
-*2024-10-26 03:01:51* · [`dailyftlk`](https://www.ft.lk/news/Mahinda-visits-Johnston-in-remand-prison/56-768451) · `en`
-
-Former President Mahinda Rajapaksa visited the New Magazine Prison in Welikada yesterday (25) to meet with former MP Johnston Fernando, who was remanded on 23 October. Fernando was arrested by the Criminal Investigation Department (CID) in relation to an unregistered BMW vehicle, illegally assembled in Sri Lanka, which was discovered in the car park of the Hilton Hotel, Colombo.
-
-...
-
-[Data](articles/30a740b9.json)
-
-[Extended Data](ext_articles/30a740b9.ext.json)
-
----
-
-### Indian Prime Minister Narendra Modi praises decision to confer Classical Language status on Pali
-
-*2024-10-26 02:56:11* · [`dailyftlk`](https://www.ft.lk/news/Indian-Prime-Minister-Narendra-Modi-praises-decision-to-confer-Classical-Language-status-on-Pali/56-768450) · `en`
-
-Indian Prime Minister Narendra Modi extended his gratitude and appreciation to the scholars and monks in Colombo for joining in the celebration organised by the High Commission of India in Colombo to mark the recognition of Pali as a Classical Language by the Government of India (GoI).
-
-In a post via ‘X’ he noted, “Glad that the Indian Government’s decision of conferring Classical Language status on Pali has ignited a spirit of joy among those who believe in the thoughts of Bhagwan Buddha. Grateful to the scholars and monks from different nations who took part in this program in Colombo.” (https://x.com/narendramodi/status/1849299873591361982)
-
-On 23 October the Swami Vivekananda Cultural Centre (SVCC), the cultural arm of the High Commission of India, organised a panel discussion on ‘Pali as a Classical Language’ at SVCC, Colombo.
-
-...
-
-[Data](articles/478fc348.json)
-
-[Extended Data](ext_articles/478fc348.ext.json)
 
 ---

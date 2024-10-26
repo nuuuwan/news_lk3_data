@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 14:58:16**
+As of **2024-10-26 15:09:21**
 
 ## Newspaper Stats
 
-*Scraped **51,494** Articles*
+*Scraped **51,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,786
 adaderanalk | 6,097
 tamilmirrorlk | 7,114
-virakesarilk | 8,287
+virakesarilk | 8,290
 adaderanasinhalalk | 8,944
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,494 (100.0%) of 51,494 articles have been extended.
+51,497 (100.0%) of 51,497 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -124,6 +124,30 @@ He made these remarks while addressing a business community meeting held last af
 
 ---
 
+### McDonalds's announcement that his business activities are being completed in Sri Lanka
+
+*2024-10-26 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197160) · `ta`
+
+McDonald's announces end of operations in Sri Lanka. Joint statement with International Restaurant Systems. Gratitude to customers. Denies rumors about closures. No explanation given for shutdown. Future plans unclear.
+
+🟩
+
+The International Restaurant Systems, the International Restaurant Systems, has jointly declared its business relationship with the McDonalds Group and its branches.
+
+McDonalds expressed gratitude to the public who finished business with its branches in Sri Lanka and supported them.
+
+The public has urged the public not to believe in rumors or assumptions in the media in recent times about McDonalds.
+
+The report did not provide details of the reasons for the closure of McDonald's branches in Sri Lanka. McDonalds does not specify whether Sri Lanka will continue new functions.
+
+◼️
+
+[Data](articles/ff613ff0.json)
+
+[Extended Data](ext_articles/ff613ff0.ext.json)
+
+---
+
 ### Harred by the rumors on conflicts
 
 *2024-10-26 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202578) · `si`
@@ -171,6 +195,46 @@ Sri Lanka and Buddhism. West Indies won the toss and winning the Third and final
 [Data](articles/2e710260.json)
 
 [Extended Data](ext_articles/2e710260.ext.json)
+
+---
+
+### Elpitiya Pradeshiya Sabha election: 40 percent voting
+
+*2024-10-26 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197163) · `ta`
+
+Elpitiya Pradeshiya Sabha election update: 40% voting completed by noon on Saturday. Polls opened at 7 AM.
+
+🟩
+
+Voting for the Elpitiya Pradeshiya Sabha elections will commence at 7 am on Saturday.
+
+According to the Galle District Elections Office, 40 percent of voting has been held until 12 noon today.
+
+◼️
+
+[Data](articles/7fe4a7de.json)
+
+[Extended Data](ext_articles/7fe4a7de.ext.json)
+
+---
+
+### The vehicle of former parliamentarian Lohan Ratwatta
+
+*2024-10-26 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197162) · `ta`
+
+Former MP Lohan Ratwatta's car crash at Thangahamula junction sparked public dispute.
+
+🟩
+
+Former parliamentarian Lohan Ratwatta's vehicle crashed at Thangahamula junction on Badeniya - Anuradhapura road under the Board of Police.
+
+Following the accident, there was a heated argument between the public and the vehicle passengers.
+
+◼️
+
+[Data](articles/cbff3ef1.json)
+
+[Extended Data](ext_articles/cbff3ef1.ext.json)
 
 ---
 
@@ -2215,83 +2279,5 @@ The emergency has been withdrawn at the Katunayake Bandaranaike International Ai
 [Data](articles/1781caf6.json)
 
 [Extended Data](ext_articles/1781caf6.ext.json)
-
----
-
-### Sri Lanka sells extra Rs12.5bn Treasury bills after auction
-
-*2024-10-25 18:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs12-5bn-treasury-bills-after-auction-184948/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 12.5 billion rupees of treasury bills offered on tap at average rates set at an auction earlier in the week, the state debt office said.
-
-On Wednesday (23) the debt office raised 125 billion rupees of 3, 6 and 12 month bills.
-
-Sri Lanka sells Rs125bn in treasury bills, yields steady across maturities
-
-◼️
-
-[Data](articles/61e9d701.json)
-
-[Extended Data](ext_articles/61e9d701.ext.json)
-
----
-
-### Workshop to solve the price of rice
-
-*2024-10-25 18:12:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-விலை-சிக்கலைத்-தீர்க்க-பணிப்பு/175-346054) · `ta`
-
-Sri Lanka President Anuragumara Dissanayake directs Agriculture Ministry and Paddy Marketing Board to take urgent action to address rising rice prices. Meeting held at Presidential Secretariat.
-
-🟩
-
-President Anuragumara Dissanayake on Wednesday (25) issued a directive to the Ministry of Agriculture and the Paddy Marketing Board on the speedy measures to be taken to solve the price of rice.
-
-ஜனாதிபதி அலுவலகத்தில் விவசாய மற்றும் வர்த்தக அமைச்சுகள் மற்றும் நெல் சந்தைப்படுத்தல் சபையின் அதிகாரிகள் குழுவை ஜனாதிபதி சந்தித்தார்.
-
-அரிசி விலை மற்றும் அது தொடர்பான தற்போதைய நிலவரங்கள் குறித்து இதன்போது விரிவாக கலந்துரையாடப்பட்டதுடன், இது தொடர்பில் மேற்கொள்ள வேண்டிய அவசர நடவடிக்கைகள் குறித்தும் ஜனாதிபதி அதிகாரிகளுக்கு பணிப்புரை வழங்கினார்.
-
-◼️
-
-[Data](articles/265a29ea.json)
-
-[Extended Data](ext_articles/265a29ea.ext.json)
-
----
-
-### Three journalists killed in Israelite attack
-
-*2024-10-25 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202556) · `si`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Journalists killed in Lebanon Israeli attack. Media report 3 dead. Lebanon Health Ministry confirms. Diplomatic solution urged by US. Accusations of spying for Iran against Israelis. Military operation in northern Israel. Soldiers injured, including minors aged 16-17.
-
-🟩
-
-ඊශ්‍රායල ප්‍රහාරයක් හේතුවෙන් දකුණු ලෙබනනයේදී මාධ්‍යවේදීන් තිදෙනෙක් ජීවිතක්ෂයට පත්වී ඇති බව ලෙබනන සෞඛ්‍ය අමාත්‍යංශය පවසයි.
-
-මීට මාසයකට පමණ පෙර ලෙබනනයේ හිස්බුල්ලා සංවිධානය ඉලක්ක කර ප්‍රහාර එල්ල කිරීම ඊශ්‍රායල හමුදා ආරම්භ කළේය.
-
-Meanwhile, Arthhikan Secretary of State Anthony Blinkens says that the clash requires a diplomatic solution as soon as possible.
-
-He said that the US does not like the United States to last for a long time in Israel.
-
-මේ අතර, ඊශ්‍රායල ජාතිකයන් 7 දෙනෙකුට ඉරානය වෙනුවෙන් ඔත්තු බැලීමේ චෝදනා එල්ල කිරීමට ඊශ්‍රායල බලධාරීන් පියවර ගෙන තිබේ.
-
-ඔවුන් වසර දෙකක පමණ කාලයක් මෙලෙස ඊශ්‍රායලයේ සතුරු රාජ්‍යයක් ලෙස සැලකෙන ඉරානය වෙනුවෙන් ඔත්තු බැලීමේ කාර්යයේ නිරත වී ඇතැයි චෝදනා එල්ලවෙයි.
-
-According to a hostile state, they have been accused of issuing and helping information on war.
-
-චෝදනාවට ලක්ව සිටින සියලු දෙනා හයිෆා නගරය ඇතුළු උතුරු ඊශ්‍රායලයේ වාසය කරන පිරිසකි.
-
-ඒ අතර හමුදාවෙන් පළාගිය සෙබළෙකු මෙන්ම වයස අවුරුදු 16 සහ 17 ක් වන බාල වයස්කාරයන් දෙදෙනෙකු ද වෙයි.
-
-◼️
-
-[Data](articles/d153b575.json)
-
-[Extended Data](ext_articles/d153b575.ext.json)
 
 ---

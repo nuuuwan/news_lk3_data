@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 09:39:59**
+As of **2024-10-26 09:59:04**
 
 ## Newspaper Stats
 
-*Scraped **51,459** Articles*
+*Scraped **51,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,786
 adaderanalk | 6,091
-tamilmirrorlk | 7,104
+tamilmirrorlk | 7,105
 virakesarilk | 8,278
 adaderanasinhalalk | 8,935
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,459 (100.0%) of 51,459 articles have been extended.
+51,460 (100.0%) of 51,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Israel
+
+*2024-10-26 09:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரான்-மீது-குண்டுமழை-பொழிந்த-இஸ்ரேல்/50-346066) · `ta`
+
+Israel-Iran conflict escalates: Missile attacks, retaliation, and rising tensions in the Middle East.
+
+🟩
+
+Ballistic missile attack on Israel on behalf of Iran on the 1st. The attack has been retaliated today.
+
+Accordingly, Missiles are launching missiles on military targets in Iran's capital Tekran and Karaj cities on behalf of Israel.. This has increased the tension between Israel and Iran in the Middle East.
+
+Israel launched war operations last year against the Hamas organization operating in Gaza in Palestine. Hamas is the Iran -backed organization. Iran was strongly opposed to this. Iran and Israel launched an attack by Hizbullah, a supporting organization in Lebanon, which is sharing the border with Israel.
+
+This caused headaches to Israel. However, Israel continues to attack Hizbullah in the midst of the war on Gaza. The Israeli airspace has killed key leaders and commanders of Hamas and Hizbullah.
+
+Iran, which went to the summit of anger, launched an air strike on Israel on the 1st. Iran launched an attack on Israel from its country with about 185 missiles.
+
+...
+
+[Data](articles/e614a00c.json)
+
+[Extended Data](ext_articles/e614a00c.ext.json)
+
+---
 
 ### Continuing security for tourist destinations
 
@@ -2299,27 +2325,5 @@ They are 59 and 46 year old women from Uranna Badavatta area. Those
 [Data](articles/204e8fea.json)
 
 [Extended Data](ext_articles/204e8fea.ext.json)
-
----
-
-### ’டானா’வால்  எச்சரிக்கை
-
-*2024-10-25 15:01:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டானா-வால்-எச்சரிக்கை/175-346044) · `ta`
-
-TNA warning: Strong winds (50-55 km/h) expected in coastal areas from Trincomalee to Mannar and Puttuvil. Meteorological Department advises fishermen and coastal communities to exercise caution.
-
-🟩
-
-திருகோணமலையில் இருந்து காங்கேசன்துறை மற்றும் மன்னார் முதல் புத்தளம் வரையான கடற்பரப்புகள் மற்றும் ஹம்பாந்தோட்டையில் இருந்து பொத்துவில் வரையான கடற்பரப்புகள் தொடர்ந்தும் கொந்தளிப்புடன் காணப்படும் என, வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-The speed of wind in those seas may increase from 50 to 55 kilometers per hour, the department said.
-
-இது தொடர்பில் மீனவர்கள் மற்றும் கடல்சார் சமூகத்தினர் அவதானம் செலுத்துமாறு, வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. That
-
-◼️
-
-[Data](articles/4e5c2113.json)
-
-[Extended Data](ext_articles/4e5c2113.ext.json)
 
 ---

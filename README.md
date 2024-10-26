@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 02:23:57**
+As of **2024-10-27 02:39:20**
 
 ## Newspaper Stats
 
-*Scraped **51,548** Articles*
+*Scraped **51,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,789
 adaderanalk | 6,104
 tamilmirrorlk | 7,124
-virakesarilk | 8,296
+virakesarilk | 8,297
 adaderanasinhalalk | 8,964
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,548 (100.0%) of 51,548 articles have been extended.
+51,549 (100.0%) of 51,549 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -249,6 +249,38 @@ The President made this statement while addressing a public meeting held in Ratn
 [Data](articles/985d4dcb.json)
 
 [Extended Data](ext_articles/985d4dcb.ext.json)
+
+---
+
+### Kasturiraja starring 'Habibi' movie Burst Look release
+
+*2024-10-26 22:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197191) · `ta`
+
+Kasturiraja directs "Burst Look" and stars in "Habibi". Film features Tamil industry celebrities. Directed by Meera Kathiravan, produced by Allies Entertainment. Based on Islamic family story. Cinematography by Sam C.S., music by Mahesh Muthuswamy. Presented by Suresh Kamakshi.
+
+🟩
+
+Burst Look has been released by director and actor Kasturiraja.
+
+It was the branded personalities of the Tamil film industry, the directors Cheran, Thangar Bachchan, Venkat Prabhu, Seanu Ramaswamy, Pandiraj, Pa. Ranjith, Karthik Subburaj, Mari Selvaraj, Vignesh Sivan, Lijo Jose Bellicherry, Lena Manimekalai, Actress Manju Warrior and Meera Jasmin have posted on their web page and congratulated the film crew.
+
+Kasturiraja, Isha, Malavika Manoj and many others have starred in the upcoming film 'Habibi' directed by director Meera Kathiravan.
+
+Mahesh Muthuswamy is a cinematography by Sam C. S.. Has composed.
+
+The film, which is based on the life of the Islamic family, has been produced by the Allies Entertainment Private Limited.
+
+The film is presented by producer Suresh Kamakshi on behalf of V House Company.
+
+In the Burst Look of the film, a photo of a family of a family who strictly follows Islam.
+
+Also, 'Habibi' is a word that refers to love in Arabic has attracted the attention of fans.
+
+◼️
+
+[Data](articles/b2bee144.json)
+
+[Extended Data](ext_articles/b2bee144.ext.json)
 
 ---
 
@@ -2451,37 +2483,5 @@ We decided to attack military targets in the end, the official said. The officia
 [Data](articles/3d2372de.json)
 
 [Extended Data](ext_articles/3d2372de.ext.json)
-
----
-
-### Air strikes on Iran from Israel
-
-*2024-10-26 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202566) · `si`
-
-Israel launches air strikes on Iran and Syria, targeting military sites. Iran responds with ballistic missile attacks. No official confirmation from Israel on scale or objectives.
-
-🟩
-
-Foreign media reports that Israel has launched an air strike on several selected military targets in Iran.
-
-Iran's defense seats said that Iranian administration was in response to 200 ballistic missile attacks on October 1, including Iranian administration.
-
-They also say that Israel has the right to respond to the Israeli and the defense and exclasting abilities have been completely mobilized.
-
-BBC. The Minister also reported a few noisy blasts ago by Iranian media.
-
-The explosions of the explosions in the West have heard this explosion from the West.
-
-The air strikes were targeted at the Iranian capital and military bases in the West and Southwest.
-
-However, Israel has not yet been a clear statement about the size and specific goals.
-
-Meanwhile, in addition to Iran, the Syrian government's news agency said that Israel has targeted air strikes targeting the Syrian and Central and Central and parts of the Central and Central.
-
-◼️
-
-[Data](articles/985af1c7.json)
-
-[Extended Data](ext_articles/985af1c7.ext.json)
 
 ---

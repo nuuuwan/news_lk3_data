@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 16:39:28**
+As of **2024-10-26 17:08:49**
 
 ## Newspaper Stats
 
-*Scraped **51,508** Articles*
+*Scraped **51,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,106 @@ economynextcom | 3,142
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,787
-adaderanalk | 6,099
-tamilmirrorlk | 7,117
+adaderanalk | 6,100
+tamilmirrorlk | 7,119
 virakesarilk | 8,290
-adaderanasinhalalk | 8,947
+adaderanasinhalalk | 8,948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,508 (100.0%) of 51,508 articles have been extended.
+51,512 (100.0%) of 51,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### 63% of the voter turnout in Elpitiya
+
+*2024-10-26 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202585) · `si`
+
+Elpitiya Pradeshiya Sabha elections: 63% voter turnout reported by Galle District Returning Officer WA. Dharmasiri. Voting concluded at 4 pm on the 7th.
+
+🟩
+
+A total of 63 percent of the votes have been voted in the Elpitiya Pradeshiya Sabha elections.
+
+Galle District Returning Officer WA. Mr. Dharmasiri said this.
+
+The vote on the 7th this morning was completed at 4 pm and has already taken steps to commence the voter turnout at the election.
+
+◼️
+
+[Data](articles/90fa01a7.json)
+
+[Extended Data](ext_articles/90fa01a7.ext.json)
+
+---
+
+### The attention of Sri Lankans in Israel ...
+
+*2024-10-26 16:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-உள்ள-இலங்கையர்களின்-கவனத்துக்கு/175-346080) · `ta`
+
+Sri Lankan Ambassador advises caution due to Israeli airstrikes in Iran. Recommends reducing travel and being vigilant at work. Situation monitored closely.
+
+🟩
+
+Sri Lankan Ambassador to Israel Nimal Bandara has advised Sri Lankans living in Israel to reduce their journey and are very careful in the workplace.
+
+The Ambassador said that Israeli Air Force aircraft are launching missile strikes in many areas selected in Iran, causing tense in the Middle East.
+
+The Ambassador to Israel has announced that the situation will be observed in the future, as it has been observed that the situation will be created.
+
+Due to this, the Ambassador added that flights of Iran, Iraq, Lebanon, Syria and Israel were not on the airplane, the Ambassador added.. (That)
+
+◼️
+
+[Data](articles/72921776.json)
+
+[Extended Data](ext_articles/72921776.ext.json)
+
+---
+
+### Elpitiya PS Election concludes with over 50% voter turnout
+
+*2024-10-26 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102943/elpitiya-ps-election-concludes-with-over-50-voter-turnout) · `en`
+
+The Elpitiya Pradeshiya Sabha Election concluded today (26) at 4.00 p.m., with a reported voter turnout of 51% by 3:00 p.m., according to Galle District Returning Officer W.A. Dharmasiri.
+
+In a statement, Dharmasiri confirmed that the vote-counting process would begin at the respective polling stations at around 4:30 p.m., ensuring a prompt and efficient tallying of the ballots.
+
+He further noted that the polling activities proceeded peacefully, with no reported incidents.
+
+◼️
+
+[Data](articles/33636d20.json)
+
+[Extended Data](ext_articles/33636d20.ext.json)
+
+---
+
+### Sri Lankans in Israel are not harmed
+
+*2024-10-26 16:30:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-உள்ள-இலங்கையர்களுக்கு-பாதிப்பில்லை/175-346079) · `ta`
+
+Sri Lankan workers unaffected in Israeli conflict. 2,447 employed since Dec. 2022. 61 more depart today.
+
+🟩
+
+Since December last year, 2,447 Sri Lankans have left for Israel for agricultural employment opportunities.
+
+The Bureau of Foreign Employment said that 61 more people were given air tickets and held awareness yesterday (25).
+
+The Foreign Employment Bureau has said that despite the conflict situation in Israel, the Sri Lankans working there have not been affected.. (That)
+
+◼️
+
+[Data](articles/7121bcc8.json)
+
+[Extended Data](ext_articles/7121bcc8.ext.json)
+
+---
 
 ### Elpitiya finalized - calculations begin
 
@@ -2145,101 +2231,5 @@ Is the “House of Rajapaksa” Falling Down? was the heading of an article writ
 [Data](articles/b22e338c.json)
 
 [Extended Data](ext_articles/b22e338c.ext.json)
-
----
-
-### Families have the right to know the truth of relationships - American Ambassador Julie Sung
-
-*2024-10-25 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197126) · `ta`
-
-US Ambassador Julie Sung supports families' rights to truth about missing relatives in Sri Lanka. She met with families in Northern Province, listening to their stories and acknowledging their struggles. The ambassador emphasized that families deserve to know what happened to their loved ones, regardless of challenges faced.
-
-🟩
-
-US Ambassador to Sri Lanka Julie Sung said that families who are still looking for their relatives have the right to find out what happened to their loved ones.
-
-US ambassador to Sri Lanka, who is on an official visit to the Northern Province, met with relatives of the missing persons from Mannar district on Friday (25) and asked for their positions and demands.
-
-US ambassador Julie Sung, who has posted an official 'X' site on the meeting, said he was very saddened by their stories after a meeting with the family of the missing persons.
-
-At the same time, like their stories, the stories of the families of the missing persons who have been heard in the North and Eastern Provinces, like their stories, have revealed the greatness of the parties who are still looking for their relatives and fighting for truth and justice in the face of various challenges.
-
-...
-
-[Data](articles/53876733.json)
-
-[Extended Data](ext_articles/53876733.ext.json)
-
----
-
-### Iran envoy pledges trade, technology support to Sri Lanka
-
-*2024-10-25 20:32:00* · [`economynextcom`](https://economynext.com/iran-envoy-pledges-trade-technology-support-to-sri-lanka-184960/) · `en`
-
-ECONOMYNEXT – Iranian Ambassador to Sri Lanka has pledged to support the island nation on trade and technology among many other sectors, the President Media Division (PMD)  said.
-
-President Anura Kumara Dissanayake met Iranian Ambassador, Alireza Delkhosh on Friday (25) at the Presidential Secretariat and discussed bilateral relationship between the two countries.
-
-President Dissanayake emphasized the longstanding relationship between Sri Lanka and Iran and expressed his desire to strengthen ties between both countries.
-
-“In response, the Ambassador reaffirmed Iran’s commitment to supporting Sri Lanka in trade, technology, culture, and education, as well as in new initiatives,” the PMD said in a stement.
-
-The PMD said the President discussed the current situation in the Middle East and briefed the Ambassador on Sri Lanka’s security situation and highlighting recent measures taken to improve safety for both tourists and residents.
-
-...
-
-[Data](articles/fdbfdb80.json)
-
-[Extended Data](ext_articles/fdbfdb80.ext.json)
-
----
-
-### Again in the US electoral field
-
-*2024-10-25 20:27:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-தேர்தல்-களத்தில்-மீண்டும்-பரபரப்பு/50-346058) · `ta`
-
-US presidential election controversy: Model Stacey Williams accuses Donald Trump of sexual misconduct in 1993 interview. Trump denies allegations. Harris campaign calls it "sick politics."
-
-🟩
-
-With the US presidential election to be held on November 5, another model brunette has now made a sexual accusation against former President Donald Trump.
-
-Trump is the one who has been convicted in the case of trying to rape a writer named Jean Carol. முன்னதாக டிரம்ப் பெண்களை பற்றி அந்தரங்கமாக பேசும் பதிவு ஒன்று ஆக்சஸ் ஹாலிவுட் டேப்ஸ் என்று பெயரில் 2016 ஆம் ஆண்டு அமெரிக்க தேர்தல் சமயத்தில் வெளியாகி பரபரப்பை ஏற்படுத்தியிருந்தது. இந்நிலையில் தற்போது டிரம்ப் மீது மற்றொரு மாடல் அழகி பாலியல் குற்றச்சாட்டை முன்வைத்துள்ளார்.
-
-ஸ்டேஷி வில்லியம்ஸ் என்ற அந்த மாடல் பிரபலம், ஆங்கில தொலைக்காட்சி ஊடகம் ஒன்றுக்கு அளித்த பேட்டியில், 1993ஆம் ஆண்டு டிரம்ப் தன்னை பாலியல் துன்புறுத்தல் செய்ததாக தெரிவித்துள்ளார்.
-
-மேலும், “கடந்த 1992 ஆம் ஆண்டில் கிறிஸ்துமஸ் சமயத்தில் நடந்த விருந்து ஒன்றில் வைத்து ட்ரம்ப்பை முதன்முதலில் சந்தித்தேன். அப்போது உடனிருந்த எனது நண்பர் எப்ஸ்டின் உடன் பேசிக் கொண்டே என்னிடம் டிரம்ப் பாலியல் ரீதியாக அத்துமீறினார்.
-
-...
-
-[Data](articles/eb6eed7d.json)
-
-[Extended Data](ext_articles/eb6eed7d.ext.json)
-
----
-
-### President informs the kidmakers of protection
-
-*2024-10-25 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202561) · `si`
-
-Sri Lanka President briefs EU delegation on security measures, tourism safety, and economic ties. Discusses Iran relations and regional stability.
-
-🟩
-
-ශ්‍රී ලංකාවේ යුරෝපා සංගමයේ තානාපති කාර්මෙන් මොරේනෝ මහතා ප්‍රමුඛ යුරෝපා සංගමයේ නියෝජිත පිරිස අද (25) ජනාධිපති කාර්යාලයේ දී ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවිය.
-
-ශ්‍රී ලංකාවේ වත්මන් ආරක්ෂක තත්ත්වය පිළිබඳව ජනාධිපතිවරයා විසින් මෙහිදී යුරෝපා සංගම් නියෝජිත පිරිස දැනුම්වත් කර ඇති අතර, සංචාරකයන්ගේ සහ ශ්‍රී ලාංකික ජනතාවගේ ආරක්ෂාව තහවුරු කිරීම සඳහා මෑත කාලීනව ගනු ලැබූ ක්‍රියාමාර්ග පිළිබඳව ද දැනුම්වත් කර ඇත.
-
-The President has said that the rules with security protocol, especially the main tourism zones have been implemented and emergency services.
-
-The European Union is a decisive partner in Sri Lanka, as the second largest export and tourism market in Sri Lanka and is the third largest import market.
-
-මේ අතර ඉරාන තානාපති ආචාර්ය අලිරේසා ඩෙල්කොෂ් මහතා අද ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුව ඇත.
-
-...
-
-[Data](articles/6b26f283.json)
-
-[Extended Data](ext_articles/6b26f283.ext.json)
 
 ---

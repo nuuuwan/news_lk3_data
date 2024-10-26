@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 23:59:14**
+As of **2024-10-27 00:12:39**
 
 ## Newspaper Stats
 
-*Scraped **51,544** Articles*
+*Scraped **51,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 412
 colombotelegraphcom | 519
 bbccomsinhala | 521
 islandlk | 3,057
-economynextcom | 3,142
+economynextcom | 3,143
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,789
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,964
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,544 (100.0%) of 51,544 articles have been extended.
+51,545 (100.0%) of 51,545 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1450,6 +1450,26 @@ A total of 55,643 voters are eligible to cast their votes at 48 polling centers 
 
 ---
 
+### IMF technical expert in Sri Lanka Customs to enhance administration
+
+*2024-10-26 12:29:00* · [`economynextcom`](https://economynext.com/imf-technical-expert-in-sri-lanka-customs-to-enhance-administration-184975/) · `en`
+
+ECONOMYNEXT – An International Monetary Fund (IMF) has visited Sri Lanka Customs head office and had discussions with internal and external stakeholders of Customs in a move to enhance administration, officials and IMF said, amid allegation of significant leakages in revenue from import and export businesses.
+
+Sri Lanka Customs, one of the three key revenue collection bodies of the government, has already recorded more than 1 trillion rupee revenue so far this year, surpassing last year’s record 975 billion rupees.
+
+Sri Lanka has committed with the IMF for a revenue target of 1,534 billion rupees for 2024 from the Customs. However, Customs officials have raised concerns over facilities and practical issues in raising the revenue.
+
+On Friday, sources said President Anura Kumara Dissanayake also visited the Customs Head office in Colombo where the IMF expert was engaging with officials.
+
+...
+
+[Data](articles/bf36488d.json)
+
+[Extended Data](ext_articles/bf36488d.ext.json)
+
+---
+
 ### Traffic on Bandarawela Road
 
 *2024-10-26 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197151) · `ta`
@@ -2389,27 +2409,5 @@ On 23 October the Swami Vivekananda Cultural Centre (SVCC), the cultural arm of 
 [Data](articles/478fc348.json)
 
 [Extended Data](ext_articles/478fc348.ext.json)
-
----
-
-### Maldivian President’s drastic steps to rescue economy
-
-*2024-10-26 02:52:57* · [`dailyftlk`](https://www.ft.lk/columns/Maldivian-President-s-drastic-steps-to-rescue-economy/4-768449) · `en`
-
-Declares 50% salary cut for himself and 10% for other top public officials
-
-Maldivian President Mohamed Muizzu is contemplating drastic steps to rescue his country’s ailing economy. On Wednesday, he voluntarily announced that he will take a 50% cut in his salary while ordering other top public officials to take a 10% cut.
-
-The monthly salary of a sitting Maldivian President is MVR 100,000. However, President Muizzu will now receive only MVR 50,000.
-
-The salary cuts cover all political appointees and staff of all state-owned enterprises, excluding banks. The take-home salaries of heads of these enterprises will be capped at MVR 90,000. The President has proposed that the salaries of heads of independent institutions and those of heads of the Judiciary and Parliament also be reduced by 10%. However, persons earning less than MVR 12,000 will be exempt from these cuts.
-
-The cuts will be in effect for a two-year period, the President’s office said.
-
-...
-
-[Data](articles/66709d46.json)
-
-[Extended Data](ext_articles/66709d46.ext.json)
 
 ---

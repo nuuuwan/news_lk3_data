@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 15:23:55**
+As of **2024-10-26 15:39:39**
 
 ## Newspaper Stats
 
-*Scraped **51,500** Articles*
+*Scraped **51,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,787
 adaderanalk | 6,097
-tamilmirrorlk | 7,115
+tamilmirrorlk | 7,116
 virakesarilk | 8,290
 adaderanasinhalalk | 8,944
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,944
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,500 (100.0%) of 51,500 articles have been extended.
+51,501 (100.0%) of 51,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Conflict between the President and the Prime Minister?
+
+*2024-10-26 15:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கும்-பிரதமருககும்-இடையில்-கருத்து-முரண்பாடு/175-346077) · `ta`
+
+Here's a 200-character summary:
+
+
+
+PM Harini Amarasuriya denies rumors of conflict with president. National People's Power meeting held in Atti. PM addresses attendees about alleged false news.
+
+🟩
+
+Prime Minister Harini Amarasuriya has said that some people are trying to spread false news that there is a conflict between him and the president.
+
+The general meeting organized by the National People's Power was held at the Atti yesterday under the leadership of Prime Minister Dr. Harini Amarasuriya.
+
+◼️
+
+[Data](articles/0677d7c3.json)
+
+[Extended Data](ext_articles/0677d7c3.ext.json)
+
+---
 
 ### Team appointment to monitor foreign intelligence
 
@@ -2251,23 +2275,5 @@ Taven Konway (76) and Rachin Ravindra (65) were both capable of scoring half -ce
 [Data](articles/4f611281.json)
 
 [Extended Data](ext_articles/4f611281.ext.json)
-
----
-
-### Man arrested trying to sell 10kg of ambergris for Rs. 200 million
-
-*2024-10-25 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102928/man-arrested-trying-to-sell-10kg-of-ambergris-for-rs-200-million) · `en`
-
-An individual has been arrested while allegedly attempting to sell 10 kilograms of ‘Ambergris’ estimated to be worth around Rs. 200 million, police said.
-
-The suspect has been arrested by officers of the Western Province (North) Police Crimes Division and the Sri Lanka Air Force in the Ragama area.
-
-Ambergris, also called grey amber or whale vomit, is created by the bile duct of the sperm whale and is often referred to as “floating gold” due to the immense price it fetches in the international market for its use in luxury perfumes.
-
-◼️
-
-[Data](articles/59cc0692.json)
-
-[Extended Data](ext_articles/59cc0692.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 19:10:02**
+As of **2024-10-26 19:24:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,522 (100.0%) of 51,523 articles have been extended.
+51,523 (100.0%) of 51,523 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,8 @@ Maharagama Police have since arrested the individual responsible for the assault
 ◼️
 
 [Data](articles/f2e9fe1f.json)
+
+[Extended Data](ext_articles/f2e9fe1f.ext.json)
 
 ---
 

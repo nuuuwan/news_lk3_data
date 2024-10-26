@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 22:57:51**
+As of **2024-10-26 23:10:56**
 
 ## Newspaper Stats
 
-*Scraped **51,538** Articles*
+*Scraped **51,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,142
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,789
-adaderanalk | 6,103
-tamilmirrorlk | 7,120
+adaderanalk | 6,104
+tamilmirrorlk | 7,122
 virakesarilk | 8,296
 adaderanasinhalalk | 8,962
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 8,962
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,538 (100.0%) of 51,538 articles have been extended.
+51,541 (100.0%) of 51,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### 63 per cent voting in the Elpitiya election
+
+*2024-10-26 22:54:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டிய-தேர்தலில்-63-சதவீத-வாக்குப்பதிவு/175-346083) · `ta`
+
+Elpitiya election: 63% voted. Polls open from 7am, results due 11am. Voting recorded at stations.
+
+🟩
+
+Galle District Election Officer WA said 63 per cent of the votes were cast. Said Dharmasiri.
+
+He said that the voting began at 7 am today and the results are expected to be passed at 11 am, as the voting process is being recorded at each polling station.. Remble
+
+◼️
+
+[Data](articles/924bdef5.json)
+
+[Extended Data](ext_articles/924bdef5.ext.json)
+
+---
+
+### At least 124 killed after Sudan’s RSF attack village, activists say
+
+*2024-10-26 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102947/at-least-124-killed-after-sudans-rsf-attack-village-activists-say) · `en`
+
+Sudan’s paramilitary Rapid Support Forces (RSF) killed at least 124 people in a village in El Gezira State on Friday, activists said, in one of the deadliest incidents of an 18-month war and largest in a spate of attacks in the state.
+
+Following the surrender of high-ranking RSF officer Abuagla Keikal to the army last Sunday, pro-democracy activists said the RSF has carried out revenge attacks in the farming state where he comes from, killing and detaining civilians and displacing thousands.
+
+Gezira has already faced a months-long rampage in which residents told Reuters the RSF looted homes, killed scores of civilians and displaced hundreds of thousands.
+
+Al-Sireha village, in the north of the state, experienced the worst of the recent violence when at least 124 were killed and 100 injured in the RSF raid, the Wad Madani Resistance Committee, a pro-democracy group, said on Saturday.
+
+...
+
+[Data](articles/a0bc406c.json)
+
+[Extended Data](ext_articles/a0bc406c.ext.json)
+
+---
 
 ### Iran raises the death toll from Israel’s attack to 4, all from its military air defense
 
@@ -49,6 +89,28 @@ Following the airstrikes, Iran’s Foreign Ministry said it had a right to self-
 [Data](articles/a7417c9a.json)
 
 [Extended Data](ext_articles/a7417c9a.ext.json)
+
+---
+
+### Negotiate with IMF for the best budget
+
+*2024-10-26 22:24:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறந்த-வரவு-செலவுத்-திட்டத்திற்காக-IMF-உடன்-பேச்சுவார்த்தை/175-346082) · `ta`
+
+President Anura Kumara Dissanayake negotiating with IMF for optimal budget presentation. Finance Ministry officials involved in discussions. Statement made during Ratnapura public meeting.
+
+🟩
+
+President Anura Kumara Dissanayake has said that he is holding talks with the International Monetary Fund to present the best budget in the future.
+
+Officials of the Finance Ministry, including the Economic Advisor, are holding these talks.
+
+The President made this statement while addressing a public meeting held in Ratnapura this afternoon.R
+
+◼️
+
+[Data](articles/985d4dcb.json)
+
+[Extended Data](ext_articles/985d4dcb.ext.json)
 
 ---
 
@@ -2305,57 +2367,5 @@ The objective of the meeting was to promote Sri Lanka’s main and high-quality 
 [Data](articles/4d1550e9.json)
 
 [Extended Data](ext_articles/4d1550e9.ext.json)
-
----
-
-### Nawaloka Hospital bags Merit award at National Business Excellence Awards 2024
-
-*2024-10-26 01:49:58* · [`dailyftlk`](https://www.ft.lk/business/Nawaloka-Hospital-bags-Merit-award-at-National-Business-Excellence-Awards-2024/34-768438) · `en`
-
-Nawaloka hospitals Finance manager (reporting) Sampath Thennakoon receiving the award
-
-In recognition of its resilience and commitment towards healthcare, Nawaloka Hospitals PLC has emerged as the Merit award winner in the Hospital Sector at the recently held National Business Excellence Awards (NBEA) 2024.
-
-The NBEA, a prestigious award ceremony organised by The National Chamber of Commerce of Sri Lanka aims to recognise enterprises with demonstrable excellence in business, while contributing to the economic progress of the country.
-
-Nawaloka Hospitals PLC is the leading private healthcare service provider, which offers a premium range of state-of-the-art diagnostic and treatment facilities. Equipped with a team of skilled medical professionals and advanced treatment facilities, Nawaloka Hospitals has always maintained a legacy of professionalism coupled with years of experience in the medical field.
-
-...
-
-[Data](articles/8264ddf1.json)
-
-[Extended Data](ext_articles/8264ddf1.ext.json)
-
----
-
-### Hexnode appoints Allen Richard as Country Head of Global Strategic Alliances for India and SAARC region
-
-*2024-10-26 01:46:44* · [`dailyftlk`](https://www.ft.lk/business/Hexnode-appoints-Allen-Richard-as-Country-Head-of-Global-Strategic-Alliances-for-India-and-SAARC-region/34-768437) · `en`
-
-Hexnode, the enterprise software division of Mitsogo Inc., has named Allen Richard as the Country Head of Global Strategic Alliances for the India and SAARC region. In his new role, Allen will focus on establishing strategic partnerships and strengthening Hexnode’s market position, fostering mutually beneficial relationships, and securing key sponsorships at a global level.
-
-...
-
-[Data](articles/af2e28ed.json)
-
-[Extended Data](ext_articles/af2e28ed.ext.json)
-
----
-
-### Metropolitan and People’s  Micro Commerce partner to boost SME business
-
-*2024-10-26 01:44:29* · [`dailyftlk`](https://www.ft.lk/business/Metropolitan-and-People-s-Micro-Commerce-partner-to-boost-SME-business/34-768436) · `en`
-
-Standing from left: Metropolitan Technologies Senior Manager – Brand Management and Marketing Saleem Muthaliph, Retail and SME Head Shamaz Hossen, Vice President – Retail Sector Praveen Samarakone, Director/CEO Ali Asgar Roshanali, People’s Micro Commerce Director/Chairman Pradeep Amirthanayagam, Executive Supervisory Officer Randhil Siriwardena, General Manager Wasantha Gunawardhana, Credit Head Sanjaya Sumedha Herath, and Legal Head Malsha Mihirani
-
-Metropolitan Technologies Ltd. has entered into a strategic partnership with People’s Micro Commerce Ltd. to support small and medium enterprises (SMEs).
-
-This collaboration aims to offer microcredit facilities for essential workplace solutions, alleviating financial burdens on startups and SMEs by providing funding for crucial overheads and equipment expenses at a concessionary rate, with funds accessible within 36 hours. The initiative is poised to significantly enhance SME and startup business activities in the region.
-
-...
-
-[Data](articles/98a29e26.json)
-
-[Extended Data](ext_articles/98a29e26.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 14:39:56**
+As of **2024-10-26 14:58:16**
 
 ## Newspaper Stats
 
-*Scraped **51,493** Articles*
+*Scraped **51,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 4,786
 adaderanalk | 6,097
 tamilmirrorlk | 7,114
 virakesarilk | 8,287
-adaderanasinhalalk | 8,943
+adaderanasinhalalk | 8,944
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,493 (100.0%) of 51,493 articles have been extended.
+51,494 (100.0%) of 51,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Shooting in Ratnapura
+
+*2024-10-26 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202580) · `si`
+
+Shooting in Ratnapura: House attack at 2 AM. Owner, family unharmed. Police suspect mining dispute.
+
+🟩
+
+A house was targeted in the Talawa area in Ratnapura, Ratnapura.
+
+It has been reported that the shooting has been carried out around 2 am today (26).
+
+At the time of shooting, the owner of the house had been the owner, his wife, child, and his parents, and none of the accident.
+
+Ratnapura Police stated that the owner of the house is a miner owner and suspected that shooting is a minery dispute.
+
+◼️
+
+[Data](articles/67dcdd8c.json)
+
+[Extended Data](ext_articles/67dcdd8c.ext.json)
+
+---
 
 ### CEB proposes 6% electricity tariff revision for December
 
@@ -2269,35 +2293,5 @@ According to a hostile state, they have been accused of issuing and helping info
 [Data](articles/d153b575.json)
 
 [Extended Data](ext_articles/d153b575.ext.json)
-
----
-
-### Sri Lanka's team to fight out
-
-*2024-10-25 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202555) · `si`
-
-Sri Lanka's A team defeated Pakistan Shaheens in the Asia Cup T20 cricket tournament final. The match was played in Oman. Sri Lanka won easily, chasing down 136 runs off 46 balls. Vikramasinha scored 52 not out, including four fours in the 6th over and two fours in the 7th over. Udaya scored 43 off 20 balls, including six fours. Sri Lanka won the toss and batted first in the match.
-
-🟩
-
-පාකිස්තාන ෂහීන්ස් (පාකිස්තාන A) කණ්ඩායම කඩුලු 7කින් පරාජය කර ආසියානු නැගීඑන කණ්ඩායම් කුසලාන විස්සයි20 ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගයට සුදුසුකම් ලබාගැනීමට ශ්‍රී ලංකා A කණ්ඩායම අද (25) සමත් විය.
-
-The finals of the tournament was held at the VII of Oman in Oman.
-
-ෂහීන්ස් කණ්ඩායමෙන් හිමිවූ ලකුණු 136ක පහසු ඉලක්කය කඩුලු 3ක් පමණක් දැවී තිබියදී තරගයේ 17(16.3) පන්දුවාරයේදී යාමට ශ්‍රී ලංකාව සමත් විය.
-
-ශ්‍රී ලංකා ජය පහසු කරමින් ප්‍රහාරාත්මක පිතිහරඹයක නිතර වූ අහන් වික්‍රමසිංහ හයේ පහරක් හා හතරේ පහර 4ක් සමගින් පන්දු 46කට මුහුණදෙමින් නොදැවී ලකුණු  52ක් රැස්කිරීමට සමත් විය.
-
-ඔහුට අමතරව ආරම්භක පිතිකරු ළහිරු උදාර පන්දු 20කට මුහුණදෙමින් ලකුණු 43ක් රැස්කළ අතර, ඔහුගේ ඉනිමට හයේ පහර 4ක් හා හතරේ පහර 2ක් ඇතුළත් විය.
-
-කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදුන් ෂහීන්ස් කණ්ඩායමට පන්දුවාර 20 තුළදී කඩුලු 9ක් දැවී රැස්කළ හැකිවූයේ ලකුණු 135ක් පමණි.
-
-එක්දින තරගාවලියක් ලෙසින් 2023 වසරේ ශ්‍රී ලංකාවේ සත්කාරකත්වය යටතේ පැවති එම තරගාවලියේදී ඔවුන් විසින් අවසන් පූර්ව තරගයේදී ශ්‍රී ලංකාව පරාජය කළේය.
-
-...
-
-[Data](articles/a52a2c4c.json)
-
-[Extended Data](ext_articles/a52a2c4c.ext.json)
 
 ---

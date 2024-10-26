@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 18:00:35**
+As of **2024-10-26 18:19:53**
 
 ## Newspaper Stats
 
-*Scraped **51,515** Articles*
+*Scraped **51,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 3,057
 economynextcom | 3,142
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,787
+adalk | 4,788
 adaderanalk | 6,100
 tamilmirrorlk | 7,120
 virakesarilk | 8,290
-adaderanasinhalalk | 8,950
+adaderanasinhalalk | 8,952
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,515 (100.0%) of 51,515 articles have been extended.
+51,516 (100.0%) of 51,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### සී.බී. රත්නායක ට විරෝධයක්
+
+*2024-10-26 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202590) · `si`
+
+පොදුජන පෙරමුණේ කොත්මලේ ආසන රැස්වීමේදී හිටපු අමාත්‍ය සී.බී රත්නායක මහතාට පාක්ෂිකයන්ගෙන් විරෝධයක් එල්ල වී තිබේ.
+
+පොදුජන පෙරමුණේ ජාතික සංවිධායක හිටපු පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් මෙම රැස්වීම පැවැත්වුණි.
+
+එහිදී හිටපු පාර්ලිමේන්තු මන්ත්‍රී සී.බී. රත්නායක මහතා සභාව ඇමතීමට යාමේදී පාක්ෂිකයන්ගෙන් ඔහුට විරෝධය එල්ල වෙනු දක්නට ලැබිණි.
+
+◼️
+
+[Data](articles/5a4d2e77.json)
+
+---
+
+### දියේ ගිලී තරුණයෙකු මරුට
+
+*2024-10-26 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202589) · `si`
+
+A 20-year-old man from Haputale died after drowning in Attanagalu Oya while working with colleagues. His body was discovered by local residents after a search lasting several hours.
+
+🟩
+
+The deceased is a 20 year old resident of the Haputale Tatnala, Haputale.
+
+The deceased has been staying in Dambuwella, Attanagalla and a month ago for a job in the area.
+
+The young man was drowned with a few of the workmates at Attanagalu Oya.
+
+Later, a group of residents of the area had found a strict premises for about four hours and found the body of the youth.
+
+◼️
+
+[Data](articles/b3e5b968.json)
+
+[Extended Data](ext_articles/b3e5b968.ext.json)
+
+---
 
 ### House-to-house Kanthi Kodikara attacked
 
@@ -361,6 +401,22 @@ The general meeting organized by the National People's Power was held at the Att
 [Data](articles/0677d7c3.json)
 
 [Extended Data](ext_articles/0677d7c3.ext.json)
+
+---
+
+### රුපියල් කෝටි අසූ නවයක විශ්‍රාම වැටුප් වැඩියෙන් ගෙවලා
+
+*2024-10-26 15:04:12* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-කෝටි-අසූ-නවයක-විශ්‍රාම-වැටුප්-වැඩියෙන්-ගෙවලා/11-412689) · `si`
+
+විශ්‍රාම වැටුප් දෙපාර්තමේන්තුව විසින්   විශ්‍රාම වැටුප් ගෙවීමේදී ඉකුත් ආසන්න වසර පහ තුළදී රුපියල් මිලියන 885.7 (අසූඅට කෝටි  පනස් හත්  ලක්ෂයක්  ලක්ෂයක්) ක මුදලක් වැඩිපුර ගෙවා ඇතැයි ජාතික විගණන කාර්යාලය එම දෙපාර්තමේන්තුව සම්බන්ධයෙන්  නිකුත් කළ විගණන වාර්තාවකින්  අනාවරණය කරයි.
+
+මෙම මුදල 2023.12.31 දිනට තවදුරටත් අයකර ගතයුතු මුදලක් ලෙස පවතින බව මේ සම්බන්ධයෙන් විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ ගණන් දීමේ නිලධාරියාද පිළිගෙන ඇත.
+
+මෙලෙස වැඩිපුර ගෙවාඇති මුදල කඩිනමින් අයකර ගැනීමට කටයුතු කරන ලෙස විගණන කාර්යාලය විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවට නිර්දේශ ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/c2f86680.json)
 
 ---
 
@@ -2173,73 +2229,5 @@ The EPDP in the upcoming parliamentary election. Significantly, the President co
 [Data](articles/73c2f25a.json)
 
 [Extended Data](ext_articles/73c2f25a.ext.json)
-
----
-
-### Three cops interdicted for assaulting two youths in Pamunugama
-
-*2024-10-25 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102929/three-cops-interdicted-for-assaulting-two-youths-in-pamunugama) · `en`
-
-Three police officers attached to the Pamunugama Police Station have been interdicted over the incident of allegedly assaulting two youths in the Pamunugama area in Wattala.
-
-A tense situation was reported near the Pamunugama Police Station last night as a group of local residents had protested in front of the station claiming that two youths arrested by its officers were brutally assaulted.
-
-On Sunday (20), two individuals were arrested on suspicion of breaking into a house in the Bopitiya area of Pamunugama and stealing a gold necklace.
-
-The arrested youths, aged 20 and 24, are residents of Pamunugama and Seththapaduwa areas.
-
-However, the parents and the villagers accuse the police officers of brutally assaulting these two youths, while asserting that the young men were not involved in the theft.
-
-Later, with the intervention of the OIC of Dungalpitiya Police Station, the assaulted individuals were admitted to the Ragama Teaching Hospital.
-
-...
-
-[Data](articles/7260e73c.json)
-
-[Extended Data](ext_articles/7260e73c.ext.json)
-
----
-
-### Special Dengue Prevention Program tomorrow and tomorrow
-
-*2024-10-25 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202563) · `si`
-
-Special Dengue Prevention Program: Floods impact. Operating in Colombo, Gampaha, Kalutara, Puttalam. Dengue cases increase in first three months.
-
-🟩
-
-Due to the floods with inclement weather, steps have been taken to implement a special dengue prevention program to reduce the controller of dengue mosquitoes.
-
-The National Dengue Prevention Unit said that the Western Province was operating.
-
-Its Director Sudath Samaraweera said that these programs were operating in Colombo, Gampaha, Kalutara and Puttalam districts yesterday and tomorrow.
-
-He also said that dengue patients have shown a growth in the first three months of this year.
-
-◼️
-
-[Data](articles/cdaded52.json)
-
-[Extended Data](ext_articles/cdaded52.ext.json)
-
----
-
-### இலங்கையில் முக்கிய சுற்றுலாத்தலம் ஒன்றிற்கு விசேட பாதுகாப்பு
-
-*2024-10-25 21:25:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-முக்கிய-சுற்றுலாத்தலம்-ஒன்றிற்கு-விசேட-பாதுகாப்பு/175-346059) · `ta`
-
-Sri Lanka's major tourist attractions receive special protection measures due to potential attacks targeting foreign tourists. Security actions implemented at temples, restaurants, and other tourist sites.
-
-🟩
-
-இதன்படி, தம்புள்ளை ரஜமகா விகாரை, தம்புள்ளை உயவத்த ரஜமகாவிகாரை மற்றும் சுற்றுலாத்தளங்கள், உணவகங்கள் என்பவற்றில் விசேடப் பாதுகாப்பு நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன.
-
-இலங்கை வரும் சுற்றுலாப்பயணிகளை குறிவைத்து தாக்குதல் நடத்த திட்டமிடப்படுவதாக தெரிவிக்கப்பட்டதையடுத்து இந்த பாதுகாப்பு நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/6aef43ff.json)
-
-[Extended Data](ext_articles/6aef43ff.ext.json)
 
 ---

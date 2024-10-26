@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 14:11:45**
+As of **2024-10-26 14:24:17**
 
 ## Newspaper Stats
 
@@ -26,39 +26,59 @@ adaderanasinhalalk | 8,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,488 (100.0%) of 51,490 articles have been extended.
+51,490 (100.0%) of 51,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
 
-### මත ගැටුම් ගැන යන කටකතාවලට හරිනි දුන් පිළිතුර
+### Harred by the rumors on conflicts
 
 *2024-10-26 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202578) · `si`
 
-තමා සහ ජනාධිපතිවරයා අතර මත ගැටුමක් ඇති බවට අසත්‍ය පුවත් ප්‍රචාරය කිරීමට ඇතැමුන් උත්සාහ ගනිමින් සිටින බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
+Here's a 200-character summary:
 
-අත්තිඩිය ප්‍රදේශයේ පැවති ජන හමුවකට එක්වෙමින් අගමැතිනිය ඒ බව පැවසුවාය.
 
-ජාතික ජන බලවේගය මහ මැතිවරණය ඉලක්ක කරගනිමින් සංවිධාන කළ ජන හමුවක් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරියගේ ප්‍රධානත්වයෙන් අත්තඩියේදී ඊයේ පැවැත්වුණි.
 
-"මේ දවස්වල සුදුරුදු පරිදි බොරු කියන්නත් කතා මවන්නත් හරිම දක්ෂයි. අනුර සහෝදරයයි මමයි ෆුල් ෆයිට් එකේ කියලා දැන් කියනවා නේ. අපි දැන් කතා කරන්නේ නැහැලු. කවදද ඔය බොරුව එපා වෙන්නේ. මට ඕන එක්කෙනා නෙමෙයි ලු තේරුවේ... මට තරහ ගියාලු...අනුර සහෝදරයා එක්ක රණ්ඩු වුණා ලු. අනුර සහෝදරයා එයාට ඕන එක්කෙනා පත් කළාලු. අපි මේ තීරණ ගන්න කාමරවල ඒ අය හිටියා වගේ කියන්නේ. ඒක ඒ අයගේ බලාපොරොත්තුව වෙන්න පුළුවන්. හැබැයි ඒක නෙමෙයි ඇත්ත. අපි තීරණ ගන්නේ එකතුවෙලා. සාකච්ඡා කරලා. පවු ඇත්තටම පවු. අපි අතර තරගයක් නැහැ."
+PM denies rumors of conflict with President. Claims false news spread about disagreements. Speaks at public event, addressing recent tensions. Emphasizes unity and decision-making process.
+
+🟩
+
+Prime Minister Dr. Haraini Amarasuriya says that some have tried to promote false news that there is a conflict between him and the president.
+
+Addressing a public brief in Attidiya, Prime Minister said.
+
+A public meeting organized by the Prime Minister Dr. Harini Amarasuriya was held at the Atuda with the patronage of the Prime Minister Dr. Harini Amarasuriya.
+
+"These days are very good to lie and speak. Anura brother and I'm about the full Fight,. We don't speak now. When will that lie?. I just wanted to choose the lou.. I'm angry ... came with Anura Comrade. Comrane Comranene wants him a new Malays. When we make these decisions like they were in the rooms. It can be their hope. But that's not true. We make decisions. Discussed. Really Forecasts. There is no match between us. "
 
 ◼️
 
 [Data](articles/11242aad.json)
 
+[Extended Data](ext_articles/11242aad.ext.json)
+
 ---
 
-### කාසියේ වාසිය කොදෙව්වන්ට
+### West Indies
 
 *2024-10-26 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202577) · `si`
 
-ශ්‍රී ලංකාව හා බ.ඉ. කොදෙව් කණ්ඩායම අතර අද (26) පැවැත්වෙන තෙවැනි හා අවසන් එක්දින තරගයේ කාසියේ වාසිය දිනූ බ.ඉ. කොදෙව් කණ්ඩායම පළමුව පන්දු යැවීමට තීරණය කළේය.
+Here's a summary of 200 characters:
+
+
+
+West Indies vs Sri Lanka: West Indies won the toss and chose to bowl in the third and final ODI match on March 26.
+
+🟩
+
+Sri Lanka and Buddhism. West Indies won the toss and winning the Third and final ODI series today (26).. West Indies decided to bowl first.
 
 ◼️
 
 [Data](articles/2e710260.json)
+
+[Extended Data](ext_articles/2e710260.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 12:57:57**
+As of **2024-10-26 13:39:59**
 
 ## Newspaper Stats
 
-*Scraped **51,474** Articles*
+*Scraped **51,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,160 @@ economynextcom | 3,142
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,786
-adaderanalk | 6,093
+adaderanalk | 6,095
 tamilmirrorlk | 7,113
-virakesarilk | 8,278
-adaderanasinhalalk | 8,938
+virakesarilk | 8,287
+adaderanasinhalalk | 8,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,474 (100.0%) of 51,474 articles have been extended.
+51,486 (100.0%) of 51,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Former MP Lohan Ratwatte’s vehicle involved in accident
+
+*2024-10-26 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102938/former-mp-lohan-ratwattes-vehicle-involved-in-accident) · `en`
+
+A vehicle reportedly belonging to former Member of Parliament Lohan Ratwatte has been involved in an accident at the Dangahamula Junction along the Padeniya-Anuradhapura road, within the Wariyapola Police Division.
+
+Following the accident, a heated altercation had reportedly occurred between local residents and the occupants of the vehicle.
+
+The disagreement soon escalated into a physical altercation, with both parties involved in a scuffle.
+
+Adding to the tension, local residents alleged that multiple weapons were found inside the vehicle, further heightening concerns and drawing the attention of law enforcement.
+
+◼️
+
+[Data](articles/c5080d76.json)
+
+[Extended Data](ext_articles/c5080d76.ext.json)
+
+---
+
+### Hint of new electricity tariff revision
+
+*2024-10-26 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202573) · `si`
+
+Electricity Board proposes 6% tariff revision in December. Public Utilities Commission reviews 4-11% reduction. Study ongoing; final decision pending.
+
+🟩
+
+The Electricity Board has handed over the proposal to the Public Utilities Commission of Tax Turning This Year Third this year.
+
+The Public Utilities Commission stated that the electricity tariffs will be revised at 6% in December.
+
+The proposal to revise the electricity tariffs in December has been forwarded to the Public Utilities Commission.
+
+The Public Utilities Commission stated that the electricity tariffs have been proposed to be reduced by 4 to 11 percent.
+
+The Commission further stated that the resolutions are currently studying and further amendments will be forwarded to the CEB.
+
+The Director of the Public Utilities Commission of the Public Utilities Commission Jayamanath Herath said that all the proposals would be paid to a public consultant.
+
+The first quarter of the year was awarded the electricity tariff on March 4 and amended the electricity tariff from 21.9 percent for all categories.
+
+The amendment of the second quarter was held on July 16, and the number of categories is 22.5%.
+
+◼️
+
+[Data](articles/a0aa24ca.json)
+
+[Extended Data](ext_articles/a0aa24ca.ext.json)
+
+---
+
+### Elpitiya PS Election: Voter turnout as at 10am
+
+*2024-10-26 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102937/elpitiya-ps-election-voter-turnout-as-at-10am) · `en`
+
+The voter turnout for the Elpitiya Pradeshiya Sabha Election, which commenced across 48 centers at 7:00 a.m. today (26), has been reported as 25 percent as of 10:00 a.m., according to Galle District Returning Officer W.A. Dharmasiri.
+
+He also mentioned that counting of votes will commence at the respective centers after voting ends at 4:00 p.m.
+
+A total of 55,643 voters are eligible to cast their votes at 48 polling centers and the polling is being held according to the 2018 voter registration list, according to the Election Commission.
+
+◼️
+
+[Data](articles/661f47be.json)
+
+[Extended Data](ext_articles/661f47be.ext.json)
+
+---
+
+### Traffic on Bandarawela Road
+
+*2024-10-26 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197151) · `ta`
+
+Tree crashes on Bandarawela Road, damages vehicle. Disaster Management Center takes action to clear obstruction.
+
+🟩
+
+The Badulla District Office of the Disaster Management Center said that a massive tree crashed near the 17th milestone on the Bandarawela road through the Badulla and Pasarai border on Friday afternoon.
+
+The office said that a three -wheeler parked on the road was damaged.
+
+Subsequently, the Assistant Director of the Badulla District Office of the Disaster Management Center said that steps have been taken to cut down the tree that fell on the road.
+
+◼️
+
+[Data](articles/059c425a.json)
+
+[Extended Data](ext_articles/059c425a.ext.json)
+
+---
+
+### Ampara district amidst heavy security
+
+*2024-10-26 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197152) · `ta`
+
+Ampara district under heavy security due to visiting dignitaries. Former parliamentarians and police involved in security duties. Public activities restricted amid tightened security measures.
+
+🟩
+
+Former parliamentarians and police have been involved in security duties in various parts of the Ampara district, in view of the advent of dignitaries including Rizad Bathiudeen, Rauf Hakeem and Ataullah.
+
+From Friday (25) to Saturday (26) from Saturday (26), the Ampara District is the biggest Neelavana, Maruthamunai, Pandaruppu, Napittimunai, Senaikkudiyiruppu, Savalakkady, Navithanveli, Paraikkalmunai, Veeramunai, Samanthurai, Karadivu, Kalmunai, KalmunaiSecurity has been strengthened in areas including Adalaichenai, Akkaraipattu, Thambiluvil, Thambattu, Tirukovil, Pottuvil and other areas.
+
+Meanwhile, the security has been strengthened in Pottuvil, Augkampai area.
+
+Due to this, the public is engaged in their daily activities amidst heavy security. In addition, three -tier security was arranged as police and military investigators at other major junctions.
+
+...
+
+[Data](articles/b118866a.json)
+
+[Extended Data](ext_articles/b118866a.ext.json)
+
+---
+
+### Free travel ticket for train employees
+
+*2024-10-26 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197153) · `ta`
+
+Ministry of Transport announces free train travel for railway employees between home and work areas. Aimed at improving worker morale and productivity, benefiting national economy.
+
+🟩
+
+The Ministry of Transport has announced that free train travel permits will be granted to use all the railway employees between the area and the workplace.
+
+The Ministry said in a statement that the Minister of Transport Vijitha Herath has issued a directive to the relevant authorities.
+
+The Ministry of Transport, pointing out that the train workers are constantly criticized by the public, said the new travel permit would be issued as a change in the situation.
+
+The ministry added that it would benefit the country's economy, promoting all railway workers to improve their performance.
+
+◼️
+
+[Data](articles/48f9dd79.json)
+
+[Extended Data](ext_articles/48f9dd79.ext.json)
+
+---
 
 ### A vehicle claiming that Lohan belongs to Sthan Ratwatte
 
@@ -53,6 +193,62 @@ Residents also allege that the vehicle had several weapons.
 [Data](articles/d938c741.json)
 
 [Extended Data](ext_articles/d938c741.ext.json)
+
+---
+
+### Boy killed in electricity
+
+*2024-10-26 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197148) · `ta`
+
+Six-year-old boy electrocuted while playing near fridge in Sri Lanka. Boy died instantly after contact with live wire. Autopsy scheduled for today.
+
+🟩
+
+Athanagalla police said that a six -year -old boy was killed in a power supply in Alawala area in Vayangoda yesterday (25).
+
+Tejan Dinuvaru, a 6 -year -old boy from Alawala area, Veyankoda, has died.
+
+While the boy was playing in his home, the electricity was attacked and fell down as she put his hand in the lower part of the refrigerator in the kitchen.
+
+Later, doctors said the boy had already died when the boy's father immediately admitted the boy to the Vadukitivala Base Hospital.
+
+An autopsy on the boy's death will be carried out at the Vathivitivala Hospital today (26).
+
+◼️
+
+[Data](articles/66b95e40.json)
+
+[Extended Data](ext_articles/66b95e40.ext.json)
+
+---
+
+### தமிழ் முற்போக்கு கூட்டணியும், இலங்கை தமிழரசு கட்சியும் வெல்வது காலத்தின் கட்டாயம் - மனோ கணேசன்
+
+*2024-10-26 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197147) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Mano Ganesan: Tamil Progressive Alliance and Sri Lanka Tamil National Alliance victory inevitable. Support President Anura Kumara Dissanayake's new constitution proposal. Participate in all-party discussions to address national issues.
+
+🟩
+
+தமிழ் முற்போக்கு கூட்டணியும், இலங்கை தமிழரசு கட்சியும் வெல்வது காலத்தின் கட்டாயம் என   தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் தெரிவித்தார்.
+
+In a media statement sent to the media, Mano Ganesan further stated that he said.
+
+President Anura Kumara Dissanayake said that the only idea that the country's national ethnic issue was the solution to the country's nationalist issue is that from 2015 to 2018, we will meet the all -party discussion to create a new constitution that we all have united in good governance.
+
+ஜனாதிபதி அநுரகுமாரவின்  இந்த யோசனையை நாம் வரவேற்கிறோம். We do not do the short politics that should answer all the challenges of the country within the same month.. We think the new government should be given a fair time.
+
+But at the same time, in the new parliament, we are not prepared to provide an empty check for President Anura Kumara Dissanayake during the All -Party discussion that creates this proposed new constitution.
+
+...
+
+[Data](articles/87f130ab.json)
+
+[Extended Data](ext_articles/87f130ab.ext.json)
 
 ---
 
@@ -171,6 +367,28 @@ Commenting on this, an official of the Department of Immigration and Emigration 
 [Data](articles/2f5a05ad.json)
 
 [Extended Data](ext_articles/2f5a05ad.ext.json)
+
+---
+
+### மஹரகமையில் கைவிடப்பட்ட நிலையில் காரொன்று மீட்பு !
+
+*2024-10-26 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197143) · `ta`
+
+Car seized in Maharagama: Abandoned with HR stickers and liquor bottles nearby.
+
+🟩
+
+Maharagama police said that a car has been seized after being abandoned in front of a garment stall on Old Road, Maharagama.
+
+Police said the sticker of a human rights organization was pasted in the car.
+
+In addition, police said that several empty bottles of liquor were found near the car.
+
+◼️
+
+[Data](articles/a4eacc59.json)
+
+[Extended Data](ext_articles/a4eacc59.ext.json)
 
 ---
 
@@ -336,6 +554,28 @@ The vehicle has been recovered following information provided to the Maharagama 
 
 ---
 
+### Explanation for 16 Indian fishermen
+
+*2024-10-26 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197140) · `ta`
+
+Indian fishermen arrested Jaffna sea remanded court order summary: 16 Tamil Nadu fishermen detained, produced in court, remanded until next month.
+
+🟩
+
+16 Indian fishermen arrested for fishing in the Jaffna Nedundevu Sea have been remanded till the 06th of next month.
+
+The 16 Tamil Nadu fishermen were arrested last Wednesday night.
+
+The detained fishermen were produced before the Kayts Magistrate's Court Judge Nalini Subhaskaran on Thursday (24). The above ordered.
+
+◼️
+
+[Data](articles/07c2a2bf.json)
+
+[Extended Data](ext_articles/07c2a2bf.ext.json)
+
+---
+
 ### After wave of airstrikes, Israel says its retaliation against Iran is complete
 
 *2024-10-26 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102935/after-wave-of-airstrikes-israel-says-its-retaliation-against-iran-is-complete) · `en`
@@ -351,6 +591,28 @@ Meanwhile, Iran says its air defense system successfully countered Israel’s at
 [Data](articles/2f34ff5d.json)
 
 [Extended Data](ext_articles/2f34ff5d.ext.json)
+
+---
+
+### Elections Commission of Elections
+
+*2024-10-26 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197130) · `ta`
+
+Elpitiya Pradeshiya Sabha elections in Galle District today. 8 political parties, 1 independent group contesting. Postal voting completed. Voter ID process changed due to COVID-19.
+
+🟩
+
+Galle District Elpitiya Pradeshiya Sabha elections will be held today (Saturday). அங்கீகரிக்கப்பட்ட 8 அரசியல் கட்சிகள், 1 சுயேட்சை குழுக்கள் என்ற அடிப்படையில் வேட்பாளர்கள் போட்டியிடுகின்றனர்.
+
+சுதந்திரமானதும், நியாயமானதுமான தேர்தலை நடத்துவதற்கு அனைவரும் ஒத்துழைப்பு வழங்க வேண்டும் என தேர்தல்கள் ஆணைக்குழு வலியுறுத்தியுள்து. எல்பிட்டிய தேர்தல் தொகுதியை அண்மித்த பகுதியில் பொதுத்தேர்தலை இலக்காகக் கொண்டு தேர்தல் பிரச்சார நடவடிக்கையில் ஈடுபடுவது முற்றாக தடை செய்யப்பட்டுள்ளது.
+
+அரசியலமைப்பின் பிரகாரம் பதவி காலம் நிறைவடைந்துள்ள உள்ளூராட்சி மன்றத் தேர்தலை வெகுவிரைவில் நடத்துமாறு உயர்நீதிமன்றம் தேர்தல்கள் ஆணைக்குழுவுக்கு உத்தரவு பிறப்பித்துள்ளது. ஜனாதிபதித் தேர்தலை நிறைவு செய்ததன் பின்னர் உள்ளூராட்சி மன்றத் தேர்தலை நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழு உத்தேசித்திருந்த நிலையில் பாராளுமன்றத்தை கலைத்து பொதுத்தேர்தலை நடத்துவதற்கான அதிவிசேட வர்த்தமானியை ஜனாதிபதி கடந்த மாதம்  வெளியிட்டிருந்தார்.
+
+...
+
+[Data](articles/0df397ed.json)
+
+[Extended Data](ext_articles/0df397ed.ext.json)
 
 ---
 
@@ -377,6 +639,26 @@ Iran, which went to the summit of anger, launched an air strike on Israel on the
 [Data](articles/e614a00c.json)
 
 [Extended Data](ext_articles/e614a00c.ext.json)
+
+---
+
+### Air attacks on Iran completed;Israeli army
+
+*2024-10-26 09:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197135) · `ta`
+
+Israel completes air strikes on Iran military bases. Attacks successful, aircraft return safely.
+
+🟩
+
+The Israeli Security Forces have said that heavy attacks on Iranian military bases have been completed.
+
+The precise attack carried out by Israeli security forces targeting Iran's military bases has been completed a while ago. It is reported that our flights have returned safely.
+
+◼️
+
+[Data](articles/d0a0a501.json)
+
+[Extended Data](ext_articles/d0a0a501.ext.json)
 
 ---
 
@@ -419,6 +701,30 @@ The net percentage balance is calculated by weighing 1 for ‘completely confide
 [Data](articles/2a11c3d7.json)
 
 [Extended Data](ext_articles/2a11c3d7.ext.json)
+
+---
+
+### Voter Card for General Elections from Tomorrow - Elections Commission
+
+*2024-10-26 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197134) · `ta`
+
+Election Commission distributes voter cards via post starting Sunday. General election on Nov 14 with 5,464 approved candidates and 8,821 independent committee candidates. Postal voting on Nov 30; alternative dates Nov 7-8 for missed polls.
+
+🟩
+
+Official voter cards for the general election will be distributed by post tomorrow (Sunday). Voter card distribution work will be completed by 7th November.
+
+The general election is scheduled for November 14 (Thursday). The Election Commission has completed all the tasks for the referendum. Accordingly, there are 5,464 candidates on behalf of the approval of this year and 8821 candidates on behalf of the Independent Committees.
+
+Accordingly, the Elections Commission has handed over the official voter cards to the Postal Department today (26). All the postal servants' holidays have been canceled till the date of the general election as the voter card is distributed by post tomorrow (Sunday). The official voter card will be distributed by post tomorrow to the 7th of November.
+
+With 759,210 applications received for postal voting in this general election, 2,1160 applications have been rejected and 738,050 government officials have qualified for postal voting.
+
+...
+
+[Data](articles/c047c26f.json)
+
+[Extended Data](ext_articles/c047c26f.ext.json)
 
 ---
 
@@ -1027,28 +1333,6 @@ Sri Lanka is a multi-ethnic, multi-religious island nation that has experienced 
 ---
 
 ### 2024-10-25 (Friday)
-
-### Elections Commission of Elections
-
-*2024-10-25 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197130) · `ta`
-
-Elpitiya Pradeshiya Sabha elections in Galle District today. 8 political parties, 1 independent group contesting. Postal voting completed. Voter ID process changed due to COVID-19.
-
-🟩
-
-Galle District Elpitiya Pradeshiya Sabha elections will be held today (Saturday). அங்கீகரிக்கப்பட்ட 8 அரசியல் கட்சிகள், 1 சுயேட்சை குழுக்கள் என்ற அடிப்படையில் வேட்பாளர்கள் போட்டியிடுகின்றனர்.
-
-சுதந்திரமானதும், நியாயமானதுமான தேர்தலை நடத்துவதற்கு அனைவரும் ஒத்துழைப்பு வழங்க வேண்டும் என தேர்தல்கள் ஆணைக்குழு வலியுறுத்தியுள்து. எல்பிட்டிய தேர்தல் தொகுதியை அண்மித்த பகுதியில் பொதுத்தேர்தலை இலக்காகக் கொண்டு தேர்தல் பிரச்சார நடவடிக்கையில் ஈடுபடுவது முற்றாக தடை செய்யப்பட்டுள்ளது.
-
-அரசியலமைப்பின் பிரகாரம் பதவி காலம் நிறைவடைந்துள்ள உள்ளூராட்சி மன்றத் தேர்தலை வெகுவிரைவில் நடத்துமாறு உயர்நீதிமன்றம் தேர்தல்கள் ஆணைக்குழுவுக்கு உத்தரவு பிறப்பித்துள்ளது. ஜனாதிபதித் தேர்தலை நிறைவு செய்ததன் பின்னர் உள்ளூராட்சி மன்றத் தேர்தலை நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழு உத்தேசித்திருந்த நிலையில் பாராளுமன்றத்தை கலைத்து பொதுத்தேர்தலை நடத்துவதற்கான அதிவிசேட வர்த்தமானியை ஜனாதிபதி கடந்த மாதம்  வெளியிட்டிருந்தார்.
-
-...
-
-[Data](articles/0df397ed.json)
-
-[Extended Data](ext_articles/0df397ed.ext.json)
-
----
 
 ### மாலைதீவுகளை வெற்றிகொண்ட இலங்கை அரை இறுதியில் ஹொங்கொங்கை எதிர்த்தாடுகிறது
 
@@ -2023,299 +2307,5 @@ Meanwhile, the market turnover was recorded at Rs.4.75 billion today.
 [Data](articles/c504485a.json)
 
 [Extended Data](ext_articles/c504485a.ext.json)
-
----
-
-### Those who lose the presidential election tries to create problems or fiction and take over power - President
-
-*2024-10-25 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/197086) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Opposition creates fake issues post-election. Government denies claims of instability. Focuses on economic development, national unity, and environmental protection. Emphasizes truth-based movement and responsible governance.
-
-🟩
-
-During the last presidential election, those who have made all kinds of campaigns against us are now trying to create any problems or fiction and take over power again. They are starting to say that our government will fall in 3 or 6 months. I remind them that we are settling this country. President Anuragumara Dissanayake said that the national people's power is not going to stop without achieving it.
-
-President Anura Kumara Dissanayake said this while addressing the general election held in Puttalam on Thursday (24).
-
-This massive crowd ensures that we have won many constituencies in the last presidential election, as we have won the general election and all the constituencies of the district.
-
-...
-
-[Data](articles/010bd2a0.json)
-
-[Extended Data](ext_articles/010bd2a0.ext.json)
-
----
-
-### President instructs officials to solve the price problem
-
-*2024-10-25 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202554) · `si`
-
-President Anura Kumara Dissanayake meets Agricultural, Trade and Paddy Marketing Board. Discusses rice prices and conditions. Instructs officials on immediate action. Statement released.
-
-🟩
-
-President Anura Kumara Dissanayake met with the Agricultural, Trade and Paddy Marketing Board.
-
-The price of rice and current conditions have been discussed at length.
-
-The President has issued a statement saying that the President instructed officials on the accelerated measures to be taken in this regard.
-
-◼️
-
-[Data](articles/2f460e52.json)
-
-[Extended Data](ext_articles/2f460e52.ext.json)
-
----
-
-### Sri Lanka stocks close up, Sampath and HNB contribute over 2bn to turnover
-
-*2024-10-25 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-sampath-and-hnb-contribute-over-2bn-to-turnover-184927/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange ended the week in green, data on its site showed.
-
-The broader ASPI closed up 0.35 percent, or 44.08 points, at 12,517; while the more liquid S&P SL20 Index closed up 1.05 percent, or 39.00 points, at 3,759.
-
-Turnover was 4.7 billion. This was led by local high net worth individuals and institutions, market participants said.
-
-Crossings took place on Hatton National Bank (down at 219.00), Sampath Bank (down at 85.00), CIC Holdings (up at 77.00), Hemas Holdings (up at 82.90) and Central Finance Company (up at 123.00).
-
-Trades in Sampath Bank contributed over 1 billion rupees to the turnover, and HNB contributed 1.3 billion.
-
-Other top turnover generators were John Keells Holdings (up at 214.00), Central Finance, and Commercial Bank (up at 113.50).
-
-Foreign buying interest was seen in Sampath Bank, Commercial Bank, Tokyo Cement (flat at 53.00), Nations Trust Bank (up at 138.75), Richard Pieris and Co (up at 22.20), and Haycarb (up at 76.90).
-
-...
-
-[Data](articles/3890c57d.json)
-
-[Extended Data](ext_articles/3890c57d.ext.json)
-
----
-
-### EC reveals candidates’ expenditure for 2024 Presidential Election
-
-*2024-10-25 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102923/ec-reveals-candidates-expenditure-for-2024-presidential-election) · `en`
-
-The Election Commission has made public the document detailing the expenses incurred by candidates who contested the last presidential election.
-
-Accordingly, the presidential candidate of the ‘Samagi Jana Balavegaya’ (SJB), Sajith Premadasa’s expenses are the highest in the 2024 presidential election, with the figure exceeding Rs. 1.12 billion.
-
-Specifically, he has spent a sum of Rs. 936,258,524.60 as a candidate, while the SJB has contributed Rs. 194,087,715.04 to this expense.
-
-The second-highest spender in the election was the independent candidate, Ranil Wickramasinghe, who spent Rs. 990,327,687.16, making him the highest spender among the independent candidates.
-
-The candidate of the National People’s Party (NPP), Anura Kumara Dissanayake, who won the presidential election this year, did not incur any personal expenses. However, the NPP has spent Rs. 527,999,889.38 on election-related activities.
-
-...
-
-[Data](articles/0510bc39.json)
-
-[Extended Data](ext_articles/0510bc39.ext.json)
-
----
-
-### Bore. நீதிமன்ற வளாகத்தில் சோதனை
-
-*2024-10-25 16:32:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டு-நீதிமன்ற-வளாகத்தில்-சோதனை/175-346051) · `ta`
-
-Tamil Nadu court complex attack warning leads to police investigation
-
-🟩
-
-மட்டக்களப்பு நீதிமன்ற வளாகத்தை இலக்கு வைத்து தாக்குதல் நடத்தப்படலாம் என எச்சரிக்கை விடுக்கப்பட்ட நிலையில், மட்டக்களப்பு பொலிஸாரும் பொலிஸ் விசேட அதிரடிப்படையினரும் இன்று (25) காலை குறித்த வளாகத்தில் விசேட சோதனையினை மேற்கொண்டுள்ளனர்.
-
-In three days of October 24, 25 or 28, letters have been reported to be attacked by the Batticaloa Court Complex.
-
-இது குறித்து இரண்டு கடிதங்கள் மட்டக்களப்பு பிரதிப் பொலிஸ் மா அதிபர் மற்றும் மட்டக்களப்பு நீதிவான் ஆகியோருக்கு அனுப்பி வைக்கப்பட்டுள்ளன.
-
-அதன்படி இன்று காலை மட்டக்களப்பு பொலிஸாரும் பொலிஸ் விசேட அதிரடிப்படையினரும் இணைந்து குறித்த வளாகத்தை சோதனையிட நடவடிக்கை எடுத்தனர்.
-
-இது தொடர்பில் பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ்மா அதிபர் சட்டத்தரணி நிஹால் தல்துவ கூறுகையில், குறித்த வளாகத்தில் சந்தேகத்திற்கிடமான எதுவும் கண்டு பிடிக்கப்படவில்லை என குறிப்பிட்டார்.
-
-குறித்த கடிதங்கள் மட்டக்களப்பு தபால் நிலையத்தில் இருந்து பதிவுத் தபாலுக்கு அனுப்பப்பட்டவை எனவும், கடிதங்களை அனுப்பிய தரப்பினர் தொடர்பில் விசாரணைகள் இடம்பெற்று வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-...
-
-[Data](articles/38021d96.json)
-
-[Extended Data](ext_articles/38021d96.ext.json)
-
----
-
-### Special test at the Batticaloa Court Complex
-
-*2024-10-25 16:32:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பு-நீதிமன்ற-வளாகத்தில்-விசேட-சோதனை/175-346051) · `ta`
-
-Batticaloa Court Complex under siege: STF and police conduct raid after threat letters received. Security heightened; investigation ongoing.
-
-🟩
-
-The Batticaloa Police and the Special Task Force (STF) are conducting a special raid on the premises this morning, as it was warned that the attack on the Batticaloa court premises could be carried out.
-
-In three days of October 24, 25 or 28, letters have been announced by the Batticaloa court premises.
-
-Two letters have been sent to the Deputy Inspector General of Police in Batticaloa and the Batticaloa Magistrate.
-
-Accordingly, the Batticaloa Police and the Special Task Force (STF) took steps to check the campus this morning.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that there was nothing suspicious on the premises.
-
-Police said the letters were sent from the Batticaloa post office to the registration post and that investigations are underway regarding the parties who sent letters.
-
-The security of the Batticaloa court complex has been strengthened and two police teams are involved in an investigation into the incident.. Remble
-
-◼️
-
-[Data](articles/5322fc14.json)
-
-[Extended Data](ext_articles/5322fc14.ext.json)
-
----
-
-### Protection of the airports
-
-*2024-10-25 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202553) · `si`
-
-Sri Lanka airport security heightened after receiving fake bomb threats from India. Authorities evacuated flights, increased vigilance. Meta and X companies informed about potential threats.
-
-🟩
-
-Airport and Aviation Company has announced that the security of airports and staff attends Sri Lankan airports.
-
-They have been issued this announcement with regard to the threat of fake bombors received from India on October 19 and 24.
-
-The aircraft was presented to the Katunayake Airport and removed the passengers and staffs in the aircraft due to the arrival of fake bombs.
-
-Airport and Aviation Company said that it was sad if someone was embarrassed.
-
-Large number of Indian aircraft has been threatened with fake bombs in the past few days and the authorities had acted strong security measures.
-
-Meanwhile, about 80 fake notifications have been received by Indian aircraft bombs yesterday.
-
-The Government has decided to inform meta and x companies to inform the Metta and x companies for information on the information of messages that are sent to these fake threats.
-
-◼️
-
-[Data](articles/64d9e1bf.json)
-
-[Extended Data](ext_articles/64d9e1bf.ext.json)
-
----
-
-### School students in Balangoda suddenly admitted to hospital
-
-*2024-10-25 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197098) · `ta`
-
-Balangoda school incident: 22 students hospitalized after cleaning toilets with chemicals.
-
-🟩
-
-22 students who are studying at a school in Balangoda have been admitted to the hospital, police said.
-
-Students who are ill have cleaned the school's toilet this morning using some chemicals.
-
-◼️
-
-[Data](articles/02f16952.json)
-
-[Extended Data](ext_articles/02f16952.ext.json)
-
----
-
-### Sri Lanka's group is easy
-
-*2024-10-25 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202552) · `si`
-
-Sri Lanka's cricket team won the first semi-final against Pakistan, scoring 135/9 in 20 overs. They need 140 runs to qualify for the final. Opener Omar Yusuf scored 68 off 46 balls. Sri Lankan bowler Dushan Hemantha took 4 wickets for 21 runs.
-
-🟩
-
-The Sri Lanka Group of Sri Lanka and Pakistani T20 cricket team won the first semi cricket match and scored 135 runs for the loss of 9 wickets in the 20 overs.
-
-Accordingly, Sri Lanka won 140 runs in order to qualify for the final.
-
-The opener Omar Yusuf scored 68 balls with 68 runs off 46 balls with 68 runs.
-
-Aware of a talented bowler on behalf of Sri Lanka, Dushan Hemantha took 4 wickets for 21 runs.
-
-◼️
-
-[Data](articles/a9fd4e34.json)
-
-[Extended Data](ext_articles/a9fd4e34.ext.json)
-
----
-
-### President assures strengthened security protocols across Sri Lanka’s key tourist areas
-
-*2024-10-25 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102922/president-assures-strengthened-security-protocols-across-sri-lankas-key-tourist-areas) · `en`
-
-President Anura Kumara Dissanayake met with the South African High Commissioner, Sandile Edwin Schalk, this morning (25) at the Presidential Secretariat in Colombo.
-
-During the meeting, the Ambassador presented a greeting message from the President of South Africa and reaffirmed South Africa’s commitment to strengthening bilateral relations with Sri Lanka, the President’s Media Division (PMD) said.
-
-He also expressed continued support for applying South Africa’s peace and national reconciliation model in Sri Lanka. The discussion also covered expanding international trade through the Ceylon Chamber of Commerce and enhancing the travel and tourism sector to benefit both nations.
-
-A detailed discussion was held on exchanging South Africa’s technology to address human-elephant conflict management.
-
-South Africa’s interest in collaborating on Sri Lanka’s defence, agriculture, and technology sectors was also highlighted, with a commitment to working closely in these areas.
-
-...
-
-[Data](articles/b746b1fb.json)
-
-[Extended Data](ext_articles/b746b1fb.ext.json)
-
----
-
-### Governor of the Eastern Province - Trincomalee Local Government Secretaries Meeting
-
-*2024-10-25 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197100) · `ta`
-
-Meeting summary: Governor orders secretaries to boost local body income, improve waste collection, and manage vehicles. Issues discussed with solutions proposed.
-
-🟩
-
-The meeting between the Governor of the Eastern Province Professor Jayantalal Ratnasekara and the Secretaries of the Trincomalee District Local Government Councils took place today (25) at the Governor's Office in Trincomalee.
-
-Eastern Province Chief Secretary RMPS. Ratnayake, Secretary of the Eastern Province. LP Madanayake, Eastern Provincial Commissioner of Local Government M Manivannan and Local Government Commissioner of Trincomalee were also present.
-
-The Governor ordered the secretaries of local councils to increase the income of local bodies, to collect and collect waste, and to manage the waste, and to report on local government -owned vehicles.
-
-The issues facing each local council were discussed with the secretaries and the solutions to be taken.
-
-◼️
-
-[Data](articles/6e0a3f90.json)
-
-[Extended Data](ext_articles/6e0a3f90.ext.json)
-
----
-
-### 22 students hospitalized after suddenly falling ill at school
-
-*2024-10-25 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102921/22-students-hospitalized-after-suddenly-falling-ill-at-school) · `en`
-
-A group of female students at a school in Balangoda has been admitted to Base Hospital Balangoda due to experiencing sudden health complications.
-
-It is reported that several girls from the school had cleaned the women’s toilet with a certain chemical solution.
-
-Subsequently, those students, as well as several other children who used the toilet, had fallen ill and required hospitalization.
-
-Accordingly, it is reported that a total of 22 students from C.C. Tamil Maha Vidyalaya in Balangoda were hospitalized following the incident.
-
-◼️
-
-[Data](articles/85095bee.json)
-
-[Extended Data](ext_articles/85095bee.ext.json)
 
 ---

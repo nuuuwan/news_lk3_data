@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 13:39:59**
+As of **2024-10-26 13:59:00**
 
 ## Newspaper Stats
 
-*Scraped **51,486** Articles*
+*Scraped **51,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 4,786
 adaderanalk | 6,095
 tamilmirrorlk | 7,113
 virakesarilk | 8,287
-adaderanasinhalalk | 8,939
+adaderanasinhalalk | 8,940
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,486 (100.0%) of 51,486 articles have been extended.
+51,487 (100.0%) of 51,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### We can't buy our opposition to money - Dilith
+
+*2024-10-26 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202574) · `si`
+
+Dilith Jayaweera criticizes current government's lack of strategy. He advises people not to sell their opposition for money.
+
+🟩
+
+Dilith Entrepreneurship Dilith Jayaweera says that there is no strategy in the present government's program.
+
+He was speaking at a business meeting held in general meeting yesterday (25) under the patronage of the Norrological Entrepreneurship Dilitian Entrepreneurship Dilith Jayaweera.
+
+"I have shown the present President.. That no strategy he proposes. Now he is his historical ... as the most loan in Sri Lanka.
+
+We propose to the people to give us the opposition ... let go of your. Our opposition cannot buy money ".
+
+◼️
+
+[Data](articles/c7317d38.json)
+
+[Extended Data](ext_articles/c7317d38.ext.json)
+
+---
 
 ### Former MP Lohan Ratwatte’s vehicle involved in accident
 
@@ -2289,23 +2313,5 @@ Three suspects have been arrested by the terrorist unit on suspicion. R
 [Data](articles/f92ba068.json)
 
 [Extended Data](ext_articles/f92ba068.ext.json)
-
----
-
-### CSE’s ASPI crosses 12,500 points
-
-*2024-10-25 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102924/cses-aspi-crosses-12500-points) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has crossed the 12,500 points mark today (04), for the first time since 10 May 2024.
-
-Accordingly, the ASPI increase by 44.08 points today to close at 12,517.58.
-
-Meanwhile, the market turnover was recorded at Rs.4.75 billion today.
-
-◼️
-
-[Data](articles/c504485a.json)
-
-[Extended Data](ext_articles/c504485a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 17:41:10**
+As of **2024-10-26 18:00:35**
 
 ## Newspaper Stats
 
-*Scraped **51,514** Articles*
+*Scraped **51,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 4,787
 adaderanalk | 6,100
 tamilmirrorlk | 7,120
 virakesarilk | 8,290
-adaderanasinhalalk | 8,949
+adaderanasinhalalk | 8,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,514 (100.0%) of 51,514 articles have been extended.
+51,515 (100.0%) of 51,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### House-to-house Kanthi Kodikara attacked
+
+*2024-10-26 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202588) · `si`
+
+Kanthi Kodikara attacked during campaign. Wife hospitalized. Police investigation ongoing.
+
+🟩
+
+An incident involved in attacking Mr. Kanthi Kodikara, who was divided into leaflets.
+
+The wife of Mr. Upali Kodikara, who is contesting for this year's parliamentarian, has been attacked in the Pannipitiya area yesterday (25).
+
+She was attacked while traveling from house to house.
+
+Mrs. Kanthi Kodikara has been admitted to the Sri Jayewardenepura Hospital after the attack.
+
+It was reported that the Maharagama Police has been arrested by the Maharagama Police.
+
+◼️
+
+[Data](articles/38f6e0bc.json)
+
+[Extended Data](ext_articles/38f6e0bc.ext.json)
+
+---
 
 ### India is a historical defeat in New Zealand
 
@@ -136,7 +162,7 @@ Due to this, the Ambassador added that flights of Iran, Iraq, Lebanon, Syria and
 
 *2024-10-26 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102943/elpitiya-ps-election-concludes-with-over-50-voter-turnout) · `en`
 
-The Elpitiya Pradeshiya Sabha Election concluded today (26) at 4.00 p.m., with a reported voter turnout of 51% by 3:00 p.m., according to Galle District Returning Officer W.A. Dharmasiri.
+The Elpitiya Pradeshiya Sabha Election concluded today (26) at 4.00 p.m., with a reported voter turnout of 63% at close of polling at 4:00 p.m., according to Galle District Returning Officer W.A. Dharmasiri.
 
 In a statement, Dharmasiri confirmed that the vote-counting process would begin at the respective polling stations at around 4:30 p.m., ensuring a prompt and efficient tallying of the ballots.
 
@@ -2215,35 +2241,5 @@ Sri Lanka's major tourist attractions receive special protection measures due to
 [Data](articles/6aef43ff.json)
 
 [Extended Data](ext_articles/6aef43ff.ext.json)
-
----
-
-### පක්ෂීන් සහ උරග විශේෂ නීතිවිරෝධිව මුහුදු මගින් ප්‍රවාහනය කල 6කට ලක්ෂ 28ක දඩයක්
-
-*2024-10-25 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202562) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka: Marine law violation case involving birds and reptiles. Five Sri Lankan fishermen and one Indian national fined Rs. 18 lakhs each. Later reduced to Rs. 1.62 lakhs for five accused. Navy vessel seized. Animals transferred to National Zoological Gardens. Investigation ongoing.
-
-🟩
-
-පක්‍ෂීන් සහ උරග විශේෂ නීති විරෝධී ලෙස මුහුදු මාර්ගයෙන් ප්‍රවාහනය කල 06 දෙනෙකුට රුපියල් විසිඅට ලක්ෂ අසුදාහක දඩයක් නියම කිරීමට ගාල්ල අතිරේක මහෙස්ත්‍රාත්වරිය නියෝග කර තිබේ.
-
-මෙලෙස දඩ නියම වූයේ මීගමුව සහ කොච්චිකඩේ යන ප්‍රදේශයන් හි පදිංචි ධීවරයින් පස් දෙනෙකු සහ ඉන්දියානු ජාතිකයෙකුට ය.
-
-සැකකාර ධීවරයන් පස්දෙනා සහ ඉන්දියානු ජාතිකයා වරද පිළිගැනීමෙන් පසු එක් අයෙකුට රුපියල් හාර ලක්ෂ අසූ දහස බැගින් හයදෙනාට රුපියල් විසි අට ලක්ෂ අසූ දහසක දඩයක් නියම කිරීමට ගාල්ල අතිරේක මහෙස්ත්‍රාත් ලක්මිණි විදානගමගේ මහත්මිය ඊයේ (24) නියෝග කර ඇත.
-
-මෙම සතුන් ප්‍රවාහනය කළ නාවික හමුදා භාරයේ තිබු ධීවර යාත්‍රාව රාජසන්තක කිරීමට නියෝග කළ මහේස්ත්‍රාත්වරිය දැනට ජාතික සත්වෝද්‍යානය භාරයේ තිබෙන සතුන් සියලුම දෙනාද රාජසන්තක කර දෙහිවල ජාතික සත්වෝද්‍යානයට බාරදෙන ලෙසද නියෝග කළාය.
-
-පක්‍ෂීන් සහ උරග විශේෂ ජාවාරමක් සම්බන්ධයෙන් නාවික හමුදාවට ලද තොරතුරක් මත කල මෙහෙයුමකදි දකුණු මුහුදේ යාත්‍රා කරමින් තිබූ සැකකටයුතු මෙරට බහුදින ධීවර යාත්‍රාව පසුගිය ජූලි මස 07 වැනි දින අත්අඩංගුවට ගෙන තිබුණි.
-
-...
-
-[Data](articles/d13861b5.json)
-
-[Extended Data](ext_articles/d13861b5.ext.json)
 
 ---

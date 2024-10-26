@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 18:19:53**
+As of **2024-10-26 18:32:44**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 8,952
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,516 (100.0%) of 51,518 articles have been extended.
+51,518 (100.0%) of 51,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
 
-### සී.බී. රත්නායක ට විරෝධයක්
+### CB. Protest against Ratnayake
 
 *2024-10-26 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202590) · `si`
 
-පොදුජන පෙරමුණේ කොත්මලේ ආසන රැස්වීමේදී හිටපු අමාත්‍ය සී.බී රත්නායක මහතාට පාක්ෂිකයන්ගෙන් විරෝධයක් එල්ල වී තිබේ.
+CB Ratnayake protests against himself at Commaanne Peramuna Mahara. Meeting chaired by Namal Rajapaksa. Ratnayake opposes own views to party members during speech.
 
-පොදුජන පෙරමුණේ ජාතික සංවිධායක හිටපු පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් මෙම රැස්වීම පැවැත්වුණි.
+🟩
 
-එහිදී හිටපු පාර්ලිමේන්තු මන්ත්‍රී සී.බී. රත්නායක මහතා සභාව ඇමතීමට යාමේදී පාක්ෂිකයන්ගෙන් ඔහුට විරෝධය එල්ල වෙනු දක්නට ලැබිණි.
+Former Minister CB Ratnayake has objected to former Minister CB Ratnayake at the Commaanne Peramuna Mahara.
+
+The meeting was held under the patronage of former UNP MP Namal Rajapaksa.
+
+Former Parliamentarian CB. When Ratnayake was addressing the House, he opposed him to the party members.
 
 ◼️
 
 [Data](articles/5a4d2e77.json)
+
+[Extended Data](ext_articles/5a4d2e77.ext.json)
 
 ---
 
@@ -404,19 +410,25 @@ The general meeting organized by the National People's Power was held at the Att
 
 ---
 
-### රුපියල් කෝටි අසූ නවයක විශ්‍රාම වැටුප් වැඩියෙන් ගෙවලා
+### Pension is more paid to Rs. 9 million
 
 *2024-10-26 15:04:12* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-කෝටි-අසූ-නවයක-විශ්‍රාම-වැටුප්-වැඩියෙන්-ගෙවලා/11-412689) · `si`
 
-විශ්‍රාම වැටුප් දෙපාර්තමේන්තුව විසින්   විශ්‍රාම වැටුප් ගෙවීමේදී ඉකුත් ආසන්න වසර පහ තුළදී රුපියල් මිලියන 885.7 (අසූඅට කෝටි  පනස් හත්  ලක්ෂයක්  ලක්ෂයක්) ක මුදලක් වැඩිපුර ගෙවා ඇතැයි ජාතික විගණන කාර්යාලය එම දෙපාර්තමේන්තුව සම්බන්ධයෙන්  නිකුත් කළ විගණන වාර්තාවකින්  අනාවරණය කරයි.
+National Audit Office report reveals pension payments exceeding Rs. 9 million over five years. Department of Pensions estimates recovery sum of Rs. 1323.12.2013. Audit recommends expedited action for recovery.
 
-මෙම මුදල 2023.12.31 දිනට තවදුරටත් අයකර ගතයුතු මුදලක් ලෙස පවතින බව මේ සම්බන්ධයෙන් විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ ගණන් දීමේ නිලධාරියාද පිළිගෙන ඇත.
+🟩
 
-මෙලෙස වැඩිපුර ගෙවාඇති මුදල කඩිනමින් අයකර ගැනීමට කටයුතු කරන ලෙස විගණන කාර්යාලය විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවට නිර්දේශ ලබාදී තිබේ.
+The National Audit Office reveals from the Audit report on the Department for the payment of the pensions at the end of the five years.
+
+The estimate of the Department of Pensions has also been accepted as a sum of the amount of money required to be recovered as a sum of Rs. 1323.12.2013.
+
+The Audit Office has given recommendations to the Department of Pensions to take action to recover more expeditiously.
 
 ◼️
 
 [Data](articles/c2f86680.json)
+
+[Extended Data](ext_articles/c2f86680.ext.json)
 
 ---
 

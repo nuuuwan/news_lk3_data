@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 17:23:57**
+As of **2024-10-26 17:41:10**
 
 ## Newspaper Stats
 
-*Scraped **51,512** Articles*
+*Scraped **51,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,787
 adaderanalk | 6,100
-tamilmirrorlk | 7,119
+tamilmirrorlk | 7,120
 virakesarilk | 8,290
-adaderanasinhalalk | 8,948
+adaderanasinhalalk | 8,949
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,512 (100.0%) of 51,512 articles have been extended.
+51,514 (100.0%) of 51,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### India is a historical defeat in New Zealand
+
+*2024-10-26 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202586) · `si`
+
+New Zealand wins Test series in India for first time since 2012. Defeats India in second test by 113 runs. Mitchell Santner takes 13 wickets. India fails to reach victory target of 359 runs.
+
+🟩
+
+For the first time in history, New Zealand team recorded a Test tournament win in India.
+
+With the Second Test with the Indian team by 113 runs, they were able to win.
+
+This is especially the first time India defeated a Test series in his country after 2012.
+
+New Zealand scored 259 runs for the first innings of the second Test for the second Test.
+
+With New Zealand scored 255 runs for the second innings, India target 359 runs for the win.
+
+However, only 245 runs in the Indian team were able to retaliate the target.
+
+Mitchell Santnor was able to break 13 wickets in two innings.
+
+◼️
+
+[Data](articles/505ba556.json)
+
+[Extended Data](ext_articles/505ba556.ext.json)
+
+---
+
+### Mcdonald's activities in Sri Lanka?
+
+*2024-10-26 16:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-McDonald-sஇன்-செயற்பாடுகள்-தடைப்படும்/175-346081) · `ta`
+
+McDonald's breaks ties with Sri Lankan partner after legal settlement. Public support acknowledged. Companies urge rejection of rumors about future activities in Sri Lanka. Terms of agreement undisclosed.
+
+🟩
+
+Mcdonald's corporation and its Sri Lankan rights partner, the International Restaurant Systems (Pvt.) Ltd, have broken their trade relations following a mutually agreed legal solution.
+
+The report confirmed that the corporation of the rights was halted and the public has been praised for its support.
+
+Recently, the companies have urged the public to reject rumors or speculation in the media.
+
+And in that statement, not providing details on the terms of the solution. In addition, no matter whether MCDONALD'S will continue new activities in Sri Lanka. (That)
+
+◼️
+
+[Data](articles/d6ea0784.json)
+
+[Extended Data](ext_articles/d6ea0784.ext.json)
+
+---
 
 ### 63% of the voter turnout in Elpitiya
 
@@ -2191,45 +2245,5 @@ Sri Lanka: Marine law violation case involving birds and reptiles. Five Sri Lank
 [Data](articles/d13861b5.json)
 
 [Extended Data](ext_articles/d13861b5.ext.json)
-
----
-
-### A 15 -year -old male elephant dies in the village of MannarArresting
-
-*2024-10-25 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197127) · `ta`
-
-Elephant dies illegally electrocuted Mannar Sri Lanka
-
-🟩
-
-A 15 -year -old male elephant has been found dead on Friday morning (25) in the village of Parakkadan village, which belongs to the Mannar Manthai West Divisional Secretariat.
-
-The people of the area have said that the elephant has recently spread the area in the area of ​​many agricultural lands and agricultural lands.
-
-The elephant died on Thursday night (24), the residents of the area said.
-
-Officials of the Forest Department, who arrived at the scene of the elephant's death, said that the elephant had died in an illegal electric fence.
-
-It is reported that one person has been arrested on suspicion by the Mannar District Wildlife Department officials in connection with the death incident.
-
-◼️
-
-[Data](articles/ae4f53a1.json)
-
-[Extended Data](ext_articles/ae4f53a1.ext.json)
-
----
-
-### The Rise and Fall  of the Medamulana  Rajapaksa Dynasty.
-
-*2024-10-25 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84953) · `en`
-
-Is the “House of Rajapaksa” Falling Down? was the heading of an article written by me for our sister paper the “Daily Mirror” two and a half  years ago. The article was   published on 23 April 2022 when the “Aragalaya”(struggle) protests were going on. The article focused on the  Rajapaksa family and its struggle to  stay afloat  in power despite the rising tide of public resentment and anger.The  following two paragraphs are excerpted from that article.-
-
-...
-
-[Data](articles/b22e338c.json)
-
-[Extended Data](ext_articles/b22e338c.ext.json)
 
 ---

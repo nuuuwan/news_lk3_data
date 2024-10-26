@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 11:59:26**
+As of **2024-10-26 12:13:34**
 
 ## Newspaper Stats
 
-*Scraped **51,473** Articles*
+*Scraped **51,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 4,786
 adaderanalk | 6,093
 tamilmirrorlk | 7,113
 virakesarilk | 8,278
-adaderanasinhalalk | 8,937
+adaderanasinhalalk | 8,938
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,473 (100.0%) of 51,473 articles have been extended.
+51,474 (100.0%) of 51,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### A vehicle claiming that Lohan belongs to Sthan Ratwatte
+
+*2024-10-26 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202572) · `si`
+
+Vehicle crash involving ex-MP Lohan Ratwatte's car. Accident near Wariyapola. Clash between residents and defendants over ownership. Allegations of armed vehicle.
+
+🟩
+
+A deposal vehicle belonging to former MP Lohan Ratwatte has been in an accident yesterday (25).
+
+The accident had occurred in the Dangamunale Junction area on the Padiyaniya road in Wariyapola Police area.
+
+Residents and the Departured Residents and the Defender of the Defendants have clashed and a clash occurred between the two groups.
+
+Residents also allege that the vehicle had several weapons.
+
+◼️
+
+[Data](articles/d938c741.json)
+
+[Extended Data](ext_articles/d938c741.ext.json)
+
+---
 
 ### EU reaffirms assistance to Sri Lanka in expanding market access, employment opportunities
 
@@ -2293,31 +2317,5 @@ Accordingly, it is reported that a total of 22 students from C.C. Tamil Maha Vid
 [Data](articles/85095bee.json)
 
 [Extended Data](ext_articles/85095bee.ext.json)
-
----
-
-### Message for train staff
-
-*2024-10-25 16:00:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-ஊழியர்களுக்கான-செய்தி/175-346050) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Minister Vijitha Herath directs railways to offer free travel passes to employees between home and work. Aims to boost employee morale and efficiency. May impact national economy.
-
-🟩
-
-Minister of Transport, Highways, Ports and Civil Aviation Services Vijitha Herath has issued a directive to the relevant authorities to provide free rail permits to travel between their homes and workplaces to the railway department employees.
-
-The Minister said that this will increase the glory of the train employees and the efficiency is expected to be taken to the higher level.
-
-The Minister said that this would have some impact on the country's economy. Those
-
-◼️
-
-[Data](articles/4da043fd.json)
-
-[Extended Data](ext_articles/4da043fd.ext.json)
 
 ---

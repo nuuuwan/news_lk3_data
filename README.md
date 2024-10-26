@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 14:24:17**
+As of **2024-10-26 14:39:56**
 
 ## Newspaper Stats
 
-*Scraped **51,490** Articles*
+*Scraped **51,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,142
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,786
-adaderanalk | 6,095
-tamilmirrorlk | 7,113
+adaderanalk | 6,097
+tamilmirrorlk | 7,114
 virakesarilk | 8,287
 adaderanasinhalalk | 8,943
 
@@ -26,11 +26,79 @@ adaderanasinhalalk | 8,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,490 (100.0%) of 51,490 articles have been extended.
+51,493 (100.0%) of 51,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### CEB proposes 6% electricity tariff revision for December
+
+*2024-10-26 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102940/ceb-proposes-6-electricity-tariff-revision-for-december) · `en`
+
+The Ceylon Electricity Board (CEB) has submitted its proposal for a possible tariff revision in December to the Public Utilities Commission of Sri Lanka (PUCSL), marking the third quarterly review for the year.
+
+According to the PUCSL, the upcoming electricity tariff adjustment is expected to be a modest increase, anticipated at 6% across all sectors.
+
+PUCSL Director of Corporate Communications Jayanath Herath noted that a reduction ranging from 4% to 11% had initially been considered, but the current proposal suggests a moderate 6% adjustment.
+
+Following this, the proposal will undergo a public consultation phase before a final decision is made. Should the commission require additional modifications, the Electricity Board will receive feedback on Monday for further action, he added.
+
+This marks the third adjustment of electricity tariffs this year. The first revision in March resulted in a 21.9% revision for all segments, followed by a 22.5% reduction in July.
+
+◼️
+
+[Data](articles/99edd957.json)
+
+[Extended Data](ext_articles/99edd957.ext.json)
+
+---
+
+### EU Representatives - President Meeting
+
+*2024-10-26 14:13:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐரோப்பிய-ஒன்றிய-பிரதிநிதிகள்-ஜனாதிபதி-சந்திப்பு/175-346075) · `ta`
+
+EU reps meet SL Pres: Discuss security, tourism, trade, education cooperation.
+
+🟩
+
+Ambassador of the European Union for Sri Lanka Carmen Morneo (H.E.. The EU representatives, led by Carmen Moreno, met with President Anura Kumara Dissanayake at the Presidential Office yesterday (25).
+
+President Anura Kumara Dissanayake has explained to the EU representatives on the current security conditions of Sri Lanka and said in the recent past to increase the safety of tourists and Sri Lankan people.
+
+The President said that security in the major tourist areas has been made of strong arrangements and regulations and emergency services have been implemented.
+
+The European Union is the most important partner in Sri Lanka and is the second massive export and tourist market in Sri Lanka and the third massive import market.
+
+EU representatives have now confirmed the president's work to expand its market to Sri Lanka, increase employment opportunities in the EU and support the development of tourism.
+
+...
+
+[Data](articles/2efc8223.json)
+
+[Extended Data](ext_articles/2efc8223.ext.json)
+
+---
+
+### “Money cannot buy our opposition” – Dilith Jayaweera
+
+*2024-10-26 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102939/money-cannot-buy-our-opposition-dilith-jayaweera) · `en`
+
+Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District parliamentary candidate, entrepreneur Dilith Jayaweera says that there is no strategy in the program presented by the current government.
+
+He made these remarks while addressing a business community meeting held last afternoon (25) in Ganemulla.
+
+“I pointed out to the current President that there is no strategy for any of the programs he proposes. Now he is making history as the person who borrowed the most in the shortest period of time in Sri Lanka.”
+
+“We are suggesting to the people to give us the opposition. Let Anura Kumara go on like that. Money cannot buy our opposition,” he added.
+
+◼️
+
+[Data](articles/90e758a7.json)
+
+[Extended Data](ext_articles/90e758a7.ext.json)
+
+---
 
 ### Harred by the rumors on conflicts
 
@@ -2231,91 +2299,5 @@ The finals of the tournament was held at the VII of Oman in Oman.
 [Data](articles/a52a2c4c.json)
 
 [Extended Data](ext_articles/a52a2c4c.ext.json)
-
----
-
-### First Look release of 'Messenger' starring actor Sri Ram Karthik
-
-*2024-10-25 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197112) · `ta`
-
-Sri Ram Karthik stars in Messenger, Tamil debut film. Directed by Ramesh, featuring Manisha Jashnani, Livingston, others. First look released, showcasing phone screen appearance.
-
-🟩
-
-The first look of 'Messenzer' has been released in a different role as the hero of the famous actor Sri Ram Karthik, making his debut in Tamil fans with the film 'Kanni Madam'.
-
-Directed by debutant director Ramesh, Sri Ram Karthik, Manisha Jashnani, Livingston, Jeeva Ravi, Priyadarshini Rajkumar, Prashant, Cool Suresh.
-
-The film, which is the creation of the pros and cons of the information technology, is the producer PV on behalf of PVK Film Factory. V.. K. Vijayan has produced.
-
-The shooting of the film is completed and the post -shooting technical work is currently underway.
-
-In this case, the first look of the film has been released. It has attracted fans as stars are designed to appear on the light screen emitted from a cell phone.
-
-◼️
-
-[Data](articles/ea0f9cd2.json)
-
-[Extended Data](ext_articles/ea0f9cd2.ext.json)
-
----
-
-### Harris Jayaraj has released a special video of actor Arjun Dasin's 'Onsmore'
-
-*2024-10-25 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/197110) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Harris Jayaraj releases video Arjun Das song 'Miss Outti' from movie 'Onsmore'. Directed by Vignesh Srikanth, produced Million Studios. Arvind Viswanathan records music.
-
-🟩
-
-The song and the song 'Miss Outti ...', which is featured in the movie 'Onsmore' starring actor Arjun Das, has been released.
-
-Composer Harris Jayaraj posted this on his web page and congratulated the film crew.
-
-Arjun Das and Aditi Shankar are the first roles in the film 'Onsmore' directed by director Vignesh Srikanth.
-
-Hesham Abdul Wahab has composed the film, which is being recorded by Arvind Viswanathan. The film was produced by producer Yuvraj Ganesan on behalf of Million Studios.
-
-As the work of the film reaches the final stage, the song 'Miss Otti ..' has been released exclusively.
-
-In this song, Arjun Das, the hero of the story, appeared as a singer on the stage and scenes of his mind to the lover.
-
-◼️
-
-[Data](articles/9aa3a3a5.json)
-
-[Extended Data](ext_articles/9aa3a3a5.ext.json)
-
----
-
-### பல்வேறு திருட்டு சம்பவங்களுடன் தொடர்புடைய அறுவர் கைது
-
-*2024-10-25 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197108) · `ta`
-
-Six suspects arrested for various thefts. Three caught with drugs. Court orders police investigation. Stolen motorcycles found in several areas.
-
-🟩
-
-பல்வேறு திருட்டு சம்பவங்களுடன் தொடர்புடைய ஆறு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக யக்கலை பொலிஸார் தெரிவித்தனர்.
-
-யக்கலை பொலிஸ் பிரிவுக்குட்பட்ட பிரதேசத்தில் கடந்த 20 மற்றும் 21 ஆம் திகதிகளில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் பல்வேறு போதைப்பொருட்களுடன் மூன்று சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-இதனையடுத்து, சந்தேக நபர்கள் மூவரும் கம்பஹா நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட பின்னர் சந்தேக நபர்களை பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை நடத்துமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
-
-Investigations carried out by the suspects have found that 06 motorcycles stolen in the areas of Wellampitiya, Minuwangoda, Dematagoda, Grandpass and Giripathkoda police divisions.
-
-Three more suspects have been arrested by the Yakkalai police in Nungamuwa and Pallewela areas on the 23rd of this month.
-
-கைது செய்யப்பட்டவர்கள் குபல்ஒலுவ மற்றும் பல்லேவெல பகுதியைச் சேர்ந்த 21 , 23 மற்றும் 37 வயதுடையவர்கள் ஆவர்.
-
-◼️
-
-[Data](articles/8f6ad681.json)
-
-[Extended Data](ext_articles/8f6ad681.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 19:24:19**
+As of **2024-10-26 19:39:31**
 
 ## Newspaper Stats
 
-*Scraped **51,523** Articles*
+*Scraped **51,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 4,789
 adaderanalk | 6,102
 tamilmirrorlk | 7,120
 virakesarilk | 8,290
-adaderanasinhalalk | 8,954
+adaderanasinhalalk | 8,955
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,523 (100.0%) of 51,523 articles have been extended.
+51,524 (100.0%) of 51,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### Ministry of External Affairs reveals about war in the Middle East
+
+*2024-10-26 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202593) · `si`
+
+Sri Lanka's Ministry of External Affairs reports no damage to citizens in Middle East conflict. Embassies assist Sri Lankans, offer return to Sri Lanka if needed.
+
+🟩
+
+The Ministry of External Affairs says that it has paid more attention to the safety of Sri Lankans who have been affected by the conflict in the Middle East.
+
+The ministry said the Ministry is looking into Sri Lankans who are in the Middle East through the embassies.
+
+However, the Ministry of External Affairs said that no Sri Lankan has been damaged due to attacks.
+
+It is also said that the embassies have been made to arrange to facilitate the necessary facilities to people who wish to come to Sri Lanka.
+
+However, the External Affairs Ministry of External Affairs further stated that no Sri Lankans have to come to Sri Lanka due to the war.
+
+◼️
+
+[Data](articles/02a46a23.json)
+
+[Extended Data](ext_articles/02a46a23.ext.json)
+
+---
 
 ### A warning about the next 36 hours
 
@@ -2219,27 +2245,5 @@ Foreign media reports that journalists involved in news gathering on Israel's at
 [Data](articles/04033361.json)
 
 [Extended Data](ext_articles/04033361.ext.json)
-
----
-
-### Will increase the speed of the wind
-
-*2024-10-25 23:23:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றின்-வேகம்-அதிகரிக்கும்/175-346061) · `ta`
-
-Wind speeds expected to rise in coastal areas. Department of Meteorology predicts strong gusts up to 60 km/h in Bay of Bengal. Seas advised to remain calm.
-
-🟩
-
-The Department of Meteorology has predicted that wind speeds are likely to increase in the seas around the country.
-
-Strong winds are likely to blow at speeds of 60 km / h in the Bay of Bengal.
-
-Therefore, the Department of Meteorology has instructed the seas not to re -notice. (a)
-
-◼️
-
-[Data](articles/27c79de0.json)
-
-[Extended Data](ext_articles/27c79de0.ext.json)
 
 ---

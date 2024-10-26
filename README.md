@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-26 11:10:59**
+As of **2024-10-26 11:23:48**
 
 ## Newspaper Stats
 
-*Scraped **51,467** Articles*
+*Scraped **51,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,786
 adaderanalk | 6,092
-tamilmirrorlk | 7,110
+tamilmirrorlk | 7,112
 virakesarilk | 8,278
 adaderanasinhalalk | 8,936
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 8,936
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,467 (100.0%) of 51,467 articles have been extended.
+51,469 (100.0%) of 51,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-26 (Saturday)
+
+### இலங்கையில் முதன்முறையாக தேர்தலில் போட்டியிடும் திருநங்கை
+
+*2024-10-26 10:50:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-முதன்முறையாக-தேர்தலில்-போட்டியிடும்-திருநங்கை/175-346073) · `ta`
+
+Sri Lanka Socialist Party candidate Sanu Nimasha becomes first trans woman to contest elections in Sri Lanka history. She expresses gratitude to party for the opportunity and acknowledges her historic achievement.
+
+🟩
+
+இலங்கை சோசலிச கட்சியின் மகளிர் விவகார செயலாளர் சானு நிமேஷா, இலங்கை தேர்தலில் போட்டியிடவுள்ள முதல் திருநங்கை என்ற வரலாற்றை படைத்துள்ளார்.
+
+“I thank the Sri Lanka Socialist Party for giving me the opportunity to contest the general election. முதன்முறையாக தேர்தலில் போட்டியிட திருநங்கை ஒருவரை நிறுத்தியதன் மூலம் சரித்திரம் படைத்தேன்” என, நிமேஷா ஊடகங்களுக்கு தெரிவித்தார். (That)
+
+◼️
+
+[Data](articles/6fefe5bf.json)
+
+[Extended Data](ext_articles/6fefe5bf.ext.json)
+
+---
+
+### Russia, action to search for Israelis
+
+*2024-10-26 10:44:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரஷ்யா-இஸ்ரேலியர்களை-தேடுவதற்கு-நடவடிக்கை/150-346072) · `ta`
+
+Russia-Israeli tourists search: Sri Lanka immigration checks southern coast November-March. Visa extensions common after 30-day limit. Officials expect increased violations during peak season.
+
+🟩
+
+Steps have been taken to search for tourists from Russia and Israel.
+
+According to reports, the Department of Immigration and Emigration will visit the southern coastal area in early November.
+
+The tourist season for the southern coastal area of ​​Sri Lanka will begin in November and last until March and April. Foreign tourists from various countries in the West and East will visit the country's famous beaches of the island.
+
+Commenting on this, an official of the Department of Immigration and Emigration said, “They usually make special visits from November to April and May to September, respectively.
+
+“Russian tourists have been visiting the south for Christmas holidays. Russia has been revealed in six countries without a visa in Sri Lanka.All tourists receive a 30-day tourist visa or they apply for an online visa or electronic travel authorization (ETA).
+
+...
+
+[Data](articles/2f5a05ad.json)
+
+[Extended Data](ext_articles/2f5a05ad.ext.json)
+
+---
 
 ### Sri Lanka to contest for honorurs win
 
@@ -2293,47 +2339,5 @@ The security of the Batticaloa court complex has been strengthened and two polic
 [Data](articles/a4a8bda0.json)
 
 [Extended Data](ext_articles/a4a8bda0.ext.json)
-
----
-
-### Potential Consequences Of Targeting Tourists
-
-*2024-10-25 15:50:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/potential-consequences-of-targeting-tourists/) · `en`
-
-A group of 22 Israeli nationals departed from Bandaranaike International Airport (BIA) in Katunayake on Wednesday, October 23, due to heightened security warnings about potential terrorist threats in the Arugam Bay area. This evacuation follows increased vigilance across Sri Lanka, prompted by travel advisories from multiple embassies, including those of the United States, United Kingdom, Australia, Canada, New Zealand, and Israel. These warnings specifically advised caution in regions like Arugam Bay, which has recently attracted a significant influx of Israeli tourists due to its reputation as a premier surfing destination.
-
-The targeting of tourists, including those of Jewish descent, in Sri Lanka—or anywhere else—must be unequivocally condemned. Such acts jeopardize innocent lives, tarnish a nation’s international reputation, and undermine its social and economic stability.
-
-...
-
-[Data](articles/95712088.json)
-
-[Extended Data](ext_articles/95712088.ext.json)
-
----
-
-### ඥානසාර හිමිගේ පෙත්සම විභාගයට දින නියම කෙරේ
-
-*2024-10-25 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202549) · `si`
-
-Gnanasara Thera's petition hearing scheduled April 3, 2023. He seeks release after serving four-year sentence. Court sets date for appeal review.
-
-🟩
-
-බොදු බල සේනා සංවිධානයේ මහලේකම් පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමි ඉදිරිපත් කර ඇති අභියාචනා පෙත්සමක් විභාගයට ගැනීමට අභියාචනාධිකරණය දින නියම කර තිබේ.
-
-තමන් වහන්සේට නියම වී ඇති  සිව් වසරක සිර දඬුවමින් නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමි එම පෙත්සම ඉදිරිපත් කර තිබේ.
-
-When the petition was summoned this petition today (25), the lawyer appearing on behalf of Gnanasara Thera asked the court to take a date to hear the appearance of this appeal.
-
-ඒ අනුව අදාළ අභියාචනය ලබන වසරේ අප්‍රේල් මස 03 වනදා විභාගයට ගැනීමට අධිකරණය නියෝග කළේය.
-
-In 2016, he was sentenced to four years in prison by Gnanasara Thera.
-
-◼️
-
-[Data](articles/43b4cb17.json)
-
-[Extended Data](ext_articles/43b4cb17.ext.json)
 
 ---

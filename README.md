@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 10:12:34**
+As of **2024-10-27 10:24:14**
 
 ## Newspaper Stats
 
-*Scraped **51,578** Articles*
+*Scraped **51,579** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 412
 colombotelegraphcom | 519
-bbccomsinhala | 523
+bbccomsinhala | 524
 islandlk | 3,068
 economynextcom | 3,143
 dailyftlk | 3,521
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,970
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,578 (100.0%) of 51,578 articles have been extended.
+51,579 (100.0%) of 51,579 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -391,6 +391,38 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/5e6d9853.json)
 
 [Extended Data](ext_articles/5e6d9853.ext.json)
+
+---
+
+### Prostia gland cancer: 'It is a life-threatening "
+
+*2024-10-27 03:58:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5yx3jpype8o) · `si`
+
+Here's a summary of the key points about prostate gland cancer in 200 characters:
+
+
+
+Prostate gland cancer is a life-threatening condition affecting men worldwide. It's the second leading cause of death globally according to WHO. In Sri Lanka, cases are increasing annually. Early detection is crucial as symptoms often appear late. Risk factors include age, obesity, family history, and certain chemicals. Diagnosis involves physical exams, blood tests, and imaging. Treatment options include hormones, radiation, and surgery, but may have side effects. Prevention through healthy lifestyle choices is important. Regular check-ups after age 40 are recommended for early detection and treatment.
+
+🟩
+
+Prostia gland cancer: 'It is a life-threatening "
+
+The World Health Organization says that the highest number of deaths globally has the second place cancer.
+
+In Sri Lanka, it is significant that the number of cancer patients is significantly increasing annually in Sri Lanka. According to the World Health Organization data, 33,243 new cancer patients have been reported in 2022, and 19,145 deaths were reported in that year.
+
+Cancer report of prostate between the males of Sri Lanka is gradually increasing. The World Health Organization (WHO) reports that 1,019 cancer cancer cancer cancer have been reported in Sri Lanka alone in 2022.
+
+The prostate gland is a health problem that affects men around the world. Senior Medical Officer of the Sri Jayewardenepura General Hospital is second in the second place between men in the world.
+
+She said the prostate cancer would not show any symptoms in the early years.
+
+...
+
+[Data](articles/2616b3ab.json)
+
+[Extended Data](ext_articles/2616b3ab.ext.json)
 
 ---
 
@@ -2447,27 +2479,5 @@ Commenting on this, an official of the Department of Immigration and Emigration 
 [Data](articles/2f5a05ad.json)
 
 [Extended Data](ext_articles/2f5a05ad.ext.json)
-
----
-
-### மஹரகமையில் கைவிடப்பட்ட நிலையில் காரொன்று மீட்பு !
-
-*2024-10-26 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197143) · `ta`
-
-Car seized in Maharagama: Abandoned with HR stickers and liquor bottles nearby.
-
-🟩
-
-Maharagama police said that a car has been seized after being abandoned in front of a garment stall on Old Road, Maharagama.
-
-Police said the sticker of a human rights organization was pasted in the car.
-
-In addition, police said that several empty bottles of liquor were found near the car.
-
-◼️
-
-[Data](articles/a4eacc59.json)
-
-[Extended Data](ext_articles/a4eacc59.ext.json)
 
 ---

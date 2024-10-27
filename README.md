@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 02:39:30**
+As of **2024-10-28 02:57:48**
 
 ## Newspaper Stats
 
-*Scraped **51,710** Articles*
+*Scraped **51,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 523
 bbccomsinhala | 524
 islandlk | 3,068
 economynextcom | 3,146
-dailyftlk | 3,527
+dailyftlk | 3,531
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
@@ -26,11 +26,75 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,710 (100.0%) of 51,710 articles have been extended.
+51,711 (100.0%) of 51,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Ceylon Biscuits retains MTI for international strategy alignment
+
+*2024-10-28 02:53:03* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Biscuits-retains-MTI-for-international-strategy-alignment/34-768494) · `en`
+
+Sri Lanka’s largest consumer products group with a reach of over 65 countries
+
+CBL Group Managing Director Shea Wickramasingha (left) and MTI Consulting CEO Hilmy Cader
+
+The CBL Group, Sri Lanka’s largest consumer products group with an international reach to over 65 countries, has completed an international strategy alignment exercise with MTI Consulting.
+
+Ceylon Biscuits, home to the Munchee brand, has led the biscuits category for 20 years through brand strategies closely linked with consumer community needs.
+
+...
+
+[Data](articles/3f21f9e4.json)
+
+---
+
+### Coalition for Inclusive Impact launches cross-party dialogue series
+
+*2024-10-28 02:48:00* · [`dailyftlk`](https://www.ft.lk/news/Coalition-for-Inclusive-Impact-launches-cross-party-dialogue-series/56-768492) · `en`
+
+The “Our MP – Our Voice” dialogue series, organised by the Coalition for Inclusive Impact (CII) , got off to a successful beginning in Matara on 17 October and Kurunegala on 19 October.
+
+The platform, organised in a town hall format, seeks to connect local community and youth leadership with candidates across political parties vying to represent them. These forums are held under the theme of “Bridging local priorities with national policies”.
+
+Held at Dutchman’s Street in Matara Fort, participants at the forum quizzed the candidates who attended on their stances on issues including education reform and local economic development priorities. Three candidates from the Matara electoral district attended the forum, namely, Chameera Yapa Abeywardene (NDF), Subhashini Bulegoda (SLPP), and Rehan Jayawickreme (SJB). Invitations were also extended to candidates from other parties.
+
+...
+
+[Data](articles/3f2be519.json)
+
+---
+
+### MSF Scientific Days – Asia 2024: Advancing humanitarian medical innovation and research across Asia
+
+*2024-10-28 02:44:11* · [`dailyftlk`](https://www.ft.lk/news/MSF-Scientific-Days-Asia-2024-Advancing-humanitarian-medical-innovation-and-research-across-Asia/56-768491) · `en`
+
+Atal Bihari Vajpayee Institute of Medical Sciences and Dr. Ram Manohar Lohia Hospital Director and Medical Superintendent Dr. Ajay Shukla
+
+Medecins Sans Frontieres (MSF)/Doctors Without Borders Scientific Days – Asia 2024 held at the India Habitat Centre on 25 October brought together over 200 researchers, academics, and patient representatives dedicated to advancing humanitarian medical innovation and research.
+
+The conference held in collaboration with Atal Bihari Vajpayee Institute of Medical Sciences and Dr. Ram Manohar Lohia (RML) Hospital featured a series of compelling presentations and discussions that highlighted the need for new solutions to health challenges in conflict-affected and resource-limited settings.
+
+...
+
+[Data](articles/75fea2ac.json)
+
+---
+
+### Pakistan High Commission in Colombo commemorates Kashmir Black Day
+
+*2024-10-28 02:35:41* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-High-Commission-in-Colombo-commemorates-Kashmir-Black-Day/56-768490) · `en`
+
+The High Commission of the Islamic Republic of Pakistan in Colombo organised a seminar/photo exhibition to mark the ‘Kashmir Black Day’ on 27 October. The event was attended by people from different walks of life, including the Pakistani community in Sri Lanka, journalists, writers, and friends of Kashmir. Messages from the President, Prime Minister, and Foreign Minister of the Islamic Republic of Pakistan were also read out for the audience.
+
+...
+
+[Data](articles/2f5dfb00.json)
+
+[Extended Data](ext_articles/2f5dfb00.ext.json)
+
+---
 
 ### ’எல்பிட்டியவில் சேதி சொல்லப்பட்டுள்ளது’
 
@@ -2313,91 +2377,5 @@ He was arrested during a raid carried out by a group of officials of the Colombo
 [Data](articles/323ae02a.json)
 
 [Extended Data](ext_articles/323ae02a.ext.json)
-
----
-
-### The country needs an enringeful politics - Dilith
-
-*2024-10-27 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202612) · `si`
-
-Sri Lanka needs encouraging politics: Dilith Jayaweera calls for cultural sensitivity in elections. He requests extending voting hours from one day to two days. Another leader emphasizes leading both opposition and government.
-
-🟩
-
-Dilith Entrepreneur Entrepreneurship Dilith Jayaweera says he will request the President to make the President to make the culture and rituals of Sri Lanka.
-
-He was speaking at a public meeting of the universal power in Biyagama.
-
-"This year's election is used on the 14th. Poya to 15th. So we are very respectful to our President to be sensitive to our culture. Be sensitive to our title, be sensitive to our rituals. Already the constitution is the election is one day. This is the opportunity to invite the vote without the correction of the voting for two days and for two days. "
-
-Meanwhile, another public meeting was held at the Pepalwela area under the presence of the Leader of the Norgen power.
-
-...
-
-[Data](articles/4572e676.json)
-
-[Extended Data](ext_articles/4572e676.ext.json)
-
----
-
-### 12 Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-10-27 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102955/12-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-Sri Lanka Navy has seized an Indian fishing boat and apprehended 12 Indian fishermen while they were poaching in Sri Lankan waters, during a special operation conducted off Point Pedro, Jaffna today (27).
-
-The North Central Naval Command had spotted a cluster of Indian fishing boats while they were poaching in Sri Lankan waters off Point Pedro.
-
-In response, the Northern Naval Command had deployed its Fast Attack Craft to send away a cluster of Indian fishing boats.
-
-The operation has resulted in the seizure of the Indian boat and the apprehension of 12 Indian fishermen who continued to remain in Sri Lankan waters.
-
-The seized boat together with Indian fishermen were brought to the Kankesanthurai Harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings, the navy said.
-
-...
-
-[Data](articles/bac08a33.json)
-
-[Extended Data](ext_articles/bac08a33.ext.json)
-
----
-
-### Two Russians arrested for staying without valid visas
-
-*2024-10-27 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102954/two-russians-arrested-for-staying-without-valid-visas) · `en`
-
-Kandy Tourist Police Unit has arrested a Russian couple who were residing in the country without valid visas in violation of immigration and emigration regulations.
-
-The couple, aged 39 and 32, was taken into custody in the Hantana area of the Kandy Police Division last evening (27).
-
-The arrested foreign couple has been handed over to the Kandy Police.
-
-◼️
-
-[Data](articles/e166b32b.json)
-
-[Extended Data](ext_articles/e166b32b.ext.json)
-
----
-
-### Shooting on lorry: driver arrested
-
-*2024-10-27 12:13:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறி-மீது-துப்பாக்கிச்சூடு-சாரதி-கைது/175-346106) · `ta`
-
-Driver arrested after police shoot tyre of speeding lorry during traffic raid in Sri Lanka.
-
-🟩
-
-Soorwewa police have opened fire on a lorry that failed to stop during a traffic raid in Meegahajadura.
-
-Police said the lorry was traveling from Lunugamveveh to Suryawewa, without respecting the signals of the police, and the police said that they were reckless.. Accordingly, the vehicle stopped after the firearm on a tire of the vehicle.
-
-According to the police, the driver has been arrested and is to be produced before the Hambantota Magistrate's Court.
-
-◼️
-
-[Data](articles/72d36187.json)
-
-[Extended Data](ext_articles/72d36187.ext.json)
 
 ---

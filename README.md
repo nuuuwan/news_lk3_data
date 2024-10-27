@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 16:23:56**
+As of **2024-10-27 16:39:42**
 
 ## Newspaper Stats
 
-*Scraped **51,642** Articles*
+*Scraped **51,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 4,799
 adaderanalk | 6,115
 tamilmirrorlk | 7,144
 virakesarilk | 8,316
-adaderanasinhalalk | 8,980
+adaderanasinhalalk | 8,981
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,642 (100.0%) of 51,642 articles have been extended.
+51,643 (100.0%) of 51,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Ranil compared between President and former President
+
+*2024-10-27 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202619) · `si`
+
+Former President Ranil Wickremesinghe criticizes current President Anura Kumara Dissanayake's leadership, questioning his ability to govern effectively.
+
+🟩
+
+Former President Ranil Wickremesinghe says that the majority of President Anura Kumara Dissanayake is a majority of President Anura Kumara Dissanayake.
+
+He was speaking at a meeting held at the New Democratic Front in Negombo today (27).
+
+"If you hear the list of your government, I do not know if his government can go for three months.  පලපුරුදු අය ඉන්න ඕනේ රට වෙනුවෙන්. We say we put our experienced. Give the majority to Parliament to take the country to Parliament. "Only if he can go for three years".
+
+"If I tell you to stay at home. That means I lost, I accept it. I came to the presidential election and voted for. The majority did not vote for me.  ඉතින් මම පැරදිලා. But the majority did not give him.  51%ක් හම්බුනේ නෑ. මොකක්ද එතුමාගෙයි මගෙයි වෙනස. Former president I have no majority. He is the vast loss of the majority. He has no. I don't have. That's all. What's special. We're both together. "
+
+◼️
+
+[Data](articles/ba757556.json)
+
+[Extended Data](ext_articles/ba757556.ext.json)
+
+---
 
 ### Two swords in an envelope
 
@@ -2357,39 +2381,5 @@ This is the 11th occasion of Sri Lanka for a final of the Asian Netball Champion
 [Data](articles/8360c008.json)
 
 [Extended Data](ext_articles/8360c008.ext.json)
-
----
-
-### Expired foods, drugs and vitamin sold
-
-*2024-10-26 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202594) · `si`
-
-Consumer Affairs Authority officials uncovered a racket selling expired Chinese food, drugs, and vitamins. They raided warehouses, seizing large stocks of expired products. The agency warns against such illegal activities in the future.
-
-🟩
-
-The Consumer Affairs Authority officials were able to recover a racket that was changing and re-selling a day-selling racket after China imported from China.
-
-Chinese food, drugs and vitamins are sold in a publicatechable, pharmaceuticals, and vitamins.
-
-As well as Chinese, as well as Chinese, will visit Chinese food.
-
-In such a background, the labels are changed and re-selling the labels here.
-
-Accordingly, the raids on the Customer Service Affairs and Special Investigation Unit went to the scene.
-
-Accordingly, a large stock of expired foods found at the location.
-
-The pharmaceuticals and vitamins were also recovered from previously in the shop.
-
-The Consumer Affairs Authority officials were sealed to the warehouse of the three storied.
-
-The Ada Derana hawk was alert to "show" such illegal acts in the future.
-
-◼️
-
-[Data](articles/8f680c27.json)
-
-[Extended Data](ext_articles/8f680c27.ext.json)
 
 ---

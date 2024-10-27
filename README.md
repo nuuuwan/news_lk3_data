@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 14:12:34**
+As of **2024-10-27 14:39:49**
 
 ## Newspaper Stats
 
-*Scraped **51,621** Articles*
+*Scraped **51,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,798
-adaderanalk | 6,113
+adaderanalk | 6,114
 tamilmirrorlk | 7,141
 virakesarilk | 8,307
-adaderanasinhalalk | 8,978
+adaderanasinhalalk | 8,979
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,621 (100.0%) of 51,621 articles have been extended.
+51,623 (100.0%) of 51,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Tensions erupt following Ranjan Ramanayake’s political conference over compensation
+
+*2024-10-27 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102957/tensions-erupt-following-ranjan-ramanayakes-political-conference-over-compensation) · `en`
+
+A tense situation unfolded outside the Sugathadasa Indoor Stadium following the conclusion of a conference of the United Democratic Voice, the new alliance led by prominent figure Ranjan Ramanayake.
+
+The unrest reportedly stemmed from allegations made by nearly 200 young attendees, claiming they had not been compensated for their participation as promised by the event organizers.
+
+When inquired by Ada Derana, police stated that the officers intervened to manage the situation, eventually dispersing the crowd and arranging for the young attendees to return to their accommodations.
+
+◼️
+
+[Data](articles/897e71d1.json)
+
+[Extended Data](ext_articles/897e71d1.ext.json)
+
+---
+
+### African Sudar Farmers who came to Sri Lanka
+
+*2024-10-27 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202617) · `si`
+
+African swine fever detected in Gampaha, Sri Lanka. First case reported. Pigs found dead. Investigation underway. Veterinary officers deployed. Gazette notification issued. Transportation restrictions implemented.
+
+🟩
+
+The first time in the Gampaha District in the Western Province, the Gampaha District has been proved to be African swine flu paddy.
+
+The Department of Animal Production and Health issues a statement saying that several samples have been confirmed in the examination of new samples obtained from the field.
+
+There were sudden deaths of several areas in the Gampaha district were killed and the Department of Animal Production and Health conducted a special investigation.
+
+According to the inspection, the pigs have recently revealed African swine flu flu.
+
+This is the first time that the disease has been reported from Sri Lanka and has been authorized to authorize veterinary officers in the respective areas to prevent the spread of this country.
+
+Accordingly, the approval of the Regional Health Authorities has been compulsory if the transportation between pork and divisional secretariats are carried out.
+
+...
+
+[Data](articles/87cb4903.json)
+
+[Extended Data](ext_articles/87cb4903.ext.json)
+
+---
 
 ### Man arrested for murder woman
 
@@ -2499,51 +2545,5 @@ And in that statement, not providing details on the terms of the solution. In ad
 [Data](articles/d6ea0784.json)
 
 [Extended Data](ext_articles/d6ea0784.ext.json)
-
----
-
-### 63% of the voter turnout in Elpitiya
-
-*2024-10-26 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202585) · `si`
-
-Elpitiya Pradeshiya Sabha elections: 63% voter turnout reported by Galle District Returning Officer WA. Dharmasiri. Voting concluded at 4 pm on the 7th.
-
-🟩
-
-A total of 63 percent of the votes have been voted in the Elpitiya Pradeshiya Sabha elections.
-
-Galle District Returning Officer WA. Mr. Dharmasiri said this.
-
-The vote on the 7th this morning was completed at 4 pm and has already taken steps to commence the voter turnout at the election.
-
-◼️
-
-[Data](articles/90fa01a7.json)
-
-[Extended Data](ext_articles/90fa01a7.ext.json)
-
----
-
-### The attention of Sri Lankans in Israel ...
-
-*2024-10-26 16:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-உள்ள-இலங்கையர்களின்-கவனத்துக்கு/175-346080) · `ta`
-
-Sri Lankan Ambassador advises caution due to Israeli airstrikes in Iran. Recommends reducing travel and being vigilant at work. Situation monitored closely.
-
-🟩
-
-Sri Lankan Ambassador to Israel Nimal Bandara has advised Sri Lankans living in Israel to reduce their journey and are very careful in the workplace.
-
-The Ambassador said that Israeli Air Force aircraft are launching missile strikes in many areas selected in Iran, causing tense in the Middle East.
-
-The Ambassador to Israel has announced that the situation will be observed in the future, as it has been observed that the situation will be created.
-
-Due to this, the Ambassador added that flights of Iran, Iraq, Lebanon, Syria and Israel were not on the airplane, the Ambassador added.. (That)
-
-◼️
-
-[Data](articles/72921776.json)
-
-[Extended Data](ext_articles/72921776.ext.json)
 
 ---

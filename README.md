@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 03:24:02**
+As of **2024-10-28 03:39:36**
 
 ## Newspaper Stats
 
-*Scraped **51,716** Articles*
+*Scraped **51,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,533
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
-tamilmirrorlk | 7,151
+tamilmirrorlk | 7,152
 virakesarilk | 8,345
 adaderanasinhalalk | 8,991
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,716 (100.0%) of 51,716 articles have been extended.
+51,717 (100.0%) of 51,717 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -137,6 +137,32 @@ The High Commission of the Islamic Republic of Pakistan in Colombo organised a s
 [Data](articles/2f5dfb00.json)
 
 [Extended Data](ext_articles/2f5dfb00.ext.json)
+
+---
+
+### We can reduce the number of lines
+
+*2024-10-28 01:54:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரிகளை-எம்மால்-குறைக்க-முடியும்/175-346153) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sajith Premadasa criticizes current president for missed opportunities to strengthen diplomatic relations and reduce taxes. Promises to renegotiate IMF terms if elected. Emphasizes need for economic growth and protection from security threats.
+
+🟩
+
+புதிய இராஜதந்திர உறவுகளை பேண முடியுமான அவருக்கு இருந்த இரண்டு சந்தர்ப்பங்களை தற்போதைய ஜனாதிபதி தவறிவிட்டார் என்று தெரிவித்துள்ள  ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச, சர்வதேச நாணய நிதியத்துடன் பேச்சுவார்த்தை நடத்தி, ஜனாதிபதி அனுரகுமார திசாநாயக்கவினால், வரிகளை குறைக்க முடியாவிடின், எங்களால் வரிகளை குறைக்க முடியும் என்றார்.
+
+The United People's Power will be a firm victory in the upcoming general election.The leader of the Janatha Vimukthi Peramuna (JVP), Anuragumara Dissanayake, said that if he comes to power, he will change the tax format and reduce the value of the value tax, direct and indirect taxes.
+
+என்றாலும் சர்வதேச நாணய நிதியத்துடன் ஜனாதிபதி இரண்டு சுற்றுப் பேச்சுவார்த்தைகளை நடத்திய போதிலும்,  அந்த வரிகளை குறைப்பதில் உடன்பாடு காணப்படவில்லை என்று சர்வதேச நாணய நிதியம் தெரிவித்துள்ளது. Sajith Premadasa said that even though the tax was reduced during the election, he could not do it after coming to power.
+
+...
+
+[Data](articles/e72b9276.json)
+
+[Extended Data](ext_articles/e72b9276.ext.json)
 
 ---
 
@@ -2343,35 +2369,5 @@ Foreign media reports that migrants do not belong to the people who died in the 
 [Data](articles/f8cba443.json)
 
 [Extended Data](ext_articles/f8cba443.ext.json)
-
----
-
-### The President will not accomplish anything: Jeevan Show
-
-*2024-10-27 12:34:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-எதையும்-நிறைவேற்ற-மாட்டார்-ஜீவன்-காட்டம்/175-346109) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake fails to deliver promises, says Jeevan Thondaman. Rising costs affect citizens, especially plantation workers. Tamil MPs crucial in 2024 elections. Current govt neglects price policies implemented under Ranil Wickremesinghe.
-
-🟩
-
-The current President Anura Kumara Dissanayake has failed to fulfill anything that has promised the nation before the presidential election, said Mr. Jivan Thondaman, the general secretary of the Ceylon Workers Congress and the Nuwara Eliya district team candidate of the United National Alliance.
-
-Jeevan Thondaman made this statement at a media briefing that Kotagala was held on Saturday (26) at the headquarters of the Ceylon Workers Congress.
-
-He also said that the cost of rice, eggs and coconut has increased the cost of the people of the country.
-
-The current president has failed to control it and the cost of living has greatly affected the plantation people.
-
-Tamil MPs should be in Parliament to represent the plantation people in the 2024 general election as the current president has not made any comments on the plantation population.
-
-...
-
-[Data](articles/1eff2032.json)
-
-[Extended Data](ext_articles/1eff2032.ext.json)
 
 ---

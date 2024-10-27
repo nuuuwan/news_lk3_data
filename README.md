@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 22:57:47**
+As of **2024-10-27 23:10:00**
 
 ## Newspaper Stats
 
-*Scraped **51,686** Articles*
+*Scraped **51,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,806
-adaderanalk | 6,120
+adaderanalk | 6,121
 tamilmirrorlk | 7,148
 virakesarilk | 8,334
 adaderanasinhalalk | 8,990
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,686 (100.0%) of 51,686 articles have been extended.
+51,687 (100.0%) of 51,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### One killed, dozens injured in truck ramming at Israeli bus stop
+
+*2024-10-27 22:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102964/one-killed-dozens-injured-in-truck-ramming-at-israeli-bus-stop) · `en`
+
+One person was killed and dozens were injured on Sunday when a truck struck a bus stop at a major intersection near Tel Aviv in central Israel in what police said they suspected was a terrorist attack.
+
+Israeli police said about 40 people were injured to varying degrees, including some seriously, and were taken to nearby hospitals.
+
+Ichilov Medical Center in Tel Aviv said one of the victims succumbed to his wounds. Nearly Sheba Medical Center said it treated eight civilians and soldiers.
+
+The attack, in which a truck ran into a bus stop close to a military base, took place around 10 am (0800 GMT), police said, noting the driver - who had Israeli citizenship - was “neutralised” by gunfire from a nearby civilian.
+
+“All investigative directions are being examined with an emphasis on the suspicion that this is a terror attack,” police said.
+
+...
+
+[Data](articles/5248ac30.json)
+
+[Extended Data](ext_articles/5248ac30.ext.json)
+
+---
 
 ### Asian Egunic Cricket to Afghanistan
 
@@ -2377,35 +2399,5 @@ Wickremesinghe avoids contesting in three presidential elections after the first
 [Data](articles/840400cb.json)
 
 [Extended Data](ext_articles/840400cb.ext.json)
-
----
-
-### Three killed in accidents
-
-*2024-10-27 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202608) · `si`
-
-Road accidents claim three lives in Sri Lanka: one in Avissawella, two in Norochcholai and Anuradhapura.
-
-🟩
-
-Three persons were killed in road accidents in several areas.
-
-Police said that the accidents occurred in Avissawella, Norochcholai and Anuradhapura.
-
-A 34-year-old man was killed in a tipper in an accident in the Nawissa area in Avissawella.
-
-Meanwhile, the Norochcholai has fallen to a motorcycle in the Kalambo area, police said.
-
-The deceased has been identified as a 46 year old resident of the Seethapola area.
-
-Meanwhile, the motorcyclist was killed in a crash with a motorcycle with a motorcycle in Anuradhapura and the 4 acre junction.
-
-A person who was resident of Sangamitta Mawatha in Tisawewa, Tisawewa, was dead, said.
-
-◼️
-
-[Data](articles/9dce3226.json)
-
-[Extended Data](ext_articles/9dce3226.ext.json)
 
 ---

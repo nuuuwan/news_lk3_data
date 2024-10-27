@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 02:57:48**
+As of **2024-10-28 03:09:08**
 
 ## Newspaper Stats
 
-*Scraped **51,714** Articles*
+*Scraped **51,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 523
 bbccomsinhala | 524
 islandlk | 3,068
 economynextcom | 3,146
-dailyftlk | 3,531
+dailyftlk | 3,533
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,711 (100.0%) of 51,714 articles have been extended.
+51,714 (100.0%) of 51,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### CASIO intensifies fight against counterfeits in Sri Lanka
+
+*2024-10-28 02:56:53* · [`dailyftlk`](https://www.ft.lk/business/CASIO-intensifies-fight-against-counterfeits-in-Sri-Lanka/34-768495) · `en`
+
+In a strong commitment to upholding brand integrity and protecting consumers, Casio Computer Co. Ltd., headquartered in Japan, after its successful enforcement against counterfeit watches, recently conducted another significant enforcement action against counterfeit calculators including both desktop and scientific ranges, in Sri Lanka.
+
+This initiative is part of the Casio Group’s IP Enforcement Policy, aimed at combating the rising issue of counterfeit Casio products in the Sri Lankan market and safeguarding its valued consumers.
+
+In collaboration with a local law firm and the Colombo Crime Division (CCD), Casio successfully carried out a raid on a leading wholesaler and importer of stationery goods based in Colombo. As a result of this coordinated operation, authorities seized substantial quantities of counterfeit calculators which were imitations of running Casio Calculator models.
+
+...
+
+[Data](articles/e412072d.json)
+
+---
 
 ### Ceylon Biscuits retains MTI for international strategy alignment
 
@@ -48,6 +64,26 @@ Ceylon Biscuits, home to the Munchee brand, has led the biscuits category for 20
 
 [Data](articles/3f21f9e4.json)
 
+[Extended Data](ext_articles/3f21f9e4.ext.json)
+
+---
+
+### MTV Channel to host 2026  Asia-Pacific Broadcasting Union’s General Assembly in Sri Lanka
+
+*2024-10-28 02:51:56* · [`dailyftlk`](https://www.ft.lk/business/MTV-Channel-to-host-2026-Asia-Pacific-Broadcasting-Union-s-General-Assembly-in-Sri-Lanka/34-768493) · `en`
+
+ABU Secretary General Ahmed Nadeem (right) presents the ratification for the hosting of the 2026 General Assembly to CMG Group CEO Suresh Srinivasan (centre) and CMG Group Director – Legal and HR Suranga Jayalath, at the ABU’s 118th Administration Council meeting held on 20 October in Istanbul, Turkiye
+
+The Asia-Pacific Broadcasting Union (ABU) has selected Sri Lanka’s MTV Channel Ltd. to host the 2026 ABU General Assembly in Sri Lanka.
+
+Capital Maharaja Group (CMG) Group CEO Suresh Srinivasan and CMG Group Director – Legal and HR Suranga Jayalath received the ratification at the ABU’s 118th Administration Council meeting held on 20 October in Istanbul, Turkiye.
+
+The ABU is the largest broadcasting union in the world, with its 250 members in 70 countries across five continents, reaching three billion people across the Asia-Pacific region. Established in 1964, it is a not-for-profit, non-government, non-political professional association of broadcasters and broadcast media players.
+
+...
+
+[Data](articles/dbc0c88b.json)
+
 ---
 
 ### Coalition for Inclusive Impact launches cross-party dialogue series
@@ -64,6 +100,8 @@ Held at Dutchman’s Street in Matara Fort, participants at the forum quizzed th
 
 [Data](articles/3f2be519.json)
 
+[Extended Data](ext_articles/3f2be519.ext.json)
+
 ---
 
 ### MSF Scientific Days – Asia 2024: Advancing humanitarian medical innovation and research across Asia
@@ -79,6 +117,8 @@ The conference held in collaboration with Atal Bihari Vajpayee Institute of Medi
 ...
 
 [Data](articles/75fea2ac.json)
+
+[Extended Data](ext_articles/75fea2ac.ext.json)
 
 ---
 
@@ -2329,53 +2369,5 @@ Tamil MPs should be in Parliament to represent the plantation people in the 2024
 [Data](articles/1eff2032.json)
 
 [Extended Data](ext_articles/1eff2032.ext.json)
-
----
-
-### Restaurant owner arrested for disrupting the work of health inspectors: Hatton incident in Hatton
-
-*2024-10-27 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197231) · `ta`
-
-Restaurant owner arrested for obstructing health inspectors in Hatton incident. Owner refused to comply with cleaning orders, threatening inspector. Police intervened, arresting owner for obstruction and murder threat.
-
-🟩
-
-The health inspectors of the Ambagamuwa Divisional and District Health Medical Officer's Office on Saturday (26) have been interrupted by the Hatton main street restaurant on Saturday (26).
-
-Health inspectors warned the restaurant owner to clean the area after contaminated food items in the kitchen area of ​​the restaurant.
-
-The restaurant owner herself said that the next Hatton was the leader of the municipal council and said that his restaurant should not come to health inspectors.
-
-In addition, the Chief Inspector of Health Inspector S. Kamadevan threatened to murder and said that his residence was visible and that he would take action if he took action.
-
-The health inspector then lodged a complaint at the Hatton Police Station yesterday against the owner of the restaurant, and the Chief Health Inspector S. Kamadevan lodged a special complaint about the murder threat to him.
-
-...
-
-[Data](articles/81e1b151.json)
-
-[Extended Data](ext_articles/81e1b151.ext.json)
-
----
-
-### A man arrested with ice drugs in Wellampitiya
-
-*2024-10-27 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197220) · `ta`
-
-Man arrested in Wellampitiya with 51g of ice drugs during Colombo Crime Branch raid on 26th.
-
-🟩
-
-A suspect in Kolonnawa area belonging to the Wellampitiya Police Division has been arrested by police on Saturday (26).
-
-He was arrested during a raid carried out by a group of officials of the Colombo Crime Branch.
-
-51 grams of 250 milligrams of ice from the suspect was seized by the police.
-
-◼️
-
-[Data](articles/323ae02a.json)
-
-[Extended Data](ext_articles/323ae02a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 16:39:42**
+As of **2024-10-27 16:56:10**
 
 ## Newspaper Stats
 
-*Scraped **51,643** Articles*
+*Scraped **51,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,068
 economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,799
-adaderanalk | 6,115
-tamilmirrorlk | 7,144
+adalk | 4,800
+adaderanalk | 6,116
+tamilmirrorlk | 7,145
 virakesarilk | 8,316
 adaderanasinhalalk | 8,981
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 8,981
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,643 (100.0%) of 51,643 articles have been extended.
+51,644 (100.0%) of 51,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### “அடிப்படை சம்பளம் 2000 ரூபாய் வழங்கப்பட வேண்டும் ”
+
+*2024-10-27 16:50:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அடிப்படை-சம்பளம்-2000-ரூபாய்-வழங்கப்பட-வேண்டும்/76-346127) · `ta`
+
+“தேசிய மக்கள் சக்தியின் தொழிற்சங்கமானது, தோட்டத் தொழிலாளர்களுக்கு 2 ஆயிரம் ரூபாய் அடிப்படை சம்பளம் வழங்கப்பட வேண்டும் என வலியுறுத்தி வந்தது. எனவே, சம்பள நிர்ணய சபையை கூட்டி அதற்குரிய யோசனையை அரசாங்கம் முன்வைக்க வேண்டும். அதற்கு நாம் முழு ஆதரவையும் வழங்குவோம்.”- என்று இ.தொ.காவின் பொதுச் செயலாளரும், முன்னாள் அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்துள்ளார்.
+
+கொட்டகலை சீ.எல்.எப் கேட்போர் கூடத்தில் ஞாயிற்றுக்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துக் கொண்டு உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+கடந்த ஆட்சியில் குறுகிய காலப்பகுதிக்குள் மலையக மக்கள் தொடர்பில் அரசியல், பொருளாதார மற்றும் சமூகம் சார்ந்த திட்டங்களை நாம் முன்னெடுத்திருந்தோம். வீடமைப்பு திட்டம் கூட மீள ஆரம்பிக்கப்பட்டது.
+
+எனினும், ஜனாதிபதி தேர்தலுக்கு பிறகு மலையக மக்கள் தொடர்பில் இன்னும் எவ்வித திட்டமும் முன்னெடுக்கப்படவில்லை. அபிவிருத்தி திட்டங்கள் முன்னெடுக்கப்படுமா என்ற சந்தேகம் மக்கள் மத்தியில் உள்ளது.
+
+...
+
+[Data](articles/059efdad.json)
+
+---
+
+### A few Israelis remain in Sri Lanka surfing town despite terrorism warning
+
+*2024-10-27 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102959/a-few-israelis-remain-in-sri-lanka-surfing-town-despite-terrorism-warning) · `en`
+
+The last of the Israelis left in a scenic surfing hotspot in Sri Lanka said they felt safe and would stay put despite a warning from the Israeli Government to immediately leave due to the threat of a possible terrorist attack.
+
+Israel’s national security council called on Israelis on Wednesday to get out of tourist areas in the south of the Indian Ocean island nation, saying it had information about a terrorist threat focused on tourist areas and beaches.
+
+The agency did not specify the nature of the threat but said the warning pertained to the Arugam Bay area – a popular haunt for Israelis – and beaches in the south and west of the country.
+
+The US embassy in Sri Lanka and the German foreign ministry also followed with similar warnings, prompting Colombo to step up security and go on high alert.
+
+Sri Lankan police have arrested three suspects for questioning in connection with an unspecified threat.
+
+...
+
+[Data](articles/bcf9e9da.json)
+
+---
 
 ### Ranil compared between President and former President
 
@@ -217,6 +255,26 @@ This year's Asian Netball Championship was held in Bangalore, where India was un
 [Data](articles/e5935cc2.json)
 
 [Extended Data](ext_articles/e5935cc2.ext.json)
+
+---
+
+### African swine fever to Sri Lanka
+
+*2024-10-27 15:07:26* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රිකානු-සූකර-උණ-ශ්‍රී-ලංකාටත්/11-412699) · `si`
+
+African swine fever detected in Sri Lankan pigs. Disease control measures implemented nationwide to prevent further spread.
+
+🟩
+
+African swine flu is diagnosed with the disease that has spread between Sri Lankan pigs.
+
+Accordingly, the disease needs to be required to prevent the rest of the country.
+
+◼️
+
+[Data](articles/f1d22b42.json)
+
+[Extended Data](ext_articles/f1d22b42.ext.json)
 
 ---
 
@@ -2305,81 +2363,5 @@ He was speaking at a meeting of the Divulapitiya electorate in the Norrological 
 [Data](articles/8773d2ef.json)
 
 [Extended Data](ext_articles/8773d2ef.ext.json)
-
----
-
-### A car without number plates in a house belonging to Lohan's wife
-
-*2024-10-26 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202597) · `si`
-
-Car without plates found in ex-minister's wife's home. Former Minister Lohan Ratwatte claims it belonged to him. Police investigation ongoing.
-
-🟩
-
-A car without registration number plates was found today in a house belonging to the wife of former Minister of State Lhan Ratwatte.
-
-The former State Minister and his wife have witnessed to the police that the vehicle was brought to the house of the house and had died a few days ago.
-
-Former State Minister Lohan Ratwatte's wife Shashhi Prabha Ratwatte, the wife of Shahi Prabha Ratwatte, had received information on the police headquarters.
-
-Accordingly, Mirihana Police were reported to the Nugegoda Magistrate's Court and visited the vehicle.
-
-The police have also received a statement from the former minister and his wife.
-
-According to the statement that Mr. Ratwatte, who was shot dead in Katugastota in Kandy and was a few weeks ago in Katugastota in Kandy, stated that the vehicle was brought to the house of the house three weeks ago.
-
-The luxury car without registration number plates and the keys have been taken to the Mirihana Police today.
-
-...
-
-[Data](articles/09b368e7.json)
-
-[Extended Data](ext_articles/09b368e7.ext.json)
-
----
-
-### Discussions with IMF to bring a good budget - President
-
-*2024-10-26 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202596) · `si`
-
-IMF discussions for improved budget: President Anura Kumara Dissanayake addresses rally in Ratnapura, mentioning Finance Ministry talks with IMF for better budget formulation.
-
-🟩
-
-President Anura Kumara Dissanayake says that the Finance Ministry officials are discussing the International Monetary Fund, including an economic consultant to present a good budget.
-
-The President made these comments addressing a rally in Ratnapura this afternoon.
-
-"Officers of the Ministry of Finance and Finance Adviser are holding talks with the US International Monetary Fund .... In order to form a better budget. About our proposals. What did you tell us? ... Spokes of gas, the oil, and oil queue. We have restored the country when we may not have happened. "
-
-◼️
-
-[Data](articles/9d7ceaaf.json)
-
-[Extended Data](ext_articles/9d7ceaaf.ext.json)
-
----
-
-### Sri Lankan net balls for final match of the Asian Championship
-
-*2024-10-26 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202595) · `si`
-
-Sri Lanka qualifies for Asian Netball Championship final, defeating Hong Kong 71-47. This is their 11th final appearance.
-
-🟩
-
-Sri Lanka were able to defeat Hong Kong as 71- 47 runs and qualify for the finals of the Asian Netball Championship.
-
-The first seminar of the tournament was held this afternoon.
-
-The score of quarter 4 was 17-9, 19-12, 21-9 and 14-17.
-
-This is the 11th occasion of Sri Lanka for a final of the Asian Netball Championships.
-
-◼️
-
-[Data](articles/8360c008.json)
-
-[Extended Data](ext_articles/8360c008.ext.json)
 
 ---

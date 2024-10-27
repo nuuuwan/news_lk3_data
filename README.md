@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 05:46:09**
+As of **2024-10-27 06:12:49**
 
 ## Newspaper Stats
 
-*Scraped **51,549** Articles*
+*Scraped **51,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 412
 colombotelegraphcom | 519
 bbccomsinhala | 523
-islandlk | 3,057
+islandlk | 3,068
 economynextcom | 3,143
 dailyftlk | 3,521
 dailymirrorlk | 4,733
@@ -26,9 +26,89 @@ adaderanasinhalalk | 8,964
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,549 (100.0%) of 51,549 articles have been extended.
+51,551 (100.0%) of 51,560 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-27 (Sunday)
+
+### Secret Behind Singapore’s Success and Sri Lanka’s Failure — My Talk with Kishore Mahbubani – Part 1
+
+*2024-10-27 02:06:00* · [`islandlk`](http://island.lk/secret-behind-singapores-success-and-sri-lankas-failure-my-talk-with-kishore-mahbubani-part-1/) · `en`
+
+He possesses a captivating intellect and spending even a few minutes with him feels like an extraordinary privilege. He, who identified himself as an “accidental diplomat,” was Singapore’s Ambassador to the UN and then served as the President of the United Nations Security Council. Kishore Mahbubani, an esteemed scholar, diplomat, and author, is well-known for his incisive analyses of global geopolitics and economic development.
+
+In his book The Asian 21st Century, Mahbubani presents a compelling argument for the centrality of Asia in shaping the global order of the future. He contends that the 21st century will not only be an Asian century but one where the lessons from Asian societies can provide critical insights into tackling global challenges. In this book, he emphasises that “the Asian way of thinking, characterised by pragmatism and a deep respect for the complexities of history, can offer solutions to the multifaceted problems facing humanity.”
+
+...
+
+[Data](articles/0b630719.json)
+
+[Extended Data](ext_articles/0b630719.ext.json)
+
+---
+
+### A truly great and noble Indian
+
+*2024-10-27 01:49:00* · [`islandlk`](http://island.lk/a-truly-great-and-noble-indian/) · `en`
+
+I have been reading and watching YouTube videos that are abundant on Ratan Tata who died about two weeks ago. He was a great man – successful businessman, clever entrepreneur, most generous philanthropist and a truly compassionate human being. My interest is enhanced by my son having given me a birthday gift about a decade ago of four days at the Taj Hotel in Mumbai, full name Taj Mahal Palace, Colaba, very near the Gateway of India. I heard much about him and other Tatas then.
+
+...
+
+[Data](articles/d12ebdee.json)
+
+[Extended Data](ext_articles/d12ebdee.ext.json)
+
+---
+
+### An important strategy to mitigate elephant-vehicle collisions
+
+*2024-10-27 01:48:00* · [`islandlk`](http://island.lk/an-important-strategy-to-mitigate-elephant-vehicle-collisions/) · `en`
+
+(Author of the award-winning book “The Life of Last Proboscideans: Elephants”)
+
+According to a report by the World Bank, Sri Lanka has the highest road density in South Asia. On the other hand, Sri Lanka is a country with rich biodiversity and wildlife-collisions with trains/motorists have been there for aeons without a successful mitigating measure. This can risk the lives of wildlife as well as motorists or passengers. The latest one happened on October 18, 2024, in which two wild elephants died and two others were injured in a Batticaloa-bound fuel tanker train accident.
+
+When considering train accidents, the best solutions would be an underground railway-transit line in wildlife-sensitive areas. But considering the economic status of the country, such projects can be difficult to initiate in the near future. So, this article proposes a strategy that can be implemented just within a few days and has a strong potential to at least mitigate the issue.
+
+...
+
+[Data](articles/05ca73aa.json)
+
+---
+
+### Historicising the Sri Lanka Law College
+
+*2024-10-27 01:29:00* · [`islandlk`](http://island.lk/historicising-the-sri-lanka-law-college/) · `en`
+
+The Sri Lanka Law College, reputedly Asia’s oldest professional institution, was established 150 years ago, in 1874. Today, it has become an institution unto itself.To commemorate the anniversary, the institution came out with a publication: “Uplifting Legal Education in Sri Lanka: 150 Years of Law College.” Compressing what could have been two, if not three, years of hard research into six months, the book saw the light of day at a launch on October 18 – that is, last Friday.
+
+The book tries to make its contribution to our society, its continuing relevance, clearer. It does this by exploring its historical evolution from multiple perspectives.
+
+It also raises many questions. Perhaps the most important of them is this: how do institutions become relevant to the societies they inhabit, how do they become more representative of the people they serve?
+
+To answer that question, it is necessary to go back in time.
+
+...
+
+[Data](articles/8285ae99.json)
+
+---
+
+### Rev. Fr. Peter A. Pillai, OMI
+
+*2024-10-27 01:04:00* · [`islandlk`](http://island.lk/rev-fr-peter-a-pillai-omi/) · `en`
+
+A talk delivered by Fr. Emmanuel Fernando, OMI, on October 19 at Aquinas College of Higher Education, commemorating the 120th birth anniversary of Rev. Fr. Peter A. Pillai, OMI.
+
+October 19, 1904, is etched in history as a transformative day for Catholic education and institutes of higher learning in Sri Lanka. It marks the birth of Rev. Fr. Peter Alcantara Pillai, OMI, hailed as “the most educated person in the British Empire this side of the Suez Canal.” His intellectual brilliance and contributions to education and social justice continue to inspire generations.
+
+...
+
+[Data](articles/d71f7b37.json)
+
+---
 
 ### 2024-10-26 (Saturday)
 
@@ -1066,6 +1146,18 @@ One kilogram of watermelon is sold at Rs. 100, pineapple 450 rupees, Alphonsa ma
 
 ---
 
+### A Humane Scholar at Oxford
+
+*2024-10-26 16:07:00* · [`islandlk`](http://island.lk/a-humane-scholar-at-oxford/) · `en`
+
+I met Barbara Harrel-Bond, an anthropologist, by accident in April 1989. At that time, I was with the USAID-funded Mahaweli Agriculture and Rural Development Project (MARD). One day at lunchtime, an old jeep arrived at the project office. A white woman in her sixties emerged from the jeep. She was in a kurta and was carrying several notebooks in her hands. She smiled and asked me whether I could find someone who knew how Sinhala villagers interacted with Tamil villagers in the war-front area. I told her our professional staff had gone out for lunch, so she should wait until they returned.
+
+...
+
+[Data](articles/9d0f4f05.json)
+
+---
+
 ### Elpitiya finalized - calculations begin
 
 *2024-10-26 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202583) · `si`
@@ -1087,6 +1179,26 @@ He added that the voting was in peaceful.
 [Data](articles/0b85c17b.json)
 
 [Extended Data](ext_articles/0b85c17b.ext.json)
+
+---
+
+### It’s pink for roses – and for sin
+
+*2024-10-26 15:53:00* · [`islandlk`](http://island.lk/its-pink-for-roses-and-for-sin/) · `en`
+
+Pink is associated with babies, cute and cuddly woollies for girls, soft blankets to tuck around a baby, roses, elephants and gin! It is my favourite colour – inappropriate for me I suppose, given my age and weight, but nonetheless I love it. There is no accounting for taste and so I wear pink whenever possible. I labour under the delusion that it suits me.
+
+Just recently, clad in a pink cotton sari that did nothing for my figure, I sashayed forth to a society luncheon where 5C ladies plus two well-known men about town (Master chef and Fashion guru, Koluu and Kirthi) chattered happily and generally had a wonderful time. The sari belonged to granddaughter KitKat, who does not wear it because she considers it, ‘A little schoolgirlish.’
+
+“Certainly. I wasn’t planning on just transferring it from your cupboard to mine.”
+
+KitKat has learnt tact – but not with her near and dear. “Won’t it puff out a little?”
+
+At the lunch, ladies got into the act. “You look like a pink rose,” said one.
+
+...
+
+[Data](articles/79d203b3.json)
 
 ---
 
@@ -2319,169 +2431,5 @@ It is noteworthy that a group of villagers staged a demonstration in front of th
 [Data](articles/fecd8da8.json)
 
 [Extended Data](ext_articles/fecd8da8.ext.json)
-
----
-
-### Elpitiya PS Election begins
-
-*2024-10-26 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102933/elpitiya-ps-election-begins) · `en`
-
-The Elpitiya Pradeshiya Sabha Election has commenced at 7:00 a.m. today (26), with eight recognized political parties and an independent group competing to elect 29 members.
-
-A total of 55,643 voters are eligible to cast their votes at 48 polling centers and the polling will be held according to the 2018 voter registration list, the Election Commission announced.
-
-Meanwhile, the chairman of the Election Commission R.M.A.L. Rathnayake stated that voting for the Elpitiya Pradeshiya Sabha election will be held from 7.00 a.m. to 4.00 p.m. today (26), with all necessary security measures in place.
-
-Additionally, the Executive Director of People’s Action for Free & Fair Elections (PAFFREL) Rohana Hettiarachchi, stated that they will deploy their officials for monitoring at all the polling stations during the Elpitiya Pradeshiya Sabha Election.
-
-◼️
-
-[Data](articles/9c1d8ddd.json)
-
-[Extended Data](ext_articles/9c1d8ddd.ext.json)
-
----
-
-### Rain today ...
-
-*2024-10-26 08:12:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-மழை/175-346063) · `ta`
-
-Rain expected in Western, Sabaragamuwa, North Western provinces and Galle, Matara districts. Heavy rainfall predicted in some areas, exceeding 75mm.
-
-🟩
-
-The Department of Meteorology has said that rain or thunderstorms are expected in the Western, Sabaragamuwa, North Western and North Western Provinces and Galle and Matara districts.
-
-Heavy rains are expected in some parts of the Western, Sabaragamuwa and North Western provinces, the department said that more than 75 millimeters are expected.. (That)
-
-◼️
-
-[Data](articles/2a931d7d.json)
-
-[Extended Data](ext_articles/2a931d7d.ext.json)
-
----
-
-### MM in several areas. Heavy rains over 75
-
-*2024-10-26 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202568) · `si`
-
-Heavy rains expected in Western, Sabaragamuwa, North Western, and Northern provinces. Thundershowers possible in evening/night. Strong winds forecasted in North, North Central, and North Western provinces. Public advised to prepare for potential thunderstorm-related disruptions.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, North Western and Northern provinces today (26).
-
-MM to some places in the Western, Sabaragamuwa and North Western Provinces. Showers may occur in more than 75.
-
-Thundershowers will develop at several places in the evening or night in the evening or night in the rest of the island.
-
-Meanwhile, in the North, North Central and North Western provinces, and Trincomalee districts are from time to time.. There may be 40-45-strong winds.
-
-The Meteorological Department urges the public to take necessary steps to reduce temporary strong winds and lalnes due to thunderstorms.
-
-◼️
-
-[Data](articles/339bc08e.json)
-
-[Extended Data](ext_articles/339bc08e.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-10-26 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102932/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, North-western and Northern provinces and in Galle and Matara districts.
-
-Fairly heavy showers above 75 mm are likely at some places in Western, Sabaragamuwa and North-western provinces.
-
-Showers or thundershowers will occur at several places in the other areas of the island during the evening or night, it added.
-
-Strong winds of about 40-45 kmph can be expected at times over Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/4f7ca4ff.json)
-
-[Extended Data](ext_articles/4f7ca4ff.ext.json)
-
----
-
-### Israel launches strikes on Iran, risking escalation in Mideast wars
-
-*2024-10-26 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102931/israel-launches-strikes-on-iran-risking-escalation-in-mideast-wars) · `en`
-
-Israel pounded Iran with a series of airstrikes early Saturday, saying it was targeting military targets in retaliation for the barrage of ballistic missiles the Islamic Republic fired upon Israel earlier this month.
-
-Explosions could be heard in the Iranian capital, Tehran, though there was no immediate information on damage or casualties.
-
-The attack risks pushing the archenemies closer to all-out war at a time of spiraling violence across the Middle East, where militant groups backed by Iran – including Hamas in Gaza, and Hezbollah in Lebanon are already at war with Israel.
-
-The Israeli military said Saturday it had launched “precise strikes on military targets” and, according to two Israeli officials, it was not targeting nuclear or oil facilities. The officials spoke on condition of anonymity because they weren’t authorized to discuss the ongoing operation with the media.
-
-...
-
-[Data](articles/ec6b8664.json)
-
-[Extended Data](ext_articles/ec6b8664.ext.json)
-
----
-
-### Alpitting vote begins
-
-*2024-10-26 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202567) · `si`
-
-Elpitiya Local Government Election summary: Voting starts at 7 AM. 55,643 eligible voters at 48 polling stations. 29 seats contested. Election Commissioner confirms process. PAFFREL deploying observers. Postal ballots to be handled by Postal Department.
-
-🟩
-
-Elpitiya Local Government Elections (26) will compete in the selection of 29 members. Started at 7.00.
-
-55,643 voters are eligible to vote in 48 polling centers.
-
-Elections Commissioner Chairman R. Chairman of Elections. M. A.L Ratnayake said.
-
-Executive Director of PAFFREL Rohana Hettiarachchi said that steps have been taken to deploy their officials for observation activities in the Elpitiya Pradeshiya Sabha elections.
-
-Meanwhile, the postal ballot to the Postal Department is due to be handed over to the Postal Department to the postal election.
-
-◼️
-
-[Data](articles/417d1825.json)
-
-[Extended Data](ext_articles/417d1825.ext.json)
-
----
-
-### Air attack on Israel Iran
-
-*2024-10-26 06:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197131) · `ta`
-
-Israel launches air strike on Iran in response to months-long attacks. Targets military installations, not energy infrastructure. US cooperation involved. Decision made after thorough review by security cabinet.
-
-🟩
-
-Israel has launched an air strike on Iran.
-
-Israeli said the attacks were carried out in response to the Iranian attack for several months.
-
-Israeli officials, who have said that Iran's energy infrastructure is not targeted, has said the attack is in the process of the US's cooperation.
-
-Israeli officials, who have said that Iran's energy infrastructure is not targeted, has said the attack is in the process of the US's cooperation.
-
-Israeli officials have said they have decided to carry out attacks on Iran only after several months of review.
-
-Israeli officials have said that the security cabinet has been investigating the matter for months.
-
-We decided to attack military targets in the end, the official said. The official said we decided to attack the goals that could be dangerous or dangerous.
-
-◼️
-
-[Data](articles/3d2372de.json)
-
-[Extended Data](ext_articles/3d2372de.ext.json)
 
 ---

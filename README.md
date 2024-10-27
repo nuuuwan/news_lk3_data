@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 12:58:17**
+As of **2024-10-27 13:09:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,975
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,604 (100.0%) of 51,606 articles have been extended.
+51,606 (100.0%) of 51,606 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,29 +48,37 @@ Rodrigo Reyes Mugüerza, secretary general of the government in Zacatecas, also 
 
 [Data](articles/fa8c8a95.json)
 
+[Extended Data](ext_articles/fa8c8a95.ext.json)
+
 ---
 
-### මෙක්සිකෝවේ බස් රථ අනතුරකින් 19 දෙනෙකු මරුට
+### 19 killed in Mexico bus accident
 
 *2024-10-27 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202613) · `si`
 
-මෙක්සිකෝවේ සිදුවූ බස් රථ අනතුරකින් පුද්ගලයින් 19 දෙනෙකු මියගොස් ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Mexico bus crash: 19 dead, 6 injured. Accident occurred on highway in central region. Bus reportedly veered off road and fell into ravine while headed to Juarez near US-Mexico border. Foreign media reports victims not migrants.
 
-බස් රථ අනතුර සිදුව ඇත්තේ මධ්‍යම මෙක්සිකෝවේ සකතෙකස් ප්‍රාන්තයේ අධිවේගී මාර්ගයකදී ය.
+🟩
 
-එහිදී බස් රථය ඉරිඟු ප්‍රවාහනය කරමින් පැවති ට්‍රැක්ටරයක ගැටීමෙන් පසු ට්‍රැක්රයෙන් ලිහිල් වී ඉන් ගැලවී ගිය ට්‍රේලරය බසයේ ගැටී ඇති බව  ඇතැම් මාධ්‍ය වාර්තාවල සඳහන් වේ.
+Foreign media has reported that 19 people were killed in a bus accident in Mexico.
 
-අනතුරින් පසු බසය මාර්ගයෙන් ඉවතට ධාවනය වී ප්‍රපාතයකට පෙරළී ගොස් තිබූ බව සඳහන් වේ.
+The bus accident occurred on a highway in Sakathakus, Central Mexico.
 
-අනතුර සිදුවන අවස්ථාවේ දී බසය අමෙරිකානු මෙක්සිකෝ දේශසීමාව ආසන්නයේ පිහිටි ජුආරෙස් නගරය බලා ධාවනය කරමින් සිටි බව වාර්තා වේ.
+Some media reports states that the tractor is relaxed after the bus collided with corn, some media reports say.
 
-අනතුරින් පුද්ගලයින් 19 දෙනෙකු මියගොස් තවත් 6 දෙනෙකු තුවාල ලබා තිබේ.
+It is said that after the accident, the bus was running out of the road and fell into a precipice.
 
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ අනතුරින් මියගිය පිරිස අතරට සංක්‍රමණිකයින් අයත් නොවන බවය.
+At the time of the accident, the bus was traveling to the Jurez, near the American Mexico border, reports say.
+
+19 people were killed and six others were injured in the accident.
+
+Foreign media reports that migrants do not belong to the people who died in the accident.
 
 ◼️
 
 [Data](articles/f8cba443.json)
+
+[Extended Data](ext_articles/f8cba443.ext.json)
 
 ---
 

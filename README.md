@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 22:24:43**
+As of **2024-10-27 22:57:47**
 
 ## Newspaper Stats
 
-*Scraped **51,684** Articles*
+*Scraped **51,686** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 3,068
 economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,805
+adalk | 4,806
 adaderanalk | 6,120
 tamilmirrorlk | 7,148
 virakesarilk | 8,334
-adaderanasinhalalk | 8,989
+adaderanasinhalalk | 8,990
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,684 (100.0%) of 51,684 articles have been extended.
+51,686 (100.0%) of 51,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Asian Egunic Cricket to Afghanistan
+
+*2024-10-27 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202628) · `si`
+
+Sri Lanka A lost to Afghanistan A by 7 wickets. Afghanistan A won the championship. Afghan batsmen scored 134 runs in 19 overs. This is Afghanistan U23's first win in Asian East Zone history.
+
+🟩
+
+Sri Lanka 'A' defeated by 7 wickets in seven wickets, Afghanistan 'A' team won the championship.
+
+The Afghan batsman were able to pass the 134 runs in the 19 (18.1) of the match, which was held at the Oman in Oman.
+
+This will be the first time in the history of the Asian Eastern Team won by Asian under 23 years.
+
+◼️
+
+[Data](articles/12d3ca63.json)
+
+[Extended Data](ext_articles/12d3ca63.ext.json)
+
+---
 
 ### The prospect of the courageous opposition that is established
 
@@ -125,6 +147,28 @@ Former presidents' perks cut: President Anura Kumara Dissanayake proposes reduci
 [Data](articles/c9281d21.json)
 
 [Extended Data](ext_articles/c9281d21.ext.json)
+
+---
+
+### High price per kg of organic raw tea
+
+*2024-10-27 19:54:06* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-කාබනික-අමු-තේ-කිලෝවකට-ඉහළ-මිලක්/11-412708) · `si`
+
+High price organic raw tea: Lumbiniya Tea Program pays Rs. 241.62/kg. Sri Lanka Tea Board reports strong foreign demand. Over 500,000 tea growers employ 517 plants across 11 districts.
+
+🟩
+
+The Lumbiniya Tea Program of the Matara district has been able to pay a high price of Rs.
+
+The Sri Lanka Tea Board says that there is a high demand abroad such as England, England and Razia, such as England and Razia.. The highest price of a kilo of chemical fertilizer was paid a raw tea factory for a kilo of chemical fertilizer and was purchased at a cost of Rs. 241.62.
+
+The Sri Lanka Tea Board says that 517 tea plantants in the 11th districts of the island are working on employers, over 500,000 tea growers.
+
+◼️
+
+[Data](articles/68256308.json)
+
+[Extended Data](ext_articles/68256308.ext.json)
 
 ---
 
@@ -2363,59 +2407,5 @@ A person who was resident of Sangamitta Mawatha in Tisawewa, Tisawewa, was dead,
 [Data](articles/9dce3226.json)
 
 [Extended Data](ext_articles/9dce3226.ext.json)
-
----
-
-### Train services on Northern Line to resume tomorrow
-
-*2024-10-27 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102950/train-services-on-northern-line-to-resume-tomorrow) · `en`
-
-The train services from Colombo Fort to Kankasanturai which was halted for months owing to the maintenance and development activities will resume starting tomorrow, October 28, the Department of Railways has announced.
-
-This development follows the successful completion of modernization work along the railway stretch between Mahawa and Anuradhapura, enhancing connectivity and convenience for passengers traveling to the northern regions of the country.
-
-In light of the renewed operations, the Railway Department urges the public to exercise caution at railway crossings. With trains now running on the Northern Railway, it is essential for everyone to prioritize safety and adhere to all crossing regulations, as per the department.
-
-The statement issued by the Railway Department regarding the manner in which trains will be operational on the Northern Line is as follows;
-
-◼️
-
-[Data](articles/0f3d5ce3.json)
-
-[Extended Data](ext_articles/0f3d5ce3.ext.json)
-
----
-
-### Government assistance to increase the storage capacity of SME rice rice
-
-*2024-10-27 09:44:03* · [`adalk`](https://www.ada.lk/breaking_news/සුළු-හා-මධ්‍ය-පරිමාණ-සහල්-ව්‍යාපාරිකයන්ගේ-ගබඩා-ධාරිතාව-වැඩි-කිරීමට-රජයේ-සහාය/11-412695) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's government supports SME rice businesses, increasing storage capacity. Presidents Rajapaksa and Dissanayake emphasize fair pricing and social responsibility. The goal is to boost rice production and market stability.
-
-🟩
-
-The rice control price does not change the unfair profit
-
-President Mahinda Rajapaksa says that the minor and medium rice
-
-President Anura Kumara Dissanayake said that the government is supporting the storage capacity of small and medium scale rice rice to establish rice market.
-
-The President was addressing the discussion held at the Presidential Secretariat with SME rice businessmen.
-
-The President also pointed out that the government has a social responsibility for small and medium-sized rice businessmen, as the government spends a lot of money to promote the promotion of the field of agriculture and irrigation.
-
-The capacity of SMEs should be discussed at the prolonged to create the rice rice capacity.
-
-The President stressed that no businessman would not allow rice control prices and to profit.
-
-◼️
-
-[Data](articles/35af5171.json)
-
-[Extended Data](ext_articles/35af5171.ext.json)
 
 ---

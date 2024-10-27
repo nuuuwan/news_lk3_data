@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 17:09:20**
+As of **2024-10-27 17:23:53**
 
 ## Newspaper Stats
 
-*Scraped **51,646** Articles*
+*Scraped **51,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,111 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,800
 adaderanalk | 6,116
-tamilmirrorlk | 7,145
+tamilmirrorlk | 7,146
 virakesarilk | 8,316
-adaderanasinhalalk | 8,981
+adaderanasinhalalk | 8,983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,646 (100.0%) of 51,646 articles have been extended.
+51,649 (100.0%) of 51,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Japanese parliamentary election today
+
+*2024-10-27 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202621) · `si`
+
+Japanese parliamentary election underway. PM Shiri Polian leads Liberal Democratic Party. Former PM Fumio Kishida resigned due to high cost of living. Experts predict LDP may lose 50 seats. Opposition parties gaining ground. Election crucial for PMs Shibaa and Isiboha.
+
+🟩
+
+This is a very important election as well as Prime Minister Shiri polian and Isiba for the ruling Liberal Democratic Party.
+
+Former Prime Minister of Japanese Prime Minister Fumio Kikada resigned from the post of Prime Minister.
+
+During his three years rule, the cost of living is highly increased by the people.
+
+After the former Prime Minister of the Japanese constitution, Killida became Prime Minister.
+
+Shiri polite Shiri polite was the prime minister of Japan in early this month was to hold elections quickly.
+
+The vote on the Japanese parliamentary election began this morning.
+
+Representatives are to be selected for 465 seats in the lower Sensing Council.
+
+Japan's current ruling liberal democratic Party after the post-war, almost won the majority of the Sanhedrin.
+
+However, this year's election has been a challenge for them.
+
+Experts predict on the Liberal Democratic Party (Liberal Democratic Party) and about 50 seats will be lost this year's election.
+
+...
+
+[Data](articles/d53672fa.json)
+
+[Extended Data](ext_articles/d53672fa.ext.json)
+
+---
+
+### “Inexperienced group is not good for the country”
+
+*2024-10-27 17:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுபவமற்ற-குழு-நாட்டுக்கு-நல்லதல்ல/175-346130) · `ta`
+
+"Inexperienced groups bad for country" UNP candidate warns. Experienced team needed for proper governance.
+
+🟩
+
+United National Party (UNP) Gampaha district candidate Ruwan Vijayawardena said in Negombo on Sunday (27) that if the inexperienceless committee was elected to parliament, it would not be good for the country.
+
+Vijayawardena said that the people are not even aware of who is in the national popular power, and said that there is a skilled and experienced group in the new Democratic Front group contesting the Cass cylinder.
+
+The New Democratic Front's Negombo People's Meeting was chaired by former President Ranil Wickremesinghe.
+
+Our hope is that Ranil Wickremesinghe has only the ability to build the economy of this country.
+
+But unfortunately people have made a different decision. We do not expect to pull the legs of the elected president, but we are not happy with some of the decisions he makes.
+
+...
+
+[Data](articles/253dc9fe.json)
+
+[Extended Data](ext_articles/253dc9fe.ext.json)
+
+---
+
+### Shanto's leadership ready to give up
+
+*2024-10-27 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202620) · `si`
+
+Shanto resigns as Bangladesh cricket captain after poor performance. Team needs new leader before matches against South Africa, Afghanistan, and West Indies.
+
+🟩
+
+Njjamal Hoseen Hogu Hoseen Shantho, who is the permanent leader of the Bangladesh cricket team has decided to resign.
+
+Last year, Shaton, who was leading the Bangladesh Test team in November, was appointed as the leader of one day and Twenty20 team.
+
+However, after the leadership, his batting talent did not raise outstanding.
+
+As a result, he has informed Bangladesh Cricket that he wants to resign after the leadership against South Africa.
+
+Bangladesh team, Afghanistan and Billa after the end of South Africa. West Indies are due to worship with sports.
+
+As a result, Bangladesh will have to appoint a new leader in a short time.
+
+Shuntoto was able to serve the Test tournament against New Zealand last year.
+
+◼️
+
+[Data](articles/91dc7fd1.json)
+
+[Extended Data](ext_articles/91dc7fd1.ext.json)
+
+---
 
 ### "Basic salary should be paid 2000 rupees"
 
@@ -2297,81 +2389,5 @@ Also, 'Habibi' is a word that refers to love in Arabic has attracted the attenti
 [Data](articles/b2bee144.json)
 
 [Extended Data](ext_articles/b2bee144.ext.json)
-
----
-
-### Another revelation of endless online racket
-
-*2024-10-26 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202600) · `si`
-
-Online scams continue in Sri Lanka. CID investigates fraudulent internet banking activities. Scammers use social media and fake relationships to steal money. Organized groups target middle-aged adults and prominent figures. Despite reports, public remains vulnerable to these schemes.
-
-🟩
-
-The racketeering is still underway in the country.
-
-Recently, information was reported recently on the recently large-scale people's money robbery.
-
-Sri Lankans who have carried out various functions of the country and robbed the money online were taken into custody.
-
-The Criminal Investigations Department (CID) has detected the password fraudulently obtaining the ortp of direct conductations in the Internet Banking transactions as well as another major strategy.
-
-As one way, the identifying money to invest in social media and telephone calls, including Facebook, will invest money.
-
-In addition, it is another trick of the organized group to create false romantic relations with the medium-age and adults identified through social media.
-
-It is also reported on traffickers who are receiving money to various projects, highlighting as well as famous characters in society.
-
-No matter how much information regarding such rackets are reported, the people are constantly the ridiculent groups.
-
-◼️
-
-[Data](articles/fa1d4bac.json)
-
-[Extended Data](ext_articles/fa1d4bac.ext.json)
-
----
-
-### The race interrupted with rain
-
-*2024-10-26 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202599) · `si`
-
-Sri Lanka vs West Indies cricket match resumes after rain delay. Limited overs played due to weather conditions.
-
-🟩
-
-Sri Lanka and the West Indies have resumed the match.
-
-The race was restricted to one of 23 overs of the team due to the rain.
-
-◼️
-
-[Data](articles/cf50ea1c.json)
-
-[Extended Data](ext_articles/cf50ea1c.ext.json)
-
----
-
-### "We Are An Exemplary Opposition" - Dilith
-
-*2024-10-26 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202598) · `si`
-
-Dilith Jayaweera emphasizes establishing an exemplary opposition in Parliament to foster political enlightenment. He highlights the importance of listening to citizens' concerns and implementing strategic programs. Jayaweera urges voters to support the opposition, promising better governance over the next five years.
-
-🟩
-
-Dilith Entrepreneur Entrepreneurship Dilith Jayaweera says that the enlightened political culture is being established as an exemplary opposition is established in Parliament.
-
-He was speaking at a meeting of the Divulapitiya electorate in the Norrological Pooja today (26).
-
-"This is politics.. In the past, not to eat people.. Give people to people. What was the recent past now?Here is the parliament to bring the names of these people's time to the people of the innocent two decades three decades.. The man's man coming from the V8. "
-
-"This historical vote is. We urge the people this time the largest opposition in Sri Lanka. 68% has decided to vote for the opposition. Why gave them 43%. The rest against him. Another part was at home. 68% when this was added. Then the 68% will need hearing. "
-
-...
-
-[Data](articles/8773d2ef.json)
-
-[Extended Data](ext_articles/8773d2ef.ext.json)
 
 ---

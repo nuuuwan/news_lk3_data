@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 06:12:49**
+As of **2024-10-27 07:28:10**
 
 ## Newspaper Stats
 
-*Scraped **51,560** Articles*
+*Scraped **51,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 4,789
 adaderanalk | 6,104
 tamilmirrorlk | 7,124
 virakesarilk | 8,297
-adaderanasinhalalk | 8,964
+adaderanasinhalalk | 8,965
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,551 (100.0%) of 51,560 articles have been extended.
+51,555 (100.0%) of 51,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Showers in many areas today
+
+*2024-10-27 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202603) · `si`
+
+Heavy showers/thundershowers expected in Western, Sabaragamuwa, Northwestern provinces. Possible heavy rain (over 50mm) and strong gusts (up to 40km/h). Thunderstorms may develop in evening/night. Public advised to take precautions against lightning and wind-related accidents.
+
+🟩
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in the Galle, Matara and Mannar districts.
+
+The department states in some places in the Western, Sabaragamuwa and North Western Provinces. Heavy rains can be raining more than 50.
+
+Thundershowers will develop at several places in the evening or night during the evening or night.
+
+Starch in Trincomalee and Hambantota districts, North, North Central and North Western provinces. Strong winds can cause about 40.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/5e6d9853.json)
+
+[Extended Data](ext_articles/5e6d9853.ext.json)
+
+---
 
 ### Secret Behind Singapore’s Success and Sri Lanka’s Failure — My Talk with Kishore Mahbubani – Part 1
 
@@ -76,6 +102,8 @@ When considering train accidents, the best solutions would be an underground rai
 
 [Data](articles/05ca73aa.json)
 
+[Extended Data](ext_articles/05ca73aa.ext.json)
+
 ---
 
 ### Historicising the Sri Lanka Law College
@@ -94,6 +122,8 @@ To answer that question, it is necessary to go back in time.
 
 [Data](articles/8285ae99.json)
 
+[Extended Data](ext_articles/8285ae99.ext.json)
+
 ---
 
 ### Rev. Fr. Peter A. Pillai, OMI
@@ -107,6 +137,8 @@ October 19, 1904, is etched in history as a transformative day for Catholic educ
 ...
 
 [Data](articles/d71f7b37.json)
+
+[Extended Data](ext_articles/d71f7b37.ext.json)
 
 ---
 
@@ -2411,25 +2443,5 @@ Iraq suspended all air traffic Saturday at its airports until further notice aft
 [Data](articles/2173ac35.json)
 
 [Extended Data](ext_articles/2173ac35.ext.json)
-
----
-
-### The suspension of the work of the police officers
-
-*2024-10-26 08:19:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தர்கள்-பணி-இடைநீக்கம்/175-346064) · `ta`
-
-Pamunugama police officers suspended after allegedly assaulting two youth suspects during arrest. Villagers protest outside station.
-
-🟩
-
-பமுனுகம பிரதேசத்தில் இளைஞர்கள் இருவரை தாக்கியதாக கூறப்படும் சம்பவம் தொடர்பில் பமுனுகம பொலிஸ் உத்தியோகத்தர்கள் மூவர் பணி இடைநீக்கம் செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
-
-It is noteworthy that a group of villagers staged a demonstration in front of the Pamunugama police yesterday afternoon, accusing police officers of brutally assaulting two youths who were arrested last Sunday on suspicion of stealing gold jewelery.. Remble
-
-◼️
-
-[Data](articles/fecd8da8.json)
-
-[Extended Data](ext_articles/fecd8da8.ext.json)
 
 ---

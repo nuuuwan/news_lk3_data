@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 09:59:30**
+As of **2024-10-27 10:12:34**
 
 ## Newspaper Stats
 
-*Scraped **51,575** Articles*
+*Scraped **51,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 3,143
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,793
-adaderanalk | 6,106
+adaderanalk | 6,107
 tamilmirrorlk | 7,128
 virakesarilk | 8,298
-adaderanasinhalalk | 8,968
+adaderanasinhalalk | 8,970
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,575 (100.0%) of 51,575 articles have been extended.
+51,578 (100.0%) of 51,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Three killed in accidents
+
+*2024-10-27 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202608) · `si`
+
+Road accidents claim three lives in Sri Lanka: one in Avissawella, two in Norochcholai and Anuradhapura.
+
+🟩
+
+Three persons were killed in road accidents in several areas.
+
+Police said that the accidents occurred in Avissawella, Norochcholai and Anuradhapura.
+
+A 34-year-old man was killed in a tipper in an accident in the Nawissa area in Avissawella.
+
+Meanwhile, the Norochcholai has fallen to a motorcycle in the Kalambo area, police said.
+
+The deceased has been identified as a 46 year old resident of the Seethapola area.
+
+Meanwhile, the motorcyclist was killed in a crash with a motorcycle with a motorcycle in Anuradhapura and the 4 acre junction.
+
+A person who was resident of Sangamitta Mawatha in Tisawewa, Tisawewa, was dead, said.
+
+◼️
+
+[Data](articles/9dce3226.json)
+
+[Extended Data](ext_articles/9dce3226.ext.json)
+
+---
+
+### Train services on Northern Line to resume tomorrow
+
+*2024-10-27 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102950/train-services-on-northern-line-to-resume-tomorrow) · `en`
+
+The train services from Colombo Fort to Kankasanturai which was halted for months owing to the maintenance and development activities will resume starting tomorrow, October 28, the Department of Railways has announced.
+
+This development follows the successful completion of modernization work along the railway stretch between Mahawa and Anuradhapura, enhancing connectivity and convenience for passengers traveling to the northern regions of the country.
+
+In light of the renewed operations, the Railway Department urges the public to exercise caution at railway crossings. With trains now running on the Northern Railway, it is essential for everyone to prioritize safety and adhere to all crossing regulations, as per the department.
+
+The statement issued by the Railway Department regarding the manner in which trains will be operational on the Northern Line is as follows;
+
+◼️
+
+[Data](articles/0f3d5ce3.json)
+
+[Extended Data](ext_articles/0f3d5ce3.ext.json)
+
+---
+
+### Suspect arrested with 5 kg of ice drugs
+
+*2024-10-27 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202607) · `si`
+
+Arrest made at Katunayake Airport: 5kg ice drugs seized, 2 suspects detained, including driver.
+
+🟩
+
+A person has been arrested at the Katunayake Airport with more than 5 kilograms of ice drugs.
+
+Police found 5 ice drugs from Malaysia from Malaysia and 26 grams of police narcotics bureau.
+
+A man and a woman have been arrested for carrying the suspect to carry the suspect.
+
+They have also taken the car they arrived in the police.
+
+◼️
+
+[Data](articles/41e83acc.json)
+
+[Extended Data](ext_articles/41e83acc.ext.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -2395,93 +2469,5 @@ In addition, police said that several empty bottles of liquor were found near th
 [Data](articles/a4eacc59.json)
 
 [Extended Data](ext_articles/a4eacc59.ext.json)
-
----
-
-### Sri Lanka to contest for honorurs win
-
-*2024-10-26 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202569) · `si`
-
-Sri Lanka leads West Indies 2-0 in ODI series. Today's match crucial for winning the 6th bilateral series. If Sri Lanka wins, it would be their 4th victory over West Indies in full series.
-
-🟩
-
-Sri Lanka and Tourism. The West Indies will play the third and final ODI cricket match today (26).
-
-The Sri Lankan team is now full of winners with both the first matches between the two countries.
-
-1975 වසරේ සිට ජාත්‍යන්තර එක්දින ක්‍රිකට් පිටියේ හමුවන ශ්‍රී ලංකාව හා කොදෙව් කණ්ඩායම් අද සිය 67 වැනි එක්දින තරගයට ක්‍රීඩා කිරීමට නියමිතව ඇත.
-
-Sri Lanka has won 32 matches and 31st teams have been won.. West Indies win. Only 3 matches have ended without solution.
-
-However, Sri Lanka is the most victories of the matches held in Sri Lanka.
-
-When Sri Lanka won 14 matches in Sri Lanka, the West Indies have won only 3 matches.
-
-Sri Lanka and Buddhism. The 10th Bilateral ODI series will be held between the West Indies.
-
-Sri Lanka has won five tournaments and West Indies won 3 tournaments. Only one tournament has been ended without the Jayatakera.
-
-...
-
-[Data](articles/d74b3287.json)
-
-[Extended Data](ext_articles/d74b3287.ext.json)
-
----
-
-### The main notice of the Foreign Employment Bureau
-
-*2024-10-26 10:30:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-வேலைவாய்ப்பு-பணியகத்தின்-முக்கிய-அறிவிப்பு/175-346071) · `ta`
-
-Sri Lanka SLBFE warns against money laundering in South Korea's E-8 visa program. No official agreement for short-term jobs yet. Job seekers advised to report scams via hotline 1989.
-
-🟩
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) has reported that the money laundering has been issued under the E-8 visa section of South Korea.
-
-South Korea and Sri Lanka have to signed a contract to find short -term jobs in South Korea, but no such agreement has been reached so far, its additional general manager Gamini Senarath Yapa said.
-
-He added that if it is necessary to send workers for short -term jobs, the provincial councils of Sri Lanka should make appropriate agreements with the South Korean states.
-
-Under the E-8 Visa section, the Sri Lanka Foreign Employment Bureau advises job seekers to avoid paying money to any person or company to get jobs in South Korea, and to inform them of special inquiries if they know information about money fraudsters.
-
-For this, the Corporation of the Bureau or Hotline No. 1989 has been given. (That)
-
-◼️
-
-[Data](articles/abf6549e.json)
-
-[Extended Data](ext_articles/abf6549e.ext.json)
-
----
-
-### Elections of Elpitiya Pradeshiya Sabha:
-
-*2024-10-26 10:21:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டிய-பிரதேச-சபை-தேர்தல்-நோட்டமிடும்-கண்காணிப்பாளர்கள்/175-346070) · `ta`
-
-Elpitiya Pradeshiya Sabha election: 48 monitors oversee voting for 55,000 eligible voters across 48 polling stations. 28 seats contested by 8 parties and 279 independent candidates. Voting runs from 7am to 4pm. Election Commission marks voters' left thumbs to prevent confusion.
-
-🟩
-
-As the Elpitiya Pradeshiya Sabha elections are being held today (26), many election monitors are overseeing.
-
-Rohana Hettiarachchi, Executive Director of the People's Organization for Independent and Fair Elections, said that 48 election monitors have been involved in monitoring today's election.
-
-Meanwhile, Manas McCin, Managing Director of the CAFFE campaign (CAFFE), said that 10 more monitors representing CAFFE have been sent for this purpose.
-
-About 55,000 voters are eligible to vote in 48 polling stations under the Elpitiya Pradeshiya Sabha.
-
-Of the 28 representative seats of the Elpitiya Pradeshiya Sabha, eight political parties and 279 candidates from the Independent Committee will contest.
-
-Voting for the Elpitiya Pradeshiya Sabha election will be held from 7 am to 4 pm today, Galle District Election Officer WA Dharmasiri said.
-
-He also assured that plans to solve them in the event of any emergency circumstances.
-
-...
-
-[Data](articles/768550f4.json)
-
-[Extended Data](ext_articles/768550f4.ext.json)
 
 ---

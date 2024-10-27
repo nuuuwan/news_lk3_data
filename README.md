@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 00:39:26**
+As of **2024-10-28 00:57:17**
 
 ## Newspaper Stats
 
-*Scraped **51,698** Articles*
+*Scraped **51,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
-tamilmirrorlk | 7,148
+tamilmirrorlk | 7,149
 virakesarilk | 8,342
 adaderanasinhalalk | 8,991
 
@@ -26,9 +26,33 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,698 (100.0%) of 51,698 articles have been extended.
+51,699 (100.0%) of 51,699 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-28 (Monday)
+
+### The new government should be given time
+
+*2024-10-28 00:08:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்துக்கு-அவகாசம்-கொடுக்க-வேண்டும்/175-346150) · `ta`
+
+New government needs time to address ethnic issues. Tamil Progressive Alliance supports constitution reform. Minority participation crucial in national discussions.
+
+🟩
+
+The Tamil Progressive Alliance in South Sri Lanka and the Sri Lanka Tamil National Alliance (TNA) in the North and East will be in parliament with political strength. The Tamil Progressive Alliance leader Mano Ganesan, who has said that the Tamil people should understand this clearly, urged the new government to be given time.
+
+President Anuragumara Dissanayake has put forward the solution to the Tira Challenge of the country's national ethnic issue, which is the only idea that we will all unite in goodwill from 2015 to 2018 will be aimed at creating a new constitution that we all have launched.
+
+We welcome this idea of ​​President Anuragumara. We do not do the short politics that should answer all the challenges of the country within the same month.. We think the new government should be given a fair time.
+
+...
+
+[Data](articles/401d169c.json)
+
+[Extended Data](ext_articles/401d169c.ext.json)
+
+---
 
 ### 2024-10-27 (Sunday)
 
@@ -2401,27 +2425,5 @@ The driver was taken into custody and is set to be produced before the Hambantot
 [Data](articles/626b118a.json)
 
 [Extended Data](ext_articles/626b118a.ext.json)
-
----
-
-### Arrested in a couple who stayed without a visa
-
-*2024-10-27 11:17:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசா-இன்றி-தங்கியிருந்த-தம்பதி-கைது/175-346096) · `ta`
-
-Russian couple arrested for overstaying visa in Sri Lanka. 39-year-old man and 32-year-old woman detained by Kandy Police for investigation.
-
-🟩
-
-A Russian couple who were staying in the country without a visa in violation of immigration laws
-
-The couple have been arrested yesterday evening (26) evening.
-
-The 39 -year -old male and the 32 -year -old Russian woman have been handed over to the Kandy Police for further investigations.
-
-◼️
-
-[Data](articles/34cd6fe6.json)
-
-[Extended Data](ext_articles/34cd6fe6.ext.json)
 
 ---

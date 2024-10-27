@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 08:04:44**
+As of **2024-10-27 08:47:29**
 
 ## Newspaper Stats
 
-*Scraped **51,562** Articles*
+*Scraped **51,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,133 @@ islandlk | 3,068
 economynextcom | 3,143
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,789
+adalk | 4,790
 adaderanalk | 6,104
-tamilmirrorlk | 7,124
+tamilmirrorlk | 7,128
 virakesarilk | 8,297
-adaderanasinhalalk | 8,966
+adaderanasinhalalk | 8,968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,557 (100.0%) of 51,562 articles have been extended.
+51,564 (100.0%) of 51,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### கைக்குண்டுகள் மீட்பு
+
+*2024-10-27 08:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைக்குண்டுகள்-மீட்பு/175-346089) · `ta`
+
+போர் காரணமாக பாவனையின்றி காணப்பட்ட காணியின் கிணற்றில் இருந்து அதிகளவான கைக்குண்டுகள் மீட்கப்பட்டுள்ளன.
+
+யாழ். பருத்தித்துறை துறைமுகத்தை அண்டிய எரிபொருள் நிரப்பு நிலையத்துக்குப் பின்புறமாக இருந்த குறித்த காணியின் பாவனையற்ற கிணற்றைத் துப்பரவு செய்யும்போது இந்தக் கைக்குண்டுகள் மீட்கப்பட்டுள்ளன. நேற்று சனிக்கிழமை காலை இந்தக் கைக்குண்டுகள் மீட்கப்பட்டுள்ளன.
+
+போர் காரணமாக 35 வருடங்களாகப் பாவனையற்றிருந்த காணியில் இருந்த கிணற்றைத் துப்பரவு செய்யும்போதே இந்தக் குண்டுகள் மீட்கப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/fa7aea74.json)
+
+---
+
+### Northern train from jourcing back tomorrow
+
+*2024-10-27 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202606) · `si`
+
+Colombo-Fort to Kankasanthurai train service starts tomorrow. Northern Railway line commences after Mahawa-Anuradhapura line ends. Public safety at railway crossings emphasized.
+
+🟩
+
+The train services from the Colombo-Fort to Kankasanthurai will commence tomorrow (28).
+
+The department stated that with the end of the railway line between Mahawa and Anuradhapura, the Northern Railway line has decided to commence.
+
+The Railways Department announced that the public who use railway crossings should be taken care of the public.
+
+The Railway Department announced its racing on the Northern railway line,
+
+◼️
+
+[Data](articles/b71de48a.json)
+
+[Extended Data](ext_articles/b71de48a.ext.json)
+
+---
+
+### Distribution of official ballot papers of parliamentary elections will be distributed today
+
+*2024-10-27 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202605) · `si`
+
+Sri Lanka: Official ballot papers distribution starts Nov 7th. Postal service announces special delivery dates for certain areas.
+
+🟩
+
+The distribution of official votes related to the parliamentary election will commence from today (27), said the Department of Posts.
+
+ඒ අනුව නොවැම්බර් මස 07 වනදා දක්වා නිවෙස් වෙත ගොස් නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදීමේ කටයුතු සිදුකරන බව නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා සදහන් කළේය.
+
+The Postcaster said that the house of domestic notice has not yet been received so that there is not distribution in the district today.
+
+The postal Rajitha Ranasinghe said that he will be a special division date for Nandipa, 28 to 6 pm.
+
+◼️
+
+[Data](articles/04ad994b.json)
+
+[Extended Data](ext_articles/04ad994b.ext.json)
+
+---
+
+### Luxury car at Lohan's wife's house
+
+*2024-10-27 07:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லோஹானின்-மனைவி-வீட்டில்-அதி-சொகுசு-கார்/175-346088) · `ta`
+
+Luxury car found at Ratwatta's home, no license plate. Former Minister's wife linked to vehicle. Police investigation ongoing.
+
+🟩
+
+The police headquarters have received information that there is a luxury car that has no digit plates in a three -storey house located on the Mirihana -Embuldena Mandapam road belonging to Ratwatta, the wife of former Secretary of State Lohan Ratwatta.
+
+Accordingly, the Mirihana police announced the facts at the Nugegoda Magistrate's Court and went to the house yesterday and checked the vehicle.
+
+According to the report, the mother of the former minister's wife, Ratwatte's exclusive secretary, who was shot dead in Katugastota area a few days ago, brought the car to Garaj 3 weeks ago.
+
+The luxury car without registration digits and keys has been handed over to the Mirihana police today (26).
+
+The state inspector will be tested today (27) and further investigations will be carried out.R
+
+◼️
+
+[Data](articles/2af1550f.json)
+
+[Extended Data](ext_articles/2af1550f.ext.json)
+
+---
+
+### 75 millimeters of rain in some parts of the country
+
+*2024-10-27 07:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-75-மில்லி-மீற்றர்-மழை/175-346087) · `ta`
+
+Heavy rain warning issued for Western, Sabaragamuwa, and North Western provinces. Up to 75mm expected in some areas. Thunderstorms possible in Galle, Matara, and Mannar districts.
+
+🟩
+
+The Department of Meteorology has forecast rainfall in many parts of the country today.
+
+It is possible to occasionally rain or thunderstorms in the Galle, Matara and Mannar districts.
+
+The Department of Meteorology has said that it is possible to record up to 75 millimeters of rainfall in some parts of the Western, Sabaragamuwa and North Western provinces.. (A)
+
+◼️
+
+[Data](articles/ef64a5b2.json)
+
+[Extended Data](ext_articles/ef64a5b2.ext.json)
+
+---
 
 ### Risana downturn arrested
 
@@ -147,6 +259,28 @@ To answer that question, it is necessary to go back in time.
 [Data](articles/8285ae99.json)
 
 [Extended Data](ext_articles/8285ae99.ext.json)
+
+---
+
+### Attack on supporters of the Tamil People's Alliance
+
+*2024-10-27 01:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்கள்-கூட்டணியின்-ஆதரவாளர்கள்-மீது-தாக்குதல்/175-346086) · `ta`
+
+TNA supporters attacked in Karandan, Jaffna; 3 injured hospitalized.
+
+🟩
+
+Supporters of the Tamil People's Alliance (TNA) have been attacked in the Karandan area of ​​the Jaffna and Kopay police division yesterday evening.
+
+A group of four people in Otto attacked the Tamil People's Alliance (TNA) in Karandan yesterday evening.
+
+A woman and two men who were injured in the attack have been admitted to the Jaffna Teaching Hospital for treatment.. (A)
+
+◼️
+
+[Data](articles/b355ccdc.json)
+
+[Extended Data](ext_articles/b355ccdc.ext.json)
 
 ---
 
@@ -806,6 +940,34 @@ How can this election in less than 20 days in less than 20 days to hold general 
 
 ---
 
+### 12 334555677899989994999499494467897897979794405
+
+*2024-10-26 18:22:15* · [`adalk`](https://www.ada.lk/breaking_news/12-334455677788899889945-6123234667789794405/11-412691) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Village admin announces abuse case involving 14yo girl at SOS Children's Village. Prioritizing her physical and mental well-being. Incident occurred Jan 2023 during dhamma school event. Girl hospitalized; authorities involved.
+
+🟩
+
+The administration of the village issues announcement in the village of abuse of a 14-year-old girl in the back of the SOS Children's Village.
+
+At the moment, it is the priority of the village to ensure the girl's physical and mental wellbeing.
+
+The girl was admitted to the incident in January 2023, while the interrogated temple was located near the questionable temple, was directed to the dhamma school competition to conduct before her.. The unfortunate incident had taken place that the girl was attending her mother.
+
+As soon as the incident, we were able to hospitalize our company and its management to hospital with all the kind she needed. The hospital staff is underway, and we are committed to all government agencies, including the police and court.
+
+◼️
+
+[Data](articles/f9ede1a0.json)
+
+[Extended Data](ext_articles/f9ede1a0.ext.json)
+
+---
+
 ### President tells Europe that ensured tourist protection
 
 *2024-10-26 18:14:58* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරකයන්ගේ-ආරක්ෂාව-තහවුරු-කර-ඇති-අයුරු-ජනපති-යුරෝපයට-කියයි/11-412690) · `si`
@@ -1257,6 +1419,8 @@ At the lunch, ladies got into the act. “You look like a pink rose,” said one
 ...
 
 [Data](articles/79d203b3.json)
+
+[Extended Data](ext_articles/79d203b3.ext.json)
 
 ---
 
@@ -2297,161 +2461,5 @@ Meanwhile, Iran says its air defense system successfully countered Israel’s at
 [Data](articles/2f34ff5d.json)
 
 [Extended Data](ext_articles/2f34ff5d.ext.json)
-
----
-
-### Elections Commission of Elections
-
-*2024-10-26 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197130) · `ta`
-
-Elpitiya Pradeshiya Sabha elections in Galle District today. 8 political parties, 1 independent group contesting. Postal voting completed. Voter ID process changed due to COVID-19.
-
-🟩
-
-Galle District Elpitiya Pradeshiya Sabha elections will be held today (Saturday). அங்கீகரிக்கப்பட்ட 8 அரசியல் கட்சிகள், 1 சுயேட்சை குழுக்கள் என்ற அடிப்படையில் வேட்பாளர்கள் போட்டியிடுகின்றனர்.
-
-சுதந்திரமானதும், நியாயமானதுமான தேர்தலை நடத்துவதற்கு அனைவரும் ஒத்துழைப்பு வழங்க வேண்டும் என தேர்தல்கள் ஆணைக்குழு வலியுறுத்தியுள்து. எல்பிட்டிய தேர்தல் தொகுதியை அண்மித்த பகுதியில் பொதுத்தேர்தலை இலக்காகக் கொண்டு தேர்தல் பிரச்சார நடவடிக்கையில் ஈடுபடுவது முற்றாக தடை செய்யப்பட்டுள்ளது.
-
-அரசியலமைப்பின் பிரகாரம் பதவி காலம் நிறைவடைந்துள்ள உள்ளூராட்சி மன்றத் தேர்தலை வெகுவிரைவில் நடத்துமாறு உயர்நீதிமன்றம் தேர்தல்கள் ஆணைக்குழுவுக்கு உத்தரவு பிறப்பித்துள்ளது. ஜனாதிபதித் தேர்தலை நிறைவு செய்ததன் பின்னர் உள்ளூராட்சி மன்றத் தேர்தலை நடத்துவதற்கு தேர்தல்கள் ஆணைக்குழு உத்தேசித்திருந்த நிலையில் பாராளுமன்றத்தை கலைத்து பொதுத்தேர்தலை நடத்துவதற்கான அதிவிசேட வர்த்தமானியை ஜனாதிபதி கடந்த மாதம்  வெளியிட்டிருந்தார்.
-
-...
-
-[Data](articles/0df397ed.json)
-
-[Extended Data](ext_articles/0df397ed.ext.json)
-
----
-
-### Israel
-
-*2024-10-26 09:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரான்-மீது-குண்டுமழை-பொழிந்த-இஸ்ரேல்/50-346066) · `ta`
-
-Israel-Iran conflict escalates: Missile attacks, retaliation, and rising tensions in the Middle East.
-
-🟩
-
-Ballistic missile attack on Israel on behalf of Iran on the 1st. The attack has been retaliated today.
-
-Accordingly, Missiles are launching missiles on military targets in Iran's capital Tekran and Karaj cities on behalf of Israel.. This has increased the tension between Israel and Iran in the Middle East.
-
-Israel launched war operations last year against the Hamas organization operating in Gaza in Palestine. Hamas is the Iran -backed organization. Iran was strongly opposed to this. Iran and Israel launched an attack by Hizbullah, a supporting organization in Lebanon, which is sharing the border with Israel.
-
-This caused headaches to Israel. However, Israel continues to attack Hizbullah in the midst of the war on Gaza. The Israeli airspace has killed key leaders and commanders of Hamas and Hizbullah.
-
-Iran, which went to the summit of anger, launched an air strike on Israel on the 1st. Iran launched an attack on Israel from its country with about 185 missiles.
-
-...
-
-[Data](articles/e614a00c.json)
-
-[Extended Data](ext_articles/e614a00c.ext.json)
-
----
-
-### Air attacks on Iran completed;Israeli army
-
-*2024-10-26 09:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197135) · `ta`
-
-Israel completes air strikes on Iran military bases. Attacks successful, aircraft return safely.
-
-🟩
-
-The Israeli Security Forces have said that heavy attacks on Iranian military bases have been completed.
-
-The precise attack carried out by Israeli security forces targeting Iran's military bases has been completed a while ago. It is reported that our flights have returned safely.
-
-◼️
-
-[Data](articles/d0a0a501.json)
-
-[Extended Data](ext_articles/d0a0a501.ext.json)
-
----
-
-### Continuing security for tourist destinations
-
-*2024-10-26 08:57:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாத்தலங்களுக்கு-தொடர்ந்தும்-பாதுகாப்பு/175-346065) · `ta`
-
-Security measures implemented at tourist hotspots: Police, military personnel, and officials stationed at popular locations like Augkampai, Hikkaduwa, Weligama, Mirissa, and Dikwella.
-
-🟩
-
-Police, Special Task Force, Army Officers, Air Force and Marines have been deployed for this purpose.
-
-Officials have been deployed at tourist destinations including Augkampai, Hikkaduwa, Weligama, Mirissa and Dikwella. (A)
-
-◼️
-
-[Data](articles/46ea1640.json)
-
-[Extended Data](ext_articles/46ea1640.ext.json)
-
----
-
-### President is a gazetted armed armed armed armed armed armed forces
-
-*2024-10-26 08:55:13* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-ආරක්ෂාවට-සන්නද්ධ-හමුදා-කැඳවමින්-ජනපතිගෙන්-අති-විශේෂ-ගැසට්ටුවක්/11-412688) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake has deployed armed forces under the Sri Lanka Navy and Air Force to maintain public order across the country. This move aims to address potential unrest in various administrative districts. The deployment is set to begin on March 27th.
-
-🟩
-
-President Anura Kumara Dissanayake has issued an armed forces called to maintain public peace in all the administrative districts of the country.
-
-The President released the Extent Gazette notification that included the law of the Sri Lanka Navy and all members of the Sri Lanka Air Force (SLAF) with the operation of tomorrow (27).
-
-The armed forces have been summoned to maintain public order in all the administrative districts of the island and allied districts in all the administrative districts of the island and allied local waterholders.
-
-◼️
-
-[Data](articles/cd612f22.json)
-
-[Extended Data](ext_articles/cd612f22.ext.json)
-
----
-
-### Sri Lanka banking system risk perceptions improve in 2024, though still negative
-
-*2024-10-26 08:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-risk-perceptions-improve-in-2024-though-still-negative-184965/) · `en`
-
-ECONOMYNEXT – Confidence in Sri Lanka’s banking system has started to improve steadily after plunging in 2022, according to a survey conducted among respondents in banking, insurance, finance companies, stock brokering and unit trusts.
-
-The Systemic Risk Survey (SRS) has been conducted every six months by the Central Bank since 2017 has shown an improvement in perceptions.
-
-“As a result, a substantial proportion of respondents expressed ‘fairly confident’ or better outlook reflecting their improved confidence towards financial system stability,” a Financial Stability Review by the central bank said.
-
-“Although the net percentage balance increased, it remained in the negative territory.”
-
-The net percentage balance is calculated by weighing 1 for ‘completely confident’, 0.5 for ‘very confident’, 0 for ‘fairly confident’, -0.5 for ‘not very confident’ and -1 for ‘not confident’ responses.
-
-...
-
-[Data](articles/2a11c3d7.json)
-
-[Extended Data](ext_articles/2a11c3d7.ext.json)
-
----
-
-### Voter Card for General Elections from Tomorrow - Elections Commission
-
-*2024-10-26 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197134) · `ta`
-
-Election Commission distributes voter cards via post starting Sunday. General election on Nov 14 with 5,464 approved candidates and 8,821 independent committee candidates. Postal voting on Nov 30; alternative dates Nov 7-8 for missed polls.
-
-🟩
-
-Official voter cards for the general election will be distributed by post tomorrow (Sunday). Voter card distribution work will be completed by 7th November.
-
-The general election is scheduled for November 14 (Thursday). The Election Commission has completed all the tasks for the referendum. Accordingly, there are 5,464 candidates on behalf of the approval of this year and 8821 candidates on behalf of the Independent Committees.
-
-Accordingly, the Elections Commission has handed over the official voter cards to the Postal Department today (26). All the postal servants' holidays have been canceled till the date of the general election as the voter card is distributed by post tomorrow (Sunday). The official voter card will be distributed by post tomorrow to the 7th of November.
-
-With 759,210 applications received for postal voting in this general election, 2,1160 applications have been rejected and 738,050 government officials have qualified for postal voting.
-
-...
-
-[Data](articles/c047c26f.json)
-
-[Extended Data](ext_articles/c047c26f.ext.json)
 
 ---

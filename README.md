@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 01:39:52**
+As of **2024-10-28 01:58:53**
 
 ## Newspaper Stats
 
-*Scraped **51,704** Articles*
+*Scraped **51,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 523
 bbccomsinhala | 524
 islandlk | 3,068
 economynextcom | 3,146
-dailyftlk | 3,525
+dailyftlk | 3,526
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,702 (100.0%) of 51,704 articles have been extended.
+51,703 (100.0%) of 51,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Child’s guide to critics of IMF’s Debt Sustainability Analysis
+
+*2024-10-28 01:22:15* · [`dailyftlk`](https://www.ft.lk/columns/Child-s-guide-to-critics-of-IMF-s-Debt-Sustainability-Analysis/4-768470) · `en`
+
+Sri Lanka’s external public debt had been classified as unsustainable long before the country had to announce that it would suspend debt servicing for bilateral and commercial creditors in April 2022. According to IMF rules, it cannot lend to a country whose debt is not sustainable now or whose future sustainability is high risk. If it provides any financing to a country, it is linked to the restructuring of debt owed to commercial and official bilateral creditors. DSF will give the amount of debt relief needed by the country which is required to restructure its debt from these two sources
+
+...
+
+[Data](articles/a9f188cc.json)
+
+[Extended Data](ext_articles/a9f188cc.ext.json)
+
+---
 
 ### “Non-alignment” and Sri Lanka’s foreign policy dilemma
 
@@ -2371,29 +2385,5 @@ The majority of the Muslims here in the city of Pottuvil near Arukamguda. The ci
 [Data](articles/96008b91.json)
 
 [Extended Data](ext_articles/96008b91.ext.json)
-
----
-
-### Navy seized an Indian fisherne vessel that violated Sri Lankan maritime boundary
-
-*2024-10-27 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202611) · `si`
-
-Sri Lanka Navy seizes Indian fishing vessel near Point Pedro, detains 12 fishermen. Vessel and crew taken to Kankasanthurai port. Operation part of ongoing efforts since 2024, totaling 462 detained Indian fishermen.
-
-🟩
-
-Navy has taken a fishing vessel including 12 Indian fishermen who were fishing in violation of the country.
-
-It was during a search operation conducted in the coast of Point Pedro today (27).
-
-The fishermen and the vessels taken into custody have been taken to the Port of the Kankasanthurai and the Jaffna, Miloyi Fisheries Office has been handed over to Jaffna.
-
-The operations carried out extended from the year 2024 have been taken into custody and 462 Indian fishermen have been taken into custody.
-
-◼️
-
-[Data](articles/53878e44.json)
-
-[Extended Data](ext_articles/53878e44.ext.json)
 
 ---

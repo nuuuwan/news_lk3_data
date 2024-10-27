@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 01:58:53**
+As of **2024-10-28 02:11:33**
 
 ## Newspaper Stats
 
-*Scraped **51,705** Articles*
+*Scraped **51,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,85 @@ colombotelegraphcom | 523
 bbccomsinhala | 524
 islandlk | 3,068
 economynextcom | 3,146
-dailyftlk | 3,526
+dailyftlk | 3,527
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
-tamilmirrorlk | 7,150
-virakesarilk | 8,342
+tamilmirrorlk | 7,151
+virakesarilk | 8,345
 adaderanasinhalalk | 8,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,703 (100.0%) of 51,705 articles have been extended.
+51,706 (100.0%) of 51,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### ’எல்பிட்டியவில் சேதி சொல்லப்பட்டுள்ளது’
+
+*2024-10-28 01:50:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டியவில்-சேதி-சொல்லப்பட்டுள்ளது/175-346152) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former Minister Rizad Bathiudeen claims Elpitiya election results show President's party can't rule alone. He urges Tamil-speaking people to support capable candidates who can represent minorities effectively.
+
+🟩
+
+Former minister and Wannimavatta candidate Rizad Bathiudeen said that the results of the Elpitiya elections have been told that the president's party cannot rule alone and that there is only a leader who can speak for the minority people.
+
+He was speaking to the media at an election campaign meeting in Vavuniya.
+
+Elpitiya Pradeshiya Sabha election results have made a message to the country. அதாவது கடந்த ஜனாதிபதி தேர்தலில் அநுரகுமார 42 சதவீதமான வாக்குகளை பெற்றிருந்தார். அந்தவகையில் 58 சதவீதமான வாக்குகள் அவருக்கு எதிராக இருந்தது.
+
+ஜனாதிபதி தேர்தலின் பிறகு உடனடயாக ஒரு தேர்தல் நடக்குமாக இருந்தால் வாக்குகள் அதிகரிப்பதுவே வழமை. ஆனால் அவ்வாறு எதுவும் நடைபெறவில்லை என்ற செய்தியை எல்பிட்டிய தேர்தல் நாட்டுமக்களுக்கு சொல்லியிருக்கின்றது.
+
+According to the election results, the news that the president's party cannot rule alone. The votes are decreasing every day.
+
+...
+
+[Data](articles/6a59d519.json)
+
+[Extended Data](ext_articles/6a59d519.ext.json)
+
+---
+
+### Navigating tax reforms: Immediate measures
+
+*2024-10-28 01:38:01* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-tax-reforms-Immediate-measures/4-768472) · `en`
+
+The abolition of the SVAT will adversely affect exporters, among others, negatively impacting Sri Lanka’s efforts to attract foreign currency
+
+The greatest challenge for policymakers and tax administrators is to establish a robust, corruption-free refund mechanism. For over 25 years, Sri Lanka has struggled to implement efficient tax refund mechanisms for both VAT and income tax. The new Government must address these issues before proceeding with the abolition of SVAT
+
+...
+
+[Data](articles/ae6dfb78.json)
+
+---
+
+### ஒற்றையாட்சியை நிராகரிக்கும் ஒரே அணியாக எமது தமிழ் தேசிய மக்கள் முன்னனி உள்ளது - கஜேந்திரகுமார் பொன்னம்பலம்
+
+*2024-10-28 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197287) · `ta`
+
+ஒற்றையாட்சி அரசியலமைப்பை நாங்கள் நிராகரிப்பதாக இருந்தால் அதை நிராகரிக்கக் கூடிய, செயல்படுத்தக்கூடிய ஒரு அணியாக  தமிழ் தேசிய மக்கள் முன்னணி உள்ளது என அக்கட்சியின் தலைவர் கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்தார்.
+
+தமிழ் தேசிய மக்கள் முன்னணியின் வன்னி மாவட்ட வேட்பாளர்கள் அறிமுக கூட்டம் ஞாயிற்றுக்கிழமை (27) மாலை 4.30 மணியளவில் மன்னார் நகரசபை மண்டபத்தில் இடம்பெற்றது.
+
+நாட்டில் இடம்பெற்ற யுத்தம் முடிவடைந்து 15 வருடங்கள் கடக்கின்றது.இந்த 15 வருடங்களில் எமது மக்கள் பாதிக்கப்பட்டு உள்ளனர்.வடக்கு கிழக்கில் பாதிக்கப்பட்ட மக்கள் நாளாந்தம் போராட்டங்களை முன்னெடுத்து வருகின்றனர்.
+
+இவர்களின் ஒரு போராட்டத்திலாவது ஜே.வி.பி கலந்து கொண்டுள்ளதா?.வடக்கு கிழக்கில் காணாமல் ஆக்கப்பட்டவர்களின் போராட்டம் இடம்பெற்று வருகின்றது.அரசியல் கைதிகளின் விடுதலைக்காக போராட்டம் இடம்பெற்று வருகின்றது.
+
+...
+
+[Data](articles/2bee568b.json)
+
+---
 
 ### Child’s guide to critics of IMF’s Debt Sustainability Analysis
 
@@ -43,6 +105,20 @@ Sri Lanka’s external public debt had been classified as unsustainable long bef
 [Data](articles/a9f188cc.json)
 
 [Extended Data](ext_articles/a9f188cc.ext.json)
+
+---
+
+### புதிய ஜனாதிபதி நாட்டை பற்றி பேசினாலும் மலையக மக்கள் பற்றி கதைப்பதில்லை - வேட்பாளர் எம்.ராமேஷ்வரன்
+
+*2024-10-28 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197286) · `ta`
+
+நவம்பர் 14 ஆம் திகதிக்கு பிறகு பல சுயேச்சைக்குழுக்கள் காணாமல் போய்விடும். எனவே, சுயேச்சைக்குழுக்களை நம்பி இருக்கின்ற தமிழ்ப் பிரதிநிதித்துவத்தை இழந்துவிடக்கூடாது. காங்கிரஸ் உறுப்பினர்கள் நாடாளுமன்றத்தில் இருந்தால்தான் மலையக மக்களின் அரசியல், பொருளாதார மற்றும் சமூக உரிமைகள் பாதுகாக்கப்படும். அவர்களுக்காக குரல் எழுப்பப்படும் என்று இ.தொ.காவின் தவிசாளரும், நுவரெலியா மாவட்ட நாடாளுமன்ற தேர்தல் வேட்பாளருமான மருதபாண்டி ராமேஸ்வரன் தெரிவித்தார்.
+
+பூண்டுலோயா, கைப்புகலை உள்ளிட்ட பகுதிகளில் ஞாயிற்றுக்கிழமை (27) நடைபெற்ற தேர்தல் பிரசாரக் கூட்டத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே அவர் இவ்வாறு கூறினார். இது தொடர்பில் அவர் மேலும் கூறியவை வருமாறு,
+
+...
+
+[Data](articles/4539ae75.json)
 
 ---
 
@@ -82,6 +158,22 @@ It is little over one year since Hamas fired those deadly rockets on Israel as a
 
 ---
 
+### கொழும்பு கோட்டை – காங்கேசன்துறை புகையிரத சேவை இன்று முதல் புகையிரத குறுக்கு வீதிகளை பயன்படுத்துவோர் அவதானமாக செயற்பட வேண்டும் - புகையிரத திணைக்களம்
+
+*2024-10-28 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197285) · `ta`
+
+கொழும்பு கோட்டை – காங்கேசன்துறை புகையிரத சேவை திங்கட்கிழமை (28) முதல் ஆரம்பமாகவுள்ளது. வடக்கு புகையிரத சேவை இன்று முதல் வழமைக்கு திரும்பியுள்ள நிலையில் புகையிரத குறுக்கு வீதிகளை பயன்படுத்தும் பொதுமக்கள் மிகவும் அவதானத்துடன் புகையிரத திணைக்களம் வலியுறுத்தியுள்ளது.
+
+இந்திய நிதியுதவியுடன் மஹவ- ஓமந்தை புகையிரத பாதை புனரமைப்பு கருத்திட்டம் 2019.11.29 ஆம் திகதி ஆரம்பமானது. கட்டம் கட்டமாக அபிவிருத்தி பணிகள் முன்னெடுக்கப்பட்ட நிலையில் இந்த ஆண்டு முதல் காலப்பகுதியில் அபிவிருத்தி பணிகளுக்காக கோட்டை – காங்கேசன்துறை புகையிரத சேவை தற்காலிகமாக இடைநிறுத்தப்பட்டது.
+
+அபிவிருத்தி பணிகள் நிறைவடைந்துள்ள நிலையில் கொழும்பு கோட்டை  காங்கேசன்துறை புகையிரத சேவை இன்று திங்கட்கிழமை முதல் ஆரம்பமாகவுள்ளது. வடக்கு புகையிரத சேவை இன்று முதல் வழமைக்கு திரும்பியுள்ள நிலையில் புகையிரத குறுக்கு வீதிகளை பயன்படுத்தும் பொது மக்கள் மிகவும் அவதானத்துடன் புகையிரத திணைக்களம் வலியுறுத்தியுள்ளது.
+
+...
+
+[Data](articles/50c751f0.json)
+
+---
+
 ### Pareto Analysis of the Jana Balawegaya force
 
 *2024-10-28 00:47:17* · [`dailyftlk`](https://www.ft.lk/columns/Pareto-Analysis-of-the-Jana-Balawegaya-force/4-768467) · `en`
@@ -110,23 +202,39 @@ In his election manifesto, as well as in his election campaign, President Anura 
 
 [Data](articles/74607cc8.json)
 
+[Extended Data](ext_articles/74607cc8.ext.json)
+
 ---
 
-### ’கணிப்புகள் எல்லாம் பிழைத்து விட்டன’
+### All the forecasts have survived
 
 *2024-10-28 00:13:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணிப்புகள்-எல்லாம்-பிழைத்து-விட்டன/175-346151) · `ta`
 
-ஜனாதிபதி அனுரவின் அணுகுமுறையிலும் செயற்பாட்டிலும் மாற்றம் ஏற்பட்டுள்ளது. அதனை பொறுத்திருந்து பார்க்கவேண்டும் என்று முன்னாள் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-வவுனியாவிற்கு ஞாயிற்றுக்கிழமை (27)  விஜயம் செய்தவர் காத்தார்சின்னக்குளம் பகுதியில் உள்ள கட்சியின் தேர்தல் அலுவலகம் ஒன்றை திறந்துவைத்திருந்தார்.
 
-அதன்பின்னர் இடம்பெற்ற ஊடகவியலாளர் சந்தப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
 
-தேசிய நல்லிணக்கம் ஊடாகவே எமது மக்களின் பிரச்சினைகளை தீர்க்க முடியும். புதிய பாராளுமன்றத்தில் கூடிய ஆசனங்களை பெறுவதன் மூலம் ஆட்சி அமைப்பவர்களுடன் நாங்களும் பங்குகொள்வதன் ஊடாக மத்தியில் கூட்டாட்சி மாநிலத்தில் சுயாட்சி என்ற எமது அரசியல் இலக்கை அடைவதற்காக அத்திசையை நோக்கி பயணிக்கலாம் என்ற வகையில் பத்து மாவட்டங்களில் இம்முறை போட்டியிடுகின்றோம்.
+Former Minister Douglas Devananda discusses changes in President Anura's attitude and actions. He mentions opening an election office in Vavuniya and contesting in ten districts for autonomy. The president congratulates their party on potential seat gains. National People's Power claims a parliamentary majority.
+
+🟩
+
+Changes in the attitude and action of President Anura. Former Minister Douglas Devananda said it should be seen.
+
+A visit to Vavuniya on Sunday (27) had opened a party election office in Katharsinakulam area.
+
+He said this while attending the journalist chanting.
+
+Through national reconciliation can solve the problems of our people. We are contesting this time in ten districts to travel to the Aththala to achieve our political goal of autonomy in the federal state by gaining seats in the new parliament.
+
+It is our goal to get four or five seats through this.So far I have met eight presidents.But, he is younger than me. There seems to be a good change in his approach and activity. However, we have to see it.
+
+We have put forward the political rights issue of the people of the North and East.
 
 ...
 
 [Data](articles/93917170.json)
+
+[Extended Data](ext_articles/93917170.ext.json)
 
 ---
 
@@ -2249,141 +2357,5 @@ According to the police, the driver has been arrested and is to be produced befo
 [Data](articles/72d36187.json)
 
 [Extended Data](ext_articles/72d36187.ext.json)
-
----
-
-### British police trial to cook at home
-
-*2024-10-27 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/197229) · `ta`
-
-British police investigate harassment claim at Sri Lanka High Commissioner's residence. Chef lodges complaint, police visit but don't enter due to diplomatic reasons.
-
-🟩
-
-British police are investigating reports that an employee has been harassed at the official residence of Sri Lanka's High Commissioner to Britain, Rohitapokollagama.
-
-A chef at the house of the High Commission has lodged a complaint with the British police through his friend.
-
-Police went to the house and are investigating the report that someone was going to commit suicide.
-
-Diplomatic sources said that the police did not go into the house due to diplomacy.
-
-◼️
-
-[Data](articles/47d554af.json)
-
-[Extended Data](ext_articles/47d554af.ext.json)
-
----
-
-### 12 Naga fishermen
-
-*2024-10-27 12:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாகை-மீனவர்கள்-12-பேர்-சிறைப்பிடிப்பு/175-346102) · `ta`
-
-Sri Lankan navy arrests 12 Tamil Nadu fishermen at gunpoint for alleged border crossing. Fishermen taken to court, imprisoned. Incident causes stir in Naga.
-
-🟩
-
-Sri Lankan navy has arrested 12 Tamil Nadu fishermen at gunpoint for allegedly crossing the border.
-
-12 fishermen, including Kuna, Senjivel, Venkatesan, Chinna up, Karthi and Raghu, went to the sea on Saturday (26) in a fishing vessel belonging to Silambus Selvan, a resident of Akkaraipettai, Nagapattinam district.. They were fishing 40 nautical miles southeast of midnight Kodiyakkara.
-
-The Sri Lankan navy patrols there at the gunpoint for allegedly fishing at 12 Naga fishermen. Following this, the 12 arrested were taken to the Mayilatti fishing port and the fishermen were handed over to the Jaffna Fisheries Department with the boat.
-
-They were produced before the Point Pedro Court in the evening. They were imprisoned according to court order. The arrest of 12 Naga fishermen for fishing across the border has caused a stir and shock in Naga.
-
-◼️
-
-[Data](articles/c77a7b4d.json)
-
-[Extended Data](ext_articles/c77a7b4d.ext.json)
-
----
-
-### Shastra
-
-*2024-10-27 11:58:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயக்கி-கைவரிசையை-காட்டிய-சாஸ்திர-காரி/175-346101) · `ta`
-
-A woman stole jewelry worth ₹20 lakh from a house in Mannar while accompanying a man collecting temple funds. She distracted the householders by showing them a sacred text called Shastra. The theft occurred around 9:30 AM on Friday. A police complaint was filed at the Murugan Police Station.
-
-🟩
-
-The incident took place at around 9.30 am on Friday (25) at around 9.30 am, where a woman who went with a boy in a house in Mannar Nanattan Nanattan had stolen a thalikai (jewelery) worth about Rs 20 lakh.
-
-The girl who went with the boy in the house said that he had come to collect funds for the temple. The householder asked for water to drink. After giving water to the drink, he said that he was looking at the Shastra and forcibly looked at the two men at home.
-
-During this time, the woman had taken the thalik flag worth about Rs 20 lakhs worn by a woman in the house to lose his self -memory.
-
-Subsequently, the victims have lodged a complaint at the Murugan Police Station regarding the incident.
-
-Meanwhile, the CCTV video party that went by the road with the boy is suspected.
-
-◼️
-
-[Data](articles/fcb06dc4.json)
-
-[Extended Data](ext_articles/fcb06dc4.ext.json)
-
----
-
-### One person arrested with ice drugs in Katunayake
-
-*2024-10-27 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/197213) · `ta`
-
-Sri Lanka: Ice drug arrest at Katunayake airport. 51-year-old man caught bringing drugs from Malaysia. Two accomplices, 36 and 33, arrested. Police investigation ongoing.
-
-🟩
-
-A man who brought ice drugs from Malaysia to Sri Lanka was arrested at the Katunayake airport arrival premises and two more people who came to the airport to take him to the airport.
-
-The trio were arrested on Saturday (26) during a raid carried out by a group of police officers of the Police Drug Prevention Unit.
-
-The person arrested with ice drugs is from Kotaduwa, aged 51.
-
-Subsequently, two men, a car driver and another woman who was waiting to take the suspect from the Katunayake airport from Malaysia, have been arrested by the police.
-
-Both are 36 and 33 years old from Vapota and Wadhua areas.
-
-Further investigations are being carried out by the Police Drug Eradication Unit.
-
-◼️
-
-[Data](articles/8cc837ed.json)
-
-[Extended Data](ext_articles/8cc837ed.ext.json)
-
----
-
-### Planning to attack at Manugam Kuttai between 19 - 24
-
-*2024-10-27 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/197215) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Planned attack at Manugam Kuttai foiled; suspects fled abroad. Intelligence suggests assault on Israeli tourists. Aim: Protest Gaza-Lebanon conflict. Investigation ongoing. Fears of similar attacks in southern coastal cities.
-
-🟩
-
-The Sunday Times suspects have fled abroad, saying they planned to launch an attack in the Arukkuda between the 19th and the 24th of October.
-
-The police have prevented the huge danger of being massacred in their worship at the Israeli Tourists.
-
-The attack was planned on October 19 to 24, according to intelligence sources.
-
-Officials said investigations are underway on how far supported the attack was supported by a foreign attack.
-
-The aim of the heckwarm attack is to protest the Israeli attack in Gaza and Lebanon. Thousands of children, including boys in Gaza and Lebanon, were assassinated. Last year, the war began only after Hamas attacked Israel last year. More than 1200 people were killed in the attack.
-
-HexedThe attack on Muslim villages near the Kuda may have been the most dangerous result of the attack.
-
-The majority of the Muslims here in the city of Pottuvil near Arukamguda. The city is 3.8 miles away from the most popular coastal tourist destination.
-
-...
-
-[Data](articles/96008b91.json)
-
-[Extended Data](ext_articles/96008b91.ext.json)
 
 ---

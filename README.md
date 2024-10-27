@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 23:10:00**
+As of **2024-10-27 23:40:36**
 
 ## Newspaper Stats
 
-*Scraped **51,687** Articles*
+*Scraped **51,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,84 @@ dbsjeyarajcom | 412
 colombotelegraphcom | 523
 bbccomsinhala | 524
 islandlk | 3,068
-economynextcom | 3,144
+economynextcom | 3,146
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
 tamilmirrorlk | 7,148
-virakesarilk | 8,334
-adaderanasinhalalk | 8,990
+virakesarilk | 8,340
+adaderanasinhalalk | 8,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,687 (100.0%) of 51,687 articles have been extended.
+51,688 (100.0%) of 51,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### මෙරට වාර්ෂික සාමාන්‍ය පිළිකා මරණ ගණන 19,000 ඉක්මවයි
+
+*2024-10-27 23:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202629) · `si`
+
+Sri Lanka annual average cancer deaths exceed 19,000. Women more prone to breast cancer, men to oral cancer. Leukemia, lymphoma, brain, and bone cancers common. Approximately 35,000-40,000 cancer patients identified annually. Breast cancer risk increasing among women, affecting 26% of female cancer cases in 2023. Oral cancer affects 12.6% of male cancer patients in 2023. About 1,000 child cancer cases identified, mostly leukemia.
+
+🟩
+
+මෙරට කාන්තාවන් පියයුරු පිළිකාවට සහ පිරිමි පුද්ගලයන් මුඛ පිළිකාවට වැඩි වශයෙන් ගොදුරුවීමේ ප්‍රවණතාවක් පිළිකා රෝගී දත්තවලින් පෙන්නුම් කෙරෙන බව සෞඛ්‍ය අමාත්‍යංශය පවසයි.
+
+According to these reports, leukemia, lymphized luxury cancer, brain cancer and bone cancer have been victims of the victims.
+
+According to the Ministry of Health, between 35,000 and 40,000 cancer patients have been identified every year.
+
+කාන්තාවන් අතර වඩාත් වේගයෙන් ඉහළ යමින් පවතින්නේ පියයුරු පිළිකා අවදානම බව සඳහන් වේ.
+
+26% of the women's cancer patients reported in 2023 were owned by breast cancer category.
+
+Of the male cancer patients reported in 2023, 12.6% of the censorship patients reported.
+
+Approximately 1,000 child cancer patients have been identified as Liakemia, brattewated cancer, brave cancer, brave cancer, brave cancer, and dealership.
+
+◼️
+
+[Data](articles/78c153b8.json)
+
+[Extended Data](ext_articles/78c153b8.ext.json)
+
+---
+
+### மட்டக்களப்பில் இம்முறை இரண்டு   ஆசனங்களை கைப்பற்றுவோம் - எஸ். கணேசமூர்த்தி
+
+*2024-10-27 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197252) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின்   மட்டக்களப்பு மாவட்ட பிரதான அமைப்பாளர் மற்றும்   முதன்மை வேட்பாளர்   எஸ். கணேசமூர்த்தி  வீரகேசரிக்கு  விசேட செவ்வி
+
+◼️
+
+[Data](articles/61b72623.json)
+
+---
+
+### பிபிலையில் இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் இளைஞன் பலி ; ஒருவர் காயம்
+
+*2024-10-27 22:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197274) · `ta`
+
+பிபில பொலிஸ்  பிரிவுக்குட்பட்ட , பிபில மஹியங்கனை வீதியில் மோட்டார் சைக்கிள் வேகக்கட்டுப்பாட்டை இழந்து விபத்துக்குள்ளானதில் , இளைஞன் ஒருவன் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதுடன் மற்றையவர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+இவ் விபத்தில் , பதுலுஓயாவைச் சேர்ந்த 16 வயதுடைய இளைஞன் ஒருவன் உயிரிழந்துள்ளான்.
+
+பிபில மஹியங்கனை வீதியில் ரபர்வத்த பகுதியில் இருந்து மஹியங்கனை நோக்கி பயணித்த மோட்டார் சைக்கிள் கட்டுப்பாட்டை இழந்து வீதியை விட்டு விலகி ஒரு மேட்டில் மோதி விபத்துக்குள்ளானது.
+
+இந்த விபத்தில் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார். மற்றைய நபர் காயமடைந்து பிபில வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை வருவதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/eba701cd.json)
+
+---
 
 ### One killed, dozens injured in truck ramming at Israeli bus stop
 
@@ -51,6 +111,42 @@ The attack, in which a truck ran into a bus stop close to a military base, took 
 [Data](articles/5248ac30.json)
 
 [Extended Data](ext_articles/5248ac30.ext.json)
+
+---
+
+### நடப்பு சம்பியன் இலங்கையை வெற்றிகொண்டு தோல்வி அடையாத அணியாக சிங்கப்பூர் சம்பியனானது; மோசமான பந்துபரிமாற்றங்கள் இலங்கையின் தோல்விக்கு காரணமானது
+
+*2024-10-27 22:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197282) · `ta`
+
+இந்தியாவின் பெங்களூரு கோரமங்களா உள்ளக விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (27) நிறைவுக்கு வந்த 13ஆவது ஆசிய வலைபந்தாட்ட சம்பியன்ஷிப்பில் நடப்பு சம்பியன் இலங்கை இரண்டாம் இடத்தைப் பெற்றது.
+
+14 நாடுகள் பங்குபற்றிய இந்த சம்பியன்ஷிப்பில் தோல்வி அடையாத அணிகளாக இன்றைய இறுதிப் போட்டியில் இலங்கையும் சிங்கப்பூரும் விளையாடின.
+
+மேலதிக நேரம்வரை நீடித்த அப் போட்டியில் 67 - 64 என்ற கோல்கள் வித்தியாசத்தில் சிங்கப்பூர் வெற்றிபெற்று நான்காவது தடவையாக ஆசிய சம்பியன் பட்டத்தை சூடியது.
+
+போட்டியின் ஆரம்பத்திலும் பின்னர் நான்காவது பகுதியிலும் இறுதியாக மேலதிக நேரத்தின் இரண்டாவது பகுதியிலும்   இலங்கை வீராங்கனைகள் இழைத்த தவறுகள் தோல்விக்கு காரணமாக அமைந்தது.
+
+அத்துடன் விவேகத்திலும் பார்க்க வேகமாக விளையாடியது இலங்கையின் தோல்விக்கு மற்றொரு காரணமாக அமைந்தது.
+
+...
+
+[Data](articles/43fbee64.json)
+
+---
+
+### இஸ்ரேலில் இராணுவதளத்தின் அருகில் பொதுமக்கள் மீது மோதிய பேருந்து – ஒருவர் பலி
+
+*2024-10-27 22:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/197281) · `ta`
+
+இஸ்ரேலிய தலைநகரின் வடக்கில் உள்ள இராணுவதளமொன்றிற்கு அருகில் உள்ள பேருந்து நிலையத்தின் மீது வாகனமொன்று மோதியதில்  ஒருவர் கொல்லப்பட்டுள்ளதுடன் 30  பேர் காயமடைந்துள்ளனர்.
+
+பேருந்து நிலையத்தில் தரித்து நின்றவர்கள் மீது டிரக்கொன்று மோதியது காயமடைந்தவர்களில் எட்டு பேர் டிரக்கின் அடிப்பாகத்தில் சிக்கியவர்கள் என இஸ்ரேலிய அதிகாரிகள் தெரிவித்துள்ளனர்
+
+இது பயங்கரவாத தாக்குதல் என சந்தேகிப்பதாக தெரிவித்துள்ள அதிகாரிகள் ரமி நட்டுர் என்ற அராபிய இஸ்ரேலியரே இந்த பேருந்தினை செலுத்தினார் என  குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/1ce140e0.json)
 
 ---
 
@@ -220,6 +316,26 @@ According to a complaint lodged by the three police constables above, the suspec
 
 ---
 
+### ஶ்ரீ லங்கா பொதுஜன பெரமுன கட்சியிலிருந்து ம.பரமேஸ்வரன் நீக்கப்பட்டார்
+
+*2024-10-27 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197278) · `ta`
+
+ஶ்ரீ லங்கா பொதுஜன பெரமுன கட்சியின் பெயருக்குக் களங்கம் ஏற்படுத்தும் வகையில் சட்டவிரோத செயலில் ஈடுபட்டமையினால்  கட்சியின் அனைத்துப் பொறுப்புகளிலும் இருந்தும் கட்சியின் அடிப்படை உறுப்புறிமையிலிருந்து ம. பரமேஸ்வரன் (ஈசன்) நீக்கப்பட்டுள்ளார்.
+
+சட்டவிரோதமாக வெளிநாட்டுக்கு ஆட்களை அனுப்பி பணம் சேகரிக்கும் நடவடிக்கையில் ஈடுபட்டதாக கூறப்படும் ம. பரமேஸ்வரன்  என்பவர் கடந்த வாரம் கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த நபர் மீதான முறையான சட்ட நடவடிக்கைகள் மற்றும் விசாரணைகள் முடிவடைந்த பின்னர், அந்நபரை மீண்டும் கட்சியில் இணைத்துக்கொள்வதா இல்லையா என்பது குறித்து கட்சியின் மத்தியகுழு பரிசீலித்து அது தொடர்பான இறுதி முடிவு எடுக்கப்படும்.
+
+இத்தீர்மானம் சிறீ லங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்சவின் பணிப்புரையின் பேரில் எடுக்கப்பட்டுள்ளது.
+
+மேற்குறித்த நபரால் இதுவரையிலும் மேற்கொள்ளப்பட்ட மற்றும் இனிமேல் மேற்கொள்ளப்படும் எந்த நடவடிக்கைகளுக்கும் ஶ்ரீ லங்கா பொதுஜன பெரமுன பொறுப்பேற்காது.
+
+...
+
+[Data](articles/b683a2c1.json)
+
+---
+
 ### Rice Mall of Polonnaruwa
 
 *2024-10-27 19:26:03* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවේ-සහල්-මෝල්-පාරිභෝගික-නිලධාරීන්ගේ-පරීක්ෂාවට/11-412704) · `si`
@@ -245,6 +361,40 @@ The Consumer Service Authority of the 27th to the 27th to Dudley Sirisena, the P
 [Data](articles/5fff835a.json)
 
 [Extended Data](ext_articles/5fff835a.ext.json)
+
+---
+
+### The Anuragumara government does not last three months - Ranil
+
+*2024-10-27 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197266) · `ta`
+
+Ranil Wickremesinghe predicts Anura Kumara Dissanayake's government won't last three months. He claims lack of majority support and warns against short-term leadership.
+
+🟩
+
+I don't think this government will last for more than three months. Former President Ranil Wickremesinghe has said that three weeks will not last for three weeks.
+
+Former President Ranil Wickremesinghe, who has said that I have no majority.
+
+He said this at an election campaign meeting in Negombo
+
+The President has said that if I lose the election, the President has said that the majority does not vote, and I am not a majority of President Anura Kumaradisanayake, who is not a majority.
+
+One day I asked me if I was ready to be Prime Minister.
+
+He said that all would accept this, and then I accepted the challenge to meet the president.
+
+When the parliament was surrounded by the presidency of the time, there was no one, and now all who demanded leadership fled.
+
+People say that Anura Kumaratisanayake will hold office for three months. I do not do so. He must continue his post.. Do not do such things.
+
+But I do not think that this government will last even three months.
+
+...
+
+[Data](articles/194e905a.json)
+
+[Extended Data](ext_articles/194e905a.ext.json)
 
 ---
 
@@ -293,6 +443,20 @@ The Consumer Affairs Authority has taken data on rice and bulk of rice and paddy
 [Data](articles/68ac2eb9.json)
 
 [Extended Data](ext_articles/68ac2eb9.ext.json)
+
+---
+
+### இலங்கை மற்றும் பாகிஸ்தான் விமானப்படை தளபதிகளுக்கு இடையில் சந்திப்பு
+
+*2024-10-27 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197277) · `ta`
+
+பாகிஸ்தான் விமானப்படைத் தளபதி எயார் மார்ஷல் சஹீர் அஹமட்டின் அழைப்பின் பேரில், விமானப்படைத் தளபதி எயார் மார்ஷல் உதேனி ராஜபக்ச, பிராந்தியத்தில் இராணுவப் பயிற்சியை அவதானிப்பதற்காக பாகிஸ்தான் சென்றுள்ளார்.
+
+இஸ்லாமாபாத்தில் உள்ள பாகிஸ்தான் விமானப்படை தலைமையகத்தில் இரு நாட்டு விமானப்படைத் தளபதிகளுக்கும் இடையிலான உத்தியோகபூர்வ கலந்துரையாடல் இடம்பெற்றதாகவும் விமானப்படை ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/ed09ccde.json)
 
 ---
 
@@ -926,40 +1090,6 @@ Further investigations are being carried out by the Colombo Criminal Investigati
 
 ---
 
-### The Anuragumara government does not last three months - Ranil
-
-*2024-10-27 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/197266) · `ta`
-
-Ranil Wickremesinghe predicts Anura Kumara Dissanayake's government won't last three months. He claims lack of majority support and warns against short-term leadership.
-
-🟩
-
-I don't think this government will last for more than three months. Former President Ranil Wickremesinghe has said that three weeks will not last for three weeks.
-
-Former President Ranil Wickremesinghe, who has said that I have no majority.
-
-He said this at an election campaign meeting in Negombo
-
-The President has said that if I lose the election, the President has said that the majority does not vote, and I am not a majority of President Anura Kumaradisanayake, who is not a majority.
-
-One day I asked me if I was ready to be Prime Minister.
-
-He said that all would accept this, and then I accepted the challenge to meet the president.
-
-When the parliament was surrounded by the presidency of the time, there was no one, and now all who demanded leadership fled.
-
-People say that Anura Kumaratisanayake will hold office for three months. I do not do so. He must continue his post.. Do not do such things.
-
-But I do not think that this government will last even three months.
-
-...
-
-[Data](articles/194e905a.json)
-
-[Extended Data](ext_articles/194e905a.ext.json)
-
----
-
 ### "Basic salary should be paid 2000 rupees"
 
 *2024-10-27 16:50:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அடிப்படை-சம்பளம்-2000-ரூபாய்-வழங்கப்பட-வேண்டும்/76-346127) · `ta`
@@ -1029,6 +1159,28 @@ Investigations have revealed that the deceased was a temporary resident of the N
 [Data](articles/814b982a.json)
 
 [Extended Data](ext_articles/814b982a.ext.json)
+
+---
+
+### India financing 35MW rooftop solar systems to Sri Lanka multi-religious sites
+
+*2024-10-27 16:40:00* · [`economynextcom`](https://economynext.com/india-financing-35mw-rooftop-solar-systems-to-sri-lanka-multi-religious-sites-185075/) · `en`
+
+ECONOMYNEXT – A ceremonial handing over of solar power systems under a 17 million dollar, 25 MegaWatt rooftop solar project financed by India took place at four separate sites, the Indian High Commission (embassy) in Colombo said.
+
+The solar systems were given to Hokandara Temple, Sri Aanjaneyar Temple, St. Anthony’s Church and Mutwal Jumma Mosque in the Western Province.
+
+The events were attended by officials from the Indian High Commission in Sri Lanka, the Ceylon Electricity Board (CEB), and the Sri Lanka Sustainable Energy Authority (SLSEA).
+
+India is giving 17 million US dollars to install rooftop solar panels to 5,000 religious sites across Sri Lanka.
+
+“The project is designed to reduce energy costs for these institutions while bolstering Sri Lanka’s transition to clean energy,” the Indian High Commission said.
+
+“The project is expected to be completed by early next year.
+
+...
+
+[Data](articles/bfd6c197.json)
 
 ---
 
@@ -2050,6 +2202,24 @@ The other arrested is a 36 -year -old driver from Weboda and her assistant, a 33
 
 ---
 
+### Sri Lanka prints Rs100bn through open market operations
+
+*2024-10-27 11:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-prints-rs100bn-through-open-market-operations-184982/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has injected around 100 billion rupees against domestic assets through multiple liquidity tools by October 25 official data show, driving up excess money in the banking system to over 190 billion rupees.
+
+The central bank injected 36.16 billion rupees through an overnight auction and 70 billion rupees for 7 days through a term auction of printed money.
+
+By October 25, excess liquidity deposited in the central bank’s standing facility was 193.4 billion rupees, up from 138 billion rupees a month earlier.
+
+By offering 40 billion rupees to all comers as low as 8.27 percent (just 2 pips above the floor rate) where only 36 billion rupees were bid, the monetary authority prevented overtrading market participants from borrowing at its 9.25 percent standing facility and encouraged them to trade without deposits at even lower rates.
+
+...
+
+[Data](articles/82464a0f.json)
+
+---
+
 ### Passenger arrested with over 5 kg of ‘Ice’ at BIA
 
 *2024-10-27 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102953/passenger-arrested-with-over-5-kg-of-ice-at-bia) · `en`
@@ -2193,211 +2363,5 @@ She and her friends, including her two daughters, were present at the Katunayake
 [Data](articles/6486dd76.json)
 
 [Extended Data](ext_articles/6486dd76.ext.json)
-
----
-
-### Police shooting orders of orders
-
-*2024-10-27 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202609) · `si`
-
-Sri Lanka police shoot truck driver after chase. Driver arrested, 17 cattle found. Case to be heard in Hambantota court.
-
-🟩
-
-Sooriyawewa Police have shocked a lorry, who had not been commanded in the Meegahawewa and Meegahawewa.
-
-The shooting has been carried out in ignoring a larry from Lunugamvehera to Sooriyawewa area to be tested in Sooriyawewa.
-
-The driver of the lorry was arrested by the Suriyawewa Police.
-
-It is reported that 17 cattle have been reported in the lorry.
-
-The suspect is to be produced before the Hambantota Magistrate's Court.
-
-◼️
-
-[Data](articles/189aed72.json)
-
-[Extended Data](ext_articles/189aed72.ext.json)
-
----
-
-### Ranil's statement was incorrect that the money was allocated for increasing salaries
-
-*2024-10-27 10:52:45* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-වැඩිකිරිමට-මුදල්-වෙන්කළ-බවට-රනිල්ගේ-ප්‍රකාශය-වැරදියි/11-412696) · `si`
-
-Here's a 200-character summary:
-
-
-
-Ranil Wickremesinghe incorrectly stated funds were for salary increases. National Employees' Executive Committee contradicted this claim. Lal Kantha criticized Ranil's statement as misleading during an election campaign. He accused Ranil of making false claims while recovering from the presidential election and preparing for retirement.
-
-🟩
-
-The National Employees' Executive Committee of the National Employment Ranil Wickremesinghe said that the salaries of public servants had been allocated from January 2025 said the national government team leader and Appear.
-
-Mr. Lal Kantha was told by the National Election in Nawalapitiya (25) to a common election campaign.
-
-Speaking further Mr. Lal Kanthe said that if he had been allocated to pay the state employees, he had to take the money at home.
-
-Lal Kanthe said that he was a sense of making such statements instead of recovering from the presidential election and remaining retirement.
-
-Lal Kantha stated that the majority of the country will be responding to the country's propaganda that essential food prices have risen and the security of the country has been threatened.
-
-...
-
-[Data](articles/ff6b8aba.json)
-
-[Extended Data](ext_articles/ff6b8aba.ext.json)
-
----
-
-### To kill the woman: one crore rupee contract;Arresting the person
-
-*2024-10-27 10:52:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-கொலைச்செய்ய-ஒரு-கோடி-ரூபாய்-ஒப்பந்தம்-நபர்-கைது/175-346095) · `ta`
-
-Contract killer arrested with gun and bullets for murdering woman over drugs addiction. Police seize weapons. Businessman confirms giving contract.
-
-🟩
-
-The murder and organized Criminal Investigation Department of the Criminal Investigation Department said that a man who was ready to kill a woman for a crores of rupees was arrested with gun and 6 bullets.
-
-The police have seized 6 ravages used in locally manufactured gun and T-56 guns.
-
-A famous businessman from Ahangama has confirmed that he has given a contract to kill a woman who is addicted to drug addicts and has been given a sum of Rs.
-
-◼️
-
-[Data](articles/c084752e.json)
-
-[Extended Data](ext_articles/c084752e.ext.json)
-
----
-
-### One crore rupee deal: Arrested in person
-
-*2024-10-27 10:52:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-கோடி-ரூபா-ஒப்பந்தம்-நபர்-கைது/175-346095) · `ta`
-
-Arrest made in ₹1 crore murder plot. Suspect armed with local gun and T-56 rifle. Police seize weapons. Businessman confirms hiring for killing drug-addicted woman.
-
-🟩
-
-The murder and organized Criminal Investigation Department of the Criminal Investigation Department said that a man who was ready to kill a woman for a crores of rupees was arrested with gun and 6 bullets.
-
-The police have seized 6 ravages used in locally manufactured gun and T-56 guns.
-
-A famous businessman from Ahangama has confirmed that he has given a contract to kill a woman who is addicted to a drug addict and has been given a sum of Rs 1 crore.
-
-◼️
-
-[Data](articles/e8113a06.json)
-
-[Extended Data](ext_articles/e8113a06.ext.json)
-
----
-
-### 2024 General Election: Distribution of official polling cards begins
-
-*2024-10-27 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102951/2024-general-election-distribution-of-official-polling-cards-begins) · `en`
-
-The Postal Department announced that the distribution of official polling cards for the upcoming parliamentary elections will begin today (Oct 27).
-
-Deputy Postmaster General Rajitha Ranasinghe stated that deliveries will be carried out to households nationwide and are expected to continue until November 7.
-
-While most districts will see distribution efforts starting today, the official election notices for the Colombo District have yet to be received by the department. As a result, distribution within Colombo will be temporarily delayed, according to the Department of Posts.
-
-To ensure timely delivery, a dedicated distribution day has been scheduled for Sunday, November 3, when postal services will operate from 8 a.m. to 6 p.m., allowing for special efforts to reach households with election notices.
-
-◼️
-
-[Data](articles/bce15dff.json)
-
-[Extended Data](ext_articles/bce15dff.ext.json)
-
----
-
-### One person killed in vehicle accident
-
-*2024-10-27 10:24:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-விபத்தில்-ஒருவர்-பலி/175-346094) · `ta`
-
-Vehicle accident kills one in Colombo. Three-wheeler crashes into tipper truck. Driver arrested. Investigations ongoing.
-
-🟩
-
-One person was killed in a vehicle accident in the Navedi area of ​​Colombo-Ithinapuri road in the Avissawella police division.
-
-A three -wheeler traveling from Ratnapura to Avissawelle crashed into a tipper vehicle.
-
-The man who was traveling in the aftermath of the injured three -wheeler died after being admitted to the Avissawella hospital.
-
-A 34 -year -old man died in the accident. The body of the deceased has been placed in the autopsy of the Avissawella Hospital for autopsy.
-
-The driver of the tipper vehicle has been arrested in connection with the incident and further investigations are being carried out by the Avissawala police.
-
-◼️
-
-[Data](articles/ee6485f6.json)
-
-[Extended Data](ext_articles/ee6485f6.ext.json)
-
----
-
-### Mahawa - Anuradhapura Train Table
-
-*2024-10-27 10:19:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹவ-அநுராதபுரம்-ரயில்-அட்டவணை/175-346093) · `ta`
-
-Colombo-Fort to Kankesanthurai train service resumes after rail modernization to Mahawa and Anuradhapura. Government Information Department reports details.
-
-🟩
-
-Rail services from Colombo - Fort to Kankesanthurai will be resumed after modernization of rails up to Mahawa and Anuradhapura.
-
-The report issued by the Government Information Department describes the details
-
-◼️
-
-[Data](articles/11a17658.json)
-
-[Extended Data](ext_articles/11a17658.ext.json)
-
----
-
-### Mahawa - Anuradhapura Rail Service Timeline Release
-
-*2024-10-27 10:19:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹவ-அநுராதபுரம்-ரயில்-சேவை-நேர-அட்டவணை-வெளியீடு/175-346093) · `ta`
-
-Colombo-Kankesanthurai rail service resumes after modernizing tracks to Mahawa-Anuradhapura. Government Information Department releases timeline details.
-
-🟩
-
-Rail services from Colombo - Fort to Kankesanthurai will be resumed after modernization of rails up to Mahawa and Anuradhapura.
-
-The report issued by the Government Information Department describes the details
-
-◼️
-
-[Data](articles/d08f3db8.json)
-
-[Extended Data](ext_articles/d08f3db8.ext.json)
-
----
-
-### The opponent
-
-*2024-10-27 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197212) · `ta`
-
-Ranil Wickremesinghe's political career impacted by presidential election loss. He avoided contesting subsequent elections until unexpectedly becoming executive president. Economic policies focus on IMF-backed recovery. Recent reports address state revenue challenges and Easter Sunday bombing investigations. Wickremesinghe supports public servant salary increases. Opposition parties struggle to respond to economic challenges and allegations of corruption.
-
-🟩
-
-Former President Ranil Wickremesinghe is not a starting election defeat. But in his political life, he would have been painful because he lost the last presidential election as the ultimate chance to be elected by the people as the executive president.. If any other politician, Wickremesinghe would not have come back to the public so quickly.
-
-Wickremesinghe avoids contesting in three presidential elections after the first two years lost the presidential election. The executive presidency, which had not been over for more than a quarter of a century, came to him unexpectedly two years ago.. Wickremesinghe is inevitable that this time contesting the presidential election is imperative.
-
-...
-
-[Data](articles/840400cb.json)
-
-[Extended Data](ext_articles/840400cb.ext.json)
 
 ---

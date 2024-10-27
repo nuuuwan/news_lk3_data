@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 19:23:58**
+As of **2024-10-27 19:58:19**
 
 ## Newspaper Stats
 
-*Scraped **51,676** Articles*
+*Scraped **51,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,068
 economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,801
+adalk | 4,802
 adaderanalk | 6,119
 tamilmirrorlk | 7,148
 virakesarilk | 8,334
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,986
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,676 (100.0%) of 51,676 articles have been extended.
+51,677 (100.0%) of 51,677 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -229,6 +229,26 @@ On the other hand, when the poverty is paid to the people in poverty, how much t
 [Data](articles/707e33fa.json)
 
 [Extended Data](ext_articles/707e33fa.ext.json)
+
+---
+
+### The weight of the white ball's leads on the head of Riswan
+
+*2024-10-27 17:20:40* · [`adalk`](https://www.ada.lk/sports/සුදු-පන්දුවේ-නායකත්වයේ-බර-රිස්වාන්ගේ-හිස-මතට/9-412701) · `si`
+
+Riswan Mohammed named Pakistan cricket team leader. Replaces Barber Assa.
+
+🟩
+
+Mohammed Riswan has been appointed as the New Leader of Pakistani20 and One Day Cricket.
+
+Barber Assa, who was previously led before, resigned from the leadership.
+
+◼️
+
+[Data](articles/0a4d2df6.json)
+
+[Extended Data](ext_articles/0a4d2df6.ext.json)
 
 ---
 
@@ -2353,19 +2373,5 @@ The three suspects are to be produced before the Negombo Magistrate's Court toda
 [Data](articles/b1940ea2.json)
 
 [Extended Data](ext_articles/b1940ea2.ext.json)
-
----
-
-### The Disturbing Misuse Of Authority At BMICH Police Unit
-
-*2024-10-27 08:53:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-disturbing-misuse-of-authority-at-bmich-police-unit/) · `en`
-
-When people visit the Colombo International Book Fair, they expect to explore a haven for intellectual and cultural exchange. Yet, for journalist Kalpa Gunaratne, an innocent visit took an alarming turn when he found himself arrested and his press freedoms challenged by the police officers in charge of Bandaranaike Memorial International Conference Hall (BMICH) premises. This unsettling incident on October 3, 2024, has raised troubling questions about police accountability, the treatment of journalists, and the erosion of public trust in those who are meant to uphold peace and justice.
-
-...
-
-[Data](articles/bcc5d99e.json)
-
-[Extended Data](ext_articles/bcc5d99e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 08:47:29**
+As of **2024-10-27 09:00:19**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 8,968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,564 (100.0%) of 51,569 articles have been extended.
+51,569 (100.0%) of 51,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
 
-### கைக்குண்டுகள் மீட்பு
+### Handbags Recovery
 
 *2024-10-27 08:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைக்குண்டுகள்-மீட்பு/175-346089) · `ta`
 
-போர் காரணமாக பாவனையின்றி காணப்பட்ட காணியின் கிணற்றில் இருந்து அதிகளவான கைக்குண்டுகள் மீட்கப்பட்டுள்ளன.
+Here's a summary of the text in approximately 200 characters:
 
-யாழ். பருத்தித்துறை துறைமுகத்தை அண்டிய எரிபொருள் நிரப்பு நிலையத்துக்குப் பின்புறமாக இருந்த குறித்த காணியின் பாவனையற்ற கிணற்றைத் துப்பரவு செய்யும்போது இந்தக் கைக்குண்டுகள் மீட்கப்பட்டுள்ளன. நேற்று சனிக்கிழமை காலை இந்தக் கைக்குண்டுகள் மீட்கப்பட்டுள்ளன.
 
-போர் காரணமாக 35 வருடங்களாகப் பாவனையற்றிருந்த காணியில் இருந்த கிணற்றைத் துப்பரவு செய்யும்போதே இந்தக் குண்டுகள் மீட்கப்பட்டுள்ளன. (a)
+
+"Hand grenades discovered in well during cleanup near Port of Point Pedro. Bombs found after 35-year-old war site excavation."
+
+🟩
+
+A large number of hand grenades have been recovered from the well of the land, which was found due to the war.
+
+Yall. These handbags have been recovered when the land of the land is being cleaned in the back of the port of Point Pedro.. The handbags were recovered yesterday morning.
+
+The bombs have been recovered as the well was cleaned up for 35 years due to the war.. (A)
 
 ◼️
 
 [Data](articles/fa7aea74.json)
+
+[Extended Data](ext_articles/fa7aea74.ext.json)
 
 ---
 

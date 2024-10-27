@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 08:27:27**
+As of **2024-10-27 08:04:44**
 
 ## Newspaper Stats
 
-*Scraped **51,568** Articles*
+*Scraped **51,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,93 +16,21 @@ islandlk | 3,068
 economynextcom | 3,143
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,790
+adalk | 4,789
 adaderanalk | 6,104
-tamilmirrorlk | 7,127
+tamilmirrorlk | 7,124
 virakesarilk | 8,297
-adaderanasinhalalk | 8,968
+adaderanasinhalalk | 8,966
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,557 (100.0%) of 51,568 articles have been extended.
+51,557 (100.0%) of 51,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
-
-### හෙට සිට යළි ගමන් අරඹන උතුරු දුම්රිය
-
-*2024-10-27 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202606) · `si`
-
-කොළඹ - කොටුවේ සිට කන්කසන්තුරය දක්වා දුම්රිය ධාවනය හෙට (28) සිට ආරම්භ කරන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කළේ මහව සහ අනුරාධපුරය අතර දුම්රිය මාර්ගයේ නවීකරණ කටයුතු අවසන් වීමත් සමග උතුරු දුම්රිය මාර්ගයේ ධාවන කටයුතු එලෙස ආරම්භ කිරීමට තීරණය කර ඇති බවය.
-
-එමෙන්ම දුම්රිය දෙපාර්තමේන්තුව නිවේදනය කරන්නේ, උතුරු දුම්රිය මාර්ගයේ දුම්රිය ධාවනය කරන බැවින්, දුම්රිය හරස් මාර්ග භාවිතා කරන මහජනතාව ඉතා සැලකිලිමත්ව හරස් මාර්ග භාවිතාකළ යුතු බවය.
-
-උතුරු දුම්රිය මාර්ගයේ දුම්රිය ධාවන සිදුකර ආකාරය පිළිබඳව දුම්රිය දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනය පහතින්,
-
-◼️
-
-[Data](articles/b71de48a.json)
-
----
-
-### පාර්ලිමේන්තු මැතිවරණයේ නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදාහැරීම අද සිට
-
-*2024-10-27 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202605) · `si`
-
-පාර්ලිමේන්තු මැතිවරණයට අදාළ නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදා හැරීමේ කටයුතු අද (27) සිට ආරම්භ කරන බව තැපැල් දෙපාර්තමේන්තුව පවසයි.
-
-ඒ අනුව නොවැම්බර් මස 07 වනදා දක්වා නිවෙස් වෙත ගොස් නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදීමේ කටයුතු සිදුකරන බව නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා සදහන් කළේය.
-
-තැපැල්පතිවරයා පැවසුවේ කොළඹ දිස්ත්‍රික්කයේ ගෘහ දැන්වීම් පත්‍රිකා මෙතෙක් ලැබී නොමැති බැවින් අද දිනයේදී එම දිස්ත්‍රික්කයේ බෙදාහැරීම් සිදු නොවන බවය.
-
-එලැඹෙන නොවැම්බර් 03 වැනි ඉරු දින විශේෂ බෙදීම් දිනයක් ලෙස නම් කර පෙරවරු 8 සිට පස්වරු 6 දක්වා නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදා හැරීමට ද පියවර ගන්නා බවත් තැපැල්පති රාජිත රණසිංහ මහතා පැවසීය.
-
-◼️
-
-[Data](articles/04ad994b.json)
-
----
-
-### லோஹானின் மனைவி வீட்டில் அதி சொகுசு கார்
-
-*2024-10-27 07:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லோஹானின்-மனைவி-வீட்டில்-அதி-சொகுசு-கார்/175-346088) · `ta`
-
-முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தவின் மனைவி ஷஷி பிரபா ரத்வத்தவிற்கு சொந்தமான மிரிஹான - எம்புல்தெணிய மண்டப வீதியில் அமைந்துள்ள மூன்று மாடி வீடொன்றில் இலக்கத் தகடுகள் இல்லாத சொகுசு கார் ஒன்று இருப்பதாக பொலிஸ் தலைமையகத்திற்கு தகவல் கிடைத்துள்ளது.
-
-இதன்படி, மிரிஹான பொலிஸார் நுகேகொட நீதவான் நீதிமன்றில் உண்மைகளை அறிவித்ததுடன், நேற்று குறித்த வீட்டிற்குச் சென்று வாகனத்தை சோதனையிட்டனர்.
-
-மேற்படி வீட்டில் முன்னாள் அமைச்சரின் மனைவியின் தாயார் வசிப்பதாகவும், சில தினங்களுக்கு முன்னர் கண்டி, கட்டுகஸ்தோட்டை பிரதேசத்தில் சுட்டுக்கொல்லப்பட்ட ரத்வத்தவின் பிரத்தியேக செயலாளர், குறித்த காரை 3 வாரங்களுக்கு முன்பு கராஜுக்கு கொண்டு வந்ததாகவும் அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
-
-பதிவு இலக்கத் தகடுகள் மற்றும் சாவிகள் இல்லாத சொகுசு கார் இன்று (26) மிரிஹான பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளது.
-
-இதையடுத்து இன்று (27) அரச பரிசோதகர் வாகனத்தை சோதனைக்கு உட்படுத்த உள்ளதாகவும் அதன் பின்னர் மேலதிக விசாரணைகள் மேற்கொள்ளப்படும் எனவும் பொலிஸார் தெரிவித்தனர். R
-
-◼️
-
-[Data](articles/2af1550f.json)
-
----
-
-### நாட்டின் சில பகுதிகளில் 75 மில்லி மீற்றர் மழை
-
-*2024-10-27 07:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-75-மில்லி-மீற்றர்-மழை/175-346087) · `ta`
-
-நாட்டின் பல பகுதிகளில் இன்று மழையுடனான வானிலை பதிவாகக் கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-மேல், சப்ரகமுவ, வடமேல் மாகாணங்களிலும் காலி, மாத்தறை மற்றும் மன்னார் மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகிறது.
-
-மேல், சப்ரகமுவ, வடமேல் மாகாணங்களின் சில பகுதிகளில் 75 மில்லிமீற்றர் வரையான மழைவீழ்ச்சி பதிவாகக் கூடிய சாத்தியம் நிலவுகிறது என  வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/ef64a5b2.json)
-
----
 
 ### Risana downturn arrested
 
@@ -219,22 +147,6 @@ To answer that question, it is necessary to go back in time.
 [Data](articles/8285ae99.json)
 
 [Extended Data](ext_articles/8285ae99.ext.json)
-
----
-
-### தமிழ் மக்கள் கூட்டணியின் ஆதரவாளர்கள் மீது தாக்குதல்
-
-*2024-10-27 01:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்கள்-கூட்டணியின்-ஆதரவாளர்கள்-மீது-தாக்குதல்/175-346086) · `ta`
-
-யாழ்ப்பாணம், கோப்பாய் பொலிஸ் பிரிவுக்குட்பட்ட கரந்தன் பகுதியில் நேற்று  மாலை தேர்தல் பிரசாரத்தில் ஈடுபட்டுக் கொண்டிருந்த தமிழ் மக்கள் கூட்டணியின் ஆதரவாளர்கள் மீது  தாக்குதல் மேற்கொள்ளப்பட்டுள்ளது.
-
-கரந்தன் பகுதியில் தமிழ் மக்கள் கூட்டணியின் ஆதரவாளர்கள் நேற்று மாலை தேர்தல் பிரசாரத்தில் ஈடுபட்டுக் கொண்டிருந்தபோது, ஓட்டோவில் வந்த நால்வர் அடங்கிய குழு ஒன்று, அவர்கள் மீது தாக்குதல் நடத்தியுள்ளது.
-
-இந்தத் தாக்குதலில் படுகாயமடைந்த ஒரு பெண்ணும், இரு ஆண்களும் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காகச் சேர்க்கப்பட்டுள்ளனர். (a)
-
-◼️
-
-[Data](articles/b355ccdc.json)
 
 ---
 
@@ -891,22 +803,6 @@ How can this election in less than 20 days in less than 20 days to hold general 
 [Data](articles/69c25010.json)
 
 [Extended Data](ext_articles/69c25010.ext.json)
-
----
-
-### 12 334455677788899889945+6123234667789794405
-
-*2024-10-26 18:22:15* · [`adalk`](https://www.ada.lk/breaking_news/12-334455677788899889945-6123234667789794405/11-412691) · `si`
-
-පිළියන්දල SOS ළමා ගම්මානය බාරයේ සිටින 14 හැවිරිදි දැරියක අපයෝජනයට ලක්වීමේ සිද්ධිය පිළිබඳ ගම්මානයේ පරිපාලනය දැනුවත් බවත් එයින් මහත් කම්පනයට පත්ව සිටින බවත් එම ගම්මානයේ පරිපාලනය නිවේදනයක් නිකුත් කරමින් පවසයි.
-
-එසේම දැරියගේ කායික සහ මානසික යහපැවැත්ම තහවුරු කිරීම මේ මොහොතේ ගම්මානයේ ප්‍රමුඛතාවවන අතර, මේ සම්බන්ධව සිදු කෙරෙන විමර්ශන කටයුතු සඳහා වගකිවයුතු ආයතනයක් ලෙස අදාළ පූර්ණ සහයෝගය ලබා දෙන බවත් අම ආයතනය පවසයි.
-
-මෙම සිද්ධියට පාදක වී ඇතැයි සැලකෙන දැරිය, 2023 වසරේ ජනවාරි මාසයේ පිළියන්දල SOS ළමා ගම්මානයට ඇතුළත් කෙරුණු දැරියක්වන අතර, අප ආයතනය අසළ පිහිටි ප්‍රශ්නගත පන්සලට ඇය ඉදිරියේ පැවැත්වීමට නියමිත දහම් පාසල් තරඟ පුහුණුවීම් සඳහා සෙසු ළමුන්ද සමඟ යොමුකරවන ලදී. මෙම අවාසනාවන්ත සිදුවීම සිදුවී ඇත්තේ එම පුහුණුවීම් සඳහා සහභාගී වීමේදී බව දැරිය ඇයගේ මවට ප්‍රකාශකර ඇත.
-
-...
-
-[Data](articles/f9ede1a0.json)
 
 ---
 
@@ -2423,5 +2319,139 @@ Galle District Elpitiya Pradeshiya Sabha elections will be held today (Saturday)
 [Data](articles/0df397ed.json)
 
 [Extended Data](ext_articles/0df397ed.ext.json)
+
+---
+
+### Israel
+
+*2024-10-26 09:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரான்-மீது-குண்டுமழை-பொழிந்த-இஸ்ரேல்/50-346066) · `ta`
+
+Israel-Iran conflict escalates: Missile attacks, retaliation, and rising tensions in the Middle East.
+
+🟩
+
+Ballistic missile attack on Israel on behalf of Iran on the 1st. The attack has been retaliated today.
+
+Accordingly, Missiles are launching missiles on military targets in Iran's capital Tekran and Karaj cities on behalf of Israel.. This has increased the tension between Israel and Iran in the Middle East.
+
+Israel launched war operations last year against the Hamas organization operating in Gaza in Palestine. Hamas is the Iran -backed organization. Iran was strongly opposed to this. Iran and Israel launched an attack by Hizbullah, a supporting organization in Lebanon, which is sharing the border with Israel.
+
+This caused headaches to Israel. However, Israel continues to attack Hizbullah in the midst of the war on Gaza. The Israeli airspace has killed key leaders and commanders of Hamas and Hizbullah.
+
+Iran, which went to the summit of anger, launched an air strike on Israel on the 1st. Iran launched an attack on Israel from its country with about 185 missiles.
+
+...
+
+[Data](articles/e614a00c.json)
+
+[Extended Data](ext_articles/e614a00c.ext.json)
+
+---
+
+### Air attacks on Iran completed;Israeli army
+
+*2024-10-26 09:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197135) · `ta`
+
+Israel completes air strikes on Iran military bases. Attacks successful, aircraft return safely.
+
+🟩
+
+The Israeli Security Forces have said that heavy attacks on Iranian military bases have been completed.
+
+The precise attack carried out by Israeli security forces targeting Iran's military bases has been completed a while ago. It is reported that our flights have returned safely.
+
+◼️
+
+[Data](articles/d0a0a501.json)
+
+[Extended Data](ext_articles/d0a0a501.ext.json)
+
+---
+
+### Continuing security for tourist destinations
+
+*2024-10-26 08:57:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாத்தலங்களுக்கு-தொடர்ந்தும்-பாதுகாப்பு/175-346065) · `ta`
+
+Security measures implemented at tourist hotspots: Police, military personnel, and officials stationed at popular locations like Augkampai, Hikkaduwa, Weligama, Mirissa, and Dikwella.
+
+🟩
+
+Police, Special Task Force, Army Officers, Air Force and Marines have been deployed for this purpose.
+
+Officials have been deployed at tourist destinations including Augkampai, Hikkaduwa, Weligama, Mirissa and Dikwella. (A)
+
+◼️
+
+[Data](articles/46ea1640.json)
+
+[Extended Data](ext_articles/46ea1640.ext.json)
+
+---
+
+### President is a gazetted armed armed armed armed armed armed forces
+
+*2024-10-26 08:55:13* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-ආරක්ෂාවට-සන්නද්ධ-හමුදා-කැඳවමින්-ජනපතිගෙන්-අති-විශේෂ-ගැසට්ටුවක්/11-412688) · `si`
+
+Sri Lanka's President Anura Kumara Dissanayake has deployed armed forces under the Sri Lanka Navy and Air Force to maintain public order across the country. This move aims to address potential unrest in various administrative districts. The deployment is set to begin on March 27th.
+
+🟩
+
+President Anura Kumara Dissanayake has issued an armed forces called to maintain public peace in all the administrative districts of the country.
+
+The President released the Extent Gazette notification that included the law of the Sri Lanka Navy and all members of the Sri Lanka Air Force (SLAF) with the operation of tomorrow (27).
+
+The armed forces have been summoned to maintain public order in all the administrative districts of the island and allied districts in all the administrative districts of the island and allied local waterholders.
+
+◼️
+
+[Data](articles/cd612f22.json)
+
+[Extended Data](ext_articles/cd612f22.ext.json)
+
+---
+
+### Sri Lanka banking system risk perceptions improve in 2024, though still negative
+
+*2024-10-26 08:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-banking-system-risk-perceptions-improve-in-2024-though-still-negative-184965/) · `en`
+
+ECONOMYNEXT – Confidence in Sri Lanka’s banking system has started to improve steadily after plunging in 2022, according to a survey conducted among respondents in banking, insurance, finance companies, stock brokering and unit trusts.
+
+The Systemic Risk Survey (SRS) has been conducted every six months by the Central Bank since 2017 has shown an improvement in perceptions.
+
+“As a result, a substantial proportion of respondents expressed ‘fairly confident’ or better outlook reflecting their improved confidence towards financial system stability,” a Financial Stability Review by the central bank said.
+
+“Although the net percentage balance increased, it remained in the negative territory.”
+
+The net percentage balance is calculated by weighing 1 for ‘completely confident’, 0.5 for ‘very confident’, 0 for ‘fairly confident’, -0.5 for ‘not very confident’ and -1 for ‘not confident’ responses.
+
+...
+
+[Data](articles/2a11c3d7.json)
+
+[Extended Data](ext_articles/2a11c3d7.ext.json)
+
+---
+
+### Voter Card for General Elections from Tomorrow - Elections Commission
+
+*2024-10-26 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197134) · `ta`
+
+Election Commission distributes voter cards via post starting Sunday. General election on Nov 14 with 5,464 approved candidates and 8,821 independent committee candidates. Postal voting on Nov 30; alternative dates Nov 7-8 for missed polls.
+
+🟩
+
+Official voter cards for the general election will be distributed by post tomorrow (Sunday). Voter card distribution work will be completed by 7th November.
+
+The general election is scheduled for November 14 (Thursday). The Election Commission has completed all the tasks for the referendum. Accordingly, there are 5,464 candidates on behalf of the approval of this year and 8821 candidates on behalf of the Independent Committees.
+
+Accordingly, the Elections Commission has handed over the official voter cards to the Postal Department today (26). All the postal servants' holidays have been canceled till the date of the general election as the voter card is distributed by post tomorrow (Sunday). The official voter card will be distributed by post tomorrow to the 7th of November.
+
+With 759,210 applications received for postal voting in this general election, 2,1160 applications have been rejected and 738,050 government officials have qualified for postal voting.
+
+...
+
+[Data](articles/c047c26f.json)
+
+[Extended Data](ext_articles/c047c26f.ext.json)
 
 ---

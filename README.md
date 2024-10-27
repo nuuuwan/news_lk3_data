@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 18:33:14**
+As of **2024-10-27 18:43:28**
 
 ## Newspaper Stats
 
-*Scraped **51,671** Articles*
+*Scraped **51,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,801
-adaderanalk | 6,117
+adaderanalk | 6,118
 tamilmirrorlk | 7,147
 virakesarilk | 8,334
 adaderanasinhalalk | 8,984
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,669 (100.0%) of 51,671 articles have been extended.
+51,672 (100.0%) of 51,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Japan election latest: Polls close; opposition projected to make gains
+
+*2024-10-27 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102961/japan-election-latest-polls-close-opposition-projected-to-make-gains) · `en`
+
+Japanese voters cast ballots in a lower house election on Sunday amid swirling uncertainty over the race.
+
+The focus will be on whether the ruling Liberal Democratic Party-Komeito coalition can maintain its majority, and what the results of the poll will mean for new Prime Minister Shigeru Ishiba.
+
+Voting ended at 8 p.m., with actual results rolling in later in the evening and into the following morning.
+
+Japan’s ruling Liberal Democratic Party and its coalition partner Komeito are at risk of losing their majority in the lower house of parliament in Sunday’s general election, Nikkei projected after polls closed.
+
+The main opposition Constitutional Democratic Party, or CDP, meanwhile, is expected to gain seats in the chamber, as is the Democratic Party for the People, amid public anger at the LDP over a political funds scandal involving dozens of its lawmakers.
+
+◼️
+
+[Data](articles/ab6694b9.json)
+
+[Extended Data](ext_articles/ab6694b9.ext.json)
+
+---
 
 ### Meeting between Sri Lanka and Pakistan Air Force Commander
 
@@ -636,31 +658,43 @@ During the presidential election, national people promised to reduce prices of g
 
 ---
 
-### நிட்டம்புவையில் நீரில் மூழ்கி இளைஞர் பலி !
+### Youth killed in water
 
 *2024-10-27 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197259) · `ta`
 
-நிட்டம்புவ பொலிஸ் பிரிவிற்குட்பட்ட தபுடுவ பகுதியில் அத்தனகலு ஓயாவில் நீராடச் சென்ற  இளைஞர் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளதாக நிட்டம்புவ பொலிஸார் தெரிவித்தனர்.
+Youth drowns in river near Nittambuwa. Police investigation ongoing. Incident happened while swimming with friends. Temporary resident of the area.
 
-உயிரிழந்தவர் நிட்டம்புவ பொலிஸ் பிரிவில் தற்காலிகமாக வசிப்பவர் எனவும், நண்பர்கள் சிலருடன் நீராடச் சென்ற போதே இவ்விபத்து நேர்ந்துள்ளதாகவும் விசாரணைகளில் தெரியவந்துள்ளது.
+🟩
+
+Nitambuwa police said that a youth who was drowned in the Attanagalu Oya area in the Nittambuwa police division has been drowned.
+
+Investigations have revealed that the deceased was a temporary resident of the Nittambuwa police division and that the incident had occurred when he went to water with some friends.
 
 ◼️
 
 [Data](articles/814b982a.json)
 
+[Extended Data](ext_articles/814b982a.ext.json)
+
 ---
 
-### මම බහුතරයක් නැති හිටපු ජනාධිපති - එතුමා බහුතරයක් නැති ඉන්න ජනාධිපති
+### Former President I Harmothered - Presidentless President
 
 *2024-10-27 16:35:48* · [`adalk`](https://www.ada.lk/breaking_news/මම-බහුතරයක්-නැති-හිටපු-ජනාධිපති---එතුමා-බහුතරයක්-නැති-ඉන්න-ජනාධිපති/11-412700) · `si`
 
-අනුර කුමාර දිසානායක මහතා බහුතරයක් නැති වර්තමාන ජනාධිපතිවරයා බවත්, තමා බහුතරයක් නැති හිටපු ජනාධිපතිවරයා බවත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Former President Ranil Wickremesinghe criticizes Anura Kumara Dissanayake's presidency, claiming he lacks majority support. Wickremesinghe accepts defeat but questions Dissanayake's legitimacy due to low voter percentage.
 
-“පළපුරුදු අය ඉන්න ඕනී රට වෙනුවෙන්. අපි කියන්නේ අපේ අයට පාර්ලිමේන්තුවේ බහුතරයක් දෙන්න කියලා රට ගෙනියන්න. එතුමාට අවුරුදු 03ක් හරි යන්න පුළුවන් අපේ බහුතරයක් හිටියොත් විතරයි. මට කියනවා පැරදුනා නම් ගෙදරට වෙලා ඉන්න කියලා. ඒ කියන්නේ මම පැරදුනා. මම පිළිගන්නවා. මම ජනාධිපතිවරණයට ආවා, ඡන්දේ ඉල්ලුවා, බහුතරයක් මට ඡන්දේ දුන්නේ නෑ. ඉතින් මම පැරදිලා. ඒත් බහුතරයක් එතුමාටත් දුන්නේ නෑනේ. 51%න් ලැබුනේ නෑ. මොකක්ද එතුමාගෙයි​ ම​ගෙයි වෙනස? මම බහුතරයක් නැති හිටපු ජනාධිපති. එතුමා බහුතරයක් නැති ඉන්න ජනාධිපති. එතුමාටත් නෑ මටත් නෑ. එච්චරයි තියෙන්නේ. මොකක්ද විශේෂත්වය? අපි දෙන්නම එකට ඉන්නේ. ”
+🟩
+
+Former President Ranil Wickremesinghe said that Anura Kumara Dissanayake is the current president of the majority.
+
+"For the country to have experienced. We say, bring the country to give the majority of parliament to our people. Only if we can go for three years. Tell me to stay at home. That means I lost. I accept. I came to the presidential election, vote, and the majority did not vote for me. So I'm uplooking. But the majority did not give him. No 51% received. What is the difference of heses?Former president I have no majority. He is the vast loss of the majority. I don't have to. That's all. What is the specialtyWe're both together. "
 
 ◼️
 
 [Data](articles/b986bc45.json)
+
+[Extended Data](ext_articles/b986bc45.ext.json)
 
 ---
 
@@ -2345,29 +2379,5 @@ Among the votes held in Elpitiya Pradeshiya Sabha elections was won by 17295 vot
 [Data](articles/ee62303b.json)
 
 [Extended Data](ext_articles/ee62303b.ext.json)
-
----
-
-### Northern train from jourcing back tomorrow
-
-*2024-10-27 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202606) · `si`
-
-Colombo-Fort to Kankasanthurai train service starts tomorrow. Northern Railway line commences after Mahawa-Anuradhapura line ends. Public safety at railway crossings emphasized.
-
-🟩
-
-The train services from the Colombo-Fort to Kankasanthurai will commence tomorrow (28).
-
-The department stated that with the end of the railway line between Mahawa and Anuradhapura, the Northern Railway line has decided to commence.
-
-The Railways Department announced that the public who use railway crossings should be taken care of the public.
-
-The Railway Department announced its racing on the Northern railway line,
-
-◼️
-
-[Data](articles/b71de48a.json)
-
-[Extended Data](ext_articles/b71de48a.ext.json)
 
 ---

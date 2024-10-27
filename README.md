@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 03:39:36**
+As of **2024-10-28 03:58:05**
 
 ## Newspaper Stats
 
-*Scraped **51,717** Articles*
+*Scraped **51,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 523
 bbccomsinhala | 524
 islandlk | 3,068
 economynextcom | 3,146
-dailyftlk | 3,533
+dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
@@ -26,11 +26,73 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,717 (100.0%) of 51,717 articles have been extended.
+51,720 (100.0%) of 51,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### NPP wins Elpitiya Pradeshiya Sabha election
+
+*2024-10-28 03:30:52* · [`dailyftlk`](https://www.ft.lk/news/NPP-wins-Elpitiya-Pradeshiya-Sabha-election/56-768504) · `en`
+
+Secures most votes; a total of 17,295, winning 15 seats out of 29 up for grabs
+
+Dr. Nalinda Jayatissa claims SJB has struggled to reorganise and strengthen support, even for a small election, resulting in fewer seats
+
+Stresses while NPP expects better competition, SJB will likely lose seats rather than gain in upcoming Parliamentary poll
+
+Says SJB’s criticisms are tactic to downplay defeat in recent elections
+
+National People’s Power (NPP) Kalutara district leader Dr. Nalinda Jayatissa has criticised the Samagi Jana Balawegaya (SJB) for its comments following the recent Pradeshiya Sabha election, where the SJB suggested that the results indicate a decline in support for the NPP.
+
+The election, held on Saturday, saw the NPP secure the most votes – a total of 17,295 – winning 15 seats out of 29 up for grabs. The SJB received 7,924 votes and gained six seats.
+
+...
+
+[Data](articles/6888f97e.json)
+
+[Extended Data](ext_articles/6888f97e.ext.json)
+
+---
+
+### People’s Struggle Alliance condemns US Embassy’s terror alert
+
+*2024-10-28 03:29:56* · [`dailyftlk`](https://www.ft.lk/news/People-s-Struggle-Alliance-condemns-US-Embassy-s-terror-alert/56-768503) · `en`
+
+The People’s Struggle Alliance (PSA), led by the Frontline Socialist Party (FLSP), last week voiced strong concerns regarding the recent US Embassy announcement cautioning its citizens visiting Sri Lanka about potential terror threats in Sri Lanka, specifically in the tourist hub of Arugam Bay.
+
+Addressing a press conference, PSA Colombo district candidate Tharindu Uduwaragedara questioned both the timing of the Embassy’s statement and the Sri Lankan Government’s lack of an official response.
+
+He highlighted the importance of the tourism sector, which was once the leading contributor to Sri Lanka’s economy. He noted that in 2018, the industry generated $ 4.3 billion, which rose to $ 5 billion the following year. He said despite recent challenges, Sri Lanka is expecting $ 3 billion in revenue from tourism this year, primarily during the high season months of November and December.
+
+...
+
+[Data](articles/1f28f733.json)
+
+[Extended Data](ext_articles/1f28f733.ext.json)
+
+---
+
+### Sri Lanka participates at CHOGM 2024
+
+*2024-10-28 03:28:06* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-participates-at-CHOGM-2024/56-768502) · `en`
+
+Lanka participated at the Commonwealth Heads of Government Meeting (CHOGM) 2024 held in Apia, Samoa from 24-26 October.
+
+The theme of the CHOGM 2024 was “One Resilient Common Future: Transforming our Common Wealth”.
+
+The Commonwealth, a voluntary association of 56 independent states, is one of the world’s oldest political association of states that work together towards the shared goals of peace, democracy, and prosperity. The organisation is home to approximately 2.7 billion people, and includes both advanced economies and developing countries.
+
+During the CHOGM 2024, the Leaders’ Statement, the Samoa CHOGM 2024 Communiqué, and the Apia Commonwealth Ocean Declaration were adopted. The leaders also selected Ghanaian Foreign Affairs and Regional Integration Minister Shirley Ayorkor Botchwey as the incoming Secretary-General of the Commonwealth.
+
+...
+
+[Data](articles/12f1960d.json)
+
+[Extended Data](ext_articles/12f1960d.ext.json)
+
+---
 
 ### CASIO intensifies fight against counterfeits in Sri Lanka
 
@@ -2301,73 +2363,5 @@ He was seized by the police by the police, 300 milligrams of Ice.
 [Data](articles/613b7ce6.json)
 
 [Extended Data](ext_articles/613b7ce6.ext.json)
-
----
-
-### Bus in Mexico crashes after colliding with trailer that detached from truck killing 24
-
-*2024-10-27 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102956/bus-in-mexico-crashes-after-colliding-with-trailer-that-detached-from-truck-killing-24) · `en`
-
-A bus tipped over in central Mexico after colliding with a trailer that detached from a truck transporting corn, killing 24 people and injuring five, Mexican authorities said Saturday.
-
-The crash happened at midnight Friday when the bus was leaving Tepic in the western Mexico state of Nayarit bound for Ciudad Juarez in northern Mexico. The injured were being treated at a hospital in Zacatecas.
-
-Juan Manríquez Moreno, coordinator of the National Guard in Zacatecas, said in a video statement shared on social media that the truck trailer detached on a highway. The passenger bus collided with the trailer and tipped over on its right side.
-
-Rodrigo Reyes Mugüerza, secretary general of the government in Zacatecas, also shared a statement from the scene of the accident. “We send our solidarity and condolences to all the families and people who have lost a loved one in this unfortunate accident,” he said.
-
-...
-
-[Data](articles/fa8c8a95.json)
-
-[Extended Data](ext_articles/fa8c8a95.ext.json)
-
----
-
-### Namal - Milinda Rajapaksa
-
-*2024-10-27 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197209) · `ta`
-
-Basil Rajapaksa hands over National Organizer role to Namal Rajapaksa. Namal now leads activists, following Basil's guidance.
-
-🟩
-
-“The role of Basil Rajapaksa is always the same. He is the one who takes the party to the people. He has handed over the post of National Organizer of the party to Namal Rajapaksa this time. Namal Rajapaksa is carrying out those tasks. Basil Rajapaksa has given the advice for it. Namal Rajapaksa is currently the leader of the activist .... ”
-
-◼️
-
-[Data](articles/d2672e30.json)
-
-[Extended Data](ext_articles/d2672e30.ext.json)
-
----
-
-### 19 killed in Mexico bus accident
-
-*2024-10-27 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202613) · `si`
-
-Mexico bus crash: 19 dead, 6 injured. Accident occurred on highway in central region. Bus reportedly veered off road and fell into ravine while headed to Juarez near US-Mexico border. Foreign media reports victims not migrants.
-
-🟩
-
-Foreign media has reported that 19 people were killed in a bus accident in Mexico.
-
-The bus accident occurred on a highway in Sakathakus, Central Mexico.
-
-Some media reports states that the tractor is relaxed after the bus collided with corn, some media reports say.
-
-It is said that after the accident, the bus was running out of the road and fell into a precipice.
-
-At the time of the accident, the bus was traveling to the Jurez, near the American Mexico border, reports say.
-
-19 people were killed and six others were injured in the accident.
-
-Foreign media reports that migrants do not belong to the people who died in the accident.
-
-◼️
-
-[Data](articles/f8cba443.json)
-
-[Extended Data](ext_articles/f8cba443.ext.json)
 
 ---

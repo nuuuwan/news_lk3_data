@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 16:56:10**
+As of **2024-10-27 17:09:20**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 8,981
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,644 (100.0%) of 51,646 articles have been extended.
+51,646 (100.0%) of 51,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
 
-### “அடிப்படை சம்பளம் 2000 ரூபாய் வழங்கப்பட வேண்டும் ”
+### "Basic salary should be paid 2000 rupees"
 
 *2024-10-27 16:50:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அடிப்படை-சம்பளம்-2000-ரூபாய்-வழங்கப்பட-வேண்டும்/76-346127) · `ta`
 
-“தேசிய மக்கள் சக்தியின் தொழிற்சங்கமானது, தோட்டத் தொழிலாளர்களுக்கு 2 ஆயிரம் ரூபாய் அடிப்படை சம்பளம் வழங்கப்பட வேண்டும் என வலியுறுத்தி வந்தது. எனவே, சம்பள நிர்ணய சபையை கூட்டி அதற்குரிய யோசனையை அரசாங்கம் முன்வைக்க வேண்டும். அதற்கு நாம் முழு ஆதரவையும் வழங்குவோம்.”- என்று இ.தொ.காவின் பொதுச் செயலாளரும், முன்னாள் அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்துள்ளார்.
+National People's Power urges 2000 rupee base salary for plantation workers. Government must propose this to salary council. Union promises full support.
 
-கொட்டகலை சீ.எல்.எப் கேட்போர் கூடத்தில் ஞாயிற்றுக்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துக் கொண்டு உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-கடந்த ஆட்சியில் குறுகிய காலப்பகுதிக்குள் மலையக மக்கள் தொடர்பில் அரசியல், பொருளாதார மற்றும் சமூகம் சார்ந்த திட்டங்களை நாம் முன்னெடுத்திருந்தோம். வீடமைப்பு திட்டம் கூட மீள ஆரம்பிக்கப்பட்டது.
+“The union of the National People's Power has urged plantation workers to be paid a base salary of 2 thousand rupees. Therefore, the government must present the proposal and put forward the idea of ​​the salary council. We will give it full support. ”
 
-எனினும், ஜனாதிபதி தேர்தலுக்கு பிறகு மலையக மக்கள் தொடர்பில் இன்னும் எவ்வித திட்டமும் முன்னெடுக்கப்படவில்லை. அபிவிருத்தி திட்டங்கள் முன்னெடுக்கப்படுமா என்ற சந்தேகம் மக்கள் மத்தியில் உள்ளது.
+He was speaking at a media briefing held at the CLF auditorium in Kotagala on Sunday (27).
+
+Within a short period of time in the last regime we have launched political, economic and social plans on the people of the hill country. Even the housing project was resumed.
+
+However, after the presidential election, no plans have been launched on the people of the hill country. There is suspicion among the people whether development projects will be carried out.
+
+During the presidential election, national people promised to reduce prices of goods. But the price of goods is currently on the rise.We do not criticize the president. There is still an economic crisis. People have to be a little more patient. The consequences of regime change should be met.
 
 ...
 
 [Data](articles/059efdad.json)
+
+[Extended Data](ext_articles/059efdad.ext.json)
 
 ---
 
@@ -67,6 +75,8 @@ Sri Lankan police have arrested three suspects for questioning in connection wit
 ...
 
 [Data](articles/bcf9e9da.json)
+
+[Extended Data](ext_articles/bcf9e9da.ext.json)
 
 ---
 

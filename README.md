@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 18:43:28**
+As of **2024-10-27 18:59:08**
 
 ## Newspaper Stats
 
-*Scraped **51,672** Articles*
+*Scraped **51,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,801
 adaderanalk | 6,118
-tamilmirrorlk | 7,147
+tamilmirrorlk | 7,148
 virakesarilk | 8,334
 adaderanasinhalalk | 8,984
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,672 (100.0%) of 51,672 articles have been extended.
+51,673 (100.0%) of 51,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### "Prabhakaran is not in Benner"
+
+*2024-10-27 18:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவெக-பெனரில்-பிரபாகரன்-இல்லை/175-346136) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Seeman criticizes Vijay's alliance plans, denies Prabhakaran involvement. Discusses Tamil party ideology, symbol choices. Expresses uncertainty about convention turnout due to rain.
+
+🟩
+
+In Madurai, Vijay said that Vijay should decide on forming an alliance with the Tamil party.
+
+The Chief Coordinator of the Tamil party, Seeman, paid homage to the statues of Marudu Pandiyas in Madurai Theppakulam area in front of the Marudupandiyas Kurupuja.
+
+He later told reporters: I hope that Vijay's Tawga conference in Vikravandi will have an impact on the people.. Because when a new political party begins, people have to have an impact on. There is not so much support when we start the party. When the screen is in the world fame, people are more likely. We don't have that.
+
+...
+
+[Data](articles/7c9322f9.json)
+
+[Extended Data](ext_articles/7c9322f9.ext.json)
+
+---
 
 ### Japan election latest: Polls close; opposition projected to make gains
 
@@ -2349,35 +2375,5 @@ The bombs have been recovered as the well was cleaned up for 35 years due to the
 [Data](articles/fa7aea74.json)
 
 [Extended Data](ext_articles/fa7aea74.ext.json)
-
----
-
-### Elpitiya Little Volume Benefits
-
-*2024-10-27 08:00:00* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-පුංචි-ඡන්දයෙන්-මාලිමාවට-විශිෂ්ඨ-ජයක්/11-412692) · `si`
-
-Elpitiya Pradeshiya Sabha election results: 17,295 votes secured 15 seats. Key parties: Sri Lankan leader (3,597), Civil Front (2,612), Independent Group (2,568), UN United Freedom Alliance (1,350), National People's Party (521).
-
-🟩
-
-Among the votes held in Elpitiya Pradeshiya Sabha elections was won by 17295 votes and won the election for 15 seats.
-
-36 voters had voted for the election held on behalf of the Elpitiya Pragine.
-
-3,597 votes polled by the Sri Lankan leader - 3,597 votes - 3
-
-2,612 MPs received by the Civil Front
-
-2,568 MPs who received independent group were obtained - 2 MPs
-
-1,350 votes polled by the United Nations United Freedom Alliance - 1
-
-521 votes polled by the National People's Party - 1
-
-◼️
-
-[Data](articles/ee62303b.json)
-
-[Extended Data](ext_articles/ee62303b.ext.json)
 
 ---

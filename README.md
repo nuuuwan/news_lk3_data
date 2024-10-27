@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 19:10:28**
+As of **2024-10-27 19:23:58**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 8,986
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,675 (100.0%) of 51,676 articles have been extended.
+51,676 (100.0%) of 51,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
 
-### රටේ සහල් සහ වී තොග වාර්තාව හෙට ජනාධිපති අතට
+### Rice and paddy consignment report to be handed over to the president tomorrow
 
 *2024-10-27 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202624) · `si`
 
-රට තුළ පවතින සහල් සහ වී තොග සම්බන්ධයෙන් පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය සකස් කළ වාර්තාව ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත හෙට (28) භාරදීමට නියමිතව තිබේ.
+Consumer Affairs Authority submits rice/paddy report to President Anura Kumara Dissanayake tomorrow. Report covers data from rice mills in Anuradhapura, Polonnaruwa, Ampara, and Hambantota districts. Secretary Wickremesinghe confirms implementation progress.
 
-කෘෂිකර්ම අමාත්‍යංශ ලේකම් එම්.පී.එන්.එම්. වික්‍රමසිංහ මහතා පවසා සිටියේ, අදාළ වාර්තාව සකස් කිරීම සඳහා මේ වන විට කටයුතු කරමින් සිටින බවය.
+🟩
 
-ජනාධිපතිවරයාගේ උපදෙස් මත ඊයේ සහ අද යන දෙදින තුළ අනුරාධපුර, පොළොන්නරුව, අම්පාර සහ හම්බන්තොට යන දිස්ත්‍රික්කවල පිහිටි සහල් මෝල්වල සහල් හා වී තොග ප්‍රමාණයන් පිළිබඳ දත්ත ලබාගැනීමට පාරිභෝගික කටයුතු අධිකාරිය කටයුතු කළේය.
+President Anura Kumara Dissanayake will be handed over to the report of the Consumer Affairs Authority regarding the rice and paddy authority in the country tomorrow (28).
+
+Secretary, Ministry of Agriculture MPNM. Mr. Wickremesinghe said that the report is currently being implemented.
+
+The Consumer Affairs Authority has taken data on rice and bulk of rice and paddy in rice mills in Anuradhapura, Polonnaruwa, Ampara and Hambantota.
 
 ◼️
 
 [Data](articles/68ac2eb9.json)
+
+[Extended Data](ext_articles/68ac2eb9.ext.json)
 
 ---
 

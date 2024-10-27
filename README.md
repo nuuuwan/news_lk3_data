@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 13:40:13**
+As of **2024-10-27 13:59:55**
 
 ## Newspaper Stats
 
-*Scraped **51,616** Articles*
+*Scraped **51,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 3,068
 economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,797
+adalk | 4,798
 adaderanalk | 6,113
-tamilmirrorlk | 7,139
+tamilmirrorlk | 7,141
 virakesarilk | 8,307
-adaderanasinhalalk | 8,976
+adaderanasinhalalk | 8,978
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,615 (100.0%) of 51,616 articles have been extended.
+51,617 (100.0%) of 51,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### මුදලකට කාන්තාවක් ඝාතනය කිරීමට සිටි අයෙක් අත්අඩංගුවට
+
+*2024-10-27 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202616) · `si`
+
+කාන්තාවක් ඝාතනය කිරීම සඳහා සූදානම්ව සිටි සැකකරුවෙකු පොලිස්, මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ගාල්ල හබරාදූව මීපේ ප්‍රදේශයේ පදිංචි හෙරොයින් මත්ද්‍රව්‍යවලට ඇබ්බැහිවූවෙකු වන අදාළ සැකකරුට පසුගියදා අහංගම ප්‍රදේශයේ පදිංචි ව්‍යාපාරිකයෙකු එම ප්‍රදේශයේම කාන්තාවකගේ නමක් පවසා ඇයව වෙඩිතබා ඝාතනය කරන ලෙස කොන්ත්‍රාත්තුවක් ලබාදී තිබුණි.
+
+ඒ සඳහා රුපියල් කෝටියක මුදලක් ලබාදෙන බවට පොරොන්දු වී ඇති ව්‍යාපාරිකයා මෙරට නිෂ්පාදිත ගිනි අවියක් සහ ටී-56 වර්ගයේ ගිනි අවිවලට භාවිත කරන ජීව උණ්ඩ 6ක් ද සැකකරුට ලබාදී ඇති බව වාර්තා වේ.
+
+මේ සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ, මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශයේ නිලධාරීන්ට ලද තොරතුරකට අනුව සිදුකළ විමර්ශනයකින් පසු හබරාදුව මීපෙ හන්දිය ප්‍රදේශයේදී 26 හැවිරිදි සැකකරුවෙකු ඊයේ (26) අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/80d3ffe5.json)
+
+---
+
+### Suspect arrested for obstructing the duties of Public Health Inspectors
+
+*2024-10-27 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202615) · `si`
+
+Man arrested for obstructing Public Health Inspectors in Hatton. Incident related to Deepavali festival preparations. Restaurant owner accused of threatening inspectors. Case to be presented in court today.
+
+🟩
+
+Hatton Police have arrested a man in connection with an incident regarding the duty of the Public Health Inspectors.
+
+A large number of people in Hatton is coming to Hatton to buy the contents of the next Deepavila Festival season.
+
+As a result, the Hatton Dickoya Municipal Council has taken immediate tests yesterday.
+
+One restaurant has been threatened with death to interfere with the duty of public health inspectors.
+
+Public Health Inspectors have lodged a complaint with Hatton Police Station.
+
+It states that the shop owner supports the Tamil progressive alliance and that the Chairman of the Hatton Dikoya Urban Council has interrupted his duties in the future.
+
+Police have arrested the cafeteria owner in connection with the incident and is to be produced before the Hatton Magistrate's Court today.
+
+Meanwhile, the incident has been announced to the Senior DIG of the Public Health Inspectors' Association with the Senior DIG of the Central Province.
+
+...
+
+[Data](articles/74cc1977.json)
+
+[Extended Data](ext_articles/74cc1977.ext.json)
+
+---
 
 ### President Anura India should handle China formally - Vasantha Senanayake
 
@@ -51,6 +101,24 @@ After gaining independence in 1948, TS in the Defense Agreement with Britain. Ac
 [Data](articles/a41d1b93.json)
 
 [Extended Data](ext_articles/a41d1b93.ext.json)
+
+---
+
+### அனுர பலம் இல்லாத ஜனாதிபதி:  ரணில்
+
+*2024-10-27 13:11:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-பலம்-இல்லாத-ஜனாதிபதி-ரணில்/175-346112) · `ta`
+
+தனக்கும் ஜனாதிபதி அனுரகுமார திஸாநாயக்கவுக்கும் பெரும்பான்மை பலம் இல்லை என முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க நீர்கொழும்பில் ஞாயிற்றுக்கிழமை (27) தெரிவித்தார்.
+
+தோல்வியடைந்துவிட்டால் வீட்டிலேயே இருங்கள் என ஜனாதிபதி அனுர குமார திசாநாயக்க கூறியதாக தெரிவித்த  ரணில் விக்கிரமசிங்க, பெரும்பான்மையான மக்கள் தமக்கு வாக்களிக்கவில்லை என்ற உண்மையை ஏற்றுக் கொள்வதாக குறிப்பிட்டார்.
+
+"பெரும்பான்மை எனக்கு வாக்களிக்கவில்லை. அதனால் நான் தோற்றேன்.  அவருக்கும் பெரும்பான்மை வழங்கப்படவில்லை. அதனால் அவருக்கும் எனக்கும் என்ன வித்தியாசம்? நான், பெரும்பான்மை இல்லாத முன்னாள் ஜனாதிபதி, அனுர பெரும்பான்மை இல்லாத ஜனாதிபதி அவ்வளவுதான்,
+
+புதிய ஜனநாயக முன்னணியின் நீர்கொழும்பு தேசிய பேரவையில் உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்த முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, உங்களை போன்று எனக்கு பெரும்பான்மை பலம் இல்லை என்றார்.
+
+◼️
+
+[Data](articles/9ac54164.json)
 
 ---
 
@@ -386,6 +454,24 @@ They were produced before the Point Pedro Court in the evening. They were impris
 
 ---
 
+### மயக்கி கைவரிசையை காட்டிய சாஸ்திர காரி
+
+*2024-10-27 11:58:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயக்கி-கைவரிசையை-காட்டிய-சாஸ்திர-காரி/175-346101) · `ta`
+
+மன்னார் நானாட்டான் நறுவிலிக்குளம் கிராமத்தில் உள்ள வீடொன்றுக்குள் சிறுவனுடன் சென்ற பெண் ஒருவர் சாத்திரம் பார்ப்பதாக கூறி வீட்டில் இருந்தவர்களை சுய நினைவை இழக்கச் செய்து சுமார் 20 லட்சம் ரூபாய் பெறுமதியுடைய தாலிக்கொடியை (நகை) திருடிச் சென்றுள்ள சம்பவம் வெள்ளிக்கிழமை (25) காலை 9.30 மணியளவில் இடம்பெற்றுள்ளது.
+
+குறித்த வீட்டிற்கு சிறுவனுடன் சென்ற பெண் கோவிலுக்கு நிதி சேகரிக்க  வந்துள்ளதாக கூறியுள்ளார். வீட்டார் பணம் வழங்கிய நிலையில் குடிக்க நீர் கேட்டுள்ளார். குடிக்க நீர் கொடுத்த பின்னர்   தான் சாத்திரம் பார்த்து கூறுவதாக கூறி பலவந்தப்படுத்தி வீட்டில் இருந்த இருவருக்கும் சாத்திரம் பார்த்துள்ளார்.
+
+இதன் போது குறித்த இருவருக்கும் சுய நினைவை இழக்கச் செய்யும் வகையில் மருந்து பூசி வீட்டிலிருந்த பெண் அணிந்திருந்த சுமார் 20 லட்சம் ரூபாய் பெறுமதியான தாலிக் கொடியை அபகரித்துச் சென்றுள்ளார்.
+
+அதனையடுத்து மாலை 5 மணிக்கு பின்னர் அவர்களுக்கு சுய நினைவு திரும்பிய நிலையில் குறித்த சம்பவம் தொடர்பாக பாதிக்கப்பட்டவர்கள் முருங்கன் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளனர்.
+
+...
+
+[Data](articles/fcb06dc4.json)
+
+---
+
 ### One person arrested with ice drugs in Katunayake
 
 *2024-10-27 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/197213) · `ta`
@@ -616,6 +702,26 @@ They defeated the most powerful Indian team by 20 runs in their final.
 
 ---
 
+### කාන්තා කායවර්ධන තරගාවලියකදි ලංකාවට පදක්කම් ගෙනා සාරා
+
+*2024-10-27 11:10:37* · [`adalk`](https://www.ada.lk/sports/කාන්තා-කායවර්ධන-තරගාවලියකදි-ලංකාවට-පදක්කම්-ගෙනා-සාරා/9-412697) · `si`
+
+නවසීලන්තයේ ෆෑන් ෆැසිපික් රෑන්ග්‍ රොක් ප්‍රෝ ඒ.එම්. කායවර්ධන තරගාවලියට ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වී එහිදී ශූරතා පදක්කම් දෙකක් දිනා ගැනීමට සමත් වූ සාරා වෙරළවිතාන 10/25 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය.
+
+ලෝක යෝග්‍යතා සම්මේලනයේ මෙහෙය වීමෙන් නවසීලන්තයේ ඕක්ලන්ඩ් නුවර ඉකුත් 10/05 දින මෙම තරගාවලිය පවත්වා තිබුණි.
+
+මෙම තරගාවලියේ දී සාරා වෙරළවිතාන ස්පෝර්ට්ස් මොඩ්ල් සහ ප්‍රෝ මොඩ්ල් යන අංශ දෙකෙන්ම තරග කර එහි ශූරතා දිනා ගැනීමට සමත් වී සිටියාය.
+
+මෙම ශූරතා දිනා ගත් සාරා වෙරළවිතාන 10/25 දින පස්වරු 04.40 ට ඩුබායි සිට ෆ්ලයි ඩුබායි ගුවන් සේවයේ එෆ්.ඉසෙඩ්.- 547 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියාය .
+
+ඇය පිළිගැනීම ගැනීම සදහා ඇයගේ මව දියණියන් දෙදෙනා ඇතුළු ඇයගේ හිතවතුන් විශාල පිරිසක් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ.
+
+◼️
+
+[Data](articles/6486dd76.json)
+
+---
+
 ### Police shooting orders of orders
 
 *2024-10-27 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202609) · `si`
@@ -802,17 +908,23 @@ The report issued by the Government Information Department describes the details
 
 ---
 
-### மக்களிடம் எதைச் சொல்லி வாக்கு கேட்பது  என்று தெரியாமல் தடுமாறும் எதிரணி
+### The opponent
 
 *2024-10-27 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197212) · `ta`
 
-தேர்தல் தோல்விகளினால் துவண்டுபோகிறவர் அல்ல முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க. ஆனால், தனது அரசியல் வாழ்வில்   நிறைவேற்று அதிகார ஜனாதிபதியாக மக்களால் தெரிவு செய்யப்படுவதற்கு கிடைத்த இறுதி வாய்ப்பு  என்று சொல்லப்படக்கூடிய  கடந்த ஜனாதிபதி தேர்தலில் தோல்வி கண்டதால் அவர் நிச்சயம் வேதனை அடைந்திருப்பார். வேறு எந்த அரசியல்வாதியாகவும் இருந்தால் விக்கிரமசிங்கவைப் போன்று இவ்வளவு துரிதமாக பொதுவெளிக்கு மீண்டும் வந்திருக்கமாட்டார்.
+Ranil Wickremesinghe's political career impacted by presidential election loss. He avoided contesting subsequent elections until unexpectedly becoming executive president. Economic policies focus on IMF-backed recovery. Recent reports address state revenue challenges and Easter Sunday bombing investigations. Wickremesinghe supports public servant salary increases. Opposition parties struggle to respond to economic challenges and allegations of corruption.
 
-முதலில் இரு தடவைகள் ஜனாதிபதி தேர்தலில் தோல்வி கண்ட பிறகு விக்கிரமசிங்க  அடுத்தடுத்து மூன்று ஜனாதிபதி தேர்தல்களில் போட்டியிடுவதை  தவிர்த்தார். கால் நூற்றாண்டுக்கும் அதிகமான காலமாக  அவரிடம்  வசப்படாமல் இருந்த நிறைவேற்று அதிகார ஜனாதிபதி பதவி இறுதியில் இரு வருடங்களுக்கு முன்னர் எவரும் எதிர்பாராத வகையில் அவரை வந்தடைந்தது. இந்த தடவை ஜனாதிபதி தேர்தலில் போட்டியிடுவதை விக்கிரமசிங்க தவிர்க்க முடியாமல் போனமை காலத்தின் கட்டாயம்.
+🟩
+
+Former President Ranil Wickremesinghe is not a starting election defeat. But in his political life, he would have been painful because he lost the last presidential election as the ultimate chance to be elected by the people as the executive president.. If any other politician, Wickremesinghe would not have come back to the public so quickly.
+
+Wickremesinghe avoids contesting in three presidential elections after the first two years lost the presidential election. The executive presidency, which had not been over for more than a quarter of a century, came to him unexpectedly two years ago.. Wickremesinghe is inevitable that this time contesting the presidential election is imperative.
 
 ...
 
 [Data](articles/840400cb.json)
+
+[Extended Data](ext_articles/840400cb.ext.json)
 
 ---
 
@@ -2401,101 +2513,5 @@ Due to this, the Ambassador added that flights of Iran, Iraq, Lebanon, Syria and
 [Data](articles/72921776.json)
 
 [Extended Data](ext_articles/72921776.ext.json)
-
----
-
-### Elpitiya PS Election concludes with over 50% voter turnout
-
-*2024-10-26 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102943/elpitiya-ps-election-concludes-with-over-50-voter-turnout) · `en`
-
-The Elpitiya Pradeshiya Sabha Election concluded today (26) at 4.00 p.m., with a reported voter turnout of 63% at close of polling at 4:00 p.m., according to Galle District Returning Officer W.A. Dharmasiri.
-
-In a statement, Dharmasiri confirmed that the vote-counting process would begin at the respective polling stations at around 4:30 p.m., ensuring a prompt and efficient tallying of the ballots.
-
-He further noted that the polling activities proceeded peacefully, with no reported incidents.
-
-◼️
-
-[Data](articles/33636d20.json)
-
-[Extended Data](ext_articles/33636d20.ext.json)
-
----
-
-### Sri Lankans in Israel are not harmed
-
-*2024-10-26 16:30:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-உள்ள-இலங்கையர்களுக்கு-பாதிப்பில்லை/175-346079) · `ta`
-
-Sri Lankan workers unaffected in Israeli conflict. 2,447 employed since Dec. 2022. 61 more depart today.
-
-🟩
-
-Since December last year, 2,447 Sri Lankans have left for Israel for agricultural employment opportunities.
-
-The Bureau of Foreign Employment said that 61 more people were given air tickets and held awareness yesterday (25).
-
-The Foreign Employment Bureau has said that despite the conflict situation in Israel, the Sri Lankans working there have not been affected.. (That)
-
-◼️
-
-[Data](articles/7121bcc8.json)
-
-[Extended Data](ext_articles/7121bcc8.ext.json)
-
----
-
-### Illegal alcohol
-
-*2024-10-26 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197178) · `ta`
-
-Youth arrested for illegal liquor and kota in Pottupitiya. Police seize 31 liters of liquor and 1950 liters of kota. Incident occurred on 25th in Kalutara-Vadduwa area.
-
-🟩
-
-A youth has been arrested yesterday (25) with an illegal liquor and kota in Pottupitiya, which belongs to the Kalutara and Vadduwa police division.
-
-The suspect has been arrested during a roundup carried out on the basis of information received by the police.
-
-31 liters (41 bottles) illegal liquor and 1,950 liters of 1,950 liters (12 barrels) of the suspect have been seized by the police.
-
-◼️
-
-[Data](articles/b0706e32.json)
-
-[Extended Data](ext_articles/b0706e32.ext.json)
-
----
-
-### The prices of fruits have declined
-
-*2024-10-26 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197173) · `ta`
-
-Fruit prices drop: Sugar (100-120), Chicken banana (200), Tamarind banana (60), Arrow banana (220), Banana (100). Watermelon (100), Pineapple (450), Alphonsa mango (1200), Butter (1000), Papaya (120).
-
-🟩
-
-Accordingly, one kilogram of sugar is sold at 100 -120 rupees, chicken banana 200 rupees, tamarind banana at 60 rupees, arrow bananas 220 rupees and a banana for 100 rupees.
-
-One kilogram of watermelon is sold at Rs. 100, pineapple 450 rupees, Alphonsa mango at 1200 rupees, butter for 1000 rupees, papaya for 120 rupees and 100 rupees.
-
-◼️
-
-[Data](articles/3e109d5c.json)
-
-[Extended Data](ext_articles/3e109d5c.ext.json)
-
----
-
-### A Humane Scholar at Oxford
-
-*2024-10-26 16:07:00* · [`islandlk`](http://island.lk/a-humane-scholar-at-oxford/) · `en`
-
-I met Barbara Harrel-Bond, an anthropologist, by accident in April 1989. At that time, I was with the USAID-funded Mahaweli Agriculture and Rural Development Project (MARD). One day at lunchtime, an old jeep arrived at the project office. A white woman in her sixties emerged from the jeep. She was in a kurta and was carrying several notebooks in her hands. She smiled and asked me whether I could find someone who knew how Sinhala villagers interacted with Tamil villagers in the war-front area. I told her our professional staff had gone out for lunch, so she should wait until they returned.
-
-...
-
-[Data](articles/9d0f4f05.json)
-
-[Extended Data](ext_articles/9d0f4f05.ext.json)
 
 ---

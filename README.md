@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 21:24:15**
+As of **2024-10-27 21:59:15**
 
 ## Newspaper Stats
 
-*Scraped **51,678** Articles*
+*Scraped **51,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,141 @@ islandlk | 3,068
 economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,803
-adaderanalk | 6,119
+adalk | 4,805
+adaderanalk | 6,120
 tamilmirrorlk | 7,148
 virakesarilk | 8,334
-adaderanasinhalalk | 8,986
+adaderanasinhalalk | 8,988
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,678 (100.0%) of 51,678 articles have been extended.
+51,682 (100.0%) of 51,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### India donates solar rooftop systems to religious places in Sri Lanka
+
+*2024-10-27 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102963/india-donates-solar-rooftop-systems-to-religious-places-in-sri-lanka) · `en`
+
+India has handed over solar rooftop systems to religious locations in Sri Lanka in continuation of its the energy partnership in the neighbourhood.
+
+In a ceremony held on Friday, representatives from High Commission of India, Ceylon Electricity Board and the Sri Lanka Sustainable Energy Authority handed over the solar panels and other materials to four prominent religious locations in Colombo.
+
+These include a Buddhist temple at Hokandara, Sri Aanjaneyar Temple, St. Anthony’s Church, and Mutwal Jumma Mosque.
+
+This initiative is part of a 17 million US dollar Indian project to install Solar Rooftop Systems across 5,000 religious institutions throughout Sri Lanka.
+
+Designed to reduce energy expenses and support Sri Lanka’s shift toward renewable energy, the project spans all nine provinces and 25 districts, representing the major religions in the island.
+
+...
+
+[Data](articles/779d20c1.json)
+
+[Extended Data](ext_articles/779d20c1.ext.json)
+
+---
+
+### Ranil said about the decision to increase public worker salaries
+
+*2024-10-27 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202626) · `si`
+
+Former President Ranil Wickremesinghe suggests abolishing the Cabinet if it rejects increasing public servant salaries. He claims the Cabinet made decisions without consulting him, including the 2025 Appropriation Act. Wickremesinghe denies allegations from Minister Vijith Herath about not discussing matters with him.
+
+🟩
+
+Former President Ranil Wickremesinghe says that if the cabinet is rejected to increase the salaries of public servants, the paper should be abolished.
+
+මීගමුව ප්‍රදේශයේදී අද (27) පැවැති ජන හමුවකදී ඔහු මෙම අදහස් පළ කළේය.
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණෙන් මහ මැතිවරණයට ඉදිරිපත්ව සිටින අපේක්ෂකයන්ගේ ජය තහවුරු කිරීමේ ජන හමුවක් අද මීගමුවේ පැවැත්වුණි.
+
+He pointed out that the Cabinet was taken by the Cabinet to submit the proposal for the budget next year.
+
+"මේ ඔක්කෝම සකස් කළේ 2025 විසර්ජන පනතට දාන්න. The 2025 Appropriation Act could have ended the vote before we submit. IMF සංවිධානය එක්ක කතා කරන්නට තිබුණා. අපි එකඟ වෙන්න කලින්, මම අපේ භාණ්ඩාගාරයේ ලේකම්තුමාටත් මගේ උපදේශක ආචාර්ය සමරතුංග මැතිතුමාටත් මගේ ලේකම් සමන් ඒකනායක මැතිතුමාටත් ඔක්කොමලා එක්ක කතා කළා.
+
+...
+
+[Data](articles/15a9ab13.json)
+
+[Extended Data](ext_articles/15a9ab13.ext.json)
+
+---
+
+### හිටපු ජනපතිවරුන්ගේ වැය බර මුළුමනින් අඩු කළ යුතුයි - ජනපති
+
+*2024-10-27 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202625) · `si`
+
+Former presidents' perks cut: President Anura Kumara Dissanayake proposes reducing ex-presidents' benefits and eliminating their allowances. He also suggests removing former presidents from government positions and reducing overall government spending.
+
+🟩
+
+හිටපු ජනාධිපතිවරුන්ගේ වරප්‍රසාද ඉවත් කිරීම සහ ඔවුන් වෙනුවෙන් රජය දරණ වැය බර මුළුමනින්ම ඉවත් කිරීම සඳහා අවශ්‍ය චක්‍රලේඛ හා පනත් සංශෝධනය කිරීමට පියවර ගන්නා බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ඉදිරි මහමැතිවරණය වෙනුවෙන් අද (27) පස්වරුවේ බද්දේගම පැවති ජන රැලියක් අමතමින් ඔහු මේ බව පැවසීය.
+
+"We've won a month now for a month now. What happened to them now?It is all confirmed to be false.No gas exploded and the dollar did not go to Rs 400, without the first time in the history of Sri Lanka. ජය සැමරුවා සාමකාමීව. "
+
+"ඩොලරය රුපියල් 300ට පහළින් තියාගෙන ඉන්නවා. තෙල්, ගෑස් පෝලිම් ඇතිවෙන්න ඉඩදුන්නේ නැහැ. ජාත්‍යන්තර සබඳතා වෙනදාට වඩා ශක්තිමත් කරමින් ඉන්නවා. කියපු සියල්ල අසත්‍ය බව ජනතාව අද දන්නවා. Voting for the compress at the General Election of the presidential election ...Not? ... give. "
+
+...
+
+[Data](articles/c9281d21.json)
+
+[Extended Data](ext_articles/c9281d21.ext.json)
+
+---
+
+### පොලීසියෙත් නවක වදය
+
+*2024-10-27 19:50:24* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියෙත්-නවක-වදය/11-412707) · `si`
+
+තිස්සමහාරාම  පොලිසියේ තනිකඩ භට නිවාසයේදී  ආධුනික පොලිස් කොස්තාපල්වරුන් තිදෙනෙකුට නවක වදය ලබාදී, ලිංගික අතවර සිදුකිරීමේ සිද්ධියක් සම්බන්ධයෙන් පොලිස් කොස්තාපල්වරයකු අත්අඩංගුවට ගත් බව. පොලිස් මුලස්ථනය පවසයි
+
+මෙම නවක පොලිස් කොස්තාපල්වරුන් තිදෙනා පොලිස් අභ්‍යාස විද්‍යාලයේ සිට තිස්සමහාරාම පොලිස් ස්ථානයට රාජකාරී වාර්තා කර ඇති බව පොලිසිය සඳහන් කරයි.
+
+සැකකරු එම පොලිසියටම අනුයුක්තව රාජකාරී කරමින් සිට ඇති අතර,  ඉකුත් (26) දින තනිකඩ භට නිවාසය වෙත පැමිණ  ඉහත කොස්තාපල්වරුන් තිදෙනා ට  නවක වදය ලබා දී ඇති බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+සැකකරු ආධුනික පොලිස් කොස්තාපල්වරුන් තිදෙනා ජේෂ්ඨත්වය මත පෙළගස්වා ඔවුන් නිරුවත් කර, පහරදී, ලිංගික අතවර කර, කෲර වද හිංසාවට පමුණුවා ඇති බව එම පොලිස් නිලධාරියා සඳහන් කළේය.
+
+සිද්ධිය සම්බන්ධයෙන් ඉහත නවක පොලිස් කොස්තාපල්වරුන් තිදෙනා සිදු කළ පැමිණිල්ලකට අනුව විමර්ශන පවත්වා සැකකාර පොලිස් කොස්තාපල්වරයා අත්අඩංගුවට ගෙන ඇත.
+
+...
+
+[Data](articles/3acb0bff.json)
+
+---
+
+### Rice Mall of Polonnaruwa
+
+*2024-10-27 19:26:03* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවේ-සහල්-මෝල්-පාරිභෝගික-නිලධාරීන්ගේ-පරීක්ෂාවට/11-412704) · `si`
+
+Here's a 200-character summary of the text about Rice Mall of Polonnaruwa:
+
+
+
+Polonnaruwa District Consumer Service Authority inspects paddy mills and rice reserves. Aleaya Rice Managing Director warns government-controlled prices may cause losses. Rice production continues despite challenges.
+
+🟩
+
+පොළොන්නරුවේ ප්‍රධාන පෙලේ සහල් මෝල් හා සුළු හා මධ්‍ය පරිමාණ සහල් මෝල්වල පවතින සහල් හා වී තොගයන්හි සංචිතයන් මෙන්ම සහල් නිෂ්පාදන ක්‍රියාවලිය පොළොන්නරුව දිස්ත්‍රීක් පාරිභෝගික නිලධාරීන් විසින් පරීක්ෂා කරති.
+
+පාරිභෝගික සේවා අධිකාරියේ සභාපතිවරයාගේ හා අධ්‍යක්ෂ ජනරාල් වරයාගේ උපදෙස් පරිදි පොළොන්නරුව දිස්ත්‍රීක්කයේ   ප්‍රධාන පෙලේ සහල් මෝල්වල පවතින සහල් හා වී තොගයන්හි සංචිතයන් හා සහල් නිෂ්පාදන ක්‍රියාවලිය පිලිබදව සොයා බැලීම සදහා පොළොන්නරුව දිස්ත්‍රීක් පාරිභෝගික සේවා අධිකාරී කාර්යාලයේ නිලධාරීන් විසින් එම වී මෝල් විශේෂ පරීක්ෂා කිරීම, වී මෝල්වල මේ වනවිට පවතින වී, සහල් තොග කොපමණද යන්න පිලිබදව දත්ත එක් රැස්කිරීම දෙවන දිනටත් 27 වෙනිදා සිදුකළහ.
+
+Inspecting the main paddy mills and small and medium-scale mills, which cannot be tested on the 26th
+
+The Consumer Service Authority of the 27th to the 27th to Dudley Sirisena, the Polonnaruwa district is being collected and rice is produced in the Polonnaruwa district, has come to the Customer Service Authority.
+
+...
+
+[Data](articles/5fff835a.json)
+
+[Extended Data](ext_articles/5fff835a.ext.json)
+
+---
 
 ### Suspect arrested with a 700-page book in Colombo
 
@@ -2283,109 +2403,5 @@ NPP’s Unique Appeal: Standing Apart in a Sea of Corruption and Cronyism
 [Data](articles/e159809c.json)
 
 [Extended Data](ext_articles/e159809c.ext.json)
-
----
-
-### Suspect arrested with 5 kg of ice drugs
-
-*2024-10-27 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202607) · `si`
-
-Arrest made at Katunayake Airport: 5kg ice drugs seized, 2 suspects detained, including driver.
-
-🟩
-
-A person has been arrested at the Katunayake Airport with more than 5 kilograms of ice drugs.
-
-Police found 5 ice drugs from Malaysia from Malaysia and 26 grams of police narcotics bureau.
-
-A man and a woman have been arrested for carrying the suspect to carry the suspect.
-
-They have also taken the car they arrived in the police.
-
-◼️
-
-[Data](articles/41e83acc.json)
-
-[Extended Data](ext_articles/41e83acc.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-10-27 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102949/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle, Matara and Mannar districts.
-
-Fairly heavy showers above 50 mm are likely at some places in Western, Sabaragamuwa and North-western provinces.
-
-Showers or thundershowers will occur at several places in the other areas of the island during the evening or night, it added.
-
-Strong winds of about 40 kmph can be expected at times over Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
-
-◼️
-
-[Data](articles/1b76a076.json)
-
-[Extended Data](ext_articles/1b76a076.ext.json)
-
----
-
-### Settler Tourism & The Threat Of Terror
-
-*2024-10-27 09:17:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/settler-tourism-the-threat-of-terror/) · `en`
-
-On 23 October 2024, the American Embassy in Sri Lanka issued a statement restricting all embassy personnel from travelling to Arugam Bay, a popular beach town in southeastern Sri Lanka. One piece of information central to this designation of an escapist, surf-oriented, foreign-friendly, beach town as “high-risk” is the fact that Arugam Bay has recently witnessed a large influx of Israeli tourists. Although there was a brief dip in the number of Israeli tourists surfing, partying, digital working, or downward-dogging on the coast after 7 October 2023, these numbers have picked up, and, outside of peak season, Israelis are the largest demographic of holidaymakers in Arugam Bay.
-
-...
-
-[Data](articles/2686c488.json)
-
-[Extended Data](ext_articles/2686c488.ext.json)
-
----
-
-### NPP tops Elpitiya PS Election
-
-*2024-10-27 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102948/npp-tops-elpitiya-ps-election) · `en`
-
-The results of the Elpitiya Pradeshiya Sabha Election was released last night, with the National People’s Power (NPP) coming out on top.
-
-The NPP obtained a total of 17,295 votes, securing 15 seats.
-
-The number of votes and seats obtained by the parties are as follows:
-
-◼️
-
-[Data](articles/a56de957.json)
-
-[Extended Data](ext_articles/a56de957.ext.json)
-
----
-
-### The ice of ice of ice is hidden in a rice bag
-
-*2024-10-27 09:03:09* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-මල්ලක-සඟවාගෙන-ආපු-කෝටි-7ක්-වටිනා-අයිස්-අල්ලයි/11-412694) · `si`
-
-Ice drug bust: Poultry farmer (51) and taxi driver (36) arrested in Sri Lanka. Suspects caught with 5.2kg of ice concealed in rice bags. To appear in court today.
-
-🟩
-
-Two more than Rs.Been arrested by.
-
-The suspect is a 51 year old poultry farmer from Gothatuwatu area.
-
-He was from Kuala Lumpur to Air Asia Airlines AK. The airport was arrived at the airport.
-
-The stock of Ice drug weighing five and two kilograms and two kilograms and 26 grams heights were brought into the rice packaged.
-
-A 36-year-old Taxi driver, a 36 year old resident of Wadduaduwa, was arrested by a hospital in Weboda.
-
-The three suspects are to be produced before the Negombo Magistrate's Court today and is to be produced before the Negombo Magistrate's Court today.
-
-◼️
-
-[Data](articles/8cac1a13.json)
-
-[Extended Data](ext_articles/8cac1a13.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 12:13:41**
+As of **2024-10-27 12:24:36**
 
 ## Newspaper Stats
 
-*Scraped **51,593** Articles*
+*Scraped **51,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,068
 economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,796
+adalk | 4,797
 adaderanalk | 6,110
-tamilmirrorlk | 7,132
+tamilmirrorlk | 7,138
 virakesarilk | 8,298
 adaderanasinhalalk | 8,973
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 8,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,593 (100.0%) of 51,593 articles have been extended.
+51,598 (100.0%) of 51,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### லொறி மீது துப்பாக்கிச்சூடு: சாரதி கைது
+
+*2024-10-27 12:13:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறி-மீது-துப்பாக்கிச்சூடு-சாரதி-கைது/175-346106) · `ta`
+
+மீகஹஜதுரவில் போக்குவரத்து சோதனையின் போது நிறுத்தத் தவறிய லொறி மீது சூரியவெவ பொலிஸார் துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+
+லுணுகம்வெஹரவிலிருந்து சூரியவெவ நோக்கி பயணித்த லொறியானது, பொலிஸாரின் சமிக்ஞைகளை மதிக்காமல், பொறுப்பற்ற முறையில் ஓட்டிச் சென்றதாக பொலிஸார் தெரிவித்தனர். இதற்கமைய, வாகனத்தின் ஒரு டயர் மீது துப்பாக்கியால் சுட்ட பிறகு வாகனம் நிறுத்தப்பட்டது.
+
+இதற்கமைய, சாரதி கைது செய்யப்பட்டுள்ளதுடன், ஹம்பாந்தோட்டை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளன​ர்.
+
+◼️
+
+[Data](articles/72d36187.json)
+
+---
+
+### நாகை மீனவர்கள் 12 பேர்   சிறைப்பிடிப்பு
+
+*2024-10-27 12:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாகை-மீனவர்கள்-12-பேர்-சிறைப்பிடிப்பு/175-346102) · `ta`
+
+எல்லை தாண்டி வந்து பிடித்ததாக தமிழக மீனவர்கள் 12 பேரை அவர்களின் விசைப்படகுகளுடன் துப்பாக்கி முனையில் இலங்கை கடற்படையினர் கைது செய்துள்ளனர்.
+
+நாகப்பட்டினம் மாவட்டம், அக்கரைப்பேட்டை மீனவ கிராமத்தைச் சேர்ந்த சிலம்புச் செல்வன் என்பவருக்கு சொந்தமான விசைப்படகில் சனிக்கிழமை (26) குனா, செஞ்சிவேல், வெங்கடேசன், சின்னஅப்பு, கார்த்தி, ரகு உள்ளிட்ட 12 மீனவர்கள் நேற்று முன்தினம் மீன்பிடிக்கக் கடலுக்குச் சென்றுள்ளனர். நள்ளிரவு கோடியக்கரைக்கு தென்கிழக்கே 40 கடல் மைல் தொலைவில் அவர்கள் மீன்பிடித்துக் கொண்டிருந்தனர்.
+
+அப்போது அங்கு ரோந்து வந்த இலங்கை கடற்படையினர் நாகை மீனவர்கள் 12 பேரையும், விசைப்படகையும் எல்லை தாண்டி மீன் பிடித்ததாகக் கூறி துப்பாக்கி முனையில் கைது செய்துள்ளனர். இதனையடுத்து கைது செய்யப்பட்ட 12 பேரும் விசாரணைக்காக மயிலட்டி மீன்பிடி துறைமுகத்திற்கு அழைத்துச் செல்லப்பட்டு முதற்கட்ட விசாரணைக்கு பின்னர் மீனவர்கள் படகுடன் யாழ்ப்பாணம் மீன்வளத்துறை அதிகாரிகளிடம் ஒப்படைக்கப்பட்டனர்.
+
+...
+
+[Data](articles/c77a7b4d.json)
+
+---
 
 ### Navy seized an Indian fisherne vessel that violated Sri Lankan maritime boundary
 
@@ -56,6 +88,30 @@ The operations carried out extended from the year 2024 have been taken into cust
 
 ---
 
+### Trader arrested with 5 kg of ice
+
+*2024-10-27 11:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-கிலோ-கிராம்-ஐஸ்-உடன்-வர்த்தகர்-கைது/175-346100) · `ta`
+
+Businessman arrested with 5kg ice at Katunayake airport. Worth approximately Rs. 73.64 million. Two others also detained.
+
+🟩
+
+Approximately Rs.. 73.64 million worth of "ice" drug pocket was arrested by the police drug abolition (PNB) when a passenger tried to leave the Katunayake airport.
+
+The traveler and both of them were arrested with him to take him.
+
+The 51 -year -old businessman from Kattipuwa area has placed a poultry farm and hid 5.026 kilograms of "ice" in his travel bag in his packet.
+
+The other arrested is a 36 -year -old driver from Weboda and her assistant, a 33 -year -old woman from Panadura.
+
+◼️
+
+[Data](articles/93aea2b7.json)
+
+[Extended Data](ext_articles/93aea2b7.ext.json)
+
+---
+
 ### Passenger arrested with over 5 kg of ‘Ice’ at BIA
 
 *2024-10-27 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102953/passenger-arrested-with-over-5-kg-of-ice-at-bia) · `en`
@@ -75,6 +131,32 @@ Police have also taken into custody the vehicle in which they had arrived at the
 [Data](articles/81c0da42.json)
 
 [Extended Data](ext_articles/81c0da42.ext.json)
+
+---
+
+### Voter card distribution is on the beginning
+
+*2024-10-27 11:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகம்-ஆரம்பம்/175-346097) · `ta`
+
+Postal Department starts distributing voter cards for 2024 general election today. Distribution begins nationwide except Colombo district due to delays. Cards available from Nov 3, 8am-6pm.
+
+🟩
+
+The Postal Department has announced that the polling card for the 2024 general election will commence today (27).
+
+Senior Deputy Post Office Rajitha Ranasinghe has confirmed that the Postal Department has received cards for the ballot.
+
+The process of distributing these voter cards into households has begun today.
+
+However, for some delays, the voter cards in the Colombo district will not be distributed.
+
+Voter cards will be distributed on November 3 from 8:00 am to 6:00 pm.
+
+◼️
+
+[Data](articles/a7c3352d.json)
+
+[Extended Data](ext_articles/a7c3352d.ext.json)
 
 ---
 
@@ -176,6 +258,58 @@ The suspect is to be produced before the Hambantota Magistrate's Court.
 
 ---
 
+### Ranil's statement was incorrect that the money was allocated for increasing salaries
+
+*2024-10-27 10:52:45* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-වැඩිකිරිමට-මුදල්-වෙන්කළ-බවට-රනිල්ගේ-ප්‍රකාශය-වැරදියි/11-412696) · `si`
+
+Here's a 200-character summary:
+
+
+
+Ranil Wickremesinghe incorrectly stated funds were for salary increases. National Employees' Executive Committee contradicted this claim. Lal Kantha criticized Ranil's statement as misleading during an election campaign. He accused Ranil of making false claims while recovering from the presidential election and preparing for retirement.
+
+🟩
+
+The National Employees' Executive Committee of the National Employment Ranil Wickremesinghe said that the salaries of public servants had been allocated from January 2025 said the national government team leader and Appear.
+
+Mr. Lal Kantha was told by the National Election in Nawalapitiya (25) to a common election campaign.
+
+Speaking further Mr. Lal Kanthe said that if he had been allocated to pay the state employees, he had to take the money at home.
+
+Lal Kanthe said that he was a sense of making such statements instead of recovering from the presidential election and remaining retirement.
+
+Lal Kantha stated that the majority of the country will be responding to the country's propaganda that essential food prices have risen and the security of the country has been threatened.
+
+...
+
+[Data](articles/ff6b8aba.json)
+
+[Extended Data](ext_articles/ff6b8aba.ext.json)
+
+---
+
+### To kill the woman: one crore rupee contract;Arresting the person
+
+*2024-10-27 10:52:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-கொலைச்செய்ய-ஒரு-கோடி-ரூபாய்-ஒப்பந்தம்-நபர்-கைது/175-346095) · `ta`
+
+Contract killer arrested with gun and bullets for murdering woman over drugs addiction. Police seize weapons. Businessman confirms giving contract.
+
+🟩
+
+The murder and organized Criminal Investigation Department of the Criminal Investigation Department said that a man who was ready to kill a woman for a crores of rupees was arrested with gun and 6 bullets.
+
+The police have seized 6 ravages used in locally manufactured gun and T-56 guns.
+
+A famous businessman from Ahangama has confirmed that he has given a contract to kill a woman who is addicted to drug addicts and has been given a sum of Rs.
+
+◼️
+
+[Data](articles/c084752e.json)
+
+[Extended Data](ext_articles/c084752e.ext.json)
+
+---
+
 ### One crore rupee deal: Arrested in person
 
 *2024-10-27 10:52:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-கோடி-ரூபா-ஒப்பந்தம்-நபர்-கைது/175-346095) · `ta`
@@ -241,6 +375,26 @@ The driver of the tipper vehicle has been arrested in connection with the incide
 [Data](articles/ee6485f6.json)
 
 [Extended Data](ext_articles/ee6485f6.ext.json)
+
+---
+
+### Mahawa - Anuradhapura Train Table
+
+*2024-10-27 10:19:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹவ-அநுராதபுரம்-ரயில்-அட்டவணை/175-346093) · `ta`
+
+Colombo-Fort to Kankesanthurai train service resumes after rail modernization to Mahawa and Anuradhapura. Government Information Department reports details.
+
+🟩
+
+Rail services from Colombo - Fort to Kankesanthurai will be resumed after modernization of rails up to Mahawa and Anuradhapura.
+
+The report issued by the Government Information Department describes the details
+
+◼️
+
+[Data](articles/11a17658.json)
+
+[Extended Data](ext_articles/11a17658.ext.json)
 
 ---
 
@@ -2325,167 +2479,5 @@ A public meeting organized by the Prime Minister Dr. Harini Amarasuriya was held
 [Data](articles/11242aad.json)
 
 [Extended Data](ext_articles/11242aad.ext.json)
-
----
-
-### West Indies
-
-*2024-10-26 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202577) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-West Indies vs Sri Lanka: West Indies won the toss and chose to bowl in the third and final ODI match on March 26.
-
-🟩
-
-Sri Lanka and Buddhism. West Indies won the toss and winning the Third and final ODI series today (26).. West Indies decided to bowl first.
-
-◼️
-
-[Data](articles/2e710260.json)
-
-[Extended Data](ext_articles/2e710260.ext.json)
-
----
-
-### Elpitiya Pradeshiya Sabha election: 40 percent voting
-
-*2024-10-26 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197163) · `ta`
-
-Elpitiya Pradeshiya Sabha election update: 40% voting completed by noon on Saturday. Polls opened at 7 AM.
-
-🟩
-
-Voting for the Elpitiya Pradeshiya Sabha elections will commence at 7 am on Saturday.
-
-According to the Galle District Elections Office, 40 percent of voting has been held until 12 noon today.
-
-◼️
-
-[Data](articles/7fe4a7de.json)
-
-[Extended Data](ext_articles/7fe4a7de.ext.json)
-
----
-
-### The vehicle of former parliamentarian Lohan Ratwatta
-
-*2024-10-26 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197162) · `ta`
-
-Former MP Lohan Ratwatta's car crash at Thangahamula junction sparked public dispute.
-
-🟩
-
-Former parliamentarian Lohan Ratwatta's vehicle crashed at Thangahamula junction on Badeniya - Anuradhapura road under the Board of Police.
-
-Following the accident, there was a heated argument between the public and the vehicle passengers.
-
-◼️
-
-[Data](articles/cbff3ef1.json)
-
-[Extended Data](ext_articles/cbff3ef1.ext.json)
-
----
-
-### Punchi son killed at home
-
-*2024-10-26 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202575) · `si`
-
-Child electrocuted while playing, identified as grade 1 student from Attanagalla area. Parents away when incident occurred. Child rushed to hospital but succumbed to injuries.
-
-🟩
-
-A child about six years old was electrocution, playing in Attanagalla, Attanagalla area.
-
-The deceased has been identified as a grade 1 student who was living in the Attanagalla area.
-
-The accident had occurred last afternoon and that the dead child was a regularly lonely child to play and playing electrical toys.
-
-When the child was electrification, the mother and father had been engaged in another bus and the child had been admitted to the Waterpiti Base Hospital.
-
-◼️
-
-[Data](articles/a50cafbd.json)
-
-[Extended Data](ext_articles/a50cafbd.ext.json)
-
----
-
-### We can't buy our opposition to money - Dilith
-
-*2024-10-26 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202574) · `si`
-
-Dilith Jayaweera criticizes current government's lack of strategy. He advises people not to sell their opposition for money.
-
-🟩
-
-Dilith Entrepreneurship Dilith Jayaweera says that there is no strategy in the present government's program.
-
-He was speaking at a business meeting held in general meeting yesterday (25) under the patronage of the Norrological Entrepreneurship Dilitian Entrepreneurship Dilith Jayaweera.
-
-"I have shown the present President.. That no strategy he proposes. Now he is his historical ... as the most loan in Sri Lanka.
-
-We propose to the people to give us the opposition ... let go of your. Our opposition cannot buy money ".
-
-◼️
-
-[Data](articles/c7317d38.json)
-
-[Extended Data](ext_articles/c7317d38.ext.json)
-
----
-
-### Former MP Lohan Ratwatte’s vehicle involved in accident
-
-*2024-10-26 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102938/former-mp-lohan-ratwattes-vehicle-involved-in-accident) · `en`
-
-A vehicle reportedly belonging to former Member of Parliament Lohan Ratwatte has been involved in an accident at the Dangahamula Junction along the Padeniya-Anuradhapura road, within the Wariyapola Police Division.
-
-Following the accident, a heated altercation had reportedly occurred between local residents and the occupants of the vehicle.
-
-The disagreement soon escalated into a physical altercation, with both parties involved in a scuffle.
-
-Adding to the tension, local residents alleged that multiple weapons were found inside the vehicle, further heightening concerns and drawing the attention of law enforcement.
-
-◼️
-
-[Data](articles/c5080d76.json)
-
-[Extended Data](ext_articles/c5080d76.ext.json)
-
----
-
-### Hint of new electricity tariff revision
-
-*2024-10-26 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202573) · `si`
-
-Electricity Board proposes 6% tariff revision in December. Public Utilities Commission reviews 4-11% reduction. Study ongoing; final decision pending.
-
-🟩
-
-The Electricity Board has handed over the proposal to the Public Utilities Commission of Tax Turning This Year Third this year.
-
-The Public Utilities Commission stated that the electricity tariffs will be revised at 6% in December.
-
-The proposal to revise the electricity tariffs in December has been forwarded to the Public Utilities Commission.
-
-The Public Utilities Commission stated that the electricity tariffs have been proposed to be reduced by 4 to 11 percent.
-
-The Commission further stated that the resolutions are currently studying and further amendments will be forwarded to the CEB.
-
-The Director of the Public Utilities Commission of the Public Utilities Commission Jayamanath Herath said that all the proposals would be paid to a public consultant.
-
-The first quarter of the year was awarded the electricity tariff on March 4 and amended the electricity tariff from 21.9 percent for all categories.
-
-The amendment of the second quarter was held on July 16, and the number of categories is 22.5%.
-
-◼️
-
-[Data](articles/a0aa24ca.json)
-
-[Extended Data](ext_articles/a0aa24ca.ext.json)
 
 ---

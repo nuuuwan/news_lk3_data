@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 15:23:55**
+As of **2024-10-27 15:39:57**
 
 ## Newspaper Stats
 
-*Scraped **51,630** Articles*
+*Scraped **51,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,85 @@ dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,799
 adaderanalk | 6,115
-tamilmirrorlk | 7,142
+tamilmirrorlk | 7,144
 virakesarilk | 8,307
-adaderanasinhalalk | 8,979
+adaderanasinhalalk | 8,980
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,630 (100.0%) of 51,630 articles have been extended.
+51,633 (100.0%) of 51,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### “The main political parties are panicked”
+
+*2024-10-27 15:12:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதான-அரசியல்-கட்சிகள்-பீதியடைந்துள்ளன/175-346118) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka: Actor-turned-politician Ranjan Ramanayake returns to politics, causing panic among major parties. He claims parties fear competition from his entry.
+
+🟩
+
+Actor and politician Ranjan Ramanayake has said that the major political parties are panicked after he decided to return to politics.
+
+Ramanayake said, "I have filed petitions against the decision to get on the field, as the major parties are afraid of coming back to politics.
+
+◼️
+
+[Data](articles/49119ab3.json)
+
+[Extended Data](ext_articles/49119ab3.ext.json)
+
+---
+
+### Sri Lanka loses in Sri Lanka
+
+*2024-10-27 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202618) · `si`
+
+Sri Lanka lost 67-64 in Asian Netball Championship. Tournament held in Bangalore, India reached finals unexpectedly.
+
+🟩
+
+The Sri Lankan team, who was defeated by 67 to 64 runs in the face of the Asian Netball Championship took place today.
+
+This year's Asian Netball Championship was held in Bangalore, where India was unlucky to the finals.
+
+◼️
+
+[Data](articles/e5935cc2.json)
+
+[Extended Data](ext_articles/e5935cc2.ext.json)
+
+---
+
+### Police firing on lorry
+
+*2024-10-27 15:06:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறி-மீது-பொலிஸார்-துப்பாக்கிச்-சூடு/175-346117) · `ta`
+
+Sri Lanka: Solarwewa police fired on lorry during traffic raid. Vehicle ignored police signals, stopped after tire fire. Driver arrested, found with 17 cows. Incident occurred near Meegahajadura.
+
+🟩
+
+Solarwewa police have opened fire on a lorry that failed to stop during a traffic raid in Meegahajadura.
+
+Police said the lorry traveling from Lunugamvevara to Suryawewa was driven without respecting the signals of the police and therefore the vehicle was stopped after a fire on a tire of the vehicle.
+
+It was revealed that the driver was arrested by police and carrying 17 cows in the lorry.
+
+◼️
+
+[Data](articles/5ce8b878.json)
+
+[Extended Data](ext_articles/5ce8b878.ext.json)
+
+---
 
 ### Measures in place to control PRRS spread in Sri Lanka - Authorities
 
@@ -2397,95 +2463,5 @@ As soon as the incident, we were able to hospitalize our company and its managem
 [Data](articles/f9ede1a0.json)
 
 [Extended Data](ext_articles/f9ede1a0.ext.json)
-
----
-
-### President tells Europe that ensured tourist protection
-
-*2024-10-26 18:14:58* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරකයන්ගේ-ආරක්ෂාව-තහවුරු-කර-ඇති-අයුරු-ජනපති-යුරෝපයට-කියයි/11-412690) · `si`
-
-Sri Lanka President ensures tourist protection, informs EU delegation about recent security measures. EU commits to expanding market access, increasing employment opportunities, and supporting tourism development.
-
-🟩
-
-President appoints representatives of the government's steps to ensure the safety of tourists and the people
-
-Ambassador of European Union's Ambassador to Sri Lanka (H.E. Carmen Morano) Mrs. President Anura Kumara Dissanayake at the Presidential Secretariat yesterday (25) at the Presidential Secretariat yesterday.
-
-The President made aware of the European Union delegation on the current situation in Sri Lanka and also informed the recent measures taken to ensure the security of the Sri Lankan and Sri Lankan people. The President said that the main tourism provisions were implemented in the main tourist zone and emergency services.
-
-The European Union is a decisive partner in Sri Lanka, as the second largest export and tourism market in Sri Lanka and is the third largest import market.
-
-The EU representatives confirmed the President to expand its market access to Sri Lanka, increase their employment opportunities in the European Union and supporting tourism.
-
-...
-
-[Data](articles/2c6d949a.json)
-
-[Extended Data](ext_articles/2c6d949a.ext.json)
-
----
-
-### 'Jolly O O Gimkana' starring Prabhu Deva's 'Dance Storm'
-
-*2024-10-26 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/197185) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Jolly O O Gimkana" stars Prabhu Deva. Director Shakti Chidambaram's film features Prabhu Deva, Madonna Sebastian, Abhirami, Yashika Aanand, and Yogesh Babu. The song "Policeman Katik Kitta" has been released, featuring Andrea as background singer. Songwriter Jegan Gaviraj claims authorship, while director Chidambaram attributes it to himself.
-
-🟩
-
-The film crew has released a new song and a video for the film 'Jolly O O Gimkana' starring Prabhu Deva, a choreographer and lead star actor.
-
-இயக்குநர் ஷக்தி சிதம்பரம் இயக்கத்தில் உருவாகி இருக்கும் 'ஜாலி ஓ ஜிம்கானா' எனும் திரைப்படத்தில் பிரபுதேவா, மடோனோ செபாஸ்டியன், அபிராமி, யாஷிகா ஆனந்த், யோகி பாபு உள்ளிட்ட பல முன்னணி நட்சத்திர நடிகர்கள் , நடிகைகள் நடித்திருக்கிறார்கள்.
-
-All the tasks of the film are completed and waiting for the release. In this case, the song 'Policeman Katik Kitta', which was featured in the film, has been released.
-
-Director Shakti Chidambaram has written the song and has sung the background singer and actress Andrea.
-
-The lyrics and the dance moves of the actor and actress have been excited by the fans.
-
-இதன் காரணமாக இந்த பாடல் இணையத்தில் வெளியான குறுகிய கால அவகாசத்திற்குள் லட்சக்கணக்கான பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.
-
-...
-
-[Data](articles/addb629f.json)
-
-[Extended Data](ext_articles/addb629f.ext.json)
-
----
-
-### 'Boy Pestie is not a lion ..'
-
-*2024-10-26 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/197184) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Mr. Housekeeping" movie stars Hari Bhaskar. Song "Bai Pestie Singhame" released, featuring lyric video and music video. Directed by Arun Ravichandran, produced by N.. Ramaswamy and Nitin Manohar. Songwriter Ritun Sagar, composer Osho Venkat. Lyrics focus on modern youth life events.
-
-🟩
-
-The song 'Mr. House Keeping' starring the hero of the story Hari Bhaskar has been released as 'Bai Pestie Singhame' and the lyrical video and video for the song.
-
-Hari Bhaskar, Loshia, Princess, Shah Ra, Ryan and many others have starred in the film 'Mr. Housekeeping' directed by debutant Arun Ravichandran.
-
-Producer N.. Ramaswamy and Nitin Manohar are co -produced.
-
-விரைவில் வெளியிட திட்டமிடப்பட்டிருக்கும் இந்த திரைப்படத்தில் இடம் பெற்ற 'பாய் பெஸ்டீ இல்லா சிங்கமே' எனத் தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோ மற்றும் காணொளியும் வெளியிடப்பட்டிருக்கிறது.
-
-The song is written by songwriter Ritun Sagar, background singer and composer Osho Venkat.
-
-The lyrics of the song have attracted the attention of the fans of the Internet, as the life of the modern younger generation is focusing on the events of today's modern generation.
-
-◼️
-
-[Data](articles/6f169b9b.json)
-
-[Extended Data](ext_articles/6f169b9b.ext.json)
 
 ---

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 14:39:49**
+As of **2024-10-27 15:09:18**
 
 ## Newspaper Stats
 
-*Scraped **51,623** Articles*
+*Scraped **51,628** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 412
-colombotelegraphcom | 519
+colombotelegraphcom | 522
 bbccomsinhala | 524
 islandlk | 3,068
 economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,798
-adaderanalk | 6,114
-tamilmirrorlk | 7,141
+adaderanalk | 6,115
+tamilmirrorlk | 7,142
 virakesarilk | 8,307
 adaderanasinhalalk | 8,979
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,623 (100.0%) of 51,623 articles have been extended.
+51,628 (100.0%) of 51,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Measures in place to control PRRS spread in Sri Lanka - Authorities
+
+*2024-10-27 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102958/measures-in-place-to-control-prrs-spread-in-sri-lanka-authorities-) · `en`
+
+The recently spreading swine disease ‘Porcine Reproductive & Respiratory Syndrome’ (PRRS) has been identified as an African Swine Disease, says the Department of Animal Production and Health.
+
+Furthermore, the department assured that measures have been taken to control its spread in the island.
+
+◼️
+
+[Data](articles/70c0c0c5.json)
+
+[Extended Data](ext_articles/70c0c0c5.ext.json)
+
+---
 
 ### Tensions erupt following Ranjan Ramanayake’s political conference over compensation
 
@@ -75,6 +91,34 @@ Accordingly, the approval of the Regional Health Authorities has been compulsory
 [Data](articles/87cb4903.json)
 
 [Extended Data](ext_articles/87cb4903.ext.json)
+
+---
+
+### Eisen removed the bud
+
+*2024-10-27 13:59:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈசனை-நீக்கியது-மொட்டு/175-346114) · `ta`
+
+Parameswaran dismissed from UPFA due to illegal activities. Party to reconsider membership after legal proceedings. National Organizer Namal Rajapaksa directed the decision. Sri Lanka PA denies responsibility for actions of foreign member. Party emphasizes welfare and anti-corruption stance.
+
+🟩
+
+Eason called. The Peramuna has announced that Parameswaran is being dismissed from all responsibilities, including the Basic Member of the Sri Lanka Peoples Alliance (UPFA), for the fact that the party's name is stigmatized and illegal.
+
+He was arrested last week on charges of allegedly collecting money illegally for allegedly sending foreigners.
+
+Once the legal legal proceedings and investigations are over, the party's central committee will consider whether or not to re -join the party.
+
+The resolution was taken on the directive of the National Organizer of the Sri Lanka Peoples Freedom Alliance, Namal Rajapaksa.
+
+Sri Lanka's Central Committee Member Geetanath Kasilingam said that the Sri Lanka PA would not be responsible for any action taken by the West person and any more.
+
+All members of the Sri Lanka PA party are expected to act on the welfare of the party and the people's services, while I am said to have taken stern action against the illegal, corruption and anti -people activities.
+
+◼️
+
+[Data](articles/f668af79.json)
+
+[Extended Data](ext_articles/f668af79.ext.json)
 
 ---
 
@@ -1134,6 +1178,20 @@ Strong winds of about 40 kmph can be expected at times over Northern, North-cent
 
 ---
 
+### Settler Tourism & The Threat Of Terror
+
+*2024-10-27 09:17:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/settler-tourism-the-threat-of-terror/) · `en`
+
+On 23 October 2024, the American Embassy in Sri Lanka issued a statement restricting all embassy personnel from travelling to Arugam Bay, a popular beach town in southeastern Sri Lanka. One piece of information central to this designation of an escapist, surf-oriented, foreign-friendly, beach town as “high-risk” is the fact that Arugam Bay has recently witnessed a large influx of Israeli tourists. Although there was a brief dip in the number of Israeli tourists surfing, partying, digital working, or downward-dogging on the coast after 7 October 2023, these numbers have picked up, and, outside of peak season, Israelis are the largest demographic of holidaymakers in Arugam Bay.
+
+...
+
+[Data](articles/2686c488.json)
+
+[Extended Data](ext_articles/2686c488.ext.json)
+
+---
+
 ### NPP tops Elpitiya PS Election
 
 *2024-10-27 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102948/npp-tops-elpitiya-ps-election) · `en`
@@ -1177,6 +1235,32 @@ The three suspects are to be produced before the Negombo Magistrate's Court toda
 [Data](articles/8cac1a13.json)
 
 [Extended Data](ext_articles/8cac1a13.ext.json)
+
+---
+
+### Should We Lower The Bar, So That Less Qualified Juniors From NPP Can Jump Over?
+
+*2024-10-27 09:02:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/should-we-lower-the-bar-so-that-less-qualified-juniors-from-npp-can-jump-over/) · `en`
+
+...
+
+[Data](articles/b1940ea2.json)
+
+[Extended Data](ext_articles/b1940ea2.ext.json)
+
+---
+
+### The Disturbing Misuse Of Authority At BMICH Police Unit
+
+*2024-10-27 08:53:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-disturbing-misuse-of-authority-at-bmich-police-unit/) · `en`
+
+When people visit the Colombo International Book Fair, they expect to explore a haven for intellectual and cultural exchange. Yet, for journalist Kalpa Gunaratne, an innocent visit took an alarming turn when he found himself arrested and his press freedoms challenged by the police officers in charge of Bandaranaike Memorial International Conference Hall (BMICH) premises. This unsettling incident on October 3, 2024, has raised troubling questions about police accountability, the treatment of journalists, and the erosion of public trust in those who are meant to uphold peace and justice.
+
+...
+
+[Data](articles/bcc5d99e.json)
+
+[Extended Data](ext_articles/bcc5d99e.ext.json)
 
 ---
 
@@ -2419,131 +2503,5 @@ Former Parliamentarian CB. When Ratnayake was addressing the House, he opposed h
 [Data](articles/5a4d2e77.json)
 
 [Extended Data](ext_articles/5a4d2e77.ext.json)
-
----
-
-### දියේ ගිලී තරුණයෙකු මරුට
-
-*2024-10-26 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202589) · `si`
-
-A 20-year-old man from Haputale died after drowning in Attanagalu Oya while working with colleagues. His body was discovered by local residents after a search lasting several hours.
-
-🟩
-
-The deceased is a 20 year old resident of the Haputale Tatnala, Haputale.
-
-The deceased has been staying in Dambuwella, Attanagalla and a month ago for a job in the area.
-
-The young man was drowned with a few of the workmates at Attanagalu Oya.
-
-Later, a group of residents of the area had found a strict premises for about four hours and found the body of the youth.
-
-◼️
-
-[Data](articles/b3e5b968.json)
-
-[Extended Data](ext_articles/b3e5b968.ext.json)
-
----
-
-### House-to-house Kanthi Kodikara attacked
-
-*2024-10-26 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202588) · `si`
-
-Kanthi Kodikara attacked during campaign. Wife hospitalized. Police investigation ongoing.
-
-🟩
-
-An incident involved in attacking Mr. Kanthi Kodikara, who was divided into leaflets.
-
-The wife of Mr. Upali Kodikara, who is contesting for this year's parliamentarian, has been attacked in the Pannipitiya area yesterday (25).
-
-She was attacked while traveling from house to house.
-
-Mrs. Kanthi Kodikara has been admitted to the Sri Jayewardenepura Hospital after the attack.
-
-It was reported that the Maharagama Police has been arrested by the Maharagama Police.
-
-◼️
-
-[Data](articles/38f6e0bc.json)
-
-[Extended Data](ext_articles/38f6e0bc.ext.json)
-
----
-
-### India is a historical defeat in New Zealand
-
-*2024-10-26 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202586) · `si`
-
-New Zealand wins Test series in India for first time since 2012. Defeats India in second test by 113 runs. Mitchell Santner takes 13 wickets. India fails to reach victory target of 359 runs.
-
-🟩
-
-For the first time in history, New Zealand team recorded a Test tournament win in India.
-
-With the Second Test with the Indian team by 113 runs, they were able to win.
-
-This is especially the first time India defeated a Test series in his country after 2012.
-
-New Zealand scored 259 runs for the first innings of the second Test for the second Test.
-
-With New Zealand scored 255 runs for the second innings, India target 359 runs for the win.
-
-However, only 245 runs in the Indian team were able to retaliate the target.
-
-Mitchell Santnor was able to break 13 wickets in two innings.
-
-◼️
-
-[Data](articles/505ba556.json)
-
-[Extended Data](ext_articles/505ba556.ext.json)
-
----
-
-### Two persons arrested with domestic guns in Matale
-
-*2024-10-26 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197180) · `ta`
-
-Two men, ages 40 and 53, arrested in Matale with two domestic guns during a police raid based on confidential information.
-
-🟩
-
-Two suspects have been arrested by the Galewela police on Friday (25) with 02 domestic guns in the Bogahayaya area of ​​the Galewela Police Division in Matale.
-
-They were arrested during a raid carried out on confidential information received by the Galewela police.
-
-The suspects were 40 and 53 years old from Wahakottai, Matale.
-
-◼️
-
-[Data](articles/e559edff.json)
-
-[Extended Data](ext_articles/e559edff.ext.json)
-
----
-
-### Mcdonald's activities in Sri Lanka?
-
-*2024-10-26 16:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-McDonald-sஇன்-செயற்பாடுகள்-தடைப்படும்/175-346081) · `ta`
-
-McDonald's breaks ties with Sri Lankan partner after legal settlement. Public support acknowledged. Companies urge rejection of rumors about future activities in Sri Lanka. Terms of agreement undisclosed.
-
-🟩
-
-Mcdonald's corporation and its Sri Lankan rights partner, the International Restaurant Systems (Pvt.) Ltd, have broken their trade relations following a mutually agreed legal solution.
-
-The report confirmed that the corporation of the rights was halted and the public has been praised for its support.
-
-Recently, the companies have urged the public to reject rumors or speculation in the media.
-
-And in that statement, not providing details on the terms of the solution. In addition, no matter whether MCDONALD'S will continue new activities in Sri Lanka. (That)
-
-◼️
-
-[Data](articles/d6ea0784.json)
-
-[Extended Data](ext_articles/d6ea0784.ext.json)
 
 ---

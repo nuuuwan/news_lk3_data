@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 18:00:43**
+As of **2024-10-27 18:20:03**
 
 ## Newspaper Stats
 
-*Scraped **51,670** Articles*
+*Scraped **51,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,801
-adaderanalk | 6,116
+adaderanalk | 6,117
 tamilmirrorlk | 7,147
 virakesarilk | 8,334
 adaderanasinhalalk | 8,984
@@ -26,27 +26,53 @@ adaderanasinhalalk | 8,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,656 (100.0%) of 51,670 articles have been extended.
+51,665 (100.0%) of 51,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
 
-### ශ්‍රී ලංකා සහ පාකිස්තාන ගුවන් හමුදාපතිවරු අතර හමුවක්
+### Meeting between Sri Lanka and Pakistan Air Force Commander
 
 *2024-10-27 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202622) · `si`
 
-පාකිස්තාන ගුවන් හමුදාපති එයාර් මාෂල් සහීර් අහමඩ් මහතාගේ ආරාධනයක් මත කලාපයේ පැවැත්වෙන යුද අභ්‍යාසයක් නිරීක්ෂණය කිරීම සඳහා ගුවන් හමුදාපති එයාර් මාර්ෂල් උදේනි රාජපක්ෂ මහතා පාකිස්තානයට ගොස් තිබේ.
+Sri Lanka Air Marshal Unima Rajapaksa visits Pakistan to observe military exercises. Meeting at Pakistani Air Force HQ discusses regional security and operational cooperation. Focus on enhancing bilateral defense capabilities through joint training and expertise sharing.
 
-දෙරටේ ගුවන් හමුදාපතිවරුන් අතර නිල සාකච්ඡාවක් ඉස්ලාමාබාද්හි පිහිටි පාකිස්තාන ගුවන් හමුදා මූලස්ථානයේ දී පැවැත් වූ බව ගුවන් හමුදා මාධ්‍ය ඒකකය ද පවසා සිටියේය.
+🟩
 
-මෙහිදී මූලික වශයෙන් කලාපීය ආරක්ෂාව සහ මෙහෙයුම් සහයෝගීතාව පිළිබඳව අවධානය යොමු ව ඇත.
+Commander of the Air Force Air Marshal Unima Rajapaksa has gone to Pakistani to monitor a war exercise in the region, Air Marshall Suriyar Ahmed.
 
-දෙරටේ ගුවන් හමුදාවන් අතර මෙහෙයුම් නිපුණතාවයන් සහයෝගයෙන් වර්ධනය කරගැනීමට එහිදී අවධානය යොමු වී තිබේ.
+The Air Force Media Unit said that a official discussion was held at the Pakistani Air Force Headquarters in the two countries of the two Air Force Commanding Headquarters in Islamabad.
+
+This is primarily focused on regional security and operational cooperation.
+
+The two-sides of the two countries have focused on cooperation with operational skills.
 
 ◼️
 
 [Data](articles/bd62986e.json)
+
+[Extended Data](ext_articles/bd62986e.ext.json)
+
+---
+
+### ‘Both current President and I are rulers without majority’: Ranil
+
+*2024-10-27 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102960/both-current-president-and-i-are-rulers-without-majority-ranil) · `en`
+
+Former President Ranil Wickremesinghe says that the current President Anura Kumara Dissanayake lacks a parliamentary majority, similar to himself.
+
+He made these remarks while attending a public meeting held by the New Democratic Front in Negombo this morning (27).
+
+“If you look into his list, I don’t know whether his government can last three months or at least three weeks. We need experienced people for the country to run. We ask to put experienced people forward. He can last at least for three years only if he has a majority,” the former president added.
+
+“They tell me to stay at home if I lose. I lost, I accept that. I contested the presidential election. The majority did not vote for me. So I lost, but the majority did not vote for him either,” Wickremesinghe said.
+
+The former president further pointed out that Dissanayake also failed to secure 51% of the vote, stating that both he and the current president are presidents without a majority.
+
+...
+
+[Data](articles/1717f1cc.json)
 
 ---
 
@@ -190,105 +216,161 @@ In his statement on the 24th, Ranil said that none of the two investigators were
 
 ---
 
-### இஸ்ரேலுக்கான ஆயுத விநியோகத்தைத்   தடுத்த கிரேக்க தொழிற்சங்கவாதிகள்
+### Greek trade unionists who prevented arms distribution to Israel
 
 *2024-10-27 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197269) · `ta`
 
-தொழிற்சங்க உறுப்பினர்கள் ஒருமித்த கொள்கையின் அடிப்படையில் ஒன்றிணைந்தால் போருக்கு எதிரான கனதியான நடவடிக்கைகளை எடுக்க முடியும் என்பதை பிரேயஸ் துறைமுக தொழிற்சங்க உறுப்பினர்கள் நிரூபித்து உள்ளார்கள். இதேபோன்ற நடவடிக்கைகள் உலகளாவிய அடிப்படையில் எடுக்கப்பட்டால் ஆட்சியதிகாரத்தில் உள்ளவர்களுக்கு உருவாகும் சிக்கல் அவர்கள் தமது முடிவுகளை மீள்பரிசீலனை செய்யும் நிலைக்கு இட்டுச் செல்லக்கூடும்.
+Greek trade unionists block arms shipment to Israel. Port workers unite against war, showing unions can impact global conflicts. Their actions may force regimes to reconsider decisions.
+
+🟩
+
+Members of the Prayas port union have proved that union members can take heavy action against war if they are united. If similar measures are taken on a global basis, the problem that can be created for those in the regime may lead to re -recruiting their decisions.
 
 ◼️
 
 [Data](articles/04468484.json)
 
+[Extended Data](ext_articles/04468484.ext.json)
+
 ---
 
-### இஸ்ரேல் - ஹிஸ்புல்லா யுத்தம்   "புள்ளிவிபரங்களைத் தாண்டிய பேரனர்த்தத்தின் யதார்த்தம்"
+### Israel - Hizbullah War "The reality of the bargaining beyond statistics"
 
 *2024-10-27 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197271) · `ta`
 
-ஹிஸ்புல்லா இயக்கம் என்பது ஆதிக்க சக்திகளுக்கு எதிரான ஆயுதக் கிளர்ச்சி என்ற தத்துவமாக இருக்கையில், ஆவொன் என்ற பாத்திரம் அரச அதிகாரத்தின் தத்துவம். இந்த இரு தத்துவங்ளுக்கு இடைப்பட்டதாக லெபனானின் பாராளுமன்றம் திகழ்கிறதாயின். பெரியை பதவி நீக்கம் செய்வதன் மூலம் ஹிஸ்புல்லா இயக்கத்தின் வகிபாகத்தை முற்று முழுதாக இல்லாமல் செய்து விடும் தந்திரோபாயத்தை அமெரிக்கா கடைப்பிடிக்கப் பார்க்கிறது.
+Here's a 200-character summary:
+
+
+
+Israel-Hizbullah conflict: Hezbollah as armed resistance vs. Lebanon's parliament. US observes Hizbullah tactics.
+
+🟩
+
+While the Hezbollah Movement is the philosophy of armed rebellion against the dominant forces, the role of Avanon. If Lebanon's Parliament is in the midst of these two philosophies. The US is observing the tactic that the Hizbullah movement will not completely completely completely.
 
 ◼️
 
 [Data](articles/780f2fc3.json)
 
+[Extended Data](ext_articles/780f2fc3.ext.json)
+
 ---
 
-### அறுகம்பை தாக்குதல் எச்சரிக்கை: அமைதியை சீர்குலைப்பது யாருடைய திட்டம் ?
+### Warning Warning: Whose plan is to disrupt peace?
 
 *2024-10-27 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197270) · `ta`
 
-அறுகம்பே விவகாரமானது சமூகத்தில் ஒருவித அச்சத்தையும், ஏதோ நடக்கப் போகின்றதோ என்ற மனக் கலக்கத்தையும் ஏற்படுத்தியுள்ளது. அதுவும் முஸ்லிம்கள் செறிவாகவும், தமிழர்கள், சிங்கள மக்கள் கணிசமாகவும் வாழ்வது மட்டுமன்றி வெளிநாட்டவர் வந்து செல்கின்ற சுற்றுலா தலமாகவும் அறுகம்பே இருப்பதால் இது பற்றி எழுதுவது நமது பொறுப்பாகின்றது.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Augkampay incident causes fear in community. Muslims concentrated, while Tamils and Sinhalese live among foreigners. Responsibility lies in reporting this issue.
+
+🟩
+
+The Augkampay affair has caused some fear in the community and the disturbance of something that is going to happen. It is our responsibility to write about it as Muslims are concentrated, the Tamils ​​and the Sinhalese are not only living in the foreigners.
 
 ◼️
 
 [Data](articles/e1a03315.json)
 
+[Extended Data](ext_articles/e1a03315.ext.json)
+
 ---
 
-### ஹமாஸின் சூளுரை  ‘இறுதி வரையில் எமது தேசத்தின் விடுதலைக்காக போராடுவோம்’
+### We will fight for the liberation of our nation till the end of Hamas
 
 *2024-10-27 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197272) · `ta`
 
-சின்வர் கடந்த 12 மாதங்களாக காஸாவில் தான் இருந்தார். இஸ்ரேலுக்கு எதிரான இராணுவ நடவடிக்கைகளுக்கு அவர் தொடர்ச்சியாக தலைமை தாங்கினார். மிகவும் துணிச்சலாகவும் விவேகமாகவும் அவர் இஸ்ரேலை எதிர்கொண்டார். அதன் காரணமாக இஸ்ரேல் தனது படுகொலைகளுக்கு சர்வதேச மட்டத்தில் கிடைத்து வரும் ஆதரவு போதாது என உலக அரங்கில் உளறிக் கொண்டு திரியும் நிலை ஏற்பட்டது.
+Here's a summary of 200 characters:
+
+
+
+Hamas leader Sinwar leads Gaza resistance against Israel for 12 months. His strategic approach damages Israel's global image, reducing international support for its actions. The statement emphasizes ongoing struggle for Palestinian liberation.
+
+🟩
+
+Sinwar has been in Gaza for the past 12 months. He continued to head for military operations against Israel. So bravely and wise he faced Israel. As a result, Israel was in a state of disrepair on the world stage that the international support for its killings was not enough.
 
 ◼️
 
 [Data](articles/f5312a15.json)
 
+[Extended Data](ext_articles/f5312a15.ext.json)
+
 ---
 
-### ஹொரணையில் சட்டவிரோத கோடாவுடன் ஒருவர் கைது !
+### One arrested with illegal Koda in Horana
 
 *2024-10-27 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/197236) · `ta`
 
-ஹொரணை பொலிஸ் பிரிவுக்குட்பட்ட தெல்கஹகொடெல்ல பிரதேசத்தில்,  சட்டவிரோத மதுபானம் வடிப்பதற்கு பயன்படுத்தப்படும் கோடாவை வைத்திருந்த சந்தேகநபர் ஒருவர் கைது ஒருவர் இன்று ஞாயிற்றுக்கிழமை (27) பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+Horana police arrest suspect for illegal liquor in Telgahagodella area.
 
-ஹொரணை பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
+
+A suspect in the Telgahagodella area belonging to the Horana Police Division has been arrested by a suspect who has been arrested for illegal liquor.
+
+He was arrested during a raid carried out on the basis of information received by the Horana Police Station Officers.
 
 ◼️
 
 [Data](articles/f20816ef.json)
 
+[Extended Data](ext_articles/f20816ef.ext.json)
+
 ---
 
-### தமிழ் தலைவர்கள் அநுரவுடன் புகைப்படம் எடுப்பதால் அமைச்சர்களாகிவிட முடியாது - பிமல் ரத்நாயக்க
+### Tamil leaders cannot become ministers because they are photographed with Anura - Bimal Ratnayake
 
 *2024-10-27 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/197261) · `ta`
 
-தமிழ் தலைவர்கள் அநுரவுடன் புகைப்படம் எடுப்பதால் அமைச்சர்கள் ஆகிவிட முடியாது. தேசிய மக்கள் சக்தியிலே போட்டியிட்டு வெல்பவர்களே அமைச்சர்களாக முடியும் என முன்னாள் பாராளுமன்ற உறுப்பினர் பிமல் ரத்நாயக்க  தெரிவித்தார்.
+Tamil leaders ineligible for minister positions due to photos with Anura-Bimal Ratnayake claims. National People's Power campaign meeting in Mullaitivu discusses war impact and party candidates' qualifications.
 
-முல்லைத்தீவு புதுக்குடியிருப்பு பகுதியில் தேசிய மக்கள் சக்தியின் பிரச்சார கூட்டமானது தேசிய மக்கள் சக்தியின் முல்லைத்தீவு மாவட்ட இணைப்பாளர் சிதம்பரநாதன் தலைமையில் நேற்று சனிக்கிழமை (26) இரவு 9 மணியளவில் இடம்பெற்றது.
+🟩
 
-இதன் போது கலந்து கொண்ட தேசிய மக்கள் சக்தியின் முன்னாள் நாடாளுமன்ற உறுப்பினர் பிமல் ரத்நாயக்க கருத்து தெரிவிக்கையில் ,
+Tamil leaders cannot become ministers because they are photographed with Anura. Former parliamentarian Bimal Ratnayake said that ministers can be ministers.
 
-அனுரகுமார திஸாநாயக்க ஏழ்மையான குடும்பத்தில் பிறந்து வாழ்ந்தவர். ரணிலோ, சஜித்தோ, நாமலோ கிராமத்தில் படித்து வளர்ந்தவர்கள் அல்ல. அவர்கள் வரிசையில் நின்று அரச வைத்தியசாலையில் மருந்து எடுத்திருப்பார்களா? இல்லை. ஏதாவது ஒரு விடயத்திற்கு வரிசையில் இருந்திருப்பார்களா?
+The National People's Power Campaign Meeting in Mullaitivu Pudukkudiyiruppu was held at 9 pm on Saturday (26) under the patronage of the National People's Power Mullaitivu District Coordinator Chidambaranathan.
 
-அவர்களுக்கு சாதாரண மக்களுடைய பிரச்சினை தெரியாது. ஆகவே எமது வர்க்கத்தை சேர்ந்தவர் தற்போது ஜனாதிபதியாகி இருக்கின்றார்.
+Former parliamentarian of the National People's Power, Bimal Ratnayake said,
+
+Anuragumara Dissanayake was born in a poor family. Ranil, Sajitho and Namalo are not growing up in the village. Do they stand in line and take medicine at the State Hospital?Not. Have you been in line for something?
+
+They don't know the problem of ordinary people. Therefore, our class belongs to the president.
+
+The substantial people in this can be affected by the war. Most people's houses may be damaged. Similarly, the house of Anura Kumara Dissanayake was attacked by the military in 1979.
 
 ...
 
 [Data](articles/affcbe6e.json)
 
+[Extended Data](ext_articles/affcbe6e.ext.json)
+
 ---
 
-### ஹபராதுவையில் உள்நாட்டு துப்பாக்கி மற்றும் தோட்டாக்குளுடன் ஒருவர் கைது !
+### One person arrested with domestic gun and bullets in Habaradu
 
 *2024-10-27 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197223) · `ta`
 
-ஹபராதுவ பொலிஸ் பிரிவிற்குட்பட்ட மீபே சந்தி பகுதியில்,  உள்நாட்டு துப்பாக்கி மற்றும் ரி-56 ரக துப்பாக்கிக்கு பயன்படுத்தப்படும் 6 தோட்டாக்களை வைத்திருந்த சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+Arrest made in Habaraduwa for domestic gun possession and bullets. Suspect, 26, arrested during raid. Further investigations ongoing.
 
-கொலை மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றப் புலனாய்வு பிரிவின் அதிகாரிகள் குழுவினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது இவர் நேற்று சனிக்கிழமை (26) கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் ஹபராதுவ ,மீபே பிரதேசத்தை சேர்ந்த 26 வயதுடையவர் ஆவார்.
+The suspect has been arrested for possessing six bullets used for domestic gun and a R-56 rifle, in the Meeb Junction, which belongs to the Habarathuwa police division.
 
-அவர் போதைக்கு அடிமையானவர் எனவும் , கைது செய்யப்பட்ட சந்தேக நபரிடம் துப்பாக்கியை கொலை செய்வதற்காக வேறு ஒருவரே வழங்கியுள்ளதாகவும் தெரியவந்துள்ளது.
+He was arrested yesterday (26) during a raid carried out by a group of officials of the murder and organized Criminal Investigation Division.
 
-இது தொடர்பாக மேலதிக விசாரணைகளை கொலை மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றப் புலனாய்வுப் பிரிவினர் மேற்கொண்டு வருகின்றனர்.
+The arrested suspect is 26 years old from Habaraduwa, Meebe area.
+
+It has been revealed that he was addicted to the arrested suspect and gave someone else to kill the gun.
+
+Further investigations are being carried out by the murder and organized Criminal Investigation Unit.
 
 ◼️
 
 [Data](articles/8be60029.json)
+
+[Extended Data](ext_articles/8be60029.ext.json)
 
 ---
 
@@ -354,21 +436,29 @@ But unfortunately people have made a different decision. We do not expect to pul
 
 ---
 
-### தமிழ்ப்பிரதிநிதித்துவத்தை இல்லாது செய்யும் சூழ்ச்சியில் மக்கள் சிக்கக்கூடாது - ஜீவன் தொண்டமான்
+### People should not get caught up in the intrigue of Tamil firing - Jeevan Thondaman
 
 *2024-10-27 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197263) · `ta`
 
-தேசிய மக்கள் சக்தியின் தொழிற்சங்கமானது, தோட்டத் தொழிலாளர்களுக்கு 2 ஆயிரம் ரூபா அடிப்படை சம்பளம் வழங்கப்பட வேண்டும் என வலியுறுத்தி வந்தது. எனவே, சம்பள நிர்ணய சபையைக்கூட்டி அதற்குரிய யோசனையை அரசாங்கம் முன்வைக்க வேண்டும். அதற்கு நாம் முழு ஆதரவையும் வழங்குவோம் என்று இ.தொ.காவின் பொதுச்செயலாளரும், முன்னாள் அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+Jeevan Thondaman urges government to propose 2k base salary for plantation workers. Supports plan but warns against getting distracted by Tamil representation issues.
 
-கொட்டகலை சீ.எல்.எப் கேட்போர் கூடத்தில் ஞாயிற்றுக்கிழமை (27)  இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துக் கொண்டு உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-கடந்த ஆட்சியில் குறுகிய காலப்பகுதிக்குள் மலையக மக்கள் தொடர்பில் அரசியல், பொருளாதார மற்றும் சமூகம் சார்ந்த திட்டங்களை நாம் முன்னெடுத்திருந்தோம். வீடமைப்பு திட்டம்கூட மீள ஆரம்பிக்கப்பட்டது.
+The union of the National People's Power has urged plantation workers to be paid a base salary of 2 thousand rupees. Therefore, the government must present the proposal to the salary council. "We will give full support to it," said Jeevan Thondaman, General Secretary of the CWC and former minister.
 
-எனினும், ஜனாதிபதி தேர்தலுக்கு பிறகு மலையக மக்கள் தொடர்பில் இன்னும் எவ்வித திட்டமும் முன்னெடுக்கப்படவில்லை. அபிவிருத்தி திட்டங்கள் முன்னெடுக்கப்படுமா என்ற சந்தேகம் மக்கள் மத்தியில் உள்ளது.
+He was speaking at a media briefing held at the CLF auditorium in Kotagala on Sunday (27).
+
+Within a short period of time in the last regime we have launched political, economic and social plans on the people of the hill country. The housing project was also resumed.
+
+However, after the presidential election, no plans have been launched on the people of the hill country. There is suspicion among the people whether development projects will be carried out.
+
+During the presidential election, national people promised to reduce prices of goods. But the price of goods is currently on the rise.
 
 ...
 
 [Data](articles/9b6591c0.json)
+
+[Extended Data](ext_articles/9b6591c0.ext.json)
 
 ---
 
@@ -2247,29 +2337,5 @@ The Railway Department announced its racing on the Northern railway line,
 [Data](articles/b71de48a.json)
 
 [Extended Data](ext_articles/b71de48a.ext.json)
-
----
-
-### Distribution of official ballot papers of parliamentary elections will be distributed today
-
-*2024-10-27 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202605) · `si`
-
-Sri Lanka: Official ballot papers distribution starts Nov 7th. Postal service announces special delivery dates for certain areas.
-
-🟩
-
-The distribution of official votes related to the parliamentary election will commence from today (27), said the Department of Posts.
-
-ඒ අනුව නොවැම්බර් මස 07 වනදා දක්වා නිවෙස් වෙත ගොස් නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදීමේ කටයුතු සිදුකරන බව නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා සදහන් කළේය.
-
-The Postcaster said that the house of domestic notice has not yet been received so that there is not distribution in the district today.
-
-The postal Rajitha Ranasinghe said that he will be a special division date for Nandipa, 28 to 6 pm.
-
-◼️
-
-[Data](articles/04ad994b.json)
-
-[Extended Data](ext_articles/04ad994b.ext.json)
 
 ---

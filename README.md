@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 04:23:49**
+As of **2024-10-28 04:39:42**
 
 ## Newspaper Stats
 
-*Scraped **51,720** Articles*
+*Scraped **51,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
-tamilmirrorlk | 7,152
+tamilmirrorlk | 7,153
 virakesarilk | 8,345
 adaderanasinhalalk | 8,991
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,720 (100.0%) of 51,720 articles have been extended.
+51,720 (100.0%) of 51,721 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -199,6 +199,20 @@ The High Commission of the Islamic Republic of Pakistan in Colombo organised a s
 [Data](articles/2f5dfb00.json)
 
 [Extended Data](ext_articles/2f5dfb00.ext.json)
+
+---
+
+### இதுவரை 716 முறைப்பாடுகள்
+
+*2024-10-28 01:56:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-716-முறைப்பாடுகள்/175-346154) · `ta`
+
+பொதுத் தேர்தல் தொடர்பில் இதுவரை 716 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+580 முறைப்பாடுகளுக்கு தீர்வு காணப்பட்டுள்ளதாகவும் மேலும் 136 முறைப்பாடுகளுக்கு தீர்வு காணப்படுவதாகவும் தேர்தல் ஆணையத்தின் தலைவர் ஆர். எம். ஏ. எல் ரத்நாயக்க குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/2d69be18.json)
 
 ---
 
@@ -2339,29 +2353,5 @@ The police said that the police intervened and about 200 youths who had remained
 [Data](articles/8c1c6706.json)
 
 [Extended Data](ext_articles/8c1c6706.ext.json)
-
----
-
-### Arrested in a motorbike with ice drug
-
-*2024-10-27 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/197218) · `ta`
-
-Motorbike arrest: Suspect caught with 300mg ice drug during Katunayake police raid. Investigation reveals involvement in international drug trade and local distribution.
-
-🟩
-
-A suspect on a motorbike was arrested on Saturday (26).
-
-He was arrested during a raid carried out by a group of police officers of the Katunayake Police Station.
-
-He was seized by the police by the police, 300 milligrams of Ice.
-
-சந்தேக நபர் வெளிநாட்டில் போதைப்பொருள் வர்த்தகத்தில் ஈடுபட்டவர் என்பதும் மோட்டார் சைக்கிளில் போதைப்பொருள் விநியோகம் செய்துவந்தவர் என்பதும் விசாரணைகளில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/613b7ce6.json)
-
-[Extended Data](ext_articles/613b7ce6.ext.json)
 
 ---

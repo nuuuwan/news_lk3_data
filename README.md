@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 01:24:20**
+As of **2024-10-28 01:39:52**
 
 ## Newspaper Stats
 
-*Scraped **51,701** Articles*
+*Scraped **51,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 523
 bbccomsinhala | 524
 islandlk | 3,068
 economynextcom | 3,146
-dailyftlk | 3,523
+dailyftlk | 3,525
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
-tamilmirrorlk | 7,149
+tamilmirrorlk | 7,150
 virakesarilk | 8,342
 adaderanasinhalalk | 8,991
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,700 (100.0%) of 51,701 articles have been extended.
+51,702 (100.0%) of 51,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### “Non-alignment” and Sri Lanka’s foreign policy dilemma
+
+*2024-10-28 01:14:49* · [`dailyftlk`](https://www.ft.lk/columns/Non-alignment-and-Sri-Lanka-s-foreign-policy-dilemma/4-768469) · `en`
+
+It’s not about taking sides in a conflict. It’s about demanding the UN Founding Charter be honoured to its very letter
+
+“… I will say to any terrorist who kills an American, and threatens the American People, or threatens our troops, or our interests… know this… we will always bring you to justice”.
+
+Kamala Harris, Vice President of USA and Democratic presidential candidate at the 5 November US presidential election, addressing the media at the White House on 18 October 2024, expressing Biden regime’s stand on Israel and its future after Israel announced the previous day, it killed Yahya Sinwar the Hamas leader in Gaza.
+
+...
+
+[Data](articles/d9e775f7.json)
+
+[Extended Data](ext_articles/d9e775f7.ext.json)
+
+---
+
+### US-led empire of entrepreneurship drives ME war
+
+*2024-10-28 01:10:55* · [`dailyftlk`](https://www.ft.lk/columns/US-led-empire-of-entrepreneurship-drives-ME-war/4-768468) · `en`
+
+The struggle for liberation of Palestine is not going to fade away or defeated but will gather intensity as worldwide discontent against an imperial order devised by an empire built on business and entrepreneurship starts crumbling
+
+“Israel is the largest American aircraft carrier in the world that cannot be sunk”
+
+It is little over one year since Hamas fired those deadly rockets on Israel as a mark of its violent struggle to liberate Gaza from Israel’s brutal colonisation and apartheid. It immediately provoked a deadlier response from “Global Israel” – a coalition of governments led by the US and the UK, sections of Western academia, mainstream media, multinational corporations and security industries.
+
+...
+
+[Data](articles/6b0cbbe6.json)
+
+[Extended Data](ext_articles/6b0cbbe6.ext.json)
+
+---
 
 ### Pareto Analysis of the Jana Balawegaya force
 
@@ -59,6 +95,24 @@ In his election manifesto, as well as in his election campaign, President Anura 
 ...
 
 [Data](articles/74607cc8.json)
+
+---
+
+### ’கணிப்புகள் எல்லாம் பிழைத்து விட்டன’
+
+*2024-10-28 00:13:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணிப்புகள்-எல்லாம்-பிழைத்து-விட்டன/175-346151) · `ta`
+
+ஜனாதிபதி அனுரவின் அணுகுமுறையிலும் செயற்பாட்டிலும் மாற்றம் ஏற்பட்டுள்ளது. அதனை பொறுத்திருந்து பார்க்கவேண்டும் என்று முன்னாள் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்தார்.
+
+வவுனியாவிற்கு ஞாயிற்றுக்கிழமை (27)  விஜயம் செய்தவர் காத்தார்சின்னக்குளம் பகுதியில் உள்ள கட்சியின் தேர்தல் அலுவலகம் ஒன்றை திறந்துவைத்திருந்தார்.
+
+அதன்பின்னர் இடம்பெற்ற ஊடகவியலாளர் சந்தப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+தேசிய நல்லிணக்கம் ஊடாகவே எமது மக்களின் பிரச்சினைகளை தீர்க்க முடியும். புதிய பாராளுமன்றத்தில் கூடிய ஆசனங்களை பெறுவதன் மூலம் ஆட்சி அமைப்பவர்களுடன் நாங்களும் பங்குகொள்வதன் ஊடாக மத்தியில் கூட்டாட்சி மாநிலத்தில் சுயாட்சி என்ற எமது அரசியல் இலக்கை அடைவதற்காக அத்திசையை நோக்கி பயணிக்கலாம் என்ற வகையில் பத்து மாவட்டங்களில் இம்முறை போட்டியிடுகின்றோம்.
+
+...
+
+[Data](articles/93917170.json)
 
 ---
 
@@ -2341,71 +2395,5 @@ The operations carried out extended from the year 2024 have been taken into cust
 [Data](articles/53878e44.json)
 
 [Extended Data](ext_articles/53878e44.ext.json)
-
----
-
-### Trader arrested with 5 kg of ice
-
-*2024-10-27 11:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-கிலோ-கிராம்-ஐஸ்-உடன்-வர்த்தகர்-கைது/175-346100) · `ta`
-
-Businessman arrested with 5kg ice at Katunayake airport. Worth approximately Rs. 73.64 million. Two others also detained.
-
-🟩
-
-Approximately Rs.. 73.64 million worth of "ice" drug pocket was arrested by the police drug abolition (PNB) when a passenger tried to leave the Katunayake airport.
-
-The traveler and both of them were arrested with him to take him.
-
-The 51 -year -old businessman from Kattipuwa area has placed a poultry farm and hid 5.026 kilograms of "ice" in his travel bag in his packet.
-
-The other arrested is a 36 -year -old driver from Weboda and her assistant, a 33 -year -old woman from Panadura.
-
-◼️
-
-[Data](articles/93aea2b7.json)
-
-[Extended Data](ext_articles/93aea2b7.ext.json)
-
----
-
-### Sri Lanka prints Rs100bn through open market operations
-
-*2024-10-27 11:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-prints-rs100bn-through-open-market-operations-184982/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has injected around 100 billion rupees against domestic assets through multiple liquidity tools by October 25 official data show, driving up excess money in the banking system to over 190 billion rupees.
-
-The central bank injected 36.16 billion rupees through an overnight auction and 70 billion rupees for 7 days through a term auction of printed money.
-
-By October 25, excess liquidity deposited in the central bank’s standing facility was 193.4 billion rupees, up from 138 billion rupees a month earlier.
-
-By offering 40 billion rupees to all comers as low as 8.27 percent (just 2 pips above the floor rate) where only 36 billion rupees were bid, the monetary authority prevented overtrading market participants from borrowing at its 9.25 percent standing facility and encouraged them to trade without deposits at even lower rates.
-
-...
-
-[Data](articles/82464a0f.json)
-
-[Extended Data](ext_articles/82464a0f.ext.json)
-
----
-
-### Passenger arrested with over 5 kg of ‘Ice’ at BIA
-
-*2024-10-27 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102953/passenger-arrested-with-over-5-kg-of-ice-at-bia) · `en`
-
-A passenger arriving from Malaysia has been arrested while in the possession of over 05 kilograms of ‘Ice’ drugs (crystal methamphetamine), at the Bandaranaike International Airport (BIA) in Katunayake.
-
-The officers of the Police Narcotics Bureau (PNB) at the BIA have seized 05 kilograms and 26 grams of ‘Ice’ drugs from the suspected passenger arriving from Malaysia to Sri Lanka.
-
-The arrested suspect is a 51–year–old resident of the Gothatuwa area, the police said.
-
-Additionally, a man and a woman who arrived at the airport to pick him up have also been apprehended.
-
-Police have also taken into custody the vehicle in which they had arrived at the airport.
-
-◼️
-
-[Data](articles/81c0da42.json)
-
-[Extended Data](ext_articles/81c0da42.ext.json)
 
 ---

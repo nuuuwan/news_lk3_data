@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 11:59:39**
+As of **2024-10-27 12:13:41**
 
 ## Newspaper Stats
 
-*Scraped **51,592** Articles*
+*Scraped **51,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 4,796
 adaderanalk | 6,110
 tamilmirrorlk | 7,132
 virakesarilk | 8,298
-adaderanasinhalalk | 8,972
+adaderanasinhalalk | 8,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,592 (100.0%) of 51,592 articles have been extended.
+51,593 (100.0%) of 51,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Navy seized an Indian fisherne vessel that violated Sri Lankan maritime boundary
+
+*2024-10-27 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202611) · `si`
+
+Sri Lanka Navy seizes Indian fishing vessel near Point Pedro, detains 12 fishermen. Vessel and crew taken to Kankasanthurai port. Operation part of ongoing efforts since 2024, totaling 462 detained Indian fishermen.
+
+🟩
+
+Navy has taken a fishing vessel including 12 Indian fishermen who were fishing in violation of the country.
+
+It was during a search operation conducted in the coast of Point Pedro today (27).
+
+The fishermen and the vessels taken into custody have been taken to the Port of the Kankasanthurai and the Jaffna, Miloyi Fisheries Office has been handed over to Jaffna.
+
+The operations carried out extended from the year 2024 have been taken into custody and 462 Indian fishermen have been taken into custody.
+
+◼️
+
+[Data](articles/53878e44.json)
+
+[Extended Data](ext_articles/53878e44.ext.json)
+
+---
 
 ### Passenger arrested with over 5 kg of ‘Ice’ at BIA
 
@@ -2463,23 +2487,5 @@ The amendment of the second quarter was held on July 16, and the number of categ
 [Data](articles/a0aa24ca.json)
 
 [Extended Data](ext_articles/a0aa24ca.ext.json)
-
----
-
-### Elpitiya PS Election: Voter turnout as at 10am
-
-*2024-10-26 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102937/elpitiya-ps-election-voter-turnout-as-at-10am) · `en`
-
-The voter turnout for the Elpitiya Pradeshiya Sabha Election, which commenced across 48 centers at 7:00 a.m. today (26), has been reported as 25 percent as of 10:00 a.m., according to Galle District Returning Officer W.A. Dharmasiri.
-
-He also mentioned that counting of votes will commence at the respective centers after voting ends at 4:00 p.m.
-
-A total of 55,643 voters are eligible to cast their votes at 48 polling centers and the polling is being held according to the 2018 voter registration list, according to the Election Commission.
-
-◼️
-
-[Data](articles/661f47be.json)
-
-[Extended Data](ext_articles/661f47be.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 11:10:42**
+As of **2024-10-27 11:59:39**
 
 ## Newspaper Stats
 
-*Scraped **51,582** Articles*
+*Scraped **51,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,186 @@ dbsjeyarajcom | 412
 colombotelegraphcom | 519
 bbccomsinhala | 524
 islandlk | 3,068
-economynextcom | 3,143
+economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,794
-adaderanalk | 6,107
-tamilmirrorlk | 7,130
+adalk | 4,796
+adaderanalk | 6,110
+tamilmirrorlk | 7,132
 virakesarilk | 8,298
-adaderanasinhalalk | 8,970
+adaderanasinhalalk | 8,972
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,582 (100.0%) of 51,582 articles have been extended.
+51,592 (100.0%) of 51,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Passenger arrested with over 5 kg of ‘Ice’ at BIA
+
+*2024-10-27 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102953/passenger-arrested-with-over-5-kg-of-ice-at-bia) · `en`
+
+A passenger arriving from Malaysia has been arrested while in the possession of over 05 kilograms of ‘Ice’ drugs (crystal methamphetamine), at the Bandaranaike International Airport (BIA) in Katunayake.
+
+The officers of the Police Narcotics Bureau (PNB) at the BIA have seized 05 kilograms and 26 grams of ‘Ice’ drugs from the suspected passenger arriving from Malaysia to Sri Lanka.
+
+The arrested suspect is a 51–year–old resident of the Gothatuwa area, the police said.
+
+Additionally, a man and a woman who arrived at the airport to pick him up have also been apprehended.
+
+Police have also taken into custody the vehicle in which they had arrived at the airport.
+
+◼️
+
+[Data](articles/81c0da42.json)
+
+[Extended Data](ext_articles/81c0da42.ext.json)
+
+---
+
+### Police open fire at lorry in Sooriyawewa
+
+*2024-10-27 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102952/police-open-fire-at-lorry-in-sooriyawewa) · `en`
+
+Police have opened fire at a lorry that refused to comply with orders to stop for inspection, in the Meegahajadura area of Sooriyawewa today (27).
+
+Sooriyawewa Police reported that the lorry was traveling from Lunugamwehera to Sooriyawewa and continued to evade a checkpoint despite repeated signals to stop.
+
+The pursuit concluded when a bullet struck one of the vehicle’s tyres, forcing the lorry to stop, according to police
+
+Upon inspection, police have discovered 17 cows being transported in the vehicle.
+
+The driver was taken into custody and is set to be produced before the Hambantota Magistrate’s Court.
+
+◼️
+
+[Data](articles/626b118a.json)
+
+[Extended Data](ext_articles/626b118a.ext.json)
+
+---
+
+### Arrested in a couple who stayed without a visa
+
+*2024-10-27 11:17:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசா-இன்றி-தங்கியிருந்த-தம்பதி-கைது/175-346096) · `ta`
+
+Russian couple arrested for overstaying visa in Sri Lanka. 39-year-old man and 32-year-old woman detained by Kandy Police for investigation.
+
+🟩
+
+A Russian couple who were staying in the country without a visa in violation of immigration laws
+
+The couple have been arrested yesterday evening (26) evening.
+
+The 39 -year -old male and the 32 -year -old Russian woman have been handed over to the Kandy Police for further investigations.
+
+◼️
+
+[Data](articles/34cd6fe6.json)
+
+[Extended Data](ext_articles/34cd6fe6.ext.json)
+
+---
+
+### Sri Lanka and Afghanistan today
+
+*2024-10-27 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202610) · `si`
+
+Sri Lanka 'A' and Afghanistan 'A' teams compete in Oman. Sri Lanka 'A' won 3 matches in Jansai Cup, defeating Pakistan 'A' in finals. Afghanistan 'A' won against India 'A' in their final, winning the tournament.
+
+🟩
+
+The Sri Lanka 'A' and Afghanistan 'A' is scheduled to play between the rise groups in Oman.
+
+Sri Lanka 'A' team won a group of three matches in 3 matches between the Janasia Cup match.
+
+Pakistani A 'A' was the opponents of the Sri Lanka 'A' team in the final church.
+
+Sri Lankan team defeated Pakistani by 7 wickets qualified for the final
+
+The Afghanistan 'A' team won the B 'B' in this year's tournament, and won both the contest.
+
+They defeated the most powerful Indian team by 20 runs in their final.
+
+◼️
+
+[Data](articles/ff0eb234.json)
+
+[Extended Data](ext_articles/ff0eb234.ext.json)
+
+---
+
+### Police shooting orders of orders
+
+*2024-10-27 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202609) · `si`
+
+Sri Lanka police shoot truck driver after chase. Driver arrested, 17 cattle found. Case to be heard in Hambantota court.
+
+🟩
+
+Sooriyawewa Police have shocked a lorry, who had not been commanded in the Meegahawewa and Meegahawewa.
+
+The shooting has been carried out in ignoring a larry from Lunugamvehera to Sooriyawewa area to be tested in Sooriyawewa.
+
+The driver of the lorry was arrested by the Suriyawewa Police.
+
+It is reported that 17 cattle have been reported in the lorry.
+
+The suspect is to be produced before the Hambantota Magistrate's Court.
+
+◼️
+
+[Data](articles/189aed72.json)
+
+[Extended Data](ext_articles/189aed72.ext.json)
+
+---
+
+### One crore rupee deal: Arrested in person
+
+*2024-10-27 10:52:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-கோடி-ரூபா-ஒப்பந்தம்-நபர்-கைது/175-346095) · `ta`
+
+Arrest made in ₹1 crore murder plot. Suspect armed with local gun and T-56 rifle. Police seize weapons. Businessman confirms hiring for killing drug-addicted woman.
+
+🟩
+
+The murder and organized Criminal Investigation Department of the Criminal Investigation Department said that a man who was ready to kill a woman for a crores of rupees was arrested with gun and 6 bullets.
+
+The police have seized 6 ravages used in locally manufactured gun and T-56 guns.
+
+A famous businessman from Ahangama has confirmed that he has given a contract to kill a woman who is addicted to a drug addict and has been given a sum of Rs 1 crore.
+
+◼️
+
+[Data](articles/e8113a06.json)
+
+[Extended Data](ext_articles/e8113a06.ext.json)
+
+---
+
+### 2024 General Election: Distribution of official polling cards begins
+
+*2024-10-27 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102951/2024-general-election-distribution-of-official-polling-cards-begins) · `en`
+
+The Postal Department announced that the distribution of official polling cards for the upcoming parliamentary elections will begin today (Oct 27).
+
+Deputy Postmaster General Rajitha Ranasinghe stated that deliveries will be carried out to households nationwide and are expected to continue until November 7.
+
+While most districts will see distribution efforts starting today, the official election notices for the Colombo District have yet to be received by the department. As a result, distribution within Colombo will be temporarily delayed, according to the Department of Posts.
+
+To ensure timely delivery, a dedicated distribution day has been scheduled for Sunday, November 3, when postal services will operate from 8 a.m. to 6 p.m., allowing for special efforts to reach households with election notices.
+
+◼️
+
+[Data](articles/bce15dff.json)
+
+[Extended Data](ext_articles/bce15dff.ext.json)
+
+---
 
 ### One person killed in vehicle accident
 
@@ -125,6 +287,40 @@ The statement issued by the Railway Department regarding the manner in which tra
 [Data](articles/0f3d5ce3.json)
 
 [Extended Data](ext_articles/0f3d5ce3.ext.json)
+
+---
+
+### Government assistance to increase the storage capacity of SME rice rice
+
+*2024-10-27 09:44:03* · [`adalk`](https://www.ada.lk/breaking_news/සුළු-හා-මධ්‍ය-පරිමාණ-සහල්-ව්‍යාපාරිකයන්ගේ-ගබඩා-ධාරිතාව-වැඩි-කිරීමට-රජයේ-සහාය/11-412695) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's government supports SME rice businesses, increasing storage capacity. Presidents Rajapaksa and Dissanayake emphasize fair pricing and social responsibility. The goal is to boost rice production and market stability.
+
+🟩
+
+The rice control price does not change the unfair profit
+
+President Mahinda Rajapaksa says that the minor and medium rice
+
+President Anura Kumara Dissanayake said that the government is supporting the storage capacity of small and medium scale rice rice to establish rice market.
+
+The President was addressing the discussion held at the Presidential Secretariat with SME rice businessmen.
+
+The President also pointed out that the government has a social responsibility for small and medium-sized rice businessmen, as the government spends a lot of money to promote the promotion of the field of agriculture and irrigation.
+
+The capacity of SMEs should be discussed at the prolonged to create the rice rice capacity.
+
+The President stressed that no businessman would not allow rice control prices and to profit.
+
+◼️
+
+[Data](articles/35af5171.json)
+
+[Extended Data](ext_articles/35af5171.ext.json)
 
 ---
 
@@ -545,6 +741,26 @@ When considering train accidents, the best solutions would be an underground rai
 [Data](articles/05ca73aa.json)
 
 [Extended Data](ext_articles/05ca73aa.ext.json)
+
+---
+
+### Sri Lanka’s ruling NPP wins LG poll sans majority
+
+*2024-10-27 01:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-ruling-npp-wins-lg-poll-sans-majority-184977/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s ruling National People’s Power (NPP) won a solitary local government poll held on Saturday (26), but failed to secure a majority, the election results showed.
+
+PresidentvAnura Kumara Dissanayake-led NPP secured 15 out of 30 seats in the long delayed Elpitiya Pradeshiya Sabha (PS) poll, leaving it to depend on another party’s support to rule the local government authority.
+
+Out of the total votes polled, the NPP secured only 47.6 percent in Elpitiya in the Southern district of Galle where the NPP won a convincing 51.4 percent of the total votes in the last month presidential elections.
+
+Dissanayake’s NPP has sought a majority from the people at the November 14 parliamentary polls to implement strong anti-corruption measures it promised for the past few years.(Colombo/October 27/2024)
+
+◼️
+
+[Data](articles/531df85d.json)
+
+[Extended Data](ext_articles/531df85d.ext.json)
 
 ---
 
@@ -2265,219 +2481,5 @@ A total of 55,643 voters are eligible to cast their votes at 48 polling centers 
 [Data](articles/661f47be.json)
 
 [Extended Data](ext_articles/661f47be.ext.json)
-
----
-
-### IMF technical expert in Sri Lanka Customs to enhance administration
-
-*2024-10-26 12:29:00* · [`economynextcom`](https://economynext.com/imf-technical-expert-in-sri-lanka-customs-to-enhance-administration-184975/) · `en`
-
-ECONOMYNEXT – An International Monetary Fund (IMF) has visited Sri Lanka Customs head office and had discussions with internal and external stakeholders of Customs in a move to enhance administration, officials and IMF said, amid allegation of significant leakages in revenue from import and export businesses.
-
-Sri Lanka Customs, one of the three key revenue collection bodies of the government, has already recorded more than 1 trillion rupee revenue so far this year, surpassing last year’s record 975 billion rupees.
-
-Sri Lanka has committed with the IMF for a revenue target of 1,534 billion rupees for 2024 from the Customs. However, Customs officials have raised concerns over facilities and practical issues in raising the revenue.
-
-On Friday, sources said President Anura Kumara Dissanayake also visited the Customs Head office in Colombo where the IMF expert was engaging with officials.
-
-...
-
-[Data](articles/bf36488d.json)
-
-[Extended Data](ext_articles/bf36488d.ext.json)
-
----
-
-### Traffic on Bandarawela Road
-
-*2024-10-26 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197151) · `ta`
-
-Tree crashes on Bandarawela Road, damages vehicle. Disaster Management Center takes action to clear obstruction.
-
-🟩
-
-The Badulla District Office of the Disaster Management Center said that a massive tree crashed near the 17th milestone on the Bandarawela road through the Badulla and Pasarai border on Friday afternoon.
-
-The office said that a three -wheeler parked on the road was damaged.
-
-Subsequently, the Assistant Director of the Badulla District Office of the Disaster Management Center said that steps have been taken to cut down the tree that fell on the road.
-
-◼️
-
-[Data](articles/059c425a.json)
-
-[Extended Data](ext_articles/059c425a.ext.json)
-
----
-
-### Ampara district amidst heavy security
-
-*2024-10-26 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197152) · `ta`
-
-Ampara district under heavy security due to visiting dignitaries. Former parliamentarians and police involved in security duties. Public activities restricted amid tightened security measures.
-
-🟩
-
-Former parliamentarians and police have been involved in security duties in various parts of the Ampara district, in view of the advent of dignitaries including Rizad Bathiudeen, Rauf Hakeem and Ataullah.
-
-From Friday (25) to Saturday (26) from Saturday (26), the Ampara District is the biggest Neelavana, Maruthamunai, Pandaruppu, Napittimunai, Senaikkudiyiruppu, Savalakkady, Navithanveli, Paraikkalmunai, Veeramunai, Samanthurai, Karadivu, Kalmunai, KalmunaiSecurity has been strengthened in areas including Adalaichenai, Akkaraipattu, Thambiluvil, Thambattu, Tirukovil, Pottuvil and other areas.
-
-Meanwhile, the security has been strengthened in Pottuvil, Augkampai area.
-
-Due to this, the public is engaged in their daily activities amidst heavy security. In addition, three -tier security was arranged as police and military investigators at other major junctions.
-
-...
-
-[Data](articles/b118866a.json)
-
-[Extended Data](ext_articles/b118866a.ext.json)
-
----
-
-### Free travel ticket for train employees
-
-*2024-10-26 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197153) · `ta`
-
-Ministry of Transport announces free train travel for railway employees between home and work areas. Aimed at improving worker morale and productivity, benefiting national economy.
-
-🟩
-
-The Ministry of Transport has announced that free train travel permits will be granted to use all the railway employees between the area and the workplace.
-
-The Ministry said in a statement that the Minister of Transport Vijitha Herath has issued a directive to the relevant authorities.
-
-The Ministry of Transport, pointing out that the train workers are constantly criticized by the public, said the new travel permit would be issued as a change in the situation.
-
-The ministry added that it would benefit the country's economy, promoting all railway workers to improve their performance.
-
-◼️
-
-[Data](articles/48f9dd79.json)
-
-[Extended Data](ext_articles/48f9dd79.ext.json)
-
----
-
-### A vehicle claiming that Lohan belongs to Sthan Ratwatte
-
-*2024-10-26 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202572) · `si`
-
-Vehicle crash involving ex-MP Lohan Ratwatte's car. Accident near Wariyapola. Clash between residents and defendants over ownership. Allegations of armed vehicle.
-
-🟩
-
-A deposal vehicle belonging to former MP Lohan Ratwatte has been in an accident yesterday (25).
-
-The accident had occurred in the Dangamunale Junction area on the Padiyaniya road in Wariyapola Police area.
-
-Residents and the Departured Residents and the Defender of the Defendants have clashed and a clash occurred between the two groups.
-
-Residents also allege that the vehicle had several weapons.
-
-◼️
-
-[Data](articles/d938c741.json)
-
-[Extended Data](ext_articles/d938c741.ext.json)
-
----
-
-### Boy killed in electricity
-
-*2024-10-26 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197148) · `ta`
-
-Six-year-old boy electrocuted while playing near fridge in Sri Lanka. Boy died instantly after contact with live wire. Autopsy scheduled for today.
-
-🟩
-
-Athanagalla police said that a six -year -old boy was killed in a power supply in Alawala area in Vayangoda yesterday (25).
-
-Tejan Dinuvaru, a 6 -year -old boy from Alawala area, Veyankoda, has died.
-
-While the boy was playing in his home, the electricity was attacked and fell down as she put his hand in the lower part of the refrigerator in the kitchen.
-
-Later, doctors said the boy had already died when the boy's father immediately admitted the boy to the Vadukitivala Base Hospital.
-
-An autopsy on the boy's death will be carried out at the Vathivitivala Hospital today (26).
-
-◼️
-
-[Data](articles/66b95e40.json)
-
-[Extended Data](ext_articles/66b95e40.ext.json)
-
----
-
-### தமிழ் முற்போக்கு கூட்டணியும், இலங்கை தமிழரசு கட்சியும் வெல்வது காலத்தின் கட்டாயம் - மனோ கணேசன்
-
-*2024-10-26 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197147) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Mano Ganesan: Tamil Progressive Alliance and Sri Lanka Tamil National Alliance victory inevitable. Support President Anura Kumara Dissanayake's new constitution proposal. Participate in all-party discussions to address national issues.
-
-🟩
-
-தமிழ் முற்போக்கு கூட்டணியும், இலங்கை தமிழரசு கட்சியும் வெல்வது காலத்தின் கட்டாயம் என   தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் தெரிவித்தார்.
-
-In a media statement sent to the media, Mano Ganesan further stated that he said.
-
-President Anura Kumara Dissanayake said that the only idea that the country's national ethnic issue was the solution to the country's nationalist issue is that from 2015 to 2018, we will meet the all -party discussion to create a new constitution that we all have united in good governance.
-
-ஜனாதிபதி அநுரகுமாரவின்  இந்த யோசனையை நாம் வரவேற்கிறோம். We do not do the short politics that should answer all the challenges of the country within the same month.. We think the new government should be given a fair time.
-
-But at the same time, in the new parliament, we are not prepared to provide an empty check for President Anura Kumara Dissanayake during the All -Party discussion that creates this proposed new constitution.
-
-...
-
-[Data](articles/87f130ab.json)
-
-[Extended Data](ext_articles/87f130ab.ext.json)
-
----
-
-### EU reaffirms assistance to Sri Lanka in expanding market access, employment opportunities
-
-*2024-10-26 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102936/eu-reaffirms-assistance-to-sri-lanka-in-expanding-market-access-employment-opportunities) · `en`
-
-President Anura Kumara Dissanayake met with the European Union (EU) Delegation, led by EU Ambassador H.E. Carmen Moreno, today (25) at the Presidential Secretariat.
-
-The President informed the EU Delegation about Sri Lanka’s current security situation, highlighting recent measures to improve safety for tourists and residents, the President’s Media Division (PMD) stated.
-
-He assured that security protocols in key tourist areas are strengthened with more law enforcement and emergency services deployed.
-
-The European Union is a critical partner for Sri Lanka, serving as its second-largest export and tourist market, and third-largest import market, the PMD added.
-
-The EU Delegation reaffirmed its commitment to supporting Sri Lanka in expanding its market access, enhancing employment opportunities within the EU, and boosting tourism. Additionally, the EU pledged support for knowledge exchange and implementing new mechanisms in education, social protection, and anti-corruption efforts.
-
-...
-
-[Data](articles/44bd7b45.json)
-
-[Extended Data](ext_articles/44bd7b45.ext.json)
-
----
-
-### Here is the latest condition of Elpitiya elections
-
-*2024-10-26 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202570) · `si`
-
-Elpitiya election update: 48 polling centers opened at 7pm. 10 celebrations reported 25% voter turnout. Counting begins after polls close. 55,643 eligible voters participate.
-
-🟩
-
-Today (26). Elpitiya, which began 48 centers at 7.00 pm, Elpitiya. Ten Celebrations have been voted by 25% of voters. A. Dharmasiri said.
-
-Elections. He further stated that the counting of the election stations will begin at the election stations.
-
-55,643 voters qualified for the Elpitiya Pradeshiya Sabha elections were 55,643.
-
-◼️
-
-[Data](articles/c71466bf.json)
-
-[Extended Data](ext_articles/c71466bf.ext.json)
 
 ---

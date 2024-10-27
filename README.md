@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 12:24:36**
+As of **2024-10-27 12:58:17**
 
 ## Newspaper Stats
 
-*Scraped **51,600** Articles*
+*Scraped **51,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,50 +17,200 @@ economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,797
-adaderanalk | 6,110
-tamilmirrorlk | 7,138
+adaderanalk | 6,113
+tamilmirrorlk | 7,139
 virakesarilk | 8,298
-adaderanasinhalalk | 8,973
+adaderanasinhalalk | 8,975
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,598 (100.0%) of 51,600 articles have been extended.
+51,604 (100.0%) of 51,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
 
-### லொறி மீது துப்பாக்கிச்சூடு: சாரதி கைது
+### Bus in Mexico crashes after colliding with trailer that detached from truck killing 24
+
+*2024-10-27 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102956/bus-in-mexico-crashes-after-colliding-with-trailer-that-detached-from-truck-killing-24) · `en`
+
+A bus tipped over in central Mexico after colliding with a trailer that detached from a truck transporting corn, killing 24 people and injuring five, Mexican authorities said Saturday.
+
+The crash happened at midnight Friday when the bus was leaving Tepic in the western Mexico state of Nayarit bound for Ciudad Juarez in northern Mexico. The injured were being treated at a hospital in Zacatecas.
+
+Juan Manríquez Moreno, coordinator of the National Guard in Zacatecas, said in a video statement shared on social media that the truck trailer detached on a highway. The passenger bus collided with the trailer and tipped over on its right side.
+
+Rodrigo Reyes Mugüerza, secretary general of the government in Zacatecas, also shared a statement from the scene of the accident. “We send our solidarity and condolences to all the families and people who have lost a loved one in this unfortunate accident,” he said.
+
+...
+
+[Data](articles/fa8c8a95.json)
+
+---
+
+### මෙක්සිකෝවේ බස් රථ අනතුරකින් 19 දෙනෙකු මරුට
+
+*2024-10-27 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202613) · `si`
+
+මෙක්සිකෝවේ සිදුවූ බස් රථ අනතුරකින් පුද්ගලයින් 19 දෙනෙකු මියගොස් ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+බස් රථ අනතුර සිදුව ඇත්තේ මධ්‍යම මෙක්සිකෝවේ සකතෙකස් ප්‍රාන්තයේ අධිවේගී මාර්ගයකදී ය.
+
+එහිදී බස් රථය ඉරිඟු ප්‍රවාහනය කරමින් පැවති ට්‍රැක්ටරයක ගැටීමෙන් පසු ට්‍රැක්රයෙන් ලිහිල් වී ඉන් ගැලවී ගිය ට්‍රේලරය බසයේ ගැටී ඇති බව  ඇතැම් මාධ්‍ය වාර්තාවල සඳහන් වේ.
+
+අනතුරින් පසු බසය මාර්ගයෙන් ඉවතට ධාවනය වී ප්‍රපාතයකට පෙරළී ගොස් තිබූ බව සඳහන් වේ.
+
+අනතුර සිදුවන අවස්ථාවේ දී බසය අමෙරිකානු මෙක්සිකෝ දේශසීමාව ආසන්නයේ පිහිටි ජුආරෙස් නගරය බලා ධාවනය කරමින් සිටි බව වාර්තා වේ.
+
+අනතුරින් පුද්ගලයින් 19 දෙනෙකු මියගොස් තවත් 6 දෙනෙකු තුවාල ලබා තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ අනතුරින් මියගිය පිරිස අතරට සංක්‍රමණිකයින් අයත් නොවන බවය.
+
+◼️
+
+[Data](articles/f8cba443.json)
+
+---
+
+### The President will not accomplish anything: Jeevan Show
+
+*2024-10-27 12:34:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-எதையும்-நிறைவேற்ற-மாட்டார்-ஜீவன்-காட்டம்/175-346109) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake fails to deliver promises, says Jeevan Thondaman. Rising costs affect citizens, especially plantation workers. Tamil MPs crucial in 2024 elections. Current govt neglects price policies implemented under Ranil Wickremesinghe.
+
+🟩
+
+The current President Anura Kumara Dissanayake has failed to fulfill anything that has promised the nation before the presidential election, said Mr. Jivan Thondaman, the general secretary of the Ceylon Workers Congress and the Nuwara Eliya district team candidate of the United National Alliance.
+
+Jeevan Thondaman made this statement at a media briefing that Kotagala was held on Saturday (26) at the headquarters of the Ceylon Workers Congress.
+
+He also said that the cost of rice, eggs and coconut has increased the cost of the people of the country.
+
+The current president has failed to control it and the cost of living has greatly affected the plantation people.
+
+Tamil MPs should be in Parliament to represent the plantation people in the 2024 general election as the current president has not made any comments on the plantation population.
+
+...
+
+[Data](articles/1eff2032.json)
+
+[Extended Data](ext_articles/1eff2032.ext.json)
+
+---
+
+### The country needs an enringeful politics - Dilith
+
+*2024-10-27 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202612) · `si`
+
+Sri Lanka needs encouraging politics: Dilith Jayaweera calls for cultural sensitivity in elections. He requests extending voting hours from one day to two days. Another leader emphasizes leading both opposition and government.
+
+🟩
+
+Dilith Entrepreneur Entrepreneurship Dilith Jayaweera says he will request the President to make the President to make the culture and rituals of Sri Lanka.
+
+He was speaking at a public meeting of the universal power in Biyagama.
+
+"This year's election is used on the 14th. Poya to 15th. So we are very respectful to our President to be sensitive to our culture. Be sensitive to our title, be sensitive to our rituals. Already the constitution is the election is one day. This is the opportunity to invite the vote without the correction of the voting for two days and for two days. "
+
+Meanwhile, another public meeting was held at the Pepalwela area under the presence of the Leader of the Norgen power.
+
+...
+
+[Data](articles/4572e676.json)
+
+[Extended Data](ext_articles/4572e676.ext.json)
+
+---
+
+### 12 Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2024-10-27 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102955/12-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
+
+Sri Lanka Navy has seized an Indian fishing boat and apprehended 12 Indian fishermen while they were poaching in Sri Lankan waters, during a special operation conducted off Point Pedro, Jaffna today (27).
+
+The North Central Naval Command had spotted a cluster of Indian fishing boats while they were poaching in Sri Lankan waters off Point Pedro.
+
+In response, the Northern Naval Command had deployed its Fast Attack Craft to send away a cluster of Indian fishing boats.
+
+The operation has resulted in the seizure of the Indian boat and the apprehension of 12 Indian fishermen who continued to remain in Sri Lankan waters.
+
+The seized boat together with Indian fishermen were brought to the Kankesanthurai Harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings, the navy said.
+
+...
+
+[Data](articles/bac08a33.json)
+
+[Extended Data](ext_articles/bac08a33.ext.json)
+
+---
+
+### Two Russians arrested for staying without valid visas
+
+*2024-10-27 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102954/two-russians-arrested-for-staying-without-valid-visas) · `en`
+
+Kandy Tourist Police Unit has arrested a Russian couple who were residing in the country without valid visas in violation of immigration and emigration regulations.
+
+The couple, aged 39 and 32, was taken into custody in the Hantana area of the Kandy Police Division last evening (27).
+
+The arrested foreign couple has been handed over to the Kandy Police.
+
+◼️
+
+[Data](articles/e166b32b.json)
+
+[Extended Data](ext_articles/e166b32b.ext.json)
+
+---
+
+### Shooting on lorry: driver arrested
 
 *2024-10-27 12:13:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறி-மீது-துப்பாக்கிச்சூடு-சாரதி-கைது/175-346106) · `ta`
 
-மீகஹஜதுரவில் போக்குவரத்து சோதனையின் போது நிறுத்தத் தவறிய லொறி மீது சூரியவெவ பொலிஸார் துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+Driver arrested after police shoot tyre of speeding lorry during traffic raid in Sri Lanka.
 
-லுணுகம்வெஹரவிலிருந்து சூரியவெவ நோக்கி பயணித்த லொறியானது, பொலிஸாரின் சமிக்ஞைகளை மதிக்காமல், பொறுப்பற்ற முறையில் ஓட்டிச் சென்றதாக பொலிஸார் தெரிவித்தனர். இதற்கமைய, வாகனத்தின் ஒரு டயர் மீது துப்பாக்கியால் சுட்ட பிறகு வாகனம் நிறுத்தப்பட்டது.
+🟩
 
-இதற்கமைய, சாரதி கைது செய்யப்பட்டுள்ளதுடன், ஹம்பாந்தோட்டை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளன​ர்.
+Soorwewa police have opened fire on a lorry that failed to stop during a traffic raid in Meegahajadura.
+
+Police said the lorry was traveling from Lunugamveveh to Suryawewa, without respecting the signals of the police, and the police said that they were reckless.. Accordingly, the vehicle stopped after the firearm on a tire of the vehicle.
+
+According to the police, the driver has been arrested and is to be produced before the Hambantota Magistrate's Court.
 
 ◼️
 
 [Data](articles/72d36187.json)
 
+[Extended Data](ext_articles/72d36187.ext.json)
+
 ---
 
-### நாகை மீனவர்கள் 12 பேர்   சிறைப்பிடிப்பு
+### 12 Naga fishermen
 
 *2024-10-27 12:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாகை-மீனவர்கள்-12-பேர்-சிறைப்பிடிப்பு/175-346102) · `ta`
 
-எல்லை தாண்டி வந்து பிடித்ததாக தமிழக மீனவர்கள் 12 பேரை அவர்களின் விசைப்படகுகளுடன் துப்பாக்கி முனையில் இலங்கை கடற்படையினர் கைது செய்துள்ளனர்.
+Sri Lankan navy arrests 12 Tamil Nadu fishermen at gunpoint for alleged border crossing. Fishermen taken to court, imprisoned. Incident causes stir in Naga.
 
-நாகப்பட்டினம் மாவட்டம், அக்கரைப்பேட்டை மீனவ கிராமத்தைச் சேர்ந்த சிலம்புச் செல்வன் என்பவருக்கு சொந்தமான விசைப்படகில் சனிக்கிழமை (26) குனா, செஞ்சிவேல், வெங்கடேசன், சின்னஅப்பு, கார்த்தி, ரகு உள்ளிட்ட 12 மீனவர்கள் நேற்று முன்தினம் மீன்பிடிக்கக் கடலுக்குச் சென்றுள்ளனர். நள்ளிரவு கோடியக்கரைக்கு தென்கிழக்கே 40 கடல் மைல் தொலைவில் அவர்கள் மீன்பிடித்துக் கொண்டிருந்தனர்.
+🟩
 
-அப்போது அங்கு ரோந்து வந்த இலங்கை கடற்படையினர் நாகை மீனவர்கள் 12 பேரையும், விசைப்படகையும் எல்லை தாண்டி மீன் பிடித்ததாகக் கூறி துப்பாக்கி முனையில் கைது செய்துள்ளனர். இதனையடுத்து கைது செய்யப்பட்ட 12 பேரும் விசாரணைக்காக மயிலட்டி மீன்பிடி துறைமுகத்திற்கு அழைத்துச் செல்லப்பட்டு முதற்கட்ட விசாரணைக்கு பின்னர் மீனவர்கள் படகுடன் யாழ்ப்பாணம் மீன்வளத்துறை அதிகாரிகளிடம் ஒப்படைக்கப்பட்டனர்.
+Sri Lankan navy has arrested 12 Tamil Nadu fishermen at gunpoint for allegedly crossing the border.
 
-...
+12 fishermen, including Kuna, Senjivel, Venkatesan, Chinna up, Karthi and Raghu, went to the sea on Saturday (26) in a fishing vessel belonging to Silambus Selvan, a resident of Akkaraipettai, Nagapattinam district.. They were fishing 40 nautical miles southeast of midnight Kodiyakkara.
+
+The Sri Lankan navy patrols there at the gunpoint for allegedly fishing at 12 Naga fishermen. Following this, the 12 arrested were taken to the Mayilatti fishing port and the fishermen were handed over to the Jaffna Fisheries Department with the boat.
+
+They were produced before the Point Pedro Court in the evening. They were imprisoned according to court order. The arrest of 12 Naga fishermen for fishing across the border has caused a stir and shock in Naga.
+
+◼️
 
 [Data](articles/c77a7b4d.json)
+
+[Extended Data](ext_articles/c77a7b4d.ext.json)
 
 ---
 
@@ -2335,149 +2485,5 @@ Indian intelligence recently released information on the plans to attack Israeli
 [Data](articles/c84ffd4e.json)
 
 [Extended Data](ext_articles/c84ffd4e.ext.json)
-
----
-
-### Shooting in Ratnapura
-
-*2024-10-26 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202580) · `si`
-
-Shooting in Ratnapura: House attack at 2 AM. Owner, family unharmed. Police suspect mining dispute.
-
-🟩
-
-A house was targeted in the Talawa area in Ratnapura, Ratnapura.
-
-It has been reported that the shooting has been carried out around 2 am today (26).
-
-At the time of shooting, the owner of the house had been the owner, his wife, child, and his parents, and none of the accident.
-
-Ratnapura Police stated that the owner of the house is a miner owner and suspected that shooting is a minery dispute.
-
-◼️
-
-[Data](articles/67dcdd8c.json)
-
-[Extended Data](ext_articles/67dcdd8c.ext.json)
-
----
-
-### CEB proposes 6% electricity tariff revision for December
-
-*2024-10-26 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102940/ceb-proposes-6-electricity-tariff-revision-for-december) · `en`
-
-The Ceylon Electricity Board (CEB) has submitted its proposal for a possible tariff revision in December to the Public Utilities Commission of Sri Lanka (PUCSL), marking the third quarterly review for the year.
-
-According to the PUCSL, the upcoming electricity tariff adjustment is expected to be a modest increase, anticipated at 6% across all sectors.
-
-PUCSL Director of Corporate Communications Jayanath Herath noted that a reduction ranging from 4% to 11% had initially been considered, but the current proposal suggests a moderate 6% adjustment.
-
-Following this, the proposal will undergo a public consultation phase before a final decision is made. Should the commission require additional modifications, the Electricity Board will receive feedback on Monday for further action, he added.
-
-This marks the third adjustment of electricity tariffs this year. The first revision in March resulted in a 21.9% revision for all segments, followed by a 22.5% reduction in July.
-
-◼️
-
-[Data](articles/99edd957.json)
-
-[Extended Data](ext_articles/99edd957.ext.json)
-
----
-
-### EU Representatives - President Meeting
-
-*2024-10-26 14:13:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐரோப்பிய-ஒன்றிய-பிரதிநிதிகள்-ஜனாதிபதி-சந்திப்பு/175-346075) · `ta`
-
-EU reps meet SL Pres: Discuss security, tourism, trade, education cooperation.
-
-🟩
-
-Ambassador of the European Union for Sri Lanka Carmen Morneo (H.E.. The EU representatives, led by Carmen Moreno, met with President Anura Kumara Dissanayake at the Presidential Office yesterday (25).
-
-President Anura Kumara Dissanayake has explained to the EU representatives on the current security conditions of Sri Lanka and said in the recent past to increase the safety of tourists and Sri Lankan people.
-
-The President said that security in the major tourist areas has been made of strong arrangements and regulations and emergency services have been implemented.
-
-The European Union is the most important partner in Sri Lanka and is the second massive export and tourist market in Sri Lanka and the third massive import market.
-
-EU representatives have now confirmed the president's work to expand its market to Sri Lanka, increase employment opportunities in the EU and support the development of tourism.
-
-...
-
-[Data](articles/2efc8223.json)
-
-[Extended Data](ext_articles/2efc8223.ext.json)
-
----
-
-### “Money cannot buy our opposition” – Dilith Jayaweera
-
-*2024-10-26 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102939/money-cannot-buy-our-opposition-dilith-jayaweera) · `en`
-
-Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District parliamentary candidate, entrepreneur Dilith Jayaweera says that there is no strategy in the program presented by the current government.
-
-He made these remarks while addressing a business community meeting held last afternoon (25) in Ganemulla.
-
-“I pointed out to the current President that there is no strategy for any of the programs he proposes. Now he is making history as the person who borrowed the most in the shortest period of time in Sri Lanka.”
-
-“We are suggesting to the people to give us the opposition. Let Anura Kumara go on like that. Money cannot buy our opposition,” he added.
-
-◼️
-
-[Data](articles/90e758a7.json)
-
-[Extended Data](ext_articles/90e758a7.ext.json)
-
----
-
-### McDonalds's announcement that his business activities are being completed in Sri Lanka
-
-*2024-10-26 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197160) · `ta`
-
-McDonald's announces end of operations in Sri Lanka. Joint statement with International Restaurant Systems. Gratitude to customers. Denies rumors about closures. No explanation given for shutdown. Future plans unclear.
-
-🟩
-
-The International Restaurant Systems, the International Restaurant Systems, has jointly declared its business relationship with the McDonalds Group and its branches.
-
-McDonalds expressed gratitude to the public who finished business with its branches in Sri Lanka and supported them.
-
-The public has urged the public not to believe in rumors or assumptions in the media in recent times about McDonalds.
-
-The report did not provide details of the reasons for the closure of McDonald's branches in Sri Lanka. McDonalds does not specify whether Sri Lanka will continue new functions.
-
-◼️
-
-[Data](articles/ff613ff0.json)
-
-[Extended Data](ext_articles/ff613ff0.ext.json)
-
----
-
-### Harred by the rumors on conflicts
-
-*2024-10-26 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202578) · `si`
-
-Here's a 200-character summary:
-
-
-
-PM denies rumors of conflict with President. Claims false news spread about disagreements. Speaks at public event, addressing recent tensions. Emphasizes unity and decision-making process.
-
-🟩
-
-Prime Minister Dr. Haraini Amarasuriya says that some have tried to promote false news that there is a conflict between him and the president.
-
-Addressing a public brief in Attidiya, Prime Minister said.
-
-A public meeting organized by the Prime Minister Dr. Harini Amarasuriya was held at the Atuda with the patronage of the Prime Minister Dr. Harini Amarasuriya.
-
-"These days are very good to lie and speak. Anura brother and I'm about the full Fight,. We don't speak now. When will that lie?. I just wanted to choose the lou.. I'm angry ... came with Anura Comrade. Comrane Comranene wants him a new Malays. When we make these decisions like they were in the rooms. It can be their hope. But that's not true. We make decisions. Discussed. Really Forecasts. There is no match between us. "
-
-◼️
-
-[Data](articles/11242aad.json)
-
-[Extended Data](ext_articles/11242aad.ext.json)
 
 ---

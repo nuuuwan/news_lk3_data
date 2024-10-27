@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 07:28:10**
+As of **2024-10-27 08:04:44**
 
 ## Newspaper Stats
 
-*Scraped **51,561** Articles*
+*Scraped **51,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 4,789
 adaderanalk | 6,104
 tamilmirrorlk | 7,124
 virakesarilk | 8,297
-adaderanasinhalalk | 8,965
+adaderanasinhalalk | 8,966
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,555 (100.0%) of 51,561 articles have been extended.
+51,557 (100.0%) of 51,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Risana downturn arrested
+
+*2024-10-27 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202604) · `si`
+
+Kandy Tournament arrests couple for violating immigration laws in Hantana area. 39-year-old male and 32-year-old female suspects. Further investigation ongoing at Kandy Police Station.
+
+🟩
+
+The tourism unit of the Kandy Tournament has been arrested by the Kandy Tournament in Sri Lanka without violating immigration laws.
+
+The couple was arrested in the Hantana area in the Kandy area in the Kandy area yesterday.
+
+The suspect is 39 years old and the suspect is 32 years old.
+
+The number of foreign merits had been produced before the Kandy Police Station and the Kandy Police are conducting further investigations.
+
+◼️
+
+[Data](articles/ef8ed956.json)
+
+[Extended Data](ext_articles/ef8ed956.ext.json)
+
+---
 
 ### Showers in many areas today
 
@@ -1187,6 +1211,8 @@ I met Barbara Harrel-Bond, an anthropologist, by accident in April 1989. At that
 ...
 
 [Data](articles/9d0f4f05.json)
+
+[Extended Data](ext_articles/9d0f4f05.ext.json)
 
 ---
 
@@ -2427,21 +2453,5 @@ With 759,210 applications received for postal voting in this general election, 2
 [Data](articles/c047c26f.json)
 
 [Extended Data](ext_articles/c047c26f.ext.json)
-
----
-
-### Iraq suspends all air traffic as Israel strikes Iran: state media
-
-*2024-10-26 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102934/iraq-suspends-all-air-traffic-as-israel-strikes-iran-state-media) · `en`
-
-Iraq suspended all air traffic Saturday at its airports until further notice after Israel launched air strikes against Iran.
-
-“Due to regional tensions, Iraqi air traffic has been suspended until further notice to preserve the safety of civil aviation in Iraqi airspace,” the country’s transport minister said in a statement published by the official INA news agency.
-
-◼️
-
-[Data](articles/2173ac35.json)
-
-[Extended Data](ext_articles/2173ac35.ext.json)
 
 ---

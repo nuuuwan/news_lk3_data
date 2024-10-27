@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 00:23:56**
+As of **2024-10-28 00:39:26**
 
 ## Newspaper Stats
 
-*Scraped **51,697** Articles*
+*Scraped **51,698** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
 tamilmirrorlk | 7,148
-virakesarilk | 8,341
+virakesarilk | 8,342
 adaderanasinhalalk | 8,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,697 (100.0%) of 51,697 articles have been extended.
+51,698 (100.0%) of 51,698 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Afghanistan A team in the Asian Bowl Cricket for growing teams
+
+*2024-10-27 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/197284) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Afghanistan A cricket team defeated Sri Lanka A by 7 wickets in the Asian Bowl. Sahan Arachchige and Pavun Rathnayake scored crucial runs. Bilal Sammy took 2 wickets for 14 runs. Afghanistan A won the match in 18.1 overs, scoring 134 runs while losing 3 wickets.
+
+🟩
+
+Afghanistan A team was a team between the grown -up players in Oman.
+
+Afghanistan A lightened the title of Sambhai by seven wickets to remain 11 balls in the final against the Sri Lanka A team on Sunday.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை ஏ அணி 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 133 ஓட்டங்களைப் பெற்றது.
+
+The total number in the 5th over was just 15 runs in the 5th over to lose four -digit number of Sri Lanka A team.
+
+ஆனால், பவன் ரத்நாயக்க, சஹான் ஆராச்சிகே ஆகிய இருவரும் 5ஆவது விக்கெட்டில் 50 ஓட்டங்களைப் பகிர்ந்து   அணியின் வீழ்ச்சியைக் கட்டுப்படுத்தினர்.
+
+தொடர்ந்து திறமையாகத் துடுப்பெடுத்தாடிய சஹான் ஆராச்சிகே 6ஆவது விக்கெட்டில் நிமேஷ் விமுக்தியுடன் மேலும் 42 ஓட்டங்களைப் பகிர்ந்தார்.
+
+நிமேஷ் விமுக்தி 23 ஓட்டங்களுடன் ஆட்டம் இழந்ததும் மேலும் ஒரு விக்கெட் சரிந்தது. (108 - 7 wig.)
+
+Sahan Arachchike raised the total number to 133 runs without losing 64 runs and Dushan Hemantha 6.
+
+Bilal Sammy 22 wickets for 22 runs. Kasanber also took 2 wickets for 14 runs.
+
+...
+
+[Data](articles/ab768d03.json)
+
+[Extended Data](ext_articles/ab768d03.ext.json)
+
+---
 
 ### We were defeated in the presidential election;Ranil does not want to win Sajith - SM Marikar.
 
@@ -2385,33 +2423,5 @@ The 39 -year -old male and the 32 -year -old Russian woman have been handed over
 [Data](articles/34cd6fe6.json)
 
 [Extended Data](ext_articles/34cd6fe6.ext.json)
-
----
-
-### Sri Lanka and Afghanistan today
-
-*2024-10-27 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202610) · `si`
-
-Sri Lanka 'A' and Afghanistan 'A' teams compete in Oman. Sri Lanka 'A' won 3 matches in Jansai Cup, defeating Pakistan 'A' in finals. Afghanistan 'A' won against India 'A' in their final, winning the tournament.
-
-🟩
-
-The Sri Lanka 'A' and Afghanistan 'A' is scheduled to play between the rise groups in Oman.
-
-Sri Lanka 'A' team won a group of three matches in 3 matches between the Janasia Cup match.
-
-Pakistani A 'A' was the opponents of the Sri Lanka 'A' team in the final church.
-
-Sri Lankan team defeated Pakistani by 7 wickets qualified for the final
-
-The Afghanistan 'A' team won the B 'B' in this year's tournament, and won both the contest.
-
-They defeated the most powerful Indian team by 20 runs in their final.
-
-◼️
-
-[Data](articles/ff0eb234.json)
-
-[Extended Data](ext_articles/ff0eb234.ext.json)
 
 ---

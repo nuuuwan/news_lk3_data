@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 20:10:58**
+As of **2024-10-27 20:23:51**
 
 ## Newspaper Stats
 
-*Scraped **51,677** Articles*
+*Scraped **51,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,068
 economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,802
+adalk | 4,803
 adaderanalk | 6,119
 tamilmirrorlk | 7,148
 virakesarilk | 8,334
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,986
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,677 (100.0%) of 51,677 articles have been extended.
+51,678 (100.0%) of 51,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Suspect arrested with a 700-page book in Colombo
+
+*2024-10-27 19:08:06* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-මර්මස්ථානවල-රූප-සටහන්-ඇති-පිටු-700ක-පොතක්-සමග-සැකකරුවෙක්-අල්ලයි/11-412702) · `si`
+
+Colombo: Suspect arrested with 700-page book. Cinnamon Gardens Police custody. Business partner investigation. Wife interviewed. Detention orders issued. Chief Inspector Luck Bandara Senanayake leading inquiry.
+
+🟩
+
+Cinnamon Gardens Police say that a single Embassy in the Cinnamonuwaththa Javanda jetta road has been taken into custody by a mobile phone in Colombo and surrounding areas.
+
+In addition to that book, the book of elite has been taken into police custody, a book and a date book provided by the Suspect's conversation and the addresses of the suspect.
+
+Suspect's Special Task Force officials arrested by a STF personnel arrested and handed over to the Cinnamon Gardens Police for further investigations
+
+Police investigations have revealed that the person who had been engaged in business with a brother in Markkotuwa, Colombo has been removed from these activities, about six months ago. "
+
+The 54-year-old suspect is a resident of Yagodamammulla area and one child is married and is married and is married to the other
+
+...
+
+[Data](articles/abdc6521.json)
+
+[Extended Data](ext_articles/abdc6521.ext.json)
+
+---
 
 ### Rice and paddy consignment report to be handed over to the president tomorrow
 
@@ -2361,17 +2387,5 @@ The three suspects are to be produced before the Negombo Magistrate's Court toda
 [Data](articles/8cac1a13.json)
 
 [Extended Data](ext_articles/8cac1a13.ext.json)
-
----
-
-### Should We Lower The Bar, So That Less Qualified Juniors From NPP Can Jump Over?
-
-*2024-10-27 09:02:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/should-we-lower-the-bar-so-that-less-qualified-juniors-from-npp-can-jump-over/) · `en`
-
-...
-
-[Data](articles/b1940ea2.json)
-
-[Extended Data](ext_articles/b1940ea2.ext.json)
 
 ---

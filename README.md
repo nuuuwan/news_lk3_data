@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 18:59:08**
+As of **2024-10-27 19:10:28**
 
 ## Newspaper Stats
 
-*Scraped **51,673** Articles*
+*Scraped **51,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
 adalk | 4,801
-adaderanalk | 6,118
+adaderanalk | 6,119
 tamilmirrorlk | 7,148
 virakesarilk | 8,334
-adaderanasinhalalk | 8,984
+adaderanasinhalalk | 8,986
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,673 (100.0%) of 51,673 articles have been extended.
+51,675 (100.0%) of 51,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### රටේ සහල් සහ වී තොග වාර්තාව හෙට ජනාධිපති අතට
+
+*2024-10-27 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202624) · `si`
+
+රට තුළ පවතින සහල් සහ වී තොග සම්බන්ධයෙන් පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය සකස් කළ වාර්තාව ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත හෙට (28) භාරදීමට නියමිතව තිබේ.
+
+කෘෂිකර්ම අමාත්‍යංශ ලේකම් එම්.පී.එන්.එම්. වික්‍රමසිංහ මහතා පවසා සිටියේ, අදාළ වාර්තාව සකස් කිරීම සඳහා මේ වන විට කටයුතු කරමින් සිටින බවය.
+
+ජනාධිපතිවරයාගේ උපදෙස් මත ඊයේ සහ අද යන දෙදින තුළ අනුරාධපුර, පොළොන්නරුව, අම්පාර සහ හම්බන්තොට යන දිස්ත්‍රික්කවල පිහිටි සහල් මෝල්වල සහල් හා වී තොග ප්‍රමාණයන් පිළිබඳ දත්ත ලබාගැනීමට පාරිභෝගික කටයුතු අධිකාරිය කටයුතු කළේය.
+
+◼️
+
+[Data](articles/68ac2eb9.json)
+
+---
+
+### SLAF Commander calls on Pakistan Air Force chief, discuss regional security
+
+*2024-10-27 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102962/slaf-commander-calls-on-pakistan-air-force-chief-discuss-regional-security-) · `en`
+
+The Commander of the Sri Lanka Air Force (SLAF), Air Marshal Udeni Rajapaksa, had visited Pakistan to observe Exercise Indus Shield-2024 and paid an official call on the Chief of the Air Staff, Pakistan Air Force (PAF), Air Chief Marshal Zaheer Ahmed Baber Sidhu, at Air Headquarters, Islamabad yesterday (25).
+
+The key topics focused on regional security and operational cooperation, Sri Lanka Air Force said in a statement.
+
+The Exercise Indus Shield-2024, a leading military exercise in the region, displayed Pakistan Air Force’s (PAF) advanced multi-domain warfighting capabilities, with Air Chiefs and senior military officials from allied countries attending. The exercise emphasized the importance of global Air Forces’ collaboration.
+
+Air Marshal Rajapaksa was accorded a guard of honour by a smartly turned-out PAF contingent, the statement added.
+
+...
+
+[Data](articles/d258c3f2.json)
+
+[Extended Data](ext_articles/d258c3f2.ext.json)
+
+---
+
+### Sri Lanka to benefit the final battle
+
+*2024-10-27 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202623) · `si`
+
+Sri Lanka wins toss, elects to bat. Tournament started in 2013. Sri Lanka reached finals twice before. This is Afghanistan's first final appearance.
+
+🟩
+
+Sri Lanka captain Winthuniye Fernando won the toss and elected to the toss and elected to the toss.
+
+The tournament commenced in 2013 as Asian under 23 years of Asia, the event will be held this year.
+
+In two previous occasions (2017, 2018), Sri Lanka has played the final.
+
+However, this is the first and the same chance of Afghanistan's finals.
+
+◼️
+
+[Data](articles/b9fe55cf.json)
+
+[Extended Data](ext_articles/b9fe55cf.ext.json)
+
+---
 
 ### "Prabhakaran is not in Benner"
 
@@ -2301,79 +2361,5 @@ When people visit the Colombo International Book Fair, they expect to explore a 
 [Data](articles/bcc5d99e.json)
 
 [Extended Data](ext_articles/bcc5d99e.ext.json)
-
----
-
-### President instructs to solve the problem with rice
-
-*2024-10-27 08:39:58* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-මිල-ගැන-ගැටලුව-විසදීමට-ජනපතිගෙන්-උපදෙස්/11-412693) · `si`
-
-President Anura Kumara Dissanayake meets Ministry of Agriculture officials to discuss rice prices and conditions. Advises accelerated measures to address issues. Present: Wickremasinghe (Agriculture), Nimimudin (Entrepreneurship), Paddy Marketing Board Chairman, and other officers.
-
-🟩
-
-President Anura Kumara Dissanayake met at the Ministry of Agriculture, Trade and Paddy Marketing at the Presidential Secretariat.
-
-The prices of rice and current conditions have been discussed at length and the president advised the officials regarding the accelerated measures to be taken.
-
-Secretary to the Pradeep Communication, Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic ResourcesWickremasinghe, Trade, Commerce, Food Security, Co-operative Development, Industries
-
-And the Secretary to the Ministry of Entrepreneurship Development MM. Nimimudin, Chairman of the Paddy Marketing Board AMU. A group of officers including Pinnanalanda were also present.
-
-◼️
-
-[Data](articles/689cd094.json)
-
-[Extended Data](ext_articles/689cd094.ext.json)
-
----
-
-### Overseas support for the August Gnat attack program?
-
-*2024-10-27 08:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197208) · `ta`
-
-Foreign support suspected in August Gnat attack plan against Israelis. Police thwarted potential massacre during Jewish worship. Intelligence sources indicate attack scheduled for October 19-24. Investigations ongoing regarding extent of foreign backing.
-
-🟩
-
-The Sunday Times, which said it was planning to attack the Israelis in the heard of the abroad, was planning to carry out the attack by October 19 to 24.
-
-The police have prevented the major danger of being massacred in their worship at the Israeli Tourists at the August Guda.
-
-The attack was planned on October 19 to 24, and the Israeli will be attending a large number of intelligence this week, according to intelligence sources.
-
-Officials said investigations are underway on how far supported the attack was supported by a foreign attack.
-
-◼️
-
-[Data](articles/227784fd.json)
-
-[Extended Data](ext_articles/227784fd.ext.json)
-
----
-
-### Handbags Recovery
-
-*2024-10-27 08:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைக்குண்டுகள்-மீட்பு/175-346089) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Hand grenades discovered in well during cleanup near Port of Point Pedro. Bombs found after 35-year-old war site excavation."
-
-🟩
-
-A large number of hand grenades have been recovered from the well of the land, which was found due to the war.
-
-Yall. These handbags have been recovered when the land of the land is being cleaned in the back of the port of Point Pedro.. The handbags were recovered yesterday morning.
-
-The bombs have been recovered as the well was cleaned up for 35 years due to the war.. (A)
-
-◼️
-
-[Data](articles/fa7aea74.json)
-
-[Extended Data](ext_articles/fa7aea74.ext.json)
 
 ---

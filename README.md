@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 22:13:23**
+As of **2024-10-27 22:24:43**
 
 ## Newspaper Stats
 
-*Scraped **51,683** Articles*
+*Scraped **51,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 4,805
 adaderanalk | 6,120
 tamilmirrorlk | 7,148
 virakesarilk | 8,334
-adaderanasinhalalk | 8,988
+adaderanasinhalalk | 8,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,683 (100.0%) of 51,683 articles have been extended.
+51,684 (100.0%) of 51,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### The prospect of the courageous opposition that is established
+
+*2024-10-27 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202627) · `si`
+
+Dilith Jayaweera calls for bold opposition against corruption in governance. He criticizes existing parties like JVP for failing to end corruption after decades. Jayaweera vows to bring about change through constitutional means.
+
+🟩
+
+Imanent Entrepreneral Entrepreneer Dilith Jayaweera says that the prospect of universal power is the contamination of the government free of corruption to the government.
+
+He was speaking at the Nammanathana's Katana Seathouse Federation in the Norrological Policy this morning.
+
+"We come to make the bold opposition. We urge this Parliament back to earth on the earth. This country wrote to a creative program that can be taken in a third world, not confessed to a creative program, not chilli powder, yellow powdered, yellow powder, yellow powder, yellow powder, fool. "
+
+"We want to change this culture and end on this corrupt politics. Anura Kumara and the JVP have failed for almost 30 years in parliament to end this corrupt politics. They've been a part of corrupt transactions. They have endorsed corrupt deals. We are going to parliament to show them the constitutional way. "
+
+◼️
+
+[Data](articles/e24f34d4.json)
+
+[Extended Data](ext_articles/e24f34d4.ext.json)
+
+---
 
 ### India donates solar rooftop systems to religious places in Sri Lanka
 
@@ -2393,21 +2417,5 @@ The President stressed that no businessman would not allow rice control prices a
 [Data](articles/35af5171.json)
 
 [Extended Data](ext_articles/35af5171.ext.json)
-
----
-
-### NPP’s Political Culture Change Project: A Path Forward For Sri Lanka?
-
-*2024-10-27 09:33:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/npps-political-culture-change-project-a-path-forward-for-sri-lanka/) · `en`
-
-Sri Lanka has long been a country grappling with political instability, entrenched corruption, and cyclical economic crises. In 2024, National People’s Power (NPP) emerged as a beacon of hope for many Sri Lankans seeking a new political paradigm. Representing a coalition of left-leaning political entities, academics, and civil society members, the NPP captured public attention by promising reforms and transparency, emphasizing a government accountable to the people. Amid record-high inflation of around 50% in 2022 and a significant GDP contraction of 7.8%, Sri Lankans sought leadership that could prioritize economic stability and integrity, marking a shift away from personality-driven politics. However, the question remains whether the NPP can truly transform the nation’s political culture and deliver a meaningful economic recovery.
-
-NPP’s Unique Appeal: Standing Apart in a Sea of Corruption and Cronyism
-
-...
-
-[Data](articles/e159809c.json)
-
-[Extended Data](ext_articles/e159809c.ext.json)
 
 ---

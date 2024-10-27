@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 09:00:19**
+As of **2024-10-27 09:14:57**
 
 ## Newspaper Stats
 
-*Scraped **51,569** Articles*
+*Scraped **51,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,45 @@ islandlk | 3,068
 economynextcom | 3,143
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,790
+adalk | 4,792
 adaderanalk | 6,104
 tamilmirrorlk | 7,128
-virakesarilk | 8,297
+virakesarilk | 8,298
 adaderanasinhalalk | 8,968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,569 (100.0%) of 51,569 articles have been extended.
+51,572 (100.0%) of 51,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Overseas support for the August Gnat attack program?
+
+*2024-10-27 08:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197208) · `ta`
+
+Foreign support suspected in August Gnat attack plan against Israelis. Police thwarted potential massacre during Jewish worship. Intelligence sources indicate attack scheduled for October 19-24. Investigations ongoing regarding extent of foreign backing.
+
+🟩
+
+The Sunday Times, which said it was planning to attack the Israelis in the heard of the abroad, was planning to carry out the attack by October 19 to 24.
+
+The police have prevented the major danger of being massacred in their worship at the Israeli Tourists at the August Guda.
+
+The attack was planned on October 19 to 24, and the Israeli will be attending a large number of intelligence this week, according to intelligence sources.
+
+Officials said investigations are underway on how far supported the attack was supported by a foreign attack.
+
+◼️
+
+[Data](articles/227784fd.json)
+
+[Extended Data](ext_articles/227784fd.ext.json)
+
+---
 
 ### Handbags Recovery
 
@@ -55,6 +79,36 @@ The bombs have been recovered as the well was cleaned up for 35 years due to the
 [Data](articles/fa7aea74.json)
 
 [Extended Data](ext_articles/fa7aea74.ext.json)
+
+---
+
+### Elpitiya Little Volume Benefits
+
+*2024-10-27 08:00:00* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-පුංචි-ඡන්දයෙන්-මාලිමාවට-විශිෂ්ඨ-ජයක්/11-412692) · `si`
+
+Elpitiya Pradeshiya Sabha election results: 17,295 votes secured 15 seats. Key parties: Sri Lankan leader (3,597), Civil Front (2,612), Independent Group (2,568), UN United Freedom Alliance (1,350), National People's Party (521).
+
+🟩
+
+Among the votes held in Elpitiya Pradeshiya Sabha elections was won by 17295 votes and won the election for 15 seats.
+
+36 voters had voted for the election held on behalf of the Elpitiya Pragine.
+
+3,597 votes polled by the Sri Lankan leader - 3,597 votes - 3
+
+2,612 MPs received by the Civil Front
+
+2,568 MPs who received independent group were obtained - 2 MPs
+
+1,350 votes polled by the United Nations United Freedom Alliance - 1
+
+521 votes polled by the National People's Party - 1
+
+◼️
+
+[Data](articles/ee62303b.json)
+
+[Extended Data](ext_articles/ee62303b.ext.json)
 
 ---
 
@@ -947,6 +1001,30 @@ How can this election in less than 20 days in less than 20 days to hold general 
 [Data](articles/69c25010.json)
 
 [Extended Data](ext_articles/69c25010.ext.json)
+
+---
+
+### Explanation from SOS Children's Village
+
+*2024-10-26 18:22:15* · [`adalk`](https://www.ada.lk/breaking_news/පිළියන්දල-SOS-ළමා-ගම්මානයෙන්-පැහැදිලි-කිරිමක්/11-412691) · `si`
+
+SOS Children's Village addresses abuse case involving 14-year-old girl. Prioritizes victim's well-being. Incident occurred in January 2023. Girl hospitalized and receiving care. Authorities notified, including police and courts. Investigation ongoing.
+
+🟩
+
+The administration of the village issues announcement in the village of abuse of a 14-year-old girl in the back of the SOS Children's Village.
+
+At the moment, it is the priority of the village to ensure the girl's physical and mental wellbeing.
+
+The girl was admitted to the incident in January 2023, while the interrogated temple was located near the questionable temple, was directed to the dhamma school competition to conduct before her.. The unfortunate incident had taken place that the girl was attending her mother.
+
+As soon as the incident, we were able to hospitalize our company and its management to hospital with all the kind she needed. The hospital staff is underway, and we are committed to all government agencies, including the police and court.
+
+◼️
+
+[Data](articles/be0fe659.json)
+
+[Extended Data](ext_articles/be0fe659.ext.json)
 
 ---
 
@@ -2411,65 +2489,5 @@ However, Iran's local media has reported that there has been no fire or explosio
 [Data](articles/d3588cf2.json)
 
 [Extended Data](ext_articles/d3588cf2.ext.json)
-
----
-
-### Car recovery in Maharagama
-
-*2024-10-26 09:56:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹரகமயில்-கைவிடப்பட்ட-நிலையில்-கார்-மீட்பு/175-346067) · `ta`
-
-Car recovery in Maharagama: A sticker-covered vehicle was found abandoned near a garment shop. It was recovered after the Maharagama Trade Union received information about its location.
-
-🟩
-
-Maharagama police said that a sticker car pasted by a human rights organization was abandoned in front of a garment shop on Parana Road, Maharagama.
-
-The vehicle has been recovered following information provided to the Maharagama Trade Union. (That)
-
-◼️
-
-[Data](articles/b98dd1c7.json)
-
-[Extended Data](ext_articles/b98dd1c7.ext.json)
-
----
-
-### Explanation for 16 Indian fishermen
-
-*2024-10-26 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197140) · `ta`
-
-Indian fishermen arrested Jaffna sea remanded court order summary: 16 Tamil Nadu fishermen detained, produced in court, remanded until next month.
-
-🟩
-
-16 Indian fishermen arrested for fishing in the Jaffna Nedundevu Sea have been remanded till the 06th of next month.
-
-The 16 Tamil Nadu fishermen were arrested last Wednesday night.
-
-The detained fishermen were produced before the Kayts Magistrate's Court Judge Nalini Subhaskaran on Thursday (24). The above ordered.
-
-◼️
-
-[Data](articles/07c2a2bf.json)
-
-[Extended Data](ext_articles/07c2a2bf.ext.json)
-
----
-
-### After wave of airstrikes, Israel says its retaliation against Iran is complete
-
-*2024-10-26 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102935/after-wave-of-airstrikes-israel-says-its-retaliation-against-iran-is-complete) · `en`
-
-The Israel Defense Forces (IDF) said that it has completed a series of airstrikes against Iranian military sites, termed “Days of Repentance,” in response to ongoing attacks from Iran, including a significant missile barrage on October 1.
-
-The operation involved dozens of Israeli aircraft, including fighter jets and refuelers, targeting military installations across various regions in Iran, approximately 1,600 kilometers from Israel. These strikes were executed in multiple waves over several hours, focusing on air defense systems and ballistic missile manufacturing sites linked to recent Iranian attacks on Israel.
-
-Meanwhile, Iran says its air defense system successfully countered Israel’s attacks with “limited damage” caused to some locations. In a statement, the Iranian forces stated that Israel attacked military targets in the provinces of Tehran, Khuzestan and Ilam.
-
-...
-
-[Data](articles/2f34ff5d.json)
-
-[Extended Data](ext_articles/2f34ff5d.ext.json)
 
 ---

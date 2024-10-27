@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 09:40:06**
+As of **2024-10-27 09:59:30**
 
 ## Newspaper Stats
 
-*Scraped **51,572** Articles*
+*Scraped **51,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,068
 economynextcom | 3,143
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,792
-adaderanalk | 6,104
+adalk | 4,793
+adaderanalk | 6,106
 tamilmirrorlk | 7,128
 virakesarilk | 8,298
 adaderanasinhalalk | 8,968
@@ -26,11 +26,73 @@ adaderanasinhalalk | 8,968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,572 (100.0%) of 51,572 articles have been extended.
+51,575 (100.0%) of 51,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-10-27 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102949/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle, Matara and Mannar districts.
+
+Fairly heavy showers above 50 mm are likely at some places in Western, Sabaragamuwa and North-western provinces.
+
+Showers or thundershowers will occur at several places in the other areas of the island during the evening or night, it added.
+
+Strong winds of about 40 kmph can be expected at times over Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+◼️
+
+[Data](articles/1b76a076.json)
+
+[Extended Data](ext_articles/1b76a076.ext.json)
+
+---
+
+### NPP tops Elpitiya PS Election
+
+*2024-10-27 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102948/npp-tops-elpitiya-ps-election) · `en`
+
+The results of the Elpitiya Pradeshiya Sabha Election was released last night, with the National People’s Power (NPP) coming out on top.
+
+The NPP obtained a total of 17,295 votes, securing 15 seats.
+
+The number of votes and seats obtained by the parties are as follows:
+
+◼️
+
+[Data](articles/a56de957.json)
+
+[Extended Data](ext_articles/a56de957.ext.json)
+
+---
+
+### President instructs to solve the problem with rice
+
+*2024-10-27 08:39:58* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-මිල-ගැන-ගැටලුව-විසදීමට-ජනපතිගෙන්-උපදෙස්/11-412693) · `si`
+
+President Anura Kumara Dissanayake meets Ministry of Agriculture officials to discuss rice prices and conditions. Advises accelerated measures to address issues. Present: Wickremasinghe (Agriculture), Nimimudin (Entrepreneurship), Paddy Marketing Board Chairman, and other officers.
+
+🟩
+
+President Anura Kumara Dissanayake met at the Ministry of Agriculture, Trade and Paddy Marketing at the Presidential Secretariat.
+
+The prices of rice and current conditions have been discussed at length and the president advised the officials regarding the accelerated measures to be taken.
+
+Secretary to the Pradeep Communication, Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic ResourcesWickremasinghe, Trade, Commerce, Food Security, Co-operative Development, Industries
+
+And the Secretary to the Ministry of Entrepreneurship Development MM. Nimimudin, Chairman of the Paddy Marketing Board AMU. A group of officers including Pinnanalanda were also present.
+
+◼️
+
+[Data](articles/689cd094.json)
+
+[Extended Data](ext_articles/689cd094.ext.json)
+
+---
 
 ### Overseas support for the August Gnat attack program?
 
@@ -2421,73 +2483,5 @@ He also assured that plans to solve them in the event of any emergency circumsta
 [Data](articles/768550f4.json)
 
 [Extended Data](ext_articles/768550f4.ext.json)
-
----
-
-### Towards Stability, Equity & Prosperity
-
-*2024-10-26 10:19:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-stability-equity-prosperity/) · `en`
-
-The victory of National People’s Power (Jathika Jana Balawegaya – NPP) at the recent presidential election in Sri Lanka has changed the political landscape of the country. It has given rise to the expectation of a novel and fundamentally different approach towards governance. The electorate expects the government and the state to move away from an autocratic, nepotistic, and militaristic approach, which was the central demand of the “Aragalaya” movement. One of the key themes of the NPP campaign was the fight against corruption, wastage, and mismanagement of resources, which was also a theme that fuelled the “Aragalaya” campaign.
-
-...
-
-[Data](articles/9ea939bc.json)
-
-[Extended Data](ext_articles/9ea939bc.ext.json)
-
----
-
-### Delayed ballot distribution today
-
-*2024-10-26 10:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமதமான-வாக்குச்சீட்டு-விநியோகம்-இன்று-ஆரம்பம்/175-346069) · `ta`
-
-Postal ballots distributed today. Colombo, Vanni districts. Legal issues resolved. 738,002 postal voters eligible for 2024 election.
-
-🟩
-
-The Postal Department said that the distribution of secured packages containing official postal ballot from Colombo and Vanni districts will be launched today (26).
-
-The Distribution of Colombo and Vanni District Bonds, which had been suspended due to legal proceedings, was handed over to the election officials of the particular districts yesterday, the Election Commission said.
-
-கொழும்பு மற்றும் வன்னி மாவட்டங்களுக்கான தபால் மூல வாக்களிப்பு ஒக்டோபர் 30, நவம்பர் 1 மற்றும் நவம்பர் 4ஆம் திகதிகளில் இடம்பெறும் என, தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்துள்ளார்.
-
-Meanwhile, the Elections Commission has announced that 738,002 postal voters are eligible to vote for the 2024 general election.
-
-◼️
-
-[Data](articles/44f28867.json)
-
-[Extended Data](ext_articles/44f28867.ext.json)
-
----
-
-### Israeli military announcement on the attack
-
-*2024-10-26 10:08:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தாக்குதல்-குறித்து-இஸ்ரேல்-இராணுவம்-வெளியிட்ட-அறிவிப்பு/50-346068) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Israel claims air strikes hit Iranian targets. Tehran airspace closed. Attacks reported in Tehran, Khuzestan, Ilam. Iran denies damage at oil refinery."
-
-🟩
-
-The Israeli military claims that the military targets in Iran have been completed by air strikes on certain targets.
-
-Moreover, Israel and Iran have closed their airspace following the Israeli military attack on Iran's Tehran.
-
-The Israeli military has reportedly carried out attacks on Iranian military targets in response to Iran's attacks for several months.
-
-Israel is reported to have attacked military targets in Tehran, Kuusestan and Ilam provinces.
-
-However, Iran's local media has reported that there has been no fire or explosion at the oil refinery south of Tehran.. Remble
-
-◼️
-
-[Data](articles/d3588cf2.json)
-
-[Extended Data](ext_articles/d3588cf2.ext.json)
 
 ---

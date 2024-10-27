@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 03:09:08**
+As of **2024-10-28 03:24:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,714 (100.0%) of 51,716 articles have been extended.
+51,716 (100.0%) of 51,716 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ In collaboration with a local law firm and the Colombo Crime Division (CCD), Cas
 ...
 
 [Data](articles/e412072d.json)
+
+[Extended Data](ext_articles/e412072d.ext.json)
 
 ---
 
@@ -83,6 +85,8 @@ The ABU is the largest broadcasting union in the world, with its 250 members in 
 ...
 
 [Data](articles/dbc0c88b.json)
+
+[Extended Data](ext_articles/dbc0c88b.ext.json)
 
 ---
 

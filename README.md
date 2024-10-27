@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 00:57:17**
+As of **2024-10-28 01:09:03**
 
 ## Newspaper Stats
 
-*Scraped **51,699** Articles*
+*Scraped **51,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 523
 bbccomsinhala | 524
 islandlk | 3,068
 economynextcom | 3,146
-dailyftlk | 3,521
+dailyftlk | 3,523
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
@@ -26,11 +26,39 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,699 (100.0%) of 51,699 articles have been extended.
+51,699 (100.0%) of 51,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Pareto Analysis of the Jana Balawegaya force
+
+*2024-10-28 00:47:17* · [`dailyftlk`](https://www.ft.lk/columns/Pareto-Analysis-of-the-Jana-Balawegaya-force/4-768467) · `en`
+
+President AKD possessed the personality to appeal to the voters to cast their choice, but NPP must face the parliamentary election sans the popularity brand of AKD – Pic by Shehan Gunasekara
+
+Whoever gets the mandate to form the next Government needs to identify the structural problems that hinder the strengthening of the producers and the consumers who are the important pillars in the real economy which drives the growth. Moreover, they need to come up with incremental policy changes mainstreamed first and come up with the critical fundamental policy changes embedded with the necessary structural changes at a gradual pace
+
+...
+
+[Data](articles/af69b798.json)
+
+---
+
+### Reactivate elected provincial councils for north and east
+
+*2024-10-28 00:41:57* · [`dailyftlk`](https://www.ft.lk/opinion/Reactivate-elected-provincial-councils-for-north-and-east/14-768466) · `en`
+
+Arguments that the provincial council system is too costly and burdens the country with an unnecessary tier of government are not relevant to its purpose
+
+In his election manifesto, as well as in his election campaign, President Anura Kumara Dissanayake pledged to take forward the national reconciliation process through several measures, including implementation of the 13th Amendment. His election manifesto commits the Government to conduct provincial council elections within a year “to provide an opportunity for the people to join the governance.”
+
+...
+
+[Data](articles/74607cc8.json)
+
+---
 
 ### The new government should be given time
 
@@ -2377,53 +2405,5 @@ Police have also taken into custody the vehicle in which they had arrived at the
 [Data](articles/81c0da42.json)
 
 [Extended Data](ext_articles/81c0da42.ext.json)
-
----
-
-### Voter card distribution is on the beginning
-
-*2024-10-27 11:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகம்-ஆரம்பம்/175-346097) · `ta`
-
-Postal Department starts distributing voter cards for 2024 general election today. Distribution begins nationwide except Colombo district due to delays. Cards available from Nov 3, 8am-6pm.
-
-🟩
-
-The Postal Department has announced that the polling card for the 2024 general election will commence today (27).
-
-Senior Deputy Post Office Rajitha Ranasinghe has confirmed that the Postal Department has received cards for the ballot.
-
-The process of distributing these voter cards into households has begun today.
-
-However, for some delays, the voter cards in the Colombo district will not be distributed.
-
-Voter cards will be distributed on November 3 from 8:00 am to 6:00 pm.
-
-◼️
-
-[Data](articles/a7c3352d.json)
-
-[Extended Data](ext_articles/a7c3352d.ext.json)
-
----
-
-### Police open fire at lorry in Sooriyawewa
-
-*2024-10-27 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102952/police-open-fire-at-lorry-in-sooriyawewa) · `en`
-
-Police have opened fire at a lorry that refused to comply with orders to stop for inspection, in the Meegahajadura area of Sooriyawewa today (27).
-
-Sooriyawewa Police reported that the lorry was traveling from Lunugamwehera to Sooriyawewa and continued to evade a checkpoint despite repeated signals to stop.
-
-The pursuit concluded when a bullet struck one of the vehicle’s tyres, forcing the lorry to stop, according to police
-
-Upon inspection, police have discovered 17 cows being transported in the vehicle.
-
-The driver was taken into custody and is set to be produced before the Hambantota Magistrate’s Court.
-
-◼️
-
-[Data](articles/626b118a.json)
-
-[Extended Data](ext_articles/626b118a.ext.json)
 
 ---

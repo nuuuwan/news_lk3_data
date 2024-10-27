@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 10:39:47**
+As of **2024-10-27 10:58:27**
 
 ## Newspaper Stats
 
-*Scraped **51,579** Articles*
+*Scraped **51,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,068
 economynextcom | 3,143
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,793
+adalk | 4,794
 adaderanalk | 6,107
-tamilmirrorlk | 7,128
+tamilmirrorlk | 7,130
 virakesarilk | 8,298
 adaderanasinhalalk | 8,970
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 8,970
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,579 (100.0%) of 51,579 articles have been extended.
+51,582 (100.0%) of 51,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### One person killed in vehicle accident
+
+*2024-10-27 10:24:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-விபத்தில்-ஒருவர்-பலி/175-346094) · `ta`
+
+Vehicle accident kills one in Colombo. Three-wheeler crashes into tipper truck. Driver arrested. Investigations ongoing.
+
+🟩
+
+One person was killed in a vehicle accident in the Navedi area of ​​Colombo-Ithinapuri road in the Avissawella police division.
+
+A three -wheeler traveling from Ratnapura to Avissawelle crashed into a tipper vehicle.
+
+The man who was traveling in the aftermath of the injured three -wheeler died after being admitted to the Avissawella hospital.
+
+A 34 -year -old man died in the accident. The body of the deceased has been placed in the autopsy of the Avissawella Hospital for autopsy.
+
+The driver of the tipper vehicle has been arrested in connection with the incident and further investigations are being carried out by the Avissawala police.
+
+◼️
+
+[Data](articles/ee6485f6.json)
+
+[Extended Data](ext_articles/ee6485f6.ext.json)
+
+---
+
+### Mahawa - Anuradhapura Rail Service Timeline Release
+
+*2024-10-27 10:19:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹவ-அநுராதபுரம்-ரயில்-சேவை-நேர-அட்டவணை-வெளியீடு/175-346093) · `ta`
+
+Colombo-Kankesanthurai rail service resumes after modernizing tracks to Mahawa-Anuradhapura. Government Information Department releases timeline details.
+
+🟩
+
+Rail services from Colombo - Fort to Kankesanthurai will be resumed after modernization of rails up to Mahawa and Anuradhapura.
+
+The report issued by the Government Information Department describes the details
+
+◼️
+
+[Data](articles/d08f3db8.json)
+
+[Extended Data](ext_articles/d08f3db8.ext.json)
+
+---
 
 ### Three killed in accidents
 
@@ -141,6 +187,34 @@ The number of votes and seats obtained by the parties are as follows:
 [Data](articles/a56de957.json)
 
 [Extended Data](ext_articles/a56de957.ext.json)
+
+---
+
+### The ice of ice of ice is hidden in a rice bag
+
+*2024-10-27 09:03:09* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-මල්ලක-සඟවාගෙන-ආපු-කෝටි-7ක්-වටිනා-අයිස්-අල්ලයි/11-412694) · `si`
+
+Ice drug bust: Poultry farmer (51) and taxi driver (36) arrested in Sri Lanka. Suspects caught with 5.2kg of ice concealed in rice bags. To appear in court today.
+
+🟩
+
+Two more than Rs.Been arrested by.
+
+The suspect is a 51 year old poultry farmer from Gothatuwatu area.
+
+He was from Kuala Lumpur to Air Asia Airlines AK. The airport was arrived at the airport.
+
+The stock of Ice drug weighing five and two kilograms and two kilograms and 26 grams heights were brought into the rice packaged.
+
+A 36-year-old Taxi driver, a 36 year old resident of Wadduaduwa, was arrested by a hospital in Weboda.
+
+The three suspects are to be produced before the Negombo Magistrate's Court today and is to be produced before the Negombo Magistrate's Court today.
+
+◼️
+
+[Data](articles/8cac1a13.json)
+
+[Extended Data](ext_articles/8cac1a13.ext.json)
 
 ---
 
@@ -2405,79 +2479,5 @@ Elections. He further stated that the counting of the election stations will beg
 [Data](articles/c71466bf.json)
 
 [Extended Data](ext_articles/c71466bf.ext.json)
-
----
-
-### Change on general election date?
-
-*2024-10-26 11:04:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பொதுதேர்தல்-திகதியில்-மாற்றம்/150-346074) · `ta`
-
-Parliamentary election date likely to change due to nomination deadline issue. Law requires 5-7 week notice before voting. Current date violates constitution and sovereignty. Election Commission to issue new gazette notification with revised date.
-
-🟩
-
-According to state sources, the date for the parliamentary election is likely to change in a couple of days.
-
-According to Article 10 of the Parliamentary Election Act, there is a major problem on the day of the election.
-
-Under the law, nominations were sought from October 4 to October 11.
-
-வேட்புமனுக்கள் ஏற்றுக்கொள்ளப்பட்ட நாளிலிருந்து ஐந்து வாரங்களுக்கு குறையாமலும் ஏழு வாரங்களுக்கு மிகையாகமலும் வாக்கெடுப்புக்கான திகதியை நிர்ணயிக்க வேண்டும் என்று, சட்டம் தெளிவாகக் கூறுகிறது என்று, நிபுணர்கள் சுட்டிக்காட்டுகின்றனர்.
-
-Accordingly, the five -week period, which will be calculated from October 11, will be completed on November 15 and the seven weeks' deadlines will be completed on November 29.
-
-However, they further pointed out that holding the parliamentary elections on that day is unconstitutional, as the current parliamentary election is not held on the 14th of November.
-
-...
-
-[Data](articles/f8e94dc2.json)
-
-[Extended Data](ext_articles/f8e94dc2.ext.json)
-
----
-
-### இலங்கையில் முதன்முறையாக தேர்தலில் போட்டியிடும் திருநங்கை
-
-*2024-10-26 10:50:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-முதன்முறையாக-தேர்தலில்-போட்டியிடும்-திருநங்கை/175-346073) · `ta`
-
-Sri Lanka Socialist Party candidate Sanu Nimasha becomes first trans woman to contest elections in Sri Lanka history. She expresses gratitude to party for the opportunity and acknowledges her historic achievement.
-
-🟩
-
-இலங்கை சோசலிச கட்சியின் மகளிர் விவகார செயலாளர் சானு நிமேஷா, இலங்கை தேர்தலில் போட்டியிடவுள்ள முதல் திருநங்கை என்ற வரலாற்றை படைத்துள்ளார்.
-
-“I thank the Sri Lanka Socialist Party for giving me the opportunity to contest the general election. முதன்முறையாக தேர்தலில் போட்டியிட திருநங்கை ஒருவரை நிறுத்தியதன் மூலம் சரித்திரம் படைத்தேன்” என, நிமேஷா ஊடகங்களுக்கு தெரிவித்தார். (That)
-
-◼️
-
-[Data](articles/6fefe5bf.json)
-
-[Extended Data](ext_articles/6fefe5bf.ext.json)
-
----
-
-### Russia, action to search for Israelis
-
-*2024-10-26 10:44:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரஷ்யா-இஸ்ரேலியர்களை-தேடுவதற்கு-நடவடிக்கை/150-346072) · `ta`
-
-Russia-Israeli tourists search: Sri Lanka immigration checks southern coast November-March. Visa extensions common after 30-day limit. Officials expect increased violations during peak season.
-
-🟩
-
-Steps have been taken to search for tourists from Russia and Israel.
-
-According to reports, the Department of Immigration and Emigration will visit the southern coastal area in early November.
-
-The tourist season for the southern coastal area of ​​Sri Lanka will begin in November and last until March and April. Foreign tourists from various countries in the West and East will visit the country's famous beaches of the island.
-
-Commenting on this, an official of the Department of Immigration and Emigration said, “They usually make special visits from November to April and May to September, respectively.
-
-“Russian tourists have been visiting the south for Christmas holidays. Russia has been revealed in six countries without a visa in Sri Lanka.All tourists receive a 30-day tourist visa or they apply for an online visa or electronic travel authorization (ETA).
-
-...
-
-[Data](articles/2f5a05ad.json)
-
-[Extended Data](ext_articles/2f5a05ad.ext.json)
 
 ---

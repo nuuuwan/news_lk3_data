@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 04:39:42**
+As of **2024-10-28 04:58:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,720 (100.0%) of 51,721 articles have been extended.
+51,721 (100.0%) of 51,721 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -202,17 +202,27 @@ The High Commission of the Islamic Republic of Pakistan in Colombo organised a s
 
 ---
 
-### இதுவரை 716 முறைப்பாடுகள்
+### 716 complaints so far
 
 *2024-10-28 01:56:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-716-முறைப்பாடுகள்/175-346154) · `ta`
 
-பொதுத் தேர்தல் தொடர்பில் இதுவரை 716 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+Here's a summary of the text in 200 characters:
 
-580 முறைப்பாடுகளுக்கு தீர்வு காணப்பட்டுள்ளதாகவும் மேலும் 136 முறைப்பாடுகளுக்கு தீர்வு காணப்படுவதாகவும் தேர்தல் ஆணையத்தின் தலைவர் ஆர். எம். ஏ. எல் ரத்நாயக்க குறிப்பிட்டுள்ளார்.
+
+
+Elections Commission reports 716 complaints about general election. 580 settled, 136 unresolved. Official M.A. El Ratnayake made statement.
+
+🟩
+
+The Elections Commission said that 716 complaints have been received so far regarding the general election.
+
+580 complaints have been settled and 136 complaints have been resolved.. M.. A.. El Ratnayake mentioned.
 
 ◼️
 
 [Data](articles/2d69be18.json)
+
+[Extended Data](ext_articles/2d69be18.ext.json)
 
 ---
 

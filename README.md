@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 15:39:57**
+As of **2024-10-27 16:23:56**
 
 ## Newspaper Stats
 
-*Scraped **51,633** Articles*
+*Scraped **51,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,138 @@ dailymirrorlk | 4,733
 adalk | 4,799
 adaderanalk | 6,115
 tamilmirrorlk | 7,144
-virakesarilk | 8,307
+virakesarilk | 8,316
 adaderanasinhalalk | 8,980
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,633 (100.0%) of 51,633 articles have been extended.
+51,642 (100.0%) of 51,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-27 (Sunday)
+
+### Two swords in an envelope
+
+*2024-10-27 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197245) · `ta`
+
+"Two swords in an envelope: Votes against Sumanthiran impact TNA, affecting Sridharan more."
+
+🟩
+
+If the votes against Sumanthiran are out of the TNA as a whole, the impact will be greater for the Sridharan. ”
+
+◼️
+
+[Data](articles/4c56989c.json)
+
+[Extended Data](ext_articles/4c56989c.ext.json)
+
+---
+
+### Will the MK win the Kalmunai constituency?
+
+*2024-10-27 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197242) · `ta`
+
+MK likely to win Kalmunai constituency due to internal conflicts and defections within SLMC. Former members' departure may impact party's chances. Current candidate faces challenges from past controversies.
+
+🟩
+
+Former Member of the Eastern Provincial Council, KM Jawad, who has sacrificed the development of the Sri Lanka Muslim Congress in Kalmunai constituency, as well as another former member of the Eastern Provincial Council, AM Jemil and former Mayor of the Kalmunai Municipal Council, Shiras Meera Sahibu, left the party.Haristan is also reported. Currently, Siraz Meera Sahu is again contesting the election at the Sri Lanka Muslim Congress.
+
+◼️
+
+[Data](articles/058ed225.json)
+
+[Extended Data](ext_articles/058ed225.ext.json)
+
+---
+
+### The risk of tourism
+
+*2024-10-27 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197244) · `ta`
+
+Israeli tourists should prioritize Islamic countries like Dubai for safety. However, Sri Lanka poses risks due to its political instability and security concerns.
+
+🟩
+
+It is important that Israeli selects an Islamic country like Dubai as a safe traveling place, but it is important that Sri Lanka is not considered such a place.
+
+◼️
+
+[Data](articles/117ea7cc.json)
+
+[Extended Data](ext_articles/117ea7cc.ext.json)
+
+---
+
+### The fact that exposes the threat
+
+*2024-10-27 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197237) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Israelis in Sri Lanka face potential threats. Mossad couldn't confirm dangers, so citizens continued visiting. Government struggled to address rising tensions during tourist influx.
+
+🟩
+
+Israeli intelligence agency Mossad could not be found that Israelis are in danger of being targeted in Sri Lanka. If so, it would have prevented its citizens from coming to Sri Lanka in advance. During the increasing number of tourists, the government sought to handle the attack on the attack, as tension would be a major impact.
+
+◼️
+
+[Data](articles/1021e21c.json)
+
+[Extended Data](ext_articles/1021e21c.ext.json)
+
+---
+
+### Commissions and politics
+
+*2024-10-27 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197238) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Commission report sparks crisis during National People's Power election. Judge Alwis inquiry criticized as politically motivated, hindering truth-finding and punishment of actual perpetrators.
+
+🟩
+
+Udaya Kammanpila has expressed his views on the report of the Udaya Kammanpila Judge Alwis Commission, which has created crises at the time of the election of the National People's Power and President Anura Kumara Dissanayake.. With politicized inquiries, the facts can never be found or punished by the real culprits.
+
+◼️
+
+[Data](articles/bd426431.json)
+
+[Extended Data](ext_articles/bd426431.ext.json)
+
+---
+
+### MA Sumanthiran Chevy should be removed from the North and East
+
+*2024-10-27 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197228) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"MA Sumanthiran calls for removing Chevy from North and East after presidential election. Urges public support to empower TNA as negotiating force."
+
+🟩
+
+After the presidential election, there is a wave of support in the North and East. Our people need to understand that the situation is very dangerous. The people should give us the power to fulfill the aspirations of our people. The wave should be removed. They can achieve their goals by sending the TNA as a team and bargaining force. We are confident that the people will issue the order.
+
+◼️
+
+[Data](articles/5813055b.json)
+
+[Extended Data](ext_articles/5813055b.ext.json)
+
+---
 
 ### “The main political parties are panicked”
 
@@ -95,6 +215,88 @@ It was revealed that the driver was arrested by police and carrying 17 cows in t
 [Data](articles/5ce8b878.json)
 
 [Extended Data](ext_articles/5ce8b878.ext.json)
+
+---
+
+### President Anura India should handle China formally - Vasantha Senanayake
+
+*2024-10-27 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197222) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"President Anura Bandaranaike should address China formally: Vasantha Senanayake. After 1948 independence, Ceylon signed defense pact with Britain. British troops stationed in Trincomalee till 1972. Their presence opposed foreign intervention during Sri Lanka conflicts."
+
+🟩
+
+After gaining independence in 1948, TS in the Defense Agreement with Britain. According to Senanayake's signing, the British security forces were camps in Trincomalee until 1972. During this period, British forces were in opposition to those countries if other countries had intervened or waged war against Sri Lanka.
+
+◼️
+
+[Data](articles/a41d1b93.json)
+
+[Extended Data](ext_articles/a41d1b93.ext.json)
+
+---
+
+### A foreign couple arrested for illegally staying in Kandy without a visa
+
+*2024-10-27 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197241) · `ta`
+
+Foreign couple arrested Kandy illegal stay no visa police action
+
+🟩
+
+A foreign couple who were staying in the country without a visa were arrested by the police on Saturday (26) in the Handana area of ​​the Kandy Police Division.
+
+They were arrested on the basis of information received by a team of officials of the Kandy Tourism Police Division.
+
+◼️
+
+[Data](articles/3326c468.json)
+
+[Extended Data](ext_articles/3326c468.ext.json)
+
+---
+
+### We will not give up in the provincial council;We will conduct the rights - Chandrasekaran
+
+*2024-10-27 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/197233) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"We won't give up in the provincial council. We'll fight for our rights. The JVP and NPP don't address Tamil issues. Their solutions lack compassion and understanding. They blame Buddhists for problems, fueled by social media and politics."
+
+🟩
+
+“While talking about the approach to solving the national problem, the JVP. The NPP. The comments that are continuously put forward.. They do not solve the problems of the Tamil people, and they will not show compassion, and they are the religious people, the Buddhist, and the behind the faults of the Buddhist, is the idea that is created by social networks and politicians .... ”
+
+◼️
+
+[Data](articles/9d01ff72.json)
+
+[Extended Data](ext_articles/9d01ff72.ext.json)
+
+---
+
+### The role of tax and revenue collection sectors for the country's economic advancement
+
+*2024-10-27 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197216) · `ta`
+
+Tax and revenue collection crucial for economic growth. Registrar's Department regulates businesses, ensuring financial and legal stability. Challenges arise from non-compliance, fraudulent records, and poor implementation affecting overall development.
+
+🟩
+
+The Registrar's Department of Companies plays an important role in regulating businesses in Sri Lanka and confirms the country's financial and legal framework. However, the Registrar's Department faces challenges due to lack of compliance with the Registrar's Department, fraudulent records and the general lack of implementation.
+
+◼️
+
+[Data](articles/7e8f648a.json)
+
+[Extended Data](ext_articles/7e8f648a.ext.json)
 
 ---
 
@@ -267,28 +469,6 @@ Meanwhile, the incident has been announced to the Senior DIG of the Public Healt
 [Data](articles/74cc1977.json)
 
 [Extended Data](ext_articles/74cc1977.ext.json)
-
----
-
-### President Anura India should handle China formally - Vasantha Senanayake
-
-*2024-10-27 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/197222) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"President Anura Bandaranaike should address China formally: Vasantha Senanayake. After 1948 independence, Ceylon signed defense pact with Britain. British troops stationed in Trincomalee till 1972. Their presence opposed foreign intervention during Sri Lanka conflicts."
-
-🟩
-
-After gaining independence in 1948, TS in the Defense Agreement with Britain. According to Senanayake's signing, the British security forces were camps in Trincomalee until 1972. During this period, British forces were in opposition to those countries if other countries had intervened or waged war against Sri Lanka.
-
-◼️
-
-[Data](articles/a41d1b93.json)
-
-[Extended Data](ext_articles/a41d1b93.ext.json)
 
 ---
 
@@ -2211,257 +2391,5 @@ The Ada Derana hawk was alert to "show" such illegal acts in the future.
 [Data](articles/8f680c27.json)
 
 [Extended Data](ext_articles/8f680c27.ext.json)
-
----
-
-### Ministry of External Affairs reveals about war in the Middle East
-
-*2024-10-26 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202593) · `si`
-
-Sri Lanka's Ministry of External Affairs reports no damage to citizens in Middle East conflict. Embassies assist Sri Lankans, offer return to Sri Lanka if needed.
-
-🟩
-
-The Ministry of External Affairs says that it has paid more attention to the safety of Sri Lankans who have been affected by the conflict in the Middle East.
-
-The ministry said the Ministry is looking into Sri Lankans who are in the Middle East through the embassies.
-
-However, the Ministry of External Affairs said that no Sri Lankan has been damaged due to attacks.
-
-It is also said that the embassies have been made to arrange to facilitate the necessary facilities to people who wish to come to Sri Lanka.
-
-However, the External Affairs Ministry of External Affairs further stated that no Sri Lankans have to come to Sri Lanka due to the war.
-
-◼️
-
-[Data](articles/02a46a23.json)
-
-[Extended Data](ext_articles/02a46a23.ext.json)
-
----
-
-### Sri Lanka - West Indies: Several players upstreaming winning
-
-*2024-10-26 19:12:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1wjjqd4v1yo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka vs West Indies cricket match: West Indies won by 8 wickets. Rain delay reduced game to 23 overs. Kusal Mendis top-scored for SL (56). Evin Lewis and Shafon Rutherford led WI victory.
-
-🟩
-
-Sri Lanka - West Indies: Several players upstreaming winning
-
-West Indies won the Third One Day Cricket match between Sri Lanka and the West Indies by eight wickets.
-
-According to the Duck and Lewis theory, 196 runs in 22 overs.
-
-West Indies captain was the advantage of West Indies captain, and he chose first bowling first.
-
-However, when the 18th ball of Sri Lanka opened the 18th ball, the match had to be temporarily stopped due to rain.
-
-Later, the match was restricted to 23 overs.
-
-Accordingly, Sri Lanka scored 156 runs for the loss of 3 wickets.
-
-Kusal Mendis scored 56 runs off 22 balls and scored 56 runs off 62 balls.
-
-Nishan Maduschka was included in the first competition in the first and second matches.
-
-According to the Duck and Lewis theory, the West Indies scored 195 runs in 23 overs.
-
-Accordingly, Brandon Kink was bowled out for 16 runs while Brandon Kink was hit by 16 runs.
-
-Opener batsman Evin Lewis and Sharfon Rutherford ruled West Indies.
-
-...
-
-[Data](articles/95340b7f.json)
-
-[Extended Data](ext_articles/95340b7f.ext.json)
-
----
-
-### A warning about the next 36 hours
-
-*2024-10-26 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202592) · `si`
-
-Weather alert: Showers/thundershowers expected in Western, Sabaragamuwa, and North Western provinces. Heavy rain possible. Thunderstorms may cause strong winds and lightning. Public advised to take precautions.
-
-🟩
-
-The Department of Meteorology has issued a new weather forecast, which is valid for the next 36 hours.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces, in the Western, Sabaragamuwa and Northwestern provinces.
-
-MM to some places in the Western, Sabaragamuwa and North Western Provinces. Heavy rains can occur at more than 75, the Met Department said.
-
-Thundershowers will develop at several places in the evening or night during the evening or night.
-
-There will be about 40 hours in the North, North Central and North Western provinces, in Trincomalee and Hambantota districts.
-
-The Department of Meteorological Department requests the public to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/73e00e53.json)
-
-[Extended Data](ext_articles/73e00e53.ext.json)
-
----
-
-### Candidate’s wife assaulted during election canvassing in Pannipitiya
-
-*2024-10-26 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102945/candidates-wife-assaulted-during-election-canvassing-in-pannipitiya) · `en`
-
-Kanthi Kodikara, the wife of parliamentary candidate Upali Kodikara, has reportedly been attacked in Pannipitiya while she was distributing election campaign leaflets.
-
-The incident occurred as Mrs. Kodikara was participating in her husband’s election campaigning activities, going door-to-door to engage with local residents.
-
-Following the attack, she has been admitted to Sri Jayawardenepura Hospital for treatment.
-
-Maharagama Police have since arrested the individual responsible for the assault, and further investigations are underway.
-
-◼️
-
-[Data](articles/f2e9fe1f.json)
-
-[Extended Data](ext_articles/f2e9fe1f.ext.json)
-
----
-
-### Special census of rice stocks
-
-*2024-10-26 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202591) · `si`
-
-Consumer Affairs Authority conducts special rice census under President's orders. Census to be held on 26th and 27th. Report to be submitted on Monday. Recent complaints about rice shortages and stockpiling. President discusses rice prices with stakeholders.
-
-🟩
-
-The Consumer Affairs Authority has taken steps to conduct a special census of rice.
-
-It is said that the census is carried out on the instructions of President Anura Kumara Dissanayake.
-
-Accordingly, census of rice will be held today (26) and tomorrow (27).
-
-The Ministry of Agriculture stated that the relevant report is to be handed over to the President on Monday.
-
-Recently, customers have continually accused the number of rice shortages in the market and the rice held for sales.
-
-The President ordered a discussion by the President and held a discussion with the prices of rice.
-
-◼️
-
-[Data](articles/eff28795.json)
-
-[Extended Data](ext_articles/eff28795.ext.json)
-
----
-
-### Heavy showers above 75 mm expected in parts of the island tomorrow
-
-*2024-10-26 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102944/heavy-showers-above-75-mm-expected-in-parts-of-the-island-tomorrow) · `en`
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle, Matara and Mannar districts tomorrow (27), the Department of Meteorology warned.
-
-Fairly heavy showers above 75 mm are likely at some places in Western, Sabaragamuwa and North-western provinces, according to the Met. Department.
-
-Showers or thundershowers will occur at several places in the other areas of the island during the evening or night.
-
-Meanwhile, strong winds about 40 kmph can be expected at times over Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/bd70c7cf.json)
-
-[Extended Data](ext_articles/bd70c7cf.ext.json)
-
----
-
-### How the outcome of the Elpitiya Little Polls affect the general election?
-
-*2024-10-26 18:22:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpqdz28x7neo) · `si`
-
-Here's a 200-character summary of the key points:
-
-
-
-Elpitiya Pradeshiya Sabha election results may influence upcoming general election. National People's Power won 15 seats. Political landscape changing rapidly. Some former MPs retiring. Local government elections postponed due to lack of funds. Supreme Court orders early local elections. These developments impact democratic process and party dynamics in Sri Lanka.
-
-🟩
-
-The national popular power was won by Elpitiya Pradeshiya Sabha elections. This is a significant victory for the national popular victory due to the first election after the presidential election.
-
-ඇල්පිටිය පුංචි ඡන්දය පැවැත්වුණේ, නොවැම්බර් මස 14 වැනිදා පැවැත්වීමට නියමිත මැතිවරණයේ ඡන්ද උණුසුම මැදය.
-
-The National Guideline beat 15 seats in the Elpitiya Pradeshiya Sabha which consists of 30 seats. සමගි ජනබලවේගය ආසන 6ක් සහ ශ්‍රී ලංකා පොදුජන පෙරමුණ ආසන 3ක් හිමිකර ගත්තේ ය. The People's Alliance and independent group won 2 seats.
-
-One independent group and eight political parties competed for the Elpitiya Pradeshiya Sabha election.
-
-ජාතික ජන බලවේගය, ශ්‍රී ලංකා පොදුජන පෙරමුණ, ජනසෙත පෙරමුණ, සමගි ජනබලවේගය, පොදුජන එක්සත් පෙරමුණ, එක්සත් ජනතා නිදහස් සන්ධානය, ජාතික ජනතා පක්ෂය, දෙවන පෙරමුණ එම පක්ෂ අතරට අයත් ය.
-
-How can this election in less than 20 days in less than 20 days to hold general election polls affect the forward parliamentary election?
-
-...
-
-[Data](articles/69c25010.json)
-
-[Extended Data](ext_articles/69c25010.ext.json)
-
----
-
-### Explanation from SOS Children's Village
-
-*2024-10-26 18:22:15* · [`adalk`](https://www.ada.lk/breaking_news/පිළියන්දල-SOS-ළමා-ගම්මානයෙන්-පැහැදිලි-කිරිමක්/11-412691) · `si`
-
-SOS Children's Village addresses abuse case involving 14-year-old girl. Prioritizes victim's well-being. Incident occurred in January 2023. Girl hospitalized and receiving care. Authorities notified, including police and courts. Investigation ongoing.
-
-🟩
-
-The administration of the village issues announcement in the village of abuse of a 14-year-old girl in the back of the SOS Children's Village.
-
-At the moment, it is the priority of the village to ensure the girl's physical and mental wellbeing.
-
-The girl was admitted to the incident in January 2023, while the interrogated temple was located near the questionable temple, was directed to the dhamma school competition to conduct before her.. The unfortunate incident had taken place that the girl was attending her mother.
-
-As soon as the incident, we were able to hospitalize our company and its management to hospital with all the kind she needed. The hospital staff is underway, and we are committed to all government agencies, including the police and court.
-
-◼️
-
-[Data](articles/be0fe659.json)
-
-[Extended Data](ext_articles/be0fe659.ext.json)
-
----
-
-### 12 334555677899989994999499494467897897979794405
-
-*2024-10-26 18:22:15* · [`adalk`](https://www.ada.lk/breaking_news/12-334455677788899889945-6123234667789794405/11-412691) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Village admin announces abuse case involving 14yo girl at SOS Children's Village. Prioritizing her physical and mental well-being. Incident occurred Jan 2023 during dhamma school event. Girl hospitalized; authorities involved.
-
-🟩
-
-The administration of the village issues announcement in the village of abuse of a 14-year-old girl in the back of the SOS Children's Village.
-
-At the moment, it is the priority of the village to ensure the girl's physical and mental wellbeing.
-
-The girl was admitted to the incident in January 2023, while the interrogated temple was located near the questionable temple, was directed to the dhamma school competition to conduct before her.. The unfortunate incident had taken place that the girl was attending her mother.
-
-As soon as the incident, we were able to hospitalize our company and its management to hospital with all the kind she needed. The hospital staff is underway, and we are committed to all government agencies, including the police and court.
-
-◼️
-
-[Data](articles/f9ede1a0.json)
-
-[Extended Data](ext_articles/f9ede1a0.ext.json)
 
 ---

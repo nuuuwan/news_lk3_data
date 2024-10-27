@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 02:24:11**
+As of **2024-10-28 02:39:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,707 (100.0%) of 51,710 articles have been extended.
+51,710 (100.0%) of 51,710 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,21 +78,39 @@ The greatest challenge for policymakers and tax administrators is to establish a
 
 ---
 
-### ஒற்றையாட்சியை நிராகரிக்கும் ஒரே அணியாக எமது தமிழ் தேசிய மக்கள் முன்னனி உள்ளது - கஜேந்திரகுமார் பொன்னம்பலம்
+### Our Tamil National People's Front is the only team that rejects a single government - Gajendrakumar Ponnambalam
 
 *2024-10-28 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197287) · `ta`
 
-ஒற்றையாட்சி அரசியலமைப்பை நாங்கள் நிராகரிப்பதாக இருந்தால் அதை நிராகரிக்கக் கூடிய, செயல்படுத்தக்கூடிய ஒரு அணியாக  தமிழ் தேசிய மக்கள் முன்னணி உள்ளது என அக்கட்சியின் தலைவர் கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்தார்.
+Here's a 200-character summary:
 
-தமிழ் தேசிய மக்கள் முன்னணியின் வன்னி மாவட்ட வேட்பாளர்கள் அறிமுக கூட்டம் ஞாயிற்றுக்கிழமை (27) மாலை 4.30 மணியளவில் மன்னார் நகரசபை மண்டபத்தில் இடம்பெற்றது.
 
-நாட்டில் இடம்பெற்ற யுத்தம் முடிவடைந்து 15 வருடங்கள் கடக்கின்றது.இந்த 15 வருடங்களில் எமது மக்கள் பாதிக்கப்பட்டு உள்ளனர்.வடக்கு கிழக்கில் பாதிக்கப்பட்ட மக்கள் நாளாந்தம் போராட்டங்களை முன்னெடுத்து வருகின்றனர்.
 
-இவர்களின் ஒரு போராட்டத்திலாவது ஜே.வி.பி கலந்து கொண்டுள்ளதா?.வடக்கு கிழக்கில் காணாமல் ஆக்கப்பட்டவர்களின் போராட்டம் இடம்பெற்று வருகின்றது.அரசியல் கைதிகளின் விடுதலைக்காக போராட்டம் இடம்பெற்று வருகின்றது.
+Gajendrakumar Ponnambalam: Tamil National People's Front rejects monolithic constitution. Focuses on rejecting political systems, addressing ethnic issues, and fulfilling UN resolutions. Aims for bicycle symbol to secure seats in North and East elections.
+
+🟩
+
+Leader of the Tamil National People's Front (TNA), Gajendrakumar Ponnambalam, said that if we reject the monolithic constitution, the Tamil National People's Front is a team that can reject and implement it.
+
+The Tamil National People's Front's Vanni District Candidates' Launch meeting was held on Sunday (27) at 4.30 pm at the Mannar Municipal Council Hall.
+
+Our people have been affected in these 15 years.
+
+Is the JVP participated in a struggle in them?
+
+Our people are carrying out protests against private land grabbing. Do you attend any of these JVP or national people's power?
+
+The political system is the main organization in Sri Lanka. The political system has been brought three times. Our people have rejected the three political system.
+
+If the second race continues to reject the country's main law, it means that the race has a ethnic problem.
+
+The international community clearly emphasizes every resolution passed at the UN Human Rights Council since 2012.
 
 ...
 
 [Data](articles/2bee568b.json)
+
+[Extended Data](ext_articles/2bee568b.ext.json)
 
 ---
 
@@ -110,17 +128,29 @@ Sri Lanka’s external public debt had been classified as unsustainable long bef
 
 ---
 
-### புதிய ஜனாதிபதி நாட்டை பற்றி பேசினாலும் மலையக மக்கள் பற்றி கதைப்பதில்லை - வேட்பாளர் எம்.ராமேஷ்வரன்
+### Even though the new president talks about the country, the people of the hill country do not talk about
 
 *2024-10-28 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197286) · `ta`
 
-நவம்பர் 14 ஆம் திகதிக்கு பிறகு பல சுயேச்சைக்குழுக்கள் காணாமல் போய்விடும். எனவே, சுயேச்சைக்குழுக்களை நம்பி இருக்கின்ற தமிழ்ப் பிரதிநிதித்துவத்தை இழந்துவிடக்கூடாது. காங்கிரஸ் உறுப்பினர்கள் நாடாளுமன்றத்தில் இருந்தால்தான் மலையக மக்களின் அரசியல், பொருளாதார மற்றும் சமூக உரிமைகள் பாதுகாக்கப்படும். அவர்களுக்காக குரல் எழுப்பப்படும் என்று இ.தொ.காவின் தவிசாளரும், நுவரெலியா மாவட்ட நாடாளுமன்ற தேர்தல் வேட்பாளருமான மருதபாண்டி ராமேஸ்வரன் தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-பூண்டுலோயா, கைப்புகலை உள்ளிட்ட பகுதிகளில் ஞாயிற்றுக்கிழமை (27) நடைபெற்ற தேர்தல் பிரசாரக் கூட்டத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே அவர் இவ்வாறு கூறினார். இது தொடர்பில் அவர் மேலும் கூறியவை வருமாறு,
+
+
+New president ignores hill country concerns. Independent groups face extinction post-election. Congress crucial for protecting rights. CWC chair urges voters to support Congress candidates for Tamil representation and development.
+
+🟩
+
+Many independent groups will disappear after November 14th. Therefore, not to lose the Tamil representation that rely on independent groups. The political, economic and social rights of the people of the hill country will be protected only if Congress members are in parliament. Maruthapandi Rameswaran, the CWC's chairman and the Nuwara Eliya district parliamentary candidate, said that they would be raised for them.
+
+He said this while addressing the election campaign meeting held on Sunday. In this regard, he said,
+
+This is the election period. No one can contest the election because Sri Lanka is a democratic country. They have the right to it. It is the duty of the people to choose candidates who are with the people and to serve the people. Some may seek to change the minds of people through fake propaganda. People must vote to identify such intrigues and protect their representation.
 
 ...
 
 [Data](articles/4539ae75.json)
+
+[Extended Data](ext_articles/4539ae75.ext.json)
 
 ---
 
@@ -160,19 +190,29 @@ It is little over one year since Hamas fired those deadly rockets on Israel as a
 
 ---
 
-### கொழும்பு கோட்டை – காங்கேசன்துறை புகையிரத சேவை இன்று முதல் புகையிரத குறுக்கு வீதிகளை பயன்படுத்துவோர் அவதானமாக செயற்பட வேண்டும் - புகையிரத திணைக்களம்
+### Colombo Fort- Kankesanthurai Railway Service from today
 
 *2024-10-28 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197285) · `ta`
 
-கொழும்பு கோட்டை – காங்கேசன்துறை புகையிரத சேவை திங்கட்கிழமை (28) முதல் ஆரம்பமாகவுள்ளது. வடக்கு புகையிரத சேவை இன்று முதல் வழமைக்கு திரும்பியுள்ள நிலையில் புகையிரத குறுக்கு வீதிகளை பயன்படுத்தும் பொதுமக்கள் மிகவும் அவதானத்துடன் புகையிரத திணைக்களம் வலியுறுத்தியுள்ளது.
+Colombo Fort-Kankesanthurai railway service resumes Monday. Special train departs Fort 5:45 AM, returns Kankesanthurai 6:30 PM daily. Normal operations restored after reconstruction project completion.
 
-இந்திய நிதியுதவியுடன் மஹவ- ஓமந்தை புகையிரத பாதை புனரமைப்பு கருத்திட்டம் 2019.11.29 ஆம் திகதி ஆரம்பமானது. கட்டம் கட்டமாக அபிவிருத்தி பணிகள் முன்னெடுக்கப்பட்ட நிலையில் இந்த ஆண்டு முதல் காலப்பகுதியில் அபிவிருத்தி பணிகளுக்காக கோட்டை – காங்கேசன்துறை புகையிரத சேவை தற்காலிகமாக இடைநிறுத்தப்பட்டது.
+🟩
 
-அபிவிருத்தி பணிகள் நிறைவடைந்துள்ள நிலையில் கொழும்பு கோட்டை  காங்கேசன்துறை புகையிரத சேவை இன்று திங்கட்கிழமை முதல் ஆரம்பமாகவுள்ளது. வடக்கு புகையிரத சேவை இன்று முதல் வழமைக்கு திரும்பியுள்ள நிலையில் புகையிரத குறுக்கு வீதிகளை பயன்படுத்தும் பொது மக்கள் மிகவும் அவதானத்துடன் புகையிரத திணைக்களம் வலியுறுத்தியுள்ளது.
+The Colombo Fort - Kankesanthurai Railway Service will commence on Monday (28). The Northern Railway Service has returned to normal from today and the public who use the railway cross streets have been very careful with the Railway Department.
 
-...
+The Mahawa-Omanthai Railway Reconstruction Project commenced on 29.11.2019. The fort -Kankesanthurai railway service has been suspended for development work during the first period of the year as the development work has been carried out.
+
+The Kankesanthurai Railway Service of the Colombo Fort. As the Northern Railway Service has returned to normal today, the public has urged the public to use the railway cross streets.
+
+Accordingly, a special train will leave Fort at 05.45 am to Kankesanthurai.
+
+The train will leave Kankesanthurai at 10.30 am on Tuesday (29) and arrive at Fort Railway Station at 06.30 pm.
+
+◼️
 
 [Data](articles/50c751f0.json)
+
+[Extended Data](ext_articles/50c751f0.ext.json)
 
 ---
 

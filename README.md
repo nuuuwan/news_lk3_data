@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-27 15:09:18**
+As of **2024-10-27 15:23:55**
 
 ## Newspaper Stats
 
-*Scraped **51,628** Articles*
+*Scraped **51,630** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 412
-colombotelegraphcom | 522
+colombotelegraphcom | 523
 bbccomsinhala | 524
 islandlk | 3,068
 economynextcom | 3,144
 dailyftlk | 3,521
 dailymirrorlk | 4,733
-adalk | 4,798
+adalk | 4,799
 adaderanalk | 6,115
 tamilmirrorlk | 7,142
 virakesarilk | 8,307
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,628 (100.0%) of 51,628 articles have been extended.
+51,630 (100.0%) of 51,630 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -149,6 +149,26 @@ Police said that the suspect had made firearms as well as the crimes were carrie
 [Data](articles/80d3ffe5.json)
 
 [Extended Data](ext_articles/80d3ffe5.ext.json)
+
+---
+
+### Emerging Team Asian Cup Final Today
+
+*2024-10-27 13:42:34* · [`adalk`](https://www.ada.lk/sports/නැගී-එන-කණ්ඩායම්-අසියානු-කුසලානයේ-අවසන්-මහා-තරගය-අද/9-412698) · `si`
+
+Asian Cup 2024 final: Sri Lanka vs Afghanistan today at 7pm.
+
+🟩
+
+2024 The finals of the Asian Cup 20 winners will be held today (27).
+
+The Sri Lanka team and the Afghan A group will compete and the match will be opened at 7 pm.
+
+◼️
+
+[Data](articles/b9768ec1.json)
+
+[Extended Data](ext_articles/b9768ec1.ext.json)
 
 ---
 
@@ -1131,6 +1151,22 @@ The President stressed that no businessman would not allow rice control prices a
 [Data](articles/35af5171.json)
 
 [Extended Data](ext_articles/35af5171.ext.json)
+
+---
+
+### NPP’s Political Culture Change Project: A Path Forward For Sri Lanka?
+
+*2024-10-27 09:33:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/npps-political-culture-change-project-a-path-forward-for-sri-lanka/) · `en`
+
+Sri Lanka has long been a country grappling with political instability, entrenched corruption, and cyclical economic crises. In 2024, National People’s Power (NPP) emerged as a beacon of hope for many Sri Lankans seeking a new political paradigm. Representing a coalition of left-leaning political entities, academics, and civil society members, the NPP captured public attention by promising reforms and transparency, emphasizing a government accountable to the people. Amid record-high inflation of around 50% in 2022 and a significant GDP contraction of 7.8%, Sri Lankans sought leadership that could prioritize economic stability and integrity, marking a shift away from personality-driven politics. However, the question remains whether the NPP can truly transform the nation’s political culture and deliver a meaningful economic recovery.
+
+NPP’s Unique Appeal: Standing Apart in a Sea of Corruption and Cronyism
+
+...
+
+[Data](articles/e159809c.json)
+
+[Extended Data](ext_articles/e159809c.ext.json)
 
 ---
 
@@ -2451,57 +2487,5 @@ The lyrics of the song have attracted the attention of the fans of the Internet,
 [Data](articles/6f169b9b.json)
 
 [Extended Data](ext_articles/6f169b9b.ext.json)
-
----
-
-### Surya - Sethupathi's debut film 'Phoenix - Vahan' is the first song release
-
-*2024-10-26 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197183) · `ta`
-
-Surya Sethupathi debuts in Phoenix-Vahan, first song "Yaranda" released. Directed by Anal Government, also stars Varalakshmi Sarathkumar and Sampath. Produced by Rajalakshmi Anal Government for AK Braveman Pictures.
-
-🟩
-
-'மக்கள் செல்வன்' விஜய் சேதுபதியின் மகனும், நடிகருமான சூர்யா சேதுபதி கதையின் நாயகனாக அறிமுகமாகும் 'பீனிக்ஸ் -வீழான் 'எனும் திரைப்படத்தில் இடம் பெற்ற 'யாராண்ட' எனத் தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
-
-Anal Government, the leading fighting training director, is making his debut as a film director and starring Surya Sethupathi, Varalakshmi Sarathkumar and Sampath.
-
-R. The film, which has been recorded by Velraj, has made the film.
-
-The film is being produced by Rajalakshmi Anal Government on behalf of AK Braveman Pictures.
-
-The film, which is being completed and waiting for the release of all the tasks, has been released as a song that starts with the Yaranda 'and the lyrical video for the song.
-
-The song is written by Vidya Timaderan, the background singer Sivam.
-
-Sam c. The song, which is being created in the enchanting metal of the Ess, has been welcomed by a section of the fans as the life words of the people of Vadasen are in place.
-
-◼️
-
-[Data](articles/29b83e35.json)
-
-[Extended Data](ext_articles/29b83e35.ext.json)
-
----
-
-### CB. Protest against Ratnayake
-
-*2024-10-26 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202590) · `si`
-
-CB Ratnayake protests against himself at Commaanne Peramuna Mahara. Meeting chaired by Namal Rajapaksa. Ratnayake opposes own views to party members during speech.
-
-🟩
-
-Former Minister CB Ratnayake has objected to former Minister CB Ratnayake at the Commaanne Peramuna Mahara.
-
-The meeting was held under the patronage of former UNP MP Namal Rajapaksa.
-
-Former Parliamentarian CB. When Ratnayake was addressing the House, he opposed him to the party members.
-
-◼️
-
-[Data](articles/5a4d2e77.json)
-
-[Extended Data](ext_articles/5a4d2e77.ext.json)
 
 ---

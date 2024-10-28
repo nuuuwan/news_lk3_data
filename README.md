@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 01:24:02**
+As of **2024-10-29 01:39:55**
 
 ## Newspaper Stats
 
-*Scraped **51,897** Articles*
+*Scraped **51,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 525
 bbccomsinhala | 527
 islandlk | 3,085
 economynextcom | 3,158
-dailyftlk | 3,536
+dailyftlk | 3,537
 dailymirrorlk | 4,733
 adalk | 4,826
 adaderanalk | 6,148
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,897 (100.0%) of 51,897 articles have been extended.
+51,898 (100.0%) of 51,898 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,24 @@ It may be exactly that the System Change should be done without representations.
 [Data](articles/d0d7c277.json)
 
 [Extended Data](ext_articles/d0d7c277.ext.json)
+
+---
+
+### Sri Lanka Design Festival 2024: Uniting creativity and commerce with India as partner nation
+
+*2024-10-29 01:00:17* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Design-Festival-2024-Uniting-creativity-and-commerce-with-India-as-partner-nation/34-768514) · `en`
+
+Unveiling the vision for the next decade, Sri Lanka Design Festival (SLDF) is dedicated to shape a new narrative for South Asia’s creative landscape through its platform fusing design and innovation leveraging the region’s creative ecosystem
+
+Facilitating cross-border collaborations, SLDF 2024 focuses on partner nation India with the participation of eco-conscious fashion designers, acclaimed graphic artists, prominent business leaders, and influential voices from India
+
+Academy of Design’s (AOD) annual showcase platform, SLDF 2024, will take place at the Cinnamon Life at City of Dreams from from 7-10 November featuring over 50 events including fashion runways, thought leadership forums, exhibitions, tours and public talks
+
+...
+
+[Data](articles/6e5f2203.json)
+
+[Extended Data](ext_articles/6e5f2203.ext.json)
 
 ---
 
@@ -2397,23 +2415,5 @@ He further criticized the government’s stance on the committee’s findings, h
 [Data](articles/7dd5b138.json)
 
 [Extended Data](ext_articles/7dd5b138.ext.json)
-
----
-
-### Impact of coastal train services
-
-*2024-10-28 11:47:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரையோர-ரயில்-சேவைகள்-பாதிப்பு/175-346179) · `ta`
-
-Coastal train service impact: Train derailed near Company station, affecting travel between Panadura and Colombo Fort. Railway department statement pending.
-
-🟩
-
-The railway department has said that the train traveling from Panadura to Colombo Fort has been derailed at the Company.
-
-◼️
-
-[Data](articles/92811bfe.json)
-
-[Extended Data](ext_articles/92811bfe.ext.json)
 
 ---

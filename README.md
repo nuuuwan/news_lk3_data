@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 13:40:37**
+As of **2024-10-28 14:13:44**
 
 ## Newspaper Stats
 
-*Scraped **51,804** Articles*
+*Scraped **51,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,814
 adaderanalk | 6,135
-tamilmirrorlk | 7,170
+tamilmirrorlk | 7,172
 virakesarilk | 8,353
 adaderanasinhalalk | 9,007
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 9,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,804 (100.0%) of 51,804 articles have been extended.
+51,806 (100.0%) of 51,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Inquire the top official; Kammanpila
+
+*2024-10-28 13:14:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-அதிகாரியை-விசாரிக்கவும்-கம்மன்பில/175-346182) · `ta`
+
+Channel 4 video accuses top official of Easter attack blame. Former MP Udaya Kammanpila calls for investigation. Government denies report claims.
+
+🟩
+
+The British Media Channel 4, which aired in September 4 last year, has asked the government to investigate the person who identified himself as the top official of the government in the 2019 Easter attack in Sri Lanka.
+
+The former parliamentarian made this request while attending a special media briefing today at a special media briefing on the Channel 4 video of the committee headed by a retired High Court Judge SI Imam appointed by the former government.
+
+Udaya Kammanpila said that the government is challenging the government to appoint a committee to find out the identity of the person who has said in the video.
+
+Kammanpila said, "If the person who has been accused of blaming the intelligence agencies and military officials in the video on Channel 4 television, is still in the top position in the government, if the current government should take action against him for treason."
+
+...
+
+[Data](articles/21f6f64d.json)
+
+[Extended Data](ext_articles/21f6f64d.ext.json)
+
+---
+
+### உயர் அதிகாரியை விசாரிக்கவும்;கம்மன்பில சவால்
+
+*2024-10-28 13:14:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-அதிகாரியை-விசாரிக்கவும்-கம்மன்பில-சவால்/175-346182) · `ta`
+
+Channel 4 video accuses government official of involvement in 2019 Sri Lanka Easter attacks. Former MP challenges government to identify man claiming top position. Government denies allegations, claims ongoing investigation.
+
+🟩
+
+The British Media Channel 4, which aired in September 4 last year, has asked the government to investigate the person who identified himself as the top official of the government in the 2019 Easter attack in Sri Lanka.
+
+முன்னாள் அரசாங்கத்தினால் நியமிக்கப்பட்ட ஓய்வுபெற்ற உயர் நீதிமன்ற நீதியரசர் எஸ்.ஐ.இமாம் தலைமையிலான குழுவின் சனல் 4 காணொளி தொடர்பான விசாரணை அறிக்கையின் விபரங்களை இன்று விசேட ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு பகிரங்கப்படுத்தும் போதே முன்னாள் பாராளுமன்ற உறுப்பினர் இந்த கோரிக்கையை முன்வைத்தார்.
+
+அரசாங்கத்தின் உயர்மட்ட அதிகாரி என வீடியோவில் கூறியுள்ள நபரின் அடையாளத்தை கண்டறிய குழுவொன்றை நியமிக்குமாறு அரசாங்கத்திற்கு சவால் விடுவதாக உதய கம்மன்பில தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/caffc35a.json)
+
+[Extended Data](ext_articles/caffc35a.ext.json)
+
+---
+
+### US Election Down to the Wire, Sri Lanka has Turned the Page
+
+*2024-10-28 13:06:00* · [`islandlk`](http://island.lk/us-election-down-to-the-wire-sri-lanka-has-turned-the-page/) · `en`
+
+In about ten days, on November 5, the US will have its quadrennial presidential election along with its biennial House and Senate elections. The presidential election is literally down to the wire, and the two candidates, Kamala Harris and Donald Trump, are fighting it out at the margins in the so called seven swing states. At the time of writing, it is a total toss up and there is no certainty about the outcome.
+
+In a presidential election year, the American voters mark their ballots to elect their president for four years, a third of their 100 senators for six years, and all 435 members of the House of Representatives for two years. The elections to the Senate and the House are called the ‘down ballot races’, below the main presidential runoff.
+
+...
+
+[Data](articles/d7892b33.json)
+
+[Extended Data](ext_articles/d7892b33.ext.json)
+
+---
 
 ### Passport queues re-emerge
 
@@ -2171,101 +2233,5 @@ We welcome this idea of ​​President Anuragumara. We do not do the short poli
 [Data](articles/401d169c.json)
 
 [Extended Data](ext_articles/401d169c.ext.json)
-
----
-
-### 2024-10-27 (Sunday)
-
-### Afghanistan A team in the Asian Bowl Cricket for growing teams
-
-*2024-10-27 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/197284) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Afghanistan A cricket team defeated Sri Lanka A by 7 wickets in the Asian Bowl. Sahan Arachchige and Pavun Rathnayake scored crucial runs. Bilal Sammy took 2 wickets for 14 runs. Afghanistan A won the match in 18.1 overs, scoring 134 runs while losing 3 wickets.
-
-🟩
-
-Afghanistan A team was a team between the grown -up players in Oman.
-
-Afghanistan A lightened the title of Sambhai by seven wickets to remain 11 balls in the final against the Sri Lanka A team on Sunday.
-
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை ஏ அணி 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 133 ஓட்டங்களைப் பெற்றது.
-
-The total number in the 5th over was just 15 runs in the 5th over to lose four -digit number of Sri Lanka A team.
-
-ஆனால், பவன் ரத்நாயக்க, சஹான் ஆராச்சிகே ஆகிய இருவரும் 5ஆவது விக்கெட்டில் 50 ஓட்டங்களைப் பகிர்ந்து   அணியின் வீழ்ச்சியைக் கட்டுப்படுத்தினர்.
-
-தொடர்ந்து திறமையாகத் துடுப்பெடுத்தாடிய சஹான் ஆராச்சிகே 6ஆவது விக்கெட்டில் நிமேஷ் விமுக்தியுடன் மேலும் 42 ஓட்டங்களைப் பகிர்ந்தார்.
-
-நிமேஷ் விமுக்தி 23 ஓட்டங்களுடன் ஆட்டம் இழந்ததும் மேலும் ஒரு விக்கெட் சரிந்தது. (108 - 7 wig.)
-
-Sahan Arachchike raised the total number to 133 runs without losing 64 runs and Dushan Hemantha 6.
-
-Bilal Sammy 22 wickets for 22 runs. Kasanber also took 2 wickets for 14 runs.
-
-...
-
-[Data](articles/ab768d03.json)
-
-[Extended Data](ext_articles/ab768d03.ext.json)
-
----
-
-### We were defeated in the presidential election;Ranil does not want to win Sajith - SM Marikar.
-
-*2024-10-27 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197283) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka presidential election: Ranil Wickremesinghe allegedly plotted against Sajith Premadasa. United National Party supporters now backing opposition. Campaign promises unfulfilled. Economic challenges persist under new leadership.
-
-🟩
-
-Did not defeat the presidential election, we were defeated. சஜித் பிரேமதாச ஜனாதிபதியாகுவதை ரணில் விக்கிரமசிங்க விரும்பாததால் திட்டமிட்ட வகையில் நெருக்கடிகளை ஏற்படுத்தினார். ஜனாதிபதித் தேர்தலில் ரணில் விக்கிரமசிங்கவுக்கு வாக்களித்த 20 இலட்ச ஐக்கிய தேசியக் கட்சியினர் பொதுத்தேர்தலில் சஜித் பிரேமதாசவுக்கு வாக்களிக்க வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் தெரிவித்தார்.
-
-He was speaking at the election campaign meeting held on Saturday (26) night in Dehiwala.
-
-We did not lose the presidential election.We were deliberately defeated. Former President Ranil Wickremesinghe is aimed at not becoming president of Sajith Premadasa, who talks about the welfare of the middle class. தேசிய மக்கள் சக்தியின் வேட்பாளர் அநுரகுமார திசாநாயக்கவுடன் ஒன்றிணைந்து சஜித் பிரேமதாசவை தோற்கடித்தார்.
-
-...
-
-[Data](articles/2c4c567f.json)
-
-[Extended Data](ext_articles/2c4c567f.ext.json)
-
----
-
-### මෙරට වාර්ෂික සාමාන්‍ය පිළිකා මරණ ගණන 19,000 ඉක්මවයි
-
-*2024-10-27 23:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202629) · `si`
-
-Sri Lanka annual average cancer deaths exceed 19,000. Women more prone to breast cancer, men to oral cancer. Leukemia, lymphoma, brain, and bone cancers common. Approximately 35,000-40,000 cancer patients identified annually. Breast cancer risk increasing among women, affecting 26% of female cancer cases in 2023. Oral cancer affects 12.6% of male cancer patients in 2023. About 1,000 child cancer cases identified, mostly leukemia.
-
-🟩
-
-මෙරට කාන්තාවන් පියයුරු පිළිකාවට සහ පිරිමි පුද්ගලයන් මුඛ පිළිකාවට වැඩි වශයෙන් ගොදුරුවීමේ ප්‍රවණතාවක් පිළිකා රෝගී දත්තවලින් පෙන්නුම් කෙරෙන බව සෞඛ්‍ය අමාත්‍යංශය පවසයි.
-
-According to these reports, leukemia, lymphized luxury cancer, brain cancer and bone cancer have been victims of the victims.
-
-According to the Ministry of Health, between 35,000 and 40,000 cancer patients have been identified every year.
-
-කාන්තාවන් අතර වඩාත් වේගයෙන් ඉහළ යමින් පවතින්නේ පියයුරු පිළිකා අවදානම බව සඳහන් වේ.
-
-26% of the women's cancer patients reported in 2023 were owned by breast cancer category.
-
-Of the male cancer patients reported in 2023, 12.6% of the censorship patients reported.
-
-Approximately 1,000 child cancer patients have been identified as Liakemia, brattewated cancer, brave cancer, brave cancer, brave cancer, and dealership.
-
-◼️
-
-[Data](articles/78c153b8.json)
-
-[Extended Data](ext_articles/78c153b8.ext.json)
 
 ---

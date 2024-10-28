@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 08:27:09**
+As of **2024-10-28 09:00:59**
 
 ## Newspaper Stats
 
-*Scraped **51,743** Articles*
+*Scraped **51,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,131 @@ islandlk | 3,081
 economynextcom | 3,146
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,806
-adaderanalk | 6,121
+adalk | 4,808
+adaderanalk | 6,125
 tamilmirrorlk | 7,156
 virakesarilk | 8,345
-adaderanasinhalalk | 8,995
+adaderanasinhalalk | 8,998
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,743 (100.0%) of 51,743 articles have been extended.
+51,745 (100.0%) of 51,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### මර්වින් ජානා නොහොත් බේකරි ජානා අත්අඩංගුවට
+
+*2024-10-28 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202637) · `si`
+
+ආරක්ෂක අංශ නොමඟ යවමින් මෙරට සැඟව සිටි සංවිධානාත්මක අපරාධකරුවෙකු හා මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් වන 'මර්වින් ජානා නොහොත් බේකරි ජානා' නැමති මත්ද්‍රව්‍ය  ජාවාරම්කරු අත්අඩංගුවට පත්ව තිබේ.
+
+විශේෂ කාර්ය බළකායේ විශේෂ මෙහෙයුමක් අතරතුර අයිස් මත්ද්‍රව්‍ය සමග අදාළ සැකකරු අත්අඩංගුවට පත්ව ඇත.
+
+පසුගිය 26 වන දින බොරලැස්ගමුව පොලිස් වසමේ අංක 24/1/1, පළමු පටුමග, දේවාලමුල්ල පාර, දෙහිවල පාර, බොරලැස්ගමුව ලිපිනයේ දී අදාළ වැටලීම සිදුකර තිබුණි.
+
+එහිදී සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 17යි මිලිග්‍රෑම් 60ක් සන්තකයේ තබාගෙන ජාවාරම් සිදුකිරීම සඳහා මෝටර් රථයකින් යමින් සිටිය දී 45 හැවිරිදි අත්තිඩිය, දෙහිවල ප්‍රදේශයේ පදිංචි සැකකරුව විශේෂ කාර්ය බළකා නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+වැඩිදුර විමර්ශන කටයුතු ස﻿ඳහා සැකකරුව බොරලැස්ගමුව පොලිස් ස්ථානය වෙත භාර දී ඇත.
+
+◼️
+
+[Data](articles/7ada4063.json)
+
+---
+
+### Japan’s government in flux after election gives no party majority
+
+*2024-10-28 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102968/japans-government-in-flux-after-election-gives-no-party-majority) · `en`
+
+The make-up of Japan’s future government was in flux on Monday after voters punished Prime Minister Shigeru Ishiba’s scandal-tainted ruling coalition, leaving no party with a clear mandate to lead the world’s fourth-largest economy.
+
+The uncertainty sent the yen currency to a three-month low as analysts prepared for days, or possibly weeks, of political wrangling to form a government and potentially a change of leader.
+
+That comes as the country faces economic headwinds, a tense security situation fuelled by an assertive China and nuclear-armed North Korea, and a week before U.S. voters head to the polls in another unpredictable election.
+
+Ishiba’s Liberal Democratic Party (LDP) and its junior coalition partner Komeito took 215 seats in the lower house of parliament, down from 279 seats, as voters punished the incumbents over a funding scandal and a cost-of-living crunch. Two cabinet ministers and Komeito’s leader, Keiichi Ishii, lost their seats.
+
+...
+
+[Data](articles/920f62ef.json)
+
+---
+
+### Youth killed in motorcycle accident
+
+*2024-10-28 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202636) · `si`
+
+Motorcycle crash kills youth on Kumbukwewa road. 19-year-old from Kumbukgette died after collision with another motorcyclist heading to Banagama. Two mortals, two drivers, and two children injured; hospitalized at Hiripitiya.
+
+🟩
+
+A young man was killed in an accident in Kumbukwewa road on the Kumbukagama - Kandakagama road.
+
+The deceased has been identified as a 19 year old resident of Kumbukgette.
+
+The accident had occurred when the face was collided with the face of another motorcycle who had run towards the Banagama town.
+
+Two mortalizers, two later drivers and two children were killed and two children were injured and admitted to the Hiripitiya hospital.
+
+◼️
+
+[Data](articles/eee0186d.json)
+
+[Extended Data](ext_articles/eee0186d.ext.json)
+
+---
+
+### Two arrested with large stock of commercial explosives in Padaviya
+
+*2024-10-28 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102967/two-arrested-with-large-stock-of-commercial-explosives-in-padaviya) · `en`
+
+Padaviya Police Station has arrested two suspects who were in possession of a stock of commercial explosives.
+
+Based on information received by a team of officers from Padaviya police station, a car inspection was conducted in the 01st mile post area of Padaviya police division last evening (27). During the inspection, the officers discovered a stock of explosives being transported without a license.
+
+The items found included 75 kg of gunpowder, 90 gelignite sticks, 300 detonators, and 05 detonation cords.
+
+The arrested suspects, aged 28 and 30, are residents of the Hidogama and Mapaladikulama areas.
+
+The car in which the suspects were traveling has also been taken into police custody, and Padaviya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/c41bfaaa.json)
+
+---
+
+### President says the political movement should be changed
+
+*2024-10-28 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202635) · `si`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake calls for changing the political system to build the country. He criticizes current politics as unpleasant and ineffective, promising reforms including a smaller Cabinet of Ministers.
+
+🟩
+
+President Anura Kumara Dissanayake says that the existing political movement has to be changed to build the country.
+
+The politics of the people have been unpleasant over this reason, the President said.
+
+President Anura Kumara Dissanayake made this statement participating at a rally held in Kalutara.
+
+"We have a lot of work. One needs to change the politics of our country to build this country first. Politics in our country is a significant business. People in parliament jumps around and jumps around, chilli powder, knives, brew down the cow. He raises a no-confidential hand when he is stealing the health of health care. This became an unpleasant place to the people. There was a parliament that violates the law, criminals and the murder. People always wished, we wanted to come to the Parliament. Remember one ... Never, no, broke the Jayanthipura Gate, the door of parliament and went to the coalition. But November 14, is the great effort to cleanse Parliament. "
+
+...
+
+[Data](articles/3c200926.json)
+
+[Extended Data](ext_articles/3c200926.ext.json)
+
+---
 
 ### Bus accident in Mexico: 19 killed
 
@@ -49,6 +159,44 @@ Foreign reports say that rescue and security forces are engaged in the recovery 
 [Data](articles/9c1ae4aa.json)
 
 [Extended Data](ext_articles/9c1ae4aa.ext.json)
+
+---
+
+### PUCSL to request additional information from CEB on electricity tariff revision
+
+*2024-10-28 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102966/pucsl-to-request-additional-information-from-ceb-on-electricity-tariff-revision) · `en`
+
+The Public Utilities Commission of Sri Lanka (PUCSL) has announced that it will take steps today (28) to inform the Ceylon Electricity Board (CEB) to request additional information regarding the electricity tariff revision.
+
+For the third quarterly review of this year, the CEB recently submitted a proposal for a tariff revision to the commission.
+
+PUCSL Director of Corporate Communications Jayanath Herath stated that the proposed reviews are scheduled to be discussed by PUCSL officials today.
+
+If additional amendments are required by the commission and further actions are necessary, the electricity board will be informed via a letter.
+
+◼️
+
+[Data](articles/1e6e6176.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-10-28 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102965/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle, Matara and Mannar districts.
+
+Showers or thundershowers may occur at several places in the other areas of the island during the evening or night.
+
+Fairly heavy showers above 50 mm are likely at some places in Western, Sabaragamuwa, North-western, Uva and Eastern provinces, it added.
+
+Strong winds of about 40 kmph can be expected at times over Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/7edf8ae9.json)
 
 ---
 
@@ -1212,6 +1360,22 @@ Former presidents' perks cut: President Anura Kumara Dissanayake proposes reduci
 
 ---
 
+### දුම්රිය සේවකයන්ට නිදහස් දුම්රිය අවසර පතක්
+
+*2024-10-27 19:59:40* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සේවකයන්ට-නිදහස්-දුම්රිය-අවසර-පතක්/11-412709) · `si`
+
+දුම්රිය සේවකයන් හට තම නිවාසය සහ සේවා ස්ථානය අතර ගමන් කිරීම සඳහා නිදහස් දුම්රිය අවසර පතක් ලබා දීමට රජය තීරණය කර තිබේ. ඒ අනුව මීට අදාළ පියවර ගන්නා ලෙස ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ‍ගුවන්සේවා අමාත්‍ය විජිත හේරත් මහතා අදාළ බලධාරීන්ට උපදෙස් ලබා දී ඇත.
+
+දුම්රිය දෙපාර්තමේන්තුව හා එහි සේවකයන්ද නිරන්තරයෙන් මගියාගේ විවේචනයට ලක් වන බැවින් එම තත්ත්වය වෙනස් කිරීමට හා එහි සේවකයන් දිරිමත් කිරීමට මෙම තීරණය ගෙන තිබේ.
+
+මෙය දුම්රිය සේවකයන්ගේ අභිමානය වැඩි කිරීමටත්, කාර්යක්ෂමතාවය ඉහළ තත්ත්වයට ගෙන ඒමටත් සාධනීය ලෙස බලපාන තීරණයක් බවත්, එමගින් රටේ ආර්ථිකයටත් යම් බලපෑමක් කළ හැකි බවත් ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ‍ගුවන්සේවා අමාත්‍යාංශය පවසයි.
+
+◼️
+
+[Data](articles/1a43c948.json)
+
+---
+
 ### High price per kg of organic raw tea
 
 *2024-10-27 19:54:06* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-කාබනික-අමු-තේ-කිලෝවකට-ඉහළ-මිලක්/11-412708) · `si`
@@ -1345,6 +1509,22 @@ But I do not think that this government will last even three months.
 [Data](articles/194e905a.json)
 
 [Extended Data](ext_articles/194e905a.ext.json)
+
+---
+
+### එෆ්.සී.අයි.ඩී. යළිත් බලාත්මක කරයි?
+
+*2024-10-27 19:17:05* · [`adalk`](https://www.ada.lk/breaking_news/එෆ්-සී-අයි-ඩී--යළිත්-බලාත්මක-කරයි-/11-412703) · `si`
+
+වසර පහකට පමණ පෙර අත්තනෝමතික ලෙස විසුරුවා හැරී එෆ් සි අයි ඩි හෙවත් මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය නැවත බලාත්මක කර දූෂණ ලිපිගොනු කඩිනමින් විමර්ශනය කිරීමේ සූදානමක් පවතින බව නීතිය හා සාමය අමාත්‍යාංශයේ අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කරයි.
+
+යහපාලන රාජ්‍ය සමයේදී කැබිනට් අනුමැතියෙන් පිහිටනු ලැබූ එෆ් සි අයි ඩි ගෝඨාභය රාජපක්ෂ මහතා ජනාධිපති ධුරයට පත්වීමත් සමඟම එහි සිටි නිලධාරීන් 180 කුගෙන් 19 කු හැරෙන්නට අනෙක් සියලුම නිලධාරීන්ගෙන් බහුතරයක් දෙනා ඔහුගේ ආරක්ෂාවට යැයි කියා මාර්ග දෙපස රාජකාරියේ යොදවන්නට කටයුතු කළ අතර දූෂණ ලිපිගොනු අල්මාරි වලට සීමා වූ අතර එෆ් සි අයි ඩි නැවතීමේ තිත තැබිණි.
+
+අනතුරුව ඒ සම්බන්ධයෙන් කොමිසමක් පිහිටුවා ඒෆ් සි.අයි ඩි සිදුකළ විමර්ශන නීති විරෝධී යැයි ප්‍රකාශ කරමින් ප්‍රධාන පෙළේ දූෂණ සම්බන්ධයෙන් විමර්ශන සිදුකළ ( මිග් යානා ගනුදෙනුව ආදි ) නිලධාරීන් පැය 24 ක් තුළදී යාපනයට මාරු කිරීමටද පියවර ගැනුණු අතර විමර්ශන නිලධාරීන් වාඩිවී සිටි පුටු පවා ග්‍රාමාරක්ෂක නිලධාරීන්ට ලබාදීම සිදුකෙරිණි.
+
+...
+
+[Data](articles/9091d12f.json)
 
 ---
 
@@ -2115,193 +2295,5 @@ Investigations have revealed that the deceased was a temporary resident of the N
 [Data](articles/814b982a.json)
 
 [Extended Data](ext_articles/814b982a.ext.json)
-
----
-
-### India financing 35MW rooftop solar systems to Sri Lanka multi-religious sites
-
-*2024-10-27 16:40:00* · [`economynextcom`](https://economynext.com/india-financing-35mw-rooftop-solar-systems-to-sri-lanka-multi-religious-sites-185075/) · `en`
-
-ECONOMYNEXT – A ceremonial handing over of solar power systems under a 17 million dollar, 25 MegaWatt rooftop solar project financed by India took place at four separate sites, the Indian High Commission (embassy) in Colombo said.
-
-The solar systems were given to Hokandara Temple, Sri Aanjaneyar Temple, St. Anthony’s Church and Mutwal Jumma Mosque in the Western Province.
-
-The events were attended by officials from the Indian High Commission in Sri Lanka, the Ceylon Electricity Board (CEB), and the Sri Lanka Sustainable Energy Authority (SLSEA).
-
-India is giving 17 million US dollars to install rooftop solar panels to 5,000 religious sites across Sri Lanka.
-
-“The project is designed to reduce energy costs for these institutions while bolstering Sri Lanka’s transition to clean energy,” the Indian High Commission said.
-
-“The project is expected to be completed by early next year.
-
-...
-
-[Data](articles/bfd6c197.json)
-
-[Extended Data](ext_articles/bfd6c197.ext.json)
-
----
-
-### Former President I Harmothered - Presidentless President
-
-*2024-10-27 16:35:48* · [`adalk`](https://www.ada.lk/breaking_news/මම-බහුතරයක්-නැති-හිටපු-ජනාධිපති---එතුමා-බහුතරයක්-නැති-ඉන්න-ජනාධිපති/11-412700) · `si`
-
-Former President Ranil Wickremesinghe criticizes Anura Kumara Dissanayake's presidency, claiming he lacks majority support. Wickremesinghe accepts defeat but questions Dissanayake's legitimacy due to low voter percentage.
-
-🟩
-
-Former President Ranil Wickremesinghe said that Anura Kumara Dissanayake is the current president of the majority.
-
-"For the country to have experienced. We say, bring the country to give the majority of parliament to our people. Only if we can go for three years. Tell me to stay at home. That means I lost. I accept. I came to the presidential election, vote, and the majority did not vote for me. So I'm uplooking. But the majority did not give him. No 51% received. What is the difference of heses?Former president I have no majority. He is the vast loss of the majority. I don't have to. That's all. What is the specialtyWe're both together. "
-
-◼️
-
-[Data](articles/b986bc45.json)
-
-[Extended Data](ext_articles/b986bc45.ext.json)
-
----
-
-### A few Israelis remain in Sri Lanka surfing town despite terrorism warning
-
-*2024-10-27 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102959/a-few-israelis-remain-in-sri-lanka-surfing-town-despite-terrorism-warning) · `en`
-
-The last of the Israelis left in a scenic surfing hotspot in Sri Lanka said they felt safe and would stay put despite a warning from the Israeli Government to immediately leave due to the threat of a possible terrorist attack.
-
-Israel’s national security council called on Israelis on Wednesday to get out of tourist areas in the south of the Indian Ocean island nation, saying it had information about a terrorist threat focused on tourist areas and beaches.
-
-The agency did not specify the nature of the threat but said the warning pertained to the Arugam Bay area – a popular haunt for Israelis – and beaches in the south and west of the country.
-
-The US embassy in Sri Lanka and the German foreign ministry also followed with similar warnings, prompting Colombo to step up security and go on high alert.
-
-Sri Lankan police have arrested three suspects for questioning in connection with an unspecified threat.
-
-...
-
-[Data](articles/bcf9e9da.json)
-
-[Extended Data](ext_articles/bcf9e9da.ext.json)
-
----
-
-### Ranil compared between President and former President
-
-*2024-10-27 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202619) · `si`
-
-Former President Ranil Wickremesinghe criticizes current President Anura Kumara Dissanayake's leadership, questioning his ability to govern effectively.
-
-🟩
-
-Former President Ranil Wickremesinghe says that the majority of President Anura Kumara Dissanayake is a majority of President Anura Kumara Dissanayake.
-
-He was speaking at a meeting held at the New Democratic Front in Negombo today (27).
-
-"If you hear the list of your government, I do not know if his government can go for three months.  පලපුරුදු අය ඉන්න ඕනේ රට වෙනුවෙන්. We say we put our experienced. Give the majority to Parliament to take the country to Parliament. "Only if he can go for three years".
-
-"If I tell you to stay at home. That means I lost, I accept it. I came to the presidential election and voted for. The majority did not vote for me.  ඉතින් මම පැරදිලා. But the majority did not give him.  51%ක් හම්බුනේ නෑ. මොකක්ද එතුමාගෙයි මගෙයි වෙනස. Former president I have no majority. He is the vast loss of the majority. He has no. I don't have. That's all. What's special. We're both together. "
-
-◼️
-
-[Data](articles/ba757556.json)
-
-[Extended Data](ext_articles/ba757556.ext.json)
-
----
-
-### Two swords in an envelope
-
-*2024-10-27 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197245) · `ta`
-
-"Two swords in an envelope: Votes against Sumanthiran impact TNA, affecting Sridharan more."
-
-🟩
-
-If the votes against Sumanthiran are out of the TNA as a whole, the impact will be greater for the Sridharan. ”
-
-◼️
-
-[Data](articles/4c56989c.json)
-
-[Extended Data](ext_articles/4c56989c.ext.json)
-
----
-
-### Will the MK win the Kalmunai constituency?
-
-*2024-10-27 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197242) · `ta`
-
-MK likely to win Kalmunai constituency due to internal conflicts and defections within SLMC. Former members' departure may impact party's chances. Current candidate faces challenges from past controversies.
-
-🟩
-
-Former Member of the Eastern Provincial Council, KM Jawad, who has sacrificed the development of the Sri Lanka Muslim Congress in Kalmunai constituency, as well as another former member of the Eastern Provincial Council, AM Jemil and former Mayor of the Kalmunai Municipal Council, Shiras Meera Sahibu, left the party.Haristan is also reported. Currently, Siraz Meera Sahu is again contesting the election at the Sri Lanka Muslim Congress.
-
-◼️
-
-[Data](articles/058ed225.json)
-
-[Extended Data](ext_articles/058ed225.ext.json)
-
----
-
-### The risk of tourism
-
-*2024-10-27 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197244) · `ta`
-
-Israeli tourists should prioritize Islamic countries like Dubai for safety. However, Sri Lanka poses risks due to its political instability and security concerns.
-
-🟩
-
-It is important that Israeli selects an Islamic country like Dubai as a safe traveling place, but it is important that Sri Lanka is not considered such a place.
-
-◼️
-
-[Data](articles/117ea7cc.json)
-
-[Extended Data](ext_articles/117ea7cc.ext.json)
-
----
-
-### The fact that exposes the threat
-
-*2024-10-27 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197237) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Israelis in Sri Lanka face potential threats. Mossad couldn't confirm dangers, so citizens continued visiting. Government struggled to address rising tensions during tourist influx.
-
-🟩
-
-Israeli intelligence agency Mossad could not be found that Israelis are in danger of being targeted in Sri Lanka. If so, it would have prevented its citizens from coming to Sri Lanka in advance. During the increasing number of tourists, the government sought to handle the attack on the attack, as tension would be a major impact.
-
-◼️
-
-[Data](articles/1021e21c.json)
-
-[Extended Data](ext_articles/1021e21c.ext.json)
-
----
-
-### Commissions and politics
-
-*2024-10-27 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197238) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Commission report sparks crisis during National People's Power election. Judge Alwis inquiry criticized as politically motivated, hindering truth-finding and punishment of actual perpetrators.
-
-🟩
-
-Udaya Kammanpila has expressed his views on the report of the Udaya Kammanpila Judge Alwis Commission, which has created crises at the time of the election of the National People's Power and President Anura Kumara Dissanayake.. With politicized inquiries, the facts can never be found or punished by the real culprits.
-
-◼️
-
-[Data](articles/bd426431.json)
-
-[Extended Data](ext_articles/bd426431.ext.json)
 
 ---

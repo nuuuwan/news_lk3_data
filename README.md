@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 16:57:53**
+As of **2024-10-28 17:09:13**
 
 ## Newspaper Stats
 
-*Scraped **51,841** Articles*
+*Scraped **51,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adalk | 4,818
 adaderanalk | 6,140
 tamilmirrorlk | 7,176
 virakesarilk | 8,362
-adaderanasinhalalk | 9,015
+adaderanasinhalalk | 9,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,841 (100.0%) of 51,841 articles have been extended.
+51,842 (100.0%) of 51,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Life sentenced to life in prison with drugs
+
+*2024-10-28 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202655) · `si`
+
+Colombo High Court sentences man to life imprisonment for possessing heroin. Accused found with 11.07 grams of heroin near Magazine Prison in 2016. After lengthy trial, judge rules complaint proven. Defense requests leniency due to young child.
+
+🟩
+
+The Colombo High Court today (28), the Colombo High Court today (28) was sentenced to death in prison to possess Horoin.
+
+The sentence was sentenced to a 31 year old resident of Borella.
+
+The accused were arrested by the police with 11.07 grams of heroin at the back of the new Magazine Prison on November 8, 2016.
+
+Thereafter, the Attorney General sued him under the allegations of heroin in possession and smuggling.
+
+After a long trial, the High Court Judge said that the complaint has been proved by the complaint against the accused.
+
+The lawyer appearing on behalf of the accused was mentioned in court and said that he had a month older child.
+
+Therefore, the lawyer asked the court to give him loose punishment.
+
+After considering the submissions, the High Court judge then sentenced the accused to life sentenced to life.
+
+◼️
+
+[Data](articles/3fac615a.json)
+
+[Extended Data](ext_articles/3fac615a.ext.json)
+
+---
 
 ### Gary Kirston goes from Pakistan
 
@@ -2335,31 +2367,5 @@ Accordingly, if the Commission needs additional amendments and the CEB is due to
 [Data](articles/6cca7085.json)
 
 [Extended Data](ext_articles/6cca7085.ext.json)
-
----
-
-### Heavy rains at several places
-
-*2024-10-28 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202630) · `si`
-
-Heavy rains expected in Western, Sabaragamuwa, North Western provinces and Galle, Matara, Mannar districts. Showers/thundershowers possible elsewhere. Strong winds reported in Trincomalee, Hambantota districts. Thunderstorm warnings issued.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces and in the Galle, Matara and Mannar districts.
-
-Showers or thundershowers will occur at several places in the evening or night in the rest of the island.
-
-MM to some places in the Western, Sabaragamuwa, North Western, Uva and Eastern Provinces. Shorters can occur in more than 50.
-
-From the Trincomalee, North Central and North Western provinces, now in Trincomalee and Hambantota districts.. There are about 40 strong winds.
-
-The people have been asked to take necessary steps to reduce the temporary winds and lightning accidents caused by thunderstorms.
-
-◼️
-
-[Data](articles/022327ac.json)
-
-[Extended Data](ext_articles/022327ac.ext.json)
 
 ---

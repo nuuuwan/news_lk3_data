@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 02:58:15**
+As of **2024-10-29 03:09:38**
 
 ## Newspaper Stats
 
-*Scraped **51,899** Articles*
+*Scraped **51,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 525
 bbccomsinhala | 527
 islandlk | 3,085
 economynextcom | 3,158
-dailyftlk | 3,537
+dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,826
 adaderanalk | 6,148
@@ -26,11 +26,143 @@ adaderanasinhalalk | 9,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,899 (100.0%) of 51,899 articles have been extended.
+51,903 (100.0%) of 51,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Haycarb triumphs at ARC International Awards 2024
+
+*2024-10-29 02:46:03* · [`dailyftlk`](https://www.ft.lk/business/Haycarb-triumphs-at-ARC-International-Awards-2024/34-768549) · `en`
+
+Sets new benchmark in corporate reporting with Gold and Silver awards
+
+Haycarb PLC, a leader in activated carbon manufacturing and a member of the Hayleys Group, announced that its 2023/24 Annual Report has been honoured with two prestigious awards at the 38th International ARC Awards, headquartered in New York.
+
+Themed ‘Thriving Together’, the report won a Gold award in the ‘Cover Photo/Design’ category and a Silver award in the ‘Non-Traditional Annual Report’ category.
+
+Hailed as the ‘Academy Awards of Annual Reports’ of the financial community, the ARC Awards is the world’s largest international competition that celebrates excellence in annual reports. This prestigious competition sets the global benchmark for outstanding creativity, innovation, and execution in investor relations materials.
+
+...
+
+[Data](articles/f24b7039.json)
+
+[Extended Data](ext_articles/f24b7039.ext.json)
+
+---
+
+### Vajira, Mano appointed to Access Engineering Board
+
+*2024-10-29 02:45:04* · [`dailyftlk`](https://www.ft.lk/business/Vajira-Mano-appointed-to-Access-Engineering-Board/34-768548) · `en`
+
+Top professionals Dr. Vajira Kulatilaka and Manoha Rajakariar have been appointed as Independent Non-Executive Directors on the Board of Access Engineering PLC.
+
+Kulatilaka holds a BSc in Civil Engineering with First Class Honours from the University of Moratuwa and an MSc in Industrial Engineering and Management from the Asian Institute of Technology, Thailand. He is also a Chartered Financial Analyst and has obtained Fellow Membership of the Chartered Institute of Management Accountants UK.
+
+...
+
+[Data](articles/35ba2134.json)
+
+[Extended Data](ext_articles/35ba2134.ext.json)
+
+---
+
+### Gammanpila defends ex-SIS Chief Suresh Salley against Easter attack allegations
+
+*2024-10-29 02:41:11* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-defends-ex-SIS-Chief-Suresh-Salley-against-Easter-attack-allegations/56-768547) · `en`
+
+Says according to Imam’s report, Salley was in Malaysia on day of the attack and was not in SL
+
+Claims Salley could not have met Zahran Hashim in February 2018 as he was out of SL and Hashim had not left Eastern Province at the time
+
+Urges Govt. to investigate person in Channel 4 documentary who posed as high-ranking official
+
+Says if he is indeed a high-ranking Govt. official, action should be taken against him for treason
+
+Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila has stepped forward to defend former State Intelligence Services (SIS) Chief Major General Suresh Salley against allegations linking him to the 2019 Easter Sunday terrorist attacks.
+
+He said according to the facts of the I.M. Imam reported on the allegations made in a Channel 4 documentary on the attack, Salley had not been in Sri Lanka on the day of the attack and was instead stationed at the Sri Lankan High Commission in Malaysia at the time.
+
+...
+
+[Data](articles/5052e0c9.json)
+
+[Extended Data](ext_articles/5052e0c9.ext.json)
+
+---
+
+### Marikkar calls for stricter monitoring of foreign activities in SL
+
+*2024-10-29 02:39:24* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-calls-for-stricter-monitoring-of-foreign-activities-in-SL/56-768546) · `en`
+
+Calls on Govt. to monitor and regulate activity of foreigners in SL or says it risks following path of previous administration and its negligence
+
+Questions Govt.’s vigilance, pointing out the influx of foreign nationals engaged in various activities across country
+
+Reminds Govt. it has a responsibility to monitor and regulate activities of foreigners in SL
+
+Samagi Jana Balawegaya (SJB) Colombo district candidate S.M. Marikkar yesterday called on the Government to monitor and regulate the activity of foreigners in Sri Lanka in the light of recent revelations following a terrorism threat against Israeli tourists in the country.
+
+...
+
+[Data](articles/2f233088.json)
+
+[Extended Data](ext_articles/2f233088.ext.json)
+
+---
+
+### Why Sri Lanka has yet to find its own Lee Kuan Yew
+
+*2024-10-29 02:14:25* · [`dailyftlk`](https://www.ft.lk/columns/Why-Sri-Lanka-has-yet-to-find-its-own-Lee-Kuan-Yew/4-768537) · `en`
+
+In the post-colonial era, many Asian nations sought strong leaders to guide them through the challenges of independence, economic development, and social transformation. Singapore found such a leader in Lee Kuan Yew, whose visionary leadership transformed the city-state from a resource-poor colony into a global economic powerhouse. Sri Lanka, however, has struggled to produce a leader with the same transformative impact. Despite its rich resources, strategic location, and potential, Sri Lanka has yet to find its equivalent of Lee Kuan Yew. This article explores why none of Sri Lanka’s political leaders have been able to replicate his success.
+
+...
+
+[Data](articles/9930f092.json)
+
+---
+
+### Leveraging military skills for success in corporate world
+
+*2024-10-29 02:10:13* · [`dailyftlk`](https://www.ft.lk/columns/Leveraging-military-skills-for-success-in-corporate-world/4-768536) · `en`
+
+In today’s context, we observe a growing number of ex-military personnel, both officers and other ranks, transitioning into the employment world in Sri Lanka after completing their agreed service period. Unfortunately, there is a noticeable lack of proper, systematic career guidance for these individuals. This results in the underutilisation of valuable human resources that could greatly benefit the country. Now more than ever, it is essential to provide them with the right exposure, making them more competent and confident in securing careers within the corporate sector, government, or overseas.
+
+...
+
+[Data](articles/6a6c78a6.json)
+
+---
+
+### Nobel Prize for Economics in 2024 and Sri Lanka
+
+*2024-10-29 02:03:32* · [`dailyftlk`](https://www.ft.lk/columns/Nobel-Prize-for-Economics-in-2024-and-Sri-Lanka/4-768535) · `en`
+
+The 2024 Nobel Prize for Economics was awarded to three economists, Daron Acemoglu, Simon Johnson and James A. Robinson on 14 October 2024. Both Daron and Simon are professors at Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts, USA, and James is a professor at the University of Chicago (U Chicago), Chicago, Illinois, USA. Both MIT and U Chicago are private research universities. They were established in 1861 and 1890 respectively using private endowments, and students pay to attend those universities.
+
+Nobel prizes are awarded by the Nobel Foundation in Sweden using an endowment of funds given by Alfred Nobel in 1895. Alfred Nobel was a Swedish chemist, engineer, and inventor, who is best known for inventing dynamite. The prize was awarded to innovate work in Physics, Chemistry, Medicine (Physiology), Literature, and Peace.
+
+...
+
+[Data](articles/bf2e2c38.json)
+
+---
+
+### Managing conflicts of interest of political appointees and MPs
+
+*2024-10-29 01:55:33* · [`dailyftlk`](https://www.ft.lk/columns/Managing-conflicts-of-interest-of-political-appointees-and-MPs/4-768532) · `en`
+
+An inexperienced and understaffed Government is making appointments to various senior positions. To be true to their election promises, a process has been initiated to strip away various “privileges” given to holders of political office. What is common to both is the problem of managing conflicts of interest.
+
+Concerns were raised when the CEO of a supermarket chain was appointed as chairman of Sathosa, the Government’s supermarket company. It cannot be because he lacks the necessary knowledge to run the business. In fact, it’s difficult to imagine a better qualified person to serve as CEO or as executive chair of the ailing SOE.
+
+...
+
+[Data](articles/dbcfab79.json)
+
+---
 
 ### Let's capture 3 seats
 
@@ -2245,179 +2377,5 @@ Several people expressed frustration, claiming that only one police officer had 
 [Data](articles/160737e7.json)
 
 [Extended Data](ext_articles/160737e7.ext.json)
-
----
-
-### Change in the price of eggs
-
-*2024-10-28 12:53:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலையில்-மாற்றம்/175-346181) · `ta`
-
-Egg prices drop: Red eggs now 36 rupees, down from 42; White eggs 35 rupees, down from 41. Report by All Ceylon Egg Traders Association.
-
-🟩
-
-According to a report by the All Ceylon Egg Traders Association, the price of a red egg today (28). 36.
-
-Meanwhile, the price of a white egg has been recorded at 35 rupees.
-
-The price of a red and white egg last week was Rs 42 and 41 respectively.
-
-◼️
-
-[Data](articles/42ee2ae3.json)
-
-[Extended Data](ext_articles/42ee2ae3.ext.json)
-
----
-
-### 637 vehicles fell in customs
-
-*2024-10-28 12:52:20* · [`adalk`](https://www.ada.lk/breaking_news/රේගුව-ඇල්ලූ-වාහන-637ක්-දිරන්න-ඇරලා/11-412716) · `si`
-
-Customs seized 637 vehicles, 435 rejected due to improper decay. Audit finds vehicles held over 5 years without sale. Investigations ongoing.
-
-🟩
-
-The National Audit office reveals that the various types of vehicles arrested by the Customs have been allowed to be improperly decaying.
-
-435 of these vehicles have been rejected by the Customs, the Audit Office is retained by the Customs Department for the Last Ruhunura Port.
-
-The audit shows that the exchange of exchange has been imported for more than five years and allows a auction in a situation that auction is unable to make a performing amount of money.
-
-The Customs Countice has informed the audit that investigations are still under investigation into many vehicles and the activities related to these vehicles are recommended to the Customs.
-
-◼️
-
-[Data](articles/be738a1f.json)
-
-[Extended Data](ext_articles/be738a1f.ext.json)
-
----
-
-### Dilith Jayaweera says committed to building a respectable public service
-
-*2024-10-28 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102977/dilith-jayaweera-says-committed-to-building-a-respectable-public-service) · `en`
-
-Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District parliamentary candidate, entrepreneur Dilith Jayaweera says that he and his team are dedicated to creating a respectable public service.
-
-During a public meeting in Attanagalla, he highlighted the importance of forming a strong opposition to achieve this goal.
-
-“What should we do to create a respectable public sector in order to elevate the living standards of the people, especially the living standards of the government employees? If we want to give the government employees a program that includes concepts such as education of their children, their accommodation, and raising the expectation of improvement in their life, we should go to the parliament.”
-
-Jayaweera further stated that they will stand as a strong opposition, committed to bringing individuals into the parliament who can benefit from their experience, support those who have already made progress, and strive for the improvement of everyone.
-
-◼️
-
-[Data](articles/2beec4f2.json)
-
-[Extended Data](ext_articles/2beec4f2.ext.json)
-
----
-
-### Committee report proves that Channel 4 facts about the Passover attack - Gammanpila
-
-*2024-10-28 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202646) · `si`
-
-Here's a 200-character summary of the key points:
-
-
-
-Committee report debunks Channel 4 claims about Passover attack. Retired Supreme Court Judge SIV led investigation. Key allegations against military intelligence baseless. Committee found no evidence supporting Channel 4's accusations.
-
-🟩
-
-පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය පිළිබඳ චැනල් 4 නාලිකාව ඉදිරිපත් කළ ආන්දෝලනාත්මක වාර්තා වැඩසටහනේ ඇතුළත් කරුණු ව්‍යාජ ඒවා බව ඒ සම්බන්ධයෙන් සොයා බැලීමට පත්කළ කමිටු වාර්තාවෙන් හෙළිදරව් වී ඇති බව පිවිතුරු හෙළ උරුමයේ නායක උදය ගම්මන්පිල මහතා පවසයි.
-
-Retired Supreme Court Judge SIV. He made these comments at a press conference held today (28).
-
-The SRI LANKA EASTER BOMBINGS broadcast on Channel 4, the procedure of Assad Moulana is based on a disclosure.
-
-He has said that in February Buddha's intelligence was a meeting between the Chief of Environmental Intelligence.
-
-Moulana had said that he had coordinated the meeting and the meeting took place at the house where the meeting was placed at the Vanathavilluwa land.
-
-2019 වසරේ ජනවාරි මාසයේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් පුපුරණ ද්‍රව්‍ය සොයාගෙන තිබුණේද එම ඉඩමේ තිබියදී ය.
-
-...
-
-[Data](articles/65d41c60.json)
-
-[Extended Data](ext_articles/65d41c60.ext.json)
-
----
-
-### A revolution without violence
-
-*2024-10-28 12:18:00* · [`islandlk`](http://island.lk/a-revolution-without-violence/) · `en`
-
-The total absence of violence before, during, and after the Presidential election has deeply impressed all sections of the population. Such exemplary discipline and conduct of the NPP took many observers by surprise, putting to shame established parties which, when they alternated in power, invariably let loose their goons to inflict pain and misery on opposition ranks. Serving in the police from 1965 to 2000, and in retirement for two and a half decades thereafter, I was witness to violence which followed every election with monotonous regularity.
-
-...
-
-[Data](articles/296b78ca.json)
-
-[Extended Data](ext_articles/296b78ca.ext.json)
-
----
-
-### The president may hide these reports because a treason has been given the highest position in the country
-
-*2024-10-28 12:00:17* · [`adalk`](https://www.ada.lk/breaking_news/දේශද්‍රෝහියෙකුට-රටේ-ඉහළම-තනතුරක්-ලබා-දුන්-නිසා-ජනාධිපති-මේ-වාර්තා-සඟවනවා-වෙන්න-පුළුවන්/11-412715) · `si`
-
-President accused of hiding Channel 4 report due to alleged treason. Leader claims suppression of truth about highest official in the land.
-
-🟩
-
-Leader of President Anura Kumara Dissanayake said that he was given a highest position in the country, as President Anura Kumara Dissanayake could hide reports on Channel 4.
-
-He was speaking at a media briefing held in connection with the report today (28).
-
-"Why is the President and the government trying to suppress this report?If the Company was in the opposition, the charges from Channel 4 should be reviewed. වහාම කමිටුවක් පත් කළ යුතු බවයි. They made it the fact that the fact that the issue of Channel 4 was aired in this Channel 4 was true and accurate. The allegations have said that these charges have to investigate these allegations and the intelligence officers are trying to fall into trouble. If this report is known, it is revealed that the stance of the company is wrong. That is why the President tried to conceal this report.
-
-...
-
-[Data](articles/655d4380.json)
-
-[Extended Data](ext_articles/655d4380.ext.json)
-
----
-
-### India-Sri Lanka Joint Task Force to convene in Colombo to address fisheries disputes
-
-*2024-10-28 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102976/india-sri-lanka-joint-task-force-to-convene-in-colombo-to-address-fisheries-disputes) · `en`
-
-The Indo-Sri Lanka Joint Task Force will hold its sixth meeting tomorrow (29) at the Mahaweli Center in Colombo, as confirmed by M. P. N. M. Wickramasinghe, Secretary of Sri Lanka’s Ministry of Fisheries.
-
-The meeting will bring together 12 officials to discuss key bilateral concerns, especially the ongoing issue of bottom trawling by Indian fishermen in Sri Lankan waters.
-
-Since assuming office, President Anura Kumara Dissanayake has prioritized addressing the environmental and economic impacts of bottom trawling—a fishing method that involves dragging heavy nets across the seafloor, which can cause long-term ecological damage, he said, adding that in line with the President’s directive, the Ministry of Fisheries has engaged with Indian authorities through diplomatic channels to tackle this issue collaboratively.
-
-...
-
-[Data](articles/5b5e0c39.json)
-
-[Extended Data](ext_articles/5b5e0c39.ext.json)
-
----
-
-### One person killed in motorcycle accident
-
-*2024-10-28 11:55:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோட்டார்-சைக்கிள்-விபத்தில்-ஒருவர்-பலி/175-346180) · `ta`
-
-Motorcycle crash kills one, injures others near Kumbukte. 19-year-old dies after collision with another motorcycle. Four injured children hospitalized.
-
-🟩
-
-A 19 -year -old youth from Kumbukte, Kumbukte, died in an accident on Sunday afternoon (27) at Kumbukte - Pannekama Nalawa Road.
-
-The accident occurred when a motorcycle traveling from Pannakamavu to Nalawa collided with another motorcycle in the opposite direction.
-
-During the accident, four and two children who were traveling on motorcycles were injured and admitted to the Hiripitiya Hospital and a young man died without treatment.
-
-◼️
-
-[Data](articles/36ab6dc0.json)
-
-[Extended Data](ext_articles/36ab6dc0.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 09:00:59**
+As of **2024-10-28 09:15:56**
 
 ## Newspaper Stats
 
-*Scraped **51,752** Articles*
+*Scraped **51,753** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 412
-bbccomsinhala | 524
+bbccomsinhala | 525
 colombotelegraphcom | 525
 islandlk | 3,081
 economynextcom | 3,146
@@ -26,29 +26,35 @@ adaderanasinhalalk | 8,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,745 (100.0%) of 51,752 articles have been extended.
+51,751 (100.0%) of 51,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
 
-### මර්වින් ජානා නොහොත් බේකරි ජානා අත්අඩංගුවට
+### Mervyn Jana, Or Bakeryhi Jana arrested
 
 *2024-10-28 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202637) · `si`
 
-ආරක්ෂක අංශ නොමඟ යවමින් මෙරට සැඟව සිටි සංවිධානාත්මක අපරාධකරුවෙකු හා මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් වන 'මර්වින් ජානා නොහොත් බේකරි ජානා' නැමති මත්ද්‍රව්‍ය  ජාවාරම්කරු අත්අඩංගුවට පත්ව තිබේ.
+Sri Lanka: Mervyn Jana (Bakeryhi Jana) arrested for ice drug trafficking. Special Task Force operation seized 17.6 grams of ice from his vehicle. Suspect handed over to police for further investigation.
 
-විශේෂ කාර්ය බළකායේ විශේෂ මෙහෙයුමක් අතරතුර අයිස් මත්ද්‍රව්‍ය සමග අදාළ සැකකරු අත්අඩංගුවට පත්ව ඇත.
+🟩
+
+ආරක්ෂක අංශ නොමඟ යවමින් මෙරට සැඟව සිටි සංවිධානාත්මක අපරාධකරුවෙකු හා මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් වන 'මර්වින් ජානා නොහොත් බේකරි ජානා' නැමති මත්ද්‍රව්‍ය ජාවාරම්කරු අත්අඩංගුවට පත්ව තිබේ.
+
+The suspect was arrested along with the ice drug during a special operation of the Special Task Force.
 
 පසුගිය 26 වන දින බොරලැස්ගමුව පොලිස් වසමේ අංක 24/1/1, පළමු පටුමග, දේවාලමුල්ල පාර, දෙහිවල පාර, බොරලැස්ගමුව ලිපිනයේ දී අදාළ වැටලීම සිදුකර තිබුණි.
 
 එහිදී සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 17යි මිලිග්‍රෑම් 60ක් සන්තකයේ තබාගෙන ජාවාරම් සිදුකිරීම සඳහා මෝටර් රථයකින් යමින් සිටිය දී 45 හැවිරිදි අත්තිඩිය, දෙහිවල ප්‍රදේශයේ පදිංචි සැකකරුව විශේෂ කාර්ය බළකා නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
 
-වැඩිදුර විමර්ශන කටයුතු ස﻿ඳහා සැකකරුව බොරලැස්ගමුව පොලිස් ස්ථානය වෙත භාර දී ඇත.
+The suspect has been handed over to the Boralesgamuwa Police Station for further investigations.
 
 ◼️
 
 [Data](articles/7ada4063.json)
+
+[Extended Data](ext_articles/7ada4063.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ Ishiba’s Liberal Democratic Party (LDP) and its junior coalition partner Komei
 ...
 
 [Data](articles/920f62ef.json)
+
+[Extended Data](ext_articles/920f62ef.ext.json)
 
 ---
 
@@ -111,6 +119,8 @@ The car in which the suspects were traveling has also been taken into police cus
 ◼️
 
 [Data](articles/c41bfaaa.json)
+
+[Extended Data](ext_articles/c41bfaaa.ext.json)
 
 ---
 
@@ -178,6 +188,8 @@ If additional amendments are required by the commission and further actions are 
 
 [Data](articles/1e6e6176.json)
 
+[Extended Data](ext_articles/1e6e6176.ext.json)
+
 ---
 
 ### Fairly heavy showers expected in parts of the island
@@ -197,6 +209,8 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/7edf8ae9.json)
+
+[Extended Data](ext_articles/7edf8ae9.ext.json)
 
 ---
 
@@ -669,6 +683,38 @@ FACETS has long been a celebration of Sri Lanka’s illustrious heritage in gems
 [Data](articles/f6a5211a.json)
 
 [Extended Data](ext_articles/f6a5211a.ext.json)
+
+---
+
+### Is Sri Lanka need a Parliament?
+
+*2024-10-28 01:58:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn8y84xgj1zo) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka needs a functional Parliament to represent people's interests and check executive power. The current system faces criticism over MP privileges and lack of responsiveness to public concerns. Reform efforts aim to strengthen Parliament's role in lawmaking and oversight.
+
+🟩
+
+In the struggle in Sri Lanka two years ago, parliament protested was projected to '225', creating slogans, such as 'the power out of Parliament'.
+
+The major allegation from the people was that MPs who have received great privileges in the public are not fulfilling the aspirations of the people.
+
+The executive presidency in Sri Lanka is also protesting from the time of the introduction of the executive presidency.
+
+In such a situation, BBC needs a Parliament by BBC Sinhala to Sri Lanka for what is the role of a parliamentary parliament in Sri Lanka.
+
+The Professor Athankani on the Political Science Institute of the University of Peradeniya explained to BBC.
+
+Inquiring of the BBC, the BBC had told the Sinhala inquired about how the beginning of the parliamentary system took place.
+
+...
+
+[Data](articles/8f0a4a0c.json)
+
+[Extended Data](ext_articles/8f0a4a0c.ext.json)
 
 ---
 
@@ -2275,25 +2321,5 @@ During the presidential election, national people promised to reduce prices of g
 [Data](articles/1d18c9a6.json)
 
 [Extended Data](ext_articles/1d18c9a6.ext.json)
-
----
-
-### Youth killed in water
-
-*2024-10-27 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197259) · `ta`
-
-Youth drowns in river near Nittambuwa. Police investigation ongoing. Incident happened while swimming with friends. Temporary resident of the area.
-
-🟩
-
-Nitambuwa police said that a youth who was drowned in the Attanagalu Oya area in the Nittambuwa police division has been drowned.
-
-Investigations have revealed that the deceased was a temporary resident of the Nittambuwa police division and that the incident had occurred when he went to water with some friends.
-
-◼️
-
-[Data](articles/814b982a.json)
-
-[Extended Data](ext_articles/814b982a.ext.json)
 
 ---

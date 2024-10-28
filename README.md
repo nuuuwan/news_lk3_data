@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 20:12:48**
+As of **2024-10-28 20:24:32**
 
 ## Newspaper Stats
 
-*Scraped **51,874** Articles*
+*Scraped **51,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,823
 adaderanalk | 6,146
 tamilmirrorlk | 7,182
-virakesarilk | 8,372
+virakesarilk | 8,373
 adaderanasinhalalk | 9,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,874 (100.0%) of 51,874 articles have been extended.
+51,875 (100.0%) of 51,875 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -93,6 +93,30 @@ However, we wish to carry out his work successfully.It was reported to vote for 
 [Data](articles/10dece7b.json)
 
 [Extended Data](ext_articles/10dece7b.ext.json)
+
+---
+
+### Mother killed in motorcycle accident;Boy, little girl hurt!
+
+*2024-10-28 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197349) · `ta`
+
+Motorcycle crash kills mother, injures child and girl. Accident occurred at Indoor junction on Ruwanwella-Nitambuwa road. Victims rushed to Konagaldeniya hospital, girl transferred to Karawanella Hospital.
+
+🟩
+
+Ruwanwella police said that the mother was killed in an accident at the Indoor junction on the Ruwanwella-Nitambuwa main road yesterday (27).
+
+The accident occurred when a motorcycle traveling from Nittambuwa crashed into another motorcycle when he tried to return to the right side of the road.
+
+The mother, a 4 -year -old boy and a 10 girl who were injured in the accident, died after being admitted to the Konagaldeniya hospital.
+
+A 10 -year -old girl who was injured has been transferred to Karawanella Hospital for further treatment, police said.
+
+◼️
+
+[Data](articles/9396d2b4.json)
+
+[Extended Data](ext_articles/9396d2b4.ext.json)
 
 ---
 
@@ -2443,23 +2467,5 @@ The police have seized 17 grams of ice, the car and the mobile phone used by the
 [Data](articles/e601ad9e.json)
 
 [Extended Data](ext_articles/e601ad9e.ext.json)
-
----
-
-### Train services on Northern Line resume
-
-*2024-10-28 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102971/train-services-on-northern-line-resume) · `en`
-
-The train services from Colombo Fort to Kankasanturai have officially resumed today (28).
-
-The Department of Railways announced that the train services halted for 10 months due to maintenance and development activities will resume today.
-
-Its Deputy General Manager (Operations), Mr. N.J. Idipolage stated that by resuming the train operation on the Northern Railway, the Yal Devi train will now operate between Colombo Fort and Kankesanturai, while the  Rajarata Rejini train will be operating from Colombo Fort to Anuradhapura.
-
-◼️
-
-[Data](articles/f493a7f4.json)
-
-[Extended Data](ext_articles/f493a7f4.ext.json)
 
 ---

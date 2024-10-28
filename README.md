@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 11:40:41**
+As of **2024-10-28 12:00:07**
 
 ## Newspaper Stats
 
-*Scraped **51,777** Articles*
+*Scraped **51,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,134 @@ dbsjeyarajcom | 412
 bbccomsinhala | 525
 colombotelegraphcom | 525
 islandlk | 3,081
-economynextcom | 3,146
+economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,811
-adaderanalk | 6,130
-tamilmirrorlk | 7,166
+adalk | 4,812
+adaderanalk | 6,132
+tamilmirrorlk | 7,169
 virakesarilk | 8,345
-adaderanasinhalalk | 9,004
+adaderanasinhalalk | 9,006
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,777 (100.0%) of 51,777 articles have been extended.
+51,782 (100.0%) of 51,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### மோட்டார் சைக்கிள் விபத்தில் ஒருவர் பலி
+
+*2024-10-28 11:55:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோட்டார்-சைக்கிள்-விபத்தில்-ஒருவர்-பலி/175-346180) · `ta`
+
+கும்புக்கெடே - பன்னெக்கம நெலவ வீதியில் ஞாயிற்றுக்கிழமை (27) பிற்பகல் இடம்பெற்ற விபத்தில் நெரியாவ, கும்புக்கெடே பகுதியைச் சேர்ந்த 19 வயதுடைய இளைஞன்  உயிரிழந்துள்ளார்.
+
+பன்னெக்கமவிலிருந்து நெலவ நோக்கிப் பயணித்த மோட்டார் சைக்கிள் எதிர் திசையில் வந்த மற்றுமொரு மோட்டார் சைக்கிளுடன் மோதி  இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தின் போது, மோட்டார் சைக்கிளில்களில் பயணித்த நால்வரும் மேலும்  இரு குழந்தைகளும் படுகாயமடைந்து ஹிரிபிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன்,  இளைஞன் ஒருவன் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/36ab6dc0.json)
+
+---
+
+### Gammanpila challenges Minister Herath to prove allegations against Easter attack investigative committee’s chair
+
+*2024-10-28 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102975/gammanpila-challenges-minister-herath-to-prove-allegations-against-easter-attack-investigative-committees-chair) · `en`
+
+In a press conference held today (28) at the Pivithuru Hela Urumaya (PHU) party’s headquarters, former MP Udaya Gammanpila challenged Cabinet Spokesman and Minister Vijitha Herath to substantiate the allegations of misconduct against retired judge S.I. Alwis.
+
+Retired High Court Judge Alwis had chaired an investigative committee appointed to probe the 2019 Easter Sunday attacks in Sri Lanka.
+
+Gammanpila questioned the credibility of the accusations made by Minister Herath, calling for transparency in the discourse surrounding the retired judge. He asserted, “Anyone can make accusations, but if an accusation is made, it must be proven with evidence. That’s why I challenged Minister Vijitha Herath to present evidence of Judge Alwis’s alleged misconduct at the next government press conference.”
+
+He further criticized the government’s stance on the committee’s findings, highlighting a lack of response to the Pivithuru Hela Urumaya’s concerns regarding the Alwis committee report.
+
+...
+
+[Data](articles/7dd5b138.json)
+
+---
+
+### கரையோர ரயில் சேவைகள் பாதிப்பு
+
+*2024-10-28 11:47:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரையோர-ரயில்-சேவைகள்-பாதிப்பு/175-346179) · `ta`
+
+பாணந்துறையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த ரயில் கம்பனிவீதி ரயில் நிலையத்தில் தடம் புரண்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/92811bfe.json)
+
+---
+
+### Magical 23 voice record tools
+
+*2024-10-28 11:34:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாயமான-23-குரல்-பதிவு-கருவிகள்/175-346178) · `ta`
+
+Sri Lanka's Department of Examinations faces issues with 23 voice recording devices, including 7 provided to schools and 16 entrusted for valuable purposes. The National Audit Office is investigating and has recommended actions to address the situation.
+
+🟩
+
+இலங்கை பரீட்சைகள் திணைக்களத்துக்கு சொந்தமான 23 குரல் பதிவு கருவிகள் காணாமல் போயுள்ளதாக தேசிய கணக்காய்வு அலுவலகம் தெரிவித்துள்ளது.
+
+According to the audit report issued by the Audit Office regarding the Department of Examinations, it has been reported that the 07 voice registration equipment provided to the school examination branch is missing.
+
+In addition, 16 voice records entrusted for valuable purposes have also been magical.
+
+According to reports, the Examination Department has notified the National Audit Office that the investigation is being investigated and the final report is being prepared.
+
+The National Audit Office has recommended to the Department of Examinations to take action in this regard.
+
+◼️
+
+[Data](articles/e86778fa.json)
+
+[Extended Data](ext_articles/e86778fa.ext.json)
+
+---
+
+### Railway toddy on the coastal route
+
+*2024-10-28 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202645) · `si`
+
+Coastal route train delay due to single railway line blockage near Colombo Maradana station.
+
+🟩
+
+පානදුර දුම්රිය ස්ථානයෙන් පෙරවරු 09.15ට කොළඹ මරදාන බලා ධාවනය වූ දුම්රිය කොම්පඤ්ඤ වීදිය දුම්රිය ස්ථානය අසලදී දී පිලී පැනීමකට ලක්ව තිබුණි.
+
+As a result, only one railway line is blocked while trains will be held on the other road.
+
+As a result, train transport on the coastal route is delayed.
+
+◼️
+
+[Data](articles/c95cba0f.json)
+
+[Extended Data](ext_articles/c95cba0f.ext.json)
+
+---
+
+### Train services on coastal line disrupted due to derailment near Kompanna Veediya
+
+*2024-10-28 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102974/train-services-on-coastal-line-disrupted-due-to-derailment-near-kompanna-veediya) · `en`
+
+The train services on the coastal line have been disrupted, owing to a derailment of a train near the Kompanna Veediya railway station, the Department of Railways said.
+
+A slow train plying from Maradana to Panadura has reportedly derailed near the Kompanna Veediya railway station this morning (28).
+
+◼️
+
+[Data](articles/922f6a3b.json)
+
+[Extended Data](ext_articles/922f6a3b.ext.json)
+
+---
 
 ### அறுகம்பையில் சுற்றுலாப் பயணிகளின் வருகையில் குறைவு?
 
@@ -55,6 +165,50 @@ Recent information that a terrorist attack may be carried out in the Gulf Touris
 [Data](articles/09e18678.json)
 
 [Extended Data](ext_articles/09e18678.ext.json)
+
+---
+
+### Sri Lanka businesses visit Thailand as free trade deal comes on line
+
+*2024-10-28 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-businesses-visit-thailand-as-free-trade-deal-comes-on-line-185245/) · `en`
+
+ECONOMYNEXT – A delegation from the Sri Lanka–Greater Mekong Business Council visited Thailand ahead of a free trade deal coming on stream in January 2025 to explore business partnerships and investments, the Ceylon Chamber of Commerce said.
+
+The mission also coincided with the LogiMAT Southeast Asia and LogiFOOD Southeast Asia 2024 Exhibitions.
+
+“The primary objective of the mission was to maximise the benefits of the Free Trade Agreement signed between Sri Lanka and Thailand, which will take effect in January 2025,” the chamber said.
+
+“Additionally, the mission focused on foreign direct investments, strengthening business ties, and expanding trade opportunities between the two countries.”
+
+The delegation comprised 11 business professionals from Sri Lanka, representing industries such as pharmaceuticals and healthcare, tourism, agriculture, logistics, distilleries, apparel, gems and jewelry, food and beverages, and micro-financing.
+
+...
+
+[Data](articles/7c9a315c.json)
+
+---
+
+### Vijitha gets another challenge to Minister Vijitha
+
+*2024-10-28 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202644) · `si`
+
+Gammanpila challenges Minister Vijitha over retirement committee allegations. He claims no opposition to Passover attack probe. Accuses government of silence on Alwis Committee report. Challenges Minister Vijitha to provide evidence of misconduct allegations.
+
+🟩
+
+Herade Gammanpha, leader of the Cabinet Gammanpha, has challenged the Cabinet Spokesperson, to prove the allegations leveled against the retirement committee appointed by the Passover attack.
+
+He did the challenge that he was retired Supreme Court Judge. I. At a press conference held at his party headquarters today (28th) at his party headquarters to issue the report of the Commission of Imam.
+
+On September 5, 2023, the committee was appointed to look into the issues of the program of the DISPATCHES program in the UK Channel 4.
+
+Meanwhile, Gammanpila said that no one was against the Passover attack on the Passover attack, he said.
+
+...
+
+[Data](articles/c6fd1e7c.json)
+
+[Extended Data](ext_articles/c6fd1e7c.ext.json)
 
 ---
 
@@ -408,6 +562,26 @@ The second press conference conducted by Gammanpila is the second press conferen
 
 ---
 
+### Sri Lanka rupee opens stronger, bonds steady ahead of auction
+
+*2024-10-28 10:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-bonds-steady-ahead-of-auction-185206/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 293.50/55 to the US dollar marginally stronger Monday from 293.60/70 to the US dollar Friday dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2027 was quoted at 11.50/60 Monday flat from 11.50/60 percent Friday.
+
+A bond maturing on 15.03.2028 was quoted 11.70/75 percent down from 11.75/85 percent.
+
+A bond maturing on 15.06.2029 was quoted at 12.00/05 flat from 12.00/10 percent.
+
+The central bank announced 12,500 million Treasury Bonds will be issued through an auction on October 28, Monday. (Colombo/Oct28/2024)
+
+◼️
+
+[Data](articles/1bf0ef1b.json)
+
+---
+
 ### Rice and paddy consignment report handed over to President
 
 *2024-10-28 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202639) · `si`
@@ -429,6 +603,24 @@ The officers of the Consumer Affairs Authorities were conducted by the Consumer 
 [Data](articles/d30e52e3.json)
 
 [Extended Data](ext_articles/d30e52e3.ext.json)
+
+---
+
+### Sri Lanka’s WindForce commissions 366kWp solar project in Maldives
+
+*2024-10-28 09:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-windforce-commissions-366kwp-solar-project-in-maldives-185212/) · `en`
+
+ECONOMYNEXT – Sri Lanka renewable energy firm WindForce said it has commissioned a 366kWp rooftop solar PV power project at Cocoon Island, Maldives.
+
+“WindForce PLC entered into an agreement for the engineering design, procurement, and commissioning (EPC) of a 366 kWp rooftop solar PV power project at Cocoon Island, Maldives,” the company said in a stock exchange filing.
+
+Windforce signed the agreement with Cocoon investment Pvt Ltd on October 20 for the project located on Ookolhufinolhu, Lhaviyani Atoll.
+
+“The initiative aims to harness sustainable solar energy to substantially reduce the resort’s carbon footprint.”
+
+◼️
+
+[Data](articles/d1601857.json)
 
 ---
 
@@ -739,6 +931,28 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/7edf8ae9.json)
 
 [Extended Data](ext_articles/7edf8ae9.ext.json)
+
+---
+
+### Sri Lanka to get 68,000 tourists from Russia on Red Wings flights: Udayanga
+
+*2024-10-28 07:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-68000-tourists-from-russia-on-red-wings-flights-udayanga-185182/) · `en`
+
+ECONOMYNEXT – Russia-based Red Wings Airlines is expected to bring around 68,000 tourists to Sri Lanka starting from October 28, Udayanga Weeratunga, a former envoy who has been involved in the trade said.
+
+Red Wings will operate six flights a week from Moscow, Kazan, Novosibirsk, Ekaterinburg, Sochi and Samara until May 06, to Sri Lanka’s Hambantota airport, Weeratunga said.
+
+The 160 flights, which will bring 68,000 tourists who will generate tourism revenues of 102 million dollars, he said.
+
+Weeratunga said he intervened to bring Red Wings to Sri Lanka in December 2022 resulting in 94,795 tourists coming to the island through Mattala airport generating 150 million dollars in tourism revenues.
+
+Last year 8,282 tourists had come from Moldova, Estonia, Lithuania, Latvia and Poland through SkyUp and FlyOne airlines.
+
+Some tourist industry officials have said Red Wings may have been deterred by floor prices at hotels in 2023 which were followed by many resorts in the South.
+
+...
+
+[Data](articles/ed551862.json)
 
 ---
 
@@ -1934,6 +2148,30 @@ Former presidents' perks cut: President Anura Kumara Dissanayake proposes reduci
 
 ---
 
+### Rice in customs is trapped in an eighteen region unwilling to human consumption
+
+*2024-10-27 20:08:17* · [`adalk`](https://www.ada.lk/breaking_news/මිනිස්-පරිභෝජනයට-නුසුදුසු-දහඅට-කෝටියක-සහල්-රේගුවේ-සිරවෙලා/11-412711) · `si`
+
+Here's a 200-character summary:
+
+
+
+Customs detains rice shipment due to Gazette restrictions. 53 bags of rice cannot be released for human consumption. Consumer Affairs Authority avoids labeling as "Internal Rice". Rice freedom delayed due to legal issues and regulatory hurdles.
+
+🟩
+
+The National Audit Office has been detained in the Customs at the 25th of October, 53 cases of Rs.Due to a gazette published by the Consumer Affairs Authority, these rice is not unable to use the rice as vegan.
+
+රේගු ආඥා පනතේ විධි විධානයන්ට අනුගත විය යුතු බවට විගණනය මගින් නිර්දේශ කොට ඇත. මේ පිළිබඳව ශ්‍රී ලංකා රේගුවේ ගණන් දීමේ නිලධාරියා විසින් විගණනයට සඳහන් කොට ඇත්තේ, සහල් සහිත බහාලුම් 53ක් 2019 වර්ෂයේ මාර්තු 01වනදා සිට නිදහස් කිරීමට නොහැකි වී ඇත්තේ, එම බහාලුම් සහිත ආනයනය කරනු ලැබූ වෙනත් සහල් අඩංගු බහාලුම් සම්බන්ධයෙන් අභියාචනා අධිකරණයෙන් නඩුවක් පැවතීම නිසා බවත්ය.
+
+...
+
+[Data](articles/9ff156d9.json)
+
+[Extended Data](ext_articles/9ff156d9.ext.json)
+
+---
+
 ### 14 former ministers have not yet handed over quarters
 
 *2024-10-27 20:03:23* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-අමාත්‍යවරුන්-14ක්-තවමත්-නිල-නිවාස-භාර-දී-නෑ/11-412710) · `si`
@@ -2019,311 +2257,5 @@ According to a complaint lodged by the three police constables above, the suspec
 [Data](articles/3acb0bff.json)
 
 [Extended Data](ext_articles/3acb0bff.ext.json)
-
----
-
-### There were no arm of voice recording machines in the Department of Examinations
-
-*2024-10-27 19:42:16* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-දෙපාර්තමේන්තුවේ-හඬ-පටිගත-කිරීමේ-යන්ත්‍ර-23-ක්-ආ-ගිය-අතක්-නෑ/11-412706) · `si`
-
-National Audit Office report: 23 missing voice recording machines from Department of Examinations. Investigation underway. Recommendations made to comply with Government Finance Regulations.
-
-🟩
-
-The National Audit office reveals that 23 voice recording machines owned by the Department of Examinations and the Department of Examinations have lost.
-
-The Audit Office has filed 16 voice recording machines issued by the Department of Examinations and the Voice Recording machines issued to the school examination organizations.
-
-The number of Examinations Department has informed the Audit Office that an investigation has been conducted in this regard.
-
-The Audit Office has also given its recommendations to the Department of Examinations to act on the Government Finance Regulations.
-
-◼️
-
-[Data](articles/ef7159a8.json)
-
-[Extended Data](ext_articles/ef7159a8.ext.json)
-
----
-
-### ஶ்ரீ லங்கா பொதுஜன பெரமுன கட்சியிலிருந்து ம.பரமேஸ்வரன் நீக்கப்பட்டார்
-
-*2024-10-27 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197278) · `ta`
-
-Sri Lanka PA removes member Parameswaran due to illegal activities. Party central committee to decide on his reinstatement after legal proceedings. Decision based on party founder Namal Rajapaksa's instructions.
-
-🟩
-
-ஶ்ரீ லங்கா பொதுஜன பெரமுன கட்சியின் பெயருக்குக் களங்கம் ஏற்படுத்தும் வகையில் சட்டவிரோத செயலில் ஈடுபட்டமையினால்  கட்சியின் அனைத்துப் பொறுப்புகளிலும் இருந்தும் கட்சியின் அடிப்படை உறுப்புறிமையிலிருந்து ம. பரமேஸ்வரன் (ஈசன்) நீக்கப்பட்டுள்ளார்.
-
-சட்டவிரோதமாக வெளிநாட்டுக்கு ஆட்களை அனுப்பி பணம் சேகரிக்கும் நடவடிக்கையில் ஈடுபட்டதாக கூறப்படும் ம. Parameswaran was arrested last week.
-
-குறித்த நபர் மீதான முறையான சட்ட நடவடிக்கைகள் மற்றும் விசாரணைகள் முடிவடைந்த பின்னர், அந்நபரை மீண்டும் கட்சியில் இணைத்துக்கொள்வதா இல்லையா என்பது குறித்து கட்சியின் மத்தியகுழு பரிசீலித்து அது தொடர்பான இறுதி முடிவு எடுக்கப்படும்.
-
-இத்தீர்மானம் சிறீ லங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்சவின் பணிப்புரையின் பேரில் எடுக்கப்பட்டுள்ளது.
-
-மேற்குறித்த நபரால் இதுவரையிலும் மேற்கொள்ளப்பட்ட மற்றும் இனிமேல் மேற்கொள்ளப்படும் எந்த நடவடிக்கைகளுக்கும் ஶ்ரீ லங்கா பொதுஜன பெரமுன பொறுப்பேற்காது.
-
-...
-
-[Data](articles/b683a2c1.json)
-
-[Extended Data](ext_articles/b683a2c1.ext.json)
-
----
-
-### Rice Mall of Polonnaruwa
-
-*2024-10-27 19:26:03* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවේ-සහල්-මෝල්-පාරිභෝගික-නිලධාරීන්ගේ-පරීක්ෂාවට/11-412704) · `si`
-
-Here's a 200-character summary of the text about Rice Mall of Polonnaruwa:
-
-
-
-Polonnaruwa District Consumer Service Authority inspects paddy mills and rice reserves. Aleaya Rice Managing Director warns government-controlled prices may cause losses. Rice production continues despite challenges.
-
-🟩
-
-පොළොන්නරුවේ ප්‍රධාන පෙලේ සහල් මෝල් හා සුළු හා මධ්‍ය පරිමාණ සහල් මෝල්වල පවතින සහල් හා වී තොගයන්හි සංචිතයන් මෙන්ම සහල් නිෂ්පාදන ක්‍රියාවලිය පොළොන්නරුව දිස්ත්‍රීක් පාරිභෝගික නිලධාරීන් විසින් පරීක්ෂා කරති.
-
-පාරිභෝගික සේවා අධිකාරියේ සභාපතිවරයාගේ හා අධ්‍යක්ෂ ජනරාල් වරයාගේ උපදෙස් පරිදි පොළොන්නරුව දිස්ත්‍රීක්කයේ   ප්‍රධාන පෙලේ සහල් මෝල්වල පවතින සහල් හා වී තොගයන්හි සංචිතයන් හා සහල් නිෂ්පාදන ක්‍රියාවලිය පිලිබදව සොයා බැලීම සදහා පොළොන්නරුව දිස්ත්‍රීක් පාරිභෝගික සේවා අධිකාරී කාර්යාලයේ නිලධාරීන් විසින් එම වී මෝල් විශේෂ පරීක්ෂා කිරීම, වී මෝල්වල මේ වනවිට පවතින වී, සහල් තොග කොපමණද යන්න පිලිබදව දත්ත එක් රැස්කිරීම දෙවන දිනටත් 27 වෙනිදා සිදුකළහ.
-
-Inspecting the main paddy mills and small and medium-scale mills, which cannot be tested on the 26th
-
-The Consumer Service Authority of the 27th to the 27th to Dudley Sirisena, the Polonnaruwa district is being collected and rice is produced in the Polonnaruwa district, has come to the Customer Service Authority.
-
-...
-
-[Data](articles/5fff835a.json)
-
-[Extended Data](ext_articles/5fff835a.ext.json)
-
----
-
-### The Anuragumara government does not last three months - Ranil
-
-*2024-10-27 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197266) · `ta`
-
-Ranil Wickremesinghe predicts Anura Kumara Dissanayake's government won't last three months. He claims lack of majority support and warns against short-term leadership.
-
-🟩
-
-I don't think this government will last for more than three months. Former President Ranil Wickremesinghe has said that three weeks will not last for three weeks.
-
-Former President Ranil Wickremesinghe, who has said that I have no majority.
-
-He said this at an election campaign meeting in Negombo
-
-The President has said that if I lose the election, the President has said that the majority does not vote, and I am not a majority of President Anura Kumaradisanayake, who is not a majority.
-
-One day I asked me if I was ready to be Prime Minister.
-
-He said that all would accept this, and then I accepted the challenge to meet the president.
-
-When the parliament was surrounded by the presidency of the time, there was no one, and now all who demanded leadership fled.
-
-People say that Anura Kumaratisanayake will hold office for three months. I do not do so. He must continue his post.. Do not do such things.
-
-But I do not think that this government will last even three months.
-
-...
-
-[Data](articles/194e905a.json)
-
-[Extended Data](ext_articles/194e905a.ext.json)
-
----
-
-### FCI. Return?
-
-*2024-10-27 19:17:05* · [`adalk`](https://www.ada.lk/breaking_news/එෆ්-සී-අයි-ඩී--යළිත්-බලාත්මක-කරයි-/11-412703) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Corruption cases from 5 years ago being reopened. Senior police officer involved in embezzlement scandal. Former president accused of investigating own family's defense contracts. Several officials implicated in corruption schemes. Legal action planned against corrupt individuals. High-level discussions ongoing regarding the matter.
-
-🟩
-
-According to internal sources of the Ministry of Law and Order, according to the Ministry of Law and Order to revolve corruption files about five years ago.
-
-The majority of the 180 officers who were appointed by the Cabinet approved during the public season, the majority of all other officers were able to be used to his protection.The Curved Currencycle was laid.
-
-The following commission was established in the leading corruption (phemental corruption transaction was carried out in 24 hours)..
-
-A senior Superintendent of Police had acted in a highlight of the government's highlights from the government's highlights of the FD I de Cycline Department.
-
-Sources say that the officer is also surprising that the officer has handed over a division.
-
-The officers served in the division also had also been cut off for the monthly allowance of Rs. 3000 / = per month.
-
-Former President Gotabhaya Rajapaksa was charged with the investigation of the father's tomb during the defense secretary.
-
-...
-
-[Data](articles/9091d12f.json)
-
-[Extended Data](ext_articles/9091d12f.ext.json)
-
----
-
-### Suspect arrested with a 700-page book in Colombo
-
-*2024-10-27 19:08:06* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-මර්මස්ථානවල-රූප-සටහන්-ඇති-පිටු-700ක-පොතක්-සමග-සැකකරුවෙක්-අල්ලයි/11-412702) · `si`
-
-Colombo: Suspect arrested with 700-page book. Cinnamon Gardens Police custody. Business partner investigation. Wife interviewed. Detention orders issued. Chief Inspector Luck Bandara Senanayake leading inquiry.
-
-🟩
-
-Cinnamon Gardens Police say that a single Embassy in the Cinnamonuwaththa Javanda jetta road has been taken into custody by a mobile phone in Colombo and surrounding areas.
-
-In addition to that book, the book of elite has been taken into police custody, a book and a date book provided by the Suspect's conversation and the addresses of the suspect.
-
-Suspect's Special Task Force officials arrested by a STF personnel arrested and handed over to the Cinnamon Gardens Police for further investigations
-
-Police investigations have revealed that the person who had been engaged in business with a brother in Markkotuwa, Colombo has been removed from these activities, about six months ago. "
-
-The 54-year-old suspect is a resident of Yagodamammulla area and one child is married and is married and is married to the other
-
-...
-
-[Data](articles/abdc6521.json)
-
-[Extended Data](ext_articles/abdc6521.ext.json)
-
----
-
-### Rice and paddy consignment report to be handed over to the president tomorrow
-
-*2024-10-27 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202624) · `si`
-
-Consumer Affairs Authority submits rice/paddy report to President Anura Kumara Dissanayake tomorrow. Report covers data from rice mills in Anuradhapura, Polonnaruwa, Ampara, and Hambantota districts. Secretary Wickremesinghe confirms implementation progress.
-
-🟩
-
-President Anura Kumara Dissanayake will be handed over to the report of the Consumer Affairs Authority regarding the rice and paddy authority in the country tomorrow (28).
-
-Secretary, Ministry of Agriculture MPNM. Mr. Wickremesinghe said that the report is currently being implemented.
-
-The Consumer Affairs Authority has taken data on rice and bulk of rice and paddy in rice mills in Anuradhapura, Polonnaruwa, Ampara and Hambantota.
-
-◼️
-
-[Data](articles/68ac2eb9.json)
-
-[Extended Data](ext_articles/68ac2eb9.ext.json)
-
----
-
-### Meeting between Sri Lanka and Pakistan Air Force commanders
-
-*2024-10-27 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197277) · `ta`
-
-Sri Lanka and Pakistan Air Force commanders met at Pakistani Air Force HQ in Islamabad. Discussion focused on military training in the region.
-
-🟩
-
-பாகிஸ்தான் விமானப்படைத் தளபதி எயார் மார்ஷல் சஹீர் அஹமட்டின் அழைப்பின் பேரில், விமானப்படைத் தளபதி எயார் மார்ஷல் உதேனி ராஜபக்ச, பிராந்தியத்தில் இராணுவப் பயிற்சியை அவதானிப்பதற்காக பாகிஸ்தான் சென்றுள்ளார்.
-
-The Air Force Media Unit said there was an official discussion between the two Air Force commanders at the Pakistani Air Force headquarters in Islamabad.
-
-◼️
-
-[Data](articles/ed09ccde.json)
-
-[Extended Data](ext_articles/ed09ccde.ext.json)
-
----
-
-### SLAF Commander calls on Pakistan Air Force chief, discuss regional security
-
-*2024-10-27 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102962/slaf-commander-calls-on-pakistan-air-force-chief-discuss-regional-security-) · `en`
-
-The Commander of the Sri Lanka Air Force (SLAF), Air Marshal Udeni Rajapaksa, had visited Pakistan to observe Exercise Indus Shield-2024 and paid an official call on the Chief of the Air Staff, Pakistan Air Force (PAF), Air Chief Marshal Zaheer Ahmed Baber Sidhu, at Air Headquarters, Islamabad yesterday (25).
-
-The key topics focused on regional security and operational cooperation, Sri Lanka Air Force said in a statement.
-
-The Exercise Indus Shield-2024, a leading military exercise in the region, displayed Pakistan Air Force’s (PAF) advanced multi-domain warfighting capabilities, with Air Chiefs and senior military officials from allied countries attending. The exercise emphasized the importance of global Air Forces’ collaboration.
-
-Air Marshal Rajapaksa was accorded a guard of honour by a smartly turned-out PAF contingent, the statement added.
-
-...
-
-[Data](articles/d258c3f2.json)
-
-[Extended Data](ext_articles/d258c3f2.ext.json)
-
----
-
-### Sri Lanka to benefit the final battle
-
-*2024-10-27 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202623) · `si`
-
-Sri Lanka wins toss, elects to bat. Tournament started in 2013. Sri Lanka reached finals twice before. This is Afghanistan's first final appearance.
-
-🟩
-
-Sri Lanka captain Winthuniye Fernando won the toss and elected to the toss and elected to the toss.
-
-The tournament commenced in 2013 as Asian under 23 years of Asia, the event will be held this year.
-
-In two previous occasions (2017, 2018), Sri Lanka has played the final.
-
-However, this is the first and the same chance of Afghanistan's finals.
-
-◼️
-
-[Data](articles/b9fe55cf.json)
-
-[Extended Data](ext_articles/b9fe55cf.ext.json)
-
----
-
-### "Prabhakaran is not in Benner"
-
-*2024-10-27 18:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவெக-பெனரில்-பிரபாகரன்-இல்லை/175-346136) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Seeman criticizes Vijay's alliance plans, denies Prabhakaran involvement. Discusses Tamil party ideology, symbol choices. Expresses uncertainty about convention turnout due to rain.
-
-🟩
-
-In Madurai, Vijay said that Vijay should decide on forming an alliance with the Tamil party.
-
-The Chief Coordinator of the Tamil party, Seeman, paid homage to the statues of Marudu Pandiyas in Madurai Theppakulam area in front of the Marudupandiyas Kurupuja.
-
-He later told reporters: I hope that Vijay's Tawga conference in Vikravandi will have an impact on the people.. Because when a new political party begins, people have to have an impact on. There is not so much support when we start the party. When the screen is in the world fame, people are more likely. We don't have that.
-
-...
-
-[Data](articles/7c9322f9.json)
-
-[Extended Data](ext_articles/7c9322f9.ext.json)
-
----
-
-### Japan election latest: Polls close; opposition projected to make gains
-
-*2024-10-27 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102961/japan-election-latest-polls-close-opposition-projected-to-make-gains) · `en`
-
-Japanese voters cast ballots in a lower house election on Sunday amid swirling uncertainty over the race.
-
-The focus will be on whether the ruling Liberal Democratic Party-Komeito coalition can maintain its majority, and what the results of the poll will mean for new Prime Minister Shigeru Ishiba.
-
-Voting ended at 8 p.m., with actual results rolling in later in the evening and into the following morning.
-
-Japan’s ruling Liberal Democratic Party and its coalition partner Komeito are at risk of losing their majority in the lower house of parliament in Sunday’s general election, Nikkei projected after polls closed.
-
-The main opposition Constitutional Democratic Party, or CDP, meanwhile, is expected to gain seats in the chamber, as is the Democratic Party for the People, amid public anger at the LDP over a political funds scandal involving dozens of its lawmakers.
-
-◼️
-
-[Data](articles/ab6694b9.json)
-
-[Extended Data](ext_articles/ab6694b9.ext.json)
 
 ---

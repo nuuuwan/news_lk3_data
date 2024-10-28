@@ -1,36 +1,128 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 06:45:24**
+As of **2024-10-28 07:28:26**
 
 ## Newspaper Stats
 
-*Scraped **51,733** Articles*
+*Scraped **51,740** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 412
-colombotelegraphcom | 523
 bbccomsinhala | 524
+colombotelegraphcom | 525
 islandlk | 3,080
 economynextcom | 3,146
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
-tamilmirrorlk | 7,153
+tamilmirrorlk | 7,155
 virakesarilk | 8,345
-adaderanasinhalalk | 8,991
+adaderanasinhalalk | 8,994
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,731 (100.0%) of 51,733 articles have been extended.
+51,734 (100.0%) of 51,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### වනඅලීන්ට දැම්ම විදුලියට පුංචි දරුවෙක් බිලිවෙයි
+
+*2024-10-28 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202633) · `si`
+
+විල්ගමුව - පේරකනත්ත ප්‍රදේශයේදී විදුලිසැර වැදී කුඩා දරුවෙකු මිය ගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ අවුරුදු 07 ක් වැයසැති නාමිනිගම, පේරකනත්ත ප්‍රදේශයේ පදිංචි පිරිමි ළමයෙකි.
+
+මියගිය දරුවාගේ දෙමාපියන් විසින් නිවස හා ගෙවත්ත වන අලින්ගෙන් ආරක්ෂා කර ගැනීම සඳහා විදුලි වැටක් සකස් කර ඇති අතර දෛනිකව සවස 06.00 ට විදුලිය සපයා පසුදින උදෑසන 06.00 ට එය විසන්ධි කිරීමට කටයුතු කර ඇත.
+
+නමුත් සිද්ධිය වූ දින විදුලිය විසන්ධි කිරීමට නිවැසියන්ට අමතක වී ඇති අතර මරණයට පත් වූ දරුවා නිවස පිටුපස පිහිටි දිවුල් ගසේ දිවුල් ඇහිඳීම සඳහා ගොස් සිටියදී මෙලෙස විදුලිසැර වැදී ඇති බව සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/1322a0dc.json)
+
+---
+
+### பிரிவினைவாதம், ஊழலை ஒழிக்க வேண்டும்: விஜய் அறிவிப்பு
+
+*2024-10-28 07:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரிவினைவாதம்-ஊழலை-ஒழிக்க-வேண்டும்-விஜய்-அறிவிப்பு/175-346156) · `ta`
+
+பிரிவினைவாதம், ஊழல் கலாச்சாரத்தை ஒழிக்க வேண்டும். 2026 சட்டப்பேரவை தேர்தலில் தனிப்பெரும்பான்மையோடு வெற்றி பெறுவோம். நம் கொள்கைகளை ஏற்றுக்கொண்டு வருபவர்களுக்கு ஆட்சி, அதிகாரத்தில் பங்களித்து அதிகாரப் பகிர்வு செய்யப்படும் என்று தமிழக வெற்றிக் கழகத்தின் முதல் மாநில மாநாட்டில் கட்சித் தலைவர் விஜய் தெரிவித்துள்ளார்.
+
+விழுப்புரம் மாவட்டம் விக்கிரவாண்டி அடுத்த வி.சாலை கிராமத்தில் ‘வெற்றி கொள்கை திருவிழா’ என்ற பெயரில் தமிழக வெற்றிக் கழகம் கட்சியின் முதல் மாநில மாநாடு நேற்று பிரம்மாண்டமாக நடைபெற்றது. தமிழ்த்தாய் வாழ்த்துடன் மாநாட்டு நிகழ்வுகள் தொடங்கின. கட்சியின் பொருளாளர் வெங்கட்ராமன் தலைமையில் விஜய் உள்ளிட்ட அனைவரும் உறுதிமொழி ஏற்றனர். பின்னர், கொள்கைகளை விளக்கி விஜய் உரையாற்றுகையில்,
+
+...
+
+[Data](articles/4f4c74fe.json)
+
+---
+
+### நாட்டின் சில பகுதிகளில் 50 மில்லி மீற்றர் மழை
+
+*2024-10-28 07:14:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-50-மில்லி-மீற்றர்-மழை/175-346155) · `ta`
+
+நாட்டின் பல பகுதிகளில் இன்று மழையுடனான வானிலை பதிவாகக் கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேல், சப்ரகமுவ, வடமேல் மாகாணங்களிலும் காலி, மாத்தறை மற்றும் மன்னார் மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகிறது.
+
+மேல், சப்ரகமுவ, வடமேல் மாகாணங்களின் சில பகுதிகளில் 50 மில்லிமீற்றர் வரையான மழைவீழ்ச்சி பதிவாகக் கூடிய சாத்தியம் நிலவுகிறது எனவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/2f869fa6.json)
+
+---
+
+### විදුලි ගාස්තු සංශෝධනය ගැන මහජන උපයෝගීතා කොමිසම අමතර තොරතුරු ඉල්ලයි
+
+*2024-10-28 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202632) · `si`
+
+විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් අවශ්‍ය අමතර තොරතුරු ඉල්ලා අද (28) දිනයේ දී ලංකා විදුලිබල මණ්ඩලය දැනුවත් කිරීමට පියවර ගන්නා බව ශ්‍රී ලංකා මහජන උපයෝගිතා කොමිෂන් සභාව පවසයි.
+
+මේ වසරේ තුන්වැනි කාර්තුමය සමාලෝචනය වෙනුවෙන් ලංකා විදුලිබල මණ්ඩලය සිදුකළ යුතු ගාස්තු සංශෝධනය සඳහා වන යෝජනාව එම කොමිෂන් සභාවට පසුගිය දා ඉදිරිපත් කර තිබුණි.
+
+මහජන උපයෝගිතා කොමිසමේ ආයතනික සන්නිවේදන අධ්‍යක්ෂ ජයනාත් හේරත් මහතා සඳහන් කළේ, යෝජිත සමාලෝචනයන් අද දිනයේ දී මහජන උපයෝගිතා කොමිසමේ නිලධාරීන් රැස්වී සාකච්ඡා කිරීමට නියමිත බවය.
+
+ඒ අනුව කොමිෂන් සභාවට අමතර සංශෝධන අවශ්‍ය නම් සහ ඉදිරි ක්‍රියාමාර්ග සම්බන්ධයෙන් විදුලිබල මණ්ඩලය ලිපියක් මඟින් දැනුවත් කිරීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/6cca7085.json)
+
+---
+
+### Heavy rains at several places
+
+*2024-10-28 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202630) · `si`
+
+Heavy rains expected in Western, Sabaragamuwa, North Western provinces and Galle, Matara, Mannar districts. Showers/thundershowers possible elsewhere. Strong winds reported in Trincomalee, Hambantota districts. Thunderstorm warnings issued.
+
+🟩
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces and in the Galle, Matara and Mannar districts.
+
+Showers or thundershowers will occur at several places in the evening or night in the rest of the island.
+
+MM to some places in the Western, Sabaragamuwa, North Western, Uva and Eastern Provinces. Shorters can occur in more than 50.
+
+From the Trincomalee, North Central and North Western provinces, now in Trincomalee and Hambantota districts.. There are about 40 strong winds.
+
+The people have been asked to take necessary steps to reduce the temporary winds and lightning accidents caused by thunderstorms.
+
+◼️
+
+[Data](articles/022327ac.json)
+
+[Extended Data](ext_articles/022327ac.ext.json)
+
+---
 
 ### NPP wins Elpitiya Pradeshiya Sabha election
 
@@ -438,6 +530,18 @@ The greatest challenge for policymakers and tax administrators is to establish a
 
 ---
 
+### Child’s Guide To Critics Of IMF’s Debt Sustainability Analysis
+
+*2024-10-28 01:30:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-critics-of-imfs-debt-sustainability-analysis/) · `en`
+
+Aseni, the whiz kid of economics has come across a report by the Nobel Laureate Joseph E. Stiglitz and former Argentinian Economy Minister Martin Guzmán critiquing IMF’s Debt Sustainability Analysis, known as DSA[1]. This report has been prepared by them for the faith, development, and advocacy group Jubilee-USA Network and the USA branch of the German foundation, Friedrich Ebert Stiftung, for submission to IMF to enable it to consider how its standard DSA should be revised. Aseni has found that it is a technical subject that needs the support of her grandfather, Sarath Mahatthaya, an ex-Finance Ministry Official, to understand it. This led to an interactive dialogue between the two.
+
+...
+
+[Data](articles/ba685077.json)
+
+---
+
 ### Our Tamil National People's Front is the only team that rejects a single government - Gajendrakumar Ponnambalam
 
 *2024-10-28 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197287) · `ta`
@@ -589,6 +693,22 @@ Whoever gets the mandate to form the next Government needs to identify the struc
 [Data](articles/af69b798.json)
 
 [Extended Data](ext_articles/af69b798.ext.json)
+
+---
+
+### “Israel Has A Right To Defend Itself”
+
+*2024-10-28 00:43:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/israel-has-a-right-to-defend-itself/) · `en`
+
+If you depend on mainstream western media to learn about world events, the above will have been drilled into your mind over the past year or so.
+
+The attempted breakout from the concentration camp (a reference to Gaza by several internationally recognized personalities over a long time) on 7th Oct 2023 has been widely promoted as an unprovoked act of “genocide” by the resistance groups who had been refugees for generations.
+
+I would like to acknowledge material from the many interviews and presentations by world renown academics such as John Mearsheimer, Jeffrey Sachs, Norman Finkelstein, M. Marandi, Ilan Pappe’, Vijay Prasad (with Noam Chomsky), military analysts such as Scott Ritter, Douglas Macgregor and others which have greatly influenced my views.
+
+...
+
+[Data](articles/a04f4295.json)
 
 ---
 
@@ -2155,145 +2275,5 @@ This year's Asian Netball Championship was held in Bangalore, where India was un
 [Data](articles/e5935cc2.json)
 
 [Extended Data](ext_articles/e5935cc2.ext.json)
-
----
-
-### African swine fever to Sri Lanka
-
-*2024-10-27 15:07:26* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රිකානු-සූකර-උණ-ශ්‍රී-ලංකාටත්/11-412699) · `si`
-
-African swine fever detected in Sri Lankan pigs. Disease control measures implemented nationwide to prevent further spread.
-
-🟩
-
-African swine flu is diagnosed with the disease that has spread between Sri Lankan pigs.
-
-Accordingly, the disease needs to be required to prevent the rest of the country.
-
-◼️
-
-[Data](articles/f1d22b42.json)
-
-[Extended Data](ext_articles/f1d22b42.ext.json)
-
----
-
-### Police firing on lorry
-
-*2024-10-27 15:06:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறி-மீது-பொலிஸார்-துப்பாக்கிச்-சூடு/175-346117) · `ta`
-
-Sri Lanka: Solarwewa police fired on lorry during traffic raid. Vehicle ignored police signals, stopped after tire fire. Driver arrested, found with 17 cows. Incident occurred near Meegahajadura.
-
-🟩
-
-Solarwewa police have opened fire on a lorry that failed to stop during a traffic raid in Meegahajadura.
-
-Police said the lorry traveling from Lunugamvevara to Suryawewa was driven without respecting the signals of the police and therefore the vehicle was stopped after a fire on a tire of the vehicle.
-
-It was revealed that the driver was arrested by police and carrying 17 cows in the lorry.
-
-◼️
-
-[Data](articles/5ce8b878.json)
-
-[Extended Data](ext_articles/5ce8b878.ext.json)
-
----
-
-### President Anura India should handle China formally - Vasantha Senanayake
-
-*2024-10-27 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197222) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"President Anura Bandaranaike should address China formally: Vasantha Senanayake. After 1948 independence, Ceylon signed defense pact with Britain. British troops stationed in Trincomalee till 1972. Their presence opposed foreign intervention during Sri Lanka conflicts."
-
-🟩
-
-After gaining independence in 1948, TS in the Defense Agreement with Britain. According to Senanayake's signing, the British security forces were camps in Trincomalee until 1972. During this period, British forces were in opposition to those countries if other countries had intervened or waged war against Sri Lanka.
-
-◼️
-
-[Data](articles/a41d1b93.json)
-
-[Extended Data](ext_articles/a41d1b93.ext.json)
-
----
-
-### A foreign couple arrested for illegally staying in Kandy without a visa
-
-*2024-10-27 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197241) · `ta`
-
-Foreign couple arrested Kandy illegal stay no visa police action
-
-🟩
-
-A foreign couple who were staying in the country without a visa were arrested by the police on Saturday (26) in the Handana area of ​​the Kandy Police Division.
-
-They were arrested on the basis of information received by a team of officials of the Kandy Tourism Police Division.
-
-◼️
-
-[Data](articles/3326c468.json)
-
-[Extended Data](ext_articles/3326c468.ext.json)
-
----
-
-### We will not give up in the provincial council;We will conduct the rights - Chandrasekaran
-
-*2024-10-27 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/197233) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"We won't give up in the provincial council. We'll fight for our rights. The JVP and NPP don't address Tamil issues. Their solutions lack compassion and understanding. They blame Buddhists for problems, fueled by social media and politics."
-
-🟩
-
-“While talking about the approach to solving the national problem, the JVP. The NPP. The comments that are continuously put forward.. They do not solve the problems of the Tamil people, and they will not show compassion, and they are the religious people, the Buddhist, and the behind the faults of the Buddhist, is the idea that is created by social networks and politicians .... ”
-
-◼️
-
-[Data](articles/9d01ff72.json)
-
-[Extended Data](ext_articles/9d01ff72.ext.json)
-
----
-
-### The role of tax and revenue collection sectors for the country's economic advancement
-
-*2024-10-27 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197216) · `ta`
-
-Tax and revenue collection crucial for economic growth. Registrar's Department regulates businesses, ensuring financial and legal stability. Challenges arise from non-compliance, fraudulent records, and poor implementation affecting overall development.
-
-🟩
-
-The Registrar's Department of Companies plays an important role in regulating businesses in Sri Lanka and confirms the country's financial and legal framework. However, the Registrar's Department faces challenges due to lack of compliance with the Registrar's Department, fraudulent records and the general lack of implementation.
-
-◼️
-
-[Data](articles/7e8f648a.json)
-
-[Extended Data](ext_articles/7e8f648a.ext.json)
-
----
-
-### Measures in place to control PRRS spread in Sri Lanka - Authorities
-
-*2024-10-27 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102958/measures-in-place-to-control-prrs-spread-in-sri-lanka-authorities-) · `en`
-
-The recently spreading swine disease ‘Porcine Reproductive & Respiratory Syndrome’ (PRRS) has been identified as an African Swine Disease, says the Department of Animal Production and Health.
-
-Furthermore, the department assured that measures have been taken to control its spread in the island.
-
-◼️
-
-[Data](articles/70c0c0c5.json)
-
-[Extended Data](ext_articles/70c0c0c5.ext.json)
 
 ---

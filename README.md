@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 15:59:00**
+As of **2024-10-28 16:13:48**
 
 ## Newspaper Stats
 
-*Scraped **51,825** Articles*
+*Scraped **51,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,128 @@ economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,817
-adaderanalk | 6,138
-tamilmirrorlk | 7,173
-virakesarilk | 8,356
+adaderanalk | 6,140
+tamilmirrorlk | 7,174
+virakesarilk | 8,362
 adaderanasinhalalk | 9,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,824 (100.0%) of 51,825 articles have been extended.
+51,825 (100.0%) of 51,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Egypt proposes 2-day truce in Gaza, release of 4 hostages
+
+*2024-10-28 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102985/egypt-proposes-2-day-truce-in-gaza-release-of-4-hostages) · `en`
+
+Egypt’s president says proposal would see talks resuming within 10 days of two-day truce to forge permanent ceasefire.
+
+Egyptian President Abdel Fattah al-Sisi on Sunday proposed a two-day truce in Gaza and limited hostage exchange aimed at securing “a complete ceasefire” after more than a year of war between Israel and Hamas.
+
+The proposal includes exchanging four Israeli hostages held in Gaza for Palestinian prisoners in Israeli jails, and would be followed by more negotiations within 10 days, Sisi said at a news conference in Cairo.
+
+He did not say whether the plan had been formally presented to either Israel or Hamas.
+
+Do you have questions about the biggest topics and trends from around the world? Get the answers with SCMP Knowledge, our new platform of curated content with explainers, FAQs, analyses and infographics brought to you by our award-winning team.
+
+...
+
+[Data](articles/543c72e0.json)
+
+---
+
+### Nishantha Perera to be appointed Elpitiya PS chairman?
+
+*2024-10-28 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102984/nishantha-perera-to-be-appointed-elpitiya-ps-chairman) · `en`
+
+The equal distribution of seats between the National People’s Power (NPP) and opposition parties will have no effect on maintaining the activities of the Elpitiya Pradeshiya Sabha, according to former Election Commission Chairman Mahinda Deshapriya. The NPP had secured 15 seats while the remaining 15 seats were divided among the various opposition groups.
+
+Nishantha Perera, who contested as the NPP Group Leader, is tipped to be appointed as the new Chairman of the Elpitiya Pradeshiya Sabha. The election for the local council was held last Saturday (26), under a combination of the constituency level and the proportional representation system.
+
+...
+
+[Data](articles/2f0a80c9.json)
+
+---
+
+### ஷேக் ஹசீனாவை பங்களாதேஷுக்கு அனுப்பக்கோரி கொழும்பிலுள்ள இந்திய தூதரகத்திற்கு அருகே ஆர்ப்பாட்டம்
+
+*2024-10-28 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197321) · `ta`
+
+இலங்கை- பங்களாதேஷ் நட்புறவு பேரவையின் ஏற்பாட்டில் இன்று திங்கட்கிழமை (28)  கொழும்பில் அமைந்துள்ள இலங்கைக்கான இந்திய தூதரகத்திற்கு அருகில் ஆர்ப்பாட்டம் ஒன்று நடைபெற்றது.
+
+கடந்த சில மாதங்களுக்கு முன்னர் பங்களாதேஷில் அந்நாட்டு மாணவ இயக்கங்கள், எதிர்கட்சியினர், இஸ்லாமிய அமைப்புகள் மற்றும் மக்கள் திரண்டு கிளர்ச்சி ஒன்று ஏற்படுத்தப்பட்டு அப்போதைய பிரதமராக இருந்த ஷேக் ஹசீனாவின் தலைமையிலான ஆட்சி கவிழ்க்கப்பட்டது.
+
+அதன்போது பல கிளர்ச்சியாளர்கள் மற்றும் பொதுமக்கள் ஷேக் ஹசீனாவின் தலைமையிலான அரசாங்கத்தினால் கொல்லப்பட்டனர். இதனால் உக்கிரமடைந்த கிளர்ச்சியால் முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் தலைமையிலான 45 பேர் இந்தியாவுக்கு தப்பி சென்றனர்.
+
+முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் தலைமையிலான அரசாங்கத்திற்கு எதிராக அந்நாட்டு  உயர் நீதிமன்றத்தில் பல  வழக்குகள் தாக்கல் செய்யப்பட்டன. அதனடிப்படையில் அவர்களை கைது செய்ய அந்நாட்டு நீதிமன்றம் உத்தரவு பிறப்பித்துள்ளது.
+
+...
+
+[Data](articles/7b5cb0c0.json)
+
+---
+
+### குருவிட்டவில் கார் மோதி பாதசாரி உயிரிழப்பு !
+
+*2024-10-28 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197317) · `ta`
+
+குருவிட்ட பொலிஸ் பிரிவிற்கு உட்பட்ட கொழும்பு – இரத்தினபுரி பிரதான வீதியில் மில்லவிட்டிய பிரதேசத்தில் கார் மோதி பாதசாரி ஒருவர் உயிரிழந்துள்ளதாக குருவிட்ட பொலிஸார் தெரிவித்தனர்.
+
+கொழும்பிலிருந்து இரத்தினபுரி நோக்கிப் பயணித்த கார் ஒன்று வீதியில் பயணித்த பாதசாரி மீது மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+விபத்தில் காயமடைந்த பாதசாரி இரத்தினபுரி வைத்தியசாலையில்  அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/b691b39f.json)
+
+---
+
+### யாழ் - கொழும்பு புகையிரத சேவைகள் மீள ஆரம்பம் !
+
+*2024-10-28 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/197320) · `ta`
+
+கொழும்பு - யாழ்ப்பாணத்திற்கான நேரடி புகையிரத சேவைகள் சுமார் 10 மாதங்களுக்கு பின்னர் மீண்டும் இன்றைய தினம் திங்கட்கிழமை (28)  ஆரம்பிக்கப்பட்டுள்ளது.
+
+கொழும்பு கோட்டை புகையிரத நிலையத்தில் இருந்து இன்றைய தினம் திங்கட்கிழமை காலை 05.45 மணிக்கு புறப்பட்ட புகையிரதம் மதியம் 01.10  மணியளவில் யாழ்ப்பாண புகையிரத நிலையத்தை சென்றடைந்தது.
+
+யாழ்ப்பாணம் - கொழும்புக்கு இடையிலான புகையிரத சேவைகள் உள்நாட்டு யுத்தம் காரணமாக வவுனியாவுடன் சேவைகள் மட்டுப்படுத்தப்பட்டிருந்தன.
+
+யுத்தம் மௌனிக்கப்பட்ட பின்னர் மீண்டும் 2014ஆம் ஆண்டு முதல் கொழும்பு - யாழ்ப்பாண சேவைகள் மீண்டும் ஆரம்பிக்கப்பட்டன.
+
+இந்நிலையில் கடந்த 2023 ஆம் ஆண்டு வவுனியாவிற்கும் அனுராதபுரத்திற்கும் இடைப்பட்ட புகையிரத பாதை புனரமைப்பு பணிகளுக்காக கொழும்பில் இருந்து புறப்பட்ட புகையிரதம் அனுராதபுரத்துடனும் , யாழில் இருந்து புறப்படும் புகையிரதம் வவுனியாவுடனும் சேவையை மட்டுப்படுத்தின.
+
+...
+
+[Data](articles/152297ae.json)
+
+---
+
+### பாறை இடுக்கில் தலைகீழாக சிக்கிய பெண்
+
+*2024-10-28 15:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாறை-இடுக்கில்-தலைகீழாக-சிக்கிய-பெண்/50-346203) · `ta`
+
+பெண் ஒருவர் நடைபயணம் சென்ற போது கீழே விழுந்த செல்போனை எடுக்க முயன்றபோது, இரு பாறைகளுக்கு நடுவே பல மணிநேரம் தலைகீழாக சிக்கிக்கொண்டார். இந்த சம்பவம்,  ஆஸ்திரேலியாவில் இடம்பெற்றுள்ளது.
+
+மெட்டில்டா கேம்பெல் எனும் அப்பெண் இம்மாத தொடக்கத்தில் நியூ சௌத் வேல்ஸ் ஹண்டர் பள்ளத்தாக்குப் பகுதியில் நடந்து சென்ற போது, பாறை இடுக்கில் தவறி விழுந்தார்.
+
+அவரை சுமார் ஏழு மணிநேரம் போராடி மீட்க வேண்டியிருந்தது. பாறைகளை நகர்த்துவது உட்பட “சவாலான” மீட்புப்பணிகளை அவசர சேவை பிரிவினர் மேற்கொள்ள வேண்டியிருந்தது.
+
+500 கிலோ எடையுள்ள பாறையை வெளியே எடுத்த போதிலும், அப்பெண் சிக்கியிருந்த “எஸ்” வடிவிலான வளைவிலிருந்து அவரை மீட்க மேலும் பல பணிகளை அவர்கள் மேற்கொள்ள வேண்டியிருந்தது.
+
+மீட்புக்குழுவினர் சம்பவ இடத்திற்கு வருவதற்கு முன்னதாக ஒரு மணி நேரத்திற்கும் மேலாக அப்பெண் தலைகீழாக இருந்துள்ளார். அவரை மீட்பதற்கு அவரின் நண்பர்கள் மேற்கொண்ட முயற்சிகள் பலனளிக்கவில்லை.
+
+...
+
+[Data](articles/f6346fb4.json)
+
+---
 
 ### ‘There is no travel ban on Sri Lanka’ – US Ambassador
 
@@ -49,6 +157,22 @@ Speaking during an event on Monday (28), she stated that one of her duties as a 
 [Data](articles/04845ba4.json)
 
 [Extended Data](ext_articles/04845ba4.ext.json)
+
+---
+
+### 'நாங்கள் அறுகம் குடா ஆபத்து குறித்து தகவல்களை வழங்கினோம் இலங்கை அரசாங்கம் துரிதமாக செயற்பட்டது - அமெரிக்கா பயண தடைவிதிக்கவில்லை" - ஜூலி சங்
+
+*2024-10-28 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197315) · `ta`
+
+இலங்கையர்களினதும் இலங்கைக்கு விஜயம் மேற்கொள்பவர்களினதும் பாதுகாப்பை உறுதி செய்வதற்கு அமெரிக்கா இலங்கை அரசாங்கத்துடன் தொடர்ந்து இணைந்து செயற்படுகின்றது என இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சங் தெரிவித்துள்ளார்.
+
+பாதுகாப்பு அச்சுறுத்தல்களிற்கு தீர்வை காண்பதில் இலங்கைக்கும் அமெரிக்காவிற்கும் இடையிலான ஒத்துழைப்பு குறித்து நான் பெருமிதம் கொள்கின்றேன்.அமெரிக்கா இலங்கை குறித்து போக்குவரத்து தடை எதனையும் நடைமுறைப்படுத்தவில்லை என அவர் தெரிவித்துள்ளார்
+
+இலங்கையில் உள்ள அனைத்து அமெரிக்கர்களினதும் பாதுகாப்பை உறுதி செய்யவேண்டிய தனது கடமையை வலியுறுத்தியுள்ள அவர் நம்பகதன்மை மிக்;க பாதுகாப்பு அச்சுறுத்தல்கள் குறித்து தூதரக பணியாளர்கள்,அமெரிக்க பிரஜைகள் மற்றும் பாதுகாப்பு அச்சுறுத்தல் நிலவும் நாடு ஆகிய தரப்புடன் தகவல்களை பகிர்ந்துகொள்ளவேண்டும் எச்சரிக்கும் கடமை கொள்கை குறித்த ஆணைபற்றியும் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/1ca9e126.json)
 
 ---
 
@@ -142,6 +266,44 @@ Speaking at a public rally in Padukka, she pointed out that even though the form
 
 ---
 
+### லண்டனிலிருந்து உறவினரை பார்க்க வந்தவர் திடீரென உயிரிழப்பு
+
+*2024-10-28 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197314) · `ta`
+
+லண்டனிலிருந்து உறவினரைப் பார்க்க வந்தவர் மயங்கிய நிலையில் வைத்தியசாலையில் சேர்க்கப்பட்டு அங்கு திடீரென உயிரிழந்துள்ளார்.
+
+கணேசராசா தியாகராசா (வயது-56) என்பவரே இவ்வாறு உயிரிழந்துள்ளார். கல்வியங்காட்டிலுள்ள உறவினரைப் பார்ப்பதற்காக லண்டனிலிருந்து வந்த இவர், கடந்த 17ஆம் திகதி பேருந்தில் சென்றுள்ளார்.
+
+பேருந்தில் மயங்கிய நிலையில் யாழ்ப்பாணம் வைத்தியசாலையில் சேர்க்கப்பட்டு, நேற்றுக் காலை (27) உயிரிழந்துள்ளார்.
+
+இறப்பு விசாரணையை யாழ்ப்பாணம் போதனா வைத்தியசாலையின் திடீர் இறப்பு விசாரணை அதிகாரி ந.பிறேமகுமார் மேற்கொண்டார். சடலம் உடற்கூற்றுப் பரிசோதனைக்கு உத்தரவிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6fc64514.json)
+
+---
+
+### சனல் 4 வீடியோவில் மிக முக்கிய அதிகாரி என  குறிப்பிடப்படுபவர் யார் ? விசாரணையை கோருகின்றார் உதயகம்மன்பில
+
+*2024-10-28 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197311) · `ta`
+
+உயிர்த்த ஞாயிறுதாக்குதல் குறித்த சனல்4 வீடியோவில் மிக முக்கிய அதிகாரி என குறிப்பிடப்படும் நபர் யார் என்பது குறித்து அரசாங்கம் விசாரணைகளை மேற்கொள்ளவேண்டும் என முன்னாள் நாடாளுமன்ற உறுப்பினர் உதயகம்மன்பில வேண்டுகோள் விடுத்துள்ளார்.
+
+சனல் 4இன் வீடியோ குறித்து விசாரணை செய்த விசேட குழுவின் அறிக்கையை இன்று செய்தியாளர் மாநாட்டில் வெளியிட்டவேளை அவர் இந்த வேண்டுகோளை விடுத்துள்ளார்.
+
+முன்னைய அரசாங்கம் நியமித்த ஒய்வுபெற்ற உயர்நீதிமன்ற  நீதிபதி எஸ் ஐ இமாம் குழுவின் அறிக்கையை உதயகம்மன்பில வெளியிட்டுள்ளார்.
+
+அந்த வீடியோவில் மிக முக்கிய அதிகாரி என  குறிப்பிடப்படும் நபர் யார் என்பது குறித்து விசாரணைகளை மேற்கொள்வதற்காக குழுவொன்றை நியமிக்குமாறு அரசாங்கத்திற்கு நான் சவால் விடுக்கின்றேன்.
+
+சனல் 4இன் வீடியோவில் புலனாய்வுஅதிகாரிகளையும் இராணுவத்தினரையும் குற்றம்சாட்டும் நபர் தான் அரசாங்கத்தின் உயர் அதிகாரி என்ற தோற்றத்தை உருவாக்குகின்றார்,அந்த நபர் தற்போது அரசாங்கத்தில் உயர் பதவி வகிக்கின்றார் - அரசாங்கம் தேசத்துரோகத்திற்காக அவருக்கு எதிராக நடவடிக்கை எடுக்கவேண்டும்.
+
+◼️
+
+[Data](articles/a99cc977.json)
+
+---
+
 ### No tourism is banned in Sri Lanka - US Ambassador July Chang
 
 *2024-10-28 14:34:14* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවට-කිසිදු-සංචරක-තහනමක්-පනවා-නෑ---අමෙරිකානු-තානාපති-ජූලි-චන්ග්/11-412718) · `si`
@@ -159,6 +321,24 @@ He was speaking at a media briefing held in Colombo today (28), a media briefing
 [Data](articles/de0ad2cd.json)
 
 [Extended Data](ext_articles/de0ad2cd.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-10-28 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/197308) · `ta`
+
+Today's currency exchange rate: USD to INR. Buying rate: 289.0657, Selling rate: 298.1140.
+
+🟩
+
+இன்று திங்கட்கிழமை (28) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 289.0657 ரூபாவாகவும், விற்பனை விலை 298.1140  ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/77728101.json)
+
+[Extended Data](ext_articles/77728101.ext.json)
 
 ---
 
@@ -185,24 +365,6 @@ A large crowd was gathered at the rally at Ekanadi in Tamil Nadu.
 [Data](articles/3672de7a.json)
 
 [Extended Data](ext_articles/3672de7a.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-10-28 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197308) · `ta`
-
-Today's currency exchange rate: USD to INR. Buying rate: 289.0657, Selling rate: 298.1140.
-
-🟩
-
-இன்று திங்கட்கிழமை (28) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 289.0657 ரூபாவாகவும், விற்பனை விலை 298.1140  ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/77728101.json)
-
-[Extended Data](ext_articles/77728101.ext.json)
 
 ---
 
@@ -1540,25 +1702,37 @@ The Department of Railways has requested the public that the train will travel o
 
 ---
 
-### දේශපාලනයේ නිරත කාන්තාවන් ප්‍රධාන මාධ්‍යයේ සහ සමාජ මාධ්‍යවල වැඩි වශයෙන් ඉලක්ක වන්නේ ඇයි?
+### Why are women in politics are the most goal of the main media and social media?
 
 *2024-10-28 09:04:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c86q9g95331o) · `si`
 
-දේශපාලනයේ නිරත කාන්තාවන් ප්‍රධාන මාධ්‍යයේ සහ සමාජ මාධ්‍යවල වැඩි වශයෙන් ඉලක්ක වන්නේ ඇයි?
+Here's a 200-character summary:
 
-මහ මැතිවරණයට තවත් ඉතිරිව ඇත්තේ සති කිහිපයක් වන අතර, මේ වන විට මැතිවරණයට ඉදිරිපත් වන අපේක්ෂක අපේක්ෂිකාවන් සිය ප්‍රචාරණ කටයුතු ආරම්භ කර තිබේ.
 
-මැතිවරණය ආරම්භයට පෙර සිටි ම විවිධ පක්ෂවල අපේක්ෂකත්වය බලාපොරොත්තු වන කාන්තාවන් සම්බන්ධයෙන් සහ ඔවුන් කරන ප්‍රකාශ වාර්තා කිරීමේදී ඒවාට හිමි වන ප්‍රතිචාර සහ වාර්තා කරන ආකාරය පිළිබඳව බීබීසී සිංහල විසින් සොයා බැලීමක් සිදු කරන ලදී.
 
-එහිදී නිරීක්ෂණය වූයේ බොහෝ විට දේශපාලනික කටයුතුවල නියුතු කාන්තාවන් සම්බන්ධයෙන් සමාජ මාධ්‍යයේ හුවමාරු වන තොරතුරු සහ කරුණුවල සත්‍ය අසත්‍යතාව පිළිබඳව හෝ අවධානය යොමු නොකර බොහෝ පිරිසක් ඒවාට ප්‍රතිචාර දක්වන බව ය.
+Women in politics face intense scrutiny on social media and traditional media, with personal lives and appearances often under attack. This affects their ability to participate in politics and run for office. Media bias and lack of professional focus contribute to the challenges women face in political careers.
 
-එම ප්‍රතිචාර බොහෝ විට ලිංගිකත්වය ඉස්මතු වන ආකාරයෙන්, එම කාන්තාවන්ගේ පෞද්ගලික ජීවිතය සම්බන්ධ දේවල් මෙන් ම බොහෝවිට අසභ්‍ය වචන යොදා ගනිමින් සිදු කර ඇති ඒවා බව නිරීක්ෂණය විය.
+🟩
 
-පක්ෂ භේදයකින් තොරව මෙම තත්ත්වයට බොහෝ දේශපාලනයේ නිරත කාන්තාවන් ලක් ව තිබිණි.
+Why are women in politics are the most goal of the main media and social media?
+
+The general election remains a few weeks, and the candidate candidates contesting the election have already begun their propaganda.
+
+BBC was conducting a search for women who were looking for the candidature of various parties before the start of the election and the response and reports of their statements.
+
+There were often observed that many people respond to the actual false exchanged or focusing on social media for women in politics.
+
+Those responses were often observed that they were often used by these women's personal lives, as well as obscene words.
+
+Women in many politics were also in many politics without party differences.
+
+Colombo District candidate Ariyararatne points out that the ideologies and attitudes of women in politics to go to the women of politics.
 
 ...
 
 [Data](articles/07cffc98.json)
+
+[Extended Data](ext_articles/07cffc98.ext.json)
 
 ---
 
@@ -2069,163 +2243,5 @@ Among the company’s recent engagements were the involvement in Sri Lanka’s l
 [Data](articles/213ccc93.json)
 
 [Extended Data](ext_articles/213ccc93.ext.json)
-
----
-
-### Festive season kicks off at Anantara and Avani Kalutara Resorts
-
-*2024-10-28 02:50:00* · [`islandlk`](http://island.lk/festive-season-kicks-off-at-anantara-and-avani-kalutara-resorts/) · `en`
-
-The festive season commenced at Anantara Kalutara Resort and Avani Kalutara Resort with the launch of their first holiday event: a Christmas cake mixing ceremony. In a warm blend of tradition and luxury, guests and staff gathered to participate in the time-honored ritual, signaling the start of a celebratory agenda filled with festive cheer. The event, known for its lively atmosphere and rich culinary heritage, set the tone for what promises to be an indulgent and joyous holiday season.
-
-Sri Lankan ‘legal trailblazer’ in Japan making efforts to attract Japanese investors to Sri Lanka
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/b0fd338b.json)
-
-[Extended Data](ext_articles/b0fd338b.ext.json)
-
----
-
-### Coalition for Inclusive Impact launches cross-party dialogue series
-
-*2024-10-28 02:48:00* · [`dailyftlk`](https://www.ft.lk/news/Coalition-for-Inclusive-Impact-launches-cross-party-dialogue-series/56-768492) · `en`
-
-The “Our MP – Our Voice” dialogue series, organised by the Coalition for Inclusive Impact (CII) , got off to a successful beginning in Matara on 17 October and Kurunegala on 19 October.
-
-The platform, organised in a town hall format, seeks to connect local community and youth leadership with candidates across political parties vying to represent them. These forums are held under the theme of “Bridging local priorities with national policies”.
-
-Held at Dutchman’s Street in Matara Fort, participants at the forum quizzed the candidates who attended on their stances on issues including education reform and local economic development priorities. Three candidates from the Matara electoral district attended the forum, namely, Chameera Yapa Abeywardene (NDF), Subhashini Bulegoda (SLPP), and Rehan Jayawickreme (SJB). Invitations were also extended to candidates from other parties.
-
-...
-
-[Data](articles/3f2be519.json)
-
-[Extended Data](ext_articles/3f2be519.ext.json)
-
----
-
-### MSF Scientific Days – Asia 2024: Advancing humanitarian medical innovation and research across Asia
-
-*2024-10-28 02:44:11* · [`dailyftlk`](https://www.ft.lk/news/MSF-Scientific-Days-Asia-2024-Advancing-humanitarian-medical-innovation-and-research-across-Asia/56-768491) · `en`
-
-Atal Bihari Vajpayee Institute of Medical Sciences and Dr. Ram Manohar Lohia Hospital Director and Medical Superintendent Dr. Ajay Shukla
-
-Medecins Sans Frontieres (MSF)/Doctors Without Borders Scientific Days – Asia 2024 held at the India Habitat Centre on 25 October brought together over 200 researchers, academics, and patient representatives dedicated to advancing humanitarian medical innovation and research.
-
-The conference held in collaboration with Atal Bihari Vajpayee Institute of Medical Sciences and Dr. Ram Manohar Lohia (RML) Hospital featured a series of compelling presentations and discussions that highlighted the need for new solutions to health challenges in conflict-affected and resource-limited settings.
-
-...
-
-[Data](articles/75fea2ac.json)
-
-[Extended Data](ext_articles/75fea2ac.ext.json)
-
----
-
-### Pakistan High Commission in Colombo commemorates Kashmir Black Day
-
-*2024-10-28 02:35:41* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-High-Commission-in-Colombo-commemorates-Kashmir-Black-Day/56-768490) · `en`
-
-The High Commission of the Islamic Republic of Pakistan in Colombo organised a seminar/photo exhibition to mark the ‘Kashmir Black Day’ on 27 October. The event was attended by people from different walks of life, including the Pakistani community in Sri Lanka, journalists, writers, and friends of Kashmir. Messages from the President, Prime Minister, and Foreign Minister of the Islamic Republic of Pakistan were also read out for the audience.
-
-...
-
-[Data](articles/2f5dfb00.json)
-
-[Extended Data](ext_articles/2f5dfb00.ext.json)
-
----
-
-### Monin and Liquid Island partner to elevate Sri Lanka’s beverage industry
-
-*2024-10-28 02:34:00* · [`islandlk`](http://island.lk/monin-and-liquid-island-partner-to-elevate-sri-lankas-beverage-industry/) · `en`
-
-Liquid Island Sri Lanka, the exclusive distributor of World’s leading Syrup Monin, recently hosted a special visit from Felipe Valencia Santander, Beverage Expert from Monin in the Middle East to Sri Lanka.
-
-With over 100 years of expertise in syrups and beverage solutions, Monin is a family-run French company now present in over 150 countries. Renowned for their innovative beverage solutions, speed of use, quality and taste consistency, Monin offers the widest range of flavors in the syrup, puree, frappe and sauce categories.
-
-Felipe’s visit was a significant event for Sri Lanka’s beverage industry, drawing over 300 bartenders and baristas from across the country to participate in masterclasses and training sessions designed to elevate their craft and expand the possibilities within mixology.
-
-...
-
-[Data](articles/72e86af6.json)
-
-[Extended Data](ext_articles/72e86af6.ext.json)
-
----
-
-### Trident Corporation appointed as exclusive national distributor for vivo
-
-*2024-10-28 02:34:00* · [`islandlk`](http://island.lk/trident-corporation-appointed-as-exclusive-national-distributor-for-vivo/) · `en`
-
-Trident Corporation, a dominant force in Sri Lanka’s distribution landscape, has been appointed as the official national distributor for vivo smartphones. This strategic partnership is poised to redefine the mobile sector by leveraging vivo’ s cutting-edge technology and Trident’s extensive local footprint.
-
-Partnership with vivo is both timely and strategic, stated Hilmey Niyas, Country Manager of Trident Corporation. “Our legacy of delivering premium products to the Sri Lankan market aligns seamlessly with vivo’s commitment to innovation in mobile technology. This collaboration will drive substantial growth and strengthen our distribution network across the country, positioning both companies for long-term success.”
-
-...
-
-[Data](articles/bcc736a8.json)
-
-[Extended Data](ext_articles/bcc736a8.ext.json)
-
----
-
-### Sri Lankan ‘legal trailblazer’ in Japan making efforts to attract Japanese investors to Sri Lanka
-
-*2024-10-28 02:27:00* · [`islandlk`](http://island.lk/sri-lankan-legal-trailblazer-in-japan-making-efforts-to-attract-japanese-investors-to-sri-lanka/) · `en`
-
-Kanchani Damintha Pathirana has etched her name in history as the first and only Sri Lankan lawyer to be officially registered with the Japanese Federation of Bar Association. Her remarkable achievement is a testament to her perseverance, dedication, and trailblazing spirit, which serves as an inspiration to many Sri Lankans aspiring to make their mark on the global stage.
-
-Born in Kandy, Mrs. Pathirana’s educational journey began at Giragama Primary School, Pilimathalawa, where she laid the foundation for her academic success. After passing the Grade 5 Scholarship Examination, she went on to study at Viharamaha Devi Girls’ College and later at Kandy Girls’ High School. Her outstanding performance in her Advanced Level exams in 2002, where she achieved three A’s, ranking 3rd in the Kandy District and 27th all island, securing her admission to the prestigious Colombo Law Faculty.
-
-...
-
-[Data](articles/738c70a2.json)
-
-[Extended Data](ext_articles/738c70a2.ext.json)
-
----
-
-### Budget deficit decreased by Rs. 559 billion in the first eight months of 2024
-
-*2024-10-28 02:22:00* · [`islandlk`](http://island.lk/budget-deficit-decreased-by-rs-559-billion-in-the-first-eight-months-of-2024/) · `en`
-
-During the period from January to August 2024, overall budget deficit decreased to Rs. 911.0 bn compared to Rs. 1,470.7 bn recorded in the corresponding period of 2023, according to the Weekly Economic Indicators Report of the Central bank of Sri Lanka.
-
-Several other key indicators as per the report are reproduced below.
-
-During the eight months ending August 2024, government revenue and grants increased to Rs. 2,565.9 bn compared to Rs. 1,826.6 bn in the corresponding period of 2023.
-
-Total expenditure and net lending increased to Rs. 3,476.9 bn from January to August 2024 compared to Rs. 3,297.3 bn in the corresponding period of 2023.
-
-During the period from January to August 2024, net domestic financing decreased to Rs. 742.4 bn compared to Rs. 1,376.8 bn in the corresponding period of 2023. Net foreign financing increased to Rs. 168.6 bn during eight months ending August 2024 compared to the Rs. 93.8 bn recorded in corresponding period of 2023.
-
-...
-
-[Data](articles/0b32a80f.json)
-
-[Extended Data](ext_articles/0b32a80f.ext.json)
-
----
-
-### Toastmasters’ 100-year legacy marked at CSE
-
-*2024-10-28 02:22:00* · [`islandlk`](http://island.lk/toastmasters-100-year-legacy-marked-at-cse/) · `en`
-
-District 82 of Toastmasters International, in collaboration with the Colombo Stock Exchange (CSE) recently rang the bell on in honour of Toastmasters International’s 100-year legacy. Since its founding in 1924, Toastmasters has empowered thousands of individuals worldwide to develop their communication and leadership skills through its voluntary, member-driven programs.
-
-Opening the ceremony, Rajeeva Bandaranaike expressed, “At first glance, Toastmasters may appear to be a movement focused on enhancing public speaking and communication skills. However, it transcends that by cultivating leadership, self-confidence, and personal growth, empowering members with a distinct competitive advantage in their professional lives.”
-
-...
-
-[Data](articles/b2936573.json)
-
-[Extended Data](ext_articles/b2936573.ext.json)
 
 ---

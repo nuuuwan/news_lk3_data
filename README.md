@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 21:11:40**
+As of **2024-10-28 21:24:06**
 
 ## Newspaper Stats
 
-*Scraped **51,877** Articles*
+*Scraped **51,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 4,824
 adaderanalk | 6,146
 tamilmirrorlk | 7,182
 virakesarilk | 8,373
-adaderanasinhalalk | 9,021
+adaderanasinhalalk | 9,022
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,877 (100.0%) of 51,877 articles have been extended.
+51,878 (100.0%) of 51,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Probation propaganda to use digital screens
+
+*2024-10-28 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202661) · `si`
+
+Elections Commission bans digital screen ads, calls them illegal propaganda. Candidates must report abuse to Election Office or police. 869 election complaints filed, 723 resolved.
+
+🟩
+
+The Elections Commission says that it is illegal to use digital curtains in any district or town.
+
+Elections Commissioner General Saman Sri Ratnayake said that such an advertising took place to inform the nearest police station.
+
+"If you are conducting some kind of propaganda activity in your district, please investigate the nearest police station. This is a total illegal act. This is forcibly doing propaganda to people. Prohibited by paying or displaying. Cause they are like displaying a pole of a public place. So it is completely prohibited to promote it. Therefore, notice of advertisements on digital screens is fully illegal. Courtesy has taken a similar election in the above election. We hope to direct the judiciary accordingly. "
+
+If a candidate is acting in the abusive influence, he also complained to the Election Office or police station in the district.
+
+Meanwhile, the number of election complaints received in connection with the parliamentary election has increased to 869.
+
+...
+
+[Data](articles/ee27f2bd.json)
+
+[Extended Data](ext_articles/ee27f2bd.ext.json)
+
+---
 
 ### Who is the retired officer who gave the Channel 4 Channel?
 
@@ -2445,35 +2471,5 @@ Through this method, the long-term effects and deep sea ocean balance have occur
 [Data](articles/dea04b1b.json)
 
 [Extended Data](ext_articles/dea04b1b.ext.json)
-
----
-
-### The government is molding money
-
-*2024-10-28 10:24:14* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුව-සල්ලි-අච්චු-ගහනවා/11-412713) · `si`
-
-Sri Lanka's government borrows heavily from Central Bank to manage inflation and stabilize economy. Excess liquidity increases significantly, raising concerns about economic direction.
-
-🟩
-
-The government is taking credit by the government by continuing to borrowed money, using a reputable money, "Money molding mechanism has begun.". She is said in a statement.
-
-The government is molding money - the loan. Cabraal - Gotabhaya Ara again reminds us. '
-
-The Central Bank is monding through the Perm Auction and the Ovrnight Auction as short-term financing mechanism.
-
-Central Bank of Sri Lanka 25th October 2024 (Friday). 36.16 billion, pumped the country's money system through auction.The Simps of Sihila is the meaning of the Sri Lanka Central Bank of Sri Lanka's Rs 36.16 billion.
-
-In the 7 days lasting Rs.. 70 billion.
-
-By October 25, 2024, the excess liquidity deposited in the central bank's standard. 193.4 billion.A month ago, the excess liquidity of Rs. 138 billion. Accordingly, the excess liquidity of excess liquidity in a month is Rs.. 55.4 billion.
-
-Today (Oct. 28) On the day, the government is Rs.. 14,500 crores or Rs. The Central Bank will take a loan of Rs. 145,000 million.
-
-...
-
-[Data](articles/078565af.json)
-
-[Extended Data](ext_articles/078565af.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 12:15:17**
+As of **2024-10-28 12:40:06**
 
 ## Newspaper Stats
 
-*Scraped **51,790** Articles*
+*Scraped **51,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,081
 economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,812
+adalk | 4,814
 adaderanalk | 6,133
 tamilmirrorlk | 7,169
 virakesarilk | 8,345
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,789 (100.0%) of 51,790 articles have been extended.
+51,792 (100.0%) of 51,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### The president may hide these reports because a treason has been given the highest position in the country
+
+*2024-10-28 12:00:17* · [`adalk`](https://www.ada.lk/breaking_news/දේශද්‍රෝහියෙකුට-රටේ-ඉහළම-තනතුරක්-ලබා-දුන්-නිසා-ජනාධිපති-මේ-වාර්තා-සඟවනවා-වෙන්න-පුළුවන්/11-412715) · `si`
+
+President accused of hiding Channel 4 report due to alleged treason. Leader claims suppression of truth about highest official in the land.
+
+🟩
+
+Leader of President Anura Kumara Dissanayake said that he was given a highest position in the country, as President Anura Kumara Dissanayake could hide reports on Channel 4.
+
+He was speaking at a media briefing held in connection with the report today (28).
+
+"Why is the President and the government trying to suppress this report?If the Company was in the opposition, the charges from Channel 4 should be reviewed. වහාම කමිටුවක් පත් කළ යුතු බවයි. They made it the fact that the fact that the issue of Channel 4 was aired in this Channel 4 was true and accurate. The allegations have said that these charges have to investigate these allegations and the intelligence officers are trying to fall into trouble. If this report is known, it is revealed that the stance of the company is wrong. That is why the President tried to conceal this report.
+
+...
+
+[Data](articles/655d4380.json)
+
+[Extended Data](ext_articles/655d4380.ext.json)
+
+---
 
 ### India-Sri Lanka Joint Task Force to convene in Colombo to address fisheries disputes
 
@@ -45,6 +67,8 @@ Since assuming office, President Anura Kumara Dissanayake has prioritized addres
 ...
 
 [Data](articles/5b5e0c39.json)
+
+[Extended Data](ext_articles/5b5e0c39.ext.json)
 
 ---
 
@@ -571,6 +595,30 @@ Due to the crisis of the Corona period, the importation of vehicle imports to Sr
 [Data](articles/5c7346e0.json)
 
 [Extended Data](ext_articles/5c7346e0.ext.json)
+
+---
+
+### Reduces the privileges of former President
+
+*2024-10-28 10:07:03* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිවරුන්ගේ-වරප්‍රසාද-අඩුකරනවා/11-412712) · `si`
+
+Former President reduces privileges, criticizes politicians' focus on personal gain over public service. Promises transparency, accountability, and education reform. Emphasizes need for experienced leaders who prioritize national interests over self-interest.
+
+🟩
+
+"Politics in our country is like a business. People's Chandu take the power of the government and produce riches. Take houses and tains Colombo houses and take foreign houses. Their politics is to earn money. The politics of our country will be transformed into a public service by the national community, "President Anura Kumara Dissanayake said.
+
+He was speaking at a public meeting held at the Baddegama Kumme public stadium yesterday (27).
+
+"Election in elections with one of the government and the Opposition card and other. If the national folk force becomes powerful, oil gas is false as much as possible. The people have ambudded people regarding the people while they continue to say. But we won. Now we have been a short time for a month. What's wrong with now.
+
+All these words have lied. The masses now know that all the talks are false. What's going on in the next general election?. In the presidential election, the Chandayaka's electorates to the speed of national channels.. Give them.
+
+...
+
+[Data](articles/47b0903f.json)
+
+[Extended Data](ext_articles/47b0903f.ext.json)
 
 ---
 
@@ -2225,49 +2273,5 @@ There are 14 ministers who have not been handed over to quarters. Meanwhile, a f
 [Data](articles/e3be15fd.json)
 
 [Extended Data](ext_articles/e3be15fd.ext.json)
-
----
-
-### Railway employees free Railway permit
-
-*2024-10-27 19:59:40* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සේවකයන්ට-නිදහස්-දුම්රිය-අවසර-පතක්/11-412709) · `si`
-
-Railways offers free permits for home-to-workplace travel. Decision aims to boost employee morale and local economy. Transport Minister instructs authorities to implement this policy change.
-
-🟩
-
-Railways has decided to give a free railway permit to travel between their home and workplace.. Transport, Highways, Ports and Civil Aviation Minister Vijitha Herath has instructed the authorities to take appropriate action.
-
-The decision has been taken to change the situation and encourage the situation as the Railway Department and its workers are constantly criticized.
-
-This is a positive decision to increase the pride of the railway employees and that the economy of the country can influence the economy and the Transport, Highways, Ports and Civil Aviation said.
-
-◼️
-
-[Data](articles/1a43c948.json)
-
-[Extended Data](ext_articles/1a43c948.ext.json)
-
----
-
-### High price per kg of organic raw tea
-
-*2024-10-27 19:54:06* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-කාබනික-අමු-තේ-කිලෝවකට-ඉහළ-මිලක්/11-412708) · `si`
-
-High price organic raw tea: Lumbiniya Tea Program pays Rs. 241.62/kg. Sri Lanka Tea Board reports strong foreign demand. Over 500,000 tea growers employ 517 plants across 11 districts.
-
-🟩
-
-The Lumbiniya Tea Program of the Matara district has been able to pay a high price of Rs.
-
-The Sri Lanka Tea Board says that there is a high demand abroad such as England, England and Razia, such as England and Razia.. The highest price of a kilo of chemical fertilizer was paid a raw tea factory for a kilo of chemical fertilizer and was purchased at a cost of Rs. 241.62.
-
-The Sri Lanka Tea Board says that 517 tea plantants in the 11th districts of the island are working on employers, over 500,000 tea growers.
-
-◼️
-
-[Data](articles/68256308.json)
-
-[Extended Data](ext_articles/68256308.ext.json)
 
 ---

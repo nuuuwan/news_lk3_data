@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 17:41:20**
+As of **2024-10-28 18:00:49**
 
 ## Newspaper Stats
 
-*Scraped **51,843** Articles*
+*Scraped **51,844** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,818
-adaderanalk | 6,141
+adaderanalk | 6,142
 tamilmirrorlk | 7,176
 virakesarilk | 8,362
 adaderanasinhalalk | 9,016
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,016
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,843 (100.0%) of 51,843 articles have been extended.
+51,844 (100.0%) of 51,844 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ The department reaffirmed its commitment to safe operations, highlighting that a
 [Data](articles/2bff00bf.json)
 
 [Extended Data](ext_articles/2bff00bf.ext.json)
+
+---
+
+### Sri Lanka Railways addresses safety concerns on Maho-Omanthai line
+
+*2024-10-28 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102986/sri-lanka-railways-addresses-safety-concerns-on-maho-omanthai-line) · `en`
+
+The Department of Railways has issued a statement addressing recent concerns regarding the safety of the railway line between Mahawa and Omanthai, following claims from trade unions that the line posed risks to passengers.
+
+In its statement, the department stated that while some trade unions have periodically raised concerns over the line’s safety, the Railways Department has implemented measures to ensure the safety of passengers, vehicles, and pedestrians at railway crossings.
+
+Officials emphasized that several test runs were conducted on the line, with the participation of trade union representatives, to address these safety concerns.
+
+The department reaffirmed its commitment to safe operations, highlighting that all necessary precautions have been taken to address issues raised during these trials and that the line remains safe for public use.
+
+◼️
+
+[Data](articles/3671ab51.json)
+
+[Extended Data](ext_articles/3671ab51.ext.json)
 
 ---
 
@@ -2341,27 +2361,5 @@ Periyar is the symbol of our principles. But, we are not going to take the refus
 [Data](articles/4f4c74fe.json)
 
 [Extended Data](ext_articles/4f4c74fe.ext.json)
-
----
-
-### 50 millimeters of rain in some parts of the country
-
-*2024-10-28 07:14:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-50-மில்லி-மீற்றர்-மழை/175-346155) · `ta`
-
-Heavy rainfall warning issued for Western, Sabaragamuwa, and North Western provinces. Up to 50mm expected in some areas. Thunderstorms possible in Galle, Matara, and Mannar districts.
-
-🟩
-
-The Department of Meteorology has forecast rainfall in many parts of the country today.
-
-Rainfall or thunderstorms are likely to occur in the Western, Sabaragamuwa, North Western Provinces and Galle, Matara and Mannar districts.
-
-The Department of Meteorology said that in some parts of the Western, Sabaragamuwa and North Western provinces, up to 50 millimeters of rainfall is likely to be recorded.. (A)
-
-◼️
-
-[Data](articles/2f869fa6.json)
-
-[Extended Data](ext_articles/2f869fa6.ext.json)
 
 ---

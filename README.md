@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 19:58:42**
+As of **2024-10-28 20:12:48**
 
 ## Newspaper Stats
 
-*Scraped **51,871** Articles*
+*Scraped **51,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,85 @@ islandlk | 3,085
 economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,821
+adalk | 4,823
 adaderanalk | 6,146
 tamilmirrorlk | 7,182
 virakesarilk | 8,372
-adaderanasinhalalk | 9,019
+adaderanasinhalalk | 9,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,871 (100.0%) of 51,871 articles have been extended.
+51,874 (100.0%) of 51,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Police notice of investigations into the attack plan
+
+*2024-10-28 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202659) · `si`
+
+Terrorist Investigation Division informs court of ongoing probe into planned attack. Three suspects arrested, interrogated. Police seek permission to question more suspects. Investigations based on intelligence from September.
+
+🟩
+
+The Terrorist Investigation Division (TID) has informed the Magistrate's Court that will be conducting further investigations to launch a terrorist attack area.
+
+The police have reported these facts to the Colombo Additional Magistrate Amarasene, who was presenting a motion in connection with the incident.
+
+The police reported to court that three suspects arrested in connection with the incident were detained and questioned.
+
+In the interrogation, the police have also been revealed that information about the incidents in the incident has been revealed.
+
+The police also requested the court to interrogate several suspects to be interrogated to uncover the incident.
+
+The Magistrate, who allowed that request ordered the progress of the investigations into the progress of the investigations.
+
+The police have informed the court that these investigations have been conducted on information received in September.
+
+◼️
+
+[Data](articles/a9c925ea.json)
+
+[Extended Data](ext_articles/a9c925ea.ext.json)
+
+---
+
+### In the gas cylinder is the solo outstanding group who know how to make a government
+
+*2024-10-28 19:38:04* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවක්-කරන-හැටි-දන්න-ප්‍රභලම-කණ්ඩායම-ඉන්නේ-ගෑස්-සිලින්ඩරයේ/11-412730) · `si`
+
+Here's a 200-character summary:
+
+
+
+Gas Cylinder party leader Ruwan Wijewardene emphasizes stability and economic protection in upcoming elections. He criticizes inexperienced groups and supports President Wickremesinghe while acknowledging past challenges.
+
+🟩
+
+A large group of experiences in the new Democratic Front of the Gas Cylinder will compete in the new Democratic Front to protect the people if there is affect the economy.Said at a press conference.
+
+Speaking further Mr. Ruwan Wijewardene said,
+
+"The Gas Cylinder party has presented to the general election this year's general election and a group of experienced. If a groupless experienceless group is having experience, a government that is a government, it may be considered unstable to the country in the general election.
+
+Our team was trying to win the President Ranil Wickremesinghe at the last general election.The public believed in the presidential election that some to change. The current president has taken over the minority votes.
+
+Ranil and Sajith received the number of votes received by Anura, the president received more than the votes.
+
+Indeed, we have no need to criticize Anura Kumara President.
+
+However, we wish to carry out his work successfully.It was reported to vote for the party.
+
+...
+
+[Data](articles/10dece7b.json)
+
+[Extended Data](ext_articles/10dece7b.ext.json)
+
+---
 
 ### Doit for Procurement Procedures
 
@@ -113,6 +177,32 @@ It is reported that the train which had derailed near the Kompanna Veediya railw
 [Data](articles/cbec42de.json)
 
 [Extended Data](ext_articles/cbec42de.ext.json)
+
+---
+
+### Others who planned a Sri Lankan attack in foreign terrorist organizations recognized
+
+*2024-10-28 18:26:59* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ත්‍රස්ත-සංවිධානවල-අවශ්‍යතාවට-ලංකාවේ-ප්‍රහාරයක්-සැලසුම්-කළ-තවත්-අය-හඳුනාගත්තා/11-412723) · `si`
+
+Sri Lanka TID officials identify foreign terrorist organizations suspects arrested September
+
+🟩
+
+The officials of the Terrorism Investigation Division (TID) informed other suspects who were planned to terrorized terrorist attacks on the necessity of foreign terrorist organizations in Sri Lanka have been identified.
+
+The Magistrate was arrested by the Magistrate to the officials of the Terrorism Investigation Division to be arrested for identifying the crimes to the publication of foreign tourists.
+
+After considering the suspects to be arrested in the country, the Magistrate made the same manage of a request made by the officials of the Terrorism Division.
+
+The case was recalled on a request filed by the Terrorist Investigation Division.
+
+The Terrorist Investigation Division (TID) officials of the Terrorism Investigation Division (TID) officials were detained and questioned by three seats in the Terrorism Investigation Division (TID).Informed that he was appointed.
+
+...
+
+[Data](articles/16f511cc.json)
+
+[Extended Data](ext_articles/16f511cc.ext.json)
 
 ---
 
@@ -2371,81 +2461,5 @@ Its Deputy General Manager (Operations), Mr. N.J. Idipolage stated that by resum
 [Data](articles/f493a7f4.json)
 
 [Extended Data](ext_articles/f493a7f4.ext.json)
-
----
-
-### Attack on party supporter's shop
-
-*2024-10-28 10:15:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-ஆதரவாளரது-கடை-மீது-தாக்குதல்/175-346168) · `ta`
-
-Attack on party supporter's shop: Temporary shop destroyed, supporter beaten. Candidate visited site, filed complaint with police. Victim claims no action taken yet. Political tensions suspected.
-
-🟩
-
-இச்சம்பவம் ஞாயிற்றுக்கிழமை(27) இரவு அம்பாறை மாவட்டம் பெரிய நீலாவணை பொலிஸ் பிரிவிற்குட்பட்ட பாண்டிருப்பில் இடம் பெற்றுள்ளது.
-
-A temporary shop located on the main road of Dalawattuwan has been smashed.
-
-A supporter of Dr. Prakas, a supporter of the candidate Prakas, who is contesting on behalf of the Democratic Tamil National Alliance (TNA) in Digamadulla Elections in Ampara District, has been beaten.
-
-சம்பவ இடத்திற்கு   குறித்த வேட்பாளர் சென்று  சேதமடைந்த கடையை பார்வையிட்டதுடன் தாக்குதல் சம்பவம் தொடர்பில் பெரிய நீலாவணை பொலிஸ் நிலையத்திற்கு சென்று முறைப்பாடு அளிக்க ஆதரவாளருடன் சென்றுள்ளார்.
-
-The victim's shop owner told the media that the Sri Lanka Human Rights Commission was planning to lodge a complaint on Monday (28) due to lack of complaints at the police station.
-
-Candidate Dr. Prakas said that they are talking about political issues in the store and the breakdown may have been broken by other sides.
-
-◼️
-
-[Data](articles/86eb0d5b.json)
-
-[Extended Data](ext_articles/86eb0d5b.ext.json)
-
----
-
-### ගෞරවනීය රාජ්‍ය සේවයක් වෙනුවෙන් කැපවෙන බවට දිලිත්ගෙන් සහතිකයක්
-
-*2024-10-28 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202641) · `si`
-
-Dilith Jayaweera emphasizes building a respectful public service, focusing on improving the quality of public servants and their lives. He encourages collaboration between the government and opposition to enhance human development through parliamentary efforts.
-
-🟩
-
-ගෞරවනීය රාජ්‍ය සේවයක් නිර්මාණය කිරීම සඳහා තමා ඇතුළු කණ්ඩායම කැප වී කටයුතු කරන බව සර්වජන බලය නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
-
-He said he would work with the courageous opposition.
-
-He was speaking at a public brief in Attanagalla, speaking to the Leader of the Norgeon Patrol Dilith Jayaweera.
-
-"What must we do to build a respectable public service, especially the quality of the people, especially the quality of life of the public servants? To give the public servant, the development of their lives, and the prospect of the development of their lives, we must go to Parliament. ඒ පාර්ලිමේන්තුව ඇත්ළේ අපිට පුළුවන් අපේ අත්දැකීම් එයින් දියුණු වෙන මිනිස්සු දියුණු වුණ මිනිස්සුන්ට උදව් කරන්න පුළුවන් මිනිස්සු, හැම මිනිහම දියුණු වෙනවා බලන්න කැමති මිනිස්සුන්ගෙන් මේ පාර්ලිමේන්තුව පුරවන්න අපි විපක්ෂයේ වාඩි වෙනවා එඩිතර විපක්ෂයක් විදියට."
-
-◼️
-
-[Data](articles/7c34897b.json)
-
-[Extended Data](ext_articles/7c34897b.ext.json)
-
----
-
-### A new notice released on vehicle imports
-
-*2024-10-28 10:07:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-வெளியான-புதிய-அறிவிப்பு/175-346166) · `ta`
-
-Vehicle imports delayed: Earlier set for Jan 2025, now postponed due to COVID-19 crisis. Imports suspended since Mar 2020.
-
-🟩
-
-It is reported that the action of importing vehicles is currently being delayed.
-
-Earlier, it was announced that vehicle imports would be granted from January 2025.
-
-However, as the resolution has changed, it is shocking to those who are waiting to import vehicles.
-
-Due to the crisis of the Corona period, the importation of vehicle imports to Sri Lanka was suspended in March 2020. Remble
-
-◼️
-
-[Data](articles/5c7346e0.json)
-
-[Extended Data](ext_articles/5c7346e0.ext.json)
 
 ---

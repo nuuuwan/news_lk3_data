@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 22:15:03**
+As of **2024-10-28 22:27:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,024
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,882 (100.0%) of 51,883 articles have been extended.
+51,883 (100.0%) of 51,883 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,15 +36,21 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-10-28 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202664) · `si`
 
-ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා සහ පෝට් සිටි කලම්බෝ සමාගමේ කළමණාකාර අධ්‍යක්ෂ ෂියොන්ග් හොංෆෙන්ග් මහතා අතර හමුවක් ජනාධිපති ලේකම් කාර්යාලයේදී අද (28) පස්වරුවේ පැවැත්විණි.
+Colombo Commercial Development Project update: Discussion on progress and future economic plans. Port City Calambo Company donated Rs. 300 million for flood relief efforts.
 
-කොළඹ වාණිජ නගරයේ සංවර්ධන ව්‍යාපෘතියේ ප්‍රගතිය සම්බන්ධයෙන් මෙහිදී දීර්ඝ ලෙස සාකච්ඡා වී ඇති අතර අනාගත ආර්ථික අභියෝග ජයගැනීමේ නව සැලසුම් පිළිබඳවද මෙම සාකච්ඡාවේදී අවධානයට ලක් ව තිබේ.
+🟩
+
+President of the President Dr. Nandika Sanath and Managing Director of Port City Calambo Company was held at the Presidential Secretariat this afternoon.
+
+The discussion of the progress of the Colombo Commercial Development Project has been discussed at length and is also concerned about new plans for future economic challenges.
 
 ගංවතුරෙන් විපතට පත් ජනතාව වෙනුවෙන් පෝර්ට් සිටි කලම්බෝ සමාගම රුපියල් මිලියන තුනක මුදල් පරිත්‍යාගයක් ද මෙහිදී සිදු කෙරිණි.
 
 ◼️
 
 [Data](articles/151da9a3.json)
+
+[Extended Data](ext_articles/151da9a3.ext.json)
 
 ---
 

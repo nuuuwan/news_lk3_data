@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 17:09:13**
+As of **2024-10-28 17:23:59**
 
 ## Newspaper Stats
 
-*Scraped **51,842** Articles*
+*Scraped **51,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,818
-adaderanalk | 6,140
+adaderanalk | 6,141
 tamilmirrorlk | 7,176
 virakesarilk | 8,362
 adaderanasinhalalk | 9,016
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,016
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,842 (100.0%) of 51,842 articles have been extended.
+51,843 (100.0%) of 51,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Sri Lanka Railways addresses safety concerns on Maho-Omanthe line
+
+*2024-10-28 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102986/sri-lanka-railways-addresses-safety-concerns-on-maho-omanthe-line) · `en`
+
+The Department of Railways has issued a statement addressing recent concerns regarding the safety of the railway line between Maho and Omanthe, following claims from trade unions that the line posed risks to passengers.
+
+In its statement, the department stated that while some trade unions have periodically raised concerns over the line’s safety, the Railways Department has implemented measures to ensure the safety of passengers, vehicles, and pedestrians at railway crossings.
+
+Officials emphasized that several test runs were conducted on the line, with the participation of trade union representatives, to address these safety concerns.
+
+The department reaffirmed its commitment to safe operations, highlighting that all necessary precautions have been taken to address issues raised during these trials and that the line remains safe for public use.
+
+◼️
+
+[Data](articles/2bff00bf.json)
+
+[Extended Data](ext_articles/2bff00bf.ext.json)
+
+---
 
 ### Life sentenced to life in prison with drugs
 
@@ -2343,29 +2363,5 @@ The Department of Meteorology said that in some parts of the Western, Sabaragamu
 [Data](articles/2f869fa6.json)
 
 [Extended Data](ext_articles/2f869fa6.ext.json)
-
----
-
-### Public utility commission also requests additional information on electricity tariff revision
-
-*2024-10-28 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202632) · `si`
-
-PUCSL seeks more details on electricity rate changes. Steps to educate Ceylon Electricity Board about additional requirements. Proposal submitted for third quarterly review. Director Jayawanath Herath to discuss with PUCSL officials. CEB to inform about any needed amendments.
-
-🟩
-
-The Public Utilities Commission of Sri Lanka (PUCSL) says that steps will be taken to educate the Ceylon Electricity Board for any additional information regarding the electricity tariff.
-
-The Commission had recently presented the proposal to the Ceylon Electricity Board for the third quarterly review of this year.
-
-The proposed reviewers, Director of the Public Utilities Commission Jayawanath Herath, the proposed review is due to meet and discussed the officials of the Public Utilities Commission.
-
-Accordingly, if the Commission needs additional amendments and the CEB is due to be informed by the CEB.
-
-◼️
-
-[Data](articles/6cca7085.json)
-
-[Extended Data](ext_articles/6cca7085.ext.json)
 
 ---

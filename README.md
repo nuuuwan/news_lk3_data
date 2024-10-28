@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 06:12:22**
+As of **2024-10-28 06:45:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,728 (100.0%) of 51,733 articles have been extended.
+51,731 (100.0%) of 51,733 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -250,6 +250,8 @@ Partnership with vivo is both timely and strategic, stated Hilmey Niyas, Country
 
 [Data](articles/bcc736a8.json)
 
+[Extended Data](ext_articles/bcc736a8.ext.json)
+
 ---
 
 ### Sri Lankan ‘legal trailblazer’ in Japan making efforts to attract Japanese investors to Sri Lanka
@@ -335,6 +337,8 @@ FACETS has long been a celebration of Sri Lanka’s illustrious heritage in gems
 ...
 
 [Data](articles/f6a5211a.json)
+
+[Extended Data](ext_articles/f6a5211a.ext.json)
 
 ---
 

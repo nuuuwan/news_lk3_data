@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 14:39:57**
+As of **2024-10-28 14:59:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,814 (100.0%) of 51,817 articles have been extended.
+51,815 (100.0%) of 51,817 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -219,6 +219,8 @@ Although Mr Bandaranaike had a spacious office at Senate Square in the Fort he p
 ...
 
 [Data](articles/d9d4374c.json)
+
+[Extended Data](ext_articles/d9d4374c.ext.json)
 
 ---
 

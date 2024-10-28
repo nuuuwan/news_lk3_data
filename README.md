@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 05:46:12**
+As of **2024-10-28 06:12:22**
 
 ## Newspaper Stats
 
-*Scraped **51,723** Articles*
+*Scraped **51,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 412
 colombotelegraphcom | 523
 bbccomsinhala | 524
-islandlk | 3,070
+islandlk | 3,080
 economynextcom | 3,146
 dailyftlk | 3,536
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,991
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,722 (100.0%) of 51,723 articles have been extended.
+51,728 (100.0%) of 51,733 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -152,6 +152,42 @@ The ABU is the largest broadcasting union in the world, with its 250 members in 
 
 ---
 
+### Superbuild ‘SUPERCRETE’ together with Browns & Company to distribute waterproofing products and solutions
+
+*2024-10-28 02:50:00* · [`islandlk`](http://island.lk/superbuild-supercrete-together-with-browns-company-to-distribute-waterproofing-products-and-solutions/) · `en`
+
+Browns General Trading Division (GTD), a leading provider of globally-renowned high quality building material solutions in Sri Lanka, has partnered with Superbuild Pvt Ltd – a prominent player in the field of construction systems, which holds the renowned brand ‘SUPER-CRETE’- to distribute waterproofing products and solutions to the local market.
+
+Among the company’s recent engagements were the involvement in Sri Lanka’s largest ever waterproofing project which was completed at Sri Lanka’s longest elevated bridge ‘Port Access Elevated Project’ with the products manufactured by Superbuild (Pvt) Ltd under the brand name of ‘SUPER-CRETE’ in addition to the waterproofing of the bridge deck of Kohuwala Flyover Bridge project.
+
+...
+
+[Data](articles/213ccc93.json)
+
+[Extended Data](ext_articles/213ccc93.ext.json)
+
+---
+
+### Festive season kicks off at Anantara and Avani Kalutara Resorts
+
+*2024-10-28 02:50:00* · [`islandlk`](http://island.lk/festive-season-kicks-off-at-anantara-and-avani-kalutara-resorts/) · `en`
+
+The festive season commenced at Anantara Kalutara Resort and Avani Kalutara Resort with the launch of their first holiday event: a Christmas cake mixing ceremony. In a warm blend of tradition and luxury, guests and staff gathered to participate in the time-honored ritual, signaling the start of a celebratory agenda filled with festive cheer. The event, known for its lively atmosphere and rich culinary heritage, set the tone for what promises to be an indulgent and joyous holiday season.
+
+Sri Lankan ‘legal trailblazer’ in Japan making efforts to attract Japanese investors to Sri Lanka
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/b0fd338b.json)
+
+[Extended Data](ext_articles/b0fd338b.ext.json)
+
+---
+
 ### Coalition for Inclusive Impact launches cross-party dialogue series
 
 *2024-10-28 02:48:00* · [`dailyftlk`](https://www.ft.lk/news/Coalition-for-Inclusive-Impact-launches-cross-party-dialogue-series/56-768492) · `en`
@@ -199,6 +235,106 @@ The High Commission of the Islamic Republic of Pakistan in Colombo organised a s
 [Data](articles/2f5dfb00.json)
 
 [Extended Data](ext_articles/2f5dfb00.ext.json)
+
+---
+
+### Trident Corporation appointed as exclusive national distributor for vivo
+
+*2024-10-28 02:34:00* · [`islandlk`](http://island.lk/trident-corporation-appointed-as-exclusive-national-distributor-for-vivo/) · `en`
+
+Trident Corporation, a dominant force in Sri Lanka’s distribution landscape, has been appointed as the official national distributor for vivo smartphones. This strategic partnership is poised to redefine the mobile sector by leveraging vivo’ s cutting-edge technology and Trident’s extensive local footprint.
+
+Partnership with vivo is both timely and strategic, stated Hilmey Niyas, Country Manager of Trident Corporation. “Our legacy of delivering premium products to the Sri Lankan market aligns seamlessly with vivo’s commitment to innovation in mobile technology. This collaboration will drive substantial growth and strengthen our distribution network across the country, positioning both companies for long-term success.”
+
+...
+
+[Data](articles/bcc736a8.json)
+
+---
+
+### Sri Lankan ‘legal trailblazer’ in Japan making efforts to attract Japanese investors to Sri Lanka
+
+*2024-10-28 02:27:00* · [`islandlk`](http://island.lk/sri-lankan-legal-trailblazer-in-japan-making-efforts-to-attract-japanese-investors-to-sri-lanka/) · `en`
+
+Kanchani Damintha Pathirana has etched her name in history as the first and only Sri Lankan lawyer to be officially registered with the Japanese Federation of Bar Association. Her remarkable achievement is a testament to her perseverance, dedication, and trailblazing spirit, which serves as an inspiration to many Sri Lankans aspiring to make their mark on the global stage.
+
+Born in Kandy, Mrs. Pathirana’s educational journey began at Giragama Primary School, Pilimathalawa, where she laid the foundation for her academic success. After passing the Grade 5 Scholarship Examination, she went on to study at Viharamaha Devi Girls’ College and later at Kandy Girls’ High School. Her outstanding performance in her Advanced Level exams in 2002, where she achieved three A’s, ranking 3rd in the Kandy District and 27th all island, securing her admission to the prestigious Colombo Law Faculty.
+
+...
+
+[Data](articles/738c70a2.json)
+
+[Extended Data](ext_articles/738c70a2.ext.json)
+
+---
+
+### Budget deficit decreased by Rs. 559 billion in the first eight months of 2024
+
+*2024-10-28 02:22:00* · [`islandlk`](http://island.lk/budget-deficit-decreased-by-rs-559-billion-in-the-first-eight-months-of-2024/) · `en`
+
+During the period from January to August 2024, overall budget deficit decreased to Rs. 911.0 bn compared to Rs. 1,470.7 bn recorded in the corresponding period of 2023, according to the Weekly Economic Indicators Report of the Central bank of Sri Lanka.
+
+Several other key indicators as per the report are reproduced below.
+
+During the eight months ending August 2024, government revenue and grants increased to Rs. 2,565.9 bn compared to Rs. 1,826.6 bn in the corresponding period of 2023.
+
+Total expenditure and net lending increased to Rs. 3,476.9 bn from January to August 2024 compared to Rs. 3,297.3 bn in the corresponding period of 2023.
+
+During the period from January to August 2024, net domestic financing decreased to Rs. 742.4 bn compared to Rs. 1,376.8 bn in the corresponding period of 2023. Net foreign financing increased to Rs. 168.6 bn during eight months ending August 2024 compared to the Rs. 93.8 bn recorded in corresponding period of 2023.
+
+...
+
+[Data](articles/0b32a80f.json)
+
+[Extended Data](ext_articles/0b32a80f.ext.json)
+
+---
+
+### Toastmasters’ 100-year legacy marked at CSE
+
+*2024-10-28 02:22:00* · [`islandlk`](http://island.lk/toastmasters-100-year-legacy-marked-at-cse/) · `en`
+
+District 82 of Toastmasters International, in collaboration with the Colombo Stock Exchange (CSE) recently rang the bell on in honour of Toastmasters International’s 100-year legacy. Since its founding in 1924, Toastmasters has empowered thousands of individuals worldwide to develop their communication and leadership skills through its voluntary, member-driven programs.
+
+Opening the ceremony, Rajeeva Bandaranaike expressed, “At first glance, Toastmasters may appear to be a movement focused on enhancing public speaking and communication skills. However, it transcends that by cultivating leadership, self-confidence, and personal growth, empowering members with a distinct competitive advantage in their professional lives.”
+
+...
+
+[Data](articles/b2936573.json)
+
+[Extended Data](ext_articles/b2936573.ext.json)
+
+---
+
+### Cargills Bank expands banking convenience to 51 new Cargills supermarkets
+
+*2024-10-28 02:22:00* · [`islandlk`](http://island.lk/cargills-bank-expands-banking-convenience-to-51-new-cargills-supermarkets/) · `en`
+
+Cargills Bank is unique among Sri Lankan banks in offering cash deposit and withdrawal facilities via Cargills Supermarket checkout counters through its Supermarket Banking service. Now, in a further landmark expansion of this initiative, Cargills Bank has announced that an additional 51 Cargills Supermarket outlets will provide this service, increasing the number of banking-enabled supermarkets from 479 locations to 530 supermarkets. This initiative leverages Cargills supermarkets’ extensive Islandwide retail network, and is part of the bank’s ongoing mission to drive inclusivity by bringing essential financial services closer to every corner of the country.
+
+Cargills Bank was the first to introduce agency banking in Sri Lanka through a unique partnership with the Cargills Retail network, allowing customers to manage their basic banking needs while shopping for groceries.
+
+...
+
+[Data](articles/dbaefcf9.json)
+
+[Extended Data](ext_articles/dbaefcf9.ext.json)
+
+---
+
+### SLGJA announces 2025 FACETS exhibition
+
+*2024-10-28 02:22:00* · [`islandlk`](http://island.lk/slgja-announces-2025-facets-exhibition/) · `en`
+
+The Sri Lanka Gem and Jewellery Association (SLGJA) has announced the 31st edition of FACETS Sri Lanka, South Asia’s premier gem and jewellery exhibition which will take place from 4th to 6th January 2025 at the Cinnamon Grand Colombo.
+
+This prestigious exhibition is a global meeting point for the gem and jewellery industry, attracting renowned traders, wholesalers, exporters, manufacturers, lapidarists, retailers, and collectors from around the world.
+
+FACETS has long been a celebration of Sri Lanka’s illustrious heritage in gems and jewellery. The island nation is recognized as a global leader in gemstone production, known for its extraordinary variety of precious stones. With a rich history as the world’s oldest source of colored gemstones, Sri Lanka offers a vibrant selection of gems highly sought after internationally. Complementing this treasure trove is the island’s exceptional craftsmanship, which blends contemporary trends with deep cultural influences to create timeless beauty.
+
+...
+
+[Data](articles/f6a5211a.json)
 
 ---
 
@@ -2155,213 +2291,5 @@ Furthermore, the department assured that measures have been taken to control its
 [Data](articles/70c0c0c5.json)
 
 [Extended Data](ext_articles/70c0c0c5.ext.json)
-
----
-
-### Tensions erupt following Ranjan Ramanayake’s political conference over compensation
-
-*2024-10-27 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102957/tensions-erupt-following-ranjan-ramanayakes-political-conference-over-compensation) · `en`
-
-A tense situation unfolded outside the Sugathadasa Indoor Stadium following the conclusion of a conference of the United Democratic Voice, the new alliance led by prominent figure Ranjan Ramanayake.
-
-The unrest reportedly stemmed from allegations made by nearly 200 young attendees, claiming they had not been compensated for their participation as promised by the event organizers.
-
-When inquired by Ada Derana, police stated that the officers intervened to manage the situation, eventually dispersing the crowd and arranging for the young attendees to return to their accommodations.
-
-◼️
-
-[Data](articles/897e71d1.json)
-
-[Extended Data](ext_articles/897e71d1.ext.json)
-
----
-
-### African Sudar Farmers who came to Sri Lanka
-
-*2024-10-27 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202617) · `si`
-
-African swine fever detected in Gampaha, Sri Lanka. First case reported. Pigs found dead. Investigation underway. Veterinary officers deployed. Gazette notification issued. Transportation restrictions implemented.
-
-🟩
-
-The first time in the Gampaha District in the Western Province, the Gampaha District has been proved to be African swine flu paddy.
-
-The Department of Animal Production and Health issues a statement saying that several samples have been confirmed in the examination of new samples obtained from the field.
-
-There were sudden deaths of several areas in the Gampaha district were killed and the Department of Animal Production and Health conducted a special investigation.
-
-According to the inspection, the pigs have recently revealed African swine flu flu.
-
-This is the first time that the disease has been reported from Sri Lanka and has been authorized to authorize veterinary officers in the respective areas to prevent the spread of this country.
-
-Accordingly, the approval of the Regional Health Authorities has been compulsory if the transportation between pork and divisional secretariats are carried out.
-
-...
-
-[Data](articles/87cb4903.json)
-
-[Extended Data](ext_articles/87cb4903.ext.json)
-
----
-
-### Eisen removed the bud
-
-*2024-10-27 13:59:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈசனை-நீக்கியது-மொட்டு/175-346114) · `ta`
-
-Parameswaran dismissed from UPFA due to illegal activities. Party to reconsider membership after legal proceedings. National Organizer Namal Rajapaksa directed the decision. Sri Lanka PA denies responsibility for actions of foreign member. Party emphasizes welfare and anti-corruption stance.
-
-🟩
-
-Eason called. The Peramuna has announced that Parameswaran is being dismissed from all responsibilities, including the Basic Member of the Sri Lanka Peoples Alliance (UPFA), for the fact that the party's name is stigmatized and illegal.
-
-He was arrested last week on charges of allegedly collecting money illegally for allegedly sending foreigners.
-
-Once the legal legal proceedings and investigations are over, the party's central committee will consider whether or not to re -join the party.
-
-The resolution was taken on the directive of the National Organizer of the Sri Lanka Peoples Freedom Alliance, Namal Rajapaksa.
-
-Sri Lanka's Central Committee Member Geetanath Kasilingam said that the Sri Lanka PA would not be responsible for any action taken by the West person and any more.
-
-All members of the Sri Lanka PA party are expected to act on the welfare of the party and the people's services, while I am said to have taken stern action against the illegal, corruption and anti -people activities.
-
-◼️
-
-[Data](articles/f668af79.json)
-
-[Extended Data](ext_articles/f668af79.ext.json)
-
----
-
-### Man arrested for murder woman
-
-*2024-10-27 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202616) · `si`
-
-Businessman arrested for murder in Sri Lanka. Police investigation ongoing. Suspect claims involvement in drug trade and weapons manufacturing.
-
-🟩
-
-Police, murder and organized criminal investigations have been arrested by the police, murder and organized criminal criminal department.
-
-A businessman from Ahangama, a resident of Meepe, Habaraduwa, Habaraduwa, Habaraduwa, Habaraduwa, Habaraduwa, a resident of Meepeatuwa, a woman named a woman named a woman named a woman named a woman named.
-
-The businessman who has promised to provide a sum of Rs.
-
-The 26-year-old suspect was arrested yesterday after a tip off received by the Criminal Investigations Department, Man Murder and Organizational Investigation Division in this regard.
-
-The police said that the businessman had revealed that the businessman had provided heroin alcohol with a proportional interrogation.
-
-According to the statement made by the suspect, the businessman has been arrested after that the businessman has several other firearms.
-
-Police said that the suspect had made firearms as well as the crimes were carried out by other people.
-
-...
-
-[Data](articles/80d3ffe5.json)
-
-[Extended Data](ext_articles/80d3ffe5.ext.json)
-
----
-
-### Emerging Team Asian Cup Final Today
-
-*2024-10-27 13:42:34* · [`adalk`](https://www.ada.lk/sports/නැගී-එන-කණ්ඩායම්-අසියානු-කුසලානයේ-අවසන්-මහා-තරගය-අද/9-412698) · `si`
-
-Asian Cup 2024 final: Sri Lanka vs Afghanistan today at 7pm.
-
-🟩
-
-2024 The finals of the Asian Cup 20 winners will be held today (27).
-
-The Sri Lanka team and the Afghan A group will compete and the match will be opened at 7 pm.
-
-◼️
-
-[Data](articles/b9768ec1.json)
-
-[Extended Data](ext_articles/b9768ec1.ext.json)
-
----
-
-### Suspect arrested for obstructing the duties of Public Health Inspectors
-
-*2024-10-27 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202615) · `si`
-
-Man arrested for obstructing Public Health Inspectors in Hatton. Incident related to Deepavali festival preparations. Restaurant owner accused of threatening inspectors. Case to be presented in court today.
-
-🟩
-
-Hatton Police have arrested a man in connection with an incident regarding the duty of the Public Health Inspectors.
-
-A large number of people in Hatton is coming to Hatton to buy the contents of the next Deepavila Festival season.
-
-As a result, the Hatton Dickoya Municipal Council has taken immediate tests yesterday.
-
-One restaurant has been threatened with death to interfere with the duty of public health inspectors.
-
-Public Health Inspectors have lodged a complaint with Hatton Police Station.
-
-It states that the shop owner supports the Tamil progressive alliance and that the Chairman of the Hatton Dikoya Urban Council has interrupted his duties in the future.
-
-Police have arrested the cafeteria owner in connection with the incident and is to be produced before the Hatton Magistrate's Court today.
-
-Meanwhile, the incident has been announced to the Senior DIG of the Public Health Inspectors' Association with the Senior DIG of the Central Province.
-
-...
-
-[Data](articles/74cc1977.json)
-
-[Extended Data](ext_articles/74cc1977.ext.json)
-
----
-
-### President with no strength: Ranil
-
-*2024-10-27 13:11:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-பலம்-இல்லாத-ஜனாதிபதி-ரணில்/175-346112) · `ta`
-
-Former President Ranil Wickremesinghe criticizes current President Anura Kumara Dissanayake, stating both lack majority support. Wickremesinghe claims Dissanayake admitted defeat beforehand, while Dissanayake denies this. Both leaders face political challenges in Sri Lanka.
-
-🟩
-
-Former President Ranil Wickremesinghe said in Negombo on Sunday (27) that he and President Anura Kumara Dissanayake had no majority.
-
-Ranil Wickremesinghe said that President Anura Kumara Dissanayake had said that he would be at home if it failed and said that the majority of the people did not vote for him.
-
-“The majority did not vote for me. So i looked.  அவருக்கும் பெரும்பான்மை வழங்கப்படவில்லை. So what's the difference between him and me?I am, the former president who has no majority, the president who is not a majority
-
-Speaking at the National Council of the New Democratic Front, former President Ranil Wickremesinghe said, "I have no majority like you."
-
-◼️
-
-[Data](articles/9ac54164.json)
-
-[Extended Data](ext_articles/9ac54164.ext.json)
-
----
-
-### Ranjan's convention charged
-
-*2024-10-27 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202614) · `si`
-
-Here's a 200-character summary:
-
-
-
-Ranjan Ramanayake's event at Sugathadasa Indoor Stadium ended abruptly. Two hundred attendees claim unpaid fees. Police intervened, sending youth back to accommodations.
-
-🟩
-
-After the end of the Managalical Voice Federation of the United Democratic Voice Federation Leading Ranjan Ramanayake, a restless situation has occurred in front of the Sugathadasa Indoor Stadium.
-
-It accuses two hundred young men who attended the conference that the party was not paid as he had paid it.
-
-The Police Media Spokesman's Office was inquired by Ada Derana.
-
-The police said that the police intervened and about 200 youths who had remained in the place were sent back to their accommodation.
-
-◼️
-
-[Data](articles/8c1c6706.json)
-
-[Extended Data](ext_articles/8c1c6706.ext.json)
 
 ---

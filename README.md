@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 11:12:07**
+As of **2024-10-28 11:24:20**
 
 ## Newspaper Stats
 
-*Scraped **51,770** Articles*
+*Scraped **51,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,081
 economynextcom | 3,146
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,810
-adaderanalk | 6,129
-tamilmirrorlk | 7,161
+adalk | 4,811
+adaderanalk | 6,130
+tamilmirrorlk | 7,166
 virakesarilk | 8,345
 adaderanasinhalalk | 9,004
 
@@ -26,11 +26,173 @@ adaderanasinhalalk | 9,004
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,770 (100.0%) of 51,770 articles have been extended.
+51,774 (100.0%) of 51,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### அறுகம்பையில் சுற்றுலாப் பயணிகளின் வருகையில் குறைவு?
+
+*2024-10-28 11:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பையில்-சுற்றுலாப்-பயணிகளின்-வருகையில்-குறைவு/175-346177) · `ta`
+
+அறுகம் வளைகுடா சுற்றுலா வலயத்திற்கு வெளிநாட்டு சுற்றுலாப் பயணிகளின் வருகையில் வழக்கத்திற்கு மாறான எந்தக் குறைவும் இல்லையென்றாலும், தற்போது பருவ காலம் இல்லையென்பதால் சுற்றுலாப் பயணிகளின் வருகை குறைந்துள்ளதாக பிரதேசவாசிகளும் குறித்த பகுதி சுற்றுலாத்துறை சார் தொழிலாளர்களும் சுட்டிக்காட்டுகின்றனர்.
+
+சில இஸ்ரேலிய சுற்றுலாப் பயணிகள் பயண ஆலோசனையைத் தொடர்ந்து அப்பகுதியை விட்டு வெளியேறிய போதிலும், தற்போது பருவ காலம் இல்லையென்றாலும் உள்ளூர் சுற்றுலாப் பயணிகளின் வருகை அதிகரித்துள்ளதாக அவர்கள் தெரிவித்தனர்.
+
+அறுகம் வளைகுடா சுற்றுலா வலயத்தில் பயங்கரவாதத் தாக்குதல் நடத்தப்படலாம் என்ற சமீபத்திய தகவல் அப்பகுதி பொதுமக்களின் வாழ்க்கையை பாதிக்கவில்லை.
+
+ஈஸ்டர் ஞாயிறு தாக்குதல் மற்றும் கொவிட் தொற்றுநோயைத் தொடர்ந்து நீண்ட இடைவெளிக்குப் பிறகு இப்பகுதியில் சுற்றுலா வளர்ச்சியடைந்து வருவதாக சுற்றுலா குறித்த பகுதியின் ஹோட்டல் உரிமையாளர் ஒருவரான கே.எச்.சந்திரசேனா என்ற “சுதுமஹத்தாயா” கூறினார்.
+
+...
+
+[Data](articles/09e18678.json)
+
+---
+
+### முன்னாள் அமைச்சர்கள் 14 பேர் இல்லங்களை ஒப்படைக்கவில்லை
+
+*2024-10-28 11:13:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்கள்-14-பேர்-இல்லங்களை-ஒப்படைக்கவில்லை/175-346176) · `ta`
+
+இவர்களில் நல்லாட்சி அரசாங்கத்தின் போது முன்னாள் எதிர்க்கட்சித் தலைவராக இருந்த ஆர். சம்பந்தன் மற்றும் பிரதி சபாநாயகர் அஜித் ராஜபக்ஷ ஆகியோரின் பெயரும் இதில் இடம்பெற்றுள்ளது.
+
+அத்துடன், வாகன விபத்தில் உயிரிழந்த முன்னாள் நீர் வழங்கல் இராஜாங்க அமைச்சர் சனத் நிஷாந்த பயன்படுத்திய உத்தியோகபூர்வ இல்லம் இதுவரை கையளிக்கப்படவில்லை எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+முன்னாள் தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார, முன்னாள் மாகாண சபை மற்றும் உள்ளூராட்சி மன்ற அமைச்சர் ஜனக வக்கம்புர, முன்னாள் போக்குவரத்து அமைச்சர் காமினி லொகுகே, கால்நடை அபிவிருத்தி இராஜாங்க அமைச்சர் டி. பி. ஹேரத், முன்னாள் கல்வி இராஜாங்க அமைச்சர் அரவிந்த குமார்,
+
+முன்னாள் விவசாய இராஜாங்க அமைச்சர் மொஹான் பிரியதர்ஷன் டி சில்வா, முன்னாள் நகர அபிவிருத்தி மற்றும் வீடமைப்பு இராஜாங்க அமைச்சர் தேனுக விதானகமகே, பெருந்தோட்டக் கைத்தொழில் முன்னாள் அமைச்சர் ரமேஷ் பத்திரன, முதலீட்டு ஊக்குவிப்பு இராஜாங்க அமைச்சர் திலும் அமுனுகம ,
+
+...
+
+[Data](articles/3dec6f2d.json)
+
+---
+
+### President reveals number of Cabinet Ministers to be appointed after polls
+
+*2024-10-28 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102973/president-reveals-number-of-cabinet-ministers-to-be-appointed-after-polls) · `en`
+
+President Anura Kumara Dissanayake underscored the urgent need for a political overhaul to steer the country toward genuine progress. Highlighting the growing public disillusionment with politics, he labeled the current political landscape as tainted by unethical practices.
+
+Addressing a public rally held in Kalutara, the President said: “We have a lot of work to do. First, we need to change the politics of our country if we are to rebuild it. For too long, politics here has been treated as a business. What we see in Parliament often resembles a spectacle—members jumping around, wielding chili powder, bringing knives, and engaging in disruptive behavior on the chamber floor.”
+
+...
+
+[Data](articles/6c6ce1d5.json)
+
+---
+
+### මහ මැතිවරණයේදි ඡන්දය ප්‍රකාශ කිරීම අඩුවෙනවා
+
+*2024-10-28 11:00:58* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදි-ඡන්දය-ප්‍රකාශ-කිරීම-අඩුවෙනවා/11-412714) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Voter turnout low in local elections. Next general election may see 63% or 73% participation. Former Commissioner Mahinda Deshapriya emphasizes importance of voting rights awareness.
+
+🟩
+
+ඉදිරියේ පැවැත්වෙන මහා මැතිවරණයේදී ඡන්දය දැමීම සදහා ජනතා උනන්දුව ඇල්පිටිය ප්‍රාදේශීය සභා මැතිවරණයට බොහෝ සෙයින් සමානවීමට ඉඩ තිබෙන බව මැතිවරණ කොමිෂන් සේවා සභාවේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා අද (28) උදේ අම්බලන්ගොඩ පැවති මාධ්‍ය හමුවකදී කීවේය.
+
+ඇල්පිටිය ප්‍රාදේශිය සභාව මෙන් ජනතාව ඡන්දය දීමේ ප්‍රතිශතය සියයට හැටතුන හෝ සියයට හැත්තැ දෙකක් පමණ විය හැකි බව තමාට හැගෙන බව ඔහු කීවේය.
+
+Attempted the percentage of votes at the Elpitiya Pradeshiya Sabha, the voter turnout was so interested in the election, he said.
+
+ඇල්පිටිය ප්‍රාදේශීය සභා මැතිවරණයේදී සියයට තිස්හතෙන් බහුතරයක් ඡන්දය ප්‍රකාශ නොකරන්නට ඇත්තේ එම මැතිවරණය සදහා උනන්දුවක් නොවීම නිසා වන්නට බොහෝ දුරට ඉඩ තිබෙන බවද ඔහු කීවේය.
+
+He said that at the next general election, the voter could be between sixty-three or sixty percent of the voter turnout.
+
+ඉදිරි මහා මැතිවරණයේදී මෙය නොවිය යුත්තක් බවත් දැන් සිටම අදාළ බලධාරීන් ,නිලධාරීන් සහ මාධ්‍ය මැතිවරණයකදී ඡන්දය දැමීමේ අයිතිය හා චන්දය දැමීමේ වැදගත්කම පිළිබදව ජනතාව දැනුම්වත් කළ යුතු බවද දේශප්‍රිය මහතා කීවේය.
+
+...
+
+[Data](articles/58331458.json)
+
+[Extended Data](ext_articles/58331458.ext.json)
+
+---
+
+### அதிகாலையில் பந்தயம்: 09 பேர் கைது
+
+*2024-10-28 10:54:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாலையில்-பந்தயம்-09-பேர்-கைது/175-346174) · `ta`
+
+Wattala police arrest 9 youth racing illegally on main road
+
+🟩
+
+கொழும்பு - நீர்கொழும்பு பிரதான வீதியில் போக்குவரத்து விதிகளை மீறி முச்சக்கரவண்டி  செலுத்திய நபர்களை வத்தளை பொலிஸார் கைது செய்துள்ளனர்.
+
+The team was arrested this morning (28) based on information received by the Wattala police.
+
+கைதுசெய்யப்பட்டவர்கள் வெல்லம்பிட்டிய, தெமட்டகொட, மோதரை, கெரவலப்பிட்டிய மற்றும் மாபோல பிரதேசங்களை  சேர்ந்த 18 முதல் 22 வயதுக்குட்பட்ட சாரதிகள் என தெரிவிக்கப்பட்டுள்ளது.
+
+கொழும்பு - நீர்கொழும்பு பிரதான வீதியின் மாபொல பிரதேசத்தில் நீண்ட காலமாக இந்த பந்தயத்தில் குறித்த குழுவினர் ஈடுபட்டு வருவதாக பிரதேச மக்கள் தெரிவிக்கின்றனர்.
+
+The race has been revealed that the vehicles, pedestrians and residents of the area have to be depressed.
+
+When the arrested three -wheeler drivers were produced to the Ragama General Hospital's legal officer, it was revealed that they had been drinking.
+
+◼️
+
+[Data](articles/db8685bf.json)
+
+[Extended Data](ext_articles/db8685bf.ext.json)
+
+---
+
+### ’’அனைத்து வசதிகளையும் இல்லாமல் செய்வோம்’’
+
+*2024-10-28 10:53:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-வசதிகளையும்-இல்லாமல்-செய்வோம்/175-346173) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's President Anurag Dissanayake vows to remove perks offered to previous leaders. At a campaign rally, he stated: "We'll provide all facilities without any." He emphasized politics should serve the people, not personal interests.
+
+🟩
+
+கடந்த அரச தலைவர்களின் சலுகைகள் மற்றும் நன்மைகள் எதுவாக இருந்தாலும் முற்றாக நீக்கப்படும் என ஜனாதிபதி அனுரகுமார திஸாநாயக்க மீண்டும் உறுதியளித்துள்ளார்.
+
+காலி, பத்தேகம பிரதேசத்தில் நடைபெற்ற தேர்தல் பிரசாரக் கூட்டத்தில் உரையாற்றிய அவர், முன்னாள் ஜனாதிபதிகளை கவனிப்பது மக்களின் கடமையல்ல. He said that such benefits were allocated to former presidents based on circular issues, parliamentary law and constitutional arrangements.
+
+“We are exploring the possibility of amendment to the circular and the law,” he said.
+
+“We can't hold a country like this. 163 bodyguards, ambulances, jeep, car etc.. 17 அல்லது 18 BMW வாகனங்களைக் கோருகிறார்கள். We will do all these facilities without. Politics is the service of the people, ”he said.
+
+◼️
+
+[Data](articles/90100869.json)
+
+[Extended Data](ext_articles/90100869.ext.json)
+
+---
+
+### Report on Rice and Paddy Reserve to the President
+
+*2024-10-28 10:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-மற்றும்-நெல்-இருப்பு-தொடர்பான-அறிக்கை-ஜனாதிபதியிடம்/175-346172) · `ta`
+
+Consumer Affairs Authority report on rice/paddy reserves handed to President. Data collected from Anuradhapura, Polonnaruwa, Ampara, Hambantota. Shortage of white and red rice addressed.
+
+🟩
+
+A report prepared by the Consumer Affairs Authority (CEB) on rice and paddy in the country will be handed over to the President today (28).
+
+The Consumer Affairs Authority (CAA) has taken steps to obtain data on rice and paddy reserves in the districts of Anuradhapura, Polonnaruwa, Ampara and Hambantota, according to the President's directive.
+
+The President has issued this work as the country has a shortage of rice, including the country, white and red rice.
+
+At the instructions of the president, when the consumer authorities inspected massive and medium rice mills, the participation took place between the authorities and the plant workers.
+
+◼️
+
+[Data](articles/bf21ee8f.json)
+
+[Extended Data](ext_articles/bf21ee8f.ext.json)
+
+---
 
 ### Youths arrested for Youth
 
@@ -2145,161 +2307,5 @@ The main opposition Constitutional Democratic Party, or CDP, meanwhile, is expec
 [Data](articles/ab6694b9.json)
 
 [Extended Data](ext_articles/ab6694b9.ext.json)
-
----
-
-### Meeting between Sri Lanka and Pakistan Air Force Commander
-
-*2024-10-27 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202622) · `si`
-
-Sri Lanka Air Marshal Unima Rajapaksa visits Pakistan to observe military exercises. Meeting at Pakistani Air Force HQ discusses regional security and operational cooperation. Focus on enhancing bilateral defense capabilities through joint training and expertise sharing.
-
-🟩
-
-Commander of the Air Force Air Marshal Unima Rajapaksa has gone to Pakistani to monitor a war exercise in the region, Air Marshall Suriyar Ahmed.
-
-The Air Force Media Unit said that a official discussion was held at the Pakistani Air Force Headquarters in the two countries of the two Air Force Commanding Headquarters in Islamabad.
-
-This is primarily focused on regional security and operational cooperation.
-
-The two-sides of the two countries have focused on cooperation with operational skills.
-
-◼️
-
-[Data](articles/bd62986e.json)
-
-[Extended Data](ext_articles/bd62986e.ext.json)
-
----
-
-### ‘Both current President and I are rulers without majority’: Ranil
-
-*2024-10-27 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102960/both-current-president-and-i-are-rulers-without-majority-ranil) · `en`
-
-Former President Ranil Wickremesinghe says that the current President Anura Kumara Dissanayake lacks a parliamentary majority, similar to himself.
-
-He made these remarks while attending a public meeting held by the New Democratic Front in Negombo this morning (27).
-
-“If you look into his list, I don’t know whether his government can last three months or at least three weeks. We need experienced people for the country to run. We ask to put experienced people forward. He can last at least for three years only if he has a majority,” the former president added.
-
-“They tell me to stay at home if I lose. I lost, I accept that. I contested the presidential election. The majority did not vote for me. So I lost, but the majority did not vote for him either,” Wickremesinghe said.
-
-The former president further pointed out that Dissanayake also failed to secure 51% of the vote, stating that both he and the current president are presidents without a majority.
-
-...
-
-[Data](articles/1717f1cc.json)
-
-[Extended Data](ext_articles/1717f1cc.ext.json)
-
----
-
-### Czech for the United States
-
-*2024-10-27 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197250) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan Navy leadership controversy: The navy is led by a unit within itself, sparking criticism about Sri Lanka's inability to escape its current situation. This internal structure may hinder progress and reform efforts.
-
-🟩
-
-It is noteworthy that the Sri Lankan Navy is headed by a unit of the Sri Lankan Navy in the context.. It can also be referred to as a bitterness that Sri Lanka does not exit from this nest.
-
-◼️
-
-[Data](articles/abb87a66.json)
-
-[Extended Data](ext_articles/abb87a66.ext.json)
-
----
-
-### Will poverty continue at 20 percent until 2026?Pay Observatory to alleviate poverty
-
-*2024-10-27 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/197251) · `ta`
-
-Poverty reduction strategies: Pay Observatory aims to decrease poverty from 20% by 2026. Direct payments to impoverished individuals may boost savings, self-employment, investment, and exports. Economic strengthening and meeting basic needs of vulnerable populations are crucial for long-term poverty alleviation.
-
-🟩
-
-On the other hand, when the poverty is paid to the people in poverty, how much they save, how to do self -employment, how to invest, how to do business in the market, and they can export it?Such a plan must be taken to eradicate this poverty through it. It is necessary to strengthen the country economically when poverty is eradicated and it is necessary to meet the economic needs of the weaker people.
-
-◼️
-
-[Data](articles/707e33fa.json)
-
-[Extended Data](ext_articles/707e33fa.ext.json)
-
----
-
-### The weight of the white ball's leads on the head of Riswan
-
-*2024-10-27 17:20:40* · [`adalk`](https://www.ada.lk/sports/සුදු-පන්දුවේ-නායකත්වයේ-බර-රිස්වාන්ගේ-හිස-මතට/9-412701) · `si`
-
-Riswan Mohammed named Pakistan cricket team leader. Replaces Barber Assa.
-
-🟩
-
-Mohammed Riswan has been appointed as the New Leader of Pakistani20 and One Day Cricket.
-
-Barber Assa, who was previously led before, resigned from the leadership.
-
-◼️
-
-[Data](articles/0a4d2df6.json)
-
-[Extended Data](ext_articles/0a4d2df6.ext.json)
-
----
-
-### Dispersed role
-
-*2024-10-27 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197255) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National leaders unwilling to share power with Tamils must address ethnic issues through dialogue, compromise, and inclusive governance. This approach can help resolve long-standing conflicts and promote reconciliation between communities.
-
-🟩
-
-How can the national people who are not willing to share powers to the Tamils ​​can solve the ethnic problem?
-
-◼️
-
-[Data](articles/1def6bba.json)
-
-[Extended Data](ext_articles/1def6bba.ext.json)
-
----
-
-### The North and East should re -run the provincial councils that people in the North and East - the National Peace Council
-
-*2024-10-27 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197254) · `ta`
-
-National Peace Council appeals President to re-run provincial councils in North and East, citing election manifesto promise and importance of devolution for ethnic reconciliation.
-
-🟩
-
-The National Peace Council has appealed to President Anura Kumara Tinganayake to re -run the people -elected provincial councils in the North and East.
-
-In this regard, the Executive Director of the Peace Council
-
-President Anura Kumara Dissanayake promised in his election manifesto and election campaigns that the National Reconciliation process will be carried out through various measures, including implementing the 13th Amendment to the Constitution.
-
-The election manifesto assured that its government would hold the provincial council elections within a year to give people the opportunity to join the regime.
-
-Provincial councils were established as part of the Peace Processing process, which was complied with the Indian government to solve the ethnic problem.
-
-The importance of the system is that the Tamils ​​and Muslims living in the Northern and Eastern Provinces are allowed to choose representatives in those areas and make decisions.
-
-...
-
-[Data](articles/ea2929b8.json)
-
-[Extended Data](ext_articles/ea2929b8.ext.json)
 
 ---

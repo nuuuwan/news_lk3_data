@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 07:28:26**
+As of **2024-10-28 08:04:30**
 
 ## Newspaper Stats
 
@@ -26,75 +26,101 @@ adaderanasinhalalk | 8,994
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,734 (100.0%) of 51,740 articles have been extended.
+51,739 (100.0%) of 51,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
 
-### වනඅලීන්ට දැම්ම විදුලියට පුංචි දරුවෙක් බිලිවෙයි
+### Licit child kills a little child
 
 *2024-10-28 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202633) · `si`
 
-විල්ගමුව - පේරකනත්ත ප්‍රදේශයේදී විදුලිසැර වැදී කුඩා දරුවෙකු මිය ගොස් තිබේ.
+Child killed in Sri Lanka. Woman died when elephant escaped due to power outage. Parents protected home with elephants. Police investigation ongoing.
 
-මෙලෙස මියගොස් ඇත්තේ අවුරුදු 07 ක් වැයසැති නාමිනිගම, පේරකනත්ත ප්‍රදේශයේ පදිංචි පිරිමි ළමයෙකි.
+🟩
 
-මියගිය දරුවාගේ දෙමාපියන් විසින් නිවස හා ගෙවත්ත වන අලින්ගෙන් ආරක්ෂා කර ගැනීම සඳහා විදුලි වැටක් සකස් කර ඇති අතර දෛනිකව සවස 06.00 ට විදුලිය සපයා පසුදින උදෑසන 06.00 ට එය විසන්ධි කිරීමට කටයුතු කර ඇත.
+A child has been killed in the Wilgamuwa - Permanewatta area.
 
-නමුත් සිද්ධිය වූ දින විදුලිය විසන්ධි කිරීමට නිවැසියන්ට අමතක වී ඇති අතර මරණයට පත් වූ දරුවා නිවස පිටුපස පිහිටි දිවුල් ගසේ දිවුල් ඇහිඳීම සඳහා ගොස් සිටියදී මෙලෙස විදුලිසැර වැදී ඇති බව සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+The deceased has been identified as a woman from a Visitathtunatwatta area in Naminigatwatta for seven years.
+
+The parents of the deceased child have been prepared to protect the home and gardening elephants, and 06.00 pm has been disconnected at 06.00 am.
+
+However, the police have revealed that the residents had forgotten the electricity to turn off the day and the death of the waslands behind the house.
 
 ◼️
 
 [Data](articles/1322a0dc.json)
 
+[Extended Data](ext_articles/1322a0dc.ext.json)
+
 ---
 
-### பிரிவினைவாதம், ஊழலை ஒழிக்க வேண்டும்: விஜய் அறிவிப்பு
+### Separatism, Eradication of Corruption: Vijay's announcement
 
 *2024-10-28 07:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரிவினைவாதம்-ஊழலை-ஒழிக்க-வேண்டும்-விஜய்-அறிவிப்பு/175-346156) · `ta`
 
-பிரிவினைவாதம், ஊழல் கலாச்சாரத்தை ஒழிக்க வேண்டும். 2026 சட்டப்பேரவை தேர்தலில் தனிப்பெரும்பான்மையோடு வெற்றி பெறுவோம். நம் கொள்கைகளை ஏற்றுக்கொண்டு வருபவர்களுக்கு ஆட்சி, அதிகாரத்தில் பங்களித்து அதிகாரப் பகிர்வு செய்யப்படும் என்று தமிழக வெற்றிக் கழகத்தின் முதல் மாநில மாநாட்டில் கட்சித் தலைவர் விஜய் தெரிவித்துள்ளார்.
+Vijay announces separation from corruption, aiming for 2026 assembly election victory. Party focuses on secular social justice, women empowerment, education, healthcare, and caste census. Emphasizes democratic governance and inclusive leadership.
 
-விழுப்புரம் மாவட்டம் விக்கிரவாண்டி அடுத்த வி.சாலை கிராமத்தில் ‘வெற்றி கொள்கை திருவிழா’ என்ற பெயரில் தமிழக வெற்றிக் கழகம் கட்சியின் முதல் மாநில மாநாடு நேற்று பிரம்மாண்டமாக நடைபெற்றது. தமிழ்த்தாய் வாழ்த்துடன் மாநாட்டு நிகழ்வுகள் தொடங்கின. கட்சியின் பொருளாளர் வெங்கட்ராமன் தலைமையில் விஜய் உள்ளிட்ட அனைவரும் உறுதிமொழி ஏற்றனர். பின்னர், கொள்கைகளை விளக்கி விஜய் உரையாற்றுகையில்,
+🟩
+
+Separation, to abolish corruption culture. We will win the 2026 assembly elections with a majority. At the first state convention of the Tamil Nadu Victory Council, party leader Vijay said that those who have accepted our policies will be shared in power and sharing power.
+
+The first state convention of the Tamil Nadu Victory Corporation was held yesterday in the name of 'Victory Policy'. Conference events started with the Tamil greeting. The party's treasurer Venkatraman, led by Vijay, pledged. Later, when Vijay addresses the principles,
+
+Periyar is the symbol of our principles. But, we are not going to take the refusal policy of God.. Our principle is that God is the only one. Next, Kamarajar, who gave the honest administration, Ambedkar, the heroic women Velunacharya, Anjalai Ammal. These are all our policy leaders. To abolish not only separatist ideology but also corrupt culture. The hypocrisy is now a year old.
 
 ...
 
 [Data](articles/4f4c74fe.json)
 
+[Extended Data](ext_articles/4f4c74fe.ext.json)
+
 ---
 
-### நாட்டின் சில பகுதிகளில் 50 மில்லி மீற்றர் மழை
+### 50 millimeters of rain in some parts of the country
 
 *2024-10-28 07:14:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-50-மில்லி-மீற்றர்-மழை/175-346155) · `ta`
 
-நாட்டின் பல பகுதிகளில் இன்று மழையுடனான வானிலை பதிவாகக் கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Heavy rainfall warning issued for Western, Sabaragamuwa, and North Western provinces. Up to 50mm expected in some areas. Thunderstorms possible in Galle, Matara, and Mannar districts.
 
-மேல், சப்ரகமுவ, வடமேல் மாகாணங்களிலும் காலி, மாத்தறை மற்றும் மன்னார் மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகிறது.
+🟩
 
-மேல், சப்ரகமுவ, வடமேல் மாகாணங்களின் சில பகுதிகளில் 50 மில்லிமீற்றர் வரையான மழைவீழ்ச்சி பதிவாகக் கூடிய சாத்தியம் நிலவுகிறது எனவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. (a)
+The Department of Meteorology has forecast rainfall in many parts of the country today.
+
+Rainfall or thunderstorms are likely to occur in the Western, Sabaragamuwa, North Western Provinces and Galle, Matara and Mannar districts.
+
+The Department of Meteorology said that in some parts of the Western, Sabaragamuwa and North Western provinces, up to 50 millimeters of rainfall is likely to be recorded.. (A)
 
 ◼️
 
 [Data](articles/2f869fa6.json)
 
+[Extended Data](ext_articles/2f869fa6.ext.json)
+
 ---
 
-### විදුලි ගාස්තු සංශෝධනය ගැන මහජන උපයෝගීතා කොමිසම අමතර තොරතුරු ඉල්ලයි
+### Public utility commission also requests additional information on electricity tariff revision
 
 *2024-10-28 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202632) · `si`
 
-විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් අවශ්‍ය අමතර තොරතුරු ඉල්ලා අද (28) දිනයේ දී ලංකා විදුලිබල මණ්ඩලය දැනුවත් කිරීමට පියවර ගන්නා බව ශ්‍රී ලංකා මහජන උපයෝගිතා කොමිෂන් සභාව පවසයි.
+PUCSL seeks more details on electricity rate changes. Steps to educate Ceylon Electricity Board about additional requirements. Proposal submitted for third quarterly review. Director Jayawanath Herath to discuss with PUCSL officials. CEB to inform about any needed amendments.
 
-මේ වසරේ තුන්වැනි කාර්තුමය සමාලෝචනය වෙනුවෙන් ලංකා විදුලිබල මණ්ඩලය සිදුකළ යුතු ගාස්තු සංශෝධනය සඳහා වන යෝජනාව එම කොමිෂන් සභාවට පසුගිය දා ඉදිරිපත් කර තිබුණි.
+🟩
 
-මහජන උපයෝගිතා කොමිසමේ ආයතනික සන්නිවේදන අධ්‍යක්ෂ ජයනාත් හේරත් මහතා සඳහන් කළේ, යෝජිත සමාලෝචනයන් අද දිනයේ දී මහජන උපයෝගිතා කොමිසමේ නිලධාරීන් රැස්වී සාකච්ඡා කිරීමට නියමිත බවය.
+The Public Utilities Commission of Sri Lanka (PUCSL) says that steps will be taken to educate the Ceylon Electricity Board for any additional information regarding the electricity tariff.
 
-ඒ අනුව කොමිෂන් සභාවට අමතර සංශෝධන අවශ්‍ය නම් සහ ඉදිරි ක්‍රියාමාර්ග සම්බන්ධයෙන් විදුලිබල මණ්ඩලය ලිපියක් මඟින් දැනුවත් කිරීමට නියමිතව තිබේ.
+The Commission had recently presented the proposal to the Ceylon Electricity Board for the third quarterly review of this year.
+
+The proposed reviewers, Director of the Public Utilities Commission Jayawanath Herath, the proposed review is due to meet and discussed the officials of the Public Utilities Commission.
+
+Accordingly, if the Commission needs additional amendments and the CEB is due to be informed by the CEB.
 
 ◼️
 
 [Data](articles/6cca7085.json)
+
+[Extended Data](ext_articles/6cca7085.ext.json)
 
 ---
 
@@ -539,6 +565,8 @@ Aseni, the whiz kid of economics has come across a report by the Nobel Laureate 
 ...
 
 [Data](articles/ba685077.json)
+
+[Extended Data](ext_articles/ba685077.ext.json)
 
 ---
 

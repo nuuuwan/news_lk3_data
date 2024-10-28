@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 14:13:44**
+As of **2024-10-28 14:25:53**
 
 ## Newspaper Stats
 
-*Scraped **51,806** Articles*
+*Scraped **51,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 412
 bbccomsinhala | 525
 colombotelegraphcom | 525
-islandlk | 3,081
+islandlk | 3,085
 economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
@@ -26,11 +26,55 @@ adaderanasinhalalk | 9,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,806 (100.0%) of 51,806 articles have been extended.
+51,807 (100.0%) of 51,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### News of a political crisis at home:Mrs. B prepares to confront LSSP
+
+*2024-10-28 13:32:00* · [`islandlk`](http://island.lk/news-of-a-political-crisis-at-homemrs-b-prepares-to-confront-lssp/) · `en`
+
+PM says she won’t tolerate a ‘political insurgency’ within the govt.
+
+Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
+
+We next flew to Tibilisi-Georgia (in the USSR) on the same private plane, placed at our disposal. We had official appointments and discussions, but the program was kept light in order to afford some relaxation and sight-seeing, which included attending some cultural shows in the evening. They were uneven in quality, with some first rate items, and others fairly ordinary. They also tended to be too long, at least by our standards.
+
+...
+
+[Data](articles/f997003d.json)
+
+[Extended Data](ext_articles/f997003d.ext.json)
+
+---
+
+### The Executive Presidency as JRJ saw it
+
+*2024-10-28 13:19:00* · [`islandlk`](http://island.lk/the-executive-presidency-as-jrj-saw-it/) · `en`
+
+(The elected Executive Presidency was adopted in Sri Lanka in 1978. The original idea was mine and there is controversy about it in Sri Lanka now. I explained the Constitution in this lecture delivered in July 1991.)
+
+The first suggestion to introduce the Executive Presidency system of Government in Sri Lanka was made by me while I was a Minister in the Dudley Senanayake Government of 1965-1970, in a speech to the Science Students Association of the Colombo University in December 1966. Some of the remarks I made then were as follows:
+
+...
+
+[Data](articles/c1cf53d0.json)
+
+---
+
+### Working at Rosmead Place
+
+*2024-10-28 13:17:00* · [`islandlk`](http://island.lk/working-at-rosmead-place/) · `en`
+
+Although Mr Bandaranaike had a spacious office at Senate Square in the Fort he preferred to work from 65 Rosmead Place, his home. As fancy took him, we would attend to the papers either at the dining table or in the sitting room. It was all very informal with the household activity going on around us. Sometimes the children were at home and their conversations with each other or the mother would be an interesting break from our file work.
+
+...
+
+[Data](articles/d9d4374c.json)
+
+---
 
 ### Inquire the top official; Kammanpila
 
@@ -183,6 +227,18 @@ Moulana had said that he had coordinated the meeting and the meeting took place 
 [Data](articles/65d41c60.json)
 
 [Extended Data](ext_articles/65d41c60.ext.json)
+
+---
+
+### A revolution without violence
+
+*2024-10-28 12:18:00* · [`islandlk`](http://island.lk/a-revolution-without-violence/) · `en`
+
+The total absence of violence before, during, and after the Presidential election has deeply impressed all sections of the population. Such exemplary discipline and conduct of the NPP took many observers by surprise, putting to shame established parties which, when they alternated in power, invariably let loose their goons to inflict pain and misery on opposition ranks. Serving in the police from 1965 to 2000, and in retirement for two and a half decades thereafter, I was witness to violence which followed every election with monotonous regularity.
+
+...
+
+[Data](articles/296b78ca.json)
 
 ---
 
@@ -2145,93 +2201,5 @@ Whoever gets the mandate to form the next Government needs to identify the struc
 [Data](articles/af69b798.json)
 
 [Extended Data](ext_articles/af69b798.ext.json)
-
----
-
-### “Israel Has A Right To Defend Itself”
-
-*2024-10-28 00:43:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/israel-has-a-right-to-defend-itself/) · `en`
-
-If you depend on mainstream western media to learn about world events, the above will have been drilled into your mind over the past year or so.
-
-The attempted breakout from the concentration camp (a reference to Gaza by several internationally recognized personalities over a long time) on 7th Oct 2023 has been widely promoted as an unprovoked act of “genocide” by the resistance groups who had been refugees for generations.
-
-I would like to acknowledge material from the many interviews and presentations by world renown academics such as John Mearsheimer, Jeffrey Sachs, Norman Finkelstein, M. Marandi, Ilan Pappe’, Vijay Prasad (with Noam Chomsky), military analysts such as Scott Ritter, Douglas Macgregor and others which have greatly influenced my views.
-
-...
-
-[Data](articles/a04f4295.json)
-
-[Extended Data](ext_articles/a04f4295.ext.json)
-
----
-
-### Reactivate elected provincial councils for north and east
-
-*2024-10-28 00:41:57* · [`dailyftlk`](https://www.ft.lk/opinion/Reactivate-elected-provincial-councils-for-north-and-east/14-768466) · `en`
-
-Arguments that the provincial council system is too costly and burdens the country with an unnecessary tier of government are not relevant to its purpose
-
-In his election manifesto, as well as in his election campaign, President Anura Kumara Dissanayake pledged to take forward the national reconciliation process through several measures, including implementation of the 13th Amendment. His election manifesto commits the Government to conduct provincial council elections within a year “to provide an opportunity for the people to join the governance.”
-
-...
-
-[Data](articles/74607cc8.json)
-
-[Extended Data](ext_articles/74607cc8.ext.json)
-
----
-
-### All the forecasts have survived
-
-*2024-10-28 00:13:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணிப்புகள்-எல்லாம்-பிழைத்து-விட்டன/175-346151) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former Minister Douglas Devananda discusses changes in President Anura's attitude and actions. He mentions opening an election office in Vavuniya and contesting in ten districts for autonomy. The president congratulates their party on potential seat gains. National People's Power claims a parliamentary majority.
-
-🟩
-
-Changes in the attitude and action of President Anura. Former Minister Douglas Devananda said it should be seen.
-
-A visit to Vavuniya on Sunday (27) had opened a party election office in Katharsinakulam area.
-
-He said this while attending the journalist chanting.
-
-Through national reconciliation can solve the problems of our people. We are contesting this time in ten districts to travel to the Aththala to achieve our political goal of autonomy in the federal state by gaining seats in the new parliament.
-
-It is our goal to get four or five seats through this.So far I have met eight presidents.But, he is younger than me. There seems to be a good change in his approach and activity. However, we have to see it.
-
-We have put forward the political rights issue of the people of the North and East.
-
-...
-
-[Data](articles/93917170.json)
-
-[Extended Data](ext_articles/93917170.ext.json)
-
----
-
-### The new government should be given time
-
-*2024-10-28 00:08:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்துக்கு-அவகாசம்-கொடுக்க-வேண்டும்/175-346150) · `ta`
-
-New government needs time to address ethnic issues. Tamil Progressive Alliance supports constitution reform. Minority participation crucial in national discussions.
-
-🟩
-
-The Tamil Progressive Alliance in South Sri Lanka and the Sri Lanka Tamil National Alliance (TNA) in the North and East will be in parliament with political strength. The Tamil Progressive Alliance leader Mano Ganesan, who has said that the Tamil people should understand this clearly, urged the new government to be given time.
-
-President Anuragumara Dissanayake has put forward the solution to the Tira Challenge of the country's national ethnic issue, which is the only idea that we will all unite in goodwill from 2015 to 2018 will be aimed at creating a new constitution that we all have launched.
-
-We welcome this idea of ​​President Anuragumara. We do not do the short politics that should answer all the challenges of the country within the same month.. We think the new government should be given a fair time.
-
-...
-
-[Data](articles/401d169c.json)
-
-[Extended Data](ext_articles/401d169c.ext.json)
 
 ---

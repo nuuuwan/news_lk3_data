@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 12:00:07**
+As of **2024-10-28 12:15:17**
 
 ## Newspaper Stats
 
-*Scraped **51,789** Articles*
+*Scraped **51,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,812
-adaderanalk | 6,132
+adaderanalk | 6,133
 tamilmirrorlk | 7,169
 virakesarilk | 8,345
 adaderanasinhalalk | 9,006
@@ -26,25 +26,47 @@ adaderanasinhalalk | 9,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,782 (100.0%) of 51,789 articles have been extended.
+51,789 (100.0%) of 51,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
 
-### மோட்டார் சைக்கிள் விபத்தில் ஒருவர் பலி
+### India-Sri Lanka Joint Task Force to convene in Colombo to address fisheries disputes
+
+*2024-10-28 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102976/india-sri-lanka-joint-task-force-to-convene-in-colombo-to-address-fisheries-disputes) · `en`
+
+The Indo-Sri Lanka Joint Task Force will hold its sixth meeting tomorrow (29) at the Mahaweli Center in Colombo, as confirmed by M. P. N. M. Wickramasinghe, Secretary of Sri Lanka’s Ministry of Fisheries.
+
+The meeting will bring together 12 officials to discuss key bilateral concerns, especially the ongoing issue of bottom trawling by Indian fishermen in Sri Lankan waters.
+
+Since assuming office, President Anura Kumara Dissanayake has prioritized addressing the environmental and economic impacts of bottom trawling—a fishing method that involves dragging heavy nets across the seafloor, which can cause long-term ecological damage, he said, adding that in line with the President’s directive, the Ministry of Fisheries has engaged with Indian authorities through diplomatic channels to tackle this issue collaboratively.
+
+...
+
+[Data](articles/5b5e0c39.json)
+
+---
+
+### One person killed in motorcycle accident
 
 *2024-10-28 11:55:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோட்டார்-சைக்கிள்-விபத்தில்-ஒருவர்-பலி/175-346180) · `ta`
 
-கும்புக்கெடே - பன்னெக்கம நெலவ வீதியில் ஞாயிற்றுக்கிழமை (27) பிற்பகல் இடம்பெற்ற விபத்தில் நெரியாவ, கும்புக்கெடே பகுதியைச் சேர்ந்த 19 வயதுடைய இளைஞன்  உயிரிழந்துள்ளார்.
+Motorcycle crash kills one, injures others near Kumbukte. 19-year-old dies after collision with another motorcycle. Four injured children hospitalized.
 
-பன்னெக்கமவிலிருந்து நெலவ நோக்கிப் பயணித்த மோட்டார் சைக்கிள் எதிர் திசையில் வந்த மற்றுமொரு மோட்டார் சைக்கிளுடன் மோதி  இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-விபத்தின் போது, மோட்டார் சைக்கிளில்களில் பயணித்த நால்வரும் மேலும்  இரு குழந்தைகளும் படுகாயமடைந்து ஹிரிபிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன்,  இளைஞன் ஒருவன் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+A 19 -year -old youth from Kumbukte, Kumbukte, died in an accident on Sunday afternoon (27) at Kumbukte - Pannekama Nalawa Road.
+
+The accident occurred when a motorcycle traveling from Pannakamavu to Nalawa collided with another motorcycle in the opposite direction.
+
+During the accident, four and two children who were traveling on motorcycles were injured and admitted to the Hiripitiya Hospital and a young man died without treatment.
 
 ◼️
 
 [Data](articles/36ab6dc0.json)
+
+[Extended Data](ext_articles/36ab6dc0.ext.json)
 
 ---
 
@@ -64,17 +86,25 @@ He further criticized the government’s stance on the committee’s findings, h
 
 [Data](articles/7dd5b138.json)
 
+[Extended Data](ext_articles/7dd5b138.ext.json)
+
 ---
 
-### கரையோர ரயில் சேவைகள் பாதிப்பு
+### Impact of coastal train services
 
 *2024-10-28 11:47:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரையோர-ரயில்-சேவைகள்-பாதிப்பு/175-346179) · `ta`
 
-பாணந்துறையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த ரயில் கம்பனிவீதி ரயில் நிலையத்தில் தடம் புரண்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Coastal train service impact: Train derailed near Company station, affecting travel between Panadura and Colombo Fort. Railway department statement pending.
+
+🟩
+
+The railway department has said that the train traveling from Panadura to Colombo Fort has been derailed at the Company.
 
 ◼️
 
 [Data](articles/92811bfe.json)
+
+[Extended Data](ext_articles/92811bfe.ext.json)
 
 ---
 
@@ -185,6 +215,8 @@ The delegation comprised 11 business professionals from Sri Lanka, representing 
 ...
 
 [Data](articles/7c9a315c.json)
+
+[Extended Data](ext_articles/7c9a315c.ext.json)
 
 ---
 
@@ -580,6 +612,8 @@ The central bank announced 12,500 million Treasury Bonds will be issued through 
 
 [Data](articles/1bf0ef1b.json)
 
+[Extended Data](ext_articles/1bf0ef1b.ext.json)
+
 ---
 
 ### Rice and paddy consignment report handed over to President
@@ -621,6 +655,8 @@ Windforce signed the agreement with Cocoon investment Pvt Ltd on October 20 for 
 ◼️
 
 [Data](articles/d1601857.json)
+
+[Extended Data](ext_articles/d1601857.ext.json)
 
 ---
 
@@ -953,6 +989,8 @@ Some tourist industry officials have said Red Wings may have been deterred by fl
 ...
 
 [Data](articles/ed551862.json)
+
+[Extended Data](ext_articles/ed551862.ext.json)
 
 ---
 
@@ -2231,31 +2269,5 @@ The Sri Lanka Tea Board says that 517 tea plantants in the 11th districts of the
 [Data](articles/68256308.json)
 
 [Extended Data](ext_articles/68256308.ext.json)
-
----
-
-### The police are also innovative
-
-*2024-10-27 19:50:24* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියෙත්-නවක-වදය/11-412707) · `si`
-
-Police constable arrested for assaulting 3 trainees at Tissamaharama station. Suspect accused of harassment, assault, and misconduct. Remanded before magistrate court.
-
-🟩
-
-A police constable was arrested in connection with a bunch of three amateur police constables at Tissamaharama police. Says police headquarters
-
-The three suspects have been reported from the Police Training College from police Training College from police Training College.
-
-The suspect has been attached to the police and has come to the Single Troops of the Ministry (26), a senior police officer said.
-
-The police officer said that the suspect was assaulted, attacked and sexually abused and sexually abused and sexually abused and sexually abused.
-
-According to a complaint lodged by the three police constables above, the suspect was arrested.
-
-...
-
-[Data](articles/3acb0bff.json)
-
-[Extended Data](ext_articles/3acb0bff.ext.json)
 
 ---

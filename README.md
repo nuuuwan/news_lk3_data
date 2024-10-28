@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 16:39:46**
+As of **2024-10-28 16:57:53**
 
 ## Newspaper Stats
 
-*Scraped **51,836** Articles*
+*Scraped **51,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,95 @@ dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,818
 adaderanalk | 6,140
-tamilmirrorlk | 7,175
+tamilmirrorlk | 7,176
 virakesarilk | 8,362
-adaderanasinhalalk | 9,011
+adaderanasinhalalk | 9,015
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,835 (100.0%) of 51,836 articles have been extended.
+51,841 (100.0%) of 51,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Gary Kirston goes from Pakistan
+
+*2024-10-28 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202654) · `si`
+
+Gary Kirsten resigns as Pakistan cricket coach after controversy. Appointed in April 2024, he leaves post during Australian tour. Jason replaces him as Test coach.
+
+🟩
+
+Former South African players Gary Kaston, who served as the main coach of Pakistan and 20th groups, has resigned from the post.
+
+International media reports the controversy between Pakistan cricketers and cricket coaches.
+
+In April 2024, Kirsten was appointed as the head coach of the Groups and 20 teams for two years.
+
+He has resigned from the post in the Australian tour for less than a week.
+
+Jason, the coach of Pakistan Test, has been appointed to the position he empty.
+
+◼️
+
+[Data](articles/3f87fbe7.json)
+
+[Extended Data](ext_articles/3f87fbe7.ext.json)
+
+---
+
+### Railway Department announced from Mahawa - Omanthai railway line
+
+*2024-10-28 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202653) · `si`
+
+Railway Department statement: Measures taken to protect train tracks and pedestrian crossings. Investigations conducted with trade unions before railway operations.
+
+🟩
+
+The Railway Department has issued a statement regarding reports of the Railway Railway line between Mahawa and Omanthai railway line.
+
+It states that some trade unions have commented on the railway line from time to time.
+
+However, the train department has taken measures to protect the train roads and pedestrians traveling through crosswalks on train passengers on train travel.
+
+The statement states that several investigations have been carried out by participating in the relevant trade unions on several occasions before the railway operations.
+
+◼️
+
+[Data](articles/db936b0b.json)
+
+[Extended Data](ext_articles/db936b0b.ext.json)
+
+---
+
+### Adjournment of case against Wimal
+
+*2024-10-28 16:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமலுக்கு-எதிரான-வழக்கு-ஒத்திவைப்பு/175-346208) · `ta`
+
+Wimal Weerawansa case adjourned due to illness. Next hearing on Nov 25. Disrupted traffic during 2016 UN rights chief protest.
+
+🟩
+
+The case against National Freedom Front leader Wimal Weerawansa was adjourned on Monday (28) on charges of disrupting public and normal traffic during the 2016 protest.
+
+He has been postponed because he failed to appear in court due to illness.Former parliamentarian Weerawansa was infected with the virus, and his lawyer team brought to the notice of the court that he was unable to attend the planned trial.
+
+Colombo Chief Magistrate Thilina Kamage adjourned the hearing to November 25. The accused and witnesses of the case were ordered to appear in court on the next hearing.
+
+The Cinnamon Police has accused the National Freedom Front leader Wimal Weerawansa and five leadership of the struggle that broke the main roads in Buddhism Mawatha in 2016 and disrupted the public and normal traffic.
+
+On February 6, 2016, the National Freedom Front staged a protest against the arrival of the United Nations Human Rights High Commissioner Zaid Rad al -Hussein.
+
+...
+
+[Data](articles/a3c9b3cd.json)
+
+[Extended Data](ext_articles/a3c9b3cd.ext.json)
+
+---
 
 ### The first water supply in Mannar
 
@@ -57,6 +133,34 @@ The first water supply was taken up at a meeting taken at a meeting chaired by t
 [Data](articles/84e8d6e1.json)
 
 [Extended Data](ext_articles/84e8d6e1.ext.json)
+
+---
+
+### Swine flu spreads to some other provinces
+
+*2024-10-28 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202652) · `si`
+
+Swine flu outbreak: 70,000 pigs affected in Western Province, 20,000 dead. Disease spread to Uva, Northern, and North Western Provinces. No cure found. Compensation needed for farmers. Investigation ongoing in Gampaha District.
+
+🟩
+
+Western Provincial Council Director, Department of Animal Production and Health, reports from the Uva, Northern and North Western Provinces. K. Sarath says.
+
+The Ada Derana joined the Ada Derana to the Big FUCUS program.
+
+He pointed out that the death percentage of the swine fever was very high and has not yet found a drug for the condition of the disease.
+
+Provincial Director K.. K. Mr. Sarath said.
+
+He further stated that the animals have been identified by the Baraduwala, Welisara and Padukka in the Western Province.
+
+According to the data reported last week, there are about 70,000 pigs in the Western Province and 20,000 of them have died.
+
+...
+
+[Data](articles/b0dac83a.json)
+
+[Extended Data](ext_articles/b0dac83a.ext.json)
 
 ---
 
@@ -95,6 +199,38 @@ Nishantha Perera, who contested as the NPP Group Leader, is tipped to be appoint
 [Data](articles/2f0a80c9.json)
 
 [Extended Data](ext_articles/2f0a80c9.ext.json)
+
+---
+
+### The case against constructing a road in the Sinharaja forest is postponed
+
+*2024-10-28 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202651) · `si`
+
+Sinharaja forest road construction case postponed. Court criticizes lack of State Counsel representation. Petitioners seek legal action against those responsible for destroying World Heritage site.
+
+🟩
+
+The Court of Appeal today (28), a petition filed by the Sinharaja Forests who had been named as a World Heritage Summark was held on January 23.
+
+The petition is Mohammed Lawfar and P. The Court of Appeal consisting of Kumaran Ratnam was called before the judge.
+
+There was no statement that a State Counsel had not been appointed to appear on behalf of the respondent.
+
+The judges who blamed the matter have been inappropriate in this manner.
+
+The judge also pointed out that a State Counsel should be appointed expeditiously.
+
+The Petitioners said that the decision of President Gotabhaya Rajapaksa had decided to expand itself, as a world heritage had been named as a World Heritage.
+
+The petitioners had called for an order to issue legal action against persons responsible for the destruction of the relevant decision.
+
+The Director General of the CEA and the Director General of the Department of Wildlife, the Director General of the Wildlife Department have been named as respondents in the petition.
+
+◼️
+
+[Data](articles/baa54135.json)
+
+[Extended Data](ext_articles/baa54135.ext.json)
 
 ---
 
@@ -668,25 +804,31 @@ In a presidential election year, the American voters mark their ballots to elect
 
 ---
 
-### මර්වින් ජානා අල්ලයි
+### Mervyn arrested Jana
 
 *2024-10-28 13:04:00* · [`adalk`](https://www.ada.lk/breaking_news/මර්වින්-ජානා-අල්ලයි/11-412717) · `si`
 
-මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු හා සංවිධානාත්මක අපරාධකරුවෙකු වන ජානක ප්‍රසාද්  හෙවත් මර්වින් ජානා නමැත්තා අයිස් මත්ද්‍රව්‍ය සමඟ පොලිස් විශේෂ කාර්ය බළකාය මගින් අත්අඩංගුවට ගත් බව  බොරලැස්ගමුව පොලිසිය කියයි.
+Maaka Prasad, major drug dealer, arrested by STF. Seized 17,060 liters of ice, vehicle, phone. Facing murder and riot powder cases. Handed to Boralesgamuwa Police for investigation.
 
-සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 17060 ක් මෙන්ම සුඛෝභෝගී මෝටර් රථයක් හා ජංගම දුරකථනයක් ද පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-පොලිස් විශේෂ කාර්ය බළකා මොරටුව කඳවුරේ නිලධාරීන්ට  ලද තොරතුරකට අනුව බොරලැස්ගමුව  දේවාලමුල්ලේ සැකකරුගේ ඥාති නිවසක සැඟවී සිටියදී අත්අඩංගුවට ගෙන තිබූ බව පොලිසිය සඳහන් කරයි
+Boralesgamuwa Police say that Maaka Prasad, who is a large scale drug dealer and organized criminal, has been arrested by the Special Task Force of the Police Special Task Force.
 
-සැකකරුට මේ වන විට මනුෂ්‍ය ඝාතන නඩුවක් මෙන්ම හොරයින් බත් කුඩු ජාවාරම සම්බන්ධයෙන් නඩුවක් විභාග වෙමින් පවතින බවත් පොලිසිය කියයි.
+The suspect has also seized 17060 liters of ice, as well as a lieger car and a mobile phone.
 
-සැකකරු සිදුකරගෙන ආ මත්ද්‍රව්‍ය  ජාවාරම යුක්තිය මෙහෙයුමත් සමගම නවතා දමා ඇති බවටද   තොරතුරු ලිපියේ ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+Special Task Force (STF) Police said that he was arrested while hiding in the cousin suspected of the Moratuwa camp officials on information received by the Moratuwa camp.
 
-පොලිස් විශේෂ කාර්ය බළකාය මගින් අත්අඩංගුවට ගත් සැකකරු බොරලැස්ගමුව පොලිසිය වෙත භාරදීමෙන් අනතුරුව දින 7 ක කාලයක් රැඳවුම්  නියෝග ලබාගෙන ප්‍රශ්න කරන බව උසස් පොලිස් නිලධාරියා  වැඩිදුරටත් පැවසීය.
+The suspect is currently undergoing a case of a human murder case, as well as the case is being heard on riot powder racket.
+
+He said that the drug racket was stopped with the operation of the suspect, a senior police officer said.
+
+The suspect arrested by the STF handed over to the Boralesgamuwa Police for seven days after handing over to the Boralesgamuwa Police, he added.
 
 ...
 
 [Data](articles/3cce3ede.json)
+
+[Extended Data](ext_articles/3cce3ede.ext.json)
 
 ---
 
@@ -2219,105 +2361,5 @@ The people have been asked to take necessary steps to reduce the temporary winds
 [Data](articles/022327ac.json)
 
 [Extended Data](ext_articles/022327ac.ext.json)
-
----
-
-### NPP wins Elpitiya Pradeshiya Sabha election
-
-*2024-10-28 03:30:52* · [`dailyftlk`](https://www.ft.lk/news/NPP-wins-Elpitiya-Pradeshiya-Sabha-election/56-768504) · `en`
-
-Secures most votes; a total of 17,295, winning 15 seats out of 29 up for grabs
-
-Dr. Nalinda Jayatissa claims SJB has struggled to reorganise and strengthen support, even for a small election, resulting in fewer seats
-
-Stresses while NPP expects better competition, SJB will likely lose seats rather than gain in upcoming Parliamentary poll
-
-Says SJB’s criticisms are tactic to downplay defeat in recent elections
-
-National People’s Power (NPP) Kalutara district leader Dr. Nalinda Jayatissa has criticised the Samagi Jana Balawegaya (SJB) for its comments following the recent Pradeshiya Sabha election, where the SJB suggested that the results indicate a decline in support for the NPP.
-
-The election, held on Saturday, saw the NPP secure the most votes – a total of 17,295 – winning 15 seats out of 29 up for grabs. The SJB received 7,924 votes and gained six seats.
-
-...
-
-[Data](articles/6888f97e.json)
-
-[Extended Data](ext_articles/6888f97e.ext.json)
-
----
-
-### People’s Struggle Alliance condemns US Embassy’s terror alert
-
-*2024-10-28 03:29:56* · [`dailyftlk`](https://www.ft.lk/news/People-s-Struggle-Alliance-condemns-US-Embassy-s-terror-alert/56-768503) · `en`
-
-The People’s Struggle Alliance (PSA), led by the Frontline Socialist Party (FLSP), last week voiced strong concerns regarding the recent US Embassy announcement cautioning its citizens visiting Sri Lanka about potential terror threats in Sri Lanka, specifically in the tourist hub of Arugam Bay.
-
-Addressing a press conference, PSA Colombo district candidate Tharindu Uduwaragedara questioned both the timing of the Embassy’s statement and the Sri Lankan Government’s lack of an official response.
-
-He highlighted the importance of the tourism sector, which was once the leading contributor to Sri Lanka’s economy. He noted that in 2018, the industry generated $ 4.3 billion, which rose to $ 5 billion the following year. He said despite recent challenges, Sri Lanka is expecting $ 3 billion in revenue from tourism this year, primarily during the high season months of November and December.
-
-...
-
-[Data](articles/1f28f733.json)
-
-[Extended Data](ext_articles/1f28f733.ext.json)
-
----
-
-### Sri Lanka participates at CHOGM 2024
-
-*2024-10-28 03:28:06* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-participates-at-CHOGM-2024/56-768502) · `en`
-
-Lanka participated at the Commonwealth Heads of Government Meeting (CHOGM) 2024 held in Apia, Samoa from 24-26 October.
-
-The theme of the CHOGM 2024 was “One Resilient Common Future: Transforming our Common Wealth”.
-
-The Commonwealth, a voluntary association of 56 independent states, is one of the world’s oldest political association of states that work together towards the shared goals of peace, democracy, and prosperity. The organisation is home to approximately 2.7 billion people, and includes both advanced economies and developing countries.
-
-During the CHOGM 2024, the Leaders’ Statement, the Samoa CHOGM 2024 Communiqué, and the Apia Commonwealth Ocean Declaration were adopted. The leaders also selected Ghanaian Foreign Affairs and Regional Integration Minister Shirley Ayorkor Botchwey as the incoming Secretary-General of the Commonwealth.
-
-...
-
-[Data](articles/12f1960d.json)
-
-[Extended Data](ext_articles/12f1960d.ext.json)
-
----
-
-### CASIO intensifies fight against counterfeits in Sri Lanka
-
-*2024-10-28 02:56:53* · [`dailyftlk`](https://www.ft.lk/business/CASIO-intensifies-fight-against-counterfeits-in-Sri-Lanka/34-768495) · `en`
-
-In a strong commitment to upholding brand integrity and protecting consumers, Casio Computer Co. Ltd., headquartered in Japan, after its successful enforcement against counterfeit watches, recently conducted another significant enforcement action against counterfeit calculators including both desktop and scientific ranges, in Sri Lanka.
-
-This initiative is part of the Casio Group’s IP Enforcement Policy, aimed at combating the rising issue of counterfeit Casio products in the Sri Lankan market and safeguarding its valued consumers.
-
-In collaboration with a local law firm and the Colombo Crime Division (CCD), Casio successfully carried out a raid on a leading wholesaler and importer of stationery goods based in Colombo. As a result of this coordinated operation, authorities seized substantial quantities of counterfeit calculators which were imitations of running Casio Calculator models.
-
-...
-
-[Data](articles/e412072d.json)
-
-[Extended Data](ext_articles/e412072d.ext.json)
-
----
-
-### Ceylon Biscuits retains MTI for international strategy alignment
-
-*2024-10-28 02:53:03* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Biscuits-retains-MTI-for-international-strategy-alignment/34-768494) · `en`
-
-Sri Lanka’s largest consumer products group with a reach of over 65 countries
-
-CBL Group Managing Director Shea Wickramasingha (left) and MTI Consulting CEO Hilmy Cader
-
-The CBL Group, Sri Lanka’s largest consumer products group with an international reach to over 65 countries, has completed an international strategy alignment exercise with MTI Consulting.
-
-Ceylon Biscuits, home to the Munchee brand, has led the biscuits category for 20 years through brand strategies closely linked with consumer community needs.
-
-...
-
-[Data](articles/3f21f9e4.json)
-
-[Extended Data](ext_articles/3f21f9e4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 13:09:59**
+As of **2024-10-28 13:24:17**
 
 ## Newspaper Stats
 
-*Scraped **51,802** Articles*
+*Scraped **51,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,814
-adaderanalk | 6,134
-tamilmirrorlk | 7,169
+adaderanalk | 6,135
+tamilmirrorlk | 7,170
 virakesarilk | 8,353
 adaderanasinhalalk | 9,007
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 9,007
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,802 (100.0%) of 51,802 articles have been extended.
+51,804 (100.0%) of 51,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Passport queues re-emerge
+
+*2024-10-28 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102978/passport-queues-re-emerge) · `en`
+
+Since early morning, long queues have formed outside the passport office in Battaramulla as people await tokens for obtaining passports, Ada Derana reporter said.
+
+Many reported arriving as early as 4.00 a.m., yet by mid-morning, over 1,900 individuals were still waiting in lines.
+
+Several people expressed frustration, claiming that only one police officer had been assigned to check documents, which many cited as the primary reason for the extended waiting times.
+
+◼️
+
+[Data](articles/160737e7.json)
+
+[Extended Data](ext_articles/160737e7.ext.json)
+
+---
+
+### Change in the price of eggs
+
+*2024-10-28 12:53:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலையில்-மாற்றம்/175-346181) · `ta`
+
+Egg prices drop: Red eggs now 36 rupees, down from 42; White eggs 35 rupees, down from 41. Report by All Ceylon Egg Traders Association.
+
+🟩
+
+According to a report by the All Ceylon Egg Traders Association, the price of a red egg today (28). 36.
+
+Meanwhile, the price of a white egg has been recorded at 35 rupees.
+
+The price of a red and white egg last week was Rs 42 and 41 respectively.
+
+◼️
+
+[Data](articles/42ee2ae3.json)
+
+[Extended Data](ext_articles/42ee2ae3.ext.json)
+
+---
 
 ### Dilith Jayaweera says committed to building a respectable public service
 
@@ -2227,51 +2267,5 @@ Approximately 1,000 child cancer patients have been identified as Liakemia, brat
 [Data](articles/78c153b8.json)
 
 [Extended Data](ext_articles/78c153b8.ext.json)
-
----
-
-### மட்டக்களப்பில் இம்முறை இரண்டு   ஆசனங்களை கைப்பற்றுவோம் - எஸ். Ganesamurthy
-
-*2024-10-27 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197252) · `ta`
-
-Here's a 200-character summary:
-
-
-
-S. Ganesamurthy, Batticaloa district chief organizer and UPF primary candidate, captures two seats. Special mention for his victory over Veerakesari.
-
-🟩
-
-Batticaloa district chief organizer and primary candidate of the United People's Power. கணேசமூர்த்தி  வீரகேசரிக்கு  விசேட செவ்வி
-
-◼️
-
-[Data](articles/61b72623.json)
-
-[Extended Data](ext_articles/61b72623.ext.json)
-
----
-
-### Youth killed in motorcycle accident in BibilaOne injury
-
-*2024-10-27 22:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197274) · `ta`
-
-Motorcycle crash kills youth in Bibila; one injured
-
-🟩
-
-பிபில பொலிஸ்  பிரிவுக்குட்பட்ட , பிபில மஹியங்கனை வீதியில் மோட்டார் சைக்கிள் வேகக்கட்டுப்பாட்டை இழந்து விபத்துக்குள்ளானதில் , இளைஞன் ஒருவன் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதுடன் மற்றையவர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-இவ் விபத்தில் , பதுலுஓயாவைச் சேர்ந்த 16 வயதுடைய இளைஞன் ஒருவன் உயிரிழந்துள்ளான்.
-
-The motorcycle traveling from the Rabarwatta area to Mahiyangan on the Bibila Mahiyanganaya road lost control and crashed into a mound.
-
-இந்த விபத்தில் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார். The other person was injured and admitted to the Bibila hospital, police said.
-
-◼️
-
-[Data](articles/eba701cd.json)
-
-[Extended Data](ext_articles/eba701cd.ext.json)
 
 ---

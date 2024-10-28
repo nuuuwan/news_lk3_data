@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 03:09:38**
+As of **2024-10-29 03:24:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,903 (100.0%) of 51,907 articles have been extended.
+51,906 (100.0%) of 51,907 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -122,6 +122,8 @@ In the post-colonial era, many Asian nations sought strong leaders to guide them
 
 [Data](articles/9930f092.json)
 
+[Extended Data](ext_articles/9930f092.ext.json)
+
 ---
 
 ### Leveraging military skills for success in corporate world
@@ -133,6 +135,8 @@ In today’s context, we observe a growing number of ex-military personnel, both
 ...
 
 [Data](articles/6a6c78a6.json)
+
+[Extended Data](ext_articles/6a6c78a6.ext.json)
 
 ---
 
@@ -147,6 +151,8 @@ Nobel prizes are awarded by the Nobel Foundation in Sweden using an endowment of
 ...
 
 [Data](articles/bf2e2c38.json)
+
+[Extended Data](ext_articles/bf2e2c38.ext.json)
 
 ---
 

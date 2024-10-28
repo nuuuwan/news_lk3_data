@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 19:40:01**
+As of **2024-10-28 19:58:42**
 
 ## Newspaper Stats
 
-*Scraped **51,870** Articles*
+*Scraped **51,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adalk | 4,821
 adaderanalk | 6,146
 tamilmirrorlk | 7,182
 virakesarilk | 8,372
-adaderanasinhalalk | 9,018
+adaderanasinhalalk | 9,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,870 (100.0%) of 51,870 articles have been extended.
+51,871 (100.0%) of 51,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Doit for Procurement Procedures
+
+*2024-10-28 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202658) · `si`
+
+Summarized: President Anura Kumara Dissanayake calls for strengthening National Procurement Commission, addressing procurement delays, corruption opportunities, and expanding commission powers.
+
+🟩
+
+President Anura Kumara Dissanayake said that a proper plan should be implemented to strengthen the National Procurement Commission.
+
+President Anura Kumara Dissanayake made these comments at a discussion held at the Presidential Secretariat this morning at the Presidential Secretariat this morning.
+
+President Anura Kumara Dissanayake discussed at length to the National Procedure Commission officials regarding the current procurement process and procurement process.
+
+The officials were presented to the President that the officials were filed in accordance with the procurement activities of the existing law and guidelines.
+
+About 60% of all expenses, including government capital expenditure, should be subject to a proper procurement process, but the officials of the National Procurement Commission pointed out that the government is delayed due to the shortcomings of the procurement process.
+
+They further pointed out that there is much opportunity for corruption.
+
+...
+
+[Data](articles/125b8357.json)
+
+[Extended Data](ext_articles/125b8357.ext.json)
+
+---
 
 ### Youth sentenced to life in prison for heroin possession
 
@@ -2419,29 +2447,5 @@ Due to the crisis of the Corona period, the importation of vehicle imports to Sr
 [Data](articles/5c7346e0.json)
 
 [Extended Data](ext_articles/5c7346e0.ext.json)
-
----
-
-### Reduces the privileges of former President
-
-*2024-10-28 10:07:03* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිවරුන්ගේ-වරප්‍රසාද-අඩුකරනවා/11-412712) · `si`
-
-Former President reduces privileges, criticizes politicians' focus on personal gain over public service. Promises transparency, accountability, and education reform. Emphasizes need for experienced leaders who prioritize national interests over self-interest.
-
-🟩
-
-"Politics in our country is like a business. People's Chandu take the power of the government and produce riches. Take houses and tains Colombo houses and take foreign houses. Their politics is to earn money. The politics of our country will be transformed into a public service by the national community, "President Anura Kumara Dissanayake said.
-
-He was speaking at a public meeting held at the Baddegama Kumme public stadium yesterday (27).
-
-"Election in elections with one of the government and the Opposition card and other. If the national folk force becomes powerful, oil gas is false as much as possible. The people have ambudded people regarding the people while they continue to say. But we won. Now we have been a short time for a month. What's wrong with now.
-
-All these words have lied. The masses now know that all the talks are false. What's going on in the next general election?. In the presidential election, the Chandayaka's electorates to the speed of national channels.. Give them.
-
-...
-
-[Data](articles/47b0903f.json)
-
-[Extended Data](ext_articles/47b0903f.ext.json)
 
 ---

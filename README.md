@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 02:40:15**
+As of **2024-10-29 02:58:15**
 
 ## Newspaper Stats
 
-*Scraped **51,898** Articles*
+*Scraped **51,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,537
 dailymirrorlk | 4,733
 adalk | 4,826
 adaderanalk | 6,148
-tamilmirrorlk | 7,185
+tamilmirrorlk | 7,186
 virakesarilk | 8,374
 adaderanasinhalalk | 9,025
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 9,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,898 (100.0%) of 51,898 articles have been extended.
+51,899 (100.0%) of 51,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Let's capture 3 seats
+
+*2024-10-29 01:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-ஆசனங்களை-கைப்பற்றுவோம்/175-346233) · `ta`
+
+Anura Kumara Dissanayake contests 3 seats in Batticaloa district. Party aims to win 176 seats nationally. Promises to improve country like Singapore. Seeking public support for upcoming elections.
+
+🟩
+
+This is the work of our party leader Anura Kumara Dissanayake, who is the work of our party leader Anura Kumara Dissanayake, who is contesting the three seats in the Batticaloa district this time.
+
+He was speaking at a public meeting held at Kaluwanchikudi, Batticaloa on Sunday (27).As he further stated,
+
+At the request of our party leader and president, Anuragumara Dissanayake, I am contesting in the Batticaloa district in the parliamentary election.
+
+In the Batticaloa district, we have a great success in the Batticaloa district and strengthened the president's hands and all the projects for the future welfare of the country are in accordance with the principles of the President and the principles of the President, we are the servant of the people and build this country as a better country and a better country than Singapore.We will follow with sponsorship.
+
+...
+
+[Data](articles/c98ab8bb.json)
+
+[Extended Data](ext_articles/c98ab8bb.ext.json)
+
+---
 
 ### The model does not fight for the community
 
@@ -2395,25 +2419,5 @@ During the accident, four and two children who were traveling on motorcycles wer
 [Data](articles/36ab6dc0.json)
 
 [Extended Data](ext_articles/36ab6dc0.ext.json)
-
----
-
-### Gammanpila challenges Minister Herath to prove allegations against Easter attack investigative committee’s chair
-
-*2024-10-28 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102975/gammanpila-challenges-minister-herath-to-prove-allegations-against-easter-attack-investigative-committees-chair) · `en`
-
-In a press conference held today (28) at the Pivithuru Hela Urumaya (PHU) party’s headquarters, former MP Udaya Gammanpila challenged Cabinet Spokesman and Minister Vijitha Herath to substantiate the allegations of misconduct against retired judge S.I. Alwis.
-
-Retired High Court Judge Alwis had chaired an investigative committee appointed to probe the 2019 Easter Sunday attacks in Sri Lanka.
-
-Gammanpila questioned the credibility of the accusations made by Minister Herath, calling for transparency in the discourse surrounding the retired judge. He asserted, “Anyone can make accusations, but if an accusation is made, it must be proven with evidence. That’s why I challenged Minister Vijitha Herath to present evidence of Judge Alwis’s alleged misconduct at the next government press conference.”
-
-He further criticized the government’s stance on the committee’s findings, highlighting a lack of response to the Pivithuru Hela Urumaya’s concerns regarding the Alwis committee report.
-
-...
-
-[Data](articles/7dd5b138.json)
-
-[Extended Data](ext_articles/7dd5b138.ext.json)
 
 ---

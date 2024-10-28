@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 18:00:49**
+As of **2024-10-28 18:21:05**
 
 ## Newspaper Stats
 
-*Scraped **51,844** Articles*
+*Scraped **51,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,818
-adaderanalk | 6,142
+adaderanalk | 6,143
 tamilmirrorlk | 7,176
 virakesarilk | 8,362
-adaderanasinhalalk | 9,016
+adaderanasinhalalk | 9,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,844 (100.0%) of 51,844 articles have been extended.
+51,846 (100.0%) of 51,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### President stresses need to strengthen National Procurement Commission
+
+*2024-10-28 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102987/president-stresses-need-to-strengthen-national-procurement-commission) · `en`
+
+President Anura Kumara Dissanayake has emphasized the importance of implementing a procurement plan and strengthening the National Procurement Commission (NPC).
+
+The President shared these views in a meeting held at the Presidential Secretariat this morning (28), where he engaged in an in-depth discussion with NPC officials on the current procurement laws and procedures, the President’s Media Division (PMD) said in a statement.
+
+Officials from the National Procurement Commission informed the President that although around 60% of all government expenditures, including capital expenses, should ideally follow a proper procurement process, shortcomings in this process are causing significant losses to the government. This, they noted, creates greater opportunities for fraud and corruption, the statement added.
+
+...
+
+[Data](articles/a7b997e5.json)
+
+[Extended Data](ext_articles/a7b997e5.ext.json)
+
+---
+
+### Frontline tells the President
+
+*2024-10-28 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202656) · `si`
+
+Frontline Socialist Party writes to President Anura Kumara Dissanayake about bankruptcy experiences and debt restructuring plans. The letter, titled "Credit Pinnest and Risk of a Long Term Failure," spans 13 pages.
+
+🟩
+
+The Frontline Socialist Party has written to President Anura Kumara Dissanayake by President Anura Kumara Dissanayake.
+
+It contains the experience of bankruptcy to restore the resumes of some countries, if the debt restructuring plan does not prepare the debt reconstruction plan.
+
+The title of 13 pages is referred to as the title of the letter.
+
+Credit Pinnest and Risk of a Long Term Failure - Letter to President BY POORNIMA ON SCRBD
+
+◼️
+
+[Data](articles/d59f3063.json)
+
+[Extended Data](ext_articles/d59f3063.ext.json)
+
+---
 
 ### Sri Lanka Railways addresses safety concerns on Maho-Omanthe line
 
@@ -2315,51 +2357,5 @@ The car was also taken into custody by the suspects and Padaviya Police are cond
 [Data](articles/3c3891ea.json)
 
 [Extended Data](ext_articles/3c3891ea.ext.json)
-
----
-
-### Licit child kills a little child
-
-*2024-10-28 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202633) · `si`
-
-Child killed in Sri Lanka. Woman died when elephant escaped due to power outage. Parents protected home with elephants. Police investigation ongoing.
-
-🟩
-
-A child has been killed in the Wilgamuwa - Permanewatta area.
-
-The deceased has been identified as a woman from a Visitathtunatwatta area in Naminigatwatta for seven years.
-
-The parents of the deceased child have been prepared to protect the home and gardening elephants, and 06.00 pm has been disconnected at 06.00 am.
-
-However, the police have revealed that the residents had forgotten the electricity to turn off the day and the death of the waslands behind the house.
-
-◼️
-
-[Data](articles/1322a0dc.json)
-
-[Extended Data](ext_articles/1322a0dc.ext.json)
-
----
-
-### Separatism, Eradication of Corruption: Vijay's announcement
-
-*2024-10-28 07:20:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரிவினைவாதம்-ஊழலை-ஒழிக்க-வேண்டும்-விஜய்-அறிவிப்பு/175-346156) · `ta`
-
-Vijay announces separation from corruption, aiming for 2026 assembly election victory. Party focuses on secular social justice, women empowerment, education, healthcare, and caste census. Emphasizes democratic governance and inclusive leadership.
-
-🟩
-
-Separation, to abolish corruption culture. We will win the 2026 assembly elections with a majority. At the first state convention of the Tamil Nadu Victory Council, party leader Vijay said that those who have accepted our policies will be shared in power and sharing power.
-
-The first state convention of the Tamil Nadu Victory Corporation was held yesterday in the name of 'Victory Policy'. Conference events started with the Tamil greeting. The party's treasurer Venkatraman, led by Vijay, pledged. Later, when Vijay addresses the principles,
-
-Periyar is the symbol of our principles. But, we are not going to take the refusal policy of God.. Our principle is that God is the only one. Next, Kamarajar, who gave the honest administration, Ambedkar, the heroic women Velunacharya, Anjalai Ammal. These are all our policy leaders. To abolish not only separatist ideology but also corrupt culture. The hypocrisy is now a year old.
-
-...
-
-[Data](articles/4f4c74fe.json)
-
-[Extended Data](ext_articles/4f4c74fe.ext.json)
 
 ---

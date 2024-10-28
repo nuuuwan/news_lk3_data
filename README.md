@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 21:59:29**
+As of **2024-10-28 22:15:03**
 
 ## Newspaper Stats
 
-*Scraped **51,880** Articles*
+*Scraped **51,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,825
-adaderanalk | 6,146
+adaderanalk | 6,147
 tamilmirrorlk | 7,183
 virakesarilk | 8,373
-adaderanasinhalalk | 9,022
+adaderanasinhalalk | 9,024
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,880 (100.0%) of 51,880 articles have been extended.
+51,882 (100.0%) of 51,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### කොළඹ වාණිජ නගර සංවර්ධන ව්‍යාපෘතියේ ප්‍රගතිය පිළිබඳ සාකච්ඡාවක්
+
+*2024-10-28 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202664) · `si`
+
+ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා සහ පෝට් සිටි කලම්බෝ සමාගමේ කළමණාකාර අධ්‍යක්ෂ ෂියොන්ග් හොංෆෙන්ග් මහතා අතර හමුවක් ජනාධිපති ලේකම් කාර්යාලයේදී අද (28) පස්වරුවේ පැවැත්විණි.
+
+කොළඹ වාණිජ නගරයේ සංවර්ධන ව්‍යාපෘතියේ ප්‍රගතිය සම්බන්ධයෙන් මෙහිදී දීර්ඝ ලෙස සාකච්ඡා වී ඇති අතර අනාගත ආර්ථික අභියෝග ජයගැනීමේ නව සැලසුම් පිළිබඳවද මෙම සාකච්ඡාවේදී අවධානයට ලක් ව තිබේ.
+
+ගංවතුරෙන් විපතට පත් ජනතාව වෙනුවෙන් පෝර්ට් සිටි කලම්බෝ සමාගම රුපියල් මිලියන තුනක මුදල් පරිත්‍යාගයක් ද මෙහිදී සිදු කෙරිණි.
+
+◼️
+
+[Data](articles/151da9a3.json)
+
+---
+
+### A clue about the new electricity tariff?
+
+*2024-10-28 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202663) · `si`
+
+New electricity tariff update: CEB proposes 4-11% reduction. Government to review and potentially lower rates. CEB profits may impact final decision.
+
+🟩
+
+The Public Utilities Commission states that the Ceylon Electricity Board (CEB) recently submitted to the Sri Lanka Public Corruption to the Sri Lanka Power Board.
+
+A total of the percentage of the Ceylon Electricity Board (CEB) stated that the percentage of the Ceylon Electricity Board (CEB) should be reduced by 4 to 11 percent.
+
+Accordingly, steps will be taken to study the proposals of the Ceylon Electricity Board and promptly.
+
+Meanwhile, the government is able to reduce electricity tariffs in relation to the revision of the electricity tariffs.
+
+However, as the Ceylon Electricity Board (Ceylon Electricity Board) has been profit, the Ceylon Electricity Board (CEB) has joined a media briefing today, "Sanjeewa Dhammika said.
+
+◼️
+
+[Data](articles/ac4eab62.json)
+
+[Extended Data](ext_articles/ac4eab62.ext.json)
+
+---
+
+### Discussion held on advancements in Colombo Port City project
+
+*2024-10-28 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102991/discussion-held-on-advancements-in-colombo-port-city-project) · `en`
+
+A meeting was held at the Presidential Secretariat today (28) between Secretary to the President Dr. Nandika Sanath Kumanayake, and Managing Director of CHEC Port City Colombo (Private) Limited Xiong Hongfeng.
+
+The discussions centered on the progress of the Colombo Commercial City development project, with a focus on new strategies to address anticipated economic challenges, the President’s Media Division (PMD) said.
+
+In a display of corporate social responsibility, CHEC Port City Colombo (Private) Limited also announced a donation of Rs. 03 million to aid those affected by recent flooding.
+
+Assistant Managing Director of CHEC Port City Colombo (Private) Limited Xian Nan (Neo) was also present at the meeting.
+
+◼️
+
+[Data](articles/c1d2935a.json)
+
+[Extended Data](ext_articles/c1d2935a.ext.json)
+
+---
 
 ### Probation propaganda to use digital screens
 
@@ -2395,83 +2457,5 @@ Sri Lanka's President Anurag Dissanayake vows to remove perks offered to previou
 [Data](articles/90100869.json)
 
 [Extended Data](ext_articles/90100869.ext.json)
-
----
-
-### Report on Rice and Paddy Reserve to the President
-
-*2024-10-28 10:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-மற்றும்-நெல்-இருப்பு-தொடர்பான-அறிக்கை-ஜனாதிபதியிடம்/175-346172) · `ta`
-
-Consumer Affairs Authority report on rice/paddy reserves handed to President. Data collected from Anuradhapura, Polonnaruwa, Ampara, Hambantota. Shortage of white and red rice addressed.
-
-🟩
-
-A report prepared by the Consumer Affairs Authority (CEB) on rice and paddy in the country will be handed over to the President today (28).
-
-The Consumer Affairs Authority (CAA) has taken steps to obtain data on rice and paddy reserves in the districts of Anuradhapura, Polonnaruwa, Ampara and Hambantota, according to the President's directive.
-
-The President has issued this work as the country has a shortage of rice, including the country, white and red rice.
-
-At the instructions of the president, when the consumer authorities inspected massive and medium rice mills, the participation took place between the authorities and the plant workers.
-
-◼️
-
-[Data](articles/bf21ee8f.json)
-
-[Extended Data](ext_articles/bf21ee8f.ext.json)
-
----
-
-### Two persons arrested for illegal liquor
-
-*2024-10-28 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197296) · `ta`
-
-Two persons arrested for illegal liquor at Bogus Junction. Suspects aged 22 and 30 from Taraviluwa. Police seized 48.75 liters of illicit alcohol.
-
-🟩
-
-Two suspects have been arrested by the police on Sunday (27) with illegal liquor at Bogus Junction, which belongs to the Puttalam and Mundal Police Division.
-
-முந்தல் பொலிஸாருக்குக் கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-The arrested suspects were 22 and 30 years old from Taraviluwa.
-
-கைது செய்யப்பட்ட சந்தேக நபர்களிடம் இருந்து , 48.75 லீற்றர் (65 போத்தல்கள்) சட்டவிரோத மதுபானம் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/1890da50.json)
-
-[Extended Data](ext_articles/1890da50.ext.json)
-
----
-
-### Youths arrested for Youth
-
-*2024-10-28 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202643) · `si`
-
-Youth arrests for street racing in Colombo. Nine three-wheeler drivers and riders detained. Race occurred on main road, affecting pedestrians and locals. Drivers aged 18-22 from nearby areas. Vehicles seized, drivers charged with drunk driving.
-
-🟩
-
-කොළඹ - මීගමුව ප්‍රධාන මාර්ගයේ මාර්ග නීති උල්ලංඝනය කරමින් මුදල් ඔට්ටු මත ත්‍රී රෝද රථවලින් රේස් පැදවූ පිරිසක් වත්තල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-The group was arrested on the same morning on information received by the Wattala Police.
-
-මෙහිදී ත්‍රී රෝද රථ 09ක් සහ රියදුරන් 09 දෙනෙකු අත්අඩංගුවට ගෙන ඇත.
-
-Drivers are aged between the ages of 18 to 22 years, residents of Dematagoda, Modara, Kerawalapitiya and Mabala areas.
-
-Residents of the area say that the group has been launched in midnight at the Colombo-Negombo main road.
-
-It has been revealed that the race due to the racing, driven by pavements, pedestrians and the locals have been severely affected.
-
-අත්අඩංගුවට ගත් ත්‍රී රෝද රථ රියදුරන් රාගම මහ රෝහලේ අධිකරණ වෛද්‍ය නිලධාරියා වෙත ඉදිරිපත් කර ඇති අතර එහිදී හෙළි වී ඇත්තේ ඔවුන් මත්පැන් පානය කර ඇති බවය.
-
-◼️
-
-[Data](articles/5bace162.json)
-
-[Extended Data](ext_articles/5bace162.ext.json)
 
 ---

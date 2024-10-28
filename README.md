@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 14:59:07**
+As of **2024-10-28 15:11:11**
 
 ## Newspaper Stats
 
-*Scraped **51,817** Articles*
+*Scraped **51,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,085
 economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,815
-adaderanalk | 6,135
+adalk | 4,816
+adaderanalk | 6,136
 tamilmirrorlk | 7,172
 virakesarilk | 8,356
 adaderanasinhalalk | 9,010
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,815 (100.0%) of 51,817 articles have been extended.
+51,818 (100.0%) of 51,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### PM Harini responds to ex-President’s claims on public sector salaries
+
+*2024-10-28 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102979/pm-harini-responds-to-ex-presidents-claims-on-public-sector-salaries) · `en`
+
+Prime Minister Dr. Harini Amarasuriya stated that despite former President Ranil Wickramasinghe’s claims about a Cabinet decision to raise government employees’ salaries, the proper procedures were not followed when taking the decision.
+
+Speaking at a public rally in Padukka, she pointed out that even though the former President had announced a salary increase for government employees, the Cabinet decision was made without consulting the Treasury or officials from the Ministry of Finance.
+
+“The decision was announced, but the decision has not been taken after doing the part necessary to implement the decision.”
+
+“What does that say? It is clearly a false promise made during the election period to mislead the people,” she added.
+
+◼️
+
+[Data](articles/b26ac1f8.json)
+
+[Extended Data](ext_articles/b26ac1f8.ext.json)
+
+---
 
 ### ඉන්දියාවම හෙල්ලූ තලපති විජේගේ දේශපාලන වේදිකාව
 
@@ -326,6 +346,30 @@ The price of a red and white egg last week was Rs 42 and 41 respectively.
 
 ---
 
+### 637 vehicles fell in customs
+
+*2024-10-28 12:52:20* · [`adalk`](https://www.ada.lk/breaking_news/රේගුව-ඇල්ලූ-වාහන-637ක්-දිරන්න-ඇරලා/11-412716) · `si`
+
+Customs seized 637 vehicles, 435 rejected due to improper decay. Audit finds vehicles held over 5 years without sale. Investigations ongoing.
+
+🟩
+
+The National Audit office reveals that the various types of vehicles arrested by the Customs have been allowed to be improperly decaying.
+
+435 of these vehicles have been rejected by the Customs, the Audit Office is retained by the Customs Department for the Last Ruhunura Port.
+
+The audit shows that the exchange of exchange has been imported for more than five years and allows a auction in a situation that auction is unable to make a performing amount of money.
+
+The Customs Countice has informed the audit that investigations are still under investigation into many vehicles and the activities related to these vehicles are recommended to the Customs.
+
+◼️
+
+[Data](articles/be738a1f.json)
+
+[Extended Data](ext_articles/be738a1f.ext.json)
+
+---
+
 ### Dilith Jayaweera says committed to building a respectable public service
 
 *2024-10-28 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102977/dilith-jayaweera-says-committed-to-building-a-respectable-public-service) · `en`
@@ -387,6 +431,8 @@ The total absence of violence before, during, and after the Presidential electio
 ...
 
 [Data](articles/296b78ca.json)
+
+[Extended Data](ext_articles/296b78ca.ext.json)
 
 ---
 
@@ -2185,35 +2231,5 @@ According to the election results, the news that the president's party cannot ru
 [Data](articles/6a59d519.json)
 
 [Extended Data](ext_articles/6a59d519.ext.json)
-
----
-
-### Navigating tax reforms: Immediate measures
-
-*2024-10-28 01:38:01* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-tax-reforms-Immediate-measures/4-768472) · `en`
-
-The abolition of the SVAT will adversely affect exporters, among others, negatively impacting Sri Lanka’s efforts to attract foreign currency
-
-The greatest challenge for policymakers and tax administrators is to establish a robust, corruption-free refund mechanism. For over 25 years, Sri Lanka has struggled to implement efficient tax refund mechanisms for both VAT and income tax. The new Government must address these issues before proceeding with the abolition of SVAT
-
-...
-
-[Data](articles/ae6dfb78.json)
-
-[Extended Data](ext_articles/ae6dfb78.ext.json)
-
----
-
-### Child’s Guide To Critics Of IMF’s Debt Sustainability Analysis
-
-*2024-10-28 01:30:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/childs-guide-to-critics-of-imfs-debt-sustainability-analysis/) · `en`
-
-Aseni, the whiz kid of economics has come across a report by the Nobel Laureate Joseph E. Stiglitz and former Argentinian Economy Minister Martin Guzmán critiquing IMF’s Debt Sustainability Analysis, known as DSA[1]. This report has been prepared by them for the faith, development, and advocacy group Jubilee-USA Network and the USA branch of the German foundation, Friedrich Ebert Stiftung, for submission to IMF to enable it to consider how its standard DSA should be revised. Aseni has found that it is a technical subject that needs the support of her grandfather, Sarath Mahatthaya, an ex-Finance Ministry Official, to understand it. This led to an interactive dialogue between the two.
-
-...
-
-[Data](articles/ba685077.json)
-
-[Extended Data](ext_articles/ba685077.ext.json)
 
 ---

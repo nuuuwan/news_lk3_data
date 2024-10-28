@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 09:26:26**
+As of **2024-10-28 09:40:21**
 
 ## Newspaper Stats
 
-*Scraped **51,753** Articles*
+*Scraped **51,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,146
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,808
-adaderanalk | 6,125
-tamilmirrorlk | 7,156
+adaderanalk | 6,126
+tamilmirrorlk | 7,158
 virakesarilk | 8,345
 adaderanasinhalalk | 8,998
 
@@ -26,11 +26,79 @@ adaderanasinhalalk | 8,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,753 (100.0%) of 51,753 articles have been extended.
+51,756 (100.0%) of 51,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Review of the Correction Correction Today
+
+*2024-10-28 09:15:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மின்கட்டணத்-திருத்தம்-தொடர்பான-மீளாய்வு/175-346163) · `ta`
+
+Sri Lanka Electricity Board recently submitted a proposal for tariff revision to the Public Utilities Commission. The commission's officials will discuss this today. If additional corrections are needed, further actions will be communicated via letter to the Electricity Board.
+
+🟩
+
+இந்த வருடத்தின் மூன்றாவது காலாண்டு மீளாய்வுக்காக, இலங்கை மின்சார சபை அண்மையில் கட்டண திருத்தத்திற்கான முன்மொழிவை பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் சமர்ப்பித்தது.
+
+முன்மொழியப்பட்ட மீளாய்வுகள் இன்று பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் அதிகாரிகளால் இன்று (28) கலந்துரையாடப்பட உள்ளதாக அதன் நிறுவன தொடர்பாடல் பணிப்பாளர் ஜயநாத் ஹேரத் தெரிவித்தார்.
+
+ஆணைக்குழுவுக்கு கூடுதல் திருத்தங்கள் தேவைப்பட்டால், மேலும் நடவடிக்கைகள் தேவைப்பட்டால், மின் வாரியத்திற்கு கடிதம் மூலம் தெரிவிக்கப்படும். R
+
+◼️
+
+[Data](articles/9a3c1087.json)
+
+[Extended Data](ext_articles/9a3c1087.ext.json)
+
+---
+
+### Notorious drug trafficker ‘Bakery Jana’ arrested in special operation
+
+*2024-10-28 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102969/notorious-drug-trafficker-bakery-jana-arrested-in-special-operation) · `en`
+
+An organized criminal and large-scale drug trafficker, known as ‘Marvin Jana’ or ‘Bakery Jana,’ has been apprehended in Sri Lanka after successfully evading security forces for some time.
+
+During a special operation conducted by the Special Task Force (STF) on October 26, ‘Bakery Jana’ was arrested with crystal methamphetamine, commonly known as ‘ice.’ The raid took place at No. 24/1/1, First Lane, Dewalamulla Junction, Dehiwala Road, in the Boralasgamuwa Police Division.
+
+The 45-year-old suspect, a resident of Attidiya, Dehiwala, was arrested while in possession of 17 grams and 60 milligrams of ‘ice’ while traveling in a car to carry out smuggling activities.
+
+The suspect has been handed over to Boralasgamuwa Police Station for further investigation.
+
+◼️
+
+[Data](articles/50e406a6.json)
+
+[Extended Data](ext_articles/50e406a6.ext.json)
+
+---
+
+### ஆரம்பிக்கப்பட்டது புகையிரத சேவை ; மக்களுக்கு எச்சரிக்கை
+
+*2024-10-28 09:07:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆரம்பிக்கப்பட்டது-புகையிரத-சேவை-மக்களுக்கு-எச்சரிக்கை/175-346162) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Train service launched from Kottabos Fort to Kantharodai. Public advised to exercise caution when crossing railways. Service aims to improve connectivity between Colombo and northern regions.
+
+🟩
+
+கொழும்பு கோட்டையில் இருந்து காங்கேசன் துறை வரையான புகையிரத சேவை இன்று (28) முதல் ஆரம்பிக்கப்பட்டுள்ளது.
+
+Deputy Railway General Manager NJ has said that the action has been taken after the rehabilitation of the railway line up to Mahawa and Anuradhapura. இந்திபொலகே விடுத்துள்ள அறிவித்தலில் தெரிவிக்கப்பட்டுள்ளது.
+
+The Department of Railways has requested the public that the train will travel on the northern railway line every day after the launch of the train service, and the public who use the railway crossing will be very careful.. R
+
+◼️
+
+[Data](articles/617a821b.json)
+
+[Extended Data](ext_articles/617a821b.ext.json)
+
+---
 
 ### Mervyn Jana, Or Bakeryhi Jana arrested
 
@@ -2267,83 +2335,5 @@ Shuntoto was able to serve the Test tournament against New Zealand last year.
 [Data](articles/91dc7fd1.json)
 
 [Extended Data](ext_articles/91dc7fd1.ext.json)
-
----
-
-### One arrested with heroin in Grandpas!
-
-*2024-10-27 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/197268) · `ta`
-
-Arrested suspect found with heroin in Grandpas. 25-year-old man from Colombo 14 caught with 5g 25ml heroin. Motorcycle seized during arrest. Further investigation ongoing by CID.
-
-🟩
-
-A suspect in the Grandpass Police Division has been arrested by police on Saturday (26).
-
-The arrested suspect is a 25 -year -old from Colombo 14.
-
-From the arrested suspect, 05 g 25 ml of heroin was seized by police.
-
-The motorcycle was seized by the police after he was trying to escape on a motorcycle when he went to arrest the suspect.
-
-Further investigations are being carried out by the Colombo Criminal Investigation Division.
-
-◼️
-
-[Data](articles/a7135914.json)
-
-[Extended Data](ext_articles/a7135914.ext.json)
-
----
-
-### "Basic salary should be paid 2000 rupees"
-
-*2024-10-27 16:50:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அடிப்படை-சம்பளம்-2000-ரூபாய்-வழங்கப்பட-வேண்டும்/76-346127) · `ta`
-
-National People's Power urges 2000 rupee base salary for plantation workers. Government must propose this to salary council. Union promises full support.
-
-🟩
-
-“The union of the National People's Power has urged plantation workers to be paid a base salary of 2 thousand rupees. Therefore, the government must present the proposal and put forward the idea of ​​the salary council. We will give it full support. ”
-
-He was speaking at a media briefing held at the CLF auditorium in Kotagala on Sunday (27).
-
-Within a short period of time in the last regime we have launched political, economic and social plans on the people of the hill country. Even the housing project was resumed.
-
-However, after the presidential election, no plans have been launched on the people of the hill country. There is suspicion among the people whether development projects will be carried out.
-
-During the presidential election, national people promised to reduce prices of goods. But the price of goods is currently on the rise.We do not criticize the president. There is still an economic crisis. People have to be a little more patient. The consequences of regime change should be met.
-
-...
-
-[Data](articles/059efdad.json)
-
-[Extended Data](ext_articles/059efdad.ext.json)
-
----
-
-### "Basic salary should have 2,000 rupees"
-
-*2024-10-27 16:50:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அடிப்படை-சம்பளம்-2-000-ரூபாய்-வேண்டும்/76-346127) · `ta`
-
-National People's Power urges 2,000 rupee base salary for plantation workers. Government must propose this to salary council. Union promises full support.
-
-🟩
-
-“The union of the National People's Power has urged plantation workers to be paid a base salary of 2 thousand rupees. Therefore, the government must present the proposal and put forward the idea of ​​the salary council. We will give it full support. ”
-
-He was speaking at a media briefing held at the CLF auditorium in Kotagala on Sunday (27).
-
-Within a short period of time in the last regime we have launched political, economic and social plans on the people of the hill country. Even the housing project was resumed.
-
-However, after the presidential election, no plans have been launched on the people of the hill country. There is suspicion among the people whether development projects will be carried out.
-
-During the presidential election, national people promised to reduce prices of goods. But the price of goods is currently on the rise.We do not criticize the president. There is still an economic crisis. People have to be a little more patient. The consequences of regime change should be met.
-
-...
-
-[Data](articles/1d18c9a6.json)
-
-[Extended Data](ext_articles/1d18c9a6.ext.json)
 
 ---

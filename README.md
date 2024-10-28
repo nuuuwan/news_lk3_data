@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 10:39:46**
+As of **2024-10-28 11:12:07**
 
 ## Newspaper Stats
 
-*Scraped **51,763** Articles*
+*Scraped **51,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ islandlk | 3,081
 economynextcom | 3,146
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,809
-adaderanalk | 6,128
+adalk | 4,810
+adaderanalk | 6,129
 tamilmirrorlk | 7,161
 virakesarilk | 8,345
-adaderanasinhalalk | 8,999
+adaderanasinhalalk | 9,004
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,763 (100.0%) of 51,763 articles have been extended.
+51,770 (100.0%) of 51,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Youths arrested for Youth
+
+*2024-10-28 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202643) · `si`
+
+Youth arrests for street racing in Colombo. Nine three-wheeler drivers and riders detained. Race occurred on main road, affecting pedestrians and locals. Drivers aged 18-22 from nearby areas. Vehicles seized, drivers charged with drunk driving.
+
+🟩
+
+කොළඹ - මීගමුව ප්‍රධාන මාර්ගයේ මාර්ග නීති උල්ලංඝනය කරමින් මුදල් ඔට්ටු මත ත්‍රී රෝද රථවලින් රේස් පැදවූ පිරිසක් වත්තල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+The group was arrested on the same morning on information received by the Wattala Police.
+
+මෙහිදී ත්‍රී රෝද රථ 09ක් සහ රියදුරන් 09 දෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+
+Drivers are aged between the ages of 18 to 22 years, residents of Dematagoda, Modara, Kerawalapitiya and Mabala areas.
+
+Residents of the area say that the group has been launched in midnight at the Colombo-Negombo main road.
+
+It has been revealed that the race due to the racing, driven by pavements, pedestrians and the locals have been severely affected.
+
+අත්අඩංගුවට ගත් ත්‍රී රෝද රථ රියදුරන් රාගම මහ රෝහලේ අධිකරණ වෛද්‍ය නිලධාරියා වෙත ඉදිරිපත් කර ඇති අතර එහිදී හෙළි වී ඇත්තේ ඔවුන් මත්පැන් පානය කර ඇති බවය.
+
+◼️
+
+[Data](articles/5bace162.json)
+
+[Extended Data](ext_articles/5bace162.ext.json)
+
+---
+
+### President to receive report on national rice and paddy stocks today
+
+*2024-10-28 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102972/president-to-receive-report-on-national-rice-and-paddy-stocks-today-) · `en`
+
+The Consumer Affairs Authority (CAA) is set to deliver the report on the current stocks of rice and paddy available in Sri Lanka to President Anura Kumara Dissanayake today (28).
+
+This assessment comes following the President’s directive to gauge the rice supply amidst a market shortage of several varieties, including nadu, white, and red raw rice.
+
+In response to the instructions, CAA officers conducted inspections in the Anuradhapura, Polonnaruwa, Ampara, and Hambantota districts on Saturday and Sunday.
+
+During these inspections, they gathered data on stock levels at large and medium-scale rice mills and engaged with mill workers regarding the availability and distribution of rice and paddy.
+
+The findings are expected to aid the government in addressing the supply issues affecting key rice varieties.
+
+◼️
+
+[Data](articles/8a04d183.json)
+
+[Extended Data](ext_articles/8a04d183.ext.json)
+
+---
+
+### An Indo-Lanka Joint Active Group Meeting
+
+*2024-10-28 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202642) · `si`
+
+Indo-Lanka Joint Active Group Meeting summary: 200 characters
+
+🟩
+
+A meeting of the Indo-Lanka Joint Activity Team is scheduled to be held tomorrow (29).
+
+Secretary to the Ministry of Fisheries Ministama discussions will be held at the Mahaweli Center in Colombo tomorrow morning.. P. M. Mr. Wickremasinghe said.
+
+ඉන්දු - ලංකා ඒකබද්ධ ක්‍රියාකාරී කණ්ඩායමේ 06වන රැස්වීම මෙය වන අතර මේ සඳහා නිලධාරී මට්ටමේ සාමාජිකයින් 12 දෙනෙකු සහභාගී වීමට නියමිතය.
+
+Fisheries Ministry has instructed the Fisheries Ministry to discuss the 'Bottom Tralin' by President Anura Kumara Dissanayake.
+
+Accordingly, the Fisheries Ministry has taken steps to educate Indian authorities through the Indian embassy.
+
+The discussion will be held tomorrow and between 400 and 500 Indian trawlers are scheduled to discuss the batatolin scheme in Sri Lanka for a period of 3 days.
+
+Through this method, the long-term effects and deep sea ocean balance have occurred due to fishing.
+
+...
+
+[Data](articles/dea04b1b.json)
+
+[Extended Data](ext_articles/dea04b1b.ext.json)
+
+---
 
 ### Train services on Northern Line resume
 
@@ -78,6 +160,30 @@ Candidate Dr. Prakas said that they are talking about political issues in the st
 
 ---
 
+### ගෞරවනීය රාජ්‍ය සේවයක් වෙනුවෙන් කැපවෙන බවට දිලිත්ගෙන් සහතිකයක්
+
+*2024-10-28 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202641) · `si`
+
+Dilith Jayaweera emphasizes building a respectful public service, focusing on improving the quality of public servants and their lives. He encourages collaboration between the government and opposition to enhance human development through parliamentary efforts.
+
+🟩
+
+ගෞරවනීය රාජ්‍ය සේවයක් නිර්මාණය කිරීම සඳහා තමා ඇතුළු කණ්ඩායම කැප වී කටයුතු කරන බව සර්වජන බලය නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+He said he would work with the courageous opposition.
+
+He was speaking at a public brief in Attanagalla, speaking to the Leader of the Norgeon Patrol Dilith Jayaweera.
+
+"What must we do to build a respectable public service, especially the quality of the people, especially the quality of life of the public servants? To give the public servant, the development of their lives, and the prospect of the development of their lives, we must go to Parliament. ඒ පාර්ලිමේන්තුව ඇත්ළේ අපිට පුළුවන් අපේ අත්දැකීම් එයින් දියුණු වෙන මිනිස්සු දියුණු වුණ මිනිස්සුන්ට උදව් කරන්න පුළුවන් මිනිස්සු, හැම මිනිහම දියුණු වෙනවා බලන්න කැමති මිනිස්සුන්ගෙන් මේ පාර්ලිමේන්තුව පුරවන්න අපි විපක්ෂයේ වාඩි වෙනවා එඩිතර විපක්ෂයක් විදියට."
+
+◼️
+
+[Data](articles/7c34897b.json)
+
+[Extended Data](ext_articles/7c34897b.ext.json)
+
+---
+
 ### A new notice released on vehicle imports
 
 *2024-10-28 10:07:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-வெளியான-புதிய-அறிவிப்பு/175-346166) · `ta`
@@ -99,6 +205,50 @@ Due to the crisis of the Corona period, the importation of vehicle imports to Sr
 [Data](articles/5c7346e0.json)
 
 [Extended Data](ext_articles/5c7346e0.ext.json)
+
+---
+
+### Gammanpila's second revelation of the Passover attack
+
+*2024-10-28 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202640) · `si`
+
+Udaya Gammanpila holds second press conference revealing details about the Passover attack.
+
+🟩
+
+Former Parliamentarian Udaya Gammanpila is currently conducting a special news discussion.
+
+The second press conference conducted by Gammanpila is the second press conference to reveal the Passover attack.
+
+◼️
+
+[Data](articles/089b5691.json)
+
+[Extended Data](ext_articles/089b5691.ext.json)
+
+---
+
+### Rice and paddy consignment report handed over to President
+
+*2024-10-28 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202639) · `si`
+
+Consumer Affairs Authority hands over rice/paddy report to President. Report covers Anuradhapura, Polonnaruwa, Ampara, Hambantota rice mills. Focuses on white, red, and nalkest rice varieties.
+
+🟩
+
+The report of the Consumer Affairs Authority is due to hand over the Consumer Affairs Authority regarding the rice and paddy of paddy in the country today (28).
+
+The Consumer Affairs Authority has taken measures to obtain data on rice mills in Anuradhapura, Polonnaruwa, Ampara and Hambantota, on the two advice of the President.
+
+The president was instructed by the president in a settlement of several rice, including nalkest rice, including nuts, white and red rice in the market.
+
+The officers of the Consumer Affairs Authorities were conducted by the Consumer Affairs Authority (Large and Medium Scale Malline), where the officers and the paddy mill workers were present.
+
+◼️
+
+[Data](articles/d30e52e3.json)
+
+[Extended Data](ext_articles/d30e52e3.ext.json)
 
 ---
 
@@ -1604,6 +1754,24 @@ Former presidents' perks cut: President Anura Kumara Dissanayake proposes reduci
 
 ---
 
+### 14 former ministers have not yet handed over quarters
+
+*2024-10-27 20:03:23* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-අමාත්‍යවරුන්-14ක්-තවමත්-නිල-නිවාස-භාර-දී-නෑ/11-412710) · `si`
+
+14 former ministers still occupying official residences despite government notice.
+
+🟩
+
+There are 14 ministers who have not been handed over to quarters. Meanwhile, a former opposition leader of the government of the good governance. It also includes the name of Mr. Police and Deputy Speaker Ajith Rajapaksa. It was reported that the official residence of former Water Supply from a car accident has been handed over to the official residence used by Hon. Sanath Nishantha.
+
+...
+
+[Data](articles/e3be15fd.json)
+
+[Extended Data](ext_articles/e3be15fd.ext.json)
+
+---
+
 ### Railway employees free Railway permit
 
 *2024-10-27 19:59:40* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සේවකයන්ට-නිදහස්-දුම්රිය-අවසර-පතක්/11-412709) · `si`
@@ -2133,159 +2301,5 @@ The importance of the system is that the Tamils ​​and Muslims living in the 
 [Data](articles/ea2929b8.json)
 
 [Extended Data](ext_articles/ea2929b8.ext.json)
-
----
-
-### Newly blossomed Chinese - Indian relationship
-
-*2024-10-27 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/197258) · `ta`
-
-Here's a 200-character summary:
-
-
-
-India-China relations improving after 4-year Ladakh standoff. Leaders sign agreement, troops withdrawal begins. Economic ties remain crucial despite tensions. Both nations seek to strengthen cooperation while maintaining strategic independence.
-
-🟩
-
-Are the fastest growing countries, the coalition countries of the country, acting in international politics?International political enthusiasts are showing great concern to know if they are acting as if they are actually committed to overcoming all the differences between them and overcoming the strength of the West.
-
-Brazilian Russia, India, China and South Africa are moving fast in the hands of the international arena, combining some of the strongest and growing countries.
-
-At the same time, both sides have announced that it has signed a contract to quench the four -year tension between India and China as part of this growth.
-
-The report on the Agreement has been released shortly before Chinese President Shi Jinping and Indian Prime Minister Narendra Modi will be present at the upcoming Pirikks conference this week.
-
-...
-
-[Data](articles/563cba6c.json)
-
-[Extended Data](ext_articles/563cba6c.ext.json)
-
----
-
-### Kammanpila as the monkey monkey
-
-*2024-10-27 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/197256) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ranil stated on the 24th that he didn't know the two investigators personally. He arranged for the Attorney General's Department to assist them. Ranil formed a team without knowing who was involved.
-
-🟩
-
-In his statement on the 24th, Ranil said that none of the two investigators were personally known and arranged for the assistance of the Attorney General's Department to support their investigations.. Ranil would have formed a team without knowing who was?
-
-◼️
-
-[Data](articles/905ee85e.json)
-
-[Extended Data](ext_articles/905ee85e.ext.json)
-
----
-
-### Greek trade unionists who prevented arms distribution to Israel
-
-*2024-10-27 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197269) · `ta`
-
-Greek trade unionists block arms shipment to Israel. Port workers unite against war, showing unions can impact global conflicts. Their actions may force regimes to reconsider decisions.
-
-🟩
-
-Members of the Prayas port union have proved that union members can take heavy action against war if they are united. If similar measures are taken on a global basis, the problem that can be created for those in the regime may lead to re -recruiting their decisions.
-
-◼️
-
-[Data](articles/04468484.json)
-
-[Extended Data](ext_articles/04468484.ext.json)
-
----
-
-### Israel - Hizbullah War "The reality of the bargaining beyond statistics"
-
-*2024-10-27 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197271) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Israel-Hizbullah conflict: Hezbollah as armed resistance vs. Lebanon's parliament. US observes Hizbullah tactics.
-
-🟩
-
-While the Hezbollah Movement is the philosophy of armed rebellion against the dominant forces, the role of Avanon. If Lebanon's Parliament is in the midst of these two philosophies. The US is observing the tactic that the Hizbullah movement will not completely completely completely.
-
-◼️
-
-[Data](articles/780f2fc3.json)
-
-[Extended Data](ext_articles/780f2fc3.ext.json)
-
----
-
-### Warning Warning: Whose plan is to disrupt peace?
-
-*2024-10-27 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197270) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Augkampay incident causes fear in community. Muslims concentrated, while Tamils and Sinhalese live among foreigners. Responsibility lies in reporting this issue.
-
-🟩
-
-The Augkampay affair has caused some fear in the community and the disturbance of something that is going to happen. It is our responsibility to write about it as Muslims are concentrated, the Tamils ​​and the Sinhalese are not only living in the foreigners.
-
-◼️
-
-[Data](articles/e1a03315.json)
-
-[Extended Data](ext_articles/e1a03315.ext.json)
-
----
-
-### We will fight for the liberation of our nation till the end of Hamas
-
-*2024-10-27 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197272) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Hamas leader Sinwar leads Gaza resistance against Israel for 12 months. His strategic approach damages Israel's global image, reducing international support for its actions. The statement emphasizes ongoing struggle for Palestinian liberation.
-
-🟩
-
-Sinwar has been in Gaza for the past 12 months. He continued to head for military operations against Israel. So bravely and wise he faced Israel. As a result, Israel was in a state of disrepair on the world stage that the international support for its killings was not enough.
-
-◼️
-
-[Data](articles/f5312a15.json)
-
-[Extended Data](ext_articles/f5312a15.ext.json)
-
----
-
-### One arrested with illegal Koda in Horana
-
-*2024-10-27 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/197236) · `ta`
-
-Horana police arrest suspect for illegal liquor in Telgahagodella area.
-
-🟩
-
-A suspect in the Telgahagodella area belonging to the Horana Police Division has been arrested by a suspect who has been arrested for illegal liquor.
-
-He was arrested during a raid carried out on the basis of information received by the Horana Police Station Officers.
-
-◼️
-
-[Data](articles/f20816ef.json)
-
-[Extended Data](ext_articles/f20816ef.ext.json)
 
 ---

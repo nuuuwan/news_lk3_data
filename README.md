@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 00:14:25**
+As of **2024-10-29 00:25:31**
 
 ## Newspaper Stats
 
-*Scraped **51,894** Articles*
+*Scraped **51,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,826
 adaderanalk | 6,148
-tamilmirrorlk | 7,183
+tamilmirrorlk | 7,184
 virakesarilk | 8,373
 adaderanasinhalalk | 9,025
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,894 (100.0%) of 51,894 articles have been extended.
+51,895 (100.0%) of 51,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Union action within 72 hours
+
+*2024-10-28 23:13:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/72-மணித்தியாலங்களுக்குள்-தொழிற்சங்க-நடவடிக்கை/175-346231) · `ta`
+
+Railway Principals Association SLRSMU takes union action against improper appointments. Cabinet allowed to select examiners every 5 years. Union announces strike within 72 hours as appointments continue.
+
+🟩
+
+The Railway Principals Association (SLRSMU) has decided to take trade union action against the appointment of railway principals in violation of procedures.
+
+The Cabinet has been granted permission to appoint exams for posts for the railway station principals and railway regulators once in five years.
+
+However, the union has announced that the union struggle will begin within 72 hours, saying that the appointment is currently underway.
+
+◼️
+
+[Data](articles/31817f8b.json)
+
+[Extended Data](ext_articles/31817f8b.ext.json)
+
+---
 
 ### Around 40 killed in attack on Chad military base, presidency says
 
@@ -2419,27 +2441,5 @@ The National Audit Office has recommended to the Department of Examinations to t
 [Data](articles/e86778fa.json)
 
 [Extended Data](ext_articles/e86778fa.ext.json)
-
----
-
-### Railway toddy on the coastal route
-
-*2024-10-28 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202645) · `si`
-
-Coastal route train delay due to single railway line blockage near Colombo Maradana station.
-
-🟩
-
-පානදුර දුම්රිය ස්ථානයෙන් පෙරවරු 09.15ට කොළඹ මරදාන බලා ධාවනය වූ දුම්රිය කොම්පඤ්ඤ වීදිය දුම්රිය ස්ථානය අසලදී දී පිලී පැනීමකට ලක්ව තිබුණි.
-
-As a result, only one railway line is blocked while trains will be held on the other road.
-
-As a result, train transport on the coastal route is delayed.
-
-◼️
-
-[Data](articles/c95cba0f.json)
-
-[Extended Data](ext_articles/c95cba0f.ext.json)
 
 ---

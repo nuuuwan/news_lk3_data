@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 19:13:26**
+As of **2024-10-28 19:24:30**
 
 ## Newspaper Stats
 
-*Scraped **51,869** Articles*
+*Scraped **51,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,821
-adaderanalk | 6,145
+adaderanalk | 6,146
 tamilmirrorlk | 7,182
 virakesarilk | 8,372
 adaderanasinhalalk | 9,018
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,861 (100.0%) of 51,869 articles have been extended.
+51,868 (100.0%) of 51,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Youth sentenced to life in prison for heroin possession
+
+*2024-10-28 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102990/youth-sentenced-to-life-in-prison-for-heroin-possession) · `en`
+
+The Colombo High Court today (28) sentenced a 31-year-old youth to life imprisonment following his conviction for the possessing of heroin.
+
+The accused, a resident of Borella and father to a one-month-old child, was apprehended on November 08, 2016, in the vicinity of the Borella New Magazine Prison. Police had discovered 11.07 grams of heroin in the possession of the accused during a routine search, leading to his subsequent arrest.
+
+The Attorney General’s Department pursued charges of heroin possession and trafficking against the accused, resulting in a lengthy trial in which the prosecution successfully established guilt beyond reasonable doubt.
+
+During sentencing, the accused’s legal counsel pleaded for leniency, emphasizing that her client had no prior criminal record and highlighting his role as a new father. Despite these arguments, the High Court Judge ultimately deemed a life sentence appropriate, underscoring the seriousness of drug-related offenses, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/d3aea540.json)
+
+[Extended Data](ext_articles/d3aea540.ext.json)
+
+---
 
 ### Another luxury cart recovery
 
@@ -68,21 +88,37 @@ It is reported that the train which had derailed near the Kompanna Veediya railw
 
 ---
 
-### කටුනායකට ආපු ඉන්දීය ගුවන් යානයකට තෙවැනි වරටත් බෝම්බ බියක්
+### Indian aircraft in Katunayake bombs
 
 *2024-10-28 18:17:46* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ආපු-ඉන්දීය-ගුවන්-යානයකට-තෙවැනි-වරටත්-බෝම්බ-බියක්/11-412721) · `si`
 
-ඉන්දීය ගුවන් යානයක් තුළ බෝම්බ ඇති බවට කටුනායක ගුවන් තොටුපොළ වෙත හදිසි ගොඩ බැස්සවීමක් (Emergency Landing) සිදු කළ තුන් වැනි ගුවන් යානය ද 10/28 දින පස්වරුවේ දැඩි ආරක්ෂක විධිවිධාන මධ්‍යයේ කටුනායක ගුවන් තොටුපොළ වෙත  ගොඩ බැස්සවීමට පියවර ගෙන තිබුණි.
+Here's a summary of the text in approximately 200 characters:
 
-මෙවර මෙසේ බෝම්බ තර්ජනයකට ලක් වී තිබුණේ ඉන්දීය ගුවන් සේවයේ ගුවන් යානයකි .
 
-ඉන්දීය ගුවන් සේවයේ ඒ.අයි.- 281 දරන  ගුවන් යානය 10/28 දින පස්වරු 04.05 ට සාමාන්‍ය පරිදි ගොඩ බැස්සවීමට නියමිතව තිබුණද , ඉන් විනාඩි 08 කට පෙර , එනම් පස්වරු 03.57 ට කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට පියවර ගෙන තිබුණි .
 
-ගුවන් යානය එයාර් බස් ඒ.-320 වර්ගයේ එකක් වූ අතර එහි ගුවන් මගීන් 108 දෙනෙකු සහ ගුවන් යානා කාර්යය මණ්ඩලය ලෙස තවත් 08 දෙනෙකු ද පැමිණ තිබුණි .
+Indian aircraft bomb threat: Flight AIA-281 diverted to Katunayake airport due to anonymous call about bombs. Army commandos and dogs searched plane. Passengers evacuated safely. Threat against over 300 aircraft in India.
+
+🟩
+
+Steps were taken to lago a three-third flight to the Katunayake airport that the bombs were bombed in an Indian aircraft.
+
+This is a threat of Indian airline.
+
+The Airline AIA - 281, the flight was to be landed at averaging 24.05 pm, while the five-minute had been landed at the Katunayake airport.
+
+The airplane was a 320 square and 88 passengers and eight more were attended by the aircraft staff.
+
+India's headquarters had received an anonymous phone call to the Indian Airlines' headquarters in New Delhi, India's bombs.. After he was referred to Katunayake airport authorities, the aircraft had taken steps to landed emergency.
+
+Accordingly, the officers carrying the army commandos, army commandos, who trained the officers of the fire and identify the dogs, bombs, and identifying the dogs, bombs, officers who were trained, officers who were trained by the doctors, decorated dogs.
+
+The aircraft is then buried by the air passengers and other items, including the aircraft and other items.
 
 ...
 
 [Data](articles/ef5276dd.json)
+
+[Extended Data](ext_articles/ef5276dd.ext.json)
 
 ---
 
@@ -222,15 +258,21 @@ He said that he had repeatedly rejected the reports that he had not handed over 
 
 ---
 
-### හෙරෝයින් සමග අත්අඩංගුවට ගත් පුද්ගලයෙකුට මරණ දඬුවම
+### Death penalty for a person arrested with heroin
 
 *2024-10-28 17:38:56* · [`adalk`](https://www.ada.lk/breaking_news/හෙරෝයින්-සමග-අත්අඩංගුවට-ගත්-පුද්ගලයෙකුට-මරණ-දඬුවම/11-412720) · `si`
 
-හෙරෝයින් මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් පුද්ගලයෙකුට කොළඹ මහාධිකරණය අද(28දා) ජීවිතාන්තය දක්වා සිර දඬුවම් නියම කළේය.
+Colombo High Court sentences person arrested with heroin to death penalty today.
+
+🟩
+
+A person arrested with heroin with drugs sentenced the Colombo High Court today (28).
 
 ◼️
 
 [Data](articles/ce9d7930.json)
+
+[Extended Data](ext_articles/ce9d7930.ext.json)
 
 ---
 
@@ -508,45 +550,69 @@ A text message came from the wife of a friend I knew. Asked how I am. After exch
 
 ---
 
-### இயக்குநர் சிவா, மன்னிப்பின் மகத்துவத்தை எனக்குப் புரிய வைத்தவர்' - சூர்யா
+### Director Siva, I understand the greatness of the apology ' - Surya
 
 *2024-10-28 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/197335) · `ta`
 
-சூர்யா நடிப்பில் தயாராகி இருக்கும் 'கங்குவா' எனும் திரைப்படத்தின் இசை வெளியீடு சென்னையில் உள்ள நேரு உள் விளையாட்டு அரங்கத்தில் ஆயிரக்கணக்கான ரசிகர்களின் முன்னிலையில் பிரம்மாண்டமாக நடைபெற்றது.
+Here's a 200-character summary:
 
-இயக்குநர் சிவா இயக்கத்தில் உருவாகி இருக்கும் 'கங்குவா' எனும் திரைப்படத்தில் சூர்யா, திஷா படானி, பாபி தியோல், யோகி பாபு, பிரேம், கலைராணி உள்ளிட்ட ஏராளமானவர்கள் நடித்திருக்கிறார்கள்.
 
-வெற்றி பழனிச்சாமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'ராக்ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கிறார்.
 
-ஃபேண்டஸி எமோஷன் திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்டுடியோ கிரீன் நிறுவனம் சார்பில் தயாரிப்பாளர் கே. ஈ. ஞானவேல் ராஜா தயாரித்திருக்கிறார்.
+"Gangua" music launch: Surya, Disha Patani, Bobby Deol star. Directed by Siva, music by Devi Sri Prasad. Tamil, Telugu, Malayalam, Kannada, Hindi release Nov 14. Surya praises director Siva's apology philosophy.
 
-எதிர்வரும் நவம்பர் மாதம் 14 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகைகளில் தமிழ், தெலுங்கு, மலையாளம், கன்னடம், இந்தி என பல்வேறு மொழிகளில் வெளியாகும் இந்த திரைப்படத்தின் இசை வெளியீடு சென்னையில் சிறப்பாக நடைபெற்றது.
+🟩
 
-இந்தத் தருணத்தில் நடிகர் கார்த்தி , இயக்குநர் கே. எஸ். ரவிக்குமார் உள்ளிட்ட பல திரையுலக பிரபலங்கள் சிறப்பு அதிதியாக படக் குழுவினருடன் பங்கு பற்றினர்.
+The music release of Surya starrer 'Gangua' was held in the presence of thousands of fans at the Nehru Indoor Sports Stadium in Chennai.
+
+Surya, Disha Patani, Bobby Deol, Yogi Babu, Prem, Kalarani, directed by director Siva.
+
+The film has been composed by 'Rockstar' Devi Sri Prasad.
+
+Producer K. E.. Gnanvel is produced by Raja.
+
+The music release of the film, which is being released in various languages ​​such as Tamil, Telugu, Malayalam, Kannada and Hindi on the 14th of November.
+
+Actor Karthi, director K.. S.. Several filmmakers, including Ravikumar, participated in the film crew as a special guest.
+
+Speaking at the event, actor Surya said, “Technical artists, actors and actresses have been working hard for Gangua.
+
+I have been transformed into the best man because he worked with director Siva. 'All the moment is good.
+
+As well as' to know others to forgive others. Siva is the one who understands that forgiveness is the best thing to apologize.
 
 ...
 
 [Data](articles/ec7a2971.json)
 
+[Extended Data](ext_articles/ec7a2971.ext.json)
+
 ---
 
-### மன்னார் மாவட்டத்தில் முதலாவது நீர் விநியோகம் சம்பிரதாய  பூர்வமாக ஆரம்பம்
+### The first water supply in the Mannar district is formally started
 
 *2024-10-28 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197330) · `ta`
 
-மன்னார் மாவட்டத்தில் 2024 மற்றும் 2025 ஆம் ஆண்டிற்கான பெரும் போக பயிர்ச்செய்கைக்கான முதலாவது நீர் வினியோகமானது இன்று திங்கட்கிழமை (28)காலை 10.30 மணியளவில் வைபவ ரீதியாக ஆரம்பித்து வைக்கப்பட்டது.
+First water supply inaugurated in Mannar district for 2024-25 cultivation. 31,339 acres to benefit. Water from Murugan Pond, 2nd largest in Northern Province. 8.3 feet depth currently. Event held as per District Government Agent's decision on 18th.
 
-பெரும் போகத்திற்கு 31 ஆயிரத்து 339 ஏக்கர் நிலப்பரப்பில் பயிர்ச்செய்கை மேற்கொள்ளப்பட உள்ள நிலையில் முதலாவது நீர் விநியோகம் ஆரம்பித்து வைக்கப்பட்டது.
+🟩
 
-வட மாகாணத்தில் 2 வது பெரிய குளமான முருகன் கட்டுக்கரை குளம் பெரிய உடைப்பு துருசு பகுதியில் இடம்பெற்ற நிகழ்வில் சர்வமத தலைவர்களின் ஆசியுடன் நீர் திறந்து விடப்பட்டுள்ளது.
+The first water supply for the great cultivation for 2024 and 2025 in Mannar district was inaugurated today (28) at 10.30 am.
 
-இதன் போது மன்னார் மாவட்ட அரசாங்க அதிபர் க.கனகேஸ்வரன் தலைமையில்  நீர்ப்பாசன பணிப்பாளர் , முருங்கன் கட்டுக்கரை குளம் நீர்ப்பாசன பொறியியலாளர் , அரசாங்க திணைக்கள அதிகாரிகள் வாய்க்கால் அமைப்பு பிரதிநிதிகள் விவசாயிகள் ஆகியோர் கலந்து கொண்டிருந்தனர்.
+The first water supply has been launched as the cultivation is to be carried out on 31 thousand 339 acres of land.
 
-தற்போது கட்டுக்கரை குளத்தில் 8.3 அடி நீர் காணப்படுகிறது.மேலும் கட்டுக்கரை குளத்திற்கு நீர்வரத்து காணப்படுகின்றது.
+The water has been opened with the blessings of the leaders of the Murugan Pond, the 2nd largest pond in the Northern Province.
 
-...
+Irrigation Director, Mannar District Government Agent K. Kanageswaran, Murugan Katakkarai Pond Irrigation Engineer
+
+At present, 8.3 feet of water is found in the Kattakkarai pond.
+
+The first water supply was held today in accordance with the decision taken at a meeting chaired by the Government Agent of the District on the 18th.
+
+◼️
 
 [Data](articles/1126b99f.json)
+
+[Extended Data](ext_articles/1126b99f.ext.json)
 
 ---
 
@@ -582,19 +648,25 @@ After considering the submissions, the High Court judge then sentenced the accus
 
 ---
 
-### வைத்தியசாலையில் சிகிச்சை பெற்று வந்த முதியவரை காணவில்லை
+### Missing the elderly man who was receiving treatment at the hospital
 
 *2024-10-28 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197332) · `ta`
 
-அட்டன் ஸ்டெரதன் தோட்டத்தை வசிப்பிடமாகக்கொண்ட  பி.மனோகரன் (65) என்பவர் அட்டன் டிக்கோயா கிளங்கன் வைத்தியசாலையில் சிகிச்சை பெற்றுக்கொண்டிருந்த நிலையில் கடந்த  2 ஆம் திகதி புதன்கிழமை காணாமல் போயுள்ளதாக நோர்வூட் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+Elderly man P. Manoharan (65) missing after hospital visits. Last seen wearing blue shirt and blue jeans. Contact son at 077-3399752 or report to Norwood Police Station.
 
-இரண்டு சந்தர்ப்பங்களில் இவர் இவ்வாறு வைத்தியசாலையிலிருந்து  செல்லும் போது தடுக்கப்பட்டிருக்கின்றார்.  கடைசியாக இவர் நீல  நிற சட்டையும் நீல நிற சாரமும் அணிந்திருந்ததாக  உறவினர்கள் தெரிவிக்கின்றனர்.
+🟩
 
-இவரைப் பற்றிய தகவல் தெரிந்தவர்கள் அருகில் உள்ள பொலிஸ் நிலையம் அல்லது நோர்வூட் பொலிஸ் நிலையத்துக்கு  தகவல் தருமாறு கேட்கப்பட்டுள்ளது. அல்லது அவரது  மகனின்  077-3399752 என்ற  தொலைபேசி இலக்கத்துக்கு  தகவல் தருமாறு கேட்கப்பட்டுள்ளது.
+P. Manoharan (65), a resident of the Attan Sterathan estate, has been reported missing at the Norwood Police Station on Wednesday.
+
+On two occasions, he was blocked when he was traveling from the hospital.Relatives say he was last wearing a blue shirt and a blue essence.
+
+Those who are aware of him have been asked to inform the nearest police station or Norwood police station.. Or he has been asked to inform his son's 077-3399752.
 
 ◼️
 
 [Data](articles/a032432b.json)
+
+[Extended Data](ext_articles/a032432b.ext.json)
 
 ---
 
@@ -674,23 +746,29 @@ On February 6, 2016, the National Freedom Front staged a protest against the arr
 
 ---
 
-### ஜப்பானில் அரசியல் குழப்பநிலை -2009 ம் ஆண்டின் பின்னர் முதல்தடவையாக  பெரும்பான்மையை இழந்தது லிபரல் ஜனநாயக கட்சி
+### The Liberal Democratic Party lost the majority for the first time after the political turmoil in Japan -2009
 
 *2024-10-28 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197327) · `ta`
 
-பெரும்பான்மையை பெறுவதற்கு 235 ஆசனங்களை கைப்பற்றவேண்டிய நிலையில் லிபரல் ஜனநாயக கட்சியும் அதன் கூட்டணிகளும் 215 ஆசனங்களை மாத்திரம் கைப்பற்றியுள்ளன.
+Liberal Democratic Party loses majority Japan 2009 election turmoil. Party wins 215 seats, short of 235 needed for majority. First loss since 1955 rule. Prime Minister vows to continue despite setback.
 
-2009ம் ஆண்டின் பின்னர் ஜப்பானில் லிபரல் ஜனநாயக கட்சி பெரும்பான்மையை பெற தவறியமை இதுவே முதல் தடவை.
+🟩
 
-லிபரல் ஜனநாயக கட்சி 1955 முதல் ஜப்பானை பலதடவைகள் தொடர்ச்சியாக ஆட்சி புரிந்து வந்துள்ளது.
+The Liberal Democratic Party and its allies have only won 215 seats, with 235 seats to win the majority.
 
-கடந்த சில வருடங்களாக லிபரல் ஜனநாயக கட்சி ஊழல் குற்றச்சாட்டுகள் மக்கள் ஆதரவின்மை உட்பட பல குழப்பத்தில் சிக்குண்டுள்ள நிலையிலேயே இந்த தேர்தல் முடிவுகள் வெளியாகியுள்ளன.
+This is the first time that the Liberal Democratic Party in Japan has failed to win a majority since 2009.
 
-கட்சி தேர்தலில் பின்னடைவை சந்தித்துள்ள போதிலும் தொடர்ந்து ஆட்சி செய்யப்போவதாக பிரதமர் சிகேரு இஸ்கிபா தெரிவித்துள்ளார்.
+The Liberal Democratic Party has continued to rule Japan several times since 1955.
+
+Over the past few years, the election results have been revealed in a state of confusion, including the lack of support of the Liberal Democratic Party.
+
+Prime Minister Cigheer Iskiba has said that even though the party has suffered a setback in the election, he will continue to rule.
 
 ◼️
 
 [Data](articles/f14bad4a.json)
+
+[Extended Data](ext_articles/f14bad4a.ext.json)
 
 ---
 
@@ -2319,25 +2397,5 @@ All these words have lied. The masses now know that all the talks are false. Wha
 [Data](articles/47b0903f.json)
 
 [Extended Data](ext_articles/47b0903f.ext.json)
-
----
-
-### Gammanpila's second revelation of the Passover attack
-
-*2024-10-28 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202640) · `si`
-
-Udaya Gammanpila holds second press conference revealing details about the Passover attack.
-
-🟩
-
-Former Parliamentarian Udaya Gammanpila is currently conducting a special news discussion.
-
-The second press conference conducted by Gammanpila is the second press conference to reveal the Passover attack.
-
-◼️
-
-[Data](articles/089b5691.json)
-
-[Extended Data](ext_articles/089b5691.ext.json)
 
 ---

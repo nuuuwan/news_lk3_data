@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 22:27:06**
+As of **2024-10-28 22:58:37**
 
 ## Newspaper Stats
 
-*Scraped **51,883** Articles*
+*Scraped **51,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 3,085
 economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,825
-adaderanalk | 6,147
+adalk | 4,826
+adaderanalk | 6,148
 tamilmirrorlk | 7,183
 virakesarilk | 8,373
-adaderanasinhalalk | 9,024
+adaderanasinhalalk | 9,025
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,883 (100.0%) of 51,883 articles have been extended.
+51,885 (100.0%) of 51,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Around 40 killed in attack on Chad military base, presidency says
+
+*2024-10-28 22:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102992/around-40-killed-in-attack-on-chad-military-base-presidency-says) · `en`
+
+Around 40 soldiers were killed in an attack on a military base in Chad’s Lake region on Sunday, the central African country’s presidency said on Monday.
+
+President Mahamat Idriss Deby launched an operation to track down the assailants, the statement said. It did not name the group responsible for the attack.
+
+The Lake Chad region has been repeatedly attacked by insurgencies including by Islamic State in West Africa and Boko Haram, which erupted in northeast Nigeria in 2009 and spread to the west of Chad.
+
+Chad is an important ally for French and U.S. forces aiming to fight jihadists in the Sahel, which has become the epicentre of global terrorism under attack by factions loyal to al Qaeda and Islamic State.
+
+Mali, Niger and Burkina Faso have ended military operations with the U.S. and France in recent years and turned to Russia for support instead.
+
+◼️
+
+[Data](articles/84920a80.json)
+
+---
+
+### The government should reveal the fourth premium of the IMF
+
+*2024-10-28 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202665) · `si`
+
+Former President Ranil Wickremesinghe urges President Anura Kumara Dissanayake to disclose the final IMF agreement, criticizing unnecessary additional negotiations after reaching key agreements in Colombo.
+
+🟩
+
+Former President Ranil Wickremesinghe says President Anura Kumara Dissanayake should reveal the country's final agreement on the fourth premium of the International Monetary Fund.
+
+"I made all these things, made all these things, and the last was found. It was to do that was agreed in Colombo and signed a budget. Now you say that you need more talks more and more. "
+
+◼️
+
+[Data](articles/ef23187f.json)
+
+[Extended Data](ext_articles/ef23187f.ext.json)
+
+---
 
 ### කොළඹ වාණිජ නගර සංවර්ධන ව්‍යාපෘතියේ ප්‍රගතිය පිළිබඳ සාකච්ඡාවක්
 
@@ -291,6 +331,30 @@ They further pointed out that there is much opportunity for corruption.
 [Data](articles/125b8357.json)
 
 [Extended Data](ext_articles/125b8357.ext.json)
+
+---
+
+### In the morning track train evening evening
+
+*2024-10-28 19:07:12* · [`adalk`](https://www.ada.lk/breaking_news/උදේ-පීලි-පැනූ-දුම්රිය-හවසත්-පීලි-පැනලා/11-412727) · `si`
+
+Train delay due to blockage at Slaveland station affects morning commute, impacting routes between Panadura and Maradana.
+
+🟩
+
+In the morning of the Slaveland station, the train was fled by the Slave Island at the station at the Station at the Station at the Station at the Railway Station.
+
+As a result, the passengers were suffering from the train this morning and train the train in the Maradana Railway Station at the Maradana Railway Station.
+
+The train was a railway between Panadura and Maradana and runs from the Panadura Railway Station, Colombo Star on the Trincomalee Station.
+
+As a result, one railway line was blocked in the coastal route last morning and trains were carried out. As a result, the railway traffic was delayed due to this.
+
+◼️
+
+[Data](articles/7dd4edbd.json)
+
+[Extended Data](ext_articles/7dd4edbd.ext.json)
 
 ---
 
@@ -2385,83 +2449,5 @@ He said that at the next general election, the voter could be between sixty-thre
 [Data](articles/58331458.json)
 
 [Extended Data](ext_articles/58331458.ext.json)
-
----
-
-### Youth killed in motorcycle accidentFive injured, including two children
-
-*2024-10-28 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197300) · `ta`
-
-Motorcycle collision kills youth, injures five including children.
-
-🟩
-
-A youth was killed in an accident on Sunday afternoon (27) afternoon at Kumbukte - Pannekama Nalawa Road.
-
-The accident occurred when a motorcycle traveling from Pannakamavu to Nalawa collided with another motorcycle traveling in the opposite direction.
-
-விபத்தின் போது, ஒரு மோட்டார் சைக்கிளில் பயணித்த இருவரும், மற்றைய மோட்டார் சைக்கிளில்  பயணித்த இருவர் மற்றும் இரு குழந்தைகளும் படுகாயமடைந்து ஹிரிபிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் இளைஞன் ஒருவன் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-◼️
-
-[Data](articles/c59d0616.json)
-
-[Extended Data](ext_articles/c59d0616.ext.json)
-
----
-
-### அதிகாலையில் பந்தயம்: 09 பேர் கைது
-
-*2024-10-28 10:54:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாலையில்-பந்தயம்-09-பேர்-கைது/175-346174) · `ta`
-
-Wattala police arrest 9 youth racing illegally on main road
-
-🟩
-
-கொழும்பு - நீர்கொழும்பு பிரதான வீதியில் போக்குவரத்து விதிகளை மீறி முச்சக்கரவண்டி  செலுத்திய நபர்களை வத்தளை பொலிஸார் கைது செய்துள்ளனர்.
-
-The team was arrested this morning (28) based on information received by the Wattala police.
-
-கைதுசெய்யப்பட்டவர்கள் வெல்லம்பிட்டிய, தெமட்டகொட, மோதரை, கெரவலப்பிட்டிய மற்றும் மாபோல பிரதேசங்களை  சேர்ந்த 18 முதல் 22 வயதுக்குட்பட்ட சாரதிகள் என தெரிவிக்கப்பட்டுள்ளது.
-
-கொழும்பு - நீர்கொழும்பு பிரதான வீதியின் மாபொல பிரதேசத்தில் நீண்ட காலமாக இந்த பந்தயத்தில் குறித்த குழுவினர் ஈடுபட்டு வருவதாக பிரதேச மக்கள் தெரிவிக்கின்றனர்.
-
-The race has been revealed that the vehicles, pedestrians and residents of the area have to be depressed.
-
-When the arrested three -wheeler drivers were produced to the Ragama General Hospital's legal officer, it was revealed that they had been drinking.
-
-◼️
-
-[Data](articles/db8685bf.json)
-
-[Extended Data](ext_articles/db8685bf.ext.json)
-
----
-
-### ’’அனைத்து வசதிகளையும் இல்லாமல் செய்வோம்’’
-
-*2024-10-28 10:53:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-வசதிகளையும்-இல்லாமல்-செய்வோம்/175-346173) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's President Anurag Dissanayake vows to remove perks offered to previous leaders. At a campaign rally, he stated: "We'll provide all facilities without any." He emphasized politics should serve the people, not personal interests.
-
-🟩
-
-கடந்த அரச தலைவர்களின் சலுகைகள் மற்றும் நன்மைகள் எதுவாக இருந்தாலும் முற்றாக நீக்கப்படும் என ஜனாதிபதி அனுரகுமார திஸாநாயக்க மீண்டும் உறுதியளித்துள்ளார்.
-
-காலி, பத்தேகம பிரதேசத்தில் நடைபெற்ற தேர்தல் பிரசாரக் கூட்டத்தில் உரையாற்றிய அவர், முன்னாள் ஜனாதிபதிகளை கவனிப்பது மக்களின் கடமையல்ல. He said that such benefits were allocated to former presidents based on circular issues, parliamentary law and constitutional arrangements.
-
-“We are exploring the possibility of amendment to the circular and the law,” he said.
-
-“We can't hold a country like this. 163 bodyguards, ambulances, jeep, car etc.. 17 அல்லது 18 BMW வாகனங்களைக் கோருகிறார்கள். We will do all these facilities without. Politics is the service of the people, ”he said.
-
-◼️
-
-[Data](articles/90100869.json)
-
-[Extended Data](ext_articles/90100869.ext.json)
 
 ---

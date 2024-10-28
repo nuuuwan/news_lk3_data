@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 23:40:00**
+As of **2024-10-28 23:59:46**
 
 ## Newspaper Stats
 
-*Scraped **51,886** Articles*
+*Scraped **51,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 412
 colombotelegraphcom | 525
 bbccomsinhala | 527
 islandlk | 3,085
-economynextcom | 3,150
+economynextcom | 3,158
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,826
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,886 (100.0%) of 51,886 articles have been extended.
+51,894 (100.0%) of 51,894 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -472,6 +472,26 @@ Because of the rapid spread and the increase in complications, we have revealed 
 
 ---
 
+### Foreign inflows into Sri Lanka govt securities steady amid excess liquidity
+
+*2024-10-28 18:30:00* · [`economynextcom`](https://economynext.com/foreign-inflows-into-sri-lanka-govt-securities-steady-amid-excess-liquidity-185373/) · `en`
+
+ECONOMYNEXT – Foreign inflows into its government securities were steady in the week ended on October 23 after the island nation saw inflows in five straight weeks, the Central Bank data showed.
+
+Foreign exchange analysts said the excess liquidity in the market and some speculations over another monetary policy rates cut before end of this year have led to offset the inflows as some foreign investors sold their holdings last week.
+
+Sri Lanka witnessed 1 million rupees (nearly $3,390 at 1 US dollar = 295 LKR)  inflow into government securities in the week ended on October 23, much lower than the previous week’s inflow of 495 million rupees ((1.7 mln), the official data showed.
+
+The value of government securities held by foreign investors and funds was at 51,143 million rupees last week, little changed from the previous week’s 51,143 million.
+
+...
+
+[Data](articles/bc2d4c65.json)
+
+[Extended Data](ext_articles/bc2d4c65.ext.json)
+
+---
+
 ### Others who planned a Sri Lankan attack in foreign terrorist organizations recognized
 
 *2024-10-28 18:26:59* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ත්‍රස්ත-සංවිධානවල-අවශ්‍යතාවට-ලංකාවේ-ප්‍රහාරයක්-සැලසුම්-කළ-තවත්-අය-හඳුනාගත්තා/11-412723) · `si`
@@ -668,6 +688,26 @@ He said that he had repeatedly rejected the reports that he had not handed over 
 
 ---
 
+### Sri Lanka’s MTV to host 2026 Asia-Pacific Broadcasting Union meeting
+
+*2024-10-28 17:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-mtv-to-host-2026-asia-pacific-broadcasting-union-meeting-185350/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s local television channel MTV Channel (Pvt) Limited will host the 2026 Asia-Pacific Broadcasting Union (ABU) General Assembly in Sri Lanka, the channel said in a statement.
+
+The ABU is the largest broadcasting Union in the world, with its 250 members in 70 countries across five continents, reaching 3 billion people across the Asia-Pacific region.
+
+“It will, no doubt, establish Sri Lanka as an important crossroad of international relations and global media. We look forward to welcoming the world to Sri Lanka, in 2026,” Chevaan Daniel, Group Director of the Capital Maharaja Group (CMG) and Head of the Group’s Media Vertical, said.
+
+The channel’s received the ratification at the ABU’s 118th Administration Council meeting held on October 20 in Istanbul, Turkiye. Suresh Srinivasan the Group CEO of CMG and Suranga Jayalath Group Director for Legal and Human Resources received the ratification.
+
+...
+
+[Data](articles/96e9ba8d.json)
+
+[Extended Data](ext_articles/96e9ba8d.ext.json)
+
+---
+
 ### Death penalty for a person arrested with heroin
 
 *2024-10-28 17:38:56* · [`adalk`](https://www.ada.lk/breaking_news/හෙරෝයින්-සමග-අත්අඩංගුවට-ගත්-පුද්ගලයෙකුට-මරණ-දඬුවම/11-412720) · `si`
@@ -816,6 +856,46 @@ They further pointed out that fraud and corruption are more likely.
 
 ---
 
+### Sri Lanka NPC officials say procurement shortcomings cause significant losses
+
+*2024-10-28 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-npc-officials-say-procurement-shortcomings-cause-significant-losses-185332/) · `en`
+
+ECONOMYNEXT– Sri Lanka government has been losing a significant amount of money due to not following a proper procurement process, members of the National Procurement Commission have told President Anura Kumara Dissanayake, the President’s Media Division (PMD) said.
+
+President Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP) in the past had revealed a raft of corrupt practices in government procurement procedures and unsolicited projects.
+
+The JVP also has pledged legal action against the past corruption, while implementing a proper process to prevent such corruption in the future.
+
+President Dissanayake at a meeting with the National Procurement Commission (NPC) has emphasized the importance of implementing a procurement plan and strengthening the NPC while he engaged in an in-depth discussion with NPC officials on the current procurement laws and procedures.
+
+...
+
+[Data](articles/967ca1dc.json)
+
+[Extended Data](ext_articles/967ca1dc.ext.json)
+
+---
+
+### Sri Lanka rupee closes flat at 293.60/70 to dollar, bond yields down
+
+*2024-10-28 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-293-60-70-to-dollar-bond-yields-down-185338/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed flat at 293.60/70 to the US dollar Monday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2027 closed at 11.40/50 percent, down from 11.50/60 percent.
+
+A bond maturing on 15.03.2028 closed at 11.65/75 percent, down from 11.75/85 percent.
+
+A bond maturing on 15.06.2029 closed at 11.95/12.10 percent down from 12.00/10 percent. (Colombo/Oct28/2024)
+
+◼️
+
+[Data](articles/3c17e115.json)
+
+[Extended Data](ext_articles/3c17e115.ext.json)
+
+---
+
 ### The new song release of Gavin starring 'Bloody Becker'
 
 *2024-10-28 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/197340) · `ta`
@@ -869,6 +949,30 @@ It is a pleasure to realize the need of the Badulla district and fulfill the asp
 [Data](articles/96c63688.json)
 
 [Extended Data](ext_articles/96c63688.ext.json)
+
+---
+
+### Sri Lanka stocks close up, turnover at Rs4.4bn
+
+*2024-10-28 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-rs4-4bn-185333/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader ASPI closed up 0.74 percent, or 92.48 points, at 12,610; while the more liquid S&P SL20 Index closed up 0.84 percent, or 31.60 points, at 3,790.
+
+Hatton National Bank (up at 219.50) contributed 926 million to turnover.
+
+Top contributors to the ASPI were LOLC Holdings (up at 463.00), Browns Investments (up at 6.10), NDB (up at 83.40), Sampath Bank (up at 86.00), and Melstacorp (up at 91.40).
+
+Foreign buying interest was seen in CIC Holdings (up at 80.00), Dipped Products (up at 39.10), Commercial Bank (up at 114.00), Access Engineering (up at 25.30), Sunshine Holdings (up at 66.90), John Keells Holdings (down at 212.50).
+
+Foreign selling was seen in John Keells Hotels (up at 17.10), CIC Holdings non-voting (up at 60.00), Browns Investments, Lankem Developments (up at 20.70), Dialog Axiata (flat at 10.90), and Melstacorp. (Colombo/Oct28/2024)
+
+◼️
+
+[Data](articles/4df78e45.json)
+
+[Extended Data](ext_articles/4df78e45.ext.json)
 
 ---
 
@@ -1153,6 +1257,28 @@ On February 6, 2016, the National Freedom Front staged a protest against the arr
 [Data](articles/a3c9b3cd.json)
 
 [Extended Data](ext_articles/a3c9b3cd.ext.json)
+
+---
+
+### Sri Lanka sells Rs32.5bn in 2028 and 2033 bonds
+
+*2024-10-28 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs32-5bn-in-2028-and-2033-bonds-185322/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 32.5 billion rupees in 2028 and 2033 bonds, data from the state debt office showed.
+
+All offered 20 billion rupees of 15 October 2028 bonds were sold at an average yield of 11.84 percent.
+
+All offered 12.5 billion rupees of 01 June 2033 bonds were sold at an average yield of 12.36 percent.
+
+An issuance window for the ISIN LKB00428J159 is open until close of business of day prior to settlement date (ie, 4 pm on 30.10.2024) at the Weighted Average Yield Rate (WAYR) determined for the said ISIN at the auction, up to 10% of the respective amount offered, the debt office said.
+
+“In the event of oversubscription, allocation will be made based on successful participation by auction participants for the respective ISIN at Phase I.” (Colombo/Oct28/2024)
+
+◼️
+
+[Data](articles/445946ff.json)
+
+[Extended Data](ext_articles/445946ff.ext.json)
 
 ---
 
@@ -1532,6 +1658,32 @@ Meanwhile, it is reported that after hacking the WhatsApp computer, a small amou
 
 ---
 
+### Sri Lanka travel advisory still at level 2, same as France and Italy: US Ambassador
+
+*2024-10-28 15:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-travel-advisory-still-at-level-2-same-as-france-and-italy-us-ambassador-185288/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s overall travel advisory has not been raised after the Arugam Bay related threats, and remains at levels of many other countries, US Ambassador Julie Chung said.
+
+“Our overall travel advisory for Sri Lanka remains exactly the same, at Level 2, which has been so for many years,” she told reporters in Colombo Monday.
+
+“And this is similar to advisories of many other popular destinations including the Maldives, France and Italy. All the same at Level 2; Sri Lanka remains at Level 2,” she said.
+
+A Level 2 travel advisory means travelers should exercise increased caution.
+
+Common risk indicators for countries that have a Level 2 advisory include crime, terrorism, civil unrest, and kidnapping.
+
+“I want to also correct some misinformation out there. There is no travel ban on Sri Lanka. Our security alert last week was for Americans to avoid Arugam Bay until further notice.”
+
+Hard travel advisories usually advise citizens to defer non-essential travel.
+
+...
+
+[Data](articles/90317726.json)
+
+[Extended Data](ext_articles/90317726.ext.json)
+
+---
+
 ### US Ambassador to America alert over Arugam Warning
 
 *2024-10-28 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202650) · `si`
@@ -1663,6 +1815,30 @@ Today's currency exchange rate: USD to INR. Buying rate: 289.0657, Selling rate:
 [Data](articles/77728101.json)
 
 [Extended Data](ext_articles/77728101.ext.json)
+
+---
+
+### US working with Sri Lanka on Arugam Bay tourist security threat: Ambassador Chung
+
+*2024-10-28 14:08:00* · [`economynextcom`](https://economynext.com/us-working-with-sri-lanka-on-arugam-bay-tourist-security-threat-ambassador-chung-185253/) · `en`
+
+ECONOMYNEXT – The United States embassy is collaborating with the Sri Lanka government to respond to a security threat that resulted in its recent security alert to Americans to avoid Arugam Bay, Ambassador Julie Chung said.
+
+“We will continue working together to support the safety and prosperity of Sri Lankan citizens and visitors alike,” Ambassador Chung told reporters Monday.
+
+“When we became aware of a specific threat in the Arugam bay area, we shared these known details with Sri Lankan authorities, who responded quickly.
+
+“We continue to actively coordinate with them on a daily basis. And we value our partnership with Sri Lanka’s leadership and security officials, whose commitment to safety and transparency is notable.”
+
+“We know that continuous safety and stability are essential for a thriving tourism sector which we support absolutely.”
+
+“So we are fully committed to supporting Sri Lanka’s efforts to create that secure welcoming environment for all.”
+
+...
+
+[Data](articles/20a0a0a7.json)
+
+[Extended Data](ext_articles/20a0a0a7.ext.json)
 
 ---
 
@@ -2265,191 +2441,5 @@ As a result, train transport on the coastal route is delayed.
 [Data](articles/c95cba0f.json)
 
 [Extended Data](ext_articles/c95cba0f.ext.json)
-
----
-
-### Train services on coastal line disrupted due to derailment near Kompanna Veediya
-
-*2024-10-28 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102974/train-services-on-coastal-line-disrupted-due-to-derailment-near-kompanna-veediya) · `en`
-
-The train services on the coastal line have been disrupted, owing to a derailment of a train near the Kompanna Veediya railway station, the Department of Railways said.
-
-A slow train plying from Maradana to Panadura has reportedly derailed near the Kompanna Veediya railway station this morning (28).
-
-◼️
-
-[Data](articles/922f6a3b.json)
-
-[Extended Data](ext_articles/922f6a3b.ext.json)
-
----
-
-### அறுகம்பையில் சுற்றுலாப் பயணிகளின் வருகையில் குறைவு?
-
-*2024-10-28 11:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பையில்-சுற்றுலாப்-பயணிகளின்-வருகையில்-குறைவு/175-346177) · `ta`
-
-Tamil Nadu tourism industry faces challenges due to COVID-19 pandemic and Easter Sunday attacks. Hotel owners report slow recovery despite increased local tourist arrivals. Special security measures planned for Ambalangoda region.
-
-🟩
-
-Residents and Area Tourism workers point out that the arrival of tourists has been diminished due to the fact that there is no unusual diminishment in the arrival of foreign tourists to the Gulf Tourism Zone.
-
-Although some Israeli tourists have left the area following travel consultation, they said that the number of local tourists has increased even though it is not currently the season.
-
-Recent information that a terrorist attack may be carried out in the Gulf Tourism Zone did not affect the lives of the public.
-
-ஈஸ்டர் ஞாயிறு தாக்குதல் மற்றும் கொவிட் தொற்றுநோயைத் தொடர்ந்து நீண்ட இடைவெளிக்குப் பிறகு இப்பகுதியில் சுற்றுலா வளர்ச்சியடைந்து வருவதாக சுற்றுலா குறித்த பகுதியின் ஹோட்டல் உரிமையாளர் ஒருவரான கே.எச்.சந்திரசேனா என்ற “சுதுமஹத்தாயா” கூறினார்.
-
-தற்போது இப்பகுதியில் சுற்றுலா பருவ காலம் முடிந்துள்ளதால், சுற்றுலாப் பயணிகளுக்கு நியாயமான கட்டணத்தில் விடுதி வசதிகள் கிடைக்கும் என அவர் கூறினார்.
-
-...
-
-[Data](articles/09e18678.json)
-
-[Extended Data](ext_articles/09e18678.ext.json)
-
----
-
-### Sri Lanka businesses visit Thailand as free trade deal comes on line
-
-*2024-10-28 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-businesses-visit-thailand-as-free-trade-deal-comes-on-line-185245/) · `en`
-
-ECONOMYNEXT – A delegation from the Sri Lanka–Greater Mekong Business Council visited Thailand ahead of a free trade deal coming on stream in January 2025 to explore business partnerships and investments, the Ceylon Chamber of Commerce said.
-
-The mission also coincided with the LogiMAT Southeast Asia and LogiFOOD Southeast Asia 2024 Exhibitions.
-
-“The primary objective of the mission was to maximise the benefits of the Free Trade Agreement signed between Sri Lanka and Thailand, which will take effect in January 2025,” the chamber said.
-
-“Additionally, the mission focused on foreign direct investments, strengthening business ties, and expanding trade opportunities between the two countries.”
-
-The delegation comprised 11 business professionals from Sri Lanka, representing industries such as pharmaceuticals and healthcare, tourism, agriculture, logistics, distilleries, apparel, gems and jewelry, food and beverages, and micro-financing.
-
-...
-
-[Data](articles/7c9a315c.json)
-
-[Extended Data](ext_articles/7c9a315c.ext.json)
-
----
-
-### Vijitha gets another challenge to Minister Vijitha
-
-*2024-10-28 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202644) · `si`
-
-Gammanpila challenges Minister Vijitha over retirement committee allegations. He claims no opposition to Passover attack probe. Accuses government of silence on Alwis Committee report. Challenges Minister Vijitha to provide evidence of misconduct allegations.
-
-🟩
-
-Herade Gammanpha, leader of the Cabinet Gammanpha, has challenged the Cabinet Spokesperson, to prove the allegations leveled against the retirement committee appointed by the Passover attack.
-
-He did the challenge that he was retired Supreme Court Judge. I. At a press conference held at his party headquarters today (28th) at his party headquarters to issue the report of the Commission of Imam.
-
-On September 5, 2023, the committee was appointed to look into the issues of the program of the DISPATCHES program in the UK Channel 4.
-
-Meanwhile, Gammanpila said that no one was against the Passover attack on the Passover attack, he said.
-
-...
-
-[Data](articles/c6fd1e7c.json)
-
-[Extended Data](ext_articles/c6fd1e7c.ext.json)
-
----
-
-### Former ministers do not hand over 14 homes
-
-*2024-10-28 11:13:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்கள்-14-பேர்-இல்லங்களை-ஒப்படைக்கவில்லை/175-346176) · `ta`
-
-Former ministers fail to hand over official residences, including opposition leaders and cabinet members. The government promised to return properties before elections but many have yet to comply.
-
-🟩
-
-Among them is the former opposition leader R.. சம்பந்தன் மற்றும் பிரதி சபாநாயகர் அஜித் ராஜபக்ஷ ஆகியோரின் பெயரும் இதில் இடம்பெற்றுள்ளது.
-
-அத்துடன், வாகன விபத்தில் உயிரிழந்த முன்னாள் நீர் வழங்கல் இராஜாங்க அமைச்சர் சனத் நிஷாந்த பயன்படுத்திய உத்தியோகபூர்வ இல்லம் இதுவரை கையளிக்கப்படவில்லை எனவும் தெரிவிக்கப்பட்டுள்ளது.
-
-Former Labor and Foreign Employment Minister Manusha Nanayakkara, Former Provincial Council and Local Government Minister Janaka Wakambura, Former Transport Minister Gamini Lokuke, Minister of Livestock Development. பி. ஹேரத், முன்னாள் கல்வி இராஜாங்க அமைச்சர் அரவிந்த குமார்,
-
-Former Agriculture Minister Mohan Priyadarshan de Silva, former Urban Development and Housing Minister Thenuga Vidanagamage, Former Minister of Plantation Industries Ramesh Pathirana, Investment Promotion Minister
-
-The name of former Urban Development and Housing Minister Arundika Fernando, former Media Minister Shantha Bandara and former Health Minister Keheliya Rambukwella.
-
-...
-
-[Data](articles/3dec6f2d.json)
-
-[Extended Data](ext_articles/3dec6f2d.ext.json)
-
----
-
-### President reveals number of Cabinet Ministers to be appointed after polls
-
-*2024-10-28 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102973/president-reveals-number-of-cabinet-ministers-to-be-appointed-after-polls) · `en`
-
-President Anura Kumara Dissanayake underscored the urgent need for a political overhaul to steer the country toward genuine progress. Highlighting the growing public disillusionment with politics, he labeled the current political landscape as tainted by unethical practices.
-
-Addressing a public rally held in Kalutara, the President said: “We have a lot of work to do. First, we need to change the politics of our country if we are to rebuild it. For too long, politics here has been treated as a business. What we see in Parliament often resembles a spectacle—members jumping around, wielding chili powder, bringing knives, and engaging in disruptive behavior on the chamber floor.”
-
-...
-
-[Data](articles/6c6ce1d5.json)
-
-[Extended Data](ext_articles/6c6ce1d5.ext.json)
-
----
-
-### ராகமையில் சட்டவிரோத மதுபானத்துடன் ஒருவர் கைது!
-
-*2024-10-28 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/197301) · `ta`
-
-Ragama police arrest suspect with illegal alcohol. 38-year-old man caught in Pattath area. 67 liters of illicit liquor seized.
-
-🟩
-
-ராகம பொலிஸ் பிரிவுக்கு உட்பட்ட படுவத்த பகுதியில் சட்டவிரோத மதுபானத்துடன் சந்தேக நபர் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (27) கைது செய்யப்பட்டுள்ளதாக ராகம பொலிஸார் தெரிவித்தனர்.
-
-The suspect has been arrested during a raid carried out on information received by the Ragama police.
-
-கைது செய்யப்பட்ட சந்தேக நபர் ராகம ,படுவத்த பிரதேசத்தை சேர்ந்த 38 வயதுடையவர்  ஆவார்.
-
-67 liters (90 bottles) illegal liquor has been seized from the arrested suspect.
-
-◼️
-
-[Data](articles/0dc57ce4.json)
-
-[Extended Data](ext_articles/0dc57ce4.ext.json)
-
----
-
-### මහ මැතිවරණයේදි ඡන්දය ප්‍රකාශ කිරීම අඩුවෙනවා
-
-*2024-10-28 11:00:58* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදි-ඡන්දය-ප්‍රකාශ-කිරීම-අඩුවෙනවා/11-412714) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Voter turnout low in local elections. Next general election may see 63% or 73% participation. Former Commissioner Mahinda Deshapriya emphasizes importance of voting rights awareness.
-
-🟩
-
-ඉදිරියේ පැවැත්වෙන මහා මැතිවරණයේදී ඡන්දය දැමීම සදහා ජනතා උනන්දුව ඇල්පිටිය ප්‍රාදේශීය සභා මැතිවරණයට බොහෝ සෙයින් සමානවීමට ඉඩ තිබෙන බව මැතිවරණ කොමිෂන් සේවා සභාවේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා අද (28) උදේ අම්බලන්ගොඩ පැවති මාධ්‍ය හමුවකදී කීවේය.
-
-ඇල්පිටිය ප්‍රාදේශිය සභාව මෙන් ජනතාව ඡන්දය දීමේ ප්‍රතිශතය සියයට හැටතුන හෝ සියයට හැත්තැ දෙකක් පමණ විය හැකි බව තමාට හැගෙන බව ඔහු කීවේය.
-
-Attempted the percentage of votes at the Elpitiya Pradeshiya Sabha, the voter turnout was so interested in the election, he said.
-
-ඇල්පිටිය ප්‍රාදේශීය සභා මැතිවරණයේදී සියයට තිස්හතෙන් බහුතරයක් ඡන්දය ප්‍රකාශ නොකරන්නට ඇත්තේ එම මැතිවරණය සදහා උනන්දුවක් නොවීම නිසා වන්නට බොහෝ දුරට ඉඩ තිබෙන බවද ඔහු කීවේය.
-
-He said that at the next general election, the voter could be between sixty-three or sixty percent of the voter turnout.
-
-ඉදිරි මහා මැතිවරණයේදී මෙය නොවිය යුත්තක් බවත් දැන් සිටම අදාළ බලධාරීන් ,නිලධාරීන් සහ මාධ්‍ය මැතිවරණයකදී ඡන්දය දැමීමේ අයිතිය හා චන්දය දැමීමේ වැදගත්කම පිළිබදව ජනතාව දැනුම්වත් කළ යුතු බවද දේශප්‍රිය මහතා කීවේය.
-
-...
-
-[Data](articles/58331458.json)
-
-[Extended Data](ext_articles/58331458.ext.json)
 
 ---

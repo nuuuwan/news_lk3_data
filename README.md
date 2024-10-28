@@ -1,36 +1,126 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 15:24:05**
+As of **2024-10-28 15:59:00**
 
 ## Newspaper Stats
 
-*Scraped **51,820** Articles*
+*Scraped **51,825** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 412
-bbccomsinhala | 525
 colombotelegraphcom | 525
+bbccomsinhala | 526
 islandlk | 3,085
 economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,817
-adaderanalk | 6,136
-tamilmirrorlk | 7,172
+adaderanalk | 6,138
+tamilmirrorlk | 7,173
 virakesarilk | 8,356
-adaderanasinhalalk | 9,010
+adaderanasinhalalk | 9,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,820 (100.0%) of 51,820 articles have been extended.
+51,824 (100.0%) of 51,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### ‘There is no travel ban on Sri Lanka’ – US Ambassador
+
+*2024-10-28 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102981/there-is-no-travel-ban-on-sri-lanka-us-ambassador-) · `en`
+
+U.S. Ambassador to Sri Lanka, Julie Chung has clarified that the United States has not issued a travel ban on Sri Lanka and that the security alert issued recently was only for Americans to avoid the Arugam Bay area until further notice.
+
+Chung said she is proud of the U.S. Embassy’s ongoing collaboration with the government of Sri Lanka to respond to a security threat that resulted in its recent security alert, and pledged to continue working together to support the safety and prosperity of Sri Lanka’s citizens and visitors alike.
+
+Speaking during an event on Monday (28), she stated that one of her duties as a US Ambassador is to ensure the safety and the security of American citizens here in Sri Lanka.
+
+“Globally, all around the world our US Embassies operate under what’s called a duty to warn. If we become aware of a credible, specific security threat, we are required to share that information with our staff, US citizens and the host government,” Chung stated.
+
+...
+
+[Data](articles/04845ba4.json)
+
+[Extended Data](ext_articles/04845ba4.ext.json)
+
+---
+
+### CSE emerges as second best performer in Asia
+
+*2024-10-28 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102980/cse-emerges-as-second-best-performer-in-asia) · `en`
+
+The Colombo Stock Exchange (CSE) has been placed as the second best performing equity index in Asia.
+
+The CSE has secured the second in Asia as of 25 October 2024, with the All Share Price Index (ASPI) boasting an impressive year-to-date return of 29.65% in USD, according to Bloomberg.
+
+This outstanding performance underscores the resilience of Sri Lanka’s capital market and its growing appeal to both local and international investors, with the daily average turnover for the week ended 25 October 2024, standing at Rs. 3.058 billion.
+
+Furthermore, the CSE witnessed the last two consecutive trading days (Thursday and Friday) with the daily turnover exceeding Rs. 4.7 billion.
+
+For the same week, the ASPI closed at 12,517.58 points, a single point away from the reigning record for the year.
+
+Similarly, the S&P SL20 index, which represents the top 20 largest and most liquid stocks, posted robust gains, and closed at 3,759.30 points.
+
+...
+
+[Data](articles/4ec8f10d.json)
+
+[Extended Data](ext_articles/4ec8f10d.ext.json)
+
+---
+
+### Increasing WhatsApp hack in the country
+
+*2024-10-28 15:14:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-அதிகரிக்கும்-வாட்ஸ்அப்-ஹேக்-சம்பவங்கள்/175-346200) · `ta`
+
+WhatsApp hack surge: Criminals exploit OTP, gain access to public accounts. Victims receive unexpected verification codes, allowing fraudsters to take control. Hacked accounts send emergency messages requesting funds transferred to fraudulent bank accounts.
+
+🟩
+
+Internet criminals use the verification code (OTP) to obtain access to public accounts.
+
+Victims have suddenly received WhatsApp verification codes and the fraudsters are contacting users, betraying friends or acquaintances, and requested the verification code.
+
+Once the verification code is issued, the account will go under the control of the fraudsters.
+
+Meanwhile, it is reported that after hacking the WhatsApp computer, a small amount of SMS is being sent to a small amount of money as an emergency assistance for the communication numbers and the bank account number used to get the money has been fraudulently obtained from others.
+
+◼️
+
+[Data](articles/7b6b32b5.json)
+
+[Extended Data](ext_articles/7b6b32b5.ext.json)
+
+---
+
+### US Ambassador to America alert over Arugam Warning
+
+*2024-10-28 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202650) · `si`
+
+US Ambassador warns against misinformation about Arugam Bay security threats. She emphasizes ongoing cooperation with Sri Lankan authorities and maintains current travel advisory level for Sri Lanka.
+
+🟩
+
+The American Ambassador to Sri Lanka says that the tourist counsel in Sri Lanka has not changed to Sri Lanka.
+
+Speaking at a function at the American Center in Colombo, she said that it was said that Sri Lanka was imposed on Sri Lanka.
+
+"If the American Ambassadors are known for a security threat, we need to educate our staff, US citizens and the relevant government. Double policy does not follow a policy. The accepted method we use around the world. When we learned about the threat to the area of ​​Arugambay, the Sri Lankan authorities had responded. They responded quickly. "
+
+...
+
+[Data](articles/bc376dd7.json)
+
+[Extended Data](ext_articles/bc376dd7.ext.json)
+
+---
 
 ### PM Harini responds to ex-President’s claims on public sector salaries
 
@@ -1450,6 +1540,28 @@ The Department of Railways has requested the public that the train will travel o
 
 ---
 
+### දේශපාලනයේ නිරත කාන්තාවන් ප්‍රධාන මාධ්‍යයේ සහ සමාජ මාධ්‍යවල වැඩි වශයෙන් ඉලක්ක වන්නේ ඇයි?
+
+*2024-10-28 09:04:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c86q9g95331o) · `si`
+
+දේශපාලනයේ නිරත කාන්තාවන් ප්‍රධාන මාධ්‍යයේ සහ සමාජ මාධ්‍යවල වැඩි වශයෙන් ඉලක්ක වන්නේ ඇයි?
+
+මහ මැතිවරණයට තවත් ඉතිරිව ඇත්තේ සති කිහිපයක් වන අතර, මේ වන විට මැතිවරණයට ඉදිරිපත් වන අපේක්ෂක අපේක්ෂිකාවන් සිය ප්‍රචාරණ කටයුතු ආරම්භ කර තිබේ.
+
+මැතිවරණය ආරම්භයට පෙර සිටි ම විවිධ පක්ෂවල අපේක්ෂකත්වය බලාපොරොත්තු වන කාන්තාවන් සම්බන්ධයෙන් සහ ඔවුන් කරන ප්‍රකාශ වාර්තා කිරීමේදී ඒවාට හිමි වන ප්‍රතිචාර සහ වාර්තා කරන ආකාරය පිළිබඳව බීබීසී සිංහල විසින් සොයා බැලීමක් සිදු කරන ලදී.
+
+එහිදී නිරීක්ෂණය වූයේ බොහෝ විට දේශපාලනික කටයුතුවල නියුතු කාන්තාවන් සම්බන්ධයෙන් සමාජ මාධ්‍යයේ හුවමාරු වන තොරතුරු සහ කරුණුවල සත්‍ය අසත්‍යතාව පිළිබඳව හෝ අවධානය යොමු නොකර බොහෝ පිරිසක් ඒවාට ප්‍රතිචාර දක්වන බව ය.
+
+එම ප්‍රතිචාර බොහෝ විට ලිංගිකත්වය ඉස්මතු වන ආකාරයෙන්, එම කාන්තාවන්ගේ පෞද්ගලික ජීවිතය සම්බන්ධ දේවල් මෙන් ම බොහෝවිට අසභ්‍ය වචන යොදා ගනිමින් සිදු කර ඇති ඒවා බව නිරීක්ෂණය විය.
+
+පක්ෂ භේදයකින් තොරව මෙම තත්ත්වයට බොහෝ දේශපාලනයේ නිරත කාන්තාවන් ලක් ව තිබිණි.
+
+...
+
+[Data](articles/07cffc98.json)
+
+---
+
 ### பதவியாவில் வெடிபொருட்களுடன் இருவர் கைது
 
 *2024-10-28 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/197289) · `ta`
@@ -2115,121 +2227,5 @@ Opening the ceremony, Rajeeva Bandaranaike expressed, “At first glance, Toastm
 [Data](articles/b2936573.json)
 
 [Extended Data](ext_articles/b2936573.ext.json)
-
----
-
-### Cargills Bank expands banking convenience to 51 new Cargills supermarkets
-
-*2024-10-28 02:22:00* · [`islandlk`](http://island.lk/cargills-bank-expands-banking-convenience-to-51-new-cargills-supermarkets/) · `en`
-
-Cargills Bank is unique among Sri Lankan banks in offering cash deposit and withdrawal facilities via Cargills Supermarket checkout counters through its Supermarket Banking service. Now, in a further landmark expansion of this initiative, Cargills Bank has announced that an additional 51 Cargills Supermarket outlets will provide this service, increasing the number of banking-enabled supermarkets from 479 locations to 530 supermarkets. This initiative leverages Cargills supermarkets’ extensive Islandwide retail network, and is part of the bank’s ongoing mission to drive inclusivity by bringing essential financial services closer to every corner of the country.
-
-Cargills Bank was the first to introduce agency banking in Sri Lanka through a unique partnership with the Cargills Retail network, allowing customers to manage their basic banking needs while shopping for groceries.
-
-...
-
-[Data](articles/dbaefcf9.json)
-
-[Extended Data](ext_articles/dbaefcf9.ext.json)
-
----
-
-### SLGJA announces 2025 FACETS exhibition
-
-*2024-10-28 02:22:00* · [`islandlk`](http://island.lk/slgja-announces-2025-facets-exhibition/) · `en`
-
-The Sri Lanka Gem and Jewellery Association (SLGJA) has announced the 31st edition of FACETS Sri Lanka, South Asia’s premier gem and jewellery exhibition which will take place from 4th to 6th January 2025 at the Cinnamon Grand Colombo.
-
-This prestigious exhibition is a global meeting point for the gem and jewellery industry, attracting renowned traders, wholesalers, exporters, manufacturers, lapidarists, retailers, and collectors from around the world.
-
-FACETS has long been a celebration of Sri Lanka’s illustrious heritage in gems and jewellery. The island nation is recognized as a global leader in gemstone production, known for its extraordinary variety of precious stones. With a rich history as the world’s oldest source of colored gemstones, Sri Lanka offers a vibrant selection of gems highly sought after internationally. Complementing this treasure trove is the island’s exceptional craftsmanship, which blends contemporary trends with deep cultural influences to create timeless beauty.
-
-...
-
-[Data](articles/f6a5211a.json)
-
-[Extended Data](ext_articles/f6a5211a.ext.json)
-
----
-
-### Is Sri Lanka need a Parliament?
-
-*2024-10-28 01:58:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn8y84xgj1zo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka needs a functional Parliament to represent people's interests and check executive power. The current system faces criticism over MP privileges and lack of responsiveness to public concerns. Reform efforts aim to strengthen Parliament's role in lawmaking and oversight.
-
-🟩
-
-In the struggle in Sri Lanka two years ago, parliament protested was projected to '225', creating slogans, such as 'the power out of Parliament'.
-
-The major allegation from the people was that MPs who have received great privileges in the public are not fulfilling the aspirations of the people.
-
-The executive presidency in Sri Lanka is also protesting from the time of the introduction of the executive presidency.
-
-In such a situation, BBC needs a Parliament by BBC Sinhala to Sri Lanka for what is the role of a parliamentary parliament in Sri Lanka.
-
-The Professor Athankani on the Political Science Institute of the University of Peradeniya explained to BBC.
-
-Inquiring of the BBC, the BBC had told the Sinhala inquired about how the beginning of the parliamentary system took place.
-
-...
-
-[Data](articles/8f0a4a0c.json)
-
-[Extended Data](ext_articles/8f0a4a0c.ext.json)
-
----
-
-### 716 complaints so far
-
-*2024-10-28 01:56:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-716-முறைப்பாடுகள்/175-346154) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Elections Commission reports 716 complaints about general election. 580 settled, 136 unresolved. Official M.A. El Ratnayake made statement.
-
-🟩
-
-The Elections Commission said that 716 complaints have been received so far regarding the general election.
-
-580 complaints have been settled and 136 complaints have been resolved.. M.. A.. El Ratnayake mentioned.
-
-◼️
-
-[Data](articles/2d69be18.json)
-
-[Extended Data](ext_articles/2d69be18.ext.json)
-
----
-
-### We can reduce the number of lines
-
-*2024-10-28 01:54:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரிகளை-எம்மால்-குறைக்க-முடியும்/175-346153) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sajith Premadasa criticizes current president for missed opportunities to strengthen diplomatic relations and reduce taxes. Promises to renegotiate IMF terms if elected. Emphasizes need for economic growth and protection from security threats.
-
-🟩
-
-புதிய இராஜதந்திர உறவுகளை பேண முடியுமான அவருக்கு இருந்த இரண்டு சந்தர்ப்பங்களை தற்போதைய ஜனாதிபதி தவறிவிட்டார் என்று தெரிவித்துள்ள  ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச, சர்வதேச நாணய நிதியத்துடன் பேச்சுவார்த்தை நடத்தி, ஜனாதிபதி அனுரகுமார திசாநாயக்கவினால், வரிகளை குறைக்க முடியாவிடின், எங்களால் வரிகளை குறைக்க முடியும் என்றார்.
-
-The United People's Power will be a firm victory in the upcoming general election.The leader of the Janatha Vimukthi Peramuna (JVP), Anuragumara Dissanayake, said that if he comes to power, he will change the tax format and reduce the value of the value tax, direct and indirect taxes.
-
-என்றாலும் சர்வதேச நாணய நிதியத்துடன் ஜனாதிபதி இரண்டு சுற்றுப் பேச்சுவார்த்தைகளை நடத்திய போதிலும்,  அந்த வரிகளை குறைப்பதில் உடன்பாடு காணப்படவில்லை என்று சர்வதேச நாணய நிதியம் தெரிவித்துள்ளது. Sajith Premadasa said that even though the tax was reduced during the election, he could not do it after coming to power.
-
-...
-
-[Data](articles/e72b9276.json)
-
-[Extended Data](ext_articles/e72b9276.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 01:09:12**
+As of **2024-10-29 01:24:02**
 
 ## Newspaper Stats
 
-*Scraped **51,896** Articles*
+*Scraped **51,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,826
 adaderanalk | 6,148
-tamilmirrorlk | 7,184
+tamilmirrorlk | 7,185
 virakesarilk | 8,374
 adaderanasinhalalk | 9,025
 
@@ -26,9 +26,41 @@ adaderanasinhalalk | 9,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,896 (100.0%) of 51,896 articles have been extended.
+51,897 (100.0%) of 51,897 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-29 (Tuesday)
+
+### The model does not fight for the community
+
+*2024-10-29 01:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூகத்துக்காக-போராடவில்லை/175-346232) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Imran Mahroof criticizes Muslim leaders for prioritizing personal gain over community welfare. He advocates for system change without representation, urging true leaders to serve the people directly.
+
+🟩
+
+United People's Alliance (UPFA) Trincomalee district candidate and former MP Imran Mahroof said that those who have identified themselves as leaders of minority parties have not been voiced during the problems of Muslims.
+
+கிண்ணியா மஹ்ரூப் நகர் பகுதியில் ஞாயிற்றுக்கிழமை  (27)இடம் பெற்ற தேர்தல் பரப்புரை கூட்டத்தின் பின் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+
+“When Muslims faced various problems in the past, they worked with the government for their own profit. People are well aware that they are not fighting for the community.
+
+Many parties are confused by many candidates as the people are facing the parliamentary elections.
+
+It may be exactly that the System Change should be done without representations.. That is why he asked the good leaders to give people a decree.
+
+◼️
+
+[Data](articles/d0d7c277.json)
+
+[Extended Data](ext_articles/d0d7c277.ext.json)
+
+---
 
 ### 2024-10-28 (Monday)
 
@@ -2383,65 +2415,5 @@ The railway department has said that the train traveling from Panadura to Colomb
 [Data](articles/92811bfe.json)
 
 [Extended Data](ext_articles/92811bfe.ext.json)
-
----
-
-### 7 major allowances and perks of MPs
-
-*2024-10-28 11:37:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2nwnky397o) · `si`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-MPs in Sri Lanka enjoy various privileges including:
-
-
-
-1. Free firearm and training
-
-2. Police protection 
-
-3. High monthly salary and daily allowances
-
-4. Pension after retirement
-
-5. Office expenses and housing allowance
-
-6. Stamp relief for mail
-
-7. Medical insurance and treatment
-
-8. Diplomatic license
-
-9. Immunity from prosecution for speeches in Parliament
-
-
-
-These perks raise questions about accountability and public perception of fairness.
-
-🟩
-
-'' The 225 in Parliament is one. Our votes and sufferers. "
-
-"We know how to go to it."
-
-"Most members do a mud for somebody with privileges."
-
-The above is a number of ideas in the country recently hear the country's methods of the country, MPs, and the privileges of the country.
-
-MPs have special privileges who elected to Parliament from People's Preferences. Has MPs enjoy those privileges and justice have the country to the people and the country?The conversation of the conversation has returned to the forest. That is, for about two weeks left to select MPs to select the following members.
-
-Laws have been laws to limit electoral costs, but many candidates are observed that they spend a huge wealth for their propaganda.
-
-Are MPs use parliamentary powers and privileges to repress media? The General Election 2024: Who is in the national lists?
-
-When he was elected to Parliament, the privilege of speech of the society 'is the' vehicle license '.
-
-...
-
-[Data](articles/6124148f.json)
-
-[Extended Data](ext_articles/6124148f.ext.json)
 
 ---

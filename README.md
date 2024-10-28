@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 22:58:37**
+As of **2024-10-28 23:11:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,885 (100.0%) of 51,886 articles have been extended.
+51,886 (100.0%) of 51,886 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Mali, Niger and Burkina Faso have ended military operations with the U.S. and Fr
 ◼️
 
 [Data](articles/84920a80.json)
+
+[Extended Data](ext_articles/84920a80.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 21:24:06**
+As of **2024-10-28 21:40:17**
 
 ## Newspaper Stats
 
-*Scraped **51,878** Articles*
+*Scraped **51,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,824
 adaderanalk | 6,146
-tamilmirrorlk | 7,182
+tamilmirrorlk | 7,183
 virakesarilk | 8,373
 adaderanasinhalalk | 9,022
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,022
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,878 (100.0%) of 51,878 articles have been extended.
+51,879 (100.0%) of 51,879 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,32 @@ Meanwhile, the number of election complaints received in connection with the par
 [Data](articles/ee27f2bd.json)
 
 [Extended Data](ext_articles/ee27f2bd.ext.json)
+
+---
+
+### Police notice of terrorist attacks
+
+*2024-10-28 20:56:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-தாக்குதல்-குறித்து-பொலிஸார்-வெளியிட்ட-அறிவிப்பு/175-346230) · `ta`
+
+Foreign tourists suspected of planning terrorist attacks in Sri Lanka's highlands. Three arrests made, more suspects identified. Police seeking court permission to interrogate additional detainees. Investigations ongoing based on September intelligence.
+
+🟩
+
+The Terrorist Intelligence Unit has informed the Colombo Magistrate's Court that further investigations are being carried out on the basis of information that foreign tourists are planning to launch a terrorist attack targeting the highlands.
+
+The three suspects arrested in connection with the incident have been detained and interrogated, police said.
+
+Police said that information on other suspects involved in the incident was revealed during the investigation.
+
+The police have requested the court to allow many suspects in jail to investigate and record their affidavits to reveal further facts regarding the incident.
+
+Police have also announced that investigations are underway according to information available last September regarding the incident.. Remble
+
+◼️
+
+[Data](articles/9a5954bb.json)
+
+[Extended Data](ext_articles/9a5954bb.ext.json)
 
 ---
 
@@ -2441,35 +2467,5 @@ The findings are expected to aid the government in addressing the supply issues 
 [Data](articles/8a04d183.json)
 
 [Extended Data](ext_articles/8a04d183.ext.json)
-
----
-
-### An Indo-Lanka Joint Active Group Meeting
-
-*2024-10-28 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202642) · `si`
-
-Indo-Lanka Joint Active Group Meeting summary: 200 characters
-
-🟩
-
-A meeting of the Indo-Lanka Joint Activity Team is scheduled to be held tomorrow (29).
-
-Secretary to the Ministry of Fisheries Ministama discussions will be held at the Mahaweli Center in Colombo tomorrow morning.. P. M. Mr. Wickremasinghe said.
-
-ඉන්දු - ලංකා ඒකබද්ධ ක්‍රියාකාරී කණ්ඩායමේ 06වන රැස්වීම මෙය වන අතර මේ සඳහා නිලධාරී මට්ටමේ සාමාජිකයින් 12 දෙනෙකු සහභාගී වීමට නියමිතය.
-
-Fisheries Ministry has instructed the Fisheries Ministry to discuss the 'Bottom Tralin' by President Anura Kumara Dissanayake.
-
-Accordingly, the Fisheries Ministry has taken steps to educate Indian authorities through the Indian embassy.
-
-The discussion will be held tomorrow and between 400 and 500 Indian trawlers are scheduled to discuss the batatolin scheme in Sri Lanka for a period of 3 days.
-
-Through this method, the long-term effects and deep sea ocean balance have occurred due to fishing.
-
-...
-
-[Data](articles/dea04b1b.json)
-
-[Extended Data](ext_articles/dea04b1b.ext.json)
 
 ---

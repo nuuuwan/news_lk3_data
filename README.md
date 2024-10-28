@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 04:24:10**
+As of **2024-10-29 04:39:39**
 
 ## Newspaper Stats
 
-*Scraped **51,908** Articles*
+*Scraped **51,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,826
 adaderanalk | 6,148
-tamilmirrorlk | 7,187
+tamilmirrorlk | 7,188
 virakesarilk | 8,374
 adaderanasinhalalk | 9,025
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,908 (100.0%) of 51,908 articles have been extended.
+51,909 (100.0%) of 51,909 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -109,6 +109,32 @@ Samagi Jana Balawegaya (SJB) Colombo district candidate S.M. Marikkar yesterday 
 [Data](articles/2f233088.json)
 
 [Extended Data](ext_articles/2f233088.ext.json)
+
+---
+
+### Model
+
+*2024-10-29 02:27:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பின்னடைவு-ஏற்படும்/175-346236) · `ta`
+
+Elpitiya election results show dissatisfaction with current government. Opposition leader predicts similar outcome in parliamentary elections. President promises changes but acknowledges challenges in implementation. Opposition focuses on achievable goals rather than unrealistic promises. This sets stage for potential new government formation in upcoming parliamentary election.
+
+🟩
+
+Elpitiya election results reveal that people are dissatisfied with the current government. Velusamy Radhakrishnan, the leader of the Upcountry People's Front, the co -chair of the Tamil Progressive Alliance and the Nuwara Eliya district candidate of the United People's Alliance, said that this would happen in the parliamentary elections.
+
+In the past, we have seen in the past that the presidential election in Sri Lankan politics is over and the president and his party will win all the next elections.
+
+However, the president has been able to get more than 50 percent of the vote in the local government elections after the end of the presidential election.
+
+The reason is that the president and the government are dissatisfied with the government.
+
+The president said that he would make many changes in 48 hours if he came to power while in the party.. He said that many wonders have the ability to do with me and his crew. But now I am not a witch or a trick.
+
+...
+
+[Data](articles/9d74645a.json)
+
+[Extended Data](ext_articles/9d74645a.ext.json)
 
 ---
 
@@ -2369,33 +2395,5 @@ In a presidential election year, the American voters mark their ballots to elect
 [Data](articles/d7892b33.json)
 
 [Extended Data](ext_articles/d7892b33.ext.json)
-
----
-
-### Mervyn arrested Jana
-
-*2024-10-28 13:04:00* · [`adalk`](https://www.ada.lk/breaking_news/මර්වින්-ජානා-අල්ලයි/11-412717) · `si`
-
-Maaka Prasad, major drug dealer, arrested by STF. Seized 17,060 liters of ice, vehicle, phone. Facing murder and riot powder cases. Handed to Boralesgamuwa Police for investigation.
-
-🟩
-
-Boralesgamuwa Police say that Maaka Prasad, who is a large scale drug dealer and organized criminal, has been arrested by the Special Task Force of the Police Special Task Force.
-
-The suspect has also seized 17060 liters of ice, as well as a lieger car and a mobile phone.
-
-Special Task Force (STF) Police said that he was arrested while hiding in the cousin suspected of the Moratuwa camp officials on information received by the Moratuwa camp.
-
-The suspect is currently undergoing a case of a human murder case, as well as the case is being heard on riot powder racket.
-
-He said that the drug racket was stopped with the operation of the suspect, a senior police officer said.
-
-The suspect arrested by the STF handed over to the Boralesgamuwa Police for seven days after handing over to the Boralesgamuwa Police, he added.
-
-...
-
-[Data](articles/3cce3ede.json)
-
-[Extended Data](ext_articles/3cce3ede.ext.json)
 
 ---

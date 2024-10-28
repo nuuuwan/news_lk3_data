@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 09:15:56**
+As of **2024-10-28 09:26:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,751 (100.0%) of 51,753 articles have been extended.
+51,753 (100.0%) of 51,753 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1406,19 +1406,25 @@ Former presidents' perks cut: President Anura Kumara Dissanayake proposes reduci
 
 ---
 
-### දුම්රිය සේවකයන්ට නිදහස් දුම්රිය අවසර පතක්
+### Railway employees free Railway permit
 
 *2024-10-27 19:59:40* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සේවකයන්ට-නිදහස්-දුම්රිය-අවසර-පතක්/11-412709) · `si`
 
-දුම්රිය සේවකයන් හට තම නිවාසය සහ සේවා ස්ථානය අතර ගමන් කිරීම සඳහා නිදහස් දුම්රිය අවසර පතක් ලබා දීමට රජය තීරණය කර තිබේ. ඒ අනුව මීට අදාළ පියවර ගන්නා ලෙස ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ‍ගුවන්සේවා අමාත්‍ය විජිත හේරත් මහතා අදාළ බලධාරීන්ට උපදෙස් ලබා දී ඇත.
+Railways offers free permits for home-to-workplace travel. Decision aims to boost employee morale and local economy. Transport Minister instructs authorities to implement this policy change.
 
-දුම්රිය දෙපාර්තමේන්තුව හා එහි සේවකයන්ද නිරන්තරයෙන් මගියාගේ විවේචනයට ලක් වන බැවින් එම තත්ත්වය වෙනස් කිරීමට හා එහි සේවකයන් දිරිමත් කිරීමට මෙම තීරණය ගෙන තිබේ.
+🟩
 
-මෙය දුම්රිය සේවකයන්ගේ අභිමානය වැඩි කිරීමටත්, කාර්යක්ෂමතාවය ඉහළ තත්ත්වයට ගෙන ඒමටත් සාධනීය ලෙස බලපාන තීරණයක් බවත්, එමගින් රටේ ආර්ථිකයටත් යම් බලපෑමක් කළ හැකි බවත් ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ‍ගුවන්සේවා අමාත්‍යාංශය පවසයි.
+Railways has decided to give a free railway permit to travel between their home and workplace.. Transport, Highways, Ports and Civil Aviation Minister Vijitha Herath has instructed the authorities to take appropriate action.
+
+The decision has been taken to change the situation and encourage the situation as the Railway Department and its workers are constantly criticized.
+
+This is a positive decision to increase the pride of the railway employees and that the economy of the country can influence the economy and the Transport, Highways, Ports and Civil Aviation said.
 
 ◼️
 
 [Data](articles/1a43c948.json)
+
+[Extended Data](ext_articles/1a43c948.ext.json)
 
 ---
 
@@ -1558,19 +1564,37 @@ But I do not think that this government will last even three months.
 
 ---
 
-### එෆ්.සී.අයි.ඩී. යළිත් බලාත්මක කරයි?
+### FCI. Return?
 
 *2024-10-27 19:17:05* · [`adalk`](https://www.ada.lk/breaking_news/එෆ්-සී-අයි-ඩී--යළිත්-බලාත්මක-කරයි-/11-412703) · `si`
 
-වසර පහකට පමණ පෙර අත්තනෝමතික ලෙස විසුරුවා හැරී එෆ් සි අයි ඩි හෙවත් මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය නැවත බලාත්මක කර දූෂණ ලිපිගොනු කඩිනමින් විමර්ශනය කිරීමේ සූදානමක් පවතින බව නීතිය හා සාමය අමාත්‍යාංශයේ අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කරයි.
+Here's a summary of the text in approximately 200 characters:
 
-යහපාලන රාජ්‍ය සමයේදී කැබිනට් අනුමැතියෙන් පිහිටනු ලැබූ එෆ් සි අයි ඩි ගෝඨාභය රාජපක්ෂ මහතා ජනාධිපති ධුරයට පත්වීමත් සමඟම එහි සිටි නිලධාරීන් 180 කුගෙන් 19 කු හැරෙන්නට අනෙක් සියලුම නිලධාරීන්ගෙන් බහුතරයක් දෙනා ඔහුගේ ආරක්ෂාවට යැයි කියා මාර්ග දෙපස රාජකාරියේ යොදවන්නට කටයුතු කළ අතර දූෂණ ලිපිගොනු අල්මාරි වලට සීමා වූ අතර එෆ් සි අයි ඩි නැවතීමේ තිත තැබිණි.
 
-අනතුරුව ඒ සම්බන්ධයෙන් කොමිසමක් පිහිටුවා ඒෆ් සි.අයි ඩි සිදුකළ විමර්ශන නීති විරෝධී යැයි ප්‍රකාශ කරමින් ප්‍රධාන පෙළේ දූෂණ සම්බන්ධයෙන් විමර්ශන සිදුකළ ( මිග් යානා ගනුදෙනුව ආදි ) නිලධාරීන් පැය 24 ක් තුළදී යාපනයට මාරු කිරීමටද පියවර ගැනුණු අතර විමර්ශන නිලධාරීන් වාඩිවී සිටි පුටු පවා ග්‍රාමාරක්ෂක නිලධාරීන්ට ලබාදීම සිදුකෙරිණි.
+
+Corruption cases from 5 years ago being reopened. Senior police officer involved in embezzlement scandal. Former president accused of investigating own family's defense contracts. Several officials implicated in corruption schemes. Legal action planned against corrupt individuals. High-level discussions ongoing regarding the matter.
+
+🟩
+
+According to internal sources of the Ministry of Law and Order, according to the Ministry of Law and Order to revolve corruption files about five years ago.
+
+The majority of the 180 officers who were appointed by the Cabinet approved during the public season, the majority of all other officers were able to be used to his protection.The Curved Currencycle was laid.
+
+The following commission was established in the leading corruption (phemental corruption transaction was carried out in 24 hours)..
+
+A senior Superintendent of Police had acted in a highlight of the government's highlights from the government's highlights of the FD I de Cycline Department.
+
+Sources say that the officer is also surprising that the officer has handed over a division.
+
+The officers served in the division also had also been cut off for the monthly allowance of Rs. 3000 / = per month.
+
+Former President Gotabhaya Rajapaksa was charged with the investigation of the father's tomb during the defense secretary.
 
 ...
 
 [Data](articles/9091d12f.json)
+
+[Extended Data](ext_articles/9091d12f.ext.json)
 
 ---
 

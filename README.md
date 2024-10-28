@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 09:40:21**
+As of **2024-10-28 10:13:17**
 
 ## Newspaper Stats
 
-*Scraped **51,756** Articles*
+*Scraped **51,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ islandlk | 3,081
 economynextcom | 3,146
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,808
-adaderanalk | 6,126
-tamilmirrorlk | 7,158
+adalk | 4,809
+adaderanalk | 6,127
+tamilmirrorlk | 7,159
 virakesarilk | 8,345
-adaderanasinhalalk | 8,998
+adaderanasinhalalk | 8,999
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,756 (100.0%) of 51,756 articles have been extended.
+51,760 (100.0%) of 51,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Yal Devi to Kankesanthurai after 10 months
+
+*2024-10-28 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202638) · `si`
+
+Colombo-Kankesanthurai railway resumes after 10-month closure. Yal Devi and Rajarata trains restart service. Trains operate between Colombo Fort and Kankesanthurai, connecting to Anuradhapura.
+
+🟩
+
+Railway train from the Colombo-Fort to Kankasanthurai has been resumed today (28).
+
+After the end of the railway line, Yal Devi and Rajarata rail will be resumed 10 months after the closure of the railway line.
+
+Deputy Railway General Man General's Deputy Railway General Man General's Deputy Railway Station, Colombo Fort and Kankasanthurai, Colombo Fort and Anuradhapura, Deputy Railway Station will be run between Colombo Fort and Kankasanthurai and Anuradhapura.. Says Mr. Sittaleman.
+
+◼️
+
+[Data](articles/01dad568.json)
+
+[Extended Data](ext_articles/01dad568.ext.json)
+
+---
+
+### Explanation extension to detainees
+
+*2024-10-28 09:39:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதாக-மீனவர்களுக்கு-விளக்கமறியல்-நீடிப்பு/175-346165) · `ta`
+
+India: Magistrate orders detention of 12 fishermen from Nagai district on border charges. Boat owner sued. Detention set for August 8th.
+
+🟩
+
+Magistrate Kumaraswamy has ordered the detention of 12 fishermen from the Nagai district of India, who was arrested on a border charges, to be detained on the 8th of this month.
+
+It is also worth noting that the owner of the boat has been sued.
+
+◼️
+
+[Data](articles/9b71f40f.json)
+
+[Extended Data](ext_articles/9b71f40f.ext.json)
+
+---
+
+### Youth killed in motorcycle collision in Kumbukwewa
+
+*2024-10-28 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102970/youth-killed-in-motorcycle-collision-in-kumbukwewa) · `en`
+
+A 19-year-old youth in the Kumbukwewa in Neriyawa has been killed in an accident on the Kumbukgate - Bannakgama Nelawa road last afternoon (27).
+
+The accident occurred when a motorcycle traveling from Bannakgama towards Nelawa collided head-on with another motorcycle coming from the opposite direction.
+
+The collision resulted in serious injuries to both riders, their passengers, and two children. All were admitted to Hiripitiya Hospital, where one of the riders succumbed to his injuries while receiving treatment.
+
+◼️
+
+[Data](articles/4a533aeb.json)
+
+[Extended Data](ext_articles/4a533aeb.ext.json)
+
+---
 
 ### Review of the Correction Correction Today
 
@@ -1544,6 +1604,30 @@ According to a complaint lodged by the three police constables above, the suspec
 
 ---
 
+### There were no arm of voice recording machines in the Department of Examinations
+
+*2024-10-27 19:42:16* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-දෙපාර්තමේන්තුවේ-හඬ-පටිගත-කිරීමේ-යන්ත්‍ර-23-ක්-ආ-ගිය-අතක්-නෑ/11-412706) · `si`
+
+National Audit Office report: 23 missing voice recording machines from Department of Examinations. Investigation underway. Recommendations made to comply with Government Finance Regulations.
+
+🟩
+
+The National Audit office reveals that 23 voice recording machines owned by the Department of Examinations and the Department of Examinations have lost.
+
+The Audit Office has filed 16 voice recording machines issued by the Department of Examinations and the Voice Recording machines issued to the school examination organizations.
+
+The number of Examinations Department has informed the Audit Office that an investigation has been conducted in this regard.
+
+The Audit Office has also given its recommendations to the Department of Examinations to act on the Government Finance Regulations.
+
+◼️
+
+[Data](articles/ef7159a8.json)
+
+[Extended Data](ext_articles/ef7159a8.ext.json)
+
+---
+
 ### ஶ்ரீ லங்கா பொதுஜன பெரமுன கட்சியிலிருந்து ம.பரமேஸ்வரன் நீக்கப்பட்டார்
 
 *2024-10-27 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197278) · `ta`
@@ -2223,117 +2307,5 @@ Experts predict on the Liberal Democratic Party (Liberal Democratic Party) and a
 [Data](articles/d53672fa.json)
 
 [Extended Data](ext_articles/d53672fa.ext.json)
-
----
-
-### “Inexperienced group is not good for the country”
-
-*2024-10-27 17:01:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுபவமற்ற-குழு-நாட்டுக்கு-நல்லதல்ல/175-346130) · `ta`
-
-"Inexperienced groups bad for country" UNP candidate warns. Experienced team needed for proper governance.
-
-🟩
-
-United National Party (UNP) Gampaha district candidate Ruwan Vijayawardena said in Negombo on Sunday (27) that if the inexperienceless committee was elected to parliament, it would not be good for the country.
-
-Vijayawardena said that the people are not even aware of who is in the national popular power, and said that there is a skilled and experienced group in the new Democratic Front group contesting the Cass cylinder.
-
-The New Democratic Front's Negombo People's Meeting was chaired by former President Ranil Wickremesinghe.
-
-Our hope is that Ranil Wickremesinghe has only the ability to build the economy of this country.
-
-But unfortunately people have made a different decision. We do not expect to pull the legs of the elected president, but we are not happy with some of the decisions he makes.
-
-...
-
-[Data](articles/253dc9fe.json)
-
-[Extended Data](ext_articles/253dc9fe.ext.json)
-
----
-
-### People should not get caught up in the intrigue of Tamil firing - Jeevan Thondaman
-
-*2024-10-27 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197263) · `ta`
-
-Jeevan Thondaman urges government to propose 2k base salary for plantation workers. Supports plan but warns against getting distracted by Tamil representation issues.
-
-🟩
-
-The union of the National People's Power has urged plantation workers to be paid a base salary of 2 thousand rupees. Therefore, the government must present the proposal to the salary council. "We will give full support to it," said Jeevan Thondaman, General Secretary of the CWC and former minister.
-
-He was speaking at a media briefing held at the CLF auditorium in Kotagala on Sunday (27).
-
-Within a short period of time in the last regime we have launched political, economic and social plans on the people of the hill country. The housing project was also resumed.
-
-However, after the presidential election, no plans have been launched on the people of the hill country. There is suspicion among the people whether development projects will be carried out.
-
-During the presidential election, national people promised to reduce prices of goods. But the price of goods is currently on the rise.
-
-...
-
-[Data](articles/9b6591c0.json)
-
-[Extended Data](ext_articles/9b6591c0.ext.json)
-
----
-
-### The President cannot rule by the President
-
-*2024-10-27 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197265) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Rizath Bathiudeen: President's party can't rule alone. Elpitiya election results show declining support. Need unity, not slogans. Minority communities must maintain leadership. Opportunity to join opposition parties.
-
-🟩
-
-Former minister and Wannimavatta candidate Rizat Bathiudeen said that the results of the Elpitiya elections have been told that the president's party cannot rule alone and is the leader of the minority people.
-
-He was speaking to the media at an election campaign meeting in Vavuniya.
-
-Elpitiya Pradeshiya Sabha election results have made a message to the country. That is, in the last presidential election, Anurakumara received 42 percent of the vote. 58 percent of the votes were against him.
-
-If an election is held immediately after the presidential election, the vote will increase. But the Elpitiya election has been told that nothing has happened.
-
-According to the election results, the news that the president's party cannot rule alone. The votes are decreasing every day.
-
-...
-
-[Data](articles/c0b036d3.json)
-
-[Extended Data](ext_articles/c0b036d3.ext.json)
-
----
-
-### Shanto's leadership ready to give up
-
-*2024-10-27 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202620) · `si`
-
-Shanto resigns as Bangladesh cricket captain after poor performance. Team needs new leader before matches against South Africa, Afghanistan, and West Indies.
-
-🟩
-
-Njjamal Hoseen Hogu Hoseen Shantho, who is the permanent leader of the Bangladesh cricket team has decided to resign.
-
-Last year, Shaton, who was leading the Bangladesh Test team in November, was appointed as the leader of one day and Twenty20 team.
-
-However, after the leadership, his batting talent did not raise outstanding.
-
-As a result, he has informed Bangladesh Cricket that he wants to resign after the leadership against South Africa.
-
-Bangladesh team, Afghanistan and Billa after the end of South Africa. West Indies are due to worship with sports.
-
-As a result, Bangladesh will have to appoint a new leader in a short time.
-
-Shuntoto was able to serve the Test tournament against New Zealand last year.
-
-◼️
-
-[Data](articles/91dc7fd1.json)
-
-[Extended Data](ext_articles/91dc7fd1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 21:40:17**
+As of **2024-10-28 21:59:29**
 
 ## Newspaper Stats
 
-*Scraped **51,879** Articles*
+*Scraped **51,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,085
 economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,824
+adalk | 4,825
 adaderanalk | 6,146
 tamilmirrorlk | 7,183
 virakesarilk | 8,373
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,022
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,879 (100.0%) of 51,879 articles have been extended.
+51,880 (100.0%) of 51,880 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -243,6 +243,34 @@ During sentencing, the accused’s legal counsel pleaded for leniency, emphasizi
 [Data](articles/d3aea540.json)
 
 [Extended Data](ext_articles/d3aea540.ext.json)
+
+---
+
+### Former Agriculture Minister says the shortage of rice and rise
+
+*2024-10-28 18:43:34* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-හිඟයට-හා-මිල-ඉහළ-යාමට-හේතුව-හිටපු-කෘෂිකර්ම-ඇමති-කියයි/11-412725) · `si`
+
+Sri Lanka's former Agriculture Minister Mahinda Amaraweera accuses finance ministry officials of failing to provide funds to the Paddy Marketing Board during paddy purchases, leading to rice shortages and price hikes. He claims political parties' farm representatives rejected his requests for assistance.
+
+🟩
+
+පවතින සහල් හිඟයට හා මිල ඉහළ යාමට මුදල් අමාත්‍යාංශ නිලධාරීන් වගකිව යුතු බවට ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජ්‍යෙෂ්ඨ උපසභාපති, කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා චෝදනා කර සිටියි.
+
+He points out that the officials have not been able to provide money to the Paddy Marketing Board at the time of purchase of paddy.
+
+Mr. Amaweera stated that he further stated that
+
+"I requested at the Paddy Marketing Board as the Minister of Agriculture. නමුත් මුදල් අමාත්‍යාංශයේ ඉහළ නිලධාරීන් මෙන්ම, එවකට ජනාධිපති ආර්ථික උපදේශකවරයාත් වී අලෙවි මණ්ඩලයට මුදල් ලබා දීම ප්‍රතික්ෂේප කළා.
+
+මේ නිසා සහල් මාෆියාව රිසි සේ ගොවියාත් පාරිභෝගිකයාත් සූරා ගෙන කෑවා.
+
+Officers of the Ministry of Finance gave purchasing money to small and medium scale rice mills. But the program had no relief to the farmer. I gave the matter in several occasions and gave the last 500 million rupees. හැබැයි එතකොට වී ඔක්කොම තිබුණේ මහ මෝල් අයිතිකාරයෝ
+
+...
+
+[Data](articles/604e935c.json)
+
+[Extended Data](ext_articles/604e935c.ext.json)
 
 ---
 
@@ -2445,27 +2473,5 @@ It has been revealed that the race due to the racing, driven by pavements, pedes
 [Data](articles/5bace162.json)
 
 [Extended Data](ext_articles/5bace162.ext.json)
-
----
-
-### President to receive report on national rice and paddy stocks today
-
-*2024-10-28 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102972/president-to-receive-report-on-national-rice-and-paddy-stocks-today-) · `en`
-
-The Consumer Affairs Authority (CAA) is set to deliver the report on the current stocks of rice and paddy available in Sri Lanka to President Anura Kumara Dissanayake today (28).
-
-This assessment comes following the President’s directive to gauge the rice supply amidst a market shortage of several varieties, including nadu, white, and red raw rice.
-
-In response to the instructions, CAA officers conducted inspections in the Anuradhapura, Polonnaruwa, Ampara, and Hambantota districts on Saturday and Sunday.
-
-During these inspections, they gathered data on stock levels at large and medium-scale rice mills and engaged with mill workers regarding the availability and distribution of rice and paddy.
-
-The findings are expected to aid the government in addressing the supply issues affecting key rice varieties.
-
-◼️
-
-[Data](articles/8a04d183.json)
-
-[Extended Data](ext_articles/8a04d183.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 04:39:39**
+As of **2024-10-29 04:58:25**
 
 ## Newspaper Stats
 
-*Scraped **51,909** Articles*
+*Scraped **51,910** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 412
-colombotelegraphcom | 525
+colombotelegraphcom | 526
 bbccomsinhala | 527
 islandlk | 3,085
 economynextcom | 3,158
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,909 (100.0%) of 51,909 articles have been extended.
+51,909 (100.0%) of 51,910 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -321,6 +321,20 @@ However, the union has announced that the union struggle will begin within 72 ho
 [Data](articles/31817f8b.json)
 
 [Extended Data](ext_articles/31817f8b.ext.json)
+
+---
+
+### Towards Stability, Equity & Prosperity: Part II
+
+*2024-10-28 23:11:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-stability-equity-prosperity-part-ii/) · `en`
+
+The interim NPP government wants to make negotiated changes to the IMF conditionalities already agreed upon by the previous regime. If that is not feasible, the NPP will have to move away from the thinking that any deviation from the IMF prescribed debt restructuring would further damage the country’s economy. Otherwise, the NPP will have to resort to other alternatives.
+
+Furthermore, allegations are being made that the interim government has overborrowed during its first few weeks in office. The Central Bank has issued treasury bills of Rs. 465.1 billion from last September 27. However, the government has clarified that this is not a new or an additional loan.
+
+...
+
+[Data](articles/e8a328dd.json)
 
 ---
 
@@ -2379,21 +2393,5 @@ The British Media Channel 4, which aired in September 4 last year, has asked the
 [Data](articles/caffc35a.json)
 
 [Extended Data](ext_articles/caffc35a.ext.json)
-
----
-
-### US Election Down to the Wire, Sri Lanka has Turned the Page
-
-*2024-10-28 13:06:00* · [`islandlk`](http://island.lk/us-election-down-to-the-wire-sri-lanka-has-turned-the-page/) · `en`
-
-In about ten days, on November 5, the US will have its quadrennial presidential election along with its biennial House and Senate elections. The presidential election is literally down to the wire, and the two candidates, Kamala Harris and Donald Trump, are fighting it out at the margins in the so called seven swing states. At the time of writing, it is a total toss up and there is no certainty about the outcome.
-
-In a presidential election year, the American voters mark their ballots to elect their president for four years, a third of their 100 senators for six years, and all 435 members of the House of Representatives for two years. The elections to the Senate and the House are called the ‘down ballot races’, below the main presidential runoff.
-
-...
-
-[Data](articles/d7892b33.json)
-
-[Extended Data](ext_articles/d7892b33.ext.json)
 
 ---

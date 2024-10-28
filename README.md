@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 19:24:30**
+As of **2024-10-28 19:40:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,868 (100.0%) of 51,870 articles have been extended.
+51,870 (100.0%) of 51,870 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -866,17 +866,27 @@ Nishantha Perera, who contested as the NPP Group Leader, is tipped to be appoint
 
 ---
 
-### රනිල්ගේ රාජ්‍ය සේවක වැටුප් වැඩි කිරීම මැතිවරණ කාලයේ දුන් බොරු පොරොන්දුවක් පමණයි
+### Ranil's public servant's salary increase is only a false promise
 
 *2024-10-28 15:57:38* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-රාජ්‍ය-සේවක-වැටුප්-වැඩි-කිරීම-මැතිවරණ-කාලයේ-දුන්-බොරු-පොරොන්දුවක්-පමණයි/11-412719) · `si`
 
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රාජ්‍ය සේවකයන්ගේ වැටුප් වැඩි කරන බවට සඳහන් කළද ඊට අවශ්‍ය අනුමැතිය ගෙන නොමැති බව අග්‍රාමාත්‍ය හරිනි අමරසූරිය පැවසීය.
+Here's a 200-character summary:
 
-“රාජ්‍ය සේවකයන්ගේ වැටු වැඩි කරන්න තීරණයක් ගත්තා කියලා රනිල් වික්‍රමසිංහ කිව්වට අපි ඒ කැබිනට් පත්‍රිකාව බලනකොට ඒකට භාණ්ඩාගාරයෙන්වත්, මුදල් අමාත්‍යාංශයේ නිලධාරීන්ගෙන්වත් අනුමැතිය අරගෙන නෙවෙයි ඒ තීරණය අරන් තියෙන්නේ. තීරණය ප්‍රකාශ කළා. නමුත් තීරණය ක්‍රියාත්මක කරන්න ඕන කොටස කරලා නෙවෙයි ඒ තීරණය අරන් තියෙන්නේ. ඒක ඉතාමත්ම පැහැදිලිව ජනතාව නොමග යවන්න මැතිවරණ කාලයක් තුළ දුන්න බොරු පො​රොන්දුවක්.”
+
+
+Former President Ranil Wickremesinghe promised increased salaries for public servants. However, Prime Minister Harini Amarasuriya claims this decision was made without Treasury approval and hasn't been implemented, misleading the public.
+
+🟩
+
+Prime Minister Harini Amarasuriya said that former President Ranil Wickremesinghe said that the salaries of public servants would increase public employees.
+
+"Ranil Wickremesinghe has made a decision to increase public ventures to increase the cabinet, but not by Treasury and the Ministry officials.. Decided the decision. But that decision has been made not to make the decision to be implemented. It is very clear that the people mislead the people.
 
 ◼️
 
 [Data](articles/f1bbc1e3.json)
+
+[Extended Data](ext_articles/f1bbc1e3.ext.json)
 
 ---
 
@@ -1740,27 +1750,63 @@ The railway department has said that the train traveling from Panadura to Colomb
 
 ---
 
-### පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට හිමි වන ප්‍රධාන දීමනා සහ වරප්‍රසාද 7ක්
+### 7 major allowances and perks of MPs
 
 *2024-10-28 11:37:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2nwnky397o) · `si`
 
-''පාර්ලිමේන්තුවේ 225 ම එක යි. අපේ ඡන්දයෙන් ගිහින් සුර සැප විඳිනවා.''
+Here's a summary of the key points in approximately 200 characters:
 
-''ඕකට ගිය හැටි යි, ගියාට පස්සේ මන්දිර ගහපු හැටි යි අපි දන්නවා.''
 
-''මන්ත්‍රීවරු වැඩි හරියක් කරන්නේ වරප්‍රසාදවලට මුවා වෙලා කාටහරි මඩක් ගහන එක.''
 
-ඉහත දැක්වෙන්නේ, රටේ නීති සම්පාදනයේ උත්තරීතරම ආයතනය වන පාර්ලිමේන්තුව, එහි මන්ත්‍රීවරුන් සහ ඔවුන්ට හිමි වන වරප්‍රසාද පිළිබඳව රටේ ක්‍රම වෙනසක් වෙනුවෙන් හඬ නගන ජනතාව පසුගිය කාලයේදී අතරින් අසන්නට ලැබුණු අදහස් කිහිපයකි.
+MPs in Sri Lanka enjoy various privileges including:
 
-ජනතා මනාපයෙන් පාර්ලිමේන්තුවට තේරී පත්වන මන්ත්‍රීවරුන්ට හිමි වන සුවිශේෂී වරප්‍රසාද තිබේ. එම වරප්‍රසාද භුක්ති විඳින මන්ත්‍රීවරුන් ජනතාවට සහ රටට සාධාරණය ඉටු කර තිබේ ද? යන සංවාදය යළිත් කරළියට පැමිණ තිබේ. ඒ, ඊළඟ පාර්ලිමේන්තුවට මන්ත්‍රීවරුන් තෝරා ගැනීම සඳහා තවත් සති දෙකක පමණ කාලයක් ඉතිරිව තිබියදී ය.
 
-මැතිවරණ වියදම් සීමා කිරීමට නීති පනවා තිබුණ ද අපේක්ෂකයන් බොහෝ දෙනෙකු සිය ප්‍රචාරණ කටයුතු සඳහා විශාල ධනස්කන්ධයක් වැය කරන බව නිරීක්ෂණය වෙයි.
 
-මාධ්‍ය මර්දනයට මන්ත්‍රීවරු පාර්ලිමේන්තු බලතල සහ වරප්‍රසාද යොදා ගන්නවා ද?මහ මැතිවරණය 2024: ප්‍රධාන පක්ෂ කිහිපයේ ජාතික ලැයිස්තුවල ඉන්නේ කවුද?
+1. Free firearm and training
+
+2. Police protection 
+
+3. High monthly salary and daily allowances
+
+4. Pension after retirement
+
+5. Office expenses and housing allowance
+
+6. Stamp relief for mail
+
+7. Medical insurance and treatment
+
+8. Diplomatic license
+
+9. Immunity from prosecution for speeches in Parliament
+
+
+
+These perks raise questions about accountability and public perception of fairness.
+
+🟩
+
+'' The 225 in Parliament is one. Our votes and sufferers. "
+
+"We know how to go to it."
+
+"Most members do a mud for somebody with privileges."
+
+The above is a number of ideas in the country recently hear the country's methods of the country, MPs, and the privileges of the country.
+
+MPs have special privileges who elected to Parliament from People's Preferences. Has MPs enjoy those privileges and justice have the country to the people and the country?The conversation of the conversation has returned to the forest. That is, for about two weeks left to select MPs to select the following members.
+
+Laws have been laws to limit electoral costs, but many candidates are observed that they spend a huge wealth for their propaganda.
+
+Are MPs use parliamentary powers and privileges to repress media? The General Election 2024: Who is in the national lists?
+
+When he was elected to Parliament, the privilege of speech of the society 'is the' vehicle license '.
 
 ...
 
 [Data](articles/6124148f.json)
+
+[Extended Data](ext_articles/6124148f.ext.json)
 
 ---
 

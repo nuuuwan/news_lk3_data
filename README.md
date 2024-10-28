@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 12:40:06**
+As of **2024-10-28 12:58:40**
 
 ## Newspaper Stats
 
-*Scraped **51,792** Articles*
+*Scraped **51,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,814
-adaderanalk | 6,133
+adaderanalk | 6,134
 tamilmirrorlk | 7,169
-virakesarilk | 8,345
-adaderanasinhalalk | 9,006
+virakesarilk | 8,353
+adaderanasinhalalk | 9,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,792 (100.0%) of 51,792 articles have been extended.
+51,801 (100.0%) of 51,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Dilith Jayaweera says committed to building a respectable public service
+
+*2024-10-28 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102977/dilith-jayaweera-says-committed-to-building-a-respectable-public-service) · `en`
+
+Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District parliamentary candidate, entrepreneur Dilith Jayaweera says that he and his team are dedicated to creating a respectable public service.
+
+During a public meeting in Attanagalla, he highlighted the importance of forming a strong opposition to achieve this goal.
+
+“What should we do to create a respectable public sector in order to elevate the living standards of the people, especially the living standards of the government employees? If we want to give the government employees a program that includes concepts such as education of their children, their accommodation, and raising the expectation of improvement in their life, we should go to the parliament.”
+
+Jayaweera further stated that they will stand as a strong opposition, committed to bringing individuals into the parliament who can benefit from their experience, support those who have already made progress, and strive for the improvement of everyone.
+
+◼️
+
+[Data](articles/2beec4f2.json)
+
+---
+
+### Committee report proves that Channel 4 facts about the Passover attack - Gammanpila
+
+*2024-10-28 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202646) · `si`
+
+Here's a 200-character summary of the key points:
+
+
+
+Committee report debunks Channel 4 claims about Passover attack. Retired Supreme Court Judge SIV led investigation. Key allegations against military intelligence baseless. Committee found no evidence supporting Channel 4's accusations.
+
+🟩
+
+පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය පිළිබඳ චැනල් 4 නාලිකාව ඉදිරිපත් කළ ආන්දෝලනාත්මක වාර්තා වැඩසටහනේ ඇතුළත් කරුණු ව්‍යාජ ඒවා බව ඒ සම්බන්ධයෙන් සොයා බැලීමට පත්කළ කමිටු වාර්තාවෙන් හෙළිදරව් වී ඇති බව පිවිතුරු හෙළ උරුමයේ නායක උදය ගම්මන්පිල මහතා පවසයි.
+
+Retired Supreme Court Judge SIV. He made these comments at a press conference held today (28).
+
+The SRI LANKA EASTER BOMBINGS broadcast on Channel 4, the procedure of Assad Moulana is based on a disclosure.
+
+He has said that in February Buddha's intelligence was a meeting between the Chief of Environmental Intelligence.
+
+Moulana had said that he had coordinated the meeting and the meeting took place at the house where the meeting was placed at the Vanathavilluwa land.
+
+2019 වසරේ ජනවාරි මාසයේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් පුපුරණ ද්‍රව්‍ය සොයාගෙන තිබුණේද එම ඉඩමේ තිබියදී ය.
+
+...
+
+[Data](articles/65d41c60.json)
+
+[Extended Data](ext_articles/65d41c60.ext.json)
+
+---
 
 ### The president may hide these reports because a treason has been given the highest position in the country
 
@@ -310,6 +360,30 @@ Addressing a public rally held in Kalutara, the President said: “We have a lot
 
 ---
 
+### ராகமையில் சட்டவிரோத மதுபானத்துடன் ஒருவர் கைது!
+
+*2024-10-28 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/197301) · `ta`
+
+Ragama police arrest suspect with illegal alcohol. 38-year-old man caught in Pattath area. 67 liters of illicit liquor seized.
+
+🟩
+
+ராகம பொலிஸ் பிரிவுக்கு உட்பட்ட படுவத்த பகுதியில் சட்டவிரோத மதுபானத்துடன் சந்தேக நபர் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (27) கைது செய்யப்பட்டுள்ளதாக ராகம பொலிஸார் தெரிவித்தனர்.
+
+The suspect has been arrested during a raid carried out on information received by the Ragama police.
+
+கைது செய்யப்பட்ட சந்தேக நபர் ராகம ,படுவத்த பிரதேசத்தை சேர்ந்த 38 வயதுடையவர்  ஆவார்.
+
+67 liters (90 bottles) illegal liquor has been seized from the arrested suspect.
+
+◼️
+
+[Data](articles/0dc57ce4.json)
+
+[Extended Data](ext_articles/0dc57ce4.ext.json)
+
+---
+
 ### මහ මැතිවරණයේදි ඡන්දය ප්‍රකාශ කිරීම අඩුවෙනවා
 
 *2024-10-28 11:00:58* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදි-ඡන්දය-ප්‍රකාශ-කිරීම-අඩුවෙනවා/11-412714) · `si`
@@ -339,6 +413,28 @@ He said that at the next general election, the voter could be between sixty-thre
 [Data](articles/58331458.json)
 
 [Extended Data](ext_articles/58331458.ext.json)
+
+---
+
+### Youth killed in motorcycle accidentFive injured, including two children
+
+*2024-10-28 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197300) · `ta`
+
+Motorcycle collision kills youth, injures five including children.
+
+🟩
+
+A youth was killed in an accident on Sunday afternoon (27) afternoon at Kumbukte - Pannekama Nalawa Road.
+
+The accident occurred when a motorcycle traveling from Pannakamavu to Nalawa collided with another motorcycle traveling in the opposite direction.
+
+விபத்தின் போது, ஒரு மோட்டார் சைக்கிளில் பயணித்த இருவரும், மற்றைய மோட்டார் சைக்கிளில்  பயணித்த இருவர் மற்றும் இரு குழந்தைகளும் படுகாயமடைந்து ஹிரிபிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் இளைஞன் ஒருவன் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/c59d0616.json)
+
+[Extended Data](ext_articles/c59d0616.ext.json)
 
 ---
 
@@ -422,6 +518,30 @@ At the instructions of the president, when the consumer authorities inspected ma
 
 ---
 
+### Two persons arrested for illegal liquor
+
+*2024-10-28 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197296) · `ta`
+
+Two persons arrested for illegal liquor at Bogus Junction. Suspects aged 22 and 30 from Taraviluwa. Police seized 48.75 liters of illicit alcohol.
+
+🟩
+
+Two suspects have been arrested by the police on Sunday (27) with illegal liquor at Bogus Junction, which belongs to the Puttalam and Mundal Police Division.
+
+முந்தல் பொலிஸாருக்குக் கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+The arrested suspects were 22 and 30 years old from Taraviluwa.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களிடம் இருந்து , 48.75 லீற்றர் (65 போத்தல்கள்) சட்டவிரோத மதுபானம் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/1890da50.json)
+
+[Extended Data](ext_articles/1890da50.ext.json)
+
+---
+
 ### Youths arrested for Youth
 
 *2024-10-28 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202643) · `si`
@@ -501,6 +621,52 @@ Through this method, the long-term effects and deep sea ocean balance have occur
 [Data](articles/dea04b1b.json)
 
 [Extended Data](ext_articles/dea04b1b.ext.json)
+
+---
+
+### கல்கிஸ்ஸையில் ஹெரோயினுடன் ஒருவர் கைது !
+
+*2024-10-28 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197294) · `ta`
+
+Kalkissa police arrest suspect with heroin near Ratmalana railway station. 11 grams 200 milligrams seized.
+
+🟩
+
+A suspect has been arrested on Sunday (27) with heroin near the Ratmalana railway station, which belongs to the Kalkissa police division, police said.
+
+The suspect has been arrested during a roundup of Kalkissa on information received by the police.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 11 கிராம் 200 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/542660c8.json)
+
+[Extended Data](ext_articles/542660c8.ext.json)
+
+---
+
+### பொரலஸ்கமுவையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
+
+*2024-10-28 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197293) · `ta`
+
+Sri Lanka: Police arrest suspect with ice in Boraleskamuwa. 45-year-old man held, 17g ice, vehicle, phone seized.
+
+🟩
+
+Boraleskamuwa police said that a suspect was arrested on Sunday (27) in Devalamulla area, which belongs to the Boraleskamuwa police division.
+
+The suspect has been arrested during a roundup of information received by the Boralesgamuwa police.
+
+கைது செய்யப்பட்ட சந்தேக நபர் தெஹிவளை பகுதியைச் சேர்ந்த 45 வயதுடையவர் ஆவார்.
+
+The police have seized 17 grams of ice, the car and the mobile phone used by the suspect, from the arrested suspect.
+
+◼️
+
+[Data](articles/e601ad9e.json)
+
+[Extended Data](ext_articles/e601ad9e.ext.json)
 
 ---
 
@@ -664,6 +830,28 @@ The central bank announced 12,500 million Treasury Bonds will be issued through 
 
 ---
 
+### பெற்றோரின் கவனக் குறைபாட்டால் மின்சாரம் தாக்கி சிறுவன் உயிரிழப்பு!
+
+*2024-10-28 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/197290) · `ta`
+
+Tamil Nadu: Child electrocuted while picking mangoes near electric fence installed by parents to deter elephants
+
+🟩
+
+வில்கமுவ - பெரகனத்த பிரதேசத்தில் மின்சாரம் தாக்கி சிறுவன் ஒருவன்  நேற்று ஞாயிற்றுக்கிழமை (27) உயிரிழந்துள்ளதாக வில்கமுவ பொலிஸார் தெரிவித்துள்ளனர்.
+
+The parents of the deceased boy have prepared an electric fence to protect the house and garden from the elephants and supply electricity at 06.00 pm and the next day at 06.00 am.
+
+இந்நிலையில், சிறுவனின் பெற்றோர் மின்சார வேலிக்கு வழங்கிய மின்சாரத்தை துண்டிக்க மறந்துள்ள நிலையில் சிறுவன் வீட்டின் பின்புறம் உள்ள மரத்தில் இருந்து விளாங்காய்களை பறிக்க சென்ற போது மின்சாரம் தாக்கி உயிரிழந்துள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/22d079e6.json)
+
+[Extended Data](ext_articles/22d079e6.ext.json)
+
+---
+
 ### Rice and paddy consignment report handed over to President
 
 *2024-10-28 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202639) · `si`
@@ -705,6 +893,28 @@ Windforce signed the agreement with Cocoon investment Pvt Ltd on October 20 for 
 [Data](articles/d1601857.json)
 
 [Extended Data](ext_articles/d1601857.ext.json)
+
+---
+
+### விசேட சுற்றிவளைப்பில் பிரபல போதைப்பொருள் கடத்தல்காரரான ‘பேக்கரி ஜனா’ கைது
+
+*2024-10-28 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/197291) · `ta`
+
+Popular drug trafficker 'Baker Jana' arrested in special operation
+
+🟩
+
+ஒழுங்கமைக்கப்பட்ட குற்றச் செயல்களில் ஈடுபடுபவரும் பிரபல போதைப்பொருள் கடத்தல்காரருமான ‘மேர்வின் ஜனா’அல்லது ‘பேக்கரி ஜனா’ என அழைக்கப்படும் நபர் கைது செய்யப்பட்டுள்ளார்.
+
+பொரலஸ்கமுவ பொலிஸ் பிரிவிற்குட்பட்ட தெஹிவளை வீதி, தெவலமுல்ல சந்தி பகுதியில் 26 ஆம் திகதி சனிக்கிழமையன்று விசேட  அதிரடிப்படையினர் சுற்றிவளைப்பை மேற்கொண்டனர்.
+
+In the meantime, the bakery jana, who was traveling in the car, has been arrested with a 17 -gram 60 milligramic ice drug.
+
+◼️
+
+[Data](articles/bdf7c8f6.json)
+
+[Extended Data](ext_articles/bdf7c8f6.ext.json)
 
 ---
 
@@ -833,6 +1043,30 @@ The Department of Railways has requested the public that the train will travel o
 [Data](articles/617a821b.json)
 
 [Extended Data](ext_articles/617a821b.ext.json)
+
+---
+
+### பதவியாவில் வெடிபொருட்களுடன் இருவர் கைது
+
+*2024-10-28 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/197289) · `ta`
+
+Two men arrested with explosives in Patiya Police Division. Recovered items: 75kg gunpowder, 90 gelignite sticks, 300 detonators, 5 bombs. Suspects aged 28 and 30 from Hidogama and Mabaladikkulam areas. Vehicle seized for further investigation.
+
+🟩
+
+Based on the confidential information received by the Patiya Police Station, a vehicle inspection was conducted on Sunday evening (27) at the Patiya Police Division.
+
+The recovered explosives include 75 kg of gun, 90 gelicnite sticks, 300 tetanators and 05 bombs.
+
+The 28 and 30 -year -olds from Hidogama and Mabaladikkulam area have been arrested.
+
+The car, which was arrested by the arrested suspects, has been seized by the police and the police are conducting further investigations.
+
+◼️
+
+[Data](articles/2479e1dd.json)
+
+[Extended Data](ext_articles/2479e1dd.ext.json)
 
 ---
 
@@ -2037,241 +2271,5 @@ The motorcycle traveling from the Rabarwatta area to Mahiyangan on the Bibila Ma
 [Data](articles/eba701cd.json)
 
 [Extended Data](ext_articles/eba701cd.ext.json)
-
----
-
-### One killed, dozens injured in truck ramming at Israeli bus stop
-
-*2024-10-27 22:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102964/one-killed-dozens-injured-in-truck-ramming-at-israeli-bus-stop) · `en`
-
-One person was killed and dozens were injured on Sunday when a truck struck a bus stop at a major intersection near Tel Aviv in central Israel in what police said they suspected was a terrorist attack.
-
-Israeli police said about 40 people were injured to varying degrees, including some seriously, and were taken to nearby hospitals.
-
-Ichilov Medical Center in Tel Aviv said one of the victims succumbed to his wounds. Nearly Sheba Medical Center said it treated eight civilians and soldiers.
-
-The attack, in which a truck ran into a bus stop close to a military base, took place around 10 am (0800 GMT), police said, noting the driver - who had Israeli citizenship - was “neutralised” by gunfire from a nearby civilian.
-
-“All investigative directions are being examined with an emphasis on the suspicion that this is a terror attack,” police said.
-
-...
-
-[Data](articles/5248ac30.json)
-
-[Extended Data](ext_articles/5248ac30.ext.json)
-
----
-
-### Singapore became a team that does not defeat the current champion in Sri Lanka;Bad balls are responsible for the failure of Sri Lanka
-
-*2024-10-27 22:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197282) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Singapore wins 4th Asian Netball Championship title, defeating Sri Lanka 67-64. Bad passes by Sri Lanka led to loss. Singapore scored crucial goals in extra time to secure victory.
-
-🟩
-
-Sri Lanka came to second place at the 13th Asian Netball Championships, which ended on Sunday (27) at the Koramangala Stadium in Bangalore, India.
-
-14 நாடுகள் பங்குபற்றிய இந்த சம்பியன்ஷிப்பில் தோல்வி அடையாத அணிகளாக இன்றைய இறுதிப் போட்டியில் இலங்கையும் சிங்கப்பூரும் விளையாடின.
-
-Singapore won the Asian Champion title for the fourth time by a margin of 67 - 64.
-
-போட்டியின் ஆரம்பத்திலும் பின்னர் நான்காவது பகுதியிலும் இறுதியாக மேலதிக நேரத்தின் இரண்டாவது பகுதியிலும்   இலங்கை வீராங்கனைகள் இழைத்த தவறுகள் தோல்விக்கு காரணமாக அமைந்தது.
-
-அத்துடன் விவேகத்திலும் பார்க்க வேகமாக விளையாடியது இலங்கையின் தோல்விக்கு மற்றொரு காரணமாக அமைந்தது.
-
-The collapse of Sri Lanka was aimed at the collapse of Sri Lanka's head, Kayanjali Amaravan, a team leader and opposing and opponent, Dulangi Wanni Lakha, opposing goal player Rashmi Perera and blockade player Malmi Hetti Arachchi.
-
-...
-
-[Data](articles/43fbee64.json)
-
-[Extended Data](ext_articles/43fbee64.ext.json)
-
----
-
-### இஸ்ரேலில் இராணுவதளத்தின் அருகில் பொதுமக்கள் மீது மோதிய பேருந்து – ஒருவர் பலி
-
-*2024-10-27 22:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/197281) · `ta`
-
-Israel bus crash near military base: one killed, 30 injured. Truck hits bus stop, eight trapped under wheels. Authorities suspect terrorist attack. Driver identified as Arab Israeli Rami Nattur.
-
-🟩
-
-இஸ்ரேலிய தலைநகரின் வடக்கில் உள்ள இராணுவதளமொன்றிற்கு அருகில் உள்ள பேருந்து நிலையத்தின் மீது வாகனமொன்று மோதியதில்  ஒருவர் கொல்லப்பட்டுள்ளதுடன் 30  பேர் காயமடைந்துள்ளனர்.
-
-பேருந்து நிலையத்தில் தரித்து நின்றவர்கள் மீது டிரக்கொன்று மோதியது காயமடைந்தவர்களில் எட்டு பேர் டிரக்கின் அடிப்பாகத்தில் சிக்கியவர்கள் என இஸ்ரேலிய அதிகாரிகள் தெரிவித்துள்ளனர்
-
-இது பயங்கரவாத தாக்குதல் என சந்தேகிப்பதாக தெரிவித்துள்ள அதிகாரிகள் ரமி நட்டுர் என்ற அராபிய இஸ்ரேலியரே இந்த பேருந்தினை செலுத்தினார் என  குறிப்பிட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/1ce140e0.json)
-
-[Extended Data](ext_articles/1ce140e0.ext.json)
-
----
-
-### Asian Egunic Cricket to Afghanistan
-
-*2024-10-27 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202628) · `si`
-
-Sri Lanka A lost to Afghanistan A by 7 wickets. Afghanistan A won the championship. Afghan batsmen scored 134 runs in 19 overs. This is Afghanistan U23's first win in Asian East Zone history.
-
-🟩
-
-Sri Lanka 'A' defeated by 7 wickets in seven wickets, Afghanistan 'A' team won the championship.
-
-The Afghan batsman were able to pass the 134 runs in the 19 (18.1) of the match, which was held at the Oman in Oman.
-
-This will be the first time in the history of the Asian Eastern Team won by Asian under 23 years.
-
-◼️
-
-[Data](articles/12d3ca63.json)
-
-[Extended Data](ext_articles/12d3ca63.ext.json)
-
----
-
-### The prospect of the courageous opposition that is established
-
-*2024-10-27 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202627) · `si`
-
-Dilith Jayaweera calls for bold opposition against corruption in governance. He criticizes existing parties like JVP for failing to end corruption after decades. Jayaweera vows to bring about change through constitutional means.
-
-🟩
-
-Imanent Entrepreneral Entrepreneer Dilith Jayaweera says that the prospect of universal power is the contamination of the government free of corruption to the government.
-
-He was speaking at the Nammanathana's Katana Seathouse Federation in the Norrological Policy this morning.
-
-"We come to make the bold opposition. We urge this Parliament back to earth on the earth. This country wrote to a creative program that can be taken in a third world, not confessed to a creative program, not chilli powder, yellow powdered, yellow powder, yellow powder, yellow powder, fool. "
-
-"We want to change this culture and end on this corrupt politics. Anura Kumara and the JVP have failed for almost 30 years in parliament to end this corrupt politics. They've been a part of corrupt transactions. They have endorsed corrupt deals. We are going to parliament to show them the constitutional way. "
-
-◼️
-
-[Data](articles/e24f34d4.json)
-
-[Extended Data](ext_articles/e24f34d4.ext.json)
-
----
-
-### India donates solar rooftop systems to religious places in Sri Lanka
-
-*2024-10-27 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102963/india-donates-solar-rooftop-systems-to-religious-places-in-sri-lanka) · `en`
-
-India has handed over solar rooftop systems to religious locations in Sri Lanka in continuation of its the energy partnership in the neighbourhood.
-
-In a ceremony held on Friday, representatives from High Commission of India, Ceylon Electricity Board and the Sri Lanka Sustainable Energy Authority handed over the solar panels and other materials to four prominent religious locations in Colombo.
-
-These include a Buddhist temple at Hokandara, Sri Aanjaneyar Temple, St. Anthony’s Church, and Mutwal Jumma Mosque.
-
-This initiative is part of a 17 million US dollar Indian project to install Solar Rooftop Systems across 5,000 religious institutions throughout Sri Lanka.
-
-Designed to reduce energy expenses and support Sri Lanka’s shift toward renewable energy, the project spans all nine provinces and 25 districts, representing the major religions in the island.
-
-...
-
-[Data](articles/779d20c1.json)
-
-[Extended Data](ext_articles/779d20c1.ext.json)
-
----
-
-### Ranil said about the decision to increase public worker salaries
-
-*2024-10-27 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202626) · `si`
-
-Former President Ranil Wickremesinghe suggests abolishing the Cabinet if it rejects increasing public servant salaries. He claims the Cabinet made decisions without consulting him, including the 2025 Appropriation Act. Wickremesinghe denies allegations from Minister Vijith Herath about not discussing matters with him.
-
-🟩
-
-Former President Ranil Wickremesinghe says that if the cabinet is rejected to increase the salaries of public servants, the paper should be abolished.
-
-මීගමුව ප්‍රදේශයේදී අද (27) පැවැති ජන හමුවකදී ඔහු මෙම අදහස් පළ කළේය.
-
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණෙන් මහ මැතිවරණයට ඉදිරිපත්ව සිටින අපේක්ෂකයන්ගේ ජය තහවුරු කිරීමේ ජන හමුවක් අද මීගමුවේ පැවැත්වුණි.
-
-He pointed out that the Cabinet was taken by the Cabinet to submit the proposal for the budget next year.
-
-"මේ ඔක්කෝම සකස් කළේ 2025 විසර්ජන පනතට දාන්න. The 2025 Appropriation Act could have ended the vote before we submit. IMF සංවිධානය එක්ක කතා කරන්නට තිබුණා. අපි එකඟ වෙන්න කලින්, මම අපේ භාණ්ඩාගාරයේ ලේකම්තුමාටත් මගේ උපදේශක ආචාර්ය සමරතුංග මැතිතුමාටත් මගේ ලේකම් සමන් ඒකනායක මැතිතුමාටත් ඔක්කොමලා එක්ක කතා කළා.
-
-...
-
-[Data](articles/15a9ab13.json)
-
-[Extended Data](ext_articles/15a9ab13.ext.json)
-
----
-
-### හිටපු ජනපතිවරුන්ගේ වැය බර මුළුමනින් අඩු කළ යුතුයි - ජනපති
-
-*2024-10-27 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202625) · `si`
-
-Former presidents' perks cut: President Anura Kumara Dissanayake proposes reducing ex-presidents' benefits and eliminating their allowances. He also suggests removing former presidents from government positions and reducing overall government spending.
-
-🟩
-
-හිටපු ජනාධිපතිවරුන්ගේ වරප්‍රසාද ඉවත් කිරීම සහ ඔවුන් වෙනුවෙන් රජය දරණ වැය බර මුළුමනින්ම ඉවත් කිරීම සඳහා අවශ්‍ය චක්‍රලේඛ හා පනත් සංශෝධනය කිරීමට පියවර ගන්නා බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
-
-ඉදිරි මහමැතිවරණය වෙනුවෙන් අද (27) පස්වරුවේ බද්දේගම පැවති ජන රැලියක් අමතමින් ඔහු මේ බව පැවසීය.
-
-"We've won a month now for a month now. What happened to them now?It is all confirmed to be false.No gas exploded and the dollar did not go to Rs 400, without the first time in the history of Sri Lanka. ජය සැමරුවා සාමකාමීව. "
-
-"ඩොලරය රුපියල් 300ට පහළින් තියාගෙන ඉන්නවා. තෙල්, ගෑස් පෝලිම් ඇතිවෙන්න ඉඩදුන්නේ නැහැ. ජාත්‍යන්තර සබඳතා වෙනදාට වඩා ශක්තිමත් කරමින් ඉන්නවා. කියපු සියල්ල අසත්‍ය බව ජනතාව අද දන්නවා. Voting for the compress at the General Election of the presidential election ...Not? ... give. "
-
-...
-
-[Data](articles/c9281d21.json)
-
-[Extended Data](ext_articles/c9281d21.ext.json)
-
----
-
-### Rice in customs is trapped in an eighteen region unwilling to human consumption
-
-*2024-10-27 20:08:17* · [`adalk`](https://www.ada.lk/breaking_news/මිනිස්-පරිභෝජනයට-නුසුදුසු-දහඅට-කෝටියක-සහල්-රේගුවේ-සිරවෙලා/11-412711) · `si`
-
-Here's a 200-character summary:
-
-
-
-Customs detains rice shipment due to Gazette restrictions. 53 bags of rice cannot be released for human consumption. Consumer Affairs Authority avoids labeling as "Internal Rice". Rice freedom delayed due to legal issues and regulatory hurdles.
-
-🟩
-
-The National Audit Office has been detained in the Customs at the 25th of October, 53 cases of Rs.Due to a gazette published by the Consumer Affairs Authority, these rice is not unable to use the rice as vegan.
-
-රේගු ආඥා පනතේ විධි විධානයන්ට අනුගත විය යුතු බවට විගණනය මගින් නිර්දේශ කොට ඇත. මේ පිළිබඳව ශ්‍රී ලංකා රේගුවේ ගණන් දීමේ නිලධාරියා විසින් විගණනයට සඳහන් කොට ඇත්තේ, සහල් සහිත බහාලුම් 53ක් 2019 වර්ෂයේ මාර්තු 01වනදා සිට නිදහස් කිරීමට නොහැකි වී ඇත්තේ, එම බහාලුම් සහිත ආනයනය කරනු ලැබූ වෙනත් සහල් අඩංගු බහාලුම් සම්බන්ධයෙන් අභියාචනා අධිකරණයෙන් නඩුවක් පැවතීම නිසා බවත්ය.
-
-...
-
-[Data](articles/9ff156d9.json)
-
-[Extended Data](ext_articles/9ff156d9.ext.json)
-
----
-
-### 14 former ministers have not yet handed over quarters
-
-*2024-10-27 20:03:23* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-අමාත්‍යවරුන්-14ක්-තවමත්-නිල-නිවාස-භාර-දී-නෑ/11-412710) · `si`
-
-14 former ministers still occupying official residences despite government notice.
-
-🟩
-
-There are 14 ministers who have not been handed over to quarters. Meanwhile, a former opposition leader of the government of the good governance. It also includes the name of Mr. Police and Deputy Speaker Ajith Rajapaksa. It was reported that the official residence of former Water Supply from a car accident has been handed over to the official residence used by Hon. Sanath Nishantha.
-
-...
-
-[Data](articles/e3be15fd.json)
-
-[Extended Data](ext_articles/e3be15fd.ext.json)
 
 ---

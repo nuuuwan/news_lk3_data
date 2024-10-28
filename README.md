@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 16:13:48**
+As of **2024-10-28 16:24:44**
 
 ## Newspaper Stats
 
-*Scraped **51,834** Articles*
+*Scraped **51,836** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,085
 economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,817
+adalk | 4,818
 adaderanalk | 6,140
-tamilmirrorlk | 7,174
+tamilmirrorlk | 7,175
 virakesarilk | 8,362
 adaderanasinhalalk | 9,011
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,011
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,825 (100.0%) of 51,834 articles have been extended.
+51,828 (100.0%) of 51,836 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### மன்னாரில் முதலாவது நீர் விநியோகம் ஆரம்பிப்பு
+
+*2024-10-28 16:12:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-முதலாவது-நீர்-விநியோகம்-ஆரம்பிப்பு/175-346206) · `ta`
+
+மன்னார் மாவட்டத்தில் 2024 மற்றும் 2025 ஆம் ஆண்டிற்கான பெரும் போக பயிர்ச்செய்கைக்கான முதலாவது நீர் விநியோகமானது  திங்கட்கிழமை (28)காலை 10.30 மணியளவில் வைபவ ரீதியாக ஆரம்பித்து வைக்கப்பட்டது.
+
+பெரும் போகத்திற்கு 31 ஆயிரத்து 339 ஏக்கர் நிலப்பரப்பில் பயிர்ச்செய்கை மேற்கொள்ளப்பட உள்ள நிலையில் முதலாவது நீர் விநியோகம் ஆரம்பித்து வைக்கப்பட்டது.
+
+வட மாகாணத்தில் 2 வது பெரிய குளமான முருகன் கட்டுக்கரை குளம் பெரிய உடைப்பு துருசு பகுதியில் இடம்பெற்ற நிகழ்வில் சர்வ மத தலைவர்களின் ஆசியுடன் நீர் திறந்து விடப்பட்டுள்ளது.
+
+இதன் போது மன்னார் மாவட்ட அரசாங்க அதிபர் க.கனகேஸ்வரன் தலைமையில்  நீர்ப்பாசன பணிப்பாளர் , முருங்கன் கட்டுக்கரை குளம் நீர்ப்பாசன பொறியியலாளர் , அரசாங்க திணைக்கள அதிகாரிகள் வாய்க்கால் அமைப்பு பிரதிநிதிகள் விவசாயிகள் ஆகியோர் கலந்து கொண்டிருந்தனர்.
+
+தற்போது கட்டுக்கரை குளத்தில் 8.3 அடி நீர் காணப்படுகிறது.மேலும் கட்டுக்கரை குளத்திற்கு நீர்வரத்து காணப்படுகின்றது.
+
+...
+
+[Data](articles/84e8d6e1.json)
+
+---
 
 ### Egypt proposes 2-day truce in Gaza, release of 4 hostages
 
@@ -50,6 +70,8 @@ Do you have questions about the biggest topics and trends from around the world?
 
 [Data](articles/543c72e0.json)
 
+[Extended Data](ext_articles/543c72e0.ext.json)
+
 ---
 
 ### Nishantha Perera to be appointed Elpitiya PS chairman?
@@ -64,23 +86,35 @@ Nishantha Perera, who contested as the NPP Group Leader, is tipped to be appoint
 
 [Data](articles/2f0a80c9.json)
 
+[Extended Data](ext_articles/2f0a80c9.ext.json)
+
 ---
 
-### ஷேக் ஹசீனாவை பங்களாதேஷுக்கு அனுப்பக்கோரி கொழும்பிலுள்ள இந்திய தூதரகத்திற்கு அருகே ஆர்ப்பாட்டம்
+### Demonstration near Indian embassy in Colombo to send Sheikh Hasina to Bangladesh
 
 *2024-10-28 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197321) · `ta`
 
-இலங்கை- பங்களாதேஷ் நட்புறவு பேரவையின் ஏற்பாட்டில் இன்று திங்கட்கிழமை (28)  கொழும்பில் அமைந்துள்ள இலங்கைக்கான இந்திய தூதரகத்திற்கு அருகில் ஆர்ப்பாட்டம் ஒன்று நடைபெற்றது.
+Protesters demand Sheikh Hasina return to Bangladesh from India. Demonstrations held near Indian embassy in Colombo. Protestors claim Sheikh Hasina fled after overthrowing her own government.
 
-கடந்த சில மாதங்களுக்கு முன்னர் பங்களாதேஷில் அந்நாட்டு மாணவ இயக்கங்கள், எதிர்கட்சியினர், இஸ்லாமிய அமைப்புகள் மற்றும் மக்கள் திரண்டு கிளர்ச்சி ஒன்று ஏற்படுத்தப்பட்டு அப்போதைய பிரதமராக இருந்த ஷேக் ஹசீனாவின் தலைமையிலான ஆட்சி கவிழ்க்கப்பட்டது.
+🟩
 
-அதன்போது பல கிளர்ச்சியாளர்கள் மற்றும் பொதுமக்கள் ஷேக் ஹசீனாவின் தலைமையிலான அரசாங்கத்தினால் கொல்லப்பட்டனர். இதனால் உக்கிரமடைந்த கிளர்ச்சியால் முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் தலைமையிலான 45 பேர் இந்தியாவுக்கு தப்பி சென்றனர்.
+A demonstration was held near the Indian Embassy in Sri Lanka in Colombo on Monday (28) organized by the Sri Lanka-Bangladesh Alliance.
 
-முன்னாள் பிரதமர் ஷேக் ஹசீனாவின் தலைமையிலான அரசாங்கத்திற்கு எதிராக அந்நாட்டு  உயர் நீதிமன்றத்தில் பல  வழக்குகள் தாக்கல் செய்யப்பட்டன. அதனடிப்படையில் அவர்களை கைது செய்ய அந்நாட்டு நீதிமன்றம் உத்தரவு பிறப்பித்துள்ளது.
+A few months ago, in Bangladesh, the student movements, opposition parties, Islamic organizations and people's uprising were overthrown and the then Prime Minister Sheikh Hasina -led regime was overthrown.
 
-...
+Many rebels and civilians were killed by the government led by Sheikh Hasina. As a result, 45 people led by former Prime Minister Sheikh Hasina fled to India.
+
+Several cases were filed in the High Court against the government led by former Prime Minister Sheikh Hasina. Accordingly, the court has ordered the arrest of them.
+
+However, India is providing refuge in them. The protesters told the media that the demonstration was being held and that Sheikh Hasina and the refugees in India had taken immediate refund to Bangladesh.
+
+Demonstrators also handed over a Mahajar to the Indian embassy in Colombo.
+
+◼️
 
 [Data](articles/7b5cb0c0.json)
+
+[Extended Data](ext_articles/7b5cb0c0.ext.json)
 
 ---
 
@@ -575,6 +609,28 @@ In a presidential election year, the American voters mark their ballots to elect
 [Data](articles/d7892b33.json)
 
 [Extended Data](ext_articles/d7892b33.ext.json)
+
+---
+
+### මර්වින් ජානා අල්ලයි
+
+*2024-10-28 13:04:00* · [`adalk`](https://www.ada.lk/breaking_news/මර්වින්-ජානා-අල්ලයි/11-412717) · `si`
+
+මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු හා සංවිධානාත්මක අපරාධකරුවෙකු වන ජානක ප්‍රසාද්  හෙවත් මර්වින් ජානා නමැත්තා අයිස් මත්ද්‍රව්‍ය සමඟ පොලිස් විශේෂ කාර්ය බළකාය මගින් අත්අඩංගුවට ගත් බව  බොරලැස්ගමුව පොලිසිය කියයි.
+
+සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 17060 ක් මෙන්ම සුඛෝභෝගී මෝටර් රථයක් හා ජංගම දුරකථනයක් ද පොලිස් භාරයට ගෙන ඇත.
+
+පොලිස් විශේෂ කාර්ය බළකා මොරටුව කඳවුරේ නිලධාරීන්ට  ලද තොරතුරකට අනුව බොරලැස්ගමුව  දේවාලමුල්ලේ සැකකරුගේ ඥාති නිවසක සැඟවී සිටියදී අත්අඩංගුවට ගෙන තිබූ බව පොලිසිය සඳහන් කරයි
+
+සැකකරුට මේ වන විට මනුෂ්‍ය ඝාතන නඩුවක් මෙන්ම හොරයින් බත් කුඩු ජාවාරම සම්බන්ධයෙන් නඩුවක් විභාග වෙමින් පවතින බවත් පොලිසිය කියයි.
+
+සැකකරු සිදුකරගෙන ආ මත්ද්‍රව්‍ය  ජාවාරම යුක්තිය මෙහෙයුමත් සමගම නවතා දමා ඇති බවටද   තොරතුරු ලිපියේ ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+පොලිස් විශේෂ කාර්ය බළකාය මගින් අත්අඩංගුවට ගත් සැකකරු බොරලැස්ගමුව පොලිසිය වෙත භාරදීමෙන් අනතුරුව දින 7 ක කාලයක් රැඳවුම්  නියෝග ලබාගෙන ප්‍රශ්න කරන බව උසස් පොලිස් නිලධාරියා  වැඩිදුරටත් පැවසීය.
+
+...
+
+[Data](articles/3cce3ede.json)
 
 ---
 
@@ -2207,41 +2263,5 @@ Ceylon Biscuits, home to the Munchee brand, has led the biscuits category for 20
 [Data](articles/3f21f9e4.json)
 
 [Extended Data](ext_articles/3f21f9e4.ext.json)
-
----
-
-### MTV Channel to host 2026  Asia-Pacific Broadcasting Union’s General Assembly in Sri Lanka
-
-*2024-10-28 02:51:56* · [`dailyftlk`](https://www.ft.lk/business/MTV-Channel-to-host-2026-Asia-Pacific-Broadcasting-Union-s-General-Assembly-in-Sri-Lanka/34-768493) · `en`
-
-ABU Secretary General Ahmed Nadeem (right) presents the ratification for the hosting of the 2026 General Assembly to CMG Group CEO Suresh Srinivasan (centre) and CMG Group Director – Legal and HR Suranga Jayalath, at the ABU’s 118th Administration Council meeting held on 20 October in Istanbul, Turkiye
-
-The Asia-Pacific Broadcasting Union (ABU) has selected Sri Lanka’s MTV Channel Ltd. to host the 2026 ABU General Assembly in Sri Lanka.
-
-Capital Maharaja Group (CMG) Group CEO Suresh Srinivasan and CMG Group Director – Legal and HR Suranga Jayalath received the ratification at the ABU’s 118th Administration Council meeting held on 20 October in Istanbul, Turkiye.
-
-The ABU is the largest broadcasting union in the world, with its 250 members in 70 countries across five continents, reaching three billion people across the Asia-Pacific region. Established in 1964, it is a not-for-profit, non-government, non-political professional association of broadcasters and broadcast media players.
-
-...
-
-[Data](articles/dbc0c88b.json)
-
-[Extended Data](ext_articles/dbc0c88b.ext.json)
-
----
-
-### Superbuild ‘SUPERCRETE’ together with Browns & Company to distribute waterproofing products and solutions
-
-*2024-10-28 02:50:00* · [`islandlk`](http://island.lk/superbuild-supercrete-together-with-browns-company-to-distribute-waterproofing-products-and-solutions/) · `en`
-
-Browns General Trading Division (GTD), a leading provider of globally-renowned high quality building material solutions in Sri Lanka, has partnered with Superbuild Pvt Ltd – a prominent player in the field of construction systems, which holds the renowned brand ‘SUPER-CRETE’- to distribute waterproofing products and solutions to the local market.
-
-Among the company’s recent engagements were the involvement in Sri Lanka’s largest ever waterproofing project which was completed at Sri Lanka’s longest elevated bridge ‘Port Access Elevated Project’ with the products manufactured by Superbuild (Pvt) Ltd under the brand name of ‘SUPER-CRETE’ in addition to the waterproofing of the bridge deck of Kohuwala Flyover Bridge project.
-
-...
-
-[Data](articles/213ccc93.json)
-
-[Extended Data](ext_articles/213ccc93.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 15:11:11**
+As of **2024-10-28 15:24:05**
 
 ## Newspaper Stats
 
-*Scraped **51,819** Articles*
+*Scraped **51,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,085
 economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,816
+adalk | 4,817
 adaderanalk | 6,136
 tamilmirrorlk | 7,172
 virakesarilk | 8,356
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,818 (100.0%) of 51,819 articles have been extended.
+51,820 (100.0%) of 51,820 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ Speaking at a public rally in Padukka, she pointed out that even though the form
 [Data](articles/b26ac1f8.json)
 
 [Extended Data](ext_articles/b26ac1f8.ext.json)
+
+---
+
+### No tourism is banned in Sri Lanka - US Ambassador July Chang
+
+*2024-10-28 14:34:14* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවට-කිසිදු-සංචරක-තහනමක්-පනවා-නෑ---අමෙරිකානු-තානාපති-ජූලි-චන්ග්/11-412718) · `si`
+
+Sri Lanka: No tourism ban, says US Ambassador July Chang. Speaking at a media briefing in Colombo, he clarified recent statements about travel restrictions.
+
+🟩
+
+US Ambassador July Chang said that there was no ban on Sri Lanka.
+
+He was speaking at a media briefing held in Colombo today (28), a media briefing held in a statement recently.
+
+◼️
+
+[Data](articles/de0ad2cd.json)
+
+[Extended Data](ext_articles/de0ad2cd.ext.json)
 
 ---
 
@@ -978,23 +998,33 @@ Through this method, the long-term effects and deep sea ocean balance have occur
 
 ---
 
-### ආණ්ඩුව සල්ලි අච්චු ගහනවා
+### The government is molding money
 
 *2024-10-28 10:24:14* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුව-සල්ලි-අච්චු-ගහනවා/11-412713) · `si`
 
-රජය දිගින් දිගටම භාණ්ඩාගාර බිල්පත් මගින් ණය ගනිමින් සිටින අතර, පිළිගත් සල්ලි අච්චු ගැසීමේ යාන්ත්‍රණයක් භාවිත කරමින් ‘සල්ලි අච්චු ගැසීම‘ ආරම්භ කර ඇති බව මාතලේ දිස්ත්‍රික්ක සමගි ජනබලවේගයේ නායිකා රෝහිණී කවිරත්න පවසයි. නිවේදනයක් නිකුත් කරමින් ඇය මේ බව සඳහන් කරයි.
+Sri Lanka's government borrows heavily from Central Bank to manage inflation and stabilize economy. Excess liquidity increases significantly, raising concerns about economic direction.
 
-‘ආණ්ඩුව සල්ලි අච්චු ගහනවා - ණය ගන්නවා. කබ්රාල් - ගෝඨාභය යුගය අපිට නැවත මතක් වෙනවා.‘
+🟩
 
-කෙටි කාලීන මුදල් සම්පාදනය යාන්ත්‍රණය ලෙස ක්‍රියත්මක වාර වෙන්දේසිය (Term auction) හා එක්රැය වෙන්දේසිය (overnight auction) හරහා මහ බැංකුව මුදල් මවමින් සිටිනවා.
+The government is taking credit by the government by continuing to borrowed money, using a reputable money, "Money molding mechanism has begun.". She is said in a statement.
 
-ශ්‍රි ලංකා මහ බැංකුව 2024 ඔක්තෝබර් 25 (සිකුරාදා) දින රු. බිලියන 36.16 ක මුදලක්, වෙන්දේසියක් හරහා  (overnight auction)  රටේ මුදල් පද්ධතියට පොම්ප කර තියෙනවා.  එහි සරළ ව්‍යවහාරික අර්ථය, ශ්‍රී ලංකා මහ බැංකුව රුපියල් බිලියන 36.16 ක් එමගින් අච්චු ගසා ඇති බවයි.
+The government is molding money - the loan. Cabraal - Gotabhaya Ara again reminds us. '
 
-පසුගිය සතියේ දින 7 තුල මහ බැංකුව වාර වෙන්දේසි මගින් (Term auction) මගින් අච්චු ගසා ඇති මුදල රු. බිලියන 70 කි.
+The Central Bank is monding through the Perm Auction and the Ovrnight Auction as short-term financing mechanism.
+
+Central Bank of Sri Lanka 25th October 2024 (Friday). 36.16 billion, pumped the country's money system through auction.The Simps of Sihila is the meaning of the Sri Lanka Central Bank of Sri Lanka's Rs 36.16 billion.
+
+In the 7 days lasting Rs.. 70 billion.
+
+By October 25, 2024, the excess liquidity deposited in the central bank's standard. 193.4 billion.A month ago, the excess liquidity of Rs. 138 billion. Accordingly, the excess liquidity of excess liquidity in a month is Rs.. 55.4 billion.
+
+Today (Oct. 28) On the day, the government is Rs.. 14,500 crores or Rs. The Central Bank will take a loan of Rs. 145,000 million.
 
 ...
 
 [Data](articles/078565af.json)
+
+[Extended Data](ext_articles/078565af.ext.json)
 
 ---
 
@@ -2201,35 +2231,5 @@ The United People's Power will be a firm victory in the upcoming general electio
 [Data](articles/e72b9276.json)
 
 [Extended Data](ext_articles/e72b9276.ext.json)
-
----
-
-### ’எல்பிட்டியவில் சேதி சொல்லப்பட்டுள்ளது’
-
-*2024-10-28 01:50:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டியவில்-சேதி-சொல்லப்பட்டுள்ளது/175-346152) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former Minister Rizad Bathiudeen claims Elpitiya election results show President's party can't rule alone. He urges Tamil-speaking people to support capable candidates who can represent minorities effectively.
-
-🟩
-
-Former minister and Wannimavatta candidate Rizad Bathiudeen said that the results of the Elpitiya elections have been told that the president's party cannot rule alone and that there is only a leader who can speak for the minority people.
-
-He was speaking to the media at an election campaign meeting in Vavuniya.
-
-Elpitiya Pradeshiya Sabha election results have made a message to the country. அதாவது கடந்த ஜனாதிபதி தேர்தலில் அநுரகுமார 42 சதவீதமான வாக்குகளை பெற்றிருந்தார். அந்தவகையில் 58 சதவீதமான வாக்குகள் அவருக்கு எதிராக இருந்தது.
-
-ஜனாதிபதி தேர்தலின் பிறகு உடனடயாக ஒரு தேர்தல் நடக்குமாக இருந்தால் வாக்குகள் அதிகரிப்பதுவே வழமை. ஆனால் அவ்வாறு எதுவும் நடைபெறவில்லை என்ற செய்தியை எல்பிட்டிய தேர்தல் நாட்டுமக்களுக்கு சொல்லியிருக்கின்றது.
-
-According to the election results, the news that the president's party cannot rule alone. The votes are decreasing every day.
-
-...
-
-[Data](articles/6a59d519.json)
-
-[Extended Data](ext_articles/6a59d519.ext.json)
 
 ---

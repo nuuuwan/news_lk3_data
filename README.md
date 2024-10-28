@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 20:58:56**
+As of **2024-10-28 21:11:40**
 
 ## Newspaper Stats
 
-*Scraped **51,875** Articles*
+*Scraped **51,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ islandlk | 3,085
 economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,823
+adalk | 4,824
 adaderanalk | 6,146
 tamilmirrorlk | 7,182
 virakesarilk | 8,373
-adaderanasinhalalk | 9,020
+adaderanasinhalalk | 9,021
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,875 (100.0%) of 51,875 articles have been extended.
+51,877 (100.0%) of 51,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Who is the retired officer who gave the Channel 4 Channel?
+
+*2024-10-28 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202660) · `si`
+
+Retired Supreme Court Judge SI de Alwis leads inquiry into Easter attacks. Former President Ranil Wickremesinghe appointed to investigate. Retired High Court Judge ANJ Herade Gammanpila chairs committee. Report released, denies military intelligence claims. Government denies allegations, threatens legal action. Channel 4 accused of promoting LTTE ideology. Inquiry aims to identify responsible officials and punish them.
+
+🟩
+
+Purein JHU leader Udaya Gammanpila says that a powerful post holding a powerful post to the intelligence reports of the Easter attack on the Easter attack is a powerful position in the current government.
+
+Retired Supreme Court Judge SI. He made these comments at a press conference held today (28).
+
+Former President Ranil Wickremesinghe, who was appointed to look into the Passover attack on the terrorist attack. Imam and Pension High Court Judge ANJ. Herade Gammanpila stated that if the present President Anura Kumara Dissanayake is not published in the current President Anura Kumara Dissanayake, the present President of President Anura Kumara Dissanayake said he would make them known.
+
+As a result, retired High Court Judge ANJ as the first step. Committees headed by de Alwis was declared open by Gammanpila on the 21st.
+
+Then Its second step as a second step, the Retired Supreme Court Judge SIV. The publication of the Imam Committee report was made this morning.
+
+...
+
+[Data](articles/a39a3faa.json)
+
+[Extended Data](ext_articles/a39a3faa.ext.json)
+
+---
 
 ### Police notice of investigations into the attack plan
 
@@ -201,6 +227,34 @@ It is reported that the train which had derailed near the Kompanna Veediya railw
 [Data](articles/cbec42de.json)
 
 [Extended Data](ext_articles/cbec42de.ext.json)
+
+---
+
+### African swine flu flu flu is completely controlled
+
+*2024-10-28 18:35:17* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රිකානු-සූකර-උණ-ව්‍යාප්තිය-සම්පූර්ණයෙන්ම-පාලනය-කළ-හැකියි/11-412724) · `si`
+
+African swine fever controlled in Sri Lanka through bio-protection techniques and vaccinations. Disease spread rapidly but contained. Public advised to prevent animal-to-animal transmission and maintain hygiene practices.
+
+🟩
+
+Dr. Sisira Piyasiri said that using the African swine fever expansion by using bio-protection techniques could be eliminated in Sri Lanka.
+
+Speaking to the media, the President said:
+
+"Sucky industry is a successful business. It is a business of direct and indirect jobs that provide protein people.
+
+But those industy workers have faced a sad experience. That is the African swine flu. This was the spread of this country in 2019. By that time, using bio-protection techniques and vaccinations were able to avoid vaccinations.
+
+However, with the expansion of the country again in the recent days, information was reported larger pigs. Accordingly, the post-mortem examination was revealed that it was restored again the disease known as the PRRAce.
+
+Because of the rapid spread and the increase in complications, we have revealed that it was the African swine flu in this country.
+
+...
+
+[Data](articles/5c1715a4.json)
+
+[Extended Data](ext_articles/5c1715a4.ext.json)
 
 ---
 
@@ -2421,51 +2475,5 @@ Today (Oct. 28) On the day, the government is Rs.. 14,500 crores or Rs. The Cent
 [Data](articles/078565af.json)
 
 [Extended Data](ext_articles/078565af.ext.json)
-
----
-
-### கல்கிஸ்ஸையில் ஹெரோயினுடன் ஒருவர் கைது !
-
-*2024-10-28 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197294) · `ta`
-
-Kalkissa police arrest suspect with heroin near Ratmalana railway station. 11 grams 200 milligrams seized.
-
-🟩
-
-A suspect has been arrested on Sunday (27) with heroin near the Ratmalana railway station, which belongs to the Kalkissa police division, police said.
-
-The suspect has been arrested during a roundup of Kalkissa on information received by the police.
-
-கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 11 கிராம் 200 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/542660c8.json)
-
-[Extended Data](ext_articles/542660c8.ext.json)
-
----
-
-### பொரலஸ்கமுவையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
-
-*2024-10-28 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197293) · `ta`
-
-Sri Lanka: Police arrest suspect with ice in Boraleskamuwa. 45-year-old man held, 17g ice, vehicle, phone seized.
-
-🟩
-
-Boraleskamuwa police said that a suspect was arrested on Sunday (27) in Devalamulla area, which belongs to the Boraleskamuwa police division.
-
-The suspect has been arrested during a roundup of information received by the Boralesgamuwa police.
-
-கைது செய்யப்பட்ட சந்தேக நபர் தெஹிவளை பகுதியைச் சேர்ந்த 45 வயதுடையவர் ஆவார்.
-
-The police have seized 17 grams of ice, the car and the mobile phone used by the suspect, from the arrested suspect.
-
-◼️
-
-[Data](articles/e601ad9e.json)
-
-[Extended Data](ext_articles/e601ad9e.ext.json)
 
 ---

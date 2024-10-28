@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 03:58:21**
+As of **2024-10-29 04:11:53**
 
 ## Newspaper Stats
 
-*Scraped **51,907** Articles*
+*Scraped **51,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,826
 adaderanalk | 6,148
-tamilmirrorlk | 7,186
+tamilmirrorlk | 7,187
 virakesarilk | 8,374
 adaderanasinhalalk | 9,025
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,907 (100.0%) of 51,907 articles have been extended.
+51,908 (100.0%) of 51,908 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -169,6 +169,36 @@ Concerns were raised when the CEO of a supermarket chain was appointed as chairm
 [Data](articles/dbcfab79.json)
 
 [Extended Data](ext_articles/dbcfab79.ext.json)
+
+---
+
+### Beat the little deer
+
+*2024-10-29 01:19:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குட்டி-மான்களை-அடித்து-துரத்தவும்/175-346234) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka Tamil National Alliance (TNA) leader MA Sumanthiran calls for unity against rival parties. He criticizes former allies LTTE, EPRLF for leaving over seat disputes. TNA aims to maintain strength despite internal conflicts and external challenges.
+
+🟩
+
+We brought a man who looked like a spiritual plaintiff. He ran with the box bed in Jaffna. However, he left the cubs and ran away. MA Sumanthiran, the candidate of the Sri Lanka Tamil National Alliance (TNA) and the president's lawyer, said that the deer should be chased.
+
+He said this while addressing the Tamil National Alliance (TNA) campaign at Vadamarachchi on Sunday (27).. He added,
+
+The Tamil National Alliance was formed as a strong political force of the Tamil people. The Tamil Liberation Tigers of Tamil Eelam (LTTE) first caused confusion in this unity.
+
+Due to the confusion of the Udayasuriyan symbol of this coalition, the federation was united in the House of Tamil National Party (TNA).
+
+The All Ceylon Tamil Congress left in 2010 due to the seat sharing problem in the next election between the parties in the federation.
+
+...
+
+[Data](articles/dda55d7c.json)
+
+[Extended Data](ext_articles/dda55d7c.ext.json)
 
 ---
 
@@ -2367,23 +2397,5 @@ The suspect arrested by the STF handed over to the Boralesgamuwa Police for seve
 [Data](articles/3cce3ede.json)
 
 [Extended Data](ext_articles/3cce3ede.ext.json)
-
----
-
-### Passport queues re-emerge
-
-*2024-10-28 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102978/passport-queues-re-emerge) · `en`
-
-Since early morning, long queues have formed outside the passport office in Battaramulla as people await tokens for obtaining passports, Ada Derana reporter said.
-
-Many reported arriving as early as 4.00 a.m., yet by mid-morning, over 1,900 individuals were still waiting in lines.
-
-Several people expressed frustration, claiming that only one police officer had been assigned to check documents, which many cited as the primary reason for the extended waiting times.
-
-◼️
-
-[Data](articles/160737e7.json)
-
-[Extended Data](ext_articles/160737e7.ext.json)
 
 ---

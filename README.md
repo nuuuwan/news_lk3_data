@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 00:25:31**
+As of **2024-10-29 00:57:22**
 
 ## Newspaper Stats
 
-*Scraped **51,895** Articles*
+*Scraped **51,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,826
 adaderanalk | 6,148
 tamilmirrorlk | 7,184
-virakesarilk | 8,373
+virakesarilk | 8,374
 adaderanasinhalalk | 9,025
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,895 (100.0%) of 51,895 articles have been extended.
+51,896 (100.0%) of 51,896 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -817,6 +817,34 @@ More than eight lakh volunteers gathered as five lakh volunteers were expected t
 [Data](articles/b07706b9.json)
 
 [Extended Data](ext_articles/b07706b9.ext.json)
+
+---
+
+### Intelligence information has been revealed because of the lack of links with regional countries - awe -inspiring Bandara Tennakoon
+
+*2024-10-28 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/197339) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former Defense Minister Bandara Tennakoon criticizes government handling of intelligence on potential attacks in Arughambai area due to lack of communication with neighboring countries. He calls for prioritizing national security over political manipulation.
+
+🟩
+
+The government has not taken information on investigative information that has been found in the Arughambai area.Former Defense Minister Bandara Tennakoon said that the investigation has been revealed because of the lack of contact with the regional countries and foreign countries.
+
+He was speaking at a press conference held on Monday (28) at the New Democratic Front election office.
+
+Last week, many foreign embassies warned their citizens that they would be attacked to avoid traveling to the Arukampai area. This reveals the message that we have failed to properly focus on our national security. We should not go to that level. There were many threats in our time.
+
+அப்போது நாங்கள் எமது புலனாய்வுத்துறையுடன் இணைந்து செயற்பட்டு, புலனாய்வு தகவல்களுக்கு பதிப்பளித்து தேவையான நடவடிக்கைகளை மேற்கொண்டு. நாட்டின் பாதுகாப்பு, எமது மக்களின் பாதுகாப்பு மற்றும் எமது நாட்டில் இருக்கும் வெளிநாட்டவர்களின் பாதுகாப்பை உறுதிப்படுத்த நடவடிக்கை எடுத்திருந்தோம்.
+
+...
+
+[Data](articles/9a1cb012.json)
+
+[Extended Data](ext_articles/9a1cb012.ext.json)
 
 ---
 
@@ -2415,31 +2443,5 @@ When he was elected to Parliament, the privilege of speech of the society 'is th
 [Data](articles/6124148f.json)
 
 [Extended Data](ext_articles/6124148f.ext.json)
-
----
-
-### Magical 23 voice record tools
-
-*2024-10-28 11:34:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாயமான-23-குரல்-பதிவு-கருவிகள்/175-346178) · `ta`
-
-Sri Lanka's Department of Examinations faces issues with 23 voice recording devices, including 7 provided to schools and 16 entrusted for valuable purposes. The National Audit Office is investigating and has recommended actions to address the situation.
-
-🟩
-
-இலங்கை பரீட்சைகள் திணைக்களத்துக்கு சொந்தமான 23 குரல் பதிவு கருவிகள் காணாமல் போயுள்ளதாக தேசிய கணக்காய்வு அலுவலகம் தெரிவித்துள்ளது.
-
-According to the audit report issued by the Audit Office regarding the Department of Examinations, it has been reported that the 07 voice registration equipment provided to the school examination branch is missing.
-
-In addition, 16 voice records entrusted for valuable purposes have also been magical.
-
-According to reports, the Examination Department has notified the National Audit Office that the investigation is being investigated and the final report is being prepared.
-
-The National Audit Office has recommended to the Department of Examinations to take action in this regard.
-
-◼️
-
-[Data](articles/e86778fa.json)
-
-[Extended Data](ext_articles/e86778fa.ext.json)
 
 ---

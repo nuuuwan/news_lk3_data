@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 14:25:53**
+As of **2024-10-28 14:39:57**
 
 ## Newspaper Stats
 
-*Scraped **51,810** Articles*
+*Scraped **51,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,143 @@ islandlk | 3,085
 economynextcom | 3,150
 dailyftlk | 3,536
 dailymirrorlk | 4,733
-adalk | 4,814
+adalk | 4,815
 adaderanalk | 6,135
 tamilmirrorlk | 7,172
-virakesarilk | 8,353
-adaderanasinhalalk | 9,007
+virakesarilk | 8,356
+adaderanasinhalalk | 9,010
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,807 (100.0%) of 51,810 articles have been extended.
+51,814 (100.0%) of 51,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### ඉන්දියාවම හෙල්ලූ තලපති විජේගේ දේශපාලන වේදිකාව
+
+*2024-10-28 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202649) · `si`
+
+Here's a 200-character summary:
+
+
+
+Actor Vijay leads DMK rally in Tamil Nadu, criticizes dual-party politics, aims to be major force in state. Large crowd attends event at Ekanadi.
+
+🟩
+
+දකුණු ඉන්දීය සිනමාවේ ජනකාන්ත රංගන ශිල්පියෙක් වන විජේ, තම නායකත්වයෙන් යුතු තමිල්ගා වෙට්රි කලගම් පක්ෂයේ මංගල රැලිය ඊයේ (27) පැවැත්විය.
+
+A large crowd was gathered at the rally at Ekanadi in Tamil Nadu.
+
+එහිදී අදහස් පළකළ විජේ අවධාරණය කළේ, තමිල්නාඩුවේ දශක ගණනාවක් පුරා ක්‍රියාත්මක, ද්වි පක්ෂ දේශපාලනයට තිත තබා ප්‍රාන්තයේ ප්‍රධාන බලවේගය වීම සිය අපේක්ෂාව බවය.
+
+◼️
+
+[Data](articles/3672de7a.json)
+
+[Extended Data](ext_articles/3672de7a.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-10-28 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197308) · `ta`
+
+Today's currency exchange rate: USD to INR. Buying rate: 289.0657, Selling rate: 298.1140.
+
+🟩
+
+இன்று திங்கட்கிழமை (28) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 289.0657 ரூபாவாகவும், விற்பனை விலை 298.1140  ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/77728101.json)
+
+[Extended Data](ext_articles/77728101.ext.json)
+
+---
+
+### நிக்கவரெட்டியவில் உள்நாட்டு துப்பாக்கியுடன் ஒருவர் கைது !
+
+*2024-10-28 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197304) · `ta`
+
+Nikaweratiya police arrest suspect armed with local firearm during raid based on tip-off.
+
+🟩
+
+நிக்கவரெட்டிய பொலிஸ் பிரிவுக்கு உட்பட்ட வாசிவெவ பகுதியில் உள்நாட்டு துப்பாக்கியுடன் சந்தேக நபர் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (27) கைது செய்யப்பட்டுள்ளதாக நிக்கவரெட்டிய பொலிஸார் தெரிவித்தனர்.
+
+The suspect was arrested during a raid carried out on information received by Nikaweratiya police.
+
+◼️
+
+[Data](articles/20077b3b.json)
+
+[Extended Data](ext_articles/20077b3b.ext.json)
+
+---
+
+### Attack on a supporter of a parliamentary election candidate in Ampara district
+
+*2024-10-28 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197306) · `ta`
+
+Attack on supporter of parliamentary election candidate in Ampara district: Shop vandalized, police complaint filed. Candidate visits scene, suspects political motives behind destruction.
+
+🟩
+
+இனந்தெரியாதோரினால் நடத்தப்பட்ட தாக்குதல் சம்பவம் ஒன்றில் பாராளுமன்ற வேட்பாளரின் ஆதரவாளரது  கடை அடித்து நொறுக்கப்பட்டுள்ளது.
+
+A temporary shop located on the main road of Pandaruppu Dalawattuwan, which belongs to the Periyavana Police Division of the Ampara District, has been smashed.
+
+The incident took place on Sunday night (27) and the Ampara District has been beaten to the Digamadulla electorate in the Ampara District.
+
+The candidate went to the scene and visited the damaged shop and went to the big Neelavana police station and went with the supporter to lodge a complaint.
+
+The victim's shop owner told the media that the Sri Lanka Human Rights Commission was planning to lodge a complaint on Monday (28) due to lack of complaints at the police station.
+
+மேலும், குறித்த கடையில் அரசியல் விடயங்களை தாங்கள் உரையாடுவதாகவும் இதனால் இக்கடை உடைப்பு ஏனைய தரப்புகளால் உடைக்கப்பட்டிருக்க கூடும் என வேட்பாளர் வைத்தியர் பிரகாஸ் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/31d405cf.json)
+
+[Extended Data](ext_articles/31d405cf.ext.json)
+
+---
+
+### Nishantha Perera appointed new Chairman of Elpitiya?
+
+*2024-10-28 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202648) · `si`
+
+Nishantha Perera appointed Chairman Elpitiya Pradeshiya Sabha. National Power won 15 seats in 30-seat council. Mahinda Rajapaksa says no issue establishing congregation despite some doubts.
+
+🟩
+
+The final result of the Elpitiya Pradeshiya Sabha Mahinda Rajapaksa says that there is no problem with the national power and other seats by the other 15 seats.
+
+Accordingly, Nishantha Perera, who contested as the team leader of the National Power Pradeshiya Sabha.
+
+Elpitiya Pradeshiya Sabha elections were held on Saturday, Matmin and proportional.
+
+The national folk force was won by 15 seats in Elpitiya Pradeshiya Sabha consisting of 30 seats.
+
+The Sri Lanka General Front, the Sri Lanka General Front and 3 seats were divided into six seats in the Sri Lanka General Front.
+
+මීට අමතරව පොදුජන එක්සත් නිදහස් සන්ධානයට සහ ජාතික ජනතා පක්ෂයටත් එක් ආසනය බැගින් හිමිවුණි.
+
+Accordingly, the National Folk Members of the Anuradhapura Pradeshiya Sabha with the final result of the Elpitiya Pradeshiya Sabha with the bonus seats, 15 members of the 30th members of the House are able to receive 15 seats.
+
+...
+
+[Data](articles/22a0c814.json)
+
+[Extended Data](ext_articles/22a0c814.ext.json)
+
+---
 
 ### News of a political crisis at home:Mrs. B prepares to confront LSSP
 
@@ -50,6 +172,28 @@ We next flew to Tibilisi-Georgia (in the USSR) on the same private plane, placed
 
 ---
 
+### Prime Minister who answered Ranil to Ranil
+
+*2024-10-28 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202647) · `si`
+
+Former President Ranil Wickremesinghe announced a cabinet decision to increase public servant salaries during an election rally. He stated this as a cabinet resolution but not yet implemented. Critics call it a false promise made during the election period.
+
+🟩
+
+Former President Ranil Wickremesinghe said that a cabinet decision was taken regarding the salaries of public servants.
+
+She was speaking at a public rally in Padukka yesterday.
+
+"දැන් රනිල් වික්‍රමසිංහ කිව්වට රාජ්‍ය සේවකයින්ගේ වැටුප් වර්ධනය කිරීමට තීරණයක් ගත්තා කියලා , අපි ඒ කැබිට් සාකච්ඡාවේ කැබිනට් තීරණය බලනකොට භාණ්ඩාගාරයෙන්වත් මුදල් අමාත්‍යාංශයේ නිලධාරීන්ගෙන්වත් අනුමැතියක් අරගෙන නෙමෙයි ඒ තීරණය අරගෙන තියෙන්නේ. තීරණය ප්‍රකාශ කළා , නමුත් තීරණය ක්‍රියාත්මක කිරීමට කරන්නට ඕනේ කොටස කරලා නෙමෙයි ඒ තීරණය අරගෙන තියෙන්නේ. එතකොට ඒකෙන් මොකක්ද කියන්නේ. It is a false promise of a false promise in the election period. "
+
+◼️
+
+[Data](articles/3c714f07.json)
+
+[Extended Data](ext_articles/3c714f07.ext.json)
+
+---
+
 ### The Executive Presidency as JRJ saw it
 
 *2024-10-28 13:19:00* · [`islandlk`](http://island.lk/the-executive-presidency-as-jrj-saw-it/) · `en`
@@ -61,6 +205,8 @@ The first suggestion to introduce the Executive Presidency system of Government 
 ...
 
 [Data](articles/c1cf53d0.json)
+
+[Extended Data](ext_articles/c1cf53d0.ext.json)
 
 ---
 
@@ -781,6 +927,26 @@ Through this method, the long-term effects and deep sea ocean balance have occur
 [Data](articles/dea04b1b.json)
 
 [Extended Data](ext_articles/dea04b1b.ext.json)
+
+---
+
+### ආණ්ඩුව සල්ලි අච්චු ගහනවා
+
+*2024-10-28 10:24:14* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුව-සල්ලි-අච්චු-ගහනවා/11-412713) · `si`
+
+රජය දිගින් දිගටම භාණ්ඩාගාර බිල්පත් මගින් ණය ගනිමින් සිටින අතර, පිළිගත් සල්ලි අච්චු ගැසීමේ යාන්ත්‍රණයක් භාවිත කරමින් ‘සල්ලි අච්චු ගැසීම‘ ආරම්භ කර ඇති බව මාතලේ දිස්ත්‍රික්ක සමගි ජනබලවේගයේ නායිකා රෝහිණී කවිරත්න පවසයි. නිවේදනයක් නිකුත් කරමින් ඇය මේ බව සඳහන් කරයි.
+
+‘ආණ්ඩුව සල්ලි අච්චු ගහනවා - ණය ගන්නවා. කබ්රාල් - ගෝඨාභය යුගය අපිට නැවත මතක් වෙනවා.‘
+
+කෙටි කාලීන මුදල් සම්පාදනය යාන්ත්‍රණය ලෙස ක්‍රියත්මක වාර වෙන්දේසිය (Term auction) හා එක්රැය වෙන්දේසිය (overnight auction) හරහා මහ බැංකුව මුදල් මවමින් සිටිනවා.
+
+ශ්‍රි ලංකා මහ බැංකුව 2024 ඔක්තෝබර් 25 (සිකුරාදා) දින රු. බිලියන 36.16 ක මුදලක්, වෙන්දේසියක් හරහා  (overnight auction)  රටේ මුදල් පද්ධතියට පොම්ප කර තියෙනවා.  එහි සරළ ව්‍යවහාරික අර්ථය, ශ්‍රී ලංකා මහ බැංකුව රුපියල් බිලියන 36.16 ක් එමගින් අච්චු ගසා ඇති බවයි.
+
+පසුගිය සතියේ දින 7 තුල මහ බැංකුව වාර වෙන්දේසි මගින් (Term auction) මගින් අච්චු ගසා ඇති මුදල රු. බිලියන 70 කි.
+
+...
+
+[Data](articles/078565af.json)
 
 ---
 
@@ -2047,159 +2213,5 @@ Aseni, the whiz kid of economics has come across a report by the Nobel Laureate 
 [Data](articles/ba685077.json)
 
 [Extended Data](ext_articles/ba685077.ext.json)
-
----
-
-### Our Tamil National People's Front is the only team that rejects a single government - Gajendrakumar Ponnambalam
-
-*2024-10-28 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197287) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Gajendrakumar Ponnambalam: Tamil National People's Front rejects monolithic constitution. Focuses on rejecting political systems, addressing ethnic issues, and fulfilling UN resolutions. Aims for bicycle symbol to secure seats in North and East elections.
-
-🟩
-
-Leader of the Tamil National People's Front (TNA), Gajendrakumar Ponnambalam, said that if we reject the monolithic constitution, the Tamil National People's Front is a team that can reject and implement it.
-
-The Tamil National People's Front's Vanni District Candidates' Launch meeting was held on Sunday (27) at 4.30 pm at the Mannar Municipal Council Hall.
-
-Our people have been affected in these 15 years.
-
-Is the JVP participated in a struggle in them?
-
-Our people are carrying out protests against private land grabbing. Do you attend any of these JVP or national people's power?
-
-The political system is the main organization in Sri Lanka. The political system has been brought three times. Our people have rejected the three political system.
-
-If the second race continues to reject the country's main law, it means that the race has a ethnic problem.
-
-The international community clearly emphasizes every resolution passed at the UN Human Rights Council since 2012.
-
-...
-
-[Data](articles/2bee568b.json)
-
-[Extended Data](ext_articles/2bee568b.ext.json)
-
----
-
-### Child’s guide to critics of IMF’s Debt Sustainability Analysis
-
-*2024-10-28 01:22:15* · [`dailyftlk`](https://www.ft.lk/columns/Child-s-guide-to-critics-of-IMF-s-Debt-Sustainability-Analysis/4-768470) · `en`
-
-Sri Lanka’s external public debt had been classified as unsustainable long before the country had to announce that it would suspend debt servicing for bilateral and commercial creditors in April 2022. According to IMF rules, it cannot lend to a country whose debt is not sustainable now or whose future sustainability is high risk. If it provides any financing to a country, it is linked to the restructuring of debt owed to commercial and official bilateral creditors. DSF will give the amount of debt relief needed by the country which is required to restructure its debt from these two sources
-
-...
-
-[Data](articles/a9f188cc.json)
-
-[Extended Data](ext_articles/a9f188cc.ext.json)
-
----
-
-### Even though the new president talks about the country, the people of the hill country do not talk about
-
-*2024-10-28 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197286) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New president ignores hill country concerns. Independent groups face extinction post-election. Congress crucial for protecting rights. CWC chair urges voters to support Congress candidates for Tamil representation and development.
-
-🟩
-
-Many independent groups will disappear after November 14th. Therefore, not to lose the Tamil representation that rely on independent groups. The political, economic and social rights of the people of the hill country will be protected only if Congress members are in parliament. Maruthapandi Rameswaran, the CWC's chairman and the Nuwara Eliya district parliamentary candidate, said that they would be raised for them.
-
-He said this while addressing the election campaign meeting held on Sunday. In this regard, he said,
-
-This is the election period. No one can contest the election because Sri Lanka is a democratic country. They have the right to it. It is the duty of the people to choose candidates who are with the people and to serve the people. Some may seek to change the minds of people through fake propaganda. People must vote to identify such intrigues and protect their representation.
-
-...
-
-[Data](articles/4539ae75.json)
-
-[Extended Data](ext_articles/4539ae75.ext.json)
-
----
-
-### “Non-alignment” and Sri Lanka’s foreign policy dilemma
-
-*2024-10-28 01:14:49* · [`dailyftlk`](https://www.ft.lk/columns/Non-alignment-and-Sri-Lanka-s-foreign-policy-dilemma/4-768469) · `en`
-
-It’s not about taking sides in a conflict. It’s about demanding the UN Founding Charter be honoured to its very letter
-
-“… I will say to any terrorist who kills an American, and threatens the American People, or threatens our troops, or our interests… know this… we will always bring you to justice”.
-
-Kamala Harris, Vice President of USA and Democratic presidential candidate at the 5 November US presidential election, addressing the media at the White House on 18 October 2024, expressing Biden regime’s stand on Israel and its future after Israel announced the previous day, it killed Yahya Sinwar the Hamas leader in Gaza.
-
-...
-
-[Data](articles/d9e775f7.json)
-
-[Extended Data](ext_articles/d9e775f7.ext.json)
-
----
-
-### US-led empire of entrepreneurship drives ME war
-
-*2024-10-28 01:10:55* · [`dailyftlk`](https://www.ft.lk/columns/US-led-empire-of-entrepreneurship-drives-ME-war/4-768468) · `en`
-
-The struggle for liberation of Palestine is not going to fade away or defeated but will gather intensity as worldwide discontent against an imperial order devised by an empire built on business and entrepreneurship starts crumbling
-
-“Israel is the largest American aircraft carrier in the world that cannot be sunk”
-
-It is little over one year since Hamas fired those deadly rockets on Israel as a mark of its violent struggle to liberate Gaza from Israel’s brutal colonisation and apartheid. It immediately provoked a deadlier response from “Global Israel” – a coalition of governments led by the US and the UK, sections of Western academia, mainstream media, multinational corporations and security industries.
-
-...
-
-[Data](articles/6b0cbbe6.json)
-
-[Extended Data](ext_articles/6b0cbbe6.ext.json)
-
----
-
-### Colombo Fort- Kankesanthurai Railway Service from today
-
-*2024-10-28 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197285) · `ta`
-
-Colombo Fort-Kankesanthurai railway service resumes Monday. Special train departs Fort 5:45 AM, returns Kankesanthurai 6:30 PM daily. Normal operations restored after reconstruction project completion.
-
-🟩
-
-The Colombo Fort - Kankesanthurai Railway Service will commence on Monday (28). The Northern Railway Service has returned to normal from today and the public who use the railway cross streets have been very careful with the Railway Department.
-
-The Mahawa-Omanthai Railway Reconstruction Project commenced on 29.11.2019. The fort -Kankesanthurai railway service has been suspended for development work during the first period of the year as the development work has been carried out.
-
-The Kankesanthurai Railway Service of the Colombo Fort. As the Northern Railway Service has returned to normal today, the public has urged the public to use the railway cross streets.
-
-Accordingly, a special train will leave Fort at 05.45 am to Kankesanthurai.
-
-The train will leave Kankesanthurai at 10.30 am on Tuesday (29) and arrive at Fort Railway Station at 06.30 pm.
-
-◼️
-
-[Data](articles/50c751f0.json)
-
-[Extended Data](ext_articles/50c751f0.ext.json)
-
----
-
-### Pareto Analysis of the Jana Balawegaya force
-
-*2024-10-28 00:47:17* · [`dailyftlk`](https://www.ft.lk/columns/Pareto-Analysis-of-the-Jana-Balawegaya-force/4-768467) · `en`
-
-President AKD possessed the personality to appeal to the voters to cast their choice, but NPP must face the parliamentary election sans the popularity brand of AKD – Pic by Shehan Gunasekara
-
-Whoever gets the mandate to form the next Government needs to identify the structural problems that hinder the strengthening of the producers and the consumers who are the important pillars in the real economy which drives the growth. Moreover, they need to come up with incremental policy changes mainstreamed first and come up with the critical fundamental policy changes embedded with the necessary structural changes at a gradual pace
-
-...
-
-[Data](articles/af69b798.json)
-
-[Extended Data](ext_articles/af69b798.ext.json)
 
 ---

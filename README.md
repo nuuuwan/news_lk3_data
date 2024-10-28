@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 08:04:30**
+As of **2024-10-28 08:27:09**
 
 ## Newspaper Stats
 
-*Scraped **51,740** Articles*
+*Scraped **51,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,71 @@ newsfirstlk | 363
 dbsjeyarajcom | 412
 bbccomsinhala | 524
 colombotelegraphcom | 525
-islandlk | 3,080
+islandlk | 3,081
 economynextcom | 3,146
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,806
 adaderanalk | 6,121
-tamilmirrorlk | 7,155
+tamilmirrorlk | 7,156
 virakesarilk | 8,345
-adaderanasinhalalk | 8,994
+adaderanasinhalalk | 8,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,739 (100.0%) of 51,740 articles have been extended.
+51,743 (100.0%) of 51,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Bus accident in Mexico: 19 killed
+
+*2024-10-28 07:45:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மெக்சிகோவில்-பஸ்-விபத்து-19-பேர்-பலி/50-346157) · `ta`
+
+Mexico bus crash kills 19, injures 6. Rescue teams recover bodies from highway accident site.
+
+🟩
+
+மெக்சிகோவின் நெடுஞ்சாலையில் பஸ் விபத்துக்குள்ளானதில் 19 பேர் உயிரிழந்தனர்.இந்த விபத்தில் மேலும் 6 பேர் காயமடைந்துள்ளனர்.
+
+Foreign reports say that rescue and security forces are engaged in the recovery of the bodies of the victims.
+
+◼️
+
+[Data](articles/9c1ae4aa.json)
+
+[Extended Data](ext_articles/9c1ae4aa.ext.json)
+
+---
+
+### පුපුරණ ද්‍රව්‍ය තොගයක් සමග සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-10-28 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202634) · `si`
+
+Two suspects arrested with explosives in Padaviya. Recovered: 75kg Vedibodies, 90g Geltinite, 300 detonators, 5 service strings. Suspects from Hidogama/Mapaladikulam, ages 28 & 30. Vehicle seized, investigation ongoing.
+
+🟩
+
+Two suspects have been arrested by the Padaviya Police Station with an area of ​​explosives.
+
+The explosives were transported by a team on a tip of the Padaviya Police Station in the Poarava Police Division in the Anuradhapura area in the evening yesterday (27).
+
+75 kilograms of Vedibodies, 90 geltinite kilometers, 300 detonator karicians and five services string have been recovered.
+
+The arrested suspects are residents of the Hidogama and Mapaladikulam area, aged at age 28 and 30.
+
+The car was also taken into custody by the suspects and Padaviya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/3c3891ea.json)
+
+[Extended Data](ext_articles/3c3891ea.ext.json)
+
+---
 
 ### Licit child kills a little child
 
@@ -353,6 +399,24 @@ The High Commission of the Islamic Republic of Pakistan in Colombo organised a s
 [Data](articles/2f5dfb00.json)
 
 [Extended Data](ext_articles/2f5dfb00.ext.json)
+
+---
+
+### Monin and Liquid Island partner to elevate Sri Lanka’s beverage industry
+
+*2024-10-28 02:34:00* · [`islandlk`](http://island.lk/monin-and-liquid-island-partner-to-elevate-sri-lankas-beverage-industry/) · `en`
+
+Liquid Island Sri Lanka, the exclusive distributor of World’s leading Syrup Monin, recently hosted a special visit from Felipe Valencia Santander, Beverage Expert from Monin in the Middle East to Sri Lanka.
+
+With over 100 years of expertise in syrups and beverage solutions, Monin is a family-run French company now present in over 150 countries. Renowned for their innovative beverage solutions, speed of use, quality and taste consistency, Monin offers the widest range of flavors in the syrup, puree, frappe and sauce categories.
+
+Felipe’s visit was a significant event for Sri Lanka’s beverage industry, drawing over 300 bartenders and baristas from across the country to participate in masterclasses and training sessions designed to elevate their craft and expand the possibilities within mixology.
+
+...
+
+[Data](articles/72e86af6.json)
+
+[Extended Data](ext_articles/72e86af6.ext.json)
 
 ---
 
@@ -737,6 +801,8 @@ I would like to acknowledge material from the many interviews and presentations 
 ...
 
 [Data](articles/a04f4295.json)
+
+[Extended Data](ext_articles/a04f4295.ext.json)
 
 ---
 
@@ -2237,71 +2303,5 @@ Udaya Kammanpila has expressed his views on the report of the Udaya Kammanpila J
 [Data](articles/bd426431.json)
 
 [Extended Data](ext_articles/bd426431.ext.json)
-
----
-
-### MA Sumanthiran Chevy should be removed from the North and East
-
-*2024-10-27 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197228) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"MA Sumanthiran calls for removing Chevy from North and East after presidential election. Urges public support to empower TNA as negotiating force."
-
-🟩
-
-After the presidential election, there is a wave of support in the North and East. Our people need to understand that the situation is very dangerous. The people should give us the power to fulfill the aspirations of our people. The wave should be removed. They can achieve their goals by sending the TNA as a team and bargaining force. We are confident that the people will issue the order.
-
-◼️
-
-[Data](articles/5813055b.json)
-
-[Extended Data](ext_articles/5813055b.ext.json)
-
----
-
-### “The main political parties are panicked”
-
-*2024-10-27 15:12:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதான-அரசியல்-கட்சிகள்-பீதியடைந்துள்ளன/175-346118) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka: Actor-turned-politician Ranjan Ramanayake returns to politics, causing panic among major parties. He claims parties fear competition from his entry.
-
-🟩
-
-Actor and politician Ranjan Ramanayake has said that the major political parties are panicked after he decided to return to politics.
-
-Ramanayake said, "I have filed petitions against the decision to get on the field, as the major parties are afraid of coming back to politics.
-
-◼️
-
-[Data](articles/49119ab3.json)
-
-[Extended Data](ext_articles/49119ab3.ext.json)
-
----
-
-### Sri Lanka loses in Sri Lanka
-
-*2024-10-27 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202618) · `si`
-
-Sri Lanka lost 67-64 in Asian Netball Championship. Tournament held in Bangalore, India reached finals unexpectedly.
-
-🟩
-
-The Sri Lankan team, who was defeated by 67 to 64 runs in the face of the Asian Netball Championship took place today.
-
-This year's Asian Netball Championship was held in Bangalore, where India was unlucky to the finals.
-
-◼️
-
-[Data](articles/e5935cc2.json)
-
-[Extended Data](ext_articles/e5935cc2.ext.json)
 
 ---

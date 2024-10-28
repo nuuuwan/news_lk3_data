@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-28 10:24:48**
+As of **2024-10-28 10:39:46**
 
 ## Newspaper Stats
 
-*Scraped **51,760** Articles*
+*Scraped **51,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,146
 dailyftlk | 3,536
 dailymirrorlk | 4,733
 adalk | 4,809
-adaderanalk | 6,127
-tamilmirrorlk | 7,159
+adaderanalk | 6,128
+tamilmirrorlk | 7,161
 virakesarilk | 8,345
 adaderanasinhalalk | 8,999
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 8,999
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,760 (100.0%) of 51,760 articles have been extended.
+51,763 (100.0%) of 51,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-28 (Monday)
+
+### Train services on Northern Line resume
+
+*2024-10-28 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102971/train-services-on-northern-line-resume) · `en`
+
+The train services from Colombo Fort to Kankasanturai have officially resumed today (28).
+
+The Department of Railways announced that the train services halted for 10 months due to maintenance and development activities will resume today.
+
+Its Deputy General Manager (Operations), Mr. N.J. Idipolage stated that by resuming the train operation on the Northern Railway, the Yal Devi train will now operate between Colombo Fort and Kankesanturai, while the  Rajarata Rejini train will be operating from Colombo Fort to Anuradhapura.
+
+◼️
+
+[Data](articles/f493a7f4.json)
+
+[Extended Data](ext_articles/f493a7f4.ext.json)
+
+---
+
+### Attack on party supporter's shop
+
+*2024-10-28 10:15:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சி-ஆதரவாளரது-கடை-மீது-தாக்குதல்/175-346168) · `ta`
+
+Attack on party supporter's shop: Temporary shop destroyed, supporter beaten. Candidate visited site, filed complaint with police. Victim claims no action taken yet. Political tensions suspected.
+
+🟩
+
+இச்சம்பவம் ஞாயிற்றுக்கிழமை(27) இரவு அம்பாறை மாவட்டம் பெரிய நீலாவணை பொலிஸ் பிரிவிற்குட்பட்ட பாண்டிருப்பில் இடம் பெற்றுள்ளது.
+
+A temporary shop located on the main road of Dalawattuwan has been smashed.
+
+A supporter of Dr. Prakas, a supporter of the candidate Prakas, who is contesting on behalf of the Democratic Tamil National Alliance (TNA) in Digamadulla Elections in Ampara District, has been beaten.
+
+சம்பவ இடத்திற்கு   குறித்த வேட்பாளர் சென்று  சேதமடைந்த கடையை பார்வையிட்டதுடன் தாக்குதல் சம்பவம் தொடர்பில் பெரிய நீலாவணை பொலிஸ் நிலையத்திற்கு சென்று முறைப்பாடு அளிக்க ஆதரவாளருடன் சென்றுள்ளார்.
+
+The victim's shop owner told the media that the Sri Lanka Human Rights Commission was planning to lodge a complaint on Monday (28) due to lack of complaints at the police station.
+
+Candidate Dr. Prakas said that they are talking about political issues in the store and the breakdown may have been broken by other sides.
+
+◼️
+
+[Data](articles/86eb0d5b.json)
+
+[Extended Data](ext_articles/86eb0d5b.ext.json)
+
+---
+
+### A new notice released on vehicle imports
+
+*2024-10-28 10:07:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-வெளியான-புதிய-அறிவிப்பு/175-346166) · `ta`
+
+Vehicle imports delayed: Earlier set for Jan 2025, now postponed due to COVID-19 crisis. Imports suspended since Mar 2020.
+
+🟩
+
+It is reported that the action of importing vehicles is currently being delayed.
+
+Earlier, it was announced that vehicle imports would be granted from January 2025.
+
+However, as the resolution has changed, it is shocking to those who are waiting to import vehicles.
+
+Due to the crisis of the Corona period, the importation of vehicle imports to Sri Lanka was suspended in March 2020. Remble
+
+◼️
+
+[Data](articles/5c7346e0.json)
+
+[Extended Data](ext_articles/5c7346e0.ext.json)
+
+---
 
 ### Yal Devi to Kankesanthurai after 10 months
 
@@ -2217,95 +2287,5 @@ He was arrested during a raid carried out on the basis of information received b
 [Data](articles/f20816ef.json)
 
 [Extended Data](ext_articles/f20816ef.ext.json)
-
----
-
-### Tamil leaders cannot become ministers because they are photographed with Anura - Bimal Ratnayake
-
-*2024-10-27 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/197261) · `ta`
-
-Tamil leaders ineligible for minister positions due to photos with Anura-Bimal Ratnayake claims. National People's Power campaign meeting in Mullaitivu discusses war impact and party candidates' qualifications.
-
-🟩
-
-Tamil leaders cannot become ministers because they are photographed with Anura. Former parliamentarian Bimal Ratnayake said that ministers can be ministers.
-
-The National People's Power Campaign Meeting in Mullaitivu Pudukkudiyiruppu was held at 9 pm on Saturday (26) under the patronage of the National People's Power Mullaitivu District Coordinator Chidambaranathan.
-
-Former parliamentarian of the National People's Power, Bimal Ratnayake said,
-
-Anuragumara Dissanayake was born in a poor family. Ranil, Sajitho and Namalo are not growing up in the village. Do they stand in line and take medicine at the State Hospital?Not. Have you been in line for something?
-
-They don't know the problem of ordinary people. Therefore, our class belongs to the president.
-
-The substantial people in this can be affected by the war. Most people's houses may be damaged. Similarly, the house of Anura Kumara Dissanayake was attacked by the military in 1979.
-
-...
-
-[Data](articles/affcbe6e.json)
-
-[Extended Data](ext_articles/affcbe6e.ext.json)
-
----
-
-### One person arrested with domestic gun and bullets in Habaradu
-
-*2024-10-27 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197223) · `ta`
-
-Arrest made in Habaraduwa for domestic gun possession and bullets. Suspect, 26, arrested during raid. Further investigations ongoing.
-
-🟩
-
-The suspect has been arrested for possessing six bullets used for domestic gun and a R-56 rifle, in the Meeb Junction, which belongs to the Habarathuwa police division.
-
-He was arrested yesterday (26) during a raid carried out by a group of officials of the murder and organized Criminal Investigation Division.
-
-The arrested suspect is 26 years old from Habaraduwa, Meebe area.
-
-It has been revealed that he was addicted to the arrested suspect and gave someone else to kill the gun.
-
-Further investigations are being carried out by the murder and organized Criminal Investigation Unit.
-
-◼️
-
-[Data](articles/8be60029.json)
-
-[Extended Data](ext_articles/8be60029.ext.json)
-
----
-
-### Japanese parliamentary election today
-
-*2024-10-27 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202621) · `si`
-
-Japanese parliamentary election underway. PM Shiri Polian leads Liberal Democratic Party. Former PM Fumio Kishida resigned due to high cost of living. Experts predict LDP may lose 50 seats. Opposition parties gaining ground. Election crucial for PMs Shibaa and Isiboha.
-
-🟩
-
-This is a very important election as well as Prime Minister Shiri polian and Isiba for the ruling Liberal Democratic Party.
-
-Former Prime Minister of Japanese Prime Minister Fumio Kikada resigned from the post of Prime Minister.
-
-During his three years rule, the cost of living is highly increased by the people.
-
-After the former Prime Minister of the Japanese constitution, Killida became Prime Minister.
-
-Shiri polite Shiri polite was the prime minister of Japan in early this month was to hold elections quickly.
-
-The vote on the Japanese parliamentary election began this morning.
-
-Representatives are to be selected for 465 seats in the lower Sensing Council.
-
-Japan's current ruling liberal democratic Party after the post-war, almost won the majority of the Sanhedrin.
-
-However, this year's election has been a challenge for them.
-
-Experts predict on the Liberal Democratic Party (Liberal Democratic Party) and about 50 seats will be lost this year's election.
-
-...
-
-[Data](articles/d53672fa.json)
-
-[Extended Data](ext_articles/d53672fa.ext.json)
 
 ---

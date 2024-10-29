@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 13:24:06**
+As of **2024-10-29 13:40:27**
 
 ## Newspaper Stats
 
-*Scraped **51,997** Articles*
+*Scraped **52,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,834
-adaderanalk | 6,159
+adaderanalk | 6,163
 tamilmirrorlk | 7,201
 virakesarilk | 8,389
 adaderanasinhalalk | 9,048
@@ -26,11 +26,69 @@ adaderanasinhalalk | 9,048
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,996 (100.0%) of 51,997 articles have been extended.
+52,001 (100.0%) of 52,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Immediate measures to resolve salary disparities of Teacher Advisors’ Service, court told
+
+*2024-10-29 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103007/immediate-measures-to-resolve-salary-disparities-of-teacher-advisors-service-court-told) · `en`
+
+The Attorney General (AG) informed the Supreme Court that immediate measures will be taken to pay the salaries of the Sri Lanka Teacher Advisors’ Service after resolving disparities in their salary scales.
+
+This was communicated to the court by Deputy Solicitor General Yuresha de Silva, who appeared on behalf of the AG when a Fundamental Rights (FR) petition filed by the All Island Teacher Advisors’ Association seeking to resolve the salary disparities was taken up today (29).
+
+Appearing for the petitioning party, Attorney-at-Law Nuwa Bopage stated before the court that the salary scales of the Sri Lanka Teacher Advisors remain lower than the salaries of the teachers and that his clients have undergone a severe injustice through this situation.
+
+However, the Deputy Solicitor General informed the court that measures will be taken to remove the relevant salary disparities in the near future.
+
+...
+
+[Data](articles/8d3f8ebe.json)
+
+[Extended Data](ext_articles/8d3f8ebe.ext.json)
+
+---
+
+### Johnston’s illegal luxury car: 2 more suspects surrender to CID
+
+*2024-10-29 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103005/johnstons-illegal-luxury-car-2-more-suspects-surrender-to-cid) · `en`
+
+Two more suspects have surrendered to the Criminal Investigations Department (CID) in connection with the case against former Minister Johnston Fernando over the illegally acquired BMW car.
+
+The suspects have subsequently been produced before the Fort Magistrate’s Court, Ada Derana reporter said.
+
+Former Minister Johnston Fernando, was arrested by the CID over an incident of an unregistered luxury vehicle allegedly belonging to him found suspiciously parked at a star-class hotel premises, and he was remanded until October 30 by Colombo Fort Magistrate.
+
+◼️
+
+[Data](articles/1c10933b.json)
+
+[Extended Data](ext_articles/1c10933b.ext.json)
+
+---
+
+### Intelligence on Arugam Bay attack is not foreign influence against the county - Minister
+
+*2024-10-29 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103006/intelligence-on-arugam-bay-attack-is-not-foreign-influence-against-the-county-minister) · `en`
+
+Cabinet Spokesperson Minister Vijitha Herath says that a foreign intelligence agency provided information to Sri Lanka’s State Intelligence Service (SIS) about a planned attack in the country, and the security measures were taken accordingly.
+
+Speaking at the Cabinet press conference held today (29), the minister said that the National Security Council (NSC) was convened to make prompt decisions in response to the threat.
+
+He further stated that several suspects have been arrested and produced before the courts and that further investigations are underway in this regard.
+
+However, the minister emphasized that these intelligence agencies were not any sort of foreign influence against the country, noting that the United States had issued a caution regarding travel to the Arugam Bay area but no official travel ban had been imposed.
+
+◼️
+
+[Data](articles/90e75c41.json)
+
+[Extended Data](ext_articles/90e75c41.ext.json)
+
+---
 
 ### Court permission to name Ranil as respondent
 
@@ -55,6 +113,26 @@ The petitions were summoned before the Petitio Padman Surasena and Janak de Silv
 [Data](articles/40223deb.json)
 
 [Extended Data](ext_articles/40223deb.ext.json)
+
+---
+
+### No funds allocated for public service salary increase, govt. says
+
+*2024-10-29 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103004/no-funds-allocated-for-public-service-salary-increase-govt-says) · `en`
+
+Cabinet Spokesman and Minister Vijitha Herath confirmed that no funds have been allocated to increase salaries for public sector employees, contrary to the previous government’s announcements.
+
+Minister Herath cited findings from a report by Mr. Udaya R. Seneviratne, indicating that since January, no financial provision has been made for salary increments within the public sector. “We haven’t even assessed if funds are available for this purpose,” he noted.
+
+Herath further emphasized that although the Cabinet of Ministers can make policy decisions, there is currently no fiscal pathway to implement them.
+
+In 2024, a government directive was issued to adjust public service allowances and pension contributions. However, according to the minister, any relief tied to living expenses remains limited to an interim payment of Rs. 5,000 per month until March 2025, leaving the promised increase in question.
+
+...
+
+[Data](articles/6f68d45f.json)
+
+[Extended Data](ext_articles/6f68d45f.ext.json)
 
 ---
 
@@ -1544,6 +1622,8 @@ The government is being very rational in its actions whether in dealing with the
 
 [Data](articles/69c17ede.json)
 
+[Extended Data](ext_articles/69c17ede.ext.json)
+
 ---
 
 ### Sri Lanka price controllers investigate rice mill stocks amid Rs65 food tax
@@ -2195,111 +2275,5 @@ Assistant Managing Director of CHEC Port City Colombo (Private) Limited Xian Nan
 [Data](articles/c1d2935a.json)
 
 [Extended Data](ext_articles/c1d2935a.ext.json)
-
----
-
-### Probation propaganda to use digital screens
-
-*2024-10-28 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202661) · `si`
-
-Elections Commission bans digital screen ads, calls them illegal propaganda. Candidates must report abuse to Election Office or police. 869 election complaints filed, 723 resolved.
-
-🟩
-
-The Elections Commission says that it is illegal to use digital curtains in any district or town.
-
-Elections Commissioner General Saman Sri Ratnayake said that such an advertising took place to inform the nearest police station.
-
-"If you are conducting some kind of propaganda activity in your district, please investigate the nearest police station. This is a total illegal act. This is forcibly doing propaganda to people. Prohibited by paying or displaying. Cause they are like displaying a pole of a public place. So it is completely prohibited to promote it. Therefore, notice of advertisements on digital screens is fully illegal. Courtesy has taken a similar election in the above election. We hope to direct the judiciary accordingly. "
-
-If a candidate is acting in the abusive influence, he also complained to the Election Office or police station in the district.
-
-Meanwhile, the number of election complaints received in connection with the parliamentary election has increased to 869.
-
-...
-
-[Data](articles/ee27f2bd.json)
-
-[Extended Data](ext_articles/ee27f2bd.ext.json)
-
----
-
-### Police notice of terrorist attacks
-
-*2024-10-28 20:56:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-தாக்குதல்-குறித்து-பொலிஸார்-வெளியிட்ட-அறிவிப்பு/175-346230) · `ta`
-
-Foreign tourists suspected of planning terrorist attacks in Sri Lanka's highlands. Three arrests made, more suspects identified. Police seeking court permission to interrogate additional detainees. Investigations ongoing based on September intelligence.
-
-🟩
-
-The Terrorist Intelligence Unit has informed the Colombo Magistrate's Court that further investigations are being carried out on the basis of information that foreign tourists are planning to launch a terrorist attack targeting the highlands.
-
-The three suspects arrested in connection with the incident have been detained and interrogated, police said.
-
-Police said that information on other suspects involved in the incident was revealed during the investigation.
-
-The police have requested the court to allow many suspects in jail to investigate and record their affidavits to reveal further facts regarding the incident.
-
-Police have also announced that investigations are underway according to information available last September regarding the incident.. Remble
-
-◼️
-
-[Data](articles/9a5954bb.json)
-
-[Extended Data](ext_articles/9a5954bb.ext.json)
-
----
-
-### Who is the retired officer who gave the Channel 4 Channel?
-
-*2024-10-28 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202660) · `si`
-
-Retired Supreme Court Judge SI de Alwis leads inquiry into Easter attacks. Former President Ranil Wickremesinghe appointed to investigate. Retired High Court Judge ANJ Herade Gammanpila chairs committee. Report released, denies military intelligence claims. Government denies allegations, threatens legal action. Channel 4 accused of promoting LTTE ideology. Inquiry aims to identify responsible officials and punish them.
-
-🟩
-
-Purein JHU leader Udaya Gammanpila says that a powerful post holding a powerful post to the intelligence reports of the Easter attack on the Easter attack is a powerful position in the current government.
-
-Retired Supreme Court Judge SI. He made these comments at a press conference held today (28).
-
-Former President Ranil Wickremesinghe, who was appointed to look into the Passover attack on the terrorist attack. Imam and Pension High Court Judge ANJ. Herade Gammanpila stated that if the present President Anura Kumara Dissanayake is not published in the current President Anura Kumara Dissanayake, the present President of President Anura Kumara Dissanayake said he would make them known.
-
-As a result, retired High Court Judge ANJ as the first step. Committees headed by de Alwis was declared open by Gammanpila on the 21st.
-
-Then Its second step as a second step, the Retired Supreme Court Judge SIV. The publication of the Imam Committee report was made this morning.
-
-...
-
-[Data](articles/a39a3faa.json)
-
-[Extended Data](ext_articles/a39a3faa.ext.json)
-
----
-
-### The government has a large loss to the government due to the shortcomings of procurement
-
-*2024-10-28 20:07:32* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසම්පාදනයේ-අඩුපාඩු-නිසා-රජයට-විශාල-අලාභයක්/11-412732) · `si`
-
-Government faces significant losses due to flawed procurement processes. President calls for strengthening National Procurement Commission to improve transparency and reduce corruption opportunities. Discussion focuses on streamlining procurement procedures and expanding commission's authority.
-
-🟩
-
-President Anura Kumara Dissanayake said that a proper plan should be implemented to strengthen the National Procurement Commission.
-
-President Anura Kumara Dissanayake made these comments participating at a discussion held at the Presidential Secretariat today (28).
-
-President Anura Kumara Dissanayake discussed at length to the National Procedure Commission officials regarding the current procurement process and procurement process.
-
-The officials presented to the President regarding the procurement of procurement activities by existing law and guidelines.
-
-About 60% of all expenses, including government capital expenditure, should be subject to a proper procurement process, but the government has pointed out to the President that the government has been severely damaged due to the shortcomings in the procurement process.
-
-They further pointed out that there is much opportunity for corruption.
-
-...
-
-[Data](articles/371dee37.json)
-
-[Extended Data](ext_articles/371dee37.ext.json)
 
 ---

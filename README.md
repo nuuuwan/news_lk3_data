@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 13:59:29**
+As of **2024-10-29 14:13:31**
 
 ## Newspaper Stats
 
-*Scraped **52,001** Articles*
+*Scraped **52,004** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,094
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,834
+adalk | 4,835
 adaderanalk | 6,163
-tamilmirrorlk | 7,201
+tamilmirrorlk | 7,203
 virakesarilk | 8,389
 adaderanasinhalalk | 9,048
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 9,048
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,001 (100.0%) of 52,001 articles have been extended.
+52,004 (100.0%) of 52,004 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Investigation into allegations against Rohitha
+
+*2024-10-29 13:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹித-மீதான-குற்றச்சாட்டுகள்-தொடர்பில்-விசாரணை/175-346263) · `ta`
+
+Sri Lanka investigates High Commissioner Rohitha Bogollagama UK allegations. Cabinet spokesperson denies misuse of funds for car purchase. Diplomats working abroad not immediately affected, those appointed politically may face recovery.
+
+🟩
+
+Cabinet Spokesperson Minister Vijitha Herath today said that investigations have been launched on the allegations of Sri Lankan High Commissioner Rohitha Bogollagama to the United Kingdom.
+
+The Minister made clarifying reports on the car used by the High Commissioner and said that the car was purchased under the fund of the High Commissioner and that no funds were spent for it.
+
+However, the minister said that none of the Sri Lankan diplomats working abroad would be immediately recovered, but the diplomats appointed by political faith would be recovered in a timely manner.
+
+◼️
+
+[Data](articles/099b1a3b.json)
+
+[Extended Data](ext_articles/099b1a3b.ext.json)
+
+---
+
+### Severe Protection to 2 Courts by Mysterious Person Information
+
+*2024-10-29 13:32:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மர்ம-நபரின்-தகவலால்-2-நீதிமன்றங்களுக்கு-கடும்-பாதுகாப்பு/71-346262) · `ta`
+
+Jaffna-Chavakachcheri Magistrate's Court under severe protection due to threat. Police and STF deployed since Tuesday. Public allowed entry after thorough screening.
+
+🟩
+
+Police and Special Task Force (STF) have been mobilized from Tuesday morning (29) at the Jaffna - Chavakachcheri Magistrate's Court Complex.
+
+According to police sources, the police telephone that the Chavakachcheri Magistrate's Court is going to attack the mysterious person.
+
+Subsequently, the public has been granted permission to participate in court proceedings after heavy trials.
+
+◼️
+
+[Data](articles/bcb0018b.json)
+
+[Extended Data](ext_articles/bcb0018b.ext.json)
+
+---
 
 ### Immediate measures to resolve salary disparities of Teacher Advisors’ Service, court told
 
@@ -389,6 +433,26 @@ Sri Lanka -Indian fishermen talks have begun with the delegation of the Ministry
 [Data](articles/01adaeb6.json)
 
 [Extended Data](ext_articles/01adaeb6.ext.json)
+
+---
+
+### Kataragama becomes more beautiful
+
+*2024-10-29 12:12:47* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-තව-තවත්-ලස්සන-වෙයි/11-412736) · `si`
+
+Kataragama temple beautification project underway. Devotees' visit standards set. Sacred planting event planned. Basnayake Nilame of Ruhunu Karagama Maha Devalaya involved.
+
+🟩
+
+The banquake of the devotees visiting the sandards of the devotees visiting the Greater of the Devalaya on the worship of the Maha Devalaya.
+
+The program will be planted in the sacred place of the Kataragama Temple in the event, including the Basnayake Nilame of the Historic Ruhunu Karagama Maha Devalaya.
+
+◼️
+
+[Data](articles/7d48a07c.json)
+
+[Extended Data](ext_articles/7d48a07c.ext.json)
 
 ---
 
@@ -2207,73 +2271,5 @@ Former President Ranil Wickremesinghe says President Anura Kumara Dissanayake sh
 [Data](articles/ef23187f.json)
 
 [Extended Data](ext_articles/ef23187f.ext.json)
-
----
-
-### කොළඹ වාණිජ නගර සංවර්ධන ව්‍යාපෘතියේ ප්‍රගතිය පිළිබඳ සාකච්ඡාවක්
-
-*2024-10-28 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202664) · `si`
-
-Colombo Commercial Development Project update: Discussion on progress and future economic plans. Port City Calambo Company donated Rs. 300 million for flood relief efforts.
-
-🟩
-
-President of the President Dr. Nandika Sanath and Managing Director of Port City Calambo Company was held at the Presidential Secretariat this afternoon.
-
-The discussion of the progress of the Colombo Commercial Development Project has been discussed at length and is also concerned about new plans for future economic challenges.
-
-ගංවතුරෙන් විපතට පත් ජනතාව වෙනුවෙන් පෝර්ට් සිටි කලම්බෝ සමාගම රුපියල් මිලියන තුනක මුදල් පරිත්‍යාගයක් ද මෙහිදී සිදු කෙරිණි.
-
-◼️
-
-[Data](articles/151da9a3.json)
-
-[Extended Data](ext_articles/151da9a3.ext.json)
-
----
-
-### A clue about the new electricity tariff?
-
-*2024-10-28 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202663) · `si`
-
-New electricity tariff update: CEB proposes 4-11% reduction. Government to review and potentially lower rates. CEB profits may impact final decision.
-
-🟩
-
-The Public Utilities Commission states that the Ceylon Electricity Board (CEB) recently submitted to the Sri Lanka Public Corruption to the Sri Lanka Power Board.
-
-A total of the percentage of the Ceylon Electricity Board (CEB) stated that the percentage of the Ceylon Electricity Board (CEB) should be reduced by 4 to 11 percent.
-
-Accordingly, steps will be taken to study the proposals of the Ceylon Electricity Board and promptly.
-
-Meanwhile, the government is able to reduce electricity tariffs in relation to the revision of the electricity tariffs.
-
-However, as the Ceylon Electricity Board (Ceylon Electricity Board) has been profit, the Ceylon Electricity Board (CEB) has joined a media briefing today, "Sanjeewa Dhammika said.
-
-◼️
-
-[Data](articles/ac4eab62.json)
-
-[Extended Data](ext_articles/ac4eab62.ext.json)
-
----
-
-### Discussion held on advancements in Colombo Port City project
-
-*2024-10-28 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102991/discussion-held-on-advancements-in-colombo-port-city-project) · `en`
-
-A meeting was held at the Presidential Secretariat today (28) between Secretary to the President Dr. Nandika Sanath Kumanayake, and Managing Director of CHEC Port City Colombo (Private) Limited Xiong Hongfeng.
-
-The discussions centered on the progress of the Colombo Commercial City development project, with a focus on new strategies to address anticipated economic challenges, the President’s Media Division (PMD) said.
-
-In a display of corporate social responsibility, CHEC Port City Colombo (Private) Limited also announced a donation of Rs. 03 million to aid those affected by recent flooding.
-
-Assistant Managing Director of CHEC Port City Colombo (Private) Limited Xian Nan (Neo) was also present at the meeting.
-
-◼️
-
-[Data](articles/c1d2935a.json)
-
-[Extended Data](ext_articles/c1d2935a.ext.json)
 
 ---

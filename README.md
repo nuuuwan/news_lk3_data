@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 14:26:01**
+As of **2024-10-29 14:39:59**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 9,050
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,006 (100.0%) of 52,008 articles have been extended.
+52,008 (100.0%) of 52,008 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
 
-### ගම්මන්පිලගේ දෙවැනි පාස්කු හෙළිදරව්වත් රජය ප්‍රතික්ෂේප කරයි
+### Government rejects the second Passover revelations of Gammanpila
 
 *2024-10-29 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202691) · `si`
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතාගේ දෙවැනි පාස්කු හෙළිදරව්ව තුළින් රවී සෙනෙවිරත්න සහ ශානි අබේසේකර යන මහත්වරුන්ව ඉලක්ක කර ඇති බව පැහැදිලි වන බව කැබිනට් මාධ්‍ය ප්‍රකාශක, අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+Sri Lanka government rejects second Passover revelations about former MP Udaya Gammanpila. Minister denies involvement, calls it political issue. Government claims no investigation conducted and would not have acted similarly.
 
-අද (29) පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේ දී මාධ්‍යවේදියෙකු විසින් ඉදිරිපත් කළ ප්‍රශ්නයකට පිළිතුරු දෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
+🟩
 
-මෙහිදී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍ය විජිත හේරත් මහතා පවසා සිටියේ, චැනල් 4 නාලිකාවේ සිදුවීම සම්බන්ධයෙන් වූ වාර්තාව වැරදි බවට හිටපු ආරක්ෂක ලේකම්වරයා විසින් නිවේදනයක් නිකුත් කරමින් පැවසීම පවා දේශපාලනික කාරණයක් බවය.
+Minister Vijitha Herath says that Ravi Seneviratne and Shani Abeysekara is targeting the second Passover revelation of former MP Udaya Gammanpila.
 
-පරීක්ෂණයක් සිදුනොකර එවැන්නක් පැවසුවේ යම් පිරිසක් බේරාගැනීමේ අරමුණින් බව ද පැවසු අමාත්‍යවරයා, කිසිවිටෙකත් එවැනි ක්‍රියාවක් වත්මන් ආණ්ඩුව සිදුනොකරන බව ද පැවසීය.
+The Minister was responding to a question by a journalist at the meeting of the cabinet decisions today (29).
 
-ප්‍රශ්නය - ඔබතුමා ගම්මන්පිල මහත්තයා විසින් යොමුකළ පළමු වාර්තාව පිළිගන්නේ නෑ කිව්වා. දෙවැනි වාර්තාව පිළිගන්නවා ද ?
+Speaking further, Minister Vijitha Herath said that it was a political issue that the report was wrong for Channel 4 channel.
+
+The Minister said that the inquiry was not conducted and said that the present government would never have done such an act.
+
+Q. Thereafter, you do not accept the first report on Gammanpili. Will he accept the second report?
 
 ...
 
 [Data](articles/c3afeb6e.json)
+
+[Extended Data](ext_articles/c3afeb6e.ext.json)
 
 ---
 
@@ -111,6 +117,8 @@ Former Minister Johnston Fernando, was arrested by the CID over an incident of a
 ◼️
 
 [Data](articles/cce0b076.json)
+
+[Extended Data](ext_articles/cce0b076.ext.json)
 
 ---
 

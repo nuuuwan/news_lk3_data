@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 02:39:56**
+As of **2024-10-30 02:58:19**
 
 ## Newspaper Stats
 
-*Scraped **52,114** Articles*
+*Scraped **52,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,848
 adaderanalk | 6,174
-tamilmirrorlk | 7,224
+tamilmirrorlk | 7,225
 virakesarilk | 8,420
 adaderanasinhalalk | 9,067
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,114 (100.0%) of 52,114 articles have been extended.
+52,115 (100.0%) of 52,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### The purpose is to create economic independence
+
+*2024-10-30 02:30:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-சுயாதிகாரத்தை-ஏற்படுத்துவதே-நோக்கம்/175-346297) · `ta`
+
+Economic independence goal: Government supports exporters, creates single service window, boosts digitalization, reduces energy costs, promotes foreign investment, restructures embassy services.
+
+🟩
+
+President Anura Kumara Dissanayake said the government's aim was to create an economic independence in the country and that it would expect the full support of our exporters.
+
+The President made this statement at a discussion held at the Presidential Office yesterday with the Exports Development Board's top officials and exporters.
+
+The President pointed out the importance of creating a single service window by integrating other state agencies and Sri Lankan customs to ease export trade and also highlighted the importance of increasing the effectiveness of digitalization and export.
+
+President Anura Kumara Dissanayake said the government has focused on issues such as significant reduction of energy prices, promoting foreign investment, and restructuring embassy services to enter the international market.
+
+The President added that the government's expectation is to fulfill all these aims in a very short time and expect a huge contribution to all.. (A)
+
+◼️
+
+[Data](articles/3390124f.json)
+
+[Extended Data](ext_articles/3390124f.ext.json)
+
+---
 
 ### In the election to protect Tamil representation -. Kukadasan
 
@@ -2471,27 +2497,5 @@ However, the minister said that none of the Sri Lankan diplomats working abroad 
 [Data](articles/099b1a3b.json)
 
 [Extended Data](ext_articles/099b1a3b.ext.json)
-
----
-
-### Severe Protection to 2 Courts by Mysterious Person Information
-
-*2024-10-29 13:32:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மர்ம-நபரின்-தகவலால்-2-நீதிமன்றங்களுக்கு-கடும்-பாதுகாப்பு/71-346262) · `ta`
-
-Jaffna-Chavakachcheri Magistrate's Court under severe protection due to threat. Police and STF deployed since Tuesday. Public allowed entry after thorough screening.
-
-🟩
-
-Police and Special Task Force (STF) have been mobilized from Tuesday morning (29) at the Jaffna - Chavakachcheri Magistrate's Court Complex.
-
-According to police sources, the police telephone that the Chavakachcheri Magistrate's Court is going to attack the mysterious person.
-
-Subsequently, the public has been granted permission to participate in court proceedings after heavy trials.
-
-◼️
-
-[Data](articles/bcb0018b.json)
-
-[Extended Data](ext_articles/bcb0018b.ext.json)
 
 ---

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 17:24:13**
+As of **2024-10-29 17:41:10**
 
 ## Newspaper Stats
 
-*Scraped **52,046** Articles*
+*Scraped **52,048** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 413
 colombotelegraphcom | 528
-bbccomsinhala | 529
+bbccomsinhala | 530
 islandlk | 3,095
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,840
 adaderanalk | 6,169
-tamilmirrorlk | 7,213
+tamilmirrorlk | 7,214
 virakesarilk | 8,401
 adaderanasinhalalk | 9,055
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,055
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,042 (100.0%) of 52,046 articles have been extended.
+52,047 (100.0%) of 52,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### “The Prime Minister's opinion is false”
+
+*2024-10-29 17:11:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமரின்-கருத்து-பொய்யானது/175-346275) · `ta`
+
+Former minister accuses PM of misleading public on salary hike claims.
+
+🟩
+
+Former minister Kanjana Wijesekera has accused Prime Minister Harini Amarasuriya of a recent comment on the proposal of the state sector's salary.
+
+Kanjana Wickremesinghe has posted on his X page that Ranil Wickremesinghe's former government has taken all necessary measures to recognize the salary hike for public servants since January 2025.
+
+“The approval of the Cabinet was appointed to appoint a committee and to evaluate the state sector and pay hikes by May 2024. The group met with trade unions and shareholders and discussed public sector issues. The recommendations of the committee were handed over to the President and submitted to the Cabinet and approved by August 2024, ”he said.
+
+He added that the Cabinet approved in August 2024 to allocate the necessary funds for the 2025 budget proposals.
+
+Kanchana Wijesekera said that the committee included the officials of the Treasury, Budget Department, Management Services and other required shareholders.
+
+...
+
+[Data](articles/600402d6.json)
+
+[Extended Data](ext_articles/600402d6.ext.json)
+
+---
 
 ### Businessman barred from sharing defamatory info against ex-State Minister on WhatsApp
 
@@ -246,6 +272,42 @@ By interacting with these fraudulent messages or clicking on embedded links, ind
 
 *2024-10-29 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197414) · `ta`
 
+This text appears to be a speech or statement by President Anura Kumara Dissanayake of Sri Lanka. Here's a summary of the key points:
+
+
+
+1. The President emphasizes the need to transform politics into a service for the people, rather than a business.
+
+
+
+2. He criticizes current politicians who prioritize personal gain over national interests and public service.
+
+
+
+3. The President outlines plans to digitize government services, reduce privileges and costs for MPs and former presidents, and combat corruption.
+
+
+
+4. He promises to focus on education, agriculture, and economic development to improve people's lives.
+
+
+
+5. The speech calls for a free and fair election on November 14th to bring in newcomers who represent the National People's Power movement.
+
+
+
+6. The President addresses criticism that the election process is exhausting, arguing that this is a result of efforts to overcome obstacles left by previous rulers.
+
+
+
+7. He emphasizes the importance of mobilizing support for the upcoming election and invites citizens to participate in this effort.
+
+
+
+The overall tone is one of reform-minded leadership, criticizing the status quo and promising significant changes to governance and politics in Sri Lanka.
+
+🟩
+
 When we sell a GivR coat in India, our people are in the queues to buy five thousand rupees, buy ten kilos of rice, get the assurance of the land, and make the stability of the land.. In a short time, we will completely change all these and create a close -way public service that is close to citizens. President Anura Kumara Dissanayake said we show how and who to normalize the country.
 
 President Anura Kumara Dissanayake said this while addressing a meeting in Kalutara.
@@ -262,21 +324,31 @@ Opponents say on platforms to send experienced people to parliament. Those who h
 
 ---
 
-### ஜெயம் ரவி நடிக்கும் 'பிரதர்' படத்தின் முன்னோட்டம் வெளியீடு
+### Preview release of 'Brother' starring Jayam Ravi
 
 *2024-10-29 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/197415) · `ta`
 
-ஜெயம் ரவி நடிப்பில் தயாராகி தீபாவளி திருநாளன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகும் 'பிரதர்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+"Brother" movie preview release Diwali Jayam Ravi Priyanka Arul Mohan Harris Jayaraj director M. Jaime Ravi cast preview event Chennai
 
-இயக்குநர் எம். ராஜேஷ் இயக்கத்தில் உருவாகி இருக்கும் 'பிரதர்' எனும் திரைப்படத்தின் ஜெயம் ரவி, பிரியங்கா அருள் மோகன், பூமிகா சாவ்லா, விடிவி கணேஷ், நட்டி என்கிற நட்ராஜ் , அச்யுத் குமார் , சரண்யா பொன்வண்ணன்,  சீதா,  எம். எஸ். பாஸ்கர் ,சுரேஷ் சக்கரவர்த்தி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-விவேகானந்த் சந்தோஷம் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஹாரிஸ் ஜெயராஜ் இசையமைத்திருக்கிறார். அக்கா ,  தம்பி இடையேயான உறவை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்கிரீன் சீன் என்டர்டெய்ன்மென்ட் பிரைவேட் லிமிடெட் நிறுவனம் தயாரித்திருக்கிறது.‌
+The preview of the movie 'Brother' will be released on Diwali on Diwali starring Jayam Ravi.
 
-அண்மையில் டுபாயில் படத்தினை விளம்பரப்படுத்தும் போது ரசிகர்கள் முன்னோட்டத்தை எப்போது வெளியிடுவீர்கள்? என கேட்டனர் இதனால் படக் குழுவினர் முன்னோட்டத்தை வெளியிட்டுள்ளனர். இதற்காக சென்னையில் படக் குழுவினர் பங்கு பற்றிய பிரத்யேக முன்னோட்ட வெளியீட்டு நிகழ்வும் நடைபெற்றது.
+Director M. Jaime Ravi, Priyanka Arul Mohan, Bhumika Chawla, VTV Ganesh, Natraj, Ashyud Kumar, Saranya Ponvannan, Sita. S.. Bhaskar, Suresh Chakraborty and many others have been cast.
+
+Harris Jayaraj has composed the film, which has been recorded by Vivekanand Santosh.. The film is being prepared for the relationship between the sister and the brother.
+
+When will the fans publish the preview when you recently advertise the film in Dubai?The film crew has released the preview. For this purpose, a special preview of the film crew in Chennai was held.
+
+Speaking at the event, Rajesh, the director of the film, said, “Jayam Ravi and I have to work together before.
+
+But I could not work together for various reasons, then this' Brother: I told him the story of the film. We will listen to the story and work together. Then I described the story of the film to producer Sundar Arumugam.
 
 ...
 
 [Data](articles/d0f388dd.json)
+
+[Extended Data](ext_articles/d0f388dd.ext.json)
 
 ---
 
@@ -332,17 +404,23 @@ As the deputy leader of the organization, was the deputy leader of the Hezbollah
 
 ---
 
-### 2020 ஆம் ஆண்டு முதல் இதுவரை 570 ரயில் தடம்புரள்வு சம்பவங்கள் பதிவு
+### 570 railway incidents have been recorded since 2020
 
 *2024-10-29 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197411) · `ta`
 
-2020 ஆம் ஆண்டு முதல் இதுவரை ரயில் மார்க்கத்தில் மற்றும் ரயில் பழுதுபார்க்கும் இடம் ஆகியவற்றில் மொத்தம் 570 ரயில் தடம்புரள்வு சம்பவங்கள் பதிவாகியுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+Since 2020, 570 railway incidents have occurred. The breakdown: 98 in 2020, 115 in 2021, 132 in 2022, 139 in 2023, and 86 in 2024.
 
-அதன்படி, 2020 ஆம் ஆண்டு  98, 2021 ஆம் ஆண்டு 115 , 2022 ஆம் ஆண்டு  132 , 2023 ஆம் ஆண்டு 139, 2024 ஆம் ஆண்டு 86 சம்பவங்களும் பதிவாகியுள்ளன.
+🟩
+
+A total of 570 railways have been reported on the railway and the railway repairs since 2020, the Railway Department said.
+
+Accordingly, 98 in 2020, 115 in 2021, 132 in 2022, 139 in 2023 and 86 in 2024.
 
 ◼️
 
 [Data](articles/654d1321.json)
+
+[Extended Data](ext_articles/654d1321.ext.json)
 
 ---
 
@@ -908,19 +986,29 @@ Subsequently, the public has been granted permission to participate in court pro
 
 ---
 
-### மர்ம நபரின் தகவலால்  நீதிமன்றுக்கு பாதுகாப்பு
+### Protection to the court by the information of the mysterious person
 
 *2024-10-29 13:32:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மர்ம-நபரின்-தகவலால்-நீதிமன்றுக்கு-பாதுகாப்பு/71-346262) · `ta`
 
-யாழ்ப்பாணம் - சாவகச்சேரி நீதிவான் நீதிமன்ற வளாகத்தில் செவ்வாய்க்கிழமை (29) காலை முதல் பொலிஸ், மற்றும் விசேட அதிரடிப் படையினர் குவிக்கப்பட்டு பாதுகாப்பு அதிகரிக்கப்பட்டுள்ளது.
+Here's a 200-character summary:
 
-சாவகச்சேரி நீதிவான் நீதிமன்றத்திற்கு தாக்குதல் நடத்தப்பட போவதாக பொலிஸாரின் தொலைபேசிக்கு மர்ம நபர் வழங்கிய தகவலுக்கு அமைய குறித்த பாதுகாப்பு வழங்கப்பட்டுள்ளதாக பொலிஸ் தகவல்கள் தெரிவிக்கின்றன.
 
-இதனையடுத்து கடும் சோதனைகளுக்கு பின்னர் நீதிமன்ற நடவடிக்கைகளில் பங்கேற்க பொதுமக்களுக்கு அனுமதி கிடைக்கப்பட்டுள்ளது.
+
+Police and STF deployed at Jaffna Chavakachcheri Magistrate's Court. Mysterious person threat reported. Public allowed entry after security checks.
+
+🟩
+
+Police and Special Task Force (STF) have been mobilized from Tuesday morning (29) at the Jaffna - Chavakachcheri Magistrate's Court Complex.
+
+According to police sources, the police telephone that the Chavakachcheri Magistrate's Court is going to attack the mysterious person.
+
+Subsequently, the public has been granted permission to participate in court proceedings after heavy trials.
 
 ◼️
 
 [Data](articles/fd2d4383.json)
+
+[Extended Data](ext_articles/fd2d4383.ext.json)
 
 ---
 
@@ -1543,6 +1631,40 @@ The US dollar purchasing price was 289.0815 rupees and the sales price were 298.
 [Data](articles/f4aa8301.json)
 
 [Extended Data](ext_articles/f4aa8301.ext.json)
+
+---
+
+### What happened in the presidential election in the country?
+
+*2024-10-29 11:37:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdrd02xzy18o) · `si`
+
+Here's a 200-character summary:
+
+
+
+Presidential election in Sri Lanka: Ayiyathurai not contesting parliamentary election; Pakiyaselvam Ariyaratne common candidate; UPFA opposed decision; Parliament dissolved after election; Ariyaratne denies involvement in national list seat; Tamil parties focus on Batticaloa district representation.
+
+🟩
+
+The parliamentary electorate is focused on major candidates who have been presented to the last presidential election.
+
+In such a situation, it is noteworthy that the Paraikiyanattairan was not present at the general election.
+
+Ayiyanaththiran, who said that the people's problems in the North and East, is not contesting the parliamentary election from any party or independent group.
+
+Pakiyaselwam Ariyantrairan is a member of the Batticaloa District, representing the Batticaloa District, the Batticaloa district.
+
+Before he was born on 1 February 1955, Ayiyanthirane was born in the politics of the Department of Animal Production and Health.
+
+At the 2004 parliamentary election, he was elected to Parliament for the first time in the 2010 parliamentary election, representing the TNA representation of the Batticaloa District.
+
+The 2015 and 2020 parliamentary elections were also present on the Batticaloa District, he cannot be won by the parliamentary cases.
+
+...
+
+[Data](articles/bfceeb64.json)
+
+[Extended Data](ext_articles/bfceeb64.ext.json)
 
 ---
 
@@ -2293,47 +2415,5 @@ Among those arrested include a former member of the Local Government. However, t
 [Data](articles/8718d911.json)
 
 [Extended Data](ext_articles/8718d911.ext.json)
-
----
-
-### Laugfs Gas to resolve shortage within next few days
-
-*2024-10-29 09:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102995/laugfs-gas-to-resolve-shortage-within-next-few-days-) · `en`
-
-Laugfs Gas PLC has announced that the current shortage of Laughs gas cylinders in the market will be resolved within the next two days.
-
-The Chairman of Laugfs Gas PLC, Dr. W.K.H. Wegapitiya stated that several regions of the island are experiencing a gas shortage due to distribution issues.
-
-He mentioned that due to the conflict situation in the Middle East the gas stocks imported by the Laughs Company were delayed, and the main Laugfs terminal was flooded.
-
-However, yesterday (28) a ship carrying a cargo of LP gas for Laugfs had arrived at Hambantota port.
-
-Accordingly, the Chairman of Laugfs Gas PLC, Dr. W.K.H. Wegapitiya stated that gas supplies will be distributed across the island within the next two to three days.
-
-◼️
-
-[Data](articles/19231335.json)
-
-[Extended Data](ext_articles/19231335.ext.json)
-
----
-
-### Emergency Warning for people who use Wi-Fi
-
-*2024-10-29 09:16:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Wi-Fi-பயன்படுத்தும்-மக்களுக்கு-அவசர-எச்சரிக்கை/175-346244) · `ta`
-
-Sri Lanka Computer Emergency Response Unit warns about risks of using free Wi-Fi in public places. Personal information theft reported. Users advised to exercise caution.
-
-🟩
-
-The Sri Lanka Computer Emergency Response Unit said people should be very careful when using free Wi-Fi in public places.
-
-Nirosh Ananda has said that his section has received several complaints regarding the theft of personal information when using Wi-Fi in such places.. Remble
-
-◼️
-
-[Data](articles/2cd61e8a.json)
-
-[Extended Data](ext_articles/2cd61e8a.ext.json)
 
 ---

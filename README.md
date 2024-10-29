@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 04:40:33**
+As of **2024-10-30 04:58:44**
 
 ## Newspaper Stats
 
-*Scraped **52,116** Articles*
+*Scraped **52,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 530
 bbccomsinhala | 530
 islandlk | 3,097
 economynextcom | 3,170
-dailyftlk | 3,545
+dailyftlk | 3,549
 dailymirrorlk | 4,733
 adalk | 4,848
 adaderanalk | 6,174
@@ -26,11 +26,89 @@ adaderanasinhalalk | 9,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,116 (100.0%) of 52,116 articles have been extended.
+52,120 (100.0%) of 52,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### OQ Trading gets contract to supply LPG for Litro in 2025
+
+*2024-10-30 04:19:37* · [`dailyftlk`](https://www.ft.lk/business/OQ-Trading-gets-contract-to-supply-LPG-for-Litro-in-2025/34-768574) · `en`
+
+The Cabinet of Ministers on Monday approved awarding the contract to OQ Trading Ltd., for the supply of Liquefied Petroleum Gas (LPG) to Litro Gas Lanka Ltd., in 2025.
+
+Speaking during the post-Cabinet meeting media briefing yesterday, Cabinet Spokesman and Minister Vijitha Herath stated that tenders had been invited under the single stage double lot system following the international competitive bidding system for the supply of LPG to Litro Gas Lanka Limited for the year 2025.
+
+“Only two suppliers, namely, Siam Gas Trading Pte Ltd., and OQ Trading Ltd., had submitted bids for this purpose, while the bid submitted by Siam Gas Trading was rejected,” he said.
+
+The decision was made based on the recommendations of the Standing Procurement Committees appointed by the Cabinet, recognising OQ Trading Ltd., as the substantially responsive bidder.
+
+◼️
+
+[Data](articles/e557fbd1.json)
+
+[Extended Data](ext_articles/e557fbd1.ext.json)
+
+---
+
+### SC allows Ranil to be named as respondent in FR petition against Deshabandu’s appointment as IGP
+
+*2024-10-30 04:05:46* · [`dailyftlk`](https://www.ft.lk/news/SC-allows-Ranil-to-be-named-as-respondent-in-FR-petition-against-Deshabandu-s-appointment-as-IGP/56-768565) · `en`
+
+The Supreme Court has granted permission for former President Ranil Wickremesinghe to be named as a respondent in a high-profile fundamental rights petition challenging the appointment of Senior Deputy Inspector General (DIG) Deshbandu Tennakoon as the Inspector General of Police (IGP).
+
+The petition, originally filed in July by the Young Journalists Association (YJA) has raised concerns over the transparency and legitimacy of Tennakoon’s selection process and questions his suitability for the role due to his alleged past conduct.
+
+...
+
+[Data](articles/82759cd3.json)
+
+[Extended Data](ext_articles/82759cd3.ext.json)
+
+---
+
+### ECSL submits report to AG amid polling date legal challenge
+
+*2024-10-30 04:03:52* · [`dailyftlk`](https://www.ft.lk/news/ECSL-submits-report-to-AG-amid-polling-date-legal-challenge/56-768564) · `en`
+
+The Election Commission has said that a comprehensive report has been submitted to the Attorney General’s Department regarding the activities carried out by it so far in relation to the 2024 Parliamentary election.
+
+The commission has presented these facts in response to the fundamental rights petition filed in the Supreme Court regarding the date of the election. The Attorney General’s Department had requested observation reports from the Election Commission regarding the date of the general election.
+
+According to these observation reports, the department has assured it will present its observations to the Supreme Court on 4 November.
+
+A fundamental rights petition was filed this month before the Supreme Court requesting a ruling that the decision to hold the upcoming parliamentary elections on 14 November is against the Constitution.
+
+...
+
+[Data](articles/aaecbafd.json)
+
+[Extended Data](ext_articles/aaecbafd.ext.json)
+
+---
+
+### Govt. launches probe into UK High Commissioner’s expenses amid scrutiny of diplomatic appointments
+
+*2024-10-30 04:03:29* · [`dailyftlk`](https://www.ft.lk/news/Govt-launches-probe-into-UK-High-Commissioner-s-expenses-amid-scrutiny-of-diplomatic-appointments/56-768563) · `en`
+
+Cabinet Spokesman and Minister Vijitha Herath yesterday said the Government has initiated an investigation into alleged spending by the High Commissioner to the United Kingdom Rohitha Bogollagama.
+
+Responding to queries posed during the weekly post-Cabinet meeting media reports concerning a vehicle reportedly used by Bogollagama, Herath clarified that the vehicle was purchased with the High Commissioner’s own funds, not with Government resources.
+
+“We have seen the reports and received several complaints as well. We are looking into it,” he added.
+
+The Minister confirmed that while no immediate recalls of overseas diplomats are planned, politically appointed diplomats may be recalled in due course as part of a broader evaluation process.
+
+“Diplomatic changes will occur after these commitments have been fulfilled in a gradual manner,” the Cabinet Spokesman assured.
+
+...
+
+[Data](articles/3456feb3.json)
+
+[Extended Data](ext_articles/3456feb3.ext.json)
+
+---
 
 ### The purpose is to create economic independence
 
@@ -2409,91 +2487,5 @@ Q. Thereafter, you do not accept the first report on Gammanpili. Will he accept 
 [Data](articles/c3afeb6e.json)
 
 [Extended Data](ext_articles/c3afeb6e.ext.json)
-
----
-
-### Dilith says the differences are expected
-
-*2024-10-29 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202690) · `si`
-
-Dilith Jayaweera criticizes President Anura Kumara's policy, calling for avoiding unhealthy issues. He warns against breaking laws and setting time bombs. Meanwhile, Jayaweera chairs party meetings on organizer appointments.
-
-🟩
-
-Dilith Entrepreneur Entrepreneurship Dilith Jayaweera says that the President should avoid implementing the unhealthy issues mentioned in his policy statement.
-
-"Now Anura Kumara President has presented a 260-page book that gave a lot of pages promised. Now you have the book. The book contains page 230. There is also the book how to bring the war heroes to the Denyy. Then we say that Mr. Minister Mr. Kumara's friend said that he would put it to the friend, you don't have to do that you should be afraid of the opposition Anura.. Anura Kumara knows that he cannot hold the book more than 30 days. He was thrown into Poyakin for the day. The constitutional voting falls into the Poya. One day before the supreme law of the country was broken and brought about the supreme law in Sri Lanka. Time bomb is set to 30 days. Then there is a defeat in the world if they are elected. That's why you have suddenly secure. "
-
-...
-
-[Data](articles/46bf0436.json)
-
-[Extended Data](ext_articles/46bf0436.ext.json)
-
----
-
-### Absolutely on the activities of tourists
-
-*2024-10-29 14:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-செயற்பாடுகள்-குறித்து-அவதானம்/175-346264) · `ta`
-
-Sri Lankan police investigate Israeli tourists engaging in unauthorized business, religious, and potentially illegal activities while on tourist visas. Authorities urge public to report violations.
-
-🟩
-
-Police are investigating complaints of tourists, including Israeli citizens, who are allegedly involved in entertainment such as business and religious practices.
-
-Cabinet spokesman Vijitha Herath said at a media briefing today (29) that some tourists may be involved in trade, religious activities or illegal activities.
-
-Herath made it clear that all foreign citizens, including the Israeli, have been registered on a tourist visa.
-
-However, he said that the authorities have urged the public to make it known if tourists are engaged in any activities beyond the tourist visa regulations.
-
-“If they are found to be involved in business, business or other activities that are considered inappropriate for those who are in Sri Lanka, the authorities have been advised to inform the authorities in the area,” he added.
-
-◼️
-
-[Data](articles/267974ae.json)
-
-[Extended Data](ext_articles/267974ae.ext.json)
-
----
-
-### 2 suspects granted bail in Johnston’s illegal luxury car case
-
-*2024-10-29 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103008/2-suspects-granted-bail-in-johnstons-illegal-luxury-car-case-) · `en`
-
-The two suspects who surrendered to the Criminal Investigations Department (CID) in connection with the case against former Minister Johnston Fernando over the illegally acquired BMW car, have been granted bail.
-
-The duo have been ordered to be released on two surety bail of Rs. 500,000 each, after being produced before Colombo Fort Magistrate’s Court.
-
-Former Minister Johnston Fernando, was arrested by the CID over an incident of an unregistered luxury vehicle allegedly belonging to him found suspiciously parked at a star-class hotel premises, and he was remanded until October 30 by Colombo Fort Magistrate.
-
-◼️
-
-[Data](articles/cce0b076.json)
-
-[Extended Data](ext_articles/cce0b076.ext.json)
-
----
-
-### No bank notes with AKD’s signature means no money printed, claims cabinet spox
-
-*2024-10-29 13:56:00* · [`economynextcom`](https://economynext.com/no-bank-notes-with-akds-signature-means-no-money-printed-claims-cabinet-spox-185444/) · `en`
-
-ECONOMYNEXT — Sri Lanka hasn’t printed new money, as evidenced by the absence of currency notes bearing the signature of the incumbent minister of finance, cabinet spokesman Vijitha Herath said.
-
-At the weekly cabinet press briefing, Herath said the government had not printed money.
-
-EconomyNext reported on Sunday that the central bank had injected 36.16 billion rupees through an overnight auction and 70 billion rupees for 7 days through a term auction of printed money (against domestic assets) in a country where the central bank is trying to collect reserves.
-
-By October 25, excess liquidity deposited in the central bank’s standing facility was 193.4 billion rupees, up from 138 billion rupees a month earlier.
-
-The column warned that the practices driving up interbank liquidity through domestic operations, if continued, especially when private credit picks up, will hit the external sector, as it had done on earlier occasions.
-
-...
-
-[Data](articles/7ec15226.json)
-
-[Extended Data](ext_articles/7ec15226.ext.json)
 
 ---

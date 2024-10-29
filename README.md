@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 00:14:40**
+As of **2024-10-30 00:25:39**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 9,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,105 (100.0%) of 52,111 articles have been extended.
+52,111 (100.0%) of 52,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
 
-### நாட்டில் பொருளாதார சுயாதிகாரமொன்றை ஏற்படுத்துவதே அரசாங்கத்தின் நோக்கமாகும் - ஜனாதிபதி
+### The purpose of the government is to create an economic independence in the country - the president
 
 *2024-10-29 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197460) · `ta`
 
-நாட்டில் பொருளாதார சுயாதிகாரமொன்றை உருவாக்குவதே அரசாங்கத்தின் நோக்கம்  எனவும், அதற்கு  எமது நாட்டு ஏற்றுமதியாளர்களின் பூரண ஆதரவை எதிர்பார்ப்பதாகவும் ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+Government aims to boost economic independence through export growth, digitalization, and infrastructure development.
 
-ஏற்றுமதி அபிவிருத்திச் சபையின் உயரதிகாரிகள் மற்றும் ஏற்றுமதியாளர்களுடன் செவ்வாய்க்கிழமை (29) ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற கலந்துரையாடலில் ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+🟩
 
-ஏற்றுமதி வர்த்தகத்தை இலகுபடுத்துவதற்காக ஏனைய அரச நிறுவனங்களையும் இலங்கை சுங்கத்தையும் ஒருங்கிணைத்து ஒற்றைச் சேவை சாளரத்தை உருவாக்குவதன் முக்கியத்துவத்தை சுட்டிக்காட்டிய ஜனாதிபதி, டிஜிட்டல் மயமாக்கல் மற்றும் ஏற்றுமதி தொடர்பான அரச நிறுவனங்களின் செயற்திறனை அதிகரிப்பதன் முக்கியத்துவத்தையும் எடுத்துரைத்தார்.
+President Anura Kumara Dissanayake said the government's aim was to create an economic independence in the country and that it would expect the full support of our exporters.
 
-அத்துடன், எரிசக்தி விலைகளை குறிப்பிடத்தக்க அளவு  குறைத்தல், வெளிநாட்டு முதலீடுகளை ஊக்குவித்தல், சர்வதேச சந்தைக்குள் பிரவேசிக்கும்  வகையில் தூதரக சேவைகளை மறுசீரமைத்தல் போன்ற விடயங்கள் தொடர்பில் அரசாங்கத்தின் கவனம் செலுத்தப்பட்டுள்ளதாக ஜனாதிபதி அநுரகுமார திசாநாயக்க குறிப்பிட்டார்.
+The President made this statement at a discussion held at the Presidential Office on Tuesday (29) with the Exports Development Board's top officials and exporters.
+
+Pointing to the importance of creating a single service window by integrating other state agencies and Sri Lankan customs to ease export trade, the President also highlighted the importance of increasing the work of state institutions relating to digitalization and export.
+
+President Anura Kumara Dissanayake said the government has focused on issues such as significant reduction of energy prices, promoting foreign investment, and restructuring embassy services to enter the international market.
+
+The President added that the government's expectation is to fulfill all these objectives in a very short time, and that everyone is looking for a huge contribution.
 
 ...
 
 [Data](articles/2819f9a6.json)
+
+[Extended Data](ext_articles/2819f9a6.ext.json)
 
 ---
 
@@ -1370,6 +1378,8 @@ Foreign buying interest was seen in Lankem Developments (up at 22.10), Dipped Pr
 
 [Data](articles/4e5ccfbb.json)
 
+[Extended Data](ext_articles/4e5ccfbb.ext.json)
+
 ---
 
 ### South Africa attacked Bangladesh in South Africa on the first day
@@ -1751,6 +1761,8 @@ The 6 and 9 month bills are available on tap after the auction.  (Colombo/Oct29/
 ◼️
 
 [Data](articles/67e27a03.json)
+
+[Extended Data](ext_articles/67e27a03.ext.json)
 
 ---
 
@@ -2382,6 +2394,8 @@ The column warned that the practices driving up interbank liquidity through dome
 
 [Data](articles/7ec15226.json)
 
+[Extended Data](ext_articles/7ec15226.ext.json)
+
 ---
 
 ### Investigation into allegations against Rohitha
@@ -2495,5 +2509,7 @@ The app, which is available for free on the Google Play Store, is designed to im
 ...
 
 [Data](articles/5ee91ea4.json)
+
+[Extended Data](ext_articles/5ee91ea4.ext.json)
 
 ---

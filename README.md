@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 05:45:46**
+As of **2024-10-29 06:45:13**
 
 ## Newspaper Stats
 
-*Scraped **51,911** Articles*
+*Scraped **51,913** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 412
+dbsjeyarajcom | 413
 colombotelegraphcom | 526
 bbccomsinhala | 527
 islandlk | 3,085
@@ -20,17 +20,45 @@ adalk | 4,826
 adaderanalk | 6,148
 tamilmirrorlk | 7,189
 virakesarilk | 8,374
-adaderanasinhalalk | 9,025
+adaderanasinhalalk | 9,026
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,911 (100.0%) of 51,911 articles have been extended.
+51,913 (100.0%) of 51,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Weather today
+
+*2024-10-29 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202666) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Showers/thunderstorms expected in Western, Sabaragamuwa, Northwestern provinces and Galle/Matara districts. Evening/night showers in other areas. Strong winds (40) reported from North/North Central/Western provinces. Public advised to prepare for potential wind/lightning issues."
+
+🟩
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces and in the Galle and Matara districts.
+
+The department states that showers or night thundershowers will occur at the evening or night in the rest of the island.
+
+From the North, North Central and Northwestern provinces, now in Trincomalee and Hambantota districts.. There are about 40 strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/e8fd8bdc.json)
+
+[Extended Data](ext_articles/e8fd8bdc.ext.json)
+
+---
 
 ### Haycarb triumphs at ARC International Awards 2024
 
@@ -525,6 +553,22 @@ Police have also announced that investigations are underway according to informa
 [Data](articles/9a5954bb.json)
 
 [Extended Data](ext_articles/9a5954bb.ext.json)
+
+---
+
+### 
+
+*2024-10-28 20:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84966) · `en`
+
+How and Why the  JVP led by Anura Dissanayake Formed  the National People’s Power 9NPP0.
+
+This is the fourth part of an extended article focusing on  Sri Lanka’s newly elected  President Anura Kumara Dissanayake. In the first part of this article , the early years of Anura’s eventful life were delved into in some detail. In the second part, AKD’s steady growth as a political leader within the Janatha Vimukthi Peramuna (JVP) was related to some extent. In the  third part, Anura’s rise to the leadership position of the JVP was recounted.  The story of  how the JVP transformed  itself  as leader of the NPP alliance  under AK Dissanayake  will be narrated in this fourth  part.
+
+...
+
+[Data](articles/39bb7267.json)
+
+[Extended Data](ext_articles/39bb7267.ext.json)
 
 ---
 
@@ -2361,43 +2405,5 @@ The first suggestion to introduce the Executive Presidency system of Government 
 [Data](articles/c1cf53d0.json)
 
 [Extended Data](ext_articles/c1cf53d0.ext.json)
-
----
-
-### Working at Rosmead Place
-
-*2024-10-28 13:17:00* · [`islandlk`](http://island.lk/working-at-rosmead-place/) · `en`
-
-Although Mr Bandaranaike had a spacious office at Senate Square in the Fort he preferred to work from 65 Rosmead Place, his home. As fancy took him, we would attend to the papers either at the dining table or in the sitting room. It was all very informal with the household activity going on around us. Sometimes the children were at home and their conversations with each other or the mother would be an interesting break from our file work.
-
-...
-
-[Data](articles/d9d4374c.json)
-
-[Extended Data](ext_articles/d9d4374c.ext.json)
-
----
-
-### Inquire the top official; Kammanpila
-
-*2024-10-28 13:14:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-அதிகாரியை-விசாரிக்கவும்-கம்மன்பில/175-346182) · `ta`
-
-Channel 4 video accuses top official of Easter attack blame. Former MP Udaya Kammanpila calls for investigation. Government denies report claims.
-
-🟩
-
-The British Media Channel 4, which aired in September 4 last year, has asked the government to investigate the person who identified himself as the top official of the government in the 2019 Easter attack in Sri Lanka.
-
-The former parliamentarian made this request while attending a special media briefing today at a special media briefing on the Channel 4 video of the committee headed by a retired High Court Judge SI Imam appointed by the former government.
-
-Udaya Kammanpila said that the government is challenging the government to appoint a committee to find out the identity of the person who has said in the video.
-
-Kammanpila said, "If the person who has been accused of blaming the intelligence agencies and military officials in the video on Channel 4 television, is still in the top position in the government, if the current government should take action against him for treason."
-
-...
-
-[Data](articles/21f6f64d.json)
-
-[Extended Data](ext_articles/21f6f64d.ext.json)
 
 ---

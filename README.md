@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 04:58:25**
+As of **2024-10-29 05:45:46**
 
 ## Newspaper Stats
 
-*Scraped **51,910** Articles*
+*Scraped **51,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,826
 adaderanalk | 6,148
-tamilmirrorlk | 7,188
+tamilmirrorlk | 7,189
 virakesarilk | 8,374
 adaderanasinhalalk | 9,025
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,909 (100.0%) of 51,910 articles have been extended.
+51,911 (100.0%) of 51,911 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -109,6 +109,32 @@ Samagi Jana Balawegaya (SJB) Colombo district candidate S.M. Marikkar yesterday 
 [Data](articles/2f233088.json)
 
 [Extended Data](ext_articles/2f233088.ext.json)
+
+---
+
+### President violates election promises
+
+*2024-10-29 02:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-வாக்குறுதிகளை-ஜனாதிபதி-மீறியுள்ளார்/175-346237) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Presidential government fails to keep election promises. Sajith Premadasa calls for JVP support, citing need for United People's Power majority. Economic challenges persist, including food shortages and debt burden. Sajith warns of potential bankruptcy without UPP control.
+
+🟩
+
+The current presidential government has promised to reduce the pressure facing the people as promised in the election for the people who live in the midst of their lives.. However, United People's Power Leader Sajith Premadasa has called for the JVP to make these changes, not to give a majority in parliament.
+
+That majority should be given to the United People's Power. This is the best choice for the country. As Anura Kumara Dissanayake said on the presidential election platforms, he could not reduce direct and indirect taxes.. He said he would convert the agreement with the International Monetary Fund. However, he said he could not change today.
+
+A meeting with the United People's Power Colombo Colombo Colombo Kolonnawa Party activists took place on Sunday (27). The meeting organized by the United People's Power Colombo District Candidate SM Marikar. He said this while addressing the gathering.
+
+...
+
+[Data](articles/5bb60990.json)
+
+[Extended Data](ext_articles/5bb60990.ext.json)
 
 ---
 
@@ -335,6 +361,8 @@ Furthermore, allegations are being made that the interim government has overborr
 ...
 
 [Data](articles/e8a328dd.json)
+
+[Extended Data](ext_articles/e8a328dd.ext.json)
 
 ---
 
@@ -2371,27 +2399,5 @@ Kammanpila said, "If the person who has been accused of blaming the intelligence
 [Data](articles/21f6f64d.json)
 
 [Extended Data](ext_articles/21f6f64d.ext.json)
-
----
-
-### உயர் அதிகாரியை விசாரிக்கவும்;கம்மன்பில சவால்
-
-*2024-10-28 13:14:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-அதிகாரியை-விசாரிக்கவும்-கம்மன்பில-சவால்/175-346182) · `ta`
-
-Channel 4 video accuses government official of involvement in 2019 Sri Lanka Easter attacks. Former MP challenges government to identify man claiming top position. Government denies allegations, claims ongoing investigation.
-
-🟩
-
-The British Media Channel 4, which aired in September 4 last year, has asked the government to investigate the person who identified himself as the top official of the government in the 2019 Easter attack in Sri Lanka.
-
-முன்னாள் அரசாங்கத்தினால் நியமிக்கப்பட்ட ஓய்வுபெற்ற உயர் நீதிமன்ற நீதியரசர் எஸ்.ஐ.இமாம் தலைமையிலான குழுவின் சனல் 4 காணொளி தொடர்பான விசாரணை அறிக்கையின் விபரங்களை இன்று விசேட ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு பகிரங்கப்படுத்தும் போதே முன்னாள் பாராளுமன்ற உறுப்பினர் இந்த கோரிக்கையை முன்வைத்தார்.
-
-அரசாங்கத்தின் உயர்மட்ட அதிகாரி என வீடியோவில் கூறியுள்ள நபரின் அடையாளத்தை கண்டறிய குழுவொன்றை நியமிக்குமாறு அரசாங்கத்திற்கு சவால் விடுவதாக உதய கம்மன்பில தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/caffc35a.json)
-
-[Extended Data](ext_articles/caffc35a.ext.json)
 
 ---

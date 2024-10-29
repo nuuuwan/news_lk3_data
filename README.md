@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 20:39:56**
+As of **2024-10-29 20:59:02**
 
 ## Newspaper Stats
 
-*Scraped **52,074** Articles*
+*Scraped **52,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,844
 adaderanalk | 6,172
-tamilmirrorlk | 7,219
+tamilmirrorlk | 7,221
 virakesarilk | 8,408
 adaderanasinhalalk | 9,062
 
@@ -26,11 +26,65 @@ adaderanasinhalalk | 9,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,074 (100.0%) of 52,074 articles have been extended.
+52,076 (100.0%) of 52,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Will be fulfilled within one and a half years;Assurance
+
+*2024-10-29 20:33:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்றரை-வருடத்திற்குள்-நிறைவேற்றப்படும்-ஜனாதிபதி-உறுதி/175-346280) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's President Anura Kumara Dissanayake promises swift action on digitalization and economic development. He vows transparency and efficiency in governance, addressing corruption and investment challenges within 1.5 years.
+
+🟩
+
+President Anura Kumara Dissanayake has promised to take the steps to be taken without any hesitation, as he and the current government have no special links to build the country and develop the economy.
+
+The President made this statement while addressing the President's Office at the Presidential Office today (29).
+
+The President said that the importance of digitalization in Sri Lanka and the obtaining digital identity cards was discussed and that steps would be taken to complete the tasks in one and a half years.
+
+Discussions were also discussed with frequent discussions of Sri Lanka's current challenges and corruption issues, including barriers to the long -term project deadline and investment.. The President emphasized that his administration is committed to making all the activities a lighter, transparent and efficient organization. Remble
+
+◼️
+
+[Data](articles/c245fbe4.json)
+
+[Extended Data](ext_articles/c245fbe4.ext.json)
+
+---
+
+### Diwali allowance is doubled
+
+*2024-10-29 20:29:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தீபாவளிக்-கொடுப்பனவு-இரட்டிப்பாக-அதிகரிப்பு/76-346279) · `ta`
+
+Diwali allowance doubled to 20,000 Rupees for Tamil employees in plantation companies. Decision made by Secretary PK to boost economy during crisis.
+
+🟩
+
+One of the most important festivals of the Tamil people, Diwali, is an annual festival of festivals for the Diwali festival, which has been increased by ten thousand rupees.
+
+It has been decided to provide such an increased festive season for employees working in the plantation companies managed under the State Plantation Company, the Elkaduwa Plantation Company and the Public Estate Development Board.
+
+The Diwali festival, which has been paid by ten thousand rupees (10,000) in the past years, has been increased to twenty thousand (20,000) this year.
+
+Secretary to the Ministry PK has decided to provide this special festive season, with the cost of living and the purchase of workers due to the economic crisis in the country.. Prabhat Chandra Keerthi said.
+
+He added that Diwali wishes to all the Tamil people in the entire country, like the Tamil nationals of the hill country celebrating the Diwali festival of the Tamil people.
+
+...
+
+[Data](articles/04a413b0.json)
+
+[Extended Data](ext_articles/04a413b0.ext.json)
+
+---
 
 ### More information about the murder of Kempathite Walawwa
 
@@ -2387,45 +2441,5 @@ Accordingly, the Significant responsive bidder is the essential responsive biddi
 [Data](articles/f44f23eb.json)
 
 [Extended Data](ext_articles/f44f23eb.ext.json)
-
----
-
-### Was the money printed under the new government?
-
-*2024-10-29 11:28:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசின்-கீழ்-பணம்-அச்சிடப்பட்டதா/175-346257) · `ta`
-
-New government denies printing money. Cabinet spokesperson claims no currency printed or loans obtained abroad. President's signature required for currency notice. News of 1 billion currency printing deemed false.
-
-🟩
-
-Cabinet Spokesperson Minister Vijitha Herath has denied reports that money has been printed under the new government and said the government did not get the money or obtaining loans abroad or companies.
-
-He said at a weekly meeting announcing the Cabinet decisions that President Anuragumara Dissanayake should have signed the currency notice as the finance minister and therefore the president's signature sheets were not released.
-
-Rs.. When answering a question, he said that the news that 1 billion currency was printed was false.
-
-◼️
-
-[Data](articles/34607935.json)
-
-[Extended Data](ext_articles/34607935.ext.json)
-
----
-
-### Govt’s borrowing only within approved limits, reassessment planned after polls - Dr. Nalinda Jayathissa
-
-*2024-10-29 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103000/govts-borrowing-only-within-approved-limits-reassessment-planned-after-polls-dr-nalinda-jayathissa) · `en`
-
-Dr. Nalinda Jayathissa, an executive member of the National People’s Power (NPP), emphasized that the recent loans obtained by the government have been strictly within the limits approved by Parliament.
-
-Addressing concerns over the rising national debt, Dr. Jayathissa highlighted that any borrowing has complied with these legislative restrictions.
-
-He further stated the need for reassessment in the next parliament, hinting at plans to revise the borrowing limits to facilitate better debt management. When questioned about the government’s ability to reduce taxes without increasing debt, Dr. Jayathissa explained that effective debt management could prevent excessive borrowing.
-
-...
-
-[Data](articles/1edea5b6.json)
-
-[Extended Data](ext_articles/1edea5b6.ext.json)
 
 ---

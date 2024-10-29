@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 12:26:57**
+As of **2024-10-29 12:39:51**
 
 ## Newspaper Stats
 
-*Scraped **51,972** Articles*
+*Scraped **51,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,833
-adaderanalk | 6,158
+adaderanalk | 6,159
 tamilmirrorlk | 7,200
-virakesarilk | 8,374
+virakesarilk | 8,385
 adaderanasinhalalk | 9,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,972 (100.0%) of 51,972 articles have been extended.
+51,983 (100.0%) of 51,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Ceylon -Indian fishermen negotiations beginning
+
+*2024-10-29 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/197389) · `ta`
+
+Ceylon: Sri Lanka-India fisherman talks start. Government announces negotiations between Sri Lankan and Indian fishing communities began on Tuesday, led by Ministry of Fisheries officials visiting from India.
+
+🟩
+
+The government has announced that talks on Sri Lanka and Indian fishermen have commenced on Tuesday (29).
+
+Sri Lanka -Indian fishermen talks have begun with the delegation of the Ministry of Fisheries and Fisheries who have arrived in the country.
+
+◼️
+
+[Data](articles/01adaeb6.json)
+
+[Extended Data](ext_articles/01adaeb6.ext.json)
+
+---
+
+### African swine flu: Gazette publishing on preventive measures
+
+*2024-10-29 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197379) · `ta`
+
+African swine flu outbreak declared nationwide. Pigs infected in multiple regions. Symptoms include respiratory issues. Preventive measures announced.
+
+🟩
+
+The Department of Livestock Production and Health has issued a gazette notification to declare all the Divisional Secretariat Divisions across the country as African swine flu.
+
+This gazette will be in effect for the first 3 months of the 25th.
+
+Pigs have been diagnosed with African swine flu (AFS) in many parts of the country.
+
+African swine flu is the most infectious viral disease of home and wild boars, while reproductive and respiratory disease is a symptom of a frequent respiratory disease in young developing pigs.
+
+The African swine flu was first reported in the Western Province and is now found in the Uva, North and North Western provinces.
+
+◼️
+
+[Data](articles/0c1bc092.json)
+
+[Extended Data](ext_articles/0c1bc092.ext.json)
+
+---
+
+### Three arrested for drug addiction in Eravur
+
+*2024-10-29 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197376) · `ta`
+
+Eravur police arrest three for drug possession: 2 men, 1 woman caught with heroin and cash.
+
+🟩
+
+Eravur police said that two persons, including a woman with drugs, were arrested on Monday (28) in a house in Meerakeni area belonging to the Batticaloa and Eravur police division.
+
+The suspects have been arrested during the raid carried out on information received by the Eravur police.
+
+The arrested suspects were 24, 33 and 36 years old from Eravur.
+
+From the arrested suspects, 11 grams of 230 milligrams of heroin, 10,500 rupees of money and the use of drug packages have been seized by the police.
+
+◼️
+
+[Data](articles/68438728.json)
+
+[Extended Data](ext_articles/68438728.ext.json)
+
+---
 
 ### America does not impose travel ban - Vijitha Herath
 
@@ -78,6 +148,46 @@ Last days, the arrival of large number of people to obtain passport to the Immig
 
 ---
 
+### Petition against IGP appointment: SC allows naming ex-President Ranil as respondent
+
+*2024-10-29 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103003/petition-against-igp-appointment-sc-allows-naming-ex-president-ranil-as-respondent) · `en`
+
+The Supreme Court has allowed naming former President Ranil Wickremesinghe as a respondent of a petition filed challenging the appointment of Deshabandu Tennakoon as the Inspector General of Police (IGP).
+
+A petition filed by the Young Journalists’ Association against Tennakoon’s appointment as the IGP was taken up before the two-member Supreme Court judge bench comprising Justices Preethi Padman Surasena and Janak de Silva today (29).
+
+During the trial, President’s Counsel Saliya Peiris who appeared for the petitioning party requested the court for permission to name the former President as a respondent of the case.
+
+Accordingly, the judge bench which allowed naming of former President Wickremesinghe as a respondent, also ordered the petition to be recalled on November 11.
+
+◼️
+
+[Data](articles/8c22e716.json)
+
+[Extended Data](ext_articles/8c22e716.ext.json)
+
+---
+
+### Car at Vaddukoddai - motorcycle accident;One is hurt!
+
+*2024-10-29 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/197380) · `ta`
+
+Motorcycle passenger injured in collision near Sankara Hospital, Vaddukoddai, Jaffna.
+
+🟩
+
+A car and a motorcycle collided with a car and a motorcycle from Vaddukoddai Jaffna College, 200 meters away from Sankara.
+
+A motorcycle passenger has been admitted to the hospital for treatment.
+
+◼️
+
+[Data](articles/49a6e94b.json)
+
+[Extended Data](ext_articles/49a6e94b.ext.json)
+
+---
+
 ### New govt. has not printed any currency notes, Minister clarifies
 
 *2024-10-29 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103002/new-govt-has-not-printed-any-currency-notes-minister-clarifies) · `en`
@@ -93,6 +203,52 @@ In response to a question raised by a journalist during today’s Cabinet press 
 [Data](articles/ac1a3157.json)
 
 [Extended Data](ext_articles/ac1a3157.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-10-29 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197382) · `ta`
+
+US dollar exchange rate: 289.0815 rupees buying price, 298.1697 selling price. Central Bank announcement on Tuesday, March 29.
+
+🟩
+
+The US dollar purchasing price was 289.0815 rupees and the sales price were 298.1697 based on a currency exchange rate released by the Central Bank on Tuesday (29).
+
+◼️
+
+[Data](articles/f4aa8301.json)
+
+[Extended Data](ext_articles/f4aa8301.ext.json)
+
+---
+
+### Two persons arrested with ice drugs and gun in Kalkissa
+
+*2024-10-29 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197369) · `ta`
+
+Two arrests made in Kalkissa: one person caught with ice drugs and a revolver, another found with ice drugs. Police seized 800mg and 12g of ice, along with a foreign-made rifle.
+
+🟩
+
+Two suspects have been arrested on Monday (28) with ice drugs and rifle during two rounds of operations in the Kalkissa area, police said.
+
+Accordingly, a suspect has been arrested with an ice drug and a revolver rifle in the Ratmalana area, which belongs to the Kalkis police division.
+
+800 milligrams of Ice was seized by the police from the arrested suspect.
+
+During an investigation into the arrested suspect, police seized a relative rifle manufactured abroad hidden in a house in Moratuwa area.
+
+Meanwhile, a suspect was arrested by the police yesterday (28) with ice drugs in the area of ​​the Kalkissa police division.
+
+12 grams of 630 milligrams of ice from the suspect was seized by the police.
+
+◼️
+
+[Data](articles/7b892a7a.json)
+
+[Extended Data](ext_articles/7b892a7a.ext.json)
 
 ---
 
@@ -222,6 +378,34 @@ Issuing the gazette extraordinary, Director General of Animal Production and Hea
 
 ---
 
+### Investigation Division Investigations on Bomb Warning on Indian Airline - Government
+
+*2024-10-29 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197375) · `ta`
+
+Bomb threat forces Indian flight to land at Katunayake airport. Investigation underway. Security measures implemented. Two other flights also affected.
+
+🟩
+
+Cabinet spokesman Vijitha Herath said the investigation into the bomb warning on the Indian flight has begun investigations.
+
+An Indian plane, which was threatened with bombshell, landed at the Katunayake airport in the midst of severe security measures yesterday (28).
+
+The plane was scheduled to land at 04.05 pm yesterday, but it was landed in Katunayake for 8 minutes due to the bomb threat.. There were 108 passengers and 8 employees on the plane during the incident.
+
+The manager at the Katunayake airport has been sent to the Indian Airlines headquarters in New Delhi, India, where there are bombs on the flight.
+
+Following this, the aircraft has taken steps to land the aircraft and rescue officers have been summoned to the Katunayakkavi station runway and carried out tests.
+
+In the meantime, two flights from Katunayake Airport from India have already been threatened to have been threatened at the Katunaka airport.
+
+◼️
+
+[Data](articles/7cd0664f.json)
+
+[Extended Data](ext_articles/7cd0664f.ext.json)
+
+---
+
 ### Government announces about printing money
 
 *2024-10-29 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202682) · `si`
@@ -241,6 +425,52 @@ A press conference held today (29), he said that no institution or foreign loan 
 [Data](articles/7e85da09.json)
 
 [Extended Data](ext_articles/7e85da09.ext.json)
+
+---
+
+### Railway Officer's Association
+
+*2024-10-29 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/197371) · `ta`
+
+Railway Station Officers' Association demands salary increase for train conductors. Government approved but no plan yet due to opposition from another group. Association threatens strike if issue unresolved.
+
+🟩
+
+After the recruitment of the railway station officials and resolved their promotion issue, the promotion of train conductors must take action for a high and salary increase. The Railway Station Officers' Association said that if he fails to take action in the cabinet, we will go to work.
+
+While the Cabinet has granted permission to resolve the promotion and salary conflict of the Railway Officers' Association, the government has not prepared the promotion and salary plan of the train conductors.
+
+However, due to the opposition of the Nathunas Association, the promotion and salary increase of the station's officials has not been implemented. The Railway Station Officers' Association said that despite many rounds of negotiations in this regard, we have decided to go to work immediately if they do not have a solution to their problem.
+
+◼️
+
+[Data](articles/9a5b3674.json)
+
+[Extended Data](ext_articles/9a5b3674.ext.json)
+
+---
+
+### Steps to implement Artificial Intelligence Act in Sri Lanka: Professor Roshan G. Rackel
+
+*2024-10-29 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/197373) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's AI Policy Plan aims to boost economy and enhance social life through tech. Prof. Roshan G. Racle explains steps to implement AI Act, promoting innovation and digital transformation.
+
+🟩
+
+Prof. Roshan G.. Said Rachel.
+
+Sri Lanka's Artificial Intelligence (AI) Policy Plan was released early this year. It is designed to promote the country's economic growth and improve social life with technology growth. Professor Roshan G.. Racle added.
+
+◼️
+
+[Data](articles/8ec41dd7.json)
+
+[Extended Data](ext_articles/8ec41dd7.ext.json)
 
 ---
 
@@ -330,6 +560,32 @@ Furthermore, he stated that only two suppliers, namely, M/s OQ Trading Limited a
 
 ---
 
+### We will not abolish the Terrorism Act - Presidential Secretariat Officer
+
+*2024-10-29 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197366) · `ta`
+
+Presidential Secretariat denies abolishing Terrorism Act. Civil activists cannot interfere with journalists' work. Law to be used based on reliable information, not politically. President's authority to implement laws as deemed necessary. No issues with PTA and existing laws.
+
+🟩
+
+He told the Morning newspaper that there is no issue on the terrorism law, but it is the problem of using civil activists to prevent journalists to prevent others.
+
+He said that the use of civil activists would not be allowed to take the issue of terrorism against journalists.
+
+The Director of the Presidential Secretariat (Law) Attorney JM Vijayabandara said that we will use the Terrorism Act on the basis of reliable information and do not use it for political revenge.
+
+There are many other laws in the legal books, but the president's authority has the authority to implement and implement it in our country's law but not implement it, he said.
+
+He said that there is no problem with the PTA and a law.
+
+◼️
+
+[Data](articles/8189dd76.json)
+
+[Extended Data](ext_articles/8189dd76.ext.json)
+
+---
+
 ### Kerala festival
 
 *2024-10-29 10:45:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேரளா-திருவிழாவில்-பயங்கர-வெடி-விபத்து-150-பேர்-காயம்/175-346254) · `ta`
@@ -399,6 +655,24 @@ Four people were traveling in the car when the car crashed and no one was injure
 [Data](articles/f6b1b8bb.json)
 
 [Extended Data](ext_articles/f6b1b8bb.ext.json)
+
+---
+
+### படுகுழியில் இருந்து வெளியேறி பிரிக்ஸிற்குள் நுழைதல்
+
+*2024-10-29 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197361) · `ta`
+
+ஒக்டோபர் 22 முதல் 24 வரை 16வது பிரிக்ஸ் மாநாடு ரஷ்யாவின் கசான் நகரில் நடைபெற்றது. பிரேசில், ரஷ்யா, இந்தியா, சீனா மற்றும் தென்னாப்பிரிக்கா ஆகிய பிரதான குழு உறுப்பினர்களுடன், இந்த ஆண்டு எகிப்து, எத்தியோப்பியா, ஈரான் மற்றும் ஐக்கிய அரபு எமிரேட்ஸ் ஆகியவை முறையாக சேர்க்கப்பட்டன.
+
+உச்சிமாநாட்டின் போது, மலேசியா, இந்தோனேசியா, தாய்லாந்து, வியட்நாம், நைஜீரியா, உகாண்டா, கியூபா மற்றும் பொலிவியா உட்பட மேலும் 13 நாடுகள் பங்குதாரர் உறுப்பினர்களாக ஆகின.
+
+இந்த ஆண்டு, பிரிக்ஸில் அங்கத்துவம் பெற விண்ணப்பித்த உலகளாவிய தெற்கில் இருந்தான வளர்ந்து வரும் நாடுகளின் பட்டியலில் இலங்கையும் இணைகிறது. கசான் உச்சிமாநாட்டிற்கு சென்ற இலங்கை தூதுக்குழுவினருக்கு வெளியுறவு செயலாளரான அருணி விஜேவர்தன தலைமை தாங்கினார்.
+
+அதேநேரத்தில், வெளிவிவகார அமைச்சரான விஜித ஹேரத் பிரிக்ஸ் நாடுகளுடன் இணைந்து கொள்வதற்கு ஆதரவளிக்குமாறு கடிதம் எழுதியுள்ளார்.
+
+...
+
+[Data](articles/f685a062.json)
 
 ---
 
@@ -2045,285 +2319,5 @@ It is reported that the train which had derailed near the Kompanna Veediya railw
 [Data](articles/cbec42de.json)
 
 [Extended Data](ext_articles/cbec42de.ext.json)
-
----
-
-### African swine flu flu flu is completely controlled
-
-*2024-10-28 18:35:17* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රිකානු-සූකර-උණ-ව්‍යාප්තිය-සම්පූර්ණයෙන්ම-පාලනය-කළ-හැකියි/11-412724) · `si`
-
-African swine fever controlled in Sri Lanka through bio-protection techniques and vaccinations. Disease spread rapidly but contained. Public advised to prevent animal-to-animal transmission and maintain hygiene practices.
-
-🟩
-
-Dr. Sisira Piyasiri said that using the African swine fever expansion by using bio-protection techniques could be eliminated in Sri Lanka.
-
-Speaking to the media, the President said:
-
-"Sucky industry is a successful business. It is a business of direct and indirect jobs that provide protein people.
-
-But those industy workers have faced a sad experience. That is the African swine flu. This was the spread of this country in 2019. By that time, using bio-protection techniques and vaccinations were able to avoid vaccinations.
-
-However, with the expansion of the country again in the recent days, information was reported larger pigs. Accordingly, the post-mortem examination was revealed that it was restored again the disease known as the PRRAce.
-
-Because of the rapid spread and the increase in complications, we have revealed that it was the African swine flu in this country.
-
-...
-
-[Data](articles/5c1715a4.json)
-
-[Extended Data](ext_articles/5c1715a4.ext.json)
-
----
-
-### Foreign inflows into Sri Lanka govt securities steady amid excess liquidity
-
-*2024-10-28 18:30:00* · [`economynextcom`](https://economynext.com/foreign-inflows-into-sri-lanka-govt-securities-steady-amid-excess-liquidity-185373/) · `en`
-
-ECONOMYNEXT – Foreign inflows into its government securities were steady in the week ended on October 23 after the island nation saw inflows in five straight weeks, the Central Bank data showed.
-
-Foreign exchange analysts said the excess liquidity in the market and some speculations over another monetary policy rates cut before end of this year have led to offset the inflows as some foreign investors sold their holdings last week.
-
-Sri Lanka witnessed 1 million rupees (nearly $3,390 at 1 US dollar = 295 LKR)  inflow into government securities in the week ended on October 23, much lower than the previous week’s inflow of 495 million rupees ((1.7 mln), the official data showed.
-
-The value of government securities held by foreign investors and funds was at 51,143 million rupees last week, little changed from the previous week’s 51,143 million.
-
-...
-
-[Data](articles/bc2d4c65.json)
-
-[Extended Data](ext_articles/bc2d4c65.ext.json)
-
----
-
-### Others who planned a Sri Lankan attack in foreign terrorist organizations recognized
-
-*2024-10-28 18:26:59* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ත්‍රස්ත-සංවිධානවල-අවශ්‍යතාවට-ලංකාවේ-ප්‍රහාරයක්-සැලසුම්-කළ-තවත්-අය-හඳුනාගත්තා/11-412723) · `si`
-
-Sri Lanka TID officials identify foreign terrorist organizations suspects arrested September
-
-🟩
-
-The officials of the Terrorism Investigation Division (TID) informed other suspects who were planned to terrorized terrorist attacks on the necessity of foreign terrorist organizations in Sri Lanka have been identified.
-
-The Magistrate was arrested by the Magistrate to the officials of the Terrorism Investigation Division to be arrested for identifying the crimes to the publication of foreign tourists.
-
-After considering the suspects to be arrested in the country, the Magistrate made the same manage of a request made by the officials of the Terrorism Division.
-
-The case was recalled on a request filed by the Terrorist Investigation Division.
-
-The Terrorist Investigation Division (TID) officials of the Terrorism Investigation Division (TID) officials were detained and questioned by three seats in the Terrorism Investigation Division (TID).Informed that he was appointed.
-
-...
-
-[Data](articles/16f511cc.json)
-
-[Extended Data](ext_articles/16f511cc.ext.json)
-
----
-
-### How and Why the  JVP led by Anura Dissanayake Formed  the National People’s Power (NPP) in 2019.
-
-*2024-10-28 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84966) · `en`
-
-This is the fourth part of an extended article focusing on  Sri Lanka’s newly elected  President Anura Kumara Dissanayake. In the first part of this article , the early years of Anura’s eventful life were delved into in some detail. In the second part, AKD’s steady growth as a political leader within the Janatha Vimukthi Peramuna (JVP) was related to some extent. In the  third part, Anura’s rise to the leadership position of the JVP was recounted.  The story of  how the JVP transformed  itself  as leader of the NPP alliance  under AK Dissanayake  will be narrated in this fourth  part.
-
-February 2nd 2014 was a red letter day in the life of Anura Kumara Dissanayake. It was on this day that the Janatha Vimukthi Peramuna’s 17th national convention was held. The highlight of that convention was the change of leadership in the JVP. Somawansa  Amerasinghe who held the reins  for 24 years stepped down . Anura Kumara Dissanayake known popularly as Anura and AKD  became the new JVP leader.
-
-...
-
-[Data](articles/39bb7267.json)
-
-[Extended Data](ext_articles/39bb7267.ext.json)
-
----
-
-### Indian aircraft in Katunayake bombs
-
-*2024-10-28 18:17:46* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ආපු-ඉන්දීය-ගුවන්-යානයකට-තෙවැනි-වරටත්-බෝම්බ-බියක්/11-412721) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Indian aircraft bomb threat: Flight AIA-281 diverted to Katunayake airport due to anonymous call about bombs. Army commandos and dogs searched plane. Passengers evacuated safely. Threat against over 300 aircraft in India.
-
-🟩
-
-Steps were taken to lago a three-third flight to the Katunayake airport that the bombs were bombed in an Indian aircraft.
-
-This is a threat of Indian airline.
-
-The Airline AIA - 281, the flight was to be landed at averaging 24.05 pm, while the five-minute had been landed at the Katunayake airport.
-
-The airplane was a 320 square and 88 passengers and eight more were attended by the aircraft staff.
-
-India's headquarters had received an anonymous phone call to the Indian Airlines' headquarters in New Delhi, India's bombs.. After he was referred to Katunayake airport authorities, the aircraft had taken steps to landed emergency.
-
-Accordingly, the officers carrying the army commandos, army commandos, who trained the officers of the fire and identify the dogs, bombs, and identifying the dogs, bombs, officers who were trained, officers who were trained by the doctors, decorated dogs.
-
-The aircraft is then buried by the air passengers and other items, including the aircraft and other items.
-
-...
-
-[Data](articles/ef5276dd.json)
-
-[Extended Data](ext_articles/ef5276dd.ext.json)
-
----
-
-### “The president has put the country in trouble”
-
-*2024-10-28 18:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நாட்டை-சிக்கலில்-தள்ளியுள்ளார்/175-346216) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan opposition leader Sajith Premadasa criticizes President Anura Kumara Dissanayake for failing to fulfill campaign promises, including amending IMF agreements and resolving food shortages. He warns of potential bankruptcy by 2028 unless his party gains parliamentary majority to address economic issues.
-
-🟩
-
-United People's Power (SJB) leader Sajith Premadasa has said that the public should be given a parliamentary majority instead of the National People's Power (NPP) who failed to reduce the suffering of the people as promised during the presidential election.
-
-Former Opposition Leader has pointed out that President Anura Kumara Dissanayake has failed to do so during the presidential election.
-
-He added that the President's promises to amend the IMF agreement with the IMF (IMF) have not been fulfilled.
-
-“Currently there is a shortage of essential foods and there is a row for coconuts. The president has pushed the country into trouble. Sajith Premadasa said he has promised to pay off the loan since 2028 and only four more years.
-
-Pointing out that Sri Lanka cannot repay the loan under the current economic situation, Sajith Premadasa said he needed rapid economic growth to resolve the debt.
-
-...
-
-[Data](articles/66c422d8.json)
-
-[Extended Data](ext_articles/66c422d8.ext.json)
-
----
-
-### African swine fever spreads to several other provinces in Sri Lanka
-
-*2024-10-28 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102988/african-swine-fever-spreads-to-several-other-provinces-in-sri-lanka) · `en`
-
-The Director of the Western Province Animal Production and Health Department K.K. Sarath said that African swine fever, which was initially reported for the first time in the Western Province, has now also been detected in Uva, Northern and North Western provinces.
-
-While joining the Ada Derana ‘BIG FOCUS’ program, he emphasized that the disease has a very high mortality rate in infected animals, and noted that there is currently no available treatment.
-
-Sarath also said that African swine fever has been reported in 04 farms in the Western Province with affected animals identified in the Divisional Secretariats of Beruwala, Welisara and Padukka.
-
-According to the data reported last week, there are about 70,000 pigs in the Western Province with 20,000 to 25,000 of them having succumbed to the disease.
-
-The Western Province Director of the Animal Production and Health Department who commented on the measures taken to control the African swine Disease said,
-
-...
-
-[Data](articles/e3847586.json)
-
-[Extended Data](ext_articles/e3847586.ext.json)
-
----
-
-### Train delay
-
-*2024-10-28 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202657) · `si`
-
-Train delayed due to derailment between Colombo Fort and Maradana stations. Train departed from station this morning.
-
-🟩
-
-The train has been interrupted due to the debid of a train between Colombo Fort and Maradana railway stations.
-
-The train was elected at the station at the street at the street at the street at the street at the street at the street station this morning, reports say.
-
-◼️
-
-[Data](articles/e78a1359.json)
-
-[Extended Data](ext_articles/e78a1359.ext.json)
-
----
-
-### Arrested
-
-*2024-10-28 17:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூதரகத்தை-படமெடுத்தவர்-கைது/175-346215) · `ta`
-
-Man arrested for taking photos near Italian embassy in Sri Lanka. Remanded until Nov 4. Police found documents during investigation.
-
-🟩
-
-A man arrested for photographing the Italian embassy in Sri Lanka has been remanded until November 4.
-
-A 54 -year -old man has been arrested for photography of the embassy, ​​police said.
-
-Police arrested him and said that he had found several documents from him during the investigation and was investigating the matter.
-
-◼️
-
-[Data](articles/0b73b3dc.json)
-
-[Extended Data](ext_articles/0b73b3dc.ext.json)
-
----
-
-### President stresses need to strengthen National Procurement Commission
-
-*2024-10-28 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102987/president-stresses-need-to-strengthen-national-procurement-commission) · `en`
-
-President Anura Kumara Dissanayake has emphasized the importance of implementing a procurement plan and strengthening the National Procurement Commission (NPC).
-
-The President shared these views in a meeting held at the Presidential Secretariat this morning (28), where he engaged in an in-depth discussion with NPC officials on the current procurement laws and procedures, the President’s Media Division (PMD) said in a statement.
-
-Officials from the National Procurement Commission informed the President that although around 60% of all government expenditures, including capital expenses, should ideally follow a proper procurement process, shortcomings in this process are causing significant losses to the government. This, they noted, creates greater opportunities for fraud and corruption, the statement added.
-
-...
-
-[Data](articles/a7b997e5.json)
-
-[Extended Data](ext_articles/a7b997e5.ext.json)
-
----
-
-### Former Deputy Speaker
-
-*2024-10-28 17:44:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செய்திகளை-மறுத்தார்-முன்னாள்-பிரதி-சபாநாயகர்/175-346214) · `ta`
-
-Former Deputy Speaker Ajith Rajapakse denies not handing over official residence, claims reports submitted October 1 after paying utilities. He says he paid rent until October 2024 and rejects allegations, expressing frustration over the situation.
-
-🟩
-
-Former Deputy Speaker Ajith Rajapakse has denied reports that he has not handed over the official residence to the Ministry of Public Administration and Home Affairs.
-
-He said all the reports were submitted to the Ministry on October 1 after paying all the electricity and water charges for the time he lived in the apartment.
-
-The former Deputy Speaker said he had paid rent for residence until October 2024.
-
-He said that he had repeatedly rejected the reports that he had not handed over the official residence and that he was upset over the matter.
-
-◼️
-
-[Data](articles/3af63c82.json)
-
-[Extended Data](ext_articles/3af63c82.ext.json)
-
----
-
-### Sri Lanka’s MTV to host 2026 Asia-Pacific Broadcasting Union meeting
-
-*2024-10-28 17:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-mtv-to-host-2026-asia-pacific-broadcasting-union-meeting-185350/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s local television channel MTV Channel (Pvt) Limited will host the 2026 Asia-Pacific Broadcasting Union (ABU) General Assembly in Sri Lanka, the channel said in a statement.
-
-The ABU is the largest broadcasting Union in the world, with its 250 members in 70 countries across five continents, reaching 3 billion people across the Asia-Pacific region.
-
-“It will, no doubt, establish Sri Lanka as an important crossroad of international relations and global media. We look forward to welcoming the world to Sri Lanka, in 2026,” Chevaan Daniel, Group Director of the Capital Maharaja Group (CMG) and Head of the Group’s Media Vertical, said.
-
-The channel’s received the ratification at the ABU’s 118th Administration Council meeting held on October 20 in Istanbul, Turkiye. Suresh Srinivasan the Group CEO of CMG and Suranga Jayalath Group Director for Legal and Human Resources received the ratification.
-
-...
-
-[Data](articles/96e9ba8d.json)
-
-[Extended Data](ext_articles/96e9ba8d.ext.json)
 
 ---

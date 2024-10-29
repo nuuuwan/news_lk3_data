@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 21:40:06**
+As of **2024-10-29 21:59:39**
 
 ## Newspaper Stats
 
-*Scraped **52,087** Articles*
+*Scraped **52,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,846
-adaderanalk | 6,172
+adaderanalk | 6,173
 tamilmirrorlk | 7,222
 virakesarilk | 8,414
-adaderanasinhalalk | 9,064
+adaderanasinhalalk | 9,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,087 (100.0%) of 52,087 articles have been extended.
+52,087 (100.0%) of 52,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### විදුලි ගාස්තුව ගැන ජනපතිගෙන් ඉඟියක්
+
+*2024-10-29 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202708) · `si`
+
+ඉදිරි වසර කිහිපය තුළ විදුලි ගාස්තු සැලකියයුතු ප්‍රමාණයකින් අඩුකිරීම රජයේ අපේක්ෂාව බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ජනාධිපතිවරයා මෙම අදහස් පළකළේ, ශ්‍රී ලංකා වාණිජ මණ්ඩලයේ නියෝජිතයින් පිරිසක් සමග පැවති සාකච්ඡාවකදීය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ශ්‍රී ලංකා වාණිජ මණ්ඩලයේ නියෝජිතයින් අතර සාකච්ඡාවක් අද (29) ජනාධිපති ලේකම් කාර්යාලයේදී පැවැත්වුණි.
+
+වත්මන් පාලනය යටතේ ඉදිරි වසර 3 තුළ සමස්ත රට ඩිජිටල්කරණයට කටයුතු කරන බව ජනාධිපතිවරයා එහිදී පෙන්වාදී තිබේ.
+
+මෙහිදී වාණිජ මණ්ඩලයේ සාමාජිකයින් එකඟතාව පළ කර ඇත්තේ කිසිදු දීමනාවක් හෝ වැටුපක් නොලබා ආර්ථිකය ගොඩනැගීම වෙනුවෙන් සහාය ලබාදෙන බවටය.
+
+◼️
+
+[Data](articles/55c3d4ee.json)
+
+---
+
+### Railway Station Masters to launch strike from midnight tomorrow
+
+*2024-10-29 21:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103018/railway-station-masters-to-launch-strike-from-midnight-tomorrow) · `en`
+
+The Railway Station Masters’ Association warns that they will launch a strike action starting from midnight tomorrow, if their demands are not met during the discussion with the subject minister which is scheduled to be held tomorrow (30).
+
+President of the association Sumedha Somaratne said that the discussions held with the Railways General Manager today (29) were unsuccessful.
+
+The Railway Station Masters’ Association decided to launch an immediate trade union action, over issues pertaining to the post of Railway Station Master.
+
+However, Somaratne further mentioned that they arrived at this decision since no favorable response has been received from the authorities pertaining to issues of the Railway Station Masters including promotions, despite repeated demands.
+
+◼️
+
+[Data](articles/5c95704a.json)
+
+---
 
 ### Mondagiri Maha Sean and Manusethaship Movement
 
@@ -2449,53 +2487,5 @@ The program will be planted in the sacred place of the Kataragama Temple in the 
 [Data](articles/7d48a07c.json)
 
 [Extended Data](ext_articles/7d48a07c.ext.json)
-
----
-
-### Three arrested for drug addiction in Eravur
-
-*2024-10-29 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197376) · `ta`
-
-Eravur police arrest three for drug possession: 2 men, 1 woman caught with heroin and cash.
-
-🟩
-
-Eravur police said that two persons, including a woman with drugs, were arrested on Monday (28) in a house in Meerakeni area belonging to the Batticaloa and Eravur police division.
-
-The suspects have been arrested during the raid carried out on information received by the Eravur police.
-
-The arrested suspects were 24, 33 and 36 years old from Eravur.
-
-From the arrested suspects, 11 grams of 230 milligrams of heroin, 10,500 rupees of money and the use of drug packages have been seized by the police.
-
-◼️
-
-[Data](articles/68438728.json)
-
-[Extended Data](ext_articles/68438728.ext.json)
-
----
-
-### America does not impose travel ban - Vijitha
-
-*2024-10-29 12:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்கா-பயணத்தடை-விதிக்கவில்லை-விஜித/175-346259) · `ta`
-
-Sri Lanka: No travel ban, arrests made based on intelligence. US observes Arukambe area without imposing restrictions. National Security Council urged to act swiftly.
-
-🟩
-
-Cabinet spokesman Minister Vijitha Herath said that the Foreign Intelligence Agency had provided some information to the Sri Lanka Intelligence Unit and the security measures were taken accordingly.
-
-The Minister, who attended a media briefing to announce the Cabinet decisions today (29), said that the National Security Council should convene and make quick decisions.
-
-He said that many have been arrested on suspicion and that they are being produced in court and are conducting further investigations.
-
-Meanwhile, he noted that the US has announced that it will be observed in visiting the Arukambe area, but he has not imposed a travel ban.
-
-◼️
-
-[Data](articles/df42390b.json)
-
-[Extended Data](ext_articles/df42390b.ext.json)
 
 ---

@@ -1,0 +1,17 @@
+{
+  "newspaper_id": "adaderanalk",
+  "url": "https://www.adaderana.lk/news/103011/public-alerted-over-surge-in-fake-messages-on-whatsapp-and-other-social-media-",
+  "time_ut": 1730198040.0,
+  "original_lang": "en",
+  "original_title": "Public alerted over surge in fake messages on WhatsApp and other social media",
+  "original_body_lines": [
+    "The Sri Lanka Computer Emergency Readiness Team (SL CERT) today issued an alert to the public about the surge in fake messages being disseminated via social media and communication platforms, particularly WhatsApp.",
+    "These deceptive messages are designed to fraudulently obtain personal and financial information by impersonating credible institutions, including banks, commercial organizations, and international bodies, according to the SL CERT.",
+    "Recent observations by Sri Lanka CERT indicate that cybercriminals are using social media platforms, fake websites, SMS, and even postal services to reach potential victims. In many cases, these messages falsely promise donations, monetary rewards, high-value products, or services and request sensitive information, including One-Time Passwords (OTPs).",
+    "By interacting with these fraudulent messages or clicking on embedded links, individuals risk exposing their personal data to criminal misuse, including financial fraud and identity theft, it added.",
+    "Accordingly, Sri Lanka CERT alerts users about the risks of sharing One-Time Passwords (OTPs) requested through WhatsApp, as this may unintentionally grant malicious intruders access to their accounts. Such access can then be misused to solicit further support or sensitive information from contacts.",
+    "The organization has noted a concerning rise in these crimes and an increase in victims across the country. Users are urged to exercise caution and verify any requests for OTPs or sensitive information, even if they seem to come from trusted sources.",
+    "The public is urged to exercise caution when sharing personal information during online transactions and to question the necessity of data requests.",
+    "Additionally, Sri Lanka CERT advises verifying the authenticity of messages received on social media and communication networks by consulting official websites, contacting institutions directly, or checking through verified phone numbers before responding."
+  ]
+}

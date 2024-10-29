@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 10:12:59**
+As of **2024-10-29 10:24:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,037
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,943 (100.0%) of 51,944 articles have been extended.
+51,944 (100.0%) of 51,944 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Meanwhile, Rohana Hettiarachchi, the Executive Director of People’s Action for
 ◼️
 
 [Data](articles/1111a551.json)
+
+[Extended Data](ext_articles/1111a551.ext.json)
 
 ---
 

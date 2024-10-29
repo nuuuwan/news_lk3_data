@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 23:11:30**
+As of **2024-10-29 23:24:22**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 9,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,097 (100.0%) of 52,099 articles have been extended.
+52,099 (100.0%) of 52,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
 
-### O/L பரீட்சை குறித்து கல்வி அமைச்சின் புதிய அறிவிப்பு
+### A new announcement from the Ministry of Education on the O/L Examination
 
 *2024-10-29 22:44:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சை-குறித்து-கல்வி-அமைச்சின்-புதிய-அறிவிப்பு/175-346296) · `ta`
 
-2024ஆம் ஆண்டுக்கான கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சை அடுத்த ஆண்டு மார்ச் மாதத்தில் நடைபெற உள்ளதாக கல்வி அமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+Here's a summary of the announcement in 200 characters:
 
-2025ஆம் ஆண்டில் முதலாம் தவணை பாடசாலை கல்வி நடவடிக்கைகளின் முதலாம் கட்டம் ஜனவரி 27ஆம் திகதி முதல் ஏப்ரல் 11ஆம் திகதி வரை நடைபெறவுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.  R
+
+
+Ministry of Education: O/L Exam 2025 dates announced. Phase 1: Jan 27 - Apr 11, 2025. Statement released regarding school education activities.
+
+🟩
+
+The Ministry of Education has issued a statement issued by the Ministry of Education.
+
+The first phase of the school education activities in 2025 will be held from January 27 to April 11.R
 
 ◼️
 
 [Data](articles/80fdfde0.json)
+
+[Extended Data](ext_articles/80fdfde0.ext.json)
 
 ---
 
@@ -66,19 +76,25 @@ The delegations undertook a comprehensive review of all relevant issues pertaini
 
 ---
 
-### மின்சாரக் கட்டணம் கணிசமான அளவு குறையும் - ஜனாதிபதி
+### Electricity tariffs will decrease significantly - President
 
 *2024-10-29 22:23:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரக்-கட்டணம்-கணிசமான-அளவு-குறையும்-ஜனாதிபதி/175-346295) · `ta`
 
-அடுத்த சில வருடங்களில் மின்சாரக் கட்டணத்தை கணிசமான அளவு குறைப்பது அரசாங்கத்தின் எதிர்பார்ப்பு என ஜனாதிபதி அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+Sri Lanka's President Anura Kumara Dissanayake announced plans for substantial electricity tariff reductions over the next few years during a meeting with Chamber of Commerce representatives. He also stated that the country will be fully digitalized within three years under current administration policies.
 
-இலங்கை வர்த்தக சம்மேளனத்தின் பிரதிநிதிகள் குழுவுடனான கலந்துரையாடலின் போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+🟩
 
-தற்போதைய நிர்வாகத்தின் கீழ் அடுத்த 3 வருடங்களில் முழு நாடும் டிஜிட்டல் மயமாக்கப்படும் எனவும் ஜனாதிபதி சுட்டிக்காட்டியுள்ளார்.
+President Anura Kumara Dissanayake has said that the government's expectation is a significant reduction in electricity tariffs over the next few years.
+
+The President made this statement during a discussion with a team of representatives of the Sri Lanka Chamber of Commerce.
+
+The President also pointed out that the entire country will be digitalized in the next 3 years under the current administration.
 
 ◼️
 
 [Data](articles/750d7dc1.json)
+
+[Extended Data](ext_articles/750d7dc1.ext.json)
 
 ---
 

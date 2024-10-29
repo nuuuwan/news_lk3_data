@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 22:39:58**
+As of **2024-10-29 22:58:13**
 
 ## Newspaper Stats
 
-*Scraped **52,095** Articles*
+*Scraped **52,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,847
-adaderanalk | 6,173
+adaderanalk | 6,174
 tamilmirrorlk | 7,222
-virakesarilk | 8,417
+virakesarilk | 8,418
 adaderanasinhalalk | 9,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,095 (100.0%) of 52,095 articles have been extended.
+52,097 (100.0%) of 52,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### India-Sri Lanka Joint Working Group discusses mutually acceptable and long-lasting solution for fishermen issue
+
+*2024-10-29 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103019/india-sri-lanka-joint-working-group-discusses-mutually-acceptable-and-long-lasting-solution-for-fishermen-issue) · `en`
+
+The 6th meeting of the India-Sri Lanka Joint Working Group (JWG) on Fisheries was held today (29) in Colombo.
+
+The meeting was participated by an Indian delegation which was led by Dr. Abhilaksh Likhi, Secretary of the Indian Department of Fisheries, Government of India and senior officials from the Ministry of Fisheries, Animal Husbandry and Dairying; Ministry of External Affairs; Government of Tamil Nadu; Navy; Coast Guard; Central Marine Fisheries Research Institute and High Commission of India in Colombo.
+
+The Sri Lankan delegation was led by M.P.N.M. Wickramasinghe, Secretary of the Ministry of Fisheries, and senior officials from the Sri Lankan Foreign Ministry, Department of Fisheries and Aquatic Resources, Navy, Coast Guard and the Department of the Attorney General.
+
+The delegations undertook a comprehensive review of all relevant issues pertaining to fishermen and the fisheries sector, the Indian High Commission in Colombo said in a statement.
+
+...
+
+[Data](articles/793d0b95.json)
+
+[Extended Data](ext_articles/793d0b95.ext.json)
+
+---
 
 ### E-8 visa agreement is not legal - the Bureau of Foreign Service
 
@@ -53,6 +73,30 @@ Accordingly, the private agency in Sri Lanka has not been permitted to send work
 [Data](articles/71f42979.json)
 
 [Extended Data](ext_articles/71f42979.ext.json)
+
+---
+
+### A 23 -year -old girl dies after being hit by train
+
+*2024-10-29 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/197459) · `ta`
+
+23-year-old girl killed by train in Sri Lanka. Victim was near railway station, reportedly on phone. Incident occurred on Tuesday during high-speed train journey from Aluthgama to Polgahawela.
+
+🟩
+
+A woman was killed when a high -speed train was traveling from Aluthgama to Polgahawela on Tuesday (29).
+
+The victim was a 23 -year -old girl in Kallanamulla, Biyagala.
+
+Police said that the girl has been killed in a train behind the Kalutara Velapura Vidyalaya.
+
+It was also revealed that he was calling on the phone while waiting near the railway station.
+
+◼️
+
+[Data](articles/c6ad0ab6.json)
+
+[Extended Data](ext_articles/c6ad0ab6.ext.json)
 
 ---
 
@@ -2469,53 +2513,5 @@ However, the Deputy General Manager of the Deputy General Manager said that the 
 [Data](articles/de900739.json)
 
 [Extended Data](ext_articles/de900739.ext.json)
-
----
-
-### Maldives who support terrorism seized
-
-*2024-10-29 12:39:16* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රස්තවාදයට-අනුබල-දුන්-මාලදිවයින්-ජාතිකයෙක්-අල්ලයි/11-412738) · `si`
-
-Maldives: Terrorism suspect arrested in Mount Lavinia. 32-year-old individual detained under Act No. 48 of 1979. Investigation ongoing.
-
-🟩
-
-Terrorism and Investigation Division says that a Maldivian has been arrested at a house in Mount Lavinia, Mount Lavinia.
-
-The suspect has been arrested in accordance with the suspect who had previously arrested.
-
-The suspect is being detained and investigated by the Act No. 48 of 1979, according to the Temporary Provisions.
-
-The suspect is a 32 year old person. Terrorism and Investigation Division conducts tests.
-
-◼️
-
-[Data](articles/f1b44131.json)
-
-[Extended Data](ext_articles/f1b44131.ext.json)
-
----
-
-### The E-8 Visa Agreement is not legal
-
-*2024-10-29 12:27:38* · [`adalk`](https://www.ada.lk/breaking_news/E-8--වීසා-ගිවිසුම--නීත්‍යානුකූල-නෑ/11-412737) · `si`
-
-E-8 Visa Agreement legality questioned. Sri Lanka Bureau of Foreign Employment claims agreement unsigned. South Korean government accused of deception. Short-term visa criticized for low wages and limited job opportunities. Private agencies prohibited from sending workers under this visa. Government urged to review process and discourage illegal recruitment practices.
-
-🟩
-
-Sri Lanka Bureau of Foreign Employment Bureau The Sri Lanka Bureau of Foreign Employment has not been legally signed by the E-8 Visa Agency in Sri Lanka.. He further stated:
-
-The Government of South Korean and the Sri Lankan government have been given employment opportunities for thousands of Sri Lankan youths. In addition to those jobs, a dialogue of society has now been in the E-8 visa.
-
-These employers have been discussed in 2019 to receive Sri Lankans. These discussions have stopped due to some factors. For example, this visa is only for a period of 5 months. They get a little salary for this purpose.
-
-The likelihood of the workers is very low again. Then they do the visa time, but I try to illegally. Due to this situation, there is no problems, and no government has agreed to agree on the matter.. Similarly, the private agencies in Sri Lanka have not been allowed to send workers under this visas under this visas or cash. If anyone charges money to these jobs, it is illegal.
-
-...
-
-[Data](articles/25fbf924.json)
-
-[Extended Data](ext_articles/25fbf924.ext.json)
 
 ---

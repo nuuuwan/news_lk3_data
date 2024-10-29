@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 09:40:10**
+As of **2024-10-29 09:59:21**
 
 ## Newspaper Stats
 
-*Scraped **51,938** Articles*
+*Scraped **51,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,158
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,828
-adaderanalk | 6,150
-tamilmirrorlk | 7,191
+adaderanalk | 6,151
+tamilmirrorlk | 7,193
 virakesarilk | 8,374
 adaderanasinhalalk | 9,035
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 9,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,935 (100.0%) of 51,938 articles have been extended.
+51,939 (100.0%) of 51,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Candidate arrested with dissolved flour
+
+*2024-10-29 09:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரைத்த-மாவுடன்-வேட்பாளர்-கைது/175-346249) · `ta`
+
+Candidate arrested over dissolved flour Ambalangoda police detained six, including election contender, for allegedly dissolving wheat dough. Former local government member among arrests. Candidate claims illegal to arrest during election campaign.
+
+🟩
+
+Ambalangoda police said that six people, including a candidate contesting the general election, were arrested on Tuesday morning (29), alleging that the wheat dough was dissolved and taken to his jeep.. Doubt.
+
+Among those arrested include a former member of the Local Government. However, the candidate says it was illegal to arrest himself as a candidate in the general election.
+
+◼️
+
+[Data](articles/8718d911.json)
+
+[Extended Data](ext_articles/8718d911.ext.json)
+
+---
+
+### Laugfs Gas to resolve shortage within next few days
+
+*2024-10-29 09:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102995/laugfs-gas-to-resolve-shortage-within-next-few-days-) · `en`
+
+Laugfs Gas PLC has announced that the current shortage of Laughs gas cylinders in the market will be resolved within the next two days.
+
+The Chairman of Laugfs Gas PLC, Dr. W.K.H. Wegapitiya stated that several regions of the island are experiencing a gas shortage due to distribution issues.
+
+He mentioned that due to the conflict situation in the Middle East the gas stocks imported by the Laughs Company were delayed, and the main Laugfs terminal was flooded.
+
+However, yesterday (28) a ship carrying a cargo of LP gas for Laugfs had arrived at Hambantota port.
+
+Accordingly, the Chairman of Laugfs Gas PLC, Dr. W.K.H. Wegapitiya stated that gas supplies will be distributed across the island within the next two to three days.
+
+◼️
+
+[Data](articles/19231335.json)
+
+[Extended Data](ext_articles/19231335.ext.json)
+
+---
+
+### Emergency Warning for people who use Wi-Fi
+
+*2024-10-29 09:16:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Wi-Fi-பயன்படுத்தும்-மக்களுக்கு-அவசர-எச்சரிக்கை/175-346244) · `ta`
+
+Sri Lanka Computer Emergency Response Unit warns about risks of using free Wi-Fi in public places. Personal information theft reported. Users advised to exercise caution.
+
+🟩
+
+The Sri Lanka Computer Emergency Response Unit said people should be very careful when using free Wi-Fi in public places.
+
+Nirosh Ananda has said that his section has received several complaints regarding the theft of personal information when using Wi-Fi in such places.. Remble
+
+◼️
+
+[Data](articles/2cd61e8a.json)
+
+[Extended Data](ext_articles/2cd61e8a.ext.json)
+
+---
 
 ### Showers expected in parts of the island
 
@@ -57,6 +119,10 @@ The general public is kindly requested to take adequate precautions to minimize 
 *2024-10-29 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102993/train-services-on-coastal-line-delayed) · `en`
 
 The train services on the coastal line have been delayed due to a train breaking down at Payagala owing to a technical failure, the Department of Railways said.
+
+It is reported that the relevant train is being brought to Colombo Fort by using another train engine.
+
+As a result, the train operating from Galle to Colombo along the coastal line will be delayed, the Department of Railways said.
 
 ◼️
 
@@ -2335,83 +2401,5 @@ The Director General of the CEA and the Director General of the Department of Wi
 [Data](articles/baa54135.json)
 
 [Extended Data](ext_articles/baa54135.ext.json)
-
----
-
-### Demonstration near Indian embassy in Colombo to send Sheikh Hasina to Bangladesh
-
-*2024-10-28 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197321) · `ta`
-
-Protesters demand Sheikh Hasina return to Bangladesh from India. Demonstrations held near Indian embassy in Colombo. Protestors claim Sheikh Hasina fled after overthrowing her own government.
-
-🟩
-
-A demonstration was held near the Indian Embassy in Sri Lanka in Colombo on Monday (28) organized by the Sri Lanka-Bangladesh Alliance.
-
-A few months ago, in Bangladesh, the student movements, opposition parties, Islamic organizations and people's uprising were overthrown and the then Prime Minister Sheikh Hasina -led regime was overthrown.
-
-Many rebels and civilians were killed by the government led by Sheikh Hasina. As a result, 45 people led by former Prime Minister Sheikh Hasina fled to India.
-
-Several cases were filed in the High Court against the government led by former Prime Minister Sheikh Hasina. Accordingly, the court has ordered the arrest of them.
-
-However, India is providing refuge in them. The protesters told the media that the demonstration was being held and that Sheikh Hasina and the refugees in India had taken immediate refund to Bangladesh.
-
-Demonstrators also handed over a Mahajar to the Indian embassy in Colombo.
-
-◼️
-
-[Data](articles/7b5cb0c0.json)
-
-[Extended Data](ext_articles/7b5cb0c0.ext.json)
-
----
-
-### Car collision in Kuruvitta
-
-*2024-10-28 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197317) · `ta`
-
-Pedestrian killed in Kuruvitta car crash on Colombo-Ratnapura highway. Vehicle from Colombo struck pedestrian, victim died at Ratnapura Hospital. Incident occurred near Millavitiya area under Kuruwita Police Division.
-
-🟩
-
-A pedestrian has died after a car collided with a car in the Millavitiya area on the Colombo -Ratnapura main road, which belongs to the Kuruwita Police Division, Kuruwita police said.
-
-The accident occurred when a car traveling from Colombo to Ratnapura crashed into a pedestrian on the road, police said.
-
-The injured pedestrian died after being admitted to the Ratnapura Hospital, police said.
-
-◼️
-
-[Data](articles/b691b39f.json)
-
-[Extended Data](ext_articles/b691b39f.ext.json)
-
----
-
-### Jaffna - Colombo Railway Services Recovery
-
-*2024-10-28 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/197320) · `ta`
-
-Colombo-Jaffna railway services resume after 10-month hiatus. Train departs Colombo Fort at 5:45 AM, arrives Jaffna at 1:10 PM. Limited services due to civil war, restored post-war in 2014. Recent delays caused by road reconstruction and signal light rehabilitation.
-
-🟩
-
-Directing services to Colombo - Jaffna have been resumed about 10 months later on Monday (28).
-
-The train departed from the Colombo Fort Railway Station at 05.45 am today and reached the Jaffna Railway Station at 01.10 pm.
-
-Railway services between Jaffna and Colombo have been limited to Vavuniya due to civil war.
-
-The Colombo -Jaffna services have been resumed since 2014 after the war was silenced.
-
-In 2023, the train from Colombo to Vavuniya and Anuradhapura was limited by the train from Colombo to Anuradhapura and the departure of Jaffna with Vavuniya.
-
-In this backdrop, the train from Colombo to the rehabilitation of the railway line between Anuradhapura and Mago has been limited by Mago and the departure of Jaffna with Anuradhapura.
-
-...
-
-[Data](articles/152297ae.json)
-
-[Extended Data](ext_articles/152297ae.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 02:58:19**
+As of **2024-10-30 03:09:32**
 
 ## Newspaper Stats
 
-*Scraped **52,115** Articles*
+*Scraped **52,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,848
 adaderanalk | 6,174
 tamilmirrorlk | 7,225
-virakesarilk | 8,420
+virakesarilk | 8,421
 adaderanasinhalalk | 9,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,115 (100.0%) of 52,115 articles have been extended.
+52,116 (100.0%) of 52,116 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,26 @@ The President added that the government's expectation is to fulfill all these ai
 [Data](articles/3390124f.json)
 
 [Extended Data](ext_articles/3390124f.ext.json)
+
+---
+
+### ரயிலின் ஆசனத்திற்கு அடியிலிருந்து T-56 ரக தோட்டாக்கள் மீட்பு!
+
+*2024-10-30 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197462) · `ta`
+
+T-56 rifles found under train seats near Maruthana-Beliatta route
+
+🟩
+
+மருதானையிலிருந்து - பெலியத்த நோக்கி பயணித்த ரயிலில் மூன்றாம் வகுப்பு பெட்டியொன்றின் ஆசனத்திற்கு அடியிலிருந்து T-56 துப்பாக்கிகளுக்கு பயன்படுத்தப்படும்  57  தோட்டாக்களை செவ்வாய்க்கிழமை (29) காலை ரயில்வே பாதுகாப்பு படையினர் கண்டுபிடித்துள்ளனர்.
+
+It is reported that a security officer at the Beliatta railway station was searched by the train compartments, and the two men left the train and then found a bag of bullets beneath the seats.
+
+◼️
+
+[Data](articles/22bcfd51.json)
+
+[Extended Data](ext_articles/22bcfd51.ext.json)
 
 ---
 
@@ -2475,27 +2495,5 @@ The column warned that the practices driving up interbank liquidity through dome
 [Data](articles/7ec15226.json)
 
 [Extended Data](ext_articles/7ec15226.ext.json)
-
----
-
-### Investigation into allegations against Rohitha
-
-*2024-10-29 13:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹித-மீதான-குற்றச்சாட்டுகள்-தொடர்பில்-விசாரணை/175-346263) · `ta`
-
-Sri Lanka investigates High Commissioner Rohitha Bogollagama UK allegations. Cabinet spokesperson denies misuse of funds for car purchase. Diplomats working abroad not immediately affected, those appointed politically may face recovery.
-
-🟩
-
-Cabinet Spokesperson Minister Vijitha Herath today said that investigations have been launched on the allegations of Sri Lankan High Commissioner Rohitha Bogollagama to the United Kingdom.
-
-The Minister made clarifying reports on the car used by the High Commissioner and said that the car was purchased under the fund of the High Commissioner and that no funds were spent for it.
-
-However, the minister said that none of the Sri Lankan diplomats working abroad would be immediately recovered, but the diplomats appointed by political faith would be recovered in a timely manner.
-
-◼️
-
-[Data](articles/099b1a3b.json)
-
-[Extended Data](ext_articles/099b1a3b.ext.json)
 
 ---

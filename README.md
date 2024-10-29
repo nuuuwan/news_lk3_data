@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 23:24:22**
+As of **2024-10-29 23:40:24**
 
 ## Newspaper Stats
 
-*Scraped **52,099** Articles*
+*Scraped **52,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,095
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,847
+adalk | 4,848
 adaderanalk | 6,174
 tamilmirrorlk | 7,224
 virakesarilk | 8,418
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,099 (100.0%) of 52,099 articles have been extended.
+52,100 (100.0%) of 52,100 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -329,6 +329,26 @@ When he is unable to go to parliament, does he see the possibility of going to P
 [Data](articles/51ef23d4.json)
 
 [Extended Data](ext_articles/51ef23d4.ext.json)
+
+---
+
+### Deepavali increases advances
+
+*2024-10-29 21:09:50* · [`adalk`](https://www.ada.lk/breaking_news/දීපවාලි-උත්සව-අත්තිකාරම්-වැඩි-කරයි/11-412749) · `si`
+
+Diwali festival: Govt increases loan for plantation companies from Rs. 1 lakh to Rs. 2 lakhs for employees.
+
+🟩
+
+Festival of State Plantation Companies has been increased by the Government Plantation Companies to mark the Diwali festival. The festived advances were increased to Rs. 100,000 before the previous Rs. 100,000.
+
+Accordingly, the state plantation company will be provided with the employees of the State Plantation Company and the People's Plantation Companies under the Janatha Estate Development Board Rs. 200,000.
+
+◼️
+
+[Data](articles/62fdf1f7.json)
+
+[Extended Data](ext_articles/62fdf1f7.ext.json)
 
 ---
 
@@ -2479,29 +2499,5 @@ I am fielding in the upcoming parliamentary election to make many more services.
 [Data](articles/fac095c6.json)
 
 [Extended Data](ext_articles/fac095c6.ext.json)
-
----
-
-### One person arrested with heroin drug
-
-*2024-10-29 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197388) · `ta`
-
-41-year-old man arrested with 0.5g heroin in Mallikoda, Wadhu police division.
-
-🟩
-
-A suspect has been arrested on Monday (28) with heroin drugs in the Mallikoda area, which belongs to the Wadhu police division, Vaduvu police said.
-
-The suspect has been arrested during a roundup of confidential information received by the police.
-
-The arrested suspect is 41 -year -old from Waduvai.
-
-05 grams of 300 milligrams of heroin was seized by the police.
-
-◼️
-
-[Data](articles/8a159904.json)
-
-[Extended Data](ext_articles/8a159904.ext.json)
 
 ---

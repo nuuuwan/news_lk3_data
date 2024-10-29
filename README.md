@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 19:24:14**
+As of **2024-10-29 19:40:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,060
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,068 (100.0%) of 52,070 articles have been extended.
+52,070 (100.0%) of 52,070 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Officers from the Tangalle Division Crimes Unit and Beliatta Police have launche
 
 [Data](articles/88938e36.json)
 
+[Extended Data](ext_articles/88938e36.ext.json)
+
 ---
 
 ### President assures decisive economic measures to protect banking sector and entrepreneurs
@@ -63,6 +65,8 @@ The President highlighted the critical importance of digitizing Sri Lanka’s ec
 ...
 
 [Data](articles/cf3e0bf4.json)
+
+[Extended Data](ext_articles/cf3e0bf4.ext.json)
 
 ---
 

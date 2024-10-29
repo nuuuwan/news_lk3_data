@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 11:24:05**
+As of **2024-10-29 11:40:27**
 
 ## Newspaper Stats
 
-*Scraped **51,956** Articles*
+*Scraped **51,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 3,094
 economynextcom | 3,158
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,831
+adalk | 4,832
 adaderanalk | 6,154
 tamilmirrorlk | 7,197
 virakesarilk | 8,374
-adaderanasinhalalk | 9,040
+adaderanasinhalalk | 9,041
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,956 (100.0%) of 51,956 articles have been extended.
+51,958 (100.0%) of 51,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Government announces about printing money
+
+*2024-10-29 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202682) · `si`
+
+Sri Lanka government denies printing new money, claims only issuing treasury bills and income bonds daily. No new loans taken from institutions or abroad. Currency notes not released yet.
+
+🟩
+
+Cabinet Spokesperson Vijitha Herath says that the government has not obtained any of the new loans.
+
+A press conference held today (29), he said that no institution or foreign loan had not been obtained so far.
+
+"The Central Bank has a method of Treasury Bills and Income. That process is something that happens every day.  ඒ වගේම මුදල් අච්චු ගැසීම ගත්තොත් ඇත්තටම අලුතින් මුදල් අච්චු ගැසීමක් කරලා නැහැ, කරන්න බෑ ඒක පැහැදිළිව තියෙනවා අලුතින් මුදල් අච්චු ගහන්න බෑ කියලා. We want to see a currency note of his signature, but it's not released. It's a full false newsletter "
+
+◼️
+
+[Data](articles/7e85da09.json)
+
+[Extended Data](ext_articles/7e85da09.ext.json)
+
+---
 
 ### US did not impose a tourist ban - Vijitha
 
@@ -1396,6 +1418,30 @@ They further pointed out that there is much opportunity for corruption.
 
 ---
 
+### Electricity bill can be reduced by 30 percent
+
+*2024-10-28 19:49:35* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිල-සියයට-30කින්-අඩු-කළ-හැකියි/11-412731) · `si`
+
+Electricity bill may drop 30%. CEB proposes lower rates soon. Government can't control food costs but aims to reduce electricity bills. No major changes needed for current pricing structure.
+
+🟩
+
+The former Chairman of the Public Utilities Commission (People's Rep) said that the electricity bill could be reduced by 30% due to the past year.
+
+However, the Electricity Board (CEB) has proposed to reduce the cost of the electricity tariff amous from the next six months.
+
+The government cannot control the prices of eggs, rice and coconut coconut production and the electricity bill to increase the electricity industry and the electricity bill could be reduced by 30%.
+
+The government said that the government does not need a majority or two-thirds power in Colombo yesterday (28), a proposal to the Public Utilities Commission from the Electricity Board (CEB) from the Electricity Board.
+
+◼️
+
+[Data](articles/acf979af.json)
+
+[Extended Data](ext_articles/acf979af.ext.json)
+
+---
+
 ### Police notice of investigations into the attack plan
 
 *2024-10-28 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202659) · `si`
@@ -2305,53 +2351,5 @@ The department reaffirmed its commitment to safe operations, highlighting that a
 [Data](articles/3671ab51.json)
 
 [Extended Data](ext_articles/3671ab51.ext.json)
-
----
-
-### Yall. Parents struggle in front of school in Kopay!
-
-*2024-10-28 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197333) · `ta`
-
-Parents protest outside Kopay North Roman Catholic School in Jaffna due to teacher shortages and disruptions. Police intervened briefly.
-
-🟩
-
-Parents held a protest on Monday (28) in front of the Kopay North Roman Catholic School, Jaffna.
-
-Parents have carried out this struggle with a number of shortcomings, such as teachers 'shortage, teachers' telephone at school during school.
-
-It has been revealed that the road was interrupted and the police had corrected the situation for a while.
-
-◼️
-
-[Data](articles/7169f665.json)
-
-[Extended Data](ext_articles/7169f665.ext.json)
-
----
-
-### WhatsApp accounts that are hacked in Sri Lanka;People are warning
-
-*2024-10-28 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/197324) · `ta`
-
-Sri Lanka WhatsApp hacking incident: Hackers use stolen verification codes to gain access. Victims receive fake financial aid requests via SMS. Politicians' accounts also compromised. Experts warn against sharing verification codes with unknown contacts.
-
-🟩
-
-WhatsApp accounts are being hacked in Sri Lanka. Hackers are hacked and logged in the WhatsApp account through the verification code.
-
-Many have faced such incidents recently. The verification code is sent from an unknown person through what is unexpected.
-
-Hackers are in contact with WhatsApp and as friends or acquaintances demanded the verification code number. The WhatsApp account is hacked once you send that number to the person who demands that number.
-
-A Colombo -based businessman who has hacked the WhatsApp account said,
-
-A text message came from the wife of a friend I knew. Asked how I am. After exchanging happiness, she mentioned that she had sent a code to her by mistake and it was needed again. I shared the code, assuming that this is real.Then my WhatsApp account was immediately hacked.
-
-...
-
-[Data](articles/6627cca2.json)
-
-[Extended Data](ext_articles/6627cca2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 17:09:22**
+As of **2024-10-29 17:24:13**
 
 ## Newspaper Stats
 
-*Scraped **52,044** Articles*
+*Scraped **52,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,095
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,839
-adaderanalk | 6,168
+adalk | 4,840
+adaderanalk | 6,169
 tamilmirrorlk | 7,213
 virakesarilk | 8,401
 adaderanasinhalalk | 9,055
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,055
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,036 (100.0%) of 52,044 articles have been extended.
+52,042 (100.0%) of 52,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Businessman barred from sharing defamatory info against ex-State Minister on WhatsApp
+
+*2024-10-29 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103014/-businessman-barred-from-sharing-defamatory-info-against-ex-state-minister-on-whatsapp) · `en`
+
+The Colombo Magistrate’s Court has issued a conditional injunction on a businessman from Mannar, preventing him from circulating defamatory information targeting former State Minister Kader Masthan on social media platforms including WhatsApp.
+
+Colombo Chief Magistrate Thilina Gamage issued this order after considering a plaint filed by the former state minister under the Online Safety Act, Ada Derana reporter said.
+
+Furthermore, the court has ordered the businessman named as a respondent in the case to appear before the court and present facts on November 12.
+
+The complainant has alleged in his plaint that the respondent was circulating misleading and defamatory videos and information against him through social media including WhatsApp and that it was an illegal act under the Online Security Act.
+
+◼️
+
+[Data](articles/7858a6b1.json)
+
+[Extended Data](ext_articles/7858a6b1.ext.json)
+
+---
 
 ### Do not abandon education and effort in any case
 
@@ -84,21 +104,27 @@ The film, starring Raghava Lawrence, is also observed that the film will be rele
 
 ---
 
-### பெலியத்த - கண்டி அதிவேக ரயிலில் ரவைக்கூடு மீட்பு
+### Ravaikkuttu recovery on Beliyatta - Kandy high -speed train
 
 *2024-10-29 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197426) · `ta`
 
-பெலியத்தவில் இருந்து  கண்டி நோக்கி  பயணிக்க இருந்த அதிவேக ரயிலில்  ரவைக்கூடு ஒன்று மீட்கப்பட்டுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+High-speed train from Beliatta to Kandy recovers ravaikkuttu. Train officers found magazine and ravic bout in black bag. Incident reported to Beliyatta Railway Station. Dogs ensure train safety.
 
-மருதானையில் இருந்து காலை 6.30 மணிக்கு புறப்பட ஆரம்பித்த ரயில் பெலியத்த ரயில்  நிலையத்தில் தனது பயணத்தை நிறைவ செய்தது.
+🟩
 
-இந்நிலையில், குறித்த ரயில் பெலியத்தவில் இருந்து மீண்டும் கண்டிக்கு புறப்படத் jயாராக இருந்தது. புறப்படுவதற்கு முன்னர் ரயில் அதிகாரிகளின் வழக்கமான சோதனை நடவடிக்கையின் போது ரயிலில் இருக்கை ஒன்றின் கீழே கறுப்பு நிற பை ஒன்றில் ஒரு பத்திரிகை மற்றும் ரவைக்கூடு மீட்கப்பட்டுள்ளது.
+The railway department has said that a raviccopher has been recovered on a high -speed train traveling from Beliatta to Kandy.
 
-உடனடியாக சம்பவம் குறித்து பெலியத்த ரயில் நிலைய அதிபருக்கு அறிவிக்கப்பட்டு சோதனை நடத்தப்பட்டது. ரயிலின் பாதுகாப்பை உறுதி செய்ய தற்போது மோப்ப நாய்கள் பயன்படுத்தப்படுகின்றன.
+The train, which departed from Maradana at 6.30 am, completed its journey at the Beliyatta railway station.
+
+In this case, the train was back to Kandy from Beliatta. A magazine and a ravic bout were recovered in a black bag beneath a seat during the regular raid of the train officers before departing.
+
+Immediately the incident was notified to the Beliyatta Railway Station Chancellor. Currently dogs are currently used to ensure the safety of the train.
 
 ◼️
 
 [Data](articles/157fb0f1.json)
+
+[Extended Data](ext_articles/157fb0f1.ext.json)
 
 ---
 
@@ -113,6 +139,8 @@ Accordingly, the ASPI had closed at 12,745.60 points today, its highest value si
 ◼️
 
 [Data](articles/0c93005a.json)
+
+[Extended Data](ext_articles/0c93005a.ext.json)
 
 ---
 
@@ -138,19 +166,59 @@ Accordingly, OTP Passwords (PSSword information) by the pseudo-messages and What
 
 ---
 
-### மாணவர் தலைவர்களை அச்சுறுத்திய வேட்பாளர்
+### Forers of the students hospitalized after the vaccination of cancer
+
+*2024-10-29 16:22:03* · [`adalk`](https://www.ada.lk/breaking_news/පිළිකා-සදහා-ලබාදෙන-එන්නත-විදීමෙන්-පසු-සිසුවියන්-සිව්නෙකු-රොහල්-ගතකරයි/11-412741) · `si`
+
+Four 11-12 year-old girls from Wadduwa Girls' Vidyalaya hospitalized after cervical cancer vaccine. Symptoms: vomiting, difficulty breathing. Health officials monitoring situation.
+
+🟩
+
+According to a spokesman for the Panadura Base Hospital, a four girls at Wadduwa Girls' Vidyalaya have been hospitalized after the vaccine for cervical cancer.
+
+It is said that the students between 11 and 12 years old have been hospitalized.
+
+The four students who were hospitalized showed symptoms such as vomiting and difficulty in danger.
+
+Since the cervical cancer has been provided with cervical cancer these days, it is said to have been given to the students of Wadduwa Balika Vaccine.
+
+A health spokesman has been instructed to monitor the medical staff today (29) this day, and the four girls have been instructed to monitor the medical staff.Said.
+
+The four girls have been taken to the Panadura in the Panadura Base Hospital after two in 1990 ambulous vehicles.
+
+A special group of students have been hospitalized in a school in Amauratattota area two weeks ago.. (I. J)
+
+◼️
+
+[Data](articles/9536173e.json)
+
+[Extended Data](ext_articles/9536173e.ext.json)
+
+---
+
+### The candidate who threatened student leaders
 
 *2024-10-29 16:19:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்-தலைவர்களை-அச்சுறுத்திய-வேட்பாளர்/175-346274) · `ta`
 
-மட்டக்களப்பு ஓட்டமாவடி மத்திய கல்லூரியில் அத்துமீறி உள் நுழைய முற்பட்ட ஒருவரை தடுத்து நிறுத்திய பாதுகாப்பு உத்தியோகத்தர் மற்றும் மாணவர் தலைவர்களுக்கு தகாத வார்த்தை பிரயோகித்து பாடசாலை நடவடிக்கைகளுக்கு அச்சுறுத்தல் விடுத்த, தேர்தல் வேட்பாளர் ஒருவருக்கு எதிராக சனிக்கிழமை (26) அன்று பொலிஸ் நிலையத்திலும் தேர்தல் உதவி  ஆணையர்   மற்றும் தேர்தல் கண்காணிப்பு அமைப்பிலும் குறித்த பாடசாலையின் அதிபர் முறைப்பாடு செய்துள்ளார்.
+Candidate threatens student leaders, disrupts school activities. School principal files complaint with police, election officials. Investigation ongoing.
 
-பாடசாலை ஆரம்பிக்கும் போது தேசிய கீதம் மற்றும் காலை கூட்டம் இடம்பெறும் அப்போது பிந்தி வரும் மாணவர்களை காலைக்கூட்டம் முடியும் வரை நிறுத்தி வைப்பது வழமையானதாகும்.
+🟩
 
-இந் நிலையில் வெள்ளிக்கிழமை (25) காலை பாடசாலை ஆரம்பித்து காலைக் கூட்டம் இடம்பெற்றுக் கொண்டிருந்த போது குறித்த வேட்பாளர் அவரது பிள்ளையை பாடசாலைக்கு கொண்டு சென்றுள்ள நிலையில் அங்கு பிந்தி வந்த மாணவர்களை நிறுத்தி வைக்கப்பட்டிருந்துள்ளது.
+The Principal of the school, the Principal of the school, on Saturday (26), filed a complaint at the Police Station, Elections Commissioner and Election Monitoring Organization against a candidate who threatened school activities for school activities and threatened school activities for school activities.
 
-...
+It is customary to stop the students who are coming in the morning until the morning is over.
+
+In the meantime, when the school was inaugurated on Friday morning, the candidate had taken his child to school.
+
+When Bindi tried to enter the school premises to enter the school premises, he threatened the party's candidate by using the security officer and student leaders who had stopped him.
+
+Further investigations are being carried out by the Valaichenai police as the school principal has lodged a complaint with the Valaichenai Police Station and the District Election Assistant Commissioner and Election Monitoring System against the so -called Uluki Rabiq candidate.
+
+◼️
 
 [Data](articles/b3c52f5b.json)
+
+[Extended Data](ext_articles/b3c52f5b.ext.json)
 
 ---
 
@@ -174,19 +242,23 @@ By interacting with these fraudulent messages or clicking on embedded links, ind
 
 ---
 
-### பிரஜைகளுக்கு நெருக்கமான, வினைத்திறன்மிக்க அரச சேவையை உருவாக்குவோம் - ஜனாதிபதி
+### We will create a close -way public service that is close to citizens - the President
 
 *2024-10-29 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197414) · `ta`
 
-இந்தியாவில் ஒரு கிவ்ஆர் கோட் மூலமாக வடை விற்பனை செய்யும்போது  எமது மக்கள் ஐயாயிரம் ரூபாவை வாங்கவும்,  பத்து கிலோ அரிசியை வாங்கவும், அஸ்வெசும பெற்றுக்கொள்ளவும், காணிக்கான உறுதியை தயாரித்துக்கொள்ளவும் வரிசைகளில் அலைக்கழிய நேரிடுகின்றது. குறுகிய காலத்திற்குள் இவையனைத்தையும் முற்றாகவே மாற்றியமைத்து பிரஜைகளுக்கு நெருக்கமான,  வினைத்திறன்மிக்க அரச சேவையை உருவாக்குவோம். நாட்டை சீராக்குவது எப்படி, யார் என்பதை காட்டுகிறோம் என ஜனாதிபதி அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+When we sell a GivR coat in India, our people are in the queues to buy five thousand rupees, buy ten kilos of rice, get the assurance of the land, and make the stability of the land.. In a short time, we will completely change all these and create a close -way public service that is close to citizens. President Anura Kumara Dissanayake said we show how and who to normalize the country.
 
-களுத்துறையில் இடம்பெற்ற கூட்டத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே ஜனாதிபதி அநுரகுமார திஸாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+President Anura Kumara Dissanayake said this while addressing a meeting in Kalutara.
 
-ஜனாதிபதி தேர்தலில் எமக்கெதிராக முன்வைத்த பொய்க் குற்றச்சாட்டுகள் காரணமாக மக்கள் குழப்படைந்திருந்தார்கள். திசைகாட்டி வெற்றிபெற்று தற்போது ஒருமாதத்திற்கு  மேலாகிவிட்டது. அவையெல்லாமே பொய் என்பது உறுதியாகிவிட்டது.
+People were confused due to false accusations put forward in the presidential election. The compass has been successful and has now been over a month. All of them are false.
+
+Opponents say on platforms to send experienced people to parliament. Those who have been able to steal, understand illegal activities, bring chilli to parliament, take a knife, have been able to repeat the hand to the wrong decisions, and raise their hand to the wrong resolutions.This is what we call the Parliament filling out by newcomers.
 
 ...
 
 [Data](articles/032f0d40.json)
+
+[Extended Data](ext_articles/032f0d40.ext.json)
 
 ---
 
@@ -2263,43 +2335,5 @@ Nirosh Ananda has said that his section has received several complaints regardin
 [Data](articles/2cd61e8a.json)
 
 [Extended Data](ext_articles/2cd61e8a.ext.json)
-
----
-
-### Showers expected in parts of the island
-
-*2024-10-29 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102994/showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
-
-Showers or thundershowers may occur at several places in the other areas of the island during the evening or night.
-
-Strong winds about 40 kmph can be expected at times over Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts, it added.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/1dd7cece.json)
-
-[Extended Data](ext_articles/1dd7cece.ext.json)
-
----
-
-### Train services on coastal line delayed
-
-*2024-10-29 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102993/train-services-on-coastal-line-delayed) · `en`
-
-The train services on the coastal line have been delayed due to a train breaking down at Payagala owing to a technical failure, the Department of Railways said.
-
-It is reported that the relevant train is being brought to Colombo Fort by using another train engine.
-
-As a result, the train operating from Galle to Colombo along the coastal line will be delayed, the Department of Railways said.
-
-◼️
-
-[Data](articles/ed36de47.json)
-
-[Extended Data](ext_articles/ed36de47.ext.json)
 
 ---

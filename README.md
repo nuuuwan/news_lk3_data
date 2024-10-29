@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 11:40:27**
+As of **2024-10-29 12:00:12**
 
 ## Newspaper Stats
 
-*Scraped **51,958** Articles*
+*Scraped **51,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,98 @@ dbsjeyarajcom | 413
 colombotelegraphcom | 526
 bbccomsinhala | 528
 islandlk | 3,094
-economynextcom | 3,158
+economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,832
-adaderanalk | 6,154
+adalk | 4,833
+adaderanalk | 6,157
 tamilmirrorlk | 7,197
 virakesarilk | 8,374
-adaderanasinhalalk | 9,041
+adaderanasinhalalk | 9,042
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,958 (100.0%) of 51,958 articles have been extended.
+51,964 (100.0%) of 51,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Railway Station Masters to launch immediate trade union action
+
+*2024-10-29 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103001/railway-station-masters-to-launch-immediate-trade-union-action) · `en`
+
+The Railway Station Masters’ Association has decided to launch an immediate trade union action, over issues pertaining to the post of Railway Station Master.
+
+President of the association Sumedha Somarathne stated that they will launch the relevant trade union action if no favorable response is received to their demands within 72 hours starting from yesterday (28).
+
+He further mentioned that they arrived at this decision since no favorable response has been received from the authorities pertaining to issues of the Railway Station Masters including promotions, despite repeated demands.
+
+...
+
+[Data](articles/7d485808.json)
+
+[Extended Data](ext_articles/7d485808.ext.json)
+
+---
+
+### Oman company to supply liquid petroleum gas to Litro Company in 2025
+
+*2024-10-29 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202683) · `si`
+
+Cabinet spokesman Vijitha Herath says that the Cabinet has approved the proposal to provide the contract to supply liquid petroleum gas for 2025.
+
+Accordingly, Litro Gas Lanka Limited was convened under the Indicans-Double -Kee Dual and Limited.
+
+M / S OQ Trading Limited and M / S SIAM GAS Trading PTE LTD. Only the two institutions have bid.
+
+M / S SIAM GAS Trading PTE Ltd in Technology Evaluation. The bid presented by the submitted has been rejected.
+
+Accordingly, the Significant responsive bidder is the essential responsive bidding bidding on the recommendations of the Technical Evaluation Committee and the Similar charges of the Fixed Procurement Committee.The proposal presented by the Minister of Tourism was approved by the Cabinet of Ministers, "said Minister Herath said.
+
+◼️
+
+[Data](articles/f44f23eb.json)
+
+[Extended Data](ext_articles/f44f23eb.ext.json)
+
+---
+
+### Govt’s borrowing only within approved limits, reassessment planned after polls - Dr. Nalinda Jayathissa
+
+*2024-10-29 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103000/govts-borrowing-only-within-approved-limits-reassessment-planned-after-polls-dr-nalinda-jayathissa) · `en`
+
+Dr. Nalinda Jayathissa, an executive member of the National People’s Power (NPP), emphasized that the recent loans obtained by the government have been strictly within the limits approved by Parliament.
+
+Addressing concerns over the rising national debt, Dr. Jayathissa highlighted that any borrowing has complied with these legislative restrictions.
+
+He further stated the need for reassessment in the next parliament, hinting at plans to revise the borrowing limits to facilitate better debt management. When questioned about the government’s ability to reduce taxes without increasing debt, Dr. Jayathissa explained that effective debt management could prevent excessive borrowing.
+
+...
+
+[Data](articles/1edea5b6.json)
+
+[Extended Data](ext_articles/1edea5b6.ext.json)
+
+---
+
+### Extraordinary gazette issued for prevention of African Swine Fever spread
+
+*2024-10-29 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102999/extraordinary-gazette-issued-for-prevention-of-african-swine-fever-spread) · `en`
+
+A gazette extraordinary has been issued declaring every Divisional Secretariat Division of Sri Lanka to be an infected area or suspected area for African Swine Fever (AFS) and Porcine Reproductive and Respiratory Syndrome (PRRS).
+
+Issuing the gazette extraordinary, Director General of Animal Production and Health Chandrika Hemali Abeyrathna Kothalawala stated that this declaration was made by virtue and in the exercise of powers vested in her as African Swine Fever (AFS) and Porcine Reproductive and Respiratory Syndrome (PRRS) are Specified Diseases within the meaning of the Animal Diseases Act, No. 59 of 1992 and the Order made thereunder and published in the Gazette Extraordinary No. 1867/8 dated 17.06.2014 has been reported to have occurred and suspected to be occurred in every Divisional Secretariat Division of the Island.
+
+...
+
+[Data](articles/4be20282.json)
+
+[Extended Data](ext_articles/4be20282.ext.json)
+
+---
 
 ### Government announces about printing money
 
@@ -100,6 +174,28 @@ After the call, airport operations were interrupted, the airport and passengers 
 
 ---
 
+### We too want to see a bank note with her signature - but money has not been printed
+
+*2024-10-29 10:53:51* · [`adalk`](https://www.ada.lk/breaking_news/අපිත්-ආසයි-එතුමගේ-අත්සනින්-මුදල්-නෝට්ටුවක්-දකින්න---ඒත්-මුදල්-අච්චු-ගැසීමක්-සිදු-කරලා-නෑ/11-412734) · `si`
+
+Sri Lanka: New currency notes without Finance Minister's signature not printed; no new loans issued.
+
+🟩
+
+Cabinet spokesman Vijitha Herath said that no new loans or money has been done.
+
+He was speaking at a media briefing of the Cabinet Decision.
+
+"Minister Minister Minister is the President. There should be the signature of the Minister of Finance in any newly printed currency note. Anura Dissanayake has not been released anywhere with the signature note of Minister Minister Minister. If there is such a note. We want to see a currency note of his signature. Not one of the following. So the fake news is molded by a billion cash molds. It's a full false news. The new money has not been printed. No new borrowing has happened. "
+
+◼️
+
+[Data](articles/c94858fb.json)
+
+[Extended Data](ext_articles/c94858fb.ext.json)
+
+---
+
 ### New contractor appointed for supply of LPG to Litro Gas Company
 
 *2024-10-29 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102998/new-contractor-appointed-for-supply-of-lpg-to-litro-gas-company) · `en`
@@ -139,6 +235,30 @@ In this case, the crackers that were placed in Gudon exploded in the fire. It is
 [Data](articles/823cd629.json)
 
 [Extended Data](ext_articles/823cd629.ext.json)
+
+---
+
+### Sri Lanka bans transport, sale of African Swine Fever infected pigs
+
+*2024-10-29 10:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-bans-transport-sale-of-african-swine-fever-infected-pigs-185419/) · `en`
+
+ECONOMYNEXT – Sri Lanka has issued a gazette notice banning the transport, slaughter and sale of pigs infected with African Swine Fever as part of efforts to combat an outbreak.
+
+Sri Lanka’s Western and Wayamba Provinces have to highest concentration of pig farms, K K Sarath, Western Provincial Director of the Department of Animal Production and Health told Sri Lanka’s Derana television.
+
+There are around 1,000 registered pig farms in the Western Province with 40,000 to 50,000 pigs, but the number is believed to be under-reported by farmers, he said.
+
+The numbers being brought forward for vaccination show that farmers had previously under-reported flocks, he said.
+
+It takes about 6 to 8 months to grown and slaughter a pig and in any case the figure is dynamic, he said.
+
+In the Western Province, 11,607 pigs have died based on official data and 21,000 are infected with the disease, Sarath said.
+
+...
+
+[Data](articles/dc909040.json)
+
+[Extended Data](ext_articles/dc909040.ext.json)
 
 ---
 
@@ -300,6 +420,28 @@ Meanwhile, Rohana Hettiarachchi, the Executive Director of People’s Action for
 
 ---
 
+### Sri Lanka rupee opens weaker at 293.70/75 to US dollar, bond yields steady
+
+*2024-10-29 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-293-70-75-to-us-dollar-bond-yields-steady-185417/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee depreciated slightly to open at 293.70/75 to the US dollar on Tuesday, from 293.60/70 a day earlier, while bond yields were broadly steady dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.60/80 percent, up from 10.55/75 percent.
+
+A bond maturing on 15.12.2027 was quoted stable at 11.45/50 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.70/75 percent, up from 11.65/75 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.95/12.05 percent, down from 11.95/12.10 percent.
+
+In equities, Colombo’s All Share Price Index was trading up 0.26 percent, or 33.25 points higher at 12,643, while the S&P SL20 of more liquid stocks was trading up 0.59 percent or 22.40 points higher at 3,813.
+
+◼️
+
+[Data](articles/24cebeb7.json)
+
+---
+
 ### Matthew Wade retires from international cricket
 
 *2024-10-29 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202678) · `si`
@@ -449,6 +591,28 @@ As a result, the train operating from Galle to Colombo along the coastal line wi
 [Data](articles/ed36de47.json)
 
 [Extended Data](ext_articles/ed36de47.ext.json)
+
+---
+
+### Sri Lanka battles African Swine Fever outbreak
+
+*2024-10-29 08:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-battles-african-swine-fever-outbreak-185412/) · `en`
+
+ECONOMYNEXT – Sri Lanka is experiencing an outbreak of African Swine Fever especially in the Western Province and attempts are being made to stop the spread to other areas, officials have said.
+
+Sri Lanka’s Western and Wayamba Provinces have to highest concentration of pig farms, K K Sarath, Western Provincial Director of the Department of Animal Production and Health told Sri Lanka’s Derana television.
+
+There are around 1,000 registered pig farms in the Western Province with 40,000 to 50,000 pigs, but the number is believed to be under-reported by farmers, he said.
+
+The numbers being brought forward for vaccination show that farmers had previously under-reported flocks, he said.
+
+It takes about 6 to 8 months to grown and slaughter a pig and in any case the figure is dynamic, he said.
+
+In the Western Province, 11,607 pigs have died based on official data and 21,000 are infected with the disease, Sarath said.
+
+...
+
+[Data](articles/c6eded98.json)
 
 ---
 
@@ -683,6 +847,30 @@ According to the President of LAUGFS Gas, WWlapitiya, said that the gas consignm
 [Data](articles/c1286f6b.json)
 
 [Extended Data](ext_articles/c1286f6b.ext.json)
+
+---
+
+### Sri Lanka price controllers investigate rice mill stocks amid Rs65 food tax
+
+*2024-10-29 06:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-price-controllers-investigate-rice-mill-stocks-amid-rs65-food-tax-185383/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Consumer Affairs Authority has entered several rice mills in the Polonnaruwa district, and collected data on rice stocks, amid a spike in price controlled rice grades, media reports said.
+
+The CAA officials had first entered the stores of Nipuna rice, which belongs to an ex-state Minister Siripala Gamplath, state-run Dinamina newspaper reported.
+
+Gamlath had said that their company was releasing rice at 219 rupees a kilo which was one rupee below the controlled price.
+
+At 219 rupees a kilo a metric tonne works out to about 744 US dollars.
+
+He had claimed that the cost was 225 rupees a kilo and he lost 6 rupees from every kilo sold.
+
+According to the FAO September rice price update India par-boiled rice 5% broken FOB price was 534 US dollar a tonne.
+
+South Asian rice prices went up last year after an export tax and minimum export price set by India. However India is expecting a better harvest.
+
+...
+
+[Data](articles/8a0746a3.json)
 
 ---
 
@@ -2133,223 +2321,5 @@ Last week, many foreign embassies warned their citizens that they would be attac
 [Data](articles/9a1cb012.json)
 
 [Extended Data](ext_articles/9a1cb012.ext.json)
-
----
-
-### Ram Gopal Verma's 'Saree' will be released in December
-
-*2024-10-28 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/197344) · `ta`
-
-Ram Gopal Verma's 'Saree' releases Dec 20th. Directed by Giri Krishna, starring Satya Yadu. Co-produced by RV Productions. Released in Tamil, Telugu, Malayalam, and Hindi. Focuses on social media impact. Exciting fans with 2 million views.
-
-🟩
-
-The release date of the film 'Saree' has been officially announced in the Indian film industry.
-
-In the film 'Saree', directed by debutant director Giri Krishna, actor Satya Yadu is the hero of the story and the hero of the story is the hero of the story.
-
-The film was co -produced by producers Ram Gopal Verma and Ravi Verma on behalf of RV Productions.
-
-The film, which is being released in Tamil, Telugu, Malayalam and Hindi, will be released at the film palace on the twenty of December.
-
-Commenting on the film, the director said, “The focal point of the film is that if you go too much, Amrita is also poisoned.
-
-The younger generation today is not the impact of social media. The screenplay of the film describes the changes in the lives of individuals by social media. ”
-
-The film's excitement has been released by over two million viewers and the expectation of the film has increased in fans.
-
-◼️
-
-[Data](articles/012542f1.json)
-
-[Extended Data](ext_articles/012542f1.ext.json)
-
----
-
-### “Prevent improper purchases”
-
-*2024-10-28 17:14:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முறையற்ற-கொள்முதலை-தடுக்கவும்/175-346211) · `ta`
-
-"Strengthening National Procurement Commission key: President Anura Kumara Dissanayake calls for improved processes to prevent fraud and ensure transparency in government spending."
-
-🟩
-
-President Anura Kumara Dissanayake said a formal plan to strengthen the National Procurement Commission should be implemented.
-
-President Anura Kumara Dissanayake said this during a discussion with officials of the National Procurement Commission at the Presidential Secretariat on Monday (28).
-
-President Anura Kumara Dissanayake discussed with officials of the National Procurement Commission on the current procurement law and procurement activities.
-
-Officials have presented the issues relating to the lack of procurement work under the existing law and guidelines.
-
-Officials of the National Procurement Commission pointed out to the president that about 60% of all expenses, including the capital expenses of the government, should be subjected to a proper purchase process, but due to the shortcomings in the procurement process, the government is causing a huge loss.
-
-They further pointed out that fraud and corruption are more likely.
-
-...
-
-[Data](articles/928cfd1e.json)
-
-[Extended Data](ext_articles/928cfd1e.ext.json)
-
----
-
-### Sri Lanka NPC officials say procurement shortcomings cause significant losses
-
-*2024-10-28 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-npc-officials-say-procurement-shortcomings-cause-significant-losses-185332/) · `en`
-
-ECONOMYNEXT– Sri Lanka government has been losing a significant amount of money due to not following a proper procurement process, members of the National Procurement Commission have told President Anura Kumara Dissanayake, the President’s Media Division (PMD) said.
-
-President Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP) in the past had revealed a raft of corrupt practices in government procurement procedures and unsolicited projects.
-
-The JVP also has pledged legal action against the past corruption, while implementing a proper process to prevent such corruption in the future.
-
-President Dissanayake at a meeting with the National Procurement Commission (NPC) has emphasized the importance of implementing a procurement plan and strengthening the NPC while he engaged in an in-depth discussion with NPC officials on the current procurement laws and procedures.
-
-...
-
-[Data](articles/967ca1dc.json)
-
-[Extended Data](ext_articles/967ca1dc.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 293.60/70 to dollar, bond yields down
-
-*2024-10-28 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-293-60-70-to-dollar-bond-yields-down-185338/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed flat at 293.60/70 to the US dollar Monday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2027 closed at 11.40/50 percent, down from 11.50/60 percent.
-
-A bond maturing on 15.03.2028 closed at 11.65/75 percent, down from 11.75/85 percent.
-
-A bond maturing on 15.06.2029 closed at 11.95/12.10 percent down from 12.00/10 percent. (Colombo/Oct28/2024)
-
-◼️
-
-[Data](articles/3c17e115.json)
-
-[Extended Data](ext_articles/3c17e115.ext.json)
-
----
-
-### The new song release of Gavin starring 'Bloody Becker'
-
-*2024-10-28 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/197340) · `ta`
-
-New song "Ponmayame" from film "Bloody Becker" featuring Gavin. Directed by Sivapalan Muthukumar, produced by Nelson Dilip Kumar. Promotional events planned for March 31. Song written by Vivek and Vishnu Edavan, sung by Satya Narayanan. Music composed by Zen Martin.
-
-🟩
-
-A new song 'Ponmayame', which has been featured in the film 'Bloodi Becker', which is the leading role of actor Gavin's story, has been released.
-
-Gavin, Redin Kingsley, Maruti Prakashraj, Priyadarshini Rajkumar, Akshaya Hariharan, directed by debutant director Sivapalan Muthukumar.
-
-The film is being produced by Nelson Dilip Kumar, the famous director of the Flumment Pictures.
-
-On the 31st of this month, the film crew is making various promotional events to reach the fans of the film 'Bloody Becker', which will be released worldwide.
-
-In this case, the song 'Kanni Kanda Nation is the goddess' and the song of the song and the lyrical video for the song has been released.
-
-The song is written by Vivek and Vishnu Edavan, sung by playback singer Satya Narayanan.
-
-In this song, the composer Zen Martin's charming, the lyrics and the background voice, is very popular as the music fans have a new experience.
-
-◼️
-
-[Data](articles/60688982.json)
-
-[Extended Data](ext_articles/60688982.ext.json)
-
----
-
-### A Tamil representation in Badulla district should be retained - Arunachalam Aravindakumar
-
-*2024-10-28 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/197337) · `ta`
-
-Tamil representation crucial in Badulla district: Arunachalam Aravindakumar. UNP leader emphasizes fair voting to address imbalance between Tamil and Sinhalese voters. Highlights education initiatives and addressing teacher shortages in the region.
-
-🟩
-
-There are about six lakh voters in Badulla district. There are only one million people as minority candidates. Therefore, these one million voters have to compete with the six lakh Sinhalese voters.. If hundreds of candidates are in the field, there is a question of Tamil representation. The United National Alliance (UNP) chief hunter Arunachalam Aravindakumar said that the people should think in the decisively and use their votes in order to change this situation.
-
-He was speaking at the UNP's election campaign meeting held in the LLG section of the Poonaalai estate.
-
-The resolution of the need for a Tamil representation in Badulla district is in the public. I have the right and courage to go to all the gardens and areas of the Badulla district.
-
-Because I am looking for all territories equally. I see the need for all areas.
-
-It is a pleasure to realize the need of the Badulla district and fulfill the aspirations of the people.. However, today all the gardens are seeking our people.
-
-...
-
-[Data](articles/96c63688.json)
-
-[Extended Data](ext_articles/96c63688.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover at Rs4.4bn
-
-*2024-10-28 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-rs4-4bn-185333/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader ASPI closed up 0.74 percent, or 92.48 points, at 12,610; while the more liquid S&P SL20 Index closed up 0.84 percent, or 31.60 points, at 3,790.
-
-Hatton National Bank (up at 219.50) contributed 926 million to turnover.
-
-Top contributors to the ASPI were LOLC Holdings (up at 463.00), Browns Investments (up at 6.10), NDB (up at 83.40), Sampath Bank (up at 86.00), and Melstacorp (up at 91.40).
-
-Foreign buying interest was seen in CIC Holdings (up at 80.00), Dipped Products (up at 39.10), Commercial Bank (up at 114.00), Access Engineering (up at 25.30), Sunshine Holdings (up at 66.90), John Keells Holdings (down at 212.50).
-
-Foreign selling was seen in John Keells Hotels (up at 17.10), CIC Holdings non-voting (up at 60.00), Browns Investments, Lankem Developments (up at 20.70), Dialog Axiata (flat at 10.90), and Melstacorp. (Colombo/Oct28/2024)
-
-◼️
-
-[Data](articles/4df78e45.json)
-
-[Extended Data](ext_articles/4df78e45.ext.json)
-
----
-
-### Sri Lanka Railways addresses safety concerns on Maho-Omanthe line
-
-*2024-10-28 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102986/sri-lanka-railways-addresses-safety-concerns-on-maho-omanthe-line) · `en`
-
-The Department of Railways has issued a statement addressing recent concerns regarding the safety of the railway line between Maho and Omanthe, following claims from trade unions that the line posed risks to passengers.
-
-In its statement, the department stated that while some trade unions have periodically raised concerns over the line’s safety, the Railways Department has implemented measures to ensure the safety of passengers, vehicles, and pedestrians at railway crossings.
-
-Officials emphasized that several test runs were conducted on the line, with the participation of trade union representatives, to address these safety concerns.
-
-The department reaffirmed its commitment to safe operations, highlighting that all necessary precautions have been taken to address issues raised during these trials and that the line remains safe for public use.
-
-◼️
-
-[Data](articles/2bff00bf.json)
-
-[Extended Data](ext_articles/2bff00bf.ext.json)
-
----
-
-### Sri Lanka Railways addresses safety concerns on Maho-Omanthai line
-
-*2024-10-28 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102986/sri-lanka-railways-addresses-safety-concerns-on-maho-omanthai-line) · `en`
-
-The Department of Railways has issued a statement addressing recent concerns regarding the safety of the railway line between Mahawa and Omanthai, following claims from trade unions that the line posed risks to passengers.
-
-In its statement, the department stated that while some trade unions have periodically raised concerns over the line’s safety, the Railways Department has implemented measures to ensure the safety of passengers, vehicles, and pedestrians at railway crossings.
-
-Officials emphasized that several test runs were conducted on the line, with the participation of trade union representatives, to address these safety concerns.
-
-The department reaffirmed its commitment to safe operations, highlighting that all necessary precautions have been taken to address issues raised during these trials and that the line remains safe for public use.
-
-◼️
-
-[Data](articles/3671ab51.json)
-
-[Extended Data](ext_articles/3671ab51.ext.json)
 
 ---

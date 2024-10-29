@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 16:13:30**
+As of **2024-10-29 16:24:41**
 
 ## Newspaper Stats
 
-*Scraped **52,029** Articles*
+*Scraped **52,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,094
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,837
-adaderanalk | 6,166
+adalk | 4,838
+adaderanalk | 6,167
 tamilmirrorlk | 7,211
 virakesarilk | 8,395
 adaderanasinhalalk | 9,054
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,054
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,029 (100.0%) of 52,029 articles have been extended.
+52,031 (100.0%) of 52,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Public alerted over surge in fake messages on WhatsApp and other social media
+
+*2024-10-29 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103011/public-alerted-over-surge-in-fake-messages-on-whatsapp-and-other-social-media-) · `en`
+
+The Sri Lanka Computer Emergency Readiness Team (SL CERT) today issued an alert to the public about the surge in fake messages being disseminated via social media and communication platforms, particularly WhatsApp.
+
+These deceptive messages are designed to fraudulently obtain personal and financial information by impersonating credible institutions, including banks, commercial organizations, and international bodies, according to the SL CERT.
+
+Recent observations by Sri Lanka CERT indicate that cybercriminals are using social media platforms, fake websites, SMS, and even postal services to reach potential victims. In many cases, these messages falsely promise donations, monetary rewards, high-value products, or services and request sensitive information, including One-Time Passwords (OTPs).
+
+By interacting with these fraudulent messages or clicking on embedded links, individuals risk exposing their personal data to criminal misuse, including financial fraud and identity theft, it added.
+
+...
+
+[Data](articles/599a5f70.json)
+
+[Extended Data](ext_articles/599a5f70.ext.json)
+
+---
 
 ### Arugamay surrenders to a confidential report on investigations
 
@@ -619,6 +639,30 @@ Subsequently, the public has been granted permission to participate in court pro
 [Data](articles/bcb0018b.json)
 
 [Extended Data](ext_articles/bcb0018b.ext.json)
+
+---
+
+### Beware of fake messages coming through social media networks
+
+*2024-10-29 13:24:20* · [`adalk`](https://www.ada.lk/breaking_news/සමාජ-මාධ්‍ය--ජාල-හරහා-එන-ව්‍යාජ-පණිවුඩ-වලින්-ප්‍රවේසම්-වන්න/11-412739) · `si`
+
+Be cautious of fake messages on social media platforms like WhatsApp. Cyber frauds target personal data and financial information. Verify official sources before responding to suspicious links or requests. Ignore unsolicited offers or warnings about your accounts. Protect yourself from identity theft and scams by being vigilant online.
+
+🟩
+
+Sri Lanka Sir Sir has observed that the cyber frauds that have been used by the GCE (POST), who is using social media outlets, including whatsapps, including whatsApps (POST) Central Independence personal data financial information.
+
+Accordingly, the job preserves, gifts, winning, and whamsapp messages will be carefully sent by the fake message and whatsapp messages of various banks, commercial organizations, international organizations, international agencies.The Sri Lanka Cert (Sri Lanka Cert) Institute requested the public.
+
+Subsided (FAKE WEB) Web Site, Social Media Places, SMS, Whatsapp, send these cyber traffickers to join you through SMS, Whatsapp.Visitors to Links they are connected to the computers, cell phones that connected to the data of individuals, and make money frauds.
+
+EspressApp uses OTP Password information sended by WhatsApp messages, especially by the Ilap Password information sended by. It will work with different assistance requests using your WHATSApp account.
+
+...
+
+[Data](articles/92660f1e.json)
+
+[Extended Data](ext_articles/92660f1e.ext.json)
 
 ---
 
@@ -2305,59 +2349,5 @@ The government is being very rational in its actions whether in dealing with the
 [Data](articles/69c17ede.json)
 
 [Extended Data](ext_articles/69c17ede.ext.json)
-
----
-
-### Sri Lanka price controllers investigate rice mill stocks amid Rs65 food tax
-
-*2024-10-29 06:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-price-controllers-investigate-rice-mill-stocks-amid-rs65-food-tax-185383/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Consumer Affairs Authority has entered several rice mills in the Polonnaruwa district, and collected data on rice stocks, amid a spike in price controlled rice grades, media reports said.
-
-The CAA officials had first entered the stores of Nipuna rice, which belongs to an ex-state Minister Siripala Gamplath, state-run Dinamina newspaper reported.
-
-Gamlath had said that their company was releasing rice at 219 rupees a kilo which was one rupee below the controlled price.
-
-At 219 rupees a kilo a metric tonne works out to about 744 US dollars.
-
-He had claimed that the cost was 225 rupees a kilo and he lost 6 rupees from every kilo sold.
-
-According to the FAO September rice price update India par-boiled rice 5% broken FOB price was 534 US dollar a tonne.
-
-South Asian rice prices went up last year after an export tax and minimum export price set by India. However India is expecting a better harvest.
-
-...
-
-[Data](articles/8a0746a3.json)
-
-[Extended Data](ext_articles/8a0746a3.ext.json)
-
----
-
-### Two lives in two lives
-
-*2024-10-29 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202668) · `si`
-
-Train accidents claim four lives: Two killed, two injured in separate incidents in Ahungalla and Peradeniya police divisions.
-
-🟩
-
-Two persons were killed and two persons collided with the train in Ahungalla and Peradeniya Police Divisions.
-
-The incident has been reported yesterday, the police spokesman's office said.
-
-A person was killed and killed by a train traveling from Maradana from Maradana, Ahungalla.
-
-The deceased has been identified as a 68 year old resident of Kosgoda, Piyagama.
-
-Meanwhile, a man was killed and a train traveling from Kandy to Polgahawela
-
-The victim was a 64 year old resident of the Aladeniya area in Gelioya.
-
-◼️
-
-[Data](articles/4bcb93e0.json)
-
-[Extended Data](ext_articles/4bcb93e0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 12:00:12**
+As of **2024-10-29 12:15:11**
 
 ## Newspaper Stats
 
-*Scraped **51,967** Articles*
+*Scraped **51,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,833
-adaderanalk | 6,157
-tamilmirrorlk | 7,197
+adaderanalk | 6,158
+tamilmirrorlk | 7,200
 virakesarilk | 8,374
-adaderanasinhalalk | 9,042
+adaderanasinhalalk | 9,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,964 (100.0%) of 51,967 articles have been extended.
+51,968 (100.0%) of 51,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### அமெரிக்கா பயணத்தடை விதிக்கவில்லை - விஜித ஹேரத்
+
+*2024-10-29 12:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்கா-பயணத்தடை-விதிக்கவில்லை-விஜித-ஹேரத்/175-346259) · `ta`
+
+இலங்கையில் நடத்த திட்டமிடப்பட்ட தாக்குதல் தொடர்பில் வெளிநாட்டு புலனாய்வு நிறுவனம் சில தகவல்களை இலங்கை புலனாய்வு பிரிவுக்க வழங்கியதாகவும், அதற்கேற்ப பாதுகாப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட்டதாகவும் அமைச்சரவை பேச்சாளர் அமைச்சர் விஜித ஹேரத் தெரிவித்துள்ளார்.
+
+இன்று (29) இடம்பெற்ற அமைச்சரவை முடிவுகளை அறிவிக்கும் ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட அமைச்சர், அதற்கமைவாக தேசிய பாதுகாப்புச் சபைகளை கூட்டி விரைவான தீர்மானங்களை மேற்கொள்ள வேண்டும் என்றார்.
+
+சந்தேகத்தின் பேரில் பலர் கைது செய்யப்பட்டுள்ளதாகவும் அவர்கள் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் அவர் கூறினார்.
+
+இதேவேளை, அறுகம்பே பகுதிக்கு விஜயம் செய்வதில் அவதானமாக இருக்குமாறு அமெரிக்கா அறிவித்துள்ள போதிலும், பயணத்தடை விதிக்கவில்லை என அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/e79e2865.json)
+
+---
+
+### පාස්පෝට් අවශ්‍ය අයගෙන් ඇමති විජිත කළ ඉල්ලීම
+
+*2024-10-29 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202684) · `si`
+
+විදෙස් ගමන් බලපත්‍ර ලබා ගැනීම සඳහා අත්‍යවශ්‍ය ම අය පමණක් ආගමන විගමන දෙපාර්තමේන්තුවට පැමිණෙන ලෙස කැබිනට් ප්‍රකාශක විජිත හේරත් මහතා ඉල්ලා සිටියි.
+
+ඔහු පැවසුවේ නව පාස්පෝට් තවත් ලැබීමට නියමිත බවත් එම තොග ලැබුණු පසු එම ගැටලුව විසඳෙන බවත්ය.
+
+පසුගිය දින වල බත්තරමුල්ල ආගමන විගමන කාර්යාලය අසලට පාස්පෝට් ලබාගැනීම සඳහා විශාල වශයෙන් පිරිස් පැමිණීම හේතුවෙන් උණුසුම් තත්ත්වයක් ඇතිවුණි.
+
+...
+
+[Data](articles/ab631de1.json)
+
+---
+
+### New govt. has not printed any currency notes, Minister clarifies
+
+*2024-10-29 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103002/new-govt-has-not-printed-any-currency-notes-minister-clarifies) · `en`
+
+The new government has neither printed any currency notes nor obtained loans from any foreign institution, Minister Vijitha Herath claims.
+
+In response to a question raised by a journalist during today’s Cabinet press conference, Minister Herath further elaborated: “In general, the Central Bank of Sri Lanka has a system of issuing new treasury bills and bonds proportionally when they expire. That process is something that happens every day.”
+
+“Also, if it comes to currency printing, new notes have not been printed, it cannot be done. We would also like to see a currency note with the new President’s signature, but so far nothing has been issued like that. It is completely fake news”, Herath added.
+
+◼️
+
+[Data](articles/ac1a3157.json)
+
+[Extended Data](ext_articles/ac1a3157.ext.json)
+
+---
 
 ### Railway Station Masters to launch immediate trade union action
 
@@ -50,9 +102,33 @@ He further mentioned that they arrived at this decision since no favorable respo
 
 ---
 
+### முன்னாள் பிரதேச சபை உறுப்பினர் படுகொலை
+
+*2024-10-29 11:35:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-பிரதேச-சபை-உறுப்பினர்-படுகொலை/175-346258) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் கேகாலை பிரதேச சபையின் முன்னாள் உறுப்பினர் ஒருவர் கேகாலை, கொஸ்ஸின்னவில் உள்ள அவரது வீட்டில் படுகொலை செய்யப்பட்ட நிலையில் மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+75 வயதான கிரிஷாந்த புலஸ்தி என அடையாளம் காணப்பட்ட குறித்த நபர், படுக்கையில் கை மற்றும் கால்கள் கட்டப்பட்ட நிலையில் காணப்பட்டார்.
+
+வீட்டுக்குள் புகுந்த சந்தேகநபர்கள் புலஸ்தியின் மனைவியையும் தாக்கியதாகவும், சம்பவத்தின் போது மனைவியின் வாயைக் கட்டியதுடன் அவரை தாக்கியுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+சந்தேகநபர்கள் குடியிருப்பில் இருந்து வாகனத்தை திருடிச் சென்றுள்ளனர், பின்னர் அது பிந்தெனிய பகுதியில் கைவிடப்பட்ட நிலையில் மீட்கப்பட்டுள்ளது.
+
+இந்த சம்கவத்தின் நோக்கம் இதுவரை வெளியாகவில்லை என்பதுடன், சம்பவத்துடன் தொடர்புடையவர்களைக் கைது செய்வதற்கான விசாரணைகளை கேகாலை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/e12f6d49.json)
+
+---
+
 ### Oman company to supply liquid petroleum gas to Litro Company in 2025
 
 *2024-10-29 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202683) · `si`
+
+Oman company to supply liquid petroleum gas to Litro Company in 2025. Cabinet approves contract proposal. Only two institutions bid. SIAM GAS Trading PTE Ltd rejected due to technology evaluation issues. Significant responsive bidder chosen after Technical Evaluation Committee recommendation.
+
+🟩
 
 Cabinet spokesman Vijitha Herath says that the Cabinet has approved the proposal to provide the contract to supply liquid petroleum gas for 2025.
 
@@ -69,6 +145,22 @@ Accordingly, the Significant responsive bidder is the essential responsive biddi
 [Data](articles/f44f23eb.json)
 
 [Extended Data](ext_articles/f44f23eb.ext.json)
+
+---
+
+### புதிய அரசின் கீழ் பணம் அச்சிடப்பட்டதா?
+
+*2024-10-29 11:28:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசின்-கீழ்-பணம்-அச்சிடப்பட்டதா/175-346257) · `ta`
+
+புதிய அரசாங்கத்தின் கீழ் பணம் அச்சடிக்கப்பட்டதாக வெளியான செய்திகளை மறுத்துள்ள அமைச்சரவைப் பேச்சாளர் அமைச்சர் விஜித ஹேரத், அரசாங்கம் பணத்தை அச்சிடவோ அல்லது வெளிநாடுகளிலோ அல்லது நிறுவனங்களிலோ கடன்களையோ பெறவில்லை என தெரிவித்துள்ளார்.
+
+பணம் அச்சிடப்பட்டிருந்தால், ஜனாதிபதி அனுரகுமார திஸாநாயக்க, நிதியமைச்சர் எனும் ரீதியில் நாணயத்தாள்களில் கையொப்பமிட்டிருக்க வேண்டும், எனவே ஜனாதிபதியின் கையொப்பமிடப்பட்ட தாள்கள் வெளியிடப்படவில்லை என அமைச்சரவை முடிவுகளை அறிவிக்கும் வாராந்த சந்திப்பில் அவர் கூறினார்.
+
+ரூ. 1 பில்லியன் நாணயத்தாள்கள் அச்சிடப்பட்டன என்ற செய்தி பொய்யானது என ஒரு கேள்விக்குப் பதிலளிக்கும் போது அவர் கூறினார்.
+
+◼️
+
+[Data](articles/34607935.json)
 
 ---
 
@@ -440,6 +532,8 @@ In equities, Colombo’s All Share Price Index was trading up 0.26 percent, or 3
 
 [Data](articles/24cebeb7.json)
 
+[Extended Data](ext_articles/24cebeb7.ext.json)
+
 ---
 
 ### Matthew Wade retires from international cricket
@@ -613,6 +707,8 @@ In the Western Province, 11,607 pigs have died based on official data and 21,000
 ...
 
 [Data](articles/c6eded98.json)
+
+[Extended Data](ext_articles/c6eded98.ext.json)
 
 ---
 
@@ -871,6 +967,8 @@ South Asian rice prices went up last year after an export tax and minimum export
 ...
 
 [Data](articles/8a0746a3.json)
+
+[Extended Data](ext_articles/8a0746a3.ext.json)
 
 ---
 
@@ -2203,123 +2301,5 @@ The channel’s received the ratification at the ABU’s 118th Administration Co
 [Data](articles/96e9ba8d.json)
 
 [Extended Data](ext_articles/96e9ba8d.ext.json)
-
----
-
-### Death penalty for a person arrested with heroin
-
-*2024-10-28 17:38:56* · [`adalk`](https://www.ada.lk/breaking_news/හෙරෝයින්-සමග-අත්අඩංගුවට-ගත්-පුද්ගලයෙකුට-මරණ-දඬුවම/11-412720) · `si`
-
-Colombo High Court sentences person arrested with heroin to death penalty today.
-
-🟩
-
-A person arrested with heroin with drugs sentenced the Colombo High Court today (28).
-
-◼️
-
-[Data](articles/ce9d7930.json)
-
-[Extended Data](ext_articles/ce9d7930.ext.json)
-
----
-
-### Driver
-
-*2024-10-28 17:28:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-சக்கரத்தில்-11-பேரை-ஏற்றிய-சாரதி/175-346213) · `ta`
-
-Three-wheeler driver arrested for carrying 11 students, teacher to school. Police warned students and teacher when vehicle stopped.
-
-🟩
-
-A three -wheeler driver who carried eleven students and a teacher to a school in the city of Beruwala has been arrested by the Beruwala Police Department officials.
-
-Police said eleven students, their bags and a teacher were warned when the three -wheeler stopped.
-
-◼️
-
-[Data](articles/981556cf.json)
-
-[Extended Data](ext_articles/981556cf.ext.json)
-
----
-
-### Frontline tells the President
-
-*2024-10-28 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202656) · `si`
-
-Frontline Socialist Party writes to President Anura Kumara Dissanayake about bankruptcy experiences and debt restructuring plans. The letter, titled "Credit Pinnest and Risk of a Long Term Failure," spans 13 pages.
-
-🟩
-
-The Frontline Socialist Party has written to President Anura Kumara Dissanayake by President Anura Kumara Dissanayake.
-
-It contains the experience of bankruptcy to restore the resumes of some countries, if the debt restructuring plan does not prepare the debt reconstruction plan.
-
-The title of 13 pages is referred to as the title of the letter.
-
-Credit Pinnest and Risk of a Long Term Failure - Letter to President BY POORNIMA ON SCRBD
-
-◼️
-
-[Data](articles/d59f3063.json)
-
-[Extended Data](ext_articles/d59f3063.ext.json)
-
----
-
-### Tamil Nadu Victory Corporation Conference - Victory Policy Festival
-
-*2024-10-28 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197343) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Actor Vijay launches Tamil Nadu Victory Corporation, holds massive convention in Vikravandi. Over 800,000 volunteers attend, honoring Tamil icons. Vijay announces key leaders, outlines policies focusing on women's rights, education, healthcare. Party aims for victory in 2026 assembly elections.
-
-🟩
-
-Vijay - one of the top stars of the Tamil film industry, started a political party in the name of Tamil Nadu Victory Corporation. The first state convention of the party was held at Vikravandi near Villupuram.
-
-Villupuram District Vikravandi next V. The first state convention of the Tamil Nadu Victory Council was held in the village of the village of the village of Victory Policy.
-
-It was announced that the conference would start at four o'clock in the evening. But the volunteers started gathering at the convention from 7:00 am. For their safety, the convention started with art shows at three o'clock in the afternoon. The conference began with the traditional arts of the Tamils ​​- the art forms, the music, the ostail and the peacock.
-
-More than eight lakh volunteers gathered as five lakh volunteers were expected to gather.. M. Volunteers were occupied across the highway.
-
-...
-
-[Data](articles/b07706b9.json)
-
-[Extended Data](ext_articles/b07706b9.ext.json)
-
----
-
-### Intelligence information has been revealed because of the lack of links with regional countries - awe -inspiring Bandara Tennakoon
-
-*2024-10-28 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/197339) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former Defense Minister Bandara Tennakoon criticizes government handling of intelligence on potential attacks in Arughambai area due to lack of communication with neighboring countries. He calls for prioritizing national security over political manipulation.
-
-🟩
-
-The government has not taken information on investigative information that has been found in the Arughambai area.Former Defense Minister Bandara Tennakoon said that the investigation has been revealed because of the lack of contact with the regional countries and foreign countries.
-
-He was speaking at a press conference held on Monday (28) at the New Democratic Front election office.
-
-Last week, many foreign embassies warned their citizens that they would be attacked to avoid traveling to the Arukampai area. This reveals the message that we have failed to properly focus on our national security. We should not go to that level. There were many threats in our time.
-
-அப்போது நாங்கள் எமது புலனாய்வுத்துறையுடன் இணைந்து செயற்பட்டு, புலனாய்வு தகவல்களுக்கு பதிப்பளித்து தேவையான நடவடிக்கைகளை மேற்கொண்டு. நாட்டின் பாதுகாப்பு, எமது மக்களின் பாதுகாப்பு மற்றும் எமது நாட்டில் இருக்கும் வெளிநாட்டவர்களின் பாதுகாப்பை உறுதிப்படுத்த நடவடிக்கை எடுத்திருந்தோம்.
-
-...
-
-[Data](articles/9a1cb012.json)
-
-[Extended Data](ext_articles/9a1cb012.ext.json)
 
 ---

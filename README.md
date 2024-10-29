@@ -1,36 +1,202 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 12:58:33**
+As of **2024-10-29 13:10:40**
 
 ## Newspaper Stats
 
-*Scraped **51,986** Articles*
+*Scraped **51,997** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 413
-colombotelegraphcom | 526
+colombotelegraphcom | 528
 bbccomsinhala | 528
 islandlk | 3,094
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,833
+adalk | 4,834
 adaderanalk | 6,159
 tamilmirrorlk | 7,201
-virakesarilk | 8,385
-adaderanasinhalalk | 9,044
+virakesarilk | 8,389
+adaderanasinhalalk | 9,048
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,986 (100.0%) of 51,986 articles have been extended.
+51,989 (100.0%) of 51,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### වගඋත්තරකරුවෙකු ලෙස රනිල් නම් කිරීමට අධිකරණයේ අවසර
+
+*2024-10-29 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202688) · `si`
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා ලෙස පත්කිරීම අභියෝගයට ලක්කරමින් ගොනුකර ඇති පෙත්සමක වගඋත්තරකරුවෙකු ලෙස හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නම් කිරීමට ශ්‍රේෂ්ඨාධිකරණය අවසර ලබාදී තිබේ.
+
+අදාළ පත්කිරීම අභියෝගයට ලක් කරමින් තරුණ ජනමාධ්‍යවේදීන්ගේ සංගමය ගොනුකළ පෙත්සමක් අද (29) ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳවා තිබුණි.
+
+අදාළ පෙත්සම මෝසමක්  මාර්ගයෙන් කැඳවූ අවස්ථාවේදී පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ සාලිය පීරිස් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් පෙත්සමේ වගඋත්තරකරුවෙකු ලෙස හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නම් කිරීමට අවසර දෙන ලෙස ඉල්ලා සිටියේ ය.
+
+ඒ අනුව හිටපු ජනාධිපතිවරයා වගඋත්තරකරුවෙකු ලෙස නම් කිරීමට අවසර දුන් ත්‍රිපුද්ගල විනිසුරු මඩුල්ල, අනතුරුව පෙත්සම නොවැම්බර් මස 11 වනදා කැඳවීමටද නියම කර තිබුණි.
+
+මෙම පෙත්සම් ප්‍රීති පද්මන් සූරසේන සහ ජනක් ද සිල්වා යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ල ඉදිරියේ අද (29) කැඳවන ලදී.
+
+◼️
+
+[Data](articles/40223deb.json)
+
+---
+
+### உள்நாட்டு துப்பாக்கியுடன் ஒருவர் கைது !
+
+*2024-10-29 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/197391) · `ta`
+
+கொனகங்கார பொலிஸ் பிரிவுக்கு உட்பட்ட மஹயாய பிரதேசத்தில் உள்நாட்டு துப்பாக்கியுடன் ஒருவர் நேற்று திங்கட்கிழமை (28) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+கொனகங்கார பொலிஸாருக்குக் கிடைத்த இரகசிய தகவலையடுத்து, மேற்கொண்ட சுற்றிவளைப்பின் போதே சந்தேக நபர்  கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் வெல்லவாய பகுதியைச் சேர்ந்த 52 வயதுடையவர் ஆவார்.
+
+◼️
+
+[Data](articles/c362e1e2.json)
+
+---
+
+### හිටපු මන්ත්‍රී ජොන්ස්ටන්ගේ BMW රථය සම්බන්ධ නඩුවට තවත් දෙදෙනෙක් අධිකරණයට
+
+*2024-10-29 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202689) · `si`
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී ජොන්ස්ටන් ප්‍රනාන්දු මහතා භාරයේ තිබූ නීතිවිරෝධි ලෙස උපයාගත් BMW රථය සම්බන්ධව තවත් සැකකරුවන් දෙදෙනකු කොටුව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/eaf7eaab.json)
+
+---
+
+### எதிர்கால சமூகத்திற்காக ஒன்றுபட்டு புதுயுகம் படைக்க ஆதரவு தாருங்கள் - கொழும்பு வடக்கில் லயன் மனோ அறைகூவல்
+
+*2024-10-29 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197395) · `ta`
+
+நாட்டில் புதிய மாற்றங்களை ஏற்படுத்தி எமது எதிர்கால சந்ததியினருக்கான நாட்டை உருவாக்க மக்கள் ஆதரவு தரவேண்டுமென ஐக்கிய ஜனநாயகக் குரல் கட்சியில் கொழும்பு வடக்கில் பாராளுமன்ற தேர்தலில் போட்டியிடும் லயன் மனோ அறைகூவல் விடுத்துள்ளார்.
+
+நவம்பர் மாதம் 14 ஆம் திகதி பாராளுமன்றத் தேர்தல் இடம்பெறவுள்ள நிலையில், ஐக்கிய ஜனநாயகக் குரல் கட்சியின் சார்பில் கொழும்பு வடக்கு தொகுதியில் சமூகசேவையாளரான லயன் மனோ ஒலிவாங்கி ( மைக் ) சின்னத்தில் இலக்கம் 17 இல் போட்டியிடுகின்றார்.
+
+இந்நிலையில் தனது எதிர்கால பாராளுமன்ற பிரவேசம் குறித்து மக்களுக்கு தெளிவுபடுத்தும் ஊடக அறிக்கையொன்றை வெளியிட்டுள்ள லயன் மனோ மேலும் குறிப்பிட்டுள்ளதாவது,
+
+நான் கடந்த காலங்களில் லயன்ஸ் கழகத்தில் இணைந்து மக்களுக்கான சமூக சேவைகளை முன்னெடுத்து வந்ததுடன், பின்னர் கொழும்பு மாநகர சபையில் மாநகர சபை உறுப்பினராக செயற்பட்டு கொழும்பு வாழ் மக்களுக்கும் நாட்டில் உள்ள ஏனைய மக்களுக்கும் என்னால் இயன்ற பல சேவைகளை செய்து வந்துள்ளேன்.
+
+...
+
+[Data](articles/fac095c6.json)
+
+---
+
+### வாதுவையில் ஹெரோயின் போதைப்பொருளுடன் ஒருவர் கைது !
+
+*2024-10-29 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197388) · `ta`
+
+வாதுவை பொலிஸ் பிரிவுக்கு  உட்பட்ட மொல்லிகொட பிரதேசத்தில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர்  நேற்று திங்கட்கிழமை (28) கைது செய்யப்பட்டுள்ளதாக வாதுவை பொலிஸார் தெரிவித்தனர்.
+
+வாதுவை பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்ட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் வாதுவை பிரதேசத்தைச் சேர்ந்த 41 வயதுடையவர் ஆவார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 05 கிராம் 300 மில்லிகிராம்  ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டது.
+
+◼️
+
+[Data](articles/8a159904.json)
+
+---
+
+### Steps to import vehicles subject to a method
+
+*2024-10-29 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202687) · `si`
+
+Government allows vehicle imports after Cabinet decision. Steps: inform public, establish import process, consult stakeholders. Avoid hasty decisions affecting economy.
+
+🟩
+
+Cabinet spokesman Vijitha Herath says that the government has decided to allow the importation of vehicle imports.
+
+He was speaking to the cabinet decisions today and said the Central Bank had agreed on it.
+
+Accordingly, steps will be taken to inform the public and inform the public.
+
+"The government has decided to give the opportunity to allow the vehicle imports of vehicle imports. The Central Bank has agreed to the matter. Therefore, you will make a proper mechanism and inform the methodology. It has involved in discussions with different people. Consider all these things and do not gradually do the same way to leave our money. "
+
+◼️
+
+[Data](articles/4296f4f9.json)
+
+[Extended Data](ext_articles/4296f4f9.ext.json)
+
+---
+
+### A revelation of the cause of the railway technologies
+
+*2024-10-29 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202686) · `si`
+
+Railway technicians' shortage causes industrial faults, delaying trains. Government urged to address vacancy issues to prevent future disruptions. Coastal road and Kelani railways affected but services restored.
+
+🟩
+
+It is reported that the railway technicians in the Railway Department has been a major cause of industrial faults.
+
+Several trains were under the past week and yesterday (28) and the railway passengers were severely embarrassed.
+
+Deputy General Manager of Railways NP. J. Mr. Buddy said that there was a number of occasions regarding the vacancies of technicians.
+
+However, he said that the governments of the government have failed to now have failed to solve it.
+
+The Deputy General Manager of the Railways said that if the deficit of train continues to exist, the problems of operating the railway service will be emerged.
+
+Therefore, the present government is expected to be informed to recruit industrial venson.
+
+Meanwhile, the delays of the coastal road and Kelani Railways were delayed due to the railway industrial faults this morning.
+
+However, the Deputy General Manager of the Deputy General Manager said that the trains are restored and running is normal.
+
+◼️
+
+[Data](articles/de900739.json)
+
+[Extended Data](ext_articles/de900739.ext.json)
+
+---
+
+### African swine flu: Gazette publishing on preventive measures
+
+*2024-10-29 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197379) · `ta`
+
+African swine flu outbreak declared nationwide. Pigs infected in multiple regions. Symptoms include respiratory issues. Preventive measures announced.
+
+🟩
+
+The Department of Livestock Production and Health has issued a gazette notification to declare all the Divisional Secretariat Divisions across the country as African swine flu.
+
+This gazette will be in effect for the first 3 months of the 25th.
+
+Pigs have been diagnosed with African swine flu (AFS) in many parts of the country.
+
+African swine flu is the most infectious viral disease of home and wild boars, while reproductive and respiratory disease is a symptom of a frequent respiratory disease in young developing pigs.
+
+The African swine flu was first reported in the Western Province and is now found in the Uva, North and North Western provinces.
+
+◼️
+
+[Data](articles/0c1bc092.json)
+
+[Extended Data](ext_articles/0c1bc092.ext.json)
+
+---
 
 ### Minister Vijitha's statement on increasing the salaries of public servants
 
@@ -49,6 +215,22 @@ Addressing a press conference to inform the Cabinet decisions today (29), he sai
 [Data](articles/4413608a.json)
 
 [Extended Data](ext_articles/4413608a.ext.json)
+
+---
+
+### முகத்துவாரத்தில் ஹெரோயினுடன் ஒருவர் கைது !
+
+*2024-10-29 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/197384) · `ta`
+
+கொழும்பு, முகத்துவாரம் பொலிஸ் பிரிவுக்கு உட்பட்ட எஸ்.டி. பெர்னாண்டோ மாவத்தை பிரதேசத்தில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று திங்கட்கிழமை (28) கைது செய்யப்பட்டுள்ளதாக முகத்துவாரம் பொலிஸர் தெரிவித்தனர்.
+
+முகத்துவாரம் பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் பேரில்  மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்ட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 07 கிராம் 200 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டது.
+
+◼️
+
+[Data](articles/f0cc7f26.json)
 
 ---
 
@@ -91,32 +273,6 @@ Sri Lanka -Indian fishermen talks have begun with the delegation of the Ministry
 [Data](articles/01adaeb6.json)
 
 [Extended Data](ext_articles/01adaeb6.ext.json)
-
----
-
-### African swine flu: Gazette publishing on preventive measures
-
-*2024-10-29 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197379) · `ta`
-
-African swine flu outbreak declared nationwide. Pigs infected in multiple regions. Symptoms include respiratory issues. Preventive measures announced.
-
-🟩
-
-The Department of Livestock Production and Health has issued a gazette notification to declare all the Divisional Secretariat Divisions across the country as African swine flu.
-
-This gazette will be in effect for the first 3 months of the 25th.
-
-Pigs have been diagnosed with African swine flu (AFS) in many parts of the country.
-
-African swine flu is the most infectious viral disease of home and wild boars, while reproductive and respiratory disease is a symptom of a frequent respiratory disease in young developing pigs.
-
-The African swine flu was first reported in the Western Province and is now found in the Uva, North and North Western provinces.
-
-◼️
-
-[Data](articles/0c1bc092.json)
-
-[Extended Data](ext_articles/0c1bc092.ext.json)
 
 ---
 
@@ -401,6 +557,34 @@ He further stated the need for reassessment in the next parliament, hinting at p
 [Data](articles/1edea5b6.json)
 
 [Extended Data](ext_articles/1edea5b6.ext.json)
+
+---
+
+### Crorened fish that drifted to the east coast
+
+*2024-10-29 11:24:05* · [`adalk`](https://www.ada.lk/breaking_news/නැඟෙනහිර-වෙරළට-ගසාගෙන-එන-කෝටි-ගණනක-මසුන්/11-412735) · `si`
+
+Fish drift ashore in Batticaloa. Many survive despite rough seas. Climate change may affect marine life. Some kept as pets, others eaten by ravens.
+
+🟩
+
+You can observe how many fish in the Batticaloa coast, especially in Batticaloa.
+
+It can be observed that a large amount of fish that comes to the shore with the waves are alive.
+
+Despite the waves, a large number of fish in the sea water can be seen.
+
+With the inclement weather, fishing fishermen are alive, due to prevailing weather weather.
+
+They further say that when the waters of the fish living in the sea area cannot bear it and the cause of climate change success
+
+There are many people carrying these fish to keep these fish in their home tanks, and the raven dogs eat them.
+
+◼️
+
+[Data](articles/e11cc56e.json)
+
+[Extended Data](ext_articles/e11cc56e.ext.json)
 
 ---
 
@@ -1220,6 +1404,18 @@ Meanwhile, PAFFREL Executive Director Rohana Hettiarachchi said that the parliam
 
 ---
 
+### Prof Kumar David – He Was Sharp As A Tack & Smart As A Whip
+
+*2024-10-29 07:31:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/prof-kumar-david-he-was-sharp-as-a-tack-smart-as-a-whip/) · `en`
+
+Kumar David was a household name among all electrical engineering students as well as of all practicing electrical engineers of our time. We had heard from our colleagues at Pera about his in-depth knowledge in electrical machines, brilliance, jovial nature and eloquence in English language, and these inculcated a feeling of overwhelming wonder, admiration and respect for him in our minds. Scholarly articles authored by him on electrical engineering, power sector reforms and totally unrelated topics such as communism and politics made our admiration of this great man grow even further. We were yearning to meet this multi-talented scholar someday.
+
+...
+
+[Data](articles/146a5b5e.json)
+
+---
+
 ### Former Chief Member of Parliament killed
 
 *2024-10-29 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202671) · `si`
@@ -1295,6 +1491,18 @@ According to the President of LAUGFS Gas, WWlapitiya, said that the gas consignm
 [Data](articles/c1286f6b.json)
 
 [Extended Data](ext_articles/c1286f6b.ext.json)
+
+---
+
+### Government’s Rational Approach Includes Provincial Council Elections
+
+*2024-10-29 06:58:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/governments-rational-approach-includes-provincial-council-elections/) · `en`
+
+The government is being very rational in its actions whether in dealing with the economy, the travel advisories or the reconciliation process, and is reaping the rewards. Its victory at the local council election in Elpitiya is an indication that its popularity after a month in power is continuing and that it is not confined to President Anura Kumara Dissanayake alone but extends to the NPP itself. The margin of victory on this occasion was much greater than the last time it faced such local elections. The NPP was able to increase the number of its seats to 15 from two in the last council, which was elected in 2019, and obtained nearly 48 percent of the vote compared to six percent in 2019.
+
+...
+
+[Data](articles/69c17ede.json)
 
 ---
 
@@ -2053,289 +2261,5 @@ They further pointed out that there is much opportunity for corruption.
 [Data](articles/371dee37.json)
 
 [Extended Data](ext_articles/371dee37.ext.json)
-
----
-
-### Electricity bill can be reduced by 30 percent
-
-*2024-10-28 19:49:35* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිල-සියයට-30කින්-අඩු-කළ-හැකියි/11-412731) · `si`
-
-Electricity bill may drop 30%. CEB proposes lower rates soon. Government can't control food costs but aims to reduce electricity bills. No major changes needed for current pricing structure.
-
-🟩
-
-The former Chairman of the Public Utilities Commission (People's Rep) said that the electricity bill could be reduced by 30% due to the past year.
-
-However, the Electricity Board (CEB) has proposed to reduce the cost of the electricity tariff amous from the next six months.
-
-The government cannot control the prices of eggs, rice and coconut coconut production and the electricity bill to increase the electricity industry and the electricity bill could be reduced by 30%.
-
-The government said that the government does not need a majority or two-thirds power in Colombo yesterday (28), a proposal to the Public Utilities Commission from the Electricity Board (CEB) from the Electricity Board.
-
-◼️
-
-[Data](articles/acf979af.json)
-
-[Extended Data](ext_articles/acf979af.ext.json)
-
----
-
-### Police notice of investigations into the attack plan
-
-*2024-10-28 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202659) · `si`
-
-Terrorist Investigation Division informs court of ongoing probe into planned attack. Three suspects arrested, interrogated. Police seek permission to question more suspects. Investigations based on intelligence from September.
-
-🟩
-
-The Terrorist Investigation Division (TID) has informed the Magistrate's Court that will be conducting further investigations to launch a terrorist attack area.
-
-The police have reported these facts to the Colombo Additional Magistrate Amarasene, who was presenting a motion in connection with the incident.
-
-The police reported to court that three suspects arrested in connection with the incident were detained and questioned.
-
-In the interrogation, the police have also been revealed that information about the incidents in the incident has been revealed.
-
-The police also requested the court to interrogate several suspects to be interrogated to uncover the incident.
-
-The Magistrate, who allowed that request ordered the progress of the investigations into the progress of the investigations.
-
-The police have informed the court that these investigations have been conducted on information received in September.
-
-◼️
-
-[Data](articles/a9c925ea.json)
-
-[Extended Data](ext_articles/a9c925ea.ext.json)
-
----
-
-### In the gas cylinder is the solo outstanding group who know how to make a government
-
-*2024-10-28 19:38:04* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවක්-කරන-හැටි-දන්න-ප්‍රභලම-කණ්ඩායම-ඉන්නේ-ගෑස්-සිලින්ඩරයේ/11-412730) · `si`
-
-Here's a 200-character summary:
-
-
-
-Gas Cylinder party leader Ruwan Wijewardene emphasizes stability and economic protection in upcoming elections. He criticizes inexperienced groups and supports President Wickremesinghe while acknowledging past challenges.
-
-🟩
-
-A large group of experiences in the new Democratic Front of the Gas Cylinder will compete in the new Democratic Front to protect the people if there is affect the economy.Said at a press conference.
-
-Speaking further Mr. Ruwan Wijewardene said,
-
-"The Gas Cylinder party has presented to the general election this year's general election and a group of experienced. If a groupless experienceless group is having experience, a government that is a government, it may be considered unstable to the country in the general election.
-
-Our team was trying to win the President Ranil Wickremesinghe at the last general election.The public believed in the presidential election that some to change. The current president has taken over the minority votes.
-
-Ranil and Sajith received the number of votes received by Anura, the president received more than the votes.
-
-Indeed, we have no need to criticize Anura Kumara President.
-
-However, we wish to carry out his work successfully.It was reported to vote for the party.
-
-...
-
-[Data](articles/10dece7b.json)
-
-[Extended Data](ext_articles/10dece7b.ext.json)
-
----
-
-### Four former ministers hand over quarters
-
-*2024-10-28 19:26:37* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-අමාත්‍යවරුන්-4ක්-නිල-නිවාස-භාර-දෙයි/11-412729) · `si`
-
-Four former ministers hand over official residences. Gamini Lokuge, Dilum Amunugama, Ramesh Pathirana, and Ajith Rajapaksa transferred properties last week. Bills were paid, but no documents received from Public Administration and Transport Ministries.
-
-🟩
-
-Four ministers have been informed that four former ministers have handed over their official residence. Former ministers of Gamini Lokuge, Dilum Amunugama, Ramesh Pathirana, and Ajith Rajapaksa said that he had handed their official residence.
-
-Former Minister Gamini Lokuge said he handed his official residence a week ago. He said that the bills were paid and completed the house, but he did not give him a document from the Ministry of Public Administration and the Ministry of Transport.
-
-Former Minister Ramesh Pathirana said he was handed over to the official residence. He also said that the bills were paid the same bill as a document as a journalist.
-
-Former Deputy Speaker Ajith Rajapaksa said the rental bill was completed and handed over to the quarters, water bill and hydowil.
-
-◼️
-
-[Data](articles/4f1bbec5.json)
-
-[Extended Data](ext_articles/4f1bbec5.ext.json)
-
----
-
-### Mother killed in motorcycle accident;Boy, little girl hurt!
-
-*2024-10-28 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197349) · `ta`
-
-Motorcycle crash kills mother, injures child and girl. Accident occurred at Indoor junction on Ruwanwella-Nitambuwa road. Victims rushed to Konagaldeniya hospital, girl transferred to Karawanella Hospital.
-
-🟩
-
-Ruwanwella police said that the mother was killed in an accident at the Indoor junction on the Ruwanwella-Nitambuwa main road yesterday (27).
-
-The accident occurred when a motorcycle traveling from Nittambuwa crashed into another motorcycle when he tried to return to the right side of the road.
-
-The mother, a 4 -year -old boy and a 10 girl who were injured in the accident, died after being admitted to the Konagaldeniya hospital.
-
-A 10 -year -old girl who was injured has been transferred to Karawanella Hospital for further treatment, police said.
-
-◼️
-
-[Data](articles/9396d2b4.json)
-
-[Extended Data](ext_articles/9396d2b4.ext.json)
-
----
-
-### Doit for Procurement Procedures
-
-*2024-10-28 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202658) · `si`
-
-Summarized: President Anura Kumara Dissanayake calls for strengthening National Procurement Commission, addressing procurement delays, corruption opportunities, and expanding commission powers.
-
-🟩
-
-President Anura Kumara Dissanayake said that a proper plan should be implemented to strengthen the National Procurement Commission.
-
-President Anura Kumara Dissanayake made these comments at a discussion held at the Presidential Secretariat this morning at the Presidential Secretariat this morning.
-
-President Anura Kumara Dissanayake discussed at length to the National Procedure Commission officials regarding the current procurement process and procurement process.
-
-The officials were presented to the President that the officials were filed in accordance with the procurement activities of the existing law and guidelines.
-
-About 60% of all expenses, including government capital expenditure, should be subject to a proper procurement process, but the officials of the National Procurement Commission pointed out that the government is delayed due to the shortcomings of the procurement process.
-
-They further pointed out that there is much opportunity for corruption.
-
-...
-
-[Data](articles/125b8357.json)
-
-[Extended Data](ext_articles/125b8357.ext.json)
-
----
-
-### Station Masters prepared for a fast strike
-
-*2024-10-28 19:17:19* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ස්ථානාධිපතිවරුන්-ක්ෂණික-වර්ජනයකට-සැරසෙයි/11-412728) · `si`
-
-Sri Lanka Railways OICs plan professional action over promotion delays. Station Masters face unresolved issues. Authorities slow to approve recruitment process. Immediate solutions sought.
-
-🟩
-
-The Sri Lanka Railways OICs Association states that plans are scheduled to go to a professional action in the coming days to solve the problems of the Station Masters.
-
-The Association states that a departmental investigations have made a scheme to promote grades five to five years to the people who pass the Department of Railway Regulatory Service and OICs.
-
-But they say the promotions of the OICs are not working yet and to start professional measures immediately.
-
-It is said that authorities are delayed by the authorities to approve the recruitment procedure for the post of Railway Station.It is planned to install professional measures instantly to resolve these issues.
-
-◼️
-
-[Data](articles/c4461a5d.json)
-
-[Extended Data](ext_articles/c4461a5d.ext.json)
-
----
-
-### In the morning track train evening evening
-
-*2024-10-28 19:07:12* · [`adalk`](https://www.ada.lk/breaking_news/උදේ-පීලි-පැනූ-දුම්රිය-හවසත්-පීලි-පැනලා/11-412727) · `si`
-
-Train delay due to blockage at Slaveland station affects morning commute, impacting routes between Panadura and Maradana.
-
-🟩
-
-In the morning of the Slaveland station, the train was fled by the Slave Island at the station at the Station at the Station at the Station at the Railway Station.
-
-As a result, the passengers were suffering from the train this morning and train the train in the Maradana Railway Station at the Maradana Railway Station.
-
-The train was a railway between Panadura and Maradana and runs from the Panadura Railway Station, Colombo Star on the Trincomalee Station.
-
-As a result, one railway line was blocked in the coastal route last morning and trains were carried out. As a result, the railway traffic was delayed due to this.
-
-◼️
-
-[Data](articles/7dd4edbd.json)
-
-[Extended Data](ext_articles/7dd4edbd.ext.json)
-
----
-
-### Youth sentenced to life in prison for heroin possession
-
-*2024-10-28 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102990/youth-sentenced-to-life-in-prison-for-heroin-possession) · `en`
-
-The Colombo High Court today (28) sentenced a 31-year-old youth to life imprisonment following his conviction for the possessing of heroin.
-
-The accused, a resident of Borella and father to a one-month-old child, was apprehended on November 08, 2016, in the vicinity of the Borella New Magazine Prison. Police had discovered 11.07 grams of heroin in the possession of the accused during a routine search, leading to his subsequent arrest.
-
-The Attorney General’s Department pursued charges of heroin possession and trafficking against the accused, resulting in a lengthy trial in which the prosecution successfully established guilt beyond reasonable doubt.
-
-During sentencing, the accused’s legal counsel pleaded for leniency, emphasizing that her client had no prior criminal record and highlighting his role as a new father. Despite these arguments, the High Court Judge ultimately deemed a life sentence appropriate, underscoring the seriousness of drug-related offenses, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/d3aea540.json)
-
-[Extended Data](ext_articles/d3aea540.ext.json)
-
----
-
-### Constable to commit state intelligence to criminals and rackets
-
-*2024-10-28 18:51:17* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-බුද්ධි-තොරතුරු-අපරාධකරුවන්ට-හා-ජාවාරම්කරුවන්ට-දුන්-කොස්තාපල්-අල්ලයි/11-412726) · `si`
-
-Constable accused of collaborating with criminals and drug dealers. Found with multiple phones during arrest. Suspected of being involved with organized crime groups. Transferred to Kilinochchi Special Task Force camp. Investigation ongoing.
-
-🟩
-
-The Task Force said that a constable served in the Special Task Force serving in the hands of state intelligence, organized criminal criminal members and other Task Force attached to the Government Intelligence.
-
-The arrested has been arrested by the State Intelligence Service, an constable in Kilinochchi Special Task Force Camp. Investigations have been taken into custody by the OIC of the Kilinochchi Special Task Force (27), the OIC of the Killinochchi, the OIC of the Kilinochchi.
-
-At the time of his arrest, the STF has found six different mobile phones, seven different mobile phones, seven different mobile phones, seven different mobile phones.It has been revealed that he was a close relationship with organized crime gang members and large-scale drug racketeers.
-
-Special Task Force suspect that he has been appointed to the external part of the external party.2024. He has been transferred to the Kilinochchi Special Task Force Camp from 09.28.
-
-◼️
-
-[Data](articles/dcc4796c.json)
-
-[Extended Data](ext_articles/dcc4796c.ext.json)
-
----
-
-### Former Agriculture Minister says the shortage of rice and rise
-
-*2024-10-28 18:43:34* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-හිඟයට-හා-මිල-ඉහළ-යාමට-හේතුව-හිටපු-කෘෂිකර්ම-ඇමති-කියයි/11-412725) · `si`
-
-Sri Lanka's former Agriculture Minister Mahinda Amaraweera accuses finance ministry officials of failing to provide funds to the Paddy Marketing Board during paddy purchases, leading to rice shortages and price hikes. He claims political parties' farm representatives rejected his requests for assistance.
-
-🟩
-
-පවතින සහල් හිඟයට හා මිල ඉහළ යාමට මුදල් අමාත්‍යාංශ නිලධාරීන් වගකිව යුතු බවට ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජ්‍යෙෂ්ඨ උපසභාපති, කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා චෝදනා කර සිටියි.
-
-He points out that the officials have not been able to provide money to the Paddy Marketing Board at the time of purchase of paddy.
-
-Mr. Amaweera stated that he further stated that
-
-"I requested at the Paddy Marketing Board as the Minister of Agriculture. නමුත් මුදල් අමාත්‍යාංශයේ ඉහළ නිලධාරීන් මෙන්ම, එවකට ජනාධිපති ආර්ථික උපදේශකවරයාත් වී අලෙවි මණ්ඩලයට මුදල් ලබා දීම ප්‍රතික්ෂේප කළා.
-
-මේ නිසා සහල් මාෆියාව රිසි සේ ගොවියාත් පාරිභෝගිකයාත් සූරා ගෙන කෑවා.
-
-Officers of the Ministry of Finance gave purchasing money to small and medium scale rice mills. But the program had no relief to the farmer. I gave the matter in several occasions and gave the last 500 million rupees. හැබැයි එතකොට වී ඔක්කොම තිබුණේ මහ මෝල් අයිතිකාරයෝ
-
-...
-
-[Data](articles/604e935c.json)
-
-[Extended Data](ext_articles/604e935c.ext.json)
 
 ---

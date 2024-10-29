@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 02:24:09**
+As of **2024-10-30 02:39:56**
 
 ## Newspaper Stats
 
-*Scraped **52,113** Articles*
+*Scraped **52,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,40 @@ dailymirrorlk | 4,733
 adalk | 4,848
 adaderanalk | 6,174
 tamilmirrorlk | 7,224
-virakesarilk | 8,419
+virakesarilk | 8,420
 adaderanasinhalalk | 9,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,113 (100.0%) of 52,113 articles have been extended.
+52,114 (100.0%) of 52,114 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-30 (Wednesday)
+
+### In the election to protect Tamil representation -. Kukadasan
+
+*2024-10-30 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197461) · `ta`
+
+Sri Lanka Tamil State Party contests election to protect Tamil representation in Trincomalee, led by Parliamentarian Shanmugam Kukadasan.
+
+🟩
+
+"We are contesting the election to protect the Tamil representation in Trincomalee," said Parliamentarian Shanmugam Kukadasan in front of the Sri Lanka Tamil State Party chief candidate.
+
+He made this statement during a public meeting held at Thambalakamam in Trincomalee on Tuesday evening (29) evening.
+
+அவர் மேலும் தெரிவித்ததாவது வடக்கு, கிழக்கில் திருகோணமலையில் மாத்திரமே தமிழர் பிரதிநிதித்துவத்தை பாதுகாக்க இலங்கை தமிழ் அரசு கட்சி தமிழ்த்தேசிய கூட்டமைப்பாக கட்சிகளுடன் இணைந்து போட்டியிடுகின்றது என்றார்.
+
+◼️
+
+[Data](articles/767510f3.json)
+
+[Extended Data](ext_articles/767510f3.ext.json)
+
+---
 
 ### 2024-10-29 (Tuesday)
 
@@ -2469,31 +2493,5 @@ Subsequently, the public has been granted permission to participate in court pro
 [Data](articles/bcb0018b.json)
 
 [Extended Data](ext_articles/bcb0018b.ext.json)
-
----
-
-### Protection to the court by the information of the mysterious person
-
-*2024-10-29 13:32:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மர்ம-நபரின்-தகவலால்-நீதிமன்றுக்கு-பாதுகாப்பு/71-346262) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Police and STF deployed at Jaffna Chavakachcheri Magistrate's Court. Mysterious person threat reported. Public allowed entry after security checks.
-
-🟩
-
-Police and Special Task Force (STF) have been mobilized from Tuesday morning (29) at the Jaffna - Chavakachcheri Magistrate's Court Complex.
-
-According to police sources, the police telephone that the Chavakachcheri Magistrate's Court is going to attack the mysterious person.
-
-Subsequently, the public has been granted permission to participate in court proceedings after heavy trials.
-
-◼️
-
-[Data](articles/fd2d4383.json)
-
-[Extended Data](ext_articles/fd2d4383.ext.json)
 
 ---

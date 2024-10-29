@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 21:24:18**
+As of **2024-10-29 21:40:06**
 
 ## Newspaper Stats
 
-*Scraped **52,086** Articles*
+*Scraped **52,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adalk | 4,846
 adaderanalk | 6,172
 tamilmirrorlk | 7,222
 virakesarilk | 8,414
-adaderanasinhalalk | 9,063
+adaderanasinhalalk | 9,064
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,083 (100.0%) of 52,086 articles have been extended.
+52,087 (100.0%) of 52,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Mondagiri Maha Sean and Manusethaship Movement
+
+*2024-10-29 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202707) · `si`
+
+Here's a 200-character summary:
+
+
+
+New school building opened at Rukwood Tamil College. Constructed by Hanthana Sandagiri Maha Seya Viharaya. Foundation laid Sept 22. Built under Ven's patronage. Completed quickly. Opened by Hon. Hantane Sandagiri Maha Paragey. Benefits 130 students. Construction supported by community.
+
+🟩
+
+The new building was opened at a cost of Rs.
+
+The building was constructed by Hanthana Sandagiri Maha Seya Viharaya.
+
+The foundation stone was laid on September 22, a new school building at Rukwood Tamil College.
+
+The construction of the building began under the patronage of Ven.
+
+It is significant that the foundation stone was able to complete the construction work quickly.
+
+Accordingly, the building was opened by Hon. Hantane Sandagiri Maha Paragey, Ven.
+
+The building is the construction of the A / L students of the Rukwood Tamil College. The little building opens with greeting is a winch for those children. "
+
+"We should not stop our work from here. I think ... We must make a program to send several children from this school to the university. "
+
+Rukwood Tamil College, the 130 students, could not be conducted at the absence of a building to conduct classes.
+
+"This will benefit all our school brothers. Erly will help. "
+
+...
+
+[Data](articles/1d3711c5.json)
+
+[Extended Data](ext_articles/1d3711c5.ext.json)
+
+---
 
 ### The housemaid who stole the pilot's bag of the aircraft he came
 
@@ -372,21 +412,27 @@ It is reported that a security guard at the Beliyatta railway station was search
 
 ---
 
-### காசாவின் மத்திய பகுதியில் உள்ளநகரத்தின் மீது இஸ்ரேல் தாக்குதல் - 90க்கும் அதிகமானவர்கள் பலி என அச்சம்
+### Israel's attack on the city of Gaza's central part - fears more than 90 people killed
 
 *2024-10-29 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197452) · `ta`
 
-காசாவின் மத்திய பகுதியில் உள்ள  பெய்ட் லகியா நகரில் இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 93 பேர் கொல்லப்பட்டுள்ளனர் அல்லது காணாமல்போயுள்ளனர் என ஹமாசின் மருத்துவ பிரிவு தெரிவித்துள்ளது.
+Israel attacks Gaza: 93 dead or missing in Bait Lakia. Rescue efforts hampered by lack of medical supplies. Bodies seen on ground in social media photos.
 
-ஐந்து மாடிக்கட்டிடமொன்றே தாக்கப்ட்டதாக மீட்பு பணியாளர்கள் தெரிவிக்கின்றனர் . தரையில் துணியால் போர்த்தப்பட்ட உடல்களின் படங்கள் சமூக ஊடக ங்களில் வெளியாகியுள்ளன.
+🟩
 
-தனது மருத்துவமனையில் சிறுவர்கள் அனுமதிக்கப்பட்டுள்ளனர் என ஜபாலியாவில் உள்ள கமால் அட்வான் மருத்துவமனையின் இயக்குநர் குசாம் அபு சைபா தெரிவித்துள்ளார்.
+93 people have been killed or disappeared in Israel's attack in Bait Lakia, Central, Central, Hamasin Medical Unit said.
 
-போதிய மருந்துகள்  இன்மையால் தனது மருத்துவமனை சிகிச்சை அளிப்பதில் சிரமங்களை எதிர்கொண்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+Rescue workers report that only five stairs were attacked. Pictures of bodies wrapped on the ground have been published in social media.
+
+Kusam Abu Saifa, director of Kamal Advan Hospital in Japalia, said the boys were admitted to his hospital.
+
+He said he had difficulties in treating his hospital due to inadequate drugs.
 
 ◼️
 
 [Data](articles/7dd05df4.json)
+
+[Extended Data](ext_articles/7dd05df4.ext.json)
 
 ---
 
@@ -448,17 +494,25 @@ Two people have left the compartment at the Beliatta Railway Station at the Beli
 
 ---
 
-### அரச ஊழியர்களின் சம்பள அதிகரிப்பு தொடர்பான வாக்குறுதியை அரசாங்கம் மறுப்பதை ஏற்றுக்கொள்ள முடியாது - ருவன் விஜேவர்த்தன
+### The government cannot accept the promise of public servants' salary increase -Ruwan Wijewardena
 
 *2024-10-29 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/197451) · `ta`
 
-நாட்டில் மாற்றத்தை ஏற்படுத்துவதாக தெரிவித்து அதிகாரத்துக்கு வந்த அரசாங்கம் மக்கள் எதிர்பார்க்கும் எந்த மாற்றத்தையும் இதுவரை ஏற்படுத்தவில்லை. ஆனால் முன்னாள் ஜனாதிபதிகளின் வரப்பிரசாதங்களை இல்லாமல் செய்வது தொடர்பாக மாத்திரமே கதைத்து வருகின்றனர். ஆறு மாதங்களுக்கு ஒரு முறை அரச ஊழியர்களுக்கு சம்பளம் அதிகரிப்பதாக தெரிவித்த விடயத்தையும் அரசாங்கம் தற்போது மறுத்து வருகிறது என புதிய ஜனநாயக முன்னணியின் கம்பஹா மாவட்ட வேட்பாளருமான ருவன் விஜேவர்த்தன தெரிவித்தார்.
+Government refuses to commit to public servant salary increases despite campaign promises.
 
-கொழும்பில் அமைந்துள்ள புதிய ஜனநாயக முன்னணியின் தேர்தல் வழிடத்தல் காரியாலயத்தில் செவ்வாய்கிழமை (29)  இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
+
+The government, which came to power in the country, has not yet made any change that people expect. But they are only talking about the existing of former presidents. Ruwan Wijewardena, the Gampaha district candidate of the new Democratic Front, said that the government is now refusing to say that salaries are increasing for public servants once in six months.
+
+He was speaking at a press conference held at the New Democratic Front's Election Office in Colombo on Tuesday (29).
+
+The people voted for the power of the national people in anticipation of the change. But no change in the expected people has not yet taken place. But since the government came to power, the gifts of the former presidents have been taking steps to without the security measures they have been given to them. The president is also talking about it. But there are many things to do in the country.
 
 ...
 
 [Data](articles/6965912d.json)
+
+[Extended Data](ext_articles/6965912d.ext.json)
 
 ---
 
@@ -540,19 +594,25 @@ The Prime Minister has said that funds have not been allocated to increase the s
 
 ---
 
-### ලංකා T10 සුපර් ලීග් ක්‍රිකට් තරගාවලියේ ක්‍රීඩකයන් තෝරා ගැනීම ලබන 10 වැනිදා
+### Selection of players on Lanka T10 Super League
 
 *2024-10-29 18:14:54* · [`adalk`](https://www.ada.lk/sports/ලංකා-T10-සුපර්-ලීග්-ක්‍රිකට්-තරගාවලියේ-ක්‍රීඩකයන්-තෝරා-ගැනීම-ලබන-10-වැනිදා/9-412745) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පළමු වරට සංවිධාන කරන ලංකා T10 සුපර් ලීග් ක්‍රිකට් තරගාවලියේ ක්‍රීඩක කෙටුම්පත් කිරීමේ අවස්ථාව (Draft) නොවැම්බර් 10 වැනිදා කොළඹ දී සිදු කරන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පැවසීය.
+Sri Lanka Cricket introduces Lanka T10 Super League. Local and international cricketers form 6 teams. Tournament runs Dec 12-22. Each team selects 17 max, 15 min players.
 
-දෙසැම්බර් 12 වැනිදා සිට 22 වැනිදා දක්වා පැවැත්වෙන මෙම තරගාවලියේ කණ්ඩායම් 06ක් නියෝජනය කරමින් දෙස් විදෙස් ක්‍රීඩා තරු ක්‍රීඩා කිරීමට නියමිතව ඇත.
+🟩
 
-සෑම කණ්ඩායමකටම සිය සංචිතය සදහා උපරිම වශයෙන් ක්‍රීඩකයින් 17 දෙනෙකු හා අවම වශයෙන් ක්‍රීඩකයින් 15 දෙනෙකු තෝරා ගත හැකියාව පවතී.
+Sri Lanka Cricket (SLC) is committed to the Sri Lanka T10 Super League cricket tournament for the first time.
+
+The tournament will be played by local and foreign sports stars representing 06 teams from December 12 to 22.
+
+Each group is capable of selecting their maximum of 17 players and at least 15 players for their squad.
 
 ◼️
 
 [Data](articles/023bbe38.json)
+
+[Extended Data](ext_articles/023bbe38.ext.json)
 
 ---
 
@@ -2437,29 +2497,5 @@ Meanwhile, he noted that the US has announced that it will be observed in visiti
 [Data](articles/df42390b.json)
 
 [Extended Data](ext_articles/df42390b.ext.json)
-
----
-
-### America does not impose travel ban - Vijitha Herath
-
-*2024-10-29 12:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்கா-பயணத்தடை-விதிக்கவில்லை-விஜித-ஹேரத்/175-346259) · `ta`
-
-Sri Lanka: No US travel ban; arrests made based on intelligence; National Security Council advised to act quickly.
-
-🟩
-
-Cabinet spokesman Minister Vijitha Herath said that the Foreign Intelligence Agency had provided some information to the Sri Lanka Intelligence Unit and the security measures were taken accordingly.
-
-The Minister, who attended a media briefing to announce the Cabinet decisions today (29), said that the National Security Council should convene and make quick decisions.
-
-He said that many have been arrested on suspicion and that they are being produced in court and are conducting further investigations.
-
-Meanwhile, he noted that the US has announced that it will be observed in visiting the Arukambe area, but he has not imposed a travel ban.
-
-◼️
-
-[Data](articles/e79e2865.json)
-
-[Extended Data](ext_articles/e79e2865.ext.json)
 
 ---

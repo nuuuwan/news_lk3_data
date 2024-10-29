@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 14:58:58**
+As of **2024-10-29 15:24:12**
 
 ## Newspaper Stats
 
-*Scraped **52,009** Articles*
+*Scraped **52,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,145 @@ islandlk | 3,094
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,835
-adaderanalk | 6,164
-tamilmirrorlk | 7,205
+adalk | 4,837
+adaderanalk | 6,165
+tamilmirrorlk | 7,209
 virakesarilk | 8,389
-adaderanasinhalalk | 9,050
+adaderanasinhalalk | 9,051
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,009 (100.0%) of 52,009 articles have been extended.
+52,016 (100.0%) of 52,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Hezbollah elects Naim Qassem to succeed slain head Nasrallah
+
+*2024-10-29 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103009/hezbollah-elects-naim-qassem-to-succeed-slain-head-nasrallah) · `en`
+
+Lebanese armed group Hezbollah said on Tuesday it had elected deputy head Naim Qassem to succeed slain secretary general Hassan Nasrallah, who was killed in an Israeli air attack on Beirut’s southern suburb over a month ago.
+
+The group said in a written statement that its Shura Council had elected Qassem, 71, in accordance with its established mechanism for choosing a secretary general.
+
+He was appointed as Hezbollah’s deputy chief in 1991 by the armed group’s then-secretary general Abbas al-Musawi, who was killed by an Israeli helicopter attack the following year.
+
+Qassem remained in his role when Nasrallah became leader, and has long been one of Hezbollah’s leading spokesmen, conducting interviews with foreign media, including as cross-border hostilities with Israel raged over the last year.
+
+Nasrallah was killed on Sept. 27, and senior Hezbollah figure Hashem Safieddine - considered the most likely successor - was killed in Israeli strikes a week later.
+
+...
+
+[Data](articles/127fbcd2.json)
+
+---
+
+### A black man arrested for pushing the counterfeit
+
+*2024-10-29 15:02:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ளக்காதலியை-தள்ளிவிட்ட-கள்ளக்காதலன்-கைது/175-346269) · `ta`
+
+Black man arrested for pushing woman off bus in Dambulla. Woman hospitalized, police investigating incident involving couple traveling from Polonnaruwa to Colombo.
+
+🟩
+
+Dambulla police said that the woman who was allegedly thrown out of the bus has been arrested.
+
+The arrested person is a twenty -four -year -old marriage in Singapura, Welikanda, police said.
+
+A woman from Balukaswewa, who is said to be his girlfriend, is being treated at the Dambulla Primary Hospital with injuries.
+
+Police investigations revealed that the two lovers were traveling from Polonnaruwa to Colombo from Polonnaruwa.
+
+◼️
+
+[Data](articles/a2ccfbc7.json)
+
+[Extended Data](ext_articles/a2ccfbc7.ext.json)
+
+---
+
+### "The fruits of love are poured"
+
+*2024-10-29 14:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அன்பின்-பழங்கள்-கொட்டிக்கிடக்கின்றன/175-346268) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former MP Johnston Fernando denies involvement in a controversial letter about prisoner releases. He claims political opponents are exploiting situations for personal gain, emphasizing his commitment to serving Kurunegala's people despite challenges.
+
+🟩
+
+Prison Commissioner (Media Spokesperson) Gamini B.. Dissanayake said.
+
+He said that former parliamentarian Johnston Fernando has issued a letter and that if any of the suspects or prisoners are sent out, it should be sent under the supervision of the respective prison superintendent.
+
+Johnston Fernando has informed the prison superintendent in writing that he has no knowledge of the letter with the permission of the Commissioner General of Prisons, subject to prison rules and rules.
+
+In this case, a letter to the members and supporters of his party has been issued on social media from the Welikada Prison to former MP Johnston Fernando, who has been interrogated.
+
+I am well aware that you do not expect a letter sent to you for the 2024 election.
+
+But the opportunists who are trying to meet their political needs have begun to take advantage of the roles of political power on the basis of slander in 2015 and today.
+
+...
+
+[Data](articles/8533aa19.json)
+
+[Extended Data](ext_articles/8533aa19.ext.json)
+
+---
+
+### Court orders Court demanding a report on elephant trenches
+
+*2024-10-29 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202692) · `si`
+
+Supreme Court orders wildlife director to report on elephant trenches status. Petition filed over elephant-human conflict and environmental concerns.
+
+🟩
+
+The Supreme Court today ordered the Director General of Wildlife to produce a complete report on the current status of the elephant trenches designed to suppress the elephant column.
+
+The order was called on a fundamental rights petition filed by the Environmental Yorking Minister to implement an elephant trench schedule for the purpose of setting up the elephant conflict.
+
+The petition is that today. HMD. Nawaz, Arjuna Oyajuna Obeysekera and Achala VingPhawuli were called before the Supreme Court Bench.
+
+Attorney at Law Dr. Ravindranath Dabare, who appeared for the petitioner party, pointed out that the organization has no information on the elephant trenches in the country today.
+
+Accordingly, the Supreme Court ordered the Director General of Wildlife to take a detailed report on the current status of elephant trenches to court.
+
+The petition was then held on March 27.
+
+...
+
+[Data](articles/0bd73cb5.json)
+
+[Extended Data](ext_articles/0bd73cb5.ext.json)
+
+---
+
+### HIV vaccine: 4 students faint
+
+*2024-10-29 14:34:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/HIV-தடுப்பூசி-4-மாணவிகள்-மயங்கினர்/95-346267) · `ta`
+
+HIV vaccine incident: Four students from Vatuwa school fainted after receiving cervical cancer vaccine. They showed symptoms of vomiting and difficulty breathing before being hospitalized.
+
+🟩
+
+A spokesman for the Panadura Base Hospital said that four students of a Vatuwa school who received a vaccine for cervical cancer have been admitted to the hospital.
+
+A hospital spokesman said that all four students who were taken to the hospital have signs of vomiting and breathing.
+
+◼️
+
+[Data](articles/93bbe80e.json)
+
+[Extended Data](ext_articles/93bbe80e.ext.json)
+
+---
 
 ### New procedure for vehicle imports
 
@@ -442,6 +566,54 @@ However, the Deputy General Manager of the Deputy General Manager said that the 
 
 ---
 
+### Maldives who support terrorism seized
+
+*2024-10-29 12:39:16* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රස්තවාදයට-අනුබල-දුන්-මාලදිවයින්-ජාතිකයෙක්-අල්ලයි/11-412738) · `si`
+
+Maldives: Terrorism suspect arrested in Mount Lavinia. 32-year-old individual detained under Act No. 48 of 1979. Investigation ongoing.
+
+🟩
+
+Terrorism and Investigation Division says that a Maldivian has been arrested at a house in Mount Lavinia, Mount Lavinia.
+
+The suspect has been arrested in accordance with the suspect who had previously arrested.
+
+The suspect is being detained and investigated by the Act No. 48 of 1979, according to the Temporary Provisions.
+
+The suspect is a 32 year old person. Terrorism and Investigation Division conducts tests.
+
+◼️
+
+[Data](articles/f1b44131.json)
+
+[Extended Data](ext_articles/f1b44131.ext.json)
+
+---
+
+### The E-8 Visa Agreement is not legal
+
+*2024-10-29 12:27:38* · [`adalk`](https://www.ada.lk/breaking_news/E-8--වීසා-ගිවිසුම--නීත්‍යානුකූල-නෑ/11-412737) · `si`
+
+E-8 Visa Agreement legality questioned. Sri Lanka Bureau of Foreign Employment claims agreement unsigned. South Korean government accused of deception. Short-term visa criticized for low wages and limited job opportunities. Private agencies prohibited from sending workers under this visa. Government urged to review process and discourage illegal recruitment practices.
+
+🟩
+
+Sri Lanka Bureau of Foreign Employment Bureau The Sri Lanka Bureau of Foreign Employment has not been legally signed by the E-8 Visa Agency in Sri Lanka.. He further stated:
+
+The Government of South Korean and the Sri Lankan government have been given employment opportunities for thousands of Sri Lankan youths. In addition to those jobs, a dialogue of society has now been in the E-8 visa.
+
+These employers have been discussed in 2019 to receive Sri Lankans. These discussions have stopped due to some factors. For example, this visa is only for a period of 5 months. They get a little salary for this purpose.
+
+The likelihood of the workers is very low again. Then they do the visa time, but I try to illegally. Due to this situation, there is no problems, and no government has agreed to agree on the matter.. Similarly, the private agencies in Sri Lanka have not been allowed to send workers under this visas under this visas or cash. If anyone charges money to these jobs, it is illegal.
+
+...
+
+[Data](articles/25fbf924.json)
+
+[Extended Data](ext_articles/25fbf924.ext.json)
+
+---
+
 ### African swine flu: Gazette publishing on preventive measures
 
 *2024-10-29 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197379) · `ta`
@@ -593,6 +765,30 @@ From the arrested suspects, 11 grams of 230 milligrams of heroin, 10,500 rupees 
 [Data](articles/68438728.json)
 
 [Extended Data](ext_articles/68438728.ext.json)
+
+---
+
+### America does not impose travel ban - Vijitha
+
+*2024-10-29 12:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்கா-பயணத்தடை-விதிக்கவில்லை-விஜித/175-346259) · `ta`
+
+Sri Lanka: No travel ban, arrests made based on intelligence. US observes Arukambe area without imposing restrictions. National Security Council urged to act swiftly.
+
+🟩
+
+Cabinet spokesman Minister Vijitha Herath said that the Foreign Intelligence Agency had provided some information to the Sri Lanka Intelligence Unit and the security measures were taken accordingly.
+
+The Minister, who attended a media briefing to announce the Cabinet decisions today (29), said that the National Security Council should convene and make quick decisions.
+
+He said that many have been arrested on suspicion and that they are being produced in court and are conducting further investigations.
+
+Meanwhile, he noted that the US has announced that it will be observed in visiting the Arukambe area, but he has not imposed a travel ban.
+
+◼️
+
+[Data](articles/df42390b.json)
+
+[Extended Data](ext_articles/df42390b.ext.json)
 
 ---
 
@@ -2103,197 +2299,5 @@ Concerns were raised when the CEO of a supermarket chain was appointed as chairm
 [Data](articles/dbcfab79.json)
 
 [Extended Data](ext_articles/dbcfab79.ext.json)
-
----
-
-### The General Election 2024: Who will be the next Opposition Leader?
-
-*2024-10-29 01:44:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg7grr8l15jo) · `si`
-
-Here's a 200-character summary:
-
-
-
-General Election 2024: Next Opposition Leader uncertain. Sajith Premadasa likely candidate. Political landscape shifting due to retirements and new alliances. Economic crisis challenges traditional parties' influence.
-
-🟩
-
-A. Amirthalingam and R. History is witnessed about MPs who were elected to represent the minority community, such as co-ordinate.
-
-After the presidential election, many senior members have created a political vacuum in the opposition with self-retirement and decisions to compete in the general election.
-
-Bials after the Rajapaksa family.Why doesn't the Rajapaksas come to the general election?
-
-Who will be the next Opposition Leader, who has fallen by the opposition political parties and the opposition?
-
-If the Opposition Leader will be able to restore the opposition in the Opposition as a party, can Sajith Premadasa to fulfill the role of the opposition as a party?
-
-In a presidential or general election, the ruling party often lost the advantage of the major opposition party representing the main opposition. There are many examples in many parts of the world.
-
-...
-
-[Data](articles/73acfac4.json)
-
-[Extended Data](ext_articles/73acfac4.ext.json)
-
----
-
-### Beat the little deer
-
-*2024-10-29 01:19:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குட்டி-மான்களை-அடித்து-துரத்தவும்/175-346234) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka Tamil National Alliance (TNA) leader MA Sumanthiran calls for unity against rival parties. He criticizes former allies LTTE, EPRLF for leaving over seat disputes. TNA aims to maintain strength despite internal conflicts and external challenges.
-
-🟩
-
-We brought a man who looked like a spiritual plaintiff. He ran with the box bed in Jaffna. However, he left the cubs and ran away. MA Sumanthiran, the candidate of the Sri Lanka Tamil National Alliance (TNA) and the president's lawyer, said that the deer should be chased.
-
-He said this while addressing the Tamil National Alliance (TNA) campaign at Vadamarachchi on Sunday (27).. He added,
-
-The Tamil National Alliance was formed as a strong political force of the Tamil people. The Tamil Liberation Tigers of Tamil Eelam (LTTE) first caused confusion in this unity.
-
-Due to the confusion of the Udayasuriyan symbol of this coalition, the federation was united in the House of Tamil National Party (TNA).
-
-The All Ceylon Tamil Congress left in 2010 due to the seat sharing problem in the next election between the parties in the federation.
-
-...
-
-[Data](articles/dda55d7c.json)
-
-[Extended Data](ext_articles/dda55d7c.ext.json)
-
----
-
-### Let's capture 3 seats
-
-*2024-10-29 01:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-ஆசனங்களை-கைப்பற்றுவோம்/175-346233) · `ta`
-
-Anura Kumara Dissanayake contests 3 seats in Batticaloa district. Party aims to win 176 seats nationally. Promises to improve country like Singapore. Seeking public support for upcoming elections.
-
-🟩
-
-This is the work of our party leader Anura Kumara Dissanayake, who is the work of our party leader Anura Kumara Dissanayake, who is contesting the three seats in the Batticaloa district this time.
-
-He was speaking at a public meeting held at Kaluwanchikudi, Batticaloa on Sunday (27).As he further stated,
-
-At the request of our party leader and president, Anuragumara Dissanayake, I am contesting in the Batticaloa district in the parliamentary election.
-
-In the Batticaloa district, we have a great success in the Batticaloa district and strengthened the president's hands and all the projects for the future welfare of the country are in accordance with the principles of the President and the principles of the President, we are the servant of the people and build this country as a better country and a better country than Singapore.We will follow with sponsorship.
-
-...
-
-[Data](articles/c98ab8bb.json)
-
-[Extended Data](ext_articles/c98ab8bb.ext.json)
-
----
-
-### The model does not fight for the community
-
-*2024-10-29 01:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூகத்துக்காக-போராடவில்லை/175-346232) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Imran Mahroof criticizes Muslim leaders for prioritizing personal gain over community welfare. He advocates for system change without representation, urging true leaders to serve the people directly.
-
-🟩
-
-United People's Alliance (UPFA) Trincomalee district candidate and former MP Imran Mahroof said that those who have identified themselves as leaders of minority parties have not been voiced during the problems of Muslims.
-
-கிண்ணியா மஹ்ரூப் நகர் பகுதியில் ஞாயிற்றுக்கிழமை  (27)இடம் பெற்ற தேர்தல் பரப்புரை கூட்டத்தின் பின் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இவ்வாறு தெரிவித்தார்.
-
-“When Muslims faced various problems in the past, they worked with the government for their own profit. People are well aware that they are not fighting for the community.
-
-Many parties are confused by many candidates as the people are facing the parliamentary elections.
-
-It may be exactly that the System Change should be done without representations.. That is why he asked the good leaders to give people a decree.
-
-◼️
-
-[Data](articles/d0d7c277.json)
-
-[Extended Data](ext_articles/d0d7c277.ext.json)
-
----
-
-### Sri Lanka Design Festival 2024: Uniting creativity and commerce with India as partner nation
-
-*2024-10-29 01:00:17* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Design-Festival-2024-Uniting-creativity-and-commerce-with-India-as-partner-nation/34-768514) · `en`
-
-Unveiling the vision for the next decade, Sri Lanka Design Festival (SLDF) is dedicated to shape a new narrative for South Asia’s creative landscape through its platform fusing design and innovation leveraging the region’s creative ecosystem
-
-Facilitating cross-border collaborations, SLDF 2024 focuses on partner nation India with the participation of eco-conscious fashion designers, acclaimed graphic artists, prominent business leaders, and influential voices from India
-
-Academy of Design’s (AOD) annual showcase platform, SLDF 2024, will take place at the Cinnamon Life at City of Dreams from from 7-10 November featuring over 50 events including fashion runways, thought leadership forums, exhibitions, tours and public talks
-
-...
-
-[Data](articles/6e5f2203.json)
-
-[Extended Data](ext_articles/6e5f2203.ext.json)
-
----
-
-### 2024-10-28 (Monday)
-
-### All about Billy of 2FORTY2 fame…
-
-*2024-10-28 23:27:00* · [`islandlk`](http://island.lk/all-about-billy-of-2forty2-fame/) · `en`
-
-Referring to last Tuesday’s story ‘Maathra World Tour’ in the UK, a fan of Billy Fernando, of 2FORTY2 fame – Yohani Senaratne, who resides in the UK – sent me this note:
-
-“What a spectacular evening it was with the musical genius Billy Fernando and his band 2FORTY2!
-
-From the stage set up, sounds, to the lighting and background motions, everything was just on point and Billy kept the audience entertained, not just by his singing and dancing, but by making everyone laugh throughout the four- hour long show, with his witty sense of humour. We didn’t feel the time pass at all!
-
-Billy is an amazingly gifted individual whom I personally had the privilege of working with, 24 years ago, on a Christian outreach project called Peace 2000.
-
-...
-
-[Data](articles/7ff6f82c.json)
-
-[Extended Data](ext_articles/7ff6f82c.ext.json)
-
----
-
-### 99x Academy bridges education and industry with scholarship success
-
-*2024-10-28 23:17:00* · [`islandlk`](http://island.lk/99x-academy-bridges-education-and-industry-with-scholarship-success/) · `en`
-
-In an era where academic qualifications alone no longer suffice, the 99x Academy is revolutionising the way young talent is nurtured through its innovative scholarship programme. Designed to bridge the gap between classroom learning and industry demands, this initiative equips students with essential skills. At the same time, they pursue their degrees, offering a unique blend of hands-on experience, customer exposure, and mentoring, alongside five years of immersive industry training. From the first day, interns are regarded as integral team members, working alongside seasoned professionals on real-world projects. By the time they graduate, these students will have accumulated five years of industry experience, making them highly competitive and shaping the future of Sri Lanka’s tech landscape.
-
-...
-
-[Data](articles/144c4731.json)
-
-[Extended Data](ext_articles/144c4731.ext.json)
-
----
-
-### Union action within 72 hours
-
-*2024-10-28 23:13:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/72-மணித்தியாலங்களுக்குள்-தொழிற்சங்க-நடவடிக்கை/175-346231) · `ta`
-
-Railway Principals Association SLRSMU takes union action against improper appointments. Cabinet allowed to select examiners every 5 years. Union announces strike within 72 hours as appointments continue.
-
-🟩
-
-The Railway Principals Association (SLRSMU) has decided to take trade union action against the appointment of railway principals in violation of procedures.
-
-The Cabinet has been granted permission to appoint exams for posts for the railway station principals and railway regulators once in five years.
-
-However, the union has announced that the union struggle will begin within 72 hours, saying that the appointment is currently underway.
-
-◼️
-
-[Data](articles/31817f8b.json)
-
-[Extended Data](ext_articles/31817f8b.ext.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 16:24:41**
+As of **2024-10-29 16:39:36**
 
 ## Newspaper Stats
 
-*Scraped **52,031** Articles*
+*Scraped **52,032** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 413
 colombotelegraphcom | 528
-bbccomsinhala | 528
+bbccomsinhala | 529
 islandlk | 3,094
 economynextcom | 3,162
 dailyftlk | 3,545
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,054
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,031 (100.0%) of 52,031 articles have been extended.
+52,032 (100.0%) of 52,032 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1756,6 +1756,34 @@ The Kasan summit is in the wake of the increasing tense global atmosphere, which
 
 ---
 
+### African Swine Fluid Sri Lanka: Isn't it good to eat pork these days?
+
+*2024-10-29 10:16:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjr429d05e0o) · `si`
+
+Pork sales banned in Sri Lanka due to African Swine Fever outbreak. Disease affects pigs but not humans. Dead pigs unsafe for consumption.
+
+🟩
+
+African Swine Fluid Sri Lanka: Isn't it good to eat pork these days?
+
+The sales of the country's pork is banned due to the expansion of African swine flu pigs (PRS) and Breeding and Respiratory Buddhist Disease (PRRS pigs).
+
+The Department of Animal Production and Health took the ban on a special gazette notification.
+
+The gazette notification has been named as Afsa and Breeding and Respiratory and respiratory and respiratory disease (PRRS).
+
+The Director General of Animal Production and Health, Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr.
+
+Accordingly, the exceptional gazette notification issued for three months from October 25 has been limited to preventing the spread of diseases.
+
+...
+
+[Data](articles/2066dfb7.json)
+
+[Extended Data](ext_articles/2066dfb7.ext.json)
+
+---
+
 ### Gaza aid fears as Israel bans UN Palestinian refugee agency
 
 *2024-10-29 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102997/gaza-aid-fears-as-israel-bans-un-palestinian-refugee-agency) · `en`
@@ -2335,19 +2363,5 @@ According to the President of LAUGFS Gas, WWlapitiya, said that the gas consignm
 [Data](articles/c1286f6b.json)
 
 [Extended Data](ext_articles/c1286f6b.ext.json)
-
----
-
-### Government’s Rational Approach Includes Provincial Council Elections
-
-*2024-10-29 06:58:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/governments-rational-approach-includes-provincial-council-elections/) · `en`
-
-The government is being very rational in its actions whether in dealing with the economy, the travel advisories or the reconciliation process, and is reaping the rewards. Its victory at the local council election in Elpitiya is an indication that its popularity after a month in power is continuing and that it is not confined to President Anura Kumara Dissanayake alone but extends to the NPP itself. The margin of victory on this occasion was much greater than the last time it faced such local elections. The NPP was able to increase the number of its seats to 15 from two in the last council, which was elected in 2019, and obtained nearly 48 percent of the vote compared to six percent in 2019.
-
-...
-
-[Data](articles/69c17ede.json)
-
-[Extended Data](ext_articles/69c17ede.ext.json)
 
 ---

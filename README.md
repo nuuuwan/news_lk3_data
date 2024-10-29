@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 16:39:36**
+As of **2024-10-29 16:57:34**
 
 ## Newspaper Stats
 
-*Scraped **52,032** Articles*
+*Scraped **52,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 3,094
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,838
+adalk | 4,839
 adaderanalk | 6,167
 tamilmirrorlk | 7,211
 virakesarilk | 8,395
-adaderanasinhalalk | 9,054
+adaderanasinhalalk | 9,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,032 (100.0%) of 52,032 articles have been extended.
+52,034 (100.0%) of 52,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### What are the messages received from the social media, including Whatsapp,
+
+*2024-10-29 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202696) · `si`
+
+Sri Lanka Computer Emergency Response Forum warns against fake messages on social media, including WhatsApp. Cyber frauds common, using OTP passwords in pseudo-messages from banks and organizations. Be cautious of urgent requests in WhatsApp messages.
+
+🟩
+
+The Sri Lanka Computer Emergency Response Forum requires careful of the pseudo-messages across the social media, including whatsapp (WhatsApp).
+
+They also say that cyber frauds are common these days, including whatsApps, using social media networks, including whatsapp.
+
+Accordingly, OTP Passwords (PSSword information) by the pseudo-messages and WhatsApp messages of various banks, commercial organizations, international organizations, international organizations, international organizations, and excessive urges.The Sri Lanka Computer Emergency Response Forum further is informed to beware of the messages requesting.
+
+◼️
+
+[Data](articles/cc357287.json)
+
+[Extended Data](ext_articles/cc357287.ext.json)
+
+---
 
 ### Public alerted over surge in fake messages on WhatsApp and other social media
 
@@ -101,6 +123,30 @@ As the deputy leader of the organization, was the deputy leader of the Hezbollah
 [Data](articles/2031e851.json)
 
 [Extended Data](ext_articles/2031e851.ext.json)
+
+---
+
+### Court's decision to join Johnston's car incident
+
+*2024-10-29 15:41:08* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්ගේ-මෝටර්-රථ-සිද්ධියට-අත්අඩංගුවට-ගත්-දෙදෙනාට-අධිකරණය-දුන්-තීන්දුව/11-412740) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Court decides to release suspects on bail in Johnston's car incident case. Two persons arrested yesterday after Criminal Investigation Department handed over case.
+
+🟩
+
+The two suspects have been released on bail.
+
+The two persons were arrested after the Criminal Investigation Department was handed over today (29).
+
+◼️
+
+[Data](articles/f0123f6c.json)
+
+[Extended Data](ext_articles/f0123f6c.ext.json)
 
 ---
 
@@ -2315,53 +2361,5 @@ Kegalle Police are conducting further investigations.
 [Data](articles/dd2177c8.json)
 
 [Extended Data](ext_articles/dd2177c8.ext.json)
-
----
-
-### Railway Masters to strike
-
-*2024-10-29 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202670) · `si`
-
-Sri Lanka Railways Union strikes over promotion issues. 72-hour trade union action begins. Disagreement over promotion process and grade system.
-
-🟩
-
-The Sri Lanka Railways Union has decided to enter the immediate trade union action, taking on a number of problems in connection with the Railway Station.
-
-The Trade Union Association Chairman Sumedhaththne said that the trade union action will be launched in a 72-hour period from yesterday (28).
-
-The decision has been taken due to the demanding authorities to address several issues, including the promotion of Station Masters.
-
-...
-
-[Data](articles/81d7749e.json)
-
-[Extended Data](ext_articles/81d7749e.ext.json)
-
----
-
-### Notification of LAUGFS GAS
-
-*2024-10-29 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202669) · `si`
-
-LAUGFS GAS: Deficit to end soon. Distribution issues caused by war delays. New shipment arrived at Hambantota port. Gas distribution to resume nationwide within 2 days.
-
-🟩
-
-The LAUGFS gas deficit in the market will be removed within the next two days.
-
-LAUGFS Gas Chairman WKH Wagapitiya stated that there is a laugapala on the island's areas due to a problem with distribution.
-
-He said that due to the war in the Middle East, LAUGFS was delayed by LAUGFS, and the main terminal of LAUGFS was inundated.
-
-However, a ship carrying a stock of gas imported by LAUGFS, however, has reached the Hambantota port.
-
-According to the President of LAUGFS Gas, WWlapitiya, said that the gas consignment is being distributed across the country in the next two.
-
-◼️
-
-[Data](articles/c1286f6b.json)
-
-[Extended Data](ext_articles/c1286f6b.ext.json)
 
 ---

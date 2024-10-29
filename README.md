@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 18:20:58**
+As of **2024-10-29 19:02:03**
 
 ## Newspaper Stats
 
-*Scraped **52,053** Articles*
+*Scraped **52,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,185 @@ islandlk | 3,095
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,840
+adalk | 4,843
 adaderanalk | 6,170
-tamilmirrorlk | 7,215
-virakesarilk | 8,401
-adaderanasinhalalk | 9,058
+tamilmirrorlk | 7,217
+virakesarilk | 8,408
+adaderanasinhalalk | 9,059
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,053 (100.0%) of 52,053 articles have been extended.
+52,058 (100.0%) of 52,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
 
+### බැංකුවත් ව්‍යවසායකයාත් ආරක්ෂා වනපරිදි සමස්ත ක්‍රියාවලිය සිදුකළ යුතුයි - ජනපති
+
+*2024-10-29 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202702) · `si`
+
+රට ගොඩනැගීමේ සහ ආර්ථික සංවර්ධනය කිරීමේදී තමන්ට හෝ වත්මන් ආණ්ඩුවට කිසිඳු පාර්ශ්වයක් සමග විශේෂ බැඳීමක් නොමැති බැවින් ගතයුතු සෑම තීන්දුවක්ම නොපැකිළිව ගන්නා බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කරයි.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ, ශ්‍රී ලංකා බැංකු සංගමයේ සාමාජිකයින් ජනාධිපති ලේකම් කාර්යාලයේදී අද (29) හමුවූ අවස්ථාවේදීය.
+
+ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැංවීම සම්බන්ධයෙන් බැංකුවලින් සිදුවන මැදිහත්වීම සහ ඔවුන්ගේ ගැටලු පිළිබඳව ද මෙහිදී අවධානයට යොමුවී තිබේ.
+
+ශ්‍රී ලංකාව ඩිජිටල්කරණයෙහි වැදගත්කම සහ විද්‍යුත් හැඳුනුම්පත ලබාදීම සම්බන්ධයෙන් මෙහිදී සාකච්ඡා කළ අතර එම වැඩපිළිවෙළ වසර එකහමාරක් වැනි කෙටි කාලයක් තුළ නිම කිරීමට කටයුතු කරන බව ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+
+පැන නැගුණු ආර්ථික අර්බුදය සමග බැංකු පද්ධතිය යම් දරාගැනීමක් සිදුකරමින් ව්‍යවසායකයා ආරක්ෂා කිරීම සම්බන්ධයෙන් අවධානය යොමු කළ ජනාධිපතිවරයා ව්‍යවසායකයින් එම දරාගැනීම අවභාවිත කරන්නේ නම් එය ගැටලුවක් බව සඳහන් කළේය.
+
+බැංකුවත්, ව්‍යවසායකයාත් ආරක්ෂා වනපරිදි සමස්ත ක්‍රියාවලිය සිදුකළ යුතු බවට මෙහිදී වැඩිදුරටත් අවධාරණය කෙරුණි.
+
+...
+
+[Data](articles/8ec549a2.json)
+
+---
+
+### Arrests for stealing pilot's pilot
+
+*2024-10-29 18:14:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானியின்-பயணப்பொதியை-திருடிய-பணிப்பெண்-கைது/175-346277) · `ta`
+
+Sri Lankan woman arrested for stealing Colombian pilot's luggage at Bandaranaike International Airport. CCTV footage shows her taking bag and hiding it in her trolley. Arrested and produced in court.
+
+🟩
+
+A 45 -year -old Sri Lankan housemaker has been arrested by airport police for stealing a Colombian pilot.
+
+Stolen goods belong to a 40 -year -old Colombian pilot. A homemaker living in Hunupitiya, Wattala arrived at the Bandaranaike International Airport from Abu Dhabi on the Etihad Airways flight at 8:38 am on Tuesday (29).
+
+After landing at the airport, the pilot and the pilots left the airplane after all the passengers landed. When they collected their items and ready to leave the airport, the pilot found his bag disappearing.
+
+The incident was reported to the Ethihod Airlines Manager, and airport security officials examined CCTV footage. The cameras were reported to be one of the first landlords, taking the pilot's luggage, traveling to another part of the airport and hiding the bag in the trolley carrying her own luggage.
+
+It has also been revealed that the woman was rushed to the three -wheeler to leave the airport.
+
+...
+
+[Data](articles/72648c62.json)
+
+[Extended Data](ext_articles/72648c62.ext.json)
+
+---
+
+### Dr. Harsha de Silva is not allocated for the salary increase of state officials
+
+*2024-10-29 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/197446) · `ta`
+
+According to the Finance Ministry's report, the last government decided to increase the salaries of state officials. Therefore, it is not acceptable to say that it is not allocated for this in the Treasury. Former United People's Power Member Dr. Harsha de Silva questioned why the government is lying on the funds.
+
+He said this at a press conference held at the United People's Alliance headquarters in Colombo yesterday.
+
+The Prime Minister has said that funds have not been allocated to increase the salaries of state officials. But they said they were looking to increase their salary by six months before the election. 13 percent used the report of the Finance Ministry signed by 3 persons under the definition of parallel cost of national production for a resolution on the last Cabinet pay increase.
+
+...
+
+[Data](articles/ae60bfd9.json)
+
+[Extended Data](ext_articles/ae60bfd9.ext.json)
+
+---
+
+### The money is not stobed
+
+*2024-10-29 17:55:21* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-අච්චු-ගැසුවේ-නෑ/11-412744) · `si`
+
+The Central Bank of Sri Lanka has issued an announcement that the allegations have been made in recent years, the Central Bank said.
+
+◼️
+
+[Data](articles/cc788e28.json)
+
+[Extended Data](ext_articles/cc788e28.ext.json)
+
+---
+
+### Three persons, including a woman who disrupted the duty of the police in the Meerangeni area of ​​Eravur
+
+*2024-10-29 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/197441) · `ta`
+
+In Meerangeni, Eravur: Police arrest drug dealer with 11,230mg heroin. Woman (36) and man (24) accused of disrupting police duties during arrest.
+
+🟩
+
+Two persons, including a woman who attacked the police, disrupted the duty of the police when a drug dealer was arrested with 11,230 milligrams of heroin in the Meerangeni area of ​​Eravur.
+
+According to information available to the police, a drug dealer has been arrested with 11,230 milligrams of heroin while surrounded by a house in the area, police said.
+
+Meanwhile, a 36 -year -old woman, a 24 -year -old man and a drug dealer have been arrested for allegedly disrupting the duty of the police.
+
+◼️
+
+[Data](articles/fdd7e4a8.json)
+
+[Extended Data](ext_articles/fdd7e4a8.ext.json)
+
+---
+
+### නසරල්ලාගේ තැන නයිම් කාසීම්ට
+
+*2024-10-29 17:47:29* · [`adalk`](https://www.ada.lk/breaking_news/නසරල්ලාගේ-තැන-නයිම්-කාසීම්ට/11-412743) · `si`
+
+හිස්බුල්ලා සංවිධානයේ නව නායකයා ලෙස නයිම් කාසීම් පත් කර තිබේ.
+
+හිටපු නායක හසන් නසරල්ලා බේරූට් හීදී ඝාතනය කළ අතර, ඒ අනුව අද( 29දා) නව නායකයා ලෙස නයි කාසීම් පත් කිරීමට හිස්බුල්ලා සංවිධානය කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/10ed1132.json)
+
+---
+
 ### Sri Lanka’s Central Bank responds to reports of ‘money printing’
 
 *2024-10-29 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103015/-sri-lankas-central-bank-responds-to-reports-of-money-printing) · `en`
 
-The Central Bank of Sri Lanka (CBSL) today rejected as ‘completely baseless’ the recent reports claiming that the CBSL has printed currency notes to the value of Rs. 1 billion through Sri Lanka’s open market operations.
+The Central Bank of Sri Lanka (CBSL) today rejected as ‘completely baseless’ the recent reports claiming that the CBSL has printed currency notes to the value of Rs. 100 billion through Sri Lanka’s open market operations.
 
 Issuing a clarification in this regard, the CBSL explained that providing liquidity through open market operations is among the general affairs carried out by the Central Bank.
 
 Further, the CBSL clarified that the open market operations are conducted to maintain price stability through managing the interest rate, and that this measure cannot be classified as mere money printing.
 
-Additionally, the statement highlighted that the said reports have been published regarding the auctions and cash operations carried out by the Central Bank of Sri Lanka in the general open market activities.
+Additionally, the statement highlighted that the said reports have been published regarding the auctions and monetary operations carried out by the Central Bank of Sri Lanka in the general open market activities.
 
 ...
 
 [Data](articles/6a065360.json)
 
 [Extended Data](ext_articles/6a065360.ext.json)
+
+---
+
+### Why the National Social Security Policy should be implemented by the opportunity to re -design social security for the new president
+
+*2024-10-29 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197435) · `ta`
+
+Here's a 200-character summary:
+
+
+
+National Social Security Policy crucial post-election. New leadership must prioritize economic recovery, implement policy to reduce poverty and protect vulnerable groups.
+
+🟩
+
+Following the recent presidential election, the national social security policy has created a greater question than usual.
+
+The Sri Lankan government introduced the National Social Security Policy (NSPP) on August 16, 2024. This is the first time that has introduced such a policy in a country where free global health, free education, free education, Samurdhi and recently relying on various programs.
+
+The National Social Security Policy describes its basic principle, purpose and principles, but no explanation of how the policy will be implemented there - although this document refers to the National Social Security Strategy (NSPS), this strategy is not in public.
+
+With political leadership change since the recent election, the future of this policy has created uncertainty than ever.
+
+Do new leaders give priority to the needs of the people who are facing challenges in the country?In the coming weeks, the indicator of their priority will be how the new leadership will answer this question.
+
+...
+
+[Data](articles/41ca025b.json)
+
+[Extended Data](ext_articles/41ca025b.ext.json)
 
 ---
 
@@ -75,6 +221,20 @@ The following report is published in auction and financial operations implemente
 [Data](articles/bea6059a.json)
 
 [Extended Data](ext_articles/bea6059a.ext.json)
+
+---
+
+### சாவகச்சேரி நீதிவான் நீதிமன்றம் மீது தாக்குதல் நடத்தப்படவுள்ளவுள்ளதாக தகவல் வெளியானதையடுத்து பலத்த பாதுகாப்பு!
+
+*2024-10-29 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197438) · `ta`
+
+யாழ்ப்பாணம் - சாவகச்சேரி நீதிவான் நீதிமன்ற வளாகத்தில் இன்று செவ்வாய்க்கிழமை (29) முதல் பொலிஸ், மற்றும் விசேட அதிரடிப் படையினர் குவிக்கப்பட்டு பாதுகாப்பு அதிகரிக்கப்பட்டுள்ளது.
+
+சாவகச்சேரி நீதிவான் நீதிமன்றத்துக்கு தாக்குதல் நடத்தப்படப்போவதாக பொலிஸாரின் தொலைபேசிக்கு வழங்கப்பட்ட மர்ம நபரின் தகவலுக்கமைய குறித்த பாதுகாப்பு வழங்கப்பட்டுள்ளதாக பொலிஸ் தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/8b86409f.json)
 
 ---
 
@@ -106,6 +266,58 @@ We can't allocate the machine for an additional school train from Nanuoya to Kan
 
 ---
 
+### ”நாளை வேலைநிறுத்தம்’’
+
+*2024-10-29 17:24:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-வேலைநிறுத்தம்/175-346276) · `ta`
+
+புகையிரத திணைக்களத்திற்குள் உள்ள நிர்வாக பிரச்சினைகளுக்கு ஜனாதிபதியும் அமைச்சரும் தீர்வு காணாவிட்டால் நாளை தொழிற்சங்க போராட்டமொன்றை முன்னெடுக்க இலங்கை புகையிரத நிலைய அதிபர்கள் சங்கம் (SLRSMU) தீர்மானித்துள்ளது.
+
+கடந்த சில நாட்களாக இந்த விவகாரங்கள் குறித்து தாம் ஊடகவியலாளர் சந்திப்புகளை நடத்தி வருவதாக SLRSMU தலைவர் சுமேதா சோமரத்ன கூறினார்.
+
+"இன்று, ரயில்வே பொது மேலாளரால், ரயில்வே பொது கண்காணிப்பாளரின் உத்தரவை பின்பற்ற சில கீழ்நிலை அதிகாரிகள் தயங்குவதால் எழும் சிக்கல்களுக்கு சரியான தீர்வு வழங்க முடியவில்லை.
+
+அதன்படி, நாளைய தினம் அமைச்சின் செயலாளர் அல்லது அமைச்சருடன் நடத்தப்படும் கலந்துரையாடலின் அடிப்படையில் எமது தொழிற்சங்க நடவடிக்கை தொடரும்.
+
+“பயணிகளுக்கு தேவையான வசதிகளை செய்து தரவும், ரயில் சேவைகளை பராமரிக்கவும் ரயில்வே துறை தவறிவிட்டது. தினமும் ரயில்கள் ரத்து செய்யப்படுகின்றன அல்லது தடம் புரண்டு வருகின்றன.
+
+...
+
+[Data](articles/c2407ed4.json)
+
+---
+
+### செட்டிக்குளத்தில் காட்டு யானை தாக்கி இளைஞன் பலி
+
+*2024-10-29 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197431) · `ta`
+
+வவுனியா, செட்டிக்குளம் கிருஸ்தவகுளத்தில், காட்டு யானையின் தாக்குதலுக்கு இலக்காகி  இளைஞன் ஒருவன் இன்று செவ்வாய்க்கிழமை (29)  உயிரிழந்ததாக பறயநாலங்குளம் பொலிஸார் தெரிவித்தனர்.
+
+கிறிஸ்தவகுளம் பகுதியைச் சேர்ந்த 24 வயதுடைய விக்னேஸ்வரன் கேதீஸ்வரன் என்பவரே யானையின் தாக்குதலிலுக்கு இலக்காகி உயிரிழந்துள்ளார்.வவுனியா செட்டிகுளம், கிறிஸ்தவகுளம் பகுதியில், இருவர் காட்டுக்குச் சென்ற போதே இந்த சம்பவம் இடம்பெற்றள்ளதாக பொலஸார் மேலும் தெரிவித்தனர்.சடலம் உடற்கூற்று பரிசோதனைக்காக வவுனியா வைத்தியசாலைக்கு எடுத்துச்செல்லப்பட்டுள்ளமை குறிப்பிடத்தக்கது.குறித்த சம்பவம் தொடர்பான மேலதிக விசாரணையினை பறயநாலங்குளம் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/286ec2dc.json)
+
+---
+
+### எக்ஸ்பிரஸ் பேர்ள் கப்பல் விவகாரத்தில் நிதி மோசடி : விரைவில் புதிய விசாரணைகள் ஆரம்பம் - அரசாங்கம்
+
+*2024-10-29 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197430) · `ta`
+
+எக்ஸ்பிரஸ் பேர்ள் கப்பல் தீ விபத்தினால் இலங்கை கடற்பரப்புக்கு பாரிய பாதிப்புக்கள் ஏற்பட்டதோடு, இவ்விடயத்தில் நிதி மோசடிகள் இடம்பெற்றுள்ளதாகவும் குற்றச்சாட்டுக்கள் முன்வைக்கப்பட்டுள்ளன. எனவே இது தொடர்பில் புதிய விசாரணைகள் விரைவில் ஆரம்பிக்கப்படும் என அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்தார்.
+
+அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாடு செவ்வாய்கிழமை (29)  இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் இது தொடர்பில் மேலும் குறிப்பிடுகையில்,
+
+எக்ஸ்பிரஸ் பேர்ள் கப்பல் தீவிபத்தால் இலங்கை கடற்பரப்புக்கு பாரிய சேதம் ஏற்பட்டுள்ளது. இதனால் இலங்கை மீனவர்கள் தொழில் ரீதியில் கடும் இழப்புக்களை எதிர்கொண்டனர்.
+
+எனவே இது தொடர்பில் புதிய விசாரணைகளை நாம் விரைவில் நிச்சயம் ஆரம்பிப்போம். இது தொடர்பில் ஏற்கனவே முன்னெடுக்கப்பட்டுள்ள விசாரணைகள் மற்றும் சட்ட நடவடிக்கைககளையும், பாராளுமன்ற தெரிவுக்குழுவின் விசாரணை அறிக்கைகளையும் அடிப்படையாகக் கொண்டு அந்த விசாரணைகள் முன்னெடுக்கப்படும்.
+
+◼️
+
+[Data](articles/a5d18255.json)
+
+---
+
 ### “The Prime Minister's opinion is false”
 
 *2024-10-29 17:11:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமரின்-கருத்து-பொய்யானது/175-346275) · `ta`
@@ -129,6 +341,42 @@ Kanchana Wijesekera said that the committee included the officials of the Treasu
 [Data](articles/600402d6.json)
 
 [Extended Data](ext_articles/600402d6.ext.json)
+
+---
+
+### தேசிய மக்கள் சக்திக்கு இலவச பிரச்சாரம் செய்யும்  எதிரணி  மலையக கட்சிகளுக்கு நன்றி - கொட்டகலை பிரதேச சபை முன்னாள் உறுப்பினர் ராஜா
+
+*2024-10-29 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197418) · `ta`
+
+தேசிய மக்கள் சக்திக்கு வாக்களிக்க வேண்டாம் என கடந்த ஜனாதிபதித் தேர்தலில் அரச சார்பற்ற நிறுவனத்தைச் சேர்ந்த ஒருவர் தோட்டப்பகுதிகளில் பிரச்சாரம் செய்தார். எதிரணி கட்சிகள் ஒன்றிணைந்து பணம் வழங்கி ஒவ்வொரு குடும்பத்துக்கும் தலா ஆயிரம் ரூபாவை அவர் மூலம் வழங்கினர்.
+
+ஆனால் மக்கள் அதை புறக்கணித்து தேசிய மக்கள் சக்திக்கே வாக்களித்தனர். அதே போன்று பாராளுமன்றத் தேர்தலிலும் சம்பவங்கள் இடம்பெற்று வருகின்றன. எமக்கு இலவச பிரச்சாரங்களை முன்னெடுக்கும் எதிரணி மலையக கட்சி உறுப்பினர்களுக்கு நன்றி கூற வேண்டும்  என கொட்டகலை பிரதேச சபை முன்னாள் உறுப்பினர் ராஜா தெரிவித்தார்.
+
+தேசிய மக்கள் சக்தியின் உறுப்பினரும் கொட்டகலை பிரதேச சபையின் முன்னாள் உறுப்பினருமான ராஜா. கொட்டகலை பிரதேசத்தில் இடம்பெற்ற மக்கள் சந்திப்பின் போதே இதனை தெரிவித்தார்.
+
+மலையக அரசியல் கட்சிகள் கடந்த காலங்களில் தாம் என்ன செய்தன என்பதைப்பற்றி கதைக்காமல் தேசிய மக்கள் சக்தி ஆட்சியமைத்தால் என்னவெல்லாம் நடக்கும் என கற்பனை கதைகளை மக்களிடம் கூறி வருகின்றனர். இது எமக்கு இலவச பிரச்சாரமாகும்.
+
+...
+
+[Data](articles/525bf8d9.json)
+
+---
+
+### පළමු දිනයේදීම දකුණු අප්‍රිකාවෙන් බංග්ලාදේශයට දැඩි ප්‍රහාරයක්
+
+*2024-10-29 16:59:03* · [`adalk`](https://www.ada.lk/sports/පළමු-දිනයේදීම-දකුණු-අප්‍රිකාවෙන්-බංග්ලාදේශයට-දැඩි-ප්‍රහාරයක්/9-412742) · `si`
+
+සංචාරක දකුණු අප්‍රිකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩාය අතර පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගයේ පළමු දිනය සඳහා වන තරගය අද (29දා) අවසන් විය.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් දකුණු අප්‍රිකා කණ්ඩාය දිනය අවසන් වන විට පන්දුවාර 81 අවසානයේ කඩුලු 2ක් දැවී ලකුණු 307ක් ලබා සිටියහ.
+
+එහිදී ටෝනි ද සෝර්සි නොදැවී ලකුණු 141ක් සහ ට්‍රිස්ටන් ස්ටබ්ස් 106ක් රැස් කළහ.
+
+පන්දු යැවීමේදී තයිජුල් ඉල්ස්ලාම් ලකුණු 110ට කඩුලු 2ක් බිඳ හෙළුවේය.
+
+◼️
+
+[Data](articles/db91bfe5.json)
 
 ---
 
@@ -178,6 +426,30 @@ My parents worked as workers in the same garden. Their parents were like that. S
 
 ---
 
+### Ravaikkuttu recovery on Beliyatta - Kandy high -speed train
+
+*2024-10-29 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197426) · `ta`
+
+High-speed train from Beliatta to Kandy recovers ravaikkuttu. Train officers found magazine and ravic bout in black bag. Incident reported to Beliyatta Railway Station. Dogs ensure train safety.
+
+🟩
+
+The railway department has said that a raviccopher has been recovered on a high -speed train traveling from Beliatta to Kandy.
+
+The train, which departed from Maradana at 6.30 am, completed its journey at the Beliyatta railway station.
+
+In this case, the train was back to Kandy from Beliatta. A magazine and a ravic bout were recovered in a black bag beneath a seat during the regular raid of the train officers before departing.
+
+Immediately the incident was notified to the Beliyatta Railway Station Chancellor. Currently dogs are currently used to ensure the safety of the train.
+
+◼️
+
+[Data](articles/157fb0f1.json)
+
+[Extended Data](ext_articles/157fb0f1.ext.json)
+
+---
+
 ### Raghava Lawrence's first vision release of 'Kala Bhairava' starring Raghava Lawrence
 
 *2024-10-29 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197419) · `ta`
@@ -221,30 +493,6 @@ Chairman of the President Sumedha Somaratne said the discussions were failed to 
 [Data](articles/b7cd18e8.json)
 
 [Extended Data](ext_articles/b7cd18e8.ext.json)
-
----
-
-### Ravaikkuttu recovery on Beliyatta - Kandy high -speed train
-
-*2024-10-29 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197426) · `ta`
-
-High-speed train from Beliatta to Kandy recovers ravaikkuttu. Train officers found magazine and ravic bout in black bag. Incident reported to Beliyatta Railway Station. Dogs ensure train safety.
-
-🟩
-
-The railway department has said that a raviccopher has been recovered on a high -speed train traveling from Beliatta to Kandy.
-
-The train, which departed from Maradana at 6.30 am, completed its journey at the Beliyatta railway station.
-
-In this case, the train was back to Kandy from Beliatta. A magazine and a ravic bout were recovered in a black bag beneath a seat during the regular raid of the train officers before departing.
-
-Immediately the incident was notified to the Beliyatta Railway Station Chancellor. Currently dogs are currently used to ensure the safety of the train.
-
-◼️
-
-[Data](articles/157fb0f1.json)
-
-[Extended Data](ext_articles/157fb0f1.ext.json)
 
 ---
 
@@ -2107,311 +2355,5 @@ After the call, airport operations were interrupted, the airport and passengers 
 [Data](articles/f8fe2e14.json)
 
 [Extended Data](ext_articles/f8fe2e14.ext.json)
-
----
-
-### We too want to see a bank note with her signature - but money has not been printed
-
-*2024-10-29 10:53:51* · [`adalk`](https://www.ada.lk/breaking_news/අපිත්-ආසයි-එතුමගේ-අත්සනින්-මුදල්-නෝට්ටුවක්-දකින්න---ඒත්-මුදල්-අච්චු-ගැසීමක්-සිදු-කරලා-නෑ/11-412734) · `si`
-
-Sri Lanka: New currency notes without Finance Minister's signature not printed; no new loans issued.
-
-🟩
-
-Cabinet spokesman Vijitha Herath said that no new loans or money has been done.
-
-He was speaking at a media briefing of the Cabinet Decision.
-
-"Minister Minister Minister is the President. There should be the signature of the Minister of Finance in any newly printed currency note. Anura Dissanayake has not been released anywhere with the signature note of Minister Minister Minister. If there is such a note. We want to see a currency note of his signature. Not one of the following. So the fake news is molded by a billion cash molds. It's a full false news. The new money has not been printed. No new borrowing has happened. "
-
-◼️
-
-[Data](articles/c94858fb.json)
-
-[Extended Data](ext_articles/c94858fb.ext.json)
-
----
-
-### New contractor appointed for supply of LPG to Litro Gas Company
-
-*2024-10-29 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102998/new-contractor-appointed-for-supply-of-lpg-to-litro-gas-company) · `en`
-
-The Cabinet of Ministers has granted approval for awarding the contract to M/s OQ Trading Limited for the supply of Liquefied Petroleum Gas (LPG) to Litro Gas Company for the year 2025.
-
-Speaking during the Cabinet press conference held this morning (29), Cabinet Spokesman Minister Vijith Herath stated that tenders had been invited under the single stage double lot system following the international competitive bidding system for the supply of liquefied petroleum gas to Litro Gas Lanka Limited for the year 2025.
-
-Furthermore, he stated that only two suppliers, namely, M/s OQ Trading Limited and MWs Siam Gas Trading Pte Ltd had submitted bids for this purpose, whereas the bid submitted by MWs Siam Gas Trading Pte Ltd was rejected.
-
-...
-
-[Data](articles/22b6a031.json)
-
-[Extended Data](ext_articles/22b6a031.ext.json)
-
----
-
-### We will not abolish the Terrorism Act - Presidential Secretariat Officer
-
-*2024-10-29 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197366) · `ta`
-
-Presidential Secretariat denies abolishing Terrorism Act. Civil activists cannot interfere with journalists' work. Law to be used based on reliable information, not politically. President's authority to implement laws as deemed necessary. No issues with PTA and existing laws.
-
-🟩
-
-He told the Morning newspaper that there is no issue on the terrorism law, but it is the problem of using civil activists to prevent journalists to prevent others.
-
-He said that the use of civil activists would not be allowed to take the issue of terrorism against journalists.
-
-The Director of the Presidential Secretariat (Law) Attorney JM Vijayabandara said that we will use the Terrorism Act on the basis of reliable information and do not use it for political revenge.
-
-There are many other laws in the legal books, but the president's authority has the authority to implement and implement it in our country's law but not implement it, he said.
-
-He said that there is no problem with the PTA and a law.
-
-◼️
-
-[Data](articles/8189dd76.json)
-
-[Extended Data](ext_articles/8189dd76.ext.json)
-
----
-
-### Kerala festival
-
-*2024-10-29 10:45:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேரளா-திருவிழாவில்-பயங்கர-வெடி-விபத்து-150-பேர்-காயம்/175-346254) · `ta`
-
-Explosion injures over 150 at Kerala temple festival; 8 critically burned; police investigate; festival suspended
-
-🟩
-
-More than 150 people were injured in an explosion in the early hours of Tuesday (29) at a temple festival near Kasargod, Kerala.. It has been reported that some of the conditions are worrisome.
-
-Anjuthampalam Veerargavu Temple is located near Kasargod, Kerala. The temple festival is held annually. Accordingly, this year's festival is being held there. The crackers were placed in the Kudon near the temple in front of the festival. Thousands of people came to see the temple festival.
-
-In this case, the crackers that were placed in Gudon exploded in the fire. It is reported that the fire may have been caused by the fireworks that fell on the crackers in the kuton during the fireworks during the fireworks.. More than 150 people who came to see the festival were injured.
-
-97 of the injured in the accident have been hospitalized. This is confirmed by Kasargod District Collector Infasekar. Eight of them suffered 80 percent burns. They are being treated in the intensive care unit.
-
-...
-
-[Data](articles/823cd629.json)
-
-[Extended Data](ext_articles/823cd629.ext.json)
-
----
-
-### Sri Lanka bans transport, sale of African Swine Fever infected pigs
-
-*2024-10-29 10:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-bans-transport-sale-of-african-swine-fever-infected-pigs-185419/) · `en`
-
-ECONOMYNEXT – Sri Lanka has issued a gazette notice banning the transport, slaughter and sale of pigs infected with African Swine Fever as part of efforts to combat an outbreak.
-
-Sri Lanka’s Western and Wayamba Provinces have to highest concentration of pig farms, K K Sarath, Western Provincial Director of the Department of Animal Production and Health told Sri Lanka’s Derana television.
-
-There are around 1,000 registered pig farms in the Western Province with 40,000 to 50,000 pigs, but the number is believed to be under-reported by farmers, he said.
-
-The numbers being brought forward for vaccination show that farmers had previously under-reported flocks, he said.
-
-It takes about 6 to 8 months to grown and slaughter a pig and in any case the figure is dynamic, he said.
-
-In the Western Province, 11,607 pigs have died based on official data and 21,000 are infected with the disease, Sarath said.
-
-...
-
-[Data](articles/dc909040.json)
-
-[Extended Data](ext_articles/dc909040.ext.json)
-
----
-
-### Car: Four escaped
-
-*2024-10-29 10:39:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/20-அடி-பள்ளத்தில்-பாய்ந்தது-கார்-நால்வரும்-தப்பினர்/76-346253) · `ta`
-
-Car crash on Colombo-Hatton road: Vehicle veered off course, fell into 20-foot ditch. Four occupants unharmed. Police investigating incident.
-
-🟩
-
-Hatton police said that a car traveling from Colombo to Hatton had crashed into a 20 -foot ditch.
-
-The accident took place on Tuesday (29) at around 2 am, Hatton-Colombo main road.
-
-Hatton police are investigating the accident that the car driver had left the road from the car to Hatton in the morning and had left the car on the main road in Colombo.
-
-Four people were traveling in the car when the car crashed and no one was injured in the accident, police said.
-
-◼️
-
-[Data](articles/f6b1b8bb.json)
-
-[Extended Data](ext_articles/f6b1b8bb.ext.json)
-
----
-
-### Exit from the abyss and enter the brigs
-
-*2024-10-29 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197361) · `ta`
-
-Here's a 200-character summary:
-
-
-
-BRICS expansion: Egypt, Ethiopia, UAE join; 13 countries become partners. Summit addresses global tensions. China's Xi Jinping calls for unity and cooperation. BRICS aims to counter US dominance and promote southern nations' interests.
-
-🟩
-
-October 22 to 24 was held in Kasan, Russia, the 16th BRICS conference. Egypt, Ethiopia, Iran and the United Arab Emirates were formally added this year with the main group members of Brazil, Russia, India, China and South Africa.
-
-During the summit, 13 other countries, including Malaysia, Indonesia, Thailand, Vietnam, Nigeria, Uganda, Cuba and Bolivia, became a partner.
-
-This year, Sri Lanka also joins the list of developing countries from the global South who applied for a member of the Brig.. Foreign Secretary Aruni Wijewardena presided over the Sri Lankan delegation who visited the Kasan summit.
-
-At the same time, Foreign Minister Vijitha Herath has written a letter to support the BRICS countries.
-
-The Kasan summit is in the wake of the increasing tense global atmosphere, which is classified by the Israeli genocide event in Gaza, the NATO -led proximity war in Ukraine and the US -led new Cold War on China.
-
-...
-
-[Data](articles/f685a062.json)
-
-[Extended Data](ext_articles/f685a062.ext.json)
-
----
-
-### African Swine Fluid Sri Lanka: Isn't it good to eat pork these days?
-
-*2024-10-29 10:16:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjr429d05e0o) · `si`
-
-Pork sales banned in Sri Lanka due to African Swine Fever outbreak. Disease affects pigs but not humans. Dead pigs unsafe for consumption.
-
-🟩
-
-African Swine Fluid Sri Lanka: Isn't it good to eat pork these days?
-
-The sales of the country's pork is banned due to the expansion of African swine flu pigs (PRS) and Breeding and Respiratory Buddhist Disease (PRRS pigs).
-
-The Department of Animal Production and Health took the ban on a special gazette notification.
-
-The gazette notification has been named as Afsa and Breeding and Respiratory and respiratory and respiratory disease (PRRS).
-
-The Director General of Animal Production and Health, Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr. Dr.
-
-Accordingly, the exceptional gazette notification issued for three months from October 25 has been limited to preventing the spread of diseases.
-
-...
-
-[Data](articles/2066dfb7.json)
-
-[Extended Data](ext_articles/2066dfb7.ext.json)
-
----
-
-### Gaza aid fears as Israel bans UN Palestinian refugee agency
-
-*2024-10-29 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102997/gaza-aid-fears-as-israel-bans-un-palestinian-refugee-agency) · `en`
-
-Israel’s parliament has voted to pass legislation banning the UN’s Palestinian refugee agency (Unrwa) from operating within Israel and Israeli-occupied East Jerusalem, within three months.
-
-Contact between Unrwa employees and Israeli officials will also be banned, severely limiting the agency’s ability to operate in Gaza and the Israeli-occupied West Bank.
-
-Co-operation with the Israeli military - which controls all crossings into Gaza - is essential for Unrwa to transfer aid into the war-torn territory. It is the main UN organisation working on the ground there.
-
-Unrwa staff will no longer have legal immunity within Israel, and the agency’s headquarters in East Jerusalem will be closed.
-
-UN Secretary General António Guterres said implementing the laws “would be detrimental for the resolution of the Israeli-Palestinian conflict and for peace and security in the region as a whole”, while Unrwa’s chief Philippe Lazzarini said it “will only deepen the suffering of Palestinians”.
-
-...
-
-[Data](articles/b369b49e.json)
-
-[Extended Data](ext_articles/b369b49e.ext.json)
-
----
-
-### Media Meeting on Cabinet Decision
-
-*2024-10-29 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202680) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Media briefing on cabinet decision: Key points discussed, implications analyzed, public reaction anticipated."
-
-🟩
-
-◼️
-
-[Data](articles/ddfe738f.json)
-
-[Extended Data](ext_articles/ddfe738f.ext.json)
-
----
-
-### Matthew Wade decides to the international cricket field
-
-*2024-10-29 10:12:52* · [`adalk`](https://www.ada.lk/sports/මැතිව්-වේඩ්-ජාත්‍යන්තර-ක්‍රිකට්-පිටියට-සමුදීමට-තීරණය-කරයි/9-412733) · `si`
-
-Matthew Wade joins international cricket in Australia. He previously played domestic cricket. The Australian team's bowling coach will lead them in the T20 tournament against Pakistan.
-
-🟩
-
-Matthew Wade's International Cricket Course has decided to the international cricket in Australia.
-
-However, after he was preceding to cricket, the Australian team bowling coach will be held in the T20 tournament against Pakistan.
-
-◼️
-
-[Data](articles/084090d7.json)
-
-[Extended Data](ext_articles/084090d7.ext.json)
-
----
-
-### More than 150 injured in a temple in India
-
-*2024-10-29 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202679) · `si`
-
-Over 150 injured in Kerala temple fire during festival celebration. Eight critically hurt. Police suspect fireworks caused blaze. Incident occurred during midnight festivities.
-
-🟩
-
-More than 150 people were injured due to a fire in a temple in Kerala, India.
-
-Foreign media reports that the accident had occurred during a feast held at the Kovil.
-
-Foreign media reports that eight of the injured were seriously in the accident.
-
-The incident had taken place during the celebration of the Incest Ceremony of Ajuthambalam, Weerawwav area.
-
-Eyewitnesses have said that around the midnight crackers showed that the crackers stored in the shed in the cell near each cadre.
-
-Accordingly, the police are suspected of a fire in the fireworke near a Kovil.
-
-◼️
-
-[Data](articles/5c0e6eb8.json)
-
-[Extended Data](ext_articles/5c0e6eb8.ext.json)
-
----
-
-### Today's thoughtful caricature
-
-*2024-10-29 10:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/இன்றைய-சிந்தனைக்குரிய-கேலிச்சித்திரம்/62-346251) · `ta`
-
-Here's a summary of "Today's thoughtful caricature" in approximately 200 characters:
-
-
-
-A satirical drawing depicting modern society's quirks and flaws. It humorously exaggerates contemporary issues like social media obsession, political polarization, and technological addiction. The caricature uses exaggerated facial features and body language to convey its message about today's societal challenges and absurdities.
-
-🟩
-
-◼️
-
-[Data](articles/f2ca42e7.json)
-
-[Extended Data](ext_articles/f2ca42e7.ext.json)
 
 ---

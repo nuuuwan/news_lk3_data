@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 09:14:05**
+As of **2024-10-29 09:25:20**
 
 ## Newspaper Stats
 
-*Scraped **51,928** Articles*
+*Scraped **51,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ newsfirstlk | 363
 dbsjeyarajcom | 413
 colombotelegraphcom | 526
 bbccomsinhala | 528
-islandlk | 3,085
+islandlk | 3,094
 economynextcom | 3,158
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,827
+adalk | 4,828
 adaderanalk | 6,150
 tamilmirrorlk | 7,191
 virakesarilk | 8,374
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,928 (100.0%) of 51,928 articles have been extended.
+51,931 (100.0%) of 51,938 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -710,6 +710,40 @@ Academy of Design’s (AOD) annual showcase platform, SLDF 2024, will take place
 
 ### 2024-10-28 (Monday)
 
+### All about Billy of 2FORTY2 fame…
+
+*2024-10-28 23:27:00* · [`islandlk`](http://island.lk/all-about-billy-of-2forty2-fame/) · `en`
+
+Referring to last Tuesday’s story ‘Maathra World Tour’ in the UK, a fan of Billy Fernando, of 2FORTY2 fame – Yohani Senaratne, who resides in the UK – sent me this note:
+
+“What a spectacular evening it was with the musical genius Billy Fernando and his band 2FORTY2!
+
+From the stage set up, sounds, to the lighting and background motions, everything was just on point and Billy kept the audience entertained, not just by his singing and dancing, but by making everyone laugh throughout the four- hour long show, with his witty sense of humour. We didn’t feel the time pass at all!
+
+Billy is an amazingly gifted individual whom I personally had the privilege of working with, 24 years ago, on a Christian outreach project called Peace 2000.
+
+...
+
+[Data](articles/7ff6f82c.json)
+
+[Extended Data](ext_articles/7ff6f82c.ext.json)
+
+---
+
+### 99x Academy bridges education and industry with scholarship success
+
+*2024-10-28 23:17:00* · [`islandlk`](http://island.lk/99x-academy-bridges-education-and-industry-with-scholarship-success/) · `en`
+
+In an era where academic qualifications alone no longer suffice, the 99x Academy is revolutionising the way young talent is nurtured through its innovative scholarship programme. Designed to bridge the gap between classroom learning and industry demands, this initiative equips students with essential skills. At the same time, they pursue their degrees, offering a unique blend of hands-on experience, customer exposure, and mentoring, alongside five years of immersive industry training. From the first day, interns are regarded as integral team members, working alongside seasoned professionals on real-world projects. By the time they graduate, these students will have accumulated five years of industry experience, making them highly competitive and shaping the future of Sri Lanka’s tech landscape.
+
+...
+
+[Data](articles/144c4731.json)
+
+[Extended Data](ext_articles/144c4731.ext.json)
+
+---
+
 ### Union action within 72 hours
 
 *2024-10-28 23:13:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/72-மணித்தியாலங்களுக்குள்-தொழிற்சங்க-நடவடிக்கை/175-346231) · `ta`
@@ -732,6 +766,22 @@ However, the union has announced that the union struggle will begin within 72 ho
 
 ---
 
+### V Holistic managed security solution by H One for strengthened cybersecurity at CBL
+
+*2024-10-28 23:12:00* · [`islandlk`](http://island.lk/v-holistic-managed-security-solution-by-h-one-for-strengthened-cybersecurity-at-cbl/) · `en`
+
+In a significant initiative to help businesses focus on their core operations while managing cybersecurity, H One has successfully implemented a comprehensive managed security solution for the Ceylon Biscuits Limited (CBL) Group. This robust service leverages Microsoft Sentinel, integrated with Microsoft 365 Defender and other Microsoft solutions, to provide unparalleled threat detection and incident response capabilities.
+
+The collaboration between H One and CBL Group aims to fortify CBL’s cybersecurity defences. This includes comprehensive reviews of the entire IT infrastructure—datacenters, cloud environments, and physical security controls. Additionally, the implementation of asset valuation and patch management processes ensures timely updates and threat mitigation.
+
+...
+
+[Data](articles/eee99643.json)
+
+[Extended Data](ext_articles/eee99643.ext.json)
+
+---
+
 ### Towards Stability, Equity & Prosperity: Part II
 
 *2024-10-28 23:11:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-stability-equity-prosperity-part-ii/) · `en`
@@ -745,6 +795,22 @@ Furthermore, allegations are being made that the interim government has overborr
 [Data](articles/e8a328dd.json)
 
 [Extended Data](ext_articles/e8a328dd.ext.json)
+
+---
+
+### Bourse reacts positively to news from debt restructuring front
+
+*2024-10-28 23:08:00* · [`islandlk`](http://island.lk/bourse-reacts-positively-to-news-from-debt-restructuring-front/) · `en`
+
+The stock market got off to a slow start yesterday but later indicated a bullish sentiment due to a media report that the debt restructuring process is likely to be completed in November and that the fourth tranche of US $ 330 million from the IMF is likely to be obtained soon.
+
+Further, IMF also hailed the government on their economic policies and investors too were a bit happy with the way the government was currently handling the economy, market analysts said.Amid those developments, both indices moved upwards and the turnover touched more than Rs 4 billion with satisfactory investor participation.
+
+The All Share Price Index went up by 92.48 points, while the S and P SL20 rose up by 30.87 points. Turnover stood at Rs 4.42 billion with eleven crossings.
+
+...
+
+[Data](articles/c446aa6a.json)
 
 ---
 
@@ -1121,6 +1187,22 @@ During sentencing, the accused’s legal counsel pleaded for leniency, emphasizi
 [Data](articles/d3aea540.json)
 
 [Extended Data](ext_articles/d3aea540.ext.json)
+
+---
+
+### රාජ්‍ය බුද්ධි තොරතුරු අපරාධකරුවන්ට හා ජාවාරම්කරුවන්ට දුන් කොස්තාපල් අල්ලයි
+
+*2024-10-28 18:51:17* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-බුද්ධි-තොරතුරු-අපරාධකරුවන්ට-හා-ජාවාරම්කරුවන්ට-දුන්-කොස්තාපල්-අල්ලයි/11-412726) · `si`
+
+රාජ්‍ය බුද්ධි සේවයට අනුයුක්තව සිට රාජ්‍ය බුද්ධි තොරතුරු, සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් සහ මත්කුඩු ජාවාරම්කරුවන් අතට පත් කළ විශේෂ කාර්ය බලකායේ සේවය කරන කොස්තාපල්වරයකු අත්අඩංගුවට ගත් බව එම කාර්ය බලකාය පවසයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ රාජ්‍ය බුද්ධි සේවයට අනුයුක්තව කිලිනොච්චි විශේෂ කාර්ය බලකා කඳවුරේ රාජකාරි කරමින් සිටි කොස්තාපල්වරයෙකි. මෙම සැකකරු රාජ්‍ය බුද්ධි තොරතුරු අවසරයකින් තොරව බාහිර පාර්ශ්ව වෙත ලබා දෙන බවට ලද බුද්ධි තොරතුරකට අනුව  විමර්ශන පවත්වා කිලිනොච්චි විශේෂ කාර්ය බළකා කඳවුරේ ස්ථානාධිපතිවරයා ඇතුළු කණ්ඩායමක් විසින් පෙරේදා (27දා)  ඔහු අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගන්නා අවස්ථාවේ සැකකාර කොස්තාපල් සන්තකයේ තිබී විවිධ වර්ගයේ ජංගම දුරකථන හයක්, සිම් කාඩ් වත් හතක් ඇතුළු දේපොළ සොයා ගත් බව විශේෂ කාර්ය බලකාය පවසයි. සැකකරු සම්බන්ධයෙන් සිදු කළ විමර්ශනයේදී මොහු සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් සහ මහා පරිමාණ මත්කුඩු ජාවාරම්කරුවන් සමඟ  සමීප  සම්බන්ධතා පවත්වන පුද්ගලයකු බවට අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/dcc4796c.json)
 
 ---
 
@@ -2321,127 +2403,5 @@ In this backdrop, the train from Colombo to the rehabilitation of the railway li
 [Data](articles/152297ae.json)
 
 [Extended Data](ext_articles/152297ae.ext.json)
-
----
-
-### Row
-
-*2024-10-28 15:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாறை-இடுக்கில்-தலைகீழாக-சிக்கிய-பெண்/50-346203) · `ta`
-
-Woman trapped between rocks for hours during hike in Australia. Rescuers moved massive boulder to free her after 7-hour operation. She suffered minor injuries but praised heroic effort.
-
-🟩
-
-When a woman was trying to take a falling cell phone when he was on the walk, she was trapped in the middle of the two rocks for several hours. The incident took place in Australia.
-
-Earlier this month, a woman named Mettilda Campbell fell into a rocky plot when the New Chaud Wales walked in the Hunter valley.
-
-Had to fight and rescue him for about seven hours. The Emergency Service had to carry out “challenging” rescue operations, including moving rocks.
-
-Although they took out the rock weighing 500 kg, they had to carry out more tasks to recover her from the "S" curved of the woman.
-
-The woman has been upside down for more than an hour before the rescue team arrived at the scene. His friends's efforts to recover him were fruitless.
-
-The photos shared by the ambulance service show that the woman was trapped in the middle of the rocks, and the complex efforts of the emergency service team to recover her, creating a big gap between the rocks.
-
-...
-
-[Data](articles/f6346fb4.json)
-
-[Extended Data](ext_articles/f6346fb4.ext.json)
-
----
-
-### ‘There is no travel ban on Sri Lanka’ – US Ambassador
-
-*2024-10-28 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102981/there-is-no-travel-ban-on-sri-lanka-us-ambassador-) · `en`
-
-U.S. Ambassador to Sri Lanka, Julie Chung has clarified that the United States has not issued a travel ban on Sri Lanka and that the security alert issued recently was only for Americans to avoid the Arugam Bay area until further notice.
-
-Chung said she is proud of the U.S. Embassy’s ongoing collaboration with the government of Sri Lanka to respond to a security threat that resulted in its recent security alert, and pledged to continue working together to support the safety and prosperity of Sri Lanka’s citizens and visitors alike.
-
-Speaking during an event on Monday (28), she stated that one of her duties as a US Ambassador is to ensure the safety and the security of American citizens here in Sri Lanka.
-
-“Globally, all around the world our US Embassies operate under what’s called a duty to warn. If we become aware of a credible, specific security threat, we are required to share that information with our staff, US citizens and the host government,” Chung stated.
-
-...
-
-[Data](articles/04845ba4.json)
-
-[Extended Data](ext_articles/04845ba4.ext.json)
-
----
-
-### 'We have provided information on the danger of the Sri Lankan government.
-
-*2024-10-28 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197315) · `ta`
-
-Sri Lankan government faces criticism over security concerns. US Ambassador Julie Chang emphasizes cooperation on safety measures. She warns against travel to Arukamguda until further notice.
-
-🟩
-
-US Ambassador to Sri Lanka Julie Chang said the US continues to work with the Sri Lankan government to ensure the safety of Sri Lankans and visitors.
-
-I am proud of the cooperation between Sri Lanka and the US in solving security threats.
-
-He emphasized his duty to ensure the safety of all Americans in Sri Lanka, and he said that he should share information with the City, US citizens and security threats and the country where the country is in terms of security threats.
-
-The whole world is working on the policy of a warning of a warning, ie, if we get alert on credibility, we must share that information with our citizens and the authorities of the country.. He referred to the United States as a global activity.
-
-"We have informed the Sri Lankan government when there is a security threat at the Augkam Kutti and the Sri Lankan government has taken swift action," Julie Sung said.
-
-...
-
-[Data](articles/1ca9e126.json)
-
-[Extended Data](ext_articles/1ca9e126.ext.json)
-
----
-
-### CSE emerges as second best performer in Asia
-
-*2024-10-28 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102980/cse-emerges-as-second-best-performer-in-asia) · `en`
-
-The Colombo Stock Exchange (CSE) has been placed as the second best performing equity index in Asia.
-
-The CSE has secured the second in Asia as of 25 October 2024, with the All Share Price Index (ASPI) boasting an impressive year-to-date return of 29.65% in USD, according to Bloomberg.
-
-This outstanding performance underscores the resilience of Sri Lanka’s capital market and its growing appeal to both local and international investors, with the daily average turnover for the week ended 25 October 2024, standing at Rs. 3.058 billion.
-
-Furthermore, the CSE witnessed the last two consecutive trading days (Thursday and Friday) with the daily turnover exceeding Rs. 4.7 billion.
-
-For the same week, the ASPI closed at 12,517.58 points, a single point away from the reigning record for the year.
-
-Similarly, the S&P SL20 index, which represents the top 20 largest and most liquid stocks, posted robust gains, and closed at 3,759.30 points.
-
-...
-
-[Data](articles/4ec8f10d.json)
-
-[Extended Data](ext_articles/4ec8f10d.ext.json)
-
----
-
-### Increasing WhatsApp hack in the country
-
-*2024-10-28 15:14:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-அதிகரிக்கும்-வாட்ஸ்அப்-ஹேக்-சம்பவங்கள்/175-346200) · `ta`
-
-WhatsApp hack surge: Criminals exploit OTP, gain access to public accounts. Victims receive unexpected verification codes, allowing fraudsters to take control. Hacked accounts send emergency messages requesting funds transferred to fraudulent bank accounts.
-
-🟩
-
-Internet criminals use the verification code (OTP) to obtain access to public accounts.
-
-Victims have suddenly received WhatsApp verification codes and the fraudsters are contacting users, betraying friends or acquaintances, and requested the verification code.
-
-Once the verification code is issued, the account will go under the control of the fraudsters.
-
-Meanwhile, it is reported that after hacking the WhatsApp computer, a small amount of SMS is being sent to a small amount of money as an emergency assistance for the communication numbers and the bank account number used to get the money has been fraudulently obtained from others.
-
-◼️
-
-[Data](articles/7b6b32b5.json)
-
-[Extended Data](ext_articles/7b6b32b5.ext.json)
 
 ---

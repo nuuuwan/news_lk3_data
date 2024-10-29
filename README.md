@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 15:58:57**
+As of **2024-10-29 16:13:30**
 
 ## Newspaper Stats
 
-*Scraped **52,024** Articles*
+*Scraped **52,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,116 @@ economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,837
-adaderanalk | 6,165
-tamilmirrorlk | 7,209
+adaderanalk | 6,166
+tamilmirrorlk | 7,211
 virakesarilk | 8,395
-adaderanasinhalalk | 9,052
+adaderanasinhalalk | 9,054
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,024 (100.0%) of 52,024 articles have been extended.
+52,029 (100.0%) of 52,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Arugamay surrenders to a confidential report on investigations
+
+*2024-10-29 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202695) · `si`
+
+Arugam: Suspects detained, investigation ongoing. Two arrested, questioned about planned attack on tourist areas.
+
+🟩
+
+Investigations officers presented an extremely confidential report on investigations into the Arugam's incident today (29).
+
+The Investigation Officer has informed the court that two suspects arrested in connection with the incident are being detained and investigations are being carried out on detention orders.
+
+The magistrate ordered that the magistrate investigators were produced before courts in the future.
+
+The Terrorism Investigation Department has informed the courts of the Colombo Magistrate's Court that two suspects have been detained and questioning the investigation into the area where there is a plan to launch an attack targeting the area of ​​foreign tourists.
+
+◼️
+
+[Data](articles/e6b6fe77.json)
+
+[Extended Data](ext_articles/e6b6fe77.ext.json)
+
+---
+
+### Hezbollah is a new leader
+
+*2024-10-29 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202694) · `si`
+
+Here's a 200-character summary:
+
+
+
+Hezbollah appoints new leader after Hassan Nasrallah's death. Deputy leader Abbas al-Musawi succeeded him, following Musawi's own death in 1992.
+
+🟩
+
+The organization announced that their deputy leader was appointed as the deputy leader of the Hezbollah's leadership in Lebanon.
+
+Hassan Nasaralla who served as their leader died a month after the air strike.
+
+The attack was launched to a building where Nasaralla was staying in South Resort.
+
+As the deputy leader of the organization, was the deputy leader of the Hezbollah Organization, and Abbas al-Musawi, was selected, and Musevi died in a land attack in 1992.
+
+◼️
+
+[Data](articles/2031e851.json)
+
+[Extended Data](ext_articles/2031e851.ext.json)
+
+---
+
+### TID submits confidential report to court on Arugam Bay investigation
+
+*2024-10-29 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103010/tid-submits-confidential-report-to-court-on-arugam-bay-investigation) · `en`
+
+The Terrorism Investigation Division (TID) has informed the Colombo Magistrate’s Court that two suspects, who were arrested in relation to the investigations carried out according to the intelligence received regarding a plan to launch a terrorist attack targeting a tourist attraction in Sri Lanka, will be detained further for interrogations.
+
+The investigation officers have also submitted a highly confidential report regarding the progress of investigations to the Colombo Additional Magistrate Pasan Amarasena today (29).
+
+The Additional Magistrate, who considered the facts presented, ordered the TID to report further progress of the investigations to the court.
+
+...
+
+[Data](articles/38807c37.json)
+
+[Extended Data](ext_articles/38807c37.ext.json)
+
+---
+
+### 90 days of blocking for both of them
+
+*2024-10-29 15:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவருக்கும்-90-நாட்கள்-தடுப்புகாவல்/175-346272) · `ta`
+
+Sri Lanka: Two suspects blocked 90 days under Terrorism Act for alleged tourist-targeted attack. Foreign tourists involved. Court orders detention based on intelligence report.
+
+🟩
+
+At the request of foreign terrorist organizations, two suspects suspected of launching a terrorist attack in Sri Lanka targeting areas where foreign tourists are mobilized, according to the President's order as the Defense Minister.
+
+The section has informed the court on Tuesday (29) in the presence of Colombo Additional Magistrate Basan Amarasena.
+
+The Terrorist Investigation Department of the Criminal Investigation Department filed a special petition for the suspects have been arrested in accordance with the Terrorism Act.
+
+A number of foreign tourists have filed a special proposal in the case of the alleged terrorist attack on the alleged tourism that is allegedly staying.
+
+The Terrorist Investigation Division of the Criminal Investigation Department said that two persons arrested in connection with the incident have been detained.
+
+...
+
+[Data](articles/e9fa10a9.json)
+
+[Extended Data](ext_articles/e9fa10a9.ext.json)
+
+---
 
 ### The interim ban is prevented from interrupting the cable car project
 
@@ -115,6 +211,30 @@ Nasrallah was killed on Sept. 27, and senior Hezbollah figure Hashem Safieddine 
 [Data](articles/127fbcd2.json)
 
 [Extended Data](ext_articles/127fbcd2.ext.json)
+
+---
+
+### Another intervention for Ranil
+
+*2024-10-29 15:08:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-மற்றுமொரு-தலையிடி/175-346270) · `ta`
+
+Supreme Court allows petitioners to add Ranil Wickremesinghe as defendant in case challenging police inspector appointment.
+
+🟩
+
+The Supreme Court on Tuesday (29) granted permission to the petitioners to add former President Ranil Wickremesinghe as defendant in a fundamental rights violation petition filed against the appointment of Deshabandan South Kon as the Inspector General of Police.
+
+The Sri Lanka Young Journalists Association has filed the petition against the appointment of the National Inspector General of Police of the country.
+
+Attorney -at -Law Saliya Peiris, appearing on behalf of the petitioners, filed a petition in the High Court that former President Wickremesinghe did not hold office as president and sought the court's permission to amend the petition.
+
+The petition granted permission to the petitioners to include the former president as a defendant.
+
+◼️
+
+[Data](articles/502c2208.json)
+
+[Extended Data](ext_articles/502c2208.ext.json)
 
 ---
 
@@ -2239,113 +2359,5 @@ The victim was a 64 year old resident of the Aladeniya area in Gelioya.
 [Data](articles/4bcb93e0.json)
 
 [Extended Data](ext_articles/4bcb93e0.ext.json)
-
----
-
-### Weather today
-
-*2024-10-29 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202666) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Showers/thunderstorms expected in Western, Sabaragamuwa, Northwestern provinces and Galle/Matara districts. Evening/night showers in other areas. Strong winds (40) reported from North/North Central/Western provinces. Public advised to prepare for potential wind/lightning issues."
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and Northwestern provinces and in the Galle and Matara districts.
-
-The department states that showers or night thundershowers will occur at the evening or night in the rest of the island.
-
-From the North, North Central and Northwestern provinces, now in Trincomalee and Hambantota districts.. There are about 40 strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/e8fd8bdc.json)
-
-[Extended Data](ext_articles/e8fd8bdc.ext.json)
-
----
-
-### Haycarb triumphs at ARC International Awards 2024
-
-*2024-10-29 02:46:03* · [`dailyftlk`](https://www.ft.lk/business/Haycarb-triumphs-at-ARC-International-Awards-2024/34-768549) · `en`
-
-Sets new benchmark in corporate reporting with Gold and Silver awards
-
-Haycarb PLC, a leader in activated carbon manufacturing and a member of the Hayleys Group, announced that its 2023/24 Annual Report has been honoured with two prestigious awards at the 38th International ARC Awards, headquartered in New York.
-
-Themed ‘Thriving Together’, the report won a Gold award in the ‘Cover Photo/Design’ category and a Silver award in the ‘Non-Traditional Annual Report’ category.
-
-Hailed as the ‘Academy Awards of Annual Reports’ of the financial community, the ARC Awards is the world’s largest international competition that celebrates excellence in annual reports. This prestigious competition sets the global benchmark for outstanding creativity, innovation, and execution in investor relations materials.
-
-...
-
-[Data](articles/f24b7039.json)
-
-[Extended Data](ext_articles/f24b7039.ext.json)
-
----
-
-### Vajira, Mano appointed to Access Engineering Board
-
-*2024-10-29 02:45:04* · [`dailyftlk`](https://www.ft.lk/business/Vajira-Mano-appointed-to-Access-Engineering-Board/34-768548) · `en`
-
-Top professionals Dr. Vajira Kulatilaka and Manoha Rajakariar have been appointed as Independent Non-Executive Directors on the Board of Access Engineering PLC.
-
-Kulatilaka holds a BSc in Civil Engineering with First Class Honours from the University of Moratuwa and an MSc in Industrial Engineering and Management from the Asian Institute of Technology, Thailand. He is also a Chartered Financial Analyst and has obtained Fellow Membership of the Chartered Institute of Management Accountants UK.
-
-...
-
-[Data](articles/35ba2134.json)
-
-[Extended Data](ext_articles/35ba2134.ext.json)
-
----
-
-### Gammanpila defends ex-SIS Chief Suresh Salley against Easter attack allegations
-
-*2024-10-29 02:41:11* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-defends-ex-SIS-Chief-Suresh-Salley-against-Easter-attack-allegations/56-768547) · `en`
-
-Says according to Imam’s report, Salley was in Malaysia on day of the attack and was not in SL
-
-Claims Salley could not have met Zahran Hashim in February 2018 as he was out of SL and Hashim had not left Eastern Province at the time
-
-Urges Govt. to investigate person in Channel 4 documentary who posed as high-ranking official
-
-Says if he is indeed a high-ranking Govt. official, action should be taken against him for treason
-
-Pivithuru Hela Urumaya (PHU) leader Udaya Gammanpila has stepped forward to defend former State Intelligence Services (SIS) Chief Major General Suresh Salley against allegations linking him to the 2019 Easter Sunday terrorist attacks.
-
-He said according to the facts of the I.M. Imam reported on the allegations made in a Channel 4 documentary on the attack, Salley had not been in Sri Lanka on the day of the attack and was instead stationed at the Sri Lankan High Commission in Malaysia at the time.
-
-...
-
-[Data](articles/5052e0c9.json)
-
-[Extended Data](ext_articles/5052e0c9.ext.json)
-
----
-
-### Marikkar calls for stricter monitoring of foreign activities in SL
-
-*2024-10-29 02:39:24* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-calls-for-stricter-monitoring-of-foreign-activities-in-SL/56-768546) · `en`
-
-Calls on Govt. to monitor and regulate activity of foreigners in SL or says it risks following path of previous administration and its negligence
-
-Questions Govt.’s vigilance, pointing out the influx of foreign nationals engaged in various activities across country
-
-Reminds Govt. it has a responsibility to monitor and regulate activities of foreigners in SL
-
-Samagi Jana Balawegaya (SJB) Colombo district candidate S.M. Marikkar yesterday called on the Government to monitor and regulate the activity of foreigners in Sri Lanka in the light of recent revelations following a terrorism threat against Israeli tourists in the country.
-
-...
-
-[Data](articles/2f233088.json)
-
-[Extended Data](ext_articles/2f233088.ext.json)
 
 ---

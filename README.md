@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 16:57:34**
+As of **2024-10-29 17:09:22**
 
 ## Newspaper Stats
 
-*Scraped **52,034** Articles*
+*Scraped **52,044** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,109 @@ newsfirstlk | 363
 dbsjeyarajcom | 413
 colombotelegraphcom | 528
 bbccomsinhala | 529
-islandlk | 3,094
+islandlk | 3,095
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,839
-adaderanalk | 6,167
-tamilmirrorlk | 7,211
-virakesarilk | 8,395
+adaderanalk | 6,168
+tamilmirrorlk | 7,213
+virakesarilk | 8,401
 adaderanasinhalalk | 9,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,034 (100.0%) of 52,034 articles have been extended.
+52,036 (100.0%) of 52,044 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Do not abandon education and effort in any case
+
+*2024-10-29 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/197421) · `ta`
+
+Education and perseverance key to success: From tea plantation worker to estate officer, overcoming challenges through hard work and continuous learning.
+
+🟩
+
+My ancestors came to work in tea plantations. I continued my education by targeting another business. Sivakavi Kalaivani, who is the tea station officer of the Nuwara Eliya Peedru Estate and the guide to the tourists, says that my efforts, my parents' sacrifices and the promotion of the plantation management I am currently working on.
+
+The Nuwara Eliya Peedru Estate, which is under the Kelaniweli Plantation Company, is the place where the tourists visit the Tea Center daily.
+
+Artist is also the official of the Beeturu Tea History, which is a place where the tea is a place to taste the tea and the tea of ​​the Nuwara Eliya, which has taken the traditional Ceylon Tea business worldwide.
+
+Here she shares his experiences as to how some of the women who have learned high -quality have been leaving the gardens and working in the capital.
+
+My parents worked as workers in the same garden. Their parents were like that. Six of my family. I am the fifth child. I read the other profession targeting.
+
+...
+
+[Data](articles/dfb87a93.json)
+
+[Extended Data](ext_articles/dfb87a93.ext.json)
+
+---
+
+### Raghava Lawrence's first vision release of 'Kala Bhairava' starring Raghava Lawrence
+
+*2024-10-29 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197419) · `ta`
+
+Raghava Lawrence's 'Kala Bhairava' released; fans excited about poster. Directed by Ramesh Verma, it's an Indian superhero film in Tamil, Telugu, Malayalam, Kannada, and Hindi. Details of cast and crew coming soon.
+
+🟩
+
+The 25th film, starring choreographer and leading star star Raghava Lawrence, has been named 'Kala Bhairava' and has been released.
+
+Fans are excited as the poster of the film has been released today, the birthday of Raghava Lorenz.
+
+Directed by Telugu director Ramesh Verma, the film 'Kala Bhairava' is being made as Ban Indian Super Hero.
+
+Official details of other actors, actresses and technicians who work with Raghava Lawrence in the film are expected to be released soon.
+
+The film, starring Raghava Lawrence, is also observed that the film will be released in Indian languages ​​including Tamil, Telugu, Malayalam, Kannada and Hindi as Telugu filmmakers have produced and successful in the film.
+
+◼️
+
+[Data](articles/a6ea3b86.json)
+
+[Extended Data](ext_articles/a6ea3b86.ext.json)
+
+---
+
+### பெலியத்த - கண்டி அதிவேக ரயிலில் ரவைக்கூடு மீட்பு
+
+*2024-10-29 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197426) · `ta`
+
+பெலியத்தவில் இருந்து  கண்டி நோக்கி  பயணிக்க இருந்த அதிவேக ரயிலில்  ரவைக்கூடு ஒன்று மீட்கப்பட்டுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+மருதானையில் இருந்து காலை 6.30 மணிக்கு புறப்பட ஆரம்பித்த ரயில் பெலியத்த ரயில்  நிலையத்தில் தனது பயணத்தை நிறைவ செய்தது.
+
+இந்நிலையில், குறித்த ரயில் பெலியத்தவில் இருந்து மீண்டும் கண்டிக்கு புறப்படத் jயாராக இருந்தது. புறப்படுவதற்கு முன்னர் ரயில் அதிகாரிகளின் வழக்கமான சோதனை நடவடிக்கையின் போது ரயிலில் இருக்கை ஒன்றின் கீழே கறுப்பு நிற பை ஒன்றில் ஒரு பத்திரிகை மற்றும் ரவைக்கூடு மீட்கப்பட்டுள்ளது.
+
+உடனடியாக சம்பவம் குறித்து பெலியத்த ரயில் நிலைய அதிபருக்கு அறிவிக்கப்பட்டு சோதனை நடத்தப்பட்டது. ரயிலின் பாதுகாப்பை உறுதி செய்ய தற்போது மோப்ப நாய்கள் பயன்படுத்தப்படுகின்றன.
+
+◼️
+
+[Data](articles/157fb0f1.json)
+
+---
+
+### ASPI reaches highest value since Feb. 2022
+
+*2024-10-29 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103013/aspi-reaches-highest-value-since-feb-2022) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange has gained 135.54 points today (29).
+
+Accordingly, the ASPI had closed at 12,745.60 points today, its highest value since February 03, 2022.
+
+◼️
+
+[Data](articles/0c93005a.json)
+
+---
 
 ### What are the messages received from the social media, including Whatsapp,
 
@@ -54,6 +138,22 @@ Accordingly, OTP Passwords (PSSword information) by the pseudo-messages and What
 
 ---
 
+### மாணவர் தலைவர்களை அச்சுறுத்திய வேட்பாளர்
+
+*2024-10-29 16:19:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்-தலைவர்களை-அச்சுறுத்திய-வேட்பாளர்/175-346274) · `ta`
+
+மட்டக்களப்பு ஓட்டமாவடி மத்திய கல்லூரியில் அத்துமீறி உள் நுழைய முற்பட்ட ஒருவரை தடுத்து நிறுத்திய பாதுகாப்பு உத்தியோகத்தர் மற்றும் மாணவர் தலைவர்களுக்கு தகாத வார்த்தை பிரயோகித்து பாடசாலை நடவடிக்கைகளுக்கு அச்சுறுத்தல் விடுத்த, தேர்தல் வேட்பாளர் ஒருவருக்கு எதிராக சனிக்கிழமை (26) அன்று பொலிஸ் நிலையத்திலும் தேர்தல் உதவி  ஆணையர்   மற்றும் தேர்தல் கண்காணிப்பு அமைப்பிலும் குறித்த பாடசாலையின் அதிபர் முறைப்பாடு செய்துள்ளார்.
+
+பாடசாலை ஆரம்பிக்கும் போது தேசிய கீதம் மற்றும் காலை கூட்டம் இடம்பெறும் அப்போது பிந்தி வரும் மாணவர்களை காலைக்கூட்டம் முடியும் வரை நிறுத்தி வைப்பது வழமையானதாகும்.
+
+இந் நிலையில் வெள்ளிக்கிழமை (25) காலை பாடசாலை ஆரம்பித்து காலைக் கூட்டம் இடம்பெற்றுக் கொண்டிருந்த போது குறித்த வேட்பாளர் அவரது பிள்ளையை பாடசாலைக்கு கொண்டு சென்றுள்ள நிலையில் அங்கு பிந்தி வந்த மாணவர்களை நிறுத்தி வைக்கப்பட்டிருந்துள்ளது.
+
+...
+
+[Data](articles/b3c52f5b.json)
+
+---
+
 ### Public alerted over surge in fake messages on WhatsApp and other social media
 
 *2024-10-29 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103011/public-alerted-over-surge-in-fake-messages-on-whatsapp-and-other-social-media-) · `en`
@@ -71,6 +171,40 @@ By interacting with these fraudulent messages or clicking on embedded links, ind
 [Data](articles/599a5f70.json)
 
 [Extended Data](ext_articles/599a5f70.ext.json)
+
+---
+
+### பிரஜைகளுக்கு நெருக்கமான, வினைத்திறன்மிக்க அரச சேவையை உருவாக்குவோம் - ஜனாதிபதி
+
+*2024-10-29 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197414) · `ta`
+
+இந்தியாவில் ஒரு கிவ்ஆர் கோட் மூலமாக வடை விற்பனை செய்யும்போது  எமது மக்கள் ஐயாயிரம் ரூபாவை வாங்கவும்,  பத்து கிலோ அரிசியை வாங்கவும், அஸ்வெசும பெற்றுக்கொள்ளவும், காணிக்கான உறுதியை தயாரித்துக்கொள்ளவும் வரிசைகளில் அலைக்கழிய நேரிடுகின்றது. குறுகிய காலத்திற்குள் இவையனைத்தையும் முற்றாகவே மாற்றியமைத்து பிரஜைகளுக்கு நெருக்கமான,  வினைத்திறன்மிக்க அரச சேவையை உருவாக்குவோம். நாட்டை சீராக்குவது எப்படி, யார் என்பதை காட்டுகிறோம் என ஜனாதிபதி அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+
+களுத்துறையில் இடம்பெற்ற கூட்டத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே ஜனாதிபதி அநுரகுமார திஸாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+
+ஜனாதிபதி தேர்தலில் எமக்கெதிராக முன்வைத்த பொய்க் குற்றச்சாட்டுகள் காரணமாக மக்கள் குழப்படைந்திருந்தார்கள். திசைகாட்டி வெற்றிபெற்று தற்போது ஒருமாதத்திற்கு  மேலாகிவிட்டது. அவையெல்லாமே பொய் என்பது உறுதியாகிவிட்டது.
+
+...
+
+[Data](articles/032f0d40.json)
+
+---
+
+### ஜெயம் ரவி நடிக்கும் 'பிரதர்' படத்தின் முன்னோட்டம் வெளியீடு
+
+*2024-10-29 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/197415) · `ta`
+
+ஜெயம் ரவி நடிப்பில் தயாராகி தீபாவளி திருநாளன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகும் 'பிரதர்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் எம். ராஜேஷ் இயக்கத்தில் உருவாகி இருக்கும் 'பிரதர்' எனும் திரைப்படத்தின் ஜெயம் ரவி, பிரியங்கா அருள் மோகன், பூமிகா சாவ்லா, விடிவி கணேஷ், நட்டி என்கிற நட்ராஜ் , அச்யுத் குமார் , சரண்யா பொன்வண்ணன்,  சீதா,  எம். எஸ். பாஸ்கர் ,சுரேஷ் சக்கரவர்த்தி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+விவேகானந்த் சந்தோஷம் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஹாரிஸ் ஜெயராஜ் இசையமைத்திருக்கிறார். அக்கா ,  தம்பி இடையேயான உறவை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்கிரீன் சீன் என்டர்டெய்ன்மென்ட் பிரைவேட் லிமிடெட் நிறுவனம் தயாரித்திருக்கிறது.‌
+
+அண்மையில் டுபாயில் படத்தினை விளம்பரப்படுத்தும் போது ரசிகர்கள் முன்னோட்டத்தை எப்போது வெளியிடுவீர்கள்? என கேட்டனர் இதனால் படக் குழுவினர் முன்னோட்டத்தை வெளியிட்டுள்ளனர். இதற்காக சென்னையில் படக் குழுவினர் பங்கு பற்றிய பிரத்யேக முன்னோட்ட வெளியீட்டு நிகழ்வும் நடைபெற்றது.
+
+...
+
+[Data](articles/d0f388dd.json)
 
 ---
 
@@ -123,6 +257,20 @@ As the deputy leader of the organization, was the deputy leader of the Hezbollah
 [Data](articles/2031e851.json)
 
 [Extended Data](ext_articles/2031e851.ext.json)
+
+---
+
+### 2020 ஆம் ஆண்டு முதல் இதுவரை 570 ரயில் தடம்புரள்வு சம்பவங்கள் பதிவு
+
+*2024-10-29 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197411) · `ta`
+
+2020 ஆம் ஆண்டு முதல் இதுவரை ரயில் மார்க்கத்தில் மற்றும் ரயில் பழுதுபார்க்கும் இடம் ஆகியவற்றில் மொத்தம் 570 ரயில் தடம்புரள்வு சம்பவங்கள் பதிவாகியுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, 2020 ஆம் ஆண்டு  98, 2021 ஆம் ஆண்டு 115 , 2022 ஆம் ஆண்டு  132 , 2023 ஆம் ஆண்டு 139, 2024 ஆம் ஆண்டு 86 சம்பவங்களும் பதிவாகியுள்ளன.
+
+◼️
+
+[Data](articles/654d1321.json)
 
 ---
 
@@ -685,6 +833,22 @@ Subsequently, the public has been granted permission to participate in court pro
 [Data](articles/bcb0018b.json)
 
 [Extended Data](ext_articles/bcb0018b.ext.json)
+
+---
+
+### மர்ம நபரின் தகவலால்  நீதிமன்றுக்கு பாதுகாப்பு
+
+*2024-10-29 13:32:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/மர்ம-நபரின்-தகவலால்-நீதிமன்றுக்கு-பாதுகாப்பு/71-346262) · `ta`
+
+யாழ்ப்பாணம் - சாவகச்சேரி நீதிவான் நீதிமன்ற வளாகத்தில் செவ்வாய்க்கிழமை (29) காலை முதல் பொலிஸ், மற்றும் விசேட அதிரடிப் படையினர் குவிக்கப்பட்டு பாதுகாப்பு அதிகரிக்கப்பட்டுள்ளது.
+
+சாவகச்சேரி நீதிவான் நீதிமன்றத்திற்கு தாக்குதல் நடத்தப்பட போவதாக பொலிஸாரின் தொலைபேசிக்கு மர்ம நபர் வழங்கிய தகவலுக்கு அமைய குறித்த பாதுகாப்பு வழங்கப்பட்டுள்ளதாக பொலிஸ் தகவல்கள் தெரிவிக்கின்றன.
+
+இதனையடுத்து கடும் சோதனைகளுக்கு பின்னர் நீதிமன்ற நடவடிக்கைகளில் பங்கேற்க பொதுமக்களுக்கு அனுமதி கிடைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/fd2d4383.json)
 
 ---
 
@@ -2137,229 +2301,5 @@ As a result, the train operating from Galle to Colombo along the coastal line wi
 [Data](articles/ed36de47.json)
 
 [Extended Data](ext_articles/ed36de47.ext.json)
-
----
-
-### Sri Lanka battles African Swine Fever outbreak
-
-*2024-10-29 08:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-battles-african-swine-fever-outbreak-185412/) · `en`
-
-ECONOMYNEXT – Sri Lanka is experiencing an outbreak of African Swine Fever especially in the Western Province and attempts are being made to stop the spread to other areas, officials have said.
-
-Sri Lanka’s Western and Wayamba Provinces have to highest concentration of pig farms, K K Sarath, Western Provincial Director of the Department of Animal Production and Health told Sri Lanka’s Derana television.
-
-There are around 1,000 registered pig farms in the Western Province with 40,000 to 50,000 pigs, but the number is believed to be under-reported by farmers, he said.
-
-The numbers being brought forward for vaccination show that farmers had previously under-reported flocks, he said.
-
-It takes about 6 to 8 months to grown and slaughter a pig and in any case the figure is dynamic, he said.
-
-In the Western Province, 11,607 pigs have died based on official data and 21,000 are infected with the disease, Sarath said.
-
-...
-
-[Data](articles/c6eded98.json)
-
-[Extended Data](ext_articles/c6eded98.ext.json)
-
----
-
-### Opposition protests against the new government in Georgia
-
-*2024-10-29 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202676) · `si`
-
-Georgia opposition protests demand election cancellation, accuse fraud, call for international investigation, display anti-Russian signs.
-
-🟩
-
-Tens of thousands of people, including the opposition representatives of the opposition representatives, have been protesting in front of Parliament, demanding the cancellation of the corrupt parliamentary election.
-
-Foreign media reports that the protest was held last night.
-
-The opposition of the Georgian parliamentary election last weekend accused of defrauding and winning Russia.
-
-The protest has called for the protest that requests the Western countries to investigate the election.
-
-Foreign media reports that the anti-Russian boards have been displayed by the protesters.
-
-◼️
-
-[Data](articles/be24aa53.json)
-
-[Extended Data](ext_articles/be24aa53.ext.json)
-
----
-
-### Back to gas shortage
-
-*2024-10-29 08:21:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-எரிவாயு-தட்டுப்பாடு/175-346241) · `ta`
-
-Lafs gas shortage ends soon: WKH Vegapitiya says distribution issues resolved, imported stocks arrive, national distribution begins in 2-3 days.
-
-🟩
-
-Lafs gas shortage in the market will be eliminated in two more days, said LFS Gas Chairman WKH Vegapitiya.
-
-He said that due to the issue of distribution, there are currently a shortage of Lafs gas company.
-
-He noted that this was due to the delay in the arrival of gas stocks imported by Lafs due to the war situation in the Middle East and the flooding of Lafs's main terminal.
-
-However, the cargo ship, which was imported by Lafs, arrived at the port of Hambantota yesterday (28).
-
-According to WKH Vegapitiya, president of Lafs Gas Company, the gas stock will be distributed nationwide within the next two or three days.. Remble
-
-◼️
-
-[Data](articles/9a1ed11b.json)
-
-[Extended Data](ext_articles/9a1ed11b.ext.json)
-
----
-
-### A special gazette notification to prevent swine flu
-
-*2024-10-29 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202675) · `si`
-
-Sri Lanka issues gazette notification to prevent swine flu spread. Bans activities like removing infected pigs, artificial breeding, live animal events, and product distribution. Effective for 3 months starting 25th. Issued by Director General of Animal Manufacturing and Health Chandrika Hemali Abeyratne.
-
-🟩
-
-A special gazette notification has been issued by the African swine fever infected or risky areas for all Divisional Secretariats in Sri Lanka.
-
-The gazette notification has been issued by the Director General of Animal Manufacturing and Health Chandrika Hemali Abeyratne.
-
-Accordingly, the following activities are banned to prevent bamboo breeding and characteristic of respiratory and characteristics from the Gazette notification for three months from the 25th.
-
-Remove, remove or eviction from all risky pigs, pigs, pigs, and such products or pathogens infection or pathogens.
-
-Using artificial breeding methods for survivors of disease.
-
-Conducting the live and view and competitions using risks animals.
-
-Preparation of products, selling, storage or distribution or distribution of pigs, pigs and those products and pathogens.
-
-Dumutment of a carcass or any other vulnerable material or any other vulnerable material or any other vulnerable material, which has caused the damages caused by the disease.
-
-...
-
-[Data](articles/bba1cf16.json)
-
-[Extended Data](ext_articles/bba1cf16.ext.json)
-
----
-
-### A NOTICE of the People regarding the use of free WiFi provided in public places
-
-*2024-10-29 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202674) · `si`
-
-Sri Lanka Computer Emergency Response Team warns about risks of using free WiFi in public places. Personal information theft common due to unsecured connections. Users advised to exercise caution when accessing sensitive data online through public networks.
-
-🟩
-
-The Sri Lanka Computer Emergency Response Team says the people should be more concerned in using free wifi in public places.
-
-The main information security officer, Norroche Anananda said that the forum of using WiFi has received a number of complaints regarding the stealing of personal information in such places.
-
-Therefore, we need to be more careful in online operation using free WiFi at public places.
-
-"Other people with free WiFi Services can be provided with pseudo-wifi services and submerged passwords and all other information to access the service.. In particular, the WiFi relations in public places should not be able to access and access their personal accounts, access to their personal accounts and accountability. "
-
-◼️
-
-[Data](articles/7cad6193.json)
-
-[Extended Data](ext_articles/7cad6193.ext.json)
-
----
-
-### Railway delay on the coastal route
-
-*2024-10-29 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202673) · `si`
-
-Coastal railway delayed due to technical issue in Pirana. Train launch halted.
-
-🟩
-
-The Railway Department announces a delay in the coastal route.
-
-The department states that a train had been launched due to a technical fault in Pirana.
-
-◼️
-
-[Data](articles/8fe2f73e.json)
-
-[Extended Data](ext_articles/8fe2f73e.ext.json)
-
----
-
-### Postal voting in general election from tomorrow
-
-*2024-10-29 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202672) · `si`
-
-Postal voting begins tomorrow for parliamentary election. Voters can cast ballots at District Secretariats. Additional voting opportunity on Nov 4. Election Commission warns against marking votes at district offices. PAFFREL expects deployment to monitor postal voting process.
-
-🟩
-
-Postal voting for the parliamentary election campaign will commence tomorrow (30).
-
-The Electorates said that the postal voting was given to the postal voting tomorrow at the District Secretariats and the Electorates.
-
-In addition to tomorrow, the postal vote has been given to mark the postal vote on November 4 in addition to tomorrow.
-
-In addition, the Election Council stated that there is a chance at the first day of November 1 and November 4th of November 4th and all other governmental ballots.
-
-Postal elections are not able to mark the postal voting at the district's election offices in the district of the district.
-
-Meanwhile, PAFFREL Executive Director Rohana Hettiarachchi said that the parliamentary election is expected to be deployed to inspect the postal voting classes.
-
-◼️
-
-[Data](articles/b9e374bb.json)
-
-[Extended Data](ext_articles/b9e374bb.ext.json)
-
----
-
-### Prof Kumar David – He Was Sharp As A Tack & Smart As A Whip
-
-*2024-10-29 07:31:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/prof-kumar-david-he-was-sharp-as-a-tack-smart-as-a-whip/) · `en`
-
-Kumar David was a household name among all electrical engineering students as well as of all practicing electrical engineers of our time. We had heard from our colleagues at Pera about his in-depth knowledge in electrical machines, brilliance, jovial nature and eloquence in English language, and these inculcated a feeling of overwhelming wonder, admiration and respect for him in our minds. Scholarly articles authored by him on electrical engineering, power sector reforms and totally unrelated topics such as communism and politics made our admiration of this great man grow even further. We were yearning to meet this multi-talented scholar someday.
-
-...
-
-[Data](articles/146a5b5e.json)
-
-[Extended Data](ext_articles/146a5b5e.ext.json)
-
----
-
-### Former Chief Member of Parliament killed
-
-*2024-10-29 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202671) · `si`
-
-Former MP killed in Kegalle: Body found at home, suspect arrested, investigation ongoing.
-
-🟩
-
-Former Krishantha Pullifmy in the Sri Lanka General Assembly, Kegalle Pradeshiya Sabha has been found in his home bed.
-
-It was reported yesterday (28) in the Koscasinna area in Kegalle yesterday.
-
-The cups of the house was opened in the house of the house of his wife's mouth.
-
-The woman was admitted to the Kegalle Hospital while the suspects were injured in the attack.
-
-The stolen car was found in the Pindeniya Police Division.
-
-The body has been placed at the Kegalle hospital morgue and has not yet been revealed in connection with the suspects or suspects.
-
-Kegalle Police are conducting further investigations.
-
-◼️
-
-[Data](articles/dd2177c8.json)
-
-[Extended Data](ext_articles/dd2177c8.ext.json)
 
 ---

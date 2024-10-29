@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 14:13:31**
+As of **2024-10-29 14:26:01**
 
 ## Newspaper Stats
 
-*Scraped **52,004** Articles*
+*Scraped **52,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,835
-adaderanalk | 6,163
-tamilmirrorlk | 7,203
+adaderanalk | 6,164
+tamilmirrorlk | 7,204
 virakesarilk | 8,389
-adaderanasinhalalk | 9,048
+adaderanasinhalalk | 9,050
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,004 (100.0%) of 52,004 articles have been extended.
+52,006 (100.0%) of 52,008 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### ගම්මන්පිලගේ දෙවැනි පාස්කු හෙළිදරව්වත් රජය ප්‍රතික්ෂේප කරයි
+
+*2024-10-29 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202691) · `si`
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතාගේ දෙවැනි පාස්කු හෙළිදරව්ව තුළින් රවී සෙනෙවිරත්න සහ ශානි අබේසේකර යන මහත්වරුන්ව ඉලක්ක කර ඇති බව පැහැදිලි වන බව කැබිනට් මාධ්‍ය ප්‍රකාශක, අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+
+අද (29) පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේ දී මාධ්‍යවේදියෙකු විසින් ඉදිරිපත් කළ ප්‍රශ්නයකට පිළිතුරු දෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍ය විජිත හේරත් මහතා පවසා සිටියේ, චැනල් 4 නාලිකාවේ සිදුවීම සම්බන්ධයෙන් වූ වාර්තාව වැරදි බවට හිටපු ආරක්ෂක ලේකම්වරයා විසින් නිවේදනයක් නිකුත් කරමින් පැවසීම පවා දේශපාලනික කාරණයක් බවය.
+
+පරීක්ෂණයක් සිදුනොකර එවැන්නක් පැවසුවේ යම් පිරිසක් බේරාගැනීමේ අරමුණින් බව ද පැවසු අමාත්‍යවරයා, කිසිවිටෙකත් එවැනි ක්‍රියාවක් වත්මන් ආණ්ඩුව සිදුනොකරන බව ද පැවසීය.
+
+ප්‍රශ්නය - ඔබතුමා ගම්මන්පිල මහත්තයා විසින් යොමුකළ පළමු වාර්තාව පිළිගන්නේ නෑ කිව්වා. දෙවැනි වාර්තාව පිළිගන්නවා ද ?
+
+...
+
+[Data](articles/c3afeb6e.json)
+
+---
+
+### Dilith says the differences are expected
+
+*2024-10-29 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202690) · `si`
+
+Dilith Jayaweera criticizes President Anura Kumara's policy, calling for avoiding unhealthy issues. He warns against breaking laws and setting time bombs. Meanwhile, Jayaweera chairs party meetings on organizer appointments.
+
+🟩
+
+Dilith Entrepreneur Entrepreneurship Dilith Jayaweera says that the President should avoid implementing the unhealthy issues mentioned in his policy statement.
+
+"Now Anura Kumara President has presented a 260-page book that gave a lot of pages promised. Now you have the book. The book contains page 230. There is also the book how to bring the war heroes to the Denyy. Then we say that Mr. Minister Mr. Kumara's friend said that he would put it to the friend, you don't have to do that you should be afraid of the opposition Anura.. Anura Kumara knows that he cannot hold the book more than 30 days. He was thrown into Poyakin for the day. The constitutional voting falls into the Poya. One day before the supreme law of the country was broken and brought about the supreme law in Sri Lanka. Time bomb is set to 30 days. Then there is a defeat in the world if they are elected. That's why you have suddenly secure. "
+
+...
+
+[Data](articles/46bf0436.json)
+
+[Extended Data](ext_articles/46bf0436.ext.json)
+
+---
+
+### Absolutely on the activities of tourists
+
+*2024-10-29 14:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-செயற்பாடுகள்-குறித்து-அவதானம்/175-346264) · `ta`
+
+Sri Lankan police investigate Israeli tourists engaging in unauthorized business, religious, and potentially illegal activities while on tourist visas. Authorities urge public to report violations.
+
+🟩
+
+Police are investigating complaints of tourists, including Israeli citizens, who are allegedly involved in entertainment such as business and religious practices.
+
+Cabinet spokesman Vijitha Herath said at a media briefing today (29) that some tourists may be involved in trade, religious activities or illegal activities.
+
+Herath made it clear that all foreign citizens, including the Israeli, have been registered on a tourist visa.
+
+However, he said that the authorities have urged the public to make it known if tourists are engaged in any activities beyond the tourist visa regulations.
+
+“If they are found to be involved in business, business or other activities that are considered inappropriate for those who are in Sri Lanka, the authorities have been advised to inform the authorities in the area,” he added.
+
+◼️
+
+[Data](articles/267974ae.json)
+
+[Extended Data](ext_articles/267974ae.ext.json)
+
+---
+
+### 2 suspects granted bail in Johnston’s illegal luxury car case
+
+*2024-10-29 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103008/2-suspects-granted-bail-in-johnstons-illegal-luxury-car-case-) · `en`
+
+The two suspects who surrendered to the Criminal Investigations Department (CID) in connection with the case against former Minister Johnston Fernando over the illegally acquired BMW car, have been granted bail.
+
+The duo have been ordered to be released on two surety bail of Rs. 500,000 each, after being produced before Colombo Fort Magistrate’s Court.
+
+Former Minister Johnston Fernando, was arrested by the CID over an incident of an unregistered luxury vehicle allegedly belonging to him found suspiciously parked at a star-class hotel premises, and he was remanded until October 30 by Colombo Fort Magistrate.
+
+◼️
+
+[Data](articles/cce0b076.json)
+
+---
 
 ### Investigation into allegations against Rohitha
 
@@ -2195,81 +2277,5 @@ The collaboration between H One and CBL Group aims to fortify CBL’s cybersecur
 [Data](articles/eee99643.json)
 
 [Extended Data](ext_articles/eee99643.ext.json)
-
----
-
-### Towards Stability, Equity & Prosperity: Part II
-
-*2024-10-28 23:11:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-stability-equity-prosperity-part-ii/) · `en`
-
-The interim NPP government wants to make negotiated changes to the IMF conditionalities already agreed upon by the previous regime. If that is not feasible, the NPP will have to move away from the thinking that any deviation from the IMF prescribed debt restructuring would further damage the country’s economy. Otherwise, the NPP will have to resort to other alternatives.
-
-Furthermore, allegations are being made that the interim government has overborrowed during its first few weeks in office. The Central Bank has issued treasury bills of Rs. 465.1 billion from last September 27. However, the government has clarified that this is not a new or an additional loan.
-
-...
-
-[Data](articles/e8a328dd.json)
-
-[Extended Data](ext_articles/e8a328dd.ext.json)
-
----
-
-### Bourse reacts positively to news from debt restructuring front
-
-*2024-10-28 23:08:00* · [`islandlk`](http://island.lk/bourse-reacts-positively-to-news-from-debt-restructuring-front/) · `en`
-
-The stock market got off to a slow start yesterday but later indicated a bullish sentiment due to a media report that the debt restructuring process is likely to be completed in November and that the fourth tranche of US $ 330 million from the IMF is likely to be obtained soon.
-
-Further, IMF also hailed the government on their economic policies and investors too were a bit happy with the way the government was currently handling the economy, market analysts said.Amid those developments, both indices moved upwards and the turnover touched more than Rs 4 billion with satisfactory investor participation.
-
-The All Share Price Index went up by 92.48 points, while the S and P SL20 rose up by 30.87 points. Turnover stood at Rs 4.42 billion with eleven crossings.
-
-...
-
-[Data](articles/c446aa6a.json)
-
-[Extended Data](ext_articles/c446aa6a.ext.json)
-
----
-
-### Around 40 killed in attack on Chad military base, presidency says
-
-*2024-10-28 22:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102992/around-40-killed-in-attack-on-chad-military-base-presidency-says) · `en`
-
-Around 40 soldiers were killed in an attack on a military base in Chad’s Lake region on Sunday, the central African country’s presidency said on Monday.
-
-President Mahamat Idriss Deby launched an operation to track down the assailants, the statement said. It did not name the group responsible for the attack.
-
-The Lake Chad region has been repeatedly attacked by insurgencies including by Islamic State in West Africa and Boko Haram, which erupted in northeast Nigeria in 2009 and spread to the west of Chad.
-
-Chad is an important ally for French and U.S. forces aiming to fight jihadists in the Sahel, which has become the epicentre of global terrorism under attack by factions loyal to al Qaeda and Islamic State.
-
-Mali, Niger and Burkina Faso have ended military operations with the U.S. and France in recent years and turned to Russia for support instead.
-
-◼️
-
-[Data](articles/84920a80.json)
-
-[Extended Data](ext_articles/84920a80.ext.json)
-
----
-
-### The government should reveal the fourth premium of the IMF
-
-*2024-10-28 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202665) · `si`
-
-Former President Ranil Wickremesinghe urges President Anura Kumara Dissanayake to disclose the final IMF agreement, criticizing unnecessary additional negotiations after reaching key agreements in Colombo.
-
-🟩
-
-Former President Ranil Wickremesinghe says President Anura Kumara Dissanayake should reveal the country's final agreement on the fourth premium of the International Monetary Fund.
-
-"I made all these things, made all these things, and the last was found. It was to do that was agreed in Colombo and signed a budget. Now you say that you need more talks more and more. "
-
-◼️
-
-[Data](articles/ef23187f.json)
-
-[Extended Data](ext_articles/ef23187f.ext.json)
 
 ---

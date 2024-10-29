@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 01:24:07**
+As of **2024-10-30 01:39:55**
 
 ## Newspaper Stats
 
-*Scraped **52,112** Articles*
+*Scraped **52,113** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 413
-colombotelegraphcom | 529
+colombotelegraphcom | 530
 bbccomsinhala | 530
 islandlk | 3,097
 economynextcom | 3,170
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,112 (100.0%) of 52,112 articles have been extended.
+52,113 (100.0%) of 52,113 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -743,6 +743,20 @@ It has been revealed that she had stayed near the railway line and telephoned.
 [Data](articles/7286b340.json)
 
 [Extended Data](ext_articles/7286b340.ext.json)
+
+---
+
+### Sri Lanka’s Neoliberal Evolution: Challenges Ahead For The NPP
+
+*2024-10-29 19:35:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-neoliberal-evolution-challenges-ahead-for-the-npp/) · `en`
+
+Development aid from Western nations to the Global South often comes with conditions that compel recipient countries to adopt neoliberal policies, such as deregulation, privatization, and cuts to social programs. Sri Lanka has been seen as a model of neoliberalism in South Asia, being the first country in the region to embrace open market policies in the late 1970s. After rising to power in 1977, JR Jayewardene established an authoritarian regime and became Sri Lanka’s first Executive President in 1978 prioritizing economic liberalization, supported by Western financial institutions.
+
+...
+
+[Data](articles/aa5e1c1b.json)
+
+[Extended Data](ext_articles/aa5e1c1b.ext.json)
 
 ---
 
@@ -2481,29 +2495,5 @@ Subsequently, the public has been granted permission to participate in court pro
 [Data](articles/fd2d4383.json)
 
 [Extended Data](ext_articles/fd2d4383.ext.json)
-
----
-
-### Beware of fake messages coming through social media networks
-
-*2024-10-29 13:24:20* · [`adalk`](https://www.ada.lk/breaking_news/සමාජ-මාධ්‍ය--ජාල-හරහා-එන-ව්‍යාජ-පණිවුඩ-වලින්-ප්‍රවේසම්-වන්න/11-412739) · `si`
-
-Be cautious of fake messages on social media platforms like WhatsApp. Cyber frauds target personal data and financial information. Verify official sources before responding to suspicious links or requests. Ignore unsolicited offers or warnings about your accounts. Protect yourself from identity theft and scams by being vigilant online.
-
-🟩
-
-Sri Lanka Sir Sir has observed that the cyber frauds that have been used by the GCE (POST), who is using social media outlets, including whatsapps, including whatsApps (POST) Central Independence personal data financial information.
-
-Accordingly, the job preserves, gifts, winning, and whamsapp messages will be carefully sent by the fake message and whatsapp messages of various banks, commercial organizations, international organizations, international agencies.The Sri Lanka Cert (Sri Lanka Cert) Institute requested the public.
-
-Subsided (FAKE WEB) Web Site, Social Media Places, SMS, Whatsapp, send these cyber traffickers to join you through SMS, Whatsapp.Visitors to Links they are connected to the computers, cell phones that connected to the data of individuals, and make money frauds.
-
-EspressApp uses OTP Password information sended by WhatsApp messages, especially by the Ilap Password information sended by. It will work with different assistance requests using your WHATSApp account.
-
-...
-
-[Data](articles/92660f1e.json)
-
-[Extended Data](ext_articles/92660f1e.ext.json)
 
 ---

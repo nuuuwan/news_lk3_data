@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 21:59:39**
+As of **2024-10-29 22:39:58**
 
 ## Newspaper Stats
 
-*Scraped **52,089** Articles*
+*Scraped **52,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,139 @@ islandlk | 3,095
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,846
+adalk | 4,847
 adaderanalk | 6,173
 tamilmirrorlk | 7,222
-virakesarilk | 8,414
-adaderanasinhalalk | 9,065
+virakesarilk | 8,417
+adaderanasinhalalk | 9,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,087 (100.0%) of 52,089 articles have been extended.
+52,095 (100.0%) of 52,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
 
-### විදුලි ගාස්තුව ගැන ජනපතිගෙන් ඉඟියක්
+### E-8 visa agreement is not legal - the Bureau of Foreign Service
+
+*2024-10-29 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202710) · `si`
+
+E-8 visa agreement illegal SLBFE Sri Lanka Bureau Foreign Employment South Korea workers restrictions
+
+🟩
+
+The Sri Lanka Bureau of Foreign Employment (SLBFE) is a covenant that former Minister is not legally signed by the E-8.
+
+Accordingly, the private agency in Sri Lanka has not been permitted to send workers to Korea under this visas under this visa system or add money.
+
+"Campaign has created a dialogue about the e-8 visa method. For example, this visa is only for a period of 5 months. Since this situation can cause a lot of problems, no government has agreed to. Similarly, no private agency in Sri Lanka has not been allowed to send or collect money under this visas under this visas. "
+
+"Former Minister in Sri Lanka is making a covenant with the Governor of the Governor (Wando). This was not approved by the Cabinet at the time, or any other approval. Without obligations, the Foreign Employment Bureau cannot take any responsibility after personal intervention. Really happened to a non-legit agreement. The South Korean government has warned us and discussed this method not to take workers. "
+
+...
+
+[Data](articles/71f42979.json)
+
+[Extended Data](ext_articles/71f42979.ext.json)
+
+---
+
+### Electricity Board clarifies false accusations illegally allowing payments from the Electricity Board's Pension Fund
+
+*2024-10-29 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/197440) · `ta`
+
+Ceylon Electricity Board denies false claims about pension fund payments. Clarifies decision-making process and warns against misleading public statements.
+
+🟩
+
+The Ceylon Electricity Board (CEB) has said that the Ceylon Electricity Board (CEB) allegations that the Senior Audit Officer who has completed the service less than 20 years in the Ceylon Electricity Board has been completely false in the media that the decision of the Board of Directors has been approved by the Committee level.
+
+Such resolutions can be passed by groups representing officials and staff, but after the final approval is reviewed, the Board of Directors is made by the Board of Directors.
+
+We reiterate that the Ceylon Cold Board of the Ceylon Electricity Board (CEB) led by Dr. Tilak Siyambalapitiya has made any such decision and that public money will not be allowed to abuse.
+
+...
+
+[Data](articles/f3902210.json)
+
+[Extended Data](ext_articles/f3902210.ext.json)
+
+---
+
+### Notice of Lanka T10
+
+*2024-10-29 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202709) · `si`
+
+Sri Lanka Cricket announces player selection for Lanka T10 Super League. Tournament runs Dec 12-22 with 6 teams. Player registration open since start date.
+
+🟩
+
+Sri Lanka Cricket (SLC) has announced that the selection of players to draft athletes at Lanka T10 Super League.
+
+The tournament will be held from December 12 to 22 with the participation of six teams from December 12.
+
+The players have been able to sign up from the first day of the tournament.
+
+◼️
+
+[Data](articles/540d8bc9.json)
+
+[Extended Data](ext_articles/540d8bc9.ext.json)
+
+---
+
+### President's hint of electricity charges
 
 *2024-10-29 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202708) · `si`
 
-ඉදිරි වසර කිහිපය තුළ විදුලි ගාස්තු සැලකියයුතු ප්‍රමාණයකින් අඩුකිරීම රජයේ අපේක්ෂාව බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+Sri Lanka's President Anura Kumara Dissanayake hints at reducing electricity charges. He met with Sri Lanka Chamber of Commerce, discussing digitizing the country within three years and gaining support for salary allowances.
 
-ජනාධිපතිවරයා මෙම අදහස් පළකළේ, ශ්‍රී ලංකා වාණිජ මණ්ඩලයේ නියෝජිතයින් පිරිසක් සමග පැවති සාකච්ඡාවකදීය.
+🟩
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ශ්‍රී ලංකා වාණිජ මණ්ඩලයේ නියෝජිතයින් අතර සාකච්ඡාවක් අද (29) ජනාධිපති ලේකම් කාර්යාලයේදී පැවැත්වුණි.
+President Anura Kumara Dissanayake says that the government is expected to reduce electricity tariffs in a considerable amount of electricity tariffs.
 
-වත්මන් පාලනය යටතේ ඉදිරි වසර 3 තුළ සමස්ත රට ඩිජිටල්කරණයට කටයුතු කරන බව ජනාධිපතිවරයා එහිදී පෙන්වාදී තිබේ.
+The President made these comments at a meeting with a group of Sri Lanka Chamber of Commerce.
 
-මෙහිදී වාණිජ මණ්ඩලයේ සාමාජිකයින් එකඟතාව පළ කර ඇත්තේ කිසිදු දීමනාවක් හෝ වැටුපක් නොලබා ආර්ථිකය ගොඩනැගීම වෙනුවෙන් සහාය ලබාදෙන බවටය.
+A discussion was held at the Presidential Secretariat today (29) a discussion between President Anura Kumara Dissanayake and the Sri Lanka Chamber of Commerce.
+
+The President has shown that the entire country will be digitized within the next three years under the present administration.
+
+The members of the Chamber of Commerce have agreed to support the building of the building of any allowance or salary.
 
 ◼️
 
 [Data](articles/55c3d4ee.json)
+
+[Extended Data](ext_articles/55c3d4ee.ext.json)
+
+---
+
+### Bore. Increase in incidents of cows stolen in Wellaveli
+
+*2024-10-29 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197458) · `ta`
+
+Cows theft surge in Wellaveli, Batticaloa. Local resident's livestock butchered. Community demands police action against thieves.
+
+🟩
+
+Increasing incidents of cows being stolen in the Wellaveli police division in the Batticaloa district.
+
+The cow and a calf cub, which was maintained by Krishnapillai - Sukumaran in the Wellaveli, Tumbangani area, was cut for meat on Monday night (28).
+
+The stolen people have been cut into the barbed wire area and have been thrown into the area.
+
+The people of the area said that the police should take action against those who are involved in such anti -social activities.
+
+It has been demanded that the cows are being stolen in the Boradivuppattu area and the police should take action.
+
+◼️
+
+[Data](articles/7de5f892.json)
+
+[Extended Data](ext_articles/7de5f892.ext.json)
 
 ---
 
@@ -67,6 +167,8 @@ However, Somaratne further mentioned that they arrived at this decision since no
 ◼️
 
 [Data](articles/5c95704a.json)
+
+[Extended Data](ext_articles/5c95704a.ext.json)
 
 ---
 
@@ -107,6 +209,64 @@ Rukwood Tamil College, the 130 students, could not be conducted at the absence o
 [Data](articles/1d3711c5.json)
 
 [Extended Data](ext_articles/1d3711c5.ext.json)
+
+---
+
+### Hizbullah claims that he is going to win by claiming false accounts - Amir Ali
+
+*2024-10-29 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197457) · `ta`
+
+Hizbullah claims victory through fake accounts. United People's Alliance Batticaloa District candidate Amir Ali accuses Hizbullah of lying. Hizbullah's influence waning in Kattankudi. Party leader boasts international status.
+
+🟩
+
+Hizbullah took a serious effort to ask for elections in the United People's Alliance.
+
+United People's Alliance Batticaloa District Candidate MMS Amir Ali said that Hizbullah, who has been compared to the Muslim Congress, is now saying that he is going to win false accounts.
+
+The Sri Lanka Muslim Congress in the Batticaloa district cannot get more than twenty -two thousand votes.
+
+Hizbullah's realm has collapsed in Kattankudi. It is the choice for everyone in this district.
+
+Hizbullah runs the streets under the guise that a major candidate in Calcutta is in the field of voting and adding him to him.
+
+I don't need to say Hizbullah. His party leader has said that he is a world famous universe.
+
+When he is unable to go to parliament, does he see the possibility of going to Parliament from his party and he is looking to fool the people?No. Didn't he still lie from the flip?The question is with me.
+
+...
+
+[Data](articles/51ef23d4.json)
+
+[Extended Data](ext_articles/51ef23d4.ext.json)
+
+---
+
+### Salary proposed to increase salaries in formal
+
+*2024-10-29 20:50:38* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-වැඩි-කිරීමට-යෝජනා-කළේ-විධිමත්-අයුරින්/11-412748) · `si`
+
+Former President Ranil Wickremesinghe announces removal of salary anomalies for public servants. Cabinet approves salary increases after consultation. Former President vows to continue fighting for public servant rights.
+
+🟩
+
+Former President Ranil Wickremesinghe said that the salary anomalies were removed and the salaries of the officers were consulted with all the officers and obtain the Cabinet approval.
+
+The Cabinet decision to increase public servants and the Cabinet Memorandum and the appointment of the Cabinet Memorandum and the former President released the appointment to the media.
+
+Former President Ranil Wickremesinghe said that Duminda Hulangamuwa, the Economic Advisory Committee of the Udaya R.naviratne, who was appointed to remove the salary anomalies of the public service.
+
+The former President said that the government had the best to increase the salaries of public servants to increase the salary increase immediately.
+
+Prime Minister Harani Amarusoley said that Prime Minister Harani Amarumazuriya said that he would need to learn about the constitution to work on the Cabinet.
+
+Former President Ranil Wickremesinghe further stated that he will continue to fight for the rights of public servants.
+
+◼️
+
+[Data](articles/3ad082c9.json)
+
+[Extended Data](ext_articles/3ad082c9.ext.json)
 
 ---
 
@@ -2357,135 +2517,5 @@ The likelihood of the workers is very low again. Then they do the visa time, but
 [Data](articles/25fbf924.json)
 
 [Extended Data](ext_articles/25fbf924.ext.json)
-
----
-
-### African swine flu: Gazette publishing on preventive measures
-
-*2024-10-29 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197379) · `ta`
-
-African swine flu outbreak declared nationwide. Pigs infected in multiple regions. Symptoms include respiratory issues. Preventive measures announced.
-
-🟩
-
-The Department of Livestock Production and Health has issued a gazette notification to declare all the Divisional Secretariat Divisions across the country as African swine flu.
-
-This gazette will be in effect for the first 3 months of the 25th.
-
-Pigs have been diagnosed with African swine flu (AFS) in many parts of the country.
-
-African swine flu is the most infectious viral disease of home and wild boars, while reproductive and respiratory disease is a symptom of a frequent respiratory disease in young developing pigs.
-
-The African swine flu was first reported in the Western Province and is now found in the Uva, North and North Western provinces.
-
-◼️
-
-[Data](articles/0c1bc092.json)
-
-[Extended Data](ext_articles/0c1bc092.ext.json)
-
----
-
-### Minister Vijitha's statement on increasing the salaries of public servants
-
-*2024-10-29 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202685) · `si`
-
-Vijitha Herath denies salary increases for public servants. Claims no funds allocated, citing lack of cabinet approval. Government previously announced 10,000 rupee raise, but implementation delayed. Circular issued for Cost of Living Allowance adjustment from 2024 to 2025. Public servants await clarity on future salary changes.
-
-🟩
-
-Cabinet spokesman Vijitha Herath says that no reservation has been made to increase the salaries of the public service.
-
-Addressing a press conference to inform the Cabinet decisions today (29), he said that the government had not even observed.
-
-...
-
-[Data](articles/4413608a.json)
-
-[Extended Data](ext_articles/4413608a.ext.json)
-
----
-
-### One arrested with heroin
-
-*2024-10-29 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/197384) · `ta`
-
-Colombo police arrest heroin dealer in Fernando Mawatha raid. Suspect caught with 7g heroin. Incident occurred on Monday, August 28th.
-
-🟩
-
-SD, which belongs to the Colombo, Association Police Division. A suspect has been arrested on Monday (28) with heroin drugs in the Fernando Mawatha area
-
-The suspect was arrested during a raid carried out on confidential information received by the police.
-
-Seven grams of heroin was seized by the police from the arrested suspect.
-
-◼️
-
-[Data](articles/f0cc7f26.json)
-
-[Extended Data](ext_articles/f0cc7f26.ext.json)
-
----
-
-### Ranil's promise is false; the Prime Minister
-
-*2024-10-29 12:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-வாக்குறுதி-பொய்யானது-பிரதமர்/175-346260) · `ta`
-
-Harini Amarasuriya denies Ranil Wickremesinghe's claim about raising civil servant salaries, citing lack of implementation steps. She accuses him of making false promises to voters.
-
-🟩
-
-Prime Minister Harini Amarasuriya has said that despite the Cabinet decision to increase the salaries of former President Ranil Wickremesinghe, the procedures for implementing the resolution have not been followed.
-
-“Although Ranil Wickremesinghe claims to have decided to raise the salary of civil servants, it is evident that it was not recognized by the consent of the Treasury or Finance Ministry when reviewing the Cabinet decision.
-
-A decision was announced, but the necessary measures were not taken to implement it. So, what does it mean?This clearly points out the false promise made to mislead the civilians during the election, ”he said at a public meeting held on October 27.
-
-◼️
-
-[Data](articles/cc14ff81.json)
-
-[Extended Data](ext_articles/cc14ff81.ext.json)
-
----
-
-### Ceylon -Indian fishermen negotiations beginning
-
-*2024-10-29 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/197389) · `ta`
-
-Ceylon: Sri Lanka-India fisherman talks start. Government announces negotiations between Sri Lankan and Indian fishing communities began on Tuesday, led by Ministry of Fisheries officials visiting from India.
-
-🟩
-
-The government has announced that talks on Sri Lanka and Indian fishermen have commenced on Tuesday (29).
-
-Sri Lanka -Indian fishermen talks have begun with the delegation of the Ministry of Fisheries and Fisheries who have arrived in the country.
-
-◼️
-
-[Data](articles/01adaeb6.json)
-
-[Extended Data](ext_articles/01adaeb6.ext.json)
-
----
-
-### Kataragama becomes more beautiful
-
-*2024-10-29 12:12:47* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-තව-තවත්-ලස්සන-වෙයි/11-412736) · `si`
-
-Kataragama temple beautification project underway. Devotees' visit standards set. Sacred planting event planned. Basnayake Nilame of Ruhunu Karagama Maha Devalaya involved.
-
-🟩
-
-The banquake of the devotees visiting the sandards of the devotees visiting the Greater of the Devalaya on the worship of the Maha Devalaya.
-
-The program will be planted in the sacred place of the Kataragama Temple in the event, including the Basnayake Nilame of the Historic Ruhunu Karagama Maha Devalaya.
-
-◼️
-
-[Data](articles/7d48a07c.json)
-
-[Extended Data](ext_articles/7d48a07c.ext.json)
 
 ---

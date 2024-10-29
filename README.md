@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 20:12:37**
+As of **2024-10-29 20:24:11**
 
 ## Newspaper Stats
 
-*Scraped **52,071** Articles*
+*Scraped **52,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 3,095
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,843
+adalk | 4,844
 adaderanalk | 6,172
 tamilmirrorlk | 7,219
 virakesarilk | 8,408
-adaderanasinhalalk | 9,060
+adaderanasinhalalk | 9,062
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,071 (100.0%) of 52,071 articles have been extended.
+52,073 (100.0%) of 52,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### කෙම්පිටිය වලව්වේ ඝාතනය ගැන තවත් තොරතුරු
+
+*2024-10-29 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202705) · `si`
+
+කෑගල්ල, බුළුරුප්ප, කෙම්පිටිය වලව්වේ හිමිකරු වන ක්‍රිෂාන්ත පුලස්ති මාරපන නැමැත්තාව ඔහුගේ වලව්ව තුළ ඇති නිදි ඇඳමත ඝාතනය කර තිබියදී ඊයෙ (28)  පෙරවරුවේ සොයාගැනුණි.
+
+ඒවන විටත් ඔහුගේ දෙපා සහ දෙඅත් ගැටගසා, කට සෙලෝටේප්වලින් ඔතා තිබූ බව පැවසෙයි.
+
+ඔහුගේ සිරුර සොයාගනු ලැබුවේ, නිවසේ සේවය කරන පුද්ගලයාගේ පුත්‍රයා විසිනි.
+
+ඝාතනයට ලක්වූ පුද්ගලයාගේ බිරියගේ ද කට සෙලෝටේප්වලින් ඔතා ඇඳ අසල බිම සිටියදී එම පුද්ගලයා විසින් සොයාගෙන තිබේ.
+
+අනතුරුව පොලීසියට මේ බව දැනුම්දීමෙන් අනතුරුව පැමිණි විමර්ශන නිලධාරීන් අදාළ කාන්තාව රෝහල්ගත කර ඇත.
+
+අදාළ වලව්වේ කාමරවල තිබූ අල්මාරි සියල්ල විවෘත කර ඒවායේ තිබූ භාණ්ඩ ඇද දමා තිබූ අයුරු දැකගත හැකි විය.
+
+මෙම ඝාතනය සඳහා කොතරම් පිරිසක් පැමිණිය ද යන්න පිළිබඳව සහ නිවසේ තිබූ කුමක් පැහැරගෙන ගියේද යන්න පිළිබඳව මෙතෙක් අනාවරණ වී නොමැත.
+
+ඊට හේතුවී ඇත්තේ මෙම සිදුවීමත් සමග අසනීප තත්ත්වයේ සිටි අදාළ පුද්ගලයාගේ වයෝවෘද්ධ බිරිය සිහිමද තත්ත්වයට පත්වීම ය.
+
+නිවසේ තිබූ මෝටර් රථය ද පැහැරගෙන ගොස් ඇති අතර පසුව එය නිවසට කිලෝමීටර 4ක පමණ දුරින් දමාගොස් තිබියදී පොලීසිය ඊයේ පස්වරුවේ සොයාගෙන තිබේ.
+
+...
+
+[Data](articles/b2ecaa93.json)
+
+---
+
+### Youth killed in collision with train
+
+*2024-10-29 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202704) · `si`
+
+Young girl, 23, killed by train in Sri Lanka. Collision occurred near Valapura College, Kalutara. Victim was reportedly near railway line when struck.
+
+🟩
+
+A young girl was killed and collided with a train who was traveling from Aluthgama to Polgahawela today (29).
+
+The deceased have been identified as a 23 year old resident of the Galwamulla area.
+
+The girl was hit by the train on the rider in the area behind Valapura College, Kalutara.
+
+It has been revealed that she had stayed near the railway line and telephoned.
+
+◼️
+
+[Data](articles/7286b340.json)
+
+[Extended Data](ext_articles/7286b340.ext.json)
+
+---
 
 ### Rescue of gun gardens from the train
 
@@ -137,6 +189,32 @@ President Anura Kumara Dissanayake has also stated that the informal sector of t
 [Data](articles/8ec549a2.json)
 
 [Extended Data](ext_articles/8ec549a2.ext.json)
+
+---
+
+### Salary of Public Servant Salary From January
+
+*2024-10-29 18:40:58* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප-ජනවාරි-සිට-ඉහළට/11-412746) · `si`
+
+Public servant salary increase announcement: Cabinet approves raise, but Treasury denies funding. Minister vows future hikes from 2025.
+
+🟩
+
+The Cabinet of Ministers, Religious and Cultural Affairs, National Integration, Social Security, Social Security, Social Security, Social Security and Mass Media and Information, Hon.
+
+He was speaking at a press briefing in the Cabinet Decision today (29).
+
+The Minister pointed out that the amount of salaries is increased after reviewing the money.
+
+The Minister stated that the last government has made any kind of allocation to increase the salaries of the public service.
+
+We are very much to increase salaries and allowances to public servants and private sector employees. There is no hesitation in this regard.But according to the Treasury, those decisions will be made. The former President made a proposal to the Cabinet and has made a decision to increase the salaries. But the Treasury did not think that the Treasury had money to increase salaries. What he did was wrong.
+
+...
+
+[Data](articles/0b37b546.json)
+
+[Extended Data](ext_articles/0b37b546.ext.json)
 
 ---
 
@@ -2337,77 +2415,5 @@ He further stated the need for reassessment in the next parliament, hinting at p
 [Data](articles/1edea5b6.json)
 
 [Extended Data](ext_articles/1edea5b6.ext.json)
-
----
-
-### Crorened fish that drifted to the east coast
-
-*2024-10-29 11:24:05* · [`adalk`](https://www.ada.lk/breaking_news/නැඟෙනහිර-වෙරළට-ගසාගෙන-එන-කෝටි-ගණනක-මසුන්/11-412735) · `si`
-
-Fish drift ashore in Batticaloa. Many survive despite rough seas. Climate change may affect marine life. Some kept as pets, others eaten by ravens.
-
-🟩
-
-You can observe how many fish in the Batticaloa coast, especially in Batticaloa.
-
-It can be observed that a large amount of fish that comes to the shore with the waves are alive.
-
-Despite the waves, a large number of fish in the sea water can be seen.
-
-With the inclement weather, fishing fishermen are alive, due to prevailing weather weather.
-
-They further say that when the waters of the fish living in the sea area cannot bear it and the cause of climate change success
-
-There are many people carrying these fish to keep these fish in their home tanks, and the raven dogs eat them.
-
-◼️
-
-[Data](articles/e11cc56e.json)
-
-[Extended Data](ext_articles/e11cc56e.ext.json)
-
----
-
-### Extraordinary gazette issued for prevention of African Swine Fever spread
-
-*2024-10-29 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102999/extraordinary-gazette-issued-for-prevention-of-african-swine-fever-spread) · `en`
-
-A gazette extraordinary has been issued declaring every Divisional Secretariat Division of Sri Lanka to be an infected area or suspected area for African Swine Fever (AFS) and Porcine Reproductive and Respiratory Syndrome (PRRS).
-
-Issuing the gazette extraordinary, Director General of Animal Production and Health Chandrika Hemali Abeyrathna Kothalawala stated that this declaration was made by virtue and in the exercise of powers vested in her as African Swine Fever (AFS) and Porcine Reproductive and Respiratory Syndrome (PRRS) are Specified Diseases within the meaning of the Animal Diseases Act, No. 59 of 1992 and the Order made thereunder and published in the Gazette Extraordinary No. 1867/8 dated 17.06.2014 has been reported to have occurred and suspected to be occurred in every Divisional Secretariat Division of the Island.
-
-...
-
-[Data](articles/4be20282.json)
-
-[Extended Data](ext_articles/4be20282.ext.json)
-
----
-
-### Investigation Division Investigations on Bomb Warning on Indian Airline - Government
-
-*2024-10-29 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197375) · `ta`
-
-Bomb threat forces Indian flight to land at Katunayake airport. Investigation underway. Security measures implemented. Two other flights also affected.
-
-🟩
-
-Cabinet spokesman Vijitha Herath said the investigation into the bomb warning on the Indian flight has begun investigations.
-
-An Indian plane, which was threatened with bombshell, landed at the Katunayake airport in the midst of severe security measures yesterday (28).
-
-The plane was scheduled to land at 04.05 pm yesterday, but it was landed in Katunayake for 8 minutes due to the bomb threat.. There were 108 passengers and 8 employees on the plane during the incident.
-
-The manager at the Katunayake airport has been sent to the Indian Airlines headquarters in New Delhi, India, where there are bombs on the flight.
-
-Following this, the aircraft has taken steps to land the aircraft and rescue officers have been summoned to the Katunayakkavi station runway and carried out tests.
-
-In the meantime, two flights from Katunayake Airport from India have already been threatened to have been threatened at the Katunaka airport.
-
-◼️
-
-[Data](articles/7cd0664f.json)
-
-[Extended Data](ext_articles/7cd0664f.ext.json)
 
 ---

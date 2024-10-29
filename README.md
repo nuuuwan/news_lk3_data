@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 14:39:59**
+As of **2024-10-29 14:58:58**
 
 ## Newspaper Stats
 
-*Scraped **52,008** Articles*
+*Scraped **52,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,835
 adaderanalk | 6,164
-tamilmirrorlk | 7,204
+tamilmirrorlk | 7,205
 virakesarilk | 8,389
 adaderanasinhalalk | 9,050
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,050
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,008 (100.0%) of 52,008 articles have been extended.
+52,009 (100.0%) of 52,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### New procedure for vehicle imports
+
+*2024-10-29 14:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதிக்கு-புதிய-நடைமுறை/175-346265) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"New import rules for vehicles announced. Minister Vijitha Herath briefed media on Cabinet decisions. Central Bank agrees. Future formal procedure planned. Action needed to keep money in country."
+
+🟩
+
+Speaker Minister Vijitha Herath said at a media briefing to announce the Cabinet decisions held today.
+
+He said that the Central Bank also agreed to this and that a formal procedure would be prepared in the future and would be notified to the public.
+
+He also pointed out that our money should be implemented with proper action to prevent our money from going abroad simultaneously.
+
+◼️
+
+[Data](articles/a560a39e.json)
+
+[Extended Data](ext_articles/a560a39e.ext.json)
+
+---
 
 ### Government rejects the second Passover revelations of Gammanpila
 
@@ -2269,21 +2295,5 @@ However, the union has announced that the union struggle will begin within 72 ho
 [Data](articles/31817f8b.json)
 
 [Extended Data](ext_articles/31817f8b.ext.json)
-
----
-
-### V Holistic managed security solution by H One for strengthened cybersecurity at CBL
-
-*2024-10-28 23:12:00* · [`islandlk`](http://island.lk/v-holistic-managed-security-solution-by-h-one-for-strengthened-cybersecurity-at-cbl/) · `en`
-
-In a significant initiative to help businesses focus on their core operations while managing cybersecurity, H One has successfully implemented a comprehensive managed security solution for the Ceylon Biscuits Limited (CBL) Group. This robust service leverages Microsoft Sentinel, integrated with Microsoft 365 Defender and other Microsoft solutions, to provide unparalleled threat detection and incident response capabilities.
-
-The collaboration between H One and CBL Group aims to fortify CBL’s cybersecurity defences. This includes comprehensive reviews of the entire IT infrastructure—datacenters, cloud environments, and physical security controls. Additionally, the implementation of asset valuation and patch management processes ensures timely updates and threat mitigation.
-
-...
-
-[Data](articles/eee99643.json)
-
-[Extended Data](ext_articles/eee99643.ext.json)
 
 ---

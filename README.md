@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 09:25:20**
+As of **2024-10-29 09:40:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,931 (100.0%) of 51,938 articles have been extended.
+51,935 (100.0%) of 51,938 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -812,6 +812,8 @@ The All Share Price Index went up by 92.48 points, while the S and P SL20 rose u
 
 [Data](articles/c446aa6a.json)
 
+[Extended Data](ext_articles/c446aa6a.ext.json)
+
 ---
 
 ### Around 40 killed in attack on Chad military base, presidency says
@@ -1190,19 +1192,27 @@ During sentencing, the accused’s legal counsel pleaded for leniency, emphasizi
 
 ---
 
-### රාජ්‍ය බුද්ධි තොරතුරු අපරාධකරුවන්ට හා ජාවාරම්කරුවන්ට දුන් කොස්තාපල් අල්ලයි
+### Constable to commit state intelligence to criminals and rackets
 
 *2024-10-28 18:51:17* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-බුද්ධි-තොරතුරු-අපරාධකරුවන්ට-හා-ජාවාරම්කරුවන්ට-දුන්-කොස්තාපල්-අල්ලයි/11-412726) · `si`
 
-රාජ්‍ය බුද්ධි සේවයට අනුයුක්තව සිට රාජ්‍ය බුද්ධි තොරතුරු, සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් සහ මත්කුඩු ජාවාරම්කරුවන් අතට පත් කළ විශේෂ කාර්ය බලකායේ සේවය කරන කොස්තාපල්වරයකු අත්අඩංගුවට ගත් බව එම කාර්ය බලකාය පවසයි.
+Constable accused of collaborating with criminals and drug dealers. Found with multiple phones during arrest. Suspected of being involved with organized crime groups. Transferred to Kilinochchi Special Task Force camp. Investigation ongoing.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ රාජ්‍ය බුද්ධි සේවයට අනුයුක්තව කිලිනොච්චි විශේෂ කාර්ය බලකා කඳවුරේ රාජකාරි කරමින් සිටි කොස්තාපල්වරයෙකි. මෙම සැකකරු රාජ්‍ය බුද්ධි තොරතුරු අවසරයකින් තොරව බාහිර පාර්ශ්ව වෙත ලබා දෙන බවට ලද බුද්ධි තොරතුරකට අනුව  විමර්ශන පවත්වා කිලිනොච්චි විශේෂ කාර්ය බළකා කඳවුරේ ස්ථානාධිපතිවරයා ඇතුළු කණ්ඩායමක් විසින් පෙරේදා (27දා)  ඔහු අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-අත්අඩංගුවට ගන්නා අවස්ථාවේ සැකකාර කොස්තාපල් සන්තකයේ තිබී විවිධ වර්ගයේ ජංගම දුරකථන හයක්, සිම් කාඩ් වත් හතක් ඇතුළු දේපොළ සොයා ගත් බව විශේෂ කාර්ය බලකාය පවසයි. සැකකරු සම්බන්ධයෙන් සිදු කළ විමර්ශනයේදී මොහු සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් සහ මහා පරිමාණ මත්කුඩු ජාවාරම්කරුවන් සමඟ  සමීප  සම්බන්ධතා පවත්වන පුද්ගලයකු බවට අනාවරණය වී ඇත.
+The Task Force said that a constable served in the Special Task Force serving in the hands of state intelligence, organized criminal criminal members and other Task Force attached to the Government Intelligence.
 
-...
+The arrested has been arrested by the State Intelligence Service, an constable in Kilinochchi Special Task Force Camp. Investigations have been taken into custody by the OIC of the Kilinochchi Special Task Force (27), the OIC of the Killinochchi, the OIC of the Kilinochchi.
+
+At the time of his arrest, the STF has found six different mobile phones, seven different mobile phones, seven different mobile phones, seven different mobile phones.It has been revealed that he was a close relationship with organized crime gang members and large-scale drug racketeers.
+
+Special Task Force suspect that he has been appointed to the external part of the external party.2024. He has been transferred to the Kilinochchi Special Task Force Camp from 09.28.
+
+◼️
 
 [Data](articles/dcc4796c.json)
+
+[Extended Data](ext_articles/dcc4796c.ext.json)
 
 ---
 

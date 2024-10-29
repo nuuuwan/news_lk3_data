@@ -1,36 +1,316 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 08:03:18**
+As of **2024-10-29 09:00:03**
 
 ## Newspaper Stats
 
-*Scraped **51,913** Articles*
+*Scraped **51,928** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 413
 colombotelegraphcom | 526
-bbccomsinhala | 527
+bbccomsinhala | 528
 islandlk | 3,085
 economynextcom | 3,158
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,826
-adaderanalk | 6,148
-tamilmirrorlk | 7,189
+adalk | 4,827
+adaderanalk | 6,150
+tamilmirrorlk | 7,191
 virakesarilk | 8,374
-adaderanasinhalalk | 9,026
+adaderanasinhalalk | 9,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,913 (100.0%) of 51,913 articles have been extended.
+51,924 (100.0%) of 51,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Showers expected in parts of the island
+
+*2024-10-29 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102994/showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
+
+Showers or thundershowers may occur at several places in the other areas of the island during the evening or night.
+
+Strong winds about 40 kmph can be expected at times over Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts, it added.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/1dd7cece.json)
+
+---
+
+### Train services on coastal line delayed
+
+*2024-10-29 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102993/train-services-on-coastal-line-delayed) · `en`
+
+The train services on the coastal line have been delayed due to a train breaking down at Payagala owing to a technical failure, the Department of Railways said.
+
+◼️
+
+[Data](articles/ed36de47.json)
+
+---
+
+### ජෝර්ජියාවේ නව ආණ්ඩුවට එරෙහිව විපක්ෂයෙන් විරෝධතා
+
+*2024-10-29 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202676) · `si`
+
+දූෂිත පාර්ලිමේන්තු මැතිවරණය අවලංගු කරන ලෙස බලකරමින් ජෝර්ජියාවේ විපක්ෂයේ නියෝජිතයින් ඇතුළු දස දහස් ගණනක් ජනතාව එරට පාර්ලිමේන්තුව ඉදිරිපිට විරෝධතාවයක නිරත වී තිබේ.
+
+ඊයේ (28) රාත්‍රී මෙම විරෝධතාවය පැවති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+පසුගිය සතිඅන්තයේ පැවති ජෝර්ජියානු පාර්ලිමේන්තු මැතිවරණය රුසියාවේ සහාය ඇතිව වංචා කර ජයග්‍රහණය කර ඇති බවට එරට විපක්ෂය චෝදනා කරයි.
+
+අදාළ මැතිවරණය සම්බන්ධයෙන් විමර්ශනය කිරීම සඳහා බටහිර රටවලින් ඉල්ලීමක් කරන බව විරෝධතාවයේ නිරත පිරිස් ඉල්ලා ඇත.
+
+රුසියානු විරෝධී පුවරු ද විරෝධතාකරුවන් විසින් එහිදී ප්‍රදර්ශනය කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/be24aa53.json)
+
+---
+
+### மீண்டும் எரிவாயு தட்டுப்பாடு
+
+*2024-10-29 08:21:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-எரிவாயு-தட்டுப்பாடு/175-346241) · `ta`
+
+சந்தையில் லாஃப்ஸ் எரிவாயு தட்டுப்பாடு இன்னும் இரண்டு நாட்களில் நீங்கும் என லாஃப்ஸ் எரிவாயு நிறுவனத்தின் தலைவர்  டபிள்யூ.கே.எச்.வேகபிட்டிய தெரிவித்துள்ளார்.
+
+விநியோகத்தில் ஏற்பட்டுள்ள பிரச்சினை காரணமாக லாஃப்ஸ் எரிவாயு நிறுவனத்தின் பல பகுதிகளிலும் தற்போது தட்டுப்பாடு ஏற்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+மத்திய கிழக்கு நாடுகளில் ஏற்பட்டுள்ள போர் நிலைமை காரணமாக லாஃப்ஸ் நிறுவனத்தினால் இறக்குமதி செய்யப்பட்ட எரிவாயு கையிருப்பு நாட்டுக்கு வருவதில் ஏற்பட்ட தாமதம் மற்றும்  லாஃப்ஸ் நிறுவனத்தின் பிரதான முனையம் வெள்ளத்தில் மூழ்கியமை இதற்கு காரணமாக அமைந்துள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+
+எவ்வாறாயினும், லாஃப்ஸ் நிறுவனத்தினால் இறக்குமதி செய்யப்பட்ட எரிவாயு கையிருப்புடன் வந்த சரக்குக் கப்பல் நேற்று (28) ஹம்பாந்தோட்டை துறைமுகத்தை வந்தடைந்துள்ளது.
+
+இதன்படி, எதிர்வரும் இரண்டு அல்லது மூன்று நாட்களுக்குள் நாடளாவிய ரீதியில் எரிவாயு கையிருப்பு விநியோகிக்கப்படும் என லாஃப்ஸ் எரிவாயு நிறுவனத்தின் தலைவர்  டபிள்யூ.கே.எச்.வேகபிட்டிய தெரிவித்தார். R
+
+◼️
+
+[Data](articles/9a1ed11b.json)
+
+---
+
+### A special gazette notification to prevent swine flu
+
+*2024-10-29 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202675) · `si`
+
+Sri Lanka issues gazette notification to prevent swine flu spread. Bans activities like removing infected pigs, artificial breeding, live animal events, and product distribution. Effective for 3 months starting 25th. Issued by Director General of Animal Manufacturing and Health Chandrika Hemali Abeyratne.
+
+🟩
+
+A special gazette notification has been issued by the African swine fever infected or risky areas for all Divisional Secretariats in Sri Lanka.
+
+The gazette notification has been issued by the Director General of Animal Manufacturing and Health Chandrika Hemali Abeyratne.
+
+Accordingly, the following activities are banned to prevent bamboo breeding and characteristic of respiratory and characteristics from the Gazette notification for three months from the 25th.
+
+Remove, remove or eviction from all risky pigs, pigs, pigs, and such products or pathogens infection or pathogens.
+
+Using artificial breeding methods for survivors of disease.
+
+Conducting the live and view and competitions using risks animals.
+
+Preparation of products, selling, storage or distribution or distribution of pigs, pigs and those products and pathogens.
+
+Dumutment of a carcass or any other vulnerable material or any other vulnerable material or any other vulnerable material, which has caused the damages caused by the disease.
+
+...
+
+[Data](articles/bba1cf16.json)
+
+[Extended Data](ext_articles/bba1cf16.ext.json)
+
+---
+
+### A NOTICE of the People regarding the use of free WiFi provided in public places
+
+*2024-10-29 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202674) · `si`
+
+Sri Lanka Computer Emergency Response Team warns about risks of using free WiFi in public places. Personal information theft common due to unsecured connections. Users advised to exercise caution when accessing sensitive data online through public networks.
+
+🟩
+
+The Sri Lanka Computer Emergency Response Team says the people should be more concerned in using free wifi in public places.
+
+The main information security officer, Norroche Anananda said that the forum of using WiFi has received a number of complaints regarding the stealing of personal information in such places.
+
+Therefore, we need to be more careful in online operation using free WiFi at public places.
+
+"Other people with free WiFi Services can be provided with pseudo-wifi services and submerged passwords and all other information to access the service.. In particular, the WiFi relations in public places should not be able to access and access their personal accounts, access to their personal accounts and accountability. "
+
+◼️
+
+[Data](articles/7cad6193.json)
+
+[Extended Data](ext_articles/7cad6193.ext.json)
+
+---
+
+### Railway delay on the coastal route
+
+*2024-10-29 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202673) · `si`
+
+Coastal railway delayed due to technical issue in Pirana. Train launch halted.
+
+🟩
+
+The Railway Department announces a delay in the coastal route.
+
+The department states that a train had been launched due to a technical fault in Pirana.
+
+◼️
+
+[Data](articles/8fe2f73e.json)
+
+[Extended Data](ext_articles/8fe2f73e.ext.json)
+
+---
+
+### Postal voting in general election from tomorrow
+
+*2024-10-29 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202672) · `si`
+
+Postal voting begins tomorrow for parliamentary election. Voters can cast ballots at District Secretariats. Additional voting opportunity on Nov 4. Election Commission warns against marking votes at district offices. PAFFREL expects deployment to monitor postal voting process.
+
+🟩
+
+Postal voting for the parliamentary election campaign will commence tomorrow (30).
+
+The Electorates said that the postal voting was given to the postal voting tomorrow at the District Secretariats and the Electorates.
+
+In addition to tomorrow, the postal vote has been given to mark the postal vote on November 4 in addition to tomorrow.
+
+In addition, the Election Council stated that there is a chance at the first day of November 1 and November 4th of November 4th and all other governmental ballots.
+
+Postal elections are not able to mark the postal voting at the district's election offices in the district of the district.
+
+Meanwhile, PAFFREL Executive Director Rohana Hettiarachchi said that the parliamentary election is expected to be deployed to inspect the postal voting classes.
+
+◼️
+
+[Data](articles/b9e374bb.json)
+
+[Extended Data](ext_articles/b9e374bb.ext.json)
+
+---
+
+### Former Chief Member of Parliament killed
+
+*2024-10-29 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202671) · `si`
+
+Former MP killed in Kegalle: Body found at home, suspect arrested, investigation ongoing.
+
+🟩
+
+Former Krishantha Pullifmy in the Sri Lanka General Assembly, Kegalle Pradeshiya Sabha has been found in his home bed.
+
+It was reported yesterday (28) in the Koscasinna area in Kegalle yesterday.
+
+The cups of the house was opened in the house of the house of his wife's mouth.
+
+The woman was admitted to the Kegalle Hospital while the suspects were injured in the attack.
+
+The stolen car was found in the Pindeniya Police Division.
+
+The body has been placed at the Kegalle hospital morgue and has not yet been revealed in connection with the suspects or suspects.
+
+Kegalle Police are conducting further investigations.
+
+◼️
+
+[Data](articles/dd2177c8.json)
+
+[Extended Data](ext_articles/dd2177c8.ext.json)
+
+---
+
+### Railway Masters to strike
+
+*2024-10-29 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202670) · `si`
+
+Sri Lanka Railways Union strikes over promotion issues. 72-hour trade union action begins. Disagreement over promotion process and grade system.
+
+🟩
+
+The Sri Lanka Railways Union has decided to enter the immediate trade union action, taking on a number of problems in connection with the Railway Station.
+
+The Trade Union Association Chairman Sumedhaththne said that the trade union action will be launched in a 72-hour period from yesterday (28).
+
+The decision has been taken due to the demanding authorities to address several issues, including the promotion of Station Masters.
+
+...
+
+[Data](articles/81d7749e.json)
+
+[Extended Data](ext_articles/81d7749e.ext.json)
+
+---
+
+### Notification of LAUGFS GAS
+
+*2024-10-29 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202669) · `si`
+
+LAUGFS GAS: Deficit to end soon. Distribution issues caused by war delays. New shipment arrived at Hambantota port. Gas distribution to resume nationwide within 2 days.
+
+🟩
+
+The LAUGFS gas deficit in the market will be removed within the next two days.
+
+LAUGFS Gas Chairman WKH Wagapitiya stated that there is a laugapala on the island's areas due to a problem with distribution.
+
+He said that due to the war in the Middle East, LAUGFS was delayed by LAUGFS, and the main terminal of LAUGFS was inundated.
+
+However, a ship carrying a stock of gas imported by LAUGFS, however, has reached the Hambantota port.
+
+According to the President of LAUGFS Gas, WWlapitiya, said that the gas consignment is being distributed across the country in the next two.
+
+◼️
+
+[Data](articles/c1286f6b.json)
+
+[Extended Data](ext_articles/c1286f6b.ext.json)
+
+---
+
+### Two lives in two lives
+
+*2024-10-29 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202668) · `si`
+
+Train accidents claim four lives: Two killed, two injured in separate incidents in Ahungalla and Peradeniya police divisions.
+
+🟩
+
+Two persons were killed and two persons collided with the train in Ahungalla and Peradeniya Police Divisions.
+
+The incident has been reported yesterday, the police spokesman's office said.
+
+A person was killed and killed by a train traveling from Maradana from Maradana, Ahungalla.
+
+The deceased has been identified as a 68 year old resident of Kosgoda, Piyagama.
+
+Meanwhile, a man was killed and a train traveling from Kandy to Polgahawela
+
+The victim was a 64 year old resident of the Aladeniya area in Gelioya.
+
+◼️
+
+[Data](articles/4bcb93e0.json)
+
+[Extended Data](ext_articles/4bcb93e0.ext.json)
+
+---
 
 ### Weather today
 
@@ -137,6 +417,32 @@ Samagi Jana Balawegaya (SJB) Colombo district candidate S.M. Marikkar yesterday 
 [Data](articles/2f233088.json)
 
 [Extended Data](ext_articles/2f233088.ext.json)
+
+---
+
+### Crime Motion against President
+
+*2024-10-29 02:38:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-எதிராக-குற்றப்-பிரேரணை/175-346238) · `ta`
+
+Former MP Udaya Kammanpila threatens to prepare impeachment motions against President Anura Kumara Dissanayake and other officials over Easter attacks investigation. He also plans to move no-confidence motions against several ministers.
+
+🟩
+
+Former Parliamentarian Udaya Kammanpila said he would carry out two tasks of preparing and put forward a crime motion against President Anura Kumara Dissanayake if the people elect their future parliament.
+
+Udaya Kammanpila said this at a special press conference held in Colombo on Monday morning to present the facts of the Easter Day terrorist attack committee.
+
+He noted that the president is still a chance to apologize to the nation and to remove Ravi Seneviratne from office.
+
+Udaya Kammanpila added that he has created a no -confidence motion against Ranil Wickremesinghe, Rishad Badurdeen and Rajitha Senaratne.
+
+Kammanpila said that one of the biggest accused in investigations into the Easter attack, Kammanpila said that he was awake from the coma because he was the President of the Anura.
+
+◼️
+
+[Data](articles/66912ed1.json)
+
+[Extended Data](ext_articles/66912ed1.ext.json)
 
 ---
 
@@ -249,6 +555,38 @@ Concerns were raised when the CEO of a supermarket chain was appointed as chairm
 [Data](articles/dbcfab79.json)
 
 [Extended Data](ext_articles/dbcfab79.ext.json)
+
+---
+
+### The General Election 2024: Who will be the next Opposition Leader?
+
+*2024-10-29 01:44:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg7grr8l15jo) · `si`
+
+Here's a 200-character summary:
+
+
+
+General Election 2024: Next Opposition Leader uncertain. Sajith Premadasa likely candidate. Political landscape shifting due to retirements and new alliances. Economic crisis challenges traditional parties' influence.
+
+🟩
+
+A. Amirthalingam and R. History is witnessed about MPs who were elected to represent the minority community, such as co-ordinate.
+
+After the presidential election, many senior members have created a political vacuum in the opposition with self-retirement and decisions to compete in the general election.
+
+Bials after the Rajapaksa family.Why doesn't the Rajapaksas come to the general election?
+
+Who will be the next Opposition Leader, who has fallen by the opposition political parties and the opposition?
+
+If the Opposition Leader will be able to restore the opposition in the Opposition as a party, can Sajith Premadasa to fulfill the role of the opposition as a party?
+
+In a presidential or general election, the ruling party often lost the advantage of the major opposition party representing the main opposition. There are many examples in many parts of the world.
+
+...
+
+[Data](articles/73acfac4.json)
+
+[Extended Data](ext_articles/73acfac4.ext.json)
 
 ---
 
@@ -556,22 +894,6 @@ Police have also announced that investigations are underway according to informa
 
 ---
 
-### 
-
-*2024-10-28 20:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84966) · `en`
-
-How and Why the  JVP led by Anura Dissanayake Formed  the National People’s Power 9NPP0.
-
-This is the fourth part of an extended article focusing on  Sri Lanka’s newly elected  President Anura Kumara Dissanayake. In the first part of this article , the early years of Anura’s eventful life were delved into in some detail. In the second part, AKD’s steady growth as a political leader within the Janatha Vimukthi Peramuna (JVP) was related to some extent. In the  third part, Anura’s rise to the leadership position of the JVP was recounted.  The story of  how the JVP transformed  itself  as leader of the NPP alliance  under AK Dissanayake  will be narrated in this fourth  part.
-
-...
-
-[Data](articles/39bb7267.json)
-
-[Extended Data](ext_articles/39bb7267.ext.json)
-
----
-
 ### Who is the retired officer who gave the Channel 4 Channel?
 
 *2024-10-28 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202660) · `si`
@@ -595,6 +917,34 @@ Then Its second step as a second step, the Retired Supreme Court Judge SIV. The 
 [Data](articles/a39a3faa.json)
 
 [Extended Data](ext_articles/a39a3faa.ext.json)
+
+---
+
+### The government has a large loss to the government due to the shortcomings of procurement
+
+*2024-10-28 20:07:32* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසම්පාදනයේ-අඩුපාඩු-නිසා-රජයට-විශාල-අලාභයක්/11-412732) · `si`
+
+Government faces significant losses due to flawed procurement processes. President calls for strengthening National Procurement Commission to improve transparency and reduce corruption opportunities. Discussion focuses on streamlining procurement procedures and expanding commission's authority.
+
+🟩
+
+President Anura Kumara Dissanayake said that a proper plan should be implemented to strengthen the National Procurement Commission.
+
+President Anura Kumara Dissanayake made these comments participating at a discussion held at the Presidential Secretariat today (28).
+
+President Anura Kumara Dissanayake discussed at length to the National Procedure Commission officials regarding the current procurement process and procurement process.
+
+The officials presented to the President regarding the procurement of procurement activities by existing law and guidelines.
+
+About 60% of all expenses, including government capital expenditure, should be subject to a proper procurement process, but the government has pointed out to the President that the government has been severely damaged due to the shortcomings in the procurement process.
+
+They further pointed out that there is much opportunity for corruption.
+
+...
+
+[Data](articles/371dee37.json)
+
+[Extended Data](ext_articles/371dee37.ext.json)
 
 ---
 
@@ -893,6 +1243,22 @@ The Terrorist Investigation Division (TID) officials of the Terrorism Investigat
 [Data](articles/16f511cc.json)
 
 [Extended Data](ext_articles/16f511cc.ext.json)
+
+---
+
+### How and Why the  JVP led by Anura Dissanayake Formed  the National People’s Power (NPP) in 2019.
+
+*2024-10-28 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84966) · `en`
+
+This is the fourth part of an extended article focusing on  Sri Lanka’s newly elected  President Anura Kumara Dissanayake. In the first part of this article , the early years of Anura’s eventful life were delved into in some detail. In the second part, AKD’s steady growth as a political leader within the Janatha Vimukthi Peramuna (JVP) was related to some extent. In the  third part, Anura’s rise to the leadership position of the JVP was recounted.  The story of  how the JVP transformed  itself  as leader of the NPP alliance  under AK Dissanayake  will be narrated in this fourth  part.
+
+February 2nd 2014 was a red letter day in the life of Anura Kumara Dissanayake. It was on this day that the Janatha Vimukthi Peramuna’s 17th national convention was held. The highlight of that convention was the change of leadership in the JVP. Somawansa  Amerasinghe who held the reins  for 24 years stepped down . Anura Kumara Dissanayake known popularly as Anura and AKD  became the new JVP leader.
+
+...
+
+[Data](articles/39bb7267.json)
+
+[Extended Data](ext_articles/39bb7267.ext.json)
 
 ---
 
@@ -2061,349 +2427,5 @@ Meanwhile, it is reported that after hacking the WhatsApp computer, a small amou
 [Data](articles/7b6b32b5.json)
 
 [Extended Data](ext_articles/7b6b32b5.ext.json)
-
----
-
-### Sri Lanka travel advisory still at level 2, same as France and Italy: US Ambassador
-
-*2024-10-28 15:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-travel-advisory-still-at-level-2-same-as-france-and-italy-us-ambassador-185288/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s overall travel advisory has not been raised after the Arugam Bay related threats, and remains at levels of many other countries, US Ambassador Julie Chung said.
-
-“Our overall travel advisory for Sri Lanka remains exactly the same, at Level 2, which has been so for many years,” she told reporters in Colombo Monday.
-
-“And this is similar to advisories of many other popular destinations including the Maldives, France and Italy. All the same at Level 2; Sri Lanka remains at Level 2,” she said.
-
-A Level 2 travel advisory means travelers should exercise increased caution.
-
-Common risk indicators for countries that have a Level 2 advisory include crime, terrorism, civil unrest, and kidnapping.
-
-“I want to also correct some misinformation out there. There is no travel ban on Sri Lanka. Our security alert last week was for Americans to avoid Arugam Bay until further notice.”
-
-Hard travel advisories usually advise citizens to defer non-essential travel.
-
-...
-
-[Data](articles/90317726.json)
-
-[Extended Data](ext_articles/90317726.ext.json)
-
----
-
-### US Ambassador to America alert over Arugam Warning
-
-*2024-10-28 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202650) · `si`
-
-US Ambassador warns against misinformation about Arugam Bay security threats. She emphasizes ongoing cooperation with Sri Lankan authorities and maintains current travel advisory level for Sri Lanka.
-
-🟩
-
-The American Ambassador to Sri Lanka says that the tourist counsel in Sri Lanka has not changed to Sri Lanka.
-
-Speaking at a function at the American Center in Colombo, she said that it was said that Sri Lanka was imposed on Sri Lanka.
-
-"If the American Ambassadors are known for a security threat, we need to educate our staff, US citizens and the relevant government. Double policy does not follow a policy. The accepted method we use around the world. When we learned about the threat to the area of ​​Arugambay, the Sri Lankan authorities had responded. They responded quickly. "
-
-...
-
-[Data](articles/bc376dd7.json)
-
-[Extended Data](ext_articles/bc376dd7.ext.json)
-
----
-
-### PM Harini responds to ex-President’s claims on public sector salaries
-
-*2024-10-28 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102979/pm-harini-responds-to-ex-presidents-claims-on-public-sector-salaries) · `en`
-
-Prime Minister Dr. Harini Amarasuriya stated that despite former President Ranil Wickramasinghe’s claims about a Cabinet decision to raise government employees’ salaries, the proper procedures were not followed when taking the decision.
-
-Speaking at a public rally in Padukka, she pointed out that even though the former President had announced a salary increase for government employees, the Cabinet decision was made without consulting the Treasury or officials from the Ministry of Finance.
-
-“The decision was announced, but the decision has not been taken after doing the part necessary to implement the decision.”
-
-“What does that say? It is clearly a false promise made during the election period to mislead the people,” she added.
-
-◼️
-
-[Data](articles/b26ac1f8.json)
-
-[Extended Data](ext_articles/b26ac1f8.ext.json)
-
----
-
-### The man who came to see a relative from London suddenly died
-
-*2024-10-28 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197314) · `ta`
-
-Ganesara Tyagarasa, 56, died after fainting while traveling to visit relatives. Admitted to Jaffna Hospital, his body will undergo autopsy.
-
-🟩
-
-The man who came to see a relative from London was admitted to the hospital with fainting and died suddenly.
-
-Ganesara Tyagarasa (age-56) died. He came from London to see a relative of academia and went to the bus on the 17th.
-
-He was admitted to the Jaffna Hospital yesterday morning (27).
-
-Jaffna Teaching Hospital Sudden Death Investigation Officer. The corpse has been ordered for an anatomical examination.
-
-◼️
-
-[Data](articles/6fc64514.json)
-
-[Extended Data](ext_articles/6fc64514.ext.json)
-
----
-
-### Who is the most important officer in the Channel 4 video?Udayagammanpila is demanding investigation
-
-*2024-10-28 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197311) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former MP Udayagammanpila demands investigation into key figure in Channel 4 video. He accuses someone in current government of treason, blaming intelligence/military personnel. Udayagammanpila challenges government to form committee to identify this individual.
-
-🟩
-
-Former Parliamentarian Udayagammanpila has appealed to the government to investigate who is the most important officer in the Channel 4 video on the Sunday Sunday.
-
-He made this request when he issued a report of the Special Committee of Channel 4 at a press conference today.
-
-Udayagammanpila has issued a report of the former High Court Judge SI Imam Committee appointed by the previous government.
-
-I challenge the government to appoint a committee to investigate who is the most important officer in the video.
-
-In the video of Channel 4, the person who blames intelligence and military personnel is the one who makes the government look like the top official, and the person is currently in the government - the government must take action against him for treason.
-
-◼️
-
-[Data](articles/a99cc977.json)
-
-[Extended Data](ext_articles/a99cc977.ext.json)
-
----
-
-### No tourism is banned in Sri Lanka - US Ambassador July Chang
-
-*2024-10-28 14:34:14* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවට-කිසිදු-සංචරක-තහනමක්-පනවා-නෑ---අමෙරිකානු-තානාපති-ජූලි-චන්ග්/11-412718) · `si`
-
-Sri Lanka: No tourism ban, says US Ambassador July Chang. Speaking at a media briefing in Colombo, he clarified recent statements about travel restrictions.
-
-🟩
-
-US Ambassador July Chang said that there was no ban on Sri Lanka.
-
-He was speaking at a media briefing held in Colombo today (28), a media briefing held in a statement recently.
-
-◼️
-
-[Data](articles/de0ad2cd.json)
-
-[Extended Data](ext_articles/de0ad2cd.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-10-28 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/197308) · `ta`
-
-Today's currency exchange rate: USD to INR. Buying rate: 289.0657, Selling rate: 298.1140.
-
-🟩
-
-இன்று திங்கட்கிழமை (28) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 289.0657 ரூபாவாகவும், விற்பனை விலை 298.1140  ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/77728101.json)
-
-[Extended Data](ext_articles/77728101.ext.json)
-
----
-
-### US working with Sri Lanka on Arugam Bay tourist security threat: Ambassador Chung
-
-*2024-10-28 14:08:00* · [`economynextcom`](https://economynext.com/us-working-with-sri-lanka-on-arugam-bay-tourist-security-threat-ambassador-chung-185253/) · `en`
-
-ECONOMYNEXT – The United States embassy is collaborating with the Sri Lanka government to respond to a security threat that resulted in its recent security alert to Americans to avoid Arugam Bay, Ambassador Julie Chung said.
-
-“We will continue working together to support the safety and prosperity of Sri Lankan citizens and visitors alike,” Ambassador Chung told reporters Monday.
-
-“When we became aware of a specific threat in the Arugam bay area, we shared these known details with Sri Lankan authorities, who responded quickly.
-
-“We continue to actively coordinate with them on a daily basis. And we value our partnership with Sri Lanka’s leadership and security officials, whose commitment to safety and transparency is notable.”
-
-“We know that continuous safety and stability are essential for a thriving tourism sector which we support absolutely.”
-
-“So we are fully committed to supporting Sri Lanka’s efforts to create that secure welcoming environment for all.”
-
-...
-
-[Data](articles/20a0a0a7.json)
-
-[Extended Data](ext_articles/20a0a0a7.ext.json)
-
----
-
-### ඉන්දියාවම හෙල්ලූ තලපති විජේගේ දේශපාලන වේදිකාව
-
-*2024-10-28 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202649) · `si`
-
-Here's a 200-character summary:
-
-
-
-Actor Vijay leads DMK rally in Tamil Nadu, criticizes dual-party politics, aims to be major force in state. Large crowd attends event at Ekanadi.
-
-🟩
-
-දකුණු ඉන්දීය සිනමාවේ ජනකාන්ත රංගන ශිල්පියෙක් වන විජේ, තම නායකත්වයෙන් යුතු තමිල්ගා වෙට්රි කලගම් පක්ෂයේ මංගල රැලිය ඊයේ (27) පැවැත්විය.
-
-A large crowd was gathered at the rally at Ekanadi in Tamil Nadu.
-
-එහිදී අදහස් පළකළ විජේ අවධාරණය කළේ, තමිල්නාඩුවේ දශක ගණනාවක් පුරා ක්‍රියාත්මක, ද්වි පක්ෂ දේශපාලනයට තිත තබා ප්‍රාන්තයේ ප්‍රධාන බලවේගය වීම සිය අපේක්ෂාව බවය.
-
-◼️
-
-[Data](articles/3672de7a.json)
-
-[Extended Data](ext_articles/3672de7a.ext.json)
-
----
-
-### நிக்கவரெட்டியவில் உள்நாட்டு துப்பாக்கியுடன் ஒருவர் கைது !
-
-*2024-10-28 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197304) · `ta`
-
-Nikaweratiya police arrest suspect armed with local firearm during raid based on tip-off.
-
-🟩
-
-நிக்கவரெட்டிய பொலிஸ் பிரிவுக்கு உட்பட்ட வாசிவெவ பகுதியில் உள்நாட்டு துப்பாக்கியுடன் சந்தேக நபர் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (27) கைது செய்யப்பட்டுள்ளதாக நிக்கவரெட்டிய பொலிஸார் தெரிவித்தனர்.
-
-The suspect was arrested during a raid carried out on information received by Nikaweratiya police.
-
-◼️
-
-[Data](articles/20077b3b.json)
-
-[Extended Data](ext_articles/20077b3b.ext.json)
-
----
-
-### Attack on a supporter of a parliamentary election candidate in Ampara district
-
-*2024-10-28 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197306) · `ta`
-
-Attack on supporter of parliamentary election candidate in Ampara district: Shop vandalized, police complaint filed. Candidate visits scene, suspects political motives behind destruction.
-
-🟩
-
-இனந்தெரியாதோரினால் நடத்தப்பட்ட தாக்குதல் சம்பவம் ஒன்றில் பாராளுமன்ற வேட்பாளரின் ஆதரவாளரது  கடை அடித்து நொறுக்கப்பட்டுள்ளது.
-
-A temporary shop located on the main road of Pandaruppu Dalawattuwan, which belongs to the Periyavana Police Division of the Ampara District, has been smashed.
-
-The incident took place on Sunday night (27) and the Ampara District has been beaten to the Digamadulla electorate in the Ampara District.
-
-The candidate went to the scene and visited the damaged shop and went to the big Neelavana police station and went with the supporter to lodge a complaint.
-
-The victim's shop owner told the media that the Sri Lanka Human Rights Commission was planning to lodge a complaint on Monday (28) due to lack of complaints at the police station.
-
-மேலும், குறித்த கடையில் அரசியல் விடயங்களை தாங்கள் உரையாடுவதாகவும் இதனால் இக்கடை உடைப்பு ஏனைய தரப்புகளால் உடைக்கப்பட்டிருக்க கூடும் என வேட்பாளர் வைத்தியர் பிரகாஸ் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/31d405cf.json)
-
-[Extended Data](ext_articles/31d405cf.ext.json)
-
----
-
-### Nishantha Perera appointed new Chairman of Elpitiya?
-
-*2024-10-28 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202648) · `si`
-
-Nishantha Perera appointed Chairman Elpitiya Pradeshiya Sabha. National Power won 15 seats in 30-seat council. Mahinda Rajapaksa says no issue establishing congregation despite some doubts.
-
-🟩
-
-The final result of the Elpitiya Pradeshiya Sabha Mahinda Rajapaksa says that there is no problem with the national power and other seats by the other 15 seats.
-
-Accordingly, Nishantha Perera, who contested as the team leader of the National Power Pradeshiya Sabha.
-
-Elpitiya Pradeshiya Sabha elections were held on Saturday, Matmin and proportional.
-
-The national folk force was won by 15 seats in Elpitiya Pradeshiya Sabha consisting of 30 seats.
-
-The Sri Lanka General Front, the Sri Lanka General Front and 3 seats were divided into six seats in the Sri Lanka General Front.
-
-මීට අමතරව පොදුජන එක්සත් නිදහස් සන්ධානයට සහ ජාතික ජනතා පක්ෂයටත් එක් ආසනය බැගින් හිමිවුණි.
-
-Accordingly, the National Folk Members of the Anuradhapura Pradeshiya Sabha with the final result of the Elpitiya Pradeshiya Sabha with the bonus seats, 15 members of the 30th members of the House are able to receive 15 seats.
-
-...
-
-[Data](articles/22a0c814.json)
-
-[Extended Data](ext_articles/22a0c814.ext.json)
-
----
-
-### News of a political crisis at home:Mrs. B prepares to confront LSSP
-
-*2024-10-28 13:32:00* · [`islandlk`](http://island.lk/news-of-a-political-crisis-at-homemrs-b-prepares-to-confront-lssp/) · `en`
-
-PM says she won’t tolerate a ‘political insurgency’ within the govt.
-
-Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-We next flew to Tibilisi-Georgia (in the USSR) on the same private plane, placed at our disposal. We had official appointments and discussions, but the program was kept light in order to afford some relaxation and sight-seeing, which included attending some cultural shows in the evening. They were uneven in quality, with some first rate items, and others fairly ordinary. They also tended to be too long, at least by our standards.
-
-...
-
-[Data](articles/f997003d.json)
-
-[Extended Data](ext_articles/f997003d.ext.json)
-
----
-
-### Prime Minister who answered Ranil to Ranil
-
-*2024-10-28 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202647) · `si`
-
-Former President Ranil Wickremesinghe announced a cabinet decision to increase public servant salaries during an election rally. He stated this as a cabinet resolution but not yet implemented. Critics call it a false promise made during the election period.
-
-🟩
-
-Former President Ranil Wickremesinghe said that a cabinet decision was taken regarding the salaries of public servants.
-
-She was speaking at a public rally in Padukka yesterday.
-
-"දැන් රනිල් වික්‍රමසිංහ කිව්වට රාජ්‍ය සේවකයින්ගේ වැටුප් වර්ධනය කිරීමට තීරණයක් ගත්තා කියලා , අපි ඒ කැබිට් සාකච්ඡාවේ කැබිනට් තීරණය බලනකොට භාණ්ඩාගාරයෙන්වත් මුදල් අමාත්‍යාංශයේ නිලධාරීන්ගෙන්වත් අනුමැතියක් අරගෙන නෙමෙයි ඒ තීරණය අරගෙන තියෙන්නේ. තීරණය ප්‍රකාශ කළා , නමුත් තීරණය ක්‍රියාත්මක කිරීමට කරන්නට ඕනේ කොටස කරලා නෙමෙයි ඒ තීරණය අරගෙන තියෙන්නේ. එතකොට ඒකෙන් මොකක්ද කියන්නේ. It is a false promise of a false promise in the election period. "
-
-◼️
-
-[Data](articles/3c714f07.json)
-
-[Extended Data](ext_articles/3c714f07.ext.json)
-
----
-
-### The Executive Presidency as JRJ saw it
-
-*2024-10-28 13:19:00* · [`islandlk`](http://island.lk/the-executive-presidency-as-jrj-saw-it/) · `en`
-
-(The elected Executive Presidency was adopted in Sri Lanka in 1978. The original idea was mine and there is controversy about it in Sri Lanka now. I explained the Constitution in this lecture delivered in July 1991.)
-
-The first suggestion to introduce the Executive Presidency system of Government in Sri Lanka was made by me while I was a Minister in the Dudley Senanayake Government of 1965-1970, in a speech to the Science Students Association of the Colombo University in December 1966. Some of the remarks I made then were as follows:
-
-...
-
-[Data](articles/c1cf53d0.json)
-
-[Extended Data](ext_articles/c1cf53d0.ext.json)
 
 ---

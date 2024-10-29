@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 09:59:21**
+As of **2024-10-29 10:12:59**
 
 ## Newspaper Stats
 
-*Scraped **51,941** Articles*
+*Scraped **51,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 3,158
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,828
-adaderanalk | 6,151
+adaderanalk | 6,152
 tamilmirrorlk | 7,193
 virakesarilk | 8,374
-adaderanasinhalalk | 9,035
+adaderanasinhalalk | 9,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,939 (100.0%) of 51,941 articles have been extended.
+51,943 (100.0%) of 51,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Postal voting for 2024 General Election to commence tomorrow
+
+*2024-10-29 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102996/postal-voting-for-2024-general-election-to-commence-tomorrow) · `en`
+
+The postal voting for the upcoming General Election 2024 is set to commence tomorrow (30).
+
+The Election Commission has announced that postal voting will take place at all police stations, District Secretariats, Election Commission Offices, and the Offices of the IGP, starting tomorrow.
+
+Additionally, it is also allowed to cast postal votes at these offices on November 4.
+
+In addition, for the armed forces and other government institutions, postal voting will be available on November 1 and November 4, the Election Commission said.
+
+The postal voters who could not vote within these days will be allowed to vote at their respective District Secretariat where their workplace is located.
+
+Meanwhile, Rohana Hettiarachchi, the Executive Director of People’s Action for Free & Fair Elections (PAFFREL), has indicated that nearly a thousand officials will be deployed to observe the postal voting process during this year’s General Election.
+
+◼️
+
+[Data](articles/1111a551.json)
+
+---
+
+### Matthew Wade retires from international cricket
+
+*2024-10-29 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202678) · `si`
+
+Matthew Wade retires from international cricket after 153 games. Key achievements: 3 World Cups, including 44-run semi-final knock. Also known for Test century in 2019.
+
+🟩
+
+He was announced today (Matthew Wade, who is considered to be a generator of Australia.
+
+Wadekavi had played 36 Tests, 97 ODIs and 20 -20 international matches for Australia.
+
+The 36-year-old Wed T20 World Cup was represented in three World Cups.
+
+In the semi-finals of the tournament, Wade is honored to take Australia to the finals of 44 off 17 balls.
+
+The Test century, which was played at the Test cricket tournament in 2019, states as a Test century in 2019.
+
+Matthew Wade refers to the International Cricket Tournament and playing the Big Bash League.
+
+Meanwhile, the Cric Info website reports that Wid Australia team is scheduled to join the Australian trainer during the visit of the Wid Australia.
+
+◼️
+
+[Data](articles/10dc78c3.json)
+
+[Extended Data](ext_articles/10dc78c3.ext.json)
+
+---
+
+### Declaration of National Jump to be borrowing
+
+*2024-10-29 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202677) · `si`
+
+Current government borrowed money within parliamentary limits. Dr. Nalinda Jayatissa states these will change in next parliament session.
+
+🟩
+
+The current government has obtained loans from the limits approved by the Parliament, says Dr. Nalinda Jayatissa.
+
+He points out that these limitations are expected to be amended in the next parliament.
+
+Dr. Nalinda Jayatissa made these comments participating with the 360 ​​time program aired on the night of the TV Derana yesterday.
+
+◼️
+
+[Data](articles/e1e9e8af.json)
+
+[Extended Data](ext_articles/e1e9e8af.ext.json)
+
+---
 
 ### Candidate arrested with dissolved flour
 
@@ -2329,77 +2403,5 @@ Do you have questions about the biggest topics and trends from around the world?
 [Data](articles/543c72e0.json)
 
 [Extended Data](ext_articles/543c72e0.ext.json)
-
----
-
-### Nishantha Perera to be appointed Elpitiya PS chairman?
-
-*2024-10-28 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102984/nishantha-perera-to-be-appointed-elpitiya-ps-chairman) · `en`
-
-The equal distribution of seats between the National People’s Power (NPP) and opposition parties will have no effect on maintaining the activities of the Elpitiya Pradeshiya Sabha, according to former Election Commission Chairman Mahinda Deshapriya. The NPP had secured 15 seats while the remaining 15 seats were divided among the various opposition groups.
-
-Nishantha Perera, who contested as the NPP Group Leader, is tipped to be appointed as the new Chairman of the Elpitiya Pradeshiya Sabha. The election for the local council was held last Saturday (26), under a combination of the constituency level and the proportional representation system.
-
-...
-
-[Data](articles/2f0a80c9.json)
-
-[Extended Data](ext_articles/2f0a80c9.ext.json)
-
----
-
-### Ranil's public servant's salary increase is only a false promise
-
-*2024-10-28 15:57:38* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගේ-රාජ්‍ය-සේවක-වැටුප්-වැඩි-කිරීම-මැතිවරණ-කාලයේ-දුන්-බොරු-පොරොන්දුවක්-පමණයි/11-412719) · `si`
-
-Here's a 200-character summary:
-
-
-
-Former President Ranil Wickremesinghe promised increased salaries for public servants. However, Prime Minister Harini Amarasuriya claims this decision was made without Treasury approval and hasn't been implemented, misleading the public.
-
-🟩
-
-Prime Minister Harini Amarasuriya said that former President Ranil Wickremesinghe said that the salaries of public servants would increase public employees.
-
-"Ranil Wickremesinghe has made a decision to increase public ventures to increase the cabinet, but not by Treasury and the Ministry officials.. Decided the decision. But that decision has been made not to make the decision to be implemented. It is very clear that the people mislead the people.
-
-◼️
-
-[Data](articles/f1bbc1e3.json)
-
-[Extended Data](ext_articles/f1bbc1e3.ext.json)
-
----
-
-### The case against constructing a road in the Sinharaja forest is postponed
-
-*2024-10-28 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202651) · `si`
-
-Sinharaja forest road construction case postponed. Court criticizes lack of State Counsel representation. Petitioners seek legal action against those responsible for destroying World Heritage site.
-
-🟩
-
-The Court of Appeal today (28), a petition filed by the Sinharaja Forests who had been named as a World Heritage Summark was held on January 23.
-
-The petition is Mohammed Lawfar and P. The Court of Appeal consisting of Kumaran Ratnam was called before the judge.
-
-There was no statement that a State Counsel had not been appointed to appear on behalf of the respondent.
-
-The judges who blamed the matter have been inappropriate in this manner.
-
-The judge also pointed out that a State Counsel should be appointed expeditiously.
-
-The Petitioners said that the decision of President Gotabhaya Rajapaksa had decided to expand itself, as a world heritage had been named as a World Heritage.
-
-The petitioners had called for an order to issue legal action against persons responsible for the destruction of the relevant decision.
-
-The Director General of the CEA and the Director General of the Department of Wildlife, the Director General of the Wildlife Department have been named as respondents in the petition.
-
-◼️
-
-[Data](articles/baa54135.json)
-
-[Extended Data](ext_articles/baa54135.ext.json)
 
 ---

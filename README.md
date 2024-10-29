@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 20:24:11**
+As of **2024-10-29 20:39:56**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 9,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,073 (100.0%) of 52,074 articles have been extended.
+52,074 (100.0%) of 52,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
 
-### කෙම්පිටිය වලව්වේ ඝාතනය ගැන තවත් තොරතුරු
+### More information about the murder of Kempathite Walawwa
 
 *2024-10-29 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202705) · `si`
 
-කෑගල්ල, බුළුරුප්ප, කෙම්පිටිය වලව්වේ හිමිකරු වන ක්‍රිෂාන්ත පුලස්ති මාරපන නැමැත්තාව ඔහුගේ වලව්ව තුළ ඇති නිදි ඇඳමත ඝාතනය කර තිබියදී ඊයෙ (28)  පෙරවරුවේ සොයාගැනුණි.
+Kempathite Walawwa murder: Krishant Palashi owner found dead, wife missing. Kegalle Police investigating. Victim retired teacher, former Kegalle Pradeshiya Sabha member. Son lives in Australia, daughter deceased. Cause unknown.
 
-ඒවන විටත් ඔහුගේ දෙපා සහ දෙඅත් ගැටගසා, කට සෙලෝටේප්වලින් ඔතා තිබූ බව පැවසෙයි.
+🟩
 
-ඔහුගේ සිරුර සොයාගනු ලැබුවේ, නිවසේ සේවය කරන පුද්ගලයාගේ පුත්‍රයා විසිනි.
+The owner of Krishant Palashi Walawwa, Kegalle, Krishantuli Marapana, was found in the sleeper in his belly.
 
-ඝාතනයට ලක්වූ පුද්ගලයාගේ බිරියගේ ද කට සෙලෝටේප්වලින් ඔතා ඇඳ අසල බිම සිටියදී එම පුද්ගලයා විසින් සොයාගෙන තිබේ.
+It is said that his feet and both were collided and was wrapped in Clotepa.
 
-අනතුරුව පොලීසියට මේ බව දැනුම්දීමෙන් අනතුරුව පැමිණි විමර්ශන නිලධාරීන් අදාළ කාන්තාව රෝහල්ගත කර ඇත.
+His body was found by the son of the man who works at home.
 
-අදාළ වලව්වේ කාමරවල තිබූ අල්මාරි සියල්ල විවෘත කර ඒවායේ තිබූ භාණ්ඩ ඇද දමා තිබූ අයුරු දැකගත හැකි විය.
+The man had found the wife of the murdered man and the core.
 
-මෙම ඝාතනය සඳහා කොතරම් පිරිසක් පැමිණිය ද යන්න පිළිබඳව සහ නිවසේ තිබූ කුමක් පැහැරගෙන ගියේද යන්න පිළිබඳව මෙතෙක් අනාවරණ වී නොමැත.
+The investigator has been admitted to the police after notice this.
 
-ඊට හේතුවී ඇත්තේ මෙම සිදුවීමත් සමග අසනීප තත්ත්වයේ සිටි අදාළ පුද්ගලයාගේ වයෝවෘද්ධ බිරිය සිහිමද තත්ත්වයට පත්වීම ය.
+The cupboards in the relevant rooms were open to all the items in the rooms.
 
-නිවසේ තිබූ මෝටර් රථය ද පැහැරගෙන ගොස් ඇති අතර පසුව එය නිවසට කිලෝමීටර 4ක පමණ දුරින් දමාගොස් තිබියදී පොලීසිය ඊයේ පස්වරුවේ සොයාගෙන තිබේ.
+It is yet to be revealed about how many people came to the murder and what was abducted in the house.
+
+The reason is that the eldest breastfall of the person who was sick was sick.
+
+The house was also abducted and later took over 4 km away from the house.
+
+The victim is a retired teacher and is a former member of the Kegalle Pradeshiya Sabha.
+
+He has served as a social worker, he has not obtained the salary of the MP.
+
+His son, a father of two, lives in Australia and the daughter died before.
 
 ...
 
 [Data](articles/b2ecaa93.json)
+
+[Extended Data](ext_articles/b2ecaa93.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 10:24:30**
+As of **2024-10-29 11:12:08**
 
 ## Newspaper Stats
 
-*Scraped **51,944** Articles*
+*Scraped **51,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,237 @@ islandlk | 3,094
 economynextcom | 3,158
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,828
-adaderanalk | 6,152
-tamilmirrorlk | 7,193
+adalk | 4,831
+adaderanalk | 6,154
+tamilmirrorlk | 7,197
 virakesarilk | 8,374
-adaderanasinhalalk | 9,037
+adaderanasinhalalk | 9,040
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,944 (100.0%) of 51,944 articles have been extended.
+51,955 (100.0%) of 51,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### අමෙරිකාව සංචාරක තහනමක් පැනවූයේ නෑ - විජිත
+
+*2024-10-29 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202681) · `si`
+
+මෙරට දී සිදු කිරීමට සැලසුම් කර තිබූ බව පැවසෙන ප්‍රහාරය සම්බන්ධයෙන්  මෙරට බුද්ධි අංශය සඳහා විදෙස් බුද්ධි අංශයක් විසින් යම් තොරතුරක් ලබා දුන් බවත් ඒ අනුව අදාළ ආරක්ෂක ක්‍රියාමාර්ග ගත් බව කැබිනට් ප්‍රකාශක අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+
+අද (29) පැවැති කැබිනට් තීරණ දැනුම් දීමේ ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමින් අමාත්‍යවරයා පැවසුවේ ඒ අනුව ජාතික ආරක්ෂක කවුන්සියල කැඳවා ගත යුතුව තිබු කඩිනම් තීන්දු තීරණ ලබා ගත් බවය.
+
+ඒ අනුව සැකකරුවන් කිහිප දෙනෙකු අත්අඩංගුවට ගෙන ඇති බවත් ඔවුන් අධිකරණය ඉදිරිපත් කර ඉදිරි පරීක්ෂණ ක්‍රියාත්මක වෙමින් ඇති බවත් ඔහු පැවසීය.
+
+කෙසේ නමුත් මෙම බුද්ධි අංශ තෙරතුර මෙරට සිදුකරනු ලැබූ බළපෑමක් නොවන බවත් අමෙරිකා එක්සත් ජනපදය ආරුගම්බේ ප්‍රදේශයේ සංචාරය කිරීම සම්බන්ධව සැලකිලිමත් වන ලෙස නිවේදනයක් නිකුත් කර තිබූ නමුත් නොමැතිව සංචාරක තහනමක් පනවා නොමැති බවත් එහිදි පැවසීය.
+
+◼️
+
+[Data](articles/33b86b0a.json)
+
+---
+
+### Arrest
+
+*2024-10-29 10:54:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடிகுண்டு-பீதியை-ஏற்படுத்தியவர்-கைது/175-346255) · `ta`
+
+A 67-year-old man from Wariyapola made a false bomb threat call to Katunayake airport, causing flight delays and security checks. He was arrested for disrupting airport operations.
+
+🟩
+
+Police said that the person who made a fake phone call was arrested in the Wariyapola area that there was a bomb at the Katunayake airport.
+
+Police said he was 67 years old from Wariyapola area. Police said he had telephoned the airport manager and the airline by telephone at the Katunayake airport.
+
+After the call, airport operations were interrupted, the airport and passengers were touched by heavy testing and flights were delayed.
+
+◼️
+
+[Data](articles/f8fe2e14.json)
+
+[Extended Data](ext_articles/f8fe2e14.ext.json)
+
+---
+
+### New contractor appointed for supply of LPG to Litro Gas Company
+
+*2024-10-29 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102998/new-contractor-appointed-for-supply-of-lpg-to-litro-gas-company) · `en`
+
+The Cabinet of Ministers has granted approval for awarding the contract to M/s OQ Trading Limited for the supply of Liquefied Petroleum Gas (LPG) to Litro Gas Company for the year 2025.
+
+Speaking during the Cabinet press conference held this morning (29), Cabinet Spokesman Minister Vijith Herath stated that tenders had been invited under the single stage double lot system following the international competitive bidding system for the supply of liquefied petroleum gas to Litro Gas Lanka Limited for the year 2025.
+
+Furthermore, he stated that only two suppliers, namely, M/s OQ Trading Limited and MWs Siam Gas Trading Pte Ltd had submitted bids for this purpose, whereas the bid submitted by MWs Siam Gas Trading Pte Ltd was rejected.
+
+...
+
+[Data](articles/22b6a031.json)
+
+[Extended Data](ext_articles/22b6a031.ext.json)
+
+---
+
+### Kerala festival
+
+*2024-10-29 10:45:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேரளா-திருவிழாவில்-பயங்கர-வெடி-விபத்து-150-பேர்-காயம்/175-346254) · `ta`
+
+Explosion injures over 150 at Kerala temple festival; 8 critically burned; police investigate; festival suspended
+
+🟩
+
+More than 150 people were injured in an explosion in the early hours of Tuesday (29) at a temple festival near Kasargod, Kerala.. It has been reported that some of the conditions are worrisome.
+
+Anjuthampalam Veerargavu Temple is located near Kasargod, Kerala. The temple festival is held annually. Accordingly, this year's festival is being held there. The crackers were placed in the Kudon near the temple in front of the festival. Thousands of people came to see the temple festival.
+
+In this case, the crackers that were placed in Gudon exploded in the fire. It is reported that the fire may have been caused by the fireworks that fell on the crackers in the kuton during the fireworks during the fireworks.. More than 150 people who came to see the festival were injured.
+
+97 of the injured in the accident have been hospitalized. This is confirmed by Kasargod District Collector Infasekar. Eight of them suffered 80 percent burns. They are being treated in the intensive care unit.
+
+...
+
+[Data](articles/823cd629.json)
+
+[Extended Data](ext_articles/823cd629.ext.json)
+
+---
+
+### Car: Four escaped
+
+*2024-10-29 10:39:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/20-அடி-பள்ளத்தில்-பாய்ந்தது-கார்-நால்வரும்-தப்பினர்/76-346253) · `ta`
+
+Car crash on Colombo-Hatton road: Vehicle veered off course, fell into 20-foot ditch. Four occupants unharmed. Police investigating incident.
+
+🟩
+
+Hatton police said that a car traveling from Colombo to Hatton had crashed into a 20 -foot ditch.
+
+The accident took place on Tuesday (29) at around 2 am, Hatton-Colombo main road.
+
+Hatton police are investigating the accident that the car driver had left the road from the car to Hatton in the morning and had left the car on the main road in Colombo.
+
+Four people were traveling in the car when the car crashed and no one was injured in the accident, police said.
+
+◼️
+
+[Data](articles/f6b1b8bb.json)
+
+[Extended Data](ext_articles/f6b1b8bb.ext.json)
+
+---
+
+### Gaza aid fears as Israel bans UN Palestinian refugee agency
+
+*2024-10-29 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102997/gaza-aid-fears-as-israel-bans-un-palestinian-refugee-agency) · `en`
+
+Israel’s parliament has voted to pass legislation banning the UN’s Palestinian refugee agency (Unrwa) from operating within Israel and Israeli-occupied East Jerusalem, within three months.
+
+Contact between Unrwa employees and Israeli officials will also be banned, severely limiting the agency’s ability to operate in Gaza and the Israeli-occupied West Bank.
+
+Co-operation with the Israeli military - which controls all crossings into Gaza - is essential for Unrwa to transfer aid into the war-torn territory. It is the main UN organisation working on the ground there.
+
+Unrwa staff will no longer have legal immunity within Israel, and the agency’s headquarters in East Jerusalem will be closed.
+
+UN Secretary General António Guterres said implementing the laws “would be detrimental for the resolution of the Israeli-Palestinian conflict and for peace and security in the region as a whole”, while Unrwa’s chief Philippe Lazzarini said it “will only deepen the suffering of Palestinians”.
+
+...
+
+[Data](articles/b369b49e.json)
+
+[Extended Data](ext_articles/b369b49e.ext.json)
+
+---
+
+### Media Meeting on Cabinet Decision
+
+*2024-10-29 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202680) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Media briefing on cabinet decision: Key points discussed, implications analyzed, public reaction anticipated."
+
+🟩
+
+◼️
+
+[Data](articles/ddfe738f.json)
+
+[Extended Data](ext_articles/ddfe738f.ext.json)
+
+---
+
+### Matthew Wade decides to the international cricket field
+
+*2024-10-29 10:12:52* · [`adalk`](https://www.ada.lk/sports/මැතිව්-වේඩ්-ජාත්‍යන්තර-ක්‍රිකට්-පිටියට-සමුදීමට-තීරණය-කරයි/9-412733) · `si`
+
+Matthew Wade joins international cricket in Australia. He previously played domestic cricket. The Australian team's bowling coach will lead them in the T20 tournament against Pakistan.
+
+🟩
+
+Matthew Wade's International Cricket Course has decided to the international cricket in Australia.
+
+However, after he was preceding to cricket, the Australian team bowling coach will be held in the T20 tournament against Pakistan.
+
+◼️
+
+[Data](articles/084090d7.json)
+
+[Extended Data](ext_articles/084090d7.ext.json)
+
+---
+
+### More than 150 injured in a temple in India
+
+*2024-10-29 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202679) · `si`
+
+Over 150 injured in Kerala temple fire during festival celebration. Eight critically hurt. Police suspect fireworks caused blaze. Incident occurred during midnight festivities.
+
+🟩
+
+More than 150 people were injured due to a fire in a temple in Kerala, India.
+
+Foreign media reports that the accident had occurred during a feast held at the Kovil.
+
+Foreign media reports that eight of the injured were seriously in the accident.
+
+The incident had taken place during the celebration of the Incest Ceremony of Ajuthambalam, Weerawwav area.
+
+Eyewitnesses have said that around the midnight crackers showed that the crackers stored in the shed in the cell near each cadre.
+
+Accordingly, the police are suspected of a fire in the fireworke near a Kovil.
+
+◼️
+
+[Data](articles/5c0e6eb8.json)
+
+[Extended Data](ext_articles/5c0e6eb8.ext.json)
+
+---
+
+### Today's thoughtful caricature
+
+*2024-10-29 10:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/இன்றைய-சிந்தனைக்குரிய-கேலிச்சித்திரம்/62-346251) · `ta`
+
+Here's a summary of "Today's thoughtful caricature" in approximately 200 characters:
+
+
+
+A satirical drawing depicting modern society's quirks and flaws. It humorously exaggerates contemporary issues like social media obsession, political polarization, and technological addiction. The caricature uses exaggerated facial features and body language to convey its message about today's societal challenges and absurdities.
+
+🟩
+
+◼️
+
+[Data](articles/f2ca42e7.json)
+
+[Extended Data](ext_articles/f2ca42e7.ext.json)
+
+---
 
 ### Postal voting for 2024 General Election to commence tomorrow
 
@@ -1238,6 +1454,30 @@ However, we wish to carry out his work successfully.It was reported to vote for 
 
 ---
 
+### Four former ministers hand over quarters
+
+*2024-10-28 19:26:37* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-අමාත්‍යවරුන්-4ක්-නිල-නිවාස-භාර-දෙයි/11-412729) · `si`
+
+Four former ministers hand over official residences. Gamini Lokuge, Dilum Amunugama, Ramesh Pathirana, and Ajith Rajapaksa transferred properties last week. Bills were paid, but no documents received from Public Administration and Transport Ministries.
+
+🟩
+
+Four ministers have been informed that four former ministers have handed over their official residence. Former ministers of Gamini Lokuge, Dilum Amunugama, Ramesh Pathirana, and Ajith Rajapaksa said that he had handed their official residence.
+
+Former Minister Gamini Lokuge said he handed his official residence a week ago. He said that the bills were paid and completed the house, but he did not give him a document from the Ministry of Public Administration and the Ministry of Transport.
+
+Former Minister Ramesh Pathirana said he was handed over to the official residence. He also said that the bills were paid the same bill as a document as a journalist.
+
+Former Deputy Speaker Ajith Rajapaksa said the rental bill was completed and handed over to the quarters, water bill and hydowil.
+
+◼️
+
+[Data](articles/4f1bbec5.json)
+
+[Extended Data](ext_articles/4f1bbec5.ext.json)
+
+---
+
 ### Mother killed in motorcycle accident;Boy, little girl hurt!
 
 *2024-10-28 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197349) · `ta`
@@ -1287,6 +1527,30 @@ They further pointed out that there is much opportunity for corruption.
 [Data](articles/125b8357.json)
 
 [Extended Data](ext_articles/125b8357.ext.json)
+
+---
+
+### Station Masters prepared for a fast strike
+
+*2024-10-28 19:17:19* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ස්ථානාධිපතිවරුන්-ක්ෂණික-වර්ජනයකට-සැරසෙයි/11-412728) · `si`
+
+Sri Lanka Railways OICs plan professional action over promotion delays. Station Masters face unresolved issues. Authorities slow to approve recruitment process. Immediate solutions sought.
+
+🟩
+
+The Sri Lanka Railways OICs Association states that plans are scheduled to go to a professional action in the coming days to solve the problems of the Station Masters.
+
+The Association states that a departmental investigations have made a scheme to promote grades five to five years to the people who pass the Department of Railway Regulatory Service and OICs.
+
+But they say the promotions of the OICs are not working yet and to start professional measures immediately.
+
+It is said that authorities are delayed by the authorities to approve the recruitment procedure for the post of Railway Station.It is planned to install professional measures instantly to resolve these issues.
+
+◼️
+
+[Data](articles/c4461a5d.json)
+
+[Extended Data](ext_articles/c4461a5d.ext.json)
 
 ---
 
@@ -2083,327 +2347,5 @@ A text message came from the wife of a friend I knew. Asked how I am. After exch
 [Data](articles/6627cca2.json)
 
 [Extended Data](ext_articles/6627cca2.ext.json)
-
----
-
-### Director Siva, I understand the greatness of the apology ' - Surya
-
-*2024-10-28 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/197335) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Gangua" music launch: Surya, Disha Patani, Bobby Deol star. Directed by Siva, music by Devi Sri Prasad. Tamil, Telugu, Malayalam, Kannada, Hindi release Nov 14. Surya praises director Siva's apology philosophy.
-
-🟩
-
-The music release of Surya starrer 'Gangua' was held in the presence of thousands of fans at the Nehru Indoor Sports Stadium in Chennai.
-
-Surya, Disha Patani, Bobby Deol, Yogi Babu, Prem, Kalarani, directed by director Siva.
-
-The film has been composed by 'Rockstar' Devi Sri Prasad.
-
-Producer K. E.. Gnanvel is produced by Raja.
-
-The music release of the film, which is being released in various languages ​​such as Tamil, Telugu, Malayalam, Kannada and Hindi on the 14th of November.
-
-Actor Karthi, director K.. S.. Several filmmakers, including Ravikumar, participated in the film crew as a special guest.
-
-Speaking at the event, actor Surya said, “Technical artists, actors and actresses have been working hard for Gangua.
-
-I have been transformed into the best man because he worked with director Siva. 'All the moment is good.
-
-As well as' to know others to forgive others. Siva is the one who understands that forgiveness is the best thing to apologize.
-
-...
-
-[Data](articles/ec7a2971.json)
-
-[Extended Data](ext_articles/ec7a2971.ext.json)
-
----
-
-### The first water supply in the Mannar district is formally started
-
-*2024-10-28 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197330) · `ta`
-
-First water supply inaugurated in Mannar district for 2024-25 cultivation. 31,339 acres to benefit. Water from Murugan Pond, 2nd largest in Northern Province. 8.3 feet depth currently. Event held as per District Government Agent's decision on 18th.
-
-🟩
-
-The first water supply for the great cultivation for 2024 and 2025 in Mannar district was inaugurated today (28) at 10.30 am.
-
-The first water supply has been launched as the cultivation is to be carried out on 31 thousand 339 acres of land.
-
-The water has been opened with the blessings of the leaders of the Murugan Pond, the 2nd largest pond in the Northern Province.
-
-Irrigation Director, Mannar District Government Agent K. Kanageswaran, Murugan Katakkarai Pond Irrigation Engineer
-
-At present, 8.3 feet of water is found in the Kattakkarai pond.
-
-The first water supply was held today in accordance with the decision taken at a meeting chaired by the Government Agent of the District on the 18th.
-
-◼️
-
-[Data](articles/1126b99f.json)
-
-[Extended Data](ext_articles/1126b99f.ext.json)
-
----
-
-### Life sentenced to life in prison with drugs
-
-*2024-10-28 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202655) · `si`
-
-Colombo High Court sentences man to life imprisonment for possessing heroin. Accused found with 11.07 grams of heroin near Magazine Prison in 2016. After lengthy trial, judge rules complaint proven. Defense requests leniency due to young child.
-
-🟩
-
-The Colombo High Court today (28), the Colombo High Court today (28) was sentenced to death in prison to possess Horoin.
-
-The sentence was sentenced to a 31 year old resident of Borella.
-
-The accused were arrested by the police with 11.07 grams of heroin at the back of the new Magazine Prison on November 8, 2016.
-
-Thereafter, the Attorney General sued him under the allegations of heroin in possession and smuggling.
-
-After a long trial, the High Court Judge said that the complaint has been proved by the complaint against the accused.
-
-The lawyer appearing on behalf of the accused was mentioned in court and said that he had a month older child.
-
-Therefore, the lawyer asked the court to give him loose punishment.
-
-After considering the submissions, the High Court judge then sentenced the accused to life sentenced to life.
-
-◼️
-
-[Data](articles/3fac615a.json)
-
-[Extended Data](ext_articles/3fac615a.ext.json)
-
----
-
-### Missing the elderly man who was receiving treatment at the hospital
-
-*2024-10-28 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197332) · `ta`
-
-Elderly man P. Manoharan (65) missing after hospital visits. Last seen wearing blue shirt and blue jeans. Contact son at 077-3399752 or report to Norwood Police Station.
-
-🟩
-
-P. Manoharan (65), a resident of the Attan Sterathan estate, has been reported missing at the Norwood Police Station on Wednesday.
-
-On two occasions, he was blocked when he was traveling from the hospital.Relatives say he was last wearing a blue shirt and a blue essence.
-
-Those who are aware of him have been asked to inform the nearest police station or Norwood police station.. Or he has been asked to inform his son's 077-3399752.
-
-◼️
-
-[Data](articles/a032432b.json)
-
-[Extended Data](ext_articles/a032432b.ext.json)
-
----
-
-### Gary Kirston goes from Pakistan
-
-*2024-10-28 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202654) · `si`
-
-Gary Kirsten resigns as Pakistan cricket coach after controversy. Appointed in April 2024, he leaves post during Australian tour. Jason replaces him as Test coach.
-
-🟩
-
-Former South African players Gary Kaston, who served as the main coach of Pakistan and 20th groups, has resigned from the post.
-
-International media reports the controversy between Pakistan cricketers and cricket coaches.
-
-In April 2024, Kirsten was appointed as the head coach of the Groups and 20 teams for two years.
-
-He has resigned from the post in the Australian tour for less than a week.
-
-Jason, the coach of Pakistan Test, has been appointed to the position he empty.
-
-◼️
-
-[Data](articles/3f87fbe7.json)
-
-[Extended Data](ext_articles/3f87fbe7.ext.json)
-
----
-
-### Railway Department announced from Mahawa - Omanthai railway line
-
-*2024-10-28 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202653) · `si`
-
-Railway Department statement: Measures taken to protect train tracks and pedestrian crossings. Investigations conducted with trade unions before railway operations.
-
-🟩
-
-The Railway Department has issued a statement regarding reports of the Railway Railway line between Mahawa and Omanthai railway line.
-
-It states that some trade unions have commented on the railway line from time to time.
-
-However, the train department has taken measures to protect the train roads and pedestrians traveling through crosswalks on train passengers on train travel.
-
-The statement states that several investigations have been carried out by participating in the relevant trade unions on several occasions before the railway operations.
-
-◼️
-
-[Data](articles/db936b0b.json)
-
-[Extended Data](ext_articles/db936b0b.ext.json)
-
----
-
-### Adjournment of case against Wimal
-
-*2024-10-28 16:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமலுக்கு-எதிரான-வழக்கு-ஒத்திவைப்பு/175-346208) · `ta`
-
-Wimal Weerawansa case adjourned due to illness. Next hearing on Nov 25. Disrupted traffic during 2016 UN rights chief protest.
-
-🟩
-
-The case against National Freedom Front leader Wimal Weerawansa was adjourned on Monday (28) on charges of disrupting public and normal traffic during the 2016 protest.
-
-He has been postponed because he failed to appear in court due to illness.Former parliamentarian Weerawansa was infected with the virus, and his lawyer team brought to the notice of the court that he was unable to attend the planned trial.
-
-Colombo Chief Magistrate Thilina Kamage adjourned the hearing to November 25. The accused and witnesses of the case were ordered to appear in court on the next hearing.
-
-The Cinnamon Police has accused the National Freedom Front leader Wimal Weerawansa and five leadership of the struggle that broke the main roads in Buddhism Mawatha in 2016 and disrupted the public and normal traffic.
-
-On February 6, 2016, the National Freedom Front staged a protest against the arrival of the United Nations Human Rights High Commissioner Zaid Rad al -Hussein.
-
-...
-
-[Data](articles/a3c9b3cd.json)
-
-[Extended Data](ext_articles/a3c9b3cd.ext.json)
-
----
-
-### Sri Lanka sells Rs32.5bn in 2028 and 2033 bonds
-
-*2024-10-28 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs32-5bn-in-2028-and-2033-bonds-185322/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 32.5 billion rupees in 2028 and 2033 bonds, data from the state debt office showed.
-
-All offered 20 billion rupees of 15 October 2028 bonds were sold at an average yield of 11.84 percent.
-
-All offered 12.5 billion rupees of 01 June 2033 bonds were sold at an average yield of 12.36 percent.
-
-An issuance window for the ISIN LKB00428J159 is open until close of business of day prior to settlement date (ie, 4 pm on 30.10.2024) at the Weighted Average Yield Rate (WAYR) determined for the said ISIN at the auction, up to 10% of the respective amount offered, the debt office said.
-
-“In the event of oversubscription, allocation will be made based on successful participation by auction participants for the respective ISIN at Phase I.” (Colombo/Oct28/2024)
-
-◼️
-
-[Data](articles/445946ff.json)
-
-[Extended Data](ext_articles/445946ff.ext.json)
-
----
-
-### The Liberal Democratic Party lost the majority for the first time after the political turmoil in Japan -2009
-
-*2024-10-28 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197327) · `ta`
-
-Liberal Democratic Party loses majority Japan 2009 election turmoil. Party wins 215 seats, short of 235 needed for majority. First loss since 1955 rule. Prime Minister vows to continue despite setback.
-
-🟩
-
-The Liberal Democratic Party and its allies have only won 215 seats, with 235 seats to win the majority.
-
-This is the first time that the Liberal Democratic Party in Japan has failed to win a majority since 2009.
-
-The Liberal Democratic Party has continued to rule Japan several times since 1955.
-
-Over the past few years, the election results have been revealed in a state of confusion, including the lack of support of the Liberal Democratic Party.
-
-Prime Minister Cigheer Iskiba has said that even though the party has suffered a setback in the election, he will continue to rule.
-
-◼️
-
-[Data](articles/f14bad4a.json)
-
-[Extended Data](ext_articles/f14bad4a.ext.json)
-
----
-
-### The first water supply in Mannar
-
-*2024-10-28 16:12:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-முதலாவது-நீர்-விநியோகம்-ஆரம்பிப்பு/175-346206) · `ta`
-
-First water supply inaugurated in Mannar district for 31,339 acres cultivation. Murugan Kattakkarai pond opened with 8.3 feet water. Project initiated on 18th under District Government Agent's leadership.
-
-🟩
-
-The first water supply of cultivation for 2024 and 2025 in Mannar district was inaugurated at 10.30 am on Monday (28).
-
-The first water supply has been launched as the cultivation is to be carried out on 31 thousand 339 acres of land.
-
-The 2nd largest pond in the Northern Province, Murugan Kattakkarai pond, has been opened with the blessings of all religious leaders at a large breakage area.
-
-Irrigation Director, Mannar District Government Agent K. Kanageswaran, Murugan Katakkarai Pond Irrigation Engineer
-
-At present, 8.3 feet of water is found in the Kattakkarai pond.
-
-The first water supply was taken up at a meeting taken at a meeting chaired by the Government Agent of the District on the 18th.
-
-◼️
-
-[Data](articles/84e8d6e1.json)
-
-[Extended Data](ext_articles/84e8d6e1.ext.json)
-
----
-
-### Swine flu spreads to some other provinces
-
-*2024-10-28 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202652) · `si`
-
-Swine flu outbreak: 70,000 pigs affected in Western Province, 20,000 dead. Disease spread to Uva, Northern, and North Western Provinces. No cure found. Compensation needed for farmers. Investigation ongoing in Gampaha District.
-
-🟩
-
-Western Provincial Council Director, Department of Animal Production and Health, reports from the Uva, Northern and North Western Provinces. K. Sarath says.
-
-The Ada Derana joined the Ada Derana to the Big FUCUS program.
-
-He pointed out that the death percentage of the swine fever was very high and has not yet found a drug for the condition of the disease.
-
-Provincial Director K.. K. Mr. Sarath said.
-
-He further stated that the animals have been identified by the Baraduwala, Welisara and Padukka in the Western Province.
-
-According to the data reported last week, there are about 70,000 pigs in the Western Province and 20,000 of them have died.
-
-...
-
-[Data](articles/b0dac83a.json)
-
-[Extended Data](ext_articles/b0dac83a.ext.json)
-
----
-
-### Egypt proposes 2-day truce in Gaza, release of 4 hostages
-
-*2024-10-28 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102985/egypt-proposes-2-day-truce-in-gaza-release-of-4-hostages) · `en`
-
-Egypt’s president says proposal would see talks resuming within 10 days of two-day truce to forge permanent ceasefire.
-
-Egyptian President Abdel Fattah al-Sisi on Sunday proposed a two-day truce in Gaza and limited hostage exchange aimed at securing “a complete ceasefire” after more than a year of war between Israel and Hamas.
-
-The proposal includes exchanging four Israeli hostages held in Gaza for Palestinian prisoners in Israeli jails, and would be followed by more negotiations within 10 days, Sisi said at a news conference in Cairo.
-
-He did not say whether the plan had been formally presented to either Israel or Hamas.
-
-Do you have questions about the biggest topics and trends from around the world? Get the answers with SCMP Knowledge, our new platform of curated content with explainers, FAQs, analyses and infographics brought to you by our award-winning team.
-
-...
-
-[Data](articles/543c72e0.json)
-
-[Extended Data](ext_articles/543c72e0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 21:11:46**
+As of **2024-10-29 21:24:18**
 
 ## Newspaper Stats
 
-*Scraped **52,077** Articles*
+*Scraped **52,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 3,095
 economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
-adalk | 4,844
+adalk | 4,846
 adaderanalk | 6,172
-tamilmirrorlk | 7,221
-virakesarilk | 8,408
+tamilmirrorlk | 7,222
+virakesarilk | 8,414
 adaderanasinhalalk | 9,063
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,077 (100.0%) of 52,077 articles have been extended.
+52,083 (100.0%) of 52,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### The housemaid who stole the pilot's bag of the aircraft he came
+
+*2024-10-29 20:40:43* · [`adalk`](https://www.ada.lk/breaking_news/තමා-පැමිණි-ගුවන්-යානයේ-ගුවන්-නියමුවාගේ-බෑගය-සොරා-ගත්-ගෘහ-සේවිකාව/11-412747) · `si`
+
+Housemaid steals pilot's bag at Sri Lanka airport. Caught on camera leaving airport in three-wheeler. Bag recovered, both arrested. Case goes to court.
+
+🟩
+
+From Abu Dhabi, the airport, the airport, has been arrested by the airport in the Katunayake aircraft within three hours by three hours by three hours.
+
+This pilot is a 40-year-old Colombian. She is a 45 year old housemaid from the Hunupitiya area in Wattala.
+
+She was from Abu Dhadi from AU.38 am on 08.38 am.
+
+After the aircraft landed at the Katunayake airport, all passengers were out of the aircraft, including the pilot after their flight.
+
+Later, they have completed their luggage, when they are ready to go out of the airport, the pilot's trail bag is not available.
+
+After educating the Itiage Aviation Manager, the safe camera system has been monitored with the assistance of airport security personnel.
+
+A woman who was getting off the plane, the airport was observed to go elsewhere, and the bag was observed.
+
+According to the observation of the camera system, she will come out of the airport and leaving a three-wheeler and leaving a three-wheeler.
+
+...
+
+[Data](articles/2b94896b.json)
+
+[Extended Data](ext_articles/2b94896b.ext.json)
+
+---
+
+### Special holidays the next day for Diwali
+
+*2024-10-29 20:38:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீபாவளிக்கு-மறுநாள்-விசேட-விடுமுறை/175-346281) · `ta`
+
+Tamil schools in Uva Province get holiday on Nov 1, 2024 due to Diwali celebration. Classes resume on Nov 9, 2024.
+
+🟩
+
+A special holiday has been issued to Tamil schools in Uva Province on the occasion of Diwali.
+
+As the Diwali festival is to be celebrated tomorrow (31), the Governor of Uva has issued a directive to all the Zonal Education Directors to grant holidays to the Uva Provincial Schools on Friday as it is difficult to attend Tamil students on the day of Diwali.
+
+Accordingly, it has been announced that Tamil schools will be granted holidays on 01.11.2024 and the educational activities will be held on 09.11.2024.
+
+◼️
+
+[Data](articles/8931e48d.json)
+
+[Extended Data](ext_articles/8931e48d.ext.json)
+
+---
 
 ### Will be fulfilled within one and a half years;Assurance
 
@@ -114,6 +168,68 @@ The Leader of the Universal District Candid Entrepreneurship Dilith Jayaweera,
 
 ---
 
+### T Sorsi, Stubs Virgin centuries;South Africa
+
+*2024-10-29 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197456) · `ta`
+
+South Africa leads 2nd Test vs Bangladesh after strong batting performance. Tony de Zorzi and Tristan Stubbs shared 201-run partnership, key to team's success. Pitch favors South Africa, setting stage for series win.
+
+🟩
+
+South Africa is in a strong position with the help of the virgin centuries concentrated in the 2nd Test match at the Sahur Ahmad Chaudhary Stadium against Bangladesh on Tuesday (29).
+
+South Africa, who decided to bat first in the second Test, scored 307 runs for the loss of 2 wickets in its first innings at the end of the first day's match.
+
+South Africa reached its strength as Tony D Source and Triston Stupus shared 201 runs in their eighth and 5th match.
+
+This is the second wicket -in -the -second wicket -shared 3rd wickets shared by the South African pair on Asian soil.
+
+South Africa has laid the foundation to capture the series by reaching a strong position.
+
+South Africa players have taken advantage of the pitch in favor of the pitch.
+
+The opening player Aidon Margram and Tony de Zori shared 69 runs.
+
+Subsequently, Tony De Soozi and Triston Stubs were very responsible and shared 201 runs in the second wicket and shared the total number.
+
+...
+
+[Data](articles/3301ba54.json)
+
+[Extended Data](ext_articles/3301ba54.ext.json)
+
+---
+
+### A person arrested in the production of leakage
+
+*2024-10-29 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197455) · `ta`
+
+Man arrested for producing leaks in Madhulseem. Police found 48,750 ml Koda on rooftop and 14,750 mg Kota hidden in house. Two suspects detained. Investigation ongoing.
+
+🟩
+
+Madhulseem police said that a man who was involved in leakage production in the plantation in the new category of Madhulseem has been arrested.
+
+A man from Madova, aged 49, has been arrested, police said.
+
+Madhulseem police have been searching for the confidential information available to the police that a person is involved in leakage production.
+
+The police said that 48750 milliliters of Koda had been seized on the roof of the house (Civilinkur).
+
+Madhulseem police said that Madhulseem is conducting further investigations against the suspect.
+
+In addition, 14750 mg of kota, which was hidden in the back of the house in the 6th area of ​​the Madulseim police division, was seized, Madhulseem police said.
+
+A 43 -year -old man from the same area has been arrested, police said.
+
+◼️
+
+[Data](articles/143e9dd0.json)
+
+[Extended Data](ext_articles/143e9dd0.ext.json)
+
+---
+
 ### More information about the murder of Kempathite Walawwa
 
 *2024-10-29 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202705) · `si`
@@ -151,6 +267,64 @@ His son, a father of two, lives in Australia and the daughter died before.
 [Data](articles/b2ecaa93.json)
 
 [Extended Data](ext_articles/b2ecaa93.ext.json)
+
+---
+
+### Steps to accelerate digitalization of economics -President
+
+*2024-10-29 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197454) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's President Anura Kumara Dissanayake plans to digitize the entire economy within 3 years. He met with business leaders to discuss sectors like insurance, banking, and tourism. The goal is to strengthen the economy and reduce electricity costs.
+
+🟩
+
+President Anura Kumara Dissanayake has said that in the next three years, the economy will take steps to digitize the entire country by accelerating digitalization.
+
+The President pointed out that the government has already initiated the intervention of digitalization for digitalization through digitalization.
+
+President Anura Kumara Dissanayake pointed out this at a meeting held at the Presidential Office on Tuesday (29) with the representatives of the Business Council.
+
+Representatives of the Business Board have agreed to assist the economic progress without getting any allowance and salary.
+
+The issues and future goals of many sectors, including insurance, banking, construction, tourism, plantation industry, small and central quality business, were discussed at this time.
+
+President Anura Kumara Dissanayake said that steps will be taken to strengthen the country's economy and make concessions to the people.
+
+...
+
+[Data](articles/9008ca2e.json)
+
+[Extended Data](ext_articles/9008ca2e.ext.json)
+
+---
+
+### Decisions will be taken to protect both sides, including bank structure and entrepreneurship to build the country's economy - the President
+
+*2024-10-29 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197453) · `ta`
+
+Sri Lanka's President Anura Kumara Dissanayake addresses economic challenges, focusing on banking reforms and protecting entrepreneurs. He emphasizes digitalization, fraud prevention, and regulatory measures to stabilize the economy.
+
+🟩
+
+President Anura Kumara Dissanayake has promised to take steps to take the country and to take the steps to be taken without any special series with any party in the building of the country and develops the economy.
+
+The President made this statement while addressing the Presidential Office at the Presidential Office on Tuesday (29).
+
+Focusing on the role of banks and their problems in building the economy of Sri Lanka.
+
+The President said that the importance of digitalization in Sri Lanka and the obtaining digital identity cards was discussed and that steps would be taken to complete the tasks in one and a half years.
+
+The president, who has endured the bank's structure with the economic crisis and focused on the protection of entrepreneurs, pointed out that it is a complication to misuse the entrepreneurship.. The President also stressed the need for banks to carry out complete activities to protect the entrepreneurs.
+
+...
+
+[Data](articles/58ee0114.json)
+
+[Extended Data](ext_articles/58ee0114.ext.json)
 
 ---
 
@@ -195,6 +369,24 @@ It is reported that a security guard at the Beliyatta railway station was search
 [Data](articles/3ccba384.json)
 
 [Extended Data](ext_articles/3ccba384.ext.json)
+
+---
+
+### காசாவின் மத்திய பகுதியில் உள்ளநகரத்தின் மீது இஸ்ரேல் தாக்குதல் - 90க்கும் அதிகமானவர்கள் பலி என அச்சம்
+
+*2024-10-29 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197452) · `ta`
+
+காசாவின் மத்திய பகுதியில் உள்ள  பெய்ட் லகியா நகரில் இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 93 பேர் கொல்லப்பட்டுள்ளனர் அல்லது காணாமல்போயுள்ளனர் என ஹமாசின் மருத்துவ பிரிவு தெரிவித்துள்ளது.
+
+ஐந்து மாடிக்கட்டிடமொன்றே தாக்கப்ட்டதாக மீட்பு பணியாளர்கள் தெரிவிக்கின்றனர் . தரையில் துணியால் போர்த்தப்பட்ட உடல்களின் படங்கள் சமூக ஊடக ங்களில் வெளியாகியுள்ளன.
+
+தனது மருத்துவமனையில் சிறுவர்கள் அனுமதிக்கப்பட்டுள்ளனர் என ஜபாலியாவில் உள்ள கமால் அட்வான் மருத்துவமனையின் இயக்குநர் குசாம் அபு சைபா தெரிவித்துள்ளார்.
+
+போதிய மருந்துகள்  இன்மையால் தனது மருத்துவமனை சிகிச்சை அளிப்பதில் சிரமங்களை எதிர்கொண்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/7dd05df4.json)
 
 ---
 
@@ -256,6 +448,20 @@ Two people have left the compartment at the Beliatta Railway Station at the Beli
 
 ---
 
+### அரச ஊழியர்களின் சம்பள அதிகரிப்பு தொடர்பான வாக்குறுதியை அரசாங்கம் மறுப்பதை ஏற்றுக்கொள்ள முடியாது - ருவன் விஜேவர்த்தன
+
+*2024-10-29 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/197451) · `ta`
+
+நாட்டில் மாற்றத்தை ஏற்படுத்துவதாக தெரிவித்து அதிகாரத்துக்கு வந்த அரசாங்கம் மக்கள் எதிர்பார்க்கும் எந்த மாற்றத்தையும் இதுவரை ஏற்படுத்தவில்லை. ஆனால் முன்னாள் ஜனாதிபதிகளின் வரப்பிரசாதங்களை இல்லாமல் செய்வது தொடர்பாக மாத்திரமே கதைத்து வருகின்றனர். ஆறு மாதங்களுக்கு ஒரு முறை அரச ஊழியர்களுக்கு சம்பளம் அதிகரிப்பதாக தெரிவித்த விடயத்தையும் அரசாங்கம் தற்போது மறுத்து வருகிறது என புதிய ஜனநாயக முன்னணியின் கம்பஹா மாவட்ட வேட்பாளருமான ருவன் விஜேவர்த்தன தெரிவித்தார்.
+
+கொழும்பில் அமைந்துள்ள புதிய ஜனநாயக முன்னணியின் தேர்தல் வழிடத்தல் காரியாலயத்தில் செவ்வாய்கிழமை (29)  இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/6965912d.json)
+
+---
+
 ### The entire process of protecting the bank and the entrepreneur should be carried out - President
 
 *2024-10-29 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202702) · `si`
@@ -312,6 +518,44 @@ We are very much to increase salaries and allowances to public servants and priv
 
 ---
 
+### Dr. Harsha de Silva is not allocated for the salary increase of state officials
+
+*2024-10-29 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197446) · `ta`
+
+Dr. Harsha de Silva criticizes government claims about salary increases and rice imports. Finance Ministry report contradicts Prime Minister's statement on funding allocation. Government accused of lying about funds and rice availability.
+
+🟩
+
+According to the Finance Ministry's report, the last government decided to increase the salaries of state officials. Therefore, it is not acceptable to say that it is not allocated for this in the Treasury. Former United People's Power Member Dr. Harsha de Silva questioned why the government is lying on the funds.
+
+He said this at a press conference held at the United People's Alliance headquarters in Colombo yesterday.
+
+The Prime Minister has said that funds have not been allocated to increase the salaries of state officials. But they said they were looking to increase their salary by six months before the election. 13 percent used the report of the Finance Ministry signed by 3 persons under the definition of parallel cost of national production for a resolution on the last Cabinet pay increase.
+
+...
+
+[Data](articles/ae60bfd9.json)
+
+[Extended Data](ext_articles/ae60bfd9.ext.json)
+
+---
+
+### ලංකා T10 සුපර් ලීග් ක්‍රිකට් තරගාවලියේ ක්‍රීඩකයන් තෝරා ගැනීම ලබන 10 වැනිදා
+
+*2024-10-29 18:14:54* · [`adalk`](https://www.ada.lk/sports/ලංකා-T10-සුපර්-ලීග්-ක්‍රිකට්-තරගාවලියේ-ක්‍රීඩකයන්-තෝරා-ගැනීම-ලබන-10-වැනිදා/9-412745) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පළමු වරට සංවිධාන කරන ලංකා T10 සුපර් ලීග් ක්‍රිකට් තරගාවලියේ ක්‍රීඩක කෙටුම්පත් කිරීමේ අවස්ථාව (Draft) නොවැම්බර් 10 වැනිදා කොළඹ දී සිදු කරන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පැවසීය.
+
+දෙසැම්බර් 12 වැනිදා සිට 22 වැනිදා දක්වා පැවැත්වෙන මෙම තරගාවලියේ කණ්ඩායම් 06ක් නියෝජනය කරමින් දෙස් විදෙස් ක්‍රීඩා තරු ක්‍රීඩා කිරීමට නියමිතව ඇත.
+
+සෑම කණ්ඩායමකටම සිය සංචිතය සදහා උපරිම වශයෙන් ක්‍රීඩකයින් 17 දෙනෙකු හා අවම වශයෙන් ක්‍රීඩකයින් 15 දෙනෙකු තෝරා ගත හැකියාව පවතී.
+
+◼️
+
+[Data](articles/023bbe38.json)
+
+---
+
 ### Arrests for stealing pilot's pilot
 
 *2024-10-29 18:14:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானியின்-பயணப்பொதியை-திருடிய-பணிப்பெண்-கைது/175-346277) · `ta`
@@ -335,28 +579,6 @@ It has also been revealed that the woman was rushed to the three -wheeler to lea
 [Data](articles/72648c62.json)
 
 [Extended Data](ext_articles/72648c62.ext.json)
-
----
-
-### Dr. Harsha de Silva is not allocated for the salary increase of state officials
-
-*2024-10-29 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/197446) · `ta`
-
-Dr. Harsha de Silva criticizes government claims about salary increases and rice imports. Finance Ministry report contradicts Prime Minister's statement on funding allocation. Government accused of lying about funds and rice availability.
-
-🟩
-
-According to the Finance Ministry's report, the last government decided to increase the salaries of state officials. Therefore, it is not acceptable to say that it is not allocated for this in the Treasury. Former United People's Power Member Dr. Harsha de Silva questioned why the government is lying on the funds.
-
-He said this at a press conference held at the United People's Alliance headquarters in Colombo yesterday.
-
-The Prime Minister has said that funds have not been allocated to increase the salaries of state officials. But they said they were looking to increase their salary by six months before the election. 13 percent used the report of the Finance Ministry signed by 3 persons under the definition of parallel cost of national production for a resolution on the last Cabinet pay increase.
-
-...
-
-[Data](articles/ae60bfd9.json)
-
-[Extended Data](ext_articles/ae60bfd9.ext.json)
 
 ---
 
@@ -2239,209 +2461,5 @@ Meanwhile, he noted that the US has announced that it will be observed in visiti
 [Data](articles/e79e2865.json)
 
 [Extended Data](ext_articles/e79e2865.ext.json)
-
----
-
-### The request made by Minister Vijitha's request from those who need passport
-
-*2024-10-29 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202684) · `si`
-
-Minister Vijitha Herath requests Immigration & Emigration to issue passports. New stocks expected soon. Current system overwhelmed due to fraud attempts. Limiting tokens for urgent cases only.
-
-🟩
-
-Cabinet spokesman Vijitha Herath requests the Immigration and Emigration Department to obtain foreign passports.
-
-He said that the new passport will be received and that after receiving the stock, the problem will be solved.
-
-Last days, the arrival of large number of people to obtain passport to the Immigration and Emigration Office, the Battaramulla was taken to the Immigration and Emigration Office.
-
-...
-
-[Data](articles/ab631de1.json)
-
-[Extended Data](ext_articles/ab631de1.ext.json)
-
----
-
-### Petition against IGP appointment: SC allows naming ex-President Ranil as respondent
-
-*2024-10-29 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103003/petition-against-igp-appointment-sc-allows-naming-ex-president-ranil-as-respondent) · `en`
-
-The Supreme Court has allowed naming former President Ranil Wickremesinghe as a respondent of a petition filed challenging the appointment of Deshabandu Tennakoon as the Inspector General of Police (IGP).
-
-A petition filed by the Young Journalists’ Association against Tennakoon’s appointment as the IGP was taken up before the two-member Supreme Court judge bench comprising Justices Preethi Padman Surasena and Janak de Silva today (29).
-
-During the trial, President’s Counsel Saliya Peiris who appeared for the petitioning party requested the court for permission to name the former President as a respondent of the case.
-
-Accordingly, the judge bench which allowed naming of former President Wickremesinghe as a respondent, also ordered the petition to be recalled on November 11.
-
-◼️
-
-[Data](articles/8c22e716.json)
-
-[Extended Data](ext_articles/8c22e716.ext.json)
-
----
-
-### Car at Vaddukoddai - motorcycle accident;One is hurt!
-
-*2024-10-29 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/197380) · `ta`
-
-Motorcycle passenger injured in collision near Sankara Hospital, Vaddukoddai, Jaffna.
-
-🟩
-
-A car and a motorcycle collided with a car and a motorcycle from Vaddukoddai Jaffna College, 200 meters away from Sankara.
-
-A motorcycle passenger has been admitted to the hospital for treatment.
-
-◼️
-
-[Data](articles/49a6e94b.json)
-
-[Extended Data](ext_articles/49a6e94b.ext.json)
-
----
-
-### New govt. has not printed any currency notes, Minister clarifies
-
-*2024-10-29 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103002/new-govt-has-not-printed-any-currency-notes-minister-clarifies) · `en`
-
-The new government has neither printed any currency notes nor obtained loans from any foreign institution, Minister Vijitha Herath claims.
-
-In response to a question raised by a journalist during today’s Cabinet press conference, Minister Herath further elaborated: “In general, the Central Bank of Sri Lanka has a system of issuing new treasury bills and bonds proportionally when they expire. That process is something that happens every day.”
-
-“Also, if it comes to currency printing, new notes have not been printed, it cannot be done. We would also like to see a currency note with the new President’s signature, but so far nothing has been issued like that. It is completely fake news”, Herath added.
-
-◼️
-
-[Data](articles/ac1a3157.json)
-
-[Extended Data](ext_articles/ac1a3157.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-10-29 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197382) · `ta`
-
-US dollar exchange rate: 289.0815 rupees buying price, 298.1697 selling price. Central Bank announcement on Tuesday, March 29.
-
-🟩
-
-The US dollar purchasing price was 289.0815 rupees and the sales price were 298.1697 based on a currency exchange rate released by the Central Bank on Tuesday (29).
-
-◼️
-
-[Data](articles/f4aa8301.json)
-
-[Extended Data](ext_articles/f4aa8301.ext.json)
-
----
-
-### What happened in the presidential election in the country?
-
-*2024-10-29 11:37:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdrd02xzy18o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Presidential election in Sri Lanka: Ayiyathurai not contesting parliamentary election; Pakiyaselvam Ariyaratne common candidate; UPFA opposed decision; Parliament dissolved after election; Ariyaratne denies involvement in national list seat; Tamil parties focus on Batticaloa district representation.
-
-🟩
-
-The parliamentary electorate is focused on major candidates who have been presented to the last presidential election.
-
-In such a situation, it is noteworthy that the Paraikiyanattairan was not present at the general election.
-
-Ayiyanaththiran, who said that the people's problems in the North and East, is not contesting the parliamentary election from any party or independent group.
-
-Pakiyaselwam Ariyantrairan is a member of the Batticaloa District, representing the Batticaloa District, the Batticaloa district.
-
-Before he was born on 1 February 1955, Ayiyanthirane was born in the politics of the Department of Animal Production and Health.
-
-At the 2004 parliamentary election, he was elected to Parliament for the first time in the 2010 parliamentary election, representing the TNA representation of the Batticaloa District.
-
-The 2015 and 2020 parliamentary elections were also present on the Batticaloa District, he cannot be won by the parliamentary cases.
-
-...
-
-[Data](articles/bfceeb64.json)
-
-[Extended Data](ext_articles/bfceeb64.ext.json)
-
----
-
-### Two persons arrested with ice drugs and gun in Kalkissa
-
-*2024-10-29 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197369) · `ta`
-
-Two arrests made in Kalkissa: one person caught with ice drugs and a revolver, another found with ice drugs. Police seized 800mg and 12g of ice, along with a foreign-made rifle.
-
-🟩
-
-Two suspects have been arrested on Monday (28) with ice drugs and rifle during two rounds of operations in the Kalkissa area, police said.
-
-Accordingly, a suspect has been arrested with an ice drug and a revolver rifle in the Ratmalana area, which belongs to the Kalkis police division.
-
-800 milligrams of Ice was seized by the police from the arrested suspect.
-
-During an investigation into the arrested suspect, police seized a relative rifle manufactured abroad hidden in a house in Moratuwa area.
-
-Meanwhile, a suspect was arrested by the police yesterday (28) with ice drugs in the area of ​​the Kalkissa police division.
-
-12 grams of 630 milligrams of ice from the suspect was seized by the police.
-
-◼️
-
-[Data](articles/7b892a7a.json)
-
-[Extended Data](ext_articles/7b892a7a.ext.json)
-
----
-
-### Railway Station Masters to launch immediate trade union action
-
-*2024-10-29 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103001/railway-station-masters-to-launch-immediate-trade-union-action) · `en`
-
-The Railway Station Masters’ Association has decided to launch an immediate trade union action, over issues pertaining to the post of Railway Station Master.
-
-President of the association Sumedha Somarathne stated that they will launch the relevant trade union action if no favorable response is received to their demands within 72 hours starting from yesterday (28).
-
-He further mentioned that they arrived at this decision since no favorable response has been received from the authorities pertaining to issues of the Railway Station Masters including promotions, despite repeated demands.
-
-...
-
-[Data](articles/7d485808.json)
-
-[Extended Data](ext_articles/7d485808.ext.json)
-
----
-
-### The murder of former Pradeshiya Sabha member
-
-*2024-10-29 11:35:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-பிரதேச-சபை-உறுப்பினர்-படுகொலை/175-346258) · `ta`
-
-Former Pradeshiya Sabha member murdered in Kegalle, Sri Lanka. 75-year-old Krishantha Pulasti found dead in bed. Wife assaulted, mouth tied. Suspects stole car, arrested in Bindeniya. Police investigating motive.
-
-🟩
-
-A former member of the Kegalle Pradeshiya Sabha of the Sri Lanka PA has been rescued at his home in Kgalle, Kosusinna, police said.
-
-The 75 -year -old Krishantha Pulasti was found in a bed of hands and legs in bed.
-
-Police said the suspects who entered the house were also assaulted by the Pulasti's wife and the wife's mouth was tied up during the incident.
-
-The suspects have stolen the vehicle from the apartment and have been rescued in the Bindeniya area.
-
-The purpose of the Samkegawa has not yet been released and the Kegalle police are conducting investigations to arrest those involved in the incident.
-
-◼️
-
-[Data](articles/e12f6d49.json)
-
-[Extended Data](ext_articles/e12f6d49.ext.json)
 
 ---

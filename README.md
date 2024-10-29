@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 00:57:28**
+As of **2024-10-30 01:09:20**
 
 ## Newspaper Stats
 
-*Scraped **52,111** Articles*
+*Scraped **52,112** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 413
-colombotelegraphcom | 528
+colombotelegraphcom | 529
 bbccomsinhala | 530
 islandlk | 3,097
 economynextcom | 3,170
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,111 (100.0%) of 52,111 articles have been extended.
+52,112 (100.0%) of 52,112 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -853,6 +853,22 @@ Officers from the Tangalle Division Crimes Unit and Beliatta Police have launche
 [Data](articles/88938e36.json)
 
 [Extended Data](ext_articles/88938e36.ext.json)
+
+---
+
+### What Is Wrong With Us?
+
+*2024-10-29 19:07:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/what-is-wrong-with-us/) · `en`
+
+We are convinced (or conditioned to believe,) that we are an under-developed country and are destined to ever remain so. Should it really be such? Importantly, what should we do to erase this patronizing and degrading label? This mental complex has led us to be a cynical, despondent people. The past seven decades of Independence have driven us into the depths of despair. The worst part of this is that we have so driven our thoughts, to make this fear to become our reality.
+
+We have failed to utilize our potential – be it in climate, human resources or other “development criteria”. This clearly needs to change. Perhaps, we are not the cat’s whiskers, nor certainly are we everybody’s chronic “dog’s body”.
+
+...
+
+[Data](articles/3067fdb6.json)
+
+[Extended Data](ext_articles/3067fdb6.ext.json)
 
 ---
 
@@ -2489,27 +2505,5 @@ EspressApp uses OTP Password information sended by WhatsApp messages, especially
 [Data](articles/92660f1e.json)
 
 [Extended Data](ext_articles/92660f1e.ext.json)
-
----
-
-### US Embassy, WhimsicalWits launch Cyber Hero app to promote digital safety in Sri Lanka
-
-*2024-10-29 13:18:00* · [`economynextcom`](https://economynext.com/us-embassy-whimsicalwits-launch-cyber-hero-app-to-promote-digital-safety-in-sri-lanka-185436/) · `en`
-
-ECONOMYNEXT – The US Embassy in Sri Lanka and WhimsicalWits has launched a mobile app to educate and empower youth and marginalized communities on digital safety and responsible online behavior.
-
-The Cyber Hero app was developed by a female-led team at WhimsicalWits to promote cybersecurity and digital literacy.
-
-It teaches users how to recognize and respond to cyber threats, such as phishing, malware, and privacy breaches, making it an effective resource for building digital resilience among young people and communities.
-
-“Cybersecurity isn’t just a global issue; it’s personal and local,” US Ambassador Julie Chung said at the launch event held at the American Center in Colombo, where Chung and Uthpala Pathirana, Managing Director of WhimsicalWits demonstrated the app.
-
-The app, which is available for free on the Google Play Store, is designed to immerse players in real-world online safety scenarios.
-
-...
-
-[Data](articles/5ee91ea4.json)
-
-[Extended Data](ext_articles/5ee91ea4.ext.json)
 
 ---

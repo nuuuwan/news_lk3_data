@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 17:41:10**
+As of **2024-10-29 18:01:03**
 
 ## Newspaper Stats
 
-*Scraped **52,048** Articles*
+*Scraped **52,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,840
-adaderanalk | 6,169
-tamilmirrorlk | 7,214
+adaderanalk | 6,170
+tamilmirrorlk | 7,215
 virakesarilk | 8,401
-adaderanasinhalalk | 9,055
+adaderanasinhalalk | 9,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,047 (100.0%) of 52,048 articles have been extended.
+52,053 (100.0%) of 52,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Sri Lanka’s Central Bank responds to reports of ‘money printing’
+
+*2024-10-29 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103015/-sri-lankas-central-bank-responds-to-reports-of-money-printing) · `en`
+
+The Central Bank of Sri Lanka (CBSL) today rejected as ‘completely baseless’ the recent reports claiming that the CBSL has printed currency notes to the value of Rs. 1 billion through Sri Lanka’s open market operations.
+
+Issuing a clarification in this regard, the CBSL explained that providing liquidity through open market operations is among the general affairs carried out by the Central Bank.
+
+Further, the CBSL clarified that the open market operations are conducted to maintain price stability through managing the interest rate, and that this measure cannot be classified as mere money printing.
+
+Additionally, the statement highlighted that the said reports have been published regarding the auctions and cash operations carried out by the Central Bank of Sri Lanka in the general open market activities.
+
+...
+
+[Data](articles/6a065360.json)
+
+[Extended Data](ext_articles/6a065360.ext.json)
+
+---
+
+### Did you pride money?Explanation from the Central Bank
+
+*2024-10-29 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202699) · `si`
+
+Central Bank of Sri Lanka denies printing money for government budget. Explains open market operations for price stability, not for funding. Clarifies reports about 100 billion rupees were about providing liquidity, not creating currency.
+
+🟩
+
+The Central Bank of Sri Lanka has issued a statement explaining the reports that have been published.
+
+It states that the reports that the Central Bank of Sri Lanka has been molded for 100 billion rupees.
+
+The General Bank is a general central banking service to provide liquidity through open market operations. Open market is done to maintain the price stability through managing interest rates, and it cannot be used as a mechanket.
+
+This has not had a money printed or misleading money for government budget, but there is only a general process that is carried out to achieve the objectives of the Central Bank's price stability.
+
+The following report is published in auction and financial operations implemented in the General Opening Operations carried out by the Central Bank of Sri Lanka.
+
+◼️
+
+[Data](articles/bea6059a.json)
+
+[Extended Data](ext_articles/bea6059a.ext.json)
+
+---
+
+### “We will carry out the strike tomorrow
+
+*2024-10-29 17:24:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-வேலைநிறுத்தப்-போராட்டத்தை-முன்னெடுப்போம்/175-346276) · `ta`
+
+Sri Lanka Railway Station Principals Association SLRSMU announces strike tomorrow over administrative issues. Leader Somatna calls for President and Minister to address problems. Strike aims to improve passenger facilities and rail services.
+
+🟩
+
+The Sri Lanka Railway Station Principals Association (SLRSMU) has decided to carry out a trade union struggle tomorrow if the President and the Minister does not address the administrative issues within the Railway Department.
+
+SLRSMU leader Somata Somata Somaratne said he was holding a media briefing on these issues over the past few days.
+
+“Today, by the Railway General Manager, some subordinate authorities are unable to provide the right solution to the problems that arise.
+
+Accordingly, our trade union action will continue on the basis of a discussion held with the Secretary or Minister of the Ministry tomorrow.
+
+“The Railway Department has failed to provide the necessary facilities for passengers and maintain rail services. Trains are canceled daily or derailed.
+
+We can't allocate the machine for an additional school train from Nanuoya to Kandy. During the last government, we were on strike, but we were forced to ignore our demands due to administrative issues, ”Somatna said.
+
+...
+
+[Data](articles/11041247.json)
+
+[Extended Data](ext_articles/11041247.ext.json)
+
+---
 
 ### “The Prime Minister's opinion is false”
 
@@ -130,6 +204,26 @@ The film, starring Raghava Lawrence, is also observed that the film will be rele
 
 ---
 
+### Station Masters warn on strike
+
+*2024-10-29 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202698) · `si`
+
+Station Masters' Association warns of strike due to failed negotiations with Minister. Chairman Sumedha Somaratne confirms talks with General Manager were unsuccessful today.
+
+🟩
+
+The Station Masters' Association (Masters) Association says that if the talks with the Minister has failed to work with the Minister.
+
+Chairman of the President Sumedha Somaratne said the discussions were failed to be held today with the General Manager.
+
+◼️
+
+[Data](articles/b7cd18e8.json)
+
+[Extended Data](ext_articles/b7cd18e8.ext.json)
+
+---
+
 ### Ravaikkuttu recovery on Beliyatta - Kandy high -speed train
 
 *2024-10-29 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197426) · `ta`
@@ -151,6 +245,30 @@ Immediately the incident was notified to the Beliyatta Railway Station Chancello
 [Data](articles/157fb0f1.json)
 
 [Extended Data](ext_articles/157fb0f1.ext.json)
+
+---
+
+### Report of the Colombo Stock Exchange
+
+*2024-10-29 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202697) · `si`
+
+Colombo Stock Exchange report: ASPI rose 135.54 points to 12,745.60, highest since Feb 3, 2022. S&P L20 index also increased.
+
+🟩
+
+All Stock Price Index (ASPI) increased by 135.54 units today.
+
+At the end of transactions on the date, all stock price index was recorded as 12,745.60 points.
+
+This is the highest number of recorded in the Independence Price after 3 February 3, 2022.
+
+Meanwhile, the S & PL20 index and increased to Rs.
+
+◼️
+
+[Data](articles/7b374362.json)
+
+[Extended Data](ext_articles/7b374362.ext.json)
 
 ---
 
@@ -2295,125 +2413,5 @@ A satirical drawing depicting modern society's quirks and flaws. It humorously e
 [Data](articles/f2ca42e7.json)
 
 [Extended Data](ext_articles/f2ca42e7.ext.json)
-
----
-
-### Postal voting for 2024 General Election to commence tomorrow
-
-*2024-10-29 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102996/postal-voting-for-2024-general-election-to-commence-tomorrow) · `en`
-
-The postal voting for the upcoming General Election 2024 is set to commence tomorrow (30).
-
-The Election Commission has announced that postal voting will take place at all police stations, District Secretariats, Election Commission Offices, and the Offices of the IGP, starting tomorrow.
-
-Additionally, it is also allowed to cast postal votes at these offices on November 4.
-
-In addition, for the armed forces and other government institutions, postal voting will be available on November 1 and November 4, the Election Commission said.
-
-The postal voters who could not vote within these days will be allowed to vote at their respective District Secretariat where their workplace is located.
-
-Meanwhile, Rohana Hettiarachchi, the Executive Director of People’s Action for Free & Fair Elections (PAFFREL), has indicated that nearly a thousand officials will be deployed to observe the postal voting process during this year’s General Election.
-
-◼️
-
-[Data](articles/1111a551.json)
-
-[Extended Data](ext_articles/1111a551.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 293.70/75 to US dollar, bond yields steady
-
-*2024-10-29 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-293-70-75-to-us-dollar-bond-yields-steady-185417/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee depreciated slightly to open at 293.70/75 to the US dollar on Tuesday, from 293.60/70 a day earlier, while bond yields were broadly steady dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.60/80 percent, up from 10.55/75 percent.
-
-A bond maturing on 15.12.2027 was quoted stable at 11.45/50 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.70/75 percent, up from 11.65/75 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.95/12.05 percent, down from 11.95/12.10 percent.
-
-In equities, Colombo’s All Share Price Index was trading up 0.26 percent, or 33.25 points higher at 12,643, while the S&P SL20 of more liquid stocks was trading up 0.59 percent or 22.40 points higher at 3,813.
-
-◼️
-
-[Data](articles/24cebeb7.json)
-
-[Extended Data](ext_articles/24cebeb7.ext.json)
-
----
-
-### Matthew Wade retires from international cricket
-
-*2024-10-29 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202678) · `si`
-
-Matthew Wade retires from international cricket after 153 games. Key achievements: 3 World Cups, including 44-run semi-final knock. Also known for Test century in 2019.
-
-🟩
-
-He was announced today (Matthew Wade, who is considered to be a generator of Australia.
-
-Wadekavi had played 36 Tests, 97 ODIs and 20 -20 international matches for Australia.
-
-The 36-year-old Wed T20 World Cup was represented in three World Cups.
-
-In the semi-finals of the tournament, Wade is honored to take Australia to the finals of 44 off 17 balls.
-
-The Test century, which was played at the Test cricket tournament in 2019, states as a Test century in 2019.
-
-Matthew Wade refers to the International Cricket Tournament and playing the Big Bash League.
-
-Meanwhile, the Cric Info website reports that Wid Australia team is scheduled to join the Australian trainer during the visit of the Wid Australia.
-
-◼️
-
-[Data](articles/10dc78c3.json)
-
-[Extended Data](ext_articles/10dc78c3.ext.json)
-
----
-
-### Declaration of National Jump to be borrowing
-
-*2024-10-29 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202677) · `si`
-
-Current government borrowed money within parliamentary limits. Dr. Nalinda Jayatissa states these will change in next parliament session.
-
-🟩
-
-The current government has obtained loans from the limits approved by the Parliament, says Dr. Nalinda Jayatissa.
-
-He points out that these limitations are expected to be amended in the next parliament.
-
-Dr. Nalinda Jayatissa made these comments participating with the 360 ​​time program aired on the night of the TV Derana yesterday.
-
-◼️
-
-[Data](articles/e1e9e8af.json)
-
-[Extended Data](ext_articles/e1e9e8af.ext.json)
-
----
-
-### Candidate arrested with dissolved flour
-
-*2024-10-29 09:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரைத்த-மாவுடன்-வேட்பாளர்-கைது/175-346249) · `ta`
-
-Candidate arrested over dissolved flour Ambalangoda police detained six, including election contender, for allegedly dissolving wheat dough. Former local government member among arrests. Candidate claims illegal to arrest during election campaign.
-
-🟩
-
-Ambalangoda police said that six people, including a candidate contesting the general election, were arrested on Tuesday morning (29), alleging that the wheat dough was dissolved and taken to his jeep.. Doubt.
-
-Among those arrested include a former member of the Local Government. However, the candidate says it was illegal to arrest himself as a candidate in the general election.
-
-◼️
-
-[Data](articles/8718d911.json)
-
-[Extended Data](ext_articles/8718d911.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 19:13:00**
+As of **2024-10-29 19:24:14**
 
 ## Newspaper Stats
 
-*Scraped **52,068** Articles*
+*Scraped **52,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,162
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,843
-adaderanalk | 6,170
+adaderanalk | 6,172
 tamilmirrorlk | 7,218
 virakesarilk | 8,408
 adaderanasinhalalk | 9,060
@@ -26,23 +26,63 @@ adaderanasinhalalk | 9,060
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,065 (100.0%) of 52,068 articles have been extended.
+52,068 (100.0%) of 52,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
 
-### දුම්රියේ ආසනයක් යටින්  T56 උණ්ඩ තොගයක්
+### Cache of T56 bullets found on Maradana-Beliatta train
+
+*2024-10-29 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103017/cache-of-t56-bullets-found-on-maradana-beliatta-train) · `en`
+
+The railway security officers at the Beliatta Station have discovered a stock of 57 bullets used in T56 assault rifles inside a backpack left under a seat in a compartment of a train operating from Maradana to Beliatta.
+
+The train, which departed Maradana at 6.30 a.m., had reached Beliatta around 12.15 p.m. today (29).
+
+The black colour bag was found during a routine compartment check by a railway security officer. Just before the discovery, two passengers in the third-class compartment No. 798 had disembarked, leaving the bag under their seat. Upon inspection, railway officials have found a magazine filled with T56 bullets.
+
+Officers from the Tangalle Division Crimes Unit and Beliatta Police have launched an investigation into the incident.
+
+◼️
+
+[Data](articles/88938e36.json)
+
+---
+
+### President assures decisive economic measures to protect banking sector and entrepreneurs
+
+*2024-10-29 19:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103016/president-assures-decisive-economic-measures-to-protect-banking-sector-and-entrepreneurs) · `en`
+
+President Anura Kumara Dissanayake has emphasized that, since neither he nor his administration has special ties or obligations to any party within the country’s development or business sectors, they are positioned to make decisions impartially and decisively for the sake of national economic recovery.
+
+These remarks were made during a meeting today (29) with members of the Sri Lanka Banks’ Association at the Presidential Secretariat, where discussions focused on the banking sector’s role and challenges in supporting Sri Lanka’s economic growth, the President’s Media Division (PMD) said in a statement.
+
+The President highlighted the critical importance of digitizing Sri Lanka’s economy, including the implementation of a National Digital ID initiative, which he pledged would be completed within a focused timeframe of one and a half years.
+
+...
+
+[Data](articles/cf3e0bf4.json)
+
+---
+
+### T56 bullets under a seat on a train
 
 *2024-10-29 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202703) · `si`
 
-අද (29) පෙරවරුවේ මරදාන සිට බෙලිඅත්ත දක්වා ධාවනය වූ දුම්රියක තුන්වැනි පන්තියේ මැදිරියක ආසනයක් යට තිබී ටී 56 උණ්ඩ 57ක් දුම්රිය ආරක්ෂක අංශ සොයා ගෙන තිබේ.
+Bullets discovered under train seat between Maradana and Beliatta. Found by passengers exiting at Beliatta station. Incident occurred on 29th.
 
-එක් ආරක්ෂක නිලධාරියෙක් බෙලිඅත්ත දුම්රිය ස්ථානයේදී මැදිරි පරීක්ෂා කිරීමේදී පුද්ගලයින් දෙදෙනෙක් එම මැදිරියෙන් පිටව ගොස් ඇති අතර පසුව ඔවුන් දෙදෙනා අසුන්ගෙන සිටි ආසන යට තිබී මෙම උණ්ඩ සහිත බෑගය සොයා ගත් බව වාර්තා වෙයි.
+🟩
+
+The railway measures have been recovered from a seat in Maradana to Beliatta today (29).
+
+Two people have left the compartment at the Beliatta Railway Station at the Beliatta Railway Station and later found this bullest bag under the seats.
 
 ◼️
 
 [Data](articles/a7a7f9e6.json)
+
+[Extended Data](ext_articles/a7a7f9e6.ext.json)
 
 ---
 
@@ -440,21 +480,27 @@ Moreover, a major party will be pleading with the people to vote for their party
 
 ---
 
-### පළමු දිනයේදීම දකුණු අප්‍රිකාවෙන් බංග්ලාදේශයට දැඩි ප්‍රහාරයක්
+### South Africa attacked Bangladesh in South Africa on the first day
 
 *2024-10-29 16:59:03* · [`adalk`](https://www.ada.lk/sports/පළමු-දිනයේදීම-දකුණු-අප්‍රිකාවෙන්-බංග්ලාදේශයට-දැඩි-ප්‍රහාරයක්/9-412742) · `si`
 
-සංචාරක දකුණු අප්‍රිකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩාය අතර පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගයේ පළමු දිනය සඳහා වන තරගය අද (29දා) අවසන් විය.
+South Africa vs Bangladesh Test match summary: South Africa won the toss and batted first, scoring 141* and 106*. Taijul Islam took 2 wickets for 110 runs.
 
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් දකුණු අප්‍රිකා කණ්ඩාය දිනය අවසන් වන විට පන්දුවාර 81 අවසානයේ කඩුලු 2ක් දැවී ලකුණු 307ක් ලබා සිටියහ.
+🟩
 
-එහිදී ටෝනි ද සෝර්සි නොදැවී ලකුණු 141ක් සහ ට්‍රිස්ටන් ස්ටබ්ස් 106ක් රැස් කළහ.
+The first day of the second Test match between the tourist South African and the Bangladesh team, the match was held today (29).
 
-පන්දු යැවීමේදී තයිජුල් ඉල්ස්ලාම් ලකුණු 110ට කඩුලු 2ක් බිඳ හෙළුවේය.
+The South Africa won the ball first by the end of the 81 wickets at the end of 81 overs.
+
+Tony also scored 141 not out and 106 Triston Stabs.
+
+Taijul Ilam took 2 wickets for 110 runs.
 
 ◼️
 
 [Data](articles/db91bfe5.json)
+
+[Extended Data](ext_articles/db91bfe5.ext.json)
 
 ---
 
@@ -1158,17 +1204,23 @@ No one can speak to any people, not just our people. We will never save the wron
 
 ---
 
-### HPV தடுப்பூசி: 4 மாணவிகள் மயங்கினர்
+### HPV vaccine: 4 students faint
 
 *2024-10-29 14:34:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/HPV-தடுப்பூசி-4-மாணவிகள்-மயங்கினர்/95-346267) · `ta`
 
-கர்ப்பப்பை வாய்ப் புற்றுநோய்க்கான தடுப்பூசியைப் பெற்றுக் கொண்ட வாதுவ பாடசாலை ஒன்றின் நான்கு மாணவிகள் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பாணந்துறை ஆதார வைத்தியசாலையின் பேச்சாளர் ஒருவர் தெரிவித்தார்.
+HPV vaccine side effects: Four students fainted after receiving cervical cancer vaccine. Symptoms included vomiting and difficulty breathing. All hospitalized at Panadura Base Hospital.
 
-வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நான்கு மாணவிகளுக்கும் வாந்தி, சுவாசிப்பதில் சிரமம் போன்ற அறிகுறிகள் காணப்படுவதாக வைத்தியசாலை பேச்சாளர் ஒருவர் தெரிவித்தார்.
+🟩
+
+A spokesman for the Panadura Base Hospital said that four students of a Vatuwa school who received a vaccine for cervical cancer have been admitted to the hospital.
+
+A hospital spokesman said that all four students who were taken to the hospital have signs of vomiting and breathing.
 
 ◼️
 
 [Data](articles/3c24512b.json)
+
+[Extended Data](ext_articles/3c24512b.ext.json)
 
 ---
 
@@ -2355,51 +2407,5 @@ A press conference held today (29), he said that no institution or foreign loan 
 [Data](articles/7e85da09.json)
 
 [Extended Data](ext_articles/7e85da09.ext.json)
-
----
-
-### Railway Officer's Association
-
-*2024-10-29 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/197371) · `ta`
-
-Railway Station Officers' Association demands salary increase for train conductors. Government approved but no plan yet due to opposition from another group. Association threatens strike if issue unresolved.
-
-🟩
-
-After the recruitment of the railway station officials and resolved their promotion issue, the promotion of train conductors must take action for a high and salary increase. The Railway Station Officers' Association said that if he fails to take action in the cabinet, we will go to work.
-
-While the Cabinet has granted permission to resolve the promotion and salary conflict of the Railway Officers' Association, the government has not prepared the promotion and salary plan of the train conductors.
-
-However, due to the opposition of the Nathunas Association, the promotion and salary increase of the station's officials has not been implemented. The Railway Station Officers' Association said that despite many rounds of negotiations in this regard, we have decided to go to work immediately if they do not have a solution to their problem.
-
-◼️
-
-[Data](articles/9a5b3674.json)
-
-[Extended Data](ext_articles/9a5b3674.ext.json)
-
----
-
-### Steps to implement Artificial Intelligence Act in Sri Lanka: Professor Roshan G. Rackel
-
-*2024-10-29 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/197373) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's AI Policy Plan aims to boost economy and enhance social life through tech. Prof. Roshan G. Racle explains steps to implement AI Act, promoting innovation and digital transformation.
-
-🟩
-
-Prof. Roshan G.. Said Rachel.
-
-Sri Lanka's Artificial Intelligence (AI) Policy Plan was released early this year. It is designed to promote the country's economic growth and improve social life with technology growth. Professor Roshan G.. Racle added.
-
-◼️
-
-[Data](articles/8ec41dd7.json)
-
-[Extended Data](ext_articles/8ec41dd7.ext.json)
 
 ---

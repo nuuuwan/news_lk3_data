@@ -1,0 +1,20 @@
+{
+  "newspaper_id": "islandlk",
+  "url": "http://island.lk/v-holistic-managed-security-solution-by-h-one-for-strengthened-cybersecurity-at-cbl/",
+  "time_ut": 1730137320.0,
+  "original_lang": "en",
+  "original_title": "V Holistic managed security solution by H One for strengthened cybersecurity at CBL",
+  "original_body_lines": [
+    "In a significant initiative to help businesses focus on their core operations while managing cybersecurity, H One has successfully implemented a comprehensive managed security solution for the Ceylon Biscuits Limited (CBL) Group. This robust service leverages Microsoft Sentinel, integrated with Microsoft 365 Defender and other Microsoft solutions, to provide unparalleled threat detection and incident response capabilities.",
+    "The collaboration between H One and CBL Group aims to fortify CBL\u2019s cybersecurity defences. This includes comprehensive reviews of the entire IT infrastructure\u2014datacenters, cloud environments, and physical security controls. Additionally, the implementation of asset valuation and patch management processes ensures timely updates and threat mitigation.",
+    "\u201cWe greatly appreciate the outstanding support given to us by the CBL team, which has enabled H One to successfully deploy Microsoft Sentinel at CBL. This achievement marks a significant milestone in hardening CBL\u2019s cybersecurity posture. With this advanced solution, we have greatly enhanced the CBL team\u2019s capability to detect and respond to threats in real-time, ensuring robust protection for their organisation.\u201d \u2013 Venura Mendis, CEO of H One.",
+    "Microsoft Sentinel is a scalable, cloud-native security information and event management (SIEM) platform that also offers security orchestration, automation, and response (SOAR). It delivers advanced cyber threat detection, investigation, response, and proactive threat hunting, offering a bird\u2019s-eye view across the entire enterprise.",
+    "\u201cH One\u2019s support has been crucial in maintaining our software. Their team provided invaluable training to our IT and security operations teams, helping us uphold standards and stay ahead of potential threats.\u201d \u2013 Keshan Dayaratne, Chief Information Officer, CBL.",
+    "The solution implemented by H One aggregates log data from across CBL\u2019s IT infrastructure, including applications, networks, security devices, and host systems. By collecting and analysing this data, Microsoft Sentinel identifies security incidents and events, generating real-time alerts and detailed reports on potential threats.",
+    "The solution not only provides continuous monitoring but also includes features such as proactive threat hunting, historical data analysis, forensic analysis, and the automation of SOAR tasks. Microsoft Sentinel\u2019s built-in AI accelerates data analysis, pulling in information from diverse sources including users, applications, servers, and devices across both on-premises and cloud environments.",
+    "Key capabilities of Microsoft Sentinel include data aggregation, advanced analytics and threat intelligence, automated response, and in-depth incident analysis. Through this partnership, CBL Group benefits from a lower total cost of ownership, streamlined security operations, and a unified approach to threat detection, investigation, and response.",
+    "Ceylon Tea earnings from January to September 2024 cross billion dollar mark",
+    "Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *",
+    "Save my name, email, and website in this browser for the next time I comment."
+  ]
+}

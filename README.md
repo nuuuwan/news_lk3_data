@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 19:40:03**
+As of **2024-10-29 19:58:33**
 
 ## Newspaper Stats
 
-*Scraped **52,070** Articles*
+*Scraped **52,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,843
 adaderanalk | 6,172
-tamilmirrorlk | 7,218
+tamilmirrorlk | 7,219
 virakesarilk | 8,408
 adaderanasinhalalk | 9,060
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,060
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,070 (100.0%) of 52,070 articles have been extended.
+52,071 (100.0%) of 52,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Rescue of gun gardens from the train
+
+*2024-10-29 19:32:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-இருந்து-துப்பாக்கி-தோட்டக்கள்-மீட்பு/175-346278) · `ta`
+
+Train security finds 57 rifle bullets hidden under seats during routine search. Two men leave train before discovery. Incident occurs on Maradana-Beliyatha route.
+
+🟩
+
+Railway security forces have found 57 bullets used for T-56 rifles from under the seat of a third-grade box of a train traveling from Maradana to Beliyatha this morning.
+
+It is reported that a security guard at the Beliyatta railway station was searched by the train compartments, and the two men left the train and then found a bag of bullets beneath the seats where the two were seated.
+
+◼️
+
+[Data](articles/3ccba384.json)
+
+[Extended Data](ext_articles/3ccba384.ext.json)
+
+---
 
 ### Cache of T56 bullets found on Maradana-Beliatta train
 
@@ -2389,27 +2409,5 @@ In the meantime, two flights from Katunayake Airport from India have already bee
 [Data](articles/7cd0664f.json)
 
 [Extended Data](ext_articles/7cd0664f.ext.json)
-
----
-
-### Government announces about printing money
-
-*2024-10-29 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202682) · `si`
-
-Sri Lanka government denies printing new money, claims only issuing treasury bills and income bonds daily. No new loans taken from institutions or abroad. Currency notes not released yet.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath says that the government has not obtained any of the new loans.
-
-A press conference held today (29), he said that no institution or foreign loan had not been obtained so far.
-
-"The Central Bank has a method of Treasury Bills and Income. That process is something that happens every day.  ඒ වගේම මුදල් අච්චු ගැසීම ගත්තොත් ඇත්තටම අලුතින් මුදල් අච්චු ගැසීමක් කරලා නැහැ, කරන්න බෑ ඒක පැහැදිළිව තියෙනවා අලුතින් මුදල් අච්චු ගහන්න බෑ කියලා. We want to see a currency note of his signature, but it's not released. It's a full false newsletter "
-
-◼️
-
-[Data](articles/7e85da09.json)
-
-[Extended Data](ext_articles/7e85da09.ext.json)
 
 ---

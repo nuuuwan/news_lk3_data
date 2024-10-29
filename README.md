@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 15:24:12**
+As of **2024-10-29 15:39:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,016 (100.0%) of 52,017 articles have been extended.
+52,017 (100.0%) of 52,017 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Nasrallah was killed on Sept. 27, and senior Hezbollah figure Hashem Safieddine 
 ...
 
 [Data](articles/127fbcd2.json)
+
+[Extended Data](ext_articles/127fbcd2.ext.json)
 
 ---
 

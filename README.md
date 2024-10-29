@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 20:59:02**
+As of **2024-10-29 21:11:46**
 
 ## Newspaper Stats
 
-*Scraped **52,076** Articles*
+*Scraped **52,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 4,844
 adaderanalk | 6,172
 tamilmirrorlk | 7,221
 virakesarilk | 8,408
-adaderanasinhalalk | 9,062
+adaderanasinhalalk | 9,063
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,076 (100.0%) of 52,076 articles have been extended.
+52,077 (100.0%) of 52,077 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,34 @@ He added that Diwali wishes to all the Tamil people in the entire country, like 
 [Data](articles/04a413b0.json)
 
 [Extended Data](ext_articles/04a413b0.ext.json)
+
+---
+
+### Public servants now understand - Dilith
+
+*2024-10-29 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202706) · `si`
+
+Dilith Jayaweera, leader of Universal District Candid Entrepreneurship, addresses state employees about delayed promises and encourages opposition role in Parliament.
+
+🟩
+
+The state employees have already understood that the promises given before the present government was given to power.
+
+Speaking to the media in Divulapitiya, he said this.
+
+The Leader of the Universal District Candid Entrepreneurship Dilith Jayaweera,
+
+"We have made a political accompry to join people who love the people who love the country in the event of all the mainstream political forces melt.  නව දේශපාලන සංස්කෘතියේ ආරම්භය සඳහා එඩිතර විපක්ෂයට අවස්ථාව ලබාදෙන්න."
+
+"State employees have now been clearly realized ... that all promises have been not yet a strategic program. That is why the teachers wages were more late for more than 10 days. "
+
+"We urge the people to take us to Parliament as a bold opposition to Parliament for you to fulfill your expectations."
+
+...
+
+[Data](articles/b01f1dd7.json)
+
+[Extended Data](ext_articles/b01f1dd7.ext.json)
 
 ---
 
@@ -2415,31 +2443,5 @@ The purpose of the Samkegawa has not yet been released and the Kegalle police ar
 [Data](articles/e12f6d49.json)
 
 [Extended Data](ext_articles/e12f6d49.ext.json)
-
----
-
-### Oman company to supply liquid petroleum gas to Litro Company in 2025
-
-*2024-10-29 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202683) · `si`
-
-Oman company to supply liquid petroleum gas to Litro Company in 2025. Cabinet approves contract proposal. Only two institutions bid. SIAM GAS Trading PTE Ltd rejected due to technology evaluation issues. Significant responsive bidder chosen after Technical Evaluation Committee recommendation.
-
-🟩
-
-Cabinet spokesman Vijitha Herath says that the Cabinet has approved the proposal to provide the contract to supply liquid petroleum gas for 2025.
-
-Accordingly, Litro Gas Lanka Limited was convened under the Indicans-Double -Kee Dual and Limited.
-
-M / S OQ Trading Limited and M / S SIAM GAS Trading PTE LTD. Only the two institutions have bid.
-
-M / S SIAM GAS Trading PTE Ltd in Technology Evaluation. The bid presented by the submitted has been rejected.
-
-Accordingly, the Significant responsive bidder is the essential responsive bidding bidding on the recommendations of the Technical Evaluation Committee and the Similar charges of the Fixed Procurement Committee.The proposal presented by the Minister of Tourism was approved by the Cabinet of Ministers, "said Minister Herath said.
-
-◼️
-
-[Data](articles/f44f23eb.json)
-
-[Extended Data](ext_articles/f44f23eb.ext.json)
 
 ---

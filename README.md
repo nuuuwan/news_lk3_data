@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 19:02:03**
+As of **2024-10-29 19:13:00**
 
 ## Newspaper Stats
 
-*Scraped **52,066** Articles*
+*Scraped **52,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,39 +18,61 @@ dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,843
 adaderanalk | 6,170
-tamilmirrorlk | 7,217
+tamilmirrorlk | 7,218
 virakesarilk | 8,408
-adaderanasinhalalk | 9,059
+adaderanasinhalalk | 9,060
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,058 (100.0%) of 52,066 articles have been extended.
+52,065 (100.0%) of 52,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
 
-### බැංකුවත් ව්‍යවසායකයාත් ආරක්ෂා වනපරිදි සමස්ත ක්‍රියාවලිය සිදුකළ යුතුයි - ජනපති
+### දුම්රියේ ආසනයක් යටින්  T56 උණ්ඩ තොගයක්
+
+*2024-10-29 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202703) · `si`
+
+අද (29) පෙරවරුවේ මරදාන සිට බෙලිඅත්ත දක්වා ධාවනය වූ දුම්රියක තුන්වැනි පන්තියේ මැදිරියක ආසනයක් යට තිබී ටී 56 උණ්ඩ 57ක් දුම්රිය ආරක්ෂක අංශ සොයා ගෙන තිබේ.
+
+එක් ආරක්ෂක නිලධාරියෙක් බෙලිඅත්ත දුම්රිය ස්ථානයේදී මැදිරි පරීක්ෂා කිරීමේදී පුද්ගලයින් දෙදෙනෙක් එම මැදිරියෙන් පිටව ගොස් ඇති අතර පසුව ඔවුන් දෙදෙනා අසුන්ගෙන සිටි ආසන යට තිබී මෙම උණ්ඩ සහිත බෑගය සොයා ගත් බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/a7a7f9e6.json)
+
+---
+
+### The entire process of protecting the bank and the entrepreneur should be carried out - President
 
 *2024-10-29 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202702) · `si`
 
-රට ගොඩනැගීමේ සහ ආර්ථික සංවර්ධනය කිරීමේදී තමන්ට හෝ වත්මන් ආණ්ඩුවට කිසිඳු පාර්ශ්වයක් සමග විශේෂ බැඳීමක් නොමැති බැවින් ගතයුතු සෑම තීන්දුවක්ම නොපැකිළිව ගන්නා බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කරයි.
+Sri Lankan President Anura Kumara Dissanayake emphasizes protecting banks and entrepreneurs. He highlights the need for government involvement in economic development, focusing on digitization and addressing the economic crisis. The president also addresses issues like project delays, corruption, and simplifying processes in the informal sector.
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ, ශ්‍රී ලංකා බැංකු සංගමයේ සාමාජිකයින් ජනාධිපති ලේකම් කාර්යාලයේදී අද (29) හමුවූ අවස්ථාවේදීය.
+🟩
 
-ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැංවීම සම්බන්ධයෙන් බැංකුවලින් සිදුවන මැදිහත්වීම සහ ඔවුන්ගේ ගැටලු පිළිබඳව ද මෙහිදී අවධානයට යොමුවී තිබේ.
+President Anura Kumara Dissanayake emphasizes that every decision should not be taken in the country's building and economic development.
 
-ශ්‍රී ලංකාව ඩිජිටල්කරණයෙහි වැදගත්කම සහ විද්‍යුත් හැඳුනුම්පත ලබාදීම සම්බන්ධයෙන් මෙහිදී සාකච්ඡා කළ අතර එම වැඩපිළිවෙළ වසර එකහමාරක් වැනි කෙටි කාලයක් තුළ නිම කිරීමට කටයුතු කරන බව ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+President Anura Kumara Dissanayake made these comments when she met the members of the Sri Lankan banking union meeting this morning at the Presidential Secretariat.
 
-පැන නැගුණු ආර්ථික අර්බුදය සමග බැංකු පද්ධතිය යම් දරාගැනීමක් සිදුකරමින් ව්‍යවසායකයා ආරක්ෂා කිරීම සම්බන්ධයෙන් අවධානය යොමු කළ ජනාධිපතිවරයා ව්‍යවසායකයින් එම දරාගැනීම අවභාවිත කරන්නේ නම් එය ගැටලුවක් බව සඳහන් කළේය.
+The government's involvement and their problems have also focused on the development of the economy of Sri Lanka.
 
-බැංකුවත්, ව්‍යවසායකයාත් ආරක්ෂා වනපරිදි සමස්ත ක්‍රියාවලිය සිදුකළ යුතු බවට මෙහිදී වැඩිදුරටත් අවධාරණය කෙරුණි.
+The President also said that Sri Lanka was discussing the importance of digitization and e-ID and the President said.
+
+The President said that if the entrepreneur, who was looking for the entrepreneur, was a problem if the entrepreneur would not be overdue with the economic crisis.
+
+The overall process of protection of the bank, entrepreneur, should be carried out.
+
+President Anura Kumara Dissanayake has also stated that the informal sector of the economy of Sri Lanka is large and the procedure is being secured in the informal economy.
 
 ...
 
 [Data](articles/8ec549a2.json)
+
+[Extended Data](ext_articles/8ec549a2.ext.json)
 
 ---
 
@@ -84,6 +106,10 @@ It has also been revealed that the woman was rushed to the three -wheeler to lea
 
 *2024-10-29 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/197446) · `ta`
 
+Dr. Harsha de Silva criticizes government claims about salary increases and rice imports. Finance Ministry report contradicts Prime Minister's statement on funding allocation. Government accused of lying about funds and rice availability.
+
+🟩
+
 According to the Finance Ministry's report, the last government decided to increase the salaries of state officials. Therefore, it is not acceptable to say that it is not allocated for this in the Treasury. Former United People's Power Member Dr. Harsha de Silva questioned why the government is lying on the funds.
 
 He said this at a press conference held at the United People's Alliance headquarters in Colombo yesterday.
@@ -101,6 +127,14 @@ The Prime Minister has said that funds have not been allocated to increase the s
 ### The money is not stobed
 
 *2024-10-29 17:55:21* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-අච්චු-ගැසුවේ-නෑ/11-412744) · `si`
+
+Here's a 200-character summary:
+
+
+
+Central Bank of Sri Lanka denies allegations about money storage. Recent claims investigated; no evidence found. Official statement clarifies bank's financial practices.
+
+🟩
 
 The Central Bank of Sri Lanka has issued an announcement that the allegations have been made in recent years, the Central Bank said.
 
@@ -134,17 +168,27 @@ Meanwhile, a 36 -year -old woman, a 24 -year -old man and a drug dealer have bee
 
 ---
 
-### නසරල්ලාගේ තැන නයිම් කාසීම්ට
+### Nazareta's place to Nimim Coins
 
 *2024-10-29 17:47:29* · [`adalk`](https://www.ada.lk/breaking_news/නසරල්ලාගේ-තැන-නයිම්-කාසීම්ට/11-412743) · `si`
 
-හිස්බුල්ලා සංවිධානයේ නව නායකයා ලෙස නයිම් කාසීම් පත් කර තිබේ.
+Here's a 200-character summary:
 
-හිටපු නායක හසන් නසරල්ලා බේරූට් හීදී ඝාතනය කළ අතර, ඒ අනුව අද( 29දා) නව නායකයා ලෙස නයි කාසීම් පත් කිරීමට හිස්බුල්ලා සංවිධානය කටයුතු කර ඇත.
+
+
+Hezbollah appoints new leader after assassination. Former leader Nazandara killed, Nimayas takes helm on 29th day.
+
+🟩
+
+Nimayas has been appointed as the new leader of the Hezbollah organization.
+
+The former leader Hasan Nazandara Videllalah was assassinated and the New Leader has been appointed as the new leader today (29).
 
 ◼️
 
 [Data](articles/10ed1132.json)
+
+[Extended Data](ext_articles/10ed1132.ext.json)
 
 ---
 
@@ -224,17 +268,23 @@ The following report is published in auction and financial operations implemente
 
 ---
 
-### சாவகச்சேரி நீதிவான் நீதிமன்றம் மீது தாக்குதல் நடத்தப்படவுள்ளவுள்ளதாக தகவல் வெளியானதையடுத்து பலத்த பாதுகாப்பு!
+### Strong security after reports of the Chavakachcheri Magistrate's Court
 
 *2024-10-29 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197438) · `ta`
 
-யாழ்ப்பாணம் - சாவகச்சேரி நீதிவான் நீதிமன்ற வளாகத்தில் இன்று செவ்வாய்க்கிழமை (29) முதல் பொலிஸ், மற்றும் விசேட அதிரடிப் படையினர் குவிக்கப்பட்டு பாதுகாப்பு அதிகரிக்கப்பட்டுள்ளது.
+Security tightened at Chavakachcheri Magistrate's Court after reports of suspicious phone calls. Police and STF deployed since Tuesday. Investigation ongoing regarding mysterious caller.
 
-சாவகச்சேரி நீதிவான் நீதிமன்றத்துக்கு தாக்குதல் நடத்தப்படப்போவதாக பொலிஸாரின் தொலைபேசிக்கு வழங்கப்பட்ட மர்ம நபரின் தகவலுக்கமைய குறித்த பாதுகாப்பு வழங்கப்பட்டுள்ளதாக பொலிஸ் தகவல்கள் தெரிவிக்கின்றன.
+🟩
+
+Police and Special Task Force (STF) have been mobilized from Tuesday (29) at the Jaffna - Chavakachcheri Magistrate's Court Complex.
+
+According to police sources, the police have been given the information on the information of the mysterious person who gave the telephone to the Chavakachcheri Magistrate's Court.
 
 ◼️
 
 [Data](articles/8b86409f.json)
+
+[Extended Data](ext_articles/8b86409f.ext.json)
 
 ---
 
@@ -266,55 +316,75 @@ We can't allocate the machine for an additional school train from Nanuoya to Kan
 
 ---
 
-### ”நாளை வேலைநிறுத்தம்’’
+### “Tomorrow's strike
 
 *2024-10-29 17:24:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-வேலைநிறுத்தம்/175-346276) · `ta`
 
-புகையிரத திணைக்களத்திற்குள் உள்ள நிர்வாக பிரச்சினைகளுக்கு ஜனாதிபதியும் அமைச்சரும் தீர்வு காணாவிட்டால் நாளை தொழிற்சங்க போராட்டமொன்றை முன்னெடுக்க இலங்கை புகையிரத நிலைய அதிபர்கள் சங்கம் (SLRSMU) தீர்மானித்துள்ளது.
+Sri Lanka Railway workers plan strike over administrative issues. Union leader warns of disruption if demands aren't met.
 
-கடந்த சில நாட்களாக இந்த விவகாரங்கள் குறித்து தாம் ஊடகவியலாளர் சந்திப்புகளை நடத்தி வருவதாக SLRSMU தலைவர் சுமேதா சோமரத்ன கூறினார்.
+🟩
 
-"இன்று, ரயில்வே பொது மேலாளரால், ரயில்வே பொது கண்காணிப்பாளரின் உத்தரவை பின்பற்ற சில கீழ்நிலை அதிகாரிகள் தயங்குவதால் எழும் சிக்கல்களுக்கு சரியான தீர்வு வழங்க முடியவில்லை.
+The Sri Lanka Railway Station Principals Association (SLRSMU) has decided to carry out a trade union struggle tomorrow if the President and the Minister does not address the administrative issues within the Railway Department.
 
-அதன்படி, நாளைய தினம் அமைச்சின் செயலாளர் அல்லது அமைச்சருடன் நடத்தப்படும் கலந்துரையாடலின் அடிப்படையில் எமது தொழிற்சங்க நடவடிக்கை தொடரும்.
+SLRSMU leader Somata Somata Somaratne said he was holding a media briefing on these issues over the past few days.
 
-“பயணிகளுக்கு தேவையான வசதிகளை செய்து தரவும், ரயில் சேவைகளை பராமரிக்கவும் ரயில்வே துறை தவறிவிட்டது. தினமும் ரயில்கள் ரத்து செய்யப்படுகின்றன அல்லது தடம் புரண்டு வருகின்றன.
+“Today, by the Railway General Manager, some subordinate authorities are unable to provide the right solution to the problems that arise.
+
+Accordingly, our trade union action will continue on the basis of a discussion held with the Secretary or Minister of the Ministry tomorrow.
+
+“The Railway Department has failed to provide the necessary facilities for passengers and maintain rail services. Trains are canceled daily or derailed.
+
+We can't allocate the machine for an additional school train from Nanuoya to Kandy. During the last government, we were on strike, but we were forced to ignore our demands due to administrative issues, ”Somatna said.
 
 ...
 
 [Data](articles/c2407ed4.json)
 
+[Extended Data](ext_articles/c2407ed4.ext.json)
+
 ---
 
-### செட்டிக்குளத்தில் காட்டு யானை தாக்கி இளைஞன் பலி
+### Youth killed in a wild elephant in Chettikulam
 
 *2024-10-29 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197431) · `ta`
 
-வவுனியா, செட்டிக்குளம் கிருஸ்தவகுளத்தில், காட்டு யானையின் தாக்குதலுக்கு இலக்காகி  இளைஞன் ஒருவன் இன்று செவ்வாய்க்கிழமை (29)  உயிரிழந்ததாக பறயநாலங்குளம் பொலிஸார் தெரிவித்தனர்.
+Young man, 24, dies in elephant attack in Chettikulam, Sri Lanka. Victim identified as Vigneswaran Ketheeswaran. Incident occurred on Tuesday, March 29.
 
-கிறிஸ்தவகுளம் பகுதியைச் சேர்ந்த 24 வயதுடைய விக்னேஸ்வரன் கேதீஸ்வரன் என்பவரே யானையின் தாக்குதலிலுக்கு இலக்காகி உயிரிழந்துள்ளார்.வவுனியா செட்டிகுளம், கிறிஸ்தவகுளம் பகுதியில், இருவர் காட்டுக்குச் சென்ற போதே இந்த சம்பவம் இடம்பெற்றள்ளதாக பொலஸார் மேலும் தெரிவித்தனர்.சடலம் உடற்கூற்று பரிசோதனைக்காக வவுனியா வைத்தியசாலைக்கு எடுத்துச்செல்லப்பட்டுள்ளமை குறிப்பிடத்தக்கது.குறித்த சம்பவம் தொடர்பான மேலதிக விசாரணையினை பறயநாலங்குளம் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+🟩
+
+A young man died on Tuesday (29) after a wild elephant attack in Chettikulam, Chettikulam, Vavuniya, Parayanalangulam police said.
+
+The 24 -year -old Vigneswaran Ketheeswaran, a 24 -year -old from Christianity, has died in the elephant attack.
 
 ◼️
 
 [Data](articles/286ec2dc.json)
 
+[Extended Data](ext_articles/286ec2dc.ext.json)
+
 ---
 
-### எக்ஸ்பிரஸ் பேர்ள் கப்பல் விவகாரத்தில் நிதி மோசடி : விரைவில் புதிய விசாரணைகள் ஆரம்பம் - அரசாங்கம்
+### Financial Fraud on Express Pearl Shipment
 
 *2024-10-29 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197430) · `ta`
 
-எக்ஸ்பிரஸ் பேர்ள் கப்பல் தீ விபத்தினால் இலங்கை கடற்பரப்புக்கு பாரிய பாதிப்புக்கள் ஏற்பட்டதோடு, இவ்விடயத்தில் நிதி மோசடிகள் இடம்பெற்றுள்ளதாகவும் குற்றச்சாட்டுக்கள் முன்வைக்கப்பட்டுள்ளன. எனவே இது தொடர்பில் புதிய விசாரணைகள் விரைவில் ஆரம்பிக்கப்படும் என அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்தார்.
+Express Pearl Fire causes damage to Sri Lankan waters. Accused of financial fraud. New inquiries to be launched. Fishermen face losses.
 
-அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாடு செவ்வாய்கிழமை (29)  இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் இது தொடர்பில் மேலும் குறிப்பிடுகையில்,
+🟩
 
-எக்ஸ்பிரஸ் பேர்ள் கப்பல் தீவிபத்தால் இலங்கை கடற்பரப்புக்கு பாரிய சேதம் ஏற்பட்டுள்ளது. இதனால் இலங்கை மீனவர்கள் தொழில் ரீதியில் கடும் இழப்புக்களை எதிர்கொண்டனர்.
+The Express Pearl Fire has caused massive damage to the Sri Lankan waters and has been accused of financial fraud in this regard.. Cabinet spokesman Vijitha Herath said new inquiries would be launched soon.
 
-எனவே இது தொடர்பில் புதிய விசாரணைகளை நாம் விரைவில் நிச்சயம் ஆரம்பிப்போம். இது தொடர்பில் ஏற்கனவே முன்னெடுக்கப்பட்டுள்ள விசாரணைகள் மற்றும் சட்ட நடவடிக்கைககளையும், பாராளுமன்ற தெரிவுக்குழுவின் விசாரணை அறிக்கைகளையும் அடிப்படையாகக் கொண்டு அந்த விசாரணைகள் முன்னெடுக்கப்படும்.
+He made this statement at a press conference announcing the Cabinet decisions on Tuesday (29).
+
+Sri Lankan waters have caused heavy damage due to Express Pearl shipping fire. Sri Lankan fishermen faced professional losses.
+
+So we will soon start new investigations in this regard. The inquiries will be carried out based on investigations and legal actions already carried out in this regard.
 
 ◼️
 
 [Data](articles/a5d18255.json)
+
+[Extended Data](ext_articles/a5d18255.ext.json)
 
 ---
 
@@ -344,21 +414,29 @@ Kanchana Wijesekera said that the committee included the officials of the Treasu
 
 ---
 
-### தேசிய மக்கள் சக்திக்கு இலவச பிரச்சாரம் செய்யும்  எதிரணி  மலையக கட்சிகளுக்கு நன்றி - கொட்டகலை பிரதேச சபை முன்னாள் உறுப்பினர் ராஜா
+### Thanks to the opposition parties for free campaign for national people's power
 
 *2024-10-29 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197418) · `ta`
 
-தேசிய மக்கள் சக்திக்கு வாக்களிக்க வேண்டாம் என கடந்த ஜனாதிபதித் தேர்தலில் அரச சார்பற்ற நிறுவனத்தைச் சேர்ந்த ஒருவர் தோட்டப்பகுதிகளில் பிரச்சாரம் செய்தார். எதிரணி கட்சிகள் ஒன்றிணைந்து பணம் வழங்கி ஒவ்வொரு குடும்பத்துக்கும் தலா ஆயிரம் ரூபாவை அவர் மூலம் வழங்கினர்.
+Opposition parties funded free campaigns against national power. Voters ignored opposition efforts, supporting national power instead. Political parties claim to serve people but focus on gaining power and property.
 
-ஆனால் மக்கள் அதை புறக்கணித்து தேசிய மக்கள் சக்திக்கே வாக்களித்தனர். அதே போன்று பாராளுமன்றத் தேர்தலிலும் சம்பவங்கள் இடம்பெற்று வருகின்றன. எமக்கு இலவச பிரச்சாரங்களை முன்னெடுக்கும் எதிரணி மலையக கட்சி உறுப்பினர்களுக்கு நன்றி கூற வேண்டும்  என கொட்டகலை பிரதேச சபை முன்னாள் உறுப்பினர் ராஜா தெரிவித்தார்.
+🟩
 
-தேசிய மக்கள் சக்தியின் உறுப்பினரும் கொட்டகலை பிரதேச சபையின் முன்னாள் உறுப்பினருமான ராஜா. கொட்டகலை பிரதேசத்தில் இடம்பெற்ற மக்கள் சந்திப்பின் போதே இதனை தெரிவித்தார்.
+In the last presidential election, a non -governmental organization campaigned in plantation areas not to vote for national people's power. The opposition parties united and paid the money and paid a thousand rupees to each family.
 
-மலையக அரசியல் கட்சிகள் கடந்த காலங்களில் தாம் என்ன செய்தன என்பதைப்பற்றி கதைக்காமல் தேசிய மக்கள் சக்தி ஆட்சியமைத்தால் என்னவெல்லாம் நடக்கும் என கற்பனை கதைகளை மக்களிடம் கூறி வருகின்றனர். இது எமக்கு இலவச பிரச்சாரமாகும்.
+But people ignored it and voted for the power of the national people. Similarly, there are incidents of parliamentary elections. Former Member of Kotagala Pradeshiya Sabha Raja said the opposition to the Opposition Malaysian Party for carrying out free campaigns.
+
+Raja is a member of the National People's Power and a former member of the Kotagala Pradeshiya Sabha. He made this statement during a public meeting in Kotagala.
+
+The upcountry political parties are telling the people about what happens if the national people will rule about what they have done in the past.. This is a free campaign for us.
+
+Moreover, a major party will be pleading with the people to vote for their party to protect the ministry with the government after the election.
 
 ...
 
 [Data](articles/525bf8d9.json)
+
+[Extended Data](ext_articles/525bf8d9.ext.json)
 
 ---
 
@@ -1077,6 +1155,20 @@ No one can speak to any people, not just our people. We will never save the wron
 [Data](articles/1e98e2f9.json)
 
 [Extended Data](ext_articles/1e98e2f9.ext.json)
+
+---
+
+### HPV தடுப்பூசி: 4 மாணவிகள் மயங்கினர்
+
+*2024-10-29 14:34:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/HPV-தடுப்பூசி-4-மாணவிகள்-மயங்கினர்/95-346267) · `ta`
+
+கர்ப்பப்பை வாய்ப் புற்றுநோய்க்கான தடுப்பூசியைப் பெற்றுக் கொண்ட வாதுவ பாடசாலை ஒன்றின் நான்கு மாணவிகள் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பாணந்துறை ஆதார வைத்தியசாலையின் பேச்சாளர் ஒருவர் தெரிவித்தார்.
+
+வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நான்கு மாணவிகளுக்கும் வாந்தி, சுவாசிப்பதில் சிரமம் போன்ற அறிகுறிகள் காணப்படுவதாக வைத்தியசாலை பேச்சாளர் ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/3c24512b.json)
 
 ---
 
@@ -2309,51 +2401,5 @@ Sri Lanka's Artificial Intelligence (AI) Policy Plan was released early this yea
 [Data](articles/8ec41dd7.json)
 
 [Extended Data](ext_articles/8ec41dd7.ext.json)
-
----
-
-### US did not impose a tourist ban - Vijitha
-
-*2024-10-29 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202681) · `si`
-
-Sri Lanka: No US tourist ban, arrests made, investigation ongoing. US statement contradicts claims of "crushing" intelligence.
-
-🟩
-
-Cabinet spokesman, Minister Vijitha Herath says that there is any information for the intelligence unit of the intelligence unit regarding the attack on the attack.
-
-The Minister said that the minister was added to the Cabinet Decision informed today (29), the minister said.
-
-Accordingly, several suspects have been arrested and the future investigations are being carried out by the court.
-
-However, the US intelligence was not a crush in Sri Lanka and said that there was no crushing, but the United States had issued an announcement.
-
-◼️
-
-[Data](articles/33b86b0a.json)
-
-[Extended Data](ext_articles/33b86b0a.ext.json)
-
----
-
-### Arrest
-
-*2024-10-29 10:54:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடிகுண்டு-பீதியை-ஏற்படுத்தியவர்-கைது/175-346255) · `ta`
-
-A 67-year-old man from Wariyapola made a false bomb threat call to Katunayake airport, causing flight delays and security checks. He was arrested for disrupting airport operations.
-
-🟩
-
-Police said that the person who made a fake phone call was arrested in the Wariyapola area that there was a bomb at the Katunayake airport.
-
-Police said he was 67 years old from Wariyapola area. Police said he had telephoned the airport manager and the airline by telephone at the Katunayake airport.
-
-After the call, airport operations were interrupted, the airport and passengers were touched by heavy testing and flights were delayed.
-
-◼️
-
-[Data](articles/f8fe2e14.json)
-
-[Extended Data](ext_articles/f8fe2e14.ext.json)
 
 ---

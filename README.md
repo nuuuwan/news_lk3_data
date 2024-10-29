@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 15:39:53**
+As of **2024-10-29 15:58:57**
 
 ## Newspaper Stats
 
-*Scraped **52,017** Articles*
+*Scraped **52,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,82 @@ dailymirrorlk | 4,733
 adalk | 4,837
 adaderanalk | 6,165
 tamilmirrorlk | 7,209
-virakesarilk | 8,389
-adaderanasinhalalk | 9,051
+virakesarilk | 8,395
+adaderanasinhalalk | 9,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,017 (100.0%) of 52,017 articles have been extended.
+52,024 (100.0%) of 52,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### The interim ban is prevented from interrupting the cable car project
+
+*2024-10-29 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202693) · `si`
+
+Court extends interim injunction cable car project construction delay
+
+🟩
+
+The Court of Appeal today (29) was held today (29) to extend the interim injunction or interim order to interfere with the construction of the cable car project.
+
+The Court of Appeal has issued a Rit petition filed by Amber Adventure Private Limited in Rajagiriya, Rajagiriya area.
+
+Accordingly, the interim injunction order issued to the Colombo Divisional Secretariat in Ambuluwawa, preventing the intervention or interdependence of the Sri Lankan cable car project in the Ambuluwawa area was devoted to December 02.
+
+This petition is Mohammed Lafar Thahaire and P. The Court of Appeal was summoned before Kumaran Ratnam.
+
+The State Counsel appearing on behalf of the respondents called for a date to file protests related to this petition.
+
+Attorney at Law Sanath Wijewardene on behalf of the petitioner Sanath Wijewardene, the Divisional Secretary of the Uttarakarawa Car is a regional area of ​​the Urban Development Authority.
+
+...
+
+[Data](articles/19c53549.json)
+
+[Extended Data](ext_articles/19c53549.ext.json)
+
+---
+
+### Update of 'Vida Tri Tri' starring Ajith Kumar
+
+*2024-10-29 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/197409) · `ta`
+
+Here's a 200-character summary of the article:
+
+
+
+Ajith Kumar stars in "Vida Tri Tri" directed by Mahesh Triveni. Cast includes Arjun, Trisha, Regina, Arav, Nikhil Nair. Anirudh composed music. Film produced by Subhashkaran, Leica Productions. Dubbing underway. Release expected post-Pongal next year.
+
+🟩
+
+The film crew has released a new photo of Ajith Kumar's upcoming film 'Diligence'.
+
+இயக்குநரும், நடிகருமான மகிழ் திருமேனி இயக்கத்தில் உருவாகி வரும் 'விடா முயற்சி' எனும் திரைப்படத்தில் அஜித் குமார், அர்ஜுன், திரிஷா, ரெஜினா, ஆரவ், நிகில் நாயர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+Anirudh has composed the film, which has been recorded by Om Prakash and Neerav Shah.
+
+The film is being produced as an exercise enterter and produced by producer Subhaskaran on behalf of Leica Productions.
+
+The film is completed and the post -shooting technical work is currently underway.
+
+The film crew has excitedly announced that the film's dubbing is underway.
+
+They have also posted a photo of it. Actor Arav, who first played the lead role in the film, is talking about the background.
+
+According to film sources, the film will be released after Pongal next year and will be released during the English New Year.
+
+◼️
+
+[Data](articles/a8a0f51f.json)
+
+[Extended Data](ext_articles/a8a0f51f.ext.json)
+
+---
 
 ### Hezbollah elects Naim Qassem to succeed slain head Nasrallah
 
@@ -138,6 +202,34 @@ The petition was then held on March 27.
 
 ---
 
+### Anyone who speaks of the upcountry community cannot be forgiven - Radhakrishnan
+
+*2024-10-29 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197407) · `ta`
+
+Radhakrishnan criticizes upcountry community, denies TNA obstruction. Condemns health inspector disruption at Hatton restaurant. Promises legal action against wrongdoers. Emphasizes party's growth and success despite challenges.
+
+🟩
+
+Proper measures have been taken against the owner regarding the disruption of the duty of health inspectors at a restaurant in Hatton.
+
+In a statement issued by Velusamy Radhakrishnan, Deputy Leader of the Tamil Progressive Alliance and the leader of the Upcountry People's Front, said that the TNA would never be an obstacle.
+
+A few activities are being carried out to contribute to the name of the Tamil Progressive Alliance and its growth. This is the action of a few people who cannot match our success during the election.
+
+During the incident at a hotel in Hatton, the health officials who arrived there said that the supporter of the Progressive Alliance could not do me, "the restaurant owner said that I could do anything.. This is a completely wrong issue.
+
+We strongly condemn this as a Tamil progressive coalition.
+
+No one can speak to any people, not just our people. We will never save the wrongdoers.
+
+...
+
+[Data](articles/1e98e2f9.json)
+
+[Extended Data](ext_articles/1e98e2f9.ext.json)
+
+---
+
 ### HIV vaccine: 4 students faint
 
 *2024-10-29 14:34:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/HIV-தடுப்பூசி-4-மாணவிகள்-மயங்கினர்/95-346267) · `ta`
@@ -155,6 +247,76 @@ A hospital spokesman said that all four students who were taken to the hospital 
 [Data](articles/93bbe80e.json)
 
 [Extended Data](ext_articles/93bbe80e.ext.json)
+
+---
+
+### Recovery of male body from well in Naramalai
+
+*2024-10-29 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197405) · `ta`
+
+Body recovered from well in Narammala; identity unknown; handed over to hospital for inquiry
+
+🟩
+
+The body of a man has been recovered from a well of a land in the Panavitiya area, which belongs to the Narammala police division, on Monday (28), the body of a man has been recovered.
+
+Police said no information has been received so far regarding the body of the body.
+
+Police said the body was placed in the funeral room of the Kurunegala Hospital after the magistrate's inquiries.
+
+◼️
+
+[Data](articles/d7057a45.json)
+
+[Extended Data](ext_articles/d7057a45.ext.json)
+
+---
+
+### Arrested in ganja cultivation in Moneragala
+
+*2024-10-29 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197403) · `ta`
+
+Moneragala: 54-year-old man arrested for cannabis cultivation in Silvavala area. Etimalai police detained suspect during operation based on tip-off.
+
+🟩
+
+Etimalai police said that a suspect was arrested on Monday (28) at a garden in Silvavala area, which belongs to the Moneragala and Kotiyagala police division.
+
+The suspect has been arrested during a roundup based on confidential information received by the Etimalai police.
+
+The arrested suspect is 54 years old from Wheelaoya.
+
+◼️
+
+[Data](articles/8451ca31.json)
+
+[Extended Data](ext_articles/8451ca31.ext.json)
+
+---
+
+### Arrested for illegally excavation in Norwood
+
+*2024-10-29 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197398) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+63-year-old man arrested for illegal excavation at Bottri estate in Nuwara Eliya. Police raided the site based on received information. Suspect from Bogawantalawa area. Incident occurred on Monday, August 28.
+
+🟩
+
+Norwood police said that a person who was illegally excavated at the Bottri estate, which belongs to the Norwood Police Division, Nuwara Eliya, was arrested on Monday (28).
+
+The suspect was arrested during a raid carried out on information received by Norwood police.
+
+The arrested suspect is 63 years old from Bogawantalawa, Nuwara Eliya.
+
+◼️
+
+[Data](articles/15397d25.json)
+
+[Extended Data](ext_articles/15397d25.ext.json)
 
 ---
 
@@ -181,6 +343,28 @@ He also pointed out that our money should be implemented with proper action to p
 [Data](articles/a560a39e.json)
 
 [Extended Data](ext_articles/a560a39e.ext.json)
+
+---
+
+### Request to apply for a passport only if there are emergency requirements
+
+*2024-10-29 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197406) · `ta`
+
+Passport application limited to emergencies due to shortage. Only 1,600 passports issued daily. Public advised to apply cautiously.
+
+🟩
+
+Cabinet spokesman and minister Vijitha Herath has asked the public on Tuesday (29) to apply for a passport at the Department of Immigration and Emigration.
+
+Since the Department of Immigration and Emigration is inadequate passport reserves, those who need a passport will have to wait for long -term needs.
+
+Currently, a total of 1,600 passports are being issued daily to meet the demand.
+
+◼️
+
+[Data](articles/a4ed7f63.json)
+
+[Extended Data](ext_articles/a4ed7f63.ext.json)
 
 ---
 
@@ -2163,143 +2347,5 @@ Samagi Jana Balawegaya (SJB) Colombo district candidate S.M. Marikkar yesterday 
 [Data](articles/2f233088.json)
 
 [Extended Data](ext_articles/2f233088.ext.json)
-
----
-
-### Crime Motion against President
-
-*2024-10-29 02:38:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-எதிராக-குற்றப்-பிரேரணை/175-346238) · `ta`
-
-Former MP Udaya Kammanpila threatens to prepare impeachment motions against President Anura Kumara Dissanayake and other officials over Easter attacks investigation. He also plans to move no-confidence motions against several ministers.
-
-🟩
-
-Former Parliamentarian Udaya Kammanpila said he would carry out two tasks of preparing and put forward a crime motion against President Anura Kumara Dissanayake if the people elect their future parliament.
-
-Udaya Kammanpila said this at a special press conference held in Colombo on Monday morning to present the facts of the Easter Day terrorist attack committee.
-
-He noted that the president is still a chance to apologize to the nation and to remove Ravi Seneviratne from office.
-
-Udaya Kammanpila added that he has created a no -confidence motion against Ranil Wickremesinghe, Rishad Badurdeen and Rajitha Senaratne.
-
-Kammanpila said that one of the biggest accused in investigations into the Easter attack, Kammanpila said that he was awake from the coma because he was the President of the Anura.
-
-◼️
-
-[Data](articles/66912ed1.json)
-
-[Extended Data](ext_articles/66912ed1.ext.json)
-
----
-
-### President violates election promises
-
-*2024-10-29 02:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-வாக்குறுதிகளை-ஜனாதிபதி-மீறியுள்ளார்/175-346237) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Presidential government fails to keep election promises. Sajith Premadasa calls for JVP support, citing need for United People's Power majority. Economic challenges persist, including food shortages and debt burden. Sajith warns of potential bankruptcy without UPP control.
-
-🟩
-
-The current presidential government has promised to reduce the pressure facing the people as promised in the election for the people who live in the midst of their lives.. However, United People's Power Leader Sajith Premadasa has called for the JVP to make these changes, not to give a majority in parliament.
-
-That majority should be given to the United People's Power. This is the best choice for the country. As Anura Kumara Dissanayake said on the presidential election platforms, he could not reduce direct and indirect taxes.. He said he would convert the agreement with the International Monetary Fund. However, he said he could not change today.
-
-A meeting with the United People's Power Colombo Colombo Colombo Kolonnawa Party activists took place on Sunday (27). The meeting organized by the United People's Power Colombo District Candidate SM Marikar. He said this while addressing the gathering.
-
-...
-
-[Data](articles/5bb60990.json)
-
-[Extended Data](ext_articles/5bb60990.ext.json)
-
----
-
-### Model
-
-*2024-10-29 02:27:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பின்னடைவு-ஏற்படும்/175-346236) · `ta`
-
-Elpitiya election results show dissatisfaction with current government. Opposition leader predicts similar outcome in parliamentary elections. President promises changes but acknowledges challenges in implementation. Opposition focuses on achievable goals rather than unrealistic promises. This sets stage for potential new government formation in upcoming parliamentary election.
-
-🟩
-
-Elpitiya election results reveal that people are dissatisfied with the current government. Velusamy Radhakrishnan, the leader of the Upcountry People's Front, the co -chair of the Tamil Progressive Alliance and the Nuwara Eliya district candidate of the United People's Alliance, said that this would happen in the parliamentary elections.
-
-In the past, we have seen in the past that the presidential election in Sri Lankan politics is over and the president and his party will win all the next elections.
-
-However, the president has been able to get more than 50 percent of the vote in the local government elections after the end of the presidential election.
-
-The reason is that the president and the government are dissatisfied with the government.
-
-The president said that he would make many changes in 48 hours if he came to power while in the party.. He said that many wonders have the ability to do with me and his crew. But now I am not a witch or a trick.
-
-...
-
-[Data](articles/9d74645a.json)
-
-[Extended Data](ext_articles/9d74645a.ext.json)
-
----
-
-### Why Sri Lanka has yet to find its own Lee Kuan Yew
-
-*2024-10-29 02:14:25* · [`dailyftlk`](https://www.ft.lk/columns/Why-Sri-Lanka-has-yet-to-find-its-own-Lee-Kuan-Yew/4-768537) · `en`
-
-In the post-colonial era, many Asian nations sought strong leaders to guide them through the challenges of independence, economic development, and social transformation. Singapore found such a leader in Lee Kuan Yew, whose visionary leadership transformed the city-state from a resource-poor colony into a global economic powerhouse. Sri Lanka, however, has struggled to produce a leader with the same transformative impact. Despite its rich resources, strategic location, and potential, Sri Lanka has yet to find its equivalent of Lee Kuan Yew. This article explores why none of Sri Lanka’s political leaders have been able to replicate his success.
-
-...
-
-[Data](articles/9930f092.json)
-
-[Extended Data](ext_articles/9930f092.ext.json)
-
----
-
-### Leveraging military skills for success in corporate world
-
-*2024-10-29 02:10:13* · [`dailyftlk`](https://www.ft.lk/columns/Leveraging-military-skills-for-success-in-corporate-world/4-768536) · `en`
-
-In today’s context, we observe a growing number of ex-military personnel, both officers and other ranks, transitioning into the employment world in Sri Lanka after completing their agreed service period. Unfortunately, there is a noticeable lack of proper, systematic career guidance for these individuals. This results in the underutilisation of valuable human resources that could greatly benefit the country. Now more than ever, it is essential to provide them with the right exposure, making them more competent and confident in securing careers within the corporate sector, government, or overseas.
-
-...
-
-[Data](articles/6a6c78a6.json)
-
-[Extended Data](ext_articles/6a6c78a6.ext.json)
-
----
-
-### Nobel Prize for Economics in 2024 and Sri Lanka
-
-*2024-10-29 02:03:32* · [`dailyftlk`](https://www.ft.lk/columns/Nobel-Prize-for-Economics-in-2024-and-Sri-Lanka/4-768535) · `en`
-
-The 2024 Nobel Prize for Economics was awarded to three economists, Daron Acemoglu, Simon Johnson and James A. Robinson on 14 October 2024. Both Daron and Simon are professors at Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts, USA, and James is a professor at the University of Chicago (U Chicago), Chicago, Illinois, USA. Both MIT and U Chicago are private research universities. They were established in 1861 and 1890 respectively using private endowments, and students pay to attend those universities.
-
-Nobel prizes are awarded by the Nobel Foundation in Sweden using an endowment of funds given by Alfred Nobel in 1895. Alfred Nobel was a Swedish chemist, engineer, and inventor, who is best known for inventing dynamite. The prize was awarded to innovate work in Physics, Chemistry, Medicine (Physiology), Literature, and Peace.
-
-...
-
-[Data](articles/bf2e2c38.json)
-
-[Extended Data](ext_articles/bf2e2c38.ext.json)
-
----
-
-### Managing conflicts of interest of political appointees and MPs
-
-*2024-10-29 01:55:33* · [`dailyftlk`](https://www.ft.lk/columns/Managing-conflicts-of-interest-of-political-appointees-and-MPs/4-768532) · `en`
-
-An inexperienced and understaffed Government is making appointments to various senior positions. To be true to their election promises, a process has been initiated to strip away various “privileges” given to holders of political office. What is common to both is the problem of managing conflicts of interest.
-
-Concerns were raised when the CEO of a supermarket chain was appointed as chairman of Sathosa, the Government’s supermarket company. It cannot be because he lacks the necessary knowledge to run the business. In fact, it’s difficult to imagine a better qualified person to serve as CEO or as executive chair of the ailing SOE.
-
-...
-
-[Data](articles/dbcfab79.json)
-
-[Extended Data](ext_articles/dbcfab79.ext.json)
 
 ---

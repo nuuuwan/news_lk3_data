@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 23:59:48**
+As of **2024-10-30 00:14:40**
 
 ## Newspaper Stats
 
-*Scraped **52,102** Articles*
+*Scraped **52,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ dbsjeyarajcom | 413
 colombotelegraphcom | 528
 bbccomsinhala | 530
 islandlk | 3,097
-economynextcom | 3,162
+economynextcom | 3,170
 dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,848
 adaderanalk | 6,174
 tamilmirrorlk | 7,224
-virakesarilk | 8,418
+virakesarilk | 8,419
 adaderanasinhalalk | 9,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,102 (100.0%) of 52,102 articles have been extended.
+52,105 (100.0%) of 52,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### நாட்டில் பொருளாதார சுயாதிகாரமொன்றை ஏற்படுத்துவதே அரசாங்கத்தின் நோக்கமாகும் - ஜனாதிபதி
+
+*2024-10-29 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197460) · `ta`
+
+நாட்டில் பொருளாதார சுயாதிகாரமொன்றை உருவாக்குவதே அரசாங்கத்தின் நோக்கம்  எனவும், அதற்கு  எமது நாட்டு ஏற்றுமதியாளர்களின் பூரண ஆதரவை எதிர்பார்ப்பதாகவும் ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+ஏற்றுமதி அபிவிருத்திச் சபையின் உயரதிகாரிகள் மற்றும் ஏற்றுமதியாளர்களுடன் செவ்வாய்க்கிழமை (29) ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற கலந்துரையாடலில் ஜனாதிபதி இதனைக் குறிப்பிட்டார்.
+
+ஏற்றுமதி வர்த்தகத்தை இலகுபடுத்துவதற்காக ஏனைய அரச நிறுவனங்களையும் இலங்கை சுங்கத்தையும் ஒருங்கிணைத்து ஒற்றைச் சேவை சாளரத்தை உருவாக்குவதன் முக்கியத்துவத்தை சுட்டிக்காட்டிய ஜனாதிபதி, டிஜிட்டல் மயமாக்கல் மற்றும் ஏற்றுமதி தொடர்பான அரச நிறுவனங்களின் செயற்திறனை அதிகரிப்பதன் முக்கியத்துவத்தையும் எடுத்துரைத்தார்.
+
+அத்துடன், எரிசக்தி விலைகளை குறிப்பிடத்தக்க அளவு  குறைத்தல், வெளிநாட்டு முதலீடுகளை ஊக்குவித்தல், சர்வதேச சந்தைக்குள் பிரவேசிக்கும்  வகையில் தூதரக சேவைகளை மறுசீரமைத்தல் போன்ற விடயங்கள் தொடர்பில் அரசாங்கத்தின் கவனம் செலுத்தப்பட்டுள்ளதாக ஜனாதிபதி அநுரகுமார திசாநாயக்க குறிப்பிட்டார்.
+
+...
+
+[Data](articles/2819f9a6.json)
+
+---
 
 ### A new announcement from the Ministry of Education on the O/L Examination
 
@@ -380,6 +398,26 @@ Former President Ranil Wickremesinghe further stated that he will continue to fi
 
 ---
 
+### Sri Lanka does not consider Arugam Bay attack plot as pressure tactic: Cabinet Spokesman
+
+*2024-10-29 20:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-does-not-consider-arugam-bay-attack-plot-as-pressure-tactic-cabinet-spokesman-185594/) · `en`
+
+ECONOMYNEXT – Sri Lanka is yet to ascertain if the attack plan at its Eastern coastal tourism hotspot of Arugam Bay is a false alarm, but it does not consider the incident as a pressure tactic, Cabinet spokesman Vijitha Herath said.
+
+The intelligence information of a possible attack against Jews in an Arugam Bay area was first shared by foreign intelligence agency with the local counterpart and the government swiftly tightened the security to ensure the safety of both locals and foreign tourists, he said.
+
+“It is yet to ascertain if this is a a false alarm because only after the investigation we will be able to find whether the information is true or false,” Herath told the weekly post-Cabinet news briefing in Colombo on Tuesday (29) while responding to a question if the government thinks it was a false alarm or a pressure tactic by an external group.
+
+The U.S. Embassy in Colombo issued a travel advisory first asking its citizens to avoid Arugam Bay.
+
+...
+
+[Data](articles/fd4c83a4.json)
+
+[Extended Data](ext_articles/fd4c83a4.ext.json)
+
+---
+
 ### The housemaid who stole the pilot's bag of the aircraft he came
 
 *2024-10-29 20:40:43* · [`adalk`](https://www.ada.lk/breaking_news/තමා-පැමිණි-ගුවන්-යානයේ-ගුවන්-නියමුවාගේ-බෑගය-සොරා-ගත්-ගෘහ-සේවිකාව/11-412747) · `si`
@@ -717,6 +755,52 @@ It is reported that a security guard at the Beliyatta railway station was search
 [Data](articles/3ccba384.json)
 
 [Extended Data](ext_articles/3ccba384.ext.json)
+
+---
+
+### Sri Lanka central bank defends open market operations as concerns rise
+
+*2024-10-29 19:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-defends-open-market-operations-as-concerns-rise-185503/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has defended its inflationary open market operations where money was injected to overtrading banks pushing up deposits at its standing window to 200 billion rupees by October 29.
+
+Barely a month ago deposits in the window was around 100 to 120 billion rupees.
+
+That was because foreign banks which did not lend in interbank market due to risk limits. This has been well reported earlier. The volumes came down as confidence increased.
+
+Related Sri Lanka injects Rs130bn outright amid high private sector sterilization
+
+However, by freely injecting money to overtrading banks, this amount has now gone up to 200 billion rupees.
+
+While some of the money comes from central bank purchases of dollars, the liberal open market operations are also responsible for the balance.
+
+The central bank in an explanatory note has said that if it did not do so, interest rates would have gone up to very high levels.
+
+...
+
+[Data](articles/f236ea92.json)
+
+[Extended Data](ext_articles/f236ea92.ext.json)
+
+---
+
+### Sri Lanka leader eyes fast tracking digitization, formalizing informal economy
+
+*2024-10-29 19:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-eyes-fast-tracking-digitization-formalizing-informal-economy-185505/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has promised to fast track long discussed digitization process and promised to complete the national digital identity card initiative within 18 months with an aim to systematic formalization of the informal economy to ensure public welfare, President’s Media Division (PMD) said.
+
+President made the pledges when he met top banking sector officials on Tuesday (29).
+
+“The President highlighted the critical importance of digitizing Sri Lanka’s economy, including the implementation of a National Digital ID initiative, which he pledged would be completed within a focused timeframe of one and a half years,” the PMD said in a statement.
+
+Sri Lanka has a large informal economy with around two third of the labour force are working in informal sectors and government officials say digitization is the key to brining in informal sector into the tax net.
+
+...
+
+[Data](articles/55a3902f.json)
+
+[Extended Data](ext_articles/55a3902f.ext.json)
 
 ---
 
@@ -1266,6 +1350,28 @@ Moreover, a major party will be pleading with the people to vote for their party
 
 ---
 
+### Sri Lanka stocks close up, HNB sees interest
+
+*2024-10-29 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-hnb-sees-interest-185492/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader ASPI closed up 1.07 percent, or 135.54 points, at 12,745; while the more liquid S&P SL20 Index closed up 1.71 percent, or 64.83 points, at 3,855.
+
+Top turnover generators were Hatton National Bank (up at 230.25), Sampath Bank (up at 88.10), Commercial Bank (up at 117.50), Lanka IOC (up at 115.75) and CIC Holdings (up 81.50).
+
+Melstacorp (up at 93.10), and Cargills (up at 392.75) were among the top contributors to the ASPI.
+
+Crossings were recorded on HNB, Commercial Bank, LB Finance (up at 74.20), Sampath Bank, CIC Holdings (up at 81.50), Seylan Bank (up at 53.50), Sunshine Holdings (flat at 66.90), and ACL Cables (up at 92.50).
+
+Foreign buying interest was seen in Lankem Developments (up at 22.10), Dipped Products (up at 39.10), Sampath Bank, Richard Pieris and Co (up at 22.60), CIC, and Chevron Lubricants (up at 126.50)
+
+...
+
+[Data](articles/4e5ccfbb.json)
+
+---
+
 ### South Africa attacked Bangladesh in South Africa on the first day
 
 *2024-10-29 16:59:03* · [`adalk`](https://www.ada.lk/sports/පළමු-දිනයේදීම-දකුණු-අප්‍රිකාවෙන්-බංග්ලාදේශයට-දැඩි-ප්‍රහාරයක්/9-412742) · `si`
@@ -1625,6 +1731,26 @@ But I could not work together for various reasons, then this' Brother: I told hi
 [Data](articles/d0f388dd.json)
 
 [Extended Data](ext_articles/d0f388dd.ext.json)
+
+---
+
+### Sri Lanka sells Rs145bn in treasury bills, yields up for shorter maturities
+
+*2024-10-29 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs145bn-in-treasury-bills-yields-up-for-shorter-maturities-185465/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were up across the shorter term maturities at Wednesday’s auction with all offered 145 billion rupees of bills sold, data from the debt office showed.
+
+The 3-month yield was up 3 basis points at 9.35 percent, with 55 billion offered and 89 billion rupees bills sold.
+
+The 6-month yield was up 3 basis points at 9.68 percent, with 55 billion offered and 53.2 billion rupees of bills sold.
+
+The 12-month bills held steady at 9.95 percent, with 35 billion offered and 2.7 billion rupees of bills sold.
+
+The 6 and 9 month bills are available on tap after the auction.  (Colombo/Oct29/2024)
+
+◼️
+
+[Data](articles/67e27a03.json)
 
 ---
 
@@ -2238,6 +2364,26 @@ Former Minister Johnston Fernando, was arrested by the CID over an incident of a
 
 ---
 
+### No bank notes with AKD’s signature means no money printed, claims cabinet spox
+
+*2024-10-29 13:56:00* · [`economynextcom`](https://economynext.com/no-bank-notes-with-akds-signature-means-no-money-printed-claims-cabinet-spox-185444/) · `en`
+
+ECONOMYNEXT — Sri Lanka hasn’t printed new money, as evidenced by the absence of currency notes bearing the signature of the incumbent minister of finance, cabinet spokesman Vijitha Herath said.
+
+At the weekly cabinet press briefing, Herath said the government had not printed money.
+
+EconomyNext reported on Sunday that the central bank had injected 36.16 billion rupees through an overnight auction and 70 billion rupees for 7 days through a term auction of printed money (against domestic assets) in a country where the central bank is trying to collect reserves.
+
+By October 25, excess liquidity deposited in the central bank’s standing facility was 193.4 billion rupees, up from 138 billion rupees a month earlier.
+
+The column warned that the practices driving up interbank liquidity through domestic operations, if continued, especially when private credit picks up, will hit the external sector, as it had done on earlier occasions.
+
+...
+
+[Data](articles/7ec15226.json)
+
+---
+
 ### Investigation into allegations against Rohitha
 
 *2024-10-29 13:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோஹித-மீதான-குற்றச்சாட்டுகள்-தொடர்பில்-விசாரணை/175-346263) · `ta`
@@ -2332,172 +2478,22 @@ EspressApp uses OTP Password information sended by WhatsApp messages, especially
 
 ---
 
-### Immediate measures to resolve salary disparities of Teacher Advisors’ Service, court told
+### US Embassy, WhimsicalWits launch Cyber Hero app to promote digital safety in Sri Lanka
 
-*2024-10-29 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103007/immediate-measures-to-resolve-salary-disparities-of-teacher-advisors-service-court-told) · `en`
+*2024-10-29 13:18:00* · [`economynextcom`](https://economynext.com/us-embassy-whimsicalwits-launch-cyber-hero-app-to-promote-digital-safety-in-sri-lanka-185436/) · `en`
 
-The Attorney General (AG) informed the Supreme Court that immediate measures will be taken to pay the salaries of the Sri Lanka Teacher Advisors’ Service after resolving disparities in their salary scales.
+ECONOMYNEXT – The US Embassy in Sri Lanka and WhimsicalWits has launched a mobile app to educate and empower youth and marginalized communities on digital safety and responsible online behavior.
 
-This was communicated to the court by Deputy Solicitor General Yuresha de Silva, who appeared on behalf of the AG when a Fundamental Rights (FR) petition filed by the All Island Teacher Advisors’ Association seeking to resolve the salary disparities was taken up today (29).
+The Cyber Hero app was developed by a female-led team at WhimsicalWits to promote cybersecurity and digital literacy.
 
-Appearing for the petitioning party, Attorney-at-Law Nuwa Bopage stated before the court that the salary scales of the Sri Lanka Teacher Advisors remain lower than the salaries of the teachers and that his clients have undergone a severe injustice through this situation.
+It teaches users how to recognize and respond to cyber threats, such as phishing, malware, and privacy breaches, making it an effective resource for building digital resilience among young people and communities.
 
-However, the Deputy Solicitor General informed the court that measures will be taken to remove the relevant salary disparities in the near future.
+“Cybersecurity isn’t just a global issue; it’s personal and local,” US Ambassador Julie Chung said at the launch event held at the American Center in Colombo, where Chung and Uthpala Pathirana, Managing Director of WhimsicalWits demonstrated the app.
 
-...
-
-[Data](articles/8d3f8ebe.json)
-
-[Extended Data](ext_articles/8d3f8ebe.ext.json)
-
----
-
-### Johnston’s illegal luxury car: 2 more suspects surrender to CID
-
-*2024-10-29 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103005/johnstons-illegal-luxury-car-2-more-suspects-surrender-to-cid) · `en`
-
-Two more suspects have surrendered to the Criminal Investigations Department (CID) in connection with the case against former Minister Johnston Fernando over the illegally acquired BMW car.
-
-The suspects have subsequently been produced before the Fort Magistrate’s Court, Ada Derana reporter said.
-
-Former Minister Johnston Fernando, was arrested by the CID over an incident of an unregistered luxury vehicle allegedly belonging to him found suspiciously parked at a star-class hotel premises, and he was remanded until October 30 by Colombo Fort Magistrate.
-
-◼️
-
-[Data](articles/1c10933b.json)
-
-[Extended Data](ext_articles/1c10933b.ext.json)
-
----
-
-### Intelligence on Arugam Bay attack is not foreign influence against the county - Minister
-
-*2024-10-29 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103006/intelligence-on-arugam-bay-attack-is-not-foreign-influence-against-the-county-minister) · `en`
-
-Cabinet Spokesperson Minister Vijitha Herath says that a foreign intelligence agency provided information to Sri Lanka’s State Intelligence Service (SIS) about a planned attack in the country, and the security measures were taken accordingly.
-
-Speaking at the Cabinet press conference held today (29), the minister said that the National Security Council (NSC) was convened to make prompt decisions in response to the threat.
-
-He further stated that several suspects have been arrested and produced before the courts and that further investigations are underway in this regard.
-
-However, the minister emphasized that these intelligence agencies were not any sort of foreign influence against the country, noting that the United States had issued a caution regarding travel to the Arugam Bay area but no official travel ban had been imposed.
-
-◼️
-
-[Data](articles/90e75c41.json)
-
-[Extended Data](ext_articles/90e75c41.ext.json)
-
----
-
-### Court permission to name Ranil as respondent
-
-*2024-10-29 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202688) · `si`
-
-Supreme Court allows naming Ranil Wickremesinghe as respondent in petition filed by Deshabandu Tennakoon. Case presented on Nov 11.
-
-🟩
-
-The Supreme Court has granted permission to name former President Ranil Wickremesinghe as a respondent in a petition filed by Deshabandu Tennakoon.
-
-A petition filed by the Young Journalists Association was summoned before the Supreme Court today (29).
-
-President's Counsel Saliya Peiris appearing on behalf of the petition as a result of the summoned by a motion, Mr. Saliya Peiris appeared in the courts as a respondent of the petition.
-
-Accordingly, the judge panel of judges allowed to name the former President as a respondent and then the petition was presented on November 11.
-
-The petitions were summoned before the Petitio Padman Surasena and Janak de Silva today (29).
-
-◼️
-
-[Data](articles/40223deb.json)
-
-[Extended Data](ext_articles/40223deb.ext.json)
-
----
-
-### No funds allocated for public service salary increase, govt. says
-
-*2024-10-29 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103004/no-funds-allocated-for-public-service-salary-increase-govt-says) · `en`
-
-Cabinet Spokesman and Minister Vijitha Herath confirmed that no funds have been allocated to increase salaries for public sector employees, contrary to the previous government’s announcements.
-
-Minister Herath cited findings from a report by Mr. Udaya R. Seneviratne, indicating that since January, no financial provision has been made for salary increments within the public sector. “We haven’t even assessed if funds are available for this purpose,” he noted.
-
-Herath further emphasized that although the Cabinet of Ministers can make policy decisions, there is currently no fiscal pathway to implement them.
-
-In 2024, a government directive was issued to adjust public service allowances and pension contributions. However, according to the minister, any relief tied to living expenses remains limited to an interim payment of Rs. 5,000 per month until March 2025, leaving the promised increase in question.
+The app, which is available for free on the Google Play Store, is designed to immerse players in real-world online safety scenarios.
 
 ...
 
-[Data](articles/6f68d45f.json)
-
-[Extended Data](ext_articles/6f68d45f.ext.json)
-
----
-
-### Arrested with domestic gun
-
-*2024-10-29 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/197391) · `ta`
-
-Man arrested Monday Mahayaya area Konagangara police division 52-year-old Wellawaya domestic gun incident
-
-🟩
-
-A man was arrested by police on Monday (28) in the Mahayaya area, which belongs to the Konagangara Police Division.
-
-The suspect has been arrested during a roundup of confidential information received by the Konagangara police.
-
-The arrested suspect is 52 years old from Wellawaya.
-
-◼️
-
-[Data](articles/c362e1e2.json)
-
-[Extended Data](ext_articles/c362e1e2.ext.json)
-
----
-
-### Two LTTE cases on the case against former MP Johnston's BMW
-
-*2024-10-29 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202689) · `si`
-
-Former MP Johnston Fernando faces legal action over BMW case. Two additional suspects appear in court, accused of illegal activities related to his vehicle custody.
-
-🟩
-
-Two more suspects have been produced before the Fort Magistrate's Court regarding the illegal earned by the custody of former Parliamentarian Johnston Fernando.
-
-◼️
-
-[Data](articles/eaf7eaab.json)
-
-[Extended Data](ext_articles/eaf7eaab.ext.json)
-
----
-
-### Lion Mano Launches in Colombo North
-
-*2024-10-29 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/197395) · `ta`
-
-Lion Mano contests Colombo North parliamentary election. Promises reforms, supports education, entrepreneurship, and crime prevention. Seeks votes under United Democratic Voice Party symbol Mike 17.
-
-🟩
-
-Lion Mano, who is contesting the parliamentary elections in the North of Colombo in the United Democratic Voice Party, has called for a new changes in the country and to support the country for our future generations.
-
-As the parliamentary elections are scheduled for November 14, Social Service in Colombo North constituency on behalf of the United Democratic Voice Party is contesting on No. 17 at No. 17.
-
-Lion Mano, who has issued a media report on his future parliamentary entry, said.
-
-In the past, I have joined the Lions Corporation and carried out social services for the people and later served as a member of the Municipal Council in the Colombo Municipal Council and has done many services to the people of Colombo and other people in the country.
-
-I am fielding in the upcoming parliamentary election to make many more services. I am contesting the election to serve the people who believe in me.
-
-...
-
-[Data](articles/fac095c6.json)
-
-[Extended Data](ext_articles/fac095c6.ext.json)
+[Data](articles/5ee91ea4.json)
 
 ---

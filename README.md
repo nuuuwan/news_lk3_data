@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 22:58:13**
+As of **2024-10-29 23:11:30**
 
 ## Newspaper Stats
 
-*Scraped **52,097** Articles*
+*Scraped **52,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,847
 adaderanalk | 6,174
-tamilmirrorlk | 7,222
+tamilmirrorlk | 7,224
 virakesarilk | 8,418
 adaderanasinhalalk | 9,067
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,097 (100.0%) of 52,097 articles have been extended.
+52,097 (100.0%) of 52,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### O/L பரீட்சை குறித்து கல்வி அமைச்சின் புதிய அறிவிப்பு
+
+*2024-10-29 22:44:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சை-குறித்து-கல்வி-அமைச்சின்-புதிய-அறிவிப்பு/175-346296) · `ta`
+
+2024ஆம் ஆண்டுக்கான கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சை அடுத்த ஆண்டு மார்ச் மாதத்தில் நடைபெற உள்ளதாக கல்வி அமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+2025ஆம் ஆண்டில் முதலாம் தவணை பாடசாலை கல்வி நடவடிக்கைகளின் முதலாம் கட்டம் ஜனவரி 27ஆம் திகதி முதல் ஏப்ரல் 11ஆம் திகதி வரை நடைபெறவுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.  R
+
+◼️
+
+[Data](articles/80fdfde0.json)
+
+---
 
 ### India-Sri Lanka Joint Working Group discusses mutually acceptable and long-lasting solution for fishermen issue
 
@@ -49,6 +63,22 @@ The delegations undertook a comprehensive review of all relevant issues pertaini
 [Data](articles/793d0b95.json)
 
 [Extended Data](ext_articles/793d0b95.ext.json)
+
+---
+
+### மின்சாரக் கட்டணம் கணிசமான அளவு குறையும் - ஜனாதிபதி
+
+*2024-10-29 22:23:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரக்-கட்டணம்-கணிசமான-அளவு-குறையும்-ஜனாதிபதி/175-346295) · `ta`
+
+அடுத்த சில வருடங்களில் மின்சாரக் கட்டணத்தை கணிசமான அளவு குறைப்பது அரசாங்கத்தின் எதிர்பார்ப்பு என ஜனாதிபதி அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+
+இலங்கை வர்த்தக சம்மேளனத்தின் பிரதிநிதிகள் குழுவுடனான கலந்துரையாடலின் போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+தற்போதைய நிர்வாகத்தின் கீழ் அடுத்த 3 வருடங்களில் முழு நாடும் டிஜிட்டல் மயமாக்கப்படும் எனவும் ஜனாதிபதி சுட்டிக்காட்டியுள்ளார்.
+
+◼️
+
+[Data](articles/750d7dc1.json)
 
 ---
 
@@ -2457,61 +2487,5 @@ The arrested suspect is 41 -year -old from Waduvai.
 [Data](articles/8a159904.json)
 
 [Extended Data](ext_articles/8a159904.ext.json)
-
----
-
-### Steps to import vehicles subject to a method
-
-*2024-10-29 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202687) · `si`
-
-Government allows vehicle imports after Cabinet decision. Steps: inform public, establish import process, consult stakeholders. Avoid hasty decisions affecting economy.
-
-🟩
-
-Cabinet spokesman Vijitha Herath says that the government has decided to allow the importation of vehicle imports.
-
-He was speaking to the cabinet decisions today and said the Central Bank had agreed on it.
-
-Accordingly, steps will be taken to inform the public and inform the public.
-
-"The government has decided to give the opportunity to allow the vehicle imports of vehicle imports. The Central Bank has agreed to the matter. Therefore, you will make a proper mechanism and inform the methodology. It has involved in discussions with different people. Consider all these things and do not gradually do the same way to leave our money. "
-
-◼️
-
-[Data](articles/4296f4f9.json)
-
-[Extended Data](ext_articles/4296f4f9.ext.json)
-
----
-
-### A revelation of the cause of the railway technologies
-
-*2024-10-29 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202686) · `si`
-
-Railway technicians' shortage causes industrial faults, delaying trains. Government urged to address vacancy issues to prevent future disruptions. Coastal road and Kelani railways affected but services restored.
-
-🟩
-
-It is reported that the railway technicians in the Railway Department has been a major cause of industrial faults.
-
-Several trains were under the past week and yesterday (28) and the railway passengers were severely embarrassed.
-
-Deputy General Manager of Railways NP. J. Mr. Buddy said that there was a number of occasions regarding the vacancies of technicians.
-
-However, he said that the governments of the government have failed to now have failed to solve it.
-
-The Deputy General Manager of the Railways said that if the deficit of train continues to exist, the problems of operating the railway service will be emerged.
-
-Therefore, the present government is expected to be informed to recruit industrial venson.
-
-Meanwhile, the delays of the coastal road and Kelani Railways were delayed due to the railway industrial faults this morning.
-
-However, the Deputy General Manager of the Deputy General Manager said that the trains are restored and running is normal.
-
-◼️
-
-[Data](articles/de900739.json)
-
-[Extended Data](ext_articles/de900739.ext.json)
 
 ---

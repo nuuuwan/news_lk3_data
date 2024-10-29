@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-29 12:39:51**
+As of **2024-10-29 12:58:33**
 
 ## Newspaper Stats
 
-*Scraped **51,984** Articles*
+*Scraped **51,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailyftlk | 3,545
 dailymirrorlk | 4,733
 adalk | 4,833
 adaderanalk | 6,159
-tamilmirrorlk | 7,200
+tamilmirrorlk | 7,201
 virakesarilk | 8,385
-adaderanasinhalalk | 9,043
+adaderanasinhalalk | 9,044
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-51,983 (100.0%) of 51,984 articles have been extended.
+51,986 (100.0%) of 51,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-29 (Tuesday)
+
+### Minister Vijitha's statement on increasing the salaries of public servants
+
+*2024-10-29 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202685) · `si`
+
+Vijitha Herath denies salary increases for public servants. Claims no funds allocated, citing lack of cabinet approval. Government previously announced 10,000 rupee raise, but implementation delayed. Circular issued for Cost of Living Allowance adjustment from 2024 to 2025. Public servants await clarity on future salary changes.
+
+🟩
+
+Cabinet spokesman Vijitha Herath says that no reservation has been made to increase the salaries of the public service.
+
+Addressing a press conference to inform the Cabinet decisions today (29), he said that the government had not even observed.
+
+...
+
+[Data](articles/4413608a.json)
+
+[Extended Data](ext_articles/4413608a.ext.json)
+
+---
+
+### Ranil's promise is false; the Prime Minister
+
+*2024-10-29 12:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-வாக்குறுதி-பொய்யானது-பிரதமர்/175-346260) · `ta`
+
+Harini Amarasuriya denies Ranil Wickremesinghe's claim about raising civil servant salaries, citing lack of implementation steps. She accuses him of making false promises to voters.
+
+🟩
+
+Prime Minister Harini Amarasuriya has said that despite the Cabinet decision to increase the salaries of former President Ranil Wickremesinghe, the procedures for implementing the resolution have not been followed.
+
+“Although Ranil Wickremesinghe claims to have decided to raise the salary of civil servants, it is evident that it was not recognized by the consent of the Treasury or Finance Ministry when reviewing the Cabinet decision.
+
+A decision was announced, but the necessary measures were not taken to implement it. So, what does it mean?This clearly points out the false promise made to mislead the civilians during the election, ”he said at a public meeting held on October 27.
+
+◼️
+
+[Data](articles/cc14ff81.json)
+
+[Extended Data](ext_articles/cc14ff81.ext.json)
+
+---
 
 ### Ceylon -Indian fishermen negotiations beginning
 
@@ -658,21 +700,33 @@ Four people were traveling in the car when the car crashed and no one was injure
 
 ---
 
-### படுகுழியில் இருந்து வெளியேறி பிரிக்ஸிற்குள் நுழைதல்
+### Exit from the abyss and enter the brigs
 
 *2024-10-29 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197361) · `ta`
 
-ஒக்டோபர் 22 முதல் 24 வரை 16வது பிரிக்ஸ் மாநாடு ரஷ்யாவின் கசான் நகரில் நடைபெற்றது. பிரேசில், ரஷ்யா, இந்தியா, சீனா மற்றும் தென்னாப்பிரிக்கா ஆகிய பிரதான குழு உறுப்பினர்களுடன், இந்த ஆண்டு எகிப்து, எத்தியோப்பியா, ஈரான் மற்றும் ஐக்கிய அரபு எமிரேட்ஸ் ஆகியவை முறையாக சேர்க்கப்பட்டன.
+Here's a 200-character summary:
 
-உச்சிமாநாட்டின் போது, மலேசியா, இந்தோனேசியா, தாய்லாந்து, வியட்நாம், நைஜீரியா, உகாண்டா, கியூபா மற்றும் பொலிவியா உட்பட மேலும் 13 நாடுகள் பங்குதாரர் உறுப்பினர்களாக ஆகின.
 
-இந்த ஆண்டு, பிரிக்ஸில் அங்கத்துவம் பெற விண்ணப்பித்த உலகளாவிய தெற்கில் இருந்தான வளர்ந்து வரும் நாடுகளின் பட்டியலில் இலங்கையும் இணைகிறது. கசான் உச்சிமாநாட்டிற்கு சென்ற இலங்கை தூதுக்குழுவினருக்கு வெளியுறவு செயலாளரான அருணி விஜேவர்தன தலைமை தாங்கினார்.
 
-அதேநேரத்தில், வெளிவிவகார அமைச்சரான விஜித ஹேரத் பிரிக்ஸ் நாடுகளுடன் இணைந்து கொள்வதற்கு ஆதரவளிக்குமாறு கடிதம் எழுதியுள்ளார்.
+BRICS expansion: Egypt, Ethiopia, UAE join; 13 countries become partners. Summit addresses global tensions. China's Xi Jinping calls for unity and cooperation. BRICS aims to counter US dominance and promote southern nations' interests.
+
+🟩
+
+October 22 to 24 was held in Kasan, Russia, the 16th BRICS conference. Egypt, Ethiopia, Iran and the United Arab Emirates were formally added this year with the main group members of Brazil, Russia, India, China and South Africa.
+
+During the summit, 13 other countries, including Malaysia, Indonesia, Thailand, Vietnam, Nigeria, Uganda, Cuba and Bolivia, became a partner.
+
+This year, Sri Lanka also joins the list of developing countries from the global South who applied for a member of the Brig.. Foreign Secretary Aruni Wijewardena presided over the Sri Lankan delegation who visited the Kasan summit.
+
+At the same time, Foreign Minister Vijitha Herath has written a letter to support the BRICS countries.
+
+The Kasan summit is in the wake of the increasing tense global atmosphere, which is classified by the Israeli genocide event in Gaza, the NATO -led proximity war in Ukraine and the US -led new Cold War on China.
 
 ...
 
 [Data](articles/f685a062.json)
+
+[Extended Data](ext_articles/f685a062.ext.json)
 
 ---
 
@@ -2283,41 +2337,5 @@ Officers of the Ministry of Finance gave purchasing money to small and medium sc
 [Data](articles/604e935c.json)
 
 [Extended Data](ext_articles/604e935c.ext.json)
-
----
-
-### Another luxury cart recovery
-
-*2024-10-28 18:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-சொகுசு-வண்டி-மீட்பு/175-346217) · `ta`
-
-Luxury car recovered from police station. Former council member owned it. Vehicle handed to state analyst for investigation in Matara district.
-
-🟩
-
-The vehicle, which was taken to the police station, was revealed that the vehicle was a former member of the United People's Power Southern Provincial Council.
-
-The seized vehicle has been handed over to the State Analyst and further investigations are being carried out by Matara. Remble
-
-◼️
-
-[Data](articles/98696c15.json)
-
-[Extended Data](ext_articles/98696c15.ext.json)
-
----
-
-### Trains delayed due to derailment between near Maradana station
-
-*2024-10-28 18:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102989/trains-delayed-due-to-derailment-between-near-maradana-station) · `en`
-
-The derailment of a train between Colombo Fort and Maradana railway stations has delayed train services on several lines, according to the Railway Department.
-
-It is reported that the train which had derailed near the Kompanna Veediya railway station this morning (28) had derailed once again near the Maradana station after it had been re-railed and was en route to the train yard.
-
-◼️
-
-[Data](articles/cbec42de.json)
-
-[Extended Data](ext_articles/cbec42de.ext.json)
 
 ---

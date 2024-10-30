@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 18:21:12**
+As of **2024-10-30 18:35:50**
 
 ## Newspaper Stats
 
-*Scraped **52,241** Articles*
+*Scraped **52,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,858
-adaderanalk | 6,197
-tamilmirrorlk | 7,244
+adaderanalk | 6,198
+tamilmirrorlk | 7,245
 virakesarilk | 8,433
 adaderanasinhalalk | 9,096
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 9,096
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,241 (100.0%) of 52,241 articles have been extended.
+52,243 (100.0%) of 52,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Indonesia arrests former trade minister in sugar import graft case
+
+*2024-10-30 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103045/indonesia-arrests-former-trade-minister-in-sugar-import-graft-case) · `en`
+
+Indonesian authorities investigating graft have arrested a former trade minister turned government critic on suspicion of improperly granting a sugar import permit in 2015 that led to losses of $25 million.
+
+Thomas Trikasih Lembong was named a suspect and arrested late on Tuesday by prosecutors from the attorney general’s office, accused of giving the permit to a private company at a time when Indonesia had a surplus of sugar, the office said.
+
+“At that time, Indonesia did not need to import sugar but (Lembong) granted a permit to import 105,000 metric tons of raw crystal sugar,” prosecutor Abdul Qohar told a press conference.
+
+There was no consultation with other state bodies or a recommendation from the industry ministry, he said, adding that the decision had led to losses of 400 billion rupiah ($25.42 million).
+
+Qohar did not say what Lembong is accused of having received in return for the permit to the company, which authorities identified only by its initials, PT AP.
+
+...
+
+[Data](articles/5eb3a94f.json)
+
+[Extended Data](ext_articles/5eb3a94f.ext.json)
+
+---
+
+### Student in the rocky pussy: Recovery after 20 hours
+
+*2024-10-30 18:01:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாறை-இடுக்கில்-மாணவி-20-மணி-நேரத்துக்கு-பிறகு-மீட்பு/175-346325) · `ta`
+
+College student trapped in rock for 20 hours, rescued by firefighters in Karnataka.
+
+🟩
+
+A college student who was trapped in a rock when he went to take a cellphone, was rescued after a 20 -hour struggle. The incident took place in Karnataka.
+
+Somanath Gowda (48) hails from Sravarnapura near Kuppi in Karnataka State's Tumakuru district. Native daughter Amsa S Gowda (20). He is attending a B.Tech second year at a private college there.
+
+He traveled with friends to Maidala Lake near Tumkur on Sunday evening (27). When he climbed on the rock and took the cell phone, he fell on the rock. Shocked friends immediately informed the police and the fire department. The firefighters rushed to the scene and tried to rescue the woman.
+
+Broke the rocks and tried to recover through the rope and chain. But he was trapped between the rocks and was trapped below 30 feet.
+
+...
+
+[Data](articles/17261b86.json)
+
+[Extended Data](ext_articles/17261b86.ext.json)
+
+---
 
 ### 9 years of love fells - girlfriend hospitalized
 
@@ -2381,37 +2427,5 @@ In this post-crisis milieu, Government has a difficult balancing act to ensure a
 [Data](articles/63dd6d0e.json)
 
 [Extended Data](ext_articles/63dd6d0e.ext.json)
-
----
-
-### Reforming termination laws: Strengthening apparel industry and social security
-
-*2024-10-30 05:50:56* · [`dailyftlk`](https://www.ft.lk/opinion/Reforming-termination-laws-Strengthening-apparel-industry-and-social-security/14-768581) · `en`
-
-Former JAAF Chief says job of Government is to protect both the employer and employee
-
-The Sri Lankan apparel sector has faced many challenges in recent years. Beyond the well-documented local challenges, the industry has also had to grapple with challenges originating from afar such as COVID-19 and the resultant economic uncertainties in the subsequent years and the geopolitical tensions which have added to the complexities surrounding global maritime logistics which have a direct impact on Sri Lanka’s favourability as a production location. As international demand waned, many manufacturers, especially small and medium-sized businesses, were forced to reduce operations. However, outdated termination laws in Sri Lanka have hindered local industries’ ability to adapt, leaving many with no choice but to shut down their factories entirely.
-
-...
-
-[Data](articles/9d836683.json)
-
-[Extended Data](ext_articles/9d836683.ext.json)
-
----
-
-### Debt sustainability options for President AKD
-
-*2024-10-30 05:49:21* · [`dailyftlk`](https://www.ft.lk/columns/Debt-sustainability-options-for-President-AKD/4-768580) · `en`
-
-A sustainable debt strategy rooted in transparency and collaboration with international stakeholders is essential to restore economic confidence and secure a brighter future for Sri Lanka
-
-Sri Lanka’s debt burden has been a persistent challenge, driving the country into numerous fiscal crises over the past few decades, including the 2022 crisis that brought the country to bankruptcy. The country’s high levels of external and domestic debt have been exacerbated by political mismanagement, economic shocks, COVID pandemic, and global financial pressures. The recent crisis underscores the need for a comprehensive debt sustainability strategy, particularly with a new President in place. Several key options could help Sri Lanka better manage its debt, support long-term economic stability, reduce money printing and regain investor confidence to attract top FDI.
-
-...
-
-[Data](articles/d9dacc3c.json)
-
-[Extended Data](ext_articles/d9dacc3c.ext.json)
 
 ---

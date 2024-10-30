@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 08:45:29**
+As of **2024-10-30 09:00:00**
 
 ## Newspaper Stats
 
-*Scraped **52,146** Articles*
+*Scraped **52,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,39 @@ colombotelegraphcom | 530
 bbccomsinhala | 530
 islandlk | 3,106
 economynextcom | 3,170
-dailyftlk | 3,560
+dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,848
 adaderanalk | 6,174
 tamilmirrorlk | 7,227
 virakesarilk | 8,421
-adaderanasinhalalk | 9,071
+adaderanasinhalalk | 9,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,141 (100.0%) of 52,146 articles have been extended.
+52,141 (100.0%) of 52,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### විදෙස් ජාතිකයින් 6 දෙනෙක් අත්අඩංගුවට
+
+*2024-10-30 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202716) · `si`
+
+වීසා නොමැතිව මෙරට රැඳී සිටි විදේශිකයින් 6 දෙනෙකු සීදුව අමන්දොළුව ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ ආගමන විගමන නීති උල්ලඝනය කරමින් විදේශිකයන් පිරිසක් සිටින බවට ලද තොරතුරකට අනුව සිදුකළ වැටලීමකදී සැකකරුවන් අත්අඩංගුවට ගැනීමට හැකිවූ බවය.
+
+අත්අඩංගුවට ගෙන ඇත්තේ 18, 23, 26, 39 හා 43 යන වයස් සීමාවේ පසුවන බංගලිදේශ ජාතිකයින් බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/b63e0579.json)
+
+---
 
 ### A serious accusation of the Department of Animal Production and Health
 
@@ -207,6 +223,22 @@ Are we doing it right? Is this our potential? Is international marketing done in
 [Data](articles/5281e16c.json)
 
 [Extended Data](ext_articles/5281e16c.ext.json)
+
+---
+
+### Amendments to tax policy imperative for better prospects
+
+*2024-10-30 05:52:09* · [`dailyftlk`](https://www.ft.lk/columns/Amendments-to-tax-policy-imperative-for-better-prospects/4-768582) · `en`
+
+Tax policy must be reflective of real market conditions for consumers and the public
+
+Sri Lanka’s new Government and executive brings with it a new dimension of thinking to policy and governance. Therein lies significant opportunity, albeit laden with challenges, to change the way Sri Lanka does business and how we are perceived by the world.
+
+In this post-crisis milieu, Government has a difficult balancing act to ensure a positive trade balance, manage its primary account considering IMF expectations, all whilst providing relief to a burdened public in the run up to 2028, when debt payments must resume. Reform should encompass better governance – combat corruption, drive exports and investment, stop wastage and a review of tax and industrial policy to strengthen returns. The Government led by the new President must adopt a fact-based approach towards policy, as opposed to strategy and actions that were often driven by political whims and favouritism.
+
+...
+
+[Data](articles/21671abd.json)
 
 ---
 
@@ -2287,81 +2319,5 @@ Further investigations are being carried out by the Valaichenai police as the sc
 [Data](articles/b3c52f5b.json)
 
 [Extended Data](ext_articles/b3c52f5b.ext.json)
-
----
-
-### Public alerted over surge in fake messages on WhatsApp and other social media
-
-*2024-10-29 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103011/public-alerted-over-surge-in-fake-messages-on-whatsapp-and-other-social-media-) · `en`
-
-The Sri Lanka Computer Emergency Readiness Team (SL CERT) today issued an alert to the public about the surge in fake messages being disseminated via social media and communication platforms, particularly WhatsApp.
-
-These deceptive messages are designed to fraudulently obtain personal and financial information by impersonating credible institutions, including banks, commercial organizations, and international bodies, according to the SL CERT.
-
-Recent observations by Sri Lanka CERT indicate that cybercriminals are using social media platforms, fake websites, SMS, and even postal services to reach potential victims. In many cases, these messages falsely promise donations, monetary rewards, high-value products, or services and request sensitive information, including One-Time Passwords (OTPs).
-
-By interacting with these fraudulent messages or clicking on embedded links, individuals risk exposing their personal data to criminal misuse, including financial fraud and identity theft, it added.
-
-...
-
-[Data](articles/599a5f70.json)
-
-[Extended Data](ext_articles/599a5f70.ext.json)
-
----
-
-### We will create a close -way public service that is close to citizens - the President
-
-*2024-10-29 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197414) · `ta`
-
-This text appears to be a speech or statement by President Anura Kumara Dissanayake of Sri Lanka. Here's a summary of the key points:
-
-
-
-1. The President emphasizes the need to transform politics into a service for the people, rather than a business.
-
-
-
-2. He criticizes current politicians who prioritize personal gain over national interests and public service.
-
-
-
-3. The President outlines plans to digitize government services, reduce privileges and costs for MPs and former presidents, and combat corruption.
-
-
-
-4. He promises to focus on education, agriculture, and economic development to improve people's lives.
-
-
-
-5. The speech calls for a free and fair election on November 14th to bring in newcomers who represent the National People's Power movement.
-
-
-
-6. The President addresses criticism that the election process is exhausting, arguing that this is a result of efforts to overcome obstacles left by previous rulers.
-
-
-
-7. He emphasizes the importance of mobilizing support for the upcoming election and invites citizens to participate in this effort.
-
-
-
-The overall tone is one of reform-minded leadership, criticizing the status quo and promising significant changes to governance and politics in Sri Lanka.
-
-🟩
-
-When we sell a GivR coat in India, our people are in the queues to buy five thousand rupees, buy ten kilos of rice, get the assurance of the land, and make the stability of the land.. In a short time, we will completely change all these and create a close -way public service that is close to citizens. President Anura Kumara Dissanayake said we show how and who to normalize the country.
-
-President Anura Kumara Dissanayake said this while addressing a meeting in Kalutara.
-
-People were confused due to false accusations put forward in the presidential election. The compass has been successful and has now been over a month. All of them are false.
-
-Opponents say on platforms to send experienced people to parliament. Those who have been able to steal, understand illegal activities, bring chilli to parliament, take a knife, have been able to repeat the hand to the wrong decisions, and raise their hand to the wrong resolutions.This is what we call the Parliament filling out by newcomers.
-
-...
-
-[Data](articles/032f0d40.json)
-
-[Extended Data](ext_articles/032f0d40.ext.json)
 
 ---

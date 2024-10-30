@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 05:45:40**
+As of **2024-10-30 06:10:21**
 
 ## Newspaper Stats
 
-*Scraped **52,120** Articles*
+*Scraped **52,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 413
 colombotelegraphcom | 530
 bbccomsinhala | 530
-islandlk | 3,097
+islandlk | 3,101
 economynextcom | 3,170
-dailyftlk | 3,549
+dailyftlk | 3,552
 dailymirrorlk | 4,733
 adalk | 4,848
 adaderanalk | 6,174
@@ -26,11 +26,65 @@ adaderanasinhalalk | 9,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,120 (100.0%) of 52,120 articles have been extended.
+52,126 (100.0%) of 52,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Will the new Government seize oceans of opportunity?
+
+*2024-10-30 05:39:53* · [`dailyftlk`](https://www.ft.lk/columns/Will-the-new-Government-seize-oceans-of-opportunity/4-768578) · `en`
+
+As I reflect on Sri Lanka’s recent Government change, I see not just a political shift but a pivotal moment for our nation — a chance to redefine our economic and environmental future.
+
+The question remains: will we seize the opportunity to become a leader in marine conservation, or will we let this moment slip away?
+
+Sri Lanka stands at the crossroads of unique opportunities that can redefine its trajectory. This moment calls for bold reforms and visionary leadership, especially in aligning our nation with global sustainability standards. For business leaders, Government officials, and practitioners across various sectors, one of the most significant ways to contribute to this progress lies in adopting the High Seas Treaty — a global agreement designed to protect marine biodiversity and ensure sustainable use of international waters.
+
+...
+
+[Data](articles/f6279b68.json)
+
+[Extended Data](ext_articles/f6279b68.ext.json)
+
+---
+
+### Sri Lanka’s ISF inks strategic partnership with NICO COCO to revolutionise coconut processing in Indonesia
+
+*2024-10-30 05:35:08* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-ISF-inks-strategic-partnership-with-NICO-COCO-to-revolutionise-coconut-processing-in-Indonesia/34-768576) · `en`
+
+Signing of the MoU between NICO COCO and ISF, witnessed by the Indonesian Ambassador to Sri Lanka Dewi Gustina Tobing
+
+ISF, a leading end-to-end engineering solution provider for the coconut and dairy processing industries in Sri Lanka, has signed a Memorandum of Understanding (MOU) with PT. Natural Indococonut Organik (NICO COCO), Indonesia’s leading coconut products manufacturer.
+
+The agreement, signed on 7 October at the INASCA (Indonesia South and Central Asia) Business Forum in Jakarta, Indonesia, is set to drive significant advancements in coconut processing technology in the region. Through this partnership, ISF will design state-of-the-art coconut processing plants for NICO COCO, bringing its decades of expertise to the forefront for the Indonesian market.
+
+...
+
+[Data](articles/c86655ad.json)
+
+[Extended Data](ext_articles/c86655ad.ext.json)
+
+---
+
+### Capital Maharaja Group continues to bolster Board  with new Group Finance Director
+
+*2024-10-30 05:33:32* · [`dailyftlk`](https://www.ft.lk/business/Capital-Maharaja-Group-continues-to-bolster-Board-with-new-Group-Finance-Director/34-768575) · `en`
+
+The Capital Maharaja Group (CMG) has appointed Lalith Fernando as Group Finance Director (GFD).
+
+Bringing over three decades of finance and business operations experience across diverse sectors, both locally and internationally, Lalith’s appointment marks another step in CMG’s strategic growth as it approaches its centenary.
+
+Lalith’s extensive expertise spans key industries, including Telecommunications, Banking, Software Development, Manufacturing, Utilities, and Advisory Services. As a seasoned CFO, he has been instrumental in executing successful business turnaround strategies, and his deep knowledge of mergers and acquisitions (M&A) has played a pivotal role in large-scale corporate and banking integrations in Sri Lanka.
+
+...
+
+[Data](articles/82b54dd3.json)
+
+[Extended Data](ext_articles/82b54dd3.ext.json)
+
+---
 
 ### OQ Trading gets contract to supply LPG for Litro in 2025
 
@@ -227,6 +281,52 @@ The first phase of the school education activities in 2025 will be held from Jan
 [Data](articles/80fdfde0.json)
 
 [Extended Data](ext_articles/80fdfde0.ext.json)
+
+---
+
+### Seylan Bank records a PAT of LKR 6.59 Bn.
+
+*2024-10-29 22:34:00* · [`islandlk`](http://island.lk/seylan-bank-records-a-pat-of-lkr-6-59-bn/) · `en`
+
+Seylan Bank recorded a Profit after Tax of LKR 6,593 Mn for the 9 months ended 30 September 2024 with a growth of 46.65% against LKR 4,496 Mn reported in the corresponding period of 2023 despite a challenging environment.
+
+Seylan Bank recorded a Profit before Tax (PBT) of LKR 10,608 Mn for the 9 months ended 30 September 2024, against LKR 7,181 Mn reported in the corresponding period of 2023 demonstrating a growth of 47.72%.
+
+Net Interest income decreased from LKR 30,554 Million to LKR 27,262 Million, a reduction of 10.77% compared with the previous year for the 9 months ended 30 September 2024, corresponding to reduction in Net Interest Margin from 5.76% in 2023 to 5.03% in Q3 2024.The Bank’s net fee based income recorded a growth of 8.10% from LKR 5,392 Million to LKR 5,829 Million during 9 months ended 30 September 2024, mainly due to increase in income from Cards, Remittances and other services relating to lending.
+
+...
+
+[Data](articles/a9484dec.json)
+
+[Extended Data](ext_articles/a9484dec.ext.json)
+
+---
+
+### BCIS Festival of Ideas: Commemorating 50 Years of International Studies
+
+*2024-10-29 22:34:00* · [`islandlk`](http://island.lk/bcis-festival-of-ideas-commemorating-50-years-of-international-studies/) · `en`
+
+In celebration of its golden jubilee, the Bandaranaike Centre for International Studies (BCIS) launches the Festival of Ideas, a collaborative initiative that promises to reshape conversations on international relations. Beginning Friday, November 1st, 2024, this thought-provoking programme unfolds every Friday of November (excluding the post-general election Friday) at the BCIS premises on Bauddhaloka Mawatha, Colombo.
+
+...
+
+[Data](articles/e416cbd0.json)
+
+[Extended Data](ext_articles/e416cbd0.ext.json)
+
+---
+
+### ‘99x Group emerges as a new tech powerhouse’
+
+*2024-10-29 22:31:00* · [`islandlk`](http://island.lk/99x-group-emerges-as-a-new-tech-powerhouse/) · `en`
+
+The 99x Group has emerged as a leading force in the global tech landscape, with seven companies from Norway, Malaysia, Sri Lanka, Brazil, and Portugal uniting to strengthen its position in product engineering services, IT consulting, and web solutions. Bringing together more than 600 employees worldwide, the group includes Seeds, LeanOn, Nextly, Cleverti, Incrementi, Clave, and 99x Technology. 99x is now poised to become one of Norway’s larger players in digital product development, continuing its rapid expansion after establishing a solid foundation over the past two years.
+
+...
+
+[Data](articles/22f0e941.json)
+
+[Extended Data](ext_articles/22f0e941.ext.json)
 
 ---
 
@@ -2343,149 +2443,5 @@ A hospital spokesman said that all four students who were taken to the hospital 
 [Data](articles/93bbe80e.json)
 
 [Extended Data](ext_articles/93bbe80e.ext.json)
-
----
-
-### Recovery of male body from well in Naramalai
-
-*2024-10-29 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197405) · `ta`
-
-Body recovered from well in Narammala; identity unknown; handed over to hospital for inquiry
-
-🟩
-
-The body of a man has been recovered from a well of a land in the Panavitiya area, which belongs to the Narammala police division, on Monday (28), the body of a man has been recovered.
-
-Police said no information has been received so far regarding the body of the body.
-
-Police said the body was placed in the funeral room of the Kurunegala Hospital after the magistrate's inquiries.
-
-◼️
-
-[Data](articles/d7057a45.json)
-
-[Extended Data](ext_articles/d7057a45.ext.json)
-
----
-
-### Arrested in ganja cultivation in Moneragala
-
-*2024-10-29 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197403) · `ta`
-
-Moneragala: 54-year-old man arrested for cannabis cultivation in Silvavala area. Etimalai police detained suspect during operation based on tip-off.
-
-🟩
-
-Etimalai police said that a suspect was arrested on Monday (28) at a garden in Silvavala area, which belongs to the Moneragala and Kotiyagala police division.
-
-The suspect has been arrested during a roundup based on confidential information received by the Etimalai police.
-
-The arrested suspect is 54 years old from Wheelaoya.
-
-◼️
-
-[Data](articles/8451ca31.json)
-
-[Extended Data](ext_articles/8451ca31.ext.json)
-
----
-
-### Arrested for illegally excavation in Norwood
-
-*2024-10-29 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197398) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-63-year-old man arrested for illegal excavation at Bottri estate in Nuwara Eliya. Police raided the site based on received information. Suspect from Bogawantalawa area. Incident occurred on Monday, August 28.
-
-🟩
-
-Norwood police said that a person who was illegally excavated at the Bottri estate, which belongs to the Norwood Police Division, Nuwara Eliya, was arrested on Monday (28).
-
-The suspect was arrested during a raid carried out on information received by Norwood police.
-
-The arrested suspect is 63 years old from Bogawantalawa, Nuwara Eliya.
-
-◼️
-
-[Data](articles/15397d25.json)
-
-[Extended Data](ext_articles/15397d25.ext.json)
-
----
-
-### New procedure for vehicle imports
-
-*2024-10-29 14:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதிக்கு-புதிய-நடைமுறை/175-346265) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"New import rules for vehicles announced. Minister Vijitha Herath briefed media on Cabinet decisions. Central Bank agrees. Future formal procedure planned. Action needed to keep money in country."
-
-🟩
-
-Speaker Minister Vijitha Herath said at a media briefing to announce the Cabinet decisions held today.
-
-He said that the Central Bank also agreed to this and that a formal procedure would be prepared in the future and would be notified to the public.
-
-He also pointed out that our money should be implemented with proper action to prevent our money from going abroad simultaneously.
-
-◼️
-
-[Data](articles/a560a39e.json)
-
-[Extended Data](ext_articles/a560a39e.ext.json)
-
----
-
-### Request to apply for a passport only if there are emergency requirements
-
-*2024-10-29 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197406) · `ta`
-
-Passport application limited to emergencies due to shortage. Only 1,600 passports issued daily. Public advised to apply cautiously.
-
-🟩
-
-Cabinet spokesman and minister Vijitha Herath has asked the public on Tuesday (29) to apply for a passport at the Department of Immigration and Emigration.
-
-Since the Department of Immigration and Emigration is inadequate passport reserves, those who need a passport will have to wait for long -term needs.
-
-Currently, a total of 1,600 passports are being issued daily to meet the demand.
-
-◼️
-
-[Data](articles/a4ed7f63.json)
-
-[Extended Data](ext_articles/a4ed7f63.ext.json)
-
----
-
-### Government rejects the second Passover revelations of Gammanpila
-
-*2024-10-29 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202691) · `si`
-
-Sri Lanka government rejects second Passover revelations about former MP Udaya Gammanpila. Minister denies involvement, calls it political issue. Government claims no investigation conducted and would not have acted similarly.
-
-🟩
-
-Minister Vijitha Herath says that Ravi Seneviratne and Shani Abeysekara is targeting the second Passover revelation of former MP Udaya Gammanpila.
-
-The Minister was responding to a question by a journalist at the meeting of the cabinet decisions today (29).
-
-Speaking further, Minister Vijitha Herath said that it was a political issue that the report was wrong for Channel 4 channel.
-
-The Minister said that the inquiry was not conducted and said that the present government would never have done such an act.
-
-Q. Thereafter, you do not accept the first report on Gammanpili. Will he accept the second report?
-
-...
-
-[Data](articles/c3afeb6e.json)
-
-[Extended Data](ext_articles/c3afeb6e.ext.json)
 
 ---

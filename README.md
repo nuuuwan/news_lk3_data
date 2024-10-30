@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 06:10:21**
+As of **2024-10-30 06:45:19**
 
 ## Newspaper Stats
 
-*Scraped **52,127** Articles*
+*Scraped **52,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 530
 bbccomsinhala | 530
 islandlk | 3,101
 economynextcom | 3,170
-dailyftlk | 3,552
+dailyftlk | 3,558
 dailymirrorlk | 4,733
 adalk | 4,848
 adaderanalk | 6,174
@@ -26,11 +26,111 @@ adaderanasinhalalk | 9,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,126 (100.0%) of 52,127 articles have been extended.
+52,127 (100.0%) of 52,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Who do we not/want to see in the next Parliament?
+
+*2024-10-30 06:03:41* · [`dailyftlk`](https://www.ft.lk/columns/Who-do-we-not-want-to-see-in-the-next-Parliament/4-768584) · `en`
+
+Those we have voted for hitherto and elected to represent us at the highest House of Representatives for a good 75 years, have left us high and dry with a bankrupt debt-ridden country
+
+The number 2-2-5 is a peculiar number. It adds up to 9 which is believed to be bad and unlucky and is kept away when starting something auspicious. When one dials 2-2-5 a message comes through the wire: “This number is exclusively for e-channeling. Please note you will be charged Rs. 20 plus tax for a minute.” And we pay Rs. 20 plus tax while listening to jingles and promotional material played by the service provider till we are connected to a customer care officer. Once you are successful in getting the appointment you are told that Rs. 5,000 will be charged. After seeing the doctor and completing all tests, x-rays, MRIs, scans, etc., and buying medication you are done with half of your savings.
+
+...
+
+[Data](articles/db59ec39.json)
+
+[Extended Data](ext_articles/db59ec39.ext.json)
+
+---
+
+### International marketing: Is Sri Lanka aggressive enough?
+
+*2024-10-30 06:00:14* · [`dailyftlk`](https://www.ft.lk/columns/International-marketing-Is-Sri-Lanka-aggressive-enough/4-768583) · `en`
+
+Spa Ceylon: Blending ancient ayurveda with modern luxury, captivating global markets
+
+Showcasing Sri Lanka’s iconic destinations: A testament to the nation’s potential as a premier tourist hub, ready to captivate the world
+
+In brief, international marketing is the process of planning and conducting transactions across national borders to create exchanges that satisfy the objectives of individuals and organisations.
+
+It comes in forms of export/import trade to licensing, joint ventures, wholly owned subsidiaries, turnkey operations, and management contracts.
+
+With the prevailing economic crisis in Sri Lanka and depreciation of the rupee, the only way to address this issue is to increase exports. Sri Lanka exports amounted to Rs. 4,234,913 in 2022 according to Central Bank of Sri Lanka statistics.
+
+Are we doing it right? Is this our potential? Is international marketing done in a proper way when it comes to branding Sri Lanka and its products and services to the world?
+
+...
+
+[Data](articles/5281e16c.json)
+
+---
+
+### Amendments to tax policy imperative for better prospects
+
+*2024-10-30 05:52:09* · [`dailyftlk`](https://www.ft.lk/opinion/Amendments-to-tax-policy-imperative-for-better-prospects/14-768582) · `en`
+
+Tax policy must be reflective of real market conditions for consumers and the public
+
+Sri Lanka’s new Government and executive brings with it a new dimension of thinking to policy and governance. Therein lies significant opportunity, albeit laden with challenges, to change the way Sri Lanka does business and how we are perceived by the world.
+
+In this post-crisis milieu, Government has a difficult balancing act to ensure a positive trade balance, manage its primary account considering IMF expectations, all whilst providing relief to a burdened public in the run up to 2028, when debt payments must resume. Reform should encompass better governance – combat corruption, drive exports and investment, stop wastage and a review of tax and industrial policy to strengthen returns. The Government led by the new President must adopt a fact-based approach towards policy, as opposed to strategy and actions that were often driven by political whims and favouritism.
+
+...
+
+[Data](articles/63dd6d0e.json)
+
+---
+
+### Reforming termination laws: Strengthening apparel industry and social security
+
+*2024-10-30 05:50:56* · [`dailyftlk`](https://www.ft.lk/opinion/Reforming-termination-laws-Strengthening-apparel-industry-and-social-security/14-768581) · `en`
+
+Former JAAF Chief says job of Government is to protect both the employer and employee
+
+The Sri Lankan apparel sector has faced many challenges in recent years. Beyond the well-documented local challenges, the industry has also had to grapple with challenges originating from afar such as COVID-19 and the resultant economic uncertainties in the subsequent years and the geopolitical tensions which have added to the complexities surrounding global maritime logistics which have a direct impact on Sri Lanka’s favourability as a production location. As international demand waned, many manufacturers, especially small and medium-sized businesses, were forced to reduce operations. However, outdated termination laws in Sri Lanka have hindered local industries’ ability to adapt, leaving many with no choice but to shut down their factories entirely.
+
+...
+
+[Data](articles/9d836683.json)
+
+---
+
+### Debt sustainability options for President AKD
+
+*2024-10-30 05:49:21* · [`dailyftlk`](https://www.ft.lk/columns/Debt-sustainability-options-for-President-AKD/4-768580) · `en`
+
+A sustainable debt strategy rooted in transparency and collaboration with international stakeholders is essential to restore economic confidence and secure a brighter future for Sri Lanka
+
+Sri Lanka’s debt burden has been a persistent challenge, driving the country into numerous fiscal crises over the past few decades, including the 2022 crisis that brought the country to bankruptcy. The country’s high levels of external and domestic debt have been exacerbated by political mismanagement, economic shocks, COVID pandemic, and global financial pressures. The recent crisis underscores the need for a comprehensive debt sustainability strategy, particularly with a new President in place. Several key options could help Sri Lanka better manage its debt, support long-term economic stability, reduce money printing and regain investor confidence to attract top FDI.
+
+...
+
+[Data](articles/d9dacc3c.json)
+
+---
+
+### Thinking like a management accountant can serve Sri Lanka well
+
+*2024-10-30 05:43:23* · [`dailyftlk`](https://www.ft.lk/columns/Thinking-like-a-management-accountant-can-serve-Sri-Lanka-well/4-768579) · `en`
+
+Management accountants have evolved from traditional accounting disciplines to become experts in operational, management and strategic problem solving
+
+Studying with CIMA equips management accountants with a unique set of competencies and skills — giving them competitive advantage
+
+In Sri Lanka and across the world, CIMA qualified management accountants have gained a reputation for their visionary leadership in turning businesses and organisations around. More than a century old, CIMA has a proud history and track record of improving efficiencies, maximising resources and transforming complex businesses to meet the demands of a rapidly changing business world.
+
+Everyone — businesses, public service leaders or budding entrepreneurs — can benefit from the management accountant mindset. One may wonder why most of the recent appointments to top positions even in State Owned Enterprises have been CIMA members – the secret is in their skills and competencies.
+
+...
+
+[Data](articles/8b7ee545.json)
+
+---
 
 ### Will the new Government seize oceans of opportunity?
 
@@ -2291,157 +2391,5 @@ The petition granted permission to the petitioners to include the former preside
 [Data](articles/502c2208.json)
 
 [Extended Data](ext_articles/502c2208.ext.json)
-
----
-
-### A black man arrested for pushing the counterfeit
-
-*2024-10-29 15:02:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கள்ளக்காதலியை-தள்ளிவிட்ட-கள்ளக்காதலன்-கைது/175-346269) · `ta`
-
-Black man arrested for pushing woman off bus in Dambulla. Woman hospitalized, police investigating incident involving couple traveling from Polonnaruwa to Colombo.
-
-🟩
-
-Dambulla police said that the woman who was allegedly thrown out of the bus has been arrested.
-
-The arrested person is a twenty -four -year -old marriage in Singapura, Welikanda, police said.
-
-A woman from Balukaswewa, who is said to be his girlfriend, is being treated at the Dambulla Primary Hospital with injuries.
-
-Police investigations revealed that the two lovers were traveling from Polonnaruwa to Colombo from Polonnaruwa.
-
-◼️
-
-[Data](articles/a2ccfbc7.json)
-
-[Extended Data](ext_articles/a2ccfbc7.ext.json)
-
----
-
-### "The fruits of love are poured"
-
-*2024-10-29 14:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அன்பின்-பழங்கள்-கொட்டிக்கிடக்கின்றன/175-346268) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former MP Johnston Fernando denies involvement in a controversial letter about prisoner releases. He claims political opponents are exploiting situations for personal gain, emphasizing his commitment to serving Kurunegala's people despite challenges.
-
-🟩
-
-Prison Commissioner (Media Spokesperson) Gamini B.. Dissanayake said.
-
-He said that former parliamentarian Johnston Fernando has issued a letter and that if any of the suspects or prisoners are sent out, it should be sent under the supervision of the respective prison superintendent.
-
-Johnston Fernando has informed the prison superintendent in writing that he has no knowledge of the letter with the permission of the Commissioner General of Prisons, subject to prison rules and rules.
-
-In this case, a letter to the members and supporters of his party has been issued on social media from the Welikada Prison to former MP Johnston Fernando, who has been interrogated.
-
-I am well aware that you do not expect a letter sent to you for the 2024 election.
-
-But the opportunists who are trying to meet their political needs have begun to take advantage of the roles of political power on the basis of slander in 2015 and today.
-
-...
-
-[Data](articles/8533aa19.json)
-
-[Extended Data](ext_articles/8533aa19.ext.json)
-
----
-
-### Court orders Court demanding a report on elephant trenches
-
-*2024-10-29 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202692) · `si`
-
-Supreme Court orders wildlife director to report on elephant trenches status. Petition filed over elephant-human conflict and environmental concerns.
-
-🟩
-
-The Supreme Court today ordered the Director General of Wildlife to produce a complete report on the current status of the elephant trenches designed to suppress the elephant column.
-
-The order was called on a fundamental rights petition filed by the Environmental Yorking Minister to implement an elephant trench schedule for the purpose of setting up the elephant conflict.
-
-The petition is that today. HMD. Nawaz, Arjuna Oyajuna Obeysekera and Achala VingPhawuli were called before the Supreme Court Bench.
-
-Attorney at Law Dr. Ravindranath Dabare, who appeared for the petitioner party, pointed out that the organization has no information on the elephant trenches in the country today.
-
-Accordingly, the Supreme Court ordered the Director General of Wildlife to take a detailed report on the current status of elephant trenches to court.
-
-The petition was then held on March 27.
-
-...
-
-[Data](articles/0bd73cb5.json)
-
-[Extended Data](ext_articles/0bd73cb5.ext.json)
-
----
-
-### Anyone who speaks of the upcountry community cannot be forgiven - Radhakrishnan
-
-*2024-10-29 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197407) · `ta`
-
-Radhakrishnan criticizes upcountry community, denies TNA obstruction. Condemns health inspector disruption at Hatton restaurant. Promises legal action against wrongdoers. Emphasizes party's growth and success despite challenges.
-
-🟩
-
-Proper measures have been taken against the owner regarding the disruption of the duty of health inspectors at a restaurant in Hatton.
-
-In a statement issued by Velusamy Radhakrishnan, Deputy Leader of the Tamil Progressive Alliance and the leader of the Upcountry People's Front, said that the TNA would never be an obstacle.
-
-A few activities are being carried out to contribute to the name of the Tamil Progressive Alliance and its growth. This is the action of a few people who cannot match our success during the election.
-
-During the incident at a hotel in Hatton, the health officials who arrived there said that the supporter of the Progressive Alliance could not do me, "the restaurant owner said that I could do anything.. This is a completely wrong issue.
-
-We strongly condemn this as a Tamil progressive coalition.
-
-No one can speak to any people, not just our people. We will never save the wrongdoers.
-
-...
-
-[Data](articles/1e98e2f9.json)
-
-[Extended Data](ext_articles/1e98e2f9.ext.json)
-
----
-
-### HPV vaccine: 4 students faint
-
-*2024-10-29 14:34:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/HPV-தடுப்பூசி-4-மாணவிகள்-மயங்கினர்/95-346267) · `ta`
-
-HPV vaccine side effects: Four students fainted after receiving cervical cancer vaccine. Symptoms included vomiting and difficulty breathing. All hospitalized at Panadura Base Hospital.
-
-🟩
-
-A spokesman for the Panadura Base Hospital said that four students of a Vatuwa school who received a vaccine for cervical cancer have been admitted to the hospital.
-
-A hospital spokesman said that all four students who were taken to the hospital have signs of vomiting and breathing.
-
-◼️
-
-[Data](articles/3c24512b.json)
-
-[Extended Data](ext_articles/3c24512b.ext.json)
-
----
-
-### HIV vaccine: 4 students faint
-
-*2024-10-29 14:34:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/HIV-தடுப்பூசி-4-மாணவிகள்-மயங்கினர்/95-346267) · `ta`
-
-HIV vaccine incident: Four students from Vatuwa school fainted after receiving cervical cancer vaccine. They showed symptoms of vomiting and difficulty breathing before being hospitalized.
-
-🟩
-
-A spokesman for the Panadura Base Hospital said that four students of a Vatuwa school who received a vaccine for cervical cancer have been admitted to the hospital.
-
-A hospital spokesman said that all four students who were taken to the hospital have signs of vomiting and breathing.
-
-◼️
-
-[Data](articles/93bbe80e.json)
-
-[Extended Data](ext_articles/93bbe80e.ext.json)
 
 ---

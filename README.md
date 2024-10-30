@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 15:24:19**
+As of **2024-10-30 15:40:35**
 
 ## Newspaper Stats
 
-*Scraped **52,221** Articles*
+*Scraped **52,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 3,106
 economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,855
-adaderanalk | 6,191
+adalk | 4,856
+adaderanalk | 6,192
 tamilmirrorlk | 7,243
 virakesarilk | 8,431
-adaderanasinhalalk | 9,089
+adaderanasinhalalk | 9,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,219 (100.0%) of 52,221 articles have been extended.
+52,221 (100.0%) of 52,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Colombo’s inflation drops to -0.8% in October 2024
+
+*2024-10-30 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103038/colombos-inflation-drops-to-08-in-october-2024) · `en`
+
+The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has decreased to -0.8% in October 2024, compared to -0.5% in September 2024, according to the latest data released by the Department of Census and Statistics.
+
+Meanwhile, food inflation has increased to 1.0% in October 2024 from -0.3% in September 2024 and the Year-on-Year inflation of Non-Food Group decreased to -1.6% in October 2024 from -0.5% in September 2024.
+
+The Colombo Consumer Price Index (CCPI) in October 2024 has decreased to 189.9 from 190.9 in September 2024.
+
+The Month-on-Month change was contributed by -0.20% from food and -0.33% from non-food, the report said.
+
+◼️
+
+[Data](articles/0ee1eeb0.json)
+
+---
+
+### කොළඹ උද්ධමනයේ වෙනසක්
+
+*2024-10-30 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202734) · `si`
+
+2024 සැප්තැම්බර් මාසයේ  -0.5%ක් ලෙස වාර්තා වූ කොළඹ උද්ධමනය 2024 ඔක්තෝබර් මාසයේදී -0.8% ක් දක්වා අඩු වී ඇත.
+
+2024 ඔක්තෝබර් මාසයේ දී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය  1.0% දක්වා වැඩි වී ඇති අතර 2024 සැප්තැම්බර් මාසයේ දී එය වාර්තා වුයේ -0.3%ක්  ලෙසය.
+
+එමෙන්ම,  2024 ඔක්තෝබර් මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය -1.6%  ක් දක්වා අඩු වී ඇති අතර එය 2024 සැප්තැම්බර් මාසයේ දී -0.5%  ක් ලෙස වාර්තා විය.
+
+ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව 2024 ඔක්තෝබර් මාසය සඳහා කොළඹ පාරිභෝගික මිල දර්ශකය සහ කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය  ප්‍රකාශයට පත් කරමින් ඒ බව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/c4e29b0a.json)
+
+---
 
 ### Gammanpila accuses govt of misusing the law, to launch public petition
 
@@ -46,21 +82,29 @@ Speaking at a press conference today (30), he criticized the government for reta
 
 [Data](articles/1e451443.json)
 
+[Extended Data](ext_articles/1e451443.ext.json)
+
 ---
 
-### අද පස්වරුවේ ලොකු වැස්සක්
+### A big rain this afternoon
 
 *2024-10-30 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202733) · `si`
 
-හම්බන්තොට, ඌව සහ නැගෙනහිර පළාත්වලත් පොළොන්නරුව, කිලිනොච්චි සහ යාපනය දිස්ත්‍රික්කවලත් අද (30) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින්තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතී.
+Heavy rain expected today. Lightning warnings issued for Polonnaruwa, Kilinochchi, and Jaffna districts. Take precautions during thunderstorms.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ, ස්වභාවික විපත් පිළිබඳ පූර්ව අනතුරු ඇඟවීමේ මධ්‍යස්ථානය විසින් ප්‍රබල අකුණු පිළිබඳව අවවාදාත්මක නිවේදනයක් නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+🟩
 
-ගිගුරුම් සහිත වැසි ඇතිවන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි බවත් එබැවින් අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසත් එම දෙපාර්තමේන්තුව ජනතාවට දැනුම්දෙයි.
+The Polonnaruwa, Kilinochchi, Kilinochchi and Jaffna districts have been capable of causing lightning.
+
+The pre-warning center of the Department of Meteorology, the pre-warning center of natural disasters, says a warning of a strong lightning.
+
+The people informed the people to take measures to be temporarily strong in these areas when thundershowers will occur.
 
 ◼️
 
 [Data](articles/cfb6a226.json)
+
+[Extended Data](ext_articles/cfb6a226.ext.json)
 
 ---
 
@@ -339,6 +383,22 @@ Former Minister Johnston Fernando was released on bail regarding the possession 
 [Data](articles/31a8985a.json)
 
 [Extended Data](ext_articles/31a8985a.ext.json)
+
+---
+
+### ආණ්ඩුවට එරෙහි ජනතා පිළිකුල පෙන්වන්න කරන දේ ගැන ගම්මන්පිලගෙන් ප්‍රකාශයක්
+
+*2024-10-30 13:11:44* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවට-එරෙහි-ජනතා-පිළිකුල-පෙන්වන්න-කරන-දේ-ගැන-ගම්මන්පිලගෙන්-ප්‍රකාශයක්/11-412758) · `si`
+
+වත්මන් ආණ්ඩුවට එරෙහි ජනතාවගේ පිළිකුල පෙන්වීම සඳහා මහජන පෙත්සමක් අත්සන් කිරීමට බලාපොරොත්තු වන බව සර්ව ජන බලයේ මහ මැතිවරණ අපේක්ෂක උදය ගම්මන්පිල මහතා පැවසීය.
+
+සර්වජන බලය අද (30දා) පැවැත්වු මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+“නීතියේ ආදිපත්‍ය පිහිටුවනවා කියලා , හිටපු ජනාධිපතිවරුන් නීතිය අයුතු ලෙස භාවිතා කරනවා කියලා විවේචනය කරපු මාලිමාව තමන්ගේ පළවෙනි මාසය තුළම නීතිය අයුතු ලෙස භාවිතා කිරීම ගැන ජනතාවගේ පිළිකුල ජනාධිපතිවරයාට දන්වන්න අපි මහජන පෙත්මක් අත්මන් කරන්න බලාපොරොත්තු වෙනවා.”
+
+◼️
+
+[Data](articles/27c3984c.json)
 
 ---
 
@@ -2329,51 +2389,5 @@ President Anura Kumara Dissanayake added that action will be taken to build the 
 [Data](articles/64e3949d.json)
 
 [Extended Data](ext_articles/64e3949d.ext.json)
-
----
-
-### Seylan Bank records a PAT of LKR 6.59 Bn.
-
-*2024-10-29 22:34:00* · [`islandlk`](http://island.lk/seylan-bank-records-a-pat-of-lkr-6-59-bn/) · `en`
-
-Seylan Bank recorded a Profit after Tax of LKR 6,593 Mn for the 9 months ended 30 September 2024 with a growth of 46.65% against LKR 4,496 Mn reported in the corresponding period of 2023 despite a challenging environment.
-
-Seylan Bank recorded a Profit before Tax (PBT) of LKR 10,608 Mn for the 9 months ended 30 September 2024, against LKR 7,181 Mn reported in the corresponding period of 2023 demonstrating a growth of 47.72%.
-
-Net Interest income decreased from LKR 30,554 Million to LKR 27,262 Million, a reduction of 10.77% compared with the previous year for the 9 months ended 30 September 2024, corresponding to reduction in Net Interest Margin from 5.76% in 2023 to 5.03% in Q3 2024.The Bank’s net fee based income recorded a growth of 8.10% from LKR 5,392 Million to LKR 5,829 Million during 9 months ended 30 September 2024, mainly due to increase in income from Cards, Remittances and other services relating to lending.
-
-...
-
-[Data](articles/a9484dec.json)
-
-[Extended Data](ext_articles/a9484dec.ext.json)
-
----
-
-### BCIS Festival of Ideas: Commemorating 50 Years of International Studies
-
-*2024-10-29 22:34:00* · [`islandlk`](http://island.lk/bcis-festival-of-ideas-commemorating-50-years-of-international-studies/) · `en`
-
-In celebration of its golden jubilee, the Bandaranaike Centre for International Studies (BCIS) launches the Festival of Ideas, a collaborative initiative that promises to reshape conversations on international relations. Beginning Friday, November 1st, 2024, this thought-provoking programme unfolds every Friday of November (excluding the post-general election Friday) at the BCIS premises on Bauddhaloka Mawatha, Colombo.
-
-...
-
-[Data](articles/e416cbd0.json)
-
-[Extended Data](ext_articles/e416cbd0.ext.json)
-
----
-
-### ‘99x Group emerges as a new tech powerhouse’
-
-*2024-10-29 22:31:00* · [`islandlk`](http://island.lk/99x-group-emerges-as-a-new-tech-powerhouse/) · `en`
-
-The 99x Group has emerged as a leading force in the global tech landscape, with seven companies from Norway, Malaysia, Sri Lanka, Brazil, and Portugal uniting to strengthen its position in product engineering services, IT consulting, and web solutions. Bringing together more than 600 employees worldwide, the group includes Seeds, LeanOn, Nextly, Cleverti, Incrementi, Clave, and 99x Technology. 99x is now poised to become one of Norway’s larger players in digital product development, continuing its rapid expansion after establishing a solid foundation over the past two years.
-
-...
-
-[Data](articles/22f0e941.json)
-
-[Extended Data](ext_articles/22f0e941.ext.json)
 
 ---

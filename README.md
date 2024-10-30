@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 08:03:06**
+As of **2024-10-30 08:45:29**
 
 ## Newspaper Stats
 
-*Scraped **52,139** Articles*
+*Scraped **52,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 413
 colombotelegraphcom | 530
 bbccomsinhala | 530
-islandlk | 3,101
+islandlk | 3,106
 economynextcom | 3,170
 dailyftlk | 3,560
 dailymirrorlk | 4,733
@@ -20,17 +20,71 @@ adalk | 4,848
 adaderanalk | 6,174
 tamilmirrorlk | 7,227
 virakesarilk | 8,421
-adaderanasinhalalk | 9,069
+adaderanasinhalalk | 9,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,132 (100.0%) of 52,139 articles have been extended.
+52,141 (100.0%) of 52,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### A serious accusation of the Department of Animal Production and Health
+
+*2024-10-30 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202715) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Serious accusation against Department of Animal Production and Health: Spreading false academic measures according to Department of Animal Transport and Animal Production Association.
+
+🟩
+
+The Department of Animal Transport and Animal Production Association says that the Department of Animal Production and Health has spread throughout the academic measures.
+
+◼️
+
+[Data](articles/2a860467.json)
+
+[Extended Data](ext_articles/2a860467.ext.json)
+
+---
+
+### 86 train derails during this year
+
+*2024-10-30 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202714) · `si`
+
+Here's a 200-character summary:
+
+
+
+Train derailments increase: 86 in 2023, 132 in 2022, 115+98 in 2021-2020. Railway Department reports 139 deals in 2023. Station OICs Association seeks continuous solutions. Discussion today at Railway Stations Association meeting.
+
+🟩
+
+86 train deals have taken place during the last days.
+
+According to the Railway Departments sources said that 139 deals have taken place in 2023.
+
+There are also 132 trains reported in 2022.
+
+According to Railway Departments, 115 train departments and 98 were reported in the year 2021 and 2020.
+
+Meanwhile, the Station OICs Association says that if the administration will continue to address the continuous solutions of the train recessions, the administration will continue to resolve trains.
+
+Railway Stations Association Mr. Sumedha Somaratne said that a discussion is to be held today.
+
+◼️
+
+[Data](articles/54fff6bf.json)
+
+[Extended Data](ext_articles/54fff6bf.ext.json)
+
+---
 
 ### Postal voting in general election today
 
@@ -170,6 +224,8 @@ In this post-crisis milieu, Government has a difficult balancing act to ensure a
 
 [Data](articles/63dd6d0e.json)
 
+[Extended Data](ext_articles/63dd6d0e.ext.json)
+
 ---
 
 ### Reforming termination laws: Strengthening apparel industry and social security
@@ -184,6 +240,8 @@ The Sri Lankan apparel sector has faced many challenges in recent years. Beyond 
 
 [Data](articles/9d836683.json)
 
+[Extended Data](ext_articles/9d836683.ext.json)
+
 ---
 
 ### Debt sustainability options for President AKD
@@ -197,6 +255,8 @@ Sri Lanka’s debt burden has been a persistent challenge, driving the country i
 ...
 
 [Data](articles/d9dacc3c.json)
+
+[Extended Data](ext_articles/d9dacc3c.ext.json)
 
 ---
 
@@ -215,6 +275,8 @@ Everyone — businesses, public service leaders or budding entrepreneurs — can
 ...
 
 [Data](articles/8b7ee545.json)
+
+[Extended Data](ext_articles/8b7ee545.ext.json)
 
 ---
 
@@ -350,41 +412,57 @@ The Minister confirmed that while no immediate recalls of overseas diplomats are
 
 ---
 
-### ’டிஜிட்டல் மயமாக்கலை விரைவுபடுத்த நடவடிக்கை’
+### Steps to accelerate digital digitalization
 
 *2024-10-30 02:51:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-மயமாக்கலை-விரைவுபடுத்த-நடவடிக்கை/175-346299) · `ta`
 
-எதிர்வரும் மூன்று வருடங்களில் முழு நாட்டையும் டிஜிட்டல் மயமாக்க நடவடிக்கை எடுப்பதாக ஜனாதிபதி அநுர குமார திசாநாயக்க தெரிவித்தார்.
+Here's a 200-character summary:
 
-டிஜிட்டல் மயமாக்கல் ஊடாக இலங்கையை மற்றுமொரு நிலைக்கு உயர்த்த முடியும் எனவும், அதற்காக டிஜிட்டல் மயமாக்கலுக்கு அவசியமான தலையீட்டினை அரசாங்கம் ஏற்கெனவே ஆரம்பித்துள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
 
-வணிகச் சபை பிரதிநிதிகளுடன் நேற்று (29) ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற சந்திப்பிலேயே ஜனாதிபதி அநுரகுமார திசாநாயக்க இதனைச் சுட்டிக்காட்டினார்.
 
-எந்தவொரு கொடுப்பனவு மற்றும் சம்பளத்தையும் பெறாமல் பொருளாதார முன்னேற்றத்துக்கு உதவவும் வணிகச் சபையின் பிரதிநிதிகள் இதன்போது இணக்கம் தெரிவித்தனர்.
+Sri Lanka's President Anura Kumara Dissanayake plans to digitize the entire country within 3 years. He met with business leaders to discuss strategies for accelerating digitalization across sectors like insurance, banking, construction, tourism, and agriculture. The goal is to boost the economy and benefit citizens.
 
-காப்புறுதி,வங்கி,நிர்மாணம், சுற்றுலா,பெருந்தோட்ட தொழில்துறை, சிறு மற்றும் மத்திய தர வர்த்தகம் உள்ளிட்ட பல துறைகளின் பிரச்சினைகள் மற்றும் எதிர்கால இலக்குகள் குறித்து இதன் போது தீர்க்கமாக கலந்துரையாடப்பட்டது.
+🟩
 
-மேலும் நாட்டின் பொருளாதாரத்தை பலப்படுத்தி அதற்கு இணையாக நாட்டு மக்களுக்கு சலுகைகளை பெற்றுக்கொடுக்க நடவடிக்கை எடுப்பதாகவும் ஜனாதிபதி அநுரகுமார திசாநாயக்க இங்கு தெரிவித்தார்.
+President Anura Kumara Dissanayake said that in the next three years, steps will be taken to digitize the entire country.
+
+The President pointed out that the government has already initiated the intervention of digitalization for digitalization through digitalization.
+
+President Anura Kumara Dissanayake pointed out this at a meeting held at the Presidential Office yesterday (29) with the representatives of the Business Council.
+
+Representatives of the Business Board have agreed to assist the economic progress without getting any allowance and salary.
+
+The issues and future goals of many sectors, including insurance, banking, construction, tourism, plantation industry, small and central quality business, were discussed at this time.
+
+President Anura Kumara Dissanayake said that steps will be taken to strengthen the country's economy and make concessions to the people.
 
 ...
 
 [Data](articles/287d6ed2.json)
 
+[Extended Data](ext_articles/287d6ed2.ext.json)
+
 ---
 
-### ஹெஸ்புல்லாஹ்வின் புதிய தலைவர் நைம் காசிம்
+### New President of Hesbullah
 
 *2024-10-30 02:43:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹெஸ்புல்லாஹ்வின்-புதிய-தலைவர்-நைம்-காசிம்/50-346298) · `ta`
 
-ஹெஸ்புல்லாஹ் அமைப்பின் பிரதிச் செயலாளராகச் செயற்பட்டுவந்த நைம் காசிம் அந்த அமைப்பின் புதிய தலைவராக நியமிக்கப்படுவார் என அறிவிக்கப்பட்டுள்ளது.
+Naim Qasim named new Hesbullah leader after Nasraullah's death in Israeli airstrike. He succeeds other fallen leaders in the organization.
 
-கடந்த மாதம் பெய்ரூட்டில், இஸ்ரேலிய விமானத் தாக்குதலில் ஹெஸ்புல்லாஹ் அமைப்பின் தலைவர் நஸ்ரல்லாஹ் கொல்லப்பட்டார்.
+🟩
 
-தொடர்ச்சியான தாக்குதல்களில் அமைப்பின் பெரும்பாலான தலைவர்கள் கொல்லப்பட்டுள்ள நிலையில், ஹெஸ்புல்லாஹ் அமைப்பில் புதிய தலைவராக நைம் காசிம் தெரிவுசெய்யப்பட்டுள்ளார். (a)
+It has been announced that Naim Qasim, the Deputy Secretary of the Hesbullah Organization, will be appointed as the new head of the organization.
+
+In Beirut last month, Hesbullah leader Nasraullah was killed in an Israeli air strike.
+
+With most leaders of the organization to be killed in a series of attacks, Naim Qasim has been elected as the new leader in Hesbullah. (A)
 
 ◼️
 
 [Data](articles/21735b25.json)
+
+[Extended Data](ext_articles/21735b25.ext.json)
 
 ---
 
@@ -554,6 +632,42 @@ The 99x Group has emerged as a leading force in the global tech landscape, with 
 
 ---
 
+### Government’s aim is to create economic independence in the country  – President
+
+*2024-10-29 22:30:00* · [`islandlk`](http://island.lk/governments-aim-is-to-create-economic-independence-in-the-country-president/) · `en`
+
+President Anura Kumara Dissanayake stated that the government’s aim is to create economic independence in the country, and for this, the full support of the country’s exporters is essential.
+
+He made this remark during a discussion held at the Presidential Secretariat today (29) with senior officials from the Export Development Board and exporters.
+
+The President highlighted the importance of establishing a single service window by integrating various government agencies and Sri Lanka Customs to facilitate export trade. He also emphasized the role of digitalization in increasing the efficiency of government agencies involved in exports.
+
+Additionally, President Dissanayake noted that the government is focused on significant issues such as lowering energy prices, promoting foreign investments, and restructuring diplomatic service to facilitate enhancing market access.
+
+...
+
+[Data](articles/7d2bd2db.json)
+
+[Extended Data](ext_articles/7d2bd2db.ext.json)
+
+---
+
+### Vibrancy in banking and financial sector counters elevating fortunes of bourse
+
+*2024-10-29 22:28:00* · [`islandlk`](http://island.lk/vibrancy-in-banking-and-financial-sector-counters-elevating-fortunes-of-bourse/) · `en`
+
+The stock market yesterday too continued on its bullish trend indicating that banking and financial sector counters are performing well. This is so because after the external debt restructuring process is concluded in November, the government could issue new sovereign bonds, replacing the previous/existing default bonds, thereby benefiting the local banking sector, market analysts said.
+
+Following the conclusion of the external debt restructuring process in November, the local banking and financial sector is likely to get better options than other foreign banks in the sovereign bond issue exercise, thus resulting in attracting both, local and foreign investors, to those stocks, analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 135.5 points, while the S and P SL20 rose by 68.8 points. Turnover stood at Rs 3.96 billion with seven crossings.
+
+...
+
+[Data](articles/77e37d9a.json)
+
+---
+
 ### India-Sri Lanka Joint Working Group discusses mutually acceptable and long-lasting solution for fishermen issue
 
 *2024-10-29 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103019/india-sri-lanka-joint-working-group-discusses-mutually-acceptable-and-long-lasting-solution-for-fishermen-issue) · `en`
@@ -593,6 +707,22 @@ The President also pointed out that the entire country will be digitalized in th
 [Data](articles/750d7dc1.json)
 
 [Extended Data](ext_articles/750d7dc1.ext.json)
+
+---
+
+### Decisive economic measures to protect both the banking sector and entrepreneurs
+
+*2024-10-29 22:23:00* · [`islandlk`](http://island.lk/decisive-economic-measures-to-protect-both-the-banking-sector-and-entrepreneurs/) · `en`
+
+President Anura Kumara Dissanayake emphasized that, since neither he nor his administration has special ties or obligations to any party within the country’s development or business sectors, they are positioned to make decisions impartially and decisively for the sake of national economic recovery.
+
+These remarks were made during a meeting today (29) with members of the Sri Lanka Banks’ Association at the Presidential Secretariat, where discussions focused on the banking sector’s role and challenges in supporting Sri Lanka’s economic growth.
+
+The President highlighted the critical importance of digitizing Sri Lanka’s economy, including the implementation of a National Digital ID initiative, which he pledged would be completed within a focused timeframe of one and a half years.
+
+...
+
+[Data](articles/0914d781.json)
 
 ---
 
@@ -2064,6 +2194,24 @@ Accordingly, the ASPI had closed at 12,745.60 points today, its highest value si
 
 ---
 
+### Contract for supplying LPG for 2025 awarded to M/s OQ Trading Limited
+
+*2024-10-29 16:30:00* · [`islandlk`](http://island.lk/contract-for-supplying-lpg-for-2025-awarded-to-m-s-oq-trading-limited/) · `en`
+
+The Cabinet of Ministers has approved the proposal presented by the President, in his capacity as the Minister of Finance, Economic Development, Policy Formulation, Planning, and Tourism to award the contract for supplying  liquefied Petroleum Gas  for 2025 to M/S OQ Trading Limited, the substantially responsive bidder, as per the recommendations of the standing procurement committee appointed by the cabinet of ministers.
+
+Tenders had  been invited for the supply of liquefied petroleum gas to the Litro Gas Lanka Limited for the year 2025 under the single stage double envelope system following the international competitive bidding system.
+
+Only the two institutions, M/S OQ Trading Limited and M/S Siam Gas Trading Pte Ltd,  submitted bids. The bid submitted by M/S Siam Gas Trading Pte Ltd, was rejected at the technical evaluation.
+
+Decisive economic measures to protect both the banking sector and entrepreneurs
+
+...
+
+[Data](articles/c3209e77.json)
+
+---
+
 ### What are the messages received from the social media, including Whatsapp,
 
 *2024-10-29 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202696) · `si`
@@ -2215,151 +2363,5 @@ Opponents say on platforms to send experienced people to parliament. Those who h
 [Data](articles/032f0d40.json)
 
 [Extended Data](ext_articles/032f0d40.ext.json)
-
----
-
-### Preview release of 'Brother' starring Jayam Ravi
-
-*2024-10-29 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/197415) · `ta`
-
-"Brother" movie preview release Diwali Jayam Ravi Priyanka Arul Mohan Harris Jayaraj director M. Jaime Ravi cast preview event Chennai
-
-🟩
-
-The preview of the movie 'Brother' will be released on Diwali on Diwali starring Jayam Ravi.
-
-Director M. Jaime Ravi, Priyanka Arul Mohan, Bhumika Chawla, VTV Ganesh, Natraj, Ashyud Kumar, Saranya Ponvannan, Sita. S.. Bhaskar, Suresh Chakraborty and many others have been cast.
-
-Harris Jayaraj has composed the film, which has been recorded by Vivekanand Santosh.. The film is being prepared for the relationship between the sister and the brother.
-
-When will the fans publish the preview when you recently advertise the film in Dubai?The film crew has released the preview. For this purpose, a special preview of the film crew in Chennai was held.
-
-Speaking at the event, Rajesh, the director of the film, said, “Jayam Ravi and I have to work together before.
-
-But I could not work together for various reasons, then this' Brother: I told him the story of the film. We will listen to the story and work together. Then I described the story of the film to producer Sundar Arumugam.
-
-...
-
-[Data](articles/d0f388dd.json)
-
-[Extended Data](ext_articles/d0f388dd.ext.json)
-
----
-
-### Sri Lanka sells Rs145bn in treasury bills, yields up for shorter maturities
-
-*2024-10-29 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs145bn-in-treasury-bills-yields-up-for-shorter-maturities-185465/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were up across the shorter term maturities at Wednesday’s auction with all offered 145 billion rupees of bills sold, data from the debt office showed.
-
-The 3-month yield was up 3 basis points at 9.35 percent, with 55 billion offered and 89 billion rupees bills sold.
-
-The 6-month yield was up 3 basis points at 9.68 percent, with 55 billion offered and 53.2 billion rupees of bills sold.
-
-The 12-month bills held steady at 9.95 percent, with 35 billion offered and 2.7 billion rupees of bills sold.
-
-The 6 and 9 month bills are available on tap after the auction.  (Colombo/Oct29/2024)
-
-◼️
-
-[Data](articles/67e27a03.json)
-
-[Extended Data](ext_articles/67e27a03.ext.json)
-
----
-
-### Arugamay surrenders to a confidential report on investigations
-
-*2024-10-29 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202695) · `si`
-
-Arugam: Suspects detained, investigation ongoing. Two arrested, questioned about planned attack on tourist areas.
-
-🟩
-
-Investigations officers presented an extremely confidential report on investigations into the Arugam's incident today (29).
-
-The Investigation Officer has informed the court that two suspects arrested in connection with the incident are being detained and investigations are being carried out on detention orders.
-
-The magistrate ordered that the magistrate investigators were produced before courts in the future.
-
-The Terrorism Investigation Department has informed the courts of the Colombo Magistrate's Court that two suspects have been detained and questioning the investigation into the area where there is a plan to launch an attack targeting the area of ​​foreign tourists.
-
-◼️
-
-[Data](articles/e6b6fe77.json)
-
-[Extended Data](ext_articles/e6b6fe77.ext.json)
-
----
-
-### Hezbollah is a new leader
-
-*2024-10-29 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202694) · `si`
-
-Here's a 200-character summary:
-
-
-
-Hezbollah appoints new leader after Hassan Nasrallah's death. Deputy leader Abbas al-Musawi succeeded him, following Musawi's own death in 1992.
-
-🟩
-
-The organization announced that their deputy leader was appointed as the deputy leader of the Hezbollah's leadership in Lebanon.
-
-Hassan Nasaralla who served as their leader died a month after the air strike.
-
-The attack was launched to a building where Nasaralla was staying in South Resort.
-
-As the deputy leader of the organization, was the deputy leader of the Hezbollah Organization, and Abbas al-Musawi, was selected, and Musevi died in a land attack in 1992.
-
-◼️
-
-[Data](articles/2031e851.json)
-
-[Extended Data](ext_articles/2031e851.ext.json)
-
----
-
-### 570 railway incidents have been recorded since 2020
-
-*2024-10-29 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197411) · `ta`
-
-Since 2020, 570 railway incidents have occurred. The breakdown: 98 in 2020, 115 in 2021, 132 in 2022, 139 in 2023, and 86 in 2024.
-
-🟩
-
-A total of 570 railways have been reported on the railway and the railway repairs since 2020, the Railway Department said.
-
-Accordingly, 98 in 2020, 115 in 2021, 132 in 2022, 139 in 2023 and 86 in 2024.
-
-◼️
-
-[Data](articles/654d1321.json)
-
-[Extended Data](ext_articles/654d1321.ext.json)
-
----
-
-### Court's decision to join Johnston's car incident
-
-*2024-10-29 15:41:08* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්ගේ-මෝටර්-රථ-සිද්ධියට-අත්අඩංගුවට-ගත්-දෙදෙනාට-අධිකරණය-දුන්-තීන්දුව/11-412740) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Court decides to release suspects on bail in Johnston's car incident case. Two persons arrested yesterday after Criminal Investigation Department handed over case.
-
-🟩
-
-The two suspects have been released on bail.
-
-The two persons were arrested after the Criminal Investigation Department was handed over today (29).
-
-◼️
-
-[Data](articles/f0123f6c.json)
-
-[Extended Data](ext_articles/f0123f6c.ext.json)
 
 ---

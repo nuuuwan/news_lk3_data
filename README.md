@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 09:14:10**
+As of **2024-10-30 09:25:27**
 
 ## Newspaper Stats
 
@@ -1748,6 +1748,22 @@ The Prime Minister has said that funds have not been allocated to increase the s
 
 ---
 
+### How and Why the  JVP led by Anura Dissanayake Formed  the National People’s Power (NPP) in 2019.
+
+*2024-10-29 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84966) · `en`
+
+This is the fourth part of an extended article focusing on  Sri Lanka’s newly elected  President Anura Kumara Dissanayake. In the first part of this article , the early years of Anura’s eventful life were delved into in some detail. In the second part, AKD’s steady growth as a political leader within the Janatha Vimukthi Peramuna (JVP) was related to some extent. In the  third part, Anura’s rise to the leadership position of the JVP was recounted.  The story of  how the JVP transformed  itself  as leader of the NPP alliance  under AK Dissanayake  will be narrated in this fourth  part.
+
+February 2nd 2014 was a red letter day in the life of Anura Kumara Dissanayake. It was on this day that the Janatha Vimukthi Peramuna’s 17th national convention was held. The highlight of that convention was the change of leadership in the JVP. Somawansa  Amerasinghe who held the reins  for 24 years stepped down . Anura Kumara Dissanayake known popularly as Anura and AKD  became the new JVP leader.
+
+...
+
+[Data](articles/39bb7267.json)
+
+[Extended Data](ext_articles/39bb7267.ext.json)
+
+---
+
 ### Selection of players on Lanka T10 Super League
 
 *2024-10-29 18:14:54* · [`adalk`](https://www.ada.lk/sports/ලංකා-T10-සුපර්-ලීග්-ක්‍රිකට්-තරගාවලියේ-ක්‍රීඩකයන්-තෝරා-ගැනීම-ලබන-10-වැනිදා/9-412745) · `si`
@@ -2311,21 +2327,5 @@ Meanwhile, the S & PL20 index and increased to Rs.
 [Data](articles/7b374362.json)
 
 [Extended Data](ext_articles/7b374362.ext.json)
-
----
-
-### ASPI reaches highest value since Feb. 2022
-
-*2024-10-29 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103013/aspi-reaches-highest-value-since-feb-2022) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange has gained 135.54 points today (29).
-
-Accordingly, the ASPI had closed at 12,745.60 points today, its highest value since February 03, 2022.
-
-◼️
-
-[Data](articles/0c93005a.json)
-
-[Extended Data](ext_articles/0c93005a.ext.json)
 
 ---

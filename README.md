@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 15:10:52**
+As of **2024-10-30 15:24:19**
 
 ## Newspaper Stats
 
-*Scraped **52,217** Articles*
+*Scraped **52,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,855
-adaderanalk | 6,190
-tamilmirrorlk | 7,242
+adaderanalk | 6,191
+tamilmirrorlk | 7,243
 virakesarilk | 8,431
-adaderanasinhalalk | 9,087
+adaderanasinhalalk | 9,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,217 (100.0%) of 52,217 articles have been extended.
+52,219 (100.0%) of 52,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Gammanpila accuses govt of misusing the law, to launch public petition
+
+*2024-10-30 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103037/gammanpila-accuses-govt-of-misusing-the-law-to-launch-public-petition) · `en`
+
+Pivithuru Hela Urumaya (PHU) leader and former MP Udaya Gammanpila says that he plans to launch a campaign to collect signatures for a public petition, in order to inform the President of the public’s displeasure over the misuse of the law.
+
+Speaking at a press conference today (30), he criticized the government for retaining Secretary to the Ministry of Public Security Ravi Seneviratne and Shani Abeysekera, who he claims have been named as main accused in an investigative committee report on the Easter Sunday attacks.
+
+“Since the removal will not be done, we are hoping to sign a public petition to inform the president about people’s displeasure related to the misuse of the law by (NPP govt) during their first month in office, who criticized former presidents for misusing the law,” the former Minister added.
+
+...
+
+[Data](articles/1e451443.json)
+
+---
+
+### අද පස්වරුවේ ලොකු වැස්සක්
+
+*2024-10-30 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202733) · `si`
+
+හම්බන්තොට, ඌව සහ නැගෙනහිර පළාත්වලත් පොළොන්නරුව, කිලිනොච්චි සහ යාපනය දිස්ත්‍රික්කවලත් අද (30) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින්තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතී.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ, ස්වභාවික විපත් පිළිබඳ පූර්ව අනතුරු ඇඟවීමේ මධ්‍යස්ථානය විසින් ප්‍රබල අකුණු පිළිබඳව අවවාදාත්මක නිවේදනයක් නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+
+ගිගුරුම් සහිත වැසි ඇතිවන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි බවත් එබැවින් අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසත් එම දෙපාර්තමේන්තුව ජනතාවට දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/cfb6a226.json)
+
+---
+
+### Chinese Space Top
+
+*2024-10-30 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202732) · `si`
+
+Chinese spacecraft carries three astronauts to Tangong Space Center for six-month mission. This is the fourth trip to the station, part of China's goal to send humans to the Moon by 2030.
+
+🟩
+
+Another aircraft carrying three Chinese astrologers was successfully referred to the space today (30).
+
+This joins history as the youngest area of ​​the youngest traded farmer so far.
+
+The group will stay at the Tangong Space Center in China, which is underway for six months.
+
+The biocavan space station, which was located near the Goba Desert, commenced the journey of Shnzhou-19.
+
+Three astronauts traveled to space, and it includes the first space engineer and a young astronaut.
+
+The aircraft, a veteran astronaut, and the youth and women's space enginee engineering Song Lyndon, the Tangong Space Center, which is constructed.
+
+The aircraft was spared at 4.27 this morning at 4.27 am today.
+
+The plaque separated from the rocket in 10 minutes reached its proper crisk.
+
+They are sitting at the Tangong Space Center for six months and are scheduled to engage in research.
+
+The Chinese authorities expect that by 2030, Chinese authorities will support the effort to educate people on the moon.
+
+...
+
+[Data](articles/ac114514.json)
+
+[Extended Data](ext_articles/ac114514.ext.json)
+
+---
 
 ### A leak from the port of Kolonnawa
 
@@ -57,6 +125,28 @@ In the meantime, officials are being repairs on the tube.
 [Data](articles/f5cab6ab.json)
 
 [Extended Data](ext_articles/f5cab6ab.ext.json)
+
+---
+
+### Arrested
+
+*2024-10-30 14:38:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடு-தேவி-கைது/175-346321) · `ta`
+
+Woman arrested for distributing drugs; STF seizes Rs 24 lakh worth of ice drugs; linked to organized crime and international drug trafficking.
+
+🟩
+
+The 32 -year -old woman, also known as 'Kudu Devi', said that he hails from Beliyagoda, police said.
+
+The woman was arrested on Wednesday (30) by the Special Task Force (STF) for the police, with ice drugs worth Rs 24 lakh.
+
+Investigations have been found that the woman is currently distributing narcotics in Sri Lanka by organized crimes and drug traffickers Ganemulla Sanjeewa and the present drug trafficker Kalana Nematta abroad.
+
+◼️
+
+[Data](articles/970536f6.json)
+
+[Extended Data](ext_articles/970536f6.ext.json)
 
 ---
 
@@ -2285,95 +2375,5 @@ The 99x Group has emerged as a leading force in the global tech landscape, with 
 [Data](articles/22f0e941.json)
 
 [Extended Data](ext_articles/22f0e941.ext.json)
-
----
-
-### Government’s aim is to create economic independence in the country  – President
-
-*2024-10-29 22:30:00* · [`islandlk`](http://island.lk/governments-aim-is-to-create-economic-independence-in-the-country-president/) · `en`
-
-President Anura Kumara Dissanayake stated that the government’s aim is to create economic independence in the country, and for this, the full support of the country’s exporters is essential.
-
-He made this remark during a discussion held at the Presidential Secretariat today (29) with senior officials from the Export Development Board and exporters.
-
-The President highlighted the importance of establishing a single service window by integrating various government agencies and Sri Lanka Customs to facilitate export trade. He also emphasized the role of digitalization in increasing the efficiency of government agencies involved in exports.
-
-Additionally, President Dissanayake noted that the government is focused on significant issues such as lowering energy prices, promoting foreign investments, and restructuring diplomatic service to facilitate enhancing market access.
-
-...
-
-[Data](articles/7d2bd2db.json)
-
-[Extended Data](ext_articles/7d2bd2db.ext.json)
-
----
-
-### Vibrancy in banking and financial sector counters elevating fortunes of bourse
-
-*2024-10-29 22:28:00* · [`islandlk`](http://island.lk/vibrancy-in-banking-and-financial-sector-counters-elevating-fortunes-of-bourse/) · `en`
-
-The stock market yesterday too continued on its bullish trend indicating that banking and financial sector counters are performing well. This is so because after the external debt restructuring process is concluded in November, the government could issue new sovereign bonds, replacing the previous/existing default bonds, thereby benefiting the local banking sector, market analysts said.
-
-Following the conclusion of the external debt restructuring process in November, the local banking and financial sector is likely to get better options than other foreign banks in the sovereign bond issue exercise, thus resulting in attracting both, local and foreign investors, to those stocks, analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 135.5 points, while the S and P SL20 rose by 68.8 points. Turnover stood at Rs 3.96 billion with seven crossings.
-
-...
-
-[Data](articles/77e37d9a.json)
-
-[Extended Data](ext_articles/77e37d9a.ext.json)
-
----
-
-### මට හෝ ආණ්ඩුවට කිසිඳු පාර්ශ්වයක් සමඟ විශේෂ බැඳීමක්  නෑ
-
-*2024-10-29 22:27:12* · [`adalk`](https://www.ada.lk/breaking_news/මට-හෝ-ආණ්ඩුවට-කිසිඳු-පාර්ශ්වයක්-සමඟ-විශේෂ-බැඳීමක්--නෑ/11-412752) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake addressed banking union members, emphasizing impartial decision-making for economic development. He highlighted the importance of digitalization and e-passport implementation within one year. The president emphasized simplifying government processes and protecting entrepreneurs during the economic crisis. Key officials from various banks attended the meeting.
-
-🟩
-
-රටේ  ආර්ථිකය ගොඩනැඟීම සඳහා බැංකු පද්ධතිය සහ ව්‍යවසායකයා යන දෙපාර්ශ්වයම ආරක්ෂා වන පරිදි  තීන්දු තීරණ ගන්නවා
-
-සියලු  ජනතාව සුරක්ෂිත  වන ආකාරයට  රටේ අවිධිමත් ආර්ථිකය  ක්‍රමානුකූලව විධිමත් කිරීමට පියවර
-
-රට ගොඩනැඟීමේ සහ ආර්ථික සංවර්ධනය කිරීමේදී තමන්ට හෝ වත්මන් ආණ්ඩුවට කිසිඳු පාර්ශ්වයක් සමඟ විශේෂ බැඳීමක්  නොමැති බැවින් ගත යුතු සෑම තීන්දුවක්ම නොපැකිළව ගන්නා බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
-
-President Anura Kumara Dissanayake made these comments when he met the Sri Lankan banking union members at the Presidential Secretariat yesterday.
-
-The details of the banks to build the economy of Sri Lanka and their problems also focused on their problems.
-
-ශ්‍රී ලංකාව ඩිජිටල්කරණයෙහි වැදගත්කම සහ විද්‍යුත් හැඳුනුම්පත ලබා දීම සම්බන්ධයෙන් මෙහිදී සාකච්ඡා කළ අතර එම වැඩපිළිවෙළ වසර එක හමාරක් වැනි කෙටි කාලයක් තුළ නිම කිරීමට කටයුතු කරන බව ජනාධිපතිවරයා ප්‍රකාශ කළේය.
-
-...
-
-[Data](articles/03aecdba.json)
-
-[Extended Data](ext_articles/03aecdba.ext.json)
-
----
-
-### India-Sri Lanka Joint Working Group discusses mutually acceptable and long-lasting solution for fishermen issue
-
-*2024-10-29 22:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103019/india-sri-lanka-joint-working-group-discusses-mutually-acceptable-and-long-lasting-solution-for-fishermen-issue) · `en`
-
-The 6th meeting of the India-Sri Lanka Joint Working Group (JWG) on Fisheries was held today (29) in Colombo.
-
-The meeting was participated by an Indian delegation which was led by Dr. Abhilaksh Likhi, Secretary of the Indian Department of Fisheries, Government of India and senior officials from the Ministry of Fisheries, Animal Husbandry and Dairying; Ministry of External Affairs; Government of Tamil Nadu; Navy; Coast Guard; Central Marine Fisheries Research Institute and High Commission of India in Colombo.
-
-The Sri Lankan delegation was led by M.P.N.M. Wickramasinghe, Secretary of the Ministry of Fisheries, and senior officials from the Sri Lankan Foreign Ministry, Department of Fisheries and Aquatic Resources, Navy, Coast Guard and the Department of the Attorney General.
-
-The delegations undertook a comprehensive review of all relevant issues pertaining to fishermen and the fisheries sector, the Indian High Commission in Colombo said in a statement.
-
-...
-
-[Data](articles/793d0b95.json)
-
-[Extended Data](ext_articles/793d0b95.ext.json)
 
 ---

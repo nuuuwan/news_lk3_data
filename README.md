@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 10:58:43**
+As of **2024-10-30 11:12:18**
 
 ## Newspaper Stats
 
-*Scraped **52,169** Articles*
+*Scraped **52,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,170
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,851
-adaderanalk | 6,180
-tamilmirrorlk | 7,230
+adaderanalk | 6,181
+tamilmirrorlk | 7,232
 virakesarilk | 8,424
 adaderanasinhalalk | 9,076
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 9,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,169 (100.0%) of 52,169 articles have been extended.
+52,170 (100.0%) of 52,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### ஜனாதிபதி தலைமையில் தேசிய பாதுகாப்பு சபை கலந்துரையாடல்
+
+*2024-10-30 11:03:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-தேசிய-பாதுகாப்பு-சபை-கலந்துரையாடல்/175-346305) · `ta`
+
+இந்திய பயணிகள் விமானங்களை குறிவைத்து தொடர்ச்சியாக வெடிகுண்டு அச்சுறுத்தல்கள் மற்றும் இலங்கையின் சுற்றுலாத்துறையில் அவை ஏற்படுத்தக்கூடிய பாதிப்புகள் குறித்து ஜனாதிபதி அனுரகுமார திஸாநாயக்க தலைமையிலான தேசிய பாதுகாப்பு சபை நேற்று கலந்துரையாடியது.
+
+தொடரும் அச்சுறுத்தல்கள் நாட்டிற்கு வருகை தரும் சுற்றுலாப் பயணிகளை பாதிக்கக்கூடும் என்றும், இது சுற்றுலாத் துறையின் எதிர்காலம் குறித்த கரிசனங்களை எழுப்புவதாகவும் தகவலறிந்த வட்டாரங்கள் தெரிவித்தன.
+
+விமானம் இலங்கை வான் எல்லைக்குள் நுழைந்த சிறிது நேரத்திலேயே வெடிகுண்டு மிரட்டல் விடுக்கப்படுவதும் தெரியவந்தது. அருகிலுள்ள விமான நிலையம் கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் (BIA) அமைந்துள்ளதால், பாதிக்கப்பட்ட அனைத்து விமானங்களும் பாதுகாப்பு சோதனைக்காக BIA க்கு திருப்பி விடப்படுகின்றன.
+
+அண்மையில் இடம்பெற்ற சம்பவமொன்றில், வெடிகுண்டு மிரட்டல் விடுத்து ஒரே நேரத்தில் தரையிறக்கப்பட்ட இரண்டு விமானங்களுக்கு இலங்கை சட்ட அமலாக்க அதிகாரிகள் பதிலளிக்க வேண்டியிருந்தது. இருப்பினும், கிடைத்த மனிதவளத்தைக் கொண்டு அதிகாரிகளால் நிலைமையை திறம்பட நிர்வகிக்க முடிந்தது.
+
+...
+
+[Data](articles/b3fa0db4.json)
+
+---
+
+### நாயை சுட்டுக்கொன்ற இராணுவ அதிகாரி கைது
+
+*2024-10-30 11:02:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாயை-சுட்டுக்கொன்ற-இராணுவ-அதிகாரி-கைது/175-346304) · `ta`
+
+பக்கத்து வீட்டாரின் வளர்ப்பு நாயை துப்பாக்கியால் சுட்டுக் கொன்ற குற்றச்சாட்டில் ஓய்வு பெற்ற இராணுவ அதிகாரி ஒருவர் புதன்கிழமை (29) கைது செய்யப்பட்டுள்ளார்.
+
+மரணமடைந்த நாயின் உரிமையாளர் செய்த முறைப்பாட்டின் பிரகாரம் கந்தானை பொல்பிட்டிமுகலான பிரதேசத்தைச் சேர்ந்த 55 வயதுடைய   ஓய்வு பெற்ற இராணுவ அதிகாரி கைது செய்யப்பட்டுள்ளதுடன், நாயை சுட பயன்படுத்திய துப்பாக்கியும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+துப்பாக்கிச் சூட்டில் காயமடைந்த நாய், சந்தேக நபரின் வீட்டின் முன் உயிரிழந்து  கிடந்த நிலையில் மீட்கப்பட்டுள்ளதுடன்  இரவு நேரங்களில் வீட்டின் முன் வந்து  குரைப்பதால் நாய் சுட்டுக் கொல்லப்பட்டது என விசாரணையில் தெரியவந்ததாக பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/b2cd69a2.json)
+
+---
+
+### Canada alleges Indian minister Amit Shah behind plot to target Sikh separatists
+
+*2024-10-30 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103026/canada-alleges-indian-minister-amit-shah-behind-plot-to-target-sikh-separatists) · `en`
+
+The Canadian government alleged on Tuesday that Indian Minister of Home Affairs Amit Shah, a close ally of Hindu nationalist Prime Minister Narendra Modi, was behind the plots to target Sikh separatists on Canadian soil.
+
+The Indian government has dismissed Canada’s prior accusations as baseless, denying any involvement.
+
+The Washington Post newspaper first reported that Canadian officials alleged Shah was behind a campaign of violence and intimidation targeting Sikh separatists in Canada.
+
+Canadian Deputy Foreign Affairs Minister David Morrison said to a parliamentary panel on Tuesday that he told the U.S.-based newspaper that Shah was behind the plots.
+
+“The journalist called me and asked if it (Shah) was that person. I confirmed it was that person,” Morrison told the committee, without providing further details or evidence. The High Commission of India in Ottawa and the Indian foreign ministry had no immediate comment.
+
+...
+
+[Data](articles/fdfdb16c.json)
+
+[Extended Data](ext_articles/fdfdb16c.ext.json)
+
+---
 
 ### 86 train derailments so far this year
 
@@ -2267,71 +2323,5 @@ The Central Bank of Sri Lanka has issued an announcement that the allegations ha
 [Data](articles/cc788e28.json)
 
 [Extended Data](ext_articles/cc788e28.ext.json)
-
----
-
-### Three persons, including a woman who disrupted the duty of the police in the Meerangeni area of ​​Eravur
-
-*2024-10-29 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/197441) · `ta`
-
-In Meerangeni, Eravur: Police arrest drug dealer with 11,230mg heroin. Woman (36) and man (24) accused of disrupting police duties during arrest.
-
-🟩
-
-Two persons, including a woman who attacked the police, disrupted the duty of the police when a drug dealer was arrested with 11,230 milligrams of heroin in the Meerangeni area of ​​Eravur.
-
-According to information available to the police, a drug dealer has been arrested with 11,230 milligrams of heroin while surrounded by a house in the area, police said.
-
-Meanwhile, a 36 -year -old woman, a 24 -year -old man and a drug dealer have been arrested for allegedly disrupting the duty of the police.
-
-◼️
-
-[Data](articles/fdd7e4a8.json)
-
-[Extended Data](ext_articles/fdd7e4a8.ext.json)
-
----
-
-### Nazareta's place to Nimim Coins
-
-*2024-10-29 17:47:29* · [`adalk`](https://www.ada.lk/breaking_news/නසරල්ලාගේ-තැන-නයිම්-කාසීම්ට/11-412743) · `si`
-
-Here's a 200-character summary:
-
-
-
-Hezbollah appoints new leader after assassination. Former leader Nazandara killed, Nimayas takes helm on 29th day.
-
-🟩
-
-Nimayas has been appointed as the new leader of the Hezbollah organization.
-
-The former leader Hasan Nazandara Videllalah was assassinated and the New Leader has been appointed as the new leader today (29).
-
-◼️
-
-[Data](articles/10ed1132.json)
-
-[Extended Data](ext_articles/10ed1132.ext.json)
-
----
-
-### Sri Lanka’s Central Bank responds to reports of ‘money printing’
-
-*2024-10-29 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103015/-sri-lankas-central-bank-responds-to-reports-of-money-printing) · `en`
-
-The Central Bank of Sri Lanka (CBSL) today rejected as ‘completely baseless’ the recent reports claiming that the CBSL has printed currency notes to the value of Rs. 100 billion through Sri Lanka’s open market operations.
-
-Issuing a clarification in this regard, the CBSL explained that providing liquidity through open market operations is among the general affairs carried out by the Central Bank.
-
-Further, the CBSL clarified that the open market operations are conducted to maintain price stability through managing the interest rate, and that this measure cannot be classified as mere money printing.
-
-Additionally, the statement highlighted that the said reports have been published regarding the auctions and monetary operations carried out by the Central Bank of Sri Lanka in the general open market activities.
-
-...
-
-[Data](articles/6a065360.json)
-
-[Extended Data](ext_articles/6a065360.ext.json)
 
 ---

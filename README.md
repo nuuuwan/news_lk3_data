@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 03:09:35**
+As of **2024-10-31 03:24:16**
 
 ## Newspaper Stats
 
-*Scraped **52,279** Articles*
+*Scraped **52,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 530
 bbccomsinhala | 534
 islandlk | 3,106
 economynextcom | 3,180
-dailyftlk | 3,562
+dailyftlk | 3,563
 dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,202
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,279 (100.0%) of 52,279 articles have been extended.
+52,280 (100.0%) of 52,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Irrational behaviour of RW and MR vs. rational behaviour of President AKD
+
+*2024-10-31 02:51:40* · [`dailyftlk`](https://www.ft.lk/columns/Irrational-behaviour-of-RW-and-MR-vs-rational-behaviour-of-President-AKD/4-768632) · `en`
+
+As a well-educated veteran politician who has served in parliament for nearly 50 years and has been the leader of UNP for a long time, the public expects that Ex-President RW will behave and respond rationally. The above can also be well applied to Ex-President MR. However, this article shows that their irrational behaviour can be compared with the rational behaviour of President AKD. Along with 50 years in politics, RW and MR failed to achieve political maturity in the right direction that the President/AKD achieved within 20 years of politics; the young politicians who follow AKD can learn all. But those who follow RW and MR are lost
+
+Given the parliamentary election on 14 November 2024, the public can hear unique and surprising things about politics, particularly from political rallies. This article aims to discuss a few of the above so that voters can better understand whom to cast their votes for.
+
+...
+
+[Data](articles/0994f312.json)
+
+[Extended Data](ext_articles/0994f312.ext.json)
+
+---
 
 ### Examining Elpitiya, Israeli-Zionist beachheads, Anura’s inaction and Prabhakaran’s profile
 
@@ -2367,35 +2383,5 @@ It is noteworthy that Nishant Yusuf was the editor of the Surya 45 movie which w
 [Data](articles/5fb9d11f.json)
 
 [Extended Data](ext_articles/5fb9d11f.ext.json)
-
----
-
-### Akshay Kumar, a famous actor who donated funds to feed monkeys
-
-*2024-10-30 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197479) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Bollywood star Akshay Kumar donates funds to Anjaneya Seva NGO in Ayodhya
-
-🟩
-
-Anjaneya Seva is working on feeding monkeys in Ayodhya, Uttar Pradesh, India.
-
-In this case, Bollywood actor Akshay Kumar has donated Rs.
-
-Priya Gupta, president of Anjaneya Seva NGO, said,
-
-"Actor Akshay Kumar. He has made this donation with great greatness. We are not only feeding monkeys, but we are also careful not to affect humans by monkeys. ”
-
-Actor Akshay Kumar starrer 'Singam Akinin' is set to hit the screens tomorrow (31st) in front of Diwali.
-
-◼️
-
-[Data](articles/1326d216.json)
-
-[Extended Data](ext_articles/1326d216.ext.json)
 
 ---

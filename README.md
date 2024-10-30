@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 10:13:02**
+As of **2024-10-30 10:24:57**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 9,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,159 (100.0%) of 52,163 articles have been extended.
+52,163 (100.0%) of 52,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
 
-### ඊශ්‍රායල ගුවන් ප්‍රහාරයෙන් පුද්ගලයින් 93 දෙනෙක් මරුට
+### Israeli air strikes killed in clashes
 
 *2024-10-30 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202720) · `si`
 
-උතුරු ගාසා තීරයේ බෙයිට් ලාහියා නගරයට ඊශ්‍රායල එල්ල කළ ගුවන් ප්‍රහාරයකින් පුද්ගලයින් 93 දෙනෙකු මියගොස් තිබේ.
+Israeli airstrikes hit North Gaza, killing 93, including children. Residential building destroyed, trapping bodies. Healthcare crisis due to staff and medication shortages.
 
-විදෙස් මාධ්‍ය වාර්තා කරනුයේ මියගිය පිරිස අතර ළමුන්ද සිටින බවය.
+🟩
 
-මහල් පහකින් යුත් නේවාසික ගොඩනැගිල්ලක් ඉලක්ක කර මෙම ප්‍රහාරය එල්ල වී තිබුණි.
+93 persons were killed in Bair Lahiah in the North Gaza.
 
-මළ සිරුරු රැසක් ගොඩනැගිලි සුන්බුන් අතර සිරවී ඇති බව සහන කණ්ඩායම් පවසයි.
+Foreign media reports that the victims are children among the dead.
 
-විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේ සෞඛ්‍ය අංශ කාර්ය මණ්ඩලය සහ ඖෂධ හිඟය හේතුවෙන් රෝගීන්ට ප්‍රතිකාර කිරීම අපහසු වී ඇති බවය.
+The attack was targeted at a five-storey residential building.
+
+A large number of dead bodies are trapped between the building debris.
+
+Foreign media reports stated that it is difficult to treat patients due to the shortage of healthcare staff and drug shortages.
 
 ◼️
 
 [Data](articles/4536b3bc.json)
+
+[Extended Data](ext_articles/4536b3bc.ext.json)
 
 ---
 
@@ -150,35 +156,51 @@ The Commissioner General of Elections Saman Sri Rathnayake stated that official 
 
 ---
 
-### 6 வெளிநாட்டவர்கள் திடீர் கைது
+### 6 foreigners suddenly arrested
 
 *2024-10-30 09:24:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-வெளிநாட்டவர்கள்-திடீர்-கைது/175-346301) · `ta`
 
-வீசா இன்றி நாட்டில் தங்கியிருந்த 6 வெளிநாட்டவர்கள் சீதுவ - அமந்தொலுவ பிரதேசத்தில் வைத்து கைது செய்யப்பட்டுள்ளனர்.
+Foreigners arrested Seeduwa Amandoluwa visa violation Immigration Emigration Act ages 18 23 26 39 43
 
-குடிவரவு குடியகழ்வு சட்டத்தை மீறி வெளிநாட்டவர்கள் குழுவொன்று செயற்படுவதாக கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது சந்தேகநபர்களை கைது செய்ய முடிந்ததாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கைது செய்யப்பட்டவர்கள் 18, 23, 26, 39 மற்றும் 43 வயதுடைய பங்களாதேஷ் பிரஜைகள் என பொலிஸார் தெரிவித்தனர்.
+Six foreigners who were staying in the country without a visa have been arrested in the Seeduwa - Amandoluwa area.
+
+Police said the suspects were able to arrest the suspects during a raid based on information received that a group of foreigners were operating in violation of the Immigration and Emigration Act.
+
+The arrested persons were 18, 23, 26, 39 and 43 years old, police said.
 
 ◼️
 
 [Data](articles/1bccf537.json)
 
+[Extended Data](ext_articles/1bccf537.ext.json)
+
 ---
 
-### தபால் மூல வாக்குப்பதிவு இன்று ஆரம்பம்
+### Postal voting is beginning today
 
 *2024-10-30 09:08:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூல-வாக்குப்பதிவு-இன்று-ஆரம்பம்/175-346300) · `ta`
 
-பொதுத் தேர்தலுக்கான தபால் மூல வாக்குகளை அடையாளப்படுத்தும் நடவடிக்கைகள் இன்று (30) ஆரம்பமாகவுள்ளன.
+Here's a 200-character summary:
 
-மாவட்ட செயலக அலுவலகங்கள், தேர்தல்கள் ஆணைக்குழு அலுவலகங்கள், பொலிஸ் பரிசோதகர் அலுவலகங்கள் உள்ளிட்ட அனைத்து பொலிஸ் நிலையங்களிலும் இன்று தபால் மூல வாக்குகளை அடையாளப்படுத்துவதற்காக சந்தர்ப்பம் வழங்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
 
-இன்றைய தினத்திற்கு மேலதிகமாக, நவம்பர் 4 ஆம் திகதியும் குறித்த அலுவலகங்களில் தபால் மூலம் வாக்களிக்க சந்தர்ப்பம் வழங்கப்பட்டுள்ளது.   R
+
+Postal voting begins today. The Elections Commission instructs police stations, secretariat offices, and commission offices to identify postal votes. Additional offices allowed to vote by post on November 4.
+
+🟩
+
+The process of identifying the postal votes for the general election will begin today (30).
+
+The Elections Commission said that all the police stations, including the District Secretariat Offices, the Elections Commission offices and the Police Inspector's Offices, today have been given the opportunity to identify the postal votes.
+
+In addition to today, the offices on November 4 have been given the opportunity to vote by post.R
 
 ◼️
 
 [Data](articles/1885452f.json)
+
+[Extended Data](ext_articles/1885452f.ext.json)
 
 ---
 
@@ -874,27 +896,33 @@ The first phase of the school education activities in 2025 will be held from Jan
 
 ---
 
-### ඉදිරි අවුරුදු කිහිපය තුළ විදුලි බිල දැනෙන්න අඩුකරවා
+### Reduces electricity bills in the next few years
 
 *2024-10-29 22:38:18* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-අවුරුදු-කිහිපය-තුළ-විදුලි-බිල-දැනෙන්න-අඩුකරවා/11-412753) · `si`
 
-කිසිදු දීමනාවක් හෝ වැටුපක් නොලබා ආර්ථිකය ගොඩනැගීම වෙනුවෙන් සහාය දීමට සූදානම් බව ශ්‍රී ලංකා වාණිජ මණ්ඩල නියෝජිතයෝ පවසති
+Sri Lanka Chamber of Commerce supports digitization efforts. President Anura Kumara Dissanayake aims to digitize the entire country within three years, reduce electricity bills, and promote energy sovereignty. The government plans to provide tax concessions and improve public services efficiency.
 
-වත්මන් පාලනය යටතේ ඉදිරි වසර තුන ඇතුළත සමස්ත රට ඩිජිටල්කරණයට කටයුතු කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රකාශ කළේය.
+🟩
 
-ඩිජිටල්කරණය තුළින් ශ්‍රී ලංකාව වෙනම තලයකට ඔසවා තැබීමට හැකියාව තිබෙන බවත්  ඩිජිටල්කරණයට අදාළ මැදිහත් වීම මේ වන විට වත්මන් රජය ආරම්භ කර ඇති බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+Sri Lanka Chamber of Commerce (SLC) says he is ready to support building any gift or salary
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ වාණිජ මණ්ඩල නියෝජිතයන් සමඟ  ජනාධිපති ලේකම් කාර්යාලයේදී අද (29) පැවති සාකච්ඡාවකට එක්වෙමිනි.
+President Anura Kumara Dissanayake said that the entire country would be digitizing the entire country within the next three years.
 
-වාණිජ මණ්ඩලයේ සාමාජිකයින් කිසිදු දීමනාවක් හෝ වැටුපක් නොලබා ආර්ථිකය ගොඩනැගීම වෙනුවෙන් සහාය ලබා දීමට ද මෙහිදී එකඟ විය.
+The President pointed out that the current government has already begun to lift Sri Lanka through digitization.
 
-රක්ෂණ ,බැංකු, ඉදිකිරීම්, සංචාරක, වැවිලි කර්මාන්ත, සුළු හා මධ්‍ය පරිමාණ ව්‍යාපාර ඇතුළු ක්ෂේත්‍ර ගණනාවක ගැටලු හා අනාගත ඉලක්ක පිළිබඳ මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණි .
+President Anura Kumara Dissanayake made these comments at a discussion held today at the Presidential Secretariat today (29).
 
-රටේ ආර්ථිකය ගොඩනඟමින් ඊට අනුරූපව ජනතාවට බදු සහන ලබා දීමට කටයුතු කරන බවද ජනාධිපති අනුර කුමාර දිසානායක  මහතා සඳහන් කළේය.
+The Chamber of Commerce agreed to support the building of any allowance or no salary.
+
+There was a lengthy discussion of many fields and future goals, including insurance, banks, construction, tourism, plantation industry, small and medium scale businesses.
+
+President Anura Kumara Dissanayake added that action will be taken to build the economy of the country and provides tax concessions to the people.
 
 ...
 
 [Data](articles/64e3949d.json)
+
+[Extended Data](ext_articles/64e3949d.ext.json)
 
 ---
 

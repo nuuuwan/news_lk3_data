@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 23:40:47**
+As of **2024-10-30 23:59:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,267 (100.0%) of 52,275 articles have been extended.
+52,273 (100.0%) of 52,275 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -506,6 +506,8 @@ The Bank in its financial statement said it had ensured the impairment provision
 
 [Data](articles/4fe4aca1.json)
 
+[Extended Data](ext_articles/4fe4aca1.ext.json)
+
 ---
 
 ### Sri Lanka to probe ‘corruption’ in handling of X-Press Pearl disaster - report
@@ -645,6 +647,8 @@ The meeting comes weeks after deaths when the island nation’s navy attempted t
 ...
 
 [Data](articles/14129625.json)
+
+[Extended Data](ext_articles/14129625.ext.json)
 
 ---
 
@@ -902,6 +906,8 @@ Sri Lanka’s interest rates have fallen after the central bank cut the key mone
 
 [Data](articles/ca8d7e9c.json)
 
+[Extended Data](ext_articles/ca8d7e9c.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 293.00/20 to dollar, bond yields steady
@@ -917,6 +923,8 @@ A bond maturing on 15.06.2029 closed stable at 11.95/12.10 percent. (Colombo/Oct
 ◼️
 
 [Data](articles/a4d20d22.json)
+
+[Extended Data](ext_articles/a4d20d22.ext.json)
 
 ---
 
@@ -941,6 +949,8 @@ Top contributors to the ASPI were Melstacorp (up at 95.90), NDB (up at 87.60), C
 ◼️
 
 [Data](articles/3de7b52e.json)
+
+[Extended Data](ext_articles/3de7b52e.ext.json)
 
 ---
 
@@ -1075,6 +1085,8 @@ The agreement with PT Natural Indococonut Organik (NICO COCO), Indonesia’s lea
 ...
 
 [Data](articles/e950818a.json)
+
+[Extended Data](ext_articles/e950818a.ext.json)
 
 ---
 

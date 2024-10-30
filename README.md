@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 09:25:27**
+As of **2024-10-30 09:40:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,073
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,146 (100.0%) of 52,152 articles have been extended.
+52,149 (100.0%) of 52,152 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -828,6 +828,8 @@ The President highlighted the critical importance of digitizing Sri Lanka’s ec
 
 [Data](articles/0914d781.json)
 
+[Extended Data](ext_articles/0914d781.ext.json)
+
 ---
 
 ### E-8 visa agreement is not legal - the Bureau of Foreign Service
@@ -926,17 +928,25 @@ The players have been able to sign up from the first day of the tournament.
 
 *2024-10-29 21:52:08* · [`adalk`](https://www.ada.lk/breaking_news/ඉමාම්-වාර්තාවේ-කරුණු-පිළිගන්නේ-නෑ/11-412750) · `si`
 
+Sri Lanka Cabinet Minister denies accepting details from Imama Report about Easter Sunday attacks. Claims government investigation unfair. Criticizes former Defense Secretary for false claims about Channel 4 report.
+
+🟩
+
 පාස්කු ඉරුදින ප්‍රහාරය පිළිබඳව ඉමාම් වාර්තාවේ අඩංගු කරුණු පිළිනොගන්නා බව කැබිනට් ප්‍රකාශක අමාත්‍ය විජිත හේරත් මහතා පැවසුවේය.
 
-චැනල් 4 නාලිකාවේ විකාශය කළ වීඩියෝව සම්බන්ධයෙන් හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා කරන ලද හෙළිදරව්ව කාගේ අරමුණක් ඉටු කිරීම වෙනුවෙන් කරන ලද්දක් ද යන වග පැහැදිලි බවත්,  ශානි අබේසේකර මහතා හා රවී සෙනවිරත්න මහතා ඉලක්ක කර ගනිමින් මෙම හෙළිදරව් කිරීම් සිදුකරන බවත් කැබිනට් ප්‍රකාශක අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
+Minister Vijitha Herath is also revealed that he is not responsible for the achievement of a video of Channel 4 channel.Said.
 
 චැනල් 4 නාලිකාවේ සිදුවීම සම්බන්ධයෙන් වූ වාර්තාව වැරදි බවට හිටපු ආරක්ෂක ලේකම්වරයා විසින් නිවේදනයක් නිකුත් කරමින් පැවසීම පවා දේශපාලනික කාරණයක් බව ද අමාත්‍යවරයා සඳහන් කළේය.
 
-පරීක්ෂණයක් සිදුනොකර එවැන්නක් පැවසුවේ යම් පිරිසක් බේරාගැනීමේ අරමුණින් බවත්, වත්මන් ආණ්ඩුව සාධාරණ පරීක්ෂණයක් පවත්වමින් පාස්කු ඉරිදින ප්‍රහාරය සම්බන්ධ සත්‍ය තොරතුරු අනාවරණය කර ගැනීම ආරම්භ කර ඇති බවත්, වත්මන් රජයට කිසිවෙකුත් ආරක්ෂා කිරීමට අවශ්‍ය නොවන බවත් ඔහු සඳහන් කළේය.
+He said that the current government has not conducted a fair investigation into the event of a fair investigation and that the present government has conducted a fair investigation into the attack on the Passover attack.
+
+The Minister was responding to a query referred to as a journalist who was a government's position on the first report by Mr. Gammanpila.
 
 ...
 
 [Data](articles/f821a449.json)
+
+[Extended Data](ext_articles/f821a449.ext.json)
 
 ---
 
@@ -1823,6 +1833,8 @@ In my opinion, Saumiyamoorthy Thondaman was the shrewdest tactician and masterfu
 ...
 
 [Data](articles/33120614.json)
+
+[Extended Data](ext_articles/33120614.ext.json)
 
 ---
 

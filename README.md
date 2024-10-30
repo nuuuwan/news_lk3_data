@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 14:58:56**
+As of **2024-10-30 15:10:52**
 
 ## Newspaper Stats
 
-*Scraped **52,215** Articles*
+*Scraped **52,217** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 414
 colombotelegraphcom | 530
-bbccomsinhala | 532
+bbccomsinhala | 533
 islandlk | 3,106
 economynextcom | 3,172
 dailyftlk | 3,561
@@ -20,17 +20,45 @@ adalk | 4,855
 adaderanalk | 6,190
 tamilmirrorlk | 7,242
 virakesarilk | 8,431
-adaderanasinhalalk | 9,086
+adaderanasinhalalk | 9,087
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,215 (100.0%) of 52,215 articles have been extended.
+52,217 (100.0%) of 52,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### A leak from the port of Kolonnawa
+
+*2024-10-30 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202731) · `si`
+
+Kolonnawa fuel leak: Explosion damages JET A1 tube near railway. Police inspect site. 33,000V power lines affected. Oil spill contained. Repairs underway.
+
+🟩
+
+Fuel is currently in spreading due to the explosion of a fuel tube in Kolonnawa completes the Ceylon Petroleum Corporation.
+
+It is reported that the oil leak is reported to be damaged by JET A1, a fuel tube that is located near the railway line from the Colombo port.
+
+The police inspection was observed at the local inspection of the Kolonnawa finishing in the Kolonnawa finish.
+
+There are a 33,000 volt power wiring system and houses in this fuel tube.
+
+The fuel leaks is being removed through an oil bowl of the Petroleum Corporation.
+
+In the meantime, officials are being repairs on the tube.
+
+◼️
+
+[Data](articles/f5cab6ab.json)
+
+[Extended Data](ext_articles/f5cab6ab.ext.json)
+
+---
 
 ### Discounts without hearing against Ranjan
 
@@ -1454,6 +1482,82 @@ It also pointed out that the train travel is a cancellation of the train in the 
 
 ---
 
+### Arugambay: Residents of Israel and the government say about Israel 'chobad House'?
+
+*2024-10-30 08:30:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce9g071999lo) · `si`
+
+Based on the text provided, here are the key points regarding the situation in Arugambay:
+
+
+
+1. A controversial religious center called "Chabad House" has been established in Arugambay, reportedly run by Israeli nationals.
+
+
+
+2. Local residents have expressed concerns about the center, including allegations of land grabbing and unauthorized construction.
+
+
+
+3. The Sri Lankan government claims to be investigating the matter, stating that the center may be operating illegally.
+
+
+
+4. Some residents report seeing Israeli tourists visiting the area, though others claim there are fewer visitors due to security concerns.
+
+
+
+5. There are conflicting accounts about the nature of the Chabad House and its impact on the local community.
+
+
+
+6. The situation appears to be sensitive, with both local authorities and residents providing differing perspectives on the issue.
+
+
+
+7. There are ongoing discussions about religious freedom, tourism, and land use in the region.
+
+
+
+8. Some residents express concern about potential cultural and social impacts of the center's presence.
+
+
+
+9. The situation seems to be under investigation by local authorities, with mixed reactions from the community.
+
+
+
+10. There are references to security measures and potential tensions between locals and the center's operators.
+
+
+
+This summary provides an overview of the complex situation described in the text, highlighting the various perspectives and concerns surrounding the Chabad House in Arugambay.
+
+🟩
+
+Arugambay: Residents of Israel and the government say about Israel 'chobad House'?
+
+The country's warning announcement is still inaugurated by the American Embassy in the area of ​​Aruugambay.
+
+The incident also focused on the national security in Sri Lanka, with the religious place in the social media, a religious place in the country.
+
+A team of BBC's Sinhala service was engaged in a field visit to the area to look into the situation where there is a situation in the area of ​​Arugambay.
+
+There were still three Israeli people in the Arugam's area.
+
+During his visit to Arugambay, the police said that three Israeli still remain in the area.
+
+Investigations revealed that one Israeli reside in the area for several years in Arumbumbe.
+
+The team of BBC in the Sinhala service has come to the place where he was staying to stay the Israeli and he was inspected to his residence.
+
+...
+
+[Data](articles/f052c8ae.json)
+
+[Extended Data](ext_articles/f052c8ae.ext.json)
+
+---
+
 ### Six foreign nationals arrested
 
 *2024-10-30 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202716) · `si`
@@ -2271,45 +2375,5 @@ The delegations undertook a comprehensive review of all relevant issues pertaini
 [Data](articles/793d0b95.json)
 
 [Extended Data](ext_articles/793d0b95.ext.json)
-
----
-
-### Electricity tariffs will decrease significantly - President
-
-*2024-10-29 22:23:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரக்-கட்டணம்-கணிசமான-அளவு-குறையும்-ஜனாதிபதி/175-346295) · `ta`
-
-Sri Lanka's President Anura Kumara Dissanayake announced plans for substantial electricity tariff reductions over the next few years during a meeting with Chamber of Commerce representatives. He also stated that the country will be fully digitalized within three years under current administration policies.
-
-🟩
-
-President Anura Kumara Dissanayake has said that the government's expectation is a significant reduction in electricity tariffs over the next few years.
-
-The President made this statement during a discussion with a team of representatives of the Sri Lanka Chamber of Commerce.
-
-The President also pointed out that the entire country will be digitalized in the next 3 years under the current administration.
-
-◼️
-
-[Data](articles/750d7dc1.json)
-
-[Extended Data](ext_articles/750d7dc1.ext.json)
-
----
-
-### Decisive economic measures to protect both the banking sector and entrepreneurs
-
-*2024-10-29 22:23:00* · [`islandlk`](http://island.lk/decisive-economic-measures-to-protect-both-the-banking-sector-and-entrepreneurs/) · `en`
-
-President Anura Kumara Dissanayake emphasized that, since neither he nor his administration has special ties or obligations to any party within the country’s development or business sectors, they are positioned to make decisions impartially and decisively for the sake of national economic recovery.
-
-These remarks were made during a meeting today (29) with members of the Sri Lanka Banks’ Association at the Presidential Secretariat, where discussions focused on the banking sector’s role and challenges in supporting Sri Lanka’s economic growth.
-
-The President highlighted the critical importance of digitizing Sri Lanka’s economy, including the implementation of a National Digital ID initiative, which he pledged would be completed within a focused timeframe of one and a half years.
-
-...
-
-[Data](articles/0914d781.json)
-
-[Extended Data](ext_articles/0914d781.ext.json)
 
 ---

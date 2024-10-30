@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 17:09:16**
+As of **2024-10-30 17:24:12**
 
 ## Newspaper Stats
 
-*Scraped **52,238** Articles*
+*Scraped **52,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,74 @@ economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,858
-adaderanalk | 6,196
+adaderanalk | 6,197
 tamilmirrorlk | 7,244
 virakesarilk | 8,433
-adaderanasinhalalk | 9,094
+adaderanasinhalalk | 9,095
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,234 (100.0%) of 52,238 articles have been extended.
+52,238 (100.0%) of 52,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
 
-### වෙලේ සුදාට එරෙහි නඩුවක තීන්දුවට දින දෙයි
+### දකුණේ සහ සබරගමුවේ සියලුම රජයේ දෙමළ පාසල්වලටත් නොවැ 01 නිවාඩු
+
+*2024-10-30 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202739) · `si`
+
+දකුණේ සහ සබරගමුව පළාත්වල සියලුම රජයේ දෙමළ පාසල්වලට නොවැම්බර් මස 01 වනදා නිවාඩු ලබාදී තිබේ.
+
+නොවැම්බර් මස 31 වන දිනට යෙදෙන දීපවාලි උත්සවය නිමිත්තෙන් අදාළ පළාත්වල දෙමළ පාසල්වලට එලෙස නිවාඩු ලබා දී ඇත.
+
+◼️
+
+[Data](articles/13a4e671.json)
+
+---
+
+### Tamil medium schools in two more provinces closed on Friday
+
+*2024-10-30 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103044/tamil-medium-schools-in-two-more-provinces-closed-on-friday) · `en`
+
+All Tamil medium government schools in the Southern and Sabaragamuwa Provinces will also remain closed on November 01 (Friday) in view of the Deepavali holiday which falls on October 31.
+
+Meanwhile, it was earlier announced that all Tamil medium schools in the Central and Uva Provinces will be closed on Friday as a special school holiday.
+
+However, these schools will function on November 09 (Saturday) to cover this extra holiday, according to the Zonal Education Directors.
+
+◼️
+
+[Data](articles/16a8a6e8.json)
+
+---
+
+### Datesday to the verdict against Sudha against Sudha
 
 *2024-10-30 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202738) · `si`
 
-වෙලේ සුදා ඇතුළු විත්තිකරුවන් තුන්දෙනෙකුට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර තිබෙන නඩුවක විභාගය අවසන් කළ කොළඹ මහාධිකරණය එහි තීන්දුව දෙසැම්බර් මස 20 වනදා ප්‍රකාශයට පත් කරන බව අද (30) නිවේදනය කළේය.
+Colombo High Court verdict: AG sues 3 over heroin misappropriation case. Judge Agather Pabennage delivers verdict after long evidence. Sudala's wife and cousin involved. Verdict published December 20.
 
-හෙරොයින් මත්ද්‍රව්‍ය ජාවාරමින් උපයාගත් මුදල්වලින් රුපියල් කෝටි 17කට අධික වත්කම් හා මුදල් අයථා ලෙස අත්පත් කරගත්තේ යැයි චෝදනා කරමින්, මේ වනවිට මරණීය දණ්ඩනය නියමවී සිටින ගම්පොළ විදානගේ සමන්ත කුමාර හෙවත් වෙලේ සුදා ඇතුළු විත්තිකරුවන් තුන්දෙනෙකුට එරෙහිව මෙම නඩුව ගොනුකර තිබුණි.
+🟩
 
-කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා ඉදිරියේ මෙම නඩුව විභාග කෙරුණි.
+The Colombo High Court today announced that the verdict was completed by the Attorney General against three defendants including Wele Manna.
 
-මෙම නඩුවේ සෙසු විත්තිකරුවන් ලෙස වෙලේ සුදාගේ බිරිඳ හා ඥාති සොහොයුරියක් නම් කර තිබුණි.
+The case had been filed against the Narcotics of Gampola Vidanage Samantage Samara and three defendants who have been accused of misappropriation of heroin.
 
-ඒ අනුව දීර්ඝ සාක්ෂි විභාගයකින් අනතුරුව නඩු විභාගය අවසන් කළ මහාධිකරණ විනිසුරුවරයා එහි තීන්දුව දෙසැම්බර් මස 20 වනදා ප්‍රකාශයට පත් කරන බව නිවේදනය කළේය.
+The case was heard before the Colombo High Court Judge Agather Pabennage.
+
+Sudala's wife and a cousin were named as the rest of the case.
+
+Accordingly, the High Court judge was completed following a long evidence and announced that the verdict was published on December 20.
 
 ◼️
 
 [Data](articles/b8262a5d.json)
+
+[Extended Data](ext_articles/b8262a5d.ext.json)
 
 ---
 
@@ -72,23 +108,29 @@ The union has urged the union that the action is being carried out as the action
 
 ---
 
-### ඉන්දුනීසියාවේ සීනි වංචාවට හිටපු ඇමති අත්අඩංගුවට
+### Former minister arrested for sugar frauds in Indonesia
 
 *2024-10-30 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202737) · `si`
 
-සීනි ආනයන වංචාවක් සම්බන්ධයෙන් ඉන්දුනීසියාවේ හිටපු වෙළෙඳ ඇමතිවරයාව අත්අඩංගුවට ගැනීමට එරට විමර්ශන නිලධාරීන් කටයුතු කර තිබේ.
+Former Indonesian minister arrested for sugar import fraud, causing $25 million government loss. Accused of issuing licenses to private companies for excessive sugar imports. Currently facing criticism over government affairs.
 
-විමර්ශකයින් පවසන්නේ හිටපු අමාත්‍යවරයා නිසි ක්‍රමවේදයෙන් බාහිරව සීනි ආනයන බලපත්‍රයක් නිකුත් කිරීමෙන් රජයට ඩොලර් මිලියන 25ක පාඩුවක් සිදුකර ඇති බවයි.
+🟩
 
-එම හිටපු අමාත්‍යවරයා මේ වනවිට රජයේ කටයුතු විවේචනය කරන පුද්ගලයින් අතුරින් ඉදිරියෙන්ම සිටින අයෙකි.
+Investigations in Indonesia have been arrested for the arrest of the former Indonesia regarding a sugar import fraud.
 
-හිටපු අමාත්‍ය තෝමස් ට්‍රිකාසි ලෙම්බොන් ව සැකකරුවෙක් වශයෙන් ඊයේ (29) අත්අඩංගුවට ගෙන තිබුණි.
+Investigators say that the former Minister has caused a $ 25 million loss to the government by issuing an import of sugar imports outside the former Minister.
 
-එරට නීතිපති දෙපාර්තමේන්තුව ගොනුකර ඇති චෝදනාවේ සඳහන් වන්නේ රට තුළ අවශ්‍ය ප්‍රමාණය ට වඩා සීනි තොග ඇති අවස්ථාවක පෞද්ගලික සමාගමකට සීනි ආනයනය සඳහා බලපත්‍රයක් නිකුත්කළ බවට ඔහුට චෝදනා එල්ලකර තිබේ.
+The former minister is currently the one in the foremost criticing government affairs.
+
+Former Minister Thomas Tricks Tricks Tricks were arrested yesterday as a suspect.
+
+The accused filed the Attorney General's Department states that he has issued a license to import the sugar to a private company in the event of a large number of sugar in the country.
 
 ◼️
 
 [Data](articles/99627ac6.json)
+
+[Extended Data](ext_articles/99627ac6.ext.json)
 
 ---
 
@@ -105,6 +147,8 @@ While the program has existed in seven other provinces across Sri Lanka over the
 ...
 
 [Data](articles/b721ca6d.json)
+
+[Extended Data](ext_articles/b721ca6d.ext.json)
 
 ---
 
@@ -125,6 +169,8 @@ However, President of the association Sumedha Somaratne mentioned that they arri
 ◼️
 
 [Data](articles/21eb22e7.json)
+
+[Extended Data](ext_articles/21eb22e7.ext.json)
 
 ---
 
@@ -2343,41 +2389,5 @@ Everyone — businesses, public service leaders or budding entrepreneurs — can
 [Data](articles/8b7ee545.json)
 
 [Extended Data](ext_articles/8b7ee545.ext.json)
-
----
-
-### Will the new Government seize oceans of opportunity?
-
-*2024-10-30 05:39:53* · [`dailyftlk`](https://www.ft.lk/columns/Will-the-new-Government-seize-oceans-of-opportunity/4-768578) · `en`
-
-As I reflect on Sri Lanka’s recent Government change, I see not just a political shift but a pivotal moment for our nation — a chance to redefine our economic and environmental future.
-
-The question remains: will we seize the opportunity to become a leader in marine conservation, or will we let this moment slip away?
-
-Sri Lanka stands at the crossroads of unique opportunities that can redefine its trajectory. This moment calls for bold reforms and visionary leadership, especially in aligning our nation with global sustainability standards. For business leaders, Government officials, and practitioners across various sectors, one of the most significant ways to contribute to this progress lies in adopting the High Seas Treaty — a global agreement designed to protect marine biodiversity and ensure sustainable use of international waters.
-
-...
-
-[Data](articles/f6279b68.json)
-
-[Extended Data](ext_articles/f6279b68.ext.json)
-
----
-
-### Sri Lanka’s ISF inks strategic partnership with NICO COCO to revolutionise coconut processing in Indonesia
-
-*2024-10-30 05:35:08* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-ISF-inks-strategic-partnership-with-NICO-COCO-to-revolutionise-coconut-processing-in-Indonesia/34-768576) · `en`
-
-Signing of the MoU between NICO COCO and ISF, witnessed by the Indonesian Ambassador to Sri Lanka Dewi Gustina Tobing
-
-ISF, a leading end-to-end engineering solution provider for the coconut and dairy processing industries in Sri Lanka, has signed a Memorandum of Understanding (MOU) with PT. Natural Indococonut Organik (NICO COCO), Indonesia’s leading coconut products manufacturer.
-
-The agreement, signed on 7 October at the INASCA (Indonesia South and Central Asia) Business Forum in Jakarta, Indonesia, is set to drive significant advancements in coconut processing technology in the region. Through this partnership, ISF will design state-of-the-art coconut processing plants for NICO COCO, bringing its decades of expertise to the forefront for the Indonesian market.
-
-...
-
-[Data](articles/c86655ad.json)
-
-[Extended Data](ext_articles/c86655ad.ext.json)
 
 ---

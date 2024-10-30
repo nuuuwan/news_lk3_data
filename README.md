@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 22:14:56**
+As of **2024-10-30 22:40:12**
 
 ## Newspaper Stats
 
-*Scraped **52,262** Articles*
+*Scraped **52,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,861
-adaderanalk | 6,200
+adaderanalk | 6,201
 tamilmirrorlk | 7,245
 virakesarilk | 8,441
-adaderanasinhalalk | 9,102
+adaderanasinhalalk | 9,104
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,262 (100.0%) of 52,262 articles have been extended.
+52,265 (100.0%) of 52,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### ‘Ice’ drugs worth INR 270m bound for Sri Lanka seized in Chennai; Lankan among arrested
+
+*2024-10-30 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103048/ice-drugs-worth-inr-270m-bound-for-sri-lanka-seized-in-chennai-lankan-among-arrested) · `en`
+
+In yet another drug bust in Tamil Nadu, India’s Narcotics Control Bureau seized crystal methamphetamine, also known as ‘Ice’, worth 270 million Indian rupees in Chennai. The drugs were meant to be trafficked to Sri Lanka, the investigators said.
+
+India’s Narcotics Control Bureau or NCB arrested two men - Vijaykumar and Manivannan and recovered INR 150,000 in cash and 2.7 kg of Methamphetamine (ICE) from their possession last Tuesday. The cash was believed to be proceeds from the sale of drugs, NDTV reported.
+
+Meanwhile, DT Next reported that the two suspects arrested by the Narcotics Control Bureau’s Chennai zonal unit includes a Sri Lankan national and another person with links in Moreh, Manipur and that the duo had planned to send the drug to Sri Lanka.
+
+Based on intelligence, NCB sleuths secured two persons, later identified as Vijayakumar and Manivannan-near Moolakadai bus stand and seized 1.9 kg of methamphetamine from them on October 22.
+
+...
+
+[Data](articles/78043f27.json)
+
+[Extended Data](ext_articles/78043f27.ext.json)
+
+---
+
+### The order of tame elephants
+
+*2024-10-30 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202748) · `si`
+
+Here's a 200-character summary:
+
+
+
+Colombo Magistrate orders release of three tame elephants seized by CID in 2016. Wildlife Director General involved. Elephants found in Udawalawe. Court case ongoing regarding ownership.
+
+🟩
+
+Colombo Additional Magistrate Hardana Sooriyawala today (30) ordered Wildlife Director General of Wildlife Director General.
+
+It was in connection with three tame elephants arrested by the CID by CID.
+
+Troops of the Criminal Investigations of Kalutara, Avissawella have been arrested by the Criminal Investigation Department in 2016 and the three elephants have been arrested by the Court of Justice to the owners.The lawyers who appeared for the victims of the victim of the agriculced side of the Wildlife Director have issued the court regarding the court.
+
+The three elephants were revealed in Udawalawe.
+
+◼️
+
+[Data](articles/4910d05b.json)
+
+[Extended Data](ext_articles/4910d05b.ext.json)
+
+---
+
+### Station Masters conclude trade union action
+
+*2024-10-30 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202747) · `si`
+
+Railway workers' strike ends midnight. Union supported Deepavali celebrations. Demands included promotions, infrastructure improvements. 72-hour negotiation period concluded. Professional action began at 4:30 PM.
+
+🟩
+
+The General Secretary of the Railways Sanjaya Jayasundara said that the trade union action was launched today (30) will be completed from midnight.
+
+He added that this decision was a measure of supporting the people due to Deepavali's day for tomorrow (31).
+
+The Station Masters Association (Martial) Association has been involved in a number of issues such as promotions, reclaimed and the infrastructure of the Railway Department.
+
+They were given 72 hours of their discussion until the demands were reached.
+
+The Executive Union of the Failed Background Survey Union decided to commence a professional action from 4:30 pm today.
+
+◼️
+
+[Data](articles/98f2979b.json)
+
+[Extended Data](ext_articles/98f2979b.ext.json)
+
+---
 
 ### The Prime Minister's Diwali greeting news
 
@@ -2361,73 +2435,5 @@ In equities, Colombo’s All Share Price Index opened up 0.33 percent, or 42.62 
 [Data](articles/812d9da3.json)
 
 [Extended Data](ext_articles/812d9da3.ext.json)
-
----
-
-### Postal voting for 2024 General Election begins
-
-*2024-10-30 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103022/postal-voting-for-2024-general-election-begins) · `en`
-
-The postal voting for the upcoming General Election 2024 has commenced today (30).
-
-The Election Commission announced that postal voting will take place at all police stations, District Secretariats, Election Commission Offices, and the Offices of the IGP, today.
-
-Additionally, it is also allowed to cast postal votes at these offices on November 4.
-
-In addition, for the armed forces and other government institutions, postal voting will be available on November 1 and November 4, the Election Commission said.
-
-The postal voters who could not vote within these days will be allowed to vote at their respective District Secretariat where their workplace is located.
-
-The Commissioner General of Elections Saman Sri Rathnayake stated that official IDs are not permitted to be used for casting postal votes.
-
-...
-
-[Data](articles/ef1fbeb3.json)
-
-[Extended Data](ext_articles/ef1fbeb3.ext.json)
-
----
-
-### 6 foreigners suddenly arrested
-
-*2024-10-30 09:24:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-வெளிநாட்டவர்கள்-திடீர்-கைது/175-346301) · `ta`
-
-Foreigners arrested Seeduwa Amandoluwa visa violation Immigration Emigration Act ages 18 23 26 39 43
-
-🟩
-
-Six foreigners who were staying in the country without a visa have been arrested in the Seeduwa - Amandoluwa area.
-
-Police said the suspects were able to arrest the suspects during a raid based on information received that a group of foreigners were operating in violation of the Immigration and Emigration Act.
-
-The arrested persons were 18, 23, 26, 39 and 43 years old, police said.
-
-◼️
-
-[Data](articles/1bccf537.json)
-
-[Extended Data](ext_articles/1bccf537.ext.json)
-
----
-
-### Foreigners arrested
-
-*2024-10-30 09:24:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டவர்கள்-அறுவர்-கைது/175-346301) · `ta`
-
-Foreigners arrested in Seeduwa-Amandoluwa for violating immigration laws. Five individuals aged 18, 23, 26, 39, and 43 detained during police raid.
-
-🟩
-
-Foreigners who were staying in the country without a visa have been arrested in the Seeduwa - Amandoluwa area.
-
-Police said the suspects were able to arrest the suspects during a raid based on information received that a group of foreigners were operating in violation of the Immigration and Emigration Act.
-
-The arrested persons were 18, 23, 26, 39 and 43 years old, police said.
-
-◼️
-
-[Data](articles/2e54f59a.json)
-
-[Extended Data](ext_articles/2e54f59a.ext.json)
 
 ---

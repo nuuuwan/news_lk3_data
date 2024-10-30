@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 14:00:11**
+As of **2024-10-30 14:26:43**
 
 ## Newspaper Stats
 
-*Scraped **52,208** Articles*
+*Scraped **52,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,165 @@ islandlk | 3,106
 economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,854
-adaderanalk | 6,189
-tamilmirrorlk | 7,239
+adalk | 4,855
+adaderanalk | 6,190
+tamilmirrorlk | 7,242
 virakesarilk | 8,431
-adaderanasinhalalk | 9,084
+adaderanasinhalalk | 9,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,208 (100.0%) of 52,208 articles have been extended.
+52,214 (100.0%) of 52,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### ரஞ்சனுக்கு எதிரான மனு விசாரணையின்றி தள்ளுபடி
+
+*2024-10-30 14:10:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஞ்சனுக்கு-எதிரான-மனு-விசாரணையின்றி-தள்ளுபடி/175-346320) · `ta`
+
+2024 பொதுத் தேர்தலில் நடிகரும் அரசியல்வாதியுமான ரஞ்சன் ராமநாயக்க சமர்ப்பித்த தேர்தல் வேட்புமனுவை எதிர்த்து தாக்கல் செய்யப்பட்ட அடிப்படை உரிமைகள் (FR) மனுவை விசாரணையின்றி தள்ளுபடி செய்யுமாறு இலங்கை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+பிரதிவாதிகள் முன்வைத்த பூர்வாங்க ஆட்சேபனைகளை கருத்திற்கொண்ட பிரீத்தி பத்மன் சுரசேன, குமுதினி விக்கிரமசிங்க மற்றும் அச்சல வெங்கப்புலி ஆகிய மூவரடங்கிய உயர் நீதிமன்ற அமர்வு, மனுவை நிராகரித்து இன்று உத்தரவு பிறப்பித்தது.
+
+கம்பஹா மாவட்டத்தில் போட்டியிடும் சுயேட்சைக்குழு உறுப்பினர் ஒருவர் கடந்த வாரம் உயர் நீதிமன்றில் அடிப்படை உரிமைகள் மனுவைத் தாக்கல் செய்திருந்தார்.
+
+இதில் ஐக்கிய ஜனநாயக குரல் கட்சி சார்பில் கம்பஹா மாவட்டத்தில் போட்டியிடவுள்ள ரஞ்சன் ராமநாயக்கவின் வேட்புமனுவை நிராகரித்து உத்தரவிடுமாறு மனுதாரர் நீதிமன்றில் கோரியுள்ளார்.
+
+ரஞ்சன் ராமநாயக்கவுக்கு வாக்களிக்கவோ அல்லது பாராளுமன்றத்தில் அமர்வதற்கோ உரிமை இல்லை என்ற அடிப்படையில் தீர்ப்பளிக்குமாறு மனுதாரர் கோரியிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/118d2e18.json)
+
+---
+
+### The air fuel pipe exploded
+
+*2024-10-30 14:05:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-எரிபொருள்-குழாய்-வெடித்தது/175-346318) · `ta`
+
+Air fuel pipe explodes near Colombo port, causing oil leak affecting nearby homes and businesses. Senior official from Kolonnawa Oil Corporation reports incident occurred during maintenance work.
+
+🟩
+
+A senior official of the Nimawa Oil Corporation belonging to the Kolonnawa Oil Corporation said that the fuel leak has been reported in many areas surrounding the Kolonnawa Oil Corporation due to the explosion of fuel pipes used for airplanes.
+
+The official said the oil leak was due to the damage to the fuel pipe near the port of Colombo.
+
+The pipeline was damaged when the authorities arrived at around 9.30 am on Wednesday.
+
+It is said that 33,000 watts of high -power and several houses are located near the fuel pipe.
+
+◼️
+
+[Data](articles/ea7c50e4.json)
+
+[Extended Data](ext_articles/ea7c50e4.ext.json)
+
+---
+
+### “They throw mud on me within the party”
+
+*2024-10-30 14:02:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கட்சிக்குள்ளேயே-என்-மீது-சேற்றை-வாரி-வீசுகின்றனர்/150-346317) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Hirunika Premachandra accuses party members of mudslinging. She hopes leader Sajith Premadasa addresses issue.
+
+🟩
+
+United People's Power (SJB) Colombo District Candidate Hirunika Premachandra has said that some members of her own camp are causing problems.
+
+Mrs. Premachandra told the media that some of my own political camp, who recently joined our party, are causing problems and throwing mud at me.
+
+I hope that party leader Sajith Premadasa is aware of these people and that the party will be on the right path soon.
+
+◼️
+
+[Data](articles/c3b0e17f.json)
+
+[Extended Data](ext_articles/c3b0e17f.ext.json)
+
+---
+
+### Boyfriend arrested for hitting girlfriend's head
+
+*2024-10-30 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202730) · `si`
+
+Boyfriend arrested for assaulting girlfriend with black stone, killing 19-year-old man in Palagoda. Suspect from Payagala, investigation ongoing.
+
+🟩
+
+The boyfriend who was assaulted by her boyfriend with a black stone to the girlfriend's head and murdered a black boy was arrested today (30).
+
+The victim was a 19 year old resident of the Palagoda area in Palagoda.
+
+The suspects have revealed that the couple had been attacked by the girlfriend's head with a shower after a shower of the beach in Payagoda last night.
+
+Police have also found a small number of black stone, which is considered to be attacked in the scene.
+
+Investigations have revealed that these young couples have been constantly disputed due to this relationship for a long time.
+
+The suspect had been taken to a friend in 1990 and was taken to the Nagoda Survey in the 1990 and was taken to the Nagoda Survey Hospital in the 1990 and was killed this morning.
+
+Kalutara Division Criminal Laboratory Officers and Payagala Police are investigating the Criminal Division.
+
+...
+
+[Data](articles/838e0510.json)
+
+[Extended Data](ext_articles/838e0510.ext.json)
+
+---
+
+### Court orders to recall arrest warrant against Upul Tharanga
+
+*2024-10-30 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103036/court-orders-to-recall-arrest-warrant-against-upul-tharanga) · `en`
+
+The Court of Appeal today (30) ordered to recall the arrest warrant issued by the Matale High Court against the Chairman of the Selection Committee of Sri Lanka Cricket (SLC), former Sri Lankan cricketer Upul Tharanga over failure to appear before the court pertaining to a match-fixing case.
+
+The Court of Appeal had issued this order after considering an undertaking made by Upul Tharanga through his attorneys, stating that he would attend future hearings at the Matale High Court.
+
+The relevant order was issued when a petition submitted by Tharanga requesting to invalidate the arrest warrant issued by Matale High Court over his failure to appear before the court was taken up today.
+
+...
+
+[Data](articles/134dc460.json)
+
+[Extended Data](ext_articles/134dc460.ext.json)
+
+---
+
+### Sumathi Dharmawardena appointed head of the ICC Corruption Unit
+
+*2024-10-30 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202729) · `si`
+
+Sumathi Dharmawardena named ICC Corruption Unit head, replacing Sir Ronnie. Appointed from Nov 1. Additional Solicitor General of Sri Lanka's Attorney General's Department. Represented Sri Lanka in international sports agency talks.
+
+🟩
+
+He has appointed Sumathi Dharmawardena, an additional Solicitor General of the Attorney General's Department, as the head of the International Cricket Council.
+
+The International Cricket Council announced that the relevant appointment has been made to operate from November 1.
+
+He was appointed to the post by retirement from the post of Sir Ronngan, who was in the post for 14 years.
+
+President's Counsel, Mr. Dharmawardena, is represented as the Sri Lankan government of the Attorney General's Department, but also the Ministry of Sports.
+
+He has also represented the Sri Lankan government in discussions with the world's other sports agencies.
+
+◼️
+
+[Data](articles/8ccd94db.json)
+
+[Extended Data](ext_articles/8ccd94db.ext.json)
+
+---
 
 ### Sri Lankan appointed new Independent Chair of ICC Anti-Corruption Unit
 
@@ -287,6 +431,28 @@ The Elections Commission and its members, Ranjan Ramanayake and Ranjan Ramanayak
 [Data](articles/8c88b6b1.json)
 
 [Extended Data](ext_articles/8c88b6b1.ext.json)
+
+---
+
+### Jonstete is now the court's sentence
+
+*2024-10-30 12:09:53* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්ට-දැන්-අධිකරණය-දුන්න-තීන්දුව-මෙන්න/11-412757) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Jonstete becomes judge. Johnston Fernando, previously detained, freed on bail."
+
+🟩
+
+Johnston Fernando, who was remanded, has been released on bail.
+
+◼️
+
+[Data](articles/4bbd9f14.json)
+
+[Extended Data](ext_articles/4bbd9f14.ext.json)
 
 ---
 
@@ -2139,175 +2305,5 @@ The President highlighted the critical importance of digitizing Sri Lanka’s ec
 [Data](articles/0914d781.json)
 
 [Extended Data](ext_articles/0914d781.ext.json)
-
----
-
-### E-8 visa agreement is not legal - the Bureau of Foreign Service
-
-*2024-10-29 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202710) · `si`
-
-E-8 visa agreement illegal SLBFE Sri Lanka Bureau Foreign Employment South Korea workers restrictions
-
-🟩
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) is a covenant that former Minister is not legally signed by the E-8.
-
-Accordingly, the private agency in Sri Lanka has not been permitted to send workers to Korea under this visas under this visa system or add money.
-
-"Campaign has created a dialogue about the e-8 visa method. For example, this visa is only for a period of 5 months. Since this situation can cause a lot of problems, no government has agreed to. Similarly, no private agency in Sri Lanka has not been allowed to send or collect money under this visas under this visas. "
-
-"Former Minister in Sri Lanka is making a covenant with the Governor of the Governor (Wando). This was not approved by the Cabinet at the time, or any other approval. Without obligations, the Foreign Employment Bureau cannot take any responsibility after personal intervention. Really happened to a non-legit agreement. The South Korean government has warned us and discussed this method not to take workers. "
-
-...
-
-[Data](articles/71f42979.json)
-
-[Extended Data](ext_articles/71f42979.ext.json)
-
----
-
-### A 23 -year -old girl dies after being hit by train
-
-*2024-10-29 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/197459) · `ta`
-
-23-year-old girl killed by train in Sri Lanka. Victim was near railway station, reportedly on phone. Incident occurred on Tuesday during high-speed train journey from Aluthgama to Polgahawela.
-
-🟩
-
-A woman was killed when a high -speed train was traveling from Aluthgama to Polgahawela on Tuesday (29).
-
-The victim was a 23 -year -old girl in Kallanamulla, Biyagala.
-
-Police said that the girl has been killed in a train behind the Kalutara Velapura Vidyalaya.
-
-It was also revealed that he was calling on the phone while waiting near the railway station.
-
-◼️
-
-[Data](articles/c6ad0ab6.json)
-
-[Extended Data](ext_articles/c6ad0ab6.ext.json)
-
----
-
-### Electricity Board clarifies false accusations illegally allowing payments from the Electricity Board's Pension Fund
-
-*2024-10-29 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/197440) · `ta`
-
-Ceylon Electricity Board denies false claims about pension fund payments. Clarifies decision-making process and warns against misleading public statements.
-
-🟩
-
-The Ceylon Electricity Board (CEB) has said that the Ceylon Electricity Board (CEB) allegations that the Senior Audit Officer who has completed the service less than 20 years in the Ceylon Electricity Board has been completely false in the media that the decision of the Board of Directors has been approved by the Committee level.
-
-Such resolutions can be passed by groups representing officials and staff, but after the final approval is reviewed, the Board of Directors is made by the Board of Directors.
-
-We reiterate that the Ceylon Cold Board of the Ceylon Electricity Board (CEB) led by Dr. Tilak Siyambalapitiya has made any such decision and that public money will not be allowed to abuse.
-
-...
-
-[Data](articles/f3902210.json)
-
-[Extended Data](ext_articles/f3902210.ext.json)
-
----
-
-### Notice of Lanka T10
-
-*2024-10-29 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202709) · `si`
-
-Sri Lanka Cricket announces player selection for Lanka T10 Super League. Tournament runs Dec 12-22 with 6 teams. Player registration open since start date.
-
-🟩
-
-Sri Lanka Cricket (SLC) has announced that the selection of players to draft athletes at Lanka T10 Super League.
-
-The tournament will be held from December 12 to 22 with the participation of six teams from December 12.
-
-The players have been able to sign up from the first day of the tournament.
-
-◼️
-
-[Data](articles/540d8bc9.json)
-
-[Extended Data](ext_articles/540d8bc9.ext.json)
-
----
-
-### ඉමාම් වාර්තාවේ කරුණු පිළිගන්නේ නෑ
-
-*2024-10-29 21:52:08* · [`adalk`](https://www.ada.lk/breaking_news/ඉමාම්-වාර්තාවේ-කරුණු-පිළිගන්නේ-නෑ/11-412750) · `si`
-
-Sri Lanka Cabinet Minister denies accepting details from Imama Report about Easter Sunday attacks. Claims government investigation unfair. Criticizes former Defense Secretary for false claims about Channel 4 report.
-
-🟩
-
-පාස්කු ඉරුදින ප්‍රහාරය පිළිබඳව ඉමාම් වාර්තාවේ අඩංගු කරුණු පිළිනොගන්නා බව කැබිනට් ප්‍රකාශක අමාත්‍ය විජිත හේරත් මහතා පැවසුවේය.
-
-Minister Vijitha Herath is also revealed that he is not responsible for the achievement of a video of Channel 4 channel.Said.
-
-චැනල් 4 නාලිකාවේ සිදුවීම සම්බන්ධයෙන් වූ වාර්තාව වැරදි බවට හිටපු ආරක්ෂක ලේකම්වරයා විසින් නිවේදනයක් නිකුත් කරමින් පැවසීම පවා දේශපාලනික කාරණයක් බව ද අමාත්‍යවරයා සඳහන් කළේය.
-
-He said that the current government has not conducted a fair investigation into the event of a fair investigation and that the present government has conducted a fair investigation into the attack on the Passover attack.
-
-The Minister was responding to a query referred to as a journalist who was a government's position on the first report by Mr. Gammanpila.
-
-...
-
-[Data](articles/f821a449.json)
-
-[Extended Data](ext_articles/f821a449.ext.json)
-
----
-
-### President's hint of electricity charges
-
-*2024-10-29 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202708) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake hints at reducing electricity charges. He met with Sri Lanka Chamber of Commerce, discussing digitizing the country within three years and gaining support for salary allowances.
-
-🟩
-
-President Anura Kumara Dissanayake says that the government is expected to reduce electricity tariffs in a considerable amount of electricity tariffs.
-
-The President made these comments at a meeting with a group of Sri Lanka Chamber of Commerce.
-
-A discussion was held at the Presidential Secretariat today (29) a discussion between President Anura Kumara Dissanayake and the Sri Lanka Chamber of Commerce.
-
-The President has shown that the entire country will be digitized within the next three years under the present administration.
-
-The members of the Chamber of Commerce have agreed to support the building of the building of any allowance or salary.
-
-◼️
-
-[Data](articles/55c3d4ee.json)
-
-[Extended Data](ext_articles/55c3d4ee.ext.json)
-
----
-
-### Bore. Increase in incidents of cows stolen in Wellaveli
-
-*2024-10-29 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197458) · `ta`
-
-Cows theft surge in Wellaveli, Batticaloa. Local resident's livestock butchered. Community demands police action against thieves.
-
-🟩
-
-Increasing incidents of cows being stolen in the Wellaveli police division in the Batticaloa district.
-
-The cow and a calf cub, which was maintained by Krishnapillai - Sukumaran in the Wellaveli, Tumbangani area, was cut for meat on Monday night (28).
-
-The stolen people have been cut into the barbed wire area and have been thrown into the area.
-
-The people of the area said that the police should take action against those who are involved in such anti -social activities.
-
-It has been demanded that the cows are being stolen in the Boradivuppattu area and the police should take action.
-
-◼️
-
-[Data](articles/7de5f892.json)
-
-[Extended Data](ext_articles/7de5f892.ext.json)
 
 ---

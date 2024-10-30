@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 10:39:52**
+As of **2024-10-30 10:58:43**
 
 ## Newspaper Stats
 
-*Scraped **52,167** Articles*
+*Scraped **52,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,170
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,851
-adaderanalk | 6,179
-tamilmirrorlk | 7,229
+adaderanalk | 6,180
+tamilmirrorlk | 7,230
 virakesarilk | 8,424
 adaderanasinhalalk | 9,076
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,167 (100.0%) of 52,167 articles have been extended.
+52,169 (100.0%) of 52,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### 86 train derailments so far this year
+
+*2024-10-30 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103025/86-train-derailments-so-far-this-year) · `en`
+
+There have been 86 train derailments during the time elapsed so far this year (2024).
+
+According to sources within the Department of Railways, 139 derailments have occurred in 2023 and the number of train derailments recorded in 2022 is 132.
+
+The numbers from previous years include 115 derailments in 2021 and 98 in 2020, said the sources.
+
+Meanwhile, the Railway Station Masters’ Association has warned of a potential strike if management continues to neglect to provide proper solutions regarding the ongoing train delays and train cancellations.
+
+President of the association Sumedha Somaratne said that stated that a discussion on these concerns is scheduled to be held today (30) with the Minister.
+
+◼️
+
+[Data](articles/9fa36968.json)
+
+[Extended Data](ext_articles/9fa36968.ext.json)
+
+---
 
 ### November 1st holiday for Tamil schools in Central Province
 
@@ -271,6 +293,28 @@ The arrested persons were 18, 23, 26, 39 and 43 years old, police said.
 [Data](articles/1bccf537.json)
 
 [Extended Data](ext_articles/1bccf537.ext.json)
+
+---
+
+### Foreigners arrested
+
+*2024-10-30 09:24:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டவர்கள்-அறுவர்-கைது/175-346301) · `ta`
+
+Foreigners arrested in Seeduwa-Amandoluwa for violating immigration laws. Five individuals aged 18, 23, 26, 39, and 43 detained during police raid.
+
+🟩
+
+Foreigners who were staying in the country without a visa have been arrested in the Seeduwa - Amandoluwa area.
+
+Police said the suspects were able to arrest the suspects during a raid based on information received that a group of foreigners were operating in violation of the Immigration and Emigration Act.
+
+The arrested persons were 18, 23, 26, 39 and 43 years old, police said.
+
+◼️
+
+[Data](articles/2e54f59a.json)
+
+[Extended Data](ext_articles/2e54f59a.ext.json)
 
 ---
 
@@ -2289,61 +2333,5 @@ Additionally, the statement highlighted that the said reports have been publishe
 [Data](articles/6a065360.json)
 
 [Extended Data](ext_articles/6a065360.ext.json)
-
----
-
-### Why the National Social Security Policy should be implemented by the opportunity to re -design social security for the new president
-
-*2024-10-29 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197435) · `ta`
-
-Here's a 200-character summary:
-
-
-
-National Social Security Policy crucial post-election. New leadership must prioritize economic recovery, implement policy to reduce poverty and protect vulnerable groups.
-
-🟩
-
-Following the recent presidential election, the national social security policy has created a greater question than usual.
-
-The Sri Lankan government introduced the National Social Security Policy (NSPP) on August 16, 2024. This is the first time that has introduced such a policy in a country where free global health, free education, free education, Samurdhi and recently relying on various programs.
-
-The National Social Security Policy describes its basic principle, purpose and principles, but no explanation of how the policy will be implemented there - although this document refers to the National Social Security Strategy (NSPS), this strategy is not in public.
-
-With political leadership change since the recent election, the future of this policy has created uncertainty than ever.
-
-Do new leaders give priority to the needs of the people who are facing challenges in the country?In the coming weeks, the indicator of their priority will be how the new leadership will answer this question.
-
-...
-
-[Data](articles/41ca025b.json)
-
-[Extended Data](ext_articles/41ca025b.ext.json)
-
----
-
-### Did you pride money?Explanation from the Central Bank
-
-*2024-10-29 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202699) · `si`
-
-Central Bank of Sri Lanka denies printing money for government budget. Explains open market operations for price stability, not for funding. Clarifies reports about 100 billion rupees were about providing liquidity, not creating currency.
-
-🟩
-
-The Central Bank of Sri Lanka has issued a statement explaining the reports that have been published.
-
-It states that the reports that the Central Bank of Sri Lanka has been molded for 100 billion rupees.
-
-The General Bank is a general central banking service to provide liquidity through open market operations. Open market is done to maintain the price stability through managing interest rates, and it cannot be used as a mechanket.
-
-This has not had a money printed or misleading money for government budget, but there is only a general process that is carried out to achieve the objectives of the Central Bank's price stability.
-
-The following report is published in auction and financial operations implemented in the General Opening Operations carried out by the Central Bank of Sri Lanka.
-
-◼️
-
-[Data](articles/bea6059a.json)
-
-[Extended Data](ext_articles/bea6059a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 04:58:53**
+As of **2024-10-31 05:09:58**
 
 ## Newspaper Stats
 
-*Scraped **52,291** Articles*
+*Scraped **52,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 531
 bbccomsinhala | 534
 islandlk | 3,106
 economynextcom | 3,180
-dailyftlk | 3,573
+dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,202
@@ -26,11 +26,127 @@ adaderanasinhalalk | 9,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,291 (100.0%) of 52,291 articles have been extended.
+52,297 (100.0%) of 52,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Gammanpila to launch campaign to collect signatures for public petition against misuse of law
+
+*2024-10-31 04:47:29* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-to-launch-campaign-to-collect-signatures-for-public-petition-against-misuse-of-law/56-768651) · `en`
+
+Sarvajana Balaya Colombo district candidate and former MP Udaya Gammanpila yesterday announced his plans to launch a campaign to collect signatures for a public petition, to inform the President of the people’s displeasure over the misuse of the law.
+
+Addressing the media, he criticised the Government for retaining Public Security Ministry Secretary former Senior DIG Ravi Seneviratne and Criminal Intelligence Analysis and Prevention Division in the Sri Lanka Police Director Shani Abeysekara.
+
+Gammanpila claims the two officers were named as main accused in an investigative committee report on the Easter Sunday attacks.
+
+“Since the removal will not be done, we are hoping to sign a public petition to inform the President Anura Kumara Dissanayake about people’s displeasure related to the misuse of the law by this Government; during their first month in office,” he said, noting that this is the same politician (President) who earlier criticised former Presidents for misusing the law.
+
+...
+
+[Data](articles/0a336b5d.json)
+
+[Extended Data](ext_articles/0a336b5d.ext.json)
+
+---
+
+### Johnston released on bail
+
+*2024-10-31 04:44:53* · [`dailyftlk`](https://www.ft.lk/news/Johnston-released-on-bail/56-768650) · `en`
+
+The Colombo Fort Magistrate Court yesterday granted bail to former Minister Johnston Fernando, who was arrested and remanded over the unregistered luxury vehicle allegedly belonging to him found parked in a star-class hotel premises.
+
+He was ordered to be released on five surety bails of Rs. 5 million each by the Colombo Fort Magistrate’s Court.
+
+Fernando was arrested by the CID on 23 October over an incident of an unregistered luxury vehicle (BMW car) allegedly belonging to him found suspiciously parked at a star-class hotel premises, and he was remanded till 30 October by Colombo Fort Magistrate.
+
+The Former MP was arrested after he had arrived at the CID to provide a statement regarding the unregistered BMW car, allegedly belonging to him.
+
+Meanwhile, two suspects had surrendered to the CID in connection with the incident on Tuesday (29), where they were subsequently arrested and produced before the Court.
+
+...
+
+[Data](articles/05c3252c.json)
+
+[Extended Data](ext_articles/05c3252c.ext.json)
+
+---
+
+### SC dismisses petition challenging Ranjan Ramanayake’s candidacy
+
+*2024-10-31 04:42:08* · [`dailyftlk`](https://www.ft.lk/news/SC-dismisses-petition-challenging-Ranjan-Ramanayake-s-candidacy/56-768649) · `en`
+
+The Supreme Court yesterday dismissed a petition filed seeking an order to reject the nomination of former Member of Parliament Ranjan Ramanayake, who is contesting in the upcoming General Election under the United Democratic Voice party from the Gampaha District.
+
+This order was issued by the three-member Supreme Court judge bench comprising Justices Preethi Padman Surasena, Kumuduni Wickremesinghe and Achala Vengappuli after considering the preliminary objections raised by the Attorneys of the defendant party.
+
+The petition, submitted by Gampaha District independent candidate K.M. Mahinda Senanayake, had also sought a ruling declaring that Ramanayake does not have the right to obtain a Parliamentary seat or vote.
+
+The Election Commission and its members, Ranjan Ramanayake, the Gampaha District Returning Officer, and several others were named as respondents in the case.
+
+◼️
+
+[Data](articles/438d95c3.json)
+
+[Extended Data](ext_articles/438d95c3.ext.json)
+
+---
+
+### Police arrest six Bangladeshi nationals for violating visa conditions
+
+*2024-10-31 04:40:12* · [`dailyftlk`](https://www.ft.lk/news/Police-arrest-six-Bangladeshi-nationals-for-violating-visa-conditions/56-768648) · `en`
+
+Sri Lanka Police yesterday announced the arrest of a group of Bangladeshi nationals from a house in Seeduwa for violating visa conditions.
+
+The group was arrested during a raid conducted on Tuesday night by the Seeduwa Police based on a tip-off.
+
+The Bangladeshis aged 18, 23, 26, 39, and 43 years were found to have been illegally staying in Sri Lanka with expired visas. The Seeduwa Police is conducting investigations.
+
+◼️
+
+[Data](articles/f8166b0f.json)
+
+[Extended Data](ext_articles/f8166b0f.ext.json)
+
+---
+
+### SL, Maldives renew commitment to boost ties
+
+*2024-10-31 04:39:32* · [`dailyftlk`](https://www.ft.lk/news/SL-Maldives-renew-commitment-to-boost-ties/56-768647) · `en`
+
+A meeting between President’s Secretary Dr. Nandika Sanath Kumanayake and Maldives High Commissioner of Sri Lanka Masood Imad was held yesterday in Colombo.
+
+During their discussion, the High Commissioner conveyed the Maldivian President’s intention to visit Sri Lanka soon. They also explored ways to further enhance the long-standing friendship between the two nations.
+
+The conversation touched on various areas of mutual interest, including the development of tourism, health, and education in both Maldives and Sri Lanka.
+
+Maldives Deputy High Commissioner to Sri Lanka Fathimath Ghina  was also present at the meeting.
+
+◼️
+
+[Data](articles/ed0d5998.json)
+
+[Extended Data](ext_articles/ed0d5998.ext.json)
+
+---
+
+### Sri Lankan Embassy in Thailand hosts delegation from The Ceylon Chamber of Commerce
+
+*2024-10-31 04:37:16* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-Embassy-in-Thailand-hosts-delegation-from-The-Ceylon-Chamber-of-Commerce/34-768646) · `en`
+
+The Embassy and Permanent Mission of Sri Lanka in Thailand, in collaboration with The Ceylon Chamber of Commerce, Thai-Sri Lanka Chamber of Commerce, Thai Chamber of Commerce, and Board of Trade of Thailand hosted a three-day business visit for a 12 member delegation from The Ceylon Chamber of Commerce and the Sri Lanka-Greater Mekong Business Council, from 16 to 18 October.
+
+The visit featured the Sri Lanka-Thailand Business Forum, jointly organised by the Thai Chamber of Commerce and Board of Trade of Thailand with the support of the Embassy. Over 30 members of the Thai business community, led by the Adviser of the Board of Trade of Thailand and Chairwoman of the Joint Foreign Chambers of Commerce of Thailand Vibeke Lyssand Leirvag, attended the forum. The event underscored the longstanding trade and investment ties between Sri Lanka and Thailand.
+
+...
+
+[Data](articles/e0e40cac.json)
+
+[Extended Data](ext_articles/e0e40cac.ext.json)
+
+---
 
 ### ACL Cables champions new fire-retardant cable standard SLS 733 for home safety
 
@@ -2179,157 +2295,5 @@ So, please note only the official announcements and circular issued on the Exami
 [Data](articles/905ef3fe.json)
 
 [Extended Data](ext_articles/905ef3fe.ext.json)
-
----
-
-### Johnston released on bail
-
-*2024-10-30 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202726) · `si`
-
-Former Minister Johnston Fernando released on bail after remand.
-
-🟩
-
-Former Minister Johnston Fernando has been released on bail after being remanded.
-
-◼️
-
-[Data](articles/2d07e778.json)
-
-[Extended Data](ext_articles/2d07e778.ext.json)
-
----
-
-### Court of Appeal ordered the warrant against Upul Tharanga
-
-*2024-10-30 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202725) · `si`
-
-Court of Appeal orders warrant against Upul Tharanga, citing Matale High Court case. Decision made by judges Mohammed Lafar Thahaire and Kumaran Ratnam.
-
-🟩
-
-The Court of Appeal today (30) the Court of Appeal today (30) ordered the warrant issued by the Matale High Court.
-
-The Court of Appeal had issued the court after considering the case by the court when the case was taken up before the Trincomalee High Court.
-
-The orders have been issued when the waves were called for an order to provide an order to be appointed as the Matale High Court.
-
-Mohammed Lafar Thahaire and P. The Court of Appeal was issued by the Court of Appeal comprising Kumaran Ratnam.
-
-◼️
-
-[Data](articles/6a0f6db4.json)
-
-[Extended Data](ext_articles/6a0f6db4.ext.json)
-
----
-
-### What happened to Ashen?
-
-*2024-10-30 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202724) · `si`
-
-Ashen Senaratne, social media activist, aims to enter Parliament in the next general election. He participated in the 15th Independent Group from Colombo district. The Supreme Court rejected a petition challenging the District Returning Officer's decision. Ashen expressed hopes of entering through the National List if the independent group gains significant support in Colombo. He criticized established politicians, emphasizing hard work and integrity over connections and corruption.
-
-🟩
-
-Social media activist Ashen Senaratne says he expects to go to Parliament in the next general election.
-
-He said he had already participating with the 15 Independent Group No. 15 from the Colombo district.
-
-What happened?Speaking at a special program, he said that it was their final expectation to be the president of the country ever.
-
-In the 2124 general election, the district's selection officer was a great controversial character in Social Media with the decision of the Colombo district.
-
-The Supreme Court also rejected the petition to issue a potential order to issue a powers to the District Returning Officer.
-
-After considering the petition concerned, the relevant order was issued by a three-member Supreme Court Baduka and Priyantha Fernando.
-
-However, Ashen Senaratne said this.
-
-...
-
-[Data](articles/aeeba368.json)
-
-[Extended Data](ext_articles/aeeba368.ext.json)
-
----
-
-### Lorry accident;Magic
-
-*2024-10-30 11:41:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறி-விபத்து-இறால்-தொகை-மாயம்/175-346310) · `ta`
-
-Lorry accident: Fish transport damaged, driver hurt. Missing cargo: 2kg prawns, 2000₹ cash. Estimated loss: 700,000₹. Driver suspects highway workers involved.
-
-🟩
-
-A lorry carrying a fish on the southern highway has been lodged at the Kahaduduwa Police Station by the driver of the lorry that the shrimp of a fish lorry has been missing.
-
-Gay, a fish dealer who lives in Tangalle Kudavella area. H. H.. Kumar was traveling from Negombo to Tangalle when a lorry collided with a cement -carrying lorry.
-
-The fish lorry was damaged and the driver of the fish lorry was injured and taken to the hospital.
-
-When the owner of the driver's brother lorry arrived at the scene of the accident, it was reported that only two kilograms of prawns were in the lorry and the two thousand rupees of money inside the lorry's cabin disappeared.
-
-During the accident, the lorry contained 20 compartments of six hundred and ninety -three hundred rupees in the lorry, and the price of its sales is estimated at seven lakhs of ten thousand rupees.
-
-The driver of the lorry said the southern highway employees were suspected of carrying it because other vehicles could not park on the highway.
-
-◼️
-
-[Data](articles/6fe5cca5.json)
-
-[Extended Data](ext_articles/6fe5cca5.ext.json)
-
----
-
-### Where did you learn the Constitution?
-
-*2024-10-30 11:38:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலமைப்பை-எங்கிருந்து-கற்றுக்கொண்டீர்கள்/175-346309) · `ta`
-
-Former President Ranil Wickremesinghe questions PM Harini Amarasuriya's Cabinet decisions, citing lack of constitutional authority. He suggests experienced politicians are crucial for effective governance.
-
-🟩
-
-Former President Ranil Wickremesinghe, who questioned Prime Minister Harini Amarasuriya, did not know the constitution of Sri Lanka, pointed out that the approval of the Cabinet does not require the approval of the Cabinet.
-
-Speaking at an event, the former president questioned the recent statement issued by Prime Minister Amarasuriya on the Cabinet's decision to increase the salaries of civil servants.
-
-Prime Minister Harini Amarasuriya has said that the permission of officials of the Treasury and Finance Ministry has not been obtained to increase the salary of public servants.. Says the approval of the authorities to operate the cabinet. Where did you learn the Constitution?Ranil questioned that.
-
-The former president pointed out that the Cabinet manages the nation and does not refer to the authorities anywhere in the Constitution.
-
-"If you want to know about the Constitution, let me know, I will help you, otherwise I will tell our ex -prime minister," he added.
-
-...
-
-[Data](articles/ecd5a793.json)
-
-[Extended Data](ext_articles/ecd5a793.ext.json)
-
----
-
-### Diwali Handicraft in Hatton: 4 women arrested
-
-*2024-10-30 11:38:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-தீபாவளி-கைவரிசை-4-யுவதிகள்-கைது/76-346308) · `ta`
-
-Arrests made during Diwali celebrations in Hatton. Four women accused of theft caught with stolen valuables. Police investigation ongoing.
-
-🟩
-
-Customers from many parts of the country have been arrested for stealing wallets and gold jewelery from consumers to celebrate the Diwali festival tomorrow (31).
-
-Four girls of an organized group of customers who are coming to Hatton on the occasion of Diwali were arrested by the Hatton Police Criminal Investigation Division on Tuesday afternoon.
-
-Hatton police have received several complaints that some customers' wallets and gold jewelery disappeared, with a large number of customers visiting Hatton on the occasion of Diwali.
-
-Hatton police officers who have been observed in this regard have launched a special security program to strengthen the safety of customers coming to Hatton and arrested a woman who was on duty at a suspicion while on duty to break the customer's neck on suspicion.
-
-When the four girls were arrested and investigated, two hundred and fifty thousand rupees and some gold jewelery were found in the possession.
-
-...
-
-[Data](articles/b04f8be2.json)
-
-[Extended Data](ext_articles/b04f8be2.ext.json)
 
 ---

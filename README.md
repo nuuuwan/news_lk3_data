@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 04:39:41**
+As of **2024-10-31 04:58:53**
 
 ## Newspaper Stats
 
-*Scraped **52,287** Articles*
+*Scraped **52,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 531
 bbccomsinhala | 534
 islandlk | 3,106
 economynextcom | 3,180
-dailyftlk | 3,569
+dailyftlk | 3,573
 dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,202
@@ -26,11 +26,87 @@ adaderanasinhalalk | 9,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,287 (100.0%) of 52,287 articles have been extended.
+52,291 (100.0%) of 52,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### ACL Cables champions new fire-retardant cable standard SLS 733 for home safety
+
+*2024-10-31 04:26:55* · [`dailyftlk`](https://www.ft.lk/business/ACL-Cables-champions-new-fire-retardant-cable-standard-SLS-733-for-home-safety/34-768645) · `en`
+
+Sri Lanka Standards Institution invites public comments on ‘SLS 733 Part Two’
+
+ACL Cables PLC, the pioneer in fire-retardant PVC cable technology in Sri Lanka, has announced its association with the ‘new fire-retardant cable standard SLS 733’ initiative as the promoter which has vigorously and unceasingly campaigned for the formulation of higher standards for home safety.
+
+The Sri Lanka Standards Institution (SLS) has invited public comments for its recent fire safety standards for electrical cables. The ‘SLS 733 Part Two’ primarily focuses on establishing strict criteria for flame-retardant PVC cables, a standard that could set a benchmark for cable safety in Sri Lanka. The new standard will help consumers identify genuine flame-retardant cables that meet essential safety benchmarks.
+
+...
+
+[Data](articles/da6e39cc.json)
+
+[Extended Data](ext_articles/da6e39cc.ext.json)
+
+---
+
+### SLT-Mobitel empowers EDEX Mid-Year Expo 2024 as official ICT solutions partner
+
+*2024-10-31 04:25:38* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-empowers-EDEX-Mid-Year-Expo-2024-as-official-ICT-solutions-partner/34-768644) · `en`
+
+SLT-Mobitel, demonstrating a strong commitment to nurturing education and career development in Sri Lanka, partnered with the EDEX Mid-Year Expo 2024 as its official ICT solutions partner.
+
+A landmark event in Sri Lanka’s educational calendar, SLT-Mobitel provided robust Wi-Fi connectivity throughout the exhibition, ensuring seamless digital experiences for exhibitors and attendees.
+
+The event reaffirms SLT-Mobitel’s reputation as a key player in the ICT industry, with an emphasis on its support of education and professional development. The exhibition also highlights SLT-Mobitel’s commitment to endorsing students, educators, and institutions as they explore global educational opportunities in real time. An effort that further invests in the future of Sri Lanka’s workforce and youth.
+
+...
+
+[Data](articles/ad6a3011.json)
+
+[Extended Data](ext_articles/ad6a3011.ext.json)
+
+---
+
+### Strengthening trilateral ties: Milinda Moragoda praises Ambassador  Mizukoshi’s legacy at Sri Lanka-Japan-India investment promotion event
+
+*2024-10-31 04:21:26* · [`dailyftlk`](https://www.ft.lk/news/Strengthening-trilateral-ties-Milinda-Moragoda-praises-Ambassador-Mizukoshi-s-legacy-at-Sri-Lanka-Japan-India-investment-promotion-event/56-768643) · `en`
+
+Japanese Ambassador to Sri Lanka Mizukoshi Hideaki, Pathfinder Foundation Founder Milinda Moragoda, Chairman Bernard Goonetilleke, Director Dr. Dayaratna Silva , Director Ahmad A. Jawad, BOI DG Renuka M. Weerakone, and Damro Group MD Lahiru Ramanayake and team
+
+Pathfinder Foundation Founder Milinda Moragoda (right) presents a token of appreciation to Japanese Ambassador to Sri Lanka Mizukoshi Hideaki, honouring his successful tenure in Sri Lanka
+
+Pathfinder Foundation Founder Milinda Moragoda delivers a keynote address at the event
+
+Japanese Ambassador to Sri Lanka Mizukoshi Hideaki addresses the event
+
+At a Sri Lanka-Japan-India investment promotion event, Pathfinder Foundation Founder Milinda Moragoda, delivered a keynote address highlighting the importance of trilateral cooperation between Japan, Sri Lanka, and India.
+
+...
+
+[Data](articles/f103ac3c.json)
+
+[Extended Data](ext_articles/f103ac3c.ext.json)
+
+---
+
+### India hands over solar rooftop systems at religious sites
+
+*2024-10-31 04:15:36* · [`dailyftlk`](https://www.ft.lk/news/India-hands-over-solar-rooftop-systems-at-religious-sites/56-768642) · `en`
+
+The handing over of solar rooftop systems took place on 25 October at four religious locations: Hokandara Temple, Sri Anjaneyar Temple, St. Anthony’s Church, and Mutwal Jumma Mosque in the Western Province.
+
+The event was attended by officials from the Indian High Commission in Sri Lanka, the Ceylon Electricity Board (CEB), and the Sri Lanka Sustainable Energy Authority (SLSEA).
+
+This event was a part of India’s assistance of $ 17 million aimed at installing solar PV rooftop systems in 5,000 religious sites across Sri Lanka. The project is designed to reduce energy costs for these institutions while bolstering Sri Lanka’s transition to clean energy.
+
+...
+
+[Data](articles/b826f20a.json)
+
+[Extended Data](ext_articles/b826f20a.ext.json)
+
+---
 
 ### Commonwealth Union advocates for Appé Lanka’s grassroots efforts in Sri Lanka
 
@@ -2255,83 +2331,5 @@ When the four girls were arrested and investigated, two hundred and fifty thousa
 [Data](articles/b04f8be2.json)
 
 [Extended Data](ext_articles/b04f8be2.ext.json)
-
----
-
-### Johnston is taken to court
-
-*2024-10-30 11:33:46* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්-අධිකරණයට-රැගෙන-එයි/11-412756) · `si`
-
-Former MP Johnston Fernando arrested on 23rd, remanded till 30th.
-
-🟩
-
-Former Parliamentarian Johnston Fernando has been taken to court.
-
-The motor event was arrested on the 23 th on the 23rd and remanded until the 30th today.
-
-◼️
-
-[Data](articles/06f9bb5d.json)
-
-[Extended Data](ext_articles/06f9bb5d.ext.json)
-
----
-
-### E-8 visa agreement unlawfully signed by former minister - SLBFE
-
-*2024-10-30 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103029/e-8-visa-agreement-unlawfully-signed-by-former-minister-slbfe) · `en`
-
-The Chairman of the Sri Lanka Bureau of Foreign Employment (SLBFE) Kosala Wickramasinghe disclosed that the E-8 visa agreement with South Korea was signed unlawfully by the former minister, without obtaining Cabinet approval or proper government authorization.
-
-In a recent statement, Wickramasinghe emphasized that no private employment agencies in Sri Lanka are permitted to send workers to South Korea under the E-8 visa system, nor to collect any fees associated with it. He highlighted significant public misconceptions surrounding the E-8 visa, noting that it is a short-term visa limited to five months, which poses potential risks and lacks sufficient government oversight.
-
-...
-
-[Data](articles/51ede9b9.json)
-
-[Extended Data](ext_articles/51ede9b9.ext.json)
-
----
-
-### Gammanpila decorates a public petition against the government
-
-*2024-10-30 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202723) · `si`
-
-Udaya Gammanpila calls for public petition against government over alleged law abuse. He criticizes Ravi Seneviratne and Shani Abeysekara's retention despite Passover attack accusations. Gammanpila urges citizens to sign the petition to express discontent and demand justice.
-
-🟩
-
-Former Parliamentarian Udaya Gammanpila says that a public petition is expected to sign a petition to the President of the people regarding the abuse of the law.
-
-He said that Ravi Seneviratne and Shani Abeysekara, who was named as the accused of the Passover attack, was not removed from their posts.
-
-"Ravi Seneviratne and Shani Abeysekara do not remove us because the heartbeal of the people ... We are expecting to sign a public petition to inform the President of the people to misuse the law in his month, to demonstrate the law of law, that the rule of the law is being used as authority.. Gone everywhere. We hope to file the conscience of the people and the people of the people everywhere in the area, workplace, and farm. "
-
-◼️
-
-[Data](articles/1ca670d2.json)
-
-[Extended Data](ext_articles/1ca670d2.ext.json)
-
----
-
-### Debate erupts in Sri Lanka over open market vs primary market purchases
-
-*2024-10-30 11:30:00* · [`economynextcom`](https://economynext.com/debate-erupts-in-sri-lanka-over-open-market-vs-primary-market-purchases-185676/) · `en`
-
-ECONOMYNEXT – A debate is raging in Sri Lanka over open market operations of the central bank, several years after wide acceptance was gained among the public and policy makers that primary market purchases led to monetary instability.
-
-The debate in part appears to have been sparked by a column in EconomyNext which warned against the dangers of open market injections of money by the central bank as private credit starts to recover.
-
-After several years of debate which started about almost two decades ago, there is general acceptance in Sri Lanka now that outright purchases of Treasury securities primary market (auctions) are bad and also that so-called ‘provisional advances’ by the central bank is bad.
-
-In an outright purchase by the central bank of a new issue of Treasury bills, the money goes into the DST accounts of a state bank, which will be spent and end up in a private or state bank account customer, boosting rupee reserves of the bank, explains EN’s economic columnist Bellwether.
-
-...
-
-[Data](articles/f21eb5ac.json)
-
-[Extended Data](ext_articles/f21eb5ac.ext.json)
 
 ---

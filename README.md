@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 19:24:12**
+As of **2024-10-30 19:58:45**
 
 ## Newspaper Stats
 
-*Scraped **52,246** Articles*
+*Scraped **52,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,121 @@ islandlk | 3,106
 economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,859
+adalk | 4,860
 adaderanalk | 6,199
 tamilmirrorlk | 7,245
-virakesarilk | 8,433
-adaderanasinhalalk | 9,097
+virakesarilk | 8,439
+adaderanasinhalalk | 9,098
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,245 (100.0%) of 52,246 articles have been extended.
+52,248 (100.0%) of 52,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### 12 of the books of the Department of Motor Traffic
+
+*2024-10-30 19:31:30* · [`adalk`](https://www.ada.lk/breaking_news/මෝටර්-රථ-ප්‍රවාහන-දෙපාර්තමේන්තුවේ-පොත්-12ක්-අතුරුදන්/11-412764) · `si`
+
+Magistrate orders investigation into missing motor traffic registration books. Borella police to submit reports. Clergy complaint leads to inquiry. Police officers summoned for questioning. Commissioner's office notes investigated. Telephone managers ordered to provide phone details. Four arrested and produced in court.
+
+🟩
+
+Colombo Additional Magistrate Harrasana Kekunawela ordered the Borella Police (30) reports to the Borella Police (30).
+
+After considering the transfer of 12 non-completed books in the Trade Registration Division in the Commissioner of Motor Traffic, the Magistrate was sentenced to the investigation.
+
+Borella Police Officers who submitted a report indicated on a complaint made by a clergy of the commercial vehicle registration section of the Commissioner of the Commissioner's Office..V. Since the camera is installed, the office notes are being investigated by the fingerprints of the office.
+
+Borella Police Officers who have been asked to call for their eight-day calls for the investigations from September 25 to date from September 25.?Or he will investigate the identity of these books in awareness of a part of a party.
+
+...
+
+[Data](articles/cfc2d501.json)
+
+[Extended Data](ext_articles/cfc2d501.ext.json)
+
+---
+
+### வைத்தியர் இராமநாதன் அர்ச்சுனாவை கைது செய்து மன்னார் நீதிமன்றத்தில் முற்படுத்த நீதவான் உத்தரவு
+
+*2024-10-30 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197546) · `ta`
+
+மன்னார் நீதிமன்றத்தில் நடைபெற்ற வழக்கு விசாரணையின் போது புதன்கிழமை (30) மன்னார் நீதிமன்றத்தில் முன்னிலையாகாத  சாவகச்சேரி வைத்தியசாலையின் முன்னாள் வைத்திய அத்தியட்சகர் இராமநாதன் அர்ச்சுனாவை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்த நீதவான் பொலிஸாருக்கு உத்தரவிட்டார்.
+
+மன்னார் மாவட்ட பொது வைத்தியசாலையினுல் அத்துமீறி நுழைந்தமை மற்றும் நிர்வாக செயல்பாடுகளுக்கு தடை ஏற்படுத்தியமை தொடர்பாக வைத்தியர் அர்ச்சுனாவிற்கு எதிராக மன்னார் நீதிமன்றத்தில் முறைப்பாடு செய்யப்பட்ட குறித்த வைத்தியர் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டார்.
+
+இந்நிலையில் வைத்தியர் அர்ச்சுனாவின்  வழக்கு விசாரணைகள் புதன்கிழமை (30) மன்னார் நீதிமன்றத்தில் இடம்பெற்ற நிலையில் அவர் மன்றில் முன்னிலையாக வில்லை. மேலும் இரண்டு பிணைதாரர் களில் ஒருவர் மாத்திரமே மன்றில் முன்னிலையாகி இருந்தார்.
+
+இதன்போது விசாரணைகளை மேற்கொண்ட மன்னார் நீதவான் வைத்தியர் அர்ச்சுனா மற்றும் பினையாளி ஆகிய இருவரையும் கைது செய்து மன்றில் முன்னிலை யாக்குமாறு பொலிஸாருக்கு உத்தரவிட்டார்.
+
+...
+
+[Data](articles/fb784759.json)
+
+---
+
+### 50 million milestone in Elpitiya
+
+*2024-10-30 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202742) · `si`
+
+Elpitiya arrests: 2 suspects seized 17kg 234g drugs. Raid by Walana Central Corruption Board. Handed to Pitigala Police for investigation.
+
+🟩
+
+The suspects were arrested in the Elpitiya area for sale at the deep sea of ​​deep sea around Sri Lanka.
+
+The suspects have been arrested following a raid conducted on information received by the Walana Central Corruption Board.
+
+Two major suspects were arrested by the police and another other suspects.
+
+The suspects were taken into custody by 17 kilograms and 234 grams of MPs in possession.
+
+The suspects have been handed over to the Pitigala Police for further investigations.
+
+◼️
+
+[Data](articles/a2d1cff1.json)
+
+[Extended Data](ext_articles/a2d1cff1.ext.json)
+
+---
+
+### ஜே.வி.பி இன் இனவாதப்போக்கை உணர்ந்தே தமிழர்கள் அவர்களை நிராகரித்தனர் - தமிழ்த்தேசிய தலைவர்கள் தெரிவிப்பு
+
+*2024-10-30 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/197545) · `ta`
+
+தேசிய மக்கள் சக்தியின் ஆழமான இனவாதப்போக்கை உணர்ந்திருப்பதாலேயே தமிழ் மக்கள் அவர்களைத் தொடர்ச்சியாக நிராகரித்துவருவதாகச் சுட்டிக்காட்டியிருக்கும் தமிழ்த்தேசிய தலைவர்கள், பயங்கரவாதத்தடைச்சட்டம் தொடர்பான அவர்களது தற்போதைய நிலைப்பாடு தெற்கில் வாழும் சிங்கள மக்களை கண்திறக்கச்செய்வதாக அமையும் எனத் தெரிவித்துள்ளனர்.
+
+நாட்டில் நடைமுறையில் இருக்கும் பயங்கரவாதத்தடைச்சட்டம் முற்றாக நீக்கப்படவேண்டும் என தேசிய மற்றும் சர்வதேச தரப்புக்களால் தொடர்ச்சியாக வலியுறுத்தப்பட்டுவரும் நிலையில், செவ்வாய்க்கிழமை (29) இதுபற்றி எழுப்பப்பட்ட கேள்விக்குப் பதிலளித்த அமைச்சரவைப் பேச்சாளரான அமைச்சர் விஜித்த ஹேரத், 'பயங்கரவாதத்தடைச்சட்டத்தை நீக்குவது குறித்து தற்போது ஆராயப்படவில்லை.
+
+அது உள்ளவாறே தொடர்ந்து நடைமுறையில் இருந்தாலும், அச்சட்டம் தவறான முறையில் பயன்படுத்தப்படுவது தடுக்கப்படும். அடுத்துவரும் புதிய பாராளுமன்றத்தில் இச்சட்டம் தொடர்பில் திருத்தங்களை முன்மொழிந்து, அவை பாராளுமன்றத்தினால் ஏற்றுக்கொள்ளப்படும் பட்சத்தில் மாத்திரமே பயங்கரவாதத்தடைச்சட்டத்தில் திருத்தங்கள் மேற்கொள்ளப்படும்' எனத் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/e5e0f261.json)
+
+---
+
+### இஸ்ரேல் - லெபனான் மோதலில் இலங்கையர்களுக்கு எந்த பாதிப்பும் இல்லை - சேனாநாயக்க
+
+*2024-10-30 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197544) · `ta`
+
+மத்திய கிழக்கு நாடுகளில் இடம்பெற்றுவரும் யுத்த நிலை காரணமாக அங்குள்ள இலங்கையர்களின் பாதுகாப்பு தொடர்பில் நாங்கள் நடவடிக்கை எடுத்து வருகிறோம். அவர்களில் யாருக்காவது நாட்டுக்கு வரவேண்டிய தேவை ஏற்பட்டால் அவர்களை நாட்டுக்கு அழைத்துவரம் நடவடிக்கை எடுப்போம் என இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் பொது முகாமையாளர்  சீ. சேனாநாயக்க தெரிவித்தார்.
+
+இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தில் புதன்கிழமை (30) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+மத்திய கிழக்கு நாடுகளில் குறிப்பாக இஸ்ரேல், லெபனான் நாடுகளுக்கிடையில் இடம்பெற்று வரும் மோதல்  காரணமாக அங்கு தொழிலுக்கு சென்றிருக்கும் இலங்கையர்களின் பாதுகாப்பு தொடர்பில் நாங்கள் தொடர்ந்து எமது தூதரங்களுடன் கலந்துரையாடி நடவடிக்கை எடுத்து வருகிறோம்.
+
+...
+
+[Data](articles/8b04f4e8.json)
+
+---
 
 ### Sri Lanka to probe ‘corruption’ in handling of X-Press Pearl disaster - report
 
@@ -47,6 +147,24 @@ In May 2021, the Singapore-registered cargo ship caught fire near Negombo, a pop
 [Data](articles/38d72f86.json)
 
 [Extended Data](ext_articles/38d72f86.ext.json)
+
+---
+
+### உப்புல் தரங்கவுக்கு எதிரான பிடியாணையை மீளப்பெறுமாறு மேன்முறையீட்டு நீதிமன்றம் உத்தரவு
+
+*2024-10-30 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197542) · `ta`
+
+இலங்கை கிரிக்கெட் அணியின் முன்னாள் வீரர் உபுல் தரங்கவுக்கு எதிராக மாத்தளை மேல் நீதிமன்றம் பிறப்பித்த பிடியாணையை மீளப்பெறுமாறு மேன்முறையீட்டு நீதிமன்றம் புதன்கிழமை (30) உத்தரவிட்டுள்ளது.
+
+ஆட்ட நிர்ணயம் தொடர்பான வழக்கு விசாரணைக்கு ஆஜராகத் தவறியமைக்காக கிரிக்கெட் தெரிவுக் குழுத் தலைவர் உப்புல் தரங்கவுக்கு மாத்தளை மேல் நீதிமன்ற பிடியாணை பிறப்பித்திருந்தது.
+
+எதிர்காலத்தில் நடைபெறவுள்ள விசாரணைகளின்போது நீதிமன்றத்தில் பிரசன்னமாவதாக தனது சட்டத்தரணிகள் ஊடாக உப்புல் தரங்க வழங்கிய உறுதிமொழியை பரிசீலித்த மேன்முறையீட்டு நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.
+
+நீதிமன்றத்தில் ஆஜராகத் தவறியமைக்காக மாத்தளை மேல் நீதிமன்றத்தினால் பிறப்பிக்கப்பட்ட பிடியாணையை செல்லுபடியற்றதாக்குமாறு தரங்கவினால் தாக்கல் செய்யப்பட்ட மனு இன்று விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டபோதே இந்த உத்தரவு பிறப்பிக்கப்பட்டது.
+
+...
+
+[Data](articles/519dd177.json)
 
 ---
 
@@ -126,6 +244,24 @@ Broke the rocks and tried to recover through the rope and chain. But he was trap
 
 ---
 
+### இஸ்ரேலுக்கு தொழிலுக்கு அனுப்புவதில் பாரியளவில் அரசியல் தலையீடு இடம்பெற்றுள்ளது -  கோஷல விக்ரமசிங்க
+
+*2024-10-30 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197539) · `ta`
+
+இஸ்ரேலுக்கு தொழிலுக்கு அனுப்பும் விடயத்தில் கடந்த காலங்களில் பாரியளவில் அரசியல் தலையீடுகள் இடம்பெற்றுள்ளன. அதன் காரணமாக அதிகாரிகளும் பல்வேறு அசௌகரியங்களுக்கு ஆளாகி இருக்கின்றனர். இவ்வாறான நடவடிக்கை எதிர்காலத்தில் இடம்பெறுவதற்கு இடமளிக்கப்போவதில்லை என இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் தலைவர் கோஷல விக்ரமசிங்க தெரிவித்தார்.
+
+இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தில் புதன்கிழமை (30) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+இஸ்ரேலுக்கு பல்வேறு தொழில்களுக்கு இலங்கையில் இருந்து தொழிலாளர்களை அனுப்பி வருகிறோம். அவ்வாறு அனுப்பும்போது அந்த நாட்டுடன் இலங்கை அரசாங்கம் செய்துகொண்டுள்ள உடன்படிக்கைக்கு அமையவே நாங்கள் செயற்பட வேண்டும்.
+
+ஆனால் கடந்த காலங்களில் இஸ்ரேலில் விவசாய துறைக்கு ஆட்களை அனுப்பும் போது பாரியளவில் அரசியல் தலையீடு இடம்பெற்றுள்ளமை தெரியவருகிறது.
+
+...
+
+[Data](articles/4d2a509c.json)
+
+---
+
 ### 9 years of love fells - girlfriend hospitalized
 
 *2024-10-30 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202740) · `si`
@@ -179,6 +315,26 @@ Tamil schools in the respective provinces have been granted leave in the respect
 [Data](articles/13a4e671.json)
 
 [Extended Data](ext_articles/13a4e671.ext.json)
+
+---
+
+### யாழ்ப்பாணத்தில் ஹெரோயின் மற்றும் போதை மாத்திரைகளுடன் இருவர் கைது!
+
+*2024-10-30 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/197535) · `ta`
+
+யாழ்ப்பாணம் - அரியாலை பகுதியில் ஹெரோயின் மற்றும் போதை மாத்திரைகளுடன் இரண்டு சந்தேகநபர்கள் இன்று புதன்கிழமை (30) கைது செய்யப்பட்டுள்ளனர்.
+
+யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகர் லூஸன் சூரிய பண்டார அவர்களின் கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+அரியாலைப் பகுதியைச் சேர்ந்த, 26 மற்றும் 32 வயதுடைய இரண்டு சந்தேக நபர்கள் இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+இவர்களில் ஒருவர் 10 போதை மாத்திரைகளுடனும், மற்றையவர் 120 மில்லிக்கிராம் ஹெரோயினுடனும் கைது செய்யப்பட்டுள்ளனர்.
+
+மேலதிக விசாரணைகளை யாழ்ப்பாணம் பொலிஸார் மேற்கொண்டு வருவதுடன், அவர்களை நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/0352262f.json)
 
 ---
 
@@ -272,19 +428,25 @@ The accused filed the Attorney General's Department states that he has issued a 
 
 ---
 
-### දුම්රිය ස්ථානාධිපතිවරුන් වර්ජනයක - දුම්රිය ගාස්තුවකින් තොරව ගමන් කළ හැකියි ?
+### Can the OICs OICs on strike - Can Train - Can Travel Ways Ways?
 
 *2024-10-30 16:47:48* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ස්ථානාධිපතිවරුන්-වර්ජනයක---දුම්රිය-ගාස්තුවකින්-තොරව-ගමන්-කළ-හැකියි--/11-412761) · `si`
 
-දුම්රිය ස්ථානාධිපතිවරුන් අද (30දා) ප.ව.4.30 සිට වර්ජනයක් ආරම්භ කර තිබේ.
+OICs strike: Railway ticketing suspended. Authorities failed to address recruitment/promotion issues. Travelers advised against boarding trains without valid tickets.
 
-දුම්රිය ස්ථානාධිපතීන්ගේ බදවාගැනීමේ සහ උසස්වීම් ගැටලුවට විසඳුම් දීමට බලධාරීන් අසමත්වීම හේතුවෙන් මෙම ක්‍රියාමාර්ගය ගෙන ඇත.
+🟩
 
-ඒ අනුව ප්‍රවේශ පත්‍ර නිකුත් කිරීම ඇතුළු අනෙකුත් රාජකාරී කටයුතු වලින් ඉවත්ව ඇති අතර, ඒ අනුව ප්‍රවේශපත්‍ර ලබා ගැනීමකින් තොරව දුම්රියේ ගමන් කළ හැකි බව සඳහන්.
+The OICs have launched a strike from 4.30 pm today.
+
+The program has taken due to the failure of the authorities to address the recruitment and promotion of the Railways.
+
+Accordingly, the issuance of tickets, including the issuance of tickets, is said to be traveling on the train without obtaining tickets.
 
 ◼️
 
 [Data](articles/60a2a043.json)
+
+[Extended Data](ext_articles/60a2a043.ext.json)
 
 ---
 
@@ -370,6 +532,34 @@ The four petitions filed by several parties including the Katunayake Free Trade 
 
 ---
 
+### Flooding in Spain: 51 killed
+
+*2024-10-30 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/197515) · `ta`
+
+Spain floods: 51 dead, 491mm rain in 8 hours, drone searches, flight cancellations, rail suspensions.
+
+🟩
+
+At least 51 people have been killed in a sudden heavy rains caused by heavy rains in southeastern Spain.
+
+Heavy rains and hail rains in Spain have caused flooding in many areas.
+
+Carlos Mason, president of the Valencia region, said that the number of casualties cannot be properly reported as the rescue operations are ongoing.
+
+491 millimeters of rain was recorded in eight hours on Tuesday in the Siva region of Valencia region. This is equal to the rainfall in Spain in a year, the Meteorological Department said.
+
+Emergency service workers are reportedly using drones to search for missing persons in the Municipality of Lettur, which is badly affected by the flood.
+
+Spain's state weather has announced a red warning to Valencia and the second highest warning of the second highest level of warnings.
+
+...
+
+[Data](articles/572363d6.json)
+
+[Extended Data](ext_articles/572363d6.ext.json)
+
+---
+
 ### Many facts about cyber crimes with no limit
 
 *2024-10-30 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202735) · `si`
@@ -439,34 +629,6 @@ Meanwhile, after the ODI batsmen, the 7th, and Charith is 12th in the 7th.
 [Data](articles/c05f5532.json)
 
 [Extended Data](ext_articles/c05f5532.ext.json)
-
----
-
-### Flooding in Spain: 51 killed
-
-*2024-10-30 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/197515) · `ta`
-
-Spain floods: 51 dead, 491mm rain in 8 hours, drone searches, flight cancellations, rail suspensions.
-
-🟩
-
-At least 51 people have been killed in a sudden heavy rains caused by heavy rains in southeastern Spain.
-
-Heavy rains and hail rains in Spain have caused flooding in many areas.
-
-Carlos Mason, president of the Valencia region, said that the number of casualties cannot be properly reported as the rescue operations are ongoing.
-
-491 millimeters of rain was recorded in eight hours on Tuesday in the Siva region of Valencia region. This is equal to the rainfall in Spain in a year, the Meteorological Department said.
-
-Emergency service workers are reportedly using drones to search for missing persons in the Municipality of Lettur, which is badly affected by the flood.
-
-Spain's state weather has announced a red warning to Valencia and the second highest warning of the second highest level of warnings.
-
-...
-
-[Data](articles/572363d6.json)
-
-[Extended Data](ext_articles/572363d6.ext.json)
 
 ---
 
@@ -2253,183 +2415,5 @@ The arrested persons were the Bangladesh, 18, 23, 26, 39 and 43.
 [Data](articles/b63e0579.json)
 
 [Extended Data](ext_articles/b63e0579.ext.json)
-
----
-
-### Sri Lanka delegation discussed taxes, revenues with IMF: Minister
-
-*2024-10-30 08:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-delegation-discussed-taxes-revenues-with-imf-minister-185641/) · `en`
-
-ECONOMYNEXT – A Sri Lanka delegation had discussed taxes and revenue targets during a visit the International Monetary Fund headquarters in the US, Minister Vijitha Herath said.
-
-“Especially on current taxes, including VAT and other taxes, on revenues and how to achieve them,” Minister Herath said.
-
-Sri Lanka has to have a budget for 2025 to set revenue and primary balance targets for June 2025, which are quantitative performance criteria when negotiating the next staff level agreement.
-
-The IMF is quite keen on boosting revenues rather than cutting spending. Spending cuts can also achieve the primary deficit.
-
-Sri Lanka was supposed to conduct a review on June 2024 data around September but the elections had delayed the review.
-
-In the earlier program the December data had been set (some of which were to be firmed on this review) but the new administration is planning a vote on account while working on next years budget.
-
-...
-
-[Data](articles/a06c9396.json)
-
-[Extended Data](ext_articles/a06c9396.ext.json)
-
----
-
-### A serious accusation of the Department of Animal Production and Health
-
-*2024-10-30 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202715) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Serious accusation against Department of Animal Production and Health: Spreading false academic measures according to Department of Animal Transport and Animal Production Association.
-
-🟩
-
-The Department of Animal Transport and Animal Production Association says that the Department of Animal Production and Health has spread throughout the academic measures.
-
-◼️
-
-[Data](articles/2a860467.json)
-
-[Extended Data](ext_articles/2a860467.ext.json)
-
----
-
-### 86 train derails during this year
-
-*2024-10-30 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202714) · `si`
-
-Here's a 200-character summary:
-
-
-
-Train derailments increase: 86 in 2023, 132 in 2022, 115+98 in 2021-2020. Railway Department reports 139 deals in 2023. Station OICs Association seeks continuous solutions. Discussion today at Railway Stations Association meeting.
-
-🟩
-
-86 train deals have taken place during the last days.
-
-According to the Railway Departments sources said that 139 deals have taken place in 2023.
-
-There are also 132 trains reported in 2022.
-
-According to Railway Departments, 115 train departments and 98 were reported in the year 2021 and 2020.
-
-Meanwhile, the Station OICs Association says that if the administration will continue to address the continuous solutions of the train recessions, the administration will continue to resolve trains.
-
-Railway Stations Association Mr. Sumedha Somaratne said that a discussion is to be held today.
-
-◼️
-
-[Data](articles/54fff6bf.json)
-
-[Extended Data](ext_articles/54fff6bf.ext.json)
-
----
-
-### Postal voting in general election today
-
-*2024-10-30 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202713) · `si`
-
-Here's a summary of postal voting in the general election in approximately 200 characters:
-
-
-
-"Postal voting allows eligible citizens to cast ballots from home. It's convenient but requires careful handling to ensure ballot secrecy and timely delivery."
-
-🟩
-
-◼️
-
-[Data](articles/ca9af4f6.json)
-
-[Extended Data](ext_articles/ca9af4f6.ext.json)
-
----
-
-### Showers in several areas today
-
-*2024-10-30 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202711) · `si`
-
-Showers expected in Western, Sabaragamuwa, North Western, Northern provinces and Galle, Matara districts today. Evening/night showers predicted. Uva, Eastern Provinces may experience severe rain. Public advised to take precautions against thunderstorms and lightning.
-
-🟩
-
-Several spells of showers in the Western, Sabaragamuwa, North Western and Northern provinces and in the Galle and Matara districts.
-
-The Department of Meteorology announced that there would be showers at several places in the evening or night during the evening.
-
-Uva and Eastern Provinces are located mm. About 75 can cause severe rain.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/8b6f5dcc.json)
-
-[Extended Data](ext_articles/8b6f5dcc.ext.json)
-
----
-
-### Invest in care – a shared responsibility, a social imperative, and a driver of progress
-
-*2024-10-30 06:16:47* · [`dailyftlk`](https://www.ft.lk/columns/Invest-in-care-a-shared-responsibility-a-social-imperative-and-a-driver-of-progress/4-768586) · `en`
-
-Gendered social norms reinforce stereotypes of women as primary caregivers for children, the elderly and for support for persons with disabilities
-
-Potential to create 800,000 plus local jobs, and accelerate gender equality achievements
-
-From households to national economies, care work – both paid and unpaid – keeps the world and the economy moving!
-
-Often framed as an act of love, a noble calling, a not so important sector, care work is frequently under-valued, unrecognised, not perceived as work nor economic activity. COVID-19 brought into sharp focus the crucial roles of caregivers and care workers, creating the momentum for the first UN International Day of Care and Support, observed on 29 October 2023. Unpaid household care workers and paid care workers in domestic work or in the care and health sector, are vital pillars of our societies and economies, yet these contributions are often dismissed.
-
-Care Work = Women’s Work: Why does the world see it as such?
-
-...
-
-[Data](articles/811a5fb8.json)
-
-[Extended Data](ext_articles/811a5fb8.ext.json)
-
----
-
-### Postvention: Missing link in suicide prevention
-
-*2024-10-30 06:12:48* · [`dailyftlk`](https://www.ft.lk/columns/Postvention-Missing-link-in-suicide-prevention/4-768585) · `en`
-
-The way we talk about suicide plays a vital role, as it has the potential to wound or heal, disenfranchise or empower, defeat or motivate, especially for survivors of loss
-
-The 10th of September (World Suicide Prevention Day) and the hive of activity that surrounds it each year, has gradually begun to fade; from social media, and from our collective memory. However, there are still red-hot smouldering embers, brightly ablaze in the lives of those affected by mental illness and suicide, including those bereaved by suicide loss.
-
-Prevention in the context of recognising warning signs and risk factors, reducing access to means and reaching out for support, helpline numbers, asking the suicide question, etc. in connection with intervention were widely discussed; in panel discussions, news articles, and social media platforms. However, a key concept discussed in the literature about suicide prevention was/is neglected; and that is postvention.
-
-...
-
-[Data](articles/8ad489c3.json)
-
-[Extended Data](ext_articles/8ad489c3.ext.json)
-
----
-
-### Who do we not/want to see in the next Parliament?
-
-*2024-10-30 06:03:41* · [`dailyftlk`](https://www.ft.lk/columns/Who-do-we-not-want-to-see-in-the-next-Parliament/4-768584) · `en`
-
-Those we have voted for hitherto and elected to represent us at the highest House of Representatives for a good 75 years, have left us high and dry with a bankrupt debt-ridden country
-
-The number 2-2-5 is a peculiar number. It adds up to 9 which is believed to be bad and unlucky and is kept away when starting something auspicious. When one dials 2-2-5 a message comes through the wire: “This number is exclusively for e-channeling. Please note you will be charged Rs. 20 plus tax for a minute.” And we pay Rs. 20 plus tax while listening to jingles and promotional material played by the service provider till we are connected to a customer care officer. Once you are successful in getting the appointment you are told that Rs. 5,000 will be charged. After seeing the doctor and completing all tests, x-rays, MRIs, scans, etc., and buying medication you are done with half of your savings.
-
-...
-
-[Data](articles/db59ec39.json)
-
-[Extended Data](ext_articles/db59ec39.ext.json)
 
 ---

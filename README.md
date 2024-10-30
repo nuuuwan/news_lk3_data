@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 17:24:12**
+As of **2024-10-30 17:40:56**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 9,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,238 (100.0%) of 52,240 articles have been extended.
+52,240 (100.0%) of 52,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
 
-### දකුණේ සහ සබරගමුවේ සියලුම රජයේ දෙමළ පාසල්වලටත් නොවැ 01 නිවාඩු
+### All Nov 06 leave to all government Tamil schools in the South and Sabaragamuwa Province
 
 *2024-10-30 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202739) · `si`
 
-දකුණේ සහ සබරගමුව පළාත්වල සියලුම රජයේ දෙමළ පාසල්වලට නොවැම්බර් මස 01 වනදා නිවාඩු ලබාදී තිබේ.
+Here's a summary of 200 characters:
 
-නොවැම්බර් මස 31 වන දිනට යෙදෙන දීපවාලි උත්සවය නිමිත්තෙන් අදාළ පළාත්වල දෙමළ පාසල්වලට එලෙස නිවාඩු ලබා දී ඇත.
+
+
+Tamil schools in South and Sabaragamuwa provinces granted leave on Nov 06. Leave also given on Nov 01 and Nov 31 to mark special occasions.
+
+🟩
+
+Tamil schools in the South and Sabaragamuwa provinces have been granted leave on November 1st.
+
+Tamil schools in the respective provinces have been granted leave in the respective areas to mark November 31st.
 
 ◼️
 
 [Data](articles/13a4e671.json)
+
+[Extended Data](ext_articles/13a4e671.ext.json)
 
 ---
 
@@ -59,6 +69,8 @@ However, these schools will function on November 09 (Saturday) to cover this ext
 ◼️
 
 [Data](articles/16a8a6e8.json)
+
+[Extended Data](ext_articles/16a8a6e8.ext.json)
 
 ---
 

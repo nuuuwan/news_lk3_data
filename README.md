@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 09:40:12**
+As of **2024-10-30 09:59:27**
 
 ## Newspaper Stats
 
-*Scraped **52,152** Articles*
+*Scraped **52,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,139 @@ islandlk | 3,106
 economynextcom | 3,170
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,849
-adaderanalk | 6,174
+adalk | 4,850
+adaderanalk | 6,178
 tamilmirrorlk | 7,227
 virakesarilk | 8,421
-adaderanasinhalalk | 9,073
+adaderanasinhalalk | 9,075
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,149 (100.0%) of 52,152 articles have been extended.
+52,156 (100.0%) of 52,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Six Bangladeshis arrested without valid visas
+
+*2024-10-30 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103023/six-bangladeshis-arrested-without-valid-visas) · `en`
+
+Six Bangladeshi nationals who were residing in the country without valid visas in violation of immigration and emigration regulations have been arrested in the Amandoluwa area of Seeduwa.
+
+Acting on a tip-off, the police arrested the relevant group during a raid.
+
+The group includes six Bangladeshi nationals aged 18, 23, 26, 39, and 43, according to police.
+
+Seeduwa Police is conducting further investigations into the arrested suspects.
+
+◼️
+
+[Data](articles/b5a8b5ac.json)
+
+---
+
+### මිතුරන්ගේ මත්පැන් සාදය ජීවිතයක් බිලිගනී
+
+*2024-10-30 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202719) · `si`
+
+පුද්ගලයින් දෙදෙනෙකු සමග ඇතිවූ බහින් බස්වීමක් දුරදිග යාම හේතුවෙන් පුද්ගලයෙකු ඝාතනය කර තිබේ.
+
+පසුගිය 27 වනදා එම සිදුවීම වාර්තා වී තිබුණේ හිදෝගම පොලිස් වසමේ අතුරුවැල්ල ප්‍රදේශයෙනි.
+
+එලෙස මියගොස් ඇත්තේ  අතුරුවැල්ල, නාච්චාදූව ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි පුද්ගලයෙකි.
+
+සැකසහිත ලෙස මියගිය පුද්ගලයෙක් සම්බන්ධයෙන් හිදෝගම පොලීසියට ලද පැමිණිල්ලක් ලැබී තිබුණි.
+
+අදාළ මෘත ශරීරය සම්බන්ධයෙන් නාච්චාදූව රෝහලේදී හදිසි මරණ පරීක්ෂණය පවත්වා පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීම සඳහා පසුගිය 28 වනදා අනුරාධපුර රෝහල වෙත යොමු කර තිබුණි.
+
+ඒ අනුව ඊයේ (29) අධිකරණ වෛද්‍යවරයා විසින් මෘත ශරීරය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණ සිදුකර එම මරණය හිසට පහරදීම හේතුවෙන් ගෙලෙහි ඉහළ කොටසට හානි සිදුවීමෙන් වූ මරණයක් බවට පශ්චාත් මරණ පරීක්ෂණ වාර්තාව ලබා දී ඇත.
+
+පසුගිය 27 වන දින මරණකරු ඔහුගේ මිතුරන් සිව්දෙනෙකු සමඟ මත්පැන් පානය කර ඇති බවත්, එහිදී මරණකරු බීමත්ව සිටි ඔහුගේ මිතුරෙකු සමඟ බහින් බස්වීමක් දුරදිග යාම හේතුවෙන් මරණකරුගේ මුහුණට අතින් පයින් පහර දී ඇති බවට පොලීසිය දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/33a8a140.json)
+
+---
+
+### දීපවාලි දීමනාව රු 10,000කින් ඉහළට
+
+*2024-10-30 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202718) · `si`
+
+දෙමළ ජනතාවගේ වැදගත් උත්සව අවස්ථාවක් වන දීපාවලී වෙනුවෙන් රාජ්‍ය වැවිලි සමාගම් විසින් වාර්ෂිකව ලබාදෙන උත්සව දීමනාව රුපියල් දසදහසකින් ඉහළ දමා තිබේ.
+
+මීට පෙර වර්ෂවල එම මුදල රුපියල් දස දහසක්ව පැවති අතර මේ අනුව එය රුපියල් 20,000 දක්වා ඉහළ යනු ඇත.
+
+වැවිලි හා ප්‍රජා යටිතල පහසුකම් අමාත්‍යාංශය සඳහන් කළේ, දමිළ කම්කරු ජනතාවගේ මිලදී ගැනීමේ හැකියාව පහළ අගයක පැවතීම සැලකිල්ලට ගෙන මෙම පියවර ගත් බවය.
+
+◼️
+
+[Data](articles/71abf24d.json)
+
+---
+
+### Postal voting for 2024 General Election begins
+
+*2024-10-30 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103022/postal-voting-for-2024-general-election-begins) · `en`
+
+The postal voting for the upcoming General Election 2024 has commenced today (30).
+
+The Election Commission announced that postal voting will take place at all police stations, District Secretariats, Election Commission Offices, and the Offices of the IGP, today.
+
+Additionally, it is also allowed to cast postal votes at these offices on November 4.
+
+In addition, for the armed forces and other government institutions, postal voting will be available on November 1 and November 4, the Election Commission said.
+
+The postal voters who could not vote within these days will be allowed to vote at their respective District Secretariat where their workplace is located.
+
+The Commissioner General of Elections Saman Sri Rathnayake stated that official IDs are not permitted to be used for casting postal votes.
+
+...
+
+[Data](articles/ef1fbeb3.json)
+
+[Extended Data](ext_articles/ef1fbeb3.ext.json)
+
+---
+
+### Govt Tamil schools in two provinces closed on Friday
+
+*2024-10-30 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103021/govt-tamil-schools-in-two-provinces-closed-on-friday-) · `en`
+
+All government Tamil medium schools in the Central and Uva Provinces will remain closed on November 01 (Friday) following the Deepavali holiday on October 31.
+
+However, these schools will function on November 09 (Saturday) to cover this extra holiday, according to the Zonal Education Directors.
+
+◼️
+
+[Data](articles/25b96438.json)
+
+[Extended Data](ext_articles/25b96438.ext.json)
+
+---
+
+### Several spells of showers expected today
+
+*2024-10-30 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103020/several-spells-of-showers-expected-today) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa, North-western and Northern provinces and in Galle and Matara districts.
+
+Meanwhile, showers or thundershowers will occur at several places in the other areas of the island during the evening or night.
+
+Fairly heavy showers about 75 mm are likely at some places in Uva and Eastern provinces, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/21f3694c.json)
+
+[Extended Data](ext_articles/21f3694c.ext.json)
+
+---
 
 ### Several places of two provinces leave on November 1st
 
@@ -769,6 +887,38 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 [Data](articles/77e37d9a.json)
 
 [Extended Data](ext_articles/77e37d9a.ext.json)
+
+---
+
+### මට හෝ ආණ්ඩුවට කිසිඳු පාර්ශ්වයක් සමඟ විශේෂ බැඳීමක්  නෑ
+
+*2024-10-29 22:27:12* · [`adalk`](https://www.ada.lk/breaking_news/මට-හෝ-ආණ්ඩුවට-කිසිඳු-පාර්ශ්වයක්-සමඟ-විශේෂ-බැඳීමක්--නෑ/11-412752) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan President Anura Kumara Dissanayake addressed banking union members, emphasizing impartial decision-making for economic development. He highlighted the importance of digitalization and e-passport implementation within one year. The president emphasized simplifying government processes and protecting entrepreneurs during the economic crisis. Key officials from various banks attended the meeting.
+
+🟩
+
+රටේ  ආර්ථිකය ගොඩනැඟීම සඳහා බැංකු පද්ධතිය සහ ව්‍යවසායකයා යන දෙපාර්ශ්වයම ආරක්ෂා වන පරිදි  තීන්දු තීරණ ගන්නවා
+
+සියලු  ජනතාව සුරක්ෂිත  වන ආකාරයට  රටේ අවිධිමත් ආර්ථිකය  ක්‍රමානුකූලව විධිමත් කිරීමට පියවර
+
+රට ගොඩනැඟීමේ සහ ආර්ථික සංවර්ධනය කිරීමේදී තමන්ට හෝ වත්මන් ආණ්ඩුවට කිසිඳු පාර්ශ්වයක් සමඟ විශේෂ බැඳීමක්  නොමැති බැවින් ගත යුතු සෑම තීන්දුවක්ම නොපැකිළව ගන්නා බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
+
+President Anura Kumara Dissanayake made these comments when he met the Sri Lankan banking union members at the Presidential Secretariat yesterday.
+
+The details of the banks to build the economy of Sri Lanka and their problems also focused on their problems.
+
+ශ්‍රී ලංකාව ඩිජිටල්කරණයෙහි වැදගත්කම සහ විද්‍යුත් හැඳුනුම්පත ලබා දීම සම්බන්ධයෙන් මෙහිදී සාකච්ඡා කළ අතර එම වැඩපිළිවෙළ වසර එක හමාරක් වැනි කෙටි කාලයක් තුළ නිම කිරීමට කටයුතු කරන බව ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+
+...
+
+[Data](articles/03aecdba.json)
+
+[Extended Data](ext_articles/03aecdba.ext.json)
 
 ---
 
@@ -2175,169 +2325,5 @@ Foreign buying interest was seen in Lankem Developments (up at 22.10), Dipped Pr
 [Data](articles/4e5ccfbb.json)
 
 [Extended Data](ext_articles/4e5ccfbb.ext.json)
-
----
-
-### South Africa attacked Bangladesh in South Africa on the first day
-
-*2024-10-29 16:59:03* · [`adalk`](https://www.ada.lk/sports/පළමු-දිනයේදීම-දකුණු-අප්‍රිකාවෙන්-බංග්ලාදේශයට-දැඩි-ප්‍රහාරයක්/9-412742) · `si`
-
-South Africa vs Bangladesh Test match summary: South Africa won the toss and batted first, scoring 141* and 106*. Taijul Islam took 2 wickets for 110 runs.
-
-🟩
-
-The first day of the second Test match between the tourist South African and the Bangladesh team, the match was held today (29).
-
-The South Africa won the ball first by the end of the 81 wickets at the end of 81 overs.
-
-Tony also scored 141 not out and 106 Triston Stabs.
-
-Taijul Ilam took 2 wickets for 110 runs.
-
-◼️
-
-[Data](articles/db91bfe5.json)
-
-[Extended Data](ext_articles/db91bfe5.ext.json)
-
----
-
-### Businessman barred from sharing defamatory info against ex-State Minister on WhatsApp
-
-*2024-10-29 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103014/-businessman-barred-from-sharing-defamatory-info-against-ex-state-minister-on-whatsapp) · `en`
-
-The Colombo Magistrate’s Court has issued a conditional injunction on a businessman from Mannar, preventing him from circulating defamatory information targeting former State Minister Kader Masthan on social media platforms including WhatsApp.
-
-Colombo Chief Magistrate Thilina Gamage issued this order after considering a plaint filed by the former state minister under the Online Safety Act, Ada Derana reporter said.
-
-Furthermore, the court has ordered the businessman named as a respondent in the case to appear before the court and present facts on November 12.
-
-The complainant has alleged in his plaint that the respondent was circulating misleading and defamatory videos and information against him through social media including WhatsApp and that it was an illegal act under the Online Security Act.
-
-◼️
-
-[Data](articles/7858a6b1.json)
-
-[Extended Data](ext_articles/7858a6b1.ext.json)
-
----
-
-### Do not abandon education and effort in any case
-
-*2024-10-29 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/197421) · `ta`
-
-Education and perseverance key to success: From tea plantation worker to estate officer, overcoming challenges through hard work and continuous learning.
-
-🟩
-
-My ancestors came to work in tea plantations. I continued my education by targeting another business. Sivakavi Kalaivani, who is the tea station officer of the Nuwara Eliya Peedru Estate and the guide to the tourists, says that my efforts, my parents' sacrifices and the promotion of the plantation management I am currently working on.
-
-The Nuwara Eliya Peedru Estate, which is under the Kelaniweli Plantation Company, is the place where the tourists visit the Tea Center daily.
-
-Artist is also the official of the Beeturu Tea History, which is a place where the tea is a place to taste the tea and the tea of ​​the Nuwara Eliya, which has taken the traditional Ceylon Tea business worldwide.
-
-Here she shares his experiences as to how some of the women who have learned high -quality have been leaving the gardens and working in the capital.
-
-My parents worked as workers in the same garden. Their parents were like that. Six of my family. I am the fifth child. I read the other profession targeting.
-
-...
-
-[Data](articles/dfb87a93.json)
-
-[Extended Data](ext_articles/dfb87a93.ext.json)
-
----
-
-### Ravaikkuttu recovery on Beliyatta - Kandy high -speed train
-
-*2024-10-29 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197426) · `ta`
-
-High-speed train from Beliatta to Kandy recovers ravaikkuttu. Train officers found magazine and ravic bout in black bag. Incident reported to Beliyatta Railway Station. Dogs ensure train safety.
-
-🟩
-
-The railway department has said that a raviccopher has been recovered on a high -speed train traveling from Beliatta to Kandy.
-
-The train, which departed from Maradana at 6.30 am, completed its journey at the Beliyatta railway station.
-
-In this case, the train was back to Kandy from Beliatta. A magazine and a ravic bout were recovered in a black bag beneath a seat during the regular raid of the train officers before departing.
-
-Immediately the incident was notified to the Beliyatta Railway Station Chancellor. Currently dogs are currently used to ensure the safety of the train.
-
-◼️
-
-[Data](articles/157fb0f1.json)
-
-[Extended Data](ext_articles/157fb0f1.ext.json)
-
----
-
-### Raghava Lawrence's first vision release of 'Kala Bhairava' starring Raghava Lawrence
-
-*2024-10-29 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197419) · `ta`
-
-Raghava Lawrence's 'Kala Bhairava' released; fans excited about poster. Directed by Ramesh Verma, it's an Indian superhero film in Tamil, Telugu, Malayalam, Kannada, and Hindi. Details of cast and crew coming soon.
-
-🟩
-
-The 25th film, starring choreographer and leading star star Raghava Lawrence, has been named 'Kala Bhairava' and has been released.
-
-Fans are excited as the poster of the film has been released today, the birthday of Raghava Lorenz.
-
-Directed by Telugu director Ramesh Verma, the film 'Kala Bhairava' is being made as Ban Indian Super Hero.
-
-Official details of other actors, actresses and technicians who work with Raghava Lawrence in the film are expected to be released soon.
-
-The film, starring Raghava Lawrence, is also observed that the film will be released in Indian languages ​​including Tamil, Telugu, Malayalam, Kannada and Hindi as Telugu filmmakers have produced and successful in the film.
-
-◼️
-
-[Data](articles/a6ea3b86.json)
-
-[Extended Data](ext_articles/a6ea3b86.ext.json)
-
----
-
-### Station Masters warn on strike
-
-*2024-10-29 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202698) · `si`
-
-Station Masters' Association warns of strike due to failed negotiations with Minister. Chairman Sumedha Somaratne confirms talks with General Manager were unsuccessful today.
-
-🟩
-
-The Station Masters' Association (Masters) Association says that if the talks with the Minister has failed to work with the Minister.
-
-Chairman of the President Sumedha Somaratne said the discussions were failed to be held today with the General Manager.
-
-◼️
-
-[Data](articles/b7cd18e8.json)
-
-[Extended Data](ext_articles/b7cd18e8.ext.json)
-
----
-
-### Report of the Colombo Stock Exchange
-
-*2024-10-29 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202697) · `si`
-
-Colombo Stock Exchange report: ASPI rose 135.54 points to 12,745.60, highest since Feb 3, 2022. S&P L20 index also increased.
-
-🟩
-
-All Stock Price Index (ASPI) increased by 135.54 units today.
-
-At the end of transactions on the date, all stock price index was recorded as 12,745.60 points.
-
-This is the highest number of recorded in the Independence Price after 3 February 3, 2022.
-
-Meanwhile, the S & PL20 index and increased to Rs.
-
-◼️
-
-[Data](articles/7b374362.json)
-
-[Extended Data](ext_articles/7b374362.ext.json)
 
 ---

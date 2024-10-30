@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 16:57:24**
+As of **2024-10-30 17:09:16**
 
 ## Newspaper Stats
 
-*Scraped **52,234** Articles*
+*Scraped **52,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,114 @@ economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,858
-adaderanalk | 6,194
+adaderanalk | 6,196
 tamilmirrorlk | 7,244
 virakesarilk | 8,433
-adaderanasinhalalk | 9,092
+adaderanasinhalalk | 9,094
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,231 (100.0%) of 52,234 articles have been extended.
+52,234 (100.0%) of 52,238 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
 
-### 4.30க்கு பின் பயணச் சீட்டுகள் வழங்கப்பட மாட்டாது
+### වෙලේ සුදාට එරෙහි නඩුවක තීන්දුවට දින දෙයි
+
+*2024-10-30 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202738) · `si`
+
+වෙලේ සුදා ඇතුළු විත්තිකරුවන් තුන්දෙනෙකුට එරෙහිව නීතිපතිවරයා විසින් ගොනුකර තිබෙන නඩුවක විභාගය අවසන් කළ කොළඹ මහාධිකරණය එහි තීන්දුව දෙසැම්බර් මස 20 වනදා ප්‍රකාශයට පත් කරන බව අද (30) නිවේදනය කළේය.
+
+හෙරොයින් මත්ද්‍රව්‍ය ජාවාරමින් උපයාගත් මුදල්වලින් රුපියල් කෝටි 17කට අධික වත්කම් හා මුදල් අයථා ලෙස අත්පත් කරගත්තේ යැයි චෝදනා කරමින්, මේ වනවිට මරණීය දණ්ඩනය නියමවී සිටින ගම්පොළ විදානගේ සමන්ත කුමාර හෙවත් වෙලේ සුදා ඇතුළු විත්තිකරුවන් තුන්දෙනෙකුට එරෙහිව මෙම නඩුව ගොනුකර තිබුණි.
+
+කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා ඉදිරියේ මෙම නඩුව විභාග කෙරුණි.
+
+මෙම නඩුවේ සෙසු විත්තිකරුවන් ලෙස වෙලේ සුදාගේ බිරිඳ හා ඥාති සොහොයුරියක් නම් කර තිබුණි.
+
+ඒ අනුව දීර්ඝ සාක්ෂි විභාගයකින් අනතුරුව නඩු විභාගය අවසන් කළ මහාධිකරණ විනිසුරුවරයා එහි තීන්දුව දෙසැම්බර් මස 20 වනදා ප්‍රකාශයට පත් කරන බව නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/b8262a5d.json)
+
+---
+
+### Travel tickets will not be issued after 4.30
 
 *2024-10-30 16:54:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-30க்கு-பின்-பயணச்-சீட்டுகள்-வழங்கப்பட-மாட்டாது/175-346324) · `ta`
 
-தொடரும் தொழிற்சங்க நடவடிக்கையின் ஒரு பகுதியாக இன்று பிற்பகல் 4:30 மணியிலிருந்து அனைத்து வித பயணச்சீட்டு வழங்கும் கடமைகளில் இருந்தும் தமது உறுப்பினர்கள் விலகிக்கொள்வதாக இலங்கை புகையிரத நிலைய அதிபர்கள் சங்கம் அறிவித்துள்ளது.
+Sri Lanka Railway Station Principals Association announces withdrawal of ticket services after 4:30 PM due to trade union action over recruitment and practical implementation issues of station masters.
 
-ஸ்டேஷன் மாஸ்டர்கள் ஆட்சேர்ப்பு மற்றும் நடைமுறை செயல்பாட்டுப் பிரச்சினைகள் தொடர்பான பல கோரிக்கைகளை இலக்காகக் கொண்டு இந்த நடவடிக்கை மேற்கொள்ளப்படுவதால், ரயில் சேவைகளுக்கு இடையூறு ஏற்படாது என தொழிற்சங்கம் வலியுறுத்தியுள்ளது.
+🟩
+
+The Sri Lanka Railway Station Principals Association has announced that its members will withdraw from all kinds of ticket offerings from 4:30 pm as part of the ongoing trade union action.
+
+The union has urged the union that the action is being carried out as the action is aimed at the recruitment and practical implementation issues of the station masters.
 
 ◼️
 
 [Data](articles/dd9c9c78.json)
+
+[Extended Data](ext_articles/dd9c9c78.ext.json)
+
+---
+
+### ඉන්දුනීසියාවේ සීනි වංචාවට හිටපු ඇමති අත්අඩංගුවට
+
+*2024-10-30 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202737) · `si`
+
+සීනි ආනයන වංචාවක් සම්බන්ධයෙන් ඉන්දුනීසියාවේ හිටපු වෙළෙඳ ඇමතිවරයාව අත්අඩංගුවට ගැනීමට එරට විමර්ශන නිලධාරීන් කටයුතු කර තිබේ.
+
+විමර්ශකයින් පවසන්නේ හිටපු අමාත්‍යවරයා නිසි ක්‍රමවේදයෙන් බාහිරව සීනි ආනයන බලපත්‍රයක් නිකුත් කිරීමෙන් රජයට ඩොලර් මිලියන 25ක පාඩුවක් සිදුකර ඇති බවයි.
+
+එම හිටපු අමාත්‍යවරයා මේ වනවිට රජයේ කටයුතු විවේචනය කරන පුද්ගලයින් අතුරින් ඉදිරියෙන්ම සිටින අයෙකි.
+
+හිටපු අමාත්‍ය තෝමස් ට්‍රිකාසි ලෙම්බොන් ව සැකකරුවෙක් වශයෙන් ඊයේ (29) අත්අඩංගුවට ගෙන තිබුණි.
+
+එරට නීතිපති දෙපාර්තමේන්තුව ගොනුකර ඇති චෝදනාවේ සඳහන් වන්නේ රට තුළ අවශ්‍ය ප්‍රමාණය ට වඩා සීනි තොග ඇති අවස්ථාවක පෞද්ගලික සමාගමකට සීනි ආනයනය සඳහා බලපත්‍රයක් නිකුත්කළ බවට ඔහුට චෝදනා එල්ලකර තිබේ.
+
+◼️
+
+[Data](articles/99627ac6.json)
+
+---
+
+### US Embassy and Save the Children expand school nutrition program to urban Colombo schools
+
+*2024-10-30 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103042/us-embassy-and-save-the-children-expand-school-nutrition-program-to-urban-colombo-schools) · `en`
+
+The U.S. Department of Agriculture (USDA)-funded Food for Education and Child Nutrition Program (PALAMA II project), implemented by Save the Children, focusing on addressing short-term hunger in schools and improving educational outcomes in vulnerable urban areas in Sri Lanka, expanded into Colombo-area schools this month.
+
+This initiative provides daily school meals, trains teachers, promotes literacy, and supports local communities across Sri Lanka to boost school enrollment and academic performance.
+
+While the program has existed in seven other provinces across Sri Lanka over the last six years, the expansion into Colombo is new and designed to address the needs of low-income children in urban areas where high dropout rates persist, the US Embassy in Colombo said.
+
+...
+
+[Data](articles/b721ca6d.json)
+
+---
+
+### Railway Station Masters withdraw from ticketing duties
+
+*2024-10-30 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103041/railway-station-masters-withdraw-from-ticketing-duties) · `en`
+
+The Railway Station Masters will refrain from all ticketing duties from 4.30 p.m. today (30), the Railway Station Masters’ Union announced.
+
+However, the union also stated that there will be no disruptions to train services.
+
+On Tuesday (29), the Railway Station Masters’ Union warned that they will launch a strike action starting from midnight today (30), if their demands are not met during the discussion with the subject minister.
+
+The union decided to launch an immediate trade union action, over issues pertaining to the post of Railway Station Master.
+
+However, President of the association Sumedha Somaratne mentioned that they arrived at this decision since no favorable response has been received from the authorities pertaining to issues of the Railway Station Masters including promotions, despite repeated demands.
+
+◼️
+
+[Data](articles/21eb22e7.json)
 
 ---
 
@@ -134,23 +216,29 @@ For emergency assistance, the public is requested to contact local disaster mana
 
 ---
 
-### එක්දින ශ්‍රේණිගත කිරීම් හී ශ්‍රී ලාංකික ක්‍රීඩකයන්ට හිමි වූ ස්ථාන
+### Sri Lankan players from ODI rankings
 
 *2024-10-30 15:54:04* · [`adalk`](https://www.ada.lk/sports/එක්දින-ශ්‍රේණිගත-කිරීම්-හී-ශ්‍රී-ලාංකික-ක්‍රීඩකයන්ට-හිමි-වූ-ස්ථාන/9-412760) · `si`
 
-එක්දින ක්‍රිකට් ක්‍රීඩකයන්ගේ නවතම ශ්‍රේණිගත කිරීම් ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ප්‍රකාශයට පත් කර තිබේ.
+Sri Lankan cricket rankings update: Mahesh moves to 12th in ODI bowlers, Aluthnu advances two spots, Mehining drops 36 places. Charith Asalanka ranks 7th among batsmen.
 
-ඒ අනුව එක්දින පන්දු යවන්නන් අතර 12 වැනි ස්ථානය දක්වා එක් ස්ථානයකින් ඉදිරියට පැමිණීමට ශ්‍රී ලංකාවේ මහීෂ් තීක්ෂණ සමත්ව තිබේ.
+🟩
 
-එමෙන්ම 16 වැනි ස්ථානය දක්වා පන්දු යවන්නන් අතර ස්ථාන 2කින් ඉදිරියට පැමිණීමට වනිඳු හසරංග සමත්ව ඇත.
+The International Cricket Council has published the latest rankings of one-day cricketer.
 
-මේ අතර එක්දින තුන් ඉරියව් ක්‍රීඩකයන් අතර 36 වැනි ස්ථානය දක්වා ස්ථාන 3කින් ඉදිරියට පැමිණීමට මහීෂ් තීක්ෂණ සමත්ව ඇති අතර, 39 වැනි ස්ථානය දක්වා ස්ථාන 2කින් ඉදිරියට පැමිණීමට චරිත් අසලංක සමත්ව තිබේ.
+Accordingly, between the one-day bowlers, Sri Lanka's Maheh has been able to advance from one place to the 12th place.
 
-මේ අතර එක්දින පිතිකරුවන් අතර තවදුරටත් පැතුම් නිස්සංක 07 වැනි ස්ථානයේත්, චරිත් අසලංක 12 වැනි ස්ථානයේත් පසු වන්නේය.
+Aluthnu Hasara was able to advance two places in two locations.
+
+Mehining was insight into 36 places between three-day three-day and 39th places.
+
+Meanwhile, after the ODI batsmen, the 7th, and Charith is 12th in the 7th.
 
 ◼️
 
 [Data](articles/c05f5532.json)
+
+[Extended Data](ext_articles/c05f5532.ext.json)
 
 ---
 
@@ -1334,21 +1422,33 @@ Accordingly, the Ticketing Tickets of the GCE A / L examination are to be handed
 
 ---
 
-### මහ බැංකුව අලුතින් මුදල් අච්චු ගැහුවා ද?
+### Did the Central Bank molded the new money?
 
 *2024-10-30 10:42:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce3yn0pzgr9o) · `si`
 
-මුදල් අච්චු ගැසීම සැබවින්ම මෙරට දේශපාලනයේ ආන්දෝලනාත්මක මාතෘකාවකි. විවිධ දේශපාලන පක්ෂ මේ සම්බන්ධයෙන්  විපක්ෂයේ සිටියේදී පවත්නා රජයට චෝදනා එල්ල කිරීම සාමාන්‍යය සංසිද්ධියකි. වත්මන් ආණ්ඩුව මුදල් අච්චු ගැසීමක් කර තිබේ නම් මුදල් අමාත්‍යවරයා ලෙස ජනාධිපති අනුර කුමාර දිසානායකගේ අත්සනින් නිකුත් වූ මුදල් නෝට්ටුවක් පෙන්වන්නැයි,කැබිනට් ප්‍රකාශ අමාත්‍ය විජිත හේරත් පසුගියදා පැවති කැබිනට් මාධ්‍ය හමුවේදී අභියෝග කර සිටියේ ය.
+Here's a 200-character summary:
 
-අමාත්‍යවරයා පවසන පරිදි මුදල් අච්චු ගැසීම යනු එක් රැයකින් මුදල් නෝට්ටු මුද්‍රණය කිරීමේ ක්‍රියාවලියක් ද?
 
-මුදල් නිකුත් කිරීමේ බලය ඇත්තේ ශ්‍රී ලංකා මහ බැංකුවට ය. පද්ධතියට අවශ්‍යතරම් මුදල් සැපයීම ශ්‍රී ලංකා මහ බැංකුවේ වගකීමකි.
 
-මුදල් අච්චු ගැසීම යන්නෙන් අදහස් කරන්නේ මහ බංකුව  ආර්ථිකයට අලුතින් මුදල් නිකුත් කිරීම ය. මුදල් අච්චු ගැසීම යනු යන්ත්‍රයක් ආධාරයෙන් මුදල් නෝට්ටු  මුද්‍රණය කිරීමක් නොවේ.
+Central Bank issues new money, not printing physical currency. Accused of "money molding," but denies printing money overnight. Uses open market operations to manage liquidity and interest rates. Limited by law and IMF agreements. Creates coins and notes through appointed manufacturers. Borrows money through Treasury bills and bonds to cover expenses and debt interest.
+
+🟩
+
+Money Molding is truly a controversial title of the politics of Sri Lanka. It is a common phenomenon to accused the government in the opposition in the opposition in this regard. Cabinet posts, Minister Vijitha Herath, who was released to the signature of President Anura Kumara Dissanayake, had been challenged as the Minister of Finance if the present government has been cashed.
+
+According to the Minister, money molding is a process of printing money overnight?
+
+The Central Bank of Sri Lanka has the power to issue money. The Central Bank of Sri Lanka is to provide plenty of money to the system.
+
+Money molding means Issuing money to the capital bench economy. Money Molding is not a printing of currency notes with the help of a machine.
+
+The printing of money is determined by the Central Bank's applied currency. The Central Bank will add the amount of money circulated in the country and add the amount of money required to deal with the country.
 
 ...
 
 [Data](articles/bfa4fe7d.json)
+
+[Extended Data](ext_articles/bfa4fe7d.ext.json)
 
 ---
 
@@ -2279,79 +2379,5 @@ The agreement, signed on 7 October at the INASCA (Indonesia South and Central As
 [Data](articles/c86655ad.json)
 
 [Extended Data](ext_articles/c86655ad.ext.json)
-
----
-
-### Capital Maharaja Group continues to bolster Board  with new Group Finance Director
-
-*2024-10-30 05:33:32* · [`dailyftlk`](https://www.ft.lk/business/Capital-Maharaja-Group-continues-to-bolster-Board-with-new-Group-Finance-Director/34-768575) · `en`
-
-The Capital Maharaja Group (CMG) has appointed Lalith Fernando as Group Finance Director (GFD).
-
-Bringing over three decades of finance and business operations experience across diverse sectors, both locally and internationally, Lalith’s appointment marks another step in CMG’s strategic growth as it approaches its centenary.
-
-Lalith’s extensive expertise spans key industries, including Telecommunications, Banking, Software Development, Manufacturing, Utilities, and Advisory Services. As a seasoned CFO, he has been instrumental in executing successful business turnaround strategies, and his deep knowledge of mergers and acquisitions (M&A) has played a pivotal role in large-scale corporate and banking integrations in Sri Lanka.
-
-...
-
-[Data](articles/82b54dd3.json)
-
-[Extended Data](ext_articles/82b54dd3.ext.json)
-
----
-
-### OQ Trading gets contract to supply LPG for Litro in 2025
-
-*2024-10-30 04:19:37* · [`dailyftlk`](https://www.ft.lk/business/OQ-Trading-gets-contract-to-supply-LPG-for-Litro-in-2025/34-768574) · `en`
-
-The Cabinet of Ministers on Monday approved awarding the contract to OQ Trading Ltd., for the supply of Liquefied Petroleum Gas (LPG) to Litro Gas Lanka Ltd., in 2025.
-
-Speaking during the post-Cabinet meeting media briefing yesterday, Cabinet Spokesman and Minister Vijitha Herath stated that tenders had been invited under the single stage double lot system following the international competitive bidding system for the supply of LPG to Litro Gas Lanka Limited for the year 2025.
-
-“Only two suppliers, namely, Siam Gas Trading Pte Ltd., and OQ Trading Ltd., had submitted bids for this purpose, while the bid submitted by Siam Gas Trading was rejected,” he said.
-
-The decision was made based on the recommendations of the Standing Procurement Committees appointed by the Cabinet, recognising OQ Trading Ltd., as the substantially responsive bidder.
-
-◼️
-
-[Data](articles/e557fbd1.json)
-
-[Extended Data](ext_articles/e557fbd1.ext.json)
-
----
-
-### SC allows Ranil to be named as respondent in FR petition against Deshabandu’s appointment as IGP
-
-*2024-10-30 04:05:46* · [`dailyftlk`](https://www.ft.lk/news/SC-allows-Ranil-to-be-named-as-respondent-in-FR-petition-against-Deshabandu-s-appointment-as-IGP/56-768565) · `en`
-
-The Supreme Court has granted permission for former President Ranil Wickremesinghe to be named as a respondent in a high-profile fundamental rights petition challenging the appointment of Senior Deputy Inspector General (DIG) Deshbandu Tennakoon as the Inspector General of Police (IGP).
-
-The petition, originally filed in July by the Young Journalists Association (YJA) has raised concerns over the transparency and legitimacy of Tennakoon’s selection process and questions his suitability for the role due to his alleged past conduct.
-
-...
-
-[Data](articles/82759cd3.json)
-
-[Extended Data](ext_articles/82759cd3.ext.json)
-
----
-
-### ECSL submits report to AG amid polling date legal challenge
-
-*2024-10-30 04:03:52* · [`dailyftlk`](https://www.ft.lk/news/ECSL-submits-report-to-AG-amid-polling-date-legal-challenge/56-768564) · `en`
-
-The Election Commission has said that a comprehensive report has been submitted to the Attorney General’s Department regarding the activities carried out by it so far in relation to the 2024 Parliamentary election.
-
-The commission has presented these facts in response to the fundamental rights petition filed in the Supreme Court regarding the date of the election. The Attorney General’s Department had requested observation reports from the Election Commission regarding the date of the general election.
-
-According to these observation reports, the department has assured it will present its observations to the Supreme Court on 4 November.
-
-A fundamental rights petition was filed this month before the Supreme Court requesting a ruling that the decision to hold the upcoming parliamentary elections on 14 November is against the Constitution.
-
-...
-
-[Data](articles/aaecbafd.json)
-
-[Extended Data](ext_articles/aaecbafd.ext.json)
 
 ---

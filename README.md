@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 09:59:27**
+As of **2024-10-30 10:13:02**
 
 ## Newspaper Stats
 
-*Scraped **52,159** Articles*
+*Scraped **52,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ islandlk | 3,106
 economynextcom | 3,170
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,850
+adalk | 4,851
 adaderanalk | 6,178
-tamilmirrorlk | 7,227
+tamilmirrorlk | 7,229
 virakesarilk | 8,421
-adaderanasinhalalk | 9,075
+adaderanasinhalalk | 9,076
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,156 (100.0%) of 52,159 articles have been extended.
+52,159 (100.0%) of 52,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### ඊශ්‍රායල ගුවන් ප්‍රහාරයෙන් පුද්ගලයින් 93 දෙනෙක් මරුට
+
+*2024-10-30 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202720) · `si`
+
+උතුරු ගාසා තීරයේ බෙයිට් ලාහියා නගරයට ඊශ්‍රායල එල්ල කළ ගුවන් ප්‍රහාරයකින් පුද්ගලයින් 93 දෙනෙකු මියගොස් තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කරනුයේ මියගිය පිරිස අතර ළමුන්ද සිටින බවය.
+
+මහල් පහකින් යුත් නේවාසික ගොඩනැගිල්ලක් ඉලක්ක කර මෙම ප්‍රහාරය එල්ල වී තිබුණි.
+
+මළ සිරුරු රැසක් ගොඩනැගිලි සුන්බුන් අතර සිරවී ඇති බව සහන කණ්ඩායම් පවසයි.
+
+විදෙස් මාධ්‍ය වාර්තා සඳහන් කළේ සෞඛ්‍ය අංශ කාර්ය මණ්ඩලය සහ ඖෂධ හිඟය හේතුවෙන් රෝගීන්ට ප්‍රතිකාර කිරීම අපහසු වී ඇති බවය.
+
+◼️
+
+[Data](articles/4536b3bc.json)
+
+---
 
 ### Six Bangladeshis arrested without valid visas
 
@@ -48,45 +68,61 @@ Seeduwa Police is conducting further investigations into the arrested suspects.
 
 [Data](articles/b5a8b5ac.json)
 
+[Extended Data](ext_articles/b5a8b5ac.ext.json)
+
 ---
 
-### මිතුරන්ගේ මත්පැන් සාදය ජීවිතයක් බිලිගනී
+### Friends Liquor Party Saw the Life
 
 *2024-10-30 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202719) · `si`
 
-පුද්ගලයින් දෙදෙනෙකු සමග ඇතිවූ බහින් බස්වීමක් දුරදිග යාම හේතුවෙන් පුද්ගලයෙකු ඝාතනය කර තිබේ.
+Heated argument leads to fatal assault at liquor party. 58-year-old man killed. Suspect arrested. Police investigating.
 
-පසුගිය 27 වනදා එම සිදුවීම වාර්තා වී තිබුණේ හිදෝගම පොලිස් වසමේ අතුරුවැල්ල ප්‍රදේශයෙනි.
+🟩
 
-එලෙස මියගොස් ඇත්තේ  අතුරුවැල්ල, නාච්චාදූව ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි පුද්ගලයෙකි.
+A person has been killed due to a heated argument with two people.
 
-සැකසහිත ලෙස මියගිය පුද්ගලයෙක් සම්බන්ධයෙන් හිදෝගම පොලීසියට ලද පැමිණිල්ලක් ලැබී තිබුණි.
+The incident was reported from the Yidogama Police Division in the Hidogama police division.
+
+The victim was a 58 year old resident of the Nachchuwa area.
+
+A complaint lodged with the Hidogama Police received a complaint with a person who was dead.
 
 අදාළ මෘත ශරීරය සම්බන්ධයෙන් නාච්චාදූව රෝහලේදී හදිසි මරණ පරීක්ෂණය පවත්වා පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීම සඳහා පසුගිය 28 වනදා අනුරාධපුර රෝහල වෙත යොමු කර තිබුණි.
 
-ඒ අනුව ඊයේ (29) අධිකරණ වෛද්‍යවරයා විසින් මෘත ශරීරය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණ සිදුකර එම මරණය හිසට පහරදීම හේතුවෙන් ගෙලෙහි ඉහළ කොටසට හානි සිදුවීමෙන් වූ මරණයක් බවට පශ්චාත් මරණ පරීක්ෂණ වාර්තාව ලබා දී ඇත.
+Accordingly, the post mortem examination of the body was carried out by the judiciary yesterday (29) and was a death of the death of the death.
 
 පසුගිය 27 වන දින මරණකරු ඔහුගේ මිතුරන් සිව්දෙනෙකු සමඟ මත්පැන් පානය කර ඇති බවත්, එහිදී මරණකරු බීමත්ව සිටි ඔහුගේ මිතුරෙකු සමඟ බහින් බස්වීමක් දුරදිග යාම හේතුවෙන් මරණකරුගේ මුහුණට අතින් පයින් පහර දී ඇති බවට පොලීසිය දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී තිබේ.
+
+A suspect, a 33-year-old resident of the Nachchaduwa area has been arrested in connection with the assault.
 
 ...
 
 [Data](articles/33a8a140.json)
 
+[Extended Data](ext_articles/33a8a140.ext.json)
+
 ---
 
-### දීපවාලි දීමනාව රු 10,000කින් ඉහළට
+### Deepavali rises to Rs 10,000
 
 *2024-10-30 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202718) · `si`
 
-දෙමළ ජනතාවගේ වැදගත් උත්සව අවස්ථාවක් වන දීපාවලී වෙනුවෙන් රාජ්‍ය වැවිලි සමාගම් විසින් වාර්ෂිකව ලබාදෙන උත්සව දීමනාව රුපියල් දසදහසකින් ඉහළ දමා තිබේ.
+Deepavali festival allowance increased to Rs 10,000 from previous year's Rs 20,000. The Ministry of Plantation and Community Infrastructure made this decision considering the needs of Tamil workers.
 
-මීට පෙර වර්ෂවල එම මුදල රුපියල් දස දහසක්ව පැවති අතර මේ අනුව එය රුපියල් 20,000 දක්වා ඉහළ යනු ඇත.
+🟩
 
-වැවිලි හා ප්‍රජා යටිතල පහසුකම් අමාත්‍යාංශය සඳහන් කළේ, දමිළ කම්කරු ජනතාවගේ මිලදී ගැනීමේ හැකියාව පහළ අගයක පැවතීම සැලකිල්ලට ගෙන මෙම පියවර ගත් බවය.
+The annual festival allowance has been increased by Rs.
+
+In the previous years, the amount has been increased to Rs. 20,000.
+
+The Ministry of Plantation and Community Infrastructure stated that this step was taken into consideration the possibility of purchasing the Tamil working people.
 
 ◼️
 
 [Data](articles/71abf24d.json)
+
+[Extended Data](ext_articles/71abf24d.ext.json)
 
 ---
 
@@ -111,6 +147,38 @@ The Commissioner General of Elections Saman Sri Rathnayake stated that official 
 [Data](articles/ef1fbeb3.json)
 
 [Extended Data](ext_articles/ef1fbeb3.ext.json)
+
+---
+
+### 6 வெளிநாட்டவர்கள் திடீர் கைது
+
+*2024-10-30 09:24:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-வெளிநாட்டவர்கள்-திடீர்-கைது/175-346301) · `ta`
+
+வீசா இன்றி நாட்டில் தங்கியிருந்த 6 வெளிநாட்டவர்கள் சீதுவ - அமந்தொலுவ பிரதேசத்தில் வைத்து கைது செய்யப்பட்டுள்ளனர்.
+
+குடிவரவு குடியகழ்வு சட்டத்தை மீறி வெளிநாட்டவர்கள் குழுவொன்று செயற்படுவதாக கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது சந்தேகநபர்களை கைது செய்ய முடிந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்டவர்கள் 18, 23, 26, 39 மற்றும் 43 வயதுடைய பங்களாதேஷ் பிரஜைகள் என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/1bccf537.json)
+
+---
+
+### தபால் மூல வாக்குப்பதிவு இன்று ஆரம்பம்
+
+*2024-10-30 09:08:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூல-வாக்குப்பதிவு-இன்று-ஆரம்பம்/175-346300) · `ta`
+
+பொதுத் தேர்தலுக்கான தபால் மூல வாக்குகளை அடையாளப்படுத்தும் நடவடிக்கைகள் இன்று (30) ஆரம்பமாகவுள்ளன.
+
+மாவட்ட செயலக அலுவலகங்கள், தேர்தல்கள் ஆணைக்குழு அலுவலகங்கள், பொலிஸ் பரிசோதகர் அலுவலகங்கள் உள்ளிட்ட அனைத்து பொலிஸ் நிலையங்களிலும் இன்று தபால் மூல வாக்குகளை அடையாளப்படுத்துவதற்காக சந்தர்ப்பம் வழங்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இன்றைய தினத்திற்கு மேலதிகமாக, நவம்பர் 4 ஆம் திகதியும் குறித்த அலுவலகங்களில் தபால் மூலம் வாக்களிக்க சந்தர்ப்பம் வழங்கப்பட்டுள்ளது.   R
+
+◼️
+
+[Data](articles/1885452f.json)
 
 ---
 
@@ -803,6 +871,30 @@ The first phase of the school education activities in 2025 will be held from Jan
 [Data](articles/80fdfde0.json)
 
 [Extended Data](ext_articles/80fdfde0.ext.json)
+
+---
+
+### ඉදිරි අවුරුදු කිහිපය තුළ විදුලි බිල දැනෙන්න අඩුකරවා
+
+*2024-10-29 22:38:18* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-අවුරුදු-කිහිපය-තුළ-විදුලි-බිල-දැනෙන්න-අඩුකරවා/11-412753) · `si`
+
+කිසිදු දීමනාවක් හෝ වැටුපක් නොලබා ආර්ථිකය ගොඩනැගීම වෙනුවෙන් සහාය දීමට සූදානම් බව ශ්‍රී ලංකා වාණිජ මණ්ඩල නියෝජිතයෝ පවසති
+
+වත්මන් පාලනය යටතේ ඉදිරි වසර තුන ඇතුළත සමස්ත රට ඩිජිටල්කරණයට කටයුතු කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රකාශ කළේය.
+
+ඩිජිටල්කරණය තුළින් ශ්‍රී ලංකාව වෙනම තලයකට ඔසවා තැබීමට හැකියාව තිබෙන බවත්  ඩිජිටල්කරණයට අදාළ මැදිහත් වීම මේ වන විට වත්මන් රජය ආරම්භ කර ඇති බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ වාණිජ මණ්ඩල නියෝජිතයන් සමඟ  ජනාධිපති ලේකම් කාර්යාලයේදී අද (29) පැවති සාකච්ඡාවකට එක්වෙමිනි.
+
+වාණිජ මණ්ඩලයේ සාමාජිකයින් කිසිදු දීමනාවක් හෝ වැටුපක් නොලබා ආර්ථිකය ගොඩනැගීම වෙනුවෙන් සහාය ලබා දීමට ද මෙහිදී එකඟ විය.
+
+රක්ෂණ ,බැංකු, ඉදිකිරීම්, සංචාරක, වැවිලි කර්මාන්ත, සුළු හා මධ්‍ය පරිමාණ ව්‍යාපාර ඇතුළු ක්ෂේත්‍ර ගණනාවක ගැටලු හා අනාගත ඉලක්ක පිළිබඳ මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණි .
+
+රටේ ආර්ථිකය ගොඩනඟමින් ඊට අනුරූපව ජනතාවට බදු සහන ලබා දීමට කටයුතු කරන බවද ජනාධිපති අනුර කුමාර දිසානායක  මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/64e3949d.json)
 
 ---
 
@@ -1670,9 +1762,9 @@ It is reported that a security guard at the Beliyatta railway station was search
 
 ECONOMYNEXT – Sri Lanka’s central bank has defended its inflationary open market operations where money was injected to overtrading banks pushing up deposits at its standing window to 200 billion rupees by October 29.
 
-Barely a month ago deposits in the window was around 100 to 120 billion rupees.
+Barely a month ago deposits in the window were around 100 to 120 billion rupees.
 
-That was because foreign banks which did not lend in interbank market due to risk limits. This has been well reported earlier. The volumes came down as confidence increased.
+That was because foreign banks which did not lend in the interbank market due to risk limits. This has been well reported earlier. The volumes came down as confidence increased.
 
 Related Sri Lanka injects Rs130bn outright amid high private sector sterilization
 
@@ -2225,105 +2317,5 @@ The 24 -year -old Vigneswaran Ketheeswaran, a 24 -year -old from Christianity, h
 [Data](articles/286ec2dc.json)
 
 [Extended Data](ext_articles/286ec2dc.ext.json)
-
----
-
-### Financial Fraud on Express Pearl Shipment
-
-*2024-10-29 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197430) · `ta`
-
-Express Pearl Fire causes damage to Sri Lankan waters. Accused of financial fraud. New inquiries to be launched. Fishermen face losses.
-
-🟩
-
-The Express Pearl Fire has caused massive damage to the Sri Lankan waters and has been accused of financial fraud in this regard.. Cabinet spokesman Vijitha Herath said new inquiries would be launched soon.
-
-He made this statement at a press conference announcing the Cabinet decisions on Tuesday (29).
-
-Sri Lankan waters have caused heavy damage due to Express Pearl shipping fire. Sri Lankan fishermen faced professional losses.
-
-So we will soon start new investigations in this regard. The inquiries will be carried out based on investigations and legal actions already carried out in this regard.
-
-◼️
-
-[Data](articles/a5d18255.json)
-
-[Extended Data](ext_articles/a5d18255.ext.json)
-
----
-
-### “The Prime Minister's opinion is false”
-
-*2024-10-29 17:11:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமரின்-கருத்து-பொய்யானது/175-346275) · `ta`
-
-Former minister accuses PM of misleading public on salary hike claims.
-
-🟩
-
-Former minister Kanjana Wijesekera has accused Prime Minister Harini Amarasuriya of a recent comment on the proposal of the state sector's salary.
-
-Kanjana Wickremesinghe has posted on his X page that Ranil Wickremesinghe's former government has taken all necessary measures to recognize the salary hike for public servants since January 2025.
-
-“The approval of the Cabinet was appointed to appoint a committee and to evaluate the state sector and pay hikes by May 2024. The group met with trade unions and shareholders and discussed public sector issues. The recommendations of the committee were handed over to the President and submitted to the Cabinet and approved by August 2024, ”he said.
-
-He added that the Cabinet approved in August 2024 to allocate the necessary funds for the 2025 budget proposals.
-
-Kanchana Wijesekera said that the committee included the officials of the Treasury, Budget Department, Management Services and other required shareholders.
-
-...
-
-[Data](articles/600402d6.json)
-
-[Extended Data](ext_articles/600402d6.ext.json)
-
----
-
-### Thanks to the opposition parties for free campaign for national people's power
-
-*2024-10-29 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197418) · `ta`
-
-Opposition parties funded free campaigns against national power. Voters ignored opposition efforts, supporting national power instead. Political parties claim to serve people but focus on gaining power and property.
-
-🟩
-
-In the last presidential election, a non -governmental organization campaigned in plantation areas not to vote for national people's power. The opposition parties united and paid the money and paid a thousand rupees to each family.
-
-But people ignored it and voted for the power of the national people. Similarly, there are incidents of parliamentary elections. Former Member of Kotagala Pradeshiya Sabha Raja said the opposition to the Opposition Malaysian Party for carrying out free campaigns.
-
-Raja is a member of the National People's Power and a former member of the Kotagala Pradeshiya Sabha. He made this statement during a public meeting in Kotagala.
-
-The upcountry political parties are telling the people about what happens if the national people will rule about what they have done in the past.. This is a free campaign for us.
-
-Moreover, a major party will be pleading with the people to vote for their party to protect the ministry with the government after the election.
-
-...
-
-[Data](articles/525bf8d9.json)
-
-[Extended Data](ext_articles/525bf8d9.ext.json)
-
----
-
-### Sri Lanka stocks close up, HNB sees interest
-
-*2024-10-29 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-hnb-sees-interest-185492/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader ASPI closed up 1.07 percent, or 135.54 points, at 12,745; while the more liquid S&P SL20 Index closed up 1.71 percent, or 64.83 points, at 3,855.
-
-Top turnover generators were Hatton National Bank (up at 230.25), Sampath Bank (up at 88.10), Commercial Bank (up at 117.50), Lanka IOC (up at 115.75) and CIC Holdings (up 81.50).
-
-Melstacorp (up at 93.10), and Cargills (up at 392.75) were among the top contributors to the ASPI.
-
-Crossings were recorded on HNB, Commercial Bank, LB Finance (up at 74.20), Sampath Bank, CIC Holdings (up at 81.50), Seylan Bank (up at 53.50), Sunshine Holdings (flat at 66.90), and ACL Cables (up at 92.50).
-
-Foreign buying interest was seen in Lankem Developments (up at 22.10), Dipped Products (up at 39.10), Sampath Bank, Richard Pieris and Co (up at 22.60), CIC, and Chevron Lubricants (up at 126.50)
-
-...
-
-[Data](articles/4e5ccfbb.json)
-
-[Extended Data](ext_articles/4e5ccfbb.ext.json)
 
 ---

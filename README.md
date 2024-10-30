@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 23:24:04**
+As of **2024-10-30 23:40:47**
 
 ## Newspaper Stats
 
-*Scraped **52,266** Articles*
+*Scraped **52,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 414
 colombotelegraphcom | 530
 bbccomsinhala | 534
 islandlk | 3,106
-economynextcom | 3,172
+economynextcom | 3,180
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,861
-adaderanalk | 6,201
+adaderanalk | 6,202
 tamilmirrorlk | 7,246
 virakesarilk | 8,441
 adaderanasinhalalk | 9,104
@@ -26,11 +26,35 @@ adaderanasinhalalk | 9,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,266 (100.0%) of 52,266 articles have been extended.
+52,267 (100.0%) of 52,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Railway Station Masters temporarily call off strike
+
+*2024-10-30 23:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103049/railway-station-masters-temporarily-call-off-strike) · `en`
+
+Railway Station Masters have decided to temporarily call off their strike action from midnight today (October 30).
+
+The decision was taken due to the Deepavali festival which falls tomorrow (October 31), according to the Sri Lanka Railways Station Masters’ Union.
+
+Railway Station Masters had resorted to trade union action by withdrawing from all ticketing duties from 4.30 p.m. today (30).
+
+However, the union had stated that there will be no disruptions to train services.
+
+On Tuesday (29), the Railway Station Masters’ Union warned that they will launch a strike action starting from midnight today (30), if their demands are not met during the discussion with the subject minister.
+
+The union decided to launch an immediate trade union action, over issues pertaining to the post of Railway Station Masters.
+
+...
+
+[Data](articles/5ea2036a.json)
+
+[Extended Data](ext_articles/5ea2036a.ext.json)
+
+---
 
 ### The railway station principals abandoned the struggle
 
@@ -464,6 +488,26 @@ We have received information that Sri Lankans have no impact yet. At the same ti
 
 ---
 
+### Sri Lanka Seylan bank Net up 4.6-pct in September 2024 quarter
+
+*2024-10-30 18:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-seylan-bank-net-up-4-6-pct-in-september-2024-quarter-185749/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s Seylan Bank Plc group grew 4.61 percent to 2.06 billion rupees in the September, 2024 quarter, interim accounts showed.
+
+The group reported earnings of 3.25 rupees for the quarter, and the shares closed 0.56 percent stronger at 53.80 rupees on Wednesday (30).
+
+Interest income fell 26.08 percent to 19.76 billion rupees during the quarter and interest expenses fell by a faster 33.53 percent to 11 billion rupees resulting in a 13.97 percent fall in Net Interest income to 8.76 billion rupees.
+
+Losses in trading turned onto gains with a 561 percent growth to 37.6 billion rupees from the same quarter last year.
+
+The Bank in its financial statement said it had ensured the impairment provision was made to capture the changes in global and local economy, credit risk profile of customers and credit quality of the Bank’s loan portfolio in order to ensure adequacy of provisions recognized in the financial statements.
+
+...
+
+[Data](articles/4fe4aca1.json)
+
+---
+
 ### Sri Lanka to probe ‘corruption’ in handling of X-Press Pearl disaster - report
 
 *2024-10-30 18:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103046/sri-lanka-to-probe-corruption-in-handling-of-x-press-pearl-disaster-report) · `en`
@@ -583,6 +627,24 @@ Broke the rocks and tried to recover through the rope and chain. But he was trap
 [Data](articles/17261b86.json)
 
 [Extended Data](ext_articles/17261b86.ext.json)
+
+---
+
+### India reiterates to avoid use of force in Sri Lanka seas after deaths
+
+*2024-10-30 17:42:00* · [`economynextcom`](https://economynext.com/india-reiterates-to-avoid-use-of-force-in-sri-lanka-seas-after-deaths-185746/) · `en`
+
+ECONOMYNEXT – India has strongly reiterated not to use force on their fishermen in Sri Lanka’s Northern seas, the Indian High Commission in Colombo said after a joint meeting between top officials of the countries in Colombo.
+
+The 6th meeting of the India-Sri Lanka Joint Working Group (JWG) on Fisheries was held on Tuesday (29) in Colombo.
+
+The meeting comes weeks after deaths when the island nation’s navy attempted to stop poaching of Indian fishermen into Sri Lanka’s Northern Seas where local fishermen have increasingly complained of depletion of fish catch due to Indian bottom trawlers.
+
+“Both sides agreed that the highest priority should be accorded to address the various issues faced by fishermen in a humanitarian manner as they pertain to livelihood concerns on both sides,” the Indian High Commission in Colombo said in a statement.
+
+...
+
+[Data](articles/14129625.json)
 
 ---
 
@@ -822,6 +884,66 @@ While the program has existed in seven other provinces across Sri Lanka over the
 
 ---
 
+### Sri Lanka’s Chevron Lubricants September net up 14-pct; finance cost falls
+
+*2024-10-30 16:44:00* · [`economynextcom`](https://economynext.com/sri-lankas-chevron-lubricants-september-net-up-14-pct-finance-cost-falls-185736/) · `en`
+
+ECONOMYNEXT – Profits at Sri Lanka’s Chevron Lubricants grew 14 percent from a year ago to 1,031 million rupees in the September 2024 quarter, the interim accounts showed as the cost of sales and finance cost fell compared to the same quarter in the previous year.
+
+The firm reported earnings of 4.30 rupees for the quarter. The stock closed at 127 rupees, up 50 cents.
+
+The firm faced higher finance costs in the September quarter last year. The finance cost plummeted 60 percent to 20.6 million rupees in the quarter compared to 50.1 million in the September quarter last year.
+
+Gross profits edged up 7 percent to 2,113.1 million rupees despite revenue falling 7 percent to 5,993.6 million rupees while cost of sales fell 3 percent to 3,880.5 million in the quarter.
+
+Sri Lanka’s interest rates have fallen after the central bank cut the key monetary policy rates sharply since last year to boost credit and economic growth.
+
+...
+
+[Data](articles/ca8d7e9c.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 293.00/20 to dollar, bond yields steady
+
+*2024-10-30 16:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-293-00-20-to-dollar-bond-yields-steady-185732/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 293.00/20 to the US dollar Wednesday after opening at 293.50/60, dealers said, while bond yields were steady.
+
+A bond maturing on 15.03.2028 closed at 11.75/80 percent, from 11.70/75 percent.
+
+A bond maturing on 15.06.2029 closed stable at 11.95/12.10 percent. (Colombo/Oct30/2024)
+
+◼️
+
+[Data](articles/a4d20d22.json)
+
+---
+
+### Sri Lanka stocks close up, turnover at Rs7bn
+
+*2024-10-30 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-rs7bn-185728/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader ASPI closed up 0.20 percent, or 24.98 points, at 12,770; while the more liquid S&P SL20 Index closed up 0.22 percent, or 8.59 points, at 3,864.
+
+A crossing on Harischandra Mills (flat at 4,040.50) contributed over a billion to the turnover.
+
+“There has been an increase in retail activity in the market with the uncertainty receding, and rates coming down,” market participants said.
+
+There was also a crossing on Swadeshi Industrial Works (flat at 15,003.50) with high net worth individuals being active.
+
+“If you take these transactions out, the turnover was still high.”
+
+Top contributors to the ASPI were Melstacorp (up at 95.90), NDB (up at 87.60), CFIN (up at 125.50), Hayleys (106.00) and Tokyo Cement (up at 52.660). (Colombo/Oct30/2024)
+
+◼️
+
+[Data](articles/3de7b52e.json)
+
+---
+
 ### Railway Station Masters withdraw from ticketing duties
 
 *2024-10-30 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103041/railway-station-masters-withdraw-from-ticketing-duties) · `en`
@@ -935,6 +1057,24 @@ Criminal Damunupola explained how to grip on your WhatsApp account to the crimin
 [Data](articles/5a13ae72.json)
 
 [Extended Data](ext_articles/5a13ae72.ext.json)
+
+---
+
+### Sri Lanka’s ISF to design coconut processing plants for Indonesia’s NICO COCO
+
+*2024-10-30 16:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-isf-to-design-coconut-processing-plants-for-indonesias-nico-coco-185720/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s ISF Industries said it has signed an agreement to design advanced processing facilities for Indonesia’s NICO COCO, a coconut products maker.
+
+ISF can provide automated process solutions using artificial intelligence (AI), giving real-time management information and cost-saving measures.
+
+“This initiative will pave the way for ISF to become a leading solutions provider for the coconut processing industry in Indonesia and the Southeast Asian market,” Director of ISF, Anjula Sivakumaran said.
+
+The agreement with PT Natural Indococonut Organik (NICO COCO), Indonesia’s leading coconut products manufacturer, is set to drive advancements in coconut processing technology in the region.
+
+...
+
+[Data](articles/e950818a.json)
 
 ---
 
@@ -1247,6 +1387,24 @@ It is said that 33,000 watts of high -power and several houses are located near 
 [Data](articles/ea7c50e4.json)
 
 [Extended Data](ext_articles/ea7c50e4.ext.json)
+
+---
+
+### Explainer – How anti-India sentiment has receded in Sri Lanka’s current election
+
+*2024-10-30 14:05:00* · [`economynextcom`](https://economynext.com/explainer-how-anti-india-sentiment-has-receded-in-sri-lankas-current-election-185668/) · `en`
+
+ECONOMYNEXT – Sri Lanka has generally seen anti-Indian sentiment rise close to its elections, but this has been notably absent in the run up to the general election on November 14.
+
+The most recent case when anti-Indian sentiment was whipped up was when India’s Adani group was to be awarded a Mannar wind power plant which came without a tender, ahead of the presidential election.
+
+In June, three environmentalists and a Catholic Bishop filed a fundamental rights (FR) petition in Sri Lanka’s Supreme Court over Adani Green Energy’s Mannar wind power plant citing lack of transparency, secrecy of public information, biased environmental impact assessement (EIA), and the pricing.
+
+The Indian company has complained of a possible “vicious campaign” against its 250 MW wind-powered energy project in Mannar and has said it has followed all the procedures.
+
+...
+
+[Data](articles/14a9d04e.json)
 
 ---
 
@@ -1916,6 +2074,24 @@ He said that Ravi Seneviratne and Shani Abeysekara, who was named as the accused
 
 ---
 
+### Debate erupts in Sri Lanka over open market vs primary market purchases
+
+*2024-10-30 11:30:00* · [`economynextcom`](https://economynext.com/debate-erupts-in-sri-lanka-over-open-market-vs-primary-market-purchases-185676/) · `en`
+
+ECONOMYNEXT – A debate is raging in Sri Lanka over open market operations of the central bank, several years after wide acceptance was gained among the public and policy makers that primary market purchases led to monetary instability.
+
+The debate in part appears to have been sparked by a column in EconomyNext which warned against the dangers of open market injections of money by the central bank as private credit starts to recover.
+
+After several years of debate which started about almost two decades ago, there is general acceptance in Sri Lanka now that outright purchases of Treasury securities primary market (auctions) are bad and also that so-called ‘provisional advances’ by the central bank is bad.
+
+In an outright purchase by the central bank of a new issue of Treasury bills, the money goes into the DST accounts of a state bank, which will be spent and end up in a private or state bank account customer, boosting rupee reserves of the bank, explains EN’s economic columnist Bellwether.
+
+...
+
+[Data](articles/f21eb5ac.json)
+
+---
+
 ### Former Minister Johnston Fernando produced before court
 
 *2024-10-30 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103028/former-minister-johnston-fernando-produced-before-court) · `en`
@@ -2209,229 +2385,5 @@ President of the association Sumedha Somaratne said that stated that a discussio
 [Data](articles/9fa36968.json)
 
 [Extended Data](ext_articles/9fa36968.ext.json)
-
----
-
-### Johnston takes over court
-
-*2024-10-30 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202721) · `si`
-
-Former Minister Johnston Fernando arrested for possessing unregistered BMW stolen from England in 2021. CID investigation reveals his involvement in BMW theft ring.
-
-🟩
-
-Former Minister Johnston Fernando was brought to the Fort Magistrate today (30).
-
-Johnston Fernando was arrested by the Criminal Investigation Department officials in connection with the suspension of a BMW in Colombo.
-
-It has been revealed that the unregistered BMW type car in England has been subjected to the stolen of the unregistered BMWs to the former Minister Johnston Fernando.
-
-Investigations have revealed that this was a car stolen from England in 2021 in the event of the International Police Database in the International Police.
-
-Former Minister Johnston Fernando was arrested in connection with the possession of an unregistered BMW car in Sri Lanka.
-
-The Criminal Investigations Department (CID) officials were arrested and produced before the court after the Criminal Investigation Department was taken to the Criminal Investigation Department.
-
-...
-
-[Data](articles/c401486d.json)
-
-[Extended Data](ext_articles/c401486d.ext.json)
-
----
-
-### November 1st holiday for Tamil schools in Central Province
-
-*2024-10-30 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/197473) · `ta`
-
-Tamil schools in Central Province get Nov 1 off due to advice from Abayakon. Holiday moved to Nov 9.
-
-🟩
-
-The Secretary to the Ministry of Education of the Central Province Menaka Herath said that all Tamil language schools in the Central Province have been announced as a special holiday on Friday (01).
-
-Central Province Governor Professor S. B.. S.. Menaka Herath added that the decision has been taken on the advice of Abayakon and that the schools have been held on Saturday 9th November instead of the holidays.
-
-◼️
-
-[Data](articles/8d8a634e.json)
-
-[Extended Data](ext_articles/8d8a634e.ext.json)
-
----
-
-### Deepavali festival allowance raised by Rs. 10,000
-
-*2024-10-30 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103024/deepavali-festival-allowance-raised-by-rs-10000) · `en`
-
-In celebration of Deepavali, a significant festival for the Tamil community, the Sri Lanka State Plantations Corporation has increased the annual festival allowance by Rs. 10,000.
-
-Previously, the amount was R.10, 000 and thus it will now be increased to Rs. 20,000.
-
-Ministry of Plantation Industries stated that the decision to increase the special festival allowance was taken considering the drop in the purchasing power of plantation workers.
-
-◼️
-
-[Data](articles/be1c23b1.json)
-
-[Extended Data](ext_articles/be1c23b1.ext.json)
-
----
-
-### Israeli air strikes killed in clashes
-
-*2024-10-30 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202720) · `si`
-
-Israeli airstrikes hit North Gaza, killing 93, including children. Residential building destroyed, trapping bodies. Healthcare crisis due to staff and medication shortages.
-
-🟩
-
-93 persons were killed in Bair Lahiah in the North Gaza.
-
-Foreign media reports that the victims are children among the dead.
-
-The attack was targeted at a five-storey residential building.
-
-A large number of dead bodies are trapped between the building debris.
-
-Foreign media reports stated that it is difficult to treat patients due to the shortage of healthcare staff and drug shortages.
-
-◼️
-
-[Data](articles/4536b3bc.json)
-
-[Extended Data](ext_articles/4536b3bc.ext.json)
-
----
-
-### Postal vote in Mullaithivu
-
-*2024-10-30 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/197468) · `ta`
-
-Postal voting begins in Mullaitivu for parliamentary elections. 3,947 candidates qualify. Voting takes place at 11 locations, including district secretariat and police stations.
-
-🟩
-
-Postal voting for the parliamentary election began today (30).
-
-Postal voting activities are being launched in the Mullaitivu District and the Mullaitivu District Secretariat is giving their postal votes.
-
-Meanwhile, arrangements have been made to cast their postal votes today at 11 polling stations, including the Mullaitivu District Secretariat, District Election Office and the District Police Stations.
-
-Meanwhile, 3,947 candidates in the Mullaitivu constituency in the Vanni electoral district have qualified for the postal voting.
-
-◼️
-
-[Data](articles/eec045ed.json)
-
-[Extended Data](ext_articles/eec045ed.ext.json)
-
----
-
-### Six Bangladeshis arrested without valid visas
-
-*2024-10-30 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103023/six-bangladeshis-arrested-without-valid-visas) · `en`
-
-Six Bangladeshi nationals who were residing in the country without valid visas in violation of immigration and emigration regulations have been arrested in the Amandoluwa area of Seeduwa.
-
-Acting on a tip-off, the police arrested the relevant group during a raid.
-
-The group includes six Bangladeshi nationals aged 18, 23, 26, 39, and 43, according to police.
-
-Seeduwa Police is conducting further investigations into the arrested suspects.
-
-◼️
-
-[Data](articles/b5a8b5ac.json)
-
-[Extended Data](ext_articles/b5a8b5ac.ext.json)
-
----
-
-### Friends Liquor Party Saw the Life
-
-*2024-10-30 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202719) · `si`
-
-Heated argument leads to fatal assault at liquor party. 58-year-old man killed. Suspect arrested. Police investigating.
-
-🟩
-
-A person has been killed due to a heated argument with two people.
-
-The incident was reported from the Yidogama Police Division in the Hidogama police division.
-
-The victim was a 58 year old resident of the Nachchuwa area.
-
-A complaint lodged with the Hidogama Police received a complaint with a person who was dead.
-
-අදාළ මෘත ශරීරය සම්බන්ධයෙන් නාච්චාදූව රෝහලේදී හදිසි මරණ පරීක්ෂණය පවත්වා පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීම සඳහා පසුගිය 28 වනදා අනුරාධපුර රෝහල වෙත යොමු කර තිබුණි.
-
-Accordingly, the post mortem examination of the body was carried out by the judiciary yesterday (29) and was a death of the death of the death.
-
-පසුගිය 27 වන දින මරණකරු ඔහුගේ මිතුරන් සිව්දෙනෙකු සමඟ මත්පැන් පානය කර ඇති බවත්, එහිදී මරණකරු බීමත්ව සිටි ඔහුගේ මිතුරෙකු සමඟ බහින් බස්වීමක් දුරදිග යාම හේතුවෙන් මරණකරුගේ මුහුණට අතින් පයින් පහර දී ඇති බවට පොලීසිය දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී තිබේ.
-
-A suspect, a 33-year-old resident of the Nachchaduwa area has been arrested in connection with the assault.
-
-...
-
-[Data](articles/33a8a140.json)
-
-[Extended Data](ext_articles/33a8a140.ext.json)
-
----
-
-### Deepavali rises to Rs 10,000
-
-*2024-10-30 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202718) · `si`
-
-Deepavali festival allowance increased to Rs 10,000 from previous year's Rs 20,000. The Ministry of Plantation and Community Infrastructure made this decision considering the needs of Tamil workers.
-
-🟩
-
-The annual festival allowance has been increased by Rs.
-
-In the previous years, the amount has been increased to Rs. 20,000.
-
-The Ministry of Plantation and Community Infrastructure stated that this step was taken into consideration the possibility of purchasing the Tamil working people.
-
-◼️
-
-[Data](articles/71abf24d.json)
-
-[Extended Data](ext_articles/71abf24d.ext.json)
-
----
-
-### Dictok founder became Chinese Millionaire
-
-*2024-10-30 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197465) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Zhang Yiming, co-founder of TikTok's parent company ByteDance, becomes Chinese billionaire. Resigned in 2021 amid US-China tensions. Despite global popularity, TikTok faces potential US ban by 2025. Hurun Research values his net worth at $4.93 billion, ranking him among China's top billionaires.
-
-🟩
-
-Zhang Yiming, co -founder of Dictock's mother company, is globally popular, Jong Yiming, a billionaire in China.
-
-Zhang Yiming is on the list of billionaires produced by Hurun Research Institute with a value of Rs 49.3 billion.
-
-In 2021, 41 -year -old Zhang Yiming resigned.
-
-Although some countries are deeply saddened by the relations with the Chinese state, Dictok has changed one of the most popular social media in the world.
-
-Although both companies insist that they are operating independently from the Chinese government, the US plans to ban it by 2025 if Bait Dance does not sell Dictok.
-
-In the meantime, the US has increased the profits worldwide last year, despite the heavy pressure of the United States.This has increased the personal property of Zhang Yiming.
-
-Harun Rupert Hugwarf said, "Sang Yiming is the 18th new billionaire we have received in China in the last 26 years."
-
-...
-
-[Data](articles/d1426f0a.json)
-
-[Extended Data](ext_articles/d1426f0a.ext.json)
 
 ---

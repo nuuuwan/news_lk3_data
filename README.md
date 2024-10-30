@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 15:40:35**
+As of **2024-10-30 16:24:49**
 
 ## Newspaper Stats
 
-*Scraped **52,224** Articles*
+*Scraped **52,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ islandlk | 3,106
 economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,856
-adaderanalk | 6,192
+adalk | 4,857
+adaderanalk | 6,194
 tamilmirrorlk | 7,243
-virakesarilk | 8,431
+virakesarilk | 8,433
 adaderanasinhalalk | 9,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,221 (100.0%) of 52,224 articles have been extended.
+52,226 (100.0%) of 52,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Petitions against waiving off EPF interest rates during debt restructuring dismissed
+
+*2024-10-30 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103040/petitions-against-waiving-off-epf-interest-rates-during-debt-restructuring-dismissed) · `en`
+
+The Supreme Court has dismissed four petitions filed seeking a ruling that the fundamental human rights have been violated through the government’s recent decision to reduce the interest paid for the investments of Employees’ Provident Fund (EPF) in treasury bills and bonds to 9%, under the domestic debt restructuring process.
+
+This order was issued by the court today (30), after accepting the preliminary objections raised by several parties including the Attorney General that the relevant petitions cannot be maintained since Fundamental Rights petitions filed pertaining to the same matter have been dismissed earlier without taking into consideration.
+
+The four petitions filed by several parties including the Katunayake Free Trade Zone Workers’ Union were taken up before the three-member Supreme Court judge bench consisting of Justices Preethi Padman Surasena, Kumuduni Wickremesinghe and Achala Vengappuli today.
+
+◼️
+
+[Data](articles/23261b0b.json)
+
+---
+
+### Advisory issued for thundershowers and severe lightning
+
+*2024-10-30 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103039/advisory-issued-for-thundershowers-and-severe-lightning) · `en`
+
+The Meteorology Department warns that thundershowers accompanied by severe lightning are likely to occur at several places in Uva and Eastern provinces and in Hambantota, Polonnaruwa, Mullaittivu, Kilinochchi and Jaffna districts.
+
+There may be temporary localized strong winds during thundershowers, the department said.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public is further requested to seek shelter, preferably indoors and never under trees, avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, avoid using wired telephones and connected electric appliances during thunderstorms and also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
+
+For emergency assistance, the public is requested to contact local disaster management authorities.
+
+◼️
+
+[Data](articles/0922f654.json)
+
+[Extended Data](ext_articles/0922f654.ext.json)
+
+---
+
+### ஸ்பெயினில் வெள்ளப்பெருக்கு : 51 பேர் பலி
+
+*2024-10-30 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/197515) · `ta`
+
+தென்கிழக்கு ஸ்பெயினில் பெய்த கனமழையால் ஏற்பட்ட திடீர் பெள்ளப்பெருக்கில் சிக்கி குறைந்தது 51 பேர் உயிரிழந்துள்ளார்கள்.
+
+ஸ்பெயினில் பலத்த மழை மற்றும் ஆலங்கட்டி மழையால் பல பகுதிகளில் வெள்ளப்பெருக்கு ஏற்பட்டுள்ளது.
+
+வெள்ளப் பெருக்கில் சிக்கிய மக்களை மீட்கும் பணிகள் தொடர்ந்து நடைபெற்றுவருவதால் உயிரிழப்பு எண்ணிக்கையை சரியாக தெரிவிக்க முடியாது என  வலென்சியா பிராந்தியத்தின் தலைவர் கார்லோஸ் மசோன் தெரிவித்துள்ளார்.
+
+வலென்சியா பிராந்தியத்தில் உள்ள சிவா பகுதியில் செவ்வாய்கிழமை  எட்டு மணித்தியாலங்களில் 491 மில்லி மீற்றர் மழை பதிவாகியுள்ளது. இது ஸ்பெயினில் ஒரு வருடத்தில் பெய்யும் மழைக்கு சமனானது என அந்நாட்டு வானிலை நிலையம் தெரிவித்துள்ளது.
+
+வெள்ளத்தால் மோசமாக பாதிக்கப்பட்டுள்ள லெட்டூர் நகராட்சியில் காணாமல் போனவர்களைத் தேடுவதற்கு அவசர சேவைப் பணியாளர்கள் ட்ரோன்களைப் பயன்படுத்துவதாக தெரிவிக்கப்படுகிறது.
+
+வலென்சியா பகுதிக்கு சிவப்பு எச்சரிக்கை மற்றும் அண்டலூசியாவின் பகுதிகளில் இரண்டாவது மிக உயர்ந்த அளவிலான எச்சரிக்கையையும் ஸ்பெயினின் மாநில வானிலை அறிவித்துள்ளது.
+
+...
+
+[Data](articles/572363d6.json)
+
+---
 
 ### Colombo’s inflation drops to -0.8% in October 2024
 
@@ -48,23 +108,31 @@ The Month-on-Month change was contributed by -0.20% from food and -0.33% from no
 
 [Data](articles/0ee1eeb0.json)
 
+[Extended Data](ext_articles/0ee1eeb0.ext.json)
+
 ---
 
-### කොළඹ උද්ධමනයේ වෙනසක්
+### A change in Colombo inflation
 
 *2024-10-30 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202734) · `si`
 
-2024 සැප්තැම්බර් මාසයේ  -0.5%ක් ලෙස වාර්තා වූ කොළඹ උද්ධමනය 2024 ඔක්තෝබර් මාසයේදී -0.8% ක් දක්වා අඩු වී ඇත.
+Colombo inflation drops from -1.5% in September 2024 to 90.8% in October 2024. Food inflation rises from -1.3% to 1.0%, while non-food inflation decreases from -10.5% to 1.6%.
 
-2024 ඔක්තෝබර් මාසයේ දී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය  1.0% දක්වා වැඩි වී ඇති අතර 2024 සැප්තැම්බර් මාසයේ දී එය වාර්තා වුයේ -0.3%ක්  ලෙසය.
+🟩
 
-එමෙන්ම,  2024 ඔක්තෝබර් මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය -1.6%  ක් දක්වා අඩු වී ඇති අතර එය 2024 සැප්තැම්බර් මාසයේ දී -0.5%  ක් ලෙස වාර්තා විය.
+Colombo inflation recorded as - 01.5% of September 2024 has been reduced to 90.8% in October 2024.
 
-ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව 2024 ඔක්තෝබර් මාසය සඳහා කොළඹ පාරිභෝගික මිල දර්ශකය සහ කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය  ප්‍රකාශයට පත් කරමින් ඒ බව සඳහන් කරයි.
+In October 2024, the annual inflation of food category has increased to 1.0% and in September 2024, it was reported as-01.3%.
+
+Non-food annual inflation has been reduced to 1.6% for October 2024, and September 2024 was reported to-10.5% in September 2024.
+
+The Department of Census and Statistics stated that the Colombo Consumer Price Index and the Consumer Install of the Colombo Municipal Community.
 
 ◼️
 
 [Data](articles/c4e29b0a.json)
+
+[Extended Data](ext_articles/c4e29b0a.ext.json)
 
 ---
 
@@ -108,6 +176,22 @@ The people informed the people to take measures to be temporarily strong in thes
 
 ---
 
+### சப்ரகமுவ மாகாணத்திலும் தமிழ் பாடசாலைகளுக்கு நவம்பர் முதலாம் திகதி விடுமுறை !
+
+*2024-10-30 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197510) · `ta`
+
+சப்ரகமுவ மாகாணத்திலுள்ள அனைத்து தமிழ் மொழி மூல பாடசாலைகளுக்கும் நவம்பர் மாதம் முதலாம் திகதி விசேட விடுமுறையாக அறிவிக்கப்பட்டுள்ளதாக சப்ரகமுவ மாகாண கல்வி அமைச்சின் செயலாளர் தெரிவித்துள்ளார்.
+
+குறித்த விடுமுறை தினத்துக்கு பதிலாக நவம்பர் மாதம் 9 ஆம் திகதி சனிக்கிழமை பாடசாலைகளை நடத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக சப்ரகமுவ மாகாண கல்வி அமைச்சின் செயலாளர் தெரிவித்துள்ளார்.
+
+அத்துடன், தீபாவளி பண்டிகையை முன்னிட்டு மத்திய மற்றும் ஊவா மாகாணத்திலுள்ள தமிழ் மொழி மூல பாடசாலைகளுக்கும் நாளை மறுதினம் (01) விடுமுறை வழங்கப்படவுள்ளதாக மாகாண கல்வி செயலாளர்கள் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/0cdc2907.json)
+
+---
+
 ### Chinese Space Top
 
 *2024-10-30 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202732) · `si`
@@ -141,6 +225,28 @@ The Chinese authorities expect that by 2030, Chinese authorities will support th
 [Data](articles/ac114514.json)
 
 [Extended Data](ext_articles/ac114514.ext.json)
+
+---
+
+### Can't do this with Babbu - Prime Minister Harini wants to say about the Law
+
+*2024-10-30 14:48:28* · [`adalk`](https://www.ada.lk/breaking_news/බබ්බු-එක්ක-මේක-කරන්න-බෑ---අගමැති-හරිනිට-ව්‍යවස්ථාව-ගැන-ඕනී-නම්-කියලා-දෙන්නම්/11-412759) · `si`
+
+Ranil Wickremesinghe criticizes Harini Amarasuriya's salary hike plan, saying it lacks Cabinet approval and constitutional knowledge. He offers to explain the constitution himself.
+
+🟩
+
+Former President Ranil Wickremesinghe said that if Prime Minister Harinini Amarasuru wanted to know the constitution, he said he was ready to come and explain it.
+
+He was speaking at a public rally in Pannala, he said.
+
+"Prime Minister Harini Amarasuriya made a statement. Ranil Wickremesinghe has now decided to increase public employees' salaries. The decision was not obtained from the Treasury or the Finance Ministry officials. Motivating the People A False Promise of the Election. Follow the cabinet that it is the approval of the officers. Where did the Constitution learned?The cabinet is the country's control. Never say about an officer. If you want to know about the Constitution, I'll come. Otherwise tell our former Prime Minister. Want to be experienced. Can't do this with Babu. "
+
+◼️
+
+[Data](articles/52feb07f.json)
+
+[Extended Data](ext_articles/52feb07f.ext.json)
 
 ---
 
@@ -386,19 +492,25 @@ Former Minister Johnston Fernando was released on bail regarding the possession 
 
 ---
 
-### ආණ්ඩුවට එරෙහි ජනතා පිළිකුල පෙන්වන්න කරන දේ ගැන ගම්මන්පිලගෙන් ප්‍රකාශයක්
+### Gammanpila a statement about what we do against the government
 
 *2024-10-30 13:11:44* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවට-එරෙහි-ජනතා-පිළිකුල-පෙන්වන්න-කරන-දේ-ගැන-ගම්මන්පිලගෙන්-ප්‍රකාශයක්/11-412758) · `si`
 
-වත්මන් ආණ්ඩුවට එරෙහි ජනතාවගේ පිළිකුල පෙන්වීම සඳහා මහජන පෙත්සමක් අත්සන් කිරීමට බලාපොරොත්තු වන බව සර්ව ජන බලයේ මහ මැතිවරණ අපේක්ෂක උදය ගම්මන්පිල මහතා පැවසීය.
+Udaya Gammanpila calls for public petition against current government. He criticizes previous administrations' handling of laws, seeking to restore public trust.
 
-සර්වජන බලය අද (30දා) පැවැත්වු මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-“නීතියේ ආදිපත්‍ය පිහිටුවනවා කියලා , හිටපු ජනාධිපතිවරුන් නීතිය අයුතු ලෙස භාවිතා කරනවා කියලා විවේචනය කරපු මාලිමාව තමන්ගේ පළවෙනි මාසය තුළම නීතිය අයුතු ලෙස භාවිතා කිරීම ගැන ජනතාවගේ පිළිකුල ජනාධිපතිවරයාට දන්වන්න අපි මහජන පෙත්මක් අත්මන් කරන්න බලාපොරොත්තු වෙනවා.”
+The general election candidate, Udaya Gammanpila, he said that a public petition is expected to sign a public petition to show the disgust against the present government.
+
+He was speaking at a media briefing held at a press conference held today (30).
+
+"The compass that criticized the law of the law to establish the law, the compass that the former presidents mislead the law in their first month, we hope to demonstrate the reputation of the people."
 
 ◼️
 
 [Data](articles/27c3984c.json)
+
+[Extended Data](ext_articles/27c3984c.ext.json)
 
 ---
 
@@ -2249,145 +2361,5 @@ It is reported that a security officer at the Beliatta railway station was searc
 [Data](articles/22bcfd51.json)
 
 [Extended Data](ext_articles/22bcfd51.ext.json)
-
----
-
-### දුරකතන සමාගම් ඔබේ පැරණි දුරකතන අංක යළි නිකුත් කිරීම නිසා ඔබට විය හැකි හානි
-
-*2024-10-30 02:05:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cde7kj0yxz1o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka telecom companies reissue old phone numbers due to shortages. This can cause issues like fraud or misuse of recycled numbers. The Telecommunication Regulatory Commission allows reuse of disconnected numbers after 6 months to address the shortage. However, this practice raises concerns about privacy and security.
-
-🟩
-
-දුරකතන සමාගම් ඔබේ පැරණි දුරකතන අංක යළි නිකුත් කිරීම නිසා ඔබට විය හැකි හානි
-
-"Can a Mudalali Simple load?How much is the Cube? "This call was received through the mobile phone, not a building material for sale.
-
-ඔහු සේවය කරන ආයතනයේ ම තවත්, මාධ්‍යවේදිනියකට කෙටි පණිවුඩයක් ලැබී තිබිණි.
-
-It was called a reminder to renew the ship's catch test certificate this year.
-
-A person who was working in a private bank had been asked to give a loan back through a call.
-
-All the issues related to the newly purchased telephone numbers appear to have been purchased.
-
-Further investigations into the telephone numbers and the telephone numbers received by the problem numbers and the number of SMS received show that they were previously used.
-
-The telephone numbers used before telephone numbers are not murmured due to telephone numbers and various text messages.
-
-...
-
-[Data](articles/e8616377.json)
-
-[Extended Data](ext_articles/e8616377.ext.json)
-
----
-
-### In the election to protect Tamil representation -. Kukadasan
-
-*2024-10-30 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197461) · `ta`
-
-Sri Lanka Tamil State Party contests election to protect Tamil representation in Trincomalee, led by Parliamentarian Shanmugam Kukadasan.
-
-🟩
-
-"We are contesting the election to protect the Tamil representation in Trincomalee," said Parliamentarian Shanmugam Kukadasan in front of the Sri Lanka Tamil State Party chief candidate.
-
-He made this statement during a public meeting held at Thambalakamam in Trincomalee on Tuesday evening (29) evening.
-
-அவர் மேலும் தெரிவித்ததாவது வடக்கு, கிழக்கில் திருகோணமலையில் மாத்திரமே தமிழர் பிரதிநிதித்துவத்தை பாதுகாக்க இலங்கை தமிழ் அரசு கட்சி தமிழ்த்தேசிய கூட்டமைப்பாக கட்சிகளுடன் இணைந்து போட்டியிடுகின்றது என்றார்.
-
-◼️
-
-[Data](articles/767510f3.json)
-
-[Extended Data](ext_articles/767510f3.ext.json)
-
----
-
-### 2024-10-29 (Tuesday)
-
-### The purpose of the government is to create an economic independence in the country - the president
-
-*2024-10-29 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197460) · `ta`
-
-Government aims to boost economic independence through export growth, digitalization, and infrastructure development.
-
-🟩
-
-President Anura Kumara Dissanayake said the government's aim was to create an economic independence in the country and that it would expect the full support of our exporters.
-
-The President made this statement at a discussion held at the Presidential Office on Tuesday (29) with the Exports Development Board's top officials and exporters.
-
-Pointing to the importance of creating a single service window by integrating other state agencies and Sri Lankan customs to ease export trade, the President also highlighted the importance of increasing the work of state institutions relating to digitalization and export.
-
-President Anura Kumara Dissanayake said the government has focused on issues such as significant reduction of energy prices, promoting foreign investment, and restructuring embassy services to enter the international market.
-
-The President added that the government's expectation is to fulfill all these objectives in a very short time, and that everyone is looking for a huge contribution.
-
-...
-
-[Data](articles/2819f9a6.json)
-
-[Extended Data](ext_articles/2819f9a6.ext.json)
-
----
-
-### A new announcement from the Ministry of Education on the O/L Examination
-
-*2024-10-29 22:44:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சை-குறித்து-கல்வி-அமைச்சின்-புதிய-அறிவிப்பு/175-346296) · `ta`
-
-Here's a summary of the announcement in 200 characters:
-
-
-
-Ministry of Education: O/L Exam 2025 dates announced. Phase 1: Jan 27 - Apr 11, 2025. Statement released regarding school education activities.
-
-🟩
-
-The Ministry of Education has issued a statement issued by the Ministry of Education.
-
-The first phase of the school education activities in 2025 will be held from January 27 to April 11.R
-
-◼️
-
-[Data](articles/80fdfde0.json)
-
-[Extended Data](ext_articles/80fdfde0.ext.json)
-
----
-
-### Reduces electricity bills in the next few years
-
-*2024-10-29 22:38:18* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-අවුරුදු-කිහිපය-තුළ-විදුලි-බිල-දැනෙන්න-අඩුකරවා/11-412753) · `si`
-
-Sri Lanka Chamber of Commerce supports digitization efforts. President Anura Kumara Dissanayake aims to digitize the entire country within three years, reduce electricity bills, and promote energy sovereignty. The government plans to provide tax concessions and improve public services efficiency.
-
-🟩
-
-Sri Lanka Chamber of Commerce (SLC) says he is ready to support building any gift or salary
-
-President Anura Kumara Dissanayake said that the entire country would be digitizing the entire country within the next three years.
-
-The President pointed out that the current government has already begun to lift Sri Lanka through digitization.
-
-President Anura Kumara Dissanayake made these comments at a discussion held today at the Presidential Secretariat today (29).
-
-The Chamber of Commerce agreed to support the building of any allowance or no salary.
-
-There was a lengthy discussion of many fields and future goals, including insurance, banks, construction, tourism, plantation industry, small and medium scale businesses.
-
-President Anura Kumara Dissanayake added that action will be taken to build the economy of the country and provides tax concessions to the people.
-
-...
-
-[Data](articles/64e3949d.json)
-
-[Extended Data](ext_articles/64e3949d.ext.json)
 
 ---

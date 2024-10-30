@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 17:40:56**
+As of **2024-10-30 18:00:55**
 
 ## Newspaper Stats
 
-*Scraped **52,240** Articles*
+*Scraped **52,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adalk | 4,858
 adaderanalk | 6,197
 tamilmirrorlk | 7,244
 virakesarilk | 8,433
-adaderanasinhalalk | 9,095
+adaderanasinhalalk | 9,096
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,240 (100.0%) of 52,240 articles have been extended.
+52,241 (100.0%) of 52,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### 9 years of love fells - girlfriend hospitalized
+
+*2024-10-30 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202740) · `si`
+
+Girlfriend hospitalized after attack by rival. 9-year relationship ends abruptly. Police investigating knife incident.
+
+🟩
+
+A young girl has been attacked by a young girl at the Kumbuchchin Green Zone today (30).
+
+The girlfriend of the Anuradhapura Teaching Hospital is currently receiving treatment at the Conduct of the Anuradhapura Teaching Hospital.
+
+The police said that a lover had been attacked with a knife on a dispute between the two.
+
+The suspect has said that the suspect wanted to meet his girlfriend with learning that the girl had had a romantic relationship with another person.
+
+In the meantime, her boyfriend had a knife and poison and poison was reportedly skilled her boyfriend.
+
+Police said that he had come to a young girl and was attacked by the girl.
+
+A group of people had rescued the young and handed over the youth to Peelice.
+
+They are mentioned nine years as lovers for about 9 years.
+
+◼️
+
+[Data](articles/6e0b20d0.json)
+
+[Extended Data](ext_articles/6e0b20d0.ext.json)
+
+---
 
 ### All Nov 06 leave to all government Tamil schools in the South and Sabaragamuwa Province
 
@@ -2381,25 +2413,5 @@ Sri Lanka’s debt burden has been a persistent challenge, driving the country i
 [Data](articles/d9dacc3c.json)
 
 [Extended Data](ext_articles/d9dacc3c.ext.json)
-
----
-
-### Thinking like a management accountant can serve Sri Lanka well
-
-*2024-10-30 05:43:23* · [`dailyftlk`](https://www.ft.lk/columns/Thinking-like-a-management-accountant-can-serve-Sri-Lanka-well/4-768579) · `en`
-
-Management accountants have evolved from traditional accounting disciplines to become experts in operational, management and strategic problem solving
-
-Studying with CIMA equips management accountants with a unique set of competencies and skills — giving them competitive advantage
-
-In Sri Lanka and across the world, CIMA qualified management accountants have gained a reputation for their visionary leadership in turning businesses and organisations around. More than a century old, CIMA has a proud history and track record of improving efficiencies, maximising resources and transforming complex businesses to meet the demands of a rapidly changing business world.
-
-Everyone — businesses, public service leaders or budding entrepreneurs — can benefit from the management accountant mindset. One may wonder why most of the recent appointments to top positions even in State Owned Enterprises have been CIMA members – the secret is in their skills and competencies.
-
-...
-
-[Data](articles/8b7ee545.json)
-
-[Extended Data](ext_articles/8b7ee545.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 22:40:12**
+As of **2024-10-30 23:11:03**
 
 ## Newspaper Stats
 
-*Scraped **52,265** Articles*
+*Scraped **52,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,201
-tamilmirrorlk | 7,245
+tamilmirrorlk | 7,246
 virakesarilk | 8,441
 adaderanasinhalalk | 9,104
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,265 (100.0%) of 52,265 articles have been extended.
+52,266 (100.0%) of 52,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### The railway station principals abandoned the struggle
+
+*2024-10-30 22:47:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டத்தை-கைவிட்டனர்-புகையிரத-நிலைய-அதிபர்கள்/175-346340) · `ta`
+
+Railway station principals end strike during Diwali festival. Trade union action abandoned midnight due to celebrations. Association president cites festive timing for decision.
+
+🟩
+
+Trade union action launched by the Railway Station Principals across the country has been reported to be abandoned at midnight today.
+
+The president of the association said that the decision was taken on the occasion of the Diwali festival.. Remble
+
+◼️
+
+[Data](articles/514ce414.json)
+
+[Extended Data](ext_articles/514ce414.ext.json)
+
+---
 
 ### ‘Ice’ drugs worth INR 270m bound for Sri Lanka seized in Chennai; Lankan among arrested
 
@@ -2413,27 +2433,5 @@ Harun Rupert Hugwarf said, "Sang Yiming is the 18th new billionaire we have rece
 [Data](articles/d1426f0a.json)
 
 [Extended Data](ext_articles/d1426f0a.ext.json)
-
----
-
-### Sri Lanka rupee opens flat at 293.50/60 to dollar, bond yields steady
-
-*2024-10-30 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-293-50-60-to-dollar-bond-yields-steady-185496/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened flat at 293.50/60 to the US dollar Wednesday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.01.2027 was quoted at 10.79/83 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.70/75 percent, from 11.65/75 percent.
-
-A bond maturing on 15.06.2029 was quoted at 11.90/12.05 percent, from 11.95/12.10 percent.
-
-In equities, Colombo’s All Share Price Index opened up 0.33 percent, or 42.62 points higher at 12,788, while the S&P SL20 of more liquid stocks opened up 0.53 percent or 20.41 points higher at 3,876.
-
-◼️
-
-[Data](articles/812d9da3.json)
-
-[Extended Data](ext_articles/812d9da3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 12:15:31**
+As of **2024-10-30 12:26:16**
 
 ## Newspaper Stats
 
-*Scraped **52,184** Articles*
+*Scraped **52,192** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,83 +16,209 @@ islandlk | 3,106
 economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,853
+adalk | 4,854
 adaderanalk | 6,184
 tamilmirrorlk | 7,237
 virakesarilk | 8,424
-adaderanasinhalalk | 9,076
+adaderanasinhalalk | 9,083
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,172 (100.0%) of 52,184 articles have been extended.
+52,182 (100.0%) of 52,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
 
-### லொறி விபத்து ; இறால் தொகை மாயம்
+### රන්ජන්ගේ නාමයෝජනාවට එරෙහි පෙත්සමට ලැබුණු නියෝගය
 
-*2024-10-30 11:41:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறி-விபத்து-இறால்-தொகை-மாயம்/175-346310) · `ta`
+*2024-10-30 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202727) · `si`
 
-தெற்கு அதிவேக நெடுஞ்சாலையில் மீன் ஏற்றிச் சென்ற லொறியொன்று சீமெந்து ஏற்றிச் சென்ற லொறியுடன் மோதி விபத்துக்குள்ளானதில் மீன் லொறியில் இருந்த ஏழு இலட்சம் ரூபாவுக்கும் அதிக பெறுமதியுடைய  இறால் தொகை காணாமல் போயுள்ளதாக லொறியின் சாரதியால் கஹதுடுவ பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது.
+ඉදිරි මහ මැතිවරණයට තරඟ වැදීමට ගම්පහ දිස්ත්‍රික්කය සඳහා එක්සත් ප්‍රජාතන්ත්‍රවාදී හඬ පක්ෂයෙන් නාමයෝජනා භාරදී සිටින හිටපු පාර්ලිමේන්තු මන්ත්‍රී රන්ජන් රාමනායක මහතාගේ නාමයෝජනාව ප්‍රතික්ෂේප කරන නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සමක් විභාගයට නොගෙන නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
 
-தங்காலை குடாவெல்ல பிரதேசத்தில் வசிக்கும் மீன் வியாபாரியான கே. எச்.ஆர். குமார் என்பவர் நீர்கொழும்பில் இருந்து மீன் ஏற்றிக்கொண்டு தங்காலை நோக்கி பயணித்த போது சீமெந்து ஏற்றிச் சென்ற லொறியுடன் மோதி விபத்துக்குள்ளான சம்பவம்  தெற்கு அதிவேக நெடுஞ்சாலையின் கஹதுடுவ பகுதியில் கடந்த 25 ஆம் திகதி இடம்பெற்றுள்ளது.
+වගඋත්තරකාර පාර්ශ්වයේ නීතිඥවරු ඉදිරිපත් කළ මූලික විරෝධතා පිළිගැනීමෙන් අනතුරුව ප්‍රීති පද්මන් සූරසේන, කුමුදුනී වික්‍රමසිංහ සහ අචල වෙංගප්පුලි යන මහත්ම මහත්මීන් ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම නියෝගය නිකුත් කර තිබේ.
 
-விபத்தில் மீன் லொறிக்கு பலத்த சேதம் ஏற்பட்டுள்ளதுடன் மீன் லொறியின் சாரதி படுகாயமடைந்து வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நிலையில் லொறியில் இருந்த இறால் தொகை லொறியின் தரையிலும் வீதியிலும் சிதறிக் கிடந்திருந்துள்ளது.
+ගම්පහ දිස්ත්‍රික්කයේ සඳහා ස්වාධීන කණ්ඩායම් අපේක්ෂකයෙකු වන කේ.එම්. මහින්ද සේනානායක මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
 
-...
+එහි වගඋත්තරකරුවන් ලෙස මැතිවරණ කොමිසම හා එහි සාමාජිකයින්, රන්ජන් රාමනායක, ගම්පහ දිස්ත්‍රික් තේරීම්භාර නිලධාරියා ඇතුළු පිරිසක් නම් කර තිබුණි.
 
-[Data](articles/6fe5cca5.json)
+◼️
+
+[Data](articles/8c88b6b1.json)
 
 ---
 
-### அரசியலமைப்பை எங்கிருந்து கற்றுக்கொண்டீர்கள்?
+### Johnston released on bail
+
+*2024-10-30 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202726) · `si`
+
+Former Minister Johnston Fernando released on bail after remand.
+
+🟩
+
+Former Minister Johnston Fernando has been released on bail after being remanded.
+
+◼️
+
+[Data](articles/2d07e778.json)
+
+[Extended Data](ext_articles/2d07e778.ext.json)
+
+---
+
+### Court of Appeal ordered the warrant against Upul Tharanga
+
+*2024-10-30 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202725) · `si`
+
+Court of Appeal orders warrant against Upul Tharanga, citing Matale High Court case. Decision made by judges Mohammed Lafar Thahaire and Kumaran Ratnam.
+
+🟩
+
+The Court of Appeal today (30) the Court of Appeal today (30) ordered the warrant issued by the Matale High Court.
+
+The Court of Appeal had issued the court after considering the case by the court when the case was taken up before the Trincomalee High Court.
+
+The orders have been issued when the waves were called for an order to provide an order to be appointed as the Matale High Court.
+
+Mohammed Lafar Thahaire and P. The Court of Appeal was issued by the Court of Appeal comprising Kumaran Ratnam.
+
+◼️
+
+[Data](articles/6a0f6db4.json)
+
+[Extended Data](ext_articles/6a0f6db4.ext.json)
+
+---
+
+### What happened to Ashen?
+
+*2024-10-30 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202724) · `si`
+
+Ashen Senaratne, social media activist, aims to enter Parliament in the next general election. He participated in the 15th Independent Group from Colombo district. The Supreme Court rejected a petition challenging the District Returning Officer's decision. Ashen expressed hopes of entering through the National List if the independent group gains significant support in Colombo. He criticized established politicians, emphasizing hard work and integrity over connections and corruption.
+
+🟩
+
+Social media activist Ashen Senaratne says he expects to go to Parliament in the next general election.
+
+He said he had already participating with the 15 Independent Group No. 15 from the Colombo district.
+
+What happened?Speaking at a special program, he said that it was their final expectation to be the president of the country ever.
+
+In the 2124 general election, the district's selection officer was a great controversial character in Social Media with the decision of the Colombo district.
+
+The Supreme Court also rejected the petition to issue a potential order to issue a powers to the District Returning Officer.
+
+After considering the petition concerned, the relevant order was issued by a three-member Supreme Court Baduka and Priyantha Fernando.
+
+However, Ashen Senaratne said this.
+
+...
+
+[Data](articles/aeeba368.json)
+
+[Extended Data](ext_articles/aeeba368.ext.json)
+
+---
+
+### Lorry accident;Magic
+
+*2024-10-30 11:41:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறி-விபத்து-இறால்-தொகை-மாயம்/175-346310) · `ta`
+
+Lorry accident: Fish transport damaged, driver hurt. Missing cargo: 2kg prawns, 2000₹ cash. Estimated loss: 700,000₹. Driver suspects highway workers involved.
+
+🟩
+
+A lorry carrying a fish on the southern highway has been lodged at the Kahaduduwa Police Station by the driver of the lorry that the shrimp of a fish lorry has been missing.
+
+Gay, a fish dealer who lives in Tangalle Kudavella area. H. H.. Kumar was traveling from Negombo to Tangalle when a lorry collided with a cement -carrying lorry.
+
+The fish lorry was damaged and the driver of the fish lorry was injured and taken to the hospital.
+
+When the owner of the driver's brother lorry arrived at the scene of the accident, it was reported that only two kilograms of prawns were in the lorry and the two thousand rupees of money inside the lorry's cabin disappeared.
+
+During the accident, the lorry contained 20 compartments of six hundred and ninety -three hundred rupees in the lorry, and the price of its sales is estimated at seven lakhs of ten thousand rupees.
+
+The driver of the lorry said the southern highway employees were suspected of carrying it because other vehicles could not park on the highway.
+
+◼️
+
+[Data](articles/6fe5cca5.json)
+
+[Extended Data](ext_articles/6fe5cca5.ext.json)
+
+---
+
+### Where did you learn the Constitution?
 
 *2024-10-30 11:38:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலமைப்பை-எங்கிருந்து-கற்றுக்கொண்டீர்கள்/175-346309) · `ta`
 
-பிரதமர் ஹரினி அமரசூரியவுக்கு இலங்கையின் அரசியலமைப்பு தெரியாதா என கேள்வி எழுப்பிய முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, தீர்மானங்களை எடுப்பதற்கு அமைச்சரவையின் அங்கீகாரம் அரச அதிகாரிகளின் அனுமதி தேவையில்லை என சுட்டிக்காட்டியுள்ளார்.
+Former President Ranil Wickremesinghe questions PM Harini Amarasuriya's Cabinet decisions, citing lack of constitutional authority. He suggests experienced politicians are crucial for effective governance.
 
-நிகழ்வொன்றில் உரையாற்றிய முன்னாள் ஜனாதிபதி, அரச ஊழியர்களின் சம்பளத்தை அதிகரிப்பதற்கான அமைச்சரவையின் தீர்மானம் தொடர்பில் பிரதமர் அமரசூரிய அண்மையில் வெளியிட்ட அறிக்கை தொடர்பில் கேள்வி எழுப்பினார்.
+🟩
 
-அரச ஊழியர்களின் சம்பளத்தை அதிகரிப்பதற்கு திறைசேரி மற்றும் நிதி அமைச்சின் அதிகாரிகளின் அனுமதி பெறப்படவில்லை என பிரதமர் ஹரிணி அமரசூரிய தெரிவித்துள்ளார். அமைச்சரவை செயல்படுவதற்கு அதிகாரிகளின் ஒப்புதல் முக்கியம் என்கிறார். அரசியலமைப்பை எங்கிருந்து கற்றுக்கொண்டீர்கள்? என்று ரணில் கேள்வி எழுப்பினார்.
+Former President Ranil Wickremesinghe, who questioned Prime Minister Harini Amarasuriya, did not know the constitution of Sri Lanka, pointed out that the approval of the Cabinet does not require the approval of the Cabinet.
 
-அமைச்சரவையே தேசத்தை நிர்வகிப்பதாகவும், அரசியலமைப்பில் எந்த இடத்திலும் அதிகாரிகளுக்கு முன்னுரிமை என்று குறிப்பிடவில்லை எனவும் முன்னாள் ஜனாதிபதி சுட்டிக்காட்டினார்.
+Speaking at an event, the former president questioned the recent statement issued by Prime Minister Amarasuriya on the Cabinet's decision to increase the salaries of civil servants.
+
+Prime Minister Harini Amarasuriya has said that the permission of officials of the Treasury and Finance Ministry has not been obtained to increase the salary of public servants.. Says the approval of the authorities to operate the cabinet. Where did you learn the Constitution?Ranil questioned that.
+
+The former president pointed out that the Cabinet manages the nation and does not refer to the authorities anywhere in the Constitution.
+
+"If you want to know about the Constitution, let me know, I will help you, otherwise I will tell our ex -prime minister," he added.
 
 ...
 
 [Data](articles/ecd5a793.json)
 
+[Extended Data](ext_articles/ecd5a793.ext.json)
+
 ---
 
-### ஹட்டனில் தீபாவளி கைவரிசை: 4 யுவதிகள் கைது
+### Diwali Handicraft in Hatton: 4 women arrested
 
 *2024-10-30 11:38:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-தீபாவளி-கைவரிசை-4-யுவதிகள்-கைது/76-346308) · `ta`
 
-நாளை (31) வியாழக்கிழமை தீபாவளி பண்டிகையை கொண்டாடுவதற்காக, நாட்டின் பல பாகங்களில் இருந்தும் ஹட்டனுக்கு வருகை தந்த வாடிக்கையாளர்கள், நுகர்வோர்களிடம் இருந்து பணப்பைகள் மற்றும் தங்க நகைகளை திருடிய நான்கு யுவதிகள் கைது செய்யப்பட்டுள்ளனர்.
+Arrests made during Diwali celebrations in Hatton. Four women accused of theft caught with stolen valuables. Police investigation ongoing.
 
-தீபாவளி பண்டிகையை முன்னிட்டு ஹட்டன் நகருக்கு வரும் வாடிக்கையாளர்களின் பணப்பைகள் மற்றும் தங்க ஆபரணங்களை திருடும் ஒழுங்கமைக்கப்பட்ட குழுவொன்றின் நான்கு யுவதிகள் செவ்வாய்க்கிழமை (29) பிற்பகல் ஹட்டன் பொலிஸ் குற்றப்புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-தீபாவளி பண்டிகையை முன்னிட்டு ஹட்டன் நகருக்கு   அதிகளவான வாடிக்கையாளர்கள் வருகை தந்திருந்த நிலையில், சில வாடிக்கையாளர்களின் பணப்பைகள் மற்றும் தங்க ஆபரணங்கள் காணாமல் போனதாக ஹட்டன் பொலிஸாருக்கு பல முறைப்பாடுகள் கிடைத்திருந்தன.
+Customers from many parts of the country have been arrested for stealing wallets and gold jewelery from consumers to celebrate the Diwali festival tomorrow (31).
+
+Four girls of an organized group of customers who are coming to Hatton on the occasion of Diwali were arrested by the Hatton Police Criminal Investigation Division on Tuesday afternoon.
+
+Hatton police have received several complaints that some customers' wallets and gold jewelery disappeared, with a large number of customers visiting Hatton on the occasion of Diwali.
+
+Hatton police officers who have been observed in this regard have launched a special security program to strengthen the safety of customers coming to Hatton and arrested a woman who was on duty at a suspicion while on duty to break the customer's neck on suspicion.
+
+When the four girls were arrested and investigated, two hundred and fifty thousand rupees and some gold jewelery were found in the possession.
 
 ...
 
 [Data](articles/b04f8be2.json)
 
+[Extended Data](ext_articles/b04f8be2.ext.json)
+
 ---
 
-### ජොන්ස්ටන් අධිකරණයට රැගෙන එයි
+### Johnston is taken to court
 
 *2024-10-30 11:33:46* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්-අධිකරණයට-රැගෙන-එයි/11-412756) · `si`
 
-අත්අඩංගුවට ගෙන සිටින හිටපු පාර්ලිමේන්තු මන්ත්‍රී ජොන්ස්ටන් ප්‍රනාන්දු මහතා අධිකරණය වෙත රැගෙන විත් තිබේ.
+Former MP Johnston Fernando arrested on 23rd, remanded till 30th.
 
-මොටර් රථ සිද්ධියක් සම්බන්ධයෙන් පසුගිය 23 වැනිදා අත්අඩංගුවට ගත් අතර, පසුව අද(30දා) දක්වා රක්ෂිත බන්ධනාගාර ගත කරණු ලැබිණි.
+🟩
+
+Former Parliamentarian Johnston Fernando has been taken to court.
+
+The motor event was arrested on the 23 th on the 23rd and remanded until the 30th today.
 
 ◼️
 
 [Data](articles/06f9bb5d.json)
+
+[Extended Data](ext_articles/06f9bb5d.ext.json)
 
 ---
 
@@ -107,6 +233,24 @@ In a recent statement, Wickramasinghe emphasized that no private employment agen
 ...
 
 [Data](articles/51ede9b9.json)
+
+[Extended Data](ext_articles/51ede9b9.ext.json)
+
+---
+
+### ආණ්ඩුවට එරෙහිව මහජන පෙත්සමක් අත්සන් කිරීමට ගම්මන්පිල සැරසෙයි
+
+*2024-10-30 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202723) · `si`
+
+නීතිය අයුතු ලෙස භාවිත කිරීම පිළිබඳව ජනතාවගේ පිළිකුල ජනාධිපතිවරයාට දැන්වීම සඳහා මහජන පෙත්සමක් අත්සන් කිරීමට බලාපොරොත්තු වන බව හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා පවසයි.
+
+ඒ මහතා පවසා සිටියේ, පාස්කු ප්‍රහාරය ගැන පර්යේෂණ වාර්තාවකින් චූදිතයින් ලෙස නම්කර සිටින රවී සෙනෙවිරත්න සහ ශානි අබේසේකර ඔවුන් දරණ තනතුරුවලින් ඉවත් නොකිරීම හේතුවෙන් ආණ්ඩුව පළමු මාසය තුළම නීතිය අයුතු ලෙස භාවිත කර ඇති බවය.
+
+"රවී සෙනෙවිරත්න සහ ශානි අබේසේකර ඉවත් කිරීම නොකරන නිසා අපි බලාපොරොත්තු වෙනවා ජනතාවගේ හෘද ශාක්ෂිය... නීතියේ ආධිපත්‍ය පිහිටවනවා කියලා, හිටපු ජනාධිපතිවරු නීතිය අයුතු ලෙස භාවිත කරනවා කියලා විවේචන කළ මාලිමාව තමන්ගේ මාසය තුළම නීතිය අයුතු ලෙස භාවිත කිරීම පිළිබඳ ජනතාවගේ පිළිකුල ජනාධිපතිවරයාට දන්වන්න අපි මහජන පෙත්සමක් අත්සන් කරන්න බලාපොරෝතු වෙනවා. සෑම තැනකමට ගිහිල්ලා. මහපාරේ, වැඩබිමේ, ගොවිපොළේ සෑම තැනම ජනතාවගේ හෘද සාක්ෂිය නැත්නම් ජනතාව මේ සම්බන්ධයෙන් දක්වන පිළිකුල පෙත්සමකට ගොනු කරන්න අපි බලාපොරොත්තු වෙනවා."
+
+◼️
+
+[Data](articles/1ca670d2.json)
 
 ---
 
@@ -123,6 +267,8 @@ The Former MP was arrested after he had arrived at the CID to provide a statemen
 ◼️
 
 [Data](articles/7cb9803e.json)
+
+[Extended Data](ext_articles/7cb9803e.ext.json)
 
 ---
 
@@ -141,6 +287,8 @@ The Exams Commissioner General emphasized that the students should rely solely o
 ...
 
 [Data](articles/674c9af1.json)
+
+[Extended Data](ext_articles/674c9af1.ext.json)
 
 ---
 
@@ -228,6 +376,28 @@ A police officer said that the dog, who was injured in the shooting, was found d
 
 ---
 
+### උසස් පෙළ සිසුන්ට විශේෂ දැනුම්දීමක්
+
+*2024-10-30 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202722) · `si`
+
+2024 උසස් පෙළ විභාගයට අදාළ කාලසටහන විභාග දෙපාර්තමේන්තුවේ නිල වෙඩ් අඩවියෙන් පමණක් බාගත කරගන්නා ලෙස විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා උසස් පෙළ අපේක්ෂකයින්ට දැනුම්දෙයි.
+
+විශේෂ මාධ්‍ය හමුවකට එක්වෙමින් විභාග කොමසාරිස්වරයා සඳහන් කර සිටියේ, 2024 උසස් පෙළ නොවැම්බර් 25 සිට දෙසැම්බර් 20 වනදා දක්වා පැවැත්වීමට සියලු කටයුතු සුදානම් බවය.
+
+විභාගය පැවැත්වෙන දින වකවාණුව පිළිබඳව තීරණය කරනු ලැබුවේ පසුගිය මාර්තු මාසයේ දී බව පැවසු විභාග කොමසාරිස්වරයා උසස් පෙළ විභාගය පිළිබඳව සමාජ මාධ්‍ය තුළින් විශාල වශයෙන් වැරදි ප්‍රචාරයන් සිදුකරන බව පෙනී යන බව ද සඳහන් කළේය.
+
+ඒ අනුව දරුවන් අතර උසස් පෙළ විභාගය පැවැත්වෙන දින පිළිබඳ අවිනිශ්චිතභාවයක් ඇතිව තිබෙන බවත් එය නිවැරදි කිරීමේ අරමුණින් මාධ්‍ය හමුව පැවැත්වීමට තීරණය කළ බව ද පැවසීය.
+
+සෑම විටම විභාග දෙපාර්තමේන්තුව විසින් සිදුකරනු ලබන නිල නිවේදන පමණක් විශ්වාස කරන ලෙසත් සමාජ මාධ්‍ය ඔස්සේ සිදුකරන ප්‍රචාරයන්ට නොරැවටෙන ලෙසත් විභාග කොමසාරිස්වරයා සිසුන්ගෙන් ඉල්ලා සිටියේය.
+
+ඒ අනුව උසස් පෙළ විභාගයේ ප්‍රවේශපත්‍ර ඉතා ඉක්මනින් අපේක්ෂකයින් අතට පත්කිරීමට නියමිත බවත් පැවසීය.
+
+...
+
+[Data](articles/f3fc2031.json)
+
+---
+
 ### Canada alleges Indian minister Amit Shah behind plot to target Sikh separatists
 
 *2024-10-30 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103026/canada-alleges-indian-minister-amit-shah-behind-plot-to-target-sikh-separatists) · `en`
@@ -269,6 +439,26 @@ President of the association Sumedha Somaratne said that stated that a discussio
 [Data](articles/9fa36968.json)
 
 [Extended Data](ext_articles/9fa36968.ext.json)
+
+---
+
+### ජොන්ස්ටන්ව අධිකරණයට රැගෙන එයි
+
+*2024-10-30 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202721) · `si`
+
+රක්ෂිත බන්ධනාගාරගත කර සිටි හිටපු අමාත්‍ය ජොන්ස්ටන් ප්‍රනාන්දු මහතා අද (30) කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන ආවේය.
+
+පසුගිය 23 වනදා BMW වර්ගයේ මෝටර් රථයක් කොළඹ ප්‍රධාන පෙළේ හෝටලයක සැකකටයුතු ලෙස නවතා තැබීමේ සිද්ධියට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් ජොන්ස්ටන් ප්‍රනාන්දු මහතාව අත්අඩංගුවට ගනු ලැබීය.
+
+හිටපු අමාත්‍ය ජොන්ස්ටන් ප්‍රනාන්දු මහතා ළඟ තබාගත් බව පැවසෙන ලියාපදිංචි නොකළ BMW වර්ගයේ මෝටර් රථය එංගලන්තයේදී සොරකමකට ලක්වූ එකක් බවට අනාවරණ වී ඇති බව පොලීසිය පැවසීය.
+
+අදාළ BMW මෝටර් රථයේ චැසි අංකය ජාත්‍යන්තර පොලීසියේ දත්ත පද්ධතිය ඔස්සේ පරීක්ෂාවට ලක් කිරීමේදී මෙය 2021 වසරේ එංගලන්තයෙන් සොරකම් කරන ලද මෝටර් රථයක් බව අනාවරණය වූ බව විමර්ශන නිලධාරීන් පවසා තිබේ.
+
+මෙරටදී එකලස් කළ, ලියාපදිංචි නොකළ BMW වර්ගයේ මෝටර් රථයක් ළඟ තබා ගැනීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් හිටපු අමාත්‍ය ජොන්ස්ටන් ප්‍රනාන්දු මහතා ඔක්තෝබර් අද (30) දක්වා රක්ෂිත බන්ධනාගාර ගතකිරීමට කොටුව මහෙස්ත්‍රාත් අධිකරණය ඔක්තෝබර් 23 වනදා නියම කළේය.
+
+...
+
+[Data](articles/c401486d.json)
 
 ---
 
@@ -641,6 +831,28 @@ Sri Lanka: Tamil schools in central and Uva provinces closed Nov 1 due to Diwali
 [Data](articles/0c66db73.json)
 
 [Extended Data](ext_articles/0c66db73.ext.json)
+
+---
+
+### තැපැල් ඡන්දය අදින් ඇරඹේ
+
+*2024-10-30 08:39:57* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-ඡන්දය-අදින්-ඇරඹේ/11-412755) · `si`
+
+පාර්ලිමේන්තු මැතිවරණයට අදාළව තැපැල් ඡන්දය සලකුණු කිරීමේ කටයුතු අද (30දා) සිට ආරම්භ වේ.
+
+මෙවර මැතිවරණය සඳහා තැපැල් ඡන්දදායකයන් හත් ලක්ෂ තිස් අටදහස්  පනහක් (738,050) සුදුසුකම් ලබා තිබේ.
+
+මේ අනුව අද හා ලබන මස 04වැනි දින දිස්ත්‍රික් ලේකම් කාර්යාල, මැතිවරණ කාර්යාල හා පොලීසිය යන ආයතනවල තැපැල් ඡන්ද හිමියන්ගේ ඡන්දය භාවිත කිරීමේ සිදු වේ.
+
+ලබන මස 01වැනි දින හා 04 වැනි දින අනෙකුත් රාජ්‍ය ආයතනවල හා හමුදා කඳවුරුවල තැපැල් ඡන්දය භාවිත කිරීමේ කටයුතු සිදු කිරීමට නියමිතය.
+
+මෙම දිනවල තැපැල් ඡන්දය භාවිත කිරීමට නොහැකි වන තැපැල් ඡන්ද හිමියන්ට ලබන මස 7 හා 8 යන දෙදින තුළ අවස්ථාව ලබා දී තිබේ. මේ අනුව මෙම දින 02 තුළදී තමන්ගේ සේවා ස්ථානය පිහිටි දිස්ත්‍රික්කයේ දිස්ත්‍රික් මැතිවරණ කාර්යාලවලදී තැපැල් ඡන්දය සලකුණු කළ හැකිය.
+
+තැපැල් ඡන්දය සලකුණු කිරීමේදී අනන්‍යතාවය තහවුරු කිරීම සඳහා වලංගු අනන්‍යතා පත්‍ර පහක් මැතිවරණ කොමිසම විසින් ප්‍රකාශයට පත් කර තිබේ.
+
+...
+
+[Data](articles/e93eca3e.json)
 
 ---
 
@@ -2115,179 +2327,5 @@ President Anura Kumara Dissanayake said that steps will be taken to strengthen t
 [Data](articles/9008ca2e.json)
 
 [Extended Data](ext_articles/9008ca2e.ext.json)
-
----
-
-### Decisions will be taken to protect both sides, including bank structure and entrepreneurship to build the country's economy - the President
-
-*2024-10-29 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197453) · `ta`
-
-Sri Lanka's President Anura Kumara Dissanayake addresses economic challenges, focusing on banking reforms and protecting entrepreneurs. He emphasizes digitalization, fraud prevention, and regulatory measures to stabilize the economy.
-
-🟩
-
-President Anura Kumara Dissanayake has promised to take steps to take the country and to take the steps to be taken without any special series with any party in the building of the country and develops the economy.
-
-The President made this statement while addressing the Presidential Office at the Presidential Office on Tuesday (29).
-
-Focusing on the role of banks and their problems in building the economy of Sri Lanka.
-
-The President said that the importance of digitalization in Sri Lanka and the obtaining digital identity cards was discussed and that steps would be taken to complete the tasks in one and a half years.
-
-The president, who has endured the bank's structure with the economic crisis and focused on the protection of entrepreneurs, pointed out that it is a complication to misuse the entrepreneurship.. The President also stressed the need for banks to carry out complete activities to protect the entrepreneurs.
-
-...
-
-[Data](articles/58ee0114.json)
-
-[Extended Data](ext_articles/58ee0114.ext.json)
-
----
-
-### Youth killed in collision with train
-
-*2024-10-29 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202704) · `si`
-
-Young girl, 23, killed by train in Sri Lanka. Collision occurred near Valapura College, Kalutara. Victim was reportedly near railway line when struck.
-
-🟩
-
-A young girl was killed and collided with a train who was traveling from Aluthgama to Polgahawela today (29).
-
-The deceased have been identified as a 23 year old resident of the Galwamulla area.
-
-The girl was hit by the train on the rider in the area behind Valapura College, Kalutara.
-
-It has been revealed that she had stayed near the railway line and telephoned.
-
-◼️
-
-[Data](articles/7286b340.json)
-
-[Extended Data](ext_articles/7286b340.ext.json)
-
----
-
-### Sri Lanka’s Neoliberal Evolution: Challenges Ahead For The NPP
-
-*2024-10-29 19:35:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-neoliberal-evolution-challenges-ahead-for-the-npp/) · `en`
-
-Development aid from Western nations to the Global South often comes with conditions that compel recipient countries to adopt neoliberal policies, such as deregulation, privatization, and cuts to social programs. Sri Lanka has been seen as a model of neoliberalism in South Asia, being the first country in the region to embrace open market policies in the late 1970s. After rising to power in 1977, JR Jayewardene established an authoritarian regime and became Sri Lanka’s first Executive President in 1978 prioritizing economic liberalization, supported by Western financial institutions.
-
-...
-
-[Data](articles/aa5e1c1b.json)
-
-[Extended Data](ext_articles/aa5e1c1b.ext.json)
-
----
-
-### Rescue of gun gardens from the train
-
-*2024-10-29 19:32:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-இருந்து-துப்பாக்கி-தோட்டக்கள்-மீட்பு/175-346278) · `ta`
-
-Train security finds 57 rifle bullets hidden under seats during routine search. Two men leave train before discovery. Incident occurs on Maradana-Beliyatha route.
-
-🟩
-
-Railway security forces have found 57 bullets used for T-56 rifles from under the seat of a third-grade box of a train traveling from Maradana to Beliyatha this morning.
-
-It is reported that a security guard at the Beliyatta railway station was searched by the train compartments, and the two men left the train and then found a bag of bullets beneath the seats where the two were seated.
-
-◼️
-
-[Data](articles/3ccba384.json)
-
-[Extended Data](ext_articles/3ccba384.ext.json)
-
----
-
-### Sri Lanka central bank defends open market operations as concerns rise
-
-*2024-10-29 19:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-defends-open-market-operations-as-concerns-rise-185503/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has defended its inflationary open market operations where money was injected to overtrading banks pushing up deposits at its standing window to 200 billion rupees by October 29.
-
-Barely a month ago deposits in the window were around 100 to 120 billion rupees.
-
-That was because foreign banks which did not lend in the interbank market due to risk limits. This has been well reported earlier. The volumes came down as confidence increased.
-
-Related Sri Lanka injects Rs130bn outright amid high private sector sterilization
-
-However, by freely injecting money to overtrading banks, this amount has now gone up to 200 billion rupees.
-
-While some of the money comes from central bank purchases of dollars, the liberal open market operations are also responsible for the balance.
-
-The central bank in an explanatory note has said that if it did not do so, interest rates would have gone up to very high levels.
-
-...
-
-[Data](articles/f236ea92.json)
-
-[Extended Data](ext_articles/f236ea92.ext.json)
-
----
-
-### Sri Lanka leader eyes fast tracking digitization, formalizing informal economy
-
-*2024-10-29 19:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-eyes-fast-tracking-digitization-formalizing-informal-economy-185505/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has promised to fast track long discussed digitization process and promised to complete the national digital identity card initiative within 18 months with an aim to systematic formalization of the informal economy to ensure public welfare, President’s Media Division (PMD) said.
-
-President made the pledges when he met top banking sector officials on Tuesday (29).
-
-“The President highlighted the critical importance of digitizing Sri Lanka’s economy, including the implementation of a National Digital ID initiative, which he pledged would be completed within a focused timeframe of one and a half years,” the PMD said in a statement.
-
-Sri Lanka has a large informal economy with around two third of the labour force are working in informal sectors and government officials say digitization is the key to brining in informal sector into the tax net.
-
-...
-
-[Data](articles/55a3902f.json)
-
-[Extended Data](ext_articles/55a3902f.ext.json)
-
----
-
-### Israel's attack on the city of Gaza's central part - fears more than 90 people killed
-
-*2024-10-29 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197452) · `ta`
-
-Israel attacks Gaza: 93 dead or missing in Bait Lakia. Rescue efforts hampered by lack of medical supplies. Bodies seen on ground in social media photos.
-
-🟩
-
-93 people have been killed or disappeared in Israel's attack in Bait Lakia, Central, Central, Hamasin Medical Unit said.
-
-Rescue workers report that only five stairs were attacked. Pictures of bodies wrapped on the ground have been published in social media.
-
-Kusam Abu Saifa, director of Kamal Advan Hospital in Japalia, said the boys were admitted to his hospital.
-
-He said he had difficulties in treating his hospital due to inadequate drugs.
-
-◼️
-
-[Data](articles/7dd05df4.json)
-
-[Extended Data](ext_articles/7dd05df4.ext.json)
-
----
-
-### Cache of T56 bullets found on Maradana-Beliatta train
-
-*2024-10-29 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103017/cache-of-t56-bullets-found-on-maradana-beliatta-train) · `en`
-
-The railway security officers at the Beliatta Station have discovered a stock of 57 bullets used in T56 assault rifles inside a backpack left under a seat in a compartment of a train operating from Maradana to Beliatta.
-
-The train, which departed Maradana at 6.30 a.m., had reached Beliatta around 12.15 p.m. today (29).
-
-The black colour bag was found during a routine compartment check by a railway security officer. Just before the discovery, two passengers in the third-class compartment No. 798 had disembarked, leaving the bag under their seat. Upon inspection, railway officials have found a magazine filled with T56 bullets.
-
-Officers from the Tangalle Division Crimes Unit and Beliatta Police have launched an investigation into the incident.
-
-◼️
-
-[Data](articles/88938e36.json)
-
-[Extended Data](ext_articles/88938e36.ext.json)
 
 ---

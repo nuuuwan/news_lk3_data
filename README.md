@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 20:12:17**
+As of **2024-10-30 20:24:04**
 
 ## Newspaper Stats
 
-*Scraped **52,254** Articles*
+*Scraped **52,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,63 @@ adalk | 4,860
 adaderanalk | 6,199
 tamilmirrorlk | 7,245
 virakesarilk | 8,439
-adaderanasinhalalk | 9,098
+adaderanasinhalalk | 9,100
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,253 (100.0%) of 52,254 articles have been extended.
+52,255 (100.0%) of 52,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### ප්‍රසිද්ධ මත්පැන් සමාගම් දෙකක නම් භාවිත කර රටටම කළ වංචාව
+
+*2024-10-30 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202744) · `si`
+
+රජයට අයවිය යුතු විශාල බද්දක් අහිමිකරමින් ප්‍රසිද්ධ මත්පැන් සමාගම් දෙකක වෙළෙඳනාම යොදාගෙන නීතිවිරෝධී අයුරින් අරක්කු නිෂ්පානය කර ඇසුරුම් කරන බවට අද දෙරණ උකුස්සාට තොරතුරක් ලැබුණි.
+
+දඹදෙණිය, මුතුගල ප්‍රදේශයේ නිවසක එම නීතිවිරෝධී ක්‍රියාව සිදුවන බවට ලද එම තොරතුරකට අනුව කුලියාපිටිය සුරාබදු ස්ථානයේ නිලධාරීන් කණ්ඩායමක් සමග අප ඒ පිළිබඳ සොයාබැලීය.
+
+එහීදී දැකගත හැකිවුණේ අදාළ මත්පැන් සමාගම් දෙකෙහි පෙට්ටි, ලේබල් හා මූඩි විශාල ප්‍රමාණයක් එම ස්ථානයේ ඇති බවය.
+
+එමෙන්ම බලපත්‍රලාභී මත්පැන් ශාලා සඳහා ලබාදෙන විශේෂිත වූ බිල්පත් මෙන්ම මත්පැන්වල සැර පරීක්‍ෂා කරන උපකරණ හා සම්මත මිණුම් උපකරණ ආදිය ද එහි තිබෙන අයුරු දැකගත හැකි විය.
+
+එහිදී දිවයිනේ සුරාබදු පරීක්‍ෂකවරුන් 14 දෙනෙකුට අයත් ව්‍යාජ මුද්‍රා කිහිපයක්, නීතිවිරෝධීව සකස් කළ බදු ස්ටිකර් රෝල් තොගයක් සහ මත්පැන් බෝතල් සීල් කිරීමට භාවිත කරන යන්ත්‍රයක් ද මෙහිදී විමර්ශන නිලධාරීන් සොයාගත්තේය.
+
+අනතුරුව සුරාබදු නිලධාරීන් එම නිවසේ හිමිකරුව ද අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/0bfbabf5.json)
+
+---
+
+### First budget increases the salaries of the public servant - President
+
+*2024-10-30 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202743) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's President Anura Kumara Dissanayake announces salary increases for public servants in the upcoming budget. He emphasizes his administration's commitment to supporting government employees, citing their crucial role in national development.
+
+🟩
+
+President Anura Kumara Dissanayake says that the first budget will increase the salaries of public servants.
+
+The President made this observation addressing the public rally in Matara this afternoon.
+
+...
+
+[Data](articles/9103eaf8.json)
+
+[Extended Data](ext_articles/9103eaf8.ext.json)
+
+---
 
 ### 12 of the books of the Department of Motor Traffic
 
@@ -356,23 +402,29 @@ Tamil schools in the respective provinces have been granted leave in the respect
 
 ---
 
-### யாழ்ப்பாணத்தில் ஹெரோயின் மற்றும் போதை மாத்திரைகளுடன் இருவர் கைது!
+### Two arrested with heroin and drug pills in Jaffna
 
 *2024-10-30 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/197535) · `ta`
 
-யாழ்ப்பாணம் - அரியாலை பகுதியில் ஹெரோயின் மற்றும் போதை மாத்திரைகளுடன் இரண்டு சந்தேகநபர்கள் இன்று புதன்கிழமை (30) கைது செய்யப்பட்டுள்ளனர்.
+Jaffna: Two men, ages 26 and 32, arrested with heroin and drugs. One had 10 pills, other 120mg heroin. Police investigation ongoing.
 
-யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகர் லூஸன் சூரிய பண்டார அவர்களின் கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+🟩
 
-அரியாலைப் பகுதியைச் சேர்ந்த, 26 மற்றும் 32 வயதுடைய இரண்டு சந்தேக நபர்கள் இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+Two suspects have been arrested on Wednesday (30) with heroin and drug pills in the Jaffna - Ariyalai area.
 
-இவர்களில் ஒருவர் 10 போதை மாத்திரைகளுடனும், மற்றையவர் 120 மில்லிக்கிராம் ஹெரோயினுடனும் கைது செய்யப்பட்டுள்ளனர்.
+The arrest was carried out on the basis of confidential information received by the Police Intelligence Unit of the Jaffna District Senior Superintendent of Police, Lusan Solar Bandara.
 
-மேலதிக விசாரணைகளை யாழ்ப்பாணம் பொலிஸார் மேற்கொண்டு வருவதுடன், அவர்களை நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருகின்றனர்.
+Two suspects, aged 26 and 32, from Ariyal, have been arrested.
+
+One of them has been arrested with 10 drug pills and the other with 120 milligrams of heroin.
+
+Further investigations are being carried out by the Jaffna police and are taking steps to appear in court.
 
 ◼️
 
 [Data](articles/0352262f.json)
+
+[Extended Data](ext_articles/0352262f.ext.json)
 
 ---
 
@@ -2355,103 +2407,5 @@ It also pointed out that the train travel is a cancellation of the train in the 
 [Data](articles/d7f4ec8a.json)
 
 [Extended Data](ext_articles/d7f4ec8a.ext.json)
-
----
-
-### Arugambay: Residents of Israel and the government say about Israel 'chobad House'?
-
-*2024-10-30 08:30:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce9g071999lo) · `si`
-
-Based on the text provided, here are the key points regarding the situation in Arugambay:
-
-
-
-1. A controversial religious center called "Chabad House" has been established in Arugambay, reportedly run by Israeli nationals.
-
-
-
-2. Local residents have expressed concerns about the center, including allegations of land grabbing and unauthorized construction.
-
-
-
-3. The Sri Lankan government claims to be investigating the matter, stating that the center may be operating illegally.
-
-
-
-4. Some residents report seeing Israeli tourists visiting the area, though others claim there are fewer visitors due to security concerns.
-
-
-
-5. There are conflicting accounts about the nature of the Chabad House and its impact on the local community.
-
-
-
-6. The situation appears to be sensitive, with both local authorities and residents providing differing perspectives on the issue.
-
-
-
-7. There are ongoing discussions about religious freedom, tourism, and land use in the region.
-
-
-
-8. Some residents express concern about potential cultural and social impacts of the center's presence.
-
-
-
-9. The situation seems to be under investigation by local authorities, with mixed reactions from the community.
-
-
-
-10. There are references to security measures and potential tensions between locals and the center's operators.
-
-
-
-This summary provides an overview of the complex situation described in the text, highlighting the various perspectives and concerns surrounding the Chabad House in Arugambay.
-
-🟩
-
-Arugambay: Residents of Israel and the government say about Israel 'chobad House'?
-
-The country's warning announcement is still inaugurated by the American Embassy in the area of ​​Aruugambay.
-
-The incident also focused on the national security in Sri Lanka, with the religious place in the social media, a religious place in the country.
-
-A team of BBC's Sinhala service was engaged in a field visit to the area to look into the situation where there is a situation in the area of ​​Arugambay.
-
-There were still three Israeli people in the Arugam's area.
-
-During his visit to Arugambay, the police said that three Israeli still remain in the area.
-
-Investigations revealed that one Israeli reside in the area for several years in Arumbumbe.
-
-The team of BBC in the Sinhala service has come to the place where he was staying to stay the Israeli and he was inspected to his residence.
-
-...
-
-[Data](articles/f052c8ae.json)
-
-[Extended Data](ext_articles/f052c8ae.ext.json)
-
----
-
-### Six foreign nationals arrested
-
-*2024-10-30 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202716) · `si`
-
-Foreigners arrested in Amandoluwauwa: Six individuals from Bangladesh aged 18, 23, 26, 39, and 43 detained without visas during a police raid for alleged immigration law violations.
-
-🟩
-
-Six foreigners were arrested in the Amandoluwauwa area without visa.
-
-The police said that the suspects were arrested during a raid that there were a group of foreigners abused immigration laws.
-
-The arrested persons were the Bangladesh, 18, 23, 26, 39 and 43.
-
-◼️
-
-[Data](articles/b63e0579.json)
-
-[Extended Data](ext_articles/b63e0579.ext.json)
 
 ---

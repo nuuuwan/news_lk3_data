@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 20:39:58**
+As of **2024-10-30 21:24:11**
 
 ## Newspaper Stats
 
-*Scraped **52,256** Articles*
+*Scraped **52,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,106
 economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,860
+adalk | 4,861
 adaderanalk | 6,199
 tamilmirrorlk | 7,245
 virakesarilk | 8,439
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,100
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,256 (100.0%) of 52,256 articles have been extended.
+52,257 (100.0%) of 52,257 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -179,6 +179,30 @@ Although it continues to be practiced as it is, it will be prevented from being 
 [Data](articles/e5e0f261.json)
 
 [Extended Data](ext_articles/e5e0f261.ext.json)
+
+---
+
+### Attorney General apologizes
+
+*2024-10-30 19:17:02* · [`adalk`](https://www.ada.lk/breaking_news/නීතිපතිවරයා-අධිකරණයෙන්-සමාව-ගනියි/11-412762) · `si`
+
+Attorney General apologizes to court over unawareness of Supreme Court orders regarding wildlife department case involving three elephants.
+
+🟩
+
+The Attorney General forgave the Attorney General (UPFA Additional Magistrate Harrasara Kekunai) today (30) to the Magistrate's Court today.
+
+Additional Solicitor General President's Counsel to the Attorney General was not aware of the orders issued by the Supreme Court regarding the order issued by the Supreme Court regarding the order of the Supreme Court regarding the order of the Supreme Court regarding the laundry Court of the Supreme Court.Mr. Ratnayake has apologized.
+
+The Attorney General and personally listened to the Attorney General as well as the case was not aware that he was not aware of the fundamental rights petition filed by the Supreme Court.
+
+The Attorney General apologized to the Magistrate's Court when three elephants were filed against the Director General of the Wildlife Department asking him to restore three paddy elephants.
+
+◼️
+
+[Data](articles/4c2d5c4b.json)
+
+[Extended Data](ext_articles/4c2d5c4b.ext.json)
 
 ---
 
@@ -2383,35 +2407,5 @@ The information letter issued by the Department of Registration of Persons to Re
 [Data](articles/e93eca3e.json)
 
 [Extended Data](ext_articles/e93eca3e.ext.json)
-
----
-
-### In 2024, 86 train derailment - 59 tracks, 27 train railway route, 27 train yards
-
-*2024-10-30 08:35:35* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-දුම්රිය--පීලිපැනීම්-86ක්---පීලි-පැනීම්-59ක්-දුම්රිය-මාර්ගයේ--27ක්-දුම්රිය-අංගණවලදී/11-412754) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-86 train derailments in 2024: 59 tracks affected, 27 in railway yards. Compared to 570 in 2020. Railway employees blame poor maintenance, defects causing issues. Train cancellations and delays reported.
-
-🟩
-
-There are 86 train derails from 1st this year to yesterday (29). In the railway vessels, 59 tracks have taken place on railway vessels and 27 tracks had taken place in the railway yards.
-
-According to the year 2020, there were 570 train derails last year and 82 dealers in 202 years and 98 dealers in 2021 and 98 deals in 2020.
-
-Only two trains have been involved in two train traffic and the railway traffic will be caused by rail traffic on Monday (28th).
-
-Railway employees say that the railway routes is not properly maintained, and the train errors are being carried out due to the railway vegens and the train fabrication is caused by railway defect.
-
-It also pointed out that the train travel is a cancellation of the train in the railway route and that when such an incident occurred on a single road, the train is hampered and interfered with the train periods.
-
-...
-
-[Data](articles/d7f4ec8a.json)
-
-[Extended Data](ext_articles/d7f4ec8a.ext.json)
 
 ---

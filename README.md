@@ -1,36 +1,148 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 13:09:55**
+As of **2024-10-30 13:24:24**
 
 ## Newspaper Stats
 
-*Scraped **52,194** Articles*
+*Scraped **52,206** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 414
 colombotelegraphcom | 530
-bbccomsinhala | 531
+bbccomsinhala | 532
 islandlk | 3,106
 economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,854
-adaderanalk | 6,186
-tamilmirrorlk | 7,237
-virakesarilk | 8,424
+adaderanalk | 6,188
+tamilmirrorlk | 7,239
+virakesarilk | 8,431
 adaderanasinhalalk | 9,083
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,194 (100.0%) of 52,194 articles have been extended.
+52,199 (100.0%) of 52,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Petition against Ranjan Ramanayake’s nomination dismissed
+
+*2024-10-30 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103034/petition-against-ranjan-ramanayakes-nomination-dismissed) · `en`
+
+The Supreme Court today (30) dismissed a petition filed seeking an order to reject the nomination of former Member of Parliament Ranjan Ramanayake, who is contesting the upcoming general election under the “United Democratic Voice” party from the Gampaha District.
+
+This order has been issued by the three-member Supreme Court judge bench comprising Justices Preethi Padman Surasena, Kumuduni Wickremesinghe and Achala Vengappuli after considering the preliminary objections raised by the attorneys of the defendant party.
+
+The petition, submitted by Gampaha District independent candidate K.M. Mahinda Senanayake, had also sought a ruling declaring that Ramanayake does not have the right to obtain a parliamentary seat or vote.
+
+The Election Commission and its members, Ranjan Ramanayake, the Gampaha District Returning Officer, and several others were named as respondents in the case.
+
+◼️
+
+[Data](articles/790ecf1b.json)
+
+[Extended Data](ext_articles/790ecf1b.ext.json)
+
+---
+
+### Ashen Senaratne eyes parliamentary seat through National List
+
+*2024-10-30 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103033/ashen-senaratne-eyes-parliamentary-seat-through-national-list-) · `en`
+
+Social media activist Ashen Senaratne says that he expects to enter the Parliament through the national list in the upcoming General Election, although his nomination was rejected.
+
+Senaratne stated that he recently joined the Independent Group No. 15 in Colombo, while expressing his aspiration to eventually lead the country, stating, “one day becoming the President of the country is my last hope.”
+
+Senaratne became a controversial figure recently when the District Returning Officer rejected his nomination on behalf of an independent group for the Colombo District. Following this setback, he filed a petition with the Supreme Court, challenging the decision to dismiss his nomination.
+
+However, the Supreme Court, in a ruling delivered by a three-judge bench comprising Justices Preethi Padman Surasena, Achala Vengappuli, and Priyantha Fernando, upheld the Returning Officer’s decision.
+
+...
+
+[Data](articles/0af344a3.json)
+
+[Extended Data](ext_articles/0af344a3.ext.json)
+
+---
+
+### Bail for Johnstan
+
+*2024-10-30 12:56:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோன்ஸ்டனுக்கு-பிணை/175-346313) · `ta`
+
+Johnston Fernando, former minister, granted bail for arrest related to unregistered luxury vehicle seizure.
+
+🟩
+
+Former minister Johnston Fernando has been granted bail in the arrest and interrogation in connection with an unregistered luxury vehicle.
+
+His owned luxury vehicle was seized at the star hotel complex in Colombo. Subsequently, Johnston Fernando, who was summoned to the Criminal Investigation Division, was arrested after an investigation and placed on a court order.
+
+◼️
+
+[Data](articles/23533cd8.json)
+
+[Extended Data](ext_articles/23533cd8.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-10-30 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197496) · `ta`
+
+இன்று புதன்கிழமை (30) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 289.0630 ரூபாவாகவும், விற்பனை விலை 298.1487 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3e2c23a0.json)
+
+---
+
+### கிழக்கு கடலில் கரை ஒதுங்கும் ஒருவகை மீன்கள்
+
+*2024-10-30 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197494) · `ta`
+
+கிழக்கு மாகாணத்தின் மட்டக்களப்பு மாவட்டத்தின் பல இடங்களில் ஒருவகை மீனினம் கடலிலிருந்து செவ்வாய்கிழமை (29) மாலை வேளையிலிருந்து கரை ஒதுங்குகின்றன.
+
+களுதாவளை, தேற்றாத்தீவு, செட்டிபாளையும், மாங்காடு, குருக்கள்மடம் உள்ளிட்ட பல இடங்களிலும் இவ்வாறு மீன்கள் கரை ஒதுகுவதை அப்பகுதி கடற்றொழிலாழர்கள் அவதானித்துள்ளனர்.
+
+சிறிய அவளவிலான கறுப்பு நிற மீனினமே இவ்வாறு கரை ஒதுங்கி கடங்கரையில் இறந்து கிடக்கின்றன.
+
+◼️
+
+[Data](articles/99c3e9f0.json)
+
+---
+
+### Arrest of boyfriend
+
+*2024-10-30 12:37:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியை-கடலில்-தள்ளிவிட்ட-காதலன்-கைது/175-346311) · `ta`
+
+Boyfriend throws girlfriend into sea during argument; 19-year-old dies. Police investigating, suspect arrested. Incident occurred near Biyagala coast.
+
+🟩
+
+The death of a girlfriend who was thrown into the sea by a boyfriend was killed in a rocky rock in Biyagala on Wednesday afternoon (29) afternoon.
+
+Tarushi Chevmini, a 19 -year -old woman from Bahalgoda, Biyagala, has died.
+
+Investigations have revealed that the young man has thrown his girlfriend into the sea after the conflict between the two was violated while the romantic couple was talking on the Biyagala Theiyalagoda coast.
+
+Further investigations into the incident are being carried out by the police and the suspect has been arrested.
+
+◼️
+
+[Data](articles/0c2c8d1f.json)
+
+[Extended Data](ext_articles/0c2c8d1f.ext.json)
+
+---
 
 ### Bangladesh and Sri Lanka to expedite negotiation on PTA
 
@@ -66,11 +178,31 @@ Former Minister Johnston Fernando, was arrested by the CID on October 23 over an
 
 The Former MP was arrested after he had arrived at the CID to provide a statement regarding the unregistered BMW car, allegedly belonging to him.
 
-◼️
+Meanwhile, two suspects had surrendered to the CID in connection with the incident yesterday (29), where they were subsequently arrested and produced before the court.
+
+...
 
 [Data](articles/054deae9.json)
 
 [Extended Data](ext_articles/054deae9.ext.json)
+
+---
+
+### ஐஸ் உள்ளிட்ட போதைப்பொருள்களுடன் நால்வர் ஹட்டனில் கைது
+
+*2024-10-30 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/197488) · `ta`
+
+தீபாவளி பண்டிகையை கொண்டாடுவதற்காக ஐஸ் உள்ளிட்ட போதைப்பொருள்களை எடுத்து வந்த நான்கு இளைஞர்கள் ஹட்டன் பொலிஸாரால் இன்று புதன்கிழமை (30) கைது செய்யப்பட்டுள்ளனர்.
+
+கொழும்பில் தொழில்புரிந்த இவர்கள், தீபாவளி பண்டிகைக்காக தமது ஊர் பகுதிக்கு வந்துள்ளனர். அவர்களின் நடத்தையில் சந்தேகம் ஏற்பட, பொலிஸார் சோதனைக்குட்படுத்தியுள்ளனர்.
+
+இதன்போது ஐஸ், கஞ்சா மற்றும் போதை மாத்திரைகள் என்பன அவர்களிடமிருந்து மீட்கப்பட்டுள்ளன என்று பொலிஸார் தெரிவித்துள்ளனர்.
+
+22 மற்றும் 28 வயதுகளுக்கிடைப்பட்ட குறித்த இளைஞர்கள், விசாரணையின் பின்னர் நீதிமன்றத்தில் முற்படுத்தப்படவுள்ளனர்.
+
+◼️
+
+[Data](articles/0ec3b72b.json)
 
 ---
 
@@ -95,6 +227,44 @@ The Elections Commission and its members, Ranjan Ramanayake and Ranjan Ramanayak
 [Data](articles/8c88b6b1.json)
 
 [Extended Data](ext_articles/8c88b6b1.ext.json)
+
+---
+
+### இஸ்ரேலிய சுற்றுலாப்பயணிகளிற்கு பயங்கரவாத அச்சுறுத்தல் - அதிர்ச்சியில் அறுகம் குடா - கார்டியன்
+
+*2024-10-30 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197489) · `ta`
+
+அறுகம்குடாவின் பொன்நிற மணல்கள் பொதுவாக ஆபத்தற்றவை விடுமுறையில்  இலங்கை வரும் சுற்றுலாப்பயணிகள் நீச்சலிற்காகவும் கடல்சாகச விளையாட்டுகளிற்காகவும் கடற்கரையோரத்தில் ஓய்வாக நேரத்தை செலவிடுவதற்காகவும் அங்கு செல்வார்கள்.
+
+இலங்கைக்கான அமெரிக்க தூதரகமும்,அதன் பின்னர் இலங்கை பொலிஸாரும்,இஸ்ரேலின் தேசிய பாதுகாப்பு பேரவையும் அந்த பகுதியில் பாரிய பாதுகாப்பு அச்சுறுத்தல் காணப்படுவதாக எசசரிக்கைகளை வெளியிட்டனர்.
+
+இந்த தாக்குதலின் இலக்காக இஸ்ரேலிய சுற்றுலாப்பயணிகளே காணப்பட்டனர் என அதிகாரிகள் கருதினர் இதன் காரணமாக அவர்களை அங்கிருந்து உடனடியாக வெளியேறுமாறு வேண்டுகோளை விடுத்தனர்.
+
+இதன் பின்னர் நூற்றுக்கணக்கான பொலிஸாரும் புலனாய்வு பிரிவினரும் அந்த சிறிய நகரத்திற்குள் நுழைந்தனர்.அவர்கள் அங்கு தற்போது ரோந்துநடவடிக்கைகளில்,ஈடுபட்டுள்ளனர் வீதி தடைகளை அமைத்துள்ளனர்.
+
+இலங்கை பொலிஸாரும் அமைச்சர்களும் அறுகம்குடாவில் காணப்படும் அச்சுறுத்தல் குறித்து தெளிவான விடயங்களை வழங்காத போதிலும் அது காசா மற்றும் லெபனானில் இடம்பெறும் யுத்தங்களுடன் தொடர்புடைய விடயம் என்பது தெளிவான விடயம்.
+
+...
+
+[Data](articles/ff0ce55e.json)
+
+---
+
+### திட்டமிட்டப்படி உயர்தரப் பரீட்சை  நடைபெறும் - பரீட்சைகள் திணைக்களம்
+
+*2024-10-30 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197485) · `ta`
+
+2024 ஆம் ஆண்டுக்கான கல்விப் பொதுத்தரதார உயர்தர பரீட்சை பிற்போடமாட்டாது திட்டமிட்டப்படி நடைபெறும் என பரீட்சைகள் திணைக்களம் இன்று புதன்கிழமை (30) தெரிவித்துள்ளது.
+
+அதன்படி, கல்விப் பொதுத்தரதார உயர் தர பரீட்சை   நவம்பர் மாதம் 25 ஆம் திகதி முதல் டிசம்பர் மாதம் 20 ஆம் திகதி வரை நடைபெறும் என பரீட்சைகள் திணைக்கள ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+
+மாணவர்கள்  பரீட்சை திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளத்தில் இருந்து மாத்திரம் பரீட்சை நேர அட்டவணையை பதிவிறக்கம் செய்ய வேண்டும்.
+
+எனவே,  மாணவர்கள் தயவுசெய்து பரீட்சை திணைக்களம் மற்றும் அதன் உத்தியோகபூர்வ இணையத்தளத்தில் வெளியிடப்பட்ட உத்தியோகபூர்வ அறிவிப்புகள் மற்றும் சுற்றறிக்கைகளை மட்டும் கவனத்தில் கொள்ளுங்கள்.  சமூக ஊடகங்களில் பகிரப்படும் போலி தகவல்களை நம்பவேண்டாம் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/905ef3fe.json)
 
 ---
 
@@ -443,6 +613,42 @@ A police officer said that the dog, who was injured in the shooting, was found d
 [Data](articles/b2cd69a2.json)
 
 [Extended Data](ext_articles/b2cd69a2.ext.json)
+
+---
+
+### ‘கங்குவா’ திரைப்பட எடிட்டர் நிஷாத் யூசுப் திடீர் மரணம்
+
+*2024-10-30 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/197476) · `ta`
+
+‘கங்குவா’ திரைப்பட எடிட்டர் நிஷாத் யூசுபின் திடீர் மரணத்தால் திரையுலகினர் அதிர்ச்சியில் இருக்கிறார்கள்.
+
+நிஷாத் யூசுப் மலையாளத்தில் ‘தள்ளுமாலா’, ‘உண்டா’, ‘ஒன்’ உள்ளிட்ட பல்வேறு படங்களுக்கு எடிட்டராக பணிபுரிந்துள்ளார். தற்போது தயாராகி வரும் மோகன்லால் மற்றும் மம்முட்டி படங்களுக்கு எடிட்டராக பணிபுரிந்து வருகிறார். 2022 ஆம் ஆண்டு ‘தள்ளுமாலா’ படத்துக்காக கேரள அரசின் சிறந்த எடிட்டருக்கான விருதினை வென்றவர் என்பது நினைவுக் கூரத்தக்கது.
+
+தமிழில் சிவா இயக்கத்தில் சூர்யா நடித்துள்ள ‘கங்குவா’ படத்தின் எடிட்டர் நிஷாத் யூசுப் தான். இவர் கொச்சி பனம்பில்லி நகரில் உள்ள அடுக்குமாடி குடியிருப்பில் இன்று புதன்கிழமை (30) அதிகாலை 2 மணிக்கு காலமானார். எப்படி மரணம் ஏற்பட்டது உள்ளிட்ட விவரங்கள் இனிதான் தெரியவரும். இவருக்கு வயது 43 ஆகிறது.
+
+...
+
+[Data](articles/5fb9d11f.json)
+
+---
+
+### குரங்குகளுக்கு உணவளிக்க நிதி நன்கொடை வழங்கிய பிரபல நடிகர் அக்சய் குமார்
+
+*2024-10-30 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197479) · `ta`
+
+இந்தியாவில் உத்தர பிரதேச மாநிலம் அயோத்தியில் குரங்குகளுக்கு உணவளிக்கும் பணிகளை ஆஞ்சநேயா சேவா என்ற தொண்டு நிறுவனம் மேற்கொண்டு வருகிறது.
+
+இந்நிலையில், அயோத்தியில் உள்ள குரங்குகளுக்கு உணவளிக்கும் தொண்டு நிறுவனத்திற்கு பொலிவூட் நடிகர் அக்சய் குமார் இந்திய மதிப்பில் ஒரு கோடி ரூபாய் நன்கொடை வழங்கியுள்ளார்.
+
+இது குறித்து ஆஞ்சநேயா சேவா தொண்டு நிறுவனத்தின் தலைவர் பிரியா குப்தா தெரிவித்துள்ளதாவது,
+
+"நடிகர் அக்சய் குமார் இரக்க குணம் கொண்ட பண்புள்ள மனிதர். அவர் மிகுந்த பெருந்தன்மையோடு இந்த நன்கொடையை வழங்கியுள்ளார். நாங்கள் குரங்குகளுக்கு உணவளிப்பதோடு மட்டுமின்றி, குரங்குகளால் மனிதர்களுக்கு எந்த வகையிலும் பாதிப்பு ஏற்படாத வகையில் கவனமாக நடந்து கொள்கிறோம்" என்று தெரிவித்துள்ளார்.
+
+நடிகர் அக்சய் குமார் நடித்துள்ள 'சிங்கம் அகெய்ன்' திரைப்படம் தீபாவளியை முன்னிட்டு நாளை (31) திரைக்கு வர உள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1326d216.json)
 
 ---
 
@@ -2067,301 +2273,5 @@ Rukwood Tamil College, the 130 students, could not be conducted at the absence o
 [Data](articles/1d3711c5.json)
 
 [Extended Data](ext_articles/1d3711c5.ext.json)
-
----
-
-### Hizbullah claims that he is going to win by claiming false accounts - Amir Ali
-
-*2024-10-29 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197457) · `ta`
-
-Hizbullah claims victory through fake accounts. United People's Alliance Batticaloa District candidate Amir Ali accuses Hizbullah of lying. Hizbullah's influence waning in Kattankudi. Party leader boasts international status.
-
-🟩
-
-Hizbullah took a serious effort to ask for elections in the United People's Alliance.
-
-United People's Alliance Batticaloa District Candidate MMS Amir Ali said that Hizbullah, who has been compared to the Muslim Congress, is now saying that he is going to win false accounts.
-
-The Sri Lanka Muslim Congress in the Batticaloa district cannot get more than twenty -two thousand votes.
-
-Hizbullah's realm has collapsed in Kattankudi. It is the choice for everyone in this district.
-
-Hizbullah runs the streets under the guise that a major candidate in Calcutta is in the field of voting and adding him to him.
-
-I don't need to say Hizbullah. His party leader has said that he is a world famous universe.
-
-When he is unable to go to parliament, does he see the possibility of going to Parliament from his party and he is looking to fool the people?No. Didn't he still lie from the flip?The question is with me.
-
-...
-
-[Data](articles/51ef23d4.json)
-
-[Extended Data](ext_articles/51ef23d4.ext.json)
-
----
-
-### Deepavali increases advances
-
-*2024-10-29 21:09:50* · [`adalk`](https://www.ada.lk/breaking_news/දීපවාලි-උත්සව-අත්තිකාරම්-වැඩි-කරයි/11-412749) · `si`
-
-Diwali festival: Govt increases loan for plantation companies from Rs. 1 lakh to Rs. 2 lakhs for employees.
-
-🟩
-
-Festival of State Plantation Companies has been increased by the Government Plantation Companies to mark the Diwali festival. The festived advances were increased to Rs. 100,000 before the previous Rs. 100,000.
-
-Accordingly, the state plantation company will be provided with the employees of the State Plantation Company and the People's Plantation Companies under the Janatha Estate Development Board Rs. 200,000.
-
-◼️
-
-[Data](articles/62fdf1f7.json)
-
-[Extended Data](ext_articles/62fdf1f7.ext.json)
-
----
-
-### Salary proposed to increase salaries in formal
-
-*2024-10-29 20:50:38* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-වැඩි-කිරීමට-යෝජනා-කළේ-විධිමත්-අයුරින්/11-412748) · `si`
-
-Former President Ranil Wickremesinghe announces removal of salary anomalies for public servants. Cabinet approves salary increases after consultation. Former President vows to continue fighting for public servant rights.
-
-🟩
-
-Former President Ranil Wickremesinghe said that the salary anomalies were removed and the salaries of the officers were consulted with all the officers and obtain the Cabinet approval.
-
-The Cabinet decision to increase public servants and the Cabinet Memorandum and the appointment of the Cabinet Memorandum and the former President released the appointment to the media.
-
-Former President Ranil Wickremesinghe said that Duminda Hulangamuwa, the Economic Advisory Committee of the Udaya R.naviratne, who was appointed to remove the salary anomalies of the public service.
-
-The former President said that the government had the best to increase the salaries of public servants to increase the salary increase immediately.
-
-Prime Minister Harani Amarusoley said that Prime Minister Harani Amarumazuriya said that he would need to learn about the constitution to work on the Cabinet.
-
-Former President Ranil Wickremesinghe further stated that he will continue to fight for the rights of public servants.
-
-◼️
-
-[Data](articles/3ad082c9.json)
-
-[Extended Data](ext_articles/3ad082c9.ext.json)
-
----
-
-### Sri Lanka does not consider Arugam Bay attack plot as pressure tactic: Cabinet Spokesman
-
-*2024-10-29 20:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-does-not-consider-arugam-bay-attack-plot-as-pressure-tactic-cabinet-spokesman-185594/) · `en`
-
-ECONOMYNEXT – Sri Lanka is yet to ascertain if the attack plan at its Eastern coastal tourism hotspot of Arugam Bay is a false alarm, but it does not consider the incident as a pressure tactic, Cabinet spokesman Vijitha Herath said.
-
-The intelligence information of a possible attack against Jews in an Arugam Bay area was first shared by foreign intelligence agency with the local counterpart and the government swiftly tightened the security to ensure the safety of both locals and foreign tourists, he said.
-
-“It is yet to ascertain if this is a a false alarm because only after the investigation we will be able to find whether the information is true or false,” Herath told the weekly post-Cabinet news briefing in Colombo on Tuesday (29) while responding to a question if the government thinks it was a false alarm or a pressure tactic by an external group.
-
-The U.S. Embassy in Colombo issued a travel advisory first asking its citizens to avoid Arugam Bay.
-
-...
-
-[Data](articles/fd4c83a4.json)
-
-[Extended Data](ext_articles/fd4c83a4.ext.json)
-
----
-
-### The housemaid who stole the pilot's bag of the aircraft he came
-
-*2024-10-29 20:40:43* · [`adalk`](https://www.ada.lk/breaking_news/තමා-පැමිණි-ගුවන්-යානයේ-ගුවන්-නියමුවාගේ-බෑගය-සොරා-ගත්-ගෘහ-සේවිකාව/11-412747) · `si`
-
-Housemaid steals pilot's bag at Sri Lanka airport. Caught on camera leaving airport in three-wheeler. Bag recovered, both arrested. Case goes to court.
-
-🟩
-
-From Abu Dhabi, the airport, the airport, has been arrested by the airport in the Katunayake aircraft within three hours by three hours by three hours.
-
-This pilot is a 40-year-old Colombian. She is a 45 year old housemaid from the Hunupitiya area in Wattala.
-
-She was from Abu Dhadi from AU.38 am on 08.38 am.
-
-After the aircraft landed at the Katunayake airport, all passengers were out of the aircraft, including the pilot after their flight.
-
-Later, they have completed their luggage, when they are ready to go out of the airport, the pilot's trail bag is not available.
-
-After educating the Itiage Aviation Manager, the safe camera system has been monitored with the assistance of airport security personnel.
-
-A woman who was getting off the plane, the airport was observed to go elsewhere, and the bag was observed.
-
-According to the observation of the camera system, she will come out of the airport and leaving a three-wheeler and leaving a three-wheeler.
-
-...
-
-[Data](articles/2b94896b.json)
-
-[Extended Data](ext_articles/2b94896b.ext.json)
-
----
-
-### Special holidays the next day for Diwali
-
-*2024-10-29 20:38:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீபாவளிக்கு-மறுநாள்-விசேட-விடுமுறை/175-346281) · `ta`
-
-Tamil schools in Uva Province get holiday on Nov 1, 2024 due to Diwali celebration. Classes resume on Nov 9, 2024.
-
-🟩
-
-A special holiday has been issued to Tamil schools in Uva Province on the occasion of Diwali.
-
-As the Diwali festival is to be celebrated tomorrow (31), the Governor of Uva has issued a directive to all the Zonal Education Directors to grant holidays to the Uva Provincial Schools on Friday as it is difficult to attend Tamil students on the day of Diwali.
-
-Accordingly, it has been announced that Tamil schools will be granted holidays on 01.11.2024 and the educational activities will be held on 09.11.2024.
-
-◼️
-
-[Data](articles/8931e48d.json)
-
-[Extended Data](ext_articles/8931e48d.ext.json)
-
----
-
-### Will be fulfilled within one and a half years;Assurance
-
-*2024-10-29 20:33:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்றரை-வருடத்திற்குள்-நிறைவேற்றப்படும்-ஜனாதிபதி-உறுதி/175-346280) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake promises swift action on digitalization and economic development. He vows transparency and efficiency in governance, addressing corruption and investment challenges within 1.5 years.
-
-🟩
-
-President Anura Kumara Dissanayake has promised to take the steps to be taken without any hesitation, as he and the current government have no special links to build the country and develop the economy.
-
-The President made this statement while addressing the President's Office at the Presidential Office today (29).
-
-The President said that the importance of digitalization in Sri Lanka and the obtaining digital identity cards was discussed and that steps would be taken to complete the tasks in one and a half years.
-
-Discussions were also discussed with frequent discussions of Sri Lanka's current challenges and corruption issues, including barriers to the long -term project deadline and investment.. The President emphasized that his administration is committed to making all the activities a lighter, transparent and efficient organization. Remble
-
-◼️
-
-[Data](articles/c245fbe4.json)
-
-[Extended Data](ext_articles/c245fbe4.ext.json)
-
----
-
-### Diwali allowance is doubled
-
-*2024-10-29 20:29:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தீபாவளிக்-கொடுப்பனவு-இரட்டிப்பாக-அதிகரிப்பு/76-346279) · `ta`
-
-Diwali allowance doubled to 20,000 Rupees for Tamil employees in plantation companies. Decision made by Secretary PK to boost economy during crisis.
-
-🟩
-
-One of the most important festivals of the Tamil people, Diwali, is an annual festival of festivals for the Diwali festival, which has been increased by ten thousand rupees.
-
-It has been decided to provide such an increased festive season for employees working in the plantation companies managed under the State Plantation Company, the Elkaduwa Plantation Company and the Public Estate Development Board.
-
-The Diwali festival, which has been paid by ten thousand rupees (10,000) in the past years, has been increased to twenty thousand (20,000) this year.
-
-Secretary to the Ministry PK has decided to provide this special festive season, with the cost of living and the purchase of workers due to the economic crisis in the country.. Prabhat Chandra Keerthi said.
-
-He added that Diwali wishes to all the Tamil people in the entire country, like the Tamil nationals of the hill country celebrating the Diwali festival of the Tamil people.
-
-...
-
-[Data](articles/04a413b0.json)
-
-[Extended Data](ext_articles/04a413b0.ext.json)
-
----
-
-### Public servants now understand - Dilith
-
-*2024-10-29 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202706) · `si`
-
-Dilith Jayaweera, leader of Universal District Candid Entrepreneurship, addresses state employees about delayed promises and encourages opposition role in Parliament.
-
-🟩
-
-The state employees have already understood that the promises given before the present government was given to power.
-
-Speaking to the media in Divulapitiya, he said this.
-
-The Leader of the Universal District Candid Entrepreneurship Dilith Jayaweera,
-
-"We have made a political accompry to join people who love the people who love the country in the event of all the mainstream political forces melt.  නව දේශපාලන සංස්කෘතියේ ආරම්භය සඳහා එඩිතර විපක්ෂයට අවස්ථාව ලබාදෙන්න."
-
-"State employees have now been clearly realized ... that all promises have been not yet a strategic program. That is why the teachers wages were more late for more than 10 days. "
-
-"We urge the people to take us to Parliament as a bold opposition to Parliament for you to fulfill your expectations."
-
-...
-
-[Data](articles/b01f1dd7.json)
-
-[Extended Data](ext_articles/b01f1dd7.ext.json)
-
----
-
-### T Sorsi, Stubs Virgin centuries;South Africa
-
-*2024-10-29 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197456) · `ta`
-
-South Africa leads 2nd Test vs Bangladesh after strong batting performance. Tony de Zorzi and Tristan Stubbs shared 201-run partnership, key to team's success. Pitch favors South Africa, setting stage for series win.
-
-🟩
-
-South Africa is in a strong position with the help of the virgin centuries concentrated in the 2nd Test match at the Sahur Ahmad Chaudhary Stadium against Bangladesh on Tuesday (29).
-
-South Africa, who decided to bat first in the second Test, scored 307 runs for the loss of 2 wickets in its first innings at the end of the first day's match.
-
-South Africa reached its strength as Tony D Source and Triston Stupus shared 201 runs in their eighth and 5th match.
-
-This is the second wicket -in -the -second wicket -shared 3rd wickets shared by the South African pair on Asian soil.
-
-South Africa has laid the foundation to capture the series by reaching a strong position.
-
-South Africa players have taken advantage of the pitch in favor of the pitch.
-
-The opening player Aidon Margram and Tony de Zori shared 69 runs.
-
-Subsequently, Tony De Soozi and Triston Stubs were very responsible and shared 201 runs in the second wicket and shared the total number.
-
-...
-
-[Data](articles/3301ba54.json)
-
-[Extended Data](ext_articles/3301ba54.ext.json)
-
----
-
-### A person arrested in the production of leakage
-
-*2024-10-29 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197455) · `ta`
-
-Man arrested for producing leaks in Madhulseem. Police found 48,750 ml Koda on rooftop and 14,750 mg Kota hidden in house. Two suspects detained. Investigation ongoing.
-
-🟩
-
-Madhulseem police said that a man who was involved in leakage production in the plantation in the new category of Madhulseem has been arrested.
-
-A man from Madova, aged 49, has been arrested, police said.
-
-Madhulseem police have been searching for the confidential information available to the police that a person is involved in leakage production.
-
-The police said that 48750 milliliters of Koda had been seized on the roof of the house (Civilinkur).
-
-Madhulseem police said that Madhulseem is conducting further investigations against the suspect.
-
-In addition, 14750 mg of kota, which was hidden in the back of the house in the 6th area of ​​the Madulseim police division, was seized, Madhulseem police said.
-
-A 43 -year -old man from the same area has been arrested, police said.
-
-◼️
-
-[Data](articles/143e9dd0.json)
-
-[Extended Data](ext_articles/143e9dd0.ext.json)
 
 ---

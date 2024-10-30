@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 07:27:55**
+As of **2024-10-30 08:03:06**
 
 ## Newspaper Stats
 
-*Scraped **52,136** Articles*
+*Scraped **52,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ dailyftlk | 3,560
 dailymirrorlk | 4,733
 adalk | 4,848
 adaderanalk | 6,174
-tamilmirrorlk | 7,226
+tamilmirrorlk | 7,227
 virakesarilk | 8,421
-adaderanasinhalalk | 9,067
+adaderanasinhalalk | 9,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,129 (100.0%) of 52,136 articles have been extended.
+52,132 (100.0%) of 52,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Postal voting in general election today
+
+*2024-10-30 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202713) · `si`
+
+Here's a summary of postal voting in the general election in approximately 200 characters:
+
+
+
+"Postal voting allows eligible citizens to cast ballots from home. It's convenient but requires careful handling to ensure ballot secrecy and timely delivery."
+
+🟩
+
+◼️
+
+[Data](articles/ca9af4f6.json)
+
+[Extended Data](ext_articles/ca9af4f6.ext.json)
+
+---
+
+### Showers in several areas today
+
+*2024-10-30 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202711) · `si`
+
+Showers expected in Western, Sabaragamuwa, North Western, Northern provinces and Galle, Matara districts today. Evening/night showers predicted. Uva, Eastern Provinces may experience severe rain. Public advised to take precautions against thunderstorms and lightning.
+
+🟩
+
+Several spells of showers in the Western, Sabaragamuwa, North Western and Northern provinces and in the Galle and Matara districts.
+
+The Department of Meteorology announced that there would be showers at several places in the evening or night during the evening.
+
+Uva and Eastern Provinces are located mm. About 75 can cause severe rain.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/8b6f5dcc.json)
+
+[Extended Data](ext_articles/8b6f5dcc.ext.json)
+
+---
 
 ### Invest in care – a shared responsibility, a social imperative, and a driver of progress
 
@@ -107,6 +151,8 @@ Are we doing it right? Is this our potential? Is international marketing done in
 ...
 
 [Data](articles/5281e16c.json)
+
+[Extended Data](ext_articles/5281e16c.ext.json)
 
 ---
 
@@ -301,6 +347,28 @@ The Minister confirmed that while no immediate recalls of overseas diplomats are
 [Data](articles/3456feb3.json)
 
 [Extended Data](ext_articles/3456feb3.ext.json)
+
+---
+
+### ’டிஜிட்டல் மயமாக்கலை விரைவுபடுத்த நடவடிக்கை’
+
+*2024-10-30 02:51:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-மயமாக்கலை-விரைவுபடுத்த-நடவடிக்கை/175-346299) · `ta`
+
+எதிர்வரும் மூன்று வருடங்களில் முழு நாட்டையும் டிஜிட்டல் மயமாக்க நடவடிக்கை எடுப்பதாக ஜனாதிபதி அநுர குமார திசாநாயக்க தெரிவித்தார்.
+
+டிஜிட்டல் மயமாக்கல் ஊடாக இலங்கையை மற்றுமொரு நிலைக்கு உயர்த்த முடியும் எனவும், அதற்காக டிஜிட்டல் மயமாக்கலுக்கு அவசியமான தலையீட்டினை அரசாங்கம் ஏற்கெனவே ஆரம்பித்துள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+வணிகச் சபை பிரதிநிதிகளுடன் நேற்று (29) ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற சந்திப்பிலேயே ஜனாதிபதி அநுரகுமார திசாநாயக்க இதனைச் சுட்டிக்காட்டினார்.
+
+எந்தவொரு கொடுப்பனவு மற்றும் சம்பளத்தையும் பெறாமல் பொருளாதார முன்னேற்றத்துக்கு உதவவும் வணிகச் சபையின் பிரதிநிதிகள் இதன்போது இணக்கம் தெரிவித்தனர்.
+
+காப்புறுதி,வங்கி,நிர்மாணம், சுற்றுலா,பெருந்தோட்ட தொழில்துறை, சிறு மற்றும் மத்திய தர வர்த்தகம் உள்ளிட்ட பல துறைகளின் பிரச்சினைகள் மற்றும் எதிர்கால இலக்குகள் குறித்து இதன் போது தீர்க்கமாக கலந்துரையாடப்பட்டது.
+
+மேலும் நாட்டின் பொருளாதாரத்தை பலப்படுத்தி அதற்கு இணையாக நாட்டு மக்களுக்கு சலுகைகளை பெற்றுக்கொடுக்க நடவடிக்கை எடுப்பதாகவும் ஜனாதிபதி அநுரகுமார திசாநாயக்க இங்கு தெரிவித்தார்.
+
+...
+
+[Data](articles/287d6ed2.json)
 
 ---
 
@@ -2293,77 +2361,5 @@ The two persons were arrested after the Criminal Investigation Department was ha
 [Data](articles/f0123f6c.json)
 
 [Extended Data](ext_articles/f0123f6c.ext.json)
-
----
-
-### TID submits confidential report to court on Arugam Bay investigation
-
-*2024-10-29 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103010/tid-submits-confidential-report-to-court-on-arugam-bay-investigation) · `en`
-
-The Terrorism Investigation Division (TID) has informed the Colombo Magistrate’s Court that two suspects, who were arrested in relation to the investigations carried out according to the intelligence received regarding a plan to launch a terrorist attack targeting a tourist attraction in Sri Lanka, will be detained further for interrogations.
-
-The investigation officers have also submitted a highly confidential report regarding the progress of investigations to the Colombo Additional Magistrate Pasan Amarasena today (29).
-
-The Additional Magistrate, who considered the facts presented, ordered the TID to report further progress of the investigations to the court.
-
-...
-
-[Data](articles/38807c37.json)
-
-[Extended Data](ext_articles/38807c37.ext.json)
-
----
-
-### 90 days of blocking for both of them
-
-*2024-10-29 15:34:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவருக்கும்-90-நாட்கள்-தடுப்புகாவல்/175-346272) · `ta`
-
-Sri Lanka: Two suspects blocked 90 days under Terrorism Act for alleged tourist-targeted attack. Foreign tourists involved. Court orders detention based on intelligence report.
-
-🟩
-
-At the request of foreign terrorist organizations, two suspects suspected of launching a terrorist attack in Sri Lanka targeting areas where foreign tourists are mobilized, according to the President's order as the Defense Minister.
-
-The section has informed the court on Tuesday (29) in the presence of Colombo Additional Magistrate Basan Amarasena.
-
-The Terrorist Investigation Department of the Criminal Investigation Department filed a special petition for the suspects have been arrested in accordance with the Terrorism Act.
-
-A number of foreign tourists have filed a special proposal in the case of the alleged terrorist attack on the alleged tourism that is allegedly staying.
-
-The Terrorist Investigation Division of the Criminal Investigation Department said that two persons arrested in connection with the incident have been detained.
-
-...
-
-[Data](articles/e9fa10a9.json)
-
-[Extended Data](ext_articles/e9fa10a9.ext.json)
-
----
-
-### The interim ban is prevented from interrupting the cable car project
-
-*2024-10-29 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202693) · `si`
-
-Court extends interim injunction cable car project construction delay
-
-🟩
-
-The Court of Appeal today (29) was held today (29) to extend the interim injunction or interim order to interfere with the construction of the cable car project.
-
-The Court of Appeal has issued a Rit petition filed by Amber Adventure Private Limited in Rajagiriya, Rajagiriya area.
-
-Accordingly, the interim injunction order issued to the Colombo Divisional Secretariat in Ambuluwawa, preventing the intervention or interdependence of the Sri Lankan cable car project in the Ambuluwawa area was devoted to December 02.
-
-This petition is Mohammed Lafar Thahaire and P. The Court of Appeal was summoned before Kumaran Ratnam.
-
-The State Counsel appearing on behalf of the respondents called for a date to file protests related to this petition.
-
-Attorney at Law Sanath Wijewardene on behalf of the petitioner Sanath Wijewardene, the Divisional Secretary of the Uttarakarawa Car is a regional area of ​​the Urban Development Authority.
-
-...
-
-[Data](articles/19c53549.json)
-
-[Extended Data](ext_articles/19c53549.ext.json)
 
 ---

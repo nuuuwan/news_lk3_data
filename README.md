@@ -1,50 +1,82 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 09:00:00**
+As of **2024-10-30 09:14:10**
 
 ## Newspaper Stats
 
-*Scraped **52,148** Articles*
+*Scraped **52,152** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 413
+dbsjeyarajcom | 414
 colombotelegraphcom | 530
-bbccomsinhala | 530
+bbccomsinhala | 531
 islandlk | 3,106
 economynextcom | 3,170
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,848
+adalk | 4,849
 adaderanalk | 6,174
 tamilmirrorlk | 7,227
 virakesarilk | 8,421
-adaderanasinhalalk | 9,072
+adaderanasinhalalk | 9,073
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,141 (100.0%) of 52,148 articles have been extended.
+52,146 (100.0%) of 52,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
 
-### විදෙස් ජාතිකයින් 6 දෙනෙක් අත්අඩංගුවට
+### Several places of two provinces leave on November 1st
+
+*2024-10-30 08:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202717) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka: Tamil schools in central and Uva provinces closed Nov 1 due to Diwali festival. Schools decided to hold events on Nov 9 instead.
+
+🟩
+
+මධ්‍යම සහ ඌව පළාත්වල සියලුම රජයේ දෙමළ පාසල්වලට නොවැම්බර් මස 1 වනදා නිවාඩු ලබාදී තිබේ.
+
+නොවැම්බර් මස 31 වන දිනට යෙදෙන දීපවාලි උත්සවය නිමිත්තෙන් අදාළ පළාත්වල දෙමළ පාසල්වලට නිවාඩු ලබා දී ඇත.
+
+එම නිවාඩුව ආවරණය කිරීම සඳහා අදාළ පාසල් නොවැම්බර් මස 9 වන සෙනසුරාදා දින පැවැත්වීමට තීරණය කළ බව ද කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන් විසින් දැනුම්දී තිබේ.
+
+◼️
+
+[Data](articles/0c66db73.json)
+
+[Extended Data](ext_articles/0c66db73.ext.json)
+
+---
+
+### Six foreign nationals arrested
 
 *2024-10-30 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202716) · `si`
 
-වීසා නොමැතිව මෙරට රැඳී සිටි විදේශිකයින් 6 දෙනෙකු සීදුව අමන්දොළුව ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+Foreigners arrested in Amandoluwauwa: Six individuals from Bangladesh aged 18, 23, 26, 39, and 43 detained without visas during a police raid for alleged immigration law violations.
 
-පොලීසිය පැවසුවේ ආගමන විගමන නීති උල්ලඝනය කරමින් විදේශිකයන් පිරිසක් සිටින බවට ලද තොරතුරකට අනුව සිදුකළ වැටලීමකදී සැකකරුවන් අත්අඩංගුවට ගැනීමට හැකිවූ බවය.
+🟩
 
-අත්අඩංගුවට ගෙන ඇත්තේ 18, 23, 26, 39 හා 43 යන වයස් සීමාවේ පසුවන බංගලිදේශ ජාතිකයින් බව පොලීසිය පැවසීය.
+Six foreigners were arrested in the Amandoluwauwa area without visa.
+
+The police said that the suspects were arrested during a raid that there were a group of foreigners abused immigration laws.
+
+The arrested persons were the Bangladesh, 18, 23, 26, 39 and 43.
 
 ◼️
 
 [Data](articles/b63e0579.json)
+
+[Extended Data](ext_articles/b63e0579.ext.json)
 
 ---
 
@@ -239,6 +271,8 @@ In this post-crisis milieu, Government has a difficult balancing act to ensure a
 ...
 
 [Data](articles/21671abd.json)
+
+[Extended Data](ext_articles/21671abd.ext.json)
 
 ---
 
@@ -544,6 +578,42 @@ It is reported that a security officer at the Beliatta railway station was searc
 
 ---
 
+### දුරකතන සමාගම් ඔබේ පැරණි දුරකතන අංක යළි නිකුත් කිරීම නිසා ඔබට විය හැකි හානි
+
+*2024-10-30 02:05:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cde7kj0yxz1o) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka telecom companies reissue old phone numbers due to shortages. This can cause issues like fraud or misuse of recycled numbers. The Telecommunication Regulatory Commission allows reuse of disconnected numbers after 6 months to address the shortage. However, this practice raises concerns about privacy and security.
+
+🟩
+
+දුරකතන සමාගම් ඔබේ පැරණි දුරකතන අංක යළි නිකුත් කිරීම නිසා ඔබට විය හැකි හානි
+
+"Can a Mudalali Simple load?How much is the Cube? "This call was received through the mobile phone, not a building material for sale.
+
+ඔහු සේවය කරන ආයතනයේ ම තවත්, මාධ්‍යවේදිනියකට කෙටි පණිවුඩයක් ලැබී තිබිණි.
+
+It was called a reminder to renew the ship's catch test certificate this year.
+
+A person who was working in a private bank had been asked to give a loan back through a call.
+
+All the issues related to the newly purchased telephone numbers appear to have been purchased.
+
+Further investigations into the telephone numbers and the telephone numbers received by the problem numbers and the number of SMS received show that they were previously used.
+
+The telephone numbers used before telephone numbers are not murmured due to telephone numbers and various text messages.
+
+...
+
+[Data](articles/e8616377.json)
+
+[Extended Data](ext_articles/e8616377.ext.json)
+
+---
+
 ### In the election to protect Tamil representation -. Kukadasan
 
 *2024-10-30 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197461) · `ta`
@@ -698,6 +768,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 
 [Data](articles/77e37d9a.json)
 
+[Extended Data](ext_articles/77e37d9a.ext.json)
+
 ---
 
 ### India-Sri Lanka Joint Working Group discusses mutually acceptable and long-lasting solution for fishermen issue
@@ -847,6 +919,24 @@ The players have been able to sign up from the first day of the tournament.
 [Data](articles/540d8bc9.json)
 
 [Extended Data](ext_articles/540d8bc9.ext.json)
+
+---
+
+### ඉමාම් වාර්තාවේ කරුණු පිළිගන්නේ නෑ
+
+*2024-10-29 21:52:08* · [`adalk`](https://www.ada.lk/breaking_news/ඉමාම්-වාර්තාවේ-කරුණු-පිළිගන්නේ-නෑ/11-412750) · `si`
+
+පාස්කු ඉරුදින ප්‍රහාරය පිළිබඳව ඉමාම් වාර්තාවේ අඩංගු කරුණු පිළිනොගන්නා බව කැබිනට් ප්‍රකාශක අමාත්‍ය විජිත හේරත් මහතා පැවසුවේය.
+
+චැනල් 4 නාලිකාවේ විකාශය කළ වීඩියෝව සම්බන්ධයෙන් හිටපු පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා කරන ලද හෙළිදරව්ව කාගේ අරමුණක් ඉටු කිරීම වෙනුවෙන් කරන ලද්දක් ද යන වග පැහැදිලි බවත්,  ශානි අබේසේකර මහතා හා රවී සෙනවිරත්න මහතා ඉලක්ක කර ගනිමින් මෙම හෙළිදරව් කිරීම් සිදුකරන බවත් කැබිනට් ප්‍රකාශක අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
+
+චැනල් 4 නාලිකාවේ සිදුවීම සම්බන්ධයෙන් වූ වාර්තාව වැරදි බවට හිටපු ආරක්ෂක ලේකම්වරයා විසින් නිවේදනයක් නිකුත් කරමින් පැවසීම පවා දේශපාලනික කාරණයක් බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+පරීක්ෂණයක් සිදුනොකර එවැන්නක් පැවසුවේ යම් පිරිසක් බේරාගැනීමේ අරමුණින් බවත්, වත්මන් ආණ්ඩුව සාධාරණ පරීක්ෂණයක් පවත්වමින් පාස්කු ඉරිදින ප්‍රහාරය සම්බන්ධ සත්‍ය තොරතුරු අනාවරණය කර ගැනීම ආරම්භ කර ඇති බවත්, වත්මන් රජයට කිසිවෙකුත් ආරක්ෂා කිරීමට අවශ්‍ය නොවන බවත් ඔහු සඳහන් කළේය.
+
+...
+
+[Data](articles/f821a449.json)
 
 ---
 
@@ -1706,6 +1796,20 @@ It has also been revealed that the woman was rushed to the three -wheeler to lea
 
 ---
 
+### Ceylon Workers Congress President Saumiyamoorthy Thondaman was the Dynamic Leader of Sri Lanka’s  Hill Country Tamils for many Decades.
+
+*2024-10-29 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84976) · `en`
+
+The 25th death anniversary of Plantation Tamil Patriarch Saumiyamoorthy Thondaman is being commemorated today 30 October 2024. Saumiyamoorthy (name is spelled as Savimiyamoorthy and  Saumiamurthy also) Thondaman who passed away on 30 October 1999, was the undisputed leader of Sri Lanka’s predominantly Indian Tamil plantation proletariat. As a journalist,  I have had the good fortune of interacting with him closely for several years. He was a leader whom I liked, admired and respected.
+
+In my opinion, Saumiyamoorthy Thondaman was the shrewdest tactician and masterful strategist among Tamil political leaders in recent times. He was a pragmatic realist who grasped in essence that politics is the art of the possible. Applying Chanakyan methods in a practical sense, this larger than life leader of Sri Lanka’s Tamils of recent Indian origin – known as “Indian Tamils” – helped usher in a period of political empowerment and renaissance to his community.
+
+...
+
+[Data](articles/33120614.json)
+
+---
+
 ### The money is not stobed
 
 *2024-10-29 17:55:21* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-අච්චු-ගැසුවේ-නෑ/11-412744) · `si`
@@ -2223,101 +2327,5 @@ Accordingly, the ASPI had closed at 12,745.60 points today, its highest value si
 [Data](articles/0c93005a.json)
 
 [Extended Data](ext_articles/0c93005a.ext.json)
-
----
-
-### Contract for supplying LPG for 2025 awarded to M/s OQ Trading Limited
-
-*2024-10-29 16:30:00* · [`islandlk`](http://island.lk/contract-for-supplying-lpg-for-2025-awarded-to-m-s-oq-trading-limited/) · `en`
-
-The Cabinet of Ministers has approved the proposal presented by the President, in his capacity as the Minister of Finance, Economic Development, Policy Formulation, Planning, and Tourism to award the contract for supplying  liquefied Petroleum Gas  for 2025 to M/S OQ Trading Limited, the substantially responsive bidder, as per the recommendations of the standing procurement committee appointed by the cabinet of ministers.
-
-Tenders had  been invited for the supply of liquefied petroleum gas to the Litro Gas Lanka Limited for the year 2025 under the single stage double envelope system following the international competitive bidding system.
-
-Only the two institutions, M/S OQ Trading Limited and M/S Siam Gas Trading Pte Ltd,  submitted bids. The bid submitted by M/S Siam Gas Trading Pte Ltd, was rejected at the technical evaluation.
-
-Decisive economic measures to protect both the banking sector and entrepreneurs
-
-...
-
-[Data](articles/c3209e77.json)
-
----
-
-### What are the messages received from the social media, including Whatsapp,
-
-*2024-10-29 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202696) · `si`
-
-Sri Lanka Computer Emergency Response Forum warns against fake messages on social media, including WhatsApp. Cyber frauds common, using OTP passwords in pseudo-messages from banks and organizations. Be cautious of urgent requests in WhatsApp messages.
-
-🟩
-
-The Sri Lanka Computer Emergency Response Forum requires careful of the pseudo-messages across the social media, including whatsapp (WhatsApp).
-
-They also say that cyber frauds are common these days, including whatsApps, using social media networks, including whatsapp.
-
-Accordingly, OTP Passwords (PSSword information) by the pseudo-messages and WhatsApp messages of various banks, commercial organizations, international organizations, international organizations, international organizations, and excessive urges.The Sri Lanka Computer Emergency Response Forum further is informed to beware of the messages requesting.
-
-◼️
-
-[Data](articles/cc357287.json)
-
-[Extended Data](ext_articles/cc357287.ext.json)
-
----
-
-### Forers of the students hospitalized after the vaccination of cancer
-
-*2024-10-29 16:22:03* · [`adalk`](https://www.ada.lk/breaking_news/පිළිකා-සදහා-ලබාදෙන-එන්නත-විදීමෙන්-පසු-සිසුවියන්-සිව්නෙකු-රොහල්-ගතකරයි/11-412741) · `si`
-
-Four 11-12 year-old girls from Wadduwa Girls' Vidyalaya hospitalized after cervical cancer vaccine. Symptoms: vomiting, difficulty breathing. Health officials monitoring situation.
-
-🟩
-
-According to a spokesman for the Panadura Base Hospital, a four girls at Wadduwa Girls' Vidyalaya have been hospitalized after the vaccine for cervical cancer.
-
-It is said that the students between 11 and 12 years old have been hospitalized.
-
-The four students who were hospitalized showed symptoms such as vomiting and difficulty in danger.
-
-Since the cervical cancer has been provided with cervical cancer these days, it is said to have been given to the students of Wadduwa Balika Vaccine.
-
-A health spokesman has been instructed to monitor the medical staff today (29) this day, and the four girls have been instructed to monitor the medical staff.Said.
-
-The four girls have been taken to the Panadura in the Panadura Base Hospital after two in 1990 ambulous vehicles.
-
-A special group of students have been hospitalized in a school in Amauratattota area two weeks ago.. (I. J)
-
-◼️
-
-[Data](articles/9536173e.json)
-
-[Extended Data](ext_articles/9536173e.ext.json)
-
----
-
-### The candidate who threatened student leaders
-
-*2024-10-29 16:19:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்-தலைவர்களை-அச்சுறுத்திய-வேட்பாளர்/175-346274) · `ta`
-
-Candidate threatens student leaders, disrupts school activities. School principal files complaint with police, election officials. Investigation ongoing.
-
-🟩
-
-The Principal of the school, the Principal of the school, on Saturday (26), filed a complaint at the Police Station, Elections Commissioner and Election Monitoring Organization against a candidate who threatened school activities for school activities and threatened school activities for school activities.
-
-It is customary to stop the students who are coming in the morning until the morning is over.
-
-In the meantime, when the school was inaugurated on Friday morning, the candidate had taken his child to school.
-
-When Bindi tried to enter the school premises to enter the school premises, he threatened the party's candidate by using the security officer and student leaders who had stopped him.
-
-Further investigations are being carried out by the Valaichenai police as the school principal has lodged a complaint with the Valaichenai Police Station and the District Election Assistant Commissioner and Election Monitoring System against the so -called Uluki Rabiq candidate.
-
-◼️
-
-[Data](articles/b3c52f5b.json)
-
-[Extended Data](ext_articles/b3c52f5b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 03:58:21**
+As of **2024-10-31 04:24:04**
 
 ## Newspaper Stats
 
-*Scraped **52,281** Articles*
+*Scraped **52,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 530
 bbccomsinhala | 534
 islandlk | 3,106
 economynextcom | 3,180
-dailyftlk | 3,564
+dailyftlk | 3,566
 dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,202
@@ -26,11 +26,47 @@ adaderanasinhalalk | 9,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,281 (100.0%) of 52,281 articles have been extended.
+52,283 (100.0%) of 52,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### CaFFE and The Carter Centre enlighten aspirant female MPs on how to stay safe online
+
+*2024-10-31 03:49:27* · [`dailyftlk`](https://www.ft.lk/news/CaFFE-and-The-Carter-Centre-enlighten-aspirant-female-MPs-on-how-to-stay-safe-online/56-768638) · `en`
+
+From left: Deputy Commissioner of Elections Piumi Atigala, The Carter Centre Democracy Program Program Associate Claire Goldman, The Carter Centre Digital Hygiene and Safety Expert Dr. Gabrielle Bardall, CaFFE Executive Director Manas Makeen, Election Commission of Sri Lanka Commissioner General Saman Sri Ratnayake, and CaFFE Administration Director Surangi Ariyawansa
+
+The Carter Centre Digital Hygiene and Safety Expert Dr. Gabrielle Bardall provides female candidates with insights on digital hygiene
+
+The Campaign for Free and Fair Elections (CaFFE), with support from The Carter Centre, hosted a workshop on Monday, 28 October to provide online safety guidance to female candidates preparing for the upcoming Parliamentary election.
+
+...
+
+[Data](articles/4331e340.json)
+
+[Extended Data](ext_articles/4331e340.ext.json)
+
+---
+
+### Lankan envoy in Canada meets Ontario Governor, business chambers and community leaders
+
+*2024-10-31 03:42:21* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Canada-meets-Ontario-Governor-business-chambers-andcommunity-leaders/56-768637) · `en`
+
+Canadian High Commissioner to Sri Lanka U.L. Mohammed Jauhar undertook an official visit to Toronto recently, following the presentation of credentials to the Governor General of Canada.
+
+During the visit, the High Commissioner paid a courtesy call on the Lieutenant Governor of Ontario Edith Dumont and also met with business and community leaders.
+
+High Commissioner Jauhar briefed the Lt. Governor on the recent developments in Sri Lanka, including the Presidential election and the forthcoming general elections. He conveyed his willingness to work with the Government of the Province of Ontario, to further strengthen the relations with Sri Lanka, since it is the home for several thousands of Sri Lankan-origin Canadians. He also expressed his hope that they become partners of development of their respective regions in Sri Lanka.
+
+...
+
+[Data](articles/64534086.json)
+
+[Extended Data](ext_articles/64534086.ext.json)
+
+---
 
 ### ‘‘Sri Lanka’s ISB restructure: Debt trap backed by IMF and Ceylon Chamber of Commerce’’
 
@@ -2327,51 +2363,5 @@ Both diseases are seriously infected and can cause severe losses in the pig bree
 [Data](articles/d6c23a0d.json)
 
 [Extended Data](ext_articles/d6c23a0d.ext.json)
-
----
-
-### National Security Council Discussion
-
-*2024-10-30 11:03:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-தேசிய-பாதுகாப்பு-சபை-கலந்துரையாடல்/175-346305) · `ta`
-
-National Security Council discusses bomb threats impacting tourism in Sri Lanka. Threats divert flights, raise concerns about tourism industry. Authorities increase security measures. CID investigates aircraft bomb blasts.
-
-🟩
-
-The National Security Council headed by President Anura Kumara Dissanayake held a discussion on the continuous bomb threats and the impact of the tourism industry in Sri Lanka.
-
-Informed sources said that continuing threats could affect tourists visiting the country and raised concerns about the future of the tourism industry.
-
-Shortly after the aircraft entered the Sri Lankan air border, it was also revealed that the bomb was threatened. Since the nearby airport is located at the Katunayake Bandaranaike International Airport (BIA), all the affected flights are diverted to BIA for security testing.
-
-In a recent incident, Sri Lankan law enforcement officials had to respond to two aircraft that had landed simultaneously by bomb threats.. However, with the available human resources, the authorities were able to manage the situation effectively.
-
-...
-
-[Data](articles/b3fa0db4.json)
-
-[Extended Data](ext_articles/b3fa0db4.ext.json)
-
----
-
-### Arrest army officer for shooting dog
-
-*2024-10-30 11:02:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாயை-சுட்டுக்கொன்ற-இராணுவ-அதிகாரி-கைது/175-346304) · `ta`
-
-Retired army officer arrested for fatally shooting neighbor's foster dog. Police seized weapon. Incident occurred in Kandana's Polpittimalana area. Dog found dead outside suspect's home.
-
-🟩
-
-A retired army officer has been arrested on Wednesday (29) for allegedly shooting a neighbor's foster dog.
-
-According to the owner of the deceased dog, a 55 -year -old retired army officer from Polpittimalana area, Kandana has been arrested and a gun used to shoot the dog has been seized.
-
-A police officer said that the dog, who was injured in the shooting, was found dead in front of the suspect's house and was shot dead in front of the house at night.
-
-◼️
-
-[Data](articles/b2cd69a2.json)
-
-[Extended Data](ext_articles/b2cd69a2.ext.json)
 
 ---

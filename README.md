@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 20:24:04**
+As of **2024-10-30 20:39:58**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 9,100
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,255 (100.0%) of 52,256 articles have been extended.
+52,256 (100.0%) of 52,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
 
-### ප්‍රසිද්ධ මත්පැන් සමාගම් දෙකක නම් භාවිත කර රටටම කළ වංචාව
+### Fraud to the country using the names of two famous liquor companies
 
 *2024-10-30 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202744) · `si`
 
-රජයට අයවිය යුතු විශාල බද්දක් අහිමිකරමින් ප්‍රසිද්ධ මත්පැන් සමාගම් දෙකක වෙළෙඳනාම යොදාගෙන නීතිවිරෝධී අයුරින් අරක්කු නිෂ්පානය කර ඇසුරුම් කරන බවට අද දෙරණ උකුස්සාට තොරතුරක් ලැබුණි.
+Fraud involving liquor company brands uncovered: Government accused of misusing labels, packaging, and equipment from two prominent liquor firms. Investigation reveals fake seals and bottling machinery. Owner arrested.
 
-දඹදෙණිය, මුතුගල ප්‍රදේශයේ නිවසක එම නීතිවිරෝධී ක්‍රියාව සිදුවන බවට ලද එම තොරතුරකට අනුව කුලියාපිටිය සුරාබදු ස්ථානයේ නිලධාරීන් කණ්ඩායමක් සමග අප ඒ පිළිබඳ සොයාබැලීය.
+🟩
 
-එහීදී දැකගත හැකිවුණේ අදාළ මත්පැන් සමාගම් දෙකෙහි පෙට්ටි, ලේබල් හා මූඩි විශාල ප්‍රමාණයක් එම ස්ථානයේ ඇති බවය.
+Ada Derana has received information that the government is using the brands of a public drinking and packaging the brand of two well-known liquor companies using a large number of liquor companies.
 
-එමෙන්ම බලපත්‍රලාභී මත්පැන් ශාලා සඳහා ලබාදෙන විශේෂිත වූ බිල්පත් මෙන්ම මත්පැන්වල සැර පරීක්‍ෂා කරන උපකරණ හා සම්මත මිණුම් උපකරණ ආදිය ද එහි තිබෙන අයුරු දැකගත හැකි විය.
+According to the information that the illegal act was carried out in the Muthugala area in Dambadeniya, we wagerd up with a group of officers at the Kuliyapitiya area.
 
-එහිදී දිවයිනේ සුරාබදු පරීක්‍ෂකවරුන් 14 දෙනෙකුට අයත් ව්‍යාජ මුද්‍රා කිහිපයක්, නීතිවිරෝධීව සකස් කළ බදු ස්ටිකර් රෝල් තොගයක් සහ මත්පැන් බෝතල් සීල් කිරීමට භාවිත කරන යන්ත්‍රයක් ද මෙහිදී විමර්ශන නිලධාරීන් සොයාගත්තේය.
+There was a large number of labels, labels and moodi in the two liquor companies.
 
-අනතුරුව සුරාබදු නිලධාරීන් එම නිවසේ හිමිකරුව ද අත්අඩංගුවට ගෙන තිබුණි.
+It also found how specific bills of licensed libraries, as well as liquor testing equipment and standardized equipment and standard benchmark.
+
+Investigations have found a number of fake seals of 14 excisive inspectors in the country and a machine used to a sealing liquor bottles.
+
+The owner of the house was later arrested by the owner of the house.
 
 ◼️
 
 [Data](articles/0bfbabf5.json)
+
+[Extended Data](ext_articles/0bfbabf5.ext.json)
 
 ---
 

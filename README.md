@@ -1,36 +1,74 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 16:39:42**
+As of **2024-10-30 16:57:24**
 
 ## Newspaper Stats
 
-*Scraped **52,229** Articles*
+*Scraped **52,234** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 414
 colombotelegraphcom | 530
-bbccomsinhala | 533
+bbccomsinhala | 534
 islandlk | 3,106
 economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,857
+adalk | 4,858
 adaderanalk | 6,194
-tamilmirrorlk | 7,243
+tamilmirrorlk | 7,244
 virakesarilk | 8,433
-adaderanasinhalalk | 9,090
+adaderanasinhalalk | 9,092
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,229 (100.0%) of 52,229 articles have been extended.
+52,231 (100.0%) of 52,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### 4.30க்கு பின் பயணச் சீட்டுகள் வழங்கப்பட மாட்டாது
+
+*2024-10-30 16:54:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-30க்கு-பின்-பயணச்-சீட்டுகள்-வழங்கப்பட-மாட்டாது/175-346324) · `ta`
+
+தொடரும் தொழிற்சங்க நடவடிக்கையின் ஒரு பகுதியாக இன்று பிற்பகல் 4:30 மணியிலிருந்து அனைத்து வித பயணச்சீட்டு வழங்கும் கடமைகளில் இருந்தும் தமது உறுப்பினர்கள் விலகிக்கொள்வதாக இலங்கை புகையிரத நிலைய அதிபர்கள் சங்கம் அறிவித்துள்ளது.
+
+ஸ்டேஷன் மாஸ்டர்கள் ஆட்சேர்ப்பு மற்றும் நடைமுறை செயல்பாட்டுப் பிரச்சினைகள் தொடர்பான பல கோரிக்கைகளை இலக்காகக் கொண்டு இந்த நடவடிக்கை மேற்கொள்ளப்படுவதால், ரயில் சேவைகளுக்கு இடையூறு ஏற்படாது என தொழிற்சங்கம் வலியுறுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/dd9c9c78.json)
+
+---
+
+### Station Masters in a trade union action
+
+*2024-10-30 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202736) · `si`
+
+Station Masters resign ticket duties due to trade union action. OICs discuss demands with Minister's office. Negotiations fail with Railways General Manager.
+
+🟩
+
+Statistics Masters will be resigned from the duties of issuing railway tickets today (30).
+
+That was due to the decision of the OICs Association's Executive Committee to contest a trade union this evening.
+
+The OICs have taken this decision as a discussion with the Minister's Private Secretary and the Executive Offices of the Railway Department regarding several demands.
+
+Meanwhile, Superma Somaratne said yesterday that negotiations with the General Manager of the Railways failed.
+
+◼️
+
+[Data](articles/f692bb54.json)
+
+[Extended Data](ext_articles/f692bb54.ext.json)
+
+---
 
 ### Petitions against waiving off EPF interest rates during debt restructuring dismissed
 
@@ -47,6 +85,30 @@ The four petitions filed by several parties including the Katunayake Free Trade 
 [Data](articles/23261b0b.json)
 
 [Extended Data](ext_articles/23261b0b.ext.json)
+
+---
+
+### Many facts about cyber crimes with no limit
+
+*2024-10-30 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202735) · `si`
+
+Cybercrime surge: SL CERT reports 200-250 daily complaints. WhatsApp hacking common via verification codes. Experts advise enabling two-factor authentication and keeping apps updated. For support, contact 101 or repert@cert.gov.lk.
+
+🟩
+
+The Sri Lanka Computer Emergency Response Team says that between 200 to 250 complaints per day regarding cyber crimes.
+
+Miss Tinuri Tissera, who participated in the Ada Derana, "Big FUCUS Program, said Miss Tinuri Tissera, which was 1623, showed a growth of cyber crimes.
+
+Meanwhile, Senior Information Technology Engineering Products at the Sri Lanka Computer Emergency Response Team, joining the Ada Derana, "said Senior IT SCS charming form.
+
+Criminal Damunupola explained how to grip on your WhatsApp account to the criminals.
+
+...
+
+[Data](articles/5a13ae72.json)
+
+[Extended Data](ext_articles/5a13ae72.ext.json)
 
 ---
 
@@ -69,6 +131,26 @@ For emergency assistance, the public is requested to contact local disaster mana
 [Data](articles/0922f654.json)
 
 [Extended Data](ext_articles/0922f654.ext.json)
+
+---
+
+### එක්දින ශ්‍රේණිගත කිරීම් හී ශ්‍රී ලාංකික ක්‍රීඩකයන්ට හිමි වූ ස්ථාන
+
+*2024-10-30 15:54:04* · [`adalk`](https://www.ada.lk/sports/එක්දින-ශ්‍රේණිගත-කිරීම්-හී-ශ්‍රී-ලාංකික-ක්‍රීඩකයන්ට-හිමි-වූ-ස්ථාන/9-412760) · `si`
+
+එක්දින ක්‍රිකට් ක්‍රීඩකයන්ගේ නවතම ශ්‍රේණිගත කිරීම් ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව එක්දින පන්දු යවන්නන් අතර 12 වැනි ස්ථානය දක්වා එක් ස්ථානයකින් ඉදිරියට පැමිණීමට ශ්‍රී ලංකාවේ මහීෂ් තීක්ෂණ සමත්ව තිබේ.
+
+එමෙන්ම 16 වැනි ස්ථානය දක්වා පන්දු යවන්නන් අතර ස්ථාන 2කින් ඉදිරියට පැමිණීමට වනිඳු හසරංග සමත්ව ඇත.
+
+මේ අතර එක්දින තුන් ඉරියව් ක්‍රීඩකයන් අතර 36 වැනි ස්ථානය දක්වා ස්ථාන 3කින් ඉදිරියට පැමිණීමට මහීෂ් තීක්ෂණ සමත්ව ඇති අතර, 39 වැනි ස්ථානය දක්වා ස්ථාන 2කින් ඉදිරියට පැමිණීමට චරිත් අසලංක සමත්ව තිබේ.
+
+මේ අතර එක්දින පිතිකරුවන් අතර තවදුරටත් පැතුම් නිස්සංක 07 වැනි ස්ථානයේත්, චරිත් අසලංක 12 වැනි ස්ථානයේත් පසු වන්නේය.
+
+◼️
+
+[Data](articles/c05f5532.json)
 
 ---
 
@@ -1252,6 +1334,24 @@ Accordingly, the Ticketing Tickets of the GCE A / L examination are to be handed
 
 ---
 
+### මහ බැංකුව අලුතින් මුදල් අච්චු ගැහුවා ද?
+
+*2024-10-30 10:42:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce3yn0pzgr9o) · `si`
+
+මුදල් අච්චු ගැසීම සැබවින්ම මෙරට දේශපාලනයේ ආන්දෝලනාත්මක මාතෘකාවකි. විවිධ දේශපාලන පක්ෂ මේ සම්බන්ධයෙන්  විපක්ෂයේ සිටියේදී පවත්නා රජයට චෝදනා එල්ල කිරීම සාමාන්‍යය සංසිද්ධියකි. වත්මන් ආණ්ඩුව මුදල් අච්චු ගැසීමක් කර තිබේ නම් මුදල් අමාත්‍යවරයා ලෙස ජනාධිපති අනුර කුමාර දිසානායකගේ අත්සනින් නිකුත් වූ මුදල් නෝට්ටුවක් පෙන්වන්නැයි,කැබිනට් ප්‍රකාශ අමාත්‍ය විජිත හේරත් පසුගියදා පැවති කැබිනට් මාධ්‍ය හමුවේදී අභියෝග කර සිටියේ ය.
+
+අමාත්‍යවරයා පවසන පරිදි මුදල් අච්චු ගැසීම යනු එක් රැයකින් මුදල් නෝට්ටු මුද්‍රණය කිරීමේ ක්‍රියාවලියක් ද?
+
+මුදල් නිකුත් කිරීමේ බලය ඇත්තේ ශ්‍රී ලංකා මහ බැංකුවට ය. පද්ධතියට අවශ්‍යතරම් මුදල් සැපයීම ශ්‍රී ලංකා මහ බැංකුවේ වගකීමකි.
+
+මුදල් අච්චු ගැසීම යන්නෙන් අදහස් කරන්නේ මහ බංකුව  ආර්ථිකයට අලුතින් මුදල් නිකුත් කිරීම ය. මුදල් අච්චු ගැසීම යනු යන්ත්‍රයක් ආධාරයෙන් මුදල් නෝට්ටු  මුද්‍රණය කිරීමක් නොවේ.
+
+...
+
+[Data](articles/bfa4fe7d.json)
+
+---
+
 ### Canada alleges Indian minister Amit Shah behind plot to target Sikh separatists
 
 *2024-10-30 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103026/canada-alleges-indian-minister-amit-shah-behind-plot-to-target-sikh-separatists) · `en`
@@ -2253,127 +2353,5 @@ A fundamental rights petition was filed this month before the Supreme Court requ
 [Data](articles/aaecbafd.json)
 
 [Extended Data](ext_articles/aaecbafd.ext.json)
-
----
-
-### Govt. launches probe into UK High Commissioner’s expenses amid scrutiny of diplomatic appointments
-
-*2024-10-30 04:03:29* · [`dailyftlk`](https://www.ft.lk/news/Govt-launches-probe-into-UK-High-Commissioner-s-expenses-amid-scrutiny-of-diplomatic-appointments/56-768563) · `en`
-
-Cabinet Spokesman and Minister Vijitha Herath yesterday said the Government has initiated an investigation into alleged spending by the High Commissioner to the United Kingdom Rohitha Bogollagama.
-
-Responding to queries posed during the weekly post-Cabinet meeting media reports concerning a vehicle reportedly used by Bogollagama, Herath clarified that the vehicle was purchased with the High Commissioner’s own funds, not with Government resources.
-
-“We have seen the reports and received several complaints as well. We are looking into it,” he added.
-
-The Minister confirmed that while no immediate recalls of overseas diplomats are planned, politically appointed diplomats may be recalled in due course as part of a broader evaluation process.
-
-“Diplomatic changes will occur after these commitments have been fulfilled in a gradual manner,” the Cabinet Spokesman assured.
-
-...
-
-[Data](articles/3456feb3.json)
-
-[Extended Data](ext_articles/3456feb3.ext.json)
-
----
-
-### Steps to accelerate digital digitalization
-
-*2024-10-30 02:51:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-மயமாக்கலை-விரைவுபடுத்த-நடவடிக்கை/175-346299) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake plans to digitize the entire country within 3 years. He met with business leaders to discuss strategies for accelerating digitalization across sectors like insurance, banking, construction, tourism, and agriculture. The goal is to boost the economy and benefit citizens.
-
-🟩
-
-President Anura Kumara Dissanayake said that in the next three years, steps will be taken to digitize the entire country.
-
-The President pointed out that the government has already initiated the intervention of digitalization for digitalization through digitalization.
-
-President Anura Kumara Dissanayake pointed out this at a meeting held at the Presidential Office yesterday (29) with the representatives of the Business Council.
-
-Representatives of the Business Board have agreed to assist the economic progress without getting any allowance and salary.
-
-The issues and future goals of many sectors, including insurance, banking, construction, tourism, plantation industry, small and central quality business, were discussed at this time.
-
-President Anura Kumara Dissanayake said that steps will be taken to strengthen the country's economy and make concessions to the people.
-
-...
-
-[Data](articles/287d6ed2.json)
-
-[Extended Data](ext_articles/287d6ed2.ext.json)
-
----
-
-### New President of Hesbullah
-
-*2024-10-30 02:43:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹெஸ்புல்லாஹ்வின்-புதிய-தலைவர்-நைம்-காசிம்/50-346298) · `ta`
-
-Naim Qasim named new Hesbullah leader after Nasraullah's death in Israeli airstrike. He succeeds other fallen leaders in the organization.
-
-🟩
-
-It has been announced that Naim Qasim, the Deputy Secretary of the Hesbullah Organization, will be appointed as the new head of the organization.
-
-In Beirut last month, Hesbullah leader Nasraullah was killed in an Israeli air strike.
-
-With most leaders of the organization to be killed in a series of attacks, Naim Qasim has been elected as the new leader in Hesbullah. (A)
-
-◼️
-
-[Data](articles/21735b25.json)
-
-[Extended Data](ext_articles/21735b25.ext.json)
-
----
-
-### The purpose is to create economic independence
-
-*2024-10-30 02:30:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-சுயாதிகாரத்தை-ஏற்படுத்துவதே-நோக்கம்/175-346297) · `ta`
-
-Economic independence goal: Government supports exporters, creates single service window, boosts digitalization, reduces energy costs, promotes foreign investment, restructures embassy services.
-
-🟩
-
-President Anura Kumara Dissanayake said the government's aim was to create an economic independence in the country and that it would expect the full support of our exporters.
-
-The President made this statement at a discussion held at the Presidential Office yesterday with the Exports Development Board's top officials and exporters.
-
-The President pointed out the importance of creating a single service window by integrating other state agencies and Sri Lankan customs to ease export trade and also highlighted the importance of increasing the effectiveness of digitalization and export.
-
-President Anura Kumara Dissanayake said the government has focused on issues such as significant reduction of energy prices, promoting foreign investment, and restructuring embassy services to enter the international market.
-
-The President added that the government's expectation is to fulfill all these aims in a very short time and expect a huge contribution to all.. (A)
-
-◼️
-
-[Data](articles/3390124f.json)
-
-[Extended Data](ext_articles/3390124f.ext.json)
-
----
-
-### ரயிலின் ஆசனத்திற்கு அடியிலிருந்து T-56 ரக தோட்டாக்கள் மீட்பு!
-
-*2024-10-30 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/197462) · `ta`
-
-T-56 rifles found under train seats near Maruthana-Beliatta route
-
-🟩
-
-மருதானையிலிருந்து - பெலியத்த நோக்கி பயணித்த ரயிலில் மூன்றாம் வகுப்பு பெட்டியொன்றின் ஆசனத்திற்கு அடியிலிருந்து T-56 துப்பாக்கிகளுக்கு பயன்படுத்தப்படும்  57  தோட்டாக்களை செவ்வாய்க்கிழமை (29) காலை ரயில்வே பாதுகாப்பு படையினர் கண்டுபிடித்துள்ளனர்.
-
-It is reported that a security officer at the Beliatta railway station was searched by the train compartments, and the two men left the train and then found a bag of bullets beneath the seats.
-
-◼️
-
-[Data](articles/22bcfd51.json)
-
-[Extended Data](ext_articles/22bcfd51.ext.json)
 
 ---

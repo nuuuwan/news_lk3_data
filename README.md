@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 19:01:57**
+As of **2024-10-30 19:13:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,097
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,243 (100.0%) of 52,245 articles have been extended.
+52,245 (100.0%) of 52,245 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,29 +46,37 @@ In May 2021, the Singapore-registered cargo ship caught fire near Negombo, a pop
 
 [Data](articles/38d72f86.json)
 
+[Extended Data](ext_articles/38d72f86.ext.json)
+
 ---
 
-### පානදුර නගරයේ පැරණි දෙමහල් ගොඩනැගිලි 5ක් එකවර කඩාවැටෙයි
+### Five 5 storied buildings in Panadura collapse at once
 
 *2024-10-30 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202741) · `si`
 
-පානදුර නගරයේ ජනප්‍රිය මාවතේ එක පෙළට පිහිටි පැරණි දෙමහල් ගොඩනැගිලි 05ක් අද (30) දහවල් එකවරම කඩාවැටී තිබේ.
+Panadura: Five 5-story buildings collapse simultaneously due to backhoe excavation, causing massive dust cloud and destruction of shops.
 
-මෙම ගොඩනැගිලි කඩාවැටීමත් සමගම ඒ ආසන්නයේ ගාලු පාර ඇතුළු ප්‍රදේශය විශාල දූවිල්ලකින් වැසී ගොස් ඇත.
+🟩
 
-ජනප්‍රිය මාවතේ දෙපස කානු පද්ධතිය සකස් කිරීම සඳහා නගර සභාවෙන් කොන්ත්‍රාත්කරුවෙකුට පවරා ඇති අතර අද (30) දහවල් බැකෝ යන්ත්‍රයක් ආධාරයෙන් එම කාණු සකසමින් සිට තිබේ.
+Five old two storied buildings in the Panadura town have collapsed at once.
 
-එම බැකෝ යන්ත්‍රය සහ පස් පිරවූ ලොරි රථය ඉන් පිටත්ව යෑමත් සමගම මෙම ගොඩනැගිලි එකවරම කඩාවැටී ඇත.
+With the collapse of these buildings, the area covered with a large dust, including Galle Road.
 
-බැකෝ යන්ත්‍රය නිසා පොළොවේ ඇතිවූ දෙදරීම මෙම අනතුරට හේතු වන්නට ඇති බව අසල සිටි ව්‍යාපාරිකයන් පවසයි.
+The National Council has been assigned a contract from the municipal system to prepare the drainage system on either side of the popular road.
 
-එම ගොඩනැගිලි පහේ පහත මහල්වල දන්ත ශල්‍යාගාරයක්, රෙදිපිළි අලෙවිසැලක් සහ තවත් වෙළෙඳසැල් කිහිපයක් තිබූ අතර ඒවා සම්පූර්ණයෙන් විනාශ වී තිබේ.
+With the lorry that the backhole and soil leaving, these buildings have collapsed at once.
 
-අනතුර සිදුවන අවස්ථාවේදී කඩ කාමර පහෙන් දෙකක් විවෘතව තිබූ අතර කඩකාමර තුනක් වසා තිබූ බවත් පැවසෙයි.
+The businessmen say that the backhoe is the cause of the earth that the earth has caused the accident.
+
+The five storeys in the five blocks were a dental layout, textile shop and several other shops and were completely destroyed.
+
+Two five shops were open and three shops were closed at the time of the accident.
 
 ◼️
 
 [Data](articles/2d70589f.json)
+
+[Extended Data](ext_articles/2d70589f.ext.json)
 
 ---
 

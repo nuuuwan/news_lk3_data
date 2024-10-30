@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 16:01:51**
+As of **2024-10-30 15:40:35**
 
 ## Newspaper Stats
 
-*Scraped **52,225** Articles*
+*Scraped **52,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,106
 economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,857
+adalk | 4,856
 adaderanalk | 6,192
 tamilmirrorlk | 7,243
 virakesarilk | 8,431
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,224 (100.0%) of 52,225 articles have been extended.
+52,221 (100.0%) of 52,224 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,31 +48,23 @@ The Month-on-Month change was contributed by -0.20% from food and -0.33% from no
 
 [Data](articles/0ee1eeb0.json)
 
-[Extended Data](ext_articles/0ee1eeb0.ext.json)
-
 ---
 
-### A change in Colombo inflation
+### කොළඹ උද්ධමනයේ වෙනසක්
 
 *2024-10-30 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202734) · `si`
 
-Colombo inflation drops from -1.5% in September 2024 to 90.8% in October 2024. Food inflation rises from -1.3% to 1.0%, while non-food inflation decreases from -10.5% to 1.6%.
+2024 සැප්තැම්බර් මාසයේ  -0.5%ක් ලෙස වාර්තා වූ කොළඹ උද්ධමනය 2024 ඔක්තෝබර් මාසයේදී -0.8% ක් දක්වා අඩු වී ඇත.
 
-🟩
+2024 ඔක්තෝබර් මාසයේ දී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය  1.0% දක්වා වැඩි වී ඇති අතර 2024 සැප්තැම්බර් මාසයේ දී එය වාර්තා වුයේ -0.3%ක්  ලෙසය.
 
-Colombo inflation recorded as - 01.5% of September 2024 has been reduced to 90.8% in October 2024.
+එමෙන්ම,  2024 ඔක්තෝබර් මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය -1.6%  ක් දක්වා අඩු වී ඇති අතර එය 2024 සැප්තැම්බර් මාසයේ දී -0.5%  ක් ලෙස වාර්තා විය.
 
-In October 2024, the annual inflation of food category has increased to 1.0% and in September 2024, it was reported as-01.3%.
-
-Non-food annual inflation has been reduced to 1.6% for October 2024, and September 2024 was reported to-10.5% in September 2024.
-
-The Department of Census and Statistics stated that the Colombo Consumer Price Index and the Consumer Install of the Colombo Municipal Community.
+ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව 2024 ඔක්තෝබර් මාසය සඳහා කොළඹ පාරිභෝගික මිල දර්ශකය සහ කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය  ප්‍රකාශයට පත් කරමින් ඒ බව සඳහන් කරයි.
 
 ◼️
 
 [Data](articles/c4e29b0a.json)
-
-[Extended Data](ext_articles/c4e29b0a.ext.json)
 
 ---
 
@@ -149,22 +141,6 @@ The Chinese authorities expect that by 2030, Chinese authorities will support th
 [Data](articles/ac114514.json)
 
 [Extended Data](ext_articles/ac114514.ext.json)
-
----
-
-### බබ්බු එක්ක මේක කරන්න බෑ - අගමැති හරිනිට ව්‍යවස්ථාව ගැන ඕනී නම් කියලා දෙන්නම්
-
-*2024-10-30 14:48:28* · [`adalk`](https://www.ada.lk/breaking_news/බබ්බු-එක්ක-මේක-කරන්න-බෑ---අගමැති-හරිනිට-ව්‍යවස්ථාව-ගැන-ඕනී-නම්-කියලා-දෙන්නම්/11-412759) · `si`
-
-අගමැති හරිනි අමරසූරියට ව්‍යවස්ථාව ගැන දැන ගැනීමට අවශ්‍ය නම් තමා පැමිණ එය පැහැදිලි කර දීමට සූදානම් බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
-
-පන්නල ප්‍රදේශයේ පැවති ජන හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-“අගමැතිනි හරිනි අමරසූරිය ප්‍රකාශයක් කළා. දැන් රනිල් වික්‍රමසිංහ කිව්වා රාජ්‍ය සේවකයන්ගේ වැටුප් වැඩි කරන්න තීරණයක් ගත්තා කියලා. ඒ කැබිනට් තීරණය බලනකොට ඒකට භාණ්ඩාගාරයෙන්වත්, මුදල් අමාත්‍යාංශ නිලධාරීන්ගේවත් අනුමැතිය ලබා ගෙන නෙවෙයි ඒ තීරණය අරන් තියෙන්නේ. ජනතාව නොමග යවන්න මැතිවරණ කාලයේ දුන්න බොරු පොරොන්දුවක්. මෙතුමිය කියන්නේ නිලධාරීන්ගේ අනුමැතිය ඕනී කියලා කැබිනට් මණ්ඩලය ක්‍රියා කරන්න. කොහෙන්ද ව්‍යවස්ථාව ඉගෙන ගත්තේ? ඇමති මණ්ඩලය තමයි රට පාලනය කරන්නේ. කොහේවත් නිලධාරියෙක් ගැන කියන්​නේ නෑ. ඔබතුමියට ව්‍යවස්ථාව ගැන දැන ගන්න ඕනී නම් කියන්න මම එන්නම්. නැතිනම් අපේ හිටපු අගමැතිතුමාට කියන්න. පළපුරුදු අය ඉන්න ඕනී. මේ බබ්බු එක්ක මේක කරන්න බෑ. ”
-
-◼️
-
-[Data](articles/52feb07f.json)
 
 ---
 
@@ -410,25 +386,19 @@ Former Minister Johnston Fernando was released on bail regarding the possession 
 
 ---
 
-### Gammanpila a statement about what we do against the government
+### ආණ්ඩුවට එරෙහි ජනතා පිළිකුල පෙන්වන්න කරන දේ ගැන ගම්මන්පිලගෙන් ප්‍රකාශයක්
 
 *2024-10-30 13:11:44* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවට-එරෙහි-ජනතා-පිළිකුල-පෙන්වන්න-කරන-දේ-ගැන-ගම්මන්පිලගෙන්-ප්‍රකාශයක්/11-412758) · `si`
 
-Udaya Gammanpila calls for public petition against current government. He criticizes previous administrations' handling of laws, seeking to restore public trust.
+වත්මන් ආණ්ඩුවට එරෙහි ජනතාවගේ පිළිකුල පෙන්වීම සඳහා මහජන පෙත්සමක් අත්සන් කිරීමට බලාපොරොත්තු වන බව සර්ව ජන බලයේ මහ මැතිවරණ අපේක්ෂක උදය ගම්මන්පිල මහතා පැවසීය.
 
-🟩
+සර්වජන බලය අද (30දා) පැවැත්වු මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
 
-The general election candidate, Udaya Gammanpila, he said that a public petition is expected to sign a public petition to show the disgust against the present government.
-
-He was speaking at a media briefing held at a press conference held today (30).
-
-"The compass that criticized the law of the law to establish the law, the compass that the former presidents mislead the law in their first month, we hope to demonstrate the reputation of the people."
+“නීතියේ ආදිපත්‍ය පිහිටුවනවා කියලා , හිටපු ජනාධිපතිවරුන් නීතිය අයුතු ලෙස භාවිතා කරනවා කියලා විවේචනය කරපු මාලිමාව තමන්ගේ පළවෙනි මාසය තුළම නීතිය අයුතු ලෙස භාවිතා කිරීම ගැන ජනතාවගේ පිළිකුල ජනාධිපතිවරයාට දන්වන්න අපි මහජන පෙත්මක් අත්මන් කරන්න බලාපොරොත්තු වෙනවා.”
 
 ◼️
 
 [Data](articles/27c3984c.json)
-
-[Extended Data](ext_articles/27c3984c.ext.json)
 
 ---
 
@@ -2389,5 +2359,35 @@ The first phase of the school education activities in 2025 will be held from Jan
 [Data](articles/80fdfde0.json)
 
 [Extended Data](ext_articles/80fdfde0.ext.json)
+
+---
+
+### Reduces electricity bills in the next few years
+
+*2024-10-29 22:38:18* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-අවුරුදු-කිහිපය-තුළ-විදුලි-බිල-දැනෙන්න-අඩුකරවා/11-412753) · `si`
+
+Sri Lanka Chamber of Commerce supports digitization efforts. President Anura Kumara Dissanayake aims to digitize the entire country within three years, reduce electricity bills, and promote energy sovereignty. The government plans to provide tax concessions and improve public services efficiency.
+
+🟩
+
+Sri Lanka Chamber of Commerce (SLC) says he is ready to support building any gift or salary
+
+President Anura Kumara Dissanayake said that the entire country would be digitizing the entire country within the next three years.
+
+The President pointed out that the current government has already begun to lift Sri Lanka through digitization.
+
+President Anura Kumara Dissanayake made these comments at a discussion held today at the Presidential Secretariat today (29).
+
+The Chamber of Commerce agreed to support the building of any allowance or no salary.
+
+There was a lengthy discussion of many fields and future goals, including insurance, banks, construction, tourism, plantation industry, small and medium scale businesses.
+
+President Anura Kumara Dissanayake added that action will be taken to build the economy of the country and provides tax concessions to the people.
+
+...
+
+[Data](articles/64e3949d.json)
+
+[Extended Data](ext_articles/64e3949d.ext.json)
 
 ---

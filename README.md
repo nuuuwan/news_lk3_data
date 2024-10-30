@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 06:45:19**
+As of **2024-10-30 07:27:55**
 
 ## Newspaper Stats
 
-*Scraped **52,133** Articles*
+*Scraped **52,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 530
 bbccomsinhala | 530
 islandlk | 3,101
 economynextcom | 3,170
-dailyftlk | 3,558
+dailyftlk | 3,560
 dailymirrorlk | 4,733
 adalk | 4,848
 adaderanalk | 6,174
-tamilmirrorlk | 7,225
+tamilmirrorlk | 7,226
 virakesarilk | 8,421
 adaderanasinhalalk | 9,067
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 9,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,127 (100.0%) of 52,133 articles have been extended.
+52,129 (100.0%) of 52,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Invest in care – a shared responsibility, a social imperative, and a driver of progress
+
+*2024-10-30 06:16:47* · [`dailyftlk`](https://www.ft.lk/columns/Invest-in-care-a-shared-responsibility-a-social-imperative-and-a-driver-of-progress/4-768586) · `en`
+
+Gendered social norms reinforce stereotypes of women as primary caregivers for children, the elderly and for support for persons with disabilities
+
+Potential to create 800,000 plus local jobs, and accelerate gender equality achievements
+
+From households to national economies, care work – both paid and unpaid – keeps the world and the economy moving!
+
+Often framed as an act of love, a noble calling, a not so important sector, care work is frequently under-valued, unrecognised, not perceived as work nor economic activity. COVID-19 brought into sharp focus the crucial roles of caregivers and care workers, creating the momentum for the first UN International Day of Care and Support, observed on 29 October 2023. Unpaid household care workers and paid care workers in domestic work or in the care and health sector, are vital pillars of our societies and economies, yet these contributions are often dismissed.
+
+Care Work = Women’s Work: Why does the world see it as such?
+
+...
+
+[Data](articles/811a5fb8.json)
+
+[Extended Data](ext_articles/811a5fb8.ext.json)
+
+---
+
+### Postvention: Missing link in suicide prevention
+
+*2024-10-30 06:12:48* · [`dailyftlk`](https://www.ft.lk/columns/Postvention-Missing-link-in-suicide-prevention/4-768585) · `en`
+
+The way we talk about suicide plays a vital role, as it has the potential to wound or heal, disenfranchise or empower, defeat or motivate, especially for survivors of loss
+
+The 10th of September (World Suicide Prevention Day) and the hive of activity that surrounds it each year, has gradually begun to fade; from social media, and from our collective memory. However, there are still red-hot smouldering embers, brightly ablaze in the lives of those affected by mental illness and suicide, including those bereaved by suicide loss.
+
+Prevention in the context of recognising warning signs and risk factors, reducing access to means and reaching out for support, helpline numbers, asking the suicide question, etc. in connection with intervention were widely discussed; in panel discussions, news articles, and social media platforms. However, a key concept discussed in the literature about suicide prevention was/is neglected; and that is postvention.
+
+...
+
+[Data](articles/8ad489c3.json)
+
+[Extended Data](ext_articles/8ad489c3.ext.json)
+
+---
 
 ### Who do we not/want to see in the next Parliament?
 
@@ -261,6 +301,22 @@ The Minister confirmed that while no immediate recalls of overseas diplomats are
 [Data](articles/3456feb3.json)
 
 [Extended Data](ext_articles/3456feb3.ext.json)
+
+---
+
+### ஹெஸ்புல்லாஹ்வின் புதிய தலைவர் நைம் காசிம்
+
+*2024-10-30 02:43:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹெஸ்புல்லாஹ்வின்-புதிய-தலைவர்-நைம்-காசிம்/50-346298) · `ta`
+
+ஹெஸ்புல்லாஹ் அமைப்பின் பிரதிச் செயலாளராகச் செயற்பட்டுவந்த நைம் காசிம் அந்த அமைப்பின் புதிய தலைவராக நியமிக்கப்படுவார் என அறிவிக்கப்பட்டுள்ளது.
+
+கடந்த மாதம் பெய்ரூட்டில், இஸ்ரேலிய விமானத் தாக்குதலில் ஹெஸ்புல்லாஹ் அமைப்பின் தலைவர் நஸ்ரல்லாஹ் கொல்லப்பட்டார்.
+
+தொடர்ச்சியான தாக்குதல்களில் அமைப்பின் பெரும்பாலான தலைவர்கள் கொல்லப்பட்டுள்ள நிலையில், ஹெஸ்புல்லாஹ் அமைப்பில் புதிய தலைவராக நைம் காசிம் தெரிவுசெய்யப்பட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/21735b25.json)
 
 ---
 
@@ -2309,87 +2365,5 @@ Attorney at Law Sanath Wijewardene on behalf of the petitioner Sanath Wijewarden
 [Data](articles/19c53549.json)
 
 [Extended Data](ext_articles/19c53549.ext.json)
-
----
-
-### Update of 'Vida Tri Tri' starring Ajith Kumar
-
-*2024-10-29 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/197409) · `ta`
-
-Here's a 200-character summary of the article:
-
-
-
-Ajith Kumar stars in "Vida Tri Tri" directed by Mahesh Triveni. Cast includes Arjun, Trisha, Regina, Arav, Nikhil Nair. Anirudh composed music. Film produced by Subhashkaran, Leica Productions. Dubbing underway. Release expected post-Pongal next year.
-
-🟩
-
-The film crew has released a new photo of Ajith Kumar's upcoming film 'Diligence'.
-
-இயக்குநரும், நடிகருமான மகிழ் திருமேனி இயக்கத்தில் உருவாகி வரும் 'விடா முயற்சி' எனும் திரைப்படத்தில் அஜித் குமார், அர்ஜுன், திரிஷா, ரெஜினா, ஆரவ், நிகில் நாயர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-Anirudh has composed the film, which has been recorded by Om Prakash and Neerav Shah.
-
-The film is being produced as an exercise enterter and produced by producer Subhaskaran on behalf of Leica Productions.
-
-The film is completed and the post -shooting technical work is currently underway.
-
-The film crew has excitedly announced that the film's dubbing is underway.
-
-They have also posted a photo of it. Actor Arav, who first played the lead role in the film, is talking about the background.
-
-According to film sources, the film will be released after Pongal next year and will be released during the English New Year.
-
-◼️
-
-[Data](articles/a8a0f51f.json)
-
-[Extended Data](ext_articles/a8a0f51f.ext.json)
-
----
-
-### Hezbollah elects Naim Qassem to succeed slain head Nasrallah
-
-*2024-10-29 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103009/hezbollah-elects-naim-qassem-to-succeed-slain-head-nasrallah) · `en`
-
-Lebanese armed group Hezbollah said on Tuesday it had elected deputy head Naim Qassem to succeed slain secretary general Hassan Nasrallah, who was killed in an Israeli air attack on Beirut’s southern suburb over a month ago.
-
-The group said in a written statement that its Shura Council had elected Qassem, 71, in accordance with its established mechanism for choosing a secretary general.
-
-He was appointed as Hezbollah’s deputy chief in 1991 by the armed group’s then-secretary general Abbas al-Musawi, who was killed by an Israeli helicopter attack the following year.
-
-Qassem remained in his role when Nasrallah became leader, and has long been one of Hezbollah’s leading spokesmen, conducting interviews with foreign media, including as cross-border hostilities with Israel raged over the last year.
-
-Nasrallah was killed on Sept. 27, and senior Hezbollah figure Hashem Safieddine - considered the most likely successor - was killed in Israeli strikes a week later.
-
-...
-
-[Data](articles/127fbcd2.json)
-
-[Extended Data](ext_articles/127fbcd2.ext.json)
-
----
-
-### Another intervention for Ranil
-
-*2024-10-29 15:08:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-மற்றுமொரு-தலையிடி/175-346270) · `ta`
-
-Supreme Court allows petitioners to add Ranil Wickremesinghe as defendant in case challenging police inspector appointment.
-
-🟩
-
-The Supreme Court on Tuesday (29) granted permission to the petitioners to add former President Ranil Wickremesinghe as defendant in a fundamental rights violation petition filed against the appointment of Deshabandan South Kon as the Inspector General of Police.
-
-The Sri Lanka Young Journalists Association has filed the petition against the appointment of the National Inspector General of Police of the country.
-
-Attorney -at -Law Saliya Peiris, appearing on behalf of the petitioners, filed a petition in the High Court that former President Wickremesinghe did not hold office as president and sought the court's permission to amend the petition.
-
-The petition granted permission to the petitioners to include the former president as a defendant.
-
-◼️
-
-[Data](articles/502c2208.json)
-
-[Extended Data](ext_articles/502c2208.ext.json)
 
 ---

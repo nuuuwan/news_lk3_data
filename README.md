@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 10:24:57**
+As of **2024-10-30 10:39:52**
 
 ## Newspaper Stats
 
-*Scraped **52,163** Articles*
+*Scraped **52,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 3,170
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,851
-adaderanalk | 6,178
+adaderanalk | 6,179
 tamilmirrorlk | 7,229
-virakesarilk | 8,421
+virakesarilk | 8,424
 adaderanasinhalalk | 9,076
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,163 (100.0%) of 52,163 articles have been extended.
+52,167 (100.0%) of 52,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### November 1st holiday for Tamil schools in Central Province
+
+*2024-10-30 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/197473) · `ta`
+
+Tamil schools in Central Province get Nov 1 off due to advice from Abayakon. Holiday moved to Nov 9.
+
+🟩
+
+The Secretary to the Ministry of Education of the Central Province Menaka Herath said that all Tamil language schools in the Central Province have been announced as a special holiday on Friday (01).
+
+Central Province Governor Professor S. B.. S.. Menaka Herath added that the decision has been taken on the advice of Abayakon and that the schools have been held on Saturday 9th November instead of the holidays.
+
+◼️
+
+[Data](articles/8d8a634e.json)
+
+[Extended Data](ext_articles/8d8a634e.ext.json)
+
+---
+
+### Deepavali festival allowance raised by Rs. 10,000
+
+*2024-10-30 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103024/deepavali-festival-allowance-raised-by-rs-10000) · `en`
+
+In celebration of Deepavali, a significant festival for the Tamil community, the Sri Lanka State Plantations Corporation has increased the annual festival allowance by Rs. 10,000.
+
+Previously, the amount was R.10, 000 and thus it will now be increased to Rs. 20,000.
+
+Ministry of Plantation Industries stated that the decision to increase the special festival allowance was taken considering the drop in the purchasing power of plantation workers.
+
+◼️
+
+[Data](articles/be1c23b1.json)
+
+[Extended Data](ext_articles/be1c23b1.ext.json)
+
+---
 
 ### Israeli air strikes killed in clashes
 
@@ -55,6 +93,30 @@ Foreign media reports stated that it is difficult to treat patients due to the s
 [Data](articles/4536b3bc.json)
 
 [Extended Data](ext_articles/4536b3bc.ext.json)
+
+---
+
+### Postal vote in Mullaithivu
+
+*2024-10-30 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/197468) · `ta`
+
+Postal voting begins in Mullaitivu for parliamentary elections. 3,947 candidates qualify. Voting takes place at 11 locations, including district secretariat and police stations.
+
+🟩
+
+Postal voting for the parliamentary election began today (30).
+
+Postal voting activities are being launched in the Mullaitivu District and the Mullaitivu District Secretariat is giving their postal votes.
+
+Meanwhile, arrangements have been made to cast their postal votes today at 11 polling stations, including the Mullaitivu District Secretariat, District Election Office and the District Police Stations.
+
+Meanwhile, 3,947 candidates in the Mullaitivu constituency in the Vanni electoral district have qualified for the postal voting.
+
+◼️
+
+[Data](articles/eec045ed.json)
+
+[Extended Data](ext_articles/eec045ed.ext.json)
 
 ---
 
@@ -129,6 +191,40 @@ The Ministry of Plantation and Community Infrastructure stated that this step wa
 [Data](articles/71abf24d.json)
 
 [Extended Data](ext_articles/71abf24d.ext.json)
+
+---
+
+### Dictok founder became Chinese Millionaire
+
+*2024-10-30 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197465) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Zhang Yiming, co-founder of TikTok's parent company ByteDance, becomes Chinese billionaire. Resigned in 2021 amid US-China tensions. Despite global popularity, TikTok faces potential US ban by 2025. Hurun Research values his net worth at $4.93 billion, ranking him among China's top billionaires.
+
+🟩
+
+Zhang Yiming, co -founder of Dictock's mother company, is globally popular, Jong Yiming, a billionaire in China.
+
+Zhang Yiming is on the list of billionaires produced by Hurun Research Institute with a value of Rs 49.3 billion.
+
+In 2021, 41 -year -old Zhang Yiming resigned.
+
+Although some countries are deeply saddened by the relations with the Chinese state, Dictok has changed one of the most popular social media in the world.
+
+Although both companies insist that they are operating independently from the Chinese government, the US plans to ban it by 2025 if Bait Dance does not sell Dictok.
+
+In the meantime, the US has increased the profits worldwide last year, despite the heavy pressure of the United States.This has increased the personal property of Zhang Yiming.
+
+Harun Rupert Hugwarf said, "Sang Yiming is the 18th new billionaire we have received in China in the last 26 years."
+
+...
+
+[Data](articles/d1426f0a.json)
+
+[Extended Data](ext_articles/d1426f0a.ext.json)
 
 ---
 
@@ -2249,101 +2345,5 @@ The following report is published in auction and financial operations implemente
 [Data](articles/bea6059a.json)
 
 [Extended Data](ext_articles/bea6059a.ext.json)
-
----
-
-### Strong security after reports of the Chavakachcheri Magistrate's Court
-
-*2024-10-29 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/197438) · `ta`
-
-Security tightened at Chavakachcheri Magistrate's Court after reports of suspicious phone calls. Police and STF deployed since Tuesday. Investigation ongoing regarding mysterious caller.
-
-🟩
-
-Police and Special Task Force (STF) have been mobilized from Tuesday (29) at the Jaffna - Chavakachcheri Magistrate's Court Complex.
-
-According to police sources, the police have been given the information on the information of the mysterious person who gave the telephone to the Chavakachcheri Magistrate's Court.
-
-◼️
-
-[Data](articles/8b86409f.json)
-
-[Extended Data](ext_articles/8b86409f.ext.json)
-
----
-
-### “We will carry out the strike tomorrow
-
-*2024-10-29 17:24:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-வேலைநிறுத்தப்-போராட்டத்தை-முன்னெடுப்போம்/175-346276) · `ta`
-
-Sri Lanka Railway Station Principals Association SLRSMU announces strike tomorrow over administrative issues. Leader Somatna calls for President and Minister to address problems. Strike aims to improve passenger facilities and rail services.
-
-🟩
-
-The Sri Lanka Railway Station Principals Association (SLRSMU) has decided to carry out a trade union struggle tomorrow if the President and the Minister does not address the administrative issues within the Railway Department.
-
-SLRSMU leader Somata Somata Somaratne said he was holding a media briefing on these issues over the past few days.
-
-“Today, by the Railway General Manager, some subordinate authorities are unable to provide the right solution to the problems that arise.
-
-Accordingly, our trade union action will continue on the basis of a discussion held with the Secretary or Minister of the Ministry tomorrow.
-
-“The Railway Department has failed to provide the necessary facilities for passengers and maintain rail services. Trains are canceled daily or derailed.
-
-We can't allocate the machine for an additional school train from Nanuoya to Kandy. During the last government, we were on strike, but we were forced to ignore our demands due to administrative issues, ”Somatna said.
-
-...
-
-[Data](articles/11041247.json)
-
-[Extended Data](ext_articles/11041247.ext.json)
-
----
-
-### “Tomorrow's strike
-
-*2024-10-29 17:24:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-வேலைநிறுத்தம்/175-346276) · `ta`
-
-Sri Lanka Railway workers plan strike over administrative issues. Union leader warns of disruption if demands aren't met.
-
-🟩
-
-The Sri Lanka Railway Station Principals Association (SLRSMU) has decided to carry out a trade union struggle tomorrow if the President and the Minister does not address the administrative issues within the Railway Department.
-
-SLRSMU leader Somata Somata Somaratne said he was holding a media briefing on these issues over the past few days.
-
-“Today, by the Railway General Manager, some subordinate authorities are unable to provide the right solution to the problems that arise.
-
-Accordingly, our trade union action will continue on the basis of a discussion held with the Secretary or Minister of the Ministry tomorrow.
-
-“The Railway Department has failed to provide the necessary facilities for passengers and maintain rail services. Trains are canceled daily or derailed.
-
-We can't allocate the machine for an additional school train from Nanuoya to Kandy. During the last government, we were on strike, but we were forced to ignore our demands due to administrative issues, ”Somatna said.
-
-...
-
-[Data](articles/c2407ed4.json)
-
-[Extended Data](ext_articles/c2407ed4.ext.json)
-
----
-
-### Youth killed in a wild elephant in Chettikulam
-
-*2024-10-29 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197431) · `ta`
-
-Young man, 24, dies in elephant attack in Chettikulam, Sri Lanka. Victim identified as Vigneswaran Ketheeswaran. Incident occurred on Tuesday, March 29.
-
-🟩
-
-A young man died on Tuesday (29) after a wild elephant attack in Chettikulam, Chettikulam, Vavuniya, Parayanalangulam police said.
-
-The 24 -year -old Vigneswaran Ketheeswaran, a 24 -year -old from Christianity, has died in the elephant attack.
-
-◼️
-
-[Data](articles/286ec2dc.json)
-
-[Extended Data](ext_articles/286ec2dc.ext.json)
 
 ---

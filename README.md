@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 11:12:18**
+As of **2024-10-30 12:15:31**
 
 ## Newspaper Stats
 
-*Scraped **52,172** Articles*
+*Scraped **52,184** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 414
 colombotelegraphcom | 530
 bbccomsinhala | 531
 islandlk | 3,106
-economynextcom | 3,170
+economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,851
-adaderanalk | 6,181
-tamilmirrorlk | 7,232
+adalk | 4,853
+adaderanalk | 6,184
+tamilmirrorlk | 7,237
 virakesarilk | 8,424
 adaderanasinhalalk | 9,076
 
@@ -26,43 +26,205 @@ adaderanasinhalalk | 9,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,170 (100.0%) of 52,172 articles have been extended.
+52,172 (100.0%) of 52,184 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
 
-### ஜனாதிபதி தலைமையில் தேசிய பாதுகாப்பு சபை கலந்துரையாடல்
+### லொறி விபத்து ; இறால் தொகை மாயம்
+
+*2024-10-30 11:41:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறி-விபத்து-இறால்-தொகை-மாயம்/175-346310) · `ta`
+
+தெற்கு அதிவேக நெடுஞ்சாலையில் மீன் ஏற்றிச் சென்ற லொறியொன்று சீமெந்து ஏற்றிச் சென்ற லொறியுடன் மோதி விபத்துக்குள்ளானதில் மீன் லொறியில் இருந்த ஏழு இலட்சம் ரூபாவுக்கும் அதிக பெறுமதியுடைய  இறால் தொகை காணாமல் போயுள்ளதாக லொறியின் சாரதியால் கஹதுடுவ பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது.
+
+தங்காலை குடாவெல்ல பிரதேசத்தில் வசிக்கும் மீன் வியாபாரியான கே. எச்.ஆர். குமார் என்பவர் நீர்கொழும்பில் இருந்து மீன் ஏற்றிக்கொண்டு தங்காலை நோக்கி பயணித்த போது சீமெந்து ஏற்றிச் சென்ற லொறியுடன் மோதி விபத்துக்குள்ளான சம்பவம்  தெற்கு அதிவேக நெடுஞ்சாலையின் கஹதுடுவ பகுதியில் கடந்த 25 ஆம் திகதி இடம்பெற்றுள்ளது.
+
+விபத்தில் மீன் லொறிக்கு பலத்த சேதம் ஏற்பட்டுள்ளதுடன் மீன் லொறியின் சாரதி படுகாயமடைந்து வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நிலையில் லொறியில் இருந்த இறால் தொகை லொறியின் தரையிலும் வீதியிலும் சிதறிக் கிடந்திருந்துள்ளது.
+
+...
+
+[Data](articles/6fe5cca5.json)
+
+---
+
+### அரசியலமைப்பை எங்கிருந்து கற்றுக்கொண்டீர்கள்?
+
+*2024-10-30 11:38:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலமைப்பை-எங்கிருந்து-கற்றுக்கொண்டீர்கள்/175-346309) · `ta`
+
+பிரதமர் ஹரினி அமரசூரியவுக்கு இலங்கையின் அரசியலமைப்பு தெரியாதா என கேள்வி எழுப்பிய முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க, தீர்மானங்களை எடுப்பதற்கு அமைச்சரவையின் அங்கீகாரம் அரச அதிகாரிகளின் அனுமதி தேவையில்லை என சுட்டிக்காட்டியுள்ளார்.
+
+நிகழ்வொன்றில் உரையாற்றிய முன்னாள் ஜனாதிபதி, அரச ஊழியர்களின் சம்பளத்தை அதிகரிப்பதற்கான அமைச்சரவையின் தீர்மானம் தொடர்பில் பிரதமர் அமரசூரிய அண்மையில் வெளியிட்ட அறிக்கை தொடர்பில் கேள்வி எழுப்பினார்.
+
+அரச ஊழியர்களின் சம்பளத்தை அதிகரிப்பதற்கு திறைசேரி மற்றும் நிதி அமைச்சின் அதிகாரிகளின் அனுமதி பெறப்படவில்லை என பிரதமர் ஹரிணி அமரசூரிய தெரிவித்துள்ளார். அமைச்சரவை செயல்படுவதற்கு அதிகாரிகளின் ஒப்புதல் முக்கியம் என்கிறார். அரசியலமைப்பை எங்கிருந்து கற்றுக்கொண்டீர்கள்? என்று ரணில் கேள்வி எழுப்பினார்.
+
+அமைச்சரவையே தேசத்தை நிர்வகிப்பதாகவும், அரசியலமைப்பில் எந்த இடத்திலும் அதிகாரிகளுக்கு முன்னுரிமை என்று குறிப்பிடவில்லை எனவும் முன்னாள் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/ecd5a793.json)
+
+---
+
+### ஹட்டனில் தீபாவளி கைவரிசை: 4 யுவதிகள் கைது
+
+*2024-10-30 11:38:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-தீபாவளி-கைவரிசை-4-யுவதிகள்-கைது/76-346308) · `ta`
+
+நாளை (31) வியாழக்கிழமை தீபாவளி பண்டிகையை கொண்டாடுவதற்காக, நாட்டின் பல பாகங்களில் இருந்தும் ஹட்டனுக்கு வருகை தந்த வாடிக்கையாளர்கள், நுகர்வோர்களிடம் இருந்து பணப்பைகள் மற்றும் தங்க நகைகளை திருடிய நான்கு யுவதிகள் கைது செய்யப்பட்டுள்ளனர்.
+
+தீபாவளி பண்டிகையை முன்னிட்டு ஹட்டன் நகருக்கு வரும் வாடிக்கையாளர்களின் பணப்பைகள் மற்றும் தங்க ஆபரணங்களை திருடும் ஒழுங்கமைக்கப்பட்ட குழுவொன்றின் நான்கு யுவதிகள் செவ்வாய்க்கிழமை (29) பிற்பகல் ஹட்டன் பொலிஸ் குற்றப்புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+தீபாவளி பண்டிகையை முன்னிட்டு ஹட்டன் நகருக்கு   அதிகளவான வாடிக்கையாளர்கள் வருகை தந்திருந்த நிலையில், சில வாடிக்கையாளர்களின் பணப்பைகள் மற்றும் தங்க ஆபரணங்கள் காணாமல் போனதாக ஹட்டன் பொலிஸாருக்கு பல முறைப்பாடுகள் கிடைத்திருந்தன.
+
+...
+
+[Data](articles/b04f8be2.json)
+
+---
+
+### ජොන්ස්ටන් අධිකරණයට රැගෙන එයි
+
+*2024-10-30 11:33:46* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්-අධිකරණයට-රැගෙන-එයි/11-412756) · `si`
+
+අත්අඩංගුවට ගෙන සිටින හිටපු පාර්ලිමේන්තු මන්ත්‍රී ජොන්ස්ටන් ප්‍රනාන්දු මහතා අධිකරණය වෙත රැගෙන විත් තිබේ.
+
+මොටර් රථ සිද්ධියක් සම්බන්ධයෙන් පසුගිය 23 වැනිදා අත්අඩංගුවට ගත් අතර, පසුව අද(30දා) දක්වා රක්ෂිත බන්ධනාගාර ගත කරණු ලැබිණි.
+
+◼️
+
+[Data](articles/06f9bb5d.json)
+
+---
+
+### E-8 visa agreement unlawfully signed by former minister - SLBFE
+
+*2024-10-30 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103029/e-8-visa-agreement-unlawfully-signed-by-former-minister-slbfe) · `en`
+
+The Chairman of the Sri Lanka Bureau of Foreign Employment (SLBFE) Kosala Wickramasinghe disclosed that the E-8 visa agreement with South Korea was signed unlawfully by the former minister, without obtaining Cabinet approval or proper government authorization.
+
+In a recent statement, Wickramasinghe emphasized that no private employment agencies in Sri Lanka are permitted to send workers to South Korea under the E-8 visa system, nor to collect any fees associated with it. He highlighted significant public misconceptions surrounding the E-8 visa, noting that it is a short-term visa limited to five months, which poses potential risks and lacks sufficient government oversight.
+
+...
+
+[Data](articles/51ede9b9.json)
+
+---
+
+### Former Minister Johnston Fernando produced before court
+
+*2024-10-30 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103028/former-minister-johnston-fernando-produced-before-court) · `en`
+
+Former Minister Johnston Fernando, who was remanded over the incident of a luxury vehicle allegedly belonging to him found parked at a star-class hotel premises, has been brought to the Fort Magistrate’s Court for the trial this morning (30).
+
+He was arrested by the Criminal Investigation Department (CID) over the possession of an illegally assembled luxury vehicle and produced before the Colombo Fort Magistrate’s Court where he was ordered to be remanded until today.
+
+The Former MP was arrested after he had arrived at the CID to provide a statement regarding the unregistered BMW car, allegedly belonging to him, which was recently found suspiciously parked at a star-class hotel in Colombo.
+
+◼️
+
+[Data](articles/7cb9803e.json)
+
+---
+
+### 2024 A/L exam to be held as scheduled
+
+*2024-10-30 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103027/2024-al-exam-to-be-held-as-scheduled-) · `en`
+
+The Commissioner General of Examinations Amith Jayasundara urges students appearing for the 2024 Advanced Level examination to download the official schedule exclusively from the Examination Department’s website.
+
+Speaking at a special press conference held today (30), Jayasundara confirmed that all preparations are complete to conduct the A/L examination from November 25 to December 20, 2024, as scheduled, with no postponement.
+
+Jayasundara noted that the examination dates were determined in March of this year. However, he raised concerns about misinformation circulating on social media, which has created uncertainty among students regarding the exam schedule.
+
+The Exams Commissioner General emphasized that the students should rely solely on announcements from the Examination Department, advising candidates not to be misled by social media advertisements or other unofficial sources.
+
+...
+
+[Data](articles/674c9af1.json)
+
+---
+
+### ஐஸூடன் ஹட்டனில் நால்வர் கைது
+
+*2024-10-30 11:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஐஸூடன்-ஹட்டனில்-நால்வர்-கைது/76-346307) · `ta`
+
+தீபாவளி பண்டிகையை கொண்டாடுவதற்காக ஹட்டனுக்கு வந்திருக்கும் இளைஞர்களில் நால்வர் கைது செய்யப்பட்டுள்ளனர். அவர்களிடம்,  ஐஸ் உள்ளிட்ட போதைப்பொருள்கள் கைப்பற்றப்பட்டதை அடுத்தே, அவர்களை கைது செய்துள்ளதாக ஹட்டன் பொலிஸார் தெரிவித்தனர்.
+
+ஹட்டன், டிக்கோயா மற்றும்  சாஞ்சிமலை பகுதியைச் சேர்ந்த நால்வரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+கொழும்பில் தொழில்புரிந்த இவர்கள், தீபாவளி பண்டிகைக்காக தமது ஊர் பகுதிக்கு வந்துள்ளனர். அவர்களின் நடத்தையில் சந்தேகம் ஏற்பட, பொலிஸார் அவர்களை சோதனைக்கு உட்படுத்தியுள்ளனர்.
+
+இதன்போது ஐஸ், கஞ்சா மற்றும் போதை மாத்திரைகள் என்பன அவர்களிடமிருந்து மீட்கப்பட்டுள்ளன என்று பொலிஸார் தெரிவித்துள்ளனர்.
+
+22 மற்றும் 28 வயதுகளுக்கு இடைப்பட்ட குறித்த இளைஞர்கள், விசாரணையின் பின்னர் நீதிமன்றத்தில் முற்படுத்தப்படவுள்ளனர் என ஹட்டன் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/33a31608.json)
+
+---
+
+### பன்றி இறைச்சி இருந்தால் சட்டம் பாயும்
+
+*2024-10-30 11:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பன்றி-இறைச்சி-இருந்தால்-சட்டம்-பாயும்/175-346306) · `ta`
+
+பன்றிகள் மத்தியில் ஆபிரிக்க பன்றிக் காய்ச்சல் (ASF) வேகமாகப் பரவி வருவதைக் கருத்தில் கொண்டு, இலங்கையில் பன்றிகளை அறுப்பது, பன்றி இறைச்சி மற்றும் பன்றி இறைச்சி பொருட்களை விற்பனை செய்வது அல்லது விநியோகிப்பது தற்காலிகமாக தடை செய்யப்பட்டுள்ளது.
+
+நாட்டிலுள்ள அனைத்து பிரதேச செயலாளர் பிரிவுகளையும் "தொற்று" அல்லது "சந்தேகத்திற்குரிய" பிரதேசங்களாக பிரகடனப்படுத்தி வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலில் இது குறிப்பிடப்பட்டுள்ளது.
+
+புதிய விதிமுறைகளின்படி, பாதிக்கப்பட்ட பகுதிகளுக்குள் பன்றிகள் அல்லது பன்றி இறைச்சி பொருட்களை கொண்டு செல்வது, பன்றிகளை அறுப்பது, பன்றிகளை செயற்கையாக இனப்பெருக்கம் செய்தல், பன்றி இறைச்சி மற்றும் பன்றி இறைச்சி பொருட்களை விற்பனை செய்தல் அல்லது விநியோகித்தல் மற்றும் தொற்றுள்ள பாதிக்கப்பட்ட விலங்குகளின் சடலங்களை நீர்நிலைகளில் அல்லது வழிகளில் அப்புறப்படுத்துதல் ஆகியவை தடை செய்யப்படும்.
+
+விலங்கு நோய்கள் சட்டத்தின் கீழ், கால்நடை உற்பத்தி மற்றும் சுகாதார பணிப்பாளர் நாயகம் திருமதி கே.ஏ.சி.எச் அபேரத்ன கொத்தலாவலவினால் இந்த அறிவிப்பு வெளியிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/d6c23a0d.json)
+
+---
+
+### National Security Council Discussion
 
 *2024-10-30 11:03:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-தேசிய-பாதுகாப்பு-சபை-கலந்துரையாடல்/175-346305) · `ta`
 
-இந்திய பயணிகள் விமானங்களை குறிவைத்து தொடர்ச்சியாக வெடிகுண்டு அச்சுறுத்தல்கள் மற்றும் இலங்கையின் சுற்றுலாத்துறையில் அவை ஏற்படுத்தக்கூடிய பாதிப்புகள் குறித்து ஜனாதிபதி அனுரகுமார திஸாநாயக்க தலைமையிலான தேசிய பாதுகாப்பு சபை நேற்று கலந்துரையாடியது.
+National Security Council discusses bomb threats impacting tourism in Sri Lanka. Threats divert flights, raise concerns about tourism industry. Authorities increase security measures. CID investigates aircraft bomb blasts.
 
-தொடரும் அச்சுறுத்தல்கள் நாட்டிற்கு வருகை தரும் சுற்றுலாப் பயணிகளை பாதிக்கக்கூடும் என்றும், இது சுற்றுலாத் துறையின் எதிர்காலம் குறித்த கரிசனங்களை எழுப்புவதாகவும் தகவலறிந்த வட்டாரங்கள் தெரிவித்தன.
+🟩
 
-விமானம் இலங்கை வான் எல்லைக்குள் நுழைந்த சிறிது நேரத்திலேயே வெடிகுண்டு மிரட்டல் விடுக்கப்படுவதும் தெரியவந்தது. அருகிலுள்ள விமான நிலையம் கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் (BIA) அமைந்துள்ளதால், பாதிக்கப்பட்ட அனைத்து விமானங்களும் பாதுகாப்பு சோதனைக்காக BIA க்கு திருப்பி விடப்படுகின்றன.
+The National Security Council headed by President Anura Kumara Dissanayake held a discussion on the continuous bomb threats and the impact of the tourism industry in Sri Lanka.
 
-அண்மையில் இடம்பெற்ற சம்பவமொன்றில், வெடிகுண்டு மிரட்டல் விடுத்து ஒரே நேரத்தில் தரையிறக்கப்பட்ட இரண்டு விமானங்களுக்கு இலங்கை சட்ட அமலாக்க அதிகாரிகள் பதிலளிக்க வேண்டியிருந்தது. இருப்பினும், கிடைத்த மனிதவளத்தைக் கொண்டு அதிகாரிகளால் நிலைமையை திறம்பட நிர்வகிக்க முடிந்தது.
+Informed sources said that continuing threats could affect tourists visiting the country and raised concerns about the future of the tourism industry.
+
+Shortly after the aircraft entered the Sri Lankan air border, it was also revealed that the bomb was threatened. Since the nearby airport is located at the Katunayake Bandaranaike International Airport (BIA), all the affected flights are diverted to BIA for security testing.
+
+In a recent incident, Sri Lankan law enforcement officials had to respond to two aircraft that had landed simultaneously by bomb threats.. However, with the available human resources, the authorities were able to manage the situation effectively.
 
 ...
 
 [Data](articles/b3fa0db4.json)
 
+[Extended Data](ext_articles/b3fa0db4.ext.json)
+
 ---
 
-### நாயை சுட்டுக்கொன்ற இராணுவ அதிகாரி கைது
+### Arrest army officer for shooting dog
 
 *2024-10-30 11:02:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாயை-சுட்டுக்கொன்ற-இராணுவ-அதிகாரி-கைது/175-346304) · `ta`
 
-பக்கத்து வீட்டாரின் வளர்ப்பு நாயை துப்பாக்கியால் சுட்டுக் கொன்ற குற்றச்சாட்டில் ஓய்வு பெற்ற இராணுவ அதிகாரி ஒருவர் புதன்கிழமை (29) கைது செய்யப்பட்டுள்ளார்.
+Retired army officer arrested for fatally shooting neighbor's foster dog. Police seized weapon. Incident occurred in Kandana's Polpittimalana area. Dog found dead outside suspect's home.
 
-மரணமடைந்த நாயின் உரிமையாளர் செய்த முறைப்பாட்டின் பிரகாரம் கந்தானை பொல்பிட்டிமுகலான பிரதேசத்தைச் சேர்ந்த 55 வயதுடைய   ஓய்வு பெற்ற இராணுவ அதிகாரி கைது செய்யப்பட்டுள்ளதுடன், நாயை சுட பயன்படுத்திய துப்பாக்கியும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+🟩
 
-துப்பாக்கிச் சூட்டில் காயமடைந்த நாய், சந்தேக நபரின் வீட்டின் முன் உயிரிழந்து  கிடந்த நிலையில் மீட்கப்பட்டுள்ளதுடன்  இரவு நேரங்களில் வீட்டின் முன் வந்து  குரைப்பதால் நாய் சுட்டுக் கொல்லப்பட்டது என விசாரணையில் தெரியவந்ததாக பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+A retired army officer has been arrested on Wednesday (29) for allegedly shooting a neighbor's foster dog.
+
+According to the owner of the deceased dog, a 55 -year -old retired army officer from Polpittimalana area, Kandana has been arrested and a gun used to shoot the dog has been seized.
+
+A police officer said that the dog, who was injured in the shooting, was found dead in front of the suspect's house and was shot dead in front of the house at night.
 
 ◼️
 
 [Data](articles/b2cd69a2.json)
+
+[Extended Data](ext_articles/b2cd69a2.ext.json)
 
 ---
 
@@ -306,6 +468,26 @@ Harun Rupert Hugwarf said, "Sang Yiming is the 18th new billionaire we have rece
 
 ---
 
+### Sri Lanka rupee opens flat at 293.50/60 to dollar, bond yields steady
+
+*2024-10-30 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-293-50-60-to-dollar-bond-yields-steady-185496/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened flat at 293.50/60 to the US dollar Wednesday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.01.2027 was quoted at 10.79/83 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.70/75 percent, from 11.65/75 percent.
+
+A bond maturing on 15.06.2029 was quoted at 11.90/12.05 percent, from 11.95/12.10 percent.
+
+In equities, Colombo’s All Share Price Index opened up 0.33 percent, or 42.62 points higher at 12,788, while the S&P SL20 of more liquid stocks opened up 0.53 percent or 20.41 points higher at 3,876.
+
+◼️
+
+[Data](articles/812d9da3.json)
+
+---
+
 ### Postal voting for 2024 General Election begins
 
 *2024-10-30 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103022/postal-voting-for-2024-general-election-begins) · `en`
@@ -462,6 +644,24 @@ Sri Lanka: Tamil schools in central and Uva provinces closed Nov 1 due to Diwali
 
 ---
 
+### 2024දී දුම්රිය  පීලිපැනීම් 86ක් - පීලි පැනීම් 59ක් දුම්රිය මාර්ගයේ, 27ක් දුම්රිය අංගණවලදී
+
+*2024-10-30 08:35:35* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-දුම්රිය--පීලිපැනීම්-86ක්---පීලි-පැනීම්-59ක්-දුම්රිය-මාර්ගයේ--27ක්-දුම්රිය-අංගණවලදී/11-412754) · `si`
+
+මේ වසරේ ජනවාරි 01වන දින සිට ඊයේ (29දා) දිනය දක්වා කාලයේදී දුම්රිය පීලිපැනීම් 86ක් සිදුව ඇතිබව වාර්තාවෙයි. ඉන් පීලි පැනීමේ සිදුවීම් 59ක් දුම්රිය මාර්ගවල සිදුව ඇති අතර පීලි පැනීම් 27ක් සිදුව ඇත්තේ දුම්රිය අංගණවලදීය.
+
+මේ අනුව 2020 වසරේ සිට ඊයේ දිනය දක්වා කාලය තුළදී දුම්රිය පීලිපැනීම් 570ක් සිදුව තිබෙන බවත්, මේ වසරේ ගෙවීගිය කාලය තුළදී සමස්ත පීලිපැනීම් සිද්ධීන් 86ක්ද, පසුගිය වසරේදී පීලිපැනීම් 139ක්ද, 2022 වසරේදී පීලිපැනීම් 132ක්ද, 2021 වසරේදී පීලිපැනීම් 115ක් හා 2020 වසරේදී පීලිපැනීම් 98ක්ද සිදුව තිබේ.
+
+පෙරේදා (28දා) පමණක් දුම්රිය පීලිපැනිම් දෙකක් සිදුව තිබෙන අතර, දුම්රිය පීලිපැනීම් නිසා දුම්රිය ගමනාගමනයට බාධා සිදුවීම හා දුම්රිය මාර්ගවලට හානි සිදුවීම සිදුවන බවද පෙන්වා දෙයි.
+
+දුම්රිය මාර්ග නිසිලෙස නඩත්තු නොකිරීම, දුම්රිය මාර්ගවලට දරාගත නොහැකි ආකාරයේ බරක් සහිත දුම්රිය එංජින් ධාවනය කිරීම හා දුම්රිය කර්මික දෝෂවලට ලක්වීම නිසා පීලිපැනීම් සිදුවන බවද දුම්රිය සේවකයයෝ සඳහන් කරති.
+
+...
+
+[Data](articles/d7f4ec8a.json)
+
+---
+
 ### Six foreign nationals arrested
 
 *2024-10-30 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202716) · `si`
@@ -481,6 +681,28 @@ The arrested persons were the Bangladesh, 18, 23, 26, 39 and 43.
 [Data](articles/b63e0579.json)
 
 [Extended Data](ext_articles/b63e0579.ext.json)
+
+---
+
+### Sri Lanka delegation discussed taxes, revenues with IMF: Minister
+
+*2024-10-30 08:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-delegation-discussed-taxes-revenues-with-imf-minister-185641/) · `en`
+
+ECONOMYNEXT – A Sri Lanka delegation had discussed taxes and revenue targets during a visit the International Monetary Fund headquarters in the US, Minister Vijitha Herath said.
+
+“Especially on current taxes, including VAT and other taxes, on revenues and how to achieve them,” Minister Herath said.
+
+Sri Lanka has to have a budget for 2025 to set revenue and primary balance targets for June 2025, which are quantitative performance criteria when negotiating the next staff level agreement.
+
+The IMF is quite keen on boosting revenues rather than cutting spending. Spending cuts can also achieve the primary deficit.
+
+Sri Lanka was supposed to conduct a review on June 2024 data around September but the elections had delayed the review.
+
+In the earlier program the December data had been set (some of which were to be firmed on this review) but the new administration is planning a vote on account while working on next years budget.
+
+...
+
+[Data](articles/a06c9396.json)
 
 ---
 
@@ -2067,261 +2289,5 @@ Officers from the Tangalle Division Crimes Unit and Beliatta Police have launche
 [Data](articles/88938e36.json)
 
 [Extended Data](ext_articles/88938e36.ext.json)
-
----
-
-### What Is Wrong With Us?
-
-*2024-10-29 19:07:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/what-is-wrong-with-us/) · `en`
-
-We are convinced (or conditioned to believe,) that we are an under-developed country and are destined to ever remain so. Should it really be such? Importantly, what should we do to erase this patronizing and degrading label? This mental complex has led us to be a cynical, despondent people. The past seven decades of Independence have driven us into the depths of despair. The worst part of this is that we have so driven our thoughts, to make this fear to become our reality.
-
-We have failed to utilize our potential – be it in climate, human resources or other “development criteria”. This clearly needs to change. Perhaps, we are not the cat’s whiskers, nor certainly are we everybody’s chronic “dog’s body”.
-
-...
-
-[Data](articles/3067fdb6.json)
-
-[Extended Data](ext_articles/3067fdb6.ext.json)
-
----
-
-### President assures decisive economic measures to protect banking sector and entrepreneurs
-
-*2024-10-29 19:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103016/president-assures-decisive-economic-measures-to-protect-banking-sector-and-entrepreneurs) · `en`
-
-President Anura Kumara Dissanayake has emphasized that, since neither he nor his administration has special ties or obligations to any party within the country’s development or business sectors, they are positioned to make decisions impartially and decisively for the sake of national economic recovery.
-
-These remarks were made during a meeting today (29) with members of the Sri Lanka Banks’ Association at the Presidential Secretariat, where discussions focused on the banking sector’s role and challenges in supporting Sri Lanka’s economic growth, the President’s Media Division (PMD) said in a statement.
-
-The President highlighted the critical importance of digitizing Sri Lanka’s economy, including the implementation of a National Digital ID initiative, which he pledged would be completed within a focused timeframe of one and a half years.
-
-...
-
-[Data](articles/cf3e0bf4.json)
-
-[Extended Data](ext_articles/cf3e0bf4.ext.json)
-
----
-
-### T56 bullets under a seat on a train
-
-*2024-10-29 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202703) · `si`
-
-Bullets discovered under train seat between Maradana and Beliatta. Found by passengers exiting at Beliatta station. Incident occurred on 29th.
-
-🟩
-
-The railway measures have been recovered from a seat in Maradana to Beliatta today (29).
-
-Two people have left the compartment at the Beliatta Railway Station at the Beliatta Railway Station and later found this bullest bag under the seats.
-
-◼️
-
-[Data](articles/a7a7f9e6.json)
-
-[Extended Data](ext_articles/a7a7f9e6.ext.json)
-
----
-
-### The government cannot accept the promise of public servants' salary increase -Ruwan Wijewardena
-
-*2024-10-29 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/197451) · `ta`
-
-Government refuses to commit to public servant salary increases despite campaign promises.
-
-🟩
-
-The government, which came to power in the country, has not yet made any change that people expect. But they are only talking about the existing of former presidents. Ruwan Wijewardena, the Gampaha district candidate of the new Democratic Front, said that the government is now refusing to say that salaries are increasing for public servants once in six months.
-
-He was speaking at a press conference held at the New Democratic Front's Election Office in Colombo on Tuesday (29).
-
-The people voted for the power of the national people in anticipation of the change. But no change in the expected people has not yet taken place. But since the government came to power, the gifts of the former presidents have been taking steps to without the security measures they have been given to them. The president is also talking about it. But there are many things to do in the country.
-
-...
-
-[Data](articles/6965912d.json)
-
-[Extended Data](ext_articles/6965912d.ext.json)
-
----
-
-### The entire process of protecting the bank and the entrepreneur should be carried out - President
-
-*2024-10-29 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202702) · `si`
-
-Sri Lankan President Anura Kumara Dissanayake emphasizes protecting banks and entrepreneurs. He highlights the need for government involvement in economic development, focusing on digitization and addressing the economic crisis. The president also addresses issues like project delays, corruption, and simplifying processes in the informal sector.
-
-🟩
-
-President Anura Kumara Dissanayake emphasizes that every decision should not be taken in the country's building and economic development.
-
-President Anura Kumara Dissanayake made these comments when she met the members of the Sri Lankan banking union meeting this morning at the Presidential Secretariat.
-
-The government's involvement and their problems have also focused on the development of the economy of Sri Lanka.
-
-The President also said that Sri Lanka was discussing the importance of digitization and e-ID and the President said.
-
-The President said that if the entrepreneur, who was looking for the entrepreneur, was a problem if the entrepreneur would not be overdue with the economic crisis.
-
-The overall process of protection of the bank, entrepreneur, should be carried out.
-
-President Anura Kumara Dissanayake has also stated that the informal sector of the economy of Sri Lanka is large and the procedure is being secured in the informal economy.
-
-...
-
-[Data](articles/8ec549a2.json)
-
-[Extended Data](ext_articles/8ec549a2.ext.json)
-
----
-
-### Salary of Public Servant Salary From January
-
-*2024-10-29 18:40:58* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප-ජනවාරි-සිට-ඉහළට/11-412746) · `si`
-
-Public servant salary increase announcement: Cabinet approves raise, but Treasury denies funding. Minister vows future hikes from 2025.
-
-🟩
-
-The Cabinet of Ministers, Religious and Cultural Affairs, National Integration, Social Security, Social Security, Social Security, Social Security and Mass Media and Information, Hon.
-
-He was speaking at a press briefing in the Cabinet Decision today (29).
-
-The Minister pointed out that the amount of salaries is increased after reviewing the money.
-
-The Minister stated that the last government has made any kind of allocation to increase the salaries of the public service.
-
-We are very much to increase salaries and allowances to public servants and private sector employees. There is no hesitation in this regard.But according to the Treasury, those decisions will be made. The former President made a proposal to the Cabinet and has made a decision to increase the salaries. But the Treasury did not think that the Treasury had money to increase salaries. What he did was wrong.
-
-...
-
-[Data](articles/0b37b546.json)
-
-[Extended Data](ext_articles/0b37b546.ext.json)
-
----
-
-### Dr. Harsha de Silva is not allocated for the salary increase of state officials
-
-*2024-10-29 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197446) · `ta`
-
-Dr. Harsha de Silva criticizes government claims about salary increases and rice imports. Finance Ministry report contradicts Prime Minister's statement on funding allocation. Government accused of lying about funds and rice availability.
-
-🟩
-
-According to the Finance Ministry's report, the last government decided to increase the salaries of state officials. Therefore, it is not acceptable to say that it is not allocated for this in the Treasury. Former United People's Power Member Dr. Harsha de Silva questioned why the government is lying on the funds.
-
-He said this at a press conference held at the United People's Alliance headquarters in Colombo yesterday.
-
-The Prime Minister has said that funds have not been allocated to increase the salaries of state officials. But they said they were looking to increase their salary by six months before the election. 13 percent used the report of the Finance Ministry signed by 3 persons under the definition of parallel cost of national production for a resolution on the last Cabinet pay increase.
-
-...
-
-[Data](articles/ae60bfd9.json)
-
-[Extended Data](ext_articles/ae60bfd9.ext.json)
-
----
-
-### How and Why the  JVP led by Anura Dissanayake Formed  the National People’s Power (NPP) in 2019.
-
-*2024-10-29 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84966) · `en`
-
-This is the fourth part of an extended article focusing on  Sri Lanka’s newly elected  President Anura Kumara Dissanayake. In the first part of this article , the early years of Anura’s eventful life were delved into in some detail. In the second part, AKD’s steady growth as a political leader within the Janatha Vimukthi Peramuna (JVP) was related to some extent. In the  third part, Anura’s rise to the leadership position of the JVP was recounted.  The story of  how the JVP transformed  itself  as leader of the NPP alliance  under AK Dissanayake  will be narrated in this fourth  part.
-
-February 2nd 2014 was a red letter day in the life of Anura Kumara Dissanayake. It was on this day that the Janatha Vimukthi Peramuna’s 17th national convention was held. The highlight of that convention was the change of leadership in the JVP. Somawansa  Amerasinghe who held the reins  for 24 years stepped down . Anura Kumara Dissanayake known popularly as Anura and AKD  became the new JVP leader.
-
-...
-
-[Data](articles/39bb7267.json)
-
-[Extended Data](ext_articles/39bb7267.ext.json)
-
----
-
-### Selection of players on Lanka T10 Super League
-
-*2024-10-29 18:14:54* · [`adalk`](https://www.ada.lk/sports/ලංකා-T10-සුපර්-ලීග්-ක්‍රිකට්-තරගාවලියේ-ක්‍රීඩකයන්-තෝරා-ගැනීම-ලබන-10-වැනිදා/9-412745) · `si`
-
-Sri Lanka Cricket introduces Lanka T10 Super League. Local and international cricketers form 6 teams. Tournament runs Dec 12-22. Each team selects 17 max, 15 min players.
-
-🟩
-
-Sri Lanka Cricket (SLC) is committed to the Sri Lanka T10 Super League cricket tournament for the first time.
-
-The tournament will be played by local and foreign sports stars representing 06 teams from December 12 to 22.
-
-Each group is capable of selecting their maximum of 17 players and at least 15 players for their squad.
-
-◼️
-
-[Data](articles/023bbe38.json)
-
-[Extended Data](ext_articles/023bbe38.ext.json)
-
----
-
-### Arrests for stealing pilot's pilot
-
-*2024-10-29 18:14:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமானியின்-பயணப்பொதியை-திருடிய-பணிப்பெண்-கைது/175-346277) · `ta`
-
-Sri Lankan woman arrested for stealing Colombian pilot's luggage at Bandaranaike International Airport. CCTV footage shows her taking bag and hiding it in her trolley. Arrested and produced in court.
-
-🟩
-
-A 45 -year -old Sri Lankan housemaker has been arrested by airport police for stealing a Colombian pilot.
-
-Stolen goods belong to a 40 -year -old Colombian pilot. A homemaker living in Hunupitiya, Wattala arrived at the Bandaranaike International Airport from Abu Dhabi on the Etihad Airways flight at 8:38 am on Tuesday (29).
-
-After landing at the airport, the pilot and the pilots left the airplane after all the passengers landed. When they collected their items and ready to leave the airport, the pilot found his bag disappearing.
-
-The incident was reported to the Ethihod Airlines Manager, and airport security officials examined CCTV footage. The cameras were reported to be one of the first landlords, taking the pilot's luggage, traveling to another part of the airport and hiding the bag in the trolley carrying her own luggage.
-
-It has also been revealed that the woman was rushed to the three -wheeler to leave the airport.
-
-...
-
-[Data](articles/72648c62.json)
-
-[Extended Data](ext_articles/72648c62.ext.json)
-
----
-
-### Ceylon Workers Congress President Saumiyamoorthy Thondaman was the Dynamic Leader of Sri Lanka’s  Hill Country Tamils for many Decades.
-
-*2024-10-29 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84976) · `en`
-
-The 25th death anniversary of Plantation Tamil Patriarch Saumiyamoorthy Thondaman is being commemorated today 30 October 2024. Saumiyamoorthy (name is spelled as Savimiyamoorthy and  Saumiamurthy also) Thondaman who passed away on 30 October 1999, was the undisputed leader of Sri Lanka’s predominantly Indian Tamil plantation proletariat. As a journalist,  I have had the good fortune of interacting with him closely for several years. He was a leader whom I liked, admired and respected.
-
-In my opinion, Saumiyamoorthy Thondaman was the shrewdest tactician and masterful strategist among Tamil political leaders in recent times. He was a pragmatic realist who grasped in essence that politics is the art of the possible. Applying Chanakyan methods in a practical sense, this larger than life leader of Sri Lanka’s Tamils of recent Indian origin – known as “Indian Tamils” – helped usher in a period of political empowerment and renaissance to his community.
-
-...
-
-[Data](articles/33120614.json)
-
-[Extended Data](ext_articles/33120614.ext.json)
-
----
-
-### The money is not stobed
-
-*2024-10-29 17:55:21* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-අච්චු-ගැසුවේ-නෑ/11-412744) · `si`
-
-Here's a 200-character summary:
-
-
-
-Central Bank of Sri Lanka denies allegations about money storage. Recent claims investigated; no evidence found. Official statement clarifies bank's financial practices.
-
-🟩
-
-The Central Bank of Sri Lanka has issued an announcement that the allegations have been made in recent years, the Central Bank said.
-
-◼️
-
-[Data](articles/cc788e28.json)
-
-[Extended Data](ext_articles/cc788e28.ext.json)
 
 ---

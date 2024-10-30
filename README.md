@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 18:35:50**
+As of **2024-10-30 18:49:18**
 
 ## Newspaper Stats
 
-*Scraped **52,243** Articles*
+*Scraped **52,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 4,858
 adaderanalk | 6,198
 tamilmirrorlk | 7,245
 virakesarilk | 8,433
-adaderanasinhalalk | 9,096
+adaderanasinhalalk | 9,097
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,243 (100.0%) of 52,243 articles have been extended.
+52,243 (100.0%) of 52,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### පානදුර නගරයේ පැරණි දෙමහල් ගොඩනැගිලි 5ක් එකවර කඩාවැටෙයි
+
+*2024-10-30 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202741) · `si`
+
+පානදුර නගරයේ ජනප්‍රිය මාවතේ එක පෙළට පිහිටි පැරණි දෙමහල් ගොඩනැගිලි 05ක් අද (30) දහවල් එකවරම කඩාවැටී තිබේ.
+
+මෙම ගොඩනැගිලි කඩාවැටීමත් සමගම ඒ ආසන්නයේ ගාලු පාර ඇතුළු ප්‍රදේශය විශාල දූවිල්ලකින් වැසී ගොස් ඇත.
+
+ජනප්‍රිය මාවතේ දෙපස කානු පද්ධතිය සකස් කිරීම සඳහා නගර සභාවෙන් කොන්ත්‍රාත්කරුවෙකුට පවරා ඇති අතර අද (30) දහවල් බැකෝ යන්ත්‍රයක් ආධාරයෙන් එම කාණු සකසමින් සිට තිබේ.
+
+එම බැකෝ යන්ත්‍රය සහ පස් පිරවූ ලොරි රථය ඉන් පිටත්ව යෑමත් සමගම මෙම ගොඩනැගිලි එකවරම කඩාවැටී ඇත.
+
+බැකෝ යන්ත්‍රය නිසා පොළොවේ ඇතිවූ දෙදරීම මෙම අනතුරට හේතු වන්නට ඇති බව අසල සිටි ව්‍යාපාරිකයන් පවසයි.
+
+එම ගොඩනැගිලි පහේ පහත මහල්වල දන්ත ශල්‍යාගාරයක්, රෙදිපිළි අලෙවිසැලක් සහ තවත් වෙළෙඳසැල් කිහිපයක් තිබූ අතර ඒවා සම්පූර්ණයෙන් විනාශ වී තිබේ.
+
+අනතුර සිදුවන අවස්ථාවේදී කඩ කාමර පහෙන් දෙකක් විවෘතව තිබූ අතර කඩකාමර තුනක් වසා තිබූ බවත් පැවසෙයි.
+
+◼️
+
+[Data](articles/2d70589f.json)
+
+---
 
 ### Indonesia arrests former trade minister in sugar import graft case
 
@@ -2409,23 +2433,5 @@ In this post-crisis milieu, Government has a difficult balancing act to ensure a
 [Data](articles/21671abd.json)
 
 [Extended Data](ext_articles/21671abd.ext.json)
-
----
-
-### Amendments to tax policy imperative for better prospects
-
-*2024-10-30 05:52:09* · [`dailyftlk`](https://www.ft.lk/opinion/Amendments-to-tax-policy-imperative-for-better-prospects/14-768582) · `en`
-
-Tax policy must be reflective of real market conditions for consumers and the public
-
-Sri Lanka’s new Government and executive brings with it a new dimension of thinking to policy and governance. Therein lies significant opportunity, albeit laden with challenges, to change the way Sri Lanka does business and how we are perceived by the world.
-
-In this post-crisis milieu, Government has a difficult balancing act to ensure a positive trade balance, manage its primary account considering IMF expectations, all whilst providing relief to a burdened public in the run up to 2028, when debt payments must resume. Reform should encompass better governance – combat corruption, drive exports and investment, stop wastage and a review of tax and industrial policy to strengthen returns. The Government led by the new President must adopt a fact-based approach towards policy, as opposed to strategy and actions that were often driven by political whims and favouritism.
-
-...
-
-[Data](articles/63dd6d0e.json)
-
-[Extended Data](ext_articles/63dd6d0e.ext.json)
 
 ---

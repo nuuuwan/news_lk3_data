@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 13:40:40**
+As of **2024-10-30 14:00:11**
 
 ## Newspaper Stats
 
-*Scraped **52,206** Articles*
+*Scraped **52,208** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,854
-adaderanalk | 6,188
+adaderanalk | 6,189
 tamilmirrorlk | 7,239
 virakesarilk | 8,431
-adaderanasinhalalk | 9,083
+adaderanasinhalalk | 9,084
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,205 (100.0%) of 52,206 articles have been extended.
+52,208 (100.0%) of 52,208 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Sri Lankan appointed new Independent Chair of ICC Anti-Corruption Unit
+
+*2024-10-30 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103035/sri-lankan-appointed-new-independent-chair-of-icc-anti-corruption-unit-) · `en`
+
+The International Cricket Council (ICC) today announced the appointment of Sumathi Dharmawardena P.C. as the new Independent Chair of the ICC Anti-Corruption Unit (ACU).
+
+Dharmawardena replaces Sir Ronnie Flanagan who retired from the role after 14 years. Dharmawardena brings a wealth of experience including serving as an Additional Solicitor General at the Attorney General’s Department of Sri Lanka, in which he represents the Government of Sri Lanka, including the Ministry of Sport, in a variety of legal matters, the ICC said in a statement.
+
+In addition, the new ACU Chair has worked with Interpol and the United Nations Office on Drugs and Crime, investigating corruption in sport, as well as overseeing several investigations and prosecutions under the Prevention of Offences relating to Sports Act, an Act which he was instrumental in formulating. He has also represented the Government of Sri Lanka in discussions and negotiations with other global sporting organisations.
+
+...
+
+[Data](articles/9fc8ee82.json)
+
+[Extended Data](ext_articles/9fc8ee82.ext.json)
+
+---
+
+### Johnston's hope out of the court
+
+*2024-10-30 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202728) · `si`
+
+Johnston Fernando leaves judiciary after bail. Former minister claims innocence, plans to run in next election. Released on bail for possessing unregistered BMW in Sri Lanka.
+
+🟩
+
+Former Minister Johnston Fernando left the judiciary after the bail of bail to the Fort Magistrate's Court today.
+
+Speaking to the media, the former minister said he should be revealed in court.
+
+Meanwhile, Johnston Fernando added that he will contest in the next general election.
+
+Former Minister Johnston Fernando was released on bail regarding the possession of a unregistered BMW car in Sri Lanka.
+
+◼️
+
+[Data](articles/31a8985a.json)
+
+[Extended Data](ext_articles/31a8985a.ext.json)
+
+---
 
 ### Petition against Ranjan Ramanayake’s nomination dismissed
 
@@ -676,23 +718,33 @@ It is noteworthy that Nishant Yusuf was the editor of the Surya 45 movie which w
 
 ---
 
-### குரங்குகளுக்கு உணவளிக்க நிதி நன்கொடை வழங்கிய பிரபல நடிகர் அக்சய் குமார்
+### Akshay Kumar, a famous actor who donated funds to feed monkeys
 
 *2024-10-30 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197479) · `ta`
 
-இந்தியாவில் உத்தர பிரதேச மாநிலம் அயோத்தியில் குரங்குகளுக்கு உணவளிக்கும் பணிகளை ஆஞ்சநேயா சேவா என்ற தொண்டு நிறுவனம் மேற்கொண்டு வருகிறது.
+Here's a 200-character summary:
 
-இந்நிலையில், அயோத்தியில் உள்ள குரங்குகளுக்கு உணவளிக்கும் தொண்டு நிறுவனத்திற்கு பொலிவூட் நடிகர் அக்சய் குமார் இந்திய மதிப்பில் ஒரு கோடி ரூபாய் நன்கொடை வழங்கியுள்ளார்.
 
-இது குறித்து ஆஞ்சநேயா சேவா தொண்டு நிறுவனத்தின் தலைவர் பிரியா குப்தா தெரிவித்துள்ளதாவது,
 
-"நடிகர் அக்சய் குமார் இரக்க குணம் கொண்ட பண்புள்ள மனிதர். அவர் மிகுந்த பெருந்தன்மையோடு இந்த நன்கொடையை வழங்கியுள்ளார். நாங்கள் குரங்குகளுக்கு உணவளிப்பதோடு மட்டுமின்றி, குரங்குகளால் மனிதர்களுக்கு எந்த வகையிலும் பாதிப்பு ஏற்படாத வகையில் கவனமாக நடந்து கொள்கிறோம்" என்று தெரிவித்துள்ளார்.
+Bollywood star Akshay Kumar donates funds to Anjaneya Seva NGO in Ayodhya
 
-நடிகர் அக்சய் குமார் நடித்துள்ள 'சிங்கம் அகெய்ன்' திரைப்படம் தீபாவளியை முன்னிட்டு நாளை (31) திரைக்கு வர உள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+Anjaneya Seva is working on feeding monkeys in Ayodhya, Uttar Pradesh, India.
+
+In this case, Bollywood actor Akshay Kumar has donated Rs.
+
+Priya Gupta, president of Anjaneya Seva NGO, said,
+
+"Actor Akshay Kumar. He has made this donation with great greatness. We are not only feeding monkeys, but we are also careful not to affect humans by monkeys. ”
+
+Actor Akshay Kumar starrer 'Singam Akinin' is set to hit the screens tomorrow (31st) in front of Diwali.
 
 ◼️
 
 [Data](articles/1326d216.json)
+
+[Extended Data](ext_articles/1326d216.ext.json)
 
 ---
 
@@ -2257,65 +2309,5 @@ It has been demanded that the cows are being stolen in the Boradivuppattu area a
 [Data](articles/7de5f892.json)
 
 [Extended Data](ext_articles/7de5f892.ext.json)
-
----
-
-### Railway Station Masters to launch strike from midnight tomorrow
-
-*2024-10-29 21:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103018/railway-station-masters-to-launch-strike-from-midnight-tomorrow) · `en`
-
-The Railway Station Masters’ Association warns that they will launch a strike action starting from midnight tomorrow, if their demands are not met during the discussion with the subject minister which is scheduled to be held tomorrow (30).
-
-President of the association Sumedha Somaratne said that the discussions held with the Railways General Manager today (29) were unsuccessful.
-
-The Railway Station Masters’ Association decided to launch an immediate trade union action, over issues pertaining to the post of Railway Station Master.
-
-However, Somaratne further mentioned that they arrived at this decision since no favorable response has been received from the authorities pertaining to issues of the Railway Station Masters including promotions, despite repeated demands.
-
-◼️
-
-[Data](articles/5c95704a.json)
-
-[Extended Data](ext_articles/5c95704a.ext.json)
-
----
-
-### Mondagiri Maha Sean and Manusethaship Movement
-
-*2024-10-29 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202707) · `si`
-
-Here's a 200-character summary:
-
-
-
-New school building opened at Rukwood Tamil College. Constructed by Hanthana Sandagiri Maha Seya Viharaya. Foundation laid Sept 22. Built under Ven's patronage. Completed quickly. Opened by Hon. Hantane Sandagiri Maha Paragey. Benefits 130 students. Construction supported by community.
-
-🟩
-
-The new building was opened at a cost of Rs.
-
-The building was constructed by Hanthana Sandagiri Maha Seya Viharaya.
-
-The foundation stone was laid on September 22, a new school building at Rukwood Tamil College.
-
-The construction of the building began under the patronage of Ven.
-
-It is significant that the foundation stone was able to complete the construction work quickly.
-
-Accordingly, the building was opened by Hon. Hantane Sandagiri Maha Paragey, Ven.
-
-The building is the construction of the A / L students of the Rukwood Tamil College. The little building opens with greeting is a winch for those children. "
-
-"We should not stop our work from here. I think ... We must make a program to send several children from this school to the university. "
-
-Rukwood Tamil College, the 130 students, could not be conducted at the absence of a building to conduct classes.
-
-"This will benefit all our school brothers. Erly will help. "
-
-...
-
-[Data](articles/1d3711c5.json)
-
-[Extended Data](ext_articles/1d3711c5.ext.json)
 
 ---

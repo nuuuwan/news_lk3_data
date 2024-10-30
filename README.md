@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 02:39:48**
+As of **2024-10-31 02:58:23**
 
 ## Newspaper Stats
 
-*Scraped **52,278** Articles*
+*Scraped **52,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 530
 bbccomsinhala | 534
 islandlk | 3,106
 economynextcom | 3,180
-dailyftlk | 3,561
+dailyftlk | 3,562
 dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,202
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,278 (100.0%) of 52,278 articles have been extended.
+52,279 (100.0%) of 52,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Examining Elpitiya, Israeli-Zionist beachheads, Anura’s inaction and Prabhakaran’s profile
+
+*2024-10-31 01:50:27* · [`dailyftlk`](https://www.ft.lk/columns/Examining-Elpitiya-Israeli-Zionist-beachheads-Anura-s-inaction-and-Prabhakaran-s-profile/4-768630) · `en`
+
+On the campaign trail, President AKD followed-up his memorable line “I hear talk in certain places about an Opposition. An Opposition? No. What we need now is a powerful Government!” with a no less memorable and ominous one: “They think this government will be short-lived but I’m telling you this Government will step down only after having rebuilt the entire country!”
+
+He should have said “this government will step down only if you decide it should at a national election”.
+
+Meanwhile senior JVP member and NPP candidate Samantha Waidyaratna reassured his audience and the nation on TV news that “the incoming Government will last an aeon (‘kalpayak’)”.
+
+Elpitiya was a legendary JVP stronghold during the April 1971 insurrection and thereafter. Therefore, last week’s Elpitiya PS election weeks after Anura Kumara Dissanayake’s presidential victory, illuminates greatly.
+
+The JVP-NPP has shrunk slightly (47%) in comparison with its Elpitiya vote in September (49%).
+
+...
+
+[Data](articles/295e07f3.json)
+
+[Extended Data](ext_articles/295e07f3.ext.json)
+
+---
 
 ### வடமராட்சியில் இரட்டைக் கொலை: இருவர் கைது
 
@@ -2375,33 +2397,5 @@ Actor Akshay Kumar starrer 'Singam Akinin' is set to hit the screens tomorrow (3
 [Data](articles/1326d216.json)
 
 [Extended Data](ext_articles/1326d216.ext.json)
-
----
-
-### Special notice to A / L students
-
-*2024-10-30 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202722) · `si`
-
-A/L exam 2024: Dec 20th start, 333,385 candidates, 64 subjects, 2,317 centers. Official announcements only, no social media misinformation.
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundara has informed the A / L Commissioner General of Examinations, to download the Year 1224 A / L examination.
-
-Addressing a special media briefing, the Examinations Commissioner said that all arrangements are being prepared to hold 2024 A / Lship until December 20th December 20.
-
-The Commissioner was determined that the examination was decided on the day of the examination last March.
-
-He said that the children were uncertain about the day of the GCE A / L examination among children and had decided to conduct a press conference to correct it.
-
-The Commissioner of Examinations requested the students to believe only the official announcements made by the Department of Examinations and not to be deceived by the social media.
-
-Accordingly, the Ticketing Tickets of the GCE A / L examination are to be handed over to candidates.
-
-...
-
-[Data](articles/f3fc2031.json)
-
-[Extended Data](ext_articles/f3fc2031.ext.json)
 
 ---

@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 04:24:04**
+As of **2024-10-31 04:39:41**
 
 ## Newspaper Stats
 
-*Scraped **52,283** Articles*
+*Scraped **52,287** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 414
-colombotelegraphcom | 530
+colombotelegraphcom | 531
 bbccomsinhala | 534
 islandlk | 3,106
 economynextcom | 3,180
-dailyftlk | 3,566
+dailyftlk | 3,569
 dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,202
@@ -26,11 +26,61 @@ adaderanasinhalalk | 9,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,283 (100.0%) of 52,283 articles have been extended.
+52,287 (100.0%) of 52,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Commonwealth Union advocates for Appé Lanka’s grassroots efforts in Sri Lanka
+
+*2024-10-31 04:11:20* · [`dailyftlk`](https://www.ft.lk/news/Commonwealth-Union-advocates-for-Appé-Lanka-s-grassroots-efforts-in-Sri-Lanka/56-768641) · `en`
+
+Appé Lanka Founder Shaan Corea (left) with Commonwealth Union President and Presidential Envoy of Sri Lanka (2022-2024) Nirj Deva
+
+Commonwealth Union Ltd., has announced its partnership with the Appé Lanka Foundation, a rural development initiative focused on transforming the Poonakary region in Northern Sri Lanka.
+
+For the past eight years, Appé Lanka has made significant strides in improving local livelihoods and infrastructure, driven by a commitment to sustainability, empowerment, and unity. This partnership is a testament to Commonwealth Union’s dedication to Corporate Social Responsibility (CSR), supporting social impact without any financial gain. The goal is simple — to make a lasting, positive difference in these communities.
+
+...
+
+[Data](articles/4a996e84.json)
+
+[Extended Data](ext_articles/4a996e84.ext.json)
+
+---
+
+### US Embassy and Save the Children expand school nutrition program to urban Colombo schools
+
+*2024-10-31 04:07:19* · [`dailyftlk`](https://www.ft.lk/news/US-Embassy-and-Save-the-Children-expand-school-nutrition-program-to-urban-Colombo-schools/56-768640) · `en`
+
+US Ambassador Julie Chung visited Buwanekaba Primary School in Maharagama, Colombo, yesterday to observe the implementation of the US Department of Agriculture (USDA)-funded McGovern-Dole International Food for Education and Child Nutrition Program as it expands into Colombo-area schools this month. During her visit, Ambassador Chung met with students, teachers, parents, and school meal providers who shared how this program is positively impacting children’s health and academic success.
+
+...
+
+[Data](articles/220439f6.json)
+
+[Extended Data](ext_articles/220439f6.ext.json)
+
+---
+
+### SL Deputy High Commissioner meets Consul General of Japan in Chennai, Japan Chamber of Commerce and Industry Chennai
+
+*2024-10-31 04:04:50* · [`dailyftlk`](https://www.ft.lk/news/SL-Deputy-High-Commissioner-meets-Consul-General-of-Japan-in-Chennai-Japan-Chamber-of-Commerce-and-Industry-Chennai/56-768639) · `en`
+
+Deputy High Commissioner of Sri Lanka in Chennai Dr. D. Venkateshwaran met with Consul General of Japan in Chennai, Takahashi Muneo, and members of the Japan Chamber of Commerce and Industry Chennai (JCCIC), on 18 October.
+
+Japan External Trade Organisation Director General Kaoru Shiraishi, MUFG Bank Ltd. Managing Director and Head of Colombo Representative Office Michiyasu Saito, Toyota Tsusho India Ltd.  Branch Manager Masayuki Tomonari, and Mitsui & Co. India Ltd. Chief Regional Officer Akira Ito also attended the meeting. The Deputy High Commissioner was accompanied by Minister (Commerce) of the Deputy High Commission of Sri Lanka in Chennai.
+
+Discussions were centred on the business visit of a 30-member delegation to Sri Lanka from 23 to 25 October. Furthermore, details related to business meetings between the Chamber and government agencies, regulatory organisations, leading businessmen and business entities etc. were also shared.
+
+...
+
+[Data](articles/62d827d5.json)
+
+[Extended Data](ext_articles/62d827d5.ext.json)
+
+---
 
 ### CaFFE and The Carter Centre enlighten aspirant female MPs on how to stay safe online
 
@@ -213,6 +263,18 @@ The president of the association said that the decision was taken on the occasio
 [Data](articles/514ce414.json)
 
 [Extended Data](ext_articles/514ce414.ext.json)
+
+---
+
+### Strategic Priorities & Prudent Way Forward Measures
+
+*2024-10-30 22:38:23* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/strategic-priorities-prudent-way-forward-measures/) · `en`
+
+...
+
+[Data](articles/3f0edfdf.json)
+
+[Extended Data](ext_articles/3f0edfdf.ext.json)
 
 ---
 
@@ -2271,97 +2333,5 @@ In an outright purchase by the central bank of a new issue of Treasury bills, th
 [Data](articles/f21eb5ac.json)
 
 [Extended Data](ext_articles/f21eb5ac.ext.json)
-
----
-
-### Former Minister Johnston Fernando produced before court
-
-*2024-10-30 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103028/former-minister-johnston-fernando-produced-before-court) · `en`
-
-Former Minister Johnston Fernando, who was remanded over the incident of a luxury vehicle allegedly belonging to him found parked at a star-class hotel premises, has been brought to the Fort Magistrate’s Court for the trial this morning (30).
-
-He was arrested by the Criminal Investigation Department (CID) over the possession of an illegally assembled luxury vehicle and produced before the Colombo Fort Magistrate’s Court where he was ordered to be remanded until today.
-
-The Former MP was arrested after he had arrived at the CID to provide a statement regarding the unregistered BMW car, allegedly belonging to him, which was recently found suspiciously parked at a star-class hotel in Colombo.
-
-◼️
-
-[Data](articles/7cb9803e.json)
-
-[Extended Data](ext_articles/7cb9803e.ext.json)
-
----
-
-### 2024 A/L exam to be held as scheduled
-
-*2024-10-30 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103027/2024-al-exam-to-be-held-as-scheduled-) · `en`
-
-The Commissioner General of Examinations Amith Jayasundara urges students appearing for the 2024 Advanced Level examination to download the official schedule exclusively from the Examination Department’s website.
-
-Speaking at a special press conference held today (30), Jayasundara confirmed that all preparations are complete to conduct the A/L examination from November 25 to December 20, 2024, as scheduled, with no postponement.
-
-Jayasundara noted that the examination dates were determined in March of this year. However, he raised concerns about misinformation circulating on social media, which has created uncertainty among students regarding the exam schedule.
-
-The Exams Commissioner General emphasized that the students should rely solely on announcements from the Examination Department, advising candidates not to be misled by social media advertisements or other unofficial sources.
-
-...
-
-[Data](articles/674c9af1.json)
-
-[Extended Data](ext_articles/674c9af1.ext.json)
-
----
-
-### Four arrested in Hatton in Iceudan
-
-*2024-10-30 11:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஐஸூடன்-ஹட்டனில்-நால்வர்-கைது/76-346307) · `ta`
-
-Four arrests made in Hatton during Diwali celebrations. Police seized drugs including ice, cannabis, and pills. Suspect individuals aged 22-28 to appear in court.
-
-🟩
-
-Four youths have been arrested for Hatton to celebrate Diwali festival. Hatton police said they had arrested them after the seizure of drugs, including ice.
-
-Four people from Hatton, Dikoya and Sanchimalai have been arrested.
-
-They have come to their hometown for Diwali. Their behavior is suspicious, the police have raided them.
-
-Ice, cannabis and drug pills have been recovered from them, police said.
-
-Hatton police said the youth between the ages of 22 and 28 will be produced in court after the hearing.
-
-◼️
-
-[Data](articles/33a31608.json)
-
-[Extended Data](ext_articles/33a31608.ext.json)
-
----
-
-### The law flows if there is pork
-
-*2024-10-30 11:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பன்றி-இறைச்சி-இருந்தால்-சட்டம்-பாயும்/175-346306) · `ta`
-
-Sri Lanka bans pork due to African swine flu outbreak. Strict measures implemented to control disease spread. Pork sellers may face legal consequences.
-
-🟩
-
-Considering the rapid spread of African swine flu (ASF) among the pigs, it has been temporarily banned from chopping pigs in Sri Lanka, selling or distributing pork and pork products.
-
-This is mentioned in the gazette notification published in the declaration of all the Divisional Secretariat Divisions of the country as "infection" or "suspicious" areas.
-
-According to the new regulations, carrying pigs or pork products into the affected areas, cutting pigs, artificial breeding of pigs, selling or distributing or distributing or distributing of pork and pork products in water or routes.
-
-The announcement was made by Mrs. KACH Abeyratne Kotalawala, Director General of Livestock Production and Health, under the Act of Animal Diseases.
-
-The order that came into effect after being released emphasizes strict measures to control the spread of ASF and Porcin reproductive and respiratory syndrome (PRRS).
-
-Both diseases are seriously infected and can cause severe losses in the pig breeding industry.
-
-...
-
-[Data](articles/d6c23a0d.json)
-
-[Extended Data](ext_articles/d6c23a0d.ext.json)
 
 ---

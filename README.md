@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 02:24:12**
+As of **2024-10-31 02:39:48**
 
 ## Newspaper Stats
 
-*Scraped **52,277** Articles*
+*Scraped **52,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,202
-tamilmirrorlk | 7,247
+tamilmirrorlk | 7,248
 virakesarilk | 8,442
 adaderanasinhalalk | 9,104
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,277 (100.0%) of 52,277 articles have been extended.
+52,278 (100.0%) of 52,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### வடமராட்சியில் இரட்டைக் கொலை: இருவர் கைது
+
+*2024-10-31 01:24:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடமராட்சியில்-இரட்டைக்-கொலை-இருவர்-கைது/175-346342) · `ta`
+
+Twin murders in Vadamaraichi: Two arrested
+
+🟩
+
+Husband and wife have been recovered yesterday after the murder of the Kalvovalam - St.
+
+Both of them have been brutally assassinated with concrete stones.
+
+The bodies have been recovered by the gem Subramaniam (age 54) and his wife Subramaniam Mary Rita (53 years old) at the Point Pedro Base Hospital.
+
+அவர்களின் வீட்டுக்கு நேற்று காலை அயலவர்கள் சென்று பார்த்தபோது இருவரும் உயிரிழந்த நிலையில் காணப்பட்டுள்ளனர். Point Pedro Police are investigating the incident.
+
+காங்கேசன்துறை பிரவுக்குட்பட்ட பொலிஸ் ஊளவுத்துறையினருக்கு கிடைத்த தகவலின் அடிப்படையில் கொலையாளிகள் மூவரில் இருவரைக் கைது செய்துள்ளனர். ஒருவர் தலைமறைவாகியுள்ளார்.
+
+◼️
+
+[Data](articles/379fc74f.json)
+
+[Extended Data](ext_articles/379fc74f.ext.json)
+
+---
 
 ### The main news on the holidays for Tamil schools
 
@@ -2377,35 +2403,5 @@ Accordingly, the Ticketing Tickets of the GCE A / L examination are to be handed
 [Data](articles/f3fc2031.json)
 
 [Extended Data](ext_articles/f3fc2031.ext.json)
-
----
-
-### Did the Central Bank molded the new money?
-
-*2024-10-30 10:42:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce3yn0pzgr9o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Central Bank issues new money, not printing physical currency. Accused of "money molding," but denies printing money overnight. Uses open market operations to manage liquidity and interest rates. Limited by law and IMF agreements. Creates coins and notes through appointed manufacturers. Borrows money through Treasury bills and bonds to cover expenses and debt interest.
-
-🟩
-
-Money Molding is truly a controversial title of the politics of Sri Lanka. It is a common phenomenon to accused the government in the opposition in the opposition in this regard. Cabinet posts, Minister Vijitha Herath, who was released to the signature of President Anura Kumara Dissanayake, had been challenged as the Minister of Finance if the present government has been cashed.
-
-According to the Minister, money molding is a process of printing money overnight?
-
-The Central Bank of Sri Lanka has the power to issue money. The Central Bank of Sri Lanka is to provide plenty of money to the system.
-
-Money molding means Issuing money to the capital bench economy. Money Molding is not a printing of currency notes with the help of a machine.
-
-The printing of money is determined by the Central Bank's applied currency. The Central Bank will add the amount of money circulated in the country and add the amount of money required to deal with the country.
-
-...
-
-[Data](articles/bfa4fe7d.json)
-
-[Extended Data](ext_articles/bfa4fe7d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 03:24:16**
+As of **2024-10-31 03:39:43**
 
 ## Newspaper Stats
 
-*Scraped **52,280** Articles*
+*Scraped **52,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 530
 bbccomsinhala | 534
 islandlk | 3,106
 economynextcom | 3,180
-dailyftlk | 3,563
+dailyftlk | 3,564
 dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,202
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,280 (100.0%) of 52,280 articles have been extended.
+52,281 (100.0%) of 52,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### ‘‘Sri Lanka’s ISB restructure: Debt trap backed by IMF and Ceylon Chamber of Commerce’’
+
+*2024-10-31 03:04:57* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-ISB-restructure-Debt-trap-backed-by-IMF-and-Ceylon-Chamber-of-Commerce/4-768633) · `en`
+
+Sri Lanka’s debt crisis is a stark example of the destructive power of predatory lending
+
+The current NPP administration has agreed to implement a new variant of the same corrupt deal which merely reduces the weighted coupon rate of interest of bonds from 8.1% to 6.5% from 2028 onwards reducing total payments by $ 1 billion. The new Government must reject this destructive path and prioritise people’s interests. It is evident that the Sri Lankan Government’s actions have been influenced by corrupt interests. The cosy relationship between the Government and international creditors raises serious questions about transparency and accountability. The new administration must break free from this destructive path and prioritise the well-being of the Sri Lankan people
+
+...
+
+[Data](articles/e8b07ab9.json)
+
+[Extended Data](ext_articles/e8b07ab9.ext.json)
+
+---
 
 ### Irrational behaviour of RW and MR vs. rational behaviour of President AKD
 
@@ -2357,31 +2373,5 @@ A police officer said that the dog, who was injured in the shooting, was found d
 [Data](articles/b2cd69a2.json)
 
 [Extended Data](ext_articles/b2cd69a2.ext.json)
-
----
-
-### Nishad Yusuf death of movie editor
-
-*2024-10-30 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/197476) · `ta`
-
-Malayalam filmmaker Nishad Yusuf dies suddenly at 43. Shocked industry mourns loss. Edited films like Gangua and Surya 45. Kerala government won award for Tuzumala under his editing.
-
-🟩
-
-The filmmakers are shocked by the sudden death of Nishad Yusuf.
-
-Nishad Yusuf has worked as an editor for various films including Malayalam. Mohanlal and Mammootty are currently working as an editor for films. It is noteworthy that the Kerala Government has won the Best Editor Award for the film 'Tuzumala' in 2022.
-
-Surya starring in Tamil. He passed away at an apartment in Panampili, Kochi today (30) at 2 am. The details, including how the death occurred. He is 43 years old.
-
-The sudden death of Nishad Yusuf has caused great shock among Malayalam filmmakers. If he has worked as an editor, it is Gangua. The film will be released on November 14. Prior to that, Nishad Yusuf had died.
-
-It is noteworthy that Nishant Yusuf was the editor of the Surya 45 movie which will be directed by RJ Balaji after the Gangua film.
-
-◼️
-
-[Data](articles/5fb9d11f.json)
-
-[Extended Data](ext_articles/5fb9d11f.ext.json)
 
 ---

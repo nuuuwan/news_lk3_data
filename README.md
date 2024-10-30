@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 19:13:04**
+As of **2024-10-30 19:24:12**
 
 ## Newspaper Stats
 
-*Scraped **52,245** Articles*
+*Scraped **52,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,106
 economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
-adalk | 4,858
+adalk | 4,859
 adaderanalk | 6,199
 tamilmirrorlk | 7,245
 virakesarilk | 8,433
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,097
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,245 (100.0%) of 52,245 articles have been extended.
+52,245 (100.0%) of 52,246 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -269,6 +269,22 @@ The accused filed the Attorney General's Department states that he has issued a 
 [Data](articles/99627ac6.json)
 
 [Extended Data](ext_articles/99627ac6.ext.json)
+
+---
+
+### දුම්රිය ස්ථානාධිපතිවරුන් වර්ජනයක - දුම්රිය ගාස්තුවකින් තොරව ගමන් කළ හැකියි ?
+
+*2024-10-30 16:47:48* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ස්ථානාධිපතිවරුන්-වර්ජනයක---දුම්රිය-ගාස්තුවකින්-තොරව-ගමන්-කළ-හැකියි--/11-412761) · `si`
+
+දුම්රිය ස්ථානාධිපතිවරුන් අද (30දා) ප.ව.4.30 සිට වර්ජනයක් ආරම්භ කර තිබේ.
+
+දුම්රිය ස්ථානාධිපතීන්ගේ බදවාගැනීමේ සහ උසස්වීම් ගැටලුවට විසඳුම් දීමට බලධාරීන් අසමත්වීම හේතුවෙන් මෙම ක්‍රියාමාර්ගය ගෙන ඇත.
+
+ඒ අනුව ප්‍රවේශ පත්‍ර නිකුත් කිරීම ඇතුළු අනෙකුත් රාජකාරී කටයුතු වලින් ඉවත්ව ඇති අතර, ඒ අනුව ප්‍රවේශපත්‍ර ලබා ගැනීමකින් තොරව දුම්රියේ ගමන් කළ හැකි බව සඳහන්.
+
+◼️
+
+[Data](articles/60a2a043.json)
 
 ---
 
@@ -1034,13 +1050,13 @@ They underscored the need for holding Foreign Office Consultations between Bangl
 
 Former Minister Johnston Fernando, who was arrested and remanded over the unregistered luxury vehicle allegedly belonging to him found parked in a star-class hotel premises, has been granted bail.
 
-He was ordered to be released on 5 surety bails of Rs. 5 million each by the Colombo Fort Magistrate’s Court, Ada Derana reporter said.
+He was ordered to be released on 5 surety bails of Rs. 5 million each by the Colombo Fort Magistrate’s Court under strict conditions, Ada Derana reporter said.
+
+Furthermore, Fort Magistrate Thanuja Lakmali ordered the accused to refrain from interfering or influencing the investigations into the case, while the travel ban imposed on the former Minister was further extended.
 
 Former Minister Johnston Fernando, was arrested by the CID on October 23 over an incident of an unregistered luxury vehicle allegedly belonging to him found suspiciously parked at a star-class hotel premises, and he was remanded until October 30 by Colombo Fort Magistrate.
 
 The Former MP was arrested after he had arrived at the CID to provide a statement regarding the unregistered BMW car, allegedly belonging to him.
-
-Meanwhile, two suspects had surrendered to the CID in connection with the incident yesterday (29), where they were subsequently arrested and produced before the court.
 
 ...
 
@@ -2415,29 +2431,5 @@ The number 2-2-5 is a peculiar number. It adds up to 9 which is believed to be b
 [Data](articles/db59ec39.json)
 
 [Extended Data](ext_articles/db59ec39.ext.json)
-
----
-
-### International marketing: Is Sri Lanka aggressive enough?
-
-*2024-10-30 06:00:14* · [`dailyftlk`](https://www.ft.lk/columns/International-marketing-Is-Sri-Lanka-aggressive-enough/4-768583) · `en`
-
-Spa Ceylon: Blending ancient ayurveda with modern luxury, captivating global markets
-
-Showcasing Sri Lanka’s iconic destinations: A testament to the nation’s potential as a premier tourist hub, ready to captivate the world
-
-In brief, international marketing is the process of planning and conducting transactions across national borders to create exchanges that satisfy the objectives of individuals and organisations.
-
-It comes in forms of export/import trade to licensing, joint ventures, wholly owned subsidiaries, turnkey operations, and management contracts.
-
-With the prevailing economic crisis in Sri Lanka and depreciation of the rupee, the only way to address this issue is to increase exports. Sri Lanka exports amounted to Rs. 4,234,913 in 2022 according to Central Bank of Sri Lanka statistics.
-
-Are we doing it right? Is this our potential? Is international marketing done in a proper way when it comes to branding Sri Lanka and its products and services to the world?
-
-...
-
-[Data](articles/5281e16c.json)
-
-[Extended Data](ext_articles/5281e16c.ext.json)
 
 ---

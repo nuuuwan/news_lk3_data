@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 12:39:46**
+As of **2024-10-30 12:58:16**
 
 ## Newspaper Stats
 
-*Scraped **52,192** Articles*
+*Scraped **52,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,854
-adaderanalk | 6,184
+adaderanalk | 6,186
 tamilmirrorlk | 7,237
 virakesarilk | 8,424
 adaderanasinhalalk | 9,083
@@ -26,11 +26,53 @@ adaderanasinhalalk | 9,083
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,189 (100.0%) of 52,192 articles have been extended.
+52,194 (100.0%) of 52,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Bangladesh and Sri Lanka to expedite negotiation on PTA
+
+*2024-10-30 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103032/bangladesh-and-sri-lanka-to-expedite-negotiation-on-pta) · `en`
+
+Dhaka and Colombo have stressed accelerating negotiations over signing the Preferential Trade Agreement (PTA) at the earliest to unlock the untapped potential of bilateral trade between Bangladesh and Sri Lanka.
+
+The intention was observed when Sri Lankan High Commissioner to Bangladesh Dharmapala Weerakkody met Foreign Secretary Md. Jashim Uddin at the foreign ministry in Dhaka on Tuesday.
+
+During the meeting, the foreign secretary outlined the reform initiatives and priorities of the interim government aimed at ensuring free, fair and participatory elections.
+
+While taking stock of the pending agreements and Memorandum of Understandings (MoUs) between the two countries, both sides stressed the importance of finalising agreements on coastal shipping, avoidance of double taxation, and mutual administrative assistance in customs matters.
+
+They underscored the need for holding Foreign Office Consultations between Bangladesh and Sri Lanka to discuss the entire gamut of bilateral relations.
+
+...
+
+[Data](articles/f8980233.json)
+
+[Extended Data](ext_articles/f8980233.ext.json)
+
+---
+
+### Johnston Fernando released on bail
+
+*2024-10-30 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103031/johnston-fernando-released-on-bail) · `en`
+
+Former Minister Johnston Fernando, who was arrested and remanded over the unregistered luxury vehicle allegedly belonging to him found parked in a star-class hotel premises, has been granted bail.
+
+He was ordered to be released on 5 surety bails of Rs. 5 million each by the Colombo Fort Magistrate’s Court, Ada Derana reporter said.
+
+Former Minister Johnston Fernando, was arrested by the CID on October 23 over an incident of an unregistered luxury vehicle allegedly belonging to him found suspiciously parked at a star-class hotel premises, and he was remanded until October 30 by Colombo Fort Magistrate.
+
+The Former MP was arrested after he had arrived at the CID to provide a statement regarding the unregistered BMW car, allegedly belonging to him.
+
+◼️
+
+[Data](articles/054deae9.json)
+
+[Extended Data](ext_articles/054deae9.ext.json)
+
+---
 
 ### Petition against Ranjan's nomination
 
@@ -407,6 +449,10 @@ A police officer said that the dog, who was injured in the shooting, was found d
 ### Special notice to A / L students
 
 *2024-10-30 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202722) · `si`
+
+A/L exam 2024: Dec 20th start, 333,385 candidates, 64 subjects, 2,317 centers. Official announcements only, no social media misinformation.
+
+🟩
 
 The Commissioner General of Examinations Amit Jayasundara has informed the A / L Commissioner General of Examinations, to download the Year 1224 A / L examination.
 
@@ -874,43 +920,63 @@ Sri Lanka: Tamil schools in central and Uva provinces closed Nov 1 due to Diwali
 
 ---
 
-### තැපැල් ඡන්දය අදින් ඇරඹේ
+### Postal voting begins today
 
 *2024-10-30 08:39:57* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-ඡන්දය-අදින්-ඇරඹේ/11-412755) · `si`
 
-පාර්ලිමේන්තු මැතිවරණයට අදාළව තැපැල් ඡන්දය සලකුණු කිරීමේ කටයුතු අද (30දා) සිට ආරම්භ වේ.
+Postal voting starts today for parliamentary election. Eligible voters can cast ballots at district election offices from April 4th. Postal voting not available on April 7th-8th. Five valid IDs accepted: National Identity Card, Driving License, Election Commission confirmation letter. Unregistered officials must use voter ID from previous election.
 
-මෙවර මැතිවරණය සඳහා තැපැල් ඡන්දදායකයන් හත් ලක්ෂ තිස් අටදහස්  පනහක් (738,050) සුදුසුකම් ලබා තිබේ.
+🟩
 
-මේ අනුව අද හා ලබන මස 04වැනි දින දිස්ත්‍රික් ලේකම් කාර්යාල, මැතිවරණ කාර්යාල හා පොලීසිය යන ආයතනවල තැපැල් ඡන්ද හිමියන්ගේ ඡන්දය භාවිත කිරීමේ සිදු වේ.
+Postal voting activities in relation to the parliamentary election begins today (30).
 
-ලබන මස 01වැනි දින හා 04 වැනි දින අනෙකුත් රාජ්‍ය ආයතනවල හා හමුදා කඳවුරුවල තැපැල් ඡන්දය භාවිත කිරීමේ කටයුතු සිදු කිරීමට නියමිතය.
+The postal voters of postal voters have qualified for this year's election.
 
-මෙම දිනවල තැපැල් ඡන්දය භාවිත කිරීමට නොහැකි වන තැපැල් ඡන්ද හිමියන්ට ලබන මස 7 හා 8 යන දෙදින තුළ අවස්ථාව ලබා දී තිබේ. මේ අනුව මෙම දින 02 තුළදී තමන්ගේ සේවා ස්ථානය පිහිටි දිස්ත්‍රික්කයේ දිස්ත්‍රික් මැතිවරණ කාර්යාලවලදී තැපැල් ඡන්දය සලකුණු කළ හැකිය.
+Accordingly, the voter turnout of the postal voting of the officers of the District Secretariats, Elections and Police on the 4th of next month.
 
-තැපැල් ඡන්දය සලකුණු කිරීමේදී අනන්‍යතාවය තහවුරු කිරීම සඳහා වලංගු අනන්‍යතා පත්‍ර පහක් මැතිවරණ කොමිසම විසින් ප්‍රකාශයට පත් කර තිබේ.
+Postal voting in other government agencies and military camps will be held on the 01st of next month.
+
+Postal elections are not available on the 7th and 8th of next month. Accordingly, the postal vote can be marked at district election offices in the district of the district.
+
+The Elections Commission has published five valid identity papers to ensure the identity of the postal voting.
+
+The information letter issued by the Department of Registration of Persons to Registration of Persons in the National Identity Card, the National Identity Card, Valid Driving License and the Election Commission (PC) can be used by the Confirmation Letter issued by the Department of Registration of Persons.
 
 ...
 
 [Data](articles/e93eca3e.json)
 
+[Extended Data](ext_articles/e93eca3e.ext.json)
+
 ---
 
-### 2024දී දුම්රිය  පීලිපැනීම් 86ක් - පීලි පැනීම් 59ක් දුම්රිය මාර්ගයේ, 27ක් දුම්රිය අංගණවලදී
+### In 2024, 86 train derailment - 59 tracks, 27 train railway route, 27 train yards
 
 *2024-10-30 08:35:35* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-දුම්රිය--පීලිපැනීම්-86ක්---පීලි-පැනීම්-59ක්-දුම්රිය-මාර්ගයේ--27ක්-දුම්රිය-අංගණවලදී/11-412754) · `si`
 
-මේ වසරේ ජනවාරි 01වන දින සිට ඊයේ (29දා) දිනය දක්වා කාලයේදී දුම්රිය පීලිපැනීම් 86ක් සිදුව ඇතිබව වාර්තාවෙයි. ඉන් පීලි පැනීමේ සිදුවීම් 59ක් දුම්රිය මාර්ගවල සිදුව ඇති අතර පීලි පැනීම් 27ක් සිදුව ඇත්තේ දුම්රිය අංගණවලදීය.
+Here's a summary of the text in approximately 200 characters:
 
-මේ අනුව 2020 වසරේ සිට ඊයේ දිනය දක්වා කාලය තුළදී දුම්රිය පීලිපැනීම් 570ක් සිදුව තිබෙන බවත්, මේ වසරේ ගෙවීගිය කාලය තුළදී සමස්ත පීලිපැනීම් සිද්ධීන් 86ක්ද, පසුගිය වසරේදී පීලිපැනීම් 139ක්ද, 2022 වසරේදී පීලිපැනීම් 132ක්ද, 2021 වසරේදී පීලිපැනීම් 115ක් හා 2020 වසරේදී පීලිපැනීම් 98ක්ද සිදුව තිබේ.
 
-පෙරේදා (28දා) පමණක් දුම්රිය පීලිපැනිම් දෙකක් සිදුව තිබෙන අතර, දුම්රිය පීලිපැනීම් නිසා දුම්රිය ගමනාගමනයට බාධා සිදුවීම හා දුම්රිය මාර්ගවලට හානි සිදුවීම සිදුවන බවද පෙන්වා දෙයි.
 
-දුම්රිය මාර්ග නිසිලෙස නඩත්තු නොකිරීම, දුම්රිය මාර්ගවලට දරාගත නොහැකි ආකාරයේ බරක් සහිත දුම්රිය එංජින් ධාවනය කිරීම හා දුම්රිය කර්මික දෝෂවලට ලක්වීම නිසා පීලිපැනීම් සිදුවන බවද දුම්රිය සේවකයයෝ සඳහන් කරති.
+86 train derailments in 2024: 59 tracks affected, 27 in railway yards. Compared to 570 in 2020. Railway employees blame poor maintenance, defects causing issues. Train cancellations and delays reported.
+
+🟩
+
+There are 86 train derails from 1st this year to yesterday (29). In the railway vessels, 59 tracks have taken place on railway vessels and 27 tracks had taken place in the railway yards.
+
+According to the year 2020, there were 570 train derails last year and 82 dealers in 202 years and 98 dealers in 2021 and 98 deals in 2020.
+
+Only two trains have been involved in two train traffic and the railway traffic will be caused by rail traffic on Monday (28th).
+
+Railway employees say that the railway routes is not properly maintained, and the train errors are being carried out due to the railway vegens and the train fabrication is caused by railway defect.
+
+It also pointed out that the train travel is a cancellation of the train in the railway route and that when such an incident occurred on a single road, the train is hampered and interfered with the train periods.
 
 ...
 
 [Data](articles/d7f4ec8a.json)
+
+[Extended Data](ext_articles/d7f4ec8a.ext.json)
 
 ---
 
@@ -955,6 +1021,8 @@ In the earlier program the December data had been set (some of which were to be 
 ...
 
 [Data](articles/a06c9396.json)
+
+[Extended Data](ext_articles/a06c9396.ext.json)
 
 ---
 
@@ -2295,77 +2363,5 @@ A 43 -year -old man from the same area has been arrested, police said.
 [Data](articles/143e9dd0.json)
 
 [Extended Data](ext_articles/143e9dd0.ext.json)
-
----
-
-### More information about the murder of Kempathite Walawwa
-
-*2024-10-29 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202705) · `si`
-
-Kempathite Walawwa murder: Krishant Palashi owner found dead, wife missing. Kegalle Police investigating. Victim retired teacher, former Kegalle Pradeshiya Sabha member. Son lives in Australia, daughter deceased. Cause unknown.
-
-🟩
-
-The owner of Krishant Palashi Walawwa, Kegalle, Krishantuli Marapana, was found in the sleeper in his belly.
-
-It is said that his feet and both were collided and was wrapped in Clotepa.
-
-His body was found by the son of the man who works at home.
-
-The man had found the wife of the murdered man and the core.
-
-The investigator has been admitted to the police after notice this.
-
-The cupboards in the relevant rooms were open to all the items in the rooms.
-
-It is yet to be revealed about how many people came to the murder and what was abducted in the house.
-
-The reason is that the eldest breastfall of the person who was sick was sick.
-
-The house was also abducted and later took over 4 km away from the house.
-
-The victim is a retired teacher and is a former member of the Kegalle Pradeshiya Sabha.
-
-He has served as a social worker, he has not obtained the salary of the MP.
-
-His son, a father of two, lives in Australia and the daughter died before.
-
-...
-
-[Data](articles/b2ecaa93.json)
-
-[Extended Data](ext_articles/b2ecaa93.ext.json)
-
----
-
-### Steps to accelerate digitalization of economics -President
-
-*2024-10-29 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197454) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake plans to digitize the entire economy within 3 years. He met with business leaders to discuss sectors like insurance, banking, and tourism. The goal is to strengthen the economy and reduce electricity costs.
-
-🟩
-
-President Anura Kumara Dissanayake has said that in the next three years, the economy will take steps to digitize the entire country by accelerating digitalization.
-
-The President pointed out that the government has already initiated the intervention of digitalization for digitalization through digitalization.
-
-President Anura Kumara Dissanayake pointed out this at a meeting held at the Presidential Office on Tuesday (29) with the representatives of the Business Council.
-
-Representatives of the Business Board have agreed to assist the economic progress without getting any allowance and salary.
-
-The issues and future goals of many sectors, including insurance, banking, construction, tourism, plantation industry, small and central quality business, were discussed at this time.
-
-President Anura Kumara Dissanayake said that steps will be taken to strengthen the country's economy and make concessions to the people.
-
-...
-
-[Data](articles/9008ca2e.json)
-
-[Extended Data](ext_articles/9008ca2e.ext.json)
 
 ---

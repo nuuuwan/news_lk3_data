@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 21:39:57**
+As of **2024-10-30 21:59:50**
 
 ## Newspaper Stats
 
-*Scraped **52,259** Articles*
+*Scraped **52,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,861
-adaderanalk | 6,199
+adaderanalk | 6,200
 tamilmirrorlk | 7,245
-virakesarilk | 8,440
-adaderanasinhalalk | 9,101
+virakesarilk | 8,441
+adaderanasinhalalk | 9,102
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,259 (100.0%) of 52,259 articles have been extended.
+52,260 (100.0%) of 52,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### பிரதமரின் தீபாவளி வாழ்த்துச் செய்தி
+
+*2024-10-30 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/197548) · `ta`
+
+நாளை வியாழக்கிழமை (31) தீபாவளி கொண்டாடும் அனைவருக்கும் மகிழ்ச்சியான, அர்த்தமுள்ள, அமைதியான தீபாவளி வாழ்த்துக்கள் என தனது வாழ்த்துச்செய்தியில் பிரதமர் ஹரிணி அமரசூரிய தெரிவித்துள்ளார்.
+
+இந்த விழாவின் ஒளி நம் இல்லங்களை ஒளிரச் செய்வது மட்டுமல்லாமல், நீதி, கருணை மற்றும் ஒற்றுமை ஆகியவற்றின் ஆழமான உணர்வை நம் இதயங்களில்  ஒளிர வைக்கட்டும். இருளின் மீது ஒளியின் வெற்றியைக் கொண்டாடும் நாம், கட்டமைப்பு ரீதியான  பாரபட்சங்கள் மற்றும் விளிம்பு நிலைக்குள்ளாக்கப்படல் என்பவற்றுக்கு எதிராகப் போராடுபவர்களின் தொடர்ச்சியான போராட்டங்களை நினைவுபடுத்திக் கொள்வோம்.
+
+அனைவரும் சுதந்திரம், கண்ணியம் மற்றும் உரித்தை அனுபவிக்கக் கூடிய ஒரு உலகைக் கட்டியெழுப்ப நாம் மறு பரிசீலனை செய்ய வேண்டிய நேரம் இது.
+
+'வளமான தேசம் - அழகான வாழ்க்கை'  என்ற  எமது அரசியல் கொள்கையின் மூலம் எங்கள் கூட்டு இலக்கானது அனைவரின் வாழ்க்கைத் தரத்தை உயர்த்துவதும், அனைவரையும் உள்ளடக்குவதை உறுதி செய்வதும் ஆகும்.
+
+◼️
+
+[Data](articles/24355e50.json)
+
+---
+
+### Five arrested trying to sell Ambergris for Rs. 50 million in Elpitiya
+
+*2024-10-30 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103047/five-arrested-trying-to-sell-ambergris-for-rs-50-million-in-elpitiya) · `en`
+
+A group of suspects has been arrested in Elpitiya for allegedly attempting to sell a large stock of ‘Ambergris’, estimated to be worth around Rs. 50 million, police said.
+
+The arrests were made during a raid conducted following a tip-off received by the Walana Central Anti-Vice Unit.
+
+Police apprehended two main suspects involved in the racket along with three accomplices, and seized 17 kg and 234 grams of ambergris found in their possession.
+
+The suspects have been handed over to the Pitigala Police Station for further investigations.
+
+Ambergris, also called grey amber or whale vomit, is created by the bile duct of the sperm whale and is often referred to as “floating gold” due to the immense price it fetches in the international market for its use in luxury perfumes.
+
+However, it is reported that certain individuals are also engaged in the racket of slaughtering whales in the deep seas around Sri Lanka with the aim of obtaining Ambergris to sell it for high prices.
+
+◼️
+
+[Data](articles/3d68987e.json)
+
+---
+
+### An order on misplaced the vehicle registration books
+
+*2024-10-30 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202746) · `si`
+
+Vehicle registration book theft: 8 employees' phone records checked; magistrate orders telcos to provide data to police.
+
+🟩
+
+Steps have been taken to check the telephone records of eight employees in respect of misplacement of 12 vehicle registration books.
+
+There were 12 automobile registration books in the Motor Trade Trade Assignment Unit of the Motor Trading Authorization Division of the Vehicle Registration Department of Narahenpita.
+
+Colombo Additional Magistrate Harrasada Kekunawala ordered the telephone companies to enter the Borella police over the incident.
+
+The court had issued the court to be provided with a request made by the Borella Police to obtain these reports to their police station.
+
+There are 12 secured books of the Assistant Commissioner of the Assistant Commissioner of the Motor Trading Authority of Trade Transfer.
+
+It is also reported that unused new books have not been used.
+
+◼️
+
+[Data](articles/1c8e8310.json)
+
+[Extended Data](ext_articles/1c8e8310.ext.json)
+
+---
 
 ### The largest tax increase in Britain
 
@@ -2349,67 +2417,5 @@ The arrested persons were 18, 23, 26, 39 and 43 years old, police said.
 [Data](articles/2e54f59a.json)
 
 [Extended Data](ext_articles/2e54f59a.ext.json)
-
----
-
-### Postal voting is beginning today
-
-*2024-10-30 09:08:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூல-வாக்குப்பதிவு-இன்று-ஆரம்பம்/175-346300) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Postal voting begins today. The Elections Commission instructs police stations, secretariat offices, and commission offices to identify postal votes. Additional offices allowed to vote by post on November 4.
-
-🟩
-
-The process of identifying the postal votes for the general election will begin today (30).
-
-The Elections Commission said that all the police stations, including the District Secretariat Offices, the Elections Commission offices and the Police Inspector's Offices, today have been given the opportunity to identify the postal votes.
-
-In addition to today, the offices on November 4 have been given the opportunity to vote by post.R
-
-◼️
-
-[Data](articles/1885452f.json)
-
-[Extended Data](ext_articles/1885452f.ext.json)
-
----
-
-### Govt Tamil schools in two provinces closed on Friday
-
-*2024-10-30 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103021/govt-tamil-schools-in-two-provinces-closed-on-friday-) · `en`
-
-All government Tamil medium schools in the Central and Uva Provinces will remain closed on November 01 (Friday) following the Deepavali holiday on October 31.
-
-However, these schools will function on November 09 (Saturday) to cover this extra holiday, according to the Zonal Education Directors.
-
-◼️
-
-[Data](articles/25b96438.json)
-
-[Extended Data](ext_articles/25b96438.ext.json)
-
----
-
-### Several spells of showers expected today
-
-*2024-10-30 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103020/several-spells-of-showers-expected-today) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa, North-western and Northern provinces and in Galle and Matara districts.
-
-Meanwhile, showers or thundershowers will occur at several places in the other areas of the island during the evening or night.
-
-Fairly heavy showers about 75 mm are likely at some places in Uva and Eastern provinces, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/21f3694c.json)
-
-[Extended Data](ext_articles/21f3694c.ext.json)
 
 ---

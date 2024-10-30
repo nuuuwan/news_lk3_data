@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 18:49:18**
+As of **2024-10-30 19:01:57**
 
 ## Newspaper Stats
 
-*Scraped **52,244** Articles*
+*Scraped **52,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,172
 dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,858
-adaderanalk | 6,198
+adaderanalk | 6,199
 tamilmirrorlk | 7,245
 virakesarilk | 8,433
 adaderanasinhalalk | 9,097
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,097
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,243 (100.0%) of 52,244 articles have been extended.
+52,243 (100.0%) of 52,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### Sri Lanka to probe ‘corruption’ in handling of X-Press Pearl disaster - report
+
+*2024-10-30 18:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103046/sri-lanka-to-probe-corruption-in-handling-of-x-press-pearl-disaster-report) · `en`
+
+Sri Lanka’s new government, led by President Anura Kumara Dissanayake, will launch a fresh investigation into the handling of the MV X-Press Pearl cargo ship disaster that devastated marine life along swaths of the island nation’s coastline three years ago, a senior minister has told Al Jazeera.
+
+The announcement came amid allegations of corruption, delay tactics and mismanagement in dealing with the aftermath of the disaster, and a lack of compensation for the affected fishermen.
+
+In May 2021, the Singapore-registered cargo ship caught fire near Negombo, a popular tourist destination off the Sri Lankan west coast, spilling tonnes of hazardous substances, including nitric acid and microplastic granules, into the Indian Ocean.
+
+...
+
+[Data](articles/38d72f86.json)
+
+---
 
 ### පානදුර නගරයේ පැරණි දෙමහල් ගොඩනැගිලි 5ක් එකවර කඩාවැටෙයි
 
@@ -2415,23 +2431,5 @@ Are we doing it right? Is this our potential? Is international marketing done in
 [Data](articles/5281e16c.json)
 
 [Extended Data](ext_articles/5281e16c.ext.json)
-
----
-
-### Amendments to tax policy imperative for better prospects
-
-*2024-10-30 05:52:09* · [`dailyftlk`](https://www.ft.lk/columns/Amendments-to-tax-policy-imperative-for-better-prospects/4-768582) · `en`
-
-Tax policy must be reflective of real market conditions for consumers and the public
-
-Sri Lanka’s new Government and executive brings with it a new dimension of thinking to policy and governance. Therein lies significant opportunity, albeit laden with challenges, to change the way Sri Lanka does business and how we are perceived by the world.
-
-In this post-crisis milieu, Government has a difficult balancing act to ensure a positive trade balance, manage its primary account considering IMF expectations, all whilst providing relief to a burdened public in the run up to 2028, when debt payments must resume. Reform should encompass better governance – combat corruption, drive exports and investment, stop wastage and a review of tax and industrial policy to strengthen returns. The Government led by the new President must adopt a fact-based approach towards policy, as opposed to strategy and actions that were often driven by political whims and favouritism.
-
-...
-
-[Data](articles/21671abd.json)
-
-[Extended Data](ext_articles/21671abd.ext.json)
 
 ---

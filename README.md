@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 00:39:40**
+As of **2024-10-31 00:57:42**
 
 ## Newspaper Stats
 
-*Scraped **52,275** Articles*
+*Scraped **52,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,17 +18,35 @@ dailyftlk | 3,561
 dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,202
-tamilmirrorlk | 7,246
-virakesarilk | 8,441
+tamilmirrorlk | 7,247
+virakesarilk | 8,442
 adaderanasinhalalk | 9,104
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,275 (100.0%) of 52,275 articles have been extended.
+52,275 (100.0%) of 52,277 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-31 (Thursday)
+
+### தமிழ் பாடசாலைகளுக்கான விடுமுறை குறித்த முக்கிய செய்தி
+
+*2024-10-31 00:20:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பாடசாலைகளுக்கான-விடுமுறை-குறித்த-முக்கிய-செய்தி/175-346341) · `ta`
+
+தென் மாகாணத்தில் உள்ள அனைத்து தமிழ் பாடசாலைகளுக்கும் முதலாம் திகதி விடுமுறை வழங்குவதற்குத் தீர்மானிக்கப்பட்டுள்ளதாக அம்மாகாண கல்வி செயலாளர் தெரிவித்துள்ளார்.
+
+நாளைய தினம் தீபாவளி பண்டிகை கொண்டாடப்பட உள்ளமையினால், மறுநாள் மாணவர்கள் மற்றும் ஆசிரியர்களுக்கு ஏற்படக்கூடிய அசௌகரியங்களைக் கருத்திற்கொண்டு குறித்த தீர்மானம் எடுக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+
+இதேவேளை, சப்ரகமுவ, மத்திய மற்றும் ஊவா மாகாணங்களில் உள்ள அனைத்து தமிழ் மொழி மூலப் பாடசாலைகளும் விசேட பாடசாலை விடுமுறையாக மூடப்படும் என முன்னர் அறிவிக்கப்பட்டிருந்தது.  R
+
+◼️
+
+[Data](articles/0858b3e7.json)
+
+---
 
 ### 2024-10-30 (Wednesday)
 
@@ -124,6 +142,34 @@ The three elephants were revealed in Udawalawe.
 
 ---
 
+### The Prime Minister's Diwali greeting news
+
+*2024-10-30 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197548) · `ta`
+
+Here's a 200-character summary:
+
+
+
+PM Harini Amarasuriya greets on Diwali, urging celebration of justice, grace, and solidarity. Emphasizes fighting structural discrimination and striving for universal freedom, dignity, and rights.
+
+🟩
+
+Prime Minister Harini Amarasuriya said in his congratulations on Thursday (31) to celebrate Diwali tomorrow.
+
+Not only does the light of this ceremony illuminate our homes, but let us light up the deepest feelings of justice, grace and solidarity in our hearts. We celebrate the success of light on darkness, and remember the continued struggles of those who fight against structural discrimination and marginalization.
+
+It is time for us to review a world that everyone can enjoy freedom, dignity and right.
+
+Our joint goal is to raise the quality of life of all and ensure that all of them are all.
+
+◼️
+
+[Data](articles/24355e50.json)
+
+[Extended Data](ext_articles/24355e50.ext.json)
+
+---
+
 ### Station Masters conclude trade union action
 
 *2024-10-30 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202747) · `si`
@@ -147,34 +193,6 @@ The Executive Union of the Failed Background Survey Union decided to commence a 
 [Data](articles/98f2979b.json)
 
 [Extended Data](ext_articles/98f2979b.ext.json)
-
----
-
-### The Prime Minister's Diwali greeting news
-
-*2024-10-30 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/197548) · `ta`
-
-Here's a 200-character summary:
-
-
-
-PM Harini Amarasuriya greets on Diwali, urging celebration of justice, grace, and solidarity. Emphasizes fighting structural discrimination and striving for universal freedom, dignity, and rights.
-
-🟩
-
-Prime Minister Harini Amarasuriya said in his congratulations on Thursday (31) to celebrate Diwali tomorrow.
-
-Not only does the light of this ceremony illuminate our homes, but let us light up the deepest feelings of justice, grace and solidarity in our hearts. We celebrate the success of light on darkness, and remember the continued struggles of those who fight against structural discrimination and marginalization.
-
-It is time for us to review a world that everyone can enjoy freedom, dignity and right.
-
-Our joint goal is to raise the quality of life of all and ensure that all of them are all.
-
-◼️
-
-[Data](articles/24355e50.json)
-
-[Extended Data](ext_articles/24355e50.ext.json)
 
 ---
 
@@ -729,6 +747,24 @@ Tamil schools in the respective provinces have been granted leave in the respect
 [Data](articles/13a4e671.json)
 
 [Extended Data](ext_articles/13a4e671.ext.json)
+
+---
+
+### இப்ராஹிமை பாதுகாப்பதற்காக ரவி, சானி தலைமையில் விசாரணைகளை முன்னெடுக்க அரசாங்கம் முயற்சிக்கிறது - உதய கம்மன்பில குற்றச்சாட்டு
+
+*2024-10-30 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197502) · `ta`
+
+இப்ராஹிமை பாதுகாப்பதற்காக ரவி, சானி தலைமையில் விசாரணைகளை முன்னெடுக்க அரசாங்கம் முயற்சிக்கிறது என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவர் உதய கம்மன்பில குறிப்பிட்டார்.
+
+புறக்கோட்டை பகுதியில் உள்ள பிவிதுரு ஹெல உறுமய கட்சி காரியாலயத்தில் புதன்கிழமை (30)  நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல்கள் தொடர்பில் விசாரணைகைளை மேற்கொண்ட அல்விஸ் மற்றும் இமாம் குழு அறிக்கைகளை அரசாங்கம் நிராகரித்துள்ளது. இவ்விரு அறிக்கைகளையும் புறக்கணிப்பதற்கு அரசாங்கம் குறிப்பிடும் காரணிகள் அடிப்படையற்றதுடன், சிறுபிள்ளைத்தனமானது.
+
+புலனாய்வு மற்றும் பாதுகாப்பு தரப்பு தொடர்பில் விசாரணைகளை மேற்கொண்ட நீதியரசர் (ஓய்வுநிலை) அல்விஸ் தலைமையிலான குழு சமர்ப்பித்த அறிக்கையை அரசாங்கம் நிராகரித்தது. குழுவின் தலைவர் அல்விஸ் முறையற்ற செயற்பாடுகளினால் நீதிபதி பதவியில் இருந்து நீக்கப்பட்டார். ஆகவே அவர் தலைமையிலான குழு அறிக்கையை ஏற்க முடியாது என்று அரசாங்கத்தின் நிலைப்பாட்டை அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்திருந்தார்.
+
+...
+
+[Data](articles/db5c7aea.json)
 
 ---
 
@@ -2357,49 +2393,5 @@ The printing of money is determined by the Central Bank's applied currency. The 
 [Data](articles/bfa4fe7d.json)
 
 [Extended Data](ext_articles/bfa4fe7d.ext.json)
-
----
-
-### Canada alleges Indian minister Amit Shah behind plot to target Sikh separatists
-
-*2024-10-30 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103026/canada-alleges-indian-minister-amit-shah-behind-plot-to-target-sikh-separatists) · `en`
-
-The Canadian government alleged on Tuesday that Indian Minister of Home Affairs Amit Shah, a close ally of Hindu nationalist Prime Minister Narendra Modi, was behind the plots to target Sikh separatists on Canadian soil.
-
-The Indian government has dismissed Canada’s prior accusations as baseless, denying any involvement.
-
-The Washington Post newspaper first reported that Canadian officials alleged Shah was behind a campaign of violence and intimidation targeting Sikh separatists in Canada.
-
-Canadian Deputy Foreign Affairs Minister David Morrison said to a parliamentary panel on Tuesday that he told the U.S.-based newspaper that Shah was behind the plots.
-
-“The journalist called me and asked if it (Shah) was that person. I confirmed it was that person,” Morrison told the committee, without providing further details or evidence. The High Commission of India in Ottawa and the Indian foreign ministry had no immediate comment.
-
-...
-
-[Data](articles/fdfdb16c.json)
-
-[Extended Data](ext_articles/fdfdb16c.ext.json)
-
----
-
-### 86 train derailments so far this year
-
-*2024-10-30 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103025/86-train-derailments-so-far-this-year) · `en`
-
-There have been 86 train derailments during the time elapsed so far this year (2024).
-
-According to sources within the Department of Railways, 139 derailments have occurred in 2023 and the number of train derailments recorded in 2022 is 132.
-
-The numbers from previous years include 115 derailments in 2021 and 98 in 2020, said the sources.
-
-Meanwhile, the Railway Station Masters’ Association has warned of a potential strike if management continues to neglect to provide proper solutions regarding the ongoing train delays and train cancellations.
-
-President of the association Sumedha Somaratne said that stated that a discussion on these concerns is scheduled to be held today (30) with the Minister.
-
-◼️
-
-[Data](articles/9fa36968.json)
-
-[Extended Data](ext_articles/9fa36968.ext.json)
 
 ---

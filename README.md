@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-30 21:24:11**
+As of **2024-10-30 21:39:57**
 
 ## Newspaper Stats
 
-*Scraped **52,257** Articles*
+*Scraped **52,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,78 @@ dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,199
 tamilmirrorlk | 7,245
-virakesarilk | 8,439
-adaderanasinhalalk | 9,100
+virakesarilk | 8,440
+adaderanasinhalalk | 9,101
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,257 (100.0%) of 52,257 articles have been extended.
+52,259 (100.0%) of 52,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-30 (Wednesday)
+
+### The largest tax increase in Britain
+
+*2024-10-30 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202745) · `si`
+
+Here's a 200-character summary:
+
+
+
+Britain's new finance minister unveiled a record-breaking tax hike in today's budget. The 40 billion pound annual increase is the largest in three decades. Critics accuse the government of targeting public services.
+
+🟩
+
+The new money ministers in Britain presented their first budget today (30).
+
+The specialty is that it has proposed the largest tax increase which was introduced to a British government within 30 years.
+
+Reeves accused the last conservative control by submitting his budget proposals. The public service accused the public service.
+
+Accordingly, taxes will be increased by 40 billion per year.
+
+◼️
+
+[Data](articles/df738a05.json)
+
+[Extended Data](ext_articles/df738a05.ext.json)
+
+---
+
+### Bangladesh lost 4 wickets for 28 runs in the next 53 balls with 10 runs in one ball;South Africa
+
+*2024-10-30 20:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197547) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Bangladesh lost 4 wickets for 28 runs in 53 balls, including 10 runs in one over. South Africa scored 575/6 in their first innings, with Tony de Zorzi (177), Viena Mulder (105), and Senuran Muthusamy (68) contributing centuries.
+
+🟩
+
+A rare incident took place today, the second day of the 2nd Test cricket match at the Zahur Ahmad Chaudhary Stadium between South Africa and Bangladesh.
+
+In the up -up match, Bangladesh got ten runs in one ball. But those runs were not received from the paddle.
+
+In response to South Africa, Bangladesh scored 5 runs before Bangladesh started their batting in the first innings.
+
+When South Africa won the first innings in the upting match, he was warned that Senuran Mutusamy was often running in the middle of the pitch.. Following that, he was fined 5 runs. Those five fine runs were the ones who got the runs before Bangladesh were bowled out.
+
+Bangladesh player Shadman Islam simply left the first ball of Kekiso Rabada out of Bangladesh. Meanwhile, the number board added 5 inam runs.
+
+The next ball beyond the wicketkeeper and crossed the border. With 5 more runs to join Bangladesh, a legal bowling was bowled by 10 runs.
+
+...
+
+[Data](articles/7b452606.json)
+
+[Extended Data](ext_articles/7b452606.ext.json)
+
+---
 
 ### Fraud to the country using the names of two famous liquor companies
 
@@ -2351,61 +2411,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/21f3694c.json)
 
 [Extended Data](ext_articles/21f3694c.ext.json)
-
----
-
-### Several places of two provinces leave on November 1st
-
-*2024-10-30 08:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202717) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka: Tamil schools in central and Uva provinces closed Nov 1 due to Diwali festival. Schools decided to hold events on Nov 9 instead.
-
-🟩
-
-මධ්‍යම සහ ඌව පළාත්වල සියලුම රජයේ දෙමළ පාසල්වලට නොවැම්බර් මස 1 වනදා නිවාඩු ලබාදී තිබේ.
-
-නොවැම්බර් මස 31 වන දිනට යෙදෙන දීපවාලි උත්සවය නිමිත්තෙන් අදාළ පළාත්වල දෙමළ පාසල්වලට නිවාඩු ලබා දී ඇත.
-
-එම නිවාඩුව ආවරණය කිරීම සඳහා අදාළ පාසල් නොවැම්බර් මස 9 වන සෙනසුරාදා දින පැවැත්වීමට තීරණය කළ බව ද කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන් විසින් දැනුම්දී තිබේ.
-
-◼️
-
-[Data](articles/0c66db73.json)
-
-[Extended Data](ext_articles/0c66db73.ext.json)
-
----
-
-### Postal voting begins today
-
-*2024-10-30 08:39:57* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-ඡන්දය-අදින්-ඇරඹේ/11-412755) · `si`
-
-Postal voting starts today for parliamentary election. Eligible voters can cast ballots at district election offices from April 4th. Postal voting not available on April 7th-8th. Five valid IDs accepted: National Identity Card, Driving License, Election Commission confirmation letter. Unregistered officials must use voter ID from previous election.
-
-🟩
-
-Postal voting activities in relation to the parliamentary election begins today (30).
-
-The postal voters of postal voters have qualified for this year's election.
-
-Accordingly, the voter turnout of the postal voting of the officers of the District Secretariats, Elections and Police on the 4th of next month.
-
-Postal voting in other government agencies and military camps will be held on the 01st of next month.
-
-Postal elections are not available on the 7th and 8th of next month. Accordingly, the postal vote can be marked at district election offices in the district of the district.
-
-The Elections Commission has published five valid identity papers to ensure the identity of the postal voting.
-
-The information letter issued by the Department of Registration of Persons to Registration of Persons in the National Identity Card, the National Identity Card, Valid Driving License and the Election Commission (PC) can be used by the Confirmation Letter issued by the Department of Registration of Persons.
-
-...
-
-[Data](articles/e93eca3e.json)
-
-[Extended Data](ext_articles/e93eca3e.ext.json)
 
 ---

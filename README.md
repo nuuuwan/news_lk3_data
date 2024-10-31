@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 19:58:40**
+As of **2024-10-31 20:12:15**
 
 ## Newspaper Stats
 
-*Scraped **52,412** Articles*
+*Scraped **52,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,879
-adaderanalk | 6,226
-tamilmirrorlk | 7,266
+adaderanalk | 6,227
+tamilmirrorlk | 7,267
 virakesarilk | 8,457
 adaderanasinhalalk | 9,129
 
@@ -26,27 +26,49 @@ adaderanasinhalalk | 9,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,410 (100.0%) of 52,412 articles have been extended.
+52,412 (100.0%) of 52,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
 
+### Fuel prices reduced
+
+*2024-10-31 20:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103075/fuel-prices-reduced) · `en`
+
+The Ceylon Petroleum Corporation (CPC) has announced a revision of fuel prices effective from midnight today (31).
+
+Accordingly, the price of Petrol 95 Octane has been reduced by Rs. 06 to Rs. 371 per litre, while Super Diesel has also been reduced by Rs. 06 to Rs. 313 per litre.
+
+However, the prices of Petrol 92 Octane, Auto Diesel and Kerosene remain unchanged, according to Ceypetco.
+
+◼️
+
+[Data](articles/21dafc8f.json)
+
+---
+
 ### ඉන්ධන වර්ග කිහිපයක මිල සංශෝධනය කෙරේ
 
 *2024-10-31 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202781) · `si`
+
+Sri Lanka Petroleum Corporation reduces fuel prices effective midnight. Octane 95 petrol now Rs.371 per liter, down from Rs.377. Super diesel price cut by Rs.33 to Rs.371 per liter. Other fuel types remain unchanged.
+
+🟩
 
 අද (31) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබේ.
 
 ඒ අනුව රුපියල් 377ක්ව පැවති ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල රුපියල් 06කින් අඩු කර ඇති අතර, එහි නව මිල රුපියල් 371කි.
 
-රුපියල් 319ක්ව පැවති සුපර් ඩීසල් ලීටරයක මිල රුපියල් 06කින් අඩු කර ඇති අතර, එහි නව මිල රුපියල් 313කි.
+The price of a liter of Super diesel has been reduced by Rs.33 by Rs. 313.
 
 කෙසේ වෙතත් සෙසු ඉන්ධන වර්ගවල මිල ගණන් නොවෙනස්ව පවතින බව ඛනිජ තෙල් නීතිගත සංස්ථාව නිවේදනය කරයි.
 
 ◼️
 
 [Data](articles/b8617d71.json)
+
+[Extended Data](ext_articles/b8617d71.ext.json)
 
 ---
 
@@ -65,6 +87,22 @@ Police had found the luxury car in question during an inspection carried out bas
 ...
 
 [Data](articles/feacf1b2.json)
+
+[Extended Data](ext_articles/feacf1b2.ext.json)
+
+---
+
+### ருஹுனு குமாரி தடம் புரண்டது
+
+*2024-10-31 19:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருஹுனு-குமாரி-தடம்-புரண்டது/175-346370) · `ta`
+
+மாத்தறையில் இருந்து இன்று (31) பிற்பகல் 3.40க்கு புறப்பட்ட ருஹுனு குமாரி விரைவு  ரயில் கிந்தோட்டையில் தடம் புரண்டது.
+
+இதன் காரணமாக கரையோரப் பாதையில் கிந்தோட்டை புகையிரத நிலையத்தை கடந்து செல்லவிருந்த அனைத்து ரயில்களும் தாமதமாக இயக்கப்படலாம் என தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/c8c27784.json)
 
 ---
 
@@ -2399,41 +2437,5 @@ The Bangladeshis aged 18, 23, 26, 39, and 43 years were found to have been illeg
 [Data](articles/f8166b0f.json)
 
 [Extended Data](ext_articles/f8166b0f.ext.json)
-
----
-
-### SL, Maldives renew commitment to boost ties
-
-*2024-10-31 04:39:32* · [`dailyftlk`](https://www.ft.lk/news/SL-Maldives-renew-commitment-to-boost-ties/56-768647) · `en`
-
-A meeting between President’s Secretary Dr. Nandika Sanath Kumanayake and Maldives High Commissioner of Sri Lanka Masood Imad was held yesterday in Colombo.
-
-During their discussion, the High Commissioner conveyed the Maldivian President’s intention to visit Sri Lanka soon. They also explored ways to further enhance the long-standing friendship between the two nations.
-
-The conversation touched on various areas of mutual interest, including the development of tourism, health, and education in both Maldives and Sri Lanka.
-
-Maldives Deputy High Commissioner to Sri Lanka Fathimath Ghina  was also present at the meeting.
-
-◼️
-
-[Data](articles/ed0d5998.json)
-
-[Extended Data](ext_articles/ed0d5998.ext.json)
-
----
-
-### Sri Lankan Embassy in Thailand hosts delegation from The Ceylon Chamber of Commerce
-
-*2024-10-31 04:37:16* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-Embassy-in-Thailand-hosts-delegation-from-The-Ceylon-Chamber-of-Commerce/34-768646) · `en`
-
-The Embassy and Permanent Mission of Sri Lanka in Thailand, in collaboration with The Ceylon Chamber of Commerce, Thai-Sri Lanka Chamber of Commerce, Thai Chamber of Commerce, and Board of Trade of Thailand hosted a three-day business visit for a 12 member delegation from The Ceylon Chamber of Commerce and the Sri Lanka-Greater Mekong Business Council, from 16 to 18 October.
-
-The visit featured the Sri Lanka-Thailand Business Forum, jointly organised by the Thai Chamber of Commerce and Board of Trade of Thailand with the support of the Embassy. Over 30 members of the Thai business community, led by the Adviser of the Board of Trade of Thailand and Chairwoman of the Joint Foreign Chambers of Commerce of Thailand Vibeke Lyssand Leirvag, attended the forum. The event underscored the longstanding trade and investment ties between Sri Lanka and Thailand.
-
-...
-
-[Data](articles/e0e40cac.json)
-
-[Extended Data](ext_articles/e0e40cac.ext.json)
 
 ---

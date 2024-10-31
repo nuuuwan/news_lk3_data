@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 18:35:27**
+As of **2024-10-31 19:00:37**
 
 ## Newspaper Stats
 
-*Scraped **52,406** Articles*
+*Scraped **52,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,878
+adalk | 4,879
 adaderanalk | 6,225
-tamilmirrorlk | 7,265
+tamilmirrorlk | 7,266
 virakesarilk | 8,457
 adaderanasinhalalk | 9,126
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,126
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,406 (100.0%) of 52,406 articles have been extended.
+52,408 (100.0%) of 52,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Crash near Galle Face
+
+*2024-10-31 17:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலிமுகத்திடலுக்கு-அருகில்-கோர-விபத்து/175-346369) · `ta`
+
+Galle Face crash: Three-wheeler collides with motorcycle and car, injuring seven. Five from three-wheeler and two motorcyclists hospitalized.
+
+🟩
+
+Seven people were injured when a three -wheeler collided with a motorcycle and a car this afternoon near the Galle Face.
+
+Five people who were traveling in a three -wheeler and two motorbikes were injured and admitted to the Colombo National Hospital.
+
+◼️
+
+[Data](articles/e8ae49f1.json)
+
+[Extended Data](ext_articles/e8ae49f1.ext.json)
+
+---
 
 ### After November 14, there are no strich
 
@@ -101,6 +121,32 @@ Police Special Task Force (STF) recovered heroin from empty land in Sevanagala.
 [Data](articles/eaac4f65.json)
 
 [Extended Data](ext_articles/eaac4f65.ext.json)
+
+---
+
+### The owner gives the owner's wallet, which was put in the bus
+
+*2024-10-31 17:19:49* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථයේ-දමා-ගිය-රුපියල්-ලක්ෂ-15ක-මුදල්-තිබූ-මුදල්-පසුම්බිය-ඇතුළු-දෑ-අයිතිකරුටම-දෙයි/11-412782) · `si`
+
+Wallet lost on bus, found by police, returned to owner. Tourist guide involved. Police commendation for honesty.
+
+🟩
+
+The Panel of Air Force has been given to him with more than Rs.
+
+Welimada, a traveling guide, 33 year old is 33. M.Chinthaka Priyadarshana Dissanayake was recovered from the Werahera area to Horana to return to her brother's own brother from Boralesgamuwa.
+
+He was sitting on the bus and got down from the bus and the wallet had been forgotten on the seat of the bus.
+
+Piliyandala police went to Piliyandala and was reported to the Piliyandala Police, whether the wallet was unable to find the wallet.A complaint was also lodged in noteworthy contained in the container and other documents including the payment card and driver's license.
+
+The OIC of the Master of Kahathuduwa Sunfalver Gardan, a retired vehicle in Kahathuduwa Police OIC of Kahathuduwa Police, he was taken into custody.A request, it was placed on the OIC's desk.
+
+...
+
+[Data](articles/b3e9a115.json)
+
+[Extended Data](ext_articles/b3e9a115.ext.json)
 
 ---
 
@@ -2391,37 +2437,5 @@ This event was a part of India’s assistance of $ 17 million aimed at installin
 [Data](articles/b826f20a.json)
 
 [Extended Data](ext_articles/b826f20a.ext.json)
-
----
-
-### Commonwealth Union advocates for Appé Lanka’s grassroots efforts in Sri Lanka
-
-*2024-10-31 04:11:20* · [`dailyftlk`](https://www.ft.lk/news/Commonwealth-Union-advocates-for-Appé-Lanka-s-grassroots-efforts-in-Sri-Lanka/56-768641) · `en`
-
-Appé Lanka Founder Shaan Corea (left) with Commonwealth Union President and Presidential Envoy of Sri Lanka (2022-2024) Nirj Deva
-
-Commonwealth Union Ltd., has announced its partnership with the Appé Lanka Foundation, a rural development initiative focused on transforming the Poonakary region in Northern Sri Lanka.
-
-For the past eight years, Appé Lanka has made significant strides in improving local livelihoods and infrastructure, driven by a commitment to sustainability, empowerment, and unity. This partnership is a testament to Commonwealth Union’s dedication to Corporate Social Responsibility (CSR), supporting social impact without any financial gain. The goal is simple — to make a lasting, positive difference in these communities.
-
-...
-
-[Data](articles/4a996e84.json)
-
-[Extended Data](ext_articles/4a996e84.ext.json)
-
----
-
-### US Embassy and Save the Children expand school nutrition program to urban Colombo schools
-
-*2024-10-31 04:07:19* · [`dailyftlk`](https://www.ft.lk/news/US-Embassy-and-Save-the-Children-expand-school-nutrition-program-to-urban-Colombo-schools/56-768640) · `en`
-
-US Ambassador Julie Chung visited Buwanekaba Primary School in Maharagama, Colombo, yesterday to observe the implementation of the US Department of Agriculture (USDA)-funded McGovern-Dole International Food for Education and Child Nutrition Program as it expands into Colombo-area schools this month. During her visit, Ambassador Chung met with students, teachers, parents, and school meal providers who shared how this program is positively impacting children’s health and academic success.
-
-...
-
-[Data](articles/220439f6.json)
-
-[Extended Data](ext_articles/220439f6.ext.json)
 
 ---

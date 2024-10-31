@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 12:15:31**
+As of **2024-10-31 12:25:44**
 
 ## Newspaper Stats
 
-*Scraped **52,357** Articles*
+*Scraped **52,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,867
+adalk | 4,869
 adaderanalk | 6,216
-tamilmirrorlk | 7,254
+tamilmirrorlk | 7,256
 virakesarilk | 8,449
-adaderanasinhalalk | 9,117
+adaderanasinhalalk | 9,118
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,356 (100.0%) of 52,357 articles have been extended.
+52,361 (100.0%) of 52,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### A shooting of businessman's house
+
+*2024-10-31 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202765) · `si`
+
+A businessman of a businessman was shot in a businessman in Meegoda this morning (31).
+
+The police suspect that no one had been damaged by shooting and the shooting was carried out to intimidate the businessman.
+
+◼️
+
+[Data](articles/371217f5.json)
+
+[Extended Data](ext_articles/371217f5.ext.json)
+
+---
+
+### “False messages are spread”
+
+*2024-10-31 11:59:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்யான-செய்திகள்-பரப்பப்படுகின்றன/175-346354) · `ta`
+
+President Anura Kumara Dissanayake has said that some politicians and media institutions are spreading false news to establish anarchy in the country in order to create instability without giving strong power to the new government.
+
+Speaking at a meeting of the election campaign in Matara, he said that some politicians are spreading false news about the salaries of civil servants and that some media outlets are spreading false news in major economic sectors to create anarchy in the community.
+
+“We have confirmed power only in some institutions. Political authority is established when strong authority is confirmed in many institutions such as the President, Cabinet, Parliament, Provincial Councils and Local Government Councils. We have only the presidency and the small cabinet. The parliament has been dissolved. Three months have passed since we took over the regime, some media and some politicians are trying to create stability without giving strong authority.
+
+...
+
+[Data](articles/90b1221f.json)
+
+[Extended Data](ext_articles/90b1221f.ext.json)
+
+---
+
+### Here's what Harry Potter is going to do the public train bridge
+
+*2024-10-31 11:58:28* · [`adalk`](https://www.ada.lk/breaking_news/Harry-Potter-චිත්‍රපට-මාලාවේ-ප්‍රසිද්ධ-දුම්රිය-පාලමට-කරන්න-යන-දේ-මෙන්න/11-412773) · `si`
+
+Scott Schanga Express, a public view of the horry potter film, has commenced the rehabilitation of the 21 Bridge.
+
+The bridge is 123 years old, and a large number of people will visit this place due to the Garry Potter films.
+
+◼️
+
+[Data](articles/9ec75f1d.json)
+
+[Extended Data](ext_articles/9ec75f1d.ext.json)
+
+---
+
+### The Prime Minister responded to the former president
+
+*2024-10-31 11:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிக்கு-பதிலடி-கொடுத்தார்-பிரதமர்/175-346353) · `ta`
+
+Prime Minister Harini Amarasuriya has questioned whether the constitution should be learned from former President Ranil Wickremesinghe, who has been rejected by the public several times and lost many elections.
+
+Speaking at a public event, Prime Minister Amarasuriya said Ranil Wickremesinghe did not appear to be quitting, despite losing 17 times, and that he was hanging out in his political career.
+
+“He could not understand that the public had changed and rejected him. However, we have started a new journey, ”he said.
+
+Pointing out that the basis of the Constitution is the decree of the people, the Prime Minister questioned how Ranil Wickremesinghe, who did not understand this basic issue, questioned how he could teach the constitution.
+
+“A person who knows the basics of the Constitution will not postpone the election, or will not interfere in the results of the National Council or the judiciary. I think he must know at least these basics to teach me about the Constitution, ”he said.
+
+...
+
+[Data](articles/24dbc752.json)
+
+[Extended Data](ext_articles/24dbc752.ext.json)
+
+---
 
 ### China to provide emergency humanitarian aid worth Rs. 400M to Sri Lanka
 
@@ -249,6 +321,30 @@ The First Lady has also awarded literature for children of children.
 [Data](articles/a8578a8e.json)
 
 [Extended Data](ext_articles/a8578a8e.ext.json)
+
+---
+
+### There are several media institutions that cannot change the old addictions
+
+*2024-10-31 10:49:47* · [`adalk`](https://www.ada.lk/breaking_news/පැරණි-ඇබ්බැහිවීම්-වෙනස්-කර-ගන්න-බැරි-මාධ්‍ය-ආයතන-කිහිපයක්-තිබෙනවා/11-412771) · `si`
+
+"Some people are working false today because the government is stabilized.President Anura Kumara Dissanayake said in Matara yesterday.
+
+He was speaking at the rally organized by the national folk of the Jiantawatta Construction of the National Folk Force, "we together."
+
+"The general election has been nearly two weeks. The public is a voting campaign to go to the Flag of the Matara.Forest is divided. We have completed a peaceful political culture this time.
+
+In the presidential election, Dinawanku will be the election.Proven has been proven.
+
+We have ended the tribal election campaign that distort the bribery commissions.There is to be strengthened by the victory of the Presidential Election at the Presidential Election at the 14th of November 14.
+
+However, there are several media bodies that they do not have the old addictions in our country.They invite them.
+
+...
+
+[Data](articles/21a532b0.json)
+
+[Extended Data](ext_articles/21a532b0.ext.json)
 
 ---
 
@@ -2181,129 +2277,5 @@ In May 2021, the Singapore-registered cargo ship caught fire near Negombo, a pop
 [Data](articles/38d72f86.json)
 
 [Extended Data](ext_articles/38d72f86.ext.json)
-
----
-
-### The Court of Appeal has ordered the recovery of the cab against Uppul Tharanga
-
-*2024-10-30 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197542) · `ta`
-
-Court of Appeal orders recovery of cab against Uppul Tharanga. Former Sri Lankan cricketer fails to attend case, faces court order. Taranga pledges presence in future hearings after petition filed. Incident occurred during 2024 Legends Cricket Tournament.
-
-🟩
-
-The Court of Appeal on Wednesday (30) has ordered the recovery of the Matale High Court's decision against former Sri Lankan cricketer Upul Tharanga.
-
-The Matale High Court has issued a court order to Cricket Board Chairman Uppul Tharanga for failing to attend the case.
-
-The Court of Appeal has issued the order that the Uppul Taranga pledged through his lawyers that he will be present in court during the future hearing.
-
-The order was issued today when a petition filed by the Taranga was taken up for hearing today.
-
-Uppul Tharanga failed to appear in court for a match case related to the incident that took place during the 2024 Legends Cricket Tournament. Due to this, the Matale High Court issued a court on October 08 against Uppul Tharanga.
-
-Although the case was filed by the lawyer, it is reported that he left the country without informing the court for the purpose of playing cricket.
-
-◼️
-
-[Data](articles/519dd177.json)
-
-[Extended Data](ext_articles/519dd177.ext.json)
-
----
-
-### Five 5 storied buildings in Panadura collapse at once
-
-*2024-10-30 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202741) · `si`
-
-Panadura: Five 5-story buildings collapse simultaneously due to backhoe excavation, causing massive dust cloud and destruction of shops.
-
-🟩
-
-Five old two storied buildings in the Panadura town have collapsed at once.
-
-With the collapse of these buildings, the area covered with a large dust, including Galle Road.
-
-The National Council has been assigned a contract from the municipal system to prepare the drainage system on either side of the popular road.
-
-With the lorry that the backhole and soil leaving, these buildings have collapsed at once.
-
-The businessmen say that the backhoe is the cause of the earth that the earth has caused the accident.
-
-The five storeys in the five blocks were a dental layout, textile shop and several other shops and were completely destroyed.
-
-Two five shops were open and three shops were closed at the time of the accident.
-
-◼️
-
-[Data](articles/2d70589f.json)
-
-[Extended Data](ext_articles/2d70589f.ext.json)
-
----
-
-### Indonesia arrests former trade minister in sugar import graft case
-
-*2024-10-30 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103045/indonesia-arrests-former-trade-minister-in-sugar-import-graft-case) · `en`
-
-Indonesian authorities investigating graft have arrested a former trade minister turned government critic on suspicion of improperly granting a sugar import permit in 2015 that led to losses of $25 million.
-
-Thomas Trikasih Lembong was named a suspect and arrested late on Tuesday by prosecutors from the attorney general’s office, accused of giving the permit to a private company at a time when Indonesia had a surplus of sugar, the office said.
-
-“At that time, Indonesia did not need to import sugar but (Lembong) granted a permit to import 105,000 metric tons of raw crystal sugar,” prosecutor Abdul Qohar told a press conference.
-
-There was no consultation with other state bodies or a recommendation from the industry ministry, he said, adding that the decision had led to losses of 400 billion rupiah ($25.42 million).
-
-Qohar did not say what Lembong is accused of having received in return for the permit to the company, which authorities identified only by its initials, PT AP.
-
-...
-
-[Data](articles/5eb3a94f.json)
-
-[Extended Data](ext_articles/5eb3a94f.ext.json)
-
----
-
-### Student in the rocky pussy: Recovery after 20 hours
-
-*2024-10-30 18:01:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாறை-இடுக்கில்-மாணவி-20-மணி-நேரத்துக்கு-பிறகு-மீட்பு/175-346325) · `ta`
-
-College student trapped in rock for 20 hours, rescued by firefighters in Karnataka.
-
-🟩
-
-A college student who was trapped in a rock when he went to take a cellphone, was rescued after a 20 -hour struggle. The incident took place in Karnataka.
-
-Somanath Gowda (48) hails from Sravarnapura near Kuppi in Karnataka State's Tumakuru district. Native daughter Amsa S Gowda (20). He is attending a B.Tech second year at a private college there.
-
-He traveled with friends to Maidala Lake near Tumkur on Sunday evening (27). When he climbed on the rock and took the cell phone, he fell on the rock. Shocked friends immediately informed the police and the fire department. The firefighters rushed to the scene and tried to rescue the woman.
-
-Broke the rocks and tried to recover through the rope and chain. But he was trapped between the rocks and was trapped below 30 feet.
-
-...
-
-[Data](articles/17261b86.json)
-
-[Extended Data](ext_articles/17261b86.ext.json)
-
----
-
-### India reiterates to avoid use of force in Sri Lanka seas after deaths
-
-*2024-10-30 17:42:00* · [`economynextcom`](https://economynext.com/india-reiterates-to-avoid-use-of-force-in-sri-lanka-seas-after-deaths-185746/) · `en`
-
-ECONOMYNEXT – India has strongly reiterated not to use force on their fishermen in Sri Lanka’s Northern seas, the Indian High Commission in Colombo said after a joint meeting between top officials of the countries in Colombo.
-
-The 6th meeting of the India-Sri Lanka Joint Working Group (JWG) on Fisheries was held on Tuesday (29) in Colombo.
-
-The meeting comes weeks after deaths when the island nation’s navy attempted to stop poaching of Indian fishermen into Sri Lanka’s Northern Seas where local fishermen have increasingly complained of depletion of fish catch due to Indian bottom trawlers.
-
-“Both sides agreed that the highest priority should be accorded to address the various issues faced by fishermen in a humanitarian manner as they pertain to livelihood concerns on both sides,” the Indian High Commission in Colombo said in a statement.
-
-...
-
-[Data](articles/14129625.json)
-
-[Extended Data](ext_articles/14129625.ext.json)
 
 ---

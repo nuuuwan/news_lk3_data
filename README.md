@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 16:39:53**
+As of **2024-10-31 16:57:30**
 
 ## Newspaper Stats
 
-*Scraped **52,391** Articles*
+*Scraped **52,395** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,875
-adaderanalk | 6,222
-tamilmirrorlk | 7,258
+adalk | 4,876
+adaderanalk | 6,223
+tamilmirrorlk | 7,260
 virakesarilk | 8,457
 adaderanasinhalalk | 9,124
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 9,124
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,391 (100.0%) of 52,391 articles have been extended.
+52,392 (100.0%) of 52,395 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### பாலியல் துஷ்பிரயோகம்; பிக்குவிற்கு 7 வருடம் கடூழிய சிறை
+
+*2024-10-31 16:50:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-துஷ்பிரயோகம்-பிக்குவிற்கு-7-வருடம்-கடூழிய-சிறை/175-346363) · `ta`
+
+சிறுவயது பிக்கு ஒருவரை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டில் பௌத்த பிக்கு ஒருவருக்கு கொழும்பு மேல் நீதிமன்றம் ஏழு வருட கடூழிய சிறைத்தண்டனை விதித்துள்ளது.
+
+மேலும் நீதிமன்றம் குற்றவாளிக்கு ரூ.4500 அபராதமும் பாதிக்கப்பட்டவருக்கு  ரூ. 100,000 இழப்பீடும் வழங்க உத்தரவிட்டுள்ளது.
+
+கொழும்பு மேல் நீதிமன்ற நீதிபதி மகேஷ் வீரமன் நேற்று (30) இந்த தீர்ப்பை வழங்கியமை குறிப்பிடத்தக்கது
+
+◼️
+
+[Data](articles/aed5e65b.json)
+
+---
+
+### Lohan Ratwatte brought to Mirihana police
+
+*2024-10-31 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103071/lohan-ratwatte-brought-to-mirihana-police) · `en`
+
+Former State Minister Lohan Ratwatte, who was arrested in Kandy today (31), has been brought to the Mirihana Police Station.
+
+Police said that the former state minister was arrested in Kandy over an incident of discovering a car without number plates at his wife’s house in the Mirihana area of Nugegoda.
+
+The concerned car without registered number plates was found on October 26, 2024, according to police.
+
+Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters that there is a luxury car without number plates in a three-storied house in the Embuldeniya area in Mirihana belonging to Shashi Prabha Ratwatte, the wife of Former State Minister Lohan Ratwatte.
+
+...
+
+[Data](articles/b1a19191.json)
+
+[Extended Data](ext_articles/b1a19191.ext.json)
+
+---
+
+### மிரிஹான பொலிஸ் நிலையத்தில் லொஹான்
+
+*2024-10-31 16:29:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிரிஹான-பொலிஸ்-நிலையத்தில்-லொஹான்/175-346362) · `ta`
+
+கண்டியில் இன்று (31) கைது செய்யப்பட்ட முன்னாள் இராஜாங்க அமைச்சர்  லொஹான் ரத்வத்தே, தற்போது மிரிஹான பொலிஸ் நிலையத்திற்கு அழைத்து வரப்பட்டுள்ளார்.
+
+நுகேகொடை மிரிஹானையில் உள்ள அவரது மனைவி வீட்டில் இலக்கத் தகடுகள் இல்லாத கார் ஒன்று கண்டுபிடிக்கப்பட்டமை தொடர்பில் முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தே கைது செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/93580ee1.json)
+
+---
 
 ### Use of smoke-emitting firecrackers renews air pollution debate in India’s capital ahead of Diwali
 
@@ -71,6 +121,20 @@ The Secretary to the Ministry of Finance Mahinda Siriwardena said that the count
 [Data](articles/2e96fbc5.json)
 
 [Extended Data](ext_articles/2e96fbc5.ext.json)
+
+---
+
+### දින 06කදී දිස්ත්‍රික් 12ක් ආවරණය කරන සරම්ප එන්නත් වැඩසටහන
+
+*2024-10-31 15:39:44* · [`adalk`](https://www.ada.lk/breaking_news/දින-06කදී-දිස්ත්‍රික්-12ක්-ආවරණය-කරන-සරම්ප-එන්නත්-වැඩසටහන/11-412779) · `si`
+
+සරම්ප එන්නත් ලබා නොගත් පුද්ගලයන්ට සරම්ප එන්නත් ලබා දීමේ වැඩසටහනක් ලබන 04 වැනිදා සිට 09 වැනිදා දක්වා දිවයිනේ ප්‍රධාන දිස්ත්‍රික් 12කදී සිදු කරන බව සෞඛ්‍ය අමාත්‍යාංශයේ වසංගත රෝග විද්‍යාතනයේ ප්‍රධාන වසංගත රෝග විශේෂඥ වෛද්‍ය හසිත තිසේරා මහතා පැවසිය.
+
+“නොවැම්බර් මාසයේ 04 වැනිදා සිට 09 වැනිදා දක්වා මූලික වශයෙන් සරම්ප එන්නත් වැඩටහනක් ලංකාවේ ​තෝරගත්ත ප්‍රධාන දිස්ත්‍රික්ක 12ක කරන්න බලාපොරොත්තු වෙනවා. මෙහිදී අරමුණ වෙලා තියෙන්නේ ප්‍රධාන වශයෙන් තරණ පරපුර. ”
+
+◼️
+
+[Data](articles/b74adfff.json)
 
 ---
 
@@ -2317,105 +2381,5 @@ Great darkness can be removed by a small light. All that is needed is only a pro
 [Data](articles/88459144.json)
 
 [Extended Data](ext_articles/88459144.ext.json)
-
----
-
-### The President's Diwali greeting news
-
-*2024-10-31 01:53:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-தீபாவளி-வாழ்த்துச்-செய்தி/175-346344) · `ta`
-
-President Anura Kumara Dissanayake greets Hindus on Diwali, emphasizing change and unity. He calls for celebrating the festival as a symbol of hope and progress, urging Sri Lankans to work towards eliminating injustice and promoting cultural diversity.
-
-🟩
-
-In his Diwali greeting, President Anura Kumara Dissanayake said that we have initiated the era of change of public expectations.
-
-The Diwali festival is celebrated by Hindu devotees in the world to mark the light of darkness.
-
-The Sri Lankan people who have been searching for light from the dark after independence are now carrying new expectations. This is the many years expectation of the people. We have begun the age of change of the expectations of the public who have been paralyzed by the rulers of Sri Lanka for so many days.
-
-There are many reasons for the Diwali celebration. The festival is celebrated to commemorate the return of Ayodhya and destroy Krishna Narakasura after the 14 -year wilderness.
-
-I urge the people to celebrate the Diwali festival this time that the new revolution will lead to the new revolution by carrying torches in the tone of the light of the conscience.
-
-We extend their hands for honor, acceptance and brotherhood, in order to enrich the beauty of cultural diversity.
-
-...
-
-[Data](articles/8b74fc03.json)
-
-[Extended Data](ext_articles/8b74fc03.ext.json)
-
----
-
-### Examining Elpitiya, Israeli-Zionist beachheads, Anura’s inaction and Prabhakaran’s profile
-
-*2024-10-31 01:50:27* · [`dailyftlk`](https://www.ft.lk/columns/Examining-Elpitiya-Israeli-Zionist-beachheads-Anura-s-inaction-and-Prabhakaran-s-profile/4-768630) · `en`
-
-On the campaign trail, President AKD followed-up his memorable line “I hear talk in certain places about an Opposition. An Opposition? No. What we need now is a powerful Government!” with a no less memorable and ominous one: “They think this government will be short-lived but I’m telling you this Government will step down only after having rebuilt the entire country!”
-
-He should have said “this government will step down only if you decide it should at a national election”.
-
-Meanwhile senior JVP member and NPP candidate Samantha Waidyaratna reassured his audience and the nation on TV news that “the incoming Government will last an aeon (‘kalpayak’)”.
-
-Elpitiya was a legendary JVP stronghold during the April 1971 insurrection and thereafter. Therefore, last week’s Elpitiya PS election weeks after Anura Kumara Dissanayake’s presidential victory, illuminates greatly.
-
-The JVP-NPP has shrunk slightly (47%) in comparison with its Elpitiya vote in September (49%).
-
-...
-
-[Data](articles/295e07f3.json)
-
-[Extended Data](ext_articles/295e07f3.ext.json)
-
----
-
-### Maldivian High Commissioner
-
-*2024-10-31 01:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செயலாளருக்கும்-மாலைதீவு-உயர்ஸ்தானிகர்-சந்திப்பு/175-346343) · `ta`
-
-Maldivian High Commissioner Masood Imad met Sri Lanka's President at Presidential Secretariat. Maldives President invited High Commissioner to visit Sri Lanka soon. Discussion covered strengthening bilateral friendship, tourism, health, education cooperation between countries.
-
-🟩
-
-The President's Secretariat was held at the Presidential Secretariat yesterday afternoon between Dr. Nandika Sanath Kumanayake and Maldivian High Commissioner Masood Imad.
-
-The Maldivian President told the President of the Maldivian High Commissioner to visit Sri Lanka soon.
-
-இரு நாடுகளுக்கும் இடையிலான நீண்டகால நட்புறவை மேலும் வலுப்படுத்துவது குறித்து இதன்போது விரிவாக கலந்துரையாடப்பட்டது.
-
-In addition, the Maldives and Sri Lanka's tourism, health and education are also discussed.. (a)
-
-◼️
-
-[Data](articles/d1d88f40.json)
-
-[Extended Data](ext_articles/d1d88f40.ext.json)
-
----
-
-### வடமராட்சியில் இரட்டைக் கொலை: இருவர் கைது
-
-*2024-10-31 01:24:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடமராட்சியில்-இரட்டைக்-கொலை-இருவர்-கைது/175-346342) · `ta`
-
-Twin murders in Vadamaraichi: Two arrested
-
-🟩
-
-Husband and wife have been recovered yesterday after the murder of the Kalvovalam - St.
-
-Both of them have been brutally assassinated with concrete stones.
-
-The bodies have been recovered by the gem Subramaniam (age 54) and his wife Subramaniam Mary Rita (53 years old) at the Point Pedro Base Hospital.
-
-அவர்களின் வீட்டுக்கு நேற்று காலை அயலவர்கள் சென்று பார்த்தபோது இருவரும் உயிரிழந்த நிலையில் காணப்பட்டுள்ளனர். Point Pedro Police are investigating the incident.
-
-காங்கேசன்துறை பிரவுக்குட்பட்ட பொலிஸ் ஊளவுத்துறையினருக்கு கிடைத்த தகவலின் அடிப்படையில் கொலையாளிகள் மூவரில் இருவரைக் கைது செய்துள்ளனர். ஒருவர் தலைமறைவாகியுள்ளார்.
-
-◼️
-
-[Data](articles/379fc74f.json)
-
-[Extended Data](ext_articles/379fc74f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 21:11:18**
+As of **2024-10-31 21:24:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,418 (100.0%) of 52,419 articles have been extended.
+52,419 (100.0%) of 52,419 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -206,19 +206,27 @@ Today (31). 3.40ට පිටත් වූ රුහුණු කුමාරි
 
 ---
 
-### බැංකුවල ද්‍රවශීලතාව රැකගන්න රු. බිලියන 100ක් අච්චු ගැහුවා
+### Protect liquidity of the banks. 100 billion mold
 
 *2024-10-31 18:27:30* · [`adalk`](https://www.ada.lk/breaking_news/බැංකුවල-ද්‍රවශීලතාව-රැකගන්න-රු--බිලියන-100ක්-අච්චු-ගැහුවා/11-412785) · `si`
 
-වත්මන් ආණ්ඩුව මුදල් මුද්‍රණය නොකළ බව ප්‍රකාශ කළද බැංකුවල ද්‍රවශීලතාව රැක ගැනීමට රුපියල් බිලියන 100 ක් මුද්‍රණය කළ බවත්, බිලියන 600 ක් ණය ලබාගත් බවත් හිටපු රාජ්‍ය අමාත්‍ය නිමල් ලාන්සා මහතා පැවසීය.එසේම මාධ්‍යවලට තර්ජනය නොකර ප්‍රජාතන්ත්‍රවාදීව හැසිරෙන ලෙසට ජනාධිපතිවරයාගෙන් ඉල්ලා සිටින බවද ඔහු කීය.මේ පිළිබඳ මාධ්‍යයට අදහස් දක්වමින් ඔහු වැඩිදුරටත් මෙසේ සඳහන් කළේය.
+Banks protected with 100 billion cash molds. Former minister claims 600 billion used for media protection. Central Bank reports money used to cover deficits. Critics argue this reduces liquidity. Government denies wrongdoing. Media institutions report cash usage. Opposition leader accuses government of deception.
 
-"කවුරු හරි කෙනෙක් කියනව නම් නෑ කියලා මම ඕනම විවාදයකට එන්න ලෑස්තියි. මේ අය බිලියන 100ක් මුදල් අච්චු ගහලා බැංකුවල ද්‍රවශීලතාව රැක ගන්න කටයුතු කළා. ඒ කියන්නේ බැංකුවල මුදල් හිඟයක් තියෙනවා. ඒ හිඟය රැක ගැනීම සඳහා මුදල් අච්චු ගැසූ බව මහ බැංකු වාර්තාවේ නොකියා කියනවා.
+🟩
 
-ඒ කියන්නෙ බැංකුවල මුදල් හිඟයක් තියෙනවා. ඒ හිඟය රැක ගැනීම සඳහා තමයි මේ අය මුදල් අච්චු ගැහුවේ. රජයක් විදිහට මේ අය නොකියා පිළිඅරගෙන තියෙනවා. සමහර බැංකුවල ද්‍රවශීලතාව අඩු නිසා එය රැක ගන්න මුදල් අච්චු ගැහුවා කියන එක ඉතාමත් පැහැදිලියි.
+Former State Minister Nimal Lansa said, 600 billion has been obtained to protect the media, but he said.Speaking to the media, he added:
+
+"I'm ready to come to a debate that someone says no. They took these 100 billion cash molds and maintained liquidity. That means the banks have a shortage of money. The Central Bank said in the central bank report said that money was used to protect the deficit.
+
+That means the banks have a shortage of money. These people molded money to protect the deficit. These people have been treated as a government. It is clear that some banks reduced liquidity, so it is very clear that you mold money to protect it.
+
+Anura Kumara Dissanayake threatens from stage yesterday. Head Leines are incorrect. They need to put them as they want. Such media cannot threaten. What is the reason?Head Leines was put in molding. What about the media without a playground if money is molded?. But the President wants to remind the President that threatened work is inferior.
 
 ...
 
 [Data](articles/b0b44380.json)
+
+[Extended Data](ext_articles/b0b44380.ext.json)
 
 ---
 

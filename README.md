@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 20:24:11**
+As of **2024-10-31 20:39:42**
 
 ## Newspaper Stats
 
-*Scraped **52,414** Articles*
+*Scraped **52,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,879
+adalk | 4,881
 adaderanalk | 6,227
-tamilmirrorlk | 7,267
+tamilmirrorlk | 7,268
 virakesarilk | 8,457
 adaderanasinhalalk | 9,129
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 9,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,414 (100.0%) of 52,414 articles have been extended.
+52,417 (100.0%) of 52,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Sudden change in the price of fuels
+
+*2024-10-31 20:06:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/எரிபொருட்களின்-விலையில்-திடீர்-மாற்றம்/150-346371) · `ta`
+
+Fuel prices revised: 95 petrol reduced by Rs, Lanka Super Diesel 4 Star Euro 4 lowered by Rs. Other fuel prices unchanged.
+
+🟩
+
+According to the Monthly Fuel Price Sutra, the Ceylon Petroleum Corporation has decided to revise the prices of its fuels from midnight today.
+
+Accordingly, the price of a liter of 95 petrol, which prevailed at Rs 377, has been reduced by Rs.
+
+The prices of one liter of Lanka Super Diesel 4 Star Euro 4 have been reduced by Rs.
+
+The Ceylon Petroleum Corporation has announced that the prices of other fuels have not been changed. Remble
+
+◼️
+
+[Data](articles/261303c6.json)
+
+[Extended Data](ext_articles/261303c6.ext.json)
+
+---
 
 ### Fuel prices reduced
 
@@ -80,11 +104,13 @@ The price of a liter of Super diesel has been reduced by Rs.33 by Rs. 313.
 
 Former State Minister Lohan Ratwatte, who was today arrested by the Mirihana Police, was produced before the Nugegoda Acting Magistrate this evening (31).
 
-Police said that the former state minister was arrested in Kandy over an incident of discovering a car without number plates at his wife’s house in the Mirihana area of Nugegoda.
+Earlier today, Ratwatte, who was arrested in Kandy, was brought to the Mirihana Police Station.
 
-The concerned car without registered number plates was found on October 26, 2024, according to police.
+Police said that the former state minister was arrested in Kandy over an incident of discovering an unregistered car at his wife’s house in the Mirihana area of Nugegoda.
 
-Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters that there is a luxury car without number plates in a three-storied house in the Embuldeniya area in Mirihana belonging to Shashi Prabha Ratwatte, the wife of Former State Minister Lohan Ratwatte.
+The car without registered number plates was found on October 26, 2024, according to police.
+
+Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters that there is a luxury car without number plates in a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
 
 ...
 
@@ -156,6 +182,32 @@ Today (31). 3.40ට පිටත් වූ රුහුණු කුමාරි
 
 ---
 
+### China evalches next year on development projects in Sri Lanka
+
+*2024-10-31 18:18:18* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සංවර්ධන-ව්‍යාපෘති-පිළිබඳ-චීනය-ලබන-වසරේදී-ඇගයීමක්-කරයි/11-412784) · `si`
+
+Here's a 200-character summary:
+
+
+
+China evaluates Sri Lanka's development needs for 2024. Chinese Ambassador emphasizes education cooperation and human resource development. Over 1,000 Sri Lankans trained in China across 17 fields. China supports Sri Lanka's economic growth through loans and financial assistance.
+
+🟩
+
+Chinese Ambassador to China's Ambassador to China's Ambassador to the New Year on the New Year's Development Needs of Sri Lanka. The Ambassador also said that more Sri Lankans were able to train most of Sri Lankans to train in China, and the Ambassador also said.
+
+He was speaking at a function held in Colombo today (31st), addressing a function held in Colombo today.
+
+"The Government of the Chinese government is important to maintain a education cooperation in all areas with Sri Lanka. In China, Sri Lankans have used our foreign aid to participate in various training programs. At the end of October this year, more than a thousand Sri Lankans have gone to the training programs covering 17 main areas.
+
+...
+
+[Data](articles/40f69974.json)
+
+[Extended Data](ext_articles/40f69974.ext.json)
+
+---
+
 ### Crash near Galle Face
 
 *2024-10-31 17:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலிமுகத்திடலுக்கு-அருகில்-கோர-விபத்து/175-346369) · `ta`
@@ -219,6 +271,30 @@ Commenting further, Dr. Amarasuriya added: “Ranil Wickremesinghe has claimed t
 [Data](articles/2d5bf772.json)
 
 [Extended Data](ext_articles/2d5bf772.ext.json)
+
+---
+
+### Army retired Captain remanded for shot dead by Sydney son
+
+*2024-10-31 17:46:24* · [`adalk`](https://www.ada.lk/breaking_news/’සිඩ්නි-පුතා’ට-වෙඩි-තබා-මරා-දැමූ-යුද-හමුදා-විශ්‍රාමික-කපිතාන්-රිමාන්ඩ්/11-412783) · `si`
+
+Retired Army Captain remanded for shooting neighbor's dog. Suspect claims "Sidney Son" killed animal. Investigation ongoing.
+
+🟩
+
+Welisara Magistrate Dhammika Uduwawasha was arrested on suspicion to be taken into custody by the dog who was shot dead by the neighboring house.
+
+The suspect was remanded the suspect, who appeared on behalf of the suspect to be bailed to the suspect, the Kandana, a retired Army captain, who was shot dead by an air riffle and said he was shot dead by an air manipal.The first Arachchi Gayan Perera (55), a resident of Galwala Road, was remanded.
+
+The Kandana Police Constable (96866) Constable (96866) constable of the suspect's investigation into the incident in connection with the incident.
+
+Mr. Sidney son, which is in the house, is going to get out of the house twice a day and the suspect has taken a bath and has been shot and shot the stomach to his home.Later, he said that the 'Sidney Son' was treated, he was treated.
+
+...
+
+[Data](articles/3811cf6e.json)
+
+[Extended Data](ext_articles/3811cf6e.ext.json)
 
 ---
 
@@ -2389,65 +2465,5 @@ Gammanpila claims the two officers were named as main accused in an investigativ
 [Data](articles/0a336b5d.json)
 
 [Extended Data](ext_articles/0a336b5d.ext.json)
-
----
-
-### Johnston released on bail
-
-*2024-10-31 04:44:53* · [`dailyftlk`](https://www.ft.lk/news/Johnston-released-on-bail/56-768650) · `en`
-
-The Colombo Fort Magistrate Court yesterday granted bail to former Minister Johnston Fernando, who was arrested and remanded over the unregistered luxury vehicle allegedly belonging to him found parked in a star-class hotel premises.
-
-He was ordered to be released on five surety bails of Rs. 5 million each by the Colombo Fort Magistrate’s Court.
-
-Fernando was arrested by the CID on 23 October over an incident of an unregistered luxury vehicle (BMW car) allegedly belonging to him found suspiciously parked at a star-class hotel premises, and he was remanded till 30 October by Colombo Fort Magistrate.
-
-The Former MP was arrested after he had arrived at the CID to provide a statement regarding the unregistered BMW car, allegedly belonging to him.
-
-Meanwhile, two suspects had surrendered to the CID in connection with the incident on Tuesday (29), where they were subsequently arrested and produced before the Court.
-
-...
-
-[Data](articles/05c3252c.json)
-
-[Extended Data](ext_articles/05c3252c.ext.json)
-
----
-
-### SC dismisses petition challenging Ranjan Ramanayake’s candidacy
-
-*2024-10-31 04:42:08* · [`dailyftlk`](https://www.ft.lk/news/SC-dismisses-petition-challenging-Ranjan-Ramanayake-s-candidacy/56-768649) · `en`
-
-The Supreme Court yesterday dismissed a petition filed seeking an order to reject the nomination of former Member of Parliament Ranjan Ramanayake, who is contesting in the upcoming General Election under the United Democratic Voice party from the Gampaha District.
-
-This order was issued by the three-member Supreme Court judge bench comprising Justices Preethi Padman Surasena, Kumuduni Wickremesinghe and Achala Vengappuli after considering the preliminary objections raised by the Attorneys of the defendant party.
-
-The petition, submitted by Gampaha District independent candidate K.M. Mahinda Senanayake, had also sought a ruling declaring that Ramanayake does not have the right to obtain a Parliamentary seat or vote.
-
-The Election Commission and its members, Ranjan Ramanayake, the Gampaha District Returning Officer, and several others were named as respondents in the case.
-
-◼️
-
-[Data](articles/438d95c3.json)
-
-[Extended Data](ext_articles/438d95c3.ext.json)
-
----
-
-### Police arrest six Bangladeshi nationals for violating visa conditions
-
-*2024-10-31 04:40:12* · [`dailyftlk`](https://www.ft.lk/news/Police-arrest-six-Bangladeshi-nationals-for-violating-visa-conditions/56-768648) · `en`
-
-Sri Lanka Police yesterday announced the arrest of a group of Bangladeshi nationals from a house in Seeduwa for violating visa conditions.
-
-The group was arrested during a raid conducted on Tuesday night by the Seeduwa Police based on a tip-off.
-
-The Bangladeshis aged 18, 23, 26, 39, and 43 years were found to have been illegally staying in Sri Lanka with expired visas. The Seeduwa Police is conducting investigations.
-
-◼️
-
-[Data](articles/f8166b0f.json)
-
-[Extended Data](ext_articles/f8166b0f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 17:40:45**
+As of **2024-10-31 18:00:56**
 
 ## Newspaper Stats
 
-*Scraped **52,402** Articles*
+*Scraped **52,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,877
+adalk | 4,878
 adaderanalk | 6,224
-tamilmirrorlk | 7,264
+tamilmirrorlk | 7,265
 virakesarilk | 8,457
 adaderanasinhalalk | 9,125
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,125
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,402 (100.0%) of 52,402 articles have been extended.
+52,404 (100.0%) of 52,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Drug recovery worth Rs.
+
+*2024-10-31 17:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-01-பில்லியன்-பெறுமதியான-போதைப்பொருள்-மீட்பு/175-346367) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Sevanagala: STF recovers 40kg heroin valued at Rs.1 billion during raid. Heroin found on empty land after tip from Army Intelligence."
+
+🟩
+
+In Sevenagala area. 40 kg of heroin has been recovered at a value of 01 billion.
+
+Heroin drug has been discovered during a raid conducted by the Police Special Task Force following confidential information received by the Army Intelligence Unit.
+
+Police Special Task Force (STF) recovered heroin from empty land in Sevanagala.
+
+◼️
+
+[Data](articles/eaac4f65.json)
+
+[Extended Data](ext_articles/eaac4f65.ext.json)
+
+---
 
 ### Why removed their privileges?
 
@@ -149,6 +175,30 @@ Five persons traveling in the three-wheeler and two people were injured and admi
 [Data](articles/c0eeec37.json)
 
 [Extended Data](ext_articles/c0eeec37.ext.json)
+
+---
+
+### Aya is seriously due to lightning
+
+*2024-10-31 16:58:25* · [`adalk`](https://www.ada.lk/breaking_news/අකුණු-සැර-වැදී-නංගි-මරුට-අයියාට-බරපතලයි/11-412781) · `si`
+
+Lightning strikes kill student, injure another in Sri Lanka. Children were cutting wood when struck. Police investigating incident.
+
+🟩
+
+A student was killed and a student was seriously injured in a land of land near the land of the Passara Ambatenna village.
+
+The next year, the 6 year-old scholarship examination at Passara District has been admitted to the Passara District Hospital while he was admitted to the Passara District Hospital while he was seriously injured.
+
+The deceased and wounded, the two children in the family were in lightning to cut a new house with their two signs with their parents, with their shanty house.
+
+DIG in Badulla District, DIG in Badulla Sujith Wedmulla and Senior Superintendent of Police Wasantha Kandadawala Police are conducting further investigations.
+
+◼️
+
+[Data](articles/bccf6119.json)
+
+[Extended Data](ext_articles/bccf6119.ext.json)
 
 ---
 
@@ -2367,43 +2417,5 @@ It is noteworthy that the Elections Department of the Elections Commission in th
 [Data](articles/04d25f78.json)
 
 [Extended Data](ext_articles/04d25f78.ext.json)
-
----
-
-### CaFFE and The Carter Centre enlighten aspirant female MPs on how to stay safe online
-
-*2024-10-31 03:49:27* · [`dailyftlk`](https://www.ft.lk/news/CaFFE-and-The-Carter-Centre-enlighten-aspirant-female-MPs-on-how-to-stay-safe-online/56-768638) · `en`
-
-From left: Deputy Commissioner of Elections Piumi Atigala, The Carter Centre Democracy Program Program Associate Claire Goldman, The Carter Centre Digital Hygiene and Safety Expert Dr. Gabrielle Bardall, CaFFE Executive Director Manas Makeen, Election Commission of Sri Lanka Commissioner General Saman Sri Ratnayake, and CaFFE Administration Director Surangi Ariyawansa
-
-The Carter Centre Digital Hygiene and Safety Expert Dr. Gabrielle Bardall provides female candidates with insights on digital hygiene
-
-The Campaign for Free and Fair Elections (CaFFE), with support from The Carter Centre, hosted a workshop on Monday, 28 October to provide online safety guidance to female candidates preparing for the upcoming Parliamentary election.
-
-...
-
-[Data](articles/4331e340.json)
-
-[Extended Data](ext_articles/4331e340.ext.json)
-
----
-
-### Special holidays for all Tamil schools in the Eastern Province - Governor Jayantalal Ratnasekara
-
-*2024-10-31 03:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197552) · `ta`
-
-Tamil schools Eastern Province special holidays announced Governor Jayantalal Ratnasekara Diwali celebration adjustment
-
-🟩
-
-Governor of the Eastern Province Professor Jayantalal Ratnasekara told the media that all Tamil schools in the Eastern Province have been given special holidays on Friday (1) on Friday (1).
-
-He further stated that a special holiday has been granted on the eve of Diwali and the school will be held on Saturday 9th.
-
-◼️
-
-[Data](articles/62313e80.json)
-
-[Extended Data](ext_articles/62313e80.ext.json)
 
 ---

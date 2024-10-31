@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 19:12:32**
+As of **2024-10-31 19:24:09**
 
 ## Newspaper Stats
 
-*Scraped **52,408** Articles*
+*Scraped **52,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 4,879
 adaderanalk | 6,225
 tamilmirrorlk | 7,266
 virakesarilk | 8,457
-adaderanasinhalalk | 9,126
+adaderanasinhalalk | 9,127
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,408 (100.0%) of 52,408 articles have been extended.
+52,409 (100.0%) of 52,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Ruhunu Kumari tracks jump
+
+*2024-10-31 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202779) · `si`
+
+Ruhunu Kumari trainee jumps track today. Train leaves Ginthota station at 3:40 PM due to signal issue. All trains delayed as per schedule.
+
+🟩
+
+Today (31). 3.40ට පිටත් වූ රුහුණු කුමාරි සීඝ්‍රගාමි දුම්රිය ගිංතොට දුම්රිය ස්ථානයේදී පීලි පැන තිබේ.
+
+එම හේතුවෙන් මුහුදුබඩ මාර්ගයේ ගිංතොට දුම්රිය ස්ථානය පසු කිරීමට නියමිත සියලුම දුම්රිය ප්‍රමාද වී ධාවනය වීමට ඉඩ ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/e419ba11.json)
+
+[Extended Data](ext_articles/e419ba11.ext.json)
+
+---
 
 ### Crash near Galle Face
 
@@ -2419,23 +2439,5 @@ At a Sri Lanka-Japan-India investment promotion event, Pathfinder Foundation Fou
 [Data](articles/f103ac3c.json)
 
 [Extended Data](ext_articles/f103ac3c.ext.json)
-
----
-
-### India hands over solar rooftop systems at religious sites
-
-*2024-10-31 04:15:36* · [`dailyftlk`](https://www.ft.lk/news/India-hands-over-solar-rooftop-systems-at-religious-sites/56-768642) · `en`
-
-The handing over of solar rooftop systems took place on 25 October at four religious locations: Hokandara Temple, Sri Anjaneyar Temple, St. Anthony’s Church, and Mutwal Jumma Mosque in the Western Province.
-
-The event was attended by officials from the Indian High Commission in Sri Lanka, the Ceylon Electricity Board (CEB), and the Sri Lanka Sustainable Energy Authority (SLSEA).
-
-This event was a part of India’s assistance of $ 17 million aimed at installing solar PV rooftop systems in 5,000 religious sites across Sri Lanka. The project is designed to reduce energy costs for these institutions while bolstering Sri Lanka’s transition to clean energy.
-
-...
-
-[Data](articles/b826f20a.json)
-
-[Extended Data](ext_articles/b826f20a.ext.json)
 
 ---

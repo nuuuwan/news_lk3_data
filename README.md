@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 08:46:16**
+As of **2024-10-31 09:00:14**
 
 ## Newspaper Stats
 
-*Scraped **52,323** Articles*
+*Scraped **52,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 3,118
 economynextcom | 3,180
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,863
+adalk | 4,864
 adaderanalk | 6,206
 tamilmirrorlk | 7,251
 virakesarilk | 8,442
-adaderanasinhalalk | 9,108
+adaderanasinhalalk | 9,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,312 (100.0%) of 52,323 articles have been extended.
+52,312 (100.0%) of 52,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### කුරුළු උණ වැලඳුනු ඌරකු පළමු වරට අමෙරිකාවෙන්
+
+*2024-10-31 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202757) · `si`
+
+H5N1 කුරුළු උණ රෝගය වැලඳුණු ඌරකු ප්‍රථම වරට අමෙරිකාවෙන් හඳුනාගෙන තිබේ.
+
+අමෙරිකාවේ ඔරිගන් ප්‍රාන්තයේ ගොවිපොළක රඳවා සිටි ඌරෙකු හට මෙලෙස කුරුළු උණ වැලඳී ඇති බවට අනාවරණය වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අදාළ ඌරා සමග රැඳී සිටි තවත් ඌරන් දෙදෙනෙකු හට ද වෛරසය ආසාදනය වී ඇත් ද යන්න සම්බන්ධයෙන් සොයා බැලීමට පර්යේෂණ සඳහා යොමුකර තිබේ.
+
+මෙම කුරුළු උණ වෛරසය 2020 වර්ෂයේ සිට ශීඝ්‍ර ලෙස කුරුල්ලන් අතර ව්‍යාප්ත වී තිබුණි.
+
+◼️
+
+[Data](articles/4c553804.json)
+
+---
+
+### හරක් කටාගේ සහ ආමි චූටිගේ ගෝලයින් දෙදෙනෙක් මාට්ටු
+
+*2024-10-31 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202756) · `si`
+
+මහාපරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් මෙන්ම සංවිධානාත්මක අපරාධකරුවන් වන නඳුන් චින්තක වික්‍රමරත්න නොහොත් "හරක් කටා"ගේ සහ ඔහු සමග සමීප සම්බන්ධනා පවත්වන ලබන "ආමි චූටි" නමැති පුද්ගලයාගේ මත්ද්‍රව්‍ය ජාලය මෙහෙයවන ප්‍රධාන ගොලයන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් සතුව තිබී රුපියල් මිලියන 210කට අධික වටිනාකමකින් යුත් හෙරොයින් සහා අයිස් මත්ද්‍රව්‍ය තොගයක් ද පොලිස් භාරයට ගෙන ඇත.
+
+යුද හමුදා බුද්ධි අංශයට ලද තොරතුරක් මත පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් සමග එක්ව පිළියන්දල ප්‍රදේශයේදී සිදුකළ වැටලීමක දී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 41 හැවිරිදි ඕමල්පගේ ධම්මික සමන් කුමාර සහ 53 හැවිරිදි කංකානම් ආරච්චිගේ  සුජීව නැමැති පුද්ගලයින් දෙදෙනායි.
+
+සැකකරුවන් සතුව තිබූ මත්ද්‍රව්‍ය තොගයේ, හෙරොයින් කිලෝග්‍රෑම් 6 ග්‍රෑම් 910 මිලිග්‍රෑම් 500 සහ අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 01 ග්‍රෑම් 17ක් තිබූ බව සඳහන් වේ.
+
+එහිදී ඔවුන් සතුව තිබූ යතුරුපැදියක් හා ලොරි රථයක් ද පොලිස් භාරයට ගෙන ඇත.
+
+◼️
+
+[Data](articles/683e5183.json)
+
+---
 
 ### Accomplice of ‘Army Chooty’ arrested with drugs worth over Rs. 210 mln
 
@@ -45,6 +85,22 @@ The suspect was arrested while in possession of 6.910 kg of heroin and 1.17 kg o
 [Data](articles/1b085fd7.json)
 
 [Extended Data](ext_articles/1b085fd7.ext.json)
+
+---
+
+### රනිල්ගෙන් ජනපති අනුරට ප්‍රහාරයක්
+
+*2024-10-31 08:05:14* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගෙන්-ජනපති-අනුරට-ප්‍රහාරයක්/11-412767) · `si`
+
+පාර්ලිමේන්තුව සඳහා තමන් කැමති පුද්ගලයෙකු පත්කර යැවීමේ ජනතාවට ඇති බලය දේශපාලන මණ්ඩලයකට හෝ ටිල්වින් සිල්වා මහත්මාට ලබා දිය නොහැකි බවත් පාර්ලිමේන්තුව ජනාධිපතිවරයා පාලනය කරනවා මිස ජනාධිපතිවරයාට පාර්ලිමේන්තුව හොර ගුහාවක් ලෙස නම් කිරීමට නොහැකි බවත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා 30 දින පස්වරුවේ දඹුල්ලේදී පැවසීය.
+
+හිටපු රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා දඹුල්ල ප්‍රදේශයේ සංවිධානය කොට තිබූ ජන හමුවක දී ඔහු මේ බව සඳහන් කළේය.
+
+හිටපු රාජ්‍ය අමාත්‍යවරයකු වන රෝහණ දිසානායක  රාජ්‍ය ආරක්ෂක අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් යන මහත්වරුන් හට තමන්  ජේ .ආර්.ජයවර්ධන මහතාගෙන් ඉගෙන ගත් ක්‍රමයක් අනුව පැය විසිහතරක් ඇතුළත රැස්වීමක් සංවිධානය කරන ලෙස උපදෙස් ලබා දුන් බවත් එම උපදෙස නිසි ලෙසය ඔවුන් ඉටු කර ඇතැයි හිටපු ජනාධිපතිවරයා මෙහිදී සඳහන් කළේය.
+
+...
+
+[Data](articles/fe7370db.json)
 
 ---
 
@@ -2191,75 +2247,5 @@ Investigations have been found that the woman is currently distributing narcotic
 [Data](articles/970536f6.json)
 
 [Extended Data](ext_articles/970536f6.ext.json)
-
----
-
-### Discounts without hearing against Ranjan
-
-*2024-10-30 14:10:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஞ்சனுக்கு-எதிரான-மனு-விசாரணையின்றி-தள்ளுபடி/175-346320) · `ta`
-
-Sri Lanka High Court dismisses FR petition against Ranjan Ramanayake's election nomination. Three judges reject case citing preliminary objections. Petitioner sought to invalidate Ramanayake's candidacy in Gampaha district.
-
-🟩
-
-The Sri Lankan High Court has ordered the dismissal of the fundamental rights (FR) petition filed against the election nomination filed by actor and politician Ranjan Ramanayake in the 2024 general election.
-
-Considering the preliminary objections of the defendants, a three -member High Court session - Preity Padman Surasena, Kumudini Wickramasinghe and Achala Venkapuli, rejected the petition today.
-
-An independent committee member contesting in Gampaha district had filed a fundamental rights petition in the Supreme Court last week.
-
-The petitioner has requested the court to reject the nomination of Ranjan Ramanayake, who is contesting in the Gampaha district on behalf of the United Democratic Voice Party.
-
-It is noteworthy that the petitioner had demanded that Ranjan Ramanayake had no right to vote or to sit in Parliament.
-
-◼️
-
-[Data](articles/118d2e18.json)
-
-[Extended Data](ext_articles/118d2e18.ext.json)
-
----
-
-### The air fuel pipe exploded
-
-*2024-10-30 14:05:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-எரிபொருள்-குழாய்-வெடித்தது/175-346318) · `ta`
-
-Air fuel pipe explodes near Colombo port, causing oil leak affecting nearby homes and businesses. Senior official from Kolonnawa Oil Corporation reports incident occurred during maintenance work.
-
-🟩
-
-A senior official of the Nimawa Oil Corporation belonging to the Kolonnawa Oil Corporation said that the fuel leak has been reported in many areas surrounding the Kolonnawa Oil Corporation due to the explosion of fuel pipes used for airplanes.
-
-The official said the oil leak was due to the damage to the fuel pipe near the port of Colombo.
-
-The pipeline was damaged when the authorities arrived at around 9.30 am on Wednesday.
-
-It is said that 33,000 watts of high -power and several houses are located near the fuel pipe.
-
-◼️
-
-[Data](articles/ea7c50e4.json)
-
-[Extended Data](ext_articles/ea7c50e4.ext.json)
-
----
-
-### Explainer – How anti-India sentiment has receded in Sri Lanka’s current election
-
-*2024-10-30 14:05:00* · [`economynextcom`](https://economynext.com/explainer-how-anti-india-sentiment-has-receded-in-sri-lankas-current-election-185668/) · `en`
-
-ECONOMYNEXT – Sri Lanka has generally seen anti-Indian sentiment rise close to its elections, but this has been notably absent in the run up to the general election on November 14.
-
-The most recent case when anti-Indian sentiment was whipped up was when India’s Adani group was to be awarded a Mannar wind power plant which came without a tender, ahead of the presidential election.
-
-In June, three environmentalists and a Catholic Bishop filed a fundamental rights (FR) petition in Sri Lanka’s Supreme Court over Adani Green Energy’s Mannar wind power plant citing lack of transparency, secrecy of public information, biased environmental impact assessement (EIA), and the pricing.
-
-The Indian company has complained of a possible “vicious campaign” against its 250 MW wind-powered energy project in Mannar and has said it has followed all the procedures.
-
-...
-
-[Data](articles/14a9d04e.json)
-
-[Extended Data](ext_articles/14a9d04e.ext.json)
 
 ---

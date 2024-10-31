@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 15:24:18**
+As of **2024-10-31 15:40:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,122
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,379 (100.0%) of 52,381 articles have been extended.
+52,381 (100.0%) of 52,381 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Additionally, health officials warn that those who have not received the vaccine
 ◼️
 
 [Data](articles/c711d9a9.json)
+
+[Extended Data](ext_articles/c711d9a9.ext.json)
 
 ---
 
@@ -136,17 +138,23 @@ The person who died in the accident has been revealed to be a farmer. Further in
 
 ---
 
-### බූස්ස බන්ධනාගාරය ජංගම දුරකතක ගබඩාවක් වෙලා
+### Boossa Prison has been a mobile store
 
 *2024-10-31 13:25:41* · [`adalk`](https://www.ada.lk/breaking_news/බූස්ස-බන්ධනාගාරය-ජංගම-දුරකතක-ගබඩාවක්-වෙලා/11-412777) · `si`
 
-බූස්ස අධි ආරක්ෂිත බන්ධනාගාර තුල කල හදිසි සෝදිසි කිරීමකදී ඉතා ඉහල වටිනාකමක් ඇති ජංගම දුරකථන ඇතුලු උපාංග විශාල සංකයාවක් හා හෙරොයින් ,අයිස් මත් දවය තොගයක් පොලිස් විශේෂ කාර්ය බලකාය විසින්  ඊයේ (30) පස්වරුවේදි අත් අඩඟුවට ගන්නා ලදි.
+Boossa Prison raided: Police seize drugs, arrest suspects. Operation involves STF, nets 1g ice, 1g heroin, and smoking paraphernalia. Estimated loss: 150 million. Further investigation ongoing.
 
-බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ පැරණි අංශයයේ A,B,C හා D යන වාට්ටු තුල හදිසි සෝදීසි කිරීමක් කර අත්අඩංගුවට ගැනීම් සිදුකර ඇත.ජංගම දුරකථන 11 ක්, සිම්පත් 13 යි, චාජර්, පොකට් රවුටර්, එම අමතර බැටරි, ඩේටා කේබල්, Adapter හා තවත් උපකරණ සමග හෙරොයින් ග්රැම් 03 මිලි ග්රැම් 150 ක්, අයිස් මත් ද්වය ග්රෑම් 01ක්, දුම් කොල කැබලි සොයාගෙන වැඩිදුර විමර්ශන කටයුතු සඳහා බන්ධනාගාර පාලනාධිකාරිය වෙත භාර දීමට කටයුතු කර ඇත.
+🟩
+
+The Police Special Task Force was launched by the police with a large number of devices and heroin, an stock of heroin, ice, in general inspection of the Boossa.
+
+Arrests in the Old Section of the Boossa High Security PrisonWith the loss of 150 millions, 1 gram of ice, 1 gram of heroin, and smoking and smoking bols were taken to further investigations.
 
 ◼️
 
 [Data](articles/9b740e26.json)
+
+[Extended Data](ext_articles/9b740e26.ext.json)
 
 ---
 

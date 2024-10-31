@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 22:14:21**
+As of **2024-10-31 22:26:06**
 
 ## Newspaper Stats
 
-*Scraped **52,428** Articles*
+*Scraped **52,431** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,21 +12,21 @@ newsfirstlk | 363
 dbsjeyarajcom | 414
 colombotelegraphcom | 532
 bbccomsinhala | 535
-islandlk | 3,118
+islandlk | 3,119
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,882
 adaderanalk | 6,228
 tamilmirrorlk | 7,268
-virakesarilk | 8,465
+virakesarilk | 8,467
 adaderanasinhalalk | 9,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,428 (100.0%) of 52,428 articles have been extended.
+52,431 (100.0%) of 52,431 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -448,6 +448,34 @@ Commenting further, Dr. Amarasuriya added: “Ranil Wickremesinghe has claimed t
 
 ---
 
+### When there is a Tamil party that is set to be settled, people do not need to vote for the "shadow" parties - Sumanthiran
+
+*2024-10-31 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197603) · `ta`
+
+Sumanthiran: Tamil party doesn't need shadow parties' votes. All Ceylon Tamil Congress accepts Samasti solution. People want change from corrupt politics. Tamil struggle for 75 years; South didn't support. National People's Power claims but slides on promises. JVP demands Prevention of Terrorism Act abolition. No significant difference between Rajapakse and Dissanayake votes. North and East seek proper power sharing. Federal solution accepted by all Tamil parties. Original Tamil party doesn't need shadow votes.
+
+🟩
+
+Even the All Ceylon Tamil Congress Party has accepted the Samasti solution.Therefore, when we are the original Tamil party that claims to be a solution, people do not need to vote for the shadows.. Former Member of Parliament contesting on behalf of the TNA in the electoral district. A.. Sumanthiran said.
+
+Yall. He said this during a media briefing held at the Media Center on Thursday (31).
+
+The presidential election is said to be the beginning of the change.In a way it's ok. Since the time the two parties have been ruling for a long time, the third party has been a major change.
+
+They are not once a while to capture the regime.People wanted to change from corrupt politics. That is why 69 lakhs of votes were chased away from the country as president
+
+In spite of this, the people have been waiting for two and a half years and have changed the election.
+
+People wanted to change and they were only the power of the national people. So people voted for them.
+
+...
+
+[Data](articles/cdc6e366.json)
+
+[Extended Data](ext_articles/cdc6e366.ext.json)
+
+---
+
 ### Army retired Captain remanded for shot dead by Sydney son
 
 *2024-10-31 17:46:24* · [`adalk`](https://www.ada.lk/breaking_news/’සිඩ්නි-පුතා’ට-වෙඩි-තබා-මරා-දැමූ-යුද-හමුදා-විශ්‍රාමික-කපිතාන්-රිමාන්ඩ්/11-412783) · `si`
@@ -469,6 +497,38 @@ Mr. Sidney son, which is in the house, is going to get out of the house twice a 
 [Data](articles/3811cf6e.json)
 
 [Extended Data](ext_articles/3811cf6e.ext.json)
+
+---
+
+### If the Tamil people of the Colombo district come together, you can get 3 members - EPDP. National List Member Babusarma
+
+*2024-10-31 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197600) · `ta`
+
+Tamil unity key to 3 seats in Colombo district: EPDP's Babu Sharma. Party aims to boost Tamil representation without competing against other parties.
+
+🟩
+
+If the Tamil people of the Colombo district work together, they can get three Tamil representatives.
+
+Babu Sharma, a national list member of the Eelam People's Democratic Party, said that we do not need to scatter anyone's votes and get votes.
+
+He was speaking at a press conference held at the Eelam Democratic Party on Thursday (31).
+
+Our aim is to increase Tamil representation this time in the Colombo district.
+
+So if the Tamil people work together, you can get 3 members in Colombo. The Colombo district had previously received 2 representations.
+
+We are not going to compete with anyone, but we do not need to flood the votes of others.Today, Colombo is heard by vain.
+
+Our party leader Douglas Devananda intends to obtain Tamil representation in Colombo and thereby solve the daily problems of the people of Colombo.
+
+Yall. Former Minister Douglas Devananda in the district has done various development programs.
+
+...
+
+[Data](articles/b1047378.json)
+
+[Extended Data](ext_articles/b1047378.ext.json)
 
 ---
 
@@ -2463,49 +2523,5 @@ The bird virus had spread among birds from 2020.
 [Data](articles/4c553804.json)
 
 [Extended Data](ext_articles/4c553804.ext.json)
-
----
-
-### Two disciples arrested for beef chrout
-
-*2024-10-31 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202756) · `si`
-
-Two men arrested for beef chutney theft. Police seize 210 million rupees and drugs. Raid in Piliyandala area. Suspects found with 310 kg heroin and 1 mg drugs. Motorcycles and lorries impounded.
-
-🟩
-
-Two major goalmen, alphabetical network, is the "Armomy" network of the "Armomy", or "Armom Kanhanka Wickramaratne, who is organized by the latest drug dealers, is alienated.
-
-Police have also seized over 210 million rupees and ice drugs.
-
-Police have arrested the suspects in a raid in the Piliyandala area on information received by the Army Intelligence.
-
-The arrested were 41-year-old Omalga Saman Kumara and 53 year old Kankanam Arachchige Sujeerai.
-
-The suspects were found in the stock of the suspects, 310 kilograms of heroin, and 1 milligrams of 310 milligrams and 1km drugs.
-
-Their motorcyclists and a lorry have also been taken into police custody.
-
-◼️
-
-[Data](articles/683e5183.json)
-
-[Extended Data](ext_articles/683e5183.ext.json)
-
----
-
-### Accomplice of ‘Army Chooty’ arrested with drugs worth over Rs. 210 mln
-
-*2024-10-31 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103053/accomplice-of-army-chooty-arrested-with-drugs-worth-over-rs-210-mln-) · `en`
-
-The Police Special Task Force (STF) has arrested an accomplice of the underworld figure know as “Army Chooty,” who is responsible for managing the drug operations of Nandun Chintaka Wickremaratne, also known as ‘Harak Kata’.
-
-The suspect was arrested while in possession of 6.910 kg of heroin and 1.17 kg of ‘ice’ drugs, also known as crystal methamphetamine, with an estimated street value exceeding Rs. 210 million, according to the STF.
-
-◼️
-
-[Data](articles/1b085fd7.json)
-
-[Extended Data](ext_articles/1b085fd7.ext.json)
 
 ---

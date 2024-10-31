@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 16:13:28**
+As of **2024-10-31 16:24:14**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 9,124
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,387 (100.0%) of 52,388 articles have been extended.
+52,388 (100.0%) of 52,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
 
-### ශ්‍රී ලාංකිකයන් වෙනුවෙන් චීනයෙන් වැඩි ඉඩක්
+### China is more likely for Sri Lankans
 
 *2024-10-31 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202772) · `si`
 
-ශ්‍රී ලංකාවේ නව රජයේ සංවර්ධන අවශ්‍යතා පිළිබඳ නව වසරේදී සම්පූර්ණ ඇගයීමක් සිදුකිරීමට චීන රජය කටයුතු කරන බව මෙරට චීන තානාපති Qi Zhenhong මහතා පවසයි.
+Sri Lanka-China relations strengthen. Chinese Ambassador assesses development needs. Education cooperation expands. Over 1000 Sri Lankans trained in China. China supports Sri Lanka's economic growth through loans and assistance. Debt restructuring progresses with Chinese creditors. Mutual trust fosters positive outcomes.
 
-ඔහු මේ බව ප්‍රකාශ කළේ චීන ආධාර යටතේ පුහුණුවූවන් වෙනුවෙන් කොළඹ ඊයේ (31) පැවති උත්සවයකට එක්වෙමිනි.
+🟩
 
-ඊට එක්වූ මුදල් අමාත්‍යාංශ ලේකම් මහින්ද සිරිවර්ධන මහතා පවසා සිටියේ මෙරට ණය ප්‍රතිකර්ම ක්‍රියාවලිය නුදුරේදීම අවසන් කර, ප්‍රමුඛතා ව්‍යාපෘති සඳහා නව මූල්‍යාධාර ලබාගැනීම යළි ආරම්භ කිරීමට හැකිවනු ඇති බවය.
+The Chinese Ambassador to the Chinese Ambassador to Sri Lanka is working to perform a full assessment in the New Year on the New Year's Development Needs of Sri Lanka.
 
-"ශ්‍රී ලංකාව සමග සියලු ක්ෂේත්‍රයන්හි අධ්‍යාපන සහයෝගිතාවක් පවත්වාගැනීම චීන රජය අතිශය වැදගත් කොට සලකනවා. වසර ගණනාවක් මුළුල්ලේ චීනයේ දී ශ්‍රී ලාංකිකයින් එවැනි විවිධ පුහුණු වැඩසටහන්වලට සහභාගී කරවීමට අපේ විදේශ ආධාර මුදල් යොදාගත්තා. මේ වසරේ ඔක්තෝබර් මාසය අවසන් වනවිට දහසකට වැඩි ශ්‍රී ලාංකිකයින් ප්‍රධාන ක්ෂේත්‍ර 17ක් ආවරණය කරන පුහුණු වැඩසටහන් සඳහා චීනයට ගොස් තිබෙනවා."
+He was speaking at a function held at a ceremony held in Colombo yesterday (31st).
+
+The Secretary to the Ministry of Finance Mahinda Siriwardena said that the country will be able to resume new financial assistance to priority projects.
+
+"The Government of the Chinese government is important to maintain a education cooperation in all areas with Sri Lanka. In China, Sri Lankans have used our foreign aid to participate in various training programs. At the end of October this year, more than a thousand Sri Lankans have gone to the training programs covering 17 main areas. "
 
 ...
 
 [Data](articles/2e96fbc5.json)
+
+[Extended Data](ext_articles/2e96fbc5.ext.json)
 
 ---
 

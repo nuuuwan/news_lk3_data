@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 15:58:57**
+As of **2024-10-31 16:13:28**
 
 ## Newspaper Stats
 
-*Scraped **52,387** Articles*
+*Scraped **52,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 4,874
 adaderanalk | 6,221
 tamilmirrorlk | 7,258
 virakesarilk | 8,456
-adaderanasinhalalk | 9,123
+adaderanasinhalalk | 9,124
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,385 (100.0%) of 52,387 articles have been extended.
+52,387 (100.0%) of 52,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### ශ්‍රී ලාංකිකයන් වෙනුවෙන් චීනයෙන් වැඩි ඉඩක්
+
+*2024-10-31 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202772) · `si`
+
+ශ්‍රී ලංකාවේ නව රජයේ සංවර්ධන අවශ්‍යතා පිළිබඳ නව වසරේදී සම්පූර්ණ ඇගයීමක් සිදුකිරීමට චීන රජය කටයුතු කරන බව මෙරට චීන තානාපති Qi Zhenhong මහතා පවසයි.
+
+ඔහු මේ බව ප්‍රකාශ කළේ චීන ආධාර යටතේ පුහුණුවූවන් වෙනුවෙන් කොළඹ ඊයේ (31) පැවති උත්සවයකට එක්වෙමිනි.
+
+ඊට එක්වූ මුදල් අමාත්‍යාංශ ලේකම් මහින්ද සිරිවර්ධන මහතා පවසා සිටියේ මෙරට ණය ප්‍රතිකර්ම ක්‍රියාවලිය නුදුරේදීම අවසන් කර, ප්‍රමුඛතා ව්‍යාපෘති සඳහා නව මූල්‍යාධාර ලබාගැනීම යළි ආරම්භ කිරීමට හැකිවනු ඇති බවය.
+
+"ශ්‍රී ලංකාව සමග සියලු ක්ෂේත්‍රයන්හි අධ්‍යාපන සහයෝගිතාවක් පවත්වාගැනීම චීන රජය අතිශය වැදගත් කොට සලකනවා. වසර ගණනාවක් මුළුල්ලේ චීනයේ දී ශ්‍රී ලාංකිකයින් එවැනි විවිධ පුහුණු වැඩසටහන්වලට සහභාගී කරවීමට අපේ විදේශ ආධාර මුදල් යොදාගත්තා. මේ වසරේ ඔක්තෝබර් මාසය අවසන් වනවිට දහසකට වැඩි ශ්‍රී ලාංකිකයින් ප්‍රධාන ක්ෂේත්‍ර 17ක් ආවරණය කරන පුහුණු වැඩසටහන් සඳහා චීනයට ගොස් තිබෙනවා."
+
+...
+
+[Data](articles/2e96fbc5.json)
+
+---
 
 ### LAHON BUYs the Ratwatte to Mirihana
 
@@ -318,19 +336,27 @@ Arrests in the Old Section of the Boossa High Security PrisonWith the loss of 15
 
 ---
 
-### பனை அபிவிருத்திச் சபையில் தேர்தல் சட்டங்கள் மீறப்பட்டுள்ளன - தேர்தல் ஆணைக்குழுவில் ட்ரான்ஸ்பேரன்சி இன்டர்நெஷனல் ஸ்ரீலங்கா முறைப்பாடு
+### Elections Laws in Palm Development Board have been violated - Transparency International Sri Lanka complaints in the Election Commission
 
 *2024-10-31 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197572) · `ta`
 
-தேர்தல் சட்டங்களுக்கு முரணான வகையில் அண்மையில் யாழ்ப்பாணத்தில் உள்ள பனை அபிவிருத்திச் சபையினால் (PDB) மேற்கொள்ளப்பட்ட நியமனங்கள் தொடர்பில், செவ்வாய்க்கிழமை ( 29 )  ட்ரான்ஸ்பேரன்சி இன்டர்நெஷனல் ஸ்ரீலங்கா (TISL) நிறுவனமானது, இலங்கை தேர்தல்கள் ஆணைக்குழுவிடம் (ECSL) முறைப்பாடு செய்துள்ளது.
+Transparency International Sri Lanka filed a complaint with the Election Commission about Palm Development Board appointments violating election laws. The board chairman was changed within 12 days, and new executives were appointed without commission approval. This undermines public trust and fair elections.
 
-ஒக்டோபர் 10 ஆம் திகதி அன்று பனை அபிவிருத்திச் சபையின் (PDB) தலைவர் பதவிக்கு செல்வின் இரேனியஸ் மரியாம்பிள்ளை நியமிக்கப்பட்டதோடு, அதைத் தொடர்ந்து 12 நாட்கள் இடைவெளியில் அவர் நீக்கப்பட்டு, அவருக்குப் பதிலாக விநாயகமூர்த்தி சகாதேவன், ஒக்டோபர் 22 அன்று அதே பதவிக்கு நியமிக்கப்பட்டார்.
+🟩
 
-மேலும், தேர்தல்கள் ஆணைக்குழு விதித்துள்ள தடைகளுக்கு மத்தியிலும் தலைவர்கள் மாற்றம் மற்றும் பல புதிய நிர்வாக சபை உறுப்பினர்களை நியமிப்பதற்கு பொறுப்பான அமைச்சர் அனுமதி அளித்துள்ளதாக தெரிவிக்கப்படுகிறது.
+Transparency International Sri Lanka (TISL) has lodged a complaint with the Sri Lanka Elections Commission (ECSL) on Tuesday (29) regarding appointments made by the Palm Development Board (PDB) in Jaffna in contrary to election laws.
+
+Selin Ireneus Mariampillai was appointed as Chairman of the Palm Development Board (PDB) on October 10 and was removed at 12 days following a period of 12 days, instead of Vinayagamoorthy Sahadevan, who was replaced on October 22.
+
+It is also reported that the Minister has given permission to appoint the leaders of the leaders and the appointment of several new executive councils despite the obstacles imposed by the Elections Commission.
+
+In the Gazette and Election Act issued by the Sri Lanka Elections Commission (ECSL) on September 25, it has clearly stated that any recruitment, appointments, promotions or transfers in state institutions during the election period, without the permission of the Elections Commission.
 
 ...
 
 [Data](articles/a2469a0b.json)
+
+[Extended Data](ext_articles/a2469a0b.ext.json)
 
 ---
 
@@ -1347,6 +1373,8 @@ The public appears to be pleased with most of the measures the President and the
 ...
 
 [Data](articles/21429c79.json)
+
+[Extended Data](ext_articles/21429c79.ext.json)
 
 ---
 
@@ -2389,21 +2417,5 @@ You can fill a jug with lemon juice mixed with water and use it to rinse your ha
 [Data](articles/9ac2e494.json)
 
 [Extended Data](ext_articles/9ac2e494.ext.json)
-
----
-
-### CIPM partners Vavuniya University for 5th Research Conference on Business Studies
-
-*2024-10-30 22:55:00* · [`islandlk`](http://island.lk/cipm-partners-vavuniya-university-for-5th-research-conference-on-business-studies/) · `en`
-
-CIPM Sri Lanka – the Nation’s leader in human resource management, was a conference partner at the recently concluded 5th Research Conference on Business Studies (RCBS) 2024 organized by the Faculty of Business Studies of the University of Vavuniya. Chartered Fellow Member of CIPM Sri Lanka and Board Member of the Human Resource & Remuneration Committee at the Central Bank of Sri Lanka – C. Hewapattini represented CIPM at this conference participating in the panel discussion titled “Unlocking Business Frontiers: Exploring Innovations and Knowledge Diffusion” which provided deep insights into the latest trends in business, management, and innovation.
-
-“As we unlock business frontiers, the question is no longer ‘What do you know?’ but ‘What can you do with what you know?’. Competence diffusion is the key to turning potential into performance,” said Hewapattini.
-
-...
-
-[Data](articles/a4ca0e97.json)
-
-[Extended Data](ext_articles/a4ca0e97.ext.json)
 
 ---

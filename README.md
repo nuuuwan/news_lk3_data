@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 21:24:11**
+As of **2024-10-31 21:40:08**
 
 ## Newspaper Stats
 
-*Scraped **52,419** Articles*
+*Scraped **52,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,882
-adaderanalk | 6,227
+adaderanalk | 6,228
 tamilmirrorlk | 7,268
 virakesarilk | 8,457
 adaderanasinhalalk | 9,130
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,419 (100.0%) of 52,419 articles have been extended.
+52,420 (100.0%) of 52,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Former state minister Lohan Ratwatte remanded
+
+*2024-10-31 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103076/former-state-minister-lohan-ratwatte-remanded) · `en`
+
+Former State Minister Lohan Ratwatte, who was arrested by Mirihana Police in Kandy, has been remanded until November 07 by the Nugegoda Additional Magistrate.
+
+Ratwatte, initially arrested in Kandy, was brought to the Mirihana Police Station before being presented to the magistrate this evening (31).
+
+Police said that the former state minister was arrested in Kandy over an incident of discovering an unregistered car at his wife’s house in the Mirihana area of Nugegoda.
+
+The car without registered number plates was found on October 26, 2024, according to police.
+
+Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters that there is a luxury car without number plates in a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
+
+...
+
+[Data](articles/443c79be.json)
+
+[Extended Data](ext_articles/443c79be.ext.json)
+
+---
 
 ### Matharage Pathirana retains CSK to a big amount
 
@@ -2433,39 +2455,5 @@ The program has taken steps to prevent the people inconvenienced due to the Deep
 [Data](articles/e3e5ed7d.json)
 
 [Extended Data](ext_articles/e3e5ed7d.ext.json)
-
----
-
-### Hindu devotees celebrates Dayapavali today
-
-*2024-10-31 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202753) · `si`
-
-Here's a 200-character summary:
-
-
-
-Hindu devotees worldwide celebrate Diwali today. The festival commemorates Lord Vishnu defeating darkness. President calls for unity during the celebration. Special trains run for the occasion.
-
-🟩
-
-The Hindu devotees around the world is celebrated today (31).
-
-The main place of Indian cultural events is considered a colorful and cultural feast of Hindu devotees.
-
-විෂ්ණු දෙවියන් නරගාසුරන් නමැති අසුරයා පරාජය කර ආලෝකය පැතිරවීම සිහිපත් කිරීම දීපාවලී උත්සවයේ අරමුණයි.
-
-The event is being celebrated by Hinduists to light their home lamps by wishing the dark and light.
-
-Meanwhile, President Anura Kumara Dissanayake says that this year's Deepavali ceremony is requested to take a precious ceremony of a new thought change.
-
-The President said that the time has come for the Sri Lankan nation that attempted to be divided by Deepavali ceremony.
-
-The President has said that the President will take the lead in launching the station to the political culture of the society, which is eliminated by the political culture of the society, which is eliminated, eating unfair, survival, conviction, and violence.
-
-...
-
-[Data](articles/9c58a5c3.json)
-
-[Extended Data](ext_articles/9c58a5c3.ext.json)
 
 ---

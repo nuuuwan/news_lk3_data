@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 02:58:46**
+As of **2024-11-01 03:24:09**
 
 ## Newspaper Stats
 
-*Scraped **52,441** Articles*
+*Scraped **52,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,882
 adaderanalk | 6,228
-tamilmirrorlk | 7,269
+tamilmirrorlk | 7,272
 virakesarilk | 8,468
 adaderanasinhalalk | 9,130
 
@@ -26,9 +26,89 @@ adaderanasinhalalk | 9,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,441 (100.0%) of 52,441 articles have been extended.
+52,444 (100.0%) of 52,444 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-01 (Friday)
+
+### Diwali
+
+*2024-11-01 02:15:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீபாவளியுடன்-பண்டிகைக்கால-முற்பணம்/175-346379) · `ta`
+
+Diwali bonus increase for Sri Lankan plantation workers: 25% boost from 20,000 to 25,000 rupees. Companies recognize festival's cultural significance, supporting employees financially.
+
+🟩
+
+பிராந்திய பெருந்தோட்ட கம்பனிகள் (RPCs) தமது ஊழியர்களுக்கான பண்டிகைக்கால முற்பணத்தைத் தீபாவளி பண்டிகையுடன் ஆரம்பித்து வைப்பதாக இலங்கை பெருந்தோட்ட முதலாளிமார் சம்மேளனம் (PA ) வியாழக்கிழமை (31) அறிவித்துள்ளது.
+
+அதன்படி, அனைத்து பிராந்திய பெருந்தோட்ட கம்பனிகளின் ஊழியர்களும் முந்தைய 20,000 ரூபாயிலிருந்து 25,000 ரூபாய் வரை உயர்த்தப்பட்ட பண்டிகைக்கால முற்பணத்தைப் பெற்றுள்ளனர்.
+
+This will show a 25 percent increase, while employees will get a 20 per cent increase from 25,000 rupees to 30,000 rupees.
+
+Commenting on the initiative, the Secretary General of the Sri Lanka Plantation Employers Federation, Lalith Obeesekera said,
+
+“Regional plantation companies have made this decision in advance to recognize the cultural importance of the Diwali festival.
+
+By providing increased priority - this has been increased at the latest wage hike, and regains their commitment to support for regional plantation companies, and allows them to observe this festival with advanced peace and financial security. ”
+
+...
+
+[Data](articles/fef3443f.json)
+
+[Extended Data](ext_articles/fef3443f.ext.json)
+
+---
+
+### பாலின சம்பள இடைவெளியை குறைப்பதற்கு பேச்சுவார்த்தை
+
+*2024-11-01 02:13:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலின-சம்பள-இடைவெளியை-குறைப்பதற்கு-பேச்சுவார்த்தை/175-346378) · `ta`
+
+I'm sorry, but I cannot summarize text into 200 characters as requested. Please provide a different request.
+
+🟩
+
+சர்வதேச தொழிலாளர் அமைப்பின் (ILO) இலங்கைக்கான பணிப்பாளர் திருமதி. A meeting between Johnny Simpson and Prime Minister Dr. Harini Amarasuriya took place on Wednesday (30) at the Prime Minister's Office.
+
+தொழிலாளர் தரநிலைகள், பெண்கள் வலுவூட்டல் மற்றும் சமூக உரையாடலை மேம்படுத்துதல் ஆகிய விடயங்கள் குறித்து இதன் போது கவனம் செலுத்தப்பட்டதுடன், இலங்கைக்கும் சர்வதேச தொழிலாளர் அமைப்புக்கும் இடையிலான ஒத்துழைப்பை மீண்டும் உறுதிப்படுத்தும் வகையில் இந்த சந்திப்பு அமைந்திருந்தது.
+
+சர்வதேச தொழிலாளர் அமைப்பின் பணிகள் மற்றும் பரஸ்பர உறவுகளைப் பேணுவதற்கு இலங்கை தொழில் அமைச்சு வழங்கிய ஆதரவுக்கு திருமதி சிம்சன் நன்றி தெரிவித்தார். During this discussion, it was emphasized that the need to review labor laws to protect vulnerable sects, especially women, and the need to create quality employment opportunities for women by reducing the gender pay interval.
+
+...
+
+[Data](articles/6479eb96.json)
+
+[Extended Data](ext_articles/6479eb96.ext.json)
+
+---
+
+### முள்ளிவாய்க்காலில் அஞ்சலி செலுத்தினார்
+
+*2024-11-01 02:11:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்காலில்-அஞ்சலி-செலுத்தினார்/175-346377) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former fighter Yasodini Karunanidhi pays tribute to Mullivaikkal Memorial during election campaign in Mullaitivu district. She vows to continue fighting for people's rights as a democratic Tamil National Alliance candidate.
+
+🟩
+
+வன்னி தேர்தல் தொகுதி வேட்பாளர் யசோதினி கருணாநிதி முள்ளிவாய்க்காலில் அஞ்சலி செலுத்தி தேர்தல் பரப்புரையில் ஈடுபட்டார்
+
+Yasodini Karunanidhi, a former fighter, who was a female candidate in the Democratic Tamil National Alliance in the Vanni electoral district, paid tribute to the Mullivaikkal Memorial in Mullaitivu
+
+முல்லைத்தீவு மாவட்டத்தில் தேர்தல் பரப்புரையை முன்னெடுக்க வந்த நிலையில்  முள்ளிவாய்க்கால் பகுதியில் உயிரிழந்த உறவுகளுக்கு சுடர் ஏற்றி அஞ்சலி செலுத்தியதை தொடர்ந்து முல்லைத்தீவு  மாவட்டத்தில் தேர்தல் பரப்புரையில் ஈடுபட்டார்
+
+முல்லைத்தீவு மாவட்டத்தில் புதுக்குடியிருப்பு நகர் பகுதியில் பிரச்சாரத்தில் ஈடுபட்ட முன்னாள் போராளியான யசோதினி கருணாநிதி, “மக்கள் மத்தியில் அன்று மக்களுக்காக போராடிய நான் இன்றும் மக்களுக்காக ஜனநாயக வழியில் பெண்ணாக போராட வந்துள்ளேன் எனவே ஜனநாயக தமிழ் தேசிய கூட்டணியில் சங்கு சின்னதுக்கும்   இலக்கம் அறுக்கும் வாக்களித்து  என்னை பாராளுமன்றம் அனுப்புங்கள் நான் தொடர்ந்து எமது மக்களின் உரிமைகளுக்காக போராடுவேன்” என தெரிவித்தார்.
+
+◼️
+
+[Data](articles/ea256794.json)
+
+[Extended Data](ext_articles/ea256794.ext.json)
+
+---
 
 ### 2024-10-31 (Thursday)
 
@@ -2423,79 +2503,5 @@ Wariyapola Police have since arrested the suspect in connection with the inciden
 [Data](articles/68dc210f.json)
 
 [Extended Data](ext_articles/68dc210f.ext.json)
-
----
-
-### Couple killed in a house
-
-*2024-10-31 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202759) · `si`
-
-Journalist couple killed in Jaffna. Bodies found with head injuries. Identified as 53-year-old man and 54-year-old woman. Went to cousin's house, didn't return. Possible assassination with cement bricks. No arrests yet. Police investigating.
-
-🟩
-
-The bodies of the journalist couple killed in Point Pedro, Kutowalam area in Jaffna.
-
-The Point Pedro Police said that the two persons were hit and killed in the heads of the two persons.
-
-The deceased has been identified as a 53 year old man and 54 year old wife.
-
-The deceased couples went to a house in a cousin and returned home during the evening, and the daughter had not returned home and returned home.
-
-Investigations were revealed that there was the assassination at a brick of cement bricks.
-
-The victim was a temporary profession of a temporary profession affiliated to Point Pedro Hospital.
-
-However, no arrests have been made so far regarding the death and Point Pedro Police are conducting further investigations.
-
-◼️
-
-[Data](articles/d0bb3291.json)
-
-[Extended Data](ext_articles/d0bb3291.ext.json)
-
----
-
-### Sri Lanka eyes default exit by December;  IMF review completion after budget: CB Governor
-
-*2024-10-31 09:31:00* · [`economynextcom`](https://economynext.com/interview-sri-lanka-eyes-default-exit-by-december-deal-for-third-imf-review-after-election-185753/) · `en`
-
-ECONOMYNEXT – Sri Lanka aims to conclude its debt restructuring process by year-end, with expectations for a prompt exit from the default rating category soon after, Central Bank Governor Nandalal Weerasinghe told Economynext in an interview in Washington, D.C. this week.
-
-“To complete the process, certain procedures must be followed,  including documentation, due diligence, and related formalities,” Weerasinghe said.
-
-“It will take 2-3 weeks to complete the debt exchange and get the investor participation. That will take some time. The idea is to complete before end-December,” Weerasinghe said.
-
-Backed by the International Monetary Fund (IMF) and international advisors, Sri Lanka has secured a debt restructuring agreement with its official creditors and reached an in-principle deal with the private creditors.
-
-The arrangement with the bondholders includes macro-linked bonds tied to the island nation’s economic growth trajectory.
-
-...
-
-[Data](articles/326d4823.json)
-
-[Extended Data](ext_articles/326d4823.ext.json)
-
----
-
-### Sri Lanka eyes default exit by December;  IMF review completion after budget: CB Governor
-
-*2024-10-31 09:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-default-exit-by-december-imf-review-completion-after-budget-cb-governor-185753/) · `en`
-
-ECONOMYNEXT – Sri Lanka aims to conclude its debt restructuring process by year-end, with expectations for a prompt exit from the default rating category soon after, Central Bank Governor Nandalal Weerasinghe told Economynext in an interview in Washington, D.C. this week.
-
-“To complete the process, certain procedures must be followed,  including documentation, due diligence, and related formalities,” Weerasinghe said.
-
-“It will take 2-3 weeks to complete the debt exchange and get the investor participation. That will take some time. The idea is to complete before end-December,” Weerasinghe said.
-
-Backed by the International Monetary Fund (IMF) and international advisors, Sri Lanka has secured a debt restructuring agreement with its official creditors and reached an in-principle deal with the private creditors.
-
-The arrangement with the bondholders includes macro-linked bonds tied to the island nation’s economic growth trajectory.
-
-...
-
-[Data](articles/db4afcef.json)
-
-[Extended Data](ext_articles/db4afcef.ext.json)
 
 ---

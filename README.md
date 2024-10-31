@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 00:57:05**
+As of **2024-11-01 01:09:24**
 
 ## Newspaper Stats
 
-*Scraped **52,438** Articles*
+*Scraped **52,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,882
 adaderanalk | 6,228
 tamilmirrorlk | 7,269
-virakesarilk | 8,467
+virakesarilk | 8,468
 adaderanasinhalalk | 9,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,438 (100.0%) of 52,438 articles have been extended.
+52,439 (100.0%) of 52,439 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -987,6 +987,30 @@ Colombo High Court Judge Mahesh Weeraman made the verdict yesterday (30)
 [Data](articles/aed5e65b.json)
 
 [Extended Data](ext_articles/aed5e65b.ext.json)
+
+---
+
+### Chapter for Sri Lanka's Debt Reorganization soon will be completed - Treasury Secretary Mahinda Siriwardena hope
+
+*2024-10-31 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/197594) · `ta`
+
+Sri Lanka's debt reorganization nearing completion, Treasury Secretary Mahinda Siriwardena says. Strong financial ties with China expected to resume, including new funding for key projects. China's support crucial for Sri Lanka's economic growth and infrastructure development. IMF compliance analysis ongoing, comparing international lenders' roles. Mutual trust between Sri Lanka and Chinese creditors seen as key to resolving challenges. Other creditors also assisting in debt restructuring process.
+
+🟩
+
+Sri Lanka hopes that the chapter for debt renovation will soon be completed. Treasury Secretary Mahinda Siriwardena said that there is also the expectation that a strong financial relationship, including new funding for high -quality and priority projects with China, is expected to resume.
+
+He said this while addressing the Chinese assistance training and alumni reception held in Colombo on Wednesday night in Colombo.
+
+Speaking further, we cannot forget that China's support for Sri Lanka has played an important role in the development of the country, especially in the field of infrastructure and economic aid.
+
+For years, China has invested billions of dollars in various projects, including ports. These investments are aimed at improving Sri Lanka's logistics capabilities and raising its position as a regional trade center.
+
+...
+
+[Data](articles/4bbfee27.json)
+
+[Extended Data](ext_articles/4bbfee27.ext.json)
 
 ---
 
@@ -2473,37 +2497,5 @@ The arrangement with the bondholders includes macro-linked bonds tied to the isl
 [Data](articles/db4afcef.json)
 
 [Extended Data](ext_articles/db4afcef.ext.json)
-
----
-
-### "Flood water came like a tsunami"
-
-*2024-10-31 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197558) · `ta`
-
-Flood waters rose rapidly like a tsunami, causing widespread damage and loss of life in Valencia, Spain. Heavy rains overwhelmed the city, turning streets into rivers and trapping vehicles. Emergency services responded quickly, but many were caught off guard due to delayed warnings.
-
-🟩
-
-நீர்மட்டம் அதிகரிக்க ஆரம்பித்தவேளை அது அலை போல வந்தது என்கின்றார்குயிலெர்மோ செரொனோ பெரெஸ் ( 21) .அது ஒரு சுனாமி என்கின்றார் அவர்.
-
-One of the victims of the floods in Valencia, Spain's Valencia province, and one of the victims of the floods have died so far.
-
-He was traveling with his parents in a vehicle on Tuesday and was hit by a rapidly rising flood.
-
-Due to heavy rains for several hours, many of their families were unaware of the speed of the flood.
-
-The Spanish Meteorological Department warned of rain floods in Valencia on Tuesday morning.
-
-The weather department later issued a red warning on social media that it would only take traffic if it was very urgent.
-
-Local authorities have been warned that there have been several warnings throughout the day, preventing people from moving towards the rivers.
-
-At 3 pm, the Regional Disaster Management Center was publishing pictures of heavy floods in areas like Labulunde Udil.
-
-...
-
-[Data](articles/31321318.json)
-
-[Extended Data](ext_articles/31321318.ext.json)
 
 ---

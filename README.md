@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 10:13:19**
+As of **2024-10-31 10:25:08**
 
 ## Newspaper Stats
 
-*Scraped **52,332** Articles*
+*Scraped **52,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 3,118
 economynextcom | 3,180
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,864
-adaderanalk | 6,210
+adalk | 4,865
+adaderanalk | 6,212
 tamilmirrorlk | 7,251
 virakesarilk | 8,442
-adaderanasinhalalk | 9,112
+adaderanasinhalalk | 9,113
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,332 (100.0%) of 52,332 articles have been extended.
+52,333 (100.0%) of 52,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### හිටපු ජනපතිවරුන්ගේ වරප්‍රසාද අහිමි කිරීම ගැන රනිල්ගෙන් ප්‍රකාශයක්
+
+*2024-10-31 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202760) · `si`
+
+හිටපු ජනාධිපතිවරුන්ට ලබා දී ඇති වරප්‍රසාද අහිමි කිරීම සිදුනොකළ යුතු බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+◼️
+
+[Data](articles/62a1e436.json)
+
+---
+
+### Maldivian President to visit Sri Lanka soon - envoy
+
+*2024-10-31 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103058/maldivian-president-to-visit-sri-lanka-soon-envoy) · `en`
+
+A meeting between Secretary to the President Dr. Nandika Sanath Kumanayake and High Commissioner of Maldives to Sri Lanka Masood Imad held at the Presidential Secretariat, on Wednesday (30).
+
+During their discussion, the High Commissioner conveyed the Maldivian President’s intention to visit Sri Lanka soon.
+
+They also explored ways to further enhance the long-standing friendship between the two nations, according to the President’s Media Division (PMD).
+
+The conversation touched on various areas of mutual interest, including the development of tourism, health, and education in both Maldives and Sri Lanka.
+
+Deputy High Commissioner of Maldives to Sri Lanka Mrs. Fathimath Ghina was also present at the meeting, it added.
+
+◼️
+
+[Data](articles/577fd82a.json)
+
+---
+
+### PM discusses foreign employment and investment with Italian Ambassador
+
+*2024-10-31 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103057/pm-discusses-foreign-employment-and-investment-with-italian-ambassador) · `en`
+
+Ambassador of Italy to Sri Lanka Damiano Francovigh has met with Prime Minister Dr. Harini Amarasuriya at the Prime Minister’s Office on Wednesday (30).
+
+The meeting reinforced the longstanding diplomatic relationship between Italy and Sri Lanka, with both parties discussing key areas for enhanced collaboration, the Prime Minister’s Media Division said in a statement.
+
+A primary focus of the meeting was on foreign employment opportunities in Italy, particularly the role of skilled migration, the statement added.
+
+Prime Minister Amarasuriya underscored the importance of training Sri Lankan migrant workers through the Vocational Training Authority to support this demand. Both sides emphasized the role of supportive policies in attracting tourists and investors, recognizing their contributions to the nation’s economic development, it said.
+
+...
+
+[Data](articles/5157769a.json)
+
+---
 
 ### No housing for Ministers in Colombo - President
 
@@ -147,6 +197,36 @@ Director of the Coconut Research Institute, Dr. Nayani Arachchige stated that to
 [Data](articles/921b46a0.json)
 
 [Extended Data](ext_articles/921b46a0.ext.json)
+
+---
+
+### Did the young woman come from 9th floor?Fallen?
+
+*2024-10-31 08:30:26* · [`adalk`](https://www.ada.lk/breaking_news/තරුණිය-9-වෙනි-මහලෙන්-පැන්නාද--වැටුණාද-/11-412768) · `si`
+
+Laura Imaasha Dennsi found dead 9th floor Upper Pool Narahenpita Mawatha. Security took photos 5th floor. Mother reported stress. TID OIC Inspector Hettiarachchi investigating.
+
+🟩
+
+Narahenpita Police say that a house architectural artman has been killed from the Upper Pool at the Upperlochology Complex at the Narahenpita Mawatha, Narahenpita Mawatha.
+
+The deceased has been identified as Laura Imaasha Dennsi, who was resident of Caldera Gadans, Colombo 8
+
+The deceased girl has also said that the security officers of the luxury flavors had to obtain a number of photos at the 5th floor of the apartment complex on the 9th floor of the apartment complex
+
+Investigations have further revealed that the deceased has been identified as the dead girl have been living alone in the rental base of the luxury apartment complex ago.
+
+She has said that her mother said before her mother police were using her deceased and was stressed
+
+After dating the judiciary reports, the court inspected a place in connection with the court regarding the death.
+
+Did the dead young girl drive from the bathing?The fallen?Investigations are carried out
+
+...
+
+[Data](articles/f09bcbe9.json)
+
+[Extended Data](ext_articles/f09bcbe9.ext.json)
 
 ---
 
@@ -2191,93 +2271,5 @@ For emergency assistance, the public is requested to contact local disaster mana
 [Data](articles/0922f654.json)
 
 [Extended Data](ext_articles/0922f654.ext.json)
-
----
-
-### Sri Lankan players from ODI rankings
-
-*2024-10-30 15:54:04* · [`adalk`](https://www.ada.lk/sports/එක්දින-ශ්‍රේණිගත-කිරීම්-හී-ශ්‍රී-ලාංකික-ක්‍රීඩකයන්ට-හිමි-වූ-ස්ථාන/9-412760) · `si`
-
-Sri Lankan cricket rankings update: Mahesh moves to 12th in ODI bowlers, Aluthnu advances two spots, Mehining drops 36 places. Charith Asalanka ranks 7th among batsmen.
-
-🟩
-
-The International Cricket Council has published the latest rankings of one-day cricketer.
-
-Accordingly, between the one-day bowlers, Sri Lanka's Maheh has been able to advance from one place to the 12th place.
-
-Aluthnu Hasara was able to advance two places in two locations.
-
-Mehining was insight into 36 places between three-day three-day and 39th places.
-
-Meanwhile, after the ODI batsmen, the 7th, and Charith is 12th in the 7th.
-
-◼️
-
-[Data](articles/c05f5532.json)
-
-[Extended Data](ext_articles/c05f5532.ext.json)
-
----
-
-### Colombo’s inflation drops to -0.8% in October 2024
-
-*2024-10-30 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103038/colombos-inflation-drops-to-08-in-october-2024) · `en`
-
-The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has decreased to -0.8% in October 2024, compared to -0.5% in September 2024, according to the latest data released by the Department of Census and Statistics.
-
-Meanwhile, food inflation has increased to 1.0% in October 2024 from -0.3% in September 2024 and the Year-on-Year inflation of Non-Food Group decreased to -1.6% in October 2024 from -0.5% in September 2024.
-
-The Colombo Consumer Price Index (CCPI) in October 2024 has decreased to 189.9 from 190.9 in September 2024.
-
-The Month-on-Month change was contributed by -0.20% from food and -0.33% from non-food, the report said.
-
-◼️
-
-[Data](articles/0ee1eeb0.json)
-
-[Extended Data](ext_articles/0ee1eeb0.ext.json)
-
----
-
-### A change in Colombo inflation
-
-*2024-10-30 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202734) · `si`
-
-Colombo inflation drops from -1.5% in September 2024 to 90.8% in October 2024. Food inflation rises from -1.3% to 1.0%, while non-food inflation decreases from -10.5% to 1.6%.
-
-🟩
-
-Colombo inflation recorded as - 01.5% of September 2024 has been reduced to 90.8% in October 2024.
-
-In October 2024, the annual inflation of food category has increased to 1.0% and in September 2024, it was reported as-01.3%.
-
-Non-food annual inflation has been reduced to 1.6% for October 2024, and September 2024 was reported to-10.5% in September 2024.
-
-The Department of Census and Statistics stated that the Colombo Consumer Price Index and the Consumer Install of the Colombo Municipal Community.
-
-◼️
-
-[Data](articles/c4e29b0a.json)
-
-[Extended Data](ext_articles/c4e29b0a.ext.json)
-
----
-
-### Gammanpila accuses govt of misusing the law, to launch public petition
-
-*2024-10-30 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103037/gammanpila-accuses-govt-of-misusing-the-law-to-launch-public-petition) · `en`
-
-Pivithuru Hela Urumaya (PHU) leader and former MP Udaya Gammanpila says that he plans to launch a campaign to collect signatures for a public petition, in order to inform the President of the public’s displeasure over the misuse of the law.
-
-Speaking at a press conference today (30), he criticized the government for retaining Secretary to the Ministry of Public Security Ravi Seneviratne and Shani Abeysekera, who he claims have been named as main accused in an investigative committee report on the Easter Sunday attacks.
-
-“Since the removal will not be done, we are hoping to sign a public petition to inform the president about people’s displeasure related to the misuse of the law by (NPP govt) during their first month in office, who criticized former presidents for misusing the law,” the former Minister added.
-
-...
-
-[Data](articles/1e451443.json)
-
-[Extended Data](ext_articles/1e451443.ext.json)
 
 ---

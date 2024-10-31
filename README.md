@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 18:00:56**
+As of **2024-10-31 18:20:59**
 
 ## Newspaper Stats
 
-*Scraped **52,404** Articles*
+*Scraped **52,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,878
-adaderanalk | 6,224
+adaderanalk | 6,225
 tamilmirrorlk | 7,265
 virakesarilk | 8,457
 adaderanasinhalalk | 9,125
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,125
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,404 (100.0%) of 52,404 articles have been extended.
+52,405 (100.0%) of 52,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### PM vows to summon ex-President Ranil to provide evidence on ‘bond scam’
+
+*2024-10-31 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103073/pm-vows-to-summon-ex-president-ranil-to-provide-evidence-on-bond-scam) · `en`
+
+Sri Lanka’s Prime Minister Dr. Harini Amarasuriya assures that former President Ranil Wickremesinghe will be summoned to provide evidence regarding the Central Bank bond scam in 2015.
+
+Addressing a public meeting of the National People’s Power (NPP), the Premier went on to say that the NPP-led government would initiate legal action against every person who misappropriated public funds.
+
+Commenting further, Dr. Amarasuriya added: “Ranil Wickremesinghe has claimed that I am not well versed in the Constitution and offered to teach me about it. Should I attend his lessons? He was rejected by the people 17 times, yet he refuses to give up. One of the major tenets of the Constitution is the sovereignty of the people. It is clear that Ranil Wickremesinghe has failed to grasp this concept.”
+
+...
+
+[Data](articles/2d5bf772.json)
+
+[Extended Data](ext_articles/2d5bf772.ext.json)
+
+---
 
 ### Drug recovery worth Rs.
 
@@ -2395,27 +2413,5 @@ Discussions were centred on the business visit of a 30-member delegation to Sri 
 [Data](articles/62d827d5.json)
 
 [Extended Data](ext_articles/62d827d5.ext.json)
-
----
-
-### Bore. மாவட்ட தேர்தல்கள் திணைக்கள அதிகாரிகளினால் சட்ட விதிமுறைகளை மீறும் வகையில் காட்சிப்படுத்தப்பட்ட விளம்பர பதாகைகள் அகற்றப்பட்டது
-
-*2024-10-31 04:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197553) · `ta`
-
-Elections Commission Batticaloa district officials remove campaign banners violating election laws
-
-🟩
-
-The Elections Commission's instructed elections were removed by the officials of the Batticaloa District Elections Department to violate the legislation.
-
-Batticaloa District Assistant Elections Commissioner and District Assistant Elections Officer MM SubiyanThe advertising banners of the displayed parties were removed on Wednesday (30).
-
-It is noteworthy that the Elections Department of the Elections Commission in the Batticaloa district elections in the Batticaloa district has been accused of continuous complaints to the District Elections Department due to the violation of the Elections Commission's Elections.
-
-◼️
-
-[Data](articles/04d25f78.json)
-
-[Extended Data](ext_articles/04d25f78.ext.json)
 
 ---

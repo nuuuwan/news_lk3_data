@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 18:48:11**
+As of **2024-10-31 18:35:27**
 
 ## Newspaper Stats
 
-*Scraped **52,408** Articles*
+*Scraped **52,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,879
+adalk | 4,878
 adaderanalk | 6,225
-tamilmirrorlk | 7,266
+tamilmirrorlk | 7,265
 virakesarilk | 8,457
 adaderanasinhalalk | 9,126
 
@@ -26,25 +26,11 @@ adaderanasinhalalk | 9,126
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,406 (100.0%) of 52,408 articles have been extended.
+52,406 (100.0%) of 52,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
-
-### காலிமுகத்திடலுக்கு அருகில் கோர விபத்து
-
-*2024-10-31 17:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலிமுகத்திடலுக்கு-அருகில்-கோர-விபத்து/175-346369) · `ta`
-
-காலிமுகத்திடலுக்கு அருகில் இன்று (31) பிற்பகல் முச்சக்கரவண்டி ஒன்று மோட்டார் சைக்கிள் மற்றும் கார் ஒன்றுடன் மோதியதில் 7 பேர் காயமடைந்துள்ளனர்.
-
-விபத்தில் முச்சக்கரவண்டியில் பயணித்த 05 பேரும் மோட்டார் சைக்கிளில் பயணித்த இருவரும் காயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/e8ae49f1.json)
-
----
 
 ### After November 14, there are no strich
 
@@ -115,22 +101,6 @@ Police Special Task Force (STF) recovered heroin from empty land in Sevanagala.
 [Data](articles/eaac4f65.json)
 
 [Extended Data](ext_articles/eaac4f65.ext.json)
-
----
-
-### බස් රථයේ දමා ගිය රුපියල් ලක්ෂ 15ක මුදල් තිබූ මුදල් පසුම්බිය ඇතුළු දෑ අයිතිකරුටම දෙයි
-
-*2024-10-31 17:19:49* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථයේ-දමා-ගිය-රුපියල්-ලක්ෂ-15ක-මුදල්-තිබූ-මුදල්-පසුම්බිය-ඇතුළු-දෑ-අයිතිකරුටම-දෙයි/11-412782) · `si`
-
-බස් රථයකදී නැතිවූ සංචාරක මඟ පෙන්වන්නෙකුට අයත් රුපියල් ලක්ෂ 15 කට අධික මුදලක් අඩංගු මුදල් පසුම්බිය ඇතුළු එහි අඩංගුව තිබූ ලිපි ලේඛන කිසිදු අඩුපාඩුවක් නොමැතිව ඔහු වෙත   භාර දුන් උතුම් මිනිසකු වන ගුවන් හමුදාවේ විශ්‍රාමික බලලත් නිලධාරියකු පිළිබඳ පුවතක්  කහතුඩුව පොලිසියෙන් වාර්තාවේ.
-
-සංචාරක මඟ පෙන්වන්නෙකු ලෙස රැකියාව කරන වැලිමඩ අඹගස්දෝව පදිංචි 33 හැවිරිදි  ඩි. එම්.  චින්තක ප්‍රියදර්ශන දිසානායක  ඉකුත් 27 වෙනිදින  බොරලැස්ගමුව  වේරහැර සිය සහෝදරයාගේ නිවසට ගොස් යළි පිළියන්දල කරා පැමිණීම සඳහා කොළඹ සිට හොරණ කරා ධාවනය වෙමින් තිබූ බස් රථයකට වේරහැර ප්‍රදේශයෙන් ගොඩවී තිබිණි.
-
-බස් රථයේ  අසුන්ගත් ඔහු පිළියන්දල කරා පැමිණ  බස් රථයෙන් බැස ගොස් තිබූ අතර මුදල් පසුම්බිය බස් රථයේ අසුන මත අමතකව දමා ගොස් තිබිණි.
-
-...
-
-[Data](articles/b3e9a115.json)
 
 ---
 
@@ -2421,5 +2391,37 @@ This event was a part of India’s assistance of $ 17 million aimed at installin
 [Data](articles/b826f20a.json)
 
 [Extended Data](ext_articles/b826f20a.ext.json)
+
+---
+
+### Commonwealth Union advocates for Appé Lanka’s grassroots efforts in Sri Lanka
+
+*2024-10-31 04:11:20* · [`dailyftlk`](https://www.ft.lk/news/Commonwealth-Union-advocates-for-Appé-Lanka-s-grassroots-efforts-in-Sri-Lanka/56-768641) · `en`
+
+Appé Lanka Founder Shaan Corea (left) with Commonwealth Union President and Presidential Envoy of Sri Lanka (2022-2024) Nirj Deva
+
+Commonwealth Union Ltd., has announced its partnership with the Appé Lanka Foundation, a rural development initiative focused on transforming the Poonakary region in Northern Sri Lanka.
+
+For the past eight years, Appé Lanka has made significant strides in improving local livelihoods and infrastructure, driven by a commitment to sustainability, empowerment, and unity. This partnership is a testament to Commonwealth Union’s dedication to Corporate Social Responsibility (CSR), supporting social impact without any financial gain. The goal is simple — to make a lasting, positive difference in these communities.
+
+...
+
+[Data](articles/4a996e84.json)
+
+[Extended Data](ext_articles/4a996e84.ext.json)
+
+---
+
+### US Embassy and Save the Children expand school nutrition program to urban Colombo schools
+
+*2024-10-31 04:07:19* · [`dailyftlk`](https://www.ft.lk/news/US-Embassy-and-Save-the-Children-expand-school-nutrition-program-to-urban-Colombo-schools/56-768640) · `en`
+
+US Ambassador Julie Chung visited Buwanekaba Primary School in Maharagama, Colombo, yesterday to observe the implementation of the US Department of Agriculture (USDA)-funded McGovern-Dole International Food for Education and Child Nutrition Program as it expands into Colombo-area schools this month. During her visit, Ambassador Chung met with students, teachers, parents, and school meal providers who shared how this program is positively impacting children’s health and academic success.
+
+...
+
+[Data](articles/220439f6.json)
+
+[Extended Data](ext_articles/220439f6.ext.json)
 
 ---

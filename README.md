@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 09:15:03**
+As of **2024-10-31 09:26:00**
 
 ## Newspaper Stats
 
-*Scraped **52,326** Articles*
+*Scraped **52,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,180
 dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,864
-adaderanalk | 6,206
+adaderanalk | 6,208
 tamilmirrorlk | 7,251
 virakesarilk | 8,442
 adaderanasinhalalk | 9,110
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,319 (100.0%) of 52,326 articles have been extended.
+52,323 (100.0%) of 52,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Decline in coconut production expected to last until April 2025
+
+*2024-10-31 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103054/decline-in-coconut-production-expected-to-last-until-april-2025) · `en`
+
+The Coconut Research Institute says that the decline in coconut production in the country is expected to persist until April of next year (2025).
+
+Its director, Nayani Arachchige noted a significant drop in coconut production in the country compared to last year, mainly due to the lack of timely rainfall and rising temperatures.
+
+She explained, “Some reduction is seen in the first three harvest cycles. There is a decrease in the coconut production this year mainly due to the two factors of low rainfall and high temperature in the coconut growing regions. Until April of next year, we will get a low harvest than expected.”
+
+Director of the Coconut Research Institute, Dr. Nayani Arachchige stated that to address the coconut shortage, a proposal regarding the import of coconut kernel for export purposes has been submitted.
+
+...
+
+[Data](articles/921b46a0.json)
+
+[Extended Data](ext_articles/921b46a0.ext.json)
+
+---
 
 ### Bird flu flu for first time in America
 
@@ -97,6 +117,28 @@ The suspect was arrested while in possession of 6.910 kg of heroin and 1.17 kg o
 [Data](articles/1b085fd7.json)
 
 [Extended Data](ext_articles/1b085fd7.ext.json)
+
+---
+
+### Accomplices of ‘Army Chooty’ arrested with drugs worth over Rs. 285 mln
+
+*2024-10-31 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103053/accomplices-of-army-chooty-arrested-with-drugs-worth-over-rs-285-mln-) · `en`
+
+The Police Special Task Force (STF) has arrested two accomplices of the underworld figure known as “Army Chooty,” who is responsible for managing the drug operations of Nandun Chintaka Wickremaratne, also known as ‘Harak Kata’.
+
+The suspects were arrested while in possession of 7.4 kg of heroin and 1.17 kg of ‘ice’ drugs, also known as crystal methamphetamine, with an estimated street value exceeding Rs. 285 million, according to the STF.
+
+Based on information provided by army intelligence, the Police Special Task Force (STF) personnel conducted a joint operation in Piliyandala, leading to a significant drug seizure and multiple arrests.
+
+The operation targeted key figures connected to the notorious drug and organized crime networks of “Hark Kata” and “Army Chooti,” revealing an extensive drug trafficking operation.
+
+During the raid, authorities apprehended two suspects linked to the network: 41-year-old Omalpage Dhammika Saman Kumara and 53-year-old Kankanam Arachchige Sujeewa.
+
+...
+
+[Data](articles/6f7b5c44.json)
+
+[Extended Data](ext_articles/6f7b5c44.ext.json)
 
 ---
 
@@ -1154,17 +1196,23 @@ Accordingly, taxes will be increased by 40 billion per year.
 
 ---
 
-### දුමරිය වර්ජනය පිළිබඳ දෙපාර්තමේන්තුවෙන් පැහැදිලි කිරීමක්
+### Dumariya strike an explanation from the department
 
 *2024-10-30 20:58:21* · [`adalk`](https://www.ada.lk/breaking_news/දුමරිය-වර්ජනය-පිළිබඳ-දෙපාර්තමේන්තුවෙන්-පැහැදිලි-කිරීමක්/11-412765) · `si`
 
-දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය විසින් ආරම්භ කර ඇති වර්ජනය සම්බන්ධයෙන් දුම්රිය දෙපාර්තමේන්තුව මගින් නිවේදනයක් නිකුත් කර තිබේ.
+Railway Station Association strike: Department issues statement. Committee formed to address Station Masters' concerns.
 
-දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය මුහුණ දෙන ගැටලු විසදිම වෙනුවෙන් කමිටුවක් පත්කර එහි නිර්දේශ ලබන 08දාට පෙර ලබාදිමට උපදෙස් දී තිබියදි මෙම වෘත්තිය ක්‍රියාමාර්ගය ආරම්භ කර ඇතැයි එම දෙපාර්තමේන්තුව පවසයි.
+🟩
+
+The Railways has issued a statement regarding the strike initiated by the Railway Station Association.
+
+The procedure action has been launched in advance to appoint a committee to resolve the problems faced by the Station Masters Association.
 
 ◼️
 
 [Data](articles/dcfb7aed.json)
+
+[Extended Data](ext_articles/dcfb7aed.ext.json)
 
 ---
 
@@ -2235,55 +2283,5 @@ He was speaking at a public rally in Pannala, he said.
 [Data](articles/52feb07f.json)
 
 [Extended Data](ext_articles/52feb07f.ext.json)
-
----
-
-### A leak from the port of Kolonnawa
-
-*2024-10-30 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202731) · `si`
-
-Kolonnawa fuel leak: Explosion damages JET A1 tube near railway. Police inspect site. 33,000V power lines affected. Oil spill contained. Repairs underway.
-
-🟩
-
-Fuel is currently in spreading due to the explosion of a fuel tube in Kolonnawa completes the Ceylon Petroleum Corporation.
-
-It is reported that the oil leak is reported to be damaged by JET A1, a fuel tube that is located near the railway line from the Colombo port.
-
-The police inspection was observed at the local inspection of the Kolonnawa finishing in the Kolonnawa finish.
-
-There are a 33,000 volt power wiring system and houses in this fuel tube.
-
-The fuel leaks is being removed through an oil bowl of the Petroleum Corporation.
-
-In the meantime, officials are being repairs on the tube.
-
-◼️
-
-[Data](articles/f5cab6ab.json)
-
-[Extended Data](ext_articles/f5cab6ab.ext.json)
-
----
-
-### Arrested
-
-*2024-10-30 14:38:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடு-தேவி-கைது/175-346321) · `ta`
-
-Woman arrested for distributing drugs; STF seizes Rs 24 lakh worth of ice drugs; linked to organized crime and international drug trafficking.
-
-🟩
-
-The 32 -year -old woman, also known as 'Kudu Devi', said that he hails from Beliyagoda, police said.
-
-The woman was arrested on Wednesday (30) by the Special Task Force (STF) for the police, with ice drugs worth Rs 24 lakh.
-
-Investigations have been found that the woman is currently distributing narcotics in Sri Lanka by organized crimes and drug traffickers Ganemulla Sanjeewa and the present drug trafficker Kalana Nematta abroad.
-
-◼️
-
-[Data](articles/970536f6.json)
-
-[Extended Data](ext_articles/970536f6.ext.json)
 
 ---

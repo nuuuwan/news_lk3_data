@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 10:25:08**
+As of **2024-10-31 10:40:14**
 
 ## Newspaper Stats
 
@@ -26,21 +26,31 @@ adaderanasinhalalk | 9,113
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,333 (100.0%) of 52,336 articles have been extended.
+52,336 (100.0%) of 52,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
 
-### හිටපු ජනපතිවරුන්ගේ වරප්‍රසාද අහිමි කිරීම ගැන රනිල්ගෙන් ප්‍රකාශයක්
+### Ranil's statement on losing the privileges of former chiefs
 
 *2024-10-31 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202760) · `si`
 
-හිටපු ජනාධිපතිවරුන්ට ලබා දී ඇති වරප්‍රසාද අහිමි කිරීම සිදුනොකළ යුතු බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Here's a summary of the statement in 200 characters:
+
+
+
+Former President Ranil Wickremesinghe argues against granting privileges to ex-presidents without proper consideration. He believes such decisions should be made thoughtfully rather than hastily.
+
+🟩
+
+Former President Ranil Wickremesinghe says that the privileges given to former presidents should not be made without doing.
 
 ◼️
 
 [Data](articles/62a1e436.json)
+
+[Extended Data](ext_articles/62a1e436.ext.json)
 
 ---
 
@@ -62,6 +72,8 @@ Deputy High Commissioner of Maldives to Sri Lanka Mrs. Fathimath Ghina was also 
 
 [Data](articles/577fd82a.json)
 
+[Extended Data](ext_articles/577fd82a.ext.json)
+
 ---
 
 ### PM discusses foreign employment and investment with Italian Ambassador
@@ -79,6 +91,8 @@ Prime Minister Amarasuriya underscored the importance of training Sri Lankan mig
 ...
 
 [Data](articles/5157769a.json)
+
+[Extended Data](ext_articles/5157769a.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 23:24:25**
+As of **2024-10-31 23:59:46**
 
 ## Newspaper Stats
 
-*Scraped **52,432** Articles*
+*Scraped **52,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 414
 colombotelegraphcom | 532
 bbccomsinhala | 535
 islandlk | 3,119
-economynextcom | 3,181
+economynextcom | 3,187
 dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,882
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,432 (100.0%) of 52,432 articles have been extended.
+52,438 (100.0%) of 52,438 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,28 @@ Police had found the luxury car in question during an inspection carried out bas
 [Data](articles/443c79be.json)
 
 [Extended Data](ext_articles/443c79be.ext.json)
+
+---
+
+### Sri Lanka’s CPC reduces Octane 95, super diesel prices by 6 rupees
+
+*2024-10-31 21:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-cpc-reduces-octane-95-super-diesel-prices-by-6-rupees-185788/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-owned Ceylon Petroleum Corporation (CPC) announced a price reduction of 6 rupees in both Octane 95 and Super Diesel with effect from midnight of October 31.
+
+The price of Octane 95 petrol was reduced by 6 rupees to 377 rupees, while Super Diesel also reduced by the same margin to 313 rupees.
+
+Cabinet Spokesman Vijitha Herath last month said the price revision for October was done in a different way deviating from usual price formula method.
+
+The CPC kept the prices of Octane 92 petrol, normal diesel, and kerosene oil unchanged from the previous month prices.
+
+Price of Octane 92 was left unchanged at 311 rupees, normal diesel at 283, and kerosene at 183 rupees. (Colombo/October 31/2024)
+
+◼️
+
+[Data](articles/f91cf713.json)
+
+[Extended Data](ext_articles/f91cf713.ext.json)
 
 ---
 
@@ -130,6 +152,26 @@ Also, the price of a liter of kerosene, which was Rs.183, remains intact.
 
 ---
 
+### Sri Lanka’s CMG appoints Lalith Fernando as GFD
+
+*2024-10-31 20:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-cmg-appoints-lalith-fernando-as-gfd-185784/) · `en`
+
+Sri Lanka’s Capital Maharaja Group (CMG) has appointed Lalith Fernando as Group Finance Director (GFD), the said in a statement.
+
+“Bringing over three decades of finance and business operations experience across diverse sectors, both locally and internationally, Lalith’s appointment marks another step in CMG’s strategic growth as it approaches its centenary,” the CMG said.
+
+Fernando is a Fellow of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) and was a Past President of the Association of Accounting Technicians (AAT) Sri Lanka.
+
+His academic credentials include an MBA from the Postgraduate Institute of Management (PIM), University of Sri Jayewardenepura, and a Master’s in Financial Economics from the University of Colombo. (Colombo/October 31/2024)
+
+◼️
+
+[Data](articles/dd84fafd.json)
+
+[Extended Data](ext_articles/dd84fafd.ext.json)
+
+---
+
 ### Matharage Pathirana retains CSK to a big amount
 
 *2024-10-31 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202782) · `si`
@@ -149,6 +191,28 @@ The Sri Lankan currency was equal to Rs. 1.56 million.
 [Data](articles/8a9fa64f.json)
 
 [Extended Data](ext_articles/8a9fa64f.ext.json)
+
+---
+
+### China becomes top foreign trainer for Sri Lanka’s public sector
+
+*2024-10-31 20:13:00* · [`economynextcom`](https://economynext.com/china-becomes-top-foreign-trainer-for-sri-lankas-public-sector-185781/) · `en`
+
+ECONOMYNEXT – China has given the maximum number of training opportunities for Sri Lanka’s public sector employees across key sectors,the island nation’s Finance Secretary Mahinda Siriwardana said.
+
+He said in his address at the first China Aid Training Alumni Reception held on Wednesday (30) showcasing the human resources cooperation between the two countries.
+
+“China is the government that offers maximum number of training opportunities to Sri Lanka,” Siriwardana said at the event organized by the Chinese Embassy in Sri Lanka.
+
+“We have noted that, since its initiation, China has provided more than 8,000 training opportunities in various fields such as health, education, industry, and construction for public sector officials in Sri Lanka. It is impressive that Sri Lanka now receives nearly 1,000 training programs each year from the Chinese government.
+
+”Since the end of a 26-year conflict in 2009, China has increased its aid to Sri Lanka in human development.
+
+...
+
+[Data](articles/f417363c.json)
+
+[Extended Data](ext_articles/f417363c.ext.json)
 
 ---
 
@@ -321,6 +385,26 @@ Today (31). 3.40ට පිටත් වූ රුහුණු කුමාරි
 [Data](articles/e419ba11.json)
 
 [Extended Data](ext_articles/e419ba11.ext.json)
+
+---
+
+### US tech firm invests $8.5 mln in Sri Lanka with relocating of SHIELD from China
+
+*2024-10-31 18:41:00* · [`economynextcom`](https://economynext.com/us-tech-firm-invests-8-5-mln-in-sri-lanka-with-relocating-of-shield-from-china-185776/) · `en`
+
+ECONOMYNEXT – American engineering technology group Transdigm Group has invested $8.5 million in Sri Lanka in a joint venture with locally operating AmSafe BirdPort to provide engineering solutions for global aviation services, the Board of Investment (BOI) said.
+
+The new investment saw the launch of a new factory SHIELD in the island nation’s Western investment zone of Wathupitiwala. With the new investment SHIELD has shifted to Sri Lanka from China, BOI officials said.
+
+The foundation stone for the factory was laid on Thursday (31) in the investment zone.
+
+“SHIELD’s decision to shift its facility in China to establish a manufacturing facility here in Sri Lanka is a testament to the growing interest of U.S. investment in Sri Lanka,” U.S. Ambassador Julie Chung said in her remarks after the launch of SHIELD in Sri Lanka.  #
+
+...
+
+[Data](articles/c85e7fcf.json)
+
+[Extended Data](ext_articles/c85e7fcf.ext.json)
 
 ---
 
@@ -839,6 +923,26 @@ So there are no more development in the Tamil people living in the Colombo distr
 [Data](articles/c239ed65.json)
 
 [Extended Data](ext_articles/c239ed65.ext.json)
+
+---
+
+### Sri Lanka corruption watchdog complains to EC over new appointments in PDB
+
+*2024-10-31 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-corruption-watchdog-complains-to-ec-over-new-appointments-in-pdb-185772/) · `en`
+
+ECONOMYNEXT – Transparency International Sri Lanka (TISL), a local corruption watchdog, has formally filed a complaint over appointment into Palmyrah Development Board (PDB) during the election campaign period, citing the move as violating the election laws.
+
+The recent appointments made at the PDB in Jaffna “appear to contravene current election laws”, TISL said, citing that the ruling party has approved swift changes in several new board members as well as chairman twice within the gap of 12 days.
+
+The election law prevents making new appointments, promotions, or transfers during the election period without prior approval from the Election Commission.
+
+“The recent changes at the PDB raise serious concerns about compliance with these legal standards and call into question the governance practices upheld during this sensitive period,” the TISL said in a statement.
+
+...
+
+[Data](articles/f50ccf17.json)
+
+[Extended Data](ext_articles/f50ccf17.ext.json)
 
 ---
 
@@ -2350,6 +2454,28 @@ The arrangement with the bondholders includes macro-linked bonds tied to the isl
 
 ---
 
+### Sri Lanka eyes default exit by December;  IMF review completion after budget: CB Governor
+
+*2024-10-31 09:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-default-exit-by-december-imf-review-completion-after-budget-cb-governor-185753/) · `en`
+
+ECONOMYNEXT – Sri Lanka aims to conclude its debt restructuring process by year-end, with expectations for a prompt exit from the default rating category soon after, Central Bank Governor Nandalal Weerasinghe told Economynext in an interview in Washington, D.C. this week.
+
+“To complete the process, certain procedures must be followed,  including documentation, due diligence, and related formalities,” Weerasinghe said.
+
+“It will take 2-3 weeks to complete the debt exchange and get the investor participation. That will take some time. The idea is to complete before end-December,” Weerasinghe said.
+
+Backed by the International Monetary Fund (IMF) and international advisors, Sri Lanka has secured a debt restructuring agreement with its official creditors and reached an in-principle deal with the private creditors.
+
+The arrangement with the bondholders includes macro-linked bonds tied to the island nation’s economic growth trajectory.
+
+...
+
+[Data](articles/db4afcef.json)
+
+[Extended Data](ext_articles/db4afcef.ext.json)
+
+---
+
 ### "Flood water came like a tsunami"
 
 *2024-10-31 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197558) · `ta`
@@ -2379,145 +2505,5 @@ At 3 pm, the Regional Disaster Management Center was publishing pictures of heav
 [Data](articles/31321318.json)
 
 [Extended Data](ext_articles/31321318.ext.json)
-
----
-
-### Two Indians arrested in Eravur
-
-*2024-10-31 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197554) · `ta`
-
-Two Indian sisters arrested in Eravur, Sri Lanka for illegal visa stay and business activities. Police action taken to bring them to court.
-
-🟩
-
-Eravur police said that two sisters of Tamil Nadu Madurai, who were illegally staying on a visa visa from India to Sri Lanka, were arrested on Wednesday (30).
-
-On Wednesday evening, when the police surrounded a house in the Eravur Dalavai area on Wednesday evening, the police arrested two persons who were illegally staying in Tamil Nadu Madurai without any identity documents.
-
-The arrested were arrested by the 38 -year -old Balakrishnan Rajeswari and his brother, 51 -year -old Jayasundaram Dharmara.
-
-இவர்கள் இருவரும் சகோதர்கள் எனவும் கடந்த ஜூன் மாதம் சுற்றுலா விசாவில் இலங்கைக்கு வந்து குறித்த பகுதியில் தங்கியிருந்து புடவை வியாபாரத்தில் ஈடுபட்டுவந்துள்ளனர் எனவும் இவர்களை நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் பொலிசார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/c6b499a6.json)
-
-[Extended Data](ext_articles/c6b499a6.ext.json)
-
----
-
-### Towards Stability, Equity & Prosperity: Part III
-
-*2024-10-31 09:26:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-stability-equity-prosperity-part-iii/) · `en`
-
-The public appears to be pleased with most of the measures the President and the interim Cabinet have taken in this regard. Yet there is much more to be done. The recent allegations made against the NPP that its economic policy framework envisages a protectionist economy is also baseless. Ensuring food, energy and water security does not require an economy to be protectionist. Many developed and neo-liberal economies that are said to be open, have resorted to such economic strategies.
-
-...
-
-[Data](articles/21429c79.json)
-
-[Extended Data](ext_articles/21429c79.ext.json)
-
----
-
-### President says to eliminate rural poverty
-
-*2024-10-31 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202758) · `si`
-
-Sri Lanka's president vows to end rural poverty, emphasizing local representation over urban focus. Government prioritizes serving rural communities over providing housing in Colombo. Ministers encouraged to engage directly with villagers to address issues.
-
-🟩
-
-President Anura Kumara Dissanayake says the main function of the present government is to eliminate rural poverty.
-
-The President shows that the government does not take action to provide houses in Colombo to any of the next Parliament.
-
-President Anura Kumara Dissanayake said that the ministers should be close to them in order to serve the people.
-
-"A cabinet and government converting the role of the role of Sri Lanka and a government is built on November 14th. People want to build close public leaders to remedy the problems of the people everyday district. Not the leaders of the people. Not the leaders in Colombo. That is why no minister has no houses from Colombo. The government does not give. Come to the village, see the village's questions. This work is added to the people and do this. Governments in Sri Lanka have not made. The government that eliminates our leading role rural poorest. "
-
-...
-
-[Data](articles/a2c04933.json)
-
-[Extended Data](ext_articles/a2c04933.ext.json)
-
----
-
-### Decline in coconut production expected to last until April 2025
-
-*2024-10-31 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103054/decline-in-coconut-production-expected-to-last-until-april-2025) · `en`
-
-The Coconut Research Institute says that the decline in coconut production in the country is expected to persist until April of next year (2025).
-
-Its director, Nayani Arachchige noted a significant drop in coconut production in the country compared to last year, mainly due to the lack of timely rainfall and rising temperatures.
-
-She explained, “Some reduction is seen in the first three harvest cycles. There is a decrease in the coconut production this year mainly due to the two factors of low rainfall and high temperature in the coconut growing regions. Until April of next year, we will get a low harvest than expected.”
-
-Director of the Coconut Research Institute, Dr. Nayani Arachchige stated that to address the coconut shortage, a proposal regarding the import of coconut kernel for export purposes has been submitted.
-
-...
-
-[Data](articles/921b46a0.json)
-
-[Extended Data](ext_articles/921b46a0.ext.json)
-
----
-
-### Couple killed by a stone and murdered
-
-*2024-10-31 08:55:12* · [`adalk`](https://www.ada.lk/breaking_news/ගලකින්-පහරදී-අඹුසැමි-යුවල-ඝාතනය-කරලා/11-412769) · `si`
-
-A couple was found dead in Point Pedro, Jaffna. The bodies showed signs of assault with concrete stones. Police investigation ongoing.
-
-🟩
-
-Point Pedro, a couple was found in a house in Point Pedro in Point Pedro, Jaffna was found yesterday (30).
-
-Due to a friend of the deceased husband, a phone call was not responding to his home this morning, the neighbors have noticed that the bodies of the couple informed.
-
-The neighbors then informed the Point Pedro and Pointyasa and Pointleyasa Magistrate and the death inspection was carried out.
-
-The husband has also been revealed that the dead husband was a killy laundry washing washed at Point Pedro.
-
-Police have found several concrete stones suspected to be assaulted near the couple of the dead couple and the police suspect that the stones were assaulted.
-
-The victim is the 54-year-old moniccasm Sublyium and his wife, 53, 53-year-old Mary Subramaniam, is conducting further investigations.
-
-◼️
-
-[Data](articles/ad00e976.json)
-
-[Extended Data](ext_articles/ad00e976.ext.json)
-
----
-
-### Did the young woman come from 9th floor?Fallen?
-
-*2024-10-31 08:30:26* · [`adalk`](https://www.ada.lk/breaking_news/තරුණිය-9-වෙනි-මහලෙන්-පැන්නාද--වැටුණාද-/11-412768) · `si`
-
-Laura Imaasha Dennsi found dead 9th floor Upper Pool Narahenpita Mawatha. Security took photos 5th floor. Mother reported stress. TID OIC Inspector Hettiarachchi investigating.
-
-🟩
-
-Narahenpita Police say that a house architectural artman has been killed from the Upper Pool at the Upperlochology Complex at the Narahenpita Mawatha, Narahenpita Mawatha.
-
-The deceased has been identified as Laura Imaasha Dennsi, who was resident of Caldera Gadans, Colombo 8
-
-The deceased girl has also said that the security officers of the luxury flavors had to obtain a number of photos at the 5th floor of the apartment complex on the 9th floor of the apartment complex
-
-Investigations have further revealed that the deceased has been identified as the dead girl have been living alone in the rental base of the luxury apartment complex ago.
-
-She has said that her mother said before her mother police were using her deceased and was stressed
-
-After dating the judiciary reports, the court inspected a place in connection with the court regarding the death.
-
-Did the dead young girl drive from the bathing?The fallen?Investigations are carried out
-
-...
-
-[Data](articles/f09bcbe9.json)
-
-[Extended Data](ext_articles/f09bcbe9.ext.json)
 
 ---

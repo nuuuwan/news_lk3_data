@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 13:40:25**
+As of **2024-10-31 13:59:32**
 
 ## Newspaper Stats
 
-*Scraped **52,369** Articles*
+*Scraped **52,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,33 @@ dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,870
 adaderanalk | 6,218
-tamilmirrorlk | 7,257
-virakesarilk | 8,449
+tamilmirrorlk | 7,258
+virakesarilk | 8,452
 adaderanasinhalalk | 9,121
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,369 (100.0%) of 52,369 articles have been extended.
+52,372 (100.0%) of 52,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### பாறை குழிக்குள் கார் : குடும்பஸ்தர் மரணம்
+
+*2024-10-31 13:44:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாறை-குழிக்குள்-கார்-குடும்பஸ்தர்-மரணம்/175-346360) · `ta`
+
+60 அடி ஆழமான பாறை குழிக்குள் காரொன்று விழுந்ததில்  குடும்பஸ்தர்  ஒருவர்  உயிரிழந்துள்ள சம்பவம் வியாழக்கிழமை (31) அதிகாலை ஆனமடுவ பிரதேசத்தில் இடம்பெற்றுள்ளது.
+
+விபத்தில் உயிரிழந்த நபர்  விவசாயி என தெரியவந்துள்ளது. இது தொடர்பான மேலதிக விசாரணைகளை பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/e1741d2d.json)
+
+---
 
 ### Dilith does not even know the simple notion of Vijitha Economics
 
@@ -59,6 +73,62 @@ The leader of the universal authority (Gampaha District candidate) entrepreneurs
 [Data](articles/b06d9c3a.json)
 
 [Extended Data](ext_articles/b06d9c3a.ext.json)
+
+---
+
+### JVP is involved in the murder of former President Chandrika's husband - Ranil
+
+*2024-10-31 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197577) · `ta`
+
+JVP accused in Chandrika's husband murder. Former President Ranil claims JVP involved in assassination. Government withdraws individuals given to Mahinda Rajapaksa. JVP's involvement due to eye bomb blast. Both worked together supporting Maithripala Sirisena. Mahinda lost support but remains unsafe. Focus on safety rather than war claim.
+
+🟩
+
+Former President Ranil Wickremesinghe has said that the JVP is involved in the assassination of her husband Chandrika Kumaratunga.
+
+Ranil Wickremesinghe said this while commenting on the government's decision to withdraw the individuals given to former President Chandrika Kumaratunga Mahinda Rajapaksa.
+
+JVP's involvement in the murder of former President Chandrika Kumaratunga's husband Vijayakumaratunga has been affected by an eye bomb blast.
+
+He never supported me, and we both worked together to support Maithripala Sirisena.
+
+Former President Mahinda Rajapaksa has lost his support, but it is another matter;Cannot reduce his safety. When he says he was the end of the war, he should focus on his safety.
+
+◼️
+
+[Data](articles/a6b5ad48.json)
+
+[Extended Data](ext_articles/a6b5ad48.ext.json)
+
+---
+
+### The face of JVP comes out: Tamil people should think - Surendran
+
+*2024-10-31 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197566) · `ta`
+
+JVP faces controversy over unfulfilled promises. Former leader Anura Kumara Dissanayake failed to deliver on campaign vows. Tamil people urged to remain vigilant against false change. Political justice remains elusive for Tamils despite JVP's election.
+
+🟩
+
+Relo's media spokesman and Democratic Tamil National Alliance (TNA) candidate Gurusamy Surendran said the Tamil people should think and act as the JVP's past faces come out.
+
+He was speaking at a major propaganda meeting of the Democratic Tamil National Alliance (TNA) held at the Anaikkottai Chakkattu area on Wednesday (30).
+
+The JVP has forgotten the decree issued by the JVP's presidential candidate to the people.
+
+Those who said they were going to change have begun to show the old faces of JVP, unable to make the expected change.
+
+The current president, Anura Kumara Dissanayake, has issued a promise of presidential meetings as a presidential candidate to abolish the Terrorism Act.
+
+Those who claimed that they would be arrested within 24 hours when the Central Bank bailbage of the past mass corruption scandal, did not arrest the bribery corruption.
+
+With the present parliamentary election, they have launched an inquiry into the Sunday attack on the bailout fraud.
+
+...
+
+[Data](articles/f0e37dde.json)
+
+[Extended Data](ext_articles/f0e37dde.ext.json)
 
 ---
 
@@ -177,6 +247,32 @@ The police suspect that no one had been damaged by shooting and the shooting was
 [Data](articles/371217f5.json)
 
 [Extended Data](ext_articles/371217f5.ext.json)
+
+---
+
+### Ranil, who has been rejected by the public many times, is he going to teach me about the constitution?Harini
+
+*2024-10-31 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/197573) · `ta`
+
+Former President Ranil Wickremesinghe faces criticism from Prime Minister Harini Amarasuriya over his political failures. Amarasuriya questions Wickremesinghe's ability to teach the constitution, citing his rejection by the public. She emphasizes the need for leaders to understand governance and avoid destructive political practices.
+
+🟩
+
+Prime Minister Harini Amarasuriya has questioned whether the former President Ranil Wickremesinghe, who has failed many times in his constituency, has been rejected by the public.
+
+Ranil Wickremesinghe is not saying goodbye to politics but continues to hang in his politics.
+
+He has rejected himself that people have changed.
+
+Harini Amarasuriya has said that Ranilvikramasinghe should know these basics if I teach the Constitution if I teach the Constitution.
+
+He said that Sri Lanka was destroyed by the leaders who were aware that they knew nothing of themselves and that the government was trying to end such political culture.
+
+◼️
+
+[Data](articles/a02c236d.json)
+
+[Extended Data](ext_articles/a02c236d.ext.json)
 
 ---
 
@@ -796,7 +892,7 @@ However, no arrests have been made so far regarding the death and Point Pedro Po
 
 ---
 
-### INTERVIEW – Sri Lanka eyes default exit by December; deal for third IMF review after election
+### Sri Lanka eyes default exit by December;  IMF review completion after budget: CB Governor
 
 *2024-10-31 09:31:00* · [`economynextcom`](https://economynext.com/interview-sri-lanka-eyes-default-exit-by-december-deal-for-third-imf-review-after-election-185753/) · `en`
 
@@ -2229,113 +2325,5 @@ The procedure action has been launched in advance to appoint a committee to reso
 [Data](articles/dcfb7aed.json)
 
 [Extended Data](ext_articles/dcfb7aed.ext.json)
-
----
-
-### Bangladesh lost 4 wickets for 28 runs in the next 53 balls with 10 runs in one ball;South Africa
-
-*2024-10-30 20:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197547) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Bangladesh lost 4 wickets for 28 runs in 53 balls, including 10 runs in one over. South Africa scored 575/6 in their first innings, with Tony de Zorzi (177), Viena Mulder (105), and Senuran Muthusamy (68) contributing centuries.
-
-🟩
-
-A rare incident took place today, the second day of the 2nd Test cricket match at the Zahur Ahmad Chaudhary Stadium between South Africa and Bangladesh.
-
-In the up -up match, Bangladesh got ten runs in one ball. But those runs were not received from the paddle.
-
-In response to South Africa, Bangladesh scored 5 runs before Bangladesh started their batting in the first innings.
-
-When South Africa won the first innings in the upting match, he was warned that Senuran Mutusamy was often running in the middle of the pitch.. Following that, he was fined 5 runs. Those five fine runs were the ones who got the runs before Bangladesh were bowled out.
-
-Bangladesh player Shadman Islam simply left the first ball of Kekiso Rabada out of Bangladesh. Meanwhile, the number board added 5 inam runs.
-
-The next ball beyond the wicketkeeper and crossed the border. With 5 more runs to join Bangladesh, a legal bowling was bowled by 10 runs.
-
-...
-
-[Data](articles/7b452606.json)
-
-[Extended Data](ext_articles/7b452606.ext.json)
-
----
-
-### Fraud to the country using the names of two famous liquor companies
-
-*2024-10-30 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202744) · `si`
-
-Fraud involving liquor company brands uncovered: Government accused of misusing labels, packaging, and equipment from two prominent liquor firms. Investigation reveals fake seals and bottling machinery. Owner arrested.
-
-🟩
-
-Ada Derana has received information that the government is using the brands of a public drinking and packaging the brand of two well-known liquor companies using a large number of liquor companies.
-
-According to the information that the illegal act was carried out in the Muthugala area in Dambadeniya, we wagerd up with a group of officers at the Kuliyapitiya area.
-
-There was a large number of labels, labels and moodi in the two liquor companies.
-
-It also found how specific bills of licensed libraries, as well as liquor testing equipment and standardized equipment and standard benchmark.
-
-Investigations have found a number of fake seals of 14 excisive inspectors in the country and a machine used to a sealing liquor bottles.
-
-The owner of the house was later arrested by the owner of the house.
-
-◼️
-
-[Data](articles/0bfbabf5.json)
-
-[Extended Data](ext_articles/0bfbabf5.ext.json)
-
----
-
-### First budget increases the salaries of the public servant - President
-
-*2024-10-30 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202743) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake announces salary increases for public servants in the upcoming budget. He emphasizes his administration's commitment to supporting government employees, citing their crucial role in national development.
-
-🟩
-
-President Anura Kumara Dissanayake says that the first budget will increase the salaries of public servants.
-
-The President made this observation addressing the public rally in Matara this afternoon.
-
-...
-
-[Data](articles/9103eaf8.json)
-
-[Extended Data](ext_articles/9103eaf8.ext.json)
-
----
-
-### 12 of the books of the Department of Motor Traffic
-
-*2024-10-30 19:31:30* · [`adalk`](https://www.ada.lk/breaking_news/මෝටර්-රථ-ප්‍රවාහන-දෙපාර්තමේන්තුවේ-පොත්-12ක්-අතුරුදන්/11-412764) · `si`
-
-Magistrate orders investigation into missing motor traffic registration books. Borella police to submit reports. Clergy complaint leads to inquiry. Police officers summoned for questioning. Commissioner's office notes investigated. Telephone managers ordered to provide phone details. Four arrested and produced in court.
-
-🟩
-
-Colombo Additional Magistrate Harrasana Kekunawela ordered the Borella Police (30) reports to the Borella Police (30).
-
-After considering the transfer of 12 non-completed books in the Trade Registration Division in the Commissioner of Motor Traffic, the Magistrate was sentenced to the investigation.
-
-Borella Police Officers who submitted a report indicated on a complaint made by a clergy of the commercial vehicle registration section of the Commissioner of the Commissioner's Office..V. Since the camera is installed, the office notes are being investigated by the fingerprints of the office.
-
-Borella Police Officers who have been asked to call for their eight-day calls for the investigations from September 25 to date from September 25.?Or he will investigate the identity of these books in awareness of a part of a party.
-
-...
-
-[Data](articles/cfc2d501.json)
-
-[Extended Data](ext_articles/cfc2d501.ext.json)
 
 ---

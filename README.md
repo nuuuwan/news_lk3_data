@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 20:12:15**
+As of **2024-10-31 20:24:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,412 (100.0%) of 52,414 articles have been extended.
+52,414 (100.0%) of 52,414 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ However, the prices of Petrol 92 Octane, Auto Diesel and Kerosene remain unchang
 ◼️
 
 [Data](articles/21dafc8f.json)
+
+[Extended Data](ext_articles/21dafc8f.ext.json)
 
 ---
 
@@ -92,17 +94,27 @@ Police had found the luxury car in question during an inspection carried out bas
 
 ---
 
-### ருஹுனு குமாரி தடம் புரண்டது
+### Ruhunu Kumari derailed
 
 *2024-10-31 19:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருஹுனு-குமாரி-தடம்-புரண்டது/175-346370) · `ta`
 
-மாத்தறையில் இருந்து இன்று (31) பிற்பகல் 3.40க்கு புறப்பட்ட ருஹுனு குமாரி விரைவு  ரயில் கிந்தோட்டையில் தடம் புரண்டது.
+Here's a summary of the text in approximately 200 characters:
 
-இதன் காரணமாக கரையோரப் பாதையில் கிந்தோட்டை புகையிரத நிலையத்தை கடந்து செல்லவிருந்த அனைத்து ரயில்களும் தாமதமாக இயக்கப்படலாம் என தெரிவிக்கப்படுகிறது. R
+
+
+Ruhunu Kumari train left Matara at 3:40 PM on 31st. This caused delays for other trains passing through Kindota station on the coastal route.
+
+🟩
+
+The Ruhunu Kumari fast train departed from Matara at 3.40 pm today (31).
+
+Due to this, all trains that crossed the Kindota railway station on the coastal road could be operated late.. Remble
 
 ◼️
 
 [Data](articles/c8c27784.json)
+
+[Extended Data](ext_articles/c8c27784.ext.json)
 
 ---
 
